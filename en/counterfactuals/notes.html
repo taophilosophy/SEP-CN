@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Counterfactuals &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/counterfactuals/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/counterfactuals/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=counterfactuals">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Counterfactuals</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ The actual pair in Adams 1970 is <em>If Oswald hadn&rsquo;t shot
+Kennedy, Kennedy would be alive today</em> and <em>If Oswald
+didn&rsquo;t shoot Kennedy, Kennedy is alive today</em>. Adams only
+claims that the former is <em>justified</em> while the latter is
+unjustified. Adams did not claim the former is true while the latter
+is false, as he denied conditionals could be true or false in the
+first place. See
+ <a href="index.html#ProbAnal">section 6.2</a>
+ and the entries on
+ <a href="../conditionals/">indicative conditionals</a>
+ and the
+ <a href="../logic-conditionals/">logic of conditionals</a>.</p>
+ </div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ These labels are used to distinguish two broad functional categories
+of verbal mood across languages that indicates different commitments
+toward the reality of the event described (Palmer 1986: &sect;1.1.2).
+Indicative indicates the clause is being committed to, while the
+subjunctive is noncommittal (it often includes imperatives, optatives,
+interrogatives). Some languages have a widely used subjunctive mood,
+but do not employ it in the relevant conditionals (Palmer 1986;
+Iatridou 2000). Many linguists working on non-Indo-European languages
+use the labels &ldquo;realis&rdquo; and &ldquo;irrealis&rdquo; in a
+related but different way (Palmer 1986: &sect;&sect;6-7). Stone (1997:
+8) suggests the terminology <em>remote</em> vs. <em>vivid</em>
+modality. von Fintel and Iatridou (2023) prefer the term
+&ldquo;X-marking&rdquo;, since subjunctive marking is also found in
+other constructions, such as wish reports and ought claims. Some
+theorists argue the indicative-subjunctive is more of a spectrum than
+a binary distinction (Comrie 1986).</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ This formulation of safety must be revised if we assume strong
+centering
+ (<a href="index.html#ClosSimi">section 5.1</a>).
+ For this reason, the most common formulation of safety does not
+appeal directly to counterfactuals, but does invoke ideas from the
+variably strict analysis of counterfactuals discussed in
+ <a href="index.html#VariStriAnal">section 5</a>:
+ <em>S</em>&rsquo;s belief that <em>P</em> is safe iff <em>P</em> is
+true at all nearby worlds where <em>S</em> believes that
+<em>P</em>.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ See Kant (1781: A533/B560&ndash;A558-B586) and Smilansky (2000) for
+something like this pragmatic view, and Pereboom (2014: 176&ndash;178)
+for criticisms of it.</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ Both notations have an important limitation: they combine the modal
+<em>would</em> and <em>if&hellip;then&hellip;</em> into a single
+connective. This makes it difficult to adequately represent certain
+subjunctive conditionals, e.g., <em>If Maya had run for Senator, she
+either would have been elected or she might have run again in the next
+election</em>. Because of this, some theorists advocate for semantic
+treatments of <em>if</em> and <em>were</em>/<em>would</em> as separate
+devices (Kratzer 2012; Starr 2014a; Khoo 2022).</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ Goodman thought the problem was especially acute for laws, as he saw
+no obvious way to specify which generalizations count as laws except
+that they support counterfactuals. However, this characterization of
+laws is controversial. See the entry on
+ <a href="../laws-of-nature/">laws of nature</a>.</p>
+ </div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ A further problem is that two facts can be individually cotenable
+with the antecedent but not collectively: e.g., <em>The room is
+dark</em> and <em>The room is dark only if I did not strike the
+match</em> are each true and compatible with the antecedent, but
+collectively they are incompatible with the antecedent.</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ Quine (1950: Ch.3) drew a different conclusion: he thought examples
+like
+ <a href="index.html#e-caesar">(10)</a>
+ simply cast doubt on the very idea of developing a systematic
+analysis of counterfactuals. Most scholars do not embrace
+Quine&rsquo;s skepticism, though see
+ <a href="index.html#CounSkep">section 7.1</a>
+ for a recent revival of Quinean skepticism.</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ Downward-monotonicity is also known as <em>antitonicity</em> or
+<em>anti-monotonicity</em>&nbsp;(not to be confused with
+<em>non-monotonicity</em>). Only the&nbsp;<em>antecedents</em> of
+counterfactuals&nbsp;appear to behave non-monotonically: the
+consequents of counterfactuals are (upward)-monotonic. So, strictly
+speaking, we should say counterfactuals are &ldquo;not
+downward-monotonic in their antecedents&rdquo;.&nbsp;That&rsquo;s a
+mouthful.&nbsp;We&rsquo;ll just say counterfactuals are
+&ldquo;non-monotonic&rdquo; to mean their antecedents are not
+downward-monotonic.</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ The auxiliary assumptions needed to prove these are mutually
+equivalent are as follows:</p>
+
+<ul>
+
+<li><strong>Identity:</strong> \(\vDash {{A}} \mathbin{&gt;}
+{{A}}\)</li>
+
+<li><strong>Entailment:</strong> if \({{B}}_1,\dots,{{B}}_n \vDash
+{{C}}\), then \({{A}} \mathbin{&gt;} {{B}}_1, \dots, {{A}}
+\mathbin{&gt;} {{B}}_n \vDash {{A}} \mathbin{&gt;} {{C}}\)</li>
+
+<li><strong>Replacement of Equivalent Antecedents (REA):</strong> if
+\(\vDash {{A}} \equiv {{B}}\), then \(\vDash ({{A}} \mathbin{&gt;}
+{{C}}) \equiv ({{B}} \mathbin{&gt;} {{C}})\)</li>
+
+<li><strong>Necessity Condition:</strong> \(\neg{{C}} \mathbin{&gt;}
+\bot \vDash {{A}} \mathbin{&gt;} {{C}}\)</li>
+
+<li><strong>Limited Transitivity:</strong> \({{A}} \mathbin{&gt;}
+{{B}}, ({{A}} \wedge {{B}}) \mathbin{&gt;} {{C}} \vDash {{A}}
+\mathbin{&gt;} {{C}}\)</li>
+</ul>
+
+<p>
+We leave it as an exercise to the reader to show the counterfactual
+fallacies are equivalent given these assumptions. <em>Hint:</em> First
+show that
+ <a href="index.html#p-sda">SDA</a>
+ is equivalent to
+ <a href="index.html#p-as">Antecedent Strengthening</a>
+ (use REA; see also
+ <a href="debates.html#SDAREA">section A.4</a>
+ of
+ <a href="debates.html">Debates over Counterfactual Principles</a>).
+ Then show that
+ <a href="index.html#p-as">Antecedent Strengthening</a>
+ implies
+ <a href="index.html#p-trans">Transitivity</a>
+ (use Limited Transitivity) and
+ <a href="index.html#p-contra">Contraposition</a>
+ (use Necessity Condition). Finally, show that
+ <a href="index.html#p-trans">Transitivity</a>
+ implies
+ <a href="index.html#p-sda">SDA</a>
+ and that
+ <a href="index.html#p-contra">Contraposition</a>
+ implies
+ <a href="index.html#p-sda">SDA</a>.</p>
+ </div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ Peirce (1896: 33) attributes this view to Philo the Logician, a
+member of the early Hellenistic Dialectical School. However, Bobzien
+and Duncombe (2023: &sect;3.1) presents Philo as a material
+implication theorist. For these historical issues see Sanford 1989:
+Ch.2; Zeman 1997; Copeland 2002.</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ For accessible introductions to modal logic, see Priest 2008, van
+Benthem 2010, Sider 2010, and the entry on
+ <a href="https://plato.stanford.edu/entries/logic-modal/">modal logic</a>.
+ For more advanced treatments, see Chellas 1980, Hughes and Cresswell
+1996, and Blackburn, de Rijke, and Venema 2001.</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ Note that <em>any</em> has another &ldquo;free choice&rdquo; use that
+is licensed outside of downward-monotonic environments. For example,
+one can say <em>You may choose any flavor of ice cream</em>, even
+though <em>may</em> is not downward-monotonic.</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ This statement of the ordering semantics assumes world-orderings are
+total. But it can be generalized to drop this assumption:</p>
+
+<p>
+<strong>Ordering Semantics (not assuming totality)</strong>
+<br />
+\({{A}} \mathbin{&gt;} {{C}}\) is true iff for every accessible
+\({{A}}\)-world \(w\), there is an \(({{A}} \wedge {{C}})\)-world
+\(v\) such that:</p>
+
+<ol type="i">
+
+<li>\(v\) is at least as close (to the actual world) as \(w\),
+and</li>
+
+<li>no \(({{A}} \wedge \neg{{C}})\)-world is at least as close as
+\(v\).</li>
+</ol>
+
+<p>
+This generalized semantics, without totality, is effectively
+equivalent to the premise semantics discussed in
+ <a href="index.html#PremSema">section 6.1</a>.</p>
+ </div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ Note that the limit assumption always holds in models where there is
+only finitely many worlds. Thus, the simplified formulation can always
+be used in place of the general formulation for finite cases. One only
+has to pay attention to the difference between them in infinite
+cases.</p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ <a href="index.html#p-trans">Transitivity</a> fails because \({{B}} \mathbin{&gt;} {{A}}\) and \({{A}}
+\mathbin{&gt;} {{C}}\) are true but \({{B}} \mathbin{&gt;} {{C}}\) is
+false.
+ <a href="index.html#p-contra">Contraposition</a>
+ fails because \({{A}} \mathbin{&gt;} \neg{{B}}\) is true while
+\({{B}} \mathbin{&gt;} \neg{{A}}\) is false.
+ <a href="index.html#p-sda">SDA</a>
+ fails because \(({{A}} \vee {{B}}) \mathbin{&gt;} {{C}}\) is true
+while \({{B}} \mathbin{&gt;} {{C}}\) is false.</p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ Note that the chanciness of this example is not essential. Sanford
+(1989: 173) gives the following example to illustrate this point:
+<em>If we had bought one more artichoke this morning, we would have
+had one for everyone at dinner tonight</em>.</p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ Francis Fairbairn (p.c.) points out that the counterexamples proposed
+by Kment (2006) and Wasserman (2006) assume that Lewis&rsquo;s second
+constraint requires maximizing not just <em>the continuous</em>
+spatio-temporal region of exact match before a small miracle, but
+match over subsequent regions discontinuous with the initial one too.
+It is somewhat difficult to see how that interpretation of
+Lewis&rsquo;s second constraint would adequately address the original
+future similarity objection.</p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ David Lewis (1973b: 65) refers to this as a
+&ldquo;metalinguistic&rdquo; theory of counterfactuals, though this is
+a misnomer: &ldquo;premises&rdquo; need not be understood as sentences
+but can instead be more &ldquo;worldly&rdquo; items such as
+propositions or facts.</p>
+</div>
+
+<div id="note-20">
+
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ H&aacute;jek (2025: 23) suggests context might supply a relevant
+reference time. Leitgeb (2012a: 67) suggests counterfactuals might
+contain a parameter for a reference time in their logical form.
+Kocurek (2022) effectively builds the relevant shift into the update
+operation on chance statements.</p>
+</div>
+
+<div id="note-21">
+
+<p>
+
+ <a href="index.html#ref-21">21.</a>
+ One can already see with this example how structural equation models
+can significantly reduce the number of values that must be stored. The
+corresponding joint probability distribution over 8 variables requires
+storing \(2^8=256\) probability values&mdash;one for each consistent
+conjunction of literals with these variables&mdash;while this Bayesian
+network would require only 18&mdash;one conditional probability for
+each consistent conjunction of literals with parent variables, and one
+for each of the two independent variables. See Sloman (2005: Ch.4) and
+Pearl (2009: Ch.1) for details.</p>
+</div>
+
+<div id="note-22">
+
+<p>
+
+ <a href="index.html#ref-22">22.</a>
+ By &ldquo;ordinary&rdquo;, H&aacute;jek simply means the
+counterfactuals one often hears in typical conversations. Usually,
+these are bare counterfactuals of the form \({{A}} \mathbin{&gt;}
+{{C}}\). By &ldquo;most&rdquo;, H&aacute;jek acknowledges that there
+may be exceptions, e.g., counterfactuals where the antecedent
+necessarily implies the consequent or where the consequent is
+probabilistically qualified, but he says these &ldquo;are typically
+<em>extraordinary</em>&mdash;rarified, recondite, recherch&eacute;
+counterfactuals that philosophers may occasionally traffic in, but not
+normal people&rdquo; (37&ndash;38).</p>
+</div>
+
+<div id="note-23">
+
+<p>
+
+ <a href="index.html#ref-23">23.</a>
+ What follows is a presentation of H&aacute;jek&rsquo;s most
+well-known argument, viz., the argument from chance. H&aacute;jek also
+presents other arguments for counterfactual skepticism, which, for
+reasons of space, we cannot cover in full depth. That said, one of the
+arguments, viz., from the underspecificity of antecedents, relies on
+two controversial principles
+ (<a href="index.html#p-sda">SDA</a>
+ and
+ <a href="debates.html#p-rea">REA</a>)
+ that collectively lead to
+ <a href="index.html#p-as">Antecedent Strengthening</a>,
+ which we discuss in
+ <a href="debates.html#SDAREA">section A.4</a>
+ in the supplement
+ <a href="debates.html">Debates over Counterfactual Principles</a>.
+ See Loewenstein 2021a,b and Schwarz 2025 for further discussion of
+this argument.</p>
+</div>
+
+<div id="note-24">
+
+<p>
+
+ <a href="index.html#ref-24">24.</a>
+ Kocurek (2022) observes that H&aacute;jek&rsquo;s argument employs
+principles that are subtly inconsistent with very modest auxiliary
+principles. Similarly, Boylan (2024) notes a parallel argument can be
+given for skepticism about the future, suggesting the argument
+overreaches. But these &ldquo;counterarguments&rdquo; do not yet say
+<em>where</em>, if anywhere, H&aacute;jek&rsquo;s argument goes wrong,
+though both Kocurek and Boylan provide positive diagnoses along these
+lines.</p>
+</div>
+
+<div id="note-25">
+
+<p>
+
+ <a href="index.html#ref-25">25.</a>
+ While examples like
+ <a href="index.html#e-water">(31)</a>
+ are standardly taken to be counterpossibles, not everyone agrees
+these &ldquo;counteridenticals&rdquo; are counterpossibles. See Ninan
+2012; Deigan 2017; Kauf 2018; Kocurek 2018.</p>
+</div>
+
+<div id="note-26">
+
+<p>
+
+ <a href="index.html#ref-26">26.</a>
+ While Kocurek and Jerzak spend most of the paper defending this view
+only for counterlogicals (counterfactuals with logically impossible
+antecedents), they suggest their arguments extend to all
+counterpossibles (695&ndash;698). Subsequent research has suggested it
+is possible to simulate as much hyperintensionality as other
+impossible worlds approaches using this strategy (Kocurek 2021,
+2024a,b).</p>
+</div>
+
+<div id="note-27">
+
+<p>
+
+ <a href="index.html#ref-27">27.</a>
+ Some authors distinguish counterlogicals, like <em>If it were both
+raining and not raining&hellip;</em>, whose antecedent is an explicit
+contradiction, from <em>countermetalogicals</em>, such as <em>If the
+law of excluded middle had failed&hellip;</em>, whose antecedent
+states a metalogical falsehood about, say, which logic is correct or
+which laws of logic hold. For ease of exposition, we&rsquo;ll use the
+label <em>counterlogical</em> for both kinds here.</p>
+</div>
+
+<div id="note-28">
+
+<p>
+
+ <a href="index.html#ref-28">28.</a>
+ Notable exceptions are typically classical languages, such as ancient
+Greek (J. Greenburg 1986: 249), classical Chinese (Harbsmeier 1981;
+Fung 2020), and classical Arabic (Ferguson et al. 1986: 6). Some
+languages use other grammatical devices besides tense to mark the
+subjunctive. For example, Russian marks subjunctives by combining
+&#1077;&#1089;&#1083;&#1080; (<em>if</em>) with a particle
+&#1073;&#1099; (<em>by</em>). Comrie (1986: 93) observes that
+Ngiyambaa marks counterfactuals with a clitic <em>-ma</em> in
+antecedent and consequent (he also observes there is no word for
+<em>if</em>; the antecedent is distinguished by the fact that it
+obligatorily precedes the consequent (p. 84)). Similarly, Bittner
+(2011) discusses Kalaallisut, which lacks tense and thus
+counterfactuals bear no morphological affinity with past; instead,
+counterfactuals are marked with a suffix <em>-galuar</em> in the
+antecedent and consequent.</p>
+</div>
+
+<div id="note-29">
+
+<p>
+
+ <a href="index.html#ref-29">29.</a>
+ Conversely, Khoo (2022) argues indicatives can have a metaphysical
+reading. Mackay (2023) provides a helpful overview of which
+distinctions do, and do not, align with the indicative-subjunctive
+divide.</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="http://wstarr.org" target="other">Willow Starr</a>
+&lt;<a href="m&#97;ilto:w&#37;2estarr&#37;40cornell&#37;2eedu"><em>w<abbr title=" dot ">&#46;</abbr>starr<abbr title=" at ">&#64;</abbr>cornell<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+<a href="https://www.actual.world/" target="other">Alex Kocurek</a>
+&lt;<a href="m&#97;ilto:akocurek&#37;40ucsd&#37;2eedu"><em>akocurek<abbr title=" at ">&#64;</abbr>ucsd<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

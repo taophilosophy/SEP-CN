@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Non-wellfounded Set Theory &gt; Additional related modeling of circularity (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/nonwellfounded-set-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/nonwellfounded-set-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nonwellfounded-set-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Non-wellfounded Set Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Additional related modeling of circularity</h2>
+
+<p>
+At this point, we have presented the main points in this entry: an
+introduction to the mathematics of hypersets and specifically to 
+work with the axiom  <em>AFA</em>, and an exploration of the conceptual
+dualities that appear to lie at the heart of the matter.
+In this supplement, 
+we want to mention briefly two matters related
+to the instances of circularity mentioned earlier.
+The goal here is to show how the perspective of coalgebra widens
+the scope of circular phenomena.    That is, the two sections below 
+represent treatments that use coalgebra more than hypersets.
+</p>
+
+<h3>Universal Harsanyi type spaces and coalgebraic modal logic</h3>
+
+<p>
+We mentioned in
+ <a href="harsanyi-type-spaces.html">our 
+ supplement on universal Harsanyi type spaces</a> 
+ the problem of finding
+<em>universal type spaces</em>.    We point out here that this
+amounts to finding a final coalgebra for a certain endofunctor on a certain 
+category.  Then we discuss what is known about this matter.  Finally,
+we bring matters back to the overall points of this entry.
+</p>
+
+ <p>
+ There are some
+clues that coalgebra could be connected
+to type spaces.   The first is that the notion of &ldquo;belief&rdquo;
+in the game theory literature is typically a probabilistic one.
+If we replace &ldquo;belief&rdquo; with &ldquo;knowledge&rdquo; above, then we have a
+very-well-studied notion, the formalization of knowledge by
+<em>possible worlds semantics</em>. 
+The mathematical structures for possible worlds semantics are
+sets  <em>W</em>  of <em>worlds</em> with two functions, one giving
+for each world
+ <em>w</em> &isin;  <em>W</em> some set of &ldquo;atomic propositions&rdquo; true at  <em>w</em>,
+and the other giving for each  <em>w</em> some set of worlds which are
+said to be &ldquo;possible from <em>w</em>&rdquo;.
+These structures are essentially the coalgebras in the category
+ <font face="Arial">Set</font> of sets of
+the  functor
+</p>
+
+<blockquote>
+<em>F</em>(<em>x</em>) = 
+&weierp;(<em>x</em>) &times;
+ &weierp;(<span class="scriptuc">A</span>tProp)
+</blockquote>
+
+<p>
+where  <span class="scriptuc">A</span>tProp  is a 
+ set of atomic propositions and  &weierp; is the power set functor on
+sets.
+What we have with type spaces looks similar, the main difference being
+that  &weierp;  is replaced by its counterpart &Delta;, replacing
+&ldquo;subsets&rdquo; by &ldquo;probability measures on&rdquo;.
+</p>
+
+<p>
+The second clue has to do with the role of the universal type  space
+in this field.
+Types are taken to be  elements of the universal
+type space.  In the universal type space   all possible types are uniquely
+represented, and the idea is that two
+types with exactly the same beliefs about the underlying world of
+&ldquo;nature&rdquo; plus
+the  types of the other players  are taken to be
+undistinguishable.  This is the same ideology as we find concerning 
+<em>final
+coalgebras</em>, in which (under suitable hypotheses) points with the same behavior are
+identified.
+</p>
+
+<p>
+The remainder of this section is a summary of what is known and a pointer
+to the literature, especially Heifetz and Samet (1998),
+Moss and Viglizzo (2006) and 
+Viglizzo (2005).
+</p>
+
+
+<p>
+
+The first relevant category is  <font face="Arial">Meas</font> , the category of measurable
+spaces and measurable functions between them.
+We have seen the definitions in 
+ <a href="harsanyi-type-spaces.html">the supplement on measurable spaces</a>.
+We also saw the definition of &Delta;(<em>M</em>), the set of probability
+measures on the space <em>M</em>.    What we did not see is the way
+&Delta; acts on morphisms to give a functor.    
+ If  
+  <em>f</em>  : <em>M</em> &rarr; <em>N</em> 
+is measurable,
+then for &mu; &isin; &Delta;(<em>M</em>)  and <em>A</em> &isin;  &Sigma;&prime;,
+</p>
+
+<blockquote>
+<p>
+(&Delta; f)(&mu;)(A) = &mu;(<em>f</em><sup>-1</sup>(<em>A</em>)).  
+ </p>
+ </blockquote>
+
+<p>
+That is,
+ (&Delta; f)(&mu;)  = &mu; &sdot; <em>f</em><sup>-1</sup>.
+</p>
+ 
+ <p>
+ The category  <font face="Arial">Meas</font> has products and coproducts.
+ The product space is the categorical product, and the coproduct
+ is given by disjoint unions.    However,  <font face="Arial">Meas</font>  does not preserve
+ weak pullbacks, and (worse)
+it does not preserve
+ &omega;<sup>op</sup> limits (see Viglizzo 2005).
+ We are not going to spell out the definitions here, but we mention them 
+ to point out that the failure of &Delta; to have various properties is
+ directly related to the difficulty of the problem of constructing 
+ universal type spaces; for functors with nicer properties, the result
+ comes more easy, and the  techniques are more well-known.
+ </p>
+ 
+ <p>
+  The class of <em>measure polynomial functors</em> is the smallest
+class of functors on <font face="Arial">Meas</font> containing  the identity,
+the constant spaces <em>M</em> and closed under
+products, coproducts,
+and &Delta;.
+ </p>
+ 
+ <blockquote>
+<p> <strong>Theorem </strong> Every measure polynomial functor has a final coalgebra.
+</p> </blockquote>
+ 
+ <p>
+ This result is not quite what we want in the formalization of
+ universal type spaces.   For one thing, there are no &ldquo;players&rdquo; around.
+ We'll discuss matters for the case of two players; the more general case is basically
+ the same.
+  We repeat our earlier   definition of a two-player type space:
+it is a tuple  (<em>M</em>, &sigma;, N, &tau;), where <em>M</em>
+and <em>N</em> are measurable spaces, and 
+</p>
+
+ <blockquote>
+<p>
+ <em>&sigma;</em> &thinsp; : &thinsp;<em>M</em> &rarr;  &Delta;(<em>S</em>
+ &times; <em>N</em>) 
+ <br/> 
+  <em>&tau;</em> &thinsp; : &thinsp;<em>N</em> &rarr;  &Delta;(<em>S</em>
+ &times; <em>M</em>) 
+</p> </blockquote>
+
+<p>
+Now we first of all want to reformulate this in terms of coalgebras.
+We fix <em>S</em> and  take as our category <em>C</em> the category of pairs
+ (<em>M</em>, <em>C</em>)
+of measurable spaces, 
+with a  morphism  from  
+(<em>M</em><sub>1</sub>, <em>N</em><sub>1</sub>)
+ to 
+ (<em>M</em><sub>2</sub>, <em>N</em><sub>2</sub>)
+  just being a pair
+of morphisms (<em>f</em>, <em>g</em>), where 
+  <em>f</em> &thinsp; : &thinsp;<em>M</em><sub>1</sub>
+   &rarr; <em>M</em><sub>2</sub>
+and
+ <em>g</em> &thinsp; : &thinsp;<em>N</em><sub>1</sub>
+   &rarr; <em>N</em><sub>2</sub>
+We have an endofunctor 
+ <em>&Delta;</em> &thinsp; : &thinsp;<em>C</em>
+   &rarr; <em>C</em>
+    given by
+   </p>
+
+<blockquote>
+<table cellpadding="3">
+<tr>
+<td>
+ &Delta;(<em>M</em>, <em>N</em>)
+</td> <td> &thinsp; = &thinsp;  </td>  
+<td> 
+(&Delta;(<em>S</em> &times; <em>N</em>),  
+      &Delta;(<em>S</em> &times; <em>M</em>))
+       </td>
+    </tr>  
+    <tr>
+    <td>&Delta;(<em>f</em>, <em>g</em>) </td>
+<td>  &thinsp; = &thinsp;   </td>  
+<td> ((id<sub><em>S</em></sub> &times; <em>g</em>), 
+         ((id<sub><em>S</em></sub> &times;  <em>f</em>)) 
+</td> </tr>
+</table>
+</blockquote>
+
+<p>
+In these terms, we can say that a type space is a coalgebra of &Delta; on <em>C</em>.
+Further,  every  morphism between type spaces preserves the modal language
+of probabilistic belief which we discussed 
+in 
+<a href="harsanyi-type-spaces.html">
+our earlier supplement on universal Harsanyi type spaces</a>.   In fact, these
+coalgebra morphisms had been considered in the literature earlier, before the 
+connection to coalgebra was realized.    Similarly, the matter of constructing a
+universal type space had been re-cast into that of constructing a  final
+coalgebra (but not under that exact name) for &Delta; on <em>C</em>.
+</p>
+
+<p>
+Most efforts to find such a final coalgebra had gone proceeded along a 
+well-worn path of <em>finality via infinite iteration</em>.   Categorically,
+this means taking an &omega;<sup>op</sup>-limit of the sequence obtained by
+iterating the functor, beginning with a final object.    However, this 
+functor &Delta; lacks some properties needed to make this construction
+work.    The breakthrough came in Heifetz and Samet (1998).
+The point is that one can take the idea seriously that final coalgebras are 
+like the records of possible observations of a system.   Taking the idea seriously
+means that in the absence of a known final coalgebra, one may attempt to 
+construct one out of the theories of all points in all coalgebras.    The pleasant 
+surprise is that this works.    From the point of view of this entry, this suggests that
+the
+ <a href="index.html#chart">
+chart of dualities</a> might be of some help in solving mathematical
+problems.     The construction of Heifetz and Samet (1998)
+was generalized to the coalgebraic setting in Moss and Viglizzo (2006).
+</p>
+
+
+ 
+<h2>Fractal sets and completely iterative algebras</h2>
+
+<p>
+Our final topic is the link between the mathematics of hypersets
+and coalgebras on the one hand, and fractal sets on the 
+other.<sup>[<a href="notes.html#sup-note-14" id="ref-14">14</a>]</sup>
+</p>
+
+<p>
+<strong>Completely iterative algebras</strong>
+Let <em>F</em> be an endofunctor on a category <em>C</em>
+ with coproducts.
+A <em>completely iterative algebra</em> (<em>cia</em>)  for 
+<em>F</em>
+ is an algebra  (<em>A</em>, <em>a</em>)
+for <em>F</em>
+such that for all
+<em>e</em> &thinsp; : &thinsp;<em>X</em> &rarr; <em>FX</em> + <em>A</em>,
+there is a unique 
+ <em>e</em><sup>&dagger;</sup> &thinsp; : &thinsp;<em>X</em> &rarr; <em>A</em>
+such that the diagram below commutes:
+</p>
+
+<!--pdf include
+<br /><br />
+pdf include-->
+
+<blockquote>
+<table border="0" cellspacing="4" cellpadding="4">
+<tr>
+<td></td>
+<td valign="bottom"><em>X</em></td>
+<td align="center"><small><em>e</em></small><br />&rarr;</td>
+<td valign="bottom"><em>FX</em> + <em>A</em></td>
+</tr>
+
+<tr>
+<td><small><em>e</em><sup>&dagger;</sup></small></td>
+<td valign ="top">&darr;</td>
+<td></td>
+<td>&darr; &nbsp;<small><em>Fe</em><sup>&dagger;</sup> + <em>id</em><sub><em>A</em></sub></small></td>
+</tr>
+
+<tr>
+<td></td>
+<td valign="top"><em>A</em></td>
+<td align="center">&larr;<br /><small>[<em>a</em>, <em>id</em><sub><em>A</em></sub>]</small></td>
+<td valign="top"><em>FA</em> + <em>A</em> </td>
+</tr>
+</table>
+</blockquote>
+
+
+<p>
+There are two main kinds of examples for us.
+The first is  from set theory.   We take <em>C</em> to be 
+<font face="Arial">Class</font>, 
+<em>F</em> to be  &weierp;,
+and  (<em>A</em>, <em>a</em>)  to be (<em>V</em>, <em>i</em>).
+(Here, as earlier, 
+<em>i</em> &thinsp; : &thinsp; &weierp;<em>V</em> &rarr; 
+<em>V</em> is the identity,
+regarding a set of sets as a set.)
+ Assuming  <em>AFA</em>, we have a cia.    This is the content of
+ the Extended Graphs Theorem: what we called an
+ extended graph corresponds to a function of the form
+ <em>e</em> &thinsp; : &thinsp;<em>G</em> &rarr; &weierp; <em>G</em>
+  + <em>V</em>,  and a decoration corresponds to <em>e</em><sup>&dagger;</sup>.
+</p>
+
+<p>
+The fact that the universe  (<em>V</em>, <em>i</em>)
+ is a cia extends in two ways.
+First, every final coalgebra of any functor on any category is a cia,
+provided the category has a coproduct operation +.
+And returning to  <font face="Arial">Class</font>, the universe 
+(<em>V</em>, <em>i</em>)
+is a cia of many other functors, including all of the power polynomials.
+This is the connection of the concept from this section to set theory.
+</p>
+
+<p>
+It is the second kind of cia examples which connect our topic to fractal
+sets.   We briefly recall a few definitions concerning metric spaces.
+</p>
+
+
+<p>
+A <em>metric space</em> is a pair  (<em>X</em>, <em>d</em>)
+ where <em>X</em> is a set,
+and 
+  <em>d</em> &thinsp; : &thinsp;<em>X</em> &times; <em>X</em> &rarr; <em>R</em>
+has the following distance-like properties:
+</p>
+
+<ol>
+<li>  <em>d</em>(<em>x</em>, <em>y</em>) = 0  iff  
+<em>x</em> = <em>y</em>.
+</li>
+<li> <em>d</em>(<em>x</em>, <em>y</em>) 
+= 
+<em>d</em>(<em>y</em>, <em>x</em>). 
+</li>
+<li>   <em>d</em>(<em>x</em>, <em>z</em>)  &le;
+<em>d</em>(<em>x</em>, <em>y</em>)   +
+<em>d</em>(<em>y</em>, <em>z</em>).
+</li>
+</ol>
+<p>
+
+A sequence
+<em>x</em><sub>0</sub>, 
+<em>x</em><sub>1</sub>, 
+<em>x</em><sub>2</sub>, &hellip; <em>converges to</em>   <em>y</em> if for every &epsilon; 
+&gt;  0
+there is some natural number
+<em>n</em>
+ such that for all <em>m</em> &gt; <em>n</em>,
+<em>d</em>(<em>x</em><sub>n</sub>, <em>y</em>) &lt; &epsilon;.
+A <em>Cauchy sequence</em> in  <em>X</em>
+is a sequence of points
+ with the property that for every &epsilon; &gt; 0
+there is some number
+<em>N</em> such that for 
+<em>m</em>,
+<em>n</em>
+> <em>N</em>,
+<em>d</em>(<em>x</em><sub><em>m</em></sub>, 
+    <em>x</em><sub><em>n</em></sub>) &lt; &epsilon;.
+A metric space is <em>complete</em> if every Cauchy sequence in it
+has a limit; this limit is then unique.</p>
+
+<p>
+ Let (<em>X</em>, <em>d</em>)
+ be a complete metric
+    space. Consider the set <em>C</em>(<em>X</em>)
+     of all non-empty compact subspaces of <em>X</em>
+    together with the <em>Hausdorff metric</em> <em>h</em>; for two compact subsets
+ <em>A</em> and <em>B</em> of <em>X</em>
+</p>
+
+<blockquote>
+<p>
+<em>h</em>(<em>A</em>, <em>B</em>) &thinsp; =  &thinsp;
+ max 
+     {<em>d</em>(<em>A</em> &rarr; <em>B</em>), 
+     <em>d</em>(<em>B</em> &rarr; <em>A</em>}
+</p>
+</blockquote>
+
+<p>
+where <em>d</em>(<em>A</em> &rarr; <em>B</em>)
+ = max<sub><em>a</em> &isin; <em>A</em></sub>  
+ min<sub><em>b</em> &isin; <em>B</em></sub> 
+ <em>d</em>(<em>a</em>, <em>b</em>).
+ (<em>C</em>(<em>X</em>), <em>h</em>)  is then a complete metric
+    space. 
+</p>
+
+
+<p>
+<span style="font-family:Arial">CMS</span> is the category
+  of complete metric spaces with distances measured in the interval [0,1]
+  together with 
+  maps 
+  <em>f</em> &thinsp; : &thinsp;<em>X</em> &rarr; <em>Y</em>
+ such that  <em>d</em><sub><em>Y</em></sub>(<em>fx</em>, <em>fy</em>)
+  &le; <em>d</em><sub><em>X</em></sub>(<em>x</em>, <em>y</em>)
+  for all <em>x</em>, <em>y</em> &isin; <em>X</em>.
+These maps are called <em>non-expanding</em>.
+A stronger condition is that <em>f</em> be
+  <em>&epsilon;-contracting</em>: for some &epsilon; &lt; 1
+   we have that 
+   <em>d</em><sub><em>Y</em></sub>(<em>fx</em>, <em>fy</em>)
+  &le; &epsilon;  &sdot;
+  <em>d</em><sub><em>X</em></sub>(<em>x</em>, <em>y</em>)
+  for all <em>x</em>, <em>y</em> &isin; <em>X</em>. 
+  If 
+  <em>f,g</em> &thinsp; : &thinsp;<em>X</em> &rarr; <em>Y</em>,
+   we measure the distance between
+  <em>f</em> and <em>g</em>
+   by taking
+  the supremum of 
+  <em>d</em><sub><em>Y</em></sub>(<em>fx</em>, <em>gx</em>)
+   as <em>x</em>
+   ranges over <em>X</em>.   We write this as
+<em>d</em>(<em>f</em>, <em>g</em>).
+A functor <em>F</em> on  <span style="font-family:Arial">CMS</span> is called
+ &epsilon;-<em>contracting</em> if     there exists a constant &epsilon; &lt; 1  such that 
+  for all non-expanding maps
+  <em>f,g</em> &thinsp; : &thinsp;<em>X</em> &rarr; <em>Y</em>,
+  <em>d</em>(<em>Ff</em>, <em>Ff</em>)
+&le; 
+&epsilon; &sdot;  <em>d</em>(<em>f</em>, <em>g</em>)
+ </p>
+
+<blockquote>
+<p>
+<strong>Theorem</strong> [Ad&aacute;mek and Reitermann (1994)]
+  Let <em>F</em>
+   be a contracting endofunctor on the category  <span style="font-family:Arial">CMS</span> of
+    complete metric spaces. Then every non-empty
+    <em>F</em>-algebra  (<em>A</em>, <em>a</em>) is completely iterative.  
+</p>
+</blockquote>
+
+    
+<p>
+<strong>An example</strong>
+   Here is an example which is mathematically suggestive.
+We use the cia property to show that every system of equations like
+the one below has a <em>unique</em> solution
+in the unit interval of real numbers <em>I</em>= [0,1].
+</p>
+
+<blockquote>
+<table cellpadding="3">
+<tr>
+<td valign="top">(2)</td>
+<td><em>x</em><sub>1</sub> &asymp; 
+ .5 <em>x</em><sub>2</sub>    </td>
+</tr>
+
+
+<tr>
+<td></td>
+<td><em>x</em><sub>2</sub>   &asymp;  
+ .5 <em>x</em><sub>3</sub>  + .5 <em>x</em><sub>5</sub>   </td>
+</tr>
+
+<tr>
+<td></td>
+<td><em>x</em><sub>3</sub>   &asymp;  
+.5 <em>x</em><sub>2</sub>  +  <em>x</em><sub>5</sub>   </td>
+</tr>
+
+
+<tr>
+<td></td>
+<td><em>x</em><sub>4</sub>   &asymp;  
+.5 <em>x</em><sub>5</sub>   + <em>x</em><sub>5</sub>   </td>
+</tr>
+
+<tr><td></td><td>&hellip; </td> </tr>
+
+
+
+</table>
+</blockquote>
+
+
+
+
+
+<p>
+Let <em>F</em> be the functor on  <span style="font-family:Arial">CMS</span>
+ taking a space 
+ (<em>X</em>, <em>d</em>)  to the space
+ (<em>X</em> + <em>X</em>, <em>d</em><sup>*</sup>), where <em>d</em><sup>*</sup>
+ measures distances in the same
+copy of <em>X</em> by taking half the corresponding distance in 
+ (<em>X</em>, <em>d</em>)
+ ; otherwise,  <em>d</em><sup>*</sup>(<em>x</em>, <em>y</em>) = 1.
+ </p>
+ 
+ <p>
+ We use the following example 
+ (<em>I</em>, <em>a</em>) of an algebra for  <em>F</em>: 
+ <em>I</em>= [0,1], and
+ <em>a</em>&thinsp;:&thinsp;<em>FI</em> &rarr; <em>I</em> 
+ is
+ given by <em>a</em>(<font face="Arial">inl</font>(x)) = .5 <em>x</em>, and
+ <em>a</em>(<font face="Arial">inr</font>(x)) = .5 <em>x</em> + .5.
+</p>
+
+<p>
+So (<em>I</em>, <em>a</em>) is a cia for <em>F</em>. 
+We use this, taking <em>X</em>
+ to be our set of variables, made into a metric space by 
+setting 
+<em>d</em>(<em>x</em><sub><em>m</em></sub>, 
+    <em>x</em><sub><em>n</em></sub>) = 1
+    unless <em>n</em> = <em>n</em>.    We define 
+ <em>e</em>&thinsp;:&thinsp;<em>X</em> &rarr; <em>FX</em> + <em>I</em> 
+as suggested from our example above: 
+<em>e</em>(<em>x</em><sub>1</sub>) =
+
+<em>e</em>(<em>x</em><sub>1</sub>) = 
+<font face="Arial">inl</font>(<font face="Arial">inl</font>(<em>x</em><sub>2</sub>)), 
+<em>e</em>(<em>x</em><sub>1</sub>) = <font face="Arial">inl</font>(<font face="Arial">inr</font>(<em>x</em><sub>3</sub>)), etc.   This particular system does not use
+ the <em>I</em>
+ summand, and the 
+ <font face="Arial">inr</font>   and <font face="Arial">inl</font> just code whether the 
+ &ldquo; + .5 &rdquo; appears on the right of the equation.
+ </p>
+ 
+ <p>
+ Then the cia property gives a unique solution map 
+  <em>e</em><sup>&dagger;</sup> &thinsp; :&thinsp;<em>X</em> &rarr; <em>I</em>.
+ Tracing through the definitions of the functions involved shows that this
+ is the desired solution.
+</p>
+
+<p>
+<strong>The Cantor set, again</strong>
+Let 
+<em>I</em>
+ be the unit interval  [0,1] , an object in  <span style="font-family:Arial">CMS</span>.
+The Cantor &ldquo;middle third&rdquo; set 
+<em>c</em>
+ may be
+     obtained via the cia structure on <em>C</em>(<em>I</em>), 
+     the space of compact subsets of <em>I</em>
+     with a metric as defined earlier in this supplement.
+   </p>
+   
+   <p>
+   We take for 
+    <em>F</em> &thinsp; : &thinsp;<em><span style="font-family:Arial">CMS</span></em>
+   &rarr; <em><span style="font-family:Arial">CMS</span></em>
+      the functor which takes
+     a metric space 
+      (<em>X</em>, <em>d</em>)
+       to  (<em>X</em>,1/3 &sdot; <em>d</em>).   This is 1/3-contracting, and
+     we use the non-empty <em>F</em>-algebra (<em>C</em>(<em>I</em>), &alpha;), where 
+     </p>
+<blockquote>
+<p> &alpha;(<em>S</em>)
+&thinsp; = &thinsp;     (1/3 &sdot; <em>S</em>)    &cup; (2/3 +   1/3 &sdot; <em>S</em>).
+   </p>
+ </blockquote>
+ <p>    
+To use the cia structure, let <em>X</em>
+be a one-point space, and then 
+let
+ <em>e</em> &thinsp; : &thinsp;<em>X</em> &rarr; <em>X</em> + <em>C</em>(<em>I</em>)
+ be  <font face="Arial">inl</font>.   Then the solution    
+    is a map 
+  <em>e</em><sup>&dagger;</sup> &thinsp; : &thinsp;<em>X</em> &rarr; <em>C</em>(<em>I</em>).    
+ Its value on the point of <em>X</em>
+     is then
+    some <em>c</em> &isin; <em>C</em>(<em>I</em>) such that 
+    <em>c</em> = 1/3 &sdot; <em>c</em>    &cup; (2/3 +   1/3 &sdot; <em>c</em>),
+  just as desired.
+     The uniqueness of <em>c</em> then also follows from the uniqueness of
+     solutions in cias.
+     </p>
+         
+
+
+ 
+<p>
+<strong>The explanation</strong>
+It might be useful to see why an equation like 
+  <em>c</em> =   <em>c</em> /3  &cup;   2/3 +   <em>c</em>/3
+  is related to
+the procedure of removing the middle third from each element in a collection
+of intervals.
+</p>
+
+<p>
+Let <em>X</em>  be the set of non-empty
+compact subsets of [0,1].    We define a function 
+ <em>f</em> &thinsp; : &thinsp;<em>X</em> &rarr; <em>X</em> 
+by 
+</p>
+
+<blockquote>
+<p>
+ <em>f</em>(<em>f</em>)  &thinsp; = &thinsp;   
+ (1/3 &sdot; <em>a</em>)    &cup; (2/3 +   1/3 &sdot; <em>a</em>)
+</p>
+</blockquote>
+
+<p>
+We want to solve <em>x</em> &asymp;   <em>f</em>(<em>x</em>).
+We start 
+with an arbitrary <em>f</em>  &isin; <em>A</em>.
+Then we form a sequence
+</p>
+
+<blockquote>
+<table cellpadding="3">
+<tr>
+<td>
+<em>c</em><sub>0</sub>
+</td>
+<td> &thinsp; = &thinsp; </td>
+<td> <em>a</em></td>
+</tr>
+<tr>
+<td> <em>c</em><sub><em>n</em>+1</sub>
+</td>
+<td> &thinsp; = &thinsp; </td>
+<td> <em>f</em>(<em>c</em><sub><em>n</em></sub>(<em>a</em>))</td>
+</tr>
+</table>
+</blockquote>
+
+<p>
+The space 
+<em>X</em> 
+has enough limits (this is where completeness enters),
+and the sequence 
+<em>c</em><sub><em>n</em></sub>(<em>a</em>)
+ is a Cauchy sequence in it.   And so we have 
+ around to guarantee that it will have a limit.
+ Call this limit <em>a</em><sup>*</sup> .   Since <em>f</em> 
+ is continuous, we have 
+ </p>
+
+ <blockquote>
+ <p>
+<em>f</em>(<em>a</em><sup>*</sup>)
+ &thinsp; = &thinsp;
+ <em>f</em>(<em>lim</em><sub><em>n</em></sub><em>c</em><sub><em>n</em></sub>(<em>a</em>))
+ &thinsp; = &thinsp;
+  <em>lim</em><sub><em>n</em></sub><em>f</em>(<em>c</em><sub><em>n</em></sub>(<em>a</em>))  
+   &thinsp; = &thinsp;
+<em>lim</em><sub><em>n</em></sub>
+ <em>c</em><sub><em>n</em>+1</sub>(<em>a</em>) 
+  &thinsp; = &thinsp;
+ <em>a</em><sup>*</sup>. 
+</p>
+</blockquote>
+
+<p>
+ Thus <em>a</em><sup>*</sup> 
+ is a solution to our equation, as desired. 
+   But the function 
+<em>f</em> 
+    is actually, contracting
+ in certain precise sense, and so by a standard metric argument, 
+<em>a</em><sup>*</sup> 
+ will not depend on <em>a</em>: starting the iteration at any
+ non-empty compact set would give the same result.   
+ </p>
+ 
+ <p>
+This follows iterative definition of the
+ Cantor set.     Let's take <em>a</em> to be  [0,1]  itself.  
+ Note that removing the middle-third of  [0,1]  is gives <em>f</em>(<em>a</em>).
+ That is, rather than think of removal, think of shrinking the
+ interval by one-third, putting one piece on  [0,1/3]  and the other
+ on  [2/3, 1] .  It just so happens that these operations produce the
+ same thing.   And this coincidence persists at the second step:
+  <em>f</em>(<em>f</em>(<em>a</em>))
+   consists of the four pieces  [0,1/9] ,
+  [2/9, 1/3], [2/3, 7/9],
+ and  [8/9, 1].   So the iterative method is giving  us the 
+ terms of the iteration sequence beginning with  [0,1].   Finally,
+ the iteration sequence <em>beginning with</em>   [0,1]
+ is a shrinking sequence
+ of sets, and then by the way limits are calculated in <em>X</em>, the limit
+ is exactly the intersection of the shrinking sequence. 
+ </p>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2018</a> by
+
+<br />
+<a href="http://www.indiana.edu/~iulg/moss/" target="other">Lawrence S. Moss</a>
+&lt;<a href="m&#97;ilto:lmoss&#37;40indiana&#37;2eedu"><em>lmoss<abbr title=" at ">&#64;</abbr>indiana<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Causal Determinism &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/determinism-causal/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/determinism-causal/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=determinism-causal">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Causal Determinism</a></h2>
+
+<div id="note-1">
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ Thanks go to Eddy Chen for questioning the claim, in earlier editions of
+this article, that Leibniz&rsquo;s PSR is the historical root of the
+notion of determinism. Chen (forthcoming) discusses the connections
+between PSR and both determinism and what he calls &ldquo;strong
+determinism&rdquo;. Strong determinism holds if the fundamental laws
+in our world determine all events at all times, on their own (i.e.,
+without the need of a separate postulated initial condition or
+&ldquo;way things are at time <em>t</em>&rdquo;.</p>
+</div>
+
+<div id="note-2">
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ Some philosophers are misled on this point by the fact that some
+now-defunct presentations of Special Relativity theory seem to be
+grounded on an ontology of events. But Special Relativity does not
+need to be so presented, nor were the &ldquo;events&rdquo; used
+anything like common sense events.</p>
+</div>
+
+<div id="note-3">
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ The talk here of prediction is intuitive but sloppy. What we should
+say is: none of the states of the world before <em>t</em> = 0,
+conjoined with the laws of CM, entailed the appearance of the space
+invader at <em>t</em> = 0.</p>
+</div>
+
+<div id="note-4">
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ To create a cylindrical, spatially finite version of 2-D Newtonian
+space-time, one draws two vertical lines (e.g. <em>x</em> = 0 and
+<em>x</em> = <em>a</em>), cuts and throws away everything to the left
+of one and to the right of the other, and identifies the two lines,
+thus making space finite and closed. In this space-time setting, to
+power the space invader we can&rsquo;t use the non-collision mechanism
+of Gerver and Xia; see Earman (1986), p. 45.</p>
+</div>
+
+<div id="note-5">
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ Tachyons are hypothesized faster-than-light particles; there is no
+experimental basis for them, so ruling them out is no sin.</p>
+</div>
+
+<div id="note-6">
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ In GTR, a model system consists of a point manifold <em>M</em> on
+which a metric tensor <strong>g<sup>ab</sup></strong> is defined, as
+well as a stress-energy tensor <strong>T<sup>ab</sup></strong> (which
+can be everywhere zero), jointly satisfying Einstein&rsquo;s field
+equations. The mathematical property of general covariance possessed
+by Einstein&rsquo;s equations entails that from one valid model system
+&lt;<em>M</em>, <strong>g <sup>ab</sup></strong>,
+<strong>T<sup>ab</sup></strong>&gt;, we can produce another model in
+which <strong>T <sup>ab</sup></strong> and
+<strong>g<sup>ab</sup></strong> have been altered by the
+diffeomorphism <em>h*</em> : &lt;<em>M</em>,
+<em>h*</em><strong>g<sup>ab</sup></strong>,
+<em>h*</em><strong>T<sup>ab</sup></strong>&gt;. This new model is also
+a valid solution of Einstein&rsquo;s equations, but it describes a
+model in which the location of the metrical structures and material
+fields of <strong>T<sup>ab</sup></strong> and
+<strong>g<sup>ab</sup></strong> have been given different locations on
+the manifold. (They have been "shifted around", one might say, on the
+space-time manifold.) It is easy to construct a diffeomorphism
+<em>h*</em> that shifts the locations of <strong>T
+<sup>ab</sup></strong> and <strong>g<sup>ab</sup></strong> only
+<em>after</em> some global time-slice <em>t</em> = 0 (at least, in
+models that admit such slices -- i.e., the GTR equivalent of our
+familiar &ldquo;state of the world at time <em>t</em> =
+0.&rdquo;).</p>
+</div>
+
+<div id="note-7">
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ Quantum mechanics describes physical systems by means of states that
+are, notoriously, in some sense incomplete, a charge leveled against
+the theory by Einstein, Podolsky and Rosen in their famous 1935 essay
+&ldquo;Can the Quantum Mechanical Description of Reality Be Considered
+Complete?&rdquo;. This is most commonly illustrated by appeal to the
+Heisenberg Uncertainty Principle (in one of its forms): if the
+position of a particle is specified precisely, then its momentum must
+be unknown (i.e., described by a state such that the probabilities of
+the particle having a certain momentum are spread out over a wide
+range of possible values), and vice-versa. Quantum mechanics as
+normally interpreted says that these states are as complete a
+description as one can possibly get. A <em>hidden variable theory</em>
+however postulates the existence of determinate values for
+system-variables such as position and momentum, despite their being
+&ldquo;hidden&rdquo; from quantum mechanics itself. Einstein believed
+that ultimately we would find such a theory; David Bohm did precisely
+that, in 1952 (see below, main article).</p>
+</div>
+
+<div id="note-8">
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ There are theorems proving that for certain kinds of Hamiltonians
+(including most of those that may be considered physically realistic),
+the evolution of the wavefunction under the Schr&ouml;dinger equation
+is deterministic. The theorems have other antecedent conditions that
+may be considered restrictive, however, and see J. Norton, "A Quantum
+Mechanical Supertask," Foundations of Physic, 29 (1999), 1265-1302 for
+a case in which determinism breaks down. [I thank an anonymous referee
+for drawing my attention to these points.]</p>
+</div>
+
+<div id="note-9">
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ In the 1980s the physicists Girardi, Rimini and Weber developed a
+revised version of QM that incorporates a physically well-defined
+collapse mechanism. Their theory solves certain interpretive problems
+in QM but has remaining difficulties; it is an indeterministic
+theory.</p>
+</div>
+
+<div id="note-10">
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ Here I am not referring to the time <em>directions</em>
+(toward-the-past, toward-the-future), which are certainly legitimate
+enough in physics and do sometimes play important roles. Rather, I am
+referring to our intuitive <em>ontological</em> division of history
+into the past, the present, and the future. &ldquo;The present&rdquo;
+in particular is not to be found in any physical theory&rsquo;s
+description of the world. And relativity theory undermines the
+traditional conception of a non-observer-relative present (see
+Callender 2017).</p> 
+</div>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://www.icrea.cat/community/icreas/17409/carl-hoefer/" target="other">Carl Hoefer</a>
+&lt;<a href="m&#97;ilto:carl&#37;2ehoefer&#37;40ub&#37;2eedu"><em>carl<abbr title=" dot ">&#46;</abbr>hoefer<abbr title=" at ">&#64;</abbr>ub<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

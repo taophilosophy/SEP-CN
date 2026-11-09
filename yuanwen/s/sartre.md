@@ -1,0 +1,645 @@
+# Jean-Paul Sartre
+**First published Sat Mar 26, 2022; substantive revision Fri Jul 10, 2026**
+
+*Reynolds, Jack, Renaudie, Pierre-Jean*
+
+Few philosophers have been as famous in their own life-time as Jean-Paul Sartre (1905–80). Many thousands of Parisians packed into his public lecture, *Existentialism is a Humanism*, towards the end of 1945 and the culmination of World War 2. That lecture offered an accessible version of his difficult treatise, *Being and Nothingness* (1943), which had been published two years earlier, and it also responded to contemporary Marxist and Christian critics of Sartre’s “existentialism”. Sartre was much more than just a traditional academic philosopher, however, and this begins to explain his renown. He also wrote highly influential works of literature, inflected by philosophical concerns, like *Nausea* (1938), *The Roads to Freedom* trilogy (1945–49), and plays like *No Exit* (1947), *Flies* (1947), and *Dirty Hands* (1948), to name just a few. He founded and co-edited *Les Temps Modernes* and mobilised various forms of political protest and action. In short, he was a celebrity and public intellectual par excellence, especially in the period after Liberation through to the early 1960s. Responding to some calls to prosecute Sartre for civil disobedience, the then French President Charles de Gaulle replied that you don’t arrest Voltaire.
+
+While Sartre’s public renown remains, his work received less academic attention from the 1970s through the 1990s, especially in France with the rise of post-structuralism. Although Gilles Deleuze dedicated an article to his “master” in 1964 in the wake of Sartre’s attempt to refuse the Nobel Prize for literature (Deleuze 2004)[^deleuze-2004], Michel Foucault influentially declared Sartre’s late work was a “magnificent and pathetic attempt of a man of the nineteenth century to think the twentieth century” (Foucault 1966 [1994: 541–2])[^foucault-1966][^note-1]. In similar fashion, a decade after Sartre’s death, Jacques Derrida expressed some bemusement about his fame[^note-2]. Since the centenary of Sartre’s birth in 2005, however, a revival of Sartrean scholarship has emerged, giving rise to the publication of major collections (Webber 2011, Eshleman and Mui 2020, Morag 2024)[^eshleman-2020][^morag-2024][^morag-2024-2][^webber-2011] and a new English translation of *Being and Nothingness* (Richmond 2018). In this entry, we seek to show what remains alive and of ongoing philosophical interest in Sartre, covering many of the most important insights of his most famous philosophical book, *Being and Nothingness*. In addition, significant parts of his oeuvre remain under-appreciated and thus we seek to introduce them. Little attention has been given to Sartre’s earlier, psychologically motivated philosophical works, such as *Imagination* (1936) or its sequel, *The Imaginary* (1940). Likewise, few philosophers have seriously grappled with Sartre’s later works, including his massive two-volume *Critique of Dialectical Reason* (1960), or his various works in existential psychoanalysis that examine the works of Genet and Baudelaire, as well as his multi-volume masterpiece on Flaubert, *The Family Idiot* (1971–2). These are amongst the works of which Sartre was most proud and we outline some of their core ideas and claims.
+
+## 1. Life and Works
+
+Sartre’s life has been examined by many biographies, starting with Simone de Beauvoir’s *Adieux* (Beauvoir 1986, see also Beauvoir 1962, 1965 and, subsequently, Cohen-Solal 1985; Bair 1990; Levy 2003; Flynn 2014; Cox 2019)[^bair-1990][^cohen-solal-1985][^cox-2019][^flynn-2014]. Sartre’s own literary “life” exemplifies trends he thematized in both *Words* and *Being and Nothingness*, summed up by his claim that “to be dead is to be prey for the living” (Sartre 1943 [1956: 543]). Sartre himself was one of the first to undertake such an autobiographical effort, via his evocation of his own childhood in *Words* (1964a) – in which Sartre applies to himself his method of existential psychoanalysis, thereby complicating this life/death binary.
+
+Like many of his generation, Sartre lived through a series of major cultural and historical events that his existential philosophy responded to and attempted to shape. He was born in 1905 and died in 1980, spanning most of the twentieth century and the trajectory that the Marxist historian Eric Hobsbawm refers to as the “age of extremes”, a period that was also well-described in the middle of that century in Albert Camus’ *The Rebel*, notwithstanding that the reception of Camus’ book in *Les Temps Modernes* in 1951–2 caused Sartre and Camus to very publicly fall out (see Aronson 2004)[^aronson-2004].
+
+The major events of Sartre’s life seem relatively clear, at least viewed from an external perspective. A child throughout World War 1, he was a young man during the Great Depression but born into relative affluence, brought up by his grandmother. At least as presented in *Word*s, Sartre’s childhood was filled with books, the dream of posterity and immortality in those books, and in which he grappled with his loss of the use of one eye and encountered the realities of his own appearance revealed through his mother’s look after a haircut – suffice to say, he was not classically beautiful.
+
+Sartre’s education, by contrast, was classical – the École Normale Supérieure. His education at the ENS was oriented around the history of philosophy, and the influential bifurcation of that time between the neo-Kantianism of Brunschvicg and the vitalism of Bergson. While Sartre failed his first attempt at the aggregation, apparently by virtue of being overly ambitious, on repeating the year he topped the class (de Beauvoir was second, at her first attempt and at the age of 21, then the youngest to complete). Sartre then taught philosophy at various schools, notably at Le Havre from 1931–36 and while he was composing his early philosophy and his great philosophical novel, *Nausea*. He never entered a classical university position.
+
+Although Sartre’s philosophical encounter with phenomenology had already occurred (around 1933), which de Beauvoir described as causing him to turn pale with emotion (de Beauvoir 1960 [1962: 112])[^beauvoir-1960], with the onset of World War 2 Sartre merged those philosophical concerns with more obviously existential themes like freedom, authenticity, responsibility, and anguish, as translated into English from the French *angoisse* by both Hazel Barnes and Sarah Richmond. He was a Meteorologist in Alsace in the war and was captured by the German Army in 1940 and imprisoned for just under a year (see *War Diaries*). During this socio-political turmoil, Sartre remained remarkably prolific. Notable publications include his play, *No Exit* (1947), *Being and Nothingness* (1943), and then completing *Existentialism is a Humanism* (1946), *Anti-semite and Jew* (1946), and founding and coediting *Les Temps Modernes*, commencing from 1943 (Sartre’s major contributions are collected in his series *Situations*, especially volume V).
+
+Sartre continued to lead various social and political protests after that period, especially concerning French colonialism (see section 7 below). By the time of the student revolutions in May 1968 he was no longer quite the dominant cultural and intellectual force he had been, but he did not retreat from public life and engagement and died in 1980. Estimates of the numbers of those attending his funeral procession in Paris range from 50–100,000 people. Sartre had been in the midst of a collaboration with Benny Levy regarding ethics, the so-called “Hope Now” interviews, whose status remain somewhat controversial in Sartrean scholarship, given the interviews were produced in the midst of Sartre’s illness and shortly before he died, and the fact that the relevant audio-recordings are not publicly available. Beauvoir herself contested the authenticity of these interviews in *La Cérémonie des* *adieux* (de Beauvoir 1981)[^beauvoir-1981], and the controversy has persisted in the secondary literature (see Santoni 1998, for one take on this)[^santoni-1998].
+
+## 2. Transcendence of the Ego: The Discovery of Intentionality
+
+One of the most famous foundational moments of existentialism concerns Sartre’s discovery of phenomenology around the turn of 1932/33, when in a Parisian bar listening to his friend Raymond Aron’s description of an apricot cocktail (de Beauvoir 1960 [1962: 135])[^beauvoir-1960]. From this moment, Sartre was fascinated by the originality and novelty of Husserl’s method, which he identified straight away as a means to fulfil his own philosophical expectations: overcoming the opposition between idealism and realism; getting a view on the world that would allow him “to describe objects just as he saw and touched them, and extract philosophy from the process”. Sartre became immediately acquainted with Emmanuel Levinas’s early translation of Husserl’s *Cartesian Meditations* and his introductory book on Husserl’s theory of intuition. He spent the following year in Berlin, so as to study more closely Husserl’s method and to familiarise himself with the works of his students, Heidegger and Scheler. With Levinas, and then later with Merleau-Ponty, Ricœur, and Tran Duc Thao, Sartre became one of the first serious interpreters and proponent of Husserl’s phenomenology in France.
+
+While he was studying in Berlin, Sartre tried to convert his study of Husserl into an article that documents his enthusiastic discovery of intentionality. It was published a few years later under the title “Intentionality: a fundamental idea of Husserl’s phenomenology”. This article, which had considerable influence over the early French reception of phenomenology, makes explicit the reasons Sartre had to be fascinated by Husserl’s descriptive approach to consciousness, and how he managed to merge it with his previous philosophical concerns. Purposefully leaving aside the idealist aspects of Husserl’s transcendental phenomenology, Sartre proposes a radicalisation of intentionality that stresses its anti-idealistic potential. Against the French contemporary versions of neo-Kantianism (Brochard, Lachelier), and more particularly against the kind of idealism advocated by Léon Brunschvicg, Sartre famously claims that intentionality allows us to discard the metaphysical oppositions between the inner and outer and to renounce the very notion of the interiority of consciousness. If it is true, as Husserl states, that every consciousness is consciousness *of* something, and if intentionality accounts for this fundamental direction that orients consciousness towards its object and beyond itself, then, Sartre concludes, the phenomenological description of intentionality does away with the illusion that makes us responsible for the way the world appears to us. According to Sartre’s radicalised reading of Husserl’s thesis, intentionality is intrinsically realistic: it lets the world appear to consciousness *as it really is*, and not as a mere correlate of an intellectual act. This realistic interpretation, being perfectly in tune with Sartre’s lifelong ambition to provide a philosophical account of the contingency of being – its non-negotiable lack of necessity – convinced him to adopt Husserl’s method of phenomenological description (for a recent reassessment of Sartre’s phenomenological realism in dialogue with contemporary European phenomenology, see Pommier 2023 ; for a broader phenomenological and cognitive treatment of intentionality and pre-reflective consciousness, see Gallagher and Zahavi 2008)[^gallagher-2008][^pommier-2023].
+
+While he was still in Berlin, Sartre also began to work on a more personal essay, which a few years later resulted in his first significant philosophical contribution, *Transcendence of the Ego*. With this influential essay Sartre engages in a much more critical way with the conception of the “transcendental ego” presented in Husserl’s *Ideas* and defends his realistic interpretation of intentionality against the idealistic tendencies of Husserl’s own phenomenology after the publication of *Logical Investigations*. Stressing the irreducible transparency of intentional experience – its fundamental orientation beyond itself towards its object, whatever this object may be – Sartre distinguishes between the dimensions of our subjective experiences that are pre-reflectively lived through, and the reflective stance thanks to which one can always make their experience the intentional object towards which consciousness is oriented. One of Sartre’s most fundamental claims in *Transcendence of the Ego* is that these two forms of consciousness cannot and must not be mistaken with one another: reflexive consciousness is a form of intentional consciousness that takes one’s own lived-experiences as its specific object, whereas pre-reflexive consciousness need not involve the intentional distance to the object that the act of reflection entails. In regard to self-consciousness, Sartre argues there is an immediate and non-cognitive form of self-awareness, as well as reflective forms of self-consciousness. The latter is unable to give access to oneself as the *subject* of unreflected consciousness, but only as the intentional *object* of the act of reflection, i.e., the Ego in Sartre’s terminology. The Ego is the specific object that intentional consciousness is directed upon when performing reflection – an object that consciousness “posits and grasps […] in the same act” (Sartre 1936a [1957: 41; 2004: 5]), and that is constituted in and by the act of reflection (Sartre 1936a [1957: 80–1; 2004: 20]). Instead of a transcendental subject, the Ego must consequently be understood as a transcendent object similar to any other object, with the only difference that it is given to us through a particular kind of experience, i.e., reflection. The Ego, Sartre argues, “is outside, *in the world*. It is a being of the world, like the Ego of another” (Sartre 1936a [1957: 31; 2004: 1]).
+
+This critique of the transcendental Ego is less opposed to Husserl than it may seem, notwithstanding Sartre’s reservations about the transcendental radicalisation of Husserl’s phenomenology (Renaudie 2013)[^renaudie-2013]. The neo-Humean claim that the “I” or Ego is nowhere to be found “within” ourselves remains faithful to the 5th *Logical Investigation*, in which Husserl had initially followed the very same line of reasoning (see Husserl 1901 [2001: vol. 2, 91–93]), before developing a transcendental methodology that substantially modified his approach to subjectivity (as exposed in particular in Husserl 1913 [1983])[^husserl-1913]. However, for the Husserl of the *Ideas Pertaining to a Phenomenology* (published in 1913), the sense in which a perceptual object, which is necessarily seen from one side but also presented to us as a unified object (involving other unseen sides), requires that there be a unifying structure within consciousness itself: the transcendental ego. Sartre argues that such an account would entail that the perception of an object would always also involve an intermediary perception – such as some kind of perception or consciousness of the transcendental ego – thus threatening to disrupt the “transparency” or “translucidity” of consciousness. All forms of perception and consciousness would involve (at least) these two components, and there would be an opaqueness to consciousness that is not phenomenologically apparent. In addition, it appears that Husserl’s transcendental ego would have to pre-exist all of our particular actions and perceptions, which is something that the existentialist dictum “existence precedes essence”, which we will explicate shortly, seems committed to denying. Without considering here the extent to which Husserl can be defended against these charges, Sartre’s general claim is that the notion of a self or Ego is not given in experience. Rather, it does not remain immanent but exceeds pre-reflective experience. The Ego is the transcendent *object* of one’s reflexive experience, and not the subject of the pre-reflective experience that was initially lived (but not known). It is worth noting that Sartre’s critique, despite its anti-Husserlian rhetoric, preserves a form of non-positional ipseity that is not without analogy to certain features of what Husserl, in his later writings, calls the ‘pure ego’. Dan Zahavi (1999, 2005, 2020) has insisted on this point, arguing that contemporary debates on minimal selfhood and pre-reflective self-awareness owe as much to Sartre’s account of non-thetic self-consciousness as they do to Husserl. The Sartrean critique should therefore be read less as a sheer rejection of Husserlian phenomenology than as a strategic reorientation, in which the ‘non-egological’ thesis goes hand in hand with a robust defence of the pre-reflective first-person character of consciousness. Recent commentators (Apostolopoulos 2024; Somers-Hall 2023; Williford 2011; Miguens, Preyer and Bravo Morando 2015)[^apostolopoulos-2024][^somers-hall-2023][^williford-2011] have explored further the conceptual stakes of this complicated proximity, particularly around the question of the spontaneity and unity of consciousness.
+
+Sartre devotes a great deal of effort to establishing the impersonal (or “pre-personal”) character of consciousness, which stems from its non-egological structure and results directly from the absence of the *I* in the transcendental field. According to him, intentional (positional) consciousness typically involves an anonymous and “impersonal” relation to a transcendent object:
+
+> When I run after a streetcar, when I look at the time, when I am absorbed in contemplating a portrait, there is no *I.* […] In fact I am plunged in the world of objects; it is they which constitute the unity of my consciousness; […] but *me,* I have disappeared; I have annihilated myself. There is no place for *me* on this level. (Sartre 1936a [1957: 49; 2004: 8])
+
+The tram appears to me *in a specific way* (as “having-to-be-overtaken”, in this case) that is experienced as its *own* mode of phenomenalization, and not as a mere relational aspect of its appearing to *me*. The object presents itself as carrying a set of objective properties that are strictly independent from one’s personal relation to it. The streetcar is experienced as a transcendent object, in a way that obliterates and *overrides*, so to speak, the subjective features of conscious experience; its “having-to-be-overtaken-ness” does not belong to my *subjective* experience of the world but to the *objective* description of the way the world is (see also Sartre 1936a [1957: 56; 2004: 10–11]). When I run after the streetcar, my consciousness is absorbed in the relation to its intentional object, “*the streetcar-having-to-be-overtaken*”, and there is no trace of the “I” in such lived-experience. I do not need to be aware of my intention to take the streetcar, since the object itself appears as having-to-be-overtaken, and the subjective properties of my experience disappear in the intentional relation to the object. They are lived-through without any reference to the experiencing subject (or to the fact that this experience has to be experienced *by someone*). This particular feature derives from the diaphanousness of lived-experiences. In a different example of this, Sartre argues that when I perceive Pierre as loathsome, say, I do not perceive my feeling of hatred; rather, Pierre repulses me and I experience *him* as repulsive (Sartre 1936a [1957: 63–4; 2004: 13]). Repulsiveness constitutes an essential feature of *his* distinctive mode of appearing, rather than a trait of *my* feelings towards him. Sartre concludes that reflective statements about one’s Ego cannot be logically derived from non-reflective (“*irréfléchies*”) lived-experiences:
+
+> Thus to say “I hate” or “I love” on the occasion of a singular consciousness of attraction or repulsion, is to carry out a veritable passage to the infinite […] Nothing more is needed for the rights of reflection to be singularly limited: it is certain that Pierre repulses me, yet it is and will remain forever doubtful that I hate him. Indeed, this affirmation infinitely exceeds the power of reflection. (Sartre 1936a [1957: 63–4; 2004: 13])
+
+This critique of the powers of reflection forms one important part of Sartre’s argument for the primacy of pre-reflective consciousness over reflective consciousness, which is central to many of the pivotal arguments of *Being and Nothingness*, as we indicate in the relevant sections below (see also Webber 2020)[^webber-2020]. A detailed treatment of the arguments of the *Transcendence of the Ego* can be found in Coorebyter 2000 (in French) and Priest 2000 (in English).
+
+## 3. Imagination, Phenomenology and Literature
+
+For many of his readers, the book on the *Imaginary* that Sartre published in 1940 constitutes one of the most rigorous and fruitful developments of his Husserl-inspired phenomenological investigations. Along with *The Emotions: Outline of a Theory* which was published one year before (Sartre 1939b), Sartre presented this study of imagination as an essay in phenomenological psychology, which drew on his long-standing interest in psychological studies and brought to completion the research on imagination he had undertaken since the very beginning of his philosophical career. With this new essay, Sartre continues to explore the relationship between intentional consciousness and reality by focusing upon the specific case of the intentional relations to the unreal and the fictional, so as to produce an in-depth analysis of “the great ‘irrealizing’ function of consciousness”. Engaging in a detailed discussion with recent psychological research that Sartre juxtaposes with (and against) fine-grained phenomenological descriptions of the structures of imagination, his essay proposes his own theory of the imaginary as the corollary of a specific intentional attitude that orients consciousness towards the unreal.
+
+In a similar fashion to his analysis of the world-shaping powers of emotions (Sartre 1939b), Sartre describes and highlights how imagination presents us with a coherent world, although made of objects that do not precede but *result* from the imaging capacities of consciousness. “The object as imaged, Sartre claims, is never anything more than the consciousness one has of it” (Sartre 1940 [2004: 15]). Contrary to other modes of consciousness such as perception or memory, which connect us to a world that is essentially one and the same, the objects to which imaginative consciousness connects us belong to imaginary worlds, which may not only be extremely diverse, but also follow their own rules, having their own spatiality and temporality. The island of Thrinacia where Odysseus lands on his way back to Ithaca needs not be located anywhere on our maps nor have existed at a specific time: its mode of existence is that of a fictional object, which possesses its own spatiality and temporality within the imaginary world it belongs to.
+
+Sartre stresses that the intentional dimension of imaging consciousness is essentially characterised by its *negativity.* The negative act, Sartre writes, is “constitutive of the image” (Sartre 1940 [2004: 183]): an image consciousness is a consciousness of something that is not – or rather, of something as not-being, whether its object is absent, non-existing, or fictional. When we picture Odysseus sailing back to his native island, Odysseus is given to us “as absent to intuition”. In this sense, Sartre concludes,
+
+> one can say that the image has wrapped within it a certain nothingness. […] However lively, appealing, strong the image, it gives its object as not being. (Sartre 1940 [2004: 14])
+
+The irrealizing function of imagination results from this immediate consciousness of the nothingness of its object. Sartre’s essay investigates how imaging consciousness allows us to operate with its objects as if they were present, even though these very objects are given to us as non-existing or absent. This is for instance what happens when we go to the theatre or read a novel:
+
+> To be present at a play is to apprehend the characters on the actors, the forest of *As You Like It* on the cardboard trees. To read is to realize contact with the irreal world on the signs. In this world there are plants, animals, fields, towns, people: initially those mentioned in the book and then a host of others that are not named but are in the background and give this world its depth. (Sartre 1940 [2004: 64])
+
+The irreality of imaginary worlds does not prevent the spectator or reader from projecting herself into this world *as if it was real*. The acts of imagination can consequently be described as “magical acts” (Sartre 1940 [2004: 125]), similar to incantations with respect to the way they operate, since they are designed to make the object of one’s thought or desire appear in such a way that one can take possession of it (for broader historical and philosophical treatments of Sartre’s contribution to the philosophy of imagination, see Kearney 1988, Wiesing 2014, and, for a more analytic perspective, see Hopkins 2016)[^hopkins-2016][^wiesing-2014].
+
+Two of Sartre’s most distinctive theses in *The Imaginary* have come under renewed scrutiny in recent years. The first is the ‘quasi-observation’ thesis: the imagined object, being constructed from the knowledge we already have of it, cannot teach us anything new (unlike perceptual objects, which always present further sides to be discovered). The second is the ‘exclusion claim’: imagination and perception are radically distinct kinds of consciousness, mutually exclusive in their structure. Both theses have been the subject of important phenomenological and analytic reassessments. Mitchell (2025) has offered a sustained reconstruction of the exclusion claim in terms of cross-modal attention; Bernard (2025) has confronted Sartre’s account with contemporary debates on imaginative presence (Kind 2018; Windt 2018)[^kind-2018][^windt-2018]; Deery (2025) has examined the tension between Sartre’s and Merleau-Ponty’s conceptions of the imagination. These discussions confirm that Sartre’s phenomenology of the image remains a productive partner for contemporary philosophy of mind, although they also press hard against some of its more radical commitments – in particular the assumption that imagining yields no genuine cognitive gain (see also Stawarska 2005; Lennon 2015; Casey 2000)[^casey-2000][^lennon-2015][^stawarska-2005].
+
+In the conclusion of his essay, Sartre stresses the philosophical significance of the relationship between imagination and freedom, which are both necessarily involved in our relationship to the world. Imagination, Sartre writes, “is the whole of consciousness as it realizes its freedom” (Sartre 1940 [2004: 186]). Imaging consciousness posits its object as “out of reach” in relation to the world understood as the synthetic totality within which consciousness situates itself. For Sartre, the imaginary creation is only possible if consciousness is not placed “in-the-midst-of-the-world” as one existent among others.
+
+> For consciousness to be able to imagine, it must be able to escape from the world by its very nature, it must be able to stand back from the world by its own efforts. In a word, it must be free. (Sartre 1940 [2004: 184])
+
+In that respect, the irrealizing function of imagination allows consciousness to “surpass the real” so as to constitute it as a proper *world*: “the nihilation of the real is always implied by its constitution as a world”. This capacity of surpassing the real to make it a proper world defines the very notion of “situation” that becomes central in Sartre’s philosophical thought after the publication of the *Imaginary*. Situations are nothing but “the different immediate modes of apprehension of the real as a world” (Sartre 1940 [2004: 185]). Consciousness’ situation-in-the-world is precisely that which motivates the constitution of any irreal object and accounts for the creation of imaginary worlds – for instance, and perhaps above all, in art:
+
+> Every apprehension of the real as a world tends of its own accord to end up with the production of irreal objects since it is always, in a sense, free nihilation of the world and this always from a particular point of view. (Sartre 1940 [2004: 185])
+
+With this conclusion, which prioritises the question of the world over that of reality, Sartre begins to move away from the realist perspective he was initially aiming at when he first discovered phenomenology, so as to make the phenomenological investigation of our “being-in-the-world” (influenced by his careful rereading of Heidegger in the late 30s) his new priority[^note-3].
+
+Although Sartre never stated it explicitly, his interest in the question of the unreal and imaging consciousness appears to be intimately connected with his general conception of literature and his self-understanding of his own literary production. The concluding remarks of the *Imaginary* extend the scope of Sartre’s phenomenological analyses of the irrealizing powers of imagination, by applying them to the domain of aesthetics so as to answer the question about the ontological status of works of art. For Sartre, any product of artistic creation – a novel, a painting, a piece of music, or a theatre play – is just as irreal an object as the imaginary world it gives rise to. The irreality of the work of art allows us to experience – though only imaginatively – the world it gives flesh to as an “analogon” of reality. Even a cubist painting, which might not depict nor represent anything, still functions as an analogon, which manifests
+
+> an irreal ensemble of *new things*, of objects that I have never seen nor will ever see but that are nonetheless irreal objects. (Sartre 1940 [2004: 191])
+
+Likewise, the novelist, the poet, the dramatist, constitute irreal objects through verbal analogons.
+
+This original conception of the nature of the work of art dominates Sartre’s critical approach to literature in the many essays he dedicates to the art of the novel. This includes his critical analyses of recent writers’ novels in the 30s – Faulkner, Dos Passos, Hemingway, Mauriac, etc. – and the publication in the late 40s of his own summative view, *What is literature?* (Sartre 1948a [1988]). In a series of articles gathered in the first volume of his *Situations* (1947, *Sit. I*), Sartre defends a strong version of literary realism that can, somewhat paradoxically, be read as a consequence of his theory of the irreality of the work of art. If imagination projects the spectator within the imaginary world created by the artist, then the success of the artistic process is proportional to the capacity of the artwork to let the spectator experience it as a reality of its own, giving rise to a full-fledged world. Sartre applies in particular this analysis to novels, which must aim, according to him, at immersing the reader within the fictional world they depict so as to make her experience the events and adventures of the characters *as if* she was living them in first person. The complete absorption of the reader within the imaginary world created by the novelist must ultimately recreate the particular feel of reality that defines Sartre’s *phenomenological* kind of literary realism (Renaudie 2017)[^renaudie-2017], which became highly influential over the following decades in French literature. The reader must be able to experience the actions of the characters of the novel as if they did not result from the imagination of the novelist, but proceeded from the character’s own freedom – and Sartre goes as far as to claim that this radical “spellbinding” (“envoûtante”, Sartre 1940 [2004: 175])) quality of literary fiction defines the touchstone of the art of the novel (See “François Mauriac and Freedom”, in Sartre *Sit. I*).
+
+This original version of literary realism is intrinsically tied to the question of freedom, and opposed to the idea according to which realist literature is expected to provide a mere description of reality *as it is*. In *What is Literature?*, Sartre describes the task of the novelist as that of disclosing the world as if it arose from human freedom – rather than from a deterministic chain of causes and consequences. The author’s art consists in obliging her reader “to *create* what [she] *discloses*”, and so to share with the writer the responsibility and freedom involved in the act of literary creation (Sartre 1948a [1988: 61]). In order for the world of the novel to offer its maximum density,
+
+> the disclosure-creation by which the reader discovers it must also be an imaginary engagement in the action; in other words, the more disposed one is to change it, the more alive it will be.
+
+The conception of the writer’s engagement that resulted from these analyses constitutes probably the most well-known aspect of Sartre’s relation to literature. The writer only has one topic: freedom.
+
+This analysis of the role of imaginative creations of art can also help us to understand the role of philosophy within his own novels, particularly in *Nausea*, a novel which Sartre began as he was studying Husserl in Berlin. In this novel Sartre’s pre-phenomenological interest for the irreducibility of contingency intersects with his newly-acquired competences in phenomenological analyses, making *Nausea* a beautifully illustrated expression of the metaphysical register Sartre gave to Husserl’s conception of intentionality. The feeling of nausea that Roquentin, the main character of Sartre’s novel, famously experienced in a public garden while obsessively watching a chestnut tree, accounts for his sensitivity to the absolute lack of necessity of whatever exists. Sartre understands this radical absence of necessity as the expression of the fundamental contingency of being. Roquentin’s traumatic moment of realisation that there is absolutely no reason for the existence of all that exists illustrates the intuition that motivated Sartre’s philosophical thinking since the very beginning of his intellectual career as a student at the Ecole Normale Supérieure, as Simone de Beauvoir recalls (1981 [1986]). It constitutes the metaphysical background of his interpretation of intentionality, which he would come to develop and systematise in the early dense parts of *Being and Nothingness*. While the experience of nausea when confronting the contingency of the chestnut tree does not give us conceptual knowledge, it involves a form of non-conceptual ontological awareness that is of a fundamentally different order to, and cannot be derived from, our conceptual understanding and knowledge of brute existence.
+
+## 4. Being and Nothingness
+
+### 4.1 Negation and Freedom
+
+*Being and Nothingness* (1943) remains the defining treatise of the existentialist “movement”, along with works from de Beauvoir from this period (e.g., *The Ethics of Ambiguity*). We cannot do justice to the entirety of the book here, but we can indicate the broad outlines of the position. In brief, Sartre provides a series of arguments for the necessary freedom of “human reality” (his gloss on Heidegger’s conception of Dasein), based upon an ontological distinction between what he calls being-for-itself (*pour soi*) and being-in-itself (*en soi*), roughly between that which negates and transcends (consciousness) and the “pure plenitude” of objects, recently argued (by Kinkaid 2024)[^kinkaid-2024] to be reminiscent of an Eleatic monism. That kind of metaphysical position might seem to “beg the question” by assuming what it purports to establish (i.e., radical human freedom). However, Sartre argues that traditional metaphysical realism and idealism cannot sufficiently account for a wide range of phenomena associated with negation. He also draws on the direct evidence of phenomenological experience (i.e., the experience of anguish). But the argument for his metaphysical picture and human freedom is, on balance, an inference to the best explanation. He contends that his complex metaphysical vision best captures and explains central aspects of human reality.
+
+As the title of the book suggests, nothingness plays a significant role. While Sartre’s concern with nothingness might be a deal-breaker for some, following Rudolph Carnap’s trenchant criticisms of Heidegger’s idea that the “nothing noths/nothings” (depending on translation from the German), Sartre’s account of negation and nothingness (the latter of which is the ostensible ground of the former) is nevertheless philosophically interesting (and for a contemporary discussion of it, see McNulty 2025)[^mcnulty-2025]. Sartre does not say much about the genesis of consciousness or the for-itself, other than that it is contingent and arises from “the effort of an in-itself to found itself” (Sartre 1943 [1956: 84]). He describes the appearance of the for-itself as the absolute event, which occurs through being’s attempt “to remove contingency from its being”. Accordingly, the for-itself is radically and inescapably distinct from the in-itself. In particular, it functions primarily through negation, whether in relation to objects, values, meaning, or social facts. According to Sartre this negation is not about any reflective judgement or cognition, but an ontological relation to the world. This ontological interpretation of negation minimises the subjectivist interpretations of his philosophy. The most vivid example he provides to illustrate this pre-reflective negation is the apprehension of Pierre’s absence from a café. Sartre describes Pierre’s absence as pervading the whole café. The café is cast in the metaphorical “shade” of Pierre not being there at the time he had been expected. This experience depends on human expectations, of course. But Sartre argues that if, by contrast, we imagine or reflect that someone else is not present (say the Duke of Wellington, an elephant, etc.), these abstract negative facts are not existentially given in the same manner as our pre-reflective encounter with Pierre’s absence. They are not given as an “objective fact”, as a “component of the real”.
+
+Sartre provides numerous other examples of pre-reflective negation throughout *Being and Nothingness*. He argues that the apprehension of fragility and destruction are likewise premised on negativity, and any effort to adequately describe these phenomena requires negative concepts, but also that they presuppose more than just negative thoughts and judgements. In regard to destruction, Sartre suggests that there is not *less* after the storm, just something else (Sartre 1943 [1956: 8]). Generally, we do not need to reflectively judge that a building has been destroyed, but directly see it in terms of that which it is *not* – the building, say, in its former glory before being wrecked by the storm. Humans introduce the possibility of destruction and fragility into the world, since objectively there is just a change. Sartre’s basic question is: how could we accomplish this unless we are a being by whom nothingness comes into the world, i.e., free? He poses similar arguments in regard to a range of phenomena that present as basic to our modes of inhabiting the world, from bad faith through to anguish. In all of these cases Sartre argues that while we can expressly pose negative judgements, or deliberately ask questions that admit of the possibility of negative reply, or consciously individuate and distinguish objects by reference to the objects which they are not, there is a pre-comprehension of non-being that is the condition of such negative judgements.
+
+Although the for-itself and the in-itself are initially defined very abstractly, the book ultimately comes to say a lot more about the for-itself, even if not much more about the in-itself. The picture of the for-itself and its freedom gradually becomes more “concrete”, reflecting the architectonic of the text, which has more sustained treatments of the body, others, and action, in the second half (for a discussion of embodiment in Sartre, see Wider 1997 and Morris 2010)[^morris-2010][^wider-1997]. Throughout, Sartre gives a series of paradoxical glosses on the nature of the for-itself – i.e., a “being which is what it is not and is not what it is” (Sartre 1943 [1956: 79]). Although this might appear to be a contradiction, Sartre’s claim is that it is the fundamental mode of existence of the for-itself that is future-oriented and does not have a stable identity in the manner of a chair, say, or a pen-knife. Rather, “existence precedes essence”, as he famously remarks in both *Being and Nothingness* and *Existentialism is a Humanism*.
+
+In later chapters he develops the basic ontological position in regard to free action. His point is not, of course, to say we are free to do or achieve anything (freedom as power), or even to claim that we are free to “project” anything at all. The for-itself is always in a factical situation. Nonetheless, he asserts that the combination of the motives and ends we aspire to in relation to that facticity depend on an act of negation in relation to the given. As he puts it: “Action necessarily implies as its condition the recognition of a ”desideratum“; that is, of an objective lack or again of a negatité” (Sartre 1943 [1956: 433]). Even suffering in-itself is not a sufficient motive to determine particular acts. Rather, it is the apprehension of the revolution as possible (and as desired) which gives to the worker’s suffering its value as motive (Sartre 1943 [1956: 437]). A factual state, even poverty, does not determine consciousness to apprehend it as a lack. No factual state, whatever it may be, can cause consciousness to respond to it in any one way. Rather, we make a choice (usually pre-reflective) about the significance of that factual state for us, and the ends and motives that we adopt in relation to it. We are “condemned” to freedom of this ontological sort, with resulting anguish and responsibility for our individual situation, as well as for more collective situations of racism, oppression, and colonialism. These are the themes for which Sartre became famous, especially after World War 2 and *Existentialism is a Humanism*. For a useful recent discussion of his philosophy of freedom, and how it manages to avoid both determinism and indeterminism, see Rae 2024 and Sares forthcoming..
+
+In *Being and Nothingness* he provides various examples that are designed to make this quite radical philosophy of freedom plausible, including the hiker who gives in to their fatigue and collapses to the ground. Sartre says that a necessary condition for the hiker to give in to their fatigue – short of fainting – is that their fatigue goes from being experienced as simply part of the background to their activity, with their direct conscious attention focusing on something else (e.g., the scenery, the challenge, competing with a friend, philosophising, etc.), to being the direct focus of their attention and thus becoming a motive for direct recognition of one’s exhaustion and the potential action of collapsing to the ground. Although we are not necessarily reflectively aware of having made such a decision, things could have been otherwise and thus Sartre contends we have made a choice. Despite appearances, however, Sartre insists that his view is not a voluntarist or capricious account of freedom, but one that necessarily involves a situation and a context. His account of situated freedom in the chapter “Freedom and Action” affirms the inability to extricate intentions, ends, motives, and reasons, from the embodied context of the actor. As a synthetic whole, it is not merely freedom of intention or motive (and hence even consciousness) that Sartre affirms. Rather, our freedom is realised only in its projections and actions, and is nothing without such action.
+
+### 4.2 Bad Faith and the Critique of Freudian Psychoanalysis
+
+Sartre’s account of bad faith (*mauvaise foi*) is of major interest, still warranting interpretation (for more on this, see Knee 1993, Wrathall and Von Knobelsdorff 2026; Morag 2024)[^knee-1993][^morag-2024][^morag-2024-2][^wrathall-2026]. It is said to be a phenomenon distinctive of the for-itself, thus warranting ontological treatment. It also feeds into questions to do with self-knowledge (see Moran 2001, Boyle 2024, Renaudie and Reynolds 2024)[^moran-2001][^boyle-2024][^renaudie-2024], as well as serving as the basis for some of his criticisms of racism and colonialism in his later work. His account of bad faith juxtaposes a critique of Freud with its own “depth” interpretive account, “existential psychoanalysis”, which is itself indebted to Freud, as Sartre admits.
+
+We will start with Sartre’s critique of Freud, which is both simple and complex, and features in the early parts of the chapter on bad faith in *Being and Nothingness*. In short, Freud’s differing meta-psychological pictures (Conscious, Preconscious, Unconscious, or Id, Ego, Superego) are charged with splitting the subject in two (or more) in attempting to provide a mechanistic explanation of bad faith: that is, how there can be a “liar” and a “lied to” duality within a single consciousness. But Sartre accuses Freud of reifying this structure, and rather than adequately explaining the problem of bad faith, he argues that Freud simply transfers the problem to another level where it remains unsolved, thus consisting in a pseudo-explanation (which today might be called a “homuncular fallacy”). Rather than the problem being something that pertains to an embodied subject, and how they might both be aware of something and yet also repress it at the same time, Sartre argues that the early Freudian meta-psychological model transfers the seat of this paradox to the censor: that is, to a functional part of the brain/mind that both knows and does not know. It must know enough in order to efficiently repress, but it also must not know too much or nothing is hidden and the problematic truth is manifest directly to consciousness. Freud’s “explanation” is hence accused of recapitulating the problem of bad faith in an ostensible mechanism that is itself “conscious” in some paradoxical sense. It is debated whether or not this is a reasonable treatment of Freud, as a whole. Sartre even provocatively suggests that the practice of psychoanalysis is itself in bad faith, since it treats a part of ourselves as “Id”-like and thereby denies responsibility for it. That is not the end of Sartre’s story, however, because he ultimately wants to revive a version of psychoanalysis that does not pivot around the “unconscious” and these compartmentalised models of the mind, which face what has been called the problem of homuncularity (in brief, positing some sort of “little man/person” inside the mind. We will come back to that, but it is first necessary to introduce Sartre’s own positive account of bad faith.
+
+While bad faith is inevitable in Sartre’s view, it is also important to recognise that the “germ of its destruction” lies within. This is because bad faith always remains at least partly available to us in our own lived-experience, albeit not in a manner that might be given propositional form in the same way as knowledge of an external object. In short, when I existentially comprehend that my life is dissatisfying, or even reflect on this basis that I have lived an inauthentic life, while I am grasping something about myself (it is given differently to the recognition that others have lived a lie and more likely to induce anxiety), I am nonetheless not strictly equivalent or identical with the “I” that is claimed to be in bad faith (cf. Moran 2001)[^moran-2001]. There is a distanciation involved in coming to this recognition and the potential for self-transformation of a more practical kind, even if this is under-thematised in *Being and Nothingness*, and even if the project of being sincere or in good faith is also said to be problematic (for discussion, see Wrathall and von Knobelsdorff 2026)[^wrathall-2026].
+
+Sartre gives many examples of bad faith that remain of interest. Probably his most famous example of bad faith is the café waiter who plays at being a café waiter, and who attempts to institutionalise themselves as this object (for an alternative reading, however, see Bernasconi 2007)[^bernasconi-2007]. While Sartre’s implied criticisms of their manner of inhabiting the world might seem to disparage social roles and affirm an individualism, arguably this is not a fair reading of the details of the text. For Sartre we do have a factical situation, but the claim is that we cannot be wholly reduced to it. As Sartre puts it:
+
+> There is no doubt I am in a sense a café waiter – otherwise could I not just as well call myself a diplomat or reporter? But if I am one, this cannot be in the mode of being-in-itself. I am a waiter in the mode of *being what I am not*. (Sartre 1943 [1956: 60])
+
+In subsequent work, racism becomes emblematic of bad faith, when we reduce the other to some ostensible identity (e.g., *Anti-semite and the Jew* and in his essay, “Black Orpheus”).
+
+It is important to recognise that no project of “sincerity”, if that is understood as strictly being what one is, is possible for Sartre given his view of the for-itself (for more on this, see Wrathall and von Knobelsdorff 2026)[^wrathall-2026]. Likewise, in regard to any substantive self-knowledge that might be achieved through direct self-consciousness, our options are limited. On Sartre’s view we cannot look inwards and discover the truth about our identity or our own bad faith through simple introspection (there is literally no-thing to observe). Moreover, when we have a lived experience, and then reflect on ourselves from outside (e.g., third-personally), we are not strictly reducible to that Ego that is so posited. We transcend it. Or, to be more precise, we both are that Ego (just as we are what the Other perceives) and yet are also not reducible to it. This is due to the structure of consciousness and the arguments from *Transcendence of the Ego* examined in section 2. In *Being and Nothingness*, the temporal aspects of this non-coincidence are also emphasised. We are not just our past and our objective attributes in accord with some sort of principle of identity, because we are also our “projects”, and these are intrinsically future oriented.
+
+Nonetheless, Sartre argues that it would be false to conclude that all modes of inhabiting the world are thereby equivalent in terms of “faith” and “bad faith”. Rather, there are what he calls “patterns of bad faith” and he says these are “objective”. Any conduct can be seen from two perspectives – transcendence and facticity, being-for-itself and being-for-others. But it is the exclusive affirmation of one or the others of these (or a motivated and selective oscillation between them) which constitutes bad faith. There is no direct account of good faith in *Being and Nothingness*, other than the enigmatic footnote at the end of the book that promises an ethics. There are more sustained treatments of authenticity in his *Notebooks for an Ethics* and in *Anti-semite and Jew* (see also the entry on authenticity, and Knee 1993 on the question of existential conversion and its relation to bad faith)[^knee-1993].
+
+### 4.3 The Look, Shame and Intersubjectivity
+
+Sartre’s work on inter-subjectivity is often the subject of premature dismissal. The hyperbolic dimension of his writings on the Look of the Other and the pessimism of his chapter on “concrete relations with others”, which is essentially a restatement of the “master-slave” stage of Hegel’s struggle for recognition without the possibility of its overcoming, are sometimes treated as if they were nothing but the product of a certain sort of mind – a kind of adolescent paranoia or hysteria about the Other (see, e.g., Marcuse 1948)[^marcuse-1948]. What this has meant, however, is that the significance of Sartre’s work on inter-subjectivity, both within phenomenological circles and more broadly in regard to philosophy of mind and social cognition, has been downplayed. Building on the insights of Hegel, Husserl and Heidegger, Sartre proposes a set of necessary and sufficient conditions for any theory of the other, which are far from trivial. In *Being and Nothingness*, Sartre suggests that various philosophical positions – realism and idealism, and beyond – have been shipwrecked, often unawares, on what he calls the “reef of solipsism”. His own solution to the problem of other minds consists, first and foremost, in his descriptions of being subject to the look of another, and the way in which in such an experience we become a “transcendence transcended”. On his famous description, we are asked to imagine that we are peeping through a keyhole, pre-reflectively immersed and absorbed in the scene on the other side of the door. Maybe we would be nervous engaging in such activities given the socio-cultural associations of being a “Peeping Tom”, but after a period of time we would be given over to the scene with self-reflection and self-awareness limited to merely the minimal (tacit or “non-thetic” in Sartre’s language) understanding that we are not what we are perceiving. Suddenly, though, we hear footsteps, and we have an involuntary apprehension of ourselves as an object in the eyes of another; a “pre-moral” experience of shame; a shudder of recognition that we are the object that the other sees, without room for any sort of inferential theorising or cognising (at least that is manifest to our own consciousness). Sartre is here less interested in shame as a moral emotion – extended in time and constitutive of one’s moral character – than in the brief impression of shame as a constitutive event: one that does not merely illustrate but actively performs the pour-soi’s discovery of its being-for-others, thereby providing the apodictic refutation of solipsism that no inferential argument could supply (Falcato 2023)[^falcato-2023]. Sartre describes the discovery that part of what I am is constituted outside me, in and through the look of another freedom (Falcato 2025)[^falcato-2025]. This ontological shift, Sartre says, has another person as its condition, notwithstanding whether or not one is in error on a particular occasion of such an experience (i.e., the floor creaks but there is no-one actually literally present). While many other phenomenological accounts emphasise empathy or direct perception of mental states (for example, Scheler and Merleau-Ponty), Sartre thereby adds something significant and distinctive to these accounts that focus on our experience of the other person as an object (albeit of a special kind) rather than as a subject. In common with other phenomenologists like Merleau-Ponty and Scheler, Sartre also maintains that it is a mistake to view our relations with the other as one characterised by a radical separation that we can only bridge with inferential reasoning. Any argument by analogy, either to establish the existence of others in general or to particular mental states like anger, is problematic, begging the question and having insufficient warrant (see Sacks 2005)[^sacks-2005].
+
+For Sartre, at least in his early work, our experience of being what he calls a “we subject” – as a co-spectator in a lecture or concert for example, which involves no objectification of the other people we are with – is said to be merely a subjective and psychological phenomenon that does not ground our understanding and knowledge of others ontologically (Sartre 1943 [1956: 413–5]). Originally, human relations are typified by dyadic mode of conflict best captured in the look of the other, and the sort of scenario concerning the key-hole we just considered above. Given that we also do not grasp a plural look, for Sartre, this means that social life is fundamentally an attempt to control the impact of the look upon us, either by anticipating it in advance and attempting to invalidate that perspective (sadism) or by anticipating it and attempting to embrace that solicited perspective when it comes (masochism). In Sartre’s words:
+
+> It is useless for human reality to seek to escape this dilemma: one must either transcend the Other or allow oneself to be transcended by him. The essence of the relations between consciousness is not the *Mitsein* (being-with); it is conflict. (Sartre 1943 [1956: 429])
+
+## 5. Existential Psychoanalysis and the Fundamental Project
+
+Sartre’s radical criticism of Freud’s theory of the unconscious is not his last word on psychoanalysis. In the last chapters of *Being and Nothingness*, Sartre presents his own conception of an existential psychoanalysis, drawing on some insights from his attempt to account for Emperor Wilhelm II as a “human-reality” in the 14ᵗʰ notebook from his *War Diaries* (Sartre 1983b [1984]). This existential version of psychoanalysis is claimed to be compatible with Sartre’s rejection of the unconscious, and is expected to achieve a “psychoanalysis of consciousness” (Moati 2019: 219)[^moati-2019], allowing us to understand one’s existence in light of their fundamental free choice of themselves.
+
+The very idea of a psychoanalysis oriented towards the study of consciousness rather than the unconscious seems paradoxical – a paradox increased by Sartre’s efforts to highlight the fundamental differences that oppose his own version of psychoanalysis to Freud’s. Sartre contends that Freud’s “empirical” psychoanalysis
+
+> is based on the hypothesis of the existence of an unconscious psyche, which on principle escapes the intuition of the subject.
+
+By contrast, Sartre’s own existential psychoanalysis aims to remain faithful to one of the earliest claims of Husserl’s phenomenology: that all psychic acts are “coextensive with consciousness” (Sartre 1943 [1956: 570]). For Sartre, however, the basic motivation for rejecting Freud’s hypothesis is less an inheritance of Brentano’s descriptive psychology (as was the case for Husserl) than a consequence of Sartre’s fundamental critique of determinism, applied to the naturalist presuppositions of empirical psychoanalysis and the particular kind of determinism that it involves. In agreement with Freud, Sartre holds that psychic life remains inevitably “opaque” and at least somewhat impenetrable to us. He also stresses that the philosophical understanding of human reality requires a method for investigating the *meaning* of psychic facts. But Sartre denies that the methods and causal laws of the natural sciences are of any help in that respect. The human *psyche* cannot be fully analysed and explained as a mere *result* of external constraints acting like physical forces or natural causes. The for-itself, being always what it is not and not what it is, remains free whatever the external and social constraints. Sartre is consequently bound to reject any emphasis on the causal impact of the past upon the present, which he argues is the basic methodological framework of empirical psychoanalysis. That does not mean that past psychic or physical facts have no impact on one’s existence whatsoever. Rather, Sartre contends that the impact of past events is determined in relation to one’s present choice, and understood as the consequence of the power invested in this free choice. As he puts it:
+
+> Since the force of compulsion in my past is borrowed from my free, reflecting choice and from the very power which this choice has given itself, it is impossible to determine a priori the compelling power of a past. (Sartre 1943 [1956: 503])
+
+Past events bear no other meaning than the one given by a subject, in agreement with the free project that orients his or her existence towards the future. Conversely, determinist explanations that construe one’s present as a mere consequence of the past proceed from a kind of self-delusion that operates by concealing one’s free project, and thus contributes to the obliteration of responsibility. Sartre hence seeks to redefine the scope of psychoanalysis: rather than a proper explanation of human behaviour that relies on the identification of the laws of its causation, psychoanalysis consists in understanding the meaning of our conducts in light of one’s project of existence and free choice. One might wonder, then, why we need any such psychoanalysis, if the existential project that constitutes its object is freely chosen by the subject. Sartre addresses this objection in *Being and Nothingness*, claiming that
+
+> if the fundamental project is fully experienced by the subject and hence wholly conscious, that certainly does not mean that it must by the same token be known by him; quite the contrary. (Sartre 1943 [1956: 570])
+
+What Freud calls the unconscious must be redescribed as the paradoxical entanglement of a “total absence of knowledge” combined with a “true understanding” (*réelle comprehension*) of oneself (1972, *Sit. IX*: 111). The legitimacy of Sartre’s existential psychoanalysis of consciousness lies in its ability to unveil the original project according to which one chooses (more or less obscurely) to develop the fundamental orientations of their existence. According to Sartre, analysing a human subject and understanding the meaning that orients their existence as a whole requires that we grasp the specific kind of unity that lies behind their various attitudes and conducts. This unity can only appear once we discover the synthetic principle of unification or “totalization” (*totalisation*) that commands the whole of their behaviours. Sartre understands this totalization as an an-going process that covers the entire course of one’s existence, a process which is constantly reassumed so as to integrate the new developments of this existence. For this reason, this never ending process of totalization cannot be fully self-conscious or the object of reflective self-knowledge. The synthetic principle that makes this totalization possible is identified by Sartre in terms of fundamental choice: existential psychoanalysis describes human subjects as synthetic totalities in which every attitude, conduct, or behaviour finds its meaning in relation to the unity of a primary choice, which all of the subject’s behaviour expresses in its own way.
+
+Recent commentators have stressed the unexpected proximity between Sartre’s redescription of the unconscious as ‘total absence of knowledge combined with true comprehension’ and certain Lacanian theses on the unconscious structured like a language. Although Sartre’s polemic targets Freud, his positive account of existential psychoanalysis can be read as anticipating, or at least converging with, Lacan’s rejection of the ‘depth’ conception of the psyche (Cannon 1991, 2016; Trotter 2018; Frank and Preyer 2020)[^cannon-1991][^frank-2020][^trotter-2018]. A more analytic reframing of Sartre’s critique of the Freudian unconscious has been offered by Morag (2024), who reactivates Sartre’s scene of bad faith in the light of contemporary debates on self-deception. Sartre’s unfinished collaboration with John Huston on the Freud screenplay arguably constitutes an under-examined site for understanding his later philosophical engagement with psychoanalysis (Sinnerbrink 2024)[^sinnerbrink-2024].
+
+According to Sartre’s existential psychoanalysis, all human behaviour can be described as a secondary particularisation of a fundamental project which expresses the subject’s free choice, and conditions the intelligibility of their actions. On the basis of his diagnosis of Baudelaire’s existential project, for instance, Sartre goes as far as to claim that he is “prepared to wager that he preferred meats cooked in sauces to grills, preserves to fresh vegetables” (Sartre 1947a [1967: 113]). Sartre legitimates such a daring statement by showing its logical connection to Baudelaire’s irresistible hatred for nature, from which his gastronomic preferences must derive, and which Sartre identifies as the expression of the initial free choice of himself that commands the whole of the French *poète maudit*’s existence[^note-4]. In Sartre’s words:
+
+> He chose to exist for himself as he was for others. He wanted his freedom to appear to himself like a “nature”; and he wanted this “nature” which others discovered in him to appear to them like the very emanation of his freedom. From that point everything becomes clear. […] We should look in vain for a single circumstance for which he was not fully and consciously responsible. Every event was a reflection of that indecomposable totality which he was from the first to the last day of his life (Sartre 1947a [1967: 191–192]).
+
+Baudelaire’s choice of himself both accounts for the subject’s freedom (insofar as it has been freely accepted as the subject’s own project of existence) and exerts a constraint on particular behaviours and attitudes towards the world, so that he is bound to act and behave in a way that must be compatible with that choice. Although absolutely free, such an initial choice takes the shape and the meaning of an inescapable and relentless *destiny* – a destiny in which one’s sense of freedom and their inability to act in any other way than they actually did come to merge perfectly: “the free choice which a man makes of himself is completely identified with what is called his destiny” (Sartre 1947a [1967: 192]).
+
+In the years following the publication of *Being and Nothingness*, Sartre refines this original conception of existential psychoanalysis. He applies it methodically to the biographical analysis of a series of major French writers (Baudelaire first, then Mallarmé, Jean Genêt, Flaubert, and himself in *Words*), warning against the dangers of all kinds of determinist interpretations, from the constitution of psychological types to materialist explanations inherited from Marxian historical analyses. Sartre’s analyses become more subtle over time, as he substitutes fine-grained descriptions of the concrete constraints that frame and shape the limits of human lives to the strongly metaphysical theses on freedom that he was first tempted to apply indistinctly to each of these writers. Accordingly, existential psychoanalysis plays a central role in the development of Sartre’s thought from the early 40s up to his last published work on Flaubert. It allows him to unify and articulate two fundamental threads of his philosophical thinking: his ontological analysis of the absolute freedom of the for-itself in *Being and Nothingness*; and his later attempt to take into consideration the social, historical and political factors that are inevitably involved in the determination of one’s free choice of their own existence. Already in his *War Diaries* from 1940, the method of analysis of “human reality” arises from Sartre’s attempt to *understand* rather than explain (according to Dilthey’s famous distinction) Emperor Wilhelm II’s historical situation and its relation to the aspects of his personal life that express his specific way of being-in-the-world (Sartre 1983b [1984: 308–309]). The application of his method to the specific cases of these French writers allowed him to refine the ahistorical descriptions of his earlier work, by bringing the analysis of the subject’s freedom back to the material/historical conditions (both internal and external) of constitution of their particular modes of existing.
+
+Sartre’s inquiries into existential psychoanalysis also anticipate and intersect with his philosophical investigations on historical anthropology. The progressive-regressive method presented in *Search for a Method* and *Critique of Dialectical Reason* (Sartre 1960a [1976]) was first sketched and experimented through Sartre’s essays in existential psychoanalysis[^note-5]. Sartre’s detailed analyses of Flaubert’s biography in *The Family Idiot* can be read as synthesising the hermeneutical methodology theorised in *Search for A Method* and the conception of the freedom involved in one’s initial choice of themselves that arose from *Being and Nothingness*. Moving discretely away from an all-too metaphysical doctrine of absolute freedom, Sartre goes back to the most concrete details of Flaubert’s material conditions of existence in order to account for the specific way in which Flaubert made himself able, through the writing of his novels, to overcome his painful situation as a “frustrated and jealous younger brother” and “unloved child” thanks to a totalizing project that made him “the author of *Madame Bovary*” (Sartre 1971–72 [1987, vol. 2: 7]). If Flaubert’s novel and masterpiece is consequently understood and described as the final objectivation of Gustave’s fundamental project, Sartre is now careful to point out the economic, historic and social conditions within which this project only finds its full intelligibility. Sartre’s psychoanalytic method is then expected to reveal, beyond what society has made of Flaubert, what he himself could make of what society has made of him. In order to fly away from the painful reality of his unbearable familial situation, the young Gustave chooses irreality over reality, and chooses it freely, though achingly. From that moment on, his dedication to literature commits him to a fictional world that he couldn’t but choose to elect as the realm of his genius.
+
+The specific role that Sartre’s existential psychoanalysis played within his intellectual trajectory – from the metaphysical doctrine of absolute freedom in *Being and Nothingness* to the fine-grained material and historical analyses of *The Family Idiot* – has become a focal point of recent Sartre scholarship. Whether this trajectory constitutes a genuine rupture or rather an internal development of a single project remains a matter of debate. Several commentators (Webber 2009, 2018; Gardner 2009; Moati 2019)[^gardner-2009][^moati-2019][^webber-2009] have defended versions of the continuity thesis, arguing that the apparently absolute freedom of *Being and Nothingness* already involves situated, embodied, and proto-historical determinations that the later work merely renders explicit. On such grounds, Sartre’s ontological conception of freedom may be defended against the charge that it cannot account for situated limitation (Sares forthcoming). Others have stressed the depth of the shift, particularly around the question of the practico-inert and the dialectic of seriality (Flynn 1984; Aronson 1987)[^aronson-1987][^flynn-1984]. The recent abridged edition of *The Family Idiot* (Sartre 2023, ed. Catalano) has contributed to renewing scholarly attention to the late Sartre. The picture that emerges from these discussions is that Sartre’s existential psychoanalysis is best understood as the conceptual hinge between his early ontology and his later social philosophy, rather than as a transitional moment to be superseded.
+
+## 6. Existentialist Marxism: Critique of Dialectical Reason
+
+While *Search for a Method* (1957) had been published earlier, it is not until 1960 that Sartre completed the first volume – “Theory of Practical Ensembles” – of what is his final systematic work of philosophy, *Critique of Dialectical Reason*. The second volume, “The Intelligibility of History”, was published posthumously in French in 1985. It would be 1991 before both volumes were to be available in English, which goes some of the way towards explaining their subsequent neglect. It is also a book that rivals *Being and Nothingness* for difficulty, even if some of its goals and ambitions can be expressed straightforwardly enough. Never a member of the French Communist Party, Sartre nonetheless begins by laying his Marxist cards on the table:
+
+> we were convinced at one and the same time that historical materialism furnished the only valid interpretation of history and that existentialism remained the only concrete approach to reality. (Sartre 1957 [1963: 21])
+
+*Critique* offers a systematic attempt to justify these two perspectives and render them compatible (also see McBride 1991)[^mcbride-1991]. In broad terms, some of the main steps needed to effect such a synthesis are clear, most notably to deny or limit strong structuralist and determinist versions of Marxism. Borrowing some themes from Merleau-Ponty’s *Humanism and Terror*, Sartre maintained that any genuinely dialectical method refuses to reduce; it refuses scientific and economic determinism that treats humans as things, contrary to reductive versions of Marxism. He pithily puts his objection to such explanations in terms of what we might today call the genetic fallacy. Sartre says,
+
+> Valery is a petit bourgeois intellectual, no doubt about it. But not every petit bourgeois intellectual is Valery. The heuristic inadequacy of contemporary Marxism is contained in these two sentences. (Sartre 1957 [1963: 56])
+
+Moreover, for Sartre, class struggle is not the only factor that determines and orients history and the field of possibilities. There is human choice and commitment in class formation that is equally fundamental. The way in which this plays out in *Critique* is through an emphasis on praxis rather than consciousness, which we have seen is also characteristic of his existential psychoanalytic work of the prior decade.
+
+Without being able to adequately summarise the vast *Critique* here (see Flynn 1984)[^flynn-1984], one of the book’s core conceptual innovations is the idea of the practico-inert. Sartre defines this as “the activity of others insofar as it is sustained and diverted by inorganic inertia” (Sartre 1960a [1976: 556]). The concept is intended to capture the forms of social and historical sedimentation that had only minimally featured in *Being and Nothingness*. It is the reign of necessity,
+
+> the domain … in which inorganic materiality envelops human multiplicity and transforms the producer into its product. (Sartre 1960a [1976: 339])
+
+For Sartre, the practico-inert is the negation of humanity. Any reaffirmation of humanity, in which genuine freedom resides, must take the form of the negation of this negation (negation is productive here, as it also was in *Being and Nothingness*). For Sartre, then, there are two fundamental kinds of social reality: a positive one in which an active group constitutes the common field; and a negative one in which individuals are effectively separated from each other (even though they appear united) in a practico-inert field. In the practico-inert field, relations are typified by what Sartre calls seriality, like a number, or a worker in a factory who is allocated to a place within a given system that is indifferent to the individual. Sartre’s prime example of this is of waiting for a bus, or street-car, on the way to work. If the people involved do not know each other reasonably well there is likely to be a kind of anonymity to such experiences in which individuals are substitutable for each other in relation to this imminent bus, and their relations are organised around functional need. If the bus is late, or if there are too many people on it, however, those who are waiting go from being indifferent and anonymous (something akin to what Heidegger calls *das Man* in *Being and Time*) to becoming competitors and rivals. In a related spirit Sartre also discusses the serial unity of the TV watching public, of the popular music charts, bourgeois property, and petty racism and stereotyping as well. These collective objects keep serial individuals apart from one another under the pretext of unifying them. Sartre thus appears to accept a version of the Marxian theses concerning commodity fetishism. This competitive or antagonistic dimension of the practico-inert is amplified in situations of material scarcity. This kind of seriality is argued to be the basic type of sociality, thus transforming the focus on dyadic consciousnesses of *Being and Nothingness*. In the *Critique*, otherness becomes produced not simply through the look that Sartre had previously described as the original meaning of being-for-others, but through the sedimentation of social processes and through practico-inert mediation. Society produces in us serial behaviour, serial feelings, serial thoughts, and “passive activity” (Sartre 1960a [1976: 266]), where events and history are conceived as external occurrences that befall us, and we feel compelled by the force of circumstance, or “monstrous forces” as Sartre puts it. It is the practico-inert, modified by material and economic scarcity, which turns us into conflictual competitors and alienates us from each other and ourselves. Only an end to both material scarcity and the alienating mediation of the practico-inert will allow for the actualisation of socialism.
+
+While Sartre is pessimistic about the prospects for any sort of permanent revolution of society, he maintains that we get a fleeting glimpse of this unalienated condition in the experience of the “group in fusion”. This occurs when the members of a group relate to each other through praxis and in a particular way. The group in fusion is not a collective *à la* the practico-inert, but a social whole that spontaneously forms as a plurality of serial individuals respond to some danger, pressing situation, or to the likelihood of a collective reaction to their stance (Flynn 1984: 114)[^flynn-1984]. We could consider what happens when an individual acts so as to make manifest this serial otherness, like Rosa Parks when she refused to give up her seat and thus drew attention to the specific nature of the colonialist seriality at the heart of many states in the USA. This sometimes creates a rupture and others might follow. Sartre’s own prime example is of a crowd of workers who were fleeing during the French Revolution in 1789. At some point the workers stopped fleeing, turned around and reversed direction, suddenly energised alongside each other by their practical awareness that they were doing something together. For this kind of “fusion” to happen it must fulfil the following four key conditions for genuine reciprocity that Flynn summarises as follows:
+
+1. That the other be a means to the exact degree that I am a means myself, i.e., that he be the means towards a transcendent goal and not my means;
+2. That I recognize the other as praxis at the same time as I integrate him into my totalizing project;
+3. That I recognize his movement towards his own ends in the very movement by which I project myself towards mine;
+4. That I discover myself as an object and instrument of his own ends by the same act that makes him an object and instrument of mine. (Flynn 1984: 115, also see previous version of this entry [Flynn 2004 [2013]] and cf. Sartre 1960a [1976: 112–3])[^flynn-1984][^flynn-2004].
+
+Sartre calls the resurrection of this freedom an “apocalypse”, indicating that it is an unforeseen and (potentially) revolutionary event that happens when serial abuse and exploitation can no longer be tolerated. The group in fusion has a maximum of praxis and a minimum of inertia, but serial sociality has the reverse.
+
+Unfortunately, Sartre insists that this group in fusion is destined to meet with what he calls an “ontological check” in the form of the institution, which cannot be escaped as some versions of anarchism and Marxism might hope. The group relapses into seriality when groups are formalised into hierarchical institutional structures. Serial otherness comes to implicate itself in interpersonal relations in at least three ways in the institution: sovereignty; authority; and bureaucracy (see Book 2, Chapter 6, “The Institution”). From the co-sovereignty of the group in fusion, someone inevitably becomes sovereign in any new social order. Similarly, a command-obedience relation comes about in institutions, to greater and lesser extents, and there will be exhortations to company loyalty, to do one’s duty, etc. (Flynn 1984: 120)[^flynn-1984]. Bureaucratic rules and regulation also inevitably follow, partly as a reaction to fear of sovereignty, and this installs what Sartre calls vertical otherness – top-down hierarchies, as opposed to the horizontal and immanent organisation of the group in fusion (Sartre 1960a [1976: 655–663]). As such, the revolutionary force of the group in fusion is necessarily subject to mediation by the practico-inert, as well as the problems associated with institutionality just described. Although is it still structured through a series of oppositions, the *Critique* delivers a sophisticated social ontology that both addresses some weaknesses in Sartre’s earlier work and unifies the social and political reflections of much of his later work.
+
+## 7. Politics and Anti-Colonialism
+
+Although it is not possible to address all of Sartre’s rich and varied contributions to ethics and politics here, we will introduce some of the key ideas about race and anti-colonialism that were important themes in his post *Being and Nothingness* work and are currently significant issues in our times. Sartre was generally stridently anti-colonialist, perhaps even advocating a multiculturalism *avant la lettre*, as Michael Walzer has argued in his Preface to *Anti-semite and Jew* (Walzer 1995: xiv)[^walzer-1995]. His books and more journalistic writings typically call out what he saw as the bad faith of many French and European citizens.
+
+The issue of race was part of Sartre’s French intellectual scene, and Sartre himself played a major role in facilitating that in the pages of *Les Temps Modernes*, *L’Express*, and elsewhere. Debates about the intersection of philosophy and race, and colonialism and multiculturalism, were all being had. These concerned not only the French Algerian and African “colonies” but also Vietnam via Tran Duc Thao, who had challenged Sartre’s efforts to bring phenomenological existentialism together with Marxism. Initially at least, Sartre’s arguments here typically drew on and extended some of the categories deployed in *Being and Nothingness*. There is an obvious sense in which a critique of racism automatically ensues from Sartrean existentialism. Racism is a form of bad faith, for Sartre, since it typically (perhaps necessarily) involves believing in essences or types, and indeed constructing essences and types. His *Notebooks* suggest that all oppression rests on bad faith. In racism, in particular, there is an “infernal circle of irresponsible responsibility, of culpable ignorance and ignorance which is knowledge” (Sartre 1943 [1956: 49]), as well as what Sartre calls passive complicity. Many of us (or Sartre’s own French society) may not obviously be bigots, but we sustain a system that is objectively unjust through our choices and sometimes wilful ignorance. In relation to colonialism, Sartre likewise contends that we have all profited from colonialist exploitation and sustained its systems, even if we are not ourselves a “settler”.
+
+This is also the key argument of *Anti-semite and the Jew*, composed very quickly in 1944 and without much detailed knowledge of Judaism but with more direct knowledge of the sort of passive anti-semitism of many French citizens. The text was written following the Dreyfus affair and before all of the horrors of the holocaust were widely known. Sartre was aiming to understand (and critique) the situation he observed around him, in which the imminent return of the French Jews exiled by the Nazis was not unambiguously welcomed by all. The book is perceptive about its prime targets, the explicit or implicit anti-semite, who defines the real Frenchmen by excluding others, notably the Jew. Now, of course, few of his contemporaries would admit to being anti-semites, just as few would admit to being racist. But there are patterns of bad faith that Sartre thinks are clear: we participate in social systems that force the dilemma of authenticity or inauthenticity upon the Jew, asking them to choose between their concrete practical identities (religious and cultural) and more universal ascriptions (liberty, etc.) in a way that cannot be readily navigated within the terms of the debate. Sartre consistently ascribes responsibility to collectives here, even if those collectives are ultimately sustained by individual decisions and choices. For him, it is not just the assassin say, nor just Eichmann and the Nazi regime, who are held responsible. Rather, these more obviously egregious activities were sustained by their society and the individuals in it, through culpable ignorance and patterns of bad faith.
+
+Sartre also addressed the negritude movement in his Preface to *Black Orpheus* (1948), an anthology of negritude poetry. He called for an anti-racist racism and saw himself as resolutely on the side of the negritude movement, but he also envisaged such interventions as a step towards ultimately revealing the category of race itself as an example of bad faith. Here the reception from Frantz Fanon and others was mixed. In *Black Skin, White Masks* (1952), Fanon argues this effectively undermined his own lived-experience and its power (see entries on negritude and Fanon; cf. also Gordon 1995)[^gordon-1995]. Sartre continued to address colonialism and racism in subsequent work, effecting a rapprochement of sorts with Fanon that culminated in his “Introduction” to Fanon’s *The Wretched of the Earth* (1961), where also Sartre appears to endorse a counter-violence. Some further recent discussions of the relationship between Sartre and Fanon can be found in Webber (2018) and Romdenh-Romluc (2024).
+
+Although we have not given much attention to Sartre’s literary and artistic productions since section 3 above, he continued to produce artistic work of political significance throughout his career. Continuous with insights from his *What is Literature?*, Sartre argues that in a society that remains unjust and dominated by oppression, the prose-writer (if not the poet) must combat this violence by jolting the reader and audience from their complacency, rather than simply be concerned with art for its own sake. His literary works hence are typically both philosophical and political. Although the number of these works diminished over time, there is still a powerful literary exploration of the philosophical and political themes of the *Critique* in the play, *The Condemned of Altona* (1960).
+
+We cannot neatly sum up a public intellectual and man of letters, like Sartre, to conclude. We do think, however, that it is arguable, with the benefit of hindsight, that some of Sartre’s interventions are prescient rather than outmoded remnants of the nineteenth century (*à la* Foucault). They certainly presage issues that are in the foreground today, concerning class, race, and gender. That doesn’t mean that Sartre got it all correct, of course, whatever that might mean in regard to the complex realities of socio-political life. Indeed, if one is to take a stand on so many of the major socio-political issues of one’s time, as Sartre did, it is inevitable that history will not look kindly on them all. Sartre’s life and writings hence present a complex and difficult interpretive task, but they remain a powerful provocation for thought and action today.
+
+## References（引用注释）
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### A. Primary Literature
+
+#### A.1 Works by Sartre
+
+#### A.2 Works by others
+
+### B. Secondary literature
+
+## Academic Tools
+
+> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=sartre). |
+> | --- | --- |
+> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/sartre/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=sartre&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/sartre/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+- [Jean Paul Sartre: Existentialism](https://iep.utm.edu/sartre-ex/), by Christian J. Onof at the *Internet Encyclopedia of Philosophy*
+- [U.K. Sartre Society](https://uksartresociety.com/)
+- [North American Sartre Society](http://ebutterfield4.wixsite.com/nass)
+- [Groupe d‘Études Sartriennes](http://www.ges-sartre.fr/)
+- Flynn, Thomas, “Jean-Paul Sartre”, *Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2022/entries/sartre/](https://plato.stanford.edu/archives/spr2022/entries/sartre/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=sartre).]
+
+## Related Entries
+
+aesthetics: existentialist | authenticity | Beauvoir, Simone de | Camus, Albert | existentialism | Fanon, Frantz | Foucault, Michel | Heidegger, Martin | Husserl, Edmund | intentionality | Kierkegaard, Søren | Merleau-Ponty, Maurice | Négritude | Nietzsche, Friedrich | nothingness | phenomenology | self-consciousness: phenomenological approaches to
+
+### Acknowledgments
+
+Jack would like to acknowledge Marion Tapper, who taught him Sartre as an undergraduate student. In addition, he would like to thank Steven Churchill, with whom he has worked on Sartre elsewhere and the work here remains indebted to those conversations and collaborations. Thanks also to Erol Copelj for feedback on this entry.
+
+## Notes（原文脚注）
+
+## Notes to Jean-Paul Sartre
+
+[^note-1]: This remark by Foucault should not, however, be read as a uniformly critical verdict against Sartre, with whom Foucault maintained a complex relationship and who represented for him an important ally throughout the 1970s, notably through the Groupe d’Information sur les Prisons (GIP). Foucault’s later interviews (gathered in *Dits et Écrits*, Foucault 2001) reflect a considerably more nuanced, and at times admiring, assessment of Sartre as an engaged intellectual. For an extensive scholarly treatment of the philosophical relations between the two thinkers, see Flynn (1997, 2005). For biographical context on Foucault’s intellectual trajectory and his relationship with Sartre, see also Eribon (1991) and Macey (1993).
+
+[^note-2]: Derrida asks:
+
+> …What must a society such as ours be if a man [that is Sartre], who in his own way, rejected or misunderstood so many theoretical and literary events of his time—let’s say, to go quickly, psychoanalysis, Marxism, structuralism, Joyce, Artaud, Bataille, Blanchot—who accumulated and disseminated incredible misreadings of Heidegger and sometimes of Husserl, could come to dominate the cultural scene to the point of becoming a great popular figure? (Derrida 1992 [1995: 122])[^derrida-1992]
+
+It is an interesting question that Derrida poses, but it is also of its time (1983) and does not engage at all with what is significant and singular about Sartre’s own work.
+
+[^note-3]: This new orientation of Sartre’s philosophy is explicitly documented in the War Diaries [*Carnets de la drôle de guerre*], particularly in notebooks XI and XIV, where the dialogue with *Being and Time* directly shapes Sartre’s transition from pure consciousness to being-in-the-world (Sartre 1984).
+
+[^note-4]: This bold biographical inference has drawn criticism: Bourdieu (1986) explicitly targeted this kind of totalizing existentialist inference, and Genet himself contested certain of Sartre’s interpretations in later interviews. For a systematic treatment of the relationship between Sartre’s account of freedom and the biographical method in Sartre’s later project on Flaubert, see Howells (1988), ch. 7–8.
+
+[^note-5]: This method was partly borrowed from Henri Lefebvre (1959), who subsequently claimed priority over Sartre’s formulation — a minor but frequently noted polemic in the secondary literature.
+
+[^this-nd]: This bibliography presents a selection of the works from Sartre and secondary literature that are relevant for this entry. For a complete annotated bibliography of Sartre’s works see
+
+[^contat-1974]: Contat, Michel and Michel Rybalka, 1974, *The Writings of Jean-Paul Sartre*, two volumes, Richard C. McCleary (trans.), (Northwestern University Studies in Phenomenology and Existential Philosophy), Evanston, IL: Northwestern University Press.
+
+[^updated-nd]: Updated in
+
+[^updated-1975]: 1975, *Magazine littéraire*, 103–4: 9–49,
+
+[^michel-nd]: and by Michel Sicard in
+
+[^michel-1979]: 1979, special issue on Sartre, *Obliques*, 18–19(May): 331–347.
+
+[^michel-nd-2]: Michel Rybalka and Michel Contat have complied an additional bibliography of primary and secondary sources published since Sartre’s death in
+
+[^rybalka-1993]: Rybalka, Michel and Michel Contat, 1993, *Sartre: Bibliographie 1980–1992*, (CNRS Philosophie), Paris: CNRS and Bowling Green, OH: Philosophy Documentation Center, Bowling Green State University.
+
+[^individual-nd]: A.1.1 Individual works published by Sartre
+
+[^individual-1936a]: 1936a, *La Transcendance de l’ego: Esquisse d’une description phénomenologique*, Paris: J. Vrin. Translated as
+
+[^individual-1957]: 1957, *The Transcendence of the Ego: An Existentialist Theory of Consciousness*, Forrest Williams and Robert Kirkpatrick (trans.), New York: Noonday Press.
+
+[^individual-2004]: 2004, *The Transcendence of the Ego: A Sketch for a Phenomenological Description*, Andrew Brown (trans.), London: Routledge. doi:10.4324/9780203694367
+
+[^individual-1936b]: 1936b [2012], *L’imagination*, Paris: F. Alcan. Translated as *The Imagination*, Kenneth Williford and David Rudrauf (trans.), London: Routledge, 2012. doi:10.4324/9780203723692
+
+[^individual-1938]: 1938 [1965], *La Nausée: Roman*, Paris: Gallimard. Translated as *Nausea*, Robert Baldick (trans.), Harmondsworth: Penguin, 1965.
+
+[^individual-1939a]: 1939a [1970], “Une idée fondamentale de la phénoménologie de Husserl: l’intentionnalit”, *La Nouvelle Revue française*, 304: 129–132. Reprinted in *Situations* 1. Translated as “Intentionality: A Fundamental Idea of Husserl’s Phenomenology”, Joseph P. Fell (trans.), *Journal of the British Society for Phenomenology*, 1(2): 4–5, 1970. doi:10.1080/00071773.1970.11006118
+
+[^individual-1939b]: 1939b [1948], *Esquisse d’une théorie des émotions*, Paris: Hermann. Translated as *The Emotions: Outline of a Theory*, Bernard Frechtman (trans.), New York: Philosophical Library, 1948.
+
+[^individual-1940]: 1940 [2004], *L’Imaginaire: Psychologie Phénoménologique de l’imagination*, Paris: Gallimard. Translated as *The Imaginary: A Phenomenological Psychology of the Imagination*, Arlette Elkaïm-Sartre (ed.), Jonathan Webber (trans.), London: Routledge, 2004.
+
+[^individual-1943]: 1943 [1956, 2018], *L’être et le néant: Essai d’ontologie phénoménologique*, Paris: Gallimard. Translated as
+
+[^individual-1956]: 1956, *Being and Nothingness: An Essay on Phenomenological Ontology*, Hazel E. Barnes (trans.), New York: Philosophical Library.
+
+[^individual-2018]: 2018, *Being and Nothingness: An Essay in Phenomenological Ontology*, Sarah Richmond (trans.), London: Routledge.
+
+[^individual-1945]: 1945–49, *Les Chemins de la liberté* (The roads to freedom), Paris: Gallimard. Series of novels *L’âge de raison* (The age of reason, 1945), *Le sursis* (The reprieve, 1945), and *La mort dans l’âme* (Troubled sleep, 1949).
+
+[^individual-1946a]: 1946a [2007], *L’existentialisme est un humanisme*, (Collection Pensées), Paris: Nagel. Translated as *Existentialism is a Humanism*, John Kulka (ed.), Carol Macomber (trans.), New Haven, CT: Yale University Press, 2007.
+
+[^individual-1946b]: 1946b [1948/1995], *Réflexions sur la question juive*, Paris: P. Morihien. Translated as *Anti-semite and Jew*, George J. Becker (trans.), New York: Schocken Books, 1948 (reprinted with preface by Michael Walzer, 1995).
+
+[^individual-1946c]: 1946c [1955], “Matérialisme et Révolution I”, *Les Temps Modernes*, 9: 37–63 and 10: 1–32. Reprinted in *Situations III*, Paris: Gallimard, 1949. Translated as , “Materialism and Revolution”, in *Literary and Philosophical Essays*, Annette Michelson (trans.), New York: Criterion Books, 1955.
+
+[^individual-1947a]: 1947a [1967], *Baudelaire*, Paris: Gallimard. Translated as *Baudelaire*, Martin Turnell (trans.), London: H. Hamilton, 1949. Reprinted, Norfolk, CT: New Directions, 1967
+
+[^individual-1947b]: 1947b [1949], *Huis-Clos*, Paris: Gallimard. First produced 1944. Translated as *No Exit*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
+
+[^individual-1947c]: 1947c [1949], *Les Mouches*, Paris: Gallimard. First produced 1943. Translated as *The Flies*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
+
+[^individual-1948a]: 1948a [1988], “Qu’est-ce que la littérature?”, *Les Temps modernes*. Collected in *Situations II*. Translated in *“What Is Literature?” and Other Essays*, Bernard Frechtman (trans.), Cambridge, MA: Harvard University Press, 1988.
+
+[^individual-1948b]: 1948b [1967], “Conscience de soi et connaissance de soi”, *Bulletin de la Société française de Philosophie*, n° 3, avril-juin 1948. Translated as “Consciousness of Self and Knowledge of Self”, in *Readings in Existential Phenomenology*, Nathaniel Lawrence and Daniel O’Connor (eds), Englewood Cliffs, NJ: Prentice Hall, 1967.
+
+[^individual-1948c]: 1948c [1949], *Les mains sales: pièce en sept tableaux*, Paris: Gallimard. First produced 1948. Translated as *Dirty Hands*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
+
+[^individual-1952a]: 1952a [1963], *Saint-Genêt, Comédien et martyr*, Paris: Gallimard. Translated as *Saint Genet: Actor and Martyr*, Bernard Frechtman (trans.), New York: George Braziller, 1963.
+
+[^individual-1952b]: 1952b [1968]. “Les communistes et la paix”, published in *Situations VI*. Translated as “The Communists and Peace”, in *The Communists and Peace, with A Reply to Claude Lefort*, Martha H. Fletcher and Philip R. Berk (trans.), New York: George Braziller, 1968.
+
+[^individual-1957-2]: 1957 [1963/1968], *Questions de méthode*, Paris: Gallimard. Later to be a foreword for Sartre 1960. Translated as *Search for a Method*, Hazel E. Barnes (trans.), New York: Knopf, 1963. Reprinted New York: Random House, 1968.
+
+[^individual-1960a]: 1960a [1976], *Critique de la Raison dialectique, tome 1, Théorie des ensembles pratiques*, Paris, Gallimard. Translated as *Critique of Dialectical Reason, volume 1: Theory of Practical Ensembles*, Alan Sheridan-Smith (trans.), London: New Left Books, 1976. Reprinted in 2004 with a forward by Fredric Jameson, London: Verso. The second unfinished volume was published posthumously in 1985.
+
+[^individual-1960b]: 1960b, *Les Séquestrés d’Altona* (The condemned of Altona), Paris: Gallimard. First produced 1959.
+
+[^individual-1964a]: 1964a [1964], *Les mots*, Paris: Gallimard. Translated as *The Words*, Bernard Frechtman (trans.), New York: Braziller, 1964.
+
+[^individual-1969]: 1969, “Itinerary of a Thought”, interview with Perry Anderson, Ronald Fraser and Quintin Hoare, *New Left Review*, I/58: 43–66. Partially published in *Situations IX*.
+
+[^individual-1971]: 1971–72 [1981–93], *L’Idiot de la famille. Gustave Flaubert de 1821 à 1857*, 3 volumes, Paris: Gallimard. Translated as *The Family Idiot: Gustave Flaubert, 1821–1857*, 5 volumes, Carol Cosman (trans.), Chicago: University of Chicago Press, 1981/1987/1989/1991/1993. *An Abridged Edition*, ed. and abridged by J. S. Catalano, tr. C. Cosman, Chicago: University of Chicago Press, 2023.
+
+[^individual-1980]: 1980 [1996], “L’espoir, maintenant”, interview with Benny Lévy, *Le Nouvel observateur*, n° 800, 801, 802. Reprinted as *L’espoir maintenant: les entretiens de 1980*, Lagrasse: Verdier, 1991. Translated as *Hope Now: The 1980 Interviews*, Adrian van den Hoven (trans.), Chicago, IL: The University of Chicago Press, 1996.
+
+[^collections-nd]: A.1.2 Collections of works by Sartre
+
+[^references-nd]: References to *Situations* will be abbreviated as *Sit.* followed by the volume, e.g., *Sit. V*.
+
+[^references-1947]: 1947, *Situations I: Critiques littéraires*, Paris: Gallimard. Partially translated in *Literary and Philosophical Essays*, Annette Michelson (trans.), London: Rider, 1955. Reprinted New York: Collier Books, 1962.
+
+[^references-1948]: 1948, *Situations II*, Paris: Gallimard.
+
+[^references-1949]: 1949, *Situations III: Lendemains de guerre*, Paris: Gallimard.
+
+[^references-1964b]: 1964b, *Situations IV: Portraits*, Paris: Gallimard.
+
+[^references-1964c]: 1964c, *Situations V: Colonialisme et néo-colonialisme*, Paris: Gallimard. Translated as *Colonialism and Neocolonialism*, Azzdedine Haddour, Steve Brewer, and Terry McWilliams (trans), London: Routledge, 2001. doi:10.4324/9780203991848
+
+[^references-1964d]: 1964d, *Situations VI: Problèmes du marxisme 1*, Paris: Gallimard.
+
+[^references-1965]: 1965, *Situations VII: Problèmes du marxisme 2*, Paris:, Gallimard.
+
+[^references-1971]: 1971, *Situations VIII: Autour de 68*, Paris: Gallimard.
+
+[^references-1972]: 1972, *Situations IX: Mélanges*, Paris: Gallimard. Material from *Situations VIII et IX* translated as *Between Existentialism and Marxism*, John Mathews (trans.), London: New Left Books, 1974.
+
+[^references-1976]: 1976, *Situations X: Politique et autobiographie*, Paris: Gallimard. Translated as *Life/Situations: Essays Written and Spoken*, Paul Auster and Lydia Davis (trans), New York: Pantheon, 1977.
+
+[^references-1981]: 1981, *Œuvres romanesques*, Michel Contat, Michel Rybalka, G. Idt and G. H. Bauer (eds), Paris: Gallimard, Bibliothèque de la Pléiade.
+
+[^references-1988]: 1988, *“What is Literature?” and Other Essays*, [including *Black Orpheus*] tr. Bernard Frechtman et al., intro. Steven Ungar, Cambridge, Mass.: Harvard University Press.
+
+[^references-2005]: 2005, *Théâtre complet*, Paris: Gallimard, Bibliothèque de la Pléiade.
+
+[^posthumous-nd]: A.1.3 Posthumous works by Sartre
+
+[^posthumous-1983a]: 1983a, *Cahiers pour une morale*, Paris: Gallimard. Translated as *Notebook for an Ethics*, David Pellauer (trans.), Chicago, IL: University of Chicago Press, 1992.
+
+[^posthumous-1983b]: 1983b, *Carnets de la drôle de guerre, septembre 1939 – mars 1940*, Paris: Gallimard. Reprinted in 1995 with an addendum. Translated as *The War Diaries: Notebooks from a Phoney War*, Quinton Hoare (trans.), New York: Pantheon, 1984.
+
+[^posthumous-1983c]: 1983c, *Lettres au Castor et à quelques autres*, Simone de Beauvoir (ed.), Paris: Gallimard
+
+[^tome-1926]: *Tome 1: 1926–1939*
+
+[^tome-1940]: *Tome 2: 1940–1963* Some translated in *Quiet Moments in a War. The Letters of Jean-Paul Sartre to Simone de Beauvoir, 1940–1963*, Simone de Beauvoir (ed.) and Lee Fahnestock and Norman MacAfee (tr. and intro.), New York: Charles Scribner’s Sons, 1993.
+
+[^tome-1984]: 1984, *Le Scenario Freud*, Paris: Gallimard. Translated as *The Freud Scenario*, Quinton Hoare (trans.), Chicago, IL: University of Chicago Press, 1986.
+
+[^tome-1985]: 1985, *Critique de la raison dialectique, tome 2, L’intelligibilité de l’histoire*, Paris: Gallimard. Translated as *Critique of Dialectical Reason, Volume 2: The Intelligibility of History*, Quintin Hoare (trans.), London: Verso, 1991. Reprinted 2006, foreword by Frederic Jameson, London: Verso. [unfinished].
+
+[^tome-1989]: 1989, *Vérité et existence*, Paris: Gallimard [written in 1948]. Translated as *Truth and Existence*, Adrian van den Hoven (trans.), Ronald Aronson (intro.), Chicago, IL: University of Chicago Press, 1992.
+
+[^tome-1990]: 1990, *Écrits de jeunesse*, Michel Contat and Michel Rybalka (eds), Paris: Gallimard.
+
+[^astruc-1978]: Astruc, Alexandre and Michel Contat (directors), 1978, *Sartre by Himself: A Film Directed by Alexandre Astruc and Michel Contat with the Participation of Simone de Beauvoir, Jacques-Laurent Bost, Andre Gorz, Jean Pouillon*, transcription of film, Richard Seaver (trans.), New York: Urizen Books.
+
+[^beauvoir-1947]: Beauvoir, Simone de, 1947 [1976], *Pour une morale de l’ambiguïté*, Paris: Gallimard. Translated as *The Ethics of Ambiguity*, Bernard Frechtman (trans.), New York: Philosophical Library, 1948. Translation reprinted New York: Citadel Press, 1976.
+
+[^beauvoir-1960]: –––, 1960 [1962], *La force de l’âge*, Paris: Gallimard. Translated as *The Prime of Life*, Peter Green (trans.), Cleveland, OH: World Publishing, 1962.
+
+[^beauvoir-1963]: –––, 1963 [1965], *La force des choses*, Paris: Gallimard. Translated as *Force of Circumstance*, Richard Howard (trans.), New York: Putnam, 1965.
+
+[^beauvoir-1981]: –––, 1981 [1986], *La cérémonie des adieux: suivi de, Entretiens avec Jean-Paul Sartre, août-septembre 1974*, Paris: Gallimard. Translated as *Adieux: A Farewell to Sartre*, Patrick O’Brian (trans.), New York: Pantheon Books, 1984. Translation reprinted London and New York: Penguin, 1988.
+
+[^carnap-1931]: Carnap, Rudolf, 1931, “Überwindung der Metaphysik durch logische Analyse der Sprache”, *Erkenntnis*, 2(1): 219–241. Translated as “The Elimination of Metaphysics Through Logical Analysis of Language”, Arthur Pap (trans.), in *Logical Positivism*, A. J. Ayer (ed.), New York: The Free Press, 1959, 60–81. doi:10.1007/BF02028153 (de)
+
+[^contat-1970]: Contat, Michel and Michel Rybalka, 1970, *Les écrits de Sartre: Chronologie, bibliographie commentée*, Paris: Gallimard. Translated as *Writings of Jean-Paul Sartre, Volume 1: A Bibliographical Life*, Richard C. McCleary (trans.), Evanston, IL: Northwestern University Press, 1974.
+
+[^deleuze-2004]: Deleuze, Gilles, 2004, *Desert Islands and Other Texts, 1953–1974*, David Lapoujade (trans.), Los Angeles, CA: Semiotext(e).
+
+[^derrida-1992]: Derrida, Jacques, 1992 [1995], *Points de Suspension: Entretiens*, Elisabeth Weber (ed.), (Collection la philosophie en effet), Paris: Editions Galilée. Translated as *Points: Interviews, 1974–1994*, Peggy Kamuf (trans.), (Meridian), Stanford, CA: Stanford University Press, 1995.
+
+[^fanon-1952]: Fanon, Frantz, 1952, *Peau noire, masques blancs*, Paris, Seuil. Translated as *Black Skin, White Masks*, Richard Philcox (trans.), New York: Grove Books, 2008.
+
+[^fanon-1961]: –––, 1961, *Les damnés de la terre*, Paris: Maspero. Translated as *The Wretched of the Earth*, Richard Philcox (trans.), New York: Grove Books, 2005.
+
+[^foucault-1966]: Foucault, Michel, 1966 [1994], “L’homme est-il mort?” (interview with C. Bonnefoy), *Arts et Loisirs*, no. 38 (15–21 juin): 8–9. Reprinted in *Dits et Écrits*, Daniel Defert, François Ewald, and Jacques Lagrange (eds.), 540–544, Paris: Gallimard, 1994. 2001, *Dits et Écrits*, volume 1, Paris: Gallimard.
+
+[^heidegger-1957]: Heidegger, Martin, 1957 [1962], *Sein und Zeit*, Tübingen: M. Niemeyer. Translated as *Being and Time,* John Macquarrie and Edward Robinson (trans), London: SCM Press.
+
+[^husserl-1913]: Husserl, Edmund, 1913 [1983], *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie*, Halle: Niemeyer. Translated as *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*, volume 1, F. Kersten (tr.), The Hague: Martinus Nijhoff, 1983.
+
+[^husserl-1950]: –––, 1950 [1960], *Cartesianische Meditationen eine Einleitung in die Phänomenologie*, The Hague: Nijhoff. Translated as *Cartesian Meditations: An Introduction to Phenomenology*, Dorion Cairns (trans.), The Hague: Nijhoff, 1960.
+
+[^husserl-1900]: –––, 1900/1901, 1913/1921 [1970, 2001], *Logische Untersuchungen*, two volumes, Halle: M. Niemeyer. Second edition 1913/1921. Translated as *Logical Investigations*, 2 volumes, J. N. Findlay (trans.), London: Routledge and K. Paul, 1970. Revised English edition, 2 volumes, London: Routledge, 2001.
+
+[^levinas-1930]: Levinas, Emmanuel, 1930 [1963], *La théorie de l’intuition dans la phénoménologie de Husserl*, Doctoral dissertation, Université de Strasbourg. Published Paris: Vrin, 1963.
+
+[^marcuse-1948]: Marcuse, Herbert, 1948, “Existentialism: Remarks on Jean-Paul Sartre’s L’Etre et Le Neant”, *Philosophy and Phenomenological Research*, 8(3): 309–336. doi:10.2307/2103207
+
+[^merleau-ponty-1947]: Merleau-Ponty, Maurice, 1947 [1969], *Humanisme et terreur: essai sur le problème communiste*, (Les Essais [2 sér.] 27), Paris: Gallimard. Translated as *Humanism and Terror: An Essay on the Communist Problem*, John O’Neill (trans.), Boston: Beacon Press.
+
+[^moran-2001]: Moran, Richard, 2001, *Authority and Estrangement: An Essay on Self-Knowledge*, Princeton, NJ: Princeton University Press.
+
+[^anderson-1993]: Anderson, Thomas C., 1993, *Sartre’s Two Ethics: From Authenticity to Integral Humanity*, La Salle, IL: Open Court.
+
+[^apostolopoulos-2024]: Apostolopoulos, Dimitris, 2024, “Sartre, Kant, and the Spontaneity of Mind”, *European Journal of Philosophy*, 32(2): 413–431.
+
+[^aronson-1987]: Aronson, Ronald, 1987, *Sartre’s Second Critique*, Chicago: University of Chicago Press.
+
+[^aronson-2004]: –––, 2004, *Camus and Sartre: The Story of a Friendship and the Quarrel that Ended It*, Chicago: University of Chicago Press.
+
+[^bair-1990]: Bair, Deirdre, 1990, *Simone de Beauvoir: A Biography*, New York: Summit Books.
+
+[^baring-2011]: Baring, Edward, 2011, *The Young Derrida and French Philosophy, 1945–1968*, Cambridge: Cambridge University Press.
+
+[^barnes-1981]: Barnes, Hazel Estella, 1981, *Sartre & Flaubert*, Chicago: University of Chicago Press.
+
+[^bell-1989]: Bell, Linda A., 1989, *Sartre’s Ethics of Authenticity*, Tuscaloosa, AL: University of Alabama Press.
+
+[^bernard-2025]: Bernard, Valerie, 2025, “Sartre on Imaginative Presence”, *Philosophy and the Mind Sciences*, 6.
+
+[^bernasconi-2007]: Bernasconi, Robert, 2007, *How to Read Sartre*, New York: Granta Books.
+
+[^boyle-2024]: Boyle, Matthew, 2024, *Transparency and Reflection: A Study of Self-Knowledge and the Nature of Mind*, Oxford: Oxford University Press.
+
+[^bourdieu-1986]: Bourdieu, Pierre, 1986, “L’illusion biographique”, Actes de la recherche en sciences sociales, 62–63: 69–72.
+
+[^busch-1990]: Busch, Thomas W., 1990, *The Power of Consciousness and the Force of Circumstances in Sartre’s Philosophy*, Bloomington, IN: Indiana University Press.
+
+[^cabestan-2004]: Cabestan, Philippe, 2004, *L’être et la conscience: recherches sur la psychologie et l’ontophénoménologie sartriennes* (Ousia 51), Bruxelles: Editions Ousia.
+
+[^cannon-1991]: Cannon, Betty, 1991, *Sartre and Psychoanalysis: An Existentialist Challenge to Clinical Metatheory*, Lawrence: University Press of Kansas.
+
+[^cannon-2016]: –––, 2016, “What Would I Do with Lacan Today? Thoughts on Sartre, Lacan, and Contemporary Psychoanalysis”, *Sartre Studies International*, 22(2): 13–38.
+
+[^casey-2000]: Casey, Edward S., 2000, *Imagining: A Phenomenological Study*, 2nd ed., Bloomington: Indiana University Press.
+
+[^catalano-1974]: Catalano, Joseph S., 1974, *A Commentary on Jean-Paul Sartre’s “Being and Nothingness”* (Harper Torchbooks 1807), New York: Harper & Row. New edition Chicago: University of Chicago Press, 1980.
+
+[^catalano-1986]: –––, 1986, *A Commentary on Jean-Paul Sartre’s Critique of Dialectical Reason, Volume 1, Theory of Practical Ensembles*, Chicago: University of Chicago Press.
+
+[^churchill-2014]: Churchill, Steven and Jack Reynolds (eds.), 2014, *Jean-Paul Sartre: Key Concepts*, New York: Routledge.
+
+[^cohen-solal-1985]: Cohen-Solal, Annie, 1985 [1987], *Sartre*, Paris: Gallimard. Translated as *Sartre: A Life*, Norman MacAfee (ed.). Anna Cancogni (trans.), New York: Pantheon Books, 1987.
+
+[^coorebyter-2000]: Coorebyter, Vincent de, 2000, *Sartre face à la phénoménologie: Autour de “L’Intentionnalité” et de “La Transcendance de l’Ego”* (Ousia 40), Bruxelles: Ousia.
+
+[^coorebyter-2005]: –––, 2005, *Sartre, avant la phénoménologie: autour de “La nausée” et de la “Légende de la vérité”* (Ousia 53), Bruxelles: Ousia.
+
+[^cox-2019]: Cox, Gary, 2019, *Existentialism and Excess: The Life and Times of Jean-Paul Sartre*, London: Bloomsbury.
+
+[^deery-2025]: Deery, James, 2025, “The Imaginary Texture of the Real: The Role of the Imagination in Merleau-Ponty’s *Phenomenology of Perception*”, *European Journal of Philosophy*, 33(4): 1500–1517.
+
+[^detmer-1988]: Detmer, David, 1988, *Freedom as a Value: A Critique of the Ethical Theory of Jean-Paul Sartre*, La Salle, IL: Open Court.
+
+[^dobson-1993]: Dobson, Andrew, 1993, *Jean-Paul Sartre and the Politics of Reason: A Theory of History*, New York: Cambridge University Press.
+
+[^eribon-1991]: Eribon, Didier, 1991, *Michel Foucault*, trans. Betsy Wing, Cambridge, MA: Harvard University Press. [French original: Paris: Flammarion, 1989.]
+
+[^eshleman-2020]: Eshleman, Matthew C. and Constance L. Mui (eds.), 2020, *The Sartrean Mind,*London and New York: Routledge.
+
+[^falcato-2023]: Falcato, Ana, 2023, “Shame in the Philosophical Narrative of the Pour-Soi: On Sartre’s Being and Nothingness”, *Research in Phenomenology*, 53(3): 359–378.
+
+[^falcato-2025]: –––, 2025, “Shame and Self-image in Sartre and Bernard Williams”, *Metaphilosophy*, 56(2): 182–193.
+
+[^fell-1979]: Fell, Joseph P., 1979, *Heidegger and Sartre: An Essay on Being and Place*, New York: Columbia University Press.
+
+[^flynn-1984]: Flynn, Thomas R., 1984, *Sartre and Marxist Existentialism: The Test Case of Collective Responsibility*, Chicago, IL: University of Chicago Press.
+
+[^flynn-1997]: –––, 1997, *Sartre, Foucault and Historical Reason: volume 1, Toward an Existentialist Theory of History*, Chicago: University of Chicago Press.
+
+[^flynn-2004]: –––, 2004 [2013], “Jean-Paul Sartre”, in *The Stanford Encyclopedia of Philosophy* (Fall 2013 edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2013/entries/sartre/](https://plato.stanford.edu/archives/fall2013/entries/sartre/)>
+
+[^flynn-2005]: –––, 2005, *Sartre, Foucault, and Historical Reason, Vol. 2: A Poststructuralist Mapping of History*, Chicago: University of Chicago Press.
+
+[^flynn-2014]: –––, 2014, *Sartre: A Philosophical Biography*, Cambridge: Cambridge University Press.
+
+[^frank-2020]: Frank, Manfred and Preyer, Gerhard, 2020, “Sartre and Contemporary Philosophy of Consciousness”, in Matthew C. Eshleman and Constance L. Mui (eds.), *The Sartrean Mind,*London and New York: Routledge.
+
+[^gallagher-2008]: Gallagher, Shaun and Dan Zahavi, 2008, *The Phenomenological Mind*, London: Routledge.
+
+[^gardner-2009]: Gardner, Sebastian, 2009, *Sartre’s “Being and Nothingness”: A Reader’s Guide* (Continuum Reader’s Guides), London: Continuum.
+
+[^gordon-1995]: Gordon, Lewis R., 1995, *Bad Faith and Antiblack Racism*, Atlantic Highlands, NJ: Humanities Press.
+
+[^henri-levy-2003]: Henri-Levy, Bernard, 2003, *Sartre: The Philosopher of the Twentieth Century*, Cambridge: Polity Press.
+
+[^hopkins-2016]: Hopkins, Robert, 2016, “Sartre”, in A. Kind (ed.), *The Routledge Handbook of Philosophy of Imagination*, London: Routledge, pp. 82–93.
+
+[^howells-1988]: Howells, Christina, 1988, *Sartre: The Necessity of Freedom*, Cambridge: Cambridge University Press.
+
+[^howells-1992]: –––, (ed.), 1992, *The Cambridge Companion to Sartre*, Cambridge: Cambridge University Press.
+
+[^jeanson-1947]: Jeanson, Francis, 1947 [1980], *Le problème moral et la pensée de Sartre* (Collection “Pensée et civilisation”), Paris: Éditions du myrte. Translated as *Sartre and the Problem of Morality*, Robert V. Stone (trans.), (Studies in Phenomenology and Existential Philosophy), Bloomington, IN: Indiana University Press, 1980.
+
+[^judaken-2008]: Judaken, Jonathan (ed.), 2008, *Race after Sartre: Antiracism, Africana Existentialism, Postcolonialism* (Philosophy and Race), Albany, NY: State University of New York Press.
+
+[^kearney-2002]: Kearney, Richard, 2002, *The Wake of Imagination: Toward a Postmodern Culture*, London: Routledge.
+
+[^kind-2018]: Kind, Amy, 2018, “How Imagination Gives Rise to Knowledge”, in Fiona Macpherson and Fabian Dorsch, *Perceptual Imagination and Perceptual Memory*, Oxford: Oxford University Press, pp. 227–246
+
+[^kinkaid-2024]: Kinkaid, James, 2024, “Is Sartre an Eleatic Monist?” *Canadian Journal of Philosophy*, 54(6): 466–481.
+
+[^knee-1993]: Knee, Philip, 1993, *Qui perd gagne. Essai sur Sartre*, Québec: Presses de l’Université Laval.
+
+[^lefebvre-1959]: Lefebvre, Henri, 1959, *La Somme et le Reste*, 2 volumes, Paris: La Nef de Paris Éditions.
+
+[^lennon-2015]: Lennon, Kathleen, 2015, *Imagination and the Imaginary*, London: Routledge.
+
+[^macey-1993]: Macey, David, 1993, *The Lives of Michel Foucault*, London: Hutchinson.
+
+[^mcbride-1991]: McBride, William Leon, 1991, *Sartre’s Political Theory*, (Studies in Continental Thought), Bloomington, IN: Indiana University Press.
+
+[^mcbride-1997]: –––, (ed.), 1997, *Sartre and Existentialism*, 8 volumes, New York: Garland.
+
+[^existentialist-nd]: *Existentialist Ontology and Human Consciousness*
+
+[^sartre’s-nd]: *Sartre’s French Contemporaries and Enduring Influences: Camus, Merleau-Ponty, de Beauvoir & Enduring Influences*
+
+[^sartre’s-nd-2]: *Sartre’s Life, Times and Vision du Monde*
+
+[^existentialist-nd-2]: *Existentialist Literature and Aesthetics*
+
+[^existentialist-nd-3]: *Existentialist Background: Kierkegaard, Dostoevsky, Nietzsche, Jaspers, Heidegger: Kierkegaard, Dostoevsky, Nietzsche, Jaspers, Heidegger*
+
+[^existentialist-nd-4]: *Existentialist Ethics: Issues in Existentialist Ethics*
+
+[^existentialist-nd-5]: *Existentialist Politics and Political Theory*
+
+[^development-nd]: *The Development and Meaning of Twentieth-Century Existentialism*
+
+[^mcnulty-2025]: McNulty, Jacob, 2025, “A Hole Within Being: Consciousness as Nothingness in Sartre’s Being and Nothingness”, *European Journal of Philosophy*, 34(2): 703–716.
+
+[^miguens-2015]: Miguens, Sophia, Gerhard Preyer and Clara Bravo Morando (eds.), 2015, *Pre-reflective Consciousness: Sartre and Contemporary Philosophy of Mind*, London: Routledge.
+
+[^mitchell-2025]: Mitchell, Jonathan, 2025, “Sartre’s Exclusion Claim: Perception and Imagination as Radically Distinct Consciousnesses”, *European Journal of Philosophy*, 33(2): 682–699.
+
+[^moati-2019]: Moati, Raoul, 2019, *Sartre et le mystère en pleine lumière* (Passages), Paris: Les éditions du Cerf.
+
+[^morag-2024]: Morag, Talia, (ed.), 2024, *Sartre and Analytic Philosophy*, London: Routledge.
+
+[^morag-2024-2]: –––, 2024, “Sartre’s Bad Faith, the Freudian Unconscious, and a Case of #METOO”, in Talia Morag (ed.), *Sartre and Analytic Philosophy*, New York: Routledge, pp. 194–214.
+
+[^morris-2008]: Morris, Katherine J., 2008, *Sartre*, (Blackwell Great Minds 5), Malden, MA: Blackwell.
+
+[^morris-2010]: ––– (ed.), 2010, *Sartre on the Body*, New York: Palgrave MacMillan.
+
+[^mouillie-2015]: Mouillie, Jean-Marc and Jean-Philippe Narboux (eds.), 2015, *Sartre: L’être et le néant: nouvelles lectures*, Paris: Les Belles Lettres.
+
+[^murphy-1999]: Murphy, Julien S. (ed.), 1999, *Feminist Interpretations of Jean-Paul Sartre*, University Park, PA: Pennsylvania State University Press.
+
+[^pommier-2023]: Pommier, Eric, 2023, “Jean-Paul Sartre’s Philosophical Realism in *Being and Nothingness* versus Jan Patočka’s A-Subjective Phenomenology on the Crucial Question of the Body”, *Continental Philosophy Review*, 56(2): 223–242.
+
+[^priest-2000]: Priest, Stephen, 2000, *The Subject in Question: Sartre’s Critique of Husserl in The Transcendence of the Ego*, London: Routledge.
+
+[^rae-2024]: Rae, Gavin, 2024, “Sartre on Action: Decentring the Will”, *Journal of the British Society for Phenomenology*, 55(3): 201–220.
+
+[^renaudie-2013]: Renaudie, Pierre-Jean, 2013, “Me, Myself and I: Sartre and Husserl on Elusiveness of the Self”, *Continental Philosophy Review*, 46(1): 99–113.
+
+[^renaudie-2017]: –––, 2017, “L’ambiguïté de la troisième personne”, *Revue Philosophique de Louvain*, 115(2): 269–287.
+
+[^renaudie-2024]: Renaudie, Pierre-Jean and Jack Reynolds, 2024, “Peculiar Access: Sartre, Self-knowledge, and the Question of the Irreducibility of the First-Person Perspective”, in T. Morag (ed.), *Sartre and Analytic Philosophy*, London: Routledge, pp. 84–100.
+
+[^reynolds-2017]: Reynolds, Jack and Patrick Stokes, 2017, “Existentialist Methodology and Perspective: Writing the First Person”, in *The Cambridge Companion to Philosophical Methodology*, Giuseppina D’Oro and Søren Overgaard (eds.), Cambridge: Cambridge University Press, pp. 317–336.
+
+[^romdenh-romluc-2024]: Romdenh-Romluc, Komarine, 2024, “Black Orpheus, Fanon, and the Negritude Movement”, *Sartre Studies International*, 30(1): 47–63.
+
+[^santoni-1995]: Santoni, Ronald E., 1995, *Bad Faith, Good Faith, and Authenticity in Sartre’s Early Philosophy*, Philadelphia, PA: Temple University Press.
+
+[^santoni-1998]: –––, 1998, “In Defense of Lévy and Hope Now: A Minority View”, *Sartre Studies International*, 4(2): 61–68.
+
+[^santoni-2003]: –––, 2003, *Sartre on Violence: Curiously Ambivalent*, University Park, PA: Pennsylvania State University Press.
+
+[^sacks-2005]: Sacks, Mark, 2005, “Sartre, Strawson and Others”, *Inquiry*, 48(3): 275–299.
+
+[^sares-nd]: Sares, Joshua, forthcoming, “Sartre and the Dialectic of Freedom”, *European Journal of Philosophy*.
+
+[^schilpp-1981]: Schilpp, Paul Arthur (ed.), 1981, *The Philosophy of Jean-Paul Sartre*, (Library of Living Philosophers 16), La Salle, IL: Open Court.
+
+[^schroeder-1984]: Schroeder, William Ralph, 1984, *Sartre and His Predecessors: The Self and the Other*, London: Routledge & Kegan Paul.
+
+[^sinnerbrink-2024]: Sinnerbrink, Robert, 2024, “The Secret Passion: Sartre, Huston, and the Freud Screenplay”, in T. Morag (ed.), *Sartre and Analytic Philosophy*, London: Routledge, pp. 166–184.
+
+[^somers-hall-2023]: Somers-Hall, Henry, 2023, “The Unity of Consciousness in Sartre’s Early Thought: Reading *The Transcendence of the Ego* with *The Imaginary*”, *British Journal for the History of Philosophy*, 31(6): 1212–1233.
+
+[^stawarska-2005]: Stawarska, Beata, 2005, “Defining Imagination: Sartre between Husserl and Janet”, *Phenomenology and the Cognitive Sciences*, 4(2): 133–153.
+
+[^stone-1986]: Stone, Robert V. and Elizabeth A. Bowman, 1986, “Dialectical Ethics: A First Look at Sartre’s Unpublished 1964 Rome Lecture Notes”, *Social Text*, 13/14: 195–215.
+
+[^stone-1991]: –––, 1991, “Sartre’s ‘Morality and History’: A First Look at the Notes for the unpublished 1965 Cornell Lectures”, in *Sartre Alive*, Ronald Aronson and Adrian van den Hoven (eds), Detroit, MI: Wayne State University Press, pp. 53–82.
+
+[^taylor-1991]: Taylor, Charles, 1991, *The Ethics of Authenticity*, Cambridge, MA: Harvard University Press.
+
+[^trotter-2018]: Trotter, Gregory A., 2018, “Unconscious Structure in Sartre and Lacan”, *Psychoanalytische Perspectieven*, 36(4): 469–482.
+
+[^van-2005]: Van den Hoven, Adrian and Andrew N. Leak (eds.), 2005, *Sartre Today: A Centenary Celebration*, New York: Berghahn Books.
+
+[^walzer-1995]: Walzer, Michael, 1995, “Preface” to the 1995 English translation reprint of Sartre’s *Anti-semite and Jew*, New York: Schocken Books.
+
+[^webber-2009]: Webber, Jonathan, 2009, *The Existentialism of Jean-Paul Sartre*, London: Routledge.
+
+[^webber-2011]: –––, (ed.), 2011, *Reading Sartre: On Phenomenology and Existentialism*, London, New York: Routledge.
+
+[^webber-2018]: –––, 2018, *Rethinking Existentialism*, Oxford: Oxford University Press.
+
+[^webber-2020]: –––, 2020, “Sartre’s Critique of Husserl”, *British Journal for the History of Philosophy*, 28(1): 155–176.
+
+[^wider-1997]: Wider, Kathleen, 1997, *The Bodily Nature of Consciousness: Sartre and Contemporary Philosophy of Mind*, Ithaca, NY: Cornell University Press.
+
+[^wiesing-2014]: Wiesing, Lambert, 2014, *The Philosophy of Perception: Phenomenology and Image Theory*, London: Bloomsbury.
+
+[^williford-2011]: Williford, Kenneth, 2011, “Pre-Reflective Self-Consciousness and the Autobiographical Ego”, in J. Webber (ed.), *Reading Sartre: On Phenomenology and Existentialism*, London: Routledge, pp. 195–210.
+
+[^windt-2018]: Windt, Jennifer M., 2018, “Predictive Brains, Dreaming Selves, Sleeping Bodies: How the Analysis of Dream Movement Can Inform a Theory of Self- and World-Simulation in Dreams”, *Synthese*, 195(6): 2577–2625.
+
+[^wrathall-2026]: Wrathall, Mark and Wanda von Knobelsdorff, 2026, “‘A Perpetually Disintegrating Synthesis’: Sartre on Bad Faith, Good Faith, and the Projects of Selfhood”, *European Journal of Philosophy*, 1–20.
+
+[^zahavi-1999]: Zahavi, Dan, 1999, *Self-Awareness and Alterity: A Phenomenological Investigation*, Evanston, IL: Northwestern University Press.
+
+[^zahavi-2005]: –––, 2005, *Subjectivity and Selfhood: Investigating the First-Person Perspective*, Cambridge, MA: MIT Press.
+
+[^zahavi-2020]: –––, 2020, *Phenomenology: The Basics*, 2nd ed., London: Routledge.

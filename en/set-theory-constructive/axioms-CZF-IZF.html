@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Set Theory: Constructive and Intuitionistic ZF &gt; Axioms of CZF and IZF (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/set-theory-constructive/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/set-theory-constructive/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=set-theory-constructive">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Set Theory: Constructive and Intuitionistic ZF</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Axioms of CZF and IZF</h2>
+
+<p>
+
+The theories Constructive Zermelo-Fraenkel (CZF) and Intuitionistic
+Zermelo-Fraenkel (IZF) are formulated on the basis of intuitionistic
+first order logic, \(\mathbf{IQC}\) (see the entry on
+ <a href="../logic-intuitionistic/">Intuitionistic Logic</a>). As they
+are usually formulated, they include among the logical axioms the
+equality axioms, which state that equality, =, is reflexive and that
+equal terms can be substituted for one another in any formula.  The
+language of CZF and IZF is the same as that of classical ZF, thus it
+has only the binary predicate symbol \(\in\) (membership) as
+non-logical symbol. We recall that as we work in intuitionistic logic,
+all the binary connectives and the quantifiers \((\wedge , \vee ,
+\rightarrow , \exists , \forall)\) are taken as primitive (none is
+defined in terms of any of the others). As is usual, we define
+negation by means of implication and the constant \(\bot\)
+(absurdity): \(\neg \phi\) abbreviates \(\phi \rightarrow \bot\). We
+also write \(\phi \leftrightarrow \psi\) for \(\phi \rightarrow \psi
+\wedge \psi \rightarrow \phi\). We write \(\forall X\in Y\) and
+\(\exists X\in Y\) for \(\forall X(X\in Y \rightarrow \ldots\)) and
+\(\exists X(X\in Y \wedge \ldots\)), respectively.
+</p>
+
+<p>
+In the following we first introduce all the axioms, with names, and
+then we define the two systems CZF and IZF. We also recall some choice
+principles which are compatible with constructive and intuitionistic
+ZF, and finally give two examples of very simple proofs in CZF. For
+the sake of readabiliy, we use lower and upper case letters to denote
+sets.</p>
+
+<p>
+
+This document is organised as follows:</p>
+
+<ul>
+<li><a href="#axioms">Set-theoretic Axioms</a></li>
+
+<li><a href="#choice">Choice Principles</a></li>
+
+<li><a href="#examples">Two Examples</a></li>
+</ul>
+
+<hr />
+
+<h3><a name="axioms">Set-theoretic Axioms</a></h3>
+
+
+<p class="indent"><strong>1. Extensionality:</strong>
+<br />
+ \(\forall x\forall y[\forall z(z\in x \leftrightarrow z\in y) \rightarrow x=y].\)</p>
+
+<p>
+
+Extensionality enables us to identify sets which might be defined in
+different ways but happen to have the same elements. This is the axiom
+which enables us to use the article <em>the</em> after the application
+of any of the other axioms. Consider, for example, the next axiom
+(Pair): given two sets \(X\) and \(Y\), the axiom ensures
+the existence of \(a\) set whose elements equal either \(X\)
+or
+\(Y\). Extensionality ensures furthermore that there is only one
+such a set, <em>the</em> unordered pair of \(X\) and
+\(Y\). This set is usually informally written as: \(\{X,
+Y\}\).</p>
+
+<p class="indent"><strong>2. Pair:</strong> <br />
+\(\forall x\forall y\exists z\forall w(w\in z \leftrightarrow w=x \vee w=y)\).</p>
+
+<p>
+
+As particular case of application of pair, given a set \(X\) we
+can form the singleton set \(\{X\}\), which is the pair
+\(\{X,X\}\).</p>
+
+<p class="indent"><strong>3. Union:</strong>
+<br />
+ \(\forall x\exists y\forall z[z\in y \leftrightarrow \exists w(w\in x \wedge z\in w)].\)</p>
+
+<p>
+
+Given a set \(X\), union allows us to form a set
+\(Y\) whose elements are elements of elements of \(X\). By
+combining union and pair one can form the usual (binary) union of two
+sets.</p>
+
+<p class="indent"><strong>4. Empty set:</strong>
+<br />
+\(\exists x\forall\)y \(\neg(y \in x)\).</p>
+
+<p>
+By extensionality the empty set is unique; we denote it by the symbol \(\varnothing\).
+</p>
+
+
+<p class="indent"><strong>5. Infinity:</strong>
+<br />
+ \(\exists x[\varnothing \in x \wedge \forall y(y\in x \rightarrow
+suc(y)\in x)]\).</p>
+
+<p>
+
+Here for set \(X\), \(suc(X)\) (the successor of \(X)\) is defined as
+\(X\cup \{X\}\). For any set \(X\), \(suc(X)\) exists by union and
+pair (and is unique by extensionality).</p>
+
+<p class="indent">
+
+<strong>6. Separation schema:</strong>
+<br />
+ \(\forall a\exists x\forall y(y\in x \leftrightarrow y\in a \wedge \phi(y))\),
+<br />
+ &nbsp; where \(x\) is not free in \(\phi(y)\).</p>
+
+<p>
+
+Given a set \(A\), separation allows one to form a new set, all
+of whose elements are elements of \(A\) and also satisfy a
+condition described by a formula \(\phi\). This set is 
+informally written as: \(\{Y\in A : \phi(Y)\}\).</p>
+
+<p class="indent"><strong>\(6'\). Restricted separation schema:</strong>
+This is the same as separation but holds for <em>bounded</em> formulas
+\(\phi(y)\) only. A formula is <em>bounded</em> if all its
+quantifiers are bounded; <em>i.e.</em>, they occur only in one of the
+forms \(\forall X\in Y\) or
+\(\exists X\in Y\). Bounded formulas are also
+called restricted or \(\Delta_0\)-formulas. Accordingly,
+bounded separation is also called <em>restricted separation</em>
+or
+<em>\(\Delta_0\) separation</em>.</p>
+
+<p>
+
+In <em>bounded</em> separation we require that if quantifiers occur in
+\(\phi\), they do so only in bounded contexts. By so doing, we ensure
+that quantification acts on &ldquo;previously&rdquo; constructed sets
+only. We thus avoid impredicative contexts in which one quantifies on
+the whole universe of sets, also including the set under construction
+(see the section on
+ <a href="index.html#PredConsSetTheo">Predicativity in constructive set theory</a>
+ of the main article).</p>
+
+<p class="indent">
+<strong>7. Collection schema:</strong>
+<br />
+ \(\forall a[\forall x\in a \exists y \phi(x,y) \rightarrow \exists b\forall x\in a \exists y\in b \phi(x,y)],\)
+<br />
+ &nbsp;for all formulas \(\phi(x,y)\) where
+\(b\) is not free in \(\phi(x,y)\).</p>
+
+<p>
+
+Collection states that if for each element \(X\) of a given
+set \(A\) we can find a set \(Y\) such that a relation holds
+of \(X\) and \(Y\), then we can find a set \(B\) which
+collects &ldquo;some&rdquo; of these \(Y\)s. That is, \(B\) is such
+that for each element \(X\) of \(A\) there is a \(Y\)
+in
+\(B\) such that the relation holds of \(X\) and
+\(Y\).</p>
+
+<p class="indent"><strong>\(7'\). Replacement:</strong>
+<br />
+ \(\forall a[\forall x\in a \exists !y \phi(x,y) \rightarrow \exists b\forall x\in a \exists y\in b \phi(x,y)],\)
+<br />
+&nbsp; for all formulas \(\phi(x,y)\) where \(b\)
+is not free in \(\phi(x,y)\).</p>
+
+<p>
+
+Note that the antecedent of replacement is a strengthening of the
+antecedent of collection, as it states that for each \(X\) in
+\(A\) there is <em>exactly one</em> \(Y\) such that
+\(\phi(X,Y)\) holds. Replacement can be seen as stating
+that if the domain of a function is a set, than its range is also a
+set.</p>
+
+<p class="indent">
+
+<strong>\(7''\). Strong collection schema:</strong>
+<br />
+ \(\forall a[\forall x\in a \exists y \phi(x,y) \rightarrow \)
+ \(\exists b(\forall x\in a \exists y\in b \phi(x,y) \wedge \forall y\in b \exists x\in a \phi(x,y))],\)
+<br />
+ &nbsp; for all formulas \(\phi(x,y)\) where \(b\)
+is not free in \(\phi(x,y)\).</p>
+
+<p>
+
+This is a strengthened form of collection which is introduced in
+systems with bounded separation.</p>
+
+<p class="indent"><strong>8. Powerset:</strong>
+<br />
+ \(\forall x\exists y\forall z[z\in y \leftrightarrow \forall w(w\in z \rightarrow w\in x)].\)</p>
+
+<p>
+
+Powerset allows us to form a set of all subsets of a given set
+\(X\).</p>
+
+<p class="indent">
+
+<strong>\(8'\). Subset collection schema:</strong> <br />
+\(\forall a\forall b\exists c\forall u[\forall x\in a \exists y\in b \phi(x, y,
+u) \rightarrow\) <br /> \( \exists d\in c(\forall x\in a \exists y\in d \phi(x, y, u) \wedge \forall y \in d \exists x \in a \phi(x,
+y, u))],\)
+<br />
+ &nbsp;&nbsp;for all formulas \(\phi(x,y,u)\) where \(c\)
+is not free in \(\phi(x,y,u)\).</p>
+
+<p>
+
+In CZF, the subset collection schema takes the place of the powerset
+axiom. As the subset collection schema is particularly intricate, 
+we can clarify its meaning by introducing the 
+axiom of <strong>fullness</strong>, which is equivalent to subset
+collection on the basis of CZF minus subset collection (Aczel
+1978). First some terminology. The notion of relation between two
+sets \(A\) and \(B\) is defined in CZF as usual: a relation
+is a set of ordered pairs, the first component of which is an element
+of \(A\) and the second component of which is an element of
+\(B\). The notion of ordered pair is also standard
+(see <a href="#products">example 2</a> below). We say that a
+relation \(R\) between \(A\) and \(B\)
+is <em>total</em> if for each element \(X\) in \(A\) there
+is an element \(Y\) in \(B\) such that \(R\) holds
+of \(X\) and \(Y\). Given sets \(A\) and \(B\), we
+say that a set \(C\) is <em>full in</em> \(A\)
+<em>and</em> \(B\) if</p>
+
+<ol>
+<li>every element of \(C\) is a total relation, and</li>
+
+<li>for each total relation \(R\) between \(A\) and
+\(B\), there is a total relation \(S\) in \(C\) such
+that \(S\) is a subset of \(R\).</li>
+</ol>
+
+<p>
+
+The axiom of <strong>fullness</strong> states:</p>
+
+<p class="indent">
+\(\forall A\forall B\exists C [C \text{ is full in } A \text{ and } B].\)
+</p>
+
+<p>
+
+Compared with powerset, fullness can be seen as focusing on total
+relations, that is, on particular kinds of subsets of the Cartesian
+product of two sets, rather than on arbitrary subsets of a given
+set. Given two sets \(A\) and \(B\), fullness may be read as
+stating the existence of a set containing an
+&ldquo;approximation&rdquo; of each total relation between \(A\)
+and \(B\). Note that fullness does not state the existence of a
+set of <em>all</em> total relations between two sets, as this would be
+the same as postulating powerset in the context of CZF minus subset
+collection (Aczel and Rathjen 2001, Ch. 3). In addition, it does not
+say that each relation can be &ldquo;thinned down&rdquo; to a
+function, as this would amount to postulating the axiom of choice.</p>
+
+<p class="indent">
+<strong>9. \(\in\)-Induction:</strong><br />
+ \(\forall a(\forall y\in a \phi(y) \rightarrow \phi(a)) \rightarrow \forall a \phi(a)\),
+<br />
+ &nbsp; for every formula \(\phi(a)\).
+</p>
+
+<p>
+
+Set induction allows us to induct on the membership relation. It states the 
+following: suppose that for an arbitrary set \(A\), whenever a property \(\phi\)
+holds of all elements of \(A\) then it propagates to \(A\) itself; then we can
+conclude that the property \(\phi\) holds of any set \(A\).</p>
+
+<p>
+This schema replaces ZF&rsquo;s axiom of foundation whose usual formulation,
+as we have explained in the main document, is incompatible with set
+theories based on intuitionistic logic (for the argument see the
+supplementary document
+ <a href="incompatible-set-axs.html">Set theoretic principles incompatible with intuitionistic logic</a>.)</p>
+
+<p>
+
+We also note here that foundation is called Regularity in the
+article
+ <a href="../set-theory/ZF.html">Zermelo Fraenkel set theory</a>
+in this Encyclopedia. Either terminology can be found in the literature.
+Here we prefer to use the name <em>foundation</em> because in the context of CZF
+regularity usually refers to a different notion, originating from the
+classical notion of regular cardinal.</p>
+
+<p>We can now define the theories in question:</p>
+
+<p class="indent">
+ \(\mathbf{CZF}\): <br/> Principles \(1, 2, 3, 4, 5, 6', 7'',
+ 8', 9\).
+</p>
+
+<p>The system IZF extends CZF by allowing unrestricted separation and
+powerset.</p>
+
+<p class="indent">
+ \(\mathbf{IZF}\): <br/> Principles 1, 2, 3, 4, 5, 6, 7, 8, 9.
+</p>
+
+<p>
+Note that IZF has often been formulated with the natural numbers 
+as urelements (see Friedman 1973a, Beeson 1985).
+A well-known variant of IZF, called IZF\(_{Rep}\), is obtained by replacing
+7 by \(7'\). </p>
+
+<p>
+The following theorem holds:</p>
+
+<p class="indent">
+ CZF + EM = IZF + EM = IZR\(_{Rep}\) + EM = ZF,
+</p>
+
+<p>
+where EM denotes the principle of the excluded middle (for CZF see Aczel 1978).</p>
+
+<p>
+
+Remark: In CZF only the bounded separation schema introduces a restriction on the
+complexity of the formulas occurring in it, while all the other
+schemata allow for arbitrary formulas. Note, in particular, that the 
+schemata of collection are unrestricted. This is due to the fact
+that even the unrestricted schemata are validated by Aczel&rsquo;s interpretation of
+constructive set theory in Martin-L&ouml;f type theory. 
+It is interesting to note that their interpretation makes essential 
+use of the validity in type theory of the axiom of choice 
+(see the discussion on constructive
+ <a href="index.html#ConsChoiPrin">choice principles</a>
+ in the main article). 
+To avoid making use of the type-theoretic axiom of choice 
+Aczel and Gambino (2002) have proposed a refinement of Aczel&rsquo;s original 
+interpretation of constructive set theory in type theory by 
+introducing a variant of type theory known as logic-enriched type theory.</p>
+
+
+<p>We also note that on the basis of CZF minus subset collection,
+subset collection clearly implies Myhill&rsquo;s exponentiation axiom, which
+states that the collection of all functions from a set \(A\) to a
+set \(B\) is a set. Also, powerset clearly implies subset
+collection. These implications, however, cannot be reverted. The fact
+that subset collection is not as strong as powerset is a consequence
+of the fact that the proof-theoretic strength of CZF minus subset
+collection plus powerset exceeds by far that of CZF (Aczel and Rathjen
+2001, Rathjen 2012b). That exponentiation does not imply fullness in
+intuitionistic contexts has been proved by Lubarsky (2005).</p>
+
+<h3><a name="choice">Choice Principles</a></h3>
+
+<p>
+
+We here recall the principles of <strong>Countable</strong> and
+<strong>Dependent Choice</strong>.</p>
+
+<p>
+
+Let \(\omega\) denote the set of natural numbers (which exists by the
+infinity axiom). Countable Choice, <strong>AC\(_0\)</strong>, is the
+following principle (for any \(\psi)\):</p>
+
+<p class="indent">
+ \(\forall x \in \omega \exists y \in v \psi(x,y) \rightarrow 
+ (\exists f: \omega \rightarrow v) \forall x \in \omega \psi(x,f(x))\),
+</p>
+
+<p>
+
+where \(f: \omega \rightarrow v\) is an
+abbreviation for a formal statement expressing the fact
+that \(f\) is a function with domain \(\omega\) and range contained
+in \(v\).</p>
+
+<p>
+
+Dependent choice, \(\mathbf{DC}\), is the following statement
+(for any \(\psi)\):</p>
+
+<p class="indent">
+ if \(\forall x \in a \exists y \in a \psi(x,y)\)
+ and \(b_0 \in a\), then there
+ is \(f: \omega \rightarrow a\) such that \(f\)(0)
+ \(= b_0\) and \(\forall n \in \omega \psi(f(n),
+ f(n+1))\).
+</p>
+
+<p>
+
+We should also like to mention a consequence of Replacement often
+called the <em>axiom of <strong>unique choice</strong></em> (it has
+also been termed the <em>axiom of <strong>non-choice</strong></em> in
+(Myhill 1975) for obvious reasons). This is the statement: if for each
+element \(X\) of \(A\) there is <em>exactly one</em>
+\(Y\) such that a property holds, than we can find a function
+\(F\) with domain \(A\) which assigns to each
+element \(X\) of \(A\) an element \(F(X)\)
+such the given property holds. That is: </p>
+
+<p class="indent">
+ \(\forall x \in A\, \exists ! y\, \psi(x,y) \rightarrow\) \(\exists f (\text{Function}(f)\wedge \text{Domain}(f)=  A \wedge \forall x \in A \psi(x,f(x)))\),
+</p>
+
+<p>
+This principle is clearly valid in the
+set theories presented above, in which Replacement holds.</p>
+
+<p>See also the discussion on choice principles in the main document: 
+<a href="index.html">Constructive and intuitionistic ZF</a>; 
+there another constructive choice principle, the presentation axiom, 
+is recalled.</p>
+
+<h3><a name="examples"></a>Two Examples</h3>
+
+<p>
+
+In a constructive context we sometimes need
+to be more careful than usual with the proofs of even simple facts.
+To illustrate this, we now give two simple examples. The first one
+exemplifies how intuitionistic logic can be used in set theory. The second
+example illustrates how one can avoid unnecessary impredicative
+reasoning (thus the proof is not specifically intuitionistic).</p>
+
+<ol>
+
+<li><a name="pairs"><em>Ordered pairs</em></a>
+ <p>
+ In the first example we show that if two ordered pairs are equal,
+ then their first and second coordinates are equal, respectively. The
+ notion of ordered pair can be defined in the same way as in
+ classical set theory, that is \((A,B)\) is
+ \(\{\{A\}, \{A,B\}\}\). The present proof differs
+ from the one in the supplement
+ <a href="../set-theory/basic-set-theory.html">Basic set theory</a> to the
+ entry on set theory, because that one argues by cases, depending on
+ whether or not \(A = B\). To avoid making use of the
+ principle of excluded middle we can instead argue as follows. Assume
+ that \((A,B) = (C,D)\), that is,
+ \(\{\{A\}, \{A,B\}\} = \{\{C\},
+ \{C,D\}\}\). We want to prove that \(A = C\) and \(B = D\). As \(\{A\}\) is an
+ element of the left-hand side it is also an element of the
+ right-hand side and so either \(\{A\} = \{C\}\) or
+ \(\{A\} = \{C, D\}\). In either case \(A = C\). As \(\{A, B\}\) is an element of the
+ left-hand side it is also an element of the right-hand side and so
+ either \(\{A,B\} = \{C\}\) or
+ \(\{A,B\} = \{C,D\}\). In either
+ case \(B = C\) or \(B = D\). If \(B = C\) then \(A = B = C\) so that \(\{C\} = \{C,D\}\) giving \(C = D\) and
+ hence \(B = D\). So in either case \(B = D\).</p></li>
+
+<li><a name="products"><em>Cartesian products</em></a>
+<p>Given sets \(A\) and \(B\) we now want to form the cartesian
+product of \(A\) and \(B\). This is the set,
+denoted \(A \times B\), of all ordered pairs of the
+from \((X,Y)\), with \(X\) element of \(A\)
+and \(Y\) element of \(B\). The present proof should be
+compared with standard ones which use powerset.</p>
+
+<p>Fix \(X\) in \(A\) and observe that for every \(Y\) in
+\(B\) there is \(Z\) such that \(Z =
+(X,Y)\). By extensionality this set is unique. Apply
+now replacement to obtain a set \(C\) of those pairs of the form
+\((X,Y)\) for \(Y\)
+in \(B\), <em>i.e.</em> \(C = \{(X,Y)
+: Y \in B\}\). As for every \(X\) in \(A\)
+we can find such a \(C\) (and it is unique), we can apply replacement again and then
+union to get a set \(D\) as required. That is, \(D\) is such
+that for every \(X\) in \(A\) and \(Y\) in \(B\)
+there is \(W\) in \(D\) such that \(W =
+(X,Y)\).</p>
+</li>
+
+</ol>
+
+<p>For more detailed presentations of IZF and CZF the reader may wish to 
+consult (Beeson 1985; Troelstra and van Dalen 1988; Aczel and Rathjen 2001; 2010).</p>
+
+<p>
+
+Bibliographic information for this supplementary document is in
+ the
+ <a href="index.html#Bib">Bibliography</a>
+ for this entry.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="https://sites.google.com/view/lauracrosilla/home" target="other">Laura Crosilla</a>
+&lt;<a href="m&#97;ilto:laura&#37;2ecrosilla&#37;40unifi&#37;2eit"><em>laura<abbr title=" dot ">&#46;</abbr>crosilla<abbr title=" at ">&#64;</abbr>unifi<abbr title=" dot ">&#46;</abbr>it</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

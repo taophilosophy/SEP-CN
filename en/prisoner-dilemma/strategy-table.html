@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Prisoner’s Dilemma &gt; Strategies for the Iterated Prisoner&rsquo;s Dilemma (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/prisoner-dilemma/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/prisoner-dilemma/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=prisoner-dilemma">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Prisoner&rsquo;s Dilemma</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Strategies for the Iterated Prisoner&rsquo;s Dilemma</h2>
+
+<table class="cellpad-small vert-top hrules smaller">
+<tr>
+  <td><strong>Name</strong></td>
+  <td><strong>Abbreviation</strong></td>
+  <td><strong>Description</strong></td> </tr>
+<tr>
+  <td>Unconditional Cooperator</td>
+  <td><strong>Cu</strong></td>
+  <td>Cooperates unconditionally.</td> </tr>
+<tr>
+  <td>Unconditional Defector</td>
+  <td><strong>Du</strong></td>
+  <td>Defects unconditionally.</td> </tr>
+<tr>
+  <td>Random</td>
+  <td><strong>Random</strong> (=<strong>C.5</strong> or
+<strong>R(.5,.5,.5)</strong> or <strong>S(.5,.5,.5,.5)</strong>
+below)</td>
+  <td>Cooperates with probability one-half.</td> </tr>
+<tr>
+  <td>Probability <i>p</i> Cooperator</td>
+  <td><strong>C<b>p</b></strong> for \(0\le\)p\(\le 1\)</td>
+  <td>Cooperates with fixed probably \(p\).</td> </tr>
+<tr>
+  <td>Tit for Tat</td>
+  <td><strong>TFT</strong> (=<strong>R(1,1,0)</strong> or
+<strong>S(1,0,1,0)</strong> below)</td>
+  <td>Cooperates on the first round and imitates its opponent&rsquo;s
+previous move thereafter.</td> </tr>
+<tr>
+  <td>Suspicious Tit for Tat</td>
+  <td><strong>STFT</strong> (=<strong>R(0,1,0)</strong> below)</td>
+  <td>Defects on the first round and imitates its opponent&rsquo;s
+previous move thereafter.</td> </tr>
+<tr>
+  <td>Generous Tit for Tat</td>
+  <td><strong>GTFT</strong> (=<strong>R(1,1,g(R,P,T,S))</strong>
+below)</td>
+  <td>Cooprates on the first round and after its opponent cooperates.
+Following a defection, it cooperates with probability \(g(R, P, T, S)=
+\min\{1-\frac{T-R}{R-S}, \frac{R-P}{T-P}\}\), where \(R,\) \(P,\)
+\(T\) and \(S\) are the reward, punishment, temptation and sucker
+payoffs.</td> </tr>
+<tr>
+  <td>Gradual Tit for Tat</td>
+  <td><strong>GrdTFT</strong></td>
+  <td>TFT with two differences: (1) it increases the string of
+punishing defection responses with each additional defection by its
+opponent (2) it apologizes for each string of defections by
+cooperating in the subsequent two rounds.</td> </tr>
+<tr>
+  <td>Imperfect TFT</td>
+  <td><strong>ImpTFT</strong></td>
+  <td> Imitates opponent&rsquo;s last move with high (but less than
+one) probability.</td> </tr>
+<tr>
+  <td>Tit for Two Tats</td>
+  <td><strong>TFTT</strong> (or <strong>TF2T</strong>)</td>
+  <td>Cooperates unless defected against twice in a row.</td> </tr>
+<tr>
+  <td>Two Tits for Tat</td>
+  <td><strong>TTFT</strong> (or <strong>2TFT</strong>)</td>
+  <td>Defects twice after being defected against, otherwise
+cooperates.</td> </tr>
+<tr>
+  <td>Omega Tit for Tat</td>
+  <td><strong>&Omega;TFT</strong></td>
+  <td>Plays TFT unless measures of deadlock or randomness exceed
+specified thresholds. When deadlock threshold is exceeded it
+cooperates and resets the measure. When randomness threshold is
+exceded, it switches to unconditional defection. For full
+specificiation see Slaney and Kienreich, p184.
+<strong>&Omega;TFT</strong> finished second in the 2005 reprise of the
+Axelrod IPD tournament.</td> </tr>
+<tr>
+  <td>GRIM (or TRIGGER)</td>
+  <td><strong>GRIM</strong> (= <strong>S(1,0,0,0)</strong> below)</td>
+  <td>Cooperates until its opponent has defected once, and then
+defects for the rest of the game.</td> </tr>
+<tr>
+  <td>Discriminating Altruist</td>
+  <td><strong>DA</strong></td>
+  <td>In the Optional IPD, cooperates with any player that has never
+defected against it, and otherwise refuses to engage.</td> </tr>
+<tr>
+  <td>Pavlov (or Win-stay, Lose-shift)</td>
+  <td><strong>WSLS</strong> ( =<strong>P<sub>1</sub></strong>
+below)</td>
+  <td>Cooperates if it and its opponent moved alike in previous move
+and defects if they moved differently.</td> </tr>
+<tr>
+  <td>n-Pavlov</td>
+  <td> <strong>P<sub>n</sub></strong> </td>
+  <td>Adjusts its probability of cooperation in units of
+\(\tfrac{1}{n}\) according to its payoff on the previous round. More
+specifically it cooperates with probability \(p_1=1\) on round 1 and
+probability \(p_{n+1}\) on round \(n+1\), where
+<br />
+
+<table class="no-rules">
+<tr>
+  <td>\(p_{n+1}=\)</td>
+  <td>\(p_n\,[+]\tfrac{1}{n}\) if payoff on last round was Reward
+\((R)\),</td> </tr>
+<tr>
+  <td></td>
+  <td>\(p_n\,[-]\tfrac{1}{n}\) if payoff on last round was Punishment
+\((P)\),</td> </tr>
+<tr>
+  <td></td>
+  <td>\(p_n\,[+]\tfrac{2}{n}\) if payoff on last round was Temptation
+\((T)\),</td> </tr>
+<tr>
+  <td></td>
+  <td>\(p_n\,[-]\tfrac{2}{n}\) if payoff on last round was Sucker
+\((S)\).</td> </tr>
+</table> \(p_n\) is the probability of cooperation on round n, \(x[+]y
+= min(x+y,1)\) and x[-]y=max(x-y,0). </td> </tr>
+<tr>
+  <td>Adaptive Pavlov</td>
+  <td><strong>APavlov</strong></td>
+  <td>Employs <strong>TFT</strong> for the first six rounds, places
+opponent into one of five categories according to its responses and
+plays an optimal strategy for each. Details described in Li pp 89-104.
+<strong>APavolv</strong> was the highest scoring strategy in the 2005
+reprise of Axelrod&rsquo;s IPD tournament. </td> </tr>
+<tr>
+  <td>Reactive (with parameters y,p,q)</td>
+  <td><strong>R(y,p,q)</strong></td>
+  <td>Cooperates with probability y in first round and with
+probabilities p or q after opponent cooperates or defects.</td> </tr>
+<tr>
+  <td>Memory-one (with parameters p,q,r,s)</td>
+  <td><strong>S(p,q,r,s)</strong></td>
+  <td>Cooperates with probabilities probabilities p,q,r or s after
+outcomes (C,C), (C,D), (D,C) or (C,D).</td> </tr>
+<tr>
+  <td>Zero Determinant</td>
+  <td><strong>ZD</strong></td>
+  <td>A class of memory-one strategies that guarantee that a
+player&rsquo;s long-term average payoff in the infinitely repeated,
+two-player prisoner&rsquo;s dilemma (2IPD) will be related to his
+opponent&rsquo;s according to a fixed linear equation.</td> </tr>
+<tr>
+  <td>Equalizer (or dictator)</td>
+  <td><strong>SET-n</strong> (for P&le;n&le;R)</td>
+  <td>A <strong>ZD</strong> strategy that guarantees the
+opponent&rsquo;s long term average payoff is n. As it turns out, in a
+PD with payoffs 5,3,1 and 0,
+<strong>SET-2</strong>=<strong>S(&frac34;&frac14;&frac12;&frac14;)</strong>.</td>
+</tr>
+<tr>
+  <td>Extortionary</td>
+  <td><strong>Extort-n</strong></td>
+  <td>An extortionary strategy is a <strong>ZD</strong> strategy that
+guarantees that an opponent&rsquo;s average payoff can exceed the
+punishment payoff only if one&rsquo;s own long term average payoff is
+greater. <strong>Extort-n</strong> guarantees that one&rsquo;s gain
+over punishment is n times one&rsquo;s opponent&rsquo;s. As it turns
+out, for a PD with the payoffs above,
+<strong>EXTORT-2</strong>=<strong>S(<sup>7</sup>&frasl;<sub>8</sub>,
+<sup>7</sup>&frasl;<sub>16</sub>,<sup>3</sup>&frasl;<sub>8</sub>,0)</strong>).
+</td> </tr>
+<tr>
+  <td>Generous</td>
+  <td><strong>Gen-n</strong></td>
+  <td>A generous strategy is a <strong>ZD</strong> strategy that
+guarantees that an opponent&rsquo;s average payoff can be lower than
+the reward payoff only if one&rsquo;s own long term average payoff is
+even lower. <strong>GEN-n</strong> guarantees that one&rsquo;s loss
+relative to the reward is n times one&rsquo;s opponent&rsquo;s. As it
+turns out, for a PD with the payoffs above,
+<strong>GEN-2</strong>=<strong>S(1,
+<sup>9</sup>&frasl;<sub>16</sub>,<sup>1</sup>&frasl;<sub>2</sub>,<sup>1</sup>&frasl;<sub>8</sub>)</strong>).
+</td> </tr>
+<tr>
+  <td>Good</td>
+  <td><strong>GOOD</strong></td>
+  <td>A good strategy for the infinitely-repeated, two-player PD is a
+strategy with the following properties: (1) its use by both players
+ensures that each gets reward as long-term average payoff, (2) it is a
+Nash equilibrium with itself, and (3) if it is employed by both, any
+deviation by one that reduces the average payoff of the other will
+also reduce its own average payoff. Aikin, 2013 provides a simple
+characterization of the memory-one strategies that are good.</td>
+</tr>
+<tr>
+  <td>Lookup tables</td>
+  <td><strong>LookerUp</strong></td>
+  <td><strong>LookerUp</strong> is a family of strategy-archetypes.
+For positive integers k,m,n a LookerUp strategy can be obtained by
+using a learning algorithm to calculate the best reponse to the
+opponents first k moves and last m moves and the player&rsquo;s own
+last n moves while playing a PD-tournament within some universe of
+strategies. </td> </tr>
+<tr>
+  <td>Neural Net</td>
+  <td><strong>ANN</strong></td>
+  <td>A neural net strategy is obtained by using a learning algorithm
+to set connection weights on a feed-forward neural network with one
+hidden layer while playing PD tournaments within some universe of
+strategies. Further details can be found in Harper et al.</td> </tr>
+<tr>
+  <td>Finite State Machine</td>
+  <td><strong>FSM</strong></td>
+  <td>A finite state machine strategy is obtained by using a learning
+algorithm to set PD-moves and state-transitions while playing PD
+tournaments within some universe of strategies. Further details can be
+found in Harper et al.</td> </tr>
+</table>
+
+<p>
+
+ <a href="index.html#return">Return to Prisoner&rsquo;s Dilemma Entry</a>
+ </p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="http://explore.georgetown.edu/people/kuhns/?PageTemplateID=189" target="other">Steven Kuhn</a>
+&lt;<a href="m&#97;ilto:kuhns&#37;40georgetown&#37;2eedu"><em>kuhns<abbr title=" at ">&#64;</abbr>georgetown<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

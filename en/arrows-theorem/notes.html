@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Arrow’s Theorem &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/arrows-theorem/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/arrows-theorem/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arrows-theorem">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Arrow&rsquo;s Theorem</a></h2>
+
+<div id="note-1">
+<p>
+<a href="index.html#ref-1">1.</a>  Arrow&rsquo;s use of the
+expression &lsquo;social preference&rsquo; is compatible with the idea
+that groups of people can have collective beliefs, desires and other
+intentional states, but it should not be taken to presuppose this.
+&lsquo;Preference&rsquo;, in social choice theory, is to some extent a
+term of art.</p>
+</div>
+
+<div id="note-2">
+<p>
+ <a href="index.html#ref-2">2.</a>  Let this aggregation
+procedure be defined precisely, now, as follows: \(x\) is weakly
+preferred to \(y\), socially, if there are as many people who weakly
+prefer \(x\) to \(y\) as there are who weakly prefer \(y\) to \(x\). More
+technically, pairwise majority decision is that social welfare
+function \(f\) that assigns, to any given profile \(\langle R_i\rangle\)
+in its domain, the relation \(R\) such that:</p>
+
+\[
+xRy \text{ if and only if } |\{i: xR_{i}y\}| \geq |\{i: yR_{i}x\}|.
+\]
+
+<p>It is now easy to see that \(f\) satisfies <em>WP</em>. Suppose that
+\(xP_{i}y\), for all \(i\). It follows from the definition of strict
+preference that, in this case, \(|\{i: xR_{i}y\}| = n > 0 = |\{i:
+yR_{i}x\}|\). Then, by definition of \(f\), \(xRy\) but not \(yRx\). So, once
+again by definition of strict preference, \(xPy\).</p>
+</div>
+
+<div id="note-3">
+<p>
+ <a href="index.html#ref-3">3.</a>  That is, \(x R|S y\)
+if and only if \(xRy\) while both \(x\) and \(y\) are members of
+\(S\).</p>
+</div>
+
+<div id="note-4">
+<p>
+ <a href="index.html#ref-4">4.</a>  The <em>letters</em>
+&lsquo;\(x\)&rsquo;, &lsquo;\(y\)&rsquo;, &lsquo;\(z\)&rsquo; that Arrow
+used to refer to alternatives are of course representations, and they
+might just as well be called &lsquo;labels&rsquo;, but that is another thing. For an
+example of the confusion created by interpreting
+<em>alternatives</em> \(x, y, z, \ldots\) as labels, notice
+that this blurs the standard distinction between Arrow&rsquo;s
+condition <em>Independence of Irrelevant Alternatives</em> and the
+condition of <em>Strong Neutrality</em>. Section 4.5 gives the latter
+a precise statement and explains how these conditions
+differ. Informally speaking, what <em>Independence</em> requires is
+that, for any given pair of alternatives, the social welfare function
+maintains a certain consistency as we go from one profile to the next
+within its domain.  <em>Strong Neutrality</em> requires this, and in
+addition it requires a similar consistency as we go from one pair of
+alternatives to the next, whether this is within any given profile in
+the domain or among different ones. Now, if we think of \(x\) and \(y\) as
+labels that pick out different alternatives in different profiles,
+then <em>Independence</em> already demands consistency from one pair
+of alternatives to the next.</p>
+</div>
+
+<div id="note-5">
+<p>
+ <a href="index.html#ref-5">5.</a>  Remarkably, Gibbard
+obtained this result while still a student. It first appears in a term
+paper that he wrote for a joint seminar of Arrow, Rawls and Sen at
+Harvard, in 1968&ndash;1969 (for more historical details surrounding
+this result, see Weymark 2014).</p>
+</div>
+
+<div id="note-6">
+<p>
+ <a href="index.html#ref-6">6.</a>  This example derives
+from Woody Allen&rsquo;s spoof documentary <em>Zelig</em> (1983).</p>
+</div>
+
+<div id="note-7">
+<p>
+ <a href="index.html#ref-7">7.</a>  The domain is
+restricted but it still contains many profiles. Suppose there are
+three alternatives to choose between, that the other two members of
+the committee can have any preferences at all, independently of one
+another, and that Zelig can end up with the preferences of either one.
+Then the decision procedure might be called on to handle any of 338
+(or \(13^{2} \times 2\)) preference profiles.</p>
+</div>
+
+<div id="note-8">
+<p>
+ <a href="index.html#ref-8">8.</a> Notice that Arrow
+didn&rsquo;t write &lsquo;all environments \(S\)&rsquo;. He wrote &lsquo;a
+given environment \(S\)&rsquo;, which is ambiguous: his Condition 3
+can be read either as concerning all environments, or just some
+particular one. The stronger universal reading is needed for an
+impossibility theorem, though, so it must be what Arrow intended. The
+universal reading secures equivalence to <em>I</em>. Crucially, every
+pair {\(x\),\(y\)} of alternatives is an environment.</p>
+</div>
+
+<div id="note-9">
+<p>
+ <a href="index.html#ref-9">9.</a> <em>SN</em> reduces
+\(I\) when we equate \(x\) with \(z\), and equate \(y\) with \(w\), so that we
+are in effect dealing with just a single pair of alternatives.</p>
+</div>
+
+<div id="note-10">
+<p>
+ <a href="index.html#ref-10">10.</a>  The case of Zelig in
+Section 4.4 is not like this. His preferences never conflict with
+those of both of the others.</p>
+</div>
+
+<div id="note-11">
+<p>
+ <a href="index.html#ref-11">11.</a> Since pairwise
+majority decision does not derive an ordering from the profile that
+gives rise to Condorcet&rsquo;s paradox, in Section 1, Black&rsquo;s result tells
+us that this profile is not single peaked. It is a simple but useful
+exercise to verify, by checking the different ones, that there is no
+linear ordering of the alternatives with respect to which all three
+individual orderings of that profile are single peaked. </p>
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+Michael Morreau
+&lt;<a href="m&#97;ilto:michael&#37;2emorreau&#37;40uit&#37;2eno"><em>michael<abbr title=" dot ">&#46;</abbr>morreau<abbr title=" at ">&#64;</abbr>uit<abbr title=" dot ">&#46;</abbr>no</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

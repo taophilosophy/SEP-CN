@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Boltzmann’s Work in Statistical Physics &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/statphys-Boltzmann/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/statphys-Boltzmann/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=statphys-Boltzmann">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Boltzmann&rsquo;s Work in Statistical Physics</a></h2>
+
+<p><a href="index.html#note-1" name="1">1.</a> Cf. the following words of
+E.G.D. Cohen, (a student of Uhlenbeck, who was a student of Ehrenfest
+who studied with Boltzmann): &ldquo;The depth of ill-feelings &hellip; and
+the resistance to [Boltzmann's] ideas &hellip; still resonated for me
+when Uhlenbeck said to me one day in some mixture of anger and
+indignation &lsquo;that damned Zermelo, a student of Planck's <em>nota
+bene</em>&rsquo; an echo after two generations of past injustice and pain
+inflicted on Boltzmann by his hostile environment.&rdquo; (Cohen 1996,
+5).</p>
+
+<p><a href="index.html#note-2" name="2">2.</a> The remarkable degree of
+consent between Mach and Boltzmann has led one commentator (Blackmore
+1982) into thinking that Boltzmann abandoned realism altogether.</p>
+
+<p><a href="index.html#note-3" name="3">3.</a> Note that the recent
+thoughtful biography by Cercignani (1998) carries the subtitle: &ldquo;the man
+who trusted atoms&rdquo;, not &ldquo;the man who believed in atoms&rdquo;.</p>
+
+<p><a href="index.html#note-4" name="4">4.</a> Sommerfeld writes: &ldquo;The
+battle between Boltzmann and Ostwald resembled the battle of the bull
+with the supple fighter. However, this time the bull was victorious
+&hellip;&nbsp;. The arguments of Boltzmann carried the day. We, the
+young mathematicians of that time, were all on the side of Boltzmann
+&hellip;&rdquo; (H&ouml;flechner 1994, I, 167).  A similar opinion was
+voiced by Arrhenius.</p>
+
+<p><a href="index.html#note-5" name="5">5.</a>  For example, the
+well-known passage in Boltzmann (1896b) in which he heaps praise on
+Zermelo, for providing the first evidence that Boltzmann's papers were
+actually being read at all in Germany, cannot be taken seriously,
+coming 8 years after he had been offered Kirchhoff's chair in Berlin
+and membership of the Prussian Academy.  Another example of
+Boltzmann's love of provocation is his article on Schopenhauer which
+he entitled &ldquo;Proof that Schopenhauer is an empty-minded, ignorant,
+nonsense-spreading philosophaster who thoroughly degenerates heads by
+selling hollow talk&rdquo;, but was published, after editorial intervention,
+as &lsquo;On a thesis by Schopenhauer&rsquo; (Boltzmann 1905, 240).</p>
+
+<p><a href="index.html#note-6" name="6">6.</a> It has even been suggested
+that &ldquo;Maxwell apparently never read any of the papers that Boltzmann
+wrote after about 1870&rdquo; (Klein 1973). But this is not true. There are
+several occasions where Maxwell refers to the Boltzmann equation and
+<em>H</em>-theorem from 1872 and to other Boltzmann papers from 1874
+and 1876.</p>
+
+<p><a href="index.html#note-7" name="7">7.</a> This is not to say that he
+always conflated these two interpretations of probability. Some papers
+employ a clear and consistent choice for one interpretation only. But
+then that choice differs between papers, or even in different sections
+of a single paper. In fact, in (1871c) he even multiplied probabilities
+with different interpretations into one equation to obtain a joint
+probability. But then in (1872) he conflates them again. Even in his
+last paper (Boltzmann and Nabl 1904) we see that Boltzmann identifies
+the two kinds of probability with a simple minded argument.</p>
+
+<p><a href="index.html#note-8" name="8">8.</a> The literature contains
+some surprising confusion about how the hypothesis got its name. The
+Ehrenfests borrowed the name from Boltzmann's concept of an
+<em>Ergode</em>, which he introduced in
+ (Boltzmann 1884) and also discussed in his <em>Lectures on Gas
+ Theory</em> (Boltzmann 1898).  But what did Boltzmann actually
+understood by an <em>Ergode</em>? Brush points out in his translation of
+ (Boltzmann 1898, 297) and similarly in
+ (Brush 1976, 364), that Boltzmann used the
+phrase to denote a stationary ensemble, characterized by the
+microcanonical distribution in phase space. In other words, in
+Boltzmann's (1898) usage an <em>Ergode</em> is just an
+micro-canonical ensemble, and has very little to do with the so-called
+ergodic hypothesis. Brush criticized the Ehrenfests for causing
+confusion by their terminology.</p>
+
+<p>
+
+However, in his original (1884) introduction of the phrase, an
+<em>Ergode</em> is a stationary ensemble with only a single integral
+of motion. As a consequence, its distribution is indeed
+micro-canonical, but, what is more, every member of the ensemble
+satisfies the hypothesis of traversing every phase point with the
+given total energy. Indeed, in that text, being an element of an
+Ergode and satisfaction of this hypothesis are equivalent. The
+Ehrenfests were thus completely justified in baptizing the hypothesis
+&ldquo;ergodic&rdquo;.</p>
+
+<p>
+
+Another dispute has emerged concerning the etymology of the term.  The
+common opinion, going back at least to the Ehrenfests has always been
+that the word derived from <em>ergos</em> (work) and <em>hodos</em>
+(path).  Gallavotti (1994) has argued however that &ldquo;undoubtedly&rdquo; it
+derives from <em>ergos</em> and <em>eidos</em> (similar). Now one must
+grant Gallavotti that one would expect the etymology of the suffix
+&ldquo;ode&rdquo; of ergode to be identical to that for Boltzmann's &ldquo;holode&rdquo;,
+&ldquo;monode&rdquo;, &ldquo;orthode&rdquo; and &ldquo;planode&rdquo;, and that a reference to path would
+be somewhat unnatural in these last four cases. However, I don't
+believe a reference to <em>eidos</em> would be more natural. Moreover,
+it seems to me that if Boltzmann intended this etymology, he would
+have written &ldquo;ergoide&rdquo; in analogy to &ldquo;planetoide&rdquo;, &ldquo;ellipsoide&rdquo;,
+etc. That he was familiar with this common usage is substantiated by
+him coining the term &ldquo;momentoide&rdquo; for momentum-like degrees of freedom
+(i.e., those that contribute a quadratic term to the Hamiltonian) in
+(Boltzmann 1892). The argument mentioned by Cercignani (that
+Gallavotti's father is a classicist) fails to convince me in this
+matter. </p>
+
+<p><a href="index.html#note-9" name="9">9.</a> Indeed, in the rare
+occasion in which he later did mention external disturbances, it was
+only to say that they are &ldquo;not necessary&rdquo;  (Boltzmann 1895b). 
+See also (Boltzmann 1896, &sect;91). </p>
+
+<p><a href="index.html#note-10" name="10">10.</a> Or some hypothesis
+compatible with the quasi-ergodic hypothesis. As it happens,
+Boltzmann's example is also compatible with the measure-theoretical
+hypothesis of &lsquo;metric transitivity&rsquo;.</p>
+
+<p><a href="index.html#note-11" name="11">11.</a> Actually Boltzmann
+formulated the discussion in terms of a distribution function over
+kinetic energy rather than velocity. We have here transposed this into
+the latter, nowadays more common formulation.</p>
+
+<p><a href="index.html#note-12" name="12">12.</a> The term &ldquo;cyclic&rdquo; is
+missing in Brush's translation.</p>
+
+<p><a href="index.html#note-13" name="13">13.</a> Actually, as the
+Ehrenfests showed more clearly, there is also a third possible case,
+namely (c): <em>H</em><sub>0</sub> lies on a local minimum of the
+curve. But that case is even more improbable than case (b) above.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="http://www.philosophy.umn.edu/people/FacultyProfile.php?UID=jbuffink" target="other">Jos Uffink</a>
+&lt;<a href="m&#97;ilto:jbuffink&#37;40umn&#37;2eedu"><em>jbuffink<abbr title=" at ">&#64;</abbr>umn<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

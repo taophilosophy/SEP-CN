@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Skolem’s Paradox &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/paradox-skolem/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/paradox-skolem/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=paradox-skolem">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Skolem&rsquo;s Paradox</a></h2>
+
+<p>
+
+ <a href="index.html#note-1" name="1">1</a>.
+ This is probably the
+place to highlight some notational conventions. Throughout this entry,
+we will let =, &not;, &rarr;, and &exist; constitute the official
+first-order logical vocabulary, and we will treat &and;, &or;, &harr;,
+and &forall; as abbreviations. (We will make free use of these
+abbreviations wherever they seem to improve readability.) Unless
+otherwise noted, we work in the language of first-order set
+theory&mdash;i.e., the language which has &ldquo;&isin;&rdquo; as its
+sole non-logical primitive. We say that a formula is <em>in</em> this
+language when it is built up from &isin; together with the standard
+logical connectives.</p>
+
+<p>
+
+Throughout this entry, we will use boldface letters to denote models
+and the corresponding unbolded letters to denote the domains of those
+models: so, <strong>M</strong> is a model and <em>M</em> is its domain,
+<strong>N</strong> is a model and <em>N</em> is its domain, etc. That
+being said, we will often abuse notation and write things like
+&ldquo;<strong>M</strong> is countable&rdquo; or &ldquo;<em>m</em>
+&isin; <strong>M</strong>&rdquo; when we really mean that
+&ldquo;<em>M</em> is countable&rdquo; or that &ldquo;<em>m</em> &isin;
+<em>M</em> &rdquo;; in context, this should never cause any confusion.
+Finally, unless otherwise specified, all models should be assumed to be
+for the language of set theory&mdash;i.e., as above, the language with
+&isin; as its sole non-logical primitive.</p>
+
+<p>
+
+Unless otherwise noted, we will use
+ &#8872;
+ to denote first-order satisfaction and &#8870; to denote
+first-order provability. If <em>m</em> is an element of some model
+<strong>M</strong> and &phi;(<em>x</em>) is a formula with only x
+free, then we will write <strong>M</strong>
+ &#8872; &phi;[<em>m</em>] to mean that m lives in the subset of
+<strong>M</strong> on which &phi;(<em>x</em>) comes out true. For more
+on model-theoretic notation, see the entries on
+ <a href="../model-theory/">model theory</a>
+ and
+ <a href="../modeltheory-fo/">first-order model theory</a>.
+ For basic
+set-theoretic notation, see the entry on
+ <a href="../set-theory/">set theory</a>.</p>
+
+<p>
+
+ <a href="index.html#note-2" name="2">2</a>.
+ We said above that
+Cantor's conclusion that there are different kinds of infinity may
+initially seem somewhat surprising. This needs qualification. At first
+glance, after all, it may seem <em>obvious</em> that some infinite sets
+are larger than others. If, for instance, we measure the
+&ldquo;size&rdquo; of a set by means of the subset relation&mdash;so,
+<em>A</em> is smaller than <em>B</em> if and only if <em>A</em> is a
+proper subset of <em>B</em>&mdash;then it will be trivial to show that
+there are different kinds of infinity. On <em>this</em> definition,
+after all, the set of even numbers is smaller than the set of natural
+numbers, the set of natural numbers is smaller than the set of
+integers, and the set of integers is smaller than the set of rational
+numbers. It is only after we filter our whole analysis through Cantor's
+new definition of cardinality&mdash;and so discover that the whole
+sequence of even numbers, natural numbers, integers, rational numbers,
+etc.&nbsp;consists of sets of the same size&mdash;that we begin to
+suspect that <em>all</em> infinite sets should have the same size,
+that, one way or another, by hook or by crook, we should be able to
+conjure up a bijection between <em>any</em> two infinite sets. It's
+against <em>this</em> backdrop that Cantor's Theorem starts to look
+somewhat surprising.</p>
+
+<p>
+
+ <a href="index.html#note-3" name="3">3</a>.
+ This isn't the way
+L&ouml;wenheim himself would have formulated the theorem, but it's the
+most perspicuous formulation for our purposes. For a detailed
+discussion of L&ouml;wenheim's own formulation and proof, see Badesa
+2004.</p>
+
+<p>
+
+ <a href="index.html#note-4" name="4">4</a>.
+ For a comprehensive
+survey of the mathematics surrounding the L&ouml;wenheim-Skolem
+Theorems, see Ebbinghaus 2007.</p>
+
+<p>
+
+ <a href="index.html#note-5" name="5">5</a>.
+ This theorem is
+originally due to Tarski. It gets its name from the fact that it allows
+us to start with a countable model of <em>T</em> and then generate
+models of arbitrarily large cardinality.</p>
+
+<p>
+
+ <a href="index.html#note-6" name="6">6</a>.
+ This theorem is, once
+again, due to Tarski. It's called the <em>downward</em> theorem because
+it allows us to start with a large model and then generate a (smaller)
+submodel. Two further notes are in order here. First, in saying that
+our new model, <strong>N</strong>, is a <em>submodel</em> of our
+original model, <strong>M</strong>, we mean the domain of
+<strong>N</strong> is a subset of the domain of <strong>M</strong> and
+that the two models agree on the interpretation of the constants,
+predicates, relations and functions in our language&mdash;e.g., for any
+<em>n</em><sub>1</sub>, &hellip; , <em>n</em><sub><em>m</em></sub> in
+the domain of <strong>N</strong> and any <em>R</em> in our language,
+<strong>N</strong>
+ &#8872;
+<em>R</em>[<em>n</em><sub>1</sub>, &hellip; ,
+<em>n</em><sub><em>m</em></sub>&thinsp;] &hArr; <strong>M</strong>
+ &#8872;
+ <em>R</em>[<em>n</em><sub>1</sub>,
+&hellip; , <em>n</em><sub><em>m</em></sub>&thinsp;]. Second, as it's
+stated above, the downward theorem depends upon the assumption that our
+language is countable. (If our language isn't countable, then we would
+need the additional assumption that &lambda; is at least as large as
+the size of our language.) For expository convenience, the remainder of
+this entry will limit itself to the case of countable
+languages&mdash;so, from here on out
+&ldquo;language&rdquo;=&ldquo;countable language.&rdquo;</p>
+
+<p>
+
+<a href="index.html#note-7" name="7">7</a>. In fact, there a single
+countable transitive model&mdash;the so called minimal
+model&mdash;which satisfies of ZFC+V=L and which is a submodel of
+every transitive model of ZF. &nbsp;If we want our countable submodel
+to satisfy exactly the same sentences as the
+original <strong>N</strong>, then things get a little
+trickier. &nbsp;In many cases we can do this&mdash;e.g.,
+when <strong>N</strong> has the form V<sub>&gamma;</sub> for some
+ordinal &gamma;. &nbsp;But Hamkins,&nbsp;Woodin and Button have
+recently shown that there there are cases where a transitive model of
+ZF contains no countable transitive submodel satisfying exactly the
+same theory. &nbsp;For a definition of transitivity&mdash;and a
+discussion of its philosophical significance in the context of
+Skolem's Paradox. For a definition of transitivity&mdash;and a
+discussion of its philosophical significance in the context of
+Skolem's Paradox&mdash;see section
+ <a href="index.html#2.3">2.3</a>.</p>
+
+<p>
+
+ <a href="index.html#note-8" name="8">8</a>.
+ We should note, here,
+that the initial assumption that our axioms have <em>any</em> model is
+non-trivial&mdash;after all, the second incompleteness theorem ensures
+that we can't prove the existence of such models from <em>within</em>
+our axiomatization. What's more, some of the results we'll examine
+later in this entry involve even stronger model-existence
+assumptions&mdash;e.g., the existence of a transitive model for our
+axioms is strictly stronger than the mere existence of <em>a</em> model
+for our axioms. Now, having highlighted these kinds of worries here, we
+will to suppress them for the remainder of this entry (so, from here on
+out, we simply assume that our axioms have models, transitive models,
+etc.). For a more-detailed discussion of the philosophical issues
+raised by the possible non-existence of such models, see Bays 2007b.
+For more-technical information on the strength of various
+model-existence assumptions see Ebbinghaus 2007 and section 1 of Bays
+2007a.</p>
+
+<p>
+
+ <a href="index.html#note-9" name="9">9</a>.
+ Some care is needed
+here. There are many ways of understanding what it is for a model to
+&ldquo;capture&rdquo; a set-theoretic notion; on some of them, even
+finite cardinality notions can't be nicely captured. For now, the
+important point is just that there is <em>a</em> way of understanding
+what it is for a model to &ldquo;capture&rdquo; a set-theoretic notion
+on which finite cardinality notions <em>can</em> be captured but the
+countable/uncountable distinction cannot. See section
+ <a href="index.html#3.1">3.1</a>
+ for a detailed discussion of the relevant
+distinctions.</p>
+
+<p>
+
+ <a href="index.html#note-10" name="10">10</a>.
+ In particular, let
+&phi;<sub><em>n</em></sub>(<em>x</em>) be the formula which
+says that <em>x</em> has at least <em>n</em> members (for <em>n</em> a
+natural number). Then for any model, <strong>M</strong>, and any
+element, <em>m</em> &isin; <strong>M</strong>,</p>
+
+<blockquote>
+ &forall;<em>x</em> (<strong>M</strong>
+ &#8872;&thinsp;
+&phi;<sub><em>n</em></sub>[<em>m</em>]) &hArr;
+{<em>m</em>&prime; &isin; <strong>M</strong> |&nbsp;<strong>M</strong>
+ &#8872; <em>m</em>&prime; &isin;
+<em>m</em>&thinsp;} is infinite.
+</blockquote>
+
+<p>So, we can use the whole set of &phi;<sub><em>n</em></sub>'s to capture
+the notion &ldquo;<em>x</em> has infinitely many members.&rdquo; </p>
+
+ 
+
+<p>
+
+ <a href="index.html#note-11" name="11">11</a>.
+ Any model which gets
+membership right will have to have a well-founded membership relation.
+Hence, it will also get the structure of the natural numbers right. So,
+the usual formulation of &ldquo;<em>x</em> is finite&rdquo; will pick
+out all and only those sets which have finitely many members in
+<strong>M</strong>&mdash;i.e., those <em>m</em> &isin;
+<strong>M</strong> such that {<em>m</em>&prime; &isin;
+<strong>M</strong> &thinsp;|&nbsp;<strong>M</strong>
+ &#8872;
+ <em>m</em>&prime; &isin; <em>m</em>&thinsp;}
+is finite.</p>
+
+<p>
+
+ <a href="index.html#note-12" name="12">12</a>.
+ The introduction is
+to a reprinting of the paper in van Heijenoort 1967. See
+pp.&nbsp;290&ndash;291.</p>
+
+<p>
+
+ <a href="index.html#note-13" name="13">13</a>.
+ So, &Omega;(<em>x</em>) is an open formula with <em>x</em> as its
+only free variable, and
+ &Omega;[<i class="overstrike">m<span class="up">&circ;</span></i>] is the result
+of evaluating this formula <em>in</em> <strong>M</strong> under the
+assumption that <em>x</em> designates
+ <i class="overstrike">m<span class="up">&circ;</span></i> (see footnote
+ <a href="#1">1</a>).</p>
+
+<p>
+
+ <a href="index.html#note-14" name="14">14</a>.
+ So,
+&ldquo;&not;&rdquo; means <em>not</em>, &ldquo;&or;&rdquo; means
+<em>or</em>, &ldquo;&and;&rdquo; means <em>and</em>, etc.</p>
+
+<p>
+
+ <a href="index.html#note-15" name="15">15</a>.
+ As before,
+&Omega;(<em>x</em>) is an open formula with <em>x</em> as its
+only free variable; &Omega;(<em>m</em>) is the result of
+replacing the free instances of <em>x</em> with a name for <em>m</em>.
+In particular, then,
+ &Omega;(<i class="overstrike">m<span class="up">&circ;</span></i>) is obtained by
+replacing the relevant instances of <em>x</em> with a name for
+<i class="overstrike">m<span class="up">&circ;</span></i>.</p>
+
+<p>
+
+ <a href="index.html#note-16" name="16">16</a>.
+ Recall, here, that a
+bijection between the sets <em>x</em> and <em>y</em> is just a
+one-to-one correspondence between the members of <em>x</em> and the
+members of <em>y</em>. As we saw in section 1, to say that <em>x</em>
+is countable is just to say there exists such a bijection between
+<em>x</em> and the natural numbers; to say that <em>x</em> is
+uncountable is to say that there are no such bijections.</p>
+
+<p>
+
+ <a href="index.html#note-17" name="17">17</a>.
+ We should note, here,
+that there are many different ways of explicating the notion
+&ldquo;<em>x</em> is uncountable,&rdquo; depending on how we decide to
+&ldquo;code up&rdquo; basic notions like <em>ordered pair</em> or
+<em>natural number</em>. The above discussion assumes that our set
+theorist has made the <em>same</em> decisions that we made when we
+originally formulated &Omega;(<em>x</em>). Since any particular
+formulation of &Omega;(<em>x</em>) corresponds to some such
+explication, this assumption involves no loss of generality.</p>
+
+<p>
+
+ <a href="index.html#note-18" name="18">18</a>.
+ More generally, for
+any two objects <em>a</em> and <em>b</em>, we can find a countable
+model <strong>M</strong> such that 1.) <strong>M</strong>
+ &#8872;
+ ZFC and 2.) <em>a</em> and <em>b</em> are
+elements of <strong>M</strong> such that <strong>M</strong>
+ &#8872;&nbsp;<em>a</em> &isin; <em>b</em>. For more
+details on this construction, see section 2 of Bays 2007a.</p>
+
+<p>
+
+ <a href="index.html#note-19" name="19">19</a>.
+ Again, see section 2
+of Bays 2007a for further details on these constructions.</p>
+
+<p>
+
+ <a href="index.html#note-20" name="20">20</a>.
+ Recall that these are
+precisely the bijections which prove that the set
+{<em>m</em>&prime;&nbsp;|&nbsp;<strong>M</strong>
+ &#8872;
+ <em>m</em>&prime; &isin; <em>m</em>&thinsp;} is
+countable; hence, they are bijections which, for one reason or another,
+<strong>M</strong> fails to properly appreciate (see section
+ <a href="index.html#2.3">2.3</a>
+ for one way that this might happen; see
+sections 3-5 of Bays 2007a for more details and for other
+possibilities).</p>
+
+<p>
+
+ <a href="index.html#note-21" name="21">21</a>.
+ Actually, we get
+something a bit stronger than this. If <em>m</em><sub>2</sub> &isin;
+<strong>M</strong>, then for <em>any</em> set <em>m</em><sub>1</sub>,
+&nbsp;<em>m</em><sub>1</sub> &isin; <em>m</em><sub>2</sub>&nbsp; &hArr; <strong>M</strong>
+ &#8872;&nbsp;<em>m</em><sub>1</sub> &isin; <em>m</em><sub>2</sub>. So, we
+don't need the initial assumption that <em>m</em><sub>1</sub> &isin;
+<strong>M</strong>. In particular, then, for any <em>m</em> &isin;
+<strong>M</strong>, &nbsp; <em>m</em>&thinsp;=&thinsp;{
+<em>m</em>&prime; &isin; <strong>M</strong>
+&thinsp;|&nbsp;<strong>M</strong>
+ &#8872;
+<em>m</em>&prime; &isin; <em>m</em>&thinsp;}. So, transitive models not
+only get <em>membership</em> right, they also completely capture the
+notion &ldquo;<em>x</em> is a member <em>of m</em>&rdquo; where
+<em>m</em> itself is an element of the relevant model.</p>
+
+<p>
+
+ <a href="index.html#note-22" name="22">22</a>.
+ Here, the expression
+&ldquo;<em>f</em>&thinsp;:&thinsp;&omega; &rarr; <em>m</em> is a
+bijection&rdquo; is a (natural) abbreviation for a much longer formula
+in the language of formal set theory. The relationship between this
+formula and the ordinary English expression
+&ldquo;<em>f</em>&thinsp;:&thinsp;&omega; &rarr; <em>m</em> is a
+bijection&rdquo; is similar to that between &Omega;(<em>x</em>)
+and &ldquo;<em>x</em> is uncountable.&rdquo; Note also that because
+<strong>M</strong> is transitive, <em>m</em>&thinsp;=&thinsp;{
+<em>m</em>&prime; &isin; <strong>M</strong>
+&thinsp;|&nbsp;<strong>M</strong>
+ &#8872;
+<em>m</em>&prime; &isin; <em>m</em>&thinsp;}. So there's no difference
+between saying that &ldquo;<em>f</em>&thinsp;:&thinsp;&omega; &rarr; {
+<em>m</em>&prime; &isin; <strong>M</strong>
+&thinsp;|&nbsp;<strong>M</strong>
+ &#8872;
+<em>m</em>&prime; &isin; <em>m</em>&thinsp;} is a bijection&rdquo; and
+saying that &ldquo;<em>f</em>&thinsp;:&thinsp;&omega; &rarr; <em>m</em>
+is a bijection.&rdquo; For convenience, therefore, we'll use the latter
+notation throughout the rest of this example.</p>
+
+<p>
+
+ <a href="index.html#note-23" name="23">23</a>.
+ Note, here, that it's
+only because <strong>M</strong> is transitive that we can reliably
+construe the model-theoretic interpretation of
+&Omega;(<em>x</em>) as saying anything about
+<em>bijections</em> at all. (That's the significance of the second
+point in the last full paragraph.) If <strong>M</strong> were not
+transitive, then there would be no general reason for thinking that the
+model-theoretic interpretation of the portion of
+&Omega;(<em>x</em>) which follows the initial existential
+quantifier has anything much to do with bijections.</p>
+
+<p>
+
+ <a href="index.html#note-24" name="24">24</a>.
+ In formulating this
+axiom, we've used &ldquo;&sube;&rdquo; as an abbreviation for a
+slightly longer expression in the official language of set theory.
+Since the subset relation is absolute for transitive models&mdash;i.e.,
+since transitive models get the relation &ldquo;<em>x</em> is a subset
+of <em>y</em>&rdquo; right&mdash;this abbreviation is innocuous.</p>
+
+<p>
+
+ <a href="index.html#note-25" name="25">25</a>.
+ So, if <em>X</em>={1,
+2, 3}, then the power set of <em>X</em> is { &empty;, {1}, {2}, {3},
+{1, 2}, {2, 3}, {1, 3}, {1, 2, 3} }.</p>
+
+<p>
+
+ <a href="index.html#note-26" name="26">26</a>.
+ For dialectical
+reasons, Resnik's original argument focused on Wang's System of set
+theory, rather than on ZFC. But his basic point carries over to the ZFC
+context, and, for our purposes, it's more perspicuous to discuss it
+there.</p>
+
+<p>
+
+ <a href="index.html#note-27" name="27">27</a>.
+ As in the power set
+case, this analysis turns on the way <strong>M</strong> interprets a
+particular universal quantifier. Since <strong>M</strong> is
+transitive, <strong>M</strong> gets individual real numbers right: if
+<em>m</em> &isin; <strong>M</strong>, then <strong>M</strong>
+ &#8872;
+ &ldquo;<em>m</em> is a real number&rdquo; if
+and only if <em>m</em> really is a real number. Consider, then, the
+sentence: &forall;<em>x</em> [<em>x</em> &isin;
+<em>R</em>&ensp;&harr;&ensp;&ldquo;<em>x</em> is a real number&rdquo;].
+On its ordinary English interpretation, this sentence says that
+<em>R</em> contains all the real numbers. On its model-theoretic
+interpretation, however, the sentence only says that <em>R</em>
+contains all the real numbers <em>which happen to live in</em>
+<strong>M</strong>, as these are the only real numbers which get
+&ldquo;seen&rdquo; by the initial &forall;<em>x</em> quantifier in the
+sentence.</p>
+
+<p>
+
+ <a href="index.html#note-28" name="28">28</a>.
+ That is, if
+<strong>M</strong> is a model for second-order ZFC, then
+<strong>M</strong>
+ &#8872;
+&ldquo;<em>m</em> has cardinality &kappa;&rdquo; if and only if the set
+{<em>m</em>&prime; &isin; <strong>M</strong>
+&thinsp;|&nbsp;<strong>M</strong>
+ &#8872;
+<em>m</em>&prime; &isin; <em>m</em>&thinsp;} really does have
+cardinality &kappa;. A similar, though slightly more complicated, fact
+holds in the power set case. We should note, here, that Zermelo's
+argument assumes that we're using <em>standard</em> models for
+second-order logic. The argument fails if we allow the use of
+first-order Henkin models to interpret the second-order formalism. For
+more on the difference between standard models and Henkin models, see
+sections 2 and 3 of the entry on
+ <a href="../logic-higher-order/">second-order and higher-order logic</a>.</p>
+
+<p>
+
+ <a href="index.html#note-29" name="29">29</a>.
+ More precisely, they
+prove that all of the usual formulations of the L&ouml;wenheim-Skolem
+theorem are independent of a certain strong form of intuitionistic set
+theory, and they show that these formulations are also
+straightforwardly <em>falsified</em> by principles which many
+constructivists would want to accept. Of course, this doesn't rule out
+the possibility that some unusual variant of the theorem will turn out
+to be provable in some non-standard form of
+&ldquo;constructivist&rdquo; set theory; at present, though, that seems
+an unlikely scenario. See pp 35&ndash;36 of their paper for Tennant and
+McCarty's own thoughts on this matter.</p>
+
+<p>
+
+ <a href="index.html#note-30" name="30">30</a>.
+ By way of example,
+there's no automatic conflict between a sentence of the form
+&exist;<em>x</em> &phi;(<em>x</em>) and one of the form
+&not;&exist;<em>x</em> [&psi;(<em>x</em>) &and;
+&phi;(<em>x</em>)&thinsp;]. In effect, this point is just a more-formal
+version of the point about quantification that was made back in section
+2.2.</p>
+
+<p>
+
+ <a href="index.html#note-31" name="31">31</a>.
+ In contemporary
+terms, this is the conception of axioms which underlies much of modern
+algebra. The axioms of group theory, for instance, characterize what it
+means for a mathematical structure to count as a <em>group</em>, what
+it takes for a particular element to be the <em>identity element</em>
+of a group, and what counts as the <em>inverse</em> of a particular
+element. But there's no single ur-group which the axioms are trying to
+describe&mdash;there's just a whole class of (equally intended) groups
+which the axioms serve to characterize.</p>
+
+<p>
+
+ <a href="index.html#note-32" name="32">32</a>.
+ See pp. 295&ndash;296
+of Skolem 1922 for Skolem's characterization of Zermelo's axioms. We
+should note that it's an open question whether Skolem has properly
+understood Zermelo on this matter. In his later
+writings&mdash;including those where he directly responds to Skolem's
+Paradox&mdash;Zermelo clearly employed an algebraic conception of
+axioms (see, e.g., Zermelo 1930). But it's unclear whether we should
+read that conception back into the original 1908 axiomatization to
+which Skolem was responding. See Taylor 1993 and Ebbinghaus 2003 for
+more on this interpretive issue.</p>
+
+<p>
+
+ <a href="index.html#note-33" name="33">33</a>.
+ Skolem also suggests,
+though without giving a proof, that the notions <em>finite</em> and
+<em>simply infinite sequence</em> will also turn out to be relative. In
+fact, Skolem was right about this, as a simple application of the
+compactness theorem shows.</p>
+
+<p>
+
+ <a href="index.html#note-34" name="34">34</a>.
+ A similar point
+applies to the group theory example from footnote
+ <a href="#31">31</a>.
+ Clearly, the particular object which counts as
+the &ldquo;identity element&rdquo; will vary as we move from group to
+group, as will the range of our quantifiers. But we can still use
+formulas in our language to capture central group-theoretic
+notions&mdash;e.g., that an element lives in the center of a group or
+that an element has order 17. And if we expand our language, then we
+can capture even more notions&mdash;e.g., that the predicate
+&ldquo;<em>P</em>&thinsp;&rdquo; picks out a normal subgroup of the
+larger group that we are studying. Of course, we can't do this for
+every group-theoretic notion&mdash;there's no formula which exactly
+captures the notion &ldquo;<em>x</em> lives in the subgroup generated
+by <em>y</em> and <em>z</em>.&rdquo; But the fact that we can't succeed
+in this case is an interesting mathematical theorem&mdash;it's not
+something which just drops out trivially from the algebraic nature of
+our axioms. What Skolem has shown, in effect, is that the set-theoretic
+notion &ldquo;<em>x</em> is uncountable&rdquo; is more like the notion
+&ldquo;<em>x</em> lives in the subgroup generated by <em>y</em> and
+<em>z</em>&rdquo; than like the notion &ldquo;<em>x</em> has order
+17.&rdquo;</p>
+
+<p>
+
+ <a href="index.html#note-35" name="35">35</a>.
+ This way of putting
+things may be slightly misleading. Skolem's primary focus in his paper
+is on Zermelo's 1908 axiomatization of set theory, and Skolem clearly
+understands <em>this</em> axiomatization algebraically. So, the
+relativity argument against Zermelo really is the central argument of
+the paper, even if that argument stands in service of a larger
+anti-foundationalist project and even if it doesn't lead to
+more-general arguments for set-theoretic relativity.</p>
+
+<p>
+
+ <a href="index.html#note-36" name="36">36</a>.
+ We should emphasize,
+here, that this step in the Skolemite argument borders on being an
+outright <em>theorem</em>. Given a strong enough understanding of the
+algebraic conception of set theory, and given the right understanding
+of &ldquo;relativity,&rdquo; the conditional claim that the algebraic
+conception entails some form of set-theoretic relativity <em>just
+follows</em> from the L&ouml;wenheim-Skolem theorems. Those who would
+object to set-theoretic relativity, therefore, are advised to focus
+their attention on the Skolemites' initial arguments for the algebraic
+conception rather than on their subsequent arguments for
+relativity.</p>
+
+<p>
+
+ <a href="index.html#note-37" name="37">37</a>.
+ Klenk's argument is a
+little more complicated that this sentence may suggest. Klenk starts by
+giving a number of arguments in favor of what we're calling the
+algebraic conception of set theory, and she then notes that any of
+these arguments would tend to make the Skolemite position look somewhat
+plausible. But she also notes that an analysis like that given in
+section 2 will allow a committed realist to evade the Skolmite
+conclusions. She ends by suggesting that we resolve this stand-off by
+adopting some kind of formalism about set theory.</p>
+
+<p>
+
+ <a href="index.html#note-38" name="38">38</a>.
+ More formally,
+suppose that ZFC &#8870; &exist;<em>x</em> [&phi;(<em>x</em>&thinsp;)
+&and; &forall;<em>y</em> (&phi;(<em>y</em>&thinsp;) &rarr;
+<em>x</em>=<em>y</em> )].</p>
+
+<p>
+
+ <a href="index.html#note-39" name="39">39</a>.
+ In effect, our worry
+here is that the initial arguments in step 1 do all of the real
+philosophical work for the Skolemite and that the L&ouml;wenheim-Skolem
+theorems themselves simply tag along for the ride (and, perhaps, play
+some flag-waving role in <em>promoting</em> the Skolemite argument). As
+indicated in the main text, we think there's at least <em>a</em>
+reading of the Skolemite argument which avoids this kind of
+trivialization and which allows the L&ouml;wenheim-Skolem theorems to
+do some genuine work. That being said, this is a rather delicate
+argument to put together, and it's not clear that any <em>actual</em>
+Skolemites have managed to do so successfully.</p>
+
+<p>
+
+ <a href="index.html#note-40" name="40">40</a>.
+ Of course, this also
+makes step 1 substantially <em>harder</em> for the Skolemite. We
+suspect that many of the considerations discussed in our initial
+exposition of step 1&mdash;e.g., the grab bag of arguments against
+&ldquo;platonism&rdquo; which appear in so many developments of the
+Skolemite position&mdash;will turn out to be inadequate on this new
+reading of the argument.</p>
+
+<p>
+
+ <a href="index.html#note-41" name="41">41</a>.
+ To be fair, many
+presentations of the Skolemite argument look a lot like the simple
+argument discussed a few paragraphs ago, so this technical response
+still plays an important role in clarifying the overall dialectic.</p>
+
+<p>
+
+ <a href="index.html#note-42" name="42">42</a>.
+ Of course, some
+philosophers take a similar line about ZFC. But, in the case of ZFC, it
+is at least an <em>open question</em> whether this is the right line to
+take. In the case of group theory or topology, it is the <em>only</em>
+line which makes any real sense.</p>
+
+<p>
+
+ <a href="index.html#note-43" name="43">43</a>.
+ Recall, once again,
+that none of these conclusions are <em>forced</em> upon the realist.
+The realist has a perfectly good explanation as to why these various
+&ldquo;instances&rdquo; are, at best, countable approximations to the
+real power set of &omega; or the real set of real numbers. So we're
+making some pretty big concessions to follow the Skolmite even this
+far. See section
+ <a href="index.html#2.4">2.4</a>
+ for a more-detailed
+development of this kind of point.</p>
+
+<p>
+
+ <a href="index.html#note-44" name="44">44</a>.
+ We should probably
+say a bit more about the local context of this argument. Putnam's goal
+in this section of his paper is to show that indeterminacy of reference
+leads to an indeterminacy in truth value for sentences like
+V=L&mdash;that, in his words, these sentences &ldquo;have no
+determinate truth value &hellip; they are just true in some intended
+models and false in others.&rdquo; As a result, it doesn't &ldquo;make
+sense&rdquo; to think that &ldquo;&thinsp;&lsquo;V=L&rsquo; is
+<em>really</em> false, even though it is consistent with set
+theory&rdquo; (p. 5). Now, because Putnam takes himself to be arguing
+against G&ouml;del&mdash;who thought that there was a <em>unique</em>
+&ldquo;intended model&rdquo; of set theory and that V=L was false in
+that model&mdash;Putnam doesn't feel the need to argue for an intended
+model satisfying V&ne;L (he assumes that G&ouml;del will grant him the
+existence of this model). Hence, Putnam thinks that if he can simply
+find an intended model which satisfies V=L, then he will have finished
+his argument; in his words, he will have shown that Skolem's famous
+&ldquo;&thinsp;&lsquo;relativity of set-theoretic notions&rsquo;
+extends to a relativity of the truth value of
+&lsquo;V=L&rsquo;&thinsp;&rdquo; (p. 8). For more on the mathematics of
+this example&mdash;e.g., for definitions of V and L&mdash;see Jech 1978
+and Kunen 1980.</p>
+
+<p>
+
+ <a href="index.html#note-45" name="45">45</a>.
+ To put all this in
+Putnam's terms, let OP be a set of real numbers which codes up all of
+the measurements which human beings will ever make. Then Putnam
+writes:</p>
+
+<blockquote>Now, suppose we formalize <em>the entire language of
+science</em> within the set theory ZF <em>plus</em> V=L. Any model for
+ZF which contains an abstract set isomorphic to OP can be extended to a
+model for this formalized language of science which is <em>standard
+with respect to OP</em>; hence &hellip; we can find a model <em>for the
+entire language of science</em> which satisfies &lsquo;<em>everything
+is constructible</em>&rsquo; and which assigns the correct value to all
+physical magnitudes. (p. 7)</blockquote>
+
+<p>
+
+ <a href="index.html#note-46" name="46">46</a>.
+ A few more details
+may be in order here. Let <em>X</em> be countable collection of real
+numbers. Putnam's proof begins by noting that, in the special case in
+which we allow our &omega;-model to be countable, we can code both the
+model and <em>X</em> by single reals. In this case, therefore, the
+theorem can be formulated as a &Pi;<sub>2</sub> sentence of the form:
+(For every real <em>s</em>) (There is a real <em>M</em>&thinsp;) such
+that (&hellip; <em>M</em>, <em>s</em> &hellip;). From here, Putnam
+argues as follows:</p>
+
+<blockquote><p>Consider this sentence <em>in the inner model</em> V=L. For
+every <em>s in the inner model</em>&mdash;i.e., for every <em>s</em> in
+L&mdash;there is a model&mdash;namely L itself&mdash;which satisfies
+&lsquo;V=L&rsquo; and contains <em>s</em>. By the downward
+L&ouml;wenheim-Skolem theorem, there is a countable submodel which is
+elementarily equivalent to L and contains <em>s</em>. (Strictly
+speaking, we need here not just the downward L&ouml;wenheim-Skolem
+theorem, but the &lsquo;Skolem Hull&rsquo; construction which is used
+to prove that theorem.) By G&ouml;del's work, this countable submodel
+itself lies in L, and, as is easily verified, so does the real that
+codes it. So, the above &Pi;<sub>2</sub> -sentence is true in the inner
+model V=L.</p>
+
+<p>But Shoenfield has proved that &Pi;<sub>2</sub> -sentences
+are <em>absolute</em>: if a &Pi;<sub>2</sub> -sentence is true in L,
+then it must be true in V. So the above sentence is true in V. (p.
+6)</p></blockquote>
+
+<p>For more-detailed discussions of the mathematical side of this argument,
+see Bays 2001; Bellotti 2005; Bays 2007b; and Hafner 2005. See Jech
+1978 and Kunen 1980 for the relevant set-theoretic background (e.g., on
+L and on Shoenfield absoluteness). 
+</p> 
+
+<p>
+
+ <a href="index.html#note-47" name="47">47</a>.
+ Here, an
+&omega;-model is just a model which gets the natural numbers
+right&mdash;i.e., a model in which the &ldquo;natural numbers&rdquo; of
+the model are isomorphic to the real natural numbers. Putnam needs the
+notion of finitute to capture first-order languages, because the
+sentences of a first-order language can be of <em>arbitrary finite</em>
+length, but they cannot be infinite. Further the fact that ZFC uses
+axioms schemes to capture replacement and separation means that we
+really need the generality here&mdash;these schemes can't even be
+formulated without using the notion of an <em>arbitrary</em> formula. A
+similar point applies to the way the definition of first-order
+satisfaction makes use of recursion.</p>
+
+<p>
+
+ <a href="index.html#note-48" name="48">48</a>.
+ This reflects the
+standard reading of Putnam's argument in the literature (Devitt 1984,
+chapter 11; Lewis 1984; Taylor 1991; Van Cleve 1992; Hale and Wright
+1997). Recently, however, several commentators have challenged this
+interpretation. They argue that Putnam's &ldquo;just more theory&rdquo;
+talk is merely supposed to highlight the theoretical inadequacy of
+several <em>particular</em> theories of reference; it's not supposed to
+provide a <em>general</em> argument of the type sketched above
+(Anderson 1993; Douven 1999; Haukioja 2001). See Garcia-Carpintero 1996
+and Bays 2008 (&sect; 2) for some critical thoughts on these
+revisionary interpretations of Putnam's argument.</p>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="http://www.nd.edu/~tbays" target="other">Timothy Bays</a>
+&lt;<a href="m&#97;ilto:timothy&#37;2ebays&#37;2e5&#37;40nd&#37;2eedu"><em>timothy<abbr title=" dot ">&#46;</abbr>bays<abbr title=" dot ">&#46;</abbr>5<abbr title=" at ">&#64;</abbr>nd<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

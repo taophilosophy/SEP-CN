@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Dynamic Epistemic Logic &gt; Appendix A: Kripke models for modal logic (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/dynamic-epistemic/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/dynamic-epistemic/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dynamic-epistemic">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Dynamic Epistemic Logic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Appendix A: Kripke models for modal logic</h2>
+
+
+<p> Kripke&rsquo;s models for modal logic (or variants thereof) are the basis for many modern approaches to reasoning about knowledge and belief (Fagin et al. 1995).  Intuitively, these models characterize the knowledge (or beliefs) of idealized agents in terms of <em>considered possibilities</em>: to say that an agent knows (or believes) some statement <i>F</i> means that <i>F</i> holds in all of the states of affairs that the agent considers as possible candidates for the actual state of affairs. Hence eliminating from consideration one or more alternative states of affairs generally increases one&rsquo;s certainty, thereby trending toward increased knowledge (or belief).  In contrast, entertaining additional (perhaps new) states of affairs generally decreases one&rsquo;s certainty, thereby trending toward decreased knowledge (or belief).  Higher-order knowledge or belief (i.e., knowledge [or beliefs] about knowledge [or beliefs]) is represented by <em>iterated considered possibilities</em>; for example, if <i>F</i> is true of each possibility that agent <i>b</i> entertains when in any one of the states of affairs that agent <i>a</i> entertains, then we say that <i>a</i> knows (or believes) <i>b</i> knows (or believes) <i>F</i>.  To make these concepts more concrete, let us consider a simple example.  </p>
+
+<div class="figure" id="FigA1">
+	<img style="max-width: 100%; height: auto;"     src="figure-kripke.jpg" alt="" />
+
+      <div class="center"><i>M</i></div>
+
+<p class="center"><span class="figlabel">Figure A1.</span> A Kripke model.</p>
+</div>
+
+<p> Figure A1 pictures a Kripke model <i>M</i>.  This model consists of two worlds: an &ldquo;actual&rdquo; world <i>w</i> (indicated by the double circle) in which the propositional letters <i>p</i> and <i>q</i> are true and an alternative world <i>v</i> in which <i>p</i> is false and <i>q</i> is true. The actual world indicates what is in fact true of the situation being modeled; in this case, <i>p</i> and <i>q</i> are true.  Alternative worlds serve as candidates for the actual world that the agents may consider.  As for which worlds are considered, an agent-labeled arrow pointing from a world <i>x</i> to a world <i>y</i> indicates that the agent in question will consider world <i>y</i> as a possible candidate for the actual state of affairs whenever we assume that world <i>x</i> is actual.  Therefore, as we can see from the picture, each of agents <i>a</i> and <i>b</i> entertains both worlds <i>w</i> and <i>v</i> as possible states of affairs: <i>a</i>-arrows point from <i>w</i> to <i>w</i>, from <i>w</i> to <i>v</i>, from <i>v</i> to <i>w</i>, and from <i>v</i> to <i>v</i>; and <i>b</i>-arrows also point between the same pairs of worlds.  Adopting an epistemic (i.e., knowledge-based) reading for the purposes of this example, an agent in the state of affairs given by world <i>x</i> is by definition said to <em>know a statement <i>F</i></em> if and only if <i>F</i> is true in all worlds the agent considers possible with respect to <i>a</i> (i.e., those worlds that are the target of an arrow that has source <i>x</i> and that is labeled by that agent&rsquo;s name).  Looking at the picture, we see that neither agent knows that <i>p</i> is true.  Indeed, each agent entertains a possibility&mdash;world <i>v</i>&mdash;in which <i>p</i> is false and therefore does not know that <i>p</i> is true.  Likewise, neither agent knows that <i>p</i> is false because each entertains a world&mdash;world <i>w</i>&mdash;in which <i>p</i> is true.  Defining the phrase &ldquo;knowing whether <i>F</i> is true&rdquo; to mean &ldquo;knowing that <i>F</i> is true or knowing that <i>F</i> is false&rdquo;, what we have seen is that neither agent knows <em>whether</em> <i>p</i> is true.  Taking our analysis further, let us now show that each agent knows that neither agent knows whether <i>p</i> is true, a statement of <em>higher-order knowledge</em> (i.e., knowledge about knowledge).  Indeed, in each of the possibilities agent <i>a</i> considers (i.e., in both <i>w</i> and <i>v</i>), neither agent <i>b</i> nor agent <i>a</i> herself knows whether <i>p</i> is true, as we have already seen.  Therefore, since it is true in each of agent <i>a</i>&rsquo;s possibilities that &ldquo;neither agent knows whether <i>p</i> is true&rdquo;, it follows that agent <i>a</i> knows that &ldquo;neither agent knows whether <i>p</i> is true&rdquo;. Similar reasoning leads us to conclude that agent <i>b</i> knows that &ldquo;neither agent knows whether <i>p</i> is true&rdquo;. Hence we conclude that each agent knows that &ldquo;neither agent knows whether <i>p</i> is true&rdquo;, as was claimed.  This kind of analysis can be taken even further to show that it is in fact <em>common knowledge</em> among agents <i>a</i> and <i>b</i> that neither knows whether <i>p</i> is true; that is, neither agent knows whether <i>p</i> is true, each agent knows neither agent knows whether <i>p</i> is true, each agent knows each agent knows neither agent knows whether <i>p</i> is true, and so on, taking any finite number of iterations of the phrase &ldquo;each agent knows&rdquo; followed by the phrase &ldquo;neither agent knows whether <i>p</i> is true&rdquo;. One can also undertake a further analysis to show that it is common knowledge that <i>q</i> is true.  </p>
+
+<p>Formally, the notion of Kripke model is defined as follows.</p>
+
+<div class="indent" id="Def-Kripke">
+
+<p> <strong>Kripke model.</strong> Given a nonempty set \(\sP\) of propositional letters and a finite nonempty set \(\sA\) of agents, a <em>Kripke model</em> is a structure
+
+  \[
+  M=(W,R,V)
+  \]
+
+consisting of</p>
+
+  <ul>
+    <li>a nonempty set <i>W</i> of <em>worlds</em> identifying the possible      states of affairs that might obtain,
+    </li>
+
+    <li>
+      a function \(R:\sA\to \wp(W\times W)\) that assigns to each agent <i>a</i> a binary <em>possibility relation</em> \(R_a\subseteq W\times W\) with \(wR_av\) indicating that agent <i>a</i> will entertain world <i>v</i> as a candidate for the actual world whenever we assume that <i>w</i> is in fact actual), and
+    </li>
+
+    <li>a <em>propositional valuation</em> \(V:\sP\to \wp(W)\) mapping each propositional letter \(p\in\sP\) to the set \(V(p)\subseteq W\) of worlds at which that letter is true.
+    </li>
+  </ul>
+
+<p>Notation: if <i>M</i> is a Kripke model, then adding a superscript <i>M</i> to a symbol in \(\{W,R,V\}\) is used to denote a component of the triple that makes up <i>M</i> in such a way that \((W^M,R^M,V^M)=M\).  An <em><i>a</i>-arrow</em> (sometimes also called an <em>\(R_a\)-arrow</em>) is a pair of worlds \((w,v)\) satisfying \(wR_av\), which says that the <i>a</i>-arrow points from the source world <i>w</i> to the target world <i>v</i>.  A <em>pointed Kripke model</em>, sometimes called a <em>scenario</em> or a <em>situation</em>, is a pair \((M,w)\) consisting of a Kripke model <i>M</i> and a world \(w\in W^M\) (called the <em>point</em>) that designates the state of affairs that we (the formal modelers) currently assume to be actual.  In drawing a Kripke model, worlds are indicated as circles labeled by their names, a letter <i>p</i> is true at a world <i>w</i> (i.e., \(w\in V(p)\)) if and only if <i>p</i> is listed inside the circle for world <i>w</i>, and arrows between worlds are drawn explicitly, often with a single arrow labeled by a set or a list of agents denoting a family of arrows, one for each agent in the set or list.  If the model is pointed, the point is indicated by a double circle.  See <a href="#FigA1">Figure A1</a> above for an example drawing.</p>
+</div>
+
+<p> For a given possibility relation \(R_a\), some combination of relational properties such as reflexivity, transitivity, Euclideanness, symmetry, and seriality (see <a href="appendix-C-relations.html">Appendix C</a> for definitions), among others, may be assumed based on the particular cognitive notion that this \(R_a\) is supposed to represent and on one&rsquo;s philosophical position as to the properties satisfied by the notion in question. The traditional &ldquo;logic of knowledge&rdquo; assumes reflexivity, transitivity, and Euclideanness; the traditional &ldquo;logic of belief&rdquo; assumes seriality, transitivity, and Euclideanness (Fagin et al. 1995).  </p>
+
+<p> The collection of formulas interpreted on pointed Kripke models generally contains at least the formulas coming from a modal language \eqref{ML } defined by the following grammar:</p>
+
+\[\begin{gather*}\taglabel{ML }
+F \ccoloneqq   p \mid F \wedge F \mid \neg F \mid [a]F \\
+  \small p \in \sP,\; a \in \sA
+\end{gather*}\]
+
+<p> In words, the above &ldquo;Backus&ndash;Naur Form&rdquo; for defining symbolic notation defines the formulas of the language \eqref{ML } (a.k.a., the &ldquo;\eqref{ML }-formulas&rdquo;) as follows.  First, each of the letters <i>p</i> coming from a given nonempty set \(\sP\) of propositional letters is an \eqref{ML }-formula.  Second, given \eqref{ML }-formulas \(F_1\) and \(F_2\), each of the following is also an \eqref{ML }-formula: the conjunction \(F_1\land F_2\), the negation \(\lnot F_1\), and the modal expression \([a]F_1\) obtained using an <i>a</i> coming from a given finite (and nonempty) set \(\sA\) of agent names.  (The symbol &ldquo;\([a]\)&rdquo; is called a <em>modal operator</em>, a <em>modality</em>, or a <em>modal</em>.)  Third, something is an \eqref{ML }-formula if and only if it can be formed from a propositional letter by way of conjunction, negation, or addition of a modal in the manner just specified.  And this defines the collection of \eqref{ML }-formulas.  When convenient, we will identify the expression &ldquo;\eqref{ML }&rdquo; with the set of \eqref{ML }-formulas.  Other languages we define later will also be defined by Backus&ndash;Naur notation using similar notational conventions.  </p>
+
+<p> We make use of the usual notational abbreviations (from classical propositional logic) when writing formulas containing Boolean connectives other than conjunction (\(\land\)) or negation (\(\lnot\)); this includes, among others, appropriate abbreviations for material implication (\(\to\)), disjunction (\(\lor\)), the always-true propositional constant \(\top\) for truth, and the always-false propositional constant \(\bot\) for falsehood.  The formula \([a]F\) is assigned either the epistemic reading &ldquo;agent <i>a</i> knows <i>F</i>&rdquo; or the doxastic reading &ldquo;agent <i>a</i> believes <i>F</i>&rdquo;, with the particular choice of reading depending on the situation to be modeled.  Formulas are therefore used to express Boolean combinations of &ldquo;ontic&rdquo; (i.e., non-epistemic and non-doxastic) statements along with statements of agents&rsquo; knowledge (or beliefs). As an example, the formula \(p\land\lnot [a]p\), which says that &ldquo;<i>p</i> is true and agent <i>a</i> does not know that <i>p</i> is true&rdquo;, expresses an ontic fact <i>p</i> along with the negation of the epistemic statement \([a]p\).  (Here an epistemic reading of \(\lnot [a]p\) was taken; a doxastic one could have been used just as well.)  For a set <i>B</i> of agents, we make the following abbreviation: </p>
+
+\[
+  [B]F \text{ denotes }   \bigwedge_{a\in B}[a]F.
+\]
+
+<p> which is the conjunction of all formulas \([a]F\) with <i>a</i> ranging over the set <i>B</i>.  The formula \([B]F\) therefore says, &ldquo;everyone in group <i>B</i> knows (or believes) <i>F</i>&rdquo;. If common knowledge is to be included in the language for the purposes of a particular scenario, then the grammar \eqref{ML+C} is used: </p>
+
+\[\begin{gather*}\taglabel{ML+C}
+F \ccoloneqq   p \mid F \wedge F \mid \neg F \mid [a]F \mid [B*]F \\
+  \small p \in \sP,\; a \in \sA,\; B\subseteq\sA
+\end{gather*}\]
+
+<p> The formula \([B*]F\) is read epistemically as &ldquo;<i>F</i> is common knowledge among group <i>B</i>&rdquo; and doxastically as &ldquo;<i>F</i> is common belief among group <i>B</i>&rdquo;. The expression \([C]F\) is used as an abbreviation for \([\sA]F\) (&ldquo;it is common knowledge that <i>F</i> is true&rdquo; or &ldquo;it is common belief that <i>F</i> is true&rdquo;).  Sometimes authors choose to restrict grammar \eqref{ML+C} by requiring that the common knowledge group is always the full group of agents (i.e., \(B=\sA\)), but we will not do this here.  </p>
+
+<p> Each of the modal operators written between square brackets has a &ldquo;dual&rdquo; form defined by way of abbreviation and written using angled brackets: </p>
+    
+<ul>
+
+  <li> The dual \(\langle a\rangle\) of \([a]\) is an abbreviation defined by setting \(\langle a\rangle F \coloneqq \lnot[a]\lnot F\).
+  </li>
+
+  <li> Given a set <i>B</i> of agents, the dual \(\langle B\rangle\) of \([B]\) is an abbreviation defined by setting \(\langle B\rangle F \coloneqq \lnot[B]\lnot F\).
+  </li>
+
+  <li> Given a set <i>B</i> of agents, the dual \(\langle B*\rangle\) of \([B]\) is an abbreviation defined by setting \(\langle B*\rangle F \coloneqq \lnot[B*]\lnot F\).
+  </li>
+</ul>
+    
+<p> The dual form of an operator expresses consistency.  For example, \(\langle a\rangle F\) says, &ldquo;<i>F</i> is consistent with agent <i>a</i>&rsquo;s beliefs&rdquo;. A knowledge reading is also possible.  </p>
+
+<p id="Universal"> Some languages extend \eqref{ML } by addition of the <em>universal modality</em> \(\forall\).  The formula \([\forall]F\) says that <i>F</i> is true at every world in the Kripke model.  The dual of the universal modality is the <em>existential modality</em>, written for convenience as \([\exists]\) and defined as the abbreviation \([\exists]F\coloneqq\lnot[\forall]\lnot F\). The formula \([\exists]F\) says that <i>F</i> is true at some world in the model.  </p>
+
+<p id="ML-Semantics"> The binary truth relation \(\models\) between pointed models (written without delimiting parentheses) and formulas is defined inductively as follows: </p>
+
+
+<ul>
+
+  <li>
+    \(M,w\models p\) holds if and only if \(w\in V(p)\).
+  </li>
+
+  <li>
+    \(M,w\models F\land G\) holds if and only if \(M,w\models F\) and    \(M,w\models G\).
+  </li>
+
+  <li>
+    \(M,w\models \lnot F\) holds if and only if \(M\not\models F\).  </li>
+
+  <li>
+    \(M,w\models [a]F\) holds if and only if \(M,v\models F\) for each <i>v</i>    satisfying \(wR_av\).
+  </li>
+
+  <li>
+    \(M,w\models [B]F\) holds if and only if \(M,v\models F\) for each <i>v</i>    satisfying \(wR_Bv\).
+  </li>
+
+  <li>
+    \(M,w\models [B*]F\) holds if and only if \(M,v\models F\) for each    <i>v</i> satisfying \(w(R_B)^*v\).
+  </li>
+
+  <li>
+    \(M,w\models [\forall]F\) holds if and only if \(M,v\models F\) for    each \(v\in W\).
+  </li>
+
+</ul>
+    
+<p> The relation \(R_B\coloneqq\bigcup_{a\in A} R_a\) is the union of all relations \(R_a\) with <i>a</i> in <i>B</i>, so that \(xR_By\) holds if and only if \(xR_ay\) holds for some <i>a</i> in <i>B</i>.  <a name="Reflexive-Transitive-Closure"></a>The relation \((R_B)^*\) is the <em>reflexive-transitive closure</em> of \(R_B\), so that \(x(R_B)^*y\) holds if and only if \(x=y\) or there is a finite sequence </p>
+
+\[
+x R_B z_1 R_B z_2 R_B \cdots R_B z_n R_B y
+\]
+
+<p> of \(R_B\)-arrows connecting <i>x</i> to <i>y</i>.  Said roughly, \(R_B\) says what is considered possible by any one of the members of group <i>B</i>, and \((R_B)^*\) says what is jointly considered possible by members of group <i>B</i> when the members&rsquo; possibilities are chained together (i.e., one thinks something is possible, which leads another to think something else possible, leading another to consider yet another possibility, and so on, somewhat like a group of paranoid worriers sequentially raising more and more far-fetched possible ways something might go wrong).  We write \(M,w\models G\) to mean that formula <i>G</i> is true at world <i>w</i> of the pointed model \((M,w)\); the negation is written \(M,w\not\models G\). As an exercise, one can go back to <a href="#FigA1">Figure A1</a> and check that </p>
+    
+<ul>
+
+  <li>
+    \(M,w\models p\land[a]p\) &mdash; &ldquo;<i>p</i> is true at <i>w</i> but agent <i>a</i> does not know it&rdquo;
+  </li>
+
+  <li>
+    \(M,w\models[b]\lnot[a]p\) &mdash; &ldquo;agent <i>b</i> knows that agent    <i>a</i> does not know <i>p</i>&rdquo;; and
+  </li>
+
+  <li>
+    \(M,w\models[C]\lnot([a]p\lor[a]\lnot p)\) &mdash; &ldquo;it is common knowledge that agent <i>a</i> does not know whether <i>p</i> is true&rdquo;.
+  </li>
+</ul>
+
+<p> If \(\sC_*\) is a collection of pointed Kripke models, then \(\sC_*\models G\) means that <i>G</i> is true at each pointed model in collection \(\sC_*\).  Finally, \(\models G\) means that <i>G</i> is true at all pointed Kripke models.  For example, one can readily verify that </p>
+
+\[\begin{equation*}\tag{K}
+\models[a](F\to G)\to([a]F\to[a]G),
+\end{equation*}\]
+
+<p> which says that agent <i>a</i>&rsquo;s knowledge is closed under the classical rule of <em>Modus Ponens</em>: if agent <i>a</i> knows an implication and she knows its antecedent, then she also knows its consequent.  The same of course holds for the doxastic reading of the modal operator \([a]\).  </p>
+
+<p> For more on Kripke models, we refer the reader to the following entries in the <em>Stanford Encyclopedia of Philosophy</em>:
+<a href="../logic-modal/">Modal Logic</a>,
+<a href="../logic-modal-origins/">Modern Origins of Modal Logic</a>, and
+<a href="../logic-epistemic/">Epistemic Logic</a>.
+</p>
+
+<!--pdf exclude begin-->
+<p><a href="index.html">&larr; beginning of main article</a></p>
+<!--pdf exclude end-->
+
+
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2016</a> by
+
+<br />
+<a href="https://sites.google.com/site/thealexandrubaltagsite/" target="other">Alexandru Baltag</a>
+&lt;<a href="m&#97;ilto:a&#37;2ebaltag&#37;40uva&#37;2enl"><em>a<abbr title=" dot ">&#46;</abbr>baltag<abbr title=" at ">&#64;</abbr>uva<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;<br />
+<a href="http://bryan.renne.org/" target="other">Bryan Renne</a>
+&lt;<a href="m&#97;ilto:brenne&#37;40gmail&#37;2ecom"><em>brenne<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

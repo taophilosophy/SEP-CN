@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Frege’s Theorem and Foundations for Arithmetic &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/frege-theorem/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/frege-theorem/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-theorem">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Frege&rsquo;s Theorem and Foundations for Arithmetic</a></h2>
+
+<div id="note-1">
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ For those who are curious, the following brief
+ <a name="FregeNotation">table</a>
+ will give one just a <i>hint</i> as to some of the differences
+between the modern notation and Frege&rsquo;s:</p>
+
+<table class="all-rules vert-top indent cellpad-small-dense avoid-break">
+<tr>
+  <td><strong>Logical Notion</strong></td>
+  <td><strong>Modern Notation</strong></td>
+  <td><strong>Frege-style Notation</strong></td> </tr>
+<tr>
+  <td>It is not the case that \(Fx\)</td>
+  <td> \(\neg Fx\)</td>
+  <td>
+<img src="notFx.png" alt="Frege-notation for: not-Fx" width="46" />
+</td> </tr>
+<tr>
+  <td>If \(Fx\) then \(Gy\)</td>
+  <td> \(Fx\rightarrow Gy\)</td>
+  <td>
+<img src="ifFxthenGy.png" alt="Frege-notation for: if-Fx-then-Gy" width="45" />
+</td> </tr>
+<tr>
+  <td>Every \(x\) is such that \(Fx\)</td>
+  <td> \(\forall x Fx\)</td>
+  <td>
+<img src="forallxFx.png" alt="Frege-notation for: every x Fx" width="60" />
+</td> </tr>
+<tr>
+  <td>Some \(x\) is such that \(Fx\)</td>
+  <td>\(\neg\forall x\neg Fx\), &nbsp; i.e., &nbsp; \(\exists x
+Fx\)</td>
+  <td>
+<img src="somexFx.png" alt="Frege-notation for: some x Fx" width="80" />
+</td> </tr>
+<tr>
+  <td>Every \(F\) is such that \(Fa\)</td>
+  <td> \(\forall F \, Fa\)</td>
+  <td>
+<img src="allFFa.png" alt="Frege-notation for: every F Fa" width="52" />
+</td> </tr>
+<tr>
+  <td>Some \(F\) is such that \(Fa\)</td>
+  <td> \(\neg\forall F\neg Fa, &nbsp; i.e., &nbsp;\exists F \,
+Fa\)</td>
+  <td>
+<img src="someFFa.png" alt="Frege-notation for: some F Fa" width="72" />
+</td> </tr>
+</table>
+
+<p>
+So, for example, whereas a modern logician would symbolize the claim
+&lsquo;All \(A\)s are \(B\)s&rsquo; as: </p>
+
+<p class="indent">
+\(\forall x(Ax\rightarrow Bx)\) </p>
+
+<p>
+Frege would symbolize this claim as follows: </p>
+
+<p class="indent">
+<img src="AllAsareBs.png" alt="Frege-notation for: All As are Bs" width="60" />
+</p>
+
+<p>
+For a more complete description of Frege&rsquo;s notation, see R.
+Cook&rsquo;s Appendix (&ldquo;How to Read <em>Grundgesetze</em>&rdquo;) in
+the Ebert, Rossberg, and Wright translation of Frege 1893/1903, Reck
+&amp; Awodey (2004, 26&ndash;34), Beaney (1997, Appendix 2), Furth
+(1967). <!--New entry in the SEP by Roy Cook when it comes out.-->
+</p>
+</div>
+
+<div id="note-2">
+<p>
+
+ <a href="index.html#ref-2">2.</a> For those who would like a
+strictly faithful understanding of Frege&rsquo;s definition of membership
+in <strong>Gg I</strong>, &sect;34, a more exact representation would
+be to use the definite description operator \(\iota\) and to cast
+Frege&rsquo;s definition as follows, where the symbol \(\in\) replaces
+Frege&rsquo;s symbol \(\frown\) and where \(G\) is any unary function
+symbol:</p>
+
+<p class="indent">
+\(x\in y \eqdef \iota\alpha\exists G (y\eqclose \epsilon G \, \amp\,
+G(x)\! =\! \alpha )\) </p>
+
+<p>
+What&rsquo;s being defined here is the value of the function \(x\in y\). And
+Frege defines it as: <em>the</em> object \(\alpha\) such that there
+exists a function \(G\) for which \(y\) is the course-of-values for
+\(G\) and \(\alpha\) is the value of \(G\) for the argument \(x\). If
+we restrict this definition to those functions that are concepts, (a)
+the course of values \(y\) becomes an extension of a concept, and (b)
+the object \(\alpha\) in Frege&rsquo;s definiens is a truth value and,
+indeed, signifies the truth-value The True when \(x\) falls under the
+concept \(G\).  So the claim \(G(x) = \alpha\) in Frege&rsquo;s definition
+can be represented by the predication \(Gx\).  That means the variable
+\(\alpha\) is no longer needed and so we can transform Frege&rsquo;s term
+definition that identifies the value of the denoting term
+&lsquo;\(x\in y\)&rsquo; to a formula definition that gives truth
+conditions for the formula &lsquo;\(x \in y\)&rsquo;. We eliminate the
+variable-binding description operator and the variable \(\alpha\) from
+Frege&rsquo;s definiens, so that the definiens in Frege&rsquo;s definition now
+becomes:
+
+<p class="indent">
+\(x\in y \eqdef \exists G (y\eqclose \epsilon G \amp G(x))\) </p>
+
+<p>
+In other words, \(x\) is an element of \(y\) if and only if
+ \(y\) is the extension of some concept \(G\) such that \(Gx\). 
+And this is the definition we&rsquo;ve used in the text.</p>
+</div>
+
+<div id="note-3">
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ These models of second-order logic with a Comprehension Principle for
+Concepts are called &lsquo;general models&rsquo; (as opposed to
+&lsquo;standard&rsquo; models in which the domain of concepts is taken
+to be the power set of the domain of objects). These general models
+exploit the fact that there are only a denumerably infinite number of
+conditions on objects expressible in the language and hence, only a
+denumerably infinite number of instances of comprehension. These
+general models include in the domain of concepts only enough concepts
+to make these instances of comprehension true. Thus, only a
+denumerably infinite number of concepts are required, even if the
+domain of objects is denumerably infinite. So we emphasize that it is
+the interaction of the Comprehension Principle for Concepts with Vb
+that engenders the paradox.</p>
+</div>
+
+<div id="note-4">
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ It is important to note here that Frege&rsquo;s definitions of the
+membership relation and the notion of equinumerosity require a
+second-order language, since both definitions involve quantification
+over concepts.</p>
+</div>
+
+<div id="note-5">
+<p>
+
+ <a href="index.html#ref-5">5.</a>  The reason this is
+weaker than Frege&rsquo;s definition is that his definition of
+equinumerosity requires any witness  \(R\) to the equinumerosity of
+<i>F</i> and <i>G</i> to be (globally) functional and one-to-one,
+where:</p>
+
+  <ul>
+  <li>\(R\) is <i>functional</i> \(\eqdef\) \(\forall x\forall y\forall z
+   (Rxy \amp Rxz \to y=z)\)</li>
+  <li>\(R\) is <i>one-to-one</i> \(\eqdef\) \(\forall x\forall y\forall z
+   (Rxz \amp Ryz \to x=y)\)</li>
+  </ul>
+
+<p>
+That is, in <strong>Gl</strong> (&sect;&sect;71, 72), Frege says
+that <i>F</i> and <i>G</i> are equinumerous just in case:</p>
+
+ <blockquote>
+  <i>R</i> is functional &amp; <i>R</i> is one-to-one &amp; <br/> 
+ \(\forall x(Fx \to \exists y(Gy \amp Rxy)) \amp \forall y(Gy \to
+  \exists x(Fx \amp Rxy)) \)
+ </blockquote>
+
+<p>
+This is stronger than the definition of equinumerosity we&rsquo;ve given in
+the text.  The definition we&rsquo;ve given doesn&rsquo;t require \(R\) to be
+functional generally; <i>R</i> might fail to be functional with
+respect to any non-\(F\) objects it might relate to other things. For
+example, if <i>a</i> is a non-<i>F</i> object and <i>b</i>
+and <i>c</i> are distinct non-<i>G</i> objects, then <i>R</i> can
+witness the equinumerosity of
+<i>F</i> and <i>G</i> in the sense that we&rsquo;ve defined in the text even
+though <i>R</i> relates the non-<i>F</i> object <i>a</i> to both the
+non-<i>G</i> objects <i>b</i> and <i>c</i>.  But that is ruled out by
+Frege&rsquo;s definition.</p>
+
+<p>Similarly, the definition we&rsquo;ve given doesn&rsquo;t require \(R\) to be
+one-to-one generally; <i>R</i> might fail to be one-to-one with
+respect to any non-\(G\) objects to which other things are
+<i>R</i>-related. For example, if <i>a</i> and <i>b</i> are distinct
+non-<i>F</i> objects and <i>c</i> is a non-<i>G</i> object,
+then <i>R</i> can witness the equinumerosity of
+<i>F</i> and <i>G</i> in the sense that we&rsquo;ve defined in the text even
+though <i>R</i> relates both the non-<i>F</i> objects <i>a</i>
+and <i>b</i> to the non-<i>G</i> object <i>c</i>.  But that is ruled
+out by Frege&rsquo;s definition.</p>
+
+<p>
+It seems that neither Frege&rsquo;s derivation of Hume&rsquo;s Principle from
+Basic Law V nor his derivation of the Dedekind-Peano axioms from
+Hume&rsquo;s Principle require <i>R</i> to be functional and one-to-one
+generally. A relation <i>R</i> does indeed correlate <i>F</i>
+and <i>G</i> one-to-one if it satisfies the definition of
+equinumerosity in the text while failing to be globally functional and
+one-to-one.  So equinumerosity, as we&rsquo;ve defined it, is sufficient to
+partition the domain of properties into equivalence classes, each of
+which contains all and only those properties with the same number of
+objects falling under them. That is essential to the proof of Frege&rsquo;s
+Theorem and hence the exegesis here is simplified.</p>
+</div>
+
+<div id="note-6">
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ Frege doesn&rsquo;t call this principle &lsquo;Hume&rsquo;s
+Principle&rsquo; in his own writings. The label was instead introduced
+in Boolos (1987). Frege does cite Hume when he introduced this
+principle in <strong>Gl</strong>. In <strong>Gl</strong>, &sect;63, he
+quotes Hume&rsquo;s <em>Treatise</em> (I, iii, 1):</p>
+
+<blockquote>
+When two numbers are so combined as that one has always an unite
+answering to every unite of the other, we pronounce them equal.
+</blockquote>
+
+<p>
+The idea in Hume does bear some resemblance to the principle Frege
+constructs, and so we shall continue to use Boolos&rsquo; label for
+this principle. </p>
+</div>
+
+<div id="note-7">
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ We call this an implicit or contextual definition rather than an
+explicit definition because the notation \(\#F\) can only be
+eliminated when it appears in a context of the form &lsquo;\(\#F =
+\#G\)&rsquo;. By contrast, an explicit definition would take the
+form:</p>
+
+<p class="indent">
+\(\#F \eqdef\) the object \(x\) such that \(\phi(x,F)\), </p>
+
+<p>
+where \(\phi (x,F)\) is some condition on \(x\) and \(F\). This would
+allow us to eliminate the \(\#F\) no matter what context it appears
+in. We shall examine Frege&rsquo;s attempt to give such a definition
+momentarily. </p>
+
+<p>
+The reader might also find the following observation by W. Demopoulos
+useful (from an early draft of Demopoulos and Clark 2005):</p>
+
+<blockquote>
+Frege&rsquo;s contextual definition (i.e., Hume&rsquo;s Principle) is
+not &lsquo;conservative&rsquo; over the language \(L = {0, S, N}\) of
+second order arithmetic. (It is not conservative because it allows one
+to prove statements that are otherwise unprovable using this language
+and second-order logic alone. A proper, explicit definition only
+introduces simplifying notation &ndash; the new theorems formulable
+with the new notation introduced by an explicit definition would still
+have been provable had the new notation been eliminated in terms of
+primitive notation. As such, explicit definitions are conservative.)
+Indeed, the contextual definition allows for the proof <em>both</em>
+of the infinity of the sequence of natural numbers <em>and</em> of the
+existence of an infinite cardinal (which Frege called
+&lsquo;endlos&rsquo; in <strong>Gl</strong>).
+</blockquote>
+
+</div>
+
+<div id="note-8">
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ The reader might find the following observation in Demopoulos and
+Clark 2005 (135&ndash;135) useful:</p>
+
+<blockquote>
+The characterization &lsquo;Frege-Russell&rsquo; slurs over the fact
+that for Russell, the number associated with a set (concept of first
+level) is an entity of higher type than the set itself. Beginning with
+individuals &ndash; entities of lowest type &ndash; we proceed first
+to sets of individuals and then to classes of such sets (corresponding
+to Frege&rsquo;s concepts of second level). For Russell, numbers,
+being classes, are of higher type than sets. But for Frege,
+extensions, and therefore numbers, belong to the totality of objects
+<em>whatever the level of concept with which they are associated</em>.
+Thus, while Russell and Frege both subscribe to <em>some</em> version
+of Hume&rsquo;s Principle, their conceptions of the logical form of
+the cardinality operator, and therefore, that of the principle itself,
+are quite different: the operator is type <em>raising</em> for Russell
+[since it takes us from a set to a class], and type <em>lowering</em>
+for Frege [since it takes a concept (set) to an object (individual)].
+This difference is fundamental, since it enables Frege to establish
+&ndash; on the basis of Hume&rsquo;s principle &ndash; those of the
+Peano-Dedekind axioms of arithmetic which assert that the system of
+natural numbers is Dedekind infinite. By contrast, when the
+cardinality operator is type raising, Hume&rsquo;s principle is rather
+weak, allowing for models of every finite power.
+</blockquote>
+
+</div>
+
+<div id="note-9">
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ The higher-order version of the Law of Extensions asserts that a
+concept G is a member of the extension of the second-order concept
+<em>concept equinumerous to F</em> iff \(G\) is equinumerous to \(F\).
+If we temporarily suppose that we can have higher-order
+\(\lambda\)-expressions of the form \([\lambda H \, H\apprxclose F]\),
+then we could represent the extension of the second-order concept just
+described as:</p>
+
+<p class="indent">
+\(\epsilon[\lambda H\, H\apprxclose F]\) </p>
+
+<p>
+Then, the higher-order law of extensions would be formalizable as
+follows: </p>
+
+<p class="indent">
+\(G \in \epsilon[\lambda H\, H\apprxclose F] \equivwide G\apprxclose
+F\) </p>
+
+<p>
+This principle is used implicitly on several occasions in the
+derivation of Hume&rsquo;s Principle in <strong>Gl</strong>. Those
+readers who read the material on the derivation of Hume&rsquo;s
+Principle in <strong>Gg</strong> will see that this principle gets
+reformulated as the Lemma to the Proof of Hume&rsquo;s Principle. </p>
+</div>
+
+<div id="note-10">
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ Strictly speaking, we should represent this concept as follows:</p>
+
+<p class="indent">
+\([\lambda z \, [\lambda y \, Ayp]z \amp z\neq r]\) </p>
+
+<p>
+But we have applied the following instance of \(\lambda\)-Conversion
+to the first conjunct within the matrix of the \(\lambda\)-expression:
+</p>
+
+<p class="indent">
+\([\lambda y \, Ayp]z\equiv Azp\) </p>
+
+<p>
+We thereby simplify the entire expression to: </p>
+
+<p class="indent">
+\([\lambda z \, Azp\amp z\neq r]\) </p>
+</div>
+
+<div id="note-11">
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ The Facts numbered 3, 4, 5, and 6 correspond to Theorems 123, 124,
+128, and 129, respectively, in <strong>Gg I</strong>. Facts 1, 5, and
+7 correspond to Propositions 91, 84, and 98, respectively, in Part III
+of <strong>Begr</strong>.</p>
+</div>
+
+<div id="note-12">
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ Readers interested in seeing how our theorems correspond to
+Frege&rsquo;s will find it instructive to see how Fact 3 corresponds
+to Frege&rsquo;s Theorem 123, which is (<strong>Gg. I</strong>, p.
+138): </p>
+
+<div class="indent">
+<img src="theorem-123.jpg" alt="Theorem 123" />
+</div>
+
+<p>
+First, let&rsquo;s simplify the notation for relations in
+Frege&rsquo;s theorem 123. Since our notation \(Rxy\) corresponds to
+his </p>
+
+<div class="indent">
+<img src="frege-Rxy.jpg" alt="Frege&rsquo;s Rxy" />
+</div>
+
+<p>
+and our notation \(R^{*}(x,y)\) corresponds to his:</p>
+
+<div class="indent">
+<img src="frege-R+xy.jpg" alt="Frege&rsquo;s Rxy" />
+</div>
+
+<p>
+we may substitute them into Frege&rsquo;s theorem, to get a formula
+that looks like this:</p>
+
+<div class="indent">
+<img src="theorem-123a.jpg" alt="Theorem 123a" />
+</div>
+
+<p>
+Now if we eliminate Frege&rsquo;s notation for universally quantified
+conditional claims, we get:</p>
+
+<div class="indent">
+<img src="theorem-123b.jpg" alt="Theorem 123b" />
+</div>
+
+<p>
+And if we use normal variables instead of the Fraktur variables and
+replace \(F(x)\) by \(Fx\), we get:</p>
+
+<div class="indent">
+<img src="theorem-123c.jpg" alt="Theorem 123c" />
+</div>
+
+<p>
+Consider the 3rd line from the top in the above. Since \(\forall
+x(Fx\rightarrow\forall y(Rxy \rightarrow Fy))\) is equivalent to
+\(\forall x\forall y(Fx\rightarrow (Rxy \rightarrow Fy))\), which is
+equivalent to \(\forall x\forall y(Rxy\rightarrow (Fx \rightarrow
+Fy))\), we may use our abbreviation of the latter formula, namely
+\(\mathit{Her}(F,R)\), to get:</p>
+
+<div class="indent">
+<img src="theorem-123d.jpg" alt="Theorem 123d" />
+</div>
+
+<p>
+Translating the above conditional into modern notation yields:</p>
+
+<p class="indent">
+\(R^{*}(a,b)\rightarrow(\mathit{Her}(F,R)\rightarrow (\forall
+z(Raz\rightarrow Fz)\rightarrow (Fb)))\) </p>
+
+<p>
+Now if we gather the 3 antecedents of the conditionals into a
+conjunction, we get the equivalent formula:</p>
+
+<p class="indent">
+\([R^{*}(a,b)\amp \mathit{Her}(F,R)\amp \forall z(Raz\rightarrow
+Fz)]\rightarrow Fb\) </p>
+
+<p>
+Finally, if we switch the 2nd and 3rd conjuncts in the antecedent, and
+replace &lsquo;\(a\)&rsquo; by &lsquo;\(x\)&rsquo; and replace
+&lsquo;\(b\)&rsquo; by &lsquo;\(y\)&rsquo;, we get:</p>
+
+<p class="indent">
+\([R^{*}(x,y)\amp \forall z(Rxz\rightarrow Fz)\amp
+\mathit{Her}(F,R)]\rightarrow Fy\) </p>
+
+<p>
+And this is our Fact 3.</p>
+</div>
+
+<div id="note-13">
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ Facts 2, 3, 6, and 7 correspond to Theorems 132, 134, 141, and 144,
+respectively, in <strong>Gg I</strong>.</p>
+</div>
+
+<div id="note-14">
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ A relation \(R\) is one-to-one (&lsquo;<em>R</em> is 1-1&rsquo;) just
+in case it satisfies the following condition:</p>
+
+<p class="indent">
+\(Rxz\amp Ryz\rightarrow x=y\) </p>
+
+<p>
+So Fact 8 in the text is a fact about the weak ancestral whenever the
+relation R in question is 1-1. We shall prove that the Predecessor
+relation is 1-1 in the third subsection of Section 5. Then Fact 8 and
+the fact that Predecessor is 1-1 will both play a crucial role in the
+proof that every number has a successor.</p>
+
+<p>
+To prove Fact 8, assume that \(R^{*}(a,b), Rcb\) and that \(R\) is
+1-1. We want to show \(R^{+}(a,c)\). Now by Fact 5 concerning the weak
+ancestral, we know that it follows from \(R^{*}(a,b)\) that \(\exists
+z[R^{+}(a,z)\amp Rzb]\). So call an arbitrary such object
+&lsquo;\(d\)&rsquo;. So we know \(R^{+}(a,d)\amp Rdb\). Now since
+\(R\) is 1-1, it follows from \(Rdb\) and \(Rcb\), that \(c=d\). So,
+\(R^{+}(a,c)\), which is what we had to show.</p>
+</div>
+
+<div id="note-15">
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ See the work by Wright cited in the Bibliography for a defense of
+something like this position. Wright justifies this position on
+Fregean grounds by appealing to Frege&rsquo;s Context Principle, which
+asserts that a word has no meaning (reference) except in the context
+of a proposition (truth).</p>
+</div>
+
+<div id="note-16">
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ See Rosen 1993 for a discussion of how someone might claim that the
+right-hand condition of an instance might imply its corresponding
+left-hand condition.</p>
+</div>
+
+<div id="note-17">
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ Again, see the work by Wright cited in the Bibliography.</p>
+</div>
+
+<div id="note-18">
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ In the long footnote to &sect;10, Frege seems to suggest that the
+idea of replacing the truth values with their unit classes cannot be
+extended to the case of every object in the domain without conflicting
+with his earlier stipulations (in <strong>Gg I</strong>,
+&sect;&sect;3, 9 and 20), and in particular, with Basic Law V.</p>
+</div>
+
+<div id="note-19">
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ Wehmeier (1999) shows that Frege would not have had much luck
+attempting to restrict the quantifiers of <strong>Gg</strong> to
+extensions. He considers two consistent subsytems that Frege might
+have adopted to avoid the contradiction, namely, the system H
+described in Heck (1996) and the system Wehmeier himself developed and
+labels \(T_{\Delta}\). Both of these systems retain Basic Law V but
+place restrictions on the Comprehension Principle for Concepts.
+However, both systems imply the existence of objects which are not
+extensions (or courses-of-values), and indeed, they imply an infinite
+number of such objects. </p>
+</div>
+
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://mally.stanford.edu/zalta.html" target="other">Edward N. Zalta</a>
+&lt;<a href="m&#97;ilto:zalta&#37;40stanford&#37;2eedu"><em>zalta<abbr title=" at ">&#64;</abbr>stanford<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

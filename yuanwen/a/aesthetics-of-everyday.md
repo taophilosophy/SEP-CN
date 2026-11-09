@@ -1,0 +1,831 @@
+# Aesthetics of the Everyday
+**First published Wed Sep 30, 2015; substantive revision Sat Nov 29, 2025**
+
+*Saito, Yuriko*
+
+In the history of Western aesthetics, the subject matters that received attention ranged from natural objects and phenomena, built structures, utilitarian objects, and human actions, to what is today regarded as the fine arts. However, beginning with the nineteenth century, the discourse has become increasingly focused on the fine arts. This narrowing attention occurred despite the prominence of the aesthetic attitude theory in modern aesthetics, according to which there is virtually no limit to what can become a source of aesthetic experience. The tendency to equate aesthetics with the philosophy of art became widespread in twentieth century aesthetics, particularly within the Anglo-American tradition.
+
+Challenges to this rather limited scope of aesthetics began during the latter half of the twentieth century with a renewed interest in nature and environment, followed by the exploration of popular arts. Everyday aesthetics continues this trajectory of widening scope by including objects, events, and activities that constitute people’s daily life. However, it is more accurate to characterize this recent development as *restoring* the scope of aesthetics rather than opening a new arena.
+
+In addition, many cultural traditions outside the Western sphere have long been concerned with the aesthetics of daily life. In some cultural traditions, such as Inuit and Navajo, aesthetic considerations are thoroughly integrated in daily activities, including making things such as tools (Papanek 1995; Witherspoon 1996)[^papanek-1995][^witherspoon-1996]. Even in other traditions, such as Japanese and Chinese, with distinctive art-making practices of paintings, literature, theater, and the like, aesthetic practices permeate people’s daily life. One of the findings of comparative aesthetics is that a greater emphasis is placed on the aesthetics of everyday life in many non-Western cultures than in the West (Higgins 2005)[^higgins-2005].
+
+Thus, the perception that everyday aesthetics is a new frontier of aesthetics discourse needs to be situated in the context of late twentieth-century Anglo-American aesthetics. That is, it was established as a reaction against what was considered to be an undue restriction on the scope of aesthetics. It aims to give due regard to the entirety of people’s multi-faceted aesthetic life, including various ingredients of everyday life: artifacts of daily use, chores around the house, interactions with other people, and quotidian activities such as eating, walking, and bathing. Everyday aesthetics also seeks to liberate aesthetic inquiry from an almost exclusive focus on beauty (and to a certain extent sublimity) characteristic of modern Western aesthetics. It includes within its purview those qualities that pervade everyday experience, such as pretty, cute, messy, gaudy, tasteful, dirty, lively, monotonous, repugnant, disgusting, and many others. In addition to illuminating the aesthetic dimensions, both positive and negative, of those things which have been neglected in the aesthetics discourse as well as in popular imagination, everyday aesthetics pursues their moral, social, political, and environmental consequences in people’s everyday life. This exploration shows that seemingly trivial aesthetic tastes, preferences, and judgments regarding everyday life can play a significant role in determining the quality of life and the state of the world.
+
+Everyday aesthetics also raises theoretical issues that have not received adequate attention from the prevailing mainstream Western aesthetics. These include: indeterminate identity of the object of aesthetic experience due to a lack of an institutionally agreed-upon framing; changes and modifications everyday objects go through; general anonymity of the designer and creator, as well as absence of any clear authorship behind everyday objects; bodily engagements with objects and activities and their practical outcome; perceived lack of criteria for aesthetic judgments. By raising these issues, everyday aesthetics challenges long-held assumptions underlying art-centered aesthetics discourse. However, everyday aesthetics advocates pose these challenges not as a way of invalidating the established aesthetics discourse. Rather, they are meant to shed new light on the prevailing discourse. Just as new forms of art often introduce qualities and values that were not considered before and enrich the art world, as suggested by Arthur Danto, everyday aesthetics proposes to help develop the overall aesthetics discourse by adding new avenues of inquiry. Accordingly, the account of everyday aesthetics that follows will focus on these issues that have been raised to illuminate and challenge the prevailing aesthetics discourse in contemporary Western philosophy.
+
+## 1. Recent History
+
+With the establishment of environmental aesthetics, efforts to open the field of aesthetics beyond the fine arts started during the latter half of twentieth century. Almost all writers on everyday aesthetics derive inspiration from John Dewey’s *Art as Experience*, first published in 1934. In particular, his discussion of “having *an* experience” demonstrates that aesthetic experience is possible in every aspect of people’s daily life, ranging from eating a meal or solving a math problem to having a job interview. By locating ‘the aesthetic’ in the character of an experience rather than in a specific kind of object or situation, Dewey paves the way for everyday aesthetics advocates to explore diverse aspects of people’s aesthetic lives without a pre-configured boundary.
+
+If Dewey’s aesthetics can be considered as the classic for everyday aesthetics discourse, Arnold Berleant’s early works on aesthetic field and engagement continue the trajectory. Despite focusing on the experience of art and without specifically referring to the term ‘everyday aesthetics,’ Berleant’s early works provide a phenomenological account of aesthetic experience by denying a separation between the object of experience and the experiencing subject, while instead focusing on their relationship and emphasizing the collaborative process as engagement (Berleant 1970, 1991)[^berleant-1970]. This notion of ‘engagement’ as a model for aesthetics is applicable to one’s experience beyond art. Indeed, his subsequent works on environmental aesthetics, both natural and built, and more recently on social aesthetics and negative aesthetics, have been steadily broadening the scope of aesthetic inquiry and restoring the rightful role aesthetic engagement plays with the world and in human lives.
+
+Besides works on environmental aesthetics that addresses built environments (see the entry on environmental aesthetics), other notable early works specifically addressing issues of everyday aesthetics include Melvin Rader and Bertram Jessup’s *Art and Human Values* (1976), Joseph Kupfer’s *Experience as Art: Aesthetics in Everyday Life* (1983), David Novitz’s *The Boundaries of Art: A Philosophical Inquiry into the Place of Art in Everyday Life* (1992), Thomas Leddy’s “Everyday Surface Aesthetic Qualities: ‘Neat,’ ‘Messy,’ ‘Clean,’ ‘Dirty’” (1995) and “Sparkle and Shine” (1997), Crispin Sartwell’s *The Art of Living: Aesthetics of the Ordinary in World Spiritual Traditions* (1995) and “Aesthetics of the Everyday” (2003), Wolfgang Welsch’s *Undoing Aesthetics* (1997), Ossi Naukkarinen’s *Aesthetics of the Unavoidable: Aesthetic Variations in Human Appearance* (1999), and Marcia Eaton’s *Aesthetics and the Good Life* (1989) and *Merit, Aesthetic and Ethical* (2001).
+
+The first anthology on this topic, *The Aesthetics of Everyday Life*, edited by Andrew Light and Jonathan M. Smith, published in 2005, includes many articles that together lay the groundwork for more recent literature on everyday aesthetics. Often cited among them are Arto Haapala’s “On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place” and Tom Leddy’s “The Nature of Everyday Aesthetics.”
+
+The first monograph with the specific title *Everyday Aesthetics*, accompanied by the subtitle *Prosaics, the Play of Culture and Social Identities*, was written by Katya Mandoki and published in 2007. She offers an extensive critique of the prevailing Western aesthetics discourse burdened by what she characterizes as “fetishes” regarding art and beauty, as well as a detailed semiotic analysis of aesthetics involved in areas ranging from religion and education to family and medicine. Almost immediately after the publication of Mandoki’s book, Yuriko Saito’s *Everyday Aesthetics* was published. These works were followed by Thomas Leddy’s *The Extraordinary in the Ordinary: The Aesthetics of Everyday Life* (2012). They together secured the initial foothold for the subsequent development of everyday aesthetics.
+
+Paralleling these early works are monographs and anthologies dedicated to specific aspects of daily life, such as gustatory aesthetics (Korsmeyer 1999, 2005; Perullo 2016; van der Meulen and Wiese 2017)[^korsmeyer-1999][^perullo-2016][^meulen-2017], domestic aesthetics (McCracken 2001)[^mccracken-2001], body aesthetics (Shusterman 1999, 2013; Bhatt 2013; Irvin 2016)[^bhatt-2013][^irvin-2016][^shusterman-1999], functional beauty (Parsons and Carlson 2008)[^parsons-2008], the aesthetics of design (Forsey 2013), and olfactory aesthetics (Drobnick 2005; Shiner 2020)[^drobnick-2005][^shiner-2020], as well as a collection of essays dealing with the notion of “artification” in practices ranging from business and education to science and sports (Naukkarinen and Saito, 2012).
+
+All of these works together have given rise to an increasingly lively debate on the subject in journals such as *Aesthetic Investigations*, *Aisthesis*, *The British Journal of Aesthetics*, *Contemporary Aesthetics*, *Espes*, *The Journal of Aesthetics and Art Criticism*, *The Nordic Journal of Aesthetics*, *Popular Inquiry*, *Proceedings of the European Society for Aesthetics*, and Studi di Estetica (*Italian Journal of Aesthetics*), to name only a few that feature or include articles in English. In addition, more anthologies on everyday aesthetics have subsequently been published, namely the *Aisthesis* volume dedicated to the subject of Everyday Objects (2014), *Experiencing the Everyday* (Friberg and Vasquez 2017)[^friberg-2017], *Paths from the Philosophy of Art to Everyday Aesthetics* (Kuisma, et al. 2019), *Applying Aesthetics to Everyday Life: Methodologies, History and New Directions* (Giombini and Kvokačka 2023)[^giombini-2023], the *Aesthetic Investigations* Special Volume on the aesthetic significance of the everyday (2024), the *Contemporary Aesthetics* Special Volume on Atmospheric Design and Everyday Aesthetics (2024), and *Anuario Filosófico* dedicated on the question, “What is Everyday Aesthetics?” (2025). These anthologies and journals are particularly helpful to those Anglophone readers who lack the language facility to access many European aestheticians’ works, some monographs, that are written in their own languages. Among them are Elisabetta Di Stefano, Lisa Giombini, Gioia Iannilli, Adrián Kvokačka, Giovanni Matteucci, Dan Eugen Ratiu, Max Ryynänen, and Zoltán Somhegyi, to list only a few. Their English language articles included in these anthologies and journals are valuable in making their important works available to Anglophone readers.
+
+In addition, spearheaded by Elisabetta Di Stefano of the University of Palermo, a number of aestheticians from several European countries formed a consortium in 2022, Evanetwork [see Other Internet Resources], which is dedicated to exploring everyday aesthetics. Its activity includes hosting international conferences in different institutions of its members, often followed by the publication of anthologies comprised of the conference papers.
+
+As was the case with her *Everyday Aesthetics*, Saito’s subsequent monographs, *Aesthetics of the Familiar: Everyday Life and World-Making* (2017) and *Aesthetics of Care: Practice in Everyday Life* (2022) include extensive discussion of Japanese aesthetics. However, the first explicitly and specifically multi-cultural exploration of everyday aesthetics appeared in the form of an anthology, *Aesthetics of Everyday Life: East and West* (2014), edited by Liu Yuedi and Curtis Carter, with a number of pieces on Chinese aesthetics. This is followed by *Comparative Everyday Aesthetics: East-West Studies in Contemporary Living*, edited by Eva Kit Wah Man and Jeffrey Petts (2023). Similar to the case of European languages, most Anglophone readers lack the language ability to access many works on Chinese aesthetics written in Chinese. English language papers included in these anthologies and other journal articles by scholars provide a good entry into a rich legacy of living aesthetics in the Chinese tradition that is garnering a renewed attention today. Finally, although not specifically dedicated to everyday aesthetics, many essays collected in the Special Volume 3 of *Contemporary Aesthetics* (2011) on Aesthetics and the Arts of Southeast Asia, the same journal’s Special Volume 6 (2018) on Aesthetic Consciousness in East Asia, and *Artistic Visions and the Promise of Beauty: Cross Cultural Perspectives* (Higgins, et al 2017) provide valuable resources for non-Western aesthetics.
+
+## 2. ‘Everyday’ and ‘Aesthetics’ in Everyday Aesthetics
+
+Because everyday aesthetics was initially proposed as a way to expand what counts as people’s aesthetic life beyond the limitations imposed by modern philosophical aesthetics, its scope has not been clearly defined except as including what has not been covered by art-centered aesthetics. With the development of this discourse, however, questions emerged as to what constitutes ‘everyday’ and ‘aesthetics’ in everyday aesthetics. Inclusion of not only daily activities like eating, grooming, dressing, and cleaning but also occasional and even rare events such as parties, sporting events, holidays, weddings, and travelling calls into question whether ‘everyday’ should be understood literally.
+
+Furthermore, what may count as an everyday activity for one person may be a special occasion for other people. Working on a farm constitutes a farmer’s everyday life, while it is a rare experience sought by a city dweller who participates in a tour that incorporates work experience, such as a day working in a vineyard. Besides people’s occupation and lifestyle, diverse living environments determine what is included in their everyday life. For those residents in a densely populated urban area with a developed network of public transportation, as well as for those living in different parts of the world, riding in a car may be a rare occasion, while it is a daily routine for many living in typical American suburbs. Some people’s daily lives consist of constant travels, as in the case of a famed conductor, Valery Gergiev (Puolakka 2019)[^puolakka-2019]. Finally, cultural traditions and practices complicate the matter even more, as well as the life circumstances of individuals which are characterized as precarious, an issue discussed further in Section 10 (Berleant 2023b; Enroth 2021)[^berleant-2023b][^enroth-2021].
+
+The notion of ‘everyday’ thus becomes hopelessly unwieldy, and it is impossible to come up with a list of objects and activities that belong to it. However, one could point to some core activities and objects that transcend individual and cultural differences, such as eating, dressing, grooming, shelter, and basic utilitarian objects, such as clothing, furniture, and eating implements (Melchionne 2013)[^melchionne-2013]. The most important factor for the purpose of everyday aesthetics, however, is not so much an inventory of objects and activities but rather the typical attitude we take toward them. We tend to experience these objects and activities mostly with practical considerations that eclipse their aesthetic potentials (Bullough 1912–13; Stolnitz 1969; Ziff 1997)[^bullough-1912][^stolnitz-1969][^ziff-1997]. These experiences are generally regarded as ordinary, commonplace, and routine. Such characterization may be the best way to capture ‘everyday,’ allowing diverse occupations, lifestyles, and living environments that give rise to different ingredients of everyday life.
+
+Many advocates of everyday aesthetics, however, also include rare, stand out, and more artistically-charged occasions in its scope. For example, a holiday celebration is laden with all kinds of aesthetic considerations, ranging from interior and exterior decorations to special dishes, a carefully-arranged table setting and festive music. Many of us specifically attend to these aesthetic aspects both as providers and as receivers, giving aesthetic considerations a prominent role in these experiences. In light of these different kinds of experiences, some suggest allowing gradation among various objects and activities, with one end designating the most quotidian objects and activities that are experienced primarily with a practical mindset, and the other end those occasions standing out from daily life and marked by much more conscious attention to the aesthetic dimension, rendering the experience more like art appreciation (Naukkarinen 2013; Leddy 2015)[^leddy-2015][^naukkarinen-2013].
+
+Thus, recent discussion of the notion of everyday emphasizes relationality and lability, a temporary framework that responds to specific time and place, whether it regards the course of an individual’s life (such as a painting becoming a part of one’s everyday life after being purchased and hung on the living room wall), or a general societal change, such as the increasing presence of the digital world today. Accordingly, the distinction between ordinary/extraordinary, familiar/unfamiliar, and event-like/routine-like that dominate the discussion of everyday should not be understood as something stationary, static, and fixed (Haapala 2017; Potgieter 2017)[^haapala-2017][^potgieter-2017].
+
+Debates surrounding what constitutes ‘aesthetics’ in everyday aesthetics are not unique to this discourse. The nature of aesthetics has been a perennial point of contention in aesthetics at large, whether regarding fine arts, nature, popular culture or everyday objects and activities (see in particular the entries on The Concept of the Aesthetic and Dewey’s Aesthetics). Many advocates of everyday aesthetics urge returning to the root meaning of ‘aesthetic’ as sensory perception gained with sensibility and imagination. In doing so, they emphasize two points for particular attention. First is the status of bodily sensations. They can be felt by us as we receive sensory stimulation such as the wafting smell of baked goods, the sensation of silk against our skin, the taste of sushi, or the feeling of massage. They can also result from bodily activities, such as running, chopping vegetables, using tools, or mowing the lawn. The debate regarding whether or not these bodily sensations belong to the realm of aesthetics proper is not new. The best-known classical treatment of this issue is Immanuel Kant’s distinction between the beautiful and the agreeable or the pleasant. Many contemporary art projects call into question this presumed distinction through the creation of olfactory art, art happenings that include cooking and eating, and participatory art that requires the audience’s bodily engagement. However, the issue becomes more acute with everyday aesthetics because our daily experience is permeated by sensory experiences and bodily activities (see Sections 7 and 8 for further discussion).
+
+The second point raised by everyday aesthetics regarding the term ‘aesthetics’ is the distinction between its honorific and classificatory use. In both aesthetics discourse and common vernacular, the term ‘aesthetic’ is generally used in the honorific sense. Hence, something exhibiting an aesthetic quality is generally regarded positively and gaining an aesthetic experience is understood to mean that it is a meaningful and satisfying experience. However, in our everyday lives, some things strike us with powerful positive aesthetic values, as in a great work of art or a spectacular landscape, while other things do not affect us much because they are boring, non-descript, or plain. Then there are those objects and phenomena that offend or disturb us profoundly because their sensuous appearance is hideous, monstrous, or appalling, without any overall redeeming value such as an artistic message. Everyday aesthetics casts a wide net for capturing these diverse dimensions of our aesthetic life. It is noteworthy that in academic discourses outside of analytic philosophical aesthetics, ‘aesthetics’ is often regarded in the classificatory sense, such as the aesthetics of manners, which includes both polite and rude behaviors, and the aesthetics of politics which, among other things, refers to the social and political construction of what counts as the sensible (Mandoki 2007; Rancière 2009; Vihalem 2018)[^mandoki-2007][^rancière-2009][^vihalem-2018].
+
+Some recent writers propose that everyday aesthetics will be better served by characterizing the aesthetic as a specific mode of perception. Everyday aestheticians who emphasize the difference of everyday aesthetic experience from a typical experience of art tend to characterize the former’s passivity and minimize the mediation of various conceptual considerations, emotional involvement, and imaginative engagement typically required in experiencing art. While it is agreed that the aesthetic experience is based upon our sensory perception, without a more active, creative, and imaginative involvement, those critics point out, there is nothing distinctly aesthetic about mere sensations. One suggested solution is to characterize an aesthetic experience as a dynamic and dialectic process of sensory perception and reflectivity that form *aisthesis* which leads to a dialogical relationship with the object we are perceiving (Matteucci 2017)[^matteucci-2017]. This more general theory of aesthetic perception will help overcome the aforementioned two issues everyday aestheticians were grappling with, namely inclusion of all sensory modes and rendering the term valence-neutral. As will be discussed later in Section 8, one of the issues everyday aesthetics needs to determine is whether it carves out an independent arena of aesthetics or it is rather a continuation of aesthetics discourse that had been established with art as the primary model. Those who advocate the continuity model argue that the dialogical mode of perception that integrates reflectivity provides the specifically aesthetic character to everyday experience (Nielsen 2005; Mateucci 2017; Potgieter 2017)[^nielsen-2005][^potgieter-2017].
+
+## 3. Defamiliarization of the Familiar
+
+If ‘everyday’ is characterized as the familiar, ordinary, commonplace, and routine, regardless of the specific content that varies from people to people depending upon their lifestyle, occupation, living environment, and other factors, what makes its aesthetic appreciation possible? The following response dominates everyday aesthetics discourse: the aesthetic appreciation of everyday life requires defamiliarization, making strange, or casting an aura. Because we are most of the time preoccupied by the task at hand in our daily life, practical considerations mask the aesthetic potential of commonplace objects and ordinary activities. Furthermore, such experiences lack any coherent structure consisting of unity, pervasive character, and a clear beginning and an end. In short, according to Dewey, our everyday humdrum life proceeds mechanically without any internal organic evolution, hence “anesthetic.” Only when we have *an* experience with all the structural requirements fulfilled does our everyday life gain aesthetic merit. Once we have *an* experience with a different attitude and perceptual gear and/or a cohesive internal structure, we can unearth latent aesthetic values in the most ordinary things and routine activities. This view can be interpreted as a faithful application of the claim made by the aesthetic attitude theory that theoretically anything can be an object of aesthetic experience. Mundane objects can acquire a kind of ‘aura’ that heightens their aesthetic value (Leonhardt 1985; Tuan 1993; Visser 1997; Gumbrecht 2006; Leddy 2012a; Al Qudwa 2017)[^gumbrecht-2006][^leddy-2012a][^leonhardt-1985][^tuan-1993][^visser-1997]. According to this interpretation, what is new about everyday aesthetics is its illumination of those aspects of our lives that are normally neglected or ignored because they are eclipsed by stand out aesthetic experiences we often have with works of art and nature. More careful attention and a different mindset can reveal a surprisingly rich aesthetic dimension of the otherwise mundane, non-memorable, ordinary parts of our daily life. Many works of art are helpful in guiding us through the morasses of everyday life toward a rewarding aesthetic experience (Dillard 1974; Prose 1999; Stabb 2002; Martin 2004, Leddy 2012a, 2015; Nanay 2016, 2018)[^dillard-1974][^leddy-2012a][^martin-2004][^nanay-2016][^prose-1999][^stabb-2002]. This trajectory of everyday aesthetics is welcomed by a number of thinkers for its contribution to enriching life experiences, encouraging mindful living, and facilitating happiness without problematic consequences that often accompany a hedonistic lifestyle (Irvin 2008b; Shusterman 2013; Melchionne 2014; Leddy 2014; Hughes and Berleant, Irvin, Haapala, Al Qudwa, and Kidd in Polrum, et al 2025)[^irvin-2008b][^leddy-2014][^melchionne-2014][^shusterman-2013].
+
+At the same time, some point out the danger of over-emphasizing defamiliarization as a precondition for everyday aesthetics. That is, this way of accounting for everyday aesthetics risks losing the very everyday-ness of everyday experience, thereby becoming unable to capture the aesthetic texture of everyday life characterized by its familiar, ordinary, and mundane quality (Felski 2002, 2009; Highmore 2004, 2011a; Haapala 2005; Saito 2017)[^felski-2002][^haapala-2005][^highmore-2004][^saito-2017]. The challenge then becomes how to capture the very ordinary everyday-ness of everyday life while engaging aesthetically. That is, experiencing and appreciating the ordinary as extraordinary follows a rather well-trodden path in aesthetics discourse, while experiencing and appreciating the ordinary as ordinary poses a specific challenge to everyday aesthetics discourse.
+
+Several responses have been given to account for the aesthetics of the ordinary as ordinary. One proposed response is to regard qualities such as the familiar and the ordinary as positively appreciable as a counterpart to those qualities that make some experiences stand out for being intense and extraordinary. Though not stunning or intense, those qualities characterizing ordinary life provide a quiet calm, comfort, stability, and security to our life experience (Haapala 2005)[^haapala-2005]. It is difficult to imagine how we can handle, let alone enjoy, a constant series of extraordinary, intense experiences with no restful period. Many aspects of domestic life instead offer comfort, stability, and respite, in short hominess, because of the very ordinary and repetitive nature, and such qualities are indispensable for good life and appreciable in their own right (Highmore 2004, 2011a; Irvin 2008b; Melchionne 2014)[^highmore-2004][^irvin-2008b][^melchionne-2014].
+
+However, this response is challenged for failing to explain what is distinctly aesthetic about the sense of comfort and stability. The value of these feelings, according to the critics, is rather existentially-oriented and possibly relies on the instrumental role they play in assuring a secure foundation for life. An alternative solution to the dilemma proposed is to focus on the functional use of objects of daily life that is not separate from our management and flow of daily life or the cultural context and knowledge required for its use. When an object functions particularly well, the pleasure we gain is still embedded in our daily life and does not render the experience out of gear from the flow of everyday life (Forsey 2014)[^forsey-2014].
+
+This move can also be characterized as a variation of cognitively-oriented aesthetics widely discussed in environmental aesthetics regarding nature. Instead of natural sciences that inform the aesthetic appreciation of nature, the suggestion is that everyday aesthetic experience be informed by common sense knowledge about the object’s function, significance, and place in our lives that provides the familiarity sought for in aesthetically experiencing the familiar as familiar (Carlson 2014)[^carlson-2014].
+
+These solutions address familiarity experienced as familiar as a positive value whether regarding hominess or excellent functionality. However, those who are concerned with developing the classificatory sense of aesthetics point out that the lack of coherent structure, slackness, monotony, and humdrum that, according to Dewey, generate experiences that are “anesthetic” actually also characterize the aesthetic texture of everyday life (Highmore 2011a; Mollar 2014; Saito 2017)[^highmore-2011a][^mollar-2014][^saito-2017]. Deficiency in positive aesthetic qualities, such as exciting intensity, coherent narrative structure, or pervasive unifying theme, does not necessarily mean lack of aesthetic qualities. Those aspects of our lives can still be regarded as permeated by aesthetic qualities, though negative, such as dreariness and painful monotony. Such negative characterization of everyday life has often been the subject of Marxist interpretations of workers’ daily lives and so-called reproductive labor, whether at work or at home, providing a platform for rebellious movements, such as the Situationist International (Highmore 2010)[^highmore-2010].
+
+## 4. Negative Aesthetics
+
+This account of everyday life as pervaded by negative aesthetic qualities rather than lacking any aesthetic qualities gives rise to ‘negative aesthetics.’ This notion may at first appear to be an oxymoron, if ‘aesthetics’ is understood in the usual honorific sense. Katya Mandoki and Arnold Berleant stress the importance of attending to this aesthetically negative aspect of people’s lives that is unfortunately all too common (Mandoki 2007; Berleant 2010, 2012, 2023a)[^berleant-2010][^mandoki-2007]. Negative aesthetic qualities such as ugliness, grotesqueness, repulsiveness, and disgust have not been absent in the prevailing aesthetics discourse, but they don’t occupy a prominent place (notable exceptions being Korsmeyer 2011, Forsey 2016)[^forsey-2016][^korsmeyer-2011]. Furthermore, more often than not, these negative qualities become justified as a necessary means to facilitating an ultimately positive aesthetic experience. For example, a disgusting content of art may be necessary for conveying an overall message, such as an exposé and critique of social ills, or a repulsive sight in nature, such as a predator devouring its prey, can be appreciated as an integral part of nature’s process.
+
+Negative aesthetic qualities experienced as negative, in comparison, are unfortunately quite pervasive in everyday life and they directly affect the quality of life. They range from less noteworthy qualities such as the boring, the monotonous, the uninspiring, the banal, and the dull to “aesthetic violence,” “aesthetic pain,” “aesthetic poisoning,” or “aesthetic assault,” such as the hideous, the offensive, the repulsive, and the vulgar (Mandoki 2007)[^mandoki-2007]. These more dramatically negative qualities can be experienced in a squalid urban space, deafening noise, cluttered billboard with gaudy signage and sordid visual images, stench from a nearby factory, and the like. In light of the fact that aesthetics has tended to confine its scope to positive qualities and experiences, everyday aesthetics challenges us to pay serious attention to the aesthetically negative aspects of our lives because of their immediate impact on the quality of life.
+
+The focus on negative aesthetics is particularly important in everyday aesthetics discourse because it leads to what may be regarded as its activist dimension. When confronted with negative aesthetic qualities, we generally don’t remain a mere spectator but rather spring into action to eliminate, reduce, or transform them. Even if we don’t or can’t act, we wish we could do so and we think we should. According to the prevailing mode of aesthetic analysis regarding art, and to a certain extent nature, our aesthetic life is primarily characterized from a spectator’s point of view. We do not perform an activity with the object other than aesthetic engagement. Even if we are inspired to act by art or nature, the resultant action is generally indirect, such as joining a political movement or making a contribution to an organization.
+
+In comparison, the action we undertake motivated by negative aesthetics in daily life has a direct impact on life. On a personal level, we launder a stained shirt and iron it, clean the carpet soiled by spilled wine, repaint the living room wall, open a window to get fresh air after cooking fish indoors, tidy up the guest room, reformat a document for a clearer look, and the list goes on (Forsey 2016; Saito 2017)[^forsey-2016][^saito-2017]. These actions are taken primarily in response to our negative aesthetic reaction against stain, wrinkle, unpleasant color of the wall, fishy smell, mess and clutter, and disorganized look. On a community level, eyesore-like abandoned structures get torn down or given a make-over, a squalid neighborhood gets cleaned up, and ordinances are created to eliminate factory stench and cluttered billboards. At least we often work, or believe we should work, toward improving the aesthetics of everyday environment and life.
+
+At the same time, everyday aesthetics also urges us to critically examine, and possibly transform, our common negative aesthetic reactions to things and environments that do not conform to the prevailing societal norms, what Sherri Irvin calls “aesthetic blight,” such as differently-formed or -abled human bodies, wildflower gardens, and artifacts showing wear and tear. It is because such negative aesthetic judgements often lead to unjust treatments of those humans, promotion of ecologically unsound environments, and exacerbation of disposable culture fueled by consumerism. Negative aesthetic experiences are thus useful and necessary in detecting what is harmful to the quality of life and environment and provide an impetus for improvement (Berleant 2012, 2023a; Irvin 2025; see Section 9 for further discussion)[^berleant-2012][^irvin-2025].
+
+## 5. Everyday Aesthetic Qualities
+
+However, questions can be raised as to whether qualities such as messiness and clutter belong to aesthetics discourse. Appreciation of more typical aesthetic qualities, such as beauty, sublimity, elegance, grace, artistic excellence, powerful expression, and the like, is thought to require a certain degree of aesthetic sensibility or ‘taste’ that needs to be cultivated. Moreover, their appreciation often demands a certain conceptual understanding of things, such as the object’s historical and cultural context, the artist’s oeuvre, and some basic information regarding nature, among others. Aesthetic experience, after all, is expected to promote a dialogical process between the experiencing agent and the object, thereby widening and deepening one’s sensuous, emotional, imaginative, and intellectual capacity. Sometimes characterized as *Bildung*, it should be an educational and empowering experience.
+
+In comparison, according to this line of thinking, the detection of the everyday aesthetic qualities in question, such as messiness, shabbiness, cuteness, and prettiness, seems to result from an almost knee-jerk reaction without any background knowledge, aesthetic sophistication or reflective process, and, as such, does not make a worthy subject matter for aesthetics.
+
+Two responses have been given to this challenge. First, even if some qualities can be experienced without the same kind and degree of aesthetic sensibility or sophistication required for art appreciation, this alone does not render them outside the realm of aesthetics. Even a seemingly unreflective response to qualities – such as dirty, messy, and disorganized – is not free of a cultural and contextual framework (Douglas 2002; Saito 2007)[^douglas-2002][^saito-2007]. Second, it is possible to provide a kind of sliding scale with one end requiring utmost sensibility often obtained after extensive education and practice, such as the ability to appreciate twelve-tone music, Joyce’s novels, Japanese Noh theater, and bogs, and the other end requiring very little education and practice, such as Norman Rockwell paintings, a lullaby, a sparkling jewelry piece, and a colorful flower garden. Some aesthetic qualities can be considered ‘major league’ or heavy-weight while other aesthetic qualities are ‘minor league’ or light-weight, without disqualifying the latter from the realm of the aesthetic altogether. After all, they refer to our qualitative response to the sensory experience of the objects and phenomena and some experiences are more intense and profound than others without thereby denying the aesthetic dimension of more simple and easy experiences (Leddy 1995, 1997, 2012a, 2012b; Harris 2000; Ngai 2012; Postrel 2013; Mollar 2014)[^harris-2000][^leddy-1995][^mollar-2014][^ngai-2012][^postrel-2013].
+
+If minor league aesthetic qualities lack sophistication and profundity compared to major league aesthetic qualities, a case can be made that they make up for this lack by their pervasiveness in daily life with serious consequences. While we do experience beauty and sublimity in our daily life, such occasions are rather rare. More often than not, in our everyday life, we experience things for being pretty, nice, interesting, cute, sweet, adorable, boring, plain, drab, dowdy, shabby, gaudy, ostentatious, and the like. It is particularly important to attend to these qualities because, due to their prevalence and relatively easy recognition, they exert a powerful influence on our decisions and actions regarding mundane matters. Indeed, strategies in advertising, political campaigning, and propaganda often make use of these qualities to direct people’s behavior (Postrel 2003; Böhme 2003, 2017; Mandoki 2007; Sartwell 2010; Saito 2017, 2018)[^böhme-2003][^mandoki-2007][^postrel-2003][^saito-2017][^sartwell-2010]. Those who are concerned with both the prevalence and uncritical acceptance of aestheticization of life argue for a more active, engaged, reflective mode of perception instead of passively experiencing and being affected by aestheticization ploys, thereby cultivating aesthetic literacy and vigilance (Vihalem 2016; Matteucci 2017; Potgieter 2017; Berleant 2023a)[^berleant-2023a][^matteucci-2017][^potgieter-2017][^vihalem-2016].
+
+Another worry has been raised about the aesthetic worthiness, or “aesthetic credentials,” of some experiences (Dowling 2010)[^dowling-2010]. It concerns the purely bodily-oriented responses such as the sensation of scratching an itch, receiving a massage, drinking tea, or smelling fishy odor (Irvin 2008a,b)[^irvin-2008a]. There is a concern that they are too private and subjective to allow any inter-subjective discussion and critical discourse, resulting in subjective relativism and compromising the possibility of *sensus communis*. Kant’s distinction between the beautiful and the merely agreeable is often invoked to support this criticism (Parsons and Carlson 2008; Soucek 2009; Dowling 2010)[^dowling-2010][^parsons-2008][^soucek-2009].
+
+In response, some thinkers point out that it is a mistake to treat these bodily sensations as an isolated, singular sensory experience. According to them, in ordinary life, we almost never have an experience of smell, taste, or touch by itself. Instead, our experiences are usually multi-sensory or synaesthetic and take place in a specific context (Howes 2005; Howes and Classen 2014)[^howes-2005][^howes-2014]. Scratching an itch can be a part of experiencing a mosquito-infested bog, or experienced as an annoyance caused by the stiff fabric label sewn on the inside of a new shirt collar. The taste of tea cannot be separated from its aroma, visual appearance, and the tactile sensations of texture and warmth as one holds the mug and presses the lip against its rim. All of these sensory experiences take place in a certain surrounding and situation with its own ambiance, as well as within the specific flow of one’s daily life. One may grab a cup of tea on the run and gulp it down to get the caffeine kick as one rushes to a meeting, or savor each sip as one sits in front of a fireplace relaxing, or participate in the Japanese tea ceremony. Even if the tea itself were to remain the same, the experience surrounding its ingestion changes, sometimes even affecting our experience of the taste of tea itself (Irvin 2009a; Melchionne 2011, 2014; Perullo 2016; Saito 2017)[^irvin-2009a][^melchionne-2011][^perullo-2016][^saito-2017]. Thus, purely bodily sensation can be folded into the atmosphere or ambiance constituted by many ingredients. Then what we appreciate is not merely a singular bodily sensation in isolation such as the tactile sensation or smell but the fittingness or, one may even say, Kantian ‘purposiveness,’ or lack thereof, created by the relationship between and among factors making up the atmosphere.
+
+Presumed subjective relativism regarding a purely bodily sensation, therefore, can be mitigated at least to a certain extent if it is regarded as one of the many ingredients that make up a larger whole permeated by a unified atmosphere, such as a sense of well-being, contentment, comfort, or negatively, a sense of isolation, discomfort, uneasiness, or anxiety. Such an appreciation (or depreciation) allows some degree of inter-subjective communication and sharing; indeed many literary narratives provide a rich reservoir of such experiences.
+
+## 6. Ambient Aesthetics and Social Aesthetics
+
+This attention to atmosphere or ambiance of a certain situation constituted by various ingredients has a long tradition in Japanese aesthetics (Saito 2005)[^saito-2005]. It was also the main point of the associationist aesthetics advocated by Archibald Alison (1757–1839). Today ambient aesthetics is garnering a renewed attention primarily due to works by Gernot Böhme who suggests that atmosphere should be the central focus of new aesthetics. In our daily life, we often experience the atmospheric character of a situation: tense or relaxed, cheerful or melancholic, exuberant or subdued, inviting or alienating, electrifying or dull. Sometimes a distinct character of a situation is intentionally orchestrated, oftentimes in a special occasion like a wedding or a funeral, with specifically selected music, decorations, attire, and choreographed movements, to name a few (Z. Wang and Brubaker 2024)[^wang-2024]. Some other times, a unified atmosphere arises spontaneously when various elements making up the physical environment and human interactions and movements within it happen to congeal (Böhme 1993, 1998; Miyahara 2014; Di Stefano 2017)[^böhme-1993][^miyahara-2014].
+
+Although in our daily life we experience and appreciate (or depreciate) a certain atmosphere or ambiance quite frequently, it has not received adequate attention in the aesthetics discourse primarily because of the lack of clearly defined and delineated ‘object’ of the experience. Without a clear ‘frame’ around the object of experience, critics suggest, inter-subjective discussion of its aesthetics is not possible. Nor are there clear criteria, such as art historical conventions, that are helpful in determining what is and is not a part of the aesthetic experience (Parsons and Carlson 2008)[^parsons-2008]. Ambiance, air, or atmosphere is indeed subjectively-oriented in the sense that one’s experience becomes colored accordingly. However, it should also be noted that it is not purely subjective or private, as claimed by critics, insofar as it refers to objectively identifiable features of the environment and situation. Furthermore, some contemporary works of art specifically aim at creating a certain atmosphere that envelops the audience, *Gesamtkunstwerk* being a precursor (Z. Wang 2018)[^wang-2018].
+
+Ambient aesthetics also highlights the important role played by non-visual sensory experiences that permeate our lived life. The relevance of the so-called lower senses in everyday aesthetics has already been mentioned (Section 5). However, possibly with an exception of the gustatory, non-visual sensory experiences, namely the auditory, the olfactory, and the haptic, tend to be eclipsed by the visual, although their contribution to our everyday aesthetic experience is undeniable (Ackerman 1991; Tuan 1993; Brady 2005; Howes 2014; Korsmeyer 2017; *Interference Journal* (Issue 7, 2019); Shiner 2020). Sometimes they enrich an overall ambiance, such as a calming ambient sound and a weather-beaten smooth surface of a building, while other times they constitute negative aesthetics, such as a blaring car stereo sound and a stench from a nearby factory. Furthermore, the lack of sounds and smell may be a welcome relief while at other times it may render the experience deficient (Drobnick 2005; Anderson 2020)[^anderson-2020][^drobnick-2005]. Everyday aesthetics encourages attention to these non-visual elements of experiences, which helps sharpen our sensibility. Attention to these sensory experiences is also critical in architectural practice and urban planning which tend to be dominated by the visual orientation (Pearson 1991; Pallasmaa 1999)[^pallasmaa-1999][^pearson-1991].
+
+Part of what determines the ambiance or atmosphere is human interactions. The character of such interactions is constituted by the participants’ personality and relationships with others that are subject to aesthetic considerations. In addition to what one does and says, one can be considered warm, cold, formal, aloof, friendly, intimidating, gentle, and so forth, largely due to aesthetic factors such as tone of voice, way of speaking, facial expression, bodily gesture and posture, and outward presentation such as clothing, hair style, ornamentation, and the like. Sometimes the moral character of one’s action is assessed by aesthetic dimensions over and beyond what the action accomplishes. For example, one may gobble up a lovingly prepared and meticulously arranged meal carelessly and indifferently, or one may take time and savor every bite respectfully and mindfully to show one’s respect for the food and appreciation for the cook. One can close a door roughly, making a loud noise and startling others, or one can close it gently and carefully so as not to disturb others. Finally, one can help a person in need grudgingly and spitefully or do so with care and good cheer (Buss 1999; Sherman 2005; Naukkarinen 2014; Shusterman 2016; Saito 2016, 2022)[^buss-1999][^naukkarinen-2014][^sherman-2005][^shusterman-2016].
+
+In these examples, important desiderata in aesthetic experiences can also be regarded as desirable in human relationships: open-mindedness to accept and appreciate diversity, respect and reciprocity, full and sincere engagement, among others. Established as a sub-category of everyday aesthetics by Arnold Berleant, social aesthetics calls attention to the fact that the aesthetics plays a surprising and often unrecognized role in determining the moral character of actions, persons, and human interactions (Eaton 2001; Berleant 2010, 2012, 2023a; Saito 2022)[^berleant-2010][^eaton-2001][^saito-2022].
+
+Furthermore, social aesthetics promotes cultivating virtues through everyday practice. One’s kindness, compassion, thoughtfulness, and respect require appropriate expressions guided by aesthetic sensibility and skills, in addition to accomplishing a certain deed. Harmonious and cooperative interaction with others also requires not only appropriate cultural knowledge but also aesthetic sensibility to decipher group dynamics and determine how best to help create a certain atmosphere (Naukkarinen 2014)[^naukkarinen-2014]. A mere conceptual understanding of the importance of aesthetic considerations in these interactions is not sufficient. Embodied practice is required to contribute to aesthetically-minded social interactions (Saito 2022)[^saito-2022].
+
+## 7. Action-Oriented Aesthetics
+
+Social aesthetics also sheds light on another new avenue of inquiry ushered in by everyday aesthetics: the first person account of the aesthetic dimension of *doing* things instead of, or in addition to, the experience gained as a spectator or beholder. The traditional mode of aesthetic inquiry is primarily concerned with analyzing the aesthetic experience of a spectator who derives aesthetic pleasure from contemplating an object (or a phenomenon or an event). Even in such an experience, as Dewey’s characterization of ‘undergoing’ and ‘doing’ and Berleant’s engagement model indicate, the person is never passive; she is actively engaged with the object through exercising imagination and interacts with it perceptually, intellectually, and emotionally. However, in the most literal sense, she is still an onlooker of the object: a painting, a symphony, a tea bowl, a figure skating performance, a flower garden, a piece of furniture, an automobile, a house, and a freshly laundered shirt.
+
+While everyday aesthetics includes such spectator-oriented aesthetics, a major part constituting the flow of everyday life is our active engagement with doing things by handling an object, executing an act, and producing certain results, often motivated by aesthetic considerations. Until recently, very little had been explored of the aesthetic dimensions of active involvement in painting a canvas, playing a violin, skating, gardening, repairing a garment, hanging laundry outdoors, and giving birth (Rautio 2009; Brook 2012; Lintott 2012; Saito 2025)[^brook-2012][^lintott-2012][^rautio-2009][^saito-2025]. Perhaps food aesthetics illustrates this contrast most clearly. Food aesthetics generally focuses on the taste of the food rather than the experience of eating itself or the activity of cooking (except for Curtin and Heldke 1992; Visser 1997; Giard 1998; Korsmeyer 1999; Shusterman 2013; Perullo 2016; Saito 2026)[^curtin-1992][^giard-1998][^korsmeyer-1999][^perullo-2016][^saito-2026][^shusterman-2013][^visser-1997].
+
+The difficulty of accounting for the aesthetics involved in these activities from the participants’ perspective is the same difficulty facing ambient aesthetics: the lack of clear delineation of object-hood of aesthetic experience. The constituents of an aesthetic object are more or less clear in the case of a painting or a flower garden appreciated from the spectator’s point of view. Furthermore, there is an object one can point to for intersubjectivity. However, there is no equivalent ‘object’ of aesthetic experience when it comes to an activity one undertakes. This lack, according to some thinkers, signals the demise of any reasonable discussion as the subject matter becomes hopelessly private with little possibility of intersubjective discourse. While we can meaningfully debate the aesthetic merit of a painting or a flower garden by giving reasons to justify our judgment, it is difficult to imagine an equivalent discussion of my experience of bodily engagement when executing brush ink painting or digging the ground and planting flowers for the flower garden.
+
+If one accepts John Dewey’s notion of having “an experience” which gives an aesthetic character to whatever experience one is undergoing, it becomes a challenge to facilitate a critical discourse to determine whether or not one is truly having “an experience.” The act of planting flowers involves a multi-sensory experience and bodily engagement, as well as designing the garden’s layout. These ingredients may come together in a unified manner to give rise to a sense of joy felt by the gardener at the arrival of spring and the anticipation of fully-blossomed flowers. It is difficult to imagine how this gardener’s experience can be subjected to a critical discourse in the same way the flower bed gets evaluated aesthetically for its design. Can we have a debate about whether the gardener’s experience was truly aesthetic or whether it provided a rich or only mediocre aesthetic experience? If not, is this aspect of our life forever closed to any mode of aesthetic inquiry?
+
+The difficulty felt here regarding the aesthetics of ambiance and actions could be attributed to the mode of contemporary Western aesthetic inquiry which is predominantly judgment-oriented (Böhme 1993)[^böhme-1993]. Much of mainstream aesthetic debate surrounds the objectivity and justifiability of aesthetic judgment. A judgment presupposes the determinability of an object and its intersubjectively sharable experience. Anything falling outside of it is considered hopelessly subjective and relativistic. However, phenomenological accounts of bodily engagement in cooking, sports, and other mundane activities are plentiful not only in some aestheticians’ descriptive aesthetics writings but also, perhaps more commonly, in writings by practitioners and literary authors (Curtin and Heldke 1992; Giard 1998; Rautio 2009; Tainio 2015; several essays in Man and Petts 2023)[^curtin-1992][^giard-1998][^man-2023][^rautio-2009][^tainio-2015]. Body aesthetics is also garnering more attention in recent philosophy and a large part of its concern is the bodily engagement in aesthetic experience (Bhatt 2013; Irvin 2016)[^bhatt-2013][^irvin-2016].
+
+Furthermore, some agree that the practice of mundane activities, domestic chores in particular, provides an opportunity for one to exercise imagination and creativity to inspire an aesthetic experience (McCracken 2001; Lee 2010; Highmore 2011a; Saito 2025)[^highmore-2011a][^lee-2010][^mccracken-2001][^saito-2025]. For example, the activity of outdoor laundry hanging can be a chance for the person to arrange and hang the items in an aesthetically pleasing way to express her respect and thoughtfulness toward her neighbors and passersby who are inevitably exposed to the visual parade of laundered items. At the same time, this activity will occasion her appreciation of the arrival of spring after a long winter, as well as anticipation of the sweet smell and crisp texture of dried items thanks to the sunshine and fresh air carried by the breeze (Rautio 2009; Saito 2017)[^rautio-2009][^saito-2017]. Dismissing these experiences from aesthetic discourse because they do not fit the expected format of analysis and cannot be subjected to a verdict-oriented discourse unduly impoverishes the rich content of our aesthetic life. In addition, these experiences are not hopelessly private and it is possible that they are generated and shared communally. Gardening, cooking, and participation in sporting activities can be a group activity and the participants can share and help with each other to mutually enrich and enhance aesthetic experiences by pointing out the aesthetic contribution of some aspects that others may have missed.
+
+Indeed, it is crucial for everyday aesthetics that these private experiences to be intersubjectively communicable. If the aesthetic dimensions of our everyday life are important (and this conviction is what gave rise to everyday aesthetics in the fist place), then one of its tasks is to justify the value of seemingly monadistic experiences by facilitating what aesthetic experience in general does best: encouraging openness by sharing others’ experiences, viewing the world from perspectives different from one’s own, and enlarging one’s horizon and vision (Ratiu 2017a)[^ratiu-2017a]. Aesthetic experience understood in this way supports its educability, educational value, and contribution to enhancing life (Potgieter 2017)[^potgieter-2017].
+
+## 8. Blurring the Line between Art and Life
+
+The emergence of everyday aesthetics discourse parallels the increasing attempt at blurring the distinction between art and life in today’s artworld. Although there have been many examples throughout art history of *depicting* slices of everyday life, such as Dutch still life paintings, twentieth-century art introduced and experimented with different modes of appropriating everyday life, most famously with the use of ready-mades. Since then, artists have been trying to overcome the presumed separation between art and real life in a number of ways: rejecting the art institutional setting as a location for their art; denying the necessity of authorial authority; embracing various changes made to their works both by nature and human agency; blurring the creator/spectator dichotomy by collaborating with the general public to create art as a joint venture; changing the role of the artist from the creator/choreographer to a facilitator who provides an occasion or an event for things to happen; literally improving the environment and society by planting trees, cleaning a river, and playing the role of a social worker to promote a dialogue among people in conflict; and engaging in mundane activities like cooking and farming with tangible products for consumption. These attempts have given rise to a number of genres, including situationist art, conceptual art, environmental art, happening, performance, activist art, socially engaged art, and art projects characterized as embodying “relational aesthetics” or “dialogical aesthetics” (Kaprow 1993; Spaid 2002, 2012; Bourriaud 2002; Kester 2004, 2011; Dezeuze 2006; Johnstone 2008; Bishop 2012)[^bishop-2012][^bourriaud-2002][^dezeuze-2006][^johnstone-2008][^kaprow-1993][^kester-2004][^spaid-2002].
+
+Paralleling the movement of art to embrace everyday life, there is a movement in the opposite direction: for everyday life to embrace art. While aestheticization of life is not a new phenomenon, what is noteworthy in the so-called organizational aesthetics and artification strategy is that they deploy art and art-like ways of thinking and acting in those areas of life which have not been traditionally associated with art or aesthetics: medicine, business, education, sports, and science, among others, as well as organizational life in general (Darsø 2004; Naukkarinen and Saito 2012; Ratiu 2017b)[^darsø-2004][^naukkarinen-2012][^ratiu-2017b]. These professional practices typically privilege rational discourse comprised of logic and rules, but they cannot ignore their aesthetic dimensions. Art and aesthetics in this context are not regarded as decorative amenities or prettifying touches. Rather, organizational aesthetics and artification strategy are based upon the premise that humans negotiate life, whatever the context may be, through sensory knowledge and affective experiences by interacting with others and the environment. As such, working with the aesthetic dimensions of these professional activities and environments cannot but help achieve the respective goals and, perhaps more importantly, contribute to the wellbeing of the members and participants. Art and aesthetics can be a powerful ally in directing human endeavors and actions and determining the quality of activities and environments. Such effects range from facilitating creativity and imagination in educational and business ventures and providing humane and healing environments for vulnerable populations, such as hospital patients and nursing home residents, to rendering scientific data easily graspable (Pine and Gilmore 1998; Linstead 2000; Postrel 2003; Howes 2005, 2013; Duncum 2007; Tavin 2007; Dee 2010, 2012; Schulze 2013; Moss and O’Neill 2013, 2014; Ratiu 2017b; Krawczyk 2019; many essays in Poltrum, et al 2025)[^dee-2010][^howes-2005][^krawczyk-2019][^linstead-2000][^moss-2013][^pine-1998][^postrel-2003][^ratiu-2017b][^schulze-2013][^tavin-2007].
+
+As stated at the beginning of this entry, everyday aesthetics was first proposed as a way of accounting for those aesthetically charged dimensions of our lives that had not been adequately addressed by art-centered aesthetics. However, early works of everyday aesthetics, such as given by Saito (2007), are criticized for a rather outdated and overly restrictive characterization of so-called art-centered aesthetics. The presumed distinguishing conditions of art-aesthetics, such as a relatively clear frame, privileging higher senses, authorial identity, stable identity of the object, and the spectator mode of experience, are no longer applicable to many examples of art today. Consequently, the critics urge everyday aesthetics to go beyond simply providing a venue to enumerate those aesthetic dimensions of everyday life that had previously been overlooked and to provide a conceptual foundation. In particular, they advocate conceiving everyday aesthetics as a continuation of aesthetics discourse that had previously been focused on art. This debate is described variously as between the weak and strong formulations, continuistic and discontinuistic poles, extraordinarilist and familiarity stances, or monolithist and pluralist models (see Dowling 2010; Ratiu 2013; Iannilli 2016; Matteucci 2016 for a clear and helpful “mapping” and “nomenclature” of these strands of everyday aesthetics)[^dowling-2010][^iannilli-2016][^matteucci-2016][^ratiu-2013].
+
+Those who support the continuity model are specifically concerned to provide a basis for intersubjectivity and normativity for everyday aesthetics by referencing these features that support aesthetics discourse in general. Without such a framework, the worry is that everyday aesthetics may degenerate into a totally subjective, laissez faire affair which would render the entire project trivial. Unless we presuppose the possibility of a *sensus communis*, that is, communicability though not necessarily commonality, which makes sharing and understanding the other’s experience possible, we are locked into a subjective, solipsistic silo. Furthermore, they point out that the monadic characterization of everyday aesthetics within the general aesthetics discourse is not conducive to fruitfully accounting for the ways in which everyday life and art interact and form a continuous, ongoing flux of a person’s embodied experience of the lived world. Popular and socially engaged forms of art permeate people’s everyday life more than ever and there is no reason not to consider experiencing them as a pervasive dimension of their lived world. Ultimately, the nature of art is open and dynamic and is very much an integral part of people’s life, and everyday aesthetics is better served by considering the continuity between art and everyday. In other words, the initial reactionary mode of everyday aesthetics needs to be recast as a proactive mode that addresses the totality of our aesthetic engagement with the world, which includes art, nature, and the everyday (Ratiu 2013; Potgieter 2017)[^potgieter-2017][^ratiu-2013]. Although approaching the issue from a different angle, another possibility is to develop Rancière’s distribution of the sensible and explore what is deemed aesthetically relevant within a specific cultural/historical/social context. For the consideration of the regime of the sensible, the presumed distinction between art and life becomes irrelevant (Vihalem 2018)[^vihalem-2018].
+
+## 9. Significance of Everyday Aesthetics
+
+As the increasingly prevalent phenomenon of aestheticization of life indicates, the aesthetic has a significant power to influence, sometimes determine, the quality of life and society. While the power of everyday aesthetics can be harnessed to improve the quality of life, it can also be used to serve a political agenda or a business goal. As stated in the sections on the Everyday Aesthetic Qualities and Action-Oriented Aesthetics above, everyday aesthetic responses often directly guide people’s actions. If something attracts us with its aesthetic appeal, we tend to protect it, purchase it, or try to maintain its aesthetic value; on the other hand, if we don’t find an object or an environment aesthetically appealing, we tend to be indifferent to its fate, discard it, or try to make it more attractive (Nassauer 1995; Orr 2002)[^nassauer-1995][^orr-2002]. In particular, today’s global capitalist economy is fueled by ‘perceived obsolescence’ regarding products’ fashionableness and stylishness with little to no improvement in their functional values. Additional aesthetic ‘hidden persuaders’ include branding, advertising campaigns, and aesthetically orchestrated store environments (Pine and Gilmore 1998, 2013; Postrel 2003; Schulze 2013; Böhme 2017)[^böhme-2017][^pine-1998][^postrel-2003][^schulze-2013]. These positive aesthetic values of and surrounding a product often hide various instances of ‘ugliness’ involved in its manufacturing process and afterlife. The negative aesthetics associated with manufacturing includes environmental devastation caused by resource extraction and pollution, and dismal working conditions of the factory workers, often in developing nations, who are forced to endure aesthetic damage and deprivation, not to mention health and safety hazards. The negative aesthetics of the product’s afterlife can be seen in the ever-increasing volume of discarded items, no longer considered trendy and fashionable, not only in municipal landfills but in the ocean. Such ‘trash’ is also shipped to developing nations where re-usable, and often toxic, parts are harvested by local people with no protective gear (Saito 2018)[^saito-2018].
+
+Negative consequences of people’s aesthetic preference can also be found in the uniformly perfect appearance of fruits and vegetables on the store shelf. The deformed and misshapen items are sometimes discarded, causing not only literal waste but also creation of methane gas from rotting produce. The American attraction to the weed-free, velvety-smooth, uniformly green lawn has serious environmental ramifications, such as excessive use of water, chemical fertilizer, herbicide, and insecticide. When outdoor laundry hanging and wind turbines are judged to be an eyesore, communities create an ordinance to prohibit them, preventing the opportunity to create a more sustainable way of living (Duerksen and Goebel 1999; Gipe 2002; Gray 2012; Saito 2017)[^duerksen-1999][^gipe-2002][^gray-2012][^saito-2017].
+
+Contrariwise, the success of sustainable design and goods produced under humane conditions often depends upon the acceptance of new aesthetic paradigms, such as gardens consisting of wildflowers or edible plants, garments and furniture made with recycled or reused materials, and green buildings that reduce literal footprints on the land as well as carbon footprints (Walker 2006, 2017; Salwa 2019)[^salwa-2019][^walker-2006]. Some work has also been done to explore the ways in which moral virtues such as respect, thoughtfulness, and humility can be expressed not only by persons but also by the aesthetic features of objects and built structures and environments (Norman 1990; Whiteley 1993, 1999; Sepänmaa 1995a, 1995b; Pallasmaa 1999; Taylor 2000; Orr 2002; Berleant and Carlson 2007; Berleant 2010, 2012; Saito 2017, 2022)[^berleant-2010][^berleant-2007][^norman-1990][^orr-2002][^pallasmaa-1999][^saito-2017][^sepänmaa-1995a][^taylor-2000][^whiteley-1993]. In addition, as indicated by social aesthetics, cultivation of aesthetic sensibility and practice of aesthetic skills can contribute to facilitating respectful, thoughtful, and humane social interactions
+
+The relationship between the aesthetic and the ethical has been one of the contested issues in the aesthetics discourse regarding art. Debates ensue regarding the aesthetic relevance of the moral content of art, the artist’s or performer’s character, and the process involved in creating a work of art. The positions range from their complete separation supported by aestheticism or autonomism to their integration advocated by moralists. Just as in art-centered aesthetics, there are differing views on whether or not and to what degree the ethical implications should affect the aesthetic value of the objects of daily use. Some prefer to separate them and protect the autonomous realm of the aesthetic (Parsons and Carlson 2008; Forsey 2013)[^parsons-2008]. Others advocate integration by calling for an aesthetic paradigm shift (Orr 2002; Maskit 2011)[^maskit-2011][^orr-2002] not only by explicitly including the moral dimensions of objects and environments when considering their aesthetic values but also by rethinking the fundamental ways in which we humans interact with the material world. At least according to the Western tradition, the material world lacks any agency in a morally relevant sense and its value is exhausted by its instrumental utility to humans. However, just as the long-held Western anthropocentric attitude toward nature has come under scrutiny, some thinkers propose a more respectful attitude toward and interaction with the material world (Ingold 2000; Nielsen 2005; Brook 2012; Perullo 2016; Saito 2022)[^brook-2012][^ingold-2000][^nielsen-2005][^perullo-2016][^saito-2022].
+
+The moral, social, and political significance of everyday aesthetics is perhaps most acute in body aesthetics. Culturally- and socially-constructed, and often impossible to achieve, aesthetic standards of the human body lead people to engage in various beauty practices, ranging from cosmetic surgery and extreme dieting to ingestion of dangerous substances and bleaching of the skins, which often compromise health (Brand 2000, 2012; Lintott 2003; Rhode 2010; Archer and Ware 2018; Widdows 2018)[^archer-2018][^brand-2000][^lintott-2003][^rhode-2010][^widdows-2018]. Aesthetics is also implicated as a primary instrument of justifying the societal oppression of disabled, sexed, gendered, or racialized bodies. Those individuals whose bodies do not meet the aesthetic standard suffer from an unfounded perception that their physical appearance correlates with their competence, intelligence, and moral character, and are subjected to many forms of injustice and discrimination in employment, social standing, personal relationships, and economic status. Aesthetic qualifications for an ideal body can be explicitly institutionalized as in Nazism or policies requiring a certain appearance of employees, or implicitly referenced to reinforce the existing stereotype of the oppressed groups (Garland-Thomson 2009; Siebers 2010; Irvin 2016; P. Taylor 2016; also see the entries on feminist perspectives on the body, feminist perspectives on disability, and feminist perspectives on objectification)[^garland-thomson-2009][^irvin-2016][^siebers-2010][^taylor-2016].
+
+The utilization of aesthetics as a strategy for consumerism and political agenda has thus been a concern for everyday aesthetics. Aesthetic appeal can entice people to embrace, support, and promote problematic causes that may be ultimately contrary to their wellbeing and quality of life, as well as to the ideal of justice and democracy. Instead of nurturing citizens and civil society engaged in a thoughtful and informed exchange, discussion, and critical reflections of ideas, aestheticization of everyday life is often used to cultivate consumers for the market, audience for political spectacles, and accomplices in perpetuating oppression and injustice. However, this danger of aestheticization of everyday life is not necessarily inevitable. Some argue that it is possible and indeed critical that we encourage an aestheticization strategy in the service of promoting justice, democracy, citizenry, and civil discourse (Nielsen 2005; Matteucci 2017)[^matteucci-2017][^nielsen-2005].
+
+## 10. New and Future Developments
+
+While everyday aesthetics has matured significantly since its relatively recent emergence in the Western aesthetics discourse, there still remain many tasks to be tackled. In light of the new developments described below, possibilities and opportunities abound to guide the future of everyday aesthetics.
+
+First, many critics, as well as supporters, of everyday aesthetics point out that it needs to be anchored in a firm theoretical foundation (Forsey 2013a; Ratiu 2013; Iannilli 2016)[^forsey-2013a][^iannilli-2016][^ratiu-2013]. Among the possibilities suggested are finding roots in phenomenology, structuralism and poststructuralism, in addition to pragmatism that is often cited as the primary root (Potgieter 2017)[^potgieter-2017]. Also suggested is to frame everyday aesthetics as a practical philosophy with its emphasis on practical knowledge that is contingent and relational as well as providing agency for acting for common good (Vihalem 2016; Ratiu 2017a)[^ratiu-2017a][^vihalem-2016]. Another suggestion is to provide a theory of aesthetic perception based upon a specific mode of attention (Nanay 2016, 2018)[^nanay-2016]. These suggestions are made specifically to address the perceived conflicts and tensions debated by everyday aestheticians between everyday and non-everyday, life and art, theory and practice, ordinary and extraordinary, routine and non-routine, familiar and unfamiliar, and bodily-oriented (lower) senses and cognitively-oriented (higher) senses. A firm theoretical footing should also support intersubjectivity of aesthetic experience so as not to render everyday aesthetics hopelessly subjective and trivial, one of the common criticisms lodged against it. In addition, a theoretical foundation is thought to help illuminate the political dimensions of everyday aesthetics, specifically the politically charged regime of the sensible and the increasing aestheticization of commerce and politics that treats people more as consumers than as citizens.
+
+Second, as was discussed in Section 2, what counts as everyday is a complicated matter, and one of the complications is the fact that our lived world is changing rapidly owing to technological development and climate change. We cannot imagine our everyday life today without the use of internet, social media, Googling, big data, virtual reality, and the like, which dramatically altered the life of older generations. In addition, the envisioned future with smart homes, self-driving vehicles, wearable technology, and AI is already here, affecting the nature of our everyday life by the integration of the digital world and virtual reality (Łukaszewicz and Petri 2022). Furthermore, many people’s natural and built environments are bound to be transformed by climate change, compromising the security and stability of ‘home’ for many and drastically changing their everyday affairs and cultural practices (Nomikos 2018)[^nomikos-2018]. While these transformations of the everyday may be incremental, some changes are rather abrupt and unexpected due to a one-off event such as a natural disaster and warfare. Finally, one’s life circumstances, such as poverty, can make their everyday life precarious, robbing them of a stable anchor for their ongoing struggles (Enroth 2021)[^enroth-2021].
+
+It may be the case that the new normal for our everyday world will become a rapid and constant change. This future projection may require everyday aestheticians to review some of the presuppositions that have supported their thinking, the primary among them being the characterization of the everyday as stability, routine, safety, familiarity, and comfort with a more or less predictable future prospect. The challenge then is to explore whether and how the changing experiences of the everyday affect the nature of everyday aesthetics. Some works have already begun, indicated by the research on the effects of self-driving vehicles (Mladenović, et al 2019), cartographical tools (Iannilli 2014; Lehtinen 2019)[^iannilli-2014][^lehtinen-2019], the prevalence of all kinds of machine in general (Naukkarinen 2019)[^naukkarinen-2019], and the effects of AI on aesthetics as a discourse (Iannilli and Naukkarinen 2025)[^iannilli-2025].
+
+While the specific issues to address may vary according to how the world itself and one’s life circumstances change, one could argue that the general issues in everyday aesthetics remain constant. One such issue is aesthetic engagement with the world through embodied experience. This ranges from how one uses digital technology in the management of everyday life to the visceral experience of one’s living environment being destroyed and dealing with constant precarity of life prospects. Another issue is the power of the aesthetic to help one cope with challenging life circumstances, whether caused by illness, poverty, losing loved ones, or destruction of home and community (many articles in Poltrum et al 2025; Higgins, 2024; Al Qudwa 2017)[^poltrum-2025].
+
+Third, everyday aesthetics has become influential in various disciplines and practices outside of philosophical discourse. As indicated by many works included in the bibliography, everyday aesthetics has been embraced as providing both principles and strategies by fields ranging from business, consumerism, healthcare, sports, law, science, and education to urban studies, sustainability, fashion, and design. This wide acceptance and utilization of everyday aesthetics is due to its insight regarding the prevalence of aesthetics in everyone’s lived world, as well as its aspiration that cultivation of aesthetic literacy and sensibility will contribute to improving one’s wellbeing, social interactions, and the state of the society and the world. But the challenge, as well as opportunity, posed by these heterogeneous discipline-specific practices is to inquire whether there is an overarching unifying notion of aesthetic experience and aesthetic practice. Even if there is a unifying notion, a further question is whether we should arrive at such a notion by building on case studies from these various disciplines (Vihalem 2016)[^vihalem-2016].
+
+Finally, in light of an increasing attention to the culture-specific nature of various discourses, everyday aesthetics faces both the opportunity and challenge for situating in a global context. Globalization of aesthetics is actively sought particularly regarding art, by decolonizing the discourses of art, art history, and museum practice. It was explained at the beginning of this entry that everyday aesthetics’ emergence was historically and culturally situated to challenge what was considered to be art-centered aesthetics that dominated the Western aesthetics of the last century. In many cultural traditions, including those that do not have a concept equivalent to the Western notion of art, there is a long legacy of aesthetic interests and concerns permeating, informing, and guiding people’s lives, whether regarding the management of daily life, social relationships, spiritual rites, cultural activities, or creation of objects (see Higgins 1996 and Higgins, et al. 2017 for a collection of essays representing diverse non-Western aesthetic traditions)[^higgins-1996]. For example, the long-held Chinese tradition of “aesthetics of living” that has been practiced as a way of enhancing the quality of lived experience and contributing to people’s happiness and wellbeing, rather than conceived as an abstract theory, is receiving a renewed attention by Chinese scholars who are working on a cross-cultural dialogue (Liu 2014, 2017, 2018; Pan 2014; Q. Wang 2014)[^liu-2014][^liu-2014-2][^pan-2014][^wang-2014]. Similarly, Japanese cultural tradition is garnering an increasing interest by those who are exploring how its aesthetic interests goes beyond the established arts to inform people’s everyday lives (Ikegami 2005; Sasaki 2013; Otabe 2018)[^ikegami-2005][^otabe-2018][^sasaki-2013]. Researching how different cultural traditions promote their respective everyday aesthetic practices helps to highlight the cultural situatedness of some assumptions of Western philosophy and aesthetics, such as the relationships between art and life, the theoretical and the practical, the subject and the object, as well as between and among the aesthetic, the moral, the social, the practical, the existential, and the spiritual.
+
+Everyday aesthetics began its task in the spirit of inclusivity by expanding the materials for deliberation. The discourse continues its task with the same spirit of inclusivity by encouraging culture-specific, discipline-specific, and future-speculative explorations, while at the same time searching for a theoretical foundation that allows for intersubjective, intercultural, and interdisciplinary exchanges.
+
+## References（引用注释）
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+## Academic Tools
+
+> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-of-everyday). |
+> | --- | --- |
+> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/aesthetics-of-everyday/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetics-of-everyday&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/aesthetics-of-everyday/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+- [Aesthetic Investigations](https://aestheticinvestigations.eu), open access journal
+- [Aesthetics Today](http://aestheticstoday.blogspot.com/), blog
+- [Aisthesis](https://oajournals.fupress.net/index.php/aisthesis), open access journal
+- [Ambiances, International Journal of Sensory Environment, Architecture and Urban Space](http://ambiances.revues.org/), open access journal
+- [Cloud-Cuckoo-Land: International Journal of Architectural Theory](http://www.cloud-cuckoo.net/intro/), open access journal
+- [Contemporary Aesthetics](http://www.contempaesthetics.org/), open access journal
+- [Espes](https://espes.ff.unipo.sk/index.php/ESPES), open access journal
+- [Evental Aesthetics](http://eventalaesthetics.net/), open access journal
+- [Evanetwork](https://www.evanetwork.eu/), a consortium dedicated to exploring everyday aesthetics.
+- [Filozofski vestnik](http://www.openhumanitiespress.org/journals/titles/filozofski-vestnik/), open access journal
+- [Interference Journal: A Journal of Audio Cultures](http://www.interferencejournal.org/), open access journal.
+- [Journal of Aesthetics & Culture](https://www.tandfonline.com/loi/zjac20), open access journal
+- [Journal of Somaesthetics](https://somaesthetics.aau.dk/index.php/JOS), open access journal
+- [Lebenswelt: Aesthetics and Philosophy of Experience](https://riviste.unimi.it/index.php/Lebenswelt), open access journal
+- [Rivista di estetica](http://mimesisedizioni.it/journals/index.php/studi-di-estetica/index), open access journal
+- [The Nordic Journal of Aesthetics](https://tidsskrift.dk/nja), open access journal
+
+## Related Entries
+
+Adorno, Theodor W. | aesthetics: aesthetic judgment | aesthetics: environmental | aesthetics: existentialist | art, definition of | Baudrillard, Jean | beauty | Benjamin, Walter | Chinese Philosophy: Chan Buddhism | Dewey, John: aesthetics | feminist philosophy, interventions: aesthetics | Foucault, Michel | Heidegger, Martin: aesthetics | Japanese Philosophy: aesthetics | Kant, Immanuel: aesthetics and teleology | Merleau-Ponty, Maurice | Schiller, Friedrich
+
+[^this-nd]: This bibliography includes only contemporary works in English. For classical philosophical works and non-Western traditions, consult respective entries.
+
+[^ackerman-1991]: Ackerman, Diane, 1991, *A Natural History of the Senses*, New York: Vintage Books.
+
+[^al-2017]: Al Qudwa, Salem Y., 2017, “Aesthetic Value of Minimalist Architecture in Gaza”, *Contemporary Aesthetics*, 15: article 14. [[Al Qudwa 2017 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol15/iss1/14/)]
+
+[^ameel-2011]: Ameel, Lieven and Sirpa Tani, 2011, “Everyday Aesthetics In Action: Parkour Eyes and the Beauty of Concrete Walls”, *Emotion, Space and Society*, 5(3): 164–173.
+
+[^anderson-2020]: Anderson, Erik, 2020, “Aesthetic Appreciation of Silence”, *Contemporary Aesthetics*, 18. [[Anderson 2020 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol18/iss1/15/)]
+
+[^archer-2018]: Archer, Alfred and Lauren Ware, 2018, “Beyond the Call of Beauty: Everyday Aesthetic Demands Under Patriarchy”, *The Monist*, 101(1): 114–127.
+
+[^attfield-2000]: Attfield, Judy, 2000, *Wild Things: The Material Culture of Everyday Life*, Oxford: Berg.
+
+[^bennett-2010]: Bennett, Jane, 2010, *Vibrant Matter: A Political Ecology of Things*, Durham: Duke University Press.
+
+[^bennett-2012]: Bennett, Jill, 2012, *Practical Aesthetics: Events, Affects and Art after 9/11*, London: I.B.Tauris.
+
+[^barthes-1990]: Barthes, Roland, 1990, *Mythologies*, Annette Lavers (trans.), New York: The Noonday Press.
+
+[^berleant-1970]: Berleant, Arnold, 1970, *Aesthetic Field: A Phenomenology of Aesthetic Experience*, Springfield: Thomas.
+
+[^berleant-1991]: –––, 1991, *Art and Engagement*, Philadelphia: Temple University Press.
+
+[^berleant-1992]: –––, 1992, *The Aesthetics of Environment*, Philadelphia: Temple University Press.
+
+[^berleant-1997]: –––, 1997, *Living in the Landscape: Toward an Aesthetics of Environment*, Lawrence: University Press of Kansas.
+
+[^berleant-2004]: –––, 2004, *Re-thinking Aesthetics: Rogue Essays on Aesthetics and the Arts*, Aldershot: Ashgate.
+
+[^berleant-2010]: –––, 2010, *Sensibility and Sense: The Aesthetic Transformation of the Human World*, Exeter: Imprint Academic.
+
+[^berleant-2012]: –––, 2012, *Aesthetics Beyond the Arts: New and Recent Essays*, Aldershot: Ashgate.
+
+[^berleant-2023a]: –––, 2023a, *The Social Aesthetics of Human Environments*, London: Bloomsbury.
+
+[^berleant-2023b]: –––, 2023b, “Whose Everyday? On the Cultural Aesthetics of Everyday Life”, *Applying Aesthetics to Everyday Life: Methodologies, History and New Dierections*, Lisa Giombni and Adrian Kvokačka (eds.), London: Bloomsbury Academic: 65–69.
+
+[^berleant-2007]: Berleant, Arnold and Allen Carlson (eds.), 2007, *The Aesthetics of Human Environments*, Peterborough: Broadview Press.
+
+[^besson-2017]: Besson, Anu Marjeaana, 2017, “Everyday Aesthetics on Staycation as a Pathway to Restoration”, *International Journal of Humanities and Cultural Studies*, 4(3): 34–52. [[Besson 2017 available online](https://www.ijhcs.com/index.php/ijhcs/article/view/3085)]
+
+[^bhatt-2013]: Bhatt, Ritu, (ed.), 2013. *Rethinking Aesthetics: The Role of Body in Design*, New York: Routledge.
+
+[^bishop-2012]: Bishop, Claire, 2012, *Artificial Hells: Participatory Art and the Politics of Spectatorship*, London: Verso.
+
+[^böhme-1993]: Böhme, Gernot, 1993, “Atmosphere as the Fundamental Concept of a New Aesthetics”, David Roberts (tr.), *Thesis Eleven*, 36: 113–126.
+
+[^böhme-1998]: –––, 1998, “Atmosphere as an Aesthetic Concept”, *Daidallos*, 68: 112–115.
+
+[^böhme-2003]: –––, 2003, “Contribution to the Critique of the Aesthetic Economy”, *Thesis Eleven*, 73: 71–92.
+
+[^böhme-2010]: –––, 2010, “On Beauty”, *The Nordic Journal of Aesthetics*, 39: 22–33.
+
+[^böhme-2017]: –––, 2017, *Critique of Aesthetic Capitalism*, Edmund Jephcott (trans.), Mimesis International.
+
+[^bourdieu-1984]: Bourdieu, Pierre, 1984, *Distinction: A Social Critique of the Judgement of Taste*, Richard Nice (trans.), Cambridge, Massachusetts: Harvard University Press.
+
+[^bourriaud-2002]: Bourriaud, Nicolas, 2002, *Relational Aesthetics*, Simon Pleasance and Fronza Woods (tr.), Dijon: les presses du réel.
+
+[^brady-2005]: Brady, Emily, 2005, “Sniffing and Savoring: The Aesthetics of Smells and Tastes”, *The Aesthetics of Everyday Life*, Andrew Light and Jonathan M. Smith (eds.), New York: Columbia University Press, pp. 177–193.
+
+[^brand-2000]: Brand, Peg Zeglin (ed.), 2000, *Beauty Matters*, Bloomington: Indiana University Press.
+
+[^brand-2012]: ––– (ed.), 2012, *Beauty Unlimited*, Bloomington: Indiana University Press.
+
+[^brook-2012]: Brook, Isis, 2012, “Make, Do, and Mend: Solving Placelessness Through Embodied Environmental Engagement”, *Human-Environment Relations: Transformative Values in Theory and Practice*, Emily Brady P. Phemister (eds.), London: Springer, pp. 109–120.
+
+[^bullough-1912]: Bullough, Edward, 1912–13, “‘Psychical Distance’ as a Factor in Art and an Aesthetic Principle”, *The British Journal of Psychology*, 5: 87–118.
+
+[^buss-1999]: Buss, Sarah, 1999, “Appearing Respectful: The Moral Significance of Manners”, *Ethics*, 109(4): 779–826.
+
+[^calhoun-2000]: Calhoun, Cheshire, 2000, “The Virtue of Civility”, *Philosophy & Public Affairs*, 29(3): 251–275.
+
+[^carlson-2014]: Carlson, Allen, 2014, “The Dilemma of Everyday Aesthetics”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 48–64.
+
+[^chapman-2006]: Chapman, Jonathan, 2006, *Emotionally Durable Design: Objects, Experiences and Empathy*, Sterling: Earthscan.
+
+[^curtin-1992]: Curtin, Deane W. and Lisa M. Heldke (eds.), 1992, *Cooking, Eating, Thinking: Transformative Philosophies of Food*, Bloomington: Indiana University Press.
+
+[^cwerner-2003]: Cwerner, Saulo B. and Alan Metcalfe, 2003, “Storage and Clutter: Discourses and Practices of Order in the Domestic World”, *Journal of Design History*, 16(3): 229–239.
+
+[^danto-2003]: Danto, Arthur, 2003, *The Abuse of Beauty: Aesthetics and the Concept of Art*, Chicago: Open Court.
+
+[^darsø-2004]: Darsø, Lotte, 2004, *Artful Creation: Learning-Tales of Arts-in Business*, Frederiksberg, Denmark: samfundslitteratur.
+
+[^davies-2015]: Davies, David, 2015, “Sibley and the Limits of Everyday Aesthetics”, *Journal of Aesthetic Education*, 49(3): 50–65.
+
+[^davies-2016]: –––, 2016, “Applied Aesthetics”, *A Companion to Applied Philosophy*, Kasper Lippert-Rasmussen, Kimberley Brownlee, and David Coady (eds.), Chichester: Wiley-Blackwell, pp. 487–500.
+
+[^davies-2009]: Davies, Stephen, Kathleen Marie Higgins, Robert Hopkins, Robert Stecker, and David E. Cooper (eds), 2009, *A Companion to Aesthetics*, second edition, Malden: Blackwell Publishing.
+
+[^de-1988]: De Certeau, Michel, 1988, *The Practice of Everyday Life*, Steven Rendall (tr.), Berkeley: University of California Press.
+
+[^dee-2010]: Dee, Catherine, 2010, “Form, Utility, and the Aesthetics of Thrift in Design Education”, *Landscape Journal*, 29(1–10): 21–35.
+
+[^dewey-1958]: Dewey, John, 1958, *Art as Experience*, New York: Capricorn Press.
+
+[^dezeuze-2006]: Dezeuze, Anna, 2006, “Everyday Life, ‘Relational Aesthetics’ and the ‘Transfiguration of the Commonplace’”, *Journal of Visual Art Practice*, 5(3): 143–152.
+
+[^dhillon-2009]: Dhillon, Pradeep, 2009, “Aesthetic Education”, in Davies et al. 2009: 114–117.
+
+[^di-2017]: Di Stefano, Elisabetta, 2017, “Designing Atmospheres. The Role of Aesthetics in the Requalification of Space”, *Proceedings of the 2nd International Conference on Environmental Design*, Milan: De Lettera Publishers (Mediterranean Design Association), 15–21.
+
+[^di-2018]: –––, 2018, “Cosmetic Practices: The Intersection with Aesthetics and Medicine”, *Studies in Somaesthetics*, 1: 162–179.
+
+[^di-2020]: –––, 2020, “The Rhythm of Time in Everyday Aesthetics”, in Zoltán Somhegyi and Max Ryynänen (eds.), *Aesthetics in Dialogue: Applyng Philosophy of Art in a Global World*, Berlin: Peter Lang. pp. 29–38.
+
+[^diaconu-2015]: Diaconu, Madalina, 2015, “Longing for Clouds: Does Beautiful Weather Have To Be Fine?”, *Contemporary Aesthetics*, 13: article 16. [[Diaconu 2015 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol13/iss1/16/)]
+
+[^diaconu-2024]: –––, 2024, *Aesthetics of Weather*, London: Bloomsbury Academic.
+
+[^dickie-1969]: Dickie, George, 1969, “The Myth of the Aesthetic Attitude”, in John Hospers (ed.), *Introductory Readings in Aesthetics*, New York: The Free Press, pp. 28–44.
+
+[^dillard-1974]: Dillard, Annie, 1974, “Seeing”, in *Pilgrim at Tinker Creek*, New York: Harper’s Magazine Press.
+
+[^douglas-2002]: Douglas, Mary, 2002, *Purity and Danger: An Analysis of Concept of Pollution and Taboo*, London: Routledge.
+
+[^dowling-2010]: Dowling, Christopher, 2010, “The Aesthetics of Daily Life”, *British Journal of Aesthetics*, 50(3): 225–242.
+
+[^drobnick-2005]: Drobnick, Jim, 2005, “Volatile Effects: Olfactory Dimensions of Art and Architecture”, in David Howes (ed.), *Empire of the Senses: The Sensual Culture Reader*, Oxford: Berg, pp. 265–280.
+
+[^duerksen-1999]: Duerksen, Christopher J. and R. Matthew Goebel, 1999, *Aesthetics, Community Character, and the Law*, Chicago: American Planning Association.
+
+[^duncum-1999]: Duncum, Paul, 1999, “A Case for an Art Education of Everyday Aesthetic Experiences”, *Studies in Art Education*, 40(4): 295–311.
+
+[^duncum-2007a]: –––, 2007a, “Aesthetics, Popular Visual Culture, and Designer Capitalism”, *Journal of Art and Design Education*, 26: 3–285–295.
+
+[^duncum-2007b]: –––, 2007b, “Reasons for the Continuing Use of an Aesthetics Discourse in Art Education”, *Art Education*, 60(2): 46–51.
+
+[^eaton-1989]: Eaton, Marcia Muelder, 1989, *Aesthetics and the Good Life*, Rutherford: Farleigh Dickinson University Press.
+
+[^eaton-2001]: *–––*, 2001, *Merit, Aesthetic and Ethical*, Oxford: Oxford University Press.
+
+[^elkington-2015]: Elkington, Sam, 2015, “Disturbance and Complexity in Urban Places: The Everyday Aesthetics of Leisure”, in *Landscapes of Leisure*, Sean Gammon and Sam Elkington (eds.), Basingstoke: Palgrave, pp. 24–49.
+
+[^enroth-2021]: Enroth, Petteri, 2021, “Challenging Everydays: On Precarity in Everyday Aesthetics”, *Popular Inquiry: The Journal of Kitsch, Camp and Mass Culture*, 2: 38–52. [[Enroth 2021 available online](https://static1.squarespace.com/static/58763ec0c534a5e7e2b65fe2/t/61cc1610e2421064761eb02d/1640764945341/Popular+inquiry_Vol9_2021_3_Enroth_corr1.pdf)]
+
+[^farías-2011]: Farías, Gabriela, 2011, “Everyday Aesthetics in Contemporary Art”, *Rupkatha Journal on Interdisciplinary Studies in Humanities*, 3(3): 440–447. [[Farías 2011 available online](http://rupkatha.com/V3/n3/09_Everyday_Aesthetics_in_Contemporary_Art.pdf)]
+
+[^featherstone-1991]: Featherstone, Mike, 1991, *Consumer Culture and Postmodernism*, London: SAGE Publications.
+
+[^felski-2002]: Felski, Rita, 2002, “Introduction”, *New Literary History*, 33(4): 607–622.
+
+[^felski-2009]: –––, 2009, “Everyday Aesthetics”, *The Minnesota Review*, 71–72: 171–179.
+
+[^forsey-2013a]: Forsey, Jane, 2013a, *The Aesthetics of Design*, Oxford: Oxford University Press.
+
+[^forsey-2013b]: –––, 2013b, “Appraising the Ordinary–Tensions in Everyday Aesthetics”, *Proceedings of the European Society for Aesthetics*, 5: 237–245. [[Forsey 2013b available online](http://www.eurosa.org/volumes/5/ForseyESA2013.pdf)]
+
+[^forsey-2014]: –––, 2014, “The Promise, the Challenge, of Everyday Aesthetics”, *Aisthesis*, 7(1): 5–21. [[Forsey 2014 available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/828)]
+
+[^forsey-2016]: –––, 2016, “The Aesthetic Force of the Unpleasant”, *Evental Aesthetics*, 5(1): 15–24. [[Forsey 2016 available online](https://eventalaesthetics.net/)]
+
+[^friberg-2017]: Friberg, Carsten and Raine Vasquez (eds.), 2017, *Experiencing the Everyday*, København, Denmark: NSU Press. [[Friberg and Vasquez 2017 table of contents available online](https://en.unipress.dk/udgivelser/e/experiencing-the-everyday/)]
+
+[^garland-thomson-2009]: Garland-Thomson, Rosemarie, 2009, *Staring: How We Look*, Oxford: Oxford University Press.
+
+[^giard-1998]: Giard, Luce, 1998, “Doing Cooking”, in *The Practice of Everyday Life, Volume 2: Living & Cooking*, Luce Giard (ed.), Timothy J. Tomasik (tr.), Minneapolis: University of Minnesota Press, pp. 149–247.
+
+[^gier-2001]: Gier, Nicholas F., 2001, “The Dancing *Ru*: A Confucian Aesthetics of Virtue”, *Philosophy East & West*, 51(2): 280–305.
+
+[^giombini-2023]: Giombini, Lisa and Adrián Kovokačka (eds.), 2023, *Applying Aesthetics to Everyday Life*, London: Bloomsbury Academic.
+
+[^gipe-2002]: Gipe, Paul, 2002, “Design As If People Matter: Aesthetic Guidelines for a Wind Power Future”, in Martin J. Pasqualetti, Paul Gipe, and Robert W. Righter (eds.), *Wind Power in View: Energy Landscape in a Crowded World*, San Diego: Academic Press, pp. 173–212.
+
+[^graves-1998]: Graves, Jane, 1998, “Clutter”, *Issues in Architecture Art and Design*, 5(2): 63–69.
+
+[^gray-2012]: Gray, Tyson-Lord J., 2012, “Beauty or Bane: Advancing an Aesthetic Appreciation of Wind Turbine Farms”, *Contemporary Aesthetics*, 10: article 11. [[Gray 2012 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol10/iss1/11/)]
+
+[^gronow-1987]: Gronow, Jukka, 1987, *The Sociology of Taste*, London: Routledge.
+
+[^gumbrecht-2006]: Gumbrecht, Hans Ulrich, 2006, “Aesthetic Experience in Everyday Worlds: Reclaiming an Unredeemed Utopian Motif”, *New Literary History*, 37: 299–318.
+
+[^haapala-2005]: Haapala, Arto, 2005, “On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 39–55.
+
+[^haapala-2017]: –––, 2017, “The Everyday, Building, and Architecture: Reflections on the Ethos and Beauty of our Built Surroundings”, *Cloud-Cuckoo-Land: International Journal of Architectural Theory*, 22(36): 171–182.
+
+[^haapala-2011]: Haapala, Arto and Christopher Stevens (eds.), 2011, *Aesthetic Pathways*, 1(2).
+
+[^hainic-2016]: Hainic, Cristian, 2016, “Early Theoretical Models for the Aesthetic Analysis of Non-Art Objects”, *Rivista di Estetica*, 63: 188–202. doi:10.4000/estetica.1334 [[Hainic 2016 available online](http://journals.openedition.org/estetica/1334)]
+
+[^harris-2000]: Harris, Daniel, 2000, *Cute, Quaint, Hungry and Romantic: The Aesthetics of Consumerism*, Cambridge: Da Capo Press.
+
+[^higgins-1996]: Higgins, Kathleen M. (ed.), 1996, *Aesthetics in Perspective*, Fort Worth: Harcourt Brace & Company.
+
+[^higgins-2005]: –––, 2005, “Comparative Aesthetics”, *The Oxford Handbook of Aesthetics*, Jerrold Levinson (ed.), Oxford: Oxford University Press, pp. 679–692.
+
+[^higgins-2024]: –––, 2024, *Aesthetics in Grief and Mourning: Philosophical Reflections on Coping with Loss*, Chicago: The University of Chicago Press.
+
+[^higgins-1999]: Higgins, Kathleen and Joel Rudinow (eds.), 1999, Special Issue: Aesthetics and Popular Culture. *Journal of Aesthetics and Art Criticism*, 57(2).
+
+[^higgins-2017]: Higgins, Kathleen, Shakti Maira, and Sonia Sikka (eds.), 2017, Special Issue: Aesthetics and Popular Culture. *Artistic Visions and the Promise of Beauty: Cross-Cultural Perspectives*, New York: Springer.
+
+[^highmore-2002]: Highmore, Ben (ed.), 2002, *The Everyday Life Reader*, Oxon: Routledge.
+
+[^highmore-2004]: –––, 2004, “Homework: Routine, Social Aesthetics and the Ambiguity of Everyday Life”, *Cultural Studies*, 18(2/3): 306–327.
+
+[^highmore-2010]: –––, 2010, *Everyday Life and Cultural Theory: An Introduction*, Oxon: Routledge.
+
+[^highmore-2011a]: –––, 2011a, *Ordinary Lives: Studies in the Everyday*, Oxon: Routledge.
+
+[^highmore-2011b]: ––– (ed.), 2011b, *Everyday Life*, Abingdon, Oxon.
+
+[^howes-2005]: Howes, David, 2005, “HYPERESTHESIA, or, the Sensual Logic of Late Capitalism”, in *Empire of the Senses: The Sensual Culture Reader*, David Howes (ed.). Oxford: Berg, pp. 281–303.
+
+[^howes-2013]: –––, 2013, “Selling Sensation”, *New Scientist*, 219(2934): 28–29.
+
+[^howes-2014]: Howes, David and Constance Classen, 2014, *Ways of Sensing: Understanding the Senses in Society*, London: Routledge.
+
+[^iannilli-2014]: Iannilli, Gioia Laura, 2014, “Inter-facing Everydayness from Distance to Use, through the Cartographic Paradigm”, *Aithesis*, 7(1): 63–72. [[Iannilli 2014 available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/831)]
+
+[^iannilli-2016]: –––, 2016, “Everyday Aesthetics: Institutionalization and ‘Normative Turn’”, *Proceedings on the European Society for Aesthetics*, 8: 269–287. [[Iannilli 2016 available online](http://www.eurosa.org/volumes/8/ESA-Proc-8-2016-Iannilli.pdf)]
+
+[^iannilli-2017]: –––, 2017, “How Can Everyday Aesthetics Meet Fashion?”, *Studi di estetica*, serie 7: 229–246. [[Iannilli 2017 available online](http://mimesisedizioni.it/journals/index.php/studi-di-estetica/article/view/536/914)]
+
+[^iannilli-2022]: ––– (ed.), 2022, *Co-operative Aesthetics: A Quasi-Manifesto for the 21st Century*, Sesto San Giovanni: Mimesis International.
+
+[^iannilli-2025]: Iannilli, Gioia Laura and Ossi Naukkarinen (eds.) with collaboration of Enrico Glerean, 2025, *AI and Changing Aesthetics* (*Contemporary Aesthetics*, Special Volume 13). [[Iannilli and Naukkarinen available online](https://contempaesthetics.org/the-journal/)]
+
+[^ikegami-2005]: Ikegami, Eiko, 2005, *Bonds of Civility: Aesthetic Networks and the Political Origins of Japanese Culture*, New York: Cambridge University Press.
+
+[^ingold-2000]: Ingold, Tim, 2000, *The Perception of the Environment: Essays on Livelihood, Dwelling and Skill*, London: Routledge.
+
+[^interference-2019]: *Interference Journal*, 2019, Issue 7, Editorial Intro by Rob Mackay, [[available online](http://www.interferencejournal.org/archive/sense-of-place/)].
+
+[^irvin-2008a]: Irvin, Sherri, 2008a, “Scratching an Itch”, *The Journal of Aesthetics and Art Criticism*, 66(1): 25–35.
+
+[^irvin-2008b]: –––, 2008b, “The Pervasiveness of the Aesthetic in Ordinary Experience”, *British Journal of Aesthetics*, 48(1): 29–44.
+
+[^irvin-2009a]: –––, 2009a, “Aesthetics and the Private Realm”, *The Journal of Aesthetics and Art Criticism*, 67(2): 226–230.
+
+[^irvin-2009b]: –––, 2009b, “Aesthetics of the Everyday”, in Davies et al. 2009: 136–139.
+
+[^irvin-2016]: ––– (ed.), 2016, *Body Aesthetics*, Oxford: Oxford University Press.
+
+[^irvin-2025]: –––, 2025, “Aesthetic Blight, Aesthetic Agency, and Justice”, *The Journal of Aesthetics and Art Criticism*, 83(3): 211–224.
+
+[^johnstone-2008]: Johnstone, Stephen (ed.), 2008, *The Everyday*, Cambridge, MA: MIT Press.
+
+[^kaprow-1993]: Kaprow, Allan, 1993, *Essays on the Blurring of Art and Life*, Jeff Kelley (ed.), Berkeley: University of California Press.
+
+[^kester-2004]: Kester, Grant H., 2004, *Conversation Pieces: Community and Communication in Modern Art*, Berkeley: University of California Press.
+
+[^kester-2011]: –––, 2011, *The One and the Many: Contemporary Collaborative Art in a Global Context*, Durham: Duke University Press.
+
+[^kim-2013]: Kim, Kwang Myung, 2013, “The Aesthetic Turn in Everyday Life in Korea”, *Open Journal of Philosophy*, 3(3): 359–365. [[Kim 2013 available online](http://www.scirp.org/journal/paperinformation.aspx?paperid=35363)]
+
+[^korsmeyer-1999]: Korsmeyer, Carolyn, 1999, *Making Sense of Taste: Food and Philosophy*, Ithaca: Cornell University Press.
+
+[^korsmeyer-2005]: –––, 2005, *The Taste Culture Reader: Experiencing Food and Drink*, Oxford: Berg.
+
+[^korsmeyer-2011]: –––, 2011, *Savoring Disgust: The Foul & the Fair in Aesthetics*, Oxford: Oxford University Press.
+
+[^korsmeyer-2017]: –––, 2017, “Taste and Other Senses: Reconsidering the Foundations of Aesthetics”, *The Nordic Journal of Aesthetics*, 26(54): 20–34. [[Korsmeyer 2017 available online](https://tidsskrift.dk/nja)]
+
+[^korsmeyer-2019]: –––, 2019, *Things: In Touch with the Past*, Oxford: Oxford University Press.
+
+[^krawczyk-2019]: Krawczyk, Marcin M., 2019, “The Aesthetics and Financial Market: Beyond Mere Representing and Supporting”, *Contemporary Aesthetics* 17. [[Krawczyk 2019 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol17/iss1/14/)]
+
+[^kuisma-2019]: Kuisma, Oiva, Sanna Lehtinen and Harri Mäcklin (eds.), 2019, *Paths from the Philosophy of Art to Everyday Aesthetics*, Helsinki: The Finnish Society for Aesthetics. [[Kuisma et al. 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+
+[^kupfer-1983]: Kupfer, Joseph, 1983, *Experience as Art: Aesthetics in Everyday Life*, Albany: SUNY Press, 1983.
+
+[^lafebvre-1991]: Lafebvre, Henri, 1991, *Critique of Everyday Life*, John Moore (tr.), London: Verso.
+
+[^lehtinen-2019]: Lehtinen, Sanna, and Vesa Vihanninjoki, 2019, “Seeing new in the familiar: intensifying aesthetic engagement with the city through new location-based technologies”, *Behaviour and Information Technology*, 38: 1–8.
+
+[^leddy-1995]: Leddy, Thomas, 1995, “Everyday Surface Aesthetic Qualities: ‘Neat,’ ‘Messy,’ ‘Clean,’ ‘Dirty’”, *The Journal of Aesthetics and Art Criticism*, 53(3): 259–268.
+
+[^leddy-1997]: –––, 1997, “Sparkle and Shine”, *British Journal of Aesthetics*, 37(3): 259–273.
+
+[^leddy-2005]: –––, 2005, “The Nature of Everyday Aesthetics”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 3–22.
+
+[^leddy-2012a]: –––, 2012a, *The Extraordinary in the Ordinary: The Aesthetics of Everyday Life*, Peterborough: Broadview Press.
+
+[^leddy-2012b]: –––, 2012b, “Defending Everyday Aesthetics and the Concept of ‘Pretty’”, *Contemporary Aesthetics*, 10: article 8. [[Leddy 2012b available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol10/iss1/8/)]
+
+[^leddy-2014]: –––, 2014, “Everyday Aesthetics and Happiness”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 26–47.
+
+[^leddy-2015]: –––, 2015, “Experience of Awe: An Expansive Approach to Everyday Aesthetics”, *Contemporary Aesthetics*, 13: article 8. [[Leddy 2015 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol13/iss1/8/)]
+
+[^lee-2010]: Lee, Jessica, 2010, “Home Life: Cultivating a Domestic Aesthetic”, *Contemporary Aesthetics*, 8: article 15. [[Lee 2010 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol8/iss1/15/)]
+
+[^leonhardt-1985]: Leonhardt, Gay, 1985, “An Eye for Peeling Paint”, *Landscape*, 28(2): 23–25.
+
+[^light-2005]: Light, Andrew and Jonathan M. Smith, (eds.), 2005, *The Aesthetics of Everyday Life*, New York: Columbia University Press.
+
+[^linstead-2000]: Linstead, Stephen and Heather Höpfl (eds.), 2000, *The Aesthetics of Organization*, London: SAGE Publications.
+
+[^lintott-2003]: Lintott, Sheila, 2003, “Sublime Hunger: A Consideration of Eating Disorders beyond Beauty”, *Hypatia*, 18(4): 65–86.
+
+[^lintott-2012]: –––, 2012, “The Sublimity of Gestating and Giving Birth: Toward a Feminist Conception of the Sublime”, in Sheila Lintott and Maureen Sander-Staudt (eds.), *Philosophical Inquiries Into Pregnancy, Childbirth, and Mothering: Maternal Subjects*, New York: Routledge, pp. 237–250.
+
+[^liu-2014]: Liu, Yuedi, 2014, “ ‘Living Aesthetics’ from the Perspective of the Intercultural Turn”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 14–25.
+
+[^liu-2017]: –––, 2017, “The Aesthetics of Living: Rooted in Chinese Soil and Going Global”, *Confucian Academy*, 4(4): 126–131.
+
+[^liu-2018]: –––, 2018, “From ‘Practice’ to ‘Living’: Main Trends of Chinese Aesthetic in the Past 40 Years”, *Frontiers of Philosophy in China*, 13(1): 139–149.
+
+[^liu-2014-2]: Liu, Yuedi and Curtis L. Carter (eds.), 2014, *Aesthetics of Everyday Life: East and West*, Newcastle upon Tyne: Cambridge Scholars Publishing.
+
+[^livingston-2015]: Livingston, Paisley, 2015, “New Directions in Aesthetics”, in Anna Christina Ribeiro (ed.), *The Bloomsbury Companion to Aesthetics*, London: Bloomsbury Academic, pp. 255–263.
+
+[^lopes-2014]: Lopes, Dominic McIver, 2014, *Beyond Art*, Oxford: Oxford University Press.
+
+[^jakub-2022]: Łukaszewicz and Jakub Petri, 2022, “Reshaping Aesthetics and Aesthetic Sensibility in a Hybrid Environment”, *Contemporary Aesthetics* (Special Volume 10). [[Łukaszewicz and Petri 2022 available online](https://contempaesthetics.org/2022/11/29/reshaping-aesthetics-and-aesthetic-sensibility-in-a-hybrid-environment/)]
+
+[^lynes-1985]: Lynes, Russell, 1985, “Kudos for Clutter”, *Architectural Digest*, 41(3): 34–38.
+
+[^man-2023]: Man, Eva Kit Wah and Jeffrey Petts (eds.), 2023, *Comparative Everyday Aesthetics: East-West Studies in Contemporary Living*, Amsterdam: Amsterdam University Press.
+
+[^mandoki-2007]: Mandoki, Katya, 2007, *Everyday Aesthetics: Prosaics, the Play of Culture and Social Identities*, Aldershot, Hampshire: Ashgate.
+
+[^mandoki-2010]: –––, 2010, “The Third Tear in Everyday Aesthetics”, *Contemporary Aesthetics*, 8: article 4. [[Mandoki 2010 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol8/iss1/4/)]
+
+[^mandoki-2012]: –––, 2012, “The Sense of Earthiness: Everyday Aesthetics”, *Diogenes*, 59(1–2): 138–147.
+
+[^marini-2021]: Marini, Guillermo, 2021, “An Introduction to Everyday Aesthetics in Education”, *Studies in Philosophy and Education*, 40: 39–50.
+
+[^martin-2004]: Martin, Lois, 2004, “*Patina* of Cloth”, *Surface Design Journal*, 28(4): 16–21.
+
+[^maskit-2011]: Maskit, Jonathan, 2011, “The Aesthetics of Elsewhere: An Environmentalist Everyday Aesthetics”, *Aesthetic Pathways*, 1(2): 92–107.
+
+[^matteucci-2016]: Matteucci, Giovanni, 2016, “The Aesthetic as a Matter of Practices: Form of Life in Everydayness and Art”, *Comprendre*, 18(2): 9–28.
+
+[^matteucci-2017]: –––, 2017, “Everyday Aesthetics and Aestheticization: Reflectivity in Perception”, *Studi di estetica*, IV serie, 7: 207–227. [[Matteucci 2017 available online](http://mimesisedizioni.it/journals/index.php/studi-di-estetica/article/view/535/912)]
+
+[^maxwell-1993]: Maxwell, Robert, 1993, *Sweet Disorder and the Carefully Careless: Theory and Criticism in Architecture*, New York: Princeton Architectural Press.
+
+[^may-2011]: May, Harvey, 2011, “Aestheticization of Everyday Life”, *Encyclopedia of Consumer Culture*, Dale Southerton (ed.), pp. 15–19.
+
+[^mccracken-2001]: McCracken, Janet, 2001, *Taste and the Household: The Domestic Aesthetic and Moral Reasoning*, Albany: SUNY Press.
+
+[^melchionne-1998]: Melchionne, Kevin, 1998, “Living in Glass Houses: Domesticity, Interior Decoration, and Environmental Aesthetics”, *The Journal of Aesthetics and Art Criticism*, 56(2): 191–200.
+
+[^melchionne-2011]: –––, 2011, “Aesthetic Experience in Everyday Life: A Reply to Dowling”, *British Journal of Aesthetics*, 51(4): 437–442.
+
+[^melchionne-2013]: –––, 2013, “The Definition of Everyday Aesthetics”, *Contemporary Aesthetics*, 11: article 26. [[Melchionne 2013 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol11/iss1/26/)]
+
+[^melchionne-2014]: –––, 2014, “The Point of Everyday Aesthetics”, *Contemporary Aesthetics*, 12: article 17. [[Melchionne 2014 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol12/iss1/17/)]
+
+[^melchionne-2017]: –––, 2017, “Aesthetic Choice”, *British Journal of Aesthetics*, 57(3): 283–298.
+
+[^miyahara-2014]: Miyahara, Kojiro, 2014, “Exploring Social Aesthetics: Aesthetic Appreciation as a Method for Qualitative Sociology and Social Research”, *International Journal of Japanese Sociology*, 23(1): 63–79.
+
+[^mladenović-2019]: Mladenović, Miloš N., Lehtinen, Sanna, Emily Sof, and Karel Martens, 2019, “Emerging Urban Mobility Technologies through the Lens of Everyday Urban Aesthetics: Case of Self-Driving Vehicle”, *Essays in Philosophy*, 20(2): Article 3, 1–25. [[Mladenović et al. 2019 available online](https://commons.pacificu.edu/eip/vol20/iss2/3/)]
+
+[^mollar-2014]: Mollar, Dan, 2014, “The Boring”, *The Journal of Aesthetics and Art Criticism*, 72(2): 181–191.
+
+[^moss-2013]: Moss, Hilary and Desmond O’Neill, 2013, “The Aesthetic and Cultural Interests of Patients Attending an Acute Hospital: A Phenomenological Study”, *Journal of Advanced Nursing*, 70(1): 121–9. doi:10.1111/jan.12175
+
+[^moss-2014]: –––, 2014, “Aesthetic Deprivation in Clinical Settings”, *The Lancet*, 383(9922): 1032–1033. doi:10.1016/S0140-6736(14)60507-9
+
+[^mullis-2007]: Mullis, Eric, 2007, “The Ethics of Confucian Artistry”, *The Journal of Aesthetics and Art Criticism*, 65(1): 99–107.
+
+[^nanay-2016]: Nanay, Bence, 2016, *Aesthetics as Philosophy of Perception*, Oxford: Oxford University Press.
+
+[^nanay-2018]: –––, 2018, “The Aesthetic Experience of Artworks and Everyday Scenes”, *The Monist*, 101: 71–82.
+
+[^nassauer-1995]: Nassauer, Joan Iverson, 1995, “Messy Ecosystems, Orderly Frames”, *Landscape Journal*, 14(2): 161–170.
+
+[^naukkarinen-1999]: Naukkarinen, Ossi, 1999, *Aesthetics of the Unavoidable: Aesthetic Variations in Human Appearance*, Saarijärvi: Gummerus Kirjapaino Oy.
+
+[^naukkarinen-2013]: –––, 2013, “What is ‘Everyday’ in Everyday Aesthetics?” *Contemporary Aesthetics*, 11: article 14. [[Naukkarinen 2013 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol11/iss1/14/)]
+
+[^naukkarinen-2014]: –––, 2014, “Everyday Aesthetic Practices, Ethics and Tact”, *Aithesis*, 7(1): 23–44. [[Naukkarinen 2014 available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/829)]
+
+[^naukkarinen-2017]: –––, 2017, “Everyday Aesthetics and Everyday Behavior”, *Contemporary Aesthetics*, 15: article 12. [[Naukkarinen 2017 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol15/iss1/12/)]
+
+[^naukkarinen-2017-2]: ––– and Raine Vasquez, 2017, “Creating and Experiencing the Everyday Through Daily-Life”, *Experiencing the Everyday*, Carsten Friberg and Raine Vasquez (eds.), København, Denmark: NSU Press, pp. 166–189.
+
+[^naukkarinen-2019]: –––, 2019, “Feeling (with) Machines”, *Paths from the Philosophy of Art to Everyday Aesthetics*, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 180–200. [[Naukkarinen 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+
+[^naukkarinen-2005]: Naukkarinen, Ossi and Arto Haapala (eds.), 2005, *Aesthetics and Mobility*, Special Volume 1 of *Contemporary Aesthetics*. [[Naukkarinen and Haapala 2005 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol0/iss1/)]
+
+[^naukkarinen-2012]: Naukkarinen, Ossi and Yuriko Saito (eds.), 2012, *Artification*, Special Volume 4 of *Contemporary Aesthetics*. [[Naukkarinen and Saito 2012 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol0/iss4/)]
+
+[^ngai-2012]: Ngai, Sianne, 2012, *Our Aesthetic Categories: Zany, Cute, Interesting*, Cambridge: Harvard University Press.
+
+[^nielsen-2005]: Nielsen, Henrik Kaare, 2005, “Totalizing Aesthetics? Aesthetic Theory and Aestheticization of Everyday Life”, *The Nordic Journal of Aesthetics*, 17(32): 60–75. [[Nielsen 2005 available online](http://tidsskrift.dk/nja)]
+
+[^nomikos-2018]: Nomikos, Ariane, 2018, “Place *Matters*”, *The Journal of Aesthetics and Art Criticism*, 76(4): 453–462.
+
+[^norman-1990]: Norman, Donald A., 1990, *The Design of Everyday Things*, New York: Doubleday.
+
+[^norman-2004]: –––, 2004, *Emotional Design: Why We Love (or Hate) Everyday Things*, New York: Basic Books.
+
+[^norton-2015a]: Norton, Brian Michael, 2015a, “*The Spectator* and Everyday Aesthetics”, *Lumen: Selected Proceedings from the Canadian Society for Eighteenth-Century Studies*, 34: 123–136. [[Norton 2015a available online](https://www.erudit.org/en/journals/lumen/2015-v34-lumen01693/)]
+
+[^norton-2015b]: –––, 2015b, “*The Spectator*, Aesthetic Experience and the Modern Idea of Happiness”, *English Literature*, 2(1): 87–104.
+
+[^novitz-1992]: Novitz, David, 1992, *The Boundaries of Art: A Philosophical Inquiry into the Place of Art in Everyday Life*, Philadelphia: Temple University Press.
+
+[^orr-2002]: Orr, David, 2002, *The Nature of Design: Ecology, Culture, and Human Intention*, Oxford: Oxford University Press.
+
+[^otabe-2018]: Otabe, Tanehisa, 2018, “The ‘Aesthetic Life’: A Leitmotif in Modern Japanese Aesthetics”, *Contemporary Aesthetics*, Special Volume 6 on *Aesthetic Consciousness in East Asia*, article 5. [[Otabe 2018 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol0/iss6/5/)]
+
+[^paetzold-2012]: Paetzold, Heinz, 2012, “Aesthetics of Urban Design”, *Diogenes*, 59(1–2): 63–72.
+
+[^paetzold-2013]: –––, 2013, “The Aesthetics of City Strolling”, *Contemporary Aesthetics*, 11: article 23. [[Paetzold 2013 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol11/iss1/23/)]
+
+[^pahl-2014]: Pahl, Kate, 2014, “The Aesthetics of Everyday Literacies: Home Writing Practices in a British Asian Household”, *Anthropology & Education Quarterly*, 45(3): 293–311. [[Pahl 2014 available online](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aeq.12069)]
+
+[^pallasmaa-1999]: Pallasmaa, Juhani, 1999, “Toward an Architecture of Humility”, *Harvard Design Magazine*, Winter/Spring 1999: 22–25.
+
+[^pallasmaa-2005]: –––, 2005, *The Eyes of the Skin: Architecture and the Senses*, Chichester: Wiley-Academy.
+
+[^pan-2014]: Pan, Fan, 2014, “The Modern Issue of the Living Aesthetics of Traditional Chinese Scholars”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 165–172.
+
+[^papanek-1992]: Papanek, Victor, 1992, *Design for the Real World: Human Ecology and Social Change*, Chicago: Academy Chicago Publishers.
+
+[^papanek-1995]: –––, 1995, *The Green Imperative: Natural Design for the Real World*, New York: Thames and Hudson.
+
+[^parsons-2008]: Parsons, Glenn and Allen Carlson, 2008, *Functional Beauty*, Oxford: Oxford University Press.
+
+[^paulson-1996]: Paulson, Ronald, 1996, *The Beautiful, Novel, and Strange: Aesthetics and Heterodoxy*, Baltimore: The Johns Hopkins University Press.
+
+[^pearson-1991]: Pearson, David, 1991, “Making Sense of Architecture”, *Architectural Review*, 1136: 68–70.
+
+[^pérez-carreño-2019]: Pérez-Carreño, Francisca, 2019, “The Aesthetic Value of the Unnoticed”, *Paths from the Philosophy of Art to Everyday Aesthetics*, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 148–166. [[Pérez-Carreño 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+
+[^perullo-2012]: Perullo, Nicola (ed.), 2012, *Wineworld. New Essays on Wine, Taste, Philosophy and Aesthetics*, issue of *Rivista di estetica*, 51. [[Perullo 2012 available online](https://journals.openedition.org/estetica/)]
+
+[^perullo-2016]: –––, 2016, *Taste as Experience: The Philosophy and Aesthetics of Food*, New York: Columbia University Press.
+
+[^petts-2024]: Petts, Jeffrey, 2024, *Aesthetics and Design: The Value of Everyday Living*, London: Bloomsbury Academic.
+
+[^pine-1998]: Pine, B. Joseph II and James H. Gilmore, 1998, “Welcome to the Experience Economy”, *Harvard Business Review*, July-August 1998: 97–105.
+
+[^pine-2013]: –––, 2013, “The Experience Economy: Past, Present and Future”, in Jon Sundbo and Flemming Sørenson (eds.), *Handbook on the Experience Economy*, Cheltenham: Edward Elgar Publishing, pp. 21–44.
+
+[^postrel-2003]: Postrel, Virginia, 2003, *The Substance of Style: How the Rise of Aesthetic Value is Remaking Commerce, Culture, & Consciousness*, New York: Harper.
+
+[^postrel-2013]: –––, 2013, *The Power of Glamour: Longing and the Art of Visual Persuasion*, New York: Simon & Schuster.
+
+[^poltrum-2025]: Poltrum, Martin, et al. (eds.), 2025, *The Oxford Handbook of Mental Health and Contemporary Western Aesthetics*, Oxford: Oxford University Press.
+
+[^potgieter-2016a]: Potgieter, Frederick J., 2016a, “On Intersubjectivity in Art and Everyday Aesthetics”, *De Arte*, 51(2): 3–15.
+
+[^potgieter-2016b]: –––, 2016b, “On Thinking about the Nexus between Art and Everyday Aesthetics”, *Critical Arts*, 30(5): 655–671.
+
+[^potgieter-2017]: –––, 2017, “An Educational Perspective and a Poststructural Position on Everyday Aesthetics and the Creation of Meaning”, *The Journal of Aesthetic Education*, 51(3): 72–90.
+
+[^prall-1967]: Prall, D. W., 1967, *Aesthetic Judgment*, New York: Thomas Y. Crowell Company.
+
+[^prose-1999]: Prose, Francine, 1999, “A Dirty Tablecloth, Deconstructed”, *ARTnews*, 98(9): 126–127.
+
+[^puolakka-2011]: Puolakka, Kalle, 2011, “Getting Rid of Bad Habits: The Proper Role of Imagination in Everyday Aesthetics”, *Aesthetic Pathways*, 1(2): 47–64.
+
+[^puolakka-2014]: –––, 2014, “Dewey and Everyday Aesthetics: A New Look”, *Contemporary Aesthetics*, 12: article 18. [[Puolakka 2014 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol12/iss1/18/)]
+
+[^puolakka-2015]: –––, 2015, “The Aesthetic Pulse of the Everyday: Defending Dewey”, *Contemporary Aesthetics*, 13: article 5. [[Puolakka 2015 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol13/iss1/5/)]
+
+[^puolakka-2017]: –––, 2017, “The Aesthetics of Conversation: Dewey and Davidson”, *Contemporary Aesthetics*, 15: article 20. [[Puolakka 2017 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol15/iss1/20/)]
+
+[^puolakka-2018]: –––, 2018, “On Habits and Functions in Everyday Aesthetics”, *Contemporary Aesthetics*, 16: article 7. [[Puolakka 2018 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol16/iss1/7/)]
+
+[^puolakka-2019]: –––, 2019, “Does Valery Gergiev Have An Everyday?”, *Paths from the Philosophy of Art to Everyday Aesthetics*, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 132–147. [[Puolakka 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+
+[^quacchia-2016]: Quacchia, Russell, 2016, “The Aesthetic Experience of Aura, Awe, and Wonder: Reflections on Their Nature and Relationships”, *Contemporary Aesthetics*, 14: article 10. [[Quacchia 2016 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol14/iss1/10/)]
+
+[^quacchia-2017]: –––, 2017, “A Conceptual Framework for the Aesthetics of Everyday Object Appreciation”, *Contemporary Aesthetics*, 15: article 18. [[Quacchia 2017 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol15/iss1/18/)]
+
+[^rader-1976]: Rader, Melvin and Bertram Jessup, 1976, *Art and Human Values*, Englewood Cliffs: Prentice-Hall.
+
+[^rancière-2009]: Rancière, Jacques, 2009, *Aesthetics and Its Discontents*, Steven Corcoran (tr.), Cambridge: Polity Press.
+
+[^ratiu-2013]: Ratiu, Dan Eugen, 2013, “Remapping the Realm of Aesthetics: On Recent Controversies about the Aesthetic and the Aesthetic Experience in Everyday Life”, *Estetika: The Central European Journal of Aesthetics*, 50(6): 3–26. [[Ratiu 2013 available online](https://www.academia.edu/3884599/Remapping_the_Realm_of_Aesthetics_On_Recent_Controversies_about_the_Aesthetic_and_the_Aesthetic_Experience_in_Everyday_Life_revised_and_augmented_version_)]
+
+[^ratiu-2017a]: –––, 2017a, “Everyday Aesthetic Experience: Explorations by a Practical Aesthetics”, *Experiencing the Everyday*, Carsten Friberg and Raine Vasquez (eds.), København, Denmark: NSU Press, pp. 22–52.
+
+[^ratiu-2017b]: –––, 2017b, “The Aesthetic Account of Everyday Life in Organizations: A Report on Recent Developments in Organizational Research”, *The Journal of Arts Management, Law, and Society*, 47(3): 178–191.
+
+[^rautio-2009]: Rautio, Pauliina, 2009, “On Hanging Laundry: The Place of Beauty in Managing Everyday Life”, *Contemporary Aesthetics*, 7: article 7. [[Rautio 2009 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol7/iss1/7/)]
+
+[^rhode-2010]: Rhode, Deborah L., 2010, *Beauty Bias: The Injustice of Appearance in Life and Law*, Oxford: Oxford University Press.
+
+[^roberdeau-2011]: Roberdeau, Wood, 2011, “Affirming Difference: Everyday Aesthetic Experience after Phenomenology”, *Contemporary Aesthetics*, 9: article 8. [[Roberdeau 2011 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol9/iss1/8/)]
+
+[^rothenberg-2011]: Rothenberg, Julia, 2011, “Aestheticization of Everyday Life”, *Encyclopedia of Consumer Culture*, ed. Dale Southerton, pp. 15–21.
+
+[^ruggerone-2015]: Ruggerone, Lucia and Neil Jenkins, 2015, “Talking about Beauty: A Study of Everyday Aesthetics among Low-Income Citizens of Milan”, *Symbolic Interaction*, 38(3): 393–412.
+
+[^saito-2005]: Saito, Yuriko, 2005, “The Aesthetics of Weather”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 156–176.
+
+[^saito-2007]: –––, 2007, *Everyday Aesthetics*, Oxford: Oxford University Press.
+
+[^saito-2017]: –––, 2017, *Aesthetics of the Familiar: Everyday Life and World-Making*, Oxford: Oxford University Press.
+
+[^saito-2018]: –––, 2018, “Consumer Aesthetics and Environmental Ethics: Problems and Possibilities”, *The Journal of Aesthetics and Art Criticism*, 76(4): 429–439.
+
+[^saito-2022]: –––, 2022, *Aesthetics of Care: Practice in Everyday Life*, London: Bloomsbury Academic.
+
+[^saito-2025]: –––, 2025, “Cleaning: Practicing Everyday Aesthetics and Care”, *Anuario Filosófico*, 58(1): 167–193.
+
+[^saito-2026]: –––, 2026, “Everyday Foodscape: a Site for Practicing Care”, in *Somaesthetics and Food*, Dorota Koczanowicz and Nicola Perullo (eds.), Leiden: Brill.
+
+[^salwa-2019]: Salwa, Mateusz, 2019, “Everyday Green Aesthetics”, *Paths from the Philosophy of Art to Everyday Aesthetics*, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 167–179. [[Salwa 2018 available online](https://helda.helsinki.fi/handle/10138/302115)]
+
+[^sartwell-1995]: Sartwell, Crispin, 1995, *The Art of Living: Aesthetics of the Ordinary in World Spiritual Traditions*, Albany: SUNY Press.
+
+[^sartwell-2003]: –––, 2003, “Aesthetics of the Everyday”, in *The Oxford Handbook of Aesthetics*, Jerrold Levinson (ed.), Oxford: Oxford University Press, pp. 761–770.
+
+[^sartwell-2004]: –––, 2004, *Six Names of Beauty*, New York: Routledge.
+
+[^sartwell-2010]: –––, 2010, *Political Aesthetics*, Ithaca: Cornell University Press.
+
+[^sasaki-2013]: Sasaki, Ken’ichi, 2013, “Perspectives East and West”, *Contemporary Aesthetics*, 11. [[Sasaki 2013 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol11/iss1/16/)]
+
+[^scarry-1999]: Scarry, Elaine, 1999, *On Beauty and Being Just*, Princeton: Princeton University Press.
+
+[^schor-2002]: Schor, Juliet B., 2002, “Cleaning the Closet: Toward a New Fashion Ethic”, in Juliet B. Schor and Betsy Taylor (eds.), *Sustainable Planet: Solutions for the Twenty-first Century*, Boston: Beacon Press, pp. 45–60.
+
+[^schulze-2013]: Schulze, Gerhard, 2013, “The Experience Market”, in Jon Sundbo and Flemming Sorenson (eds.), *Handbook on the Experience Economy*, Cheltenham: Edward Elgar Publishing, pp. 98–121.
+
+[^scruton-2011]: Scruton, Roger, 2011, *Beauty: A Very Short Introduction*, Oxford: Oxford University Press.
+
+[^sepänmaa-1995a]: Sepänmaa, Yrjö, 1995a, “Aesthetics in Practice: Prolegomenon”, in *Practical Aesthetics in Practice and in Theory*, Marti Honkanen (ed.), Helsinki: University of Helsinki, pp. 13–17.
+
+[^sepänmaa-1995b]: –––, 1995b, “The Utilization of Environmental Aesthetics”, in *Real World Design: The Foundation and Practice of Environmental Aesthetics*, Yrjö Sepänmaa (ed.), Helsinki: University of Helsinki, pp. 7–10.
+
+[^sherman-2005]: Sherman, Nancy, 2005, “Of Manners and Morals”, *British Journal of Educational Studies*, 53(3): 272–289.
+
+[^shiner-2020]: Shiner, Larry, 2020, *Art Scents: Exploring the Aesthetics of Smell and the Olfactory Arts*, Oxford: Oxford University Press.
+
+[^shove-2007]: Shove, Elizabeth, Matthew Watson, Martin Hand and Jack Ingram, 2007, *The Design of Everyday Life*, Oxford: Berg.
+
+[^shove-2013]: Shove, Elizabeth, Frank Trentmann, and Richard Wilk (eds.), 2013, *Time, Consumption and Everyday Life*, London: Bloomsbury Academic.
+
+[^shusterman-1992]: Shusterman, Richard, 1992, *Pragmatist Aesthetics: Living Beauty, Rethinking Art*, Oxford: Blackwell.
+
+[^shusterman-1999]: –––, 1999, “Somaesthetics: A Disciplinary Proposal”, *Journal of Aesthetics and Art Criticism*, 57(3): 299–313.
+
+[^shusterman-2006]: –––, 2006, “Aesthetic Experience: From Analysis to Eros”, *The Journal of Aesthetics and Art Criticism*, 64(2): 217–229.
+
+[^shusterman-2012]: –––, 2012, *Thinking through the Body: Essays in Somaesthetics*, Cambridge: Cambridge University Press.
+
+[^shusterman-2013]: –––, 2013, “Everyday Aesthetics of Embodiment”, in *Rethinking Aesthetics: The Role of Body in Design*, Ritu Bhatt (ed.), New York: Routledge.
+
+[^shusterman-2015]: –––, 2015, “Transactional Experiential Inquiry: From Pragmatism to Somaesthetics”, *Contemporary Pragmatism*, 12(1): 180–195.
+
+[^shusterman-2016]: –––, 2016, “Somaesthetics and the Fine Art of Eating”, in *Body Aesthetics*, Sherri Irvin (ed.), Oxford: Oxford University Press.
+
+[^shusterman-2019]: –––, 2019, “Pleasure, Pain, and the Somaesthetics of Illness: A Question for Everyday Aesthetics”, *Paths from the Philosophy of Art to Everyday Aesthetics*, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 201–214. [[Shusterman 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+
+[^siebers-2010]: Siebers, Tobin, 2010, *Disability Aesthetics*, Ann Arbor: The University of Michigan Press.
+
+[^simmmel-2000]: Simmmel, Georg, 2000, *Simmel on Culture: Selected Writings*, David Frisby and Mike Featherstone (eds.), London: SAGE Publications.
+
+[^simpson-2012]: Simpson, Zachary, 2012, *Life as Art: Aesthetics and the Creation of Self*, New York: Lexington Books.
+
+[^soucek-2009]: Soucek, Brian, 2009, “Resisting the Itch to Redefine Aesthetics: A Response to Sherri Irvin”, *The Journal of Aesthetics and Art Criticism*, 67(2): 223–226.
+
+[^spaid-2002]: Spaid, Sue, 2002, *Ecovention: Current Art to Transform Ecologies*, Cincinnati: The Contemporary Arts Center.
+
+[^spaid-2012]: –––, 2012, *Green Acres: Artists Farming Fields, Greenhouses and Abandoned Lots*, Cincinnati: Contemporary Arts Center.
+
+[^sparke-1995]: Sparke, Penny, 1995, *As Long as It’s Pink: The Sexual Politics of Taste*, New York: HarperCollins.
+
+[^spelman-2002]: Spelman, Elizabeth, 2002, *Repair: The Impulse to Restore in a Fragile World*, Boston: Beacon Press.
+
+[^stabb-2002]: Stabb, Jo Ann, 2002, “Transformations: Trash to Art”, *Surface Design Journal*, 26(2): 14–19.
+
+[^stecker-2019]: Stecker, Robert, 2019, *Intersections of Value: Art, Nature, and the Everyday*, Oxford: Oxford University Press.
+
+[^stohr-2012]: Stohr, Karen, 2012, *On Manners*, New York: Routledge.
+
+[^stolnitz-1969]: Stolnitz, Jerome, 1969, “The Aesthetic Attitude”, in *Introductory Readings in Aesthetics*, John Hospers (ed.), New York: The Free Press, pp. 17–27.
+
+[^stolnitz-1977]: –––, 1977, “On the Origins of ‘Aesthetic Disinterestedness’”, in George Dickie and R. J. Sclafani (eds.), *Aesthetics: A Critical Anthology*, New York: St. Martin’s Press, pp. 607–625.
+
+[^stroud-2011]: Stroud, Scott, 2011, *John Dewey and the Artful Life: Pragmatism, Aesthetics, and Morality*, University Park: Penn State University Press.
+
+[^tainio-2015]: Tainio, Matti, 2015, *Parallel Worlds: Art and Sport in Contemporary Culture*, Helsinki: Aalto ARTS Books.
+
+[^tavin-2007]: Tavin, Kevin, 2007, “Eyes Wide Shut: The Use and Uselessness of the Discourse of Aesthetics in Art Education”, *Art Education*, March: 40–45.
+
+[^taylor-2000]: Taylor, Nigel, 2000, “Ethical Arguments about the Aesthetics of Architecture”, in *Ethics and the Built Environment*, Warwick Fox (ed.), London: Routledge, pp. 193–206.
+
+[^taylor-2016]: Taylor, Paul C., 2016, *Black Is Beautiful: A Philosophy of Black Aesthetics*, Chichester: Wiley Blackwell.
+
+[^tuan-1974]: Tuan, Yi-Fu, 1974, *Topophilia: A Study of Environmental Perception, Attitudes, and Values*, Englewood Cliffs: Prentice-Hall.
+
+[^tuan-1984]: –––, 1984, *Dominance & Affection: The Making of Pets*, New Haven: Yale University Press.
+
+[^tuan-1993]: –––, 1993, *Passing Strange and Wonderful: Aesthetics, Nature, and Culture*, Washington, D. C.: Island Press.
+
+[^meulen-2017]: van der Meulen, Nicolaj and Jörg Wiesel (eds.), 2017, *Culinary Turn: Aesthetic Practice of Cookery*, Bielefeld: transcript Verlag. [[van der Meulen and Wiesel 2017 available online](https://www.transcript-verlag.de/search?sSearch=culinary+turn)]
+
+[^vihalem-2016]: Vihalem, Margus, 2016, “What is at Stake in Everyday Aesthetics? Looking for a New Perspective on Aesthetic Experience”, *Kunstiteaduslikke Uurimusi*, 25(3/4): 38–61.
+
+[^vihalem-2018]: –––, 2018, “Everyday Aesthetics and Jacques Rancière: Reconfiguring the Common Field of Aesthetics and Politics”, *Journal of Aesthetics & Culture*, 10(1): 1–11. [[Vihalem 2016 available online](http://www.tandfonline.com/doi/full/10.1080/20004214.2018.1506209)]
+
+[^vihma-2012]: Vihma, Susann, 2012, “Artification for Well-Being: Institutional Living as a Special Case”, in Ossi Naukkarinen and Yuriko Saito (eds.), *Artification*, Special Volume 4 of *Contemporary Aesthetics*, article 13. [[Vihma 2012 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol0/iss4/13/)]
+
+[^visser-1997]: Visser, Margaret, 1997, *The Way We Are: Astonishing Anthropology of Everyday Life*, New York: Kodansha International.
+
+[^walker-1995]: Walker, Stuart, 1995, “The Environment, Product Aesthetics and Surfaces”, *Design Issues*, 11(3): 15–27.
+
+[^walker-2006]: –––, 2006, *Sustainable by Design: Explorations in Theory and Practice*, London: Earthscan.
+
+[^walker-2017]: –––, 2017, *Design for Life: Creating Meaning in a Distracted World*, London: Routledge.
+
+[^wang-2014]: Wang, Que, 2014, “The Transition of Aesthetics in China and a New Paradigm of Living Aesthetics”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 173–182.
+
+[^wang-2018]: Wang, Zhoufei, 2018, “Atmospheric Design and Experience with an Exemplary Study of Olafur Eliasson’s ‘The Weather Project’”, in *Contemporary Aesthetics*, 16: article 15. [[Z. Wang 2018 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol16/iss1/15/)].
+
+[^wang-2024]: Wang, Zhuofei and Dvid Brubaker (eds.), 2024, *Atmospheric Design and Everyday Aesthetics*, *Contemporary Aesthetics* (Special Volume 12). [[Z. Wang and Brubaker 2018 available online](https://contempaesthetics.org/the-journal/#specialvolumes)]
+
+[^welsch-1997]: Welsch, Wolfgang, 1997, *Undoing Aesthetics*, Andrew Inkpin (tr.), London: SAGE Publications.
+
+[^welsch-2005]: –––, 2005, “Sport Viewed Aesthetically, and Even as Art?”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 135–155.
+
+[^welsch-2014]: –––, 2014, “Schiller Revisited: ‘Beauty is Freedom in Appearance’: Aesthetics as a Challenge to the Modern Way of Thinking”, *Contemporary Aesthetics*, 12: article 16. [[Welsch 2014 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol12/iss1/16/)]
+
+[^whiteley-1993]: Whiteley, Nigel, 1993, *Design for Society*, London: Reaktion Books.
+
+[^whiteley-1999]: –––, 1999, “Utility, Design Principles and the Ethical Tradition”, in *Utility Reassessed: The Role of Ethics in the Practice of Design*, Judy Attfield, (ed.), Manchester: Manchester University Press, pp. 190–202.
+
+[^widdows-2018]: Widdows, Heather, 2018, *Perfect Me: Beauty as an Ethical Ideal*, Princeton: Princeton University Press.
+
+[^wiseman-2014]: Wiseman, Mary, 2014, “Damask Napkins and the Train from Sichuan: Aesthetic Experience and Ordinary Things”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 134–144.
+
+[^witherspoon-1996]: Witherspoon, Gary, 1996, “Navajo Aesthetics: Beautifying the World through Art”, in *Aesthetics in Perspective*, Kathleen M. Higgins (ed.), Fort Worth: Harcourt Brace College Publishers, pp. 736–742.
+
+[^zande-2007]: Zande, Robin, 2007, “Chairs, Cars, and Bridges: Teaching Aesthetics from the Everyday”, *Art Education*, 60(1): 39–42.
+
+[^ziff-1997]: Ziff, Paul, 1997, “Anything Viewed”, in Susan L. Feagin and Patrick Maynard (eds.), *Oxford Readers: Aesthetics*, Oxford: Oxford University Press, pp. 23–30.

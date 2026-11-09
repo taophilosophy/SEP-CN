@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Set Theory: Constructive and Intuitionistic ZF &gt; Set-theoretic Principles Incompatible with Intuitionistic Logic (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/set-theory-constructive/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/set-theory-constructive/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=set-theory-constructive">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Set Theory: Constructive and Intuitionistic ZF</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Set-theoretic Principles Incompatible with Intuitionistic Logic</h2>
+
+<p>
+
+In this supplementary document we show how two well-known
+set-theoretic principles, foundation and choice, are incompatible with
+Zermelo-Fraenkel set theories based on intuitionistic logic: the
+assumption of either of these principles implies constructively
+unacceptable instances of the principle of the excluded middle
+(EM). (See also the discussion on these principles in the main
+document:
+ <a href="index.html">Constructive and intuitionistic ZF</a>.) We
+also briefly discuss another principle (linearity of ordinals) that
+gives rise to exlcuded middle.
+For the sake of readabiliy, we use lower and upper case letters to denote sets.
+</p>
+
+<ul>
+<li><a href="#FouImpInsEM">Foundation implies instances of EM</a></li>
+
+<li><a href="#AxiChoImpInsEM">The axiom of choice implies instances of EM</a></li>
+
+<li><a href="#ConOrd">Constructive ordinals</a></li>
+
+
+</ul>
+
+<hr />
+<h3 id="FouImpInsEM">Foundation implies instances of EM</h3>
+
+<p>
+
+The axiom of foundation (or regularity) states that every inhabited
+(non-empty) set has an \(\in\)-minimal element. Formally:</p>
+
+<p class="indent">
+\(\forall x[\exists y \in x \rightarrow \exists y(y \in x \wedge
+\forall z(z \in y \rightarrow \neg(z \in x)))\)].</p>
+
+<p>
+
+Here we show that constructively unacceptable instances of the
+excluded middle can be derived from foundation on the basis of some
+very elementary set-theoretic assumptions. As a consequence,
+foundation, as usually formulated, can not be part of a ZF set theory
+based on intuitionistic logic. The following argument can be carried
+out on the basis of a subsystem of
+<a href="axioms-CZF-IZF.html">CZF</a>
+including extensionality, bounded separation, emptyset, and the axiom
+of pair. In such a system we can form the set \(\{0,1\}\) of the von Neumann
+natural numbers 0 and 1, where 0 is the empty set and 1 is the
+singleton containing the empty set only.</p>
+
+<p>
+
+Let \(\psi\) be an arbitrary bounded formula and assume foundation. By
+bounded separation, let</p>
+
+<p class="indent">
+\(A := \{y \in \{0,1\}: y = 1 \vee(y = 0 \wedge \psi)\}.\)</p>
+
+<p>
+
+We can now easily derive the excluded middle for \(\psi\). As \(1 \in
+A\), the set \(A\) is inhabited. By foundation there exists a minimal
+element \(Y \in A\), that is, a \(Y \in A\) such that for all \(Z \in
+Y, Z\) does not belong to \(A\). Since \(Y\) is an element of \(A\),
+we have either \(Y = 1\) or \(Y = 0 \wedge \psi\). </p>
+
+<ul>
+<li>If \(Y = 1\), then \(0 \in Y\). Thus \(\neg(0 \in A)\) because
+\(Y\) is the \(\in\)-minimal of \(A\).  Hence, by the definition of
+\(A, \neg(0 = 0 \wedge \psi)\).  Thus \(\neg \psi\).</li>
+
+<li>If instead \(Y = 0 \wedge \psi\), then clearly \(\psi\).</li>
+</ul>
+
+<p>
+
+In either case, we have \(\psi \vee \neg \psi\).</p>
+
+<p>This argument shows that in a basic constructive set theory, we can
+prove excluded middle for bounded sentences if we assume
+foundation. In systems with full (i.e. unbounded) separation, as
+<a href="axioms-CZF-IZF.html">IZF</a>, 
+the same argument can be used to show that the full principle of
+excluded middle, EM, is derivable from foundation.</p>
+
+<h3 id="AxiChoImpInsEM">The axiom of choice implies instances of EM</h3>
+
+<p>
+
+Here we show that the axiom of choice (AC) implies constructively
+unacceptable instances of the excluded middle within a basic
+constructive set theory (Zermelo-Fraenkel style). Therefore we can not
+assume AC in any reasonable ZF set theory based on intuitionistic
+logic. The following argument can be carried out, for example, on the
+basis of a subtheory of CZF that includes extensionality, pair, union,
+empty set, infinity, bounded separation, replacement and bounded
+induction on the natural numbers. Such a system essentially coincides
+with Aczel and Rathjen&rsquo;s Elementary Constructive Set Theory, ECST, in
+(Aczel and Rathjen 2010). There the authors show that ECST is already
+sufficient to carry out a number of basic set-theoretic
+constructions. It is however a very weak theory, as it can not prove
+the existence of the addition function on the natural numbers (Rathjen
+2008). Note that extensionality and separation play an essential role
+in the following proof.</p>
+
+<p>
+
+By AC we denote the principle:</p>
+
+<p class="indent">
+\(\forall u\forall v[(\forall x \in u)(\exists y \in v) \psi(x,y) \rightarrow\)
+\(\exists f: u \rightarrow v)(\forall x \in u) \psi(x,f(x))],\)</p>
+
+<p>
+
+where &ldquo;\(F: U \rightarrow V\)&rdquo; stands
+for a formula expressing the fact that \(F\) is a set theoretic function with
+domain \(U\) and range included in \(V\). The notions of set theoretic 
+function, domain and range can be formalised in a standard way in
+constructive set theory (see, <em>e.g.</em>, Aczel and Rathjen
+2001).</p>
+
+<p>
+
+Let \(\phi\) be a bounded formula and define the following sets (by
+bounded separation):</p>
+
+<ul>
+<li>\(A {:}= \{n \in \{0,1\} : n = 0 \vee(n = 1 \wedge \phi)\},\)</li>
+
+<li>\(B {:}= \{n \in \{0,1\} : n = 1 \vee(n = 0 \wedge \phi)\}.\)</li>
+</ul>
+
+<p>
+
+We note that \((\forall z \in \{A,B\})(\exists n \in \{0,1\})(n \in z)\).</p>
+
+<p>
+
+By AC, there is a choice function \(F: \{A,B\} \rightarrow \{0,1\}\),
+with \(F(A) \in A\) and \(F(B) \in B\). Here we need to use a crucial
+fact about the natural numbers. As the values of \(F\) are natural
+numbers we can prove (by a bounded form of induction on the natural
+numbers) that either \(F(A) = F(B)\) or \(F(A) \ne F(B)\). Now we
+argue as follows.</p>
+
+<ul>
+
+<li>If \(F(A) = F(B)\), then \(\phi\), so \(\phi \vee \neg
+ \phi\).</li>
+
+<li>If \(F(A) \ne F(B)\), then we show \(\neg \phi\). Suppose for a
+contradiction that \(\phi\) holds. Then <em>by extensionality</em> \(A
+= B\) so that \(F(A) = F(B)\), contradicting the assumption. We thus
+have proved that the assumption of \(\phi\) yields a contradiction, so
+that \(\neg \phi\). Thus \(\phi \vee \neg \phi\).</li>
+
+</ul>
+
+<p>
+
+In either case, we have proved \(\phi \vee \neg \phi\).</p>
+
+<p>Also in this case, the same argument can be used to show that EM
+follows from AC in a system with full separation instead of bounded
+separation.</p>
+
+<p>
+
+We recall that even if the full axiom of choice is not 
+compatible with constructive and intuitionistic set theories, 
+some consequences of AC, like countable choice, 
+can be added to constructive and intuitionistic ZF
+(see the main document, section on
+ <a href="index.html#ConsChoiPrin">Constructive Choice Principles</a>).</p>
+<h3 id="ConOrd">Constructive ordinals</h3>
+
+<p>
+
+Arguments analogous to those just presented can be used to show that 
+standard classical properties of the ordinals, such as the 
+linearity of their order, imply instances of EM.</p>
+<p>
+
+There are various classically equivalent definitions of ordinal
+number. In a constructive context, ordinals are usually defined as
+hereditarily transitive sets (following Powell 1975).  A set
+is <em>transitive</em> if its elements are subsets of it. That is,
+\(U\) is transitive if \(\forall X \in U (X \subseteq U)\), that is,
+\(\forall X \in U \forall Z \in X (Z \in U)\). An ordinal is then
+defined as a transitive set all of whose elements are also
+transitive. The order on the ordinals is given by the membership
+relation. Linearity of an ordinal \(\alpha\) is the property:
+\(\forall \beta \in \alpha \forall \gamma \in \alpha(\beta \in \gamma
+\vee \beta = \gamma \vee \gamma \in \beta)\). It is an easy exercise
+to prove (using arguments analogous to those above) that assuming
+linearity for all ordinals yields instances of the excluded
+middle.</p>
+
+<p>This example shows that in constructive set theory the notion of
+ordinal does not play the same central role as in classical set
+theory. However, ordinals supply us with a ranking of the universe and
+we can still define many of the familiar set-theoretic operations by
+transfinite recursion on ordinals (see Aczel and Rathjen 2001, Section
+4.2). This is fine as long as the definitions by transfinite
+recursion do not make case distinctions such as in the classical
+ordinal cases of successor and limit. </p>
+
+<p>
+
+Bibliographic information for this supplementary document is in
+ the
+ <a href="index.html#Bib">Bibliography</a>
+ for this entry.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="https://sites.google.com/view/lauracrosilla/home" target="other">Laura Crosilla</a>
+&lt;<a href="m&#97;ilto:laura&#37;2ecrosilla&#37;40unifi&#37;2eit"><em>laura<abbr title=" dot ">&#46;</abbr>crosilla<abbr title=" at ">&#64;</abbr>unifi<abbr title=" dot ">&#46;</abbr>it</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

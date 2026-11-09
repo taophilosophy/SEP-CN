@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Singularities and Black Holes &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/spacetime-singularities/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/spacetime-singularities/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=spacetime-singularities">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Singularities and Black Holes</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ A generalized affine parameter is defined as follows. Fix a curve on
+spacetime and an arbitrary zero point on it; fix also an orthonormal
+frame at the zero point, <em>i.e.</em>, a basis for the vector space
+of tangent vectors at the point comprising four mutually orthogonal
+vectors (one timelike and three spacelike) each of unit length. Now,
+propagate this frame along the curve parallel to itself with respect
+to the affine structure of spacetime. The tangent vector to the curve
+can be written at each point as a weighted sum of the vectors in the
+frame at that point, the weighting factors being the components of the
+tangent vector in the coordinate system the frame defines in the
+tangent space over the point. We can define in this tangent space the
+Euclidean length of the vector by the standard formula in terms of the
+coordinate system, which will always be a positive number for a
+non-zero vector. The generalized affine length at that point, then, is
+the ordinary integral of those Euclidean lengths of the tangent
+vectors along the curve starting from the zero point. It is, in other
+words, just the ordinary, necessarily positive length of the curve
+according to the Euclidean distance function that the family of
+orthonormal frames along the curve determines.</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ The technical definition is: a spacetime is <em>effectively
+complete</em> if, for every future or past incomplete timelike
+geodesic, and every open set containing the geodesic, there is no
+isometric embedding of the spacetime into another one such that the
+image of the incomplete curve has future and past endpoints.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ The ideal boundary of Geroch, Kronheimer and Penrose (1972), which
+uses equivalence classes of inextendible causal curves to define a
+causal boundary for spacetimes, suffers from topological problems, in
+that it is difficult to define any topology whatsoever on the
+spacetime manifold plus boundary. Another proposal, the so-called
+abstract boundary of Scott and Szekeres (1994), suffers from problems
+of physical relevance so profound it is difficult even to see how it
+makes any contact whatsoever with general relativity as a physical
+theory. See Curiel (1999) for a discussion of its problems.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ Certain gravitational plane wave spacetimes provide good examples of
+this phenomenon: an observer traveling along the incomplete timelike
+geodesic constituting the singular structure would experience
+unbounded tidal acceleration, whereas <em>any</em> observer traveling
+arbitrarily close by would not (Ellis and Schmidt 1977).</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ This occurs in Taub-NUT (Newman, Unti and Tamburino) spacetime. See
+Hawking and Ellis (1973, pp. 170&ndash;178) for a technical exposition
+of the spacetime. Misner (1967) offers a delightful guide to the
+menagerie of exuberant weirdness this spacetime manifests.</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ The conformal structure of spacetime captures that part of the
+spacetime metric that differentiates timelike, spacelike and null
+paths; like ordinary conformal geometry, it also allows one to
+calculate angles between vectors, but does not allow one to attribute
+lengths to vectors. Two spacetimes are conformally equivalent, roughly
+speaking, when they agree on the possible paths of light rays and on
+the possible paths of massive bodies in general (but not necessarily
+on the paths followed by freely falling bodies in particular).</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ It is perhaps not malapropos to compare these arguments with those of
+Parmenides (ca. 500 BCE, DK fragment 8, lines 5&ndash;11).</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ What one means by &ldquo;angular momentum&rdquo; for a black hole is
+difficult to explain, because a black hole is, after all, just a
+mathematically defined surface in spacetime, and it is not clear what
+physical significance one can attribute to the idea that a
+mathematical surface physically spins. Nonetheless, under special
+circumstances having a high degree of symmetry one can justify on
+physical grounds the use of the classical name &lsquo;angular
+momentum&rsquo; for the designated property, and the generic usage is
+then analytically continued, as it were, to non-symmetrical cases.</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ The topology of a spacetime manifold is all the structure that
+remains after one removes the metric and all matter fields, and all
+other geometrical structure definable by them. Topology, among other
+things, is what differentiates a plane from a ball from a donut. It
+governs the &ldquo;shape&rdquo; of a geometrical space, and determines
+what properties of the space remain the same no matter how one
+continuously deforms it (<em>i.e.</em>, even when the metrical
+properties among points change).</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ But keep in mind that whether white holes count as naked
+singularities sensitively depends on how one defines the latter
+notion. One popular choice is to require that a singular path is
+visible for some observer: more precisely, that an inextendible
+future-directed causal path is contained in the causal past of either
+some spacetime point or of the future null infinity. In these senses
+white holes do not have to be nakedly singular, because in many white
+hole spacetimes the singularity is hidden behind the anti-trapping
+horizon (through which nothing can cross into the interior), and, more
+importantly, incomplete curves are all past-directed. But under other
+definitions white holes are nakedly singular, and in particular they
+are so in the same way that a Big Bang singularity is: namely, that a
+path emanating out of the singularity can reach a distant observer.
+See Manchak (2020) and Landsman (2021) for an in-depth discussion of
+various (inequivalent) definitions of naked singularities.</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ The Zeroth, First and Second Laws as given here are the same as first
+stated and proven in Bardeen <em>et al.</em> (1973). See Wald and Gao
+(2001) for extended discussion and the most rigorous proofs currently
+known of the First and Second Laws, and Wald (1994) and R&aacute;cz
+and Wald (1996) for the same for the Zeroth. The form of the Third Law
+given here is due to Israel (1986); see Wald (1997) for a discussion
+of its physical problems, which are much more severe than those of any
+of the others.</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ See, for example, the remarks in Bardeen, Carter and Hawking (1973),
+Carter (1973) and Israel (1973), which are not explicitly directed at
+Bekenstein though he was, as Israel (1987) reports, their unspoken
+target. In the same place Israel reports that, with the benefit of
+hindsight after the discovery of the Hawking mechanism, Bekenstein
+felt that his proposal had failed because it was not
+&ldquo;crazy&rdquo; enough: he had not been willing to identify the
+black hole&rsquo;s physical temperature with its surface gravity.
+Geroch&rsquo;s thought experiment, discussed in
+ <a href="index.html#PossViol">Section 5.4.2</a>,
+ had driven him to conclude that the identification was
+insupportable.</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ This question should be carefully distinguished from that of whether
+thermodynamics and statistical mechanics can be meaningfully applied
+to model the behavior of self-gravitating systems composed of ordinary
+matter, such as galaxies; see, <em>e.g.</em>, Callender (2011).</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ Geroch&rsquo;s proposed process has become an infamous touchstone in
+the field, that all arguments about black hole thermodynamics must
+prove themselves against. The details of the 1970 colloquium were
+kindly verified by Wald and Bekenstein separately (both of whom were
+there), in private correspondence with the author (EC) of this entry.
+When the author asked Geroch about it, he demurred.</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ There are other, more technical problems with Bekenstein&rsquo;s
+(1981) original proposal for a universal entropy bound, primarily that
+it is not covariantly defined, and so suffers serious ambiguity in its
+characterization of the &ldquo;size&rdquo; of a system. Bousso (1999a,
+1999b) subsequently proposed a covariantly defined bound, with
+stronger physical arguments in support of it. It is this bound that
+has now become the standard in discussions of holography.</p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ Vehement opposition to the idea arose before the ink was dry on its
+initial proposal in print. See, for example, Davies and Taylor (1974).
+It was only gradually over the next two years, after several
+alternative derivations were produced more consonant with conventional
+quantum field theory (<em>e.g.</em>, those of Wald 1975 and Hartle and
+Hawking 1976), that acceptance of Hawking&rsquo;s result became
+widespread.</p>
+
+<p>
+It seems not to be well known, though Hawking (1987) himself has
+reported it, that the inspiration for the investigation that resulted
+in the discovery of Hawking radiation came from discussions he had had
+with Zeldovich and Starobinsky in September of 1973 in Moscow, in
+which they convinced him that the phenomenon known as super-radiance
+ought to induce a rotating black hole to radiate. (See, <em>e.g.</em>,
+Wald 1984 for an account of the phenomenon.) These discussion were
+themselves based on the previous work of Zeldovich (1970) himself,
+Zeldovich and Pitaevskii (1971), and Misner (1972). Page (2005) gives
+an interesting discussion of the early history of the development and
+reception of Hawking radiation, as well as a brief introduction to its
+technical aspects, collecting in one convenient place the basic,
+useful formulae of the topic.</p>
+
+<p>
+It is also worth remarking here that, as first pointed out by Davies
+(1975) (who was expanding on earlier work by Fulling 1973), and
+clarified and explained by Unruh (1976), a uniformly accelerating
+observer moving in the standard vacuum state in Minkowski spacetime
+will observe themselves to be immersed in a thermal bath of radiative
+particles, with a temperature proportional to the magnitude of their
+acceleration. This is known as the <em>Unruh Effect</em>. (See,
+<em>e.g.</em>, Wald 1994, ch.~5, for a thorough technical exposition,
+and Earman 2011 for one geared for a philosophical audience.) The
+phenomenon is conceptually and physically distinct from that of
+Hawking radiation and, indeed, occurs so far from black holes as to
+manifest itself in Minkowski spacetime. One major difference is that
+the Unruh effect depends essentially on the presence of an accelerated
+object for the radiative phenomena to &ldquo;appear&rdquo;, whereas
+Hawking radiation occurs whether there are other observers present to
+detect it or not, and in particular does not depend on the state of
+motion of any other physical system such as an observer. This
+difference is most immediately and importantly reflected in the fact
+that black holes lose mass-energy&mdash;an invariant phenomenon&mdash;
+by the emission of Hawking radiation, whereas no physical system loses
+mass-energy in the Unruh effect. Still, the phenomena are intimately
+related in several ways; in fact, Unruh himself derived and explained
+the effect in an attempt to gain insight into Hawking&rsquo;s then
+recent proposal of black-hole radiance. It also plays an important
+role in many contemporary arguments about gravitational entropy and
+the Generalized Second Law.</p>
+
+<p>
+Finally, there is another remarkable phenomenon of seemingly anomalous
+radiance in the arena of quantum field theory and relativity. As
+Davies and Fulling (1977) showed, a mirror moving with non-uniform
+acceleration through Minkowski spacetime will, on account of the
+interaction between the mirror and zero-point fluctuations of a
+quantum field, emit a flux of negative energy in the direction of
+increasing acceleration, and (to conserve energy) a flux of positive
+energy in the opposite direction. In fact, this phenomenon is closely
+related to the Unruh Effect. Israel (1998), for example, sketches an
+intuitive, illuminating explanation of the Unruh Effect in its terms.
+It is, sadly, beyond the scope of this article to discuss these
+phenomena further.</p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ Here is a very brief technical explanation for those familiar with
+quantum theory. The parts of a quantum field in the interior and the
+exterior of the black hole will generally be entangled.
+Microcausality, however, implies that the entangled degrees of freedom
+in the black hole cannot coherently recombine with those in the
+external universe. Thus once the black hole has completely evaporated
+away, those entanglements will have vanished and the entropy of the
+universe will have increased, in violation of unitary evolution.</p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ Several speculative extensions of the Standard Model of quantum field
+theory, especially those with so-called chiral anomalies, predict that
+lepton and baryon number need not be conserved. There is no
+experimental evidence in favor of any of those extensions, however,
+and none of the predicted violations are on the scale that black-hole
+evaporation would seem to yield.</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="http://strangebeautiful.com" target="other">Erik Curiel</a>
+&lt;<a href="m&#97;ilto:erik&#37;40strangebeautiful&#37;2ecom"><em>erik<abbr title=" at ">&#64;</abbr>strangebeautiful<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+Manus Visser
+&lt;<a href="m&#97;ilto:manus&#37;2evisser&#37;40ru&#37;2enl"><em>manus<abbr title=" dot ">&#46;</abbr>visser<abbr title=" at ">&#64;</abbr>ru<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;<br />
+<a href="https://sites.google.com/site/juliuszdoboszewski/home" target="other">Juliusz Doboszewski</a>
+&lt;<a href="m&#97;ilto:jdoboszewski&#37;40gmail&#37;2ecom"><em>jdoboszewski<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

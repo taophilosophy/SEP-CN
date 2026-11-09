@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Constructive Mathematics &gt; Approaches to Constructive Topology (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/mathematics-constructive/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/mathematics-constructive/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mathematics-constructive">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Constructive Mathematics</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Approaches to Constructive Topology</h2>
+
+<p>
+One of the basic results of classical point set topology is the
+Heine-Borel theorem (HBT): if a set of open intervals covers the
+closed unit interval [0,1], then already finitely many of them cover
+the interval; in other words, [0,1] is <em>open-cover
+compact</em>. Within INT the theorem is still valid by an appeal to
+the full fan theorem (Dummett [2000]). Moerdijk [1984] has shown that
+HBT is strictly weaker than the full fan theorem, but we do not know
+of any natural fan theorem to which the Heine-Borel theorem is
+equivalent relative to BISH. HBT is one example of how fan theorems
+facilitate the development of topology within INT; see also Troelstra
+[1978] and Waaldijk [1996]. However the effectivity of HBT can be called
+into question, as within RUSS the existence of \(\varepsilon\)-singular
+covers (see Section 3.2 above) provides a strong recursive
+counterexample to the theorem.</p>
+
+<p>
+In his practice of analysis, Bishop [1967] took a radical approach by limiting his attention to
+metric spaces, in which compactness can be defined as completeness
+plus total boundedness. Moreover, he took the continuity of a function
+from a compact metric space into a metric space to mean uniform
+continuity, by definition. This allowed him to regain most of the
+useful theorems about, for example, suprema and positive measures,
+without referring to HBT. It is possible to generalise his theory to
+uniform spaces, but for some applications this is clearly not
+sufficient: for instance, quotient spaces of uniform spaces need not
+be uniform spaces, a fact that bars direct applicability to fields
+such as algebraic topology.</p>
+
+<p> However, almost in passing, Bishop [1967] mentions two possible
+approaches to the constructive development of topology: neighbourhood
+spaces and function spaces. Little appears to have been done in the
+former topic, but Petrakis [2016, 2016a] has made considerable
+progress in the latter. The two are linked in an interesting article
+of Ishihara [2013].</p>
+
+<p>
+The neighborhood structure on a topological space tells us only when
+points are close, but in general gives little information about the
+more global structure of the space. In order to go significantly
+beyond metric and uniform spaces, we need to consider topological
+spaces endowed with some not-necessarily-uniform structure over and
+above the neighbourhood one. One such endowment is the function space
+structure mentioned in the preceding paragraph. We now describe two
+alternative approaches: apartness spaces, where the fundamental axioms
+capture the idea of subspaces being apart from one another; and
+point-free topology, where the notion of open sets and their mutual
+cover relations are taken as basics.</p>
+
+<h3>Apartness spaces</h3>
+
+<p> A classical theory of proximity spaces, based on the primitive
+notion of two sets being near each other, has been around for over 100
+years and has been developed substantially over the last 60 or so; see
+Riesz [1908], Naimpally &amp; Warrack [1970], and Naimpally [2009]. It
+soon becomes clear, however, that the notion&mdash;a negative one,
+logically speaking&mdash;of nearness does not have much computational
+strength, and that, in some constructive form, its classical
+obverse&mdash;apartness&mdash;is what one needs for a constructively
+fruitful theory. We sketch such a theory based on a few axioms
+specifying the fundamental properties of the notion of apartness (a)
+between a point and a set, and (b) between two sets.</p>
+
+<p>
+Let \(X\) be an inhabited set equipped with an inequality
+relation \(\ne\) : that is, a binary relation on \(X\) that
+satisfies these two properties for all \(x, y \in X\) :</p>
+
+\[\begin{align*}
+x \ne y &amp;\Rightarrow \neg(x=y), \\
+x \ne y &amp;\Rightarrow y \ne x.
+\end{align*}\]
+
+<p>
+Note that, in general, this inequality relation will be distinct from
+the special case of the denial inequality, in which the first
+implication in the preceding display is replaced by a
+bi-implication. This distinction gives rise to two types
+of complement for subsets \(S\) of \(X\):</p>
+
+<ul>
+<li>the <em>logical complement</em>, \(\neg S \equiv \{x \in X : \neg(x \in S)\}\);</li>
+<li>the <em>complement</em>, \({\sim}S \equiv \{x \in X : \forall s \in S (x \ne s)\}\).</li>
+</ul>
+
+<p>
+We also equip \(X\) with a binary relation \(\bowtie\) between points
+and subsets of \(X\). This brings into play a third type of
+complement:</p>
+
+<ul>
+<li>the <em>apartness complement</em>, \({-}S \equiv \{x \in X : x \bowtie S\}\).</li>
+</ul>
+
+<p>
+It will follow from the axioms for \(\bowtie\) that \({-}S \subset{\sim}S \subset \neg S\).</p>
+
+<p>
+If \(\bowtie\) satisfies the following axioms (in which, for
+simplicity, we omit the quantifiers), then it is called a
+(<em>point-set</em>) <em>pre-apartness</em> on \(X\), and \(X\), taken
+with \(\bowtie\), becomes a (<em>point-set</em>) <em>pre-apartness
+space</em>:</p>
+
+<dl class="sentag tag3em">
+<dt><b>A1</b></dt>
+<dd>\(x \bowtie \varnothing \)</dd>
+
+<dt><b>A2</b></dt>
+<dd>\({-}A \subset{\sim}A \)</dd>
+
+<dt><b>A3</b></dt>
+<dd>\( x \bowtie(A \cup B) \Leftrightarrow(x \bowtie A \wedge x \bowtie B) \)</dd>
+
+<dt><b>A4</b></dt>
+<dd>\({-}A \subset{\sim}B \Rightarrow -A \subset -B \)</dd>
+</dl>
+
+<p>
+If, in addition to A1&ndash;A4, the pre-apartness satisfies</p>
+
+<dl class="sentag tag3em">
+<dt><b>A5</b></dt>
+<dd>\(x \bowtie A \Rightarrow \forall y \in X (x \ne y \vee y \bowtie A),\)</dd>
+</dl>
+
+<p>
+then we call it an <em>apartness</em>, and the space X a (point-set)
+apartness space. The value of the additional axiom A5 is that it
+provides us with alternatives that hold automatically in CLASS and
+that facilitate many constructive proofs. Nevertheless, it makes good
+sense to work without A5 where it is not needed.</p>
+
+<p>
+The canonical example of an apartness space is an inhabited metric
+space \((X,\varrho)\), taken with the metric inequality defined
+by</p>
+
+\[
+x \ne y \Leftrightarrow \varrho(x, y) \gt 0
+\]
+
+<p>
+and with</p>
+
+\[
+x \bowtie S \Leftrightarrow \exists r \gt 0\,\forall s \in S\, (\varrho(x, s) \ge r).
+\]
+
+<p> 
+
+The real line \(\mathbf{R}\) with its standard metric is such an apartness
+space. However, if we take the real line with the denial inequality,
+rather than metric one, then axiom A5 holds if and only if we adopt
+Markov&rsquo;s principle; so in the absence of the latter, the resulting
+space is only a pre-apartness one.</p>
+
+<p>
+For the rest of this section only, we adopt the convention that a
+topological space \(X\) comes with an inequality relation
+\(\ne\). The topology \(\tau\) then induces a topological pre-apartness
+\(\bowtie_{\tau}\) on \(X\), defined by</p>
+
+\[
+x \bowtie_{\tau} S \Leftrightarrow x \in({\sim}S)^{\circ},
+\]
+
+<p>where, as usual, \(^{\circ}\) denotes interior. If
+\(X\) has the <em>topological A5 property</em>,</p>
+
+\[
+\forall x \in X\, \forall U \in \tau\, 
+ (x \in U \Rightarrow \forall y \in X\, 
+ (x \ne y \vee y \in U)),
+\]
+
+
+<p>then the corresponding pre-apartness is an apartness. Note that on
+a metric apartness space the apartness corresponding to the metric
+topology coincides with the metric apartness. 
+</p>
+
+<p>
+Every pre-apartness
+\(\bowtie\) on an inhabited set induces a natural apartness topology
+\(\tau_{\bowtie}\), in which the <em>nearly open sets</em> are the
+unions of families of apartness complements. In turn,
+\(\tau_{\bowtie}\) induces on \(X\) a pre-apartness, which turns out
+to be the original one. If the pre-apartness \(\bowtie\) is induced by
+a topology \(\tau\) on \(X\), then every nearly open subset of \(X\)
+is \(\tau\)-open. When the converse holds, so that the apartness
+topology and the original one coincide, we say that the topological
+space \(X\) is <em>topologically consistent</em>. Topological
+consistency always holds classically, but need not hold
+constructively. One condition on \(X\) that ensures its topological
+consistency is that of <em>topological local decomposability</em>:</p>
+
+\[
+\forall x \in X\, \forall U \in \tau\,
+  (x \in U \Rightarrow \exists V \in \tau\,
+  (x \in V \wedge X = U \cup{\sim}V).
+\]
+
+<p>
+If we start with a pre-apartness \(\bowtie\) on a set \(X\), then we
+can define a counterpart of this last condition&mdash;<em>local
+decomposability</em>:</p>
+
+\[
+\forall x \in X\, \forall S \subset X\, 
+ (x \in {-}S \Rightarrow \exists T \subset X\, 
+ (x \in {-}T \wedge X = {-}S \cup T)).
+\]
+
+<p>
+It turns out that a topological space \((X, \tau)\) is topologically
+locally decomposable if and only if it is topologically consistent and
+\((X, \bowtie_{\tau})\) is locally decomposable.</p>
+
+<p> One obvious way to introduce continuity of a mapping \(f : (X,
+\bowtie_X) \rightarrow(Y, \bowtie_Y)\) between pre-apartness spaces is
+to work with the corresponding apartness topologies. Thus we say that
+\(f\) is <em>topologically continuous</em> if for each nearly open
+subset \(V\) of \(Y, f^{-1}(V)\) is nearly open in \(X\). But there is
+a notion of continuity that is more in the morphic spirit of category
+theory: we say that \(f\) is <em>apartness continuous</em> if for all
+\(x \in X\) and \(S \subset X\),</p>
+
+\[
+f(x) \bowtie_Y f(S) \Rightarrow x \bowtie_X S.
+\]
+
+<p>
+If \(X\) and \(Y\) are metric spaces, then the apartness continuity of
+\(f\) is equivalent to continuity in the usual
+\(\varepsilon\)-\(\delta\) sense.</p>
+
+<p>
+The really hard work, with significant rewards, in the theory of
+apartness comes when we lift our attention to pre-apartness between
+subsets of an inhabited set \(X\). For this, we require the
+(set-set) pre-apartness \(\bowtie\) to satisfy the following axioms:</p>
+
+<dl class="sentag tag3em">
+<dt><b>B1</b></dt>
+<dd>\(X \bowtie \varnothing \)</dd>
+
+<dt><b>B2</b></dt>
+<dd>\({-}A \subset{\sim}A \)</dd>
+
+<dt><b>B3</b></dt>
+<dd>\((A_1 \cup A_2) \bowtie (B_1 \cup B_2) \Leftrightarrow \forall i, j \in \{1, 2\} (A_i \bowtie B_j) \)</dd>
+
+<dt><b>B4</b></dt>
+<dd>\({-}A \subset{\sim}B \Rightarrow {-}A \subset {-}B.\)</dd>
+</dl>
+
+<p>
+The rather complicated form of axiom B3 enables us to work without
+assuming the symmetry of \(\bowtie\).</p>
+
+<p>
+As the reader will have surmised, in axioms B2 and B4, \({-}A\) is the
+apartness complement of \(A\) relative to the point-set relation
+defined by
+</p>
+
+\[
+x \bowtie A \Leftrightarrow \{x\} \bowtie A,
+\]
+
+<p>
+which is a point-set pre-apartness said to be <em>associated
+with</em>, or <em>induced by</em>, the set-set relation \(\bowtie.\)</p>
+
+<p>
+If axioms B1&ndash;B4 hold, then the pair \((X, \bowtie)\), or when no
+confusion is likely, the set \(X\) itself, a
+(<em>set-set</em>) <em>pre-apartness space</em>; and if \(A \bowtie
+B\), we say that \(A\) is <em>apart from B</em>. By a
+(<em>set-set</em>) <em>apartness</em> on \(X\) we mean a relation
+\(\bowtie\) between subsets of \(X\) that satisfies axioms B1&ndash;B3
+and
+</p>
+
+<dl class="sentag tag3em">
+<dt><b>B5</b></dt>
+<dd>\(x \in A \Rightarrow \exists S \subset X (x \in {-}S \wedge X = {-}A \cup S)\).</dd>
+</dl>
+
+<p>
+The relation \(\bowtie\) then also satisfies B4 and so is a
+pre-apartness. Regarded as a point-set pre-apartness space, \(X\)
+is then locally decomposable (this is precisely what B5 says) and
+hence satisfies A5. In this case we call \((X, \bowtie)\), or
+simply \(X\) itself, a (<em>set-set</em>) <em>apartness
+space</em>.</p>
+
+<p>
+The canonical example of a set-set apartness is again a metric space
+\((X, \varrho)\), in which we define the <em>metric apartness</em>
+by</p>
+
+\[
+A \bowtie B \Leftrightarrow \exists r \gt 0\,
+\forall x \in A\, \forall y \in B\,
+(\varrho(x, y) \gt r).
+\]
+
+<p>
+A more general example is a uniform
+space, whose definition we pass over here.</p>
+
+<p>
+The natural morphisms in the category of set-set pre-apartness spaces
+are the functions \(f : (X, \bowtie_X) \rightarrow (Y, \bowtie_Y)\)
+that are <em>strongly continuous</em>,in the sense that for all \(A, B
+\subset X\),</p>
+
+\[
+f(A) \bowtie_Y f(B) \Rightarrow A \bowtie_X B.
+\]
+ 
+<p>
+Every uniformly continuous mapping between metric spaces is strongly
+continuous. Among other results connecting types of continuity for a
+mapping \(f : X \rightarrow Y\) between metric spaces we have
+these:</p>
+
+<ul>
+
+<li>\(f\) is uniformly continuous if and only if the mapping \(f
+\times f : (x, x') \rightsquigarrow (f(x), f(x'))\) is strongly
+continuous on the product metric space \(X \times X\).</li>
+
+<li>If \(f\) is strongly continuous, then it is uniformly sequentially
+continuous.</li>
+
+<li>If \(f\) is strongly continuous and \(f(X)\) is totally bounded,
+then \(f\) is uniformly continuous.</li>
+
+<li>If \(X\) is totally bounded and \(f\) is strongly continuous, then
+\(f\) is uniformly continuous.</li>
+
+</ul>
+
+<p>
+The proofs of the second and fourth of these results are particularly
+involved, and introduce a proof technique that has other applications,
+for example in the theory of convergence of sequences of functions
+between apartness spaces. Note that we cannot pass, in general, from
+uniform sequential continuity to uniform continuity without using
+\(\BDN\).</p>
+
+<p>
+We refer the reader to Chapter 3 of Bridges &amp; V&icirc;&#539;&#259;
+[2011] for more information, including an extensive bibliography, about
+set-set apartness relations.</p>
+
+<h3>Point-free topology</h3>
+
+<p>
+In point-free topology the ideal objects (points) \(X\) are taken as
+basic and we group them together in ever narrower so-called <em>open
+sets</em>. The set \(O(X)\) of open sets defines the topology, and is
+required to be closed under arbitrary unions and finite
+intersections. The open sets are often described in terms of basic
+open sets, so that every open set may be written as a union of such
+sets. These basic open sets can be thought of as approximations to the
+points. To give a specific example, the topology of the real line
+\(\bR\) may be described in terms of the basic open sets </p>
+
+\[
+(p, q) = \{x \in \bR : p \lt x \lt q \}
+\]
+
+<p>
+where \(p\) and \(q\) are rational numbers. Each such basic
+open, an interval with rational endpoints, is specified by finite
+information and approximates all the real numbers \(x\) in the
+interval. </p>
+
+<p>
+We may try to reverse the order of concepts, and take the basic opens,
+or approximations, as fundamental, and derive the ideal objects or
+points from the opens and their mutual relations. This is what is done
+in point-free topology, a field which has a long history going back to
+Wallman [1938], Menger [1940] and in its current form, Ehresmann &amp;
+Isbell; see Picardo &amp; Pultr [2011]. There is also a precursor in
+point-free geometry (Whitehead [1919]). We shall here concentrate
+on <em>formal topology</em> (Sambin [1987]), which is a version of <em>
+locale theory</em> (Johnstone [1982], Joyal &amp; Tierney [1984], Picardo
+&amp; Pultr [2011]), where special consideration has been given to issues
+of constructivity and predicativity. Some seminal examples in formal
+topology were developed earlier in Martin-L&ouml;f [1970].
+</p>
+
+<p>
+A <em>formal topology</em> is a triple \(\langle A, \le,
+\cov \rangle\) consisting of a set \(A\) of basic opens, a
+transitive and reflexive relation \(\le\) on \(A\), and a relation cov
+between elements of \(A\) and subsets of \(A\). The relation \(a \le
+b\) is understood as (formal) inclusion, whereas \(a\) cov \(U\) is
+read \(a\) is covered by \(U\). These are supposed to satisfy the
+following natural axioms.</p>
+
+<ul>
+
+<li> \(\mathbf{ER}\) (extension and reflexity): \(a \cov U\), whenever
+\(a \le b\) for some \(b \in U\) </li>
+
+<li> \(\mathbf{T}\) (transitivity): \(a \cov V\),
+whenever \(a \cov U\), and for each \(b \in U\), \(b \cov V\) </li>
+
+<li> \(\mathbf{L}\) (localization): If \(b \cov U\) and \(a \le b\),
+then \(a \cov a \downarrow U\), where
+
+\[
+a \downarrow U \equiv \{x \in A : x \le a \wedge \exists y \in U (x \le y\}).
+\]
+</li>
+
+</ul>
+
+<p>
+A <em>point</em> in this topology is an inhabited subset \(\alpha\) of
+basic opens which satisfies these conditions:</p>
+
+<ul>
+<li> \(\mathbf{F}\) (filtering): If \(a, b \in \alpha\), then there
+exists \(c \in \alpha\) with \(c \le a\) and \(c \le b\).</li>
+
+<li> \(\mathbf{S}\) (splitting): If \(a \in \alpha\) and \(a \cov
+U\), then for some \(b \in U, b \in \alpha\).</li>
+</ul>
+
+<p>
+We think of a point as a set of approximations. The filtering property
+insures that any two approximations have a common refinement, whereas
+the splitting property allows an approximation to be refined in any
+way the cover relation allows.</p>
+
+<p>
+For any set \(U \subseteq A\), we let \(U^*\) be the set of all points
+\(\alpha\) where \(a \in U\) for some \(a \in \alpha\). It can be
+shown that the points together with the sets \(U^*\) form a point-set
+topology in the usual sense, and that formal cover implies point-wise
+cover: </p>
+
+\[
+a \cov U \Rightarrow \{a\}^* \subseteq U^*.
+\]
+ 
+<p> The converse implication usually fails. </p>
+
+<p>
+For any \(S \subseteq A\), we may define an associated closed subspace
+of \(\bA \equiv\langle A, \le, \cov\rangle\) by redefining the cover relation:</p>
+
+\[
+a \covs U \equiv a \cov S \cup U.
+\]
+
+<p>
+Note that if \(a \cov S\), then \(a \covs \varnothing\), so, in
+effect, the open set determined by \(S\), gets identified with the
+empty set, as far as mutual covering goes. The topology</p>
+
+\[
+\mathbf{A}\text{-}S \equiv \langle A, \le, \covs\rangle
+\]
+
+<p>
+represents the subspace corresponding to the points not
+in \(S\). </p>
+
+
+<p>To illustrate the methods of formal topology, we give a proof of
+the point-free <em>Heine-Borel theorem</em>:</p>
+
+<dl class="sentag tag3em">
+<dt><b>HBT</b></dt>
+<dd><em>Every cover of the unit interval by open sets has a finitely
+enumerable subcover.</em></dd>
+</dl>
+
+<p>
+
+Note the use of &ldquo;finitely enumerable&rdquo; here. A set \(S\) is
+called <em>finitely enumerable</em> if there exist a positive integer
+\(N\) and a mapping \(f\) of \(\{1, \ldots ,N\}\) onto \(S\). If the
+mapping \(f\) is one-one, then we say that \(S\)
+is <em>finite</em>. If the pairset \(\{0, x\}\) is finite, then we can
+decide whether \(x\) equals 0 or not. Thus (see Section 1 above), the
+statement &ldquo;every finitely enumerable subset of \(\bR\) is
+finite&rdquo; implies LPO.
+</p>
+
+<p>
+To prove HBT, we need to construct the point-free reals. Accordingly,
+let \(\bR \equiv\langle I, \le_I, \cov\rangle\) be the formal topology given
+by the following data: \(I\) is the set of pairs \((p, q)\) where</p>
+
+<ul>
+<li>\(p \lt q\) are rational numbers, and</li>
+
+<li> such pairs are ordered by setting \((p', q') \le_I (p, q)\) if
+and only if \(p \le p'\) and \(q' \le q\).
+</li>
+</ul>
+
+<p>A pair in \(I\) is regarded as specifying an interval with
+rational end points. The cover relation \(\cov\) is the smallest cover
+relation that satisfies the following axioms:</p>
+
+<dl class="sentag tag3em">
+<dt><b>R1</b></dt>
+<dd>for \(p \lt p' \lt q' \lt q, (p, q) \cov \{(p, q'),(p', q)\}\)</dd>
+
+<dt><b>R2</b></dt>
+<dd>for \(p \lt q, (p, q) \cov \{(p', q') : p \lt p' \lt q' \lt q\}\)</dd>
+</dl>
+
+<p>
+These axioms describe two principal ways of covering an interval by
+shorter intervals. The points of \(\bR\) are the <em>real
+numbers</em>. We define the order of the points by taking \(\alpha \lt
+\beta\) if and only if there exist \((p, q) \in \alpha\) and \((p',
+q') \in \beta\) with \(q \lt p'\); we then take \(\beta \le \alpha\)
+to mean that \(\alpha \lt \beta\) is false. It is possible to show
+using transfinite induction on covers (cf. Coquand <em>et al.</em>
+2003) that we have the following alternative characterisation of the
+above cover relation: </p>
+
+<p class="indent">
+\((p, q)\) cov \(U\) holds if and only if for
+any \(r \lt s\) with \(p \lt r \lt s \lt q\), there exist
+\(t_1 \lt t_2 \lt \ldots \lt t_n, n \ge 3\),
+with \(r = t_1, s = t_n\), such that each
+\((t_i, t_{i+2}) (1\le i \le n - 2)\) is included in some interval
+of \(U\) (Cederquist &amp; Negri [1996]).
+</p>
+
+<p>
+Let</p>
+
+\[
+S \equiv \{(p, q) \in I : q \lt 0\} \cup \{(p, q) \in I : 1 \lt p\}.
+\]
+
+
+<p>
+
+It can be 
+shown that the points of \(\mathbf{R}\text{-}S\) are 
+the real numbers in the interval [0, 1].</p>
+
+<p>
+
+We now have the ingredients to prove HBT. To say that \(U\) covers the
+unit interval \(\mathbf{R}\text{-}S\) means that \((p, q) \covs U\)
+for all \((p, q)\). In particular \((-2, 3) \covs U\); that is, \((-2,
+3) \cov S \cup U\). Hence for \(r = -1 \lt s = 2\) there are \(t_1 \lt
+t_2 \lt \ldots \lt t_n\) with \(r = t_1\) and \(s = t_n\), such that
+each \((t_i, t_{i+2}) (1 \le i \le n-2)\) is included in some interval
+of \(S \cup U\). Thus for \(i = 1, \ldots ,n - 2\), there exists
+\((p_i, q_i) \in S \cup U\) with \((t_i, t_{i+2}) \le(p_i, q_i)\). It
+follows that there is a finitely enumerable \(F \subset U\) such that
+\((-1, 2) \covs F\). But \((p, q) \covs (-1, 2)\) for all \((p, q) \in
+I\), so by transitivity, \((p, q) \covs F\). Hence \(F\) is a finitely
+enumerable subcover of the unit interval. This establishes the
+theorem. </p>
+
+<p>
+Another surprising result about compactness is that Tychonoff&rsquo;s
+theorem holds for formal topologies (Coquand [1992]). In classical
+point-set topology this theorem is equivalent to the Axiom of Choice
+(Johnstone [1982]). Moreover, the classically highly non-constructive
+Stone-&#268;ech compactification has as well a constructive point-free
+version (Curi [2010]). </p>
+
+<p>
+The category of (set-presented) formal topologies has good properties
+from a topological point of view: it has (finite) limits and (finite)
+colimits. In particular, it is possible to construct quotient spaces
+and to attach subspaces, so the category seems adequate for doing
+algebraic topology; see Palmgren [2009].</p>
+
+
+
+<p>
+Many results in functional analysis have natural point-free proofs
+(Johnstone [1982], Picardo &amp; Pultr [2011]); some of them&mdash;for
+instance, the Riesz representation theorem (Coquand &amp; Spitters
+[2009])&mdash;can also be proved completely constructively. There are,
+in addition, methods for dealing with the Zariski topology and spectra
+of rings in a point-free way (Johnstone [1982]); here, too, it is
+possible to make constructive developments (Schuster [2006], Coquand
+[2009]). </p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+<a href="http://www.math.canterbury.ac.nz/~mathdsb/" target="other">Douglas Bridges</a>
+&lt;<a href="m&#97;ilto:dugbridges&#37;40gmail&#37;2ecom"><em>dugbridges<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+<a href="http://staff.math.su.se/palmgren/" target="other">Erik Palmgren</a>
+<br />
+Hajime Ishihara
+&lt;<a href="m&#97;ilto:ishihara&#37;40jaist&#37;2eac&#37;2ejp"><em>ishihara<abbr title=" at ">&#64;</abbr>jaist<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>jp</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

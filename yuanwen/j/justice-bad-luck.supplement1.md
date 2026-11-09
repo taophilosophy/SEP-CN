@@ -1,0 +1,15 @@
+# justice-bad-luck — supplement1（supplement）
+
+> （《justice-bad-luck》词条补充材料，源：plato.stanford.edu/entries/justice-bad-luck/supplement1.html）
+
+#### Supplement to Justice and Bad Luck
+
+## Constitutive Luck
+
+One of the most basic forms of luck is constitutive luck—luck in being the kind of person one is (Nagel 1979, 28). Personal constitution may include contingent (e.g., inclinations, capacities, and temperament) as well as necessary features of a person. On the other hand, it may consist of necessary features only. For example, on common, origin-focused views about the essence of a human being, the fact that one developed from a particular sperm and ovum is a necessary feature of one. On the first view here, one could have existed with a different constitution, while on the latter one could not. On the latter account, a world in which no one exists with the constitution I have is a world in which I do not exist.
+
+This may be thought to show that Rawls’ idea of a natural lottery is seriously misleading. For, normally, one and the same person (i.e. the gambler) exists whichever of the possible outcomes of a lottery is realized. That is, we say that someone has good luck in buying the winning ticket because we compare two outcomes in both of which this person exists. One of these outcomes, the one which was ex ante very unlikely to be realized and yet was the one that resulted, is much better for this person than the other. That is why this person had good lottery luck. However, when we talk about the natural lottery luck in connection with one’s essential properties, the very idea of lottery luck seems to involve an incoherent conception of bare selves that exist before they acquire their essential properties, or for that matter any properties at all (Hurley 2003, 120–123; Rescher 1993, 155; but see Latus 2003, 470–472).
+
+This observation seems sound, but it hardly follows that the idea of natural lottery must be rejected altogether. Suppose a person’s constitution involves the fact that she developed from the particular sperm and ovum from which she in fact developed. The question then is whether this limits the range of benefits metaphysically available to this person. If it does, there are necessary limits to how lucky or unlucky this person could be. However, it is not clear that this view about the essence of a person does anything at all to limit a person’s good or bad luck. Genetically determined, benefit-influencing properties may vary independently of origin, e.g. as a result of genetic changes occurring before or after conception; and obviously the social environment in which the relevant person grows up, and in which her properties constitute talents or non-talents, may vary widely. Accordingly, it is doubtful that anyone is ever in a position in which she can point to another individual with a level of benefits different from his own and correctly deny that it is metaphysically possible for her to have had that level of benefits. So while constitutive luck, understood in one way, may be incoherent, this has no tendency to shows that Rawls’ idea of a natural lottery is incoherent.
+
+Return to main entry.

@@ -1,0 +1,2893 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Simpson’s Paradox (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Simpson’s Paradox" />
+<meta name="citation_author" content="Sprenger, Jan" />
+<meta name="citation_author" content="Weinberger, Naftali" />
+<meta name="citation_publication_date" content="2021/03/24" />
+<meta name="DC.title" content="Simpson’s Paradox" />
+<meta name="DC.creator" content="Sprenger, Jan" />
+<meta name="DC.creator" content="Weinberger, Naftali" />
+<meta name="DCTERMS.issued" content="2021-03-24" />
+<meta name="DCTERMS.modified" content="2026-06-06" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/paradox-simpson/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=paradox-simpson">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Simpson&rsquo;s Paradox</h1><div id="pubinfo"><em>First published Wed Mar 24, 2021; substantive revision Sat Jun 6, 2026</em></div>
+
+<div id="preamble">
+
+<p>
+Simpson&rsquo;s Paradox is a statistical phenomenon where an
+association between two variables in a population emerges, disappears
+or reverses when the population is divided into subpopulations. For
+instance, two variables may be positively associated in a population,
+but be independent or even negatively associated in all
+subpopulations. Cases exhibiting the paradox are unproblematic from
+the perspective of mathematics and probability theory, but
+nevertheless strike many people as surprising. Additionally, the
+paradox has implications for a range of areas that rely on
+probabilities, including decision theory, causal inference, and
+evolutionary biology. Finally, there are many instances of the
+paradox, including in epidemiology and in studies of discrimination,
+where understanding the paradox is essential for drawing the correct
+conclusions from the data.</p>
+
+<p>
+The following article provides a mathematical analysis of the paradox,
+explains its role in causal reasoning and inference, compares theories
+of what makes the paradox seem paradoxical, and surveys its
+applications in different domains.</p>
+</div> 
+
+<div id="toc"><!--Entry Contents-->
+<ul>
+	<li><a href="#Intr">1. Introduction</a></li>
+	<li><a href="#DefiMathChar">2. Definition and Mathematical Characterization</a>
+	<ul>
+		<li><a href="#VariSimpPara">2.1 Varieties of Simpson&rsquo;s Paradox</a></li>
+		<li><a href="#NeceSuffCond">2.2 Necessary and Sufficient Conditions</a></li>
+	</ul>
+	</li>
+	<li><a href="#SimpParaCausInfe">3. Simpson&rsquo;s Paradox and Causal Inference</a>
+	<ul>
+		<li><a href="#ProbCausSimpPara">3.1 Probabilistic Causality and Simpson&rsquo;s Paradox</a></li>
+		<li><a href="#SpecDebaCausInteAverEffeMedi">3.2 Specific Debates: Causal Interaction, Average Effects, Mediators</a></li>
+		<li><a href="#DAGsCausIden">3.3 DAGs and Causal Identifiability</a></li>
+		<li><a href="#ConfPearAnalPara">3.4 Confounding and Pearl&rsquo;s Analysis of the Paradox</a></li>
+		<li><a href="#Impl">3.5 Implications</a></li>
+	</ul>
+	</li>
+	<li><a href="#WhatMakeSimpParaPara">4. What Makes Simpson&rsquo;s Paradox Paradoxical?</a></li>
+	<li><a href="#Appl">5. Applications</a>
+	<ul>
+		<li><a href="#NonCateDataLineRegr">5.1 Non-Categorical Data and Linear Regression</a></li>
+		<li><a href="#EpidMetaAnal">5.2 Epidemiology and Meta-Analysis</a></li>
+		<li><a href="#DeciTheoSureThinPrin">5.3 Decision Theory and the Sure-Thing Principle</a></li>
+		<li><a href="#PhilBiolNatuSele">5.4 Philosophy of Biology and Natural Selection</a></li>
+		<li><a href="#PoliQuesInteDataDisc">5.5 Policy Questions: Interpreting Data on Discrimination</a></li>
+		<li><a href="#UsinStatEvalTaskPerf">5.6 Using Statistics to Evaluate Task Performance</a></li>
+	</ul>
+	</li>
+	<li><a href="#Conc">6. Conclusions</a></li>
+	<li><a href="#Bib">Bibliography</a></li>
+	<li><a href="#Aca">Academic Tools</a></li>
+	<li><a href="#Oth">Other Internet Resources</a></li>
+	<li><a href="#Rel">Related Entries</a></li>
+</ul>
+<!--Entry Contents-->
+
+<hr /></div>
+
+<div id="main-text">
+
+<h2 id="Intr">1. Introduction</h2>
+
+<p>
+We begin with an illustration of the paradox with concrete data. The
+numbers in
+ <a href="#tabSimpson1">Table 1</a>
+ summarize the effect of a medical treatment for the overall
+population (N = 52), and separately for men and women:</p>
+
+<div class="figure wide avoid-break">
+
+<!--pdf include  <table id="tabSimpson1" class="two-hrules cellpad-small-dense wide cell-center vert-top" style="font-size: 8pt; line-height: normal">
+pdf include-->
+
+<!--pdf exclude begin-->
+
+<table class="cell-center cellpad-small-dense smaller two-hrules vert-top wide" id="tabSimpson1">
+
+<!--pdf exclude end-->
+<tbody>
+<tr>
+  <td>&nbsp;</td>
+  <td class="bold" colspan="3">Full Population, \(\bf N=52\)</td>
+  <td class="bold" colspan="3">Men \(\bf(\r{M})\), \(\bf N=20\)</td>
+  <td class="bold" colspan="3">Women \(\bf(\neg \r{M})\), \(\bf
+N=32\)</td> </tr>
+<tr class="rule-below">
+  <td>&nbsp;</td>
+  <td class="bold">Success \(\bf(\r{S})\)</td>
+  <td class="bold">Failure \(\bf(\neg \r{S})\)</td>
+  <td class="bold">Success Rate</td>
+  <td class="bold">Success</td>
+  <td class="bold">Failure</td>
+  <td class="bold">Success Rate</td>
+  <td class="bold">Success</td>
+  <td class="bold">Failure</td>
+  <td class="bold">Success Rate</td> </tr>
+<tr>
+  <td class="bold">Treatment (T)</td>
+  <td>20</td>
+  <td>20</td>
+  <td>50%</td>
+  <td>8</td>
+  <td>5</td>
+  <td>&asymp; 61%</td>
+  <td>12</td>
+  <td>15</td>
+  <td>&asymp; 44%</td> </tr>
+<tr>
+  <td class="bold">Control
+<br />
+(&not;T)</td>
+  <td>6</td>
+  <td>6</td>
+  <td>50%</td>
+  <td>4</td>
+  <td>3</td>
+  <td>&asymp; 57%</td>
+  <td>2</td>
+  <td>3</td>
+  <td>&asymp; 40%</td> </tr> </tbody>
+</table>
+
+<p>
+<span class="figlabel">Table 1:</span> Simpson&rsquo;s Paradox: the
+type of association at the population level (positive, negative,
+independent) changes at the level of subpopulations. Numbers taken
+from Simpson&rsquo;s original example (1951).</p>
+</div>
+
+<p>
+For matters of exposition, we assume that these frequencies are
+unbiased estimates of the underlying probabilities. The treatment
+looks ineffective at the level of the overall population, but it leads
+to higher success percentages than the control both for men and for
+women (61% vs. 57% for men and 44% vs. 40% for women). Writing these
+proportions as conditional probabilities, with \(\r{T}\)=treatment,
+\(\r{S}\)=success/recovery, and \(\r{M}\)=male subpopulation, we
+obtain</p> 
+\[ p(\r{S}\mid \r{T}) = p(\r{S}\mid \neg \r{T}) \]
+
+<p>
+but at the same time,</p> 
+\[\begin{align*}
+p(\r{S}\mid \r{T}, \r{M}) &amp; \gt p(\r{S}\mid \neg \r{T}, \r{M} ) \\
+ p(\r{S}\mid \r{T}, \neg \r{M}) &amp;\gt p(\r{S}\mid \neg \r{T}, \neg \r{M}) 
+\end{align*}\]
+
+<p>
+Should we use the treatment or not? When we know the gender of the
+patient, we would presumably administer the treatment, whereas it does
+not look like the right thing to do when we don&rsquo;t know the
+patient&rsquo;s gender&mdash;although we know that the patient is
+either male or female!</p>
+
+<p>
+This phenomenon was first pointed out in papers by Karl G. Pearson
+(1899) and George U. Yule (1903), but it was Simpson&rsquo;s short
+paper &ldquo;The interpretation of interaction in contingency
+tables&rdquo; (1951), discussing the interpretation of such
+association reversals, that led to the phenomenon being labeled as
+&ldquo;Simpson&rsquo;s Paradox&rdquo;. The phenomenon is, however,
+broader than independence in the overall population and positive
+association in the subpopulations; for example, the associations may
+also be reversed. Nagel and Cohen (1934: ch. 16) provide an example of
+such a reversal as part of a exercise for logic students.</p>
+
+<p>
+Understanding the paradox is essential for drawing the proper
+conclusions from statistical data. To give a recent example involving
+the paradox (K&uuml;gelgen, Gresele, &amp; Sch&ouml;lkopf 2021), early
+data revealed that the case fatality rate for Covid-19 was higher in
+Italy than in China overall. Yet within every age group the fatality
+rate was higher in China than in Italy. One thus appears to get
+opposite conclusions about the comparative severity of the virus in
+the countries depending on whether one compares the whole populations
+or the age-partitioned populations. Having a proper analysis of what
+is going on is such cases is thus crucial for using statistics to
+inform policy.</p>
+
+<p>
+In what follows,
+ <a href="#DefiMathChar">Section 2</a>
+ explains different varieties of the paradox, clarifies the logical
+relationships between them, and identifies precise conditions for when
+the paradox can occur. While that section focuses on the mathematical
+characterization of the paradox,
+ <a href="#SimpParaCausInfe">Section 3</a>
+ focuses on its role in causal inference, its implications for
+probabilistic theories of causality, and its analysis by means of
+causal models based on directed acyclic graphs (DAGs: Spirtes,
+Glymour, &amp; Scheines 2000; Pearl 2000 [2009]).</p>
+
+<p>
+Based on these different approaches,
+ <a href="#WhatMakeSimpParaPara">Section 4</a>
+ discusses different analyses of what makes Simpson&rsquo;s Paradox
+look paradoxical, and what kind of error it reveals in human
+reasoning. This section also reports empirical findings on the
+prevalence of the paradox in reasoning and inference.
+ <a href="#Appl">Section 5</a>
+ surveys the occurrence and interpretation of the paradox in applied
+statistics (regression models), philosophy of biology, decision theory
+and public policy. For example, Simpson&rsquo;s Paradox is relevant
+when analyzing data to test for race or gender discrimination (Bickel,
+Hammel, &amp; O&rsquo;Connell 1975).
+ <a href="#Conc">Section 6</a>
+ wraps up our findings and concludes.</p>
+
+<h2 id="DefiMathChar">2. Definition and Mathematical Characterization</h2>
+
+<p>
+This section shows how Simpson&rsquo;s Paradox can be characterized
+mathematically, under which conditions it occurs, and how it can be
+avoided. We begin by further considering the concrete example from the
+introduction in order to build intuitions that will guide us through
+the more technical results.</p>
+
+<p>
+The data in
+ <a href="#tabSimpson1">Table 1</a>
+ can be translated into success or recovery rates, showing that
+treated men have a higher recovery rate than untreated men (roughly
+61% vs. 57%), and the same for women (44% vs. 40%). Two observations
+are key to understanding why this positive association vanishes in the
+aggregate data. First, the recovery rate of untreated men is still
+higher than the recovery rate of women who receive treatment (57% vs.
+44%), suggesting that not only treatment, but also gender is a
+relevant predictor of recovery. Second, while the treatment group is
+majority female (27 vs. 13), the control group is majority male (7 vs.
+5). Speaking informally, the lack of population-level correlation
+between treatment and recovery results from men being both (i) more
+likely to recover from the treatment, and (ii) less likely to be in
+the treatment group.</p>
+
+<p>
+This becomes evident when we use conditional probabilities to
+represent recovery rates given treatment and/or subpopulation. The
+overall recovery rates given treatment and control can, by the Law of
+Total Probability, be written as the weighted average of recovery
+rates in the subpopulations:</p> 
+\[\begin{align*}
+p(\r{S}\mid \r{T}) &amp;= p(\r{S}\mid \r{T},\r{M}) p(\r{M}\mid \r{T}) + p(\r{S}\mid \r{T}, \neg \r{M}) p(\neg \r{M}\mid \r{T}) \\
+p(\r{S}\mid \neg \r{T}) &amp;= p(\r{S}\mid \neg \r{T},\r{M}) p(\r{M}\mid \neg \r{T}) + p(\r{S}\mid \neg \r{T}, \neg \r{M}) p(\neg \r{M}\mid \neg \r{T})\end{align*}\]
+
+<p>
+Plugging in the numbers from
+ <a href="#tabSimpson1">Table 1</a>
+ to calculate the overall recovery rates via these equations, we see
+that the first line is a weighted average of success rates for treated
+men and women (61% and 44%) while the second line is a weighted
+average of success rates of the two control groups (57% and 40%).
+These averages are weighted by the percentage of males and females in
+each group, and in the present case the gender disparity between the
+groups results in both averages being 50%. Since these weights can be
+different, the treatment may raise the probability of success among
+males and females without doing so in the combined population.</p>
+
+<p>
+Later we will show that the positive association in the subpopulations
+cannot vanish if the correlation of treatment with gender is broken
+(e.g., by balancing gender rates in both conditions). The weights in
+each line are then identical&mdash;\(p(\r{M}\mid \r{T}) = p(\r{M}\mid
+\neg \r{T})\)&mdash;and associations in subpopulations are preserved
+for the aggregate data
+ (<a href="#theorem1">Theorem 1 in Section 2.2</a>).
+ In fact, the absence of such a correlation rules out Simpson&rsquo;s
+Paradox.</p>
+
+<p>
+In what follows, we interpret Simpson&rsquo;s paradox as a property of
+association between variables, expressed by conditional probabilities.
+This perspective is not uncontentious. For Spanos (2021), it amounts
+to a <em>deductive</em> take on the paradox, contrary to the original
+understanding of the paradox as a challenge for <em>inductive,</em>
+statistical learning. In Pearson&rsquo;s and Yule&rsquo;s original
+papers (and in applications involving linear regression models, see
+ <a href="#NonCateDataLineRegr">Section 5.1</a>),
+ the paradox is about models and data: estimating a model parameter
+yields spurious correlations that vanish when one refines the model
+and includes further variables. For Spanos, the paradox emerges as a
+consequence of statistical model misspecification. We get back to this
+statistics-centered perspective on Simpson&rsquo;s paradox at the end
+of
+ <a href="#WhatMakeSimpParaPara">Section 4</a>.</p>
+ 
+<h3 id="VariSimpPara">2.1 Varieties of Simpson&rsquo;s Paradox</h3>
+
+<p>
+Simpson&rsquo;s Paradox can occur for various types of data, but
+classically, it is formulated with respect to \(2\times2\) contingency
+tables. Let \(D_i = (a_i, b_i, c_i, d_i)\) be a four-dimensional
+vector of real numbers representing the \(2\times2\) contingency table
+for treatment and success in the <em>i</em>-th subpopulation, and
+let</p> 
+\[D = \sum_{i=1}^N D_i = \left(\sum a_i, \sum b_i, \sum c_i, \sum d_i\right)\]
+
+<p>
+be the aggregate data set over \(N\) subpopulations. These data should
+be read as shown in
+ <a href="#tabSimpson2">Table 2</a>.</p>
+ 
+<div class="figure wide avoid-break">
+
+<!--pdf include  <table id="tabSimpson2" class="two-hrules cellpad-small-dense wide smallest cell-center" style="font-size: 8pt; line-height: normal">
+pdf include-->
+
+<!--pdf exclude begin-->
+
+<table class="cell-center cellpad-small-dense smallest two-hrules wide" id="tabSimpson2">
+
+<!--pdf exclude end-->
+<tbody>
+<tr>
+  <td>&nbsp;</td>
+  <td class="bold" colspan="2">Population \(\bf \i{D} =
+\i{D}_1+\i{D}_2\)</td>
+  <td class="bold" colspan="2">Subpopulation \(\bf \i{D}_1\)</td>
+  <td class="bold" colspan="2">Subpopulation \(\bf \i{D}_2\)</td>
+</tr>
+<tr class="rule-below">
+  <td>&nbsp;</td>
+  <td class="bold">Success (\(\bf \i{S}\))</td>
+  <td class="bold">Failure (\(\bf \neg \i{S}\))</td>
+  <td class="bold">Success (\(\bf \i{S}\))</td>
+  <td class="bold">Failure (\(\bf \neg \i{S}\))</td>
+  <td class="bold">Success (\(\bf \i{S}\))</td>
+  <td class="bold">Failure (\(\bf \neg \i{S}\))</td> </tr>
+<tr>
+  <td class="bold">Treatment (\(\bf \i{T}\))</td>
+  <td>\(a_1 + a_2\)</td>
+  <td>\(b_1 + b_2\)</td>
+  <td>\(a_1\)</td>
+  <td>\(b_1\)</td>
+  <td>\(a_2\)</td>
+  <td>\(b_2\)</td> </tr>
+<tr>
+  <td class="bold">No Treatment (\(\bf\neg \i{T}\))</td>
+  <td>\(c_1 + c_2\)</td>
+  <td>\(d_1 + d_2\)</td>
+  <td>\(c_1\)</td>
+  <td>\(d_1\)</td>
+  <td>\(c_2\)</td>
+  <td>\(d_2\)</td> </tr> </tbody>
+</table>
+
+<p>
+<span class="figlabel">Table 2:</span> Abstract representation of a
+\(2 \times 2\) contingency table with subpopulations \(D_1\) and
+\(D_2\).</p>
+</div>
+
+<p>
+Let \(\alpha (D_i)\) be a measure the strength of the probabilistic
+association between \(T\) and \(S\) in population
+ \(D_i\).<sup>[<a href="notes.html#note-1" id="ref-1">1</a>]</sup>
+ By convention, \(\alpha (D_i) = 0\) corresponds to no association
+between the variables, \(\alpha (D_i) \gt 0\) indicates a positive
+association, and \(\alpha (D_i) &lt; 0\) a negative one. This can best
+be translated into the condition</p>
+
+<div id="eqnass">
+
+\[\begin{align*}
+\tag{1} 
+\alpha (D_i) &amp; 
+\begin{cases}
+&gt; 0 &amp; \qquad \text{if and only if} \qquad a_i \, d_i &gt; b_i \, c_i; \\
+= 0 &amp; \qquad \text{if and only if} \qquad a_i \, d_i = b_i \, c_i; \\
+&gt; 0 &amp; \qquad \text{if and only if} \qquad a_i \, d_i &lt; b_i \, c_i. 
+\end{cases}\end{align*}\]
+
+</div>
+
+<p>
+The condition \(a_i \, d_i &gt; b_i \, c_i\) is equivalent to saying
+that the success rate in the first row (&ldquo;treatment
+condition&rdquo;) is higher than the success rate in the second row
+(&ldquo;control condition&rdquo;):</p> 
+\[ a_i/(a_i+b_i) &gt; c_i/(c_i+d_i).\]
+
+<p>
+Applying all this to our dataset in
+ <a href="#tabSimpson1">Table 1</a>,
+ we see that \(\alpha(D) = 0\) although \(\alpha(D_1) &gt; 0\) and
+\(\alpha(D_2) &gt; 0\). This is a special case of what Samuels (1993)
+calls <strong>Association Reversal (AR)</strong>. Association reversal
+occurs if and only if there is a population such that the association
+in <em>all</em> partitioned subpopulations is either (i) positive (ii)
+negative, or (iii) zero, and the type of association in the population
+does not match that of the subpopulations. Writing this out
+mathematically, this means for a dataset \(D = \sum_{i=1}^N D_i\) that
+one of the following two conditions holds,</p> 
+\[\begin{align*}
+ \alpha(D) &amp;\le 0 \qquad \text{and} &amp; \alpha(D_i) &amp;\ge 0 \qquad \forall \; 1 \le i \le N \tag{AR1}\\
+\alpha(D) &amp;\ge 0 \qquad \text{and} &amp; \alpha(D_i) &amp;\le 0 \qquad \forall \; 1 \le i \le N \tag{AR2}\end{align*}\]
+
+<p>
+where at least one of the inequalities has to be strict. Association
+reversal is the standard variety of Simpson&rsquo;s Paradox
+(Bandyopadhyay et al. 2011; Blyth 1972, 1973) and also the one that is
+most frequently investigated in the psychology of reasoning, or by
+philosophers analyzing the paradox (e.g., Cartwright 1979; Eells 1991;
+Malinas 2001).</p>
+
+<p>
+An important special case of AR occurs when there is no association in
+the subpopulations, but an association emerges in the overall
+dataset:</p>
+
+<div id="eqnYAP">
+
+\[\begin{align*}
+\alpha(D_i) &amp;= 0 \qquad \forall 1 \le i \le n \qquad \text{but} &amp; \alpha(D) &amp;\ne 0 \tag{YAP}\end{align*}\]
+
+</div>
+
+<p>
+Referring to the pioneering work of the statistician George U. Yule
+(1903: 132&ndash;134), Mittal (1991) calls this <strong>Yule&rsquo;s
+Association Paradox (YAP)</strong>. It is typical of spurious
+correlations between variables with a common cause, that is, variables
+that are dependent unconditionally (\(\alpha(D) \ne 0\)) but
+independent given the values of the common cause (\(\alpha(D_i) =
+0\)). For example, sleeping in one&rsquo;s clothes is correlated with
+having a headache the next morning. However, once we stratify the data
+according to the levels of alcohol intake on the previous night, the
+association vanishes: given the same level of drunkenness, people who
+undress before going to bed will have the same headache, ceteris
+paribus, as those who kept their clothes on.</p>
+
+<p>
+Finally, the most general version of Simpson&rsquo;s Paradox is the
+<strong>Amalgamation Paradox (AMP)</strong> identified by Good and
+Mittal (1987). This paradox occurs when the overall degree of
+association is bigger (or smaller) than each degree of association in
+the subpopulations, or mathematically,</p>
+
+<div id="eqnAMP">
+
+\[\begin{align*}
+\alpha(D) &amp;&gt; \max_{1 \le i \le N} \alpha(D_i) \qquad \text{or} &amp; \alpha(D) &amp;&lt; \min_{1 \le i \le N} \alpha(D_i). \tag{AMP} 
+\end{align*}\]
+
+</div>
+
+<p>
+AMP challenges the intuition that the degree of association in the
+general population, in virtue of being &ldquo;the sum&rdquo; of the
+individual subpopulations, has to fall in between the minimal and the
+maximal degree of association observed on that level. The logical
+strength of the paradoxes is inversely related to their generality and
+frequency of occurrence: \(\text{YAP} \Rightarrow \text{AR}
+\Rightarrow \text{AMP}\). Variations of the paradox for
+non-categorical data (e.g., bivariate real-valued data) will be
+discussed in
+ <a href="#NonCateDataLineRegr">Section 5.1</a>.</p>
+ 
+<h3 id="NeceSuffCond">2.2 Necessary and Sufficient Conditions</h3>
+
+<p>
+We proceed to characterizing the mathematical conditions under which
+Simpson&rsquo;s Paradox occurs. We have already suggested that the
+paradox arises in the medical example due to correlations between the
+treatment variable and the partitioning variable, and we can now make
+this more precise:</p>
+
+<div class="indent" id="theorem1">
+
+<p>
+<strong>Theorem 1 (Lindley &amp; Novick 1981; Mittal 1991):</strong>
+If \(\alpha(D) &gt; 0\) and association reversal occurs for the
+subpopulations characterized by attribute \(\r{M}\) and \(\neg\r{M}\),
+(i.e., \(\alpha(D_1), \alpha(D_2) \le 0\)), then either</p>
+
+<ol type="1">
+
+<li>\(\r{M}\) is positively related to \(\r{S}\) and \(\r{T}\);
+or</li>
+
+<li>\(\r{M}\) is positively related to \(\neg\r{S}\) and
+\(\neg\r{T}\).</li>
+</ol>
+</div>
+
+<p>
+As Theorem 1 makes clear, the lack of correlation between \(\r{M}\)
+and \(\r{T}\) is sufficient to rule out association reversals (and
+thus YAP as well). Does it also rule out the more general amalgamation
+paradox? The answer to this depends on which <strong>measure of
+association</strong> one chooses for \(\alpha\). Discussions of
+Simpson&rsquo;s Paradox commonly treat association as the
+<em>difference</em> in the success rate between the treated and the
+untreated, but this is only one of many possibilities (Fitelson 1999).
+While the lack of association between \(M\) and \(T\) is sufficient to
+rule out AMP for most measures (including the difference measure) it
+does not rule it out for all measures, as we will now explain. Readers
+not interested the specific details may skip to the following
+section.</p>
+
+<p>
+Here are some widely used association measures for a dataset \((a, b,
+c, d)\):</p> 
+\[\begin{align*}
+\pi_{D} &amp;= \frac{a}{a+b} - \frac{c}{c+d} &amp; \pi_{Y} &amp;= \frac{ad -bc}{N^2}\\
+\pi_{R} &amp;= \log \left(\frac{a}{a+b} \cdot \frac{c+d}{c} \right) &amp; \pi_{W} &amp;= \log \left(\frac{a}{a+c} \cdot \frac{b+d}{b} \right) \\
+\pi_{O} &amp;= \log \frac{ad}{bc} &amp; \pi_{C} &amp;= \log \left(\frac{d}{c+d} \cdot \frac{a+b}{a} \right) \end{align*}\]
+
+<p>
+Some of these measures can be formulated probabilistically and have
+been suggested as measures of causal strength and outcome measures for
+clinical trials (Edwards 1963; Eells 1991; Fitelson &amp; Hitchcock
+2011; Greenland 1987; Peirce 1884; Sprenger 2018; Sprenger &amp;
+Stegenga 2017). For example, \(\pi_{D} = p(\r{S}\mid \r{T}) -
+p(\r{S}\mid \neg \r{T})\) represents the difference and \(\pi_R =
+p(\r{S}\mid \r{T}) / p(\r{S}\mid \neg \r{T})\) the ratio of success
+rates in treatment and control conditions. \(\pi_W\) can be
+interpreted as the prognostic weight of evidence that treatment
+provides for success (i.e., as the log-Bayes factor), \(\pi_{Y}\) is
+Yule&rsquo;s (1903) measure of association, \(\pi_{O}\) is the
+log-odds ratio familiar from epidemiological data analysis, and
+\(\pi_C\)&nbsp;is I.J. Good&rsquo;s (1960) measure of causal
+strength.</p>
+
+<p>
+We now consider the extent to which AMP for different measures is
+ruled out by different experimental designs. Suppose that individuals
+are uniformly assigned to the treatment and control condition across
+subpopulations. In such a case, where the ratio of persons assigned to
+the treatment and control condition is equal for each subpopulation,
+the experimental design is called <strong>row-uniform</strong>.
+Specifically, there has to be a \(\lambda &gt; 0\) such that for any
+subpopulation <em>i</em></p>
+
+<div id="eqnrow">
+
+\[ a_i + b_i = \lambda (c_i+d_i) \tag{Row Uniformity} \]
+
+</div>
+
+<p>
+In particular, row uniformity holds approximately if our sample is
+large and we sample at random from the population.</p>
+
+<p>
+Row-uniform design of a trial ensures independence between a potential
+confounder \(M\) and the treatment variable \(T\). Accordingly, by
+ <a href="#theorem1">Theorem 1</a>,
+ it rules out association reversals. Additionally, row-uniform design
+is sufficient to rule out the AMP for a wide class of association
+measures:</p>
+
+<p class="indent" id="theorem2">
+<strong>Theorem 2 (Good &amp; Mittal 1987):</strong> If a dataset \(D
+= \sum D_{i}\) satisfies row uniformity, then the Amalgamation Paradox
+is avoided for the measures \(\pi_{D}\), \(\pi_{R}\), \(\pi_{Y}\) and
+\(\pi_{W}\) and \(\pi_{C}\). It is <em>not</em> avoided for the
+log-odds ratio \(\pi_{O}\).</p>
+
+<p>
+Some studies also exhibit <strong>column-uniform design</strong> where
+the proportion of successes and failures is constant across all
+subpopulations:</p>
+
+<div id="eqncolumn">
+
+\[ a_i + c_i = \lambda (b_i+d_i) \tag{Column Uniformity} \]
+
+</div>
+
+<p>
+Also then \(\r{M}\) is independent of \(\r{S}\). Column uniformity can
+occur in case-control studies with various subpopulations (e.g.,
+different hospitals) where one does not match the number of persons
+with the explanatory attribute, like in an RCT. Instead, for each
+person with a certain attribute (e.g., a specific form of cancer), one
+selects a number of persons that does not have this attribute.
+Column-uniform design avoids AR as well, but among the presented
+association measures, it suffices to rule out AMP only for
+\(\pi_Y\).</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-small hrules" id="tabmeas">
+<tbody>
+<tr>
+  <td>&nbsp;</td>
+  <td class="bold" colspan="6">Association Measure</td> </tr>
+<tr>
+  <td class="bold">Avoids AMP?</td>
+  <td>\(\pi_{D}\)</td>
+  <td>\(\pi_{R}\)</td>
+  <td>\(\pi_{O}\)</td>
+  <td>\(\pi_{Y}\)</td>
+  <td>\(\pi_{W}\)</td>
+  <td>\(\pi_{C}\)</td> </tr>
+<tr>
+  <td class="bold">Row-uniform design</td>
+  <td>yes</td>
+  <td>yes</td>
+  <td>no</td>
+  <td>yes</td>
+  <td>yes</td>
+  <td>yes</td> </tr>
+<tr>
+  <td class="bold">Column-uniform design</td>
+  <td>no</td>
+  <td>no</td>
+  <td>no</td>
+  <td>yes</td>
+  <td>no</td>
+  <td>no</td> </tr>
+<tr>
+  <td class="bold">Both</td>
+  <td>yes</td>
+  <td>yes</td>
+  <td>yes</td>
+  <td>yes</td>
+  <td>yes</td>
+  <td>yes</td> </tr> </tbody>
+</table>
+
+<p>
+<span class="figlabel">Table 3:</span> An overview of how row- and
+column-uniform design avoid the amalgamation paradox for various
+association measures.</p>
+</div>
+
+<p>
+ <a href="#tabmeas">Table 3</a>
+ summarizes the properties of all association measures with respect to
+the AMP and the different forms of experimental design. The behavior
+of the log-odds measure \(\pi_O\), where neither row- nor
+column-uniform design suffices to rule out the AMP, will be discussed
+in
+ <a href="#EpidMetaAnal">Section 5.2</a>.</p>
+ 
+<p>
+We now identify one last fundamental condition for when data exhibit
+association reversal. Have a look at
+ <a href="#figgeom">Figure 1</a>
+ which displays the success proportions for treatment and control
+graphically.</p>
+
+<div class="figure wide avoid-break" id="figgeom">
+<img alt="a diagram: link to extended description below" src="figgeom1.svg" style="margin-bottom:1ex; width:100%" />
+
+<p>
+<span class="figlabel">Figure 1:</span> A geometrical representation
+of a necessary condition for the occurrence of Association Reversal.
+The paradox can occur if the proportions are ordered like in the left
+graph; it cannot occur if they are ordered like in the right graph.
+[An
+ <a href="figdesc.html#figgeom">extended description of figure 1</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+In both examples, the treatment success rate is for both
+subpopulations greater than the control success rate. When will this
+order be preserved at the overall level? We know that the overall
+success rate <em>for each condition</em> (treatment/control) is
+constrained by the success rates in the subpopulations:</p>
+
+<div class="indent">
+
+<p>
+<strong>Fact 1:</strong> Suppose \(a_i, b_i &gt; 0\) for all \(1 \le i
+\le N\). Then also</p> 
+\[\begin{align*}\tag{2}
+\min \frac{a_i}{a_i+b_i} \le \frac{\sum_{j=1}^N a_j}{\sum_{j=1}^N (a_j+b_j)} \le \max \frac{a_i}{a_i+b_i} 
+\end{align*}\]
+
+</div>
+
+<p>
+This fact follows directly from the Law of Total Probability (proof
+omitted) and it gives us a simple necessary condition for the
+occurrence of Association Reversal (AR): turning to
+ <a href="#figgeom">Figure 1</a>
+ again, it implies that the overall success rate per condition has to
+be on the solid lines. Thus AR <em>cannot</em> occur in the right part
+of
+ <a href="#figgeom">Figure 1</a>,
+ but it can occur if the proportions are ordered as in the left part
+of
+ <a href="#figgeom">Figure 1</a>.
+ Generally, AR is avoided when the following condition holds:</p>
+
+<div id="eqnrowhom">
+
+\[\tag{RH}
+\begin{align*}
+\max_{1 \le i \le N} \frac{a_i}{a_i+b_i} &amp; &lt; \min_{1 \le i \le N} \frac{c_i}{c_i+d_i} \\
+\text{ or } \hspace{5.5em}\\
+ \min_{1 \le i \le N} \frac{a_i}{a_i+b_i} &amp; &gt; \max_{1 \le i \le N} \frac{c_i}{c_i+d_i} 
+\end{align*}
+\]
+
+</div>
+
+<p>
+Any dataset that satisfies
+ <a href="#eqnrowhom">(RH)</a>
+ will be called <strong>row-homogenous</strong>. By contrast, for any
+given set of proportions violating condition
+ <a href="#eqnrowhom">(RH)</a>,
+ we can find datasets exhibiting these very same proportions such that
+AR indeed occurs (by fiddling with the size of the subpopulations;
+Lemma 3.1 in Mittal 1991). However, neither row homogeneity, nor the
+analogous condition of column homogeneity, nor their conjunction is
+sufficient for avoiding the amalgamation paradox AMP.</p>
+
+<p>
+Finally, one might be interested in how frequently the paradox arises.
+Simulations by Pavlides and Perlman (2009) suggest that it should not
+occur frequently: the confidence interval for the probability of AR is
+a subset of the interval \([0;0.03]\) for both the uniform prior and
+the (objective) Jeffreys prior. Of course, the practical value of this
+diagnosis depends on whether the sampling assumptions are sensible,
+and whether the entire approach makes sense for real-life datasets
+where researchers can group the data into subpopulations along
+numerous dimensions.</p>
+
+<h2 id="SimpParaCausInfe">3. Simpson&rsquo;s Paradox and Causal Inference</h2>
+
+<p>
+Within the philosophical literature, Simpson&rsquo;s Paradox received
+sustained attention due to its implications for accounts of causality
+that posit systematic connections between causal relationships and
+probability-raising. Specifically, the paradox reveals that facts
+about probability-raising will not necessarily be preserved when one
+partitions a population into subpopulations. This poses a number of
+important challenges to philosophical accounts of causal inference
+based on the concept of probability:</p>
+
+<ol type="1">
+
+<li>What is the appropriate set of background factors for determining
+when a probabilistic relationship is causal?</li>
+
+<li>What do association reversals imply for causal inference?</li>
+
+<li>Does Simpson&rsquo;s Paradox threaten the objectivity of causal
+relationships?</li>
+</ol>
+
+<p>
+Strategies for treating the paradox and answering these questions have
+contributed substantially to the development of theories of
+probabilistic causality (Cartwright 1979; Eells 1991). A different set
+of answers is provided by more recent work on the paradox in the
+framework of graphical causal models (e.g., Pearl 1988, 2000 [2009];
+Spirtes et al. 2000), and we will discuss both accounts in turn. In
+particular, we will explain how Simpson&rsquo;s Paradox can be
+analyzed through the notions of confounding and the identifiability of
+a causal effect.</p>
+
+<h3 id="ProbCausSimpPara">3.1 Probabilistic Causality and Simpson&rsquo;s Paradox</h3>
+
+<p>
+Early accounts of probabilistic causation (e.g., Reichenbach 1956;
+Suppes 1970) sought to explicate causal claims purely in terms of
+probabilistic and temporal facts. On Suppes&rsquo; (1970) account,
+event \(\r{C}\) is a <em>prima facie</em> cause of \(\r{E}\) if and
+only if (i) \(\r{C}\) occurs before \(\r{E}\) and (ii) \(\r{C}\)
+raises the probability of
+ \(\r{E}\).<sup>[<a href="notes.html#note-2" id="ref-2">2</a>]</sup>
+ As we have already seen in
+ <a href="#VariSimpPara">Section 2.1</a>,
+ not all <em>prima facie</em> causes are genuine causes. If I drink a
+strong blond Belgian beer now, I will probably be happy during the
+day, but also have a headache tomorrow. However, being happy would not
+thereby by the cause of the headache: the correlation is explained by
+the common cause&mdash;the beer drinking. The variable for drinking
+the beer <em>screens off</em> the probabilistic relationship between
+its effects, meaning that the effects will be uncorrelated when one
+conditions on it. The crux of Suppes&rsquo; account is that a
+<em>prima facie</em> causal relationship between \(\r{C}\) and
+\(\r{E}\) is a genuine causal relationship iff there is no factor F
+prior to C that screens off \(\r{C}\) from
+ \(\r{E}\).<sup>[<a href="notes.html#note-3" id="ref-3">3</a>]</sup></p>
+ 
+<p>
+Later theorists such as Cartwright (1979) and Eells (1991) developed
+this condition by making causal claims relative to a causally
+homogenous <em>background context</em>, which is specified by a set of
+variables \(\b{K}\). Consider the following example of association
+reversal presented by Cartwright. Supposing that smoking \((\r{S})\)
+is a cause of heart disease \((\r{H})\), one might expect that smoking
+would raise the probability of heart disease. Yet this might not be
+the case. Suppose that in a population there is a strong correlation
+between smoking and exercising (X), and that exercise lowers the
+probability of heart disease by more than smoking raises its
+probability. In such a case, smoking might lower the probability of
+heart disease although conditional on either \(X\) or \(\neg X\),
+\(\r{S}\) raises \(\r{H}\)&rsquo;s probability.</p>
+
+<p>
+Cartwright interprets this case as follows: causes always raise the
+probability of their effects, but this can be &ldquo;concealed&rdquo;
+by the correlation between the cause and some other variable (here,
+\(X\)). In order to isolate the genuine probabilistic relationship
+between \(\r{C}\) and \(\r{E}\), one needs to consider it in a context
+where such correlations cannot occur:</p>
+
+<div class="indent">
+
+<p>
+<strong>Probabilistic Causality (Cartwright)</strong> Let \(\b{K}\)
+denote all and only the causes of \(\r{E}\) <em>other than \(\r{C}\)
+and effects of \(\r{C}\)</em>. Then \(\r{C}\) causes \(\r{E}\) if and
+only if relative to all combinations of values variables in \(\b{K}\),
+\(\r{C}\) raises the probability of \(\r{E}\): \(p(\r{C}\mid
+\r{E},\b{K}) &gt; p(\r{C}\mid \neg{\r{E},\b{K}})\).</p>
+</div>
+
+<p>
+While Suppes defends a <em>reductive</em> account of probabilistic
+causality, where the elements of \(\b{K}\) are determined without
+appeal to causal assumptions, Cartwright presents a
+<em>non-reductive</em> account where \(\b{K}\) must include all and
+only the causes of \(\r{E}\), excluding \(C\) itself and any variables
+that are causally intermediate between \(\r{C}\) and \(\r{E}\). The
+current consensus is that it is impossible to give a probabilistic
+account of causation without relying and causal concepts, and thus
+that no non-reductive account is feasible (though see Spohn 2012 for a
+dissenting view).</p>
+
+<p>
+Although non-reductive accounts could not be used to explain causation
+to someone with no prior causal knowledge, they can nevertheless
+clarify how causal claims are tested, and illuminate the relationship
+between causation and probability (see also Woodward 2003:
+20&ndash;22). Moreover, Cartwright argues that her general criterion
+for inclusion of background factors in \(\b{K}\) avoids the reference
+class problem for purely statistical accounts of causal explanation,
+which arises when probabilistic facts arbitrarily depend on the way
+one partitions a population into subpopulations. Through specifying
+the relevant populations for evaluating causal claims, she aims to
+eliminate a threat to the objectivity of causal explanation. More
+detail is provided in the
+ <a href="../causation-probabilistic/">entry on probabilistic causality</a>.</p>
+ 
+<h3 id="SpecDebaCausInteAverEffeMedi">3.2 Specific Debates: Causal Interaction, Average Effects, Mediators</h3>
+
+<p>
+Cartwright&rsquo;s innovations for probabilistic accounts of causality
+have triggered various debates related to Simpson&rsquo;s Paradox. We
+highlight three of them here:</p>
+
+<h4>Debate 1: Causal Interaction</h4>
+
+<p>
+Cartwright claims that causes raise the probabilities of their effects
+across all background
+ contexts,<sup>[<a href="notes.html#note-4" id="ref-4">4</a>]</sup>
+ but many purported causes only raise the probabilities of their
+effects in some contexts. In the latter cases, causes
+<em>interact</em> with background factors in producing their effects.
+To give Cartwright&rsquo;s own example (1979: 428), ingesting an acid
+poison generally causes death, except in contexts where one also
+ingests an alkali poison (in which case the two cancel one another
+out). The problem of such interactive causes for probabilistic
+accounts is that they threaten Cartwright&rsquo;s picture on which the
+effect of probability-raising causes is &ldquo;concealed&rdquo; by a
+stronger negative cause which &ldquo;dominates&rdquo; them. These
+metaphors suggest that the probability-raising relationship between a
+cause and its effect reflects an intrinsic relationship between the
+variables that exists even when not manifested, an idea further
+developed in (Cartwright 1989). Interaction means that causes do not
+operate in a vacuum, but rather only in the presence of background
+factors (for further discussion, see Otte 1985; Eells 1986; Hardcastle
+1991).</p>
+
+<p>
+Simpson&rsquo;s Paradox should not be conflated with causal
+interaction, however. What is distinctive of the paradox is not that
+the probabilistic relationship reverses upon partitioning, but rather
+that it reverses in <em>all</em> of the resulting subpopulations.</p>
+
+<h4>Debate 2: Average Effects</h4>
+
+<p>
+Cartwright requires \(\b{K}\) to include all causes of \(\r{E}\), and
+thus to evaluate effects relative to homogenous background contexts.
+The account thus does not allow for average effects. For example,
+suppose that a particular treatment \((\r{T})\) raises the probability
+of heart disease \((\r{H})\) in individuals who were born prematurely
+\((\r{P})\) but not individuals who were not, and that \(\r{P}\) is
+not correlated with \(\r{T}\). In the whole population, the amount by
+which \(\r{T}\) lowers or raises the probability of \(H\) will be an
+average of the effects in the \(\r{P}\) and \(\neg\r{P}\) populations,
+weighted by their size. Dupr&eacute; (1984) argues for abandoning the
+requirement that \(\b{K}\) include all causes of \(E\), and thus for
+allowing average effects.</p>
+
+<p>
+A tempting lesson to draw from our opening example is that
+Simpson&rsquo;s Paradox arises as a result of averaging over the
+populations of males and females, and that the only way to eliminate
+it is by ruling out average effects. However, causal heterogeneity
+does not by itself lead to the
+ paradox.<sup>[<a href="notes.html#note-5" id="ref-5">5</a>]</sup>
+ Cases with heterogeneous background factors only produce association
+reversal if the factors are correlated with the causal
+variable&mdash;as demonstrated by
+ <a href="#theorem1">Theorem 1</a>
+ in
+ <a href="#NeceSuffCond">Section 2.2</a>.</p>
+ 
+<h4>Debate 3: Mediators</h4>
+
+<p>
+According to Cartwright, the set \(\b{K}\) should not include
+variables that are causally intermediate between \(C\) and \(E\). Such
+variables are called <strong>mediators</strong>. To see why, imagine a
+drug reduces the risk of heart disease by producing a chemical,
+represented by variable \(Z\), in the blood stream, and via no other
+factors. If \(C\) and \(E\) have no common causes, they will be
+probabilistically independent conditional on \(Z\). Intuitively, one
+should not hold the blood chemical fixed in evaluating the effect,
+since it is the means by which the effect is brought about.</p>
+
+<p>
+When there are <strong>multiple paths between cause and
+effect</strong>, the question becomes more complex. Hesslow (1976)
+provides an example where taking birth control pills promotes a
+blood-clotting condition called thrombosis via a chemical in the
+blood, but inhibits it via preventing pregnancy, which itself is a
+cause of thrombosis. As a result, taking birth control intuitively
+influences thrombosis both positively and negatively. If one is
+interested in the net effect of \(C\) on \(E\)&mdash;as opposed to the
+effects via particular paths (Hitchcock 2001)&mdash;then one should
+not condition on mediators. However, conditioning is necessary for
+calculating path-specific effects (e.g., Pearl 2001; Weinberger
+2019).</p>
+
+<p>
+Distinguishing mediators from common causes is crucial for analyses of
+Simpson&rsquo;s Paradox. For example, the causal models \(C\to Z \to
+E\) and \(C\leftarrow Z \to E\) exhibit the same conditional
+independencies: \(C\) and \(E\) will be associated unconditionally,
+but independent conditional on \(Z\). Only causal knowledge enables us
+to decide how we shall deal with the association reversal, and whether
+we need to condition upon \(Z\) when estimating the causal effect of
+\(C\) on \(E\) (we do in the second model, but not in the first). See
+also
+ <a href="#ConfPearAnalPara">Section 3.4</a>.</p>
+ 
+<h3 id="DAGsCausIden">3.3 DAGs and Causal Identifiability</h3>
+
+<p>
+In recent years, the formal analysis of causation has been
+significantly enhanced by the development of graphical methods for
+representing causal hypotheses and for choosing among candidate
+hypotheses given one&rsquo;s evidence, in particular those using
+<strong>directed acyclic graphs</strong> (=DAGs: Pearl 1988, 2000
+[2009]; Spirtes et al. 2000). A DAG contains a set of nodes connected
+by a set of directed edges or arrows such that there are no cycles
+(one cannot get from a node back to itself via a set of directed
+arrows). In the causal context, the nodes in a DAG are random
+variables and the arrows correspond to direct causal relationships. It
+is common to assume that the set of variables in a DAG is <em>causally
+sufficient</em>, meaning that it includes all common causes of
+variables in the set.</p>
+
+<p>
+DAGs enable one to systematically map the relationship between causal
+hypotheses and joint probability distributions. They overlap with and
+build on techniques in the literature on probabilistic causality, but
+provide significantly stronger tools and results. See the entries on
+ <a href="../causal-models/">causal models</a>,
+ <a href="../causation-mani/">causation and manipulability</a>
+ and
+ <a href="../causation-counterfactual/">counterfactual theories of causation</a>
+ for detailed introductions to causal inference with DAGs.</p>
+
+<div class="figure avoid-break" id="figdags">
+<img alt="two diagrams: first has three ovals labeled, Gender, Treatment, and Success. The Gender oval has arrows pointing to the other two and the Treatment oval has an arrow pointing to Success. Second is a duplicate of the first except the arrow from Gender to Treatment is dotted and a fourth oval, Intervention, also points to Treatment." src="figdag.svg" />
+
+<p>
+<span class="figlabel">Figure 2:</span> The relationship between the
+variables <em>Treatment</em>, <em>Gender</em>, and <em>Success</em>
+represented in a DAG, without and with an intervention on
+Treatment.</p>
+</div>
+
+<p>
+ <a href="#figdags">Figure 2</a>
+ (left part) presents a plausible DAG for our running example,
+including the variables <em>Treatment</em>, <em>Gender</em>, and
+<em>Success</em>. There are two ways in which <em>Treatment</em>
+provides information about <em>Success</em>. One is that people who
+take the treatment may be more (or less) likely to recover as a result
+of having taken it. The other is that learning that someone took the
+treatment provides information about whether they are likely to be
+male or female, and this information is relevant to determining
+whether they will recover regardless of whether they took the
+treatment.</p>
+
+<p>
+The graphs can, however, also be interpreted causally, and here, the
+notion of an <strong>ideal intervention</strong> is crucial:</p>
+
+<p class="indent">
+For an intervention on a variable \(V\) to be <strong>ideal</strong>
+is for it to determine \(V\)&rsquo;s value such that it no longer
+depends on its other causes in the DAG. Graphically, we can represent
+an intervention by adding an additional cause <em>I</em> that
+&ldquo;breaks&rdquo; all of the arrows that would otherwise go into
+\(V\).</p>
+
+<p>
+So, in
+ <a href="#figdags">Figure 2</a>
+ <em>Intervention</em> is an ideal intervention on <em>Treatment</em>.
+Intervening on <em>Treatment</em> disrupts the evidential relationship
+with <em>Gender</em>&mdash;for example, by controlling for the
+proportion of male and female patients in each sample&mdash;so that
+any remaining probabilistic relationship between treatment and
+recovery can only be explained by having taken the treatment. Such an
+experimental design, where <em>Treatment</em> and <em>Gender</em> are
+made probabilistically independent, suffices to rule out association
+reversal (cf.
+ <a href="#NeceSuffCond">Section 2.2</a>).</p>
+ 
+<p>
+Using the notion of an ideal intervention, one can explicate causation
+as follows (Pearl 2000 [2009]; Woodward 2003). \(C\) causes \(E\) if
+and only if it is possible to change the value or probability of \(E\)
+via some ideal intervention on \(C\). Such interventions distinguish
+between causal and merely probabilistic dependencies by eliminating
+any probabilistic relationship between \(C\) or \(E\) that can be
+traced to the influence of a common cause. This does not mean,
+however, that one can only get causal knowledge in cases where one can
+experimentally intervene. One of the key contributions of graphical
+causal models is that they enable one to systematically determine when
+one&rsquo;s prior causal knowledge licenses one to interpret a
+particular probabilistic relationship causally.</p>
+
+<p>
+The difference between the probability distributions resulting from
+conditioning and from intervening is formally represented by
+supplementing the probability calculus with the
+<strong>do-operator</strong> (<strong>\(\do(X)\)</strong>) where
+applying the operator to a variable formally represents intervening
+upon it. Taking \(T\), \(S\), and \(M\) to denote <em>Treatment</em>,
+<em>Success</em>, and <em>Gender</em>, and given the graph in
+ <a href="#figdags">Figure 2</a>,
+ the observational probability distribution of \(S\) given \(T\) is
+not equal to the probability distribution of \(S\) given an
+intervention on \(T\):</p> 
+\[\tag{3}\label{int} p(\r{S}\mid \r{T}) \ne p(\r{S}\mid \do(\r{T}))\]
+
+<p>
+The difference between these two quantities is due to the impact of
+\(M\) on the distribution of \(T\). In contrast, the following two
+expressions are equivalent given the DAG:</p> 
+\[\tag{4}\label{cond} p(\r{S}\mid \r{T},\r{M}) = p(\r{S}\mid \do(\r{T}),\r{M})\]
+
+<p>
+Here one can infer the effect of \(T\) on \(S\) from the observational
+distribution by conditioning on \(M\). In such a case, we say that (4)
+<em>identifies</em> the causal effect of \(T\) on \(S\). More
+generally, <strong>identifiability</strong> is a relationship between
+a DAG <em>G</em>, probability distribution \(P\) and a causal quantity
+\(\r{Q}\), such that \(\r{Q}\) is identifiable if and only if it is
+uniquely determined by \(P\) given \(G\). By contrast, when there are
+unmeasured common cause(s) of \(S\) and \(T\), the probability
+distribution is compatible with any possible distribution for
+\(p(\r{S}\mid \do (\r{T}))\).</p>
+
+<h3 id="ConfPearAnalPara">3.4 Confounding and Pearl&rsquo;s Analysis of the Paradox</h3>
+
+<p>
+The concept of identifiability is crucial for understanding
+confounding, and the analysis of Simpson&rsquo;s Paradox through
+graphical causal models. The relationship between \(X\) and \(Y\) is
+<strong>confounded</strong> relative to variable set \(\b{Z}\) just in
+case \(P(Y\mid X,\b{Z}) \ne P(Y\mid \do(X),\b{Z})\)&nbsp;(i.e., the
+relationship is not identified). A <strong>confounding set of
+variables</strong> is one that <em>biases the effect measurement</em>.
+For instance, an unmeasured common cause is a confounder because it
+makes it impossible to disentangle the probabilistic dependence
+between the variables resulting from the common cause from that
+resulting from a causal relationship between them. Simpson&rsquo;s
+Paradox emerges on this account due to confounding by the third
+variable. This notion of confounding diverges from a common colloquial
+understanding of confounders as alternative explanations of an
+observed outcome other than the treatment.&nbsp;Confounders threaten
+causal inference not by providing an alternate explanation of why an
+effect occurred, but by undermining the possibility of measuring the
+causal relationship.</p>
+
+<p>
+A useful sufficient condition for identifiability is the
+<strong>back-door criterion</strong> (Pearl 1993, 2000 [2009: 79]).
+First we need to introduce some graphical terminology. A <em>path</em>
+between \(X\) and \(Y\) be a set of connected edges between \(X\) and
+\(Y\) going in any direction. \(Y\) is a <em>descendant</em> of \(X\)
+if there is a path from \(X\) to \(Y\) in which all the arrows go in
+the same direction. When \(X\) and \(Y\) are connected via a single
+path including a common cause such as \(X \leftarrow Z \rightarrow
+Y\), \(X\) and \(Y\) will
+ typically<sup>[<a href="notes.html#note-6" id="ref-6">6</a>]</sup>
+ be unconditionally probabilistically dependent, but will be
+independent conditional on \(Z\). For such a path, we say that \(Z\)
+<em>blocks</em> the path between \(X\) and \(Y\). In contrast, when
+\(X\) and \(Y\) are connected by a path including a common
+<em>effect</em>, such as \(X \rightarrow Z \leftarrow Y\), then the
+path will be blocked provided that one does <em>not</em> condition on
+\(Z\) or a descendant of \(Z\). This reflects the fact that
+independent causes of a common effect will typically be dependent
+conditional on a common effect. An effect of \(X\) on \(Y\) is
+identifiable if there are no unblocked &ldquo;back-door paths&rdquo;
+between \(X\) and \(Y\): all paths that pass through common causes are
+blocked, and all other paths excepting those by which the cause
+influences its effect are open.</p>
+
+<div class="indent">
+
+<p>
+<strong>Back-door Criterion (Pearl 1993)</strong> Given a variable
+pair \(\{X,Y\}\) in a DAG G, the effect of \(X\) on \(Y\) is
+<em>identifiable</em> if there exists a variable set \(\b{Z}\) in G
+satisfying the following conditions:</p>
+
+<ol type="1">
+
+<li>No node in \(\b{Z}\) is a descendant of \(X\), and</li>
+
+<li>\(\b{Z}\) blocks every path between \(X\) and \(Y\) containing an
+arrow into \(X\).</li>
+</ol>
+
+<p>
+In this case, the effect of \(X\) on \(Y\) is identified by the
+formula</p>
+
+<div id="eqnsum">
+
+\[\tag{5} p(\r{Y}\mid \do(\r{X})) = \sum_{Z} p(\r{Y}\mid \r{X},\r{Z}) \, p(\r{Z})\]
+
+</div>
+</div>
+
+<p>
+ <a href="#eqnsum">Equation (5)</a>
+ reveals that can be possible to derive a causal effect in a
+population by averaging over the effects in subpopulations partitioned
+by \(Z\). This is what we already saw in
+ <a href="#NeceSuffCond">Section 2.2</a>:
+ if there is no dependence between being treated and being a part of a
+subpopulation, associations cannot reverse at the general population
+level. Yet such a derivation is only licensed by causal assumptions
+about the relationships between the variables. The reader can verify
+that given the DAG in
+ <a href="#figdags">Figure 2</a>,
+ the variables satisfy the back-door criterion (with
+ \(\b{Z}=\{\textit{Gender}\}\)).<sup>[<a href="notes.html#note-7" id="ref-7">7</a>]</sup></p>
+ 
+<p>
+In our original example, the treatment increased the probability of
+recovery in each subpopulation, but not in the population as a whole.
+Should one approve the drug or not? The causal approach makes it easy
+to see why one should. The probabilistic relationship between
+<em>Treatment</em> and <em>Success</em> in the population is an
+evidential rather than a causal one. Learning that someone took the
+drug provides evidence about their gender, and this information is
+relevant to predicting whether they will recover. But this does not
+tell one about whether the drug is causally efficacious. To learn
+this, one needs to know how the chances of recovery for individuals in
+the population would change given an <em>intervention</em> on
+treatment. This can be determined by conditioning on <em>gender</em>
+which enables one both to learn the gender-specific effects of the
+drug, and to derive the average effect in the whole population (using
+the back-door criterion).</p>
+
+<div class="figure avoid-break" id="figint">
+<img alt="two diagrams: first has three ovals labeled Gender, Treatment, and Success. The Gender oval has arrows pointing to the other two and the Treatment oval has an arrow pointing to Success. Second has three ovals labeled Birth Control, Pregnancy, and Thrombosis. The Birth Control oval has arrows pointing to the other two and the Pregnancy oval has an arrow pointing to the Thrombosis oval." src="figint.svg" />
+
+<p>
+<span class="figlabel">Figure 3:</span> The DAG for the variables
+<em>Treatment</em>, <em>Gender</em> and <em>Success</em> (third
+variable = confounding factor), contrasted with the DAG for the
+variables <em>Birth Control</em>, <em>Pregnancy</em>, and
+<em>Thrombosis</em> (third variable = mediator).</p>
+</div>
+
+<p>
+Thus, whether one should partition the population based on a factor in
+order to identify a particular causal relationship does not depend
+only on the statistical distribution, but crucially on one&rsquo;s
+causal background assumptions. Suppose that one was considering an
+intermediate variable such as <em>Pregnancy</em> in Hesslow&rsquo;s
+(1976) example. Recall that in the example birth control influences
+thrombosis both positively via a blood chemical and negatively by
+reducing one&rsquo;s chance of getting pregnant. This case is shown in
+ <a href="#figint">Figure 3</a>
+ and contrasted with our running example where the third variable is a
+confounding factor. In order to identify the effect of birth control
+on thrombosis, it is crucial that one does <em>not</em> condition on
+pregnancy. If there are no unmeasured common causes of birth control
+and thrombosis, then a probability-raising relationship between birth
+control and thrombosis in the population as a whole would reliably
+indicate that taking birth control pills promotes thrombosis.</p>
+
+<p>
+It is worth emphasizing that there is no basis for distinguishing the
+two causal structures in
+ <a href="#figint">Figure 3</a>
+ using statistics alone. Any data generated by the model on the left
+could also have been generated by a model with the causal structure of
+that on the right. Accordingly the judgment that one should partition
+the population in one case but not the other cannot be based on the
+probabilities alone, but requires the additional information supplied
+by the causal model.</p>
+
+<p>
+Coherent with
+ <a href="#theorem1">Theorem 1</a>,
+ Pearl proves a causal version of Savage&rsquo;s (1954) sure-thing
+principle (see also
+ <a href="#DeciTheoSureThinPrin">Section 5.3</a>):</p>
+ 
+<div class="indent">
+
+<p>
+<strong>Causal sure-thing principle (Pearl 2016)</strong> An action
+\(\r{C}\) that increases the probability of an event \(\r{E}\) in each
+subpopulation must also increase the probability of \(\r{E}\) in the
+population as a whole, provided that the action does not change the
+distribution of the
+ subpopulations.<sup>[<a href="notes.html#note-8" id="ref-8">8</a>]</sup></p>
+ </div>
+
+<p>
+For example, if one assumes that <em>Gender</em> is not an effect of
+<em>Treatment</em>, it cannot be the case that the drug raises the
+probability of recovery in both males and females, but has no effect
+on recovery in the general population. This result provides an error
+theory for why people often find Simpson&rsquo;s Paradox to be
+paradoxical in the first place. Specifically, Pearl (2000 [2009],
+2014) claims that people conflate observational claims that \(\r{X}\)
+raises the probability of \(\r{Y}\) with causal claims that
+<em>doing</em> \(\r{X}\) (versus \(\neg\r{X}\)) would raise the
+probability of \(\r{Y}\). And assuming that the partitioning variable
+is not an effect of \(X\), it <em>is</em> impossible for doing
+\(\r{X}\) to raise the probability of \(\r{Y}\) in all subpopulations,
+but not in the population as a whole. So Pearl&rsquo;s explanation of
+the paradox is that people conflate causal and non-causal expressions,
+and if the conditional probabilities in the examples are interpreted
+causally, Simpson&rsquo;s reversals are impossible.</p>
+
+<h3 id="Impl">3.5 Implications</h3>
+
+<p>
+Whether Pearl provides the correct causal explanation of
+Simpson&rsquo;s Paradox remains a topic of continued debate (Armistead
+2014 see also
+ <a href="#WhatMakeSimpParaPara">Section 4</a>).
+ What should not, however, be controversial is that recent causal
+modeling techniques enable one to systematically distinguish between
+causal and probabilistic claims in a much more general and precise way
+than had previously been possible. While Cartwright required that
+<em>all</em> causes of \(E\) be included in the background context,
+for the sake of eliminating confounding it is only necessary to hold
+fixed <em>common</em> causes (and other variables needed to block
+back-door paths). Theorists of probabilistic causality were to some
+extent aware that one did not need to hold fixed all causes of the
+effect in order to eliminate confounding, but they lacked a general
+account of which variable sets are sufficient for identifying the
+effect. Simpson&rsquo;s Paradox was especially threatening, since
+there was no way to provide general conditions under which an apparent
+positive causal relationship in a population would disappear entirely
+upon partitioning. Using Pearl&rsquo;s framework, it is trivial to
+show that as long as one does not condition on mediators, if a
+probabilistic expression identifies an average positive effect between
+\(X\) and \(Y\) in a population, intervening on \(X\) must raise
+\(Y\)&rsquo;s effect in at least <em>some</em> subpopulations
+(Weinberger 2015).</p>
+
+<p>
+Turning back to the debate about average effects in the probabilistic
+framework, this fact vindicates Dupr&eacute;&rsquo;s (1984) liberal
+attitude toward average effects against critics such as Eells and
+Sober (1983: 54) who dismiss it as a &ldquo;sorry excuse for a causal
+concept&rdquo; (though see Hitchcock 2003: 13&ndash;15, and Hausman
+2010: 56, for further nuances). Of course, a positive average effect
+is compatible with the cause lowering the probability of the effect
+significantly in many subpopulations. This reflects the fact that the
+partitioning variable(s) could interact with the cause of interest.
+But such possible interactions do not make the effect any less genuine
+as an average effect for the whole population.</p>
+
+<p>
+This brings us to the issue of whether Simpson&rsquo;s Paradox
+threatens the objectivity of causal relationships. Properly
+understood, it does not. It is certainly true that a cause can raise
+the probability of its effect in one population and lower it in
+another, or that it can have a positive effect in a whole population,
+but not in some of its subpopulations. But it is not as if only some
+of these causal relationships are genuine and that philosophers must
+therefore find a privileged background context within which the true
+relationship is revealed. It is simply a fact about causation that
+different populations can have different sets of interactive
+background factors, and thus the average effects will genuinely differ
+across the populations.</p>
+
+<h2 id="WhatMakeSimpParaPara">4. What Makes Simpson&rsquo;s Paradox Paradoxical?</h2>
+
+<p>
+Simpson&rsquo;s Paradox is not a paradox in the sense of presenting an
+inconsistent set of plausible propositions of which at least one must
+be rejected. As shown in
+ <a href="#NeceSuffCond">Section 2.2</a>,
+ mathematics does not rule out associations being reversed at the
+level of subpopulations. Bandyopadhyay et al. (2011) helpfully
+distinguish between three questions one could ask about
+Simpson&rsquo;s Paradox:</p>
+
+<ol type="i">
+
+<li>Why or in what sense is Simpson&rsquo;s Paradox a paradox?</li>
+
+<li>What is the proper analysis of the paradox?</li>
+
+<li>How one should proceed when confronted with a typical case of the
+paradox?</li>
+</ol>
+
+<p>
+Question (i) is essentially a question about the psychology of
+reasoning: one must offer an account of why the (mathematically
+innocent) association reversals seem paradoxical to many. Such
+accounts help to identify valid forms of inference that leads
+individuals to mistakenly rule out association reversals, and thereby
+provide answers to question (ii). Such analyses can differentiate
+among subtly different forms of reasoning, and open the door to
+empirical work testing whether humans systematically fail to attend to
+particular differences.</p>
+
+<p>
+ <a href="#ConfPearAnalPara">Section 3.4</a>
+ already presented one analysis of the paradox. On Pearl&rsquo;s
+<strong>causal analysis</strong>, the appearance of a paradox results
+from a <em>conflation between causal and probabilistic reasoning</em>.
+If one interprets the claim that taking the drug raises the
+probability of recovery as the causal statement that intervening to
+give the drug will make patients more likely to recover, and plausibly
+assumes that taking the drug has no influence on gender, then the drug
+cannot lower the probability of recovery both among males and among
+females. But, of course, if one is considering ordinary conditional
+probabilities without any do-operators, such reversals can occur.
+Accordingly, the appearance of paradox results from conflating
+ordinary conditional probabilities with conditional probabilities
+representing the results of interventions.</p>
+
+<p>
+Pearl&rsquo;s answer to (ii) has immediate implications for (iii). In
+evaluating the relationships between two variables \(X\) and \(Y\) and
+determining whether one should partition based on some variable (or
+variable set) \(Z\), one should partition based on \(Z\) only if doing
+so will enable one to <em>identify the causal relationship between
+\(X\) and \(Y\)</em>. This answer presupposes that the aim of
+partitioning the population is to identify causal relationships.
+Questions about how to proceed in light of the paradox only make sense
+given a context and given the kind of inference one wishes to
+draw.</p>
+
+<p>
+Pearl (2014) presents several reasons supporting his analysis of the
+paradox. First, he argues that were the surprise resulting from the
+paradox to be the result of a mere mathematical error, this could
+neither account for why the paradox &ldquo;has captured the
+fascination of statisticians, mathematicians, and philosophers for
+over a century&rdquo; (2014: 9) nor for the difficulty that reasoners
+have in avoiding the error even once they&rsquo;ve been made aware of
+it. Only by means of a causal semantics can one demonstrate that
+Simpson&rsquo;s reversals cannot occur when the conditional
+probabilities are interpreted causally. Second, he points to
+Simpson&rsquo;s (1951) observation that judgments about whether the
+aggregated or non-aggregated population is relevant for evaluating the
+correlations depends on the <em>story</em> behind the what the
+frequencies represent. Pearl accounts for this story-relativity by
+showing that whether one should partition a population is decided not
+by the probabilities but rather by the causal model generating the
+probabilities. These causal models cannot be distinguished by
+conditional probabilities alone.</p>
+
+<p>
+Bandyopadhyay et al. (2011) reject Pearl&rsquo;s causal analysis of
+the paradox, and defend an alternative <strong>mathematical
+explanation</strong>. They note that there can be instances of the
+paradox that do not seem to invoke any causal notions. For example,
+suppose we take the proportions in Table 1 not to refer to the
+proportions of recovering/non-recovering patients among the
+treatment/non-treatment groups in male and female populations, but
+rather to the proportions of red and blue marbles among big or small
+marbles in two bags. Suppose that in either bag the big marbles have a
+higher red-to-blue ratio than the small marbles. Bandyopadhyay et al.
+plausibly claim that in this case, it would be surprising to discover
+that, were we to pour the bags into a single box, the small marbles
+have a higher red-to-blue ratio than the big ones. If there are cases
+of the paradox that still exhibit surprise despite having nothing to
+do with causality, then the general explanation of the paradox cannot
+be
+ causal.<sup>[<a href="notes.html#note-9" id="ref-9">9</a>]</sup></p>
+ 
+<p>
+Bandyopadhyay et al. rephrase the paradox as being about ratios and
+proportions: when it is the case that</p>
+
+<div id="eqnprop1">
+
+\[ \tag{6} \frac{a_1+b_1}{b_1} \gt \frac{c_1+d_1}{d_1} \quad \text{and} \quad \frac{a_2+b_2}{b_2} \gt \frac{c_2+d_2}{d_2} \]
+
+</div>
+
+<p>
+&mdash;to be read as success proportions for treatment and control in
+the subpopulations, compare
+ <a href="#tabSimpson2">Table 2</a>&mdash;many
+ people expect that these equalities are preserved in the overall
+population:</p>
+
+<div id="eqnprop2">
+
+\[\tag{7} \frac{a_1+a_2+b_1+b_2}{b_1+b_2} &gt; \frac{c_1+c_2+d_1+d_2}{d_1+d_2}\]
+
+</div>
+
+<p>
+As we know from
+ <a href="#DefiMathChar">Section 2</a>,
+ this need not be the case. Bandyopadhyay et al. conducted a survey
+with university students on this matter: only 12% give the correct
+answer that equations
+ <a href="#eqnprop1">(6)</a>,
+ by themselves, do not constrain the truth value of equation
+ <a href="#eqnprop2">(7)</a>.</p>
+ 
+<p>
+Given the widespread literature revealing how seemingly error-prone
+humans can be when reasoning about probabilities (e.g., Kahneman,
+Slovic, &amp; Tversky 1982), the proposal that Simpson&rsquo;s Paradox
+can be explained by appeal to an error in probabilistic reasoning is
+plausible. Yet Bandyopadhyay et al. do not specify what this error is.
+Or, more specifically, they do not propose a valid form of reasoning
+that reasoners are mistakenly appealing to when falling prey to the
+paradox. The fact that people expect that the ratios in subpopulations
+to be preserved in the combined population just shows that people are
+tricked by the paradox. It does not illuminate the underlying mistake
+that they are making when they are tricked. In this sense,
+Bandyopadhyay et al. do not answer their second question. They also,
+by their own admission, do not provide a general answer to (iii). They
+view this as a virtue of their account, since they believe that
+discussions of (iii) ought to be divorced from discussions of (i) and
+(ii).</p>
+
+<p>
+Recently, Fitelson (2017) has proposed a
+<strong>confirmation-theoretic explanation</strong> of Simpson&rsquo;s
+Paradox. His analysis relies on identifying confirmation with
+increasing the (subjective) probability of a proposition. Statements
+of the form &ldquo;evidence \(\r{E}\) confirms hypothesis
+\(\r{H}\)&rdquo; are, however, usually evaluated with respect to
+background knowledge K, and this can lead to ambiguities. In
+particular, Fitelson distinguishes between the <em>suppositional</em>
+and <em>conjunctive</em> readings of a confirmation statement. In our
+running example, these statements would be as follows:</p>
+
+<div class="indent">
+
+<p>
+<strong>Suppositional (\(\bf \r{E}\) raises the probability of
+\(\bf\r{H}\) given \(\b{K}\)):</strong> If one is female, then
+receiving treatment increases one&rsquo;s chance of recovery.</p>
+
+<p>
+<strong>Conjunctive (\(\bf \r{E}\wedge\b{K}\) raises the probability
+of \(\bf \r{H}\)):</strong> Being a female treatment-receiver
+increases one&rsquo;s chance of recovery.</p>
+</div>
+
+<p>
+While the suppositional and conjunctive reading coincide for some
+accounts of confirmation (e.g., Carnap&rsquo;s account of degree of
+confirmation as conditional probability), they can produce different
+outcomes for confirmation as <em>probability-raising</em>. For our
+data in
+ <a href="#tabSimpson1">Table 1</a>,
+ the suppositional reading is true: if one is in the female
+subpopulation, receiving treatment rather than being in the control
+group increases one&rsquo;s chances of recovery. On the conjunctive
+reading, however, the statement is false: female treatment-receivers
+are less-likely to recover (12/27) compared to the set of individuals
+who are either male or did not receive the treatment (16/25). More
+importantly, while the suppositional reading allows for association
+reversals, on the conjunctive reading it cannot be the case both that
+being a female treatment-receiver and being a male treatment-receiver
+raises the probability of recovery, but being a treatment receiver
+simpliciter does not (Fitelson 2017: 300&ndash;302).</p>
+
+<p>
+Fitelson&rsquo;s confirmation-theoretic explanation of Simpson&rsquo;s
+Paradox is that reasoners are not attentive to the difference between
+the suppositional and conjunctive readings of confirmation statements
+when considering the evidential relevance of learning an
+individual&rsquo;s gender. In the conjunctive reading there cannot be
+association reversals, and because the suppositional and conjunctive
+reading do not differ for many accounts of confirmation, people
+mistakenly assume that there cannot be such reversals, even when they
+are relying on the suppositional reading.</p>
+
+<p>
+Both Bandyopadhyay et al. and Fitelson claim that because the
+formulation of Simpson&rsquo;s paradox does not itself appeal to
+causal considerations, it is a preferable to find a non-causal
+explanation for the paradox. Ultimately, it is an empirical question
+whether the paradox can be accounted for exclusively by errors in
+probabilistic reasoning, or, as Pearl suggests, due to a conflation of
+causal and probabilistic reasoning. One conceptual barrier to
+disentangling these hypotheses is that there are systematic
+relationships between causal and probabilistic claims For example,
+when the third variable \(\r{M}\) is uncorrelated with treatment \(T\)
+(i.e., \(p(\r{T}\mid \r{M}) = p(\r{T})\)), there can be no reversals
+(see also the theorems in
+ <a href="#NeceSuffCond">Section 2.2</a>).
+ Does it follow that Simpson&rsquo;s Paradox has a purely
+probabilistic explanation? Not necessarily. An alternative hypothesis
+is that the epistemic agent does not have knowledge of the relevant
+conditional probabilities, but does know that \(M\) is not a cause of
+\(T\) \((p(\r{T}\mid \do(\r{M})) = p(\r{T})\)), preempting the
+occurrence of association reversals. The question of whether the
+source of the paradox is causal cannot be resolved purely by appeal to
+the mathematical conditions under which the it arises. Rather, it
+depends on substantive psychological hypotheses about the role of
+causal and probabilistic assumptions in human
+ reasoning.<sup>[<a href="notes.html#note-10" id="ref-10">10</a>]</sup></p>
+ 
+<p>
+The empirical evidence on the paradox shows that reasoners find
+trivariate reasoning (i.e., with a causally relevant third variable)
+generally hard and fail to take its role properly into account, even
+if salient cues to its relevance are provided (Fiedler, Walther,
+Freytag, &amp; Nickel 2003). Other studies point to the facilitative
+effect of causal model, statistical training and high motivation
+(Schaller 1992; Waldmann &amp; Hagmayer 1995), but the significant
+difficulties that reasoners encounter in Simpson-like tasks make it
+unlikely that the question of the right analysis of the paradox will
+soon be decided empirically.</p>
+
+<p>
+Our discussion so far has treated Simpson&rsquo;s paradox as involving
+probabilities,presuming that the frequencies in our examples provide
+unbiased estimates of the corresponding probabilities. In cases where
+finite samples contain chance associations not due to the causal
+structure, this can give rise to Simpson&rsquo;s-like association
+reversals that are not the result of confounding (Dong, Cai &amp; Zhao
+2025). In fact, Spanos (2021) argues that many of the paradigm
+empirical cases of Simpson&rsquo;s paradox involve frequencies that do
+not reflect the underlying probabilities. This would have significant
+implications for psychological explanations of the paradox, as
+reasoners only have direct access to empirical frequencies.</p>
+
+<p>
+We can illustrate Spanos&rsquo; argument using his example of the
+effect of income on education (2021, &sect;3). He presents a linear
+regression for a whole population, and then for the male and female
+subpopulations, yielding a negative coefficient for the effect in the
+population, but positive coefficients for the subpopulations. He then
+argues that because the means for the populations differ, the model
+for the whole population is &ldquo;statistically misspecified&rdquo;,
+and fails to identify the probabilities. According to him,
+&ldquo;gender&rdquo; should not be represented as a random variable
+(i.e. with a probability distribution), but as a deterministic
+variable that orders the data.</p>
+
+<p>
+Spanos&rsquo; argument critically depends on how one determines
+whether a variable is a random variable or a deterministic-ordering
+variable. His claim that mean-heterogeneity implies statistical
+misspecification would seem to rule out any genuine effect
+heterogeneity, contrary to what we&rsquo;ve argued above. Of course,
+there might be grounds for saying that gender in particular cannot be
+given as a random variable &ndash; perhaps because one allegedly
+cannot intervene on it. This issue &ndash; and the related one of
+which variables count as causal &ndash; remains unresolved, and here
+we simply note that whether one can always eliminate Simpson&rsquo;s
+paradox by conditioning on causal confounders partly depends on what
+counts as a cause or confounder (see&nbsp;Dong, Cai &amp; Zhao
+2025&nbsp;for further discussion). Geographical cases of the
+paradox&nbsp; (Sachdeva and Fotheringham 2023), in which reversals
+occur as one changes the spatial scale, provide an interesting test
+case, since scale is not itself a cause, but possibly serves as a
+proxy for causally relevant variables.</p>
+
+<h2 id="Appl">5. Applications</h2>
+
+<h3 id="NonCateDataLineRegr">5.1 Non-Categorical Data and Linear Regression</h3>
+
+<div class="figure avoid-break">
+
+<table class="cell-center cellpad-small two-hrules vert-top" id="tabSAT">
+<tbody>
+<tr>
+  <td class="bold" rowspan="2">Grade Point
+<br />
+Average (GPA)</td>
+  <td class="bold" colspan="2">Distribution of Grades</td>
+  <td class="bold" colspan="2">Verbal SAT scores</td> </tr>
+<tr class="rule-below">
+  <td class="bold">1992</td>
+  <td class="bold">2002</td>
+  <td class="bold">1992</td>
+  <td class="bold">2002</td> </tr>
+<tr>
+  <td>A+</td>
+  <td>5%</td>
+  <td>7%</td>
+  <td>619</td>
+  <td>607</td> </tr>
+<tr>
+  <td>A</td>
+  <td>12%</td>
+  <td>17%</td>
+  <td>575</td>
+  <td>565</td> </tr>
+<tr>
+  <td>A&minus;</td>
+  <td>14%</td>
+  <td>17%</td>
+  <td>546</td>
+  <td>538</td> </tr>
+<tr>
+  <td>B</td>
+  <td>52%</td>
+  <td>47%</td>
+  <td>486</td>
+  <td>479</td> </tr>
+<tr>
+  <td>C</td>
+  <td>17%</td>
+  <td>11%</td>
+  <td>434</td>
+  <td>424</td> </tr>
+<tr>
+  <td>All grades</td>
+  <td>100%</td>
+  <td>100%</td>
+  <td>501</td>
+  <td>516</td> </tr> </tbody>
+</table>
+
+<p>
+<span class="figlabel">Table 4:</span> Verbal SAT score data for
+American high schools, taken from Rinott &amp; Tam (2003).</p>
+</div>
+
+<p>
+Simpson&rsquo;s Paradox is not limited to categorical data: it can
+occur for cardinal data as well and show up in standard models for
+quantitative analysis. A famous example is the analysis of SAT
+scores&mdash;the results of college admission tests&mdash;in the
+United States as a function of the high school grade point average
+(GPA) of students. The data are given in
+ <a href="#tabSAT">Table 4</a>:
+ the overall SAT average rises from 1992 to 2002, but for each GPA
+group (A+/A/&hellip;), SAT averages are falling. This phenomenon is,
+however, very natural. As soon as there is a bit of grade inflation at
+high schools, each group loses their best students to the next higher
+group, lowering the SAT average per group. But this is of course
+consistent with the overall SAT average remaining equal, or even
+rising from 501 to 516, like in our dataset. A conclusion from the
+stratified data that &ldquo;students are getting more stupid&rdquo;
+would be mistaken. Since societal developments such as grade inflation
+affect both the grade distribution and the SAT scores, one should
+<em>not</em> condition on the GPA of a student when studying SAT
+scores over time (compare the back-door criterion from
+ <a href="#ConfPearAnalPara">Section 3.4</a>).<sup>[<a href="notes.html#note-11" id="ref-11">11</a>]</sup></p>
+ 
+<div class="figure avoid-break" id="figregr">
+<img alt="a graph with a y-axis of IQ score ranging from 70 to 130 and an x-axis of cups of coffee on test day ranging from 0 to 5. A dashed line goes from a point of about 0 cups and 75 IQ to 5 cups and 130 IQ. 8 clusters of dots appear along the line." src="CoffeeIQ.png" style="width:400px" />
+
+<p>
+<span class="figlabel">Figure 4:</span> A linear regression model that
+illustrates Simpson&rsquo;s Paradox for bivariate cardinal data. Each
+cluster of values corresponds to a single person (repeated
+measurement).</p>
+</div>
+
+<p>
+A similar example is presented in
+ <a href="#figregr">Figure 4</a>,
+ adapted from Kievit, Frankenhuis, Waldorp, and Borsboom (2013). The
+figure shows the results of coffee intake on performance on an IQ
+test. Suppose that coffee actually decreases performance slightly
+because it makes drinkers more nervous and less focused. At the same
+time, coffee intake co-varies with education level (construction
+workers are too busy for drinking coffee all the time!) and education
+level co-varies with test performance. When we measure performance
+repeatedly for different individuals, we see that their performance is
+slightly negatively affected by their coffee intake. However, the
+(unconditional) regression model of performance as a function of
+coffee intake suggests misleadingly that coffee consumption strongly
+improves performance! The reason for the confounding is the causal
+impact of the hidden covariate, education level, on both coffee
+consumption and performance. Similar to the results from
+ <a href="#DefiMathChar">section 2</a>,
+ Simpson&rsquo;s Paradox in linear models can be characterized
+formally by means of inequalities among regression coefficients (e.g.,
+Pearl 2013), and its occurrence depends on the nature of the causal
+interaction between the involved variables.</p>
+
+<h3 id="EpidMetaAnal">5.2 Epidemiology and Meta-Analysis</h3>
+
+<p>
+Simpson&rsquo;s Paradox in its various forms has attracted a lot of
+attention in the epidemiological literature since it is relevant for
+determining and estimating the effect size of medical treatments, and
+the effect of exposure to risk factors (e.g., smoking, alcohol) on
+medical hazards.</p>
+
+<p>
+One of the aims behind the methodology of randomized controlled trials
+(RCTs) is to eliminate the effect of potential confounders on whether
+a person is treated or not. This was described in
+ <a href="#NeceSuffCond">Section 2.2</a>
+ as row-uniform design (for experiments with categorical data). For
+example, if we ensure the same proportion of both genders in the
+treatment and control group, the same prevalence of different age
+groups, etc., we know that association reversal (AR) cannot occur with
+respect to those third variables, and also the amalgamation paradox
+(AMP) is ruled out for many measures.</p>
+
+<p>
+However, the (log-)odds ratio, a popular measure of effect size in
+epidemiological research, shows a deviant behavior. Uniformly
+assigning individuals to treatment and control condition reliably
+<em>produces</em> the AMP for the odds ratio whenever the third
+variable (=the subpopulation attribute) influences the success rate,
+given the treatment level (Theorem 2.4, Samuels 1993). The odds ratio
+is thus a particularly tricky association measure. Greenland (1987)
+gives the instructive example of an odds ratio that is equal in all
+subpopulations with row-uniform design, but halved when data are
+pooled.</p>
+
+<p>
+<strong>Meta-analytic problems</strong>, such as pooling various
+studies for determining the overall effect size of an intervention or
+risk factor give a particularly interesting twist to Simpson&rsquo;s
+Paradox. How should such studies be aggregated? Na&iuml;vely, somebody
+may suggest to pool the data from all studies and to treat them as a
+single big study. This may work out if the study populations are very
+similar and the data are from RCTs, where the treatment/control ratio
+is typically 50:50. If this is indeed the case, then the overall
+dataset is row-uniform and AR (and for most measures, AMP) is avoided,
+as shown in
+ <a href="#NeceSuffCond">Section 2.2</a>.
+ But for non-experimental data, there is no reason to assume that
+treatment/control proportions are equal across studies. Thus, the
+direction of the direction of the effect can be reversed when pooling
+(for examples, see Hanley &amp; Th&eacute;riault 2000; Reintjes, Boer,
+Pelt, &amp; Mintjes-de Groot 2000; R&uuml;cker &amp; Schumacher
+2008).</p>
+
+<p>
+Another reason for not pooling the data is that study populations are
+often heterogenous and that calculating the strength of association
+(i.e., the effect size) on the basis of the data may bias the estimate
+in the direction of the study with the largest sample size, while the
+characteristics of patients in that study need not be representative
+of the target group as a whole. In particular, while at the level of
+studies patients are usually assigned randomly to the treatment or
+control group, this cannot be said about the aggregate data (Cates
+2002). Proper meta-analysis therefore proceeds on the basis of
+weighting the effects rather than pooling the data, either by a fixed
+effects model or (e.g., if the study populations are heterogenous) by
+introducing a random effect of the study in the statistical model. The
+question of how to conduct a meta-analysis of epidemiological studies
+is also entangled with the choice of an association or effect size
+measure (Altman &amp; Deeks 2002; Cates 2002; Greenland 1987), a
+question discussed in
+ <a href="#NeceSuffCond">Section 2.2</a>.</p>
+ 
+<h3 id="DeciTheoSureThinPrin">5.3 Decision Theory and the Sure-Thing Principle</h3>
+
+<p>
+Blyth (1972) argued that Simpson&rsquo;s Paradox also constitutes a
+counterexample to the sure-thing principle of decision theory, or at
+least restricts its scope substantially. That principle is supposed to
+guide rational decisions under uncertainty, and has been stated by
+Savage as follows:</p>
+
+<p class="indent">
+<strong>Sure-Thing Principle (STP)</strong> &ldquo;If you would
+definitely prefer \(g\) to \(f\) either knowing that the event
+\(\r{B}\) obtained, or knowing that the event B did not obtain, then
+you definitely prefer \(g\) to \(f\)&rdquo;. (Savage 1954:
+21&ndash;22)</p>
+
+<p>
+In his purported counterexample, Blyth treats \(\r{B}\) and
+\(\neg\r{B}\) as indicating the two subpopulations (e.g., two
+different hospitals). Suppose that treatment \(\r{T}\) is positively
+associated with recovery \(\r{R}\) for each subpopulation. In that
+case, assuming equal odds, we would rather bet on the recovery of a
+patient in the treatment group (action \(g\)) than on the recovery on
+the patient in a control group (action \(f\))&mdash;regardless of
+whether that person is in group \(\r{B}\) or group \(\neg\r{B}\).
+Thus, since we prefer \(g\) to \(f\) in either subpopulation, and
+since all patients are either in group \(\r{B}\) or in group
+\(\neg\r{B}\), we can infer, by the Sure-Thing Principle, that \(g\)
+is preferable to \(f\) also when we don&rsquo;t know whether a patient
+is in group \(\r{B}\) or group \(\neg\r{B}\). But this inference is
+mistaken if association reversal occurs: it is perfectly compatible
+with the above scenario that the overall frequency of recovery is
+higher for non-treated than for treated patients! Blyth (1972: 366)
+concludes that</p>
+
+<blockquote>
+
+<p>
+the Sure-Thing Principle [&hellip;] seems not applicable to situations
+in which any action taken within \(f\) or \(g\) [&hellip;] is allowed
+to be based sequentially on events dependent with [\(B\)].</p>
+</blockquote>
+
+<p>
+See also Malinas (2001) for discussion.</p>
+
+<p>
+To the extent that (conditional) degrees of belief just represent
+(conditional) dispositions to bet, Blyth&rsquo;s reasoning is
+compelling. Association reversal means that</p> 
+\[p(\r{R}\mid \r{T}) &lt; (\r{R}\mid \neg \r{T})\]
+
+<p>
+although</p> 
+\[p(\r{R}\mid \r{T}, \r{B}) &gt; (R\mid \neg \r{T}, \neg \r{B})\]
+
+<p>
+and</p> 
+\[p(\r{R}\mid \r{T}, \r{B}) &gt; (R\mid \neg \r{T}, \neg \r{B}),\]
+
+<p>
+and thus preference for a conditional bet on \(\r{T}\) (given the
+various levels of \(B\)) does not imply preference for the
+unconditional bet on \(\r{T}\) (see
+ <a href="#DefiMathChar">Section 2</a>).
+ However, Savage certainly did not intend the sure-thing principle to
+be a theorem of probability. To evaluate it as a principle that guides
+proper decision-making, we must consider cases where the predictor
+variable (here: treatment/control) stands for a proper <em>act</em>
+that affects the outcome via multiple paths.</p>
+
+<p>
+Jeffrey (1982) recalls Savage&rsquo;s (1954: 21) example of a
+businessman who believes that it is advantageous to buy a property
+regardless of whether the Democratic or the Republican candidate will
+win the upcoming mayor elections. Jeffrey&rsquo;s twist is that the
+businessman&rsquo;s utility depends not only on the property deal, but
+also on the election outcome. Specifically, buying the property raises
+the chances that the Democratic candidate, whom he dislikes, will win.
+In that case he would certainly buy the property <em>after</em> the
+election, regardless of the outcome, but he may refrain from buying it
+<em>before</em> the election.</p>
+
+<p>
+In response to this challenge, Jeffrey (1982: 720) restricts the
+sure-thing principle to the case where</p>
+
+<blockquote>
+
+<p>
+choice of one act or another is thought to have no tendency to
+facilitate or impede the coming about of any of the possible states of
+nature, and [&hellip;] this is reflected in a probabilistic
+independence of states from acts.</p>
+</blockquote>
+
+<p>
+That is, buying the property should not change our rational degree of
+belief in who wins the election. Pearl (2016) considers this response
+&ldquo;overkill&rdquo; and notes that probabilistic associations are
+not a good means of expressing causal tendencies. Therefore he
+proposes a causal sure-thing principle that we have encountered in
+ <a href="#ConfPearAnalPara">Section 3.4</a>:
+ If one is considering two acts \(f\) and \(g\), and <em>the
+probability distribution of \(\r{B}\) does not change depending on
+whether one intervenes to choose \(f\) or \(g\)</em>, then if one
+prefers \(f\) to \(g\) whether or not \(B\) occurs, one prefers \(f\)
+unconditionally. The italicized condition ensures that the
+partitioning variable is not an effect of the intervention, and thus
+rules out Simpson&rsquo;s reversals (see
+ <a href="#ConfPearAnalPara">section 3.4</a>).
+ Note that Pearl&rsquo;s formulation, but not Jeffrey&rsquo;s, allows
+to apply the (causal) sure-thing principle to observational data,
+where states and acts may be statistically dependent without
+indicating genuine causation (e.g., because of self-selection
+effects).</p>
+
+<p>
+Throughout this entry we have assumed knowledge of the causal facts
+pertinent to a situation. Scenarios in which an agent lacks such
+knowledge raise additional complications for decision theory. An agent
+typically cannot ensure that all confounders have been accounted for,
+and thus the possibility of repeated reversals raises questions about
+when one should adopt a promising policy that has not been
+experimentally tested (Peters, Janzing, &amp; Sch&ouml;lkopf 2017:
+174&ndash;175). A distinct concern is that an agent may not be sure
+whether her action counts as an intervention (e.g., in Newcomb
+scenarios), since it might not be clear whether she can manipulate a
+variable to render it independent of its prior causes (Stern 2019).
+Whether Simpson&rsquo;s Paradox raises novel difficulties in such
+decision-making contexts has not yet been explored. See the entries on
+ <a href="../decision-theory/">decision theory</a>
+ and
+ <a href="../decision-causal/">causal decision theory</a>
+ for further discussion.</p>
+
+<h3 id="PhilBiolNatuSele">5.4 Philosophy of Biology and Natural Selection</h3>
+
+<p>
+Within the philosophy of biology, the <strong>units of
+selection</strong> debate (Sober 2000 [2018: ch. 4], 2014; Williams
+1966) concerns whether natural selection operates only at the level of
+the individual or also on groups (where the individual is typically
+conceived either as the organism or the gene). This debate is
+especially important for understanding the evolution of altruism
+(Sober &amp; Wilson 1999). Since altruistic individuals harm their own
+chances of survival and reproduction, they are less fit, and it is
+thus unclear how altruism could evolve as a result of natural
+selection. If, however, groups with more altruists are fitter than
+groups with fewer, and selection can act on groups, this could
+potentially explain how altruism could still evolve. Within the units
+of selection debate, Simpson reversals have played an important role
+in explaining the possibility of group-level selection.</p>
+
+<p>
+Consider the following naive argument against the conceptual
+possibility of group-level
+ selection.<sup>[<a href="notes.html#note-12" id="ref-12">12</a>]</sup>
+ Suppose that we define the fitness of a group as the average fitness
+of its individuals. In this context, altruistic individuals are, by
+definition, those with traits that reduce their individual fitness
+while improving the fitness of other group members. For instance,
+crows that issue warning cries when a predator approaches benefit the
+group while increasing the chances of being harmed themselves. Natural
+selection explains the evolution of traits on the basis that
+individuals with the trait are fitter than those without it (all else
+being equal). Since selfish individuals are by definition fitter than
+altruistic ones, it follows that groups with more altruistic
+individuals <em>cannot</em> be fitter. Or so one might argue.</p>
+
+<p>
+By now it should be clear what is wrong with this type of
+argument&mdash;it does not follow from the fact that altruistic
+individuals are less fit than selfish ones in every population that
+populations which average over selfish and altruistic individuals
+cannot be fitter than populations with just selfish individuals. It
+could be that being an altruist is correlated with being in a
+population with more altruists, and that populations with more
+altruists are fitter. This dispenses with the naive argument. Note,
+however, that within every single group selfish individuals are
+fitter, so if the groups change membership only through reproduction
+(as opposed to migration and mutation) then over enough generations
+every group will end up consisting only of selfish individuals. So
+whether groups selection can occur depends on additional facts about
+population structure and dynamics. Hamilton&rsquo;s (1964) Kin
+Selection theory explains how altruism can evolve in cases where
+altruists are more likely to associate with other altruists (possibly
+because it runs in the family).</p>
+
+<p>
+The group selection hypothesis remains controversial among biologists.
+The present discussion reveals how the phenomenon of Simpson&rsquo;s
+Paradox is relevant to theorizing how it might be possible, and more
+broadly reveals how philosophical work on causation and probability
+can aid in clarifying scientific debates.</p>
+
+<p>
+Recently, Simpson&rsquo;s Paradox has been invoked in an ongoing
+debate regarding whether natural selection should be understood as
+causal or statistical. Walsh (2010), a prominent defender of the
+statistical view, points to cases of Simpson&rsquo;s Paradox as
+showing that selection cannot be understood causally, and Otsuka,
+Turner, Allen, &amp; Lloyd (2011) rebut this claim. An important point
+that emerges from this debate is that the term
+&ldquo;population&rdquo; is used differently in discussions of
+Simpson&rsquo;s Paradox than it is in biology (cf. Weinberger 2018).
+Walsh presents an example in which a correlation in a population
+disappears when one splits the population into two parts. As Otsuka et
+al. point out, within population genetics, population size can be
+causally relevant to the fitness of its individuals. Note that
+Walsh&rsquo;s example of dividing a population in half is not what we
+have been talking about in the context of Simpson&rsquo;s Paradox. In
+the prior discussion, dividing the population was not a matter of
+changing its size, but rather of partitioning its probability
+distribution based on a variable.</p>
+
+<h3 id="PoliQuesInteDataDisc">5.5 Policy Questions: Interpreting Data on Discrimination</h3>
+
+<p>
+Bickel et al. (1975) present a classic example of Simpson&rsquo;s
+Paradox involving a study of gender discrimination at Berkeley. The
+data revealed that men were more likely than women to be accepted to
+the university&rsquo;s graduate programs, but the authors were unable
+to detect a bias towards men in any individual department. The authors
+use the paradox to explain why the higher university-wide acceptance
+rate for men does not show that any department discriminated against
+women. Specifically, women were more likely to apply to departments
+with lower acceptance rates. This leads to a probabilistic association
+between gender and the partitioning variable (department), which we
+have seen can lead to Simpson&rsquo;s reversals.</p>
+
+<p>
+While the probabilistic structure of the Berkeley case is similar to
+other instances of the paradox, it raises an additional question. On a
+natural way to understand the case, the applicant&rsquo;s gender is a
+cause of his or her applying to a more or less selective departments.
+Exactly what it means for demographic variables such as gender or race
+to be a cause is a longer story for another day (Glymour &amp; Glymour
+2014; Sen &amp; Wasow 2016). But assuming that gender is a cause here,
+then the department variable is a <em>mediator</em>, and one should
+not condition on mediators in evaluating the mediated causal
+relationship. So what is the justification for conditioning on
+<em>department</em>?</p>
+
+<p>
+The answer is that in evaluating discrimination, what often matters
+are <strong>path-specific effects</strong>, rather than the net effect
+along all paths (Pearl 2000 [2009: 4.5.3]; Zhang &amp; Bareinboim
+2018). To give a different example (Pearl 2001), consider whether a
+hypothetical black job candidate was discriminated against based on
+her race. It is possible that as a result of prior racial
+discrimination, the candidate was denied opportunities to develop
+job-relevant qualifications, and as a result of lacking these
+qualifications was denied the job. This indirect effect of race hiring
+would not be relevant for determining whether an employer
+discriminated against the candidate. Rather, what matters is whether
+the employee would have been more likely to get the position had she
+been white, but had the same qualifications that she does as a result
+of being black. This is called the <strong>natural direct
+effect</strong> (Pearl 2001; Weinberger 2019). In determining whether
+the employer discriminated, what matters is not whether being black
+made <em>any</em> difference in the person&rsquo;s being hired, but
+rather whether their being black had a direct influence not via their
+job-relevant qualifications.</p>
+
+<p>
+Simpson&rsquo;s paradox continues to arise in empirical discussions of
+discrimination. Neil and Winship (2019) show how the paradox can
+undermine the benchmark statistics that are used to evaluate whether
+police discriminate against minorities in stops (though see Weinberger
+(2024) for critical discussion). Recently, Berggren and Bergh (2025)
+invoked Simpson&rsquo;s paradox to explain the
+&ldquo;gender-equality&rdquo; paradox, in which countries with more
+equality have larger gendered differences in behavior. Whereas a
+common explanation for this is that equality creates more space for
+men and women to pursue their innate difference, the authors argue
+that these differences reflect regional cultural differences, and that
+within each region, equality leads to <em>fewer</em> gendered
+differences.</p>
+
+<h3 id="UsinStatEvalTaskPerf">5.6 Using Statistics to Evaluate Task Performance</h3>
+
+<p>
+The common explanation for the Berkeley data, on which the paradox
+results from women applying to more selective department, points to a
+larger class of cases in which it is important to account for
+differences in the difficulty-level across tasks. In baseball, for
+instance, it appears that over time batters have been striking out
+more frequently, despite their improving in their ability to hit more
+difficult pitches while remaining as good at hitting less difficult
+ones (Watt 2016 [see
+ <a href="#Oth">Other Internet Resources</a>]).
+ This could be accounted for by the fact that pitchers have been
+throwing a higher proportion of difficult-to-hit pitches. This
+highlights the way that statistics about success rates in performing a
+task can be misleading in cases where the task-difficulty changes over
+time.</p>
+
+<p>
+A related phenomenon within clinical pharmacology is the
+recently-identified <em>drug-titration paradox</em> (Schnider, Minto,
+Luginb&uuml;hl, &amp; Egan 2022). Normally one would expect higher
+doses to be correlated with higher effects, but this relationship
+appears to reverse when considering drugs that are titrated to achieve
+a desired effect. The explanation is straightforward: patients for
+whom the drug is less effective require a higher-dose of the drug to
+achieve the same effect. Schamberg and Brown (2021) identify this as a
+case of Simpson&rsquo;s paradox, since patient sensitivity to the drug
+is a common cause of the dose and the effect. An alternate way to
+think about it is that at shorter time-scales, titration turns the
+dosage from a cause into an effect (of the drug&rsquo;s effect). This
+highlights how the paradox can arise when a variable whose value is
+determined by an ideal intervention in one context (the fixed-dose
+regimen) is rendered dependent on the outcome in a different one
+(under titration).</p>
+
+<h2 id="Conc">6. Conclusions</h2>
+
+<p>
+Simpson&rsquo;s Paradox is not only a surprising mathematical fact; it
+serves as a lens through which to understand the role of probabilities
+in data analysis, causal inference, and decision-making. In this
+article, we have characterized its mathematical properties, given
+necessary and sufficient conditions for its occurrence, discussed its
+influence on theories of causality, evaluated competing theories of
+the nature of the paradox, and surveyed its applications in a range of
+empirical domains.</p>
+
+<p>
+Although Simpson&rsquo;s Paradox has been known for over a century and
+has a straightforward probabilistic analysis, we predict that it will
+remain a source of fruitful philosophical discussion. Pearl&rsquo;s
+causal analysis of the paradox is relatively recent, and it is only
+now that graphical causal models are starting to play a central role
+in philosophical discussions of the paradox. Despite the continuity
+between graphical accounts and earlier probabilistic theories of
+causality, here we have highlighted ways in which the newer methods
+lead one to draw substantially different implications from the
+paradox. Pearl&rsquo;s account renders certain debates from the
+earlier literature moot, while opening up new debates about the proper
+interpretation of the paradox. The responses to Pearl considered in
+ <a href="#WhatMakeSimpParaPara">section 4</a>
+ are only the first steps in a broader discussion about the
+relationships between causation, probability theory, and the
+psychology of reasoning. There remains room to clarify what it means
+to explain the paradox, and what counts as empirical support for a
+particular explanation. Such work would open the door to empirical
+testing, which has thus far been limited.</p>
+
+<p>
+Finally, we would like to highlight connections between
+Simpson&rsquo;s Paradox and other reasoning fallacies in the
+literature. First, the <em>base rate fallacy</em> is related to
+Simpson&rsquo;s Paradox since the illusion that association reversal
+is impossible may be based on a neglect of the different base rates
+for treated and untreated people, given the third variable (Bar-Hillel
+1990). Second, the <em>fallacy of mistaking correlation for
+causation</em> may contribute to the appearance of paradoxicality
+since association reversal implies two contradicting causal claims,
+when combined with this fallacy. Third, in both Simpson&rsquo;s
+Paradox and the <em>Monty Hall fallacy</em> reasoners fail to see the
+probabilistic relevance of causal information. While in
+Simpson&rsquo;s Paradox, reasoners ignore the relevance of a back-door
+path for an observed association, in the Monty Hall problem, reasoners
+fail to take into account how Monty&rsquo;s action depends on his
+knowledge of what is in back of the doors. Fourth, and last, the
+capacity of reasoners to detect the causes of association reversal
+also depends on the extent of the <em>confirmation bias</em> to which
+they are exposed (e.g., whether or not they find a discrimination
+mechanism plausible). We are unaware of systematic research into the
+connection between Simpson&rsquo;s Paradox and these reasoning
+fallacies, but this could be a fruitful field for future research.
+There is perhaps nothing paradoxical about Simpson&rsquo;s Paradox,
+but since we often struggle to understand it, our reasoning about
+association reversals may be entangled with various forms of reasoning
+that are susceptible to bias and error.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging">
+
+<li>Altman, Douglas G and Jonathan J Deeks, 2002,
+&ldquo;Meta-Analysis, Simpson&rsquo;s Paradox, and the Number Needed
+to Treat&rdquo;, <em>BMC Medical Research Methodology</em>, 2: art. 3.
+doi:10.1186/1471-2288-2-3</li>
+
+<li>Armistead, Timothy W., 2014, &ldquo;Resurrecting the Third
+Variable: A Critique of Pearl&rsquo;s Causal Analysis of
+Simpson&rsquo;s Paradox&rdquo;, <em>The American Statistician</em>,
+68(1): 1&ndash;7. doi:10.1080/00031305.2013.807750</li>
+
+<li>Bandyopadhyay, Prasanta S., Davin Nelson, Mark Greenwood, Gordon
+Brittan, and Jesse Berwald, 2011, &ldquo;The Logic of Simpson&rsquo;s
+Paradox&rdquo;, <em>Synthese</em>, 181(2): 185&ndash;208.
+doi:10.1007/s11229-010-9797-0</li>
+
+<li>Bar-Hillel, Maya, 1990, &ldquo;Back to Base Rates&rdquo;, in
+<em>Insights in Decision Making: A Tribute to Hillel J. Einhorn</em>,
+Robin M. Hogarth (ed.), Chicago: University of Chicago Press, pp.
+200&ndash;216.</li>
+
+<li>Bickel, P. J., E. A. Hammel, and J. W. O&rsquo;Connell, 1975,
+&ldquo;Sex Bias in Graduate Admissions: Data from Berkeley&rdquo;,
+<em>Science</em>, 187(4175): 398&ndash;404.
+doi:10.1126/science.187.4175.398</li>
+
+<li>Blyth, Colin R., 1972, &ldquo;On Simpson&rsquo;s Paradox and the
+Sure-Thing Principle&rdquo;, <em>Journal of the American Statistical
+Association</em>, 67(338): 364&ndash;366.
+doi:10.1080/01621459.1972.10482387</li>
+
+<li>&ndash;&ndash;&ndash;, 1973, &ldquo;Simpson&rsquo;s Paradox and
+Mutually Favorable Events&rdquo;, <em>Journal of the American
+Statistical Association</em>, 68(343): 746&ndash;746.
+doi:10.1080/01621459.1973.10481419</li>
+
+<li>Cartwright, Nancy, 1979, &ldquo;Causal Laws and Effective
+Strategies&rdquo;, <em>No&ucirc;s</em>, 13(4): 419&ndash;437.
+doi:10.2307/2215337</li>
+
+<li>&ndash;&ndash;&ndash;, 1989, <em>Nature&rsquo;s Capacities and
+Their Measurement</em>, Oxford: Clarendon Press.
+doi:10.1093/0198235070.001.0001</li>
+
+<li>Cates, Christopher J, 2002, &ldquo;Simpson&rsquo;s Paradox and
+Calculation of Number Needed to Treat from Meta-Analysis&rdquo;,
+<em>BMC Medical Research Methodology</em>, 2, art. 1.
+doi:10.1186/1471-2288-2-1</li>
+
+<li>Dong, Zili, Weixin Cai, and Shimin Zhao, 2024,
+&ldquo;Simpson&rsquo;s Paradox Beyond Confounding&rdquo;, <em>European
+Journal for Philosophy of Science</em>, 14(3): article 44.
+doi:10.1007/s13194-024-00610-8</li>
+
+<li>Dupr&eacute;, John, 1984, &ldquo;Probabilistic Causality
+Emancipated&rdquo;, <em>Midwest Studies in Philosophy</em>, 9:
+169&ndash;175. doi:10.1111/j.1475-4975.1984.tb00058.x</li>
+
+<li>Edwards, A. W. F., 1963, &ldquo;The Measure of Association in a 2
+&times; 2 Table&rdquo;, <em>Journal of the Royal Statistical Society.
+Series A (General)</em>, 126(1): 109. doi:10.2307/2982448</li>
+
+<li>Eells, Ellery, 1986, &ldquo;Probabilistic Causal
+Interaction&rdquo;, <em>Philosophy of Science</em>, 53(1):
+52&ndash;64. doi:10.1086/289291</li>
+
+<li>&ndash;&ndash;&ndash;, 1991, <em>Probabilistic Causality</em>,
+Cambridge: Cambridge University Press.
+doi:10.1017/CBO9780511570667</li>
+
+<li>Eells, Ellery and Elliott Sober, 1983, &ldquo;Probabilistic
+Causality and the Question of Transitivity&rdquo;, <em>Philosophy of
+Science</em>, 50(1): 35&ndash;57. doi:10.1086/289089</li>
+
+<li>Fiedler, Klaus, Eva Walther, Peter Freytag, and Stefanie Nickel,
+2003, &ldquo;Inductive Reasoning and Judgment Interference:
+Experiments on Simpson&rsquo;s Paradox&rdquo;, <em>Personality and
+Social Psychology Bulletin</em>, 29(1): 14&ndash;27.
+doi:10.1177/0146167202238368</li>
+
+<li>Fitelson, Branden, 1999, &ldquo;The Plurality of Bayesian Measures
+of Confirmation and the Problem of Measure Sensitivity&rdquo;,
+<em>Philosophy of Science</em>, 66(Supplement): S362&ndash;S378.
+doi:10.1086/392738</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, &ldquo;Confirmation, Causation, and
+Simpson&rsquo;s Paradox&rdquo;, <em>Episteme</em>, 14(3):
+297&ndash;309. doi:10.1017/epi.2017.25</li>
+
+<li>Fitelson, Branden and Christopher Hitchcock, 2011,
+&ldquo;Probabilistic Measures of Causal Strength&rdquo;, in Phyllis
+McKay Illari, Federica Russo, &amp; Jon Williamson (eds.),
+<em>Causality in the Sciences</em>, Oxford: Oxford University Press,
+pp. 600&ndash;627.</li>
+
+<li>Glymour, Clark and Madelyn R. Glymour, 2014, &ldquo;Commentary:
+Race and Sex Are Causes&rdquo;, <em>Epidemiology</em>, 25(4):
+488&ndash;490. doi:10.1097/EDE.0000000000000122</li>
+
+<li>Good, I. J., 1960, &ldquo;Weight of Evidence, Corroboration,
+Explanatory Power, Information and the Utility of Experiments&rdquo;,
+<em>Journal of the Royal Statistical Society: Series B
+(Methodological)</em>, 22(2): 319&ndash;331.
+doi:10.1111/j.2517-6161.1960.tb00378.x</li>
+
+<li>Good, I. J. and Y. Mittal, 1987, &ldquo;The Amalgamation and
+Geometry of Two-by-Two Contingency Tables&rdquo;, <em>The Annals of
+Statistics</em>, 15(2): 694&ndash;711. doi:10.1214/aos/1176350369</li>
+
+<li>Greenland, Sander, 1987, &ldquo;Interpretation and Choice of
+Effect Measures in Epidemiologic Analyses&rdquo;, <em>American Journal
+of Epidemiology</em>, 125(5): 761&ndash;768.
+doi:10.1093/oxfordjournals.aje.a114593</li>
+
+<li>Hamilton, William D., 1964, &ldquo;The Genetical Evolution of
+Social Behaviour. II&rdquo;, <em>Journal of Theoretical Biology</em>,
+7(1): 17&ndash;52. doi:10.1016/0022-5193(64)90039-6</li>
+
+<li>Hanley, James A. and Gilles Th&eacute;riault, 2000,
+&ldquo;Simpson&rsquo;s Paradox in Meta-Analysis:&rdquo;,
+<em>Epidemiology</em>, 11(5): 613.
+doi:10.1097/00001648-200009000-00022</li>
+
+<li>Hardcastle, Valerie Gray, 1991, &ldquo;Partitions, Probabilistic
+Causal Laws, and Simpson&rsquo;s Paradox&rdquo;, <em>Synthese</em>,
+86(2): 209&ndash;228. doi:10.1007/BF00485809</li>
+
+<li>Hausman, Daniel M., 2010, &ldquo;Probabilistic Causality and
+Causal Generalizations&rdquo;, in <em>The Place of Probability in
+Science</em>, Ellery Eells and J.H. Fetzer (eds.), (Boston Studies in
+the Philosophy of Science 284), Dordrecht: Springer Netherlands,
+47&ndash;63. doi:10.1007/978-90-481-3615-5_2</li>
+
+<li>Hesslow, Germund, 1976, &ldquo;Two Notes on the Probabilistic
+Approach to Causality&rdquo;, <em>Philosophy of Science</em>, 43(2):
+290&ndash;292. doi:10.1086/288684</li>
+
+<li>Hitchcock, Christopher, 2001, &ldquo;A Tale of Two Effects&rdquo;,
+<em>The Philosophical Review</em>, 110(3): 361&ndash;396.
+doi:10.2307/2693649</li>
+
+<li>&ndash;&ndash;&ndash;, 2003, &ldquo;Of Humean Bondage&rdquo;,
+<em>The British Journal for the Philosophy of Science</em>, 54(1):
+1&ndash;25. doi:10.1093/bjps/54.1.1</li>
+
+<li>Hoover, Kevin D., 2003, &ldquo;Nonstationary Time Series,
+Cointegration, and the Principle of the Common Cause&rdquo;, <em>The
+British Journal for the Philosophy of Science</em>, 54(4):
+527&ndash;551. doi:10.1093/bjps/54.4.527</li>
+
+<li>Imbens, Guido W. and Joshua D. Angrist, 1994,
+&ldquo;Identification and Estimation of Local Average Treatment
+Effects&rdquo;, <em>Econometrica</em>, 62(2): 467&ndash;475.
+doi:10.2307/2951620</li>
+
+<li>Jeffrey, Richard, 1982, &ldquo;The Sure Thing Principle&rdquo;,
+<em>PSA: Proceedings of the Biennial Meeting of the Philosophy of
+Science Association. Part 2: Symposia and Invited Papers</em>,
+Chicago: University of Chicago Press, 719&ndash;730.
+doi:10.1086/psaprocbienmeetp.1982.2.192456</li>
+
+<li>Kahneman, Daniel, Paul Slovic, and Amos Tversky (eds.), 1982,
+<em>Judgment under Uncertainty: Heuristics and Biases</em>, Cambridge:
+Cambridge University Press. doi:10.1017/CBO9780511809477</li>
+
+<li>Kievit, Rogier A., Willem E. Frankenhuis, Lourens J. Waldorp, and
+Denny Borsboom, 2013, &ldquo;Simpson&rsquo;s Paradox in Psychological
+Science: A Practical Guide&rdquo;, <em>Frontiers in Psychology</em>,
+4: art 513. doi:10.3389/fpsyg.2013.00513</li>
+
+<li>K&uuml;gelgen, Julius von, Luigi Gresele, and Bernhard
+Sch&ouml;lkopf, 2021, &ldquo;Simpson&rsquo;s Paradox in Covid-19 Case
+Fatality Rates: A Mediation Analysis of Age-Related Causal
+Effects&rdquo;,&nbsp;<em>IEEE Transactions on Artificial
+Intelligence</em>, 2(1): 18&ndash;27.</li>
+
+<li>Lindley, Dennis V. and Melvin R. Novick, 1981, &ldquo;The Role of
+Exchangeability in Inference&rdquo;, <em>The Annals of
+Statistics</em>, 9(1): 45&ndash;58. doi:10.1214/aos/1176345331</li>
+
+<li>Malinas, Gary, 2001, &ldquo;Simpson&rsquo;s Paradox: A Logically
+Benign, Empirically Treacherous Hydra&rdquo;, <em>Monist</em>, 84(2):
+265&ndash;283. doi:10.5840/monist200184217</li>
+
+<li>Mittal, Yashaswini, 1991, &ldquo;Homogeneity of Subpopulations and
+Simpson&rsquo;s Paradox&rdquo;, <em>Journal of the American
+Statistical Association</em>, 86(413): 167&ndash;172.
+doi:10.1080/01621459.1991.10475016</li>
+
+<li>Nagel, Ernest and Morris R. Cohen, 1934, <em>An Introduction to
+Logic and Scientific Method</em>, New York: Harcourt, Brace.</li>
+
+<li>Otsuka, Jun, Trin Turner, Colin Allen, and Elisabeth A. Lloyd,
+2011, &ldquo;Why the Causal View of Fitness Survives&rdquo;,
+<em>Philosophy of Science</em>, 78(2): 209&ndash;224.
+doi:10.1086/659219</li>
+
+<li>Otte, Richard, 1985, &ldquo;Probabilistic Causality and
+Simpson&rsquo;s Paradox&rdquo;, <em>Philosophy of Science</em>, 52(1):
+110&ndash;125. doi:10.1086/289225</li>
+
+<li>Pavlides, Marios G. and Michael D. Perlman, 2009, &ldquo;How
+Likely Is Simpson&rsquo;s Paradox?&rdquo;, <em>The American
+Statistician</em>, 63(3): 226&ndash;233.
+doi:10.1198/tast.2009.09007</li>
+
+<li>Pearl, Judea, 1988, <em>Probabilistic Reasoning in Intelligent
+Systems: Networks of Plausible Inference</em>, San Mateo, CA: Morgan
+Kaufmann.</li>
+
+<li>&ndash;&ndash;&ndash;, 1993, &ldquo;[Bayesian Analysis in Expert
+Systems]: Comment: Graphical Models, Causality and
+Intervention&rdquo;, <em>Statistical Science</em>, 8(3):
+266&ndash;269. doi:10.1214/ss/1177010894</li>
+
+<li>&ndash;&ndash;&ndash;, 2000 [2009], <em>Causality: Models,
+Reasoning, and Inference</em>, Cambridge: Cambridge University Press.
+Second edition 2009. doi:10.1017/CBO9780511803161</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;Direct and Indirect
+Effects&rdquo;, in Jack Breese &amp; Daphne Koller (eds.),
+<em>Proceedings of the Seventeenth Conference on Uncertainty in
+Artificial Intelligence</em>, San Francisco, CA: Morgan Kaufmann, pp.
+411&ndash;420.</li>
+
+<li>&ndash;&ndash;&ndash;, 2013, &ldquo;Linear Models: A Useful
+&lsquo;Microscope&rsquo; for Causal Analysis&rdquo;, <em>Journal of
+Causal Inference</em>, 1(1): 155&ndash;170.
+doi:10.1515/jci-2013-0003</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;Comment: Understanding
+Simpson&rsquo;s Paradox&rdquo;, <em>The American Statistician</em>,
+68(1): 8&ndash;13. doi:10.1080/00031305.2014.876829</li>
+
+<li>&ndash;&ndash;&ndash;, 2016, &ldquo;The Sure-Thing
+Principle&rdquo;, <em>Journal of Causal Inference</em>, 4(1):
+81&ndash;86. doi:10.1515/jci-2016-0005</li>
+
+<li>Pearson, Karl, 1899, &ldquo;On the Theory of Genetic
+(Reproductive) Selection&rdquo;, <em>Philosophical Transaction of the
+Royal Society, Series A</em>, 192: 260&ndash;278.</li>
+
+<li>Peirce, C. S., 1884, &ldquo;The Numerical Measure of the Success
+of Predictions&rdquo;, <em>Science</em>, new series 4(93):
+453&ndash;454. doi:10.1126/science.ns-4.93.453-a</li>
+
+<li>Peters, Jonas, Dominik Janzing, and Bernhard Sch&ouml;lkopf, 2017,
+<em>Elements of Causal Inference: Foundations and Learning
+Algorithms</em>, Cambridge, MA: MIT press.</li>
+
+<li>Reichenbach, Hans, 1956, <em>The Direction of Time</em>, Berkeley,
+CA: University of California Press.</li>
+
+<li>Reintjes, Ralf, Annette de Boer, Wilfrid van Pelt, and Joke
+Mintjes-de Groot, 2000, &ldquo;Simpson&rsquo;s Paradox: An Example
+from Hospital Epidemiology:&rdquo;, <em>Epidemiology</em>, 11(1):
+81&ndash;83. doi:10.1097/00001648-200001000-00017</li>
+
+<li>Rinott, Yosef and Michael Tam, 2003, &ldquo;Monotone Regrouping,
+Regression, and Simpson&rsquo;s Paradox&rdquo;, <em>The American
+Statistician</em>, 57(2): 139&ndash;141.
+doi:10.1198/0003130031397</li>
+
+<li>R&uuml;cker, Gerta and Martin Schumacher, 2008,
+&ldquo;Simpson&rsquo;s Paradox Visualized: The Example of the
+Rosiglitazone Meta-Analysis&rdquo;, <em>BMC Medical Research
+Methodology</em>, 8: art. 34. doi:10.1186/1471-2288-8-34</li>
+
+<li>Sachdeva, Mehak, and A. Stewart Fotheringham, 2023, &ldquo;A
+geographical perspective on Simpson&rsquo;s paradox&rdquo;,
+<em>Journal of Spatial Information Science</em>, 26, 1&ndash;25
+
+<div class="moz-signature">
+Samuels, Myra L., 1993, &ldquo;Simpson&rsquo;s Paradox and Related
+Phenomena&rdquo;, <em>Journal of the American Statistical
+Association</em>, 88(421): 81&ndash;88.
+doi:10.1080/01621459.1993.10594297
+</div></li>
+
+<li>Savage, Leonard J., 1954, <em>The Foundations of Statistics</em>,
+New York: Wiley. Second revised edition 1972.</li>
+
+<li>Schaller, Mark, 1992, &ldquo;In-Group Favoritism and Statistical
+Reasoning in Social Inference: Implications for Formation and
+Maintenance of Group Stereotypes.&rdquo;, <em>Journal of Personality
+and Social Psychology</em>, 63(1): 61&ndash;74.
+doi:10.1037/0022-3514.63.1.61</li>
+
+<li>Schamberg, Gabriel, and Emery N. Brown, 2021, &ldquo;The Drug
+Titration Paradox is Simpson&rsquo;s Paradox&rdquo;, <em>Clinical
+Pharmacology &amp; Therapeutics</em>, 110(6): 1424&ndash;5</li>
+
+<li>Schnider, Thomas W., Charles F. Minto, Martin Luginb&uuml;hl, and
+Talmage D. Egan, 2022, &ldquo;The Drug Titration Paradox: More Drug
+Does Not Correlate With More Effect in Individual Clinical
+Data&rdquo;, <em>British Journal of Anaesthesia</em>, 129(6):
+861&ndash;867</li>
+
+<li>Sen, Maya and Omar Wasow, 2016, &ldquo;Race as a Bundle of Sticks:
+Designs That Estimate Effects of Seemingly Immutable
+Characteristics&rdquo;, <em>Annual Review of Political Science</em>,
+19: 499&ndash;522 doi:10.1146/annurev-polisci-032015-010015</li>
+
+<li>Simpson, E. H., 1951, &ldquo;The Interpretation of Interaction in
+Contingency Tables&rdquo;, <em>Journal of the Royal Statistical
+Society: Series B (Methodological)</em>, 13(2): 238&ndash;241.
+doi:10.1111/j.2517-6161.1951.tb00088.x</li>
+
+<li>Skyrms, Brian, 1980, <em>Causal Necessity: a Pragmatic
+Investigation of the Necessity of Laws</em>, New Haven, CT: Yale
+University Press.</li>
+
+<li>Sober, Elliott, 2000 [2018], <em>Philosophy of Biology</em>, New
+York: Westview Press. Second edition, New York: Routledge, 2018.</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, <em>The Nature of Selection:
+Evolutionary Theory in Philosophical Focus</em>, University of Chicago
+Press.</li>
+
+<li>Sober, Elliott and David Sloan Wilson, 1999, <em>Unto Others: The
+Evolution and Psychology of Unselfish Behavior</em>, Cambridge, MA:
+Harvard University Press.</li>
+
+<li>Spanos, Aris, 2021, &ldquo;Yule&ndash;Simpson&rsquo;s paradox: The
+probabilistic versus the empirical conundrum&rdquo;, <em>Statistical
+Methods &amp; Applications</em>, 30(2): 605&ndash;635.</li>
+
+<li>Spirtes, Peter, Clark Glymour, and Richard Scheines, 2000,
+<em>Causation, Prediction, and Search</em>, second edition, Cambridge,
+MA: MIT Press.</li>
+
+<li>Spohn, Wolfgang, 2012, <em>The Laws of Belief: Ranking Theory and
+Its Philosophical Applications</em>, Oxford: Oxford University Press.
+doi:10.1093/acprof:oso/9780199697502.001.0001</li>
+
+<li>Sprenger, Jan, 2018, &ldquo;Foundations of a Probabilistic Theory
+of Causal Strength&rdquo;, <em>The Philosophical Review</em>, 127(3):
+371&ndash;398. doi:10.1215/00318108-6718797</li>
+
+<li>Sprenger, Jan and Jacob Stegenga, 2017, &ldquo;Three Arguments for
+Absolute Outcome Measures&rdquo;, <em>Philosophy of Science</em>,
+84(5): 840&ndash;852. doi:10.1086/693930</li>
+
+<li>Stern, Reuben, 2019, &ldquo;Decision and Intervention&rdquo;,
+<em>Erkenntnis</em>, 84(4): 783&ndash;804.
+doi:10.1007/s10670-018-9980-0</li>
+
+<li>Suppes, Patrick, 1970, <em>A Probabilistic Theory of
+Causality</em>, Amsterdam: North-Holland.</li>
+
+<li>Waldmann, Michael and York Hagmayer, 1995, &ldquo;Causal Paradox:
+When a Cause Simultaneously Produces and Prevents an Effect&rdquo;, in
+J. D. Moore &amp; J. F. Lehman (eds.), <em>Proceedings of the
+Seventeenth Annual Conference of the Cognitive Science Society</em>,
+Mahwah, NJ: Erlbaum, pp. 425&ndash;430.</li>
+
+<li>Walsh, Denis M., 2010, &ldquo;Not a Sure Thing: Fitness,
+Probability, and Causation*&rdquo;, <em>Philosophy of Science</em>,
+77(2): 147&ndash;171. doi:10.1086/651320</li>
+
+<li>Weinberger, Naftali, 2015, &ldquo;If Intelligence Is a Cause, It
+Is a within-Subjects Cause&rdquo;, <em>Theory &amp; Psychology</em>,
+25(3): 346&ndash;361. doi:10.1177/0959354315569832</li>
+
+<li>&ndash;&ndash;&ndash;, 2018, &ldquo;Faithfulness, Coordination and
+Causal Coincidences&rdquo;, <em>Erkenntnis</em>, 83(2): 113&ndash;133.
+doi:10.1007/s10670-017-9882-6</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;Path-Specific Effects&rdquo;,
+<em>The British Journal for the Philosophy of Science</em>, 70(1):
+53&ndash;76. doi:10.1093/bjps/axx040</li>
+
+<li>Williams, George C., 1966, <em>Adaptation and Natural Selection: A
+Critique of Some Current Evolutionary Thought</em> (Princeton Science
+Library), Princeton, NJ: Princeton University Press.</li>
+
+<li>Woodward, James, 2003, <em>Making Things Happen: A Theory of
+Causal Explanation</em>, Oxford: Oxford University Press.
+doi:10.1093/0195155270.001.0001</li>
+
+<li>Yule, G. Undy, 1903, &ldquo;Notes on the Theory of Association of
+Attributes in Statistics&rdquo;, <em>Biometrika</em>, 2(2):
+121&ndash;134. doi:10.1093/biomet/2.2.121</li>
+
+<li>Zhang, Junzhe and Elias Bareinboim, 2018, &ldquo;Fairness in
+Decision-Making&mdash;the Causal Explanation Formula&rdquo;, in
+<em>Thirty-Second AAAI Conference on Artificial Intelligence</em>,
+2037&ndash;2045.
+ [<a href="https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16949" target="other">Zhang and Bareinboim 2018 available online</a>]</li>
+ </ul>
+</div> 
+
+<div id="academic-tools">
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=paradox-simpson" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/paradox-simpson/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=paradox-simpson&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/paradox-simpson/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<ul>
+
+<li>Watt, Rian, 2016,
+ &ldquo;<a href="https://fivethirtyeight.com/features/pitchers-wont-throw-strikes-so-batters-are-getting-better-at-hitting-bad-pitches/" target="other">Pitchers Won&rsquo;t Throw Strikes, so Batters Are Getting Better at Hitting Bad Pitches</a>&rdquo;,
+ <em>FiveThirtyEight</em>, 12 December 2016, accessed 3 March
+2021.</li>
+</ul>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../causal-models/">causal models</a> |
+ <a href="../causation-mani/">causation: and manipulability</a> |
+ <a href="../causation-counterfactual/">causation: counterfactual theories of</a> |
+ <a href="../causation-probabilistic/">causation: probabilistic</a> |
+ <a href="../decision-theory/">decision theory</a> |
+ <a href="../decision-causal/">decision theory: causal</a> |
+ <a href="../statistics/">statistics, philosophy of</a>
+
+ </p>
+</div>
+
+<div id="acknowledgments">
+
+<h3>Acknowledgments</h3>
+
+<p>
+This research was supported by the European Research Council through
+Starting Investigator Grant No. 640638 (J.S.), the Italian Ministry
+for University and Research through PRIN project &ldquo;From Models to
+Decisions&rdquo; (J.S.) and a research fellowship of the Alexander
+Humboldt Foundation (N.W.). The authors would like to thank the
+editors for their invitation to contribute to the Stanford
+Encyclopedia of Philosophy, Reuben Stern for helpful feedback, and
+Judea Pearl for extensive comments on a previous draft. The authors
+have no conflicts of interests.</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+</div> 
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2026</a> by
+
+<br />
+<a href="https://www.laeuferpaar.de/" target="other">Jan Sprenger</a>
+&lt;<a href="m&#97;ilto:jan&#37;2esprenger&#37;40unito&#37;2eit"><em>jan<abbr title=" dot ">&#46;</abbr>sprenger<abbr title=" at ">&#64;</abbr>unito<abbr title=" dot ">&#46;</abbr>it</em></a>&gt;<br />
+<a href="https://sites.google.com/site/naftaliweinberger/" target="other">Naftali Weinberger</a>
+&lt;<a href="m&#97;ilto:naftali&#37;2eweinberger&#37;40gmail&#37;2ecom"><em>naftali<abbr title=" dot ">&#46;</abbr>weinberger<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

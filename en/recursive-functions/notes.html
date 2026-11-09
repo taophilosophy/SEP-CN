@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Recursive Functions &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/recursive-functions/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/recursive-functions/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=recursive-functions">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Recursive Functions</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ Grassmann and Peirce both employed the old convention of regarding 1
+as the first natural number. They thus formulated the base cases
+differently in their original definitions&mdash;e.g., </p>
+
+<blockquote>
+
+<p>
+By \(x + y\) is meant, in case \(x = 1\), the number next greater than
+\(y\); and in other cases, the number next greater than \(x' + y\),
+where \(x'\) is the number next smaller than \(x\). (Peirce 1881: 87)
+</p>
+</blockquote>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ See Wang (1957) and von Plato (2016) for further reconstruction of
+Peirce&rsquo;s and Grassmann&rsquo;s treatments. </p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ A version of the method which Hilbert (1905: 10&ndash;13) describes
+would later come to play a role in formalized consistency proofs
+following its subsequent redescription by Tarski (1935) in terms of a
+truth predicate. But although Hilbert &amp; Bernays (1939: 5.2e)
+returned to discuss this method, they ultimately concluded that it was
+beyond the scope of their finitary standpoint. See Dean (2020: 568&ndash;571) for additional
+discussion. </p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ The relationship between primitive recursion (as a mode of function
+definition) and quantifier-free induction (as a mode of logical
+inference) is discussed in greater detail by Hilbert &amp; Bernays
+(1934: 23&ndash;26). See also Tait (1981) for a modern reconstruction.
+</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ The influence of Hilbert&rsquo;s presentation was further limited by
+the connection which he attempts to draw between transfinite recursion
+and the Continuum Hypothesis (which was deemed obscure by his
+contemporaries). See van Heijenoort's (1967) introductory remarks to Hilbert
+(1926) for further discussion. </p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ Although G&ouml;del&rsquo;s original definition also omits the
+projection functions and composition operation, he soon added these in
+his subsequent (G&ouml;del 1934 [1986: 347]) lectures on the
+incompleteness theorems. </p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ \(\mathsf{P}\) also contains the axiom scheme of comprehension at
+arbitrary types. But since G&ouml;del makes no use of classes of type
+2 or higher, the fragment of \(\mathsf{P}\) which is employed in
+G&ouml;del (1931) is similar to the contemporary system
+\(\textsf{ACA}_0\) which is in turn axiomatizable using a finite
+number of instances of comprehension (cf. Simpson 2009: ch. 3). But as
+G&ouml;del (1931 [1986: 181]) was also clearly aware, the second-order
+features of this system are not required for the proof&mdash;e.g., we
+now know following Tarski, Mostowski, &amp; Robinson (1953) a version
+of the first incompleteness theorem will hold for any recursively
+axiomatizable theory in which it is possible to interpret the weak
+first-order theory \(\mathsf{Q}\) (Robinson arithmetic). </p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ Although G&ouml;del does not cite Skolem by name, the sequence of
+definitions leading up to his demonstration that the primality
+relation is primitive recursive also closely follows that given in
+(Skolem 1923). </p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ A contemporaneous definition of a recursively defined function on
+ordinal numbers which is not primitive recursive was given by Sudan
+(1927). See Calude, Marcus, &amp; Tevy (1979) for discussion of the
+relationship between Ackermann and Sudan&rsquo;s definitions in light
+of Hilbert&rsquo;s presentation of recursion in Hilbert 1926. </p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ Such hierarchies will be described in a subsequent update to this
+entry. See, e.g., Rose (1984), Odifreddi (1999a: ch. 6&ndash;7), Clote
+and Kranakis (2002: ch. 6&ndash;7), and Schwichtenberg &amp; Wainer
+(2011). </p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ For additional context, see Sieg (2005) and his introductory notes to
+G&ouml;del&rsquo;s correspondence with Herbrand in G&ouml;del 2003.
+</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ See also Kleene (1952: ch. XI) for a more extensive presentation. The
+term &ldquo;general recursive function&rdquo; has also subsequently
+been used by some authors to refer either to a <em>recursive
+function</em> as defined in
+ <a href="index.html#PartRecuFuncPartRecuFuncREC">Section 2.2</a>
+ (e.g., Enderton 2010: 19) or to one defined by minimization applied
+to a so-called <em>regular function</em>&mdash;i.e., a function
+\(g(\vec{x},y)\) which both total and also such that for each
+\(\vec{x}\) there exist a \(y\) such that \(g(\vec{x},y) = 0\) (see,
+e.g., Epstein &amp; Carnielli 2008: 126 who also employ this
+definition to show that the general recursive functions coincide with
+the total recursive functions as defined below). </p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ In fact it was later shown by Grzegorczyk, Mostowski, &amp;
+Ryll-Nardzewski (1958: sec. 3) that the class of functions satisfying
+the semantic version of Herbrand&rsquo;s definition (as understood
+classically) corresponds not to the recursive functions but rather to
+the <em>hyperarithmetical functions</em> (see
+ <a href="index.html#AnalHier">Section 3.6.2</a>).
+ </p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ We have stated CT here in the manner in which it was originally
+presented by Kleene (1952: 300). A consequence of this formulation is
+that an effectively computable function is assumed to be total (i.e.,
+defined on all of its inputs) as this is a property of the general
+recursive functions. On the other hand, some authors have also
+suggested that one of the equivalent formal definitions of
+computability mentioned below (e.g., computability by a Turing
+machine) analyze the notion of a <em> partial function </em> computed
+by mechanical process which need not always terminate (see, e.g.,
+Wang's 1974 discussion of G&ouml;del on this point). Alternatively,
+other authors have suggested that there are in fact two separate
+theses at issue, one for total functions and another for partial
+functions (see, e.g., Boolos, Burgess, &amp; Jeffrey 2007: 71).
+Finally it should also be kept in mind that while CT is widely
+accepted as providing a correct mathematical analysis of the notion of
+a <em>function (in extension) computed by an algorithm </em>, most
+authors do not view it as providing an analysis of the notion of <em>
+algorithm </em> itself. For more on this distinction, see Dean
+2016.</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ For more on G&ouml;del&rsquo;s evaluation of Church&rsquo;s Thesis
+see the introduction and postscript to G&ouml;del 1934 in Davis 1965
+and also Davis 1982. </p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ Another complicating factor is that it is sometimes claimed that the
+version of Church&rsquo;s Thesis stated here cannot serve to analyze
+the understanding of a computable function as it is understood within
+constructive mathematics. For note that in order for a system of
+equations \(\mathcal{E}(\psi_1,\ldots,\psi_n,\vec{x})\) to a determine
+a function \(f(\vec{x})\) requires that <em>for all</em> arguments
+\(\vec{n}\), <em>there exists</em> a derivation of the equation
+\(\psi^k_i(\vec{n}) = m\). But since this is a mathematical
+proposition, a constructivist will not accept that it is true unless
+it can itself be proven constructively. On this basis P&eacute;ter
+(1959) argued that general recursiveness cannot be non-circularly
+employed to provide an analysis of a constructively computable
+function. </p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ See Adams (2011: ch. 6) for a detailed reconstruction of the timeline
+leading to Church&rsquo;s various announcements and formulations of
+Church&rsquo;s Thesis. </p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ G&ouml;del&rsquo;s characterization of &ldquo;recursiveness&rdquo;
+ (<a href="index.html#OrigPrimRecu">Section 1.2</a>)
+ in terms of systems of equations and formal derivability would also
+inform work in computer science related to functional programming
+languages. See, e.g., McCarthy 1961; Greibach 1975; and Moschovakis
+1989. </p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ Post is now also often credited with having shown the undecidability
+of a similar problem during the 1920s in a manner which also can be
+understood to anticipate G&ouml;del's First Incompleteness Theorem.
+See the introductory remarks to Post 1965. </p>
+</div>
+
+<div id="note-20">
+
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ See Hilbert (1930 [1998: 233]) for another of Hilbert&rsquo;s
+contemporaneous formulations. Note also that the question of whether a
+formula \(\varphi\) is <em>satisfiable</em> (i.e., true in
+<em>some</em> model) is equivalent to the <em>invalidity</em> of
+\(\neg \varphi\) which is turn equivalent to the existence of a model
+in which \(\varphi\) is false. The &ldquo;satisfiability
+problem&rdquo; for first-order logic is thus dual to the
+<em>Entscheidungsproblem</em> in the sense that a decision algorithm
+for one would lead immediately to a decision method for the other.
+</p>
+</div>
+
+<div id="note-21">
+
+<p>
+
+ <a href="index.html#ref-21">21.</a>
+ This illustrates how the choice of the zero and successor functions
+in \(I_{\textbf{PR}}\) relates to the historical origin of primitive
+recursion in Skolem&rsquo;s (1923) &ldquo;recursive mode of
+thought&rdquo; and in Hilbert &amp; Bernays&rsquo;s (1934)
+&ldquo;finitary standpoint&rdquo; (see
+ <a href="index.html#OrigPrimRecu">Section 1.2</a>).
+ In this setting, natural numbers are understood to be represented by
+unary numerals of the form \(\varepsilon, |,||, |||, \ldots\) where
+\(\varepsilon\) (the empty string) denotes 0 and the operation \(x
+\mapsto | \cdot x\) of adjoining a stroke to a numeral corresponds to
+mapping \(x\) to its successor. The need to explicitly include the
+projection (or &ldquo;generalized identity&rdquo;) functions among
+\(I_{\textbf{PR}}\) was realized only later by G&ouml;del (1934) (see
+ <a href="index.html#AritReprGodeFirsIncoTheo">Section 1.3</a>).
+ </p>
+</div>
+
+<div id="note-22">
+
+<p>
+
+ <a href="index.html#ref-22">22.</a>
+ Since the terms \(\tau\) have the form of finite trees, computing the
+value of \(\tau\) applied to a finite sequence of natural numbers
+\(\vec{n}\) requires taking into account both the form of \(\tau\) and
+also selecting a method by which its nodes are traversed. As such,
+there need not be a <em>unique</em> \(s\) which encodes the a halting
+computation of \(\tau\) applied to \(\vec{n}\). For instance consider
+the term \(\tau = \mathcal{Comp}^{2}_{3}[add, \pi^{3}_{0},
+\pi^{3}_{2}]\) applied to the arguments \( \vec{n} = \langle 5, 42, 7
+\rangle\). This term can be describing a tree whose root is labeled
+with \(add\) and whose leaves are labeled with \(\pi^{3}_{0}\) and
+\(\pi^{3}_{2}\). In order to compute the value of \(\tau\) applied to
+\(\vec{n}\) we must decide whether we compute \(\pi^{3}_{0}(\vec{n}) =
+5\) or \(\pi^{3}_{2}(\vec{n}) = 7\) first before computing \(add(5,7)
+= 12\). Each of these lineralizations of the computation will lead to
+a distinct value for \(s\). But if \(\tau\) applied to \(\vec{n}\) is
+defined, such a sequence will exist. And thus we are guaranteed to
+find one by using the unbounded minimization operator to search for
+the one with the smallest code.</p>
+</div>
+
+<div id="note-23">
+
+<p>
+
+ <a href="index.html#ref-23">23.</a>
+ This shows that we can effectively find index for \(\overline{W_i}\)
+on the <em>assumption</em> that \(W_i\) is computable. However, it can
+also be shows that the closure of the computable sets under
+complementation cannot be uniform&mdash;i.e., there is no computable
+function \(f(x)\) such that for all \(i\), if \(W_i\) is recursive,
+then \(W_{f(i)} = \overline{W_i}\). See Rogers (1987: ch. 5.5). </p>
+</div>
+
+<div id="note-24">
+
+<p>
+
+ <a href="index.html#ref-24">24.</a>
+ The statement and proof of
+ <a href="index.html#recthm">Theorem 3.5</a>
+ are given with little explanation at the end of &sect;2 of Kleene
+(1938: 153). This was the paper in which Kleene introduced the class
+of ordinal notations now known as <em>Kleene&rsquo;s
+\(\mathcal{O}\)</em> (see
+ <a href="index.html#AnalHier">Section 3.6.2</a>).
+ In this context the result can be used to show that functions defined
+by recursion on arbitrary notation systems for constructive ordinals
+are computable, a fact which Kleene used to show that \(\mathcal{O}\)
+is <em>maximal</em> with respect to the ordinals to which it assigns a
+notation (see, e.g., Rogers 1987: ch. 11.7). It was realized later
+that Theorem 3.5 can be used to unify various other self-referential
+constructions which arise in more advanced applications in
+computability theory. (Two classic example are Myhill&rsquo;s [1955]
+theorem that every creative set is many-one complete&mdash;see Soare
+[2016 ch. 2.4.2]&mdash;and Kleene&rsquo;s [1955a] theorem that the
+hyperarithmatical sets correspond to the \(\Delta^1_1\)-definable
+sets&mdash;see Y. Moschovakis [2009: ch. 7B].) Theorem 3.5 is
+sometimes also referred to as the <em>Second Recursion Theorem</em>.
+This is to distinguish it from the effective form of the so-called
+<em>Knaster-Tarski Theorem</em> (i.e., &ldquo;every monotonic and
+continuous operator on a complete lattice has a fixed point&rdquo;)
+which can be used to relate Theorem 3.5 to the existence of
+extensional fixed points for computable functionals (see, e.g., Rogers
+1987: ch. 11.5). </p>
+</div>
+
+<div id="note-25">
+
+<p>
+
+ <a href="index.html#ref-25">25.</a>
+ Kolmogorov provided this formulation in the context of his so-called
+<em>problem interpretation</em> of intuitionistic logic. In this
+setting the logical connectives are interpreted in terms of the
+<em>proof conditions</em> of the complex formulas in which they
+figure. This leads to the interpretation of a conditional \(A
+\rightarrow B\) as an operation \(f\) which transforms proofs \(x\) of
+\(A\) into proofs \(f(x)\) of \(B\). If propositions are understood as
+sets of their proofs in the manner of the
+ <a href="../proof-theory-development/#LatDevNatDed"><em>Curry-Howard correspondence</em></a>,
+ then Kolmogorov&rsquo;s definition is very close to the notion of a
+many-one reduction later proposed by Post (1944). Although
+Kolmogorov&rsquo;s interpretation had only an indirect influence on
+the initial development of computability theory in the West, it was
+later formalized in terms of the notion of a <em>mass problem</em>
+(see, e.g., Rogers 1987: ch. 13.7). In this way it is possible to
+provide computability-theoretic interpretations of intuitionistic
+propositional (M&eacute;dv&eacute;d&eacute;v 1955), first-order, and
+higher-order logic (Basu &amp; Simpson 2016). </p>
+</div>
+
+<div id="note-26">
+
+<p>
+
+ <a href="index.html#ref-26">26.</a>
+ Several other notions of reducibility and degree notions are also
+studied in computability theory based on similar ideas&mdash;e.g.,
+one-one, truth table, Muchnik, and Medvedev reducibility (see, e.g.,
+Rogers 1987 or Odifreddi 1999b). A parallel set of notions of
+<em>feasible reducibility</em> are studied in
+ <a href="../computational-complexity/">computational complexity theory</a>
+ under the names of <em>Karp reductions</em> (which correspond to
+polynomial-time many-one reductions) and <em>Cook reductions</em>
+(which correspond to polynomial-time Turing reductions). </p>
+</div>
+
+<div id="note-27">
+
+<p>
+
+ <a href="index.html#ref-27">27.</a>
+ See Turing (1939: 171&ndash;172) for Turing&rsquo;s original
+characterization and Soare (2016: ch. 17.4.2) and Feferman (1995) for
+discussion of the specific purpose for which Turing introduced
+o-machines. Contemporary formulations of computability relative to an
+oracle are given by Rogers (1987: ch. 9.2) for the Turing machine
+model and Cutland (1980: ch. 9.4) for the URM model. </p>
+</div>
+
+<div id="note-28">
+
+<p>
+
+ <a href="index.html#ref-28">28.</a>
+ In light of this, the Turing degrees are thus sometimes presented as
+a triple \(\langle \{\mathrm{deg}_T(A) : A \subseteq \mathbb{N}\},
+\leq_T\rangle, \cup \rangle\). But since \(\mathbf{a} \cup
+\mathbf{b}\) is definable in first-order logic in terms of \(\leq_T\),
+this structure may be understood as a definitional extension of
+\(\mathcal{D}_T\). </p>
+</div>
+
+<div id="note-29">
+
+<p>
+
+ <a href="index.html#ref-29">29.</a>
+ The <em>non-effective</em> version of
+ <a href="index.html#fmthm">Theorem 3.8</a>
+ which requires only the existence of degree \(\mathbf{a}\) such that
+\(\mathbf{0} &lt;_T \mathbf{a} &lt;_T \mathbf{0}'\) without the
+further requirement that \(\mathbf{a}\) be c.e.&nbsp;was settled by
+Kleene &amp; Post (1954) via an argument which is related to but
+simpler than the finite injury construction described below. </p>
+</div>
+
+<div id="note-30">
+
+<p>
+
+ <a href="index.html#ref-30">30.</a>
+ Many of the most important constructions were first presented
+systematically in Soare&rsquo;s (1987) textbook <em>Recursively
+enumerable sets and degrees</em> and have now been given an even more
+streamlined treatment in the revised edition (Soare 2016). </p>
+</div>
+
+<div id="note-31">
+
+<p>
+
+ <a href="index.html#ref-31">31.</a>
+ To simplify notation, we will systematically confuse in this section
+the natural number \(n \in \mathbb{N}\) with the
+\(\mathcal{L}_a\)-term \(\overline{n} = s(s(s(\ldots s(0))))\)
+(<i>n</i>-times) which denotes it. </p>
+</div>
+
+<div id="note-32">
+
+<p>
+
+ <a href="index.html#ref-32">32.</a>
+ It is not immediately clear that \(\emptyset^{(\alpha)}\) can be
+defined in such a way that it does not depend on the notation \(e \in
+O\) which is chosen to represent the ordinal \(\alpha\). However,
+Spector (1955) showed that the Turing degree of
+\(\emptyset^{(\alpha)}\) is independent of the particular notation
+which is employed. Thus when written out in detail, the definition of
+\(A \leq_T \emptyset^{(\alpha)}\) can be formulated arithmetically so
+that it is well defined. </p>
+</div>
+
+<div id="note-33">
+
+<p>
+
+ <a href="index.html#ref-33">33.</a>
+ There is a sense in which the definition of HYP may be considered to
+be more constructive than that of \(\Delta^1_1\). For on the one hand
+the \(\Delta^1_1\) sets are defined &ldquo;from above&rdquo; by
+impredicative quantification over \(\mathcal{P}(\mathbb{N})\). On the
+other hand, the sets in HYP are inductively generated &ldquo;from
+below&rdquo; by iterating the Turing jump which can be understood in
+terms of numerical quantification (thanks to
+ <a href="index.html#postthm2">Theorem 3.11</a>).
+ Such observations have been employed by a number of authors to
+suggest that the hyperarithmetical sets provide a predicative analysis
+of quantification over the \(\Delta^1_1\)-definable sets&mdash;e.g.,
+Kreisel (1960), Rogers (1987: ch. 16.8), Sacks (1990: ch. II.2).
+Kleene&rsquo;s result was also seminal in helping to establish the
+so-called &ldquo;analogies&rdquo; discussed below between the
+definability-theoretic hierarchies studied in descriptive set theory
+and computability theory which likens, e.g., continuous functions to
+computable functions, open sets to c.e. sets and Borel sets to
+hyperarithmetical sets&mdash;e.g., Kreisel &amp; Sacks (1965),
+Odifreddi (1989: ch. IV.2), Y. Moschovakis (2009: 1&ndash;9). </p>
+</div>
+
+<div id="note-34">
+
+<p>
+
+ <a href="ackermann-peter.html#ref-34">34.</a>
+ See, e.g., Cutland 1980: 46; Rogers 1987: 8&ndash;9: Soare 2016:
+231&ndash;232. </p>
+</div>
+
+<div id="note-35">
+
+<p>
+
+ <a href="ackermann-peter.html#ref-35">35.</a>
+ Hilbert himself acknowledged that the proof he sketches is in need of
+further clarification. And while he attempted this in 1928, his proof
+is not regarded as having being been successful. For reconstructions
+and assessments see P&eacute;ter (1967: 241&ndash;243), van Heijenoort
+(1967: 367&ndash;369), Dreben &amp; Kanamori (1997), and Tait (2005:
+49&ndash;50). </p>
+</div>
+
+<div id="note-36">
+
+<p>
+
+ <a href="ackermann-peter.html#ref-36">36.</a>
+ The expression &ldquo;ordinary recursion&rdquo; has not be retained
+in the literature. Kleene (1936c: 237&ndash;238) appears to
+have interpreted it as <em>coinciding</em> with primitive recursion.
+Nothing which Hilbert (1926) says contradicts this. However in a followup discussion to (1926), he would later make clear that while an ordinary recursive
+function takes its arguments in \(\mathbb{N}\) (1928 [1967: 468]),
+such a function may return a countable ordinal in Cantor&rsquo;s
+second number class (1928 [1967: 471]). </p>
+</div>
+
+<div id="note-37">
+
+<p>
+
+ <a href="ackermann-peter.html#ref-37">37.</a>
+ A similar result showing that the class of function definable by
+recursion on type 1 functions properly extends those definable by
+ordinary recursion was obtained contemporaneously by Sudan (1927)
+using a definition by transfinite recursion on countable ordinals. See
+Calude, Marcus, &amp; Tevy (1979) for a comparison with the approach
+of Ackermann (1928b). </p>
+</div>
+
+<div id="note-38">
+
+<p>
+
+ <a href="ackermann-peter.html#ref-38">38.</a>
+ For instance, in order to compute the value of \(\delta(2,1)\), we
+must first compute the values of \(\delta(1, \gamma(1,0))\) and
+\(\delta(2,0)\). These computations can be performed independently
+from one to another in the sense that it is possible to compute first
+\(\delta(1, \gamma(1,0))\), and then \(\delta(2,0)\), so as to respect
+the fact that the ordered pair \(\langle 1, u \rangle\), where \(u =
+\gamma(1,0)\), precedes the ordered pair \(\langle 2,0 \rangle\) in
+the lexicographical order. </p>
+</div>
+
+<div id="note-39">
+
+<p>
+
+ <a href="ackermann-peter.html#ref-39">39.</a>
+ For in contrast to the computation of \(\delta(2,1)\) described in
+the prior note, observe that \(\pi(2,1) = \pi(1,\pi(2,0))\). Thus in
+order to compute its value we must first compute the value of
+\(\pi(2,0)\)&mdash;say that it is \(u\)&mdash;and then compute
+\(\pi(1,u)\). Note, however, that \(\langle 2,0 \rangle\)
+<em>follows</em> \(\langle 1,u \rangle\) in the lexicographical
+ordering \(\prec\). Thus in order to compute the value of \(\pi(x +
+1,y + 1)\) it is in general necessary to assume that this function is
+defined for pairs preceding \(\langle x + 1,y + 1 \rangle\) defined in
+terms of \(\pi\) itself instead of those defined in terms of the known
+function in \(\gamma\) in the case of \(\delta(x+1,y+1)\). </p>
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="http://go.warwick.ac.uk/whdean" target="other">Walter Dean</a>
+&lt;<a href="m&#97;ilto:W&#37;2eH&#37;2eDean&#37;40warwick&#37;2eac&#37;2euk"><em>W<abbr title=" dot ">&#46;</abbr>H<abbr title=" dot ">&#46;</abbr>Dean<abbr title=" at ">&#64;</abbr>warwick<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+<a href="https://www.pantheonsorbonne.fr/page-perso/anaibo" target="other">Alberto Naibo</a>
+&lt;<a href="m&#97;ilto:alberto&#37;2enaibo&#37;40univ-paris1&#37;2efr"><em>alberto<abbr title=" dot ">&#46;</abbr>naibo<abbr title=" at ">&#64;</abbr>univ-paris1<abbr title=" dot ">&#46;</abbr>fr</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

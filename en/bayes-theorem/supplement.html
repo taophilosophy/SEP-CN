@@ -1,0 +1,1278 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Bayes’ Theorem &gt; Examples, Tables, and Proof Sketches (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/bayes-theorem/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/bayes-theorem/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bayes-theorem">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Bayes&rsquo; Theorem</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Examples, Tables, and Proof Sketches</h2>
+
+<h3><a name="1">Example 1: Random Drug Testing</a></h3>
+
+<p>
+
+Joe is a randomly chosen member of a large population in which 3%
+are heroin users. Joe tests positive for heroin in a drug test that
+correctly identifies users 95% of the time and correctly identifies
+nonusers 90% of the time. To determine the probability that Joe uses
+heroin (= <em>H</em>) given the positive test result (= <em>E</em>), we
+apply Bayes' Theorem using the values</p>
+
+<ul>
+<li>Sensitivity = <strong>P</strong><em><sub>H</sub></em>(<em>E</em>) =
+0.95</li>
+
+<li>Specificity = 1 &minus;
+<strong>P</strong><sub>~<em>H</em></sub>(<em>E</em>) = 0.90</li>
+
+<li>Baseline "prior" probability = <strong>P</strong>(<em>H</em>) =
+0.03.</li>
+</ul>
+
+<p>
+
+Calculation then shows that
+<strong>P</strong><em><sub>E</sub></em>(<em>H</em>) =
+0.03&times;0.95<strong>/</strong>[0.03&times;0.95 + 0.97&times;0.1] =
+0.227. So, even though the post-test probability of Joe being a user is
+more than seven times greater than that of the population at large, it
+still remains fairly unlikely that Joe is a user. (Notice how a
+positive result on a fairly reliable test can leave <em>H</em>'s
+probability quite small when its initial baseline probability starts
+out small!)</p>
+
+<p>
+
+ [<a href="index.html#s-1">Back to Text</a>]</p>
+
+<h3><a name="2">Example 2: Random Drug Testing, Again</a></h3>
+
+<p>
+
+Recall that Joe, a random member of a population in which 3% use
+heroin, tests positive for heroin in a test of sensitivity 0.95 and
+specificity 0.90. Since
+<strong>P</strong><em><sub>E</sub></em>(<em>H</em>) = 0.227 exceeds
+<strong>P</strong>(<em>H</em>) = 0.03, this result provides strong
+<em>incremental</em> evidence for thinking that Joe uses heroin.
+Nevertheless, the <em>total</em> evidence for this conclusion remains
+weak. Since heroin use is so rare in the population at large it is far
+more likely that the test is wrong in this instance than that Joe is a
+user.</p>
+
+<p>
+
+Notice how incremental and total evidence make different uses of
+information about the base rate of heroin use in the population. When
+asking questions about incremental confirmation one ignores the base
+rate entirely because it is incorporated into <em>both</em>
+<strong>P</strong>(<em>H</em>) and
+<strong>P</strong><em><sub>E</sub></em>(<em>H</em>). But, when asking
+questions about total evidence one must attend closely to the base
+rate, which almost always provides evidentially relevant information
+about the hypothesis. In Joe's case, for example, the low base rate
+swamps the positive test result. People often commit the "base rate
+fallacy" (Kahneman &amp; Tversky 1973, 237-251) by mistaking
+incremental evidence for total evidence. They treat the result of a
+highly, but not completely, reliable test as though it provides
+conclusive evidence for the truth of some hypothesis even though the
+antecedent improbability of the hypothesis should lead them to question
+the accuracy of the test result in the case at hand.</p>
+
+<p>
+
+ [<a href="index.html#s-2">Back to text</a>]</p>
+
+<h3><a name="3">Table 3: Measures related to total evidence</a></h3>
+
+
+
+<center>
+<strong>P</strong>(<em>H</em>) as total evidence for
+<em>H</em>
+</center>
+
+<center>
+<table border="1" cellspacing="1" width="95%">
+<tr>
+<td></td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong>Multiplicative</strong>
+</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong>Additive</strong>
+</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>NET</center>
+</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong>P</strong>(<em>H</em>)<strong>/</strong><strong>P</strong>(~<em>
+H</em>) = <strong>O</strong>(<em>H</em>)</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong>P</strong>(<em>H</em>) &minus;
+<strong>P</strong>(~<em>H</em>) = 2[<strong>P</strong>(<em>H</em>)
+&minus; 1/2]</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>BALANCE</center>
+</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong>P</strong>(<em>H</em>)<strong>/</strong><strong>P</strong>(<em>H</em>*)
+= <strong>B</strong>(<em>H</em>, <em>H</em>*)</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong>P</strong>(<em>H</em>) &minus;
+<strong>P</strong>(<em>H</em>*) = <strong>P</strong>(<em>H</em> &amp;
+~<em>H</em>*) &minus; <strong>P</strong>(~<em>H</em> &amp;
+<em>H</em>*)</center>
+</td>
+</tr>
+</table>
+</center>
+
+
+
+<center>
+<strong>O</strong>(<em>H</em>) as total evidence for
+<em>H</em>
+</center>
+
+<center>
+<table border="1" cellspacing="1" width="95%">
+<tr>
+<td></td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong>Multiplicative</strong>
+</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong>Additive</strong>
+</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>NET</center>
+</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong>O</strong>(<em>H</em>)<strong>/</strong><strong>O</strong>(~<em>
+H</em>) = <strong>O</strong>(<em>H</em>)<sup>2</sup>
+</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong>O</strong>(<em>H</em>) &minus;
+<strong>O</strong>(~<em>H</em>) = [<strong>P</strong>(<em>H</em>)
+&minus;
+<strong>P</strong>(~<em>H</em>)]<strong>/</strong><strong>P</strong>(~<em>
+H</em>)<strong>P</strong>(<em>H</em>)</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>BALANCE</center>
+</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong>O</strong>(<em>H</em>)<strong>/</strong><strong>O</strong>(<em>H</em>*)
+= <strong>B</strong>(<em>H</em>,
+<em>H</em>*)<strong>/</strong><strong>B</strong>(~<em>H</em>,
+~<em>H</em>*)</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong>O</strong>(<em>H</em>) &minus;
+<strong>O</strong>(<em>H</em>*) = [<strong>P</strong>(<em>H</em>)
+&minus;
+<strong>P</strong>(<em>H</em>*)]<strong>/</strong><strong>P</strong>(~<em>
+H</em>)<strong>P</strong>(~<em>H</em>*)</center>
+</td>
+</tr>
+</table>
+</center>
+
+<p>
+
+ [<a href="index.html#s-3">Back to Text</a>]</p>
+
+<h3><a name="4">Table 4: Measures of incremental evidence for fixed <em>H</em> and variable <em>E</em></a></h3>
+
+
+
+<center>
+<strong>P</strong>(<em>H</em>) as total evidence for
+<em>H</em>
+</center>
+
+<center>
+<table border="1" cellspacing="1" width="100%">
+<tr>
+<td></td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong>Ratio</strong>
+</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong>Difference</strong>
+</center>
+</td>
+</tr>
+
+<tr>
+<td>Effective</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong><em>PR</em></strong>(<em>H</em>,
+<em>E</em>)<strong>/</strong><strong><em>PR</em></strong>(<em>H</em>,
+~<em>E</em>) =
+<strong>P</strong><sub><em>E</em></sub>(<em>H</em>)<strong>/</strong><strong>
+P</strong><sub>~<em>E</em></sub>(<em>H</em>) =
+<strong><em>LR</em></strong>(<em>E</em>, <em>H</em>)</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>) &minus;
+<strong><em>PD</em></strong>(<em>H</em>, ~<em>E</em>) =
+<strong>P</strong><sub><em>E</em></sub>(<em>H</em>) &minus;
+<strong>P</strong><sub>~<em>E</em></sub>(<em>H</em>)</center>
+</td>
+</tr>
+
+<tr>
+<td>Differential</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong><em>PR</em></strong>(<em>H</em>,
+<em>E</em>)<strong>/</strong><strong><em>PR</em></strong>(<em>H</em>,
+<em>E</em>*) =
+<strong>P</strong><sub><em>E</em></sub>(<em>H</em>)<strong>/</strong><strong>
+P</strong><sub><em>E</em>*</sub>(<em>H</em>) =
+<strong><em>LR</em></strong>(<em>E</em>, <em>E</em>*;
+<em>H</em>)</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>) &minus;
+<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>*) =
+<strong>P</strong><sub><em>E</em></sub>(<em>H</em>) &minus;
+<strong>P</strong><sub><em>E</em>*</sub>(<em>H</em>)</center>
+</td>
+</tr>
+</table>
+</center>
+
+
+
+<center>
+<strong>O</strong>(<em>H</em>) as total evidence for
+<em>H</em>
+</center>
+
+<center>
+<table border="1" cellspacing="1" width="100%">
+<tr>
+<td></td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong>Ratio</strong>
+</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong>Difference</strong>
+</center>
+</td>
+</tr>
+
+<tr>
+<td>Effective</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong><em>OR</em></strong>(<em>H</em>,
+<em>E</em>)<strong>/</strong><strong><em>OR</em></strong>(<em>H</em>,
+~<em>E</em>) =
+<strong>O</strong><sub><em>E</em></sub>(<em>H</em>)<strong>/</strong><strong>
+O</strong><sub>~<em>E</em></sub>(<em>H</em>)
+<br />
+= <font size="-1">[<strong>P</strong>(<em>E</em> &amp;
+<em>H</em>)<strong>P</strong>(~<em>E</em> &amp;
+~<em>H</em>)]<strong>/</strong>[<strong>P</strong>(<em>E</em> &amp;
+~<em>H</em>)<strong>P</strong>(~<em>E</em> &amp;
+<em>H</em>)]</font>
+</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong><em>OD</em></strong>(<em>H</em>, <em>E</em>) &minus;
+<strong><em>OD</em></strong>(<em>H</em>, ~<em>E</em>)
+<br />
+ = <font size="-1">[<strong>P</strong>(<em>E</em> &amp;
+<em>H</em>)<strong>/</strong>[<strong>P</strong>(<em>E</em> &amp;
+~<em>H</em>)] &minus; [<strong>P</strong>(~<em>E</em> &amp;
+<em>H</em>)<strong>/</strong><strong>P</strong>(~<em>E</em> &amp;
+~<em>H</em>)]</font>
+</center>
+</td>
+</tr>
+
+<tr>
+<td>Differential</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong><em>OR</em></strong>(<em>H</em>,
+<em>E</em>)<strong>/</strong><strong><em>OR</em></strong>(<em>H</em>,
+<em>E</em>*) =
+<strong>O</strong><sub><em>E</em></sub>(<em>H</em>)<strong>/</strong><strong>
+O</strong><sub><em>E</em>*</sub>(<em>H</em>)
+<br />
+ = <font size="-1">[<strong>P</strong>(<em>E</em> &amp;
+<em>H</em>)<strong>P</strong>(<em>E</em>* &amp;
+~<em>H</em>)]<strong>/</strong>[<strong>P</strong>(<em>E</em> &amp;
+~<em>H</em>)<strong>P</strong>(<em>E</em>* &amp;
+<em>H</em>)]</font>
+</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>) &minus;
+<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>*)
+<br />
+= <font size="-1">[<strong>P</strong>(<em>E</em> &amp;
+<em>H</em>)<strong>/</strong>[<strong>P</strong>(<em>E</em> &amp;
+~<em>H</em>)] &minus; [<strong>P</strong>(<em>E</em>* &amp;
+<em>H</em>)<strong>/</strong><strong>P</strong>(<em>E</em>* &amp;
+~<em>H</em>)]</font>
+</center>
+</td>
+</tr>
+</table>
+</center>
+
+<p>
+
+ [<a href="index.html#s-4">Back to Text</a>]</p>
+
+<h3><a name="5">Example 3: An illustration of the difference between <strong><em>PR</em></strong> and <strong><em>OR</em></strong></a></h3>
+
+<p>
+
+The probability ratio and odds ratio yield different verdicts about
+the relative degree to which <em>E</em> incrementally confirms
+<em>H</em> and <em>H</em>* when (a) <em>H</em> predicts <em>E</em>
+somewhat more strongly than <em>H</em>* does, but (b) ~<em>H</em>
+predicts <em>E</em> <em>much</em> more strongly than ~<em>H</em>* does.
+The general condition is this:</p>
+
+<blockquote>
+<table>
+<tr>
+<td nowrap="nowrap"><strong><em>PR</em></strong>(<em>H</em>,
+<em>E</em>) &gt;<strong><em>OR</em></strong>(<em>H</em>, <em>E</em>)
+and <strong><em>OR</em></strong>(<em>H</em>*, <em>E</em>) &lt;
+<strong><em>PR</em></strong>(<em>H</em>*, <em>E</em>)</td>
+</tr>
+
+<tr>
+<td align="center">if and only if</td>
+</tr>
+
+<tr>
+<td align="center">1 &lt; <strong><em>LR</em></strong>(<em>H</em>,
+<em>H</em>*; <em>E</em>) &lt; <strong><em>LR</em></strong>(~<em>H</em>,
+~<em>H</em>*; <em>E</em>)</td>
+</tr>
+</table>
+</blockquote>
+
+<p>
+
+To illustrate, suppose that an exam that tests for knowledge of
+elementary mathematics is given to high-school students at the end of
+their sophomore year. Each student who takes the exam will have had a
+course in geometry (= <em>H</em>), a course in algebra (= <em>H</em>*),
+courses in both subjects, or no math course at all. Reliable statistics
+from a large population show that students tend to pass the exam in the
+following proportions:</p>
+
+<blockquote>
+<table border="1" cellspacing="1" width="60%">
+<tr>
+<td></td>
+<td>
+<center>
+<em>H</em> &amp; <em>H</em>*</center>
+</td>
+<td>
+<center>
+<em>H</em> &amp; ~<em>H</em>*</center>
+</td>
+<td>
+<center>~<em>H</em> &amp; <em>H</em>*</center>
+</td>
+<td>
+<center>~<em>H</em> &amp; ~<em>H</em>*</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<em>E</em> = PASS</center>
+</td>
+<td>
+<center>0.12</center>
+</td>
+<td>
+<center>0.001</center>
+</td>
+<td>
+<center>0.378</center>
+</td>
+<td>
+<center>0.001</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>~<em>E</em> = FAIL</center>
+</td>
+<td>
+<center>0.003</center>
+</td>
+<td>
+<center>0.005</center>
+</td>
+<td>
+<center>0.2</center>
+</td>
+<td>
+<center>0.292</center>
+</td>
+</tr>
+</table>
+</blockquote>
+
+<p>
+
+About 12% of students take both courses, and they pass 97.5% of the
+time. The minuscule proportion of students (0.6%) who take geometry but
+not algebra pass only one time in six. About 58% of students take
+algebra but not geometry, and they pass at a 65% rate. Finally, a bit
+less than 30% of students take neither class, and they pass less than
+0.4% of the time. In general, algebra alone is a moderately strong
+indicator of passing, geometry alone does little to promote passing
+(but it is better than nothing), and adding geometry to algebra makes
+passing almost certain. Given these numbers, learning that a student
+has passed the exam will incrementally confirm both the hypothesis that
+she has taken algebra and the hypothesis that she has taken geometry.
+<strong><em>PR</em></strong> and <strong><em>OR</em></strong> disagree
+about which of the two hypotheses receives <em>more</em> incremental
+support.</p>
+
+<ul>
+<li><strong><em>PR</em></strong>(<em>H</em>, <em>E</em>) = 1.88 &gt;
+<strong><em>PR</em></strong>(<em>H</em>*, <em>E</em>) = 1.42</li>
+
+<li><strong><em>OR</em></strong>(<em>H</em>, <em>E</em>) = 2.16 &lt;
+<strong><em>OR</em></strong>(<em>H</em>*, <em>E</em>) = 106.2</li>
+</ul>
+
+<p>
+
+A comparison of probability ratios tells us that <em>E</em> provides
+slightly more incremental evidence for <em>H</em> than for <em>H</em>*,
+whereas a comparison of odds ratios indicates that <em>E</em> provides
+much more incremental evidence for <em>H</em>* than for <em>H</em>. The
+probability ratio comparison reflects the fact that a course in
+geometry is a far better than one in algebra at indicating that a
+student has taken <em>both</em> courses. In contrast, the great,
+oppositely directed disparity in odds ratios is due to the fact that
+students have a decent chance of passing (44%) without geometry because
+they are likely to have had algebra, but they have almost no chance
+(0.7%) of passing without algebra because they will probably have had
+no math at all.</p>
+
+<p>
+
+ [<a href="index.html#s-5">Back to Text</a>]</p>
+
+<h3><a name="6">Example 4: An illustration of the difference between <strong><em>PR</em></strong> and <strong><em>PD</em></strong></a></h3>
+
+<p>
+
+The probability ratio and probability difference disagree about the
+relative degree to which <em>E</em> incrementally confirms <em>H</em>
+and <em>H</em>* when (a) <em>H</em> predicts <em>E</em> somewhat more
+strongly than <em>H</em>* does, but (b) <em>H</em>* is much more
+probable than <em>H</em>. Here is the general condition:</p>
+
+<blockquote>
+<table>
+<tr>
+<td align="center"><strong><em>PR</em></strong>(<em>H</em>, <em>E</em>)
+&gt; <strong><em>PR</em></strong>(<em>H</em>, <em>E</em>) and
+<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>) &lt;
+<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>)</td>
+</tr>
+
+<tr>
+<td align="center">if and only if</td>
+</tr>
+
+<tr>
+<td align="center">1 &lt; (<strong><em>PR</em></strong>(<em>H</em>,
+<em>E</em>) &minus;
+1)<strong>/</strong>(<strong><em>PR</em></strong>(<em>H</em>*,
+<em>E</em>) &minus; 1) &lt;
+<strong>P</strong>(<em>H</em>*)<strong>/</strong><strong>P</strong>(<em>
+H</em>)</td>
+</tr>
+</table>
+</blockquote>
+
+<p>
+
+To illustrate, suppose that a patient shows up in an emergency room
+with a severe headache, muscle aches and fatigue. These symptoms are
+consistent with both Lyme disease (= <em>H</em>), which is rare in the
+area, and influenza (= <em>H</em>*), which is more common. We are about
+to learn whether the patient has a fever (= <em>E</em>). The known
+statistics for people exhibiting the patient's symptoms are as
+follows:</p>
+
+<blockquote>
+<table border="1" cellspacing="1" width="75%">
+<tr>
+<td></td>
+<td>
+<center>
+<em>H</em> &amp; <em>H</em>*</center>
+</td>
+<td>
+<center>
+<em>H</em> &amp; ~<em>H</em>*</center>
+</td>
+<td>
+<center>~<em>H</em> &amp; <em>H</em>*</center>
+</td>
+<td>
+<center>~<em>H</em> &amp; ~<em>H</em>*</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<em>E</em> = fever</center>
+</td>
+<td>
+<center>0.007</center>
+</td>
+<td>
+<center>0.020</center>
+</td>
+<td>
+<center>0.184</center>
+</td>
+<td>
+<center>0.004</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>~<em>E</em> = no fever</center>
+</td>
+<td>
+<center>0.001</center>
+</td>
+<td>
+<center>0.002</center>
+</td>
+<td>
+<center>0.080</center>
+</td>
+<td>
+<center>0.702</center>
+</td>
+</tr>
+</table>
+</blockquote>
+
+<p>
+
+While only 3% of people have Lyme disease, this illness is
+accompanied by fever 90% of the time. The much larger group of patients
+(about 27%) who have the flu are feverish only 70% of the time.
+Somewhat paradoxically, patients with both the flu and Lyme disease
+present with fevers slightly <em>less</em> often than patients with
+Lyme disease alone (perhaps because flu-induced fevers tend to show up
+more rapidly than those caused by Lyme disease). Given these
+statistics, learning that the patient has a fever incrementally
+confirms both the hypothesis that she has Lyme disease and the
+hypothesis that she has the flu. <strong><em>PR</em></strong> and
+<strong><em>PD</em></strong>, disagree about which of the two
+hypotheses receives the greater increment of support.</p>
+
+<ul>
+<li><strong><em>PR</em></strong>(<em>H</em>, <em>E</em>) = 4.19 &gt;
+<strong><em>PR</em></strong>(<em>H</em>*, <em>E</em>) = 3.27</li>
+
+<li><strong><em>PD</em></strong>(<em>H</em>, <em>E</em>) = 0.09 &lt;
+<strong><em>PD</em></strong>(<em>H</em>*, <em>E</em>) = 0.61</li>
+</ul>
+
+<p>
+
+According to the ratio measure, a fever provides more incremental
+evidence for Lyme disease than it does for the flu simply because fever
+accompanies the former more often than it accompanies the latter.
+According to the ratio measure, however, a fever incrementally confirms
+a diagnosis of influenza more than a diagnosis of Lyme disease. Since
+so many more patients suffer from the flu than from Lyme disease, and
+since both illnesses produce fevers at a high rate, <em>H</em>*'s
+probability ends up being increased by a larger absolute amount than
+<em>H</em>'s probability is increased. In general, when two hypotheses
+have similar predictive power with respect to some item of evidence,
+the probability difference measure has a larger increment of
+confirmation accruing to the hypothesis that is antecedently more
+probable.</p>
+
+<p>
+
+ [<a href="index.html#s-6">Back to Text</a>]</p>
+
+<h3><a name="7">Example 5: An illustration of the difference between <strong><em>OR</em></strong> and <strong><em>PD</em></strong></a></h3>
+
+<p>
+
+The odds ratio and probability difference yield disparate verdicts
+about the relative degree to which <em>E</em> incrementally confirms
+<em>H</em> and <em>H</em>* under the following conditions:</p>
+
+<blockquote>
+<table>
+<tr>
+<td align="center"><strong><em>PD</em></strong>(<em>H</em>, <em>E</em>)
+&gt;<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>) and
+<strong><em>OR</em></strong>(<em>H</em>, <em>E</em>) &lt;
+<strong><em>OR</em></strong>(<em>H</em>, <em>E</em>)</td>
+</tr>
+
+<tr>
+<td align="center">if and only if</td>
+</tr>
+
+<tr>
+<td nowrap="nowrap">[<strong>P</strong>(~<em>H</em> &amp;
+<em>E</em>)<strong>P</strong>(<em>H</em>)]<strong>/</strong>[<strong>P</strong>(~<em>
+H</em>* &amp; <em>E</em>)<strong>P</strong>(<em>H</em>*)]
+&gt;[<strong>P</strong>(<em>H</em> &amp; <em>E</em>) &minus;
+<strong>P</strong>(<em>H</em>)<strong>P</strong>(<em>E</em>)]<strong>/</strong>[<strong>
+P</strong>(<em>H</em>* &amp; <em>E</em>) &minus;
+<strong>P</strong>(<em>H</em>*)<strong>P</strong>(<em>E</em>)]
+&gt;1</td>
+</tr>
+</table>
+</blockquote>
+
+<p>
+
+To get a sense of what this involves, imagine a corporation in which
+employees may or may not be highly paid (= <em>H</em>), and may or may
+not hold cushy jobs (= <em>H</em>*). The distribution of jobs among men
+(= <em>E</em>) and women on the payroll is as follows:</p>
+
+<blockquote>
+<table border="1" cellspacing="1" width="75%">
+<tr>
+<td></td>
+<td>
+<center>
+<em>H</em> &amp; <em>H</em>*</center>
+</td>
+<td>
+<center>
+<em>H</em> &amp; ~<em>H</em>*</center>
+</td>
+<td>
+<center>~<em>H</em> &amp; <em>H</em>*</center>
+</td>
+<td>
+<center>~<em>H</em> &amp; ~<em>H</em>*</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<em>E = man</em>
+</center>
+</td>
+<td>
+<center>0.018</center>
+</td>
+<td>
+<center>0.102</center>
+</td>
+<td>
+<center>0.019</center>
+</td>
+<td>
+<center>0.162</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>~<em>E</em> = woman</center>
+</td>
+<td>
+<center>0.002</center>
+</td>
+<td>
+<center>0.098</center>
+</td>
+<td>
+<center>0.001</center>
+</td>
+<td>
+<center>0.598</center>
+</td>
+</tr>
+</table>
+</blockquote>
+
+<p>
+
+In this sexist firm, only 2% of employees have well-paid cushy jobs,
+and 90% of them are men. Well-paid but difficult jobs held by 20% of
+the staff, and these are almost evenly split among men (51%) and women
+(49%). Another 2% of employees have low-wage cushy jobs, and 95% of
+these are men. Most workers (76%) are poorly paid and have difficult
+jobs. These assignments go overwhelmingly (79%) to women. Given these
+statistics, learning that an employee is a man will incrementally
+confirm both the hypothesis that he is well-paid and the hypothesis
+that he has a cushy job. <strong><em>PD</em></strong> and
+<strong><em>OR</em></strong> disagree about which of the two hypotheses
+receives the greater increment of support from the evidence.</p>
+
+<ul>
+<li><strong><em>PD</em></strong>(<em>H</em>, <em>E</em>) = 0.18 &gt;
+<strong><em>PD</em></strong>(<em>H</em>*, <em>E</em>) = 0.08</li>
+
+<li><strong><em>OR</em></strong>(<em>H</em>, <em>E</em>) = 2.36 &lt;
+<strong><em>OR</em></strong>(<em>H</em>*, <em>E</em>) = 3.37</li>
+</ul>
+
+<p>
+
+The probability difference measure has <em>H</em> garnering a
+(slightly) greater increment of confirmation than <em>H</em>*. This is
+largely because (i) the number of men in well-paid, difficult jobs is
+so much greater than the number men in of low-wage, cushy jobs, and
+(ii) the number of men in low-wage, difficult jobs is large relative to
+the total number of men. The odds ratio measure has <em>H</em>*
+receiving a (slightly) greater increment of confirmation than
+<em>H</em> because (i*) low-wage jobs or difficult jobs are about
+equally good as counter indicators of <em>E</em>, but (ii) cushy jobs
+are much better than well-paid jobs as positive indicators of
+<em>E</em>.</p>
+
+<p>
+
+ [<a href="index.html#s-7">Back to Text</a>]</p>
+
+<h3><a name="8">Table 5A: Measures of incremental evidence for fixed <em>E</em> and variable <em>H</em></a></h3>
+
+
+
+<center>
+<strong>Four measures of incremental change in NET
+evidence</strong> 
+
+<table border="1" cellspacing="1" width="100%">
+<tr>
+<td bgcolor="#FFFFFF"></td>
+<td bgcolor="#FFFFFF">
+<center>
+<strong>Ratio</strong>
+</center>
+</td>
+<td bgcolor="#FFFFFF">
+<center>
+<strong>Difference</strong>
+</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<strong>P</strong> as total</center>
+</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong><em>PR</em></strong>(<em>H</em>,
+<em>E</em>)<strong>/</strong><strong><em>PR</em></strong>(~<em>H</em>,
+<em>E</em>) = <strong><em>LR</em></strong>(<em>H</em>,
+<em>E</em>)</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>) &minus;
+<strong><em>PD</em></strong>(~<em>H</em>, <em>E</em>) =
+2<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>)</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<strong>O</strong> as total</center>
+</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong><em>OR</em></strong>(<em>H</em>,
+<em>E</em>)<strong>/</strong><strong><em>OR</em></strong>(~<em>H</em>,
+<em>E</em>) = <strong><em>LR</em></strong>(<em>H</em>,
+<em>E</em>)<sup>2</sup>
+</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong><em>OD</em></strong>(<em>H</em>, <em>E</em>) &minus;
+<strong><em>OD</em></strong>(~<em>H</em>, <em>E</em>) =
+[<strong>P</strong>(<em>H</em>) &minus;
+<strong>P</strong>(~<em>H</em>)]<strong>/</strong>[<strong>P</strong>(<em>
+H</em>)<strong>P</strong>(~<em>H</em>)<strong>O</strong>(<em>E</em>)]</center>
+</td>
+</tr>
+</table>
+</center>
+
+
+
+<center>
+<strong>Four measures of incremental change in the BALANCE of
+TOTAL evidence</strong> 
+
+<table border="1" cellspacing="1" width="100%">
+<tr>
+<td bgcolor="#FFFFFF"></td>
+<td bgcolor="#FFFFFF">
+<center>
+<strong>Ratio</strong>
+</center>
+</td>
+<td bgcolor="#FFFFFF">
+<center>
+<strong>Difference</strong>
+</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<strong>P</strong> as total</center>
+</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong><em>PR</em></strong>(<em>H</em>,
+<em>E</em>)<strong>/</strong><strong><em>PR</em></strong>(<em>H</em>*,
+<em>E</em>) = <strong><em>LR</em></strong>(<em>H</em>, <em>H</em>*;
+<em>E</em>)</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong><em>PD</em></strong>(<em>H</em>, <em>E</em>) &minus;
+<strong><em>PD</em></strong>(<em>H</em>*, <em>E</em>)
+<br />
+ = [<strong>P</strong><sub><em>E</em></sub>(<em>H</em>) &minus;
+<strong>P</strong><sub><em>E</em></sub>(<em>H</em>*)] &minus;
+[<strong>P</strong>(<em>H</em>) &minus;
+<strong>P</strong>(<em>H</em>*)]</center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center>
+<strong>O</strong> as total</center>
+</td>
+<td bgcolor="#DDDDDD">
+<center>
+<strong><em>OR</em></strong>(<em>H</em>,
+<em>E</em>)<strong>/</strong><strong><em>OR</em></strong>(<em>H</em>*,
+<em>E</em>)
+<br />
+ = <strong><em>LR</em></strong>(<em>H</em>, <em>H</em>*;
+<em>E</em>)<strong>/</strong><strong><em>LR</em></strong>(~<em>H</em>,
+~<em>H</em>*; <em>E</em>)</center>
+</td>
+<td bgcolor="#EEEEEE">
+<center>
+<strong><em>OD</em></strong>(<em>H</em>, <em>E</em>) &minus;
+<strong><em>OD</em></strong>(~<em>H</em>, <em>E</em>)
+<br />
+ = [<strong>P</strong>(<em>H</em>) &minus;
+<strong>P</strong>(<em>H</em>*)]<strong>/</strong>[<strong>P</strong>(~<em>
+H</em>)<strong>P</strong>(~<em>H</em>*)<strong>O</strong>(<em>E</em>)]</center>
+</td>
+</tr>
+</table>
+</center>
+
+<p>
+
+ [<a href="index.html#s-8">Back to Text</a>]</p>
+
+<h3><a name="9">Proof Sketch: 3.5 Lemma</a></h3>
+
+<table>
+<tr>
+<td nowrap="nowrap" valign="top"><strong>(3.5) Lemma</strong>:</td>
+<td>If <em>H</em> and <em>H</em>* both entail <em>E</em> and if
+<strong>P</strong>(<em>H</em>) &gt;<strong>P</strong>(<em>H</em>*),
+then <strong><em>LR</em></strong>(<em>H</em>, <em>H</em>*; <em>E</em>)
+= 1 and <strong><em>LR</em></strong>(~<em>H</em>, ~<em>H</em>*;
+~<em>E</em>) &gt;1.</td>
+</tr>
+</table>
+
+<p>
+
+<strong>Sketch of Proof</strong>: If <em>H</em> and <em>H</em>* both
+entail <em>E</em>, then</p>
+
+<ol type="a">
+<li><strong>P</strong><sub><em>H</em></sub>(<em>E</em>) =
+<strong>P</strong><sub><em>H</em>*</sub>(<em>E</em>) = 1</li>
+
+<li><strong>P</strong><sub>~<em>H</em></sub>(~<em>E</em>) =
+<strong>P</strong>(~<em>E</em>)<strong>/</strong><strong>P</strong>(~<em>
+H</em>)</li>
+
+<li><strong>P</strong><sub>~<em>H</em>*</sub>(~<em>E</em>) =
+<strong>P</strong>(~<em>E</em>)<strong>/</strong><strong>P</strong>(~<em>
+H</em>*)</li>
+</ol>
+
+<p>
+
+(a) entails that <strong><em>LR</em></strong>(<em>H</em>,
+<em>H</em>*; <em>E</em>) = 1. (b) and (c) entail that
+<strong><em>LR</em></strong>(~<em>H</em>, ~<em>H</em>*; ~<em>E</em>)
+&gt;1 if and only if
+<strong>P</strong>(~<em>H</em>*)<strong>/</strong><strong>P</strong>(~<em>
+H</em>) &gt;1, which will always be so when
+<strong>P</strong>(<em>H</em>) &gt;<strong>P</strong>(<em>H</em>*).</p>
+
+<p>
+
+ [<a href="index.html#s-9">Back to Text</a>]</p>
+
+<h3><a name="10">Proof Sketch: 3.6 Lemma</a></h3>
+
+<table>
+<tr>
+<td nowrap="nowrap" valign="top"><strong>(3.6) Lemma</strong>:</td>
+<td>Simple conditioning on <em>E</em> is the only rule for revising
+subjective probabilities that yields a posterior <strong>Q</strong>
+with the following properties for <em>any</em> prior such that
+<strong>P</strong>(<em>E</em>) &gt;0:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+<ol type="i">
+<li><strong>Q</strong>(<em>E</em>) = 1.</li>
+
+<li><em>Ordinal Similarity</em>. If <em>H</em> and <em>H</em>* entail
+<em>E</em>, then <strong>P</strong>(<em>H</em>) &ge;
+<strong>P</strong>(<em>H</em>*) if and only if
+<strong>Q</strong>(<em>H</em>) &ge;
+<strong>Q</strong>(<em>H</em>*).</li>
+</ol>
+</td>
+</tr>
+</table>
+
+<p>
+
+<strong>Sketch of proof</strong>: Conditioning on <em>E</em>
+obviously satisfies (i)-(ii) for any <strong>P</strong>. To see why it
+is the <em>only</em> revision rule that has these properties for
+<em>all</em> probabilities, notice that <strong>P</strong> might be
+<em>atomless</em> in the sense that any hypothesis to which it assigns
+a positive probability can be subdivided into disjoint hypotheses that
+also have positive probability. For an atomless <strong>P</strong> with
+<strong>P</strong>(<em>E</em>) &gt;0,
+<strong>P</strong><sub><em>E</em></sub> will also be atomless. Since
+<strong>Q</strong> is defined over the same set of propositions as
+<strong>P</strong>, clauses (i)-(ii) ensure that <strong>Q</strong> is
+atomless and ordinally similar to
+<strong>P</strong><sub><em>E</em></sub>. It turns out that atomless
+probability functions defined over the same set of propositions can
+only be ordinally similar if they are identical (Joyce 1999, 134-135).
+Thus, <strong>Q</strong> = <strong>P</strong><sub><em>E</em></sub>,
+which means that (i)-(ii) can only hold in full generality if the
+revision rule in question is conditioning.</p>
+
+<p>
+
+ [<a href="index.html#s-10">Back to Text</a>]</p>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2003</a> by
+
+<br />
+<a href="https://websites.umich.edu/~jjoyce/" target="other">James Joyce</a>
+&lt;<a href="m&#97;ilto:jjoyce&#37;40umich&#37;2eedu"><em>jjoyce<abbr title=" at ">&#64;</abbr>umich<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Axiom of Choice &gt; The Axiom of Choice in Type Theory (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/axiom-choice/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/axiom-choice/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=axiom-choice">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">The Axiom of Choice</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>The Axiom of Choice in Type Theory</h2>
+
+<p>
+ In conclusion, we examine the role of the Axiom of Choice in type
+theory. The type theory we consider here is the <em>constructive
+dependent type theory</em> (<strong>CDTT</strong>)
+ introduced<sup>[<a href="notes.html#sup1" name="note-1">1</a>]</sup>
+ by Per Martin-L&ouml;f (1975, 1982, 1984) .  This theory is both
+predicative (so that in particular it lacks a type of propositions),
+and based on intuitionistic
+ logic<sup>[<a href="notes.html#sup2" name="note-2">2</a>]</sup>.
+ Also, as its name indicates, it contains <em>dependent</em> types,
+wherein types can depend on, or &ldquo;vary over&rdquo; other
+types. Type symbols may accordingly take the form \(\bB(x)\), with
+\(x\) a variable of a given type \(\bA: \bB(x)\) is then a type
+dependent on or varying over the type \(\bA\). It is through the
+presence of dependent types that <em>AC</em> becomes expressible
+in <strong>CDTT</strong>.</p>
+
+<p>
+ <strong>CDTT</strong> embodies the so-called <em>propositions-as-
+types</em> doctrine, the central thesis of which is that each
+proposition is to be <em>identified</em> with the type, set, or
+assemblage of its
+ proofs<sup>[<a href="notes.html#sup3" name="note-3">3</a>]</sup>.
+ As a result, such proof types, or sets of proofs, have to be
+accounted the <em>only</em> types, or sets. Strikingly, then, in the
+propositions-as-types doctrine, a type, or set, simply <em>is</em> the
+type, or set, of proofs of a proposition, and, reciprocally, a
+proposition <em>is</em> just the type, or set, of its proofs.</p>
+
+<p>
+ It turns out that <strong>ACL</strong>, the &ldquo;logical&rdquo;
+form of the axiom of choice, is not merely formulable in
+<strong>CDTT</strong>, <em>but actually derivable</em> in it. To see
+this, we need to outline the correspondence between logical operators
+and operations on types in <strong>CDTT</strong> obtained by
+implementing the &ldquo;propositions-as-types&rdquo; doctrine. This is
+most simply done by sketching Tait&rsquo;s [1994] exposition of the
+idea in set-theoretic terms. To begin with, consider two
+propositions/types/sets \(\bA\) and \(\bB\). What should be required
+of a proof \(f\) of, for example, the implication 
+\(\bA \brightarrow \bB\)? 
+Just that, given any proof \(x\) of \(\bA\), \(f\) should yield
+a proof of \(\bB\), that is, \(f\) should be a function from \(\bA\) to
+\(\bB\). In other words, the proposition \(\bA \brightarrow \bB\)
+ is just the type of functions from \(\bA\) to \(\bB\):</p>
+
+\[
+\bA \brightarrow \bB = \bB^{\bA}
+\]
+
+<p>
+ Similarly, all that should be required of a proof \(c\) of the
+conjunction \(\bA \wedge \bB\) is that it should yield proofs \(x\)
+and \(y\) of \(\bA\) and \(\bB\), respectively. From this point of
+view \(\bA \wedge \bB\) is accordingly just the type \(\bA \times
+\bB\) of all pairs \((x, y)\), with \(x\) of type \(\bA\) (we write
+this as \(x: \bA\)) and \(y: \bB\).</p>
+
+<p>
+ A proof of the disjunction \(\bA \vee \bB\)
+is either a proof of \(\bA\) or a proof of
+\(\bB\) together with the information as to which of
+\(\bA\) or \(\bB\) it is a proof. That is, if we
+introduce the type <strong>2</strong> with the two distinct elements 0
+and 1, a proof of \(\bA \vee \bB\) may be
+identified as a pair \((c, n)\) in which either
+\(c\) is a proof of \(\bA\) and \(n\) is 0, or
+\(c\) is a proof of \(\bB\) and \(n\) is 1. This
+means that \(\bA \vee \bB\) should be
+construed as the disjoint union 
+\(\bA + \bB\) of \(\bA\) and \(\bB\).</p>
+
+<p>
+ The true proposition \(\top\) may be identified with the
+one element type \(\bOne = \{0\}: 0\) thus counts as the unique
+proof of \(\top\). The false proposition \(\bot\) is taken to
+be a proposition which lacks a proof altogether: accordingly \(\bot\) is
+identified with the empty set \(\varnothing\). The negation
+\(\neg\bA\) of a proposition \(\bA\) is defined
+as \(\bA \rightarrow \bot\), which therefore becomes
+identified with the set \(\varnothing^A\).</p>
+
+<p>
+ A proposition \(A\) is deemed to be true if it (i.e, the associated
+type \(\bA\)) has an element, that is, if there is a function \(\bOne
+\brightarrow \bA.\) Accordingly the <em>law of excluded middle</em>
+for a proposition \(A\) becomes the assertion that there is a function
+\(\bOne \rightarrow A + \varnothing^A\).</p>
+
+<p>
+ In order to deal with the quantifiers we require operations defined
+on families of types, that is, types \(\bPhi(x)\) depending on objects
+\(x\) of some type \(\bA\). By analogy with the case \(\bA
+\brightarrow \bB\), a proof \(f\) of the proposition \(\forall x:\bA
+\bPhi(x)\), that is, an object of type \(\forall x:\bA \bPhi(x)\),
+should associate with each \(x:\bA\) a proof of \(\bPhi(x)\). So \(f\)
+is just a function with domain \(A\) such that, for each \(x:\bA\),
+\(fx\) is of type \(\bPhi(x)\). That is, \(\forall x:\bA \bPhi(x)\) is
+the <em>product</em> \(\Pi x:\bA \bPhi(x)\) of the
+\(\bPhi(x)\)&rsquo;s. We use the \(\lambda\)-notation in
+writing \(f\) as \(\lambda xfx\).</p>
+
+<p>
+ A proof of the proposition \(\exists x:\bA \bPhi(x)\), that is, an
+object of type \(\exists x:\bA \bPhi(x)\), should determine an object
+\(x:\bA\) and a proof \(y\) of \(\bPhi(x)\),
+and <em>vice-versa</em>. So a proof of this proposition is just a pair
+\((x,y)\) with \(x:\bA\) and \(y:\bPhi(x)\). Therefore \(\exists x:\bA
+\bPhi(x)\) is the <em>disjoint union</em>, or
+<em>coproduct</em> \(Cx:\bA \bPhi(x)\) of the
+\(\bPhi(x)\)&rsquo;s.</p>
+
+<p>
+To translate all this into the language of
+ <strong>CDTT</strong><sup>[<a href="notes.html#sup4" name="note-4">4</a>]</sup>,
+ one uses the following concordance:</p>
+
+<table class="cellpad-small wide vert-top">
+  <tr>
+    <td><strong>Logical<br />Operation</strong></td>
+    <td><strong>Set-Theoretic<br />Operation</strong></td>
+    <td><strong>Type-Theoretic<br />Operation</strong></td>
+  </tr>
+  <tr>
+    <td>\(\wedge\)</td>
+    <td>\(\times\)</td>
+    <td>\(\times\)</td>
+  </tr>
+  <tr>
+    <td>\(\vee\)</td>
+    <td>\(+\)</td>
+    <td>two-term dependent sum</td>
+  </tr>
+  <tr>
+    <td>\(\rightarrow\)</td>
+    <td>set exponentiation</td>
+    <td>type exponentiation</td>
+  </tr>
+  <tr>
+    <td>\(\forall x\)</td>
+    <td>cartesian product \(\prod_{i \in I}\)</td>
+    <td>dependent product \(\prod x:\bA\)</td>
+  </tr>
+  <tr>
+    <td>\(\exists x\)</td>
+    <td>coproduct or disjoint union \(C_{i \in I}\)</td>
+    <td>dependent sum \(Cx:\bA\)</td>
+  </tr>
+</table>
+
+
+<p>
+In <strong>CDTT</strong> the logical version <strong>ACL</strong> of
+<em>AC</em> takes the form of the proposition</p>
+
+<p class="indent">
+ <strong>ACLT</strong><br/>
+\( \forall x:\bA\ \exists y:\bB\bPhi(x,y) \rightarrow 
+\exists f:\bB^{\bA}\ \forall x:\bA\bPhi(x,fx). \)
+</p>
+
+<p>
+ Now <strong>ACLT</strong> is <em>provable</em> in
+<strong>CDTT</strong>, as the following argument shows. To begin with,
+again following Tait, we introduce the functions \(\sigma\), \(\pi\),
+\(\pi^{\prime}\) of types 
+\(\forall x:\bA(\bPhi(x) \rightarrow \exists x:\bA \bPhi(x)),
+\exists x:\bA\bPhi(x) \rightarrow \bA\), and
+\(\forall y: (\exists x\bPhi(x)).\bPhi(\pi(y))\) as
+follows. If \(b:\bA\) and \(c: \bPhi(b)\), then
+\(\sigma bc\) is \((b, c)\). If 
+\(d:\exists x:\bA \bPhi(x)\), then \(d\) is of the
+form \((b, c)\) and in that case 
+\(\pi(d) = b\) and \(\pi^{\prime}(d) = c\). These yield the
+equations</p>
+
+\begin{align}
+               \pi(\sigma bc) &amp;= b \\
+      \pi^{\prime}(\sigma bc) &amp;= c  \\
+\sigma(\pi d)(\pi^{\prime} d) &amp;= d.
+\end{align}
+
+<p>
+ Now let \(u\) be a proof of the antecedent
+\(\forall x:\bA\exists y:\bB \bPhi(x, y))\) of
+<strong>ACLT.</strong> Then, for any \(x: \bA,\pi(ux)\) is of type
+\(\bB\) and \(\pi^{\prime}(ux)\) is a proof of \(\bPhi(x, \pi
+ux)\). So \(s(u) = \lambda x \pi(ux)\) is of type \(\bB^{\bA}\) and
+\(t(u) = \lambda x\pi^{\prime}(ux)\) is a proof of \(\forall x:\bA
+\bPhi(x,s(u)x)\). Accordingly \(\lambda u\sigma s(u)t(u)\) is a proof
+of \(\forall x:\bA\ \exists y:\bB \bPhi(x, y)) \rightarrow \exists
+x:\bB^{\bA}\ \forall x:\bA\bPhi(x, fx))\), so
+that <strong>ACLT</strong> is derivable in
+<strong>CDTT</strong>.</p>
+
+<p>
+ Put informally, what this shows is that in <strong>CDTT</strong> the
+consequent of <strong>ACLT</strong> means <em>nothing more than its
+antecedent</em>. Indeed, in many versions of constructive mathematics
+the assertability of an alternation of quantifiers
+\(\forall x\exists yR(x,y)\)
+means <em>precisely</em> that one is given a function \(f\) for
+which \(R(x,fx)\) holds for all \(x\).</p>
+
+<p>
+ We note that in ordinary set theory the argument establishes the
+<em>isomorphism</em> of the sets
+\(\prod x:\bA Cy:\bB\bPhi(x, y))\) and
+\(Cf:\bB^{\bA} \prod x:\bA \bPhi(x,fx))\), but 
+<em>not</em> the validity of the usual axiom of
+choice. This is because in set theory <strong>AC</strong> is not
+represented by this isomorphism, but rather by the 
+equality&mdash;the set-theoretic
+ distributive law<sup>[<a href="notes.html#sup5" name="note-5">5</a>]</sup>
+ obtained by replacing \(\prod\) by \(\cap\) and \(C\) by \(\cup\), namely</p>
+
+\[
+\bigcap_{x \in A} \bigcup_{y\in B} \Phi(x,y) =
+\bigcup_{f \in B^A} \bigcap_{x \in A} \Phi(x,fx) 
+\]
+
+<p>
+ While in <strong>CDTT</strong> <em>AC</em> is provable, and so <em>a
+fortiori</em> has no &ldquo;untoward&rdquo; logical consequences, in
+intuitionistic set theory this is far from being the case, for, as we
+have noted, in the latter <em>AC</em> implies the law of excluded
+middle. In other words, <em>AC</em> interpreted &agrave; la
+propositions-as-types is
+ tautologous<sup>[<a href="notes.html#sup6" name="note-6">6</a>]</sup>,
+ yet construed set-theoretically it is anything but, since so
+construed its affirmation yields classical logic. This prompts the
+question: what modification needs to be made to the
+propositions-as-types doctrine so as to yield the set-theoretic
+interpretation of <em>AC</em>? An illuminating answer has been given
+by Maietti (2005) through the use of so-called <em>monotypes</em> (or
+mono-objects), that is, (dependent) types containing at most one
+entity or having at most one proof. In set theory, mono-objects are
+<em>singletons</em>, that is, sets containing at most one
+ element<sup>[<a href="notes.html#sup7" name="note-7">7</a>]</sup>.</p>
+
+<p>
+  Maietti&rsquo;s modification of the propositions-as-types doctrine to
+bring it into line with the set-theoretic interpretation of formulas
+is, in essence, to take propositions (or formulas) to correspond to
+<em>mono</em>-objects, that is, singletons, rather than to
+<em>arbitrary</em> sets. Let us call this the
+<em>propositions-as-monotypes</em> interpretation.</p>
+
+<p>
+ Now, finally, let us reconsider <em>AC</em> under the
+propositions-as-monotypes interpretation within set
+theory<strong>. </strong> It will be convenient to rephrase
+<em>AC</em> as the assertion</p>
+
+\[
+\tag{*}
+{\forall i \inn I}\ {\exists j \inn J}\ M_{ij} \leftrightarrow 
+{\exists f \inn J^I}\ {\forall i \inn I}\ M_{if(i)}
+\]
+
+<p>
+ where \(\langle M_{ij}: i \in I, j \in J\rangle\) is any doubly indexed
+family of propositions (or sets). In the &ldquo;propositions as
+types&rdquo; interpretation, (*) corresponds, as we know, to the
+existence of an isomorphism between 
+\(\prod_{i \in I}C_{j \in J} M_{ij}\) and \(C_{f \in J^I} \prod_{i \in I} M_{if(i)}\).  
+On the other hand, <em>AC</em> interpreted set-theoretically can be
+presented in the form of the distributive law</p>
+
+\[
+\tag{**}
+\bigcap_{i \in I} \bigcup_{j \in J} M_{ij} 
+  = \bigcup_{f \in J^I} \bigcap_{i \in I} M_{if(i)}.
+\]
+
+<p>
+ In the propositions-as-types interpretation, the universal quantifier
+\(\forall i \in I\) corresponds to the product
+\(prod_{i \in I}\) and the existential
+quantifier \(\exists i \in I\) to the coproduct
+\(C_{i \in I}\).  Now in the
+propositions-as-monotypes interpretation, wherein formulas correspond
+to singletons, \(\forall i \in I\) continues to
+correspond to \(prod_{i \in I}\), since the
+product of singletons is still a singleton. But the interpretation of
+\(\exists i \in I\) is <em>changed</em>. In fact, the
+interpretation of \(\exists i \in I\ M_{i}\) (with each
+\(M_i\) a singleton) now becomes
+\([C_{i \in I}\)], where for each
+set \(X, [X] = \{u: u = 0 \wedge \exists x. x \in X\}\) is the <em>canonical
+singleton</em> associated with \(X\). Thinking of \(X\) as a
+set, the singleton \([X]\) reflects the nonemptiness of
+\(X\) in that \(X\) has an element if and only if
+\([X]\) has 0 as its unique element. Thinking of \(X\) as a
+proposition, the proposition \([X]\) reflects the provability of
+\(X\) in that \(X\) has a proof if and only if the
+proposition \([X]\) has 0 as its unique proof.  </p>
+
+<p>
+It follows that, under the propositions-as-monotypes interpretation,
+the proposition \({\forall i \inn I}\ {\exists j \inn J}\ M_{ij}\) is
+interpreted as the singleton</p>
+
+\[
+\tag{1}
+\prod_{i \in I}[C_{j\in J} M_{ij}]
+\]
+
+<p>
+and the proposition \({\exists f \inn J^I}\ {\forall i \inn I}\
+M_{if(i)}\) as the singleton</p>
+
+\[
+\tag{2}
+[C_{f \in J^I} \prod_{i \in I} M_{if(i)}]
+\]
+
+<p>
+ Under the propositions-as-monotypes interpretation <em>AC</em> would
+be construed as asserting the existence of an isomorphism between (1)
+and (2).</p>
+
+<p>
+ Now it is readily seen that to give an element of (1) amounts to no
+more than affirming that, for every \(i\in I\),
+\(\cup_{j\in J} M_{ij}\) is nonempty. But to give an element
+of (2) amounts to specifying maps 
+\(f\in J^I\) and \(g\) with domain \(I\)
+such that \({\forall i\inn I}\ g(i)\in M_{if(i)}\). It follows that to assert
+the existence of an isomorphism between (1) and (2), that is, to
+assert <em>AC</em> under the propositions-as-monotypes interpretation,
+is tantamount to asserting <em>AC</em> in the form (**), which in turn
+yields <strong>ACL</strong> and so the Law of Excluded Middle. This is
+in sharp contrast with <em>AC</em> under the propositions-as-types
+interpretation, where, as we have seen, its assertion is automatically
+correct and so has no nonconstructive consequences.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="http://publish.uwo.ca/~jbell/" target="other">John L. Bell</a>
+&lt;<a href="m&#97;ilto:jbell&#37;40uwo&#37;2eca"><em>jbell<abbr title=" at ">&#64;</abbr>uwo<abbr title=" dot ">&#46;</abbr>ca</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

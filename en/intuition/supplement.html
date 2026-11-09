@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Intuition &gt; The Logical Structure of the Method of Cases (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/intuition/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/intuition/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intuition">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Intuition</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>The Logical Structure of the Method of Cases</h2>
+
+<p>
+If one considers the four examples of the method of cases in
+ <a href="index.html#MethCase">&sect;2.2</a>,
+ it may seem that their logical structure is clear. One begins with a
+candidate generalization, theory, or analysis which is put in terms of
+a necessary bi-conditional. Then, by appeal to a hypothetical case,
+one justifies the claim that it is possible for the
+<em>analysandum</em> property to be absent though the properties
+alleged by the analysis to be sufficient are present or one justifies
+the claim it is possible for the <em>analysandum</em> property to be
+present though some property alleged by the analysis to be necessary
+is lacking.</p>
+
+<p>
+As this sketch would have it, the proposition which entails the
+falsity of the analysis in question is justified in some manner by the
+content of an intuition. However, Williamson (2007) argues, in
+connection with the Gettier intuition, that difficulties are revealed
+by considering how to formalize the implicit argument. In particular,
+as a hypothetical case is being described, one may wonder about the
+precise content of the allegedly refuting intuition. After all, the
+scenario contemplated is not believed to be actual. In light of the
+traditional rationalist&rsquo;s view that intuition reveals necessary
+truths, consider a regimentation on which the central intuition has as
+its content a claim about necessity:</p>
+
+<table class="cell-rl cellpad-small indent">
+<tbody>
+<tr>
+  <td>\(\mathrm{K}(x, p)\):</td>
+  <td><em>x</em> knows that <em>p</em>.</td> </tr>
+<tr>
+  <td>\(\textrm{JTB}(x, p)\):</td>
+  <td><em>x</em> has a justified true belief that <em>p</em>.</td>
+</tr>
+<tr>
+  <td>\(\textrm{GC}(x, p)\):</td>
+  <td><em>x</em> stands to <em>p</em> as in the Gettier text.</td>
+</tr> </tbody>
+</table>
+
+<dl class="sentag tag3em">
+<dt>(1)</dt>
+<dd>\(\Diamond \exists x\exists p\textrm{GC}(x, p)\) </dd>
+<dt>(2)</dt>
+<dd> \(\Box \forall x\forall p (\textrm{GC}(x, p) \supset
+(\textrm{JTB}(x, p) \amp{\sim}\mathrm{K}(x, p)))\)</dd>
+</dl>
+
+<p>
+Therefore,</p>
+
+<dl class="sentag tag3em">
+<dt>(3)</dt>
+<dd>\(\Diamond \exists x\exists p (\textrm{JTB}(x, p)
+\amp{\sim}\mathrm{K}(x, p))\) </dd>
+</dl>
+
+<p>
+(3) contradicts the JTB theory, construed as</p> 
+\[\Box \forall x\forall p (\textrm{JTB}(x, p) = \mathrm{K}(x, p)).\]
+
+<p>
+The problem with this account, as Williamson points out, is that (2)
+is false because the relation \(\textrm{GC}(x, p)\) is, in virtue of
+the incompleteness of Gettier&rsquo;s description, one which may be
+instantiated in a variety of ways. Some of those possible
+instantiations are cases in which the subject lacks justified true
+belief which is not knowledge. One, for example, is a case in which
+<em>x</em> has further evidence which undermines the justification of
+<em>x</em>&rsquo;s belief that <em>p</em> and renders false the claim
+that <em>S</em>&rsquo;s belief is justified. Another involves further
+independent evidence for <em>p</em> or some other fact which renders
+false the claim that <em>S</em>&rsquo;s belief that <em>p</em> is not
+knowledge.</p>
+
+<p>
+Williamson&rsquo;s own response to this worry is to weaken (2) to a
+counterfactual claim, yielding the following:</p>
+
+<dl class="sentag tag3em">
+<dt>(1)</dt>
+<dd>\(\Diamond \exists x\exists p\,\textrm{GC}(x, p)\) </dd>
+<dt>(2c)</dt>
+<dd> \(\exists x\exists p\,\textrm{GC}(x, p) \boxright \forall
+x\forall p (\textrm{GC}(x, p) \supset (\textrm{JTB}(x, p)
+\amp{\sim}\mathrm{K}(x, p)))\) </dd>
+</dl>
+
+<p>
+Therefore,</p>
+
+<dl class="sentag tag3em">
+<dt>(3)</dt>
+<dd> \(\Diamond \exists x\exists p (\textrm{JTB}(x, p)
+\amp{\sim}\mathrm{K}(x, p))\) </dd>
+</dl>
+
+<p>
+(Williamson admits (2007: 195&ndash;6) that (2c) is not a completely
+adequate formalization of the anaphora in the ordinary language
+subjunctive he seeks to capture&mdash;&ldquo;If a thinker were to
+stand to a proposition as in the Gettier text, he/she would have
+justified belief in it without knowledge.&rdquo;)</p>
+
+<p>
+This account of the second premise of the argument has been alleged to
+be problematic (Ichikawa and Jarvis 2009; Malmgren 2011). First, the
+counterfactual it features is a contingent truth, justified, if at
+all, on <em>a posteriori</em> grounds. Hence, a typical philosophical
+appeal to intuition yields, surprisingly, an <em>a posteriori</em>
+conclusion. Second, the premise is false if the actual world (or
+nearest possible one) contains a confounding realization of the
+Gettier story&mdash;a realization in which the subject has knowledge
+that <em>p</em> or lacks justification for believing that <em>p</em>.
+If so, then Gettier&rsquo;s case is not really a counterexample to the
+JTB theory. Third, we are not in a position to rule out such
+confounding realizations with assurance. Hence, we seem substantially
+less justified than we normally take ourselves to be in thinking that
+Gettier provided a counterexample the JTB theory.</p>
+
+<p>
+Geddes (2018) provides an related reconstruction which may ameliorate
+the second and third difficulties just raised for Williamson&rsquo;s
+account. On his reconstruction, the informal counterfactual
+conditional formalized in (2c) is modified so as to hold that if
+someone were to stand to a proposition <em>p</em> as in the Gettier
+case, then, &ldquo;<em>normally</em>, he would have a justified true
+belief that <em>p</em> but not know that <em>p</em>.&rdquo; While
+providing no formal semantics for this conditional, Geddes suggests
+that we understand it adequately and that it is (1) true and
+inconsistent with the JTB theory and, (2) not falsified if there is an
+actual or close Gettier case in which the agent knows that <em>p</em>
+or is not justified in believing <em>p</em>. Still, the claim appears
+plausibly <em>a posteriori</em> and contingent.</p>
+
+<p>
+A third solution (Williamson 2007: 202), is to weaken (2c) to:</p>
+
+<dl class="sentag tag3em">
+<dt>(2pc)</dt>
+<dd><span class="smaller"> \(\Diamond(\exists x\exists p\, \textrm{GC}(x, p) \boxright
+\forall x\forall p (\textrm{GC}(x, p) \supset (\textrm{JTB}(x, p)
+\amp{\sim}\mathrm{K}(x, p)))).\)</span></dd>
+</dl>
+
+<p>
+(2pc) would avoid the concerns noted above about (2c) and Williamson
+allows that S5 would enable us to deduce (3) from (1) and (2pc).
+Still, he rejects this reconstruction because it requires, unlike the
+argument from (1) and (2c), (a) the correctness of the relevant
+principles of S5 and (b) the attribution of a commitment to such
+principles to people who have never considered them.</p>
+
+<p>
+A fourth solution, defended by Ichikawa and Jarvis (2009), appeals to
+the distinction between what is <em>explicitly stated in</em> the text
+of a fictional story and what is <em>true in</em> the fiction. While
+Williamson&rsquo;s worry gains its purchase from the fact that a
+fictional <em>text</em> can be consistently &ldquo;filled out&rdquo;
+in different ways, the alleged fact that many fictional truths are not
+explicitly stated in a fictional text provides a way of endeavoring to
+block the worry. For example, it allows one to claim that it is true
+in the Gettier story (though not explicitly stated in the Gettier
+text) that the subject does not have further evidence or knowledge
+which would undermine her justification. Letting the set of
+propositions <em>true in</em> Gettier&rsquo;s fiction be named
+&ldquo;SET,&rdquo; a person may, upon encountering Gettier&rsquo;s
+text, consider the proposition, <em>g</em>, that every proposition in
+SET is true. Ichikawa and Jarvis allege that this is possible even
+though one has not entertained in <em>propia persona</em> each of the
+propositions in SET because the content is in some way
+demonstrative&mdash;things are like <em>that</em>. Then (setting aside
+worries about fictional proper names) the Gettier reasoning might be
+formalized as follows:</p>
+
+<dl class="sentag tag3em">
+<dt>(1f)</dt>
+<dd>\(\Diamond g\) </dd>
+<dt>(2f)</dt>
+<dd> \(\Box(g \supset \exists x\exists p (\textrm{JTB}(x, p)
+\amp{\sim}\mathrm{K}(x, p)))\) </dd>
+</dl>
+
+<p>
+Therefore,</p>
+
+<dl class="sentag tag3em">
+<dt>(3)</dt>
+<dd> \(\exists x\exists p (\textrm{JTB}(x, p) \amp{\sim}\mathrm{K}(x,
+p))\) </dd>
+</dl>
+
+<p>
+One worry about this account is that statements about fictional truth
+are, on the most influential account (Lewis 1978), analyzed in
+counterfactual terms. On such a view, which set of propositions
+constitutes the set to which a given agent is related by encountering
+a fictional text depends on contingent facts about what their world is
+like. Hence, as Williamson (2009: 466) points out, contingencies can
+prevent one from knowing the truth of the relevant instance of (2f),
+even if one has encountered and understood the Gettier text. (See
+Malmgren 2011 for further objections to this proposal and to other
+attempts to rescue (2) by changing its embedded proposition.)</p>
+
+<p>
+A fifth solution, which also holds that the second premise of the
+reconstruction invokes a strict implication, is provided by Grundmann
+and Horvath (2014a, 2014b; Horvath 2023). They suggest that the
+Gettier case can be enriched with sufficient facts about
+<em>S</em>&rsquo;s justification for believing <em>p</em> to rule out
+the intuitively deviant realizations (those which fail to involve
+justified true belief which is not knowledge). One benefit of the
+proposal is that it makes the Gettier intuition independent of
+contingent facts about the actual world. However, it seems quite
+uncertain that a similar move can be provided to rule out deviant
+realizations of other thought experiment cases. Moreover, the
+psychological means by which those who consider Gettier&rsquo;s
+limited textual description arrive at the much enriched content
+required by this proposal, and the manner of their grasping this
+enriched content, remains unclear. Some of these issues may be
+resolved by Saint-Germier&rsquo;s 2021 proposal that the enriched
+content is generated through various generalized pragmatic
+implicatures.</p>
+
+<p>
+A sixth solution (Malmgren 2011) holds that the Gettier premise is the
+simple claim that it is possible that some <em>x</em> stand to some
+<em>p</em> as does the subject in the Gettier text and to have
+justified true belief that <em>p</em> while lacking knowledge that
+<em>p</em>. More precisely, it is</p>
+
+<dl class="sentag tag3em">
+<dt>(1*)</dt>
+<dd> \(\Diamond \exists x\exists p (\textrm{GC}(x, p) \amp
+\textrm{JTB}(x, p) \amp{\sim}\mathrm{K}(x, p))\) </dd>
+</dl>
+
+<p>
+(1*) entails, without the aid of other premises, (3). That there are
+possible realizations of the Gettier text in which the person would
+fail to have JTB but not knowledge is irrelevant to the truth of
+(1*).</p>
+
+<p>
+It might be objected that this proposal makes the intuition&rsquo;s
+content too close to a simple denial of the JTB theory. However, this
+worry can be assuaged if one recalls that the JTB theory has little or
+no intuitive justification of its own and was justifiably accepted by
+its proponents only on the grounds that it provided the best account
+of our pre-Gettier intuitions. Geddes (2018) raises worries about how
+Malmgren&rsquo;s proposal handles cases in which people deny the
+Gettier claim. Malmgren&rsquo;s proposal seems to imply that one who
+holds that Gettier&rsquo;s subject neither has a justified true
+belief, nor knows, that <em>p</em>, is holding that it is possible
+that <em>S</em> stand to a proposition <em>p</em> as in the Gettier
+case and that <em>S</em> fail to have justified belief or knowledge
+that <em>p</em>. That claim, however, is true and does not contradict
+the orthodox claim about the Gettier case. Ichikawa and Jarvis (2013)
+object to Malmgren&rsquo;s account that one might reject the standard
+claim about the Gettier case but still accept (1*) because one thinks
+there are other possible cases of JTB without knowledge which are
+compossible with the Gettier case.</p>
+
+<p>
+Much of the relevant literature appears to assume that
+Williamson&rsquo;s worry will arise for any appeal to a hypothetical
+case. Williamson himself adopts</p>
+
+<blockquote>
+
+<p>
+the background working hypothesis &hellip; that [Gettier&rsquo;s]
+thought experiments are paradigmatic, in the sense that if any thought
+experiments can succeed in philosophy, his do: thus to determine
+whether Gettier&rsquo;s thought experiments succeed is in effect to
+determine whether there can be successful thought experiments in
+philosophy. (2007: 179&ndash;180)</p>
+</blockquote>
+
+<p>
+However, there may be cases in which the relevant second premise is
+not, even formalized as a necessary universal quantification, open to
+Williamson&rsquo;s worry. Consider, as one example, the standard New
+Evil Demon case, in which we are to suppose that there are persons who
+have (and have always had) internal mental lives exactly like our own
+but who are radically deceived by an evil demon (Cohen 1984). The
+intuition that they are justified in believing as they do is taken to
+refute a crude form of reliabilism. Here, the ambitious reading of (2)
+appears to go through:</p>
+
+<table class="cell-rl cellpad-small indent">
+<tbody>
+<tr>
+  <td>\(\mathrm{J}(x, p)\):</td>
+  <td><em>x</em> is justified in believing <em>p</em>.</td> </tr>
+<tr>
+  <td>\(\textrm{ED}(x, p)\):</td>
+  <td><em>x</em> stands to <em>p</em> as in the Evil Demon story.</td>
+</tr>
+<tr>
+  <td>\(\textrm{R}(x, p)\):</td>
+  <td><em>x</em>&rsquo;s belief that <em>p</em> is reliably
+produced.</td> </tr> </tbody>
+</table>
+
+<dl class="sentag tag3em">
+<dt>(1)</dt>
+<dd> \(\Diamond \exists x\exists p\, \textrm{ED} (x, p)\) </dd>
+<dt>(2)</dt>
+<dd> \(\Box \forall x\forall p\,\textrm{ED}(x, p) \supset
+(\mathrm{J}(x, p) \amp{\sim}\mathrm{R}(x, p)))\) </dd>
+</dl>
+
+<p>
+Therefore,</p>
+
+<dl class="sentag tag3em">
+<dt>(3)</dt>
+<dd> \(\Diamond \exists x\exists p (\textrm{J}(x, p)
+\amp{\sim}\textrm{R}(x, p))\)</dd>
+</dl>
+
+<p>
+(3) contradicts a reliabilist theory of justified belief according to
+which \(\Box \forall x\forall p (\mathrm{J}(x, p) = \mathrm{R}(x,
+p))\).</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="http://udel.edu/~jpust" target="other">Joel Pust</a>
+&lt;<a href="m&#97;ilto:jpust&#37;40udel&#37;2eedu"><em>jpust<abbr title=" at ">&#64;</abbr>udel<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

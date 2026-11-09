@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Constructive Mathematics &gt; Ishihara&rsquo;s principle \(\BDN\) and the anti-Specker Property (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/mathematics-constructive/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/mathematics-constructive/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mathematics-constructive">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Constructive Mathematics</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Ishihara&rsquo;s principle \(\BDN\) and the anti-Specker Property</h2>
+
+<h3>Ishihara&rsquo;s principle \(\BDN\)</h3>
+
+<p>We consider another principle of great significance for
+constructive reverse mathematics. Following Ishihara [1992], we say
+that an inhabited subset \(S\) of the set \(\mathbf{N}\) of natural
+numbers is <em>pseudobounded</em> if for each sequence \((s_n)_{n\ge
+1}\) in \(S\), \(s_n/n \rightarrow 0\) as \(n \rightarrow
+\infty\). This brings us to <em>Ishihara&rsquo;s principle</em>
+\((\BDN)\):</p>
+
+<p class="indent">
+Every inhabited, countable, pseudobounded subset of \(\mathbf{N}\) is bounded.
+</p>
+
+<p>
+This principle has the unusual property of being derivable in all
+three main interpretations&mdash;CLASS, INT, RUSS&mdash;of BISH but
+not in BISH alone: Lietz has shown that \(\BDN\) fails in various
+realizability models of extensional Martin-L&ouml;f type theory; see
+Lietz [2004] and Lietz &amp; Streicher [2011].
+</p>
+
+<p>Ishihara [1992, Theorem 4] has shown that \(\BDN\) is equivalent,
+over BISH, to each of the statements:</p>
+
+<p class="indent">
+Every sequentially continuous mapping of a complete, separable metric
+space into a metric space is pointwise continuous;</p>
+
+<p class="indent">
+Every sequentially continuous mapping of a separable metric space into
+a metric space is pointwise continuous.
+</p>
+
+<p>He and other authors have subsequently proved that
+\(\BDN\) is a necessary and sufficient addition to BISH
+to ensure the derivability of a number of results allowing us to pass
+from sequential to pointwise properties. One important example occurs
+with Banach&rsquo;s inverse mapping theorem from functional analysis. The
+classical theorem states that the inverse of a bijective bounded
+linear mapping between Banach spaces is continuous; but Ishihara
+[1994], working with separable spaces, has shown that the best
+possible conclusion in BISH is the sequential continuity of the
+inverse map, and that to pass from that to full continuity, it is
+necessary and sufficient to work in BISH + \(\BDN\).</p>
+
+<h3>The anti-Specker Property</h3>
+
+<p>Is there any viable constructive substitute for the classical
+property of sequential compactness? This question might seem
+frivolous, since the sequential compactness of the two-point space
+\(\{0,1\}\) is equivalent, constructively, to LPO. However, and perhaps to
+the reader&rsquo;s surprise, there is a notion that is both constructively
+useful and classically equivalent to sequential compactness. In order
+to discuss it, we need some definitions, and a little motivation from
+RUSS.</p>
+
+<p>
+Let \(\mathbf{z} = (z_n)_{n\ge 1}\) be a sequence in a metric space
+\((Z,\varrho)\), and \(X\) a subset of \(A\). We say that
+\(\mathbf{z}\) is</p>
+
+<p class="indent">
+<em>eventually bounded away from each point of</em> \(X\) if for
+each \(x \in X\) there exist \(\delta \gt 0\) and a positive integer
+\(N\) such that \(\varrho(z_n ,x) \ge \delta\) whenever \(n \ge
+N\);
+</p>
+
+<p class="indent">
+<em>eventually bounded away from the set</em> \(X\) if there exist
+\(\delta \gt 0\) and a positive integer \(N\) such that for each \(x \in
+X\), \(\varrho(z_n ,x) \ge \delta\) whenever \(n \ge N\).</p>
+
+<p>
+
+We recall, from earlier in this article, the strong recursive
+counterexample to the sequential compactness of [0,1], Specker&rsquo;s [1949]
+theorem  in RUSS: there exists a (Specker) sequence
+\(\mathbf{z}\) in \([0,1]\) that is eventually bounded away from each
+point of \([0,1]\). What would it take to rule such a counterexample
+out of our constructive mathematics?</p>
+
+<p>
+By a <em>one-point extension</em> of a metric space \(X\) we mean a
+metric space of the form \(X\cup \{\omega\}\) on which the metric
+\(\varrho\) restricted to \(X\), is the original one, and
+\(\varrho(\omega ,X) \gt 0\). Here we are adopting the convention that
+\(\varrho(\omega ,X) \gt 0\) is shorthand for</p>
+
+\[
+\exists r \gt 0\, \forall x \in X\, (\varrho(\omega ,x) \ge r).
+\]
+
+<p>
+To avoid Specker sequences, we can introduce the
+following <em>anti-Specker property</em>, \(\mathbf{AS}_X\), for X:
+</p>
+
+<p class="indent">
+If \(Z = X\cup \{\omega \}\) is a one-point extension of \(X\), then
+every sequence in \(Z\) that is eventually bounded away from each
+point of \(X\) is eventually bounded away from \(X\)&mdash;that is,
+\(z_n = \omega\) for all sufficiently large \(n\).
+</p>
+
+<p>This property is independent of the particular one-point extension
+of \(X\): if it holds for one such extension, it holds for them
+all.</p>
+
+<p>
+The anti-Specker property is classically equivalent to the sequential
+compactness of \(X\). It allows us to pass from a pointwise
+property&mdash;being eventually bounded away from each point of the
+set&mdash;to a uniform one&mdash;being eventually bounded away from
+the set itself. One might therefore expect it to be connected with
+some version of the fan theorem. This is indeed the case: the
+anti-Specker property for \([0,1]\) is equivalent, over BISH, to the
+fan theorem FT\(_{\mathsf{c}}\) for \(\mathsf{c}\)-bars
+(Berger &amp; Bridges [2006]). It should therefore be no surprise that,
+when added to BISH, anti-Specker properties enable us to pass from
+pointwise to uniform properties in a number of instances. To
+illustrate, we sketch the proof of the following result:
+</p>
+
+<p class="indent">
+BISH + AS\(_X\) \(\vdash\) Every pointwise continuous mapping of a metric space \(X\)
+into a metric space is <em>uniformly sequentially continuous</em>, in
+the sense that for all sequences \((x_n)_{n\ge 1}\), \((x'_n)_{n\ge
+1}\) in \(X\), if \(\varrho(x_n, x'_n) \rightarrow 0\) as \(n
+\rightarrow \infty\), then \(\varrho(f(x_n),f(x'_n))
+\rightarrow 0\) as \(n \rightarrow \infty\).
+</p>
+
+<p>
+
+Let \(Z \equiv X\cup \{\omega \}\) be a one-point extension of \(X\),
+and consider sequences \((x_n)_{n\ge 1}, (x'_n)_{n\ge 1}\) in \(X\)
+such that \(\varrho(x_n,x'_n) \rightarrow \infty\) as \(n\rightarrow
+\infty\). Given \(\varepsilon \gt 0\), construct a binary sequence
+\((\lambda_n)_{n\ge 1}\) such that</p>
+
+\[\begin{align}
+\lambda_n &amp;= 0 \Rightarrow \varrho(f(x_n),f(x'_n)) \lt \varepsilon ,\\
+\lambda_n &amp;= 1 \Rightarrow \varrho(f(x_n),f(x'_n)) \gt \frac{\varepsilon}{2}.
+\end{align}\]
+
+<p>
+If \(\lambda_n = 0\), set \(z_n = \omega\); if \(\lambda_n = 1\), set
+\(z_n = x_n\). Using the pointwise continuity of \(f\) (we omit the
+details), we can show that the sequence \((z_n)_{n\ge 1}\) is
+eventually bounded away from each point of \(X\). Hence, by the
+anti-Specker property of \(X\), it is eventually bounded away from the
+set \(X\). It follows that \(\lambda_n = 0\), and hence that
+\(\varrho(f(x_n),f(x'_n)) \lt \varepsilon\), for all sufficiently
+large values of \(n\). Since \(\varepsilon\) is an arbitrary positive
+number, the proof is complete. </p>
+
+<p>
+In our present state of knowledge, we can say that the proof-theoretic
+strength of AS\(_{[0,1]}\) lies between that of the uniform continuity
+theorem (a consequence of FT\(_{\Pi^0_1})\) and FT\(_D\). Diener
+[2012] has shown that AS\(_{[0,1]}\) is equivalent to every compact
+metric space having the anti-Specker property, and that a more general
+form of anti-Specker property, in which one-point extensions are
+replaced by arbitrary supersets, is equivalent to
+FT\(_{\Pi^0_1})\). Further interconnections between anti-Specker
+properties, fan theorems, and other principles of constructive
+mathematics are studied in detail in Dent 2013; see
+also Diener 2008 (Chapter 4).</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+<a href="http://www.math.canterbury.ac.nz/~mathdsb/" target="other">Douglas Bridges</a>
+&lt;<a href="m&#97;ilto:dugbridges&#37;40gmail&#37;2ecom"><em>dugbridges<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+<a href="http://staff.math.su.se/palmgren/" target="other">Erik Palmgren</a>
+<br />
+Hajime Ishihara
+&lt;<a href="m&#97;ilto:ishihara&#37;40jaist&#37;2eac&#37;2ejp"><em>ishihara<abbr title=" at ">&#64;</abbr>jaist<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>jp</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

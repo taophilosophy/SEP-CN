@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Non-wellfounded Set Theory &gt; Universal Harsanyi type spaces (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/nonwellfounded-set-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/nonwellfounded-set-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nonwellfounded-set-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Non-wellfounded Set Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Universal Harsanyi type spaces</h2>
+
+
+<p>
+In the main body of this entry, we have been concerned with streams,
+trees, and sets, especially in settings where one wants one
+object to be a part (in some sense) of another, this to be 
+a part of yet another, and so on ad infinitum.    These
+are the standard motivating examples for the Anti-Foundation
+Axiom and related modeling techniques.    In this section, we
+broaden the discussion  by turning to another field.
+</p>
+
+<p>
+Type spaces are mathematical structures used in theoretical
+parts of economics and game theory.  The are used to model
+settings where agents are described by their <em>types</em>,
+and these types give us  &ldquo;beliefs about the world&rdquo;,
+&ldquo;beliefs about each other's beliefs about the world&rdquo;, 
+ &ldquo;beliefs about
+each other's beliefs about each other's beliefs about the world&rdquo;, etc.
+ That is, the
+formal
+concept of a type space is intended to capture in one structure
+an unfolding infinite hierarchy related to <em>interactive belief</em>.
+</p>
+
+<p>
+John C. Harsanyi (1967) makes a related point as follows:
+</p>
+
+<blockquote>
+<p>
+It seems to me that the basic reason why the theory of games
+with incomplete information has made so little progress so far
+lies in the fact that these games give rise, or at least appear
+to give rise, to an infinite regress in reciprocal expectations on
+the part of the players.
+</p>
+</blockquote>
+
+<p>
+This quote is from the 
+landmark 
+papers  he published  in 1967 and 1968,   
+showing  how to convert a game with incomplete information into one
+      with complete yet imperfect information.
+Many of the details are not relevant here
+and would take us far from our topic.
+But three points
+are noteworthy.  First,  the  notion of types
+goes further than what we described above:  an agent <em>A</em>'s
+type involves (or induces)
+beliefs about the types of the other agents, their
+types   involve beliefs about <em>A</em>'s
+type, etc.   So the notion of a 
+type is already circular.
+</p>
+
+<p>
+Second, despite this circularity, the informal concept of a
+<em>universal type space</em> (as a single type space
+  in which all types may be found) is
+widespread in areas of non-cooperative game
+theory and economic  theory.  And finally, the
+<em>formalization</em>
+ of
+type  spaces was left  open:   Harsanyi did not
+  really formalize type spaces   in his
+original papers (he used the notion);
+ this was left to later researchers.
+ Work started with B&ouml;ge  and Eisele (1979)
+  and continued in
+ several papers up through that of 
+ Heifetz and Samet(1998).      It was later realized that
+ there is a connection to the kind of work that is emphasized in this
+ entry, and this connection is what we are concerned with, both in this 
+ section and in 
+</p>
+
+<blockquote>
+ <a href="modeling-circularity.html">A 
+ supplement on additional related modeling of circularity</a>
+</blockquote>
+
+<p>
+Getting back to our very rough informal description above,
+what exactly are
+&ldquo;beliefs&rdquo;?  And how can a structure contain
+types which give rise to beliefs about other types?
+What is the relation of this to
+the  infinite hierarchy of beliefs about
+beliefs about &hellip; beliefs about the world?
+Can we characterize the space
+of all possible types?
+</p>
+
+<p>Again, we are not concerned with conceptual matters
+concerning beliefs and games in this  entry.
+Most of the important papers for our study  are
+technical contributions dealing with the matter of
+<em>universal type  spaces</em>.  
+We are concerned with the conceptual matters
+related to our own topics, and with some of the technical
+matters connected with measure theory, probability, and the like.
+</p>
+
+<p>Returning to type spaces, we recall that the usual modeling
+of belief in game theory is via probability.  So we would expect
+that <em>type spaces should be probabilistic versions of
+Kripke models</em>.  
+One should replace the functor  &weierp;
+with something like &Delta; where
+</p>
+
+<blockquote>
+&Delta;(<em>W</em>)  = {&mu; : &mu; is a probability measure on <em>W</em>}}.
+</blockquote>
+
+<p>
+Indeed, this is the case:  most proposals in the literature
+do end up studying certain mappings from a space <em>X</em> to some variation
+of the functor &Delta; applied to <em>X</em>.
+This is our third clue of the connection.
+But note that this informal description
+  leaves  many loose ends: if <em>W</em> is just a
+set, how do we know that it has any probability measures?  Does it
+matter which &sigma;-algebra we use?  
+</p>
+
+<p>
+  For the remainder of this discussion, we need the notion
+of a measurable space, which is defined in the following supplementary
+document:</p>
+
+<blockquote>
+  <a href="measurable-spaces.html">Measurable Spaces</a>
+ </blockquote>
+
+<p>
+ Let <em>S</em> be a fixed measurable space.
+A <em>type space  over S</em>  is a tuple 
+ <span class="scriptuc">T</span> = 
+ (<em>M</em>, &sigma;, <em>N</em>, &tau;), where <em>M</em>
+and  <em>M</em> are measurable spaces, and 
+</p>
+
+<blockquote>
+<p>
+&sigma;&thinsp;:&thinsp;<em>M</em> &rarr; &Delta;(<em>S</em> &times; <em>N</em>)
+ </p>
+ <p>
+&tau;&thinsp;:&thinsp;<em>N</em> &rarr; &Delta;(<em>S</em> &times; <em>M</em>)
+ </p>
+ </blockquote>
+
+
+<p>
+What we are describing would be better called a <em>two-player type space over
+S</em>,
+and the spaces
+<em>M</em>
+ and <em>M</em> are the spaces of the two players.     The idea is that
+ <em>S</em> represents the possible
+ &ldquo;states of nature&rdquo;, 
+each <em>m</em> &isin; <em>M</em> is a possible
+&ldquo;type&rdquo; of the first player, and each 
+<em>n</em> &isin; <em>N</em>  is a possible
+type for the second.    Each player does not know the exact state  of nature or which
+type of player he or she faces.   But each does have some probabilistic
+&ldquo;opinion&rdquo; on this matter:
+each &sigma;(<em>m</em>)
+ gives a measure on 
+ <em>S</em> &times; <em>N</em>, and so the first player can measure
+subsets of both  <em>S</em> and  <em>N</em> (using marginals).
+</p>
+
+<p>
+One assumption incorporated into our definition is that the players
+&ldquo;know&rdquo; their own types.
+This is why &sigma;(<em>m</em>) is a measure on 
+ <em>S</em> &times;  <em>N</em>
+  and not  <em>S</em> &times;  <em>M</em> &times;  <em>N</em>.
+However, each &mu; &isin; &Delta;( <em>S</em> &times;  <em>N</em>)
+and each <em>m</em> &isin;   <em>M</em>
+  together define a  measure &mu;<sup>*</sup><sub><em>m</em></sub>
+ on the larger product  <em>S</em> &times;  <em>M</em> &times; <em>N</em>
+by
+concentrating &mu; on <em>m</em>: 
+</p>
+
+<blockquote>
+&mu;<sup>*</sup><sub><em>m</em></sub>(<em>E</em>)
+=
+ &mu;(<em>m</em>)({(<em>s</em>,<em>n</em>) : (<em>s</em>,<em>m</em>,<em>n</em>)
+ &isin; <em>E</em>}).
+</blockquote>
+
+<p>
+Everything we said for the first player goes through for the second, mutatis mutandis,
+and so we also have measures &rho;<sup>*</sup><sub><em>n</em></sub> &isin; 
+&Delta; (<em>S</em> &times; <em>M</em> &times;  <em>N</em>) for each
+&rho; &isin; &Delta;(<em>S</em> &times; <em>M</em>)
+ and each <em>n</em> &isin; <em>N</em>. 
+</p>
+
+<p>
+The basic modal language for a type space over <em>S</em> would have the following 
+sentences:
+</p>
+
+<ol>
+<li>
+Each measurable subset <em>A</em> of <em>S</em> is taken as an 
+atomic sentence.
+</li>
+<li>
+ If &phi; is a sentence and <em>p</em> &isin; [0,1], 
+then both <em>B</em><sup>1</sup><sub><em>p</em></sub> &phi; and 
+ <em>B</em><sup>2</sup><sub><em>p</em></sub> &phi; 
+are sentences.  
+</li>
+<li>
+  If &phi;  and
+ &psi;
+ are sentences, then so is &phi; &and; &psi;.
+</li>
+</ol>
+<p>
+We read 
+ <em>B</em><sup>i</sup><sub><em>p</em></sub> &phi; 
+ as saying that player <em>i</em> believes the probability of &phi; to
+be at least <em>p</em>.
+</p>
+
+<p>
+We define a semantics for this language, interpreting 
+each sentence  &phi;  by subset [&phi;] &sube;
+<em>S</em> &times; <em>M</em> &times;  <em>N</em>
+ as follows:
+</p>
+
+ <ol>
+<li> [<em>A</em>] = <em>A</em> &times;  <em>M</em> &times;  <em>N</em>.
+</li>
+<li> [<em>B</em><sup>1</sup><sub><em>p</em></sub> &phi;] 
+=
+{(<em>s</em>, <em>m</em>, <em>n</em>): 
+(&sigma;(<em>m</em>)<sup>*</sup><sub><em>m</em></sub>([&phi;])
+&ge; p} 
+</li>
+<li> [<em>B</em><sup>2</sup><sub><em>p</em></sub> &phi;] 
+=
+{(<em>s</em>, <em>m</em>, <em>n</em>): 
+(&tau;(<em>n</em>)<sup>*</sup><sub><em>n</em></sub>([&phi;])
+&ge; <em>p</em>} 
+</li>
+<li> [&phi; &and; &psi;]  =
+[&phi;]  &cap;
+[&psi;].
+</li>
+</ol>
+
+
+
+<p>
+One may also add negation or implication to the language, with the semantics
+from classical logic.    A good first exercise would then be to show that
+</p>
+
+<blockquote>
+[<em>B</em><sup>1</sup><sub><em>p</em></sub> &phi;
+ &rarr;  <em>B</em><sup>1</sup><sub>1</sub>
+  <em>B</em><sup>1</sup><sub><em>p</em></sub> &phi;] = 
+<em>S</em> &times; <em>M</em> &times;  <em>N</em>.
+</blockquote>
+   
+   
+   <p>
+    This is an
+echo of the assumption agents know their types: they are able to   introspect on their
+own beliefs, and to do so with certainty.
+</p>
+
+<p>
+<strong>
+Reformulation of the problem of universal type spaces.
+</strong>
+The language of beliefs is more natural than the formulation of type spaces
+(and it also came first), and so 
+the reason for  introducing type spaces is to interpret that language.
+One then wants a type space <span class="scriptuc">T</span><sup>*</sup> which is rich enough to contain
+all possible types.   It might be better to work on the semantic side,
+and consider, for each space <span class="scriptuc">T</span>
+and each point 
+<em>x</em> = (<em>s</em>,<em>m</em>,<em>n</em>),
+the <em>theory of <em>x</em></em>; this is the set of sentences &phi;
+ such that <em>x</em> &isin;  [&phi;].
+Let us call this set <em>th</em>(<span class="scriptuc">T</span>,<em>x</em>).
+One wants a space  <span class="scriptuc">T</span><sup>*</sup>
+ with the property that for all type spaces  <span class="scriptuc">T</span>
+and all 
+<em>x</em>
+ from it, there is a unique point <em>x</em><sup>*</sup> &isin;
+<span class="scriptuc">T</span><sup>*</sup>,
+ th(<span class="scriptuc">T</span>,x) = 
+ th(<span class="scriptuc">T</span><sup>*</sup>,<em>x</em><sup>*</sup>). 
+   Intuitively,  points with the same theory represent
+players with the same beliefs, beliefs about beliefs, etc., so they should be identified
+for the purposes of game theory.      These theories then serve as surrogates for the types.
+A universal space <span class="scriptuc">T</span><sup>*</sup>
+  would contain a point  realizing each theory of any 
+point <em>x</em> (in any space), 
+exactly one  copy in fact.
+The mathematical problem is then to find such a space.
+Note that it is not clear that such a space exists in the first place: 
+one requires the space <span class="scriptuc">T</span><sup>*</sup>
+ to be a set, and perhaps the universality
+requirement would force it to be a proper class.
+</p>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2018</a> by
+
+<br />
+<a href="http://www.indiana.edu/~iulg/moss/" target="other">Lawrence S. Moss</a>
+&lt;<a href="m&#97;ilto:lmoss&#37;40indiana&#37;2eedu"><em>lmoss<abbr title=" at ">&#64;</abbr>indiana<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

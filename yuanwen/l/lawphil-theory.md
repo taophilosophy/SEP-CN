@@ -1,0 +1,160 @@
+# The Pure Theory of Law
+**First published Mon Nov 18, 2002; substantive revision Fri Mar 13, 2026**
+
+*Marmor, Andrei*
+
+The idea of a Pure Theory of Law was propounded by the formidable Austrian jurist and philosopher Hans Kelsen (1881–1973) (see the bibliographical note). Kelsen began his long career as a legal theorist at the beginning of the 20th century. The traditional legal philosophies at the time, were, Kelsen claimed, hopelessly contaminated with political ideology and moralizing on the one hand, or with attempts to reduce the law to natural or social sciences, on the other hand. He found both of these reductionist endeavors seriously flawed. Instead, Kelsen suggested a ‘pure’ theory of law which would avoid reductionism of any kind. The jurisprudence Kelsen propounded “characterizes itself as a ‘pure’ theory of law because it aims at cognition focused on the law alone” and this purity serves as its “basic methodological principle” (PT1, 7).
+
+## 1. The Basic Norm
+
+The main challenge for a theory of law, as Kelsen saw it, is to provide an explanation of legality and the normativity of law, without an attempt to reduce jurisprudence, or “legal science”, to other domains. The law, Kelsen maintained, is basically a scheme of interpretation. Its reality, or objectivity, resides in the sphere of meaning; we attach a legal-normative meaning to certain actions and events in the world (PT1, 10). Suppose, for example, that a new law is enacted by the California legislature. How is it done? Presumably, some people gather in a hall, debate the issue, eventually raise their hands in response to the question of whether they approve a certain document or not, count the number of people who say “yes”, and then promulgate a string of words, etc. Now, of course, the actions and events described here are not the law. To say that the description is of the enactment of a new law is to interpret these actions and events in a certain way. But then, of course, the question is why certain acts or events have such a legal meaning and others don’t?
+
+Kelsen’s answer to this question is surprisingly simple: an act or an event gains its legal-normative meaning by another legal norm that confers this normative meaning on it. An act can create or modify the law if it is created in accordance with another, “higher” legal norm that authorizes its creation in that way. And the “higher” legal norm, in turn, is legally valid if and only if it has been created in accord with yet another, “higher” norm that authorizes its enactment in that way. In other words: it is the law in the United States that the California legislature can enact certain types of laws. But what makes this the law? The California Constitution confers this power on the state legislature to enact laws within certain prescribed boundaries of content and jurisdiction. But then what makes the California Constitution legally valid? The answer is that the legal validity of the Constitution of California derives from an authorization granted by the US Constitution. What makes the US Constitution legally valid? Surely, not the fact that the US Constitution proclaims itself to be “the supreme law of the land”. Any document can say that, but only the particular document of the US Constitution is actually the supreme law in the United States.
+
+The problem is that here the chain of authorization comes to an end: There isn’t a higher legal norm that authorizes the enactment of the (original) US Constitution. At this point, Kelsen famously argued, one must presuppose the legal validity of the Constitution. At some stage, in every legal system, we get to an authorizing norm that has not been authorized by any other legal norm, and thus it has to be presupposed to be legally valid. The normative content of this presupposition is what Kelsen has called the basic norm. The basic norm is the content of the presupposition of the legal validity of the (first, historical) constitution of the relevant legal system (GT, 110–111).
+
+As Kelsen saw it, there is simply no alternative. More precisely, any alternative would violate David Hume’s injunction against deriving an “ought” from an “is”. Hume famously argued that any practical argument that concludes with some prescriptive statement, a statement of the kind that one ought to do this or that, would have to contain at least one prescriptive statement in its premises. If all the premises of an argument are descriptive, telling us what this or that is the case, then there is no prescriptive conclusion that can logically follow. Kelsen took this argument very seriously. He observed that the actions and events that constitute, say, the enactment of a law, are all within the sphere of what “is” the case, they are all within the sphere of actions and events that take place in the world. The law, or legal norms, are within the sphere of “ought”, they are norms that purport to guide conduct. Thus, to get an “ought” type of conclusion from a set of “is” premises, one must point to some “ought” premise in the background, an “ought” that confers the normative meaning on the relevant type of “is”. Since the actual, legal, chain of validity comes to an end, we inevitably reach a point where the “ought” has to be presupposed, and this is the presupposition of the basic norm.
+
+The idea of the basic norm serves three theoretical functions in Kelsen’s theory of law: The first is to ground a non-reductive explanation of legal validity. The second function is to ground a non-reductive explanation of the normativity of law. The third function is to explain the systematic nature of legal norms. These three issues are not un-related.
+
+Kelsen rightly noticed that legal norms necessarily come in systems. There are no free-floating legal norms. If, for example, somebody suggests that “the law requires a will to be attested by two witnesses”, one should always wonder which legal system is talked about; is it US law, Canadian law, German law, or the law in some other legal system? Furthermore, legal systems are themselves organized in a hierarchical structure, manifesting a great deal of complexity but also a certain systematic unity. We talk about Canadian law, or German law, etc., not only because these are separate countries in which there is law. They are also separate legal systems, manifesting a certain cohesion and unity. This systematic unity Kelsen meant to capture by the following two postulates:
+
+1. Every two norms that ultimately derive their validity from one basic norm belong to the same legal system.
+2. All legal norms of a given legal system ultimately derive their validity from one basic norm.
+
+Whether these two postulates are actually true is a contentious issue. Joseph Raz argued that they are both inaccurate, at best. Two norms can derive their validity from the same basic norm, but fail to belong to the same system as, for example, in case of an orderly secession whereby a new legal system is created by the legal authorization of another. Nor is it necessarily true that all the legally valid norms of a given system derive their validity from the same basic norm (Raz 1979, 127–129)[^raz-1979].
+
+Be this as it may, even if Kelsen erred about the details of the unity of legal systems, his main insight remains true, and quite important. It is true that law is essentially systematic, and it is also true that the idea of legal validity and law’s systematic nature are very closely linked. Norms are legally valid within a given system, they have to form part of a system of norms that is in force in a given place and time.
+
+This last point brings us to another observation that is central to Kelsen’s theory, about the relations between legal validity and, what he called, “efficacy”. The latter is a term of art in Kelsen’s writings: A norm is efficacious if it is actually (generally) followed by the relevant population. Thus, “a norm is considered to be legally valid”, Kelsen wrote, “on the condition that it belongs to a system of norms, to an order which, on the whole, is efficacious” (GT, 42). So the relationship here is this: efficacy is not a condition of legal validity of individual norms. Any given norm can be legally valid even if nobody follows it. (e.g. think about a new law, just enacted; it is legally valid even if nobody has yet had an opportunity to comply with it.) However, a norm can only be legally valid if it belongs to a system, a legal order, that is by and large actually practiced by a certain population. And thus the idea of legal validity, as Kelsen admits, is closely tied to this reality of a social practice; a legal system exists, as it were, only as a social reality, a reality that consists in the fact that people actually follow certain norms.
+
+What about the basic norm, is efficacy a condition of its validity? One might have thought that Kelsen would have opted for a negative answer here. After all, the basic norm is a presupposition that is logically required to render the validity of law intelligible. This would seem to be the whole point of an anti-reductionist explanation of legal validity: since we cannot derive an “ought” from an “is”, some “ought” must be presupposed in the background that would enable us to interpret certain acts or events as having legal significance. Kelsen, however, quite explicitly admits that efficacy is a condition of the validity of the basic norm: A basic norm is legally valid if and only if it is actually followed in a given population. In fact, as we shall see below, Kelsen had no choice here. And this is precisely why at least one crucial aspect of his anti-reductionism becomes questionable.
+
+## 2. Relativism and Reduction
+
+Common wisdom has it that Kelsen’s argument for the presupposition of the basic norm takes the form of a Kantian transcendental argument. The structure is as follows:
+
+1. *P* is possible only if *Q*
+2. *P* is possible (or, possibly *P*)
+3. Therefore, *Q*.
+
+In Kelsen’s argument, *P* stands for the fact that legal norms are “ought” statements , and *Q* is the presupposition of the basic norm. In other words, the necessary presupposition of the basic norm is derived from the possibility conditions for ascribing legal significance to actions and events. In order to interpret an action as one of creating or modifying the law, it is necessary to show that the relevant legal significance of the act/event is conferred on it by some other legal norm. At some point, as we have noted, we necessarily run out of legal norms that confer the relevant validity on law creating acts, and at that point the legal validity has to be presupposed. The content of this presupposition is the basic norm.
+
+It would be a mistake, however, to look for an explanation of Kelsen’s argument in the logic of Kant’s transcendental argument. (Kelsen himself seems to have changed his views about this over the years; he may have started with a kind of neo-Kantian perspective one can discern in PT1, and gradually shifted to a Humean version of his main argument, which is quite evident in GT. However, this is a very controversial issue; for a different view, see Paulson 2013 and Green 2016.) Kant employed a transcendental argument to establish the necessary presuppositions of some categories and modes of perception that are essential for rational cognition, or so he thought. They form deep, universal, and necessary features of human cognition. Suffice it to recall that it was Hume’s skepticism about knowledge that Kant strove to answer by his transcendental argument. Kelsen, however, remains much closer to Hume’s skeptical views than to Kant’s rationalism. In particular, Kelsen was very skeptical of any objective grounding of morality, Kant’s moral theory included. Kelsen’s view of morality was relativist all the way down. (More on this, below). Second, and not unrelated, as we shall see, Kelsen has explicitly rejected the idea that the basic norm (in law, or of any other normative domain) is something like a necessary feature or category of human cognition. The presupposition of a basic norm is optional. One does not have to accept the normativity of law; anarchism, as a rejection of law’s normative validity is certainly an option, Kelsen maintained. The basic norm is presupposed only by those who accept the “ought”, that is, the normative validity, of the law. But one is not rationally compelled to have this attitude:
+
+> The Pure Theory describes the positive law as an objectively valid order and states that this interpretation is possible only under the condition that a basic norm is presupposed…. The Pure Theory, thereby characterizes this interpretation as possible, not necessary, and presents the objective validity of positive law only as conditional—namely conditioned by the presupposed basic norm. (PT2, 217–218)
+
+A comparison to religion, that Kelsen himself offered, might be helpful here. The normative structure of religion is very similar to that of law. It has the same logic: religious beliefs about what one ought to do ultimately derive from one’s beliefs about God’s commands. God’s commands, however, would only have normative validity for those who presuppose the basic norm of their respective religion, namely, that one ought to obey God’s commands. Thus the normativity of religion, like that of the law, rests on the presupposition of its basic norm. But in both cases, as, in fact, with any other normative system, the presupposition of the basic norm is logically required only of those who regard the relevant norms as reasons for their actions. Thus, whether you actually presuppose the relevant basic norm is a matter of choice, it is an ideological option, as it were, not something that is dictated by Reason. Similarly, the normativity of law, presupposed by its basic norm, is optional: “An anarchist, for instance, who denied the validity of the hypothetical basic norm of positive law…. will view its positive regulation of human relationships… as mere power relations” (GT, 413).
+
+Relativism, however, comes with a price. Consider this question: What is the content of the basic norm that one needs to presuppose in order to render positive law intelligible as a normative legal order? The simple answer is that what one presupposes here is precisely the normative validity of positive law, namely, the law that is actually practiced by a certain population. The validity of the basic norm, as we noted briefly earlier, is conditional on its “efficacy”. The content of the basic norm of any given legal system is determined by the actual practices that prevail in the relevant community. As Kelsen himself repeatedly argued, a successful revolution brings about a radical change in the content of the basic norm. Suppose, for example, that in a given legal system the basic norm is that the constitution enacted by Rex One is binding. At a certain point, a *coup d’etat* takes place and a republican government is successfully installed. At this point, Kelsen admits, ‘one presupposes a new basic norm, no longer the basic norm delegating law making authority to the monarch, but a basic norm delegating authority to the revolutionary government’ (PT1, 59).
+
+Has Kelsen just violated his own adherence to Hume’s injunction against deriving “ought” from an “is” here? One gets the clear impression that Kelsen was aware of a serious difficulty in his position. In both editions of the Pure Theory of Law, Kelsen toys with the idea that perhaps changes in the basic norms of municipal legal systems legally derive from the basic norm of public international law. It is a basic principle of international law that state sovereignty is determined by actual control over a territory/population (PT1 61–62, though in PT2, 214–215, the idea is presented with greater hesitation; notably, some commentators argue that Kelsen took the idea of a universal legal order much more seriously than suggested here—see Green 2016)[^green-2016]. But this led Kelsen to the rather uncomfortable conclusion that there is only one basic norm in the entire world, namely, the basic norm of public international law. Be this as it may, the main worry lies elsewhere. The worry stems from the fact that it is very difficult, if not impossible, to maintain both a profound relativist and an anti-reductionist position with respect to a given normative domain. If you hold the view that the validity of a type of norms is entirely relative to a certain vantage point—in other words, if what is involved here is only the actual conduct, beliefs/presuppositions and attitudes of people—it becomes very difficult to detach the explanation of that normative validity from the facts that constitute the relevant point of view (namely, the facts about people’s actions, beliefs, attitudes, etc). This is basically what was meant earlier by the comment that Kelsen had no option but to admit that the validity of the basic norm is conditional on its efficacy. The normative relativism which is inherent in Kelsen’s conception forces him to ground the content of the basic norm in the social facts that constitute its content, namely, the facts about actions, beliefs, and attitudes actually entertained by the population in question. And this makes it very questionable that reductionism can be avoided. In fact, what Kelsen really offered us here is an invitation to provide a reductive explanation of the concept of legal validity in terms of some set of social facts, the facts that constitute the content of any given basic norm. (Which is precisely the kind of reduction H.L.A. Hart later offered in his account of the Rules of Recognition as social rules [see Hart 1961, at p. 105, where Hart alludes to the difference between his conception of the rules of recognition and Kelsen’s idea of the basic norm.])[^hart-1961]
+
+Kelsen’s problem here is not due to the fact that he was a relativist with respect to every normative system, like morality, religion etc.; it is not the scope of his relativism that is relevant to the question of reduction. The problem stems from the fact that Kelsen was quite right about the law. Legal validity is essentially relative to the social facts that constitute the content of the basic norm in each and every legal order. Notice that legal validity is always relative to a time and place. A law enacted by the California legislature only applies within the boundaries of the state of California, and it applies during a certain period of time, after its enactment and until a time when it is modified or repealed. And we can see why: because legal validity is determined by the content of the basic norm that is actually followed in a given society. The laws in UK, for example, are different from those in the US, because people (mostly judges and other officials) actually follow different rules, or basic norms, in Kelsen’s terminology, about what counts as law in their respective jurisdictions. Once Kelsen admits, as he does, that the content of a basic norm is fully determined by practice, it becomes very difficult to understand how the explication of legal validity he offers is non-reductive.
+
+## 3. The Normativity of Law
+
+Let us now see how Kelsen thought that the basic norm helps to explain the sense in which law is a normative domain and what this normativity consists in. The first and crucial point to realize is that for Kelsen the idea of normativity is tantamount to a genuine “ought”, as it were; it is a justified demand on practical deliberation. A certain content is regarded as normative by an agent if and only if the agent regards that content as a valid reason for action. As Joseph Raz noticed, Kelsen agrees with the Natural Law tradition in this particular respect; both assume that the normativity of law can only be explained as one would explain the normativity of morality, or religion for that matter, namely, in terms of valid reasons for action (Raz 1979, 134–137; but cf. Paulson 2012)[^paulson-2012][^raz-1979]. But then, the problem for Kelsen is how to explain the difference between the normativity of law and that of morality; if legal “ought” is a genuine “ought”, what makes a legal obligation distinct from a moral one? Kelsen’s answer is that the relevant “ought” is always relative to a given point of view. Each and every type of “ought”, be it religious, moral or legal, must presuppose a certain point of view, a point of view which is constituted by the basic norm of the relevant normative system.
+
+In other words, Kelsen’s conception of legal normativity turns out to be a form of Natural Law completely relativized to a certain point of view. However, in Kelsen’s theory the relevant point of view is distinctly a legal one, not some general conception of morality or Reason. That these two basic norms, or points of view, can come apart, is nicely demonstrated by Kelsen’s comment that “even an anarchist, if he were a professor of law, could describe positive law as a system of valid norms, without having to approve of this law” (PT2 218n). The anarchist does not endorse the legal point of view as one that reflects her own views about what is right and wrong. Anarchism is understood here precisely as a rejection of the normative validity of law; however, even the anarchist can make an argument about what the law in this or that context requires; and when she makes such an argument, she must presuppose the legal point of view, she must argue as if she endorses the basic norm of the relevant legal system. Joseph Raz has called these kinds of statements “detached normative statements”; the anarchist argues as if she endorses the basic norm, without actually endorsing it. Another example that Raz gave is this: suppose that at Catholic priest is an expert in Jewish Law; the priest can make various interpretative arguments about what Jewish law really requires in this or that context. In such a case, the priest must argue as if he endorses the basic norm of Jewish Law, but of course, being a Catholic, he does not really endorse it, it does not reflect his own views about what is right and wrong (Raz 1979, 153–157)[^raz-1979].
+
+So here is what emerges so far: the concept of normativity, the sense in which normative content is related to reasons for action, is the same across all normative domains. To regard something as normative is to regard it as justified, as a warranted requirement on practical deliberation. However, the difference resides in the difference in points of view. Each basic norm determines, as it were, a certain point of view. So it turns out that normativity (contra Kant) always consists of conditional imperatives: if, and only if, one endorses a certain normative point of view, determined by its basic norm, then the norms that follow from it are reason giving, so to speak. This enables Kelsen to maintain the same understanding of the nature of normativity as Natural Law’s conception, namely, normativity qua reasons for action, without having to conflate the normativity of morality with that of law. In other words, the difference between legal normativity and, say, moral normativity, is not a difference in normativity (viz, about the nature of normativity, per se), but only in the relevant vantage point that is determined by their different basic norms. What makes legal normativity unique is the uniqueness of its point of view, the legal point of view, as it were.
+
+We can set aside the difficulties that such a view raises with respect to morality. Obviously, many philosophers would reject Kelsen’s view that moral reasons for action only apply to those who choose to endorse morality’s basic norm (whatever it may be). Even if Kelsen is quite wrong about this conditional nature of moral imperatives, he may be right about the law. What remains questionable, however, is whether Kelsen succeeds in providing a non-reductive explanation of legal normativity, given the fact that his account of legal validity turned out to be reductive after all. The trouble here is not simply the relativity to a point of view; the trouble resides in Kelsen’s failure to ground the choice of the relevant point of view in anything like Reason or reasons of any kind. By deliberately avoiding any explanation of what it is that might ground an agent’s choice of endorsing the legal point of view, or any given basic norm, Kelsen left the most pressing questions about the normativity of law unanswered. Instead of providing an explanation of what makes the presupposition of the legal point of view rational, or what makes it rational to regard the requirements of law as binding requirements, Kelsen invites us to stop asking.
+
+## References（引用注释）
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Sources
+
+| [PT1] | 1934/2002. *Introduction to the Problems of Legal Theory*, B.L. Paulson and S.L. Paulson (trans.), Oxford: Clarendon Press. |
+| --- | --- |
+| [PT2] | 1960/1967. *Pure Theory of Law*, M. Knight (trans.), Berkeley: University of California Press. |
+| [GT] | 1945/1961. *General Theory of Law and State*, A. Wedberg (trans.), New York: Russell & Russell. |
+
+### Secondary Sources
+
+### Contemporary Discussions and Further Reading
+
+## Academic Tools
+
+> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=lawphil-theory). |
+> | --- | --- |
+> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/lawphil-theory/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=lawphil-theory&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/lawphil-theory/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+ethics: natural law tradition | Hume, David: moral philosophy | nature of law | nature of law: legal positivism
+
+[^kelsen’s-1934]: Kelsen’s academic publications span over almost seven decades in which he published dozens of books and hundreds of articles. Only about a third of this vast literature has been translated to English. Kelsen’s two most important books on the pure theory of law are the first edition of his *Reine Rechtslehre*, published in 1934 and recently (2002) translated. The second edition, which Kelson published in 1960 (translated in 1967) is a considerably extended version of the first edition. In addition, most of the themes in these two books also appear in Kelsen’s *General Theory of Law and State*. These three works are cited in text as follows:
+
+[^other-nd]: Other relevant publications in English include:
+
+[^other-1957]: 1957, *What is Justice?*, Berkeley: University of California Press.
+
+[^other-1941]: 1941, ‘The Pure Theory of Law and Analytical Jurisprudence’, *Harvard Law Review*, 55: 44–70.
+
+[^other-1965]: 1965, ‘Professor Stone and the Pure Theory of Law: A Reply’, *Stanford Law Rev*, 17(6): 1128–1157.
+
+[^other-1966]: 1966, ‘On the Pure Theory of Law’, *Israel Law Review*, 1(1): 1–7.
+
+[^for-1991]: For a complete list of Kelsen’s publications that have appeared in English see the Appendix to H. Kelsen, *General Theory of Norms*, M. Hartney (trans.), Oxford: Oxford University Press, 1991, pp. 440–454.
+
+[^green-2016]: Green, S.M., 2016, “Marmor’s Kelsen”, in D.A. Jeremy Telman (ed.), *Hans Kelsen in America*, Dordrecht: Springer Verlag.
+
+[^harris-1980]: Harris, J.W., 1980, *Legal Philosophies* (Chapter 6), London: Butterworths.
+
+[^hart-1961]: Hart, H.L.A., 1961, *The Concept of Law* (Chapter 3), Oxford: Clarendon Press.
+
+[^hart-1970]: –––, 1970, “Kelsen’s Doctrine of the Unity of Law”, in H.E. Kiefer and M.K. Munitz (eds.), *Ethics and Social Justice*, New York: State University of New York Press, pp. 171–199.
+
+[^marmor-2001]: Marmor, A., 2001, *Objective Law and Positive Values*, Oxford: Oxford University Press.
+
+[^marmor-2011]: –––, 2011, *Philosophy of Law*, The Princeton Series in the Foundations of Contemporary Philosophy (S. Soames ed.), Chapter 1, Princeton: Princeton University Press.
+
+[^paulson-2002]: Paulson, S., 2002, Introduction to Kelsen’s *Introduction to the Problems of Legal Theory*, Oxford: Clarendon Press, p. xvii.
+
+[^paulson-2012]: –––, 2012. “A ‘Justified Normativity’ Thesis in Hans Kelsen’s Pure Theory of Law? Rejoinders to Robert Alexy and Joseph Raz”, in Matthias Klatt (ed.), *Institutionalized Reason: The Jurisprudence of Robert Alexy*, Oxford: Oxford University Press, pp. 61–111.
+
+[^paulson-2013]: –––, 2013. “The Great Puzzle: Kelsen’s Basic Norm”, in Luis Duarte d’Almeida, John Gardner, and Leslie Green (eds.), *Kelsen Revisited: New Essays on the Pure Theory of Law*, Oxford: Hart Publishing, pp. 43–62.
+
+[^raz-1980]: Raz, J., 1980, *The Concept of a Legal System*, 2ⁿᵈ edition, Oxford: Oxford University Press.
+
+[^raz-1979]: –––, 1979, ‘Kelsen’s Theory of the Basic Norm’, in J. Raz, *The Authority of Law*, Oxford: Oxford University Press, pp. 122–145.
+
+[^tur-1986]: Tur, R.H. & W. Twining (eds.), 1986, *Essays on Kelsen*, Oxford: Clarendon Press.
+
+[^bix-2018]: Bix, B., 2018, “Kelsen, Hart, and Legal Normativity”, *Revus*, 34: 1–17, doi:10.4000/revus.3984
+
+[^dyzenhaus-2022]: Dyzenhaus, D., 2022, *The Long Arc of Legality: Hobbes, Kelsen, Hart*, Cambridge: Cambridge University Press.
+
+[^gragl-2017]: Gragl, P., 2017, “In Defence of Kelsenian Monism: Countering Hart and Raz”, *Jurisprudence*, 8(2): 287–318.
+
+[^green-2021]: Green, S. M., 2021, “Hans Kelsen’s Non-Reductive Positivism”, in T. Spaak & P. Mindus (eds.), *The Cambridge Companion to Legal Positivism*, Cambridge: Cambridge University Press, pp. 272–300.
+
+[^guastini-2016]: Guastini, R., 2016, “Kelsen on Validity (Once More)”, *Ratio Juris*, 29: 402–409.
+
+[^heidemann-2022]: Heidemann C., 2022, *Hans Kelsen’s Normativism* (Cambridge Elements in Philosophy of Law), Cambridge: Cambridge University Press .
+
+[^langford-2017]: Langford, P., Bryan, I., & McGarry, J. (eds.), 2017, *Kelsenian Legal Science and the Nature of Law*, Cham: Springer.
+
+[^orakhelashvili-2019]: Orakhelashvili, A., 2019, *Domesticating Kelsen: Towards the Pure Theory of English Law*, Cheltenham: Edward Elgar Publishing
+
+[^paulson-2019]: Paulson, S. L., 2019, “Hans Kelsen on Legal Interpretation, Legal Cognition, and Legal Science”, *Jurisprudence*, 10(2): 188–221.
+
+[^paulson-2017]: ––– 2017, “Metamorphosis in Hans Kelsen’s Legal Philosophy”, *Moderna Law Review*, 80(5): 860–894.
+
+[^paulson-2018]: ––– 2018, “The Purity Thesis”, *Ratio Juris*, 31(3): 276–306.
+
+[^paulson-2025]: –––, 2025, “On Eugenio Bulygin’s Kelsen.”, in G. Villa-Rosas, J.L. Fabra-Zamora, & J.E. Núñez (eds.), *Kelsen’s Legacy: Legal Normativity, International Law and Democracy*, Oxford, Dublin: Hart Publishing.
+
+[^pavlakos-2018]: Pavlakos, G., 2018, “Non-naturalism, Normativity and the Meaning of Ought: Some Lessons from Kelsen”, in K. E. Himma, M. Jovanovic & B. Spaic (eds.), *Unpacking Normativity Conceptual, Normative, and Descriptive Issues*, Oxford, Dublin: Hart Publishing, pp. 77–94.
+
+[^spaak-2018]: Spaak, T., 2018, “A Challenge to Bix’s Interpretation of Kelsen and Hart’s Views on the Normativity of Law”, *Revus*, 37: 75–82, doi:10.4000/revus.4561

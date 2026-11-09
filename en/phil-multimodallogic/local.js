@@ -1,0 +1,38 @@
+window.MathJax = {
+    TeX: {
+        TagSide: "left",
+        TagIndent: "0em",
+        Macros: {
+	    amp: "\\mathbin{\\&}",
+	    Diamond: "\\unicode{x2B26}",
+	    llbracket: "\\mathopen{[\\![}",
+	    rrbracket: "\\mathclose{]\\!]}",
+	    dashV: "\\require{HTML} \\style{display: inline-block; transform: rotate(180deg)}{\\Vdash}",
+	    tiff: "\\text{iff}",
+            iffdef: "\\mathrel{\\text{iff}_{\\textit{def}}}",
+	    cL: "\\mathcal{L}",
+	    cM: "\\mathcal{M}",
+	    cU: "\\mathcal{U}",
+	    hC: "\\widehat{C}",
+	    hD: "\\widehat{D}",
+	    hI: "\\widehat{I}",
+	    hK: "\\widehat{K}",
+	    oB: ["B_{#1}",1],
+	    oK: ["K_{#1}",1],
+	    ohC: "\\hC",
+	    ohD: "\\hD",
+	    sX: "\\mathscr{X}",
+	    sY: "\\mathscr{Y}",
+	    ttA: "\\mathtt{A}",
+	    scbin: "\\mathbin{\\boldsymbol{;}}",
+	    qbin: "\\mathbin{\\boldsymbol{?}}",
+	    bcup: "\\mathbin{\\boldsymbol{\\cup}}",
+	    bcap: "\\mathbin{\\boldsymbol{\\cap}}",
+	    bdash: "\\mathbin{\\boldsymbol{-}}",
+	    oDiamond: "\\Diamond",
+	    onDiamond: "\\mathord{\\lnot\\Diamond}",
+	    oBox: "\\Box",
+	    oubracket: ["\\overset{\\Rule{1pt}{1pt}{.5ex}\\Rule{#1}{1pt}{0pt}\\Rule{1pt}{1pt}{.5ex}}{\\underset{\\Rule{1pt}{1ex}{0pt}\\Rule{#1}{1pt}{0pt}\\Rule{1pt}{1ex}{0pt}}{#2}}",2],
+	}
+    }
+};

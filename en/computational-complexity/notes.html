@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Computational Complexity Theory &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/computational-complexity/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/computational-complexity/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computational-complexity">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Computational Complexity Theory</a></h2>
+
+<p><a href="index.html#ref-1" id="note-1">1.</a> The problem \(\sc{TSP}\) served as a particularly important example in the early development of complexity theory.  It was first formulated as an optimization problem in the 19th century relative to the interpretation where the vertices of \(G\) are understood to be cities, its edges as roads, and their weights as distances <span class="citation">(Schrijver 2005)</span>. Under this interpretation, an instance of the optimization problem thus asks us to find the shortest tour by which all of the cities can be visited exactly once. Variations of this problem arise not only in planning and logistical applications, but also in a wide variety of other domains ranging from the manufacturing microchips, to X-ray crystallography, to computational biology <span class="citation">(Gutin and Punnen 2002)</span>. Consequently much effort has been put into finding efficient algorithms for solving both the decision and optimization versions of \(\sc{TSP}\).</p>
+
+<p><a href="index.html#ref-2" id="note-2">2.</a> See, 
+e.g., <span class="citation">(Cormen, Leiserson, and Rivest 2005, 936)</span>.</p>
+
+
+<p><a href="index.html#ref-3" id="note-3">3.</a> For 
+instance, if \(\sc{FACTORIZATION}\) were efficiently decidable by an algorithm \(A\), then to factor \(n\), we could use \(A\) together with the technique of binary search to efficiently find the smallest factor \(m \gt 1\) of \(n\). Presuming \(m \lt n\), we could then employ the same technique to \(n/m\), etc.</p>
+
+
+<p><a href="index.html#ref-4" id="note-4">4.</a> We 
+typically employ decimal notation for paper and pencil calculation and binary notation for computer-based calculation. But since the length of the base-\(b\) numeral representing \(x \in \mathbb{N}\) is given by \(\lceil \log_{b}(x) \rceil\), it follows that for arbitrary bases \(b_1,b_2 \geq 2\), the length of the representation of \(x\) in base \(b_1\) will be bounded by a scalar multiple \(\alpha = \log_{b_1}(b_2)\) of the length of its representation in base \(b_2\) (e.g. for \(b_1 = 2\) and \(b_2 = 10\), \(\alpha \approx 3.3219\)). As it is also conventional in computer science to ignore scalar differences in running time complexity, this provides some justification for standardizing on binary representations.</p>
+
+
+<p><a href="index.html#ref-5" id="note-5">5.</a> A 
+<em>Planck time</em> &ndash; approximately \(5.39 \times 10^{-43}\) seconds &ndash; is the temporal unit in the Planck scale system of physical measurements. It is equal to the time required for light to transverse a distance of one <em>Planck length</em> in a vacuum &ndash; approximately \(1.616 \times 10^{-35}\) meters. This is conjectured to be the shortest time interval which can be physically measured. Contemporary physics thus suggests that this is an in principle lower bound on the duration of a primitive step in a concretely embodied computing process (a quantity which is measured in <em>petasceconds</em> &ndash; i.e. \(1.0 \times 10^{-15}\) seconds &ndash; for contemporary computers).</p>
+
+<p><a href="index.html#ref-6" id="note-6">6.</a> This 
+is a procedure known as the <em>general number field sieve</em> (e.g. <span class="citation">Crandall and Pomerance 2005</span>) whose running time complexity is roughly proportional to \(e^{\frac{1}{3} \cdot \ln(x)}\) (in the terminology adopted below, this is <em>super-polynomial</em> but <em>sub-exponential</em>).</p>
+
+
+<p><a href="index.html#ref-7" id="note-7">7.</a> The 
+terms &lsquo;complexity theory&rsquo; and &lsquo;complexity science&rsquo; are also sometimes used to describe the study of <a href="../chaos/">physical dynamical systems</a> which exhibit non-linear or chaotic behavior. There appears to be no current consensus on whether the sense in which these systems are regarded as &lsquo;complex&rsquo; is related to any of the notions of complexity studied in computer science.</p>
+
+
+<p><a href="index.html#ref-8" id="note-8">8.</a> A 
+concrete example is given by the <a href="../recursive-functions/#1.6"><em>Ackermann function</em></a> defined by the following double recursion: \(a(0,n) = n+1\), \(a(m+1,0) = a(m,1)\), \(a(m+1,n+1) = a(m,a(m+1,n))\). This function played an important role in the history of computability theory as it is both recursive and such that its definition clearly provides an intuitively effective means of computing its values. On the other hand, not only can \(a(n)\) be shown to grow faster than any primitive recursive function, this growth rate is already evident from its values for small arguments &ndash; e.g. \(a(4,0) =1 3\), \(a(4,1) = 65533\), \(a(4,2) = 2^{65536} - 3\), \(a(4,3) =  2^{2^{65536}} - 3\). The value of \(a(4,2)\) thus requires almost 20,000 digits to represent in decimal notation while the value of \(a(4,3)\) is larger than that which can be concretely represented by algorithms for handling precision arithmetic on contemporary (or foreseeable) computers. It thus follows that if we measure the size of the inputs to an algorithm for computing \(a(n,m)\) as \(\lvert n\rvert + \lvert m\rvert\), even the task of <em>outputting</em> the value of \(a(n,m)\) for small values of \(n,m\) will be infeasible in the sense discussed in Section &sect;1.1.</p>
+
+<p><a href="index.html#ref-9" id="note-9">9.</a> The Russian word for &lsquo;brute force search&rsquo; is traditionally transliterated as <em> perebor</em>.  This notion was isolated as an important pre-theoretical concept in the context of early work on circuit complexity during the late 1950s (see, e.g., <span class="citation"> Yablonski 1959 </span>).  See <span class="citation">(Trakhtenbrot 1984)</span> for an account of developments in this tradition leading up to <span class="citation">Levin&rsquo;s (1973)</span> independent formulation of \(\textbf{NP}\)-completeness and the Cook-Levin Theorem.
+</p> 
+
+<p><a href="index.html#ref-10" id="note-10">10.</a>  Rejoinders to these points which tend to reflect the overall correctness of CET can be found in  most recent textbooks on complexity theory &ndash; e.g. <span class="citation">(Papadimitriou 1994)</span>, <span class="citation">(Du and Ko 2000)</span>, <span class="citation">(Arora and Barak 2009)</span>.  In regard to 1), for instance, there are very few problems which are currently known to be decidable in polynomial time but for which additional effort has failed to yield algorithms with reasonable scalar factors (e.g. with \(c \lt 1000\) and \(k \lt 7\)). In regard to 2), there is currently a moderately sized class of problems which are known to possess algorithms of sub-exponential time complexity (e.g. \(O(2^{\log{n}})\) or \(O(2^{\sqrt{n}})\)), but which are not currently known to belong to \(\textbf{P}\). To some extent, these might be regarded as borderline cases of feasibility which are arbitrarily excluded by CET (see, however, 
+ <a href="index.html#StrFin">Section 4.6</a> below). 
+ Nonetheless a widely believed (although currently open) conjecture known as the <em>Exponential Time Hypothesis</em> <span class="citation">(see Impagliazzo and Paturi 1999)</span> implies that for each \(\textbf{NP}\)-hard problem \(X\) (see  
+ <a href="index.html#RedNPCom">Section 3.3</a>), 
+ there exists an \(\varepsilon \gt 0\), such that \(X \not\in \textbf{TIME}(2^{\varepsilon n})\). In regard to 3), it is often observed that in many circumstances worst case complexity turns out to be a more reliable measure of problem difficulty than average case complexity unless fairly specific assumptions about the distribution of likely inputs can be imposed. In regard to 4), it can be shown that the optimization variants of some natural \(\textbf{NP}\)-complete problems (such as  \(\sc{CLIQUE}\) as defined below) cannot be significantly approximated.   The bearing of observation 5) on CET will be discussed in  
+ <a href="index.html#ParProQuaCom">Section 3.4.3</a>.</p>
+
+<p><a href="index.html#ref-11" id="note-11">11.</a> Non-deterministic 
+machines were introduced in Turing&rsquo;s original paper under the name <em>choice machines</em> <span class="citation">(Turing 1937, p. 232)</span>. Although most of his exposition employs what he calls <em>automatic</em> (i.e. deterministic) machines, Turing also describes a means by which a non-deterministic machine may be transformed into a deterministic one computing the same function (p. 252). The systematic study of non-determinism in computer science was initiated somewhat later by the work of <span class="citation">Kleene (1951)</span> and <span class="citation">Rabin and Scott (1959)</span> in automata theory.</p>
+
+
+<p><a href="index.html#ref-12" id="note-12">12.</a> In 
+somewhat more detail, \(T_N\) is constructed from \(T\) as follows: 1) observe that via an appropriate encoding of states and symbols, the sequence of non-deterministic &lsquo;choices&rsquo; which determine a segment of a computation sequence of \(N\) can be represented as a sequence of integers \(\langle c_1,\ldots,c_n \rangle\) where \(c_i \in \{0,\ldots,d-1\}\) for some fixed \(d\); 2) on input \(x\), \(T_N\) can hence begin generating the first such sequence (viewing it as a \(d\)-ary numeral) and then simulating the operations which \(N_T\) would have made had it made its \(i\)th non-deterministic transition according to the choice \(c_i\); 3) if this simulation leads to an accepting state of \(N\), then \(T_N\) accepts \(x\); 4) otherwise \(T_N\) increments the choice sequence (increasing its length if needed) and repeats steps 2) - 4); 5) if at some point a sequence of \(\langle c_1,\ldots,c_m \rangle\) choices leads to no continuing computations &ndash; which must be the case if \(N\) decides \(X\) per (i) above &ndash; then \(T_N\) moves on to test the next sequence of choices accepting if one is found, and rejecting only after each such sequence is shown not to lead to an accepting state.</p>
+
+
+<p><a href="index.html#ref-13" id="note-13">13.</a> For 
+instance, part (i) may be demonstrated by defining a time bounded version of the Halting Problem</p>
+
+\[
+\text{HP}_f = \{\langle \ulcorner T \urcorner,x \rangle  \ : \ T(x) = 1 \ \wedge \ time_T(x) \leq f(\lvert x\rvert) \}
+\]
+
+<p>for some time constructible function \(f(x)\). Unlike HP, \(\text{HP}_f\) is decidable as we may effectively check whether the computation of a Turing machine \(T\) on input \(x\) halts with output 1 within \(f(x)\) steps by simply computing the value of \(f(x)\) and carrying out the computation of \(T\) for this number of steps. In fact, by using an efficient universal Turing machine, it can be shown that \(H_f \in \textbf{TIME}(c f(n) \log(f(n))\) for some fixed constant \(c\). But now suppose for a contradiction that there was some machine \(T_{\text{HP}_f}\) which decides \(H_f\) in time \(f(\lfloor n/2 \rfloor))\). We could then define a &lsquo;diagonalizing&rsquo; machine \(D_f\) which on input \(\ulcorner U \urcorner\) returns \(0\) just in case \(T_{\text{HP}_f}(\ulcorner U \urcorner, \ulcorner U \urcorner)\) returns \(1\) and otherwise returns \(0\). Relative to our assumption, \(D_f\) runs in the same time on input \(\ulcorner  U  \urcorner\) as \(T_{H_f}\) does on input \(\ulcorner U \urcorner, \ulcorner U \urcorner\) &ndash; i.e. \(f(2\lfloor n/2 \rfloor) = f(n)\). But now a contradiction follows in the standard manner by considering whether \(D_f(\ulcorner D_f \urcorner) = 1\) or \(=0\). And from this it follows that \(\text{HP}_f\) is an example of a language separating \(\textbf{TIME}(f(n))\) from \(\textbf{TIME}(c f(n) \log(f(n))\).</p>
+
+<p><a href="index.html#ref-14" id="note-14">14.</a> Theorem 
+3.2.ii is standardly demonstrated using a related technique called the <em>reachability method</em> <span class="citation">(Papadimitriou 1994)</span>. Suppose that \(N\) is a non-deterministic machine with space complexity \(f(n)\). In order to construct a deterministic machine with running time \(2^{O(f(n))}\) (where the scalar factors involved depend on \(N\) but not \(x\)), we make use of two observations about the computation of \(N\) on input \(x\) of size \(n\): (i) since this computation visits at most \(f(x)\) cells, there are at most \(2^{O(f(n))}\) distinct configurations which could comprise its steps (for if \(N\) reenters a configuration which it has been in before without halting, it must loop forever); (ii) these configurations may be arranged into a directed graph \(G_{N,x}\) containing at most this many nodes whose edges are induced by the transition relation of \(N\). The problem of determining whether \(N\) accepts \(x\) can thus be reduced to that of checking whether there is a path in \(G_{N,x}\) from its initial configuration to an accepting configuration. But this question can be answered in time polynomial in the number of vertices in \(G_{N,x}\) by several well known graph theoretic algorithms <span class="citation">(Cormen, Leiserson, and Rivest 2005)</span>.</p>
+
+
+<p><a href="index.html#ref-15" id="note-15">15.</a> Systematic comparisons of different reducibility notions applicable to complexity theory may be  found in <span class="citation">Balc&aacute;zar, Diaz, and Gabarr&oacute; (1988)</span> and <span class="citation">Odifreddi (1999)</span>.</p>
+
+
+<p><a href="index.html#ref-16" id="note-16">16.</a> As 
+this is most likely not the case for \(\textbf{L}\) and \(\textbf{NL}\), different forms of reducibility are standardly introduced to study the internal structure of \(\textbf{P}\) &ndash; see 
+ <a href="index.html#ParProQuaCom">Section 3.4.3</a>.</p>
+
+
+<p><a href="index.html#ref-17" id="note-17">17.</a> \(\sc{SAT}\)
+was amongst the class of problems discussed in 
+ <a href="index.html#CobEdmTheFeaCom">Section 2.2</a> 
+ which were already suspected in the 1960s of being intractable in the general case on the basis of the repeated failure of attempts to find decision algorithms which had better than exponential time complexity in the worse case (cf. <span class="citation"> Davis and Putnam 1960</span>). See <span class="citation">(Trakhtenbrot 1984)</span> for a discussion of the early development of complexity theory in the Soviet Union leading to Levin&rsquo;s discovery of the \(\textbf{NP}\)-completeness of \(\sc{SAT}\).</p>
+
+
+<p><a href="index.html#ref-18" id="note-18">18.</a> In 
+order to do this, observe that the computation of \(N = \langle Q,\Sigma,\Delta,s \rangle\) on \(x\) can be represented as a \(p(n) \times p(n)\) matrix \(\mathcal{M}_{N,x}\) whose \(i\)th row represents \(N\)&rsquo;s tape and head configuration \(C_i\) at step \(i\), indexed by position \(j\). The task of constructing \(\phi_{N,x}\) then amounts to that of constructing a boolean formula of length polynomial in \(p(n)\) which expresses the following: (i) the first row of \(\mathcal{M}_{N,x}\) encodes the initial configuration \(C_0(x)\) of \(N\); (ii) for all \(0 \leq i \lt p(n)\), \(C_i\) is a legal configuration for \(N\); (iii) the configuration \(C_{i+1}\) can be derived from \(C_i\) by applying a transition permitted by \(\Delta\); and iv) some row \(C_i\) in \(\mathcal{M}_{N,x}\) corresponds to an accepting configuration of \(N\). The fact that these conditions can be efficiently expressed using only boolean connectives and a number of variables polynomial in \(p(n)\) follows from the fact that each entry of \(\mathcal{M}_{N,x}\) can take only \(\lvert Q\rvert + \lvert \Sigma\rvert\) values and that conditions (i)&ndash;(iv) pertain only to the <em>local</em> properties of \(C_i\) &ndash; e.g. a configuration \(C_{i+1}\) can follow \(C_i\) only if every \(2 \times 2\) window of cells spanning the corresponding rows of \(\mathcal{M}_{N,x}\) is either such that its top and bottom row are the same or describe a write operation or head movement permitted by \(\Delta\). For additional details see, e.g., <span class="citation">(Garey and Johnson 1979, pp. 38&ndash;44)</span>.</p>
+
+<p><a href="index.html#ref-19" id="note-19">19.</a> For 
+since it is a special case of \(\sc{SAT}\), it is evidently in \(\textbf{NP}\). To show that \(3\text{-}\sc{SAT}\) is \(\textbf{NP}\)-complete it suffices to first observe that the formula \(\phi_{N,x}\) constructed in the proof of the Cook-Levin Theorem can be efficiently transformed into one in \(\sc{CNF}\). It is then easy to see that given any \(\sc{CNF}\)-formula \(\psi\), there is an efficient algorithm which produces a \(3\text{-}\sc{CNF}\)-formula \(\psi'\) which is satisfiable if and only if \(\psi\) is.</p>
+
+
+<p><a href="index.html#ref-20" id="note-20">20.</a> Formally,
+\(
+ V = \{v^i_j \mid 1 \leq i \leq n, j = 1,2,3\},
+\)
+and
+
+\[
+\begin{align*}
+ E = \{\langle v^i_j, &amp;v^i_k \rangle \mid  1 \leq i \leq n, j \neq k \} \ \cup \\
+  &amp;\{\langle v^i_j, v^m_k \rangle \mid i \neq m \text{ and } \ell^i_j = \neg \ell^m_k \text{ or } \neg \ell^i_j = \ell^m_k \}.
+\end{align*}
+\]
+
+
+<p><a href="index.html#ref-21" id="note-21">21.</a> The 
+class of problems known to be \(\textbf{NP}\)-complete has grown to include thousands of examples not just from the subjects we have been considering, but also from combinatorics, number theory, formal language theory, and the study of games and puzzles. Here are some additional examples of \(\textbf{NP}\)-complete problems illustrating this diversity (see <span class="citation">Garey and Johnson (1979)</span> for many more):</p>
+
+<p class="indent">\(\sc{QUADRATIC}\ \sc{DIOPHANTINE}\ \sc{EQUATIONS}\ \)
+Given natural numbers \(a,b,c\), are there positive integers \(x\) and \(y\) such that \(ax^2 + by^2 = c\)? <span class="citation">(Manders and Adleman 1978)</span></p>
+
+<p class="indent">\(^*\text{-}\sc{FREE}\ \sc{REGULAR}\ \sc{EXPRESSION}\ \sc{INEQUIVALENCE}\ \)
+Given two regular expressions \(R_1\) and \(R_2\) which do not contain the symbol \(^*\) (i.e. Kleene star), are the languages generated by \(R_1\) and \(R_2\) distinct? <span class="citation">(Lewis and Papadimitriou 1998)</span></p>
+
+<p class="indent">\(\sc{MINESWEEPER}\ \sc{CONSISTENCY}\ \)
+Given a configuration of an \(n \times n\) board for the game Minesweeper consisting of uncovered squares labeled with the number of surrounding mines, correctly flagged mines, and unknown squares, does there exist an arrangement of mines which gives rise to this configuration? <span class="citation">(Kaye 2000)</span></p>
+
+
+<p><a href="index.html#ref-22" id="note-22">22.</a> For 
+if \(T \in \mathfrak{T}\) decided \(X\) in polynomial time \(p(n)\), then \(\overline{X}\) could also be decided in time \(p(n)\) by a machine \(T'\) derived by simply switching the accept and reject states of \(T\).</p>
+
+
+<p><a href="index.html#ref-23" id="note-23">23.</a> For 
+note that \(X \in \textbf{coNP}\) if and only if \(\overline{X} \in \textbf{NP}\) if and only if for all \(x\), \(x \not\in \overline{X} \ \Leftrightarrow \ \phi_{N,x} \not\in \sc{SAT}\) (for \(\phi_{N,x}\) as defined above) if and only if for all \(x\), \(x \in X \ \Leftrightarrow \ \neg\phi_{N,x} \in \sc{VALID}\).</p>
+
+<p><a href="index.html#ref-24" id="note-24">24.</a> For 
+if \(Y \in \textbf{coNP}\) were also \(\textbf{NP}\)-complete, then it would follow that every \(X \in \textbf{NP}\) is such that \(\overline{X}\) can be decided in polynomial time by an appropriate non-deterministic Turing machine &ndash; i.e. \(\textbf{NP} \subseteq \textbf{coNP}\). The converse inclusion follows by symmetry.</p>
+
+
+<p><a href="index.html#ref-25" id="note-25">25.</a> <span 
+class="citation">Ladner (1975)</span> showed that the existence of problems in \(\textbf{NP}\) which are neither in \(\textbf{P}\) nor \(\textbf{NP}\)-complete follows directly from the assumption that \(\textbf{P} \neq \textbf{NP}\). Under this assumption, it is possible to show that \(\textbf{NP}\) has a complex degree structure which shares many (although not all) properties of the classical many-one degrees of recursively enumerable sets &ndash; see, e.g., <span class="citation">(Odifreddi 1999)</span>. However all known examples of problems which have as yet been proven to be between the polynomial time degrees of \(\textbf{P}\) and that of \(\textbf{NP}\) under this assumption have been explicitly constructed using diagonal or priority arguments similar to those used in computability theory. In contrast to problems like \(\sc{FACTORIZATION}\) which originate outside complexity theory, problems of this sort are often described as &lsquo;unnatural&rsquo; (e.g. <span class="citation">Papadimitriou 1994 </span>, <span class="citation"> Arora and Barak 2009 </span>).</p>
+
+
+<p><a href="index.html#ref-26" id="note-26">26.</a> Similarly, 
+the decision problem for Presburger arithmetic and for the theory of reals with addition can both be shown to be complete for a yet more expansive complexity class known as <em>super-exponential time</em> <span class="citation">(Fischer and Rabin 1974)</span>.</p>
+
+
+<p><a href="index.html#ref-27" id="note-27">27.</a> The 
+membership of \(\sc{TQBF}\) in \(\textbf{PSPACE}\) follows from the fact that it is possible to test if \(Q_1 x_i \ldots Q_n x_n\psi \in \sc{TQBF}\) by checking the truth value of \(\psi\) with respect to all possible valuations and then combining the results in accordance with whether \(Q_i\) is \(\forall\) or \(\exists\). This can be done in a space efficient manner by a recursive algorithm which traverses the full binary tree determined by these valuations, but reuses the space required to evaluate \(\psi\) relative to such a valuation. The demonstration that all problems \(X\) in \(\textbf{PSPACE}\) can be reduced to \(\sc{TQBF}\) combines techniques which are used in the proofs of Theorems 3.4 and 3.3. For instance, given a deterministic Turing machine \(T\) which decides \(X\) in polynomial space, it may be shown that it is possible to construct a QBF-formula \(\phi_{T,x}\) of length polynomial in \(\lvert x\rvert\) which expresses using the reachability method that there is a path in the configuration graph for \(T\) from the initial configuration \(C_0(x)\) to an accepting configuration.</p>
+
+<p><a href="index.html#ref-28" id="note-28">28.</a> The 
+Polynomial Hierarchy was originally formulated by <span class="citation">Stockmeyer and Meyer (1973)</span> in terms of oracle-based computation as follows: \(\Delta^P_0\), \(\Sigma^P_0 = \Pi^P_0 = \textbf{P}\), \(\Sigma^P_{n+1} = \textbf{NP}^{\Sigma^P_i}\), \(\Pi^P_{n+1} = \textbf{coNP}^{\Sigma^P_i}\). Here \(\textbf{A}^{\textbf{B}}\) denotes the class of problems solvable by using an instance of the model of computation in terms of which the complexity class \(\textbf{A}\) is defined using oracle queries to some problem which is complete for the class \(\textbf{B}\). A third definition of the classes in \(\textbf{PH}\) can be given in terms of <em>alternating time Turing machines</em> (as originally defined by <span class="citation">Chandra and Stockmeyer 1976 </span>). For a proof of the equivalence of the three characterizations see, e.g., <span class="citation">(Du and Ko 2000)</span>.</p>
+
+
+<p><a href="index.html#ref-29" id="note-29">29.</a> This 
+example is inspired by <span class="citation">(Moore and Mertens 2011)</span>.</p>
+
+
+<p><a href="index.html#ref-30" id="note-30">30.</a> As 
+the version of Go without modification (ii) can be shown to be \(\textbf{EXP}\)-complete <span class="citation">(Robson 1983)</span>, the fact that GO as described above is in \(\textbf{PSPACE}\) relies on the fact that the length of any legal sequence of moves is bounded by a polynomial function of the size of the input board position. Similar caveats also apply to the end-game rules which are adopted for chess and checkers.</p>
+
+
+<p><a href="index.html#ref-31" id="note-31">31.</a> The 
+class \(\textbf{NC}\) was introduced by <span class="citation">Pippenger (1979)</span> who defined it in terms of uniform families of Boolean circuits with polynomial size and polylogarithmic depth. For further discussion of such circuits and their relationship to the PRAM model (as well as the surrounding subfield known as <em>circuit complexity</em>), see <span class="citation">(Vollmer 1999)</span>.</p>
+
+
+<p><a href="index.html#ref-32" id="note-32">32.</a> Recall 
+that our prior characterization of completeness for a complexity class \(\textbf{C}\) was based on polynomial time reducibility (Definition 3.1). Relative to this definition, all problems in \(\textbf{P}\) are trivially \(\textbf{P}\)-complete. As a consequence, a stronger reducibility notion is typically introduced in order to define \(\textbf{P}\)-completeness &ndash; e.g. by requiring that a reduction \(f(x)\) be computable in logarithmic space as opposed to polynomial time. See <span class="citation">(Greenlaw, Hoover, and Ruzzo 1995)</span> and <span class="citation">(Papadimitriou 1994)</span> for additional discussion of \(\textbf{P}\)-completeness.</p>
+
+
+<p><a href="index.html#ref-33" id="note-33">33.</a> See 
+also the definitions of the classes \(\textbf{RP}, \textbf{ZPP}\) and \(\textbf{PP}\) in (e.g.) <span class="citation">Du and Ko (2000)</span>.</p>
+
+<p><a href="index.html#ref-34" id="note-34">34.</a> In 
+fact it follows by an application of the <em>Chernoff bound</em> <span class="citation">(Chernoff 1981)</span> that in order to use such a procedure to decide membership correctly with probability \(1 - \varepsilon\), it suffices to apply the machine \(C\) \(1/(p-\frac{1}{2})^2 \ln(1/\sqrt{\varepsilon})\) times and then take the majority output. This bound shows that the probability of making a incorrect decision using this method decreases quickly as the value of \(m\) increases &ndash; e.g. if \(p = \frac{3}{4}\) and \(\varepsilon = .00001\), then \(92\) applications will be sufficient and if \(\varepsilon = 1.0 \times 10^{-10}\), then 185 applications will be sufficient.</p>
+
+
+<p><a href="index.html#ref-35" id="note-35">35.</a> \(\sc{PRIMES}\)
+was shown to be possess a polynomial time probabilistic algorithm in the 1970s by <span class="citation">Miller (1976)</span> and <span class="citation">Rabin (1980)</span>.</p>
+
+
+<p><a href="index.html#ref-36" id="note-36">36.</a> Textbook 
+presentations of quantum computation are provided by <span class="citation">(Nielsen and Chuang 2000)</span>, <span class="citation">(Mermin 2007)</span>, and <span class="citation">(Yanofsky and Mannucci 2007)</span>. Survey article presentations include <span class="citation">(Watrous 2009)</span> and <span class="citation">(Fortnow 2003)</span>. For more on the bearing of this subject on the analysis of feasibility and related philosophical issues see, e.g., <span class="citation">(Aaronson 2005)</span>, <span class="citation">(Aaronson 2013a)</span>, and <span class="citation">(Moore and Mertens 2011)</span>.</p>
+
+
+<p><a href="index.html#ref-37" id="note-37">37.</a> For 
+sake of illustration, suppose \(\mathsf{T} = \mathsf{ZFC}\) and the definition of derivability in \(\mathsf{T}\) is based on the standard definition of derivability in a Hilbert system. Then to check whether \(\mathcal{D}\) is a valid derivation, it suffices to check whether each of its \(n\) lines (where \(n \lt \lvert \mathcal{D}\rvert\) &ndash; the size of \(\mathcal{D}\) under a suitable binary encoding) is an axiom of \(\mathsf{ZFC}\) or follows from earlier lines by <em>modus ponens</em> or universal generalization. As each such verification can be performed in a number of steps polynomial in \(\lvert \mathcal{D}\rvert\) and there are \(\lt \lvert \mathcal{D}\rvert\) such verifications to be performed, it follows that there is an algorithm for deciding whether \(\mathcal{D}\) is a correct derivation of its last line which runs in time polynomial in its size. Of course this will not continue to hold if membership in the set of \(\mathsf{T}\)&rsquo;s axioms is itself not decidable in polynomial time. This is a stronger requirement than the condition of recursive axiomatizability which we standardly require of our mathematical theories. But it is evidently satisfied by even powerful theories such as \(\mathsf{ZFC}\) which are axiomatized by finitely many schemas of a sufficiently simple form.</p>
+
+<p><a href="index.html#ref-38" id="note-38">38.</a> G&ouml;del 
+adds the footnote &ldquo;Apart from the postulation of axioms&rdquo;. See <span class="citation">(Sipser 1992)</span> and <span class="citation">(Hartmanis 1993)</span> for more on the historical context of G&ouml;del&rsquo;s letter in regard to the development of complexity theory.</p>
+
+
+<p><a href="index.html#ref-39" id="note-39">39.</a> As 
+we have seen, commonly cited examples of the former sort are \(\sc{TSP}\) and \(\sc{INTEGER}\ \sc{PROGRAMMING}\). An example of the latter sort is \(\sc{FACTORIZATION}\). For in particular, the security of the well known RSA cryptographic system <span class="citation">(Rivest, Shamir, and Adleman 1978)</span> is premised on the fact that integer factorizations cannot be computed efficiently in the following sense: were \(\sc{FACTORIZATION}\) shown to be decidable by a polynomial time algorithm, this algorithm would render the RSA protocol insecure in that it would also provide an efficient method for decoding a coded message given the public key which was used to encrypt it.</p>
+
+
+<p><a href="index.html#ref-40" id="note-40">40.</a> In 
+particular, <span class="citation">Ben-David and Halevi (1992)</span> showed that if \(\textbf{P} \neq \textbf{NP}\) is independent of the theory \(\mathsf{PA} \cup \Pi^{\mathbb{N}}_1\) consisting of \(\mathsf{PA}\) together with all \(\Pi^0_1\)-sentences true in the standard model of arithmetic, then for all increasing functions \(f(n)\) provably recursive in \(\textsf{PA}\), there would exist a family of circuits of size \(n^{f^{-1}(n)}\) which decides \(\sc{SAT}\) for all inputs of size \(n\). While this would not imply that \(\sc{SAT}\) is in \(\textbf{P}\), it is incompatible with the Exponential Time Hypothesis mentioned at the end of 
+ <a href="index.html#CobEdmTheFeaCom">Section 2.2</a>.</p>
+
+
+<p><a href="index.html#ref-41" id="note-41">41.</a> Here 
+\(\textbf{C}^A\) denotes the class of problems which could be solved by a model of computation \(M\) using the resource in terms of which the complexity class \(\textbf{C}\) is defined if we were also to allow \(M\) to make queries about membership in the set \(A\) in unit time. See, e.g., <span class="citation">(Rogers 1987)</span> and <span class="citation">(Papadimitriou 1994)</span> for more oracle based computation in computability and complexity theory.</p>
+
+<p><a href="index.html#ref-42" id="note-42">42.</a> \(\exists^* \forall^*\) is the fragment of first-order logic known as the <em>Sch&ouml;nfinkel-Bernays</em> class which corresponds to formulas of the form \(\exists x_1 \ldots \exists x_n \forall y_1 \ldots \forall y_n \psi\) where \(\psi\) is quantifier free and does not contain function symbols or equality.  The fragments  \(\exists^* \forall \exists^*\) and \(\exists^* \forall \forall \exists^*\) &mdash; respectively known as the <em>Ackermann class</em> and the <em>G&ouml;del class</em> &mdash; are defined similarly.  The validity questions for these fragments correspond to sub-cases of Hilbert&rsquo;s <em>Entscheidungsproblem</em> whose decidability was originally investigated prior to the development of complexity theory &mdash; see  <span class="citation"> (Dreben 1979)</span>.
+</p>
+
+<p><a href="index.html#ref-43" id="note-43">43.</a> The 
+name <em>Frege system</em> (originally due to <span class="citation">Cook and Reckhow (1979)</span>) is widely employed in the literature on proof complexity to describe what proof theorists would traditionally call Hilbert systems.</p>
+
+
+<p><a href="index.html#ref-44" id="note-44">44.</a> For 
+the left-to-right direction observe that if \(\mathcal{P}\) were a polynomial proof system, then a \(\mathcal{P}\)-proof of \(\phi\) would serve as a polynomial size certificate for its membership in \(\sc{VALID}\). Conversely, since \(\sc{VALID} \in \textbf{coNP}\), \(\textbf{NP} = \textbf{coNP}\) would entail that there is a polynomial time decidable relation \(R(x,y)\) and polynomial \(p(n)\) such that \(\phi \in \sc{VALID} \Leftrightarrow \exists y \leq p(\lvert \phi\rvert) R(\ulcorner \phi \urcorner,y)\). In this case the function</p>
+
+\[\mathcal{P}(y) = \begin{cases} 
+  \phi &amp; \text{if \(\phi\) is the conclusion of the proof coded} \\ 
+       &amp; \quad\quad\text{by } y \text{ and } R(\ulcorner \phi \urcorner,y) \\  
+  \top &amp; \text{otherwise} 
+\end{cases}
+\] 
+
+<p>where \(\top\) is some fixed tautology would be a polynomial bounded proof system.</p>
+
+
+<p><a href="index.html#ref-45" id="note-45">45.</a> For 
+instance, in the standard case where \(X \subseteq \{0,1\}^*\) and \(w = w_1 w_2 \ldots w_{\lvert w\rvert} \in X\), the associated structure will be of the form \(\mathcal{A}_w = \langle \{1,2,\ldots,\lvert w\rvert,\}, S^w,\leq \rangle\) with domain \(\{1,2,\ldots,\lvert w\rvert\} \subseteq \mathbb{N}\) consisting of the bit positions contained in \(w\), \(S^w\) a monadic relation such that \(S^w(i)\) holds if and only if \(w_i = 1\), and \(\leq\) the usual linear ordering on \(\{1,2,\ldots,\lvert w\rvert\}\). Similarly, if \(X\) is a graph problem and \(G\) is one of its instances, then the associated structure will be \(\mathcal{A}_G = \langle \{1,2,\ldots,v\},E \rangle\) where we assume that \(G\) has vertices \(\{1,2,\ldots,v\}\) and edge relation \(E \subseteq \{1,2,\ldots,v\} \times \{1,2,\ldots,v\}\).</p>
+
+
+<p><a href="index.html#ref-46" id="note-46">46.</a> For 
+instance that the reflexive, transitive closure \(E^*(x,y)\) of the edge relation of a graph \(G = \langle V,E \rangle\) as the smallest relation satisfying the condition</p>
+
+\[
+E^*(x,y) \leftrightarrow [(x = y) \vee E(x,y) \vee \exists z(E^*(x,z) \wedge E^*(z,y)]
+\]
+
+<p>\(E^*(x,y)\) is thus definable as \(\text{Fix}((x = y) \vee E(x,y) \vee \exists z(R(x,z) \wedge R(z,y))\).</p>
+
+
+<p><a href="index.html#ref-47" id="note-47">47.</a> It 
+turns out that the class of sets which are definable by \(\Delta_0\)-formulas correspond not to \(\textbf{P}\), but rather to those which comprise the so-called <em>Linear Time Hierarchy</em> <span class="citation">(Wrathall 1978)</span>. The Linear Time Hierarchy may be defined analogously to the Polynomial Hierarchy, but using \(O(n)\) decidable relations instead of polynomial time ones. This hierarchy is conjectured (although not known) to be properly contained in \(\textbf{PH}\) and to be incomparable with \(\textbf{P}\). The class of functions defined by \(\Sigma_1\)-formulas which are provably total in \(\text{I}\Delta_0\) corresponds to a functional variant of this hierarchy <span class="citation">(Cook and Nguyen 2010)</span>.</p>
+
+
+<p><a href="index.html#ref-48" id="note-48">48.</a> Similar doubts were also expressed by van Dantzig <span class="citation">(1955, p. 273&ndash;74)</span> who observed that it is physically impossible to &lsquo;construct&rsquo; the natural number denoted by the expression \(10^{10^{10}}\) in the sense of concretely producing a numeral in the series \(0,0',0'', \ldots\) corresponding to its value. <span class="citation">Bernays (1935, p. 280&ndash;81)</span> similarly observed that the value of the expression \(67^{257^{729}}\) is &ldquo;intuitable&rdquo; only in an idealized sense. On this basis he suggested the possibility of developing a form of <a href="../intuitionism/">intuitionistic mathematics</a> which takes the &ldquo;practicability&rdquo; of numerical representations into account. See <span class="citation">(Cherubin and Mannucci 2011)</span> and <span class="citation">(Van Bendegem 2012)</span> for additional discussion of antecedents for strict finitism.</p>
+
+
+<p><a href="index.html#ref-49" id="note-49">49.</a> In 
+fact Yessenin-Volpin explicitly acknowledges this:</p>
+<blockquote>
+
+<p>Let us consider the series \(F\) of <em>feasible</em> numbers, i.e. of those up to which it is possible to count. The number \(0\) is feasible and if \(n\) is feasible then \(n \lt 10^{12}\) and so \(n'\) also is feasible. And each feasible number can be obtained from \(0\) by adding \('\); so \(F\) forms a natural number series. But \(10^{12}\) does not belong to \(F\). <span class="citation">(1970 p. 5)</span></p>
+</blockquote>
+
+
+<p><a href="index.html#ref-50" id="note-50">50.</a> Although 
+<span class="citation">(Dummett 1975)</span> appears to have been written in response to Yessenin-Volpin&rsquo;s presentation of strict finitism in <span class="citation">(Yessenin-Volpin 1961)</span> (which Dummett states was related to him by Hao Wang), there has been little to no consideration of the notion of feasibility in mathematics in the extensive literature on natural language vagueness which grew out of Dummett&rsquo;s paper. Conversely, although Parikh suggests that the theories \(\mathsf{PA}^F\) and \(\text{I}\Delta_0\) he presented in <span class="citation">(Parikh 1971)</span> were also inspired by strict finitism, there has been little consideration of vagueness in the literature on bounded arithmetic which grew out of this paper. Some of the relevant ideas were later brought together independently in the development of Vop&#277;nka&rsquo;s Alternative Set Theory <span class="citation">(Vop&#283;nka 1979)</span>.</p>
+
+<p><a href="index.html#ref-51" id="note-51">51.</a> For 
+extensions and refinements of this result, see <span class="citation">Sazonov (1995)</span> and <span class="citation">Carbone and Semmes (1997)</span>.</p>
+
+
+<p><a href="index.html#ref-52" id="note-52">52.</a> See 
+<span class="citation">Gaifman (2010)</span> and <span class="citation">Magidor (2011)</span> for discussion of related issues about vagueness in natural language.</p>
+
+
+<p><a href="index.html#ref-53" id="note-53">53.</a> This 
+shows that the order-type of \(\prec\) is not \(\omega\) in the case at hand. The question of whether \(\prec\) it is a total or well-order (and if so, what is its order-type?) will depend on the class of functions it is used to compare. For some results on this see <span class="citation">(Skolem 1956)</span> and <span class="citation">(Van Den Dries and Levitz 1984)</span>.</p>
+
+
+<p><a href="index.html#ref-54" id="note-54">54.</a> One 
+might, of course, argue that countenancing such a situation is in conflict with the fact that we can <em>prove</em> the totality of exponentiation in stronger mathematical theories such as \(\mathsf{PA}\). As <span class="citation">Parikh (1971, p. 503&ndash;4)</span> suggests, however, such proofs are arguably circular in that they assume that it is permissible to apply induction to a class of formulas (e.g. \(\Sigma_1\)) which allow us to semantically define functions which grow faster than exponentiation (and are thus &ldquo;non-concrete&rdquo;). For related arguments against the admissibility of using induction to prove the totality of exponentiation, see <span class="citation">Nelson (1986, 173&ndash;77)</span> and <span class="citation">Isles (1992)</span>.</p>
+
+
+<p><a href="index.html#ref-55" id="note-55">55.</a> <span 
+class="citation">Nelson (1986)</span> &ndash; who is also often described as a strict finitist &ndash; can be interpreted as suggesting a similar proposal in the context of developing the theory he calls <em>Predicative Arithmetic</em>. This system is based on the base theory \(\mathsf{Q}\), which contains no principles of induction whatsoever. But as Nelson shows, it is possible to construct formulas which can be shown in \(\mathsf{Q}\) to define initial segments (known as <em>syntactic cuts</em>) satisfying \(\text{I}\Delta_0\) as well as slightly stronger theories. See <span class="citation">(Iwan 2000)</span>, <span class="citation">(Visser 2009)</span>, <span class="citation">(Gaifman 2012)</span>, <span class="citation">(Pudl&aacute;k 2013)</span>, and <span class="citation">(Ganea 2014)</span> for critical discussion of Nelson&rsquo;s program and related issues about the use of weak arithmetical theories to formulate strict finitism and related views.</p>
+
+
+<p><a href="index.html#ref-56" id="note-56">56.</a> Formally, 
+(i) and (ii) follow immediately from the fact that epistemic logics are assumed to extend the basic modal logic \(\mathsf{K}\) which includes the rule of Necessitation \(\vdash \phi \ \therefore \ \vdash K_i \phi\) (from which (i) follows since the completeness theorem entails that all propositional tautologies are provable) and the axiom \(K_i(\phi \rightarrow \psi) \rightarrow (K_i \phi \rightarrow K_i \psi)\) (from which (ii) follows since completeness again entails that \(\Gamma \models \phi\) implies that \(\vdash \bigwedge \Gamma' \rightarrow \phi\) for some finite set \(\Gamma' \subseteq \Gamma\)). See <span class="citation">(Fagin et al. 1995)</span> for more on the formal characterization of logical omniscience.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2016</a> by
+
+<br />
+<a href="http://go.warwick.ac.uk/whdean" target="other">Walter Dean</a>
+&lt;<a href="m&#97;ilto:W&#37;2eH&#37;2eDean&#37;40warwick&#37;2eac&#37;2euk"><em>W<abbr title=" dot ">&#46;</abbr>H<abbr title=" dot ">&#46;</abbr>Dean<abbr title=" at ">&#64;</abbr>warwick<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

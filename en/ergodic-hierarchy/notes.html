@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Ergodic Hierarchy &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/ergodic-hierarchy/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/ergodic-hierarchy/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ergodic-hierarchy">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">The Ergodic Hierarchy</a></h2>
+
+<div id="note-1">
+
+<p>
+ <a href="index.html#ref-1">1.</a>
+ The use of the term &lsquo;space&rsquo; in physics might cause
+confusion. On the one hand the term is used in its ordinary meaning to
+refer to the three-dimensional space of our everyday experience. On
+the other hand, an entire class of mathematical structures are
+referred to as &lsquo;spaces&rsquo; even though they have nothing in
+common with the space of everyday experience (except some abstract
+algebraic properties, which is why these structures earned the title
+&lsquo;spaces&rsquo; in the first place). Phase spaces are abstract
+mathematical spaces.</p>
+</div>
+
+<div id="note-2">
+
+<p>
+ <a href="index.html#ref-2">2.</a>
+ Sometimes a fourth component is mentioned in the definition: a sigma
+algebra \(\sigma\). Although in certain circumstances it is convenient
+to add \(\sigma\), it is not strictly necessary since the main purpose
+of \(\sigma\) is to provide a basis to define the measure \(\mu\), and
+so \(\sigma\) is always present in the background when there is a
+measure \(\mu\) and it is not necessary to mention it explicitly. For
+a discussion of sigma algebras and measures see Appendix B.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+ <a href="index.html#ref-3">3.</a>
+ By using \(\mathbb{R}\) and \(\mathbb{Z}\) we assume that time
+extends to the past as well as to the future, and we also assume that
+the time evolution is reversible. This need not be the case and these
+assumptions can be relaxed in different ways. Nothing in what follows
+depends on this.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+ <a href="index.html#ref-4">4.</a>
+ Strictly speaking \(A\) has to be measurable. In what follows we
+always assume that the sets we consider are measurable. This is a
+technical assumption that has no bearing on the issues that follow
+since the relevant sets are always measurable.</p>
+</div>
+
+<div id="note-5">
+
+<p>
+ <a href="index.html#ref-5">5.</a>
+ First appearances notwithstanding, this is not a substantial
+restriction. Systems in statistical mechanics are all measure
+preserving. Some systems in chaos theory are not measure preserving,
+but these systems, if they are chaotic on a certain part of the phase
+space (which can be an attractor, for instance), then there is an
+invariant measure on this part and EH is applicable with respect to
+that measure. For a discussion of this point see Werndl (2009b).</p>
+</div>
+
+<div id="note-6">
+
+<p>
+ <a href="index.html#ref-6">6.</a>
+ The basic idea of an integral is the following: slice up the space
+into \(m\) small cells \(c_1,\ldots ,c_m\) (e.g. by putting a grid on
+it), then choose a point in each cell and take the value of \(f\) for
+that point. Then multiply that value with the size of the cell (its
+measure) and add them all up: \(f(x_1)\mu(c_1) + \ldots +
+f(x_m)\mu(c_m)\), where \(x_1\) is a point in \(c_1\) etc. Now we
+start making the cells smaller (and as result we need more of them to
+cover \(X)\) until they become infinitely small (in technical terms,
+we take the limit). That is the integral. Put simply, the integral is
+just \(f(x_1)\mu(c_1) + \ldots + f(x_m)\mu(c_m)\) for infinitely small
+cells.</p>
+</div>
+
+<div id="note-7">
+
+<p>
+ <a href="index.html#ref-7">7.</a>
+ The concept of ergodicity has a long and complex history. For a
+sketch of this history see Sklar (1993, Ch. 2) and the Appendix,
+Section A.</p>
+</div>
+
+<div id="note-8">
+
+<p>
+ <a href="index.html#ref-8">8.</a>
+ Sometimes EH is presented as having another level, namely C-systems
+(also referred to as Anosov systems or completely hyperbolic systems).
+Although interesting in their own right, C-systems are beyond the
+scope of this review. They do not have a unique place in EH and their
+relation to other levels of EH depends on details, which we cannot
+discuss here. Paradigm examples of C-systems are located between K-
+and B-systems; that is, they are K-systems but not necessarily
+B-systems. The cat map, for instance, is a C-system that is also a
+K-system (Lichtenberg &amp; Liebermann, 1992, p. 307). But there are
+K-systems such as the so-called stadium billiard that are not
+C-systems (Ott, 1993, p. 262). Some C-systems preserve a smooth
+measure (where &lsquo;smooth&rsquo; in this context means absolutely
+continuous with respect to the Lebesgue measure), in which case they
+are Bernoulli systems. But not all C-systems have smooth measures. It
+is always possible to find other measures such as SRB (Sinai, Ruelle,
+Bowen) measures. However, matters are more complicated in such cases,
+as such C-systems need not be mixing and a fortiori they need not be
+K- or B-systems (Ornstein &amp; Weiss, 1991, pp. 75&ndash;82).</p>
+</div>
+
+<div id="note-9">
+
+<p>
+ <a href="index.html#ref-9">9.</a>
+ The mechanism described here is also known as <em>stretching and
+folding</em>. It is typical of mixing in fluids. As Christov, Lueptow
+and Ottino (2011) point out, the mechanism for mixing in granular
+media is <em>cutting and shuffling</em>.</p>
+</div>
+
+<div id="note-10">
+
+<p>
+ <a href="index.html#ref-10">10.</a>
+ To be precise, a second condition has to be satisfied: \(\alpha\)
+must be \(T\)-generating (Ma&ntilde;&eacute; 1983, 87). However, what
+matters for our considerations is the independence condition.</p>
+</div>
+
+<div id="note-11">
+
+<p>
+ <a href="index.html#ref-11">11.</a>
+ A formal proof can be found in Cornfeld <em>et al.</em> (1982,
+9&ndash;10).</p>
+</div>
+
+<div id="note-12">
+
+<p>
+ <a href="index.html#ref-12">12.</a>
+ A similar situation exists for quantum field theory, which has a
+number of inequivalent formulations including (to name just a few) the
+canonical, algebraic, axiomatic, and path integral frameworks.</p>
+</div>
+
+<div id="note-13">
+
+<p>
+ <a href="index.html#ref-13">13.</a>
+ For detailed discussions of SM see Frigg (2008), Hemmo and Shenker
+(2012), Shenker (2017), Sklar (1993) and Uffink (2007); for an
+introduction see Frigg and Werndl (2023); for a discussion from a
+mathematical point of view see Chibbaro, Rondoni and Vulpiani (2014).
+Those interested in the long and intricate history of SM are referred
+to Brush (1976) and von Plato (1994); and to Darrigol (2018) for the
+development of Boltzmann&rsquo;s ideas.</p>
+</div>
+
+<div id="note-14">
+
+<p>
+ <a href="index.html#ref-14">14.</a>
+ It is a common assumption in the literature on Boltzmannian SM that
+there is a finite number of macrostates that system can possess. We
+should point out, however, that this assumption is based on an
+idealisation if the relevant macro variables are continuous. In fact,
+we obtain a finite number of macrostates only if we coarse-grain the
+values of the continuous variables.</p>
+</div>
+
+<div id="note-15">
+
+<p>
+ <a href="index.html#ref-15">15.</a>
+ Darrigol (2018) and Uffink (2004, 2007) provide discussions of the
+tangled development of Boltzmann&rsquo;s constantly changing views.
+Frigg (2009a) and Myrvolt (2016) discuss probabilities in
+Boltzmann&rsquo;s account.</p>
+</div>
+
+<div id="note-16">
+
+<p>
+ <a href="index.html#ref-16">16.</a>
+ For discussion of the physical basis of this entropy see Maroney
+(2008 [Other Internet Resources]).</p>
+</div>
+
+<div id="note-17">
+
+<p>
+ <a href="index.html#ref-17">17.</a>
+ For details see, for instance, Tolman (1938 Chs. 3 and 4). For a
+discussion of Brownian motion in this framework see Luczak (2016).</p>
+</div>
+
+<div id="note-18">
+
+<p>
+ <a href="index.html#ref-18">18.</a>
+ An energy hypersurface is a hypersurface in the system&rsquo;s phase
+space on which the energy is constant. For further discussion of
+Khinchin&rsquo;s results see Badino (2006) and Batterman (1998).</p>
+</div>
+
+<div id="note-19">
+
+<p>
+ <a href="index.html#ref-19">19.</a>
+ To be more precise: what we are after is a proof for cases where
+there are nontrivial interaction terms, meaning those for which there
+does not exist a canonical transformation that effectively eliminates
+such terms.</p>
+</div>
+
+<div id="note-20">
+
+<p>
+ <a href="index.html#ref-20">20.</a>
+ See for instance Lichtenberg &amp; Liebermann (1992), Ott (1993), and
+Tabor (1989).</p>
+</div>
+
+<div id="note-21">
+
+<p>
+ <a href="index.html#ref-21">21.</a>
+ Provided that \(\mu\) is normalised, which is the case in most
+systems studied in ergodic theory. Due to their connection to \(\mu\)
+some maybe inclined not to interpret the \(p(A^t)\) as epistemic
+probabilities; in fact, in the literature on ergodic theory \(\mu\) is
+often interpreted as a time average and so one could insist that
+\(p(A^t)\) be a time average as well. While this could be done, it is
+not conducive to our analysis. Our goal is to to explicate randomness
+in terms of degrees of unpredictability and to this end one needs to
+assume that \(p(A^t)\) are epistemic probabilities. However, contra
+some radical Bayesians, we posit that the values of these
+probabilities be constrained by objective facts about the system (here
+the measure \(\mu)\). But this does not make these probabilities
+objective. For discussion of various interpretations of probability in
+deterministic theories see Frigg (2016), Frigg and Hoefer (2013),
+Hemmo and Shenker (2014), Hoefer (2011), List and Pivato (2019), Lavis
+(2011), Maudlin (2011), Myrvold (2011), Strevens (2011), and
+W&uuml;thrich (2011). Werndl (2009c) discusses the question whether
+deterministic and indeterministic descriptions of systems are
+observationally equivalent (in the sense that they give the same
+predictions); see Belanger (2013) for a discussion of her claims. For
+a discussion of the relation between randomness and probabilities see
+Eagle (2016).</p>
+</div>
+
+<div id="note-22">
+
+<p>
+ <a href="index.html#ref-22">22.</a>
+ We would also like to mention that the analysis of randomness in
+Bernoulli and K-systems is based on <em>implications</em> of the
+definitions of these systems, but they do not exhaust these
+definitions (or provide verbal restatements of them) because there are
+parts of the definition that have not been used (in the case of
+Bernoulli systems the condition that there be a generating partition,
+and in the case of K-systems sets in \(\sigma(n,r)\) that are
+different from \(T_k A_{j_0} \cap T_{k +1}A_{j_1} \cap T_{k +2}A_{j_2}
+\cap \ldots)\). By contrast, the analyses of SM, WM, and E in the
+following paragraphs exhaust the respective definitions. In the case
+of Bernoulli this has the consequence that the characterisation given
+here also applies to some systems that are not ergodic. For a
+discussion of such cases see Werndl (2009a, section 4.2.2).</p>
+</div>
+
+<div id="note-23">
+
+<p>
+ <a href="index.html#ref-23">23.</a>
+ This bit of conventional wisdom is backed-up by a theorem by Markus
+and Mayer (1974), which is based on KAM theory and basically says that
+generic Hamiltonian dynamical systems are not ergodic. For a
+discussion of this theorem see Frigg and Werndl (2011).</p>
+</div>
+
+<div id="note-24">
+
+<p>
+ <a href="index.html#ref-24">24.</a>
+ We would like to point out that an analysis of chaos in terms of
+positive KS-entropy needs further qualifications. A system whose
+dynamics is, intuitively speaking, chaotic only on a part of the phase
+space can still have positive KS-entropy. A case in point is a system
+with \(X = [-1, 1\)] where the dynamics on [\(-1,0)\) is the identity
+function and the tent map on \([0, 1]\). This system has positive
+KS-entropy, but the dynamics of the <em>entire</em> systems is not
+chaotic (only the part on \([0, 1]\) is). This problem can be
+circumvented by adding extra conditions, for instance that the system
+is ergodic (which the above system clearly is not).</p>
+</div>
+
+<h3>Notes to Appendix</h3>
+
+<div id="note-25">
+
+<p>
+ <a href="appendix.html#note-25">25.</a>
+ Not all subsets of phase space points are measurable&mdash;see
+(Royden 1968, pp. 52&ndash;65) for an explanation.</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="https://www.lse.ac.uk/people/roman-frigg" target="other">Roman Frigg</a>
+&lt;<a href="m&#97;ilto:r&#37;2ep&#37;2efrigg&#37;40lse&#37;2eac&#37;2euk"><em>r<abbr title=" dot ">&#46;</abbr>p<abbr title=" dot ">&#46;</abbr>frigg<abbr title=" at ">&#64;</abbr>lse<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+Joseph Berkovitz
+&lt;<a href="m&#97;ilto:jzberkovitz&#37;40yahoo&#37;2ecom"><em>jzberkovitz<abbr title=" at ">&#64;</abbr>yahoo<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+Fred Kronz
+&lt;<a href="m&#97;ilto:fkronz56&#37;40gmail&#37;2ecom"><em>fkronz56<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

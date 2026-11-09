@@ -1,0 +1,4151 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Alonzo Church (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Alonzo Church" />
+<meta name="citation_author" content="Deutsch, Harry" />
+<meta name="citation_author" content="Marshall, Oliver" />
+<meta name="citation_publication_date" content="2021/10/21" />
+<meta name="DC.title" content="Alonzo Church" />
+<meta name="DC.creator" content="Deutsch, Harry" />
+<meta name="DC.creator" content="Marshall, Oliver" />
+<meta name="DCTERMS.issued" content="2021-10-21" />
+<meta name="DCTERMS.modified" content="2022-02-24" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/church/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=church">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<div class="figure wide">
+<img alt="photo of Alonzo Church pointing to a blackboard" class="left" src="alonzo-church.png" style="width:320px" />
+
+<p>
+<em>Photo from Burge &amp; Enderton 2019,
+<br />
+reproduced with permission from the editor.</em></p>
+</div>
+
+<h1>Alonzo Church</h1><div id="pubinfo"><em>First published Thu Oct 21, 2021; substantive revision Thu Feb 24, 2022</em></div>
+
+<div id="preamble">
+
+<p>
+Alonzo Church (1903&ndash;1995) was a renowned mathematical logician,
+philosophical logician, philosopher, teacher and editor. He was one of
+the founders of the discipline of mathematical logic as it developed
+after Cantor, Frege and Russell. He was also one of the principal
+founders of the <em>Association for Symbolic Logic</em> and the
+<em>Journal of Symbolic Logic</em>. The list of his students,
+mathematical and philosophical, is striking as it contains the names
+of renowned logicians and philosophers. In this article, we focus
+primarily on Church&rsquo;s philosophical contributions. (For an
+account of his life and academic history see the Introduction to
+<em>The Collected Works of Alonzo Church</em> (2019).) However, we
+also discuss his mathematical results when it is desirable to do so in
+order to pursue a philosophical issue. In Church&rsquo;s case, the
+distinction between philosopher and formal logician/mathematician is
+not entirely correct, since <em>all</em> of his work (except for the
+occasional paper on some purely mathematical subject) concerns logical
+issues in one way or another.</p>
+
+<p>
+Church brought both the general outlook and the specific distinctions
+of formal logic to bear on philosophy in a distinctive way by applying
+his &ldquo;logistic method&rdquo; to the philosophical topics he
+discussed. Conversely, he also wove certain aspects of his philosophy
+into the fabric of formal, mathematical logic as he presented it. The
+result was a formidable combination of philosophical vision and
+focused argumentation. For Church, the logistic method (or
+formalization) was not only necessary to obtain additional
+clarification beyond informal discussion and to make meta-mathematical
+investigations possible; it was also the ideal method for dealing with
+philosophical problems in epistemology, metaphysics and philosophy of
+language. It was Church&rsquo;s view that one who does not aspire to
+this ideal falls short. However, he also recognized that formalization
+is not always appropriate. He did not demand that the natural sciences
+be formalized and even provided an informal philosophical discussion
+of semantics in the introductory chapter of his <em>Introduction to
+Mathematical Logic</em> (1956a). The theories and arguments discussed
+in this article describe and illustrate Church&rsquo;s logistic
+method.</p>
+
+<p>
+In the following, we often use the notational conventions that Church
+adopted from <em>Principia Mathematica</em> (Whitehead &amp; Russell
+1910; hereafter PM). When we do so, these conventions are explained
+and sometimes compared with modern notation.</p>
+</div> 
+
+<div id="toc"><!--Entry Contents-->
+<ul>
+	<li><a href="#CompChurThes">1. Computability and Church&rsquo;s Thesis</a>
+
+	<ul>
+		<li><a href="#ChurSemiPape">1.1 Church&rsquo;s Seminal Paper</a></li>
+		<li><a href="#WhatChurThes">1.2 What is Church&rsquo;s Thesis?</a></li>
+		<li><a href="#RoleCT1">1.3 The Role of CT1</a></li>
+		<li><a href="#ExteEvid">1.4 The External Evidence</a></li>
+		<li><a href="#InteEvid">1.5 The Internal Evidence</a></li>
+	</ul>
+	</li>
+	<li><a href="#PhilLogi">2. Philosophy of Logic</a>
+	<ul>
+		<li><a href="#PhilLogiLogiMeth">2.1 Philosophy of Logic and the Logistic Method</a></li>
+		<li><a href="#AdopFormLang">2.2 Adopting a Formalized Language</a></li>
+		<li><a href="#LogiComm">2.3 Logic and Communication</a></li>
+	</ul>
+	</li>
+	<li><a href="#ApplLogiMeth">3. Applications of the Logistic Method</a>
+	<ul>
+		<li><a href="#AgaiLogiEmpi">3.1 Against Logical Empiricism</a></li>
+		<li><a href="#SlinArgu">3.2 The Slingshot Argument</a></li>
+		<li><a href="#TranArgu">3.3 The Translation Argument</a></li>
+		<li><a href="#ParaAnal">3.4 The Paradox of Analysis</a></li>
+		<li><a href="#LogiSensDeno">3.5 The Logic of Sense and Denotation</a></li>
+	</ul>
+	</li>
+	<li><a href="#Para">4. Paradox</a>
+	<ul>
+		<li><a href="#AntiChurWork">4.1 Antinomy in Church&rsquo;s Work</a></li>
+		<li><a href="#GrelPara">4.2 Grelling&rsquo;s Paradox</a></li>
+		<li><a href="#CompRussTars">4.3 Comparing Russell and Tarski</a></li>
+		<li><a href="#DeriDissGP">4.4 The Derivation and Dissolution of GP</a></li>
+		<li><a href="#RussMyhiPara">4.5 The Russell-Myhill Paradox</a></li>
+		<li><a href="#KnowabPara">4.6 Knowability Paradox</a></li>
+	</ul>
+	</li>
+	<li><a href="#FounMath">5. Foundations of Mathematics</a>
+	<ul>
+		<li><a href="#AtteTypeFreeFoun">5.1 Attempts at Type-Free Foundations</a></li>
+		<li><a href="#TypeTheoVsSetTheoFoun">5.2 Type-theoretic vs. Set-theoretic Foundations</a></li>
+		<li><a href="#LogiIntu">5.3 Logicism and Intuitionism</a></li>
+		<li><a href="#SignGdelTheoContProb">5.4. The Significance of G&ouml;del&rsquo;s Theorems and the Continuum Problem</a></li>
+	</ul>
+	</li>
+	<li><a href="#Meta">6. Metaphysics</a>
+	<ul>
+		<li><a href="#MetaLogiMeth">6.1 Metaphysics and the Logistic Method</a></li>
+		<li><a href="#ChurModeReal">6.2 Church&rsquo;s Modest Realism</a></li>
+		<li><a href="#RealAbouProp">6.3 Realism about Propositions</a></li>
+	</ul>
+	</li>
+	<li><a href="#Bib">Bibliography</a>
+	<ul>
+		<li><a href="#PrimSour">Primary Sources</a></li>
+		<li><a href="#SecoSour">Secondary Sources</a></li>
+	</ul>
+	</li>
+	<li><a href="#Aca">Academic Tools</a></li>
+	<li><a href="#Oth">Other Internet Resources</a></li>
+	<li><a href="#Rel">Related Entries</a></li>
+</ul>
+<!--Entry Contents-->
+
+<ul>
+	<li>List of Supplements
+	<ul>
+		<li><a href="supplementA.html">A. Church on Computability</a> (for &sect;1)</li>
+		<li><a href="supplementB.html">B. Early Philosophy of Logic and Metaphysics</a> (for &sect;2)</li>
+		<li><a href="supplementC.html">C. Applications of the Logistic Method</a> (for &sect;3)</li>
+		<li><a href="supplementD.html">D. The &lambda;-Calculus and Type Theory</a> (for &sect;&sect;3, 4, 5)</li>
+		<li><a href="supplementE.html">E. Philosophy of Language</a> (for &sect;&sect;3, 4)</li>
+		<li><a href="supplementF.html">F. Paradox and Comparison with Tarski</a> (for &sect;4)</li>
+	</ul>
+	</li>
+</ul>
+
+<hr /></div>
+
+<div id="main-text">
+
+<h2 id="CompChurThes">1. Computability and Church&rsquo;s Thesis</h2>
+
+<h3 id="ChurSemiPape">1.1 Church&rsquo;s Seminal Paper</h3>
+
+<p>
+Church was the first to devise a formalism&mdash;the
+&lambda;-calculus&mdash;within which it was possible to define a class
+of functions that coincide, arguably, with the intuitively computable
+functions&mdash;those that can be evaluated by means of an algorithm,
+i.e., a computer program. He also provided, again arguably, the first
+example of a particular significant function that is <em>not</em>
+computable. (Other examples, due independently to Kleene (1936) and
+Turing (1936) followed quickly.) He did this by constructing a
+function that is provably not recursive in the sense defined slightly
+earlier by G&ouml;del and Herbrand. He then appealed to the assumption
+that <em>any intuitively computable function is recursive</em> to
+conclude that the function in question is not computable&mdash;in
+Church&rsquo;s terminology it is not <em>effectively calculable</em>.
+(We will continue to use the terms &ldquo;computable&rdquo; and
+&ldquo;intuitively computable&rdquo; rather than &ldquo;effectively
+calculable&rdquo; since they are more readily understood by
+non-specialists.) Given the nature of this function, this meant that a
+certain problem of elementary number theory is unsolvable: there is no
+way it could be solved by algorithmic means. It also implied a
+negative solution to the <em>Entscheidungsproblem</em> first
+enunciated by Hilbert and Ackerman (1928): the problem whether there
+is a decision procedure for first order logic. The italicized
+assumption later came to be known as &ldquo;Church&rsquo;s
+thesis&rdquo; (Kleene 1952).</p>
+
+<p>
+The paper in which this result is presented, entitled &ldquo;An
+Unsolvable Problem of Elementary Number Theory&rdquo; (1936a), is a
+great classic of logic and computability theory, but it has been
+somewhat overshadowed by the almost contemporaneous and brilliant
+paper by Turing (1936), as well as the earlier remarkable
+incompleteness theorems of G&ouml;del (1931). In this section,
+Church&rsquo;s paper takes center stage.</p>
+
+<p>
+Section 7 of Church&rsquo;s paper contains the first explicit
+formulation of Church&rsquo;s thesis (apart from a preliminary
+statement in 1935c):</p>
+
+<blockquote>
+
+<p>
+We now define the notion, already discussed, of an effectively
+calculable function of positive integers by identifying it with the
+notion of a recursive function of positive integers (or of a
+lambda-definable function of positive integers). This definition is
+thought to be justified by the considerations which follow, so far as
+positive justification can ever be obtained for the selection of a
+formal definition to correspond to an intuitive notion. (1936a [BE:
+119])</p>
+</blockquote>
+
+<p>
+Church goes on to consider two natural ways one might seek to expand
+the notion of computability beyond that of recursiveness (or
+&lambda;-definability) and he argued that each of these methods
+results in functions that are already recursive (and
+&lambda;-definable) and so concludes:</p>
+
+<blockquote>
+
+<p>
+Thus it is shown that no more general definition of effective
+calculability than that proposed above can be obtained by either of
+two methods which naturally suggest themselves (1) by defining a
+function to be effectively calculable if there exists an algorithm for
+the calculation of its values (2) by defining a function \(F\) (of one
+positive integer) to be effectively calculable if, for every positive
+integer \(m\), there exists a positive integer \(n\) such that \(F(m)
+= n\) is a provable theorem. (1936a [BE: 121])</p>
+</blockquote>
+
+<p>
+Kleene (1952: 222&ndash;223) discusses these two classic arguments for
+Church&rsquo;s thesis. (See
+ <a href="supplementA.html#ChurStepRecuStepArgu">supplement A.2</a>
+ for further details.)</p>
+
+<h3 id="WhatChurThes">1.2 What is Church&rsquo;s Thesis?</h3>
+
+<p>
+Church&rsquo;s thesis is the first of the following two propositions,
+but the second plays an important role in discussions of the first. We
+use the term &ldquo;CT&rdquo; for the conjunction of the two:</p>
+
+<dl class="sentag tag3em">
+<dt id="propCT1">CT1</dt>
+<dd>Every intuitively computable function is recursive</dd>
+<dt id="propCT2">CT2</dt>
+<dd>Every recursive function is intuitively computable.</dd>
+</dl>
+
+<p>
+CT might be formulated in terms of &lambda;-definability or Turing
+computability or a number of other distinct mathematical conditions
+known to be extensionally equivalent to recursiveness. Despite these
+equivalences, the differences are significant. On several occasions,
+G&ouml;del expressed a strong preference for Turing&rsquo;s analysis
+and there are good reasons for G&ouml;del&rsquo;s preference. These
+are amply detailed elsewhere (see the entry on the
+ <a href="../church-turing/">Church-Turing thesis</a>
+ as well as Davis 1965). Church himself thought that Turing&rsquo;s
+analysis was superior to his:</p>
+
+<blockquote>
+
+<p>
+computability by a Turing machine &hellip; has the advantage of making
+the identification with effectiveness in the ordinary (not explicitly
+defined) sense evident immediately. (Church 1937a [BE: 934])</p>
+</blockquote>
+
+<p>
+The identification of &lambda;-definability with intuitive
+computability was certainly not &ldquo;evident immediately&rdquo;. In
+fact, Church&rsquo;s student, Stephen Cole Kleene, reports that it
+only gradually dawned on Church, Rosser (J. Barkley Rosser, also
+Church&rsquo;s student), and himself that &lambda;-definability may
+serve as a precise counterpart of intuitive computability (Kleene
+1981). Kleene also describes the difficulty of giving
+&lambda;-definitions of certain basic number theoretic
+functions&mdash;particularly the predecessor function&mdash;given the
+particular way Church gives &lambda;-expressions standing for integers
+(1981: 56; these &lambda;-expressions are described in
+ <a href="supplementD.html">supplement D</a>).
+ But the fundamental difficulty with
+ <a href="#propCT1">CT1</a>
+ as Church (1936a) enunciates it is that it is given as a definition
+without any accompanying justification other than a brief sketch of a
+proof of the extensional equivalence of &lambda;-definability and
+recursiveness (Kleene [1936] gives a more detailed proof). G&ouml;del
+complained of exactly this:</p>
+
+<blockquote>
+
+<p>
+He [G&ouml;del] insisted &hellip; that it was &ldquo;thoroughly
+unsatisfactory&rdquo; to define the effectively calculable functions
+to be some particular class without first showing that &ldquo;the
+generally accepted properties&rdquo; of the notion of effective
+calculability necessarily lead to this class. (Davis 1982:12)</p>
+</blockquote>
+
+<p>
+G&ouml;del eventually held up Turing&rsquo;s analysis as a better
+model of computation precisely because Turing justifies the
+identification of intuitive computation with Turing machine
+computation on the basis of a detailed analysis of what a human
+computer, equipped with paper and pencil, must actually do (Turing
+1936: &sect;9). It seems that a counterpart of Turing&rsquo;s
+compelling analysis has yet to be given for the case of
+&lambda;-computation. It should be emphasized, however, that
+Church&rsquo;s main aim was not to defend an analysis of computability
+but rather to set the stage for a proof that a particular number
+theoretic combinatorial problem is not solvable. So long as
+computation is defined as a finite process, cardinality considerations
+imply that non-computable functions must exist, and Church wished to
+demonstrate that his combinatorial problem was one of these.</p>
+
+<p>
+For most of its life, Church&rsquo;s view&mdash;that
+ <a href="#propCT1">CT1</a>
+ is not subject to mathematical proof, or any sort of mathematical
+treatment at all&mdash;has prevailed. But some such as Shoenfield,
+(and Church himself), have observed that
+ <a href="#propCT2">CT2</a>
+ is subject to intuitive proof <em>despite</em> the lack of a
+mathematically precise definition of &ldquo;computable&rdquo;
+(Shoenfield 1967: 120). Shoenfield&rsquo;s view of CT2 has been
+seconded by Kripke. All that is needed, Kripke says, is &ldquo;just a
+direct argument&rdquo; (2013). Moreover, Kripke and others (e.g.,
+Mendelson 1990) have challenged the received view that CT1 is not
+amenable to mathematical treatment. Accordingly, the discussion of CT1
+divides into two parts: The first part is the evidence usually adduced
+for CT1 on the assumption that it is a definition or hypothesis not
+amenable to proof; and the second part is the evidence derived from
+recent attempts to support CT1 by mathematical arguments. The first
+sort of evidence we may term &ldquo;external&rdquo; and the second
+&ldquo;internal&rdquo;. The emphasis in what follows is on
+Church&rsquo;s role in these developments.</p>
+
+<h3 id="RoleCT1">1.3 The Role of CT1</h3>
+
+<p>
+In Church&rsquo;s terms, the decision problem for a logistic system is
+the problem of finding</p>
+
+<blockquote>
+
+<p>
+an effective procedure, a <em>decision procedure</em>, by which, for
+an arbitrary wff of the system, it is possible to determine whether or
+not it is a theorem (and if it is a theorem, to obtain a proof of it).
+(1956a: 273)</p>
+</blockquote>
+
+<p>
+In a footnote, Church remarked that from a classical point of view,
+the parenthetical condition is not required, but is in &ldquo;the
+direction of&rdquo; intuitionism, which he described as
+&ldquo;radical&rdquo;, but the proviso nonetheless was, in subsequent
+parts of his 1956a, always included. But such a determination must be
+made on the basis of a precise counterpart of the concept of an
+effective procedure, such as a recursive or &lambda;-definable
+procedure. In case there is a positive result,
+ <a href="#propCT2">CT2</a>
+ allows one to infer that a computable (effective) procedure exists;
+and if the result is negative,
+ <a href="#propCT1">CT1</a>
+ allows the inference to its non-existence. This has been the role of
+CT in computability theory and the development of logic. A
+particularly telling example is Church&rsquo;s negative solution to
+the <em>Entscheidungsproblem</em>&mdash;the decision problem for first
+order logic, now known as &ldquo;Church&rsquo;s theorem&rdquo;
+(1936b). It was felt that a positive solution would render mathematics
+completely mechanical at least in principle. Every mathematical
+problem could in principle be solved by an algorithm. On the other
+hand, the shape of a negative solution was a mystery. It is reported
+that von Neumann declared that &ldquo;We have no clue how to prove
+it&rdquo; (Gandy 1988: 62). Church&rsquo;s result rendered a negative
+solution conceivable and gave some hope that the solution to
+mathematical problems would continue to require human ingenuity. In
+any case, appeals to CT1 have sometimes been viewed as part of the
+<em>proofs</em> giving the solutions to decision problems and
+sometimes not, depending on the required degree of formalization. To
+prove, for example, that some axiomatic theory is undecidable is to
+prove that its set of theorems is not recursive (or not Turing
+computable, etc.) and the appeal to CT1 often comes after the strictly
+mathematical work. However, it has not been common to suggest that one
+or other of the precise counterparts of intuitive computability should
+actually <em>replace</em> it; and although G&ouml;del comes close to
+such a view (in the case of Turing computability), this is not the
+standard view. Other reductions of intuitive notions to mathematical
+terms have often been viewed as replacements (cf. Mendelson 1990); but
+there has been resistance to this view in the case of Church&rsquo;s
+thesis, for otherwise logicians should long ago have ceased to speak
+of intuitive computability (effective calculability).</p>
+
+<p>
+However, significant developments in computability theory often take
+the form of informal mathematics, as with the rest of mathematics. An
+informal method of computation is given, where it is clear that it
+could be replaced by a formal one although such a demonstration might
+be thought to be unnecessary or cumbersome. To give a simple example:
+Proofs of Craig&rsquo;s theorem that any recursively enumerable set of
+formulas is recursively axiomatizable often take the form of an
+informal argument that the set of Craig-axioms is decidable; and then
+ <a href="#propCT1">CT1</a>
+ is applied to conclude that it is recursive (cf. Craig 1953). Rogers
+(1967) gives many examples of the role of informal mathematics in
+conjunction with CT1 in computability theory. In fact, Rogers&rsquo;
+classic text uses informal mathematics together with Church&rsquo;s
+thesis in its positive (non-contrapositive) form to develop recursive
+function theory as a whole. By contrast, Davis (1958) gives a fully
+formal account and so uses CT1 mainly in its contrapositive form, or,
+equivalently, in its positive form but resting on a <em>reductio</em>
+assumption. A third role of CT1 has been to motivate the proofs that
+certain basic sets and relations are recursive. For example,
+membership in the set of formulas of a standard formalized language is
+intuitively computable. Hence by CT1 it must be recursive, but a proof
+that it is recursive can be surprisingly complex (see Boolos et al.
+2007: Ch. 15).</p>
+
+<h3 id="ExteEvid">1.4 The External Evidence</h3>
+
+<p>
+The classic account of the external evidence for
+ <a href="#propCT1">CT1</a>
+ is by Kleene (1952: 318&ndash;323). Kleene organizes the evidence
+under four headings:</p>
+
+<dl class="sentag">
+<dt id="klA">(A)</dt>
+<dd>Heuristic evidence,</dd>
+<dt id="klB">(B)</dt>
+<dd>Equivalence of diverse formulations,</dd>
+<dt id="klC">(C)</dt>
+<dd>Turing&rsquo;s concept of a Turing machine, and</dd>
+<dt id="klD">(D)</dt>
+<dd>Symbolic logics and symbolic algorithms.</dd>
+</dl>
+
+<p>
+(A) is the fact that large families of functions had been shown to be
+&lambda;-definable and hence recursive. (B) is the striking fact that
+the various mathematically precise counterparts of
+computability&mdash;&lambda;-definability, recursiveness, Turing
+computability and others of the period due to G&ouml;del and
+Post&mdash;despite being technically quite different from one
+another&mdash;turn out to lead to the same class of functions. (Not
+everyone is impressed by this &ldquo;confluence&rdquo; of definitions;
+cf. Kreisel 1987.) As for (C), Kleene observes that Turing&rsquo;s
+analysis constitutes a direct attempt to give a mathematical account
+of the actions of a human computor and thus differs from the other
+analyses (in terms of recursiveness and &lambda;-definability), which
+&ldquo;arose differently&rdquo;. He remarks that Turing&rsquo;s
+identification of intuitive computability with computability by a
+(Turing) machine constitutes an &ldquo;independent statement of
+Church&rsquo;s thesis&rdquo;. For this reason
+ <a href="#propCT1">CT1</a>
+ has come to be known as the Church-Turing Thesis. Both Church (1937b)
+and Kleene (1952) also note that Post (1936) independently gives an
+analysis very similar to Turing&rsquo;s. Perhaps, then, CT1 should
+properly be known as the Church-Turing-Post-Thesis.</p>
+
+<p>
+Kleene&rsquo;s (D) consists of the two arguments mentioned earlier by
+Church (1936a: section 7). The first argument is that the notion of
+computation by means of an algorithm does not lead outside the class
+of recursive functions (cf. Shoenfield [1967: 120] for an argument of
+the same sort). The second of these concerns the relation between
+recursive functions and formal systems of &ldquo;symbolic
+logic&rdquo;. Church argues that in any such system whose set of
+theorems is recursively enumerable, if \(f\) is a unary
+(&ldquo;singulary&rdquo; is Church&rsquo;s term) function of positive
+integers and if it is true that</p> 
+\[\tag{*} f(m) = n,\]
+
+<p>
+for integers \(m\) and \(n\), then (in essence) \((*)\) is provable in
+the system; and if \((*)\) is false, then it is not provable in the
+system, then \(f\) is recursive. See
+ <a href="supplementA.html#ChurStepRecuStepArgu">supplement A.2</a>
+ for a more detailed discussion of this controversial
+argument&mdash;controversial because Church simply <em>assumes</em>
+that the set of axioms and rules of a symbolic logic must be
+recursive, and this has seemed to some to beg the question of the
+truth of
+ <a href="#propCT1">CT1</a>
+ and thus to constitute a &ldquo;stumbling block&rdquo; to the
+acceptance of Church&rsquo;s argument (Sieg 1997).</p>
+
+<h3 id="InteEvid">1.5 The Internal Evidence</h3>
+
+<p>
+Mendelson challenged the view that
+ <a href="#propCT1">CT1</a>
+ is not subject to mathematical treatment by citing cases in which an
+intuitive concept has literally been <em>replaced</em> by a
+corresponding mathematically precise one. It is not a mere
+<em>thesis</em> that the limit concept, for example, is given by the
+familiar epsilon-delta definition. The definition replaces the
+intuitive concept (Mendelson 1990). Others have gone further, arguing
+that computability may be taken as a primitive concept subject to an
+axiomatic treatment, as G&ouml;del had once suggested (according to
+Church&rsquo;s letter to Kleene, 1935d [BE: 1000]). Sieg proposes an
+axiomatization based on Turing&rsquo;s analysis of a person who
+computes (&ldquo;a computor&rdquo;). In section 9 of his (1936),
+Turing argues (argument I) that the Turing machine is a good model of
+a computor, who, as such, is subject to certain constraints such as
+that</p>
+
+<ol type="a">
+
+<li>the behavior of the computor is completely determined by the
+symbols observed and the computor&rsquo;s state of mind;</li>
+
+<li>that there is a finite bound on the number of symbols observed at
+any one time;</li>
+
+<li>that only a finite number of states of mind are involved at any
+one time (a condition that G&ouml;del [1972] disputed); and</li>
+
+<li>that each newly observed symbol is within finitely many steps of
+earlier ones.</li>
+</ol>
+
+<p>
+Sieg, building on work of Gandy, formulates axioms corresponding to
+such conditions and claims that these constitute an axiomatization of
+computability (Gandy 1988; Sieg 1997).</p>
+
+<p>
+In a recent paper (2013), Kripke argues that
+ <a href="#WhatChurThes">CT</a>
+ may be regarded as a &ldquo;special corollary&rdquo; of the
+completeness theorem for first order logic. Kripke&rsquo;s argument is
+reminiscent of one given earlier by Kreisel (1987) concerning, not CT,
+but rather the relation between informal validity, on the one hand,
+and formal validity and provability on the other. It is useful to
+consider Kreisel&rsquo;s argument first and Kripke&rsquo;s afterwards
+(some details of the following are not Kreisel&rsquo;s):</p>
+
+<p>
+Let \(TA\), \(VA\), and \(DA\) mean respectively that \(A\) is a first
+order translation of an informal argument that is intuitively valid
+&ldquo;in virtue of form alone&rdquo;, that \(A\) is valid according
+to the standard model theoretic definition of validity for first order
+logic, and that \(A\) is derivable in a first order formal system of
+deduction, \(D\), that is sound and complete in the usual sense. Then
+informally, we have that \(DA\) implies \(TA\). If an argument is
+formally derivable, we regard it as valid in virtue of its form alone.
+At least that is often taught to students. And also \(TA\) implies
+\(VA\)&mdash;something also taught to students. By completeness,
+\(VA\) implies \(DA\). And so it follows that \(TA\)&mdash;an informal
+notion&mdash;is equivalent to \(DA\), a formal notion, for the case of
+first order logic. (It might be assumed in addition that any
+intuitively valid argument is formalizable in a first order language,
+but Kreisel does not assume this.)</p>
+
+<p>
+Now, Kripke summarizes his argument as follows:</p>
+
+<blockquote>
+
+<p>
+Suppose one has any valid argument whose steps can be stated in a
+first-order language. It is an immediate consequence of the G&ouml;del
+completeness theorem for first-order logic with identity that the
+premises of the argument can be formalized in any conventional formal
+system of first-order logic. Granted that the proof relation of such a
+system is recursive (computable), it immediately follows in the
+special case where one is computing a function (say, in the language
+of arithmetic) that the function must be recursive (Turing
+computable). (2013: 81)</p>
+</blockquote>
+
+<p>
+Kripke assumes &ldquo;Hilbert&rsquo;s thesis&rdquo;:</p>
+
+<blockquote>
+
+<p>
+namely that the steps of any mathematical argument can be given in a
+language based on first order logic (with identity)</p>
+</blockquote>
+
+<p>
+and he assumes that the proof relation is recursive and hence that the
+provability relation is semirecursive. Thus, the argument runs as
+follows: (1) Let \(A\) be a valid mathematical argument that is a
+calculation, &ldquo;where one is computing a function (say, in the
+language of arithmetic)&rdquo;. Then, (2) by Hilbert&rsquo;s thesis,
+the steps of \(A\) can be stated in a first order language (and so the
+premises and conclusion of \(A\) can be stated in such a language).
+But then (3) by the completeness theorem, there is a formal derivation
+of the conclusion of \(A\)&mdash;the final result of the
+calculation&mdash;from its premises, and so (4) &ldquo;it immediately
+follows&rdquo; that the function representing the calculation is
+recursive. This is a proof of Church&rsquo;s thesis, assuming
+Hilbert&rsquo;s, and, as Kripke mentions, it might therefore be viewed
+alternatively as a reduction of Church&rsquo;s thesis to
+Hilbert&rsquo;s.</p>
+
+<p>
+The similarity to Kreisel&rsquo;s argument is clear: Define \(C(A)\)
+to mean that \(A\) is a is correct mathematical calculation; then by
+Hilbert&rsquo;s thesis, \(C(A)\) implies \(V(A)\) and by completeness
+\(C(A)\) implies \(D(A)\). Moreover, apart from the appeal to the
+completeness theorem, Kripke&rsquo;s argument is essentially the same
+as the Church-Kleene argument mentioned earlier and discussed in
+ <a href="supplementA.html#ChurUnsoProb">supplement A.1</a>:</p>
+ 
+<blockquote>
+
+<p>
+It is because of these considerations that I take myself to be
+reviving somewhat neglected arguments already given by Church, and
+especially Turing. (Kripke 2013: 81)</p>
+</blockquote>
+
+<p>
+One important consequence of Kripke&rsquo;s argument, in particular,
+is that as he observes, there is&mdash;and has been from the
+beginning&mdash;a characterization of computable functions in terms of
+first order provability that is fully equivalent to the others (2013:
+82).</p>
+
+<h2 id="PhilLogi">2. Philosophy of Logic</h2>
+
+<p>
+In this section we describe how Church&rsquo;s wove certain
+philosophical doctrines about logic into the fabric of formal,
+mathematical logic as he presented it in (Church 1956a, 1959, 1962b,
+1956&ndash;72). Church&rsquo;s early philosophy of logic is described
+in
+ <a href="supplementB.html">supplement B</a>.</p>
+ 
+<h3 id="PhilLogiLogiMeth">2.1 Philosophy of Logic and the Logistic Method</h3>
+
+<p>
+In Church&rsquo;s philosophy of logic, the phenomenon of deductive
+reasoning is assumed to be &ldquo;already known, from experience with
+particular instances of it&rdquo; and the stated goal of logic is to
+provide a theory of such reasoning</p>
+
+<blockquote>
+
+<p>
+plus whatever is required in object language or metalanguage for the
+adequacy, generality, and simplicity of the theory. (1962b [BE:
+608])</p>
+</blockquote>
+
+<p>
+This attitude required Church to accept not only first order logic but
+also the logic of second and higher orders, so that he could study
+logic in all its generality. It was not enough to accept, for example,
+&ldquo;\((x) F(x) \supset F(y)\)&rdquo;, because there are infinitely
+many sentences of this form requiring one to also accept
+&ldquo;\((F)(y) \hdot (x) F(x) \supset F(y)\)&rdquo; &ldquo;by
+generalization from infinitely many analytic sentences of the
+appropriate form&rdquo; (1962b [BE: 608]). (Note Church&rsquo;s
+notational convention that a dot placed before a connective or (as
+above) a quantifier brackets a proposition.)</p>
+
+<p>
+Another consideration Church offered in favor of second order logic
+was the more pragmatic one that a greater understanding of
+mathematical theories could be obtained by comparing their
+formulations in first and second order languages (1956a: chapter V).
+(Discussion of this topic is beyond the scope of this entry; but see
+Myhill (1953), Shapiro (1991, 2001), Button and Walsh (2018) and the
+citations therein. See also the entries on
+ <a href="../model-theory/">model theory</a>,
+ <a href="../logic-higher-order/">second and higher order logic</a>, and
+ <a href="../paradox-skolem/">Skolem&rsquo;s Paradox</a>.)</p>
+ 
+<p>
+Church&rsquo;s philosophy of logic was shaped not only on the one hand
+by a belief in the generality of logic but also on the other by the
+need to avoid the paradoxes to be discussed in
+ <a href="#Para">section 4</a>.
+ In order to avoid the paradoxes to which Frege&rsquo;s position lead,
+Church was forced to work primarily within a type-theoretic
+framework&mdash;the logic of second, third and higher orders up to and
+including <em>w</em>&mdash;with different kinds of variables, with
+different restricted domains of individuals, classes, relations, etc.
+(Church&rsquo;s type theory is described in
+ <a href="supplementD.html">supplement D</a>.)
+ Moreover, as we will now see, Church departed even further from Frege
+and Russell by presenting these ideas in terms of conventional model
+theory.</p>
+
+<p>
+The purpose of formal logic, in Church&rsquo;s view, was first and
+foremost to study the <em>form</em> of correct deductive reasoning in
+abstraction from its subject matter (1956a: &sect;00). For Church,
+deductive reasoning operates on propositions, and so the study of such
+reasoning is the study of the logical form of propositions&mdash;which
+Church distinguished from their &ldquo;content&rdquo; or
+&ldquo;matter&rdquo; (ibid)&mdash;via the study of the logical forms
+of sentences that express them (ibid; cf. 1959 [BE: 475]). This way of
+studying logical form invoked what Church called the &ldquo;logistic
+method&rdquo; (1956a). This required him to distinguish between
+informal languages and formalized languages, because</p>
+
+<blockquote>
+
+<p>
+the natural languages, including English, have been evolved over a
+long period of history to serve practical purposes of facility of
+communication, and these are not always compatible with soundness and
+precision of logical analysis&hellip; To adopt a particular language
+thus involves adopting a particular theory or system of logical
+analysis. (1956a: &sect;00)</p>
+</blockquote>
+
+<p>
+In order to adopt a formal language, one first devises what Church
+calls &ldquo;a particular theory or system&rdquo; (1956a [BE: 373]),
+which is a syntactic theory. This specifies the <em>primitive
+symbols</em> and <em>formation rules</em> for building <em>the
+well-formed expressions (the wffs)</em> of the theory, as well as what
+are the <em>axioms</em> and <em>inference rules.</em> The
+<em>theorems</em> are the wffs that occur at the end of
+<em>proofs</em>, which are themselves specified as finite sequences of
+wffs that are either axioms or inferable from prior wffs in the
+sequence according to the inference rules. In order for this theory to
+serve as a <em>language</em>, it must be provided with semantic rules
+that assign <em>designata</em> (or denotations) to the names of the
+theory, as well as <em>values</em> to expressions containing free
+occurrences of variables.</p>
+
+<p>
+The logical forms of sentences are the ways that sentences are built
+up from the logical particles. From this perspective, to say that a
+wff B is a <em>logical consequence</em> of a set of wffs \(\Sigma\) is
+to say that the logical forms of B and the wffs in \(\Sigma\) are so
+related that if the wffs in \(\Sigma\) are true, so is B. Moreover,
+since logical form is sufficient to ensure this, for any argument of
+<em>the same logical form</em>, if the premises are true, so is the
+conclusion. This leads to the now familiar idea that</p>
+
+<blockquote>
+
+<p>
+the proof of a theorem (of the object language) shall make no
+reference to or use of any interpretation, but shall proceed purely by
+the rules of the logistic system. (1956a: &sect;07)</p>
+</blockquote>
+
+<p>
+Church gave three reasons for this requirement. First, it adheres to
+extant standards of mathematical rigor. Secondly, reasoning purely by
+the rules of the logistic system is safer than reasoning about any
+interpretation one may wish to adopt, because&mdash;as is discussed in
+2.2&mdash;the object language is set up using an informal
+meta-language that is &ldquo;so elementary and restricted that its
+essential reliability can hardly be doubted if mathematics is to be
+possible at all&rdquo; (1956a [BE: 415]). Finally, it allows one to
+draw a precise distinction between form and content:</p>
+
+<p>
+Returning to B and \(\Sigma\), if the former is a logical consequence
+of the latter, then, if we do <em>not</em> reinterpret the logical
+particles but <em>do</em> reinterpret the nonlogical vocabulary by
+associating it with different rules, then it will still be the case
+that if all the wffs in \(\Sigma\) are true, so is B. In this way, we
+can isolate the form of a proposition by studying the corresponding
+sentence and reinterpreting its non-logical vocabulary.</p>
+
+<p>
+This, of course, is the now conventional model-theoretic treatment of
+logical consequence originally due to Tarski (1937 [1941]) and
+extended to the logic of higher orders by Church&rsquo;s student Leon
+Henkin (1950), which is presented in Church (1956a). (For more on
+Henkin&rsquo;s contribution, see the entries on
+ <a href="../logic-higher-order/">second and higher order logic</a>
+ and on
+ <a href="../type-theory-church/">Church&rsquo;s type theory</a>.)
+ It should be noted that Church, in addition to working in classical
+model theory with restricted universes that can be accommodated in ZF
+set theory, was also willing to allow the existence of a universal set
+(1974c). Further, he not only distinguished between sharply between
+model theoretic interpretations and intended interpretations (1956a),
+but also argued that giving a particular model theoretic
+interpretation of a formal language was not sufficient for describing
+its logic. In particular, he argued that giving a formal language
+containing empty names (like &lsquo;Pegasus&rsquo;) an interpretation
+with inner and outer domains that invalidates Existential
+Generalization (as well as, presumably, Universal Instantiation) was
+not sufficient for describing the logic of that language (1965).</p>
+
+<h3 id="AdopFormLang">2.2 Adopting a Formalized Language</h3>
+
+<p>
+Central to the logistic method is the process of adopting a formalized
+language. This process takes place in an informal meta-language (such
+as a fragment of English) that</p>
+
+<blockquote>
+
+<p>
+deals with matters of everyday human experience, going beyond such
+matters only in that no finite upper limit is imposed on the number of
+objects that may be involved in any particular case, or on the time
+that may be required for their manipulation according to instructions.
+(1956a: &sect;07)</p>
+</blockquote>
+
+<p>
+Included in Church&rsquo;s description of the process of adopting a
+formalized language is that one first specifies the primitive symbols
+and formation rules, which together with the axioms and inference
+rules constitute <em>the primitive basis</em> of the logistic system
+(which will become a language once semantical rules are added). The
+description of this process assumes that the person who undergoes it
+has a stock of information about language and the world, the ability
+to understand definitions (such as the definition of &ldquo;primitive
+symbol&rdquo;) as well as the ability to understand and follow
+instructions. Church also provided a rational reconstruction of how we
+learn our first language and suggested that this method could, in
+principle, be used to learn a formalized language rather than a
+natural language as a first language:</p>
+
+<blockquote>
+
+<p>
+Some part of the language must first be learned approximately by the
+method of example and imitation; then this imprecisely known part of
+the language is applied in order to state rules of the language (and
+perhaps to correct initial misconceptions); then the known part of the
+language may be extended by further learning by example and imitation,
+and so on in alternate steps, until some precision in knowledge of the
+language is reached. There is no reason in principle why a first
+language, learned in this way, should not be one of the formalized
+languages of this book, instead of one of the natural languages.
+(1956a: &sect;07)</p>
+</blockquote>
+
+<p>
+This assumes that the person who undergoes this process can not only
+state rules but also apply them, so it assumes that such a person can
+reason as well as imitate behavior. In this way, it resembles,
+somewhat, Church&rsquo;s earlier philosophy of logic in which he
+distinguished between <em>intuitive</em> logic and <em>formal</em>
+logic and maintained that intuitive logic cannot be learned and is a
+precondition of reasoning in formal logic. (Church&rsquo;s early
+philosophy of logic is described in
+ <a href="supplementB.html">supplement B</a>.)
+ One reason for the absence of the locution &ldquo;intuitive
+logic&rdquo; from Church&rsquo;s mature philosophy might be that he
+wanted to avoid the impression that there is some essential difference
+between what should take place in an informal meta-language and what
+should take place in a formalized object language. In fact, he was
+adamant that basic deductive reasoning should not <em>have to</em>
+take place in an informal meta-language. Rather, once the object
+language has been set up it</p>
+
+<blockquote>
+
+<p>
+shall be an independent language capable, without continued support
+and supplementation from the meta-language, of expressing those things
+for which it was designed. (1956a: fn. 121)</p>
+</blockquote>
+
+<p>
+The idea is that a person who can already reason as well as use an
+informal meta-language to set up the object language can come to
+reason with greater rigor and to a greater extent in the object
+language. At which point, having pulled herself up by her bootstraps,
+she should no longer have any need for an informal meta-language. (Of
+course, a meta-language is still needed to prove certain meta-theorems
+about the object language such as its consistency.)</p>
+
+<h3 id="LogiComm">2.3 Logic and Communication</h3>
+
+<p>
+When one is setting up a logistic system, the well-formed expressions,
+axioms and rules of inference must all be specified
+<em>effectively</em> in order that there can be an effective test of
+whether a purported proof is really a proof. Intuitively, the
+requirement is that one can test&mdash;by looking at the symbols and
+following a fixed set of instructions for performing concrete
+operations with symbols&mdash;whether a given finite sequence of
+symbols is a wff, or whether a given finite sequence of wffs is a
+proof of the last wff in the sequence. In the absence of such a
+method.</p>
+
+<blockquote>
+
+<p>
+a proof would not necessarily carry conviction, the proposer of a
+proof could fairly be asked to give a proof that it was a
+proof&mdash;in short the formal analysis of what constitutes a proof
+(in the sense of a cogent demonstration) would be incomplete (1959
+[BE: 477&ndash;8]).</p>
+</blockquote>
+
+<p>
+The philosophy underlying Church&rsquo;s position is that mathematical
+proof and logical analysis&mdash;as well as other attempts at precise
+reasoning&mdash;should be <em>public</em> and <em>communicable</em>.
+Just as one should be able to convince an interlocutor that a
+mathematical proof is really a proof, so one should be able to
+convince her that an argument more generally is cogent, which will
+also require convincing her that meaningful assertions have been made.
+Further, these questions should be addressed <em>by the object
+language in which one is speaking</em> (although one will often have
+to look beyond the language to convince an interlocutor that
+one&rsquo;s assertions are true):</p>
+
+<blockquote>
+
+<p>
+But without the requirements of effectiveness, it might happen that
+someone confronted with a proof of a theorem (and admitting the axioms
+and rules of inference) might nevertheless continue to doubt the
+theorem, because of doubt that the alleged proof actually is a
+proof&hellip;. the proposer of the proof might be fairly asked to give
+supplementary proof that it is a proof&mdash;and for the purposes of
+deductive logic, this supplementary proof ought then to be treated as
+part of the whole proof, and included with it when the process of
+proof is formalized by the logistic method. (1956&ndash;71 [BE:
+703])</p>
+</blockquote>
+
+<p>
+For example, while there may be advantages to using the deduction
+theorem as a primitive rule of inference, there is also reason to
+avoid doing so, i.e., to obviate the need for supplementary proof
+(1956a: &sect;29 and fn. 181).</p>
+
+<p>
+For Church, it is constitutive of a language that it provides the
+foregoing connection between reasoning and communication:</p>
+
+<blockquote>
+
+<p>
+For, however indefinite or imprecisely fixed the common idea of a
+language may be, it is at least fundamental to it that a language
+shall serve the purpose of communication. And to the extent that
+requirements of effectiveness fail, the purpose of communication is
+defeated. (1956a: &sect;07)</p>
+
+<p>
+To say that an assertion has been made if there is a meaning evades
+the issue unless an effective criterion is provided for the presence
+of meaning. An understanding of the language, however reached, must
+include effective ability to recognize meaningfulness (in some
+appropriate sense), and in the purely formal aspect of the language,
+the logistic system, this appears as an effective criterion of
+well-formedness. (1956a: fn. 120)</p>
+</blockquote>
+
+<p>
+In short, an assertion can be recognized as meaningful only if there
+is an effective method for determining whether it is meaningful;
+Church&rsquo;s logistic method provides such a method by way of
+well-formedness. Further, since communication and conviction are at
+issue (as well as mere judgments of meaningfulness), one must also be
+able to tell <em>which</em> propositions have been asserted and, in
+particular, which ones have been proved.</p>
+
+<p>
+However, some critics have questioned the cogency of Church&rsquo;s
+philosophical arguments for his requirement of effectiveness (Anderson
+1998). Moreover, it should be noted that logical consequence is not in
+general an effective notion. By Church&rsquo;s Theorem (1936a), there
+is no effective test for deciding the validity or provability of the
+wffs of first order logic or of logics of any higher order (as Church
+himself notes; 1956&ndash;71 [BE: 703]). Further, as Church was
+acutely aware, there is a price to be paid for communicating and
+verifying proofs in a formalized language that meets the requirement
+of effectiveness. If the formalized language is sufficiently
+expressive, it will be subject to G&ouml;del&rsquo;s incompleteness
+theorems (see
+ <a href="#SignGdelTheoContProb">&sect;5.4</a>).</p>
+ 
+<p>
+It should also be noted that the question what exactly is an effective
+procedure spurred Church&rsquo;s work on effective calculability and
+the decision problem (see
+ <a href="#CompChurThes">section 1</a>).
+ It is also motivated some of his other technical work such as his
+work on constructive ordinals (1938).</p>
+
+<p>
+In addition to the requirement of effectiveness, Church also demands
+that proofs should be constructive. However, in later years his
+attitude became more ecumenical. See (1936b: fn. 10 added 1971 [BE:
+128]).</p>
+
+<h2 id="ApplLogiMeth">3. Applications of the Logistic Method</h2>
+
+<p>
+Church used the logistic method to apply the general outlook and
+specific distinctions of formal logic to problems in philosophy. In
+this section we describe five such applications.</p>
+
+<h3 id="AgaiLogiEmpi">3.1 Against Logical Empiricism</h3>
+
+<p>
+Church was never a member of the Vienna Circle and neither were Kleene
+nor Rosser (an ocean separated them from Vienna); nor did they show
+particular sympathy for the Circle and its aims. Church was, however,
+appreciative of the work of Carnap in particular (cf. Church&rsquo;s
+[1939a] review of Carnap&rsquo;s <em>Foundations of Logic and
+Mathematics</em> [1939]). But commenting on Carnap&rsquo;s
+Circle-inspired view that the sole task of philosophy is semantical
+analysis, Church remarked that this &ldquo;represents an extreme
+view&rdquo; (1943a). Church adds that, nonetheless, the importance of
+semantical investigations to philosophy should not be
+underestimated.</p>
+
+<p>
+Thus, Church was among those logicians and philosophers who did
+<em>not</em> subscribe to the Circle&rsquo;s approach to the question
+of meaning. This, of course, is not to deny that the Circle was a
+powerful force in the development of analytic philosophy (see the
+entry on
+ <a href="../logical-empiricism/">logical empiricism</a>).
+ But Church and many of his students did not participate in the
+Circle.</p>
+
+<p>
+The logical empiricists tried to explicate the notion of empirical
+verification in terms of logical entailment. We begin with their
+second attempt, an explication known as &ldquo;weak
+verifiability&rdquo;, which (like its predecessor, &ldquo;strong
+verifiability&rdquo;) was framed in terms of logical entailment or
+logical deducibility:</p>
+
+<blockquote>
+
+<p>
+<em>S</em> is empirically verifiable iff <em>S</em> logically entails
+<em>A</em>1, <em>A</em>2&hellip;,</p>
+</blockquote>
+
+<p>
+(perhaps with the help of additional premises). More specifically, the
+form A. J. Ayer initially gave to this idea was as follows:</p>
+
+<blockquote>
+
+<p>
+It is the mark of a genuine factual proposition&hellip;that some
+experiential [observation] propositions can be deduced from it in
+conjunction with certain other premises without being deducible from
+these other premises alone (1936 [1952: 38&ndash;39]).</p>
+</blockquote>
+
+<p>
+For example, from &ldquo;This is a swan&rdquo; together with
+&ldquo;All swans are white&rdquo; we can deduce &ldquo;This is
+white&rdquo; although the latter cannot be deduced from &ldquo;All
+swans are white&rdquo; alone. Thus, &ldquo;All swans are white&rdquo;
+counts as meaningful.</p>
+
+<p>
+But this is obviously unacceptable and (as with its predecessor) it is
+properties of logical entailment that cause the problem. To borrow
+Ayer&rsquo;s own example (given in the second edition of his 1936
+[1952]), from &ldquo;The Absolute is lazy&rdquo; together with
+&ldquo;If the Absolute is lazy, then this is white&rdquo;, it follows
+that &ldquo;This is white&rdquo;, and this does not follow from the
+conditional premise alone. Hence, contrary to every bone in the
+logical empiricist&rsquo;s body, &ldquo;The Absolute is lazy&rdquo; is
+meaningful. The argument can be redeployed to show that any sentence
+whatsoever is meaningful.</p>
+
+<p>
+In the second edition of <em>Language, Truth, and Logic</em>, Ayer
+attempted to remedy this problem. In a review, Church (1949a) roundly
+refuted Ayer&rsquo;s proposal. This rebuttal sent verificationism and
+logical empiricism itself into a tailspin. Carnap tried to rescue
+these doctrines by adopting an approach not based directly on logical
+entailment but this effort was refuted by Kaplan (1975a). Despite
+these difficulties, there is currently an intense revival of interest
+in the question of the empirical structure and content of scientific
+theories and in Carnap&rsquo;s work in particular (see the entry on
+ <a href="../carnap/">Rudolph Carnap</a>).</p>
+ 
+<p>
+Ayer&rsquo;s revised criterion of empirical verification is as
+follows:</p>
+
+<blockquote>
+
+<p>
+<em>S</em> is <em>directly</em> verifiable iff either <em>S</em> is an
+observation sentence or else <em>S</em>, perhaps in conjunction with
+other observation sentences <em>A</em>, <em>B</em>,
+<em>C</em>,&hellip;, logically implies an observation sentence that is
+not implied by <em>A</em>, <em>B</em>, <em>C</em>&hellip;.</p>
+</blockquote>
+
+<p>
+In addition:</p>
+
+<blockquote>
+
+<p>
+<em>S</em> is <em>indirectly</em> verifiable if and only if
+<em>S</em>, perhaps in conjunction with other sentences <em>P</em>,
+<em>Q</em>, <em>R</em>,&hellip; logically implies a directly
+verifiable sentence <em>D</em> that is not implied by <em>P</em>,
+<em>Q</em>, <em>R</em>,&hellip;. Furthermore, these sentences
+<em>P</em>, <em>Q</em>, <em>R</em> are each either analytic or
+directly verifiable.</p>
+</blockquote>
+
+<p>
+In sum:</p>
+
+<blockquote>
+
+<p>
+A sentence is meaningful if and only if it is directly or indirectly
+verifiable, or else analytic.</p>
+</blockquote>
+
+<p>
+Church argues as follows: Let \(O1,\) \(O2,\) and \(O3\) be
+independent observation sentences (no one of them entails any other),
+and suppose \(S\) is any sentence whatsoever&mdash;it might be
+&ldquo;The Nothing Nots&rdquo;. Church shows that Ayer&rsquo;s
+definition entails that either \(S\) or its negation &ldquo;It is not
+the case that the Nothing Nots&rdquo;, is meaningful. For consider the
+disjunctive sentence</p>
+
+<p>
+
+\[ R: (\nsim O1 \cdot O2) \lor (O3 \cdot \nsim S) \]
+</p>
+
+<p>
+\(R\) together with \(O1\) entails the observation sentence \(O3\) and
+hence \(R\) is directly verifiable. Also, \(S\) and \(R\) entail
+\(O2\). This means that \(S\) is indirectly verifiable,
+<em>unless</em> \(R\) alone entails \(O2\). But if \(R\) alone entails
+\(O2,\) then its right hand disjunct alone entails \(O2,\) and hence
+\(\nsim S\) is directly verifiable. So either \(S\) or \(\nsim S\) is
+meaningful and therefore many sentences that Ayer would reject as
+meaningless are meaningful according to his definitions.</p>
+
+<p>
+It is worth mentioning that the foregoing argument may <em>seem</em>
+to depend crucially on a somewhat contested feature of classical
+propositional logic. The argument appeals to the principle that if \(A
+\lor B\) logically entails \(C\), then \(B\) alone logically entails
+\(C\). But this in turn rests on the principle that \(B\) alone
+logically entails \(A \lor B\), for any \(A\), and this principle is
+rejected by so-called containment logics (for which see
+ <a href="../logic-connexive/#ConRel">&sect;3.1 of the entry on connexive logic</a>).
+ However, it is possible to revise Church&rsquo;s argument so that it
+is compatible with containment-logical principles. So in fact
+Church&rsquo;s argument is not in this way beholden to classical
+logic.</p>
+
+<h3 id="SlinArgu">3.2 The Slingshot Argument</h3>
+
+<p>
+In Frege&rsquo;s logical system, declarative sentences stand for
+(<em>bedeuten</em>) truth values, which are two distinct abstract
+objects in Frege&rsquo;s ontology. Thus Frege treated such sentences
+as a special kind of name. But others, Carnap in particular, viewed
+sentences as standing for propositions. In response, Church gave an
+argument, directly traceable to Frege, that the denotations of
+sentences are indeed their truth values, and so cannot be propositions
+as Carnap supposed. (While we prefer &ldquo;designate&rdquo; we will
+follow Church and use &ldquo;denote&rdquo; in this section.) This
+argument has become known as &ldquo;the Slingshot&rdquo;, invoking the
+slaying of Goliath by David, for its ability to refute looming
+hypotheses such as that sentences are correlated directly with facts
+or propositions.</p>
+
+<p>
+Church argued that sentences <em>must</em> stand for truth values, for
+if sentences stood for propositions, there would only be two
+propositions. A similar argument that all true sentences stand for the
+same thing (and that all false sentences stand for a distinct thing)
+was suggested by G&ouml;del (1944; for an extended discussion of truth
+values, the slingshot, and generalized truth values see the entry on
+ <a href="../truth-values/">truth values</a>).
+ Here we focus exclusively on Church&rsquo;s review, and his related
+commentary in (1956a: &sect;04), which constitute the <em>locus
+classicus</em> of the Slingshot argument.</p>
+
+<p>
+Here is a simple, ingenious, logic-notation-free version of the
+argument given by Church (1956a: &sect;04): Assume first that
+sentences do denote something or other. Now consider the following
+list of sentences:</p>
+
+<dl class="sentag">
+<dt>(1)</dt>
+<dd>Sir Walter Scott is the author of Waverley</dd>
+<dt>(2)</dt>
+<dd>Sir Walter Scott is Sir Walter Scott</dd>
+<dt>(3)</dt>
+<dd>Sir Walter Scott is the man who wrote twenty-nine Waverley novels
+altogether</dd>
+<dt>(4)</dt>
+<dd>The number such that Sir Walter Scott is the man who wrote that
+many Waverley novels is twenty-nine.</dd>
+<dt>(5)</dt>
+<dd>The number of counties in Utah is twenty-nine.</dd>
+</dl>
+
+<p>
+Church argued that (1) and (5), which seem totally unrelated in
+meaning, must denote the same thing, namely, their truth value (since
+that is all they have in common). The only additional assumptions
+Church works with are the following two:</p>
+
+<dl class="sentag">
+<dt id="assA">(A)</dt>
+<dd>Co-denoting names or definite descriptions are
+interchangeable.</dd>
+
+<!--pdf include  <div class="pagebreak">
+</div> pdf include-->
+<dt id="assB">(B)</dt>
+<dd>Synonymous sentences (or, Church remarks, nearly synonymous
+sentences such as (3) and (4)) have the same denotation.</dd>
+</dl>
+
+<p>
+Assumption (A) allows that an occurrence of a name or a definite
+description N in a sentence S may be replaced by a name or description
+M that denotes the same thing without altering the denotation of S.
+Thus, (2) comes from (1) by (A). (But it is not clear what role, if
+any, (2) plays in the argument.) (3) comes from (1) by (A); (4) comes
+from (3) by (B); and (5) comes from (4) by (A). A similar argument can
+be used to show that all false sentences denote the same thing. A
+further conclusion, important to Church, is that if, as this argument
+seems to demonstrate, (1) and (5) denote the same thing, this cannot
+be the propositions expressed by each, since those are clearly
+different. (For further discussion see
+ <a href="supplementC.html#C1SlinArgu">supplement C.1</a>
+ as well as the supplement to the entry on
+ <a href="../truth-values/">truth values</a>.)</p>
+ 
+<h3 id="TranArgu">3.3 The Translation Argument</h3>
+
+<p>
+Consider the sentences</p>
+
+<dl class="sentag">
+<dt>(1)</dt>
+<dd>Seneca said that man is a rational animal</dd>
+<dt>(2)</dt>
+<dd>Columbus believed that the world is round.</dd>
+</dl>
+
+<p>
+A natural analysis of such sentences is that they express a relation
+between Seneca or Columbus and the propositions that man is a rational
+animal or that the world is round, where such propositions are
+objective abstract entities that are the ultimate vehicles of truth
+and meaning. But there has been&mdash;and no doubt always will
+be&mdash;skepticism about the existence of such entities and this has
+motivated the view that sentences such as (1) and (2) express
+relations between agents and sentence types or even particular
+inscriptions (or other tokens) of sentences of a particular language,
+where sentences are assumed to be more concrete than propositions.
+While this assumption of concreteness seems highly questionable in the
+case of sentence types, Carnap and others nevertheless vigorously
+pursued the project of analyzing (1) and (2) in terms that relate
+agents to such types. (The theory that saying and believing are
+relations to particular physical tokens is obviously implausible.
+Contrary to what it predicts, the destruction of such tokens would not
+have voided Seneca&rsquo;s belief.) In response, Church deployed his
+translation argument (CTA) that if we limit our ontology to sentence
+types, then our semantic theory will not be able to provide a true
+analysis of sentences like (1) and (2). (This is a crucial part of
+Church&rsquo;s broader argument that no philosophical theory that is
+both true and humanly understandable can do without propositions. We
+return to the rest of the argument in
+ <a href="#RealAbouProp">&sect;6.3</a>.)</p>
+ 
+<p>
+CTA&mdash;as formulated in Church&rsquo;s (1950a)&mdash;is
+specifically directed at Carnap&rsquo;s (1947) analysis of sentences
+like (1) and (2), which in turn appeals to a particular notion of
+synonymy. However, since Church has shown that Carnap&rsquo;s notion
+of synonymy is incorrect (via an argument described in
+ <a href="supplementE.html">supplement E</a>),
+ we can safely omit the details of Carnap&rsquo;s notion for present
+purposes and speak simply in terms of synonymy. Now, according to
+Carnap&rsquo;s analysis, (2) is synonymous with</p>
+
+<dl class="sentag">
+<dt>(3)</dt>
+<dd>Columbus was disposed to an affirmative response to the English
+sentence &ldquo;the world is round&rdquo;.</dd>
+</dl>
+
+<p>
+This is presumed true in virtue of Columbus&rsquo; disposition to
+affirm, say, &ldquo;<em>El mundo es redondo</em>&rdquo; or a
+synonymous sentence in some other language (such as the English
+sentence &ldquo;The earth is round&rdquo;).</p>
+
+<p>
+Church suggested that the reader translate (2) and (3) into German
+making sure that, among other things, &ldquo;that the world is
+round&rdquo; as it occurs in (2) is translated as &ldquo;<em>dass die
+welt rund ist</em>&rdquo;, whereas &ldquo;the world is round&rdquo; as
+it occurs in (3) is translated as &ldquo;the world is round&rdquo;.
+The difference is that the sentence &ldquo;the world is round&rdquo;
+is <em>mentioned</em> in (3), whereas it is <em>used</em> in (2);
+moreover, (3) does not mention the German sentence &ldquo;<em>die welt
+rund ist</em>&rdquo;, only the English sentence &ldquo;the world is
+round&rdquo; and so a proper translation of (2)&mdash;one that
+preserves meaning (and not merely &ldquo;the main
+point&rdquo;)&mdash;will mention the latter not the former. So, the
+translations are:</p>
+
+<dl class="sentag">
+<dt>(4)</dt>
+<dd><em>Columbus glaubte, dass die Welt rund ist</em></dd>
+<dt>(5)</dt>
+<dd><em>Columbus war bereit, den englischen Satze</em> &ldquo;The
+world is round&rdquo; <em>zu bejahen</em>.</dd>
+</dl>
+
+<p>
+(Notice that if we replace &ldquo;The world is round&rdquo; in (5) by
+its German translation, the result is clearly false, since the German
+translation is not a sentence of English.)</p>
+
+<p>
+Church concluded this version of CTA by noting that (4) and (5) are
+clearly not synonymous, since they convey different information to a
+German speaker who does not speak English. Church concluded that,
+therefore, (2) and (3) are not synonymous (1951a [BE: 294]). Church
+assumed, plausibly, that synonymy is an equivalence
+relation&mdash;reflexive, symmetric, and transitive. Hence, the basic
+structure of CTA is as follows: Assume that (2) and (3) are
+synonymous. Then (4) and (5) are synonymous. But (4) and (5) are not
+synonymous, and so neither are (2) and (3), and therefore (3) cannot
+serve as an analysis of (2).</p>
+
+<p>
+However, Church argued that translation is not needed to establish
+that (2) and (3) are not synonymous, and he gave another argument that
+does not appeal to translation:</p>
+
+<blockquote>
+
+<p>
+It is not possible to infer [(2)] as a consequence of [(3)], on
+logical grounds alone&mdash;but only by making use of an item of
+factual information not contained in [(3)], namely, that &ldquo;the
+earth is round&rdquo; means in English that the earth is round. (1950a
+[BE: 280])</p>
+</blockquote>
+
+<p>
+The point is that it is only a contingent fact about the English
+language that the particular sequence of symbols and associated sounds
+&ldquo;the earth is round&rdquo; mean in English that the earth is
+round. (Compare Church&rsquo;s summary of his argument where he says
+that it is designed to &ldquo;dispel any remnants of an illusion that
+there is something in some way necessary or transparent about the
+connection between a word or sentence and its meaning, whereas, of
+course, this connection is entirely artificial and arbitrary&rdquo;
+(1951a [BE: 294]).) Moreover, this additional factual information is
+needed to infer (2) from (3). For example, the language might have
+developed in such a way that &ldquo;round&rdquo; and
+&ldquo;square&rdquo; were interchanged, so that to say &ldquo;the
+earth is square&rdquo; in this version of English is to say that the
+earth is round. Note that the following would nonetheless be true in
+this new version of English:</p>
+
+<blockquote>
+
+<p>
+&ldquo;the earth is square&rdquo; means that the earth is square,</p>
+</blockquote>
+
+<p>
+where the latter <em>used</em> occurrence of &ldquo;the earth is
+square&rdquo; is a pronouncement of the new version of English, not
+the familiar one. This shows that the aforementioned factual
+information is needed to infer (2) from (3), since otherwise the
+expression &ldquo;the earth is round&rdquo; need not represent
+Columbus&rsquo; belief. This argument that CTA does not essentially
+involve translation is worth a closer look, since Church himself
+describes the argument as expressing &ldquo;the main point&rdquo; he
+is trying make via CTA:</p>
+
+<blockquote>
+
+<p>
+The main point is that [(3)] is inadequate as an analysis of [(2)]
+because it conveys less information than [(2)] does. (1950b [BE:
+1061]; cf. Salm&oacute;n 2001)</p>
+</blockquote>
+
+<p>
+The information conveyed by (2) but not (3) is:</p>
+
+<dl class="sentag">
+<dt>(6)</dt>
+<dd>&ldquo;The earth is round&rdquo; means in English that the earth
+is round.</dd>
+</dl>
+
+<p>
+Church claims that this is &ldquo;an item of factual information not
+contained in [(3)]&rdquo;, and it was Church&rsquo;s view that the
+word &ldquo;English&rdquo; as commonly used contains &ldquo;reference
+to matters of pragmatics&rdquo; (1950b [BE: 1060]). By this he meant
+that the word &ldquo;English&rdquo; means something like, as Church
+puts it, &ldquo;the language that was current in the United States,
+Canada and Great Britain in 1949 AD&rdquo;, since it allows that
+English is an evolving rather than a fixed system (1950). If so, it
+seems clear that the information given by [(2)] is not contained in
+[(3)] and that translation is not required to establish this.</p>
+
+<p>
+However, in a further twist, Carnap responds that
+&ldquo;English&rdquo; as \(he\) intends it means something like
+&ldquo;the unique language having such and such semantical
+rules&rdquo; and he brings this to Church&rsquo;s attention in his
+letter (1950b [BE: 1063]), thus challenging Church&rsquo;s claim that
+(5) is an item of factual information not contained in (3) but needed
+to infer (2) from (3). Church recognizes the threat:</p>
+
+<blockquote>
+
+<p>
+The objection would then be less immediate that [(2)] is not a logical
+consequence of [(3)] and it is possible that it would disappear.
+(1950a [BE: 280])</p>
+</blockquote>
+
+<p>
+The point is that if English is defined to be the unique language with
+such and such semantical rules and (5) is one such rule, then it looks
+as though (2) <em>would</em> be a logical consequence of (3), so
+interpreted.</p>
+
+<p>
+In the last paragraph of (1950a), Church briefly states two arguments
+that he obviously views as cementing the falsehood of Carnap&rsquo;s
+analysis, even if English is taken to be the language with such and
+such fixed semantical rules. He first observes that if Carnap&rsquo;s
+proposal is discussed in German rather than English, then it will not
+be synonymous with the English version! The one version involves an
+English sentence while the other a German sentence. Church&rsquo;s
+assumption appears to be that a correct analysis of (2) should be
+language independent. Next, he observes that even if (3) logically
+entails (2), a person might not see the entailment, and so not draw
+the inference, leading her to believe (3) and yet not believe (2). Is
+Church&rsquo;s assumption here that if (3) were a correct analysis of
+(2), then understanding and believing it should entail understanding
+and believing (2)? If so, this would conflict with Church&rsquo;s own
+way of dealing with the Paradox of Analysis. Moreover, there is
+arguably an outright inconsistency between Church&rsquo;s solution to
+this paradox and his solution to the Mates puzzle, which we discuss in
+ <a href="supplementC.html">supplement C</a>.
+ Church&rsquo;s criticism of Carnap&rsquo;s notion of synonymy is
+discussed in
+ <a href="supplementE.html">supplement E</a>.</p>
+ 
+<h3 id="ParaAnal">3.4 The Paradox of Analysis</h3>
+
+<p>
+Church&rsquo;s brief remarks on the paradox of analysis focus
+exclusively on the sentence</p>
+
+<dl class="sentag">
+<dt>(1)</dt>
+<dd>A brother is a male sibling.</dd>
+</dl>
+
+<p>
+(While this is an example of a trivial analysis, its triviality does
+not affect the cogency of Church&rsquo;s discussion.) Church renders
+(1) as</p>
+
+<dl class="sentag">
+<dt>(2)</dt>
+<dd>\(b = \textit{ms}\)</dd>
+</dl>
+
+<p>
+which he thinks of as an expression &ldquo;of the Boolean algebra of
+classes&mdash;or better, of class concepts&rdquo; (1946a [BE: 956]).
+According to this proposal, the concept of a brother is a kind of
+&ldquo;product&rdquo; of the concepts of a male and a sibling. (Of
+course, this ignores the relational nature of both sides of the
+equation. For example, the only siblings relevant to the definition
+are the brother&rsquo;s siblings; other siblings are ignored, and so
+the analysis is incomplete. But we shall nonetheless stick to
+Church&rsquo;s formulation.) The problem as Church sees it is
+this:</p>
+
+<blockquote>
+
+<p>
+If \(b\) and \(\textit{ms}\) are the same concept, then it must be
+possible to introduce either in place of the other without alteration
+of meaning&mdash;indeed this is clearly the intention, or part of the
+intention, of any analysis in the sense of Moore. Hence in particular
+the analysis \(b = \textit{ms}\) must not be different from \(b = b\)
+or \(\textit{ms} = \textit{ms}\). This would seem to reduce analysis
+to something trivial and uninformative. But it is evident
+otherwise&mdash;especially from cases in which, though a concept is in
+some sense known, its analysis presents difficulty&mdash;that analysis
+is not always trivial. (1946a [BE: 956])</p>
+</blockquote>
+
+<p>
+Church argues that the paradox is a special case of what is now known
+as &ldquo;Frege&rsquo;s Puzzle&rdquo;. It is unclear how a statement
+of the form \(a = b\) can be both true and informative; for if it is
+true, then it would seem to say the same thing as \(a = a\), since
+this is the result of substituting \(a\) for \(b\) in \(a = b\).
+Moreover, Church views (2) as a special case of an informative
+identity statement, with the difference that (2)&mdash;unlike a
+statement of the form \(a = a\) that asserts the identity of
+objects&mdash;asserts the identity of concepts or senses. That is,
+Church takes &ldquo;brother&rdquo; and &ldquo;male sibling&rdquo; to
+designate concepts in the context of (2), rather than classes, since
+(2) is meant to be an analysis. Further, while &ldquo;brother&rdquo;
+and &ldquo;male sibling&rdquo; designate the same concept, viz.
+<em>brother</em> or <em>male sibling</em>, they may nevertheless
+differ in sense (that is, though they designate the same concept the
+express, they <em>express</em> different concepts as senses); and this
+is what explains how (2) can be informative and how the proposition
+expressed by (2) can differ from that expressed by the trivial \(b =
+b\) or \(\textit{ms} = \textit{ms}\).</p>
+
+<p>
+The power of Church&rsquo;s proposal may not yet be apparent due to
+the triviality of the sample analysis. Recall Church&rsquo;s remark
+that there are cases of analyses (or hoped for analyses) where</p>
+
+<blockquote>
+
+<p>
+though a concept is in some sense known, its analysis presents
+difficulty&mdash;that analysis is not always trivial. (1946a [BE:
+956])</p>
+</blockquote>
+
+<p>
+In philosophy the correct analysis of the concept of knowledge has
+proved to be profoundly elusive. In mathematics, the analysis of the
+concept of the limit of a function was a triumph, as was the analysis
+of the concept of an effectively calculable (computable) function.
+Church would view these as cases where <em>analysans</em> and
+<em>analysandum</em> designate the same concept but express radically
+different senses; and this does seem exactly right. Some, however,
+have thought that Church&rsquo;s way of dealing with the paradox of
+analysis and his way of dealing with Mates&rsquo; problem are
+incompatible. This is discussed in
+ <a href="supplementC.html#C2TranArguCTAMatePuzz">supplement C.2</a>.</p>
+ 
+<h3 id="LogiSensDeno">3.5 The Logic of Sense and Denotation</h3>
+
+<p>
+Church&rsquo;s (1943a) review of Carnap&rsquo;s <em>Introduction to
+Semantics</em> (1942) constitutes an important early step in the
+application of the logistic method to the subject of semantics (see
+also Church 1943c, 1951b, 1952, 1956a). Like Frege, Church believed
+that the <em>Sinn</em> or sense of an expression is an
+<em>objective</em>&mdash;i.e., mind-and-language
+independent&mdash;abstract entity (cf.
+ <a href="#TranArgu">&sect;3.3</a>
+ and
+ <a href="#RealAbouProp">&sect;6.3</a>)
+ and that senses are needed in semantics for their power to explain
+the informative nature of identity statements containing
+co-designating names, as well as to explain the failure of the
+substitutivity of co-designating names in intensional contexts (1943a;
+1956a: &sect;01). Moreover, Church also shared Frege&rsquo;s highly
+controversial view that in addition to assigning senses to expressions
+in scientific language, one should also assign them to expressions in
+natural language. (See
+ <a href="supplementE.html">supplement E</a>
+ for discussion.)</p>
+
+<p>
+However, given that senses and propositions are objective, one might
+wonder whether theorizing about them via the logistic method should
+<em>really</em> proceed <em>indirectly</em>, via the study of
+intensional semantic theories of possible languages (again, see
+ <a href="supplementE.html">supplement E</a>),
+ or whether the logistic method should instead study senses
+<em>directly</em> by theorizing about how these entities are related
+to one another and to the <em>designata</em> that they determine.
+Church himself distinguishes these two approaches and claims that if a
+theory could be formulated in a satisfactory way using the direct
+method, then &ldquo;it should be a comparatively simple matter to
+devise a language with the desired sort of semantics&rdquo; (1979 [BE:
+807]). He pursued this direct approach in his papers on the <em>Logic
+of Sense and Denotation</em> or &ldquo;LSD&rdquo; (1946b, 1951a,
+1973b, 1974a, 1993).</p>
+
+<p>
+The fundamental difference between the intensional semantic approach
+to language and the direct LSD approach to senses can be seen from the
+following. Church&rsquo;s view that the sense assigned to a name by a
+semantic theory is <em>univocal</em> raises the question of
+<em>which</em> sense to assign to &ldquo;Hesperus&rdquo;. Further,
+names can occur not only in <em>customary</em> contexts like</p>
+
+<dl class="sentag">
+<dt>(1)</dt>
+<dd>Hesperus is a planet</dd>
+</dl>
+
+<p>
+but also in <em>indirect</em> contexts such as:</p>
+
+<dl class="sentag">
+<dt>(2)</dt>
+<dd>Hammurabi believes that (1).</dd>
+</dl>
+
+<p>
+Which sense do we assign to &ldquo;Hesperus&rdquo; in (2)? From the
+perspective of a Fregean semantic theory, this question has the
+following answer. First, we distinguish the expression
+&ldquo;Hesperus&rdquo; from an <em>occurrence</em> of it in a
+non-customary syntactic position such as in (2). Secondly, we assign a
+non-customary sense to its occurrence in (2) so that this occurrence
+expresses not the customary sense of &ldquo;Hesperus&rdquo; (say,
+<em>the first planet visible in the evening</em>) but its indirect
+sense. Thirdly, we claim that this indirect sense determines the
+expression&rsquo;s customary sense as the designatum of the
+non-customary occurrence (cf. Frege 1892a; Salm&oacute;n 1993).
+However, such subtleties will require us to complicate the background
+logic. In this case, we have to prohibit the application of Leibniz
+law to indirect contexts; this is because names with the same
+customary designatum but <em>different</em> customary senses cannot be
+substituted <em>salva veritate</em> within contexts where they
+designate their customary senses. For example, (2) can be true while
+(2*) is false:</p>
+
+<dl class="sentag">
+<dt>(2*)</dt>
+<dd>Hammurabi believes that Phosphorus is a planet.</dd>
+</dl>
+
+<p>
+From the perspective of LSD, these complications pertaining to
+indirect contexts can be avoided by replacing the occurrence of
+&ldquo;Hesperus&rdquo; in (2) with a new name; and likewise for all
+other occurrences that <em>would</em> be assigned a non-customary
+<em>designatum</em> were we still working in a semantic theory. For
+example, we can replace the customary occurrence of
+&ldquo;Hesperus&rdquo; in (1) with a constant &ldquo;\(a_0\)&rdquo;
+and replace the non-customary occurrence of &ldquo;Hesperus&rdquo; in
+(2) with &ldquo;\(a_1\)&rdquo;. This raises the question of the
+relationship between these constants.</p>
+
+<p>
+LSD was originally formulated in a simply typed &lambda;-calculus (of
+the kind described in
+ <a href="supplementD.html">supplement D</a>),
+ which allows the subject matter of the theory to be sorted into
+various type hierarchies. Individuals (like Hesperus) are of type
+\(\iota_0\). Senses (which Church calls &ldquo;concepts&rdquo;) that
+determine individuals&mdash;i.e., &ldquo;individual
+concepts&rdquo;&mdash;are of type \(\iota_1\) etc. In another
+hierarchy, truth values are of type \(o_0\), concepts of truth
+values&mdash;i.e., propositions&mdash;are of type \(o_1\), concepts of
+propositions&mdash;i.e., &ldquo;propositional
+concepts&rdquo;&mdash;are of type \(o_2\) etc. (Individuals are
+designated by constants, truth values are designated by sentences
+while propositions are designated by complex names corresponding to
+&ldquo;that&rdquo;-clauses.) In addition to typed hierarchies of
+concepts of individuals and concepts of truth values, there is also a
+hierarchy of functions and concepts of functions; for any types
+\(\alpha_k\) and \(\beta_k\), there exists a type
+\(\ulcorner\)(\(\alpha_k\) \(\beta_k )\urcorner\) of functions from
+entities of \(\beta_k\) to entities of type \(\alpha_k\).</p>
+
+<p>
+In this framework, &ldquo;\(a_0\)&rdquo; designates an individual of
+type \(\iota_0\) and expresses an individual concept of type
+\(\iota_1\). Further, &ldquo;\(a_1\)&rdquo; designates this individual
+concept in virtue of expressing a concept of type \(\iota_2\) of the
+individual concept. However, and crucially, in LSD this concept of
+type \(\iota_2\) is <em>not</em> the Fregean indirect sense of
+&ldquo;\(a_0\)&rdquo;; rather, it is a distinct semantic primitive
+that is assigned to &ldquo;\(a_1\)&rdquo; only. How, then, are these
+concepts related?</p>
+
+<p>
+Church tells us that there is a relation \(\Delta\) that holds between
+concepts of each type within a hierarchy and the entities of the type
+immediately below it, for example between a concept of type
+\(\iota_2\) and another concept of \(\iota_1\). But something more
+needs to be said to illuminate the nature of this relationship. This
+is because although it helps to increase the numerical value of a
+subscript in order to remove ambiguity from our notation and indicate
+a corresponding increase in type, <em>this provides little or no
+insight into the relationships among the concepts themselves</em>,
+which are neither related by the numerical successor relation, nor
+dependent for their existence and identity on the notation for them.
+Moreover, expressing concepts may require adding new expressions to
+the language, so not everything can be expressed using a fixed
+vocabulary like the numerals.</p>
+
+<p>
+This bring us to an objection, which arises from the fact that
+intensional contexts can be iterated:</p>
+
+<dl class="sentag">
+<dt>(1)</dt>
+<dd>Hesperus is a planet</dd>
+<dt>(2)</dt>
+<dd>Hammurabi believes that (1)</dd>
+<dt>(3)</dt>
+<dd>Monica said that (2)</dd>
+<dt>&nbsp;</dt>
+<dd><em>Ad infinitum.</em></dd>
+</dl>
+
+<p>
+Replacing such constructions with the corresponding ones in LSD
+requires an infinity of independent names,
+&ldquo;Hesperus<sub>0</sub>&rdquo;&mdash;&ldquo;Hesperus<sub><em>n</em></sub>&rdquo;,
+corresponding to the occurrences of &ldquo;Hesperus&rdquo; in (1),
+(2), (3), etc. If these names named an infinity of primitive and
+independent concepts, Church&rsquo;s proposal would be subject to the
+objection that a language for which LSD was a semantic theory could
+not be learned (Davidson 1965). To meet this objection, something more
+needs to be said about the nature of the relation \(\Delta\). The
+issue is discussed in
+ <a href="supplementE.html">supplement E</a>,
+ as are Church&rsquo;s numerous other achievements in the philosophy
+of language.</p>
+
+<p>
+A more formidable problem is that John Myhill was able to derive a
+version of the so-called &ldquo;Russell-Myhill paradox (RM)&rdquo;
+within Church&rsquo;s initial formulation of LSD (see Myhill 1958). In
+response, Church reformulated LSD by ramifying the relation \(\Delta\)
+(1973&ndash;4). In response, Anderson (1987) showed that the source of
+the inconsistency of LSD lay in its axioms. We turn to the subject of
+antinomy and paradox and their impact on Church&rsquo;s work in the
+next section.</p>
+
+<p>
+Before we do so, it should be noted that LSD had some influence on the
+development of intensional logic. Both Kaplan (1964) and Montague
+(1969, 1970b) built on Church&rsquo;s work, combining type theory with
+Carnap&rsquo;s (1947) notion of an intension as a function from worlds
+to extensions. However, to the extent that Kaplan and Montague favored
+Carnap&rsquo;s notion of an intension they disagreed with Church
+himself, who rejected this notion and treated senses along the same
+lines as Frege (again, see
+ <a href="supplementE.html">supplement E</a>).
+ Anderson (1980, 1987, 2001), Klement (2002), T. Parsons (2001) and
+Salm&oacute;n (2010) follow Frege and Church more closely. Bealer
+(1982) also responded to Church. (See also the entry on
+ <a href="../logic-intensional/">intensional logic</a>.)</p>
+ 
+<h2 id="Para">4. Paradox</h2>
+
+<h3 id="AntiChurWork">4.1 Antinomy in Church&rsquo;s Work</h3>
+
+<p>
+Church&rsquo;s work was dogged by what he termed
+&ldquo;antinomies&rdquo;, which he distinguished from paradoxes in
+that the former result in outright contradiction whereas the latter
+give rise only to unacceptable conclusions. (Quine&rsquo;s paradox
+discussed in
+ <a href="supplementC.html">supplement C</a>
+ is an example of a paradox that is not an antinomy.) His early
+attempt at providing foundations for mathematics turned out to be
+susceptible to Russell&rsquo;s antinomy (Church 1932) and
+Richard&rsquo;s antinomy (Church 1933). (Hereafter we use
+&ldquo;paradox&rdquo; rather than &ldquo;antinomy&rdquo; since that is
+the current usage; but bear in mind that there are then two kinds of
+paradox.) His later attempts to formulate LSD gave rise to the
+Russell-Myhill paradox and Anderson&rsquo;s (1987) paradox, which
+drove Church to turn to Ramified Type Theory (or &ldquo;RTT&rdquo;) as
+a solution (see below
+ <a href="#DeriDissGP">&sect;4.4</a>
+ and
+ <a href="#FounMath">&sect;5</a>).
+ In addition Church was convinced that Simple Type Theory (or
+&ldquo;STT&rdquo;, see
+ <a href="supplementD.html">supplement D</a>)
+ supplemented with a semantical predicate is threatened by the
+semantical paradoxes and in particular by the Grelling-Nelson paradox
+(the &ldquo;heterological&rdquo; paradox), hereafter
+&ldquo;Grelling&rsquo;s paradox&rdquo; or GP. Church had an intense
+desire to show first how GP may be derived in STT so supplemented,
+secondly, how RTT resolves the problem, third, that adding the axioms
+of reducibility does not restore the paradox and in fact leads to an
+important definability result concerning RTT with reducibility, and
+finally, fourth, that the resolution of GP by means of RTT does not
+differ significantly from a Tarskian resolution in terms of the
+distinction between object and metalanguage.</p>
+
+<h3 id="GrelPara">4.2 Grelling&rsquo;s Paradox</h3>
+
+<p>
+This paradox is usually&mdash;and was originally&mdash;formulated as
+pertaining to adjectives expressing properties that are or are not
+true of the adjective (the word) itself. For example,
+&ldquo;short&rdquo; is short, whereas &ldquo;red&rdquo; is not red.
+Those adjectives that have the properties they express are termed
+&ldquo;autological&rdquo; and those that don&rsquo;t are termed
+&ldquo;heterological&rdquo;. The problem arises with the question: Is
+&ldquo;heterological&rdquo; heterological or not? And the answer is
+that it is if and only if it&rsquo;s not. But the paradox is better
+formulated in terms of the extensions, in general, of any sort of
+predicate&mdash;adjective, common noun, or verb phrase. Some
+predicates belong to their own extensions and some do not. The problem
+arises if it supposed that there is a
+predicate&mdash;&ldquo;heterological&rdquo;&mdash;whose extension
+consists of exactly those predicates that do not belong to their own
+extensions, since then &ldquo;heterological&rdquo; belongs to its
+extension if and only if it does not.</p>
+
+<p>
+Viewed in this way, the reasoning of the paradox is in direct
+violation of Cantor&rsquo;s theorem. The latter theorem is usually
+thought of as the principle that the cardinality of the power set of a
+set is greater than that of the set; and applied to an infinite set,
+this leads to the sequence of ever larger infinite cardinal numbers.
+But in its most basic form&mdash;from which the result about
+cardinality follows as a corollary&mdash;Cantor&rsquo;s theorem is the
+following set theoretical principle:</p>
+
+<p class="indent" id="lemmaCL">
+Cantor&rsquo;s Lemma (CL)
+<br />
+Let \(f\) be a function with domain \(A\) and range \(B\). Then the
+set: \(D_{f} = \{x \in A: x \not\in f(x)\}\) is not in \(B\).</p>
+
+<p class="indent">
+<em>Proof</em>. If \(D_f\) is in \(B\), then there is some \(y\) in
+\(A\) such that \(f(y) = D_f\). It now follows that \(y\) is in
+\(D_f\) iff it&rsquo;s not. Contradiction. Note that when \(A = B\)
+and \(f\) is the identity map defined on \(A\), the result is (a form
+of) the theorem asserting that the set of non-self-membered sets does
+not exist.</p>
+
+<p>
+It&rsquo;s worth mentioning, firstly, that this principle underlies
+diagonal argumentation in general (cf. Gaifman 2006). Even venerable
+examples such as Post&rsquo;s informal argument that there is a
+recursively enumerable set of positive integers whose complement is
+not recursively enumerable, rely in essence on
+ <a href="#lemmaCL">CL</a>
+ (Davis 1965: 312). A slight variant of CL is frequently found in the
+literature on undecidability (cf. Shoenfield 1967: 131). Secondly, the
+proof of CL only relies&nbsp;on minimal set-theoretic resources. Of
+course, the famous corollary of CL about cardinality relies
+on&nbsp;the power set axiom. But the theorem that there can be no
+one-one function from a set onto its power set is otherwise a direct
+consequence of CL. In this case, \(D_f\) must be in \(B\), since it
+belongs to the power set of \(A\), and the conclusion must be that
+\(f\) does not exist. Third, Grelling&rsquo;s paradox as well as
+Berry&rsquo;s paradox can be used as a basis for alternative proofs of
+the first incompleteness theorem (Boolos et al. 2007; Kripke 2014).
+Lastly, a somewhat more general form of CL pertaining to relations in
+general&mdash;not just to functions&mdash;, which is now accepted as a
+version of Cantor&rsquo;s Theorem, was already noticed by Russell
+(1903). Whereas CL is essentially a principle of first order logic,
+the relational version is second order in nature.</p>
+
+<p>
+To say that \(D_f\) is not an element of \(B\), where \(B\) is the
+range of \(f\), is to say that there is no element \(x\) of \(A\) such
+that \(f(x) = D_f\). Applied to predicates and their extensions,
+ <a href="#lemmaCL">CL</a>
+ implies that for any function \(g\) mapping <em>some</em> predicates
+\(A\) to their extensions, there is a predicate
+&ldquo;heterological\(_g\)&rdquo; whose extension is \(D_g\) although
+this predicate cannot be in the domain of \(g\). However, assuming
+that there is a function, \(h\), mapping <em>every</em> predicate to
+its extension, there can be no predicate, heterological\(_h\), <em>at
+all</em>, whose extension is \(D_h\). From a Tarskian point of view,
+heterological\(_h\), must be a predicate of the metalanguage. From
+Church&rsquo;s point of view, there are a multiplicity of
+heterological predicates analogous to, but not the same as, the
+heterological\(_g\) predicates, distinguished by their types and
+orders in the ramified hierarchy. CL is exploited in the next
+section.</p>
+
+<h3 id="CompRussTars">4.3 Comparing Russell and Tarski</h3>
+
+<p>
+In an important paper but one still not widely discussed in print,
+&ldquo;A Comparison of Russell&rsquo;s Resolution of the Semantical
+Antinomies with that of Tarski&rdquo; (1976), reprinted with some
+additions and corrections in Martin (1984) and <em>The Collected
+Works</em> (2019), Church does the following:</p>
+
+<ol type="1">
+
+<li>He gives an elegant formulation of RTT as a straightforward
+complication of STT. (See
+ <a href="supplementD.html">supplement D</a>.
+ We adopt the definitions and notations used there.)</li>
+
+<li>He shows how Grelling&rsquo;s paradox, GP, may be derived within
+STT with the addition of a semantical predicate Val in the object
+language interpreting &ldquo;forms&rdquo; (wffs containing free
+variables) and governed by appropriate postulates.</li>
+
+<li>He shows how RTT resolves GP and how it answers the question
+whether &ldquo;heterological&rdquo; is heterological or not. Depending
+on its level, it sometimes is and sometimes is not; but the assignment
+of levels is not <em>ad hoc</em>. It emerges as a product of RTT along
+with the axioms about Val.</li>
+
+<li>He defines languages \(L_1,\) \(L_2,\)&hellip;, \(L_{n +
+1},\)&hellip;, \(L_w = L,\) in terms of the <em>r</em>-types and Val,
+where \(L_{n + 1}\) is a semantical metalanguage for \(L_n\).</li>
+
+<li>He shows how analogues of Tarski&rsquo;s definitions of
+satisfaction and truth and Tarski&rsquo;s theorem are obtained for the
+languages \(L_n\) and concludes that Russell&rsquo;s resolution of GP
+is a special case of Tarski&rsquo;s.</li>
+
+<li>He formulates the axioms of reducibility which are needed to
+restore the impredicative definitions required for classical
+mathematics. He then shows that reducibility does not, at least not in
+any obvious way, reinstate GP. However, the system with Val and
+reducibility does prove certain results about definability and
+nameability of propositional functions.</li>
+</ol>
+
+<h3 id="DeriDissGP">4.4 The Derivation and Dissolution of GP</h3>
+
+<p>
+In the following, we focus on Church&rsquo;s Russellian resolution of
+GP and leave aside most of the remaining issues. In this we are aided
+by a simplified account of the matter prepared by Church (1995a). The
+simplification does not omit anything essential to the argument of
+Church (1976) regarding GP specifically. It is clear that a main
+concern of Church was to communicate once and for all Russell&rsquo;s
+resolution of the semantic paradoxes to a wider audience.</p>
+
+<p>
+Church&rsquo;s <em>r</em>-typed Val predicate is rather clumsy, but it
+is required for the generalizations in (1976) to accomplish all the
+goals listed above. In the simplified account, however, Val is
+replaced by a denotation predicate \(D(v, F)\), where \(v\) is a word,
+understood to be an individual, and \(F\) is a propositional function
+of any <em>r</em>-type. \(D(v, F)\) is read &ldquo;\(v\) denotes
+\(F\)&rdquo;. Church remarks that</p>
+
+<blockquote>
+
+<p>
+We shall make use only of the case that the second argument of \(D\)
+is a singulary functional variable or singulary functional constant of
+lowest type, so fixing the type of \(D\). (1995a [BE: 929])</p>
+</blockquote>
+
+<p>
+The <em>r</em>-type of \(D\) is then \((i (i))/1\), for the purposes
+of the following.</p>
+
+<p>
+Church first shows how GP may be derived within STT using certain
+principles concerning \(D\), the first of which is a principle of
+&ldquo;univocacy&rdquo;:</p>
+
+<div id="star1">
+
+\[\tag{*} D(v,F) \supset_{v F} \hdot D(v,G) \supset_{G} \hdot F(x) \equiv_{x} G(x).\]
+
+</div>
+
+<p>
+(Note the following notational conventions. Firstly, a connective can
+take a variable as subscript: that variable becomes a universal
+quantifier whose scope is precisely that of the connective. Secondly,
+a dot placed before a connective brackets a proposition. The stars are
+also Church&rsquo;s notation.) Church decides to avoid the stronger
+axiom asserting that \(D\) is functional due to complications
+concerning identity in the ramified theory, but the effect is the
+same. The
+ <a href="#star1">axiom *</a>
+ guarantees a weaker form of functionality: It is a function from
+words as individuals to extensions of propositional functions,
+assuming the axiom of extensionality for such extensions. Next Church
+invokes an informally stated principle that he describes as
+&ldquo;reasonable&rdquo;:</p>
+
+<dl class="sentag">
+<dt id="star2">**</dt>
+<dd>Whenever an individual or a propositional function has been
+determined in some unique way, it is permissible to extend the
+language by introducing a constant (a word) which denotes it.</dd>
+</dl>
+
+<p>
+On this basis, he says, the constant &ldquo;het&rdquo; may be
+introduced together with an axiom defining it implicitly:</p>
+
+<div id="star3">
+
+\[\tag*{***} \het(w) \equiv_{w} (\exists F) \hdot D(w, F) \cdot \nsim F(w).\]
+
+</div>
+
+<p>
+(Note the difference between the dot placed before the connective and
+the conjunction sign itself.) By a simple deduction from the three
+starred principles and basic logic, Church derives both \(\het(v)\)
+and \(\nsim \het(v)\). Church&rsquo;s deduction closely resembles one
+given by Copi (1971), who attributes it to Ramsey. (See
+ <a href="supplementF.html">supplement F</a>.)</p>
+ 
+<p>
+Church clearly thinks that the starred principles are
+&ldquo;reasonable&rdquo; and that the only problem is that they make
+use of an impredicative definition, namely,
+ <a href="#star3">***</a>,
+ and that when the starred principles are suitably ramified, the
+problem can be solved in the manner Russell (1908) foresaw and
+implemented, if imperfectly (PM). He remarks that</p>
+
+<div id="star4">
+
+\[\tag*{****} \het^{m+1} (w) \equiv_{w} (\exists F^{1/m}) \hdot D(w,F) \cdot \nsim F(w)\]
+
+</div>
+
+<p>
+which replaces
+ <a href="#star3">***</a>,
+ when level indicators are supplied, defines an infinite list of het
+predicates, &ldquo;het<sup>2</sup>&rdquo;,
+&ldquo;het<sup>3</sup>&rdquo;, &hellip;, and the two other starred
+principles are also to be supplied with level indicators. Church now
+gives what appears to be a hastily composed list of inferences with
+annotations but no comment. However, Church in effect here proves the
+analogues of theorems (6) and (7) of (1976), with \(D\) in place of
+Val. These are:</p> 
+\[\tag{\(6'\)} \left[D^{m +1} (v, G^{1/m+1}) \hdot G(x) \equiv_{x} \het^{m+1} (x)\right] \supset \nsim \het^{n+1} (v), \textrm{ if } m \ge n \]
+ 
+\[ \tag{\(7'\)} \left[D^{m +1} (v, G^{1/m+1}) \hdot G(x) \equiv_{x} \het^{m+1} (x)\right] \supset \het^{n+1} (v), \textrm{ if } m \lt n. \]
+
+<p>
+To derive these, Church assumes that:</p>
+
+<p>
+
+\[\tag{5} \het^{n+1} (v) \supset \het^{m+1} (v), \text{ if } m \ge n.\]
+</p>
+
+<p>
+(5) is a theorem of (1976).</p>
+
+<p>
+Note that, as in the case of Val, the level \(m+1\) of \(D^{m+1}\) is
+determined entirely by the level of its second argument place. (5) is
+needed as a lemma in the proofs of (\(6'\)) and (\(7'\)). In (1995a)
+Church appeals to (5) without comment, perhaps assuming implicitly the
+\(D\)-analogue of axiom (4) of (1976) reflecting that the types of the
+semantical predicates are cumulative&mdash;as are the types of (1976)
+in general. It is also worth noting that in the background is an
+<em>r</em>-typed version of the
+ <a href="#star2">principle **</a>
+ asserting that at any level \(m\) there is a word \(v\) denoting a
+property having the same extension as \(\het^m\). (Compare theorem (8)
+of (1976).)</p>
+
+<p>
+In this scheme, the question whether the word
+&ldquo;heterological&rdquo; is heterological becomes the question
+whether a word \(v\) denoting that property, or rather a word with
+same extension, is heterological; and the answer is that it depends on
+the level of the property \(\het^{m+1}\).</p>
+
+<p>
+At levels equal to or less than \(m+1\), \(\het(v)\) is false; that
+is, \(v\) is autological. At levels greater than \(m+1\), v is
+heterological; this, according to (\(6'\)) and (\(7'\)). There is,
+therefore, no <em>one</em> property of heterologicality such that it
+is possible to ask whether a word for it is heterological or not; and
+this blocks GP.</p>
+
+<p>
+Church&rsquo;s point of view is that the semantical primitives and
+principles, including
+ <a href="#star2">**</a>,
+ that were added to STT to obtain GP are all &ldquo;reasonable&rdquo;.
+The only thing missing is ramification. This is in essence why Church
+thought that RTT provides the framework for the solution to the
+semantical paradoxes. (For more details see
+ <a href="supplementF.html">supplement F</a>.)</p>
+ 
+<p>
+In an undated typescript newly published in <em>The Collected
+Works</em> (n.d., [BE: 928]), Church formulates conditions required
+for the derivation of the Berry paradox within STT and indicates how
+it is resolved in RTT. He uses Val to formulate a condition giving the
+&ldquo;Berry number&rdquo; of a formula. His formulation is quite
+similar to that found in Boolos et al. [2007: 228). But in this short
+note he does not give a derivation of the paradox within STT.</p>
+
+<h3 id="RussMyhiPara">4.5 The Russell-Myhill Paradox</h3>
+
+<p>
+In a later paper, Church turns his attention to a paradox that Russell
+formulates in Appendix B of <em>Principles of Mathematics</em> (1903).
+Once again, Church&rsquo;s aim is first to show how this contradiction
+arises in STT, and then to appeal to RTT as a means of solving the
+problem. This time, however, STT is not supplemented directly by any
+overt semantic principles concerning denotation or predication, but
+only by a predicate for identity of propositions and axioms supporting
+Russell&rsquo;s view as of 1903, that if a pair of propositions differ
+by a constituent, then they are different propositions. For example,
+if \(X\) and \(Y\) are distinct classes of propositions, then the
+propositions expressed by &ldquo;Every proposition in \(X\) is
+true&rdquo; differs from that expressed by &ldquo;Every proposition in
+\(Y\) is true&rdquo;. Given this principle&mdash;call it
+&ldquo;Structure&rdquo;&mdash;if such propositions are correlated with
+the classes they mention, then it is possible to diagonalize and
+obtain a contradiction. For let \(W\) be the class of propositions
+that are not in the classes with which they are correlated, and
+consider the proposition expressed by &ldquo;Every proposition in
+\(W\) is true&rdquo;. Then this proposition is in \(W\) if and only if
+it&rsquo;s not. (Note that this argument involves yet another
+violation of
+ <a href="#lemmaCL">CL</a>,
+ since in effect it defines a function \(f\) from propositions to sets
+of them, and then assumes that \(D_f\) is in the range of \(f\). )
+Church gives a careful proof theoretical analysis of this argument
+showing exactly what formal principles must be assumed for it to be
+formally derivable. (See
+ <a href="supplementF.html">supplement F</a>
+ for a sketch of some details.)</p>
+
+<p>
+In a certain form, this contradiction actually rose up to bite Church
+himself, because Myhill (1958) was able to derive a version of it
+within Church&rsquo;s initial formulation of LSD. Thus it has come to
+be called &ldquo;the Russell-Myhill paradox (RM)&rdquo;. In fact, RM
+can be deployed to prove the inconsistency of popular accounts of
+propositions such as that of Soames (1987, 2010; see Deutsch 2008,
+2014, 2019). Recently, however, higher order versions of RM have
+enjoyed attention from philosophers seeking to draw metaphysical
+morals (Goodman 2017; Uzquiano 2015). These writers see the
+contradiction as a proof that Russell&rsquo;s Structure principle is
+false. But neither Russell nor Church saw it that way. Russell left
+the problem open and Church turned to RTT for a resolution.</p>
+
+<h3 id="KnowabPara">4.6 The Knowability Paradox</h3>
+
+<p>
+In the course of writing a referee&rsquo;s report on a paper submitted
+to the <em>Journal of Symbolic Logic</em> by Frederick Fitch, Church
+gives the following inspired argument:</p>
+
+<blockquote>
+Then it may plausibly be maintained that if \(a\) is not omniscient,
+there is always a true proposition which it is empirically impossible
+for \(a\) to know at time \(t\). For let \(k\) be a true proposition
+which is unknown to \(a\) at time \(t\), and let \(k'\) be the
+proposition that \(k\) is true but unknown to \(a\) at time \(t\).
+Then \(k'\) is true. But it would seem that if \(a\) knows \(k'\) at
+time \(t\), then \(a\) must know \(k\) at time \(t\), and must also
+know that he does not know \(k\) at time \(t\) &hellip; this is a
+contradiction. (1945b [Salerno (ed.) 2009: 14])
+</blockquote>
+
+<p>
+It follows that it is impossible for \(a\) to know \(k'\) at time
+\(t\). A generalization of this argument appears to show that if there
+are true propositions that are not known to be true, then there are
+true propositions that cannot be known&mdash;that are unknowable.
+Contrapositively, if every true proposition can be known, then every
+true proposition is known&mdash;which is clearly absurd.</p>
+
+<p>
+The generalization&mdash;which Church does not formulate and which was
+first formulated by Fitch (1963)&mdash;has become known as &ldquo;The
+Knowability Paradox&rdquo; or &ldquo;Fitch&rsquo;s Paradox&rdquo; and
+it has been the subject of a great deal of wide-ranging commentary
+collected in Salerno&rsquo;s (2009). Fitch&rsquo;s argument may be
+formulated as follows:</p>
+
+<ol>
+
+<li>Assume for <em>reductio</em> that \(K(p \hdot \neg Kp)\).</li>
+
+<li>Then \(Kp \hdot K\neg Kp\), assuming \(K(q \hdot r)\) implies \(Kq
+\hdot Kr\), for arbitrary \(q\) and \(r\).</li>
+
+<li>\(\neg Kp\), assuming \(Kq\) implies \(q\), for arbitrary
+\(q\).</li>
+
+<li>Hence, \(Kp \hdot \neg Kp\) by logic.</li>
+
+<li>Therefore, \(K(p \hdot \neg Kp)\) cannot possibly be true, and
+therefore, \(p \hdot \neg Kp\) is unknowable.</li>
+</ol>
+
+<p>
+Fitch, in his (1963), does not state the argument 1&mdash;5, but
+instead notes that the proof of his generalized conclusion is
+&ldquo;similar&rdquo; to Church&rsquo;s argument. Surprisingly, Church
+does not comment on the incompatibility of a Fitch-style
+generalization with the logical positivist doctrine that any
+meaningful and true proposition is in principle verifiable and hence
+knowable. The contemporary revival of Fitch&rsquo;s argument, however,
+is almost entirely devoted to this issue and, more generally, to the
+consequences of Fitch&rsquo;s argument for widely held views committed
+to the principle that there are no unknowable truths.</p>
+
+<p>
+Church remarks in effect that step 2, the distribution of \(K\) over a
+conjunction, is an instance of the doubtful principle that the logical
+consequences of a known proposition are also known. He also notes that
+there are &ldquo;fools&rdquo; who would believe a conjunction and yet
+not believe its conjuncts. But could there be such foolishness as to
+count a conjunction as <em>known</em> and yet not count its conjuncts
+as such? Most find this highly implausible. Finally, Church suggests
+that his argument runs afoul of type restrictions. Linsky, in his
+(2009), gives a lucid account of the application of Church&rsquo;s
+1976 version of RTT to the knowability paradox. See also the entry on
+Fitch&rsquo;s Paradox of Knowability.</p>
+
+<h2 id="FounMath">5. Foundations of Mathematics</h2>
+
+<p>
+Church was primarily concerned with providing a foundational system
+that meets two basic conditions: (1) it avoids the paradoxes, and (2)
+it is adequate for extant mathematics. These two conditions will be
+the main focus of this section.</p>
+
+<h3 id="AtteTypeFreeFoun">5.1 Attempts at Type-Free Foundations</h3>
+
+<p>
+Later in his career, Church looked to RTT to meet conditions (1) and
+(2); but in his early forays into foundations he was quite dismissive
+of RTT:</p>
+
+<blockquote>
+
+<p>
+Rather than adopt the method of Russell for avoiding the paradoxes of
+mathematical logic, or that of Zermelo, both of which appear somewhat
+artificial, we introduce for this purpose, as we have said, a certain
+restriction on the law of excluded middle. (1932 [BE: 52])</p>
+</blockquote>
+
+<p>
+It turned out that despite this restriction a form of Russell&rsquo;s
+paradox is derivable in the system of 1932. Nevertheless, it was here
+that Church first formulated the (untyped) &lambda;-calculus as a mere
+part of the whole system. This part turned out to be of great
+importance for the theory of computation, formal semantics and for the
+foundations of mathematics in general. So much for inconsistency! (See
+ <a href="supplementD.html">supplement D</a>
+ for a description of the &lambda;-calculus).</p>
+
+<p>
+In the second paper (Church 1933), the problem about Russell&rsquo;s
+paradox was corrected. But Kleene and Rosser (1935) established that
+both systems&mdash;those of Church 1932 and 1933&mdash;as well as
+related early systems of combinatory logic fell prey to
+Richard&rsquo;s paradox. The mere part&mdash;the pure untyped
+&lambda;-calculus&mdash;is, however, consistent in the sense that not
+all equations between &lambda; terms are derivable. This follows from
+an early result due to Church himself and Rosser (1936)&mdash;the
+Church-Rosser theorem (see the entry on the
+ <a href="../lambda-calculus/">lambda calculus</a>
+ for discussion). Significant mathematical models for the
+&lambda;-calculus were developed later (Scott and Strachey 1971;
+Plotkin 1993; see Hindley &amp; Seldin 2008: ch. 16). Church also
+proved the consistency of a variant of the system of (1933) by
+elementary means (1934), thus escaping, as he hoped, the
+incompleteness theorems of G&ouml;del (1931). But this system was too
+weak to satisfy requirement (2), and Church abandoned the system. (A
+type-free system with a similar motivation was proposed later by
+Myhill 1975.) It is remarkable that in his failed struggle to produce
+a consistent, type-free foundational system, Church nevertheless
+introduced ideas that have profoundly affected the development of
+logic.</p>
+
+<h3 id="TypeTheoVsSetTheoFoun">5.2 Type-theoretic vs. Set-theoretic Foundations</h3>
+
+<p>
+In 1940 Church turned away from a type-free approach and published a
+version of STT that incorporated &lambda;-abstraction (see
+ <a href="supplementD.html">supplement D</a>).
+ Although Church had developed what became the most useful and famous
+version of STT (1940), he thought that it was not enough to meet
+condition (1), since he thought that STT when augmented with a
+semantical predicate was vulnerable to the semantical paradoxes such
+as the Epimenides and Grelling&rsquo;s paradox (cf.
+ <a href="#Para">section 4</a>
+ above). To avoid these he thought it necessary to appeal to RTT (with
+reducibility).</p>
+
+<p>
+Regarding condition (2), STT with axioms of infinity and choice
+permits the full development of classical number theory and analysis.
+Church (1959 [BE: 493]) notes that STT with an axiom of infinity and
+Zermelo set theory (Z) are of &ldquo;comparable&rdquo; provability
+strength but that Z is slightly stronger. (Indeed, the first detailed
+proof that Z is stronger than STT with infinity is given in a thesis
+written under Church&rsquo;s supervision by Kemeny (1949). It is now
+known that STT with an axiom of infinity is equi-consistent with and
+has as much provability strength as <em>bounded</em> Zermelo set
+theory (see Farmer 2008 and the citations therein). Moreover,
+Church&rsquo;s STT has turned out to be an important tool in the
+investigation of automated reasoning and proof verification in
+computer science. The typed system with &lambda; is particularly well
+suited for the use and development of programming languages and
+paradigms (such as Haskell and Functional Programming [Hudak 1989]).
+Thus, Church succeeded in providing a type theoretical alternative to
+set theory as a foundation for mathematics. (It&rsquo;s also worth
+mentioning that through his work on finite automata, Church
+contributed in yet another fundamental way to computer science [1960,
+1962a].)</p>
+
+<p>
+However, for the most part, at this point, Church focused on the
+development of intensional logic in the form of LSD (see
+ <a href="#ApplLogiMeth">&sect;3</a>)
+ and on condition (1)&mdash;viz. the problem of <em>semantical</em>
+paradox. In his 1976, his aim is clearly to communicate the resolution
+via RTT of the semantical paradoxes:</p>
+
+<blockquote>
+
+<p>
+To avoid impredicativity the essential restriction is that
+quantification over any domain (type) must not be allowed to add new
+members to the domain, as it is held that adding new members changes
+the meaning of quantification over the domain in such a way that a
+vicious circle results. (1976 [BE: 794]).</p>
+</blockquote>
+
+<p>
+Given the rest of 1976, it is natural to view Church as defending
+Russell&rsquo;s diagnosis of the paradoxes. (This contrasts with
+Church&rsquo;s early view that RTT embodies an &ldquo;ad hoc&rdquo;
+resolution; see the quotes at the beginning of this section.)
+Church&rsquo;s final position seems to have been, then, that both RTT
+and Russell&rsquo;s rationale for it are correct.</p>
+
+<p>
+As for the axioms of reducibility, Church&rsquo;s view was that the
+axioms only reinstate impredicativity for extensional notions and that
+<em>intensional notions remain unaffected</em>: &ldquo;Thus the
+rejection of impredicative definition is annulled in extensional but
+not in intensional matters&rdquo;. In this way, RTT with the axioms of
+reducibility permits the full development of classical number theory
+and analysis and blocks the semantical paradoxes. This is a view
+shared by Kripke (2011b) and Myhill (1979).</p>
+
+<p>
+Church&rsquo;s published remarks on set theory are scattered,
+relatively brief and stop short of full endorsement. However, his
+overall attitude towards set theory was accepting and conciliatory,
+although he was skeptical of some of its axioms, including separation
+and choice. His doctoral dissertation (under Veblen) was on
+&ldquo;Alternatives to Zermelo&rsquo;s Assumption&rdquo;
+(1927)&mdash;namely, the axiom of choice. He viewed Zermelo&rsquo;s
+axiomatization of set theory as &ldquo;transferring&rdquo; the
+concepts of class and class membership from the &ldquo;(unformalized)
+logical level&rdquo; to the &ldquo;(formalized) mathematical
+level&rdquo;, but viewed the improvements due to von Neumann, Fraenkel
+and Skolem as bringing it continually closer to (formalized) logic, so
+that</p>
+
+<blockquote>
+
+<p>
+it is now possible to formulate the theory as a system of symbolic
+logic in the same sense as the system of <em>Principia</em>. (1939b
+[BE: 156])</p>
+</blockquote>
+
+<p>
+These improvements brought with them an emphasis on formalization
+(such as Skolem&rsquo;s isolation of first order logic) and that was
+for Church a sign that logic was being done; although he no doubt
+modified his view as the distinction between logic and proper theory
+became pronounced. Later on, Church himself contributed again to set
+theory. His paper on set theory with a universal set shows great
+ingenuity in the analysis of a route to a consistent set theory
+(consistent relative to ZF) with a universal set (1974c). But he did
+not think that set theory could handle intensional notions, despite
+the success of set theoretic model theory for modal logic. For a
+treatment of intensional notions he continued to look to RTT.</p>
+
+<h3 id="LogiIntu">5.3 Logicism and Intuitionism</h3>
+
+<p>
+Church (1962b) distinguished sharply between which systems provide
+foundations for &ldquo;the whole of presently extant
+mathematics&rdquo; and which ones provide &ldquo;an economical
+basis&rdquo; for particular branches such as arithmetic.
+Church&rsquo;s view was that while the study of logicism had led to
+the discovery of type theory and so to the discovery of adequate
+foundations for the whole of extant mathematics (see
+ <a href="#TypeTheoVsSetTheoFoun">&sect;5.2</a>),
+ it did <em>not</em> succeed in putting arithmetic on the most
+economical basis possible (for reasons explained, in
+ <a href="supplementD.html">supplement D</a>
+ on TT). Moreover:</p>
+
+<blockquote>
+
+<p>
+A more satisfactorily economical basis for elementary arithmetic is
+provided either by one of the standard formulations of first-order
+arithmetic employing primitive notations special to arithmetic and
+special arithmetic postulates, or by a weak set theory which is
+adequate for the treatments of finite sets but omits all the standard
+set-theoretic axioms that are not needed for this purpose (including
+the axiom of infinity). (1962b [BE: 611])</p>
+</blockquote>
+
+<p>
+For example, elementary arithmetic can be represented in the universe
+of hereditarily finite sets (HF), without the axiom of infinity (for
+discussion and history see C. Parsons 1987, 2007).</p>
+
+<p>
+As for intuitionism, early on Church rejected Brouwer&rsquo;s view
+that in mathematics the truth of a proposition is identical with the
+possibility of proving the proposition, because</p>
+
+<blockquote>
+
+<p>
+it seems more in accord with our usual ideas to think of truth as a
+property of a proposition independent of our ability to prove it.
+(1928a [BE: 44])</p>
+</blockquote>
+
+<p>
+But he welcomed Heyting&rsquo;s formalization of intuitionism as
+providing needed clarification. Later in a discussion of
+intuitionistic objections to logicism, he pointed out that
+Heyting&rsquo;s work was a concession to the method of logistic
+characteristic of logic, and hence in tension with Brouwer&rsquo;s
+view that mathematics is prior to logic (1962b [BE: 611]). The point
+is a powerful one. Even those seeking to replace, for example,
+Kripke&rsquo;s proof within classical logic of the completeness of
+intuitionistic propositional calculus, with an intuitionistically
+acceptable argument, have had to use the logistic method in their
+investigation.</p>
+
+<h3 id="SignGdelTheoContProb">5.4. The Significance of G&ouml;del&rsquo;s Theorems and the Continuum Problem</h3>
+
+<p>
+Church was acutely conscious of the effect on the question of
+foundations of G&ouml;del&rsquo;s incompleteness theorems. His early
+attitude was that they were &ldquo;unpleasant&rdquo; results to be
+circumvented, if at all possible (1934). His work in this direction is
+related to Alan Turing&rsquo;s work on &ldquo;ordinal logics&rdquo; in
+his Princeton doctoral thesis completed under Church&rsquo;s direction
+(see Turing&rsquo;s [1939] paper and Feferman [1995]). Turing&rsquo;s
+idea, encouraged by Church, was to extend an incomplete system by
+adding to it the sentences unprovable in it and iterating this
+operation into the transfinite. However, the iteration must be
+effective and involve only ordinals that are constructive in the sense
+defined and studied earlier by Church (1938) and Kleene (1938). This
+idea is still being investigated today.</p>
+
+<p>
+Church also noted that while the pure &lambda;-calculus escapes
+G&ouml;del&rsquo;s first incompleteness theorem, this is only in
+virtue of its lack of provability strength, and so:</p>
+
+<blockquote>
+
+<p>
+The sense in which it escapes the G&ouml;del theorem is not
+significant from the point of view of logic as a foundation of
+mathematics. (1984 [BE: 829])</p>
+</blockquote>
+
+<p>
+On the other hand, he also noted that for any sufficiently strong
+formalized language, such as STT with the axiom of infinity,</p>
+
+<blockquote>
+
+<p>
+no proof of consistency&hellip; is known, except by methods involving
+assumptions so strong as to destroy any major significance. (1959 [BE:
+488])</p>
+</blockquote>
+
+<p>
+Moreover, he was aware that the incompleteness theorems are a price
+that has to be paid for communicating and verifying proofs in a
+sufficiently strong formalized language that <em>also</em> meets his
+requirement of effectiveness (discussed in
+ <a href="#PhilLogi">&sect;2</a>).
+ The theorems, their significance for Hilbert&rsquo;s program, their
+relation to effectiveness, and their relation to Tarski&rsquo;s work
+are discussed in some detail in chapter VIII of Church&rsquo;s
+textbook on mathematical logic (1968/1972/1976; printed in BE). Here
+Church also acknowledged the value of Gentzen&rsquo;s and
+G&ouml;del&rsquo;s consistency proofs, but apparently did not think
+their significance was &ldquo;major&rdquo;. A finitary consistency
+proof in the sense of Hilbert was desirable but impossible.</p>
+
+<p>
+Elsewhere, Church comments that:</p>
+
+<blockquote>
+
+<p>
+The feeling that there is an absolute realm of sets, somehow
+determined in spite of the non-existence of a complete axiomatic
+characterization, receives more of a blow from the solution (better,
+the unsolving) of the continuum problem than from the famous
+G&ouml;del incompleteness theorems. It is not a question of
+realism&hellip; versus either conceptualism or nominalism, but if one
+chooses realism, whether there can be a &ldquo;genetic&rdquo; realism
+without axiomatic specification. (1966 [BE: 677]).</p>
+</blockquote>
+
+<p>
+While Church may have wished to postulate an absolute realm of sets,
+just as he postulated such a realm of senses, in neither case was he
+happy to affirm the existence of such entities without first
+formulating an axiomatic theory of them and then evaluating it for
+truth (see
+ <a href="#Meta">section 6</a>).
+ The independence from the axioms of ZFC of a natural set-theoretic
+question like that of the cardinality of the continuum showed that
+Church&rsquo;s strictures could not be met without the discovery of
+another axiom. Absent this discovery, Church hesitated to postulate an
+absolute realm of sets and even noted the possibility of set-theoretic
+relativism: that there could be &ldquo;rival set theories&rdquo; and
+that sets &ldquo;have their reality only relative to and within a
+certain theory&rdquo; (1966 [BE: 677]).</p>
+
+<h2 id="Meta">6. Metaphysics</h2>
+
+<h3 id="MetaLogiMeth">6.1 Metaphysics and the Logistic Method</h3>
+
+<p>
+Church&rsquo;s mature view was that discussion of metaphysical
+doctrines is only worthwhile if they can be reformulated and developed
+using the logistic method. For example, he thought that the question
+of the legitimacy of the distinction between form and matter should be
+investigated by setting up a formal language, which is used to isolate
+the form of a proposition as well as of the corresponding sentence, so
+that one can reinterpret its non-logical vocabulary and study what is
+common under various reinterpretations: &ldquo;this may be considered
+a more precise formulation of the traditional distinction between form
+and matter&rdquo; (1956a [BE: 372&ndash;3 and 379]; 1956&ndash;72 [BE:
+697]; 1959 [BE: 415, 475]).</p>
+
+<p>
+Another question that receives such a reformulation is that of the
+existence of abstract entities, which, according to Church, are
+&ldquo;postulated&rdquo; as ontological commitments of a true sentence
+or theory that has been developed in accordance with the strictures of
+the logistic method. The basic idea is that theory \(T\) is
+ontologically committed to entities of kind \(K\) if the truth of
+\(T\) implies that there are \(K\)s (1958a). Moreover, as Church
+clarified later, &ldquo;theory&rdquo; was intended to encompass not
+only formal theories but also</p>
+
+<blockquote>
+
+<p>
+systems of notions which arose long before scientific method came to
+be consciously used and which have therefore become embedded matters
+of &ldquo;common sense&rdquo; in the natural languages (1951b, fn.
+Added 1971 [BE: 287]).</p>
+</blockquote>
+
+<p>
+This would suggest that numbers were postulated when notations for
+them first entered human culture&mdash;long before the advent of
+modern science and the discovery of the logistic method. (For an
+example of how natural numbers have become embedded in natural
+language, see the discussion of &ldquo;descendant&rdquo; in
+ <a href="supplementD.html">supplement D</a>.)
+ Presumably, however, according to the logistic method, such notations
+must ultimately be included in a formalized object language to which
+the criterion of ontological commitment is then applied. Further,
+given this commitment:</p>
+
+<blockquote>
+
+<p>
+If [the philosopher] maintains, for example, that numbers do not exist
+but nevertheless asserts, or is persuaded to admit, &ldquo;1729 is the
+sum of two cubes in more than one way&rdquo;, he is, at least
+<em>prima facie</em>, involved in contradiction, because by naming the
+number 1729 and attributing a property to it he seems to be committed
+to the existence of at least this one number. (1958a [BE: 438])</p>
+</blockquote>
+
+<p>
+More generally,</p>
+
+<blockquote>
+
+<p>
+those philosophers who speak of &ldquo;existence&rdquo;,
+&ldquo;reality&rdquo;, and the like are to be understood as meaning
+the existential quantifier, and are to be condemned as inconsistent if
+on this basis inconsistency appears in their writings. The
+justification is that no other reasonable meaning of
+&ldquo;existence&rdquo; has ever been provided (which would fit into
+contexts of the kind that were quoted), and the burden of providing
+such a second meaning of &ldquo;existence&rdquo; rests on those whose
+writings or whose philosophical views require it. (1958a [BE:
+442]).</p>
+</blockquote>
+
+<p>
+Recently, Jody Azzouni (2004, 2010) has attempted to shoulder this
+burden. For discussion of nominalism and Church&rsquo;s criterion see
+Church (1958a,b), Burgess (2001) as well as Salm&oacute;n (2020).</p>
+
+<h3 id="ChurModeReal">6.2 Church&rsquo;s Modest Realism</h3>
+
+<p>
+Church was at pains to distinguish his preferred brand of realism from
+Platonism (1973a [BE: 748]). Moreover, he was also clear that his
+realism was not</p>
+
+<blockquote>
+
+<p>
+even the extreme realism of Frege and G&ouml;del, but rather only in
+opposition to the claim of superior reality for physical or
+spatio-temporal entities. (1951b, fn. Added 1971 [BE: 287])</p>
+</blockquote>
+
+<p>
+To show the contrast with Frege, Church stated that while his own view
+is that the two truth values are &ldquo;postulated&rdquo;:</p>
+
+<blockquote>
+
+<p>
+To Frege, as a thoroughgoing Platonic realist, our use of the word
+&ldquo;postulate&rdquo; here would not be acceptable. (1956a:
+&sect;4)</p>
+</blockquote>
+
+<p>
+Frege&rsquo;s position, according to Church, is that &ldquo;<em>there
+are</em> two such things as truth and falsehood&rdquo; (1956a:
+&sect;4). Of course, it also follows from Church&rsquo;s semantic
+theory together with his criterion of ontological commitment that
+<em>there are</em> two such things as truth and falsehood. What, then,
+is the disagreement with Frege? It appears to be that because Church
+postulated the two truth values relative to a logistic theory, and
+because he did not claim to have demonstrated conclusively the truth
+of one such theory, he still saw room for consideration of competing
+logistic theories, and so competing ontologies, which do not postulate
+truth values as objects (cf. 1966).</p>
+
+<p>
+Nevertheless, according to Church, theories that are effectively
+specifiable (cf. 2.3) can be communicated, inspected, compared with
+each other and with observational data&mdash;as well as evaluated for
+truth by other rational, checkable procedures. So there is no
+<em>principled</em> reason (other than Church&rsquo;s Theorem) why,
+after rational debate has come to an end, we could not assert the
+truth of our theory and postulate the existence of its ontological
+commitments with near certainty. (Of course, in some cases the theory
+may be underdetermined by the data; and in the case of set theory
+there may be genuine theory relativity; cf.
+ <a href="#SignGdelTheoContProb">&sect;5.4</a>.)</p>
+ 
+<p>
+Returning to Church&rsquo;s &ldquo;opposition to the claim of superior
+reality for physical or spatio-temporal entities&rdquo;, his reason
+was that spatio-temporal entities are, like abstract entities,
+postulated ontological commitments of theories. For this reason,
+terminology for spatio-temporal entities does <em>not</em>
+&ldquo;belong to the vocabulary in which the observational data are
+stated;&rdquo; rather they are theoretical constructs the terminology
+for which &ldquo;belongs to a theoretical language&rdquo; (1951b, fn.
+Added 1971 [BE: 287]; cf. 1975 [BE: 983&ndash;4].)</p>
+
+<p>
+Complementary to Church&rsquo;s &ldquo;opposition to the claim of
+superior reality for spatio-temporal entities&rdquo; was his view that
+abstract entities&mdash;assuming they exist&mdash;are no more remote
+from causal explanations than are spatio-temporal ones. To Carnap, who
+claimed that abstracts entities may be avoided in causal explanations
+of phenomena (1963), Church responded by claiming</p>
+
+<blockquote>
+
+<p>
+the cause of an event is never a physical object or even another event
+but a total situation, in the description of which many entities, both
+abstract and concrete, must in general be mentioned (1951b, fn. Added
+1971 [BE: 287]).</p>
+</blockquote>
+
+<p>
+Moreover, Church added that if we assume that the objects of
+linguistic understanding and (other) propositional attitudes are
+propositions (cf.
+ <a href="#TranArgu">&sect;3.3</a>
+ and
+ <a href="#RealAbouProp">&sect;6.3</a>),
+ then propositions are also an essential part of any adequate causal
+explanation of behavior.</p>
+
+<p>
+Given all this, it is not surprising that Church did not see a
+<em>special</em> problem about our epistemological access to concepts
+and propositions:</p>
+
+<blockquote>
+
+<p>
+But the preference of (say) seeing over understanding as a method of
+observation seems to me capricious. For just as an opaque body may be
+seen, so a concept may be understood or grasped. And the parallel
+between the two cases is indeed rather close. In both cases the
+observation is not direct but through intermediaries&mdash;light, lens
+of eye or optical instrument, and retina in the case of visible body,
+linguistic expressions in the case of the concept. And in both cases
+there are or may be tenable theories according to which the entity in
+question, opaque body or concept, is not assumed, but only those
+things which would otherwise be called its effects. (1951b [BE:
+287])</p>
+</blockquote>
+
+<p>
+It should be emphasized that Church&rsquo;s realism about propositions
+is not supposed to follow from their role in causal explanations but
+from his view that no logistic theory that is both true and humanly
+understandable can do without them. It is to this that we now
+turn.</p>
+
+<h3 id="RealAbouProp">6.3 Realism about Propositions</h3>
+
+<p>
+The notion of <em>proposition</em> that Church argued must be
+postulated by semantics is the &ldquo;abstract notion&rdquo;:</p>
+
+<blockquote>
+
+<p>
+independent alike of any particular expression in words and of any
+particular psychological act of judgment or conception&mdash;not the
+particular declarative sentence, but the content or meaning which is
+common to the sentence and its translation into another
+language&mdash;not the particular judgment, but the objective content
+of the judgment, which is capable of being the common property of
+many. (1956&ndash;72 [BE: 742])</p>
+</blockquote>
+
+<p>
+Church credited Leibniz with an important argument that goes some way
+to establishing the need for this notion in semantics. The argument,
+as reported by Church (1956b), is as follows:</p>
+
+<p>
+Truth cannot attach to actual particular thoughts
+(<em>cogitationes</em>) or particular acts of judgment, since what is
+thought or judged by no one may nevertheless be true. Perhaps, then,
+truth attaches to things (<em>res</em>) rather than particular
+thoughts. However, falsehood cannot attach to things, only to
+thoughts. In which case, if truth attaches to things and falsehood
+attaches to thoughts, then we cannot say that the same subject might
+be true or false. Leibniz&rsquo;s way out, as reported by Church, is
+that truth and falsehood attach to <em>possible thoughts</em>. This is
+the notion that Church considered an important step towards the
+abstract notion of a proposition.</p>
+
+<p>
+Church (1956b) noted that instead of making the final step from
+possible thoughts to propositions, we might claim that truth and
+falsehood attach to <em>possible sentences</em> of some
+language&mdash;those that the syntactical rules of the language allow
+as well formed. He added that this move won&rsquo;t serve the
+nominalist like Goodman&mdash;who denies propositions because they are
+abstract&mdash;since the move also invokes abstract types. Further,
+and for the reasons discussed in
+ <a href="#TranArgu">&sect;3.3</a>,
+ if we abandon nominalism but continue to limit our ontology to
+possible sentences, then our semantic theory will provide a false
+analysis of attributions of assertion and belief.</p>
+
+<p>
+Church (1956b) also considered rejecting the first line of argument
+and insisting that truth and falsehood <em>do</em> attach only to
+actual particular thoughts or sentences. In that case, he argued, we
+would be limited to those things that we could actually think or say
+in a reasonable amount of time. In which case, there would no longer
+be a distinction between statements that are unproved because of human
+limitations and those that are <em>unprovable</em> as a matter of
+mathematical necessity.</p>
+
+<p>
+Moreover, Church pointed out that those who are willing to accept
+these limitations must, at the very best, face an excessively
+complicated theory of syntax and semantics (one that, for example,
+would have to be formulated without the notion of an infinite
+sequence):</p>
+
+<blockquote>
+
+<p>
+Indeed the justification would seem to be basically the same for
+extended physical objects in macrophysical theory and for ideal
+sentences in logical syntax: both are postulated entities&mdash;some
+may prefer to say inferred entities&mdash;without which the theory
+would be intolerably complex if not impossible. (1956b [BE:
+359&ndash;60])</p>
+</blockquote>
+
+<p>
+Returning to Leibniz&rsquo;s dialogue, Church pointed out that it
+contained an important assumption about logical form (which Church
+accepted): that there is some <em>thing</em>&mdash;whether a thought
+or another kind of thing&mdash;that is the logical subject of
+attributions of truth and falsehood as well as the logical object of
+attributions of assertion and belief, including attributions
+containing bound variables such as &ldquo;there is something that
+Church asserts and Goodman denies&rdquo;. Church was scathingly
+critical of those (like Goodman) who denied this assumption without
+also providing, in sufficient detail, their own corresponding analyses
+of attributions of assertion and belief. Church (1956b; 1973) noted
+that Scheffler (1954) was almost alone in offering such an analysis
+and defended the assumption by submitting Scheffler&rsquo;s proposal
+to extensive criticism. Especially puzzling to Church was
+Scheffler&rsquo;s willingness to admit that there is a philosophical
+problem about the existence of physical objects while also insisting,
+without argument, that there is a problem about the existence of
+propositions and sentence types that is different in kind.</p>
+
+<p>
+In sum, Church&rsquo;s argument for the existence of propositions is
+as follows. (1) Actual thought or sentence tokens, as well as possible
+sentences, are insufficient for semantics to be a true and humanly
+understandable theory. Rather, (2) propositions are also needed.
+Further, by Church&rsquo;s criterion of ontological commitment, (3) if
+entities of kind \(K\) are entailed by a true theory, then there exist
+entities of kind \(K\). So, (4) there exist propositions. Church
+(1952, 1958a) chides Ayer and Ryle for not taking this last step, that
+is for inadvertently committing themselves to propositions while
+talking about propositional attitudes but denying their existence
+while talking explicitly about propositions as theoretical
+commitments.</p>
+
+<p>
+Regarding the second premise, it remains to be shown that we need to
+take the step from the notion of a <em>possible
+thought</em>&mdash;which is abstracted from the notion of a possible
+mind that is capable of error and so of thinking something
+false&mdash;to the notion of an abstract proposition. Church
+attributed the discovery of the latter notion to both Bolzano and
+Frege (Church 1943a; 1956a,b). However, Church did not endorse
+Bolzano&rsquo;s arguments so much as his conclusion. (For the
+argument, see
+ <a href="../bolzano/#BasBolLogHisWho">&sect;3.3 of the entry on Bolzano</a>.)
+ And as for Frege, Church simply reiterated his remarks about the
+objectivity, mind and language independence, and publicity of
+<em>Gedanke</em>, without telling us exactly why possible thoughts are
+not also objective, mind-and-language-independent, abstract and
+public. Perhaps the issue is that the existence of possible thoughts
+depends on the existence of possible minds, whereas propositions, such
+as <em>that two and two are four</em>, do not depend on the existence
+of possible minds, since, intuitively, they would be true if there
+were no minds at all. Arguably, then, the notion of an abstract
+proposition must be postulated by and so is an ontological commitment
+of a theory that can explain the foregoing intuition.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<h3 id="PrimSour">Primary Sources</h3>
+
+<ul class="hanging">
+
+<li>[BE] Burge, Tyler and Herbert Enderton (eds), 2019, <em>The
+Collected Works of Alonzo Church</em>, Cambridge, MA: MIT Press.</li>
+</ul>
+
+<p>
+Church&rsquo;s papers are located at the Princeton University
+Library</p>
+
+<ul class="hanging">
+
+<li>1927, &ldquo;Alternatives to Zermelo&rsquo;s Assumption&rdquo;,
+<em>Transactions of the American Mathematical Society</em>, 29(1):
+178&ndash;208. Reprinted in BE: 19&ndash;42. doi:10.2307/1989285</li>
+
+<li>1928a, &ldquo;On the Law of Excluded Middle&rdquo;, <em>Bulletin
+of the American Mathematical Society</em>, 34(1): 75&ndash;79.
+Reprinted in BE: 43&ndash;45. doi:10.1090/S0002-9904-1928-04516-0</li>
+
+<li>1928b, &ldquo;Review of <em>Principia Mathematica</em>, by Alfred
+North Whitehead and Bertrand Russell&rdquo;, <em>Bulletin of the
+American Mathematical Society</em>, 34(2): 237&ndash;241. Reprinted in
+BE: 46&ndash;48. doi:10.1090/S0002-9904-1928-04525-1</li>
+
+<li>1932, &ldquo;A Set of Postulates for the Foundation of
+Logic&rdquo;, <em>The Annals of Mathematics</em>, 33(2):
+346&ndash;366. Reprinted in BE: 51&ndash;67. doi:10.2307/1968337</li>
+
+<li>1933, &ldquo;A Set of Postulates For the Foundation of Logic
+(2)&rdquo;, <em>The Annals of Mathematics</em>, 34(4): 839&ndash;864.
+Reprinted in BE: 68&ndash;87. doi:10.2307/1968702</li>
+
+<li>1934, &ldquo;The Richard Paradox&rdquo;, <em>The American
+Mathematical Monthly</em>, 41(6): 356&ndash;361. Reprinted in BE:
+94&ndash;98. doi:10.1080/00029890.1934.11987569</li>
+
+<li>1935a, &ldquo;A Proof of Freedom from Contradiction&rdquo;,
+<em>Proceedings of the National Academy of Sciences</em>, 21(5):
+275&ndash;281. Reprinted in BE: 99&ndash;104.
+doi:10.1073/pnas.21.5.275</li>
+
+<li>1935b, &ldquo;Review of <em>A System of Logistic</em>, by W. V. O.
+Quine&rdquo;, <em>Bulletin of the American Mathematical Society</em>,
+41(9): 598&ndash;604. Reprinted in BE: 105&ndash;109.
+doi:10.1090/S0002-9904-1935-06146-4</li>
+
+<li>1935c, &ldquo;An Unsolvable Problem of Elementary Number Theory:
+Preliminary Report&rdquo;, <em>Bulletin of the AMS</em>, 41(5):
+332&ndash;333. Reprinted in BE: 110.
+doi:10.1090/S0002-9904-1935-06097-5</li> <!-- notes so far -->
+
+<li>1935d, &ldquo;Letter to Kleene&rdquo;. Printed in BE: 1000.
+November 15, 1935.</li>
+
+<li>1935e, &ldquo;Letter to Bernays&rdquo;. Printed in BE:
+995&ndash;997. July 15, 1935.</li>
+
+<li>1936a, &ldquo;An Unsolvable Problem of Elementary Number
+Theory&rdquo;, <em>American Journal of Mathematics</em>, 58(2):
+345&ndash;363. Reprinted in BE: 111&ndash;125.
+doi:10.2307/2371045</li>
+
+<li>1936b, &ldquo;A Note on the Entscheidungsproblem&rdquo;,
+<em>Journal of Symbolic Logic</em>, 1(1): 40&ndash;41. Reprinted in
+BE: 126&ndash;129. doi:10.2307/2269326</li>
+
+<li>1937a, &ldquo;Review of &lsquo;On Computable Numbers, with an
+Application to the Entscheidungsproblem&rsquo;, by A. M.
+Turing&rdquo;, <em>Journal of Symbolic Logic</em>, 2(1): 42&ndash;43.
+Reprinted in BE: 934. doi:10.1017/S002248120003958X</li>
+
+<li>1937b, &ldquo;Review of &lsquo;Finite Combinatory
+Processes&mdash;Formulation 1&rsquo;, by Emil L. Post&rdquo;,
+<em>Journal of Symbolic Logic</em>, 2(1): 43.
+doi:10.1017/S0022481200039591</li>
+
+<li>1937c, &ldquo;Review of &lsquo;The Logic of Quantum
+Mechanics&rsquo;, by Garrett Birkhoff and John von Neumann&rdquo;,
+<em>Journal of Symbolic Logic</em>, 2(1): 44&ndash;45.
+doi:10.1017/S0022481200039633</li>
+
+<li>1938, &ldquo;The Constructive Second Number Class&rdquo;,
+<em>Bulletin of the American Mathematical Society</em>, 44:
+224&ndash;232. Reprinted in BE: 148&ndash;154.</li>
+
+<li>1939a, &ldquo;Review of <em>Foundations of Logic and
+Mathematics</em>, by Rudolf Carnap&rdquo;, <em>Bulletin of the
+American Mathematical Society</em>, 45(11): 821&ndash;822. Reprinted
+in BE: 161&ndash;162. doi:10.1090/S0002-9904-1939-07085-7</li>
+
+<li>1939b, &ldquo;The Present Situation in the Foundations of
+Mathematics&rdquo;, in <em>Philosophie math&eacute;matique</em>, by F.
+Gonseth, (Actualit&eacute;s scientifiques et industrielles 837),
+Paris: Hermann et Cie, pp. 67&ndash;72. Reprinted in BE:
+155&ndash;160.</li>
+
+<li>1939c, &ldquo;Review of &lsquo;A Logistical Approach to the
+Ontological Problem&rsquo;., by W. V. O. Quine&rdquo;, <em>Journal of
+Symbolic Logic</em>, 4(4): 170. Reprinted in BE: 937&ndash;938.
+doi:10.2307/2268739</li>
+
+<li>1940, &ldquo;A Formulation of the Simple Theory of Types&rdquo;,
+<em>Journal of Symbolic Logic</em>, 5(2): 56&ndash;68. Reprinted in
+BE: 171&ndash;183. doi:10.2307/2266170</li>
+
+<li>1941, <em>The Calculi of Lambda Conversion</em> (Annals of
+Mathematics Studies 6), Princeton, NJ: Princeton University Press.
+Reprinted in BE: 201&ndash;255.</li>
+
+<li>1943a, &ldquo;Carnap&rsquo;s <em>Introduction to Semantics</em>
+(1942)&rdquo;, <em>The Philosophical Review</em>, 52(3):
+298&ndash;304. Reprinted in BE: 259&ndash;264.
+doi:10.2307/2180923</li>
+
+<li>1943b/1968, &ldquo;Review of &lsquo;Notes on Existence and
+Necessity&rsquo;, by W. V. O. Quine&rdquo;, <em>Journal of Symbolic
+Logic</em>, 8(2): 45&ndash;47. Postscript, 1968, originally published
+in 1973, <em>Sem&aacute;ntica filos&oacute;fica</em>, Thomas Moro
+Simpson (ed.). Reprinted with postscript in BE: 942&ndash;948.
+doi:10.2307/2267994</li>
+
+<li>1943c, &ldquo;Correspondence with W. V. Quine&rdquo;. Printed in
+BE: 1074&ndash;1090.</li>
+
+<li>1944a, &ldquo;Review of <em>Formalization of Logic</em>, by Rudolf
+Carnap&rdquo;, <em>The Philosophical Review</em>, 53(5): 493.
+Reprinted in BE: 265&ndash;269. doi:10.2307/2181359</li>
+
+<li>1944b, <em>Introduction to Mathematical Logic, Part I</em>,
+(Annals of Mathematics Studies, 13), Princeton, NJ: Princeton
+University Press. Revised and enlarged in Church 1956a.</li>
+
+<li>1945a, &ldquo;Review of &lsquo;Logic without Ontology&rsquo;, by
+Ernest Nagel&rdquo;, <em>Journal of Symbolic Logic</em>, 10(1):
+16&ndash;18; reprinted in BE: 951&ndash;953. doi:10.2307/2267202</li>
+
+<li>1945b, &ldquo;Referee Reports on Fitch&rsquo;s &lsquo;A Definition
+of Value&rsquo;&thinsp;&rdquo;, in J. Salerno (ed.) 2009,
+13&ndash;20.</li>
+
+<li>1946a, &ldquo;Review of &lsquo;A Note on the Paradox of
+Analysis&rsquo;, by Morton G. White; &lsquo;The Paradox of Analysis
+Again: A Reply&rsquo;, by Max Black; &lsquo;Analysis and Identity: A
+Rejoinder&rsquo;, by Morton G. White; &lsquo;How Can Analysis Be
+Informative?&rsquo; by Max Black&rdquo;, <em>Journal of Symbolic
+Logic</em>, 11(4): 132&ndash;133. Reprinted in BE: 956&ndash;957.
+doi:10.2307/2268327</li>
+
+<li>1946b, &ldquo;A Formulation of the Logic of Sense and
+Denotation&rdquo;, Abstract from the Eighth Meeting of the Association
+for Symbolic Logic, <em>Journal of Symbolic Logic</em>, 11(1): 31.
+Reprinted in BE: 270&ndash;272. doi:10.2307/2269172</li>
+
+<li>1949a, &ldquo;Review of <em>Language, Truth and Logic</em>, by
+Alfred Jules Ayer&rdquo;, <em>Journal of Symbolic Logic</em>, 14(1):
+52&ndash;53. Reprinted in BE: 963&ndash;964. doi:10.2307/2268980</li>
+
+<li>1949b, &ldquo;Grelling&rsquo;s Antinomy for the System of <em>A
+Formulation of the Simple Theory of Types</em>&rdquo;, previously
+unpublished manuscript. Printed in BE: 276&ndash;278.</li>
+
+<li>1950a, &ldquo;On Carnap&rsquo;s Analysis of Statements of
+Assertion and Belief&rdquo;, <em>Analysis</em>, 10(5): 97&ndash;99.
+Reprinted in BE: 279&ndash;281. doi:10.1093/analys/10.5.97</li>
+
+<li>1950b, &ldquo;Letter to Carnap&rdquo;. Printed in BE:
+1063&ndash;1064. July 11, 1950.</li>
+
+<li>1950c, &ldquo;Review of &lsquo;Modern Logic and the Synthetic A
+Priori&rsquo;, by Irving M. Copi&rdquo;, <em>Journal of Symbolic
+Logic</em>, 15(3): 221. doi:10.2307/2266825</li>
+
+<li>1951a, &ldquo;A Formulation of the Logic of Sense and
+Denotation&rdquo;, in <em>Structure, Method and Meaning: Essays in
+Honor of Henry M. Sheffer</em>, Paul Henley, H. M. Kallen, and S. K.
+Langer (eds), New York: The Liberal Arts Press, pp. 3&ndash;24.
+Reprinted in BE: 292&ndash;306.</li>
+
+<li>1951b, &ldquo;The Need for Abstract Entities in Semantic
+Analysis&rdquo;, <em>Proceedings of the American Academy of Arts and
+Sciences</em>, 80(1): 100&ndash;112. Reprinted as &ldquo;Intensional
+Semantics&rdquo; in BE: 282&ndash;291. doi:10.2307/20023640</li>
+
+<li>1952, &ldquo;Review of &lsquo;Introduction&rsquo; by A. G. N.
+Flew; &lsquo;Systematically Misleading Expressions&rsquo; by Gilbert
+Ryle; and &lsquo;Verifiability&rsquo; by Friedrich Waismann in
+<em>Essays on Logic and Language</em>&rdquo;, <em>Journal of Symbolic
+Logic</em>, 17(4): 284&ndash;285. Reprinted in BE: 966&ndash;968.
+doi:10.2307/2266640</li>
+
+<li>1954, &ldquo;Intensional Isomorphism and Identity of
+Belief&rdquo;, <em>Philosophical Studies</em>, 5(5): 65&ndash;73.
+Reprinted in BE: 349&ndash;355. doi:10.1007/BF02221771</li>
+
+<li>1956a, <em>Introduction to Mathematical Logic, Volume I,</em>,
+Princeton, NJ: Princeton University Press. Revised and enlarged
+version of 1944b; the second volume was never published. Reprinted in
+BE: 372&ndash;425.</li>
+
+<li>1956b, &ldquo;Propositions and Sentences&rdquo;, in <em>The
+Problem of Universals: A Symposium</em>, I.M. Bochenski, Alonzo
+Church, and Nelson Goodman, Notre Dame, IN: University of Notre Dame
+Press pp. 1&ndash;12. Reprinted in BE: 356&ndash;361.</li>
+
+<li>1956&ndash;72, Articles from <em>Encyclopedia Britannica</em>.
+Reprinted in BE: 692&ndash;746.</li>
+
+<li>1958a, &ldquo;Ontological Commitment&rdquo;, <em>The Journal of
+Philosophy</em>, 55(23): 1008&ndash;1014. Reprinted in BE:
+356&ndash;361. doi:10.2307/2021909</li>
+
+<li>1958b, &ldquo;Misogyny and Ontological Commitment&rdquo;. Printed
+in BE: 443&ndash;447.</li>
+
+<li>1959, Articles from <em>the Dictionary of Philosophy</em>, D. D.
+Runes (ed.), New York: Philosophical Library. Reprinted in BE:
+448&ndash;530.</li>
+
+<li>1960, &ldquo;Application of Recursive Arithmetic to the Problem of
+Circuit Synthesis&rdquo;, in <em>Summaries of Talks Presented at the
+Summer Institute for Symbolic Logic, CornellUniversity</em>, 1957, 2nd
+ed., Princeton, NJ: Communications Research Division, Institute for
+Defense Analyses, pp. 3&ndash;50.</li>
+
+<li>1962a, &ldquo;Logic, Arithmetic, and Automata&rdquo;,
+<em>Proceedings of the International Congress of Mathematicians,
+1962</em>, volume 1, pp. 23&ndash;35.</li>
+
+<li>1962b, &ldquo;Mathematics and Logic&rdquo;, <em>Logic, Methodology
+and Philosophy of Science: Proceedings of the 1960 International
+Congress</em>, Ernest Nagel, Patrick Suppes, and Alfred Tarski (eds),
+Stanford, CA: Stanford University Press, pp. 181&ndash;186. Reprinted
+in BE: 608&ndash;612.</li>
+
+<li>1965, &ldquo;Review of &lsquo;Existential Import Revisited&rsquo;
+by Karel Lambert&rdquo;, <em>Journal of Symbolic Logic</em>, 30(1):
+103&ndash;104.</li>
+
+<li>1966, &ldquo;Paul J. Cohen and the Continuum Problem&rdquo;,
+<em>Proceedings of the International Congress of Mathematicians
+1966</em>, volume 1, pp. 15&ndash;20. Reprinted in BE:
+675&ndash;679.</li>
+
+<li>1968/1972/1976, &ldquo;Partial Outline of <em>Introduction to
+Mathematical Logic</em> Chapter VIII&rdquo;, unpublished manuscripts,
+printed BE: 889&ndash;927.</li>
+
+<li>1973a, &ldquo;On Scheffler&rsquo;s Approach to Indirect
+Quotation&rdquo;, in <em>Sobre el an&aacute;lisis del discurso
+indirecto propuesto por Scheffler, Sem&aacute;ntica filos&oacute;fica:
+Problemas y discusiones</em>, Thomas Moro Simpson (ed.), Siglo XXI
+Argentina Editores S.A., Buenos Aires, pp. 363&ndash;369. Reprint in
+BE: 747&ndash;750.</li>
+
+<li>1973b, &ldquo;Outline of a Revised Formulation of the Logic of
+Sense and Denotation (Part I)&rdquo;, <em>No&ucirc;s</em>, 7(1):
+24&ndash;33. Reprinted in BE: 751&ndash;772. doi:10.2307/2216181</li>
+
+<li>1974a, &ldquo;Outline of a Revised Formulation of the Logic of
+Sense and Denotation (Part II)&rdquo;, <em>No&ucirc;s</em>, 8(2):
+135&ndash;156. Reprinted in BE: 751&ndash;772.
+doi:10.2307/2214782</li>
+
+<li>1974b, &ldquo;Russellian Simple Type Theory&rdquo;,
+<em>Proceedings and Addresses of the American Philosophical
+Association</em>, 47: 21&ndash;33. Reprinted in BE: 773&ndash;783.
+doi:10.2307/3129899</li>
+
+<li>1974c, &ldquo;Set Theory with a Universal Set&rdquo;,
+<em>Proceedings of the Tarski Symposium in American Mathematical
+Society: Proceedings of Symposia in Pure Mathematics</em>, volume 25:
+297&ndash;308. Reprinted in BE: 784&ndash;793.
+doi:10.1090/pspum/025/0369069</li>
+
+<li>1975, &ldquo;Review of &lsquo;Realism as a Philosophy of
+Mathematics&rsquo; by Stephen F. Barker in <em>Foundations of
+mathematics, Symposium papers commemorating the sixtieth birthday of
+Kurt Godel</em>&rdquo;, <em>Journal of Symbolic Logic</em>, 40: 593.
+Reprinted in BE: 983-984.</li>
+
+<li>1976, &ldquo;Comparison of Russell&rsquo;s Resolution of the
+Semantical Antinomies with That of Tarski&rdquo;, <em>Journal of
+Symbolic Logic</em>, 41(4): 747&ndash;760. Reprinted in BE:
+794&ndash;806. doi:10.2307/2272393</li>
+
+<li>1979, &ldquo;How Far Can Frege&rsquo;s Intensional Logic be
+Reproduced Within Russell&rsquo;s Theory of Descriptions&rdquo;,
+previously unpublished abstract of a lecture. Printed in BE:
+807&ndash;808.</li>
+
+<li>1982, &ldquo;A Remark Concerning Quine&rsquo;s Paradox About
+Modality&rdquo;, <em>Una Observacion respecto a la Paradoja de Quine
+sobre la Modalidad</em>, special issue of <em>An&aacute;lisis
+Filos&oacute;fico</em>, 2(1/2): 25&ndash;32. Reprinted in BE:
+809&ndash;814.</li>
+
+<li>1984, &ldquo;Russell&rsquo;s Theory of Identity of
+Propositions&rdquo;, <em>Philosophia Naturalis</em>, 21(2/4):
+513&ndash;522. Reprinted in BE: 815&ndash;821.</li>
+
+<li>1989, &ldquo;Intensionality and the Paradox of the Name
+Relation&rdquo;, in Almog, Perry, and Wettstein 1989: 151&ndash;165.
+Reprinted in BE: 834&ndash;844.</li>
+
+<li>1993, &ldquo;A Revised Formulation of the Logic of Sense and
+Denotation. Alternative (1)&rdquo;, <em>No&ucirc;s</em>, 27(2):
+141&ndash;157. Reprinted in BE: 845&ndash;859.
+doi:10.2307/2215752</li>
+
+<li>1995a, &ldquo;Grelling&rsquo;s Antinomy&rdquo;, printed BE:
+929&ndash;931.</li>
+
+<li>1995b, &ldquo;Corrections and Minor Comments Affecting
+Heyting&rsquo;s <em>Intuitionism,</em> Edition of 1976&rdquo;. Printed
+in BE: 932&ndash;933.</li>
+
+<li>1995c, &ldquo;A Theory of the Meaning of Names&rdquo;, in <em>The
+Heritage of Kazimierz Ajdukiewicz</em>, Vito Sinisi and Jan
+Wole&#324;ski (eds), Amsterdam: Rodopi, 69&ndash;74. Reprinted in BE:
+859&ndash;863.</li>
+
+<li>n.d., &ldquo;Resolution of Berry&rsquo;s Antinomy by Ramified Type
+Theory&rdquo;, printed in BE: 928.</li>
+
+<li>Church, Alonzo and J. B. Rosser, 1936, &ldquo;Some Properties of
+Conversion&rdquo;, <em>Transactions of the American Mathematical
+Society</em>, 39(3): 472&ndash;482. Reprinted in BE: 130&ndash;138.
+doi:10.1090/S0002-9947-1936-1501858-0</li>
+</ul>
+
+<h3 id="SecoSour">Secondary Sources</h3>
+
+<ul class="hanging">
+
+<li>Ajdukiewicz, Kazimierz, 1960, &ldquo;A Method of Eliminating
+Intensional Sentences and Sentential Formulae&rdquo;:, in <em>Atti Del
+XII Congresso Internazionale Di Filosofia</em>, Sansoni Editore,
+5:17&ndash;24. doi:10.5840/wcp1219605242</li>
+
+<li>&ndash;&ndash;&ndash;, 1967, &ldquo;Intensional
+Expressions&rdquo;, <em>Studia Logica</em>, 20: 63&ndash;86.
+doi:10.1007/BF02340029</li>
+
+<li>Almog, Joseph and Paolo Leonardi (eds.), 2009, <em>The Philosophy
+of David Kaplan</em>, Oxford: Oxford University Press.
+doi:10.1093/acprof:oso/9780195367881.001.0001</li>
+
+<li>Almog, Joseph, John Perry, and Howard Wettstein (eds), 1989,
+<em>Themes from Kaplan</em>, New York: Oxford University Press.</li>
+
+<li>Anderson, C. Anthony, 1980, &ldquo;Some New Axioms for the Logic
+of Sense and Denotation: Alternative (0)&rdquo;, <em>No&ucirc;s</em>,
+14(2): 217&ndash;234. doi:10.2307/2214862</li>
+
+<li>&ndash;&ndash;&ndash;, 1983, &ldquo;The Paradox of the
+Knower&rdquo;, <em>The Journal of Philosophy</em>, 80(6):
+338&ndash;355. doi:10.2307/2026335</li>
+
+<li>&ndash;&ndash;&ndash;, 1986, &ldquo;Some Difficulties Concerning
+Russellian Intensional Logic&rdquo;, <em>No&ucirc;s</em>, 20(1):
+35&ndash;43. doi:10.2307/2215278</li>
+
+<li>&ndash;&ndash;&ndash;, 1987, &ldquo;Semantical Antinomies in the
+Logic of Sense and Denotation&rdquo;, <em>Notre Dame Journal of Formal
+Logic</em>, 28(1): 99&ndash;114. doi:10.1305/ndjfl/1093636849</li>
+
+<li>&ndash;&ndash;&ndash;, 1998, &ldquo;Alonzo Church&rsquo;s
+Contributions to Philosophy and Intensional Logic&rdquo;, <em>Bulletin
+of Symbolic Logic</em>, 4(2): 129&ndash;171. doi:10.2307/421020</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;Alternative (1*): A Criterion
+of Identity for Intensional Entities&rdquo;, in Anderson and
+Zel&euml;ny 2001: 395&ndash;427. doi:10.1007/978-94-010-0526-5_19</li>
+
+<li>Anderson, C. Anthony and Michael Zel&euml;ny (eds.), 2001,
+<em>Logic, Meaning and Computation: Essays in Memory of Alonzo
+Church</em>, Dordrecht: Kluwer. doi:10.1007/978-94-010-0526-5</li>
+
+<li>Anderson, Alan Ross, Ruth Barcan Marcus, and R. M. Martin (eds.),
+1975, <em>The Logical Enterprise</em>, New Haven, CT: Yale University
+Press.</li>
+
+<li>Andrews, P.B., 1986, <em>Introduction to Mathematical Logic and
+Type Theory: To Truth Through Proof</em>, Orlando, FL: Academic
+Press.</li>
+
+<li>Ayer, A.J., 1936 [1952], <em>Language, Truth and Logic</em>,
+London: V. Gollancz. Reprinted New York: Dover Publications,
+1952.</li>
+
+<li>Azzouni, Jody, 2004, <em>Deflating Existential Consequence: A Case
+for Nominalism</em>, New York: Oxford University Press.
+doi:10.1093/0195159888.001.0001</li>
+
+<li>&ndash;&ndash;&ndash;, 2010, <em>Talking About Nothing: Numbers,
+Hallucinations and Fictions</em>, New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780199738946.001.0001</li>
+
+<li>Bealer, George, 1982, <em>Quality and Concept</em>, Oxford:
+Clarendon Press. doi:10.1093/acprof:oso/9780198244288.001.0001</li>
+
+<li>Bernays, Paul, 1961, &ldquo;Zur Rolle der Sprache in
+erkenntnistheoretischer Hinsicht&rdquo;, <em>Synthese</em>, 13(3):
+185&ndash;200. Translated as &ldquo;On the Role of Language from An
+Epistemological Point of View&rdquo; by Dirk Schlimm with revisions by
+Steve Awodey, Bernays Project, Text No. 25, no date.
+doi:10.1007/BF00489883
+ [<a href="https://www.semanticscholar.org/paper/On-the-role-of-language-from-an-epistemological-of-Bernays-Schlimm/f88411614be76b47ce69155d9bb2dffcc1930dde" target="other">Translation of Bernays 1961 available online</a>]</li>
+ 
+<li>Boolos, George S., John P. Burgess, and Richard C. Jeffrey, 2007,
+<em>Computability and Logic</em>, fifth edition, Cambridge: Cambridge
+University Press. First edition by George Boolos and Richard Jeffrey,
+1974. doi:10.1017/CBO9780511804076</li>
+
+<li>Burge, Tyler, 1978, &ldquo;Belief and Synonymy&rdquo;, <em>The
+Journal of Philosophy</em>, 75(3): 119&ndash;138.
+doi:10.2307/2025424</li>
+
+<li>&ndash;&ndash;&ndash;, 2005a, <em>Truth, Thought, Reason: Essays
+on Frege</em>, Oxford: Clarendon Press.
+doi:10.1093/acprof:oso/9780199278534.001.0001</li>
+
+<li>&ndash;&ndash;&ndash;, 2005b, &ldquo;Introduction&rdquo;, in Burge
+2005a: 1&ndash;68.</li>
+
+<li>&ndash;&ndash;&ndash;, 2005c, &ldquo;Postscript to <em>Frege and
+the Hierarchy</em>&rdquo;, in Burge 2005a: 167&ndash;210.</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Postscript to &lsquo;Belief
+<em>De Re</em>&rsquo;&rdquo;, in his <em>Foundations of Mind</em>,
+Oxford: Clarendon Press, 65&ndash;81.</li>
+
+<li>&ndash;&ndash;&ndash;, 2009, &ldquo;Five Theses on De Re States
+and Attitudes&rdquo;, in Almog and Leonardi 2009: 246&ndash;316.
+doi:10.1093/acprof:oso/9780195367881.003.0015</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;Alonzo Church: Life and
+Work&rdquo;, in BE: xx&ndash;xxiv.</li>
+
+<li>Burgess, John P., 2001, &ldquo;Nominalist Paraphrase and
+Ontological Commitment&rdquo;, in Anderson and Zel&euml;ny 2001:
+429&ndash;443. doi:10.1007/978-94-010-0526-5_20</li>
+
+<li>Button, Tim and Sean Walsh, 2018, <em>Philosophy and Model
+Theory</em>, Oxford: Oxford University Press.
+doi:10.1093/oso/9780198790396.001.0001</li>
+
+<li>Carnap, Rudolf, 1939, <em>Foundations of Logic and
+Mathematics</em>, (International Encyclopedia of Unified Science, vol.
+1, no. 3), Chicago, IL: University of Chicago Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1942, <em>Introduction to Semantics</em>,
+Cambridge, MA: Harvard University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1947, <em>Meaning and Necessity: A Study in
+Semantics and Modal Logic</em>, Chicago, IL: University of Chicago
+Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1964, &ldquo;Replies and Systematic
+Expositions&rdquo;, in <em>The Philosophy of Rudolph Carnap</em>, Paul
+Arthur Schilpp (ed.), Illinois: La Salle.</li>
+
+<li>Carroll, Lewis, 1895, &ldquo;What the Tortoise Said to
+Achilles&rdquo;, <em>Mind</em>, 4(14): 278&ndash;280.
+doi:10.1093/mind/IV.14.278</li>
+
+<li>Copi, Irving, 1971, <em>The Theory of Logical Types</em>, London:
+Routledge and Kegan Paul.</li>
+
+<li>Craig, William, 1953, &ldquo;On Axiomatizability within a
+System&rdquo;, <em>Journal of Symbolic Logic</em>, 18(1): 30&ndash;32.
+doi:10.2307/2266324</li>
+
+<li>Davidson, Donald, 1965, &ldquo;Theories of Meaning and Learnable
+Languages&rdquo;, in <em>Proceedings of the International Congress for
+Logic, Methodology, and Philosophy of Science</em>, Yehoshua
+Bar-Hillel (ed.), Dordrecht: North-Holland, 3&ndash;17.</li>
+
+<li>Davis, Martin, 1958, <em>Computability and Unsolvability</em>, New
+York: McGraw Hill.</li>
+
+<li>&ndash;&ndash;&ndash; (ed.), 1965, <em>The Undecidable: Basic
+Papers on Undecidable Propositions, Unsolvable Problems and Computable
+Functions</em>, Hewlett, NY: Raven Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1982, &ldquo;Why G&ouml;del Didn&rsquo;t
+Have Church&rsquo;s Thesis&rdquo;, <em>Information and Control</em>,
+54(1&ndash;2): 3&ndash;24. doi:10.1016/S0019-9958(82)91226-8</li>
+
+<li>Deutsch, Harry, 2008, &ldquo;Review of <em>The Nature and
+Structure of Content</em>, by Jeffrey C. King&rdquo;, Notre Dame
+Philosophical Reviews, 2008.05.24.
+ [<a href="https://ndpr.nd.edu/reviews/the-nature-and-structure-of-content/" target="other">Deutsch 2008 available online</a>]</li>
+ 
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;Resolution of Some Paradoxes
+of Propositions&rdquo;, <em>Analysis</em>, 74(1): 26&ndash;34.
+doi:10.1093/analys/ant089</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;Propositional Paradox&rdquo;,
+in <em>The Routledge Handbook of Propositions</em>, Chris Tillman
+(ed.), Taylor and Francis.</li>
+
+<li>Farmer, William M., 2008, &ldquo;The Seven Virtues of Simple Type
+Theory&rdquo;, <em>Journal of Applied Logic</em>, 6(3): 267&ndash;286.
+doi:10.1016/j.jal.2007.11.001</li>
+
+<li>Feferman, Sol, 1995, &ldquo;Ordinal logic&rdquo;, <em>The
+Cambridge Dictionary of Philosophy</em>, Cambridge: Cambridge
+University Press, 550&ndash;551.</li>
+
+<li>Fitch, Frederick, 1963, &ldquo;A Logical Analysis of Some Value
+Concepts&rdquo;, <em>Journal of Symbolic Logic</em>, 28(2):
+135&ndash;142; reprinted in J. Salerno (ed.) 2009, 21&ndash;28.</li>
+
+<li>Fitting, Melvin and Richard L. Mendelsohn, 1998, <em>First-Order
+Modal Logic</em>, Dordrecht: Kluwer.
+doi:10.1007/978-94-011-5292-1</li>
+
+<li>Frege, Gottlob, 1884 [1953], <em>Die Grundlagen der Arithmetik:
+eine logisch mathematische Untersuchung &uuml;ber den Begriff der
+Zahl</em>, Breslau: W. Koebner. Translated as <em>The Foundations of
+Arithmetic.</em>, J. L. Austin (trans.), New York: Harper, 1950;
+second edition, 1953.</li>
+
+<li>&ndash;&ndash;&ndash;, 1891, &ldquo;Funktion und Begriff&rdquo;,
+(Vortrag, gehalten in der Sitzung vom 9. Januar 1891 der Jenaischen
+Gesellschaft f&uuml;r Medizin und Naturwissenschaft), Jena: Hermann
+Pohle. Translated as &ldquo;On Function and Concept&rdquo; in Frege
+1997: 130&ndash;148.</li>
+
+<li>&ndash;&ndash;&ndash;, 1892a, &ldquo;&Uuml;ber Sinn und
+Bedeutung&rdquo;, <em>Zeitschrift f&uuml;r Philosophie und
+philosophische Kritik</em>, 100: 25&ndash;50. Translated as &ldquo;On
+Sense and Reference&rdquo; in Frege 1997: 151&ndash;171.</li>
+
+<li>&ndash;&ndash;&ndash;, 1892b, &ldquo;&Uuml;ber Begriff und
+Gegenstand&rdquo;, <em>Vierteljahrsschrift f&uuml;r wissenschaftliche
+Philosophie</em>, 16: 192&ndash;205. Translated as &ldquo;On Concept
+and Object&rdquo; in Frege 1997: 181&ndash;193.</li>
+
+<li>&ndash;&ndash;&ndash;, 1997, <em>The Frege Reader</em>, Michael
+Beaney (ed.), Oxford: Blackwell Publishers.</li>
+
+<li>Gaifman, Haim, 2006, &ldquo;Naming and Diagonalization, from
+Cantor to G&ouml;del to Kleene&rdquo;, <em>Logic Journal of IGPL</em>,
+14(5): 709&ndash;728. doi:10.1093/jigpal/jzl006</li>
+
+<li>Gandy, Robin, 1980, &ldquo;Church&rsquo;s Thesis and Principles
+for Mechanisms&rdquo;, in <em>The Kleene Symposium</em>, Jon Barwise,
+H. Jerome Keisler, and Kenneth Kunen (eds.), (Studies in Logic and the
+Foundations of Mathematics 101), Amsterdam: North-Holland,
+123&ndash;148. doi:10.1016/S0049-237X(08)71257-6</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;The Confluence of Ideas in
+1936&rdquo;, in <em>The Universal Turing Machine: A Half-Century
+Survey</em>, Rolf Herken (ed.), Oxford: Oxford University Press,
+55&ndash;111.</li>
+
+<li>G&ouml;del, Kurt, 1931 [1986], &ldquo;&Uuml;ber formal
+unentscheidbare S&auml;tze der <em>Principia mathematica</em> und
+verwandter Systeme I (1931)&rdquo;, <em>Monatshefte f&uuml;r
+Mathematik und Physik</em>, 38: 173&ndash;198. Reprinted and
+translated as &ldquo;On Formally Undecidable Propositions of
+<em>Principia Mathematica</em> and Related Systems I&rdquo; in
+G&ouml;del CW I: 144&ndash;195. doi:10.1007/BF01700692 (1931)</li>
+
+<li>&ndash;&ndash;&ndash;, 1944 [1951], &ldquo;Russell&rsquo;s
+Mathematical Logic&rdquo;, in <em>The Philosophy of Bertrand
+Russell</em> (Library of Living Philosophers), Paul Arthur Schilpp
+(ed.), New York: Tudor. Third edition, 1951, pp. 123&ndash;153.</li>
+
+<li>&ndash;&ndash;&ndash;, 1972, &ldquo;Remark 3 (1972a): A
+Philosophical Error in Turing&rsquo;s Work&rdquo;. Printed in
+G&ouml;del CW II: 306.</li>
+
+<li>&ndash;&ndash;&ndash;, [CW I] 1986, <em>Collected Works, Volume I:
+Publications 1929&ndash;1936</em>, Sol Feferman (editor-in-chief), New
+York: Oxford University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, [CW II] 1989, <em>Collected Works, Volume
+II: Publications 1938&ndash;1974</em>, Sol Feferman (editor-in-chief),
+New York: Oxford University Press.</li>
+
+<li>Goodman, Jeremy, 2017, &ldquo;Reality Is Not Structured&rdquo;,
+<em>Analysis</em>, 77(1): 43&ndash;53. doi:10.1093/analys/anw002</li>
+
+<li>Heim, Irene and Angelika Kratzer, 1998, <em>Semantics in
+Generative Grammar</em>, (Blackwell Textbooks in Linguistics 13),
+Malden, MA: Blackwell.</li>
+
+<li>Henkin, Leon, 1950, &ldquo;Completeness in the Theory of
+Types&rdquo;, <em>Journal of Symbolic Logic</em>, 15(2): 81&ndash;91.
+doi:10.2307/2266967</li>
+
+<li>Hilbert, David, 1926 [1967], &ldquo;&Uuml;ber das
+Unendliche&rdquo;, <em>Mathematische Annalen</em>, 95: 161&ndash;190;
+presented to the Westphalian Mathematical Society 4 June 1925.
+Translated as &ldquo;On the Infinite&rdquo;, Stefan Bauer-Mengelberg
+(trans.), in <em>From Frege to G&ouml;del: A Source Book in
+Mathematical Logic, 1879&ndash;1931</em>, Jean van Heijenoort (ed.),
+Cambridge, MA: Harvard University Press, 1967, pp. 367&ndash;392.
+doi:10.1007/BF01206605 (German)</li>
+
+<li>Hilbert, David and W. Ackerman, 1928 [1950], <em>Grundzuge der
+theoretischen Logik</em>, Berlin: J. Springer. Translated as
+<em>Principles of Mathematical Logic</em>, Lewis M. Hammond, George G.
+Leckie, and F. Steinhardt (trans), New York: Chelsea Publishing
+Company.</li>
+
+<li>Hilbert, David and Bernays, Paul, 1934 [1968], <em>Grundlagen der
+Mathematik I</em>, <em>Die Grundlehren der mathematischen
+Wissenschaften</em>, 40, 2nd edition, Berlin: J. Springer.</li>
+
+<li>Hindley, J. Roger and Jonathan P. Seldin, 2008,
+<em>Lambda-Calculus and Combinators: An Introduction</em>, second
+edition, Cambridge: Cambridge University Press.
+doi:10.1017/CBO9780511809835</li>
+
+<li>Hudak, Paul, 1989, &ldquo;Conception, Evolution, and Application
+of Functional Programming Languages&rdquo;, <em>ACM Computing
+Surveys</em>, 21(3): 359&ndash;411. doi:10.1145/72551.72554</li>
+
+<li>Kaplan, David, 1964, <em>Foundations of Intensional Logic</em>,
+Ph.D. Thesis, University of California, Los Angeles.</li>
+
+<li>&ndash;&ndash;&ndash;, 1975a, &ldquo;Significance and
+Analyticity&rdquo;, in <em>Rudolf Carnap, Logical Empiricist</em>,
+Jaakko Hintikka (ed.), Boston: Dordecht Reidel, pp. 87&ndash;94.</li>
+
+<li>&ndash;&ndash;&ndash;, 1975b, &ldquo;How to Russell a
+Frege-Church&rdquo;, <em>The Journal of Philosophy</em>, 72(19):
+716&ndash;729. doi:10.2307/2024635</li>
+
+<li>&ndash;&ndash;&ndash;, 1989, &ldquo;Demonstratives&rdquo;, in
+Almog, Perry, and Wettstein 1989: 481&ndash;564.</li>
+
+<li>&ndash;&ndash;&ndash;, 2005, &ldquo;Reading &lsquo;On
+Denoting&rsquo; on Its Centenary&rdquo;, <em>Mind</em>, 114(456):
+933&ndash;1003. doi:10.1093/mind/fzi933</li>
+
+<li>Kemeny, John George, 1949, <em>Type-theory vs. Set-theory</em>,
+Ph.D. Thesis, Princeton University.</li>
+
+<li>Kleene, Stephen C., 1936, &ldquo;General Recursive Functions of
+Natural Numbers&rdquo;, <em>Mathematische Annalen</em>, 112:
+727&ndash;742. doi:10.1007/BF01565439</li>
+
+<li>&ndash;&ndash;&ndash;, 1938, &ldquo;On Notations for Ordinal
+Numbers&rdquo;, <em>The Journal of Symbolic Logic</em>, 3(4):
+150&ndash;155.</li>
+
+<li>&ndash;&ndash;&ndash;, 1952, <em>Introduction to
+Metamathematics</em>, New York: Van Nostrand.</li>
+
+<li>&ndash;&ndash;&ndash;, 1981, &ldquo;Origins of Recursive Function
+Theory&rdquo;, <em>Annals of the History of Computing</em>, 3(1):
+52&ndash;67. doi:10.1109/MAHC.1981.10004</li>
+
+<li>Kleene, Stephen C. and J. B. Rosser, 1935, &ldquo;The
+Inconsistency of Certain Formal Logics&rdquo;, <em>The Annals of
+Mathematics</em>, 36(3): 630&ndash;636. doi:10.2307/1968646</li>
+
+<li>Klement, Kevin C., 2002, <em>Frege and the Logic of Sense and
+Reference</em>, New York: Routledge.</li>
+
+<li>Kreisel, Georg, 1987, &ldquo;Church&rsquo;s Thesis and the Ideal
+of Informal Rigour&rdquo;, <em>Notre Dame Journal of Formal
+Logic</em>, 28(4): 499&ndash;519. doi:10.1305/ndjfl/1093637646</li>
+
+<li>Kripke, Saul A., 1979, &ldquo;A Puzzle about Belief&rdquo;, in
+Margalit 1979: 239&ndash;283. doi:10.1007/978-1-4020-4104-4_20</li>
+
+<li>&ndash;&ndash;&ndash;, 2005, &ldquo;Russell&rsquo;s Notion of
+Scope*&rdquo;, <em>Mind</em>, 114(456): 1005&ndash;1037.
+doi:10.1093/mind/fzi1005</li>
+
+<li>&ndash;&ndash;&ndash;, 2008 [2011a], &ldquo;Frege&rsquo;s Theory
+of Sense and Reference: Some Exegetical Notes&rdquo;,
+<em>Theoria</em>, 74(3): 181&ndash;218. Reprinted in Kripke 2011c: ch.
+9, pp. 254&ndash;291. doi:10.1111/j.1755-2567.2008.00018.x</li>
+
+<li>&ndash;&ndash;&ndash;, 2011b, &ldquo;A Puzzle about Time and
+Thought&rdquo;, in Kripke 2011c: ch. 13, pp. 273&ndash;380.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011c, <em>Philosophical Troubles:
+Collected Papers, Volume 1</em>, Oxford: Oxford University Press.
+doi:10.1093/acprof:oso/9780199730155.001.0001</li>
+
+<li>&ndash;&ndash;&ndash;, 2013, &ldquo;The Church-Turing
+&lsquo;Thesis&rsquo; as a Special Corollary of G&ouml;del&rsquo;s
+Completeness Theorem&rdquo;, in <em>Computability: Turing, G&ouml;del,
+Church, and Beyond</em>, Jack Copeland, Carl Posy, and Oron Shagrir
+(eds), Cambridge, MA: MIT Press, pp. 77&ndash;104.</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;The Road to G&ouml;del&rdquo;,
+in <em>Naming, Necessity, and More: Explorations in the Philosophical
+Work of Saul Kripke</em>, Jonathan Berg (ed.), London: Palgrave
+Macmillan UK, 223&ndash;241. doi:10.1057/9781137400932_11</li>
+
+<li>Linsky, Bernard, 2009, &ldquo;Logical Types in Some Arguments
+about Knowability and Belief&rdquo;, in J. Salerno (ed.) 2009,
+263&ndash;282.</li>
+
+<li>Margalit, Avishai (ed.), 1979, <em>Meaning and Use: Papers
+Presented at the Second Jerusalem Philosophical Encounter April
+1976</em>, (Synthese Language Library 3), Dordrecht: Springer
+Netherlands. doi:10.1007/978-1-4020-4104-4</li>
+
+<li>Martin, Robert L., 1984, <em>Recent Essays on Truth and the Liar
+Paradox</em>, Oxford: Clarendon Press.</li>
+
+<li>Mates, Benson, 1950, &ldquo;Synonymity&rdquo;, in <em>University
+of California Publications in Philosophy</em>, volume 25, Berkeley,
+CA: University of California Press, pp. 201&ndash;266.</li>
+
+<li>Mendelson, Elliott, 1990, &ldquo;Second Thoughts about
+Church&rsquo;s Thesis and Mathematical Proofs&rdquo;, <em>The Journal
+of Philosophy</em>, 87(5): 225&ndash;233. doi:10.2307/2026831</li>
+
+<li>Montague, Richard, 1962, &ldquo;Syntactical Treatments of
+Modality, with Corollaries on Reflexion Principles and Finite
+Axiomatizability&rdquo;, in <em>Proceedings of a Colloquium on Modal
+and Many-valued Logics, Helsinki, 23&ndash;26 August, 1962</em>,
+<em>Acta philosophica Fennica</em>, 16: 153&ndash;167.</li>
+
+<li>&ndash;&ndash;&ndash;, 1969, &ldquo;On the Nature of Certain
+Philosophical Entities&rdquo;:, <em>The Monist</em>, 53(2):
+159&ndash;194. doi:10.5840/monist19695327</li>
+
+<li>&ndash;&ndash;&ndash;, 1970a, &ldquo;Universal Grammar&rdquo;,
+<em>Theoria</em>, 36: 373-398.</li>
+
+<li>&ndash;&ndash;&ndash;, 1970, &ldquo;Pragmatics and Intensional
+Logic&rdquo;, <em>Synthese</em>, 22(1&ndash;2): 68&ndash;94.
+doi:10.1007/BF00413599</li>
+
+<li>Myhill, John R., 1953, &ldquo;Symposium: On the Ontological
+Significance of the L&ouml;wenheim-Skolem Theorem II&rdquo;, in
+<em>Academic Freedom, Logic, and Religion</em>, Morton White (ed.),
+Philadelphia, PA: University of Pennsylvania Press, 57&ndash;70.
+doi:10.9783/9781512808520-002</li>
+
+<li>&ndash;&ndash;&ndash;, 1958, &ldquo;Problems Arising in the
+Formalization of Intensional Logic&rdquo;, <em>Logique et
+Analyse</em>, new series 1(2): 74&ndash;83.</li>
+
+<li>&ndash;&ndash;&ndash;, 1975, &ldquo;Levels of Implication&rdquo;,
+in Anderson et al. 1975: 1979&ndash;185.</li>
+
+<li>&ndash;&ndash;&ndash;, 1979, &ldquo;A Refutation of An Unjustified
+Attack on the Axiom of Reducibility&rdquo;, <em>Bertrand Russell
+Memorial Volume</em>, George W. Roberts (ed.), New York: Humanities
+Press. pp. 81&ndash;90.</li>
+
+<li>Padr&oacute;, Romina, 2015, <em>What the Tortoise Said to Kripke:
+the Adoption Problem and the Epistemology of Logic</em>, Ph.D. Thesis,
+City University of New York.</li>
+
+<li>Parsons, Charles, 1982, &ldquo;Intensional Logic in Extensional
+Language&rdquo;, <em>Journal of Symbolic Logic</em>, 47(2):
+289&ndash;328. doi:10.2307/2273143</li>
+
+<li>&ndash;&ndash;&ndash;, 1987, &ldquo;Developing Arithmetic in Set
+Theory without Infinity: Some Historical Remarks&rdquo;, <em>History
+and Philosophy of Logic</em>, 8(2): 201&ndash;213.
+doi:10.1080/01445348708837116</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, <em>Mathematical Thought and Its
+Objects</em>, Cambridge: Cambridge University Press.
+doi:10.1017/CBO9780511498534</li>
+
+<li>Parsons, Terence, 1986, &ldquo;Why Frege Should Not Have Said
+&lsquo;The Concept <em>Horse</em> Is Not a Concept&rsquo;&rdquo;,
+<em>History of Philosophy Quarterly</em>, 3(4): 449&ndash;465.</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;The Logic of Sense and
+Denotation: Extensions and Applications&rdquo;, in Anderson and
+Zel&euml;ny 2001: 507&ndash;543. doi:10.1007/978-94-010-0526-5_25</li>
+
+<li>Partee, Barbara H., Alice ter Meulen, and Robert E. Wall, 1990,
+<em>Mathematical Methods in Linguistics</em>, (Studies in Linguistics
+and Philosophy 30), Dordrecht: Kluwer.
+doi:10.1007/978-94-009-2213-6</li>
+
+<li>Peacocke, Christopher, 2008, <em>Truly Understood</em>, Oxford:
+Oxford University Press.
+doi:10.1093/acprof:oso/9780199239443.001.0001</li>
+
+<li>Plotkin, Gordon D., 1993, &ldquo;Set-Theoretical and Other
+Elementary Models of the &lambda;-Calculus&rdquo;, <em>Theoretical
+Computer Science</em>, 121(1&ndash;2): 351&ndash;409.
+doi:10.1016/0304-3975(93)90094-A</li>
+
+<li>Poincar&eacute;, Jules H., 1906, &ldquo;Mathematcs and Logic
+III&rdquo;, translated by Halsted, G. &amp; Ewald, W. In Ewald (ed.),
+1996, <em>From Kant to Hilbert: A Sourcebook in the Foundations of
+Mathematics</em> (2 volumes), Oxford: Clarendon Press.</li>
+
+<li>Post, Emil L., 1936, &ldquo;Finite Combinatory
+Processes&mdash;Formulation&rdquo;, <em>Journal of Symbolic
+Logic</em>, 1(3): 103&ndash;105. doi:10.2307/2269031</li>
+
+<li>Putnam, Hilary, 1954, &ldquo;Synonymity, and the Analysis of
+Belief Sentences&rdquo;, <em>Analysis</em>, 14(5): 114&ndash;122.
+doi:10.1093/analys/14.5.114</li>
+
+<li>Quine, Willard V., 1939, &lsquo;A Logistical Approach to the
+Ontological Problem&rsquo;, <em>Journal of Symbolic Logic</em>, 4(4):
+170.</li>
+
+<li>&ndash;&ndash;&ndash;, 1943, &ldquo;Notes on Existence and
+Necessity&rdquo;, <em>The Journal of Philosophy</em>, 40(5):
+113&ndash;127. doi:10.2307/2017458</li>
+
+<li>Rogers, Hartley, 1967, <em>Theory of Recursive Functions and
+Effective Computability</em>, New York: McGraw-Hill.</li>
+
+<li>Rosser, Barkley, 1939, &ldquo;An Informal Exposition of Proofs of
+G&ouml;del&rsquo;s Theorems and Church&rsquo;s Theorem&rdquo;,
+<em>Journal of Symbolic Logic</em>, 4(2): 53&ndash;60.
+doi:10.2307/2269059</li>
+
+<li>Russell, Betrand, 1903, <em>The Principles of Mathematics</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1905, &ldquo;On Denoting&rdquo;,
+<em>Mind</em>, 14(4): 479&ndash;493. doi:10.1093/mind/XIV.4.479</li>
+
+<li>&ndash;&ndash;&ndash;, 1908, &ldquo;Mathematical Logic as Based on
+the Theory of Types&rdquo;, <em>American Journal of Mathematics</em>,
+Jul., 30(3): 222-262.</li>
+
+<li>Salerno, Joe (ed.), 2009, <em>New Essays on the Knowability
+Paradox</em>, Oxford: Oxford University Press.</li>
+
+<li>Salm&oacute;n, Nathan, 1986, &ldquo;Reflexivity&rdquo;, <em>Notre
+Dame Journal of Formal Logic</em>, 27(3): 401&ndash;429.
+doi:10.1305/ndjfl/1093636683</li>
+
+<li>&ndash;&ndash;&ndash;, 1993, &ldquo;A Problem in the Frege-Church
+Theory of Sense and Denotation&rdquo;, <em>No&ucirc;s</em>, 27(2):
+158&ndash;166. doi:10.2307/2215753</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;The Very Possibility of
+Language&rdquo;, in Anderson and Zel&euml;ny 2001: 573&ndash;595.
+doi:10.1007/978-94-010-0526-5_27</li>
+
+<li>&ndash;&ndash;&ndash;, 2006, &ldquo;A Theory of Bondage&rdquo;,
+<em>Philosophical Review</em>, 115(4): 415&ndash;448.
+doi:10.1215/00318108-2006-009</li>
+
+<li>&ndash;&ndash;&ndash;, 2010, &ldquo;Lambda in Sentences with
+Designators: An Ode to Complex Predication&rdquo;, <em>The Journal of
+Philosophy</em>, 107(9): 445&ndash;468.
+doi:10.5840/jphil2010107930</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;On What Exists&rdquo;, in
+<em>Quine, Structure, and Ontology</em>, Frederique Janssen-Lauret
+(ed.), Oxford: Oxford University Press, 200&ndash;229.
+doi:10.1093/oso/9780198864288.003.0010</li>
+
+<li>Scott, Dana, and Strachey, Christopher, 1971, &ldquo;Toward a
+Mathematical Semantics for Computer Languages&rdquo;, <em>Proceedings
+of the Symposium on Computers and Automata, Microwave Research
+Institute Symposia Series</em>, 21, Polytechnic Institute of
+Brooklyn.</li>
+
+<li>Shapiro, Stewart, 1991, <em>Foundations without Foundationalism:
+The Case for Second-Order Logic</em>, Oxford: Clarendon Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;The &lsquo;Triumph&rsquo; of
+First-Order Languages&rdquo;, in Anderson and Zel&euml;ny 2001:
+219&ndash;259. doi:10.1007/978-94-010-0526-5_10</li>
+
+<li>Scheffler, Israel, 1954, &ldquo;An Inscriptional Approach to
+Indirect Quotation&rdquo;, <em>Analysis</em>, 14(4): 83&ndash;90.
+doi:10.1093/analys/14.4.83</li>
+
+<li>Shoenfield , Joseph R., 1967, <em>Mathematical Logic</em>,
+Reading, MA: Addison-Wesley.</li>
+
+<li>&ndash;&ndash;&ndash;, 1993, <em>Recursion Theory</em> (Lecture
+Notes in Logic, 1), Berlin/New York: Springer Verlag.</li>
+
+<li>Sieg, Wilfried, 1997, &ldquo;Step by Recursive Step:
+Church&rsquo;s Analysis of Effective Calculability&rdquo;,
+<em>Bulletin of Symbolic Logic</em>, 3(2): 154&ndash;180.
+doi:10.2307/421012</li>
+
+<li>Smullyan, Arthur Francis, 1947, &ldquo;Review of &lsquo;The
+Problem of Interpreting Modal Logic&rsquo;, by W. V. Quine&rdquo;,
+<em>The Journal of Symbolic Logic</em>, 12(4): 139&ndash;141.
+doi:10.2307/2266498</li>
+
+<li>&ndash;&ndash;&ndash;, 1948, &ldquo;Modality and
+Description&rdquo;, <em>Journal of Symbolic Logic</em>, 13(1):
+31&ndash;37. doi:10.2307/2268137</li>
+
+<li>Soames, Scott, 1987, &ldquo;Direct Reference, Propositional
+Attitudes, and Semantic Content&rdquo;, <em>Philosophical Topics</em>,
+15(1): 47&ndash;87. doi:10.5840/philtopics198715112</li>
+
+<li>&ndash;&ndash;&ndash;, 2010, <em>What is Meaning?</em>, Princeton,
+NJ: Princeton University Press.</li>
+
+<li>Tarski, Alfred, 1936 [1941], <em>O logice matematycznej i metodzie
+dedukcyjnej</em> (Bibljoteczka matematyczna 3&ndash;5), Lw&oacute;w
+and Warsaw: Ksia&#380;nica-Atlas. German translation <em>Einfuhrung in
+die mathe- matische Logik und in die Methodologie der Mathematik</em>,
+Vienna: Julius Springer. Translated from the German as
+<em>Introduction to Logic and to the Methodology of Deductive
+Science</em>, with additions, Olaf Helmer (trans.), Oxford: Oxford
+University Press, 1941.</li>
+
+<li>Taylor, Barry and A.P. Hazen, 1992, &ldquo;Flexibly Structured
+Predication&rdquo;, <em>Logique et Analyse</em>, 35(139/140):
+375&ndash;393.</li>
+
+<li>Turing, Alan M., 1936 [1965], &ldquo;On Computable Numbers, with
+an Application to the Entscheidungsproblem&rdquo;, <em>Proceedings of
+the London Mathematical Society</em>, series 2, 42(1): 230&ndash;265.
+Reprinted in Davis 1965: 115&ndash;153.
+doi:10.1112/plms/s2-42.1.230</li>
+
+<li>&ndash;&ndash;&ndash;, (1939) &ldquo;Systems of Logic Based on
+Ordinals&rdquo;, <em>Proceedings of the London Mathematical
+Society</em> 2: 161&ndash;228.</li>
+
+<li>Uzquiano, Gabriel, 2015, &ldquo;A Neglected Resolution of
+Russell&rsquo;s Paradox of Propositions&rdquo;, <em>The Review of
+Symbolic Logic</em>, 8(2): 328&ndash;344.
+doi:10.1017/S1755020315000106</li>
+
+<li>[PM] Whitehead, Alfred North and Bertrand Russell, 1910
+[1925&ndash;1927], <em>Principia Mathematica</em>, vol. I, Cambridge:
+Cambridge University Press. Second edition 1925&ndash;1927.</li>
+</ul>
+</div> 
+
+<div id="academic-tools">
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=church" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/church/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=church&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/church/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<ul>
+
+ <li><a href="https://johnmacfarlane.net/church.html" target="other">Alonzo Church&rsquo;s JSL Reviews</a></li>
+ </ul>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../bolzano/">Bolzano, Bernard</a> |
+ <a href="../carnap/">Carnap, Rudolf</a> |
+ <a href="../church-turing/">Church-Turing Thesis</a> |
+ <a href="../logical-empiricism/">empiricism: logical</a> |
+ <a href="../lambda-calculus/">lambda calculus, the</a> |
+ <a href="../logic-connexive/">logic: connexive</a> |
+ <a href="../logic-intensional/">logic: intensional</a> |
+ <a href="../logic-higher-order/">logic: second-order and higher-order</a> |
+ <a href="../logical-pluralism/">logical pluralism</a> |
+ <a href="../model-theory/">model theory</a> |
+ <a href="../paradox-skolem/">paradox: Skolem&rsquo;s</a> |
+ <a href="../principia-mathematica/"><em>Principia Mathematica</em></a> |
+ <a href="../pm-notation/"><em>Principia Mathematica</em>: notation in</a> |
+ <a href="../qt-quantlog/">quantum theory: quantum logic and probability theory</a> |
+ <a href="../truth-values/">truth values</a> |
+ <a href="../turing-machine/">Turing machines</a> |
+ <a href="../type-theory-church/">type theory: Church&rsquo;s type theory</a>
+
+ </p>
+</div>
+
+<div id="acknowledgments">
+
+<h3>Acknowledgments</h3>
+
+<p>
+The authors are grateful to C. Anthony Anderson, Allen Hazen, Hasen
+Khudairi, Gary Ostertag, Nathan Salm&oacute;n and to those who
+participated in the Santa Barbarians Discussion Group in 2020. We are
+also grateful to the referees for their comments on an earlier
+version.</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+Harry Deutsch
+&lt;<a href="m&#97;ilto:hdeutsch&#37;40ilstu&#37;2eedu"><em>hdeutsch<abbr title=" at ">&#64;</abbr>ilstu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+Oliver Marshall
+&lt;<a href="m&#97;ilto:omarshall&#37;40gradcenter&#37;2ecuny&#37;2eedu"><em>omarshall<abbr title=" at ">&#64;</abbr>gradcenter<abbr title=" dot ">&#46;</abbr>cuny<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

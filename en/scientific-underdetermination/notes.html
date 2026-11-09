@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Underdetermination of Scientific Theory &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/scientific-underdetermination/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/scientific-underdetermination/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=scientific-underdetermination">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Underdetermination of Scientific Theory</a></h2>
+
+
+<div id="note-1">
+<p>
+<a href="index.html#ref-1">1.</a> For example, if the
+evidence we have supports the generalization &ldquo;all donuts are
+delicious&rdquo;, then it will equally well support the generalization
+&ldquo;all donuts are shmelicious&rdquo;, where
+&lsquo;schmelicious&rsquo; means &ldquo;delicious if made and eaten
+before the year 2028 and inedible if made or eaten
+afterwards&rdquo;. But we will have very different expectations about
+the taste of the first donut we bite into in 2028 if we believe that
+what we&rsquo;ve been accumulating all these years is evidence for the
+schmeliciousness rather than the deliciousness of donuts. Goodman
+recognizes the temptation to dismiss predicates like
+&ldquo;schmelicious&rdquo; as artificial or contrived, but insists
+that such artificiality is simply a consequence of the
+&ldquo;entrenchment&rdquo; in our language of other predicates we
+accept, rather than a language-independent fact about the world. For
+more details see his (1955).</p>
+</div>
+
+<div id="note-2">
+<p>
+
+<a href="index.html#ref-2">2.</a> Donald Gilles (1993) and
+Larry Laudan (1990) have each also suggested that multiple, distinct
+theses have been mistakenly conflated as &ldquo;the&rdquo; thesis of
+underdetermination, but each proceeds to divide up the terrain much
+differently than I have. Perhaps most importantly, in these
+discussions their attention is confined almost exclusively to versions
+of what I am calling holist underdetermination.</p>
+</div>
+
+<div id="note-3">
+<p>
+
+<a href="index.html#ref-3">3.</a> Actually, the outcome of
+the experiment was simply that a greenish spot of light appeared to
+the right of a whitish spot of light, which helps to illustrate the
+problem: without further background information or auxiliary
+hypotheses this does not even show anything about the speed of light
+in water or air, much less the particulate or wave nature of
+light.</p>
+</div>
+
+<div id="note-4">
+<p>
+
+<a href="index.html#ref-4">4.</a> In later work (1990) Quine
+would revise this to the view that the unit of testing is a
+&ldquo;critical semantic mass&rdquo; of claims, but would continue to
+insist that this is a perfectly general feature of knowledge claims or
+beliefs.</p>
+</div>
+
+<div id="note-5">
+<p>
+
+<a href="index.html#ref-5">5.</a> This shows, incidentally
+why there is something misleading about the oft-voiced complaint that
+Quinean underdetermination rests upon a crude hypothetico-deductive
+view of confirmation: on Quine&rsquo;s view, <em>any</em> account of
+confirmation we might embrace is itself just another feature of the
+web of our beliefs, and our continued adherence to <em>it</em> rather
+than some alternative (including, but certainly not limited to, a
+crude hypothetico-deductivism) is itself part of what stands in need
+of explanation.</p>
+</div>
+
+<div id="note-6">
+<p>
+
+<a href="index.html#ref-6">6.</a> Because the two problems
+are so tightly linked in Quine&rsquo;s epistemology, it is perhaps
+understandable that he gives no independent argument for taking
+contrastive underdetermination seriously: in what is usually cited as
+his most famous defense of contrastive underdetermination (though
+not usually distinguished from the holist variety), he simply
+announces, &ldquo;Surely there are alternative hypothetical
+substructures that would surface in the same observable ways&rdquo;
+(1975, 313). Those who do not share Quine&rsquo;s radical holism must
+therefore start from scratch in deciding whether contrastive
+scientific underdetermination is worth taking seriously.</p>
+</div>
+
+<div id="note-7">
+<p>
+
+<a href="index.html#ref-7">7.</a> Here again holist and
+contrastive versions of underdetermination make historical contact, as
+the prospect of empirically equivalent webs of knowledge or
+&ldquo;systems of the world&rdquo; was first raised by Quine in a
+holist context (1975).  Note also that while one might respond to van
+Frassen&rsquo;s example by treating such empirically equivalent rivals as
+evidence that both have &ldquo;surplus structure&rdquo; and trying to find an
+alternative formulation that preserves their common commitments and
+eliminates any such surplus, (1) there is no general guarantee that
+this will be possible and (2) this would only eliminate (rather than simply
+ignore) empirical equivalence between these various formulations of
+the theory (i.e. making them &ldquo;notational variants&rdquo; of a single theory,
+c.f. below) given some very strong assumptions about how theoretical
+scientific claims acquire their meaning (c.f. Sklar 1982).</p>
+</div>
+
+<div id="note-8">
+<p>
+
+<a href="index.html#ref-8">8.</a> This line of thought
+closely parallels, of course, Laudan&rsquo;s appeal to further
+&ldquo;ampliative standards&rdquo; of reasoning in response to holist
+underdetermination in Section 2, above.</p>
+</div>
+
+<div id="note-9">
+<p>
+
+<a href="index.html#ref-9">9.</a> John Norton (2008) has
+argued, however, that this example simply involves two notational
+variants of a single theory. Considerable attention has been devoted
+to investigating the grounds on which we should or should not hold
+empirical equivalents to be different ways of expressing one and the
+same theory; classic work includes Glymour (1970, 1977, 1980) and
+Sklar (1982), while more recent work includes Halvorson (2012, 2013)
+and Glymour (2013).</p>
+</div>
+
+<div id="note-10">
+<p>
+
+<a href="index.html#ref-10">10.</a> John
+Manchak (2009) has argued that this example is even stronger than it
+appears, as underdetermination persists even if we permit ourselves
+the assumption that all physical laws we determine locally apply
+throughout the universe as a whole.</p>
+</div>
+
+<div id="note-11">
+<p>
+
+<a href="index.html#ref-11">11.</a> Stanford argues that a
+similar analysis applies to some famous examples of empirical
+equivalents, such as the notorious prospect of a continuously
+shrinking universe whose physical constants are also changing so as to
+make this undetectable to us. And a further change of fundamental
+subject arises with the suggestion that a theory&rsquo;s &ldquo;Craigian
+reduction&rdquo; (essentially, a statement of all and only that
+theory&rsquo;s observable consequences) serves as an empirical equivalent to
+it: the challenge posed by contrastive underdetermination was supposed
+to be that there might be more than one account of the otherwise
+inaccessible workings of nature behind the phenomena that were well
+confirmed by the evidence, not simply (as we already knew) that it
+is <em>open</em> to us to believe only a theory&rsquo;s observable
+consequences (as van Fraassen&rsquo;s constructive empiricism recommends)
+rather than also believing its further claims.</p>
+</div>
+
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+Kyle Stanford
+&lt;<a href="m&#97;ilto:stanford&#37;40uci&#37;2eedu"><em>stanford<abbr title=" at ">&#64;</abbr>uci<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

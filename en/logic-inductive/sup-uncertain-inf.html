@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Inductive Logic &gt; Some Prominent Approaches to the Representation of Uncertain Inference (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/logic-inductive/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/logic-inductive/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-inductive">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Inductive Logic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Some Prominent Approaches to the Representation of Uncertain Inference</h2>
+
+<p>
+The following figure indicates a relationship among six of the most
+prominent approaches to uncertain inference. The arrows point from
+more general to less general representation schemes; the double arrow
+connects a pair of equally general schemes. For example, the
+<em>Dempster-Shafer</em> representation contains the <em>probability
+functions</em> as a special case.</p>
+
+<div class="figure center">
+<img src="fig1.svg" alt="Figure 1" />
+
+<p>
+<span class="figlabel">Representations of Uncertainty</span></p>
+</div>
+
+<p>
+These representations are often described as measures on events, or
+states, or propositions, or sets of possibilities. But deductive
+logics are usually described in terms of statements or sentences of a
+language. So let&rsquo;s follow suit throughout this discussion.</p>
+
+<p>
+<em>Plausibility relations</em> (Friedman &amp; Halpern 1995)
+constitute the most general of these representations. They satisfy the
+weakest axioms, the weakest constraints on the logic of uncertainty.
+For a <em>plausibility relation</em> \(\succcurlyeq\) between
+sentences, an expression &lsquo;\(A \succcurlyeq B\)&rsquo;, says that
+\(A\) is at least as plausible as \(B\). The axioms for plausibility
+relations say that tautologies are more plausible than contradictions,
+any two logically equivalent sentences are plausibility-related to
+other sentence in precisely the same way, a sentence is no more
+plausible than the sentences it logically entails, and the <em>at
+least as plausible</em> relation is transitive. These axioms make
+plausibility relations <em>weak partial orders</em> on the relative
+plausibility of sentences. They permits some sentences to be
+incomparable with respect to plausibility&mdash;neither more
+plausible, nor less plausible, nor equally plausible to one
+another.</p>
+
+<p>
+<em>Qualitative probability relations</em> are <em>plausibility
+relations</em> for which three additional axioms are satisfied. One of
+these additional axioms says that when a sentence \(S\) is logically
+incompatible with both sentence \(A\) and sentence \(B\), then \(A
+\succcurlyeq B\) holds <em>just in case</em> \((A \textrm{ or } S)
+\succcurlyeq(B \textrm{ or } S)\) holds as well. Now, suppose that a
+<em>qualitative probability relation</em> satisfies
+one additional (two-part) axiom. Then it can be shown to be
+<em>representable</em> by a <em>probability function</em>&mdash;i.e.,
+given any <em>qualitative probability relation</em> \(\succcurlyeq\),
+there is a unique probability function \(P\) such that \(A
+\succcurlyeq B\) just in case \(P[A] \ge P[B]\). So quantitative
+<em>probability</em> may be viewed as essentially just a way of
+placing a numerical measure on sentences that uniquely emulates the
+<em>is at least as plausible as</em> relation specified by
+<em>qualitative probability</em> (see Koopman 1940; Savage 1954;
+Hawthorne &amp; Bovens 1999; Hawthorne 2009). </p>
+
+<p>
+<em>Probability</em> (i.e., <em>quantitative probability</em>) is a
+measure of <em>plausibility</em> that assigns a number between 0 and 1
+to each sentence. Intuitively, the <em>probability</em> of a sentence
+\(S\), \(P[S] = r\), says that \(S\) <em>is plausible to degree
+r</em>, or that <em>the rational degree of confidence (or belief)
+that</em> \(S\) <em>is true is</em> \(r\). The axioms for
+<em>probabilities</em> basically require two things. First,
+tautologies get probability 1. Second, when \(A\) and \(B\) contradict
+each other, the probability of the disjunction \((A \textrm{ or } B)\)
+must be the sum of the probabilities of \(A\) and of \(B\)
+individually. It is primarily in regard to this second axiom that
+<em>probability</em> differs from each of the other quantitative
+measures of uncertainty.</p>
+
+<p>
+Like <em>probability</em>, <em>Dempster-Shafer belief functions</em>
+(Shafer 1976, 1990) measure <em>appropriate belief strengths</em> on a
+scale between 0 and 1, with contradictions and tautologies at the
+respective extremes. But whereas the <em>probability</em> of a
+disjunction of incompatible claims must equal the sum of the parts,
+<em>Dempster-Shafer belief functions</em> only require such
+disjunctions be <em>believed at least as strongly as</em> the sum of
+the <em>belief strengths</em> of the parts. So these functions are a
+generalization of <em>probability</em>. By simply tightening up the
+<em>Dempster-Shafer</em> axiom about how disjunctions are related to
+their parts we get back a restricted class of <em>Dempster-Shafer
+functions</em> that just is the class of <em>probability
+functions</em>. <em>Dempster-Shafer</em> functions are primarily
+employed as a logic of evidential support for hypotheses. In that
+realm they are a generalization of the idea of evidential support
+embodied by <em>probabilistic inductive logic</em>. There is some
+controversy as to whether such a generalization is useful or
+desirable, or whether simple <em>probability</em> is too narrow to
+represent important evidential relationships captured by some
+<em>Dempster-Shafer functions</em>.</p>
+
+<p>
+There is a sense in which the other two quantitative measures of
+uncertainty, <em>possibility functions</em> and <em>ranking
+functions</em>, are definable in terms of formulas employing the
+<em>Dempster-Shafer functions</em>. But this is not the best way to
+understand them. <em>Possibility functions</em> (Zadeh 1965 1978;
+Dubois &amp; Prade 1980, 1990) are generally read as representing
+<em>the degree of uncertainty</em> in a claim, where such uncertainty
+is often attributed to vagueness or fuzziness. These functions are
+formally like <em>probability functions</em> and <em>Dempster-Shafer
+functions</em>, but they subscribe to a simpler addition rule: the
+<em>degree of uncertainty</em> of a disjunction is the greater of the
+<em>degrees of uncertainty</em> of the parts. Similarly, the
+<em>degree of uncertainty</em> of a conjunction is the smaller of the
+<em>uncertainties</em> of the parts.</p>
+
+<p>
+<em>Ranking functions</em> (Spohn 1988) supply a measure of how
+surprising it would be if a claim turned out to be true, rated on a
+scale from 0 (not at all surprising) to infinity. Tautologies have
+<em>rank</em> 0 and contradictions are infinitely surprising.
+Logically equivalent claims have the same <em>rank</em>. The
+<em>rank</em> of a disjunction is equal to the <em>rank</em> of the
+lower ranking disjunct. These functions may be used to represent a
+kind of <em>order-of-magnitude</em> reasoning about the plausibility
+of various claims.</p>
+
+<p>
+See Halpern 2003 for a good comparative treatment of all of these
+approaches.</p>
+
+<p>
+Here are the axioms for the <em>Plausibility Relations</em> and the
+<em>Qualitative Probability Relations</em>. We may specify them in
+terms of a formal language \(L\) for either sentential logic or for
+predicate logic. In this formal language we employ the following
+expressions to represent the standard logical terms:
+&lsquo;not&rsquo;, &lsquo;\({\neg}\)&rsquo;; &lsquo;and&rsquo;,
+&lsquo;\(\cdot\)&rsquo;; &lsquo;or&rsquo;, &lsquo;\(\vee\)&rsquo;. We
+represent the standard <em>logical entailment</em> relation with the
+symbol &lsquo;\(\vDash\)&rsquo;&mdash;i.e., the expression &lsquo;\(B
+\vDash A\)&rsquo; says &ldquo;<em>B logically entails A</em>&rdquo;
+and the expression &lsquo;\(\vDash A\)&rsquo; says &ldquo;\(A\) is a
+tautology&rdquo;.</p>
+
+<div class="indent">
+<strong>Axioms for the <em>Plausibility Relations</em></strong>
+<br />
+Each <em>plausibility relation</em> \(\succcurlyeq\) satisfies the
+following axioms:
+
+<ol>
+
+<li>if \(\vDash A\), then <em>not</em> \({\neg}A \succcurlyeq A\);
+</li>
+
+<li>if \(B \vDash A\), then \(A \succcurlyeq B\);</li>
+
+<li>if \(A \vDash B\) and \(B \vDash A\) (i.e., if \(A\) is logically
+equivalent to \(B\)), then: (1) if \(A \succcurlyeq C\), then \(B
+\succcurlyeq C\); and (2) if \(D \succcurlyeq A\), then \(D
+\succcurlyeq B\);</li>
+
+<li>if \(A \succcurlyeq B\) and \(B \succcurlyeq C\), then \(A
+\succcurlyeq C\).</li>
+</ol>
+</div>
+
+<div class="indent">
+<strong>Axioms for the <em>Qualitative Probability
+Relations</em></strong>
+<br />
+To get the <em>qualitative probability relations</em> we add the
+axioms
+
+<ol start="5">
+
+<li>if \(\vDash{\neg}(A\cdot C)\) and \(\vDash{\neg}(B\cdot C)\),
+then \(A \succcurlyeq B\) if and only if \((A \vee C) \succcurlyeq(B
+\vee C)\).</li>
+
+<li>\(A \succcurlyeq B\) or \(B \succcurlyeq\) A;</li>
+</ol>
+
+<p>
+The typical axioms for <em>quantitative probability</em> are as
+follows:</p>
+
+<ol type="i">
+
+<li>for all sentences \(A, 0 \le P[A] \le 1\);</li>
+
+<li>if \(\vDash C\), then \(P[C] = 1\);</li>
+
+<li>if \(\vDash{\neg}(A\cdot B)\), then \(P[(A \vee B)] = P[A] +
+P[B]\).</li>
+</ol>
+</div>
+
+<p>
+Axioms 1&ndash;6 for the <em>qualitative probability relations</em>
+are probabilistically sound with respect to the quantitative
+probability functions. That is, for each given probability function
+\(P\), define a relation \(\succcurlyeq\) such that \(A \succcurlyeq
+B\) <em>just in case</em> \(P[A] \ge P[B]\). Then it can be shown that
+\(\succcurlyeq\) must satisfy axioms 1&ndash;6. However, not every
+qualitative probability relation that satisfies axioms 1&ndash;6 may
+be represented by a probability function. To get that we must add one
+further <em>structural axiom</em>.</p>
+
+<p>
+First we need to define a bit more notation. Two sentences are defined
+as <em>equally plausible</em>, \(A \approx B\), just when both \(A
+\succcurlyeq B\) and \(B \succcurlyeq A\). One sentence is defined as
+<em>more plausible</em> than another, \(A \succ B\), just when \(A
+\succcurlyeq B\) but <em>not</em> \(B \succcurlyeq A\).</p>
+
+<p>
+Let&rsquo;s say that a qualitative probability relation
+\(\succcurlyeq\) is <em>fine-grained</em> just in case it satisfies
+the following axiom:</p>
+
+<ol start="7">
+
+<li> if \(A \succ B\), then (for each natural number \(n\)) there is
+some tautology consisting of a disjunction of \(n\) sentences,
+\(\vDash(S_1 \vee S_2 \vee \ldots \vee S_n)\), where for each distinct
+\(S_i\) and \(S_j\) we have \(\vDash{\neg}(S_{i} \cdot S_{j})\) (each
+distinct \(S_i\) and \(S_j\) are inconsistent with one another) and
+where \(S_i \approx S_j\) (they are equally plausible), and such that
+for each of the \(S_i\), \(A \succ(B \vee S_i).\)</li>
+</ol>
+
+<p>
+Think of each sentence \(S_i\) as saying that in some fair lottery
+consisting of \(n\) tickets, ticket \(i\) will win (where exactly one
+ticket must win, and where each ticket has the same chance of
+winning).</p>
+
+<p>
+It can be proved that for each <em>fine-grained</em> qualitative
+probability relation \(\succcurlyeq\) there is a unique probability
+function \(P\) such that \(A \succcurlyeq B\) <em>just in case</em>
+\(P[A] \ge P[B]\).</p>
+
+<p>
+Now, call a qualitative probability relation \(\succcurlyeq\)
+<em>properly extendable</em> just in case it can be extended to a
+<em>fine-grained</em> qualitative probability relation (perhaps
+defined on a larger language, i.e., a language containing additional
+sentences). Then for every <em>properly extendable</em> qualitative
+probability relation \(\succcurlyeq\) there is a probability function
+\(P\) such that \(A \succcurlyeq B\) <em>just in case</em> \(P[A] \ge
+P[B]\). In general a given <em>properly extendable</em> qualitative
+probability relation may have many such representing probability
+functions, corresponding to different ways of extending it to
+<em>fine-grained</em> qualitative probability relations.</p>
+
+<p>
+Thus, the quantitative probability functions may be viewed as just
+useful ways of representing <em>properly extendable</em> qualitative
+probability relations on a convenient numerical scale. </p>
+
+<!--pdf exclude begin-->
+
+<p>
+ [<a href="index.html#s-1">Back to Text</a>]</p>
+ 
+<!--pdf exclude end-->
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="https://www.ou.edu/cas/philosophy/people/faculty/james-hawthorne" target="other">James Hawthorne</a>
+&lt;<a href="m&#97;ilto:hawthorne&#37;40ou&#37;2eedu"><em>hawthorne<abbr title=" at ">&#64;</abbr>ou<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Descriptive Decision Theory &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/decision-theory-descriptive/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/decision-theory-descriptive/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=decision-theory-descriptive">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Descriptive Decision Theory</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ Disclaimer: The literature on the topic is absolutely vast,
+comprising thousands of papers spread across a number of academic
+disciplines. Accordingly, only an extremely selective glimpse at some
+of the relevant work can be provided. One particularly noteworthy
+omission is the issue of sequential, aka &ldquo;dynamic&rdquo;,
+choice, which would have required an entire further entry to present
+in a satisfactory manner. Space considerations have also precluded a
+discussion of a number of important empirical phenomena associated
+with choice behaviour, including so-called framing effects and
+preference reversals. For further details regarding these issues, as
+well as the points touched upon in this entry, the interested reader
+is referred to the excellent surveys listed below in
+ <a href="index.html#FurtRead">Section 6</a>.
+ </p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ Each will consist in those points \((P(x_1), P(x_3))\) such that </p>
+
+\[u(x_1)P(x_1)+ u(x_2)(1-P(x_1)-P(x_3)) + u(x_3)P(x_3)\] 
+
+<p>
+is equal to some constant expected utility value \(c\). Rearranging
+this, one obtains the linear equation </p> 
+
+\[P(x_3)= [u(x_2) - u(x_1)]/[u(x_3) - u(x_4)]P(x_1)+c-u(x_2),\] 
+
+<p>
+the slope of the line being independent of \(P(x_1)\) and \(P(x_2)\).
+</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ In what follows, the various methodological and statistical issues
+pertaining to the assessment of the models on offer have been glossed
+over. Hey (2014) provides a useful discussion, from this angle, of a
+number of important studies. Salient issues include the choice of
+methods of preference elicitation, the stochastic specification of the
+models, and a set of more fundamental problems connected with
+hypothesis testing and model selection. </p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ It is well known that Independence, a principle governing
+<em>single</em> choices, can be recovered from a number of conditions
+on temporal <em>sequences</em> of choices. Violations of the principle
+therefore immediately raise the question of where further to pin the
+blame. Due to space considerations, discussion of these issues has
+been omitted. The interested reader is referred to Section 4 of
+Sugden&rsquo;s (2004) excellent survey article. </p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ This presentation of Allais&rsquo; paradoxes as respectively
+pertaining to the Common Consequence and Common Ratio principles is
+owed to Mongin (2009). </p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ Regarding the empirical adequacy of Stochastic Dominance, Tversky and
+Kahneman (1986) observe, perhaps not entirely surprisingly,
+significant violations of the principle when (but only when) the
+dominance relation is not immediately evident. It should be noted that
+a number of early Mixture-Independence-free models did not satisfy
+this requirement. These included most famously the weighted
+probability model of Handa (1977) and Kahneman &amp; Tversky&rsquo;s
+closely related <em>Prospect Theory</em> (1979), which essentially
+restricted the violations tolerated by Handa&rsquo;s model to those
+cases that are &ldquo;transparent&rdquo;. Stochastic Dominance
+<em>is</em> however a feature of the successors of these proposals,
+discussed below. </p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ It should be noted that this general pattern of fanning out that must
+be imposed by WU to accommodate the local pattern of fanning out
+characteristic of Allais preferences lands the model in trouble
+elsewhere. Indeed further data has been collected that is consistent
+with an additional local pattern of <em>fanning in</em> towards the
+northwest of the triangle (see for instance Camerer 1989). Other
+Betweenness-satisfying models of probabilistically sophisticated
+preferences can better accommodate this data by allowing for <em>mixed
+fanning</em> patterns. These include Chew&rsquo;s <em>Implicit
+Utility</em> (Chew 1989), which generalises WU, and Gul&rsquo;s
+<em>Disappointment Aversion</em> (Gul 1991). <!--[fn:mixfan]--> </p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ Other models in this category include <em>Quadratic Utility</em>
+(Chew, Epstein, &amp; Segal 1991) and <em>Lottery Dependent
+Utility</em> (Becker &amp; Sarin 1987), which generalises WU. </p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ In
+ <a href="#note-7">note 7</a>
+ above, it was pointed out that WU is unable to accommodate certain
+mixed fanning patterns suggested by the data. This is not the case
+with RDU, which shares in this respect the flexibility noted in
+relation with Implicit Utility and Disappointment Aversion. </p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ This formulation is due to Quiggin (1992). </p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ For more on this, see Sections 10.1 to 10.5 of Wakker (2010). </p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ It should be noted that Cumulative Prospect Theory can also be
+formulated as a sign-dependent generalisation of CEU. In this
+formulation, the functional form involves both a positive and a
+negative capacity. Wakker &amp; Tversky (1993) offer an axiomatisation
+that notably restricts the Sure-Thing principle to sets of acts that
+are not only comonotonic but also <em>cosigned</em>, i.e., such that
+for all acts \(f,g\) in that set, there exists no state \(s\) such
+that \(f(s)\succ 0\) but \(g(s)\prec 0\), where \(0\) designates the
+reference point. </p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ Gilboa &amp; Schmeidler (1989) provided their initial axiomatic
+characterisation in a special case of the Savage setup, the
+Anscombe-Aumann (AA) framework (Anscombe &amp; Aumann 1963), which has
+not been discussed in this entry. In this setting, additional
+structure is imposed on the set of outcomes, which are modeled as
+assignments of objective probabilities to the members of a set of
+further alternatives. Gilboa &amp; Schmeidler&rsquo;s axioms were more
+recently translated into the classic Savage model by Ghirardato <em>et
+al.</em> (2003), who also present a analogue of the AA-style
+axiomatisation of CEU due to Schmeidler (1989). </p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ It is not clear, however, what value of this parameter would
+correspond to ambiguity-neutrality. As Etner <em>et al.</em> (2012)
+note, the most likely candidate, the value \(\nicefrac{1}{2}\), does
+not lead one to recover SEU, which is a plausible model for ambiguity
+neutral preferences. </p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ MEU subsumes Wald&rsquo;s (1950) much earlier <em>Minimax</em>
+approach to decision making under <em>complete</em> suspension of
+judgment regarding objective probabilities (the approach is so called,
+because it involves minimisation of maximum loss). Wald&rsquo;s model
+corresponds to the special case in which \(\Gamma =\mathcal{P}\).
+\(\alpha\)-MEU subsumes Hurwicz&rsquo;s (1951) <em>Generalized
+Bayes-Minimax</em> approach in the same manner. See Ch. 13 of Luce
+&amp; Raiffa (1957) for an overview of these precursors and their
+axiomatic foundations. </p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ This proposal is equivalent, for pairwise choices, to
+Fishburn&rsquo;s ()1989 <em>Skew-Symmetric Additive Utility
+theory</em>. </p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ As Loomes &amp; Sugden (1987) later note, in the special case of
+preferences over independent distributions over three outcomes, Regret
+Theory yields indifference curves that are consistent with those
+generated by WU, given certain parameter values, fanning out from a
+point located in the southwestern quadrant, outside the probability
+triangle. </p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ Regret Theory proposes to replace SEU with a more general model that
+accommodates certain behaviours that can be plausibly interpreted as
+violating Transitivity or Independence. It is suggestive, however, of
+an alternative position which interprets these behaviours in a manner
+that renders them <em>consistent</em> with the standard model. This
+position involves &ldquo;<em>fine-graining</em>&rdquo; the description
+of the outcomes involved, so as to distinguish</p>
+
+<ul class="sentag tag2em">
+
+<li><span class="tag">(a)</span><span class="sen">two
+menu-<em>dependent</em> outcomes (e.g., its being the case that
+\(x_1\) rather than \(x_3\) versus its being the case that \(x_1\)
+rather than \(x_2\); denote these respectively by \(\langle x_1,
+x_3\rangle\) and \(\langle x_1, x_2\rangle\)) with corresponding
+menu-<em>independent</em> utilities (e.g., \(u(\langle x_1,
+x_3\rangle)\) versus \(u(\langle x_1, x_2\rangle)\)),</span></li>
+</ul>
+
+<p>
+where Regret Theory only recognises</p>
+
+<ul class="sentag tag2em">
+
+<li><span class="tag">(b)</span><span class="sen">one
+menu-<em>independent</em> outcome (e.g., its being the case that
+\(x_1\)) with two menu-<em>dependent</em> utilities (e.g., \(M(x_1,
+x_3)\) versus \(M(x_1, x_2)\)).</span></li>
+</ul>
+
+<p>
+Note that the general strategy of fine-graining outcome descriptions
+to defuse apparent counterexamples to expected utility maximisation
+has been carried out with respect to a variety cases and in a variety
+of manners. For more on this, see Buchak (2013: Ch. 4) and works
+referenced therein, including Broome (1991), Weber (1998), and Weirich
+(1986). </p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ This kind of line of thinking, it appears, may have precedents in the
+decision theoretic literature. Jallais <em>et al.</em> (2008) claim
+that the appeal to &ldquo;expert behaviour&rdquo; was also pivotal in
+the emergence of SEU as a popular normative theory, finding such a
+reliance in both Bernouilli&rsquo;s writings on the St Petersburg game
+and Condorcet&rsquo;s critique thereof. </p>
+</div>
+
+<div id="note-20">
+
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ Savage did not elaborate on the rationale underpinning this test, but
+one view prevalent among some of his contemporaries was that bona fide
+principles of rationality are self-evident. Morgenstern (1979: 180)
+provides a case in point, claiming that: </p>
+
+<blockquote>
+
+<p>
+[SEU] is normative in the sense that the theory is &ldquo;absolutely
+convincing&rdquo; which implies that men will act accordingly. If they
+deviate from the theory, an explanation of the theory and of their
+deviation will cause them to readjust their behavior</p>
+</blockquote>
+</div>
+
+<div id="note-21">
+
+<p>
+
+<a href="index.html#ref-21">21.</a>
+For illustrations, see Section 4 of the entry titled
+<a href="../rationality-normative-utility/">normative theories of rational choice: expected utility</a>.
+ </p>
+
+</div>
+
+<div id="note-22">
+
+<p>
+
+ <a href="index.html#ref-22">22.</a>
+ This is not to say, of course, that SEU is uncontroversial in
+philosophy. The completeness requirement has been a long-time suspect,
+in terms of normative, in addition to empirical, adequacy. Anand
+(2009) offers a rather critical review of the case for transitivity of
+rational preferences, as does Maher (1993: Ch. 2), who remains more
+optimistic. The normative adequacy of the assumption of probabilistic
+belief has also been under scrutiny for many years. It has been
+claimed for instance that probabilistic beliefs have insufficient
+structure (i) to be able to model a doxastic state that rationality
+requires to reflect not only the balance, but also what Keynes (1921)
+called the &ldquo;weight&rdquo;, of evidence (see, e.g., Joyce 2005)
+or again (ii) to be able to model certain types of rationally
+permissible agnosticism, as suggested by van Fraassen&rsquo;s
+&ldquo;Water/Wine&rdquo; problem (van Fraassen 1989). See the entry
+titled
+ <a href="../imprecise-probabilities/">imprecise probabilities</a>
+ for further various endorsements of multiple prior models in the
+philosophical literature, as well as the entry titled
+ <a href="../formal-belief/">formal representations of belief</a>.
+ For cases in which probabilistic belief holds, in cases of decision
+making under risk, philosophical thinking has tended to take a more
+orthodox line. One notable recent exception here is Buchak (2013), who
+has defended the normative adequacy of RDU. See Chs. 5&ndash;7 of her
+book. Doubts regarding Independence are also voiced in an accessible
+handbook entry by McClennen (2009). See Maher (1993: Ch. 3) for a less
+pessimistic survey of the considerations. </p>
+</div>
+
+<div id="note-23">
+
+<p>
+
+ <a href="index.html#ref-23">23.</a>
+ Unsurprisingly, analogous questions crop up in the recent
+experimental philosophy literature, in which it is suggested that
+empirical frequencies of intuitions regarding the applicability of a
+term may serve as defeasible evidence in favour of, or against, a
+particular theory of how the term ought to be applied. There, for
+instance, one also finds the recommendation that attention be focused
+on the judgments of the subset of the population that one would
+independently identify as &ldquo;experts&rdquo; (see, e.g., Hales
+2006). </p>
+</div>
+
+<div id="note-24">
+
+<p>
+
+ <a href="index.html#ref-24">24.</a>
+ The connection has however been noted in the experimental philosophy
+literature, by Sytsma &amp; Livengood 2014 and Talbot 2014. See List
+&amp; Pettit (2011: Ch. 4) for accessible presentation of the theorem,
+which is also discussed in the entry titled
+ <a href="../social-choice/">social choice theory</a>.
+ </p>
+</div>
+
+<div id="note-25">
+
+<p>
+
+ <a href="index.html#ref-25">25.</a>
+ Though see Mongin (2009) for an alternative perspective on the
+development of alternatives to SEU. </p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2017</a> by
+
+<br />
+<a href="http://www.jakechandler.net" target="other">Jake Chandler</a>
+
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

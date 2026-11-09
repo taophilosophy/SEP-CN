@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Jury Theorems &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/jury-theorems/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/jury-theorems/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=jury-theorems">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Jury Theorems</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ A <em>probability space</em> is a mathematical representation of what
+could happen, and with what probability. Formally, it is a structure
+\((\Omega,\mathcal{E},P)\) with the following components. Firstly,
+\(\Omega\) is a non-empty set of <em>(possible) worlds</em>. Secondly,
+\(\mathcal{E}\) is a set of <em>events</em> \(E\subseteq\Omega\),
+representing propositions (such as <em>the defendant is guilty</em> or
+<em>individual</em> \(3\) <em>votes correctly</em> or <em>the majority
+votes correctly in the group of size</em> \(9\)). \(\mathcal{E}\)
+might contain <em>all</em> subsets of \(\Omega\); in practice it
+contains at least those subsets which represent interesting
+propositions. Technically, \(\mathcal{E}\) must be a
+\(\sigma\)-algebra: it contains the tautology
+(\(\Omega\in\mathcal{E}\)), is closed under negation
+(\(E\in\mathcal{E}\Rightarrow\Omega\backslash E\in\mathcal{E}\)), and
+is closed under countable disjunction
+(\(E_{1},E_{2},\ldots\in\mathcal{E}\Rightarrow E_{1}\cup
+E_{2}\cup\dots\in\mathcal{E}\)). Thirdly, \(P\) is a probability
+measure on \(\mathcal{E}\), i.e., a function assigning a probability
+\(P(E)\in\lbrack0,1]\) to each event \(E\in\mathcal{E}\), subject to
+the probability axioms: \(P(\Omega)=1\) and, for all disjoint events
+\(E_{1},E_{2},\ldots\in\mathcal{E}\), \(P(E_{1}\cup
+E_{2}\cup\dots)=P(E_{1})+P(E_{2})+\cdots\).</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ Formally, \(\Maj_{n}=\cup_{I\subseteq \{1,\ldots,n\}:\left\vert
+I\right\vert &gt;n/2}\cap_{i\in I}R_{i}\), the event that, for
+<em>some</em> subset \(I\) containing a majority, <em>all</em> members
+of \(I\) are correct.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ In the literature, the term &ldquo;Condorcet jury theorem&rdquo;
+sometimes refers to slightly different theorems, or to a vague type of
+theorem. The most basic rendition is chosen here.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ Formal models often define the state as an alternative (the
+&ldquo;correct&rdquo; one), so that the votes and the state all take
+values in the same set (the set of alternatives) and \(R_{i}\) is the
+event that \(i\)&rsquo;s vote equals the state. This makes the model
+more parsimonious. But philosophically it lumps together different
+objects. In a highly explicit but unparsimonious model of the
+court&rsquo;s decision between <em>convict</em> and <em>acquit</em>,
+the state is neither the correct alternative, nor <em>guilty</em> or
+<em>innocent</em>, but a complex fact about the defendant&rsquo;s
+actions. Here the state takes values in a large set of possible
+complex facts, and the function mapping each possible state value to
+the corresponding correct attentive is many-to-one.</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ The growing-reliability conclusion is restricted to bodies of odd
+size: the probability of majority correctness \(P(\Maj_{n})\)
+increases as group size \(n\) moves from 1 to 3, to 5, etc. Excluding
+even-sized groups is necessary because there can be ties in such
+groups, reducing the probability of a correct majority. For instance,
+\(P(\Maj_{n})\) <em>falls</em> from \(n=1\) to \(n=2\), because
+majority correctness in the 1-member group only requires individual 1
+to be correct (the event \(R_{1}\)) whereas majority correctness in
+the 2-member group requires two individuals to be correct (the event
+\(R_{1}\cap R_{2}\)). The restriction to odd \(n\) could be lifted if
+ties are broken by an independent toss of a fair coin.</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ For instance, in Condorcet&rsquo;s Jury Theorem, \(P(\Maj_{n})\)
+grows strictly <em>except</em> if individuals are infallible, i.e., if
+\(P(R_{i})=1\).</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ For general \(\mathbf{x}\), the probability of an event \(A\)
+conditional on \(\mathbf{x}\), \(P(A|\mathbf{x})\), remains definable
+(see standard probability textbooks). But \(P(A|\mathbf{x})\) is a
+<em>non-unique</em> function of \(\mathbf{x}\) if some or all values
+\(x\) of \(\mathbf{x}\) have probability \(P(x)=0\). Still any two
+versions of \(P(A|\mathbf{x})\) are essentially identical: they
+coincide outside a zero-probability event; equivalently, they coincide
+except if \(\mathbf{x}\) takes a value in some zero-probability set of
+values. To restate CI and CC generally, after &ldquo;any value \(x\)
+of the facts \(\mathbf{x}\)&rdquo; add &ldquo;except possibly from a
+zero-probability set of values&rdquo;. Later in
+ <a href="index.html#CompSensJuryTheo">Section 2.5</a>,
+ to restate TC generally, after &ldquo;is the same for all individuals
+\(i\)&rdquo; add &ldquo;almost surely, i.e., except possibly in a
+zero-probability event&rdquo; (the generalized definition of
+&ldquo;tending to exceed \(\frac{1}{2}\)&rdquo; is given in Dietrich
+&amp; Spiekermann 2013a).</p>
+</div>
+
+<div id="note-8">
+<p>
+ <a href="index.html#ref-8">8.</a>
+ The remark in  
+ <a href="#note-5">footnote 5</a>
+ applies analogously.</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ The remark in
+ <a href="#note-5">footnote 5</a>
+ applies analogously.</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ Formally,</p> 
+
+\[\lim_{n\rightarrow\infty}Pr(\Maj_{n})=Pr\left( \mathbf{p}&gt;\frac{1}{2}\right) +\frac{1}{2}Pr\left( \mathbf{p}=\frac{1}{2}\right),\]
+
+<p>
+where \(\mathbf{p}\) denotes specific competence,
+\(Pr(R_{i}|\mathbf{x})\), which does not depend on \(i\) by TC.</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ Asymptotic infallibility follows by the &ldquo;unless&rdquo; clause.
+Recall that &ldquo;unless CC holds&rdquo; means &ldquo;if <em>and only
+if</em> CC does not hold&rdquo;.</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ That is, <em>infinite average competence</em> exceeds
+\(\frac{1}{2}\). Infinite average competence is the limit of finite
+average competence,</p> 
+
+\[\lim_{n\rightarrow \infty}\frac{1}{n}\sum_{i=1}^n P(R_{i}),\]
+
+<p>
+or in full generally (since this limit need not exist) the
+&ldquo;limit inferior&rdquo; or &ldquo;limiting lower bound&rdquo; of
+finite average competence,</p> 
+
+\[\lim_{m\rightarrow\infty}\inf_{n\geq m}\frac{1}{n}\sum_{i=1}^n P(R_{i}).\]
+
+<p>
+A limit inferior always exists, and coincides with the ordinary limit
+when existent.</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ To model this, consider a large finite population \(\mathcal{I}\) of
+potential members, e.g., all living scientists in case of a scientific
+group. For each possible group size \(n\) (at most the population size
+\(\left\vert \mathcal{I}\right\vert\)), the \(n\)-member group is
+drawn randomly from the set of possible \(n\)-member groups
+\(\{N\subseteq\mathcal{I}:\left\vert N\right\vert =n\}\) following a
+uniform probability distribution. So decisions are doubly random:
+member judgments and member identity are both random. This restores
+the growing-reliability conclusion, despite competence heterogeneity
+(Berend &amp; Sapir 2005). The finiteness of the population
+\(\mathcal{I}\) reflects reality (and makes the mentioned uniform
+distribution well-defined); but it sets an upper bound on group size,
+thereby excluding asymptotic considerations.</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ In a more restricted sense, the &ldquo;state&rdquo; consists only of
+the <em>unknown</em> determinants of correctness.</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ More precisely, assume all individual judgments are functions of a
+variable \(\mathbf{t}\), &ldquo;total influences&rdquo;, interpretable
+as the vector of all private or shared causes of judgments.
+Underdetermination is the event that \(\mathbf{t}\) takes a value
+conditional on which more than one state has non-zero probability.
+<em>Possible Underdetermination</em> means that underdetermination has
+positive probability (&ldquo;possible&rdquo; thus stands for
+probabilistic, not just logical, possibility).</p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ The infinite sequence of private evidence determines the truth with
+probability one, by the law of large numbers.</p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ As
+ <a href="index.html#eq1">equation (1)</a>
+ shows, an individual \(i\)&rsquo;s general competence \(P(R_{i})\) is
+the probability-weighted average of their specific competence
+\(P(R_{i}|x)\) across facts \(x\). This average can exceeds
+\(\frac{1}{2}\) even if \(P(R_{i}|x)&lt;\frac{1}{2}\) for some \(x\)
+of sufficiently low probability.</p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ Deliberation lets individuals causally affect one another. Despite
+causation between individuals, there is normally no causation between
+<em>votes</em>, at least if voting is silent (cf.
+ <a href="index.html#ProbCommCausVote">Section 2.2</a>).
+ This is why deliberation introduces common causes of, not causation
+between, votes.</p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ A group that has deliberated usually has more common causes of votes
+than a group that has not. So one may want to conditionalize on more
+facts than one would have in the absence of deliberation. This points
+towards a general issue: which sort of facts variable \(\mathbf{x}\)
+makes the independence premise CI of a jury theorem plausible depends
+on several concrete circumstances, including whether and which
+deliberation happens prior to voting. Fortunately, the Conditional and
+Competence-Sensitive Jury Theorems hold for <em>any</em> facts
+variable \(\mathbf{x}\).</p>
+</div>
+
+<div id="note-20">
+
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ One has to replace the majority threshold by an acceptance threshold
+such that pivotal voters prefer to tip the decision in the direction
+of their private belief, rather than ignoring private information. So,
+clever institutional design might prevent strategic voting. Yet there
+are obstacles. One obstacle is that the particular acceptance
+threshold that induces truthful voting is highly sensitive to
+parameters such as voters&rsquo; prior correctness probabilities and
+strength of private information. Without knowing these parameters, the
+threshold cannot be set accordingly. Worse, the acceptance threshold
+that induces truthful voting may vary from voter to voter (for
+instance due to different prior beliefs), so that <em>no</em>
+acceptance threshold simultaneously prevents all voters from
+strategising.</p>
+</div>
+
+<div id="note-21">
+
+<p>
+
+ <a href="index.html#ref-21">21.</a>
+ Formally, \(F\) is a function on \(\cup_{n=1,2,\ldots}
+\mathcal{A}^{n}\).</p>
+</div>
+
+<div id="note-22">
+
+<p>
+
+ <a href="index.html#ref-22">22.</a>
+ Ties, in which both alternatives occur \(n/2\) times among
+\(a_{1},\ldots,a_{n}\) (for even \(n\)), could be handled in different
+ways. Either some tie-breaking rule selects a winning alternative. Or
+one allows outcomes to be sets, in which case either both alternatives
+are winners (\(F(a_{1},\ldots,a_{n})=\mathcal{A}\)) or no alternative
+is a winner (\(F(a_{1} ,\ldots,a_{n})=\varnothing\)).</p>
+</div>
+
+<div id="note-23">
+
+<p>
+
+ <a href="index.html#ref-23">23.</a>
+ For instance, voters might submit more complex inputs than the
+collective output, e.g., rankings or &ldquo;approval sets&rdquo; over
+possible outputs.</p>
+</div>
+
+<div id="note-24">
+
+<p>
+
+ <a href="index.html#ref-24">24.</a>
+ This is because expected decision value reduces to correctness
+probability if \(\mathcal{A}=\mathcal{S}\) and moreover the value
+\(V(a,s)\) is 1 for correct decisions (\(a=s\)) and 0 for incorrect
+decisions (\(a\neq s\)).</p>
+</div>
+
+<div id="note-25">
+
+<p>
+
+ <a href="index.html#ref-25">25.</a>
+ Plurality rule selects the alternative receiving maximally many
+votes. Ties could be broken in different ways, as for majority rule
+(see
+ <a href="#note-22">footnote 22</a>).</p>
+ </div>
+
+<div id="note-26">
+
+<p>
+
+ <a href="index.html#ref-26">26.</a>
+ I.e., each \(\mathbf{v}_{i}\) has a conditional expectation equal to
+\(\mathbf{s}\).</p>
+</div>
+
+<div id="note-27">
+
+<p>
+
+ <a href="index.html#ref-27">27.</a>
+ More precisely, the assumptions (i)&ndash;(iii) guarantee state-conditional
+convergence of \(F(\mathbf{v}_{1},\ldots,\mathbf{v}_{n})\) to
+\(\mathbf{s}\) by applying the Law of Large Numbers state-by-state,
+which then implies unconditional convergence by taking the expectation
+across states.</p>
+</div>
+
+<div id="note-28">
+
+<p>
+
+ <a href="index.html#ref-28">28.</a>
+ More precisely, the expected collective decision value is
+asymptotically maximal, under various plausible (non-simple) standards
+of correctness, i.e., under various plausible definitions of decision
+value. For instance, decision value could be negative absolute
+distance to the truth: \(V(a,s)=-\left\vert a-s\right\vert\). The
+simple standard of correctness (cf.
+ <a href="index.html#EpisAggrProbGene">Section 5.1</a>)
+ would be inappropriate here, because it treats all deviations from
+the truth&mdash;small or large&mdash;as equally bad. Indeed, for
+continuously distributed input variables
+\(\mathbf{v}_{1},\mathbf{v}_{2},\ldots\), the mere probability of
+(exact) collective correctness is zero, however much the group is
+increased.</p>
+</div>
+
+<div id="note-29">
+
+<p>
+
+ <a href="index.html#ref-29">29.</a>
+ This follows from other statements of the Law of Large Numbers.</p>
+</div>
+
+<div id="note-30">
+
+<p>
+
+ <a href="index.html#ref-30">30.</a>
+ This holds conditional on any state, and thus unconditionally.</p>
+</div>
+
+<div id="note-31">
+
+<p>
+
+ <a href="index.html#ref-31">31.</a>
+ It is set aside here what happens in the absence of any
+implication.</p>
+</div>
+
+<div id="note-32">
+
+<p>
+
+ <a href="index.html#ref-32">32.</a>
+ A purely conclusion-oriented standard of correctness can be captured
+by a value function \(V\) assigning to a judgment-set/state pair
+\((J,s)\) the value 1 or 0 depending on whether or not the judgment on
+the conclusion proposition \(q\) is correct, i.e., whether or not
+\(q\in J\Leftrightarrow q\in s\). A refined standard of correctness
+that also cares about correctness on the premise propositions \(p\)
+and \(p\rightarrow q\) can be captured by a value function \(V\) that
+is also sensitive to correctness on premise propositions. For
+instance, \(V(J,s)\) could be defined as \(\left\vert J\cap
+s\right\vert\), the number of true judgments; this correctness
+standard cares equally about correctness on the conclusion and
+correctness on each premise proposition.</p>
+</div>
+
+<div id="note-33">
+
+<p>
+
+ <a href="index.html#ref-33">33.</a>
+ Here an alternative is collectively correct if and only if the number
+of group members for whom it is individually correct is maximal. The
+collectively correct alternative need not be unique: just imagine two
+alternatives are each individually correct for exactly \(n/2\)
+members, which can happen for even group size \(n\).</p>
+</div>
+
+<div id="note-34">
+
+<p>
+
+ <a href="index.html#ref-34">34.</a>
+ Consider a distributional choice between keeping the status-quo
+distribution and taking all goods from the poorest citizen and
+redistributing them equally between everyone else. The redistribution
+seems incorrect according to egalitarian and utilitarian standards;
+but it benefits all but one individual, and hence counts as
+collectively correct if collective correctness means correctness for
+<em>most</em> individuals (and if moreover individual correctness is
+given by personal interest). The problem is the neglect of <em>how
+much</em> someone benefits. Degrees matter.</p>
+</div>
+
+<div id="note-35">
+
+<p>
+
+ <a href="index.html#ref-35">35.</a>
+ Unconventionally, the inputs of aggregation are not alternatives
+\(a_{1},\ldots,a_{n}\), i.e., not individual estimates of what is
+individually best, but entire value functions \(W_{1},\ldots,W_{n}\),
+i.e., individual estimates of the true individual value functions
+\(V_{1},\ldots,V_{n}\), respectively. So, everyone submits their
+judgment of how individually valuable or correct each alternative is.
+Let the submitted estimates be aggregated additively; the result
+\(W_{1}+\cdots+W_{n}\) is an estimate of the true collective value
+function \(V_{1}+\cdots+V_{n}\). The group then chooses an alternative
+maximising \(W_{1}+\cdots+W_{n}\). Under some probabilistic
+assumptions about the quality and independence of individual estimates
+(and a finiteness assumption on \(\mathcal{A}\)), the probability that
+the collective choice is optimal, i.e., maximises true collective
+value, tends to one as \(n\) grows (Pivato 2016).</p>
+</div>
+
+<div id="note-36">
+
+<p>
+
+ <a href="index.html#ref-36">36.</a>
+ The class of solutions may be empty&mdash;the case of impossibility
+theorems like Arrow&rsquo;s Theorem. Here axioms are mutually
+inconsistent and must be relaxed. The class may be singleton&mdash;the
+ideal case. Here a single procedure emerges as admissible, and the
+theorist has finished her work. Or the class may contain many
+procedures&mdash;the underdetermination case. Here stronger axioms are
+needed for choosing a procedure.</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="http://franzdietrich.net" target="other">Franz Dietrich</a>
+&lt;<a href="m&#97;ilto:fd&#37;40franzdietrich&#37;2enet"><em>fd<abbr title=" at ">&#64;</abbr>franzdietrich<abbr title=" dot ">&#46;</abbr>net</em></a>&gt;<br />
+<a href="http://kaispiekermann.net" target="other">Kai Spiekermann</a>
+&lt;<a href="m&#97;ilto:k&#37;2espiekermann&#37;40lse&#37;2eac&#37;2euk"><em>k<abbr title=" dot ">&#46;</abbr>spiekermann<abbr title=" at ">&#64;</abbr>lse<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

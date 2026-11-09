@@ -1,0 +1,338 @@
+# justice-distributive — bib（supplement）
+
+> （《justice-distributive》词条补充材料，源：plato.stanford.edu/entries/justice-distributive/bib.html）
+
+#### Supplement to Distributive Justice
+
+## Extended Bibliography on Distributive Justice
+
+- Aaron, Henry J. and Munnell, Alicia H., 1992, “Reassessing the Role for Wealth Transfer Taxes,” *National Tax Journal*, 45: 119–143.
+- Ackerman, Bruce A., 1983, “On Getting What We Don't Deserve,” *Social Philosophy and Policy*, 1: 60–70.
+- Ake, C., 1975, “Justice as Equality”, *Philosophy and Public Affairs*, 5.
+- Alexander, Larry A., 1986, “Fair Equality of Opportunity: John Rawls' (best) Forgotten Principle,” *Philosophy Research Archives*, 11: 197–208.
+- Alexander, Larry and Schwarzschild, Maimon, 1987, “Liberalism, Neutrality, and Equality of Welfare vs. Equality of Resources,” *Philosophy and Public Affairs*, 16: 85–110.
+- Allingham, M., 1975, “Towards an Ability Tax,” *Journal of Public Economics*, 4: 361–376.
+- Anderson, Elizabeth, 1993, *Value in Ethics and Economics*, Cambridge, Mass.: Harvard University Press.
+- –––, 1999, “What is the Point of Equality?”, *Ethics*, 109: 287–337.
+- –––, 2010, “The Fundamental Disagreement between Luck Egalitarians and Relational Egalitarians,” *Canadian Journal of Philosophy* (Supplementary Volume), 36: 1–23.
+- Andre, Judith, 1995, “Blocked Exchanges: A Taxonomy,” in *Pluralism, Justice, and Equality*, David Miller Walzer and Michael, eds., New York: Oxford University Press, 171–196.
+- Annis, David B. and Annis, F., 1986, “Merit Pay, Utilitarianism, and Desert,” *International Journal of Applied Philosophy*, 3: 33–41.
+- Annis, David B. and Bohanon, Cecil E., 1992, “Desert and Property Rights,” *Journal of Value Inquiry*, 26: 536–546.
+- Arneson, Richard J., 1981, “What's Wrong with Exploitation?” *Ethics*, 91: 201–227.
+- –––, 1989, “Equality and Equal Opportunity for Welfare,” *Philosophical Studies*, 56: 77–93.
+- –––, 1990a, “Against 'Complex Equality,'” *Public Affairs Quarterly*, 4: 99–110.
+- –––, 1990b, “Liberalism, Distributive Subjectivism, and Equal Opportunity for Welfare,” *Philosophy and Public Affairs*, 19: 158–194.
+- –––, 1991, “A Defense of Equality and Equal Opportunity for Welfare,” *Philosophical Studies*, 62: 187–195.
+- –––, 1993, “Market Socialism and Egalitarian Ethics,” in *Market Socialism: The Current Debate*, Pranab K. Bardhan Roemer and John E., eds., New York: Oxford University Press, 281–297.
+- –––, 2000, “Economic Analysis Meets Distributive Justice,” *Social Theory and Practice: An International and Interdisciplinary Journal of Social Philosophy*, 26(2): 327–345.
+- –––, 2001, “Luck and Equality II,” *Aristotelian Society: Supplementary Volume, no. 75 (suppl.)*, 73–90.
+- –––, 2002, “Why Justice Requires Transfers to Offset Income and Wealth Inequalities,” *Social Philosophy and Policy*, 19(1): 172–200.
+- Arnold, N. Scott, 1985, “Capitalists and the Ethics of Contribution,” *Canadian Journal of Philosophy*, 15: 89–105.
+- –––, 1987a, “Recent Works on Marx: A Critical Survey,” *American Philosophical Quarterly*, 24: 277–293.
+- –––, 1987b, “Reply to Professor Nell,” *Ethics*, 97: 411–413.
+- –––, 1987c, “Why Profits are Deserved,” *Ethics*, 97: 387–402.
+- –––, 1994, *The Philosophy and Economics of Market Socialism: A Critical Study*, New York: Oxford University Press.
+- Arrow, Kenneth J., 1984, *Social Choice and Justice*, Collected Papers of Kenneth J. Arrow ; v.1., Oxford: Blackwell.
+- Arthur, John and Shaw, William H. (eds.), 1978, *Justice and Economic Distribution*, Englewood Cliffs, New Jersey: Prentice Hall.
+- Atkinson, A. B., 1983, *Social Justice and Public Policy*, Cambridge, Mass.: MIT Press.
+- Baker, John, 1992, “An Egalitarian Case for Basic Income,” in *Arguing for Basic Income: Ethical Foundations for a Radical Reform*, Philippe Van Parijs, ed., London: Verso, 101–127.
+- Barry, Brian, 1988, “Equal Opportunity and Moral Arbitrariness,” in *Equal Opportunity*, Norman E. Bowie, ed., Boulder and London: Westview Press, 23–44.
+- –––, 1989, *Theories of Justice, Vol. 1*, Berkeley: University of California Press.
+- –––, 1992, “Equality Yes, Basic Income No,” in *Arguing for Basic Income: Ethical Foundations for a Radical Reform*, Philippe Van Parijs, ed., London: Verso, 128–140.
+- –––, 1995a, *Justice as Impartiality*, Oxford, England: Clarendon Press.
+- –––, 1995b, “Spherical Justice and Global Injustice,” in *Pluralism, Justice, and Equality*, David Miller Walzer and Michael, eds., New York: Oxford University Press, 67–80.
+- Barry, Brian M., 1973, *The Liberal Theory of Justice: A Critical Examination of the Principal Doctrines in "A Theory of Justice" by John Rawls*, Oxford: Clarendon Press.
+- Bauer, P.T., 1981, *Equality, The Third World and Economic Delusion*, Cambridge, MA: Harvard University Press.
+- Baumol, William J. and Fischer, Dietrich, 1986, *Superfairness : Applications and Theory*, Cambridge, Mass.: MIT Press.
+- Becker, Lawrence C., 1977, *Property Rights: Philosophic Foundations*, Boston , Mass.: Routledge and Kegan Paul Ltd.
+- –––, 1980, “The Moral Basis of Property Rights,” in *NOMOS XX11*, John W. Chapman Pennock and J. Roland, eds., New York: New York University Press, 187–220.
+- Bertram, Christopher, 1993, “Principles of Distributive Justice, Counterfactuals and History,” *Journal of Political Philosophy*, 1: 213–228.
+- Blake, Michael, 2001, “Distributive Justice, State Coercion, and Autonomy”, *Philosophy and Public Affairs*, 30(3): 257–296.
+- Blocker, Gene H., and Elizabeth H. Smith (eds.), 1980, “John Rawls' Theory of Social Justice:”, Athens: Ohio University Press.
+- Bojer, Hilde, 2003, *Distributional Justice : Theory and Measurement*, Routledge Frontiers of Political Economy ; 47., London ; New York: Routledge.
+- Bowie, Norman E. (ed.), 1988, *Equal Opportunity*, Boulder, Colorado: Westview Press.
+- Boylan, Michael, 2004, *A Just Society*, Lanham: Rowman and Littlefield.
+- Braybrooke, David, 1982, “The Maximum Claims of Gauthier's Bargainers: Are the Fixed Social Inequalities Acceptable?” *Dialogue (Canada)*, 21: 411–429.
+- Brennan, Jason, 2012, *Libertarianism: What Everyone Needs to Know*, Oxford: Oxford University Press.
+- Brock, Gillian, 2005, “Egalitarianism, Ideals, and Cosmopolitan Justice”, *Philosophical Forum*, 36(1): 1–30.
+- Brody, Baruch, 1983, “Redistribution Without Egalitarianism,” *Social Philosophy and Policy*, 1: 71–87.
+- Buchanan, Allen, 1988, *Ethics, Efficiency, and the Market*, Totowa, New Jersey: Rowman and Littlefield.
+- Burley, Justine, 2004, *Dworkin and His Critics*, Malden MA: Blackwell Publishing.
+- Carens, Joseph, 1981, *Equality, Moral Incentives and the Market*, Chicago: University of Chicago Press.
+- Carter, Alan, 2000, “Distributive Justice and Environmental Sustainability,” *Heythrop Journal: A Quarterly Review of Philosophy and Theology*, 41(4): 449–460.
+- Christiano, Thomas, 1991, “Difficulties with the Principle of Equal Opportunity for Welfare,” *Philosophical Studies*, 62: 179–185.
+- Christman, John, 1988, “Entrepreneurs, Profits, and Deserving Market Shares,” *Social Philosophy and Policy*, 6: 1–16.
+- –––, 1994, *The Myth of Property*, New York: Oxford University Press.
+- Clayton, Matthew and Williams, Andrew, 2004, *Social Justice*, Malden MA: Blackwell Publishing.
+- Cohen, G.A., 1992, “Incentives, Inequality, and Community,” in Grethe B. Peterson (ed.), *The Tanner Lectures on Human Values*, Salt Lake City: University of Utah Press.
+- –––, 1995, “The Pareto Argument for Inequality,” *Social Philosophy and Policy*, 12: 160–185.
+- –––, 1995, *Self-Ownership, Freedom, and Equality*, New York: Cambridge University Press.
+- –––, 1997, “Where the Action is: On the Site of Distributive Justice,” *Philosophy and Public Affairs*, 26(1): 3–30.
+- –––, 2000, *If You're an Egalitarian, How Come You're So Rich?*, Cambridge, MA: Harvard University Press.
+- Copp, David, “The Right to an Adequate Standard of Living: Justice, Autonomy, and the Basic Needs,” *Social Philosophy and Policy* 9. 1 (Jan 1992): 231–261.
+- Corlett, J. Angelo (ed.), 1991, *Equality and Liberty: Analyzing Rawls and Nozick*, St.Martins Press.
+- Crocker, Lawrence, 1977, “Equality, Solidarity, and Rawls' Maximin,” *Philosophy and Public Affairs*, 6: 262–266.
+- Daniels, Norman, 1978, “Merit and Meritocracy,” *Philosophy and Public Affairs*, 7: 206–223.
+- –––, 1985, “Fair Equality of Opportunity and Decent Minimums: A reply to Buchanan,” *Philosophy and Public Affairs*, 14: 106–111.
+- –––, 1988, *Am I my Parents' Keeper? : An Essay on Justice Between the Young and the Old*, New York ; Oxford: Oxford University Press.
+- –––, 1990, “Equality of What: Welfare, Resources, or Capabilities?,” *Philosophy and Phenomenological Research*, 50: 273–296.
+- Daniels, Norman (ed.), 1975, *Reading Rawls: Critical Studies of A Theory of Justice*, Oxford: Basil Blackwell.
+- Dick, James, 1975, “How to Justify a Distribution of Earnings,” *Philosophy and Public Affairs*, 4: 248–72.
+- Dworkin, Ronald, 1981a, “What is Equality? Part 1: Equality of Resources,” *Philosophy and Public Affairs*, 10: 185–246.
+- –––, 1981b, “What is Equality? Part 2: Equality of Welfare,” *Philosophy and Public Affairs*, 10: 283–345.
+- –––, 1983, “In Defense of Equality,” *Social Philosophy and Policy*, 1: 24–40.
+- Elster, Jon, 1992, *Local Justice : How Institutions Allocate Scarce Goods and Necessary Burdens*, Cambridge, England: Cambridge University Press.
+- –––, 1995a, “The Empirical Study of Justice,” in *Pluralism, Justice, and Equality*, David Miller Walzer and Michael, eds., New York: Oxford University Press, 81–98.
+- –––, 1995b, *Local Justice in America*, New York: Russell Sage Foundation.
+- Farrelly, Colin, 2002, “Genes and Social Justice: A Rawlsian Reply to Moore,” *Bioethics*, 16(1): 72–83.
+- Feinberg, Joel, 1970, *Doing and Deserving*, New Jersey: Princeton University Press.
+- Feldman, Fred, 19, “Justice, Desert, and the Repugnant Conclusion,” *Utilitas*, 7: 189–206.
+- Feser, E. 2005, “Personal Identity and Self-Ownership,” *Social Philosophy and Policy*, 22: 100–125.
+- Fleurbaey, Marc, 1995, “Equal Opportunity or Equal Social Outcome?,” *Economics and Philosophy*, 11: 25–55.
+- –––, 2005, “Book symposium: Justice, Luck and Knowledge by S.L. Hurley: Neutralising Luck, Rewarding Effort,” *Philosophical Books*, 46(3): 188–198.
+- Flew, Anthony, 1981, *The Politics of Procrustes*, London: Temple Smith.
+- –––, 1978, “Equality or Justice?” *Midwest Studies in Philosophy*, 3: 176–194.
+- Frank, Jill, 1998, “Democracy and Distribution: Aristotle on Just Desert,” *Political Theory: An International Journal of Political Philosophy*, 26(6): 784–802.
+- Fraser, Nancy, 1997, *Justice Interruptus : Critical Reflections on the "Postsocialist" Condition*, New York: Routledge.
+- Fried, Barbara, 1995, “Wilt Chamberlain Revisited: Nozick's "Justice in Transfer" and the Problem of Market-based Distribution,” *Philosophy and Public Affairs*, 24: 226–245.
+- –––, 2004, “Left-Libertarianism: A Review Essay,” *Philosophy and Public Affairs*, 32: 66-92.
+- –––, 2005, “Left-Libertarianism, Once More: A rejoinder to Vallentyne, Steiner, and Otsuka,” *Philosophy and Public Affairs*, 33(2): 216–222.
+- Fried, Charles, 1983, “Distributive Justice,” *Social Philosophy and Policy*, 1: 45–59.
+- Frohlich, N. and Oppenheimer, J., 1992, *Choosing Justice*, Berkeley: University of California Press.
+- Galston, William, 1986, “Equality of Opportunity and Liberal Theory,” in *Justice and Equality Here and Now*, Frank S.Lucash, ed., Ithaca, New York: Cornell University Press, 89–107.
+- –––, 1991, *Liberal Purposes: Goods, Virtues, and Diversity in the Liberal State*, New York: Cambridge University Press.
+- Garcia, J.L.A., 1986, “Two Concepts of Desert,” *Law and Philosophy*, 5: 219–235.
+- –––, 1988, “A Problem about the Basis of Desert,” *Journal of Social Philosophy*, 19: 11–19.
+- Gatens, Moira, 1991, *Feminism and Philosophy: Perspectives on Difference and Equality*, Indianapolis: Indiana University Press.
+- Gaus, Gerald F., 1980, “Property and Justice: A Select Bibliography,” in *NOMOS XX11*, John W. Chapman Pennock and J. Roland, eds., New York: New York University Press, 385–406.
+- –––, 1989, “A Contractual Justification of Redistributive Capitalism,” in *NOMOS XXX1*, John W. Chapman Pennock and J. Roland, eds., New York: New York University Press, 89–121.
+- –––, 1990, *Value and Justification: The Foundations of Liberal Theory*, New York: Cambridge University Press.
+- –––, 1991, “Does Compensation Restore Equality?” in *NOMOS XXXIII . Compensatory Justice*, John W. Chapman, ed., New York: New York University Press, 45–81.
+- –––, 1996, *Justificatory Liberalism*, New York: Oxford University Press.
+- Gaus, G., 2012, *The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World*, Cambridge: Cambridge University Press.
+- Gaus, G. and E. Mack, 2004, “Libertarianism and Classical Liberalism,” in *A Handbook of Political Theory*, G. Gaus and C. Kukathus (eds.), London: Routledge, pp. 115-129.
+- Gauthier, David, 1974, “Justice and Natural Endowment: Toward a critique of Rawls' Ideological Framework,” *Social Theory and Practice*, 3: 3–26.
+- –––, 1982, “Justified Inequality?” *Dialogue (Canada)*, 21: 431–443.
+- –––, 1986, *Morals by Agreement*, Oxford: Clarendon Press.
+- Gibbard, Allan, 1976, “Natural Property Rights,” *Nous*, 10: 77–86.
+- Glover, Jonathan (ed.), 1990, *Utilitarianism and Its Critics*, New York: Macmillan Publishing Company.
+- Goldman, Alan H., 1977, “The Principle of Equal Opportunity,” *Southern Journal of Philosophy*, 15: 473–485.
+- –––, 1987, “The Justification of Equal Opportunity,” *Social Philosophy and Policy*, 5: 88–103.
+- Goodin, Robert E., 1985, “Negating Positive Desert Claims,” *Political Theory*, 13: 575–598.
+- Goodin, Robert E., 1988, *Reasons for Welfare: The Political Theory of the Welfare State*, New Jersey: Princeton University Press.
+- –––, 1995, *Utilitarianism as a Public Philosophy*, New York: Cambridge University Press.
+- Goodrum, Crain R., 1977, “Rawls and Equalitarianism,” *Philosophy and Phenomenological Research*, 37: 386–393.
+- Goodwin, Barbara, 1992, *Justice by Lottery*, Chicago: University of Chicago Press.
+- Gordon, Scott, 1980, *Welfare, Justice, and Freedom*, New York: Columbia University Press.
+- Gorr, Michael, 1995, “Justice, Self-ownership, and Natural Assets,” *Social Philosophy and Policy*, 12: 267–291.
+- Graham, Kevin, 2002, “Autonomy, Individualism, and Social Justice,” *Journal of Value Inquiry*, 36(1): 43–57.
+- Gray, T. S., 1981, “Herbert Spencer's Theory of Social Justice – Desert or Entitlement?” *History of Political Thought*, 2: 161–186.
+- Gutmann, Amy, 1980, *Liberal Equality*, London: Cambridge University Press.
+- –––, 1995, “Justice Across the Spheres”, in *Pluralism,Justice, and Equality*, David Miller Walzer and Michael, eds., New York: Oxford University Press, 99–119.
+- Hardin, Russell, 1999, “From Bodo Ethics to Distributive Justice,” *Ethical Theory and Moral Practice: An International Forum*, 2(4): 399–413.
+- Haslett, D. W., 1986, “Is Inheritance Justified,” *Philosophy and Public Affairs*, 15: 122–155.
+- Haubrich, Dirk, 2004, “Global Distributive Justice and the Taxation of Natural Resources-Who Should Pick up the Tab?” *Contemporary Political Theory*, 3(1): 48–69.
+- Haworth, Alan, 1994, *Anti-libertarianism*, London: Routledge.
+- Hayek, Friedrich A., 1960, *The Constitution of Liberty*, Chicago: University of Chicago Press.
+- –––, 1973, *Law, Legislation, and Liberty, Vol. 1: Rules and Order*, London: Routledge.
+- –––, 1976, *Law, Legislation, and Liberty. Vol. 2: The Mirage of Social Justice*, London.
+- Heath, Joseph, 1997, “Intergenerational Cooperation and Distributive Justice,” *Canadian Journal of Philosophy*, 27(3): 361–376.
+- Held, Virginia, 1984, *Rights and Goods: Justifying Social Action*, Chicago: University of Chicago Press.
+- Hill, Christopher, 1985, “Desert and the Moral Arbitrariness of the Natural Lottery,” *Philosophical Forum*, 16: 207–222.
+- Hinsch, Wilfried, 2001, “Global Distributive Justice,” *Metaphilosophy*, 32(1/2): 58–78.
+- Hochman, Harold M., 2002, *Economic Behavior and Distributional Choice : Selected Writings of Harold M. Hochman*, Cheltenham, UK ; Northampton, MA: Edward Elgar.
+- Hochschild, Jennifer L., 1981, *What's Fair: American Beliefs about Distributive Justice*, Cambridge, MA.: Harvard University Press.
+- Honore, A. M., 1968, “Social Justice,” in *Essays in Legal Philosophy*, R.S.Summers, ed., Oxford: Oxford University Press, 66–81.
+- Hospers, J., 1971, *Libertarianism*, Los Angeles: Nash.
+- Hurley, S. L., 2003, *Justice, Luck, and Knowledge*, Cambridge, Mass.: Harvard University Press.
+- –––, 2001, “Luck and Equality I,” *Aristotelian Society: Supplementary Volume, no. 75 (suppl.)*, 51–72.
+- Hurrell, Andrew, 2001, “Global Inequality and International Institutions,” *Metaphilosophy*, 32(1/2): 34–57.
+- Jencks, Christopher, 1972, *Inequality*, Middlesex, England: Penguin Books Ltd.
+- Jones, Charles, 1999, *Global justice : Defending Cosmopolitanism*, Oxford ; New York: Oxford University Press.
+- Jones, Peter, 2000, “Global Distributive Justice,” in *<I>Ethics in International Affairs: Theories and Cases<D>*, Lanham: Rowman and Littlefield.
+- Joseph, Keith and Sumption, Jonathan, 1979, *Equality*, London, U.K.: John Murray.
+- Kang, Sung-Hak, 2003, “Free Will and Distributive Justice: A Reply to Smilansky,” *Philosophia: Philosophical Quarterly of Israel*, 31(1–2): 107–126.
+- Keller, Simon, 2002, “Expensive Tastes and Distributive Justice,” *Social Theory and Practice: An International and Interdisciplinary Journal of Social Philosophy*, 28(4): 529–552.
+- Kelly, P. J., 1998, *Impartiality, Neutrality and Justice: Re-Reading Brian Barry's Justice as Impartiality*, Edinburgh: Edinburgh Univ Pr.
+- –––, 1990, *Utilitarianism and Distributive Justice*, Oxford: Clarendon Press.
+- Kirzner, Israel M., 1989, *Discovery, Capitalism, and Distributive Justice*, Oxford, England ; New York, N.Y.: Basil Blackwell.
+- Kleinig, John, 1971, “The Concept of Desert,” *American Philosophical Quarterly*, 8: 71–78.
+- Klosko, George, 2000, *Democratic Procedures and Liberal Consensus*, New York: Oxford Univ Pr.
+- Knight, Carl, 2009, *Luck Egalitarianism: Equality, Responsibility, and Justice,* Edinburgh: Edinburgh University Press.
+- Kolm, Serge-Christophe, 1996, *Modern Theories of Justice*, Cambridge MA: MIT Press.
+- –––, 1997, *Justice and Equity*, Cambridge, Mass.: MIT Press.
+- –––, 2005, *Macrojustice : the Political Economy of Fairness*, New York: Cambridge University Press.
+- Korukonda, Appa Rao and Bathala, Chenchu Ramaiah T., 2004, “Ethics, Equity, and Social Justice in the New Economic order: Using financial information for keeping social score”, *Journal of Business Ethics*, 54(1): 1–15.
+- Kukathas, Chandran and Pettit, Philip, 1992, *Rawls: A Theory of Justice and its Critics*, Cambridge, England: Polity Press.
+- Kymlicka, Will, 1990, *Contemporary Political Philosophy: An Introduction*, Oxford: Clarendon Press.
+- Lake, Christopher, 2001, *Equality and Responsibility*, Oxford; New York: Oxford University Press.
+- Lamont, Julian, 1994a, “The Concept of Desert in Distributive Justice”, *Philosophical Quarterly*, 44: 45–64.
+- –––, 1994b, “Pareto Efficiency, Egalitarianism, and Difference Principles,” *Social Theory and Practice*, 20: 311–325.
+- –––, 1995, “Problems for Effort-based Distribution Principles,” *Journal of Applied Philosophy*, 12: 215–229.
+- –––, 1997, “Incentive Income, Deserved Income, and Economic Rents,” *Journal of Political Philosophy*, 5(1): 26–46.
+- Langtry, Bruce, 1985, “The Maximin Rule Argument for Rawls's Principles of Justice”, *Australasian Journal of Philosophy*, 63: 64–77.
+- Le Grand, Julian, 1991, *Equity and Choice: An Essay in Economics and Applied Philosophy*, London: Harper Collins Academic.
+- Lessnoff, M.H., 1978, “Capitalism, Socialism and Justice,” in *Justice and Economic Distribution*, John Arthur Shaw and William, eds., Englewood Cliffs, N.J.: Prentice-Hall, 139-149.
+- Locke, John, 1690, *Two Treatises of Government*, P. Laslett (ed.), New York: Cambridge University Press, 1960.
+- Lomasky, Loren E., 1987, *Persons, Rights, and the Moral Community*, New York: Oxford University Press.
+- –––, 1995, “Justice to Charity,” *Social Philosophy and Policy*, 12: 32–53.
+- Lucash, Frank S. and Shklar, Judith N., 1986, *Justice and Equality Here and Now*, Cornell paperbacks., Ithaca, N.Y. ; London: Cornell University Press.
+- Machan, Tibor R, 1988, *The Moral Case For The Free Market Economy: A Philosophical Argument*, Lewiston Mellen Press.
+- Mack, Eric, 1983, “Distributive Justice and the Tensions of Lockeanism,” *Social Philosophy and Policy*, 1: 132–150.
+- –––, 1995, “Rights to Natural Talents and Pure Profits: A Critique of Gauthier on Rights and Economic Rent”, in *Profits and Morality*, Robin Cowan Rizzo and Mario J., eds., Chicago: University of Chicago Press, 124–149.
+- –––, 2002a, “Self-Ownership, Marxism, and Egalitarianism: Part I. Challenges to Historical Entitlement,” *Politics, Philosophy, and Economics*, 1: 119-146.
+- –––, 2002b, “Self-Ownership, Marxism, and Egalitarianism: Part II. Challenges to the Self-Ownership Thesis,” *Politics, Philosophy, and Economics*, 1: 237-276.
+- –––, 2010, “The Natural Right of Property,” *Social Philosophy and Policy*, 27: 53-78.
+- MacLeod, A., 1983, “Equality of Opportunity”, in *Moral Issues*, J. Narveson, ed., Toronto and New York: Toronto and New York, 370–378.
+- –––, 1985, “Economic inequality: Justice and Incentives,” in *Economic Justice*, Kenneth Kipnis and Diana T. Meyers (eds.), Totowa, N.J.: Rowman and Allanheld, 176–189.
+- –––, 2005, “Distributive Justice and Desert,” *Journal of Social Philosophy*, 36(4): 421–438.
+- Macleod, Colin M., 1998, “Liberalism, Justice, and Markets: a Critique of Liberal Equality”,Oxford: Clarendon Press, published to Oxford Scholarship Online, 2003.
+- Macpherson, C. B., 1987, *The Rise and Fall of Economic Justice and Other Essays*, Oxford: Oxford University Press.
+- Matravers, Derek and Pike, Jon, 2003, *Debates in Contemporary Political Philosophy: An Anthology*, New York: Routledge.
+- McClelland, Peter D., 1990, *The American Search for Economic Justice*, Cambridge, Mass: Basil Blackwell.
+- McKenzie Alexander, J., 2000, “Evolutionary Explanations of Distributive Justice,” *Philosophy of Science*, 67(3): 490–516.
+- McKerlie, Dennis, 2001, “Aristotle's Theory of Justice,” *Southern Journal of Philosophy*, 39(1): 119–141.
+- McLeod, Owen, 1996, “Desert and Wages,” *Utilitas*, 8: 205–221.
+- McMahon, Christopher, 1989, “The Better Endowed and the Difference Principle,” *Analysis*, 49: 213–216.
+- Miller, David, 1976, *Social Justice*, New York: Clarendon Press, Oxford.
+- –––, 1989, *Market, State, and Community*, Oxford: Clarendon Press.
+- –––, 1991, “Review article: Recent Theories of Social Justice,” *British Journal of Political Science*, 21: 371–391.
+- –––, 1992, “Deserving Jobs,” *Philosophical Quarterly*, 161–181.
+- –––, 1993, “Equality and Market Socialism,” in *Market Socialism: The Current Debate*, Pranab K. Bardhan Roemer and John E., eds., New York: Oxford University Press, 298–313.
+- –––, 1999, *Principles of Social Justice*, Cambridge, MA: Harvard University Press.
+- Mills, Eugene, 2004, “Scheffler on Rawls, Justice, and Desert,” *Law and Philosophy: An International Journal for Jurisprudence and Legal Philosophy*, 23(3): 261–272.
+- Milne, Heather, 1986, “Desert, Effort and Equality,” *Journal of Applied Philosophy*, 3: 235–243.
+- Moriarty, Jeffrey, 2002, “Desert and Distributive Justice in a Theory of Justice,” *Journal of Social Philosophy*, 33(1): 131–143.
+- –––, 2003, “Against the Asymmetry of Desert,” *Nous*, 37(3): 518–536.
+- Moulin, Hervé, 2003, *Fair Division and Collective Welfare*, Cambridge, Mass.: MIT Press.
+- Munzer, Stephen R., 1990, *A Theory of Property*, New York: Cambridge University Press.
+- Murphy, Liam and Nagel, Thomas, 2002, *The Myth of Ownership: Taxes and Justice*, Oxford ; New York: Oxford University Press.
+- Nagel, Thomas, 1975a, “Libertarianism Without Foundations,” *Yale Law Journal*, 85: 136–149.
+- –––, 1975b, “Rawls on Justice,” in *Reading Rawls*, Norman Daniels (ed.), Oxford: Basil Blackwell, 1–16.
+- –––, 1991, *Equality and Partiality*, New York: Oxford University Press.
+- Narveson, Jan, 1983a, “On Dworkinian Equality,” *Social Philosophy and Policy*, 1: 1–23.
+- –––, 1983b, “Reply to Dworkin,” *Social Philosophy and Policy*, 1: 41–44.
+- –––, 1988, *The Libertarian Idea*, Philadelphia: Temple University Press.
+- –––, 2000, “Libertarianism,” in the *Blackwell Guide to Ethical Theory*, H. LaFollette (ed.), Oxford: Blackwell, pp. 306–24.
+- Nathanson, Stephen, 1998, *Economic Justice*, Prentice Hall Foundations of Philosophy Series., Upper Saddle River, N.J.: Prentice Hall.
+- Nell, Edward, 1987, “On Deserving Profits,” *Ethics*, 97: 403–410.
+- Nielsen, Kai, 1979, “Radical Egalitarian Justice: Justice as Equality,” *Social Theory and Practice*, 5: 209–226.
+- –––, 1981, “Impediments to Radical Egalitarianism,” *American Philosophical Quarterly*, 18: 121–129.
+- –––, 1985, *Equality and Liberty: A Defence of Radical Egalitarianism*, New Jersey: Totowa.
+- Nozick, Robert, 1974, *Anarchy, State and Utopia*, New York: Basic Books.
+- Nussbaum, Martha C., 1999, *Sex and Social Justice*, Oxford: Oxford University Press.
+- Olsaretti, Serena, 2003a, *Desert and Justice*, Oxford: Clarendon Press.
+- –––, 2003b, “Distributive Justice and Compensatory Desert,” in *<I>Desert and Justice<D>, Olsaretti, Serena (ed)*, Oxford: Clarendon Press.
+- –––, 2004, *Liberty, Desert and the Market : a Philosophical Study*, Cambridge: Cambridge University Press.
+- Osberg, Lars (ed.), 1991, *Economic Inequality and Poverty: International Perspectives*, New York: M. E. Sharpe.
+- Pateman, Carol, 1988, *The Sexual Contact*, Stanford: Stanford University Press.
+- Pateman, Carole and Gross, Elizabeth (eds.), 1986, *Feminist Challenges: Social and Political Theory*, Boston: Northeastern University Press.
+- Paul, J. (ed.), 1982, *Reading Nozick: Essays on Anarchy, State, and Utopia*, Oxford: Basil Blackwell.
+- Pettit, Philip, 1997, *Republicanism: A Theory of Freedom and Government*, Oxford, England: Oxford University Press.
+- Peyton Young, H., 1994, *Equity: In Theory and Practice*, Princeton, New Jersey: Princeton University Press.
+- Pogge, Thomas W., 1989, *Realizing Rawls*, Ithaca: Cornell University Press.
+- –––, 2000, “On the Site of Distributive Justice: Reflections on Cohen and Murphy,” *Philosophy and Public Affairs*, 29(2): 137–169.
+- –––, 2001, *Global Justice* (Metaphilosophy Series in Philosophy), Oxford: Blackwell Publishers.
+- –––, 2002, *World Poverty and Human Rights : Cosmopolitan Responsibilities and Reforms*, Cambridge; Malden, MA: Polity.
+- Price, Terry L., 1999, “Egalitarian Justice, Luck, and the Cost of Chosen Ends,” *American Philosophical Quarterly*, 36(4): 267–278.
+- Rachels, James, 1978, “What People Deserve,” in *Justice and Economic Distribution*, John Arthur Shaw and William, eds., Englewood Cliffs, N.J: Prentice-Hall, 150-163.
+- Rae, Douglas, Yates, Douglas, Hochschild, Jennifer, Morone, Joseph, and Fessler, Carol (eds.), 1981, *Equalities*, Cambridge, MA: Harvard University Press.
+- Rakowski, Eric, 1991, *Equal Justice*, Oxford: Clarendon Press.
+- Rawls, John, 1972, *A Theory Of Justice*, Oxford: Oxford University Press.
+- –––, 1974a, “Reply to Alexander and Musgrave,” *Quarterly Journal of Economics*, 88: 633–655.
+- –––, 1974b, “Some Reasons for the Maximin Criterion,” *American Economic Review*, 64: 141–146.
+- –––, 1975, “A Kantian Conception of Equality,” *The Cambridge Review*, 94–99.
+- –––, 1980, “Kantian Constructivism in Moral Theory,” *The Journal of Philosophy*, 77: 515–572.
+- –––, 1982, “Social Unity and Primary Goods,” in *Utilitarianism and Beyond*, Amartya Sen Williams and Bernard, eds., Cambridge: Cambridge University Press, 159–185.
+- –––, 1985, “Justice as Fairness: Political not Metaphysical,” *Philosophy and Public Affairs*, 14: 223–251.
+- Raz, Joseph, 1978, “Principles of Equality,” *Mind*, 87: 321–342.
+- Rees, John, 1971, *Equality*, London: Pall Mall Press.
+- Regan, Donald, H., 1980, *Utilitarianism and Co-operation*, Oxford, England: Clarendon Press.
+- Reiman, Jeffrey H., 1981, “The Fallacy of Libertarian Capitalism,” *Ethics*, 92: 85–95.
+- –––, 1983, “The Labor Theory of the Difference Principle,” *Philosophy and Public Affairs*, 12: 133–159.
+- Rescher, Nicholas, 1966, *Distributive Justice: A Constructive Critique of the Utilitarian Theory of Distribution*, Indianapolis: Bobbs-Merrill Co.
+- –––, 2002, *Fairness : Theory and Practice of Distributive Justice*, New Brunswick, NJ: Transaction Publishers.
+- Riley, Jonathan, 1989, “Justice under Capitalism,” in *Markets and Justice*, John H. Chapman, ed., New York: New York University Press, 122–162.
+- Ripstein, Arthur, 1994, “Equality, Luck, and Responsibility,” *Philosophy and Public Affairs*, 23: 3–23.
+- Roberts, Rodney C., 2002, “Justice and Rectification: A Taxonomy of Justice,” in *Injustice and Rectification*, Rodney C. Roberts (ed.), New York: Peter Lang, pp. 7-30.
+- Roemer, John, 1985, “Equality of Talent,” *Economics and Philosophy*, 1: 151–186.
+- –––, 1998, *Theories of Distributive Justice*, Cambridge, Mass: Harvard University Press.
+- –––, 2002, “Egalitarianism Against the Veil of Ignorance,” *Journal of Philosophy*, 99(4): 167–184.
+- Roemer, John E. (ed.), 1996, *Equal Shares: Making Market Socialism Work. The Real Utopias Project* (Volume 2), New York: Verso.
+- Roemer, Jon E. and Elster, John (eds.), 1991, *Interpersonal Comparisons of Well-Being*, Cambridge: Cambridge University Press.
+- Rosenberg, Alexander, 1995, “Equality, Sufficiency, and Opportunity in the Just Society,” *Social Philosophy and Policy*, 12: 54–71.
+- Ryan, John A., 1942, *Distributive Justice*, New York: Maximilian, 3rd Ed.
+- Sadurski, Wojciech, 1985a, *Giving Desert Its Due*, Dordrecht, Holland: D.Reidel.
+- –––, 1985b, *Giving Desert its Due: Social Justice and Legal Theory*, Law and philosophy library ; v.2., Dordrecht ; Boston Hingham, MA, U.S.A.: D. Reidel ; Sold and distributed in the U.S.A. and Canada by Kluwer Academic Publishers.
+- Saunders, Peter (ed.), 1994, *Welfare and Inequality*, United Kingdom: Cambridge University Press.
+- Schaar, John, 1964, “Some Ways of Thinking about Equality”, *Journal of Politics*, 26: 867–895.
+- Schaller, Walter E., 1997, “Expensive Preferences and the Priority of Right: A Critique of Welfare-egalitarianism,” *Journal of Political Philosophy*, 5(3): 254–273.
+- Scheffler, Samuel, 1995, “Individual Responsibility in a Global Age,” *Social Philosophy and Policy*, 12: 219–236.
+- –––, 2003a, “Distributive Justice and Economic Desert,” in *<I>Desert and Justice<D>, Olsaretti, Serena (ed)*, Oxford: Clarendon Press.
+- –––, 2003b, “What is Egalitarianism?”, *Philosophy and Public Affairs*, 31(1): 5–39.
+- Schmidtz, David, 1991, *The Limits of Government: An Essay on the Public Goods Argument*, Boulder, CO: Westview.
+- –––, 2006, *The Elements of Justice*, Cambridge University Press.
+- Schweickart, David, 1980, *Capitalism or Worker Control?*, New York: Praeger Publishers.
+- –––, 1993, *Against Capitalism*, Cambridge, U.K.: Cambridge University Press.
+- Sen, Amartya K., 1982, “Just Desert”, *New York Review of Books*, 19: 3–6.
+- –––, 1985, *Commodities and Capabilities*, Amsterdam: North Holland.
+- –––, 1987, *The Standard of Living*, Cambridge: Cambridge University Press.
+- Shapiro, Daniel, 2007, *Is the Welfare State Justified?* Cambridge: Cambridge University Press.
+- Shapiro, Ian, 1991, “Resources, Capacities, and Ownership: The Workmanship Ideal and Distributive Justice,” *Political Theory*, 19: 47–72.
+- Shaw, John Arthur and H., William (eds.), 1991, *Justice and Economic Distribution, Second Edition*, New Jersey: Prentice Hall.
+- Sher, George A., 1979, “Effort, Ability, and Personal Desert,” *Philosophy and Public Affairs*, 8: 361–376.
+- –––, 1987, *Desert*, Princeton, New Jersey: Princeton University Press.
+- Silver, Morris, 1989, *Foundations of Economic Justice*, Oxford, England: Basil Blackwell.
+- Slote, Michael A., 1973, “Desert, Consent and Justice,” *Philosophy and Public Affairs*, 2: 323–347.
+- Smart, J.J.C. and Williams, Bernard, 1973, *Utilitarianism For and Against*, Cambridge, UK: Cambridge University Press.
+- Smilansky, Saul, 1997, “Egalitarian Justice and the Importance of the Free Will Problem,” *Philosophia: Philosophical Quarterly of Israel*, 25(1–4): 153–161.
+- –––, 2003, “Free will, Egalitarianism and Rawls,” *Philosophia: Philosophical Quarterly of Israel*, 31(1–2): 127–138.
+- Soltan, Karol Edward, 1982, “Empirical Studies of Distributive Justice,” *Ethics*, 92: 673–691.
+- –––, 1987, *The Causal Theory of Justice*, Berkeley: University of California Press.
+- Steiner, H., 1981, “Liberty and Equality,” *Political Studies*, 29: 555–569.
+- Stemplowska, Zofia and Swift, Adam, 2012, “Ideal and Nonideal Theory,” in *The Oxford Handbook of Political Philosophy*, David Estlund (ed.), Oxford: Oxford University Press.
+- Sterba, James, 1974, “Justice as Desert,” *Social Theory and Practice*, 3: 101–116.
+- –––, 1980, *The Demands of Justice*, University of Notre Dame Press.
+- –––, 1994, “From Liberty to Welfare,” *Ethics*, 105: 64–98.
+- Sunstein, Cass, R., 1997, *Free Markets and Social Justice*, Oxford, New York: Oxford University Press.
+- Sverdlik, Steven, 1983, “The Nature of Desert,” *Southern Journal of Philosophy*, 21: 585–594.
+- Swift, Adam, 1995, “The Sociology of Complex Equality,” in *Pluralism, Justice, and Equality*, David Miller Walzer and Michael, eds., New York: Oxford University Press, 253–280.
+- –––, 1999, “Public Opinion and Political Philosophy: The Relation between Social-scientific and Philosophical Analyses of Distributive Justice,” *Ethical Theory and Moral Practice: An International Forum*, 2(4): 337–363.
+- Swift, Adam; Gordon Marshall, Carole Burgoyne, and David Routh, 1995, “Distributive Justice: Does it Matter What the People Think?”, in *Social Justice and Political Change.*, David S. Mason James R. Kluegel and Bernd Wegener, eds., New York: Aldine De Gruyter, 15–47.
+- Tan, Kok-Chor, 2001, “Reasonable Disagreement and Distributive Justice,” *Journal of Value Inquiry*, 35(4): 493–507.
+- Tasioulas, John, 2005, “Global Justice Without End?”, *Metaphilosophy*, 36(1–2): 3–29.
+- Taylor, Charles, 1986, “The Nature and Scope of Distributive Justice,” in *Justice and Equality Here and Now*, Frank S. Lucash, ed., Ithaca and London: Cornell University Press, 34–67.
+- Temkin, Larry S., 1993, *Inequality*, New York: Oxford University Press.
+- Valentini, Laura 2012, “Ideal vs. Non-ideal Theory: A Conceptual Map,” in *Philosophical Compass*, 7(9): 654–664.
+- Vallentyne, Peter, 2003, *Equality and Justice*, Ethical Investigations., New York: Routledge.
+- –––, 2007, “Libertarianism and the State,” *Social Philosophy and Policy*, 24: 187-205.
+- Vallentyne, P. and H. Steiner (eds.), 2000a, *Left Libertarianism and Its Critics: The Contemporary Debate*, New York: Palgrave Publishers Ltd.
+- –––, 2000b, *The Origins of Left Libertarianism: An Anthology of Historical Writings*, New York: Palgrave Publishers Ltd.
+- Vallentyne, P., H. Steiner, and M. Otsuka, 2005, “Why Left-Libertarianism Isn't Incoherent, Indeterminate, or Irrelevant: A Reply to Fried,” *Philosophy and Public Affairs*, 33: 201-215.
+- Van Niekerk, Anton A., 2004, “Principles of Global Distributive Justice: Moving Beyond Rawls and Buchanan,” *South African Journal of Philosophy*, 23(2): 171–194.
+- Van Parijs, Philippe, 1995, *Real Freedom for All, What (if anything) Can Justify Capitalism*, Oxford: Clarendon Press
+- Varian, Hal R., 1975, “Distributive Justice, Welfare Economics, and the Theory of Fairness,” *Philosophy and Public Affairs*, 4: 223–247.
+- Waldron, Jeremy, 1983, “Two Worries about Mixing One's Labour,” *The Philosophical Quarterly*, 33: 37–44.
+- –––, 1988, *The Right to Private Property*, New York: Oxford University Press.
+- –––, 1995, “Money and Complex Equality,” in *Pluralism, Justice, and Equality*, David Miller Walzer and Michael, eds., New York: Oxford University Press, 144–170.
+- Wall, Steven, 2003, “Just Savings and the Difference Principle,” *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition*, 116(1): 79–102.
+- Waller, Bruce N., 1989, “Uneven Starts and Just Deserts,” *Analysis*, 49: 209–213.
+- Walsh, Adrian J., 1997, *A Neo-Aristotelian Theory of Social Justice*, Avebury series in philosophy, Aldershot, Hants, England ; Brookfield, Vt.: Ashgate.
+- Walzer, Michael, 1983, *Spheres of Justice*, Oxford: Martin Robertson.
+- –––, 1985, *Spheres of justice : A Defence of Pluralism and Equality*, Oxford: Blackwell.
+- Walzer, Michael and Miller, David, 1995, *Pluralism, Justice, and Equality*, Oxford: Oxford University Press.
+- Weatherford, Roy C., 1983, “Defining the Least Advantaged,” *The Philosophical Quarterly*, 33: 63–69.
+- Wellbank, J.H. (ed.), 1982, *John Rawls and His Critics: An Annotated Bibliography*, New York: Garland.
+- Westen, Peter, 1985, “The Concept of Equal Opportunity,” *Ethics*, 95: 837–850.
+- Wiggins, David, 1985, “Claims of Need,” in *Morality and Objectivity*, T. Hoderich, ed., London: Routledge and Keegan Paul.
+- Wilkinson, T. M., 1999, *Freedom, Efficiency, and Equality*, New York: St. Martin's Press.
+- Wilson, Catherine, 2003, “The Role of a Merit Principle in Distributive Justice,” *Journal of Ethics: An International Philosophical Review*, 7(3): 277–314.
+- Wolff, Jonathan, 1998, “Fairness, Respect and the Egalitarian Ethos,” *Philosophy and Public Affairs*, 27: 97–122.
+- –––, 2010, “Fairness, Respect and the Egalitarian Ethos Revisited,” *Journal of Ethics*, 14: 335–350.
+- Wood, Paul M., 2004, “Intergenerational Justice and Curtailments on the Discretionary Powers of Governments,” *Environmental Ethics: An Interdisciplinary Journal Dedicated to the Philosophical Aspects of Environmental Problems*, 26(4): 411–428.
+- Young, H. Peyton, 1994, *Equity : in Theory and Practice*, Princeton, N.J.: Princeton University Press.
+- Young, Iris Marion, 2004, “Responsibility and Global Labor Justice,” *Journal of Political Philosophy*, 12(4): 365–388.
+- Young, Michael, 1958, *The Rise of the Meritocracy*, Middlesex, England: Penguin Books Ltd.
+- Zaitchik, A., 1977, “On Deserving to Deserve,” *Philosophy and Public Affairs*, 6: 370–388.
+- Zajac, Edward E., 1995, *Political Economy of Fairness*, Cambridge, MA: MIT Press.
+- Zucker, Ross, 2001, *Democratic Distributive Justice*, Cambridge; New York: Cambridge University Press.

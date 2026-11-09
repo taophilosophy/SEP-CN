@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Negation &gt; Substructural negations: negation as a modal operator in display calculi (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/negation/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/negation/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=negation">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Negation</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Substructural negations: negation as a modal operator in display calculi</h2>
+
+<p>
+In sections 2.3 and 2.3, negation as a modal operator in increasingly
+rich vocabularies has been considered primarily in the setting of
+formula-to-formula sequents, with pointers to work by Lahav, Marcos,
+and Zohar, who use sequents with finite sets of formulas on the left
+and the right hand side of the turnstile, \(\vdash\), and work by
+Colacito, de Jongh, and Vargas, who make use of Hilbert-style axiom
+systems. This section presents negation still as a normal modal
+operator, but now using a generalization of Gentzen&rsquo;s sequent
+calculus, namely display calculi. In this setting, properties of
+negation are captured by sequent rules that do not exhibit any
+operations from the logical object language but only connectives from
+the structural language of sequents. The negations under consideration
+can be obtained from classical negation by giving up structural
+sequent rules and can therefore be called &ldquo;substructural
+negations.&rdquo; Display calculi were introduced by Nuel Belnap
+(1982), the modal display calculus was introduced in Wansing 1994, and
+for recent developments see Chen, Greco, Palmigiano, and Tzimoulis
+2022 and references given there. In the modal display calculus, there
+is a unary structure connective, \(\bullet\), which has a
+context-sensitive intuitive reading. On the left of the turnstile it
+is to be understood as the backward-looking possibility operator from
+temporal logic, <strong>P</strong> (&ldquo;sometimes in the
+past&rdquo;), and on the right of the turnstile, it is to be read as
+the forward-looking necessity operator, <strong>G</strong>
+(&ldquo;always in the future&rdquo;). The operators <strong>P</strong>
+and <strong>G</strong> form a residuated pair, which means that \(A
+\vdash\)<strong>G</strong>\(B\) is valid just in case
+<strong>P</strong>\(A \vdash\)\(B\) is valid. If \(X, Y\) are
+structures, then the basic structural rules governing \(\bullet\), its
+<em>display rules</em>, are:</p>
+
+<p>
+
+\[X \vdash \bullet Y \, / \, \bullet X \vdash Y \mbox{ and }\bullet X \vdash Y \, / \, X \vdash \bullet Y.\]
+</p>
+
+<p>
+The framework of substructural negations has been developed by Onishi
+(2015), starting from bi-intuitionistic logic. Onishi introduces four
+negations as normal modal operators, namely forward-looking
+impossibility, \(\rhd\), and backward-looking impossibility, \(\lhd\),
+as well as forward-looking unnecessity, \(\blacktriangleright\), and
+backward-looking unnecessity, \(\blacktriangleleft\). Both pairs come
+with their own binary accessibility relation, namely \(\frown\) as the
+compatibility relation used to interpret negation as impossibility,
+and \(\smile\) as a separate relation of &ldquo;exhaustiveness&rdquo;
+used to interpret negation as unnecessity.</p>
+
+<p>
+Onishis&rsquo;s <em>Bi</em>N-frames are compatibility frames with an
+additional binary exhaustiveness relation: \((W, \frown, \smile,
+\leq)\) or, in Onishi&rsquo;s presentation, \((W, \leq, \frown,
+\smile)\). (Onishi does not require the relation \(\leq\) to be
+anti-symmetric, which makes no difference concerning the set of valid
+formulas.) A <em>Bi</em>N-model adds to a <em>Bi</em>N-frame a
+persistent valuation function, and suitable conditions on the
+relations \(\leq\), \(\frown\), and \(\smile\) are imposed so as to
+ensure that persistence holds for arbitrary formulas. The verification
+conditions for negated formulas are then as already explained:</p>
+
+<p>
+
+\[\begin{array}{l}
+M, w \models \rhd A \mbox{ iff } \mbox{for all } u \in W\!: w\frown u \mbox{ implies } M, u \not \models A, \\
+ M, w \models \lhd A \mbox{ iff } \mbox{for all } u \in W\!: u\frown w \mbox{ implies } M, u \not \models A, \\
+ M, w \models \blacktriangleright A \mbox{ iff } \mbox{there exists } u \in W\!: w\smile u \mbox{ and } M, u \not \models A, \\
+ M, w \models \blacktriangleleft A \mbox{ iff } \mbox{there exists } u \in W\!: u\smile w \mbox{ and } M, u \not \models A. \\
+ 
+\end{array} \]
+</p>
+
+<p>
+The structural language of display sequents makes use of various
+context-sensitive operations: a structural constant, \(\mathbf{I}\),
+two unary operations, \(\sharp\) and \(\flat\), and two binary
+structure connectives, ; and &gt;. Every formula is a structure, and
+the structure operations are used to build up more complex structures.
+Structures appear in antecedent and succedent position of a
+sequent.</p>
+
+<p>
+Two slightly different display calculi for bi-intuitionistic logic
+have been presented in Gor&eacute; 2000 and Wansing 2008. Onishi uses
+a variant of the sequent rules from Gor&eacute; 2000. The structure
+connectives have a context-dependent reading depending on whether they
+appear in antecedent or succedent position of a sequent. Their
+intuitive understanding as operations from the logical object language
+is as follows:</p>
+
+<p>
+
+\[\begin{array}{rccccccc}
+&amp; \mathbf{I} &amp; ; &amp; &gt; &amp; \sharp &amp; \flat &amp; \\
+ \mbox{in antecedent position} &amp; \top &amp; \wedge &amp; \coimp &amp; \blacktriangleright &amp; \blacktriangleleft \\
+ \mbox{in succedent position} &amp; \bot &amp; \vee &amp; \rightarrow &amp; \rhd &amp; \lhd \\
+ 
+\end{array}\]
+</p>
+
+<p>
+This understanding justifies the following display rules for
+\(\sharp\) and \(\flat\) and the following left and right introduction
+rules for the four negation connectives:</p>
+
+<div class="indent">
+
+<p>
+\(\sharp X \vdash Y \, / \, \flat Y \vdash X\) and \(\flat Y \vdash X
+\, / \, \sharp X \vdash Y \),</p>
+
+<p>
+\(X \vdash \sharp Y \, / \, Y \vdash \flat X\) and \(Y \vdash \flat X
+\, / \, X \vdash \sharp Y \),</p>
+
+<p>
+\(X \vdash A \, / \, \rhd A \vdash \sharp X \), \(\quad X \vdash
+\sharp A \, / \, X \vdash \rhd A\), \(\quad X \vdash A \, / \, \lhd A
+\vdash \flat X\), \(\quad X \vdash \flat A \, / \, X \vdash \lhd
+A\),</p>
+
+<p>
+\(\sharp A \vdash X \, / \, \blacktriangleright A \vdash X \), \(\quad
+A \vdash X \, / \, \sharp X \vdash \blacktriangleright A\), \(\quad
+\flat A \vdash X \, / \, \blacktriangleleft A \vdash X\), \(\quad A
+\vdash X \, / \, \flat X \vdash \blacktriangleleft A\).</p>
+</div>
+
+<p>
+If these rules are added to the display calculus for bi-intuitionistic
+logic, one obtains a sequent calculus \(\delta\)<em>Bi</em>N that
+admits cut-elimination. The following sequent rules and sequents are
+valid on any <em>Bi</em>N-frame (the first rule is admissible, the
+remaining rules and sequents are derivable in
+\(\delta\)<em>Bi</em>N):</p>
+
+<p>
+\(A \vdash \rhd B \, / \, B \vdash \lhd A,\) \(A \vdash B \, / \, \rhd
+B \vdash \rhd A,\) \(B \vdash \lhd A \, / \, A \vdash \rhd B,\) \(\top
+\vdash \rhd \bot,\) \(\rhd A \wedge \rhd B) \vdash \rhd (A \vee
+B).\)</p>
+
+<p>
+The following list of sequents are valid on a <em>Bi</em>N-frame just
+in case the first-order condition given above it is satisfied (the
+corresponding structural sequent rule is given on the right):</p>
+
+<ul>
+
+<li>\(\forall x \forall y (x \frown y \Rightarrow y \frown x)\)
+<br />
+\(A \vdash \rhd \rhd A \qquad X \vdash \sharp Y \, / \, Y \vdash
+\sharp X\)</li>
+
+<li>\(\forall x \forall y (x\frown y \Rightarrow \exists z ( x \leq z
+\amp z \leq y \amp x \frown z))\):
+<br />
+\((A \rightarrow B) \vdash (\rhd B \rightarrow \rhd A) \qquad X \vdash
+\sharp (Y ;Z) \, / \, X \vdash Y &gt; \sharp Z\)</li>
+
+<li>\(\forall x \, x\frown x\)
+<br />
+\((A \wedge \rhd A) \vdash B \qquad X \vdash \sharp Y \, / \, X \vdash
+Y &gt; \mathbf{I}\)</li>
+
+<li>\(\forall x \exists y \, x \frown y\)
+<br />
+\(\rhd \top \vdash \bot \qquad X \vdash \sharp \mathbf{I} \, /\, X
+\vdash \mathbf{I}\)</li>
+
+<li>\(\forall x \forall y (x \frown y \Rightarrow y \leq x)\)
+<br />
+\(B \vdash A \vee \rhd A \qquad (X; Y) \vdash Z \, / \, X \vdash
+(\sharp Y ; Z)\)</li>
+
+<li>\(\forall x \forall y \forall z ((x \frown y \amp x \frown z)
+\Rightarrow \exists w (y \leq w \amp z \leq w \amp x \frown w))\)
+<br />
+\(\rhd (A \wedge B) \vdash (\rhd A \vee \rhd B) \qquad X \vdash \sharp
+(Y;Z) \, / \, X \vdash (\sharp Y ; \sharp Z)\)</li>
+
+<li>\(\forall x \exists y (x \frown y \amp \forall z (y \frown z
+\Rightarrow z \leq x))\)
+<br />
+\(\rhd \rhd A \vdash A\)</li>
+</ul>
+
+<p>
+Whereas the first six of the above sequents correspond with the listed
+purely structural sequent rules, for double negation elimination it is
+not clear whether there exists a corresponding structural rule. From
+the point of view of proof-theoretic semantics (see the entry on
+ <a href="../proof-theoretic-semantics/">proof-theoretic semantics</a>)
+ these correspondences are appealing for it may be held that the above
+introduction rules of the four negations once and for all fix their
+meaning, so that variations of meaning can be spelled out in purely
+structural terms. The emerging kite of negations as impossibility is
+shown in Figure 5.</p>
+
+<div class="figure">
+<img alt="[A kite diagram, upper vertex is 'classical'; lines down to 'De Morgan' on the left and 'intuitionistic' on the right; from 'De Morgan', line straight down to 'Ockham'; then to bottom vertex 'preminimal'; from 'intuitionistic', line straight down to 'minimal', then 'quasi-minimal', and finally to the bottom vertex 'preminimal'.]" src="figure5.png" style="width:550px" />
+
+<p class="center">
+<span class="figlabel">Figure 5</span></p>
+</div>
+
+<p>
+Onishi then defines a dualization function, \((\cdot )^t\) (notation
+adjusted), that maps formulas from the language with \(\rhd\) and
+\(\lhd\) into formulas from the language with \(\blacktriangleright\)
+and \(\blacktriangleleft\), and vice versa. In particular,</p>
+
+<p>
+
+\[ \begin{array}{ccccccc}
+(A \wedge B )^t &amp; = &amp; (A ^t \vee B^t) &amp; \; &amp; (A \vee B )^t &amp; = &amp; (A ^t \wedge B^t) \\
+ (A \rightarrow B )^t &amp; = &amp; (B^t \coimp A^t) &amp; \; &amp; (A \coimp B )^t &amp; = &amp; (B ^t \rightarrow A^t) \\
+ (\rhd A)^t &amp; = &amp; \blacktriangleright A ^t &amp; \; &amp; (\lhd A )^t &amp; = &amp; \blacktriangleleft A ^t \\
+ (\blacktriangleright A)^t &amp; = &amp; \rhd A ^t &amp; \; &amp; (\blacktriangleleft A )^t &amp; = &amp; \lhd A ^t \\
+ 
+\end{array} \]
+</p>
+
+<p>
+This translation is extended to sequents and to the first-order
+language of conditions on frames, so as to obtain dual frame
+correspondences for sequents in the language with
+\(\blacktriangleright\) and a dual kite of negations as unnecessity,
+charting negations dual to the ones form the kite of negations as
+impossibility. Moreover, Onishi notes that the dual Ockham, dual de
+Morgan, and dual classical negations are just the Ockham, de Morgan,
+and classical negations expressed by unnecessity. Since the
+characteristic principles of preminimal negation as impossibility are
+translated as the characteristic principles of negation as
+unnecessity, and vice versa, the identification of \(\rhd\) and
+\(\blacktriangleright \) results in Ockham negation. The axioms that
+express the identification of negation as impossibility and negation
+as unnecessity, \(\rhd A \vdash \blacktriangleright A\) and
+\(\blacktriangleright A \vdash \rhd A\), correspond with the following
+frame conditions and structural sequent rules:</p>
+
+<p>
+
+\[ \begin{array}{ccc}
+\rhd A \vdash \blacktriangleright A &amp; \forall x \exists y (x \frown y \amp x \smile y) &amp; \flat X \vdash \flat Y \, / \, Y \vdash X \\
+ \blacktriangleright A \vdash \rhd A &amp; \forall x \forall y \forall z ((x \frown y \amp x \smile z) \Rightarrow y \leq z) &amp; X \vdash Y \, / \, \sharp Y \vdash \sharp X \\
+ 
+\end{array}\]
+</p>
+
+<p>
+With the identification of negation as impossibility and negation as
+unnecessity we are led to the united kite of negations shown in Figure
+6.</p>
+
+<div class="figure">
+<img alt="[A kite digram: upper vertex 'classical' line down-left to 'dual int.', down to 'De Morgan', and down-right to 'intuitionistic'; from 'dual int.', line down to 'dual min.' then down to 'dual quasi-min' then down to left bottom vertex 'dual premin.'; from 'De Morgan' line down to 'Ockham' then lines to the left bottom vertex 'dual premin.' and to the right bottom vertex 'preminimal'; from 'intuitionistic', line down to 'minimal' then line down to 'quasi-minimal' then down to right bottom vertex 'preminimal']" src="figure6.png" style="width:550px" />
+
+<p class="center">
+<span class="figlabel">Figure 6</span></p>
+</div>
+
+<p>
+Note that in the presence of the axioms for identifying negation as
+impossibility and negation as unnecessity and their frame conditions,
+every negation from the united kite emerges as substructural because
+both double negation elimination for \(\blacktriangleright\) and
+double negation introduction for \(\rhd\) do correspond with a
+structural sequent rule.</p>
+
+<p>
+Onishi also points out that although the logic of Ockham negation is
+complete with respect to frames that satisfy the Star Postulate (see
+the supplement document
+ &ldquo;<a href="unary-connective.html">Additional Conceptions of Negation as a Unary Connective</a>&rdquo;),
+ the Star Postulate does not correspond with the combination of the
+sequents \(\rhd \top \vdash \bot\) and \(\rhd (A \wedge B) \vdash
+(\rhd A \wedge \rhd B)\) that give rise to the logic of Ockham
+negation when added to the basic display calculus
+\(\delta\)<em>Bi</em>N. The two frame conditions corresponding with
+\(\rhd A \vdash \blacktriangleright A\) and \(\blacktriangleright A
+\vdash \rhd A\), however, are equivalent to the stronger condition
+that requires for every state \(w\) the existence of a state \(w^*\)
+that is not only maximal among the states compatible with \(w\) but
+also minimal among the states that are jointly exhaustive with \(w\),
+so that \(M, w \models \rhd A\) iff \(M, w^* \not \models A\) iff \(M,
+w \models \blacktriangleright A\).</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="https://ling.yale.edu/profile/laurence-r-horn" target="other">Laurence R. Horn</a>
+&lt;<a href="m&#97;ilto:laurence&#37;2ehorn&#37;40yale&#37;2eedu"><em>laurence<abbr title=" dot ">&#46;</abbr>horn<abbr title=" at ">&#64;</abbr>yale<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+<a href="http://www.ruhr-uni-bochum.de/philosophy/logic/" target="other">Heinrich Wansing</a>
+&lt;<a href="m&#97;ilto:Heinrich&#37;2eWansing&#37;40rub&#37;2ede"><em>Heinrich<abbr title=" dot ">&#46;</abbr>Wansing<abbr title=" at ">&#64;</abbr>rub<abbr title=" dot ">&#46;</abbr>de</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

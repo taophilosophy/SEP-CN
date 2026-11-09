@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Alonzo Church &gt; C. Applications of the Logistic Method (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/church/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/church/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=church">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Alonzo Church</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>C. Applications of the Logistic Method</h2>
+<!--Entry Contents-->
+
+<ul>
+
+ <li><a href="#C1SlinArgu">C.1 The Slingshot Argument</a></li>
+ 
+ <li><a href="#C2TranArguCTAMatePuzz">C.2 The Translation Argument (CTA) and Mates&rsquo; Puzzle</a></li>
+ 
+ <li><a href="#C3BurgReplChurMatePuzz">C.3 Burge&rsquo;s Reply to Church on Mates&rsquo; Puzzle</a></li>
+ 
+ <li><a href="#C4ChurQuinParaAbouModa">C.4 Church on Quine&rsquo;s Paradox About Modality</a></li>
+ </ul>
+<!--Entry Contents-->
+
+<hr />
+
+<h3 id="C1SlinArgu">C.1 The Slingshot Argument</h3>
+
+<p>
+A natural reaction to this argument is to think that while it works
+for an extensional language, it cannot be extended to a language
+containing modal constructions or other intensional elements. For
+example, although &ldquo;Scott is Scott&rdquo; is a necessary truth
+(or close enough), &ldquo;Scott is the author of Waverley&rdquo; is
+not, and this might seem to translate into a counterexample to
+ <a href="index.html#assA">(A)</a>&mdash;the
+ principle that co-denoting names or definite descriptions are
+interchangeable&mdash;assuming the conclusion of Church&rsquo;s
+argument that sentences denote their truth values. But (A) is neutral
+as to how such terms as &ldquo;Scott&rdquo; behave in modal or other
+intensional constructions and so at the very least more needs to be
+said if this criticism is to stick.</p>
+
+<p>
+In fact, in his 1943 review of Carnap&rsquo;s (1942), Church gives a
+version of the Slingshot (the first, in fact) that is independent of
+the distinction between extension and intension and applies to
+sentences of any complexity:</p>
+
+<blockquote>
+
+<p>
+However, if a language, in addition to certain other common
+properties, contains an abstraction operator &ldquo;\((\lambda
+x)\)&rdquo; such that &ldquo;\((\lambda x)(\ldots)\)&rdquo; means
+&ldquo;the class of all \(x\) such that &hellip;&rdquo;,
+then&mdash;independently of the question whether the language is
+intensional or extensional&mdash;it is possible to prove that the
+designata of sentences of the language must be truth values rather
+than propositions. (1943a [BE: 260])</p>
+</blockquote>
+
+<p>
+The following is a somewhat pared down version of Church&rsquo;s
+argument (cf. the entry on
+ <a href="../truth-values/">truth values</a>):</p>
+ 
+\[ \tag{1} S \] 
+
+\[ \tag{2} \{x: x = x \amp \{ \textrm{not-}S\} = \Lambda \] 
+
+\[ \tag{3} \Lambda = \Lambda \]
+
+<p>
+Here \(S\) is any true sentence. \(\Lambda\) is the empty set. Line
+(1) records that \(S\) is true. Line (2) is obviously true since
+&ldquo;not-S&rdquo; is false, and so \(\{x: x = x \amp
+\textrm{not-}S\}\) has no elements. (1) and (2) are logically
+equivalent, so assuming that logically equivalent sentences have the
+same denotation, (1) and (2) denote the same thing. (3) may be derived
+from (2) by
+ <a href="index.html#assA">(A)</a>.
+ Thus (1) and (3) must have the same denotation; but as Church
+exclaims, they are as different as can be: &ldquo;one sentence is
+L-true and the other not!&rdquo; ((3) is &ldquo;L-true&rdquo; (a
+logical truth), while \(S\) may be assumed not to be.)</p>
+
+<p>
+This argument relies not only on
+ <a href="index.html#assA">(A)</a>
+ but also on</p>
+
+<dl class="sentag">
+<dt id="assC">(C)</dt>
+<dd>Logically equivalent sentences have the same denotation.</dd>
+</dl>
+
+<p>
+Other versions, such as G&ouml;del&rsquo;s, make the same assumption.
+(Note that (C) is stronger than
+ <a href="index.html#assB">(B)</a>
+ in the main text, since logical equivalence is weaker than synonymy.)
+For more on the Slingshot and its connection to other issues discussed
+in this entry&mdash;such as compositionality and synonymy&mdash;see
+the postscript to (Salm&oacute;n 2010).</p>
+
+<h3 id="C2TranArguCTAMatePuzz">C.2 The Translation Argument (CTA) and Mates&rsquo; Puzzle</h3>
+
+<p>
+Church also employed the CTA for another purpose (1954)&mdash;to
+resolve a puzzle posed by Mates (1950). Consider the following pair of
+sentences:</p>
+
+<dl class="sentag">
+<dt id="exb1">(1)</dt>
+<dd>Jones believes that lawyers are wealthy</dd>
+<dt id="exb2">(2)</dt>
+<dd>Jones believes that attorneys are wealthy.</dd>
+</dl>
+
+<p>
+Some philosophers have supposed that (1) and (2) can diverge in truth
+value, contradicting the principle that synonyms (&ldquo;lawyer&rdquo;
+and &ldquo;attorney&rdquo;) are intersubstitutable <em>salva
+veritate</em> (without change in truth value). For example, Jones
+might think that &ldquo;attorney&rdquo; means <em>law student</em> and
+that lawyers are wealthy, so that (1) will be true, and (2) false.
+(But we will shortly raise a question about this explanation.)</p>
+
+<p>
+Now, Mates cleverly observed that whether or not such a view is
+correct, (that (1) and (2) can have different truth values), the mere
+existence of philosophers who <em>think</em> it is correct renders the
+following false:</p>
+
+<dl class="sentag">
+<dt id="exb3">(3)</dt>
+<dd>No one doubts that whoever believes that lawyers are wealthy
+believes that attorneys are wealthy.</dd>
+</dl>
+
+<p>
+Yet even such philosophers will acknowledge the truth of the
+following:</p>
+
+<dl class="sentag">
+<dt id="exb4">(4)</dt>
+<dd>No one doubts that whoever believes that lawyers are wealthy
+believes that lawyers are wealthy.</dd>
+</dl>
+
+<p>
+It therefore seems that there is an outright counterexample to the
+principle <em>that synonyms can be freely substituted for one another
+without inducing a change of truth value</em>, provided only that
+there happen to be philosophers who think the principle is false! For
+the sake of further discussion, let us call the italicized principle
+&ldquo;the synonyms principle&rdquo;
+(&ldquo;<strong>syn</strong>&rdquo; for short). If
+<strong>syn</strong> is deemed false by anyone, then (3) and (4)
+constitute a counterexample to it and <strong>syn</strong> must be
+abandoned and perhaps replaced by some subtler principle. (Putnam
+[1954] pursues this latter course.)</p>
+
+<p>
+But if <strong>syn</strong> is true, the conclusion is inevitable that
+anyone who entertains the slightest doubt that lawyers are attorneys
+actually doubts that lawyers are lawyers. Similarly, anyone who
+believes that lawyers are lawyers is committed to the belief that
+lawyers are attorneys&mdash;even if they believe that
+&ldquo;attorney&rdquo; means <em>law student</em>. Church defends
+<strong>syn</strong> and was prepared to accept such results as these.
+He argues that those who are not so prepared are confused.</p>
+
+<p>
+Church&rsquo;s argument in his (1954) turns on the fact that German
+has no word for a fortnight as opposed to a period of fourteen days.
+But the argument is applicable to the lawyer/attorney case too, and we
+will stick with this example. We have only to imagine a possible
+language that has no pair of synonyms corresponding to
+&ldquo;lawyer&rdquo; and &ldquo;attorney&rdquo; but only a single
+word, &ldquo;shmoyer&rdquo;, say, for either. It is then obvious that
+the translations into this language, Shmenglish, of (3) and (4) are
+identical. If now &ldquo;it is true that&rdquo; is prefixed to (4) and
+&ldquo;it is false that&rdquo; to (3) and the results are translated
+into Shmenglish, we have an outright contradiction. Church concludes
+that one can no more doubt that lawyers are attorneys than one can
+doubt that lawyers are lawyers.</p>
+
+<p>
+Church recognizes, however, that someone who thinks it is possible to
+doubt that attorneys are lawyers and yet not possible to doubt that
+lawyers are lawyers need not fail to understand that
+&ldquo;lawyer&rdquo; and &ldquo;attorney&rdquo; are synonyms. They
+might simply question the truth of <strong>syn</strong>. But Church
+argues that such skepticism about <strong>syn</strong> is misdirected.
+The culprit is not <strong>syn</strong> but rather a related
+semantical principle concerning the satisfaction of open sentences
+<em>mentioning</em> particular linguistic items. Compare:</p>
+
+<dl class="sentag">
+<dt id="exb5">(5)</dt>
+<dd>Whoever is an attorney is a lawyer</dd>
+<dt id="exb6">(6)</dt>
+<dd>Whoever satisfies &ldquo;\(x\) is an attorney&rdquo; satisfies
+&ldquo;\(x\) is a lawyer&rdquo;.</dd>
+</dl>
+
+<p>
+We are accustomed to thinking of these two conditions as virtually
+identical, but the subtle difference is that in (5)
+&ldquo;attorney&rdquo; and &ldquo;lawyer&rdquo; are <em>used</em>
+whereas in (6) they are <em>mentioned</em>, so the two linguistic
+items are part of the subject matter of (6) but not of (5); and hence
+the two sentences are arguably not synonymous. In fact, invoking the
+CTA, Church would argue that the sentences are not synonymous
+precisely on the grounds that their German translations are not
+synonymous&mdash;since, once again, they would convey different
+information to a German speaker who does not speak English. Church
+would now argue that someone who appears to doubt that (5) should
+instead be understood to doubt that (6), which Church would maintain
+is possible without doubting that whoever satisfies &ldquo;\(x\) is a
+lawyer&rdquo; satisfies &ldquo;\(x\) is a lawyer&rdquo;.</p>
+
+<p>
+There are thus two key steps to Church&rsquo;s reply to Mates. The
+first is the argument that while (3) and (4) may not <em>seem</em>
+synonymous, in fact they are, since their translations into Shmenglish
+are synonymous and in fact it is not possible to assign them different
+truth values. The second step is the argument that the seeming
+possibility of doubting that attorneys are lawyers can be traced to
+the real possibility of doubting (6) instead.</p>
+
+<p>
+Yet it may be felt that each of these steps involves some sleight of
+hand. How could anyone who understands the meanings of
+&ldquo;lawyer&rdquo; and &ldquo;attorney&rdquo; entertain any doubt
+about (6)? And why should translation into a less expressive language
+demonstrate anything about English&mdash;to wit that (3) and (4) are
+synonymous? These are fair questions, but they reflect a
+misunderstanding of Church&rsquo;s basic point of view (adumbrated
+further in
+ <a href="supplementE.html">supplement E</a>).
+ First, as Church observes, it is no defect of German that it lacks a
+special abbreviation such as &ldquo;fortnight&rdquo; for a period of
+fourteen days. From the perspective of formal semantics such
+abbreviations are in principle eliminable and the language without the
+abbreviation is no less expressive than the language with it. In the
+language of arithmetic, for example, we abbreviate &ldquo;less than or
+equal to&rdquo; by &ldquo;\(\le\)&rdquo;, but this does not increase
+the expressive power of the language. Similarly, Church would view
+&ldquo;lawyer&rdquo;, &ldquo;attorney&rdquo; and &ldquo;shmoyer&rdquo;
+as three eliminable (in principle) abbreviations for the same longer
+phrase:</p>
+
+<blockquote>
+
+<p>
+a person who is qualified to advise clients on their rights and
+obligations according to the law as well as to represent them in court
+and to conduct lawsuits.</p>
+</blockquote>
+
+<p>
+Shmenglish is not any less expressive than English in the logical
+sense. In response, some philosophers will say that even if
+&ldquo;lawyer&rdquo; and &ldquo;attorney&rdquo; were introduced to
+abbreviate the same longer phrase, there remains the question of why
+they should remain synonymous in all contexts and so remain
+eliminable. To this day, however, Church&rsquo;s view that
+&ldquo;lawyer&rdquo; and &ldquo;attorney&rdquo; are eliminable
+abbreviations for the same longer phrase seems to describe the
+<em>correct</em> use of those words; as such, its intuitive appeal is
+as least as great as that of Mates&rsquo; view that (3) and (4) can
+differ in truth value. But there remains the issue of whether such
+intuitions track semantic properties in a way that makes them immune
+to reasonable challenge.</p>
+
+<p>
+Secondly, it is a curious feature of Church&rsquo;s discussion that he
+does not directly address the question of just how someone who
+understands English could actually doubt that (6) (or Church&rsquo;s
+corresponding sentence (18) of (1954)). This must be left an open
+question. What is clear from Church&rsquo;s discussion is that the
+information conveyed by (5) differs from the information conveyed by
+(6), and so insofar as it is possible to doubt that (6), it is
+consistent to maintain, as Church would, that while it is not possible
+to consistently doubt that (5) (which would amount to the doubt that
+lawyers are lawyers), it is possible to doubt that (6).</p>
+
+<p>
+Some have thought that Church&rsquo;s resolution of the paradox of
+analysis and his resolution of Mates&rsquo; problem are incompatible.
+Anderson remarks of the former that it is &ldquo;Ingenious,
+compelling, and undeniably correct&rdquo; (1998: 145). And yet:</p>
+
+<blockquote>
+
+<p>
+Church has implicitly assumed, in his argument against Mates, that the
+indirect senses of [&ldquo;brother&rdquo;] and [&ldquo;male
+sibling&rdquo;] are identical because these two expressions are
+synonymous. (1998: 145)</p>
+</blockquote>
+
+<p>
+(Anderson&rsquo;s examples are &ldquo;fortnight&rdquo; and
+&ldquo;period of fourteen days&rdquo;.) Church suggests that the
+concepts denoted by &ldquo;brother&rdquo; and &ldquo;male
+sibling&rdquo; are the <em>customary senses</em> that
+&ldquo;brother&rdquo; and &ldquo;male sibling&rdquo; express in
+customary contexts in which they are viewed as denoting classes; in
+the context of the sentence &ldquo;\(b = ms\)&rdquo; however, the two
+terms <em>denote</em> these customary senses and acquire and
+<em>different</em> indirect senses. (Church does not mention
+Frege&rsquo;s notion of indirect sense (<em>ungerade Sinn</em>) in his
+review, but he no doubt would have understood the problem if it had
+been put to him.)</p>
+
+<p>
+However, Anderson claims that Church&rsquo;s reply to Mates requires
+Church to assume that the indirect senses of a pair of synonyms must
+be identical. For otherwise, apparently, in our terms there would be
+no guarantee that the propositions expressed by (3) and (4) are
+identical, as Church requires. As Anderson says, &ldquo;Something has
+to give&rdquo; (1998). He suggests that Church&rsquo;s attempted
+resolution of the Mates Problem must be abandoned in favor of one that
+again invokes Frege&rsquo;s distinction between sense and denotation.
+See Bealer (1982) and Salm&oacute;n (1993) for different assessments
+of the problem.</p>
+
+<h3 id="C3BurgReplChurMatePuzz">C.3 Burge&rsquo;s Reply to Church on Mates&rsquo; Puzzle</h3>
+
+<p>
+Church formulates Mates&rsquo; problem in terms of the pair of
+synonyms &ldquo;fortnight&rdquo; and &ldquo;period of fourteen
+days&rdquo; using analogues of (3), (4), (5), and (6) of the previous
+subsection. Corresponding to (3) and (5), Church employs the following
+sentences, where for readability &ldquo;SCM&rdquo; abbreviates the
+phrase &ldquo;the seventh consulate of Marius&rdquo;:</p>
+
+<dl class="sentag">
+<dt id="exc1">(1)</dt>
+<dd>Nobody doubts that whoever believes that SCM lasted less than a
+period of fourteen days believes that SCM lasted less than a
+fortnight</dd>
+<dt id="exc2">(2)</dt>
+<dd>Nobody doubts that whoever believes that SCM lasted less than a
+period of fourteen days believes that SCM lasted less than a period of
+fourteen days.</dd>
+</dl>
+
+<p>
+Church now observes that the German equivalents of (1) and (2) turn
+out to be the very same sentence of German, since there is no single
+word corresponding to &ldquo;fortnight&rdquo; in German. It then
+follows that the German equivalents of (1) and (2) cannot differ in
+truth value, unless we are to count the German language as
+inconsistent for merely lacking a special term for
+&ldquo;fortnight&rdquo;. Church also remarks that it cannot be a
+defect of German that it lacks such term. The lack of a single-word
+translation of &ldquo;fortnight&rdquo; cannot be regarded as a
+deficiency of German</p>
+
+<blockquote>
+
+<p>
+else we should be obliged to call it a deficiency of German also that
+there is no word to mean a period of fifty-four days and six hours.
+(1954 [BE: 354-5])</p>
+</blockquote>
+
+<p>
+Church takes this argument to show that the perception that (1) and
+(2) might differ in truth value (and therefore in meaning) is an
+illusion.</p>
+
+<p>
+Church suggests that those who think that (1) and (2) differ in truth
+value are confusing them with certain other sentences that
+<em>mention</em> specific words and phrases of English and that,
+therefore, via CTA, can be seen <em>not</em> to be synonymous.</p>
+
+<p>
+Let &ldquo;<em>Px</em>&rdquo; abbreviate the one-place predicate of
+English &ldquo;\(x\) believes that the SCM lasted a fortnight&rdquo;
+and let &ldquo;<em>Qx</em>&rdquo; abbreviate the one-place predicate
+of English &ldquo;\(x\) believes that the SCM lasted a period of
+fourteen days&rdquo;; and consider the following metalinguistic
+counterparts of (1) and (2):</p>
+
+<dl class="sentag">
+<dt id="exc3">(3)</dt>
+<dd>Nobody doubts that if \(x\) satisfies \(Q\), then \(x\) satisfies
+\(P\)</dd>
+<dt id="exc4">(4)</dt>
+<dd>Nobody doubts that if \(x\) satisfies \(Q\), then \(x\) satisfies
+\(Q\).</dd>
+</dl>
+
+<p>
+Church contends that those who think that (1) and (2) differ in truth
+value and thus in meaning are confusing them with (3) and (4),
+respectively. A German speaker who knows no English but who knows a
+little logic might well assent to the German translation of (4), call
+it, and dissent from the German translation of (3) precisely on the
+grounds that they themselves have the relevant doubt in the one case,
+and lack it in the other. Church concludes with the following
+memorable summary:</p>
+
+<blockquote>
+
+<p>
+Granted this, let us translate into German &ldquo;Mates doubts that
+(15) but does not doubt that (14)&rdquo;. As the resulting German
+sentence is a direct self-contradiction, and as it cannot matter to
+the soundness of our reasoning whether we carry it out in English or
+in German, we must conclude that Mates (whatever he himself may tell
+us) does not really so doubt-and that he must have mistaken the doubt
+that (18) for the doubt that (15). (1954 [BE: 355])</p>
+</blockquote>
+
+<p>
+The quoted sentence is:</p>
+
+<dl class="sentag">
+<dt id="exc5">(5)</dt>
+<dd>Mates doubts that whoever believes that the SCM lasted a period of
+fourteen days believes that the SCM lasted a fortnight but does not
+doubt that whoever believes that the SCM lasted a period of fourteen
+days believes that the SCM lasted a period of fourteen days.</dd>
+</dl>
+
+<p>
+Its metalinguistic counterpart is:</p>
+
+<dl class="sentag">
+<dt id="exc6">(6)</dt>
+<dd>Mates doubts that if \(x\) satisfies \(Q\), then \(x\) satisfies
+\(P\) but does not doubt that if \(x\) satisfies \(Q\), then \(x\)
+satisfies \(Q\).</dd>
+</dl>
+
+<p>
+Church&rsquo;s concluding argument is that since the German
+translation of (5) is a direct contradiction, it cannot be true, and
+(6) must be true instead. As noted above, however, Church never
+addresses the question of how (6) could be true.</p>
+
+<p>
+The CTA has come in for some harsh criticism&mdash;even from prominent
+philosophers, some of whom dismiss the argument out of hand (see
+Salm&oacute;n 2001: fn. 4 for references). Most of this criticism can
+be safely ignored. But there is one argument due to Tyler Burge that
+is worth rehearsing, since it serves to reveal the (perhaps somewhat
+hidden) force of the CTA.</p>
+
+<p>
+Burge remarks that</p>
+
+<blockquote>
+
+<p>
+Interpreting Bates&rsquo;s doubt as metalinguistic will enable one to
+avoid attributing to Bates the original object-language doubt, only if
+one denies that Bates believes the most obvious truisms connecting
+metalinguistic semantical sentences with the object-language
+sentences. (1978: 123; &ldquo;Bates&rdquo; is a fictional stand-in for
+Mates)</p>
+</blockquote>
+
+<p>
+One such alleged truism is that in fact</p>
+
+<dl class="sentag">
+<dt id="exc7">(7)</dt>
+<dd>All lawyers are attorneys</dd>
+<dt id="exc8">(8)</dt>
+<dd>Whoever satisfies &ldquo;\(x\) is a lawyer&rdquo; satisfies
+&ldquo;\(x\) is an attorney&rdquo;</dd>
+</dl>
+
+<p>
+are logically equivalent since in general</p>
+
+<dl class="sentag">
+<dt id="exc9">(9)</dt>
+<dd>For any \(y\), \(y\) satisfies \(A(x)\) if and only if
+\(A(y)\),</dd>
+</dl>
+
+<p>
+is a logical truth about the satisfaction relation. This appears to
+entail both of the following:</p>
+
+<dl class="sentag">
+<dt id="exc10">(10)</dt>
+<dd>For any \(y\), \(y\) satisfies &ldquo;\(x\) is a lawyer&rdquo; if
+and only if \(y\) is a lawyer</dd>
+<dt id="exc11">(11)</dt>
+<dd>For any \(y\), \(y\) satisfies &ldquo;\(x\) is an attorney&rdquo;
+if and only if \(y\) is an attorney;</dd>
+</dl>
+
+<p>
+And these equivalences can be used to show that (7) and (8) are
+logically equivalent. Mates&rsquo; puzzle is thereby restored. Any
+doubt about (8), which Church concedes is possible, reduces to a doubt
+about (7), which Church claims amounts to the doubt that lawyers are
+lawyers.</p>
+
+<p>
+Notice, however, that the left-to-right implication of (11) is
+justified only on the assumption that &ldquo;\(x\) is an
+attorney&rdquo; means in the language in which (11) is
+written&mdash;English plus variables&mdash;that \(x\) is an attorney.
+Without this assumption, there is no basis for the implication. This
+is exactly the situation we encountered in
+ <a href="index.html#TranArgu">section 3.3 of the main text</a>
+ with the inference from the sentences (3) to (2) of that section. A
+person who lacks this piece of information is not in a position to
+deduce (7) from (8), and this stops Burge&rsquo;s argument in its
+tracks. The formal sentence (9) obscures the problem since it obscures
+the fact that the formula &ldquo;\(A(x)\)&rdquo; is mentioned, whilst
+the formula &ldquo;\(A(y)\)&rdquo; is used. (Here &ldquo;\(y\)&rdquo;
+functions as a mere place-holder and &ldquo;\(A(y)\)&rdquo; is short
+for something like &ldquo;it is the case that \(y\) has the property
+or belongs to the class \(A\)&rdquo;) Furthermore, it is built into
+the symbolism used in (9) that &ldquo;\(A(x)\)&rdquo; means that
+\(A(x)\) in the formal language in which (9) is written. But its
+applications to natural language are another story.</p>
+
+<p>
+Burge&rsquo;s objection is therefore not successful and it joins a
+myriad of failed objections to and false assessments of the CTA (cf.
+Salm&oacute;n 2001). The fundamental point is that expressions of the
+form &ldquo;believes that so and so&rdquo; or &ldquo;means that so and
+so&rdquo; resist sententialist interpretation. This in turn supports
+the idea, endorsed by both Frege and Church, that
+&ldquo;that&rdquo;-complements are names of propositions or properties
+as objective, language independent, abstract entities. Church was very
+firm in his belief in the existence of such things (see
+ <a href="index.html#RealAbouProp">&sect;6.3</a>).</p>
+ 
+<h3 id="C4ChurQuinParaAbouModa">C.4 Church on Quine&rsquo;s Paradox About Modality</h3>
+
+<p>
+Church discusses Quine&rsquo;s well-known critique of modal logic in
+an early review (Church 1943b Postscript 1968) of Quine&rsquo;s
+(1943), as well as in a much later paper (1982). Despite all the ink
+spilt on this subject, Church&rsquo;s relatively brief remarks are
+well worth reviewing. Church begins his review with the claim that
+Quine&rsquo;s distinction between purely designative occurrences of
+names and others&mdash;occurrences open or not open to substitution of
+co-designative names&mdash;is &ldquo;fully anticipated&rdquo; by Frege
+(1892a):</p>
+
+<blockquote>
+
+<p>
+who distinguishes in the same way between the ordinary
+(<em>gew&ouml;hnliche</em>) and the oblique (<em>ungerade</em>) use of
+a name. In fact the relationship between Quine&rsquo;s present paper
+and Frege&rsquo;s of 1892 is close throughout, even to the use of
+similar, and in one instance identical, illustrations. Quine&rsquo;s
+failure to refer to Frege&rsquo;s paper indicates that he is
+unacquainted with it, but it is probable that he is indirectly
+indebted to Frege through Russell&rsquo;s 1119
+[<em>sic</em>].&nbsp;(1943b [BE: 943])</p>
+</blockquote> <!--- notes in supp so far -->
+
+<p>
+Church decided, as of the 1968 postscript to (1943b),
+to call the problem of
+substitutivity of co-designative names &ldquo;Quine&rsquo;s
+Paradox&rdquo;. The following three sentences illustrate the
+paradox:</p>
+
+<dl class="sentag">
+<dt id="exd1">(1)</dt>
+<dd>Necessarily, \(9 = 9\)</dd>
+<dt id="exd2">(2)</dt>
+<dd>\(9 =\) the number of planets</dd>
+<dt id="exd3">(3)</dt>
+<dd>Necessarily, the number of planets \(= 9\).</dd>
+</dl>
+
+<p>
+The substitution of &ldquo;the number of planets&rdquo; for the first
+occurrence of &ldquo;9&rdquo; in (1), which is true, results in (3),
+which is false. Quine&rsquo;s diagnosis was that the modal operator in
+(1) &ldquo;seals off&rdquo; the sentence following it from
+substitution in much the same way that &ldquo;so-called&rdquo; in
+&ldquo;Giorgione was so-called because of his size&rdquo; &ldquo;seals
+off&rdquo; the substitution of &ldquo;Barbarelli&rdquo; for
+&ldquo;Giorgione&rdquo; (the occurrence of &ldquo;Giorgione&rdquo; is
+not purely designative). Needless to say, modal logic has not
+developed on the basis of this idea, but Quine&rsquo;s purpose was
+only to draw attention to the problem. Extrapolating from Frege
+(1892a)&mdash;who does not discuss modal logic&mdash;the occurrences
+of &ldquo;9&rdquo; in (1) do not denote the number but rather the
+ordinary sense of &ldquo;9&rdquo;&mdash;the sense it has in &ldquo;\(9
+= 9\)&rdquo; standing alone, and the occurrence of this sentence in
+(1) denotes the proposition that \(9 = 9\).</p>
+
+<p>
+Church was very keen to see this Fregean idea developed in detail.
+Instead of treating &ldquo;necessarily&rdquo;, &ldquo;possibly&rdquo;,
+&ldquo;believes that&rdquo;, &ldquo;asserts that&rdquo; and the like
+as attaching to sentences to form new sentences (i.e., as sentential
+operators syntactically on a par with sentential connectives) they
+should rather be seen as predicates attaching to names of propositions
+&ldquo;and the result of prefixing a modal operator to a sentence is
+simply not well-formed&rdquo;. But Church also considers alternative
+resolutions of the paradox more closely related to the language of
+<em>Principia Mathematica.</em> He mentions, for example, a proposal
+of Quine&rsquo;s to treat names as denoting not objects but rather
+individual concepts. Accordingly, (2) is false and the faulty
+inference is blocked. Such a proposal, among several others, has been
+developed independently of the system of <em>Principia.</em></p>
+
+<p>
+In both the postscript (1968) and (1982), Church discusses
+another&mdash;now famous&mdash;problem that Quine raises for modal
+logic. This concerns not names but variables of quantification. Church
+notes first that Quine&rsquo;s paradox is essentially the same as the
+puzzle about King George IV and Sir Walter Scott of Russell&rsquo;s
+(1905) and so</p>
+
+<blockquote>
+
+<p>
+It is not surprising that Smullyan is able to resolve Quine&rsquo;s
+paradox by means of Russell&rsquo;s theory of descriptions. (1982 [BE:
+810])&nbsp;</p>
+</blockquote>
+
+<p>
+See Smullyan 1947 and 1948. But now a further problem arises.
+Elaborating on remarks by Quine, Church notes that the following
+theorems are &ldquo;hardly avoidable&rdquo; if modal logic is
+formulated using sentential operators:</p> 
+
+\[\tag{4} 
+\nsim F(x) \supset_x \hdot F(y) \supset_y x\ne y \] 
+
+\[\tag{5} 
+(x) \sim \Diamond x\ne x \] 
+
+\[\tag{6} 
+\Diamond[x \ne y] \supset_{xy} x\ne y.\]
+
+<p>
+(Note that Church adopts the following notational conventions from
+Russell&rsquo;s (PM). First, a connective can take a variable as
+subscript: that variable becomes a universal quantifier whose scope is
+precisely that of the connective. Second, a dot placed before a
+connective or (as above) a quantifier brackets a proposition.) (6)
+follows from (4) and (5), which may be taken as axioms definitive of
+equality. Church says of (6) that it is a version of Murphy&rsquo;s
+Law: What can go wrong will go wrong! He also formulates a parallel
+argument using belief in place of possibility:</p>
+
+<dl class="sentag">
+<dt>(7)</dt>
+<dd>For every \(x\) and every \(y\), if George IV does not believe
+that \(x\ne x\), if George IV believes that \(x\ne y\), then \(x\ne
+y\).</dd>
+</dl>
+
+<p>
+This is merely another substitution instance of (4), and hence
+assuming that</p>
+
+<dl class="sentag">
+<dt>(8)</dt>
+<dd>For every \(x\), George IV does not believe that \(x\ne x.\)</dd>
+</dl>
+
+<p>
+It follows that</p>
+
+<dl class="sentag">
+<dt>(9)</dt>
+<dd>For every \(x\) and every \(y\), if George IV believes that \(x\ne
+y\), then \(x\ne y\).</dd>
+</dl>
+
+<p>
+And it does seem to follow from (9) that if George IV believed, as he
+might have believed at some point, that Scott was not the author of
+Waverley, then Scott didn&rsquo;t write Waverley!</p>
+
+<p>
+Church&rsquo;s aim is to show that if intensional logic is formulated
+using sentential operators rather than names of propositions, such
+anomalies result. But in the case of modal logic, at least, his
+argument has not been influential. (6) and the necessity of identity
+are now accepted as theorems of quantified modal logic with identity.
+We believe that (9) and the like deserve further attention. The issue
+is closely related to a remark of Church&rsquo;s summarizing
+Quine&rsquo;s query of quantified modal logic. Assume that George IV
+believed that the author of Ivanhoe and the author of Waverley are one
+and the same, but that he did not believe that Scott wrote Waverley.
+Then let us ask for what objects (or individuals) \(y\) we have
+that</p>
+
+<dl class="sentag">
+<dt>(10)</dt>
+<dd>George IV believes that \(y\) wrote Waverley.</dd>
+</dl>
+
+<p>
+The ordinary notion of belief seems to require that although (10)
+holds when \(y\) is specified in a special way, namely as having
+written <em>Ivanhoe</em>, it may yet fail when the same \(y\) is
+specified in some other way, for example as
+&ldquo;scottizer&rdquo;.</p>
+
+<p>
+Church&rsquo;s judgment is that this form of Quine&rsquo;s paradox is
+more telling than the previous one concerning modality&mdash;it is the
+problem of the &ldquo;transparency of belief&rdquo;&mdash;and he terms
+the problem &ldquo;Russellian&rdquo; on the grounds that
+Russell&rsquo;s theory of descriptions leads directly to it.
+Nevertheless,</p>
+
+<blockquote>
+
+<p>
+The sort of essentialism to which the transparency of notions such as
+belief and necessity leads does not rise above the level of variables
+and primitive constants. (1982 [BE: 813])&nbsp;</p>
+</blockquote>
+
+<p>
+For example, the universal quantifiers implicit in (6) cannot be
+instantiated to definite descriptions. Although it is possible that
+Scott did not write <em>Waverley</em>&mdash;and so was not identical
+to that author, supposing there was one&mdash;, it does not follow
+that Scott in fact did not write <em>Waverley</em>. By now, this
+matter has received a good deal of attention (see Fitting &amp;
+Mendelsohn, 1998). (It&rsquo;s worth mentioning parenthetically that
+the general form of argument leading from (4) to (6) or from (7) to
+(9) has frequently been used to argue for other theses&mdash;for
+example, that there is no such thing as vague identity.)</p>
+
+<p>
+To avoid these problems with modal logic, Church suggests two ways
+out: One is to eliminate names altogether by replacing them with
+predicates&mdash;&ldquo;Scott&rdquo;, becomes
+&ldquo;Scottizes&rdquo;&mdash;a method traceable to Russell. But this
+still leaves the predicates which themselves are names of attributes,
+and the attempt to eliminate these leads to a regress. In any case,
+this approach would severely restrict the category of names and would
+require that the variables range over intensional entities&mdash;with
+the possible exception of the individual variables. The alternative is
+the Fregean method which</p>
+
+<blockquote>
+
+<p>
+maximizes the category of names and allows names of, and variables
+for, a wide variety of entities, both intensional and extensional.</p>
+</blockquote>
+
+<p>
+Church&rsquo;s attempt to implement the latter approach resulted in
+his logic of sense and denotation, but he also worked out a way of
+implementing the Russellian approach (see
+ <a href="supplementE.html">supplement E</a>;
+ another Russellian solution is proposed by Salm&oacute;n [1986]).
+It&rsquo;s important to note, however, that if type restrictions are
+ignored, the idea of treating modality as a predicate of propositions
+can lead to contradiction, assuming principles valid in standard modal
+logics&mdash;that what is necessarily true, is true, for example (see
+Montague 1962; Anderson 1983).</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+Harry Deutsch
+&lt;<a href="m&#97;ilto:hdeutsch&#37;40ilstu&#37;2eedu"><em>hdeutsch<abbr title=" at ">&#64;</abbr>ilstu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+Oliver Marshall
+&lt;<a href="m&#97;ilto:omarshall&#37;40gradcenter&#37;2ecuny&#37;2eedu"><em>omarshall<abbr title=" at ">&#64;</abbr>gradcenter<abbr title=" dot ">&#46;</abbr>cuny<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

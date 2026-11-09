@@ -1,0 +1,2047 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Cellular Automata &gt; The 256 Rules (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/cellular-automata/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/cellular-automata/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cellular-automata">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Cellular Automata</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>The 256 Rules</h2>
+
+<p>
+As we have seen, in one-dimensional cellular automata with
+<em>range</em> = 1 and only two states there are 8 possible neighbors
+to be mapped to {1, 0}, giving a total of 256 possible rules. For
+illustration purposes, we collected the 200 time-steps evolution of
+all the 256 elementary rules (<em>black</em> = 1, <em>white</em> = 0),
+ordered by the Wolfram&rsquo;s code: for any CA, at \(t_0\) only the cell in
+the middle is black. To be sure, even if a rule is a Class 4 this does
+not guarantee that it will produce complex behavior starting from
+<em>any</em> possible configuration&mdash;as rule 54 clearly proves:
+compare its behavior below with the picture showed in the main
+entry.</p>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 0</em></p>
+<img src="rule0th.png" style="width:100%; border:1px;" alt="Rule 0" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 1</em></p>
+<img src="rule1th.png" style="width:100%; border:1px;" alt="Rule 1" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 2</em></p>
+<img src="rule2th.png" style="width:100%; border:1px;" alt="Rule 2" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 3</em></p>
+<img src="rule3th.png" style="width:100%; border:1px;" alt="Rule 3" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 4</em></p>
+<img src="rule4th.png" style="width:100%; border:1px;" alt="Rule 4" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 5</em></p>
+<img src="rule5th.png" style="width:100%; border:1px;" alt="Rule 5" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 6</em></p>
+<img src="rule6th.png" style="width:100%; border:1px;" alt="Rule 6" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 7</em></p>
+<img src="rule7th.png" style="width:100%; border:1px;" alt="Rule 7" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 8</em></p>
+<img src="rule8th.png" style="width:100%; border:1px;" alt="Rule 8" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 9</em></p>
+<img src="rule9th.png" style="width:100%; border:1px;" alt="Rule 9" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 10</em></p>
+<img src="rule10th.png" style="width:100%; border:1px;" alt="Rule 10" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 11</em></p>
+<img src="rule11th.png" style="width:100%; border:1px;" alt="Rule 11" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 12</em></p>
+<img src="rule12th.png" style="width:100%; border:1px;" alt="Rule 12" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 13</em></p>
+<img src="rule13th.png" style="width:100%; border:1px;" alt="Rule 13" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 14</em></p>
+<img src="rule14th.png" style="width:100%; border:1px;" alt="Rule 14" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 15</em></p>
+<img src="rule15th.png" style="width:100%; border:1px;" alt="Rule 15" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 16</em></p>
+<img src="rule16th.png" style="width:100%; border:1px;" alt="Rule 16" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 17</em></p>
+<img src="rule17th.png" style="width:100%; border:1px;" alt="Rule 17" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 18</em></p>
+<img src="rule18th.png" style="width:100%; border:1px;" alt="Rule 18" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 19</em></p>
+<img src="rule19th.png" style="width:100%; border:1px;" alt="Rule 19" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 20</em></p>
+<img src="rule20th.png" style="width:100%; border:1px;" alt="Rule 20" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 21</em></p>
+<img src="rule21th.png" style="width:100%; border:1px;" alt="Rule 21" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 22</em></p>
+<img src="rule22th.png" style="width:100%; border:1px;" alt="Rule 22" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 23</em></p>
+<img src="rule23th.png" style="width:100%; border:1px;" alt="Rule 23" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 24</em></p>
+<img src="rule24th.png" style="width:100%; border:1px;" alt="Rule 24" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 25</em></p>
+<img src="rule25th.png" style="width:100%; border:1px;" alt="Rule 25" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 26</em></p>
+<img src="rule26th.png" style="width:100%; border:1px;" alt="Rule 26" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 27</em></p>
+<img src="rule27th.png" style="width:100%; border:1px;" alt="Rule 27" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 28</em></p>
+<img src="rule28th.png" style="width:100%; border:1px;" alt="Rule 28" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 29</em></p>
+<img src="rule29th.png" style="width:100%; border:1px;" alt="Rule 29" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 30</em></p>
+<img src="rule30th.png" style="width:100%; border:1px;" alt="Rule 30" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 31</em></p>
+<img src="rule31th.png" style="width:100%; border:1px;" alt="Rule 31" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 32</em></p>
+<img src="rule32th.png" style="width:100%; border:1px;" alt="Rule 32" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 33</em></p>
+<img src="rule33th.png" style="width:100%; border:1px;" alt="Rule 33" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 34</em></p>
+<img src="rule34th.png" style="width:100%; border:1px;" alt="Rule 34" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 35</em></p>
+<img src="rule35th.png" style="width:100%; border:1px;" alt="Rule 35" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 36</em></p>
+<img src="rule36th.png" style="width:100%; border:1px;" alt="Rule 36" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 37</em></p>
+<img src="rule37th.png" style="width:100%; border:1px;" alt="Rule 37" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 38</em></p>
+<img src="rule38th.png" style="width:100%; border:1px;" alt="Rule 38" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 39</em></p>
+<img src="rule39th.png" style="width:100%; border:1px;" alt="Rule 39" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 40</em></p>
+<img src="rule40th.png" style="width:100%; border:1px;" alt="Rule 40" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 41</em></p>
+<img src="rule41th.png" style="width:100%; border:1px;" alt="Rule 41" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 42</em></p>
+<img src="rule42th.png" style="width:100%; border:1px;" alt="Rule 42" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 43</em></p>
+<img src="rule43th.png" style="width:100%; border:1px;" alt="Rule 43" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 44</em></p>
+<img src="rule44th.png" style="width:100%; border:1px;" alt="Rule 44" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 45</em></p>
+<img src="rule45th.png" style="width:100%; border:1px;" alt="Rule 45" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 46</em></p>
+<img src="rule46th.png" style="width:100%; border:1px;" alt="Rule 46" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 47</em></p>
+<img src="rule47th.png" style="width:100%; border:1px;" alt="Rule 47" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 48</em></p>
+<img src="rule48th.png" style="width:100%; border:1px;" alt="Rule 48" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 49</em></p>
+<img src="rule49th.png" style="width:100%; border:1px;" alt="Rule 49" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 50</em></p>
+<img src="rule50th.png" style="width:100%; border:1px;" alt="Rule 50" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 51</em></p>
+<img src="rule51th.png" style="width:100%; border:1px;" alt="Rule 51" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 52</em></p>
+<img src="rule52th.png" style="width:100%; border:1px;" alt="Rule 52" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 53</em></p>
+<img src="rule53th.png" style="width:100%; border:1px;" alt="Rule 53" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 54</em></p>
+<img src="rule54th.png" style="width:100%; border:1px;" alt="Rule 54" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 55</em></p>
+<img src="rule55th.png" style="width:100%; border:1px;" alt="Rule 55" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 56</em></p>
+<img src="rule56th.png" style="width:100%; border:1px;" alt="Rule 56" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 57</em></p>
+<img src="rule57th.png" style="width:100%; border:1px;" alt="Rule 57" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 58</em></p>
+<img src="rule58th.png" style="width:100%; border:1px;" alt="Rule 58" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 59</em></p>
+<img src="rule59th.png" style="width:100%; border:1px;" alt="Rule 59" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 60</em></p>
+<img src="rule60th.png" style="width:100%; border:1px;" alt="Rule 60" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 61</em></p>
+<img src="rule61th.png" style="width:100%; border:1px;" alt="Rule 61" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 62</em></p>
+<img src="rule62th.png" style="width:100%; border:1px;" alt="Rule 62" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 63</em></p>
+<img src="rule63th.png" style="width:100%; border:1px;" alt="Rule 63" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 64</em></p>
+<img src="rule64th.png" style="width:100%; border:1px;" alt="Rule 64" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 65</em></p>
+<img src="rule65th.png" style="width:100%; border:1px;" alt="Rule 65" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 66</em></p>
+<img src="rule66th.png" style="width:100%; border:1px;" alt="Rule 66" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 67</em></p>
+<img src="rule67th.png" style="width:100%; border:1px;" alt="Rule 67" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 68</em></p>
+<img src="rule68th.png" style="width:100%; border:1px;" alt="Rule 68" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 69</em></p>
+<img src="rule69th.png" style="width:100%; border:1px;" alt="Rule 69" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 70</em></p>
+<img src="rule70th.png" style="width:100%; border:1px;" alt="Rule 70" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 71</em></p>
+<img src="rule71th.png" style="width:100%; border:1px;" alt="Rule 71" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 72</em></p>
+<img src="rule72th.png" style="width:100%; border:1px;" alt="Rule 72" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 73</em></p>
+<img src="rule73th.png" style="width:100%; border:1px;" alt="Rule 73" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 74</em></p>
+<img src="rule74th.png" style="width:100%; border:1px;" alt="Rule 74" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 75</em></p>
+<img src="rule75th.png" style="width:100%; border:1px;" alt="Rule 75" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 76</em></p>
+<img src="rule76th.png" style="width:100%; border:1px;" alt="Rule 76" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 77</em></p>
+<img src="rule77th.png" style="width:100%; border:1px;" alt="Rule 77" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 78</em></p>
+<img src="rule78th.png" style="width:100%; border:1px;" alt="Rule 78" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 79</em></p>
+<img src="rule79th.png" style="width:100%; border:1px;" alt="Rule 79" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 80</em></p>
+<img src="rule80th.png" style="width:100%; border:1px;" alt="Rule 80" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 81</em></p>
+<img src="rule81th.png" style="width:100%; border:1px;" alt="Rule 81" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 82</em></p>
+<img src="rule82th.png" style="width:100%; border:1px;" alt="Rule 82" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 83</em></p>
+<img src="rule83th.png" style="width:100%; border:1px;" alt="Rule 83" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 84</em></p>
+<img src="rule84th.png" style="width:100%; border:1px;" alt="Rule 84" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 85</em></p>
+<img src="rule85th.png" style="width:100%; border:1px;" alt="Rule 85" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 86</em></p>
+<img src="rule86th.png" style="width:100%; border:1px;" alt="Rule 86" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 87</em></p>
+<img src="rule87th.png" style="width:100%; border:1px;" alt="Rule 87" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 88</em></p>
+<img src="rule88th.png" style="width:100%; border:1px;" alt="Rule 88" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 89</em></p>
+<img src="rule89th.png" style="width:100%; border:1px;" alt="Rule 89" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 90</em></p>
+<img src="rule90th.png" style="width:100%; border:1px;" alt="Rule 90" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 91</em></p>
+<img src="rule91th.png" style="width:100%; border:1px;" alt="Rule 91" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 92</em></p>
+<img src="rule92th.png" style="width:100%; border:1px;" alt="Rule 92" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 93</em></p>
+<img src="rule93th.png" style="width:100%; border:1px;" alt="Rule 93" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 94</em></p>
+<img src="rule94th.png" style="width:100%; border:1px;" alt="Rule 94" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 95</em></p>
+<img src="rule95th.png" style="width:100%; border:1px;" alt="Rule 95" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 96</em></p>
+<img src="rule96th.png" style="width:100%; border:1px;" alt="Rule 96" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 97</em></p>
+<img src="rule97th.png" style="width:100%; border:1px;" alt="Rule 97" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 98</em></p>
+<img src="rule98th.png" style="width:100%; border:1px;" alt="Rule 98" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 99</em></p>
+<img src="rule99th.png" style="width:100%; border:1px;" alt="Rule 99" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 100</em></p>
+<img src="rule100th.png" style="width:100%; border:1px;" alt="Rule 100" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 101</em></p>
+<img src="rule101th.png" style="width:100%; border:1px;" alt="Rule 101" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 102</em></p>
+<img src="rule102th.png" style="width:100%; border:1px;" alt="Rule 102" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 103</em></p>
+<img src="rule103th.png" style="width:100%; border:1px;" alt="Rule 103" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 104</em></p>
+<img src="rule104th.png" style="width:100%; border:1px;" alt="Rule 104" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 105</em></p>
+<img src="rule105th.png" style="width:100%; border:1px;" alt="Rule 105" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 106</em></p>
+<img src="rule106th.png" style="width:100%; border:1px;" alt="Rule 106" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 107</em></p>
+<img src="rule107th.png" style="width:100%; border:1px;" alt="Rule 107" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 108</em></p>
+<img src="rule108th.png" style="width:100%; border:1px;" alt="Rule 108" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 109</em></p>
+<img src="rule109th.png" style="width:100%; border:1px;" alt="Rule 109" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 110</em></p>
+<img src="rule110th.png" style="width:100%; border:1px;" alt="Rule 110" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 111</em></p>
+<img src="rule111th.png" style="width:100%; border:1px;" alt="Rule 111" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 112</em></p>
+<img src="rule112th.png" style="width:100%; border:1px;" alt="Rule 112" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 113</em></p>
+<img src="rule113th.png" style="width:100%; border:1px;" alt="Rule 113" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 114</em></p>
+<img src="rule114th.png" style="width:100%; border:1px;" alt="Rule 114" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 115</em></p>
+<img src="rule115th.png" style="width:100%; border:1px;" alt="Rule 115" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 116</em></p>
+<img src="rule116th.png" style="width:100%; border:1px;" alt="Rule 116" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 117</em></p>
+<img src="rule117th.png" style="width:100%; border:1px;" alt="Rule 117" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 118</em></p>
+<img src="rule118th.png" style="width:100%; border:1px;" alt="Rule 118" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 119</em></p>
+<img src="rule119th.png" style="width:100%; border:1px;" alt="Rule 119" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 120</em></p>
+<img src="rule120th.png" style="width:100%; border:1px;" alt="Rule 120" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 121</em></p>
+<img src="rule121th.png" style="width:100%; border:1px;" alt="Rule 121" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 122</em></p>
+<img src="rule122th.png" style="width:100%; border:1px;" alt="Rule 122" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 123</em></p>
+<img src="rule123th.png" style="width:100%; border:1px;" alt="Rule 123" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 124</em></p>
+<img src="rule124th.png" style="width:100%; border:1px;" alt="Rule 124" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 125</em></p>
+<img src="rule125th.png" style="width:100%; border:1px;" alt="Rule 125" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 126</em></p>
+<img src="rule126th.png" style="width:100%; border:1px;" alt="Rule 126" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 127</em></p>
+<img src="rule127th.png" style="width:100%; border:1px;" alt="Rule 127" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 128</em></p>
+<img src="rule128th.png" style="width:100%; border:1px;" alt="Rule 128" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 129</em></p>
+<img src="rule129th.png" style="width:100%; border:1px;" alt="Rule 129" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 130</em></p>
+<img src="rule130th.png" style="width:100%; border:1px;" alt="Rule 130" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 131</em></p>
+<img src="rule131th.png" style="width:100%; border:1px;" alt="Rule 131" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 132</em></p>
+<img src="rule132th.png" style="width:100%; border:1px;" alt="Rule 132" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 133</em></p>
+<img src="rule133th.png" style="width:100%; border:1px;" alt="Rule 133" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 134</em></p>
+<img src="rule134th.png" style="width:100%; border:1px;" alt="Rule 134" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 135</em></p>
+<img src="rule135th.png" style="width:100%; border:1px;" alt="Rule 135" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 136</em></p>
+<img src="rule136th.png" style="width:100%; border:1px;" alt="Rule 136" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 137</em></p>
+<img src="rule137th.png" style="width:100%; border:1px;" alt="Rule 137" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 138</em></p>
+<img src="rule138th.png" style="width:100%; border:1px;" alt="Rule 138" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 139</em></p>
+<img src="rule139th.png" style="width:100%; border:1px;" alt="Rule 139" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 140</em></p>
+<img src="rule140th.png" style="width:100%; border:1px;" alt="Rule 140" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 141</em></p>
+<img src="rule141th.png" style="width:100%; border:1px;" alt="Rule 141" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 142</em></p>
+<img src="rule142th.png" style="width:100%; border:1px;" alt="Rule 142" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 143</em></p>
+<img src="rule143th.png" style="width:100%; border:1px;" alt="Rule 143" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 144</em></p>
+<img src="rule144th.png" style="width:100%; border:1px;" alt="Rule 144" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 145</em></p>
+<img src="rule145th.png" style="width:100%; border:1px;" alt="Rule 145" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 146</em></p>
+<img src="rule146th.png" style="width:100%; border:1px;" alt="Rule 146" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 147</em></p>
+<img src="rule147th.png" style="width:100%; border:1px;" alt="Rule 147" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 148</em></p>
+<img src="rule148th.png" style="width:100%; border:1px;" alt="Rule 148" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 149</em></p>
+<img src="rule149th.png" style="width:100%; border:1px;" alt="Rule 149" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 150</em></p>
+<img src="rule150th.png" style="width:100%; border:1px;" alt="Rule 150" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 151</em></p>
+<img src="rule151th.png" style="width:100%; border:1px;" alt="Rule 151" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 152</em></p>
+<img src="rule152th.png" style="width:100%; border:1px;" alt="Rule 152" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 153</em></p>
+<img src="rule153th.png" style="width:100%; border:1px;" alt="Rule 153" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 154</em></p>
+<img src="rule154th.png" style="width:100%; border:1px;" alt="Rule 154" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 155</em></p>
+<img src="rule155th.png" style="width:100%; border:1px;" alt="Rule 155" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 156</em></p>
+<img src="rule156th.png" style="width:100%; border:1px;" alt="Rule 156" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 157</em></p>
+<img src="rule157th.png" style="width:100%; border:1px;" alt="Rule 157" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 158</em></p>
+<img src="rule158th.png" style="width:100%; border:1px;" alt="Rule 158" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 159</em></p>
+<img src="rule159th.png" style="width:100%; border:1px;" alt="Rule 159" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 160</em></p>
+<img src="rule160th.png" style="width:100%; border:1px;" alt="Rule 160" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 161</em></p>
+<img src="rule161th.png" style="width:100%; border:1px;" alt="Rule 161" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 162</em></p>
+<img src="rule162th.png" style="width:100%; border:1px;" alt="Rule 162" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 163</em></p>
+<img src="rule163th.png" style="width:100%; border:1px;" alt="Rule 163" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 164</em></p>
+<img src="rule164th.png" style="width:100%; border:1px;" alt="Rule 164" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 165</em></p>
+<img src="rule165th.png" style="width:100%; border:1px;" alt="Rule 165" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 166</em></p>
+<img src="rule166th.png" style="width:100%; border:1px;" alt="Rule 166" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 167</em></p>
+<img src="rule167th.png" style="width:100%; border:1px;" alt="Rule 167" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 168</em></p>
+<img src="rule168th.png" style="width:100%; border:1px;" alt="Rule 168" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 169</em></p>
+<img src="rule169th.png" style="width:100%; border:1px;" alt="Rule 169" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 170</em></p>
+<img src="rule170th.png" style="width:100%; border:1px;" alt="Rule 170" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 171</em></p>
+<img src="rule171th.png" style="width:100%; border:1px;" alt="Rule 171" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 172</em></p>
+<img src="rule172th.png" style="width:100%; border:1px;" alt="Rule 172" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 173</em></p>
+<img src="rule173th.png" style="width:100%; border:1px;" alt="Rule 173" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 174</em></p>
+<img src="rule174th.png" style="width:100%; border:1px;" alt="Rule 174" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 175</em></p>
+<img src="rule175th.png" style="width:100%; border:1px;" alt="Rule 175" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 176</em></p>
+<img src="rule176th.png" style="width:100%; border:1px;" alt="Rule 176" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 177</em></p>
+<img src="rule177th.png" style="width:100%; border:1px;" alt="Rule 177" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 178</em></p>
+<img src="rule178th.png" style="width:100%; border:1px;" alt="Rule 178" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 179</em></p>
+<img src="rule179th.png" style="width:100%; border:1px;" alt="Rule 179" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 180</em></p>
+<img src="rule180th.png" style="width:100%; border:1px;" alt="Rule 180" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 181</em></p>
+<img src="rule181th.png" style="width:100%; border:1px;" alt="Rule 181" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 182</em></p>
+<img src="rule182th.png" style="width:100%; border:1px;" alt="Rule 182" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 183</em></p>
+<img src="rule183th.png" style="width:100%; border:1px;" alt="Rule 183" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 184</em></p>
+<img src="rule184th.png" style="width:100%; border:1px;" alt="Rule 184" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 185</em></p>
+<img src="rule185th.png" style="width:100%; border:1px;" alt="Rule 185" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 186</em></p>
+<img src="rule186th.png" style="width:100%; border:1px;" alt="Rule 186" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 187</em></p>
+<img src="rule187th.png" style="width:100%; border:1px;" alt="Rule 187" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 188</em></p>
+<img src="rule188th.png" style="width:100%; border:1px;" alt="Rule 188" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 189</em></p>
+<img src="rule189th.png" style="width:100%; border:1px;" alt="Rule 189" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 190</em></p>
+<img src="rule190th.png" style="width:100%; border:1px;" alt="Rule 190" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 191</em></p>
+<img src="rule191th.png" style="width:100%; border:1px;" alt="Rule 191" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 192</em></p>
+<img src="rule192th.png" style="width:100%; border:1px;" alt="Rule 192" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 193</em></p>
+<img src="rule193th.png" style="width:100%; border:1px;" alt="Rule 193" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 194</em></p>
+<img src="rule194th.png" style="width:100%; border:1px;" alt="Rule 194" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 195</em></p>
+<img src="rule195th.png" style="width:100%; border:1px;" alt="Rule 195" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 196</em></p>
+<img src="rule196th.png" style="width:100%; border:1px;" alt="Rule 196" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 197</em></p>
+<img src="rule197th.png" style="width:100%; border:1px;" alt="Rule 197" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 198</em></p>
+<img src="rule198th.png" style="width:100%; border:1px;" alt="Rule 198" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 199</em></p>
+<img src="rule199th.png" style="width:100%; border:1px;" alt="Rule 199" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 200</em></p>
+<img src="rule200th.png" style="width:100%; border:1px;" alt="Rule 200" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 201</em></p>
+<img src="rule201th.png" style="width:100%; border:1px;" alt="Rule 201" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 202</em></p>
+<img src="rule202th.png" style="width:100%; border:1px;" alt="Rule 202" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 203</em></p>
+<img src="rule203th.png" style="width:100%; border:1px;" alt="Rule 203" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 204</em></p>
+<img src="rule204th.png" style="width:100%; border:1px;" alt="Rule 204" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 205</em></p>
+<img src="rule205th.png" style="width:100%; border:1px;" alt="Rule 205" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 206</em></p>
+<img src="rule206th.png" style="width:100%; border:1px;" alt="Rule 206" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 207</em></p>
+<img src="rule207th.png" style="width:100%; border:1px;" alt="Rule 207" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 208</em></p>
+<img src="rule208th.png" style="width:100%; border:1px;" alt="Rule 208" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 209</em></p>
+<img src="rule209th.png" style="width:100%; border:1px;" alt="Rule 209" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 210</em></p>
+<img src="rule210th.png" style="width:100%; border:1px;" alt="Rule 210" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 211</em></p>
+<img src="rule211th.png" style="width:100%; border:1px;" alt="Rule 211" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 212</em></p>
+<img src="rule212th.png" style="width:100%; border:1px;" alt="Rule 212" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 213</em></p>
+<img src="rule213th.png" style="width:100%; border:1px;" alt="Rule 213" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 214</em></p>
+<img src="rule214th.png" style="width:100%; border:1px;" alt="Rule 214" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 215</em></p>
+<img src="rule215th.png" style="width:100%; border:1px;" alt="Rule 215" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 216</em></p>
+<img src="rule216th.png" style="width:100%; border:1px;" alt="Rule 216" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 217</em></p>
+<img src="rule217th.png" style="width:100%; border:1px;" alt="Rule 217" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 218</em></p>
+<img src="rule218th.png" style="width:100%; border:1px;" alt="Rule 218" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 219</em></p>
+<img src="rule219th.png" style="width:100%; border:1px;" alt="Rule 219" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 220</em></p>
+<img src="rule220th.png" style="width:100%; border:1px;" alt="Rule 220" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 221</em></p>
+<img src="rule221th.png" style="width:100%; border:1px;" alt="Rule 221" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 222</em></p>
+<img src="rule222th.png" style="width:100%; border:1px;" alt="Rule 222" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 223</em></p>
+<img src="rule223th.png" style="width:100%; border:1px;" alt="Rule 223" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 224</em></p>
+<img src="rule224th.png" style="width:100%; border:1px;" alt="Rule 224" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 225</em></p>
+<img src="rule225th.png" style="width:100%; border:1px;" alt="Rule 225" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 226</em></p>
+<img src="rule226th.png" style="width:100%; border:1px;" alt="Rule 226" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 227</em></p>
+<img src="rule227th.png" style="width:100%; border:1px;" alt="Rule 227" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 228</em></p>
+<img src="rule228th.png" style="width:100%; border:1px;" alt="Rule 228" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 229</em></p>
+<img src="rule229th.png" style="width:100%; border:1px;" alt="Rule 229" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 230</em></p>
+<img src="rule230th.png" style="width:100%; border:1px;" alt="Rule 230" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 231</em></p>
+<img src="rule231th.png" style="width:100%; border:1px;" alt="Rule 231" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 232</em></p>
+<img src="rule232th.png" style="width:100%; border:1px;" alt="Rule 232" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 233</em></p>
+<img src="rule233th.png" style="width:100%; border:1px;" alt="Rule 233" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 234</em></p>
+<img src="rule234th.png" style="width:100%; border:1px;" alt="Rule 234" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 235</em></p>
+<img src="rule235th.png" style="width:100%; border:1px;" alt="Rule 235" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 236</em></p>
+<img src="rule236th.png" style="width:100%; border:1px;" alt="Rule 236" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 237</em></p>
+<img src="rule237th.png" style="width:100%; border:1px;" alt="Rule 237" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 238</em></p>
+<img src="rule238th.png" style="width:100%; border:1px;" alt="Rule 238" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 239</em></p>
+<img src="rule239th.png" style="width:100%; border:1px;" alt="Rule 239" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 240</em></p>
+<img src="rule240th.png" style="width:100%; border:1px;" alt="Rule 240" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 241</em></p>
+<img src="rule241th.png" style="width:100%; border:1px;" alt="Rule 241" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 242</em></p>
+<img src="rule242th.png" style="width:100%; border:1px;" alt="Rule 242" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 243</em></p>
+<img src="rule243th.png" style="width:100%; border:1px;" alt="Rule 243" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 244</em></p>
+<img src="rule244th.png" style="width:100%; border:1px;" alt="Rule 244" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 245</em></p>
+<img src="rule245th.png" style="width:100%; border:1px;" alt="Rule 245" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 246</em></p>
+<img src="rule246th.png" style="width:100%; border:1px;" alt="Rule 246" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 247</em></p>
+<img src="rule247th.png" style="width:100%; border:1px;" alt="Rule 247" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 248</em></p>
+<img src="rule248th.png" style="width:100%; border:1px;" alt="Rule 248" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 249</em></p>
+<img src="rule249th.png" style="width:100%; border:1px;" alt="Rule 249" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 250</em></p>
+<img src="rule250th.png" style="width:100%; border:1px;" alt="Rule 250" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 251</em></p>
+<img src="rule251th.png" style="width:100%; border:1px;" alt="Rule 251" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 252</em></p>
+<img src="rule252th.png" style="width:100%; border:1px;" alt="Rule 252" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 253</em></p>
+<img src="rule253th.png" style="width:100%; border:1px;" alt="Rule 253" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 254</em></p>
+<img src="rule254th.png" style="width:100%; border:1px;" alt="Rule 254" />
+</div>
+
+<div style="width:24%;display:inline-block;margin-bottom:5px">
+
+<p class="center" style="margin:0;background-color:#CCCCCC">
+<em>Rule 255</em></p>
+<img src="rule255th.png" style="width:100%; border:1px;" alt="Rule 255" />
+</div> 
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="http://www.st-andrews.ac.uk/philosophy/people/fb96" target="other">Francesco Berto</a>
+&lt;<a href="m&#97;ilto:fb96&#37;40st-andrews&#37;2eac&#37;2euk"><em>fb96<abbr title=" at ">&#64;</abbr>st-andrews<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+Jacopo Tagliabue
+&lt;<a href="m&#97;ilto:tagliabue&#37;2ejacopo&#37;40gmail&#37;2ecom"><em>tagliabue<abbr title=" dot ">&#46;</abbr>jacopo<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

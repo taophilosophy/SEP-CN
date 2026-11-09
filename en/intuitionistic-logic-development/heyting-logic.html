@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Development of Intuitionistic Logic &gt; The Turn to Heyting&rsquo;s Formalized Logic and Arithmetic (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/intuitionistic-logic-development/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/intuitionistic-logic-development/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intuitionistic-logic-development">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">The Development of Intuitionistic Logic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>The Turn to Heyting&rsquo;s Formalized Logic and Arithmetic</h2>
+
+<h3 id="SomeEarlResu">1. Some early results</h3>
+
+<ol>
+
+<li><p>Intuitionistic propositional logic is not a finitely valued logic.
+G&ouml;del (1932) showed that Heyting&rsquo;s system for
+intuitionistic propositional logic cannot be conceived of as a
+finitely many-valued logic. Apparently unbeknown to G&ouml;del, this
+confirmed a conjecture of Oskar Becker (1927: 775&ndash;777).
+G&ouml;del&rsquo;s result, which came soon after his incompleteness
+theorem, led Heyting to write to him,</p>
+
+<blockquote>
+<p>
+It is as if you had a malicious pleasure in showing the
+purposelessness of others&rsquo; investigations &hellip; In the sense
+of economy of thought this work is certainly useful, and in addition
+to that comes the particular beauty of your short proof. [Heyting to
+G&ouml;del, letter dated 24 and 26 November 1932. (G&ouml;del 2003a:
+67)]</p>
+</blockquote> </li>
+
+<li><p>Peano Arithmetic is translatable into Heyting Arithmetic. A seminal
+theorem was obtained independently by G&ouml;del (1933e) and by
+Gentzen (withdrawn upon learning of G&ouml;del&rsquo;s paper): There
+is a translation \('\) from <strong>PA</strong> to <strong>HA</strong>
+such that</p> 
+
+	\[\textbf{PA} \vdash A \Leftrightarrow \textbf{HA} \vdash A'\]
+
+<p>
+(G&ouml;del and Gentzen actually used Herbrand&rsquo;s axioms for the
+natural numbers (Herbrand 1931), but that is immaterial here.) The
+same proofs serve to show that the same result holds for pure
+predicate logic. This completes and generalizes Kolmogorov&rsquo;s
+result from 1925, which at the time was known to neither Gentzen nor
+G&ouml;del (G&ouml;del does cite Glivenko 1929). G&ouml;del concluded
+that</p>
+
+<blockquote>
+<p>
+the system of intuitionistic arithmetic and number theory is only
+apparently narrower than the classical one, and in truth contains it,
+albeit with a somewhat deviant interpretation. (G&ouml;del 1933e: 37
+[1986: 295])</p>
+</blockquote>
+
+<p>
+Heyting replied that &ldquo;for the intuitionist, the interpretation
+is what is essential&rdquo; (Heyting 1934: 18; translation mine).
+Later G&ouml;del became, as Kreisel put it, &ldquo;supersensitive
+about differences in meaning&rdquo; (Kreisel 1987a: 82). The
+G&ouml;del-Gentzen translation had an immediate application to the
+foundational debate, in which besides the notion of existence the
+status of PEM had been the main issue (Hesseling 2003): the embedding
+of <strong>PA</strong> into <strong>HA</strong> shows that
+<strong>PA</strong> is consistent if and only if <strong>HA</strong>
+is. As G&ouml;del observed,</p>
+
+<blockquote>
+<p>
+The above considerations, of course, provide an intuitionistic
+consistency proof for classical arithmetic and number theory. This
+proof, however, is not &ldquo;finitary&rdquo; in the sense in which
+Herbrand, following Hilbert, used the term. (G&ouml;del 1933e:
+37&ndash;38 [1986:
+ 295])<sup>[<a href="notes.html#note-31" id="ref-31">31</a>]</sup></p>
+ </blockquote>
+
+<p>
+Indeed, according to Bernays (1967: 502), it was this fact that made
+it clear that intuitionism is stronger than Hilbert&rsquo;s
+finitism.</p> </li>
+
+<li><p>Interpreting intuitionistic logic in a classical provability
+logic, G&ouml;del (1933f) presented a mapping \('\) of intuitionistic
+propositional logic <strong>PC</strong> to classical modal logic
+<strong>S4</strong> such that</p>
+
+	\[ \textbf{IPC} \vdash A \Rightarrow \textbf{S4} \vdash A' \]
+
+<p>
+For more details on this result, see the section
+<em>G&ouml;del&rsquo;s Work in Intuitionistic Logic and
+Arithmetic</em> of Kennedy 2007, as well as Artemov 2001.</p>
+
+<p>
+As pointed out by Troelstra (G&ouml;del 1986: 299), at the time
+G&ouml;del certainly knew the content of Heyting 1931. He had attended
+the K&ouml;nigsberg conference (where Heyting had presented that
+paper) and had published a review (G&ouml;del 1932f) of the printed
+version. In that paper, Heyting had introduced a provability operator,
+but considered it redundant given the intuitionistic conception of
+truth as provability (see below,
+ <a href="index.html#Heyt19301931">section 5.1</a>).<sup>[<a href="notes.html#note-32" id="ref-32">32</a>]</sup></p>
+ </li>
+
+<li>Consider the following two properties:
+
+<ul>
+
+<li>the Disjunction Property (DP): if \(\vdash A \vee B\), then
+\(\vdash A\) or \(\vdash B\);</li>
+
+<li>the Explicit Definability property (EP): if \(\vdash \exists x
+P(x)\), then \(\vdash P(t)\) for some term \(t\)</li>
+</ul> 
+
+<p>
+DP for intuitionistic propositional calculus was stated by
+G&ouml;del (1932: 66 [1986: 225]), who did not give a proof. A proof
+was given for intuitionistic predicate logic by Gentzen (1934). As
+Troelstra and van Dalen (1988: 175) observe, the same method
+(cut-elimination) yields ED for intuitionistic predicate calculus. For
+Heyting Arithmetic, see Kleene 1945 (section 8) and Kleene 1952
+(theorem 62b).</p></li>
+
+<li>The intuitionistic connectives are not interdefinable: none of
+\(\rightarrow , \wedge , \vee , \neg\) can be defined in terms of the
+others. Heyting had stated this in Heyting 1930: 44 [Mancosu 1998:
+312], but without giving a proof. A proof was published by Wajsberg
+(1938) and (independently and by different methods) by McKinsey
+(1939).</li>
+
+</ol>
+
+<h3 id="MathInteModeTheoSema">2. Mathematical interpretations and model-theoretic semantics</h3>
+
+<p>
+Various mathematical interpretations (in the sense explained in
+ <a href="index.html#InteExplName">section 1.2</a>)
+ of formalized intuitionistic logic and arithmetic have been proposed.
+Above we saw G&ouml;del&rsquo;s translation of intuitionistic
+propositional logic into the classical modal logic <strong>S4</strong>
+from 1933; further examples are Kleene&rsquo;s realizability (Kleene
+1945), and G&ouml;del&rsquo;s Dialectica Interpretation (G&ouml;del
+1958, 1970, 1972). <!-- which will be discussed in a future update of this entry --></p>
+
+<p>
+Such mathematical interpretations are not meaning explanations. There
+are two arguments. The first is that, in a context where formal
+systems are arithmetized, interpretability results are established
+wholly within mathematics (e.g., Joosten 2004). But then no contact at
+all is made with the concepts that figure in meaning explanations,
+which have to do with our cognitive capacities, such as those of
+effecting mathematical constructions or those of understanding,
+learning, and using a language. The second, more general argument is
+due to Sundholm (1983: 159). Here we consider \(A\) and its
+interpretation \(A'\) not as syntactical objects but as meaningful
+propositions. Then the argument is that, by whatever means one
+correlates a mathematical proposition \(A'\) to a mathematical
+proposition \(A\), it makes sense to ask whether the propositions
+\(A\) and \(A'\) are equivalent. On the other hand, it does not make
+sense to ask whether the proposition \(A\) is equivalent to a
+specification of what one has to know in order to understand \(A\) and
+use it correctly; for example, that specification remains the same
+whether \(A\) is true, false, or undecided. But then \(A'\) cannot be
+a meaning explanation of \(A\).</p>
+
+<p>
+It would therefore be a mistake to see in mathematical interpretations
+of intuitionistic systems ways to make the Proof Interpretation
+&ldquo;rigorous&rdquo; or &ldquo;precise&rdquo;. The difference is not
+one of degree but of
+ kind.<sup>[<a href="notes.html#note-33" id="ref-33">33</a>]</sup>
+ The point is general, and it makes no difference if the interpreting
+theory \(V\) is
+ intuitionistic.<sup>[<a href="notes.html#note-34" id="ref-34">34</a>]</sup>
+ On the other hand, it is not at all ruled out that for an
+interpreting theory \(V\) itself an explanation can be given that is
+arguably superior to the Proof Interpretation in some respect; this
+was G&ouml;del&rsquo;s philosophical aim for his Dialectica
+Interpretation. <!-- will be treated in a future update of this entry --></p>
+
+<p>
+A related point can be made about model-theoretic semantics for a(ny)
+logic (Dummett 1973: 293&ndash;294): these map formulas to
+mathematical objects, without there being an intrinsic connection
+between those objects and the concepts related to our understanding
+and use of a language. By itself, therefore, such a semantics does not
+contribute to a meaning explanation. (The first argument on
+mathematical interpretations, above, is essentially the same as this
+one.) But for metamathematical purposes, such model-theoretic
+semantics have proved extremely valuable. Note that Heyting (1930)
+used model-theoretic semantics to show the independence of his axioms
+for propositional logic. A wide variety of model-theoretic semantics
+for intuitionistic systems has been developed since, beginning with
+the topological ones of Stone (1937) and Tarski (1938). Of the
+remaining ones, among the best known are Beth models (Beth 1956),
+Kripke models (Kripke 1965), and topos models. For Kripke models, see
+the section <em>Kripke semantics for intuitionistic logic</em> of
+Moschovakis 2007; for other models and further references, see Kleene
+and Vesley 1965: 6 and Artemov 2001.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+<a href="https://paysgermaniques.fr/van-atten-mark/" target="other">Mark van Atten</a>
+&lt;<a href="m&#97;ilto:mvanatten&#37;40ens&#37;2efr"><em>mvanatten<abbr title=" at ">&#64;</abbr>ens<abbr title=" dot ">&#46;</abbr>fr</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

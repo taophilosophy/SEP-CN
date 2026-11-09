@@ -1,0 +1,2839 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Jury Theorems (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Jury Theorems" />
+<meta name="citation_author" content="Dietrich, Franz" />
+<meta name="citation_author" content="Spiekermann, Kai" />
+<meta name="citation_publication_date" content="2021/11/17" />
+<meta name="DC.title" content="Jury Theorems" />
+<meta name="DC.creator" content="Dietrich, Franz" />
+<meta name="DC.creator" content="Spiekermann, Kai" />
+<meta name="DCTERMS.issued" content="2021-11-17" />
+<meta name="DCTERMS.modified" content="2021-11-17" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/jury-theorems/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=jury-theorems">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Jury Theorems</h1><div id="pubinfo"><em>First published Wed Nov 17, 2021</em></div>
+
+<div id="preamble">
+
+<p>
+Jury theorems are mathematical theorems about the ability of
+collectives to make correct decisions. Several jury theorems carry the
+optimistic message that, in suitable circumstances, &ldquo;crowds are
+wise&rdquo;: many individuals together (using, for instance, majority
+voting) tend to make good decisions, outperforming fewer or just one
+individual. Jury theorems form the technical core of epistemic
+arguments for democracy, and provide probabilistic tools for reasoning
+about the epistemic quality of collective decisions. The popularity of
+jury theorems spans across various disciplines such as economics,
+political science, philosophy, and computer science.</p>
+
+<p>
+This entry reviews and critically assesses a variety of jury theorems.
+It first discusses Condorcet&rsquo;s initial jury theorem, and then
+progressively introduces jury theorems with more appropriate premises
+and conclusions. It explains the philosophical foundations, and
+relates jury theorems to diversity, deliberation, shared evidence,
+shared perspectives, and other phenomena. It finally connects jury
+theorems to their historical background and to democratic theory,
+social epistemology, and social choice theory.</p>
+</div> 
+
+<div id="toc"><!--Entry Contents-->
+<ul>
+	<li><a href="#Intr">1. Introduction</a>
+
+	<ul>
+		<li><a href="#WhatJuryTheo">1.1 What are jury theorems?</a></li>
+		<li><a href="#BroaNotiDeci">1.2 A broad notion of decision</a></li>
+	</ul>
+	</li>
+	<li><a href="#ThreJuryTheo">2. Three Jury Theorems</a>
+	<ul>
+		<li><a href="#CondJuryTheo">2.1 Condorcet&rsquo;s Jury Theorem</a></li>
+		<li><a href="#ProbCommCausVote">2.2 The problem of common causes of votes</a></li>
+		<li><a href="#PartSoluCondJuryTheo">2.3 Partial solution: the Conditional Jury Theorem</a></li>
+		<li><a href="#FundTensBetwIndeComp">2.4 The fundamental tension between independence and competence</a></li>
+		<li><a href="#CompSensJuryTheo">2.5 The Competence-Sensitive Jury Theorem</a></li>
+		<li><a href="#ThreJuryTheoComp">2.6 The three jury theorems compared</a></li>
+	</ul>
+	</li>
+	<li><a href="#JuryTheoDive">3. Jury Theorems and Diversity</a>
+	<ul>
+		<li><a href="#DiveVersCompHete">3.1 Diversity versus competence heterogeneity</a></li>
+		<li><a href="#CompHeteThreWisdCrow">3.2 Competence heterogeneity threatens the wisdom of crowds</a></li>
+		<li><a href="#DiveJudgInde">3.3 Diversity as judgmental independence</a></li>
+		<li><a href="#DiveAffeBothDeciMakiStagDeliAggr">3.4 Diversity affects both decision-making stages: deliberation and aggregation</a></li>
+	</ul>
+	</li>
+	<li><a href="#ProbQues">4. Problems and Questions</a>
+	<ul>
+		<li><a href="#DoCorrFactExis">4.1 Do correctness facts exist?</a></li>
+		<li><a href="#CorrFactUnde">4.2 Are correctness facts underdetermined?</a></li>
+		<li><a href="#UnliEvidGene">4.3 Unlimited evidence generation?</a></li>
+		<li><a href="#ProbIncrTrut">4.4 The problem of incredible truths</a></li>
+		<li><a href="#DeliIndeUndeCompBoos">4.5 Deliberation: independence underminer or competence booster?</a></li>
+		<li><a href="#GrouDepeIndiComp">4.6 Group-dependent individual competence</a></li>
+		<li><a href="#EpisStraVoti">4.7 Epistemic-strategic voting</a></li>
+	</ul>
+	</li>
+	<li><a href="#OtheTypeJuryTheo">5. Other Types of Jury Theorems</a>
+	<ul>
+		<li><a href="#EpisAggrProbGene">5.1 The epistemic aggregation problem more generally</a></li>
+		<li><a href="#SociChoiBetwMultAlte">5.2 Social choice between multiple alternatives</a></li>
+		<li><a href="#AggrEsti">5.3 Aggregating estimates</a></li>
+		<li><a href="#AggrEvalGrad">5.4 Aggregating evaluations or grades</a></li>
+		<li><a href="#JudgAggrOverInteProp">5.5 Judgment aggregation over interconnected propositions</a></li>
+		<li><a href="#JuryTheoForVoteTracIndiFact">5.6 Jury theorems for voters tracking individual facts</a></li>
+	</ul>
+	</li>
+	<li><a href="#BackSeleAppl">6. Background and Selected Applications</a>
+	<ul>
+		<li><a href="#JuryTheoDemoTheo">6.1 Jury theorems and democratic theory</a></li>
+		<li><a href="#JuryTheoSociEpis">6.2 Jury theorems and social epistemology</a></li>
+		<li><a href="#JuryTheoEpisSociChoiTheo">6.3 Jury theorems and epistemic social choice theory</a></li>
+	</ul>
+	</li>
+	<li><a href="#Bib">Bibliography</a></li>
+	<li><a href="#Aca">Academic Tools</a></li>
+	<li><a href="#Oth">Other Internet Resources</a></li>
+	<li><a href="#Rel">Related Entries</a></li>
+</ul>
+<!--Entry Contents-->
+
+<hr /></div>
+
+<div id="main-text">
+
+<h2 id="Intr">1. Introduction</h2>
+
+<h3 id="WhatJuryTheo">1.1 What are jury theorems?</h3>
+
+<p>
+How many individuals should be entrusted with a given decision?
+Epistemically speaking, what matters is how the correctness or quality
+of decisions depends on the number of participants, for instance, how
+the correctness of jury verdicts (&ldquo;innocent&rdquo; or
+&ldquo;guilty&rdquo;) depends on jury size, how the quality of
+parliamentary decisions depends on parliament size, how the quality of
+election outcomes depends on the size of the electorate, or how the
+quality of expert advice depends on the size of the advisory body.
+Jury theorems address this problem. Their perspective is epistemic
+rather than procedural: the sole aim is to reach &ldquo;good&rdquo; or
+&ldquo;correct&rdquo; decisions by an external standard rather than to
+respect individual participation rights or ensure democratically
+legitimate decisions. The reliance on correctness facts is the central
+philosophical commitment of jury theorems (see
+ <a href="#DoCorrFactExis">Section 4.1</a>).</p>
+ 
+<p>
+This entry refers to the set of individuals participating in the
+decision as the <em>group</em> or <em>(decision) body</em>, and to the
+larger set from which this group is selected as the
+<em>population</em>. Examples are electoral bodies selected from the
+population of citizens, and scientific advisory bodies selected from
+the population of scientists. In real life, some decision bodies are
+very large: electoral bodies often contain millions of citizens. Other
+bodies have medium size: juries in court often involve 12 members. Yet
+other bodies have few or just one member: authoritarian states are
+ruled by small cliques or just one person.</p>
+
+<p>
+Jury theorems are mathematical theorems of the following general
+structure:</p>
+
+<p class="indent">
+<strong>Generic Jury Theorem:</strong> Given a choice problem of type
+<em>X</em>, a voting procedure of type <em>Y</em>, and premises about
+individuals <em>Z</em>, the epistemic performance of group decisions
+depends on group size in ways <em>W</em>.</p>
+
+<p>
+This schematic statement contains several parameters, filled in
+differently by different jury theorems. The first and simplest jury
+theorem goes back to French enlightenment philosopher and
+mathematician Marie Jean Antoine Nicolas de Caritat, Marquis de
+Condorcet. In Condorcet&rsquo;s (1785) theorem,</p>
+
+<ul>
+
+<li>the choice problem is binary, like the guilty-or-innocent problem
+of juries;</li>
+
+<li>the voting procedure is majority voting;</li>
+
+<li>the premises on individuals are competence and independence
+assumptions of particularly simple kinds;</li>
+
+<li>the conclusion is that &ldquo;crowds are wise&rdquo; in the
+twofold sense that the probability of a correct group decision (i)
+increases in group size and (ii) converges to one as group size
+approaches infinity.</li>
+</ul>
+
+<p>
+These two Condorcetian &ldquo;wisdom of crowds&rdquo; conclusions have
+considerably shaped the field, because they reappear (partly or fully)
+in many other jury theorems, whilst being controversial. The research
+programme of the jury theorem literature is partly an attempt to place
+one or both Condorcetian conclusions on improved premises, and partly
+an attempt to derive jury theorems reaching rival conclusions, such as
+the optimality of some finite and possibly small group size (against
+Condorcet&rsquo;s first conclusion) or the fallibility of
+asymptotically large bodies (against Condorcet&rsquo;s second
+conclusion).</p>
+
+<p>
+Taken in themselves, the Condorcetian conclusions represent two
+controversial wisdom-of-crowds hypotheses, which can be stated more
+generally (Dietrich &amp; Spiekermann 2020):</p>
+
+<p class="indent">
+<strong>The Increasing-Reliability Hypothesis:</strong> Larger bodies
+are better truth-trackers. They make epistemically better decisions
+than smaller bodies or single individuals.</p>
+
+<p class="indent">
+<strong>The Infallibility Hypothesis:</strong> Huge bodies are
+infallible truth-trackers. They make epistemically optimal decisions
+in the limit as group size tends to infinity.</p>
+
+<p>
+Upon deeper analysis, the infallibility hypothesis is untenable, and
+cannot even serve as an approximation, idealisation or paradigm of how
+large-scale democracy performs (see
+ <a href="#ThreJuryTheo">Section 2</a>).
+ The fact that many jury theorems reach this over-optimistic
+conclusion has not always been helpful, by threatening the credibility
+of the jury theorem literature as a whole. The right response is to
+revise the premises of jury theorems such that they become justifiable
+and imply plausible conclusions, like increasing reliability. Jury
+theorems with more plausible premises and conclusions are indeed
+achievable (see
+ <a href="#ThreJuryTheo">Section 2</a>).</p>
+ 
+<p>
+The increasing-reliability hypothesis thus appears to be the more
+appropriate rendition of the wisdom of crowds. The infallibility
+hypothesis should arguably give way, as will emerge in
+ <a href="#ThreJuryTheo">Section 2</a>
+ and
+ <a href="#CorrFactUnde">Section 4.2</a>
+ (see
+ <a href="#UnliEvidGene">Section 4.3</a>
+ for a potential exception). Jury theorems reaching the infallibility
+conclusion can be mathematically interesting; philosophically, they
+might be seen as arguments against their own premises.</p>
+
+<h3 id="BroaNotiDeci">1.2 A broad notion of decision</h3>
+
+<p>
+Jury theorems address collective &ldquo;decisions&rdquo; in a broad
+sense. Decisions could, for instance, stand for collective
+<em>beliefs</em> or collective <em>actions or choices</em>. In the
+legal arena, jury verdicts represent beliefs (about guilt or
+innocence), whereas court rulings represent actions (of convicting or
+acquitting defendants). In the political arena, parliamentary
+decisions and referendum decisions usually represent choices.
+Depending on its mandate, an ethical or scientific commission either
+produces collective beliefs (which serve as advice), or performs
+actions, e.g., sets a budget or institutes ethical standards.</p>
+
+<p>
+But there is one key condition: decisions must be
+<em>correctness-apt</em>, i.e., be either factually correct or
+incorrect (or, more generally, of some correctness degree). Which
+facts determine correctness? Belief-type decisions are correct if the
+belief has true content. Action-type decisions are correct depending
+on some state; e.g., court rulings are correct depending on past
+actions of the defendant.</p>
+
+<p>
+Collective beliefs are examples of collective <em>attitudes</em>.
+Other possible collective attitudes are collective values, desires,
+preferences, or intentions. They too can be formed through
+aggregation: think of preference aggregation rules generating
+collective preferences. Any collective attitude whose possession can
+be factually correct or incorrect is potentially an object of jury
+theorems. Whether attitudes can be correct is, of course, more
+controversial for non-belief attitudes (cf.
+ <a href="#DoCorrFactExis">Section 4.1</a>).</p>
+ 
+<p>
+In sum, jury theorems address collective decisions of any
+correctness-apt kind, including collective actions, beliefs, and other
+attitudes.</p>
+
+<h2 id="ThreJuryTheo">2. Three Jury Theorems</h2>
+
+<p>
+This section states and discusses three jury theorems about majority
+decisions between two alternatives. They assume a population of
+individuals, labelled \(1, 2, \ldots,\) representing the possible
+members of the decision-making group. The population might contain,
+for example, all citizens of a state (for a political decision) or all
+scientists (for a scientific decision). It is infinite&mdash;an
+idealisation needed for considering arbitrarily large decision bodies.
+The group has any finite size \(n\geq1\) and consists of the first
+\(n\) individuals \(1, 2, \ldots, n.\) Each member votes for one
+alternative. The alternative receiving a majority wins (if \(n\) is
+even, there can be a tie without collective decision). Following the
+epistemic approach, one alternative is <em>correct</em> (right,
+better, etc.) and the other is <em>incorrect</em> (wrong, worse,
+etc.), independently of the decision process. This makes any
+individual judgment and any group decision correct or incorrect.</p>
+
+<p>
+Jury theorems operate in a probabilistic framework: anything unknown
+is modelled as a random event or variable (defined relative to some
+background probability
+ space<sup>[<a href="notes.html#note-1" id="ref-1">1</a>]</sup>).</p>
+ 
+<p>
+<em>Notation:</em> For any jury theorem of the entry, the probability
+function (of the underlying probability space) is denoted \(P\). Where
+needed by a jury theorem, the event that individual \(i (=1, 2,
+\ldots)\) is correct is denoted \(R_{i}\), and for each possible group
+size \(n\in\{1,2,\ldots\}\) the event that a majority is correct
+(i.e., that more than half of \(R_{1},\ldots,R_{n}\) hold) is denoted
+ \(\Maj_{n}\).<sup>[<a href="notes.html#note-2" id="ref-2">2</a>]</sup></p>
+ 
+<h3 id="CondJuryTheo">2.1 Condorcet&rsquo;s Jury Theorem</h3>
+
+<p>
+Condorcet&rsquo;s (1785) jury theorem will be discussed first on
+grounds of simplicity and historic importance, setting aside concerns
+about its premises and conclusions. Condorcet&rsquo;s text does not
+follow modern mathematics, but many later authors have stated his
+theorem formally (e.g., Grofman 1975; Grofman, Owen, &amp; Feld
+ 1983).<sup>[<a href="notes.html#note-3" id="ref-3">3</a>]</sup>
+ The theorem operates in a simple formal framework, with only the
+following ingredients:</p>
+
+<p>
+<em>Primitives of Condorcet&rsquo;s Jury Theorem:</em> correctness
+events \(R_{1},\) \(R_{2}, \ldots,\) defined relative to a probability
+space.</p>
+
+<p>
+In these primitives (and those of the two other jury theorems in this
+section), the correctness events could be replaced by more basic
+primitives, namely the following random variables: votes (judgments)
+of the individuals \(1, 2, \ldots,\) whose values are alternatives,
+and a &ldquo;state&rdquo; variable, whose value is, or more generally
+determines, the correct alternative. Each correctness event \(R_{i}\)
+is then defined as the event that \(i\)&rsquo;s vote equals the
+correct alternative, and the whole analysis stays unchanged. For
+instance, in a court&rsquo;s decision problem, the votes of judges
+could take values in \(\{\text{convict},\text{acquit}\}\) and the
+state could take values in \(\{\text{guilty},\text{innocent}\}\),
+where \(\text{convict}\) is correct if the state is \(guilty\), and
+\(\text{acquit}\) is correct if the state is <em>\(innocent\)</em>.
+Equivalently, and more parsimoniously, votes and state could all take
+values in \(\{0,1\}\), where \(R_{i}\) is the event that \(i\)&rsquo;s
+vote equals the
+ state.<sup>[<a href="notes.html#note-4" id="ref-4">4</a>]</sup></p>
+ 
+<p>
+Condorcet&rsquo;s theorem assumes that correctness is independent
+across individuals and has (the same) probability greater
+\(\frac{1}{2}\) for each individual. Formally:</p>
+
+<p class="indent">
+<strong>Unconditional Independence (UI).</strong> The individual
+correctness events \(R_{1},\) \(R_{2}, \ldots\) are (unconditionally)
+independent.</p>
+
+<p class="indent">
+<strong>Unconditional Competence (UC).</strong> The (unconditional)
+individual correctness probability \(P(R_{i})\)&mdash;the <em>general
+competence</em>&mdash;exceeds \(\frac{1}{2}\) and is the same for all
+individuals \(i\).</p>
+
+<p class="indent">
+<strong>Condorcet&rsquo;s Jury Theorem:</strong> Assuming UI and UC,
+the probability of majority correctness, \(P(\Maj_{n})\), increases in
+ (odd<sup>[<a href="notes.html#note-5" id="ref-5">5</a>]</sup>)
+ group size \(n\) and converges to 1.</p>
+
+<p>
+This theorem paints an optimistic picture of the wisdom of crowds, by
+concluding that majority outcomes are not only increasingly reliable
+as voters are added, but also infallible in the limit.</p>
+
+<div class="figure avoid-break pdfwide" id="fig1">
+<img alt="two related graphs: link to extended description below" src="Fig1.png" />
+
+<p>
+<span class="figlabel">Figure 1.</span> The probability of majority
+correctness for different group sizes and competence levels. [An
+ <a href="figdesc.html#fig1">extended description of Figure 1</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+
+ <a href="#fig1">Figure 1</a>
+ illustrates increasing majority reliability, for different levels of
+individual competence \(p=P(R_{i})\). Note the fast convergence to
+one, even for just slightly competent individuals.</p>
+
+<p>
+Why does this theorem hold? Intuitively, UI and UC imply that the
+individual judgments behave like independent tosses of the same coin
+biased towards the truth. The more often the coin is tossed, the more
+likely the majority of the tosses are &ldquo;correct&rdquo;, and this
+likelihood converges to one.</p>
+
+<p>
+Technically, the increasing-reliability conclusion follows via a
+non-trivial combinatorial argument. The infallibility conclusion has
+an easy proof, which can be sketched here. By UC, general competence
+\(p=P(R_{i})\) is voter-independent. The group&rsquo;s proportion of
+correct votes is a random variable that converges stochastically to
+\(p\) by the law of large numbers, using UI. So, as
+\(p&gt;\frac{1}{2}\) by UC, the probability that this proportion
+exceeds \(\frac{1}{2}\), which is precisely \(P(\Maj_{n})\), converges
+to 1 as \(n\rightarrow\infty\).</p>
+
+<p>
+Although &ldquo;increases&rdquo; should be read as &ldquo;weakly
+increases&rdquo; in Condorcet&rsquo;s and the other two jury theorems,
+the stronger conclusion of strictly increasing \(P(\Maj_{n})\) holds
+in all non-degenerate cases of these
+ theorems.<sup>[<a href="notes.html#note-6" id="ref-6">6</a>]</sup></p>
+ 
+<h3 id="ProbCommCausVote">2.2 The problem of common causes of votes</h3>
+
+<p>
+A tempting mistake is to believe that votes are probabilistically
+independent as soon as they are <em>causally</em> independent, i.e.,
+do not affect one another. Votes are often causally independent:
+secret voting prevents someone&rsquo;s vote from influencing someone
+else&rsquo;s vote. Sometimes not only the votes (or voting acts), but
+even the individuals more broadly (their reasonings, perspectives,
+knowledge, votes, etc.) are causally independent. This happens if
+individuals do not deliberate or otherwise interact&mdash;a rare, but
+possible scenario. Deliberation immediately creates causal dependence
+between individuals, but not between their (secret) votes.</p>
+
+<p>
+Causal independence (between votes or even individuals) by no means
+makes votes <em>probabilistically</em> independent, since common
+causes create correlations. This fact will be obvious to empirical
+scientists, statisticians, or causal-network theorists; see, for
+instance, the entry on
+ <a href="../physics-Rpcc/">Reichenbach&rsquo;s common cause principle</a>,
+ as well as Reichenbach (1956), Pearl (2000) and Dietrich and List
+(2004) on common causes in jury theorems. Common causes of votes are
+factors influencing two or more votes. They exist in abundance. Voters
+are usually exposed to</p>
+
+<ul>
+
+<li>shared evidence, such as witness reports;</li>
+
+<li>shared perspective-shaping influences, coming from a shared
+language, shared concepts, a shared methodology, or shared
+hypotheses;</li>
+
+<li>shared contextual influences that are unrelated to the decision
+task yet affect judgment skills, such as noise or heat.</li>
+</ul>
+
+<p>
+Unfortunately, the resulting correlations between votes&mdash;and
+ultimately between correctness events \(R_{1},R_{2},\ldots\)&mdash;are
+usually positive, which undermines diversity and reinforces tendencies
+and errors. Positive correlation between correctness events means:
+<em>given</em> that someone votes correctly, others are more likely to
+vote correctly. Why is the correlation positive? A correct judgment
+by, say, individual 1 (the event \(R_{1}\)) raises the probability
+that the common causes take a truth-conducive form (i.e., that
+evidence is non-misleading, contextual influences support judgmental
+skills, etc.), which in turn raises the probability that other
+individuals are correct (the events \(R_{2},R_{3},\ldots\)).
+Conversely, an error by individual 1 raises the probability of
+misleading common causes, which raises the probability of errors by
+others.</p>
+
+<p>
+In sum, voting and correctness are interpersonally (positively)
+correlated through common causes, against Condorcet&rsquo;s
+independence assumption.</p>
+
+<h3 id="PartSoluCondJuryTheo">2.3 Partial solution: the Conditional Jury Theorem</h3>
+
+<p>
+Dependencies between votes can be &ldquo;conditionalised away&rdquo;.
+<em>Given</em> the common causes&mdash;the shared evidence,
+etc.&mdash;votes no longer exhibit dependence, as they no longer carry
+new information about common causes, hence about one another.
+Conditionalisation blocks the information flow through common causes.
+These considerations apply a well-known principle: causally
+independent phenomena are probabilistically independent conditional on
+their common causes (Reichenbach 1956).</p>
+
+<p>
+The conditionalisation strategy assumes that votes do not influence
+one another, i.e., are <em>causally</em> independent, as in secret
+voting. Otherwise information can flow between votes
+<em>directly</em>, not just via common causes, and conditionalising on
+common causes fails to make votes probabilistically independent.</p>
+
+<p>
+To implement conditionalisation, introduce a random variable
+\(\mathbf{x}\), called the <em>facts</em>, on which to conditionalise.
+One could interpret the facts as the totality of common causes, but
+simpler interpretations are also possible. The facts could be some
+proxy of common causes. Most commonly, \(\mathbf{x}\) is the fact
+determining the correct alternative. This correct-making fact is
+standardly called the <em>state (of the world)</em>. In a
+court&rsquo;s convict-or-acquit decision, its possible values could be
+&ldquo;guilty&rdquo; and &ldquo;innocent&rdquo;, which make
+&ldquo;convict&rdquo; or &ldquo;innocent&rdquo; correct, respectively.
+ <a href="#CondJuryTheo">Section 2.1</a>,
+ <a href="#DoCorrFactExis">Section 4.1</a> and
+ <a href="#EpisAggrProbGene">Section 5.1</a>
+ discuss the state.</p>
+
+<p>
+The new jury theorem will therefore rest on the following
+primitives.</p>
+
+<p>
+<em>Primitives of the Conditional Jury Theorem:</em> correctness
+events \(R_{1},\) \(R_{2}, \ldots\) and an arbitrary random variable
+\(\mathbf{x}\) (the <em>facts</em> variable, representing for instance
+the state or the common causes), all defined relative to a probability
+space.</p>
+
+<p>
+<em>Convention:</em> Definitions involving \(\mathbf{x}\) will assume
+that each value of \(\mathbf{x}\) has positive probability (which
+facilitates conditionalising, but restricts attention to discrete
+rather than continuous \(\mathbf{x}\)). All definitions could be
+ generalised.<sup>[<a href="notes.html#note-7" id="ref-7">7</a>]</sup></p>
+ 
+<p>
+These are the revised premises and theorem.</p>
+
+<p class="indent">
+<strong>Conditional Independence (CI).</strong> The individual
+correctness events \(R_{1},\) \(R_{2}, \ldots\) are independent given
+any value \(x\) of the facts \(\mathbf{x}\).</p>
+
+<p class="indent">
+<strong>Conditional Competence (CC).</strong> For any value \(x\) of
+the facts \(\mathbf{x}\), the conditional correctness probability
+\(P(R_{i}|x)\)&mdash;the <em>specific competence on</em>
+\(x\)&mdash;exceeds \(\frac{1}{2}\) and is the same for all
+individuals \(i\).</p>
+
+<p class="indent">
+<strong>Conditional Jury Theorem:</strong> Assuming CI and CC, the
+probability of majority correctness, \(P(\Maj_{n})\), increases in
+ (odd<sup>[<a href="notes.html#note-8" id="ref-8">8</a>]</sup>)
+ group size \(n\) and converges to 1.</p>
+
+<p>
+This theorem reaches the same optimistic conclusions as
+Condorcet&rsquo;s theorem, but based on new premises. The new
+independence assumption is more plausible to the extent that the facts
+\(\mathbf{x}\) include common causes or proxies thereof. If the facts
+are the state of the world&mdash;a <em>very</em> rough proxy of common
+causes&mdash;one obtains the literature&rsquo;s most common form of
+conditionalisation and the classical <em>State</em>-Conditional Jury
+Theorem (e.g., Austen-Smith &amp; Banks 1996). The Conditional Jury
+Theorem generalises this familiar jury theorem to an arbitrary target
+of conditionalisation \(\mathbf{x}\). Replacing
+state-conditionalisation by arbitrary conditionalisation makes the
+jury theorem more flexible, opening the door to genuinely plausible
+independence assumptions.</p>
+
+<p>
+How has the competence assumption evolved? Conditional Competence is
+logically stronger than Unconditional Competence: individuals must
+outperform fair coins not just globally, but given any facts. For
+instance, in a court&rsquo;s decision to convict or acquit, where the
+facts are the state of guilt or innocence, each individual (judge)
+must be more likely correct than incorrect given guilt and also given
+innocence.</p>
+
+<p>
+An individual \(i\)&rsquo;s general competence is expressible as his
+(probability-weighted) average specific competence across possible
+facts, i.e., possible values \(x\) of \(\mathbf{x}\):</p>
+
+<div id="eq1">
+
+\[\tag{1} P(R_{i})=\sum_{x}P(R_{i}|x)P(x). \]
+
+</div>
+
+<p>
+This shows that CC implies UC.</p>
+
+<p>
+Unfortunately, the Conditional Jury Theorem maintains the unrealistic
+conclusion of asymptotic infallibility. Conditionalisation on facts
+can repair the independence premise, but another problem in the
+premises remains, as will now be explained.</p>
+
+<h3 id="FundTensBetwIndeComp">2.4 The fundamental tension between independence and competence</h3>
+
+<p>
+One might have hoped that the &ldquo;conditional&rdquo; premises CI
+and CC are jointly justified for at least <em>some</em>
+conditionalisation, i.e., <em>some</em> suitably designed facts
+variable \(\mathbf{x}\). Then the Conditional Jury Theorem would rest
+on justified premises, and we could trust its conclusions. But a
+dilemma arises:</p>
+
+<ul>
+
+<li>Conditional Independence is only plausible if one packs many facts
+into \(\mathbf{x}\) (ideally all common causes).</li>
+
+<li>Conditional Competence is only plausible if one packs few facts
+into \(\mathbf{x}\) (ideally <em>no</em> facts, so that CC reduces to
+UC, the maximally plausible instance of CC).</li>
+</ul>
+
+<p>
+Therefore, CI and CC require different conditionalisations. They are
+almost never justified <em>jointly</em>, but only justified
+<em>individually</em>, for different facts variables \(\mathbf{x}\)
+(Dietrich 2008). This is the fundamental tension between independence
+and competence. This tension lies not in a logical contradiction
+between both, but in the nature of realistic decision problems (for a
+potential exception, see
+ <a href="#UnliEvidGene">Section 4.3</a>).</p>
+ 
+<p>
+Why does this tension exist? Formal theorizing aside, it is obvious
+that whether someone is competent&mdash;i.e., more often right than
+wrong&mdash;depends on the type (reference class) of judgment tasks
+considered. Plausibly, people are more often right among <em>all</em>
+conceivable judgment tasks (the maximal reference class), and
+presumably also among many large reference classes, such as all
+guilty-or-innocent judgment tasks. But someone is presumably
+incompetent&mdash;more often wrong&mdash;among some very specific
+types of judgment tasks, such as all <em>confusing</em> tasks, and all
+guilty-or-innocent judgment tasks <em>with seemingly honest but lying
+witnesses</em>.</p>
+
+<p>
+Each instance \(x\) of the facts \(\mathbf{x}\) defines a type
+(reference class) of tasks: those tasks in which the facts are \(x\).
+Some instances of the facts \(\mathbf{x}\) make it easy to form
+correct judgments: instances \(x\) where the evidence is transparent,
+witnesses are honest, laboratory tests are correct, etc. Here
+individuals \(i\) are competent: \(P(R_{i}|x)&gt;\frac{1}{2}\).
+Perhaps some other instances of the facts \(\mathbf{x}\) make it hard
+to form correct judgments: instances \(x\) with misleading evidence,
+etc. Here voters are not competent: \(P(R_{i}|x)\leq\frac{1}{2}\).
+Whether misleading instances exist&mdash;i.e., whether CC
+fails&mdash;depends on the facts variable \(\mathbf{x}\) used. If all
+common causes are packed into \(\mathbf{x}\) (presumably to ensure
+Conditional Independence CI), then almost inevitably certain instances
+\(x\) of \(\mathbf{x}\) represent misleading circumstances, in which
+voters \(i\) have low competence \(P(R_{i}|x)&lt;\frac{1}{2}\).
+Ironically, if one packs much less information into the facts
+\(\mathbf{x}\), possibly even reducing \(\mathbf{x}\) to the state
+(often a variable with just two instances), then one may well
+rehabilitate Conditional Competence, whilst sacrificing Conditional
+Independence. This is the dilemma.</p>
+
+<h3 id="CompSensJuryTheo">2.5 The Competence-Sensitive Jury Theorem</h3>
+
+<p>
+The dilemma can be escaped with a jury theorem with more plausible
+premises and conclusions. Think of the facts \(\mathbf{x}\) as being
+rich enough to justify Conditional Independence; so \(\mathbf{x}\)
+contains the common causes, or a good enough proxy or substitute for
+them.</p>
+
+<p>
+Although voters will be incompetent under some (unfortunate) instances
+\(x\) of the facts \(\mathbf{x}\), they will plausibly be competent
+most of the time, i.e., under most facts instances. This suggests
+replacing Conditional Competence with the weaker premise of
+<em>Tendency to Competence</em>. What is this axiom? It says that
+competence is more often high than low. More precisely, competence
+exceeds 0.5 by some amount at least as often as it falls below 0.5 by
+this amount, for any positive amount. So, competence is 0.51 at least
+as often as 0.49; it is 0.55 at least as often as 0.45; etc. Formally,
+an individual \(i\)&rsquo;s specific competence
+\(P(R_{i}|\mathbf{x})\) depends on the (random) facts \(\mathbf{x}\),
+hence is itself random. If its value exceeds \(\frac{1}{2}\), the
+facts can be called <em>truth-conducive</em> or <em>easy</em> for
+\(i\); if its value is below \(\frac{1}{2}\), the facts can be called
+<em>misleading</em> or <em>difficult</em> for \(i\); if its value is
+\(\frac{1}{2}\), the facts can be called <em>neutral</em> for \(i\),
+as they do not push in any direction. A discrete random number (such
+as specific competence \(P(R_{i}|\mathbf{x})\)) <em>tends to
+exceed</em> \(\frac{1}{2}\) if, for each \(\epsilon&gt;0\), it equals
+\(\frac{1}{2}+\epsilon\) at least as likely as
+\(\frac{1}{2}-\epsilon\).</p>
+
+<div class="figure avoid-break" id="fig2">
+<img alt="a plot: link to extended description below" src="Fig2.png" style="width:400px" />
+
+<p class="center">
+<span class="figlabel">Figure 2.</span> A competence distribution that
+tends to exceed \(\frac{1}{2}.\)
+<br />
+[An
+ <a href="figdesc.html#fig2">extended description of Figure 2</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+
+ <a href="#fig2">Figure 2</a>
+ gives an example where specific competence (with values \(0,
+\frac{1}{8},\) \(\frac{1}{4},\) \(\frac{3}{8}, \ldots, 1)\) tends to
+exceed \(\frac{1}{2}\): competence is \(\frac{5}{8}\) with higher
+probably than \(\frac{3}{8}\); it is \(\frac{3}{4}\) with higher
+probably than \(\frac{1}{4}\); etc. Visually, this makes the
+distribution lean to the right.</p>
+
+<p>
+This leads to the following jury theorem (Dietrich &amp; Spiekermann
+2013a).</p>
+
+<p>
+<em>Primitives of the Competence-Sensitive Jury Theorem:</em> same as
+for the Conditional Jury Theorem.</p>
+
+<p class="indent">
+<strong>Tendency to Competence (TC):</strong> The conditional
+correctness probability \(P(R_{i}|\mathbf{x})\)&mdash;the <em>specific
+competence</em>&mdash;tends to exceed \(\frac{1}{2}\) and is the same
+for all individuals \(i\).</p>
+
+<p class="indent">
+<strong>Competence-Sensitive Jury Theorem:</strong> Assuming CI and
+TC, the probability of majority correctness, \(P(\Maj_{n})\),
+increases in
+ (odd<sup>[<a href="notes.html#note-9" id="ref-9">9</a>]</sup>)
+ group size \(n\) and converges to a value which is below 1 unless CC
+holds.</p>
+
+<p>
+What is the limit of majority correctness under CI and TC? It is the
+probability that the facts (e.g., the shared evidence) are
+truth-conducive plus half the probability that the facts are
+ neutral.<sup>[<a href="notes.html#note-10" id="ref-10">10</a>]</sup>
+ Loosely speaking, group performance in the limit is as good as the
+facts. Unsurprisingly, the group cannot beat the facts. It should
+already count as a success to match the facts asymptotically.</p>
+
+<p>
+The twofold evolution from the Conditional Jury Theorem is that the
+competence premise is weakened to TC and the infallibility conclusion
+is reversed. Therefore, majorities can be wrong even in asymptotically
+large bodies&mdash;unless CC holds, i.e., unless voters are
+<em>always</em> competent. &ldquo;Unless&rdquo; can be read strongly
+in the theorem, as meaning &ldquo;if <em>and only if</em> it is not
+the case that&rdquo;.</p>
+
+<h3 id="ThreJuryTheoComp">2.6 The three jury theorems compared</h3>
+
+<p>
+Table 1 summarizes the three jury theorems.</p>
+
+<div class="avoid-break">
+
+<table class="cellpad-med centered hrules shortcap vert-top">
+<caption>Table 1. Three jury theorems compared</caption>
+<tbody>
+<tr>
+  <td>&nbsp;</td>
+  <td><em>Condorcet&rsquo;s
+<br />
+Jury Theorem</em></td>
+  <td><em>Conditional
+<br />
+Jury Theorem</em></td>
+  <td><em>Competence-Sensitive
+<br />
+Jury Theorem</em></td> </tr>
+<tr>
+  <td><em>Premise 1</em></td>
+  <td>Unconditional
+<br />
+Independence</td>
+  <td>Conditional
+<br />
+Independence</td>
+  <td>Conditional
+<br />
+Independence</td> </tr>
+<tr>
+  <td><em>Premise 2</em></td>
+  <td>Unconditional
+<br />
+Competence</td>
+  <td>Conditional
+<br />
+Competence</td>
+  <td>Tendency to
+<br />
+Competence</td> </tr>
+<tr>
+  <td><em>Conclusion&nbsp;1</em></td>
+  <td>Increasing
+<br />
+Reliability</td>
+  <td>Increasing
+<br />
+Reliability</td>
+  <td>Increasing
+<br />
+Reliability</td> </tr>
+<tr>
+  <td><em>Conclusion&nbsp;2</em></td>
+  <td>Asymptotic
+<br />
+Infallibility</td>
+  <td>Asymptotic
+<br />
+Infallibility</td>
+  <td>Asymptotic
+<br />
+Fallibility</td> </tr> </tbody>
+</table>
+</div>
+
+<p>
+All theorems yield increasing reliability, but only the first two
+yield asymptotic infallibility. The independence assumption evolves
+from unconditional to conditional.</p>
+
+<div class="figure avoid-break wide" id="fig3">
+<img alt="4 plots a, b1, b2, and c: link to extended description below" src="Fig3.png" />
+
+<p class="center">
+<span class="figlabel">Figure 3.</span> The three competence axioms
+UC, CC and TC. [An
+ <a href="figdesc.html#fig3">extended description of Figure 3</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+
+ <a href="#fig3">Figure 3</a>
+ illustrates how the competence assumption evolves:</p>
+
+<ol type="a">
+
+<li>Condorcet&rsquo;s Jury Theorem focuses on <em>general</em>
+competence, i.e., the fixed probability \(P(R_{i})\), which must
+exceed \(\frac{1}{2}\) (see Plot a).</li>
+
+<li>The Conditional Jury Theorem focuses on <em>specific</em>
+competence, i.e., the facts-dependent probability
+\(P(R_{i}|\mathbf{x})\), which must always exceed \(\frac{1}{2}\). If
+one takes \(\mathbf{x}\) to be the state of the world, i.e., considers
+the <em>State</em>-Conditional Jury Theorem, then (assuming the state
+is binary) only two competence levels are possible, one for each state
+(see Plot b1). Richer facts allow for many possible competence levels
+(see Plot b2).</li>
+
+<li>The Competence-Sensitive Jury Theorem assumes, less demandingly,
+that specific competence <em>tends</em> to exceed \(\frac{1}{2}\) (see
+Plot c).</li>
+</ol>
+
+<p>
+Mathematically, the Competence-Sensitive Jury Theorem generalises the
+Conditional Jury Theorem, which generalises Condorcet&rsquo;s Jury
+Theorem. Why?</p>
+
+<ul class="jfy">
+
+<li>The Competence-Sensitive Jury Theorem encompasses the Conditional
+Jury Theorem as a special case, the case when CC holds, because in
+this extreme case (of <em>always</em> competent voters) the theorem
+asserts asymptotic
+ infallibility.<sup>[<a href="notes.html#note-11" id="ref-11">11</a>]</sup></li>
+ 
+<li>The Conditional Jury Theorem encompasses Condorcet&rsquo;s Jury
+Theorem as a special case, obtained when plugging in a trivial facts
+variable \(\mathbf{x}\) with only one possible value. Here the
+premises CI and CC reduce to Condorcet&rsquo;s premises UI and UC,
+because conditionalising on facts that are certain is like not
+conditionalising at all.</li>
+</ul>
+
+<h2 id="JuryTheoDive">3. Jury Theorems and Diversity</h2>
+
+<p>
+Intuitively, diversity&mdash;in backgrounds, perspectives,
+information, reasoning modes, skills, etc.&mdash;improves collective
+performance. Where can diversity be found in formal jury frameworks?
+Do the assumptions of jury theorems implicitly rule out diversity, or
+instead permit or even require diversity?</p>
+
+<h3 id="DiveVersCompHete">3.1 Diversity versus competence heterogeneity</h3>
+
+<p>
+Diversity is describable as plurality in sources and backgrounds:
+individuals reason differently, hold different perspectives, use
+different information, etc. Although diversity is a multi-dimensional
+and largely informal property, it manifests itself in jury models. As
+what? There are two natural candidates: competence heterogeneity and
+independence. The relation to competence heterogeneity will be
+clarified first
+ (<a href="#DiveJudgInde">Section 3.3</a>
+ turns to independence).</p>
+
+<p>
+Diversity does <em>not</em> imply competence
+heterogeneity&mdash;fortunately, as otherwise the three jury theorems
+above would exclude diversity in the homogeneity clause of their
+competence assumptions. Diversity does not imply differences in
+competence <em>levels</em>, but differences in competence
+<em>sources</em>. Even under high diversity, members could be correct
+with identical probabilities&mdash;for different reasons.</p>
+
+<p>
+Conversely, competence heterogeneity tends to imply diversity, i.e.,
+non-diversity tends to imply competence homogeneity, because members
+with exactly same background, same information, same reasoning, etc.,
+should be equally competent.</p>
+
+<p>
+In sum, competence homogeneity is a systematic feature of non-diverse
+groups, but not vice versa.</p>
+
+<h3 id="CompHeteThreWisdCrow">3.2 Competence heterogeneity threatens the wisdom of crowds</h3>
+
+<p>
+Differential competence is the main threat to the
+increasing-reliability hypothesis. The political upshot is that the
+epistemic superiority of democracy is at stake&mdash;is it
+epistemically better for a society to be run by a few competent
+citizens? The wisdom-of-crowds conclusion indeed breaks down in all
+three theorems if one removes homogeneity from the competence premise.
+Larger bodies can then perform worse, because new members may be
+(much) less competent than existing members. Majority reliability can
+even become a <em>decreasing</em> function of group size, and can
+converge to a level as low as \(\frac{1}{2}\) if competence of new
+members converges fast enough to \(\frac{1}{2}\).</p>
+
+<p>
+<strong>Finite optimal group rather than wise crowds?</strong> The
+question of whether decision bodies should be augmented when new
+members are less competent is not far-fetched, but a notorious issue
+in real-life committee design. This is the trade-off: adding less
+competent members, on the one hand, lowers average member competence,
+but, on the other hand, brings the advantage of size, namely that
+errors of individual members are more easily overruled (&ldquo;washed
+out&rdquo;) by the majority. Depending on which effect is stronger,
+the probability of majority correctness increases or falls by adding
+less competent members.</p>
+
+<p>
+Whether some (finite) group is optimal or instead &ldquo;bigger is
+better&rdquo; has been treated analytically. Answers depend on model
+assumptions (see Karotkin &amp; Paroush 2003).</p>
+
+<p>
+How could the wisdom of crowds be rehabilitated? Both wisdom-of-crowds
+hypotheses are discussed in turn.</p>
+
+<p>
+<strong>Asymptotic infallibility despite heterogenous
+competence.</strong> The asymptotic conclusion of Condorcet&rsquo;s
+Jury Theorem remains true if UC is weakened to the existence of a
+fixed lower bound \(\frac{1}{2}+\epsilon\) for everyone&rsquo;s
+competence (Paroush 1998). This assumption can be relaxed further: it
+suffices that the infinitely many individuals are competent <em>on
+average</em>, which allows for many incompetent
+ individuals<sup>[<a href="notes.html#note-12" id="ref-12">12</a>]</sup>
+ (see Dietrich 2008; for related or more general results: Boland 1989;
+Owen, Grofman, &amp; Feld 1989; Berend &amp; Paroush 1998).
+Unfortunately, these variants of Condorcet&rsquo;s Jury Theorem (and
+analogous variants of the Conditional Jury Theorem) retain only the
+infallibility conclusion, sacrificing increasing reliability. The more
+problematic conclusion has been retained, one might complain.</p>
+
+<p>
+<strong>Increasing reliability despite heterogenous
+competence.</strong> There are broadly two approaches to rehabilitate
+the increasing-reliability hypothesis and thereby defend large-scale
+democracy in the face of differential competence.</p>
+
+<p>
+The first approach effectively denies that larger bodies have
+&ldquo;worse&rdquo; members, by postulating a different procedure to
+determine group members: members are selected anonymously, rather than
+(for instance) by competence. Increasing group size no longer means
+keeping the &ldquo;old&rdquo; members and adding &ldquo;new&rdquo;,
+often less competent, members, but it means drawing a fully new
+(larger) group from the
+ population.<sup>[<a href="notes.html#note-13" id="ref-13">13</a>]</sup>
+ This procedure for selecting members differs significantly from that
+where the members must be the first \(n\) individuals in a predefined
+&ldquo;priority order&rdquo; of the individuals. The new procedure is
+anonymous, instead of effectively prioritising individual 1 over
+individual 2, individual 2 over individual 3, etc. Which procedure is
+more realistic is debatable and context-dependent.</p>
+
+<p>
+A second approach assumes&mdash;quite realistically&mdash;that
+individual competence levels are unknown. Even if additional group
+members were <em>objectively</em> less competent, this fact would be
+insufficiently known or established (cf. Romeijn &amp; Atkinson 2011).
+The institutional designer can consider three kinds of justification
+for a large, inclusive group. An epistemic justification points out
+that any proxy used for competence might be misleading. For instance,
+it would seem unjustified to exclude citizens without university
+education because they might be just as competent or more competent;
+excluding them might lower collective competence. One procedural
+justification holds that it is unfair to exclude individuals from
+democratic decision-making even if their incompetence were established
+beyond reasonable doubt. Such procedural reasons for inclusion could,
+for example, be based on the democratic right to equal opportunity for
+influence. Another, more nuanced procedural view does not generally
+oppose voter exclusion, but requires the incompetence to be
+established to a high standard, as those excluded are owed reasons for
+being ruled by others.</p>
+
+<p>
+A version of the last view is defended by Estlund (2008). He grants
+that some individuals can be more competent than others, thereby
+opening the door to arguments for &ldquo;epistocracy&rdquo; (decision
+by small bodies of competent citizens) rather than democracy (decision
+by all or most citizens, directly or indirectly). However, Estlund
+rejects epistocracy on grounds that competence levels cannot be
+identified beyond reasonable doubt. Individuals excluded from
+decision-making could rightfully object to being ruled by others
+(Estlund 2008: ch. 11). Estlund&rsquo;s proposal has led to a lively
+debate on arguments for and against epistocracy and the role of
+uncertainty about competence (Lippert-Rasmussen 2012; Brennan 2018;
+Goodin &amp; Spiekermann 2018: ch. 15; Gunn 2019).</p>
+
+<p>
+To formally tackle limited knowledge about individuals, one could, for
+instance, introduce subjective probabilities over competence levels,
+i.e., over objective correctness probabilities. More simply, one can
+eliminate objective probabilities and competence altogether from the
+model and work solely with subjective probabilities over individual
+judgments (rather than over individual competence levels). If
+individuals are subjectively indistinguishable, judgments can be
+assumed to be <em>interchangeable</em> in de Finetti&rsquo;s sense of
+permutation-invariance. This implies (with an additional assumption)
+that larger bodies are more reliable, without becoming asymptotically
+infallible, by a <em>jury theorem for interchangeable voters</em>
+(Dietrich &amp; Spiekermann 2013a; generalising Ladha 1993). Here,
+&ldquo;reliable&rdquo; and &ldquo;infallible&rdquo; are no longer
+objective features of the group, but features of knowledge about
+it.</p>
+
+<p>
+This subjectivist approach begs the question of who should hold these
+credences. But at least it takes the problem of uncertainty about
+individuals seriously.</p>
+
+<h3 id="DiveJudgInde">3.3 Diversity as judgmental independence</h3>
+
+<p>
+Diversity manifests itself as probabilistic <em>independence</em>
+between individual judgments. If diversity is small&mdash;i.e.,
+individuals reason similarly, use similar evidence, etc.&mdash;then
+judgments are highly correlated. Without any diversity, judgments
+coincide, and the correctness events \(R_{1},\) \(R_{2}, \ldots\) are
+equivalent. If diversity is high, then judgments correlate less.
+Extreme diversity corresponds to full independence&mdash;or even to
+negative correlation, to mention a rare but interesting possibility
+(Hong &amp; Page 2009; 2012).</p>
+
+<p>
+Condorcet&rsquo;s Jury Theorem implicitly presupposes extensive
+diversity by assuming independence. The Conditional and the
+Competence-Sensitive Jury Theorem are less restrictive: they permit
+more or less diversity, because their <em>conditional</em>
+independence assumption is compatible with more or less
+<em>unconditional</em> independence.</p>
+
+<p>
+Many models of voter dependence have been proposed. A classical model
+introduces an &ldquo;opinion leader&rdquo; whose judgment each other
+individual copies with some probability (Boland, Porschan, &amp; Tong
+1989). Instead of a single opinion leader, the individuals could
+influence one another, as captured by pairwise correlations (e.g.,
+Ladha 1992). The dependence structure could become yet more complex
+and escape a description in terms of pairwise correlations (Kaniovski
+2010; Pivato 2017).</p>
+
+<p>
+Some authors focus on the merits of diversity, by presenting theorems
+in which more independence (diversity) leads to better majority
+decisions (e.g., Berg 1993; Ladha 1995). The mechanism at work is
+this: more independence makes it more likely that errors of voters are
+compensated by correctness of other voters. Many authors also present
+jury theorems, showing that, despite some dependence or non-diversity,
+crowds can be &ldquo;wise&rdquo;, in the sense of increasing
+reliability (e.g., Berg 1993) or asymptotic infallibility (e.g.,
+Pivato 2017). The infallibility conclusion remains objectionable (cf.
+ <a href="#ThreJuryTheo">Section 2</a>).</p>
+ 
+<p>
+Modelling voter dependence in adequate, transparent and tractable ways
+remains a central challenge for future jury theorem research.</p>
+
+<h3 id="DiveAffeBothDeciMakiStagDeliAggr">3.4 Diversity affects both decision-making stages: deliberation and aggregation</h3>
+
+<p>
+Collective decision-making can be subdivided into a deliberation
+phase, in which the individuals form or revise their judgments, and an
+aggregation phase, in which the post-deliberation judgments are fed
+into a voting rule which returns the decision (Dryzek &amp; List
+2003). Diversity affects not only the judgment profile in the group at
+any given moment, and hence the aggregation process, but also the
+deliberation process. Deliberation owes its richness and fruitfulness
+largely to diversity. Non-diverse bodies gain little from
+deliberating: their members already reason similarly, take similar
+perspectives, know similar things, etc. In diverse bodies,
+deliberation can broaden the informational, perspectival, and
+methodological horizon. The more diversity, the more potential for
+judgment revision through deliberation.</p>
+
+<p>
+Causal graphs help to understand how diversity affects deliberation.
+Think of the votes (judgments) as embedded in a causal graph. Each
+individual&rsquo;s vote is a (probabilistic) causal consequence of
+this individual&rsquo;s judgment sources: informational sources,
+intellectual influences, etc. The more the sources differ across
+individuals, the more diverse the group is. In deliberation, members
+share their sources. This changes the causal structure: whenever a
+source is shared with an individual \(i\), a causal arrow is added
+from that source to \(i\)&rsquo;s vote. This enlarges a voter&rsquo;s
+spectrum of sources.</p>
+
+<div class="figure avoid-break pdfwide" id="fig4">
+<img alt="two diagrams (a) and (b): link to extended description below" src="Fig4.png" />
+
+<p class="center">
+<span class="figlabel">Figure 4.</span> Source sharing through
+deliberation. [An
+ <a href="figdesc.html#fig4">extended description of Figure 4</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+
+ <a href="#fig4">Figure 4</a>
+ gives an illustration with just two sources and three individuals.
+Source sharing makes the basis of judgments more similar across
+individuals, possibly letting judgments converge. Ideal deliberation
+achieves full source sharing, as in Figure 4. The more diverse the
+group was initially, the more sources there are to share, hence the
+more deliberation can &ldquo;do&rdquo;.</p>
+
+<p>
+While deliberation reduces interindividual diversity by removing
+source asymmetries, it creates intraindividual diversity by widening
+the spectrum of someone&rsquo;s sources. Individuals
+&ldquo;internalise&rdquo; diversity when deliberating.</p>
+
+<h2 id="ProbQues">4. Problems and Questions</h2>
+
+<h3 id="DoCorrFactExis">4.1 Do correctness facts exist?</h3>
+
+<p>
+The controversial philosophical premise of jury theorems is that
+alternatives are factually correct or incorrect (or of some degree of
+correctness). The (possibly composite) fact that determines
+correctness is called the <em>state of the world</em> or just
+ <em>state</em>.<sup>[<a href="notes.html#note-14" id="ref-14">14</a>]</sup></p>
+ 
+<p>
+To disambiguate, notice that formal models often use simplified
+notions of the state. Firstly, many models reduce the state to its
+unknown part; for instance, the state in a court decision might be
+modelled as the fact of whether a crime has been committed, treating
+all other determinants of correct verdicts (such as the right
+interpretation of the law, but also logical or physical facts) as
+known background facts not worth modelling. Secondly, and more
+radically, many models identify the state with the correct alternative
+itself; they might take the state in a court decision to <em>be</em>
+the correct verdict (&ldquo;convict&rdquo; or
+&ldquo;acquit&rdquo;).</p>
+
+<p>
+Setting modelling practice aside, which (known or unknown) facts
+determine correctness, i.e., constitute the state? One can distinguish
+between logical, empirical and normative facts. When a group of
+logicians votes on whether an argument is valid, correctness depends
+on logical facts. When a panel of climate experts predicts the average
+global surface temperature in 2100, correctness also depends on
+empirical facts. When a parliament decides on whether to allocate more
+funding to the health system, correctness depends on normative facts,
+besides empirical (and logical) facts. In many social decisions,
+correctness depends both on unknown empirical facts and unknown
+normative facts, particularly for decisions on actions or on beliefs
+about what is valuable or ought to be done.</p>
+
+<p>
+Critics of jury theorems often question the very notion of
+correctness. Some doubt the existence of normative facts necessary for
+correctness in political, moral, or other evaluative decisions. This
+critique is often voiced in the form that there is no
+&ldquo;truth&rdquo; pertaining to decisions in a certain domain (e.g.,
+Muirhead 2014 criticizing Landemore 2013; cf. Gaus 2011 for how
+Estlund 2008 stakes out the domain of truth-apt political claims).
+Certain decisions might indeed be non-epistemic. Judgments of taste,
+for instance, might express desires, or perhaps beliefs without
+correctness fact. For moral judgments, both the existence and the
+nature of correctness facts is controversial.</p>
+
+<p>
+Note, however, that the existence of moral and other normative facts
+does not depend on meta-ethical realism, universalism, or naturalism.
+Constructivism about moral facts, for example, could provide an
+intersubjectively shared social fact that is perfectly suitable for
+jury theorems, as long as the construction predates decision-making,
+i.e., occurs previously in the society.</p>
+
+<p>
+In sum, all that jury theorems need is the existence of correctness
+facts of <em>some</em> kind that are process-independent, i.e.,
+independent of the choice of group (size), the deliberation, and the
+aggregation.</p>
+
+<p>
+In political settings, the real problem often lies not in non-existent
+correctness facts, but in ambiguously defined decision problems. For
+example, in presidential elections, is the question who best promotes
+the public good, or who best satisfies the citizens&rsquo;
+preferences? Ambiguous decision problems lead to ambiguous correctness
+standards. Jury theorems stay applicable <em>in principle</em>,
+subject to resolving ambiguities.</p>
+
+<h3 id="CorrFactUnde">4.2 Are correctness facts underdetermined?</h3>
+
+<p>
+Many group decision problems display what might be called <em>Possible
+Underdetermination</em>: the true state of the world can (with
+non-zero probability) be objectively underdetermined by the totality
+of influences on (one or more individuals in) the population, which
+includes all
+ evidence.<sup>[<a href="notes.html#note-15" id="ref-15">15</a>]</sup>
+ A jury&rsquo;s choice between &ldquo;guilty&rdquo; and
+&ldquo;innocent&rdquo; verdicts normally displays Possible
+Underdetermination, since the total available evidence can be
+objectively inconclusive (despite supporting one of these states).
+Dietrich and List&rsquo;s (2004) jury model implicitly assumes
+Possible Underdetermination, because even the ideal interpretation of
+total evidence can be incorrect. Landemore (2013: 145) mentions
+settings in which the correctness of the decision remains objectively
+uncertain, since the truth is never revealed with certainty. This
+could be interpreted as a strong (&ldquo;persisting&rdquo;) type of
+underdetermination: the truth is objectively underdetermined not just
+by the influences at the time of decision, but even by all future
+influences.</p>
+
+<p>
+Possible Underdetermination implies that individual judgments, the
+group judgment, and even the asymptotic group judgment (as group size
+increases) are all fallible, i.e., incorrect with non-zero
+probability. The reason is simple: each of these judgments is
+determined by something (the total influences) that can underdetermine
+the state, hence does not always match the state.</p>
+
+<p>
+Exceptions exist. When mathematicians vote on the truth of a
+mathematical conjecture, the correct decision is given by logical
+facts, hence is never underdetermined. Even then, individual judgments
+and (finite or asymptotic) group judgments can be incorrect, because
+of a positive probability that the objectively accessible truth is not
+subjectively recognized, say due to subjectively misleading evidence,
+intransparent logical facts, or distracting circumstances.</p>
+
+<p>
+The lesson is that the infallibility hypothesis is untenable under
+Possible Underdetermination, and dubious even without Possible
+Underdetermination. The next subsection will, however, discuss a
+special scenario in which the group <em>is</em> asymptotically
+infallible.</p>
+
+<h3 id="UnliEvidGene">4.3 Unlimited evidence generation?</h3>
+
+<p>
+Perhaps the only possible case for asymptotic infallibility involves
+the idea of unlimited evidence generation (or &ldquo;generated
+signals&rdquo; in the words of Hong &amp; Page 2009). What does this
+mean, and how plausible is it?</p>
+
+<p>
+Assume that each individual accesses independent private information,
+on which alone their judgment is based, without any information
+sharing or dependence on common influences (assumed in Dietrich &amp;
+List 2004). For instance, doctors perform independent tests on one and
+the same patient to judge whether some virus is present, or chemists
+perform independent experiments to judge whether a liquid contains a
+given molecule. This private information is truth-conducive: given any
+true state, the information supports the true state with probability
+above \(\frac{1}{2}\)&mdash;the same probability for each information
+(each individual). More problematically, private evidence is
+independent given the true state. This rules out, implausibly, that
+any common causes (except the state itself) affect different private
+information: for instance, the patient&rsquo;s physiology cannot
+affect virus tests (possibly rendering all tests unreliable), and the
+liquid&rsquo;s acidity level cannot affect tests for the molecule
+(possibly rendering all tests unreliable). Under these questionable
+assumptions, majority judgments are asymptotically infallible, as the
+(State-)Conditional Jury Theorem applies.</p>
+
+<p>
+Such a scenario of fully private and independent information escapes
+the problem of common causes
+ (<a href="#ProbCommCausVote">Section 2.2</a>)
+ and the tension between independence of competence
+ (<a href="#FundTensBetwIndeComp">Section 2.4</a>),
+ but only by excluding hidden common influences, excluding
+informational exchange between individuals, postulating an ever
+extendable rather than fixed body of information, and thereby
+indirectly excluding underdetermination of the truth discussed in
+ <a href="#CorrFactUnde">Section 4.2</a>.<sup>[<a href="notes.html#note-16" id="ref-16">16</a>]</sup>
+ An individual &ldquo;creates&rdquo; new independent information (in
+the examples: through &ldquo;experiments&rdquo;) rather than facing
+the same shared information as others. Increasing the group thus adds
+information, not interpretations of information. This unlimited
+availability of independent information might be approximately
+realistic in decision problems where information is
+<em>produceable</em> (say, through experiments) rather than merely
+<em>observable</em>. But political and other real-life decision
+problems come with a limited and possibly difficult body of known or
+knowable facts, causing asymptotic fallibility.</p>
+
+<h3 id="ProbIncrTrut">4.4 The problem of incredible truths</h3>
+
+<p>
+Some truths are hard to recognize as they are highly specific, and
+thus unlikely to hold. Recognizing that <em>global temperature will
+rise</em> may be easy, but recognizing that <em>it will rise by 2.3
+Degrees Celsius</em> is hard. Whenever some choice alternative (and
+thus its correctness) is highly specific, competence in jury models is
+threatened. Suppose a climate panel must form a belief about the
+proposition \(p\) that global temperature will rise by 2.3 degrees.
+Someone&rsquo;s competence given \(p\) (more generally, given facts
+that entail \(p\)) can easily fall below \(\frac{1}{2}\), because
+correctly recognizing \(p\) is hard. Indeed, the available evidence
+might be compatible with a temperature rise close to, but distinct
+from 2.3 degrees. The other effect of \(p\)&rsquo;s high specificity
+is that competence given not-\(p\) (more generally, given facts that
+entail not-\(p\)) can become very high, because not-\(p\) is a very
+unspecific and thus &ldquo;credible&rdquo; proposition. The lesson is
+that highly unbalanced choice alternatives&mdash;a highly specific
+alternative against a highly unspecific alternative&mdash;bring the
+competence assumption of the Conditional Jury Theorem to fall.</p>
+
+<p>
+By contrast, the competence assumptions of Condorcet&rsquo;s and the
+Competence-Sensitive Jury Theorem, UC and TC, are not vulnerable to
+this problem. Why?</p>
+
+<ul class="jfy">
+
+<li>UC pertains to the general (&ldquo;unconditional&rdquo;)
+competence of an individual \(i\), \(P(R_{i})\), not their specific
+competence given facts \(x\), \(P(R_{i}|x)\). General competence stays
+above \(\frac{1}{2}\), because the (error-conducive) event of the
+&ldquo;specific truth&rdquo; is much less likely than the
+(truth-conducive) event of the &ldquo;unspecific
+ truth&rdquo;.<sup>[<a href="notes.html#note-17" id="ref-17">17</a>]</sup></li>
+ 
+<li>TC explicitly allows (specific) competence to sometimes fall below
+\(\frac{1}{2}\).</li>
+</ul>
+
+<p>
+The problem of incredible truths is a variant of Estlund&rsquo;s
+(2008: 232&ndash;4) &ldquo;disjunction problem&rdquo; and of problems
+diagnosed in List (2005) and Dietrich and Spiekermann (2020).</p>
+
+<h3 id="DeliIndeUndeCompBoos">4.5 Deliberation: independence underminer or competence booster?</h3>
+
+<p>
+Two intuitions compete: does deliberation primarily threaten
+collective epistemic success, by reducing judgmental independence,
+<em>or</em> primarily increase epistemic success, by raising
+individual competence?</p>
+
+<p>
+The first intuition needs nuancing. Deliberation reduces
+<em>unconditional</em> judgmental independence, by adding common
+sources of votes; see
+ <a href="#DiveAffeBothDeciMakiStagDeliAggr">Section 3.4</a>
+ and
+ <a href="#fig4">Figure 4</a>.<sup>[<a href="notes.html#note-18" id="ref-18">18</a>]</sup>
+ Thus, deliberation further undermines Condorcet&rsquo;s (naive)
+Unconditional Independence axiom. But deliberation does not undermine
+the Conditional Independence axiom of the Conditional and the
+Competence-Sensitive Jury Theorem, provided one conditionalises on
+common
+ causes.<sup>[<a href="notes.html#note-19" id="ref-19">19</a>]</sup></p>
+ 
+<p>
+Turning to the second intuition, deliberation certainly affects
+competence. Since deliberation tends to widen the basis of judgments
+(see again
+ <a href="#DiveAffeBothDeciMakiStagDeliAggr">Section 3.4</a>),
+ the effect on competence tends to be positive, as one may conjecture.
+All three competence axioms considered in
+ <a href="#ThreJuryTheo">Section 2</a>
+ would then hold more easily with deliberation than without. This
+conjecture is illustrated in
+ <a href="#fig5">Figure 5</a>.</p>
+ 
+<div class="figure avoid-break wide" id="fig5">
+<img alt="three plots a, b, and c: link to extended description below" src="Fig5.png" />
+
+<p>
+<span class="figlabel">Figure 5.</span> Three examples where
+deliberation improves competence. Grey: pre-deliberation. Black:
+post-deliberation. [An
+ <a href="figdesc.html#fig5">extended description of Figure 5</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+Plots a, b and c refer to the competence axiom of Condorcet&rsquo;s,
+the Conditional, and the Competence-Sensitive Jury Theorem,
+respectively. In all three plots, the competence axiom is violated
+pre-deliberation, and holds post-deliberation&mdash; an extreme
+example where deliberation is of vital importance. In Plot a,
+deliberation lets general competence \(P(R_{i})\) move from 0.4 to 0.8
+post-deliberation, so that Condorcet&rsquo;s competence axiom UC
+becomes satisfied. In Plots b and c, the distribution of specific
+competence across facts moves upwards, making the respective
+competence axiom satisfied.</p>
+
+<p>
+To be clear, deliberation sometimes distorts judgments. Sometimes
+misleading evidence and other judgment-deteriorating sources are
+shared, opinion cascades occur, bad opinion leaders emerge, etc.
+(e.g., Sunstein &amp; Hastie 2014). So the hypothesis that
+deliberation improves competence should be qualified: deliberation
+<em>usually</em> improves judgments, thereby helping competence axioms
+like UC, CC and TC become satisfied.</p>
+
+<h3 id="GrouDepeIndiComp">4.6 Group-dependent individual competence</h3>
+
+<p>
+The increasing-reliability hypothesis is threatened not only if
+additional group members are less competent than existing members
+ (<a href="#CompHeteThreWisdCrow">Section 3.2</a>),
+ but also if <em>existing</em> members lose competence when the group
+grows too much. Firstly, the deliberation process, to which members
+partly owe their competence
+ (<a href="#DeliIndeUndeCompBoos">Section 4.5</a>),
+ can become less fruitful: some bodies are too large for successful
+deliberation. Secondly, large &ldquo;anonymous&rdquo; bodies can
+demotivate members, who feel individually less responsible and spend
+less effort on forming correct judgments. The opposite effect is also
+imaginable: adding members can improve deliberation and motivation.
+Bodies can be too small, not just too big (see the debates over
+optimal parliament size, e.g., Elster 2012).</p>
+
+<p>
+All this puts a fundamental assumption of jury models into question:
+the assumption that someone&rsquo;s judgment and thus competence are
+group-independent, hence, for instance, are the same in a 3-member
+group (with small-scale deliberation) as in a 333-member group (with
+large-scale deliberation). This denies any effects of group dynamics
+on judgments.</p>
+
+<p>
+To model group-dependence, the event \(R_{i}\) that an individual
+\(i\) is correct should be replaced by group-size-dependent
+correctness events \(R_{i,n}\) for all group sizes \(n\) such that
+\(n\geq i\) (i.e., such that the group includes \(i\)). An individual
+\(i\)&rsquo;s competence, general or specific, becomes a
+group-size-dependent quantity, given by \(P(R_{i,n})\) or
+\(P(R_{i,n}|\mathbf{x})\), respectively. One might hypothesize that
+competence is an initially increasing and subsequently falling
+function of \(n\), which therefore peaks at some &ldquo;individually
+optimal&rdquo; group size \(n_{i}\). If one replaces the ordinary
+assumption of group-independent judgments by the latter hypothesis,
+then the increasing-reliability conclusion of jury theorems will still
+hold when restricted to group sizes \(n\) of at most the individual
+optimum \(n_{i}\) of each individual group member \(i=1,\ldots,n\).
+The <em>collectively</em> optimal group size can exceed the individual
+optima of all individuals \(i\), because the merits of drawing on many
+minds can outweigh individual competence losses. But the collective
+optimum can become finite, against the increasing-reliability
+hypothesis.</p>
+
+<h3 id="EpisStraVoti">4.7 Epistemic-strategic voting</h3>
+
+<p>
+Conventional jury models implicitly assume that individuals share the
+same objective of a correct collective decision. Surprisingly, this
+assumption does not rule out strategic voting. To the contrary, voters
+may vote against what they believe to be correct <em>in order</em> to
+facilitate a correct aggregate decision.</p>
+
+<p>
+This can be called <em>epistemic</em>-strategic voting, because voters
+strategise out of a shared epistemic objective rather than conflicting
+interests. How is this even possible? Suppose a 9-member jury reaches
+a guilty-or-innocent verdict by majority. A juror reasons:</p>
+
+<blockquote>
+
+<p>
+I believe in guilt. My vote only makes a difference if it is pivotal,
+i.e., if my jury colleagues are split 4:4. So, let me assume this
+split. But then four (competent) colleagues believe in innocence. So
+innocence is more likely than I thought. The higher probability of
+innocence justifies an &ldquo;innocent&rdquo; verdict. So I shall vote
+<em>innocent</em>.</p>
+</blockquote>
+
+<p>
+She votes on the basis, not of her beliefs, but her conditional
+beliefs assuming pivotality. If everyone reasons alike, no one reveals
+their genuine judgment. Votes reflect no private information or
+insights, and collective decision are arbitrary. Defendants are
+unanimously acquitted even when everyone believes in guilt.</p>
+
+<p>
+Fortunately, this absurd situation is no more stable than sincere
+voting. Why? The strategic reasoning leading to non-sincere voting
+cannot be universalised: it assumes others vote sincerely. Indeed, our
+example juror assumes her colleagues are sincere in her &ldquo;But
+then&rdquo; inference.</p>
+
+<p>
+Epistemic-strategic voting has been addressed game-theoretically,
+using jury models enriched by voters&rsquo; private information; see
+Austen-Smith and Banks (1996), Feddersen and Pesendorfer (1999), Peleg
+and Zamir (2012), Bozbay, Dietrich, and Peters (2014), and many
+others. The generic finding is that sincere voting by everyone is no
+(Nash) equilibrium, but that the rationality of sincere voting can be
+restored by carefully adjusting the aggregation rule, raising a
+problem of procedure (&ldquo;mechanism&rdquo;) design rather than
+group
+ design.<sup>[<a href="notes.html#note-20" id="ref-20">20</a>]</sup></p>
+ 
+<p>
+But is epistemic-strategic reasoning and voting really plausible?
+There are three very different objections. Firstly, voters may be
+boundedly rational and unable (or unwilling) to strategise. Secondly,
+variations of the decision procedure, possibly introducing pre-voting
+deliberation can make strategic voting less likely (e.g., Coughlan
+2000; Gerardi &amp; Yariv 2007). Thirdly, and most interestingly,
+sincere voting becomes perfectly rational under a richer and arguably
+more realistic picture of voter motivation, where the narrowly
+consequentialist concern for correct collective outcomes is replaced
+or complemented by a concern about the act of voting itself, often an
+intrinsic concern for being sincere, or for expressing one&rsquo;s
+opinion, or for complying with norms of sincerity. The literature
+contrasts instrumental and expressive voting (Brennan &amp; Lomasky
+1993; Schuessler 2000). Why do expressive concerns (even if just
+small) easily crowd out instrumental concerns, so that sincerity
+becomes rational? The reason is that, in sufficiently large groups,
+the probability of being pivotal, i.e., of affecting the outcome, is
+small, so that the instrumental concern almost cancels out when
+solving the voter&rsquo;s optimisation problem. So, strategic voting
+may well be a game-theoretic artifact of ascribing purely instrumental
+preferences to voters.</p>
+
+<h2 id="OtheTypeJuryTheo">5. Other Types of Jury Theorems</h2>
+
+<p>
+The jury theorems discussed above apply to binary choices and majority
+rule. This section defines the epistemic aggregation problem more
+generally
+ (<a href="#EpisAggrProbGene">Section 5.1</a>),
+ and then discusses jury theorems for aggregating votes over multiple
+alternatives
+ (<a href="#SociChoiBetwMultAlte">Section 5.2</a>),
+ aggregating estimations
+ (<a href="#AggrEsti">Section 5.3</a>),
+ aggregating evaluations or grades
+ (<a href="#AggrEvalGrad">Section 5.4</a>),
+ aggregating judgments over interconnected propositions
+ (<a href="#JudgAggrOverInteProp">Section 5.5</a>),
+ and aggregating votes of voters tracking individual facts
+ (<a href="#JuryTheoForVoteTracIndiFact">Section 5.6</a>).
+ Many theorems reach the implausible infallibility conclusion; the
+critical analysis of this conclusion
+ (<a href="#ThreJuryTheo">Section 2</a>)
+ continues to apply.</p>
+
+<h3 id="EpisAggrProbGene">5.1 The epistemic aggregation problem more generally</h3>
+
+<p>
+An epistemic aggregation problem has the following components.</p>
+
+<p>
+<strong>Alternatives, votes, and aggregation.</strong> Let
+\(\mathcal{A}\) be a non-empty set of &ldquo;alternatives&rdquo; in
+the most general sense&mdash;e.g., choice alternatives, belief or
+judgment sets, or value assignments to options. A decision-making
+group selects one alternative based on the members&rsquo; votes,
+applying some <em>aggregation rule</em> \(F\) that maps each profile
+\((a_{1},\ldots,a_{n})\in\mathcal{A}^{n}\) of any number \(n\geq 1\)
+of votes to a decision \(F(a_{1},\ldots,a_{n})\in\mathcal{A}\) (or
+perhaps a subset \(F(a_{1} ,\ldots,a_{n})\subseteq\mathcal{A}\), to
+allow for indeterminate
+ outcomes).<sup>[<a href="notes.html#note-21" id="ref-21">21</a>]</sup>
+ For example, for majority rule (assuming \(\mathcal{A}\) contains
+just two alternatives), \(F(a_{1},\ldots,a_{n})\) is the alternative
+in \(\mathcal{A}\) occurring more than \(n/2\) times among
+ \(a_{1},\ldots,a_{n}\).<sup>[<a href="notes.html#note-22" id="ref-22">22</a>]</sup></p>
+ 
+<p>
+Aggregation problems in which voter inputs and collective decisions
+differ in type (rather than both belonging to the same set
+\(\mathcal{A}\)) can also be of
+ interest.<sup>[<a href="notes.html#note-23" id="ref-23">23</a>]</sup>
+ We set them aside here.</p>
+
+<p>
+<strong>Correctness, state, and votes.</strong> Each alternative
+possesses a &ldquo;true&rdquo; or &ldquo;objective&rdquo; value,
+quality, or correctness level. If alternatives are beliefs or belief
+sets, value usually depends on truth; if alternatives are evaluations
+of objects, value might depend on distance to correct evaluations;
+etc. Value is determined by an unknown &ldquo;state&rdquo;. Let
+\(\mathcal{S}\) be the non-empty set of <em>possible states</em>. The
+votes of individuals \(1, 2, \ldots\) and the state are interpreted as
+the outcomes of random variables \(\mathbf{v}_{1},\) \(\mathbf{v}_{2},
+\ldots\) with range \(\mathcal{A}\) and \(\mathbf{s}\) with range
+\(\mathcal{S}\), respectively. One can be more or less
+sophisticated:</p>
+
+<ul class="jfy">
+
+<li>The <em>&ldquo;simple&rdquo;</em> standard of correctness
+distinguishes between just two correctness levels,
+&ldquo;correct&rdquo; and &ldquo;incorrect&rdquo;, and identifies the
+state with the (single) correct alternative:
+\(\mathcal{S}=\mathcal{A}\). Epistemic performance is measured by
+correctness probability, i.e., probability that the judgment matches
+the state. So, individual \(i\)&rsquo;s performance is measured by
+\(P(\mathbf{v}_{i}=\mathbf{s})\), and collective performance by
+
+\[P(F(\mathbf{v}_{1},\ldots,\mathbf{v}_{n})=\mathbf{s}).\]
+</li>
+
+<li>Under a more general (&ldquo;graded&rdquo;) standard of
+correctness, each pair \((a,s)\) of an alternative and a state is
+assigned a number \(V(a,s)\), the value or correctness degree of \(a\)
+in state \(s\). This defines a <em>value function</em> \(V\) from
+\(\mathcal{A}\times\mathcal{S}\) to \(\mathbb{R}\). Epistemic
+performance is measured by expected decision value: \(\mathbb{E}
+(V(\mathbf{v}_{i},\mathbf{s}))\) measures individual \(i\)&rsquo;s
+performance,
+\(\mathbb{E}(V(F(\mathbf{v}_{1},\ldots,\mathbf{v}_{n}),\mathbf{s}))\)
+measures collective performance. This general case is more flexible.
+It can, for instance, distinguish between type-1 errors (like false
+convictions) and type-2 errors (like false acquittals). The simple
+standard of correctness is a special
+ case.<sup>[<a href="notes.html#note-24" id="ref-24">24</a>]</sup></li>
+ </ul>
+
+<p>
+<strong>The problem.</strong> While much of epistemic social choice
+theory seeks to optimize the aggregation rule \(F\) given a fixed
+group size \(n\), jury theorems are an exception. They fix \(F\) and
+vary \(n\), addressing how collective epistemic
+performance&mdash;measured by correctness probability or more
+generally expected decision value&mdash;depends on group size.
+Notorious questions are: does performance increase in group size
+(increasing reliability) or peak at some finite group size? And how
+well does the collective perform in the limit?</p>
+
+<h3 id="SociChoiBetwMultAlte">5.2 Social choice between multiple alternatives</h3>
+
+<p>
+One can state jury theorems that apply at once to several aggregation
+rules and choice problems, showing that almost nothing hinges on the
+classic focus on binary choice and majority rule (Pivato 2017). More
+concretely, List and Goodin (2001) analyse plurality rule over some
+finite set of alternatives
+ \(\mathcal{A}\).<sup>[<a href="notes.html#note-25" id="ref-25">25</a>]</sup>
+ Adopting the simple standard of correctness (see
+ <a href="#EpisAggrProbGene">Section 5.1</a>),
+ they show that the plurality outcome is asymptotically infallible
+under essentially classical assumptions of independence, homogeneity,
+and competence. Specifically, given a correct alternative
+\(a\in\mathcal{A}\), the individuals must vote following independent
+and identical probabilities, and vote for the correct alternative
+\(a\) with higher probability than for each incorrect alternative.
+Interestingly, this correctness probability need not exceed 0.5, but
+only exceed the probability of each incorrect vote. One may conjecture
+that under these assumptions the plurality outcome is not only
+asymptotically infallible, but also increasingly reliable.</p>
+
+<h3 id="AggrEsti">5.3 Aggregating estimates</h3>
+
+<p>
+Assume the group must estimate or predict some real-valued quantity,
+such as inflation, income inequality, or global temperature. Here,
+\(\mathcal{A}\) is a real interval, e.g., \(\mathcal{\mathbb{R}}\) or
+\([0,1]\), containing the possible estimates. Let the group aggregate
+members&rsquo; estimates by taking their average (rather than their
+median, as in Galton&rsquo;s 1907 classic paper on the wisdom of
+crowds). Formally,</p> 
+\[F(x_{1},\ldots,x_{n})=\frac{1}{n}\sum_{i=1}^{n}x_{i}\]
+
+<p>
+for any group size \(n\) and any individual estimates
+\(x_{1},\ldots,x_{n}\in\mathcal{A}\). The state \(\mathbf{s}\) is the
+true amount in \(\mathcal{A}\) (\(=\mathcal{S}\)). Assume that,
+conditional on the state \(\mathbf{s}\), the individual estimates
+\(\mathbf{v}_{1},\mathbf{v}_{2},\ldots\) are</p>
+
+<ol type="i">
+
+<li>independent,</li>
+
+<li>identically distributed, and</li>
+
+<li>correct in
+ expectation.<sup>[<a href="notes.html#note-26" id="ref-26">26</a>]</sup></li>
+ </ol>
+
+<p>
+Condition (i) and (ii) reflect familiar ideas of voter independence
+and homogeneity. Condition (iii) captures competence as unbiasedness.
+Then, by Kolmogorov&rsquo;s (1930) (strong) Law of Large Numbers, the
+average estimate \(F(\mathbf{v}_{1},\ldots,\mathbf{v}_{n})\) converges
+to the true state \(\mathbf{s}\) with probability one as \(n\) tends
+to
+ infinity.<sup>[<a href="notes.html#note-27" id="ref-27">27</a>]</sup>
+ This implies asymptotic
+ infallibility.<sup>[<a href="notes.html#note-28" id="ref-28">28</a>]</sup></p>
+ 
+<p>
+This turns the Law of Large Numbers into a jury theorem for
+aggregating estimates. Its independence and homogeneity assumptions
+could be significantly
+ weakened.<sup>[<a href="notes.html#note-29" id="ref-29">29</a>]</sup>
+ But the (suspicious) unbiasedness condition is essential, raising
+concerns about this jury theorem.</p>
+
+<h3 id="AggrEvalGrad">5.4 Aggregating evaluations or grades</h3>
+
+<p>
+Some option, prospect, or other object is being evaluated
+(&ldquo;graded&rdquo;) in terms of some criterion. A painting might be
+evaluated in terms of beauty: is it &ldquo;beautiful&rdquo;,
+&ldquo;neutral&rdquo;, or &ldquo;ugly&rdquo;? An academic applicant
+might be graded in terms of research skills. Let \(\mathcal{A}\) be a
+finite set of possible grades, linearly ordered from
+&ldquo;highest&rdquo; to &ldquo;lowest&rdquo;. The state
+\(\mathbf{s}\) is the true value or grade in \(\mathcal{A}\)
+(\(=\mathcal{S}\)). Each group member assigns a grade. The resulting
+grading profile \((a_{1},\ldots,a_{n})\) is aggregated into the
+<em>median grade</em> \(a=F(a_{1},\ldots,a_{n})\), i.e., the middle
+grade after putting \(a_{1}, \ldots, a_{n}\) into a weakly increasing
+order \(a_{1}^{\prime}, \ldots, a_{n}^{\prime}\) (to ensure medians
+exist, let \(n\) be odd). If, for instance, a painting is evaluated
+twice as &ldquo;beautiful&rdquo; and once as &ldquo;ugly&rdquo;, where
+\(n=3\), then the median evaluation is &ldquo;beautiful&rdquo;. Given
+an instance \(s\) of the state, consider a voter \(i\)&rsquo;s
+correctness probability \(P(\mathbf{v}_{i}=s|s)\), over-valuation
+probability \(P(\mathbf{v}_{i}&gt;s|s)\), and under-valuation
+probability \(P(\mathbf{v}_{i}&lt;s|s)\). The absolute difference
+between the over- and under-valuation probability defines
+\(i\)&rsquo;s <em>bias</em>, i.e., tendency to over- or under-value.
+Morreau (2021) proves a &ldquo;grading-jury theorem&rdquo;: if,
+conditional on any state, the grades
+\(\mathbf{v}_{1},\mathbf{v}_{2},\ldots\) are (i) independent, (ii)
+homogeneously distributed, and (iii) sufficiently unbiased (i.e., with
+bias below the correctness probability), then the correctness
+probability of the median evaluation increases in (odd) group size and
+converges to
+ certainty.<sup>[<a href="notes.html#note-30" id="ref-30">30</a>]</sup>
+ The correctness probability can become very small, provided it
+exceeds the bias. Having small bias seems particularly difficult if
+the true value is very high or very low, since extreme values are
+easily under- or over-estimated.</p>
+
+<h3 id="JudgAggrOverInteProp">5.5 Judgment aggregation over interconnected propositions</h3>
+
+<p>
+In judgment aggregation, a group forms yes/no judgments on several
+propositions (List &amp; Pettit 2002; Dietrich 2007; and see the entry
+on
+ <a href="../belief-merging/">belief merging</a>).
+ The group might judge whether economic growth will increase
+(proposition \(p\)), whether some climate goals will be missed
+(proposition \(q\)), and whether the former implies the latter
+(proposition \(p\rightarrow q\)). The three judgments are
+interconnected: one cannot consistently accept \(p\), \(p\rightarrow
+q\), and \(\lnot q\). Let alternatives be complete and consistent
+judgment sets; in the example,</p> 
+\[\mathcal{A}=\{\{p,p\rightarrow q,q\},\{\lnot p,p\rightarrow q,q\},\ldots\}.\]
+
+<p>
+The state \(\mathbf{s}\) is the <em>correct</em> judgment set in
+\(\mathcal{A}\) (\(=\mathcal{S}\)), containing the true propositions.
+Someone&rsquo;s competence can vary across propositions. The
+propositions on which someone is competent, i.e., likely to judge the
+truth value correctly, form her <em>area of competence</em>.</p>
+
+<p>
+Epistemically successful judgment-aggregation rules tend to rely on
+individual judgments where individuals are competent. How, in the
+example, should the group judge whether \(q\), i.e., when should the
+collective judgment set contain \(q\) and when \(\lnot q\)? The
+&ldquo;conclusion-based procedure&rdquo; adopts the majority judgment
+on whether \(q\). The &ldquo;premise-based procedure&rdquo; adopts the
+logical implication of the majority judgments on whether \(p\) and
+whether \(p\rightarrow
+ q\).<sup>[<a href="notes.html#note-31" id="ref-31">31</a>]</sup>
+ Which of these two prominent procedures is more likely to find out
+the truth about \(q\) depends, roughly speaking, on whether
+individuals are primarily competent on \(q\) or primarily competent on
+\(p\) and \(p\rightarrow q\). The situation gets complicated if
+individuals have different areas of competence.</p>
+
+<p>
+Further complications arise if not only correctness on \(q\), but also
+correctness on \(p\) and \(p\rightarrow q\) matter. Technically, this
+refines the standard of correctness by which judgment sets in
+\(\mathcal{A}\) are evaluated, i.e., the epistemic
+ objective.<sup>[<a href="notes.html#note-32" id="ref-32">32</a>]</sup>
+ Being correct about \(p\) and \(p\rightarrow q\) may matter in
+itself. Alternatively, judgments about \(p\) and \(p\rightarrow q\)
+may count as reasons for the judgment about \(q\), and it may matter
+to be right about \(q\) <em>for correct reasons</em>. Reasons or
+justifications matter in many real examples. For example, courts
+should not only make correct sentences (convict or acquit), but also
+justify them correctly in terms of facts and laws.</p>
+
+<p>
+Jury theorems capturing these and other insights are developed in List
+(2005) and Bovens and Rabinowicz (2006).</p>
+
+<h3 id="JuryTheoForVoteTracIndiFact">5.6 Jury theorems for voters tracking individual facts</h3>
+
+<p>
+Ordinary jury theorems assume the classic paradigm of epistemic
+democracy: collective decisions should be correct, and individuals
+vote for what they believe to be correct. But collective correctness
+can emerge even if voters do not pursue it. For instance, decisions
+can serve the collective interest even if voters vote for what they
+believe serves their personal interest. This is the message of
+<em>jury theorems for voters tracking individual facts</em>. They
+follow a semi-epistemic paradigm of democracy: collective decisions
+should still be correct, but voters express judgments about individual
+facts.</p>
+
+<p>
+Within this paradigm, what vote is correct depends on the individual.
+The rationale could be that votes express judgments about
+agent-indexed facts, for instance about which alternative is best
+<em>for oneself</em>, i.e., serves <em>one&rsquo;s own</em> interest.
+Obviously, correctness of judgments like &ldquo;option <em>X</em> is
+in <em>my</em> interest&rdquo; is voter-dependent. An entirely
+different rationale for voter-dependent correctness is that
+correctness facts are subjective&mdash;a meta-ethical thesis sometimes
+advanced for normative facts. Either way, an individual might not know
+with certainty which alternative is individually correct (e.g., serves
+their own interest or is subjectively correct). Individual competence,
+in this framework, is the ability to track one&rsquo;s own correctness
+fact.</p>
+
+<p>
+Which truth does <em>the group</em> track in its aggregate decision?
+The collective correctness standard combines the individual standards.
+Collective correctness could, for instance, be defined as correctness
+<em>for most
+ individuals</em>.<sup>[<a href="notes.html#note-33" id="ref-33">33</a>]</sup>
+ The natural procedure to track this collective truth is majority
+voting (assuming there are just two alternatives). Still, majority
+outcomes may be collectively incorrect, as individuals may cast
+individually incorrect votes. Yet, under some stylized assumptions,
+including broadly Condorcetian competence and independence
+assumptions, majority voting can generate increasingly reliable and
+possibly asymptotically infallible outcomes (see theorems conjectured
+by Miller 1986 and List &amp; Spiekermann 2016).</p>
+
+<p>
+But this standard of collective correctness can be questioned. It
+rests solely on <em>how often</em> an alternative is individually
+correct. Yet it might also matter <em>how strongly</em>
+someone&rsquo;s correctness standard (e.g., her welfare) is satisfied
+or violated. This becomes evident in concrete
+ examples.<sup>[<a href="notes.html#note-34" id="ref-34">34</a>]</sup>
+ To account for degrees, let a correctness standard be given by a
+value function \(V\), assigning a value or correctness degree to each
+alternative, formally \(V:\mathcal{A}\rightarrow\mathbb{R}\). If
+\(V_{1},V_{2},\ldots\) are the (unknown) value functions of the
+individuals \(1,2,\ldots\), respectively, how valuable or correct are
+alternatives <em>collectively</em>? Under an additive approach, the
+collective value function is \(V_{1}+\cdots+V_{n}\). If individual
+value represents individual welfare or interest, then such additive
+collective value represents utilitarian collective welfare; but
+nothing hinges on a welfarist interpretation of value. An alternative
+in \(\mathcal{A}\) is now correct (individually or collectively) if it
+maximises the relevant value function. Here collective correctness no
+longer reduces to correctness for <em>most</em> individuals.
+Pivato&rsquo;s (2016) <em>statistical utilitarianism
+theorem</em>&mdash;initially a theorem about making approximately
+utilitarian-optimal decisions&mdash;can be interpreted as a jury
+theorem for individual correctness of this graded kind and collective
+correctness of additive
+ kind.<sup>[<a href="notes.html#note-35" id="ref-35">35</a>]</sup></p>
+ 
+<p>
+Jury theorems with voters tracking individual facts depart from
+ordinary jury frameworks and classic epistemic democracy in two
+fundamental ways. First, different voters track different
+&ldquo;truths&rdquo;, against the epistemic conception of democracy.
+Second, the collectively correct alternative depends on group size
+\(n\), hence is a moving target that changes as voters are added.
+Still, such theorems make a remarkable point: voting in pursuit of the
+individual good can create the collective good, as if through an
+invisible hand. Democracy finds the collective truth even if voters
+search for different, purely individual, truths. But does democracy
+find the collective truth <em>more easily</em> if voters express
+judged individual truth or judged collective truth? This is an open
+question for epistemic democracy.</p>
+
+<h2 id="BackSeleAppl">6. Background and Selected Applications</h2>
+
+<h3 id="JuryTheoDemoTheo">6.1 Jury theorems and democratic theory</h3>
+
+<p>
+Whether masses can be wise and should be entrusted with important
+decisions is a question with long philosophical pedigree. The Athenian
+democracy increased the decision body compared to its oligarchic
+competitors, demonstrating that such an enlargement can engender
+collective epistemic success (Ober 2008; 2013). Against this backdrop,
+the philosophical debate about the epistemic performance of democracy
+began. Aristotle, for instance, despite being generally sceptical of
+the rule by the people, concedes the possibility of group wisdom
+(Aristotle, <em>Politics</em>: 1281a11; Waldron 1995), though this
+reading is contested (Cammack 2013; Lane 2013).</p>
+
+<p>
+While the epistemic advantages of drawing on many minds had been
+debated long before Condorcet, he is the first to develop a
+probabilistic framework akin to modern jury theorems and to focus
+explicitly on voting mechanisms. Condorcet&rsquo;s remarkable advance
+may also have rubbed off on his contemporaries. Jean-Jacques
+Rousseau&rsquo;s argument for popular rule was influenced by
+Condorcet&rsquo;s thought and resembles an informal statement of his
+theorem, according to an influential article by Grofman and Feld
+(1988) (but see Wyckoff 2011 for a critical take on that historical
+speculation).</p>
+
+<p>
+While Condorcet&rsquo;s jury theorem largely falls into oblivion after
+his death, the mathematical take on aggregation which he had initiated
+remains. Francis Galton, for example, stumbles over useful data for
+testing the epistemic performance of belief aggregation when visiting
+a cattle fair in 1906. Galton observes a weight-judging competition:
+participants were asked to guess the slaughtering weight of an ox,
+submitting their guesses in writing. To Galton&rsquo;s surprise, the
+median guess was within 0.8% of the actual weight, beating by far the
+individual judgments. While Galton does not directly invoke a jury
+theorem, he notes that</p>
+
+<blockquote>
+
+<p>
+the middlemost estimate expresses the <em>vox populi</em>, every other
+estimate being condemned as too low or too high by a majority of the
+voters. (Galton 1907)</p>
+</blockquote>
+
+<p>
+Condorcet is a founding father of social choice theory, not only
+because of his jury theorem. When Duncan Black (1958) famously
+rediscovers his work, his jury theorem receives new attention in
+political science and democratic theory (Grofman 1975 seems to have
+coined the term &ldquo;Condorcet Jury Theorem&rdquo;). However, the
+initial reception is not friendly: Black (1958: 163) dismisses the
+idea of an independent standard of correctness in elections and John
+Rawls (1971 [1999]: 315) doubts that votes could be sufficiently
+independent. Brian Barry (1965 [2010: 205&ndash;6]) is perhaps the
+first twentieth-century political theorist to affirm the importance of
+the theorem for democratic theory.</p>
+
+<p>
+Contemporary democratic theory remains divided on jury theorems.
+Broadly speaking, the field distinguishes between instrumental and
+procedural arguments for democracy (Dworkin 1987; List &amp; Goodin
+2001; Anderson 2009). Recent years have seen increasing interest in
+instrumental, and especially epistemic arguments. But even among
+epistemic democrats (early proponents are Cohen 1986; Coleman &amp;
+Ferejohn 1986; see Schwartzberg 2015 for an overview), the merits of
+jury theorems are controversial. Some epistemic democrats regard jury
+theorems as central tools for justifying democracy (e.g., List &amp;
+Goodin 2001; Landemore 2013; Dietrich &amp; Spiekermann 2013a; Goodin
+&amp; Spiekermann 2018). Others disagree. Henry S. Richardson (2002),
+for example, rejects Condorcet&rsquo;s independence assumption. David
+Estlund instead rejects Condorcet&rsquo;s competence assumption
+(Estlund 2008: ch. 12) and dismisses Condorcet&rsquo;s Jury Theorem as
+providing &ldquo;too shaky a basis&rdquo; (Estlund 2008: 223).
+Elizabeth Anderson also objects to Condorcet&rsquo;s implausible
+assumptions and conclusions (Anderson 2006).</p>
+
+<p>
+Such debates in political philosophy were hampered by a focus on
+Condorcet&rsquo;s initial version of the theorem with its problematic
+assumptions and conclusions (see
+ <a href="#ThreJuryTheo">Section 2</a>);
+ these objections often lose weight for other jury theorems.</p>
+
+<p>
+Grofman and Feld fan worries about deliberation by attributing to
+Rousseau the view that &ldquo;each voter is polled about his or her
+independently reached choice, without any group deliberation&rdquo;
+(1988: 570). Unsurprisingly, since many democratic theorists see
+public deliberation as instrumentally or intrinsically valuable, the
+proposal to sacrifice deliberation for independence was not met with
+enthusiasm. Recent debates in democratic theory, however, have turned
+to conditional notions of independence which can better accommodate
+deliberation and fruitful exchange, thereby also avoiding the
+controversial infallibility conclusion (cf.
+ <a href="#ThreJuryTheo">Section 2</a>
+ and
+ <a href="#DeliIndeUndeCompBoos">Section 4.5</a>).</p>
+ 
+<p>
+Some epistemic democrats worry that an exaggerated focus on jury
+theorems (and aggregation more generally) suppresses other important
+epistemic mechanisms, such as democratic experimentation (Anderson
+2006; Fuerstein 2008), individual learning as opposed to aggregation
+(M&uuml;ller 2018), distributed search, deliberation, and learning.
+Certainly, jury theorems are only <em>one</em> building block; a
+comprehensive epistemic analysis of collective decision-making also
+needs models of such other mechanisms. Nevertheless, jury theorems can
+assist the epistemic analysis of institutions and help assess
+political representation, bicameralism, epistemic division of labour,
+political cue taking, the merits of diversity, and the dangers of
+excessive bias, to name just a few applications (Goodin &amp;
+Spiekermann 2018). Jury theorems have also been used to analyse legal
+institutions, including the importance of legal precedent and, of
+course, the (in)correctness of jury verdicts (e.g., Vermeule 2009;
+Feddersen &amp; Pesendorfer 1998; Coughlan 2000).</p>
+
+<h3 id="JuryTheoSociEpis">6.2 Jury theorems and social epistemology</h3>
+
+<p>
+Social epistemology can be roughly divided into epistemology
+<em>of</em> groups and epistemology <em>in</em> groups (Dietrich and
+Spiekermann forthcoming). Jury theorems matter to the former, and
+indirectly also to the latter.</p>
+
+<p>
+Epistemology <em>of</em> groups analyses how groups can be knowers and
+how they perform as knowers. A lively debate among applied social
+epistemologists explores how (and how well) different institutions
+promote group knowledge. Alvin Goldman&rsquo;s seminal <em>Knowledge
+in a Social World</em> (1999), for example, draws on Condorcet&rsquo;s
+Jury Theorem in his social-epistemological analysis of democracy. The
+debate extends to courts (Spiekermann &amp; Goodin 2012; Sunstein
+2009; Vermeule 2009), to the internet (Masterton, Olsson and Angere
+2016), and even to knowledge of the scientific community and its
+perception by the wider public (Hahn, Harris, &amp; Corner 2016).
+Stretching the boundaries of social epistemology further, one could
+even say that animal decision-making can be more or less conducive to
+group knowledge (e.g., Conradt &amp; List 2009).</p>
+
+<p>
+Jury theorems matter more indirectly to social epistemology
+<em>in</em> groups, especially belief revision under peer
+disagreement. How ought one revise one&rsquo;s beliefs when learning
+the beliefs of others? Many have argued that the number of peers,
+their competence and their independence all matter (Elga 2010; Kelly
+2011; Lackey 2013). Barnett (2019), for example, discusses peer
+disagreement with a &ldquo;group representative&rdquo; who adopts the
+group&rsquo;s majority view. Jury theorems can help approach such
+questions systematically.</p>
+
+<p>
+The jury theorem literature also offers analyses of opinion
+independence in social contexts, distinguishing between different
+notions of independence: <em>causal</em> independence,
+<em>probabilistic</em> (&ldquo;statistical&rdquo;,
+&ldquo;evidential&rdquo;) independence, and <em>reasoning</em>
+independence (a form of autonomy of agents); see
+ <a href="#ProbCommCausVote">Section 2.2 </a>and
+ Lackey (2013). None of these notions entails another, but they are
+often unhelpfully mixed up.</p>
+
+<h3 id="JuryTheoEpisSociChoiTheo">6.3 Jury theorems and epistemic social choice theory</h3>
+
+<p>
+If viewed mathematically, jury theorems belong to epistemic social
+choice theory, a branch of social choice theory (see the entry on
+ <a href="../social-choice/">social choice theory</a>).
+ Social choice theory studies aggregation procedures in groups. Like
+democratic theory, social choice theory has a procedural and an
+epistemic branch. Procedural social choice theorists want procedures
+to be intrinsically &ldquo;democratic&rdquo; or &ldquo;fair&rdquo; to
+individuals; they formulate axiomatic requirements on procedures
+capturing normative principles (such as anonymity or Paretianism) and
+ask which procedure(s) satisfy
+ them.<sup>[<a href="notes.html#note-36" id="ref-36">36</a>]</sup>
+ Epistemic social choice theorists instead want procedures to
+&ldquo;track the truth&rdquo;; they formulate some epistemic criterion
+on outcomes (e.g., high probability of correctness) and analyse
+procedures in terms of how well their outcomes satisfy the
+criterion.</p>
+
+<p>
+Jury theorems fall into the epistemic camp. What distinguishes them
+within epistemic social choice is the focus on decision-body size
+rather than more conventional procedural parameters, such as the
+acceptance threshold in a supermajority rule or the individual weights
+in a weighted voting rule. Jury theorems seek to optimize group size
+<em>given</em> a procedure (e.g., given majority rule), rather than
+optimizing the procedure <em>given</em> a group size. Procedure
+optimisation is sometimes possible analytically. The generic finding
+is that, under a classical independence assumption, the epistemically
+optimal procedure in binary choices is a weighted (simple, super- or
+sub-) majority rule in which a voter&rsquo;s weight is a well-defined
+increasing function of competence (which becomes negative for
+competence below \(\frac{1}{2}\)); see, e.g., Nitzan and Paroush
+(1982), Ben-Yashar and Nitzan (1997), Dietrich (2006), and Pivato
+(2013). Simple majority rule can be far from optimal; in suitable
+circumstances, it is optimal if voters are <em>equally</em> competent
+and options are initially <em>equally</em> likely correct.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging">
+
+<li>Anderson, Elizabeth, 2006, &ldquo;The Epistemology of
+Democracy&rdquo;, <em>Episteme</em>, 3(1&ndash;2): 8&ndash;22.
+doi:10.3366/epi.2006.3.1-2.8</li>
+
+<li>&ndash;&ndash;&ndash;, 2009, &ldquo;Democracy: Instrumental vs.
+Non-Instrumental Value&rdquo;, in Thomas Christiano and John Christman
+(eds.), <em>Contemporary Debates in Political Philosophy</em>,
+Chichester: Wiley Blackwell. pp. 213&ndash;227.</li>
+
+<li>Aristotle, <em>The Politics</em> (Cambridge Texts in the History
+of Political Thought), Cambridge: Cambridge University Press,
+1988.</li>
+
+<li>Austen-Smith, David and Jeffrey S. Banks, 1996, &ldquo;Information
+Aggregation, Rationality, and the Condorcet Jury Theorem&rdquo;,
+<em>American Political Science Review</em>, 90(1): 34&ndash;45.
+doi:10.2307/2082796</li>
+
+<li>Barnett, Zach, 2019, &ldquo;Belief Dependence: How Do the Numbers
+Count?&rdquo;, <em>Philosophical Studies</em>, 176(2): 297&ndash;319.
+doi:10.1007/s11098-017-1016-0</li>
+
+<li>Barry, Brian, 1965 [2010], <em>Political Argument</em>, New York:
+Humanities Press. Reprinted Routledge Revivals, New York: Routledge,
+2010.</li>
+
+<li>Ben-Yashar, Ruth C. and Shmuel I. Nitzan, 1997, &ldquo;The Optimal
+Decision Rule for Fixed-Size Committees in Dichotomous Choice
+Situations: The General Result&rdquo;, <em>International Economic
+Review</em>, 38(1): 175&ndash;186. doi:10.2307/2527413</li>
+
+<li>Berend, Daniel and Jacob Paroush, 1998, &ldquo;When Is
+Condorcet&rsquo;s Jury Theorem Valid?&rdquo;, <em>Social Choice and
+Welfare</em>, 15(4): 481&ndash;488. doi:10.1007/s003550050118</li>
+
+<li>Berend, Daniel and Luba Sapir, 2005, &ldquo;Monotonicity in
+Condorcet Jury Theorem&rdquo;, <em>Social Choice and Welfare</em>,
+24(1): 83&ndash;92. doi:10.1007/s00355-003-0293-z</li>
+
+<li>Berg, Sven, 1993, &ldquo;Condorcet&rsquo;s Jury Theorem,
+Dependency among Jurors&rdquo;, <em>Social Choice and Welfare</em>,
+10(1). doi:10.1007/BF00187435</li>
+
+<li>Black, Duncan, 1958, <em>The Theory of Committees and
+Elections</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Boland, Philip J., 1989, &ldquo;Majority Systems and the Condorcet
+Jury Theorem&rdquo;, <em>Journal of the Royal Statistical Society:
+Series D (The Statistician)</em>, 38(3): 181&ndash;189.
+doi:10.2307/2348873</li>
+
+<li>Boland, Philip J., Frank Proschan, and Y. L. Tong, 1989,
+&ldquo;Modelling Dependence in Simple and Indirect Majority
+Systems&rdquo;, <em>Journal of Applied Probability</em>, 26(1):
+81&ndash;88. doi:10.2307/3214318</li>
+
+<li>Bovens, Luc and Wlodek Rabinowicz, 2006, &ldquo;Democratic Answers
+to Complex Questions &ndash; An Epistemic Perspective&rdquo;,
+<em>Synthese</em>, 150(1): 131&ndash;153.
+doi:10.1007/s11229-006-0005-1</li>
+
+<li>Bozbay, &#304;rem, Franz Dietrich, and Hans Peters, 2014,
+&ldquo;Judgment Aggregation in Search for the Truth&rdquo;, <em>Games
+and Economic Behavior</em>, 87: 571&ndash;590.
+doi:10.1016/j.geb.2014.02.007</li>
+
+<li>Brennan, Jason, 2018, &ldquo;Does the Demographic Objection to
+Epistocracy Succeed?&rdquo;, <em>Res Publica</em>, 24(1): 53&ndash;71.
+doi:10.1007/s11158-017-9385-y</li>
+
+<li>Brennan, Geoffrey and Loren Lomasky (eds.), 1993, <em>Democracy
+and Decision: The Pure Theory of Electoral Preference</em>, Cambridge:
+Cambridge University Press. doi:10.1017/CBO9781139173544</li>
+
+<li>Cammack, Daniela, 2013, &ldquo;Aristotle on the Virtue of the
+Multitude&rdquo;, <em>Political Theory</em>, 41(2): 175&ndash;202.
+doi:10.1177/0090591712470423</li>
+
+<li>Cohen, Joshua, 1986, &ldquo;An Epistemic Conception of
+Democracy&rdquo;, <em>Ethics</em>, 97(1): 26&ndash;38.
+doi:10.1086/292815</li>
+
+<li>Coleman, Jules and John Ferejohn, 1986, &ldquo;Democracy and
+Social Choice&rdquo;, <em>Ethics</em>, 97(1): 6&ndash;25.
+doi:10.1086/292814</li>
+
+<li>Condorcet, Marquis De, Marie Jean Antoine Nicolas de Caritat,
+1785, <em>Essai sur l&rsquo;application de l&rsquo;analyse &agrave; la
+Probabilit&eacute; des D&eacute;cisions Rendues &agrave; la
+Pluralit&eacute; des Voix</em>.</li>
+
+<li>Conradt, Larissa and Christian List, 2009, &ldquo;Group Decisions
+in Humans and Animals: A Survey&rdquo;, <em>Philosophical Transactions
+of the Royal Society B: Biological Sciences</em>, 364(1518):
+719&ndash;742. doi:10.1098/rstb.2008.0276</li>
+
+<li>Coughlan, Peter J., 2000, &ldquo;In Defense of Unanimous Jury
+Verdicts: Mistrials, Communication, and Strategic Voting&rdquo;,
+<em>American Political Science Review</em>, 94(2): 375&ndash;393.
+doi:10.2307/2586018</li>
+
+<li>Dietrich, Franz, 2006, &ldquo;General Representation of
+Epistemically Optimal Procedures&rdquo;, <em>Social Choice and
+Welfare</em>, 26(2): 263&ndash;283. doi:10.1007/s00355-006-0094-2</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;A Generalised Model of
+Judgment Aggregation&rdquo;, <em>Social Choice and Welfare</em>,
+28(4): 529&ndash;565. doi:10.1007/s00355-006-0187-y</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, &ldquo;The Premises of
+Condorcet&rsquo;s Jury Theorem Are Not Simultaneously
+Justified&rdquo;, <em>Episteme</em>, 5(1): 56&ndash;73.
+doi:10.3366/E1742360008000233</li>
+
+<li>Dietrich, Franz and Christian List, 2004, &ldquo;A Model of Jury
+Decisions Where All Jurors Have the Same Evidence&rdquo;,
+<em>Synthese</em>, 142(2): 175&ndash;202.
+doi:10.1007/s11229-004-1276-z</li>
+
+<li>Dietrich, Franz and Kai Spiekermann, 2013a, &ldquo;Epistemic
+Democracy with Defensible Premises&rdquo;, <em>Economics and
+Philosophy</em>, 29(1): 87&ndash;120.
+doi:10.1017/S0266267113000096</li>
+
+<li>&ndash;&ndash;&ndash;, 2013b, &ldquo;Independent Opinions? On the
+Causal Foundations of Belief Formation and Jury Theorems&rdquo;,
+<em>Mind</em>, 122(487): 655&ndash;685. doi:10.1093/mind/fzt074</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;Jury Theorems&rdquo;, in
+Miranda Fricker, Peter J. Graham, Peter Henderson, and Nikolai J.L.L.
+Pedersen (eds.), <em>The Routledge Handbook of Social
+Epistemology</em>, New York and London: Routledge, ch. 38, pp.
+386-96.</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming, &ldquo;Social
+Epistemology&rdquo;, in Markus Knauff and Wolfgang Spohn (eds),
+<em>The Handbook of Rationality</em>, Cambridge, MA: MIT Press.</li>
+
+<li>Dryzek, John S. and Christian List, 2003, &ldquo;Social Choice
+Theory and Deliberative Democracy: A Reconciliation&rdquo;,
+<em>British Journal of Political Science</em>, 33(1): 1&ndash;28.
+doi:10.1017/S0007123403000012</li>
+
+<li>Dworkin, Ronald, 1987, &ldquo;What Is Equality - Part 4: Political
+Equality Marshall P. Madison Lecture&rdquo;, <em>University of San
+Francisco Law Review</em>, 22(1): 1&ndash;30.</li>
+
+<li>Elga, Adam, 2010, &ldquo;How to Disagree about How to
+Disagree&rdquo;, in Richard Feldman and Ted A. Warfield (eds.),
+<em>Disagreement</em>, Oxford: Oxford University Press, pp.
+175&ndash;86.</li>
+
+<li>Elster, Jon, 2012, &ldquo;The Optimal Design of a Constituent
+Assembly&rdquo;, in Landemore and Elster 2012: 148&ndash;172.
+doi:10.1017/CBO9780511846427.008</li>
+
+<li>Estlund, David M., 2008, <em>Democratic Authority: A Philosophical
+Framework</em>, Princeton, NJ: Princeton University Press.</li>
+
+<li>Feddersen, Timothy and Wolfgang Pesendorfer, 1998,
+&ldquo;Convicting the Innocent: The Inferiority of Unanimous Jury
+Verdicts under Strategic Voting&rdquo;, <em>American Political Science
+Review</em>, 92(1): 23&ndash;35. doi:10.2307/2585926</li>
+
+<li>&ndash;&ndash;&ndash;, 1999, &ldquo;Elections, Information
+Aggregation, and Strategic Voting&rdquo;, <em>Proceedings of the
+National Academy of Sciences</em>, 96(19): 10572&ndash;10574.
+doi:10.1073/pnas.96.19.10572</li>
+
+<li>Fuerstein, Michael, 2008, &ldquo;Epistemic Democracy and the
+Social Character of Knowledge&rdquo;, <em>Episteme</em>, 5(1):
+74&ndash;93. doi:10.3366/E1742360008000245</li>
+
+<li>Galton, Francis, 1907, &ldquo;Vox Populi&rdquo;, <em>Nature</em>,
+75(1949): 450&ndash;451. doi:10.1038/075450a0</li>
+
+<li>Gaus, Gerald, 2011, &ldquo;On Seeking the Truth (Whatever That Is)
+through Democracy: Estlund&rsquo;s Case for the Qualified Epistemic
+Claim&rdquo;, <em>Ethics</em>, 121(2): 270&ndash;300.
+doi:10.1086/658141</li>
+
+<li>Gerardi, Dino and Leeat Yariv, 2007, &ldquo;Deliberative
+Voting&rdquo;, <em>Journal of Economic Theory</em>, 134(1):
+317&ndash;338. doi:10.1016/j.jet.2006.05.002</li>
+
+<li>Goldman, Alvin I., 1999, <em>Knowledge in a Social World</em>,
+Oxford: Clarendon Press. doi:10.1093/0198238207.001.0001</li>
+
+<li>Goodin, Robert E. and Kai Spiekermann, 2018, <em>An Epistemic
+Theory of Democracy</em>, Oxford: Oxford University Press.
+doi:10.1093/oso/9780198823452.001.0001</li>
+
+<li>Grofman, Bernard, 1975, &ldquo;A Comment on &lsquo;Democratic
+Theory: A Preliminary Mathematical Model&rsquo;&rdquo;, <em>Public
+Choice</em>, 21: 99&ndash;103. doi:10.1007/BF01705949</li>
+
+<li>Grofman, Bernard and Scott L. Feld, 1988, &ldquo;Rousseau&rsquo;s
+General Will: A Condorcetian Perspective&rdquo;, <em>American
+Political Science Review</em>, 82(2): 567&ndash;576.
+doi:10.2307/1957401</li>
+
+<li>Grofman, Bernard, Guillermo Owen, and Scott L. Feld, 1983,
+&ldquo;Thirteen Theorems in Search of the Truth&rdquo;, <em>Theory and
+Decision</em>, 15(3): 261&ndash;278. doi:10.1007/BF00125672</li>
+
+<li>Gunn, Paul, 2019, &ldquo;Against Epistocracy&rdquo;, <em>Critical
+Review</em>, 31(1): 26&ndash;82.
+doi:10.1080/08913811.2019.1609842</li>
+
+<li>Hahn, Ulrike, Adam J. L. Harris, and Adam Corner, 2016,
+&ldquo;Public Reception of Climate Science: Coherence, Reliability,
+and Independence&rdquo;, <em>Topics in Cognitive Science</em>, 8(1):
+180&ndash;195. doi:10.1111/tops.12173</li>
+
+<li>Hitchcock, Christopher and Mikl&oacute;s R&eacute;dei, 2020,
+&ldquo;Reichenbach&rsquo;s Common Cause Principle&rdquo;, in Edward N.
+Zalta (ed.), <em>The Stanford Encyclopedia of Philosophy</em> (Spring
+2020 edition). URL=
+ \(&lt;\)<a href="https://plato.stanford.edu/archives/spr2020/entries/physics-Rpcc/">https://plato.stanford.edu/archives/spr2020/entries/physics-Rpcc/</a>\(&gt;\).</li>
+ 
+<li>Hong, Lu and Scott E. Page, 2009, &ldquo;Interpreted and Generated
+Signals&rdquo;, <em>Journal of Economic Theory</em>, 144(5):
+2174&ndash;2196. doi:10.1016/j.jet.2009.01.006</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, &ldquo;Some Microfoundations of
+Collective Wisdom&rdquo;, in Landemore and Elster 2012: 56&ndash;71.
+doi:10.1017/CBO9780511846427.004</li>
+
+<li>Kaniovski, Serguei, 2010, &ldquo;Aggregation of Correlated Votes
+and Condorcet&rsquo;s Jury Theorem&rdquo;, <em>Theory and
+Decision</em>, 69(3): 453&ndash;468.
+doi:10.1007/s11238-008-9120-4</li>
+
+<li>Karotkin, Drora and Jacob Paroush, 2003, &ldquo;Optimum Committee
+Size: Quality-versus-Quantity Dilemma&rdquo;, <em>Social Choice and
+Welfare</em>, 20(3): 429&ndash;441. doi:10.1007/s003550200190</li>
+
+<li>Kelly, Thomas, 2011, &ldquo;Peer Disagreement and Higher Order
+Evidence&rdquo;, in Alvin I. Goldman and Dennis Whitcomb (eds.),
+<em>Social Epistemology: Essential Readings</em>, New York: Oxford
+University Press, pp. 183&ndash;217.</li>
+
+<li>Kolmogorov, Andrey N., 1930, &ldquo;Sur La Loi Forte Des Grands
+Nombres&rdquo;, <em>Comptes Rendus de l&rsquo;Acad&eacute;mie Des
+Sciences</em>, 191: 910&ndash;912.</li>
+
+<li>Lackey, Jennifer, 2013, &ldquo;Disagreement and Belief Dependence
+Why Numbers Matter&rdquo;, in David Christensen and Jennifer Lackey
+(eds.), <em>The Epistemology of Disagreement: New Essays</em>, Oxford:
+Oxford University Press. pp. 243&ndash;68.</li>
+
+<li>Ladha, Krishna K., 1992, &ldquo;The Condorcet Jury Theorem, Free
+Speech, and Correlated Votes&rdquo;, <em>American Journal of Political
+Science</em>, 36(3): 617&ndash;634. doi:10.2307/2111584</li>
+
+<li>&ndash;&ndash;&ndash;, 1993, &ldquo;Condorcet&rsquo;s Jury Theorem
+in Light of de Finetti&rsquo;s Theorem: Majority-Rule Voting with
+Correlated Votes&rdquo;, <em>Social Choice and Welfare</em>, 10(1).
+doi:10.1007/BF00187434</li>
+
+<li>&ndash;&ndash;&ndash;, 1995, &ldquo;Information Pooling through
+Majority-Rule Voting: Condorcet&rsquo;s Jury Theorem with Correlated
+Votes&rdquo;, <em>Journal of Economic Behavior &amp;
+Organization</em>, 26(3): 353&ndash;372.</li>
+
+<li>Landemore, H&eacute;l&egrave;ne, 2013, <em>Democratic Reason:
+Politics, Collective Intelligence, and the Rule of the Many</em>,
+Princeton, NJ: Princeton University Press.</li>
+
+<li>Landemore, H&eacute;l&egrave;ne and Jon Elster (eds.), 2012,
+<em>Collective Wisdom: Principles and Mechanisms</em>, Cambridge:
+Cambridge University Press. doi:10.1017/CBO9780511846427</li>
+
+<li>Lane, Melissa, 2013, &ldquo;Claims to Rule: The Case of the
+Multitude&rdquo;, in <em>The Cambridge Companion to Aristotle&rsquo;s
+Politics</em>, Marguerite Deslauriers and Pierre Destr&eacute;e
+(eds.), Cambridge: Cambridge University Press, 247&ndash;274.
+doi:10.1017/CCO9780511791581.011</li>
+
+<li>Lippert-Rasmussen, Kasper, 2012, &ldquo;Estlund on Epistocracy: A
+Critique&rdquo;, <em>Res Publica</em>, 18(3): 241&ndash;258.
+doi:10.1007/s11158-012-9179-1</li>
+
+<li>List, Christian, 2005, &ldquo;Group Knowledge and Group
+Rationality: A Judgment Aggregation Perspective&rdquo;,
+<em>Episteme</em>, 2(1): 25&ndash;38. doi:10.3366/epi.2005.2.1.25</li>
+
+<li>&ndash;&ndash;&ndash;, 2013, &ldquo;Social Choice Theory&rdquo;,
+in Edward N. Zalta (ed.), <em>The Stanford Encyclopedia of Philosophy
+(Winter 2013)</em>, URL=
+ \(&lt;\)<a href="https://plato.stanford.edu/archives/win2013/entries/social-choice">https://plato.stanford.edu/archives/win2013/entries/social-choice</a>/\(&gt;\).</li>
+ 
+<li>List, Christian and Robert E. Goodin, 2001, &ldquo;Epistemic
+Democracy: Generalizing the Condorcet Jury Theorem&rdquo;, <em>Journal
+of Political Philosophy</em>, 9(3): 277&ndash;306.
+doi:10.1111/1467-9760.00128</li>
+
+<li>List, Christian and Philip Pettit, 2002, &ldquo;Aggregating Sets
+of Judgments: An Impossibility Result&rdquo;, <em>Economics and
+Philosophy</em>, 18(1): 89&ndash;110.
+doi:10.1017/S0266267102001098</li>
+
+<li>List, Christian and Kai Spiekermann, 2016, &ldquo;The Condorcet
+Jury Theorem and Voter-Specific Truth&rdquo;, in <em>Goldman and His
+Critics</em>, Brian P. McLaughlin and Hilary Kornblith (eds.),
+Hoboken, NJ: John Wiley &amp; Sons, Inc., 219&ndash;233.
+doi:10.1002/9781118609378.ch10</li>
+
+<li>Masterton, George, Erik J. Olsson, and Staffan Angere, 2016,
+&ldquo;Linking as Voting: How the Condorcet Jury Theorem in Political
+Science Is Relevant to Webometrics&rdquo;, <em>Scientometrics</em>,
+106(3): 945&ndash;966. doi:10.1007/s11192-016-1837-1</li>
+
+<li>Miller, Nicholas R., 1986, &ldquo;Information, Electorates, and
+Democracy: Some Extentions and Interpretations of the Condorcet Jury
+Theorem&rdquo;, in Bernard Grofman and Guillermo Owen (eds.),
+<em>Information Pooling and Group Decision Making</em>, Greenwich, CT:
+JAI Press, pp. 173&ndash;192.</li>
+
+<li>Morreau, Michael, 2021, &ldquo;Democracy without Enlightenment: A
+Jury Theorem for Evaluative Voting*&rdquo;, <em>Journal of Political
+Philosophy</em>, 29(2): 188&ndash;210. doi:10.1111/jopp.12226</li>
+
+<li>Muirhead, Russell, 2014, &ldquo;The Politics of Getting It
+Right&rdquo;, <em>Critical Review</em>, 26(1&ndash;2): 115&ndash;128.
+doi:10.1080/08913811.2014.907045</li>
+
+<li>M&uuml;ller, Julian F., 2018, &ldquo;Epistemic Democracy: Beyond
+Knowledge Exploitation&rdquo;, <em>Philosophical Studies</em>, 175(5):
+1267&ndash;1288. doi:10.1007/s11098-017-0910-9</li>
+
+<li>Nitzan, Shmuel and Jacob Paroush, 1982, &ldquo;Optimal Decision
+Rules in Uncertain Dichotomous Choice Situations&rdquo;,
+<em>International Economic Review</em>, 23(2): 289&ndash;297.
+doi:10.2307/2526438</li>
+
+<li>Ober, Josiah, 2008, <em>Democracy and Knowledge: Innovation and
+Learning in Classical Athens</em>, Princeton, NJ: Princeton University
+Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2013, &ldquo;Democracy&rsquo;s Wisdom: An
+Aristotelian Middle Way for Collective Judgment&rdquo;, <em>American
+Political Science Review</em>, 107(1): 104&ndash;122.
+doi:10.1017/S0003055412000627</li>
+
+<li>Owen, Guillermo, Bernard Grofman, and Scott L. Feld, 1989,
+&ldquo;Proving a Distribution-Free Generalization of the Condorcet
+Jury Theorem&rdquo;, <em>Mathematical Social Sciences</em>, 17:
+1&ndash;16. doi:10.1016/0165-4896(89)90012-7</li>
+
+<li>Paroush, Jacob, 1998, &ldquo;Stay Away from Fair Coins: A
+Condorcet Jury Theorem&rdquo;, <em>Social Choice and Welfare</em>,
+15(1): 15&ndash;20. doi:10.1007/s003550050088</li>
+
+<li>Pearl, Judea, 2000, <em>Causality: Models, Reasoning and
+Inference</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Peleg, Bezalel and Shmuel Zamir, 2012, &ldquo;Extending the
+Condorcet Jury Theorem to a General Dependent Jury&rdquo;, <em>Social
+Choice and Welfare</em>, 39(1): 91&ndash;125.
+doi:10.1007/s00355-011-0546-1</li>
+
+<li>Pigozzi, Gabriella, 2016, &ldquo;Belief Merging and Judgment
+Aggregation&rdquo;, in Edward N. Zalta (ed.). <em>The Stanford
+Encyclopedia of Philosophy (Winter 2016)</em>, Available at URL =
+ &lt;<a href="https://plato.stanford.edu/archives/win2016/entries/belief-merging/">https://plato.stanford.edu/archives/win2016/entries/belief-merging/</a>&gt;.</li>
+ 
+<li>Pivato, Marcus, 2013, &ldquo;Voting Rules as Statistical
+Estimators&rdquo;, <em>Social Choice and Welfare</em>, 40(2):
+581&ndash;630. doi:10.1007/s00355-011-0619-1</li>
+
+<li>&ndash;&ndash;&ndash;, 2016, &ldquo;Statistical
+Utilitarianism&rdquo;, in <em>The Political Economy of Social
+Choices</em>, Maria Gallego and Norman Schofield (eds.), (Studies in
+Political Economy), Cham: Springer International Publishing,
+187&ndash;204. doi:10.1007/978-3-319-40118-8_8</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, &ldquo;Epistemic Democracy with
+Correlated Voters&rdquo;, <em>Journal of Mathematical Economics</em>,
+72: 51&ndash;69. doi:10.1016/j.jmateco.2017.06.001</li>
+
+<li>Rawls, John, 1971 [1999], <em>A Theory of Justice</em>, Cambridge,
+MA: Belknap Press. Revised edition, Oxford: Oxford University Press,
+1999.</li>
+
+<li>Reichenbach, Hans, 1956, <em>The Direction of Time</em>, Berkeley,
+CA: University of California Press.</li>
+
+<li>Richardson, Henry S., 2002, <em>Democratic Autonomy: Public
+Reasoning about the Ends of Policy</em>, New York: Oxford University
+Press.</li>
+
+<li>Romeijn, Jan-Willem and David Atkinson, 2011, &ldquo;Learning
+Juror Competence: A Generalized Condorcet Jury Theorem&rdquo;,
+<em>Politics, Philosophy &amp; Economics</em>, 10(3): 237&ndash;262.
+doi:10.1177/1470594X10372317</li>
+
+<li>Schuessler, Alexander A., 2000, &ldquo;Expressive Voting&rdquo;,
+<em>Rationality and Society</em>, 12(1): 87&ndash;119.
+doi:10.1177/104346300012001005</li>
+
+<li>Schwartzberg, Melissa, 2015, &ldquo;Epistemic Democracy and Its
+Challenges&rdquo;, <em>Annual Review of Political Science</em>, 18:
+187&ndash;203. doi:10.1146/annurev-polisci-110113-121908</li>
+
+<li>Spiekermann, Kai and Robert E. Goodin, 2012, &ldquo;Courts of Many
+Minds&rdquo;, <em>British Journal of Political Science</em>, 42(3):
+555&ndash;571. doi:10.1017/S000712341100041X</li>
+
+<li>Sunstein, Cass R., 2009, <em>A Constitution of Many Minds: Why the
+Founding Document Doesn&rsquo;t Mean What It Meant Before</em>,
+Princeton, NJ: Princeton University Press.</li>
+
+<li>Sunstein, Cass R. and Reid Hastie, 2014, <em>Wiser: Getting Beyond
+Groupthink to Make Groups Smarter</em>, Boston, MA: Harvard Business
+Review Press.</li>
+
+<li>Vermeule, Adrian, 2009, &ldquo;Many-Minds Arguments in Legal
+Theory&rdquo;, <em>Journal of Legal Analysis</em>, 1(1): 1&ndash;45.
+doi:10.4159/jla.v1i1.7</li>
+
+<li>Waldron, Jeremy, 1995, &ldquo;The Wisdom of the Multitude: Some
+Reflections on Book 3, Chapter 11 of Aristotle&rsquo;s
+<em>Politics</em>&rdquo;, <em>Political Theory</em>, 23(4):
+563&ndash;584. doi:10.1177/0090591795023004001</li>
+
+<li>Wyckoff, Jason, 2011, &ldquo;Rousseau&rsquo;s General Will and the
+Condorcet Jury Theorem&rdquo;, <em>History of Political Thought</em>,
+32(1): 49&ndash;62.</li>
+</ul>
+</div> 
+
+<div id="academic-tools">
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=jury-theorems" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/jury-theorems/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=jury-theorems&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/jury-theorems/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<p>
+[Please contact the authors with suggestions.]</p>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../belief-merging/">belief merging and judgment aggregation</a> |
+ <a href="../histfem-condorcet/">Condorcet, Marie-Jean-Antoine-Nicolas de Caritat, Marquis de: in the history of feminism</a> |
+ <a href="../democracy/">democracy</a> |
+ <a href="../epistemology-social/">epistemology: social</a> |
+ <a href="../legitimacy/">legitimacy, political</a> |
+ <a href="../physics-Rpcc/">Reichenbach, Hans: common cause principle</a> |
+ <a href="../social-choice/">social choice theory</a> |
+ <a href="../voting-methods/">voting: methods</a>
+
+</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="http://franzdietrich.net" target="other">Franz Dietrich</a>
+&lt;<a href="m&#97;ilto:fd&#37;40franzdietrich&#37;2enet"><em>fd<abbr title=" at ">&#64;</abbr>franzdietrich<abbr title=" dot ">&#46;</abbr>net</em></a>&gt;<br />
+<a href="http://kaispiekermann.net" target="other">Kai Spiekermann</a>
+&lt;<a href="m&#97;ilto:k&#37;2espiekermann&#37;40lse&#37;2eac&#37;2euk"><em>k<abbr title=" dot ">&#46;</abbr>spiekermann<abbr title=" at ">&#64;</abbr>lse<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

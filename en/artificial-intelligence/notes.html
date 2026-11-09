@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Artificial Intelligence &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/artificial-intelligence/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/artificial-intelligence/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=artificial-intelligence">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Artificial Intelligence</a></h2>
+
+<div id="note-1">
+<p>
+<a href="index.html#ref-1">1.</a>
+The pair of parentheticals here are indispensable, and worth noting, since some AI researchers and/or engineers will surely not see themselves as striving to build animals and/or persons. Nonetheless, if they are operating under any of the orthodox accounts (some of which are explored below) of what artifacts AI research and engineering is to produce, the bottom line is that the artifacts that are intended to be built are accurately said to be artificial correlates of the only non-artificial intelligent beings the human race has been able to locate so far: viz., animals of the non-human variety, and us. It&rsquo;s true, however, that some aspire to build artificial creatures that greatly exceed the cognitive powers of what nature has supplied; we discuss this issue separately, below.</p>
+</div>
+
+<div id="note-2">
+<p>
+<a href="index.html#ref-2">2.</a>
+Alas, none of the original attendees are still with us.</p>
+</div>
+
+<div id="note-3">
+<p>
+<a href="index.html#ref-3">3.</a> LT was specifically designed so as to be able to prove theorems from Russell and Whitehead&rsquo;s <em>Principia Mathematica</em>. Upon learning of LT&rsquo;s accomplishments, Russell was apparently delighted. Viewed from today, the theorems in question seem stunningly simple. For example, LT proved the law of contraposition in the propositional calculus (from \(p \rightarrow q\) one can infer \(\lnot q \rightarrow \lnot p\)). Contemporary counterparts to LT include powerful theorem provers like <a href="http://www.vprover.org/" target="other">Vampire</a> (Voronkov 1995). The combination of the unprecedented LT, combined with the logicist leanings of attendee McCarthy (which would never wane), serve to mark the dawn of modern AI as one dominated by logic, which makes the current state of AI, dominated as it is by non-logicist formalisms and techniques (as we discuss below) quite interesting historically.</p>
+</div>
+
+<div id="note-4">
+<p>
+<a href="index.html#ref-4">4.</a> Many, many automated theorem provers (ATPs) are available to study, and in many cases obtain for experimentation. When it comes to sheer performance, Vampire is revered, but those with a background and/or interest in philosophy, and some background in logic, are perhaps best served by study of and experimentation with philosopher John Pollock&rsquo;s Oscar system, discussed below. In addition, the wonderfully readable proofs generated by the ATP Prover9 make it in our estimation worthy of study and experimentation; it&rsquo;s available, along with the model finder Mace4, <a href="https://www.cs.unm.edu/%7Emccune/mace4/" target="other">here</a>. But however powerful these ATPs may be when compared to LT, and to each other in the <a href="http://www.cs.miami.edu/%7Etptp/CASC" target="other">CADE ATP System Competition</a> , one of the remarkable things about the state of automated theorem proving at present is that many logic problems that are routinely solved by the best undergraduates in logic courses [e.g., in elementary axiomatic set theory; witness the machine-resistant problems in the venerable (Suppes 1972)] can&rsquo;t be solved by these ATPs. This can be verified by simply inspecting some of the problems on which ATPs, today, falter. It&rsquo;s perhaps not uninteresting that today, nobelist-in-economics Herb Simon is known in economics for establishing the foundation for behavioral economics (roughly, a form of economics sensitive to the limitations of human reasoning and decision-making), but the stunning work of his that inaugurated automated theorem-proving is generally completely unknown to economists.</p>
+</div>
+
+<div id="note-5">
+<p>
+<a href="index.html#ref-5">5.</a> Sci-fi cinema, in point of fact, is <em>filled</em> with variation and shades of TT. E.g., the very recent <i>Ex Machina</i> is a narrative that rotates around a version of TT. And if we turn back the clock to before <i>A.I.</i>, we can take note of <i>Blade Runner</i>, the &ldquo;Voight-Kampff&rdquo; test (taken from Dick&rsquo;s (1968) seminal <i>Do Androids Dream of Electric Sheep?</i>) in which is none other than a version of TT. Of course, given that (as we soon point out) Turing echoed Descartes, perhaps it&rsquo;s more accurate to say that such films carry the shadow of the latter, not the former.</p>
+</div>
+
+<div id="note-6">
+<p>
+<a href="index.html#ref-6">6.</a> It&rsquo;s interesting to note that in playing chess by operating as a computer himself, Turing behaved in a fashion that accords perfectly with how he conceived, and mathematized, a computer: see (Turing 1936), wherein <b>Turing machines</b> are introduced as a formalization of the concept of a <b>computist</b>, a human carrying out simple calculation. By the way, despite speaking, as we have noted just above in the main text, of so-called child machines, Turing&rsquo;s own work appears to have involved nothing of the sort. In some remarkable work that perhaps all students of logic and AI/computer science should study, Turing spent time, very early on (von Neumann alone seems to have preceded Turing in this regard, in stunningly original work of his own: Goldstine &amp; von Neumann 1947), systematically considering how one could go about formally verifying a computer program &ndash; but the program (which computes the factorial function) is entirely classical, and Turing apparently never spent any time investigating the nature and verification of so-called learning machines. See (Morris &amp; Jones 1984). (We are indebted to Jack Copeland for information conveyed by personal communication.) This may be as good a place as any to report that it would not be at all unreasonable (or perhaps, put with maximum circumspection, not all that unreasonable) to maintain that Leibniz unto himself at the very least brought AI extremely close to reality, from even the engineering point of view. There is in fact precious little that Leibniz was not in command of in this regard, since e.g. he invented the binary number system, came quite close to building a computing device with universal (= any Turing-computable function within its reach) capability, and had by any metric a clear conception of at least modern-day <em>logicist</em> AI. There is also the now-confirmed (see Lenzen 2004) fact that Leibniz had Boolean logic 1.5 centuries before Boole, and in addition had a large part of modern modal logic.</p></div>
+
+<div id="note-7">
+<p>
+<a href="index.html#ref-7">7.</a>
+ One of the interesting things about Descartes&rsquo; position is that he seems to anticipate a distinct mode of reasoning identified by contemporary psychologists and cognitive scientists: so-called <b>System 2</b> reasoning. The hallmark of System 2 reasoning is that it is efficaciously applicable to diverse domains, presumably by understanding underlying structure at a very deep level. System 1 cognition, on the other hand, is chained inflexibly to concrete situations. Stanovich and West (2000) provide an excellent treatment of System 1 and 2 cognition, and related matters (such as that the symbol-driven marketplace of the modern civilized world appears to place a premium on System 2 cognition.) It&rsquo;s by the way accurate to say that today&rsquo;s <i>behavioral economics</i> is based on the attempt to systematize System-2 cognition in humans, and then employ that systematization in economic modeling, explanation, forecasting, and so on. For a readable, engaging introduction to behavioral economics, see Nobelist Kahneman&rsquo;s (2013). </p></div>
+
+<div id="note-8">
+<p>
+<a href="index.html#ref-8">8.</a>
+ Actually, Descartes proposed a test that is much more demanding than TT, but we don&rsquo;t explain and defend this herein. In a nutshell, if you read the passage very carefully, you&rsquo;ll see that Descartes&rsquo; test is passed only if the computer has the <em>capacity</em> to answer arbitrary questions. A machine which has a set of stored chunks of text that happen to perfectly fit the queries given it during a Turing test would not pass Descartes&rsquo; test &ndash; even though it would pass Turing&rsquo;s. </p></div>
+
+<div id="note-9">
+<p>
+<a href="index.html#ref-9">9.</a>
+ Those who either watched the landmark competition, or read about what happened, may be a bit surprised to see that we use the adjective &lsquo;nail-biting,&rsquo; since in the end Watson won handily. The key phrase is &lsquo;in the end.&rsquo; For during the competition, when it was very close between man and machine, Watson managed to quite by luck draw what is called in <i>Jeopardy</i> a &lsquo;Daily Double.&rsquo; This allowed Watson to secure, on this one question, a decisive amount of money. Unlike chess, <i>Jeopardy!</i> has an element of chance built into the game. </p></div>
+
+<div id="note-10">
+<p>
+<a href="index.html#ref-10">10.</a>
+Which isn&rsquo;t to say that there are no proposals for what natural languages fundamentally are, formally speaking:  Montague, e.g., famously proposed that natural language is at its heart formal language of a sort with which logicians are comfortable; see e.g. (Montague 1974), in which he declares that it is &ldquo;possible to comprehend the syntax and semantics of [natural and artificial languages] within a single natural and mathematically precise theory&rdquo; (p. 222).
+</p>
+</div>
+
+<div id="note-11">
+<p>
+<a href="index.html#ref-11">11.</a>
+Actually, the computational complexity of both Chess and Go is EXPTIME within the Polynomial Hierarchy. This implies two things, immediately: that in a clear (and formal) sense Go is no harder than Chess, and that both are Turing-solvable games. It&rsquo;s obvious that humans routinely tackle and succeed on problems that are in the space of Turing-<em>un</em>solvable problems (a first course in axiomatic set theory provides examples), and on such problems no AI system excels. <i>Jeopardy!</i> presents the logician with a different &ldquo;assessment&rdquo; challenge, because e.g. the level of bets made in this game by Player A may well be dictated in part by A&rsquo;s beliefs about the states of mind of Players B and C (e.g. how nervous they are). On the other hand, the straight QA side of <i>Jeopardy! is rather easily proved to be NP-complete; Bringsjord can be emailed for the proof. </i>
+</p></div>
+
+<div id="note-12">
+<p>
+<a href="index.html#ref-12">12.</a>
+ For reactions from members of the AI community working in techniques close to that used by AlphaGo, see Yann Le Cunn&rsquo;s reaction <a href="https://www.facebook.com/yann.lecun/posts/10153426023477143" target="other">here</a> and Langford&rsquo;s reaction <a href="http://hunch.net/?p=3692542" target="other">here</a>. For a more detailed commentary on what this AlphaGo&rsquo;s victory means for AI, see Brundage&rsquo;s <a href="http://www.milesbrundage.com/blog-posts/alphago-and-ai-progress" target="other">commentary</a>.
+</p></div>
+
+<div id="note-13">
+<p>
+<a href="index.html#ref-13">13.</a>
+ It would probably be more accurate to say here &lsquo;inductive logic&rsquo; rather than &lsquo;probability theory&rsquo;. Those working in AI will almost invariably be familiar with the latter, and yet (even if they are intimately familiar with logicist AI) not be familiar with the former. The received view of inductive logic is that it subsumes probability theory (Fitelson 2005). As of yet, we have no explanation for why even in quarters of AI dominated by logic, the logic is almost not inductive logic. </p></div>
+
+<div id="note-14">
+<p>
+<a href="index.html#ref-14">14.</a>
+ The <a href="http://aima.cs.berkeley.edu/cover.html" target="other">cover</a> of the most recent edition references Bayes and Aristotle. </p></div>
+
+<div id="note-15">
+<p>
+<a href="index.html#ref-15">15.</a>
+This theory is by the way another yet another indicator of the ancient roots of AI, as suggested pictorially by AIMA covers, discussed above: AIMA1e&rsquo;s cover, as we noted in passing earlier, offers a glimpse of Lewis Carroll&rsquo;s notation for Aristotle&rsquo;s theory.
+</p></div>
+
+<div id="note-16">
+<p>
+<a href="index.html#ref-16">16.</a>
+What do we mean by the &ldquo;expected&rdquo; utility of an agent? For readers unfamiliar with probability theory, a quick intuitive explanation follows. Given an agent represented by \(f\) working in an environment \(E\), the performance measure \(U\) will assign a concrete value \(u_k\) over one specific lifetime \(l_k\) of the agent. This value might not be representative of how good the agent is: The environment or the agent or both could be nondeterministic, and different runs or lifetimes could produce different values. One can think of the expected utility as nothing but the average of the utility over a large number of lifetimes of the agent \(\left\{l_1, l_2, \ldots, l_m\right\}\).</p>
+
+      \[
+      V(f,\bE,U) = \frac{\left(u_1 + u_2 + \ldots + u_m \right)}{m}
+      \]
+
+</div>
+
+<div id="note-17">
+<p>
+<a href="index.html#ref-17">17.</a>
+ There are some obvious objections that come to mind once Russell&rsquo;s position is understood. For example, bounded optimality seems to be at odds with carrying out research now that lays a foundation for future work &ndash; work that will inevitably be based on machines that are much, much more powerful than the ones we have today. This is an objection Russell anticipates; it leads him to present an account of <i>asymptotic</i> bounded optimality. Informally put, this account says that a program is &ldquo;along the right lines&rdquo; iff with speedup (or more space) its worst-case performance is as good as any other program in all environments. Details are available in (Russell 1997).</p>
+</div>
+
+<div id="note-18">
+<p>
+<a href="index.html#ref-18">18.</a>
+ In late 2015 and early 2016, the Allen Institute for Artificial Intelligence ran a competition titled 
+ &ldquo;<a href="https://www.kaggle.com/c/the-allen-ai-science-challenge" target="other">Is your model smarter than an 8th grader</a>&rdquo; 
+soliciting submissions that could beat the state-of-the-art system in answering a standardized grade 8 science exam. 
+</p></div>
+
+<div id="note-19">
+<p>
+<a href="index.html#ref-19">19.</a>
+Of interest to some may be the fact that uncertainty cashed out non-probabilistically is nowhere to found in Part IV. Rigorous approaches to reasoning with, about, and over uncertainty in the absence of probability theory include that of (Chisholm 1966, 1977).
+</p>
+</div>
+
+<div id="note-20">
+<p>
+<a href="index.html#ref-20">20.</a>
+Some alert readers will note that there is an apparent clash of conceptualizations between Russell &amp; Norvig on the one hand, and Charniak &amp; McDermott on the other. In terms of the four-bin classification of approaches to AI discussed above (and provided, as noted, by R&amp;N themselves), C&amp;M seem to be endorsing the think/human and act/human views of AI, while R&amp;N, whose progression of increasingly smart agents we&rsquo;ve just presented, strongly endorse the ideal/act view. Actually, the animal-and person-centric language of C&amp;M can be viewed as a very convenient shortcut, because the creatures they have in mind as targets for AI have powers that vault them high up the intelligent-agent progression laid down by R&amp;N. This gives rise to the question: What would the difference be, if any, between a person, and a human-like rational agent? Certainly a cardinal difference, at least for philosophers, would be that persons by definition are presumably <em>conscious</em> (and indeed <em>self-conscious</em>), yet we don&rsquo;t find such properties to be entailed by rationality, nor by any of the behaviors central to the R&amp;N intelligent-agent continuum.
+</p></div>
+
+<div id="note-21">
+<p>
+<a href="index.html#ref-21">21.</a>
+We assume that any perceived narrowness in the phrase &lsquo;learning by reading&rsquo; evaporates once one considers that e.g. learning by being told something via an utterance is reducible to the former.
+</p>
+</div>
+
+<div id="note-22">
+<p>
+<a href="index.html#ref-22">22.</a>
+Of all the agencies within the United States, the Information Processing Technology Office (IPTO) at the Defense Advanced Research Projects Agency (DARPA) occupies a unique position. IPTO has supported AI since its inception, and at present, it continues to guide AI forward through visionary programs. It is therefore interesting to note that, at a 2003 celebration of IPTO and its (at that time) 40 years of steadfast sponsorship of research and development in the area of intelligent systems, a number of scientists and engineers whose careers go back to the dawn of AI in the 1950s complained that contemporary machine learning has come to be identified with <em>function-based</em> learning. They pointed out that most clever adults predominantly learn by reading, and called for an attack on this problem in the future. In a sign that the concerns voiced here have gained some traction, there was a Spring 2007 <a href="http://www.aaai.org/Press/Reports/Symposia/Spring/ss-07-06.php" target="other">American Association for Artificial Intelligence Spring Symposium on Machine Reading</a>. </p></div>
+
+<div id="note-23">
+<p>
+<a href="index.html#ref-23">23.</a>
+ A practical manifestation of the above discussed deficiency in machines can be seen in how difficult it is for non-practitioners of AI to teach machines to do a certain task or improve already built systems. For example, consider <a href="http://nlp.stanford.edu/projects/glove/" target="other">GloVe</a> (Pennington et al. 2014), a function learning framework that maps words in a natural language such as English to vectors in \(\mathcal{R}^n\). Mappings like this have a variety of uses in building natural language processing systems. Let \(W\) be the set of all English (or any other natural language) words we are interested in. Then, given just a large volume of natural text \(t\in W^k\) (e.g. the English Wikipedia), the system derives a function \(\mathbf{g}: W \rightarrow \mathcal{R}^n\). Among other uses, one quite astonishing task that can be performed using such vector representations is analogical reasoning. An analogical pair such as \(man\):\(woman\)::\(king\):\(queen\) is said to hold when \(\big(\mathbf{g}(man)-\mathbf{g}(woman)\big) \approx\big(\mathbf{g}(king)-\mathbf{g}(queen)\big)\). The system can by just looking at the text from Wikipedia (or other similar sources) derive a function \(\mathbf{g}\) such that following relations hold:</p>
+
+<p class="indent">
+\(man\):\(woman\) :: \(king\):\(queen\)
+<br />
+\(man\):\(woman\) :: \(uncle\):\(aunt\)
+<br />
+\(Anaheim\):92804 :: \(Honolulu\):\(96817\) (the relationship here is city:zip code)
+<br />
+\(strong\):\(stronger\) :: \(dark\):\(darker\)
+</p>
+
+<p>
+ While GloVe can derive such insightful representations, it is nowhere near complete or accurate; we do not expect it to be. For instance, the reader can easily find a pair of words that ought to be similar but the system thinks otherwise. Using the largest out-of-the-box models shipped with the GloVe system, the reader can find one such pair to be: \(\langle paris, Paris\rangle\), for which the system assigns quite disimilar vectors (the exact pair is not important here). If a human commits such a mistake, it is easy to fix the mistake: we just inform the person of the error. Right now, fixing the above system for such mis-learnt pairs of words involves a lengthy retraining period over a much larger volume of text that hopefully captures the relationship we need. While a learning system can incorporate a single example and improve upon it, the example presented has to be in a rigid format. This is usually done by the system&rsquo;s builders and not by end lay users. The relatively new subdiscipline of <b>machine teaching</b> aims to rectify this by building machines that can be taught in a more human-like fashion by lay people. See also this 
+ <a href="http://blogs.microsoft.com/next/2015/07/10/the-next-evolution-of-machine-learning-machine-teaching/" target="other">blog post from Microsoft Research</a>. (For an overview of how systems like GloVe work, see this 
+ <a href="http://cs224d.stanford.edu/syllabus.html" target="other">course on neural networks in natural language processing</a>.)</p>
+</div>
+
+<div id="note-24">
+<p>
+<a href="index.html#ref-24">24.</a>
+ For confirmation in the case of cognitive psychology, see (Ashcraft 1994). The field of computational cognitive modeling seeks to uncover the nature of human cognition by capturing that cognition in standard computation, and is therefore obviously intimately related to AI. For an excellent overview of computational cognitive modeling that nonetheless reveals the field&rsquo;s failure to confront subjective consciousness, see (Anderson &amp; Lebiere 2003). Ron Sun (1994, 2002) is perhaps unique among computational cognitive modelers in that he considers topics of traditional interest to philosophers. </p></div>
+
+<div id="note-25">
+<p>
+<a href="index.html#ref-25">25.</a>
+Of course, once something at least fairly narrow that was formerly the province of humans is sufficiently &ldquo;AI-ified,&rdquo; the machine may be better at it than any human. Exhibit A: chess.
+</p>
+</div>
+
+<div id="note-26">
+<p>
+<a href="index.html#ref-26">26.</a>
+ Sometimes AI that puts an emphasis on declarative knowledge and reasoning over that knowledge is referred to not as logic-based or logicist AI, but instead as <b>knowledge-based AI</b>. For example, see (Brachman and Levesque 2004). However, any and all formalisms and techniques constitutive of knowledge-based AI are fundamentally logic-based, but their underlying formal structure may be concealed in the interests of making it easier for practitioners without extensive training in mathematical and philosophical logic to grasp these formalisms and deploy these techniques. </p></div>
+
+<div id="note-27">
+<p>
+<a href="index.html#ref-27">27.</a>
+ I point out for cognoscenti that I here expand the traditional concept of a <b>logical system</b> as deployed, e.g., in Lindstr&ouml;m&rsquo;s Theorems, which are elegantly presented in (Ebbinghaus et al. 1984). </p></div>
+
+<div id="note-28">
+<p>
+<a href="index.html#ref-28">28.</a>
+There is a confession to be made about work that has been carried out so far in AI. Though there has been work in multi-modal logics (for example logics with necessity, possibility, knowledge, belief etc), there has not been much bonafide work in formally addressing some of the thorniest of philosophical issues. For instance, how does one distinguish between abstract and fictional entities such as the square circle, a golden mountain, colorless green ideas etc. In standard extensional logics, all these objects would be the same as they have the same empty extension. Intensional logics are needed to model such concepts with fidelity. For a formal and seminal discussion of such issues in intensional logic and intentionality, see (Zalta 1988). Here, Zalta has a theory of <i>abstract</i> objects that he uses to interpret, for example, fictional characters, stories etc. There does exist one AI system which tries to deal with such issues. The SNePS system described in (Rapaport &amp; Shapiro 1999) can read stories in natural language and distinguish between fictional objects and real objects, and between facts and fictions about real entities.
+</p></div>
+
+<div id="note-29">
+<p><a href="index.html#ref-29">29.</a>
+Please understand that AI has always been very much at the mercy of the vicissitudes of funding provided to researchers in the field by the United States Department of Defense (DoD). (The inaugural 1956 workshop was funded by DARPA, and many representatives from this organization attended <a href="https://web.archive.org/web/20200315115548/http://www.dartmouth.edu/~ai50/homepage.html" target="other">AI@50</a>.) It&rsquo;s this fundamental fact that causally contributed to the temporary hibernation of AI carried out on the basis of artificial neural networks: When Minsky and Pappert (1959) bemoaned the limitations of neural networks, it was the funding agencies that held back money for research based upon them. Since the late 1950s it&rsquo;s safe to say that the DoD has sponsored the development of many logics intended to advance AI and lead to helpful applications. It has occurred to many in the DoD that this sponsorship has led to a plethora of logics between which no translation can occur. In short, the situation is a mess, and now real money is being spent to try to fix it, through standardization and machine translation (between <em>logical</em>, not natural, languages). 
+It may be worth noting here, as well, that the 1956 conference was sponsored by DARPA in response to a proposal claiming that &ldquo;a large part of human thought&rdquo; is based on declarative knowlege, and logic-based reasoning over that knowledge. See Ron Brachman&rsquo;s &ldquo;A Large Part of Human Thought,&rdquo; July 13, 2006, Dartmouth College, at <a href="https://web.archive.org/web/20200315115548/http://www.dartmouth.edu/~ai50/homepage.html" target="other">AI@50</a>. 
+</p>
+</div>
+
+<div id="note-30">
+<p>
+<a href="index.html#ref-30">30.</a>
+ The broader category, of which neural nets may soon enough be just a small part, is that of statistical learning algorithms. Chapter 20 of <i>AIMA2/3e</i> provides a very nice discussion of this category. It&rsquo;s important to realize that that artificial neural networks are just that: <em>artificial</em>. They don&rsquo;t correspond to what happens in real human brains (Reeke &amp; Edelman 1988). </p></div>
+
+
+<div id="note-31">
+<p>
+<a href="index.html#ref-31">31.</a>
+In point of fact, the global economy, and in particular and especially that of the U.S., <em>has</em> exploded in the area of AI. There can e.g. be little question that Google is fundamentally an AI company. And Apple Inc, measured by market capitalization that largest company on Earth, has not only Siri, but an extensive patent portfolio that includes many AI agents on systems. </p></div>
+
+<div id="note-32">
+<p>
+<a href="index.html#ref-32">32.</a>
+Were you to have begun formal coursework in AI in 1985, your textbook would likely have been Eugene Charniak&rsquo;s comprehensive-at-the-time <em>Introduction to Artificial Intelligence</em> (Charniak &amp; McDermott 1985). This book gives a strikingly unified presentation of AI &ndash; as of the early 1980s. This unification is achieved via first-order logic (FOL), which runs throughout the book and binds things together. For example: In the chapter on computer vision (3), everyday objects like bowling balls are represented in FOL. In the chapter on parsing language (4), the meaning of words, phrases, and sentences are identified with corresponding formulae in FOL (e.g., they reduce &ldquo;the red block&rdquo; to FOL on page 229). In Chapter 6, &ldquo;Logic and Deduction&rdquo;, everything revolves around FOL and proofs therein (with an advanced section on nonmonotonic reasoning couched in FOL as well). And Chapter 8 is devoted to abduction and uncertainty, where once again FOL, not probability theory, is the foundation. It&rsquo;s clear that FOL renders (Charniak &amp; McDermott 1985) esemplastic. Today, due to the explosion of content in AI, this kind of unification is no longer possible.</p>
+
+<p>
+Though there is no need to get carried away in trying to quantify the explosion of AI content, it isn&rsquo;t hard to begin to do so for any skeptics. (Charniak &amp; McDermott 1985) has 710 pages. The first edition of <i>AIMA</i>, published ten years later in 1995, has 932 pages, each with about 20% more words per page than C&amp;M&rsquo;s book. The second edition of <i>AIMA</i> weighs in at a backpack-straining 1023 pages, with new chapters on probabilistic language processing, and uncertain temporal reasoning. The third edition has 1109 pages with the authors estimating that 20% of the content is new. </p>
+
+<p>
+The explosion of AI content can also be seen topically. C&amp;M cover nine highest-level topics, each in some way tied firmly to FOL implemented in (a dialect of) the programming language Lisp, and each (with the exception of Deduction, whose additional space testifies further to the centrality of FOL) covered in one chapter: </p>
+
+<ol>
+
+<li> FOL for Internal Representation </li>
+
+<li> Vision </li>
+
+<li> Language Parsing </li>
+
+<li> Language Understanding </li>
+
+<li> Search Techniques </li>
+
+<li> Deduction (two chapters) </li>
+
+<li> Abduction and Expert Systems </li>
+
+<li> Planning </li>
+
+<li> Learning </li>
+</ol>
+
+<p>
+In <i>AIMA</i> the expansion is obvious. For example, Search is given three full chapters, and Learning is given four chapters. <i>AIMA</i> also includes coverage of topics not present in C&amp;M&rsquo;s book; one example is robotics, which is given its own chapter in <i>AIMA</i>. In the second and third editions, as mentioned, there are two new chapters: one on constraint satisfaction that constitutes a lead-in to logic, and one on uncertain temporal reasoning that covers hidden Markov models, Kalman filters, and dynamic Bayesian networks. A lot of other additional material appears in new sections introduced into chapters seen in the first edition. For example, the second edition includes coverage of propositional logic as a <i>bona fide</i> framework for building significant intelligent agents. In the first edition, such logic is introduced mainly to facilitate the reader&rsquo;s understanding of full FOL. </p>
+</div>
+
+
+<div id="note-33">
+<p>
+<a href="index.html#ref-33">33.</a>
+ In no way do we mean to suggest that AI research is now exclusively hybrid. A recent treatment of the symbolic approach makes this clear: (Brachman &amp; Levesque 2004). B&amp;L explain that their book is based on what they say is a &ldquo;daring&rdquo; hypothesis, viz., that a top-down approach which ignores neurological details in favor of abstract models of cognition pays great dividends. In addition, a recent argument against a connectionist approach to simulating human literary creativity can be found in (Bringsjord &amp; Ferrucci 2000). </p></div>
+
+<div id="note-34">
+<p>
+<a href="index.html#ref-34">34.</a>
+Sometimes casual students of AI, logic, and philosophy come to believe that <em>uncertainty</em> has been the phenomenon causing a departure from logicist/symbolic approaches. It&rsquo;s important, especially given the nature of the present venue, to realize that the topic of uncertainty has long been a staple in logic, logicist AI, and epistemology. In fact, alert readers will have noted that (Charniak and McDermott 1985) contains a chapter devoted to the topic.</p>
+
+<p>
+The uncertainty challenge can be expressed by considering difficulties that arise when an attempt is made to capture what philosophers often call <i>practical</i> reasoning: Suppose that we would like to take a bit of a break from working on this entry for <i>SEP</i>, and would specifically like to fetch today&rsquo;s mail from my mailbox. What does it take for us to accomplish this goal? Well, in order to get the mail, and here we zero in on Bringsjord&rsquo;s point of view to ease exposition, I will need to exit the house in which I live, walk approximately half way down my driveway, cut across grass under my three Chinese elms, reach my mailbox, open it, reach in, and so on; you get the idea; I omit the remainder. Suppose that this plan consists in the successive execution of actions, starting from some initial state \(s_1\) (my being in my study, before deciding to take the postal break), a constant in FOL. Suppose that a function <i>does</i> can be applied to a constant \(a_i\) (which denotes some action) in a situation \(s_j\) to produce a new situation \(does(a_i, s_j)\). Given this scheme, we can think of what I plan to do as performing a sequence of actions that will result in a situation in which I have today&rsquo;s mail: </p>
+\[
+ HaveMail(does(a_n, does(a_{n-1}, \ldots does(a_1, s_1 \ldots))))
+\]
+
+<p>
+Given this, if I were a robot idling in my study, how would I retrive a plan that would allow me to reach the goal of having mail? To ease exposition, let&rsquo;s say that I would simply attempt to prove the following formula. If provable, the witnesses are the actions I need to successively perform. </p>
+
+\[ 
+ \exists x_1, \ldots, x_n (HaveMail(does(x_n, does(x_{n-1}, \ldots does(x_1, s_1 \ldots)))))
+\]
+
+<p>
+Unfortunately, this approach will not work in many, if not most, cases: Yesterday I went to retrieve my mail, and found to my surprise that my usual route to my mailbox, which runs beneath my beloved elms, was cordoned off, because one of these massive trees was being cut down by a crew &ndash; without prior authorization from me. My plan was shot; I needed a new one &ndash; one with a rather elaborate detour, given the topography of my land. (I of course also needed, on the spot, a plan to deal with the fact that this tree, <em>my</em> tree, was unaccountably targeted for death.) I had made it to the point just before passing beneath the elms, so I now needed a sequence of actions that, if performed from this situation, would eventuate in my having my mail. But this complication is one from among an infinite class: lots of other things could have derailed my original plan. The bottom line is that the world is uncertain, and using &ldquo;straight&rdquo; logic to deduce plans in advance will therefore work at best in only a few cases. </p>
+
+<p>
+Notice that we say <em>straight</em> logic. The postal example we have given is a counter-example to only one approach (situation calculus and Green&rsquo;s Method) within one logical system (FOL). It hardly follows that, <em>in general</em>, a logicist approach can&rsquo;t deal with the uncertainty challenge. </p>
+
+<p>
+We would be remiss if we did not point out that the uncertainty challenge is a core problem in epistemology. It has long been realized that an adequate theory of knowledge must take account of the fact that, while some of what we know may be self-evident, and while some of what we know may be derived deductively from the self-evident, most of what we know is far from certain. Moreover, there are well-known arguments in the philosophical literature purporting to show that much of what we know cannot be based on the result of inductive reasoning over that which is certain. (A classic treatment of these issues can be found in Roderick Chisholm&rsquo;s (1977) <i>Theory of Knowledge</i>.) The connection between this literature, and the uncertainty challenge in AI, is easy to see: The AI researcher is concerned with modeling and computationally simulating (if not outright replicating) intelligent behavior in the face of uncertainty, and the epistemologist seeks a theory of how <em>our</em> intelligent behavior in the face of uncertainty can be analyzed. </p></div>
+
+<div id="note-35">
+<p>
+<a href="index.html#ref-35">35.</a>
+Malle et al. (2015) have found out that humans judge robot and humans actors differently when they participate in hypothetical moral dilemmas.
+</p>
+</div>
+
+<div id="note-36">
+<p>
+<a href="index.html#ref-36">36.</a>
+We express deep gratitude to the Office of Naval Research for grant support that enabled and enables us to analyze the landscape of work in robot/machine ethics, from both a philosophical and a technical perspective.
+</p></div>
+
+<div id="note-37">
+<p>
+<a href="index.html#ref-37">37.</a>
+A deeper understanding of the distinction can be obtained by elaborating upon the route we suggest, in connection with a specific paradox. Take The Liar Paradox, for instance. An economical presentation of this paradox, given in each cycle of introductory philosophy and logic classes at colleges and universities around the globe, is often given by writing down or displaying some such sentence as &lsquo;This sentence is false.&rsquo; (L), whereupon the instructor deduces a contradiction (e.g., L is true iff L is not true). One then passes immediately to Philosophical AI if one configures the following challenge: Write a computer program \(P_1\) that maps one or two English sentences to their underlying meaning, expressed in a rigorous representation scheme that allows deduction. In addition, write a computer program \(P_2\) that, given formulae (composing set \(\Phi\)) that represent information conveyed in English, searches for a proof of contradiction (= searches for a proof confirming \(\Phi \vdash \phi \wedge \neg \phi\)). Show by a working demonstration on simple examples that both \(P_1\) and \(P_2\) work, and then show that running first \(P_1\) on the pair &lsquo;The sentence S2 is false&rsquo; (S1) and &lsquo;The sentence S1 is true&rsquo; (S2) does not result in a proof of a contradiction.
+</p></div>
+
+<div id="note-38">
+<p>
+<a href="index.html#ref-38">38.</a>
+ The literature on hypercomputation has exploded recently. As I have mentioned, one of the earliest sort of hypercomputational device is a so-called <b>trial-and-error machine</b> (Putnam 1965; Gold 1965), but much has happened since then. Volume 317 2004 of <i>Theoretical Computer Science</i> is devoted entirely to hypercomputation. Before this special issue, <i>TCS</i> also featured an interesting kind of hypercomputational machine: so-called <b>analog chaotic neural networks</b>: (Siegelmann and Sontag 1994). These machines, and others, are discussed in (Siegelmann 1999). For more on hypercomputation, with hooks to philosophy, see: (Copeland 1998; Bringsjord 1998, 2002). </p></div>
+
+<div id="note-39">
+<p>
+<a href="index.html#ref-39">39.</a>
+ Searle has given various more general forms of the argument. For example, he summarizes the argument on page 39 of (Searle 1984) as one in which from</p>
+
+<blockquote>
+
+<p>
+2. <em>Syntax is not sufficient for semantics.</em> </p>
+
+<p>
+3. <em>Computer programs are entirely defined by their formal, or syntactical, structure.</em> </p>
+
+<p>
+4. <em>Minds have mental contents; specifically, they have semantic contents.</em> </p>
+</blockquote>
+
+<p>
+it&rsquo;s supposed to follow that </p>
+
+<blockquote>
+
+<p>
+<em>No computer program by itself is sufficient to give a system a mind. Programs, in short, are not minds, and they are not by themselves sufficient for having minds.</em> </p>
+</blockquote></div>
+
+<div id="note-40">
+<p>
+<a href="index.html#ref-40">40.</a>
+ The dialectic appeared in 1996, volume <b>2</b> of <i>Psyche</i>, 
+ <a href="http://journalpsyche.org/archive/volume-2-1995-1996/" target="other">available online</a>.</p>
+</div>
+
+<div id="note-41">
+<p>
+<a href="index.html#ref-41">41.</a>
+An analogous version of this argument, employing Metcalfe&rsquo;s law, for the Semantic Web has been given by Hendler and Golbeck (2008).
+</p>
+</div>
+
+<div id="note-42">
+<p>
+<a href="index.html#ref-42">42.</a>
+ It seems reasonable to say, about at least most of these predictions, that they presuppose a direct connection between the storage capacity and processing speed of computers, and human-level intelligence. Specifically, the assumption seems to be that if computers process information at a certain speed, and can store it in sufficiently large quantities, human-level mentation will be enabled. This is actually a remarkable assumption, when you think about it. Standard Turing machines as defined in the textbooks (e.g., as they are defined in Lewis and Papadimitriou, 1981) have arbitrarily large storage capacity, and perform at arbitrarily fast speeds (each step can be assumed to take any finite amount of time). And yet programming these Turing machines to accomplish particular tasks can be fiendishly difficult. The truly challenging part of building a computer to perform at the level of a human is devising the representations and algorithms to enable it to do. </p></div>
+
+<div id="note-43">
+<p>
+<a href="index.html#ref-43">43.</a>
+ Joy&rsquo;s paper is 
+ <a href="https://www.wired.com/2000/04/joy-2/" target="other">available online</a>.
+Also, rest assured that you can type &ldquo;Why The Future Doesn&rsquo;t Need Us Bill Joy&rdquo; into any passable search engine.</p>
+</div>
+
+<div id="note-44">
+<p>
+<a href="index.html#ref-44">44.</a>
+ The pattern runs as follows: If science policy allows science and engineering in area \(X\) to continue, then it&rsquo;s possible that state of affairs \(P\) will result; if \(P\) results, then disastrous state of affairs \(Q\) will possibly ensue; therefore we ought not to allow \(X\). Of course, this is a deductively invalid inference schema. If the schema were accepted, with a modicum of imagination you could prohibit any science and engineering effort whatsoever. You would simply begin by enlisting the help of a creative writer to dream up an imaginative but dangerous state of affairs \(P\) that is possible given \(X\). You would then have the writer continue the story so that disastrous consequences of \(P\) arrive in the narrative, and lo and behold you have &ldquo;established&rdquo; that \(X\) must be banned. </p></div>
+
+<div id="note-45">
+<p>
+<a href="index.html#ref-45">45.</a>
+ Here&rsquo;s the relevant quote from Joy&rsquo;s paper: &ldquo;I had missed Ray&rsquo;s talk and the subsequent panel that Ray and John had been on, and they now picked right up where they&rsquo;d left off, with Ray saying that the rate of improvement of technology was going to accelerate and that we were going to become robots or fuse with robots or something like that, and John countering that this couldn&rsquo;t happen, because the robots couldn&rsquo;t be conscious.&rdquo; </p></div>
+
+<div id="note-46">
+<p>
+<a href="index.html#ref-46">46.</a>
+ A sustained discussion of the nature of AI in connection specifically with distinction between mere animals and persons can be found in (Bringsjord 2000). </p></div>
+
+
+<h2>Notes to Supplements</h2>
+
+<div id="note-a1">
+<p>
+<a href="aixi.html#ref-a1">A1.</a>
+ The study of this process goes by various names such as <i>computational learning theory</i>, <i>language learning</i> or <i>formal models of science</i> (Osherson et al. 1986). One crucial component missing in such models is <b>justification</b>. Scientists are much more than hypothesis generating machines. Each hypothesis needs to have some justification or argument that builds upon accepted knowledge or experimental evidence and proceeds via correct rules of inference. This requires a much more expressive formalism than agents divining the contents of a black box computer, some ingredients of such a formalism are discussed in our (Bringsjord et al. 2010). </p></div>
+
+<div id="note-a2">
+<p>
+<a href="aixi.html#ref-a2">A2.</a>
+Though there has been some work in what the authors of this entry term as a <i><a href="http://kryten.mm.rpi.edu/WORKSHOPS/AGI10/SB_NSG_AGI10wshop.pdf" target="other">Serious Computational Science of Intelligence</a></i>, very few approaches fall under this umbrella. The <a href="http://hutter1.net/ai/uaibook.htm" target="other"> Universal Artificial Intelligence</a> (UAI) model from Hutter (2005), of which AIXI is a part, comes closest. See 
+<a href="http://kryten.mm.rpi.edu/WORKSHOPS/AGI10/SB_NSG_AGI10wshop.pdf" target="other">the workshop paper</a> for a scorecard of different related formalisms.
+</p></div>
+
+<div id="note-b1">
+<p>
+<a href="bayesian-nets.html#ref-b1">B1.</a>
+ For readers familiar with Excel, an Excel and Apple Numbers file for computing the graph can be downloaded from <a href="https://github.com/naveensundarg/SEP.AI.BayesNetExample" target="other">GitHub</a>. Also see the <a href="https://goo.gl/cSh4lm" target="other">Google Docs sheet</a>.
+</p></div>
+
+<div id="note-b2">
+<p>
+<a href="bayesian-nets.html#ref-b2">B2.</a>
+ Obviously, there are other excellent textbooks that serve to introduce and, at least to some degree, canvass, AI. For example, there is the commendable trio: (Ginsberg 1993), (Nilsson 1987), and (Winston 1992). (Winston&rsquo;s book is the third edition. In Nilsson&rsquo;s case, this is his second intro book; the first was (Nilsson 1987).) The reader should rest assured that in each case, whether from this trio or whether <i>AIMA</i>, the coverage is basically the same; the core topics don&rsquo;t vary. In fact, Nilsson&rsquo;s (1998) book, as he states in his preface, is explicitly an &ldquo;agent-based&rdquo; approach, and in fact the book, like <i>AIMA</i>, is written as a progression from the simplest agent through the most capable. (We say a bit about this in the main text, later.) Clearly, then, our reliance on <i>AIMA</i> in no way makes the present <i>SEP</i> entry idiosyncratic. Finally, arguably the attribute most important to an entry such as the present one is &ldquo;encyclopedic&rdquo; coverage of AI &ndash; and <i>AIMA</i> delivers in this regard like no other extant text. This situation may change in the future, and if it does, the present entry would of course be updated. </p></div>
+
+<div id="note-o1">
+<p>
+<a href="oscar.html#ref-o1">O1.</a>
+ It must be said here that, for a while at least, OSCAR was also distinguished by being quite a fast automated theorem prover (ATP). I say &lsquo;was&rsquo; because there has of late been a new wave of faster and faster first-order provers. Speed in machine reasoning is an exceedingly relative concept. What&rsquo;s fast today is inevitably slow tomorrow; it all hinges on what the competition is doing. In OSCAR&rsquo;s case, the competition now includes not just the likes of Otter (see e.g. Wos et al. 1992; and go to the
+ <a href="http://www-unix.mcs.anl.gov/AR/" target="other">Automated Deduction at Argonne</a> page for a wonderful set of resources related to Otter), but also Vampire (Vronkov 1995). (Vampire&rsquo;s core algorithm coincides with Otter&rsquo;s, but increased speed can come from many sources, including how propositions are indexed and organized.) It seems to me that some of OSCAR&rsquo;s speed derives from the fact that in searching for proofs OSCAR approximates some form of goal analysis as a technique for finding proofs in a natural deduction format. Goal analysis will be familiar to those philosophers who have taught natural deduction. The performance of OSCAR and other systems can be found at the <a href="http://www.cs.miami.edu/%7Etptp" target="other">TPTP</a> site. </p></div>
+
+<div id="note-o2">
+<p>
+<a href="oscar.html#ref-o2">O2.</a>
+Why is this a problem? First-order logic has issues with representing statements of the form <i>&ldquo;Person X knows that &lsquo;Roses are red&rsquo;.&rdquo;</i> or <i>&ldquo;Person Y does not believe that &lsquo;Roses are red&rsquo;.&rdquo;</i> Such statements are known as <i>intensional statements</i>. Statements such as <i>&ldquo;Roses are red.&rdquo;</i> or &ldquo;\(3^2 + 4^2 = 5^2\)&rdquo; are known as extensional statements. When we try to model intensional statements in first-order logic, we quickly run into problems (Anderson 1983; Bringsjord &amp; Govindarajulu 2012).
+</p></div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2018</a> by
+
+<br />
+<a href="https://kryten.mm.rpi.edu/selmerbringsjord.html" target="other">Selmer Bringsjord</a>
+&lt;<a href="m&#97;ilto:Selmer&#37;2eBringsjord&#37;40gmail&#37;2ecom"><em>Selmer<abbr title=" dot ">&#46;</abbr>Bringsjord<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+Naveen Sundar Govindarajulu
+&lt;<a href="m&#97;ilto:Naveen&#37;2eSundar&#37;2eG&#37;40gmail&#37;2ecom"><em>Naveen<abbr title=" dot ">&#46;</abbr>Sundar<abbr title=" dot ">&#46;</abbr>G<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

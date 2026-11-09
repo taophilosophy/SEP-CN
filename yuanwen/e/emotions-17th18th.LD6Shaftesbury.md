@@ -1,0 +1,53 @@
+# emotions-17th18th — LD6Shaftesbury（supplement）
+
+> （《emotions-17th18th》词条补充材料，源：plato.stanford.edu/entries/emotions-17th18th/LD6Shaftesbury.html）
+
+#### Supplement to 17th and 18th Century Theories of Emotions
+
+## Anthony Ashley Cooper, Third Earl of Shaftesbury, on the Emotions
+
+- 1. Introduction
+- 2. Terminology
+- 3. The Natural Teleology of the Affections
+- 4. Affections and Moral Philosophy
+- 5. Virtue, Happiness and Control
+- 6. Affections and Aesthetic Evaluation
+- 7. Influences on Later Authors
+
+### 1. Introduction
+
+The works of Lord Shaftesbury (1671–1713) collected into the massive volume *Characteristics of Men, Manners, Opinions, Times* (1711) present a wealth of material on the emotions. Shaftesbury’s aims were wholly practical: to make his readers more virtuous, tasteful and witty inhabitants of their world. His works are not systematic, but they are packed with observations and wonderful one-liners, making up a genial and humorous picture of how our emotions fit us to and in the world. And in his *Inquiry Concerning Virtue and Merit*, Shaftesbury becomes the progenitor of the moral sense theories of, e.g., Hutcheson and Hume, which see moral judgments as rooted in special emotions, or ‘sentiments.’ It would be something of a misnomer to call Shaftesbury a ‘sentimentalist’ (as opposed to a ‘rationalist’), but that is not because he fails to appreciate the importance of the emotions to moral philosophy.
+
+### 2. Terminology
+
+Shaftesbury was particularly fond of the term ‘affection,’ using it quite broadly for the purposive responses of creatures endowed with sense-perception to their world. He sometimes uses it interchangeably with ‘passion,’ but prefers ‘affection’ when talking about our motives for actions. Unlike simple sense-perceptions, affections and passions can be communicated, as when the “panic passions” are raised in a multitude and passed by contact or “sympathy” (*Enthusiasm* 10). Shaftesbury also uses ‘sentiment’ specifically for the affections of creatures who have a sense of right or wrong and thus reflect upon their feelings or affections. As reflected affections, sentiments are closely connected to judgments.
+
+### 3. The Natural Teleology of the Affections
+
+Basic to Shaftesbury’s understanding of the affections is his conception of the systematic and holistic structure of the world. This conception allows him a teleological approach to considering how individuals fit into their environment: individuals are parts, which can be judged good or bad relative to their natural fit within that whole, that is, to whether they promote the good of the whole. This teleology extends to the affections and passions: indeed, “our business will be to examine what are the good and natural and which the ill and unnatural affections” (*Inquiry* 170). Shaftesbury takes issue with Descartes for his failure to appreciate the teleological structure of the passions, comparing Descartes to a person who examines the material makeup of a watch without examining its use (*Soliloquy* 131). For similar reasons, Shaftesbury has little truck with physiological investigations of the passion, although he does not rule out the importance of observations, especially inward-looking ones, which can reveal the natural purposiveness of our affections.
+
+Not surprisingly, Shaftesbury also rejects the kind of egoistic psychology he finds in Hobbes. He argues that it is implausible even to attempt to reduce all affections to self-interested ones, since mere caprice is common (*Sensus* 54–5). More importantly, Shaftesbury counts genuinely other-directed emotions among the basic psychological make-up of humans. These are the “natural affections,” although there are also self-directed and even totally “unnatural affections” (e.g., *Inquiry* 196). The unnatural affections are always vicious, but the worth of the self- and other-directed passions can vary. Some self-interested passions can benefit, while some self-sacrificing behavior can damage the good of the whole. Still Shaftesbury considers it part of our psychology that what usually motivates us in ways “inconsistent with the interest of the species or public” is some “more than ordinary self-concernment or regard to the private good” (*Inquiry* 170). So when we subject affections to moral judgment, we approve most highly of the natural affections.
+
+The affections are what give us our ends, framing “the different notions I have of interest” (*Inquiry* 132). The ultimate end at which the teleological system of the passions aims is virtue, promoting the good of the whole. Shaftesbury takes it that this end promotes happiness too, so that virtue and interest coincide. The *Inquiry Concerning Virtue and Merit*, however, also understands happiness in terms of long-lasting and reliable mental pleasures. Shaftesbury argues that indulging the natural affections is the best way to achieve such mental pleasures, so that virtue is inherently pleasurable, and “virtue and interest may be found at last to agree.”
+
+### 4. Affections and Moral Philosophy
+
+Despite taking a generally teleological approach, Shaftesbury reserves a special place for moral evaluation and judgment in the distinctive kinds of affections arising through reflection:
+
+> [T]he very actions themselves and the affections of pity, kindness, gratitude and their contraries, being brought into the mind by reflection, become objects. So that, by means of this reflected sense, there arises another kind of affections towards those very affections themselves, which have been already felt and have now become the subject of a new liking or dislike. (*Inquiry* 172).
+
+It is the capacity for reflection that makes us capable of moral sentiments and judgments. And what our reflected affections take as their objects are the affections of creatures like us who are capable of reflecting on their affections (*Inquiry* 174). For these affections typically serve as motives for action, and it is only such motives, i.e., the affections, that are the proper objects of moral evaluation. So, reflected affections, or sentiments, are both the source of our moral judgments and their objects. Those that evoke approving moral sentiments are the other-directed, natural affections.
+
+### 5. Virtue, Happiness and Control
+
+As we have already seen, Shaftesbury uses his natural teleology to argue for identifying virtue and interest. But he is well aware that this will seem counter-intuitive to many readers. So, he also gives a psychological argument based on the “private nature, or self-system” for ruling out any intrinsic opposition between the two. On the one hand, Shaftesbury admits that even the natural and certainly the self-affections can be dysfunctional and excessive. On the other, he argues that what will lead to the greatest happiness of an intelligent creature is to cultivate the natural affections, along with a due proportion of self-affections. Quite generally, Shaftesbury takes it that “our chief means and power of self-enjoyment” lies in having “the natural, kindly, or generous affections strong and powerful towards the good of the public” (*Inquiry* 200). Indeed, he concludes the *Inquiry Concerning Virtue and Merit* by arguing that the evidence identifying the superior mental enjoyments with the natural affections is “as great as that which is found in numbers or mathematics,” since it survives even in the face of doubts about the existence of the external world (*Inquiry* 229). Skepticism cannot touch our affections and pleasures, which are always accessible. Moreover, those of our pleasures that are mental lie fully within our control, and so presumably does the cultivation of the natural affections. In this way, Shaftesbury offers a picture of character formation through a voluntary ordering of our affections, in which the most publicly-directed one becomes the “master-pleasure and conqueror of the rest” (*Inquiry* 202).
+
+### 6. Affections and Aesthetic Evaluation
+
+Shaftesbury often compares our moral sentiments to our aesthetic evaluations, even going so far as to identify proper taste in morals and proper taste in aesthetics. This is no mere analogy: both use much the same capacity and respond to much the same features of the world. Like moral judgments, judgments of beauty rest on the perception of the natural fitness of things. We make the judgments through our affections, but their objects exist independently of the affections. The world, then, provides a standard for our aesthetic affections and judgments, and the cultivation of taste is a matter of developing proper responses to that standard.
+
+Our aesthetic sense is comparable to our moral sense not only because they both require mobilizing affections, but because they both require reflection on our affections. Speaking of how a new kind of affection arises through reflection, Shaftesbury declares, “the case is the same in the mental or moral subjects as in the ordinary bodies or common subjects of sense” (*Inquiry* 172). But whereas reflected affections are themselves the object of the reflected affections of moral judgment, it is “ordinary bodies, or common subjects of sense” that are the objects of aesthetic affections.
+
+### 7. Influences on Later Authors
+
+Shaftesbury’s vision of the harmony between the good of the individual and the good of the whole was opposed by his near-contemporary Bernard Mandeville. Mandeville’s *Fable of the Bees, or Private Vices, Public Benefits* (1714) portrayed our passions as self-directed desires, reducible either to “self-love” or to “self-liking.” Indulging them might indeed promote commerce and economic flourishing, but was incompatible with personal virtue. Remarks Mandeville added in 1723 called Shaftesbury out by name, declaring “that two Systems cannot be more opposite than his Lordship’s and mine” (*Fable* vol. 1, 324, orig. p. 372). Mandeville took Shaftesbury’s view to be an oddity (*Fable* vol. 1, 323, orig. p. 371), but it proved more popular than his own, particularly among ‘sentimentalist’ moral philosophers. Hutcheson, in particular, defended Shaftesbury and adopted his conception of our moral sense and its links with the aesthetic sense. So did Hume, albeit more ambivalently, while other elements of his thought bore fruit in the ‘rationalist’ moral philosophy of, e.g., Joseph Butler. Shaftesbury’s arguments against the view that our emotions are basically egoistic were repeated by philosophers of both stripes, including Hutcheson and Hume. His influence was also felt in French and British aesthetic theory. In general, Shaftesbury set the terms of approach to sentiments for the next generation of British and French authors.

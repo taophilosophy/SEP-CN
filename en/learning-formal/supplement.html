@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Formal Learning Theory &gt; Basic Formal Definitions (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/learning-formal/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/learning-formal/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=learning-formal">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Formal Learning Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Basic Formal Definitions</h2>
+
+<p>
+The purpose of this supplement is a concise, formal development of the
+basic notions of learning theory so as to make mathematical treatments
+of the subject more accessible to the reader. The supplement develops
+some of the concepts discussed in the main entry in formal language.
+For the most part I follow Kelly&rsquo;s [1996] treatment which is at once
+more general and simpler than other approaches. The discussion below
+illustrates concepts by reference to the Goodmanian Riddle of
+Induction; the figure illustrating this inductive problem is
+reproduced here.</p>
+
+<div class="figure" id="figrule1b">
+<img src="natural.jpg" width="500" alt="natural projection rule: link to extended description below" />
+
+<p class="center"><span class="figlabel">Figure 3</span> [An <a href="figdesc.html#figrule1">extended description of figure 3</a> is in a supplement.]</p>
+
+</div>
+
+<h3>Evidence, Hypotheses and Discovery Problems</h3>
+
+<p>
+The basic building block of formal learning theory is the notion of an
+<strong>evidence item</strong>. For a general formulation, we may simply begin
+with a set \(E\) of evidence items. In general, nothing need be
+assumed about this set; in what follows, I will assume that \(E\)
+is at most countable, that is, that there are at most countably many
+evidence items. Some authors assume that evidence is formulated in
+first-order logic, typically as literals (e.g., [Earman 1992], [Martin
+and Osherson 1998]). In formal models of language learning, the
+evidence items are strings, representing grammatical strings from the
+language to be learned. In the example of the Riddle of Induction, the
+evidence items are \(G\) and \(B\), respectively represented in
+the picture by a transparent and by a filled diamond, so \(E = \{G,B\}\).</p>
+
+<p>
+Given the basic set \(E\) of evidence items, we have the notion of
+a <strong>finite evidence sequence</strong>. A finite evidence
+sequence is a sequence \((e_1,e_2 ,\ldots ,e_n)\) of evidence items,
+that is, members of \(E\). For example, the observation that the first
+three emeralds are green corresponds to the evidence sequence
+\((G,G,G)\). A typical notation for a finite evidence sequence is
+\(e\). If a finite evidence sequence \(e\) has \(n\) members, we say
+that the sequence is of length \(n\) and write \(lh(e) = n\).</p>
+
+<p>
+The next step is to consider an <strong>infinite evidence
+sequence</strong>. An infinite evidence sequence is a sequence
+\((e_1,e_2 ,\ldots ,e_n,\ldots)\) that continues indefinitely. For
+example, the infinite sequence \((G,G,G,\ldots ,G,\ldots)\) represents
+the circumstance in which all observed emeralds are green. A typical
+notation for an infinite evidence sequence is
+\(\varepsilon\). Following Kelly [1996], the remainder of this
+supplement refers to an infinite evidence sequence as a <strong>data
+stream</strong>. Even though the notion of an infinite data sequence
+is mathematically straightforward, it takes some practice to get used
+to employing it. We often have occasion to refer to finite initial
+segments of a data stream, and introduce some special notation for
+this purpose: Let \(\varepsilon |n\) denote the first \(n\) evidence
+items in the data stream \(\varepsilon\). For example if \(\varepsilon
+= (G,G,G,\ldots ,G,\ldots)\) is the data stream featuring only green
+emeralds, then \(\varepsilon |3 = (G,G,G)\) is the finite evidence
+sequence corresponding to the observation that the first three
+emeralds are green. We also write \(\varepsilon_n\) to denote the
+\(n\)-th evidence item observed in \(\varepsilon\). For example, if
+\(\varepsilon = (G,G,G,\ldots ,G,\ldots)\), then \(\varepsilon_2 =
+G\).</p>
+
+<p>
+An <strong>empirical hypothesis</strong> is a claim whose truth supervenes on a
+data stream. That is, a complete infinite sequence of observations
+settles whether or not an empirical hypothesis is true. For example,
+the hypothesis that &ldquo;all observed emeralds are green&rdquo; is
+true on the data stream featuring only green emeralds, and false on
+any data stream featuring a nongreen emerald. In general, we assume
+that a <strong>correctness relation</strong> on \(C\) has been specified,
+where \(C(\varepsilon ,H)\) holds just in case hypothesis
+\(H\) is correct an data stream \(\varepsilon\). What hypotheses are
+taken as correct on which data streams is a matter of the particular
+application. Given a correctness relation, we can define the empirical
+content of a hypothesis \(H\) as the set of data streams on which
+\(H\) is correct. Thus the empirical content of hypothesis \(H\)
+is given by \(\{\varepsilon : C(\varepsilon , H)\}\). For formal
+purposes, it is often easiest to dispense with the correctness
+relation and simply to identify hypotheses with their empirical
+content. With that understanding, in what follows hypotheses will
+often be viewed as <strong>sets of data streams</strong>. For ease of
+exposition, I do not always distinguish between a hypothesis viewed as
+a set of data streams and an expression denoting that hypothesis, such
+as &ldquo;all emeralds are green&rdquo;.</p>
+
+<p>
+An inquirer typically does not begin inquiry as a tabula rasa, but has
+background assumptions about what the world is like. To the extent
+that such background assumptions help in inductive inquiry, they
+restrict the space of possible observations. For example in the
+discussion of the Riddle of Induction above, I assumed that that no
+data stream will be obtained that has green emeralds followed by blue
+emeralds followed by green emeralds. In the conservation principle
+problem discussed in the main entry, the operative background
+assumption is that the complete particle dynamics can be accounted for
+with conservation principles. As with hypotheses, we can represent the
+empirical content of given background assumptions by a set of data
+streams. Again it is simplest to identify <strong>background knowledge</strong>
+\(K\) with a set of data streams, namely the ones consistent with
+the background knowledge.</p>
+
+<p>
+In a logical setting in which evidence statements are literals,
+learning theorists typically assume that a given data stream will
+feature all literals of the given first-order language (statements
+such as \(P(a)\) or \(\neg P(a))\), and that the total set of evidence
+statements obtained during inquiry is consistent. With that background
+assumption, we may view the formula \(\forall xP(x)\) as an empirical
+hypothesis that is correct on an infinite evidence sequence
+\(\varepsilon\) just in case no literal \(\neg P(a)\) appears on
+\(\varepsilon\), that is for all \(n\) it is the case that
+\(\varepsilon_n \ne \neg P(a)\). More generally, a data stream with a
+complete, consistent enumeration of literals determines the truth of
+every quantified statement in the given first-order language.</p>
+
+<h3>Inductive Methods and Inductive Success</h3>
+
+<p>
+An <strong>inductive method</strong> is a function that assigns
+hypotheses to finite evidence sequences. Following Kelly [1996], I use
+the symbol \(\delta\) for an inductive method. Thus if \(e\) is a
+finite evidence sequence, then \(\delta(e) = H\) expresses the fact
+that on finite evidence sequence \(e\), the method \(\delta\) outputs
+hypothesis \(H\). It is also possible to have a method \(\delta\)
+assign probabilities to hypotheses rather than choose a single
+conjecture, but I leave this complication aside here. Inductive
+methods are also called &ldquo;learners&rdquo; or
+&ldquo;scientists&rdquo;; no matter what the label is, the
+mathematical concept is the same. In the Goodmanian Riddle above, the
+natural projection rule outputs the hypothesis &ldquo;all emeralds are
+green&rdquo; on any finite sequence of green emeralds. Thus if we
+denote the natural projection rule by \(\delta\), and the hypothesis
+that all emeralds are green by &ldquo;all \(G\)&rdquo;, we have that
+\(\delta(G) =\) &ldquo;all \(G\)&rdquo;, \(\delta(GG) =\) &ldquo;all
+\(G\)&rdquo;, and so forth. Letting \(\varepsilon = (G,G,G,\ldots
+,G,\ldots)\) be the data stream with all green emeralds, we can write
+\(\varepsilon |1 = (G), \varepsilon |2 = (GG)\), etc., so we have that
+\(\delta(\varepsilon|1) =\) &ldquo;all \(G\)&rdquo;,
+\(\delta(\varepsilon\)|2) = &ldquo;all \(G\)&rdquo;, and more
+generally that \(\delta(\varepsilon |n) =\) &ldquo;all \(G\)&rdquo;
+for all \(n\).</p>
+
+<p>
+An inductive method \(\delta\) <strong>converges to</strong> a
+hypothesis \(H\) on a data stream \(\varepsilon\) <strong>by time
+\(n\)</strong> just in case for all later times \(n'\ge n\), we have
+that \(\delta(\varepsilon |n') = H\). This is a central definition for
+defining empirical success, as we will see shortly. To illustrate, the
+natural projection rule converges to &ldquo;all G&rdquo; by time 1 on
+the data stream \(\varepsilon = (G,G,G,\ldots ,G,\ldots)\). It
+converges to &ldquo;all emeralds are grue(3)&rdquo; by time 3 on the
+data stream \((G,G,B,B,B,\ldots)\). An inductive method
+\(\delta\) <strong>converges to</strong> a hypothesis \(H\) on a data
+stream \(\varepsilon\) just in case there is a time \(n\) such that
+\(\delta\) converges to \(H\) on \(\varepsilon\) by time \(n\). Thus
+on the data stream \((G,G,G,\ldots)\), the natural projection
+\(\delta\) converges to &ldquo;all \(G\)&rdquo; whereas on the data
+stream \((G,G,B,B,\ldots)\) this rule converges to &ldquo;all emeralds
+are grue(3)&rdquo;.</p>
+
+<p>
+A <strong>discovery problem</strong> is a pair \((\mathbf{H}, K)\)
+where \(K\) is a set of data streams representing background knowledge
+and \(\mathbf{H}\) is a mutually exclusive set of hypotheses that
+covers \(K\). That is, for any two hypotheses \(H, H'\) in
+\(\mathbf{H}\), viewed as two sets of data streams, we have that \(H
+\cap H' = \varnothing\). And for any data stream \(\varepsilon\) in
+\(K\), there is a (unique) hypothesis \(H\) in \(\mathbf{H}\) such
+that \(\varepsilon \in H\). For example, in the Goodmanian Riddle of
+Induction, each alternative hypothesis is a singleton containing just
+one data stream, for example \(\{(G,G,G,\ldots)\}\) for the empirical
+content of &ldquo;all emeralds are green&rdquo;. The background
+knowledge \(K\) is just the union of the alternative hypotheses. In
+the problem involving the generalizations &ldquo;all but finitely many
+ravens are nonblack&rdquo; and &ldquo;all but finitely many ravens are
+black&rdquo;, the former hypothesis corresponds to the set of data
+streams featuring only finitely many black ravens, and the latter to
+the set of data streams featuring only finitely many nonblack ravens.
+The background knowledge \(K\) corresponds to the set of data streams
+that eventually feature only nonblack ravens or eventually feature
+only black ravens. Since each alternative hypothesis in a discovery
+problem \((\mathbf{H}, K)\) is mutually exclusive, for a given data
+stream \(\varepsilon\) in \(K\) there is exactly one hypothesis
+correct for that data stream; I write \(H(\varepsilon)\) to denote
+that hypothesis.</p>
+
+<p>
+In a discovery problem \((\mathbf{H}, K)\), an inductive method
+\(\delta\) <strong>succeeds</strong> on a data stream \(\varepsilon\)
+in \(K\) iff \(\delta\) converges to the hypothesis correct for
+\(\varepsilon\); more formally, \(\delta\) <strong>succeeds</strong>
+on a data stream \(\varepsilon\) in \(K\) iff \(\delta\) converges to
+\(H(\varepsilon)\) on \(\varepsilon\). An inductive method
+\(\delta\) <strong>solves</strong> the discovery problem
+\((\mathbf{H}, K)\) iff \(\delta\) succeeds on all data streams in
+\(K\). If \(\delta\) solves a discovery problem \((\mathbf{H}, K)\),
+then we also say that \(\delta\) is <strong>reliable</strong> for
+\((\mathbf{H}, K)\). If there is a reliable inductive method
+\(\delta\) for a discovery problem \((\mathbf{H}, K)\), we say that
+the problem \((\mathbf{H}, K)\) is <strong>solvable</strong>. The main
+entry presented several solvable discovery problems. Characterization
+theorems like the one discussed there give conditions under which a
+discovery problem is solvable.</p>
+
+<p>
+<em>Efficient</em> inductive inquiry is concerned with maximizing
+epistemic values other than convergence to the truth. Minimizing the
+number of mind changes is a topic in the main entry; what follows
+defines this measure of inductive performance as well as error and
+convergence time. Consider a discovery problem \((\mathbf{H}, K)\)
+and a data stream \(\varepsilon\) in \(K\).</p>
+
+<ol>
+
+<li>The <strong>convergence time</strong>, or <strong>modulus</strong>, of a method
+\(\delta\) on \(\varepsilon\) is the least time \(n\) by which \(\delta\)
+converges to a hypothesis \(H\) on \(\varepsilon\). If \(\delta\) is a
+reliable method for \((\mathbf{H}, K)\), then \(\delta\) converges to a
+hypothesis on every data stream \(\varepsilon\) consistent with background
+knowledge \(K\)&mdash;more specifically, \(\delta\) converges to the
+correct hypothesis H\((\varepsilon)\)&mdash;and the convergence time of
+\(\delta\) is well-defined.</li>
+
+<li>An inductive method \(\delta\) <strong>commits an error</strong> at time
+\(n\) on \(\varepsilon\) iff \(\delta(\varepsilon |n)\) is false, i.e.,
+if \(\delta(\varepsilon |n)\ne H(\varepsilon)\). As with convergence
+time, if \(\delta\) is reliable, then it makes only finitely many errors
+on any data stream consistent with background knowledge. The number of
+errors committed by \(\delta\) on a data stream \(\varepsilon\) is thus given by
+\(|\{n:\delta(\varepsilon |n)\ne H(\varepsilon)\}|.\)</li>
+
+<li>To count mind changes (and errors) properly, it is useful to allow
+methods to produce an &ldquo;uninformative conjecture&rdquo;, denoted
+by the symbol ?, which we may think of as a tautologous proposition.
+The point is that we don&rsquo;t want to count a change from &ldquo;no
+opinion&rdquo; to an informative hypothesis as a mind change. This
+device allows us to represent methods that &ldquo;wait&rdquo; until
+further evidence before taking an &ldquo;inductive leap&rdquo;.
+Formally we say that an inductive method \(\delta\) <strong>changes its
+mind</strong> at time \(n+1\) on \(\varepsilon\) iff the method&rsquo;s previous
+conjecture at time \(n\) was informative and changes at time
+\(n+1\). In symbols, \(\delta\) <strong>changes its mind</strong> at time
+\(n+1\) on \(\varepsilon\) iff: \(\delta(\varepsilon |n)\ne\)? and
+\(\delta(\varepsilon |n)\ne \delta(\varepsilon |n+1)\). The
+number of mind changes made by \(\delta\) on a data stream \(\varepsilon\) is
+thus given by \(|\{n:\delta\) changes its mind on \(\varepsilon\) at time
+\(n\}|.\)</li>
+</ol>
+
+<p>
+As we saw in the main entry, assessing methods by how well they do
+vis-a-vis these criteria of cognitive success leads to restrictions on
+inductive inferences in the short run, sometimes very strong
+restrictions. Learning-theoretic characterization theorems specify the
+structure of problems in which efficient inquiry is possible, and what
+kinds of inferences lead to inductive success when it is
+attainable.</p>
+
+<h3>Illustrative Example of the Mathematical Concepts for Identifying True Statistical Hypotheses</h3>
+
+<p>
+We continue with the example from the main entry: The investigator is
+concerned with the bias \(p\) of a coin. The hypothesis \(H\) is that
+the coin is fair, that is, \(p = 0.5.\) Consider the following toy
+method.</p>
+
+<ul>
+
+<li>If the sample is uniformly heads or tails, conjecture &ldquo;the coin is
+not fair&rdquo;.</li>
+
+<li>If the sample contains a mix of heads or tails, conjecture &ldquo;the
+coin is fair&rdquo;.</li>
+</ul>
+
+<p>
+We choose this method because it is easy to describe and its
+conjectures are easy to describe; it would not be recommended for an
+actual learning problem. The table below shows all possible samples of
+size 2, the conjectures of our toy method, and the sample
+probabilities if the true bias is 0.7. The value 0.7 is simply chosen
+for illustration and has no significance. </p>
+
+<div class="figure">
+<table class="cellpad-med-dense hrulesTH">
+<thead>
+<tr>
+ <th><em>Observation&nbsp;1</em></th>
+ <th><em>Observation&nbsp;2</em></th>
+ <th><em>Sample&nbsp;Probability</em></th>
+ <th><em>Conjecture</em></th> </tr>
+</thead>
+<tbody>
+<tr>
+ <td>Heads</td>
+ <td>Heads</td>
+ <td>0.49</td>
+ <td>not \(H\)</td> </tr>
+<tr>
+ <td>Heads</td>
+ <td>Tails</td>
+ <td>0.21</td>
+ <td>\(H\)</td> </tr>
+<tr>
+ <td>Tails</td>
+ <td>Heads</td>
+ <td>0.21</td>
+ <td>\(H\)</td> </tr>
+<tr>
+ <td>Tails</td>
+ <td>Tails</td>
+ <td>0.09</td>
+ <td>not \(H\)</td> 
+</tr>
+</tbody>
+</table>
+
+<p>Table of all possible samples of size \(n=2\) for a coin with a
+true bias of 0.7, so \(p(\text{Heads})=0.7.\) The probability for each
+sample (consisting of two observations) is given along with the
+conjecture according to the toy method where \(H\) represents the
+hypothesis that &ldquo;the coin is fair&rdquo;.</p>
+</div>
+
+<p>
+The <em>aggregate probability</em> that the method
+conjectures \(H\), that the coin is fair, for this scenario
+is computed as follows.</p>
+
+\[
+P_{n=2,p=0.7} = 0.21 + 0.21 = 0.42
+\]
+
+<p>
+
+ <a href="index.html#Sup">Return to Formal Learning Theory</a>
+ </p> 
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2026</a> by
+
+<br />
+<a href="https://www.cs.sfu.ca/~oschulte/" target="other">Oliver Schulte</a>
+&lt;<a href="m&#97;ilto:oschulte&#37;40sfu&#37;2eca"><em>oschulte<abbr title=" at ">&#64;</abbr>sfu<abbr title=" dot ">&#46;</abbr>ca</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

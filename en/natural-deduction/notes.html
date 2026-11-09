@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Natural Deduction Systems in Logic &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/natural-deduction/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/natural-deduction/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=natural-deduction">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Natural Deduction Systems in Logic</a></h2>
+
+<div id="note-1">
+<p><a href="index.html#ref-1">1.</a> It might be noted, however, that G&ouml;del and Bernays both presented natural deduction systems in lectures, at Notre Dame and Princeton respectively, in the late 1930s. Details are in Do&scaron;en and Ad&#382;i&#263; (2018) for G&ouml;del and in von Plato (2008) for Bernays. A detailed historical account of the textbooks can be found in Pelletier (1999).</p>
+</div>
+
+<div id="note-2">
+<p><a href="index.html#ref-2">2.</a> This phrase seems to have been used (with the appropriate mock-religious fervor) first by Routley and Meyer (1973: 199):</p>
+
+<blockquote>
+<p>None of the model structures that Kripke made, nor that Hintikka made,&hellip;were, however, relevant. This caused great sadness in the city of Pittsburgh where dwelt the captains of American Industry. The Logic Industry was there represented by Anderson, Belnap &amp; Sons, discoverers of entailment and scourge of material impliers, strict impliers, and of all that to which their falsehoods and contradictions led. Yea, every year or so Anderson &amp; Belnap turned out a new logic, and they did call it E, or R,&hellip;, and they beheld each such logic, and they were called relevant. &hellip;Word that Anderson &amp; Belnap had made a logic without semantics leaked out. Some thought it was wondrous and rejoiced, that the One True Logic should make its appearance among us in the Form of Pure Syntax, unencumbered by all that set-theoretical garbage.</p>
+</blockquote>
+
+<p>Of course, this was not Natural Deduction being held as a logic to worship, but Relevance Logic.</p>
+</div>
+
+<div id="note-3">
+<p><a href="index.html#ref-3">3.</a> We will go into more detail on needed changes to the rules in <a href="index.html#Norm">&sect;5</a>. For a more leisurely presentation of a natural deduction system for classical logic, see Shapiro and Kouri Kissel 2021.</p>
+</div>
+
+<div id="note-4">
+<p><a href="index.html#ref-4">4.</a> Gentzen (1934) gave natural deduction formalizations of both intuitionistic and classical logics. In this introductory section we mention only his formalization of classical logic. He also discussed sequent calculi for both intuitionistic and classical logics, as we discuss below in <a href="index.html#SequCalcSequNatuDedu">&sect;4</a> and <a href="index.html#Norm">&sect;5</a>.</p>
+</div>
+
+<div id="note-5">
+<p><a href="index.html#ref-5">5.</a> In the present proof, Gentzen has inferred \(\bot\) from \(\neg q\) and \(q\), and then used \(\neg\)-I to get the doubly negated \(r\). At this stage he employed double-negation elimination (\(\neg\neg\)-E)&mdash;one of Gentzen&rsquo;s alternative ways to pass from intuitionistic logic to classical logic&mdash;to infer \(r\) and then employ \(\rightarrow\)-I. Gentzen&rsquo;s main method of passing to classical logic was to allow instances of the Law of Excluded Middle (\(p\lor\neg p\)) to occur as &ldquo;initial&rdquo; formulas in trees (i.e., as logical axioms). We discuss this issue further in <a href="index.html#SequCalcSequNatuDedu">&sect;4</a> and <a href="index.html#Norm">&sect;5</a>. See particularly <a href="#int2cl">note 23</a> below.</p>
+
+<p>The particular presentations of Gentzen-style proofs in this document are due to Sam Buss&rsquo;s LaTeX package, bussproofs.</p>
+</div>
+
+<div id="note-6">
+<p><a href="index.html#ref-6">6.</a> The main method that Ja&#347;kowski&rsquo;s article describes resembles that of Quine (1950a), but we shall not further consider it, concentrating only on the method of the footnote. Details about the relationship of these two methods can be found in Pelletier (1999).</p>
+</div>
+
+<div id="note-7">
+<p><a href="index.html#ref-7">7.</a> The actual rules (and their names) employed by Ja&#347;kowski are different from the more modern ones we cite in this example. But the overall effect is about the same.</p>
+</div>
+
+<div id="note-8">
+<p><a href="index.html#ref-8">8.</a> The particular presentations using Fitch&rsquo;s method in this document are due to Johan Kl&uuml;wer&rsquo;s LaTeX package, fitch.</p>
+</div>
+
+<div id="note-9">
+<p><a href="index.html#ref-9">9.</a> The liberal-minded may generalize the rule to allow an \(n\)-adic conjunction, for arbitrary finite \(n\), to be inferred from its \(n\) conjuncts. More conservative logicians will use repeated applications of the dyadic rule for this purpose.</p>
+</div>
+
+<div id="note-10">
+<p><a href="index.html#ref-10">10.</a> The pedantic may think of this as two rules, depending on whether the left or right conjunct is the conclusion. Liberals will of course generalize the rule to allow \(n\)-adic conjunctions as premisses.</p>
+</div>
+
+<div id="note-11">
+<p><a href="index.html#ref-11">11.</a> Similar variations for pedants, liberals, and conservatives.</p>
+</div>
+
+<div id="note-12">
+<p><a href="index.html#ref-12">12.</a> It is easily seen that this rule can be restricted to yield only atomic formulas as conclusions: the effect of using it to establish a logically complex \(B\) as conclusion can be obtained by using various introduction rules after (possibly multiple) applications of the restricted rule. In our discussion of normalization, <a href="index.html#Norm">&sect;5</a> below, we will tacitly assume this restriction.</p>
+</div>
+
+<div id="note-13">
+<p><a href="index.html#ref-13">13.</a> The conclusion of this rule is obtained by <em>adding</em> a negation operator to the hypothesis of the subproof. Many authors dub the corresponding rule in which the conclusion <em>subtracts</em> a negation &ldquo;negation elimination&rdquo;. (Both rules sometimes go by the name <em>reductio ad absurdum</em>.) In classical logic, both rules are valid, but only the negation-adding rule holds in, e.g., intuitionistic logic. The negation-subtracting rule is very powerful: it can be taken as the only negation rule in classical logic, others being derivable from it. It does not fit naturally into the pattern of Int-Elim rules: in particular, the basic normalization result (see <a href="index.html#Norm">&sect;5</a>) depends on pairing \(\neg\)-I with the \(\neg\)-E rule as stated above. For these reasons we would urge that the negation <em>subtracting</em> rule be given a distinctive name. We like <em>Indirect Proof</em>.</p>
+</div>
+
+<div id="note-14">
+<p><a href="index.html#ref-14">14.</a> Introduction/elimination rules are usually abbreviated, by stating the connective followed by -I (or -Int or -Intro), and by -E (or -Elim). We mostly use -I and -E.</p>
+</div>
+
+<div id="note-15">
+<p><a href="index.html#ref-15">15.</a> This simple statement is sufficient if \(t\) is a constant or parameter, or built up from such by means of function-symbols. If the bound variables of the language are drawn from the same alphabet as the parameters, so that \(t\) may contain (or be) a bindable variable, some restriction is needed to prevent unintended &ldquo;capture&rdquo; of variables: \(t\) must not contain a variable bound by a quantifier in whose scope \(t\) occurs in \(A(x)\). The same restriction is needed in \(\exists\)-I. (This annoyance is not unique to systems of natural deduction: it affects, e.g., axiomatic systems as well.)</p>
+</div>
+
+<div id="note-16">
+<p><a href="index.html#ref-16">16.</a> Again, variable capture is to be avoided if the formation rules of the language make it a possibility. So, add the restriction that the variable, \(x\), bound by the initial quantifier of \(\forall xA(x)\) must not also be bound by a quantifier within \(A(a)\) whose scope includes an occurrence of \(a\). The same restriction is needed for \(\exists\)-Elimination (and, of course, in analogous rules of non-natural deduction systems.)</p>
+</div>
+
+<div id="note-17">
+<p><a href="index.html#ref-17">17.</a> In our opinion this pretense makes it a lot easier to understand what quantifiers and quantifier rules are doing, and it is often adopted by logicians wanting to get on with the job without bogging down in technicalities. Philosophers may worry (one of us used to) about the idea of names for indiscernible elements in some domains, or about names for <em>all</em> the elements in nondenumerable domains. Suffice it to say that (using about the same set-theoretic resources as are needed for the standard, Tarskian, account of quantifiers) the idea of an extension of a given language containing constants for all the elements of an arbitrary domain can be made completely rigorous.</p>
+</div>
+
+<div id="note-18">
+<p><a href="index.html#ref-18">18.</a> Gentzen had used \(\supset\) as his symbol for the object language conditional, and therefore had the arrow symbol \(\longrightarrow\) available to represent the relationship between the lists of symbols. Since we employ \(\rightarrow\) as our object language conditional, we use \(\vdash\) as our way to represent this relationship, which is the most common convention in current literature.</p>
+</div>
+
+<div id="note-19">
+<p><a href="index.html#ref-19">19.</a> Counting rules like \(\land\)-Elim [\((\phi\land\psi)\vdash\phi\) and \((\phi\land\psi)\vdash\psi\)] as just one rule.</p>
+</div>
+
+<div id="note-20">
+<p><a href="index.html#ref-20">20.</a> The method in Suppes is also used in Lemmon (1965) [who says his rules are due to Gentzen, but doesn&rsquo;t specify <em>which</em> of Gentzen&rsquo;s systems of rules he is talking about] and Mates (1965). Suppes does not say that his method is derived from an analysis of Gentzen&rsquo;s methods, but rather because &ldquo;they seemed close to ordinary informal reasoning.&rdquo; So our account is perhaps best seen as a &ldquo;rational reconstruction&rdquo;: Suppes&rsquo;s system <em>could have been</em> discovered in the way we suggest, and pretending it was thus discovered makes it easier to understand its relation to other natural deduction and sequent calculi.</p>
+</div>
+
+<div id="note-21">
+<p><a href="index.html#ref-21">21.</a> In contrast, the presentation in Gentzen (1936) explicitly wrote out each of the formulas that a line in his proof depended on.</p>
+</div>
+
+<div id="note-22">
+<p><a href="index.html#ref-22">22.</a> Although Lemmon says his rules are due to Gentzen, he also says that the detailed formulation is due
+to Suppes. He also cites Mates rules as being due to Suppes.</p>
+</div>
+
+<div id="note-23">
+<p><a href="index.html#ref-23">23.</a> Most rules involving suppositions are standard in this variation, but the \(\lor\)-E rule is rather different:</p>
+\[ \begin{align*} \text{From } &amp; \vdash \Gamma, (\phi\lor\psi), \Delta\\ \text{Infer } &amp; \vdash \Gamma, \phi, \psi, \Delta\\ \end{align*} \]
+
+<p>Cellucci (1992) describes this system and its metatheory: the system turns out to be surprisingly efficient, often giving quite compact proofs, despite the repetition of formulas in multiple sequences.</p>
+</div>
+
+<div id="note-24">
+<p><a href="index.html#ref-24" id="int2cl">24.</a> For example, any of the following would do to effect the extension to classical logic, as would various other possibilities. (The first is a simplification of Gentzen&rsquo;s original rule, which had \((\phi\lor\neg\phi)\) formulas (\(\phi\) an atomic) as leaves of trees.)</p>
+
+<div class="figures" id="note24figa">
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Gentzen style proof: link to extended description below" src="prooftree6a.svg" />
+<p class="center">(a)</p>
+</div>
+
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Gentzen style proof: link to extended description below" src="prooftree6b.svg" />
+<p class="center">(b)</p>
+</div>
+
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Gentzen style proof: link to extended description below" src="prooftree6c.svg" />
+<p class="center">(c)</p>
+</div>
+
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Gentzen style proof: link to extended description below" src="prooftree6d.svg" />
+<p class="center">(d)</p>
+</div>
+
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Gentzen style proof: link to extended description below" src="prooftree6e.svg" />
+<p class="center">(e)</p>
+</div>
+
+<p>[An <a href="figdesc.html#note24figa">extended description of the figures in note 24</a> is in the supplement.]</p>
+</div>
+</div>
+
+<div id="note-25">
+<p><a href="index.html#ref-25">25.</a> Fitch formulations for all these revised <span class="small">TONK</span> rules are:</p>
+
+<div class="figures" id="note25figa">
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Fitch style proof: link to extended description below" src="fitch6a.svg" />
+<p class="center">(a)</p>
+</div>
+
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Fitch style proof: link to extended description below" src="fitch6b.svg" />
+<p class="center">(b)</p>
+</div>
+
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Fitch style proof: link to extended description below" src="fitch6c.svg" />
+<p class="center">(c)</p>
+</div>
+</div>
+
+<p>And the alternative formulation where the <span class="small">TONK</span>-I rule gets altered is:</p>
+
+<div class="figures" id="note25figb">
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Fitch style proof: link to extended description below" src="fitch7a.svg" />
+<p class="center">(d)</p>
+</div>
+
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Fitch style proof: link to extended description below" src="fitch7b.svg" />
+<p class="center">(e)</p>
+</div>
+
+<div class="inner-fig" style="vertical-align: bottom"><img alt="Fitch style proof: link to extended description below" src="fitch7c.svg" />
+<p class="center">(f)</p>
+</div>
+
+<p>[An <a href="figdesc.html#note25figa">extended description of the figures in note 25</a> is in the supplement.]</p>
+</div>
+</div>
+
+<div id="note-26">
+<p><a href="index.html#ref-26">26.</a> Although there have been various instances of this view of language throughout the history of philosophy and linguistics, it has usually attributed most strongly to Wittgenstein&rsquo;s <em>Philosophical Investigations</em> and the many like-minded works of the mid-twentieth century.</p>
+</div>
+<script type="text/javascript" src="local.js"></script><script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2026</a> by
+
+<br />
+<a href="http://www.ualberta.ca/~francisp/" target="other">Francis Jeffry Pelletier</a>
+&lt;<a href="m&#97;ilto:francisp&#37;40ualberta&#37;2eca"><em>francisp<abbr title=" at ">&#64;</abbr>ualberta<abbr title=" dot ">&#46;</abbr>ca</em></a>&gt;<br />
+Allen Hazen
+&lt;<a href="m&#97;ilto:aphazen&#37;40ualberta&#37;2eca"><em>aphazen<abbr title=" at ">&#64;</abbr>ualberta<abbr title=" dot ">&#46;</abbr>ca</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

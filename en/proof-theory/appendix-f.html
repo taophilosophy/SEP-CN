@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Proof Theory &gt; F. Provably Computable Functions (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/proof-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/proof-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Proof Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>F. Provably Computable Functions</h2>
+
+<p>
+One aim of proof theory is to find uniform scales against which one
+can measure the computational complexity of functions verifiably
+computable in &ldquo;known&rdquo; theories. Given a theory <i>T</i>,
+one is often interested in its provably computable
+functions, also know as its provably recursive functions.</p>
+
+<div class="indent" id="provably">
+
+<p>
+<span class="bold">Definition F.1</span> Let <i>T</i> be a theory
+whose language comprises that of <strong>PA</strong>. A function
+\(f:\bbN^k\to \bbN\) is <em>\(\Sigma^0_i\)-definable in <i>T</i></em>
+if there is a \(\Sigma^0_i\)-formula \(A(x_1,\ldots,x_k,y)\) such
+that</p>
+
+<ol>
+
+<li>
+
+<p>
+\(T\vdash \forall x_1\ldots\forall x_k\,\exists!
+y\,A(x_1,\ldots,x_k,y)\), and</p></li>
+
+<li>
+
+<p>
+\(A(n_1,\ldots,n_k,m)\) holds if and only if \(f(n_1,\ldots,n_k)=m\)
+for all \(n_1,\ldots,n_k,m\in \bbN\).</p></li>
+</ol>
+
+<p>
+The function <i>f</i> is <em>provably computable in <i>T</i></em> if
+<i>f</i> is \(\Sigma_1^0\)-definable in <i>T</i>.</p>
+</div>
+
+<p>
+One of the oldest results of this sort is due to many people (at least
+Mints, Parsons, Takeuti).</p>
+
+<div class="indent">
+
+<p>
+<span class="bold">Theorem F.2</span> The provably computable functions
+of \(\mathbf{I}\Sigma^0_1\) are the primitive recursive functions,
+where \(\mathbf{I}\Sigma^0_1\) is the fragment of <strong>PA</strong>
+with induction restricted to \(\Sigma^0_1\)-formulae.</p>
+</div>
+
+<p>
+A not too difficult proof is obtained via partial cut elimination
+followed by &ldquo;reading-off&rdquo; primitive recursive bounds for
+existential quantifiers in such
+ proofs.<sup>[<a href="notes.html#note-59" id="ref-59">59</a>]</sup></p>
+ 
+<p>
+For full <strong>PA</strong> there is Kreisel&rsquo;s classification
+of the provably computable functions as the \(&lt;\varepsilon_0\)
+recursive functions in Kreisel 1952. Here an ordinal representation
+system provides the uniform scale. Such a characterization can
+actually be extracted from the ordinal analysis of any theory. Indeed,
+it is a general fact that an ordinal analysis of a theory <i>T</i>
+yields, as a by-product, a characterization of the provably computable
+functions of <i>T</i>. An ordinal analysis of <i>T</i> via an ordinal
+representation system \(\langle A,\lhd,\ldots\rangle\) provides a
+reduction (also ensuring at least \(\Pi^0_2\)-conservativity) of
+<i>T</i> to </p> 
+
+\[\tag{f1}\label{allgemein}
+\PA+\bigcup_{\alpha\in A} \rTI (\lhd_{\bar{\alpha}})
+\]
+
+<p>
+where \(\bigcup_{\alpha\in A} \rTI (\lhd_{\bar{\alpha}})\) denotes the
+schema of transfinite induction for all initial segments
+\(\lhd_{\bar{\alpha}}\) of the well-ordering \(\lhd\) (indexed
+externally). On the strength of the latter, it suffices to
+characterize the provably computable functions of theories of type
+\((\ref{allgemein})\).</p>
+
+<div class="indent">
+
+<p>
+<span class="bold">Definition F.3</span> Let \(\alpha\in A\) such that
+\(0\lhd\alpha\). A number-theoretic function <i>f</i> is called
+\(\alpha\)-recursive if it can be generated by the usual schemes for
+generating primitive recursive functions plus the following scheme:
+</p> 
+
+\[
+f(m,\vec{n}) =\left\{\begin{array}{@{}ll}
+ h(m,\vec{n},f(\theta(m,\vec{n}),\vec{n})) &amp; \textrm{if } 0\lhd m\lhd\alpha\\
+ g(m,\vec{n})                                            &amp; \textrm{otherwise,}\end{array}\right.
+\]
+
+<p>
+where \(g,h,\theta\) are \(\alpha\)-recursive and \(\theta\) satisfies
+\(\theta(\beta,\vec{x})\lhd\beta\) whenever
+\(0\lhd\beta\lhd\alpha\).</p>
+</div>
+
+<div class="indent" id="kms">
+
+<p>
+<span class="bold">Theorem F.4</span> The provably computable functions
+of \(\PA+\bigcup_{\alpha\in A}
+\rTI(A_{\bar{\alpha}},\lhd_{\bar{\alpha}})\) are exactly the 
+functions which are \(\alpha\)-recursive for some \(\alpha\in A\).</p>
+</div>
+
+<p>
+The proof of Theorem F.4 poses, however, fascinating technical
+problems since the cut elimination usually takes place in infinitary
+calculi. A cut-free proof of a \(\Sigma^0_1\) statement can still be
+infinite and one needs a further &ldquo;collapse&rdquo; into the
+finite to be able to impose a numerical bound on the existential
+quantifier. One technical tool for achieving this characterization is
+to embed \(\PA+\bigcup_{\alpha\in A}\rTI(\lhd_{\bar{\alpha}})\) into a
+system of Peano arithmetic with the \(\omega\)-rule and a
+<em>repetition rule</em>, <span>Rep</span>, which simply repeats the
+premise as the conclusion. The addition of the <span>Rep</span> rule
+enables one to carry out a <em>continuous cut elimination</em>, due to
+Mints (1978), which is a continuous operation in the usual tree
+topology on proof trees. A further pivotal step consists in making the
+\(\omega\)-rule more constructive by assigning codes to proofs, where
+codes for applications of finitary rules contain codes for the proofs
+of the premises, and codes for applications of the \(\omega\)-rule
+contain G&ouml;del numbers for partial functions enumerating codes of
+the premises. The aforementioned enumerating functions can be required
+to be partial recursive, making the proof trees recursive, or even
+primitive recursive in the presence of the rule <span>Rep</span> which
+enables one to stretch recursive trees into primitive recursive ones.
+A variant of the characterization of
+ <a href="#kms">Theorem F.4</a><sup>[<a href="notes.html#note-60" id="ref-60">60</a>]</sup>
+ is given in Friedman &amp; Sheard 1995, where the provably computable functions
+of \(\PA+\bigcup_{\alpha\in A}\rTI(\lhd_{\bar{\alpha}})\) are
+classified as the <em>descent recursive functions over <i>A</i>.</em>
+However, there is a more recent approach which has the great advantage
+over the previous one that one need not bother with codes for infinite
+derivations. In this approach one adds an extra feature to infinite
+derivations by which one can exert a greater control on derivations so
+as to be able to directly read off numerical bounds from cut free
+proofs of \(\Sigma_1^0\) statements. This has been carried out in
+Buchholz &amp; Wainer 1987 for the special case of
+<strong>PA</strong>. In much greater generality and flexibility this
+approach has been developed by Weiermann (1996).</p>
+
+<p>
+Ordinal analysis can also be used to extract information about other
+types of provable functions and higher type functionals, for example,
+hyperarithmetic functions, set recursive functions and ordinal
+recursive functions; cf. Rathjen 2006.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="https://eps.leeds.ac.uk/maths/staff/4073/professor-michael-rathjen" target="other">Michael Rathjen</a>
+&lt;<a href="m&#97;ilto:rathjen&#37;40maths&#37;2eleeds&#37;2eac&#37;2euk"><em>rathjen<abbr title=" at ">&#64;</abbr>maths<abbr title=" dot ">&#46;</abbr>leeds<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+Wilfried Sieg
+&lt;<a href="m&#97;ilto:sieg&#37;40cmu&#37;2eedu"><em>sieg<abbr title=" at ">&#64;</abbr>cmu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

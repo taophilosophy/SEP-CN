@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Lambda Calculus &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/lambda-calculus/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/lambda-calculus/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=lambda-calculus">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">The Lambda Calculus</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ When
+laying out the early principles of \(\lambda\)-calculus, Church
+restricted \(\beta\)-reduction to only those cases where variable capture
+does not occur. As an illustration of the kinds of difficulties that
+can arise if one is too casual about free and bound variables, one can
+formulate a sequent calculus for first-order logic where cut
+elimination fails if one views first-order formulas as concrete
+objects rather than as an equivalence class of \(\alpha\)-convertible
+formulas.</p>
+
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ Other definitions of
+substitution are available. One can, for example, modify clause (5)
+by requiring that all free occurrences of \(y\) in \(M\) are
+rewritten so that they do not become bound after substitution. In
+this way the variable capture that we are trying to avoid is built in
+to the definition of substitution and thereby does not need to be laid
+down as a separate convention.</p>
+
+<p>
+
+There is a small price to pay for such an approach, though: the
+definition of substitution is somewhat more complicated than the
+straightforward definition given here. There is even some
+nondeterminism in such an approach to substitution: if we need to
+rewrite free occurrences of \(y\) in \(M\) before
+substituting \(M\) for free occurrences of \(x\) in
+\(\lambda y[A]\), how should we do it? Which of the
+infinitely many variables should we choose? One can get around this
+difficulty by using a predefined enumeration of the set of variables,
+or by other syntactic measures such as the so-called de Bruijn
+representation of terms (which this entry does not treat). Our
+straightforward approach suffices for this entry&rsquo;s introductory
+purposes.</p>
+
+</div>
+
+<div id="note-3">
+
+<p>
+
+<a href="index.html#ref-3">3.</a> The theorem says
+given \(M\) one can find at least one \(F\)
+that \(Fx = M\), but in fact there are infinitely
+many. For example, if \(Fx = M\),
+then \(\bK F \bK\) also works. Church&rsquo;s initial understanding of
+\(\lambda x[M]\) was existential&mdash;a solution
+of \(Fx = M\) for \(F\)&mdash;though nowadays one
+understands \(\lambda x[M]\) as a unique object, namely, the
+function that, given \(x\), produces \(M\).</p>
+
+</div>
+
+<div id="note-4">
+
+<p>
+
+<a href="index.html#ref-4">4.</a> This is not to say that no
+sense whasotever can be made of adding 5 and the identity function.
+The intention of this example is to motivate the differentiation of a
+domain of discourse into kinds or types.</p>
+
+<p>
+
+Indeed, if one wanted, one possible strategy for interpreting such
+a combination would be to &lsquo;promote&rsquo; the number 5 by
+reading it as the constant function \(\lambda x\)[5]; we then need
+to understand addition of unary functions. One can can naturally
+understand \((\lambda x[5]) + (\lambda x[x]\)) as
+\((\lambda x[5 + x])\).</p>
+
+</div>
+
+<div id="note-5">
+
+<p>
+
+<a href="index.html#ref-5">5.</a> If an untyped
+\(\lambda\)-term \(M\) can be assigned one type, then it can be
+assigned infinitely many types: for any type variable \(a\) occurs
+in the type \(\sigma\) assigned to \(M\), one can substitute any type
+\(\tau\), and the result is still a type for \(M\). For example, the
+combinator \(\bI\) can be assigned the type \(a \rightarrow a.\)
+Thus, it can be assigned the types:</p>
+
+\[\begin{align}
+&amp;a \rightarrow a \\
+&amp;a \rightarrow(a \rightarrow a) \\
+&amp;(a \rightarrow a) \rightarrow a \\
+&amp;(a \rightarrow a) \rightarrow(a \rightarrow a) \\
+&amp;\vdots
+\end{align}\]
+
+<p>
+
+It is thus not correct to talk about <em>the</em> type of a typable
+term.</p>
+
+<p>
+
+Nonetheless, a result known as the <em>principal type theorem</em>
+assures us that the situation with \(\bI\) just illustrated is
+typical: if a term \(M\) can be assigned a type at all, then there
+is a type \(\tau\) such that all types that can be assigned to \(M\)
+are instances of \(\tau\). Such a type is called a <em>principal
+type</em> of \(M\). Even though it is improper to talk
+about <em>the</em> principal type of a typable term&mdash;if \(a\)
+and \(b\) are distinct type variables, then \(a \rightarrow a\) and \(b \rightarrow b\) are distinct principal
+types of \(\bI\)&mdash;there is still a precise sense in which there
+is one and only one principal type of a typable term: \(a \rightarrow a\) and \(b \rightarrow b\) are simply (uniform)
+substitution instances of each other.</p>
+
+<p>
+
+There is an algorithm for computing principal types; see (Hindley,
+1997, chapter 3).</p>
+
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+<strong>Definition</strong>: For a natural number \(n\), define
+\(\bc_n\), the \(n\)th <strong><em>Church numeral</em></strong>, as
+\(\lambda f[\lambda x[f^n x]]\).  \((\text{&lsquo;}f^n x\text{&rsquo;}\) is the
+application of the \(n\)-fold iteration of \(f\) to \(x.)\)</p>
+
+<p>
+
+Thus \(\bc_0\), the Church numeral for the natural number 0, is
+\(\lambda x[x], \bc_1\) is \(\lambda f[\lambda x[fx]], \bc_2\) is
+\(\lambda f[\lambda x[f(fx)]]\), and so forth.</p>
+
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://jessealama.net/cv/" target="other">Jesse Alama</a>
+<br />
+<a href="http://jkorbmacher.org/" target="other">Johannes Korbmacher</a>
+&lt;<a href="m&#97;ilto:j&#37;2ekorbmacher&#37;40uu&#37;2enl"><em>j<abbr title=" dot ">&#46;</abbr>korbmacher<abbr title=" at ">&#64;</abbr>uu<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

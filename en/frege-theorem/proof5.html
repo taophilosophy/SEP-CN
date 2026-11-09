@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Frege’s Theorem and Foundations for Arithmetic &gt; Proof of Equinumerosity Lemma (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/frege-theorem/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/frege-theorem/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-theorem">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Frege&rsquo;s Theorem and Foundations for Arithmetic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Proof of Equinumerosity Lemma</h2>
+
+<p>
+In this proof of the Equinumerosity Lemma, we utilize the following abbreviation, where \(\mathrm{\phi}\) is any formula in which the variable \(y\) may or may not be free and \(\mathrm{\phi}^{\nu}_{\upsilon}\) is the result of replacing the free occurrences of \(\upsilon\) in \(\mathrm{\phi}\) by \(\nu\):</p>
+
+<p class="indent">
+\(x\eqclose \mathit{\iota}y\mathrm{\phi} \eqabbr \mathrm{\phi}\amp \forall z(\mathrm{\phi}^z_y \rightarrow z\eqclose x)\)
+</p>
+
+<p>
+We may read this as follows:</p>
+
+<p class="indent">
+\(x\) is identical to <em>the</em> object \(y\) which is such that \(\mathrm{\phi}\) if and only if both \(x\) is such that \(\mathrm{\phi}\) and everything which is such that \(\mathrm{\phi}\) is identical to \(x\).
+</p>
+
+<p>
+This abbreviation is employed below to simplify the definition of new relations. Given this new notation, we will use only the following simple consequence of this definition:</p>
+
+<p class="indent">
+<b>Principle of Descriptions</b>:
+<br/>
+\(x\eqclose \mathit{\iota} y\mathrm{\phi}\rightarrow \mathrm{\phi}^x_y \)
+</p>
+
+<p>
+In other words, if \(x\) is <em>the</em> object \(y\) such that \(\mathrm{\phi} (y)\), then \(x\) is such that \(\mathrm{\phi}\). The use of this principle will be obvious in what follows.</p>
+
+<p>
+<em>Proof of Equinumerosity Lemma</em>. Assume that \(P\approx Q, Pa\), and \(Qb\). So there is a relation, say \(R\), such that (a) \(R\) maps every object falling under \(P\) to a unique object falling under \(Q\) and (b) for every object falling under \(Q\) there is a unique object falling under \(P\) which is \(R\)-related to it. Now we use \(P^{-a}\) to designate \([\lambda z \, Pz\amp z\neq a]\), and we use \(Q^{-b}\) to designate \([\lambda z \, Qz\amp z\neq b]\). We want to show that \(P^{-a}\approx Q^{-b}\). By the definition of equinumerosity, we have to show that there is a <em>functional</em> relation \(R'\) which is 1-1 from the objects falling under \(P^{-a}\) onto the objects falling under \(Q^{-b}\). We prove this by cases.</p>
+
+<p>
+<em>Case 1</em>: Suppose \(Rab\). Then we choose \(R'\) to be \(R\) itself. Clearly, \(R\) is then a 1-1 functional relation from the objects of \(P^{-a}\) to the objects of \(Q^{-b}\). But the proof can be given as follows. We show: (A) that \(R\) is a functional relation from the objects of \(P^{-a}\) to the objects of \(Q^{-b}\), and then (B) that \(R\) is a 1-1 functional relation from the objects of \(P^{-a}\) onto the objects of \(Q^{-b}\).</p>
+
+<p>
+(A) Pick an arbitrary object, say \(c\), such that \(P^{-a}c\). We want to show that there is a unique object which falls under \(Q^{-b}\) and to which \(c\) bears \(R\). Since \(P^{-a}c\), we know that \(Pc\amp c\neq a\), by the definition of \(P^{-a}\). But if \(Pc\), then by our hypothesis that \(R\) is a witness to the equinumerosity of \(P\) and \(Q\), it follows that there is a unique object, say \(d\), such that \(Qd\) and \(Rcd\). But we are considering the case in which \(Rab\) and so from the established facts that \(Rcd\) and \(c\neq a\), it follows by the 1-1 character of \(R\) that \(b\neq d\). So we have that \(Qd\) and \(d\neq b\), which establishes that \(Q^{-b}d\). And we have also established that \(Rcd\). So it remains to show that every other object that falls under \(Q^{-b}\) to which \(c\) bears \(R\) just is identical to \(d\). So suppose \(Q^{-b}e\) and \(Rce\). Then by definition of \(Q^{-b}\), it follows that \(Qe\). But now \(e=d\), for \(d\) is the unique object falling under \(Q\) to which \(c\) bears \(R\). So there is a unique object which falls under \(Q^{-b}\) and to which \(c\) bears \(R\).</p>
+
+<p>
+(B) Pick an arbitrary object, say \(d\), such that \(Q^{-b}d\). We want to show that there is a unique object falling under \(P^{-a}\)that bears \(R\) to \(d\). Since \(Q^{-b}d\), we know \(Qd\) and \(d\neq b\). From \(Qd\) and the fact that \(R\) witnesses the equinumerosity of \(P\) and \(Q\), we know that there is a unique object, say \(c\), that falls under \(P\) and which bears \(R\) to \(d\). Since we are considering the case in which \(Rab\), and we&rsquo;ve established \(Rcd\) and \(d\neq b\), it follows that \(a\neq c\), by the fact that \(R\) is a functional relation. Since we now have \(Pc\) and \(c\neq a\), we have established that \(c\) falls under \(P^{-a}\), and moreover, that \(Rcd\). So it remains to prove that any other object that falls under \(P^{-a}\) and which bears \(R\) to \(d\) just is (identical to) \(c\). But if \(f\), say, falls under \(P^{-a}\) and bears \(R\) to \(d\), then \(Pf\), by definition of \(P^{-a}\). But recall that \(c\) is the unique object falling under \(P\) which bears \(R\) to \(d\). So \(f=c\).</p>
+
+<p>
+<em>Case 2</em>: Suppose \(\neg Rab\). Then we choose \(R&rsquo;\) to be the relation:</p>
+
+<div class="indent">
+\[\begin{align*}
+&amp;[\lambda xy \, (x\neqclose a \amp y\neqclose b\amp Rxy)\ \lor \\
+&amp;\quad (x\eqclose \mathit{\iota}u(Pu\amp Rub)\amp y\eqclose \mathit{\iota}u(Qu\amp Rau))]
+\end{align*}\]
+</div>
+
+<p>
+To see that there is such a relation, note that once we replace the abbreviations \(x=\mathit{\iota}u(Pu\amp Rub)\) and \(y=\mathit{\iota}u(Qu\amp Rau)\) by primitive notation, the matrix of the \(\lambda\)-expression is a formula of the form \(\mathrm{\phi}(x,y)\) which can be used in an instance of the Comprehension Principle for Relations.</p>
+
+<p>
+Now we want to show that \(R&rsquo;\) is a 1-1 functional relation from the objects of \(P^{-a}\) onto the objects of \(Q^{-b}\). We show (A) that \(R&rsquo;\) is a functional relation from the objects of \(P^{-a}\) to the objects of \(Q^{-b}\), and then (B) that \(R&rsquo;\) is a 1-1 functional relation from the objects of \(P^{-a}\) onto the objects of \(Q^{-b}\).</p>
+
+<p>
+(A) To show that \(R&rsquo;\) is a functional relation from the objects of \(P^{-a}\) to the objects of \(Q^{-b}\), pick an arbitrary object, say \(c\), such that \(P^{-a}c\). Then by definition of \(P^{-a}\), we know that \(Pc\) and \(c\neq a\). We need to find an object, say \(d\) for which the following three things hold: (i) \(Q^{-b}d\), (ii) \(R&rsquo;cd\), and (iii) \(\forall w(Q^{-b}w \amp R&rsquo;cw\rightarrow w=d)\). We find such a \(d\) in each of the following, mutually exclusive subcases:</p>
+
+<div class="indent">
+
+<p>
+Subcase 1: \(Rcb\). So, since we know that each object falling under \(Q\) is such that there is a unique object falling under \(P\) that is \(R\)-related to it, we know that \(c= \mathit{\iota}u(Pu\amp Rub)\). Then, since we know R maps \(a\) to a unique object falling under \(Q\), we let \(d\) be that object. That is, \(d\) satisfies the defined condition \(d=\mathit{\iota}u(Qu\amp Rau)\). So \(Qd\), \(Rad\), and \(\forall w(Qw\amp Raw\rightarrow w=d)\). We now show that (i), (ii) and (iii) hold for \(d\):</p>
+
+<ol type="i">
+
+<li>Since we know \(Qd\), all we have to do to establish \(Q^{-b}d\) is to show \(d\neq b\). But we know \(Rad\) and we are considering the case where \(\neg Rab\). So, by the laws of identity, \(d\neq b\).</li>
+
+<li>
+
+<p>
+To show \(R&rsquo;cd\), we need to establish:</p>
+
+\[\begin{align*}
+&amp;(c\neqclose a\amp d\neqclose b\amp Rcd)\ \lor \\
+&amp;\quad (c\eqclose \mathit{\iota}u(Pu\amp Rub)\amp d\eqclose \mathit{\iota}u(Qu\amp Rau))
+\end{align*}\]
+
+<p>
+But the conjunctions of the right disjunct are true (by assumption and by definition, respectively). So \(R'cd\).</p></li>
+
+<li>
+
+<p>
+Suppose \(Q^{-b}e\) (i.e., \(Qe\) and \(e\neq b\)) and \(R'ce\). We want to show: \(e=d\). Since \(R'ce\), then:</p>
+
+\[\begin{align*}
+&amp;(c\neqclose a\amp e\neqclose b\amp Rce)\ \lor \\
+&amp;\quad (c\eqclose \mathit{\iota}u(Pu\amp Rub)\amp e\eqclose \mathit{\iota}u(Qu\amp Rau))
+\end{align*}\]
+
+<p>
+But the left disjunct is impossible (we&rsquo;re considering the subcase where \(Rcb\), yet the left disjunct asserts \(Rce\) and \(e\neq b\), which together contradict the fact that \(R\) is a functional relation). So the right disjunct must be true, in which case it follows from the fact that \(e=\mathit{\iota}u(Qu\amp Rau)\) that \(e=d\), by the definition of \(d\).</p></li>
+</ol>
+
+<p>
+Subcase 2: \(\neg Rcb\). We are under the assumption \(P^{-a}c\) (i.e., \(Pc\) and \(c\neq a\)), and so we know by the definition of \(R\) and the fact that \(Pc\) that there is a unique object which falls under \(Q\) and to which \(c\) bears \(R\). Choose \(d\) to be this object. So \(Qd\), \(Rcd\), and \(\forall w(Qw\amp Rcw\rightarrow w=d)\). We can now show that (i), (ii) and (iii) hold for \(d\):</p>
+
+<ol type="i">
+
+<li>Since we know \(Qd\), all we have to do to establish that \(Q^{-b}d\) is to show \(d\neq b\). We know that \(Rcd\) and we are considering the subcase where \(\neg Rcb\). So it follows that \(d\neqclose b\), by the laws of identity. So \(Q^{-b}d\).</li>
+
+<li>
+
+<p>
+To show \(R&rsquo;cd\), we need to establish:</p>
+
+\[\begin{align*}
+&amp;(c\neqclose a\amp d\neqclose b\amp Rcd)\ \lor \\
+&amp;\quad (c\eqclose \mathit{\iota}u(Pu\amp Rub)\amp d\eqclose \mathit{\iota}u(Qu\amp Rau))
+\end{align*}\]
+
+<p>
+But the conjuncts of the left disjunct are true, for \(c\neq a\) (by assumption), \(d\neq b\) (we just proved this), and \(Rcd\) (by the definition of \(d\)). So \(R&rsquo;cd\).</p></li>
+
+<li>
+
+<p>
+Suppose \(Q^{-b}e\) (i.e., \(Qe\) and \(e\neq b)\) and \(R&rsquo;ce\). We want to show: \(e=d\). Since \(R&rsquo;ce\), then:</p>
+
+\[\begin{align*}
+&amp;(c\neqclose a\amp e\neqclose b\amp Rce)\ \lor \\
+&amp;\quad (c\eqclose \mathit{\iota}u(Pu\amp Rub)\amp e\eqclose \mathit{\iota}u(Qu\amp Rau))
+\end{align*}\]
+
+<p>
+But the right disjunct is impossible (we&rsquo;re considering the subcase where \(\neg Rcb\), yet the right disjunct asserts \(c=\mathit{\iota}u(Pu\amp Rub)\), which implies \(Rcb\), a contradiction). So \(c\neq a\amp e\neq b \amp Rce\). Since we now know that \(Qe\) and \(Rce\), we know that \(e=d\), since \(d\) is, by definition, the unique object falling under \(Q\) to which \(c\) bears \(R\).</p></li>
+</ol>
+</div>
+
+<p>
+(B) To show that \(R&rsquo;\) is a 1-1 functional relation from the objects of \(P^{-a}\) onto the objects of \(Q^{-b}\), pick an arbitrary object, say \(d\), such that \(Q^{-b}d\). Then by definition of \(Q^{-b}\), we know that \(Qd\) and \(d\neq b\). We need to find an object, say \(c\), for which the following three things hold: (i) \(P^{-a}c\), (ii) \(R&rsquo;cd\), and (iii) \(\forall w(P^{-a}w\amp R&rsquo;wd\rightarrow w=c)\). We find such a \(c\) in each of the following, mutually exclusive cases:</p>
+
+<div class="indent">
+
+<p>
+Subcase 1: \(Rad\). So \(d=\mathit{\iota}u(Qu\amp Rau)\). Then choose \(c=\mathit{\iota}u(Pu\amp Rub)\) (we know there is such an object). So \(Pc\), \(Rcb\), and \(\forall w(Pw\amp Rwb\rightarrow w=c)\). We now show that (i), (ii) and (iii) hold for \(c\):</p>
+
+<ol type="i">
+
+<li>Since we know \(Pc\), all we have to do to establish \(P^{-a}c\) is to show \(c\neq a\). But we know \(Rcb\), and we are considering the case where \(\neg Rab\). So, by the laws of identity, it follows that \(c\neq a\).</li>
+
+<li>
+
+<p>
+To show \(R&rsquo;cd\), we need to establish:</p>
+
+\[\begin{align*}
+&amp;(c\neqclose a\amp d\neqclose b\amp Rcd)\ \lor \\
+&amp;\quad (c\eqclose \mathit{\iota}u(Pu\amp Rub)\amp d\eqclose \mathit{\iota}u(Qu\amp Rau))
+\end{align*}\]
+
+<p>
+But the conjuncts of the right disjunct are true (by definition and by assumption, respectively). So \(R&rsquo;cd\).</p></li>
+
+<li>
+
+<p>
+Suppose \(P^{-a}f\) (i.e., \(Pf\) and \(f\neq a)\) and \(R&rsquo;fd\). We want to show: \(f=c\). Since \(R&rsquo;fd\), then:</p>
+
+\[\begin{align*}
+&amp;(f\neqclose a\amp d\neqclose b\amp Rfd)\ \lor \\
+&amp;\quad (f\eqclose \mathit{\iota}u(Pu\amp Rub)\amp d\eqclose \mathit{\iota}u(Qu\amp Rau))
+\end{align*}\]
+
+<p>
+But the left disjunct is impossible (we&rsquo;re considering the subcase where \(Rad\), yet the left disjunct asserts \(Rfd\) and \(f\neq a\), which together contradict the fact that \(R\) is 1-1). So the right disjunct must be true, in which case it follows from the fact that \(f=\mathit{\iota}u(Pu\amp Rub)\) that \(f=c\), by the definition of \(c\).</p></li>
+</ol>
+
+<p>
+Subcase 2: \(\neg Rad\). We are under the assumption \(Q^{-b}d\) (i.e., \(Qd\) and \(d\neq b)\), and so we know by the definition of \(R\) and the fact that \(Qd\) that there is a unique object which falls under \(P\) and which bears \(R\) to \(d\). Choose \(c\) to be this object. So \(Pc\), \(Rcd\), and \(\forall w(Pw\amp Rwd\rightarrow w=c)\). We can now show that (i), (ii), and (iii) hold for \(c\):</p>
+
+<ol type="i">
+
+<li>Since we know \(Pc\), all we have to do to establish that \(P^{-a}c\) is to show \(c\neq a\). But we know that \(Rcd\), and we are considering the subcase in which \(\neg Rad\). So it follows that \(c\neq a\), by the laws of identity. So \(P^{-a}c\).</li>
+
+<li>
+
+<p>
+To show \(R&rsquo;cd\), we need to establish:</p>
+
+\[\begin{align*}
+&amp;(c\neqclose a\amp d\neqclose b\amp Rcd)\ \lor \\
+&amp;\quad (c\eqclose \mathit{\iota}u(Pu\amp Rub)\amp d\eqclose \mathit{\iota}u(Qu\amp Rau))
+\end{align*}\]
+
+<p>
+But the conjuncts of the left disjunct are true, for \(c\neq a\) (we just proved this), \(d\neq b\) (by assumption), and \(Rcd\) (by the definition of \(c\)). So \(R&rsquo;cd\).</p></li>
+
+<li>
+
+<p>
+Suppose \(P^{-a}f\) (i.e., \(Pf\) and \(f\neq a)\) and \(R&rsquo;fd\). We want to show: \(f=c\). Since \(R&rsquo;fd\), then:</p>
+
+\[\begin{align*}
+&amp;(f\neqclose a\amp d\neqclose b\amp Rfd)\ \lor \\
+&amp;\quad (f\eqclose \mathit{\iota}u(Pu\amp Rub)\amp d\eqclose \mathit{\iota}u(Qu\amp Rau))
+\end{align*}\]
+
+<p>
+But the right disjunct is impossible (we&rsquo;re considering the subcase where \(\neg Rad\), yet the right disjunct asserts \(d=\mathit{\iota}u(Qu\amp Rau)\), which implies \(Rad\), a contradiction). So \(f\neq a\amp d\neq b\amp Rfd\). Since we now know that \(Pf\) and \(Rfd\), we know that \(f=c\), since \(c\) is, by definition, the unique object falling under \(P\) which bears \(R\) to \(d\).</p></li>
+</ol>
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://mally.stanford.edu/zalta.html" target="other">Edward N. Zalta</a>
+&lt;<a href="m&#97;ilto:zalta&#37;40stanford&#37;2eedu"><em>zalta<abbr title=" at ">&#64;</abbr>stanford<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

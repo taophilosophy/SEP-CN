@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Chance versus Randomness &gt; C. Proofs of Selected Theorems (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/chance-randomness/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/chance-randomness/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chance-randomness">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Chance versus Randomness</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>C. Proofs of Selected Theorems</h2>
+
+<p>
+
+<em>Proof of Theorem
+ <a href="index.html#thm1" id="proof1">1</a>.</em>
+This follows from Church&rsquo;s observation by a result of Doob (1936) or a
+similar result of Wald (1938). Doob&rsquo;s result is that the measure of the
+set of infinite sequences which can result from the application of a
+admissible place selection \(\phi\) on a member of some subset
+\(S\) of the Cantor space is the same as the measure of \(S\)
+(i.e., \(\mu(\phi^{-1}(S)) = \mu(S))\) (see also Feller 1950: 203). Since the
+measure of the set of Borel <em>abnormal</em> sequences \(A\) is
+zero, Doob&rsquo;s theorem shows that the measure of
+\(\phi^{-1}(A)\) is zero&mdash;i.e., that
+the set of sequences such that an admissible place selection gives a
+biased subsequence has measure zero. Since for von Mises only a
+non-random sequence has biased admissible subsequences, the set of
+non-random sequences is the set of all sequences such that for some
+place selection, the result is a biased subsequence, so is the union of
+\(\phi^{-1}(A)\) for all \(\phi\).
+If there are only countably many \(\phi\) (as there are on
+Church&rsquo;s conception of place selections), since the measure of the
+union of countably many sets is less than or equal to the sum of their
+measures, the measure of the non-random sequences is zero, and the von
+Mises-random sequences therefore exist and form a measure one subset of
+all infinite binary sequences. See van Lambalgen (1987a:
+&sect;2.5.2).</p>
+
+<p>
+
+<em>Proof of Corollary
+ <a href="index.html#cor1" id="cor1a">1</a>.</em>
+ (This proof is due to Chris Porter.) To begin, suppose
+that the place selection \(f_{\sigma}(x_1\ldots x_{i-1}) = 1\) 
+iff there exists a \(j \lt i\) such that \(\sigma = x_j \ldots
+x_i\). That is, on input some initial segment of sequence \(x\) of
+length \(i-1\), this place selection relative to \(\sigma\) selects
+the \(i\)-th digit of \(x\) iff \(\sigma\) is a suffix of the
+input. It is easy to see that, for each finite binary sequence
+\(\sigma , f_{\sigma}\) will be effectively computable, so it is a
+plausible assumption that \(\{f_{\sigma}: \sigma \in X^{\lt
+\omega}\}\) is a subset of the set of admissible place selections. It
+can then be shown (by induction over the length of \(\sigma)\) that
+any sequence which satisfies the property of large numbers, and all of
+its admissible subsequences do too, will be Borel normal.</p>
+
+<ul class="jfy">
+<li>The base case, for the empty string \(\varnothing\), is guaranteed by the
+requirement that the sequence \(x\) satisfies the property of
+large numbers, as every outcome place is preceded by an initial
+subsequence which has \(\varnothing\) as a suffix.</li>
+
+<li>Next suppose that every string of length \(n\) appears in
+\(x\) with limit frequency \(2^{-n}\). Then for
+each \(\sigma\) of length \(n\),
+\(f_{\sigma}\) will select from \(x\) a subsequence
+that satisfies the property of large numbers, as roughly half the time,
+when \(\sigma\) appears in \(x\), it will be followed by a
+0, and the other half of the time it will be followed by a 1. Since
+this holds for any \(\sigma\) of length \(n\), it follows that
+\(\sigma 0\) and \(\sigma 1\), the possible strings of length
+\(n+1\), all occur with limit frequency \(\frac{1}{2} \cdot 2^{-n} = 2^{-(n+1)}\), as
+required.</li>
+</ul>
+
+This result shows that all vM-random sequences are normal. If, instead
+of using effectively computable functions, we had used <em>finite
+automata</em> (finite state machines) to characterise admissible place
+selections, a result of Agafonov (1968) shows that the class of
+resulting sequences is exactly the class of normal sequences. (Of
+course, since not every normal sequence is random&mdash;as the result
+of Ville, Theorem
+ <a href="index.html#thm2">2</a>,
+ shows&mdash;that
+class of sequences isn&rsquo;t a good candidate for the class of random
+sequences.) 
+
+<p>
+
+<em>Proof of Theorem
+ <a href="index.html#thm3" id="proof3">3</a>.</em>
+Every rejected sequence is rejected at some level. So every rejected
+sequence has some initial sequence which is rejected at that level. To
+be rejected at a level \(2^{-m}\) is to fall into a
+set of sequences \(U_m\) which has measure less than the
+size of the level, by definition. A test is just a collection of such
+sets \(U_m\); it is clear that if a sequence is rejected
+at a level, it is rejected at every smaller level, so
+\(U_m \supseteq U_{m+1}\). It is
+effectively determinable whether a given sequence is rejected; since
+the set of pairs \(\langle m,n\rangle\) is effectively
+enumerable (using Cantor&rsquo;s pairing function), if a sequence should be
+rejected, there is an effective procedure which establishes that. These
+two results show that the set of rejected sequences is effective
+measure zero: each test is a sequence of effective open sets of
+sequences. To be rejected is to be a member of some such set. So the
+set of all rejected sequences is in the intersection of all the test
+sets \(U_m\). By construction, the rejected sequences,
+by a particular test, are thus of effective measure zero.</p>
+
+<p>
+
+Martin-L&ouml;f then shows that the set of all tests is itself
+effectively enumerable. Using the fact that a test is an enumerable set
+of sets, and Martin-L&ouml;f explicitly constructs a function that
+assigns a test to a given triple of numbers (which, in effect, encodes
+the test), and shows that the set \(T\) of such triples is
+effectively enumerable. The universal test \(U\) is obtained by
+fixing on some constant, \(c\), for each test \(V\), and
+letting the universal test be obtained from the set \(T\), using
+the triple which is the level of significance, the length of the
+sequence, and the constant (which may as well be the G&ouml;del number
+of the test \(V)\). The construction ensures that for any test
+\(V, V_{m+c} \subseteq U_m\); that is, the universal test is one that rejects
+any sequence at a given level iff there is some test that rejects it at
+a related level (which level depending on the test). The details of the
+construction (Martin-L&ouml;f 1966: 606, 609&ndash;10) show that the
+universal test also rejects only an effective measure zero set of
+sequences, so the complement of the rejected sequences&mdash;the set of
+ML-random sequences&mdash;is effective measure one by means of a single
+universal property.</p>
+
+<p>
+
+<em>Proof of Theorem
+ <a href="index.html#thm4" id="proof4">4</a>.</em>
+The proof is a fairly immediate corollary of the existence of a
+enumeration of the partial recursive functions. Each function
+\(g\) has an associated code number (G&ouml;del number)
+\(\gamma\). Let \(\alpha^{[\gamma]}\)
+represent the string consisting of a block of \(\gamma\)
+instances of the digit \(\alpha\). We now choose an \(f\)
+that, on input \(1^{[\gamma]}0\delta\),
+produces \(g(\delta)\). Such functions exist, because of
+the existence of universal Turing machines (let \(\gamma\) be the
+G&ouml;del number of \(g\) under some standard coding, then a
+universal Turing machine given this input may emulate the operation of
+\(g\) on input \(\delta)\). It is obvious that they are
+near-superior to any \(g\), for
+\(c_f (\delta) = c_g (\delta) + (\gamma +1)\). Any universal function 
+will be able to emulate any other, which
+also shows that they are all complexity equivalent to one another.</p>
+
+<p>
+
+<em>Proof of Theorem
+ <a href="index.html#thm5" id="proof5">5</a>.</em>
+Suppose there was an algorithm \(h\) that on input \(i\)
+yields a random sequence \(\varrho\) such that 
+\(\lvert\varrho\rvert = i\). \(\varrho\) is random, 
+so \(C(\varrho) \approx i\); yet \(h\) is
+near-inferior to some universal function, so that \(C(\varrho) \le C_h
+(\varrho) + k\), for some \(k\) depending on \(h\). Let \(\lvert\varrho\rvert\)
+increase, so \(k\) becomes negligible with respect to \(i\); then \(i
+\le C_h (\varrho) + k \approx C_h (\varrho)\). But \(C_h (\varrho)
+\approx \log_2 i\) (because that is the length of the binary
+representation of \(i)\); it follows that \(i \lesssim \log_2 i\),
+contradiction. So there can be no such algorithm \(h\) (van Lambalgen
+1995: 11).</p>
+
+<p>
+
+<em>Proof of Theorem
+ <a href="index.html#thm6" id="proof6">6</a>.</em>
+We show that, for fixed \(k\). If \(\mu\) is sufficiently
+long then there is an initial segment \(\sigma\) of \(\mu\)
+such that \(C(\sigma) \lt \lvert\sigma\rvert - k\).</p>
+
+<p>
+
+Suppose that we have some sequence \(\mu\), with initial
+segment \(\nu\), such that \(\nu\) is the \(n\)-th
+string in the length-lexicographic ordering of the finite binary
+strings. Let \(\varrho\) be the next \(n\) digits of
+\(\mu\), and let \(\sigma = \nu\unicode{x2040}\varrho\). 
+We can generate \(\sigma\) from
+\(\varrho\) alone, because the length of \(\varrho\) will give us
+\(\nu\) using the standard ordering via some constant decoder. So
+we know that \(C(\sigma) \approx C(\varrho) \le \lvert\varrho\rvert + c\). We also
+know, however, that \(\lvert\sigma\rvert = \lvert\nu\rvert +
+\lvert\varrho\rvert\). If \(\nu\) is chosen to be longer than the sum
+of the constants (i.e., \(\lvert\nu\rvert \gt c + k)\),
+it&rsquo;s obvious that \(C(\sigma) \lt \lvert\sigma\rvert - k\).</p>
+
+<p>
+
+<em>Proof of Theorem
+ <a href="index.html#thm7" id="proof7">7</a>.</em>
+<em>Only if:</em> The set \(U_k\) consists of those sequences which
+have finite initial subsequences which are compressible by \(k\)
+bits. That is, \(U_k = \cup_{\sigma \in \overline{R}} N(\sigma)\),
+where \(\sigma \in \overline{R}\) iff \(K(\sigma) \le \lvert\sigma\rvert -
+k\). The set of \(k\)-compressible strings is recursively enumerable;
+on input \(n \in \mathbb{N}\), take the universal prefix-free
+decompression function \(u\), and check if \(\lvert u(n)\rvert - \lvert n\rvert \lt k\). So
+each \(U_k\) is effective open; indeed, this algorithm shows the
+\(U_k\) to be uniformly effective open (supplement
+ <a href="initial-conditions.html">C</a>).</p>
+
+<p>
+
+Recall that as a proportion of all finite strings, there are at most
+\(1/2^k\) compressible strings
+(&sect;<a href="index.html#KolmCompRand">2.2.1</a>).  Since there are
+fewer prefix-free \(k\)-compressible sequences than plain
+\(k\)-compressible sequences, the upper bound still holds for
+prefix-free compressibility.  As this holds independently of the
+length of sequences, we can use it to establish a measure for \(U_k :
+\mu(U_k) = 2^{-k}\).  So \(\mu(U_k) \le 2^{-k}\). So \(\cap_{k}U_{k}\)
+is effective measure zero, and is a Martin-L&ouml;f test. Suppose
+\(x\) is ML-random; thus \(x \not\in \cap_{k}U_{k}\). Therefore
+there is a \(k\) such that \(x\) has no initial sequence which is
+compressible by \(k\) bits, and is therefore prefix-free Kolmogorov
+random.</p>
+
+<p>
+
+<em>If:</em> The &lsquo;if&rsquo; direction is a little trickier, and
+depends in part on the details of how the sequential significance
+tests for ML-randomness are defined. For details, see Li and
+Vit&aacute;nyi (2008: 221&ndash;3) (as well as Chaitin 1987). The
+general idea is to show that for a sequence \(\omega\) which is not
+ML-random, and fails some sequential test, then there is a way of
+constructing a Turing machine that will compress initial subsequences
+of \(\omega\) arbitrarily much as the length of the initial subsequence
+increases (i.e., the difference between \(n\) and the prefix-free
+complexity of the length \(n\) initial subsequence of \(\omega\) is
+positively unbounded).
+
+</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2018</a> by
+
+<br />
+<a href="https://antonyeagle.org/" target="other">Antony Eagle</a>
+&lt;<a href="m&#97;ilto:antony&#37;2eeagle&#37;40adelaide&#37;2eedu&#37;2eau"><em>antony<abbr title=" dot ">&#46;</abbr>eagle<abbr title=" at ">&#64;</abbr>adelaide<abbr title=" dot ">&#46;</abbr>edu<abbr title=" dot ">&#46;</abbr>au</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Independence and Large Cardinals &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/independence-large-cardinals/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/independence-large-cardinals/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=independence-large-cardinals">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Independence and Large Cardinals</a></h2>
+
+<p>
+<a href="index.html#note-1" name="1">1.</a>
+
+It will be useful at this
+point to introduce some basic syntactic notions.  The
+<em>language of first-order arithmetic</em> is the language
+consisting of the usual <em>logical symbols</em> (propositional
+connectives, quantifiers, and equality (=)) and the following
+<em>non-logical symbols</em>: The constant symbol 0, the unary
+successor function <em>S</em>, the binary operators + and &middot;,
+and the binary relation &le;.  The <em>terms</em> are generated by
+starting with 0 and the variables and iteratively
+applying <em>S</em>, + and &middot;.  A quantifier
+is <em>bounded</em> if it is of the form &exist;<em>x</em>
+&le; <em>t</em> or &forall;<em>x</em>&le;<em>t</em> where <em>t</em>
+is a term not involving <em>x</em>.  A formula is a <em>bounded
+formula</em> (denoted &Delta;<span class="supsub">0<span class="lower">0</span></span>) if all of its quantifiers are
+bounded.  For 
+ <span class="nw"><em>n</em> &ge; 0</span> the classes of formulas &Sigma;<span class="supsub">0<span class="lower"><em>n</em></span></span> and
+&Pi;<span class="supsub">0<span class="lower"><em>n</em></span></span> are defined as follows:
+ <span class="nw">&Sigma;<span class="supsub">0<span class="lower">0</span></span>&nbsp;=&nbsp;&Pi;<span class="supsub">0<span class="lower">0</span></span>&nbsp;=&nbsp;&Delta;<span class="supsub">0<span class="lower">0</span></span>.</span>  
+&Sigma;<span class="supsub">0<span class="lower"><em>n</em>+1</span></span> is the set of
+formulas of the form &exist;<b>x</b>&phi; where &phi; is
+&Pi;<span class="supsub">0<span class="lower"><em>n</em></span></span> and <b>x</b> is a (possibly empty) list of variables.
+&Pi;<span class="supsub">0<span class="lower"><em>n</em>+1</span></span> is the set of formulas of the form &forall;<b>x</b>&phi; where &phi; is &Sigma;<span class="supsub">0<span class="lower"><em>n</em></span></span> and <b>x</b> is a
+(possibly empty) list of variables.  The classes &Sigma;<span class="supsub">0<span class="lower"><em>n</em></span></span>,
+&Pi;<span class="supsub">0<span class="lower"><em>n</em></span></span> constitute the <em>arithmetical hierarchy of
+formulas</em>.</p>
+
+<p>
+
+  For a formal system <em>T</em> of arithmetic, a formula &phi; is
+  (&Pi;<span class="supsub">0<span class="lower"><em>n</em></span></span>)<sup><em>T</em></sup> if it is provably equivalent in <em>T</em> to a &Pi;<span class="supsub">0<span class="lower"><em>n</em></span></span>
+  formula.  Likewise, for (&Sigma;<span class="supsub">0<span class="lower"><em>n</em></span></span>)<sup><em>T</em></sup>.  A formula &phi; is
+  <span class="nw">(&Delta;<span class="supsub">0<span class="lower"><em>n</em></span></span>)<sup><em>T</em></sup></span> if it is provably equivalent in <em>T</em> to both a
+  &Sigma;<span class="supsub">0<span class="lower"><em>n</em></span></span> formula and a &Pi;<span class="supsub">0<span class="lower"><em>n</em></span></span> formula.  In many cases, when
+  the context is clear, we shall drop reference to <em>T</em>.  </p>
+
+<p>
+
+  A formal system <em>T</em> of arithmetic is &Sigma;<span class="supsub">0<span class="lower">1</span></span>-<em>complete</em>
+  if it proves every true &Sigma;<span class="supsub">0<span class="lower">1</span></span>-statement.  The system PA is
+  &Sigma;<span class="supsub">0<span class="lower">1</span></span>-complete.  The raises the question of whether PA can
+  capture the truths at the next level of the arithmetical hierarchy,
+  that is, the &Pi;<span class="supsub">0<span class="lower">1</span></span> truths.  The statement Con(PA) is a
+  &Pi;<span class="supsub">0<span class="lower">1</span></span>-statement (informally it asserts &ldquo;for all natural numbers
+  <em>n</em>, <em>n</em> does not code a proof of a contradiction from the axioms of
+  PA&rdquo;).  Thus, granting the consistency of PA, the
+  incompleteness theorem shows that there is a &Pi;<span class="supsub">0<span class="lower">1</span></span>-truth that
+  cannot be proved in PA. 
+</p>
+
+<p>
+<a href="index.html#note-2" name="2">2.</a>
+
+A system <em>T</em> is
+&Sigma;<span class="supsub">0<span class="lower">1</span></span> <em>sound</em>
+iff for every
+&Sigma;<span class="supsub">0<span class="lower">1</span></span>-statement
+&phi;, if <em>T</em> proves &phi; then &phi; is true. 
+</p>
+
+<p>
+<a href="index.html#note-3" name="3">3.</a>
+
+In
+  general, for a cardinal &kappa;, a set <em>x</em> is of hereditarily
+  cardinality of size less than &kappa;, if <em>x</em> has size less than
+  &kappa;, all of the members of <em>x</em> have size less than &kappa;,
+  etc., in other words, the transitive closure of <em>x</em> has size less
+  than &kappa;.  The set of all sets of hereditary cardinality less
+  than &kappa; is denoted <em>H</em>(&kappa;).  In particular,
+  <em>H</em>(&omega;)=V<sub>&omega;</sub>.
+</p>
+
+<p>
+<a href="index.html#note-4" name="4">4.</a>
+For a more detailed treatment of this notion
+  see the next section.  The interpretation of PA in
+  ZFC-Infinity was established during the early days of set
+  theory.  The interpretation of ZFC-Infinity in PA was
+  established by Ackermann (1937).
+</p>
+
+<p>
+<a href="index.html#note-5" name="5">5.</a>
+In
+  descriptive set theory it is convenient to work with the
+  &ldquo;logician's reals&rdquo;, that is, Baire space, &omega;<sup>&omega;</sup>.  This is the
+  set of all infinite sequences of natural numbers (with the product
+  topology (taking &omega; to be discrete)).</p>
+
+<p>
+
+  The <em>projective</em> sets of reals (or sets of <em>k</em>-tuples
+  of reals) are obtained by starting with the closed subsets of
+  (&omega;<sup>&omega;</sup>)<sup><em>k</em></sup> and iterating the
+  operations of complement and projection.  For <em>A</em> &sube;
+  (&omega;<sup>&omega;</sup>)<sup><em>k</em></sup>,
+  the <em>complement</em> of <em>A</em> is simply
+  (&omega;<sup>&omega;</sup>)<sup><em>k</em></sup>&nbsp;&minus;&nbsp;<em>A</em>.
+  For <em>A</em> &sube;
+  (&omega;<sup>&omega;</sup>)<sup><em>k</em>+1</sup>,
+  the <em>projection</em> of <em>A</em> is</p>
+
+<blockquote>
+
+<em>p</em>[<em>A</em>] = {&lang; x<sub>1</sub>, &hellip; ,x<sub><em>k</em></sub> &rang; &isin; (&omega;<sup>&omega;</sup>)<sup><em>k</em></sup> | &exist; y, &lang; x<sub>1</sub>, &hellip; , <em>x</em><sub><em>k</em></sub>, <em>y</em> &rang; &isin; <em>A</em>}.
+</blockquote>
+
+<p>
+
+(Think of the case where <em>k</em>+1=3.  Here <em>A</em> is a subset of
+three-dimensional space and <em>p</em>[<em>A</em>] is the result of &ldquo;projecting&rdquo; <em>A</em>
+along the third axis onto the plane spanned by the first two axes.)
+We can now define the hierarchy of projective sets as follows: At the
+base level let <span class="ubar">&Sigma;</span><span class="supsub">1<span class="lower">0</span></span> consist of the open subsets of
+(&omega;<sup>&omega;</sup>)<sup><em>k</em></sup> and let <span class="ubar">&Pi;</span><span class="supsub">1<span class="lower">0</span></span> consist of the closed subsets of
+(&omega;<sup>&omega;</sup>)<sup><em>k</em></sup>.  For each <em>n</em> such that 0 &lt; <em>n</em> &lt; &omega;, recursively define
+<span class="ubar">&Pi;</span><span class="supsub">1<span class="lower"><em>n</em></span></span> to consist of the complements of sets in <span class="ubar">&Sigma;</span><span class="supsub">1<span class="lower"><em>n</em></span></span> and
+<span class="ubar">&Sigma;</span><span class="supsub">1<span class="lower"><em>n</em>+1</span></span> to consist of the projections of sets in <span class="ubar">&Pi;</span><span class="supsub">1<span class="lower"><em>n</em></span></span>.
+The projective sets of (<em>k</em>-tuples of) reals are the sets appearing in
+this hierarchy.  This hierarchy is also a proper hierarchy, as can be
+seen using universal sets and diagonalization.</p>
+
+<p>
+
+It is a classical result of analysis (due to Luzin and Suslin in 1917)
+that the <span class="ubar">&Sigma;</span><span class="supsub">1<span class="lower">1</span></span> sets are Lebesgue measurable.  
+</p>
+
+<p>
+<a href="index.html#note-6" name="6">6.</a>
+There are a number of different ways of formalizing
+  forcing.  One can forgo talk of models and treat the independence
+  results proof-theoretically.  One can also give a model-theoretic
+  treatment and here there are two approaches.  The first approach
+  starts with a countable transitive model <em>M</em> of a sufficiently large
+  fragment of ZFC and then (working in <em>V</em>) one actually builds an
+  outer model <em>M</em>[<em>G</em>] that satisfies a large fragment of set theory and
+  the statement one wishes to show is independent.  The second
+  approach involves working with class-size Boolean-valued models.
+  Cohen took the first approach but we have found it simpler to take
+  the second in our treatment.  (We caution the reader that set
+  theorists often speak of <em>V</em>[<em>G</em>] as if there were a model larger than
+  the universe of sets.  When they do so they are either thinking of
+  <em>V</em> as a countable model (like <em>M</em> above) or thinking of <em>V</em>[<em>G</em>] as a
+  Boolean valued model (like <em>V</em><sup><strong>B</strong></sup>). See Kunen (1980),
+  pp. 232&ndash;235 for further discussion.
+</p>
+
+<p>
+<a href="index.html#note-7" name="7">7.</a>
+For a precise definition see chapter 6 of Lindstr&ouml;m (2003).
+</p>
+
+<p>
+<a href="index.html#note-8" name="8">8.</a>
+The above formulation of large cardinal axioms
+  invokes classes but there are equivalent formulations in terms of
+  sets.  For example, in the case of a measurable cardinal &kappa; there
+  is a subset of <em>P</em>(&kappa;) (namely, a &kappa;-complete ultrafilter over
+  &kappa;) witnessing that &kappa; is measurable.
+</p>
+
+<p>
+<a href="index.html#note-9" name="9">9.</a>
+It should be noted
+  that in contrast to measurable and strong cardinals, Woodin
+  cardinals are not characterized as the critical point of an
+  embedding or collection of embeddings.  In fact, a Woodin cardinal
+  need not be measurable.  However, if &kappa; is a Woodin cardinal, then
+  <em>V</em><sub>&kappa;</sub> is a model of ZFC and <em>V</em><sub>&kappa;</sub> satisfies that there is a
+  proper class of strong cardinals.
+</p>
+
+
+<p>
+<a href="index.html#note-10" name="10">10.</a>
+It is still open whether large cardinal axioms at
+  the level of Reinhardt and beyond are inconsistent in ZF alone
+  (that is, without invoking AC).  Should they turn out to be
+  consistent then one would have a hierarchy of &ldquo;choiceless&rdquo; large
+  cardinal axioms that would climb the hierarchy of interpretability
+  beyond the large cardinal axioms formulated in the context of
+  ZFC.
+</p>
+
+
+<p>
+<a href="index.html#note-11" name="11">11.</a>
+We should note that there are many large
+  cardinal axioms that we have not discussed.  The large cardinal
+  axioms that have been investigated to date are <em>for the most
+    part</em> known to be naturally well-ordered.  However, there are
+  some comparisons that remain open; for example, although it is
+  known that a strongly compact cardinal is weaker than a supercompact
+  cardinal it is not know how it compares with Woodin cardinals.
+</p>
+
+<!--pdf include
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+pdf include-->
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2010</a> by
+
+<br />
+Peter Koellner
+&lt;<a href="m&#97;ilto:koellner&#37;40fas&#37;2eharvard&#37;2eedu"><em>koellner<abbr title=" at ">&#64;</abbr>fas<abbr title=" dot ">&#46;</abbr>harvard<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

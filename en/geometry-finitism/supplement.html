@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Finitism in Geometry &gt; Supplement: Finite Fields as Models for Euclidean Plane Geometry (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/geometry-finitism/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/geometry-finitism/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=geometry-finitism">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Finitism in Geometry</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Supplement: Finite Fields as Models for Euclidean Plane Geometry</h2>
+
+<h3>Finite Fields</h3>
+
+<p>A field is a set \(F\) equipped with two operations +, &middot;
+such that</p>
+
+<ol start="1" type="a">
+<li>the pair \(\langle F,+\rangle\) is a group, i.e.,
+
+<table class="vert-top avoid-break">
+<tr>
+<td>+ is closed:</td>
+<td>\(\forall x,y\exists z(x + y = z)\)</td>
+</tr>
+<tr>
+<td>+ is associative:</td>
+<td>\(\forall x,y,z(x + (y + z) = (x + y) + z)\)</td>
+</tr>
+<tr>
+<td>there is a neutral element:</td>
+<td>\(\forall x(x + 0 = x)\)</td>
+</tr>
+<tr>
+<td>every element has an inverse:</td>
+<td>\(\forall x\exists y(x + y = y + x = 0)\)</td>
+</tr>
+</table>
+</li>
+
+<li>likewise \(\langle F,\cdot \rangle\) is a group, the neutral
+element being 1</li>
+
+<li>the following distributivity laws hold:
+
+\[
+\begin{align*}
+\forall x,y,z(x \cdot  (y + z) &amp;= (x \cdot  y) + (y \cdot  z))\\
+\forall x,y,z((x + y) \cdot  z) &amp;= (x \cdot  z) + (y \cdot  z))
+\end{align*}
+\]
+</li></ol>
+
+<p>It is straightforward to see that the real numbers \(\Re\) with the
+usual addition and multiplication is a field. In this case the set
+\(F\) is infinite, but \(F\) can be finite as well. Then we
+have a finite field or a Galois field. There is however one very
+important distinction between a field such as \(\Re\) and a Galois
+field. In the latter, given the multiplicative neutral element 1, there
+is a prime number \(p\) such that \(p \cdot 1 = 0\).
+ \(p\) is called the characteristic of the field. It can be shown
+that if \(p\) is the characteristic of a field, then it must have
+\(p^{n}\) elements, for some natural number \(n\). In
+addition Galois fields are the only finite fields.</p>
+
+<blockquote>
+<p><em>Example</em>: the Galois field with characteristic 3 and number
+of elements 3, \(GF(3)\) for short.</p>
+</blockquote>
+
+
+<p>The tables for addition and multiplication tell the whole story:</p>
+
+<table class="avoid-break">
+  <tr>
+    <td>
+<table class="all-rules cellpad-small cell-center">
+<tr>
+<td><strong>+</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+</tr>
+<tr>
+<td><strong>0</strong></td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+</tr>
+</table>
+</td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+<table class="all-rules cellpad-small cell-center">
+<tr>
+<td>&middot;</td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+</tr>
+<tr>
+<td><strong>0</strong></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</table>
+  </td></tr>
+  </table>
+
+<p>In the first case, \(1 + 1 + 1 = 0\).</p>
+
+<p>It is easy to see that the above tables correspond to addition and
+multiplication modulo \(p\). In other words, in the field \(a = b\) if
+and only if \(a \equiv b(\mathrm{mod}\, p)\).</p>
+
+<h3>Euclidean Axioms in a Finite Field</h3>
+
+<p>To see how a finite field can be a model, I will take the incidence
+relation. The axioms for the incidence relation are:</p>
+<ol start="1" type="a">
+<li>Through two points exactly one straight line can be drawn.</li>
+<li>There are at least two points on every straight line.</li>
+<li>There are at least three points that are not on the same straight
+line.</li>
+</ol>
+
+<p>In case we take \(GF(3)\) as a possible model, then to a point
+\(p\) corresponds to a couple \((x,y)\), such that \(0\le x,y\le
+2\). A line corresponds to a triple \((a,b,c)\), such that \(0\le
+a,b,c\le 2\) and at most one of \(a = 0\) or \(b = 0\), or,
+equivalently, at most one of \(a\equiv 0\) or \(b\equiv 0
+(\mathrm{mod}\, 3)\). The incidence relation is translated as follows:</p>
+
+<blockquote><p> a point \(p\) lies on a line \(A\) iff if \((x,y)\)
+corresponds to \(p\) and \((a,b,c)\) corresponds to \(A\), then the
+equation \(ax+by+c = 0\) is satisfied, or, equivalently,
+\(ax+by+c\equiv 0 (\mathrm{mod}\, 3)\) is satisfied.
+</p></blockquote>
+
+<p>
+Some facts are now straightforward to check:</p> 
+<ol start="1" type="i"> 
+<li>There are exactly \(p^{2}\) points.</li> 
+<li>There are exactly \(p(p+1)\) straight lines.</li> 
+<li>On every straight line there are exactly \(p\) points.</li> 
+<li>Through every point pass exactly \(p+1\) straight lines.</li> 
+<li>The axioms (a), (b) and (c) are true in this model.</li> </ol>
+
+<p>A graphical representation could look like this:</p>
+
+<div class="figure">
+<img src="figure-sup.jpg" alt="[a 3 by 3 grid dots with the lower left one labeled (0,0) and the upper right one (2,2).  The dots labeled (0,0), (1,2), and (2,1) are circled.  A straight solid line goes throught dots (0,0), (1,1), and (2,2) and on both sides extends beyond.  The letter 'A' is by the lower left end of this line.]"/>
+<p class="center"><span class="figlabel">Figure 5.</span></p>
+</div>
+
+
+<p>The line indicated by \(A\) corresponds to \(x = y\). This seems to
+correspond nicely to the classical Euclidean case. However something
+strange happens with the linear equation \(x + y = 0\). In the drawing
+the 3 points that are on this line have been circled. As must be clear
+these lines are &ldquo;bad&rdquo; and should be "ignored" in the
+model.</p>
+
+<p>In order to satisfy the remaining axioms further restrictions are
+required on the size of the domain. These will just be mentioned
+without details:</p>
+
+<ol start="1" type="a"> 
+
+<li>\(p\) must have the specific form \(4n+3\) (and not
+\(4n+1)\).</li>
+
+<li>\(p\) must in addition have the specific form \(8mq_{1}q_{2}\ldots
+q_{k} - 1\), where \(q_{i}\) is the \(i\)-th odd prime (so \(q_{1} =
+3)\) and \(m\) a positive integer.</li>
+</ol>
+
+<p>The second condition that is needed to guarantee the existence of
+the Euclidean &ldquo;kernel&rdquo; is a non-trivial statement. It
+actually requires some essential parts of number theory to prove that
+there are prime numbers of that form. There are, classically speaking,
+an infinite number of them. By choosing \(p\) large enough, one can
+make the &ldquo;kernel&rdquo; as large as one desires to have the
+Euclidean approximation as close as one wants.</p>
+
+<p><em>Note</em>: As Ernst Welti points out, it would be a rather
+annoying situation for a finitist if the proof that shows that there
+are an infinite number of primes of the right form were not
+finitistically acceptable. Although the original proof of Dirichlet
+was in fact unacceptable, fortunately there does now exist a
+finitistically acceptable proof of the theorem.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://clps.research.vub.be/jean-paul-van-bendegem-0" target="other">Jean Paul Van Bendegem</a>
+&lt;<a href="m&#97;ilto:Jean&#37;2ePaul&#37;2eVan&#37;2eBendegem&#37;40vub&#37;2ebe"><em>Jean<abbr title=" dot ">&#46;</abbr>Paul<abbr title=" dot ">&#46;</abbr>Van<abbr title=" dot ">&#46;</abbr>Bendegem<abbr title=" at ">&#64;</abbr>vub<abbr title=" dot ">&#46;</abbr>be</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

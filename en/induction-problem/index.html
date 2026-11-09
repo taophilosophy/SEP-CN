@@ -1,0 +1,3049 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Problem of Induction (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="The Problem of Induction" />
+<meta name="citation_author" content="Henderson, Leah" />
+<meta name="citation_publication_date" content="2018/03/21" />
+<meta name="DC.title" content="The Problem of Induction" />
+<meta name="DC.creator" content="Henderson, Leah" />
+<meta name="DCTERMS.issued" content="2018-03-21" />
+<meta name="DCTERMS.modified" content="2022-11-22" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/induction-problem/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=induction-problem">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>The Problem of Induction</h1><div id="pubinfo"><em>First published Wed Mar 21, 2018; substantive revision Tue Nov 22, 2022</em></div>
+
+<div id="preamble">
+
+<p>
+We generally think that the observations we make are able to justify
+some expectations or predictions about observations we have not yet
+made, as well as general claims that go beyond the observed. For
+example, the observation that bread of a certain appearance has thus
+far been nourishing seems to justify the expectation that the next
+similar piece of bread I eat will also be nourishing, as well as the
+claim that bread of this sort is generally nourishing. Such inferences
+from the observed to the unobserved, or to general laws, are known as
+&ldquo;inductive inferences&rdquo;.</p>
+
+<p>
+The original source of what has become known as the &ldquo;problem of
+induction&rdquo; is in Book 1, part iii, section 6 of <em>A Treatise
+of Human Nature</em> by David Hume, published in 1739 (Hume 1739). In
+1748, Hume gave a shorter version of the argument in Section iv of
+<em>An enquiry concerning human understanding</em> (Hume 1748).
+Throughout this article we will give references to the
+<em>Treatise</em> as &ldquo;T&rdquo;, and the <em>Enquiry</em> as
+&ldquo;E&rdquo;.</p>
+
+<p>
+Hume asks on what grounds we come to our beliefs about the unobserved
+on the basis of inductive inferences. He presents an argument in the
+form of a dilemma which appears to rule out the possibility of any
+reasoning from the premises to the conclusion of an inductive
+inference. There are, he says, two possible types of arguments,
+&ldquo;demonstrative&rdquo; and &ldquo;probable&rdquo;, but neither
+will serve. A demonstrative argument produces the wrong kind of
+conclusion, and a probable argument would be circular. Therefore, for
+Hume, the problem remains of how to explain why we form any
+conclusions that go beyond the past instances of which we have had
+experience (T. 1.3.6.10). Hume stresses that he is not disputing that
+we do draw such inferences. The challenge, as he sees it, is to
+understand the &ldquo;foundation&rdquo; of the inference&mdash;the
+&ldquo;logic&rdquo; or &ldquo;process of argument&rdquo; that it is
+based upon (E. 4.2.21). The problem of meeting this challenge, while
+evading Hume&rsquo;s argument against the possibility of doing so, has
+become known as &ldquo;the problem of induction&rdquo;.</p>
+
+<p>
+Hume&rsquo;s argument is one of the most famous in philosophy. A
+number of philosophers have attempted solutions to the problem, but a
+significant number have embraced his conclusion that it is insoluble.
+There is also a wide spectrum of opinion on the significance of the
+problem. Some have argued that Hume&rsquo;s argument does not
+establish any far-reaching skeptical conclusion, either because it was
+never intended to, or because the argument is in some way
+misformulated. Yet many have regarded it as one of the most profound
+philosophical challenges imaginable since it seems to call into
+question the justification of one of the most fundamental ways in
+which we form knowledge. Bertrand Russell, for example, expressed the
+view that if Hume&rsquo;s problem cannot be solved, &ldquo;there is no
+intellectual difference between sanity and insanity&rdquo; (Russell
+1946: 699).</p>
+
+<p>
+In this article, we will first examine Hume&rsquo;s own argument,
+provide a reconstruction of it, and then survey different responses to
+the problem which it poses.</p>
+</div> 
+
+<div id="toc">
+<!--Entry Contents-->
+<ul>
+<li><a href="#HumeProb">1. Hume&rsquo;s Problem</a></li>
+<li><a href="#Reco">2. Reconstruction</a></li>
+<li><a href="#TackFirsHornHumeDile">3. Tackling the First Horn of Hume&rsquo;s Dilemma</a>
+   <ul>
+   <li><a href="#SyntPrio">3.1 Synthetic <em>a priori</em></a></li>
+   <li><a href="#NomoExplSolu">3.2 The Nomological-Explanatory solution</a></li>
+   <li><a href="#BayeSolu">3.3 Bayesian solution</a></li>
+   <li><a href="#PartSolu">3.4 Partial solutions</a></li>
+   <li><a href="#CombAppr">3.5 The combinatorial approach</a></li>
+   </ul></li>
+<li><a href="#TackSecoHornHumeDile">4. Tackling the Second Horn of Hume&rsquo;s Dilemma</a>
+   <ul>
+   <li><a href="#InduJustIndu">4.1 Inductive Justifications of Induction</a></li>
+   <li><a href="#NoRule">4.2 No Rules</a></li>
+   </ul></li>
+<li><a href="#AlteConcJust">5. Alternative Conceptions of Justification</a>
+   <ul>
+   <li><a href="#PostHing">5.1 Postulates and Hinges</a></li>
+   <li><a href="#OrdiLangDiss">5.2 Ordinary Language Dissolution</a></li>
+   <li><a href="#PragVindIndu">5.3 Pragmatic vindication of induction</a></li>
+   <li><a href="#FormLearTheo">5.4 Formal Learning Theory</a></li>
+   <li><a href="#MetaIndu">5.5 Meta-induction</a></li>
+   </ul></li>
+<li><a href="#LiviInduSkep">6. Living with Inductive Skepticism</a></li>
+<li><a href="#Bib">Bibliography</a></li>
+<li><a href="#Aca">Academic Tools</a></li>
+<li><a href="#Oth">Other Internet Resources</a></li>
+<li><a href="#Rel">Related Entries</a></li>
+</ul>
+<!--Entry Contents-->
+<hr /></div>
+
+<div id="main-text">
+
+<h2 id="HumeProb">1. Hume&rsquo;s Problem</h2>
+
+<p>
+Hume introduces the problem of induction as part of an analysis of the
+notions of cause and effect. Hume worked with a picture, widespread in
+the early modern period, in which the mind was populated with mental
+entities called &ldquo;ideas&rdquo;. Hume thought that ultimately all
+our ideas could be traced back to the &ldquo;impressions&rdquo; of
+sense experience. In the simplest case, an idea enters the mind by
+being &ldquo;copied&rdquo; from the corresponding impression (T.
+1.1.1.7/4). More complex ideas are then created by the combination of
+simple ideas (E. 2.5/19). Hume took there to be a number of relations
+between ideas, including the relation of causation (E. 3.2). (For more
+on Hume&rsquo;s philosophy in general, see Morris &amp; Brown
+2014).</p>
+
+<p>
+For Hume, the relation of causation is the only relation by means of
+which &ldquo;we can go beyond the evidence of our memory and
+senses&rdquo; (E. 4.1.4, T. 1.3.2.3/74). Suppose we have an object
+present to our senses: say gunpowder. We may then infer to an effect
+of that object: say, the explosion. The causal relation links our past
+and present experience to our expectations about the future (E.
+4.1.4/26).</p>
+
+<p>
+Hume argues that we cannot make a causal inference by purely <em>a
+priori</em> means (E. 4.1.7). Rather, he claims, it is based on
+experience, and specifically experience of constant conjunction. We
+infer that the gunpowder will explode on the basis of past experience
+of an association between gunpowder and explosions.</p>
+
+<p>
+Hume wants to know more about the basis for this kind of inference. If
+such an inference is made by a &ldquo;chain of reasoning&rdquo; (E.
+4.2.16), he says, he would like to know what that reasoning is. In
+general, he claims that the inferences depend on a transition of the
+form:</p>
+
+<blockquote>
+
+<p>
+<em>I have found that such an object has always been attended with
+such an effect, and I foresee, that other objects, which are, in
+appearance, similar, will be attended with similar effects</em>. (E.
+4.2.16)</p>
+</blockquote>
+
+<p>
+In the <em>Treatise</em>, Hume says that</p>
+
+<blockquote>
+
+<p>
+if Reason determin&rsquo;d us, it would proceed upon that principle
+<em>that instances, of which we have had no experience, must resemble
+those, of which we have had experience, and that the course of nature
+continues always uniformly the same</em>. (T. 1.3.6.4)</p>
+</blockquote>
+
+<p>
+For convenience, we will refer to this claim of similarity or
+resemblance between observed and unobserved regularities as the
+&ldquo;Uniformity Principle (UP)&rdquo;. Sometimes it is also called
+the &ldquo;Resemblance Principle&rdquo;, or the &ldquo;Principle of
+Uniformity of Nature&rdquo;.</p>
+
+<p>
+Hume then presents his famous argument to the conclusion that there
+can be no reasoning behind this principle. The argument takes the form
+of a dilemma. Hume makes a distinction between relations of ideas and
+matters of fact. Relations of ideas include geometric, algebraic and
+arithmetic propositions, &ldquo;and, in short, every affirmation,
+which is either intuitively or demonstratively certain&rdquo;.
+&ldquo;Matters of fact&rdquo;, on the other hand are empirical
+propositions which can readily be conceived to be other than they are.
+Hume says that</p>
+
+<blockquote>
+
+<p>
+All reasonings may be divided into two kinds, namely, demonstrative
+reasoning, or that concerning relations of ideas, and moral reasoning,
+or that concerning matter of fact and existence. (E. 4.2.18)</p>
+</blockquote>
+
+<p>
+Hume considers the possibility of each of these types of reasoning in
+turn, and in each case argues that it is impossible for it to supply
+an argument for the Uniformity Principle.</p>
+
+<p>
+First, Hume argues that the reasoning cannot be demonstrative, because
+demonstrative reasoning only establishes conclusions which cannot be
+conceived to be false. And, he says,</p>
+
+<blockquote>
+
+<p>
+it implies no contradiction that the course of nature may change, and
+that an object seemingly like those which we have experienced, may be
+attended with different or contrary effects. (E. 4.2.18)</p>
+</blockquote>
+
+<p>
+It is possible, he says, to clearly and distinctly conceive of a
+situation where the unobserved case does not follow the regularity so
+far observed (E. 4.2.18, T. 1.3.6.5/89).</p>
+
+<p>
+Second, Hume argues that the reasoning also cannot be &ldquo;such as
+regard matter of fact and real existence&rdquo;. He also calls this
+&ldquo;probable&rdquo; reasoning. All such reasoning, he claims,
+&ldquo;proceed upon the supposition, that the future will be
+conformable to the past&rdquo;, in other words on the Uniformity
+Principle (E. 4.2.19).</p>
+
+<p>
+Therefore, if the chain of reasoning is based on an argument of this
+kind it will again be relying on this supposition, &ldquo;and taking
+that for granted, which is the very point in question&rdquo;. (E.
+4.2.19, see also T. 1.3.6.7/90). The second type of reasoning then
+fails to provide a chain of reasoning which is not circular.</p>
+
+<p>
+In the Treatise version, Hume concludes</p>
+
+<blockquote>
+
+<p>
+Thus, not only our reason fails us in the discovery of the
+<em>ultimate connexion</em> of causes and effects, but even after
+experience has inform&rsquo;d us of their <em>constant
+conjunction</em>, &rsquo;tis impossible for us to satisfy ourselves by
+our reason, why we shou&rsquo;d extend that experience beyond those
+particular instances, which have fallen under our observation. (T.
+1.3.6.11/91&ndash;2)</p>
+</blockquote>
+
+<p>
+The conclusion then is that our tendency to project past regularities
+into the future is not underpinned by reason. The problem of induction
+is to find a way to avoid this conclusion, despite Hume&rsquo;s
+argument.</p>
+
+<p>
+After presenting the problem, Hume does present his own
+&ldquo;solution&rdquo; to the doubts he has raised (E. 5, T.
+1.3.7&ndash;16). This consists of an explanation of what the inductive
+inferences are driven by, if not reason. In the <em>Treatise</em> Hume
+raises the problem of induction in an explicitly contrastive way. He
+asks whether the transition involved in the inference is produced</p>
+
+<blockquote>
+
+<p>
+by means of the understanding or imagination; whether we are
+determin&rsquo;d by reason to make the transition, or by a certain
+association and relation of perceptions? (T. 1.3.6.4)</p>
+</blockquote>
+
+<p>
+And he goes on to summarize the conclusion by saying</p>
+
+<blockquote>
+
+<p>
+When the mind, therefore, passes from the idea or impression of one
+object to the idea or belief of another, it is not determin&rsquo;d by
+reason, but by certain principles, which associate together the ideas
+of these objects, and unite them in the imagination. (T. 1.3.6.12)</p>
+</blockquote>
+
+<p>
+Thus, it is the imagination which is taken to be responsible for
+underpinning the inductive inference, rather than reason.</p>
+
+<p>
+In the <em>Enquiry</em>, Hume suggests that the step taken by the
+mind,</p>
+
+<blockquote>
+
+<p>
+which is not supported by any argument, or process of the
+understanding &hellip; must be induced by some other principle of
+equal weight and authority. (E. 5.1.2)</p>
+</blockquote>
+
+<p>
+That principle is &ldquo;custom&rdquo; or &ldquo;habit&rdquo;. The
+idea is that if one has seen similar objects or events constantly
+conjoined, then the mind is inclined to expect a similar regularity to
+hold in the future. The tendency or &ldquo;propensity&rdquo; to draw
+such inferences, is the effect of custom:</p>
+
+<blockquote>
+
+<p>
+&hellip; having found, in many instances, that any two kinds of
+objects, flame and heat, snow and cold, have always been conjoined
+together; if flame or snow be presented anew to the senses, the mind
+is carried by custom to expect heat or cold, and to <em>believe</em>,
+that such a quality does exist and will discover itself upon a nearer
+approach. This belief is the necessary result of placing the mind
+in such circumstances. It is an operation of the soul, when we are so
+situated, as unavoidable as to feel the passion of love, when we
+receive benefits; or hatred, when we meet with injuries. All these
+operations are a species of natural instincts, which no reasoning or
+process of the thought and understanding is able, either to produce,
+or to prevent. (E. 5.1.8)</p>
+</blockquote>
+
+<p>
+Hume argues that the fact that these inferences do follow the course
+of nature is a kind of &ldquo;pre-established harmony&rdquo; (E.
+5.2.21). It is a kind of natural instinct, which may in fact be more
+effective in making us successful in the world, than if we relied on
+reason to make these inferences.</p>
+
+<h2 id="Reco">2. Reconstruction</h2>
+
+<p>
+Hume&rsquo;s argument has been presented and formulated in many
+different versions. There is also an ongoing lively discussion over
+the historical interpretation of what Hume himself intended by the
+argument. It is therefore difficult to provide an unequivocal and
+uncontroversial reconstruction of Hume&rsquo;s argument. Nonetheless,
+for the purposes of organizing the different responses to Hume&rsquo;s
+problem that will be discussed in this article, the following
+reconstruction will serve as a useful starting point.</p>
+
+<p>
+Hume&rsquo;s argument concerns specific inductive inferences such
+as:</p>
+
+<div class="indent">
+
+<p>
+All observed instances of <em>A</em> have been <em>B</em>.</p>
+
+<p>
+The next instance of <em>A</em> will be <em>B</em>.</p>
+</div>
+
+<p>
+Let us call this &ldquo;inference <em>I</em>&rdquo;. Inferences which
+fall under this type of schema are now often referred to as cases of
+&ldquo;simple enumerative induction&rdquo;.</p>
+
+<p>
+Hume&rsquo;s own example is:</p>
+
+<div class="indent">
+
+<p>
+All observed instances of bread (of a particular appearance) have been
+nourishing.</p>
+
+<p>
+The next instance of bread (of that appearance) will be
+nourishing.</p>
+</div>
+
+<p>
+Hume&rsquo;s argument then proceeds as follows (premises are labeled
+as P, and subconclusions and conclusions as C):</p>
+
+<div class="indent">
+
+<dl class="sentag tag2em">
+
+<dt id="P1">P1.</dt>
+<dd>There are only two kinds of arguments: demonstrative and probable
+(Hume&rsquo;s fork).</dd>
+
+<dt id="P2">P2.</dt>
+<dd>Inference <em>I</em> presupposes the Uniformity Principle
+(UP).</dd></dl>
+
+<p>
+<em>1<sup>st</sup> horn:</em></p>
+
+<dl class="sentag tag2em">
+
+<dt id="P3">P3.</dt><dd> A
+demonstrative argument establishes a conclusion whose negation is a
+contradiction.</dd>
+
+<dt id="P4">P4.</dt><dd> The
+negation of the UP is not a contradiction.</dd>
+
+<dt id="C1">C1.</dt><dd>There is no
+demonstrative argument for the UP (by P3 and P4).</dd>
+</dl>
+
+<p>
+<em>2<sup>nd</sup> horn:</em></p>
+
+<dl class="sentag tag2em">
+
+<dt id="P5">P5.</dt><dd> Any
+probable argument for UP presupposes UP.</dd>
+
+<dt id="P6">P6.</dt><dd> An argument
+for a principle may not presuppose the same principle
+(Non-circularity).</dd>
+
+<dt id="C2">C2.</dt><dd> There is
+no probable argument for the UP (by P5 and P6).</dd>
+</dl>
+
+<p>
+<em>Consequences:</em></p>
+<dl class="sentag tag2em">
+
+<dt id="C3">C3.</dt><dd> There is no argument
+for the UP (by P1, C1 and C2).</dd>
+
+<dt id="P7">P7.</dt><dd> If there is no
+argument for the UP, there is no chain of reasoning from the premises
+to the conclusion of any inference that presupposes the UP.</dd>
+
+<dt id="C4">C4.</dt><dd> There is
+no chain of reasoning from the premises to the conclusion of inference
+<em>I</em> (by P2, C3 and P7).</dd>
+
+<dt id="P8">P8.</dt><dd> If there
+is no chain of reasoning from the premises to the conclusion of
+inference <em>I</em>, the inference is not justified.</dd>
+
+<dt id="C5">C5.</dt><dd> Inference
+<em>I</em> is not justified (by C4 and P8).</dd>
+</dl>
+</div>
+
+<p>
+There have been different interpretations of what Hume means by
+&ldquo;demonstrative&rdquo; and &ldquo;probable&rdquo; arguments.
+Sometimes &ldquo;demonstrative&rdquo; is equated with
+&ldquo;deductive&rdquo;, and probable with &ldquo;inductive&rdquo;
+(e.g., Salmon 1966). Then the first horn of Hume&rsquo;s dilemma would
+eliminate the possibility of a deductive argument, and the second
+would eliminate the possibility of an inductive argument. However,
+under this interpretation,
+ <a href="#P3">premise P3</a>
+ would not hold, because it is possible for the conclusion of a
+deductive argument to be a non-necessary proposition. Premise
+ <a href="#P3">P3</a>
+ could be modified to say that a demonstrative (deductive) argument
+establishes a conclusion that cannot be false if the premises are
+true. But then it becomes possible that the supposition that the
+future resembles the past, which is not a necessary proposition, could
+be established by a deductive argument from some premises, though not
+from <em>a priori</em> premises (in contradiction to conclusion
+ <a href="#C1">C1</a>).</p>
+ 
+<p>
+Another common reading is to equate &ldquo;demonstrative&rdquo; with
+&ldquo;deductively valid with <em>a priori</em> premises&rdquo;, and
+&ldquo;probable&rdquo; with &ldquo;having an empirical premise&rdquo;
+(e.g., Okasha 2001). This may be closer to the mark, if one thinks, as
+Hume seems to have done, that premises which can be known <em>a
+priori</em> cannot be false, and hence are necessary. If the inference
+is deductively valid, then the conclusion of the inference from <em>a
+priori</em> premises must also be necessary. What the first horn of
+the dilemma then rules out is the possibility of a deductively valid
+argument with <em>a priori</em> premises, and the second horn rules
+out any argument (deductive or non-deductive), which relies on an
+empirical premise.</p>
+
+<p>
+However, recent commentators have argued that in the historical
+context that Hume was situated in, the distinction he draws between
+demonstrative and probable arguments has little to do with whether or
+not the argument has a deductive form (Owen 1999; Garrett 2002). In
+addition, the class of inferences that establish conclusions whose
+negation is a contradiction may include not just deductively valid
+inferences from <em>a priori</em> premises, but any inferences that
+can be drawn using <em>a priori</em> reasoning (that is, reasoning
+where the transition from premises to the conclusion makes no appeal
+to what we learn from observations). It looks as though Hume does
+intend the argument of the first horn to rule out any <em>a
+priori</em> reasoning, since he says that a change in the course of
+nature cannot be ruled out &ldquo;by any demonstrative argument or
+abstract reasoning <em>a priori</em>&rdquo; (E. 5.2.18). On this
+understanding, <em>a priori</em> arguments would be ruled out by the
+first horn of Hume&rsquo;s dilemma, and empirical arguments by the
+second horn. This is the interpretation that I will adopt for the
+purposes of this article.</p>
+
+<p>
+In Hume&rsquo;s argument, the UP plays a central role. As we will see
+in
+ <a href="#NoRule">section 4.2</a>,
+ various authors have been doubtful about this principle. Versions of
+Hume&rsquo;s argument have also been formulated which do not make
+reference to the UP. Rather they directly address the question of what
+arguments can be given in support of the transition from the premises
+to the conclusion of the specific inductive inference <em>I</em>. What
+arguments could lead us, for example, to infer that the next piece of
+bread will nourish from the observations of nourishing bread made so
+far? For the first horn of the argument, Hume&rsquo;s argument can be
+directly applied. A demonstrative argument establishes a conclusion
+whose negation is a contradiction. The negation of the conclusion of
+the inductive inference is not a contradiction. It is not a
+contradiction that the next piece of bread is not nourishing.
+Therefore, there is no demonstrative argument for the conclusion of
+the inductive inference. In the second horn of the argument, the
+problem Hume raises is a circularity. Even if Hume is wrong that all
+inductive inferences depend on the UP, there may still be a
+circularity problem, but as we shall see in
+ <a href="#InduJustIndu">section 4.1</a>,
+ the exact nature of the circularity needs to be carefully considered.
+But the main point at present is that the Humean argument is often
+formulated without invoking the UP.</p>
+
+<p>
+Since Hume&rsquo;s argument is a dilemma, there are two main ways to
+resist it. The first is to tackle the first horn and to argue that
+there is after all a demonstrative argument &ndash;here taken to mean
+an argument based on <em>a priori</em> reasoning&mdash;that can
+justify the inductive inference. The second is to tackle the second
+horn and to argue that there is after all a probable (or empirical)
+argument that can justify the inductive inference. We discuss the
+different variants of these two approaches in sections
+ <a href="#TackFirsHornHumeDile">3</a>
+ and
+ <a href="#TackSecoHornHumeDile">4</a>.</p>
+ 
+<p>
+There are also those who dispute the consequences of the dilemma. For
+example, some scholars have denied that Hume should be read as
+invoking a premise such
+ <a href="#P8">premise P8</a>
+ at all. The reason, they claim, is that he was not aiming for an
+explicitly normative conclusion about justification such as
+ <a href="#C5">C5</a>.
+ Hume certainly is seeking a &ldquo;chain of reasoning&rdquo; from the
+premises of the inductive inference to the conclusion, and he thinks
+that an argument for the UP is necessary to complete the chain.
+However, one could think that there is no further premise regarding
+justification, and so the conclusion of his argument is simply
+ <a href="#C4">C4</a>:
+ there is no chain of reasoning from the premises to the conclusion of
+an inductive inference. Hume could then be, as Don Garrett and David
+Owen have argued, advancing a &ldquo;thesis in cognitive
+psychology&rdquo;, rather than making a normative claim about
+justification (Owen 1999; Garrett 2002). The thesis is about the
+nature of the cognitive process underlying the inference. According to
+Garrett, the main upshot of Hume&rsquo;s argument is that there can be
+no reasoning process that establishes the UP. For Owen, the message is
+that the inference is not drawn through a chain of ideas connected by
+mediating links, as would be characteristic of the faculty of
+reason.</p>
+
+<p>
+There are also interpreters who have argued that Hume is merely trying
+to exclude a specific kind of justification of induction, based on a
+conception of reason predominant among rationalists of his time,
+rather than a justification in general (Beauchamp &amp; Rosenberg
+1981; Baier 2009). In particular, it has been claimed that it is
+&ldquo;an attempt to refute the rationalist belief that at least some
+inductive arguments are demonstrative&rdquo; (Beauchamp &amp;
+Rosenberg 1981: xviii). Under this interpretation,
+ <a href="#P8">premise P8</a>
+ should be modified to read something like:</p>
+
+<ul>
+
+<li>If there is no chain of reasoning based on demonstrative arguments
+from the premises to the conclusion of inference <em>I</em>, then
+inference <em>I</em> is not justified.</li>
+</ul>
+
+<p>
+Such interpretations do however struggle with the fact that
+Hume&rsquo;s argument is explicitly a two-pronged attack, which
+concerns not just demonstrative arguments, but also probable
+arguments.</p>
+
+<p>
+The question of how expansive a normative conclusion to attribute to
+Hume is a complex one. It depends in part on the interpretation of
+Hume&rsquo;s own solution to his problem. As we saw in
+ <a href="#HumeProb">section 1</a>,
+ Hume attributes the basis of inductive inference to principles of the
+imagination in the Treatise, and in the Enquiry to
+&ldquo;custom&rdquo;, &ldquo;habit&rdquo;, conceived as a kind of
+natural instinct. The question is then whether this alternative
+provides any kind of justification for the inference, even if not one
+based on reason. On the face of it, it looks as though Hume is
+suggesting that inductive inferences proceed on an entirely arational
+basis. He clearly does not think that they do not succeed in producing
+good outcomes. In fact, Hume even suggests that this operation of the
+mind may even be less &ldquo;liable to error and mistake&rdquo; than
+if it were entrusted to &ldquo;the fallacious deductions of our
+reason, which is slow in its operations&rdquo; (E. 5.2.22). It is also
+not clear that he sees the workings of the imagination as completely
+devoid of rationality. For one thing, Hume talks about the imagination
+as governed by <em>principles</em>. Later in the <em>Treatise</em>, he
+even gives &ldquo;rules&rdquo; and &ldquo;logic&rdquo; for
+characterizing what should count as a good causal inference (T.
+1.3.15). He also clearly sees it as possible to distinguish between
+better forms of such &ldquo;reasoning&rdquo;, as he continues to call
+it. Thus, there may be grounds to argue that Hume was not trying to
+argue that inductive inferences have no rational foundation
+whatsoever, but merely that they do not have the specific type of
+rational foundation which is rooted in the faculty of Reason.</p>
+
+<p>
+All this indicates that there is room for debate over the intended
+scope of Hume&rsquo;s own conclusion. And thus there is also room for
+debate over exactly what form a premise (such as
+ <a href="#P8">premise P8</a>)
+ that connects the rest of his argument to a normative conclusion
+should take. No matter who is right about this however, the fact
+remains that Hume has throughout history been predominantly read as
+presenting an argument for inductive skepticism.</p>
+
+<p>
+There are a number of approaches which effectively, if not explicitly,
+take issue with
+ <a href="#P8">premise P8</a>
+ and argue that providing a chain of reasoning from the premises to
+the conclusion is not a necessary condition for justification of an
+inductive inference. According to this type of approach, one may admit
+that Hume has shown that inductive inferences are not justified in the
+sense that we have reasons to think their conclusions true, but still
+think that weaker kinds of justification of induction are possible
+ (<a href="#AlteConcJust">section 5</a>).
+ Finally, there are some philosophers who do accept the skeptical
+conclusion
+ <a href="#C5">C5</a>
+ and attempt to accommodate it. For example, there have been attempts
+to argue that inductive inference is not as central to scientific
+inquiry as is often thought
+ (<a href="#LiviInduSkep">section 6</a>).</p>
+ 
+<h2 id="TackFirsHornHumeDile">3. Tackling the First Horn of Hume&rsquo;s Dilemma</h2>
+
+<p>
+The first horn of Hume&rsquo;s argument, as formulated above, is aimed
+at establishing that there is no demonstrative argument for the UP.
+There are several ways people have attempted to show that the first
+horn does not definitively preclude a demonstrative or <em>a
+priori</em> argument for inductive inferences. One possible escape
+route from the first horn is to deny
+ <a href="#P3">premise P3</a>,
+ which amounts to admitting the possibility of synthetic <em>a
+priori</em> propositions
+ (<a href="#SyntPrio">section 3.1</a>).
+ Another possibility is to attempt to provide an <em>a priori</em>
+argument that the conclusion of the inference is probable, though not
+certain. The first horn of Hume&rsquo;s dilemma implies that there
+cannot be a demonstrative argument to the conclusion of an inductive
+inference because it is possible to conceive of the negation of the
+conclusion. For instance, it is quite possible to imagine that the
+next piece of bread I eat will poison me rather than nourish me.
+However, this does not rule out the possibility of a demonstrative
+argument that establishes only that the bread is highly likely to
+nourish, not that it definitely will. One might then also challenge
+ <a href="#P8">premise P8</a>,
+ by saying that it is not necessary for justification of an inductive
+inference to have a chain of reasoning from its premises to its
+conclusion. Rather it would suffice if we had an argument from the
+premises to the claim that the conclusion is probable or likely. Then
+an <em>a priori</em> justification of the inductive inference would
+have been provided. There have been attempts to provide <em>a
+priori</em> justifications for inductive inference based on Inference
+to the Best Explanation
+ (<a href="#NomoExplSolu">section 3.2</a>).
+ There are also attempts to find an <em>a priori</em> solution based
+on probabilistic formulations of inductive inference, though many now
+think that a purely <em>a priori</em> argument cannot be found because
+there are empirical assumptions involved (sections
+ <a href="#BayeSolu">3.3</a>
+ -<a href="#CombAppr">3.5</a>).</p>
+
+<h3 id="SyntPrio">3.1 Synthetic <em>a priori</em></h3>
+
+<p>
+As we have seen in
+ <a href="#HumeProb">section 1</a>,
+ Hume takes demonstrative arguments to have conclusions which are
+&ldquo;relations of ideas&rdquo;, whereas &ldquo;probable&rdquo; or
+&ldquo;moral&rdquo; arguments have conclusions which are
+&ldquo;matters of fact&rdquo;. Hume&rsquo;s distinction between
+&ldquo;relations of ideas&rdquo; and &ldquo;matters of fact&rdquo;
+anticipates the distinction drawn by Kant between
+&ldquo;analytic&rdquo; and &ldquo;synthetic&rdquo; propositions (Kant
+1781). A classic example of an analytic proposition is
+&ldquo;Bachelors are unmarried men&rdquo;, and a synthetic proposition
+is &ldquo;My bike tyre is flat&rdquo;. For Hume, demonstrative
+arguments, which are based on <em>a priori</em> reasoning, can
+establish only relations of ideas, or analytic propositions. The
+association between a prioricity and analyticity underpins
+ <a href="#P3">premise P3</a>,
+ which states that a demonstrative argument establishes a conclusion
+whose negation is a contradiction.</p>
+
+<p>
+One possible response to Hume&rsquo;s problem is to deny
+ <a href="#P3">premise P3</a>,
+ by allowing the possibility that <em>a priori</em> reasoning could
+give rise to synthetic propositions. Kant famously argued in response
+to Hume that such synthetic <em>a priori</em> knowledge is possible
+(Kant 1781, 1783). He does this by a kind of reversal of the
+empiricist programme espoused by Hume. Whereas Hume tried to
+understand how the concept of a causal or necessary connection could
+be based on experience, Kant argued instead that experience only comes
+about through the concepts or &ldquo;categories&rdquo; of the
+understanding. On his view, one can gain <em>a priori</em> knowledge
+of these concepts, including the concept of causation, by a
+transcendental argument concerning the necessary preconditions of
+experience. A more detailed account of Kant&rsquo;s response to Hume
+can be found in de Pierris and Friedman 2013.</p>
+
+<h3 id="NomoExplSolu">3.2 The Nomological-Explanatory solution</h3>
+
+<p>
+The &ldquo;Nomological-explanatory&rdquo; solution, which has been put
+forward by Armstrong, BonJour and Foster (Armstrong 1983; BonJour
+1998; Foster 2004) appeals to the principle of Inference to the Best
+Explanation (IBE). According to IBE, we should infer that the
+hypothesis which provides the best explanation of the evidence is
+probably true. Proponents of the Nomological-Explanatory approach take
+Inference to the Best Explanation to be a mode of inference which is
+distinct from the type of &ldquo;extrapolative&rdquo; inductive
+inference that Hume was trying to justify. They also regard it as a
+type of inference which although non-deductive, is justified <em>a
+priori</em>. For example, Armstrong says &ldquo;To infer to the best
+explanation is part of what it is to be rational. If that is not
+rational, what is?&rdquo; (Armstrong 1983: 59).</p>
+
+<p>
+The <em>a priori</em> justification is taken to proceed in two steps.
+First, it is argued that we should recognize that certain observed
+regularities require an explanation in terms of some underlying law.
+For example, if a coin persistently lands heads on repeated tosses,
+then it becomes increasingly implausible that this occurred just
+because of &ldquo;chance&rdquo;. Rather, we should infer to the better
+explanation that the coin has a certain bias. Saying that the coin
+lands heads not only for the observed cases, but also for the
+unobserved cases, does not provide an explanation of the observed
+regularity. Thus, mere Humean constant conjunction is not sufficient.
+What is needed for an explanation is a &ldquo;non-Humean,
+metaphysically robust conception of objective regularity&rdquo;
+(BonJour 1998), which is thought of as involving actual natural
+necessity (Armstrong 1983; Foster 2004).</p>
+
+<p>
+Once it has been established that there must be some metaphysically
+robust explanation of the observed regularity, the second step is to
+argue that out of all possible metaphysically robust explanations, the
+&ldquo;straight&rdquo; inductive explanation is the best one, where
+the straight explanation extrapolates the observed frequency to the
+wider population. For example, given that a coin has some objective
+chance of landing heads, the best explanation of the fact that \(m/n\)
+heads have been so far observed, is that the objective chance of the
+coin landing heads is \(m/n\). And this objective chance determines
+what happens not only in observed cases but also in unobserved
+cases.</p>
+
+<p>
+The Nomological-Explanatory solution relies on taking IBE as a
+rational, <em>a priori</em> form of inference which is distinct from
+inductive inferences like inference <em>I</em>. However, one might
+alternatively view inductive inferences as a special case of IBE
+(Harman 1968), or take IBE to be merely an alternative way of
+characterizing inductive inference (Henderson 2014). If either of
+these views is right, IBE does not have the necessary independence
+from inductive inference to provide a non-circular justification of
+it.</p>
+
+<p>
+One may also object to the Nomological-Explanatory approach on the
+grounds that regularities do not necessarily require an explanation in
+terms of necessary connections or robust metaphysical laws. The
+viability of the approach also depends on the tenability of a
+non-Humean conception of laws. There have been several serious
+attempts to develop such an account (Armstrong 1983; Tooley 1977;
+Dretske 1977), but also much criticism (see J. Carroll 2016).</p>
+
+<p>
+Another critical objection is that the Nomological-Explanatory
+solution simply begs the question, even if it is taken to be
+legitimate to make use of IBE in the justification of induction. In
+the first step of the argument we infer to a law or regularity which
+extends beyond the spatio-temporal region in which observations have
+been thus far made, in order to predict what will happen in the
+future. But why could a law that only applies to the observed
+spatio-temporal region not be an equally good explanation? The main
+reply seems to be that we can see <em>a priori</em> that laws with
+temporal or spatial restrictions would be less good explanations.
+Foster argues that the reason is that this would introduce more
+mysteries:</p>
+
+<blockquote>
+
+<p>
+For it seems to me that a law whose scope is restricted to some
+particular period is more mysterious, inherently more puzzling, than
+one which is temporally universal. (Foster 2004)</p>
+</blockquote>
+
+<h3 id="BayeSolu">3.3 Bayesian solution</h3>
+
+<p>
+Another way in which one can try to construct an <em>a priori</em>
+argument that the premises of an inductive inference make its
+conclusion probable, is to make use of the formalism of probability
+theory itself. At the time Hume wrote, probabilities were used to
+analyze games of chance. And in general, they were used to address the
+problem of what we would expect to see, given that a certain cause was
+known to be operative. This is the so-called problem of &ldquo;direct
+inference&rdquo;. However, the problem of induction concerns the
+&ldquo;inverse&rdquo; problem of determining the cause or general
+hypothesis, given particular observations.</p>
+
+<p>
+One of the first and most important methods for tackling the
+&ldquo;inverse&rdquo; problem using probabilities was developed by
+Thomas Bayes. Bayes&rsquo;s essay containing the main results was
+published after his death in 1764 (Bayes 1764). However, it is
+possible that the work was done significantly earlier and was in fact
+written in direct response to the publication of Hume&rsquo;s Enquiry
+in 1748 (see Zabell 1989: 290&ndash;93, for discussion of what is
+known about the history).</p>
+
+<p>
+We will illustrate the Bayesian method using the problem of drawing
+balls from an urn. Suppose that we have an urn which contains white
+and black balls in an unknown proportion. We draw a sample of balls
+from the urn by removing a ball, noting its color, and then putting it
+back before drawing again.</p>
+
+<p>
+Consider first the problem of direct inference. Given the proportion
+of white balls in the urn, what is the probability of various outcomes
+for a sample of observations of a given size? Suppose the proportion
+of white balls in the urn is \(\theta = 0.6\). The probability of
+drawing one white ball in a sample of one is then \(p(W; \theta = 0.6)
+= 0.6\). We can also compute the probability for other outcomes, such
+as drawing two white balls in a sample of two, using the rules of the
+probability calculus (see section 1 of H&aacute;jek 2011). Generally,
+the probability that \(n_w\) white balls are drawn in a sample of size
+<em>N</em>, is given by the binomial distribution:</p> 
+\[ p(n_w;\theta=x) = \left(\begin{matrix}N\\
+n_w
+\end{matrix}\right) x^{n_w} (1-x)^{(N-n_w)} \]
+
+<p>
+This is a specific example of a &ldquo;sampling distribution&rdquo;,
+\(p(E\mid H)\), which gives the probability of certain evidence
+<em>E</em> in a sample, on the assumption that a certain hypothesis
+<em>H</em> is true. Calculation of the sampling distribution can in
+general be done <em>a priori</em>, given the rules of the probability
+calculus.</p>
+
+<p>
+However, the problem of induction is the inverse problem. We want to
+infer not what the sample will be like, with a known hypothesis,
+rather we want to infer a hypothesis about the general situation or
+population, based on the observation of a limited sample. The
+probabilities of the candidate hypotheses can then be used to inform
+predictions about further observations. In the case of the urn, for
+example, we want to know what the observation of a particular sample
+frequency of white balls, \(\frac{n_w}{N}\), tells us about
+\(\theta\), the proportion of white balls in the urn.</p>
+
+<p>
+The idea of the Bayesian approach is to assign probabilities not only
+to the events which constitute evidence, but also to hypotheses. One
+starts with a &ldquo;prior probability&rdquo; distribution over the
+relevant hypotheses \(p(H)\). On learning some evidence <em>E</em>,
+the Bayesian updates the prior \(p(H)\) to the conditional probability
+\(p(H\mid E)\). This update rule is called the &ldquo;rule of
+conditionalisation&rdquo;. The conditional probability \(p(H\mid E)\)
+is known as the &ldquo;posterior probability&rdquo;, and is calculated
+using Bayes&rsquo; rule:</p> 
+\[ p(H\mid E) = \frac{p(E\mid H) p(H)}{p(E)} \]
+
+<p>
+Here the sampling distribution can be taken to be a conditional
+probability \(p(E\mid H)\), which is known as the
+&ldquo;likelihood&rdquo; of the hypothesis <em>H</em> on evidence
+<em>E</em>.</p>
+
+<p>
+One can then go on to compute the predictive distribution for as yet
+unobserved data \(E'\), given observations <em>E</em>. The predictive
+distribution in a Bayesian approach is given by</p> 
+\[ p(E'\mid E) = \sum_{H} p(E'\mid H) p(H\mid E) \]
+
+<p>
+where the sum becomes an integral in cases where <em>H</em> is a
+continuous variable.</p>
+
+<p>
+For the urn example, we can compute the posterior probability
+\(p(\theta\mid n_w)\) using Bayes&rsquo; rule, and the likelihood
+given by the binomial distribution above. In order to do so, we also
+need to assign a prior probability distribution to the parameter
+\(\theta\). One natural choice, which was made early on by Bayes
+himself and by Laplace, is to put a uniform prior over the parameter
+\(\theta\). Bayes&rsquo; own rationale for this choice was that then
+if you work out the probability of each value for the number of whites
+in the sample based only on the prior, before any data is observed,
+all those probabilities are equal. Laplace had a different
+justification, based on the Principle of Indifference. This principle
+states that if you don&rsquo;t have any reason to favor one hypothesis
+over another, you should assign them all equal probabilities.</p>
+
+<p>
+With the choice of uniform prior, the posterior probability and
+predictive distribution can be calculated. It turns out that the
+probability that the next ball will be white, given that \(n_w\) of
+<em>N</em> draws were white, is given by</p> 
+\[ p(w\mid n_w) = \frac{n_w + 1}{N+2} \]
+
+<p>
+This is Laplace&rsquo;s famous &ldquo;rule of succession&rdquo;
+(1814). Suppose on the basis of observing 90 white balls out of 100,
+we calculate by the rule of succession that the probability of the
+next ball being white is \(91/102=0.89\). It is quite conceivable that
+the next ball might be black. Even in the case, where all 100 balls
+have been white, so that the probability of the next ball being white
+is 0.99, there is still a small probability that the next ball is not
+white. What the probabilistic reasoning supplies then is not an
+argument to the conclusion that the next ball will be a certain color,
+but an argument to the conclusion that certain future observations are
+very <em>likely</em> given what has been observed in the past.</p>
+
+<p>
+Overall, the Bayes-Laplace argument in the urn case provides an
+example of how probabilistic reasoning can take us from evidence about
+observations in the past to a prediction for how likely certain future
+observations are. The question is what kind of solution, if any, this
+type of calculation provides to the problem of induction. At first
+sight, since it is just a mathematical calculation, it looks as though
+it does indeed provide an <em>a priori</em> argument from the premises
+of an inductive inference to the proposition that a certain conclusion
+is probable.</p>
+
+<p>
+However, in order to establish this definitively, one would need to
+argue that all the components and assumptions of the argument are
+<em>a priori</em> and this requires further examination of at least
+three important issues.</p>
+
+<p>
+First, the Bayes-Laplace argument relies on the rules of the
+probability calculus. What is the status of these rules? Does
+following them amount to <em>a priori</em> reasoning? The answer to
+this depends in part on how probability itself is interpreted. Broadly
+speaking, there are prominent interpretations of probability according
+to which the rules plausibly have <em>a priori</em> status and could
+form the basis of a demonstrative argument. These include the
+classical interpretation originally developed by Laplace (1814), the
+logical interpretation (Keynes (1921), Johnson (1921), Jeffreys
+(1939), Carnap (1950), Cox (1946, 1961), and the subjectivist
+interpretation of Ramsey (1926), Savage (1954), and de Finetti (1964).
+Attempts to argue for a probabilistic <em>a priori</em> solution to
+the problem of induction have been primarily associated with these
+interpretations.</p>
+
+<p>
+Secondly, in the case of the urn, the Bayes-Laplace argument is based
+on a particular probabilistic model&mdash;the binomial model. This
+involves the assumption that there is a parameter describing an
+unknown proportion \(\theta\) of balls in the urn, and that the data
+amounts to independent draws from a distribution over that parameter.
+What is the basis of these assumptions? Do they generalize to other
+cases beyond the actual urn case&mdash;i.e., can we see observations
+in general as analogous to draws from an &ldquo;Urn of Nature&rdquo;?
+There has been a persistent worry that these types of assumptions,
+while reasonable when applied to the case of drawing balls from an
+urn, will not hold for other cases of inductive inference. Thus, the
+probabilistic solution to the problem of induction might be of
+relatively limited scope. At the least, there are some assumptions
+going into the choice of model here that need to be made explicit.
+Arguably the choice of model introduces empirical assumptions, which
+would mean that the probabilistic solution is not an <em>a priori</em>
+one.</p>
+
+<p>
+Thirdly, the Bayes-Laplace argument relies on a particular choice of
+prior probability distribution. What is the status of this assignment,
+and can it be based on <em>a priori</em> principles? Historically, the
+Bayes-Laplace choice of a uniform prior, as well as the whole concept
+of classical probability, relied on the Principle of Indifference.
+This principle has been regarded by many as an <em>a priori</em>
+principle. However, it has also been subjected to much criticism on
+the grounds that it can give rise to inconsistent probability
+assignments (Bertrand 1888; Borel 1909; Keynes 1921). Such
+inconsistencies are produced by there being more than one way to carve
+up the space of alternatives, and different choices give rise to
+conflicting probability assignments. One attempt to rescue the
+Principle of Indifference has been to appeal to explanationism, and
+argue that the principle should be applied only to the carving of the
+space at &ldquo;the most explanatorily basic level&rdquo;, where this
+level is identified according to an <em>a priori</em> notion of
+explanatory priority (Huemer 2009).</p>
+
+<p>
+The quest for an <em>a priori</em> argument for the assignment of the
+prior has been largely abandoned. For many, the subjectivist
+foundations developed by Ramsey, de Finetti and Savage provide a more
+satisfactory basis for understanding probability. From this point of
+view, it is a mistake to try to introduce any further <em>a
+priori</em> constraints on the probabilities beyond those dictated by
+the probability rules themselves. Rather the assignment of priors may
+reflect personal opinions or background knowledge, and no prior is
+<em>a priori</em> an unreasonable choice.</p>
+
+<p>
+So far, we have considered probabilistic arguments which place
+probabilities over hypotheses in a hypothesis space as well as
+observations. There is also a tradition of attempts to determine what
+probability distributions we should have, given certain observations,
+from the starting point of a joint probability distribution over all
+the observable variables. One may then postulate axioms directly on
+this distribution over observables, and examine the consequences for
+the predictive distribution. Much of the development of inductive
+logic, including the influential programme by Carnap, proceeded in
+this manner (Carnap 1950, 1952).</p>
+
+<p>
+This approach helps to clarify the role of the assumptions behind
+probabilistic models. One assumption that one can make about the
+observations is that they are &ldquo;exchangeable&rdquo;. This means
+that the joint distribution of the random variables is invariant under
+permutations. Informally, this means that the order of the
+observations does not affect the probability. For instance, in the urn
+case, this would mean that drawing first a white ball and then a black
+ball is just as probable as first drawing a black and then a white. De
+Finetti proved a general representation theorem that if the joint
+probability distribution of an infinite sequence of random variables
+is assumed to be exchangeable, then it can be written as a mixture of
+distribution functions from each of which the data behave as if they
+are independent random draws (de Finetti 1964). In the case of the urn
+example, the theorem shows that it is <em>as if</em> the data are
+independent random draws from a binomial distribution over a parameter
+\(\theta\), which itself has a prior probability distribution.</p>
+
+<p>
+The assumption of exchangeability may be seen as a natural
+formalization of Hume&rsquo;s assumption that the past resembles the
+future. This is intuitive because assuming exchangeability means
+thinking that the order of observations, both past and future, does
+not matter to the probability assignments.</p>
+
+<p>
+However, the development of the programme of inductive logic revealed
+that many generalizations are possible. For example, Johnson proposed
+to assume an axiom he called the &ldquo;sufficientness
+postulate&rdquo;. This states that outcomes can be of a number of
+different types, and that the conditional probability that the next
+outcome is of type <em>i</em> depends only on the number of previous
+trials and the number of previous outcomes of type <em>i</em> (Johnson
+1932). Assuming the sufficientness postulate for three or more types
+gives rise to a general predictive distribution corresponding to
+Carnap&rsquo;s &ldquo;continuum of inductive methods&rdquo; (Carnap
+1952). This predictive distribution takes the form:</p> 
+\[ p(i\mid N_1,N_2,\ldots N_t)= \frac{N_i + k}{N_1 +N_2 + \cdots + N_t + kt} \]
+
+<p>
+for some positive number <em>k</em>. This reduces to Laplace&rsquo;s
+rule of succession when \(t=2\) and \(k=1\).</p>
+
+<p>
+Generalizations of the notion of exchangeability, such as
+&ldquo;partial exchangeability&rdquo; and &ldquo;Markov
+exchangeability&rdquo;, have been explored, and these may be thought
+of as forms of symmetry assumption (Zabell 1988; Skyrms 2012). As less
+restrictive axioms on the probabilities for observables are assumed,
+the result is that there is no longer a unique result for the
+probability of a prediction, but rather a whole class of possible
+probabilities, mapped out by a generalized rule of succession such as
+the above. Therefore, in this tradition, as in the Bayes-Laplace
+approach, we have moved away from producing an argument which produces
+a unique a priori probabilistic answer to Hume&rsquo;s problem.</p>
+
+<p>
+One might think then that the assignment of the prior, or the relevant
+corresponding postulates on the observable probability distribution,
+is precisely where empirical assumptions enter into inductive
+inferences. The probabilistic calculations are empirical arguments,
+rather than <em>a priori</em> ones. If this is correct, then the
+probabilistic framework has not in the end provided an <em>a
+priori</em> solution to the problem of induction, but it has rather
+allowed us to clarify what could be meant by Hume&rsquo;s claim that
+inductive inferences rely on the Uniformity Principle.</p>
+
+<h3 id="PartSolu">3.4 Partial solutions</h3>
+
+<p>
+Some think that although the problem of induction is not solved, there
+is in some sense a partial solution, which has been called a
+&ldquo;logical solution&rdquo;. Howson, for example, argues that
+&ldquo;<em>Inductive reasoning is justified to the extent that it is
+sound, given appropriate premises</em>&rdquo; (Howson 2000: 239, his
+emphasis). According to this view, there is no getting away from an
+empirical premise for inductive inferences, but we might still think
+of Bayesian conditioning as functioning like a kind of logic or
+&ldquo;consistency constraint&rdquo; which &ldquo;generates
+predictions from the assumptions and observations together&rdquo;
+(Romeijn 2004: 360). Once we have an empirical assumption,
+instantiated in the prior probability, and the observations, Bayesian
+conditioning tells us what the resulting predictive probability
+distribution should be.</p>
+
+<p>
+The idea of a partial solution also arises in the context of the
+learning theory that grounds contemporary machine learning. Machine
+learning is a field in computer science concerned with algorithms that
+learn from experience. Examples are algorithms which can be trained to
+recognise or classify patterns in data. Learning theory concerns
+itself with finding mathematical theorems which guarantee the
+performance of algorithms which are in practical use. In this domain,
+there is a well-known finding that learning algorithms are only
+effective if they have &lsquo;inductive bias&rsquo; &mdash; that is, if
+they make some a priori assumptions about the domain they are employed
+upon (Mitchell 1997).</p>
+
+<p>
+The idea is also given formal expression in the so-called
+&lsquo;No-Free-Lunch theorems&rsquo; (Wolpert 1992, 1996, 1997). These
+can be interpreted as versions of the argument in Hume&rsquo;s first
+fork since they establish that there can be no contradiction in the
+algorithm not performing well, since there are <em>a priori</em>
+possible situations in which it does not (Sterkenburg and
+Gr&uuml;nwald 2021:9992). Given Hume&rsquo;s premise
+ <a href="#P3">P3</a>,
+ this rules out a demonstrative argument for its good performance.</p>
+
+<p>
+Premise
+ <a href="#P3">P3</a>
+ can perhaps be challenged on the grounds that <em>a priori</em>
+justifications can also be given for contingent propositions. Even
+though an inductive inference can fail in some possible situations, it
+could still be reasonable to form an expectation of reliability if we
+spread our credence equally over all the possibilities and have reason
+to think (or at least no reason to doubt) that the cases where
+inductive inference is unreliable require a &lsquo;very specific
+arrangement of things&rsquo; and thus form a small fraction of the
+total space of possibilities (White 2015). The No-Free-Lunch theorems
+make difficulties for this approach since they show that if we put a
+uniform distribution over all logically possible sequences of future
+events, any learning algorithm is expected to have a generalisation
+error of 1/2, and hence to do no better than guessing at random
+(Schurz 2021b).</p>
+
+<p>
+The No-Free-Lunch theorems may be seen as fundamental limitations on
+justifying learning algorithms when these algorithms are seen as
+&lsquo;purely data-driven&rsquo; &mdash; that is as mappings from possible
+data to conclusions. However, learning algorithms may also be
+conceived as functions not only of input data, but also of a
+particular model (Sterkenburg and Gr&uuml;nwald 2021). For example,
+the Bayesian &lsquo;algorithm&rsquo; gives a universal recipe for
+taking a particular model and prior and updating on the data. A number
+of theorems in learning theory provide general guarantees for the
+performance of such recipes. For instance, there are theorems which
+guarantee convergence of the Bayesian algorithm (Ghosal, Ghosh and van
+der Vaart 2000, Ghosal, Lember and van der Vaart 2008). In each
+instantiation, this convergence is relative to a particular specific
+prior. Thus, although the considerations first raised by Hume, and
+later instantiated in the No-Free-Lunch theorems, preclude any
+universal model-independent justification for learning algorithms, it
+does not rule out partial justifications in the form of such general a
+priori &lsquo;model-relative&rsquo; learning guarantees (Sterkenburg
+and Gr&uuml;nwald 2021).</p>
+
+<h3 id="CombAppr">3.5 The combinatorial approach</h3>
+
+<p>
+An alternative attempt to use probabilistic reasoning to produce an
+<em>a priori</em> justification for inductive inferences is the
+so-called &ldquo;combinatorial&rdquo; solution. This was first put
+forward by Donald C. Williams (1947) and later developed by David
+Stove (1986).</p>
+
+<p>
+Like the Bayes-Laplace argument, the solution relies heavily on the
+idea that straightforward <em>a priori</em> calculations can be done
+in a &ldquo;direct inference&rdquo; from population to sample. As we
+have seen, given a certain population frequency, the probability of
+getting different frequencies in a sample can be calculated
+straightforwardly based on the rules of the probability calculus. The
+Bayes-Laplace argument relied on inverting the probability
+distribution using Bayes&rsquo; rule to get from the sampling
+distribution to the posterior distribution. Williams instead proposes
+that the inverse inference may be based on a certain logical
+syllogism: the proportional (or statistical) syllogism.</p>
+
+<p>
+The proportional, or statistical syllogism, is the following:</p>
+
+<ol type="1">
+
+<li>Of all the things that are <em>M</em>, \(m/n\) are
+<em>P</em>.</li>
+
+<li><em>a</em> is an <em>M</em></li>
+</ol>
+
+<p>
+Therefore, <em>a</em> is <em>P</em>, with probability \(m/n\).</p>
+
+<p>
+For example, if 90% of rabbits in a population are white and we
+observe a rabbit <em>a</em>, then the proportional syllogism says that
+we infer that <em>a</em> is white with a probability of 90%. Williams
+argues that the proportional syllogism is a non-deductive logical
+syllogism, which effectively interpolates between the syllogism for
+entailment</p>
+
+<ol start="1" type="1">
+
+<li>All <em>M</em>s are <em>P</em></li>
+
+<li><em>a</em> is an <em>M</em></li>
+</ol>
+
+<p>
+Therefore, <em>a</em> is <em>P</em>.</p>
+
+<p>
+And the syllogism for contradiction</p>
+
+<ol start="1" type="1">
+
+<li>No <em>M</em> is <em>P</em></li>
+
+<li><em>a</em> is <em>M</em></li>
+</ol>
+
+<p>
+Therefore, <em>a</em> is not <em>P</em>.</p>
+
+<p>
+This syllogism can be combined with an observation about the behavior
+of increasingly large samples. From calculations of the sampling
+distribution, it can be shown that as the sample size increases, the
+probability that the sample frequency is in a range which closely
+approximates the population frequency also increases. In fact,
+Bernoulli&rsquo;s law of large numbers states that the probability
+that the sample frequency approximates the population frequency tends
+to one as the sample size goes to infinity. Williams argues that such
+results support a &ldquo;general over-all premise, common to all
+inductions, that samples &lsquo;match&rsquo; their populations&rdquo;
+(Williams 1947: 78).</p>
+
+<p>
+We can then apply the proportional syllogism to samples from a
+population, to get the following argument:</p>
+
+<ol start="1" type="1">
+
+<li>Most samples match their population</li>
+
+<li><em>S</em> is a sample.</li>
+</ol>
+
+<p>
+Therefore, <em>S</em> matches its population, with high
+probability.</p>
+
+<p>
+This is an instance of the proportional syllogism, and it uses the
+general result about samples matching populations as the first major
+premise.</p>
+
+<p>
+The next step is to argue that if we observe that the sample contains
+a proportion of \(m/n\) <em>F</em>s, then we can conclude that since
+this sample with high probability matches its population, the
+population, with high probability, has a population frequency that
+approximates the sample frequency \(m/n\). Both Williams and Stove
+claim that this amounts to a logical <em>a priori</em> solution to the
+problem of induction.</p>
+
+<p>
+A number of authors have expressed the view that the Williams-Stove
+argument is only valid if the sample <em>S</em> is drawn randomly from
+the population of possible samples&mdash;i.e., that any sample is as
+likely to be drawn as any other (Brown 1987; Will 1948; Giaquinto
+1987). Sometimes this is presented as an objection to the application
+of the proportional syllogism. The claim is that the proportional
+syllogism is only valid if <em>a</em> is drawn randomly from the
+population of <em>M</em>s. However, the response has been that there
+is no need to know that the sample is randomly drawn in order to apply
+the syllogism (Maher 1996; Campbell 2001; Campbell &amp; Franklin
+2004). Certainly if you have reason to think that your sampling
+procedure is more likely to draw certain individuals than
+others&mdash;for example, if you know that you are in a certain
+location where there are more of a certain type&mdash;then you should
+not apply the proportional syllogism. But if you have no such reasons,
+the defenders claim, it is quite rational to apply it. Certainly it is
+always possible that you draw an unrepresentative sample&mdash;meaning
+one of the few samples in which the sample frequency does not match
+the population frequency&mdash;but this is why the conclusion is only
+probable and not certain.</p>
+
+<p>
+The more problematic step in the argument is the final step, which
+takes us from the claim that samples match their populations with high
+probability to the claim that having seen a particular sample
+frequency, the population from which the sample is drawn has frequency
+close to the sample frequency with high probability. The problem here
+is a subtle shift in what is meant by &ldquo;high probability&rdquo;,
+which has formed the basis of a common misreading of
+Bernouilli&rsquo;s theorem. Hacking (1975: 156&ndash;59) puts the
+point in the following terms. Bernouilli&rsquo;s theorem licenses the
+claim that much more often than not, a small interval around the
+sample frequency will include the true population frequency. In other
+words, it is highly probable in the sense of &ldquo;usually
+right&rdquo; to say that the sample matches its population. But this
+does not imply that the proposition that a small interval around the
+sample will contain the true population frequency is highly probable
+in the sense of &ldquo;credible on each occasion of use&rdquo;. This
+would mean that for any given sample, it is highly credible that the
+sample matches its population. It is quite compatible with the claim
+that it is &ldquo;usually right&rdquo; that the sample matches its
+population to say that there are some samples which do not match their
+populations at all. Thus one cannot conclude from Bernouilli&rsquo;s
+theorem that for any given sample frequency, we should assign high
+probability to the proposition that a small interval around the sample
+frequency will contain the true population frequency. But this is
+exactly the slide that Williams makes in the final step of his
+argument. Maher (1996) argues in a similar fashion that the last step
+of the Williams-Stove argument is fallacious. In fact, if one wants to
+draw conclusions about the probability of the population frequency
+given the sample frequency, the proper way to do so is by using the
+Bayesian method described in the previous section. But, as we there
+saw, this requires the assignment of prior probabilities, and this
+explains why many people have thought that the combinatorial solution
+somehow illicitly presupposed an assumption like the principle of
+indifference. The Williams-Stove argument does not in fact give us an
+alternative way of inverting the probabilities which somehow bypasses
+all the issues that Bayesians have faced.</p>
+
+<h2 id="TackSecoHornHumeDile">4. Tackling the Second Horn of Hume&rsquo;s Dilemma</h2>
+
+<p>
+So far we have considered ways in which the first horn of Hume&rsquo;s
+dilemma might be tackled. But it is of course also possible to take on
+the second horn instead.</p>
+
+<p>
+One may argue that a probable argument would not, despite what Hume
+says, be circular in a problematic way (we consider responses of this
+kind in
+ <a href="#InduJustIndu">section 4.1</a>).
+ Or, one might attempt to argue that probable arguments are not
+circular at all
+ (<a href="#NoRule">section 4.2</a>).</p>
+ 
+<h3 id="InduJustIndu">4.1 Inductive Justifications of Induction</h3>
+
+<p>
+One way to tackle the second horn of Hume&rsquo;s dilemma is to reject
+ <a href="#P6">premise P6</a>,
+ which rules out circular arguments. Some have argued that certain
+kinds of circular arguments would provide an acceptable justification
+for the inductive inference. Since the justification would then itself
+be an inductive one, this approach is often referred to as an
+&ldquo;inductive justification of induction&rdquo;.</p>
+
+<p>
+First we should examine how exactly the Humean circularity supposedly
+arises. Take the simple case of enumerative inductive inference that
+follows the following pattern (<em>X</em>):</p>
+
+<div class="indent">
+
+<p>
+Most observed <em>F</em>s have been <em>G</em>s</p>
+
+<p>
+Therefore: Most <em>F</em>s are <em>G</em>s.</p>
+</div>
+
+<p>
+Hume claims that such arguments presuppose the Uniformity Principle
+(UP). According to premises
+ <a href="#P7">P7</a>
+ and
+ <a href="#P7">P8</a>,
+ this supposition also needs to be supported by an argument in order
+that the inductive inference be justified. A natural idea is that we
+can argue for the Uniformity Principle on the grounds that &ldquo;it
+works&rdquo;. We know that it works, because past instances of
+arguments which relied upon it were found to be successful. This alone
+however is not sufficient unless we have reason to think that such
+arguments will also be successful in the future. That claim must
+itself be supported by an inductive argument (<em>S</em>):</p>
+
+<div class="indent">
+
+<p>
+Most arguments of form <em>X</em> that rely on UP have succeeded in
+the past.</p>
+
+<p>
+Therefore, most arguments of form <em>X</em> that rely on UP
+succeed.</p>
+</div>
+
+<p>
+But this argument itself depends on the UP, which is the very
+supposition which we were trying to justify.</p>
+
+<p>
+As we have seen in
+ <a href="#Reco">section 2</a>,
+ some reject Hume&rsquo;s claim that all inductive inferences
+presuppose the UP. However, the argument that basing the justification
+of the inductive inference on a probable argument would result in
+circularity need not rely on this claim. The circularity concern can
+be framed more generally. If argument <em>S</em> relies on
+<em>something</em> which is already presupposed in inference
+<em>X</em>, then argument <em>S</em> cannot be used to justify
+inference <em>X</em>. The question though is what precisely the
+something is.</p>
+
+<p>
+Some authors have argued that in fact <em>S</em> does not rely on any
+premise or even presupposition that would require us to already know
+the conclusion of <em>X</em>. <em>S</em> is then not a &ldquo;premise
+circular&rdquo; argument. Rather, they claim, it is
+&ldquo;rule-circular&rdquo;&mdash;it relies on a rule of inference in
+order to reach the conclusion that that very rule is reliable. Suppose
+we adopt the rule <em>R</em> which says that when it is observed that
+most <em>F</em>s are <em>G</em>s, we should infer that most
+<em>F</em>s are <em>G</em>s. Then inference <em>X</em> relies on rule
+<em>R</em>. We want to show that rule <em>R</em> is reliable. We could
+appeal to the fact that <em>R</em> worked in the past, and so, by an
+inductive argument, it will also work in the future. Call this
+argument <em>S</em>*:</p>
+
+<div class="indent">
+
+<p>
+Most inferences following rule <em>R</em> have been successful</p>
+
+<p>
+Therefore, most inferences following <em>R</em> are successful.</p>
+</div>
+
+<p>
+Since this argument itself uses rule <em>R</em>, using it to establish
+that <em>R</em> is reliable is rule-circular.</p>
+
+<p>
+Some authors have then argued that although premise-circularity is
+vicious, rule-circularity is not (Cleve 1984; Papineau 1992). One
+reason for thinking rule-circularity is not vicious would be if it is
+not necessary to know or even justifiably believe that rule <em>R</em>
+is reliable in order to move to a justified conclusion using the rule.
+This is a claim made by externalists about justification (Cleve 1984).
+They say that as long as <em>R</em> is <em>in fact</em> reliable, one
+can form a justified belief in the conclusion of an argument relying
+on <em>R</em>, as long as one has justified belief in the
+premises.</p>
+
+<p>
+If one is not persuaded by the externalist claim, one might attempt to
+argue that rule circularity is benign in a different fashion. For
+example, the requirement that a rule be shown to be reliable without
+any rule-circularity might appear unreasonable when the rule is of a
+very fundamental nature. As Lange puts it:</p>
+
+<blockquote>
+
+<p>
+It might be suggested that although a circular argument is ordinarily
+unable to justify its conclusion, a circular argument is acceptable in
+the case of justifying a fundamental form of reasoning. After all,
+there is nowhere more basic to turn, so all that we can reasonably
+demand of a fundamental form of reasoning is that it endorse itself.
+(Lange 2011: 56)</p>
+</blockquote>
+
+<p>
+Proponents of this point of view point out that even deductive
+inference cannot be justified deductively. Consider Lewis
+Carroll&rsquo;s dialogue between Achilles and the Tortoise (Carroll
+1895). Achilles is arguing with a Tortoise who refuses to perform
+<em>modus ponens</em>. The Tortoise accepts the premise that
+<em>p</em>, and the premise that <em>p</em> implies <em>q</em> but he
+will not accept <em>q</em>. How can Achilles convince him? He manages
+to persuade him to accept another premise, namely &ldquo;if <em>p</em>
+and <em>p</em> implies <em>q</em>, then <em>q</em>&rdquo;. But the
+Tortoise is still not prepared to infer to <em>q</em>. Achilles goes
+on adding more premises of the same kind, but to no avail. It appears
+then that <em>modus ponens</em> cannot be justified to someone who is
+not already prepared to use that rule.</p>
+
+<p>
+It might seem odd if premise circularity were vicious, and rule
+circularity were not, given that there appears to be an easy
+interchange between rules and premises. After all, a rule can always,
+as in the Lewis Carroll story, be added as a premise to the argument.
+But what the Carroll story also appears to indicate is that there is
+indeed a fundamental difference between being prepared to accept a
+premise stating a rule (the Tortoise is happy to do this), and being
+prepared to use that rule (this is what the Tortoise refuses to
+do).</p>
+
+<p>
+Suppose that we grant that an inductive argument such as <em>S</em>
+(or <em>S</em>*) can support an inductive inference <em>X</em> without
+vicious circularity. Still, a possible objection is that the argument
+simply does not provide a full justification of <em>X</em>. After all,
+less sane inference rules such as counterinduction can support
+themselves in a similar fashion. The counterinductive rule is CI:</p>
+
+<div class="indent">
+
+<p>
+Most observed <em>A</em>s are <em>B</em>s.</p>
+
+<p>
+Therefore, it is not the case that most <em>A</em>s are
+<em>B</em>s.</p>
+</div>
+
+<p>
+Consider then the following argument CI*:</p>
+
+<div class="indent">
+
+<p>
+Most CI arguments have been unsuccessful</p>
+
+<p>
+Therefore, it is not the case that most CI arguments are unsuccessful,
+i.e., many CI arguments are successful.</p>
+</div>
+
+<p>
+This argument therefore establishes the reliability of CI in a
+rule-circular fashion (see Salmon 1963).</p>
+
+<p>
+Argument <em>S</em> can be used to support inference <em>X</em>, but
+only for someone who is already prepared to infer inductively by using
+<em>S</em>. It cannot convince a skeptic who is not prepared to rely
+upon that rule in the first place. One might think then that the
+argument is simply not achieving very much.</p>
+
+<p>
+The response to these concerns is that, as Papineau puts it, the
+argument is &ldquo;not <em>supposed</em> to do very much&rdquo;
+(Papineau 1992: 18). The fact that a counterinductivist counterpart of
+the argument exists is true, but irrelevant. It is conceded that the
+argument cannot persuade either a counterinductivist, or a skeptic.
+Nonetheless, proponents of the inductive justification maintain that
+there is still some added value in showing that inductive inferences
+are reliable, even when we already accept that there is nothing
+problematic about them. The inductive justification of induction
+provides a kind of important consistency check on our existing
+beliefs.</p>
+
+<h3 id="NoRule">4.2 No Rules</h3>
+
+<p>
+It is possible to go even further in an attempt to dismantle the
+Humean circularity. Maybe inductive inferences do not even have a rule
+in common. What if every inductive inference is essentially unique?
+This can be seen as rejecting Hume&rsquo;s premise
+ <a href="#P5">P5</a>.
+ Okasha, for example, argues that Hume&rsquo;s circularity problem can
+be evaded if there are &ldquo;no rules&rdquo; behind induction (Okasha
+2005a,b). Norton puts forward the similar idea that all inductive
+inferences are material, and have nothing formal in common (Norton
+2003, 2010, 2021).</p>
+
+<p>
+Proponents of such views have attacked Hume&rsquo;s claim that there
+is a UP on which all inductive inferences are based. There have long
+been complaints about the vagueness of the Uniformity Principle
+(Salmon 1953). The future only resembles the past in some respects,
+but not others. Suppose that on all my birthdays so far, I have been
+under 40 years old. This does not give me a reason to expect that I
+will be under 40 years old on my next birthday. There seems then to be
+a major lacuna in Hume&rsquo;s account. He might have explained or
+described how we draw an inductive inference, on the assumption that
+it is one we <em>can</em> draw. But he leaves untouched the question
+of how we distinguish between cases where we extrapolate a regularity
+legitimately, regarding it as a law, and cases where we do not.</p>
+
+<p>
+Nelson Goodman is often seen as having made this point in a
+particularly vivid form with his &ldquo;new riddle of induction&rdquo;
+(Goodman 1955: 59&ndash;83). Suppose we define a predicate
+&ldquo;grue&rdquo; in the following way. An object is
+&ldquo;grue&rdquo; when it is green if observed before time <em>t</em>
+and blue otherwise. Goodman considers a thought experiment in which we
+observe a bunch of green emeralds before time <em>t</em>. We could
+describe our results by saying all the observed emeralds are green.
+Using a simple enumerative inductive schema, we could infer from the
+result that all observed emeralds are green, that all emeralds are
+green. But equally, we could describe the same results by saying that
+all observed emeralds are grue. Then using the same schema, we could
+infer from the result that all observed emeralds are grue, that all
+emeralds are grue. In the first case, we expect an emerald observed
+after time <em>t</em> to be green, whereas in the second, we expect it
+to be blue. Thus the two predictions are incompatible. Goodman claims
+that what Hume omitted to do was to give any explanation for why we
+project predicates like &ldquo;green&rdquo;, but not predicates like
+&ldquo;grue&rdquo;. This is the &ldquo;new riddle&rdquo;, which is
+often taken to be a further problem of induction that Hume did not
+address.</p>
+
+<p>
+One moral that could be taken from Goodman is that there is not one
+general Uniformity Principle that all probable arguments rely upon
+(Sober 1988; Norton 2003; Okasha 2001, 2005a,b, Jackson 2019). Rather
+each inductive inference presupposes some more specific empirical
+presupposition. A particular inductive inference depends on some
+specific way in which the future resembles the past. It can then be
+justified by another inductive inference which depends on some quite
+different empirical claim. This will in turn need to be
+justified&mdash;by yet another inductive inference. The nature of
+Hume&rsquo;s problem in the second horn is thus transformed. There is
+no circularity. Rather there is a regress of inductive justifications,
+each relying on their own empirical presuppositions (Sober 1988;
+Norton 2003; Okasha 2001, 2005a,b).</p>
+
+<p>
+One way to put this point is to say that Hume&rsquo;s argument rests
+on a quantifier shift fallacy (Sober 1988; Okasha 2005a). Hume says
+that there exists a general presupposition for all inductive
+inferences, whereas he should have said that for each inductive
+inference, there is some presupposition. Different inductive
+inferences then rest on different empirical presuppositions, and the
+problem of circularity is evaded.</p>
+
+<p>
+What will then be the consequence of supposing that Hume&rsquo;s
+problem should indeed have been a regress, rather than a circularity?
+Here different opinions are possible. On the one hand, one might think
+that a regress still leads to a skeptical conclusion (Schurz and Thorn
+2020). So although the exact form in which Hume stated his problem was
+not correct, the conclusion is not substantially different (Sober
+1988). Another possibility is that the transformation mitigates or
+even removes the skeptical problem. For example, Norton argues that
+the upshot is a dissolution of the problem of induction, since the
+regress of justifications benignly terminates (Norton 2003). And
+Okasha more mildly suggests that even if the regress is infinite,
+&ldquo;Perhaps infinite regresses are less bad than vicious circles
+after all&rdquo; (Okasha 2005b: 253).</p>
+
+<p>
+Any dissolution of Hume&rsquo;s circularity does not depend only on
+arguing that the UP should be replaced by empirical presuppositions
+which are specific to each inductive inference. It is also necessary
+to establish that inductive inferences share no common
+rules&mdash;otherwise there will still be at least some
+rule-circularity. Okasha suggests that the Bayesian model of
+belief-updating is an illustration how induction can be characterized
+in a rule-free way, but this is problematic, since in this model all
+inductive inferences still share the common rule of Bayesian
+conditionalisation. Norton&rsquo;s material theory of induction
+postulates a rule-free characterization of induction, but it is not
+clear whether it really can avoid any role for general rules
+(Achinstein 2010, Kelly 2010, Worrall 2010).</p>
+
+<h2 id="AlteConcJust">5. Alternative Conceptions of Justification</h2>
+
+<p>
+Hume is usually read as delivering a negative verdict on the
+possibility of justifying inference <em>I</em>, via a premise such as
+ <a href="#P8">P8</a>,
+ though as we have seen in section
+ <a href="#Reco">section 2</a>,
+ some have questioned whether Hume is best interpreted as drawing a
+conclusion about justification of inference <em>I</em> at all. In this
+section we examine approaches which question in different ways whether
+ <a href="#P8">premise P8</a>
+ really does give a valid necessary condition for justification of
+inference <em>I</em> and propose various alternative conceptions of
+justification.</p>
+
+<h3 id="PostHing">5.1 Postulates and Hinges</h3>
+
+<p>
+One approach has been to turn to general reflection on what is even
+needed for justification of an inference in the first place. For
+example, Wittgenstein raised doubts over whether it is even meaningful
+to ask for the grounds for inductive inferences.</p>
+
+<blockquote>
+
+<p>
+If anyone said that information about the past could not convince him
+that something would happen in the future, I should not understand
+him. One might ask him: what do you expect to be told, then? What sort
+of information do you call a ground for such a belief? &hellip; If
+these are not grounds, then what are grounds?&mdash;If you say these
+are not grounds, then you must surely be able to state what must be
+the case for us to have the right to say that there are grounds for
+our assumption&hellip;. (Wittgenstein 1953: 481)</p>
+</blockquote>
+
+<p>
+One might not, for instance, think that there even needs to be a chain
+of reasoning in which each step or presupposition is supported by an
+argument. Wittgenstein took it that there are some principles so
+fundamental that they do not require support from any further
+argument. They are the &ldquo;hinges&rdquo; on which enquiry
+turns.</p>
+
+<p>
+Out of Wittgenstein&rsquo;s ideas has developed a general notion of
+&ldquo;entitlement&rdquo;, which is a kind of rational warrant to hold
+certain propositions which does not come with the same requirements as
+&ldquo;justification&rdquo;. Entitlement provides epistemic rights to
+hold a proposition, without responsibilities to base the belief in it
+on an argument. Crispin Wright (2004) has argued that there are
+certain principles, including the Uniformity Principle, that we are
+entitled in this sense to hold.</p>
+
+<p>
+Some philosophers have set themselves the task of determining a set or
+sets of postulates which form a plausible basis for inductive
+inferences. Bertrand Russell, for example, argued that five postulates
+lay at the root of inductive reasoning (Russell 1948). Arthur Burks,
+on the other hand, proposed that the set of postulates is not unique,
+but there may be multiple sets of postulates corresponding to
+different inductive methods (Burks 1953, 1955).</p>
+
+<p>
+The main objection to all these views is that they do not really solve
+the problem of induction in a way that adequately secures the pillars
+on which inductive inference stands. As Salmon puts it,
+&ldquo;admission of unjustified and unjustifiable postulates to deal
+with the problem is tantamount to making scientific method a matter of
+faith&rdquo; (Salmon 1966: 48).</p>
+
+<h3 id="OrdiLangDiss">5.2 Ordinary Language Dissolution</h3>
+
+<p>
+Rather than allowing undefended empirical postulates to give normative
+support to an inductive inference, one could instead argue for a
+completely different conception of what is involved in justification.
+Like Wittgenstein, later ordinary language philosophers, notably P.F.
+Strawson, also questioned what exactly it means to ask for a
+justification of inductive inferences (Strawson 1952). This has become
+known as the &ldquo;Ordinary language dissolution&rdquo; of the
+problem of induction.</p>
+
+<p>
+Strawson points out that it could be meaningful to ask for a deductive
+justification of inductive inferences. But it is not clear that this
+is helpful since this is effectively &ldquo;a demand that induction
+shall be shown to be really a kind of deduction&rdquo; (Strawson 1952:
+230). Rather, Strawson says, when we ask about whether a particular
+inductive inference is justified, we are typically judging whether it
+conforms to our usual inductive standards. Suppose, he says, someone
+has formed the belief by inductive inference that All
+<em>f</em>&rsquo;s are <em>g</em>. Strawson says that if that person
+is asked for their grounds or reasons for holding that belief,</p>
+
+<blockquote>
+
+<p>
+I think it would be felt to be a satisfactory answer if he replied:
+&ldquo;Well, in all my wide and varied experience I&rsquo;ve come
+across innumerable cases of <em>f</em> and never a case of <em>f</em>
+which wasn&rsquo;t a case of <em>g</em>&rdquo;. In saying this, he is
+clearly claiming to have <em>inductive</em> support,
+<em>inductive</em> evidence, of a certain kind, for his belief.
+(Strawson 1952)</p>
+</blockquote>
+
+<p>
+That is just because inductive support, as it is usually understood,
+simply consists of having observed many positive instances in a wide
+variety of conditions.</p>
+
+<p>
+In effect, this approach denies that producing a chain of reasoning is
+a necessary condition for justification. Rather, an inductive
+inference is justified if it conforms to the usual standards of
+inductive justification. But, is there more to it? Might we not ask
+what reason we have to rely on those inductive standards?</p>
+
+<p>
+It surely makes sense to ask whether a particular inductive inference
+is justified. But the answer to that is fairly straightforward.
+Sometimes people have enough evidence for their conclusions and
+sometimes they do not. Does it also make sense to ask about whether
+inductive procedures generally are justified? Strawson draws the
+analogy between asking whether a particular act is legal. We may
+answer such a question, he says, by referring to the law of the
+land.</p>
+
+<blockquote>
+
+<p>
+But it makes no sense to inquire in general whether the law of the
+land, the legal system as a whole, is or is not legal. For to what
+legal standards are we appealing? (Strawson 1952: 257)</p>
+</blockquote>
+
+<p>
+According to Strawson,</p>
+
+<blockquote>
+
+<p>
+It is an analytic proposition that it is reasonable to have a degree
+of belief in a statement which is proportional to the strength of the
+evidence in its favour; and it is an analytic proposition, though not
+a proposition of mathematics, that, other things being equal, the
+evidence for a generalisation is strong in proportion as the number of
+favourable instances, and the variety of circumstances in which they
+have been found, is great. So to ask whether it is reasonable to place
+reliance on inductive procedures is like asking whether it is
+reasonable to proportion the degree of one&rsquo;s convictions to the
+strength of the evidence. Doing this is what &ldquo;being
+reasonable&rdquo; <em>means</em> in such a context. (Strawson 1952:
+256&ndash;57)</p>
+</blockquote>
+
+<p>
+Thus, according to this point of view, there is no further question to
+ask about whether it is reasonable to rely on inductive
+inferences.</p>
+
+<p>
+The ordinary language philosophers do not explicitly argue against
+Hume&rsquo;s
+ <a href="#P8">premise P8</a>.
+ But effectively what they are doing is offering a whole different
+story about what it would mean to be justified in believing the
+conclusion of inductive inferences. What is needed is just conformity
+to inductive standards, and there is no real meaning to asking for any
+further justification for those.</p>
+
+<p>
+The main objection to this view is that conformity to the usual
+standards is insufficient to provide the needed justification. What we
+need to know is whether belief in the conclusion of an inductive
+inference is &ldquo;epistemically reasonable or justified in the sense
+that &hellip;there is reason to think that it is likely to be
+true&rdquo; (BonJour 1998: 198). The problem Hume has raised is
+whether, despite the fact that inductive inferences have tended to
+produce true conclusions in the past, we have reason to think the
+conclusion of an inductive inference we now make is likely to be true.
+Arguably, establishing that an inductive inference is rational in the
+sense that it follows inductive standards is not sufficient to
+establish that its conclusion is likely to be true. In fact Strawson
+allows that there is a question about whether &ldquo;induction will
+continue to be successful&rdquo;, which is distinct from the question
+of whether induction is rational. This question he does take to hinge
+on a &ldquo;contingent, factual matter&rdquo; (Strawson 1952: 262).
+But if it is this question that concerned Hume, it is no answer to
+establish that induction is rational, unless that claim is understood
+to involve or imply that an inductive inference carried out according
+to rational standards is likely to have a true conclusion.</p>
+
+<h3 id="PragVindIndu">5.3 Pragmatic vindication of induction</h3>
+
+<p>
+Another solution based on an alternative criterion for justification
+is the &ldquo;pragmatic&rdquo; approach initiated by Reichenbach (1938
+[2006]). Reichenbach did think Hume&rsquo;s argument unassailable, but
+nonetheless he attempted to provide a weaker kind of justification for
+induction. In order to emphasize the difference from the kind of
+justification Hume sought, some have given it a different term and
+refer to Reichenbach&rsquo;s solution as a &ldquo;vindication&rdquo;,
+rather than a justification of induction (Feigl 1950; Salmon
+1963).</p>
+
+<p>
+Reichenbach argued that it was not necessary for the justification of
+inductive inference to show that its conclusion is true. Rather
+&ldquo;the proof of the truth of the conclusion is only a sufficient
+condition for the justification of induction, not a necessary
+condition&rdquo; (Reichenbach 2006: 348). If it could be shown, he
+says, that inductive inference is a necessary condition of success,
+then even if we do not know that it will succeed, we still have some
+reason to follow it. Reichenbach makes a comparison to the situation
+where a man is suffering from a disease, and the physician says
+&ldquo;I do not know whether an operation will save the man, but if
+there is any remedy, it is an operation&rdquo; (Reichenbach 1938
+[2006: 349]). This provides some kind of justification for operating
+on the man, even if one does not know that the operation will
+succeed.</p>
+
+<p>
+In order to get a full account, of course, we need to say more about
+what is meant for a method to have &ldquo;success&rdquo;, or to
+&ldquo;work&rdquo;. Reichenbach thought that this should be defined in
+relation to the aim of induction. This aim, he thought, is
+&ldquo;<em>to find series of events whose frequency of occurrence
+converges towards a limit</em>&rdquo; (1938 [2006: 350]).</p>
+
+<p>
+Reichenbach applied his strategy to a general form of
+&ldquo;statistical induction&rdquo; in which we observe the relative
+frequency \(f_n\) of a particular event in <em>n</em> observations and
+then form expectations about the frequency that will arise when more
+observations are made. The &ldquo;inductive principle&rdquo; then
+states that if after a certain number of instances, an observed
+frequency of \(m/n\) is observed, for any prolongation of the series
+of observations, the frequency will continue to fall within a small
+interval of \(m/n\). Hume&rsquo;s examples are special cases of this
+principle, where the observed frequency is 1. For example, in
+Hume&rsquo;s bread case, suppose bread was observed to nourish
+<em>n</em> times out of <em>n</em> (i.e. an observed frequency of
+100%), then according to the principle of induction, we expect that as
+we observe more instances, the frequency of nourishing ones will
+continue to be within a very small interval of 100%. Following this
+inductive principle is also sometimes referred to as following the
+&ldquo;straight rule&rdquo;. The problem then is to justify the use of
+this rule.</p>
+
+<p>
+Reichenbach argued that even if Hume is right to think that we cannot
+be justified in thinking for any particular application of the rule
+that the conclusion is likely to be true, for the purposes of
+practical action we do not need to establish this. We can instead
+regard the inductive rule as resulting in a &ldquo;posit&rdquo;, or
+statement that we deal with as if it is true. We posit a certain
+frequency <em>f</em> on the basis of our evidence, and this is like
+making a wager or bet that the frequency is in fact <em>f</em>. One
+strategy for positing frequencies is to follow the rule of
+induction.</p>
+
+<p>
+Reichenbach proposes that we can show that the rule of induction meets
+his weaker justification condition. This does not require showing that
+following the inductive principle will always work. It is possible
+that the world is so disorderly that we cannot construct series with
+any limits. In that case, neither the inductive principle, nor any
+other method will succeed. But, he argues, if there is a limit, by
+following the inductive principle we will eventually find it. There is
+some element of a series of observations, beyond which the principle
+of induction will lead to the true value of the limit. Although the
+inductive rule may give quite wrong results early in the sequence, as
+it follows chance fluctuations in the sample frequency, it is
+guaranteed to eventually approximate the limiting frequency, if such a
+limit exists. Therefore, the rule of induction is justified as an
+instrument of positing because it is a method of which we know that if
+it is possible to achieve the aim of inductive inference we shall do
+so by means of this method (Reichenbach 1949: 475).</p>
+
+<p>
+One might question whether Reichenbach has achieved his goal of
+showing that following the inductive rule is a necessary condition of
+success. In order to show that, one would also need to establish that
+no other methods can also achieve the aim. But, as Reichenbach himself
+recognises, many other rules of inference as well as the straight rule
+may also converge on the limit (Salmon 1966: 53). In fact, any method
+which converges asymptotically to the straight rule also does so. An
+easily specified class of such rules are those which add to the
+inductive rule a function \(c_n\) in which the \(c_n\) converge to
+zero with increasing <em>n</em>.</p>
+
+<p>
+Reichenbach makes two suggestions aimed at avoiding this problem. On
+the one hand, he claims, since we have no real way to pick between
+methods, we might as well just use the inductive rule since it is
+&ldquo;easier to handle, owing to its descriptive simplicity&rdquo;.
+He also claims that the method which embodies the &ldquo;smallest
+risk&rdquo; is following the inductive rule (Reichenbach 1938 [2006:
+355&ndash;356]).</p>
+
+<p>
+There is also the concern that there could be a completely different
+kind of rule which converges on the limit. We can consider, for
+example, the possibility of a soothsayer or psychic who is able to
+predict future events reliably. Here Reichenbach argues that induction
+is still necessary in such a case, because it has to be used to check
+whether the other method works. It is only by using induction,
+Reichenbach says, that we could recognise the reliability of the
+alternative method, by examining its track record.</p>
+
+<p>
+In assessing this argument, it is helpful to distinguish between
+levels at which the principle of induction can be applied. Following
+Skyrms (2000), we may distinguish between level 1, where candidate
+methods are applied to ordinary events or individuals, and level 2,
+where they are applied not to individuals or events, but to the
+arguments on level 1. Let us refer to &ldquo;object-induction&rdquo;
+when the inductive principle is applied at level 1, and
+&ldquo;meta-induction&rdquo; when it is applied at level 2.
+Reichenbach&rsquo;s response does not rule out the possibility that
+another method might do better than object-induction at level 1. It
+only shows that the success of that other method may be recognised by
+a meta-induction at level 2 (Skyrms 2000). Nonetheless,
+Reichenbach&rsquo;s thought was later picked up and developed into the
+suggestion that a meta-inductivist who applies induction not only at
+the object level to observations, but also to the success of
+others&rsquo; methods, might by those means be able to do as well
+predictively as the alternative method (Schurz 2008; see
+ <a href="#MetaIndu">section 5.5</a>
+ for more discussion of meta-induction).</p>
+
+<p>
+Reichenbach&rsquo;s justification is generally taken to be a pragmatic
+one, since though it does not supply knowledge of a future event, it
+supplies a sufficient reason for action (Reichenbach 1949: 481). One
+might question whether a pragmatic argument can really deliver an
+all-purpose, general justification for following the inductive rule.
+Surely a pragmatic solution should be sensitive to differences in
+pay-offs that depend on the circumstances. For example, Reichenbach
+offers the following analogue to his pragmatic justification:</p>
+
+<blockquote>
+
+<p>
+We may compare our situation to that of a man who wants to fish in an
+unexplored part of the sea. There is no one to tell him whether or not
+there are fish in this place. Shall he cast his net? Well, if he wants
+to fish in that place, I should advise him to cast the net, to take
+the chance at least. It is preferable to try even in uncertainty than
+not to try and be certain of getting nothing. (Reichenbach 1938 [2006:
+362&ndash;363])</p>
+</blockquote>
+
+<p>
+As Lange points out, the argument here &ldquo;presumes that there is
+no cost to trying&rdquo;. In such a situation, &ldquo;the fisherman
+has everything to gain and nothing to lose by casting his net&rdquo;
+(Lange 2011: 77). But if there is some significant cost to making the
+attempt, it may not be so clear that the most rational course of
+action is to cast the net. Similarly, whether or not it would make
+sense to adopt the policy of making no predictions, rather than the
+policy of following the inductive rule, may depend on what the
+practical penalties are for being wrong. A pragmatic solution may not
+be capable of offering rationale for following the inductive rule
+which is applicable in all circumstances.</p>
+
+<p>
+Another question is whether Reichenbach has specified the aim of
+induction too narrowly. Finding series of events whose frequency of
+occurrence converges to a limit ties the vindication to the long-run,
+while allowing essentially no constraint on what can be posited in the
+short-run. Yet it is in the short run that inductive practice actually
+occurs and where it really needs justification (BonJour 1998: 194;
+Salmon 1966: 53).</p>
+
+<h3 id="FormLearTheo">5.4 Formal Learning Theory</h3>
+
+<p>
+Formal learning theory can be regarded as a kind of extension of the
+Reichenbachian programme. It does not offer justifications for
+inductive inferences in the sense of giving reasons why they should be
+taken as likely to provide a true conclusion. Rather it offers a
+&ldquo;means-ends&rdquo; epistemology -- it provides reasons for
+following particular methods based on their optimality in achieving
+certain desirable epistemic ends, even if there is no guarantee that
+at any given stage of inquiry the results they produce are at all
+close to the truth (Schulte 1999).</p>
+
+<p>
+Formal learning theory is particularly concerned with showing that
+methods are &ldquo;logically reliable&rdquo; in the sense that they
+arrive at the truth given any sequence of data consistent with our
+background knowledge (Kelly 1996). However, it goes further than this.
+As we have just seen, one of the problems for Reichenbach was that
+there are too many rules which converge in the limit to the true
+frequency. Which one should we then choose in the short-run? Formal
+learning theory broadens Reichenbach&rsquo;s general strategy by
+considering what happens if we have other epistemic goals besides
+long-run convergence to the truth. In particular, formal learning
+theorists have considered the goal of getting to the truth as
+efficiently, or quickly, as possible, as well as the goal of
+minimising the number of mind-changes, or retractions along the way.
+It has then been argued that the usual inductive method, which is
+characterised by a preference for simpler hypotheses (Occam&rsquo;s
+razor), can be justified since it is the unique method which meets the
+standards for getting to the truth in the long run as efficiently as
+possible, with a minimum number of retractions (Kelly 2007).</p>
+
+<p>
+Steel (2010) has proposed that the Principle of Induction (understood
+as a rule which makes inductive generalisations along the lines of the
+Straight Rule) can be given a means-ends justification by showing that
+following it is both necessary and sufficient for logical reliability.
+The proof is an a priori mathematical one, thus it allegedly avoids
+the circularity of Hume&rsquo;s second horn. However, Steel also does
+not see the approach as an attempt to grasp Hume&rsquo;s first horn,
+since the proof is only relative to a certain choice of epistemic
+ends.</p>
+
+<p>
+As with other results in formal learning theory, this solution is also
+only valid relative to a given hypothesis space and conception of
+possible sequences of data. For this reason, some have seen it as not
+addressing Hume&rsquo;s problem of giving grounds for a particular
+inductive inference (Howson 2011). An alternative attitude is that it
+does solve a significant part of Hume&rsquo;s problem (Steel 2010).
+There is a similar dispute over formal learning theory&rsquo;s
+treatment of Goodman&rsquo;s riddle (Chart 2000, Schulte 2017).</p>
+
+<h3 id="MetaIndu">5.5 Meta-induction</h3>
+
+<p>
+Another approach to pursuing a broadly Reichenbachian programme is
+Gerhard Schurz&rsquo;s strategy based on meta-induction (Schurz 2008,
+2017, 2019). Schurz draws a distinction between applying inductive
+methods at the level of events&mdash;so-called
+&ldquo;object-level&rdquo; induction (OI), and applying inductive
+methods at the level of competing prediction methods&mdash;so-called
+&ldquo;meta-induction&rdquo; (MI). Whereas object-level inductive
+methods make predictions based on the events which have been observed
+to occur, meta-inductive methods make predictions based on aggregating
+the predictions of different available prediction methods according to
+their success rates. Here, the success rate of a method is defined
+according to some precise way of scoring success in making
+predictions.</p>
+
+<p>
+The starting point of the meta-inductive approach is that the aim of
+inductive inference is not just, as Reichenbach had it, finding
+long-run limiting frequencies, but also predicting successfully in
+both the long and short run. Even if Hume has precluded showing that
+the inductive method is reliable in achieving successful prediction,
+perhaps it can still be shown that it is &ldquo;predictively
+optimal&rdquo;. A method is &ldquo;predictively optimal&rdquo; if it
+succeeds best in making successful predictions out of all competing
+methods, no matter what data is received. Schurz brings to bear
+results from the regret-based learning framework in machine learning
+that show that there is a meta-inductive strategy that is predictively
+optimal among all predictive methods that are accessible to an
+epistemic agent (Cesa-Bianchi and Lugosi 2006, Schurz 2008, 2017,
+2019). This meta-inductive strategy, which Schurz calls
+&ldquo;wMI&rdquo;, predicts a weighted average of the predictions of
+the accessible methods, where the weights are
+&ldquo;attractivities&rdquo;, which measure the difference between the
+method&rsquo;s own success rate and the success rate of wMI.</p>
+
+<p>
+The main result is that the wMI strategy is long-run optimal in the
+sense that it converges to the maximum success rate of the accessible
+prediction methods. Worst-case bounds for short-run performance can
+also be derived. The optimality result forms the basis for an <em>a
+priori</em> means-ends justification for the use of wMI. Namely, the
+thought is, it is reasonable to use wMI, since it achieves the best
+success rates possible in the long run out of the given methods.</p>
+
+<p>
+Schurz also claims that this <em>a priori</em> justification of wMI,
+together with the contingent fact that inductive methods have so far
+been much more successful than non-inductive methods, gives rise to an
+<em>a posteriori</em> non-circular justification of induction. Since
+wMI will achieve in the long run the maximal success rate of the
+available prediction methods, it is reasonable to use it. But as a
+matter of fact, object-inductive prediction methods have been more
+successful than non-inductive methods so far. Therefore Schurz says
+&ldquo;it is meta-inductively justified to favor object-inductivistic
+strategies in the future&rdquo; (Schurz 2019: 85). This justification,
+he claims, is not circular because meta-induction has an <em>a
+priori</em> independent justification. The idea is that since it is
+<em>a priori</em> justified to use wMI, it is also <em>a priori</em>
+justified to use the maximally successful method at the object level.
+Since it turns out that that the maximally successful method is
+object-induction, then we have a non-circular <em>a posteriori</em>
+argument that it is reasonable to use object-induction.</p>
+
+<p>
+Schurz&rsquo;s original theorems on the optimality of wMI apply to the
+case where there are finitely many predictive methods. One point of
+discussion is whether this amounts to an important limitation on its
+claims to provide a full solution of the problem of induction. The
+question then is whether it is necessary that the optimality results
+be extended to an infinite, or perhaps an expanding pool of strategies
+(Eckhardt 2010, Sterkenburg 2019, Schurz 2021a).</p>
+
+<p>
+Another important issue concerns what it means for object-induction to
+be &ldquo;meta-inductively justified&rdquo;. The meta-inductive
+strategy wMI and object-induction are clearly different strategies.
+They could result in different predictions tomorrow, if OI would stop
+working and another method would start to do better. In that case, wMI
+would begin to favour the other method, and wMI would start to come
+apart from OI. The optimality results provide a reason to follow wMI.
+How exactly does object-induction inherit that justification? At most,
+it seems that we get a justification for following OI on the next
+time-step, on the grounds that OI&rsquo;s prediction approximately
+coincides with that of wMI (Sterkenburg 2020, Sterkenburg
+(forthcoming)). However, this requires a stronger empirical postulate
+than simply the observation that OI has been more successful than
+non-inductive methods. It also requires something like that &ldquo;as
+a matter of empirical fact, the strategy OI has been so much more
+successful than its competitors, that the meta-inductivist attributes
+it such a large share of the total weight that its prediction
+(approximately) coincides with OI&rsquo;s prediction&rdquo;
+(Sterkenburg 2020: 538). Furthermore, even if we allow that the
+empirical evidence does back up such a strong claim, the issue remains
+that the meta-inductive justification is in support of following the
+strategy of meta-induction, not in support of the <em>strategy</em> of
+following OI (Sterkenburg (2020), sec. 3.3.2).</p>
+
+<h2 id="LiviInduSkep">6. Living with Inductive Skepticism</h2>
+
+<p>
+So far we have considered the various ways in which we might attempt
+to solve the problem of induction by resisting one or other premise of
+Hume&rsquo;s argument. Some philosophers have however seen his
+argument as unassailable, and have thus accepted that it does lead to
+inductive skepticism, the conclusion that inductive inferences cannot
+be justified. The challenge then is to find a way of living with such
+a radical-seeming conclusion. We appear to rely on inductive inference
+ubiquitously in daily life, and it is also generally thought that it
+is at the very foundation of the scientific method. Can we go on with
+all this, whilst still seriously thinking none of it is justified by
+any rational argument?</p>
+
+<p>
+One option here is to argue, as does Nicholas Maxwell, that the
+problem of induction is posed in an overly restrictive context.
+Maxwell argues that the problem does not arise if we adopt a different
+conception of science than the &lsquo;standard empiricist&rsquo; one,
+which he denotes &lsquo;aim-oriented empiricism&rsquo; (Maxwell
+2017).</p>
+
+<p>
+Another option here is to think that the significance of the problem
+of induction is somehow restricted to a skeptical context. Hume
+himself seems to have thought along these lines. For instance he
+says:</p>
+
+<blockquote>
+
+<p>
+Nature will always maintain her rights, and prevail in the end over
+any abstract reasoning whatsoever. Though we should conclude, for
+instance, as in the foregoing section, that, in all reasonings from
+experience, there is a step taken by the mind, which is not supported
+by any argument or process of the understanding; there is no danger,
+that these reasonings, on which almost all knowledge depends, will
+ever be affected by such a discovery. (E. 5.1.2)</p>
+</blockquote>
+
+<p>
+Hume&rsquo;s purpose is clearly not to argue that we should not make
+inductive inferences in everyday life, and indeed his whole method and
+system of describing the mind in naturalistic terms depends on
+inductive inferences through and through. The problem of induction
+then must be seen as a problem that arises only at the level of
+philosophical reflection.</p>
+
+<p>
+Another way to mitigate the force of inductive skepticism is to
+restrict its scope. Karl Popper, for instance, regarded the problem of
+induction as insurmountable, but he argued that science is not in fact
+based on inductive inferences at all (Popper 1935 [1959]). Rather he
+presented a deductivist view of science, according to which it
+proceeds by making bold conjectures, and then attempting to falsify
+those conjectures. In the simplest version of this account, when a
+hypothesis makes a prediction which is found to be false in an
+experiment, the hypothesis is rejected as falsified. The logic of this
+procedure is fully deductive. The hypothesis entails the prediction,
+and the falsity of the prediction refutes the hypothesis by modus
+tollens. Thus, Popper claimed that science was not based on the
+extrapolative inferences considered by Hume. The consequence then is
+that it is not so important, at least for science, if those inferences
+would lack a rational foundation.</p>
+
+<p>
+Popper&rsquo;s account appears to be incomplete in an important way.
+There are always many hypotheses which have not yet been refuted by
+the evidence, and these may contradict one another. According to the
+strictly deductive framework, since none are yet falsified, they are
+all on an equal footing. Yet, scientists will typically want to say
+that one is better supported by the evidence than the others. We seem
+to need more than just deductive reasoning to support practical
+decision-making (Salmon 1981). Popper did indeed appeal to a notion of
+one hypothesis being better or worse &ldquo;corroborated&rdquo; by the
+evidence. But arguably, this took him away from a strictly deductive
+view of science. It appears doubtful then that pure deductivism can
+give an adequate account of scientific method.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging">
+
+<li>Achinstein, Peter, 2010, &ldquo;The War on Induction: Whewell
+Takes on Newton and Mill (Norton Takes on Everyone)&rdquo;,
+<em>Philosophy of Science</em>, 77(5): 728&ndash;739.</li>
+
+<li>Armstrong, David M., 1983, <em>What is a Law of Nature?</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>Baier, Annette C., 2009, <em>A Progress of Sentiments</em>,
+Harvard: Harvard University Press.</li>
+
+<li>Bayes, Thomas, 1764, &ldquo;An Essay Towards Solving a Problem in
+the Doctrine of Chances&rdquo;, <em>Philosophical Transactions of the
+Royal Society of London</em>, 53: 370&ndash;418.</li>
+
+<li>Beauchamp, Tom L, and Alexander Rosenberg, 1981, <em>Hume and the
+Problem of Causation</em>, Oxford: Oxford University Press.</li>
+
+<li>Bertrand, Joseph Louis Francois, 1888, <em>Calcul des
+probabilites</em>, Paris: Gauthier-Villars.</li>
+
+<li>BonJour, Laurence, 1998, <em>In Defense of Pure Reason: A
+Rationalist Account of A Priori Justification</em>, Cambridge:
+Cambridge University Press.</li>
+
+<li>Borel, Emile, 1909, <em>Elements de la theorie des
+probabilites</em>, Paris: Herman et Fils.</li>
+
+<li>Brown, M.B., 1987, &ldquo;Review of <em>The Rationality of
+Induction</em>, D.C. Stove [1986]&rdquo;, <em>History and Philosophy
+of Logic</em>, 8(1): 116&ndash;120.</li>
+
+<li>Burks, Arthur W., 1953, &ldquo;The Presupposition Theory of
+Induction&rdquo;, <em>Philosophy of Science</em>, 20(3):
+177&ndash;197.</li>
+
+<li>&ndash;&ndash;&ndash;, 1955, &ldquo;On the Presuppositions of
+Induction&rdquo;, <em>Review of Metaphysics</em>, 8(4):
+574&ndash;611.</li>
+
+<li>Campbell, Scott, 2001, &ldquo;Fixing a Hole in the Ground of
+Induction&rdquo;, <em>Australasian Journal of Philosophy</em>, 79(4):
+553&ndash;563.</li>
+
+<li>Campbell, Scott, and James Franklin, 2004, &ldquo;Randomness and
+the Justification of Induction&rdquo;, <em>Synthese</em>, 138(1):
+79&ndash;99.</li>
+
+<li>Carnap, Rudolph, 1950, <em>Logical Foundations of
+Probability</em>, Chicago: University of Chicago Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1952, <em>The Continuum of Inductive
+Methods</em>, Chicago: University of Chicago Press.</li>
+
+<li>Carroll, John W., 2016, &ldquo;Laws of Nature&rdquo;, <em>Stanford
+Encyclopedia of Philosophy</em> (Fall 2016 Edition), Edward N. Zalta
+(ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/" target="other">https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/</a>&gt;.</li>
+ 
+<li>Carroll, Lewis, 1895, &ldquo;What the Tortoise said to
+Achilles&rdquo;, <em>Mind</em>, 4(14): 278&ndash;280.</li>
+
+<li>Cesa-Bianchi, Nicolo, and Gabor Lugosi, 2006, <em>Prediction,
+Learning, and Games</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Chart, David, 2000, &ldquo;Schulte and Goodman&rsquo;s
+Riddle&rdquo;, <em>British Journal for the Philosophy of Science,</em>
+51(1): 147&ndash;149.</li>
+
+<li>Cleve, James van, 1984, &ldquo;Reliability, Justification, and the
+Problem of Induction&rdquo;, <em>Midwest Studies In Philosophy</em>:
+555&ndash;567.</li>
+
+<li>Cox, R. T., 1946, &ldquo;Probability, frequency and reasonable
+expectation&rdquo;, <em>American Journal of Physics</em>, 14:
+1&ndash;10.</li>
+
+<li>&ndash;&ndash;&ndash;, 1961, <em>The Algebra of Probable Inference</em>,
+Baltimore, MD: Johns Hopkins University Press.</li>
+
+<li>de Finetti, Bruno, 1964, &ldquo;Foresight: its logical laws, its
+subjective sources&rdquo;, in H.E. Kyburg (ed.), <em>Studies in
+subjective probability</em>, New York: Wiley, pp. 93&ndash;158.</li>
+
+<li>de Pierris, Graciela and Michael Friedman, 2013, &ldquo;Kant and
+Hume on Causality&rdquo;, <em>The Stanford Encyclopedia of
+Philosophy</em> (Winter 2013 Edition), Edward N. Zalta (ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/win2013/entries/kant-hume-causality/" target="other">https://plato.stanford.edu/archives/win2013/entries/kant-hume-causality/</a>&gt;.</li>
+ 
+<li>Dretske, Fred I., 1977, &ldquo;Laws of Nature&rdquo;,
+<em>Philosophy of Science</em>, 44(2): 248&ndash;68.</li>
+
+<li>Eckhardt, Arnold, 2010, &ldquo;Can the
+Best-Alternative-Justification Solve Hume&rsquo;s Problem? (On the
+limits of a promising approach)&rdquo;, <em>Philosophy of
+Science</em>, 77(4): 584&ndash;593.</li>
+
+<li>Feigl, Herbert, 1950, &ldquo;De Principiis non disputandum&rdquo;,
+in Max Black (ed.), <em>Philosophical Analysis</em>, Ithaca, NY:
+Cornell University Press, pp. 119&ndash;56.</li>
+
+<li>Foster, John, 2004, <em>The Divine Lawmaker: Lectures on
+Induction, Laws of Nature and the Existence of God</em>, Oxford:
+Clarendon Press. </li>
+
+<li>Garrett, Don, 2002, <em>Cognition and Commitment in Hume&rsquo;s
+Philosophy</em>, Oxford: Oxford University Press.</li>
+
+<li>Ghosal, S., J. K. Ghosh, and A.W. van der Vaart, 2000,
+&ldquo;Convergence rates of posterior distributions&rdquo;, <em>The
+Annals of Statistics</em>, 28: 500&ndash;531.</li>
+
+<li>Ghosal, S., J. Lember, and A. W. van der Vaart, 2008,
+&ldquo;Non-parametric Bayesian model selection and averaging&rdquo;,
+<em>Electronic Journal of Statistics,</em> 2: 63&ndash;89.</li>
+
+<li>Giaquinto, Marcus, 1987, &ldquo;Review of <em>The Rationality of
+Induction</em>, D.C. Stove [1986]&rdquo;, <em>Philosophy of
+Science</em>, 54(4): 612&ndash;615.</li>
+
+<li>Goodman, Nelson, 1955, <em>Fact, Fiction and Forecast</em>,
+Cambridge, MA: Harvard University Press.</li>
+
+<li>Hacking, Ian, 1975, <em>The Emergence of Probability: a
+Philosophical Study of Early Ideas About Probability, Induction and
+Statistical Inference</em>, Cambridge: Cambridge University
+Press.</li>
+
+<li>H&aacute;jek, Alan, 2011, &ldquo;Interpretations of
+Probability&rdquo;, <em>The Stanford Encyclopedia of Philosophy</em>
+(Winter 2012 Edition), Edward N. Zalta (ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/win2012/entries/probability-interpret/" target="other">https://plato.stanford.edu/archives/win2012/entries/probability-interpret/</a>&gt;.</li>
+ 
+<li>Harman, Gilbert, 1968, &ldquo;Enumerative Induction as Inference
+to the Best Explanation&rdquo;, <em>Journal of Philosophy</em>,
+65(18): 529&ndash;533.</li>
+
+<li>Henderson, Leah, 2014, &ldquo;Bayesianism and Inference to the
+Best Explanation&rdquo;, <em>The British Journal for the Philosophy of
+Science</em>, 65(4): 687&ndash;715.</li>
+
+<li>Howson, Colin, 2000, <em>Hume&rsquo;s Problem: Induction and the
+Justification of Belief</em>, Oxford: Oxford University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;No Answer to Hume&rdquo;,
+<em>International Studies in the Philosophy of Science</em>, 25(3):
+279&ndash;284.</li>
+
+<li>Huemer, Michael, 2009, &ldquo;Explanationist Aid for the Theory of
+Inductive Logic&rdquo;, <em>The British Journal for the Philosophy of
+Science</em>, 60(2): 345&ndash;375.</li>
+
+<li>[T] Hume, David, 1739, <em>A Treatise of Human Nature</em>,
+Oxford: Oxford University Press. (Cited by
+book.part.section.paragraph.)</li>
+
+<li>[E] &ndash;&ndash;&ndash;, 1748, <em>An Enquiry Concerning Human
+Understanding</em>, Oxford: Oxford University Press. (Cited by
+section.part.paragraph.)</li>
+
+<li>Jackson, Alexander, 2019, &ldquo;How to solve Hume&rsquo;s problem
+of induction&rdquo;, <em>Episteme</em> 16: 157&ndash;174.</li>
+
+<li>Jeffreys, Harold, 1939, <em>Theory of Probability</em>, Oxford:
+Oxford University Press.</li>
+
+<li>Johnson, William Ernest, 1921, <em>Logic</em>, Cambridge:
+Cambridge University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1932, &ldquo;Probability: the Deductive and
+Inductive Problems&rdquo;, <em>Mind</em>, 49(164): 409&ndash;423.</li>
+
+<li>Kant, Immanuel, 1781, <em>Kritik der reinen Vernunft</em>.
+Translated as <em>Critique of Pure Reason</em>, Paul Guyer and Allen
+W. Wood, A., (eds.), Cambridge: Cambridge University Press, 1998.</li>
+
+<li>&ndash;&ndash;&ndash;, 1783, <em>Prolegomena zu einer jeden
+k&uuml;nftigen Metaphysik, die als Wissenschaft wird auftreten
+k&ouml;nnen</em>. Translated as <em>Prologomena to Any Future
+Metaphysics</em>, James W. Ellington (trans.), Indianapolis: Hackett
+publishing, 2002.</li>
+
+<li>Kelly, Kevin T., 1996, <em>The Logic of Reliable Inquiry</em>,
+Oxford: Oxford University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;A new solution to the puzzle
+of simplicity&rdquo;, <em>Philosophy of Science</em>, 74:
+561&ndash;573.</li>
+
+<li>Kelly, Thomas, 2010, &ldquo;Hume, Norton and induction without
+rules&rdquo;, <em>Philosophy of Science,</em> 77: 754&ndash;764.</li>
+
+<li>Keynes, John Maynard, 1921, <em>A Treatise on Probability</em>,
+London: Macmillan.</li>
+
+<li>Lange, Marc, 2011, &ldquo;Hume and the Problem of
+induction&rdquo;, in Dov Gabbay, Stephan Hartmann and John Woods
+(eds.), <em>Inductive Logic</em>, (<em>Handbook of the History of
+Logic</em>, Volume 10), Amsterdam: Elsevier, pp. 43&ndash;92.</li>
+
+<li>Laplace, Pierre-Simon, 1814, <em>Essai philosophique sur les
+probabilit&eacute;s</em>, Paris. Translated in 1902 from the sixth
+French edition as <em>A Philosophical Essay on Probabilities</em>, by
+Frederick Wilson Truscott and Frederick Lincoln Emory, New York: John
+Wiley and Sons. Retranslated in 1995 from the fifth French edition
+(1825) as <em>Philosophical Essay on Probabilities</em>, by Andrew I.
+Dale, 1995, New York: Springer-Verlag.</li>
+
+<li>Maher, Patrick, 1996, &ldquo;The Hole in the Ground of
+Induction&rdquo;, <em>Australasian Journal of Philosophy</em>, 74(3):
+423&ndash;432.</li>
+
+<li>Maxwell, Nicholas, 2017, <em>Understanding Scientific Progress:
+Aim-Oriented Empiricism</em>, St. Paul: Paragon House.</li>
+
+<li>Mitchell, Tom, 1997, <em>Machine Learning</em>: McGraw-Hill.</li>
+
+<li>Morris, William E., and Charlotte R. Brown, 2014 [2017],
+&ldquo;David Hume&rdquo;, <em>The Stanford Encyclopedia of
+Philosophy</em> (Spring 2017 Edition), Edward N. Zalta (ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/spr2017/entries/hume/" target="other">https://plato.stanford.edu/archives/spr2017/entries/hume/</a>&gt;.</li>
+ 
+<li>Norton, John D., 2003, &ldquo;A Material Theory of
+Induction&rdquo;, <em>Philosophy of Science</em>, 70(4):
+647&ndash;670.</li>
+
+<li>&ndash;&ndash;&ndash;, 2010, &ldquo;There are no universal rules
+for induction&rdquo;, <em>Philosophy of Science</em>, 77:
+765&ndash;777.</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, <em>The Material Theory of
+Induction</em>: BSPS Open/University of Calgary Press.</li>
+
+<li>Okasha, Samir, 2001, &ldquo;What did Hume Really Show about
+Induction?&rdquo;, <em>The Philosophical Quarterly</em>, 51(204):
+307&ndash;327.</li>
+
+<li>&ndash;&ndash;&ndash;, 2005a, &ldquo;Bayesianism and the
+Traditional Problem of Induction&rdquo;, <em>Croatian Journal of
+Philosophy</em>, 5(14): 181&ndash;194.</li>
+
+<li>&ndash;&ndash;&ndash;, 2005b, &ldquo;Does Hume&rsquo;s Argument
+against Induction Rest on a Quantifier-Shift Fallacy?&rdquo;,
+<em>Proceedings of the Aristotelian Society</em>, 105:
+237&ndash;255.</li>
+
+<li>Owen, David, 1999, <em>Hume&rsquo;s Reason</em>, Oxford: Oxford
+University Press.</li>
+
+<li>Papineau, David, 1992, &ldquo;Reliabilism, Induction and
+Scepticism&rdquo;, <em>The Philosophical Quarterly</em>, 42(166):
+1&ndash;20.</li>
+
+<li>Popper, Karl, 1935 [1959], <em>Logik der Forschung</em>, Wien: J.
+Springer. Translated by Popper as <em>The Logic of Scientific
+Discovery</em>, London: Hutchinson, 1959.</li>
+
+<li>Ramsey, Frank P., 1926, &ldquo;Truth and Probability&rdquo;, in
+R.B. Braithwaite (ed.), <em>The Foundations of Mathematics and Other
+Logical Essays</em>, London: Routledge and Kegan-Paul Ltd., pp.
+156&ndash;98.</li>
+
+<li>Reichenbach, Hans, 1949, <em>The Theory of Probability</em>,
+Berkeley: University of California Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1938 [2006], <em>Experience and Prediction:
+An Analysis of the Foundations and the Structure of Knowledge</em>,
+Chicago: University of Chicago Press. Page numbers from the 2006
+edition, Indiana: University of Notre Dame Press.</li>
+
+<li>Romeijn, Jan-Willem, 2004, &ldquo;Hypotheses and Inductive
+Predictions&rdquo;, <em>Synthese</em>, 141(3): 333&ndash;364.</li>
+
+<li>Russell, Bertrand, 1946, <em>A History of Western Philosophy</em>,
+London: George Allen and Unwin Ltd.</li>
+
+<li>&ndash;&ndash;&ndash;, 1948, <em>Human Knowledge: Its Scope and
+Limits</em>, New York: Simon and Schuster.</li>
+
+<li>Salmon, Wesley C., 1963, &ldquo;On Vindicating Induction&rdquo;,
+<em>Philosophy of Science</em>, 30(3): 252&ndash;261.</li>
+
+<li>&ndash;&ndash;&ndash;, 1966, <em>The Foundations of Scientific
+Inference</em>, Pittsburgh: University of Pittsburgh Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1981, &ldquo;Rational Prediction&rdquo;,
+<em>British Journal for the Philosophy of Science</em>, 32(2):
+115&ndash;125.</li>
+
+<li>Salmon, Wesley C., 1953, &ldquo;The Uniformity of Nature&rdquo;,
+<em>Philosophy and Phenomenological Research</em>, 14(1):
+39&ndash;48.</li>
+
+<li>Savage, Leonard J, 1954, <em>The Foundations of Statistics</em>,
+New York: Dover Publications.</li>
+
+<li>Schulte, Oliver, 1999, &ldquo;Means-Ends Epistemology&rdquo;,
+<em>British Journal for the Philosophy of Science</em>, 50(1):
+1&ndash;31.</li>
+
+<li>&ndash;&ndash;&ndash;, 2000, &ldquo;What to believe and what to
+take seriously: a reply to David Chart concerning the riddle of
+induction&rdquo;, <em>British Journal for the Philosophy of
+Science,</em> 51: 151&ndash;153.</li>
+
+<li>&ndash;&ndash;&ndash;, 2017 [2018], &ldquo;Formal Learning
+Theory&rdquo;, <em>The Stanford Encyclopedia of Philosophy</em> (Spring 2018
+Edition), Edward N. Zalta (ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/spr2018/entries/learning-formal/" target="other">https://plato.stanford.edu/archives/spr2018/entries/learning-formal/</a>&gt;.</li>
+ 
+<li>Schurz, Gerhard, 2008, &ldquo;The Meta-inductivist&rsquo;s Winning
+Strategy in the Prediction Game: A New Approach to Hume&rsquo;s
+Problem&rdquo;, <em>Philosophy of Science</em>, 75(3):
+278&ndash;305.</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, &ldquo;Optimality Justifications: New
+Foundations for Foundation-Oriented Epistemology&rdquo;,
+<em>Synthese</em>, 73:1&ndash;23.</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, <em>Hume&rsquo;s Problem Solved: the
+Optimality of Meta-induction</em>, Cambridge, MA: MIT Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2021a, &ldquo;Meta-induction over
+unboundedly many prediction methods: a reply to Arnold and
+Sterkenburg&rdquo;, <em>Philosophy of Science</em>, 88: 320&ndash;340.</li>
+
+<li>&ndash;&ndash;&ndash;, 2021b, &ldquo;The No Free Lunch Theorem:
+bad news for (White&rsquo;s account of) the problem of
+induction&rdquo;, <em>Episteme</em>, 18: 31&ndash;45.</li>
+
+<li>Schurz, Gerhard, and Paul Thorn, 2020, &ldquo;The material theory
+of object-induction and the universal optimality of meta-induction:
+two complementary accounts&rdquo;, <em>Studies in History and
+Philosophy of Science A</em>, 82: 99&ndash;93.</li>
+
+<li>Skyrms, Brian 2000, <em>Choice and Chance: an introduction to
+inductive logic</em>, Wadsworth.</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, <em>From Zeno to Arbitrage: Essays on
+Quantity, Coherence and Induction</em>, Oxford: Oxford University
+Press.</li>
+
+<li>Sober, Elliott, 1988, <em>Reconstructing the Past: Parsimony,
+Evolution and Inference</em>, Cambridge MA: MIT Press.</li>
+
+<li>Steel, Daniel, 2010, &ldquo;What If the Principle of Induction Is
+Normative? Formal Learning Theory and Hume&rsquo;s Problem&rdquo;,
+<em>International Studies in the Philosophy of Science</em>, 24(2):
+171&ndash;185.</li>
+
+<li>Sterkenburg, Tom, 2019, &ldquo;The meta-inductive justification of
+induction: the pool of strategies&rdquo;, <em>Philosophy of
+Science</em>, 86: 981&ndash;992.</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;The meta-inductive
+justification of induction&rdquo;, <em>Episteme</em>, 17:
+519&ndash;541.</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming, &ldquo;Explaining the success
+of induction&rdquo;, <em>British Journal for the Philosophy of
+Science</em>, https://doi.org/10.1086/717068.</li>
+
+<li>Sterkenburg, Tom and Peter Gr&uuml;nwald, 2021, &ldquo;The
+no-free-lunch theorems of supervised learning&rdquo;,
+<em>Synthese</em>, 199: 9979&ndash;10015.</li>
+
+<li>Stove, David C., 1986, <em>The Rationality of Induction</em>,
+Oxford: Clarendon Press.</li>
+
+<li>Strawson, Peter Frederick, 1952, <em>Introduction to Logical
+Theory</em>, London: Methuen.</li>
+
+<li>Tooley, Michael, 1977, &ldquo;The Nature of Laws&rdquo;,
+<em>Canadian Journal of Philosophy</em>, 7(4): 667&ndash;698.</li>
+
+<li>White, Roger, 2015, &ldquo;The problem of the problem of
+induction&rdquo;, <em>Episteme</em>, 12: 275&ndash;290.</li>
+
+<li>Will, Frederick L., 1948, &ldquo;Donald Williams&rsquo; Theory of
+Induction&rdquo;, <em>Philosophical Review</em>, 57(3):
+231&ndash;247.</li>
+
+<li>Williams, Donald C., 1947, <em>The Ground of Induction</em>,
+Harvard: Harvard University Press.</li>
+
+<li>Wittgenstein, Ludwig, 1953, <em>Philosophical Investigations</em>,
+New Jersey: Prentice Hall.</li>
+
+<li>Wolpert, D. H., 1997, &ldquo;No free lunch theorems for
+optimization&rdquo;, <em>IEEE Transactions on Evolutionary
+Computation</em>, 1: 67&ndash;82.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;On the connecton between
+in-sample testing and generalization error&rdquo;, <em>Complex
+Systems</em>, 6: 47&ndash;94.</li>
+
+<li>&ndash;&ndash;&ndash;, 1996, &ldquo;The lack of a priori
+distinctions between learning algorithms&rdquo;, <em>Neural
+Computation</em> 8: 1341&ndash;1390.</li>
+
+<li>Worrall, John, 2010, &ldquo;For Universal Rules, Against
+Induction&rdquo;, <em>Philosophy of Science</em>, 77(5):
+740&ndash;53.</li>
+
+<li>Wright, Crispin, 2004, &ldquo;Wittgensteinian Certainties&rdquo;,
+in Denis McManus (ed.), <em>Wittgenstein and Scepticism</em>, London:
+Routledge, pp. 22&ndash;55.</li>
+
+<li>Zabell, Sandy L., 1988, &ldquo;Symmetry and Its
+Discontents&rdquo;, in Brian Skyrms (ed.), <em>Causation, Chance and
+Credence</em>, Dordrecht: Springer Netherlands, pp.
+155&ndash;190.</li>
+
+<li>&ndash;&ndash;&ndash;, 1989, &ldquo;The Rule of Succession&rdquo;,
+<em>Erkenntnis</em>, 31(2&ndash;3): 283&ndash;321.</li>
+</ul>
+</div> 
+
+<div id="academic-tools">
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=induction-problem" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/induction-problem/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=induction-problem&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/induction-problem/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<ul>
+
+<li>Vickers, John, &ldquo;The Problem of Induction,&rdquo;
+<em>Stanford Encyclopedia of Philosophy</em> (Spring 2018 Edition),
+Edward N. Zalta (ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/spr2018/entries/induction-problem/" target="other">https://plato.stanford.edu/archives/spr2018/entries/induction-problem/</a>&gt;.
+ [This was the previous entry on the problem of induction in the
+<em>Stanford Encyclopedia of Philosophy</em> &mdash; see the
+ <a class="plain" href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=induction-problem" target="other">version history</a>.]</li>
+ 
+ <li><a href="http://www.ditext.com/clay/armendt2.html" target="other">Teaching Theory of Knowledge: Probability and Induction</a>,
+ organization of topics and bibliography by Brad Armendt (Arizona
+State University) and Martin Curd (Purdue).</li>
+
+ <li><a href="http://www.forecastingprinciples.com/" target="other">Forecasting Principles</a>,
+ A brief survey of prediction markets.</li>
+</ul>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../bayes-theorem/">Bayes&rsquo; Theorem</a> |
+ <a href="../formal-belief/">belief, formal representations of</a> |
+ <a href="../confirmation/">confirmation</a> |
+ <a href="../formal-epistemology/">epistemology, formal</a> |
+ <a href="../feigl/">Feigl, Herbert</a> |
+ <a href="../goodman/">Goodman, Nelson</a> |
+ <a href="../hume/">Hume, David</a> |
+ <a href="../kant-hume-causality/">Kant, Immanuel: and Hume on causality</a> |
+ <a href="../laws-of-nature/">laws of nature</a> |
+ <a href="../learning-formal/">learning theory, formal</a> |
+ <a href="../logic-inductive/">logic: inductive</a> |
+ <a href="../popper/">Popper, Karl</a> |
+ <a href="../probability-interpret/">probability, interpretations of</a> |
+ <a href="../reichenbach/">Reichenbach, Hans</a> |
+ <a href="../simplicity/">simplicity</a> |
+ <a href="../skepticism/">skepticism</a> |
+ <a href="../statistics/">statistics, philosophy of</a> |
+ <a href="../strawson/">Strawson, Peter Frederick</a>
+
+</p>
+</div>
+
+<div id="acknowledgments">
+
+<h3>Acknowledgments</h3>
+
+<p>
+Particular thanks are due to Don Garrett and Tom Sterkenburg for
+helpful feedback on a draft of this entry. Thanks also to David
+Atkinson, Simon Friederich, Jeanne Peijnenburg, Theo Kuipers and
+Jan-Willem Romeijn for comments.</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+</div> 
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+<a href="http://lhenderson.org/" target="other">Leah Henderson</a>
+&lt;<a href="m&#97;ilto:l&#37;2ehenderson&#37;40rug&#37;2enl"><em>l<abbr title=" dot ">&#46;</abbr>henderson<abbr title=" at ">&#64;</abbr>rug<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

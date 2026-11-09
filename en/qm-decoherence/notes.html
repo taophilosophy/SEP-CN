@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Role of Decoherence in Quantum Mechanics &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/qm-decoherence/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/qm-decoherence/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=qm-decoherence">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">The Role of Decoherence in Quantum Mechanics</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ The first version of this entry was based on a talk given at the
+Exploratory Workshop on <em>Quantum Mechanics on the Large Scale</em>,
+The Peter Wall Institute for Advanced Studies, The University of
+British Columbia, 17&ndash;27 April 2003, on whose website one finds
+links to electronic versions of that and several of the other talks
+(see the
+ <a href="index.html#Oth">Other Internet Resources</a>).</p>
+ </div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ Unfortunately, the distinction between &lsquo;true&rsquo; collapse
+(as it appears in collapse approaches to quantum mechanics) and
+&lsquo;apparent&rsquo; collapse (as it appears in no-collapse
+approaches to quantum mechanics) is often overlooked, muddling
+conceptual discussions. Further on this point, see e.g. Pearle (1997)
+and Zeh (2003a, pp. 28&ndash;29).</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ Since the probabilities that are said to interfere in fact refer to a
+separate experiment, Heisenberg in the uncertainty paper notes that he
+does not like the phrase &lsquo;interference of
+probabilities&rsquo;.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ Realistically, each single scattering will not produce enough
+entanglement, in the sense that the components going through the two
+slits will couple to non-orthogonal states of the environment, thus
+experiencing only a partial suppression of interference. However,
+repeated scatterings will lead to coupling with orthogonal states and
+suppress interference very effectively (see the discussion of
+decoherence rates in the next subsection).</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ These values are calculated based on the classic model by Joos and
+Zeh (1985). Length and time scales for more massive objects are
+further reduced. For a not too technical partial summary of Joos and
+Zeh&rsquo;s results, see also Bacciagaluppi (2000).</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ For further details of the decoherent histories approach, see also
+the overview articles by Halliwell (1995, 2010) and by Hartle
+(2010).</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ In the Heisenberg picture, it is operators that evolve unitarily
+rather than states, i.e. instead of considering time-independent
+operators \(A\) and time-dependent states \(\varrho(t)=U_{ts}
+\varrho(s) U^{*}_{ts}\) as in the Schr&ouml;dinger picture (where
+\(U_{ts}\) represents the unitary evolution operator from time \(s\)
+to time \(t\), and its adjoint \(U^{*}_{ts}\) the inverse evolution),
+one considers time-dependent operators \(\mathrm{A}(t)=U^{*}_{ts}
+\mathrm{A}(s) U_{ts}\) and time-independent states \(\varrho\). The
+two pictures are generally equivalent (even though the Heisenberg
+picture is more convenient in quantum field theory), but see the
+qualification in
+ <a href="index.html#Hei">Section 3.4.2</a>.</p>
+ </div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ This condition can be independently motivated. For instance, weak
+decoherence for subsystems does not imply weak decoherence for the
+total system, even if the total state is a product (simply because the
+product of the real parts of two complex numbers is not the real part
+of their product). For this and further arguments favouring the
+stronger notion, see Di&oacute;si (1994, in the
+ <a href="index.html#Oth">Other Internet Resources</a>).</p>
+ </div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ Similar results involving imperfectly correlated records can be
+derived in the case of mixed states (Halliwell 1999).</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ If so, the idea does not seem quite new. A related discussion of
+causality was given in detail by Grete Hermann (1935), probably the
+most important philosophical commentator of the emerging Copenhagen
+school, specifically in the context of (Weizs&auml;cker&rsquo;s
+analysis of) the Heisenberg microscope. Also Wheeler&rsquo;s (1978)
+famous &lsquo;delayed choice&rsquo; experiments are presented by him
+as affecting the past in this way.</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ For a review of more detailed arguments see e.g. Zurek (2003, pp.
+28&ndash;30). In particular they can be obtained from the Wigner
+function formalism, see e.g. Zurek (1991) and in more detail Zurek and
+Paz (1994, who then apply these results to derive chaotic trajectories
+in quantum mechanics); see also below,
+ <a href="index.html#WorAccDec">Section 4.1</a>
+ and Rosaler (2016).</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ For a very accessible discussion of \(\alpha\)-particle tracks
+roughly along these lines, see Barbour (1999, Chap. 20).</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ Von Neumann&rsquo;s theorem was later generalised by several authors,
+the most general version being that of Bassi and Ghirardi (2000): see
+the discussion in Section 3 of the entry on
+ <a href="../qm-collapse/">collapse theories</a>
+ (and references therein). Alternative impossibility results focus on
+the impossibility of obtaining the right transformation behaviour for
+the state of the measured system (Bacciagaluppi 2014a).</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ As a numerical example, take a macroscopic particle of radius 1cm
+(mass 10g) interacting with air under normal conditions. After an hour
+the overall spread of its state is of the order of 1m. (This estimate
+uses equations [3.107] and [3.73] in Joos and Zeh (1985).)</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ The modern version of Everett&rsquo;s servomechanisms are Jim
+Hartle&rsquo;s IGUSes (Hartle 2005).</p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ The positive re-evaluation of Everett&rsquo;s original 1957 PhD
+thesis (traditionally considered obscure) is the product of the
+historical scholarship that has been flourishing since the 50-year
+anniversary of Everett&rsquo;s thesis; see Everett (2012).</p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ E.g. Zurek&rsquo;s (1998) &lsquo;existential interpretation&rsquo;
+aims to bring together certain aspects of Bohr and of Everett.</p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ For further details of the state of the art on the Everett
+interpretation(s), see the collection by Saunders <em>et al.</em>
+(2010), which contains the papers from the two international
+conferences that celebrated the 50 years of Everett&rsquo;s original
+paper, and Wallace&rsquo;s (2012a) definitive monograph.</p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ Everett has traditionally also been thought to suffer from a problem
+about the meaning of probabilities. This is arguably unfair to
+Everett, who provides a very explicit discussion along the lines of a
+&lsquo;typicality&rsquo; approach, as well as a proof of the Born rule
+that is mathematically very close to the better-known proof by Deutsch
+and Wallace. For a discussion of Everett&rsquo;s approach, see the
+longer version (with references) of my review of Everett (2012) in the
+ <a href="index.html#Oth">Other Internet Resources</a>,
+ Bacciagaluppi (2013). For the definitive presentation of the
+Deutsch&ndash;Wallace approach, see Wallace (2012a, Chapter 5).</p>
+</div>
+
+<div id="note-20">
+
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ Such a solution to the preferred basis problem might be thought to be
+only partial, in the sense that there are many inequivalent ways of
+selecting sets of decoherent histories (see e.g. Dowker and Kent 1995,
+1996). On the other hand, this does not make &lsquo;our&rsquo; set of
+histories any less decoherent.</p>
+</div>
+
+<div id="note-21">
+
+<p>
+
+ <a href="index.html#ref-21">21.</a>
+ Cf. for instance how Everett phrases his solution to the
+ <a href="../qt-epr/">EPR paradox</a>
+ (Everett 2012, pp. 157&ndash;158).</p>
+</div>
+
+<div id="note-22">
+
+<p>
+
+ <a href="index.html#ref-22">22.</a>
+ Even in this case, however, decoherence is of crucial importance,
+since the dynamical evolution of the minds will have a physical
+correlate <em>only if</em> the corresponding physical components are
+decohered (Felline and Bacciagaluppi 2013). (Thanks to Martin Jones
+for discussion of this point.)</p>
+</div>
+
+<div id="note-23">
+
+<p>
+
+ <a href="index.html#ref-23">23.</a>
+ It is tempting to see the difference between (Saunders&ndash;Wallace)
+decoherence-based many-worlds and (Zeh) decoherence-based many-minds
+as merely conventional, since they arguably both share an ontology of
+global wave functions and local (perhaps emergent) minds, and only
+differ in the emphasis they place on different objectively present
+structures in the same decohering wave function. Note also that if one
+assumes that mentality can be associated only with certain decohering
+structures of great complexity, this might have the advantage of
+further reducing the remaining ambiguity about the preferred
+&lsquo;basis&rsquo; (see Matthew Donald&rsquo;s website on &lsquo;A
+Many-Minds Interpretation of Quantum Theory&rsquo; in the
+ <a href="index.html#Oth">Other Internet Resources</a>).
+ Finally, regarding the distinction between global and local aspects
+of decoherence, it should be noted that, since spacelike separated
+systems can be entangled, even though suppression of interference
+through interaction with the environment is a local mechanism it
+indirectly affects also distant systems. If Alice&rsquo;s system
+interacts with its local environment, that will guarantee that certain
+components of Bob&rsquo;s system will in practice never be able to
+interfere, even should Alice and Bob&rsquo;s systems be brought
+together. (In many-worlds language, we are licensed to talk about
+worlds splitting along spacelike hypersurfaces, even though splitting
+in the sense of active suppression of interference propagates along
+forward lightcones. Cf. Bacciagaluppi (2002) and Wallace (2012a).
+ Thanks to Wayne Myrvold for discussion of this point.)</p>
+</div>
+
+<div id="note-24">
+
+<p>
+
+ <a href="index.html#ref-24">24.</a>
+ By the same token one can dismiss proposed variants of de
+Broglie&ndash;Bohm theory that are not based on the position
+representation, e.g. Epstein&rsquo;s (1953) momentum-based theory,
+which would utterly fail to exhibit the correct &lsquo;collapse&rsquo;
+behaviour and classical regime, precisely because decoherence
+interactions are not momentum-based.</p>
+</div>
+
+<div id="note-25">
+
+<p>
+
+ <a href="index.html#ref-25">25.</a>
+ Appleby (2009) discusses Bohmian trajectories in a model of
+decoherence and obtains approximately classical trajectories, but
+under a special assumption. (I would suggest to reinterpret
+Appleby&rsquo;s assumption as an assumption about the effective
+wavefunction of the heat bath with which the system interacts. That
+is, one should try to justify it from a pilot-wave treatment of the
+bath.)</p>
+</div>
+
+<div id="note-26">
+
+<p>
+
+ <a href="index.html#ref-26">26.</a>
+ Sanz and Borondo (2009) simulate trajectories for the two-slit
+experiment. One model is based on the reduced density matrix of the
+system (and thus based on simple de-phasing), and still maintains the
+no-crossing feature that troubles Holland (1996). The other model,
+despite also being simplified, recovers the classical crossing of
+trajectories. Sanz and co-workers (personal communication, November
+2011) have also carried out simulations including explicit modelling
+of the environment, and in situations more complex than the two-slit
+experiment. These simulations seem to confirm that classical-like
+trajectories can indeed be recovered in pilot-wave theory using
+decoherence.</p>
+</div>
+
+<div id="note-27">
+
+<p>
+
+ <a href="index.html#ref-27">27.</a>
+ Allori investigates in the first place the
+&lsquo;short-wavelength&rsquo; limit of de Broglie&ndash;Bohm theory
+(suggested by the analogy with the geometric limit in wave optics).
+The role of decoherence in her analysis is crucial but limited to
+<em>maintaining</em> the classical behaviour obtained under the
+appropriate short-wavelength conditions, because the behaviour would
+otherwise break down after a certain time.</p>
+</div>
+
+<div id="note-28">
+
+<p>
+
+ <a href="index.html#ref-28">28.</a>
+ If this is not true in general, then provided the results of
+observations are recorded in the configuration-space variables,
+pilot-wave field theories could still recover at least the
+<em>appearance</em> of classical trajectories (as in the
+&lsquo;minimalist&rsquo; model by Struyve and Westman (2007)).
+Decoherence would arguably still play a role at this level in
+structuring these appearances (similarly to the role it plays e.g. in
+many-minds theories, cf.
+ <a href="index.html#EveInt">Section 3.1</a>).</p>
+ </div>
+
+<div id="note-29">
+
+<p>
+
+ <a href="index.html#ref-29">29.</a>
+ The collapse consists in multiplying the wave function \(\psi(r)\) by
+a Gaussian of fixed width \(a\), call it \(a_x (r)\), with a
+probability density for the centre \(x\) of the Gaussian given by
+\(\int |a_x (r)\psi(r)|^2 dr\). In other words, if we denote by
+\(A_x\) the operator corresponding to multiplication by the Gaussian
+\(a_x (r)\), the state \(\ket{\psi}\) goes over to one of the
+continuously many possible states \(A_x\ket{\psi}\) (up to
+renormalisation), with probability density
+\(\langle\psi|A_x^*A_x|\psi\rangle\). In technical language, this is a
+measurement associated with a POVM (positive-operator valued measure).
+In the original model, \(a=10^{-5}\)cm, and collapse occurs with a
+probability per second \(1/\tau\), with \(\tau =10^{16}\)s.</p>
+</div>
+
+<div id="note-30">
+
+<p>
+
+ <a href="index.html#ref-30">30.</a>
+ This modification was introduced because, due to the production of
+energy associated with the collapse, the original model would have had
+consequences for the predicted lifetime of the proton that were
+already ruled out by existing experiments (Pearle and Squires 1994).
+Later models also often use the formalism of <em>continuous
+spontaneous localisation</em> (CSL), phrased in terms of stochastic
+differential equations (Pearle 1989, also sketched in the entry on
+ <a href="../qm-collapse/">collapse theories</a>),
+ but for present purposes we shall stick to the more elementary GRW
+theory.</p>
+</div>
+
+<div id="note-31">
+
+<p>
+
+ <a href="index.html#ref-31">31.</a>
+ My thanks to Bill Unruh for raising this issue.</p>
+</div>
+
+<div id="note-32">
+
+<p>
+
+ <a href="index.html#ref-32">32.</a>
+ A concise review of the experimental status of spontaneous collapse
+theories is given by Carlesso and Bassi (2020).</p>
+</div>
+
+<div id="note-33">
+
+<p>
+
+ <a href="index.html#ref-33">33.</a>
+ Cf. the exchange between Heisenberg and Dirac at the 1927 Solvay
+conference, where Dirac expressed the view that experiments involve
+&lsquo;an irrevocable choice of nature&rsquo;, but Heisenberg pointed
+out that one can always perform subsequent interference experiments,
+so that &lsquo;the <em>observer himself</em> makes a choice&rsquo;
+(Bacciagaluppi and Valentini 2009, Section 6.3 and pp. 446&ndash;450).
+With that Heisenberg perhaps meant to imply some role for idealism in
+quantum mechanics (roughly along the lines of Fichte?), or perhaps he
+meant that it is we who choose the ultimate experimental arrangement,
+thereby determining when as a matter of fact there will be no
+interference. (Did Heisenberg in fact believe that observables have
+values when there is decoherence!?)</p>
+</div>
+
+<div id="note-34">
+
+<p>
+
+ <a href="index.html#ref-34">34.</a>
+ In this connection, it is interesting to note that in the original
+formulation by Griffiths (1984) no quantum state appears in the
+decoherence functional. The role of the quantum state is so to speak
+taken over by the initial projection in the history, so that the
+theory can indeed be seen as a theory of transition probabilities
+between projections, independent of the notion of a quantum state.
+(See also Bacciagaluppi 2020a, Section 3.9.)</p>
+</div>
+
+<div id="note-35">
+
+<p>
+
+ <a href="index.html#ref-35">35.</a>
+ This is the question of whether one can <em>derive</em> from within
+quantum mechanics the conditions necessary to <em>discover and
+practise</em> quantum mechanics itself, and thus, in Shimony&rsquo;s
+(1989) words, close the epistemological circle.</p>
+</div>
+
+<div id="note-36">
+
+<p>
+
+ <a href="index.html#ref-36">36.</a>
+ Everett&rsquo;s supervisor Wheeler refused to approve Everett&rsquo;s
+thesis as long as it did not have Bohr&rsquo;s blessing, and forced
+Everett to rewrite it completely. See Osnaghi, Freitas and Freire
+(2009), and also the relevant materials in Everett (2012).</p>
+</div>
+
+<div id="note-37">
+
+<p>
+
+ <a href="index.html#ref-37">37.</a>
+ The main technical hurdle (the inequivalence between the
+Schr&ouml;dinger equation and the Madelung equations pointed out by
+Wallstrom (1994)) has arguably finally been resolved by Derakhshani
+(2017).</p>
+</div>
+
+<div id="note-38">
+
+<p>
+
+ <a href="index.html#ref-38">38.</a>
+ To clarify the distinction, think of the ground state of the hydrogen
+atom as a state of definite energy. As such, it is not a probabilistic
+concept, and being in the ground state can arguably be thought of as
+an ontic feature of a hydrogen atom. A subjectivist interpretation of
+quantum probabilities holds that the probabilities that we assign to
+measurement results on the basis of this state are degrees of belief.
+A QBist instead believes that there is no ontic feature of the
+hydrogen atom corresponding to is ground state, and that the meaning
+of the state is exhausted by its use as expressing the degrees of
+belief of an agent. The first author to argue that subjectivism may be
+applied also to quantum probabilities was Berkovitz in the late 1980s
+(see Berkovitz 2012). See also Bacciagaluppi (2014b, 2020a), who
+argues that subjectivism can be applied to quantum probabilities also
+in the Everett, pilot-wave, and spontaneous collapse approaches.</p>
+</div>
+
+<div id="note-39">
+
+<p>
+
+ <a href="index.html#ref-39">39.</a>
+ As long as decoherence yields only effective superselection rules, as
+mentioned above in
+ <a href="index.html#DynDec">Section 1.1</a>,
+ one does not leave the framework of standard non-relativistic quantum
+mechanics. Strict superselection rules require the framework of
+so-called algebraic quantum mechanics, and their interpretational
+status still needs to be assessed more systematically. (My thanks to
+Hans Primas for discussion of this point.)</p>
+</div>
+
+<div id="note-40">
+
+<p>
+
+ <a href="index.html#ref-40">40.</a>
+ An analogy from standard quantum mechanics may be helpful here. Take
+a harmonic oscillator in equilibrium with its environment. An
+equilibrium state is by definition a stationary state under the
+dynamics, i.e. it is itself time-independent. However, one can
+decompose the equilibrium state of the oscillator as a mixture of
+localised components each carrying out one of the oscillator&rsquo;s
+possible (time-dependent!) classical motions. Such a decomposition can
+be found e.g. in Donald (1998, Section 2).</p>
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="http://www.uu.nl/staff/GBacciagaluppi/0" target="other">Guido Bacciagaluppi</a>
+&lt;<a href="m&#97;ilto:g&#37;2ebacciagaluppi&#37;40uu&#37;2enl"><em>g<abbr title=" dot ">&#46;</abbr>bacciagaluppi<abbr title=" at ">&#64;</abbr>uu<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

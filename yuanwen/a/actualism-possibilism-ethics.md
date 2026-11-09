@@ -1,0 +1,617 @@
+# Actualism and Possibilism in Ethics
+**First published Mon May 20, 2019**
+
+*Timmerman, Travis, Cohen, Yishai*
+
+Suppose that you have been invited to attend an ex-partner’s wedding and that the best thing you can do is accept the invitation and be pleasant at the wedding. But, suppose furthermore that if you do accept the invitation, you’ll freely decide to get inebriated at the wedding and ruin it for everyone, which would be the worst outcome. The second best thing to do would be to simply decline the invitation. In light of these facts, should you accept or decline the invitation? (Zimmerman 2006: 153)[^zimmerman-2006]. The answer to this question hinges on the actualism/possibilism debate in ethics, which concerns the relationship between an agent’s free actions and her moral obligations. In particular, it focuses on whether facts about how an agent *would* freely act in certain contexts play any role in determining the agent’s moral obligations. Historically, the debate has primarily arisen in the work of impartial consequentialists with an interest in deontic logic. However, its relevance is not limited to such versions of consequentialism. The debate concerns the scope of acts that are relevant options for the agent, which is an issue that cuts across, and has substantive implications for, a wide range of normative ethical views. As such, the debate brings into focus issues of central importance for any normative ethical theory.
+
+## 1. Historical Origins of the Debate
+
+### 1.1 Some Background Assumptions
+
+For contingent historical reasons, this debate has unfolded in such a way that the following background assumptions are made in the literature. First, likely for ease of exposition, everyone writes as if counterfactual determinism is true (Goldman 1976: 469; Greenspan 1978: 77)[^goldman-1976][^greenspan-1978]. That is, it is assumed that there are facts about how an agent *would* (not simply *might*) act in any given situation. This assumption, however, is not necessary for the purposes of the debate (Portmore 2011: 56 fn. 1)[^portmore-2011]. Second, since everyone writes as if both counterfactual determinism is true and as if agents can act in a way in which they do not in fact act, those in the debate seem to assume compatibilism. Interestingly, the concerns raised by the actualism/possibilism debate still arise even if libertarianism about free will is assumed (Portmore 2011: 167 fn. 21)[^portmore-2011]. Describing the debate in libertarian terms, however, does add an extra layer of complexity to the discussion. Third, some form of maximizing consequentialism is generally assumed, again, likely for ease of exposition. The debate actually arises for any normative ethical theory that holds that there are at least *pro tanto* reasons to bring about the good, and so the importance of this debate extends far beyond forms of maximizing consequentialism (Bales 1972; Goldman 1976: 458 fn. 13)[^bales-1972][^goldman-1976]. Fourth, the various positions in the debate are understood in terms of *objective*, rather than *subjective*, obligations, though the same issues arise with respect to both. Objective obligations are those determined by all of the normatively relevant facts, which include facts of which the agent may be unaware. By contrast, subjective obligations are determined by the agent’s epistemic state (such as her beliefs, or beliefs that would be supported by her evidence) concerning the normatively relevant facts (cf. Zimmerman 1996: 10–20; Portmore 2011: 12–23)[^portmore-2011][^zimmerman-1996]. Following the norms of the literature, these assumptions operate in the background of this encyclopedia entry as well. However, none actually need to be made in order for the debate to get off the ground.
+
+### 1.2 An Argument that Utilitarianism is Formally Incoherent
+
+The historical origins of the debate may be traced back to work by Lars Bergström and Hector-Neri Castañeda. In his *A Problem for Utilitarianism* (1968), Castañeda argues that, given a few standard assumptions, utilitarianism is formally incoherent. His argument may be stated rather straightforwardly. First, Castañeda assumes a principle of deontic logic known as “ought distributes through conjunction”. This principle holds that if an agent *S* ought to do both *A* and *B*, then *S* ought to do *A* and *S* ought to do *B* (1968: 141). The term “ought” is used in a variety of different ways in the ethics literature. However, when it is used in the formulation of views in the actualism/possibilism literature, it should be understood as denoting the ought of moral obligation. This idea may be represented more formally as *Ought Distributes Through Conjuction*:
+
+**(ODC)**
+
+$\rO(A \lamp B) \rightarrow \rO(A) \lamp \rO(B)$
+
+In other words, if an agent is obligated to perform a set of acts, then that agent is obligated to perform each of the acts in that set.
+
+Second, Castañeda considers a principle he refers to as (U), which he takes to be a basic commitment of all existing forms of utilitarianism.
+
+**(U)**
+
+*S* is morally obligated to do *x* in circumstances *C* if and only if *S*’s doing *x* in *C* will bring about a greater balance of good over bad than her performing any other alternative action open to her in *C* (1968: 142).
+
+Some who have responded to Castañeda, such as Zellner (1972: 125), took (U) not only to be a commitment of utilitarianism, but a formulation of act-utilitarianism itself. Now, here’s the supposed problem. According to Castañeda, (ODC) and (U) generate contradictory prescriptions. To see why he believed this, suppose that an agent *S*’s performing the conjunctive act-set $\langle A \lamp B\rangle$ brings about a greater balance of good over bad than any alternative act-set (singleton or plural) that *S* can perform. It is supposed to follow from (U) that *S* is obligated to perform $\langle A \lamp B\rangle$. Now, given (ODC), it follows that *S* is obligated to perform $\langle A\rangle$ and that *S* is obligated to perform $\langle B\rangle$. But, Castañeda claims, given (U), performing $\langle A\rangle$ would result in more net good than performing any alternative, including $\langle B\rangle$. Moreover, given (U), performing $\langle B\rangle$ would *also* result in more net good than performing any alternative, including $\langle A\rangle$. Hence the supposed contradiction. Performing $\langle A\rangle$ cannot result in both more good and less good than performing $\langle B\rangle$. This consequence may be illustrated with an example, drawn from Westphal (1972: 83–84).
+
+- *School Fire*: Tom is a teacher at a school that burned down. Prior to the disaster, when the weather was warm at the beginning of the first class, he was told to ⟨open the window & shut the door⟩. The opened window would foster good ventilation and the closed door would cut down on noise and distractions in the hallway. Both would significantly help the students to learn.
+
+Naturally, the act-set of ⟨opening the window & shutting the door⟩ is the best that Tom can do in the circumstances he is in at the start on the warm day in question. Given Castañeda’s argument, Tom is obligated to ⟨open the window⟩ and he is obligated to ⟨shut the door⟩. But if he is obligated to do each of them, then ⟨opening the window⟩ must produce more net good than any alternative and ⟨shutting the door⟩ must produce more net good than any alternative. But, Castañeda claims, each of these acts cannot be uniquely optimific.
+
+### 1.3 Replies and the Rise of the Actualism/Possibilism Debate
+
+Castañeda’s short article spawned a number of replies with various proposed solutions. Castañeda himself argued that the problem stemmed from the “only if” clause in (U) and concluded that it should be removed. However, he believed that, even once this clause has been removed, it remains an open question whether utilitarianism could identify necessary conditions for obligatory actions (1968: 142).
+
+The most numerous, and influential, replies were written by Lars Bergström, who argued that the contradiction arises only if it is assumed that $\langle A\rangle$ and $\langle B\rangle$ are *alternatives* in the relevant sense. He argued that $\langle A\rangle$ and $\langle B\rangle$ are not, in fact, alternatives since they are compatible (Bergström 1968b: 43)[^bergström-1968b]. Notably, this is an issue of which Bergström was clearly aware of in his (1966: ch. 2) book in which he argued that “two actions can reasonably be regarded as alternatives (in the morally relevant sense) only if they are incompatible or mutually exclusive”. If, by hypothesis, *S* is obligated to perform $\langle A \lamp B\rangle$, then $\langle A\rangle$ and $\langle B\rangle$ must be compatible and so are not alternatives (1968b: 44). The subsequent literature consisted of a back-and-forth between Bergström and Castañeda that primarily revolved around identifying the morally relevant set of alternatives and Bergström’s attempts to formulate a utilitarian principle that avoids Castañeda’s objection (Bergström 1968a,b, 1971, 1973, 1976; Castañeda 1968, 1969, 1972)[^bergström-1968a][^castañeda-1968]. As will be shown in the subsequent sections, the issue of identifying the morally relevant set of alternatives forms the crux of the actualism/possibilism debate.
+
+Dag Prawitz (1970) and Fred Westphal (1972) both suggested revising (U) by indexing actions to the time they would need to be performed in order to bring about the uniquely optimific outcome. So, if performing the joint act $\langle A \at t_1 \lamp B \at t_2\rangle$ would result in the greatest net amount of good, then *S* is obligated to perform $\langle A \at t_1\rangle$ and to perform $\langle B \at t_2\rangle$ and, Westphal claims, this avoids the contradiction. At $t_1$, $\langle A\rangle$ supposedly is *the* act that would produce the greatest net amount of good in comparison to any other act performable at $t_1$. At $t_2$, $\langle B\rangle$ supposedly is *the* act that would produce the greatest net amount of good in comparison to any other act performable at $t_2$. Finally, from among the performable act-sets that might occur from $t_1$–$t_2$, $\langle A \lamp B\rangle$ is *the* act-set that would produce the greatest net amount of good. Thus, each act is the uniquely optimific act at the time it is performed, or so Westphal claims. Notably, Prawitz (1968, 1970) and Westphal (1972) each argue that an act is permissible if and only if it is part of an act-set that, if performed, would bring about the greatest net good of any of the acts available to the agent. In making this argument, Prawitz and Westphal were giving what may be considered the earliest defenses of possibilism. However, they did not yet refer to this view as possibilism.
+
+While possibilism itself remains a viable view in the literature, Harold Zellner demonstrated that Prawitz’s and Westphal’s responses did not solve the specific problem Castañeda identified for utilitarianism. This is because, while performing $\langle A \at t_1 \lamp B \at t_2\rangle$ may be uniquely optimific, it does not follow that performing either of these individual acts at their respective times would be uniquely optimific. For instance, performing $\langle A \at t_1\rangle$ may not be uniquely optimific if the agent would *not* perform $\langle B \at t_2\rangle$if she first performs $\langle A \at t_1\rangle$. Zellner (1972: 125) illustrates this with the following case.
+
+- **Teach, Play Cupid, or Skip Class:** Suppose that the best act-set Tom can perform is $\langle A \lamp B\rangle$, where $\langle A\rangle$ = commute to campus and $\langle B\rangle$ = teach his classes. Tom can also $\langle C\rangle$, where $\langle C\rangle$ = play Cupid by loaning his car to two people so they can go on a date. Finally, suppose that if Tom were to $\langle A\rangle$ commute to campus, he would $\langle{\sim}B\rangle$ skip teaching class. This is the worst act-set Tom can perform.
+
+Again, it would be best if Tom ⟨commutes to campus & teaches⟩, second best if he ⟨plays Cupid⟩, and worst if he ⟨commutes to campus & skips class⟩. Thus, the value of the act-sets may be ranked from best to worst as follows.
+
+1. $\langle A \lamp B\rangle$
+2. $\langle C\rangle$
+3. $\langle A \lamp {\sim}B\rangle$
+
+Zellner points out that, since Tom would $\langle{\sim}B\rangle$ if he were to $\langle A\rangle$, the value of performing $\langle A\rangle$ is not uniquely optimific even though the value of performing $\langle A \lamp B\rangle$ is uniquely optimific. Thus, in such cases, (U) combined with (ODC) still generates contradictions, even if each act is indexed to their respective times. Zellner argued that, to solve the problem, (U) should be rejected because it is inconsistent with a supposedly basic principle of inference, referred to as (NI), which holds that if an agent is obligated to perform $\langle A\rangle$ and her performing $\langle A\rangle$ entails her performing $\langle B\rangle$, then she is obligated to perform $\langle B\rangle$ (1972: 125). This rule is sometimes referred to as *Normative Inheritance* or as *Permissibility is Closed Under Implication*. It may be represented more formally in the Standard Deontic Logic system as (Feldman 1986: 41)[^feldman-1986]:
+
+**(NI)**
+
+If ${\vdash} A \rightarrow B$ then ${\vdash} O(A) \rightarrow O(B)$
+
+This literature on the coherence of utilitarianism directly gave rise to the actualism/possibilism literature. Most importantly, (i) it made salient the importance of determining the relevant act-alternatives available to the agent and (ii) cases such as *Teach*, *Play Cupid*, or *Skip Class* raised questions about the relationship between an agent’s free actions and her moral obligations. As will be illustrated in the next section, actualists and possibilists are divided over cases with this exact structure.
+
+## 2. Possibilism
+
+### 2.1 The Crux of the Debate
+
+Suppose someone is trying to determine whether she is obligated to teach a summer school course that students would greatly benefit from, but only if taught well. Do facts about how an agent would teach the course (e.g., well or poorly) have any role in determining whether she is morally obligated to teach the course? Actualists answer in the affirmative and possibilists in the negative. Possibilists hold that the deontic status of an act $\phi$ depends on facts about how an agent *could* act were she to $\phi$. So, according to possibilists, what determines whether she should teach the summer school course is whether she *could* teach it well, irrespective of whether she *would* teach it well. Actualists, by contrast, hold that the deontic status of an act $\phi$ depends, in part, on facts about how an agent *would* act (under certain conditions) were she to $\phi$. So, according to actualists, roughly what matters in determining whether one should teach the summer school course is whether she *would* teach it well, irrespective of whether she *could* teach it well.
+
+### 2.2 Professor Procrastinate
+
+These views, and their differences, can best be understood by considering the standard case in the literature, viz. *Professor Procrastinate*. Holly M. Smith (formerly Holly S. Goldman) provides the original version of this case in her (1978: 185–186) essay, and variations of it appear throughout the literature (Jackson & Pargetter 1986: 235; Carlson 1995: 124; Vorobej 2000: 131–132; Portmore 2011: 180, 2019: ch. 5; Timmerman 2015: 1512; Timmerman & Cohen 2016: 673–674; Cariani 2016: 400)[^cariani-2016][^carlson-1995][^cohen-2016][^jackson-1986][^portmore-2011][^timmerman-2015][^timmerman-2016][^vorobej-2000].
+
+- *Professor Procrastinate*: Professor Procrastinate is asked to review a graduate student’s paper, soon to be given as a job talk. Procrastinate can ⟨agree to review the paper & review the paper⟩, which would result in the student receiving a first-rate job offer. Procrastinate can also ⟨agree to review the paper & not review the paper⟩, which would result in the student receiving no job offer. Finally, Procrastinate can ⟨decline to review the paper & not review the paper⟩, which would result in the student asking someone else, getting mediocre comments, and receiving a second-rate job offer. Now, if Procrastinate were to ⟨agree to review the paper⟩, she would later freely ⟨*not* review it⟩.
+
+The value of the act-sets that Procrastinate can perform are ranked from best to worst as follows.
+
+*X*.
+
+$\langle a\rangle$ agree to review the paper and $\langle b\rangle$ review the paper
+
+*Y*.
+
+$\langle{\sim} a\rangle$ decline to review the paper and $\langle{\sim}b\rangle$ not review the paper
+
+*Z*.
+
+$\langle a\rangle$ agree to review the paper and $\langle{\sim}b\rangle$ not review the paper
+
+Furthermore, Procrastinate would $\langle{\sim}b\rangle$ regardless of whether she would $\langle a\rangle$. In other words, the following counterfactuals are true.
+
+**(1)**
+
+If Procrastinate were to $\langle a\rangle$, she would $\langle Z\rangle$.
+
+**(2)**
+
+If Procrastinate were to $\langle{\sim} a\rangle$, she would $\langle Y\rangle$.
+
+On a rough definition, according to actualism, Procrastinate is obligated to decline to review the paper because what would *actually* happen if she were to decline is better than what would *actually* happen if she were to agree to review the paper. By contrast, according to possibilism, Procrastinate is obligated to agree to review the paper because doing so is part of the best series of *possible* actions that Procrastinate can perform over her life. Now that we’ve covered how these views generally come apart, we will focus on the more precise formulations of these views in subsequent sections. It should also be noted that counterfactuals like (1) and (2) are assumed to be true at least partly in virtue of Procrastinate’s imperfect moral character. However, such counterfactuals can also be true as a result of an agent’s ignorance, as a result of lacking the dexterity to perform an act, and as a result of an agent’s inability to comprehend some future act (Goldman 1978:198; Bykvist 2002: 50)[^bykvist-2002][^goldman-1978]. For the purposes of this entry, we will focus on an agent’s imperfect moral character since this factor seems to be the driving force behind many points of disagreement between actualists and possibilists.
+
+### 2.3 Possibilism (and Actualism) Defined
+
+In its simplest form, possibilism is the view that an agent is obligated to perform an act just in case it is part of the best series of acts she can perform over the course of her life. It may be defined more formally as follows.
+
+- **Possibilism:** At *t* an agent *S* is obligated to $\phi$ at $t'$ iff *S* can $\phi$ at $t'$ and $\phi$-ing at $t'$ is part of the best act-set that *S* can perform from $t'$ until the last time she can perform an act.
+
+According to possibilism, the act-sets that have their deontic status directly (i.e., they do not have their deontic status in virtue of the deontic status of any other act-set) are the act-sets that agents can perform over the course of their entire lives, which we will refer to as maximal act-sets (Åqvist 1969)[^åqvist-1969]. Moreover, any non-maximal act-set has its deontic status indirectly (i.e., its deontic status is determined by the deontic status of a maximal act-set of which it is a part). In *Professor Procrastinate*, assuming that Procrastinate cannot perform any acts after doing either $\langle X\rangle$, $\langle Y\rangle$, or $\langle Z\rangle$, possibilists hold that Procrastinate is obligated to $\langle a\rangle$ because the best maximal act-set she can perform over the course of her life includes $\langle X\rangle $, and $\langle X\rangle $-ing requires $\langle a\rangle$-ing.
+
+Possibilism has been given slightly different definitions in the literature. However, unlike the different definitions of actualism discussed in the next section, typical definitions of possibilism are essentially synonymous. Patricia Greenspan (1978) does not offer a formal definition of possibilism, but defends the view by way of rejecting Holly Goldman’s actualist principle, referred to as (G*1). Greenspan does so in the process of defending her (1975) view in a related debate concerning whether ought-statements should be dated differently from their objects and about whether they hold from different temporal standpoints. Fred Feldman defines possibilism in terms of possible worlds. Feldman refers to his theory as (MO). As he characterizes (MO), what *S* is morally obligated to do, “as of a time, *t*”, is
+
+> to see to the occurrence of a state of affairs, *p*, iff *p* occurs in some world accessible to *S* at *t*, and it is not the case that ${\sim}p$ occurs in any accessible world as good as (or better than) that one. (Feldman 1986: 38)[^feldman-1986]
+
+Michael Zimmerman defines possibilism in the simpler, standard sense given above (2006: 153; 2017: 119). However, he also develops and defends (MO)-inspired formulations of possibilism. In his (1996) book, he provides a formulation of what he refers to as “world possibilism” (WP) that invokes the notion of “deontic value” instead of “intrinsic value”, so as to prevent the formulation of possibilism from assuming impartial consequentialism. In his (2006: 166) essay, he defends a prospective version of (WP), where the value in question is the expected value of all the acts an agent can intentionally perform, which he refers to as “adjusted core prospective value”.
+
+There are other views that deviate from the above standard definitions of possibilism. Carlson (1995: 99–109; 1999) defends a view that bears resemblance to possibilism in which the sole obligatory act-set is a unique minimally specific invariably optimal act-set. At *t* an act-set is optimal for an agent *S* just in case its outcome is at least as good as any other act-set that is performable for *S* at *t*. An invariably optimal act-set is one which is optimal no matter what *S* does at *t*. An invariably optimal act-set is minimally specific just in case it is not a proper part of some other invariably optimal act-set available to *S*. A minimally specific invariably optimal act-set is unique just in case there is no other minimally specific invariably optimal act-set available to *S*. Thus, in contrast to standard formulations of possibilism, no act-set that is a proper part of a unique minimally specific invariably optimal act-set has a deontic status. Vorobej (2000) defends a view he refers to as “prosaic possibilism”, which may be considered an intermediary between possibilism and actualism. In his (2009) article, which contains an argument against possibilism, Woodard defines the view in terms of normative reasons for action rather than moral obligations. As a final example, in his (2016) article, Vessel proposes what he takes to be a “possibilist variant” of a view known as moral securitism, which will be discussed in section 4. The first possibilist definition given in this section, however, captures the standard understanding of possibilism and the commitments of its proponents, including Greenspan (1978), Thomason (1981), Humberstone (1983), Feldman (1986: 38), and Zimmerman (1990; 1996: 190; 2006; 2008: ch. 3; 2017). On this definition, Procrastinate is obligated to agree to review the paper since it is part of the best series of acts that she can perform over the course of her life.
+
+In contrast to possibilism, standard forms of actualism hold that Procrastinate is obligated to decline to review the paper because what would actually happen if Procrastinate were to do this is better than what would actually happen if she were to agree to review the paper. For, what would happen if Procrastinate were to decline the invitation is that the student would receive a second-rate job offer. However, if she were to agree to review the paper then she would not review it and the student would receive no job offer. A simple, but not unproblematic, version of actualism holds the following:
+
+- **Actualism:** At *t* an agent *S* is obligated to $\phi$ at $t'$ iff *S* can $\phi$ at $t'$ and what would happen if *S* were to $\phi$ at $t'$ is better than what would happen if *S* were to perform any alternative act at $t'$.
+
+One problem with this definition is that it blurs together the intrinsic value of the consequences of an act and the deontic value of that act. An actualist’s stance with respect to the relationship between these different types of value depends upon her preferred normative ethical theory. We will discuss more precise and informative definitions of actualism in section 3. However, the above definition suffices to illustrate the primary difference between actualism and possibilism.
+
+### 2.4 Possibilism, Actualism, and the Relevant Sense of “Ability”
+
+It is natural to initially diagnose the disagreement between actualists and possibilists as a disagreement about which act-sets agents *can* perform. However, the actualism/possibilism debate cuts across debates about the relevant sense(s) of “can”. Actualists and possibilists may agree with one another about which act-sets agents can perform in any given case. At bottom, their disagreement concerns which acts, from among the acts the agent can perform, are normatively relevant *options* for the agent. Less abstractly, actualists and possibilists may agree that Procrastinate *can* $\langle X\rangle$, $\langle Y\rangle$, or $\langle Z\rangle$. After all, by stipulation, she can $\langle a\rangle$ and if she $\langle a\textrm{-s}\rangle$, then by stipulation she can $\langle b\rangle$ and if she does that, then she will have performed $\langle X\rangle $. Procrastinate *can* $\langle X\rangle$, though one may still wonder whether she has the relevant kind of *ability* to $\langle X\rangle $. That is, one may wonder whether $\langle X\textrm{-ing}\rangle$ is a relevant *option* for the agent. It is this question that divides actualists and possibilists. Goldman (1976: 453 and 1978: 153) initially suggested that $\langle X\textrm{-ing}\rangle$ is a relevant *option* for the agent, appealing to the following account of ability.
+
+- *Ability 1*: An agent has the ability at $t_1$ to perform an act *A* at $t_1 +N$ just in case there is a sequence of acts such that the agent has the ability at $t_1$ to perform the first of these acts at $t_1$, and if he performs the first act, then at a later time he will have the ability to perform the second act at that time, and if he performs the first two acts at their respective times, then at a still later time he will have the ability to perform the third act at that time, and so forth, until finally if he performs all the acts in the sequence at their respective times, then at $t_1 +N$ he will have the ability to perform act *A* at $t_1 +N$.
+
+Interestingly, Goldman (1978) later rejects this account of ability after considering cases where, at $t_1$, the agent can $\langle a\rangle$, but would not $\langle b\rangle$ and thus would not $\langle X\rangle $, regardless of her intentions at $t_1$. Such cases are ones where it’s possible for the agent to $\langle X\rangle$, but Goldman argues that it would be “pointless to use this account of ability when assessing the range of activities which a moral principle should assess”. This is because agents “could not make practical use of” prescriptions to perform such alternatives. These types of cases will be discussed in more detail the next section. For now, the important takeaway is that while an agent *can* perform such conjunctive act-sets in the sense picked out by *Ability 1*, there may be times before the agent acts during which she cannot ensure that she will perform these act-sets. So, while it’s possible for Procrastinate to $\langle X\rangle$ by intending to $\langle a\rangle$ at $t_1$ and then intending to $\langle b\rangle$ at $t_2$, it may also be true that, at $t_1$, Procrastinate would not $\langle b\rangle$ at $t_2$ no matter what she intends to do at $t_1$. In light of such cases, Goldman proposes the following account of ability.
+
+- *Ability 2*: An agent has the ability at $t_1$ to perform an act *A* at a later time $t_n$ if and only if it is true that if the agent wanted at $t_1$ to perform *A* at $t_n$, he would do so (Goldman 1978: 195)[^goldman-1978].
+
+So, for any given act-set, actualists and possibilists will agree about whether an agent has *Ability 1*, *Ability 2*, or both to perform that act-set and thus will agree about each sense in which agents can perform these act-sets. Yet, they will disagree about which sense of ability picks out the morally relevant set of options for an agent. Possibilists (e.g., Feldman 1986; Zimmerman 1996)[^feldman-1986][^zimmerman-1996], hybridists (Timmerman & Cohen 2016)[^cohen-2016][^timmerman-2016], and some actualists (e.g., Jackson & Pargetter 1986; Jackson 2014)[^jackson-2014][^jackson-1986] take *Ability 1* to be a morally relevant sense of ability. Most actualists and all securitists (e.g., Portmore 2011, 2018)[^portmore-2011] will take *Ability 2*, or something close to it, to be the morally relevant sense of ability.
+
+### 2.5 Objections to Possibilism
+
+Possibilism has a lot going for it. Most notably, it generates the intuitively correct moral verdicts in a wide range of cases. It preserves (ODC), (S), and related, similarly attractive, principles in deontic logic (Goldman 1978: 80; Feldman 1986: 41–44; Zimmerman 1990: 58–60; Zimmerman 2006: 154–155; Vessel 2009; Kiesewetter 2018)[^feldman-1986][^goldman-1978][^kiesewetter-2018][^vessel-2009][^zimmerman-1990][^zimmerman-2006]. It is thought to avoid the main objection leveled against actualism. That is, since possibilism requires agents to perform the best act-set they can over the course of their lives, it is *not* thought to let agents off the hook too easily. It also avoids the other objections leveled against actualism discussed in the next section. Also, see Zimmerman (1996: fn. 72 & fn. 122 and 2017: ch. 3) for a nice review of some of possibilism’s additional, lesser appreciated, virtues. While there is much to be said in favor of possibilism, it also faces certain challenging objections.
+
+#### 2.5.1 The worst outcome objection
+
+Perhaps the primary objection to possibilism is that it can generate obligations that, if acted on, would result in the worst possible outcome. Versions of this objection have been raised throughout the literature, (Goldman 1976: 469–70; Sobel 1976: 202–203; Feldman 1986: 52–57; Almeida 1992: 461–462; Woodard 2009: 219–221; Portmore 2011: 211; Ross 2012: 81–82; Gustafsson 2014: 593; Timmerman & Cohen 2016: 674)[^almeida-1992][^cohen-2016][^feldman-1986][^goldman-1976][^gustafsson-2014][^portmore-2011][^ross-2012][^sobel-1976][^timmerman-2016][^woodard-2009]. Possibilism generates this consequence because it implies that facts about how agents would freely act play no role in determining deontic verdicts. So, this potentially objectionable consequence of possibilism is a product of a core commitment of the view.
+
+To illustrate the issue, consider *Professor Procrastinate* again. According to possibilism, Procrastinate is obligated to ⟨agree to review the paper & review the paper⟩ and thus is obligated to ⟨agree to review the paper⟩. However, if Procrastinate were to act on her obligation to ⟨agree to review the paper⟩, she would ⟨not review the paper⟩, thereby bringing about the worst possible outcome. This may not sound so counterintuitive in *Professor Procrastinate* where the worst outcome isn’t tragic. Yet, this objection has more intuitive force in high-stakes variants. Suppose that no matter what Procrastinate were to intend today, she would freely ⟨not review the paper⟩ if she ⟨agrees to review the paper⟩. Suppose furthermore that if Procrastinate were to ⟨not review the paper⟩, then the student would not receive any job offers and commit suicide. Possibilism still renders the verdict that Procrastinate is obligated to ⟨agree to review the paper⟩ and it renders this verdict no matter how terrible the consequences of ⟨agreeing to review the paper⟩ happen to be. This objection to possibilism may be stated more precisely as follows.
+
+- **Worst Outcome Objection:** Possibilism entails that an agent *S* can have an obligation to $\phi$ even when $\phi$-ing entails that *S* would perform an act-set that is deeply morally wrong (perhaps the worst act-set possible) and that is worse than the act-set that *S* would perform if *S* were to ${\sim}\phi$.
+
+Possibilists have responded by suggesting that the intuitive force of this objection stems from failing to appreciate the distinction between conditional and unconditional obligations. The possibilist obligation is meant to pick out agents’ unconditional obligations and it supposedly is not problematic for agents to have unconditional obligations that, if acted upon, would result in the worst possible outcome (Greenspan 1978: 81; Zimmerman 2017: 126–128)[^greenspan-1978][^zimmerman-2017]. So, while it’s true that possibilism entails that Procrastinate has an unconditional obligation to ⟨agree to review the paper⟩ in virtue of her unconditional obligation to ⟨agree to review the paper & review the paper⟩, it may also be true that she has a conditional obligation to ⟨decline to review the paper⟩ given that she would ⟨not review the paper⟩ if she were to ⟨agree to review the paper⟩. More generally, possibilists can respond by holding that agents have an unconditional obligation to do the best they can, but incur conditional obligations to bring about the next best outcome *if* they won’t bring about the best outcome. The distinction between conditional and unconditional obligations will be further explored in section 5.
+
+#### 2.5.2 The advisor objection
+
+A closely related objection appeals to considerations about moral advice (Goldman 1976: 470; Greenspan 1978: 81; Feldman 1986: 55–57)[^feldman-1986][^goldman-1976][^greenspan-1978]. Suppose that Procrastinate asks her friend whether she should $\langle a\rangle$. Knowing that Procrastinate would almost certainly fail to $\langle b\rangle$ if she were to $\langle a\rangle$, it seems that her advisor ought to advise Procrastinate to $\langle{\sim}a\rangle$. The basic idea is that since Procrastinate’s advisor ought to tell Procrastinate to $\langle{\sim}a\rangle$, Procrastinate is, contrary to what possibilists claim, obligated to $\langle{\sim}a\rangle$.
+
+Possibilists who accept that one ought to advise Procrastinate to $\langle{\sim}a\rangle$ will deny that this suggests that Procrastinate truly has an obligation to $\langle{\sim}a\rangle$. Rather, they’ll hold that Procrastinate’s advisor has an obligation to advise Procrastinate to do something she is obligated to refrain from doing. Possibilists will point out that Procrastinate’s advisor, just like Procrastinate, is obligated to do the best she can. In this case, doing the best she can requires advising Procrastinate to $\langle{\sim}a\rangle$ since Procrastinate won’t $\langle a \lamp b\rangle$ no matter what Procrastinate’s advisor says. Thus, the best Procrastinate’s advisor can do is to get Procrastinate to $\langle{\sim}a \lamp{\sim}b\rangle$ and that requires telling Procrastinate that she ought to $\langle{\sim}a\rangle$. Erik Carlson gives this response in his (1995: 127) article. Fred Feldman gives this response in his (1986: 57) book and puts the point thusly.
+
+> When we give moral advice, we morally ought to advise in the best way we can. That is, we should advise in the way we advise in the best world open to us. When things go smoothly, our advice will be true…But when things go awry, we may find that to advise in the best possible way, we must give false advice. Reflection on a more extreme case should make this clear. Suppose an ornery child always does the opposite of what we tell him to do. Suppose we know that he ought to turn right, and that hundreds of lives depend upon it. Should we tell him to turn right? Obviously not.
+
+#### 2.5.3 The asymmetry objection
+
+Both Holly Goldman (1976: 469–470) and Christopher Woodard (2009) argue that possibilism is committed to an implausible asymmetry between moral and prudential reasons, whereas actualism treats such reasons symmetrically. To motivate this objection, Woodard asks one to consider an intrapersonal case of prudence that is structurally identical to typical actualist/possibilist cases.
+
+- *Plane Tickets*: Suppose that the prudentially best act-set Smith can perform is $\langle A \lamp B\rangle$, where $\langle A \rangle$ = purchase a plane ticket and $\langle B\rangle$ = board the plan. Smith is a bit aviophobic, however. If she were to $\langle A\rangle$ purchase the plane ticket, she would $\langle{\sim}B\rangle$ not board the plane (Woodard 2009: 221)[^woodard-2009].
+
+Suppose each option is equally *morally* good. However, the *prudential* value of the act-sets may be ranked from best to worst as follows.
+
+1. $\langle A \lamp B\rangle$
+2. $\langle{\sim}A \lamp {\sim}B\rangle$
+3. $\langle A \lamp {\sim}B\rangle$
+
+Again, the following counterfactuals are true.
+
+1. If Smith were to $\langle A\rangle$, she would $\langle{\sim}B\rangle$.
+2. If Smith were to $\langle{\sim}A\rangle$, she would $\langle{\sim}B\rangle$.
+
+Prudentially, what ought Smith to do? Woodard suggests that intuitively Smith prudentially ought to $\langle{\sim}A\rangle$, writing that it’s hard
+
+> to believe that the fact that [Smith] would choose ${\sim}B$ were [she] to choose *A* is irrelevant to whether [Smith] should choose *A* or not. (2009: 221)
+
+However, if possibilists treat prudential reasons in the same way they treat moral reasons, they would be committed to holding that Smith prudentially ought to $\langle A\rangle$ even though this would result in her wasting her money on a plane ticket she wouldn’t use. In light of intuitive judgments about prudential cases, Woodard concludes that unless
+
+> there is a sharp asymmetry between prudential and moral oughts…the parallel [case concerning moral reasons also] affects Smith’s moral obligation to choose *A* or ${\sim}A$.
+
+Woodard’s thought is that prudential cases support actualist judgments and, to avoid positing an implausible asymmetry between moral and prudential reasons, we should think actualism is true in moral cases as well.
+
+It’s worth noting that this sort of question about prudential cases arises in the rational choice literature. The analogous question concerns whether rationality requires one to choose suboptimal courses of action by predicating one’s present behavior on what will seem most attractive to one at a later time (see McClennen 1990: ch. 8–9; Gauthier 1994)[^gauthier-1994][^mcclennen-1990]. The subsequent literature suggests that intuitions about prudential cases are at least mixed.
+
+In response to Woodard, possibilists could again appeal to the distinction between unconditional and conditional (prudential) obligations. Perhaps what Smith is unconditionally prudentially obligated to do is ⟨purchase the plane ticket & board the plane⟩ and thus has an unconditional obligation to ⟨purchase the plane ticket⟩. However, given that she wouldn’t ⟨board the plane⟩ if she were to ⟨purchase the plane ticket⟩, she may incur a conditional (prudential) obligation to ⟨not purchase the plane ticket⟩. Given that she won’t do what she prudentially ought to do, she conditionally ought to do the next best thing.
+
+Zimmerman’s response is to deny that there is an asymmetry, arguing that what “matters, according to possibilism, is what one can control” (2017: 128). In other words, both prudential cases and moral cases are treated symmetrically in the sense that what matters for *any* case, according to possibilism, concerns what is under an agent’s control. To illustrate, in contrast to this purely prudential case, consider a similar case in which Smith’s not boarding the plane will result in result in her friend, Fred, being deeply disappointed that he and Smith will not get an opportunity to catch up in person. In both of these cases, Smith’s control with respect to performing $\langle A \lamp B\rangle$ is exactly the same. So, according to Zimmerman, it doesn’t matter that, in either case, Smith would in fact $\langle{\sim}B\rangle$ if she were to $\langle A\rangle$; Smith is still obligated to perform $\langle A \lamp B\rangle$, and, *a fortiori*, perform $\langle A\rangle$. Zimmerman may be right that possibilists are not committed to treating moral and prudential reasons differently. However, by treating them symmetrically, it may still be true (as Goldman and Woodard suggest) that possibilists are committed to counterintuitive verdicts in certain prudential cases, as illustrated in *Plane Tickets*.
+
+The objections considered in this section are some of the most influential or instructive objections that apply to possibilism, generally construed. However, they do not exhaust the objections that may be levelled against the view. Even if possibilists are able to provide adequate responses to these objections, other considerations may count in favor of an alternative view. In the next section, we turn to possibilism’s main competitor: actualism.
+
+## 3. Actualism
+
+When it comes to cases concerning agents who are disposed to act wrongly, actualists consider their possibilist counterparts to be overly idealistic by theorizing about our moral obligations without considering the moral imperfections that result in our failing to do the best that we can. According to actualists, the specific way in which our imperfections need to be considered is by taking into account the truth-value of certain counterfactuals of freedom, i.e., certain facts about what we would freely do if we were in some circumstances. The only counterfactuals that are relevant to our objective obligations are ones in which the circumstances in the antecedent are fully described (Jackson 1985: 178, 186; Jackson & Pargetter 1986: 240)[^jackson-1985][^jackson-1986]. This is because strengthening the antecedent of a counterfactual, i.e., adding information to the antecedent, can alter the counterfactual’s truth-value (Stalnaker 1968; Lewis 1973)[^lewis-1973][^stalnaker-1968].
+
+Most, if not all participants, in the actualist-possibilist debate seem to assume that the agents have the ability at one time to perform an act that they would not in fact perform at a later time if they were in the relevant circumstances. For example, although Professor Procrastinate can ⟨agree to review the paper & write the review⟩, she would, as a matter of fact, ⟨not write the review⟩ if she were to ⟨agree to review the paper⟩. In other words, she would do something (not write) other than what she can do (write). By holding fixed the fact that Procrastinate would ⟨not write the review⟩ even if she were to ⟨agree to review the paper⟩, it follows from actualism that Procrastinate ought to ⟨decline to review the paper⟩, even though she can ⟨agree to review the paper & write the review⟩. This is because actualism roughly states that an agent ought to $\phi$ just in case $\phi$-ing would result in a better outcome than any other alternative to $\phi$-ing. Recall the generic definition offered in the previous section.
+
+- **Actualism:** At *t* an agent *S* is obligated to $\phi$ at $t'$ iff *S* can $\phi$ at $t'$ and what would happen if *S* were to $\phi$ at $t'$ is better than what would happen if *S* were to perform any alternative act at $t'$.
+
+Now, what would happen if Procrastinate were to ⟨decline to review the paper⟩ is better than what would happen if Procrastinate were to ⟨agree to review the paper⟩. As this example illustrates, the value that actualists assign to an option is determined by what *would* happen if that option were performed, rather than by being a member of the best act-set that the agent *can* perform over time. ⟨Agreeing to review the paper⟩ is part of the best act-set that is presently available to Procrastinate. But the value of ⟨agreeing to review the paper⟩ is less than the value of ⟨declining to review the paper⟩ because of what would happen if these respective options were to be performed.
+
+Beyond this minimal agreement among all versions of actualism that Professor Procrastinate ought (given certain descriptions of the case) to ⟨decline to review the paper⟩, actualists diverge on other substantial issues concerning the scope of our obligations. Holly S. Goldman and Jordan Howard Sobel independently developed and articulated the first versions of actualism. We will begin by introducing Goldman’s formulation which is motivated in part by the need to avoid prescribing jointly unfulfillable obligations.
+
+### 3.1 The Problem of Jointly Unfulfillable Obligations for Some Forms of Actualism
+
+The above formulation of actualism is subject to the problem of jointly unfulfillable obligations. That is, it generates multiple obligations such that it is impossible for the agent to fulfill all of them. For example, Procrastinate is obligated to ⟨decline to review the paper⟩ because this would result in a better outcome than the outcome that would follow ⟨agreeing to review the paper⟩. On the other hand, Procrastinate is obligated to ⟨agree to review the paper & write the review⟩ because doing so would have a better outcome than the outcome of ⟨declining to review the paper & not reviewing the paper⟩. This is a problem for Jackson and Pargetter’s version of actualism, to be discussed below. Goldman’s and Sobel’s versions of actualism are formulated precisely to avoid this problem. To see how Goldman avoids this problem, consider the following formulation of actualism that Goldman (1976: 471) considers and rejects:
+
+**(G)**
+
+*S* ought at $t_1$, to perform $A_i$ at $t_i$ if and only if: (1) *S* has the ability at $t_1$ to perform $A_i$, at $t_i$, and
+
+**(2)**
+
+the sequence of acts from $t_i$ which would follow $A_i$ is better than any sequence from $t_i$ which would follow any act that would be an alternative to $A_i$ relative to $t_i$.
+
+The basic idea behind (G) is captured in the aforementioned rough definition of actualism. Here are the details. “$A_i$” may apply to a single act or a sequence of acts over time. The main problem that Goldman finds with (G) is that even if $A_i$ satisfies (1) and (2), (G) does not take into account the following sort of case: “$A_i$” refers to a sequence of acts over time, the following counterfactual is true: “if the agent were to perform the first half of $A_i$, then the agent would not perform the second half of $A_i$”, and the sequence of acts that would follow the performance of the first half of $A_i$ would be worse than the sequence of acts that would follow an alternative to the first half of $A_i$. (G) implies that in this sort of case the agent has jointly unfulfillable obligations at the same time *t*, viz. an obligation at *t* to perform $A_i$ and an obligation at *t* to refrain from performing the first half of $A_i$. For example, according to (G) Procrastinate ought to ⟨agree to review the paper & write the review⟩ from $t_1$–$t_2$ because the sequence of acts that would follow this act sequence from $t_2$ is better than any sequence from $t_2$ which would follow any alternative act sequence at $t_1$–$t_2$, including the alternative of ⟨declining to review the paper & not writing the review⟩ from $t_1$–$t_2$. But, on the other hand, according to (G) Procrastinate ought to ⟨decline to review the paper⟩ at $t_1$ because the sequence of acts that would follow this from $t_1$ is better than any sequence from $t_1$ which would follow any alternative act at $t_1$, including the alternative of ⟨agreeing to review the paper⟩. Obviously, it cannot be the case that both obligations are fulfilled.
+
+Goldman (1976: 467) illustrates the possibility of jointly unfulfillable obligations with the following example.
+
+- *Jones*: Jones is deciding whether to go to the office or to stay home. She can ⟨go to the office, attend the faculty meeting, and then vote for a language requirement for undergraduates⟩. This is the best outcome available to Jones over time. The worst outcome available to Jones is ⟨going to the office, talking to a student, and then discouraging the student from seeking psychiatric aid⟩. The second-best outcome available to Jones is ⟨staying home, doing research for her lectures, and then writing the lecture notes⟩. The critical counterfactual that partly shapes the relative values of Jones’ options is this: “if Jones were to ⟨go to the office⟩, then she would ⟨talk to the student and then freely discourage the student from seeking psychiatric aid⟩”.
+
+Although ⟨going to the office⟩ is a prerequisite for the best outcome (viz. the outcome that follows ⟨voting for a language requirement⟩), ⟨going to the office⟩ would, in fact, result in the worst outcome (viz. the outcome that follows ⟨discouraging the student from seeking psychiatric aid⟩). ⟨Staying home⟩ rather than ⟨going to the office⟩ would result in a better outcome (viz. the outcome of ⟨writing lecture notes⟩). Here is Goldman’s chart, which summarizes Jones’s predicament:
+
+*Figure 1:*
+
+![a decision tree: link to extended description below](../assets/actualism-possibilism-ethics/figure1.svg)
+
+Figure 1: [An extended description of figure 1 is in the supplement.]
+
+As a matter of stipulation, the act-set which would follow the act-set that terminates with ⟨voting for the language requirement⟩ at $t_3$ is better than the act-set which would follow any other $t_1$–$t_3$ act-set available to Jones at $t_1$. So (G) implies that, at $t_1$, Jones ought to do the best she can. However, (G) also implies that, at $t_1$, Jones ought to ⟨stay home⟩ at $t_1$ rather than ⟨go to the office⟩ at $t_1$. This is because both acts are performable for Jones at $t_1$, and the act sequence which would follow ⟨staying home⟩ is better than the act sequence which would follow ⟨going to the office⟩. So, according to (G), Jones has at least two obligations that are jointly unfulfillable, *A*: ⟨going to the office, then going to the faculty meeting, then voting for the language requirement⟩, and *B*: ⟨staying home⟩. Jones cannot perform both $\langle A \lamp B\rangle$. There is no possible scenario in which both obligations are fulfilled.
+
+### 3.2 Preliminary Formulations of Actualism
+
+To avoid the problem of jointly unfulfillable obligations, Goldman (1976: 473) proposes the following version of actualism:
+
+(G*1)
+
+(A) *S* ought at $t_1$ to perform $A_1$ at $t_1$ if and only if: (1) *S* has the ability at $t_1$, to perform $A_1$, and
+
+**(2)**
+
+the sequence from $t_1$ which would follow $A_1$ is better than any sequence from $t_1$ which would follow any alternative to $A_1$.
+
+**(B)**
+
+If *S* ought at $t_1$, to perform $A_i$ at $t_i$, then *S* ought at $t_1$, to perform an immediate successor $B_j$ to $A_i$ at $t_j$ if the sequence from $t_j$ which would follow $B_j$ is better than any sequence from $t_j$ which would follow any other immediate successor to $A_i$.
+
+Unlike (G), (G*1) assesses an act’s deontic status in a procedural manner, starting with the options that are immediately available to the agent, and then proceeding to the next immediately available options. To illustrate, part (A) of (G*1) tells us to first evaluate all of the options that are immediately performable for Jones at $t_1$, and those options are either ⟨going to the office⟩ or ⟨staying home⟩. The latter option is obligatory because it *would* result in a better act-set than the act-set that would result if Jones were to ⟨go to the office⟩. Part (B) of (G*1) tells us that, as of $t_1$, Jones ought to perform an immediate successor to ⟨staying home⟩ at $t_1$ that would result in a better sequence of acts than any alternative option that is an immediate successor to ⟨staying home⟩ at $t_1$. So, at $t_1$, Jones ought to ⟨stay home and then do research for lectures⟩ from $t_1$–$t_2$. Similarly, at $t_1$, Jones ought to perform an act-set that terminates with ⟨writing lecture notes⟩ at $t_3$, given the assumption that the act-set that would follow ⟨writing the lecture notes⟩ at $t_3$ is better than the act-set that would follow ⟨fixing lunch⟩ at $t_3$.
+
+The application of (G*1) to the case of Jones explains why (G*1) does not imply the possibility of jointly unfulfillable obligations. Although what would happen if Jones were to ⟨go to the faculty meeting⟩ at $t_2$ is better than what would happen if she were to do anything else at $t_2$ that, as of $t_1$, she can do, Jones is nevertheless *not* obligated at $t_1$ to ⟨go to the faculty meeting⟩ at $t_2$. This is because if Jones were to perform one of the acts required for ⟨going to the faculty meeting⟩, viz. ⟨going to the office⟩, then the worst outcome would occur. As of $t_1$, any act that precludes ⟨staying home⟩ at $t_1$ is impermissible.
+
+Jordan Howard Sobel (1976: 196) similarly defends a version of actualism that avoids jointly unfulfillable obligations:
+
+**(S)**
+
+An act *x* ought to take place if and only if (i) *x* is contained in a life optimum among lives securable by the agent of *x* at this act’s first moment (that is, a life optimum among those lives each of which would be secured by some fully specific minimal act open to the agent of *x* at the first moment of *x*), and (ii) no agent-identical act incompatible with x satisfies (i).
+
+A life *L* is a sequence of acts over time, or, in the terminology of this article, an act-set over time, such that this act-set is not contained in some other act-set that an agent *S* can perform over time. Hence, a life is identical to the possibilist’s notion of a maximal act-set. A life *L* is securable for *S* at time *t* if at $t$ $S$ can immediately perform the first moment of *x*, *x* is in *L*, and if *x* were to occur, then *L* would occur (Sobel 1976: 199)[^sobel-1976]. An obligatory life is determined in part by the set of immediately performable fully specific minimal acts available to the agent. A minimal act is one whose completion cannot be stopped by the agent once it is initiated. As such, all instantaneous acts are minimal acts (if there are any such acts). Moreover, a minimal act is fully specific just in case it is not entailed by two or more minimal acts available to the agent.
+
+Like (G*1), and unlike (G), (S) does not imply that Jones ought to do the best she can over time in the sense affirmed by possibilists. This is because, according to (S), all lives that contain ⟨voting for the language requirement⟩ are not securable for Jones at $t_1$. At $t_1$, there is no fully specific minimal act that Jones can immediately perform such that if Jones were to perform it then Jones would perform a sequence of acts that includes ⟨voting for the language requirement⟩. Similarly, ⟨writing the review⟩ is not securable for Procrastinate at $t_1$ because, at $t_1$, there is no fully specific minimal act that Jones can immediately perform such that, if Jones were to perform it, then Jones would ⟨write the review⟩.
+
+### 3.3 A Contextualist Formulation of Actualism
+
+In contrast to the views of Goldman and Sobel, other forms of actualism embrace the possibility of jointly unfulfillable obligations while simultaneously resisting the claim that actualism implies the possibility of obligation dilemmas, i.e., scenarios in which all of the options available to an agent over time result in a failure to fulfill at least one obligation. Consider Frank Jackson and Robert Pargetter’s (1986: 233) formulation of actualism.
+
+> [T]he values that should figure in determining which option is best and so ought to be done out of a set of options are the values of what *would* be the case were the agent to adopt or carry out the option, where what would be the case includes of course what the agent would simultaneously or subsequently in fact do: the (relevant) value of an option is the value of what would in fact be the case were the agent to perform it.
+
+Jackson and Pargetter (1986: 244–245) maintain that there are different sets of options out of which different obligations arise. For instance, from the set of all $t_1$–$t_3$ act-sets available to Jones at $t_1$, the option with the highest value consists of the act-set that includes ⟨Jones’s voting for the language requirement⟩ at $t_3$. Therefore, out of the $t_1$–$t_3$ act-set, at $t_1$ Jones is obligated to ⟨go to the office, then go to the faculty meeting, and then vote for the language requirement⟩. This is because what would happen if this act-set were to occur is better than what would happen if some other $t_1$–$t_3$ act-set were to occur. But on the other hand, from the set of immediately performable acts available to Jones at $t_1$, the option with the highest value consists of Jones’ ⟨staying home⟩ because what would happen if Jones were to ⟨stay home⟩ is better than what would happen if Jones were to ⟨go to the office⟩. Therefore, out of the performable $t_1$ acts, at $t_1$ Jones is obligated to ⟨stay home⟩. Like (G), Jackson and Pargetter’s view does not assess an act’s deontic status in the procedural manner with which Goldman’s (G*1) or Sobel’s (S) assesses an act’s deontic status. Moreover, like (G), Jackson and Pargetter’s view implies the possibility of obligations that cannot be jointly fulfilled. We will henceforth refer to their view as contextualist actualism because what an agent is obligated to do depends on the set of options being considered within a certain context.
+
+### 3.4 Objections to Contextualist Actualism
+
+#### 3.4.1 Jointly unfulfillable obligations without obligation dilemmas
+
+The possibility of jointly unfulfillable obligations initially seems to imply the possibility of obligation dilemmas, i.e., scenarios in which all of the options available to an agent over time result in a failure to fulfill at least one obligation. But this is not the case given the assumption taken for granted in the actualist-possibilist debate: that agents have control over the truth-value of certain counterfactuals. In other words, agents can perform certain acts, and if they were to do so, then certain counterfactuals that are in fact true would instead be false. For example, Procrastinate can ⟨agree to review the paper & then write the review⟩. If she were to do this, then the following counterfactual that is false would be true instead: “If Procrastinate were to ⟨agree to review the paper⟩, then she would ⟨write the review⟩”. Moreover, if this counterfactual were true, then Procrastinate would not be obligated to ⟨decline to review the paper⟩. This is because, in this counterfactual scenario, what would follow from ⟨declining to review the paper⟩ would be worse than what would follow from ⟨agreeing to review the paper⟩.
+
+Jackson and Pargetter rightly conclude from this that Procrastinate can avoid violating *any* obligation because if Procrastinate were to do something that she can do, viz. ⟨agree to review the paper & then write the review⟩, then Procrastinate wouldn’t be obligated to ⟨decline to review the paper⟩ in the first place, and thus there would be no unfulfilled obligations (Jackson 1985: 194; Jackson & Pargetter 1986: 242–243; Louise 2009: 330; Jackson 2014: 636)[^jackson-1985][^jackson-2014][^jackson-1986][^louise-2009]. In this sense, according to contextualist actualism, the obligation to ⟨agree to review the paper & then write the review⟩ overrides the obligation to ⟨decline to review the paper⟩. More generally, at time *t* an agent can do something over time such that, if it were done, then their primary obligation would be fulfilled, and the agent would not have any unfulfilled obligations from *t* onwards. Jackson and Pargetter’s view is more similar to possibilism in comparison to standard formulations of actualism insofar as Jackson and Pargetter agree with possibilists about an agent’s obligation to perform the same maximal act-set. The difference between contextualist actualism and possibilism is that the former view affirms the existence of additional obligations that arise from sets of options that do not include this maximal act-set.
+
+Jackson and Pargetter (1986: 246–249) believe that incompatible prescriptions are objectionable only when they arise from the same set of alternatives. But their view never generates incompatible prescriptions out of the same set of alternatives. Out of the set of alternatives of ⟨agreeing to review the paper⟩ at $t_1$ or ⟨declining to review the paper⟩ at $t_1$, ⟨declining to review the paper⟩ is obligatory. But out of the $t_1$–$t_2$ alternatives available to Procrastinate at $t_1$, ⟨agreeing to review the paper and then writing the review⟩ is the obligatory option. Hence, according to contextualist actualism, as long as actualism does not prescribe incompatible obligations from the same set of alternatives, incompatible prescriptions are unproblematic. Still, one might object that their view is not action-guiding in the sense that their theory does not say whether the overriding obligation takes priority over the other obligations (cf. Jackson 2014: 636)[^jackson-2014].
+
+#### 3.4.2 The lumping problem
+
+By relativizing obligations to different sets of options, contextualist actualism is subject to the so-called lumping problem. This is the problem of lumping alternatives to an option *O* into a single alternative (not-*O*) (Wedgwood 2009 [Other Internet Resources, OIR]; Ross 2012; Cariani 2016)[^cariani-2016][^ross-2012]. Here is an example. Suppose that the following increasingly worse options are available to an agent *A*: ⟨go to work⟩, ⟨gamble at home⟩, ⟨kill someone at home⟩. Suppose furthermore that the following four counterfactuals are true.
+
+1. If *A* were to ⟨not go to work⟩, then *A* would ⟨kill someone at home⟩.
+2. If *A* were to ⟨not gamble at home⟩, then *A* would ⟨kill someone at home⟩.
+3. If *A* were to ⟨gamble at home⟩, then *A* would ⟨not kill someone at home⟩.
+4. If *A* were to ⟨go to work⟩, then *A* would ⟨not kill someone at home and would get valuable work done⟩.
+
+In that case, what would happen if *A* were to ⟨gamble at home⟩ is better than what would happen if *A* were to ⟨not gamble at home⟩. For, if *A* were to ⟨not gamble at home⟩, then *A* would ⟨kill someone at home⟩. Now, when we consider *A*’s options to be ⟨gambling at home⟩ or ⟨not gambling at home⟩, contextualist actualism implies that *A* ought to ⟨gamble at home⟩. This should seem very implausible, even by actualists’ own lights, because what would actually happen if *A* were to ⟨go to work⟩ is better than what would happen if *A* were to make any other choice at the time in question. Those who find this result counterintuitive have suggested that an obligatory act *O* must have a higher value than all of the non-supererogatory options available to the agent, rather than only having a higher value than not-*O*. In response to this worry, Jackson and Pargetter can remind us that it is also true that *A* ought to ⟨go to work⟩ out of a different set options, viz. ⟨going to work⟩, ⟨gambling at home⟩, and ⟨killing someone at home⟩.
+
+The relativization of obligations to different sets of options has led Jackson and Pargetter to reject the “ought distributes over conjunction” (ODC) principle (1986: 247). Recall that ODC holds that if an agent *S* ought to do both *A* and *B*, then *S* ought to do *A* and *S* ought to do *B* (Castañeda 1968: 141)[^castañeda-1968]. While they accept that Procrastinate ought to ⟨agree to review the paper & then write the review⟩, they deny that Procrastinate ought to ⟨agree to review the paper⟩. Similarly, their view implies that Jones ought to ⟨go to the office, then go to the faculty meeting, and then vote for the language requirement⟩. However, Jones ought not to ⟨go to the office⟩ since Jones ought to ⟨stay home⟩.
+
+### 3.5 Objections to All Forms of Actualism
+
+#### 3.5.1 Avoiding obligations merely by having a vicious moral character
+
+Goldman’s (G*1) and Sobel’s (S) enjoy the theoretical and practical virtue of simplicity by prescribing a single obligatory act sequence at a time rather than multiple, jointly unfulfillable prescriptions at a time. But this theoretical virtue comes at the cost of a possibilist objection: their views allow agents to avoid incurring moral obligations simply in virtue of having an imperfect moral character, and this allows agents to, morally speaking, get off the hook too easily (Jackson & Pargetter 1986: 240; Zimmerman 1996: 193–194, 2006: 156; Portmore 2011: 207; Baker 2012: 642–43; Timmerman 2015; Timmerman & Cohen 2016; Cohen & Timmerman 2016)[^baker-2012][^cohen-2016][^jackson-1986][^portmore-2011][^timmerman-2015][^timmerman-2016][^zimmerman-1996]. For example, Procrastinate avoids incurring an obligation to comment on a student’s paper simply because she is disposed to behave badly. Actualism is committed to this even in cases in which an agent is disposed to behave badly just because they intend to behave badly. But, possibilists claim, agents cannot avoid incurring an obligation to $\phi$ simply because they intend to $\phi$ poorly. More generally, possibilists claim that being disposed to do wrong does not allow one to avoid incurring obligations to do good.
+
+Proponents of (G*1) or (S) may retort by reminding us that this apparently problematic implication is the result of taking into account the relevant counterfactuals, and that not taking them into account is too costly. While Procrastinate’s ⟨agreeing to review the paper⟩ is part of the best act-set that she can perform over time, it is also part of the worst act-set that she can perform over time, and the worst act-set would be performed if Procrastinate were to ⟨agree to review the paper⟩ (Jackson & Pargetter 1986: 237)[^jackson-1986]. Similarly, Jones’ ⟨going to the office⟩ is part of the best act-set that she can perform over time, but it is also part of the worst act-set that she can perform over time, and the worst act-set would be performed if Jones were to ⟨go to the office⟩.
+
+Contextualist actualism can, in a sense, sidestep this possibilist objection since contextual actualists agree with possibilists that an agent ought to do the best that she can over time, and, in addition, they consider this obligation to override all other obligations in the aforementioned sense (Jackson 1985: 194; Jackson & Pargetter 1986: 242–243; Jackson 2014: 636)[^jackson-1985][^jackson-2014][^jackson-1986]. Possibilists may not be satisfied with this response. Since possibilists accept ODC, they infer that Procrastinate is obligated to ⟨agree to review the paper⟩ from the fact that Procrastinate is obligated to ⟨agree to review the paper & then write the review⟩. Contextualist actualism denies that Procrastinate is obligated to ⟨agree to review the paper⟩ at the cost of rejecting ODC.
+
+#### 3.5.2 Sanctioning bad behavior
+
+All of these versions of actualism face a second possibilist objection: they prescribe bad behavior that the agent can easily avoid (Wedgwood 2009 [OIR]; Ross 2012: 75–76)[^ross-2012]. For example, Procrastinate can easily avoid ⟨declining to review the paper⟩ by ⟨agreeing to review the paper⟩ and, once Procrastinate ⟨agrees to review the paper⟩, she can easily ⟨write the review⟩. Nevertheless, all of these versions of actualism maintain that Procrastinate should ⟨decline to review the paper⟩ rather than ⟨agree to review the paper⟩. Other extreme actualist-possibilist scenarios highlight the force of this objection. Suppose that the following act-set is the best one available to a mass murderer *M* at $t_1$: ⟨kill no one⟩ at $t_1$ and ⟨kill no one⟩ at $t_2$. Suppose, however, that the best immediately available option for *M* is ⟨killing someone at $t_1$⟩ because of the truth of the following two counterfactuals: “if *M* were to ⟨kill someone⟩ at $t_1$, then *M* would ⟨kill no one⟩ at $t_2$”, “if *M* were to ⟨kill no one⟩ at $t_1$, then *M* would ⟨kill ten people⟩ at $t_2$”. Possibilists claim that *M* should ⟨kill no one⟩ from $t_1$–$t_2$ and thus that *M* should ⟨kill no one⟩ at $t_1$. Actualists, however, claim that *M* should ⟨kill someone⟩ at $t_1$. Contextualist actualism at least allows one to say that although ⟨killing someone⟩ at $t_1$ is obligatory, doing this violates *M*’s obligation to ⟨kill no one⟩ from $t_1$–$t_2$. Goldman and Sobel’s versions cannot accommodate this appeasing judgment.
+
+It is worth noting that possibilism is thought to be subject to a related problem. While it doesn’t allow agents to avoid incurring moral obligations for having a vicious moral character, it does allow agents to avoid incurring moral obligations to curtail their vicious moral character (Timmerman and Swenson 2019)[^timmerman-2019]. To illustrate the problem, suppose that one of the optimific act-sets Apathetic Andy can perform over time includes ⟨playing video games tonight and donating his expendable income to charity tomorrow⟩. Andy is, however, quite apathetic. As such, he won’t ⟨donate his expendable income to charity tomorrow⟩ unless he first ⟨reads work by Peter Singer tonight⟩. If he ⟨plays video games tonight⟩, he will merely reinforce his selfish nature and ⟨use his expendable income to purchase more video games tomorrow⟩. Here’s the catch. The other optimific act-set Apathetic Andy can perform is to ⟨read work by Peter Singer tonight and donate his expendable income to charity tomorrow⟩. Moreover, if Andy ⟨reads work by Peter Singer tonight⟩, he would ⟨donate his expendable income to charity tomorrow⟩. Performing this optimific act-set won’t be pleasant for Andy, though, since he finds reading philosophy to be tedious. Here’s the problem. Possibilism renders the verdict that Andy is permitted to ⟨play video games tonight⟩, which would not only result in a suboptimal outcome, but also exacerbate (rather than curtail) his bad moral character. By contrast, actualism entails that Andy is obligated to improve his moral character by ⟨reading work by Peter Singer tonight⟩, and actualism thus ensures that Andy would ⟨donate his expendable income to charity tomorrow⟩. So, both possibilism and actualism seem to let agents with vicious moral characters off the hook too easily, albeit in different circumstances and in different ways.
+
+In the next section we will consider an additional objection to actualism that has led to the development of views that may be considered intermediaries of actualism and possibilism. According to these views, a counterfactual is relevant to an agent’s present obligation only if the agent presently lacks a specific kind of control over the truth-value of that counterfactual.
+
+## 4. Securitist Views
+
+Recall that the kinds of actualist-possibilist scenarios that we have been discussing—the cases of *Professor Procrastinate* and the case of *Jones*—are diachronic cases in the sense that they concern different acts that are performed across different moments of time, rather than at the same time. For example, in the case of *Professor Procrastinate*, one of the relevant counterfactuals is that if she were to ⟨agree to review the paper⟩ at $t_1$, then she would ⟨not write the review⟩ at $t_2$. The act in the antecedent and the act in the consequent are indexed to different times. On the surface, it may appear that a diachronic case would yield the same results as a synchronic case, i.e., a case that involves the performance of different acts at the same time. But as Goldman (1978) shows, a synchronic actualist-possibilist scenario yields new difficulties for actualism, including Goldman’s (1976) (G*1), and the way to address these difficulties is by incorporating a control condition over the truth-value of certain counterfactuals.
+
+### 4.1 A Synchronic Actualist-Possibilist Case
+
+Consider Goldman’s (1978: 186) case, which we’ll call *Traffic 1*:
+
+- *Traffic 1*: Jones is driving through a tunnel behind a slow-moving truck. It is illegal to change lanes in the tunnel, and Jones’ doing so would disrupt traffic. Nevertheless she is going to change lanes [at *t*]—perhaps she doesn’t realize it is illegal, or perhaps she is simply in a hurry. If she changes lanes without accelerating [at *t*], traffic will be disrupted more severely than if she accelerates. If she accelerates without changing lanes [at *t*], her car will collide with the back of a truck.
+
+According to Goldman, it seems that Jones should ⟨accelerate⟩ at *t* since Jones is going to ⟨change lanes⟩ at *t*, and ⟨accelerating & changing lanes⟩ at *t* would result in a better outcome than that of ⟨not accelerating & changing lanes⟩. But now consider this case:
+
+- *Traffic 2*: Everything that is true in *Traffic 1* is true in this case. Additionally, Jones would ⟨not accelerate⟩ at *t* if Jones were to either ⟨change lanes⟩ or ⟨not change lanes⟩ at *t*.
+
+In *Traffic 2* Jones ⟨changes lanes and doesn’t accelerate⟩ at *t*. It seems that Jones should ⟨not change lanes⟩ at *t* since she is going to ⟨not accelerate⟩ at *t*. But it also seems that Jones should ⟨accelerate⟩ at *t* since she is going to ⟨change lanes⟩. We have arrived at the verdict that in *Traffic 2* Jones should ⟨not change lanes⟩ and that Jones should ⟨accelerate⟩. This verdict is extremely counterintuitive since this would result in colliding with the back of the truck, which is the worst possible outcome.
+
+According to Goldman, the lesson to be gleamed from synchronic actualist-possibilist cases is this: In determining what we are obligated at *t* to do at *t*, we should not hold fixed facts about what we are freely doing at t. Moreover, such synchronic counterfactuals do not determine in any way what an agent is obligated to do at any time. Consequently, the kind of immediate act-set that is a candidate for being obligatory is the fully specific simultaneous act-set that is immediately available to Jones. A performable fully specific simultaneous act-set is one such that one cannot also perform any other act-set at the relevant time. Goldman (1978: 190) calls such act-sets maximal conjunctive acts, but this entry will stick with the terminology of a *fully specific simultaneous act-set* in order to avoid ambiguation with other notions of act-sets at issue in this paper. Let’s suppose that the (immediate) fully specific simultaneous act-sets available to Jones are ranked from best to worst as follows.
+
+1. ⟨Don’t change lanes & don’t accelerate⟩
+2. ⟨Change lanes & accelerate⟩
+3. ⟨Change lanes & don’t accelerate⟩
+4. ⟨Don’t change lanes & accelerate⟩
+
+According to Goldman, given options (1)–(4), Jones should obviously perform (1). Moreover, notice that *if* Jones were to perform (1), then the following synchronic counterfactual that is in fact true in *Traffic 2* would be false instead: “if Jones were to ⟨not accelerate⟩ at *t*, then at *t* Jones would ⟨change lanes⟩”. So, given the intuition that Jones is obligated to perform (1) and that doing so would alter the truth-value of certain synchronic counterfactuals, we should not hold fixed the truth-value of such synchronic counterfactuals when theorizing about an agent’s obligation to perform some immediate fully specific simultaneous act-set. To accommodate this judgment, Goldman’s (1978) revised view incorporates a control condition over the truth-value of such synchronic counterfactuals.
+
+### 4.2 Fully Specified Immediate Options
+
+Goldman’s revised view still adopts the insight behind (G*1) that, in order to avoid the possibility of jointly unfulfillable obligations, an obligatory act-set (or, as Goldman calls it, a sequence of acts) must be such that it would occur if the agent were to immediately perform the first act of the act-set, and the agent can perform this first act of the act-set. Goldman’s revised view (1978: 202) is referred to as “4”, but we will refer to it as (G+) here:
+
+**(G+)**
+
+*S* ought at $t_1$ to perform maximal sequence *X* starting at $t_1$ if and only if *S* has the ability at $t_1$ to perform *X*, and *X* is better than any alternative maximal sequence starting from $t_1$ which *S* also has the ability at $t_1$ to perform.
+
+Unlike (G*1) , Goldman’s revised view requires the first act to be a fully specific simultaneous act-set. Moreover, the kind of act-set that should be directly assessed is a *maximal* sequence. *S* has the ability at $t_1$ to perform *X* only if *S* has the ability at $t_1$ to immediately (at $t_1)$ perform the first fully specific simultaneous act-set in $X.$ Goldman’s (1978: 201) notion of a maximal sequence is different from the possibilist’s aforementioned notion of a maximal act-set which extends to the end of one’s life. For, according to Goldman (1978: 193–195), at *t* an agent can perform an act-set over time if and only if, if at *t* the agent wanted to perform this act-set, then the agent would do so over time. This implies that the performable act-set over time must be such that the agent can, at *t*, form an intention to perform this act-set over time that would be causally efficacious if the intention were formed. Goldman’s notion of a maximal sequence is thus more restricted. That is, a maximal sequence *X* is an act-set available to an agent at *t* is such that, at *t*, the agent can form an intention to perform *X*, and no other act-set that at *t* the agent can intend to perform is a proper part of *X*. So, henceforth, we will refer to Goldman’s notion of a maximal sequence as an *intentionally maximal act-set*, and this is to be distinguished from a maximal act-set.
+
+Recall that, according to *Ability 2*, an agent *S* has the ability to immediately perform the first fully specific act-set in an intentionally maximal act-set if and only if *S* would perform this fully specific act-set if *S* wanted to do so, and by extension we may assume Jones can perform each of (1)–(4). Under this assumption, (G+) implies that although Jones would ⟨change lanes⟩ if she were to ⟨not accelerate⟩, Jones nevertheless ought to do something that requires her to ⟨not accelerate⟩, viz. ⟨not change lanes & not accelerate⟩. To see how (G+) differs from the versions of actualism in section 3, consider the following version of *Professor Procrastinate*:
+
+- *Professor Procrastinate**: If Procrastinate were to ⟨accept the request⟩ at $t_1$, then Procrastinate would do so by deciding at $t_1$ to harm the student by falsely promising to review at $t_2$. So if Procrastinate were to ⟨accept the request⟩ at $t_1$, then she would ⟨not comment⟩ at $t_2$. However, Procrastinate can ⟨accept and comment⟩ by deciding at $t_1$ to do so. Moreover, if Procrastinate were to do this, then it would be true that if Procrastinate were to ⟨accept the request⟩ at $t_1$, then she would ⟨comment⟩ at $t_2$ (cf. Portmore 2011: 204)[^portmore-2011].
+
+According to (G+) Procrastinate is obligated at $t_1$ to perform an intentionally maximal act-set *M* that includes ⟨accepting the request and commenting⟩ because there is an immediate fully specific act-set available to Procrastinate at $t_1$ such that if it were performed then *M* would occur, and *M* is the best intentionally maximal act-set that is securable for Procrastinate at $t_1$. By contrast, according to (G*1) Procrastinate is obligated at $t_1$ to ⟨not accept the request⟩ because this would result in the performance of act-set *M** that includes ⟨not commenting⟩ at $t_2$, and *M** is better than the act-set *M*** that would occur if Procrastinate were to ⟨accept the request⟩ at $t_1$ because *M*** includes ⟨accepting & not commenting⟩.
+
+One might suspect that a modified version of (G*1) that focuses exclusively upon decisions rather than overt bodily acts can handle synchronic actualist-possibilist cases, such as *Professor Procrastinate**. But this isn’t so because it is possible for the following two counterfactuals to be true:
+
+1. If Procrastinate were to ⟨decide to accept the request⟩ at $t_1$, then she would ⟨decide to both accept the request & not comment⟩.
+2. If Procrastinate were to ⟨decide to both accept the request & comment⟩ at $t_1$, then she would ⟨accept the request & comment⟩.
+
+Even though (i) is true, the best thing that Procrastinate can do involves ⟨deciding to accept the request⟩, viz. ⟨deciding to accept the request & commenting⟩ at $t_1$. This shows that whether we assess an agent’s obligations in terms of decisions or overt bodily acts, the acts that are to be directly assessed are fully specific simultaneous act-sets, which is precisely what (G+) accomplishes.
+
+Contextualist actualism and Goldman’s provisional but rejected principle (G) similarly imply that Jones is obligated at $t_1$ to perform (1) rather than any of (2)–(4) since these views *permit* a candidate obligatory act to be fully specific. But these views do not *require* a candidate obligatory act to be fully specific, and thus these views also have the peculiar implication that in *Traffic II* Jones is obligated to ⟨accelerate⟩ and Jones is obligated to ⟨not change lanes⟩.
+
+### 4.3 Kinds of Control Over Immediate Options
+
+Thus far, we have seen that synchronic actualist-possibilist cases suggest that, first and foremost, an agent has an obligation to perform a fully specific immediate act rather than a less-than-fully-specific immediate act. As a result, synchronic counterfactuals do not even partly determine an agent’s obligation to perform some fully specific immediate act. This still leaves open a question about the ability that an agent must possess in order to be able to perform some immediate (fully specific) act in the relevant sense. Goldman’s (1978: 195, 204–205) *Ability 2*, for instance, is a version of the conditional analysis of abilities. The conditional analysis of abilities remains suspect by some on the grounds that an agent does not have direct control over their desires. Given this, one may infer that facts about what an agent would do if she had different desires is irrelevant to her abilities (Lehrer 1968; Curran 1995: 82)[^curran-1995][^lehrer-1968]. Nevertheless, since many participants in the actualist-possibilist debate take for granted that the ability to do otherwise is compatible with facts about what an agent will do or would do under certain circumstances, a number of people have followed Goldman (1978) by taking the relevant kind of control to be one that does not hold fixed all facts about the agent’s psychological makeup. See, for instance, the views of Doug Portmore (2011) and Jacob Ross (2012).
+
+Portmore (2011) understands the relevant kind of control an agent must have over an option in terms of *scrupulous securability*. A set of acts (i.e., an act-set) is scrupulously securable by an agent only if there is some set of intentions and some set of permissible background attitudes (including beliefs and desires), such that if the agent had these intentions and attitudes, then the agent would perform that act-set (2011: 165). The sorts of attitudes Portmore (2011: 167) has in mind are judgment-sensitive attitudes, i.e., attitudes that are sensitive to judgments about reasons (Scanlon 1998: 20)[^scanlon-1998].
+
+This form of control is similar to the conditional analysis insofar as the agent does not need to possess the relevant intentions and attitudes required to perform an act in order to have an ability to perform that act. It just has to be the case that if the agent were to have such intentions and attitudes, then the agent would perform the relevant act. Portmore’s (2011: 166–167) exact account of control is as follows:
+
+> A set of acts, $α_j$, is, as of $t_i$, scrupulously securable by *S* if and only if there is a time, $t_j$, that either immediately follows $t_i$ or is identical to $t_i$, a set of acts, $α_i$, (where $α_i$ may, or may not, be identical to $α_j$), and a set of background attitudes, *B*, such that the following are all true: (1) *S* would perform $α_j$ if *S* were to have at $t_i$ both *B* and the intention to perform $α_i$; (2) *S* has at $t_i$ the capacity to continue, or to come, to have at $t_j$ both *B* and the intention to perform $α_i$; and (3) *S* would continue, or come, to have at $t_j$ *B* (and, where $α_i$ is not identical to $α_j$, the intention to perform $α_i$ as well) if *S* both were at $t_i$ aware of all the relevant reason-constituting facts and were at $t_j$ to respond to these facts/reasons in all and only the ways that they prescribe, thereby coming to have at $t_j$ all those attitudes that, given those facts, she has decisive reason to have and only those attitudes that she has, given those facts, sufficient reason to have.
+
+Portmore (2011: 177) understands a set of acts $α_j$ to be a maximal act-set in a similar vein to both a possibilist’s notion of a maximal act-set and Sobel’s notion of a life. The set of acts “$α_i$” is not identical to “$α_j$” when, e.g., one lacks the ability at $t_j$ to form an intention to perform “$α_j$”, although the agent would in fact perform $α_j$ if the agent were to form at $t_j$ the intention to perform $α_i$. For example, earning a PhD may be presently scrupulously securable for an agent, although she is presently unable to form an intention to do all of the things that are required to attain a PhD at least because she cannot presently intend to write about an idea in her dissertation that she has not yet studied (Portmore 2011: 169)[^portmore-2011]. So, whenever $α_j$ and $α_i$ are not identical, part (1) says that *S* would perform some act-set if *S* were to intend to perform some other act-set (along with certain background attitudes).
+
+Part (2) of the above definition states that an agent must have a capacity (or an ability) to have certain attitudes and intentions. This allows one to sidestep the difficulties that have been posed for the conditional analysis of abilities (cf. Portmore 2011: 168)[^portmore-2011]. Part (3) states that the agent’s attitudes must be permissible. To illustrate, suppose that the only way in which Doug can ensure at 2 pm that he will eat a healthy meal rather than pizza at 6 pm is by having the irrational belief that his life depends upon eating a healthy meal at 6 pm. Since it seems that he is not obligated to have such a belief, it follows that, at 2 pm, Doug is not obligated to eat a healthy meal at 6 pm since there is no combination of intentions and permissible attitudes (as opposed to impermissible attitudes) that Doug can have at 2 pm, such that if he were to have them at 2 pm then he would eat a healthy meal at 6 pm (Portmore 2011: 164–165)[^portmore-2011].
+
+Portmore (2011: 222) pairs this notion of control with the following account of rational permissibility that applies to moral permissibility when there are moral reasons to act:
+
+- **Securitism:** It is, as of $t_i$, objectively rationally permissible for *S* to perform a non-maximal set of acts, $α_j$, beginning at $t_j (t_i \lt t_j)$, if and only if, and because, at least one of the objectively rationally permissible maximal sets of acts that are, as of $t_i$, scrupulously securable by *S* involves *S*’s performing $α_j$.
+
+Securitism employs a top-down approach by using normative principles to directly assess the deontic status of maximal act-sets and then extending the same deontic status to non-maximal act-sets that are contained in the relevant maximal act-set (Portmore 2011: 179)[^portmore-2011]. This approach reaps the benefits of Goldman’s (G+) of avoiding jointly unfulfillable obligations and of denying that any synchronic counterfactuals even partly determine an agent’s obligations.
+
+Portmore’s securitism—and by extension other views that hold fixed facts that are not presently up to the agent in some sense—has been criticized on the grounds that it does not generate an obligation to do the best one can in the sense at issue in *Ability 1*, and thus securitism sometimes requires agents to perform terrible and vicious acts, and it allows one to avoid incurring an obligation in light of vicious or immoral dispositions (Timmerman 2015; Vessel 2016)[^timmerman-2015][^vessel-2016].
+
+Ross (2012: 84) similarly maintains that an agent can immediately perform an act that requires some attitude that the agent does not in fact have, although Portmore’s and Ross’s views diverge in certain cases. Here is Ross’s view (2012: 91):
+
+- **Momentwise Wide-scope Securitism (MWSS):** For any *x* and *t*, at *t*, *x* ought to be such that, for all $t'$ from *t* forward, *x* satisfies the following conditional: For all $\Phi$, if whether *x* $\Phi$s does not causally depend on the intentions *x* has after $t'$, and if every maximally preferable option that is directly securable for *x* at $t'$ involves $\Phi$-ing, then *x* $\Phi$s.
+
+In essence, MWSS is the view that “at any given time, an agent is obligated, at every future time, to be currently satisfying a wide-scope version” of Smith’s (G+) or Portmore’s securitism (Ross 2012: 91)[^ross-2012]. Ross believes that only MWSS can account for each of the four conditions of his core idea (2012: 89, 91).
+
+- **The Core Idea Broken Down:** What is obligatory for an agent is that, (i) *at all times*, she does (ii) *the best she can do* at that time, (iii) *holding fixed what is not up to her at that time*, but (iv) *not holding fixed what is up to her* at that time.
+
+To see how these views diverge, consider the following case which is similar to a case described by Ross (2012: 87–88): at $t_1$ Sally has the ability to immediately form an intention to ⟨not kill anyone five years later at $t_5$⟩, although ⟨killing no one at $t_5$⟩ is not scrupulously securable for Sally at $t_1$. On the other hand, killing exactly one person or killing exactly two persons at $t_5$ are both scrupulously securable for Sally at $t_1$. According to Portmore’s securitism, one of the objectively morally permissible maximal set of acts that is scrupulously securable by Sally at $t_1$ involves killing one person at $t_5$. However, at $t_5$, not killing anyone is scrupulously securable for Sally, and thus at $t_5$ Sally is obligated to not kill anyone at $t_5$. These stipulations in Ross’s case are derived from the fact that at $t_1$ Sally has an impeccable moral character that will be corrupted through no fault of her own (by being kidnapped by Satanists). But her moral character is not corrupted to such an extent that she is unable at $t_5$ to refrain from killing anyone. To emphasize, at $t_1$ the best efficacious intention that Sally can form involves killing one person at $t_5$ whereas at $t_5$ the best efficacious intention that Sally can form involves killing no one at $t_5$. Portmore’s securitism thus prescribes an act at some future time, but then does not prescribe that act once that time is present.
+
+Ross (2012: 87–89) wishes to avoid this implication. MWSS does not imply that at $t_1$ Sally is obligated to kill exactly one person at $t_5$ because whether Sally kills exactly one person at $t_5$ causally depends upon her intentions at $t_1$. So, Sally satisfies the following conditional by not satisfying the first part of the antecedent: (if whether Sally refrains from killing exactly one person at $t_5$ does not causally depend on the intentions she will have after $t_1$, and if all her maximally preferable, directly securable options involve killing exactly one person at $t_5$, then she kills exactly one person at $t_5)$. Instead, MWSS implies that at $t_1$ (and at $t_5)$ Sally is obligated not to kill anyone because she satisfies the following conditional only by satisfying its consequent: (if whether Sally kills no one at $t_5$ does not causally depend on the intentions she will have after $t_5$, and if all her maximally preferable, directly securable options involve not killing anyone at $t_5$, then she kills no one at $t_5)$.
+
+A proponent of securitism may reply that there’s simply nothing Sally can do at $t_1$ that allows her to secure not killing anyone at $t_5$, and thus having an obligation at $t_1$ not to kill anyone at $t_5$ concedes too much to possibilism. For, one of the core intuitions driving securitist views is that we should treat our non-securable futures in the same way we treat the futures of other agents; we should hold such futures fixed when determining our present moral obligations. This thought has led to an expansive discussion of the way in which actualist-possibilist scenarios raise fundamental questions about agency and how we are to conceive of our present selves in relation to our future selves (Louise 2009; Baker 2012)[^baker-2012][^louise-2009].
+
+## 5. Non-Primary Obligations
+
+The discussion up until this point has centered around making sense of the general notion that an agent ought to do the (non-supererogatory) best that she is able to do. But some theories hold that an agent’s moral life is more complex than this because an agent’s ability to do less than the (non-supererogatory) best is also obligatory is some non-primary sense. This approach is motivated in part by the thought that some wrong actions are better than others. Michael McKinsey (1979: 391–392) develops this approach, defending a view with multiple levels of obligation. His view may be formulated as follows:
+
+- **Levels of Obligation (LO):** $\phi_{x,t}$ is a life sequence from *t* for *x*. Every $\phi_{x,t}$ has a rank $n (n \ge 1)$ relative to every other life-sequence from *t* for *x*, where *n* is a positive integer. If $\phi_{x,t}$ is among the optimum life sequences from *t* for *x*, then the rank of $\phi_{x,t} = 1$; if $\phi_{x,t}$ is among the second best such sequences, then the rank of $\phi_{x,t} = 2$; and so on. *x* ought$_n$ at *t* to do $A_i$ *iff*:
+- $A_i$ is contained in every $\phi_{x,t}$ of rank *n*.
+- For every $\phi_{x,t}$ which has a rank *m* higher than *n* (i.e., where $m \lt n)$, there is an $A_j$ such that $\phi_{x,t}$ contains $A_j$ and *x* will not do $A_j$.
+
+While McKinsey’s formulation of (LO) is rather complicated, the basic idea is quite simple. According to (LO), an agent *S*’s primary obligation is identical to the obligation that possibilists believe *S* has. Additionally, for every maximal act-set *M* (or a life) that, at *t*, *S* can perform, if *M* is not identical to the best maximal act-set that, at *t*, *S* can perform, but is better than the maximal act-set that *S* will in fact perform, then at *t* *S* has a moral obligation to perform *M*. To illustrate, consider this case:
+
+- *The Buttons*: At *t* Ben can both press and refrain from pressing any of the three buttons in front of him, and doing any of these things comes at little to no cost to Ben. Pressing no button results in no deaths, pressing the first button results in one death, pressing the second button results in two deaths, and pressing the third button results in three deaths. Suppose that Ben presses the third button, resulting in three deaths.
+
+(LO) implies that there are three levels of obligations that Ben fails to fulfill: his primary obligation to refrain from pressing any button, his secondary obligation to press the first button, and his tertiary obligation to press the second button. If Ben were to instead press the second button, then Ben would have failed to fulfill only two obligations, viz. the primary obligation to refrain from pressing a button, and the secondary obligation to press the first button.
+
+McKinsey’s (LO) is, in one sense, in agreement with possibilism because an agent’s primary obligation is identical to a possibilist obligation. Moreover, even though (LO) can generate jointly unfulfillable obligations, (LO) agrees with Jackson and Pargetter’s contextualist actualism that if, in the terminology of (LO), an agent fulfills her primary obligation, then it’s not the case that the agent violates any non-primary obligations because the agent simply does not have any non-primary obligations. For example, if Ben refrains from pressing any button, then according to (LO) it’s not the case that Ben had a secondary obligation to press the first button, and thus no non-primary obligations are violated. McKinsey’s (LO) is, in a sense, also in agreement with (non-contextualist) versions of actualism. For example, Procrastinate’s obligation according to non-contextualist versions of actualism is to ⟨decline to review the paper & not review the paper⟩, and, according to McKinsey, this is Procrastinate’s secondary obligation because this act-sequence is the second best maximal act-sequence (or a part of the second best maximal act-sequence) that Procrastinate can perform over time.
+
+Goldman (1978: 205–208) holds that there are exactly two orders of obligations, one primary and one secondary, and that it is better to fulfill one’s secondary obligation rather than to violate both obligations. Primary obligations are governed by Goldman’s (G+), and secondary obligations are governed by principles such as Goldman’s (1976) (G*1) which, as we have seen in section 4, does not take into account an agent’s moral character that determines the truth-value of certain synchronic counterfactuals. For example, in the case of *Professor Procrastinate**, Procrastinate’s primary obligation is to ⟨agree to review the paper & review the paper⟩ because there is an immediately performable, fully specific simultaneous act-set such that, if performed, would result in ⟨agreeing & reviewing the paper⟩. By contrast, Procrastinate’s secondary obligation is to ⟨decline to review the paper & not review the paper⟩ because Procrastinate’s moral character is such that if Procrastinate were to ⟨agree to review⟩ at $t_1$, then Procrastinate would harm the student by falsely promising to review at $t_2$. Procrastinate’s moral character is taken into account by her secondary obligation, but not her primary obligation. As Goldman (1986: 205) notes, it is sometimes useful to reason in a way that holds fixed our actual moral character, and positing secondary obligations allows us to reason in this way. Zimmerman (1986: 70) also subscribes to non-primary obligations and motivates this position in part on the basis of considerations about detachment and conditional obligations.
+
+## 6. The Maximalism/Omnism Debate
+
+The issues raised by the actualist/possibilist debate are relevant for a number of other debates in philosophy as well. As has already been discussed, whether actualism, possibilism, or some intermediary view is correct has direct import for various principles in deontic logic, the correct formulation of act-consequentialism, and for analogous questions in the philosophy of action. The actualism/possibilism debate, however, is perhaps most closely connected to the maximalism/omnism debate. These debates are deeply interrelated. While both concern questions about the scope of the agent’s options, the maximalism/omnism debate focuses on certain questions about how to assess these options. Maximalists and omnists disagree about whether all options should be assessed in terms of their own goodness, or whether some options should be assessed in relation to the goodness of other options. Maximalists and omnists disagree about which facts ground the reasons to perform the relevant options and, as will be illustrated shortly, are concerned with a wider range of cases than those in the actualism/possibilism debate.
+
+The maximalism/omnism debate concerns cases where the performance of one option entails (or implies) the performance of another. Cases such as *Professor Procrastinate* are but one example. Procrastinate’s ⟨accepting the invitation and writing the review⟩ entails ⟨accepting the invitation⟩. Not all examples share Procrastinate’s structure, however. Many examples concern different ways of performing the same option in different (e.g., more or less precise, better or worse) ways. For instance, ⟨drinking a Coke⟩ entails ⟨drinking a soda⟩, ⟨visiting Uppsala⟩ entails ⟨visiting Sweden⟩, and ⟨kicking someone very hard⟩ entails ⟨kicking someone⟩.
+
+Now, the central question in the debate concerns how the moral properties of an option *O* are related to the moral properties of the options entailed by performing *O*. This abstract question can be made clearer by considering an example. Suppose that I have good reason to ⟨drink a soda⟩ and good reason to ⟨drink a Coke⟩. Those in the maximalism/omnism debate are interested in whether the reason I have for performing one these options grounds the reason I have for performing the other. Is it the case that I have reason to ⟨drink a soda⟩ in virtue of my having reason to ⟨drink a Coke⟩ or vice versa? Or is there no grounding relation between my reason(s) to perform these options?
+
+Omnists hold that all options should be directly assessed in terms of their own goodness. Omnism may be defined more precisely as follows.
+
+- **Omnism:** All permissible options are permissible in virtue of having right-making property *p*. The property *p* is right-making not only for all maximal options, but also for all non-maximal options. (Portmore 2017a: 431)[^portmore-2017a]
+
+In this debate, a maximal option is simply understood as one that is not entailed by any other option, aside from itself (Brown 2018: 752)[^brown-2018]. More precisely, a maximal option may be understood as “an option that is maximally normatively specific in the sense that it is entailed only by normatively equivalent options”, where two options are normatively equivalent if and only if they are equivalent in terms of all of the normatively relevant considerations (Portmore 2017a: 428, 2017b: 2955)[^portmore-2017a]. Any option that is not a maximal option will be a non-maximal option.
+
+To illustrate, suppose that hedonistic act-utilitarianism is true. To keep things simple, suppose that the maximal options available to an agent *S* are ⟨drink a Coke⟩, ⟨drink nothing while smiling⟩, ⟨drink nothing while frowning⟩, and ⟨drink a Pepsi⟩. Suppose furthermore that ⟨drinking a Coke⟩ would generate 5 hedons, ⟨drinking nothing while smiling⟩ would generate 1 hedon, ⟨drinking nothing while frowning⟩ would generate 0 hedons, and ⟨drinking a Pepsi⟩ would generate 10 dolors (or −10 hedons). The non-maximal options available to *S* include ⟨drinking a soda⟩ and ⟨drinking nothing⟩. Finally, suppose that the following counterfactuals are true.
+
+1. If *S* were to ⟨drink a soda⟩, *S* would ⟨drink a Pepsi⟩.
+2. If *S* were to ⟨drink nothing⟩, *S* would ⟨drink nothing while smiling⟩.
+
+According to omnism, whether it is permissible for *S* to ⟨drink a soda⟩ depends on whether ⟨drinking a soda⟩ would result in maximizing hedonic utility. Given the truth of (1), it wouldn’t, so omnism entails that ⟨drinking a soda⟩ is wrong. Likewise, according to omnism, whether it is permissible for *S* to ⟨drink a Coke⟩ depends on whether *S*’s ⟨drinking a Coke⟩ would result in maximizing hedonic utility. It does, so omnism entails that ⟨drinking a Coke⟩ is permissible (and obligatory).
+
+Unlike omnists, maximalists hold that only maximal options should be assessed in terms of their own goodness. They believe that all non-maximal options should only be assessed in terms of the goodness of the relevant maximal options of which they are a part. Maximalism may be defined more precisely as follows.
+
+- **Maximalism:** Not all permissible options are permissible in virtue of having right-making property *p*. (Max$_1$) *p* is right-making for all and only maximal options, but (Max$_2$) the property of being entailed by a maximal option that has *p* is right-making for all and only non-maximal options (Portmore 2017a: 429)[^portmore-2017a].
+
+Assuming hedonistic act-utilitarianism once again, according to maximalism, the deontic status of the maximal options depends on the outcome of performing each option. According to maximalism, then, ⟨drinking a Coke⟩ would be obligatory and every other maximal option would be impermissible. So, with respect to maximal options, maximalism and omnism generate the same deontic verdicts. But now consider what maximalists say about non-maximal options. This is the point of contention between maximalists and omnists. By contrast with the omnist’s ascription of wrongness to ⟨drinking a soda⟩, the maximalist holds that ⟨drinking a soda⟩ is obligatory. This is because the obligatory maximal option is ⟨drink a Coke⟩ and *S* cannot perform the maximal option of ⟨drinking a Coke⟩ without performing the non-maximal option of ⟨drinking a soda⟩. The non-maximal act ⟨drink nothing⟩, on the other hand, is entailed by an impermissible act, namely ⟨drink nothing while smiling⟩. So, maximalism entails that ⟨drinking nothing⟩ is impermissible.
+
+Interestingly, omnism has typically been assumed in the literature. It may have only operated as an unquestioned background assumption until the groundbreaking work of Bergström (1966) and Castañeda (1968). Goldman (1978) and Bykvist (2002) defend distinct variants of maximalism. Since then, there have been a few arguments against maximalism (cf. Gustafsson 2014)[^gustafsson-2014]. Omnism seems to be considered the default position, though new arguments against omnism and in favor of maximalism have started to appear in the literature recently (Portmore 2017a,b, forthcoming; Brown 2018)[^brown-2018][^portmore-2017a]. Much of the debate revolves around the*Problem of Act Versions*. Following Brown (2018: 754) and Portmore (forthcoming: ch. 4), this problem may be explained by considering the following three jointly inconsistent principles.
+
+**(1)**
+
+An agent *S* ought to perform an act $\phi$ if and only if $\phi$-ing is her best option.
+
+**(2)**
+
+Rule **(NI)** If ${\vdash} A \rightarrow B$ then ${\vdash} \rO(A) \rightarrow \rO(B)$
+
+**(3)**
+
+Optimality is *not* closed under implication.
+
+Each of these principles seems quite plausible when considered in isolation. Principle (1) simply holds that an agent ought to perform the best option available to her. Assuming hedonistic act-utilitarianism, the best option(s) will be whichever one(s) maximize(s) hedonic utility. Principle (2) holds that if an agent is obligated to perform $\langle A \rangle$ and her performing $\langle A \rangle$ entails her performing $\langle B \rangle$, then she is obligated to perform $\langle B \rangle$. So, if an agent is obligated to ⟨drink a Coke⟩ and ⟨drinking a Coke⟩ entails ⟨drinking a soda⟩, then that agent is obligated to ⟨drink a soda⟩.
+
+Principle (3) holds that there are cases where an agent *S*’s obligatory option (e.g., a maximal option) entails another option (e.g., a non-maximal option) that, if performed, would *not* result in *S* performing the obligatory maximal option. Performing the best option of ⟨drinking a Coke⟩ entails that *S* ⟨drink a soda⟩. But what would in fact happen if *S* were to ⟨drink a soda⟩ is that *S* would ⟨drink a Pepsi⟩ and ⟨drinking a Pepsi⟩ is not *S*’s best option. That is, in fact, the worst option.
+
+Maximalists have objected to omnism on the grounds that it, in conjunction with (2) and (3), entails a contradiction (Portmore forthcoming: ch. 4). Given omnism, *S* is obligated to ⟨drink a Coke⟩ because performing that act is *S*’s best option. *S*’s ⟨drinking a Coke⟩ entails *S*’s ⟨drinking a soda⟩. So, given (2), *S* is also obligated to ⟨drink a soda⟩. However, recall that this case illustrates principle (3). If *S* were to ⟨drink a soda⟩, *S* would ⟨drink a Pepsi⟩. Given this, ⟨drinking a soda⟩ would not result in *S* performing her best option. So, omnism also entails that it is impermissible for *S* to ⟨drink a soda⟩. Hence the contradiction. Omnism combined with (2) and (3) entail both that *S* is obligated to ⟨drink a soda⟩ and that it’s impermissible for *S* to ⟨drink a soda⟩. To avoid this contradiction, omnists must give up (2) or (3). Omnists such as Jackson and Pargetter have given up (2).
+
+Maximalists reject omnism, which allows them to consistently accept (2) and (3), principles thought to have strong independent motivation. Maximalists, then, give up (1) to avoid the contradiction. According to the maximalist, sometimes agents are obligated to perform non-maximal options (e.g., ⟨drink a soda⟩) that are not their best option in virtue of the fact that they are obligated to perform their best maximal option (e.g., ⟨drink a Coke⟩) and performing their best maximal option entails performing a suboptimal non-maximal option. In short, the maximalist responds to the *Problem of Act Versions* by giving up (1), while omnists respond by giving up (2). As may already be clear, some motivations for, and against, omnism parallel those of actualism, while some motivations for, and against, maximalism parallel those of securitism and possibilism. Whichever considerations settle one of these debates will likely settle (or at least significantly bear on) the other.
+
+## 7. Conclusion
+
+The actualism/possibilism (and the maximalism/omnism) debate in ethics grew out of a debate concerning the problem that identifying act alternatives poses for act-consequentialism. The debate, in its present form, may be traced back to the work of Holly Goldman’s and Jordan Howard Sobel’s independent articulations, and defenses of, actualism. Early forms of actualism held that whether an agent is obligated to perform an act roughly depends on whether what *would* happen if the agent performed that act is better than what would happen if the agent were to perform any alternative act at the time in question. Contrast this with possibilism, which holds that whether an agent is obligated to perform an act depends on whether that act is part of the best maximal act-set the agent *could* (not *would*) perform over the course of her life. These are the “extreme” versions of actualism and possibilism respectively. To handle cases concerning synchronic acts, and to avoid having her view prescribe incompatible obligations, Goldman amended actualism by building a control condition into the definition in her (1978) essay. This revised actualism, (G+), along with Sobel’s (S), only holds fixed the acts of an agent that are not presently under the agent’s control. This change proved influential and inspired various versions of this view, which came to be collectively referred to as securitism. Securitist views occupy a middle ground between “extreme” forms of actualism and possibilism. A variety of other views do too, including McKinsey’s (1979) levels-of-obligation view and Carlson’s (1995, 1999) view. There is not yet a consensus about which view, if any, is the most plausible. Of course, this should not be surprising since the actualism/possibilism (and the maximalism/omnism) debate is, relatively speaking, still quite new.
+
+## References（引用注释）
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+## Academic Tools
+
+> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=actualism-possibilism-ethics). |
+> | --- | --- |
+> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/actualism-possibilism-ethics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=actualism-possibilism-ethics&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/actualism-possibilism-ethics/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+- Wedgwood, Ralph, 2009, “ [Against Actualism](http://peasoup.typepad.com/peasoup/2009/09/against-actualism.html)”, *PEA Soup*, posted on 11 September 2009; accessed on 24 June 2018.
+
+## Related Entries
+
+action | choice, dynamic | consequentialism | consequentialism: rule | logic: deontic
+
+### Acknowledgments
+
+We wish to thank Andrew Forcehimes, Doug Portmore, and Holly Smith for very helpful input on earlier versions on this entry. Work on this entry was sponsored by a University Research Council grant from Seton Hall University and a grant from the National Endowment for the Humanities. This work is the product of full and equal collaboration between its authors.
+
+[^almeida-1992]: Almeida, Michael J., 1992, “The Paradoxes of Feldman’s Neo-Utilitarianism”, *Australasian Journal of Philosophy*, 70(4): 455–468. doi:10.1080/00048409212345331
+
+[^åqvist-1969]: Åqvist, Lennart, 1969, “Improved Formulations of Act-Utilitarianism”, *Noûs*, 3(3): 299. doi:10.2307/2214553
+
+[^baker-2012]: Baker, Derek, 2012, “Knowing Yourself–And Giving Up On Your Own Agency In The Process”, *Australasian Journal of Philosophy*, 90(4): 641–656. doi:10.1080/00048402.2011.617761
+
+[^bales-1972]: Bales, Eugene, 1972, “Utilitarianism, Overall Obligatoriness and Deontic Logic”, *Analysis*, 32(6): 203–205. doi:10.1093/analys/32.6.203
+
+[^bergström-1966]: Bergström, Lars, 1966, *The Alternatives and Consequences of Actions: An Essay on Certain Fundamental Notions in Teleological Ethics*, Stockholm: Almqvist & Wiksell.
+
+[^bergström-1968a]: –––, 1968a, “Discussion: Alternatives and Utilitarianism”, *Theoria*, 34(2): 163–170. doi:10.1111/j.1755-2567.1968.tb00348.x
+
+[^bergström-1968b]: –––, 1968b, “Utilitarianism and Deontic Logic”, *Analysis*, 29(2): 43–44. doi:10.1093/analys/29.2.43
+
+[^bergström-1971]: –––, 1971, “Utilitarianism and Alternative Actions”, *Noûs*, 5(3): 237. doi:10.2307/2214666
+
+[^bergström-1973]: –––, 1973, “On the Coherence of Act-Utilitarianism”, *Analysis*, 33(3): 98–102. doi:10.1093/analys/33.3.98
+
+[^bergström-1976]: –––, 1976, “On the Formulation and Application of Utilitarianism”, *Noûs*, 10(2): 121–144. doi:10.2307/2214572
+
+[^brown-2018]: Brown, Campbell, 2018, “Maximalism and the Structure of Acts”, *Noûs*, 52(4): 752–771. doi:10.1111/nous.12181
+
+[^bykvist-2002]: Bykvist, Krister, 2002, “Alternative Actions and the Spirit of Consequentialism”, *Philosophical Studies*, 107(1): 45–68. doi:10.1023/A:1013191909430
+
+[^cariani-2016]: Cariani, Fabrizio, 2016, “Consequence and Contrast in Deontic Semantics”, *Journal of Philosophy*, 113(8): 396–416. doi:10.5840/jphil2016113826
+
+[^carlson-1995]: Carlson, Erik, 1995, *Consequentialism Reconsidered*, Dordrecht: Kluwer.
+
+[^carlson-1999]: –––, 1999, “Consequentialism, Alternatives, and Actualism”, *Philosophical Studies*, 96(3): 253–268. doi:10.1023/A:1004239306956
+
+[^castañeda-1968]: Castañeda, Hector-Neri, 1968, “A Problem for Utilitarianism”, *Analysis*, 28(4): 141–142. doi:10.1093/analys/28.4.141
+
+[^castañeda-1969]: –––, 1969, “Ought, Value, and Utilitarianism”, *American Philosophical Quarterly*, 6(4): 257–275.
+
+[^castañeda-1972]: –––, 1972, “On the Problem of Formulating a Coherent Act-Utilitarianism”, *Analysis*, 32(4): 118–124. doi:10.1093/analys/32.4.118
+
+[^cohen-2016]: Cohen, Yishai and Travis Timmerman, 2016, “Actualism Has Control Issues”, *Journal of Ethics and Social Philosophy*, 10(3): 1–19. doi:10.26556/jesp.v10i3.104
+
+[^curran-1995]: Curran, Angela, 1995, “Utilitarianism and Future Mistakes: Another Look”, *Philosophical Studies*, 78(1): 71–85. doi:10.1007/BF00989819
+
+[^feldman-1986]: Feldman, Fred, 1986, *Doing the Best We Can*, Boston: D. Reidel Publishing Company.
+
+[^gauthier-1994]: Gauthier, David, 1994, “Assure and Threaten”, *Ethics*, 104(4): 690–721. doi:10.1086/293651
+
+[^goldman-1976]: Goldman, Holly S. [Holly M. Smith], 1976, “Dated Rightness and Moral Imperfection”, *The Philosophical Review*, 85(4): 449. doi:10.2307/2184275
+
+[^goldman-1978]: –––, 1978, “Doing the Best One Can”, in *Values and Morals: Essays in Honor of William Frankena, Charles Stevenson, and Richard Brandt*, Alvin I. Goldman and Jaegwon Kim (eds.), Dordrecht: Springer Netherlands, 185–214. doi:10.1007/978-94-015-7634-5_11
+
+[^greenspan-1975]: Greenspan, P. S., 1975, “Conditional Oughts and Hypothetical Imperatives”, *Journal of Philosophy*, 72(10): 259–276. doi:10.2307/2024734
+
+[^greenspan-1978]: –––, 1978, “Oughts and Determinism: A Response to Goldman”, *The Philosophical Review*, 87(1): 77–83. doi:10.2307/2184348
+
+[^gustafsson-2014]: Gustafsson, Johan E., 2014, “Combinative Consequentialism and the Problem of Act Versions”, *Philosophical Studies*, 167(3): 585–596. doi:10.1007/s11098-013-0114-x
+
+[^jackson-1985]: Jackson, Frank, 1985, “On the Semantics and Logic of Obligation”, *Mind*, 94(374): 177–195. doi:10.1093/mind/XCIV.374.177
+
+[^jackson-2014]: –––, 2014, “Procrastinate Revisited”, *Pacific Philosophical Quarterly*, 95(4): 634–647. doi:10.1111/papq.12051
+
+[^jackson-1986]: Jackson, Frank and Robert Pargetter, 1986, “Oughts, Options, and Actualism”, *The Philosophical Review*, 95(2): 233–255. doi:10.2307/2185591
+
+[^humberstone-1983]: Humberstone, I. L., 1983, “The Background of Circumstances”, *Pacific Philosophical Quarterly*, 64(1): 19–34. doi:10.1111/j.1468-0114.1983.tb00181.x
+
+[^kiesewetter-2018]: Kiesewetter, Benjamin, 2018, “Contrary-to-Duty Scenarios, Deontic Dilemmas, and Transmission Principles”, *Ethics*, 129(1): 98–115. doi:10.1086/698734
+
+[^lehrer-1968]: Lehrer, Keith, 1968, “Cans without Ifs”, *Analysis*, 29(1): 29–32. doi:10.1093/analys/29.1.29
+
+[^lewis-1973]: Lewis, David K., 1973, *Counterfactuals*, Oxford: Blackwell Publishers and Cambridge, MA: Harvard University Press, 1973. Reprinted with revisions, 1986.
+
+[^louise-2009]: Louise, Jennie, 2009, “I Won’t Do It! Self-Prediction, Moral Obligation and Moral Deliberation”, *Philosophical Studies*, 146(3): 327–348. doi:10.1007/s11098-008-9258-5
+
+[^mcclennen-1990]: McClennen, Edward F., 1990, *Rationality and Dynamic Choice: Foundational Explorations*, New York: Cambridge University Press.
+
+[^mckinsey-1979]: McKinsey, Michael, 1979, “Levels of Obligation”, *Philosophical Studies*, 35(4): 385–395. doi:10.1007/BF00368053
+
+[^portmore-2011]: Portmore, Douglas W., 2011, *Commonsense Consequentialism: Wherein Morality Meets Rationality*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199794539.001.0001
+
+[^portmore-2017a]: –––, 2017a, “Maximalism versus Omnism about Permissibility”, *Pacific Philosophical Quarterly*, 98(S1): 427–452. doi:10.1111/papq.12186
+
+[^portmore-2017b]: –––, 2017b, “Maximalism versus Omnism about Reasons”, *Philosophical Studies*, 174(12): 2953–2972. doi:10.1007/s11098-016-0819-8
+
+[^portmore-2018]: –––, 2018, “Maximalism and Moral Harmony”, *Philosophy and Phenomenological Research*, 96(2): 318–341. doi:10.1111/phpr.12304
+
+[^portmore-nd]: –––, forthcoming, *Opting for the Best: Oughts and Options*, New York: Oxford University Press.
+
+[^prawitz-1968]: Prawitz, Dag, 1968, “A Discussion Note on Utilitarianism1”, *Theoria*, 34(1): 76–84. doi:10.1111/j.1755-2567.1968.tb00340.x
+
+[^prawitz-1970]: –––, 1970, “The Alternatives to an Action”, *Theoria*, 36(2): 116–126. doi:10.1111/j.1755-2567.1970.tb00414.x
+
+[^ross-2012]: Ross, Jacob, 2012, “Actualism, Possibilism, and Beyond”, in *Oxford Studies in Normative Ethics*, Mark Timmons (ed.), Oxford: Oxford University Press, 2:74–96. doi:10.1093/acprof:oso/9780199662951.003.0004
+
+[^scanlon-1998]: Scanlon, T. M., 1998, *What We Owe to Each Other*, Cambridge, Mass.: Belknap Press.
+
+[^sobel-1976]: Sobel, Jordan Howard, 1976, “Utilitarianism and Past and Future Mistakes”, *Noûs*, 10(2): 195. doi:10.2307/2214575
+
+[^stalnaker-1968]: Stalnaker, Robert C., 1968, “A Theory of Conditionals”, in Nicholas Rescher (ed.), *Studies in Logical Theory*, (American Philosophical Quarterly Monograph Series, 2), Oxford: Blackwell, pp. 98–112.
+
+[^thomason-1981]: Thomason, Richmond H., 1981, “Deontic Logic and the Role of Freedom in Moral Deliberation”, in *New Studies in Deontic Logic*, Risto Hilpinen (ed.), Dordrecht: Springer Netherlands, 177–186. doi:10.1007/978-94-009-8484-4_8
+
+[^timmerman-2015]: Timmerman, Travis, 2015, “Does Scrupulous Securitism Stand-up to Scrutiny? Two Problems for Moral Securitism and How We Might Fix Them”, *Philosophical Studies*, 172(6): 1509–1528. doi:10.1007/s11098-014-0362-4
+
+[^timmerman-2016]: Timmerman, Travis and Yishai Cohen, 2016, “Moral Obligations: Actualist, Possibilist, or Hybridist?”, *Australasian Journal of Philosophy*, 94(4): 672–686. doi:10.1080/00048402.2016.1140789
+
+[^timmerman-2019]: Timmerman, Travis and Philip Swenson, 2019, “How to be an Actualist and Blame People”, in David Shoemaker (ed.), *Oxford Studies in Agency and Responsibility* (Volume 6), New York: Oxford University Press.
+
+[^vessel-2009]: Vessel, Jean-Paul, 2009, “Defending a Possibilist Insight in Consequentialist Thought”, *Philosophical Studies*, 142(2): 183–195. doi:10.1007/s11098-007-9182-0
+
+[^vessel-2016]: –––, 2016, “Against Securitism, the New Breed of Actualism in Consequentialist Thought”, *Utilitas*, 28(2): 164–178. doi:10.1017/S095382081500028X
+
+[^vorobej-2000]: Vorobej, M., 2000, “Prosaic Possibilism”, *Philosophical Studies*, 97(2): 131–136. doi:10.1023/A:1008349904432
+
+[^westphal-1972]: Westphal, Fred, 1972, “Utilitarianism and ‘Conjunctive Acts’: A Reply to Professor Castaneda”, *Analysis*, 32(3): 82–85. doi:10.1093/analys/32.3.82
+
+[^woodard-2009]: Woodard, Christopher, 2009, “What’s Wrong with Possibilism”, *Analysis*, 69(2): 219–226. doi:10.1093/analys/anp005
+
+[^zellner-1972]: Zellner, Harold M., 1972, “Utilitarianism and Derived Obligation”, *Analysis*, 32(4): 124–125. doi:10.1093/analys/32.4.124
+
+[^zimmerman-1986]: Zimmerman, Michael J., 1986, “Subsidiary Obligation”, *Philosophical Studies*, 50(1): 65–75. doi:10.1007/BF00355161
+
+[^zimmerman-1990]: –––, 1990, “Where Did I Go Wrong?”, *Philosophical Studies*, 59(1): 55–77. doi:10.1007/BF00368391
+
+[^zimmerman-1996]: –––, 1996, *The Concept of Moral Obligation*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511624681
+
+[^zimmerman-2006]: –––, 2006, “The Relevant Risks to Wrongdoing”, in *The Good, The Right, Life And Death: Essays in Honor of Fred Feldman*, Kris McDaniel, Jason R. Raibley, Richard Feldman, and Michael J. Zimmerman (eds.), New York: Ashgate, 151–172.
+
+[^zimmerman-2008]: –––, 2008, *Living with Uncertainty: The Moral Significance of Ignorance*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511481505
+
+[^zimmerman-2017]: –––, 2017, “Prospective Possibilism”, *The Journal of Ethics*, 21(2): 117–150. doi:10.1007/s10892-017-9245-1

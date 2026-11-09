@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Church-Turing Thesis &gt; The Rise and Fall of the Entscheidungsproblem (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/church-turing/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/church-turing/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=church-turing">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">The Church-Turing Thesis</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>The Rise and Fall of the <em>Entscheidungsproblem</em></h2>
+
+<ul>
+
+ <li><a href="#StatEnts">A. Stating the <em>Entscheidungsproblem</em></a></li>
+ 
+ <li><a href="#BWhyProbMatt">B. Why the problem mattered</a>
+ 
+<ul>
+
+ <li><a href="#B1PhilSton">B.1 A &ldquo;philosophers&rsquo; stone&rdquo;</a></li>
+ 
+ <li><a href="#B2ConsMath">B.2 The consistency of mathematics</a></li>
+ </ul> </li>
+
+ <li><a href="#CPartSolu">C. Partial solutions</a></li>
+ 
+ <li><a href="#DNegaVibe">D. Negative vibes</a></li>
+ 
+ <li><a href="#EChurTuriResu">E. The Church-Turing result</a></li>
+ 
+ <li><a href="#FAfte">F. Aftermath</a></li>
+ </ul>
+
+<hr />
+
+<h3 id="StatEnts">A. Stating the <em>Entscheidungsproblem</em></h3>
+
+<p>
+Turing gave two formulations of what he called &ldquo;the Hilbert
+<em>Entscheidungsproblem</em>&rdquo; (1936 [2004: 84, 87]):</p>
+
+<blockquote>
+
+<p>
+[Is there a] general process [and a few paragraphs later, he
+emphasizes &ldquo;general (mechanical) process&rdquo;] for determining
+whether a given formula \(A\) of the functional calculus K is
+provable</p>
+</blockquote>
+
+<p>
+and:</p>
+
+<blockquote>
+
+<p>
+[Is there a] machine [Turing machine] which, supplied with any one
+\(A\) of these formulae, will eventually say whether \(A\) is
+provable.</p>
+</blockquote>
+
+<p>
+Given Turing&rsquo;s thesis, the two formulations are equivalent.</p>
+
+<p>
+Church stated the <em>Entscheidungsproblem</em> more generally:</p>
+
+<blockquote>
+
+<p>
+By the <em>Entscheidungsproblem</em> of a system of symbolic logic is here
+understood the problem to find an effective method by which, given any
+expression <em>Q</em> in the notation of the system, it can be
+determined whether or not <em>Q</em> is provable in the system.
+(Church 1936b: 41)</p>
+</blockquote>
+
+<p>
+While Turing and Church both formulated the <em>Entscheidungsproblem</em> in
+terms of determining whether or not a formula is <em>provable</em>,
+Hilbert and Ackermann had formulated it in terms of <em>universal
+validity</em> (&ldquo;<em>allgemeing&uuml;ltigkeit</em>&rdquo;):</p>
+
+<blockquote>
+
+<p>
+The <em>Entscheidungsproblem</em> is solved once we know a procedure that
+allows us to decide, by means of finitely many operations, whether a
+given logical expression is universally valid or, alternatively,
+satisfiable. (Hilbert &amp; Ackermann 1928: 73)</p>
+</blockquote>
+
+<p>
+A universally valid formula of the functional calculus (e.g., \((x)(Fx
+\lor \neg Fx)\) or, in modern notation, \(\forall x(Fx \lor \neg
+Fx)\)) must contain neither free variables nor individual constants,
+and is such that a true assertion results no matter which replacements
+(of suitable adicity) are made for the formula&rsquo;s predicate
+symbols, and no matter which objects are allocated to its variables
+(Hilbert &amp; Ackermann 1928: 72&ndash;73). In the case of a
+satisfiable formula (e.g., \((Ex)Fx\) or, in modern notation,
+\(\exists xFx\)) there must be <em>at least one</em> way of replacing
+its predicate symbols and of allocating objects to its variables so
+that a true assertion results. Universal validity and satisfiability
+are related as follows: \(A\) is universally valid if and only if
+\(\neg A\) is not satisfiable (1928: 73). In the above quotation,
+therefore, Hilbert and Ackermann are presenting two different but
+equivalent forms of the <em>Entscheidungsproblem</em>, one employing the
+concept of universal validity (or simply validity, as we would say
+today) and the other the closely related concept of satisfiability.
+The hunt was on for what they called &ldquo;a determinate, finite
+procedure&rdquo; (1928: 17) for deciding, of any given formula \(A\)
+of the functional calculus, whether or not \(A\) is universally valid,
+or, equivalently, for deciding whether or not \(\neg A\) is
+satisfiable.</p>
+
+<p>
+Turing&rsquo;s and Church&rsquo;s provability formulation of the
+<em>Entscheidungsproblem</em> and the Hilbert-Ackermann formulation in terms of
+validity are in fact logically equivalent, as Church noted in 1936
+(1936b: 41). This equivalence is a consequence of G&ouml;del&rsquo;s
+proof that (where \(A\) is any formula of the functional calculus) if
+\(A\) is universally valid then \(A\) is provable in the calculus.
+(The proof was presented originally in G&ouml;del&rsquo;s 1929
+doctoral dissertation and then published as G&ouml;del 1930.)
+Nevertheless, the provability version of the <em>Entscheidungsproblem</em> is
+arguably superior, since it asks a question about a specific axiom
+system, as do the allied problems of consistency and completeness. In
+modern treatments, the problems of consistency, completeness and
+decidability for an axiom system lie at the heart of proof theory, the
+area of modern logic founded by Hilbert.</p>
+
+<p>
+In 1928, Hilbert and Ackermann were certainly aware of the provability
+formulation (1928: 86, and see below) but they gave the validity
+formulation the starring role. It was von Neumann who emphasized the
+provability formulation, calling the process of proof the &ldquo;real
+heart of mathematics&rdquo; (von Neumann 1927: 10).</p>
+
+<h3 id="BWhyProbMatt">B. Why the problem mattered</h3>
+
+<p>
+Why was it that the <em>Entscheidungsproblem</em> was regarded as &ldquo;the
+main problem of mathematical logic&rdquo; and &ldquo;the most general
+problem of mathematics&rdquo;? There were fundamentally two
+reasons.</p>
+
+<h4 id="B1PhilSton">B.1 A &ldquo;philosophers&rsquo; stone&rdquo;</h4>
+
+<p>
+In his turn-of-the-century Paris lecture, Hilbert explained the idea
+of <em>axiomatizing</em> a subject-matter and using provability from
+the axioms as the touchstone of truth:</p>
+
+<blockquote>
+
+<p>
+When we are engaged in investigating the foundations of a science, we
+must set up a system of axioms which contains an exact and complete
+description of the relations subsisting between the elementary ideas
+of that science&hellip;. [N]o statement within the realm of the
+science whose foundation we are testing is held to be correct unless
+it can be derived from those axioms by means of a finite number of
+logical steps. (Hilbert 1900: 264 [trans. 1902: 447])</p>
+</blockquote>
+
+<p>
+He also famously said in his lecture that there is &ldquo;no
+<em>ignorabimus</em>&rdquo; in mathematics&mdash;there is nothing that
+we shall not know (Hilbert 1900: 262). It was a phrase he would often
+use to express his &ldquo;conviction of the solvability of every
+mathematical problem&rdquo; (Hilbert 1900: 262 [trans. 1902: 445]).
+Thirty years later he reiterated the same standpoint, in a valedictory
+lecture in K&ouml;nigsberg:</p>
+
+<blockquote>
+
+<p>
+[I]n my opinion, there is no such thing as an unsolvable problem. On
+the contrary, instead of foolish ignorabimus, our slogan is: We must
+know, We will know. (Hilbert 1930b: 963)</p>
+</blockquote>
+
+<p>
+It was Hilbert&rsquo;s great invention, proof theory, that would, he
+thought, supply the basis for answering all &ldquo;meaningful
+questions&rdquo;:</p>
+
+<blockquote>
+
+<p>
+[O]n the basis of the proof theory I have outlined, every fundamental
+question can be answered in a way that is unambiguous and
+mathematically precise. (Hilbert 1930a: 8, 9)</p>
+</blockquote>
+
+<p>
+However, proving a statement in an axiom system can be a tricky
+matter. Suppose the mathematician fails to discover a derivation of
+the statement from the axioms, what follows then? The failure could be
+because the statement is indeed not provable&mdash;but, on the other
+hand, there might be a way to prove it that escaped the
+mathematician&rsquo;s attention. Success in finding a proof brings
+certainty, whereas failure leaves us uncertain. That is why a decision
+method is so desirable. The method enables the mathematician to
+determine whether or not the statement is provable. Thinking up proofs
+is a serendipitous activity that involves, as Behmann put it,
+&ldquo;inventive insight&rdquo;, &ldquo;creative thought&rdquo;, and
+searching &ldquo;in every direction of the compass&rdquo; (Behmann
+1921: 2&ndash;3 [trans. 2015: 174]). Whereas a decision method is a
+purely mechanical process that is guaranteed to produce a definite
+answer.</p>
+
+<p>
+Herbrand wrote of the &ldquo;present great ambition, the solution of
+the <em>Entscheidungsproblem</em>&rdquo;, saying this &ldquo;would provide a
+general method in mathematics&rdquo; and enable us to &ldquo;to decide
+with certainty whether a proposition is true in a given theory&rdquo;
+(Herbrand 1930b: 254&ndash;255). In his 1921 lecture, Behmann had
+referred to this desired general method as a
+&ldquo;philosophers&rsquo; stone&rdquo; (&ldquo;<em>Stein der
+Weisen</em>&rdquo;), by means of which mathematicians &ldquo;would be
+able to <em>solve every problem posed</em>&rdquo;&mdash;or even
+&ldquo;delegate the work of proving mathematical theorems to
+mathematical laborers&rdquo; (Behmann 1921: 3&ndash;4 [trans. 2015:
+175], emphasis added). Turing&rsquo;s mentor Newman, familiar of
+course with the work of the Hilbert group, also referred to the
+solution of the <em>Entscheidungsproblem</em> as a philosophers&rsquo; stone.
+Hilbert and Ackermann themselves said, in 1928:</p>
+
+<blockquote>
+
+<p>
+Solving this general <em>Entscheidungsproblem</em> [for the second-order
+functional calculus] would &hellip; enable us to decide on the
+provability or unprovability of <em>any mathematical proposition</em>,
+at least in principle. (Hilbert &amp; Ackermann 1928: 86, emphasis
+added)</p>
+</blockquote>
+
+<p>
+Sch&ouml;nfinkel went even further. He was another member of the
+G&ouml;ttingen group who praised &ldquo;Leibniz&rsquo;s bold
+conjectures&rdquo; (Sch&ouml;nfinkel 192?: 2). (For an excellent
+biographical article on Sch&ouml;nfinkel, see Wolfram 2021.) In an
+early draft of what would become Bernays and Sch&ouml;nfinkel (1928),
+Sch&ouml;nfinkel wrote of &ldquo;the great <em>Entscheidungsproblem</em> of
+mathematical logic&rdquo; which, thanks to Hilbert, mathematicians now
+had &ldquo;the courage and the boldness to dare to touch&rdquo;. He
+described the <em>Entscheidungsproblem</em> as &ldquo;the problem of
+&lsquo;solving all problems&rsquo;&rdquo;&mdash;not just all
+mathematical problems but <em>all</em> problems. Because once there is
+a method for solving all mathematical problems:</p>
+
+<blockquote>
+
+<p>
+thereafter everything else is indeed lightweight, once this
+&ldquo;Gordian knot&rdquo; is undone (since &ldquo;the world is
+written in mathematical characters&rdquo;). (Sch&ouml;nfinkel 192?:
+1&ndash;2)</p>
+</blockquote>
+
+<h4 id="B2ConsMath">B.2 The consistency of mathematics</h4>
+
+<p>
+The second reason the <em>Entscheidungsproblem</em> was regarded as so
+important was its connection with the quest for proofs of the
+<em>consistency</em> of mathematical systems. A system is said to be
+inconsistent if there is some statement \(A\) such that both \(A\) and
+\(\neg A\) are provable from the axioms. The system is consistent if
+(and only if) there is no statement for which this sorry situation is
+the case.</p>
+
+<p>
+By the early twentieth century, mathematics&mdash;until then a
+&ldquo;paragon of reliability and truth&rdquo;, Hilbert said&mdash;was
+in trouble (Hilbert 1926: 170, trans. in van Heijenoort 1967: 375).
+Its reputation had been &ldquo;lost due to the paradoxes of set
+theory&rdquo; (Hilbert 1922: 160). Hilbert explained:</p>
+
+<blockquote>
+
+<p>
+[C]ontradictions appeared, sporadically at first, then ever more
+severely and ominously&hellip;. In particular, a contradiction
+discovered by Zermelo and Russell [&ldquo;Russell&rsquo;s
+paradox&rdquo;] had, when it became known, a downright catastrophic
+effect in the world of mathematics. (Hilbert 1926: 169 [trans. 1967:
+375])</p>
+</blockquote>
+
+<p>
+Herbrand takes up the story:</p>
+
+<blockquote>
+
+<p>
+One must take great care &hellip; Set theory has produced famous
+examples [of inconsistencies] &hellip; But there is nothing to show us
+that similar issues do not arise for the theories that seem to us the
+most finished, like arithmetic. Could it be that arithmetic is
+inconsistent? (Herbrand 1930b: 250&ndash;251)</p>
+</blockquote>
+
+<p>
+&ldquo;[P]roofs of consistency would be very useful to dispel
+lingering doubts&rdquo;, wrote Herbrand (1930b: 251). Hilbert put it
+even more forcefully:</p>
+
+<blockquote>
+
+<p>
+[T]he situation in which we presently find ourselves with respect to
+the paradoxes is in the long run intolerable. (Hilbert 1926: 170
+[trans. 1967: 375])</p>
+</blockquote>
+
+<p>
+Proving &ldquo;the consistency of the arithmetic axioms&rdquo; is
+&ldquo;urgent&rdquo;, he said&mdash;&ldquo;a burning question&rdquo;
+(Hilbert 1926: 179 [trans. 1967: 383]; Hilbert 1930a: 3).
+Hilbert&rsquo;s overarching concern was to &ldquo;re-establish
+mathematics&rsquo; old reputation for incontestable truth&rdquo;
+(Hilbert 1922: 160), and he was &ldquo;convinced that it must be
+possible to find a direct proof of the consistency of the arithmetical
+axioms&rdquo; (Hilbert 1900: 265).</p>
+
+<p>
+A solution to the <em>Entscheidungsproblem</em> would furnish a route to
+establishing consistency: &ldquo;By means of the decision method,
+issues of consistency would also be able to be resolved&rdquo;
+(Hilbert &amp; Ackermann 1928: 76). This is because the decision
+method could be used to establish whether or not \(A\) and \(\neg A\)
+are both provable&mdash;so gaining a definite answer to the question
+&ldquo;Is the system consistent?&rdquo;. Hilbert believed that,
+following the discovery of the decision method, arithmetic and
+analysis would be proved consistent, thereby &ldquo;establish[ing]
+that mathematical propositions are indeed incontestable and absolute
+truths&rdquo; (Hilbert 1922: 162). Mathematics&rsquo; reputation would
+be regained.</p>
+
+<h3 id="CPartSolu">C. Partial solutions</h3>
+
+<p>
+By the time Turing and Church engaged with the <em>Entscheidungsproblem</em>, a
+number of decision methods were known for <em>parts</em> of the
+functional calculus.</p>
+
+<p>
+Besides the previously mentioned Hilbert-Bernays decision method for
+the propositional calculus (and Peirce&rsquo;s much less well-known
+method), and also the L&ouml;wenheim method for the monadic fragment
+of the functional calculus (later improved by Behmann in his 1922
+paper, where it was additionally proved that the monadic fragment of
+the second-order functional calculus is decidable), there were various
+decision methods that succeeded providing&nbsp;the functional calculus
+was restricted in one way or another. Bernays and Sch&ouml;nfinkel
+(1928) showed there is a decision method when formulae containing at
+most two individual variables are considered. At Cambridge, Ramsey
+devised a method that worked provided existential quantifiers were
+omitted from the calculus, and any universal quantifiers were stacked
+one after another at the very beginning of a formula (with no negation
+sign preceding any of them, and with their scope extending to the end
+of the formula). Such formulae are interesting, Ramsey pointed out,
+since they represent &ldquo;general laws&rdquo; (Ramsey 1930: 272;
+Langford 1926b: 115&ndash;116). Ackermann, Bernays, Sch&ouml;nfinkel,
+G&ouml;del, K&aacute;lmar, and Herbrand devised methods for other
+fragments of the calculus, in which only certain patterns of
+quantifiers were permitted. G&ouml;del&rsquo;s 1933 paper on the
+<em>Entscheidungsproblem</em> gave a summary of some of the developments.</p>
+
+<p>
+Despite all this attention to the decision problem, no method had been
+found for the full functional calculus. But according to Hilbert it
+was just a matter of time. He and Ackermann emphasized that
+&ldquo;finding a general decision process is an as yet unsolved and
+difficult problem&rdquo; (1928: 77). They exuded optimism, writing
+buoyantly of moving &ldquo;closer to the solution of the
+<em>Entscheidungsproblem</em>&rdquo; (1928: 81).</p>
+
+<h3 id="DNegaVibe">D. Negative vibes</h3>
+
+<p>
+Even in the 1920s, however, negative opinion on the solvability of the
+<em>Entscheidungsproblem</em> was building. Behmann had pointed out in his 1921
+lecture that, once the &ldquo;philosophers&rsquo; stone&rdquo; was
+found, &ldquo;the entirety of mathematics would indeed be transformed
+into one <em>enormous triviality</em>&rdquo; (Behmann 1921: 5 [trans.
+2015: 175]). Some found this consequence highly unpalatable. In 1927,
+Hilbert&rsquo;s student Weyl insisted that &ldquo;such a
+philosopher&rsquo;s stone has not been discovered and never will be
+discovered&rdquo;, and a good job too, Weyl thought, since if it were,
+&ldquo;Mathematics would thereby be trivialized&rdquo; (Weyl 1927: 20
+[trans. Weyl 1949: 24]). Then a year later, in 1928, Hardy announced
+to the Cambridge mathematicians, assembled at his Rouse Ball Lecture,
+that he expected no &ldquo;system of rules which enable&nbsp;us to say
+whether any given formula [is] demonstrable or not&rdquo; (Hardy 1929:
+16). &ldquo;[T]his is very fortunate&rdquo;, he continued, since if
+there were such a system,</p>
+
+<blockquote>
+
+<p>
+we should have a mechanical set of rules for the solution of all
+mathematical problems, and our activities as mathematicians would come
+to an end. (ibid.)</p>
+</blockquote>
+
+<p>
+Hardy explained that his description of Hilbert&rsquo;s ideas was
+&ldquo;based upon that of v. Neumann, a pupil of
+Hilbert&rsquo;s&rdquo;, saying that he found von Neumann&rsquo;s
+exposition &ldquo;sharper and more sympathetic than Hilbert&rsquo;s
+own&rdquo; (Hardy 1929: 13&ndash;14). Hardy was referring to von
+Neumann&rsquo;s &ldquo;Zur Hilbertschen Beweistheorie&rdquo; (<em>On
+Hilbert&rsquo;s Proof Theory</em>), published in 1927 but completed by
+the middle of 1925. Von Neumann said:</p>
+
+<blockquote>
+
+<p>
+So it <em>seems</em> that there is no way to find the general decision
+criterion for whether a given normal formula [i.e., a well-formed
+formula with no free variables] is provable. (von Neumann 1927: 11,
+emphasis added)</p>
+</blockquote>
+
+<p>
+Also:</p>
+
+<blockquote>
+
+<p>
+The day that undecidability lets up, mathematics in its current sense
+would cease to exist; into its place would step a perfectly mechanical
+rule, by means of which anyone could decide, of any given proposition,
+whether this can be proved or not. (von Neumann 1927: 12)</p>
+</blockquote>
+
+<p>
+But how to <em>prove</em> that there is no general decision criterion?
+Von Neumann confessed he did not know:</p>
+
+<blockquote>
+
+<p>
+At present, of course, we cannot demonstrate this. Moreover, no clue
+whatsoever exists how such an undecidability proof would have to be
+conducted. (von Neumann 1927: 11)</p>
+</blockquote>
+
+<p>
+Nor did he find a proof. With a hint of resignation he said in 1931
+that the <em>Entscheidungsproblem</em> was &ldquo;far too difficult&rdquo;
+(1931: 121). Four years later, in 1935, he visited Cambridge for a
+term (arriving in April, a few weeks after Newman had&nbsp;lectured on
+the <em>Entscheidungsproblem</em>) and he struck up an acquaintance with a
+young mathematician who admired his work (Copeland &amp; Fan 2023).
+The young man was of course Alan Turing, who within a few months would
+devise his groundbreaking proof that&mdash;just as von Neumann had
+hypothesized&mdash;&ldquo;It is generally undecidable whether a given
+normal formula is provable or not&rdquo; (von Neumann 1927: 12). Was
+there discussion, during the spring of 1935, between von Neumann and
+Turing (the latter already primed by Newman&rsquo;s lecture) about the
+<em>Entscheidungsproblem</em>&mdash;which was, after all, the main problem of
+mathematical logic? Did von Neumann perhaps play a role in
+Turing&rsquo;s decision to take on this fundamental problem and prove
+it unsolvable? These are tantalizing questions, and we may never know
+for sure.</p>
+
+<h3 id="EChurTuriResu">E. The Church-Turing result</h3> <!-- bib check so far -->
+
+<p>
+G&ouml;del&rsquo;s famous incompleteness theorems of 1931 placed
+unexpected new obstacles in the way of Hilbert&rsquo;s desired
+consistency proof for arithmetic (G&ouml;del 1931). Suspicion also
+began to build that G&ouml;del&rsquo;s incompleteness results might
+further imply the unsolvability of the <em>Entscheidungsproblem</em>. Herbrand
+said cautiously:</p>
+
+<blockquote>
+
+<p>
+[A]lthough at present the possibility of a solution to the
+<em>Entscheidungsproblem</em> seems unlikely, its impossibility has not yet
+been proved. (Herbrand 1931a: 56)</p>
+</blockquote>
+
+<p>
+Carnap, who took a close interest in Hilbert&rsquo;s G&ouml;ttingen
+group and had worked with Behmann (Schiemer, Zach, &amp; Reck 2017)
+wrote the following about the Hilbertian idea of a &ldquo;definite
+criterion of validity&rdquo; or &ldquo;decision procedure for
+mathematics&rdquo;, using which &ldquo;we could so to speak calculate
+the truth or falsity of every given proposition&rdquo;:</p>
+
+<blockquote>
+
+<p>
+[B]ased on G&ouml;del&rsquo;s latest results, the search for a
+definite criterion of validity for the entire system of mathematics
+appears hopeless. (Carnap 1935: 163&ndash;4)</p>
+</blockquote>
+
+<p>
+But, as Herbrand noted, nobody had <em>proved</em> the
+<em>Entscheidungsproblem</em> to be unsolvable. That was where Turing and
+Church entered the story. Newman later summed up matters as they had
+appeared at the time, before Church and Turing published their
+transformational papers in 1936:</p>
+
+<blockquote>
+
+<p>
+A first blow was dealt [to the &ldquo;Hilbert
+decision-programme&rdquo;] by G&ouml;del&rsquo;s incompleteness
+theorem (1931), which made it clear that truth or falsehood of \(A\)
+could not be equated to provability of \(A\) or not-\(A\) in any
+finitely based logic, chosen once for all; but there still remained in
+principle the possibility of finding a mechanical process for deciding
+whether \(A\), or \(\neg A\), or neither, was formally provable in a
+given system. (Newman 1955: 256)</p>
+</blockquote>
+
+<p>
+Turing summed up his show-stopping result in his usual terse way: he
+had shown, he said, that &ldquo;the Hilbert <em>Entscheidungsproblem</em> can
+have no solution&rdquo; (Turing 1936 [2004: 84]). Church, also not one
+to waste words, compressed his proof into a paper barely two pages
+long, and concluded pithily:</p>
+
+<blockquote>
+
+<p>
+The general case of the <em>Entscheidungsproblem</em> of the engere
+Funktionenkalk&uuml;l is unsolvable. (Church 1936b: 41)</p>
+</blockquote>
+
+<p>
+In establishing this, Turing and Church showed moreover that there can
+be no decision method for the second-order functional calculus (where
+quantification is permitted over not just individuals but also over
+properties and relations), since the second-order calculus contains
+the first-order calculus as a fragment. The same applies to every
+other mathematical system containing the first-order calculus, such as
+arithmetic.</p>
+
+<p>
+However, it is one of the great ironies of the history of logic that,
+all along, G&ouml;del&rsquo;s first incompleteness theorem of 1931 did
+in fact suffice to establish the undecidability of the functional
+calculus&mdash;although this was certainly not apparent at the time.
+More than three decades passed after the publication of
+G&ouml;del&rsquo;s paper before this corollary of his theorem was
+noted, by Davis (Davis 1965: 109; Kleene 1986: 136).</p>
+
+<p>
+Naturally, this unnoticed implication of G&ouml;del&rsquo;s theorem
+does not diminish Turing&rsquo;s and Church&rsquo;s great achievement,
+which at the time broke new ground. However, in recent times their
+work is sometimes regarded as amounting to merely a smallish
+development of G&ouml;del&rsquo;s previously published results, on
+which Church&rsquo;s and Turing&rsquo;s work was supposedly based.
+This is particularly true of Turing. Turing, it is said, &ldquo;merely
+reformulated G&ouml;del&rsquo;s work in an elegant way&rdquo;
+(Schmidhuber 2012: 1638) and &ldquo;recast&rdquo; G&ouml;del&rsquo;s
+findings &ldquo;in the guise of the Halting Problem&rdquo; (Dawson
+2006: 133). (For further discussion of these and similar views, see
+Copeland &amp; Fan 2022.) In this connection, it is worth remembering
+the words of Kleene, who worked closely with Church and played a
+leading part in the development of computability theory in the 1930s.
+Kleene noted that</p>
+
+<blockquote>
+
+<p>
+One sometimes encounters statements asserting that G&ouml;del&rsquo;s
+work laid the foundation for Church&rsquo;s and Turing&rsquo;s
+results</p>
+</blockquote>
+
+<p>
+and commented:</p>
+
+<blockquote>
+
+<p>
+Whether or not one judges that Church would have proceeded from his
+thesis to these [undecidability] results without his having been
+exposed to G&ouml;del numbering, it seems clear that Turing in
+[&ldquo;On Computable Numbers&rdquo;] had his own train of thought,
+quite unalloyed by any input from G&ouml;del. One is impressed by this
+in reading Turing [&ldquo;On Computable Numbers&rdquo;] in detail.
+(Kleene 1987: 491&ndash;2)</p>
+</blockquote>
+
+<h3 id="FAfte">F. Aftermath</h3>
+
+<p>
+What became of the <em>Entscheidungsproblem</em> after the Church-Turing
+negative result?</p>
+
+<p>
+In letters written in the wake of the result, Turing and Newman
+discussed the idea Newman had presented in his 1935 lecture, a machine
+that is able to decide mathematical problems. Turing wrote &ldquo;I
+think you take a much more radically Hilbertian attitude about
+mathematics than I do&rdquo;, responding to Newman&rsquo;s statement
+that</p>
+
+<blockquote>
+
+<p>
+If all this whole formal outfit is not about finding proofs which can
+be checked on a machine it&rsquo;s difficult to know what it is about.
+(Turing c.1940 [2004: 215])</p>
+</blockquote>
+
+<p>
+Turing noted that he saw no essential difference between a
+proof-checking machine and a proof-finding machine. He challenged
+Newman:</p>
+
+<blockquote>
+
+<p>
+When you say &ldquo;on a machine&rdquo; do you have in mind that there
+is (or should be or could be, but has not been actually described
+anywhere) some fixed machine on which proofs are to be checked, and
+that the formal outfit is, as it were about this machine?</p>
+</blockquote>
+
+<p>
+Turing called this an &ldquo;extreme Hilbertian&rdquo; position, and
+said:</p>
+
+<blockquote>
+
+<p>
+If you take this attitude &hellip; there is little more to be said: we
+simply have to get used to the technique of this machine and resign
+ourselves to the fact that there are some problems to which we can
+never get the answer.</p>
+</blockquote>
+
+<p>
+Turing rejected this attitude to mathematics, because, he said,
+&ldquo;there is a fairly definite idea of a true formula which is
+quite different from the idea of a provable
+one&rdquo;&mdash;mathematicians&rsquo; judgements about whether
+formulae are true can outrun the pronouncements of the Hilbertian
+machine. Turing continued in his letter:</p>
+
+<blockquote>
+
+<p>
+If you think of various machines I don&rsquo;t see your difficulty.
+One imagines different machines allowing different sets of proofs, and
+by choosing a suitable machine one can approximate &ldquo;truth&rdquo;
+by &ldquo;provability&rdquo; better than with a less suitable machine
+&hellip; (Turing c.1940 [2004: 215])</p>
+</blockquote>
+
+<p>
+In Turing&rsquo;s opinion, that was how the debate on the
+<em>Entscheidungsproblem</em> had panned out. The Hilbertians had wanted a
+single decision method for the whole of mathematics&mdash;a single
+computing machine or algorithm&mdash;whereas Turing showed there can
+be no such thing; but he emphasized that there are, nevertheless,
+different decision methods (machines) for different areas of
+mathematics (see further Copeland &amp; Shagrir 2013). In place of the
+one great unsolvable decision problem, there are many lesser, but
+often solvable, decision problems.</p>
+
+<p>
+In the long aftermath of the Church-Turing result, as those rough
+pioneering days gave way to modern computer science, Turing&rsquo;s
+opinion became the mainstream view: Today, computer science makes use
+of a multiplicity of algorithms for deciding different parts of the
+functional calculus and other mathematical systems.</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://profiles.canterbury.ac.nz/Jack-Copeland" target="other">B. Jack Copeland</a>
+&lt;<a href="m&#97;ilto:jack&#37;2ecopeland&#37;40canterbury&#37;2eac&#37;2enz"><em>jack<abbr title=" dot ">&#46;</abbr>copeland<abbr title=" at ">&#64;</abbr>canterbury<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>nz</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

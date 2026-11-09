@@ -1,0 +1,393 @@
+# George Herbert Mead
+**First published Sun Apr 13, 2008; substantive revision Thu Nov 24, 2022**
+
+*Aboulafia, Mitchell, Taylor, Scott*
+
+George Herbert Mead (1863–1931), American philosopher and social theorist, is often classed with William James, Charles Sanders Peirce, and John Dewey as one of the most significant figures in classical American pragmatism. Dewey referred to Mead as “a seminal mind of the very first order” (Dewey, 1932, xl). Yet by the middle of the twentieth-century, Mead’s prestige was greatest outside of professional philosophical circles. He is considered by many to be the father of the school of Symbolic Interactionism in sociology and social psychology, although he did not use this nomenclature. Perhaps Mead’s principal influence in philosophical circles occurred as a result of his friendship with John Dewey. There is little question that Mead and Dewey had an enduring influence on each other, with Mead contributing an original theory of the development of the self through communication. This theory has in recent years played a central role in the work of Jürgen Habermas. While Mead is best known for his work on the nature of the self and intersubjectivity, he also developed a theory of action, and a metaphysics or philosophy of nature that emphasizes emergence and temporality, in which the past and future are viewed through the lens of the present. Although the extent of Mead’s reach is considerable, he never published a monograph in philosophy. His most famous work, *Mind, Self, and Society: From the Standpoint of a Social Behaviorist*, was published after his death and is a compilation of student notes and selections from unpublished manuscripts.
+
+## 1. Life and Influences
+
+George Herbert Mead was born on February 27, 1863, in South Hadley, Massachusetts. His father, Hiram Mead, a minister in the Congregational Church, moved his family from Massachusetts to Ohio in 1869 in order to join the faculty of The Oberlin Theological Seminary. At Oberlin he taught homiletics and held the chair in Sacred Rhetoric and Pastoral Theology. Mead would attend Oberlin College from 1879–1883, and matriculate at Harvard from 1887–1888. At Harvard he studied with Josiah Royce, a philosopher deeply indebted to G.W.F. Hegel, who also left a lasting impression on Mead. (Mead met William James at Harvard, although he did not study with him. Almost immediately after graduation, Mead resided in William James’s summer home tutoring his son Harry.) Mead’s mother, Elizabeth Storrs Billings, was a devoutly religious woman, who taught at Oberlin for two years after the death of her husband in 1881, and served as president of Mount Holyoke College from 1890–1900. After his college years, Mead became a committed naturalist and non-believer, but he had struggled for years with the religious convictions that he had inherited from his family and community. For a period of time after college he even considered Christian Social Work as a career, but 1884 he explained in a letter to his friend Henry Castle why this career path would be problematic.
+
+> I shall have to let persons understand that I have some belief in Christianity and my praying be interpreted as a belief in God, whereas I have no doubt that now the most reasonable system of the universe can be formed to myself without a God. But notwithstanding all this I cannot go out with the world and not work for men. The spirit of a minister is strong with me and I come fairly by it. (Shalin 1988, 920–921)[^shalin-1988]
+
+Mead did indeed move away from his earlier religious roots, but the activist spirit remained with him. Mead marched in support of women’s suffrage, served as a treasurer for the Settlement House movement, immersed himself in civic matters in Chicago, and generally supported progressive causes. Jane Addams was a close friend. In terms of his transformation into a naturalist, no doubt Darwin played a significant role. As a matter of fact, one can understand much of Mead’s work as an attempt to synthesize Darwin, Hegel, Dewey’s functionalist turn in psychology, and insights gleaned from James. Mead taught with Dewey at the University of Michigan from 1891–1894, and when Dewey was made chair at the University of Chicago in 1894, he requested that Mead receive an appointment. Mead spent the rest of his career at Chicago. But before he began teaching at Michigan, Mead was directly exposed to major currents of European thought when he studied in Germany from 1888–1891, taking two courses from Wilhelm Dilthey and immersing himself in Wilhelm Wundt’s research.
+
+## 2. Language and Mind
+
+Dewey and Mead were not only very close friends, they shared similar intellectual trajectories. Both went through a period in which Hegel was the most significant philosophical figure for them, and both democratized and de-essentialized Hegelian ideas about the self and community. Nevertheless, neo-hegelian organic metaphors and notions of negation and conflict, reinterpreted as the problematic situation, remain central to their positions. The teleological also remains important in their thought, but it is reduced in scale from the world historical and localized in terms of anticipatory experiences and goal oriented activities.
+
+For Mead, the development of the self is intimately tied to the development of language. To demonstrate this connection, Mead begins by articulating what he learned about the gesture from Wundt. Gestures are to be understood in terms of the behavioral responses of animals to stimuli from other organisms. For example, a dog barks, and a second dog either barks back or runs away. The “meaning” of the “barking gesture” is found in the response of the second organism to the first. But dogs do not understand the “meaning” of their gestures. They simply respond, that is, they use symbols without what Mead refers to as “significance.” For a gesture to have significance, it must call out in a second organism a response that is functionally identical to the response that the first organism anticipates. In other words, for a gesture to be significant it must “mean” the same thing to both organisms, and “meaning” involves the capacity to consciously anticipate how other organisms will respond to symbols or gestures. How does this capacity arise? It does so through the vocal gesture.
+
+A vocal gesture can be thought of as a word or phrase. When a vocal gesture is used the individual making the gesture responds (implicitly) in the same manner as the individual hearing it. If you are about to walk across a busy street during rush hour, I might shout out, “Don’t walk!” As I shout, I hear my gesture the way in which you hear it, that is, I hear the same words, and I might feel myself pulling back, stopping in my tracks because I hear these words. But, of course, I don’t hear them exactly as you do, because I am aware of directing them to you. According to Mead, “Gestures become significant symbols when they implicitly arouse in the individual making them the same responses which the explicitly arouse, or are supposed to arouse, in other individuals” (MSS, 47). He also tells us that, “the critical importance of language in the development of human experience lies in this fact that the stimulus is one that can react upon the speaking individual as it reacts upon the other” (MSS, 69).
+
+As noted, Mead was indebted to Hegel’s work, and the notion of reflexivity plays a fundamental role in Mead’s theory of mind. Vocal gestures—which depend on sufficiently sophisticated nervous systems to process them—allow individuals to hear their own gestures in the way that others hear them. If I shout “Boo” at you, I might not only scare you, I might scare myself. Or, to put this in other terms, vocal gestures allow one to speak to oneself when others are not present. I make certain vocal gestures and anticipate how they would be responded to by others, even when they are not present. The responses of others have been internalized and have become part of an accessible repertoire. (Mead would agree with Ludwig Wittgenstein that there are no private languages. Language is social all the way down.) According to Mead, through the use of vocal gestures one can turn “experience” back on itself through the loop of speaking and hearing at relatively the same instant. And when one is part of a complex network of language users, Mead argues that this reflexivity, the “turning back” of experience on itself, allows mind to develop.
+
+> Mentality on our approach simply comes in when the organism is able to point out meanings to others and to himself. This is the point at which mind appears, or if you like, emerges…. It is absurd to look at the mind simply from the standpoint of the individual human organism; for, although it has its focus there, it is essentially a social phenomenon; even its biological functions are primarily social. (MSS, 132–133)
+>
+> It is by means of reflexiveness—the turning back of the experience of the individual upon himself—that the whole social process is thus brought into the experience of the individuals involved in it; it is by such means, which enable the individual to take the attitude of the other toward himself, that the individual is able consciously to adjust himself to that process, and to modify the resultant of that process in any given social act in terms of his adjustment to it. Reflexiveness, then, is the essential condition, within the social process, for the development of mind. (MSS, 134)
+
+Mind is developed not only through the use of vocal gestures, but through the taking of roles, which will be addressed below. Here it is worth noting that although we often employ our capacity for reflexivity to engage in reflection or deliberation, both Dewey and Mead argue that habitual, non-deliberative, experience constitutes the most common way that we engage the world. The habitual involves a host of background beliefs and assumptions that are not raised to the level of (self) conscious reflection unless problems occur that warrant addressing. For Dewey, this background is described as “funded experience.” For Mead, it is *the world that this there* and the “biologic individual.”
+
+> The immediate experience which is reality, and which is the final test of the reality of scientific hypotheses as well as the test of the truth of all our ideas and suppositions, is the experience of what I have called the “biologic individual.”…[This] term lays emphasis on the living reality which may be distinguished from reflection…. Actual experience did not take place in this form but in the form of unsophisticated reality. (MSS, 352–353)
+
+## 3. Roles, the Self, and the Generalized Other
+
+One of the most noteworthy features of Mead’s account of the significant symbol is that it assumes that anticipatory experiences are fundamental to the development of language. We have the ability to place ourselves in the positions of others—that is, to anticipate their responses—with regard to our linguistic gestures. This ability is also crucial for the development of the self and self-consciousness. For Mead, as for Hegel, the self is fundamentally social and cognitive. It should be distinguished from the individual, who also has non-cognitive attributes. The self, then, is not identical to the individual and is linked to self-consciousness. It begins to develop when individuals interact with others and play roles. What are roles? They are constellations of behaviors that are responses to sets of behaviors of other human beings. The notions of role-taking and role playing are familiar from sociological and social-psychological literature. For example, the child plays at being a doctor by having another child play at being a patient. To play at being a doctor, however, requires being able to anticipate what a patient might say, and vice versa. Role playing involves taking the attitudes or perspectives of others. It is worth noting in this context that while Mead studied physiological psychology, his work on role-taking can be viewed as combining features of the work of the Scottish sympathy theorists (which James appealed to in *The* *Principles of Psychology*), with Hegel’s dialectic of self and other. As we will discover shortly, perspective-taking is associated not only with roles, but with far more complex behaviors.
+
+For Mead, if we were simply to take the roles of others, we would never develop selves or self-consciousness. We would have a nascent form of self-consciousness that parallels the sort of reflexive awareness that is required for the use of significant symbols. A role-taking (self) consciousness of this sort makes possible what might be called a proto-self, but not a self, because it doesn’t have the complexity necessary to give rise to a self. How then does a self arise? Here Mead introduces his well-known neologism, *the* *generalized other*. When children or adults take roles, they can be said to be playing these roles in dyads. However, this sort of exchange is quite different from the more complex sets of behaviors that are required to participate in games. In the latter, we are required to learn not only the responses of specific others, but behaviors associated with every position on the field. These can be internalized, and when we succeed in doing so we come to “view” our own behaviors from the perspective of the game as a whole, which is a system of organized actions.
+
+> The organized community or social group which gives to the individual his unity of self may be called “the generalized other.” The attitude of the generalized other is the attitude of the whole community. Thus, for example, in the case of such a social group as a ball team, the team is the generalized other in so far as it enters—as an organized process or social activity—into the experience of any one of the individual members of it. (MSS, 154)
+
+For Mead, although these communities can take different forms, they should be thought of as systems; for example, a family can be thought of systemically and can therefore give rise to a generalized other and a self that corresponds to it. Generalized others can also be found in
+
+> concrete social classes or subgroups, such as political parties, clubs, corporations, which are all actually functional social units, in terms of which their individual members are directly related to one another. The others are abstract social classes or subgroups, such as the class of debtors and the class of creditors, in terms of which their individual members are related to one another only more or less indirectly. (MSS, 157)
+
+In his *Principles of Psychology*, a book Mead knew well, William James discusses various types of empirical selves, namely, the material, the social, and the spiritual. In addressing the social self, James notes how it is possible to have multiple selves.
+
+> Properly speaking*, a man has as many social selves as there are individuals who recognize him* and carry an image of him in their mind. To wound any one of these his images is to wound him. But as the individuals who carry the images fall naturally into classes, we may practically say that he has as many different social selves as there are distinct *groups* of persons about whose opinion he cares. He generally shows a different side of himself to each of these different groups. (James 1890, 294)[^james-1890]
+
+From Mead’s vantage point, James was on the right track. However, the notion of audience is left undeveloped in James, as is the manner in which language is utilized in the genesis of the self and self-consciousness. For Mead, James’s audiences should be thought of in terms of systemically organized groups, such as we find in certain games, which give rise to generalized others. Further, we need an account of how we come to view ourselves from the perspective of these groups that goes beyond the concept of “sympathetic attachments.” Such an account involves reflexivity, which originates with the vocal gesture and is essential to taking roles and the perspective of the generalized other. In addition, reflexivity helps make possible the capacity to “see” ourselves from ever wider or more “universal” communities. Mead relates the latter capacity to cosmopolitan political and cultural orientations. It’s worth noting that for Mead a full account of the self should address the phylogenetic as well as the ontogenetic.
+
+## 4. The “I” and the “Me”
+
+One of Mead’s most significant contributions to social psychology is his distinction between the “I” and the “Me.” It’s worth emphasizing that while this distinction is utilized in sociological circles, it is grounded philosophically for Mead. His target, in part, is no less than the idea of the transcendental ego, especially in its Kantian incarnation. It is also important to note that the “I” and “Me” are functional distinctions for Mead, not metaphysical ones. He refers to them as phases of the self (MSS 178, 200), although he more typically uses the word self to refer to the “Me” (Aboulafia 2016)[^aboulafia-2016].
+
+The self that arises in relationship to a specific generalized other is referred to as the “Me.” The “Me” is a cognitive object, which is only known retrospectively, that is, on reflection. When we act in habitual ways we are not typically self-conscious. We are engaged in actions at a non-reflective level. However, when we take the perspective of the generalized other, we are both “watching” and forming a self in relationship to the system of behaviors that constitute this generalized other. So, for example, if I am playing second base, I may reflect on my position as a second baseman, but to do so I have to be able to think of “myself” in relationship to the whole game, namely, the other actors and the rules of the game. We might refer to this cognitive object as my (second baseman) baseball self or “Me.” Perhaps a better example might be to think of the self in relationship to one’s family of origin. In this situation, one views oneself from the perspective of the various sets of behaviors that constitute the family system.
+
+To return to the baseball example, one may have a self, a “Me,” that corresponds to a particular position that one plays, which is nested within the game as an organized totality. This self, however, doesn’t tell us how any particular play may be made. When a ball is grounded to a second baseman, how he or she reacts is not predetermined. He reacts, and how he reacts is always to some degree different from how he has reacted in the past. These reactions or actions of the individual, whether in response to others or self-initiated, fall within the “sphere” of the “I.” Every response that the “I” makes is somewhat novel. Its responses may differ only in small ways from previous responses, making them functionally equivalent, but they will never be exactly the same. No catch in a ball game is ever identical to a previous catch. Mead declares that, “The ‘I’ gives the sense of freedom, of initiative. The situation is there for us to act in a self-conscious fashion. We are aware of ourselves, and of what the situation is, but exactly how we will act never gets into experience until after the action takes place” (MSS, 177–178). The “I” is a “source” of both spontaneity and creativity. For Mead, however, the “I” is not a noumenal ego. Nor is it a substance. It is a way of designating a locus of activity.
+
+The responses of the “I” are non-reflective. How the “I” reacts is known only on reflection, that is, after we retrospect.
+
+> If you ask, then, where directly in your own experience the “I” comes in, the answer is that it comes in as a historical figure. It is what you were a second ago that is the “I” of the “me.” It is another “me” that has to take that rôle. You cannot get the immediate response of the “I” in the process. (MSS, 174)
+
+In other words, once the actions of the “I” have become objectified and known, by definition they have become a “Me.” The status of the “I” is interesting in Mead. In trying to differentiate it from the empirical, knowable, “Me,” he states, “The ‘I’ is the transcendental self of Kant, the soul that James conceived behind the scene holding on to the skirts of an idea to give it an added increment of emphasis” (MSC in SW, 141). However, this statement should not to be interpreted as endorsing the notion of a transcendental ego. Mead is seeking to emphasize that the “I” is not available to us in our acts, that is, it is only knowable in its objectified form as a “Me.” This point is clarified by a remark that directly follows the statement just cited. “The self-conscious, actual self in social intercourse is the objective ‘me’ or ‘me’s’ with the process of response continually going on and implying a fictitious ‘I’ always out of sight of himself” (MSC in SW, 141). A transcendental ego is not fictitious. But for Mead, since we are dealing with a functional distinction here, it is quite acceptable to refer to the “I” as fictitious in a metaphysical sense.
+
+Why, then, do we seem to experience what Mead refers to as a “running current of awareness,” that is, an ego that appears to be aware of itself as it acts and thinks, if the “I” is not immediately aware of itself (SS in SW, 144)? William James sought to explain this phenomenon in terms of proprioception and the relationship between “parts” of the stream of consciousness. (James 1890, 296–307; James 1904, 169–183; James 1905, 184–194)[^james-1890][^james-1904][^james-1905]. Mead developed a unique explanation based on the relationship of the “I” to the “Me.” As we have seen, the “I” reacts and initiates action, but the actions taken are comprehended, objectified, as a “Me.” However, the “Me” is not simply confined to the objectifications of the immediate actions of the “I.” The “Me” carries with it internalized responses that serve as a commentary on the “I’s” actions. Mead states, “The action with reference to the others calls out responses in the individual himself—there is then another ‘me’ criticizing, approving, and suggesting, and consciously planning, i.e., the reflective self” (SS in SW, 145). The running current of awareness, then, is not due to the “I” being immediately aware of itself. It is due to the running commentary of the “Me” on the actions of the “I.” The “Me” follows the “I” so closely in time that it appears as if the “I” is the source of the “running current of awareness.”
+
+Freud’s super-ego could be conscious or unconscious. One might think of the “Me” as similar to the conscious super-ego in the commentary that it provides, but one would have to be careful not to carry this analogy too far. For Mead, the “Me” arises in relationship to systems of behaviors, generalized others, and, therefore, is by definition multiple, although the behaviors of various “Me’s” can overlap. Further, Freud’s model assumes a determinism that is not inherent in the relationship of the “I” to the “Me.” Not only does the “I” initiate novel responses, its new behaviors can become part of a “Me.” In other words, “Me’s” are not static. They are systems that often undergo transformation. This will become more apparent in the next section when we discuss Mead’s ideas regarding emergence. In this context it is enough to suggest the following: when a ballplayer makes a catch in a manner that has never been made before—that is, makes a play that is significantly different from prior catches—the new play may become part of the repertoire of the team’s behaviors. In other words, the play may alter the existing generalized other by modifying existing behavioral patterns. In so doing, it gives rise to a modified or new self because the game as a whole has been changed. Once again, this may be easier to see in terms of the transformations that take place in families when new reactions occur as children and adults interact over time. New selves are generated as family systems are transformed.
+
+## 5. Sociality, Emergence, and *The Philosophy of the Present*
+
+We have seen that the “I” introduces novelty in actions and in the interactions between human beings. For Mead, novelty is not a phenomenon that can be accounted for in terms of human ignorance, as it can for a determinist such as Spinoza. In the Spinozistic framework, even though everything in nature is determined, as finite modes we must remain ignorant of the totality of causes. In principle, however, an infinite Mind could predict every event. Mead, following in the footsteps of Darwin, argues that novelty is in fact an aspect of the natural world, and that there are events that are not only unpredictable due to ignorance, but are in principle impossible to predict. In the latter category, for example, we find mutations that help to give rise to new species, as well as the creative responses of baseball players, musicians, composers, dancers, scientists, etc.
+
+In *The Philosophy of the Present*—a compilation based on the Carus Lectures delivered in late 1930 in Berkeley—Mead outlines his thoughts on nature and time. Mead did not have the opportunity to develop his ideas into a book. (He passed away early in 1931.) In spite of the fact that these lectures were hurriedly written due to obligations that he had as chair of the University of Chicago’s philosophy department, they contain ideas that illuminate his earlier work and indicate the direction of his thought. On the first page of the lectures we are told that “reality exists in a present” and that we do not live in a Parmenidean cosmos (PP, 1). “For a Parmenidean reality does not exist. Existence involves non-existence: it does take place. The world is a world of events” (PP, 1). Our world is one in which change is real and not merely a subjective, perceptual, phenomenon.
+
+> It seems to me that the extreme mathematization of recent science in which the reality of motion is reduced to equations in which change disappears in an identity, and in which space and time disappear in a four dimensional continuum of indistinguishable events which is neither space nor time is a reflection of the treatment of time as passage without becoming. (PP, 19)
+
+The universe doesn’t just spin its wheels and offer motion without real novelty. Part of the impetus behind *The Philosophy of the Present* was to argue against an interpretation of space-time, such as Hermann Minkowski’s, which eliminates the truly novel or the emergent. Emergence involves not only biological organisms, but matter and energy; for example, there is a sense in which water can be spoken of as emerging from the combination of hydrogen and oxygen.[^note-1] Nevertheless, biological examples appear best suited to Mead’s approach. It’s worth noting at this juncture that Mead had always been keenly interested in science and the scientific method. However, as a pragmatist, the test of a scientific hypothesis for him is whether it can illuminate *the world that is there.* He certainly was never a positivist.
+
+As mentioned, Mead is a systemic thinker who speaks of taking the perspectives of others and of generalized others. These perspectives are not “subjective” for Mead. They are “objective” in the sense that they provide frames of reference and shared patterns of behavior for members of communities. (This is not to say that every human community has an equally viable account of the natural world. This is in part why we have science for Mead.) However, it is not only human perspectives that are objective for Mead. While it is true that only human beings share perspectives in a manner that allows them to be (self) conscious about the perspectives of others, there is an objective reality to non-human perspectives. How can a non-human perspective be objective? In order to answer this question, a few general remarks about Mead’s notion of “perspective” are in order. First, it is important to note that perspectives are not primarily visual for Mead. They are ways of speaking about how organisms act and interact in environments. In the words of David Miller,
+
+> According to Mead, every perspective is a consequence of an active, selecting organism, and no perspective can be built up out of visual experiences alone or out of experiences of the so-called secondary qualities. A perspective arises out of a relation of an active, selective, percipient event and its environment. It determines the order of things in the environment that are selected, and it is in nature…. We make distinctions among objects in our environment, finally, through, contact. (Miller 1973, 213)[^miller-1973]
+
+Mead has been referred to as a tactile philosopher, as opposed to a visual one, because of the importance of contact experience in his thought. Perspectives involve contact and interaction between organisms and their environments. For example, a fish living in a certain pond can be thought of as inhabiting an ecosystem. The way in which it navigates the pond, finds food to eat, captures its food, etc., can be spoken of as the fish’s perspective on the pond, and it is objective, that is, its interactions are not a matter of the subjective perceptions of the fish. Its interactions in its environment shape and give form to its perspective, which is different from the snail’s perspective, although it lives in the same waters. In other words, organisms stratify environments in different ways as they seek to meet their needs (Miller 1973, 207–217)[^miller-1973]. The pond, in fact, is not one system but many systems in the sense that its inhabitants engage in different, interlaced interactions, and therefore have different objective perspectives. The fish, of course, does not comprehend its perspective or localized environment as a system, but this doesn’t make its perspective subjective. Human beings, given our capacity to discuss systems in language, can describe the ecology of a pond (or better, the ecologies of a pond depending on what organisms we are studying). We can describe, with varying degrees of accuracy, what it is like to be a fish living in a particular pond, as opposed to a snail. Through study we learn about the perspectives of other creatures, although we cannot share them as we can the perspectives of the language bearing members of our own species.
+
+For Mead, as noted, systems are not static. This is especially evident in the biological world. New forms of life arise, and some of them are due to the efforts of human beings, for example, the botanists who create hybrids. Mead argues that if a new form of life emerges from another form, then there is a time when the new organism has not fully developed, and therefore has not yet modified its environmental niche. In this situation the older order, the old environment, has not disappeared but neither has the new one been born. Mead refers to this state of betwixt and between as *sociality*.
+
+> When the new form has established its citizenship the botanist can exhibit the mutual adjustments that have taken place. The world has become a different world because of the advent, but to identify sociality with this result is to identify it with system merely. It is rather the stage betwixt and between the old system and the new one that I am referring to. If emergence is a feature of reality this phase of adjustment, which comes between the ordered universe before the emergent has arisen and that after it has come to terms with the newcomer, must be a feature also of reality. (PP, 47)
+
+Sociality is a key idea for Mead and it has implications for his sociology and social psychology. If we think of the “Me” as a system, then there are times when the “I” initiates new responses that may or may not be integrated into an existing “Me.” But if they come to be integrated, then there is a time betwixt and between the old and new “Me” system. What makes this all the more interesting is that human beings have a capacity for reflection. We can become aware of changes that are taking place as we “stand” betwixt and between, which allows for the possibility of influencing the development of a future self. We can even set up conditions to promote changes that we believe may transform us in certain ways. Or to put this in another light, new problems are bound to arise in the world, and because of our capacity for sociality, we can get some purchase on the courses of action available to us as we reflect on the novel problems confronting us. Of course, because the problems are novel means that we do not have ready solutions. However, the capacity to stand betwixt and between old and (possible) new orders, as we do between old and new social roles, provides us with some opportunity for anticipating alternatives and integrating new responses. As a matter of fact, Mead links moral development with our capacity for moving beyond old values, old selves, in order to integrate new values into our personalities when new situations call for them.
+
+> To leave the field to the values represented by the old self is exactly what we term selfishness. The justification for the term is found in the habitual character of conduct with reference to these values.…Where, however, the problem is objectively considered, although the conflict is a social one, it should not resolve itself into a struggle between selves, but into such reconstruction of the situation that different and *enlarged and more adequate personalities may emerge*. (SS in SW, 148) [emphasis added]
+
+It’s worth noting here that Mead did not develop an ethics, at least not one that was systematically presented. But his position bears a kinship to theorists of moral sentiment, if we understand “the taking the perspectives of others” as a more sophisticated statement of sympathetic attachments. It is important to emphasize that for pragmatic reasons Mead does not think that the idea of compassion is sufficient for grounding an ethics. He argues for a notion of obligation that is tied to transforming social conditions that generate pain and suffering.[^note-2]
+
+Returning to Mead’s notion of sociality, we can see that he is seeking to emphasize transitions and change between systems. This emphasis on change has repercussions for his view of the present, which is not to be understood as a knife-edge present. In human experience, the present arises from a past and spreads into the future. In a manner reminiscent of James’s account of the stream of thought, Mead argues that the present entails duration (James 1890, 237–283)[^james-1890]. It retains the receding past and anticipates the imminent future. Yet because reality ultimately exists in the present, Mead argues that the historical past, insofar as it is capable of being experienced, is transformed by novel events. History is not written on an unchanging scroll. Novelty gives lie to this way of seeing the past. By virtue of its originality, the novel event, the emergent, can not be explained or understood in terms of prior interpretations of the past. The past, which by definition can only exist in the present, changes to accommodate novel events.
+
+> It is idle, at least for the purposes of experience, to have recourse to a “real” past within which we are making constant discoveries; for that past must be set over against a present within which the emergent appears, and the past, which must then be looked at from the standpoint of the emergent, becomes a different past. The emergent when it appears is always found to follow from the past, but before it appears it does not, by definition, follow from the past. (PP, 2)
+
+## 6. Determinism and Freedom
+
+Mead’s account of the “Me” and the generalized other has often led commentators to assume that he is a determinist. It is certainly the case that if one were to emphasize Mead’s concern with social systems and the social development of the self, one might be led to conclude that Mead is a theorist of the processes of socialization. And the latter, nested as they are within social systems, are beyond the control of individuals. However, when one considers the role of the “I” and novelty in his thinking, it becomes more difficult to view him as a determinist. But his emphasis on novelty only seems to counter determinism with spontaneity. This counter to determinism in itself doesn’t supply a notion of autonomy—self-governance and self-determination—which is often viewed as crucial to the modern Western notion of the subject. However, Mead was a firm booster of the scientific method, which he viewed as an activity that was at its heart democratic. For him, science is tied to the manner in which human beings have managed from pre-recorded times to solve problems and transform their worlds. We have just learned to be more methodical about the ways in which we solve problems in modern science. If one considers his discussions of science and problem solving behavior, which entail anticipatory experience, the reflexivity of consciousness, the sharing of perspectives and their objective reality, and the creativity of the “I,” then one begins to see how Mead thought that our biological endowments coupled with our social skills could assist us in shaping our own futures, as well aid us in making moral decisions. He did not work out the details of this process, especially with regard to moral autonomy and the “I’s” role in it.[^note-3] There is, however, little doubt that he thought autonomy possible, but the condition for its possibility depends on the nature of the self’s genesis and the type of society in which it develops.
+
+## 7. Recent Scholarship and Trends
+
+For the better part of half a century, a resurgence of interest in pragmatism has led to a steady production of scholarship on the classical American pragmatists. Countless articles, books, and conferences have been dedicated to rediscovering and reinventing the ideas of Peirce, James, and Dewey. Journals devoted to their work are available in print and online. George Herbert Mead is the curious exception. For Mead, no eponymous journals exist. Only a handful of philosophy conferences have been held in his honor.[^note-4] In comparison to these other pragmatists, the promise of his contributions remains unfulfilled.
+
+Many of the influential pragmatists of our time proudly accept the title of inheritors and stewards of the thought of Peirce, James, or Dewey. While many sociologists have taken up Mead’s banner, he has not received comparable treatment in philosophical circles. Early reviews of Mead’s posthumous publications appraised him as comparable in genius and stature to Dewey and James (Shalin 2015)[^shalin-2015]. These reviewers anticipated Mead’s novel ideas would prompt much philosophical debate (Shalin 2015)[^shalin-2015]. But philosophers who thought highly of him were often disappointed. Maurice Natanson (1956, 1) wrote of his dissatisfaction with philosophy scholars’ neglect of Mead, “The work of a truly major American philosopher is today largely unknown, frequently misunderstood where he is known, and more often than not, simply ignored.” Mead remains frequently glossed over, even by most scholars of pragmatism. The result has been a deficit in philosophical Mead scholarship relative to other classical pragmatists. (This, however, is not to say that there hasn’t been important work done on Mead, for example, Habermas’s *Theory of Communicative Action* is indebted to Mead.) In this section we will highlight promising recent scholarship and trends, which may open up avenues for future research.
+
+Since the posthumous publication of *Mind, Self, and Society*, commentaries on Mead have often relied heavily on works that he did not publish, with particular emphasis on those lecture notes and manuscripts addressing the genesis and development of the mind and self. However, a systematic analysis of Mead’s philosophy requires an assessment of the whole of his work, including work published in his lifetime (Cook 1993, xiii-xiv)[^cook-1993]. A relatively recent methodological trend in Mead scholarship consists of reframing Mead’s legacy from a philosopher who seldom published to one whose written canon adds up to over 120 items and counting (Carreira da Silva 2008, 6; 2011, ix-x; Cook 2013, 95; Côté 2015; Reck in SW, xiii-lxii; Taylor 2019; Throop and Ward 2007)[^cook-2013][^côté-2015][^silva-2008][^taylor-2019][^throop-2007]. By utilizing writings in which Mead’s authorship is uncontested, these commentators seek to present Mead in a voice closer to his own. This trend in research on “the published Mead” has led to inventive investigations into Mead’s theories of experience, perception, action, emergence, society, the mind, and social cognition. Future efforts employing this method have the potential to highlight Mead’s contributions to the philosophies of history, education, politics, and the social sciences.
+
+Mead developed an interest in physiology early in his intellectual development, and he certainly saw us as embodied organisms, for whom the sense of touch was uniquely important. But the relationship between the body and the self has been subject to different interpretations. Some recent studies on Mead have sought to address the constitutive role of bodily awareness in the emergence of mind and self, and rethink what is necessary to articulate a unified embodied self, given Mead’s distinctions between the “I” and “Me” (see, for example, Cook 2013; McVeigh 2020)[^cook-2013][^mcveigh-2020]. Consequently, two interrelated trajectories in contemporary Mead scholarship have emerged: 1) investigations into the possibility of a pre-reflective self, particularly as it pertains to the constitution of a unified self, and 2) situating Mead among social cognition theorists, whereby his philosophy serves as a precursor to what is now viewed as the second wave of cognitive science built upon action-oriented theories of 4EA cognition (i.e., embedded, embodied, enactive, extended, and affective).
+
+Several contemporary commentators on Mead assert that within his theory of the origin and development of the self lies an opportunity (or a missed opportunity, depending on the degree of criticism) to account for a pre-reflective bodily self-awareness in humans that permits a non-linguist, auto-affective, naturalized account of unified bodily agency, which precedes the development of the social self (Geniusas 2006; Madzia 2015)[^geniusas-2006][^madzia-2015]. Madzia (2015, 82) argues that for a unifying self (capable of self-reflection) to emerge, we must presuppose body ownership, that is, a “primal self-awareness” emanating from a body-mindedness. Similarly, while invoking Jean-Luc Marion’s phenomenology, Geniusas (2006, 258) contends that acknowledging a “primordial self-givenness” generated by auto-affection accounts for the “mineness of experience” and aids in individuation. Further, he maintains that the concept of auto-affection dissolves the problem of delineating a sharp distinction between Mead’s “I” and “Me,” because the self would be able to know the “I” directly (Geniusas 2006)[^geniusas-2006]. These accounts are not meant to undermine Mead’s social self but to supplement it as a precondition of human role-taking. Such accounts may be viewed as addressing the relationship between animal and human intelligence. Moreover, Madzia (2013; 2015, 83) argues, incorporating a “primal self-awareness” as a stage in the genesis and evolution of the self affords Mead the added benefit of making his theory compatible with pragmatism’s principle of continuity. Nonetheless, Mead might disagree with these approaches and respond to such commentaries by restating his commitment to the social constitution of the self: “I do not want to discuss metaphysical problems, but I want to insist that the self has a sort of structure that arises in social conduct that is entirely distinguishable from this so-called subjective experience” (MSS, 166).
+
+To address Mead’s apparent failure to provide a comprehensive account of a unified self, some scholars have taken a different course. They have attempted to demonstrate how narrative can play a role in interpreting Mead’s work, for example, by providing the resources necessary to harmonize the multiple selves articulated by Mead (Aboulafia 2016; Jackson 2010)[^aboulafia-2016][^jackson-2010]. A turn to narrative can be viewed as bringing Mead closer to the hermeneutic philosophy of Charles Taylor and Paul Ricoeur (see, for instance, Ezzy 1998)[^ezzy-1998].
+
+Taking up the second trajectory mentioned above, we find studies in what has been called the pragmatic turn in second generation cognitive science (Baggio 2021)[^baggio-2021]. There are scholars – for example, Guido Baggio (2021), Roman Madzia (2016a, 2016b, 2017), and Ryan McVeigh (2016, 2020) – who view Mead’s philosophy as a forerunner to more contemporary physically embodied, socially embedded, action-oriented theories of social cognition and mind.[^note-5] These commentators share the belief that Mead’s interconnected theories of emergence, perception, action, and mind provide fertile areas for critical engagement with contemporary studies of enactive, extended, and embodied cognition.
+
+Mead and second-generation cognitive theorists share a commitment to the evolutionary, genetic, and ultimately social development of cognition. Projects in 4EA cognition have the potential to align with, or better, respond to Mead’s demand that questions of mind and the self are developed out of an integration of the “parallel” disciplines of philosophy, social psychology, and physiology (CP in ESP, 9–18; see also McVeigh 2016, 2020)[^mcveigh-2016]. For instance, it has been argued that mirror neurons function as the neurological mechanism that allows for humans to take the attitude of others (Madzia 2013; McVeigh 2016)[^mcveigh-2016]. Contemporary research in cognitive science that addresses the perspectival nature and embodied sociality of such cognitive mechanisms as basic-level cognition and joint attention has the potential to complement and enrich Mead’s views on the emergence of self, mind, and society (McVeigh 2016; Cahoone 2013, 2019; see also Tomasello 2020)[^cahoone-2013][^mcveigh-2016][^tomasello-2020].
+
+Further, the importance for Mead of evolutionary processes and contact experience in the genesis and development of the self and mind opens the door to the integration of his philosophy and cognitive science in such areas as sensorimotor enactivism (Baggio 2021)[^baggio-2021] and the extended (Madzia 2013) and embodied mind (McVeigh 2020; Madzia 2016)[^mcveigh-2020]. Notably, the primacy of the hand’s role in Mead’s theory of perception lends itself to current cognitive accounts of the embodied mind and the development of human intelligence and culture (Madzia 2017)[^madzia-2017].
+
+We now transition from the philosophy of mind to the impact of Mead’s work in social and political philosophy, and its relationship to Hegel. Mead’s early Hegelianism has been aptly noted (Cook 1993, 37–47; Joas 1985)[^cook-1993][^joas-1985]. Although there are scholars who argue that Mead shed his Hegelian roots, others recommend that Mead’s mature work be read in light of Hegel (Aboulafia 2010)[^aboulafia-2010]. Recently, while continuing the methodological project of a systematic reading of “the published Mead,” Jean-François Côté (2015) presents a critical reconstruction of Mead’s concept of society by advancing a genealogical account of Mead’s lifelong engagement with Hegelian themes. Here, the cogenesis and indefinite co-restructuring of a self-aware society and selfhood, in its ontogenetic and phylogenetic manifestations, represent a marriage between Darwin’s evolutionary processes and Hegel’s dialectics. Côté (2015) asserts that for Mead, modern mass democracy –characterized by the political reforms of his time and the development of what Mead calls “international-mindedness” – has produced a self-aware and self-transformative global society. Côté (2015, 181) notes, however, that the promise of a cosmopolitan society does not end in mere “globalization.” Indebted to the thought of Mead, Aboulafia’s (2010) most recent book examines self-determination and cosmopolitanism. Among other topics, he explores the ways in which the social self and a form of transcendence relate to self-determination and the fashioning of a cosmopolitan sensibility that is sensitive to the experiences of different groups and peoples. Aboulafia’s and Côté’s projects offer opportunities to develop a Mead-inspired political theory that emphasizes the transformative efforts of individuals and institutions.
+
+Over the years comparative analyses of Mead have brought him into conversation with analytic philosophers such as Wittgenstein, Sellars, Quine, and Davidson (Baggio 2016a, 2019, 2020; Madzia 2013c)[^baggio-2016a][^madzia-2013c], the Continental thought of Habermas and Arendt (Aboulafia 2001)[^aboulafia-2001], phenomenologists such as Sartre, Merleau-Ponty, Heidegger, Levinas, and Marion (Aboulafia 1986, 2001; Geniusas 2006; Jung 1995; Rosenthal and Bourgeois 1991)[^aboulafia-1986][^geniusas-2006][^jung-1995][^rosenthal-1991], the philosophic hermeneutics and expressivism of Charles Taylor (Abbott 2020; Fietz 2021)[^abbott-2020][^fietz-2021], the developmental psychologist, linguist, and cognitive scientist Michael Tomasello (Cahoone 2013, 2019; McVeigh 2016; Nungesser 2016; Tomasello 2020)[^cahoone-2013][^mcveigh-2016][^nungesser-2016][^tomasello-2020], economic thought, particularly Veblen and Sen (Baggio 2016a, 2016b, 2017; Betz 2013; Green 2013)[^baggio-2016a][^betz-2013][^green-2013], animal studies (Booth 2016b; Gallagher 2016)[^booth-2016b][^gallagher-2016], and psychoanalytic theory (Côté 2015; Santarelli 2013)[^côté-2015][^santarelli-2013]. Research in pragmatist feminism has revealed the influence of Mead on philosopher, educator, and activist Grace Lee Boggs (previously Grace Chin Lee), whose dissertation and first book presented an early critical introduction to Mead’s social philosophy (Lee 1945; Lake 2020; Varner 2021; see also Huebner 2022, 20)[^huebner-2022][^lake-2020][^lee-1945][^varner-2021].
+
+Of interest, also, are those studies in philosophical hermeneutics placing Mead in the tradition of Dilthey, Heidegger, and Gadamer (Côté 2021; Jung 1995; Taylor 2019)[^côté-2021][^jung-1995][^taylor-2019]. In recognizing the early influence of Dilthey on Mead while a student in Berlin, we can begin to see how and where their interrelated interests developed similarities and differences, particularly as they relate to the natural and social sciences. Returning to their student-teacher relationship serves as a springboard for contemporary philosophical debates regarding the primacy of experience and life-processes, the significance of historical situatedness, and the overcoming of the traditional separation of theory and praxis (Jung 1995)[^jung-1995].
+
+Lastly, we arrive at Mead’s philosophy of education. Before all else, Mead was an educator. A “stimulating” orator, James H. Tufts tells us, for Mead, “the lecture was his medium” (Huebner 2015, 85). He offered courses in a variety of disciplines that spanned the history of thought. Prior to holding appointments at the Universities of Michigan and Chicago, he tried his hand as a grade-school teacher (Cook 1993)[^cook-1993].[^note-6] For Mead, the learner does not merely receive meaning, she industriously incorporates and transforms it. For this reason, he was actively involved in Dewey’s innovative Laboratory School. For many years he served as editor and contributor to the educational journals *School Review* and *Elementary School Teacher*, and publicly spoke on, and published in various other mediums shorter contributions to, the philosophy of education, pedagogy, and educational psychology.
+
+It is often argued that Mead was so consumed by his civic commitment to educational reform in Chicago that he spent little attention to publishing his ideas. Even more important, then, that it is known that his longest published piece in his lifetime was *A Report on Vocational Training in Chicago and in other Cities*, a 1912 coauthored book-length study for the City Club of Chicago comparing practices of vocational education across cities. In opposition to segregating trade schools from traditional scholastic programs, he advocated for practical vocational education as standard in the curriculum of public education (Huebner 2022, 12)[^huebner-2022]. Further, Mead had intended to publish a book of collected short works, titled *Essays on Psychology* (see ESP, xii). Of the 18 chapters, 10 had education as their topic. Moreover, between the years 1905 and 1911, Mead offered four courses on the philosophy of education at the University of Chicago (PE, 3). Recognizing the vital importance of education in Mead’s social philosophy, Alfred Stafford Clayton (1943) published what remains the sole book-length investigation into Mead’s philosophy of education.[^note-7] Not until 2008 were the lecture notes on Mead’s philosophy of education course made available to the public (PE, 2011). Prior to this publication, only a few important studies were made on Mead’s contribution to educational theory (Barnes 2002; Biesta 1998, 1999; Deegan 1999; Martin 2007b)[^barnes-2002][^biesta-1998][^deegan-1999][^martin-2007b]. Since then, little has been added to this important discussion.
+
+Throughout his writings, Mead often referred to the gradual development of a “scientific attitude” in social selves and their society as a “great,” even “splendid secular adventure” (MT, 63, 85; SM in SW, 265–266). Perhaps recent trends in Mead scholarship will further clarify why he was so sanguine about this secular adventure.
+
+## References（引用注释）
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Sources
+
+| [CP] | “Social Psychology as Counterpart to Physiological Psychology,” *Psychological Bulletin*, 6 (1909): 401–408. Page references are to the reprinted edition in [ESP] below. |
+| --- | --- |
+| [MSC] | “The Mechanism of Social Consciousness,” *The Journal of Philosophy, Psychology, and Scientific Methods*, IX (1912): 401–406. Page references are to the reprinted edition in [SW] below. |
+| [SS] | “The Social Self,” *The Journal of Philosophy, Psychology, and Scientific Methods*, X (1913): 374–380. Page references are to the reprinted edition in [SW] below. |
+| [SM] | “Scientific Method and the Moral Sciences,” *International Journal of Ethics*, 33 (1923): 229–247. Page references are to the reprinted edition in [SW] below. |
+| [PP] | *The Philosophy of the Present*, edited with an introduction by Arthur E. Murphy, La Salle, IL: Open Court, 1932. |
+| [MSS] | *Mind, Self, and Society: From the Standpoint of a Social Behaviorist*, edited with an ntroduction by Charles W. Morris, Chicago: University of Chicago Press, 1934. |
+| • | *Mind, Self, and Society: The Definitive Edition*, edited by Charles W. Morris, annotated by Daniel R. Huebner and Hans Joas, Chicago: University of Chicago Press, 2015. |
+| [MT] | *Movements of Thought in the Nineteenth Century*, edited with an introduction by Merritt H. Moore, Chicago: University of Chicago Press, 1936. |
+| [PA] | *The Philosophy of the Act*, edited, with an Introduction, by Charles W. Morris, Chicago: University of Chicago Press, 1938. |
+| [SW] | *Selected Writings: George Herbert Mead*, ed. Andrew J. Reck, Chicago: University of Chicago Press, 1964. |
+| • | *The Individual and the Social Self: Unpublished Works of George Herbert Mead*, edited with an introduction by David L. Miller, Chicago and London: University of Chicago Press, 1982. |
+| • | *Play, School, and Society*, edited, with an Introduction, by Mary Jo Deegan, New York: Peter Lang Publishing, 1999. |
+| [ESP] | *Essays in Social Psychology*, edited, with an Introduction, by Mary Jo Deegan, New Brunswick: Transaction Publishers, 2001. |
+| [PE] | *The Philosophy of Education*, eds. Gert J.J. Biesta and Daniel Troehler, Boulder, CO: Paradigm Publishers, 2011. |
+| • | *G.H. Mead: A Reader*, ed. Filipe Carreira da Silva, New York: Routledge, 2011. |
+
+### Secondary Sources
+
+## Academic Tools
+
+> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mead). |
+> | --- | --- |
+> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mead/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mead&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/mead/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+- [The Mead Project](https://brocku.ca/MeadProject/inventory5.html), Brock University.
+- [George Herbert Mead](https://iep.utm.edu/mead/), *Internet Encyclopedia of Philosophy*
+- [Chronological Bibliography of Mead’s Writings](http://www.pragmatism.org/research/mead.htm), *Pragamatism Cybrary*.
+
+## Related Entries
+
+Addams, Jane | behaviorism | childhood, the philosophy of | cosmopolitanism | Darwinism | Dewey, John | emergent properties | evolution | free will | functionalism | Habermas, Jürgen | Hegel, Georg Wilhelm Friedrich | innateness: and language | James, William | naturalism | Peirce, Charles Sanders | pragmatism | private language | Royce, Josiah | self-consciousness | social institutions | time | Whitehead, Alfred North | Wittgenstein, Ludwig | Wundt, Wilhelm Maximilian
+
+## Notes（原文脚注）
+
+## Notes to George Herbert Mead
+
+[^note-1]: There are those who find the notion of emergence useless as a category or marker, for it appears to be in the eye of the beholder. However, Mead's qualitative or experiential pluralism, which he shares with Dewey and James, would view this criticism as failing to address genuine novelty and the “objective reality of perspectives.” See below for a discussion the latter.
+
+[^note-2]: In “Philanthropy from the Point of View of Ethics,” Mead wrote:
+
+> The sympathetic identification with the individual in distress, however, calls out in us the incipient reactions of warding off, of defense, which the distress arouses in the sufferer, and these reactions become dominant in response of the one who assists. He places himself in the service of the other. We speak of this attitude as that of unselfishness or self-effacement of the charitable individual. But even this attitude of devotion to the interest of the other is not that of obligation, though it is likely to be so considered in an ethical doctrine which makes morality synonymous with self-sacrifice. *The earliest appearance of the feel of obligation is found in the appraisal of the relief to the distressed person in terms of the donor's effort and expenditure*. (SW, 400) [emphasis added]
+
+See *Intelligent Philanthropy*, edited by Ellsworth Faris, Ferris Laune, and Arthur J. Todd, Chicago, University of Chicago Press, 1930, 133-148. Page reference is to the reprinted edition in *Selected Writings* [SW]. See also Aboulafia 2010, Chapter 4.
+
+[^note-3]: For criticisms on the limitations of Mead's position with regard to the “I” and reflection, see Aboulafia 1986.
+
+[^note-4]: For the few published collections of conference papers see Corti 1972, Burke and Skowroñski 2013, and Joas and Huebner 2016.
+
+[^note-5]: For an exhaustive list of current research on Mead and cognitive science, see Baggio 2021.
+
+[^note-6]: What is also seldom noted is that had it not been for his untimely death in April of 1931, Mead was to again follow Dewey, securing a teaching position at Columbia University for the 1931-1932 academic year (Cook 1993, 191-193)[^cook-1993].
+
+[^note-7]: It is important to note this is also one of the first book-length studies on Mead’s philosophy in general. See also Renger 1980 for a discussion of the importance of Mead’s contributions to philosophy of education.
+
+[^abbreviations-nd]: (Abbreviations are noted for cited primary texts.)
+
+[^abbott-2020]: Abbott, Owen, 2020, “The self as the locus of morality: A comparison between Charles Taylor and George Herbert Mead’s theories of the moral constitution of the self,” *The Journal for the Theory of Social Behaviour*, 50(40): 516–533. [[Abbott 2020 available online](https://onlinelibrary.wiley.com/doi/full/10.1111/jtsb.12258)]
+
+[^aboulafia-1986]: Aboulafia, Mitchell, 1986, *The Mediating Self: Mead, Sartre, and Self-Determination*, New Haven: Yale University Press.
+
+[^aboulafia-1991]: ––– (ed.), 1991, *Philosophy, Social Theory, and the Thought of George Herbert Mead*, Albany: SUNY Press.
+
+[^aboulafia-2001]: –––, 2001, *The Cosmopolitan Self: George Herbert Mead and Continental Philosophy*, Urbana and Chicago: University of Illinois Press.
+
+[^aboulafia-2010]: –––, 2010, *Transcendence: On Self-Determination and Cosmopolitanism*, Stanford: Stanford University Press.
+
+[^aboulafia-2016]: –––, 2016, “George Herbert Mead and the Unity of the Self,” *European Journal of Pragmatism and American Philosophy*, 8(1): 201–215. [Aboulafia 2016 available online](https://journals.openedition.org/ejpap/465).
+
+[^baggio-2016a]: Baggio, Guido, 2016a, “The Influence of Dewey’s and Mead’s Functional Psychology upon Veblen’s Evolutionary Economics,” *European Journal of Pragmatism and American Philosophy*, 8(1): 216–236. [[Baggio 2016a available online](https://journals.openedition.org/ejpap/467?lang=en)]
+
+[^baggio-2016b]: –––, 2016b, “Sympathy and Empathy: G.H. Mead and the Pragmatist Basis of (Neuro)economics,” in in *Pragmatism and Embodied Cognitive Science: From Bodily Intersubjectivity to Symbolic Articulation*, eds. Roman Madzia and Matthias Jung. Berlin and Boston: De Gruyter.
+
+[^baggio-2016c]: –––, 2016c, “The concept of ‘behavior’ in epistemology, psychology, and economics, starting from G.H. Mead,” *Paradigmi*, 3: 119–133.
+
+[^baggio-2017]: –––, 2017, “Sen and Mead on Identity, Agency, and Economic Behaviour,” *European Journal of Pragmatism and American Philosophy*, 9(1): 142–164. [[Baggio 2017 available online](https://journals.openedition.org/ejpap/989?lang=en)]
+
+[^baggio-2019]: –––, 2019, “Language, Behaviour, and Empathy: G.H. Mead’s and W.V.O. Quine’s Naturalized Theories of Meaning,” *International Journal of Philosophical Studies*, 7: 1–21.
+
+[^baggio-2020]: –––, 2020, “Pragmatism and Verbal Behaviourism: Mead’s and Sellars’ Theories of Meaning and Introspection,” *Contemporary Pragmatism*, 17(4): 243–267. [[Baggio 2020 available online](https://brill.com/view/journals/copr/17/4/article-p243_243.xml)].
+
+[^baggio-2021]: –––, 2021, “Imagery in action. G.H. Mead’s contribution to sensorimotor enactivism,” *Phenomenology and the Cognitive Sciences*, 20(5): 935–955.
+
+[^baldwin-2002]: Baldwin, John D., 2002, *George Herbert Mead: A Unifying Theory for Sociology*, Dubuque, IA: Kendall Hunt.
+
+[^barnes-2002]: Barnes, Stephen, 2002, “The Contemporary Relevance of George Herbert Mead’s Social Psychology and Pedagogy,” *Philosophical Studies in Education*, 33: 55–63.
+
+[^betz-1974]: Betz, Joseph, 1974, “George Herbert Mead on Human Rights,” *Transactions of the Charles S. Peirce Society*, 10(4): 199–223.
+
+[^betz-2013]: –––, 2013, “George Herbert Mead on Social and Economic Human Rights,” in *George Herbert Mead in the Twenty-first Century*, eds. F. Thomas Burke and Krzysztof P. Skowroñski, Lanham, Maryland: Lexington Books.
+
+[^biesta-1998]: Biesta, Gert, 1998, “Mead, Intersubjectivity, and Education: The Early Writings,” *Studies in Philosophy and Education*, 17(2–3): 73–100.
+
+[^biesta-1999]: –––, 1999, “Redefining the Subject, Redefining the Social, Reconsidering Education: George Herbert Mead’s Course on Philosophy of Education at the University of Chicago,” *Educational Theory*, 49(4): 475–492.
+
+[^blumer-2004]: Blumer, Herbert, 2004, *George Herbert Mead and Human Conduct*, edited, with an Introduction, by Thomas J. Morrione, Walnut Creek, CA: AltaMira Press.
+
+[^booth-2016a]: Booth, Kelvin J., 2016a, “The Meaning of the Social Body: Bringing George Herbert Mead to Mark Johnson’s Theory of Embodied Mind,” *William James Studies*, 12(1): 1–18. [[Booth 2016a available online](https://williamjamesstudies.org/wp-content/uploads/2016/05/Booth_The-Meaning-of-the-Social-Body_WJS_Vol12_no1_Spring_2016_pp1-18.pdf)]
+
+[^booth-2016b]: –––, 2016b, “Imitation and Taking the Role of the Other,” in *The Timeliness of George Herbert Mead*, eds. Hans Joas and Daniel R. Huebner, Chicago and London: University of Chicago Press.
+
+[^burke-2013]: Burke, F. Thomas and Krzysztof P. Skowroński, eds., 2013, *George Herbert Mead in the Twenty-first Century*, Lanham, Maryland: Lexington Books.
+
+[^cahoone-2013]: Cahoone, Lawrance, 2013, “Mead, Joint Attention and the Human Difference,” *The Pluralist*, 8(2): 1–25.
+
+[^cahoone-2019]: –––, 2019, “Mead and the Emergence of the Joint Intentional Self,” *European Journal of Pragmatism and American Philosophy*, 11(2): 196–214. [[Cahoone 2019 available online](https://journals.openedition.org/ejpap/1683)]
+
+[^campbell-1981]: Campbell, James, 1981, “George Herbert Mead on Intelligent Social Reconstruction,” *Symbolic Interaction*, 4(2): 191–205.
+
+[^clayton-1943]: Clayton, Alfred, 1943, *Emergent Mind and Education: A Study of George H. Mead’s Bio-social Behaviorism from an Educational Point of View*. New York: Teachers College, Columbia University, Bureau of Publications.
+
+[^cook-1993]: Cook, Gary A., 1993, *George Herbert Mead, The Making of a Social Pragmatist*, Urbana: University of Illinois Press.
+
+[^cook-2013]: –––, 2013, “Resolving Two Key Problems in *Mead’s Mind, Self, and Society*,” in *George Herbert Mead in the Twenty-first Century*, eds. F. Thomas Burke and Krzysztof P. Skowroñski, Lanham, Maryland: Lexington Books.
+
+[^cortie-1973]: Cortie, Robert, ed., 1973, *The Philosophy of George Herbert Mead*, Switzerland: Amriswiler Bücherei, 1973.
+
+[^côté-2015]: Côté, Jean-François, 2015, *George Herbert Mead’s Concept of Society: A Critical Reconstruction*, Boulder and London: Paradigm Publishers.
+
+[^côté-2021]: –––, 2021, “George Herbert Mead’s Pragmatism and Wilhelm Dilthey’s Hermeneutics: Similarities and Differences that Widen and Deepen Sociological Analysis,” *The American Sociologist*, 52(4): 702–720.
+
+[^deegan-1999]: Deegan, Mary Jo, 1999, “Introduction” in *Play, School, and Society*, New York: Peter Lang Publishing.
+
+[^deegan-2008]: –––, 2008, *Self, War, and Society: George Herbert Mead’s Macrosociology*, New Brunswick, NJ: Transaction Publishers.
+
+[^dewey-1932]: Dewey, John, 1932, “Prefatory Remarks,” in George Herbert Mead, *The Philosophy of the Present*, ed. Arthur E. Murphy, La Salle, IL: Open Court.
+
+[^ezzy-1998]: Ezzy, Douglas, 1998, “Theorizing Narrative Identity: Symbolic Interactionism and Hermeneutics,” *The Sociological Quarterly*, 39(2): 239–252.
+
+[^fietz-2021]: Fietz, Daphne, 2021, “Integrating Meaningful Selfhood into the Sociological Study of Political Languages: Blending Mead’s Pragmatism and Taylor’s Hermeneutics,” *The American Sociologist*, 52(4): 721–739.
+
+[^fischer-2008]: Fischer, Marilyn, 2008, “Mead and the International Mind,” *Transactions of the Charles S. Peirce Society*, 44(3): 508–531.
+
+[^gallagher-2016]: Gallagher, Timothy J., 2016, “Human-Animal Studies, G.H. Mead, and the Question of Animal Minds,” *Society & Animals: Journal of Human-Animal Studies*, 24(2): 53-71.
+
+[^geniusas-2006]: Geniusas, Saulius, 2006, “Is the Self of Social Behaviorism Capable of Auto-Affection? Mead and Marion on the ‘I’ and the ‘Me,’” *Transactions of the Charles S. Peirce Society: A Quarterly Journal in American Philosophy*, 42(2): 242–265.
+
+[^gillespie-2005]: Gillespie, A., 2005, “G. H. Mead: Theorist of the social act,” *Journal for the Theory of Social Behaviour*, 35: 19–39.
+
+[^green-2013]: Green, Judith, 2013, “Transforming Global Social Habits: G.H. Mead’s Pragmatist Contributions to Democratic Political Economy,” in *George Herbert Mead in the Twenty-first Century*, eds. F. Thomas Burke and Krzysztof P. Skowroñski, Lanham, Maryland: Lexington Books.
+
+[^habermas-1987]: Habermas, Jürgen, 1987, *The Theory of Communicative Action, Vol. II*, tr. Thomas McCarthy, Boston: Beacon Press.
+
+[^habermas-1992]: –––, 1992, “Individuation through Socialization: On George Herbert Mead’s Theory of Subjectivity,” in *Postmetaphysical Thinking: Philosophical Essays*, tr. William Mark Hohengarten, Cambridge: MIT Press, 149–204.
+
+[^hanson-1986]: Hanson, Karen, 1986, *The Self Imagined: Philosophical reflections on the social character of the psyche*, New York and London: Routledge & Kegan Paul.
+
+[^huebner-2014]: Huebner, Daniel R., 2014, *Becoming Mead: The Social Process of Academic Knowledge*, Chicago: University of Chicago Press.
+
+[^huebner-2022]: –––, 2022, *Reintroducing George Herbert Mead*, New York: Routledge.
+
+[^jackson-2010]: Jackson, Stevi, 2010, “Self, Time, and Narrative: Rethinking the Contribution of G. H. Mead, *Life Writing*, 7(2): 123–136.
+
+[^james-1890]: James, William, 1890, *The Principles of Psychology*, *Volume One*, New York: Henry Holt & Co. 1890. Reprinted, New York: Dover Publications, 1950. (Reprint and the original have the same pagination.)
+
+[^james-1904]: –––, 1904, “Does ‘Consciousness’ Exist?”, *Journal of Philosophy, Psychology, and Scientific Methods*, 1(18): 477–491. Page reference is to the reprinted edition in *The Writings of William James*, ed. John J. McDermott, New York: Random House, 1968.
+
+[^james-1905]: –––, 1905, “The Notion of Consciousness,” *Archives de Psychologie*, 5(17). Page reference is to the reprinted edition in *The Writings of William James*, ed. John J. McDermott, New York: Random House, 1968. [This paper was first presented in French at the Fifth International Congress of Psychology, Rome, April, 1905]
+
+[^joas-1985]: Joas, Hans, 1985, *G.H. Mead: A Contemporary Re-examination of his Thought*, trs. Raymond Meyer, Cambridge, MA: The MIT Press.
+
+[^joas-2016]: Joas, Hans, and Huebner, Daniel R., eds., 2016, *The Timeliness of George Herbert Mead*, Chicago and London: University of Chicago Press.
+
+[^jung-1995]: Jung, Matthias, 1995, “From Dilthey to Mead and Heidegger: Systematic and Historical Relations,” *Journal of the History of Philosophy*, 33(4): 661–677.
+
+[^jung-2016]: Jung, Matthias, and Madzia, Roman, eds., 2016, *Pragmatism and Embodied Cognitive Science: From Bodily Intersubjectivity to Symbolic Articulation*, Berlin and Boston: De Gruyter, 2016.
+
+[^lake-2020]: Lake, Danielle, 2020, “Pragmatist Feminism as Philosophic Activism: The [R]evolution of Grace Lee Boggs,” *The Pluralist*, 15(1): 25–45.
+
+[^lee-1945]: Lee, Grace Chin, 1945, *George Herbert Mead: Philosopher of the Social Individual*, New York: King’s Crown Press.
+
+[^lee-1963]: Lee, Harold N., 1963, “Mead’s doctrine of the past,” *Tulane Studies in Philosophy*, 12: 52–75.
+
+[^madzia-2013a]: Madzia, Roman, 2013a, “Chicago Pragmatism and the Extended Mind Theory: Mead and Dewey on the Nature of Cognition,” *European Journal of Pragmatism and American Philosophy*, 5(1): 195–215. [[Madzia 2013a available online](https://journals.openedition.org/ejpap/609?lang=en)]
+
+[^madzia-2013b]: –––, 2013b, “Mead and self-embodiment: imitation, simulation, and the problem of taking the attitude of the other,” *Österreich Z Soziol*, 38: 195–213.
+
+[^madzia-2013c]: –––, 2013c, “The Concept of Rule-Following in the Philosophy of George Herbert Mead,” in *George Herbert Mead in the Twenty-first Century*, eds. F. Thomas Burke and Krzysztof P. Skowroñski, Lanham, Maryland: Lexington Books.
+
+[^madzia-2015]: –––, 2015, “Self-construction and Self-awareness: Which One Comes First?,” *Pragmatism Today*, 6(1): 76–87. [[Madzia 2015 available online](https://www.pragmatismtoday.eu/summer2015/09%20Madzia.pdf)]
+
+[^madzia-2016a]: –––, 2016a, “Presentation and representation: Language, content, and the reconstruction of experience,” in *The Timeliness of George Herbert Mead*, eds. Hans Joas and Daniel R. Huebner, Chicago and London: University of Chicago Press.
+
+[^madzia-2016b]: –––, 2016b, “Mind, Symbol, and Action-Prediction: George Herbert Mead and the Embodied Roots of Language,” in *Pragmatism and Embodied Cognitive Science: From Bodily Intersubjectivity to Symbolic Articulation*, eds. Roman Madzia and Matthias Jung. Berlin and Boston: De Gruyter.
+
+[^madzia-2017]: –––, 2017, “The humble genius: On the cognitive role of the human hand from the embodied viewpoint,” *Pragmatism Today*, 8(1): 45–61. [[Madzia 2017 available online](https://www.pragmatismtoday.eu/summer2017/The-Humble-Genius-On-the-Cognitive-Role-of-the-Human-Hand-from-the-Embodied-Viewpoint-Roman-Madzia.pdf)]
+
+[^martin-2010]: Martin, Jack, and Gillespie, A., 2010, “A neo-Meadian approach to human agency: Relating the social and the psychological in the ontogenesis of perspective coordinating persons,” *Integrative Psychological and Behavioral Science*, 44: 252–272.
+
+[^martin-2011]: Martin, Jack, and Sokol, Bryan, 2011, “Generalized others and imaginary audiences: A neo-Meadian approach to adolescent egocentrism,” *New Ideas in Psychology*, 29(3): 364–375.
+
+[^martin-2005]: Martin, J., 2005, “Perspectival selves in interaction with others: Re-reading G. H. Mead’s social psychology,” *The Journal for the Theory of Social Behaviour*, 35: 231–253.
+
+[^martin-2006]: –––, 2006, “Re-interpreting internalization and agency through G. H. Mead’s perspectival realism,” *Human Development*, 49: 65–86.
+
+[^martin-2007a]: –––, 2007a, “Interpreting and extending G. H. Mead’s ‘metaphysics’ of selfhood and agency,” *Philosophical Psychology*, 20: 441–456.
+
+[^martin-2007b]: –––, 2007b, “Educating Communal Agents: Building on the Perspectivism of G.H. Mead,” *Educational Theory*, 57(4): 435–452.
+
+[^mcveigh-2016]: McVeigh, Ryan, 2016, “Basic Level Categories, Mirror Neurons, and Joint-Attention Schemes: Three Points of Intersections Between Mead and Cognitive Science,” *Symbolic Interaction*, 39(1): 45–65.
+
+[^mcveigh-2020]: –––, 2020, “The Body in Mind: Mead’s Embodied Cognition,” *Symbolic Interaction*, 43(3): 493–513.
+
+[^miller-1943]: Miller, David, 1943, “G.H. Mead’s Conception of “Present,” *Philosophy of Science*, 10(1): 40–46.
+
+[^miller-1973]: –––, 1973, *George Herbert Mead: Self, Language, and the World*, Austin, Texas: University of Texas Press, 1973. Page references are to the reprinted edition, Chicago: University of Chicago Press, 1980.
+
+[^natanson-1953]: Natanson, Maurice, 1953, “George Herbert Mead’s Metaphysics of Time,” *Journal of Philosophy*, 50: 770–782.
+
+[^natanson-1956]: –––, 1956, *The Social Dynamics of George H. Mead*, Introduction by Horace M. Kallen, Washington, D.C.: Public Affairs Press.
+
+[^nungesser-2016]: Nungesser, Frithjof, 2016, “Mead Meets Tomasello: Pragmatism, Cognitve Science, and the Origins of Human Communication and Sociality,” in *The Timeliness of George Herbert Mead*, eds. Hans Joas and Daniel R. Huebner, Chicago and London: University of Chicago Press.
+
+[^pearce-2020]: Pearce, Trevor, 2020, *Pragmatism’s Evolution: Organism and Environment in American Philosophy*, Chicago and London: University of Chicago Press.
+
+[^pfuetze-1961]: Pfuetze, Paul E., 1961, *Self, Society, Existence: Human Nature and Dialogue in the Thought of George Herbert Mead and Martin Buber*, New York: Harper and Row, Torchbooks.
+
+[^renger-1980]: Renger, Paul, 1980, “George Herbert Mead’s Contributions to the Philosophy of American Education,” *Educational Theory*, 30(2): 115–133.
+
+[^rigney-2015]: Rigney, Ernest G. and Timothy C. Lundy, 2015, “From a Pragmatist’s Point of View: George Herbert Mead’s Unattributed Review of Theodore Merz’s *A History of European Thought in the Nineteenth Century*,” *European Journal of Pragmatism and American Philosophy*, 7(1): 191–203. [[Rigney & Lundy 2015 available online](https://journals.openedition.org/ejpap/383)]
+
+[^rosenthal-1991]: Rosenthal, Sandra B. and Patrick L. Bourgeois, 1991, *Mead and Merleau-Ponty: Toward a Common Vision*, Albany: SUNY Press.
+
+[^santarelli-2013]: Santarelli, Matteo, 2013, “From Others to the Other: A Psychoanalytic Reading of George Herbert Mead,” in *George Herbert Mead in the Twenty-first Century*, eds. F. Thomas Burke and Krzysztof P. Skowroñski, Lanham, Maryland: Lexington Books.
+
+[^shalin-1988]: Shalin, Dmitri, 1988, “G.H. Mead and the Progressive Agenda,” *American Journal of Sociology*, 93(4): 913–951.
+
+[^shalin-2015]: –––, 2015, “Making the Sociological Canon: The Battle over George Herbert Mead’s Legacy,” *The American Sociologist*, 46(3): 313–340.
+
+[^silva-2007]: Silva, Filipe Carreira da, 2007, *G.H. Mead: A Critical Introduction*, Malden, MA: Polity Press.
+
+[^silva-2008]: –––, 2008, *Mead and Modernity: Science, Selfhood, and Democratic Politics*, Lanham, MD: Lexington Books.
+
+[^silva-2011]: –––, 2011, “Introduction,” in *G.H. Mead: A Reader*, ed. Filipe Carreira da Silva, New York: Routledge.
+
+[^stone-2012]: Stone, J. E., Carpendale, J. I. M., Sugarman, J., and Martin, J., 2012, “A Meadian account of false belief understanding: Taking a non-mentalistic approach to infant and verbal false belief understanding,” *New Ideas in Psychology*, 30: 166–178.
+
+[^stone-2013]: –––, 2013, “Mead’s Interpretation of Relativity Theory,” *The Journal of Speculative Philosophy*, 27(2): 153–171.
+
+[^taylor-2019]: Taylor, Scott C., 2019, “G.H. Mead’s Philosophical Hermeneutics of the Present,” *European Journal of Pragmatism and American Philosophy*, 11(2): 215–229. [[Taylor 2019 available online](https://journals.openedition.org/ejpap/1694)]
+
+[^throop-2007]: Throop, Robert, and Ward, Lloyd Gordon, 2007, “Known Mead Documents,” Toronto: *The Mead Project*. [[Throop & Ward 2007 available online](https://brocku.ca/MeadProject/Mead/mead_biblio2.html)]
+
+[^tomasello-2020]: Tomasello, Michael, 2020, “The role of roles in uniquely human cognition and sociality,” *Journal for the Theory of Social Behaviour*, 50(2): 2–19.
+
+[^varner-2021]: Varner, Tess, 2021, “Grace Lee Bogg’s Person-Centered Education for Community-based Change: Feminist Pragmatism, Pedagogy, and Philosophical Activism,” *Hypatia*, 36: 437–446.
+
+[^waal-2001]: Waal, Cornelis de, 2001, *On Mead*, Belmont, CA: Wadsworth Publishing.

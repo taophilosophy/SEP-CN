@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Category Theory &gt; Programmatic Reading Guide (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/category-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/category-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=category-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Category Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Programmatic Reading Guide</h2>
+
+<p>
+
+The following Guide has been divided into sections to
+facilitate programmatic reading. </p>
+
+<h3>A. General books on category theory</h3>
+
+<h4>A.1 Introductory texts</h4>
+
+<p>The following two texts are intended for undergraduates or
+nonspecialists. </p>
+
+<ul class="plain">
+<li>Lawvere &amp; Rosebrugh 2003</li>
+<li>Lawvere &amp; Schanuel 1997</li>
+</ul>
+
+
+<h4>A.2 Intermediate texts</h4>
+
+<p>
+
+The following classic textbook includes much more than category
+theory, but it contains the rudiments of the theory with
+applications. </p>
+
+<ul class="plain">
+<li>Birkoff &amp; Mac Lane 1999</li>
+</ul>
+
+
+<p>
+The following books provide an accessible approach to category
+theory and categorical logic:</p>
+
+<ul class="plain">
+<li>McLarty 1992</li>
+<li>Awodey 2006</li>
+</ul>
+
+<p>
+
+The standard reference on category theory is unquestionably: </p>
+
+<ul class="plain">
+<li>Mac&thinsp;Lane  1998</li>
+</ul>
+
+<h4>A.3 Other interesting and useful books</h4>
+
+<ul class="plain"> 
+
+<li>Adamek <em>et al</em>. 1990</li>
+<li>Borceux 1994</li>
+<li>Freyd 1990</li>
+<li>Hatcher 1982</li>
+<li>Leinster 2014</li>
+<li>Pareigis 1970</li>
+<li>Pedicchio &amp; Tholen 2004</li>
+<li>Riehl 2016</li>
+
+</ul>
+
+<h3>B. Books and articles on higher-dimensional category theory</h3>
+
+<ul class="plain">
+
+<li>Baez 1997</li>
+<li>Baez &amp; Dolan 1998a, 1998b, 2001</li>
+<li>Batanin 1998</li>
+<li>Cheng &amp; Lauda 2004 (Other Internet Resources)</li>
+<li>Cisinski 2019</li>
+<li>Hermida, Makkai, &amp; Power 2000, 2001, 2002</li>
+<li>Leinster 2002</li>
+<li>Lurie 2009</li>
+<li>Simpson 2011</li>
+
+</ul>
+
+<h3>C. Books and articles with a philosophical bent</h3>
+
+<h4>C.1 Category theory and the philosophy of mathematics</h4>
+
+<ul class="plain">
+
+<li>Awodey 1996, 2004</li>
+<li>Carter 2008</li>
+<li>Couture &amp; Lambek 1991, 1992</li>
+<li>Hellman 2003, 2006</li>
+<li>Kr&ouml;mer 2007</li>
+<li>Lambek 1982, 1994</li>
+<li>Landry 1999, 2001, 2007, 2013, 2018</li>
+<li>Landry &amp; Marquis 2005</li>
+<li>Linnebo &amp; Pettigrew 2011</li>
+<li>Mac&thinsp;Lane 1981, 1986, 1996</li>
+<li>Makkai 1999</li>
+<li>Marquis 1993, 2000, 2006, 2009, 2013, 2018</li>
+<li>McLarty 1993, 1994, 2004, 2005, 2006, 2011, 2018</li>
+<li>Peruzzi 2006, 2016</li>
+<li>Shapiro 2005, 2011</li>
+<li>Sica 2006</li>
+</ul>
+
+<h4>C.2 Category theory and set theory</h4>
+
+<ul class="plain">
+<li>Awodey 2007, 2008</li>
+<li>Bell 1981, 1982, 1986</li>
+<li>Blass 1984</li>
+<li>Feferman 1977, 2004</li>
+<li>Mac&thinsp;Lane 1969a, 1969b, 1971</li>
+<li>McLarty 2018</li>
+<li>Marquis 1995</li>
+<li>Moerdijk 1998</li>
+</ul>
+
+<h4>C.3 Categorical foundations of logic and mathematics</h4>
+
+<ul class="plain">
+<li>Bell 1988, 1995, 2001</li>
+<li>Johnstone 1985</li>
+<li>Kock 2006</li>
+<li>Lambek 1994</li>
+<li>Lawvere 2003</li>
+<li>Mac&thinsp;Lane 1997</li>
+<li>Makkai 1998</li>
+<li>McLarty 1991</li>
+<li>Walsh 2017</li>
+<li>Wood 2004</li>
+</ul>
+
+<h4>C.4 Applications of category theory to philosophical and cognitive issues</h4>
+
+<ul class="plain">
+
+<li>Ehresmann &amp; Vanbremeersch 2007</li>
+<li>Ellerman 1988, 2017</li>
+<li>La Palme Reyes <em>et al</em>. 1994, 1999</li>
+<li>Lambek 2004</li>
+<li>Lawvere 1992, 1994a, 1994b</li>
+<li>MacNamara &amp; Reyes (eds.) 1994</li>
+<li>Marquis 2000</li>
+<li>Pitts &amp; Taylor 1989</li>
+<li>Yanofski 2003</li>
+
+</ul>
+
+<h3>D. Books and papers on categorical logic</h3>
+
+<h4>D.1 Introductory books and papers</h4>
+
+<p>
+One of the first introductory books on the subject is and still
+extremely useful for readers without a strong background in category
+theory:</p>
+
+<ul class="plain">
+<li>Goldblatt 1979</li>
+</ul>
+
+<p>For readers with a background in logic and set theory:</p>
+
+<ul class="plain">
+<li>Bell 1988</li>
+<li>Bunge 1984</li>
+<li>Caramello 2018</li>
+<li>Mac&thinsp;Lane 1975</li>
+
+</ul>
+
+<h4>D.2 Advanced textbooks</h4>
+
+<p>Note that the second volume of (Johnstone 2002a) contains a clear
+and exhaustive presentation of categorical logic in a topos theoretical
+setting.</p> 
+
+<ul class="plain">
+<li>Barr &amp; Wells 1985</li>
+<li>Jacobs 1999</li>
+<li>Johnstone 1977, 2002a</li>
+<li>Lambek &amp; Scott 1986</li>
+<li>Mac&thinsp;Lane &amp; Moerdijk 1992</li>
+<li>Taylor 1999</li>
+</ul>
+
+
+<h4>D.3 Research monographs</h4>
+
+<ul class="plain"> <li>Adamek <em>et al</em> 1994</li>
+
+<li>Makkai &amp; Par&eacute;  1989</li>
+<li>Makkai &amp; Reyes 1977</li>
+</ul>
+
+<h4>D.4 Books and introductory papers written for computer scientists</h4>
+
+<ul class="plain">
+<li>Barr &amp; Wells 1999</li>
+<li>Crole 1994</li>
+<li>Peirce 1991</li>
+<li>Pitts 2000</li>
+<li>Plotkin 2000</li>
+<li>Scott 2000</li>
+</ul>
+
+<h4>D.5 A book on nonclassical logics from a categorical point of view</h4>
+
+<ul class="plain">
+<li>Ghilardi &amp; Zawadowski 2002</li>
+</ul>
+
+<h4>D.6 Research papers on various aspects of categorical logic</h4>
+
+<h5>D.6.1 Completeness results</h5>
+
+<ul class="plain">
+<li>Awodey &amp; Butz 2000</li>
+<li>Boileau &amp; Joyal</li>
+<li>Galli &amp; Reyes &amp; Sagastume 2000</li>
+<li>Makkai 1987, 1988, 1997a, 1997b, 1997c</li>
+<li>Makkai &amp; Reyes 1995</li>
+<li>Pitts 1987, 1989</li>
+</ul>
+
+<h5>D.6.2 Categorical logic and constructivism</h5>
+
+<ul class="plain">
+<li>Awodey &amp; Warren 2009</li>
+<li>Freyd &amp; Friedman &amp; Scedrov 1987</li>
+<li>Johnstone 1979a, 1979b, 1981, 1982</li>
+<li>Lambek 1989</li>
+<li>Lambek &amp; Scott 1981, 1983</li>
+<li>Moerdijk 1984, 1995a</li>
+<li>Moerdijk &amp; Palmgren 1997, 2002</li>
+<li>Pitts 1992</li>
+<li>Seely 1984</li>
+<li>Taylor 1996</li>
+<li>Van der Hoeven &amp; Moerdijk 1984a, 1984b, 1984c</li>
+</ul>
+
+<h5>D.6.3 Applications of categorical logic to set theory</h5>
+
+<ul class="plain">
+<li>Blass &amp; Scedrov 1983, 1989, 1992</li>
+<li>Bunge 1974</li>
+<li>Freyd 1980, 1987</li>
+<li>Joyal &amp; Moerdijk 1995</li>
+<li>Scedrov 1984</li>
+<li>Tierney 1972</li>
+</ul>
+
+<h5>D.6.4 Proof theory</h5>
+
+<ul class="plain">
+<li>Blute &amp; Scott 2004</li>
+<li>Cockett &amp; Seely 2001, 2018</li>
+<li>Hyland 1982, 1988, 1991, 2002</li>
+<li>Hyland &amp; Robinson &amp; Rosolini 1990</li>
+<li>Lambek 1986, 1989, 1994</li>
+<li>Van Oosten 2008</li>
+</ul>
+
+<h5>D.6.5 Modal logic and other logical systems</h5>
+
+<ul class="plain">
+<li>Freyd 2002</li>
+<li>Ghilardi 1989</li>
+<li>Kishida 2018</li>
+<li>Lambek 1993</li>
+<li>McLarty 1986</li>
+<li>Porter 2004</li>
+<li>Rodabaugh &amp; Klement eds. 1992</li>
+<li>Reyes 1991</li>
+<li>Reyes &amp; Zawadowski 1993</li>
+<li>Reyes &amp; Zolfaghari 1991, 1996</li>
+
+</ul>
+
+<h3>E. Applications of category theory</h3>
+
+<h4>E.1 Books and papers on synthetic differential geometry</h4>
+
+<ul class="plain">
+<li>Bell 1998</li>
+<li>Bell 2001</li>
+<li>Hellman 2006</li>
+<li>Kock 2006</li>
+<li>Lawvere 2002</li>
+<li>Moerdijk &amp; Reyes 1991</li>
+</ul>
+
+<h4>E.2 Other applications of category theory</h4>
+
+<ul class="plain">
+<li>Arzi-Gonczaworski 1999</li>
+<li>Baianu 1987</li>
+<li>Ehresmann &amp; Vanbremeersch 1987, 2007</li>
+<li>Healy 2000</li>
+<li>Healy &amp; Caudell 2006</li>
+<li>Spivak 2014</li>
+</ul>
+
+<h3>F. Major books and papers of the history of category theory</h3>
+
+<h4>F.1 The first period: the origins and first applications 1942-1957</h4>
+
+<ul class="plain">
+<li>Eilenberg &amp; Cartan 1956</li>
+<li>Eilenberg &amp; Mac&thinsp;Lane 1942, 1945</li>
+<li>Eilenberg &amp; Steenrod 1952</li>
+<li>Mac&thinsp;Lane 1950</li>
+</ul>
+
+<h4>F.2 The second period: the emergence of an autonomous field 1957-1970</h4>
+
+<ul class="plain">
+<li>Dieudonn&eacute; &amp; Grothendieck 1960, [1971]</li>
+<li>Freyd 1964</li>
+<li>Grothendieck 1957</li>
+<li>Grothendieck <em>et al</em>. 1971&ndash;1977</li>
+<li>Kan 1958</li>
+</ul>
+
+<h4>F.3 The birth of categorical logic</h4>
+
+<ul class="plain">
+<li>Freyd 1965, 1972</li>
+<li>Lambek 1968, 1969, 1972</li>
+<li>Lawvere 1963, 1964, 1965, 1966, 1969a, 1969b, 1970, 1971, 1972, 1975, 1976</li>
+<li>Reyes 1974</li>
+</ul>
+
+<h4>F.4 On the history of category theory and categorical logic</h4>
+
+<ul class="plain">
+<li>Awodey &amp; Reck 2002a, 2002b</li>
+<li>Johnstone 2001</li>
+<li>Kr&ouml;mer 2007</li>
+<li>Lawvere 2000</li>
+<li>Mac&thinsp;Lane 1988, 1989</li>
+<li>Marquis 2009</li>
+<li>Marquis &amp; Reyes to appear</li>
+<li>McLarty 1990, 2006</li>
+<li>Van Oosten 2002</li>
+
+</ul>
+
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2019</a> by
+
+<br />
+<a href="https://philo.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15376/sg/Jean-Pierre%20Marquis/" target="other">Jean-Pierre Marquis</a>
+&lt;<a href="m&#97;ilto:Jean-Pierre&#37;2eMarquis&#37;40umontreal&#37;2eca"><em>Jean-Pierre<abbr title=" dot ">&#46;</abbr>Marquis<abbr title=" at ">&#64;</abbr>umontreal<abbr title=" dot ">&#46;</abbr>ca</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

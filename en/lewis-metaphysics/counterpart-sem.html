@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+David Lewis’s Metaphysics &gt; Counterpart-theoretic Semantics for Quantified Modal Logic (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/lewis-metaphysics/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/lewis-metaphysics/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=lewis-metaphysics">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">David Lewis&rsquo;s Metaphysics</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Counterpart-theoretic Semantics for Quantified Modal Logic</h2>
+
+<h3>Lewis&rsquo;s original proposal</h3>
+
+<p>
+Lewis (1968) proposes a translation from the language of quantified
+modal logic into an extensional first-order language with quantifiers
+ranging over possible worlds and possible individuals. Like the
+&ldquo;standard translation&rdquo; for Kripke semantics (van Benthem
+1983), Lewis&rsquo;s translation implicitly defines a semantics for
+quantified modal logic.</p>
+
+<p>
+The eight postulates of Lewis (1968) can be seen as defining a
+concept of a model. As usual, a model contains some worlds and some individuals. Every world is associated with a domain of
+individuals which are &ldquo;in&rdquo; the world. According to
+Lewis&rsquo;s second postulate, no individual is &ldquo;in&rdquo; more
+than one world; so different worlds have disjoint domains. Like in
+Kripke semantics, the worlds may be related by an accessibility
+relation. In addition, individuals may be related by a counterpart
+relation. Lewis&rsquo;s sixth postulate says that this relation is
+reflexive. According to his fifth postulate, nothing is a counterpart
+of anything else in its world. (This assumption is dropped in Lewis
+1986e, 232.) Lewis also identifies a designated &ldquo;actual&rdquo;
+world, relative to which non-modal sentences are interpreted.</p>
+
+<p>
+In the semantics induced by Lewis's translation rules, formulas of quantified modal logic are true
+relative to a world and an assignment function. The interpretation of
+atomic sentences and boolean connectives is standard, except that
+disjointness of domains allows interpreting predicates in terms of
+sets of tuples of individuals, with no world-relativity. Quantifiers
+are given an &ldquo;actualist&rdquo; interpretation, so they range
+only over individuals in the relevant world. The key novelty is the
+interpretation of the modal operators:</p>
+
+<blockquote>
+
+<p>
+\(\Box \phi\) is true relative to a world \(w\) and assignment \(g\) iff \(\phi\)
+is true relative to every world \(w^\prime\) accessible from \(w\) and every
+assignment \(g^\prime\) such that \(g^\prime(x)\) is a counterpart of \(g(x)\) for
+each variable \(x\) that is free in \(\phi\).</p>
+</blockquote>
+
+<p>
+\(\Diamond \phi\) is the dual of \(\Box \phi\).</p>
+
+<p>
+A few preliminary comments:</p>
+
+<ol type="1">
+
+<li>
+
+<p>
+The requirement of disjoint domains could easily be dropped by making
+the interpretation of predicates world-relative and assuming that the
+counterpart relation links world-individual pairs. This would not
+affect the logic.</p></li>
+
+<li>
+
+<p>
+If we further assume that the counterpart relation is an equivalence
+relation and that it relates every individual at any world to exactly
+one individual at every other world, then the resulting semantics is
+equivalent to constant-domain Kripke semantics. (See e.g., Hughes
+&amp; Cresswell 1996, 354f.)</p></li>
+
+<li>
+
+<p>
+Lewis assumes that the language of quantified modal logic does not
+have names or function symbols. He suggests that English names should
+be analysed as wide-scope Russellian descriptions (Lewis 1968,
+120f.). To simplify the following discussion, we will assume that
+there are names &lsquo;\(a\)&rsquo; and &lsquo;\(b\)&rsquo; that semantically
+behave like free variables, insofar as their reference is shifted by
+the modal operators. See Ghilardi &amp; Meloni (1991) for how to add
+function symbols, and Schurz (1997), Fitting (2004), Kracht &amp; Kutz
+(2005) among others, for alternative treatments of names in
+counterpart semantics.</p></li>
+
+<li>
+
+<p>
+Since quantifiers are actualist, the interpretation of closed formulas
+only requires interpreting formulas relative to a world \(w\) and
+assignment \(g\) that maps every variable to an individual in \(w\).
+Accordingly, we will assume that the names &lsquo;a&rsquo; and
+&lsquo;b&rsquo; (initially) pick out individuals in the actual world.
+See Forbes (1985), Kracht &amp; Kutz (2005), Kracht &amp; Kutz (2007),
+Kupffer (2010), among others, for counterpart semantics for a language
+with &ldquo;possibilist&rdquo; quantifiers.</p></li>
+
+<li>
+
+<p>
+Lewis&rsquo;s original semantics does not allow associating different
+counterpart relations with different terms. In Lewis (1971, 209) he
+says that he does not know how to allow for this in a formal
+semantics, because it is not clear how the relevant counterpart
+relations are determined. See Ramachandran (1998), Fara (2012),
+Schwarz (2014), Kocurek (2018), among others, for relevant
+proposals.</p></li>
+
+<li>
+
+<p>
+Lewis&rsquo;s original semantics also does not allow imposing
+constraints on the choice of counterparts for formulas that are
+&ldquo;multiply de re&rdquo; (see Hazen 1979, 328f.; Lewis 1983d,
+44f.). To get around this, one can assume that the counterpart
+relation relates not individuals, but sequences of individuals
+(roughly as in Lewis 1983d). Alternatively, one can replace the
+single counterpart relation by a set of counterpart relations
+(see below, section 4).</p></li>
+</ol>
+
+<h3 id="deviance">Deviance</h3>
+
+<p>
+It is often suggested that Lewis&rsquo;s semantics gives rise to a
+deviant and unmanageable logic. Here is a sample of non-standard
+features.</p>
+
+<p>
+F1. Familiar principles of S5 modal logic such as \(\Box A \rightarrow \Box \Box A\)
+or \(\Diamond A \rightarrow \Box \Diamond A\) are invalid, even if
+the accessibility relation is universal. (See e.g., Lewis 1968;
+Forbes 1982, Cresswell 2004.)</p>
+
+<p>
+F2. The &ldquo;Necessity of Identity&rdquo;
+\(\Box \forall x \forall y (x=y \rightarrow \Box x=y)\) and the
+&ldquo;Necessity of Distinctness&rdquo;
+\(\Box \forall x \forall y (x \neq y \rightarrow \Box x \neq y)\) are invalid.
+(See e.g., Hazen 1979; Ramachandran 2008.)</p>
+
+<p>
+F3. The &ldquo;Necessity of Existence&rdquo;
+\(\forall y \Box \exists x (x=y)\) and the Converse Barcan Formula
+\(\Box \forall x A \rightarrow \forall x \Box A\) are valid. (See
+e.g., Lewis 1968; Forbes 1982.)</p>
+
+<p>
+F4. Modal contexts are not closed under logical consequence. For
+example, \(\Box (A \land B) \rightarrow \Box A\) is invalid, and so is
+\(\Box (A \rightarrow B) \rightarrow (\Box A \rightarrow \Box B)\) or
+\(\Box Rab \rightarrow \Box \exists x Rax\). (See e.g., Hazen 1979,
+Woollaston 1994.)</p>
+
+<p>
+F5. Familiar substitution rules of first-order logic appear to be
+invalid. For example, \(\forall x \Diamond x \neq a\) does not entail
+\(\Diamond a \neq a\). (See e.g., Kripke 1980, fn 13; Woollaston
+1994.)</p>
+
+<p>
+F6. If the language of quantified modal logic is extended by an
+&lsquo;actually&rsquo; operator, we seem to get a deviant logic for
+the extended language. (See e.g., Hazen 1979; Fara &amp; Williamson
+2005.)</p>
+
+<p>
+It will be useful to look at these issues in terms of their causes. F1
+arises from the assumption that the counterpart relation is not an
+equivalence relation. F2, F5, and F6 arise from the possibility of
+non-functional and non-injective counterpart relations. F3, F4, and
+other aspects of F6 arise from the possibility that an individual may
+lack a counterpart at some accessible world.</p>
+
+<p>
+As we will see, in each case one can argue that the non-standard
+feature should be embraced, but one can also adjust the semantics so
+as to block the feature.</p>
+
+<h3 id="non-equivalence">Non-equivalence</h3>
+
+<p>
+In propositional
+<a href="../logic-modal/">modal logic</a>,
+there is a well-known correspondence between modal schemas and
+properties of the accessibility relation:
+\(\Box A \rightarrow \Box \Box A\) is valid on a relational frame iff the accessibility
+relation is transitive; \(A \rightarrow \Box \Diamond A\) is valid iff the
+relation is symmetric; and so on. In Lewis&rsquo;s semantics, these
+results do not carry over to quantified modal logic. For example,
+\(\Box A \rightarrow \Box \Box A\) can be invalid even though the
+accessibility relation is transitive, provided that the counterpart
+relation is intransitive.</p>
+
+<p>
+In the main entry,
+we mentioned that this might be seen as an advantage of counterpart
+semantics, since it allows for a resolution of puzzles like the
+Chisholm-Chandler paradox, where we seem to have an intuitive
+counterexample to \(\Box A \rightarrow \Box \Box A\). Counterpart
+semantics promises to vindicate the intuition without assuming that
+metaphysical accessibility is not an equivalence relation.</p>
+
+<p>
+If one wants \(\Box A \rightarrow \Box \Box A\) to be valid for
+metaphysical modality (despite apparent counterexamples), one can
+simply assume that the counterpart relation for this application is
+transitive. Lewis himself rejected transitivity, but he was open to
+the idea that the metaphysical counterparthood relation is symmetric
+(see Beebee &amp; Fisher 2020, Volume 1, Letter 137).</p>
+
+<p>
+Reasoning about metaphysical modality is not the only application of
+modal logic. Counterpart semantics has found applications in many
+other areas, from temporal logic (e.g., Sider 1996) to epistemic
+logic (e.g., van Rooij 2006) to algebraic topology
+(e.g., Bra&uuml;ner &amp; Ghilardi 2007). Different applications
+might call for different logics. Relational semantics for
+propositional modal logic is popular in part because it allows
+defining a wide range of logics by putting restrictions on the
+accessibility relation. Counterpart semantics similarly allows
+defining a wider range of logics by putting joint constraints on
+accessibility and counterparthood.</p>
+
+<h3 id="multiple-counterparts-and-common-counterparts">Multiple counterparts and common counterparts</h3>
+
+<p>
+Lewis&rsquo;s semantics allows for cases in which an individual has
+several counterparts at an accessible world, and for cases in which
+several individuals have a common counterpart at a world. This has
+some noteworthy consequences.</p>
+
+<p>
+For one thing, the &ldquo;Necessity of Identity&rdquo; and the
+&ldquo;Necessity of Distinctness&rdquo; become invalid. Informally, if
+&lsquo;\(a\)&rsquo; and &lsquo;\(b\)&rsquo; pick out an individual with two
+counterparts at some accessible world, then \(\Box a = a\) is true,
+because every counterpart of \(a\) at every accessible world is
+identical to itself, but \(\Box a = b\) is false, because not every
+counterpart of \(a\) is identical to every counterpart of
+\(b\).</p>
+
+<p>
+Multiple counterparts create a special challenge if the modal language
+is extended by operators that shift the point of evaluation to a
+single world, such as nominals, Stalnaker-type counterfactuals, or an
+&lsquo;actually&rsquo; operator (\(\mathsf{ACT}\)). Suppose some
+possible individual has two counterparts in the actual world, one of
+which satisfies \(\phi(x)\) and the other does not. Should we regard
+\(\Diamond \exists x \mathsf{ACT} \ \phi(x)\) as true or false? The
+first answer renders \(\Diamond \exists x (\mathsf{ACT} \ Fx \land
+\mathsf{ACT} \ \neg Fx)\) satisfiable; the second \(\Diamond \exists x
+(\neg \mathsf{ACT} \ Fx \land \neg \mathsf{ACT} \ \neg Fx)\). Some
+intuit that both answers are problematic. (See e.g., Hazen 1979;
+Fara &amp; Williamson 2005.)</p>
+
+<p>
+It has also been suggested that allowing for multiple counterparts
+invalidates familiar rules and axioms of classical predicate logic.
+For example, since \(\Box a = a\) and \(a=b\) do not entail \(\Box a = b\),
+&ldquo;Leibniz&rsquo;s Law&rdquo; seems to become invalid. The same is
+true for Universal Instantiation. For example, \(\forall x \Diamond (x \neq a)\)
+does not entail \(\Diamond a \neq a\). (See e.g., Kripke 1980, fn.13;
+Woollaston 1994, 259; Cresswell 2004, 35.) Since Leibniz&rsquo;s
+Law and Universal Instantiation remain valid for non-modal formulas,
+Lewis&rsquo;s logic also appears to violate closure under second-order
+substitution. (See Bauer &amp; Wansing 2002).</p>
+
+<p>
+Lewis (1983d) rejects the charge that his semantics invalidates rules
+of classical logic. Universal Instantiation and Leibniz&rsquo;s Law
+both involve substitution of terms, and Lewis points out that such
+rules always require a proviso to deal with the possibility of
+&ldquo;capturing&rdquo;. In classical predicate logic, for example,
+\(x=y \rightarrow (\exists y (x \neq y) \rightarrow \exists y (y \neq
+y))\) is not a proper instance of Leibniz&rsquo; Law, because the
+variable &lsquo;\(y\)&rsquo; gets captured by the quantifier
+&lsquo;\(\exists y\)&rsquo;. In Lewis&rsquo;s semantics, modal
+operators function as unselective binders, capturing all variables in
+their scope. We should therefore not be surprised that substitution
+rules have to be restricted.  Schwarz (2012, 17f.) defines a general
+restriction, analogous to the condition that a variable must be
+&ldquo;free for&rdquo; another variable in classical predicate
+logic. A popular alternative in counterpart semantics is to introduce
+special syntactic machinery such as \(\lambda\)-abstraction that
+allows distinguishing between <em>de re</em> readings and <em>de
+dicto</em> readings. Substitution is then allowed only in <em>de
+re</em> contexts, and the \(\lambda\)-conversion rules are restricted
+(see Ghilardi &amp; Meloni 1988; Corsi 2002; and Schwarz 2013 (Other
+Internet Resources) for details).</p>
+
+<p>
+The fact still remains that allowing for multiple (and common)
+counterparts renders many rules and sentences invalid that are valid
+in Kripke semantics. Like in the previous section, we can distinguish
+two kinds of response. One is to embrace the deviance, another is to
+block it.</p>
+
+<p>
+Along the first line, one might argue that allowing for contingent
+identity and distinctness is useful to defuse philosophical puzzles.
+Relevant puzzles would not include the putative identity between
+persons and bodies or statues and pieces of clay. In Lewis&rsquo;s
+semantics, \(a=b \rightarrow (\Diamond Fa \rightarrow \Diamond Fb)\)
+is valid, so we can&rsquo;t account for identical things that appear
+to have different modal properties. Here we would need models with
+different counterpart relations (see comment 5 in section 1), so that
+we could have worlds where someone&rsquo;s <em>person counterpart</em>
+is not identical to their <em>body counterpart</em>.  Contingent
+identity in Lewis&rsquo;s original semantics instead involves multiple
+counterparts relative to the same counterpart relation.</p>
+
+<p>
+As mentioned in the main entry, relevant puzzles for this kind of
+multiple counterparthood might be cases of fission, fusion, or
+time-travel in the temporal dimension, and cases of <em>possible</em>
+fission, fusion, or time-travel in the modal dimension. Schwarz (2012)
+argues that such cases also call for a deviant logic of actually. (See
+also Stalnaker 1986, 136f.)</p>
+
+<p>
+Further motivation for Lewis&rsquo;s non-standard treatment of
+substitution comes from applications of modal logic outside
+metaphysics. Ninan (2018) invokes multiple counterparts to explain
+certain puzzles about epistemic modality. Bra&uuml;ner &amp; Ghilardi
+(2007, 599&ndash;607, 614f.) present a range of mathematical applications
+that seem to call for a logic with the Lewisian restrictions on
+substitution.</p>
+
+<p>
+For some application, one might still prefer a more orthodox logic of
+quantification, identity, and actuality. This can be achieved in
+several ways.</p>
+
+<p>
+One obvious move is to simply restrict the relevant models to ones in
+which the counterpart relation is functional and/or injective (see
+e.g., Torza 2011).</p>
+
+<p>
+This may appear to be at odds with Lewis&rsquo;s assumption that
+counterparthood is a matter of qualitative similarity. In a world of
+two-way eternal recurrence, for example, the individuals in any epoch
+are perfect qualitative duplicates of individuals in every other
+epoch; a qualitative counterpart relation can then hardly select
+exactly one of the individuals as, say, Joe Biden&rsquo;s
+counterpart.</p>
+
+<p>
+However, every Lewisian counterpart relation \(C\) can be unravelled into
+a set \(F\) of functional and injective counterpart relations: if \(x\) at \(w\)
+has two counterparts \(y\) and \(y^\prime\) at \(v\), then one of the unravelled
+relations will link \(x\) with \(y\), another will link \(x\) with \(y^\prime\). We
+can easily adjust Lewis&rsquo;s semantics to quantify over the
+unravelled relations:</p>
+
+<blockquote>
+
+<p>
+\(\Box \phi\) is true relative to \(w,g\) iff \(\phi\) is true relative to
+every world \(w^\prime\) accessible from \(w\) and every assignment \(g^\prime\)
+such that for every \(f \in F\) and every variable \(x\) that is free in \(phi\), \(g^\prime(x)\) stands in \(f\) to \(g(x)\).</p>
+</blockquote>
+
+<p>
+This kind of <em>functional counterpart semantics</em> was first
+introduced in Hazen (1977) and Hazen (1979), and has been explored in
+different forms by many authors; see e.g., Ghilardi (1991),
+Stalnaker (1994), Stalnaker (2012) (ch.3 and p154ff.), Sider (2008,
+Other Internet Resources), Kupffer (2010), Russell (2013), Bacon
+(2014).</p>
+
+<p>
+The triple quantification in the clause for the box (over worlds,
+counterparts, and unravelled counterpart relations) may initially seem
+ad hoc, but it can be given independent motivation.</p>
+
+<p>
+For one, it allows putting restrictions on the choice of counterparts
+for &ldquo;multiply de re&rdquo; sentences. Suppose we judge that
+Elizabeth II is necessarily the daughter of George VI, even though
+both have many counterparts in a world of eternal recurrence, so that
+not every counterpart of Elizabeth is the daughter of every
+counterpart of George. On the functional approach, we can restrict the
+set of counterpart relations \(F\) so that all its members link Elizabeth
+to an Elizabeth counterpart who is the daughter of the George
+counterpart linked to George. (In that case, \(F\) is no longer construed
+by unravelling a simple Lewisian counterpart relation.)</p>
+
+<p>
+The functional approach can also be motivated by Lewis&rsquo;s (1986e,
+231f.) distinction between possible worlds and &ldquo;individual
+possibilities&rdquo;. Intuitively, a world of eternal recurrence
+represents one possibility for the world, but many
+possibilities <em>for us</em>. In general, if a world contains
+multiple counterparts of a given individual, then the world might be
+regarded as multiple possibilities for that individual, one for each
+counterpart. Likewise, a possibility for <em>n</em> individuals might
+be represented as a pair of a possible world and <em>n</em> (suitably
+coordinated) counterparts of the original individuals at the world. In
+a functional model, each unraveled counterpart relation selects a
+unique counterpart for every individual at every accessible world. By
+quantifying over both worlds and unraveled counterpart relations, the
+revised clause for the box effectively quantifies over all relevant
+individual possibilities.</p>
+
+<p>
+Surprisingly, the extra layer of quantification (over counterpart
+relations) has also proved useful in mathematical logic.</p>
+
+<p>
+A well-known limitation of Kripke semantics for quantified modal logic
+is that many important systems of propositional modal logic become
+incomplete when quantifiers are added. For example, Ghilardi (1991)
+proves&mdash;with the help of functional counterpart
+semantics&mdash;that every quantified system in between S4.3 and S5 is
+incomplete with respect to (variable-domain) Kripke semantics. (With
+constant domains, things are even worse; see e.g., Hughes &amp;
+Cresswell 1996, 265&ndash;71.) In Ghilardi (1992), Ghilardi shows that
+this problem disappears in functional counterpart semantics, where the
+quantified extension of every canonical propositional modal logic
+above S4 is complete.</p>
+
+<p>
+This formal advantage of counterpart semantics requires multiple
+counterpart relations (see Kracht &amp; Kutz 2005, sec.7), but it does
+not require the relations to be functional and injective.
+Ghilardi&rsquo;s result trivially generalises to a semantics with
+multiple, possibly non-functional, counterpart relations. See Kutz
+(2000), Kracht &amp; Kutz (2002), Kracht &amp; Kutz (2005), and
+Schwarz (2013, Other Internet Resources) for investigations into this
+kind of semantics.</p>
+
+<h3 id="missing-counterparts">Missing counterparts</h3>
+
+<p>
+Lewis does not assume that every individual has a counterpart at every
+world. This is meant to capture the intuition that most of us could
+have failed to exist. Oddly, however, \(\forall x \Box \exists y (x=y)\)
+comes out valid by Lewis&rsquo;s translation rules, and so does the
+Converse Barcan Formula \(\Box \forall x A \rightarrow \forall x \Box A\).
+What becomes invalid instead are some basic principles of normal
+propositional modal logic. For example, \(\Box (Fa \land Gb)\) does not
+entail \(\Box Fa\).</p>
+
+<p>
+Here is why. In Lewis&rsquo;s semantics, \(\Box Fa\) is true iff all
+counterparts of \(a\) at all worlds are \(F\); equivalently:
+iff at all worlds where \(a\) has a counterpart, all these
+counterparts are \(F\). Similarly, \(\Box (Fa \land Gb)\) is true
+iff at all worlds where \(a\) and \(b\) both have
+counterparts, all the \(a\)-counterparts are \(F\) and all
+the \(b\)-counterparts \(G\). If \(a\) has
+non-\(F\) counterparts, but only in worlds where \(b\) has
+no counterparts, then \(\Box (Fa \land Gb)\) is true while \(\Box Fa\) is
+false.</p>
+
+<p>
+We can also see why \(\forall x \Box \exists y (x=y)\) is valid.
+\(\Box \exists y (x=y)\) is true iff at every world where \(x\) has a
+counterpart, all these counterparts are identical to something.</p>
+
+<p>
+As Hazen (1979, 327f.) notes, these results are the consequence of a
+semantic choice that is independent of questions about trans-world
+identity. Kripke (1971, 137) distinguished two readings of a statement
+like &lsquo;Joe Biden is necessarily human&rsquo;. On its
+&ldquo;weak&rdquo; reading, the statement expresses that Biden is
+human at all worlds at which he exists. On its &ldquo;strong&rdquo;
+reading, the sentence expresses that Biden is human at all worlds
+whatsoever. Lewis adopts the weak reading. He assumes that \(\Box Hb\)
+is meant to formalise the hypothesis that it is &ldquo;necessary for
+Biden&rdquo; that he is human, meaning that he is human at all worlds
+where he exists (in the sense of having a counterpart).</p>
+
+<p>
+On the weak reading of the box, the validity of \(\forall x \Box
+\exists y (x=y)\) and the Converse Barcan Formula should be
+unsurprising. The formulas do not express that everything exists at
+all accessible worlds. (This rather corresponds to \(\exists x \Box
+\phi \rightarrow \Box \exists x \phi\); see Ghilardi &amp; Meloni
+1988.) It should also be unsurprising that \(\Box (Fa \land Gb)
+\rightarrow \Box Fa\) becomes invalid, unless we assume that
+everything exists at (or has a counterpart at) all accessible
+worlds. We would get the same non-standard logic if we tracked
+individuals by identity rather than by the counterpart relation.</p>
+
+<p>
+Lewis acknowledged the problem raised by the validity of
+\(\forall x \Box \exists y (x=y)\). He agreed that a sentence like
+&lsquo;Joe Biden necessarily exists&rsquo; is intuitively false. But
+he saw no systematic way of getting \(\Box Hb\) to be true while
+\(\Box \exists x (x=b)\) is false (Lewis (1986e): 11-13). This is one of
+the considerations that led him to conclude that English modal
+sentences can&rsquo;t be adequately translated into the standard
+language of quantified modal logic.</p>
+
+<p>
+There are further reasons to doubt that the language of quantified modal logic is adequate to
+formalise claims about individual possibility (or weak necessity). For
+example, we might intuit that George VI could have existed without
+having any children, while Queen Elizabeth II could not have existed
+without having George VI as her father. That is, we might want to say
+that it is necessary <em>for Elizabeth</em> that she is the daughter
+of George, although it is not necessary <em>for George</em> that
+Elizabeth is his daughter: \(\Box Fab\) should be true relative to
+\(a\) but not relative to \(b\). The standard language of
+quantified modal logic does not allow drawing this distinction
+(compare Hunter &amp; Seager 1981, 74f.). Similarly, there is no
+natural way to say that it is jointly necessary <em>for Elizabeth and
+George</em> that George has a daughter.</p>
+
+<p>
+These considerations suggest that if we want to adopt Lewis&rsquo;s
+preferred reading of <em>de re</em> modal statements, we should adjust
+the syntax of quantified modal logic. Corsi (2007) introduces special
+boxes and diamonds that can bind singular terms. Ghilardi &amp; Meloni
+(1988), Ghilardi &amp; Meloni (1991), and Ghilardi (2001) instead
+follow a long-standing tradition in categorical logic of using a typed
+language. The properly typed versions of all K-schemas then become
+valid. Informally, if \(Fa \land Fb\) is necessary <em>for \(a\) and
+\(b\)</em>, then \(Fa\) is also necessary <em>for \(a\) and
+\(b\)</em>.</p>
+
+<p>
+Bra&uuml;ner &amp; Ghilardi (2007) present a complete axiomatisation
+of Lewis&rsquo;s semantics for a typed language, along with some
+mathematical applications. One interesting aspect of this framework is
+that some logical principles that are connected in Kripke semantics
+become independent in counterpart semantics. For example, making both
+accessibility and counterparthood an equivalence relation results in a
+logic that validates (typed versions of) all the S5 schemas, but fails
+to validate the Barcan Formula (see Ghilardi 2001, 105ff.).</p>
+
+<p>
+An advantage of reading the box as weak necessity is that we
+don&rsquo;t need to think about how a formula should be interpreted
+relative to a world if one of its terms does not pick out any
+individual in that world (see comment 4 in section 1).
+ However, the issue must still be faced if an &lsquo;actually&rsquo;
+operator is added to the language. The &lsquo;actually&rsquo; operator
+is supposed to shift the point of evaluation back to the actual world,
+irrespective of whether the relevant individuals exist here; so we
+have to explain how to interpret \(\mathsf{ACT} \ \phi(x)\) if the value of
+\(x\) has no counterpart in the actual world (see e.g., Fara &amp;
+Williamson 2005).</p>
+
+<p>
+From a technical perspective, an easy way to avoid all complications
+arising from missing counterparts is to stipulate that&mdash;perhaps
+for certain applications&mdash;every individual at every world has a
+counterpart at every world. This move resembles assuming constant
+domains in Kripke semantics. It makes the &ldquo;weak&rdquo; reading
+of the box equivalent to the &ldquo;strong&rdquo; reading. Like in
+Kripke semantics, the assumption simplifies the logic, but may be
+regarded as philosophically problematic. To avoid rendering
+\(\forall x \Box \exists y (x=y)\) valid, one may add that the quantifiers
+only range over some of the individuals at the relevant world,
+distinguishing between an &ldquo;inner&rdquo; and an &ldquo;outer
+domain&rdquo; (see e.g., Forbes 1982; Forbes 1985; Kracht &amp;
+Kutz 2002; Varzi 2020).</p>
+
+<p>
+One can also replace Lewis&rsquo;s weak reading of the box by a strong
+reading without assuming that everything has a counterpart at every
+world. Instead, one can assume that when modal operators shift the point of
+evaluation to another world, then the relevant terms either pick out a
+counterpart of their previous referent at that world, or they become
+empty. One then has a range of familiar options from
+ <a href="../logic-free/">free logic</a> 
+ for how to interpret formulas with empty terms. (See e.g., Stalnaker
+1994 and Schwarz 2012; also Ramachandran 1989 for a related approach.)</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="https://philosophy.fas.harvard.edu/people/edward-j-hall" target="other">Ned Hall</a>
+&lt;<a href="m&#97;ilto:ehall&#37;40fas&#37;2eharvard&#37;2eedu"><em>ehall<abbr title=" at ">&#64;</abbr>fas<abbr title=" dot ">&#46;</abbr>harvard<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+<a href="https://www.ed.ac.uk/profile/brian-rabern" target="other">Brian Rabern</a>
+&lt;<a href="m&#97;ilto:brian&#37;2erabern&#37;40gmail&#37;2ecom"><em>brian<abbr title=" dot ">&#46;</abbr>rabern<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+<a href="https://www.wolfgangschwarz.net" target="other">Wolfgang Schwarz</a>
+&lt;<a href="m&#97;ilto:wo&#37;40umsu&#37;2ede"><em>wo<abbr title=" at ">&#64;</abbr>umsu<abbr title=" dot ">&#46;</abbr>de</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

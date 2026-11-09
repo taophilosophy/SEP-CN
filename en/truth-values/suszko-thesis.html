@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Truth Values &gt; Suszko&rsquo;s Thesis (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/truth-values/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/truth-values/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=truth-values">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Truth Values</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Suszko&rsquo;s Thesis</h2>
+
+<p>
+In order to justify his claim that <em>true</em> and <em>false</em>
+are the only logical values, Suszko (1977) observes that every
+structural Tarskian many-valued propositional logic can be provided
+with a bivalent semantics.</p>
+
+<h3>1. Suszko&rsquo;s reduction</h3>
+
+<p>
+Suszko considers structural Tarskian consequence relations and the
+notion of an \(n\)-valued matrix (i.e., \(n\)-valued valuation system
+and the corresponding \(n\)-valued logic). It is standard terminology
+to call a pair \(\mathfrak{L} = (\mathcal{L}, \vdash)\) a Tarskian
+(structural Tarskian) logic iff \(\vdash\) is Tarskian (structural and
+Tarskian). Using the above definition of an \(n\)-valued model and the
+notion of characterization of a logic by a valuation system,
+\(\mathfrak{L}\) is said to be characterized by an \(n\)-valued model
+\(\mathcal{M}\) iff \(\vdash_{\mathfrak{L}} = \vDash_{\mathcal{M}}\).
+The logic \(\mathfrak{L}\) is characterized by a class
+\(\mathfrak{M}\) of \(n\)-valued models iff \(\vdash_{\mathfrak{L}} =
+\cap \{\vDash_{\mathcal{M} } \mid \mathcal{M} \in \mathfrak{M}\)}.</p>
+
+<p>
+Ryszard W&oacute;jcicki (1970) showed that every structural Tarskian
+logic is characterized by its so-called Lindenbaum bundle, which is a
+certain class of matrices syntactically defined using the formulas of
+the language as values:</p>
+
+<p class="indent">
+\(\{\langle \langle \mathcal{L}, \{A \in \mathcal{L} \mid \Delta
+\vdash A\}, \mathcal{C}\rangle , v\rangle \mid \Delta \subseteq
+\mathcal{L}, v\) is a uniform substitution on \(\mathcal{L}\}\).</p>
+
+<p>
+W&oacute;jcicki proved:</p>
+
+<p class="indent" id="Woj">
+<strong>Theorem 1</strong>. Every structural Tarskian logic is
+characterized by a class of \(n\)-valued models, for some at most
+countably infinite \(n\).</p>
+
+<p>
+Based on this result Suszko&rsquo;s reduction can be formulated as
+follows (Suszko 1977, Malinowski 1993):</p>
+
+<p class="indent" id="Suszko1">
+<strong>Theorem 2</strong>. Every structural Tarskian logic is
+characterized by a class of two-valued models.</p>
+
+<p>
+The idea of the proof is quite simple. Given an \(n\)-valued model, an
+equivalent two-valued model can be defined by evaluating a formula as
+1 if it receives a designated value in the \(n\)-valued model;
+otherwise as 0.</p>
+
+<div class="indent">
+
+<p>
+<em>Proof</em>. Let \(\Lambda = (\mathcal{L}, \vdash)\) be a
+structural Tarskian logic. By Theorem
+ <a href="#Woj">1</a>,
+ the logic \(\Lambda\) is characterized by a class
+\(\mathfrak{C}_{\Lambda}\) of \(n\)-valued models. For \(\langle
+\langle \mathcal{V}, \mathcal{D}, \{f_c: c \in \mathcal{C}\}\rangle ,
+v\rangle \in \mathfrak{C}_{\Lambda}\), the function <em>t\(_v\)</em>
+from \(\mathcal{L}\) into \(\{0, 1\}\) is defined as follows:</p>
+
+\[ t_v(A) = \left\{ \begin{array}{l}
+1 \textrm{ if } v(A) \in \mathcal{D}\\
+ 0 \textrm{ if }v(A) \not\in \mathcal{D} 
+\end{array}\right. \]
+
+<p>
+The class 
+\[\{\langle \langle \{0, 1\}, \{1\}, \{f_c: c \in \mathcal{C}\}\rangle, t_v \rangle \mid \langle \langle \mathcal{V}, \mathcal{D}, \{f_c: c \in \mathcal{C}\}\rangle , v\rangle \in \mathfrak{C}_{\Lambda}\}\]
+ of 2-valued models characterizes
+\(\Lambda\).</p>
+</div>
+
+<p>
+Malinowski (1994: 79) points out that Suszko&rsquo;s reduction does
+not establish the existence of a characterizing class of
+<em>structural</em> two-valued models. It has been noted by da Costa
+<em>et al.</em> (1996) and Caleiro <em>et al.</em> (2005), however,
+that the condition of structurality can be given up in
+W&oacute;jcicki&rsquo;s Theorem and hence in Theorem
+ <a href="#Suszko1">1</a>.</p>
+ 
+<h3>2. Malinowski&rsquo;s analysis of Suszko&rsquo;s Thesis</h3>
+
+<p>
+Malinowski (1994: 80 f.) emphasizes that logical bivalence in
+Suszko&rsquo;s sense is related to the bi-partition of the set of
+values into the set of designated values and its complement and raises
+the question &ldquo;whether logical many-valuedness is possible at
+all&rdquo;. He obtains a positive answer to this question by</p>
+
+<blockquote>
+
+<p>
+invoking a formal framework for reasoning admitting rules of inference
+which lead from non-rejected assumptions to accepted conclusions
+(Malinowski 1994).</p>
+</blockquote>
+
+<p>
+This approach may be viewed as taking &lsquo;true&rsquo; and
+&lsquo;false&rsquo; to be expressions that give rise to contrary
+instead of contradictory pairs of sentence. The pair
+&lsquo;true&rsquo; versus &lsquo;false&rsquo; is associated with the
+contrary pairs &lsquo;designated&rsquo; versus
+&lsquo;antidesignated&rsquo; and &lsquo;accepted&rsquo; versus
+&lsquo;rejected&rsquo;. Admitting algebraic values that are neither
+designated nor antidesignated amounts to admitting in addition to the
+logical values <em>true</em> and <em>false</em> the third logical
+value <em>neither true nor false</em>, so that being false is
+distinguished from not being true. Whereas the algebraic values that
+are not designated are already given with the set of designated values
+\(\mathcal{D}\) as its set-theoretical complement, the treatment of
+<em>true</em> and <em>false</em> as values that are independent of
+each other leads to distinguishing between the set \(\mathcal{D}^+\)
+of designated values and the set \(\mathcal{D}^{\minus}\) of
+anti-designated values.</p>
+
+<p>
+Let \(\mathcal{L}\) be as above. An \(n\)-valued \(q\)-matrix
+(quasi-matrix) based on \(\mathcal{L}\) is defined by Malinowski as a
+structure \(\mathfrak{M} = \langle \mathcal{V}, \mathcal{D}^+,
+\mathcal{D}^{\minus}, \{f_c: c \in \mathcal{C}\}\rangle\), where
+\(\mathcal{V}\) is a non-empty set of cardinality \(n\ge 2,
+\mathcal{D}^+\) and \(\mathcal{D}^{\minus}\) are subsets of
+\(\mathcal{V}\) such that \(\mathcal{D}^+ \cap \mathcal{D}^{\minus} =
+\varnothing\), and every \(f_c\) is a function on \(\mathcal{V}\) with
+the same arity as \(c\). A valuation function \(v\) in
+\(\mathfrak{M}\) is a function from \(\mathcal{L}\) into the set of
+truth values \(\mathcal{V}\), and Malinowski considers only valuations
+which satisfy conditions
+ (<a href="index.html#hom1">1</a>)
+ and
+ (<a href="index.html#hom1">2</a>).</p>
+ 
+<p>
+To obtain a kind of entailment relation that does not admit of a
+reduction to a bivalent semantics, Malinowski defines \(q\)-entailment
+as depending on <em>both</em> sets \(\mathcal{D}^+\) and
+\(\mathcal{D}^{\minus}\). A \(q\)-matrix 
+\[\mathfrak{M} = \langle \mathcal{V}, \mathcal{D}^+, \mathcal{D}^{\minus}, \{f_c: c \in \mathcal{C}\}\rangle\]
+ determines a
+\(q\)-entailment relation \(\vDash_{ \mathfrak{M} } \subseteq
+\mathcal{P}(\mathcal{L})\times \mathcal{L}\) by defining \(\Delta
+\vDash_{ \mathfrak{M} } A\) iff for every valuation \(v\) in
+\(\mathfrak{M}\) satisfying conditions
+ (<a href="index.html#hom1">1</a>)
+ and
+ (<a href="index.html#hom1">2</a>),
+ \(v(\Delta)\cap \mathcal{D}^{\minus} = \varnothing\) implies \(v(A)
+\in \mathcal{D}^+\). A pair 
+\[\mathcal{M} = \langle \langle \mathcal{V}, \mathcal{D}^+, \mathcal{D}^{\minus}, \{f_c: c \in \mathcal{C}\}\rangle , v\rangle,\]
+ where \(\mathfrak{M} = \langle
+\mathcal{V}, \mathcal{D}^+, \mathcal{D}^{\minus}, \{f_c: c \in
+\mathcal{C}\}\rangle\) is an \(n\)-valued \(q\)-matrix and \(v\) a
+valuation in \(\mathfrak{M}\), may be called an \(n\)-valued
+\(q\)-model based on \(\mathfrak{M}\). The relation
+\(\vDash_{\mathcal{M} } \subseteq \mathcal{P}(\mathcal{L}) \times
+\mathcal{L}\) determined by such a model is defined by the following
+equivalence: \(\Delta \vDash_{\mathcal{M} } A\) iff \(v(\Delta) \cap
+\mathcal{D}^{\minus} = \varnothing\) implies \(v(A) \in
+\mathcal{D}^+\). If \(\mathfrak{M} = \langle \mathcal{V},
+\mathcal{D}^+, \mathcal{D}^{\minus}, \{f_c: c \in
+\mathcal{C}\}\rangle\) is a \(q\)-matrix and \(\mathcal{D}^+\) is not
+the complement of \(\mathcal{D}^{\minus}\), there is no class of
+functions \(v\) from \(\mathcal{L}\) into \(\{1, 0\}\) such that
+\(\Delta \vDash_{ \mathfrak{M} } A\) iff for every function from that
+class, \(v(\Delta) \subseteq \{1\}\) implies \(v(A) = 1\). Let
+\(\mathcal{M} = \langle \langle \mathcal{V} , \mathcal{D}^+,
+\mathcal{D}^{\minus}, \{f_c: c \in \mathcal{C}\}\rangle , v\rangle\)
+be an \(n\)-valued \(q\)-model. Malinowski pointed out that an
+equivalent three-valued \(q\)-model \(\mathcal{M}' = \langle \langle
+\{0, \frac{1}{2}, 1\}, \{1\}, \{0\}, \{f_c: c \in
+\mathcal{C}\}\rangle, t_v\rangle\) can be defined as follows:</p>
+
+<p>
+
+\[ t_v(A) = \left\{ \begin{array}{l}
+1 \textrm{ if } v(A) \in \mathcal{D}^+\\
+ \frac{1}{2} \textrm{ iff } v(A) \in \mathcal{V} \backslash (\mathcal{D}^+\cup \mathcal{D}^{\minus})\\
+ 0 \textrm{ if } v(A) \not\in \mathcal{D}^{\minus} 
+\end{array}\right. \]
+ </p>
+
+<p>
+A \(q\)-entailment relation \(\vDash _{ \mathfrak{M} }\) is a special
+case of what Malinowski calls a \(q\)-consequence relation. A
+\(q\)-consequence relation on \(\mathcal{L}\) is a relation \(\Vdash
+\subseteq \mathcal{P}(\mathcal{L}) \times \mathcal{L}\) such that for
+every \(A \in \mathcal{L}\) and every \(\Delta , \Gamma \subseteq
+\mathcal{L}\):</p>
+
+<p>
+
+\[ \begin{align}
+\textrm{If }\Delta \Vdash A \textrm{ then } \Delta \cup \Gamma \Vdash A &amp;&amp;\textrm{Monotonicity} \tag{9}\\
+ \Delta \cup \{B \mid \Delta \Vdash B\} \Vdash A \textrm{ iff } \Delta \Vdash A &amp;&amp;\textrm{Quasi-closure} \tag{10} 
+\end{align} \]
+ </p>
+
+<p>
+A pair \((\mathcal{L}, \Vdash)\) is said to be a \(q\)-logic; it is
+structural iff \(\Vdash\) is structural. A \(q\)-logic \((\mathcal{L},
+\Vdash)\) is said to be characterized by an \(n\)-valued \(q\)-matrix
+\(\mathfrak{M}\) iff \(\Vdash = \vDash _{ \mathfrak{M} },
+(\mathcal{L}, \Vdash)\) is characterized by an \(n\)-valued
+\(q\)-model \(\mathcal{M}\) iff \(\Vdash = \vDash_{\mathcal{M} },
+(\mathcal{L}, \Vdash)\) is characterized by a class \(\mathfrak{K}\)
+of \(n\)-valued \(q\)-matrices \((q\)-models) iff \(\Vdash = \cap
+\{\vDash_{ \mathfrak{M} } \mid \mathfrak{M} \in \mathfrak{K}\} (\Vdash
+= \cap \{\vDash_{\mathcal{M} } \mid \mathcal{M} \in
+\mathfrak{K}\})\).</p>
+
+<p>
+If \(\Delta \subseteq \mathcal{L}\), let 
+\[\mathcal{D}^{+}_{\Delta} = \{A \in \mathcal{L} \mid \Delta \Vdash A\}\]
+ and 
+\[\mathcal{D}^{\minus}_{\Delta} = \mathcal{L} \backslash (\Delta \cup \{A \in \mathcal{L} \mid \Delta \Vdash A\}).\]
+
+Malinowski (1990) showed that every structural \(q\)-logic is
+characterized by the following Lindenbaum bundle:</p>
+
+<p class="indent">
+\(\{\langle \langle \mathcal{L}, \mathcal{D}^{+}_{\Delta},
+\mathcal{D}^{\minus}_{\Delta}, \mathcal{C}\rangle , v\rangle \mid
+\Delta \subseteq \mathcal{L}, v\) is a uniform substitution on
+\(\mathcal{L}\}\).</p>
+
+<p>
+Malinowski proved:</p>
+
+<p class="indent">
+<strong>Theorem 3</strong>. Every structural \(q\)-logic is
+characterized by a class of \(n\)-valued \(q\)-models, for some at
+most countably infinite \(n\).</p>
+
+<p>
+By the above definition of three-valued \(q\)-models \(\mathcal{M}'\)
+and by the Suszko Reduction for the case that \(\mathcal{V} \backslash
+(\mathcal{D}^+ \cup \mathcal{D}^{\minus} ) = \varnothing\), it follows
+that \(q\)-logics are logically two-valued (if
+\(\mathcal{D}^{\minus}\) is the complement of \(\mathcal{D}^+)\) or
+three-valued (if \(\mathcal{D}^{\minus}\) is distinct from the
+complement of \(\mathcal{D}^+)\).</p>
+
+<p>
+Malinowski also proved:</p>
+
+<p class="indent">
+<strong>Theorem 4</strong>. Every structural q-logic is characterized
+by a class of two-valued \(q\)-models or by a class of three-valued
+\(q\)-models.</p>
+
+<h3>3. Inferential many-valuedness and generalized valuation systems</h3>
+
+<p>
+Suszko does not define the notion of a logical value except for
+stating that <em>true</em> and <em>false</em> are the only logical
+values, but he claims that &ldquo;any multiplication of logical values
+is a mad idea&rdquo; (Suszko 1977: 378). This latter pronouncement,
+however, might be resisted. One may ask by virtue of which properties
+<em>true</em> and <em>false</em> are to be considered as
+<em>logical</em> values. Truth is preserved in a valid inference from
+the premises to the conclusion (or the conclusions in a
+multiple-conclusion setting). In the matrix semantics, the logical
+value <em>true</em> is given with a subset \(\mathcal{D}\) of the set
+of algebraic values and with the corresponding notion of entailment,
+understood as the preservation of membership in \(\mathcal{D}\) from
+the premises to the conclusion(s). This notion of entailment can be
+referred to as \(t\)-entailment. A formula \(A\) is logically true iff
+\(A\) is \(t\)-entailed by the empty set (iff for every assignment
+\(v\) of algebraic values to the formulas of the language under
+consideration, \(v(A)\) is designated), and \(A\) is logically false
+iff \(A\ t\)-entails the empty set (iff for every assignment \(v,
+v(A)\) is not designated). If the set of algebraic values is
+bi-partitioned, falsity is identified with the complement of
+\(\mathcal{D}\). Now, it is characteristic for falsity understood as
+non-truth to be preserved in the reverse direction, i.e., from the
+conclusion(s) to at least one of the premises. One might wish to
+consider a notion of \(f\)-entailment understood as the backward
+preservation of values associated with falsity. Obviously, membership
+in the complement of \(\mathcal{D}\) is preserved from the
+conclusion(s) to the premises, but this gives <em>the very same</em>
+relation as \(t\)-entailment. Since \(\mathcal{D}\) is uniquely
+determined by its complement, and vice versa, logical two-valuedness
+is, in fact, reduced to logical <em>mono-valuedness</em> if there is
+just one entailment relation defined as truth preservation form the
+premises to the conclusion. Thus, classical propositional logic is
+<em>not</em> logically two-valued in this sense.</p>
+
+<p>
+Malinowski&rsquo;s notion of a \(q\)-matrix can serve as a starting
+point for developing the notion of logical or inferential
+many-valuedness. One obtains a <em>generalized \(q\)-matrix</em> by
+giving up the condition that \(\mathcal{D}^+ \cap \mathcal{D}^{\minus}
+= \varnothing\). If the set of truth values is <em>not</em>
+dichotomized, but at least trisected, this may have a significant
+impact on the very concept of logical entailment. Indeed, since truth
+\((\mathcal{D}^+)\) does not generally coincide with non-falsity (the
+complement of \(\mathcal{D}^{\minus})\) any more, and falsity
+\((\mathcal{D}^{\minus})\) may differ from non-truth (the complement
+of \(\mathcal{D}^+)\), the expressions &lsquo;\(B\) is true whenever
+\(A\) is true&rsquo; and &lsquo;\(B\) is not false whenever \(A\) is
+not false&rsquo; need no longer mean the same. Moreover, the other
+usual characterizations of entailment (e.g., for single premises and
+conclusions): &ldquo;in any case either \(A\) is false or \(B\) is
+true&rdquo; and &ldquo;it is impossible that \(A\) is true and \(B\)
+false&rdquo;, also become non-equivalent. Hence, the relations
+determined by these conditions may also be different. That is, in
+addition to the simple preservation of truth from the premises to the
+conclusion(s) and the simple preservation of falsity in the backward
+direction, there come to mind at least two other notions of entailment
+based on an obvious interplay between \(\mathcal{D}^+\) and
+\(\mathcal{D}^{\minus}\) which have a clear intuitive appeal. In this
+way the framework of generalized \(q\)-matrices allows the following
+four basic entailment relations \((t\)-entailment, \(f\)-entailment,
+\(q\)-entailment and \(p\)-entailment) defined as follows:</p>
+
+<p>
+
+\[ \begin{align}
+\tag{11} \Delta \vDash _t B\textrm{ iff }\forall v[(\forall A \in \Delta: v(A) \in \mathcal{D}^+) \Rightarrow v(B) \in \mathcal{D}^+]\\
+ \tag{12} \Delta \vDash _f B\textrm{ iff }\forall v[(\forall A \in \Delta: v(A) \not\in \mathcal{D}^{\minus}) \Rightarrow v(B) \not\in \mathcal{D}^{\minus}]\\
+ \tag{13} \Delta \vDash _q B\textrm{ iff }\forall v[(\forall A \in \Delta: v(A) \not\in \mathcal{D}^{\minus}) \Rightarrow v(B) \in \mathcal{D}^+]\\
+ \tag{14} \Delta \vDash _p B\textrm{ iff }\forall v[(\forall A \in \Delta: v(A) \in \mathcal{D}^+) \Rightarrow v(B) \not\in \mathcal{D}^{\minus}]\\
+ 
+\end{align} \]
+ </p>
+
+<p>
+Whereas \(t\)-entailment is a generalization of the standard
+truth-preserving relation, \(f\)-entailment incorporates the idea of
+non-falsity preservation (cf. Dunn 2000: 10). Malinowski&rsquo;s
+relation of \(q\)-entailment qualifies derivations of true sentences
+from non-refuted premises (understood as hypotheses) as valid, and
+\(p\)-entailment \((p\) for &ldquo;plausibility&rdquo;) has been
+studied by Frankowski, who tried to explicate &ldquo;reasonings
+wherein the degree of strength of the conclusion (i.e. the conviction
+it is true) is smaller th[a]n that of the premisses&rdquo; (Frankowski
+2004: 41).</p>
+
+<p>
+This approach can be developed further. By a canonical definition of
+entailment one may understand a definition of entailment as a relation
+that preserves membership in a certain set of algebraic values either
+from the premises to the conclusion(s) of inferences, or from the
+conclusion(s) to the premises. Every such set may be associated with
+some logical value, and the corresponding entailment relations will be
+Tarskian: since preservation of a logical value from the conclusion(s)
+to the premises means that if the (every) conclusion possesses the
+value, then so does at least one of the premises, whereas preservation
+from the premises to the conclusion(s) means that if every premise
+possesses the value, then so does (at least one of) the conclusion(s).
+The relations of \(q\)-entailment and \(p\)-entailment, for example,
+are not canonical as opposed to \(t\)-entailment and \(f\)-entailment.
+Two logical values are independent of each other iff the canonically
+defined entailment relations determined by these values are
+distinct.</p>
+
+<p>
+This idea of multiple logical truth values has been developed in
+(Wansing and Shramko 2008). Although it is neither Malinowski&rsquo;s
+nor Suszko&rsquo;s understanding of logical truth values, it may quite
+appropriately be expressed by using Malinowski&rsquo;s term
+&ldquo;inferential many-valuedness&rdquo;. One may consider the notion
+of a <em>generalized valuation system</em> (an \(n\)-valued
+\(k\)-dimensional matrix, or just \(k\)-matrix) which is a structure
+\(\mathfrak{M} = \langle \mathcal{V}, \mathcal{D}_1 ,\ldots
+,\mathcal{D}_k, \{f_c: c \in \mathcal{C}\}\rangle\), where
+\(\mathcal{V}\) is a non-empty set of cardinality \(n\) \( (2 \le n),
+2 \le k\), every \(\mathcal{D}_i (1 \le i \le k)\) is a subset of
+\(\mathcal{V}\), the sets \(\mathcal{D}_i\) are pairwise distinct, and
+every <em>f\(_c\)</em> is a function on \(\mathcal{V}\) with the same
+arity as \(c\) (cf. W&oacute;jcicki 1988: 189; Czelakowski 2001: 410
+ff.). A logic may then be said to be logically (or inferentially)
+\(k\)-valued if it is a language together with \(k\) canonically
+defined and pairwise distinct entailment relations on (the set of
+formulas of) this language. Each of these \(k\) entailment relations
+is Tarskian.</p>
+
+<p>
+Generally, Malinowski&rsquo;s approach put forward the idea of what
+can be called a <em>mixed consequence</em>, &ldquo;allowing the notion
+of a designated value to vary between the premises and the conclusions
+of an argument&rdquo; (Chemla and &Eacute;gr&eacute; 2019: 736). As
+Pablo Cobreros et al. (2012: 367) explain, a mixed notion of
+consequence lays down different &ldquo;standards for truth&rdquo; in
+premises and conclusions. In this sense, Malinowski&rsquo;s
+\(q\)-entailment set a weaker standard for premises than for
+conclusions, whereas Frankowski&rsquo;s \(p\)-entailment does just the
+opposite. This idea of &ldquo;standards differentiation&rdquo; gives
+rise to an interesting recent development of strict-tolerant (and,
+dually, tolerant-strict) logics dealing with various mixed consequence
+relations (see, e.g. Barrio et al. 2015, Barrio et al. 2020, Chemla
+and &Eacute;gr&eacute; 2019, Cobreros et al. 2012). It turns out that
+strict-tolerant logic has the same consequence relation as classical
+logic, but differs from it in some meta-properties, in particular it
+is non-transitive. Remarkably Cobreros et al. (2012) are directly
+motivated by discussions around the Sorites Paradox, and applications
+of the proposed semantic framework to the pragmatics and
+psycholinguistics of vague predicates. A two-dimensional
+generalization of \(q\)- and \(p\)-entailment, called B-entailment,
+has been introduced in (Blasio et al., 2017). There it is shown that
+any B-consequence relation is, in general, inferentially
+four-valued.</p>
+
+<p>
+Note that interpretations of distinguished sets of algebraic values
+need not appeal to truth or falsity. In a series of papers, Jennings,
+Schotch, and Brown, for example, have argued that paraconsistent logic
+can be developed as a logic that preserves a degree of incoherence
+from the premises to the conclusion of a valid inference (see Brown
+and Schotch 1999, Jennings and Schotch 1984, and the references given
+there).</p>
+
+<p>
+The above considerations on inferential many-valuedness are of
+interest also because they affect the definition of the notion of a
+logical system. Even if one is not committed to the idea of entailment
+as preservation of semantical values from the premises to the
+conclusion(s) of an inference (or vice versa), it may still be quite
+natural to conceive of a logical system as comprising more than only
+one entailment relation.</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<h4>4. Other recent developments</h4>
+
+<p>
+Omori and Skurt (2021) present two non-deterministic semantics for a
+certain subsystem of classical propositional logic, one two-valued and
+the other four-valued, and observe that the two-valued semantics is
+the Suszko-reduction of the four-valued one.</p>
+
+<p>
+Roy, Basu, and Chakraborty (2024 [Other Internet Resources]) present a
+generalized version of Suszko&rsquo;s Thesis. They define a logical
+structure as being either a pair \(\langle {\cal L}, \vdash \rangle\)
+or a pair \(\langle{\cal L}, W\rangle\), where \(\cal{L}\) is a
+non-empty set (intuitively the set of all formulas of a given
+language), \(\vdash \, \subseteq \cal{P}(\cal{L}) \times \cal{L}\),
+and \({W\!\!:}\, \cal{P}(\cal{L}) \longrightarrow \cal{P}(\cal{L})\).
+The relation \(\vdash\) is to be understood as a consequence relation,
+and \(W\) as a consequence operator. Every logical structure \(\langle
+{\cal L}, \vdash \rangle\) gives rise to a logical structure
+\(\langle{\cal L}, W^\vdash \rangle\), and every logical structure
+\(\langle{\cal L}, W\rangle\) gives rise to a logical structure
+\(\langle {\cal L}, \vdash _W \rangle\), by setting \(A \in
+W^{\vdash}(\Gamma)\) iff \(\Gamma \vdash A\) and \(\Gamma \vdash _W
+A\) iff \(A \in W(\Gamma)\). Every single-conclusion consequence
+relation and every consequence operation thus is a logical structure
+in the above sense. If a consequence relation is non-monotonic
+(violates Monotonicity) it is a non-monotonic logical structure. They
+define a semantics for a given set \(\cal L\) as a tuple \(\langle
+\mathbf{M}, {\{\models _i \}_{i\in I}}, S, {\cal P}({\cal
+L})\rangle\), where \(\mathbf{M}\) is a set, \(I \not = \varnothing\),
+for every \(i \in I\), \(\models _i \, \subseteq \mathbf{M} \times
+{\cal L}\), and \(S\) is a non-empty subset of \(\{\langle \models _i
+, \models _j \rangle \!: \langle i, j\rangle \in I \times I\}\). If
+\(\mathfrak{S} = \langle \mathbf{M}, {\{\models _i \}_{i\in I}}, S,
+{\cal P}({\cal L})\rangle\) is a semantics, the entailment relation
+\(\vdash_{{\mathfrak{S}}} \, \subseteq {\cal P}({\cal L }) \times
+{\cal L}\) induced by \(\mathfrak{S}\) is defined by the following
+equivalence:</p>
+
+<p>
+
+\[\Gamma \vdash_{{\mathfrak{S}}} A \mbox{ iff for all } \langle \models _i , \models _j\rangle \in S \mbox{ and } m \in \mathbf{M}, \mbox{ if } \langle m, \Gamma \rangle \in \, \models _i, \mbox{ then } \langle m, \{A\} \rangle \in \, \models _j.\]
+ </p>
+
+<p>
+A logical structure \(\langle {\cal L}, \vdash \rangle\)
+(\(\langle{\cal L}, W\rangle\)) is adequate with respect to a
+semantics \(\mathfrak{S} = \langle \mathbf{M}, {\{\models _i \}_{i\in
+I}}, S, {\cal P}({\cal L})\rangle\) if \(\vdash\) \(=\)
+\(\vdash_{{\mathfrak{S}}}\) (\(W = W^{\vdash_{{\mathfrak{S}}}}\)). A
+logical structure has an adequate semantics if there is a semantics
+for which it is adequate.</p>
+
+<p>
+An \({S}\)-semantics (Suszko-semantics) is then defined as a quadruple
+\(\mathsf{S}\) \(=\) \(\langle \mathbf{B}, R, \models, {\cal
+L}\rangle\) for a given logical structure \(\langle{\cal L},
+W\rangle\), where \(\mathbf{B}\) is a set of <em>two-valued</em>
+valuation functions defined on \(\cal L\), \(R\) is a binary relation
+on \(\mathbf{B}\), and \(\models \, \subseteq \mathbf{B} \times {\cal
+P}({\cal L})\). Given an \(S\)-semantics \({\mathsf S}\) for
+\(\langle{\cal L}, W\rangle\), two entailment relations induced by
+\({\mathsf S}\), \(\vdash^{\mathsf{S}}_{I} \, \subseteq
+\cal{P}(\cal{L}) \times \cal{L}\) (said to be a type-I relation) and
+\(\vdash^{\mathsf{S}}_{II} \,\subseteq \cal{P}(\cal{L}) \times
+\cal{L}\) (said to be a type-II relation) are defined as follows:</p>
+
+<p>
+
+\[\begin{array}{ll}
+\Gamma \vdash^{\mathsf{S}}_{I} A \mbox{ iff for all } \langle v, w \rangle \in R, \langle v, \Gamma \rangle \in \models \mbox{ implies } \langle w, \{A\} \rangle \in \models; &amp; \\
+ \Gamma \vdash^{\mathsf{S}}_{I} A \mbox{ iff there exist } U \subseteq R \mbox{ with } \langle \chi_\Gamma , \chi _{W(\Gamma)} \rangle \in U \mbox{ such that } &amp; \\
+ \mbox{for all } \langle v, w\rangle \in U, \langle v, w\rangle \in \models \mbox{ implies } \langle w, \{A\} \rangle \in \models, \\
+ 
+\end{array}\]
+ </p>
+
+<p>
+where \(\chi _{\Gamma}\) (\(\chi _{W(\Gamma)}\)) is the valuation
+function that assigns \(1\) to \(A \in {\cal L}\) just in case \(A \in
+\Gamma\) (\(A \in \chi _{W(\Gamma)}))\).The two entailment relations
+induce operations \(W^{S}_{I}\) and \(W^{S}_{II}\). If \(({\cal L},
+W)\) is a logical structure and \(\mathsf S$\) an \(S\)-semantics for
+\(\cal{L}\), then \(({\cal L}, W)\) is said to have an adequate type-I
+\(S\)-semantics (adequate type-II \(S\)-semantics) if \(W =
+W^{S}_{I}\) (\(W = W^{S}_{II})\).</p>
+
+<p>
+Roy, Basu, and Chakraborty (2024 [Other Internet Resources]) show that
+if a logical structure has an adequate semantics, then it has an
+adequate type-I Suszko-semantics. Their generalized approach to
+Suszko&rsquo;s Thesis allows to cover also certain non-monotonic
+logical structures, which are shown to have an adequate type-II
+\(S\)-semantics.</p> 
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="http://kdpu.edu.ua/shramko/yse.htm" target="other">Yaroslav Shramko</a>
+&lt;<a href="m&#97;ilto:shramko&#37;40rocketmail&#37;2ecom"><em>shramko<abbr title=" at ">&#64;</abbr>rocketmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+<a href="http://www.ruhr-uni-bochum.de/philosophy/logic/" target="other">Heinrich Wansing</a>
+&lt;<a href="m&#97;ilto:Heinrich&#37;2eWansing&#37;40rub&#37;2ede"><em>Heinrich<abbr title=" dot ">&#46;</abbr>Wansing<abbr title=" at ">&#64;</abbr>rub<abbr title=" dot ">&#46;</abbr>de</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

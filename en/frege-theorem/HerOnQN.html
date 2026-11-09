@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Frege’s Theorem and Foundations for Arithmetic &gt; Proof that Q is Hereditary on the Natural Numbers (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/frege-theorem/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/frege-theorem/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-theorem">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Frege&rsquo;s Theorem and Foundations for Arithmetic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Proof that Q is Hereditary on the Natural Numbers</h2>
+
+<p>
+We want to prove the following claim: </p>
+
+<p class="indent">
+\(\mathit{HerOn}(Q,N)\)
+</p>
+
+<p>
+The proof of this claim appeals to the following Lemma (cf. <strong>Gg</strong> I, Theorem 149): </p>
+
+<div class="indent">
+<strong>Lemma on <em>Predecessor</em>\(^+\)</strong>:
+<br />
+\[\begin{align*}
+&amp;Nx \amp \mathit{Precedes}(y,x) \rightarrow \\
+&amp;\quad \#[\lambda z \, \mathit{Precedes}^{+}(z,y)] = \#[\lambda z \, \mathit{Precedes}^{+}(z,x)\amp z\neq x]
+\end{align*}\]
+</div>
+
+<p class="indent">
+(<a href="LemPred.html" name="return-lempred">Proof of the Lemma on <em>Predecessor</em>\(\,^{+}\)</a>)</p>
+
+<p>
+Intuitively, the Lemma on Predecessor\(^{+}\) tells us that if \(y\) precedes a number \(x\), then \(\#[\lambda z \, z\leq y]\) is identical to \(\#[\lambda z \, z\leq x\amp z\neq x]\). </p>
+
+<p>
+Now to show \(\mathit{HerOn}(Q,N)\), we have to show:</p>
+
+<p class="indent">
+\(\forall n\forall m[\mathit{Precedes}(n,m) \rightarrow (Qn\rightarrow Qm)]\)
+</p>
+
+<p>
+If we replace &lsquo;\(Q\)&rsquo; with its definition and simplify the result by \(\lambda\)-Conversion, then what we have to show is: </p>
+
+<div class="indent">
+\[\begin{align*}
+&amp;\forall n\forall m(\mathit{Precedes}(n,m) \rightarrow (\mathit{Precedes}(n,\#[\lambda z \, \mathit{Precedes}^{+}(z,n)])\rightarrow \\
+&amp;\quad \mathit{Precedes}(m,\#[\lambda z \, \mathit{Precedes}^{+}(z,m)]))
+\end{align*}\]
+</div>
+
+<p>
+(Intuitively, we have to show that if \(n\) precedes \(m\), then if \(n\) precedes the number of numbers less than or equal to \(n\), then \(m\) precedes the number of numbers less than or equal to \(m\).) So, let \(n\) and \(m\) be arbitrary numbers, so that we know \(Nn\) and \(Nm\) and assume both: </p>
+
+<p class="indent">
+(A) &nbsp; \(\mathit{Precedes}(n,m)\)
+<br />
+(B) &nbsp; \(\mathit{Precedes}(n,\#[\lambda z \, \mathit{Precedes}^{+}(z,n)])\)
+</p>
+
+<p>
+to show:</p>
+
+<p class="indent">
+\(\mathit{Precedes}(m,\#[\lambda z \, \mathit{Precedes}^{+}(z,m)])\)
+</p>
+
+<p>
+By the definition of Predecessor, we have to show that there is a concept \(F\) and object \(x\) such that: </p>
+
+<p class="indent">
+(1) &nbsp;\(Fx\)
+<br />
+(2) &nbsp; \(\#[\lambda z \, \mathit{Precedes}^{+}(z,m)] = \#F\)
+<br />
+(3) &nbsp;\(m = \#[\lambda u \, Fu \amp u\neq x]\)
+</p>
+
+<p>
+We can demonstrate that there is an \(F\) and \(x\) for which (1), (2) and (3) hold if we pick \(F\) to be \([\lambda z \, \mathit{Precedes}^{+}(z,m)]\) and pick \(x\) to be \(m\). We now establish (1), (2), and (3) for these choices. </p>
+
+<p>
+To show that (1) holds, we have to show:</p>
+
+<p class="indent">
+\([\lambda z \, \mathit{Precedes}^{+}(z,m)]m\)
+</p>
+
+<p>
+But we know, from the definition of \(\mathit{Precedes}^{+}\), that \(\mathit{Precedes}^{+}(m,m)\). So by abstraction using \(\lambda\)-Conversion, we are done. </p>
+
+<p>
+To show that (2) holds, we need do no work, since our choice of \(F\) requires us to show:</p>
+
+<p class="indent">
+\(\#[\lambda z \, \mathit{Precedes}^{+}(z,m)] = \#[\lambda z \, \mathit{Precedes}^{+}(z,m)]\),
+</p>
+
+<p>
+which we know by the logic of identity. </p>
+
+<p>
+To show (3) holds, we need to show:</p>
+
+<p class="indent">
+(C) &nbsp;\(m = \#[\lambda u \, \mathit{Precedes}^{+}(u,m) \amp u \neq m]\)
+</p>
+
+<p>
+[Note that the \(\lambda\)-expression in the above has been simplified by applying \(\lambda\)-Conversion to the following (which, strictly speaking, is what results when you substitute our choice for \(F\) in (3)): </p>
+
+<p class="indent">
+\([\lambda u \, [\lambda z \, \mathit{Precedes}^{+}(z,m)]u \amp u\neq m]\)
+</p>
+
+<p>
+In what follows, we use the simplified version of this \(\lambda\)-expression.] </p>
+
+<p>
+Now in virtue of (A), (B) and the functionality of Predecessor (the proof of which was left as an exercise in the subsection No Two Numbers Have the Same Successor in &sect;5), we know \(m = \#[\lambda z \, \mathit{Precedes}^{+}(z,n)]\). So, substituting for \(m\) in (C), we have to show:</p>
+
+<p class="indent">
+\(\#[\lambda z \, \mathit{Precedes}^{+}(z,n)] = \#[\lambda u \, \mathit{Precedes}^{+}(u,m) \amp u \neq m]\)
+</p>
+
+<p>
+But we can demonstrate this by appealing to the Lemma on Predecessor\(^{+}\) mentioned at the outset. We may instantiate the variables \(x\) and \(y\) in that Lemma to \(m\) and \(n\), respectively, yielding: </p>
+
+<div class="indent">
+\[\begin{align*}
+&amp;Nm \amp \mathit{Precedes}(n,m)\rightarrow \\
+&amp;\quad \#[\lambda z \, \mathit{Precedes}^{+}(z,n)] = \#[\lambda z \, \mathit{Precedes}^{+}(z,m) \amp z \neq m]
+\end{align*}\]
+</div>
+
+<p>
+Since the consequent is what we had to show, we are done, for the conjuncts of the antecedent are things we assumed to be true at the beginning of our conditional proof. </p>
+
+<p>
+ <a href="index.html#return-QN">Return to Frege&rsquo;s Theorem and Foundations for Arithmetic</a>
+</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://mally.stanford.edu/zalta.html" target="other">Edward N. Zalta</a>
+&lt;<a href="m&#97;ilto:zalta&#37;40stanford&#37;2eedu"><em>zalta<abbr title=" at ">&#64;</abbr>stanford<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

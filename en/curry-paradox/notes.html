@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Curry’s Paradox &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/curry-paradox/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/curry-paradox/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=curry-paradox">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Curry&rsquo;s Paradox</a></h2>
+
+<div id="note-1">
+
+<p>
+ <a href="index.html#ref-1">1.</a>
+ The term &ldquo;Curry&rsquo;s paradox&rdquo; appears to originate in
+Fitch 1952; other influential early formulations include Moh 1954,
+Geach 1955, and Prior 1955. These will be discussed in
+ <a href="index.html#ConsCurrSent">section 2</a>.
+ Precursors to Curry&rsquo;s paradox are also found in the work of
+medieval and late scholastic logicians: for references and discussion,
+see Ashworth 1974: 125, Read 2001 and Hanke 2013.</p>
+</div>
+
+<div id="note-2">
+
+<p>
+ <a href="index.html#ref-2">2.</a>
+ Curry&rsquo;s paper is entitled &ldquo;The Inconsistency of Certain
+Formal Logics&rdquo; (1942b). By &ldquo;inconsistency&rdquo;, he means
+<em>absolute</em> inconsistency, i.e., triviality.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+ <a href="index.html#ref-3">3.</a>
+ Typically, a theory&rsquo;s consequence relation will be a
+<em>closure relation</em>, in the sense that \(\Gamma
+\vdash_{\mathcal{T}} \alpha\) if and only if \(\alpha\) is among the
+sentences in \(Cn(\Gamma)\), where \(Cn\) is a closure operation. See
+entry on
+ <a href="../logic-algebraic-propositional/">algebraic propositional logic</a>.
+ However, Ripley (2015b) shows that the consequence relations of many
+of the theories that yield &ldquo;contraction-free&rdquo; responses to
+Curry&rsquo;s paradox (see
+ <a href="index.html#ContFreeResp">section 4.2.1</a>)
+ fail to be closure relations.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+ <a href="index.html#ref-4">4.</a>
+ The term &ldquo;Curry sentence&rdquo; is sometimes used in a narrower
+sense, namely for a sentence that says of itself (only) that <em>if it
+is true</em>, then \(p\) (or, alternatively, an absurdity) is true
+(e.g., Beall 2009: 33,&nbsp;Zardini 2011: 503). Some discussions
+(e.g., Restall 1994: vii,&nbsp;Humberstone 2006) demarcate the
+relevant notion using a <em>biconditional</em> rather than
+intersubstitutability, namely as any \(\kappa\) such that
+\(\vdash_{\mathcal{T}} \kappa {\leftrightarrow}(\kappa
+{\rightarrow}\pi)\). The disadvantage here is that the behavior of the
+\({\rightarrow}\) is tied to that of the \({\leftrightarrow}\), even
+though they play very different roles in generating paradox. Note that
+the mere existence of a Curry sentence for a sentence-theory pair
+poses no paradox, nor is it an objection to the theory in question.
+For example, \(\pi {\rightarrow}\pi\) will be a Curry sentence for
+\(\pi {\rightarrow}\pi\) and the theory that consists of the theorems
+of classical logic, since \(\pi {\rightarrow}\pi\) will be
+intersubstitutable with \((\pi {\rightarrow}\pi) {\rightarrow}(\pi
+{\rightarrow}\pi)\). The authors thank Lorenzo Rossi for raising this
+issue.</p>
+</div>
+
+<div id="note-5">
+
+<p>
+ <a href="index.html#ref-5">5.</a>
+ If the consequence relation \(\vdash_{\mathcal{T}}\) is assumed to be
+transitive, condition (ii) can be replaced with the condition that
+\(\pi' \vdash_{\mathcal{T}} \pi\). However, one of the responses to
+Curry&rsquo;s paradox considered below rejects transitivity.</p>
+</div>
+
+<div id="note-6">
+
+<p>
+ <a href="index.html#ref-6">6.</a>
+ <a href="index.html#StrengthLemm">Section 3.3</a>
+ and
+ <a href="index.html#ValiCurr">Section 6</a>
+ will consider somewhat broader families of paradoxes.</p>
+</div>
+
+<div id="note-7">
+
+<p>
+ <a href="index.html#ref-7">7.</a>
+ The letter \(h\) is chosen to correspond with the \(\mathfrak{H}\)
+that Curry 1942b uses to denote this property; likewise for \(u\)
+below.</p>
+</div>
+
+<div id="note-8">
+
+<p>
+ <a href="index.html#ref-8">8.</a>
+ Fitch considers the paradox in both its property-theoretic and
+set-theoretic versions (Fitch 1952: 89).</p>
+</div>
+
+<div id="note-9">
+
+<p>
+ <a href="index.html#ref-9">9.</a>
+ This is noted in Church&rsquo;s contemporaneous review (Church
+1942).</p>
+</div>
+
+<div id="note-10">
+
+<p>
+ <a href="index.html#ref-10">10.</a>
+ Strictly speaking, in his presentation, the &ldquo;names&rdquo; are
+numerals that denote numbers, not properties; properties are then
+given numerical codes.</p>
+</div>
+
+<div id="note-11">
+
+<p>
+ <a href="index.html#ref-11">11.</a>
+ Geach actually uses diagonalization based on a theory of syntax to
+achieve the required self-reference. He adds that &ldquo;we might
+instead use the familiar G&ouml;delian devices&rdquo; for simulating
+self-reference using diagonalization based on a theory of arithmetic.
+See entry on
+ <a href="../goedel-incompleteness/">G&ouml;del&rsquo;s incompleteness theorems</a>.</p>
+ </div>
+
+<div id="note-12">
+
+<p>
+ <a href="index.html#ref-12">12.</a>
+ On the relationship between Curry&rsquo;s paradox and
+L&ouml;b&rsquo;s theorem, see van Benthem (1978), who remarks on the
+&ldquo;strange anti-parallel between G&ouml;del&rsquo;s proof, where a
+well-known semantic paradox inspired a formal result in terms of
+provability rather than truth, and L&ouml;b&rsquo;s proof, where a
+semantic paradox &hellip; was extracted from a formal result about
+provability&rdquo; (1978: 59). See also Priest (2021).</p>
+</div>
+
+<div id="note-13">
+
+<p>
+ <a href="index.html#ref-13">13.</a>
+ This is not to be confused with a result in proof theory known as
+Curry&rsquo;s Lemma following Anderson &amp; Belnap (1975: 136).</p>
+</div>
+
+<div id="note-14">
+
+<p>
+ <a href="index.html#ref-14">14.</a>
+ Zardini (2015), who calls Cont the rule of &ldquo;absorption&rdquo;,
+notes that given MP it entails there can be no Curry sentence for an
+&ldquo;unacceptable sentence&rdquo; \(\pi\).</p>
+</div>
+
+<div id="note-15">
+
+<p>
+ <a href="index.html#ref-15">15.</a>
+ It is also closely related to the method used in L&ouml;b&rsquo;s
+original proof of L&ouml;b&rsquo;s theorem (1955).</p>
+</div>
+
+<div id="note-16">
+<!-- footnotePpeirce -->
+
+<p id="footnotePeirce">
+ <a href="index.html#ref-16">16.</a>
+ A third counterpart of the Curry-Paradox Lemma replaces Cont with a
+rule which, in light of Peirce&rsquo;s Law \(\vdash_{\mathcal{T}}
+((\alpha {\rightarrow} \beta ) {\rightarrow}\alpha))
+{\rightarrow}\alpha\), could be called Peirce&rsquo;s Rule:</p>
+
+<dl class="sentag tag3em">
+<dt>(PR)</dt>
+<dd>If \(\alpha {\rightarrow}\beta \vdash_{\mathcal{T}} \alpha\) then
+\(\vdash_{\mathcal{T}} \alpha\).</dd>
+</dl>
+
+<p>
+The proof of the Lemma is then structurally analogous to that in
+ <a href="index.html#CurrParaLemm">section 3.1</a>.
+ Here, too, one could instead use IdL and Peirce&rsquo;s Law. Cf.
+Bunder 1986, Rogerson &amp; Restall 2004. Unlike the principles used
+so far, Peirce&rsquo;s Law and Peirce&rsquo;s Rule fail in
+intuitionistic logic.</p>
+</div>
+
+<div id="note-17">
+
+<p>
+ <a href="index.html#ref-17">17.</a>
+ The grounds given for denying that a target theory \(\mathcal{T}\) is
+Curry-complete are typically parallel to grounds for denying that
+there is a sentence \(\lambda\) such that it and its negation
+\(\lnot\lambda\) are intersubstitutable according to \(\mathcal{T}\).
+And the respective moves will have parallel philosophical
+ramifications. An exception may be the early response to Curry&rsquo;s
+paradox by Fitch (1952, 1969). Fitch presents several possible
+restrictions on the inference rules of a natural deduction system that
+are motivated specifically by Curry&rsquo;s paradox. Since their
+effect is to ensure violations of
+ <a href="index.html#exProperty">(Property)</a>
+ and
+ <a href="index.html#exSet">(Set)</a>,
+ these are Curry-incompleteness responses. In particular,
+Fitch&rsquo;s systems allow a derivation of \(\vdash_{\mathcal{T_P}} h
+\ \epsilon \ h {\rightarrow}\pi\). Yet, based on global features of
+that derivation, his &ldquo;special restriction&rdquo; and
+&ldquo;restriction on nonrecurrence&rdquo; would both block its
+extension to a derivation of \(\vdash_{\mathcal{T_P}} h \ \epsilon \
+h\). For helpful discussion, see Anderson 1975 and Rogerson 2007.</p>
+</div>
+
+<div id="note-18">
+
+<p>
+ <a href="index.html#ref-18">18.</a>
+ Counterparts of the Curry-Paradox Lemma can be formulated using
+principles involving negation. For example, \(\lnot\alpha
+\vdash_{\mathcal{T}} \alpha {\rightarrow}\beta\) together with the
+classical <em>reductio</em> rule</p>
+
+<p class="indent">
+If \(\lnot\alpha \vdash_{\mathcal{T}} \alpha\) then
+\(\vdash_{\mathcal{T}} \alpha\)</p>
+
+<p>
+yield Peirce&rsquo;s Rule of
+ <a href="#footnotePeirce">note 16</a>.
+ (Of course, in a language whose only &ldquo;conditional&rdquo;
+\(\alpha {\rightarrow}\beta\) is the material conditional
+\(\lnot\alpha \lor \beta\), the corresponding version of Curry&rsquo;s
+paradox will involve negation. In that setting, Curry&rsquo;s paradox
+poses a less distinctive challenge.)</p>
+</div>
+
+<div id="note-19">
+
+<p>
+ <a href="index.html#ref-19">19.</a>
+ Like Geach, they add that Curry&rsquo;s paradox shows that &ldquo;the
+properties of implication &hellip; do us in on their own&rdquo;. (By
+&ldquo;implication&rdquo;, they mean a conditional; see
+ <a href="#footnoteImplication">note 23</a>.)</p>
+ </div>
+
+<div id="note-20">
+
+<p>
+ <a href="index.html#ref-20">20.</a>
+ Meyer et al. (1979) cite the relevant logics \(E\) and \(R\); the
+same is true of the contraction-free relevant logic \(RWX\) (Slaney
+1989). Glutty responses to paradox that <em>do</em> admit of
+Curry-complete theories include Priest 2006, Beall 2009, and Beall
+2015.</p>
+</div>
+
+<div id="note-21">
+
+<p>
+ <a href="index.html#ref-21">21.</a>
+ See also Restall 1993. Geach cites Moh&rsquo;s paper, but there is
+little reason to think he had &#321;\(_{3}\) in mind as a logic with
+which one &ldquo;might &hellip; hope&rdquo; to avoid the Liar paradox
+but which remains vulnerable to Curry&rsquo;s paradox. That is because
+Curry sentences with respect to the primitive conditional
+\({\rightarrow}\), which fails to satisfy Cont, pose no problem for a
+theory based on &#321;\(_{3}\). Gappy responses to paradox that admit
+of nontrivial Curry-complete theories include Kripke 1975, White 1979,
+and Field 2008.</p>
+</div>
+
+<div id="note-22">
+<!-- footnoteImplication -->
+
+<p id="footnoteImplication">
+ <a href="index.html#ref-22">22.</a>
+ See also Curry &amp; Feys 1958: 259. By &ldquo;implication&rdquo;,
+Prior means a conditional. Several years earlier, Quine had remarked
+that the use of &ldquo;conditional&rdquo; in place of
+&ldquo;implication&rdquo; is &ldquo;encouragingly on the
+increase&rdquo; (1953: 451).</p>
+</div>
+
+<div id="note-23">
+
+<p>
+ <a href="index.html#ref-23">23.</a>
+ The fact that Curry&rsquo;s paradox calls attention to this general
+structure could perhaps be what Curry et al. (1972) have in mind when
+they refer to Curry&rsquo;s paradox as &ldquo;the generalized Russell
+paradox&rdquo;. However, their point is likely a different one, namely
+that Russell&rsquo;s paradox becomes a <em>special case</em> of (the
+property- or set-theoretic form of) Curry&rsquo;s paradox provided
+\(\lnot\alpha\) is defined as \(\alpha {\rightarrow}\bot\), as is
+possible in intuitionistic and classical logic.</p>
+</div>
+
+<div id="note-24">
+
+<p>
+ <a href="index.html#ref-24">24.</a>
+ Since 2017, there have been proposals related to this one. Instead of
+characterizing a general <em>kind</em> of connective, Tapia-Navarro
+&amp; Estrada-Gonz&aacute;lez (2020) introduce a particular
+&ldquo;generalized negation&rdquo; connective defined in terms of a
+conditional. Ahmad (2022) proposes a &ldquo;general recipe&rdquo; for
+semantic paradoxes, including the Liar paradox and the semantic
+version of Curry&rsquo;s paradox. However, his recipe&rsquo;s
+characterization of the logical behavior of the required
+&ldquo;partial negative modality&rdquo; differs from our conditions
+(P1) and (P2) on a Curry connective \(\odot\) in that it does not
+exhaust the relevant behavior used in deriving the various paradoxes.
+Applying his recipe to yield the Liar paradox requires using
+additional rules for negation, and applying it to yield a Curry
+paradox requires using additional rules for the conditional.</p>
+</div>
+
+<div id="note-25">
+
+<p>
+ <a href="index.html#ref-25">25.</a>
+ The same result obtains if the requirement that \(\odot\) be a Curry
+connective is replaced with the requirement that it be a Curry&prime;
+connective, where this is defined by replacing P2 with</p>
+
+<dl class="sentag tag3em">
+<dt>(P2&prime;)</dt>
+<dd>If \(\odot\alpha \vdash_{\mathcal{T}} \alpha\) then
+\(\vdash_{\mathcal{T}} \alpha\). (See
+ <a href="#footnotePeirce">note 16</a>.)</dd>
+ </dl>
+
+<p>
+For what are, in effect, quite a number of other ways of generalizing
+the Curry-Paradox Lemma, see Bimb&oacute; 2006 and Humberstone 2006.
+See also
+ <a href="index.html#StrengthLemm">Section 3.3</a>
+ on how the requirement of intersubstitability of \(\mu\) and
+\(\odot\mu\) may be weakened.</p>
+</div>
+
+<div id="note-26">
+
+<p>
+ <a href="index.html#ref-26">26.</a>
+ In the case of Russell&rsquo;s paradox in set theory, \(\mu\) can be
+\(\{x: x \notin x\} \in \{x: x \notin x\}\). In the case of the Liar
+paradox, \(\mu\) can be \(T\langle\lambda\rangle\) where \(\lambda\)
+is \(\lnot T\langle\lambda\rangle\).</p>
+</div>
+
+<div id="note-27">
+
+<p>
+ <a href="index.html#ref-27">27.</a>
+ See also Curry &amp; Feys 1958: 259. They add: &ldquo;If one insists
+on regarding [\(\odot\alpha\), defined as \(\alpha {\rightarrow}\pi\)]
+as a species of negation, then that negation is a minimal
+negation&rdquo;. As noted below, this is strictly speaking incorrect.
+The explanation is that Curry&rsquo;s proof of the corresponding
+claim, in Curry 1952, assumes that the conditional is characterized
+using an extension of the sequent calculus in Curry 1950: 32&ndash;33,
+which includes the rule of structural exchange. This is what
+guarantees that \(\alpha \vdash (\alpha {\rightarrow}\pi)
+{\rightarrow}\pi\), i.e., \(\alpha \vdash _{\mathcal{T}}
+\odot\odot\alpha\).</p>
+</div>
+
+<div id="note-28">
+
+<p>
+ <a href="index.html#ref-28">28.</a>
+ These include the relevant logics \(T\) and \(E\) of Anderson &amp;
+Belnap 1975, and many of the logics explored in Brady 2006.</p>
+</div>
+
+<div id="note-29">
+
+<p>
+ <a href="index.html#ref-29">29.</a>
+ More recently, Priest (2017) has expressed ambivalence between the
+first and third options for addressing semantic versions of the
+paradoxes.</p>
+</div>
+
+<div id="note-30">
+
+<p>
+ <a href="index.html#ref-30">30.</a>
+ More recent work includes Bacon 2015, Barrio et al. 2021, Cook 2014,
+Field 2017, Hlobil 2018 &amp; 2019, Mares &amp; Paoli 2014, Meadows
+2014, Murzi 2014, Pailos 2020, Murzi &amp; Rossi 2021, Murzi &amp;
+Shapiro 2015, Nicolai &amp; Rossi 2018, Pailos &amp; Tajer 2017,
+Priest 2015, Rosenblatt 2017, Shapiro 2013 &amp;&nbsp;2015, Wansing
+&amp; Priest 2015, Weber 2014, Zardini 2013&nbsp;&amp; 2014.</p>
+</div>
+
+<div id="note-31">
+
+<p>
+ <a href="index.html#ref-31">31.</a>
+ The predicate form of v-Curry is discussed in detail by Beall &amp;
+Murzi (2013); it is mentioned by Whittle (2004) and Shapiro (2011) and
+formulated for a predicate expressing informal provability in Carrara
+and Martino (2011). The connective and predicate forms are equivalent
+provided \(Val(\langle\alpha\rangle, \langle\beta \rangle)\) and
+\(\alpha {\Rightarrow}\beta \) are intersubstitutable according to
+\(\mathcal{T}_{V}\). Accordingly, while the predicate form is a
+<em>semantic</em> paradox (in the sense that it concerns a feature of
+expressions that depends on their interpretation), it can be obtained
+by constructing a property- or set-theoretic Curry sentence \(\kappa\)
+intersubstitutable according to \(\mathcal{T}_{V}\) with \(\kappa
+{\Rightarrow}\pi\) and ensuring that the latter sentence is in turn
+intersubstitutable with \(Val(\langle\kappa\rangle,
+\langle\pi\rangle)\).</p>
+</div>
+
+<div id="note-32">
+
+<p>
+ <a href="index.html#ref-32">32.</a>
+ The status of rules such as VP and VD is a topic of controversy: see
+Field 2017, Hlobil 2019.</p>
+</div>
+
+<div id="note-33">
+
+<p>
+ <a href="index.html#ref-33">33.</a>
+ The present objection is specifically posed by the conclusion that
+\(\pi\) is <em>true</em>, as opposed to the conclusion that
+\(\vdash_{\mathcal{T}_{V}} \pi\). The fact that Ripley (2013) affirms
+the latter is not obviously problem for their nontransitive approach.
+On that approach, the claim that \(\vdash_{\mathcal{T}_{V}} \pi\)
+amounts only to the claim that \(\pi\) is <em>undeniable</em>
+according to \(\mathcal{T}_V\). According to Ripley, paradoxical
+sentences are undeniable but may not be (&ldquo;strictly&rdquo;)
+asserted to be true.</p>
+</div>
+
+<div id="note-34">
+
+<p>
+ <a href="index.html#ref-34">34.</a>
+ Indeed, Nicolai &amp; Rossi (2018) argue that v-Curry paradoxes
+motivate responses according to which a third structural principle,
+namely the reflexivity principle \(\phi \vdash_{\mathcal{T}_{V}}\!
+\phi\) codified by Id, can fail in cases where \(\phi \) contains a
+predicate expressing the relation \(\vdash_{\mathcal{T}_{V}}\). See
+also Murzi &amp; Rossi 2021.</p>
+</div>
+
+<div id="note-35">
+
+<p>
+ <a href="index.html#ref-35">35.</a>
+ Cook (2014) has argued influentially that the notion of logical
+validity does not give rise to a v-Curry paradox.</p>
+</div>
+
+<div id="note-36">
+
+<p>
+ <a href="index.html#ref-36">36.</a>
+ The non-uniformity considered at the start of
+ <a href="index.html#RespCurrPara">section 4</a>
+ was a matter of giving different responses to ordinary Curry
+paradoxes arising in different domains (such as property theory set
+theory). The non-uniformity considered in
+ <a href="index.html#PoinGeneParaStru">section 5.2</a>
+ was a matter of different connectives failing to qualify as Curry
+connectives for different reasons.</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2026</a> by
+
+<br />
+<a href="http://shapiro.philosophy.uconn.edu" target="other">Lionel Shapiro</a>
+&lt;<a href="m&#97;ilto:lionel&#37;2eshapiro&#37;40uconn&#37;2eedu"><em>lionel<abbr title=" dot ">&#46;</abbr>shapiro<abbr title=" at ">&#64;</abbr>uconn<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+<a href="http://entailments.net/" target="other">Jc Beall</a>
+&lt;<a href="m&#97;ilto:jbeall&#37;40nd&#37;2eedu"><em>jbeall<abbr title=" at ">&#64;</abbr>nd<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

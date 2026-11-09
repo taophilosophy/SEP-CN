@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Curry’s Paradox &gt; Curry on Curry&rsquo;s Paradox (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/curry-paradox/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/curry-paradox/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=curry-paradox">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Curry&rsquo;s Paradox</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Curry on Curry&rsquo;s Paradox</h2>
+
+<h3>Curry&rsquo;s Target Systems</h3>
+
+<p>
+When Curry (1942b) introduced the paradox to demonstrate the
+inconsistency of &ldquo;certain systems of formal logic&rdquo;, the
+systems he had in mind were theories of functional application,
+specifically Church&rsquo;s untyped
+ <a href="../lambda-calculus/">lambda calculus</a>
+ and Curry&rsquo;s own
+ <a href="../logic-combinatory/">combinatory logic</a>
+ (Church 1932; Curry 1930; Seldin 2006). Besides variables, the syntax
+of both systems consists only of terms that denote entities (e.g.
+numbers, properties and propositions). A binary operation on terms
+forms a term standing for the result of applying one entity to
+another. For example, applying the property <em>evenness</em> to the
+number <em>two</em> yields a true proposition.</p>
+
+<p>
+Curry&rsquo;s key assumption is that the target systems are
+&ldquo;combinatorially complete&rdquo;. This means that &ldquo;any
+function we can define intuitively by means of a variable can be
+represented formally as an entity of the system&rdquo; using a
+denoting term (Curry &amp; Feys 1958: 5). For example, there is a
+function that, applied to some entity \(x\), yields the result of
+applying \(x\) to \(x\) itself. In the lambda calculus, this function
+is formally represented by the expression \(\lambda x\mathord{.}xx\).
+The principle of combinatory completeness is Curry&rsquo;s counterpart
+of the property abstraction principle
+ (<a href="index.html#exProperty">Property</a>)
+ stated in main entry
+ <a href="index.html#ConsCurrSent">section 2</a>.</p>
+ 
+<h3>Curry&rsquo;s Response</h3>
+
+<p>
+Curry regarded his paradox as a constraint on an adequate theory of
+functional application. He insisted that the <em>wrong</em> lesson
+would be to give up the unrestricted property abstraction that lets
+the theory contain expressions such as one that corresponds to \(h\)
+in
+ <a href="index.html#CurrFirsMethSetTheoCurrSent">section 2.1</a>.
+ Speaking informally, this term denotes the function that, when
+applied to a given argument \(x\), yields the result of applying the
+implication function to the self-application of \(x\) together with an
+arbitrary proposition \(p\).</p>
+
+<blockquote>
+
+<p>
+The presence of these paradoxical terms is an advantage, because it
+enables the paradoxes to be represented in the system where it is
+possible to analyze them. (Curry 1942a: 56n14a)</p>
+</blockquote>
+
+<p>
+Curry also criticized attempts to resolve the paradox by embracing a
+non-classical logic for the conditional. He claimed that the logics
+available to play this role were either <em>ad hoc</em> or failed to
+be &ldquo;adequate for mathematics&rdquo; (Curry &amp; Feys 1958:
+261).</p>
+
+<p>
+To understand the lesson Curry drew from his paradox, one must keep in
+mind that his formulation doesn&rsquo;t involve Curry
+<em>sentences</em>, but rather Curry <em>terms</em>. In place of the
+sentence \(h \ \epsilon \ h\) of
+ <a href="index.html#CurrFirsMethSetTheoCurrSent">section 2.1</a>,
+ he employs a term denoting the result of applying a certain function
+to itself. According to him, the term in question is a meaningful
+denoting expression, but it fails to &ldquo;denote a
+proposition&rdquo; (Curry 1942a: 62). Yet the logical principles used
+in deriving the paradox are said to be principles that apply to
+propositions only.</p>
+
+<p>
+Curry&rsquo;s approach isn&rsquo;t available in response to the
+versions of the paradox considered in the main entry. That&rsquo;s
+because, as is now standard, expressions such as \(h \ \epsilon \ h\),
+\(c \in c\) and \(T\langle\xi\rangle\) are there treated as sentences,
+not as names denoting entities. Nonetheless, a counterpart of his
+approach holds that these sentences, while meaningful, fail to
+<em>express</em> propositions. Several remarks by Kripke (1975; esp.
+pp. 699&ndash;700) suggest that this is one way to understand his
+response to truth-theoretic paradox. For a more recent defense of this
+approach, which is one example of what
+ <a href="index.html#RespCurrPara">section 4</a>
+ calls a <em>topic-specific approach</em>, see Goldstein 2000.</p>
+
+<h3>Curry&rsquo;s Professed Debt to Carnap</h3>
+
+<p>
+Curry remarks that &ldquo;the central idea&rdquo; of his derivation of
+the paradox was &ldquo;suggested by some work of R. Carnap&rdquo;
+(Curry 1942b). He cites Carnap 1934, the relevant portion of which
+appears in translation as &sect;60a-d of the expanded English-language
+edition of Carnap&rsquo;s <em>Logical Syntax of Language</em> (1937).
+This remark is puzzling, since Carnap&rsquo;s discussion contains
+nothing resembling Curry&rsquo;s proof of his central result, namely
+the Lemma of which the Curry-Paradox Lemma of
+ <a href="index.html#CurrParaLemm">section 3.1</a>
+ is a variant. Carnap&rsquo;s discussion does focus on Russell&rsquo;s
+paradox of properties and Grelling&rsquo;s semantic paradox, the same
+two sources Curry draws on in order to obtain his paradoxical
+sentences (see
+ <a href="index.html#ConsCurrSent">section 2</a>).</p>
+ 
+<p>
+However, Curry also directs the reader to Hilbert &amp; Bernays 1939
+for a &ldquo;summary&rdquo; of the work of Carnap that inspired his
+central result. That reference suggests he may have had in mind the
+precursor of the generalized diagonal lemma cited by Carnap in
+&sect;60c of <em>Logical Syntax</em> (and presented in &sect;35).
+Carnap writes in &sect;60c:</p>
+
+<blockquote>
+
+<p>
+it is possible to construct, for any and every &hellip; property
+formulable in \(S\), a sentence of \(S\), \(\mathfrak{S_1}\), such
+that \(\mathfrak{S_1}\) attributes this property &hellip; to
+itself.</p>
+</blockquote>
+
+<p>
+If this is the claim Curry had in mind, the &ldquo;central idea&rdquo;
+would be the general applicability of G&ouml;del&rsquo;s fixed-point
+result to any definable property, rather than just the property of
+<em>not being provable</em>. This may have suggested to Curry the
+possibility of a paradox that involves implication rather than
+negation. (See entries on
+ <a href="../paradoxes-contemporary-logic/">paradoxes and contemporary logic</a>
+ and
+ <a href="../goedel-incompleteness/">G&ouml;del&rsquo;s incompleteness theorems</a>.)</p>
+ <script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2026</a> by
+
+<br />
+<a href="http://shapiro.philosophy.uconn.edu" target="other">Lionel Shapiro</a>
+&lt;<a href="m&#97;ilto:lionel&#37;2eshapiro&#37;40uconn&#37;2eedu"><em>lionel<abbr title=" dot ">&#46;</abbr>shapiro<abbr title=" at ">&#64;</abbr>uconn<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+<a href="http://entailments.net/" target="other">Jc Beall</a>
+&lt;<a href="m&#97;ilto:jbeall&#37;40nd&#37;2eedu"><em>jbeall<abbr title=" at ">&#64;</abbr>nd<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

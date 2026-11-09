@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Quantum Logic and Probability Theory &gt; The Basic Theory of Ordering Relations (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/qt-quantlog/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/qt-quantlog/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=qt-quantlog">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Quantum Logic and Probability Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>The Basic Theory of Ordering Relations</h2>
+
+<p>
+What follows is the briefest possible summary of the order-theoretic
+notions used in the main text. For a good introduction to this
+material, see Davey &amp; Priestley (1990). More advanced treatments
+can be found in Gr&auml;tzer (1998) and Birkhoff (1967).</p>
+<!--Entry Contents-->
+
+<ul>
+
+ <li><a href="#OrdeSets">1. Ordered Sets</a></li>
+ 
+ <li><a href="#Latt">2. Lattices</a></li>
+ 
+ <li><a href="#OrthL">3. Ortholattices</a></li>
+ 
+ <li><a href="#OrthM">4. Orthomodularity</a></li>
+ 
+ <li><a href="#ClosOperInteOperAdju">5. Closure Operators, Interior Operators and Adjunctions</a></li>
+ </ul>
+<!--Entry Contents-->
+
+<hr />
+
+<h3 id="OrdeSets">1. Ordered Sets</h3>
+
+<p>
+A <em>partial ordering</em>&mdash;henceforth, just an
+ordering&mdash;on a set \(P\) is a reflexive, anti-symmetric, and
+transitive binary relation \(\unlhd\) on \(P\). Thus, for all \(p, q,
+r \in P\), we have </p>
+
+<ol>
+
+<li>\(p \unlhd p\)</li>
+
+<li>\(p \unlhd q\) and \(q \unlhd p\) only if \(p = q\).</li>
+
+<li>if \(p \unlhd q\) and \(q \unlhd r\) then \(p \unlhd r\)</li>
+</ol>
+
+<p>
+If \(p \unlhd q\), we speak of \(p\) as being <em>less than</em>, or
+<em>below</em> \(q\), and of \(q\) as being <em>greater than</em>, or
+<em>above</em> \(p\), in the ordering.</p>
+
+<p>
+A <em>partially ordered set</em>, or <em>poset</em>, is a pair \((P,
+\unlhd)\) where \(P\) is a set and \(\unlhd\) is a specified ordering
+on \(P\). It is usual to let \(P\) denote both the set and the
+structure, leaving \(\unlhd\) tacit wherever possible. Any collection
+of subsets of some fixed set \(X\), ordered by set-inclusion, is a
+poset; in particular, the full power set \(\wp(X)\) is a poset under
+set inclusion.</p>
+
+<p>
+Let \(P\) be a poset. The <em>meet</em>, or <em>greatest lower
+bound</em>, of \(p, q \in P\), denoted by \(p\wedge q\), is the
+greatest element of \(P\)&mdash;if there is one&mdash;lying below both
+\(p\) and \(q\). The <em>join</em>, or <em>least upper bound</em>, of
+\(p\) and \(q\), denoted by \(p\vee q\), is the least element of
+\(P\)&mdash;if there is one&mdash;lying above both \(p\) and \(q\).
+Thus, for any elements \(p, q, r\) of \(P\), we have</p>
+
+<ol type="a">
+
+<li>if \(r \unlhd p\wedge q\), then \(r \unlhd p\) and \(r \unlhd
+q\)</li>
+
+<li>if \(p\vee q \unlhd r\), then \(p \unlhd r\) and \(q \unlhd
+r\)</li>
+</ol>
+
+<p>
+Note that \(p\wedge p = p\vee p = p\) for all \(p\) in \(P\). Note
+also that \(p \unlhd q\) iff \(p\wedge q = p\) iff \(p\vee q =
+q\).</p>
+
+<p>
+Note that if the set \(P = \wp(X)\), ordered by set-inclusion, then
+\(p\wedge q = p\cap q\) and \(p\vee q = p\cup q\). However, if \(P\)
+is an arbitrary collection of subsets of \(X\) ordered by inclusion,
+this need not be true. For instance, consider the collection \(P\) of
+all subsets of \(X = \{1,2,\ldots ,n\}\) having even cardinality.
+Then, for instance, \(\{1,2\}\vee \{2,3\}\) does not exist in \(P\),
+since there is no <em>smallest</em> set of 4 elements of \(X\)
+containing \(\{1,2,3\}\). For a different sort of example, let \(X\)
+be a vector space and let \(P\) be the set of <em>subspaces</em> of
+\(X\). For subspaces \(\mathbf{M}\) and \(\mathbf{N}\), we have</p>
+
+\[\mathbf{M}\wedge \mathbf{N} = \mathbf{M}\cap \mathbf{N}, \textrm{
+but } \mathbf{M}\vee \mathbf{N} = \textrm{span} (\mathbf{M}\cup
+\mathbf{N}).\]
+
+<p>
+The concepts of meet and join extend to infinite subsets of a poset
+\(P\). Thus, if \(A\subseteq P\), the meet of \(A\) is the largest
+element (if any) below \(A\), while the join of \(A\) is the least
+element (if any) above \(A\). We denote the meet of \(A\) by
+\(\wedge\, A\) or by \(\wedge_{a\in A}\, a\). Similarly, the join of
+\(A\) is denoted by \(\vee\, A\) or by \(\vee_{a\in A}\, a\).</p>
+
+<h3 id="Latt">2. Lattices</h3>
+
+<p>
+A <em>lattice</em> is a poset \((L, \unlhd)\) in which every pair of
+elements has both a meet and a join. A <em>complete lattice</em> is
+one in which <em>every</em> subset of \(L\) has a meet and a join.
+Note that \(\wp(X)\) is a complete lattice with respect to set
+inclusion, as is the set of all subspaces of a vector space. The set
+of finite subsets of an infinite set \(X\) is a lattice, but not a
+complete lattice. The set of subsets of a finite set having an even
+number of elements is an example of a poset that is not a lattice.</p>
+
+<p>
+A lattice \((L, \unlhd)\) is <em>distributive</em> iff meets
+distribute over joins and vice versa: </p>
+
+\[p \wedge (q\vee r) = (p\wedge q) \vee (p\wedge r),\]
+
+<p> and </p>
+
+\[p \vee (q\wedge r) = (p\vee q) \wedge (p\vee r)\]
+
+
+<p>
+The power set lattice \(\wp(X)\), for instance, is distributive (as is
+any lattice of sets in which meet and join are given by set-theoretic
+intersection and union). On the other hand, the lattice of subspaces
+of a vector space is not distributive, for reasons that will become
+clear in a moment.</p>
+
+<p>
+A lattice \(L\) is said to be bounded iff it contains a smallest
+element 0 and a largest element 1. Note that any complete lattice is
+automatically bounded. For the balance of this appendix, <em>all
+lattices are assumed to be bounded</em>, absent any indication to the
+contrary.</p>
+
+<p>
+A <em>complement</em> for an element \(p\) of a (bounded) lattice
+\(L\) is another element \(q\) such that \(p \wedge q = 0\) and \(p
+\vee q = 1\).</p>
+
+<p>
+In the lattice \(\wp(X)\), every element has exactly one complement,
+namely, its usual set-theoretic complement. On the other hand, in the
+lattice of subspaces of a vector space, an element will typically have
+infinitely many complements. For instance, if \(L\) is the lattice of
+subspaces of 3-dimensional Euclidean space, then a complement for a
+given plane through the origin is provided by any line through the
+origin not lying in that plane.</p>
+
+<div class="indent">
+
+<p>
+<strong>Proposition</strong>:
+<br />
+If \(L\) is distributive, an element of \(L\) can have at most one
+complement.</p>
+
+<p>
+<strong>Proof</strong>:
+<br />
+Suppose that \(q\) and \(r\) both serve as complements for \(p\).
+Then, since \(L\) is distributive, we have </p>
+
+\[
+\begin{align}
+q &amp; = q \wedge 1 \\
+&amp; = q \wedge (p \vee r)\\
+  &amp; = (q\wedge p) \vee (q\wedge r)\\
+  &amp; = 0 \vee (q\wedge r)\\
+  &amp; = q\wedge r\\
+\end{align}
+\]
+
+<p>
+ Hence, \(q
+\unlhd r\). Symmetrically, we have \(r \unlhd q\); thus, \(q =
+r\).</p>
+</div>
+
+<p>
+Thus, no lattice in which elements have multiple complements is
+distributive. In particular, the subspace lattice of a vector space
+(of dimension greater than 1) is not distributive.</p>
+
+<p>
+If a lattice \(is\) distributive, it may be that some of its elements
+have a complement, while others lack a complement. A distributive
+lattice in which every element has a complement is called a
+<em>Boolean lattice</em> or a <em>Boolean algebra.</em> The basic
+example, of course, is the power set \(\wp(X)\) of a set \(X\). More
+generally, any collection of subsets of \(X\) closed under unions,
+intersections and complements is a Boolean algebra; a theorem of Stone
+and Birkhoff tells us that, up to isomorphism, every Boolean algebra
+arises in this way.</p>
+
+<h3 id="OrthL">3. Ortholattices</h3>
+
+<p>
+In some non-uniquely complemented (hence, non-distributive) lattices,
+it is possible to pick out, for each element \(p\), a preferred
+complement \(p'\) in such a way that</p>
+
+<ol type="a">
+
+<li>if \(p \unlhd q\) then \(q' \unlhd p'\)</li>
+
+<li>\(p'' = p\)</li>
+</ol>
+
+<p>
+When these conditions are satisfied, one calls the mapping
+\(p\rightarrow p'\) an <em>orthocomplementation</em> on \(L\), and the
+structure \((L, \unlhd ,')\) an <em>orthocomplemented lattice</em>, or
+an <em>ortholattice</em> for short.</p>
+
+<p>
+Note again that if a distributive lattice can be orthocomplemented at
+all, it is a Boolean algebra, and hence can be orthocomplemented in
+only one way. In the case of \(L(\mathbf{H})\) the
+orthocomplementation one has in mind is \(\mathbf{M} \rightarrow
+\mathbf{M}^{\bot}\) where \(\mathbf{M}^{\bot}\) is defined as in
+ <a href="index.html#QuanMechProbCalc">Section 1 of the main text</a>.
+ More generally, if \(\mathbf{V}\) is any inner product space
+(complete or not), let \(L(\mathbf{V})\) denote the set of subspaces
+\(\mathbf{M}\) of \(\mathbf{V}\) such that \(\mathbf{M} =
+\mathbf{M}^{\bot \bot}\) (such a subspace is said to be algebraically
+closed). This again is a complete lattice, orthocomplemented by the
+mapping \(\mathbf{M} \rightarrow \mathbf{M}^{\bot}\).</p>
+
+<h3 id="OrthM">4. Orthomodularity</h3>
+
+<p>
+There is a striking order-theoretic characterization of the lattice of
+closed subspaces of a Hilbert space among lattices \(L(\mathbf{V})\)
+of closed subspaces of more general inner product spaces. An
+ortholattice \(L\) is said to be orthomodular iff, for any pair \(p,
+q\) in \(L\) with \(p \unlhd q\), </p>
+
+\[
+\tag{OMI}  (q\wedge p')\vee p = q.
+\]
+
+<p>
+Note that this is a weakening of the distributive law. Hence, a
+Boolean lattice is orthomodular. It is not difficult to show that if
+\(\mathbf{H}\) is a Hilbert space, then \(L(\mathbf{H})\) is
+orthomodular. The striking converse of this fact is due to Amemiya and
+Araki (1966):</p>
+
+<div class="indent">
+
+<p>
+<strong>Theorem</strong>:
+<br />
+Let \(\mathbf{V}\) be an inner product space (over \(\mathbf{R},
+\mathbf{C}\) or the quaternions) such that \(L(\mathbf{V})\) is
+orthomodular. Then \(\mathbf{V}\) is complete, i.e., a Hilbert space.
+</p>
+</div>
+
+<h3 id="ClosOperInteOperAdju">5. Closure Operators, Interior Operators and Adjunctions</h3>
+
+<p>
+Let \(P\) and \(Q\) be posets. A mapping \(f : P \rightarrow Q\) is
+<em>order preserving</em> iff for all \(p,q \in P\), if \(p \unlhd q\)
+then \(f(p) \unlhd f(q)\).</p>
+
+<p>
+A <em>closure</em> <em>operator</em> on a poset \(P\) is an
+order-preserving map \(\mathbf{cl} : P \rightarrow P\) such that for
+all \(p \in P\),</p>
+
+<ul>
+
+<li>\(\mathbf{cl}(\mathbf{cl}(p)) = \mathbf{cl}(p)\)</li>
+
+<li>\(p \unlhd \mathbf{cl}(p)\).</li>
+</ul>
+
+<p>
+Dually, an <em>interior operator</em> on \(P\) is an order-preserving
+mapping \(\mathbf{int} : P \rightarrow P\) on \(P\) such that for all
+\(p \in P\),</p>
+
+<ul>
+
+<li>\(\mathbf{int}(\mathbf{int}(p)) = \mathbf{int}(p)\)</li>
+
+<li>\(\mathbf{int}(p) \unlhd p\)</li>
+</ul>
+
+<p>
+Elements in the range of \(\mathbf{cl}\) are said to be
+<em>closed</em>; those in the range of \(\mathbf{int}\) are said to be
+<em>open</em>. If \(P\) is a (complete) lattice, then the set of
+closed, respectively open, subsets of \(P\) under a closure or
+interior mapping is again a (complete) lattice.</p>
+
+<p>
+By way of illustration, suppose that \(\mathcal{O}\) and
+\(\mathcal{C}\) are collections of subsets of a set \(X\) with
+\(\mathcal{O}\) closed under arbitrary unions and \(\mathcal{C}\)
+under arbitrary intersections. For any set \(A \subseteq X\), let</p>
+
+\[
+\begin{align}
+\mathbf{cl}(A) &amp; = \cap \{C\in \mathcal{C} \mid  A \subseteq C\}, \textrm{ and}\\
+\mathbf{int}(A) &amp;  = \cup \{O\in \mathcal{O} \mid  O \subseteq A\}
+\end{align}
+\]
+
+<p>
+Then \(\mathbf{cl}\) and \(\mathbf{int}\) are interior operators on
+\(\wp(X)\), for which the closed and open sets are precisely
+\(\mathcal{C}\) and \(\mathcal{O}\), respectively. The most familiar
+example, of course, is that in which \(\mathcal{O}, \mathcal{C}\) are
+the open and closed subsets, respectively, of a topological space.
+Another important special case is that in which \(\mathcal{C}\) is the
+set of linear subspaces of a vector space \(\mathbf{V}\); in this
+case, the mapping <em>span</em>&nbsp;:\( \wp(\mathbf{V}) \rightarrow
+\wp(\mathbf{V})\) sending each subset of \(\mathbf{V}\) to its span is
+a corresponding closure.</p>
+
+<p>
+An <em>adjunction</em> between two posets \(P\) and \(Q\) is an
+ordered pair \((f, g)\) of mappings \(f : P \rightarrow Q\) and \(g :
+Q \rightarrow P\) connected by the condition that, for all \(p \in P,
+q \in Q\) </p>
+
+\[
+f(p) \unlhd q \textrm{ if and only if } p \unlhd g(q).
+\]
+
+<p>
+ In this case, we call \(f\) a <em>left
+adjoint</em> for \(g\), and call \(g\) a <em>right adjoint</em> for
+\(f\). Two basic facts about adjunctions, both easily proved, are the
+following:</p>
+
+<div class="indent">
+
+<p>
+<strong>Proposition</strong>:
+<br />
+Let \(f : L \rightarrow M\) be an order-preserving map between
+complete lattices \(L\) and \(M\). Then</p>
+
+<ol type="a">
+
+<li>\(f\) preserves arbitrary joins if and only if it has a right
+adjoint.</li>
+
+<li>\(f\) preserves arbitrary meets if and only if it has a left
+adjoint.</li>
+</ol>
+</div>
+
+<div class="indent">
+
+<p>
+<strong>Proposition</strong>:
+<br />
+Let \((f, g)\) be an adjunction between complete lattices \(L\) and
+\(M\). Then</p>
+
+<ol type="a">
+
+<li>\(g \circ f : L \rightarrow L\) is a closure operator.</li>
+
+<li>\(f \circ g : M \rightarrow M\) is an interior operator.</li>
+</ol>
+</div>
+
+<p>
+
+ <a href="index.html#return-2">Return to Quantum Logic and Quantum Probability</a>
+ </p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="https://www.susqu.edu/profiles/wilce/" target="other">Alexander Wilce</a>
+&lt;<a href="m&#97;ilto:wilce&#37;40susqu&#37;2eedu"><em>wilce<abbr title=" at ">&#64;</abbr>susqu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Bounded Rationality &gt; The Bias-Variance Decomposition of Mean Squared Error (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/bounded-rationality/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/bounded-rationality/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bounded-rationality">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Bounded Rationality</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>The Bias-Variance Decomposition of Mean Squared Error</h2>
+
+<p>
+Trading off bias and variance to improve predictive accuracy is a
+common practice in statistics and machine learning. The trade-off is
+typically introduced through the decomposition of mean squared error
+(MSE) in ordinary least squares regression. This section provides a
+stand-alone derivation of MSE in terms of bias and variance, starting
+with an example prediction task.</p>
+
+<p>
+Predicting the exact volume of gelato to be consumed in Rome next
+summer is more difficult than predicting that more gelato will be
+consumed next summer than next winter. Although higher temperatures
+lead to higher demand for gelato, the precise relationship between
+daily temperatures in Rome and gelato consumption is uncertain.
+Modeling quantitative, predictive relationships between random
+variables like the temperature in Rome, <em>X</em>, and volume of
+gelato consumption, <em>Y</em>, is the subject of <em>regression
+analysis</em>.</p>
+
+<p>
+Suppose we predict that the value of <em>Y</em> is <em>h</em>. How
+should we evaluate whether this prediction is accurate? Intuitively,
+the best prediction minimizes the difference \(Y - h\). If we are
+indifferent to the direction of our errors, then measuring the
+performance by squared difference from <em>Y</em>, \((Y - h)^2\) is
+common. Since the values of <em>Y</em> varies, we consider the average
+value of \((Y - h)^2\) by computing its expectation, \(\mathbb{E}
+\left[ (Y - h)^2 \right]\). This quantity is the <em>mean squared
+error</em> of <em>h</em>,</p>
+
+<p>
+
+\[\textrm{MSE}(h) := \mathbb{E} \left[ (Y - h)^2 \right].\]
+</p>
+
+<p>
+Now imagine our prediction of <em>Y</em> is based on some data
+\(\mathcal{D}\) about the relationship between <em>X</em> and
+<em>Y</em>, such as last year&rsquo;s daily temperatures and gelato
+sales in Rome. The specific dataset \(\mathcal{D}\) will become
+important later. For now, view our prediction of <em>Y</em> as a
+function of <em>X</em>, written \(h(X)\). We aim to minimize
+\(\mathbb{E} \left[ (Y - h(X))^2 \right]\), where the accuracy of
+\(h(\cdot)\) depends on the possible values of <em>X</em>, represented
+by the conditional expectation</p>
+
+<p>
+
+\[\mathbb{E} \left[ (Y - h(X))^2 \right] := \mathbb{E} \left[ \mathbb{E} \left[ Y - h(X) \mid X\right] \right].\]
+</p>
+
+<p>
+To evaluate this conditional prediction, we use the same method as
+before, now accounting for <em>X</em>. For each possible value
+<em>x</em> of <em>X</em>, the best prediction of <em>Y</em> is the
+conditional mean, \(\mathbb{E}\left[ Y \mid X = x\right]\). The
+<em>regression function</em> of <em>Y</em> on <em>X</em>, \(r(x)\),
+gives the optimal value of <em>Y</em> for each value \(x \in X\):</p>
+
+<p>
+
+\[r(x) := \mathbb{E}\left[ Y \mid X = x\right].\]
+</p>
+
+<p>
+Although the regression function represents the true population value
+of <em>Y</em> given <em>X</em>, this function is usually unknown and
+often complex, leading to its approximation by a simplified model or
+learning or learning algorithm, \(h(\cdot)\).</p>
+
+<p>
+We might restrict candidates for \(h(X)\) to linear (or affine)
+functions of <em>X</em>. Making predictions about <em>Y</em> with a
+simplified model can introduce a systematic prediction error called
+<em>bias</em>. Bias results from the difference between the central
+tendency of data generated by the true model, \(r(X)\) (for all \(x
+\in X\)), and the central tendency of our estimator,
+\(\mathbb{E}\left[h(X)\right]\), written</p>
+
+<p>
+
+\[\textrm{Bias}(h(X)) := r(X) - \mathbb{E}\left[h(X) \right],\]
+</p>
+
+<p>
+where any non-zero difference between the pair is interpreted as a
+systematically positive or systematically negative error of the
+estimator, \(h(X)\).</p>
+
+<p>
+<em>Variance</em> measures the average deviation of a random variable
+from its expected value. In this context, we compare the predicted
+value \(h(X)\) of <em>Y</em> based data \(\mathcal{D}\) about the
+relationship between <em>X</em> and <em>Y</em> to the average value of
+\(h(X)\), \(\mathbb{E}\left[ h(X) \right]\). We express this variance
+as:</p>
+
+<p>
+
+\[\textrm{Var}(h(X)) = \mathbb{E}\left[( \mathbb{E}\left[ h(X) \right] - h(X))^2\right].\]
+</p>
+
+<p>
+The bias-variance decomposition of mean squared error is fundamental
+in frequentist statistics, where the goal is to compute an estimate
+\(h(X)\) of the "true parameter" \(r(X)\) using data \(\mathcal{D}\) .
+Here \(r(X)\) is assumed to be fixed and the data \(\mathcal{D}\) is
+treated as a random quantity, exactly the reverse of Bayesian
+statistics. What this means is that the data set \(\mathcal{D}\) is
+interpreted to be one among many possible data sets of the same
+dimension generated by the true data generating process, \(r(X)\).</p>
+
+<p>
+Following Christopher M. Bishop (2006), the bias-variance
+decomposition of MSE can be derived as follows. Let <em>h</em> refer
+to our estimate \(h(X)\) of <em>Y</em>, <em>r</em> refer to the true
+value of <em>Y</em>, and \(\mathbb{E}\left[ h \right]\) the expected
+value of the estimate <em>h</em>. Then,</p>
+
+<p>
+
+\[\begin{align}
+&amp;\textrm{MSE}(h) \\
+ &amp;\quad = \mathbb{E}\left[ ( r -h)^2 \right] \\
+ &amp;\quad = \mathbb{E}\left[ \left( \left( r - \mathbb{E}\left[ h \right] \right) + \left( \mathbb{E}\left[ h \right] - h \right) \right )^2 \right] \\
+ &amp;\quad = \mathbb{E}\left[ \left( r - \mathbb{E}\left[ h \right] \right)^2 \right] + \mathbb{E}\left(\left( \mathbb{E}\left[ h \right] - h \right )^2\right) + 2 \mathbb{E}\left[ \left( \mathbb{E}\left[ h \right] - h \right) \cdot \left( r - \mathbb{E}\left[ h \right] \right) \right] \\
+ &amp;\quad = \left( r - \mathbb{E}\left[h \right] \right)^2 + \mathbb{E}\left[ \left( \mathbb{E}\left[h \right] - h \right)^2\right] + 0\\
+ &amp;\quad = \textrm{Bias}(h)^2 \ + \ \textrm{Var}(h) 
+\end{align}\]
+</p>
+
+<p>
+where the term \(2 \mathbb{E}\left[ \left( \mathbb{E}\left[ h \right]
+- h \right) \cdot \left( r - \mathbb{E}\left[ h \right] \right)
+\right]\) is zero, since</p>
+
+<p>
+
+\[\begin{align}
+&amp;\mathbb{E}\left[ \left( \mathbb{E}\left[ h \right] - h \right) \cdot \left( r - \mathbb{E}\left[ h \right] \right) \right] \notag\\
+ &amp;\qquad = \left(\mathbb{E} \left[ r \cdot \mathbb{E} \left[ h \right] \right] - \mathbb{E}\left[ \mathbb{E}\left[ h \right]^2 \right] - \mathbb{E}\left[ h \cdot r \right] + \mathbb{E}\left[ h\cdot \mathbb{E}\left[ h \right] \right] \right) \nonumber \tag{1}\\
+ &amp;\qquad = r \cdot \mathbb{E} \left[ h \right] - \mathbb{E}\left[ h \right]^2 - r \cdot \mathbb{E} \left[ h \right] + \mathbb{E}\left[ h \right]^2 \label{eq:owl}\tag{2}\\
+ &amp;\qquad = 0. \tag{3} 
+\end{align}\]
+</p>
+
+<p>
+Note that the frequentist assumption that <em>r</em> is a
+deterministic process is necessary for the derivation to go through;
+for if <em>r</em> were a random quantity, the reduction of
+\(\mathbb{E} \left[ r \cdot \mathbb{E} \left[ h \right] \right]\) to
+\( r \cdot \mathbb{E} \left[ h \right]\) in line (2) would be
+invalid.</p>
+
+<p>
+Finally, the prediction error of \(h(X)\) due to noise, <em>N</em>,
+which occurs independent of the model or learning algorithm, adds
+irreducible error. Thus, the full bias-variance decomposition of the
+mean-squared error is:</p>
+
+<div id="eq-puppy">
+
+\[\tag{4}\label{eq-puppy} \textrm{MSE}(h)\ = \ \textrm{Bias}(h)^2 \ + \ \textrm{Var}(h) \ + \ N\]
+
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="http://gregorywheeler.org" target="other">Gregory Wheeler</a>
+&lt;<a href="m&#97;ilto:g&#37;2ewheeler&#37;40fs&#37;2ede"><em>g<abbr title=" dot ">&#46;</abbr>wheeler<abbr title=" at ">&#64;</abbr>fs<abbr title=" dot ">&#46;</abbr>de</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Proof Theory &gt; A. Formal Axiomatics: Its Evolution and Incompleteness (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/proof-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/proof-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Proof Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>A. Formal Axiomatics: Its Evolution and Incompleteness</h2>
+
+<p>
+In this somewhat extended appendix, we are going to discuss the
+evolution of the formal axiomatic standpoint in Hilbert&rsquo;s
+foundational thinking. To begin with we articulate in greater detail
+than we did in
+ <a href="index.html#ProoTheoNewSubj">section 1</a>
+ of the main article Dedekind&rsquo;s way of defining abstract
+concepts, like that of a simply infinite system. Dedekind had
+seen very clearly that such a structural definition raises a
+fundamental issue: How can we ensure that such a definition does not
+contain internal contradictions?</p>
+<!--Entry Contents-->
+
+<ul>
+
+ <li><a href="#StruDefi">A.1 Structural definitions</a></li>
+ 
+ <li><a href="#ConsNoInteCont">A.2 Consistency: no internal contradictions</a></li>
+ 
+ <li><a href="#FormProo">A.3 Formal proofs</a></li>
+ 
+ <li><a href="#GdelIncoResu">A.4 G&ouml;del&rsquo;s incompleteness results</a></li>
+ </ul>
+<!--Entry Contents-->
+
+<hr/>
+
+<h3 id="StruDefi">A.1 Structural definitions</h3>
+
+<p>
+In the three volumes of Dedekind&rsquo;s <em>Gesammelte mathematische
+Werke</em>, there are exactly two occurrences of the word
+&ldquo;Axiom&rdquo;. The main substantive occurrence is found in
+section 3 of Dedekind 1872, where Dedekind refers to his principle of
+continuity as an <em>axiom</em>. The second occurrence, in the preface
+to the same essay, points to Cantor&rsquo;s 1872, where a corresponding
+principle is also called an axiom. To emphasize, the word
+&ldquo;Axiom&rdquo; is neither used in his work on algebraic number
+theory, nor in his second foundational essay on natural numbers
+(Dedekind 1888). And yet, Emmy Noether is right when she asserts in
+her brief remark on <em>Stetigkeit und irrationale Zahlen</em> that
+Dedekind&rsquo;s axiomatic standpoint is articulated very clearly in
+this essay and in his letters to Lipschitz from June and July 1876
+that comment on the essay (her remarks can be found in Dedekind 1932:
+334). In his letter of July 1876, Dedekind makes a striking remark
+concerning Euclid&rsquo;s Elements and continuity:</p>
+
+<blockquote>
+
+<p>
+Let&rsquo;s analyze all the assumptions, that have been made
+explicitly or tacitly, on which the entire edifice of Euclid&rsquo;s
+geometry is built, let&rsquo;s admit the truth of all his theorems as
+well as the feasibility of all his constructions &hellip;: as far as I
+have investigated matters, one never reaches in this way the
+continuity of space as a condition that is inseparably connected with
+Euclid&rsquo;s geometry; his whole system remains valid even without
+continuity&mdash;a result that is certainly surprising for many and
+thus seemed to me to be worth mentioning. (Dedekind 1932: 479)</p>
+</blockquote>
+
+<p>
+Where we indicated the ellipsis, Dedekind inserted a remarkable
+statement, in parentheses, that pertains to his theory of real
+numbers:</p>
+
+<blockquote>
+
+<p>
+(an absolutely reliable method of such an analysis consists for me in
+the replacement of all <em>Kunstausdr&uuml;cke</em> [technical terms
+or terms of art] by arbitrary newly invented (up to now meaningless
+words): the edifice, if properly constructed, must not collapse, and I
+claim for example that my theory of real numbers passes this
+test).</p>
+</blockquote>
+
+<p>
+What is Dedekind&rsquo;s <em>theory</em> of real numbers?&mdash;It is
+best understood as the theory of <em>complete</em> (or continuous)
+<em>ordered</em> fields. The notion of a <em>field</em>, prominent in
+Dedekind&rsquo;s work on algebraic number theory, was introduced in a
+supplement to Lejeune Dirichlet et al. 1871.
+It is highlighted in the 1872
+essay already in section 1, entitled &ldquo;Properties of rational
+numbers&rdquo;. The system \(\rR\) of rational numbers is said to
+have, with respect to the four fundamental operations (addition,
+subtraction, multiplication and division), that &ldquo;completeness
+and closure&rdquo; which he designated in the Supplement as the
+<em>characteristic property</em> (<em>Merkmal</em>) of a number field.
+In this very section, Dedekind also introduces the usual ordering
+between rational numbers that is compatible with the algebraic
+operations. Dedekind&rsquo;s treatment foreshadows that of simply
+infinite systems in the later and methodologically sophisticated essay
+<em>Was sind und was sollen die Zahlen?</em> (1888). There, any system
+<b>N</b> of &ldquo;things&rdquo; is simply infinite just in case there
+is an element 1 in <b>N</b> and a mapping \(\varphi\) of <b>N</b>,
+such that </p>
+
+<ol>
+
+<li> \(\varphi[{\bN}]\) is a subset of <b>N</b>, </li>
+
+<li> <b>N</b> is the chain of the system \(\{1\}\), </li>
+
+<li> 1 is not an element of \(\varphi[{\bN}]\), and </li>
+
+<li> the mapping \(\varphi\) is
+ injective.<sup>[<a href="notes.html#note-35" id="ref-35">35</a>]</sup></li>
+ </ol>
+
+<p>
+Using this approach, any system <b>R</b> of things is a <em>complete
+ordered field</em> just in case there is an ordering <b>O</b> and
+there are four operations on <b>R</b>, such that (1) <b>R</b> with
+<b>O</b> is a continuous ordered system (in Dedekind&rsquo;s sense)
+and (2) <b>R</b> with the four operations is a field (and the
+operations are compatible with the ordering). Dedekind&rsquo;s theory
+of real numbers is thus given as a &ldquo;structural
+definition&rdquo;.</p>
+
+<p>
+Hilbert&rsquo;s theory of real numbers is formulated in Hilbert
+1900a
+also as a structural definition. It is assumed that a system exists
+whose elements satisfy the conditions Hilbert calls <em>axioms</em>.
+Hilbert points out the parallelism with the method of geometry.</p>
+
+<blockquote>
+<p>
+Here [in geometry] one begins customarily by assuming the existence of
+all the elements, i.e., one postulates at the outset three systems of
+things (namely, the points, lines, and planes), and
+then&mdash;essentially after the model of Euclid&mdash;brings these
+elements into relationship with one another by means of certain axioms
+of linking, order, congruence, and continuity. (Hilbert 1900a:
+1092)</p>
+</blockquote>
+
+<p>
+These geometric ways are taken over for arithmetic when Hilbert
+introduces a system of real numbers as follows:</p>
+
+<blockquote>
+<p>
+We think a system of things, and we call them numbers and denote them
+by <i>a</i>, <i>b</i>, <i>c</i>&hellip;. We think these numbers in
+certain mutual relations, whose precise and complete description is
+obtained through the following axioms. (Hilbert 1900a: 1092)</p>
+</blockquote>
+
+<p>
+Then the axioms for an ordered field are formulated and
+&ldquo;completed&rdquo; by the requirement of continuity via the
+Archimedean axiom and the axiom of completeness. This formulation is
+in the spirit of Hilbert&rsquo;s geometric ways, but how is it
+connected to Dedekind&rsquo;s way?</p>
+
+<p>
+The connection is illuminated through the correspondence with Frege in
+late 1899 when Hilbert responds to Frege&rsquo;s complaint about his
+use of the word &ldquo;axiom&rdquo;; he points out that the
+<em>Erkl&auml;rung</em> of the concept &ldquo;between&rdquo; provides
+a proper definition, as its characteristic conditions
+(<em>Merkmale</em>) are given by the five axioms II 1 through II 5
+that involve &ldquo;between&rdquo;. He writes, if one wanted to take
+&ldquo;definition&rdquo; in exactly the traditional sense, then one
+would have to say:</p>
+
+<blockquote>
+<p>
+&ldquo;Between&rdquo; is a relation for the points of a line that
+satisfies the following characteristic conditions: II 1 &hellip; II 5.
+(Gabriel et al. 1980: 11)</p>
+</blockquote>
+
+<p>
+He emphasizes that he has absolutely no objection, if Frege called his
+axioms simply characteristic conditions. He asserts most clearly:</p>
+
+<blockquote>
+<p>
+The renaming of &ldquo;axioms&rdquo; as &ldquo;characteristic
+conditions&rdquo; etc. is a pure formality and, in addition, a matter
+of taste&mdash;in any event, it is easily accomplished. (Gabriel et al. 1980: 12)</p>
+</blockquote>
+
+<p>
+Let us see briefly how this perspective allows us to understand
+properly the completeness axiom that is frequently criticized as being
+metamathematical and, to boot, a statement of a peculiar
+ sort.<sup>[<a href="notes.html#note-36" id="ref-36">36</a>]</sup></p>
+ 
+<p>
+The completeness axiom requires in both the geometric and arithmetic
+case that the assumed structure is maximal, i.e., any extension
+satisfying the remaining axioms must already be contained in it. In
+the case of the arithmetic of real numbers, we can proceed as follows:
+Call a field <em>continuous</em> when it satisfies the axioms of an
+ordered field and the Archimedean axiom; a system <span class="sansserif">A</span>
+is called <em>fully continuous</em> or
+<em>complete</em> if and only if <span class="sansserif">A</span> is
+continuous and for any system <span class="sansserif">B</span>, if
+<span class="sansserif">A</span> is a subfield of <span class="sansserif">B</span>
+and <span class="sansserif">B</span> is
+continuous, then <span class="sansserif">B</span> is a subfield of
+<span class="sansserif">A</span>. Hilbert&rsquo;s arithmetic axioms
+are equivalent to Dedekind&rsquo;s characteristic conditions for a
+complete ordered field and characterize the fully continuous systems
+up to isomorphism.</p>
+
+<h3 id="ConsNoInteCont">A.2 Consistency: no internal contradictions</h3> <!-- subsection1.2 -->
+
+<p>
+In the 1920s, Hilbert and Bernays called this way of proceeding,
+because it assumes the existence of a suitable system, <em>existential
+axiomatics</em>. Hilbert&rsquo;s view of axioms as characterizing a
+system of things is complemented by the traditional one, namely, that
+the axioms must allow to establish, purely logically, all geometric
+facts and laws. It is reflected for arithmetic in the Paris lecture,
+where he states that the totality of real numbers is</p>
+
+<blockquote>
+<p>
+&hellip; a system of things whose mutual relations are governed by the
+axioms set up and for which all propositions, and only those, are true
+which can be derived from the axioms by a finite number of logical
+inferences. (Hilbert 1900a: 1092)</p>
+</blockquote>
+
+<p>
+It is Hilbert&rsquo;s firm view that &ldquo;the concept of the
+continuum is strictly logically tenable in this sense only&rdquo; and
+that the axiomatic method has to confront two fundamental problems,
+formulated in 1900 at first
+for geometry and then for arithmetic:</p>
+
+<blockquote>
+<p>
+The necessary task then arises of showing the consistency and the
+completeness of these axioms, i.e., it must be proved that the
+application of the given axioms can never lead to contradictions, and,
+further, that the system of axioms suffices to prove all geometric
+propositions. (Hilbert 1900a: 1092&ndash;1093)</p>
+</blockquote>
+
+<p>
+It is not clear, whether completeness requires the proof of
+<em>all</em> true geometric, or arithmetic, statements or of just
+those that are part of the established corpus; the latter would be a
+<em>quasi-empirical</em> notion of completeness. Turning to the
+central topic of consistency, we observe that the notion was viewed as
+a &ldquo;semantic&rdquo; one not only by Dedekind, but also by
+logicians in the nineteenth century more generally. In the essay
+(1888) and his letter to Keferstein (1890), Dedekind sharply expresses
+a crucial requirement for a structural definition; namely, one has to
+logically prove the existence of a system of things falling under the
+notion in order to ensure that it does not contain &ldquo;internal
+contradictions&rdquo;. The considerations in 1872 that pertain to cuts
+of rational numbers establish that the system of cuts falls under the
+concept of a complete ordered field; in more modern terms, the system
+of cuts is a complete ordered field, as it <em>satisfies</em> the
+<em>Merkmale</em> of the notion. If one views these <em>Merkmale</em>
+as axioms formulated in an appropriate language, then the system of
+cuts provides a <em>model</em> of these axioms.</p>
+
+<p>
+This is a pre-Tarskian notion of semantics introduced in Hilbert
+1917/18, but rooted&mdash;via the indicated connection to satisfying
+the conditions of a structural definition&mdash;in the mathematical
+practice of the late nineteenth century. It is used in Hilbert &amp;
+Ackermann 1928 and also in G&ouml;del&rsquo;s dissertation (1929) that
+is following, as G&ouml;del himself emphasizes, Hilbert and
+Ackermann&rsquo;s terminology. Of course, in G&ouml;del&rsquo;s thesis
+this is done only for the language of first-order logic or the
+&ldquo;restricted function calculus&rdquo;. The formulae of the
+latter, <em>logische Ausdr&uuml;cke</em>, are built up from individual
+variables \((x_1, x_2, \ldots)\), function variables \((F_1, F_2,
+\ldots)\), and statement variables \((X_1, X_2,\ldots)\). Meaning is
+given to these complexes of symbols in the following way:</p>
+
+<blockquote>
+
+<p>
+Let <i>A</i> be any logical expression that contains the function
+variables \(F_1\), \(F_2\),&hellip;, \(F_k\), the free individual
+variables \(x_1\), \(x_2\),&hellip;, \(x_l\) and the statement
+variables \(X_1\), \(X_2\),&hellip;, \(X_m\) and otherwise only bound
+variables. Let \(f_1\), \(f_2\),&hellip;, \(f_k\) be functions (all
+defined in the same domain of thought), \(a_1\), \(a_2\),&hellip;,
+\(a_l\) individuals (belonging also to the same domain of thought),
+and \(A_1\), \(A_2\),&hellip;, \(A_m\) statements; of this system </p>
+
+\[S = (f_1, f_2, \ldots, f_k; a_1, a_2,\ldots, a_l; A_1, A_2, \ldots, A_m)\]
+
+<p>
+we say that it <em>satisfies</em> the logical expression, if it
+yields, when placed into it [the expression], a true proposition
+([true] in the domain of thought under consideration). (G&ouml;del
+1929 [1986:
+ 66&ndash;68])<sup>[<a href="notes.html#note-37" id="ref-37">37</a>]</sup></p>
+ </blockquote>
+
+<p>
+There is no further explication of &ldquo;true proposition&rdquo;. Let
+us note that G&ouml;del later discusses a language expanded by
+individual constants (names) and function constants (relation
+symbols). He distinguishes <em>logische Ausdr&uuml;cke</em> from
+<em>Z&auml;hlausdr&uuml;cke</em>: the latter contain neither function
+nor statement variables and all individual variables are bound.
+<em>Z&auml;hlaxiomensysteme</em> are defined as consisting only of
+<em>Z&auml;hlausdr&uuml;cke</em>. As an example of such an axiom
+system he mentions in note 10 Hilbert&rsquo;s system for geometry
+without the continuity axioms, i.e., the Archimedean principle and the
+completeness axiom. For the metamathematical investigation the axioms
+&ldquo;with a fixed interpretation&rdquo; are replaced by
+corresponding logical expressions: G&ouml;del solves the completeness
+problem for <em>Z&auml;hlaxiomensysteme</em> by reducing it by this
+technique to the solution for the corresponding axiom system. But let
+us return to Hilbert&rsquo;s earlier work.</p>
+
+<p>
+In 1899 and 1900a,b,
+Hilbert formulated a (quasi-) syntactic notion of consistency: no
+finite number of logical steps lead (from given axioms) to a
+contradiction. That does not mean, however, he sought to prove
+consistency by syntactic methods. The (relative) consistency proofs in
+1899 are all semantic. In 1900a, Hilbert expected to prove the consistency of arithmetic by
+&ldquo;a suitable modification of familiar methods of
+inference&rdquo;. In the Paris Lecture he suggests finding a
+<em>direct method</em> of proof; but he still thought that such a
+method would emerge from a suitable modification of known methods.
+Hilbert believed, it seems, that the genetic build-up of the real
+numbers could somehow be exploited to yield the blueprint for a
+consistency proof in Dedekind&rsquo;s logicist style. That impression
+is supported by his treatment of arithmetic in contemporaneous
+lectures, but also by a more programmatic statement from the
+<em>Introduction</em> to the notes for the lectures <em>Elemente der
+Euklidischen Geometrie</em> that were given in the winter term
+1898/99. He maintains there, </p>
+
+<blockquote>
+<p>
+It is important to fix precisely the starting-point of our
+investigations: as given we consider the laws of pure logic and in
+particular all of arithmetic. (Hilbert 1898/99: 303).</p>
+</blockquote>
+
+<p>
+Hilbert adds then parenthetically, &ldquo;On the relation between
+logic and arithmetic cf. Dedekind, <em>Was sind und was sollen die
+Zahlen?</em>&rdquo; and, for Dedekind, arithmetic is clearly part of
+logic.</p>
+
+<p>
+Hilbert changed his attitude only after the discovery of the
+elementary contradiction of Russell and
+ Zermelo.<sup>[<a href="notes.html#note-38" id="ref-38">38</a>]</sup>
+ That paradox convinced him that there was a deep problem, that
+difficulties appeared already at an earlier stage, and that the issue
+had to be addressed in a different way. In early 1904 Hilbert sent a
+letter to Adolf Hurwitz writing:</p>
+
+<blockquote>
+
+<p>
+It has been my view for a long time that exactly the most important
+and most interesting questions have not been settled by Dedekind and
+Cantor (and a fortiori not by Weierstrass and Kronecker). In order to
+be forced into the position to reflect on these matters
+systematically, I announced a seminar on the &ldquo;logical
+foundations of mathematical thought&rdquo; for next semester. (Dugac
+1976: 271)</p>
+</blockquote>
+
+<p>
+The notes from the following summer term contain complimentary remarks
+on Dedekind&rsquo;s achievements, but insist pointedly that basic
+difficulties remain.</p>
+
+<blockquote>
+<p>
+He [Dedekind] arrived at the view that the standpoint of considering
+the integers as obvious [<em>selbstverst&auml;ndlich</em>] cannot be
+sustained; he recognized that the difficulties Kronecker saw in the
+definition of irrationals arise already for integers; furthermore, if
+they are removed here, they disappear there. This work [<em>Was sind
+und was sollen die Zahlen?</em>] was epochal, but it did not yet
+provide something definitive, certain difficulties remain. These
+difficulties are connected, as for the definition of the irrationals,
+above all to the concept of the infinite; &hellip; (Hilbert 1904:
+166)</p>
+</blockquote>
+
+<p>
+This set the stage for Hilbert&rsquo;s Heidelberg talk in August of
+that year, 1904, in which he indicates a novel way of solving the
+consistency problem for arithmetic. The sense in which he takes
+arithmetic now is more restricted, namely, as dealing with just the
+natural numbers.</p>
+
+<h3 id="FormProo">A.3 Formal proofs</h3>
+
+<p>
+Hilbert&rsquo;s Heidelberg talk takes on the consistency problem with
+a striking syntactic approach. The goal is still securing the
+existence of a suitable model, that means here &ldquo;the consistent
+existence of the so-called smallest infinite&rdquo;. The system
+consists of axioms for identity and Dedekind&rsquo;s conditions for a
+<em>simply infinite system</em>; the induction principle is mentioned,
+but neither formulated nor treated in the consistency argument. In
+modern notation the axioms can be given in this way, where <i>W</i> is
+a &ldquo;formula&rdquo;:</p> 
+
+\[\begin{align}
+\tag{1} &amp;x  =x\\
+\tag{2} &amp;x =y \;  \land\; W(x) \rightarrow W(y)\\
+\tag{3} &amp;x' =y' \rightarrow x=y\\
+\tag{4} &amp;x' \ne 1\\
+\end{align}\]
+
+<p>
+The rules, implicit in Hilbert&rsquo;s description of
+&ldquo;consequence&rdquo;, are <em>modus ponens</em> and a
+substitution rule allowing the replacement of variables by arbitrary
+sign combinations. Other &ldquo;modes of logical inferences&rdquo; are
+alluded to but not stated, and they are consequently not incorporated
+into the consistency proof. The view that the problem for the real
+numbers is resolved once matters are settled for the natural numbers
+is strongly emphasized.</p>
+
+<p>
+For the consistency proof Hilbert calls an equation \(a=b\)
+<em>homogeneous</em> if <i>a</i> and <i>b</i> have the same number of
+symbol occurrences. It is easily seen, by induction on derivations,
+that all equations derivable from axioms (1)&ndash;(3) are
+homogeneous. A contradiction can be obtained only by establishing an
+unnegated instance of (4) from (1)&ndash;(3); such an instance is
+necessarily inhomogeneous and thus not provable. Hilbert comments:</p>
+
+<blockquote>
+
+<p>
+The considerations just sketched constitute the first case in which a
+direct proof of consistency has been successfully carried out for
+axioms, whereas the method of a suitable specialization, or of the
+construction of examples, which is otherwise customary for such
+proofs&mdash;in geometry in particular&mdash;necessarily fails here.
+(Hilbert 1905 [1967: 135])</p>
+</blockquote>
+
+<p>
+Hilbert stressed the programmatic goal of developing logic and
+mathematics simultaneously, but the actual work has real shortcomings:
+as to the logical work, there is no calculus for sentential logic and
+there is no proper treatment of quantification; as to the mathematical
+work, not even the induction principle is formulated. In sum, there is
+an important shift from &ldquo;semantic&rdquo; to
+&ldquo;syntactic&rdquo; arguments, but the formal set-up is woefully
+inadequate as a frame for mathematics.</p>
+
+<p>
+The foundational import of Hilbert&rsquo;s considerations was
+challenged by Poincar&eacute;, interpreting the results in a very
+generous way as including the treatment of induction. As the
+consistency proof proceeded by induction, Poincar&eacute; raised not
+only the question, how it could be viewed as justifying induction, but
+also brought out additional <em>methodological shortcomings</em>
+(Poincar&eacute; 1905 [1996:
+ 1026&ndash;7]).<sup>[<a href="notes.html#note-39" id="ref-39">39</a>]</sup>
+ His incisive analysis shifted Hilbert&rsquo;s attention not away from
+foundational concerns&mdash;they are documented by lectures given
+throughout the period from 1905 to 1921&mdash;but rather from the
+&ldquo;proof-theoretic&rdquo; approach advocated in the Heidelberg
+talk. Indeed, under the impact of a detailed study of <em>Principia
+Mathematica</em> beginning in 1913, Hilbert flirted again with
+ logicism.<sup>[<a href="notes.html#note-40" id="ref-40">40</a>]</sup>
+ What resulted from this study were the lectures <em>Prinzipien der
+Mathematik</em>. Hilbert gave them in the winter term of 1917/18 with
+the assistance of Paul Bernays; these lectures present modern
+mathematical logic and provide a comprehensive formalism for
+representing mathematical practice, in particular, for developing
+analysis in ramified type theory with the axiom of reducibility.</p>
+
+<p>
+The programmatic logicism in Hilbert&rsquo;s Z&uuml;rich talk and
+these lectures was abandoned in the following years. A radical
+constructivism for developing mathematics from the ground up replaced
+it, but was abandoned as well, because even basic logical laws were
+seen not to hold, e.g., the law of the excluded middle. The finitist
+consistency program, as we think of it, was only formulated towards
+the end of lectures given in the winter term 1921/22. The elementary
+character of the formalisms for mathematics allowed viewing the
+metamathematical studies as part of <em>constructive mathematics</em>.
+This new, still tentative perspective was connected to Hilbert&rsquo;s
+approach in his Heidelberg talk; indeed, that approach had been
+reviewed and modified in 1920/21. The broad considerations and
+preliminary results were presented in talks in Copenhagen and Hamburg
+given in the spring and summer of 1921. In his 1922 paper, based on
+these talks, Hilbert claimed that induction had been avoided by
+restructuring the consistency proof and that Poincar&eacute;&rsquo;s
+objection had consequently been met.</p>
+
+<p>
+In September of 1921, Bernays presented a paper at the meeting of the
+German Association of Mathematicians (DMV) in Jena. The paper was
+published as Bernays 1922 and starts out with a discussion of
+<em>existential axiomatics</em> that presupposes, as we saw in
+ <a href="#ConsNoInteCont">A.2</a>,
+ a system of objects satisfying the structural conditions formulated
+by the axioms. As the assumption of such a system contains
+&ldquo;something so-to-speak transcendent for mathematics&rdquo;, the
+question arises, &ldquo;which principled position with respect to it
+should be taken&rdquo;. Bernays remarks that it might be perfectly
+coherent to appeal to an intuitive grasp of the natural number
+sequence or even of the manifold of real numbers. However, that could
+not be an intuition in any primitive sense, and one should take
+seriously the tendency of the exact sciences to use only restricted
+means to acquire knowledge, as far as that can be done. He was led to
+the question, </p>
+
+<blockquote>
+
+<p>
+whether it is not possible to give a foundation to these transcendent
+assumptions in such a way that only primitive intuitive knowledge is
+used. (Bernays 1922: 11)</p>
+</blockquote>
+
+<p>
+Contentual mathematics is to be based on primitive intuitive knowledge
+and includes for Bernays, at this stage, induction&mdash;both as a
+proof and definition principle concerning the natural numbers. In the
+outline (<em>Disposition</em>) for the lectures to be given in the
+winter term 1921/22, Bernays discusses &ldquo;constructive
+arithmetic&rdquo; (<em>konstruktive Arithmetik</em>) and then the
+&ldquo;broader formulation of constructive thought&rdquo;
+(<em>konstruktiver Gedanke</em>):</p>
+
+<blockquote>
+<p>
+Construction of the proofs, by means of which the formalization of the
+higher inferences is made possible and the consistency problem is
+becoming accessible in a general way. (Bernays 1921: 123&ndash;124)</p>
+</blockquote>
+
+<h3 id="GdelIncoResu">A.4 G&ouml;del&rsquo;s incompleteness results</h3>
+
+<p>
+On 26 August 1930, G&ouml;del met with Rudolf Carnap and Friedrich
+Waismann at the Caf&eacute; Reichsrat; the main topic of conversation
+was their upcoming trip to K&ouml;nigsberg, from Vienna of course.
+Reflecting a dramatic shift away from travel preparations, Carnap
+noted that the discussion turned to &ldquo;G&ouml;del&rsquo;s
+discovery: Incompleteness of the system of <em>Principia
+Mathematica</em>; difficulty of the consistency
+ proof&rdquo;.<sup>[<a href="notes.html#note-41" id="ref-41">41</a>]</sup>
+ In K&ouml;nigsberg the three attended the <em>Conference for
+Epistemology of the Exact Sciences</em> that was held there from 5 to
+7 September. On the very first day of the conference, Carnap and
+Waismann gave plenary lectures on the foundations of mathematics
+presenting the logicist position and Wittgenstein&rsquo;s views,
+respectively; von Neumann and Heyting gave complementary lectures on
+the formalist and intuitionist standpoints. On the next day G&ouml;del
+presented the results of his thesis claiming at the very end of his
+ talk<sup>[<a href="notes.html#note-42" id="ref-42">42</a>]</sup>
+ that the completeness result for first-order logic cannot be extended
+to &ldquo;the higher parts of logic (the extended functional
+calculus)&rdquo;. After all, together with the categorical
+characterization of natural and real numbers, such a result would
+imply the &ldquo;solvability of every problem of arithmetic and
+analysis expressible in <em>Principia Mathematica</em>&rdquo;. That
+conclusion, he argued, conflicts with a fact he had recently
+established, namely, that </p>
+
+<blockquote>
+
+<p>
+&hellip; there are mathematical problems which can be expressed in
+<em>Principia Mathematica</em> but cannot be solved by the logical
+devices of <em>Principia Mathematica</em>. </p>
+</blockquote>
+
+<p>
+The latter fact, G&ouml;del asserted, can also be expressed as
+follows:</p>
+
+<blockquote>
+
+<p>
+The Peano axiom system, with the logic of <em>Principia
+Mathematica</em> as superstructure, is not syntactically complete.</p>
+</blockquote>
+
+<p>
+Carnap, Heyting, von Neumann, Waismann and G&ouml;del were among the
+participants of a roundtable discussion &ldquo;Zur Grundlegung der
+Mathematik&rdquo; that took place on 7 September, the last day of the
+conference, and was chaired by G&ouml;del&rsquo;s thesis advisor Hans
+Hahn. At that occasion, G&ouml;del presented his result in greater
+detail, but also with a different emphasis. (The stenographic notes of
+G&ouml;del&rsquo;s remarks were published in the 1931 issue of the
+journal <em>Erkenntnis</em> together with a Postscriptum
+(<em>Nachtrag</em>, 1931b) that summarizes the mathematical results of
+G&ouml;del 1931a.) Now he connects his
+considerations closely with Hilbert&rsquo;s program and argues, the
+consistency of a formal theory <i>A</i> for classical mathematics does
+not guarantee that all theorems of <i>A</i> are &ldquo;contentually
+correct&rdquo; (<em>inhaltlich richtig</em>). At first he views it as
+&ldquo;quite possible&rdquo; that</p>
+
+<blockquote>
+
+<p>
+&hellip; one might prove a statement of the form \((Ex)F(x)\), where
+<i>F</i> is a finitist property of natural numbers (the negation of
+Goldbach&rsquo;s conjecture, e.g., has this form) by the transfinite
+means of classical mathematics and yet ascertain by contentual
+considerations that all numbers have the property <em>not-F</em>; this
+remains possible, and that&rsquo;s what I would like to point out,
+even if the consistency of the formal system for classical mathematics
+had been proved. For of no formal system can one claim that all
+contentual considerations are representable in it. (G&ouml;del 1931b: 200)</p>
+</blockquote>
+
+<p>
+In a second remark, he strengthens the claim that &ldquo;one might
+prove a statement&rdquo; to the assertion, &ldquo;one can indeed give
+examples of statements&rdquo; that are contentually correct but
+unprovable in A, if the latter is consistent. He concludes: Thus, if
+one adjoins the negation of such a statement to the axioms of
+classical mathematics, then one obtains a consistent system in which a
+contentually false statement is provable. Let us explore now, how
+G&ouml;del seems to have convinced himself of that state of
+mathematical affairs. This reconstruction is based on Wang 1981 and
+the long first section of G&ouml;del 1931a that sketches the
+&ldquo;main idea of the proof&rdquo; and assumes the semantic
+soundness of classical mathematics; in the core of the paper,
+soundness is replaced by the weaker syntactic conditions of
+consistency and
+ \(\omega\)-consistency.<sup>[<a href="notes.html#note-43" id="ref-43">43</a>]</sup></p>
+ 
+
+<p>
+Ironically, the main idea exploits two features that made
+Hilbert&rsquo;s finitist program plausible: (1) strong formal theories
+<i>T</i>, like Principia Mathematica or Zermelo-Fraenkel set theory,
+allow the formalization of mathematics, and (2) the formal theories
+can be described in a very elementary part of mathematics, finitist
+mathematics. The latter descriptions are precise and can be involved
+in rigorous mathematical arguments; after all, a finitist proof of the
+consistency of formal theories was sought and actually given for a
+fragment of arithmetic. It was also clear that elementary
+combinatorial concepts could be defined in the formal theories.
+G&ouml;del observed that metamathematical notions like <span class="sansserif">FORM(ULA)</span>
+and <span class="sansserif">PROOF</span>
+can be <em>provably</em> (in
+metamathematics) <em>represented</em> by formulae in the language of
+<i>T</i>; that amounts, say for <span class="sansserif">FORM</span>,
+to having a formula <em>form</em> in the language of <i>T</i> such
+that: If <span class="sansserif">FORM</span>(\(\varphi\)) then \(T
+\vdash \textit{form}({\Corner{\varphi}})\), and If <span class="sansserif">NOT
+FORM</span>(\(\varphi\)) then \(T\vdash \neg
+\textit{form}({\Corner{\varphi}})\). Here \({\Corner{\varphi}}\) is a
+closed term in the language of <i>T</i> that serves as a name for the
+formula \(\varphi\).</p>
+
+<p>
+One way of achieving such a naming scheme is to require that <i>T</i>
+have names for natural numbers, i.e., <em>numerals</em>, and allow for
+the formation of sequences (of sequences) of numerals. The numerals
+can be used, non-standardly, as names or <em>codes</em> for the basic
+symbols of <i>T</i>&rsquo;s language; the numeral used, for example,
+as the code for the conjunction symbol \(\land\) is indicated by
+\({\Corner{\land}}\). As a formula \(\varphi\) of the language of
+<i>T</i> is a sequence of basic symbols, it is coded by the
+corresponding sequence of the codes for the basic symbols that make up
+\(\varphi\); that sequence is denoted by
+ \({\Corner{\varphi}}\).<sup>[<a href="notes.html#note-44" id="ref-44">44</a>]</sup>
+ A proof <i>D</i> of \(\varphi\) is similarly a sequence of formulae
+(having \(\varphi\) as their last element) and thus can be coded by
+the corresponding sequence of codes for the formulae that make up
+<i>D</i>; \({\Corner{D}}\) is the code for <i>D</i>. For the
+metamathematical notion <span class="sansserif">PROOF</span> there is
+a formula <em>proof</em> in the language of <i>T</i> that represents
+ it.<sup>[<a href="notes.html#note-45" id="ref-45">45</a>]</sup>
+ Clearly, \(\varphi\) is a theorem if it has a proof, i.e., <span class="sansserif">FOR
+SOME</span> <i>D</i>, <span class="sansserif">PROOF</span>
+(<i>D</i>, \(\varphi\)). Defining the
+formal notion <em>theorem</em> in the same way from <em>proof</em>, we
+can easily prove: If <span class="sansserif">THEOREM</span>(\(\varphi\))
+then \(T\vdash
+\textit{theorem}({\Corner{\varphi}})\). (As we will see, the
+corresponding condition for <span class="sansserif">NOT
+THEOREM</span>(\(\varphi\)) is not provable for sufficiently strong
+<i>T</i>.)</p>
+
+<p>
+This way of &ldquo;internalizing&rdquo; the syntactic description of
+<i>T</i> in <i>T</i> allows us, in particular, to formulate a
+self-referential statement <i>G</i> that expresses its own
+unprovability in
+ <i>T</i>.<sup>[<a href="notes.html#note-46" id="ref-46">46</a>]</sup>
+ If <i>T</i> is sound, <i>G</i> is seen to be independent of <i>T</i>
+as follows. Assuming that <i>T</i> proves <i>G</i>, soundness
+guarantees the truth of <i>G</i> and consequently the unprovability of
+<i>G</i>; thus, <i>T</i> does not prove <i>G</i>. Assuming that
+<i>T</i> proves \(\neg G\), soundness guarantees the falsity of
+<i>G</i>, i.e., <i>T</i> proves <i>G</i>, contradicting the
+consistency of <i>T</i>; thus, <i>T</i> does not prove \(\neg G\). In
+sum then, neither <i>G</i> nor \(\neg G\) is provable in <i>T</i>. In
+section 7 of the Princeton notes, G&ouml;del indicates a way of
+obtaining <i>G</i> that he attributes to Carnap 1934. It starts with a
+general &ldquo;self-reference lemma&rdquo;: for any formula
+\(\varphi(x)\) with the free variable <i>x</i>, one can construct a
+sentence <i>S</i> such that <i>T</i> proves the equivalence of
+<i>S</i> and \(\varphi({\Corner{S}})\). This allows us to prove that
+an adequate notion of truth cannot be defined in <i>T</i>, as that
+would make possible the construction of the &ldquo;liar
+sentence&rdquo; saying of itself that it is false. As the concept of a
+theorem of <i>T</i> is definable in <i>T</i>, assuming again the
+soundness of <i>T</i>, the set of provable sentences is a proper
+subset of the true ones. Thus, there is some sentence <i>A</i> that is
+true but not provable; indeed, as \(\neg A\) is false and <i>T</i> is
+sound, <i>A</i> is independent of <i>T</i>. G&ouml;del emphasizes in
+footnote 26, </p>
+
+<blockquote>
+
+<p>
+One thus obtains a proof for the existence of undecidable propositions
+in that system, but no individual instance of an undecidable
+proposition. (1934 [1986: 363])</p>
+</blockquote>
+
+<p>
+All of this concerns the first incompleteness theorem. At the end of
+the first section of his 1931a, G&ouml;del remarks that the formally
+undecidable sentence <i>G</i> can be decided by metamathematical
+considerations and continues: </p>
+
+<blockquote>
+<p>
+The precise analysis of this curious situation leads to surprising
+results concerning the consistency proofs of formal theories, that
+will be presented in greater detail in section 4 (Theorem XI). (G&ouml;del 1931a: 150)</p>
+</blockquote>
+
+<p>
+G&ouml;del discovered this theorem only after the K&ouml;nigsberg
+congress; it is his second incompleteness theorem, asserting that the
+formal statement <em>cons</em> expressing the consistency of a theory
+cannot be proved in the theory. For its proof, G&ouml;del suggested
+formalizing the argument for the first incompleteness theorem in order
+to obtain the statement \((\textit{cons} \rightarrow G)\) as a theorem
+of <em>Principia Mathematica</em>. Then, evidently, <em>cons</em>
+cannot be established in the system, as that would allow a formal
+proof of <i>G</i>, contradicting the first theorem. Independently, von
+Neumann found a way of proving more directly the equivalence of
+<i>G</i> and <em>cons</em> to be discussed below. That came about as
+follows: right after the roundtable discussion von Neumann had a
+private conversation with G&ouml;del, important aspects of which are
+reported in Wang 1981: 654&ndash;655:</p>
+
+<blockquote>
+
+<p>
+In this discussion, von Neumann asked whether number theoretical
+undecidable propositions could also be constructed, in view of the
+fact that the combinatorial objects can be mapped onto the integers,
+and expressed the belief that it could be done. In reply, G&ouml;del
+said, &ldquo;Of course undecidable propositions about integers could
+be so constructed, but they would contain concepts quite different
+from those occurring in number theory like addition and
+multiplication&rdquo;. Shortly afterward G&ouml;del, to his own
+astonishment, succeeded in turning the undecidable proposition into
+polynomial form preceded by quantifiers (over natural numbers).</p>
+</blockquote>
+
+<p>
+Von Neumann was very enthusiastic about the result G&ouml;del had
+found and was preoccupied with it during the following months. We get
+a sense of that from Herbrand&rsquo;s letter to his friend Claude
+Chevalley, when he writes from Berlin on 3 December 1930: </p>
+
+<blockquote>
+<p>
+Mathematicians are a strange bunch; I have been here for two weeks,
+and each time I see von Neumann, we talk about a paper by a certain
+G&ouml;del, who has produced quite curious statements; and all this
+destroys some very solidly anchored ideas.<sup>[<a href="notes.html#note-47" id="ref-47">47</a>]</sup>
+</p>
+</blockquote>
+
+<p>
+This sentence opens the letter. Having sketched G&ouml;del&rsquo;s
+arguments, Herbrand concludes the metamathematical discussion with,
+&ldquo;Please excuse this long beginning; but all of this haunts me,
+and by writing about it I can exorcise it a bit&rdquo;.</p>
+
+<p>
+Von Neumann communicated the outcome of his reflections to G&ouml;del
+in a letter of 20 November 1930 announcing as a &ldquo;new
+result&rdquo; that the consistency of classical mathematics is
+unprovable. The reasoning for von Neumann&rsquo;s result was
+articulated more sharply in a letter of 12 January 1931, which he
+wrote after having received the galleys of G&ouml;del&rsquo;s 1931a
+paper with its dramatic expansion of methods and results.
+Metamathematically von Neumann claimed&mdash;in contrast to
+G&ouml;del&rsquo;s sketch of a formal proof of the first
+incompleteness theorem&mdash;the equivalence of the sentence <i>G</i>
+with the consistency statement <em>cons</em> assuming general
+properties of the theorem predicate for formal theories. (That&rsquo;s
+what Hilbert and Bernays would do in great detail and precisely in
+their 1939 through representability and derivability conditions.)
+Methodologically he argued&mdash;in opposition to G&ouml;del&rsquo;s
+conjecture&mdash;that intuitionist or, synonymously at the time,
+finitist proofs can be formally captured in elementary arithmetic or,
+if not there, then certainly in analysis or set
+ theory.<sup>[<a href="notes.html#note-48" id="ref-48">48</a>]</sup></p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="https://eps.leeds.ac.uk/maths/staff/4073/professor-michael-rathjen" target="other">Michael Rathjen</a>
+&lt;<a href="m&#97;ilto:rathjen&#37;40maths&#37;2eleeds&#37;2eac&#37;2euk"><em>rathjen<abbr title=" at ">&#64;</abbr>maths<abbr title=" dot ">&#46;</abbr>leeds<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+Wilfried Sieg
+&lt;<a href="m&#97;ilto:sieg&#37;40cmu&#37;2eedu"><em>sieg<abbr title=" at ">&#64;</abbr>cmu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Nineteenth Century Geometry &gt; A Modern Formulation of Riemann's Theory (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/geometry-19th/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/geometry-19th/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=geometry-19th">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Nineteenth Century Geometry</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>A Modern Formulation of Riemann's Theory</h2>
+
+<p>
+
+The multidimensional continua that Riemann was concerned with are
+essentially instances of what is now known as a real <em>n-dimensional
+smooth manifold</em>. For brevity, call them
+&lsquo;<em>n-manifolds</em>&rsquo;. (For example, a sphere, a
+M&ouml;bius strip and the surface of a Henry Moore sculpture may be
+regarded as 2-manifolds; the spacetimes models of current cosmology
+are 4-manifolds.) Conditions (a) &ndash; (c) provide a full
+characterization of <em>n</em>-manifolds.</p>
+
+<blockquote>(a) An <em>n</em>-manifold <strong>M</strong> is a set of points
+that can be pieced together from partially overlapping patches, such
+that every point of <strong>M</strong> lies in at least one patch. 
+
+<p>
+
+(b) <strong>M</strong> is endowed with a neighborhood structure (a
+topology) such that, if <em>U</em> is a patch of <strong>M</strong>, there is a
+continuous one-one mapping <em>f</em> of <em>U</em> onto some region of
+<strong>R</strong><sup><em>n</em></sup>, with continuous inverse
+<em>f</em>&thinsp;<sup>&minus;1</sup>. (<strong>R</strong><sup><em>n</em></sup>
+denotes here the collection of all real number <em>n</em>-tuples, with the
+standard topology generated by the open balls.) <em>f</em> is a
+coordinate system or <em>chart</em> of <strong>M</strong>; the <em>k</em>-th
+number in the <em>n</em>-tuple assigned by a chart <em>f</em> to a point <em>P</em> in
+<em>f</em>'s patch is called the <em>k</em>-th coordinate of <em>P</em> by <em>f</em>;
+the <em>k</em>-th coordinate function of chart <em>f</em> is the real-valued
+function that assigns to each point of the patch its <em>k</em>-th coordinate
+by <em>f</em>.</p>
+
+<p>
+
+(c) There is a collection <strong>A</strong> of charts of
+<strong>M</strong>, which contains at least one chart defined on each
+patch of <strong>M</strong> and is such that, if <em>g</em> and <em>h</em> belong to
+<strong>A</strong>, the composite mappings <span class="nw"><em>h</em>
+&#9675; <em>g</em><sup>&minus;1</sup></span> and
+<span class="nw"><em>g</em>
+&#9675; <em>h</em><sup>&minus;1</sup></span> &mdash; known
+as <em>coordinate transformations</em> &mdash; are differentiable to
+every order wherever they are well defined. (Denote the real
+number <em>n</em>-tuple &lt;<em>a</em><sub>1</sub>, &hellip;
+, <em>a</em><sub><em>n</em></sub>&gt; by <strong>a</strong>. The
+mapping <em>h</em> &#9675;
+ <em>g</em><sup>&minus;1</sup> is
+well defined at <strong>a</strong> if <strong>a</strong> is the valued
+assigned by <em>g</em> to some point <em>P</em> of <strong>M</strong> to which <em>h</em> also
+assigns a value. Suppose that the latter value <em>h</em>(<em>P</em>) =
+<span class="nw">&lt;<em>b</em><sub>1</sub>, &hellip; ,<em>b</em><sub><em>n</em></sub>&gt;</span>
+= <strong>b</strong>; then, <strong>b</strong> = <em>h</em>
+ &#9675;
+ <em>g</em><sup>&minus;1</sup>(<strong>a</strong>). Since <em>h</em>
+ &#9675;
+ <em>g</em><sup>&minus;1</sup> maps
+a region of <strong>R</strong><sup><em>n</em></sup> into
+<strong>R</strong><sup><em>n</em></sup>, it makes sense to say that <em>h</em>
+ &#9675;
+ <em>g</em><sup>&minus;1</sup> is
+differentiable.) Such a collection <strong>A</strong> is called an
+ <em>atlas</em>.<sup>[<a href="notes.html#sup1" name="supnote-1">1</a>]</sup></p>
+</blockquote>
+
+<p>
+
+It is the pair &lt;<strong>M</strong>, <strong>A</strong>&gt; that,
+strictly speaking, is an <em>n</em>-manifold, in the sense defined above. If
+&lt;<strong>M</strong><sub>1</sub>,<strong>A</strong><sub>1</sub>&gt;
+and
+&lt;<strong>M</strong><sub>2</sub>,<strong>A</strong><sub>2</sub>&gt;
+are an <em>n</em>-manifold and an <em>m</em>-manifold, respectively, it makes good sense
+to say that a mapping <em>f</em> of <strong>M</strong><sub>1</sub> into
+<strong>M</strong><sub>2</sub> is differentiable at a point <em>P</em> of
+<strong>M</strong><sub>1</sub> if, for a chart <em>h</em> defined at <em>P</em> and a
+chart <em>g</em> defined at <em>f</em>(<em>P</em>), the composite mapping
+ <em>g</em>&nbsp;&#9675;&nbsp;<em>f</em>&nbsp;&#9675;&nbsp;<em>h</em><sup>&minus;1</sup>
+is differentiable at <em>h</em>(<em>P</em>). (Condition (c) implies that the fulfillment
+of this requirement does not depend on the choice of <em>h</em> and <em>g</em>.)
+<em>f</em> is differentiable if it is differentiable at every point of
+<strong>M</strong><sub>1</sub>. </p>
+
+<p>
+
+Let &lt;<strong>M</strong>,<strong>A</strong>&gt; be an <em>n</em>-manifold.
+To each point <em>P</em> of <strong>M</strong> one associates a vector space,
+which is known as the <em>tangent space at P</em> and is denoted by
+<em>T</em><sub><small><em>P</em></small></sub><strong>M</strong>. The idea is based on
+the intuitive notion of a plane tangent to a surface at a given point.
+It can be constructed as follows. Let
+&gamma;
+ be a one-one differentiable mapping of a real open interval
+<strong>I</strong> into <strong>M</strong>. We can think of the
+successive values of &gamma; as forming the path of a point that moves
+through <strong>M</strong> during a time interval represented by
+<strong>I</strong>. We call &gamma; a <em>curve</em> in
+<strong>M</strong> (parametrized by <em>u</em>&nbsp;&isin;
+<strong>I</strong>). Put &gamma;(<em>t</em><sub><font size="1">0</font></sub>)
+= <em>P</em> for a fixed number <em>t</em><sub><font size="1">0</font></sub> in
+<strong>I</strong>.  Consider the collection <strong>F</strong>(<em>P</em>) of
+all differentiable real-valued functions defined on some neighborhood
+of <em>P</em>. With the ordinary operations of function addition and
+multiplication by a constant, <strong>F</strong>(<em>P</em>) has the structure
+of a vector space.  Each function <em>f</em> in <strong>F</strong>(<em>P</em>)
+varies smoothly with <em>u</em>, along the path of &gamma;,
+in some neighborhood of <em>P</em>. Its rate of variation at
+<em>P</em> =
+&gamma;(<em>t</em><sub><font size="1">0</font></sub>) is properly
+expressed by the derivative <em>d</em>(<em>f</em>&thinsp;&#9675;&gamma;)/<em>d</em><em>u</em> at <em>u</em> =
+<em>t</em><sub><font size="1">0</font></sub>. As <em>f</em> ranges over
+<strong>F</strong>(<em>P</em>), the value of <em>d</em>(<em>f</em>&thinsp;&#9675;&gamma;)/<em>d</em><em>u</em> at <em>u</em> =
+<em>t</em><sub><font size="1">0</font></sub> is apt to vary in
+<strong>R</strong>. So we have here a mapping of <strong>F</strong>(<em>P</em>)
+into <strong>R</strong>, which we denote by
+ <span class="overstrike">&gamma;<span class="hi">&middot;</span></span>(<em>u</em>).
+ It is in
+fact a linear function and therefore a vector in the dual space
+<strong>F*</strong>(<em>P</em>) of real-valued linear functions on
+<strong>F</strong>(<em>P</em>). Call it the <em>tangent</em> to
+ &gamma;
+ at <em>P</em>. The tangents
+at <em>P</em> to all the curves whose paths go through <em>P</em> span an <em>n</em>-dimensional
+subspace of <strong>F*</strong>(<em>P</em>). This subspace is, by definition,
+the tangent space <em>T</em><sub><small><em>P</em></small></sub><strong>M</strong>. The
+tangent spaces at all points of an <em>n</em>-manifold <strong>M</strong> can be
+bundled together in a natural way into a 2<em>n</em>-manifold
+<em>T</em><strong>M</strong>. The projection mapping
+ &pi;
+ of
+<em>T</em><strong>M</strong> onto <strong>M</strong> assigns to each tangent
+vector <strong>v</strong> in
+<em>T</em><sub><small><em>P</em></small></sub><strong>M</strong> the point
+ &pi;(<strong>v</strong>)
+at which <strong>v</strong> is tangent to <strong>M</strong>. The
+structure &lt;<em>T</em><strong>M</strong>,<strong>M</strong>,&pi;&gt; is the tangent
+bundle over <strong>M</strong>. A vector field on <strong>M</strong> is
+a section of <em>T</em><strong>M</strong>, i.e., a differentiable mapping
+<strong><em>f</em></strong> of <strong>M</strong> into
+<em>T</em><strong>M</strong> such that
+ &pi;
+ &#9675; <strong><em>f</em></strong> sends each point <em>P</em> of
+<strong>M</strong> to itself; such a mapping obviously assigns to <em>P</em> a
+vector in <em>T</em><sub><small><em>P</em></small></sub><strong>M</strong>.</p>
+
+<p>
+
+Any vector space <strong>V</strong> is automatically associated with
+other vector spaces, such as the dual space <strong>V*</strong> of
+linear functions on <strong>V</strong>, and the diverse spaces of
+multilinear functions on <strong>V</strong>, on <strong>V*</strong>,
+and on any possible combination of <strong>V</strong> and
+<strong>V*</strong>. This holds, of course, for each tangent space of
+an <em>n</em>-manifold <strong>M</strong>. The dual of
+<em>T</em><sub><small><em>P</em></small></sub><strong>M</strong> is known as the
+cotangent space at <em>P</em>. There is a natural way of bundling together the
+cotangent spaces of <strong>M</strong> into a 2<em>n</em>-manifold, the
+cotangent bundle. Generally speaking, all the vector spaces of a
+definite type associated with the tangent and cotangent spaces of
+<strong>M</strong> can be naturally bundled together into a <em>k</em>-manifold
+(for suitable integers <em>k</em>, depending on the nature of the bundled
+items). A section of any of these bundles is a <em>tensor field</em> on
+<strong>M</strong> (of rank <em>r</em>, if the bundled objects are <em>r</em>-linear
+functions).</p>
+
+<p>
+
+A <em>Riemannian metric</em> <strong>g</strong> on the <em>n</em>-manifold
+&lt;<strong>M</strong>,<strong>A</strong>&gt; is a tensor field of rank
+2 on <strong>M</strong>. Thus, <strong>g</strong> assigns to each <em>P</em> in
+<strong>M</strong> a bilinear function
+<strong>g</strong><sub><small><em>P</em></small></sub> on
+<em>T</em><sub><small><em>P</em></small></sub><strong>M</strong>. For any <em>P</em> in
+<strong>M</strong> and any vectors <strong>v</strong>,
+<strong>w</strong>, in <em>T</em><sub><small><em>P</em></small></sub><strong>M</strong>,
+<strong>g</strong><sub><small><em>P</em></small></sub> must meet these
+requirements:</p>
+
+<ol type="i">
+ 
+ <li><strong>g</strong><sub><small><em>P</em></small></sub>(<strong>v</strong>,<strong>
+w</strong>) =
+<strong>g</strong><sub><small><em>P</em></small></sub>(<strong>w</strong>,<strong>
+v</strong>) &nbsp; &nbsp; &nbsp; (symmetry) </li>
+
+ <li><strong>g</strong><sub><small><em>P</em></small></sub>(<strong>v</strong>,<strong>
+w</strong>) = 0 for all vectors <strong>w</strong> in
+<em>T</em><sub><small><em>P</em></small></sub><strong>M</strong> if and only if
+<strong>v</strong> is the 0-vector &nbsp; &nbsp; &nbsp;
+(non-degeneracy)</li>
+
+ <li><strong>g</strong><sub><small><em>P</em></small></sub>(<strong>v</strong>,<strong>
+v</strong>) &gt; 0 unless <strong>v</strong> is the 0-vector &nbsp;
+&nbsp; &nbsp; (positive definiteness).</li>
+
+</ol>
+
+<p>
+
+It is worth noting that the so-called Lorentzian metrics defined by
+relativity theory on its spacetime models meet requirements (i) and
+(ii), but not (iii), and are therefore usually said to be
+<em>semi-Riemannian</em> or <em>pseudo-Riemannian</em>. </p>
+
+<p>
+
+The length
+ &lambda;(<strong>v</strong>) of a vector <strong>v</strong>
+in <em>T</em><sub><small><em>P</em></small></sub><strong>M</strong> is defined by |&lambda;(<strong>v</strong>)|<sup>2</sup> =
+<strong>g</strong><sub><small><em>P</em></small></sub>(<strong>v</strong>,<strong>
+v</strong>). Let
+ &gamma;
+ be a curve in <strong>M</strong>. Let
+ <span class="overstrike">&gamma;<span class="hi">&middot;</span></span>(<em>u</em>)
+ be the
+tangent to
+ &gamma;
+ at
+the point
+ &gamma;(<em>u</em>).
+The
+ length of
+ &gamma;'s
+ path from
+ &gamma;(<em>a</em>) to
+ &gamma;(<em>b</em>) is
+measured by the integral</p>
+
+<blockquote>
+ <table>
+ <tr>
+ <td><font size="+2">&int;&thinsp;</font></td>
+ <td><em>b</em><br /><em>a</em></td>
+ <td>&lambda;(<span class="overstrike">&gamma;<span class="hi">&middot;</span></span>(<em>u</em>))<em>du</em></td>
+ </tr>
+</table>
+</blockquote>
+
+<p>
+
+Thus, in Riemannian geometry, the length of the tangent vector
+ <span class="overstrike">&gamma;<span class="hi">&middot;</span></span>(<em>u</em>)
+ bears
+witness to the advance of curve <em>g</em> as it passes through the point
+ &gamma;(<em>u</em>).
+ The definition
+of the length of a curve leads at once to the notion of a geodesic (or
+straightest) curve, which is characterized by the fact that its length
+is extremal; in other words, a geodesic is either the greatest or the
+shortest among all the curves that trace out neighboring paths between
+the same two points. </p>
+
+<p>
+
+In his study of curved surfaces, Gauss introduced a real-valued
+function, the <em>Gaussian curvature</em>, which measures a surface's
+local deviation from flatness in terms of the surface's intrinsic
+geometry. Riemann extended this concept of curvature to Riemannian
+<em>n</em>-manifolds. He observed that each geodesic through a point in such a
+manifold is fully determined by its tangent vector at that point.
+Consider a point <em>P</em> in a Riemannian <em>n</em>-manifold
+&lt;<strong>M</strong>,<strong>A</strong>,<strong>g</strong>&gt; and
+two linearly independent vectors <strong>v</strong> and
+<strong>w</strong> in <em>T</em><sub><small><em>P</em></small></sub><strong>M</strong>.
+The geodesics determined by all linear combinations of
+<strong>v</strong> and <strong>w</strong> form a 2-manifold about <em>P</em>,
+with a definite Gaussian curvature
+<em>K</em><sub><small><em>P</em></small></sub>(<strong>v</strong>,<strong>w</strong>) at
+<em>P</em>. The real number
+<em>K</em><sub><small><em>P</em></small></sub>(<strong>v</strong>,<strong>w</strong>)
+measures the curvature of <strong>M</strong> at <em>P</em> in the &ldquo;surface
+direction&rdquo; (Riemann 1854, p. 145) fixed by <strong>v</strong> and
+<strong>w</strong>. In particular, if <em>n</em> = 3 and
+<em>K</em><sub><small><em>P</em></small></sub>(<strong>v</strong>,<strong>w</strong>)
+takes the same constant value <em>k</em> for every choice of the point
+<em>P</em> and of the vectors <strong>v</strong> and <strong>w</strong>, then
+the manifold
+&lt;<strong>M</strong>,<strong>A</strong>,<strong>g</strong>&gt; is a
+realization of Euclidian space if <em>k</em> = 0, of Lobachevskian
+space if <em>k</em> &lt; 0, and of either spherical
+or elliptic space if <em>k</em> &gt; 0. Riemann
+(1861) thought up a global mapping, depending on the metric
+<strong>g</strong>, that yields the appropriate values of
+<em>K</em><sub><small><em>P</em></small></sub>(<strong>v</strong>,<strong>w</strong>) on
+appropriate arguments <em>P</em>, <strong>v</strong> and <strong>w</strong>.
+Nowadays this object is conceived as a tensor field of rank 4, which
+assigns to each point <em>P</em> in a Riemannian <em>n</em>-manifold
+&lt;<strong>M</strong>,<strong>A</strong>,<strong>g</strong>&gt; a
+4-linear function on the tangent space
+<em>T</em><sub><small><em>P</em></small></sub><strong>M</strong>. It is therefore known
+as the <em>Riemann tensor</em>. Given the above definition of
+<em>K</em><sub><small><em>P</em></small></sub>(<strong>v</strong>,<strong>w</strong>) it
+is clear that, if <em>n</em> = 2, the Riemann tensor reduces to the Gaussian
+curvature function.</p>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2016</a> by
+
+<br />
+<a href="../geometry-19th/vita.html" target="other">Roberto Torretti</a>
+
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

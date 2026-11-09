@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Truth Values &gt; Generalized Truth Values and Multilattices (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/truth-values/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/truth-values/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=truth-values">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Truth Values</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Generalized Truth Values and Multilattices</h2>
+
+<p>
+It is possible to generalize the notion of a bilattice by introducing
+the notion of a <em>multilattice</em>, which is suitable for
+investigating sets of generalized truth values in the presence of many
+partial orderings defined on these sets.</p>
+
+<p class="indent" id="d3">
+<strong>Definition</strong>. An <strong>n-dimensional
+multilattice</strong> (or simply <strong>n-lattice</strong>) is a
+structure \(\mathcal{M}_n = \langle S, \le_1 ,\ldots ,\le_n\rangle\),
+where \(S\) is a non-empty set and \(\le_1 ,\ldots ,\le_n\) are
+partial orders defined on \(S\) such that \((S, \le_1),\ldots ,(S,
+\le_n)\) are all distinct lattices. </p>
+
+<p>
+In particular, if one applies the idea of a generalized truth value
+function to Belnap&rsquo;s four truth values, then one obtains
+valuations assigning the 16 generalized truth values from the powerset
+\(\mathcal{P}(\mathbf{4}) = \mathbf{16}\) of \(\mathbf{4}\):</p>
+
+\[
+\begin{align}
+  \text{1.}&amp;&amp; \mathbf{N} &amp;= \varnothing&amp;
+  \text{9.}&amp;&amp;  \mathbf{FT} &amp;= \{\{F\}, \{T\}\}\\
+  \text{2.}&amp;&amp;  \boldsymbol{N} &amp;= \{\varnothing \}&amp;
+  \text{10.}&amp;&amp;  \mathbf{FB} &amp;= \{\{F\}, \{F, T\}\}\\
+  \text{3.}&amp;&amp;  \boldsymbol{F} &amp;= \{\{F\}\}&amp;
+  \text{11.}&amp;&amp;  \mathbf{TB} &amp;= \{\{T\}, \{F, T\}\}\\
+  \text{4.}&amp;&amp;  \boldsymbol{T} &amp;= \{\{T\}\}&amp;
+  \text{12.}&amp;&amp;  \mathbf{NFT} &amp;= \{\varnothing , \{F\}, \{T\}\}\\
+  \text{5.}&amp;&amp;  \boldsymbol{B} &amp;= \{\{F, T\}\}&amp;
+  \text{13.}&amp;&amp;  \mathbf{NFB} &amp;= \{\varnothing , \{F\}, \{F, T\}\}\\
+  \text{6.}&amp;&amp;  \mathbf{NF} &amp;= \{\varnothing , \{F\}\}&amp;
+  \text{14.}&amp;&amp;  \mathbf{NTB} &amp;= \{\varnothing , \{T\}, \{F, T\}\}\\
+  \text{7.}&amp;&amp;  \mathbf{NT} &amp;= \{\varnothing , \{T\}\}&amp;
+  \text{15.}&amp;&amp;  \mathbf{FTB} &amp;= \{\{F\}, \{T\}, \{F, T\}\}\\
+  \text{8.}&amp;&amp;  \mathbf{NB} &amp;= \{\varnothing , \{F, T\}\}&amp;
+  \text{16.}&amp;&amp;  \mathbf{A} &amp;= \{\varnothing , \{T\}, \{F\}, \{F, T\}\}.\\
+\end{align}
+\]
+
+<p>
+These values give rise to an algebraic structure with <em>three</em>
+distinct partial orders: an information order \(\le_i\) (viz.
+set-inclusion), a truth order \(\le_t\) and a falsity order \(\le_f\).
+Whereas the truth order is defined in terms of the presence and
+absence of the classical value \(T\) in/from elements from
+\(\mathbf{16}\), the falsity order is defined in terms of the presence
+and absence of \(F\) in/from elements from \(\mathbf{16}\) (see
+Shramko and Wansing 2005, 2006). The resulting algebraic structure is
+known as the <em>trilattice</em> <em>SIXTEEN</em>\(_3\), which is
+presented by a triple Hasse diagram in Figure 4 (essentially the same
+structure has been introduced in Shramko, Dunn, Takenaka 2001 as a
+truth value space of constructive truth values).</p>
+
+<div class="figure">
+<img width="400" src="Figure4.png" alt="[an 8 sided regular polyhedron enclosing 8 dots which, if connected, would form another 8 sided regular polyhedron. The corners of the outer polyhedron are labeled, clockwise, 'TB' (on top), 'NTB', 'NT', 'N', 'NF', 'F', 'FB', and 'FTB'. The inner 8 dots are labeled 'A' (top), 'T', 'NB', 'NFT', 'N', 'NFB', 'FT', and 'B'. Lines connect each outer dot to the two inner dots that are adjacent to the nearest dot to it (e.g., 'TB' connects to 'T' and 'B' but not 'A'). The inner dots each also connect to the dots that are 3 away from it (e.g., 'A' connects to 'NFT' and 'NFB'). On the outside is a graph with the x-axis labeled 'f^{-1}' and y-axis labeled 't'. There is also a line going from the origin at about 100degrees labeled 'i'.]" />
+
+<p class="center">
+<span class="figlabel">Figure 4:</span> Trilattice
+<em>SIXTEEN</em>\(_3\)</p>
+</div>
+
+<p>
+This set of values can serve as a natural semantic foundation for the
+logic of a simple computer network. Indeed, one can observe that
+Belnap&rsquo;s &ldquo;computerized&rdquo; interpretation works
+perfectly well only if we deal with <em>one</em> (isolated) computer
+receiving information from <em>classical sources</em>, i.e., these
+sources operate exclusively with the classical truth values. As soon
+as a computer \(C\) is connected to other computers, there is no
+reason to assume that these computers cannot pass higher-level
+information concerning a given proposition to \(C\). If several
+computers form a computer network, Belnap&rsquo;s ideas that motivated
+\(\mathbf{B}_4\) can be generalized. Consider, for example, four
+computers: \(C_1, C_2, C_3\), and \(C_4\) connected to another
+computer \(C_1 '\), a server, to which they are supposed to supply
+information (Figure 5).</p>
+
+<div class="figure">
+<img src="Figure5.png" alt="[a diagram with a central square labeled (C'_1). Four other squares with arrows pointing to the first are labeled, clockwise, (C_1), (C_2), (C_3), and (C_4). To the upper right is another square with a dashed line border labeled (C''_1) a dashed arrow points from the first square to this square. Three more dashed arrows also point to this square. ]" />
+
+<p class="center">
+<span class="figlabel">Figure 5:</span> A computer network</p>
+</div>
+
+<p>
+It turns out that the logic of the server itself (so, the network as a
+whole) cannot remain four-valued any more. Indeed, suppose \(C_1\)
+informs \(C_1 '\) that a sentence is true only (has the value
+\(\mathbf{T})\), whereas \(C_2\) supplies inconsistent information
+(the sentence is both true and false, i.e., has the value
+\(\mathbf{B})\). In this situation \(C_1 '\) has received the
+information that the sentence simultaneously is true <em>only</em>
+(i.e., true <em>and not false</em>) as well as both true <em>and
+false</em>, in other words, it has a value not from \(\mathbf{4}\),
+but from \(\mathcal{P}(\mathbf{4})\), namely the value \(\mathbf{TB} =
+\{\{T\}, \{T, B\}\}\). Note, that this new value cannot simply be
+reduced to Belnap&rsquo;s value \(\mathbf{B}\), at least not without
+some &ldquo;forced argument&rdquo; and a serious information loss (see
+detailed explanations in Shramko and Wansing 2005: 124). Thus, if
+\(C_1 '\) has been informed simultaneously by \(C_1\) that a sentence
+is true-only, by \(C_2\) that it is false-only, by \(C_3\) that it is
+both-true-and-false, and by \(C_4\) that it is neither-true-nor-false,
+then the value \(\mathbf{NFTB} = \{\varnothing , \{T\}, \{F\}, \{T,
+F\}\}\) is far from being a &ldquo;madness&rdquo; (cf. Meyer 1978: 19)
+but is just an adequate value which should be ascribed to the sentence
+by \(C_1 '\). That is, the logic of \(C_1 '\) has to be 16-valued.</p>
+
+<p>
+It is worth noticing that whereas in the bilattice <em>FOUR</em>\(_2\)
+the logical order is not merely a <em>truth</em> order, but rather a
+<em>truth-and-falsity</em> order (an increase in truth means here a
+simultaneous decrease in falsity), the trilattice
+<em>SIXTEEN</em>\(_3\) makes it possible to discriminate between a
+truth order and a (non-)falsity order, as it is shown in Figure 4.
+This means that in <em>SIXTEEN</em>\(_3\), in addition to the
+information order (namely the subset relation), we have actually
+<em>two</em> distinct logical orders: one for truth, \(\le_t\), and
+one for falsity, \(\le_f\). Both of these logical orderings determine
+their own algebraic operations of meet, joint and inversion, and thus
+two distinct, although strictly &ldquo;parallel&rdquo;, sets of
+logical connectives (for conjunctions, disjunctions and negations).
+Moreover, both of these orderings also determine their own logic, one
+in a truth vocabulary (where entailment and logical connectives are
+defined with respect to \(\le_t)\), and another in a falsity
+vocabulary (where entailment and connectives are defined with respect
+to \(\le_f)\). It turns out that for both languages one obtains
+first-degree entailment as the logic of <em>SIXTEEN</em>\(_3\) (see
+Shramko and Wansing 2005). In Shramko and Wansing 2006 this
+observation has been generalized to trilattices of any degree. That
+is, if the above network is extended so that the computer \(C_1 '\)
+may pass information to another computer \((C_1 '')\), then the amount
+of semantical values will increase to \(2^{16} = 65536\), and so on.
+Nevertheless, this exponential growth of the number of truth values
+turns out to be unproblematic, because the logic of the generalized
+so-called Belnap trilattices in the truth vocabulary as well as in the
+falsity vocabulary always is first-degree entailment, see also Beall
+and Camrud 2020).</p>
+
+<p>
+Concerning the full language that combines <em>both</em> the truth vocabulary
+(with conjunction, disjunction and negation defined with respect to
+\(\le_t)\) <em>and</em> the falsity vocabulary (with conjunction,
+disjunction and negation defined with respect to \(\le_f)\), the
+problem of axiomatizing the truth and falsity consequence relations
+determined by the truth and falsity orderings on the trilattice
+<em>SIXTEEN</em>\(_3\) remained open for a couple of years. A first
+solution was found by Odintsov (2009), for <em>extended</em> languages
+that contain a truth (falsity) implication defined as the so-called
+residuum of the truth (falsity) ordering on <em>SIXTEEN</em>\(_3\).
+The presence of such an implication connective allows one to reduce
+the truth (falsity) entailment relation to the set of tautologies,
+which are defined as formulas that under any interpretation are
+evaluated as the greatest element with respect to the truth (falsity)
+ordering. The axiomatization problem has finally been solved in
+(Odintsov and Wansing 2015) by showing that the logic of
+<em>SIXTEEN</em>\(_3\) is the logic of commutative distributive
+bilattices. This result was further extended to any multilattices in
+(Shramko 2016).
+</p> 
+
+<p>
+Thomas Ferguson (2017) has shown that the logic of bilattices equipped
+with the so-called &ldquo;cut-down operations&rdquo; (operations that
+&ldquo;cut-down&rdquo; the field of available data) introduced by
+Melvin Fitting is equivalent to Harry Deutsch&rsquo;s (1984)
+four-valued system now called <em>S</em>\(_{fde}\) (see also Oller
+1999), which is a first-degree entailment fragment of Parry&rsquo;s
+analytic implication. Thus, exactly as <em>E</em>\(_{fde}\) serves
+as <em>the</em> logic of all logical bilattices, <em>S</em>\(_{fde}\)
+plays an analogous role for bilattices with cut-down operations. This
+result can be generalized with respect to trilattices and further to
+multilattices with cut-down operations.</p>
+
+<p> Recently Omori and Skurt (2019) have offered two alternative
+semantical presentations for <em>SIXTEEN</em>\(_3\) based on certain
+combinations of Routley&rsquo;s and Dunn&rsquo;s semantical
+constructions.</p>
+
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="http://kdpu.edu.ua/shramko/yse.htm" target="other">Yaroslav Shramko</a>
+&lt;<a href="m&#97;ilto:shramko&#37;40rocketmail&#37;2ecom"><em>shramko<abbr title=" at ">&#64;</abbr>rocketmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+<a href="http://www.ruhr-uni-bochum.de/philosophy/logic/" target="other">Heinrich Wansing</a>
+&lt;<a href="m&#97;ilto:Heinrich&#37;2eWansing&#37;40rub&#37;2ede"><em>Heinrich<abbr title=" dot ">&#46;</abbr>Wansing<abbr title=" at ">&#64;</abbr>rub<abbr title=" dot ">&#46;</abbr>de</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

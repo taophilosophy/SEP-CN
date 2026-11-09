@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+George Boole &gt; Examples (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/boole/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/boole/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boole">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">George Boole</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Examples</h2>
+
+<p>Now we look at a selection of examples from Boole&rsquo;s two books to see
+just how his methods work. </p>
+
+<h3 id="Aristotle">Aristotelian Logic</h3>
+
+<p>Boole used the following translations for the categorical
+propositions:</p>
+
+<table class="cellpad-med-dense hrulesTH cell-left centered avoid-break">
+<thead>
+<tr>
+<th colspan="2">Propositions</th>
+<th><em>MAL</em> (1847, p. 26)</th>
+<th><em>LT</em> (1854, p. 64)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>\(A\)</td>
+<td>All \(X\) is \(Y\)</td>
+<td>\(x(1-y) = 0\)</td>
+<td>\(x = vy\)</td>
+</tr>
+
+<tr>
+<td>\(E\)</td>
+<td>No \(X\) is \(Y\)</td>
+<td>\(xy = 0\)</td>
+<td>\(xy = 0\)</td>
+</tr>
+
+<tr>
+<td>\(I\)</td>
+<td>Some \(X\) is \(Y\)</td>
+<td>\(v = xy\)</td>
+<td>\(vx = vy\)</td>
+</tr>
+
+<tr>
+<td>\(O\)</td>
+<td>Some \(X\) is not \(Y\)</td>
+<td>\(v = x(1-y)\)</td>
+<td>\(vx = v(1-y)\)</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+<strong>Example 1.</strong> A conversion by limitation argument:</p>
+
+<table class="cellpad-med-dense hrulesTH cell-left centered avoid-break">
+<thead>
+<tr>
+<th>Argument</th>
+<th><em>MAL</em> (1847, p. 27)</th>
+<th><em>LT</em> (1854, p. 229)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>All \(X\) is \(Y\)</td>
+<td>\(x(1-y) = 0\)</td>
+<td>\(x = vy\)</td>
+</tr>
+
+<tr>
+<td>Some \(Y\) is \(X\)</td>
+<td>\(x = vy\)</td>
+<td>\(vx = vy\)</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+To justify this via the algebra of logic in <em>MAL</em>, Boole
+invoked an argument based on solving \(x(1-y) = 0\) for \(x\).  It
+uses the method of division discussed below: from \(x = 0/(1-y) =
+(0/0)y + (0/1)(1-y)\) one has \(x = vy\). The reader of <em>MAL</em>
+must wait till near the end of the book to learn the details of this
+method.</p>
+
+<p>
+
+In <em>LT</em> Boole simply multiplied the first equation by \(v\) to
+obtain \(vx = vvy = vy\).</p>
+
+<p>
+
+<strong>Example 2.</strong> A categorical syllogism:</p>
+
+<p>
+
+(This example appears in <em>MAL</em>, but with the letters and
+premises rearranged.)</p>
+
+<table class="cellpad-med-dense hrulesTH cell-left centered avoid-break">
+<thead>
+<tr>
+<th>Argument</th>
+<th><em>MAL</em> (1847, p. 34)</th>
+<th><em>LT</em> (1854, p. 231)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>All \(X\) is \(Y\)</td>
+<td>\(x(1-y) = 0\)</td>
+<td>\(x = vy\)</td>
+</tr>
+
+<tr>
+<td>All \(Y\) is \(Z\)</td>
+<td>\(y(1-z) = 0\)</td>
+<td>\(y = v'z\)</td>
+</tr>
+
+<tr>
+<td>All \(X\) is \(Z\)</td>
+<td>\(x(1-z) = 0\)</td>
+<td>\(x = vv'z\)</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+In <em>MAL</em> Boole used a weak elimination procedure (which
+happened to work in this case) to justify this. The full-strength
+elimination procedure, part of the General Method of <em>LT</em>
+described above, would proceed as follows:</p>
+
+<table class="cellpad-med-dense vert-top">
+<tbody>
+<tr>
+<td>\(x(1-y) + y(1-z) = 0\)</td>
+<td>Reduction to a Single Equation</td>
+</tr>
+
+<tr>
+<td>\([x(1-1) + 1(1-z)] [x(1-0) + 0(1-z)] = 0\)</td>
+<td>Eliminate \(y\)</td>
+</tr>
+
+<tr>
+<td>\((1-z)x = 0\)</td>
+<td>Simplify (ordinary algebra)</td>
+</tr>
+
+<tr>
+<td>\(x(1-z) = 0\)</td>
+<td>Commute (ordinary algebra)</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+In Chapter XV of <em>LT</em> Boole first gave a quick proof by simply
+substituting to obtain \(x = v(v'z) = vv'z\), a secondary form he used
+to express &ldquo;All \(X\) is \(Z\)&rdquo;. Then he stated a general
+result designed to cover all syllogisms, justified by applying his
+General Method. Boole did not give full details of a proof of this
+general result, which are rather demanding. Here are the details for
+how one applies Boole&rsquo;s General Method to this particular
+example.</p>
+
+<table class="cellpad-med-dense vert-top">
+<tbody>
+<tr>
+<td>\((x-vy)^2 + (y-v'z)^2 = 0\)</td>
+<td>Reduction to a Single Equation</td>
+</tr>
+
+<tr>
+<td>\([(x -v)^2 + (1-v'z)] [x + v'z]  = 0\)</td>
+<td>Eliminate \(y\)</td>
+</tr>
+
+<tr>
+<td>\((2 - v - v'z)x = 0\)</td>
+<td>Simplify (ordinary algebra + idempotent law)</td>
+</tr>
+
+<tr>
+<td>\(x = (0/0)vv'z\)</td>
+<td>Solve for \(x\) by division</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+So the conclusion equation would look like \(x = wvv'z\), instead of
+\(x = vv'z\) as given above.</p>
+
+<p>
+
+<strong>Example 3.</strong> A hypothetical syllogism (the
+constructive conditional syllogism):</p>
+
+<table class="cellpad-med-dense hrulesTH cell-left centered avoid-break">
+<thead>
+<tr>
+<th>Argument</th>
+<th><em>MAL</em> (1847, p. 56)</th>
+<th><em>LT</em> (1854)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>If \(X\) then \(Y\)</td>
+<td>\(x(1-y) = 0\)</td>
+<td>&mdash;</td>
+</tr>
+
+<tr>
+<td>\(X\)</td>
+<td>\(x = 1\)</td>
+<td>&mdash;</td>
+</tr>
+
+<tr>
+<td>\(Y\)</td>
+<td>\(y = 1\)</td>
+<td>&mdash;</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+The ad hoc justification is: just substitute \(x = 1\) into the first
+equation.</p>
+
+<p>
+Using the General Method of <em>LT</em> from Section 6.2 one has:</p>
+
+<table class="cellpad-med-dense vert-top">
+<tbody>
+<tr>
+<td>\(x(1-y) + (1-x) = 0\)</td>
+<td>Reduction to a Single Equation</td>
+</tr>
+
+<tr>
+<td>\(1-xy = 0\)</td>
+<td>Simplify (ordinary algebra)</td>
+</tr>
+
+<tr>
+<td>\(1(1-y) = 0\)</td>
+<td>Eliminate \(x\)</td>
+</tr>
+
+<tr>
+<td>\(y = 1\)</td>
+<td>Simplify (ordinary algebra)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+<strong>Example 4.</strong> Another hypothetical syllogism (the
+non&ndash;exclusive disjunctive syllogism):</p>
+
+<table class="cellpad-med-dense hrulesTH cell-left centered avoid-break">
+<thead>
+<tr>
+<th>Argument</th>
+<th><em>MAL</em> (1847, p. 56)</th>
+<th><em>LT</em> (1854, p. 169,170)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>\(X\) or \(Y\) is true</td>
+<td>\(x + y - xy = 1\)</td>
+<td>\(x(1-y) + y(1-x) = 1\)</td>
+</tr>
+
+<tr>
+<td>\(X\) is false</td>
+<td>\(x = 0\)</td>
+<td>\(x = 0\)</td>
+</tr>
+
+<tr>
+<td>\(Y\) is true</td>
+<td>\(y = 1\)</td>
+<td>\(y = 1\)</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+(Boole did not state this particular example in <em>LT</em>; the
+right column above gives the algebraic translations in <em>LT</em> of
+the propositions on the left.)</p>
+
+<h3 id="substantial">A substantial example from <em>LT</em></h3>
+
+<p>The following example in Chapter VII of <em>LT</em> (pp.
+106&ndash;112) gives a better illustration of the workings of
+the General Method. Boole considered the following definition of
+wealth [<em>LT</em> p. 106]: </p>
+
+<blockquote>Wealth consists of things transferable, limited in
+supply, and either productive of pleasure or preventive of
+pain.</blockquote>
+
+<p>
+Then he used the following symbols to denote the 5 classes in this
+proposition:</p>
+
+<table class="cellpad-med-dense hrulesTH cell-left centered avoid-break">
+<thead>
+<tr><th>Symbol</th><th>Proposition</th></tr>
+</thead>
+<tbody>
+<tr><td>\(W\)</td>
+    <td>the class of things that constitute wealth</td></tr>
+<tr><td>\(T\)</td>
+    <td>the class of things that are transferable</td></tr>
+<tr><td>\(S\)</td>
+    <td>the class of things that are limited in supply</td></tr>
+<tr><td>\(P\)</td>
+    <td>the class of things that are productive of pleasure</td></tr>
+<tr><td>\(R\)</td>
+    <td>the class of things that are preventitive of pain.</td></tr>
+</tbody>
+</table>
+
+<p>
+He put the above definition of wealth in equational form [<em>LT</em>
+p. 106]: </p>
+
+\[
+w = st(p + r(1-p))
+\]
+
+<p>Six questions were posed and answered by Boole, the first two being: </p>
+
+<p>
+
+1. &ldquo;What is the expression for \(w\) in terms of \(p, s\) and
+\(t\) after eliminating \(r\)?&rdquo; [<em>LT</em> pp. 106&ndash;107,
+112]</p>
+
+<p>
+
+2. &ldquo;What is the expression for \(s\) in terms of \(w, p\) and
+\(t\) after eliminating \(r\)?&rdquo; [<em>LT</em>
+pp. 107&ndash;110]</p>
+
+<p>
+
+Boole answered these two as follows, where intermediate steps that
+Boole skipped over have been added &mdash; an asterisk (*) follows each
+equation that is stated exactly as in <em>LT</em>:</p>
+
+<table class="cellpad-med-dense vert-top">
+<tbody>
+<tr>
+<td>1.</td>
+<td>\(w - st (p + r- rp ) = 0\)</td>
+<td>(*) write premiss as: <em>something</em> \( = 0\)</td>
+</tr>
+
+<tr>
+<td>2.</td>
+<td>\((w - st ) (w - stp ) = 0\)</td>
+<td>(*) eliminate \(r\) in 1</td>
+</tr>
+
+<tr>
+<td>3.</td>
+<td>\(w^2 - wstp -stw + s^2 t^2 p = 0\)</td>
+<td>Multiply out 2</td>
+</tr>
+
+<tr>
+<td>4.</td>
+<td>\(w - wstp - wst + stp = 0\)</td>
+<td>(*) Simplify 3</td>
+</tr>
+
+<tr>
+<td>5.</td>
+<td>\((1 - st)w + pst(1-w) = 0\)</td>
+<td>(*) expand 4 with respect to \(w\)</td>
+</tr>
+
+<tr>
+<td>6.</td>
+<td>\((1 - st)w = 0\), and \(pst(1-w) = 0\)</td>
+<td>(*) terms in 5 are disjoint</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+Boole translated 6 as:</p>
+
+<blockquote>Wealth is limited in supply and transferable, and
+that which is productive of pleasure and limited in supply and
+transferable is wealth.</blockquote>
+
+<table class="cellpad-med-dense vert-top">
+<tbody>
+<tr>
+<td>7.</td>
+<td>\(w(1 - st - stp) + stp = 0\)</td>
+<td>from 4, by ordinary algebra</td>
+</tr>
+
+<tr>
+<td>8.</td>
+<td>\(w = stp/(st+stp - 1) = stp + (0/0)st(1- p)\)</td>
+<td>solve 7 for \(w\) by division</td>
+</tr>
+</tbody>
+</table>
+
+<p>Boole translated 8 as: </p>
+
+<blockquote>Wealth consists of all things limited in supply,
+transferable, and productive of pleasure, and an indefinite remainder
+of things limited in supply, transferable, and not productive of
+pleasure.</blockquote>
+
+<table class="cellpad-med-dense vert-top avoid-break">
+<tbody>
+<tr>
+<td>9.</td>
+<td>\(s = w/(wt + wtp - tp) =\) \(wtp + wt(1- p)\ +\) 
+\((1/0)w(1-t)p\ +\) \((1/0)w(1- t)(1- p)\ +\) 
+\(0(1-w)tp\ +\) \((0/0)(1- w)t(1-p)\ +\)
+\((0/0)(1-w)(1-t)p\ +\) \((0/0)(1-w)(1-t)(1-p)\)
+</td>
+<td>(*) finish division process</td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+  \(0 = w(1-t)p\)
+  <br />
+  \(0 = w(1-t)(1-p)\)
+</td>
+<td>(*) 2 side conditions</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+Boole translated the expression for \(s\) and the two side conditions of
+9 as:</p>
+
+<blockquote>All wealth transferable and productive of
+pleasure&mdash;all wealth transferable, and not productive of
+pleasure,&mdash;an indefinite amount of what is not wealth, but is
+either transferable, and not productive of pleasure, or intransferable
+and productive of pleasure, or neither transferable nor productive of
+pleasure.</blockquote>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2026</a> by
+
+<br />
+<a href="http://www.math.uwaterloo.ca/~snburris/" target="other">Stanley Burris</a>
+<br />
+Marcel Jackson
+&lt;<a href="m&#97;ilto:m&#37;2eg&#37;2ejackson&#37;40latrobe&#37;2eedu&#37;2eau"><em>m<abbr title=" dot ">&#46;</abbr>g<abbr title=" dot ">&#46;</abbr>jackson<abbr title=" at ">&#64;</abbr>latrobe<abbr title=" dot ">&#46;</abbr>edu<abbr title=" dot ">&#46;</abbr>au</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Proof Theory &gt; B. Turing&rsquo;s and Feferman&rsquo;s Results on Recursive Progressions (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/proof-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/proof-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Proof Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>B. Turing&rsquo;s and Feferman&rsquo;s Results on Recursive Progressions</h2>
+
+<p>
+We will give a proof of Turing&rsquo;s completeness
+ <a href="index.html#Theorem1">Theorem 5.2</a>
+ to be able to discuss its scope. Moreover, we shall also look at
+Feferman&rsquo;s much stronger result about progressions based on the
+uniform reflection principle. As to the hierarchies that have been
+studied most frequently, please refer to
+ <a href="index.html#InfiProoForPredTheo">section 5.2</a>. The existence of
+primitive recursive functions \(n\mapsto \psi_n\) in the definition of
+the different progressions is an easy consequence of the primitive
+recursion
+ theorem.<sup>[<a href="notes.html#note-49" id="ref-49">49</a>]</sup>
+ If all axioms of <b>T</b> a true (in the standard model) it can be
+shown for all \(a\in \cO\) by transfinite induction on
+\(\left|a\right|\) that \(\bT_a\) is a true theory (in a sufficiently
+strong metatheory). For numbers <i>a</i> outside \(\cO\) the theories
+\(\bT_a\) bear no interest. They may actually be inconsistent. For
+example, the recursion theorem ensures that there exists an <i>e</i>
+such that \(\{e\}(0)=\rsuc(\rlim(e))\). As \(\bT_{\{e\}(0)} \subseteq
+\bT_{\rlim(e)}\) and \(\bT_{\{e\}(0)}\) proves the consistency of
+\(\bT_{\rlim(e)}\), both theories are inconsistent.</p>
+
+<p>
+Recall that Turing&rsquo;s completeness result,
+ <a href="index.html#Theorem1">Theorem 5.2</a>,
+ asserts that for any true \(\Pi^0_1\) sentence \(\phi\) a number
+\(a_{\phi}\in{\cO}\) with \({\left| a_{\phi}\right|}=\omega+1\) can be
+constructed such that \(\bT_{a_{\phi}}\vdash \phi\). Moreover, the
+function \(\phi\mapsto a_{\phi}\) is primitive recursive. The proof
+proceeds as follows: Let \(\theta\) be \(\forall x\,\psi(x)\) with
+\(\psi\) primitive recursive. Define <i>e</i> by the recursion theorem
+such that, provably in <strong>PA</strong>, </p> 
+
+\[{\{e\}(n)} = \left\{ \begin{array}{ll} n_{\cO} &amp; \textrm{if } \psi(\bar{k}) \textrm{ is true for every } k\leq n
+\\ \rsuc(\rlim(e)) &amp;\textrm{otherwise.}
+\end{array}\right.\]
+
+<p>
+Note that \(\{e\}\) is total (by induction on <i>n</i>). As \(\theta\)
+is true, we have \({\{e\}(n)}=n_{{\cO}}\) for all <i>n</i>. Thus
+\({\rlim}(e)\) belongs to \({\cO}\) and
+\(\left|{\rlim}(e)\right|=\omega\). We claim that the consistency of
+\(\bT_{{\rlim}(e)}\) entails that \(\theta\) is true. For if
+\(\theta\) were false we would have \(\neg\psi(\bar{m})\) for some
+<i>m</i> and thus \(\bT_{{\{e\}(n)}}=\bT_{{\rsuc}({\rlim}(e))}\) for
+all \(n\geq m\). But, by design, \(\bT_{{\rsuc}({\rlim}(e))}\) proves
+the consistency of \(\bT_{{\rlim}(e)}\) and \(\bT_{{\{e\}(n)}}\) is a
+subtheory of \(\bT_{{\rlim}(e)}\) for all <i>n</i>. Thus
+\(\bT_{{\rlim}(e)}\) would prove its own consistency, rendering it
+inconsistent (by G&ouml;del&rsquo;s second incompleteness theorem).
+The foregoing reasoning can be formalized in <strong>PA</strong> and a
+fortiori in \(\bT_{{\rsuc}({\rlim}(e))}\). As a result,
+\(\bT_{{\rsuc}({\rlim}(e))}\vdash \theta\).</p>
+
+<p>
+This proof is based on the trick of coding the truth of \(\theta\) as
+a member of \({\cO}\). It shows that the infinitely many iterated
+consistency axioms \(\Con (\bT_0),\Con (\bT_1),\ldots\) of
+\(\bT_{{\rsuc}({\rlim}(e))}\) play no role in proving \(\theta\). The
+reason why one has to go to stage \(\omega+1\) is simply that only at
+stage \(\omega\) a non-standard definition of the axioms of
+\(\bigcup_{n&lt;\omega}\bT_n\) can be introduced. And actually a
+non-standard definition of the axioms of \(\bT_0\) would serve the
+same purpose. Setting \(\vartheta(v_0):\Leftrightarrow \psi(v_0)
+\lor(\exists x\,\neg\psi(x)\land v_0={\Corner{0=1}})\), the theory
+\(\bT_0'\) defined by the \(\Sigma^0_1\)-formula \(\vartheta\) has
+the same axioms as \(\bT_0\), but the consistency of \(\bT_0'\)
+implies \(\theta\) (provably so in <strong>PA</strong>). Also note
+that epistemologically recognizing that \({{\rsuc}({\rlim}(e))}\) is
+in \({\cO}\) hinges on us knowing that \(\theta\) is true, and hence
+nothing is gained by further knowing that
+\(\bT_{{\rsuc}({\rlim}(e))}\vdash \theta\).</p>
+
+<p>
+The proof of the
+ <a href="index.html#Theorem1">Theorem 5.2</a>
+ works with any consistency progression. Turing actually considered
+slightly stronger progressions in that he used a special version of
+local reflection progressions, where (R2) is restricted to
+\(\Pi^0_2\)-sentences, i.e., sentences of \(\forall\exists\) form with
+primitive recursive matrix. He took as one of his main aims to show
+that these progressions are complete for \(\Pi^0_2\)-sentences.
+However, this is not the case as we have shown.</p>
+
+<div class="indent" id="theorem2">
+
+<p>
+<span class="bold">Theorem B.1</span> Let \((\bT_a)_{a\in{\cO}}\) be a
+progression based on the local reflection principle. Then the
+following hold:</p>
+
+<ol type="i">
+
+<li>\(\bigcup_{a\in{\cO}} \bT_a \subseteq \bT_0+\) all true
+\(\Pi^0_1\)-sentences.</li>
+
+<li>There is a true \(\Pi^0_2\)-sentence that is not provable in
+\(\bigcup_{a\in{\cO}} \bT_a\).</li>
+</ol>
+</div>
+
+<div class="indent">
+
+<p>
+<strong>Proof</strong>: Let \(\bT^*:= \bT_0+\mbox{all true
+$\Pi^0_1$-sentences}\).</p>
+
+<ol type="i">
+
+<li> We show by induction on \(a\in{\cO}\) that \(\bT_a\subseteq
+\bT^*\). Only the successor step needs to be looked at. So suppose
+\(a={\rsuc}(b)\) and \(\bT_b\subseteq \bT^*\). It suffices to show
+that \(\bT^*\vdash \sfPr_{\bT_b}({\Corner{\phi}})\to \phi\) holds for
+every sentence \(\phi\). There are two cases to consider. If
+\(\sfPr_{\bT_b}({\Corner{\phi}})\) is false then \(\neg
+\sfPr_{\bT_b}({\Corner{\phi}})\) is a true \(\Pi^0_1\)-sentence and
+hence \(\bT^*\vdash \neg \sfPr_{\bT_b}({\Corner{\phi}})\) which
+entails \(\bT^*\vdash \sfPr_{\bT_b}({\Corner{\phi}})\to \phi\). If
+\(\sfPr_{\bT_b}({\Corner{\phi}})\) is true then \(\bT_b\vdash \phi\)
+and, by the induction hypothesis, \(\bT^*\vdash \phi\) which also
+yields \(\bT^*\vdash \sfPr_{\bT_b}({\Corner{\phi}})\to \phi\).</li>
+
+<li>The provability predicate for \(\bT^*\) is of complexity
+\(\Sigma^0_2\). If \(\bigcup_{a\in{\cO}} \bT_a\) proved all true
+\(\Pi^0_2\)-sentences then \(\bT^*\) would be \(\Pi^0_2\)-complete.
+But that is absurd on account of the arithmetical hierarchy
+theorem.</li>
+</ol>
+
+</div>
+
+<p>
+The problem left open after Turing&rsquo;s thesis, namely whether any
+stronger progressions can be complete for \(\Pi^0_2\)-statements, was
+addressed by Feferman (1962) with the surprising result that
+progressions based on the uniform reflection principle were not only
+complete with respect to \(\Pi^0_2\)-sentences but for all
+arithmetical sentences.</p>
+
+<div class="indent" id="theorem3">
+
+<p>
+<span class="bold">Theorem B.2 (Feferman&rsquo;s completeness theorem
+1962)</span> Let \((\bT_a)_{a\in{\cO}}\) be a progression based on the
+uniform reflection principle with \(\bT_0=\PA\).</p>
+
+<p>
+For any true arithmetical sentence \(\theta\) there exists
+\(a\in{\cO}\) such that \(\bT_a\vdash \theta\). Moreover,
+\(a\in{\cO}\) can be chosen such that \(\left|a\right|
+&lt;\omega^{\omega^{\omega+1}}\).</p>
+</div>
+
+<p>
+In contrast to Turing&rsquo;s result,
+ <a href="index.html#Theorem1">Theorem 5.2</a>,
+ the proof of
+ <a href="#theorem3">B.2</a>
+ is rather difficult; it also utilizes a theorem from Shoenfield 1959
+stating that Peano arithmetic with the recursive \(\omega\)-rule is
+complete for arithmetical
+ statements.<sup>[<a href="notes.html#note-50" id="ref-50">50</a>]</sup>
+ However, as far as mathematical knowledge is concerned, the same
+circularity as in Turing&rsquo;s completeness theorem obtains in
+ <a href="#theorem3">Theorem B.2</a>
+ in that recognizing an \(a\in{\cO}\) with \(\bT_a\vdash \psi\) is at
+least as hard as recognizing that \(\psi\) is true. The starting point
+for constructing such an \(a\in{\cO}\) therefore is the truth of
+\(\psi\) and as in Turing&rsquo;s theorem one proceeds to cook up
+<i>a</i> via an application of the primitive recursion theorem, albeit
+this time a very intricate one.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="https://eps.leeds.ac.uk/maths/staff/4073/professor-michael-rathjen" target="other">Michael Rathjen</a>
+&lt;<a href="m&#97;ilto:rathjen&#37;40maths&#37;2eleeds&#37;2eac&#37;2euk"><em>rathjen<abbr title=" at ">&#64;</abbr>maths<abbr title=" dot ">&#46;</abbr>leeds<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+Wilfried Sieg
+&lt;<a href="m&#97;ilto:sieg&#37;40cmu&#37;2eedu"><em>sieg<abbr title=" at ">&#64;</abbr>cmu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

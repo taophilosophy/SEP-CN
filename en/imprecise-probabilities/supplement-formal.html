@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Imprecise Probabilities &gt; Formal appendix (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/imprecise-probabilities/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/imprecise-probabilities/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=imprecise-probabilities">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Imprecise Probabilities</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2><a id="ForApp">Formal appendix</a></h2>
+
+<p>Some formal machinery was introduced
+in <a href="index.html#SumTer">section 1.1</a>. Refer back to that
+section for definitions. Recall that the objects of belief are an
+algebra of subsets of some set of
+states \(\Omega\).</p>
+
+<!--Entry Contents-->
+   <ul>
+   <li><a href="#ProStrBel">1. Properties of strength of belief</a></li>
+   <li><a href="#BetJusIP">2. The betting justification of IP</a></li>
+   <li><a href="#LowProCreSet">3. From lower probabilities to credal sets</a></li>
+</ul>
+<!--Entry Contents-->
+<hr/>
+
+<h3><a id="ProStrBel">1. Properties of strength of belief</a></h3>
+
+<p>We are interested in <em>strength of belief</em> and thus in some
+sort of graded notion of belief. One straightforward and popular way
+to represent strength of belief is with a function that maps the
+objects of belief to real numbers: bigger numbers represent more
+strongly believed sentences. Let&rsquo;s consider a
+function, \(b\), from subsets
+of \(\Omega\) to real numbers. In this section
+I outline a few properties we might want these numerical
+representations of belief to satisfy <span class="citation">(see also
+Huber 2014)</span>.</p>
+
+<p>By convention, let \(b(\Omega) = 1\)
+and \(b(\emptyset) = 0\). It seems reasonable
+to suppose that your beliefs in other sentences are bounded above and
+below by these expressions: it would be odd if there were something
+you believed more strongly than the necessary event, or less strongly
+than the impossible event. Call this
+property&mdash;\(b(\emptyset) \le b(X) \le
+b(\Omega)\) for
+all \(X\)&mdash;<em>boundedness</em>.</p>
+
+<p>If \(X\) is always true
+whenever \(Y\) is, then it seems sensible to
+require that you believe \(X\) at least as
+much as you do \(Y\). Call this
+property&mdash;if \(Y \subseteq X\)
+then \(b(Y)\le
+b(X)\)&mdash;<em>monotonicity</em>.</p>
+
+<p>Consider the following property: If \(X\)
+and \(Y\) are
+incompatible&mdash;if \(X \cap Y =
+\emptyset\)&mdash;then \(b(X\cup Y) \ge b(X) +
+b(Y)\). This property is called <em>superadditivity</em>. If the
+&ldquo;\(\ge\)&rdquo; is replaced by a
+&ldquo;\(\le\)&rdquo; we have the property
+of <em>subadditivity</em>.</p>
+
+<p>A slight strengthening of superadditivity gives
+us <em>2-monotone</em>: \(b(X \cup Y) \ge b(X) +
+b(Y) - b(X \cap Y)\). It is straightforward to show that this
+entails superadditivity, and only a little more work to show that the
+converse is false.</p>
+
+<p>A further strengthening of this idea is <em>n-monotone</em>. This
+is slightly more complicated than the previous ones.</p>
+
+\[
+b\left(\bigcup_{i=1}^{n}X_i\right) \ge \sum_{i=1}^{n}
+ \sum_{I\subseteq \{1,\ldots,n\},\mid I\mid =i} (-1)^{i+1_b}
+ \left(\bigcap_{j\in I} X_j\right)
+\]
+
+<p>Let&rsquo;s break this down. On the left hand side, we are constraining
+belief in unions of \(n\) events. How are we
+constraining them? Look at the inner summation on the right hand
+side. This is the sum of all the \(i\)-event
+intersections. If \(i\) is even, we take each
+of these away, if \(i\) is odd, we add
+them. The outer sum ranges over \(i\). So we
+add the one member intersections, take away the two element
+intersections, add the three element intersections, and so on up
+to \(n\). If \(n=2\)
+then we have exactly the formula we had above for
+2-monotone. If \(b\)
+is \(n\)-monotone, then it
+is \((n-1)\)-monotone. If \(b\)
+is \(n\)-monotone for
+all \(n\), then \(b\)
+is called <em>infinite monotone</em> or <em>totally monotone</em>.</p>
+
+<p>One final property is <em>additivity</em> which results from
+replacing the inequality in the description of superadditivity with an
+equality: if \(X\)
+and \(Y\) are incompatible,
+then \(b(X\cup Y) = b(X) + b(Y)\). A bounded,
+monotonic function on an algebra of events is called
+a <em>capacity</em>. A bounded, infinite monotone function on an
+algebra of events is called a <em>belief function</em>. A bounded,
+additive function on an algebra of events is a <em>probability
+function</em>. Belief functions and capacities represent one way of
+going beyond orthodox probability theory.</p>
+
+<p>One might want to move beyond orthodox probability theory by
+relaxing the constraint that degree of belief be represented by
+a <em>real valued</em> function. One might instead take belief to be
+represented by a function that maps events to <em>intervals</em> of
+the real line, or to <em>sets</em> of real
+numbers <span class="citation">(Weichselberger 2000)</span>. These
+approaches can, to some extent, be subsumed under the more general way
+of thinking about imprecise belief using sets of probabilities that we
+encountered in <a href="index.html#SumTer">section 1.1</a>, where your credal
+state is represented by a set of probability
+functions \(P\). Recall that your <em>lower
+envelope</em> of \(X\)
+is: \(\underline{P}(X)=\inf P(X)\); and
+your <em>upper envelope</em>
+is \(\overline{P}(X)=\sup
+P(X)\). \(\underline{P}\) is a
+superadditive capacity, \(\overline{P}\) is a
+subadditive capacity.</p>
+
+<p>This brief survey doesn&rsquo;t come close to mapping out the whole range
+of possible representations of uncertainty <span class="citation">(but
+see Halpern 2003; Haenni et al. 2011; Augustin et al. 2014; Huber
+2014)</span> There is, however, a philosophical tradition that puts
+sets of probabilities and belief functions foremost, and this article
+is primarily about that tradition. Credal sets are also a very general
+theory that subsumes many of the other representations. So in what
+follows the discussion will be in terms of sets of probability
+functions.</p>
+
+<p>One might wonder whether taking representors to be sets
+of <em>conditional probabilities</em> as the basic item might not be a
+better way to do things. <span class="citation">H&aacute;jek
+(2003)</span> argues that conditional probabilities should be taken to
+be the basic entity, and unconditional probabilities should be defined
+out of them. In what follows, this point won&rsquo;t really make any
+difference, so I will continue to talk mostly of unconditional
+probabilities. Bear in mind that these are &ldquo;really&rdquo;
+conditional probabilities conditioned on the tautology.</p>
+
+<h3><a id="BetJusIP">2. The betting justification of IP</a></h3>
+
+<p>Bruno de Finetti justified that your degrees of belief should have
+the structure of a probability function in the following way. Belief
+is understood as a summary of your attitudes to gambles. That is,
+belief is what determines your dispositions to choose among bets, and
+thus determines your betting behaviour. He showed that if you satisfy
+some reasonable constraints on how your attitudes to gambles are
+structured, then your degrees of belief are, in a certain sense,
+probabilistic <span class="citation">(de Finetti 1964; 1990
+[1974])</span>.</p>
+
+<p>The insight behind de Finetti&rsquo;s approach was that your attitudes to
+how likely various events are could be read off your attitudes to
+gambles. Recall that gambles are bounded real valued functions
+(<span class="citation">Troffaes and de Cooman (2014)</span> extend
+the theory to unbounded gambles). Of particular interest are the
+indicator functions that output 1 if the proposition in question is
+true and 0 otherwise.</p>
+
+<p>De Finetti essentially appealed to the claim that if you are
+unwilling to buy a bet at a particular price, you must be happy to
+sell the bet for that price. This was one of his criteria of
+&ldquo;coherence&rdquo;. C.A.B. Smith questioned this
+assumption <span class="citation">(Smith 1961)</span> and Peter Walley
+built an extremely powerful and rich theory on the basis of these
+insights <span class="citation">(Walley 1991)</span>. For a self-contained summary of this "lower previsions" approach, see <span class="citation">Miranda (2008)</span>.
+For a modern book-length treatment of the theory see <span class="citation">Troffaes and de Cooman (2014)</span>.</p>
+
+<p>There&rsquo;s quite a lot of set up required here, but the punchline is
+worth it. If we assume that you are neither risk seeking
+nor risk averse, and that the gambles are denominated in some currency
+such that your utility is linear in that currency, then your attitude
+about the contingencies can be read off your attitude about gambles in
+a straightforward way. Before we explain this, we add some structure
+to the set of gambles. This presentation
+follows <span class="citation">Quaeghebeur
+(2014)</span>. Call \(\mathcal{L}\) the set of
+bounded real valued functions
+on \(\Omega\). If \(f,g\in
+\mathcal{L}\) are gambles, then so is their &ldquo;pointwise
+sum&rdquo; \((f+g)(\omega) =
+f(\omega)+g(\omega)\) for
+all \(\omega\). For a real
+number \(\lambda\),
+if \(f\) is a gamble then so
+is \((\lambda f)(\omega) = \lambda f(\omega)\)
+for all \(\omega\). Let real
+number \(\lambda\) stand also for the constant
+gamble that pays
+out \(\lambda\): \(\lambda(\omega)
+= \lambda\) for all \(\omega\).</p>
+
+<p>Consider the set of desirable
+gambles \(D\). These are gambles that you
+would be willing to accept if they were offered to you. Which gambles
+you would willingly accept reflects your opinions in the following
+way, the more you would be willing to pay for a
+gamble \(f\), the more likely you consider the
+contingencies where \(f\) gets you a good
+prize. Consider the indicator function \(I_X\)
+for an event \(X\). This is the function that
+outputs 1 if \(\omega\) is
+in \(X\) and 0 otherwise. The more you would
+be willing to pay for the gamble \(I_X\), the
+more likely you take \(X\) to be. In what
+follows I will use \(X\) interchangeably for
+the event and its indicator function. Being willing to
+pay \(\alpha\) for the
+gamble \(f\) is the same as finding the
+gamble \(f-\alpha\) acceptable. Consider the
+following function: \(\underline{E}(f) =
+\sup\{\alpha \in \mathbb{R}, f-\alpha \in D\}\). Call this your
+&ldquo;lower prevision&rdquo; for \(f\). That
+is, your lower prevision for the gamble \(f\)
+is the largest amount you would pay to receive the
+gamble \(f\). We can also
+define \(\overline{E}(f) = \inf\{\alpha
+\in\mathbb{R}, \alpha - f \in D\}\): the smallest amount you&rsquo;d
+be willing to sell the gamble \(f\) for. These
+two functions are <em>conjugate</em> in the sense
+that \(\underline{E}(f) = -
+\overline{E}(-f)\). We will be particularly interested in lower
+previsions of indicator functions: these directly reflect how likely
+you think the event in question
+is. \(X-\alpha\) is effectively a unit bet
+on \(X\) that costs
+you \(\alpha\). De Finetti focussed on the
+case where if \(f-\alpha \notin D\)
+then \(\alpha - f \in D\) for
+all \(f\) and
+all \(\alpha\). Then \(\underline{E}(f)
+= \overline{E}(f)\) and we can describe this number&mdash;call
+it \(E(f)\)&mdash;as your &ldquo;fair
+price&rdquo; for the gamble \(f\). It&rsquo;s the
+price that makes you indifferent between buying and selling
+gamble \(f\). <span class="citation">Smith
+(1961)</span> allowed your fair selling price and your fair buying
+price to differ.</p>
+
+<p>Here&rsquo;s how we now proceed. We describe some reasonable
+&ldquo;coherence constraints&rdquo; on sets of desirable gambles, and
+then describe what structure such constraints put
+on \(\underline{E}\). \(D\)
+should be closed under addition. That is,
+if \(f,g\in D\) then \(f +
+g\in D\). Or, more succinctly, \(D + D
+\subseteq D\). \(D\) should also be
+closed under multiplication by a positive
+constant \(\lambda &gt;0\):
+if \(f\in D\) then \(\lambda
+f \in D\), or more succinctly \(\lambda D =
+D\). Call \(\mathcal{L}^+\) the set of
+gambles that are always positive, that
+is \(f\in\mathcal{L}^+\)
+iff \(f(\omega) &gt; 0\) for
+all \(\omega\). Likewise \(\mathcal{L}^-\)
+is the set of everywhere negative gambles. Our third condition is that
+always positive gambles should be
+in \(D\): \(\mathcal{L}^+
+\subseteq D\). And fourth, no always negative gambles should be
+in \(D\): \(\mathcal{L}^-
+\cap D = \emptyset\).</p>
+
+<p>Now, \(D\) is a coherent set of
+gambles&mdash;i.e., it satisfies the above four properties&mdash;if
+and only if \(\underline{E}\) has the
+following structure:</p>
+
+<ul>
+
+<li>\(\underline{E}(f) \ge
+ \inf_{\Omega} \{f(\omega), \omega\in\Omega\}\)</li>
+
+<li>\(\underline{E}(f+g) \ge \underline{E}(f) +
+ \underline{E}(g)\)</li>
+
+<li>if \(\lambda &gt;0\) then
+ \(\underline{E}(\lambda f) = \lambda \underline{E}(f)\)</li>
+
+</ul>
+
+<p>Call a lower prevision coherent if and only if it satisfies these
+properties. Call a set of
+gambles \(D\) <em>maximal</em>
+when \(f\in D\)
+iff \(-f\notin D\) for
+all \(f\neq
+0\). \(\underline{E} = \overline{E}\)
+iff \(D\) is coherent and maximal. The above
+is, strictly speaking, not quite true. There are some subtleties about
+topological properties of sets of desirable gambles&mdash;whether bets
+on the boundary of \(D\) are
+in \(D\)&mdash;that preclude the link being
+quite this straightforward, but these need not detain
+us <span class="citation">(Quaeghebeur
+2014)</span>. When \(\underline{E} =
+\overline{E}\), we call this
+function, \(E\), a <em>linear prevision</em>
+because such previsions satisfy the following properties:</p>
+
+<ul>
+
+<li>\(E(f) \ge \inf_{\Omega} \{f(\omega),
+ \omega\in\Omega\}\)</li>
+
+<li>\(E(f+g) = E(f) + E(g)\)</li>
+
+<li>and therefore \(E(\lambda f) =
+ \lambda E(f)\) for all \(\lambda \in\mathbb{R}\)</li>
+
+</ul>
+
+<p>Now, here is the punchline: if we restrict attention to linear
+previsions of indicator functions, we get exactly the probability
+functions! (De Finetti didn&rsquo;t use the &ldquo;sets of desirable
+gambles&rdquo; approach to coherence, but rather something almost
+equivalent to it, see <span class="citation">Quaeghebeur (2014)</span>
+and <span class="citation">Miranda and de Cooman (2014)</span> for
+details). The same move in the case of lower
+previsions&mdash;restricting attention to indicator
+functions&mdash;yields lower probabilities. As well as Smith,
+P.M. Williams was another author to consider weakening de Finetti&rsquo;s
+requirement in 1975, although the paper was published only in
+2007 <span class="citation">(Williams 2007; Vicig, Zaffalon, and
+Cozman 2007)</span>. Building on Smith&rsquo;s and Williams&rsquo;
+insight, <span class="citation">Walley (1991)</span> builds a rich and
+sophisticated theory of statistical inference on lower previsions and
+lower probabilities. See <span class="citation">Augustin et
+al. (2014)</span> for a modern introduction to IP,
+and <span class="citation">Vicig and Seidenfeld (2012)</span> for a
+more careful discussion of the history of IP. Because of the conjugacy
+of the upper and lower
+probabilities&mdash;because \(\underline{P}(X) =
+1-\overline{P}(\neg X)\)&mdash;the lower probability tells us
+all we need to know about your belief state. In fact,
+coherent \(\underline{P}\)
+and \(\overline{P}\) are related as described
+in Figure F1 <span class="citation">(Walley 1991: 84 ff)</span>.</p>
+
+<div class="figure" id="fig5">
+<img src="diagram.png" width="400" alt="[complex diagram consisting of 9 expressions (which we'll give letters R-Z to though the diagram doesn't use them) on 5 levels.  
+On the highest level the expressions are '\overline{P}(A) + \overline{P}(B)' [R] and '\overline{P}(A \cup B) + \overline{P}(A\cap B)' [S].
+On the second level down is '\overline{P}(A\cup B) + \underline{P}(A\cap B)' [T].
+On the third level down is '\underline{P}(A)+\overline{P}(B)' [U] and '\underline{P}(A\cup B)+\overline{P}(A\cap B)' [V].
+On the fouth level down is '\underline{P}(A\cup B)+\underline{P}(A\cap B)' [W] and '\overline{P}(A\cup B)' [X].
+On the lowest level is '\underline{P}(A)+\underline{P}(B)' [Y] and '\underline{P}(A\cup B)' [Z].
+Solid arrows go from [R] to [T], [R] to [V], [S] to [U], [T] to [Y], [U] to [W], and [V] to [Y].
+Dotted arrows go from [R] to [U], [S] to [V], [S] to [T], [T] to [W], [T] to [X], [V] to [W], [U] to [Y], [W] to [Z], and [X] to [Z].
+ ]"/>
+<p class="center"><span class="figlabel">Figure F1:</span> Relationships between upper and lower probabilities</p>
+</div>
+
+<p>An arrow between two expressions means that the higher one is
+greater than or equal to the lower one. The solid lines highlight the
+nontrivial inequalities. If \(A\)
+and \(B\) are incompatible, it is clear that
+this tangle of inequalities simplifies to: \[
+
+\overline{P}(A) + \overline{P}(B) \ge
+\overline{P}(A\cup B) \ge
+\overline{P}(A) + \underline{P}(B) \ge
+\underline{P}(A\cup B) \ge
+\underline{P}(A) + \underline{P}(B) 
+\]
+</p>
+
+
+
+<h3><a id="LowProCreSet">3. From lower probabilities to credal sets</a></h3>
+
+<p>
+
+To see how the above foundation relates to the credal sets approach,
+we need a final couple of formal tools. Say that prevision
+\(\underline{E}\) <em>dominates</em> \(\underline{E&#39;}\) if, for
+all \(f\in \mathcal{L}\), \(\underline{E}(f) \ge
+\underline{E&#39;}(f)\). For a lower prevision \(\underline{E}\),
+define the <em>envelope</em> of \(\underline{E}\) as the set of linear
+previsions that dominate \(\underline{E}\). Call this
+\(M(\underline{E})\). For a set of linear previsions \(M\), define
+their <em>lower envelope</em> as \(\inf\{E(f), E\in
+M\}\). The <em>envelope theorem</em> states that \(\underline{E}\) is
+coherent iff \(\underline{E}\) is the lower envelope of
+\(M(\underline{E})\). Restricted to the case of lower previsions of
+indicator functions&mdash;lower probabilities&mdash;this states that
+your betting behaviour is coherent if and only if your fair buying
+prices are the lower envelope of a set of probabilities.</p>
+
+<p>
+
+This puts the imprecise probabilities approach on almost the same
+footing as the precise probability approach in that we have an exact
+analogue of de Finetti&rsquo;s version of the so-called Dutch book
+theorem: the theorem has less demanding&mdash;more
+reasonable&mdash;premises, and the conclusion is that rational
+agents&rsquo; beliefs should have the structure of a lower probability
+and thus through the envelope theorem, the structure of a credal
+set. One disanalogy between de Finetti&rsquo;s result and the IP
+one-sided result is that your precise fair prices <em>determine</em>
+your probability function whereas in the one-sided betting case, the
+coherence requirements only constrain your representor. That is, a
+complete set of coherent fair prices pick out a unique probability,
+while several distinct sets of probabilities can give rise to the same
+set of one-sided previsions.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+ 
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2019</a> by
+
+<br />
+<a href="https://www.seamusbradley.net/" target="other">Seamus Bradley</a>
+
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

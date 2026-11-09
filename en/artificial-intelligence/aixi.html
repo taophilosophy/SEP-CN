@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Artificial Intelligence &gt; The AIXI Architecture (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/artificial-intelligence/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/artificial-intelligence/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=artificial-intelligence">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Artificial Intelligence</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>The AIXI Architecture</h2>
+
+
+<p>
+One strategy when confronted with this complexity would be to construct an agent that behaves optimally in not just a single pair of \(E\) and \(U\), but in all possible such pairs. One such agent could work as follows. Without any knowledge about the environment it is located in, such an agent &ldquo;at birth&rdquo; would start by admitting that the class of environments that it is living in could be the entire class of possible environments \(\bE\). As time goes by, and the agent gets more and more data from the environment, it will narrow down the class of possible environments it lives in to a smaller and smaller \(\bE'\) that is compatible with data that the agent has seen so far. This process of &ldquo;learning&rdquo; what the real environment is is not far from simple and idealized formal models of the scientific process. In fact, early models of learning computationally have cast the learner as an ideal scientist. The most general form of learning, at least computationally, is one based on the learner interacting with a black-box computer that produces output \(o_i\) in response to an input \(a_i\). The learner has to hypothesize the program responsible for producing an input-output sequence \(a_1,o_1,a_2,o_2,\ldots\).<sup>[<a href="notes.html#note-a1" id="ref-a1">A1</a>]</sup> If the output \(o_i\) can be split into a reward \(r_i\) and a percept \(p_i\), we get Russell&rsquo;s view of not just a learning agent, but an agent that has to behave optimally to maximize the reward \(r_i\) received over time. Now a question arises, how do interwine learning about the environment with rational behavior? </p>
+
+<p>
+Hutter (2005) offers a definition for an agent that combines learning with rational behavior when both \(E \in\bE\) and \(U\) are <b>Turing-computable</b>.<sup>[<a href="notes.html#note-a2" id="ref-a2">A2</a>]</sup> Hutter&rsquo;s agent, termed <b>AIXI</b>, starts its life without any knowledge of the environment it lives in. The agent plays the role of a scientist and develops a model of the environment as it keeps interacting with it. In essence, as the agent interacts with the world, it learns more about the particular environment it lives in and its uncertainty about what environment it is located in keeps on decreasing. This lets the agent focus more on a smaller and smaller class of environments as time goes on. In Hutter&rsquo;s world, time is discrete. Action \(a_{n+1}\) by the agent at time \(t_{n+1}\) in the environment \(E\) produces a reward \(r_{n+1}\) and a percept \(p_{n+1}\). The goal of the agent is to maximize the rewards that it receives over its life time \(L\). (See the figure immediately below.)</p>
+
+<div class="figure avoid-break">
+<img src="Hutter.png" width="400" height="206" alt="diagram of Hutter's model" />
+<p class="center"><i>Hutter&rsquo;s Model of Agent-Environment Interaction</i></p>
+</div>
+
+<p>
+The agent is assumed to have very little knowledge about the environment. We can think of environments as functions mapping the current action, and previous percept-reward sequences to a new percept and reward pair. Hutter&rsquo;s agent can then model the environment as a computer program that is consistent with the input-output behavior, \(h_n = \langle a_1, p_1, r_1, a_1, p_2, r_2,\ldots, a_n, p_n, r_n \rangle\), that it has witnessed so far. Let the set of all such environments that are consistent with the history \(h_n\) be \(Q_{h_n}\). The sequence \(h_n \bullet a_{n+1}\) that is obtained by concatenating \(a_{n+1}\) to \(h_n\) denotes that the agent has performed action \(a_{n+1}\) with history \(h_n\). The agent also has some mechanism for assigning a probability that an environment \(q\) would produce a percept-reward pair \( \langle p_{n+1}, r_{n+1}\rangle\) given an input history \(h_n\):</p> 
+
+\[
+P\left(q(h_n)=\hutterresponse \gggiven
+    h_n \bullet a_{n+1}\right)
+\]
+
+<p>
+Let us say the agent also has some mechanism for computing prior probabilities of environments \(P(q)\). One way that the agent could do this is by subscribing to <a href="../simplicity/">Occam&rsquo;s Razor</a>. The agent will then be acting as an ideal scientist and would consider simpler environments more probable, everything else being equal. The agent could then use some measure of complexity for environments. Since environments are just computer programs, measures for complexity of programs abound. For our agent, a measure such as the <a href="../information/">Kolmogorov complexity</a> would suffice. Let us assume that the agent has a measure of complexity \(\mathcal C\) that it uses to compute the prior probability \(P_{\mathcal{C}}\). Then the agent could compute the probability that a percept, reward pair is produced as below at the next instant \(n+1\):</p> 
+
+\[\begin{align*}
+&amp;P\left(\hutterresponse \gggiven  h_n \bullet \mathbf{a_{n+1}} \right)= \\
+&amp;\qquad\sum_{q\in Q_{h_n}} P_{\mathcal{C}}(q) . P\left(q\left(h_n\right)=\hutterresponse \gggiven  q, h_n\bullet\mathbf{a_{n+1}}\right)
+\end{align*}\]
+
+<p>
+Then for the next time step \(n+1\), the agent&rsquo;s expected reward \(\mathbf{R}_{n+1}\) given action \(\mathbf{a_{n+1}}\) would be:</p> 
+
+\[
+    {\mathbf{R}_{n+1} = \sum_{\hutterresponse}
+    r_{n+1}. P\left(\langle p_{n+1}, r_{n+1} \rangle \gggiven  h_n \bullet\mathbf{a_{n+1}}\right)}
+\]
+
+<p>
+The optimal action to maximize the reward obtained at the next time step would simply be:</p> 
+
+\[
+    {\mathbf{a}^\ast_{n+1} =\argmax_{\mathbf{a}} \sum_{\hutterresponse}
+    r_{n+1}. P\left(\langle p_{n+1}, r_{n+1} \rangle \gggiven h_n \bullet\mathbf{a}\right)}
+\]
+
+<p>
+Denote the expected reward from time \(a\) to \(b\) by \(\mathbf{R}_{a:b}\). If the agent would live only till time \(L\), we would then be interested at time \(n+1\) only in \(\mathbf{R}_{n+1:L}\). This would then simply be: </p> 
+
+\[
+    \mathbf{R}_{n+1:L} = \sum_{\langle p_{n+1}, r_{n+1} \rangle}\left(r_{n+1} +
+    \mathbf{R}_{n+2:L}\right). P\left(\langle p_{n+1}, r_{n+1}
+    \rangle \gggiven h_n \bullet\mathbf{y_{n+1}}\right)
+\]
+
+<p>
+ The optimal agent is then the agent which maximizes \(\mathbf{R}_{1:n}\). Hutter (2005) gives a more extensive treatment in which he considers, among other extensions, environments that are also non-deterministic, agents with non-finite lifespans, etc. This treatment is compatible with Russell&rsquo;s brand of rational agents. Hutter&rsquo;s definition has simply stated that rational behavior includes being an ideal scientist. It should be noted that Russell&rsquo;s/Hutter&rsquo;s pictures are merely formal models of what AI should be constructing and are far from being a blueprint for a solution. For example, solving the above equation to compute an optimal action in the general case is not only intractable or difficult but <i>Turing-uncomputable</i>. </p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2018</a> by
+
+<br />
+<a href="https://kryten.mm.rpi.edu/selmerbringsjord.html" target="other">Selmer Bringsjord</a>
+&lt;<a href="m&#97;ilto:Selmer&#37;2eBringsjord&#37;40gmail&#37;2ecom"><em>Selmer<abbr title=" dot ">&#46;</abbr>Bringsjord<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+Naveen Sundar Govindarajulu
+&lt;<a href="m&#97;ilto:Naveen&#37;2eSundar&#37;2eG&#37;40gmail&#37;2ecom"><em>Naveen<abbr title=" dot ">&#46;</abbr>Sundar<abbr title=" dot ">&#46;</abbr>G<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

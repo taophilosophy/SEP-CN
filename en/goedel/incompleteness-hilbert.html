@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Kurt Gödel &gt; Did the Incompleteness Theorems Refute Hilbert&rsquo;s Program? (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/goedel/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/goedel/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=goedel">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Kurt G&ouml;del</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Did the Incompleteness Theorems Refute Hilbert&rsquo;s Program?</h2>
+
+<p>
+Did G&ouml;del&rsquo;s theorems spell the end of Hilbert&rsquo;s program
+altogether? From one point of view, the answer would seem to be
+yes&mdash;what the theorems precisely show is that mathematics cannot
+be formally reconstructed strictly on the basis of concrete intuition
+of symbols.</p>
+
+<p>
+G&ouml;del himself remarked that it was largely Turing&rsquo;s work, in
+particular the &ldquo;precise and unquestionably adequate definition
+of the notion of formal system&rdquo; given in Turing 1937, which
+convinced him that his incompleteness theorems, being fully general,
+refuted the Hilbert program. (See the supplemental note to
+G&ouml;del 1931 added in August 1963, p. 195 of G&ouml;del 1986. See
+also G&ouml;del&rsquo;s correspondence with Nagel, p. 145 and 147,
+G&ouml;del 2003b. G&ouml;del had informally convinced himself of
+this already in 1933, see p.52 of his *1933o.) However there are many
+subtleties here involving various salient features of formalizations
+of the notion of computability. For example, Sieg has pointed out
+(2006) that G&ouml;del&rsquo;s identification of the general notion of
+formal system with Turing machines is problematic, resting as it does
+on an absolute notion of computable function. This is because the
+notion of formal system is to be defined in terms of the notion of
+absolute computability, whereas the notion of formal system seems to
+be needed in order to prove the absoluteness of the notion of
+computability.</p>
+
+<p>
+In connection with the impact of the Second Incompleteness Theorem on
+the Hilbert program, although this is mostly taken for granted, some
+have questioned whether G&ouml;del&rsquo;s second theorem establishes its
+claim in full generality. As Bernays noted in Hilbert and Bernays
+1934, the theorem permits generalizations in two directions: first,
+the class of theories to which the theorem applies can be broadened to
+a wider class of theories. Secondly, a more general notion of
+consistency could be introduced, than what was indicated by G&ouml;del
+in his 1931 paper. That is, the theorem could be extended to any
+formula expressing the consistency of the relevant theory.</p>
+
+<p>The latter type of generalization brought to the fore the question
+of the <em>intensional adequacy</em> of a theory&rsquo;s proof concept. We
+take a moment to describe what this means. As Feferman noted in his
+(1960) (following Bernays) there is an important distinction between
+the two incompleteness theorems. As we have seen, G&ouml;del&rsquo;s First
+Incompleteness Theorem exhibits a
+sentence \(\mathcal{G}\) in the language of the
+relevant theory, which is undecided by the theory. Nothing about the
+correctness of the claim that e.g. Peano arithmetic is incomplete,
+turns on the meaning of
+\(\mathcal{G}\), however the term
+&ldquo;meaning&rdquo; is construed. Feferman points out that this is
+not the case with the second theorem, where the general claim, namely
+that any sufficiently strong theory cannot prove &ldquo;its own
+consistency,&rdquo; must depend on the meaning of the consistency
+statement <em>as read by the theory</em>. That is, we should grant
+the meta-theoretical claim that a theory \(T\) cannot prove its own
+consistency only when there is a sentence both which \(T\)
+&ldquo;recognizes&rdquo; as a consistency statement, and
+which \(T\) cannot prove. This is not to question the legitimacy
+of G&ouml;del&rsquo;s second theorem of course, but rather to point to
+possible limitations on its range of application&mdash;an observation
+G&ouml;del himself made in his 1931 paper, as we have
+noted.</p>
+
+<p>
+The criteria for a theory \(T\)&rsquo;s &ldquo;recognizing&rdquo; its
+consistency statement as such are met just in case it can be proved in
+\(T\) that its proof predicate satisfies the three Hilbert-Bernays
+derivability conditions as given in Hilbert and Bernays 1934. The
+concept of provability in \(T\), and thus the concept of \(T\)&rsquo;s
+consistency, is then said to be &ldquo;intensionally adequate,&rdquo;
+that is fully expressive of the notion of consistency involved.</p>
+
+<p>
+In his paper Feferman treats the problem, how to show
+that the derivability conditions are satisfied in relevant cases. In
+particular, Feferman pointed to intensional problems connected to the
+notion of axiomhood by exhibiting a non-standard though extensionally
+(i.e., numerically) correct binumeration of the arithmetic
+theory \(T\) under consideration, for which the (intensionally
+incorrect) consistency statement can be proved by \(T\). He then
+went on to give a systematic, general treatment which ruled out such
+pathological examples.</p>
+
+<p>
+Detlefsen offered (1986) a different critique of intensional
+adequacy, drawing more emphatically the distinction between the
+Second Incompleteness Theorem itself, as a mathematical theorem, and
+the wider, proto-philosophical claim that &ldquo;every set of
+propositions sufficient to make a formula of \(T\) a fit expression
+of \(T\)&rsquo;s consistency is also sufficient to make that formula
+unprovable in \(T\) (if \(T\) is consistent).&rdquo; In
+Detlefsen&rsquo;s view, particularly the third derivability condition is
+problematic and not fully justified.</p>
+
+<p>
+Subsequent developments focused on weak arithmetic theories, that is,
+the issue whether intensionally correct versions of G&ouml;del&rsquo;s
+Second Incompleteness Theorem exist not only for Peano arithmetic but
+for weaker arithmetic theories as well, i.e., theories for which a
+case can more easily be made, that they are genuinely 
+ finitary.<sup>[<a href="notes.html#supp1-note1" id="note-supp1-1">1</a>]</sup></p>
+
+<p>
+Intensional adequacy aside, from other perspectives it would appear
+that the Hilbert program was not unfeasible, if a wider notion of
+finitary is admitted. For some those relativizations represent too
+radical a departure from the program in its original formulation. The
+reader is referred to the contemporary discussion of these matters.
+In particular, for a discussion of relativised Hilbert programs the
+reader is referred to Feferman 1988.</p>
+
+<p>
+We end this consideration of the Second Incompleteness Theorem by
+noting that there are semantic proofs of consistency of course. In
+this connection a simple semantic proof of the Second Incompleteness
+Theorem, which Kripke attributes to Kuratowski, might be worth
+mentioning. The Kuratowski argument is the following: Set theory
+cannot prove that set theory is consistent in the strong sense that
+some \(V_{\alpha}\) is a model of set theory. For suppose
+it does. Then there is \(\alpha\) such that \(V_{\alpha}\)
+is a model of set theory. Hence there is also
+in \(V_{\alpha}\) some \(\beta \lt \alpha\) such that
+\(V_{\beta}\) is a model of set theory. Continuing in this
+way we get an infinite descending sequence of ordinals, a
+contradiction. See Kripke 2009.</p>
+
+<p>
+For further discussion, see the entry on 
+ <a href="../hilbert-program/">Hilbert&rsquo;s Program</a>.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="http://www.math.helsinki.fi/logic/people/juliette.kennedy/" target="other">Juliette Kennedy</a>
+&lt;<a href="m&#97;ilto:juliette&#37;2ekennedy&#37;40helsinki&#37;2efi"><em>juliette<abbr title=" dot ">&#46;</abbr>kennedy<abbr title=" at ">&#64;</abbr>helsinki<abbr title=" dot ">&#46;</abbr>fi</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

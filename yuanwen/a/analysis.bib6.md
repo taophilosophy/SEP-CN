@@ -1,0 +1,691 @@
+# analysis — bib6（supplement）
+
+> （《analysis》词条补充材料，源：plato.stanford.edu/entries/analysis/bib6.html）
+
+#### Supplement to Analysis
+
+## Annotated Bibliography on Analysis §6: Conceptions of Analysis in Analytic Philosophy
+
+This bibliography is intended as a reference guide to the key works that deal, in whole or in part, with analysis and related topics such as analyticity and definition. Cross-references are by name(s) of author(s) or editor(s) and either year of publication or abbreviation as indicated immediately after their name(s). Notes in square brackets at the end of an entry indicate the relevant part(s) of the work and/or its significance to the topic of analysis. Key passages can be found quoted in the supplementary document on [Definitions and Descriptions of Analysis](analysis.s1.md), linked from the relevant entry and note by means of ‘{[Quotation(s)](analysis.s1.md)}’. In some cases where there is material available online, an internet address is also given after the entry.
+
+This section of the bibliography corresponds to Section 6 of the main entry, and is divided into subsections which correspond to the subsections of the supplementary document on [Conceptions of Analysis in Analytic Philosophy](analysis.s6.md), with the exception of the introduction and conclusion. Where works include important material under more than one heading, they are cited under each heading; but duplication has been kept to a minimum. Cross-references to other (sub)sections are provided in curly brackets.
+
+- 6.1 General
+- 6.2 Gottlob Frege
+- 6.3 Bertrand Russell
+- 6.4 G. E. Moore
+- 6.5 Ludwig Wittgenstein
+- 6.6 Susan Stebbing and the Cambridge School of Analysis
+- 6.7 Rudolf Carnap and Logical Positivism
+- 6.8 Oxford Linguistic Philosophy
+- 6.9 Conceptual Analysis
+- 6.10 Conceptual Engineering
+
+[Annotated Bibliography on Analysis: Full List of Sections](analysis.bib1.md)
+
+### 6.1 General
+
+- Anderson, C. Anthony, 1990, ‘Logical Analysis and Natural Language: The Problem of Multiple Analyses’, in Peter Klein, (ed.), *Praktische Logik*, Göttingen: Vandenhoeck & Ruprecht, 169–179
+- –––, 1993, ‘Analyzing Analysis’, *Philosophical Studies* 77: 199–222
+- Ayer, A. J., 1971, *Russell and Moore: The Analytical Heritage*, London: Macmillan [ch. 9: ‘The Fruits of Analysis’] {§1.2, §6.3, §6.4}
+- Baldwin, Thomas, 2001, *Contemporary Philosophy*, Oxford: Oxford University Press
+- Beaney, Michael, 2000, ‘Conceptions of Analysis in Early Analytic Philosophy’, *Acta Analytica* 15: 97–115
+- –––, 2002, ‘Decompositions and Transformations: Conceptions of Analysis in the Early Analytic and Phenomenological Traditions’, *Southern Journal of Philosophy* 40, Supp. Vol., 53–99 {§5.8}
+- –––, 2006, ‘Soames on Philosophical Analysis’ (Critical Notice of Scott Soames, *Philosophical Analysis in the Twentieth Century*), *Philosophical Books* 47: 255–71
+- –––, (ed.), 2007a, *The Analytic Turn: Analysis in Early Analytic Philosophy and Phenomenology*, London: Routledge [includes Beaney 2007b, Reck 2007 {§6.2}, Levine 2007 {§6.2, §6.3}, Griffin 2007 {§6.3}, Hylton 2007 {§6.3}, Linsky 2007 {§6.3}, Hacker 2007 {§6.5}, Hanna 2007 {§4.5, §6.5}, Phillips 2007 {§6.5}, Baldwin 2007 {§6.7}, Beaney 2007c, Lapointe 2007 {§5.3}, Moran 2007 {§5.8}, Haaparanta 2007 {§5.8}, Thomasson 2007 {§5.8}] {§1.2, §5.1}
+- –––, 2007b, ‘The Analytic Turn in Twentieth-Century Philosophy’, introduction to Beaney 2007a, 1–30
+- –––, 2007c, ‘Conceptions of Analysis in the Early Analytic and Phenomenological Traditions: Some Comparisons and Relationships’, in Beaney 2007a, 196–216 [abridged and revised version of Beaney 2002] {§5.8}
+- –––, (ed.), 2013a, *The Oxford Handbook of the History of Analytic Philosophy*, Oxford: Oxford University Press [includes Baldwin 2013 {§6.4} {§6.6}, Beaney 2013b, Floyd 2013, Hacker 2013 {§6.8}, Hylton 2013 {§6.7}, Linsky 2013 {§6.3}]
+- –––, 2013b, ‘What is Analytic Philosophy?’, in Beaney 2013a, 1–29
+- –––, 2016, ‘The Analytic Revolution’, in A. O’Hear, (ed.), *History of Philosophy*, Cambridge: Cambridge University Press, 227–49
+- –––, 2017a, *Analytic Philosophy: A Very Short Introduction*, Oxford: Oxford University Press {§6.2} {§6.3} {§6.4} {§6.5} {§6.6}
+- Bell, David, 1999, ‘The Revolution of Moore and Russell: A Very British Coup?’, in O’Hear 1999, 193–208 {§6.4}
+- Bell, D. and Cooper, N., (eds.), 1990, *The Analytic Tradition*, Oxford: Blackwell [includes Burge 1990 {§6.2}, Hart 1990]
+- Biletzki, Anat and Matar, Anat, (eds.), 1998, *The Story of Analytic Philosophy*, London: Routledge [includes Hacker 1998, Hintikka 1998, Hylton 1998]
+- Black, Max, (ed.), 1950, *Philosophical Analysis: A Collection of Essays*, Englewood Cliffs, N.J.: Prentice-Hall [includes Black 1950a]
+- –––, 1950a, ‘Introduction’, in Black 1950, 1–13 {Quotations}
+- Blanshard, Brand, 1962, *Reason and Analysis*, London: George Allen and Unwin [ch. 3: ‘The Rise of Positivism’; ch. 4: ‘Logical Atomism’; ch. 5: ‘The Theory of Meaning’; ch. 6: ‘Analysis and A Priori Knowledge’; chs. 7–8: linguistic philosophy] {§1.2}
+- –––, 1980, ‘Reply to Mr. Fogelin’, in Schilpp 1980, 725–41 [reply to Fogelin 1980]
+- Cappelen, Herman, 2014, *Philosophy without Intuitions*, Oxford: Oxford University Press [ch. 10: conceptual analysis and intuitions]
+- Cappelen, Herman, Tamar Szabo Gendler and John Hawthorne, (eds.), 2016, *The Oxford Handbook of Philosophical Methodology*, Oxford: Oxford University Press
+- Charlesworth, Maxwell John, 1959, *Philosophy and Linguistic Analysis*, Pittsburgh: Duquesne Univ. [Introd.: analysis; chs. on Moore, Russell, Wittgenstein, Ayer, Cambridge School, Oxford School]
+- Coffa, J. Alberto, 1991, *The Semantic Tradition from Kant to Carnap*, Cambridge: Cambridge University Press {§1.2}
+- Cozzo, C., 1999, ‘What is Analytical Philosophy?’, in Egidi 1999
+- Dejnozka, Jan, 1996, *The Ontology of the Analytic Tradition and Its Origins*, Lanham, Maryland: Littlefield Adams; paperback edn. repr. with corrections 2002, 2003
+- Dummett, Michael, 1993, *Origins of Analytical Philosophy*, London: Duckworth [ch. 2: linguistic turn; ch. 13: thought and language {§6.2}
+- Egidi, Rosaria, (ed.), 1999, *In Search of a New Humanism: The Philosophy of Georg Henrik von Wright*, Dordrecht: Kluwer [includes Cozzo 1999]
+- Floyd, Juliet, 2013, ‘The Varieties of Rigorous Experience’, in Beaney 2013a, 1003–42
+- Floyd, Juliet and Shieh, Sanford, (eds.), 2001, *Future Pasts: The Analytic Tradition in Twentieth-Century Philosophy*, New York: Oxford University Press [includes Weiner 2001 {§6.2}, Føllesdal 2001 {§5.8}, Hintikka 2001 {§5.5}, Ricketts 2001 {§6.3}, Parsons 2001 {§5.8}, Floyd 2001 {§6.5}, Friedman 2001 {§6.7}, Hylton 2001 {§6.7}]
+- Fogelin, Robert J., 1980, ‘Blanshard’s Critique of the Analytic Movement’, in Schilpp 1980, 696–724 [critique of Blanshard 1962]
+- Føllesdal, Dagfinn, 1997, ‘Analytic Philosophy: What is it and why should one engage in it?’, in Glock 1997, 1–16
+- French, P.A., Uehling, T.E. and Wettstein, H.K., (eds.), 1981, *Midwest Studies in Philosophy VI*, University of Minnesota Press [includes Ackerman 1981 {§6.4}, Lackey 1981 {§6.3}, T. Parsons 1981 {§6.2}, Resnik 1981 {§6.2}]
+- Gaskin, Richard, (ed.), 2001, *Grammar in Early Twentieth-Century Philosophy*, London: Routledge [includes Simons 2001 {§5.8}, Levine 2001 {§6.3}, Candlish 2001 {§6.3}, Priest 2001 {§5.8}, {§5.1}]
+- Glock, Hans-Johann, (ed.), 1997, *The Rise of Analytic Philosophy*, Oxford: Blackwell [includes Føllesdal 1997, Hacker 1997, Monk 1997 {§6.3}, Skorupski 1997, Sluga 1997 {§6.2}]
+- –––, 1999, ‘Vorsprung durch Logik: The German Analytic Tradition’, in O’Hear 1999, 137–66
+- Hacker, P. M. S., 1996, *Wittgenstein’s Place in Twentieth-Century Analytic Philosophy*, Oxford: Blackwell [esp. 3–16, 35–8, 42–4, 72–5, 103–17, 159–61, 274n.3, 275n.4] {§1.2}
+- –––, 1997, ‘The Rise of Twentieth Century Analytic Philosophy’, in Glock 1997, 51–76
+- –––, 1998, ‘Analytic philosophy: what, whence, and whither?’, in Biletzki and Matar 1998, 3–34
+- –––, 2007, ‘Analytic Philosophy: Beyond the Linguistic Turn and Back Again’, in Beaney 2007a, 125–41
+- Hart, W. D., 1990, ‘Clarity’, in Bell and Cooper 1990, 197–222
+- Hill, Claire Ortiz, 1991, *Word and Object in Husserl, Frege and Russell: The Roots of Twentieth-Century Philosophy*, Ohio University Press
+- Hintikka, Jaakko, 1998, ‘Who is about to kill analytic philosophy?’, in Biletzki and Matar 1998, 253–69
+- Hintikka, Jaakko and Puhl, Klaus, (eds.), 1995, *The British Tradition in 20th Century Philosophy: Proceedings of the 17th International Wittgenstein Symposium*, Vienna: Hölder-Pichler-Tempsky [includes Bornet 1995 {§5.4}]
+- Hylton, Peter, 1998, ‘Analysis in analytic philosophy’, in Biletzki and Matar 1998, 37–55 {§6.3}
+- Macdonald, Margaret, (ed.), 1954, *Philosophy and Analysis: a selection of articles published in Analysis between 1933–40 and 1947–53*, Oxford: Blackwell [includes M. Macdonald 1954a]
+- –––, (1954a), ‘Introduction’ to M. Macdonald 1954, 1–14 [on analysis and the journal *Analysis*]
+- Martinich, A. P. and Sosa, David, (eds.), 2001, *A Companion to Analytic Philosophy*, Oxford: Blackwell [entries on 41 analytic philosophers from Frege to David Lewis]
+- O’Hear, Anthony, 1999, ed., *German Philosophy Since Kant*, Cambridge: Cambridge University Press [includes Bell 1999, Glock 1999]
+- O’Shea, James, 2006, ‘Conceptual Connections: Kant and the Twentieth-Century Analytic Tradition’, in Bird 2006, 513–26 {§4.5}
+- Passmore, John, 1966, *A Hundred Years of Philosophy*, 2nd ed., London: Penguin; 1st ed. London: Duckworth, 1957 [ch. 9: Moore and Russell; ch. 15: Wittgenstein and other Cambridge philosophers; ch. 16: logical positivism; ch. 18: Wittgenstein and ordinary language philosophy; ch. 20: ‘Description, Explanation or Revision?’] {§5.1}
+- Potter, Michael, 2020, *The Rise of Analytic Philosophy, 1879–1930: From Frege to Ramsey*, London: Routledge
+- Proust, Joelle, 1986, *Questions de forme*, Paris: Fayard, tr. as *Questions of Form: Logic and the Analytic Proposition from Kant to Carnap* by A.A. Brenner, University of Minnesota Press, 1989 [III: Frege {§6.2}; IV: Carnap {§6.7}] {§1.2}
+- Raysmith, Thomas and Michael Beaney, (eds.), 2023, *Analysis*, Special Issue on Analysis
+- Reck, Erich H., (ed.), 2002, *From Frege to Wittgenstein: Perspectives on Early Analytic Philosophy*, New York: Oxford University Press [includes Goldfarb 2002, Ricketts 2002, Proops 2002, Floyd 2001, Conant 2002 {§6.5}]
+- Rorty, Richard, (ed.), 1967, *The Linguistic Turn*, Chicago: University of Chicago Press) [includes Ryle 1932 {§6.8}, Shapere 1960 {§6.8}, Strawson 1962, Urmson 1962] {§1.2}
+- Rosen, Stanley, 1985, *The Limits of Analysis*, Yale University Press; 1st edn., New York: Basic Books, 1980 {Quotations} {§1.2, §5.8}
+- Schilpp, P. A., (ed.), 1980, *The Philosophy of Brand Blanshard*, La Salle, Illinois: Open Court [includes Fogelin 1980 and Blanshard 1980]
+- Skorupski, John, 1994, *English-Language Philosophy 1750–1945*, Oxford: Oxford University Press
+- –––, 1997, ‘Why did Language matter to Analytic Philosophy?’, in Glock 1997, 77–91
+- Smith, David Woodruff, 2007, *Husserl*, London: Routledge [410–23: Husserl and analytic philosophy] {§5.8}
+- Soames, Scott, 2003, *Philosophical Analysis in the Twentieth Century*, Volume 1: *The Dawn of Analysis*, Volume 2: *The Age of Meaning*, New Jersey: Princeton University Press [Vol. 1: Part 1: Moore {§6.4}; Part 2: Russell {§6.3}; Part 3: Wittgenstein’s *Tractatus*; Part 4: logical positivism {§6.7}; Part 5: Quine {§6.7}; Vol. 2: Part 1: Wittgenstein’s *Philosophical Investigations*; Part 2: Ryle {Quotation}, Strawson, Hare {§6.8}; Part 3: Malcolm, Austin {§6.8}; Part 4: Grice {§6.8}; Part 5: Quine {§6.7}; Part 6: Davidson {§6.9}; Part 7: Kripke {§6.9}] {§1.2}
+- –––, 2005, ‘Philosophical Analysis’, in D. M. Borchert, (ed.), *Encyclopedia of Philosophy*, 2nd edn., Detroit: Thomson Gale, Vol. 1, 144–57 {Quotation}
+- Strawson, P. F., 1962, ‘Analysis, Science, and Metaphysics’, together with discussion of the paper, in Rorty 1967, 312–30
+- Stroll, Avrum, 2000, *Twentieth-Century Analytic Philosophy*, New York: Columbia University Press [ch. 1: ‘analysis’ as a family resemblance concept]
+- Tait, William W., (ed.), 1997, *Early Analytic Philosophy: Frege, Russell, Wittgenstein*, Chicago: Open Court [includes Goldfarb 1997 {§6.5}, Hylton 1997 {§6.5}]
+- Textor, Mark, (ed.), 2006, *The Austrian Contribution to Analytic Philosophy*, London: Routledge [includes Künne 2006 {§5.3}, Morscher 2006 {§6.7}] {§5.3}
+- Urmson, J. O., 1956, *Philosophical Analysis: Its Development between the Two World Wars*, Oxford: Oxford University Press {§1.2}
+- –––, 1962, ‘The History of Philosophical Analysis’, together with discussion of the paper, in Rorty 1967, 294–311 {Quotations}
+- von Wright, G. H., 1993, ‘Analytical Philosophy: A Historico-Critical Survey’, in von Wright 1993, 25–52
+- –––, 1993, *The Tree of Knowledge and Other Essays*, Leiden: E. J. Brill
+- White, Morton, (ed.), 1955, *The Age of Analysis: Twentieth Century Philosophers*, Boston: Houghton Mifflin Co.; Vol. 6 of ‘The Great Ages of Western Philosophy’) [includes ch. 31 of Russell *HWP* {§6.3}; ch. 1 of Carnap 1935 {§6.7}; dedicated to G. E. Moore]
+
+### 6.2 Gottlob Frege
+
+- Baker, G. P., 1988, *Wittgenstein, Frege and the Vienna Circle*, Oxford: Blackwell [17–33: Frege on logical analysis]
+- Baker, G. P. and Hacker, P. M. S., 1984, *Frege: Logical Excavations*, Oxford: Blackwell [ch. 6: function–argument analysis]
+- Bar-Elli, Gilead, 1996, *The Sense of Reference: Intentionality in Frege*, Berlin: Walter de Gruyter [ch. 8: analysis and decomposition]
+- Beaney, Michael, 1996, *Frege: Making Sense*, London: Duckworth [esp. ch. 5 on analysis and definitions, and §8.5]
+- –––, 2002, ‘Decompositions and Transformations: Conceptions of Analysis in the Early Analytic and Phenomenological Traditions’, *Southern Journal of Philosophy* 40, Supp. Vol., 53–99 [§§ 1.3, 2.1] {§5.8, §6.1}
+- –––, 2003, ‘Russell and Frege’, in Griffin 2003a, 128–70 [§6: analysis] {§6.3}
+- –––, 2005, ‘*Sinn*, *Bedeutung* and the Paradox of Analysis’, in Beaney and Reck 2005, Vol. IV, 288–310
+- –––, 2007d, ‘Frege’s Use of Function–Argument Analysis and his Introduction of Truth-Values as Objects’, in Dirk Greimann, (ed.), *Essays on Frege’s Conception of Truth*, *Grazer Philosophische Studien* 75: 93–123
+- –––, 2008, ‘Function–Argument Analysis in Early Analytic Philosophy’, in Peter Bernhard and Volker Peckhaus, eds., *Methodisches Denken im Kontext: Festschrift für Christian Thiel*, Paderborn: mentis, 203–17
+- –––,2016, ‘The Analytic Revolution’, in A. O’Hear, (ed.), *History of Philosophy*, Cambridge: Cambridge University Press, 227–49
+- –––, 2017a, *Analytic Philosophy: A Very Short Introduction*, Oxford: Oxford University Press, ch. 1
+- –––, 2019, ‘Translating ‘Bedeutung’ in Frege’s Writings: A Case Study and Cautionary Tale in the History and Philosophy of Translation’, in Ebert and Rossberg 2019, 603–51
+- Beaney, Michael and Reck, Erich H., (eds.), 2005, *Gottlob Frege: Critical Assessments of Leading Philosophers*, 4 vols., London: Routledge [includes Künne 1997 {§5.3}, Dummett 1997 {§5.3}, Gabriel 1996, Wilson 1992, Demopoulos 1994, Tappenden 1995b, Tait 1996, Reck 2005, Wright 2000, Burge 1990, Sluga 1997, Rumfitt 1994, Wright 1998, Weiner 2005, Beaney 2005, Bell 1987, Dummett 1989, Landini 1996, Hale 1997, Levine 2002]
+- Bell, David, 1987, ‘Thoughts’, *Notre Dame Journal of Formal Logic* 28: 36–50; repr. in Beaney and Reck 2005, Vol. IV, 313–29
+- –––, 1996, ‘The Formation of Concepts and the Structure of Thoughts’, *Phil. and Phen. Research* 56: 583–96
+- Bermúdez, José Luis, 2001, ‘Frege on Thoughts and Their Structure’, *Logical Analysis and the History of Philosophy* 4: 87–105 [critique of Bell, 1987, 1996 and Dummett 1989, 1991a]
+- Blanchette, Patricia, 2012, *Frege’s Conception of Logic*, Oxford: Oxford University Press [ch. 1: logicism and conceptual analysis; ch. 4: the analysis of arithmetic; ch. 5: analysis and consistency]
+- Burge, Tyler, 1990, ‘Frege on Sense and Linguistic Meaning’, in Bell and Cooper 1990, 30–60 {§6.1}; repr. in Burge 2005a, 242–69; also repr. in Beaney and Reck 2005, Vol. IV, 37–67
+- –––, 2005a, *Truth, Thought, Reason: Essays on Frege*, Oxford: Oxford University Press [includes Burge 1990, 2005b]
+- –––, 2005b, ‘Introduction’ to Burge 2005a, 1–68 [55–9, 63–5: analysis as more than mere unpacking of meaning already implicit in use]
+- Carl, Wolfgang 1994, *Frege’s Theory of Sense and Reference*, Cambridge: Cambridge University Press [60–72, 109–12: function–argument analysis]
+- Demopoulos, William, 1994, ‘Frege and the Rigorization of Analysis’, *J. Phil. Logic* 23: 225–46; repr. in Demopoulos 1995, 68–88; also repr. in Beaney and Reck 2005, Vol. III, 50–66
+- –––, (ed.), 1995, *Frege’s Philosophy of Mathematics*, Cambridge, Mass.: Harvard University Press [includes Demopoulos 1994, Wilson 1992]
+- Diamond, Cora, 1984, ‘What does a Concept Script do?’, in Wright 1984, 158–83; repr. in Diamond 1991a, 115–44 {§6.5}
+- Dummett, Michael, 1981a, *Frege: Philosophy of Language*, 2nd edn., London: Duckworth, 1st edn. 1973 [28–30, 62–6: alternative analyses; 667–9, 680, 683: analysis of meaning]
+- –––, 1981b, *The Interpretation of Frege’s Philosophy*, London: Duckworth [ch. 14: ‘Definability’; ch. 15: ‘Alternative Analyses’; ch. 17: ‘Synonymy’]
+- –––, 1987, ‘Frege and the Paradox of Analysis’, in Dummett 1991b, 17–52
+- –––, 1989, ‘More about Thoughts’, *Notre Dame Journal of Formal Logic* 30: 1–19; repr. in Dummett 1991b, 289–314; also repr. in Beaney and Reck 2005, Vol. IV, 330–50 [reply to Bell 1987]
+- –––, 1991a, *Frege: Philosophy of Mathematics*, London: Duckworth [chs. 3–4: analyticity; chs. 9–16: Frege’s analysis and defs. in *GL*] {§1.2}
+- –––, 1991b, *Frege and Other Philosophers*, Oxford: Oxford University Press
+- –––, 1993, *Origins of Analytical Philosophy*, London: Duckworth [ch. 2: linguistic turn; ch. 13: thought and language] {§6.1}
+- Ebert, Philip A. and Marcus Rossberg, (eds.), 2019, *Essays on Frege’s* Basic Laws of Arithmetic, Oxford: Oxford University Press [includes Beaney 2019, Kremer 2019, Tappenden 2019]
+- Fine, Kit, 2002, *The Limits of Abstraction*, Oxford: Oxford University Press [ch. 1: def. and reconceptualization; ch. 2: the context principle]
+- Frege, Gottlob, *BS*, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle: L. Nebert, 1879, tr. in *CN*, 101–203; also tr. S. Bauer-Mengelberg, in van Heijenoort 1967, 5–82; most of Part I (§§ 1–12) also tr. in *TPW*, 1–20, and, with Preface, tr. M. Beaney in *FR*, 47–78
+- –––, *GL*, *Die Grundlagen der Arithmetik, eine logisch mathematische Untersuchung über den Begriff der Zahl*, Breslau: W. Koebner, 1884, tr. as *FA*, *The Foundations of Arithmetic* by J.L. Austin, with German text, 2nd edn., Oxford: Blackwell, 1953; 1st edn. 1950; selections tr. M. Beaney in *FR*, 84–129 (for German centenary critical edition, see Frege *GLT* below)
+- –––, *FC*, ‘Function and Concept’ (1891), in *TPW*, 21–41; *CP*, 137–56; *FR*, 130–48
+- –––, *SB*, ‘On Sinn and Bedeutung’ (1892), in *TPW*, 56–78; *CP*, 157–77; *FR*, 151–71
+- –––, *CSB*, ‘[Comments on *Sinn* and *Bedeutung*]’ (1892), in *PW*, 118–25; *FR*, 172–80
+- –––, *CO*, ‘On Concept and Object’ (1892), in *TPW*, 42–55; *PW*, 87–117; *CP*, 182–94; *FR*, 181–93
+- –––, *GG*, *Grundgesetze der Arithmetik*, Jena: H. Pohle, Band I 1893, Band II 1903; repr. together, Hildesheim: Georg Olms, 1962; tr. and ed. Philip A. Ebert and Marcus Rossberg with Crispin Wright, Oxford: Oxford University Press, 2013; selections from both vols. tr. in *FR*, 194–223 (tr. M. Beaney), 258–89 (tr. P. T. Geach)
+- –––, *RH*, ‘Review of E.G. Husserl, *Philosophie der Arithmetik* I’ (1894), in *CP*, 195–209; illustrative extracts in *TPW*, 79–85; extract also in *FR*, 224–6 [statement of the paradox of analysis] {Quotation}
+- –––, *PWLB*, ‘Logic’ (1897), in *PW*, 126–51; extract in *FR*, 227–50
+- –––, *PCN*, ‘On Mr. Peano’s Conceptual Notation and My Own’ (1897), in *CP*, 234–48
+- –––, *IL*, ‘Introduction to Logic’ (1906), in *PW*, 185–96; extract in *FR*, 293–8
+- –––, *BSLD*, ‘A Brief Survey of my Logical Doctrines’ (1906), in *PW*, 197–202; *FR*, 299–300
+- –––, *LM*, ‘Logic in Mathematics’ (1914), in *PW*, 203–50; extract in *FR*, 308–18 {Quotations}
+- –––, *TPW*, *Translations from the Philosophical Writings of Gottlob Frege*, ed. Peter Geach and Max Black, 3rd edn., Oxford: Blackwell, 1980; 1st edn. 1952
+- –––, *KS*, *Kleine Schriften*, ed. I. Angelelli, Hildesheim: Georg Olms, 1967, tr. as *CP*, *Collected Papers on Mathematics, Logic, and Philosophy*, ed. B. McGuinness, tr. M. Black et al., Oxford: Blackwell, 1984
+- –––, *NS*, *Nachgelassene Schriften*, ed. H. Hermes, F. Kambartel and F. Kaulbach, Hamburg: Felix Meiner, 1969, tr. as *PW*, *Posthumous Writings* by P. Long and R. White, Oxford: Blackwell, 1979
+- –––, *CN*, *Conceptual Notation and related articles*, ed. and tr. with a biog. and introd. by T. W. Bynum, Oxford: Oxford University Press, 1972
+- –––, *WB*, *Wissenschaftlicher Briefwechsel*, ed. G. Gabriel, H. Hermes, F. Kambartel, C. Thiel and A. Veraart, Hamburg: Felix Meiner, 1976, abr. for English edn. by B. McGuinness and tr. as *PMC*, *Philosophical and Mathematical Correspondence* by H. Kaal, Oxford: Blackwell, 1980
+- –––, *GLT*, *Die Grundlagen der Arithmetik*, German centenary critical edition, ed. Christian Thiel, Hamburg: Felix Meiner, 1986
+- –––, *FR*, *The Frege Reader*, ed. with an introd. by M. Beaney, Oxford: Blackwell, 1997, with selections from *TPW*, *CP*, *PW* and *PMC*, and new trs. of *BS*, *GL* and *GG*, I
+- Gabriel, Gottfried, 1996, ‘Frege’s “Epistemology in Disguise”’, in Schirn 1996, 330–46; repr. in Beaney and Reck 2005, Vol. I, 359–74 [proof vs. justification]
+- Gabriel, Gottfried and Dathe, Uwe, (eds.), 2000, *Gottlob Frege: Werk und Wirkung*, Paderborn: Mentis [includes Picardi 2000, Thiel 2000]
+- Garavaso, Pieranna, 1991, ‘Frege and the Analysis of Thoughts’, *Hist. Phil. Logic* 12: 195–210 [alternative analyses vs. isomorphism]
+- Haaparanta, Leila, 1988, ‘Analysis as the Method of Logical Discovery: Some Remarks on Frege and Husserl’, Synthese 77: 73–97 [differences between Frege’s and Husserl’s methods of analysis]
+- Hale, Bob, 1997, ‘*Grundlagen* §64’, *Proc. Aris. Soc.* 97: 243–61; repr. in Beaney and Reck 2005, Vol. IV, 376–91 [‘carving up’ content]
+- Hodes, H. T., 1982, ‘The Composition of Fregean Thoughts’, *Phil. Studies* 41: 161–78
+- Hylton, Peter, 2005b, ‘Frege and Russell’, in Hylton 2005a, 153–84 {§6.3}
+- Kremer, Michael, 2019, ‘Definitions in *Begriffsschrift* and *Grundgesetze*’, in Ebert and Rossberg 2019, 538–66
+- Kutschera, Franz von, 1989, *Gottlob Frege*, Berlin: Walter de Gruyter [ch. 9: defs.]
+- Levine, James, 2002, ‘Analysis and Decomposition in Frege and Russell’, *Phil. Quar.* 52: 195–216; repr. in Beaney and Reck 2005, Vol. IV, 392–413
+- –––, 2007, ‘Analysis and Abstraction Principles in Russell and Frege’, in Beaney 2007a, 51–74 {§6.1}
+- Linsky, Bernard, 1992, ‘A Note on the “Carving Up Content” Principle in Frege’s Theory of Sense’, *Notre Dame J. Formal Logic* 33: 126–35
+- Macbeth, Danielle, 2005, *Frege’s Logic*, Cambridge, Mass.: Harvard University Press
+- Mendelsohn, Richard L., 2005, *The Philosophy of Gottlob Frege*, Cambridge: Cambridge University Press [ch. 2: function–argument analysis; ch. 5: paradox of the concept *horse*]
+- Nelson, M., 2008, ‘Frege and the Paradox of Analysis’, *Philosophical Studies* 137: 159–81
+- Parsons, Terence D., 1981, ‘Frege’s Hierarchies of Indirect Senses and the Paradox of Analysis’, in French *et al.* 1981, 37–57 {§6.1}
+- Picardi, Eva, 1993, ‘A Note on Dummett and Frege on Sense-Identity’, *European Journal of Philosophy* 1: 69–80
+- –––, 2000, ‘Frege und Peano über Definitionen’, in Gabriel and Dathe 2000: 171–89
+- Potter, Michael, 2000, *Reason’s Nearest Kin: Philosophies of Arithmetic from Kant to Carnap*, Oxford: Oxford University Press [chs. 1–2: Kant vs. Frege on the analyticity of arithmetic]
+- –––, 2020, *The Rise of Analytic Philosophy, 1879–1930: From Frege to Ramsey*, Part I {§6.1}
+- Reck, Erich H., 2005, ‘Frege’s Natural Numbers: Motivations and Modifications’, in Beaney and Reck 2005, Vol. III, 270–301 [defs. of numbers]
+- –––, 2007, ‘Frege-Russell Numbers: Analysis or Explication’, in Beaney 2007a, 33–50 {§6.1}
+- Rumfitt, Ian, 1994, ‘Frege’s Theory of Predication: An Elaboration and Defense, with Some New Applications’, *Phil. Rev.*, 103: 599–637; repr. in Beaney and Reck 2005, Vol. IV, 127–59 [whole–part and function–argument analysis]
+- Schirn, Matthias, 1990, ‘Frege on the Purpose and Fruitfulness of Definitions’, *Manuscrito* 12: 7–23
+- –––, (ed.), 1996, *Frege: Importance and Legacy*, Berlin: Walter de Gruyter [includes Gabriel 1996, Schirn 1996a, Tait 1996]
+- –––, 1996a, ‘On Frege’s Introduction of Cardinal Numbers as Logical Objects’, in Schirn 1996, 114–73 [Frege’s analyses and defs.]
+- Simons, Peter, 1992, ‘Why Is There So Little Sense in *Grundgesetze*?’, *Mind* 101: 753–66
+- Sluga, Hans D., 1980, *Gottlob Frege*, London: Routledge
+- –––, 1997, ‘Frege on Meaning’, in Glock 1997, 17–34 {§6.1}; repr. in Beaney and Reck 2005, Vol. IV, 81–96
+- Tait, William W., 1996, ‘Frege versus Cantor and Dedekind: On the Concept of Number’, in Schirn 1996, 70–113; repr. in Tait 1997, 213–48 {§6.1}; also repr. in Beaney and Reck 2005, Vol. III, 115–56 [defs. of number]
+- Tappenden, Jamie, 1995a, ‘Geometry and Generality in Frege’s Philosophy of Arithmetic’, *Synthese* 102: 319–61
+- –––, 1995b, ‘Extending Knowledge and ‘Fruitful Concepts’: Fregean Themes in the Foundations of Mathematics’, *Noûs* 29: 427–67; repr. in Beaney and Reck 2005, Vol. III, 67–114
+- –––, 2019, ‘Infinitesimal, Magnitudes, and Definition in Frege’, in Ebert and Rossberg 2019, 235–63
+- Textor, Mark, 2011, *Frege on Sense and Reference*, London: Routledge [ch. 3: conceptual content and decomposition]
+- Van Heijenoort, J., (ed.), 1967, *From Frege to Gödel: A Source Book in Mathematical Logic*, 1879–1931, Cambridge, Mass.: Harvard University Press [includes Frege *BS*]
+- –––, 1977a, ‘Sense in Frege’, *J. Phil. Logic* 6: 93–102
+- –––, 1977b, ‘Frege on Sense Identity’, *J. Phil. Logic* 6: 103–8
+- Weiner, Joan, 1990, *Frege in Perspective*, Cornell University Press [ch. 3: defs. and analysis; ch. 6: ‘Elucidations’]
+- –––, 2001, ‘Theory and Elucidation: The End of the Age of Innocence’, in Floyd and Shieh 2001, 43–65 {§6.1}
+- –––, 2005, ‘On Fregean Elucidation’, in Beaney and Reck 2005, Vol. IV, 197–214 [revised version of Weiner 2001]
+- Wiggins, David, 2006, ‘Three moments in the theory of definition or analysis: its possibility, its aim or aims, and its limit or terminus’, *Proc. Aris. Soc.* 106 [Frege and Leibniz] {§4.4}
+- Wilson, Mark, 1992, ‘Frege: The Royal Road from Geometry’, in Demopoulos 1995, 108–49, with a ‘Postscript’, 149–59; orig. in *Noûs* 26: 149–80; repr. in Beaney and Reck 2005, Vol. III, 15–49
+- Wright, Crispin, 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press
+- –––, (ed.), 1984, *Frege: Tradition and Influence*, Oxford: Blackwell, 1984; orig. publ. in *Phil. Quar.* 34, No. 136, Special Issue: Frege (July 1984), 183–430 [includes Diamond 1984]
+- –––, 1998, ‘Why Frege Does Not Deserve His Grain of Salt: A Note on the Paradox of “The Concept Horse” and the Ascription of *Bedeutungen* to Predicates’, in J. Brandl and P. Sullivan, (eds.), *New Essays on the Philosophy of Michael Dummett*, *Grazer Philosophische Studien* 55: 239–63; repr. in Beaney and Reck 2005, Vol. IV, 177–96
+- –––, 2000, ‘Neo-Fregean Foundations for Real Analysis: Some Reflections on Frege’s Constraint’, *Notre Dame Journal of Formal Logic*, 41: 317–34; repr. in Beaney and Reck 2005, Vol. III, 387–407
+
+### 6.3 Bertrand Russell
+
+- Ayer, A. J., 1971, *Russell and Moore: The Analytical Heritage*, London: Macmillan [chs. 1–5 on Russell: ch. 2 on theory of descriptions, chs. 3–4 on logical atomism] {§1.2, §6.1, §6.4}
+- Baldwin, Thomas, 2003, ‘From Knowledge by Acquaintance to Knowledge by Causation’, in Griffin 2003a, 420–48
+- Beaney, Michael, 2002, ‘Decompositions and Transformations: Conceptions of Analysis in the Early Analytic and Phenomenological Traditions’, *Southern Journal of Philosophy* 40, Supp. Vol., 53–99 [§§ 1.3, 2.1] {§5.8, §6.1}
+- –––, 2003, ‘Russell and Frege’, in Griffin 2003a, 128–70 [§6: analysis] {§6.2}
+- –––, 2008, ‘The Early Life of Russell’s Notion of a Propositional Function’, in *The Baltic International Yearbook of Cognition, Logic and Communication*, Vol. IV
+- –––, 2012, ‘Logic and Metaphysics in Early Analytic Philosophy’, in Leila Haaparanta and Heikki Koskinen, eds., *Categories of Being*, Oxford: Oxford University Press, 257–92
+- –––, 2016, ‘The Analytic Revolution’, in A. O’Hear, (ed.), *History of Philosophy*, Cambridge: Cambridge University Press, 227–49
+- –––, 2017a, *Analytic Philosophy: A Very Short Introduction*, Oxford: Oxford University Press, ch. 2
+- Candlish, Stewart, 2001, ‘Grammar, Ontology, and Truth in Russell and Bradley’, in Gaskin 2001, 116–41 {§6.1}
+- –––, 2007, *The Russell/Bradley Dispute and its Significance for Twentieth-Century Philosophy*, Basingstoke: Palgrave Macmillan [ch. 5: ‘Grammar and Ontology’; ch. 6: ‘Relations’] {§5.6}
+- Cartwright, Richard L., 2003, ‘Russell and Moore, 1898–1905’, in Griffin 2003a, 108–27 [§3: analysis and propositional complexity]
+- Eames, Elizabeth Ramsden, 1969, *Bertrand Russell’s Theory of Knowledge*, London: George Allen and Unwin [ch. 3: ‘The Method of Analysis’]
+- Elkind, Landon D. C. and Gregory Landini, (eds.), 2018, *The Philosophy of Logical Atomism*, Palgrave Macmillan [includes Fisher and McCarty 2018]
+- Fischer, David and David Charles McCarty, 2018, ‘The Possibility of Analysis: Convergence and Proofs of Convergence’, in Elkind and Landini 2018, 263–89
+- Galaugher, Jolen, 2013, *Russell’s Philosophy of Logical Analysis: 1897–1905*, Basingstoke: Palgrave Macmillan
+- Griffin, Nicholas, 1991, *Russell’s Idealist Apprenticeship*, Oxford: Oxford University Press [ch. 8: relations and whole–part analysis]
+- –––, 1996, ‘Denoting Concepts in *The Principles of Mathematics*’, in Monk and Palmer 1996, 23–64 [58–9: Russell’s letter to Victoria Welby, on analysis]
+- –––, (ed.), 2003a, *The Cambridge Companion to Bertrand Russell*, Cambridge: Cambridge University Press [includes Griffin 2003b, Cartwright 2003, Beaney 2003, Hylton 2003, Hager 2003, Linsky 2003, Baldwin 2003]
+- –––, 2003b, ‘Russell’s Philosophical Background’, in Griffin 2003a, 84–107 [89–106: analysis and antinomies of mathematics]
+- –––, 2007, ‘Some Remarks on Russell’s Early Decompositional Style of Analysis’, in Beaney 2007a, 75–90 {§6.1}
+- Hager, Paul J., 1994, *Continuity and Change in the Development of Russell’s Philosophy*, Dordrecht: Kluwer [Part One: ‘Analysis and Relations – The Key to Continuity in Russell’s Philosophy’]
+- –––, 2003, ‘Russell’s Method of Analysis’, in Griffin 2003a, 310–31 [analysis as a ‘two-directional’ process; critique of Monk 1996]
+- Hylton, Peter, 1990, *Russell, Idealism, and the Emergence of Analytic Philosophy*, Oxford: Oxford University Press [231–6: method in *POM*; ch. 6: *OD* and analysis] {§6.4}
+- –––, 1996, ‘Beginning with Analysis’, in Monk and Palmer 1996, 183–216; repr. in Hylton 2005a, 30–48
+- –––, 1998, ‘Analysis in analytic philosophy’, in Biletzki and Matar 1998, 37–55 {§6.1}
+- –––, 2003, ‘The Theory of Descriptions’, in Griffin 2003a, 202–40; repr. in Hylton 2005a, 185–215
+- –––, 2005a, *Propositions, Functions, Analysis: Selected Essays on Russell’s Philosophy*, Oxford: Oxford University Press [includes Hylton 1993, 1996, 1997 {§6.5}, 2003, 2005b] {§1.2}
+- –––, 2005b, ‘Frege and Russell’, in Hylton 2005a, 153–84 {§6.2}
+- –––, 2007, ‘“On Denoting” and the Idea of a Logically Perfect Language’, in Beaney 2007a, 91–106 {§6.1}
+- –––, 2013, ‘Ideas of a Logically Perfect Language in Analytic Philosophy’, in Beaney 2013, 908–25
+- Irvine, A. D., 1989, ‘Epistemic Logicism and Russell’s Regressive Method’, *Philosophical Studies* 55: 303–27; repr. in Irvine 1999, Vol. II, 172–95
+- Irvine, A. D., (ed.), 1999, *Bertrand Russell: Critical Assessments*, 4 vols., London: Routledge [includes Irvine 1989]
+- Klement, Kevin, 2020, ‘Russell’s Logical Atomism’, *Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2020/entries/logical-atomism/>.
+- Lackey, Douglas, 1981, ‘Russell’s 1913 Map of the Mind’, in French *et al.* 1981 [132: Russell vs. Bradley on analysis] {§6.1}
+- Levine, James, 2001, ‘Logical Form, General Sentences, and Russell’s Path to “On Denoting”’, in Gaskin 2001, 74–115 {§6.1}
+- –––, 2002, ‘Analysis and Decomposition in Frege and Russell’, *Phil. Quar.* 52: 195–216; repr. in Beaney and Reck 2005, Vol. IV, 392–413 {§6.2}
+- –––, 2007, ‘Analysis and Abstraction Principles in Russell and Frege’, in Beaney 2007a {§6.1}
+- –––, 2018, ‘Russell and Wittgenstein on Occam’s Razor’, in Elkind and Landini 2018, 305–34
+- Linsky, Bernard, 2003, ‘The Metaphysics of Logical Atomism’, in Griffin 2003a, 371–91
+- –––, 2007, ‘Logical Analysis and Logical Construction’, in Beaney 2007a, 107–22 {§6.1}
+- –––, 2013, ‘Russell’s Theory of Descriptions and the Idea of Logical Construction’, in Beaney 2013a, 407–29 {§6.1}
+- –––, 2023, ‘Logical Constructions’, *Stanford Encyclopedia of Philosophy* (Fall 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/fall2023/entries/logical-construction/>.
+- Linsky, Bernard and Imaguire, Guido, (eds.), 2005, *On Denoting: 1905 – 2005*, München: Philosophia Verlag
+- Monk, Ray, 1996, ‘What is Analytical Philosophy?’, in Monk and Palmer 1996, 1–22
+- –––, 1997, ‘Was Russell an Analytical Philosopher?’, in Glock 1997, 35–50 {§6.1}
+- Monk, Ray and Palmer, Anthony, (eds.), 1996, *Bertrand Russell and the Origins of Analytical Philosophy*, Bristol: Thoemmes Press [includes Griffin 1996, Hylton 1996, Monk 1996]
+- Moore, G. E., 1944, ‘Russell’s “Theory of Descriptions”’, in Schilpp 1944, 175–225; repr. in Moore *PP* {§6.4}
+- Neale, Stephen, (ed.), 2005, *100 Years of ‘On Denoting’*, *Mind* 114, no. 456, special issue (Oct. 2005)
+- Pears, D. F., 1967, *Bertrand Russell and the British Tradition in Philosophy*, London: Collins [ch. 7: ‘Lines of Analysis’; chs. 8–9: logical atomism]
+- Peckhaus, Volker, 2002, ‘Regressive Analysis’, *Logical Analysis and the History of Philosophy* 4: 97–110
+- Potter, Michael, 2020, *The Rise of Analytic Philosophy, 1879–1930: From Frege to Ramsey*, Part II {§6.1}
+- Reck, Erich H., 2007, ‘Frege-Russell Numbers: Analysis or Explication’, in Beaney 2007a {§6.1}
+- Ricketts, Thomas, 2001, ‘Truth and Propositional Unity in Early Russell’, in Floyd and Shieh 2001, 101–21 {§6.1}
+- Rodríguez-Consuegra, Francisco A., 1991, *The Mathematical Philosophy of Bertrand Russell: Origins and Development*, Basel: Birkhäuser [§2.7: method of def.; §3.4: Peano’s method; ch. 5: methodology]
+- Russell, Bertrand, *FIAM*, ‘The Fundamental Ideas and Axioms of Mathematics’ (1899), in *CP*, II [299–300: analysis as destructive]
+- –––, *PL*, *The Philosophy of Leibniz* (1900, 2nd edn. 1937), with a new introd. by John G. Slater, London: Routledge, 1992 [8: philosophy as beginning with analysis {Quotation}; 110: abstraction is falsification]
+- –––, *POM*, *The Principles of Mathematics* (1903, 2nd edn. 1937), with a new introd. by John G. Slater, London: Routledge, 1992 [141, 466–7: analysis as falsification; 466: real vs. conceptual analysis] {Quotations}
+- –––, *OD*, ‘On Denoting’ (1905), *Mind* 14: 479–93; repr. in Russell *LK*, 41–56, *EA*, 103–19
+- –––, *RMD*, ‘The Regressive Method of Discovering the Premises of Mathematics’, in Russell *EA*, 272–83; paper orig. given in 1907 [analysis as regression to ultimate premises]
+- –––, *KAKD*, ‘Knowledge by Acquaintance and Knowledge by Description’ (1910), in Russell *ML*, 152–67; orig. publ. in *Proc. Aris. Soc.* 1910–11 [159: fundamental epistemological principle; 165: ‘analysing away’ definite descriptions] {Quotations}
+- –––, *PP*, *The Problems of Philosophy* (1912), Oxford: Oxford University Press, 1967 [44: fruitfulness of deduction]
+- –––, *TK*, *Theory of Knowledge: The 1913 Manuscript*, ed. Elizabeth Ramsden Eames in collaboration with Kenneth Blackwell, in *CP*, Vol. 7, London: George Allen and Unwin, 1984 [Part II, ch. II (119–28): ‘Analysis and Synthesis’ {Quotation}]
+- –––, *SMP*, ‘On Scientific Method in Philosophy’ (1914), in Russell *ML*, 75–93; Herbert Spencer lecture at Oxford [84–6: phil. as logic, involving analysis; 90–1: value of the analytic method] {Quotations}
+- –––, *RSDP*, ‘The Relation of Sense-Data to Physics’ (1914), in Russell *ML*, 108–31; orig. publ. in *Scientia* 1914 [115–6: supreme maxim in scientific philosophizing] {Quotation}
+- –––, *OKEW*, *Our Knowledge of the External World* (1914), with a new introd. by John G. Slater, London: Routledge, 1993; orig. publ. Open Court [156–8: vs. analysis as falsification; 189–90, 214, 245: analysis in phil.; 208–10: adequacy of defs.] {Quotations}
+- –––, *ML*, *Mysticism and Logic*, London: George Allen and Unwin, 1917
+- –––, *PLA*, ‘The Philosophy of Logical Atomism’ (1918), in *LK*, 175–281; orig. in *Monist* 28 and 29 [178–82: analysis; 189–98: legitimacy of analysis, analysis not def.] {Quotations}
+- –––, *IMP*, *Introduction to Mathematical Philosophy* (1919), with a new introd. by John G. Slater, London: Routledge, 1993; orig. publ. London: George Allen and Unwin [3–4: analysis and defs.; ch. 16: theory of descriptions]
+- –––, *OP*, ‘On Propositions: what they are and how they mean’ (1919), in *LK*, 285–320
+- –––, *LA*, ‘Logical Atomism’ (1924), in *LK*, 321–43; orig. in *Contemporary British Philosophy*, First Series, ed. J. H. Muirhead, London, 1924 [341: phil. as analysis {Quotation}]
+- –––, *IMT*, *An Inquiry into Meaning and Truth*, London: George Allen and Unwin, 1940; publ. Penguin, 1962 [ch. 24: ‘Analysis’]
+- –––, *HWP*, *History of Western Philosophy*, London: George Allen and Unwin, 1945, 2nd edn. 1961 [714–5: Hegel as enemy of analysis; final ch.: ‘The Philosophy of Logical Analysis’]
+- –––, *HK*, *Human Knowledge: Its Scope and Limits*, London: George Allen and Unwin, 1948 [logical analysis as reducing vagueness]
+- –––, *LK*, *Logic and Knowledge: Essays 1901–1950*, ed. R. C. Marsh, London: George Allen and Unwin, 1956
+- –––, *MSR*, ‘Mr Strawson on Referring’ (1957), in Russell *MPD*, 175–80; *EA*, 120–6; orig. in *Mind* 1957, 385–9 [theory of descriptions]
+- –––, *MPD*, *My Philosophical Development*, London: George Allen and Unwin, 1959; publ. Unwin Paperbacks, 1985 [98–9: analysis fruitful] {Quotations}
+- –––, *ABR*, *Autobiography*, 3 vols., 1967–9; publ. in one vol., Unwin Paperbacks, 1978
+- –––, *EA*, *Essays in Analysis*, ed. Douglas Lackey, London: George Allen and Unwin, 1973
+- –––, *CP*, *The Collected Papers of Bertrand Russell*, 28 vols., London, 1983–
+- –––, *CP2*, *Philosophical Papers 1896–99*, *The Collected Papers of Bertrand Russell*, Vol. 2, ed. N. Griffin and A.C. Lewis, London: Unwin Hyman, 1990 [299–300: analysis]
+- –––, *CP3*, *Towards the “Principles of Mathematics” 1900–02*, *The Collected Papers of Bertrand Russell*, Vol. 3, ed. G. H. Moore, London: Routledge, 1993 [35–9, 160–1: whole–part analysis]
+- –––, *CP4*, *Foundations of Logic 1903–05*, *The Collected Papers of Bertrand Russell*, Vol. 4, ed. A. Urquhart, London: Routledge, 1994 [96: two senses of ‘function’; 118, 256: twofold analysis of a prop. {Quotations}]
+- –––, *CP6*, *Logical and Philosophical Papers 1909–13*, *The Collected Papers of Bertrand Russell*, Vol. 6, ed. J. G. Slater, London: Routledge, 1992 [11–12: analysis of general props.; 340–1: critique of Bergson on analysis]
+- Russell, B. and Whitehead, A. N., *PM*, *Principia Mathematica*, Cambridge: Cambridge University Press, 1910–13; 2nd edn. 1925
+- Sainsbury, R. M., 1979, *Russell*, London: Routledge [109–33: adequacy of Russellian analysis of definite descriptions; ch. 5: ‘The Perfect Language’; 298–9: def. of number]
+- Schilpp, P. A., (ed.), 1944, *The Philosophy of Bertrand Russell*, Evanston and Chicago: Northwestern University [includes Moore 1944, Weitz 1944]
+- Soames, Scott, 2003, *Philosophical Analysis in the Twentieth Century*, Volume 1: *The Dawn of Analysis*, New Jersey: Princeton University Press, Part 2 [ch. 5: theory of descriptions; ch. 6: logicist reduction; ch. 7: logical constructions; ch. 8: logical atomism] {§1.2, §6.1}
+- Stevens, Graham, 2003, ‘The Truth and Nothing but the Truth, Yet Never the Whole Truth: Frege, Russell and the Analysis of Unities’, *History and Philosophy of Logic* 24: 221–40
+- –––, 2005, *The Russellian Origins of Analytical Philosophy: Bertrand Russell and the Unity of the Proposition*, London: Routledge
+- –––, 2011, *The Theory of Descriptions: Russell and the Philosophy of Language*, Basingstoke: Palgrave Macmillan
+- Strawson, P. F., 1950, ‘On Referring’, *Mind* 59: 320–44; repr. in Strawson 1971, 1–27
+- –––, 1964, ‘Identifying Reference and Truth-Values’, *Theoria* 30: 96–118; repr. in Strawson 1971, 75–95
+- –––, 1971, *Logico-Linguistic Papers*, London: Methuen
+- Urmson, J. O., 1956, *Philosophical Analysis: Its Development between the Two World Wars*, Oxford: Oxford University Press [Part I: logical atomism] {§1.2}
+- Weitz, Morris, 1944, ‘Analysis and the Unity of Russell’s Philosophy’, in Schilpp 1944, 57–121 [distinguishes four forms of analysis: ‘ontological analysis’, ‘formal analysis’, ‘logistic’, and ‘constructionism’]
+- Wisdom, John, 1931, *Interpretation and Analysis in Relation to Bentham’s Theory of Definition*, London: Kegan Paul {§1.2}
+
+### 6.4 G. E. Moore
+
+- Ackerman, Diana F., 1981, ‘The Informativeness of Philosophical Analysis’, in French *et al.* 1981, 313–20 [Moore, Langford and the paradox of analysis] {§6.1}
+- Ambrose, Alice, 1960, ‘Three Aspects of Moore’s Philosophy’, in Ambrose 1966, 205–13 {§6.9}; also in Ambrose and Lazerowitz 1970, 80–8; orig. in *J. Phil.* 57 [205–11: Moore on analysis]
+- Ambrose, Alice and Lazerowitz, Morris, (eds.), 1970, *G. E. Moore: Essays in Retrospect*, London: George Allen and Unwin [includes Ambrose 1960, Greig 1970]
+- Ayer, A. J., 1971, *Russell and Moore: The Analytical Heritage*, London: Macmillan [chs. 6–9 on Moore: ch. 9 on analysis] {§1.2, §6.1, §6.3}
+- Baldwin, Thomas, 1990, *G. E. Moore*, London: Routledge [61–6: analysis in Moore’s early work; ch. 7: ‘Philosophical Analysis’] {§1.2}
+- –––, 2013, ‘G. E. Moore and the Cambridge School of Analysis’, in Beaney 2013a, 430–50 {§6.1}
+- Beaney, Michael, 2017a, *Analytic Philosophy: A Very Short Introduction*, Oxford: Oxford University Press, ch. 3
+- Bell, David, 1999, ‘The Revolution of Moore and Russell: A Very British Coup?’, in O’Hear 1999, 193–208 {§6.1}
+- Black, Max, (ed.), 1950, *Philosophical Analysis: A Collection of Essays*, Cornell University Press [includes introd.]
+- –––, 1950a, ‘Introduction’ to Black 1950, 1–14 [§3: Moore on analysis]
+- Blackburn, Simon, 1973, *Reason and Prediction*, Cambridge: Cambridge University Press [26–31: ‘Moore’s argument’]
+- Bouwsma, O. K., 1986, *Wittgenstein: Conversations 1949–1951*, ed. J. L. Craft and Ronald E. Hustwit, Indianapolis: Hackett [18–19: Moore’s paradox of analysis]
+- Fain, Haskell, 1970, *Between Philosophy and History*, Princeton University Press [85–96: Moore on analysis]
+- Fumerton, Richard, 2007, ‘Open Questions and the Nature of Philosophical Analysis’, in Nuccetelli and Seay 2007, ch. 11
+- Gram, M. S., 1969, ‘The Paradox of Analysis’, in Klemke 1969, 258–75
+- Greig, Gordon, 1970, ‘Moore and Analysis’, in Ambrose and Lazerowitz 1970, 242–68
+- Hacker, P. M. S., 1996, *Wittgenstein’s Place in Twentieth-Century Analytic Philosophy*, Oxford: Blackwell [6–8] {§1.2, §6.1}
+- Hylton, Peter, 1990, *Russell, Idealism, and the Emergence of Analytic Philosophy*, Oxford: Oxford University Press [143–6: Moore on analysis] {§6.3}
+- Jager, R., 1969, ‘Analyticity and Necessity in Moore’s Early Work’, *J. Hist. Phil.* 7: 441–58 [Moore and Leibniz]
+- King, Jeffrey C., 2016, ‘Philosophical and Conceptual Analysis’, in Cappelen, Gendler and Hawthorne 2016, 249–61 {§6.1}
+- Klemke. E. D., (ed.), 1969, *Studies in the Philosophy of G.E. Moore*, Chicago: Quadrangle Books [includes Gram 1969, Lazerowitz 1958]
+- Langford, C. H., 1942, ‘The Notion of Analysis in Moore’s Philosophy’, in Schilpp 1942, 321–42
+- –––, 1949, ‘The Nature of Formal Analysis’, *Mind* 58: 210–14
+- –––, 1964, ‘Analysis’, *Phil. Phen. Res.* 25: 117–21
+- Lazerowitz, Morris, 1964, *Studies in Metaphilosophy*, London: Routledge and Kegan Paul [ch. 1 (1–76): ‘Methods of Philosophy’]
+- –––, 1958, ‘Moore and Philosophical Analysis’, *Philosophy* 33: 193–220; repr. in Lazerowitz 1964, 182–213, Klemke 1969, 227–57
+- Lewy, Casimir, 1976, *Meaning and Modality*, Cambridge: Cambridge University Press [chs. 6–7: paradox of analysis] {§6.7}
+- Moore, G. E., *NJ*, ‘The Nature of Judgement’ (1899), in Moore *SW*, 1–19 {Quotation}
+- –––, *PE*, *Principia Ethica*, Cambridge: Cambridge University Press, 1903 {Quotations}
+- –––, *DCS*, ‘A Defence of Common Sense’ (1925), in Moore *SW*, 106–33; orig. publ. in Muirhead 1925, 192–233; also in Moore *PP*, 32–59 [111, 127–8: understanding meaning not the same as giving a correct analysis]
+- –––, *JA*, ‘The Justification of Analysis’ (1933), *Analysis* 1, 28–30; lecture notes taken by Margaret Masterman; fuller version in Moore *LP*, 165–71
+- –––, *A*, ‘An Autobiography’, in Schilpp 1942, 1–39
+- –––, *RC*, ‘A Reply to my Critics’, §11: ‘Analysis’, in Schilpp 1942, 660–7
+- –––, *RTD*, ‘Russell’s “Theory of Descriptions”’, in Schilpp 1944, 175–225 {§6.3}; repr. in Moore *PP*, 151–95
+- –––, *PP*, *Philosophical Papers*, London: George Allen and Unwin, 1959
+- –––, *CB*, *The Commonplace Book of G. E. Moore 1919–1953*, London: George Allen and Unwin, 1962 [255–7: analysis and ‘analytic’; 365–9: analysis and Plato’s distinction between a reality, its *logos* and its name; 372–3: Frege and analyticity; 388: Kant and analyticity]
+- –––, *LP*, *Lectures on Philosophy*, ed. Casimir Lewy, London: George Allen and Unwin, 1966 [Part III, Selections From a Course of Lectures Given in 1933–34: ‘I: What is analysis?’; ‘II: The justification of analysis’]
+- –––, *SW*, *Selected Writings*, ed. Thomas Baldwin, London: Routledge, 1993
+- Muirhead, J. H., (ed.), 1925, *Contemporary British Philosophy*, Second Series, London: George Allen and Unwin [includes Moore 1925]
+- Mundle, C. W. K., 1979, *A Critique of Linguistic Philosophy*, 2nd edn., Oxford: Oxford University Press; 1st edn. 1970 [1st edn., 153–8: Moore and the paradox of analysis]
+- Myers, C. Mason, 1971, ‘Moore’s Paradox of Analysis’, *Metaphilosophy* 2: 295–308 [in a correct analysis, identity of property concepts, but not of occurrent concepts; knowledge how transformed into knowledge that]
+- Nuccetelli, Susana, and Seay, Gary, (eds.), 2007, *Themes from G. E. Moore: New Essays in Epistemology and Ethics*, Oxford: Oxford University Press
+- O’Connor, David, 1982, ‘Moore and the Paradox of Analysis’, *Philosophy* 57: 211–22 [offers a Moorean solution]
+- Schilpp, P. A., (ed.), 1942, *The Philosophy of G.E. Moore*, 3rd edn., La Salle, Illinois: Open Court, 1968; 1st edn. 1942, 2nd edn. 1952 [includes Langford 1942, Moore 1942 and Wisdom 1942]
+- Soames, Scott, 2003, *Philosophical Analysis in the Twentieth Century*, Volume 1: *The Dawn of Analysis*, New Jersey: Princeton University Press, Part 1 [ch. 1: ‘Common Sense and Philosophical Analysis’] {§1.2, §6.1}
+- White, Alan R., 1958, *G. E. Moore: A Critical Exposition*, Oxford: Blackwell [ch. V: ‘Analysis’; ch. VI: ‘Analysis and Language’]
+- Wisdom, John, 1942, ‘Moore’s Technique’, in Schilpp 1942, 421–50; repr. in Wisdom 1953, 120–48 {§6.6}
+
+### 6.5 Ludwig Wittgenstein
+
+- Baker, Gordon, 2001, ‘Wittgenstein’s “Depth Grammar”’, *Language and Communication* 21: 303–19; repr. in Baker 2004, 73–91
+- –––, 2003, ‘Wittgenstein’s Method and Psychoanalysis’, in Baker 2004, 205–22; orig. publ. 2003
+- –––, 2004, *Wittgenstein’s Method: Neglected Aspects*, ed. Katherine J. Morris, Oxford: Blackwell [includes Baker 2001, 2003]
+- Baker, G. P. and Hacker, P. M. S., 1980, *Wittgenstein: Understanding and Meaning*, Oxford: Blackwell; republ. in 2 vols. in paperback as Baker and Hacker 1983a and 1983b [113–17: ‘Disguised descriptions and analysis’; ch. 2: ‘Ostensive definition and analysis’; ch. 3: ‘Determinacy of sense’; 494–6: exegesis of *PI*, §§ 91–2]
+- –––, 1983a, *An Analytical Commentary on Wittgenstein’s Philosophical Investigations*, Oxford: Blackwell
+- –––, 1983b, *Wittgenstein: Meaning and Understanding*, Oxford: Blackwell
+- –––, 1984, *Language, Sense and Nonsense*, Oxford: Blackwell [135–40: analysis in the logical atomism of Russell and Wittgenstein]
+- –––, 1985, *Wittgenstein: Rules, Grammar and Necessity*, Oxford: Blackwell
+- –––, 2005a, *Wittgenstein: Understanding and Meaning, Part I: Essays*, 2nd edn. of Baker and Hacker 1983b, rev. P. M. S. Hacker, Oxford: Blackwell [ch. 4: descriptions and analysis; ch. 11: family resemblance; ch. 13: ‘Turning the examination around’; ch. 14: philosophy]
+- –––, 2005b, *Wittgenstein: Understanding and Meaning, Part II: Exegesis §§ 1–184*, 2nd edn. of Baker and Hacker 1983a, rev. P. M. S. Hacker, Oxford: Blackwell [205–9: exegesis of *PI*, §§ 91–2]
+- Beaney, Michael, 2017a, *Analytic Philosophy: A Very Short Introduction*, Oxford: Oxford University Press, ch. 4
+- –––, 2017b, ‘First Steps and Conceptual Creativity’, in Conant and Sunday 2017, 119–42
+- –––, 2023, ‘Introduction’ to Wittgenstein *TLP* (2023), xiii–lxvii
+- Carruthers, Peter, 1990, *The Metaphysics of the Tractatus*, Cambridge: Cambridge University Press [ch. 7: ‘The programme of analysis’]
+- Cerezo, Maria, 2004, ‘Tensions in the Tractarian Notion of Analysis: A New Interpretation of *Tractatus* 4.221’, in W. Löffler and P. Weingartner, (eds.), *Knowledge and Belief/Wissen und Glauben*, Vienna: öbv-hpt, 32–43
+- Coffa, J. Alberto, 1991, *The Semantic Tradition from Kant to Carnap*, Cambridge: Cambridge University Press [chs. 8, 13–14] {§1.2, §6.1}
+- Conant, James, 2000, ‘Elucidation and nonsense in Frege and early Wittgenstein’, in Crary and Read 2000, 174–217 [shorter version of Conant 2002]
+- –––, 2002, ‘The Method of the *Tractatus*’, in Reck 2002, 374–462 [elucidation, sense and nonsense in Frege, Wittgenstein and Carnap] {§6.1}
+- Conant, James and Sebastian Sunday, (eds.), 2019, *Wittgenstein on Philosophy, Objectivity, and Meaning*, Cambridge: Cambridge University Press [includes Beaney 2017b, Gustafsson 2017, Glock 2017b]
+- Copi, Irving M. and Beard, Robert W., (eds.), 1966, *Essays on Wittgenstein’s Tractatus*, London: Routledge [includes Wittgenstein *RLF*]
+- Crary, Alice and Read, Rupert, (eds.), 2000, *The New Wittgenstein*, London: Routledge [includes Diamond 1991b, Conant 2000, Hacker 2000]
+- Diamond, Cora, 1988, ‘Throwing Away the Ladder: How to Read the *Tractatus*’, in Diamond 1991a, 179–204; orig. publ. *Philosophy* 63 (1988)
+- –––, 1991a, *The Realistic Spirit: Wittgenstein, Philosophy, and the Mind*, Cambridge, Mass.: MIT Press [includes Diamond 1984 {§6.2}, 1988]
+- –––, 1991b, ‘Ethics, imagination and the method of Wittgenstein’s *Tractatus*’, in Crary and Read 2000, 149–73
+- –––, 2019, *Reading Wittgenstein with Anscombe, Going On to Ethics*, Cambridge, MA: Harvard University Press [Part I]
+- Engelmann, Mauro Luiz, 2021, *Reading Wittgenstein’s* Tractatus, Cambridge: Cambridge University Press [ch. 2]
+- Floyd, Juliet, 2001, ‘Number and Ascriptions of Number in Wittgenstein’s *Tractatus*’, in Floyd and Shieh 2001, 145–91; and in Reck 2002, 308–52 {§6.1}
+- Fogelin, Robert J., 1987, *Wittgenstein*, 2nd edn., London: Routledge; 1st edn. 1976 [130–2: ‘The attack on analysis’]
+- Frascolla, Pasquale, 1994, *Wittgenstein’s Philosophy of Mathematics*, London: Routledge [128–42: ‘Mathematical proofs as paradigms’]
+- Geach, P. T., 1976, ‘Saying and Showing in Frege and Wittgenstein’, in Hintikka *et al.* 1976, 54–70
+- Glock, Hans-Johann, 1996, *A Wittgenstein Dictionary*, Oxford: Blackwell [entry under logical analysis]
+- –––, 2017a, ‘Philosophy and Philosophical Method’, in Glock and Hyman 2017, 231-51
+- –––, 2017b, ‘What is Meaning: A Wittgensteinian Answer to an Un-Wittgensteinian Question’, in Conant and Sunday 2017, 185–210 [§11: connective analysis]
+- Glock, Hans-Johann and John Hyman, (eds.), 2017, *A Companion to Wittgenstein*, Oxford: Wiley-Blackwell [includes Glock 2017a]
+- Goldfarb, Warren, 1997, ‘Wittgenstein on Fixity of Meaning’, in Tait 1997, 75–89 {§6.1}
+- –––, 2002, ‘Wittgenstein’s Understanding of Frege’, in Reck 2002, 185–200 [F’s judgement-based vs. W’s object-based conception of analysis] {§6.1}
+- Gustafsson, Martin, 2017, ‘Wittgenstein and Analytic Revisionism’, in Conant and Sunday 2017, 143–63
+- Hacker, P.M.S., 1986, *Insight and Illusion*, rev. edn., Oxford: Oxford University Press; 1st edn. 1972 [chs. 1, 6: Wittgenstein’s early and later conceptions of philosophy]
+- –––, 1996, *Wittgenstein’s Place in Twentieth-Century Analytic Philosophy*, Oxford: Blackwell [esp. 3–16, 35–8, 42–4, 72–5, 103-17, 159–61, 274n.3, 275n.4] {§1.2, §6.1}
+- –––, 2000, ‘Was he trying to whistle it?’, in Crary and Read 2000, 353–88
+- Hanfling, Oswald, 1989, *Wittgenstein’s Later Philosophy*, London: Macmillan [ch. 4: ‘Explanations Come to an End’]
+- Hanna, Robert, 2007, ‘Kant, Wittgenstein, and the Fate of Analysis’, in Beaney 2007a, 142–63 {§1.2, §6.1}
+- Hintikka, Jaakko *et al.*, (eds.), 1976, *Essays on Wittgenstein in Honour of G.H. von Wright*, *Acta Philosophica Fennica* 28, Amsterdam [includes Geach 1976]
+- Hylton, Peter, 1997, ‘Functions, Operations and Sense in Wittgenstein’s *Tractatus*’, in Tait 1997, 91–105 {§6.1}; repr. in Hylton 2005a, 138–52 {§6.3}
+- Kenny, Anthony, 1973, *Wittgenstein*, London: Penguin [80–4, 97–8, 101: early Witt. on analysis]
+- Kremer, Michael, 2012, ‘Russell’s Merit’, in Zalabardo 2012, 195–240
+- Kuusela, Oskari, 2019, *Wittgenstein on Logic as the Method of Philosophy*, Oxford: Oxford University Press [chs. 1–2]
+- Malcolm, Norman, 1986, *Nothing is Hidden: Wittgenstein’s Criticism of his Early Thought*, Oxford: Blackwell [ch. 6: ‘Two Kinds of Logical Analysis’]
+- McGinn, Marie, 1999, ‘Between Metaphysics and Nonsense: The Role of Elucidation in Wittgenstein’s *Tractatus*’, *Philosophical Quarterly* 49: 491–513
+- –––, 2006, *Elucidating the Tractatus: Wittgenstein’s Early Philosophy of Logic and Language*, Oxford: Oxford University Press [ch. 5: analysis of propositions]
+- McManus, Denis, 2006, *The Enchantment of Words: Wittgenstein’s* Tractatus Logico-Philosophicus, Oxford: Oxford University Press [App. A.5]
+- Nordmann, Alfred, 2005, *Wittgenstein’s Tractatus: An Introduction*, Cambridge: Cambridge University Press [161–4: analysis and sense]
+- Phillips, Dawn M., 2007, ‘Complete Analysis and Clarificatory Analysis in Wittgenstein’s *Tractatus*’, in Beaney 2007a, 164–77 {§1.2, §6.1}
+- Potter, Michael, 2009, *Wittgenstein’s Notes on Logic*, Oxford: Oxford University Press [ch. 4]
+- –––, 2020, *The Rise of Analytic Philosophy, 1879–1930: From Frege to Ramsey*, Part III {§6.1}
+- Priest, Graham, 2002, *Beyond the Limits of Thought*, Oxford: Oxford University Press [ch. 12: saying and showing] {{§4.5, §5.8}
+- Proops, Ian, 2002, ‘The *Tractatus* on Inference and Entailment’, in Reck 2002, 283–307 {§6.1}
+- –––, 2022, ‘Wittgenstein’s Logical Atomism’, *Stanford Encyclopedia of Philosophy* (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/fall2022/entries/wittgenstein-atomism/>.
+- Ricketts, Thomas, 2017, ‘Pictures, Logic, and the Limits of Sense in Wittgenstein’s *Tractatus*’, in Sluga and Stern 2017, 54–95 [W’s critique of Russell on judgement and relations]
+- –––, 2002, ‘Wittgenstein against Frege and Russell’, in Reck 2002, 227–51 [W vs. R’s multiple relation analysis of judgement] {§6.1}
+- Sluga, Hans and Stern, David G., (eds.), 2017, *The Cambridge Companion to Wittgenstein*, 2nd edn., Cambridge: Cambridge University Press [includes Ricketts 2017]
+- Strawson, P. F., 1992, *Analysis and Metaphysics: An Introduction to Philosophy*, Oxford: Oxford University Press [ch. 1: ‘Analytical Philosophy: Two Analogies’; ch. 2: ‘Reduction or Connection? Basic Concepts’ – ‘connective’ to displace ‘reductive’ analysis] {§1.2, §6.8}
+- Urmson, J. O., 1956, *Philosophical Analysis: Its Development between the Two World Wars*, Oxford: Oxford University Press [Part I: logical atomism] {§1.2, §6.1}
+- Waismann, Friedrich, 1940, ‘Was ist logische Analyse?’, *Erkenntnis* 8 (1939–40): 265–89; repr. in Waismann 1973, 42–66
+- –––, 1956, ‘How I See Philosophy’, in Ayer 1959, 345–80 {§6.7}; Waismann 1968
+- –––, *PLP*, *The Principles of Linguistic Philosophy*, ed. R. Harré, London: Macmillan, 1965 [125–6, 163–93: defs. and explanations]
+- –––, 1968, *How I See Philosophy*, ed. R. Harré, London [includes Waismann 1956]
+- –––, 1973, *Was ist logische Analyse?*, ed. Gerd H. Reitzig, Frankfurt: Athenäum
+- –––, *WVC*, *Wittgenstein and the Vienna Circle*, ed. B. McGuinness, tr. J. Schulte and B. McGuinness, Oxford: Blackwell, 1979 [also cited under Wittgenstein *WVC*]
+- Wittgenstein, Ludwig, *NB*, *Notebooks 1914–1916*, 2nd edn., ed. G. H. von Wright and G. E. M. Anscombe, tr. G. E. M. Anscombe, Oxford: Blackwell, 1979; 1st edn. 1961 [11, 46–7, 50, 60–5: analysis] {Quotations}
+- –––, *TLP*, *Tractatus Logico-Philosophicus*, tr. M. Beaney, Oxford: Oxford University Press, 2023; also tr. D. F. Pears and B. McGuinness, London: Routledge, 1961, 1974; orig. tr. F. P. Ramsey and C. K. Ogden, London: Routledge, 1922 [3.2 – 4.0031, 4.221, 5.5562] {Quotations}
+- –––, *RLF*, ‘Some Remarks on Logical Form’, in Copi and Beard 1966, 31–7; orig. in *Proc. Aris. Soc. Supp.* 1929, 162–71
+- –––, *WVC*, *Ludwig Wittgenstein and the Vienna Circle*, conversations recorded by Friedrich Waismann, ed. B. McGuinness, tr. J. Schulte and B. McGuinness, Oxford: Blackwell, 1979
+- –––, *PR*, *Philosophical Remarks*, ed. R. Rhees, tr. R. Hargreaves and R. White, Oxford: Blackwell, 1975 [§§ 1–3, 46, 115, 147, 205: analysis; App. 1, ‘Complex and Fact’] {Quotations}
+- –––, *PG*, *Philosophical Grammar*, ed. R. Rhees, tr. A. Kenny, Oxford: Blackwell, 1974
+- –––, *BT*, *The Big Typescript: TS 213*, ed. and tr. C. G. Luckhardt and M. A. E. Aue, Oxford: Blackwell, 2005 [299–318: philosophy {Quotation}]
+- –––, *BB*, *The Blue and Brown Books*, 2nd edn., Oxford: Blackwell, 1974; 1st edn. 1958
+- –––, *RFM*, *Remarks on the Foundations of Mathematics*, 3rd edn., ed. G. H. von Wright, R. Rhees and G. E. M. Anscombe, tr. G. E. M. Anscombe, Oxford: Blackwell, 1978; 1st edn. 1956
+- –––, *PI*, *Philosophical Investigations*, 3rd edn., tr. G. E. M. Anscombe, Oxford: Blackwell, 1978; 1st edn. 1956 [§§ 39–64: simples; §§ 65–88: determinacy of sense; §§ 89–133: logic, analysis and phil.; §§ 383, 392] {Quotations}
+- –––, *Z*, *Zettel*, 2nd edn., ed. G. E. M. Anscombe and G. H. von Wright, tr. G. E. M. Anscombe, Oxford: Blackwell, 1982; 1st edn. 1967 [§338]
+- –––, *OC*, *On Certainty*, ed. G. E. M. Anscombe and G. H. von Wright, tr. D. Paul and G. E. M. Anscombe, Oxford: Blackwell, 1969
+- –––, *RC*, *Remarks on Colour*, ed. G. E. M. Anscombe, tr. L. McAlister and M. Schättle, Oxford: Blackwell, 1977 [I §32; II §16; III §19]
+- Wright, Crispin, 1980, *Wittgenstein on the Foundations of Mathematics*, London: Duckworth [ch. 3: ‘Mathematics as Modifying Concepts’; ch. 18: analyticity]
+- Zalabardo, José L., (ed.), 2012, *Wittgenstein’s Early Philosophy*, Oxford: Oxford University Press [includes Kremer 2012]
+
+### 6.6 Susan Stebbing and the Cambridge School of Analysis
+
+- Ayer, A. J., 1937, ‘Does Philosophy analyse Common Sense?’, *Proc. Aris. Soc. Supp.* 16: 162–76 [symposium with A. E. Duncan-Jones]
+- –––, 1977, *Part of my Life*, Oxford: Oxford University Press [150–1, 156: ‘Cambridge School of Analysis’]
+- Baldwin, Thomas, 2013, ‘G. E. Moore and the Cambridge School of Analysis’, in Beaney 2013a, 430–50 {§6.1}
+- Beaney, Michael, 2000, ‘Conceptions of Analysis in Early Analytic Philosophy’, *Acta Analytica* 15: 97–115 {§6.1}
+- –––, 2003, ‘Susan Stebbing on Cambridge and Vienna Analysis’, in Friedrich Stadler, (ed.), *The Vienna Circle and Logical Empiricism*, Vienna Circle Institute Yearbook 10 [2002], Dordrecht: Kluwer, 339–50
+- –––, 2005a, ‘Duncan-Jones, Austin Ernest (1908–67)’, in Stuart Brown, ed., *Dictionary of Twentieth-Century British Philosophers*, Bristol: Thoemmes Continuum; repr. in Anthony Grayling, Andrew Pyle and Naomi Goulder, (eds.), *The Continuum Encyclopedia of British Philosophy*, London: Continuum/Thoemmes, 2006, 916–17 [founding of journal *Analysis*]
+- –––, 2005b, ‘Stebbing, Lizzie Susan (1885–1943)’, in Stuart Brown, ed., *Dictionary of Twentieth-Century British Philosophers*, Bristol: Thoemmes Continuum; repr. in Anthony Grayling, Andrew Pyle and Naomi Goulder, (eds.), *The Continuum Encyclopedia of British Philosophy*, London: Continuum/Thoemmes, 2006, 3023–8
+- –––, 2016, ‘Susan Stebbing and the Early Reception of Logical Empiricism in Britain’, in Christian Damböck, ed., *Influences on the Aufbau*, Vienna Circle Institute Yearbook, Volume 18, Springer: Switzerland, 233–56
+- –––, 2017a, *Analytic Philosophy: A Very Short Introduction*, Oxford: Oxford University Press, ch. 5
+- Beaney, Michael and Siobhan Chapman, 2022, ‘Susan Stebbing’, *Stanford Encyclopedia of Philosophy* (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/fall2022/entries/stebbing/>. [§3: Cambridge analysis; §4: logical positivism]
+- Black, Max, 1933, ‘Philosophical Analysis’, *Proc. Aris. Soc.* 33: 237–58
+- –––, 1934, ‘Is Analysis a Useful Method in Philosophy?’, *Proc. Aris. Soc. Supp.* 13: 53–64 [symposium with John Wisdom and Maurice Cornforth; cf. Ayer 1977, 156 {§6.7}]
+- –––, 1938, ‘Relations between Logical Positivism and the Cambridge School of Analysis’, *Erkenntnis* 8: 24–35
+- Broad, C. D., 1924, ‘Critical and Speculative Philosophy’, in J. H. Muirhead, ed., *Contemporary British Philosophy* (First Series), London: Allen and Unwin
+- –––, 1947, ‘Some Methods of Speculative Philosophy’, *Proc. Aris. Soc. Supp.* 21: 1–32
+- Bronstein, Eugene D., 1934, ‘Miss Stebbing’s Directional Analysis and Basic Facts’, *Analysis* 2: 10–14 [reply to Stebbing 1932 and 1933a]
+- Chapman, Siobhan, 2013, *Susan Stebbing and the Language of Common Sense*, Basingstoke: Palgrave Macmillan
+- Cornforth, Maurice, 1934, ‘Is Analysis a Useful Method in Philosophy?’, *Proc. Aris. Soc. Supp.* 13: 90–118 [symposium with Black and Wisdom]
+- Duncan-Jones, Austin E., 1937a, ‘Does Philosophy analyse Common Sense?’, *Proc. Aris. Soc. Supp.* 16: 139–61 [symposium with A.J. Ayer]
+- –––, 1937b, ‘Lewy’s Remarks on Analysis’, *Analysis* 5: 5–12 [reply to Lewy 1937]
+- Ewing, A. C., 1935, ‘Two Kinds of Analysis’, *Analysis* 2: 60–4
+- –––, 1948, ‘Philosophical Analysis’, in *Philosophical Studies: Essays in Memory of L. Susan Stebbing*, London: George Allen and Unwin, for the Aris. Soc., 1948, 67–84 [discussion of Stebbing 1932 and 1933a]
+- Hacker, P. M. S., 1996, *Wittgenstein’s Place in Twentieth-Century Analytic Philosophy*, Oxford: Blackwell [ch. 4] {§1.2, §6.1}
+- Körner, S., 1959, ‘Broad on Philosophical Method’, in Schilpp 1959
+- Lewy, Casimir, 1937, ‘Some Remarks on Analysis’, *Analysis* 5: 1–5 [reply to Duncan-Jones 1937]
+- Paul, George A., 1934, ‘Reports of Discussions at Cardiff, July 1934’, *Analysis* 2: 25–32 [29–32: report on debate between Black 1934, Cornforth 1934 and Wisdom 1934]
+- Passmore, John, 1966, *A Hundred Years of Philosophy*, 2nd edn., London: Penguin, 1st edn. 1957 [ch. 15] {§6.1}
+- Ramsey, Frank P., 1925, ‘The Foundations of Mathematics’, in Ramsey 1931, 1–61; Ramsey 1978, 152–212
+- –––, 1931, *The Foundations of Mathematics*, London: Routledge
+- –––, 1931a, ‘Philosophy’, in Ramsey 1931, also in Ayer 1959, 321–6 [definitions in philosophy] {§6.7}
+- –––, 1978, *Foundations*, ed. D. H. Mellor, London: Routledge; rev. edn. of Ramsey 1931
+- Raysmith, Thomas and Michael Beaney, (eds.), 2023, *Analysis*, Special Issue on Analysis
+- Schilpp, P. A., (ed.), 1959, *The Philosophy of C. D. Broad*, New York: Tudor Publishing Co. [includes Körner 1959]
+- Stebbing, L. S., 1932, ‘The Method of Analysis in Metaphysics’, *Proc. Aris. Soc.* 33:, 65–94
+- –––, 1933a, *A Modern Introduction to Logic*, 2nd edn., London: Methuen; 1st edn. 1930; 7th edn. 1950 [177–80: method of proof vs. method of analysis; ch. 16: hypothesis; ch. 18: functional analysis; ch. 22: definition; App. B: logical constructions; App. C: postulational analysis]
+- –––, 1933b, ‘Logical Positivism and Analysis’, *Proc. Brit. Acad.* 19: 53–87 {Quotation}
+- –––, 1934, ‘Directional Analysis and Basic Facts’, *Analysis* 2: 33–6 [reply to Bronstein 1934]
+- –––, 1939, ‘Some Puzzles about Analysis’, *Proc. Aris. Soc.* 39: 69–84
+- Urmson, J. O., 1956, *Philosophical Analysis: Its Development between the Two World Wars, Oxford: Oxford University Press* {§1.2, §6.1}
+- –––, 1962, ‘The History of Philosophical Analysis’, together with discussion of the paper, in Rorty 1967, 294–311 {§6.1} {Quotations}
+- Williams, Donald C., 1936, ‘Analysis, Analytic Propositions, and Real Definitions’, *Analysis* 3: 75–80 [analysis as the framing of ‘real definitions’]
+- Wisdom, John, 1931, *Interpretation and Analysis in Relation to Bentham’s Theory of Definition*, London: Kegan Paul {§1.2, §6.1}
+- –––, 1931–3, ‘Logical Constructions’, Parts I–V, *Mind* 40–42, Parts I–II, 40; Part III, 41, 441–64; Part IV, 42, 43–66; Part V, 42, 186–202
+- –––, 1933, ‘Ostentation’, in Wisdom 1953, 1–15; orig. in *Psyche* XIII
+- –––, 1934, ‘Is Analysis a Useful Method in Philosophy?’, in Wisdom 1953, 16–35; orig. in *Proc. Aris. Soc. Supp.* 13: 65–89 [symposium with Black and Cornforth]
+- –––, 1953, *Philosophy and Psycho-analysis*, Oxford: Blackwell
+
+### 6.7 Rudolf Carnap and Logical Positivism
+
+- Awodey, Steve and Klein, Carsten (eds.), *Carnap Brought Home: The View from Jena*, Chicago: Open Court [includes Mormann 2004, Beaney 2004, Ricketts 2004, Carus 2004]
+- Ayer, A. J., 1936, *Language, Truth and Logic*, London: Penguin; 2nd edn. 1946 [75–6: vs. analysis as empirical ‘dissection’; ch. 3: ‘The Nature of Philosophical Analysis’] {Quotations}
+- –––, 1946, ‘Introduction’ to 2nd edn. of Ayer 1936 [29–35: ‘The Nature of Philosophical Analysis’] {Quotation}
+- –––, (ed.), 1959, *Logical Positivism*, Glencoe, Illinois: Free Press [includes Carnap 1930, 1932, Ramsey 1931a {§6.6}, Ryle 1946 {§6.8}, Schlick 1930, Waismann 1956 {§6.5}, and a useful bib.]
+- –––, 1973, *The Central Questions of Philosophy*, London: Penguin [ch. 3: ‘Philosophical Analysis’; ch. 9, § B: ‘Analyticity’]
+- Baldwin, Thomas, 2007, ‘C. I. Lewis: Pragmatism and Analysis’, in Beaney 2007a, 178–95 {§6.1}
+- Beaney, Michael, 2004, ‘Carnap’s Conception of Explication: From Frege to Husserl?’, in Awodey and Klein 2004, 117–50
+- Beth, E.W., 1963, ‘Carnap’s Views on the Advantages of Constructed Systems Over Natural Languages in the Philosophy of Science’, in Schilpp 1963, 469–502
+- Bohnert, Herbert G., 1963, ‘Carnap’s Theory of Definition and Analyticity’, in Schilpp 1963, 407–30
+- Carnap, Rudolf, 1926, *Physikalische Begriffsbildung*, Karlsruhe: G. Braun [3–4: ‘Was ist Begriffsbildung?’; 16–20: ‘Analyse der Temperaturmessung’]
+- –––, 1928a, *Der logische Aufbau der Welt*, Berlin-Schlachtensee: Weltkreis-Verlag; 2nd edn., together with 1928b, Carnap 1961 [§§ 1–2: ‘construction’; §§ 38–9: definition; §§ 69–74: analysis, quasi-analysis and synthesis; §100: rational reconstruction] {Quotations}
+- –––, 1928b, *Scheinprobleme in der Philosophie*, Berlin-Schlachtensee: Weltkreis-Verlag; 2nd edn., together with 1928a, Carnap 1961 [§A: ‘The Meaning of Epistemological Analysis’]
+- –––, 1930, ‘Die alte und die neue Logik’, *Erkenntnis* 1 (1930–1), tr. by I. Levi as ‘The Old and the New Logic’, in Ayer 1959, 133–46
+- –––, 1932, ‘Überwindung der Metaphysik durch logische Analyse der Sprache’, *Erkenntnis* 2: 219–41; tr. by A. Pap as ‘The Elimination of Metaphysics through Logical Analysis of Language’ in Ayer 1959, 60–81
+- –––, 1934, *Logische Syntax der Sprache*, Wien: Julius Springer, rev. and tr. as Carnap 1937
+- –––, 1935, *Philosophy and Logical Syntax*, London: Kegan Paul; repr. Thoemmes Press, 1996; ch. 1 repr. in White 1955, 209–25) {§6.1} [35–8: logical analysis; 50–5: analyticity]
+- –––, 1936, ‘Die Methode der logischen Analyse’, in *Actes du huitième Congrès international de philosophie, à Prague 2–7 Septembre 1934*, Prague: Orbis, 142–5 {Quotation}
+- –––, 1937, *The Logical Syntax of Language*, tr. A. Smeaton, London: Kegan Paul; repr. Chicago: Open Court, 2002 [Part III (C): analyticity; Part V: object-questions vs. logical questions, material mode vs. formal mode] {Quotation}
+- –––, 1942, *Introduction to Semantics*, Cambridge, Mass.: Harvard University Press; repub. together with Carnap 1943 in 1959
+- –––, 1943, *Formalization of Logic*, Cambridge, Mass.: Harvard University Press; repub. together with Carnap 1942 in 1959
+- –––, 1947, *Meaning and Necessity*, University of Chicago Press; 2nd edn. 1956 [§2: explication {Quotation}; §§ 5–6, 9: extensions and intensions; §§ 14–15: intensional structure and the paradox of analysis (63–4); §§ 28–32: Frege on *Sinn* and *Bedeutung*]
+- –––, 1949, ‘A Reply to Leonard Linsky’s “Some Notes on Carnap’s Concept of Intensional Isomorphism and the Paradox of Analysis”’, *Phil. of Science* 16.4: 347–50
+- –––, 1950, *Logical Foundations of Probability*, University of Chicago Press; 2nd edn. 1962 [ch. 1: ‘On Explication’] {Quotation}
+- –––, 1956, *Meaning and Necessity*, 2nd edn., University of Chicago Press; 1st edn. 1947
+- –––, 1961, *Der logische Aufbau der Welt* and *Scheinprobleme in der Philosophie*, 2nd edn., Hamburg: Felix Meiner; tr. as *The Logical Structure of the World* and *Pseudoproblems in Philosophy* by Rolf. A. George, University of California Press, 1967; repr. Chicago: Open Court, 2003 [repr. of 1928a and 1928b with new preface]
+- –––, 1963a, ‘Intellectual Autobiography’, in Schilpp 1963, 1–84
+- –––, 1963b, ‘Replies and Systematic Expositions’, in Schilpp 1963, 859–1013
+- –––, 1966, *Philosophical Foundations of Physics*, ed. Martin Gardner, New York: Basic Books; later repub. as Carnap 1995
+- –––, 1995, *An Introduction to the Philosophy of Science*, New York: Dover; orig. publ. as Carnap 1966 [chs. 27–8: analyticity]
+- Cartwright, Nancy, Jordi Cat, Lola Fleck and Thomas E. Uebel, 1996, *Otto Neurath: Philosophy between Science and Politics*, Cambridge: Cambridge University Press [Part 3, §§ 3–4: method and ‘Ballungen’]
+- Carus, A.W., 2004, ‘Sellars, Carnap, and the Logical Space of Reasons’, in Awodey and Klein 2004, 317–55 [§2: explication]
+- Coffa, J. Alberto, 1991, *The Semantic Tradition from Kant to Carnap*, Cambridge: Cambridge University Press [Part II] {§1.2}
+- Creath, Richard, 1987, ‘The Initial Reception of Carnap’s Doctrine of Analyticity’, *Nous* 21: 477–99
+- David, Marian, 1996, ‘Analyticity, Carnap, Quine, and Truth’, in Tomberlin 1996, 281–96
+- Ducasse, Curt J., 1941, *Philosophy as a Science*, Oskar Piest [ch. 7: Carnap] {§1.2}
+- Ebbs, Gary, 1997, *Rule-Following and Realism*, Cambridge, Mass.: Harvard University Press [Part II: Carnap’s analytic/synthetic distinction]
+- Foster, John, 1985, *A. J. Ayer*, London: Routledge [4–5, 46–51: analysis]
+- Friedman, Michael, 1999, *Reconsidering Logical Positivism*, Cambridge: Cambridge University Press
+- –––, 2000, *A Parting of the Ways: Carnap, Cassirer, and Heidegger*, Chicago: Open Court
+- –––, 2001, ‘Tolerance and Analyticity in Carnap’s Philosophy of Mathematics’, in Floyd and Shieh 2001, 223–55 {§6.1}
+- George, Alexander, 2000, ‘On Washing the Fur Without Wetting It: Quine, Carnap, and Analyticity’, *Mind* 109: 1–24
+- Goodman, Nelson, 1977, *The Structure of Appearance*, 3rd edn., Dordrecht: D. Reidel; 1st edn. Harvard University Press, 1951; 2nd edn. 1966 [ch. 5: quasi-analysis in Carnap’s *Aufbau*]
+- Hylton, Peter, 2001, ‘“The Defensible Province of Philosophy”: Quine’s 1934 Lectures on Carnap’, in Floyd and Shieh 2001, 257–75 {§6.1}
+- –––, 2007, *Quine*, London: Routledge
+- –––, 2013, ‘Ideas of a Logically Perfect Language in Analytic Philosophy’, in Beaney 2013a, 906–25 {§6.1}
+- Kleinknecht, Reinhard, 1980, ‘Quasianalyse und Qualitätsklassen’, *Grazer Philosophische Studien* 11: 23–43 [critique and reconstruction of Carnap; 34: related problem to paradox of analysis]
+- Leitgeb, Hannes, 2007, ‘A New Analysis of Quasianalysis’, *J. Phil. Logic* 36: 181–226
+- Lewy, Casimir, 1976, *Meaning and Modality*, Cambridge: Cambridge University Press [chs. 6–7: paradox of analysis] {§6.4}
+- Linsky, Leonard, 1949, ‘Some Notes on Carnap’s Concept of Intensional Isomorphism and the Paradox of Analysis’, *Phil. of Science* 16.4: 343–7
+- Mormann, Thomas, 2000, *Rudolf Carnap*, München: C. H. Beck [ch. 4: *Aufbau*]
+- –––, 2004, ‘A Quasi-analytical Constitution of Physical Space’, in Awodey and Klein 2004, 79–99
+- Morscher, Edgar, 2006, ‘The Great Divide within Austrian Philosophy: the synthetic a priori’, in Textor 2006, 250–63 {§6.1}
+- Proust, Joelle, 1986, *Questions de forme*, Paris: Fayard, tr. as *Questions of Form: Logic and the Analytic Proposition from Kant to Carnap* by A. A. Brenner, Minneapolis: University of Minnesota Press, 1989 [IV: Carnap] {§1.2, §6.1}}
+- Quine, W.V.O., 1951, ‘Two Dogmas of Empiricism’, *Phil. Rev.* 60: 20–43; rev. in Quine 1961, 20–46
+- –––, 1954, ‘Carnap and Logical Truth’, in Quine 1976, 107–32; also in Schilpp 1963, 385–406 (for which it was originally written)
+- –––, 1961, *From a Logical Point of View*, 2nd edn., rev., Cambridge, Mass.: Harvard University Press; 1st edn. 1953; 3rd ed., with a new ‘Foreword’, 1980
+- –––, 1976, *The Ways of Paradox and Other Essays*, rev. edn., Cambridge, Mass.: Harvard University Press; 1st edn. 1966
+- Richardson, Alan W., 1998, *Carnap’s Construction of the World*, Cambridge: Cambridge University Press [definition: 40–51; quasi-analysis: 51–64; analyticity: 217–29]
+- Ricketts, Thomas, 2004, ‘Frege, Carnap, and Quine: Continuities and Discontinuities’, in Awodey and Klein 2004, 181–202 [logical analysis]
+- Runggaldier, Edmund, 1984, *Carnap’s Early Conventionalism*, Amsterdam: Rodopi [chs. 11–13: quasi-analysis in the *Aufbau*]
+- Schilpp, P. A., (ed.), 1963, *The Philosophy of Rudolf Carnap*, La Salle, Illinois: Open Court [includes Beth 1963, Bohnert 1963, Carnap 1963a, 1963b, Quine 1954, Strawson 1963]
+- Schlick, Moritz, 1930, ‘Die Wende der Philosophie’, *Erkenntnis* 1, tr. by D. Rynin as ‘The Turning Point in Philosophy’, in Ayer 1959, 54–9 [phil. as the activity of clarifying meaning]
+- Soames, Scott, 2003, *Philosophical Analysis in the Twentieth Century*, Volume 1: *The Dawn of Analysis*, Volume 2: *The Age of Meaning*, New Jersey: Princeton University Press [Vol. 1: Part 4: logical positivism; Part 5: Quine (ch. 16: analytic/synthetic distinction); Vol. 2: Part 5: Quine] {§1.2, §6.1}
+- Strawson, P. F., 1963, ‘Carnap’s Views on Constructed Systems versus Natural Languages in Analytic Philosophy’, in Schilpp 1963, 503–18
+- Tomberlin, James E., (ed.), 1996, *Philosophical Perspectives 10: Metaphysics*, Oxford: Blackwell [includes David 1996]
+- Uebel, Thomas E., 1992, *Overcoming Logical Positivism From Within: The Emergence of Neurath’s Naturalism in the Vienna Circle’s Protocol Sentence Debate*, Amsterdam: Rodopi [ch. 5: Carnap’s syntactic turn; 230–2: Carnap’s rational reconstruction]
+- Urmson, J. O., 1956, *Philosophical Analysis: Its Development between the Two World Wars*, Oxford: Oxford University Press [Part II: logical positivism] {§1.2, §6.1}
+
+### 6.8 Oxford Linguistic Philosophy
+
+- Austin, J. L., 1961, *Philosophical Papers*, ed. J. O. Urmson and G. J. Warnock, Oxford: Oxford University Press
+- –––, 1962a, *How to do Things with Words*, ed. J. O. Urmson and M. Sbisà, Oxford: Oxford University Press
+- –––, 1962b, *Sense and Sensibilia*, ed. G.J. Warnock, Oxford: Oxford University Press
+- Baldwin, Thomas, 2001, *Contemporary Philosophy*, Oxford: Oxford University Press {§6.1}
+- Butler, R.J., (ed.), 1962, *Analytical Philosophy*, Oxford: Blackwell
+- –––, (ed.), 1965, *Analytical Philosophy: Second Series*, Oxford: Blackwell
+- DiGiovanna, Joseph J., 1989, *Linguistic Phenomenology: Philosophical Method in J. L. Austin*, New York: Peter Lang
+- Dummett, Michael, 1991a, *Frege: Philosophy of Mathematics*, London: Duckworth {§1.2, §6.2}
+- –––, 1993, *Origins of Analytical Philosophy*, London: Duckworth [ch. 2: linguistic turn; ch. 13: thought and language] {§6.1}
+- Ewing, A.C., 1953, *Ethics*, London: The English Universities Press [ch. 6: critique of Moore on defining ‘good’]
+- Fischer, Eugen, 2006, ‘Austin on Sense-Data: Ordinary Language Analysis as “Therapy”’, *Grazer Philosophische Studien* 70.1: 67–99
+- Hacker, P. M. S., 1996, *Wittgenstein’s Place in Twentieth-Century Analytic Philosophy*, Oxford: Blackwell [ch. 6] {§1.2, §6.1}
+- –––, 2013, ‘The Linguistic Turn in Analytic Philosophy’, in Beaney 2013a, 926–47 {§6.1}
+- Hanfling, Oswald, 2000, *Philosophy and Ordinary Language*, London: Routledge
+- Hare, R.M., 1971, *Essays on Philosophical Method*, London: Macmillan
+- Longworth, Guy, 2018, ‘The Ordinary and the Empirical: Cook Wilson and Austin on Method in Philosophy’, *British Journal for the History of Philosophy* 26.5, 939–60
+- Lyons, William, 1980, *Gilbert Ryle: An Introduction to his Philosophy*, Sussex: Harvester [ch. 2: nature of philosophy; ch. 3: Occam’s razor; ch. 4: category mistakes]
+- Passmore, John, 1966, *A Hundred Years of Philosophy*, 2nd edn., London: Penguin; 1st edn. London: Duckworth, 1957 [ch. 18] {§6.1}
+- Rorty, Richard, (ed.), 1967, *The Linguistic Turn*, Chicago: University of Chicago Press) [includes Ryle 1932, Shapere 1960, Strawson 1962, Urmson 1962] {§1.2, §6.1}
+- Ryle, Gilbert, 1932, ‘Systematically Misleading Expressions’, in Rorty 1967, 85–100; Ryle 1971, II, 39–62; orig. in *Proc. Aris. Soc.* 32 {Quotation}
+- –––, 1946, ‘Philosophical Arguments’, Inaugural Lecture delivered at Oxford in 1945, Oxford, 1946; repr. in Ayer 1959, 327–44; Ryle 1971, II, 194–211
+- –––, 1949, *The Concept of Mind*, London: Penguin [ch. 1: ‘category-mistakes’]
+- –––, 1953, *Dilemmas*, Cambridge: Cambridge University Press {Quotation}
+- –––, 1962, ‘Discussion of Urmson’s “The History of Analysis”’, in Rorty 1967, 305 {Quotation} [comments on Urmson 1962] {§6.1}
+- –––, 1971, *Collected Papers*, 2 vols., Vol. I: Critical Essays, Vol. II: Collected Essays 1929–1968, London: Hutchinson
+- Shapere, Dudley, 1960, ‘Philosophy and the Analysis of Language’, in Rorty 1967, 271–83; orig. in *Inquiry* 3: 29–48 [reply to Ryle 1932]
+- Soames, Scott, 2003, *Philosophical Analysis in the Twentieth Century*, Volume 2: *The Age of Meaning*, New Jersey: Princeton University Press [Part 2: Ryle {Quotation}, Strawson, Hare; Part 3: Malcolm, Austin; Part 4: Grice] {§1.2, §6.1}
+- Strawson, P. F., 1950, ‘On Referring’, *Mind* 59: 320–44; repr. in Strawson 1971, 1–27
+- –––, 1952, *Introduction to Logical Theory*, London: Methuen
+- –––, 1959, *Individuals*, London: Methuen
+- –––, 1962, ‘Analysis, Science, and Metaphysics’, together with discussion of the paper, in Rorty 1967, 312–30 {§6.1}
+- –––, 1964, ‘Identifying Reference and Truth-Values’, *Theoria* 30: 96–118; repr. in Strawson 1971, 75–95
+- –––, 1966, *The Bounds of Sense*, London: Methuen
+- –––, 1971, *Logico-Linguistic Papers*, London: Methuen
+- –––, 1992, *Analysis and Metaphysics: An Introduction to Philosophy*, Oxford: Oxford University Press [ch. 1: ‘Analytical Philosophy: Two Analogies’; ch. 2: ‘Reduction or Connection? Basic Concepts’ – ‘connective’ to displace ‘reductive’ analysis] {§1.2}
+- Stroll, Avrum, 2000, *Twentieth-Century Analytic Philosophy*, New York: Columbia University Press [ch. 6: Ryle and Austin] {§6.1}
+- Thomasson, Amie L., 2007, ‘Conceptual Analysis in Phenomenology and Ordinary Language Philosophy’, in Beaney 2007a, 270–84 {§6.1} {§5.8}
+- Urmson, J.O., 1956, *Philosophical Analysis: Its Development between the Two World Wars*, Oxford: Oxford University Press [Part III] {§1.2, §6.1}
+- Warnock, Geoffrey, 1989, *J. L. Austin*, London: Routledge
+- White, Alan R., 1975, ‘Conceptual Analysis’, in C. J. Bontempo and S. J. Odell, (eds.), *The Owl of Minerva: Philosophers on Philosophy*, New York: McGraw-Hill, 103–17
+
+### 6.9 Conceptual Analysis
+
+- Ambrose, Alice, 1950, ‘The Problem of Linguistic Inadequacy’, in Ambrose 1966, 157–81; orig. in Black 1950 {§6.4} [165–9: analysis as eliminating vagueness]
+- –––, 1952, ‘Linguistic Approaches to Philosophical Problems’, in Ambrose 1966, 142–56; orig. in *J. Phil.* 49 [145–9: analysis as ‘analytic definition’]
+- –––, 1966, *Essays in Analysis*, London: George Allen and Unwin
+- Austin, David F., (ed.), 1988, *Philosophical Analysis: A Defense by Example*, Kluwer [Parts on ‘Origins of Analytic Philosophy’, ‘Analyses of Belief, Knowledge and Sensation’, ‘Analysis of Mind and Language’ and ‘Analysis of Modalities’; papers honouring Edmund Gettier]
+- Beaney, Michael, 2001, ‘From Conceptual Analysis to Serious Metaphysics’ (Critical Notice of Frank Jackson, *From Metaphysics to Ethics*), *International Journal of Philosophical Studies* 9: 521–9
+- Bennett, Jonathan, 1995, *The Act Itself*, Oxford: Oxford University Press [ch. 1: ‘Analysis’]
+- Blackburn, Simon, 2000, ‘Critical Notice of Frank Jackson, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*’, *Aust. J. Phil.* 78: 119–24
+- Braddon-Mitchell, David and Nola, Robert, (eds.), 2009, *Conceptual Analysis and Philosophical Naturalism*, Cambridge, Mass.: MIT Press
+- Brandom, Robert B., 2000, *Articulating Reasons*, Cambridge, Mass.: Harvard University Press [ch. 1: semantic inferentialism {Quotation}]
+- –––, 2006, *Between Saying And Doing*, Locke Lectures given at the University of Oxford [Lecture 1: ‘Extending the Project of Analysis’ {Quotations}]
+- Burge, Tyler, 1993, ‘Concepts, Definitions, and Meaning’, *Metaphilosophy* 24: 309–25; repr. in Burge 2007, 291–306
+- –––, 2007, *Foundations of Mind*, Oxford: Oxford University Press
+- Cohen, L. Jonathan, 1986, *The Dialogue of Reason: An Analysis of Analytical Philosophy*, Oxford: Oxford University Press [chs. 1–2] {Quotations} {§1.2}
+- Davidson, Donald, 1967, ‘Truth and Meaning’, *Synthese* 17: 304–23; repr. in Davidson 1984, 17–36
+- –––, 1984, *Inquiries into Truth and Interpretation*, Oxford: Oxford University Press
+- Dummett, Michael, 1993, *Origins of Analytical Philosophy*, London: Duckworth [ch. 2: linguistic turn; ch. 13: thought and language] {§6.1}
+- –––, 1993b, *The Seas of Language*, Oxford: Oxford University Press
+- Ebbs, Gary, 1997, *Rule-Following and Realism*, Cambridge, Mass.: Harvard University Press [Part II: analytic/synthetic distinction] {§6.7}
+- Friedman, Michael, 1999, *Reconsidering Logical Positivism*, Cambridge: Cambridge University Press {§6.7}
+- Evans, Gareth, 1982, *The Varieties of Reference*, ed. John McDowell, Oxford: Oxford University Press
+- Gabriel, Gottfried, 2000, ‘Kontinentales Erbe und analytische Methode: Nelson Goodman und die Tradition’, *Erkenntnis* 52.2
+- Grice, Paul, 1987a, ‘Conceptual Analysis and the Province of Philosophy’, in Grice 1989, 181–5
+- –––, 1987b, ‘Retrospective Epilogue’, in Grice 1989, 339–85 [376–85; phil. method]
+- –––, 1989, *Studies in the Way of Words*, Cambridge, Mass.: Harvard University Press
+- Grice, Paul and Strawson, P. F., 1956, ‘In Defense of a Dogma’, in Grice 1989, 196–212; orig. in *Phil. Rev.* 65 [reply to Quine’s critique of the analytic/synthetic distinction]
+- Hacker, P. M. S., 1996, *Wittgenstein’s Place in Twentieth-Century Analytic Philosophy*, Oxford: Blackwell [chs. 7–8] {§1.2, §6.1}
+- Hanna, Robert, 1998, ‘Conceptual Analysis’, in E. Craig, (ed.), *Routledge Encyclopedia of Philosophy*, London: Routledge, II, 518–22 {§1.1}
+- Harman, Gilbert, 1999, *Reasoning, Meaning, and Mind*, Oxford: Oxford University Press [Part II: analysis and analyticity]
+- Hookway, Christopher, 1988, *Quine*, Oxford: Polity Press [§§ 1.3 – 1.5, ch. 2: analysis and analyticity]
+- Hylton, Peter, 2007, *Quine*, London: Routledge
+- Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Oxford University Press
+- Jackson, Frank, and Chalmers, David, 2001, ‘Conceptual Analysis and Reductive Explanation’, *Philosophical Review* 110: 315–60
+- Kripke, Saul A., 1980, *Naming and Necessity*, Oxford: Blackwell; orig. publ. 1972
+- Leiter, Brian, (ed.), 2004, *The Future for Philosophy*, Oxford: Oxford University Press [includes Williamson 2004]
+- Lewis, David, 1970, ‘How to Define Theoretical Terms’, *Philosophical Review* 67: 427–46
+- Lycan, William G., 2009, ‘Serious Metaphysics: Frank Jackson’s Defense of Conceptual Analysis’, in Ian Ravenscroft, (ed.), *Minds, Worlds and Conditionals: Essays in Honour of Frank Jackson*, Oxford: Oxford University Press.
+- Mackie, J.L., 1973, *Truth, Probability and Paradox*, Oxford: Oxford University Press [ch.1: analysis]
+- McDowell, John, 1996, *Mind and World*, Cambridge, Mass.: Harvard University Press, first publ. without an introd., 1994 [Afterword, Part I, §§ 2–4, 9: Quine’s first dogma]
+- Norris, Christopher, 1996, ‘Doubting Castle or the Slough of Despond: Davidson and Schiffer on the Limits of Analysis’, *Review of Metaphysics* 50: 351–82
+- Papineau, David, 2009, ‘The Poverty of Analysis’, *Proc. Aris. Soc. Supp.* 83: 1–30
+- –––, 2014, ‘The Poverty of Conceptual Analysis’, in Matthew C. Haug, (ed.), *Philosophical Methodology: The Armchair or the Laboratory?*, London: Routledge, 166–94
+- Putnam, Hilary, 1956, ‘Reds, Greens, and Logical Analysis’, *Phil. Rev.* 65: 206–17
+- –––, 1962, ‘The analytic and the synthetic’, in Putnam 1975, 33–69
+- –––, 1975, *Mind, Language and Reality*, Philosophical Papers: Volume 2, Cambridge: Cambridge University Press
+- –––, 1975a, ‘The meaning of “meaning”’, in Putnam 1975, 215–71
+- –––, 1976, ‘“Two dogmas” revisited’, in Putnam 1983, 87–97
+- –––, 1981, ‘Beyond Historicism’, in Putnam 1983, 287–303; paper orig. given in 1981 [303: analytic philosophy as losing shape]
+- –––, 1983, *Realism and Reason*, Philosophical Papers: Volume 3, Cambridge: Cambridge University Press
+- Quine, W. V. O., 1951, ‘Two Dogmas of Empiricism’, *Phil. Rev.* 60: 20–43; rev. in Quine 1961, 20–46
+- –––, 1961, *From a Logical Point of View*, 2nd edn., rev., Cambridge, Mass.: Harvard University Press, 1st edn. 1953, 3rd edn., with a new ‘Foreword’, 1980
+- –––, 1960, *Word and Object*, Cambridge, Mass.: MIT Press [§33: regimentation; §53: explication] {Quotations}
+- –––, 1969, *Ontological Relativity and Other Essays*, New York: Columbia University Press
+- –––, 1975, ‘Five Milestones of Empiricism’, in Quine 1981, 67–72 [68–70: Bentham’s paraphrasis and contextual definition {Quotation}] {§5.6}
+- –––, 1976, *The Ways of Paradox and Other Essays*, rev. edn., Cambridge, Mass.: Harvard University Press, 1st edn. 1966
+- –––, 1981, *Theories and Things*, Cambridge, Mass.: Harvard University Press [includes Quine 1975]
+- Richardson, Alan W., 1998, *Carnap’s Construction of the World*, Cambridge: Cambridge University Press [analyticity: 217–29] {§6.7}
+- Schiffer, Stephen, 1987, *Remnants of Meaning*, Cambridge, Mass.: MIT Press
+- –––, 1994, ‘A Paradox of Meaning’, *Nous* 28: 279–324
+- Sellars, Wilfrid, 1956, *Empiricism and the Philosophy of Mind*, with an introd. by Richard Rorty and a study guide by Robert Brandom, Cambridge, Mass.: Harvard University Press, 1997, orig. publ. 1956
+- Strawson, P. F., 1969, ‘Meaning and Truth’, in Strawson 1971, 170–89 {§6.8}
+- Soames, Scott, 2003, *Philosophical Analysis in the Twentieth Century*, Volume 2: *The Age of Meaning*, New Jersey: Princeton University Press [Part 6: Davidson; Part 7: Kripke] {§1.2, §6.1}
+- Stich, S. P., and Weinberg, J., 2001, ‘Jackson’s Empirical Assumptions’, *Philosophy and Phenomenological Research* 62: 637–43
+- Stroll, Avrum, 2000, *Twentieth-Century Analytic Philosophy*, New York: Columbia University Press [chs. 7–9: Quine, direct reference theories, recent trends] {§6.1}
+- Wang, Hao, 1986, *Beyond Analytic Philosophy: Doing Justice to What We Know*, Cambridge, Mass.: MIT Press
+- Williamson, Timothy, 2004, ‘Past the Linguistic Turn?’, in Leiter 2004, 106–28
+- Ziff, Paul, 1960, *Semantic Analysis*, Cornell University Press [ch. 2: semantic analysis]
+
+### 6.10 Conceptual Engineering
+
+- Ball, Derek, 2020, ‘Revisionary Analysis without Meaning Change (Or, Could Women Be Analytically Oppressed?)’, in Burgess, Cappelen and Plunkett 2020, 35–58
+- Burgess, Alexis and David Plunkett, 2013a, ‘Conceptual Ethics I’, *Philosophy Compass* 8.12: 1091–1101
+- ––– 2013b, ‘Conceptual Ethics II’, *Philosophy Compass* 8.12: 1102–1110
+- Burgess, Alexis, Herman Cappelen and David Plunkett, (eds.), 2020, *Conceptual Engineering and Conceptual Ethics*, Oxford: Oxford University Press
+- Cappelen, Herman, 2018, *Fixing Language: An Essay on Conceptual Engineering*, Oxford: Oxford University Press
+- Cappelen, Herman and David Plunkett, 2020, ‘Introduction: A Guided Tour of Conceptual Engineering and Conceptual Ethics’, in Cappelen, Plunkett and Burgess 2020, 1–26
+- Eklund, Matti, 2015, ‘Intuitions, Conceptual Engineering, and Conceptual Fixed Points’, in C. Daly, (ed.), *The Palgrave Handbook of Philosophical Methods*, London: Palgrave
+- Haslanger, Sally, 2000, ‘Gender and Race: (What) are they? (What) do we want them to be?’, *Noûs* 34.1: 31–55
+- –––, 2012, *Resisting Reality: Social Construction and Social Critique*, Oxford: Oxford University Press
+- Isaac, Manuel Gustavo, 2020, ‘How to Conceptually Engineer Conceptual Engineering’, *Inquiry* 63.1: 1–24
+- Isaac, Manuel Gustavo, Steffen Koch and Ryan Nefdt, 2022, ‘Conceptual Engineering: A Road Map to Practice’, *Philosophy Compass* 17.10: 1–15
+- Koch, Steffen, 2021, ‘The Externalist Challenge to Conceptual Engineering’, *Synthese* 198.1: 327–48
+- Pettit, Philip, 2020, ‘Analyzing Concepts and Allocating Referents’, in Burgess, Cappelen and Plunkett 2020, 333–57
+- Pinder, Mark, 2021, ‘Conceptual Engineering, Metasemantic Externalism and Speaker-Meaning’, *Mind* 130: 141–63
+- Richard, Mark, 2020, ‘The A-Project and the B-Project’, in Burgess, Cappelen and Plunkett 2020, 358–78 [ameliorative analysis]
+- Sawyer, Sarah, 2018, ‘The Importance of Concepts’, *Proceedings of the Aristotelian Society* 118.2: 127–47
+- ––– 2020, ‘Truth and Objectivity in Conceptual Engineering’, *Inquiry* 63.9–10: 1001–22
+- Sharp, Kevin, 2013, *Replacing Truth*, Oxford: Oxford University Press
+- –––, 2020, ‘Philosophy as the Study of Defective Concepts’ in Burgess, Cappelen and Plunkett 2020, 396–416

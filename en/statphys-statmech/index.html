@@ -1,0 +1,3398 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Philosophy of Statistical Mechanics (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Philosophy of Statistical Mechanics" />
+<meta name="citation_author" content="Frigg, Roman" />
+<meta name="citation_author" content="Werndl, Charlotte" />
+<meta name="citation_publication_date" content="2023/01/10" />
+<meta name="DC.title" content="Philosophy of Statistical Mechanics" />
+<meta name="DC.creator" content="Frigg, Roman" />
+<meta name="DC.creator" content="Werndl, Charlotte" />
+<meta name="DCTERMS.issued" content="2023-01-10" />
+<meta name="DCTERMS.modified" content="2023-01-10" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/statphys-statmech/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=statphys-statmech">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Philosophy of Statistical Mechanics</h1><div id="pubinfo"><em>First published Tue Jan 10, 2023</em></div>
+
+<div id="preamble">
+
+
+<p>
+Statistical Mechanics is the third pillar of modern physics, next to
+quantum theory and relativity theory. Its aim is to account for the
+macroscopic behaviour of physical systems in terms of dynamical laws
+governing the microscopic constituents of these systems and
+probabilistic assumptions. Like other theories in physics, statistical
+mechanics raises a number of foundational and philosophical issues.
+But philosophical discussions in statistical mechanics face an
+immediate difficulty because unlike other theories, statistical
+mechanics has not yet found a generally accepted theoretical framework
+or a canonical formalism. In this entry we introduce the different
+theoretical approaches to statistical mechanics and the philosophical
+question that attach to them.</p>
+</div> 
+
+<div id="toc"><!--Entry Contents-->
+<ul>
+	<li><a href="#AimsStatMechSM">1. The Aims of Statistical Mechanics (SM)</a></li>
+	<li><a href="#TheoLandSM">2. The Theoretical Landscape of SM</a></li>
+	<li><a href="#DynaSyst">3. Dynamical Systems</a></li>
+	<li><a href="#BoltStatMechBSM">4. Boltzmannian Statistical Mechanics (BSM)</a>
+	<ul>
+		<li><a href="#FramBSM">4.1 The Framework of BSM</a></li>
+		<li><a href="#DefiEquiBoltCombArgu">4.2 Defining Equilibrium: Boltzmann&rsquo;s Combinatorial Argument</a></li>
+		<li><a href="#TwoChalReveRecu">4.3 Two Challenges: Reversibility and Recurrence</a></li>
+		<li><a href="#ErgoAppr">4.4 The Ergodic Approach</a></li>
+		<li><a href="#Typi">4.5 Typicality</a></li>
+		<li><a href="#MentPastHypo">4.6 The Mentaculus and the Past-Hypothesis</a></li>
+		<li><a href="#LongRunResiTimeAcco">4.7 The Long-Run Residence Time Account</a></li>
+		<li><a href="#ProbLimi">4.8 Problems and Limitations</a></li>
+	</ul>
+	</li>
+	<li><a href="#BoltEqua">5. The Boltzmann Equation</a></li>
+	<li><a href="#GibbStatMechGSM">6. Gibbsian Statistical Mechanics (GSM)</a>
+	<ul>
+		<li><a href="#FramGSM">6.1 The Framework of GSM</a></li>
+		<li><a href="#EquiWhyDoesPhasAverWork">6.2 Equilibrium: Why Does Phase Averaging Work?</a></li>
+		<li><a href="#GSMApprEqui">6.3 GSM and Approach to Equilibrium</a></li>
+		<li><a href="#CoarGrai">6.4 Coarse-Graining</a></li>
+		<li><a href="#Inte">6.5 Interventionism</a></li>
+		<li><a href="#EpisAcco">6.6 The Epistemic Account</a></li>
+		<li><a href="#RelaBetwGSMBSM">6.7 The Relation between GSM and BSM</a></li>
+	</ul>
+	</li>
+	<li><a href="#FurtIssu">7. Further Issues</a>
+	<ul>
+		<li><a href="#InteSMProb">7.1 The Interpretation of SM Probabilities</a></li>
+		<li><a href="#MaxwDemoEntrCostComp">7.2 Maxwell&rsquo;s Demon and the Entropy Costs of Computation</a></li>
+		<li><a href="#GibbPara">7.3 The Gibbs Paradox</a></li>
+		<li><a href="#SMBeyoPhys">7.4 SM Beyond Physics</a></li>
+		<li><a href="#ReduInteTheoRela">7.5 Reductionism and Inter-Theory Relations</a></li>
+	</ul>
+	</li>
+	<li><a href="#Bib">Bibliography</a></li>
+	<li><a href="#Aca">Academic Tools</a></li>
+	<li><a href="#Oth">Other Internet Resources</a></li>
+	<li><a href="#Rel">Related Entries</a></li>
+</ul>
+<!--Entry Contents-->
+
+<hr /></div>
+
+<div id="main-text">
+
+<h2 id="AimsStatMechSM">1. The Aims of Statistical Mechanics (SM)</h2>
+
+<p>
+Statistical Mechanics (SM) is the third pillar of modern physics, next
+to quantum theory and relativity theory. Its aim is to account for the
+macroscopic behaviour of physical systems in terms of dynamical laws
+governing the microscopic constituents of these systems and the
+probabilistic assumptions made about them. One aspect of that
+behaviour is the focal point of SM: equilibrium. Much of SM
+investigates questions concerning equilibrium, and philosophical
+discussions about SM focus on the foundational assumptions that are
+employed in answers to these questions.</p>
+
+<p>
+Let us illustrate the core questions concerning equilibrium with a
+standard example. Consider a gas confined to the left half of a
+container with a dividing wall (see
+ <a href="#fig1a">Figure 1a</a>).
+ The gas is in <em>equilibrium</em> and there is no manifest change in
+any of its macro properties like pressure, temperature, and volume.
+Now you suddenly remove the dividing wall (see
+ <a href="#fig1b">Figure 1b</a>),
+ and, as result, the gas starts spreading through the entire available
+volume. The gas is now no longer in equilibrium (see
+ <a href="#fig1c">Figure 1c</a>).
+ The spreading of the gas comes to an end when the entire available
+space is filled evenly (see
+ <a href="#fig1d">Figure 1d</a>).
+ At this point, the gas has reached a new equilibrium. Since the
+process of spreading culminates in a new equilibrium, this process is
+an <em>approach to equilibrium</em>. A key characteristic of the
+approach to equilibrium is that it seems to be <em>irreversible</em>:
+systems move from non-equilibrium to equilibrium, but not <em>vice
+versa</em>; gases spread to fill the container evenly, but they do not
+spontaneously concentrate in the left half of the container. Since an
+irreversible approach to equilibrium is often associated with
+thermodynamics, this is referred to as <em>thermodynamic
+behaviour</em>. Characterising the state of equilibrium and accounting
+for why, and how, a system approaches equilibrium is the core task for
+SM. Sometimes these two problems are assigned to separate theories (or
+separate parts of a larger theory), which are then referred to as
+<em>equilibrium SM</em> and <em>non-equilibrium SM</em>,
+respectively.</p>
+
+<div class="figure centered avoid-break" id="fig1">
+
+<div id="fig1a" style="display: inline-block; width:45%">
+<img alt="a rectangle one half blue and one half white with a solid black line between the two halves" src="figure1a.svg" style="width:2in" />
+
+<p class="center">
+(a)</p>
+</div>
+
+<div id="fig1c" style="display: inline-block; width:45%">
+<img alt="same rectangle with no black line between the two halves" src="figure1b.svg" style="width:2in" />
+
+<p class="center">
+(b)</p>
+</div>
+
+<div id="fig1b" style="display: inline-block; width:45%">
+<img alt="same rectangle but colors now in a gradient from blue at one end to white at the other" src="figure1c.svg" style="width:2in" />
+
+<p class="center">
+(c)</p>
+</div>
+
+<div id="fig1d" style="display: inline-block; width:45%">
+<img alt="same rectangle but now a solid light blue" src="figure1d.svg" style="width:2in" />
+
+<p class="center">
+(d)</p>
+</div>
+
+<p class="center">
+<span class="figlabel">Figure 1</span> [An
+ <a href="figdesc.html#fig1">extended description of figure 1</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+While equilibrium occupies centre stage, SM of course also deals with
+other issues such as phase transitions, the entropy costs of
+computation, and the process of mixing substances, and in
+philosophical contexts SM has also been employed to shed light on the
+nature of the direction of time, the interpretation of probabilities
+in deterministic theories, the state of the universe shortly after the
+big bang, and the possibility of knowledge about the past. We will
+touch on all these below, but in keeping with the centrality of
+equilibrium in SM, the bulk of this entry is concerned with an
+analysis of the conceptual underpinnings of both equilibrium and
+non-equilibrium SM.</p>
+
+<p>
+Sometimes the aim of SM is said to provide a reduction of the laws of
+thermodynamics: the laws of TD provide a correct description of the
+macroscopic behaviour of systems and the aim of SM is to account for
+these laws in microscopic terms. We avoid this way of framing the aims
+of SM. Both the nature of reduction itself, and the question whether
+SM can provide a reduction of TD (in some specifiable sense) are
+matters of controversy, and we will come back to them in
+ <a href="#ReduInteTheoRela">Section 7.5</a>.</p>
+ 
+<h2 id="TheoLandSM">2. The Theoretical Landscape of SM</h2>
+
+<p>
+Philosophical discussions in SM face an immediate difficulty.
+Philosophical projects in many areas of physics can take an accepted
+theory and its formalism as their point of departure. Philosophical
+discussions of quantum mechanics, for instance, can begin with the
+Hilbert space formulation of the theory and develop their arguments
+with reference to it. The situation in SM is different. Unlike
+theories such as quantum mechanics, SM has not yet found a generally
+accepted theoretical framework or a canonical formalism. What we
+encounter in SM is a plurality of different approaches and schools of
+thought, each with its own mathematical apparatus and foundational
+assumptions. For this reason, a review of the philosophy of SM cannot
+simply start with a statement of the theory&rsquo;s basic principles
+and then move on to different interpretations of the theory. Our task
+is to first classify different approaches and then discuss how each
+works; a further question then concerns the relation between them.</p>
+
+<p>
+Classifying and labelling approaches raises its own issues, and
+different routes are possible. However, SM&rsquo;s theoretical
+plurality notwithstanding, most of the approaches one finds in it can
+be brought under one of three broad theoretical umbrellas. These are
+known as &ldquo;Boltzmannian SM&rdquo; (BSM), the &ldquo;Boltzmann
+Equation&rdquo; (BE), and &ldquo;Gibbsian SM&rdquo; (GSM). The label
+&ldquo;BSM&rdquo; is somewhat unfortunate because it might suggest
+that Boltzmann, only (or primarily) championed this particular
+approach, whereas he has in fact contributed to the development of
+many different theoretical positions (for an overview of his
+contributions to SM see the entry on
+ <a href="../statphys-boltzmann/">Boltzmann&rsquo;s work in statistical physics</a>;
+ for detailed discussions see Cercignani (1998), Darrigol (2018), and
+Uffink (2007)). These labels have, however, become customary and so we
+stick with &ldquo;BSM&rdquo; despite its historical infelicity. We
+will now discuss the theoretical backdrop against which these
+positions are formulated, namely dynamical systems, and then introduce
+the positions in
+ <a href="#BoltStatMechBSM">&sect;4</a>,
+ <a href="#BoltEqua">&sect;5</a>, and
+ <a href="#GibbStatMechGSM">&sect;6</a>,
+ respectively. Extensive synoptic discussion of SM can also be found
+in Frigg (2008b), Shenker (2017a, 2017b), Sklar (1993), and Uffink
+(2007).</p>
+
+<h2 id="DynaSyst">3. Dynamical Systems</h2>
+
+<p>
+Before delving into the discussion of SM, some attention needs to be
+paid to the &ldquo;M&rdquo; in SM. The mechanical background theory
+against which SM is formulated can be either classical mechanics or
+quantum mechanics, resulting in either classical SM or quantum SM.
+Foundational debates are by and large conducted in the context of
+classical SM. We follow this practice in the current entry, but we
+briefly draw attention to problems and issues that occur when moving
+from a classical to a quantum framework
+ (<a href="#ProbLimi">&sect;4.8</a>).
+ From the point of view of classical mechanics, the systems of
+interest in SM have the structure of <em>dynamical system</em>, a
+triple \((X,\) \(\phi,\) \(\mu).\) \(X\) is the state space of the
+system (and from a mathematical point of view is a set). In the case
+of a gas with \(n\) molecules this space has \(6n\) dimensions: three
+coordinates specifying the position and three coordinates specifying
+the momentum of each molecule. \(\phi\) is the time evolution
+function, which specifies how a system&rsquo;s state changes over
+time, and we write \(\phi_{t}(x)\) to denote the state into which
+\(x\) evolves after time \(t\). If the dynamic of the system is
+specified by an equation of motion like Newton&rsquo;s or
+Hamilton&rsquo;s, then \(\phi\) is the solution of that equation. If
+we let time evolve, \(\phi_{t}(x)\) draws a &ldquo;line&rdquo; in
+\(X\) that represents the time evolution of a system that was
+initially in state \(x\); this &ldquo;line&rdquo; is called a
+<em>trajectory</em>. Finally, \(\mu\) is a measure on \(X\), roughly a
+means to say how large a part of \(X\) is. This is illustrated
+schematically in
+ <a href="#fig2">Figure 2</a>.
+ For a more extensive introductory discussion of dynamical systems see
+the entry on
+ <a href="../ergodic-hierarchy/#DynaSyst">the ergodic hierarchy, section on dynamical systems</a>,
+ and for mathematical discussions see, for instance, Arnold and Avez
+(1967 [1968]) and Katok and Hasselblatt (1995).</p>
+
+<div class="figure avoid-break" id="fig2">
+<img alt="A green rectangle, link to extended description below" src="figure2.svg" style="margin-bottom:1em; width:4in" />
+
+<p class="center">
+<span class="figlabel">Figure 2</span> [An
+ <a href="figdesc.html#fig2">extended description of figure 2</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+It is standard to assume that \(\phi\) is deterministic, meaning, that
+every state \(x\) has exactly one past and exactly one future, or, in
+geometrical terms, that trajectories cannot intersect (for a
+discussion of determinism see Earman (1986)). The systems studied in
+BSM are such that the volume of &ldquo;blobs&rdquo; in the state space
+is conserved: if we follow the time evolution of a &ldquo;blob&rdquo;
+in state space, this blob can change its shape but not its volume.
+From a mathematical point of view, this amounts to saying that the
+dynamics is <em>measure-preserving</em>: \(\mu(A) = \mu(\phi_{t}(A))\)
+for all subsets \(A\) of \(X\) and for all times \(t\). Systems in SM
+are often assumed to be governed by Hamilton&rsquo;s equations of
+motion, and it is a consequence of Liouville&rsquo;s theorem that the
+time evolution of a Hamiltonian system is measure-preserving.</p>
+
+<h2 id="BoltStatMechBSM">4. Boltzmannian Statistical Mechanics (BSM)</h2>
+
+<p>
+In the current debate, &ldquo;BSM&rdquo; denotes a family of positions
+that take as their starting point the approach that was first
+introduced by Boltzmann in his 1877 paper and then presented in a
+streamlined manner by Ehrenfest and Ehrenfest-Afanassjewa in their
+1911 [1959] review. In this section we discuss different contemporary
+articulations of BSM along with the challenges they face.</p>
+
+<h3 id="FramBSM">4.1 The Framework of BSM</h3>
+
+<p>
+To articulate the framework of BSM, we distinguish between
+micro-states and macro-states; for a discussion of the this framework
+see, for instance, Albert (2000), Frigg (2008b), Goldstein (2001), and
+Sklar (1993). The <em>micro-state</em> of a system at time \(t\) is
+the state \(x \in X\) in which the system is at time \(t\). This state
+specifies the exact mechanical state of every micro-constituent of the
+system. As we have seen in the previous section, in the case of a gas
+\(x\) specifies the positions and momenta of every molecule in the
+gas. Intuitively, the <em>macro-state</em> \(M\) of a system at time
+\(t\) specifies the macro-constitution of the system at \(t\)&nbsp;in
+terms of variables like volume, temperature and other properties
+measurable, loosely speaking, at human scales, although, as we will
+see in
+ <a href="#ProbLimi">Section 4.8</a>,
+ reference to thermodynamic variables in this context must be taken
+with a grain of salt. The configurations shown in
+ <a href="#fig1">Figure 1</a>
+ are macro-states in this sense.</p>
+
+<p>
+The core posit of BSM is that macro-states supervene&nbsp;on
+micro-states, meaning that any change in the system&rsquo;s
+macro-state <em>must</em> be accompanied by a change in the
+system&rsquo;s micro-state: every micro-state \(x\) has exactly one
+corresponding macro-state \(M\). This rules out that, say, the
+pressure of a gas can change while the positions and momenta of each of
+its molecules remain the same (see entry on
+ <a href="../supervenience/">supervenience</a>).
+ Let \(M(x)\) be the unique macro-state that corresponds to microstate
+\(x\). The correspondence between micro-states and macro-states
+typically is not one-to-one and macro-states are multiply realisable.
+If, for instance, we swap the positions and momenta of two molecules,
+the gas&rsquo; macro-state does not change. It is therefore natural to
+group together all micro-states \(x\), that correspond to the same
+macro-state \(M\):</p> 
+\[X_{M} = \{ x \in X \text{ such that } M(x) = M\}.\]
+
+<p>
+\(X_{M}\) is the <em>macro-region</em> of \(M\).</p>
+
+<p>
+Now consider a complete set of macro-states (i.e., a set that contains
+every macro-state that the system can be in), and assume that there
+are exactly \(m\) such states. This complete set is \(\{
+M_{1},\ldots,M_{m}\}\). It is then the case that the corresponding set
+of macro-regions, \(\{ X_{M_{1}},\ldots,X_{M_{m}}\}\), forms a
+partition of \(X\), meaning that the elements of the set do not
+overlap and jointly cover \(X\). This is illustrated in
+ <a href="#fig3">Figure 3</a>.</p>
+ 
+<div class="figure avoid-break" id="fig3">
+<img alt="A more complex diagram containing elements of figures 1 and 2, link to extended description below" src="figure3.svg" style="margin-bottom:1em; width:5in" />
+
+<p class="center">
+<span class="figlabel">Figure 3</span> [An
+ <a href="figdesc.html#fig3">extended description of figure 3</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+The figure also indicates that if the system under study is a gas,
+then the macro-states correspond to different states of the gas we
+have seen in
+ <a href="#AimsStatMechSM">Section 1</a>.
+ Specifically, one of the macro-states corresponds to the initial
+state of the gas, and another one corresponds to its final equilibrium
+state.</p>
+
+<p>
+This raises two fundamental questions that occupy centre stage in
+discussions about BSM. First, what are macro-states and how is the
+equilibrium state identified? That is, where do we get the set
+\(\{M_{1},\ldots,M_{m}\}\) from and how do we single out one member of
+the set as the equilibrium macro-state? Second, as already illustrated
+in
+ <a href="#fig3">Figure 3</a>,
+ an approach to equilibrium takes place if the time evolution of the
+system is such that a micro-state \(x\) in a non-equilibrium
+macro-region evolves such that \(\phi_{t}(x)\) lies in the equilibrium
+macro-region at a later point in time. Ideally one would want this to
+happen for all \(x\) in any non-equilibrium macro-region, because this
+would mean that all non-equilibrium states would eventually approach
+equilibrium. The question now is whether this is indeed the case, and,
+if not, what &ldquo;portion&rdquo; of states evolves differently.</p>
+
+<p>
+Before turning to these questions, let us introduce the <em>Boltzmann
+entropy</em> \(S_{B}\), which is a property of a macro-state defined
+through the measure of the macro-states&rsquo; macro-region:</p>
+
+\[S_{B}(M_{i}) = k\log{\lbrack\mu(X_{M_{i}}})\rbrack\]
+
+<p>
+for all \(i = 1,\ldots, m\), where \(k\) is the so-called Boltzmann
+constant. Since the logarithm is a monotonic function, the larger the
+measure \(\mu\) of a macro-region, the larger the entropy of the
+corresponding macro-state.</p>
+
+<p>
+This framework is the backbone of positions that self-identify as
+&ldquo;Boltzmannian&rdquo;. Differences appear in how the elements of
+this framework are articulated and in how difficulties are
+resolved.</p>
+
+<h3 id="DefiEquiBoltCombArgu">4.2 Defining Equilibrium: Boltzmann&rsquo;s Combinatorial Argument</h3>
+
+<p>
+An influential way of defining equilibrium goes back to Boltzmann
+(1877); for contemporary discussion of the argument see, for instance,
+Albert (2000), Frigg (2008b), and Uffink (2007). The approach first
+focusses on the state space of one particle of the system, which in
+the case of a gas has six dimensions (three for the particle&rsquo;s
+positions in each spatial dimension and a further three for the
+corresponding momenta). We then introduce a grid on this
+space&mdash;an operation known as <em>coarse-graining</em>&mdash;and
+say that two particles have the same <em>coarse-grained
+micro-state</em> if they are in the same grid cell. The state of the
+entire gas is then represented by an <em>arrangement</em>, a
+specification of \(n\) points on this space (one for each particle in
+the gas). But for the gas&rsquo; macro-properties it is irrelevant
+which particle is in which state, meaning that the gas&rsquo;
+macro-state must be unaffected by a permutation of the particles. All
+that the macro-state depends on is the <em>distribution</em> of
+particles, a specification of how many particles are in each grid
+cell.</p>
+
+<p>
+The core idea of the approach is to determine how many arrangements
+are compatible with a given distribution, and to define the
+equilibrium state as the one for which this number is maximal. Making
+the strong (and unrealistic) assumption that the particles in the gas
+are non-interacting (which also means that they never collide) and
+that the energy of the gas is preserved, Boltzmann offered a solution
+to this problem and showed that the distribution for which the number
+of arrangements is maximal is the so-called discrete Maxwell-Boltzmann
+distribution:</p> 
+\[n_{i} = \alpha\exp\left({-\beta} E_{i} \right),\]
+
+<p>
+where \(n_{i}\) is the number of particles in cell \(i\) if the
+coarse-graining, \(E_{i}\) is the energy of a particle in that cell,
+and \(\alpha\) and \(\beta\) are constants that depend on the number
+of particles and the temperature of the system (Tolman 1938 [1979]:
+Ch. 4). From a mathematical point of view, deriving this distribution
+is a problem in combinatorics, which is why the approach is now known
+as the <em>combinatorial argument</em>.</p>
+
+<p>
+As Paul and Tatiana Ehrenfest pointed out in their 1911 [1959] review,
+the mathematical structure of the argument also shows that if we now
+return to the state space \(X\) of the entire system (which, recall,
+has \(6n\) dimensions), the macro-region of the equilibrium state thus
+defined is the largest of all macro-regions. Hence, the equilibrium
+macro-state is the macro-state with the largest macro-region. In
+contemporary discussions this is customarily glossed as the
+equilibrium macro-state not only being larger than any other
+macro-state, but as being enormously larger and in fact taking up most
+of \(X\) (see, for instance, Goldstein 2001). However, as Lavis (2008)
+points out, the formalism only shows that the equilibrium macro-region
+is larger than any other macro-region and it is not a general truism
+that it takes up most of the state space; there are in fact systems in
+which the non-equilibrium macro-regions taken together are larger than
+the equilibrium macro-region.</p>
+
+<p>
+Since, as we have seen, the Boltzmann entropy is a monotonic function
+of the measure of a macro-region, this implies that the equilibrium
+microstate is also the macro-state with the largest Boltzmann entropy,
+and the approach to equilibrium is a process that can be characterised
+by an increase of entropy.</p>
+
+<p>
+Two questions arise: first, is this a tenable general definition of
+equilibrium, and, second, how does it explain the approach to
+equilibrium? As regards the first question, Uffink (2007) highlights
+that the combinatorial argument assumes particles to be
+non-interacting. The result can therefore be seen as a good
+approximation for dilute gases, but it fails to describe (even
+approximately) interacting systems like liquids and solids. But
+important applications of SM are to systems that are not dilute gases
+and so this is a significant limitation. Furthermore, from a
+conceptual point of view, the problem is that a definition of
+equilibrium in terms of the number of arrangements compatible with a
+distribution makes no contact with the thermodynamic notion of
+equilibrium, where equilibrium is defined as the state to which an
+isolated system converges when left to itself (Werndl &amp; Frigg
+2015b). Finally, this definition of equilibrium is completely
+disconnected form the system&rsquo;s dynamics, which has the odd
+consequence that it would still provide an equilibrium state even if
+the system&rsquo;s time evolution was the identity function (and hence
+nothing ever changed and no approach to equilibrium took place). And
+even if one were to set thermodynamics aside, there is nothing truly
+macro about the definition, which in fact directly constructs a
+macro-region without ever specifying a macro-state.</p>
+
+<p>
+A further problem (still as regards the first question) is the
+justification of coarse-graining. The combinatorial argument does not
+get off the ground without coarse-grained micro-states, and so the
+question is what legitimises the use of such states. The problem is
+accentuated by the facts that the procedure only works for particular
+kind of coarse-graining (namely if the grid is parallel to the
+position and momentum axes) and that the grid cannot be eliminated by
+taking a limit which lets the grid size tend toward zero. A number of
+justificatory strategies have been proposed but none is entirely
+satisfactory. A similar problem arises with coarse-gaining in Gibbsian
+SM, and we refer the reader to
+ <a href="#Inte">Section 6.5</a>
+ for a discussion.</p>
+
+<p>
+As regards the second question, the combinatorial argument itself is
+silent about why and how systems approach equilibrium and additional
+ingredients must be added to the account to provide such an
+explanation. Before discussing some of these ingredients (which is the
+topic of much of the remainder of this section), let us discuss two
+challenges that every explanation of the approach to equilibrium must
+address: the reversibility problem and the recurrence problem.</p>
+
+<h3 id="TwoChalReveRecu">4.3 Two Challenges: Reversibility and Recurrence</h3>
+
+<p>
+In
+ <a href="#TheoLandSM">Section 2</a>
+ we have seen that at bottom the physical systems of BSM have the
+structure of a dynamical system \((X,\) \(\phi,\) \(\mu)\) where
+\(\phi\) is deterministic and measure preserving. Systems of this kind
+have two features that pose a challenge for an understanding of the
+approach to equilibrium.</p>
+
+<p>
+The first feature is what is known as <em>time-reversal
+invariance</em>. Intuitively you can think of the time-reversal of a
+process as what you get when you play a movie of a process backwards.
+The dynamics of system is time-reversal invariant if every process
+that is allowed to happen in one direction of time is also allowed to
+happen the reverse direction of time. That is, for every process that
+is allowed by the theory it is that case that if you capture the
+process in a movie, then the process that you see when you play the
+movie backwards is also allowed by the theory; for detailed and more
+technical discussions see, for instance, Earman (2002), Malament
+(2004), Roberts (2022), and Uffink (2001).</p>
+
+<p>
+Hamiltonian systems are time-reversal invariant and so the most common
+systems studied in SM have this property. A look at
+ <a href="#fig3">Figure 3</a>
+ makes the consequences of this for an understanding of the approach
+to equilibrium clear. We consider a system whose micro-state initially
+lies in a non-equilibrium macro-region and then evolves into a
+micro-state that lies in the equilibrium macro-region. Obviously, this
+process ought to be allowed by the theory. But this means that the
+reverse process&mdash;a process that starts in the equilibrium
+macro-region and moves back into the initial non-equilibrium macro
+region&mdash;must be allowed too. In
+ <a href="#AimsStatMechSM">Section 1</a>
+ we have seen that the approach to equilibrium is expected to be
+<em>irreversible</em>, prohibiting systems like gases to spontaneously
+leave equilibrium and evolve into a non-equilibrium state. But we are
+now faced with a contradiction: if the dynamics of the system is
+time-reversal invariant, then the approach to equilibrium cannot be
+irreversible because the evolution from the equilibrium state to a
+non-equilibrium state is allowed. This observation is known as
+<em>Loschmidt's reversibility objection</em> because it was first put
+forward by Loschmidt (1876); for a historical discussion of this
+objection, see Darrigol (2021).</p>
+
+<p>
+The second feature that poses a challenge is <em>Poincar&eacute;
+recurrence</em>. The systems of interest in BSM are both
+measure-preserving and spatially bounded: they are gases in a box,
+liquids in a container and crystals on a laboratory table. This means
+that the system&rsquo;s micro-state can only access a finite region in
+\(X\). Poincar&eacute; showed that dynamical systems of this kind
+must, at some point, return arbitrarily close to their initial state,
+and, indeed do so infinitely many times. The time that it takes the
+system to return close to its initial condition is called the
+<em>recurrence time</em>. Like time-reversal invariance,
+<em>Poincar&eacute; recurrence</em> contradicts the supposed
+irreversibility of the approach to equilibrium: it implies that
+systems will return to non-equilibrium states at some point. One just
+has to wait for long enough. This is known as <em>Zermelo&rsquo;s
+recurrence objection</em> because it was first put forward by Zermelo
+(1896); for a historical discussion see Uffink (2007).</p>
+
+<p>
+Any explanation of the approach to equilibrium has to address these
+two objections.</p>
+
+<h3 id="ErgoAppr">4.4 The Ergodic Approach</h3>
+
+<p>
+A classical explanation of the approach to equilibrium is given within
+ergodic theory. A system is ergodic iff, in the long run (i.e., in the
+limit of time \(t \rightarrow \infty\)), for almost all initial
+conditions it is the case that the fraction of time that the
+system&rsquo;s trajectory spends in a region \(R\) of \(X\) is equal
+to the fraction that \(R\) occupies in \(X\) (Arnold &amp; Avez 1967
+[1968]). For instance, if \(\mu(R)/\mu(X) = 1/3,\) then an ergodic
+system will, in the long run, spend 1/3 of its time in \(R\) (for a
+more extensive discussion of ergodicity see entry on
+ <a href="../ergodic-hierarchy/">the ergodic hierarchy</a>).</p>
+ 
+<p>
+In
+ <a href="#DefiEquiBoltCombArgu">Section 4.2</a>
+ we have seen that if the equilibrium macro-region is constructed with
+the combinatorial argument, then it occupies the largest portion of
+\(X\). If we now also assume that the system is ergodic, it follows
+immediately that the system spends&nbsp;the largest portion of time in
+equilibrium. This is then often given a probabilistic gloss by
+associating the time that a system spends in a certain part of \(X\)
+with the probability of finding the system in that part of \(X\), and
+so we get that we are overwhelmingly likely to find that system in
+equilibrium; for a discussion of this approach to probabilities see
+Frigg (2010) and references therein.</p>
+
+<p>
+The ergodic approach faces a number of problems. First, being ergodic
+is a stringent condition that many systems fail to meet. This is a
+problem because among those systems are many to which SM is
+successfully applied. For instance, in a solid the molecules oscillate
+around fixed positions in a lattice, and as a result the phase point
+of the system can only access a small part of the energy hypersurface
+(Uffink 2007: 1017). The Kac Ring model and a system of anharmonic
+oscillators behave thermodynamically but fail to be ergodic (Bricmont
+2001). And even the ideal gas&mdash;supposedly the paradigm system of
+SM&mdash;is not ergodic (Uffink 1996b: 381). But if core-systems of SM
+are not ergodic, then ergodicity cannot provide an explanation for the
+approach to equilibrium, at least not one that is applicable across
+the board (Earman &amp; R&eacute;dei 1996; van Lith 2001). Attempts
+have been made to improve the situation through the notion of
+epsilon-ergodicity, where a system is epsilon-ergodic if it is ergodic
+only on subset \(Y \subset X\) where \(\mu(Y) \geq 1 - \varepsilon\),
+for small positive real number \(\varepsilon\) (Vranas 1998). While
+this approach deals successfully with some systems (Frigg &amp; Werndl
+2011), it is still not universally applicable and hence remains silent
+about large classes of SM systems.</p>
+
+<p>
+The ergodic approach accommodates Loschmidt&rsquo;s and
+Zermelo&rsquo;s objections by rejecting the requirement of strict
+irreversibility. The approach insists that systems, can, and actually
+do, move away from equilibrium. What SM should explain is not strict
+irreversibility, but the fact that systems spend most of the time in
+equilibrium. The ergodic approach does this by construction, and only
+allows for brief and infrequent episodes of non-thermodynamic
+behaviour (when the system moves out of equilibrium). This response is
+in line with Callender (2001) who argues that we should not take
+thermodynamics &ldquo;too seriously&rdquo; and see its strictly
+irreversible approach to equilibrium as an idealisation that is not
+empirically accurate because physical systems turn out to exhibit
+equilibrium fluctuations.</p>
+
+<p>
+A more technical worry is what is known as the <em>measure zero
+problem</em>. As we have seen, ergodicity says that &ldquo;almost all
+initial conditions&rdquo; are such that the fraction of time spent in
+\(R\) is equal to the fraction \(R\) occupies in \(X\). In technical
+terms this means that set of initial conditions for which this is not
+the case has measure zero (with respect to \(\mu\)). Intuitively this
+would seem to suggest that these conditions are negligible. However,
+as Sklar (1993: 182&ndash;88) points out, sets of measure zero can be
+rather large (remember that set of rational numbers has measure zero
+in the real numbers), and the problem is to justify why a set of
+measure zero really is negligible.</p>
+
+<h3 id="Typi">4.5 Typicality</h3>
+
+<p>
+An alternative account explains the approach to equilibrium in terms
+of <em>typicality</em>. Intuitively something is typical if it happens
+in the &ldquo;vast majority&rdquo; of cases: typical lottery tickets
+are blanks, and in a typical series of a thousand coin tosses the
+ratio of the number of heads and the number of tails is approximately
+one. The leading idea of a typicality-based account of SM is to show
+that thermodynamic behaviour is typical and is therefore to be
+expected. The typicality account comes in different version, which
+disagree on how exactly typicality reasoning is put to use; different
+versions have been formulated, among others, by Goldstein (2001),
+Goldstein and Lebowitz (2004), Goldstein, Lebowitz, Tumulka, and
+Zangh&igrave; (2006), Lebowitz (1993a, 1993b), and Volchan (2007). In
+its paradigmatic version, the account builds on the observation
+(discussed in
+ <a href="#DefiEquiBoltCombArgu">Section 4.2</a>)
+ that the equilibrium macro-region is so large that \(X\) consists
+almost entirely of equilibrium micro-states, which means that
+equilibrium micro-states are typical in \(X\). The account submits
+that, for this reason, a system that starts its time-evolution in a
+non-equilibrium state can simply not avoid evolving into a typical
+state&mdash;i.e., an equilibrium state&mdash;and staying there for
+very long time, which explains the approach to equilibrium.</p>
+
+<p>
+Frigg (2009, 2011) and Uffink (2007) argue that from the point of view
+of dynamical systems theory this is unjustified because there is no
+reason to assume that micro-states in an atypical set have to evolve
+into a typical set without there being any further dynamical
+assumptions in place. To get around this problem Frigg and Werndl
+(2012) formulate a version of the account that takes the dynamics of
+the system into account. Lazarovici and Reichert (2015) disagree that
+such additions are necessary. For further discussions of the use of
+typicality in SM, see Badino (2020), Bricmont (2022), Chibbaro,
+Rondoni and Vulpiani (2022), Crane and Wilhelm (2020), Goldstein
+(2012), Hemmo and Shenker (2015), Luczak (2016), Maudlin (2020),
+Reichert (forthcoming), and Wilhelm (2022). As far as
+Loschmidt&rsquo;s and Zermelo&rsquo;s objections are concerned, the
+typicality approach has to make the same move as the ergodic approach
+and reject strict irreversibility as a requirement.</p>
+
+<h3 id="MentPastHypo">4.6 The Mentaculus and the Past-Hypothesis</h3>
+
+<p>
+An altogether different approach has been formulated by Albert (2000).
+This approach focusses on the internal structure of macro-regions and
+aims to explain the approach to equilibrium by showing that the
+probability for system in a non-equilibrium macro-state to evolve
+toward a macro-state of higher Boltzmann entropy is high. The basis
+for this discussion is the so-called <em>statistical postulate</em>.
+Consider a particular macro-state \(M\) with macro-region \(X_{M}\)
+and assume that the system is in macro-state \(M\). The postulate then
+says that for any subset \(A\) of \(X_{M}\) the probability of finding
+the system&rsquo;s micro-state in \(A\) is \({\mu(A)/\mu(X}_{M})\). We
+can now separate the micro-states in \(X_{M}\) into those that evolve
+into a higher entropy macro-state and those that move toward
+macro-states of lower entropy. Let&rsquo;s call these sets
+\(X_{M}^{+}\) and \(X_{M}^{-}\). The statistical postulate then says
+that the probability of a system in \(M\) evolving toward a higher
+entropy macro-state is \({\mu(X}_{M}^{+})/\mu(X_{M})\).</p>
+
+<p>
+For it to be likely that system approaches equilibrium this
+probability would have to be high. It now turns out that for purely
+mathematical reasons, if the system is highly likely to evolve toward
+a macro-state of higher entropy, then it is also highly likely to have
+evolved into the current macro-state \(M\) from a macro-state of high
+entropy. In other words, if the entropy is highly likely to increase
+in the future, it is also highly likely to have decreased in the past.
+Albert suggests solving this problem by regarding the entire universe
+as the system being studied and then conditionalizing on the
+<em>Past-Hypothesis</em>, which is the assumption that</p>
+
+<blockquote>
+
+<p>
+that the world first came into being in whatever particular
+low-entropy highly condensed big-bang sort of macrocondition it is
+that the normal inferential procedures of cosmology will eventually
+present to us. (2000: 96)</p>
+</blockquote>
+
+<p>
+Let \(M_{p}\) be the <em>past state</em>, the state in which the world
+first came into being according to the Past-Hypothesis, and let
+\(I_{t} = \phi_{t}(X_{M_{p}}) \cap X_{M}\) be the intersection of the
+time-evolved macro-region of the past state and the current
+macro-state. The probability of high entropy future is then
+\({\mu(I_{t} \cap X}_{M}^{+})/\mu(I_{t})\). If we further assume
+&ldquo;abnormal&rdquo; states with low entropy futures are scattered
+all over \(X_{M}\), then a high entropy future can be highly likely
+without it a high entropy past also being highly likely.</p>
+
+<p>
+This approach to SM is based on three core elements: the deterministic
+time evolution of the system given by \(\phi_{t}\), the
+Past-Hypothesis, and the statistical postulate. Together they result
+in the assignment of a probability to propositions about the history
+of a system. Albert (2015) calls this assignment the
+<em>Mentaculus</em>. Albert regards the Mentaculus not only as an
+account of thermodynamic phenomena, but as the backbone of a complete
+scientific theory of the universe because the Mentaculus assigns
+probabilities to propositions in all sciences. This raises all kind of
+issues about the nature of laws, reduction, and the status of the
+special sciences, which are discussed, for instance, in Frisch (2011),
+Hemmo and Shenker (2021) and Myrvold and others (2016).</p>
+
+<p>
+Like the ergodic approach, the Mentaculus must accommodate
+Loschmidt&rsquo;s and Zermelo&rsquo;s objections by rejecting the
+requirement of strict irreversibility. Higher to lower entropy
+transitions are still allowed, but they are rendered unlikely, and
+recurrence can be tamed by noting that the recurrence time for a
+typical SM system is larger than age of the universe, which means that
+we won&rsquo;t observe recurrence (Bricmont 1995; Callender 1999).
+Yet, this amounts to admitting that entropy increase is not universal
+and the formalism is compatible with there being periods of decreasing
+entropy at some later point in the history of the universe.</p>
+
+<p>
+A crucial ingredient of the Mentaculus is the Past-Hypothesis. The
+idea of grounding thermodynamic behaviour in a cosmic low-entropy past
+can be traced back to Boltzmann (Uffink 2007: 990) and has since been
+advocated by prominent physicists like Feynman (1965: Ch. 5) and R.
+Penrose (2004: Ch. 27). This raises two questions: first, can the
+Past-Hypothesis be given a precise formulation that serves the purpose
+of SM, and, second, what status does the Past-Hypothesis have and does
+the fact that the universe started in this particular state require an
+explanation?</p>
+
+<p>
+As regards the first question, Earman has cast the damning verdict
+that the Past-Hypothesis is &ldquo;not even false&rdquo; (2006)
+because in cosmologies described in general relativity there is no
+well-defined sense in which the Boltzmann entropy has a low value. A
+further problem is that in the Mentaculus the Boltzmann entropy is a
+global quantity characterising the entire universe. But, as Winsberg
+points out, the fact that this quantity is low does not imply that the
+entropy of a particular small subsystem of interest is also low, and,
+worse just because the overall entropy of the universe increases it
+need not be the case that the entropy in a small subsystem also
+increases (2004a). The source of these difficulties is that the
+Mentaculus takes the entire universe to be the relevant system and so
+one might try get around them by reverting to where we started:
+laboratory systems like gases in boxes. One can then&nbsp;take the
+past state simply to be the state in which such a gas is prepared at
+the beginning of a process (say in the left half of the container).
+This leads to the so-called branch systems approach, because a system
+is seen as &ldquo;branching off&rdquo; from the rest of the universe
+when it is isolated from its environment and prepared in
+non-equilibrium state (Davies 1974; Sklar 1993: 318&ndash;32). Albert
+(2000) dismisses this option for a number of reasons, chief among them
+that it is not clear why one should regard the statistical postulate
+as valid for such a state (see Winsberg (2004b) for a discussion).</p>
+
+<p>
+As regards the second question, Chen (forthcoming), Goldstein (2001),
+and Loewer (2001) argue that Past-Hypothesis has the status of a
+fundamental law of nature. Albert seems to regard it as something like
+a Kantian regulative principle in that its truth must be assumed in
+order to make knowledge of the past possible at all. By contrast,
+Callender, Price, and Wald regard that the Past-Hypothesis a
+contingent matter of fact, but they disagree on whether this fact
+stands in need of an explanation. Price (1996, 2004) argues that it
+does because the crucial question in SM is not why entropy increase,
+but rather why it ever got to be low in the first place. Callender
+(1998, 2004a, 2004b) disagrees: the Past-Hypothesis simply specifies
+initial conditions of a process, and initial conditions are not the
+kind of thing that needs to be explained (see also Sklar (1993:
+309&ndash;18)). Parker (2005) argues that conditionalising on the
+initial state of the universe does not have the explanatory power to
+explain irreversible behaviour. Baras and Shenker (2020) and Farr
+(2022) analysed the notion of explanation that is involved in this
+debate and argue that different questions are in play that require
+different answers.</p>
+
+<h3 id="LongRunResiTimeAcco">4.7 The Long-Run Residence Time Account</h3>
+
+<p>
+The long-run residence time account offers a different perspective
+both on the definition of equilibrium and the approach to it (Werndl
+&amp; Frigg 2015a, 2015b). Rather than first defining equilibrium
+through combinatorial considerations (as in
+ <a href="#DefiEquiBoltCombArgu">&sect;4.2</a>)
+ and <em>then</em> asking why systems approach equilibrium thus
+defined (as do the accounts discussed in
+ <a href="#ErgoAppr">&sect;&sect;4.4&ndash;4.6</a>),
+ the long-run residence time account <em>defines</em> equilibrium
+through thermodynamic behaviour. The account begins by characterising
+the macro-states in the set \(\{ M_{1},\ldots,M_{n}\}\) in purely
+macroscopic terms, i.e., through thermodynamic variables like pressure
+and temperature, and then identifies the state in which a system
+resides most of the time as the equilibrium state: among the
+\(M_{i}\), the equilibrium macro-state is by definition the state in
+which a system spends most of its time in the long run (which gives
+the account its name).</p>
+
+<p>
+This definition requires no assumption about the size of the
+equilibrium macro-region, but one can then show that it is a property
+of the equilibrium macro-state that its macro-region is large. This
+result is fully general in that it does not depend on assumptions like
+particles being non-interacting (which makes it applicable to all
+systems including liquids and solids), and it does not depend on
+combinatorial considerations at the micro-level. The approach to
+equilibrium is built into the definition in the sense that if there is
+no macro-state in which the system spends most of its time, then the
+system simply has no equilibrium. This raises the question of the
+circumstances under which an equilibrium exists. The account answers
+this question by providing a general existence theorem which furnishes
+criteria for the existence of an equilibrium state (Werndl &amp; Frigg
+forthcoming-b). Intuitively, the existence theorem&nbsp;says that
+there is an equilibrium just in case the system&rsquo;s state space is
+split up into invariant regions on which the motion is ergodic and the
+equilibrium macro-state is largest in size relative to the other
+macro-states on each such region.</p>
+
+<p>
+Like the account previously discussed, the long-run residence time
+account accommodates Loschmidt&rsquo;s and Zermelo&rsquo;s objections
+by rejecting the requirement of strict irreversibility: it insists
+that being in equilibrium most of the time is as much as one can
+reasonably ask for because actual physical systems show equilibrium
+fluctuations and equilibrium is not the dead and immovable state that
+thermodynamics says it is.</p>
+
+<h3 id="ProbLimi">4.8 Problems and Limitations</h3>
+
+<p>
+BSM enjoys great popularity in foundational debates due to its clear
+and intuitive theoretical structure. Nevertheless, BSM faces a number
+of problems and limitations.</p>
+
+<p>
+The first problem is that BSM only deals with closed systems that
+evolve under their own internal dynamics. As we will see in
+ <a href="#GibbStatMechGSM">Section 6</a>,
+ GSM successfully deals with systems that can exchange energy and even
+particles with their environments, and systems of this kind play an
+important role in SM. Those who think that SM only deals with the
+entire universe can set this problem aside because the universe
+(arguably) is a closed system. However, those who think that the
+objects of study in SM are laboratory-size systems like gases and
+crystals will have to address the issues of how BSM can accommodate
+interactions between systems and their environments, which is a
+largely ignored problem.</p>
+
+<p>
+A second problem is that even though macro-states are ubiquitous in
+discussions about BSM, little attention is paid to a precise
+articulation of what these states are. There is loose talk about how a
+system looks from macroscopic perspective, or there is a vague appeal
+to thermodynamic variables. However, by the lights of thermodynamics,
+variables like pressure and temperature are defined <em>only</em> in
+equilibrium and it remains unclear how non-equilibrium states, and
+with them the approach to equilibrium, should be characterised in
+terms of thermodynamic variables. Frigg and Werndl (forthcoming-a)
+suggest solving this problem by defining macro-states in terms of
+local field-variables, but the issue needs further attention.</p>
+
+<p>
+A third problem is that current formulations of BSM are closely tied
+to deterministic classical systems
+ (<a href="#DynaSyst">&sect;3</a>).
+ Some versions of BSM can be formulated based on classical stochastic
+system (Werndl &amp; Frigg 2017). But the crucial question is whether,
+and if so how, a quantum version of BSM can be formulated (for a
+discussion see the entry on
+ <a href="../qm/">quantum mechanics</a>).
+ Dizadji-Bahmani (2011) discusses how a result due to Linden and
+others (2009) can be used to construct an argument for the conclusion
+that an arbitrary small subsystem of a large quantum system typically
+tends toward equilibrium. Chen (forthcoming) formulates a quantum
+version of the Mentaculus, which he calls the <em>Wentaculus</em> (see
+also his 2022). Goldstein, Lebowitz, Tumulka, and Zangh&igrave; (2020)
+describe a quantum analogue of the Boltzmann entropy and argue that
+the Boltzmannian conception of equilibrium is vindicated&nbsp;also in
+quantum mechanics by recent work on thermalization of closed quantum
+systems. These early steps have not yet resulted in comprehensive and
+widely accepted formulation of quantum version of BSM, the formulation
+of a such a version of remains an understudied topic. Albert (2000:
+Ch. 7) suggested that the spontaneous collapses of the so-called GRW
+theory (for introduction see the entry on
+ <a href="../qm-collapse/">collapse theories</a>),
+ a particular approach quantum mechanics, could be responsible for the
+emergence of thermodynamic irreversibility. Te Vrugt, T&oacute;th and
+Wittkowski (2021) put this proposal to test in computer simulations
+and found that for initial conditions leading to anti-thermodynamic
+behaviour GRW collapses do not lead to thermodynamic behaviour and
+that therefore the GRW does not induce irreversible behaviour.</p>
+
+<p>
+Finally, there is no way around recognising that BSM is mostly used in
+foundational debates, but it is GSM that is the practitioner&rsquo;s
+workhorse. When physicists have to carry out calculations and solve
+problems, they usually turn to GSM which offers user-friendly
+strategies that are absent in BSM. So either BSM has to be extended
+with practical prescriptions, or it has to be connected to GSM so that
+it can benefit from its computational methods (for a discussion of the
+latter option see
+ <a href="#RelaBetwGSMBSM">&sect;6.7</a>).</p>
+ 
+<h2 id="BoltEqua">5. The Boltzmann Equation</h2>
+
+<p>
+A different approach to the problem is taken by Boltzmann in his
+famous (1872 [1966 Brush translation]) paper, which contains two
+results that are now known as the Boltzmann Equation and the
+<em>H</em>-theorem. As before, consider a gas, now described through a
+distribution function \(f_{t}(\vec{v})\), which specifies what
+fraction of molecules in the gas has a certain velocity \(\vec{v}\) at
+time \(t\). This distribution can change over time, and
+Boltzmann&rsquo;s aim was to show that as time passes this
+distribution function changes so that it approximates the
+Maxwell-Boltzmann distribution, which, as we have seen in
+ <a href="#DefiEquiBoltCombArgu">Section 4.2</a>,
+ is the equilibrium distribution for a gas.</p>
+
+<p>
+To this end, Boltzmann derived an equation describing the time
+evolution of \(f_{t}(\vec{v})\). The derivation assumes that the gas
+consists of particles of diameter \(D\) that interact like hard
+spheres (i.e., they interact <em>only</em> when they collide); that
+all collisions are elastic (i.e., no energy is lost); that the number
+of particles is so large that their distribution, which in reality is
+discrete, can be well approximated by a continuous and differentiable
+function \(f_{t}(\vec{v})\); and that the density of the gas is so low
+that only two-particle collisions play a role in the evolution of
+\(f_{t}(\vec{v})\).</p>
+
+<p>
+The crucial assumption in the argument is the so-called
+&ldquo;<em>Stosszahlansatz</em>&rdquo;, which specifies how many
+collisions of a certain type take place in certain interval of time
+(the German &ldquo;<em>Stosszahlansatz</em>&rdquo; literally means
+something like &ldquo;collision number assumption&rdquo;). Assume the
+gas has \(N\) molecules per unit volume and the molecules are equally
+distributed in space. The type of collisions we are focussing on is
+the one between a particle with velocity \(\vec{v}_{1}\) and one with
+velocity \(\vec{v}_{2}\), and we want to know the number
+\(N(\vec{v}_{1}, \vec{v}_{2})\) of such collisions during a small
+interval of time \(\Delta t\). To solve this problem, we begin by
+focussing on one molecule with \(\vec{v}_{1}\). The relative velocity
+of this molecule and a molecule moving with \(\vec{v}_{2}\) is
+\(\vec{v}_{2} - \vec{v}_{1}\) and the absolute value of that relative
+velocity is \(\left\| \vec{v}_{2} - \vec{v}_{1} \right\|\). Molecules
+of diameter D only collide if their centres come closer than \(D\). So
+let us look at a cylinder with radius \(D\) and height \(\left\|
+\vec{v}_{2} - \vec{v}_{1} \right\|\Delta t\), which is the volume in
+space in which molecules with velocity \(\vec{v}_{2}\) would collide
+with our molecule during \(\Delta t\). The volume of this cylinder
+is</p> 
+\[\pi D^{2}\left\| \vec{v}_{2} - \vec{v}_{1} \right\|\Delta t .\]
+
+<p>
+If we now make the strong assumption that the initial velocities of
+colliding particles are independent, it follows that number of
+molecules with velocity \(\vec{v}_{2}\) in a unit volume of the gas at
+time \(t\) is \(Nf_{t}(\vec{v}_{2})\), and hence the number of such
+molecules in our cylinder is</p> 
+\[ N f_{t} (\vec{v}_{2}) \pi D^{2} \left\| \vec{v}_{1} - \vec{v}_{2} \right\| \Delta t.\]
+
+<p>
+This is the number of collisions that the molecule we are focussing on
+can be expected to undergo during \(\Delta t\). But there is nothing
+special about this molecule, and we are interested in the number of
+<em>all</em> collisions between particles with velocities
+\(\vec{v}_{1}\) and \(\vec{v}_{2}\). To get to that number, note that
+the number of molecules with velocity \(\vec{v}_{1}\) in a unit volume
+of gas at time \(t\) is \(Nf_{t}(\vec{v}_{1})\). That is, there are
+\(Nf_{t}(\vec{v}_{1})\) molecules like the one we were focussing on.
+It is then clear that the total number of collisions can be expected
+to be the product of the number of collisions for each molecule with
+\(\vec{v}_{1}\) times the number of molecules with
+\(\vec{v}_{1}\):</p> 
+\[ N\left( \vec{v}_{1}, \vec{v}_{2} \right) = N^{2} f_{t}(\vec{v}_{1}) f_{t}(\vec{v}_{2}) \left\| \vec{v}_{2} - \vec{v}_{1} \right\| \pi D^{2}\Delta t. \]
+
+<p>
+This is the <em>Stosszahlansatz</em>. For ease of presentation, we
+have made the mathematical simplification of treating
+\(f_{t}(\vec{v})\) as a fraction rather than as density in our
+discussion of the <em>Stosszahlansatz</em>; for a statement of the
+<em>Stosszahlansatz</em> for densities see, for instance, Uffink
+(2007). Based on the <em>Stosszahlansatz</em>, Boltzmann derived what
+is now known as the Boltzmann Equation:</p> 
+\[\frac{\partial f_{t}(\vec{v}_{1})}{\partial t} = {\pi D^{2}N}^{2} \int_{}^{} {d^{3}\vec{v}_{2}} \left\| \vec{v}_{2} - \vec{v}_{1} \right\| \left( f_{t} (\vec{v}_{1}) f_{t} (\vec{v}_{2}) - f_{t} (\vec{v}_{1}^{*}) f_{t} (\vec{v}_{2}^{*}) \right),\]
+
+<p>
+where \(\vec{v}_{1}^{*}\) and \(\vec{v}_{2}^{*}\) are the velocities
+of the particles <em>after</em> the collision. The integration is over
+the space of the box that contains the gas. This is a so-called
+integro-differential equation. The details of this equation need not
+concern us (and the mathematics of such equations is rather tricky).
+What matters is the overall structure, which says that the way the
+density \(f_{t}(\vec{v})\) changes over time depends on the difference
+of the products of the densities of the incoming an of the outgoing
+particles. Boltzmann then introduced the quantity \(H\),</p>
+
+\[H \left\lbrack f_{t}(\vec{v}) \right\rbrack = \int_{}^{} {d^{3}\vec{v}} f_{t}(\vec{v}) \ln \left(f_{t}(\vec{v})\right), \]
+
+<p>
+and proved that \(H\) decreases monotonically in time,</p> 
+\[\frac{dH\left\lbrack f_{t}(\vec{v}) \right\rbrack}{dt} \leq 0,\]
+
+<p>
+and that \(H\) is stationary (i.e., \(dH\lbrack f_{t}(\vec{v})
+\rbrack/dt = 0\)) iff \(f_{t}(\vec{v})\) is the Maxwell-Boltzmann
+distribution. These two results are the <em>H</em>-Theorem.</p>
+
+<p>
+The definition of \(H\) bears formal similarities both to the
+expression of the Boltzmann entropy in the combinatorial argument
+ (<a href="#TwoChalReveRecu">&sect;4.3</a>)
+ and, as we will see, to the Gibbs entropy
+ (<a href="#GSMApprEqui">&sect;6.3</a>);
+ in fact \(H\) looks like a negative entropy. For this reason the
+<em>H</em>-theorem is often paraphrased as showing that entropy
+increases monotonically until the system reaches the equilibrium
+distribution, which would provide a justification of thermodynamic
+behaviour based on purely mechanical assumptions. Indeed, in his 1872
+paper, Boltzmann himself regarded it as a rigorous general proof of
+the Second Law of thermodynamics (Uffink 2007: 965; Klein 1973:
+73).</p>
+
+<p>
+The crucial conceptual questions at this point are: what exactly did
+Boltzmann prove with the <em>H</em>-theorem? Under which conditions is
+the Boltzmann Equation valid? And what role do the assumptions, in
+particular, the <em>Stosszahlansatz</em> play in deriving it? The
+discussion of these question started four years after the paper was
+published, when Loschmidt put forward his reversibility objection
+ (<a href="#TwoChalReveRecu">&sect;4.3</a>).
+ This objection implies that \(H\) must be able to increase as well as
+decrease. Boltzmann&rsquo;s own response to Loschmidt&rsquo;s
+challenge and the question of the scope of the <em>H</em>-theorem is a
+matter of much debate; for discussions see, for instance, Brown,
+Myrvold, and Uffink (2009), Cercignani (1998), Brush (1976), and
+Uffink (2007). We cannot pursue this matter here, but the gist of
+Boltzmann&rsquo;s reply would seem to have been that he admitted that
+there exists initial states for which \(H\) decreases, but that these
+rarely, if ever, occur in nature. This leads to what is now known as a
+statistical reading of the <em>H</em>-theorem: the <em>H</em>-theorem
+shows entropy increase to be likely rather universal.</p>
+
+<p>
+A century later, Lanford published a string of papers (1973, 1975,
+1976, 1981) culminating in what is now known as Lanford&rsquo;s
+theorem, which provides rigorous results concerning the validity of
+the Boltzmann Equation. Lanford&rsquo;s starting point is the question
+whether, and if so in what sense, the Boltzmann equation is consistent
+with the underlying Hamiltonian dynamics. To this end, note that every
+point \(x\) in the state space \(X\) of a gas has a distribution
+\(f_{x}(\vec{r}, \vec{v})\) associated with it, where \(\vec{r}\) and
+\(\vec{v}\) are, respectively, the location and velocity of one
+particle (recall from
+ <a href="#DynaSyst">&sect;3</a>
+ that \(X\) contains the position and momenta of all molecules). For a
+finite number of particles \(f_{x}(\vec{r}, \vec{v})\) is not
+continuous, let alone differentiable. So as a first step, Lanford
+developed a way to obtain a differentiable distribution function
+distribution \(f^{(x)}(\vec{r}, \vec{v})\), which involves taking the
+so-called Boltzmann-Grad limit. He then evolved this distribution
+forward in time both under the fundamental Hamiltonian dynamics, which
+yields \(f_{\text{Ht}}^{(x)}(\vec{r}, \vec{v})\), and under the
+Boltzmann Equation, which yields \(f_{\text{Bt}}^{(x)}(\vec{r},
+\vec{v})\). Lanford&rsquo;s theorem compares these two distributions
+and essentially says that for most points \(x\) in \(X\),
+\(f_{\text{Ht}}^{(x)}(\vec{r}, \vec{v})\) and
+\(f_{\text{Bt}}^{(x)}(\vec{r}, \vec{v})\) are close to each other for
+times in the interval \(\left\lbrack 0, t^{*} \right\rbrack,\) where
+\(t^{*}\) is a cut-off time (where &ldquo;most&rdquo; is judged by the
+so-called microcanonical measure on the phase space; for discussion of
+this measure see
+ <a href="#FramGSM">&sect;6.1</a>).
+ For rigorous statements and further discussions of the theorem see
+Ardourel (2017), Uffink and Valente (2015), and Valente (2014).</p>
+
+<p>
+Lanford's theorem is a remarkable achievement because it shows that a
+statistical and approximate version of the Bolzmann Equation can be
+derived from the Hamiltonian mechanics and most initial conditions in
+the Bolzmann-Grad limit for a finite amount of time. In this sense it
+can be seen as a vindication of Boltzmann&rsquo;s statistical version
+of the <em>H</em>-theorem. At the same time the theorem also
+highlights the limitations of the approach. The relevant distributions
+are close to each other only up to time \(t^{*}\), and it turns out
+that \(t^{*}\) is roughly two fifths of the mean time a particle moves
+freely between two collisions. But this is a very short time! During
+the interval \(\left\lbrack 0, t^{*} \right\rbrack\), which for a gas
+like air at room temperature is&nbsp;in the order of microseconds, on
+average 40% of the molecules in the gas will have been involved in one
+collision and the other 60% will have moved freely. This is patiently
+too short to understand macroscopic phenomena like the one that we
+described at the beginning of this article, which take place on a
+longer timescale and will involve many collisions for all particles.
+And like Boltzmann's original results, Lanford's theorem also depends
+on strong assumptions, in particular a measure-theoretic version of
+the <em>Stosszahlansatz</em> and Valente (cf. Uffink &amp; Valente
+2015).</p>
+
+<p>
+Finally, one of the main conceptual problems concerning
+Lanford&rsquo;s theorem is where the apparent irreversibility comes
+from. Various opinions have been expressed on this issue. Lanford
+himself first argued that irreversibility results from passing to the
+Boltzmann-Grad limit (Lanford 1975: 110), but later changed his mind
+and argued that the <em>Stosszahlansatz</em> for incoming collision
+points is responsible for the irreversible behaviour (1976, 1981).
+Cercignani, Illner, and Pulvirenti (1994) and Cercignani (2008) claim
+that irreversibility arises as a consequence of assuming a hard-sphere
+dynamics. Valente (2014) and Uffink and Valente (2015) argue that
+there is no genuine irreversibility in the theorem because the theorem
+is time-reversal invariant. For further discussions on the role of
+irreversibility in Lanford&rsquo;s theorem, see also Lebowitz (1983),
+Spohn (1980, 1991), and Weaver (2021, 2022)</p>
+
+<h2 id="GibbStatMechGSM">6. Gibbsian Statistical Mechanics (GSM)</h2>
+
+<p>
+Gibbsian Statistical Mechanics (GSM) is an umbrella term covering a
+number of positions that take Gibbs&rsquo; (1902 [1981]) as their
+point of departure. In this section, we introduce the framework and
+discuss different articulations of it along with the issues they
+face.</p>
+
+<h3 id="FramGSM">6.1 The Framework of GSM</h3>
+
+<p>
+Like BSM, GSM departs from the dynamical system \((X,\) \(\phi,\)
+\(\mu)\) introduced in
+ <a href="#DynaSyst">Section 3</a>
+ (although, as we will see below, it readily generalises to quantum
+mechanics). But this is where the commonalities end. Rather than
+partitioning \(X\) into macro-regions, GSM puts a probability density
+function \(\rho(x)\) on \(X\), often referred to as a
+&ldquo;distribution&rdquo;. This distribution evolves under the
+dynamics of the system through the law</p> 
+\[\rho_{t}(x) = \rho_{0}(\phi_{- t}(x))\]
+
+<p>
+where \(\rho_{0}\) is the distribution the initial time \(t_{0}\) and
+\(\phi_{- t}(x)\) is the micro-state that evolves into \(x\) during
+\(t\). A distribution is called stationary if it does not change over
+time, i.e., \(\rho_{t}(x)= \rho_{0}(x)\) for all \(t\). If the
+distribution is stationary, Gibbs says that the system is in
+&ldquo;statistical equilibrium&rdquo;.</p>
+
+<p>
+At the macro-level, a system is characterised by macro-variables,
+which are functions \(f:X\rightarrow \mathbb{R}\), where
+\(\mathbb{R}\) are the real numbers. With the exception of entropy and
+temperature (to which we turn below), GSM takes all physical
+quantities to be represented by such functions. The so-called
+<em>phase average</em> of \(f\) is</p> 
+\[\left\langle f \right\rangle = \int_{X} f(x) \rho(x) dx.\]
+
+<p>
+The question now is how to interpret this formalism. The standard
+interpretation is in terms of what is known as an ensemble. An
+<em>ensemble</em> is an infinite collection of systems of the same
+kind that differ in their state. Crucially, this is a collection of
+copies of the <em>entire</em> system and not a collection of
+molecules. For this reason, Schr&ouml;dinger characterised an ensemble
+as a collection of &ldquo;mental copies of the one system under
+consideration&rdquo; (1952 [1989: 3]). Hence the members of an
+ensemble do not interact with each other; an ensemble is not a
+physical object; and ensembles have no spatiotemporal existence. The
+distribution can then be interpreted as specifying &ldquo;how
+many&rdquo; systems in the ensemble have their state in certain region
+\(R\) of \(X\) at time \(t\). More precisely, \(\rho_{t}(x)\) is
+interpreted as giving the probability of finding a system in \(R\) at
+\(t\) when drawing a system randomly from the ensemble in much the
+same way in which one draws a ball from an urn:</p> 
+\[p_{t}(R) = \int_{R} {\rho_{t}(x)} dx.\]
+
+<p>
+What is the right distribution for a given physical situation? Gibbs
+discusses this problem at length and formulates three distributions
+which are still used today: the <em>microcanonical distribution</em>
+for isolated systems, the <em>canonical distribution</em> for system
+with fluctuating energy, and the <em>grand-canonical distribution</em>
+for systems with both fluctuating energy and fluctuating particle
+number. For a discussion of the formal aspects of these distributions
+see, for instance, Tolman (1938 [1979]), and for philosophical
+discussions see Davey (2008, 2009) and Myrvold (2016).</p>
+
+<p>
+Gibbs&rsquo; statistical equilibrium is a condition on an
+<em>ensemble</em> being in equilibrium, which is different from an
+<em>individual system</em> being in equilibrium (as introduced in
+ <a href="#AimsStatMechSM">&sect;1</a>).
+ The question is how the two relate, and what an experimenter who
+measures a physical quantity on a system observes. A standard answer
+one finds in SM textbooks appeals to the <em>averaging principle</em>:
+when measuring the quantity \(f\) on a system in thermal equilibrium,
+the observed equilibrium value of the property is the ensemble average
+\(\langle f\rangle\) of an ensemble in ensemble-equilibrium. The
+practice of applying this principle is often called <em>phase
+averaging</em>. One of the core challenges for GSM is to justify this
+principle.</p>
+
+<h3 id="EquiWhyDoesPhasAverWork">6.2 Equilibrium: Why Does Phase Averaging Work?</h3>
+
+<p>
+The standard justification of phase averaging that one finds in many
+textbooks is based on the notion of ergodicity that we have already
+encountered in
+ <a href="#ErgoAppr">Section 4.4</a>.
+ In the current context, we consider the <em>infinite time
+average</em> \(f^{*}\)of the function \(f\). It is a mathematical fact
+that ergodicity as defined earlier is equivalent to it being the case
+that \(f^{*} = \langle f \rangle\) for almost all initial states. This
+is reported to provide a justification for phase averaging as follows.
+Assume we carry out a measurement of the physical quantity represented
+by \(f\). It will take some time to carry out the measurement, and so
+what the measurement device registers is the time average over the
+duration of the measurement. Indeed, the time needed to make the
+measurement is long compared to the time scale on which typical
+molecular processes take place, the measured result is approximately
+equal to the infinite time average \(f^{*}\). By ergodicity, \(f^{*}\)
+is equal to \(\langle f\rangle\), which justifies the averaging
+principle.</p>
+
+<p>
+This argument fails for several reasons (Malament &amp; Zabell 1980;
+Sklar 1993: 176&ndash;9). First, from the fact that measurements take
+time it does not follow that what is measured are time averages, and
+even if one could argue that measurement devices output time averages,
+these would be <em>finite</em> time averages and equating these finite
+time averages with infinite time averages is problematic because
+finite and infinite averages can assume very different values even if
+the duration of the finite measurement is very long. Second, this
+account makes a mystery of how we observe change. As we have seen in
+ <a href="#AimsStatMechSM">Section 1</a>,
+ we do observe how systems approach equilibrium, and in doing so we
+observe macro-variables changing their values. If measurements
+produced infinite time averages, then no change would ever be observed
+because these averages are constant. Third, as we already noted
+earlier, ergodicity is a stringent condition and many systems to which
+SM is successfully applied are not ergodic (Earman &amp; R&eacute;dei
+1996), which makes equating time averages and phase averages
+wrong.</p>
+
+<p>
+A number of approaches have been designed to either solve or
+circumvent these problems. Malament and Zabell (1980) suggest a method
+of justifying phase averaging that still invokes ergodicity but avoids
+an appeal to time averages. Vranas (1998) offers a reformulation of
+this argument for systems that are epsilon-ergodic (see
+ <a href="#ErgoAppr">&sect;4.4</a>).
+ This accounts for systems that are &ldquo;almost&rdquo; ergodic, but
+remains silent about systems that are far from being ergodic. Khinchin
+(1949) restricts attention to systems with a large number of degrees
+of freedom and so-called sum functions (i.e., functions that can are a
+sum over one-particle functions), and shows that for such systems
+\(f^{*} = \langle f\rangle\) holds on the largest part of \(X\); for a
+discussion of this approach see Batterman (1998) and Badino (2006).
+However, as Khinchin himself notes, the focus on sum-functions is too
+restrictive to cover realistic systems, and the approach also has to
+revert to the implausible posit that observations yield infinite time
+averages. This led to a research programme now known as the
+&ldquo;thermodynamic limit&rdquo;, aiming to prove
+&ldquo;Khinchin-like&rdquo; results under more realistic assumptions.
+Classic statements are Ruelle (1969, 2004); for a survey and further
+references see Uffink (2007: 1020&ndash;8).</p>
+
+<p>
+A different approach to the problem insists that one should take the
+status of \(\rho(x)\) as a probability seriously and seek a
+justification of averaging in statistical terms. In this vein, Wallace
+(2015) insists that the quantitative content of statistical mechanics
+is exhausted by the statistics of observables (their expectation
+values, variances, and so on) and McCoy (2020) submits that
+\(\rho(x)\) is the complete physical state of an individual
+statistical mechanical system. Such a view renounces the association
+of measurement outcomes with phase averages and insists that
+measurements are &ldquo;an instantaneous act, like taking a
+snapshot&rdquo; (O. Penrose 1970: 17&ndash;18): if a measurement of
+the quantity associated with \(f\) is performed on a system at time
+\(t\) and the system&rsquo;s micro-state at time \(t\) is \(x(t)\),
+then the measurement outcome at time \(t\) will be \(f(x(t))\). An
+obvious consequence of this definition is that measurements at
+different times can have different outcomes, and the values of
+macro-variables can change over time. One can then look at how these
+values change over time. One way of doing this is to look at
+fluctuations away from the average:</p> 
+\[\Delta(t) = f\left( x(t) \right) - \left\langle f \right\rangle,\]
+
+<p>
+where \(\Delta(t)\) is the fluctuation away from the average at time
+\(t\). One can then expect that a that the outcome of a measurement
+will be \(\langle f\rangle\) if fluctuations turn out to be small and
+infrequent. Although this would not seem to be the received textbook
+position, something like it can be identified in some, for instance
+Hill (1956 [1987]) and Schr&ouml;dinger (1952 [1989]). A precise
+articulation will have to use \(\rho\) to calculate the probability of
+fluctuations of a certain size, and this requires the system to meet
+stringent dynamical conditions, namely either the masking condition
+or&nbsp;the <em>f</em>-independence condition (Frigg &amp; Werndl
+2021).</p>
+
+<h3 id="GSMApprEqui">6.3 GSM and Approach to Equilibrium</h3>
+
+<p>
+As discussed so far, GSM is an equilibrium theory, and this is also
+how it is mostly used in applications. Nevertheless, a comprehensive
+theory of SM must also account for the approach to equilibrium. To
+discuss the approach to equilibrium, it is common to introduce the
+<em>Gibbs entropy</em></p> 
+\[S_{G} = - k\int_{X} \rho(x)\log\lbrack\rho(x)\rbrack dx.\]
+
+<p>
+The Gibbs entropy is a property of an ensemble characterised by a
+distribution \(\rho\). One might then try to characterise the approach
+to equilibrium as a process in which \(S_{G}\) increases monotonically
+to finally reach a maximum in equilibrium. But this idea is undercut
+immediately by a mathematical theorem saying that \(S_{G}\) is a
+constant of motion:</p> 
+\[{S_{G}\lbrack\rho}_{t}(x)\rbrack = S_{G}\lbrack\rho_{0}(x)\rbrack\]
+
+<p>
+for all times \(t\). So not only does \(S_{G}\) fail to increase
+monotonically; it does not change at all! This precludes a
+characterisation of the approach to equilibrium in terms of increasing
+Gibbs entropy. Hence, either such a characterisation has to be
+abandoned, or the formalism has to be modified to allow \(S_{G}\) to
+increase.</p>
+
+<p>
+A second problem is a consequence of the Gibbsian definition of
+statistical equilibrium. As we have seen in
+ <a href="#FramGSM">&sect;6.1</a>,
+ a system is in statistical equilibrium if \(\rho\) is stationary. A
+system away from equilibrium would then have to be associated with a
+non-stationary distribution and eventually evolve into the stationary
+equilibrium distribution. But this is mathematically impossible. It is
+a consequence of the theory&rsquo;s formalism of GSM that a
+distribution that is stationary at some point in time has to be
+stationary at all times (past and future), and that a distribution
+that is non-stationary at some point in time will always be
+non-stationary. So an ensemble cannot evolve from non-stationary
+distribution to stationary distribution. This requires either a change
+in the definition of equilibrium, or a change in the formalism that
+would allow distributions to change in requisite way.</p>
+
+<p>
+In what follows we discuss the main attempts to address these
+problems. For alternative approaches that we cannot cover here see
+Frigg (2008b: 166&ndash;68) and references therein.</p>
+
+<h3 id="CoarGrai">6.4 Coarse-Graining</h3>
+
+<p>
+Gibbs was aware of the problems with the approach to equilibrium and
+proposed coarse-graining as a solution (Gibbs 1902 [1981]: Ch. 12).
+This notion has since been endorsed by many practitioners (see, for
+instance, Farquhar 1964 and O. Penrose 1970). We have already
+encountered coarse-graining in
+ <a href="#DefiEquiBoltCombArgu">&sect;4.2</a>.
+ The use of it&nbsp;here is different, though, because we are now
+putting a grid on the full state space \(X\) and not just on the
+one-particle space. One can then define a coarse-grained density
+\(\bar{\rho}\) by saying that at every point&nbsp;\(x\) in \(X\) the
+value of \(\bar{\rho}\) is the average of \(\rho\) over the grid cell
+in which \(x\) lies. The advantage of coarse-graining is that the
+coarse-grained distribution is not subject to the same limitations as
+the original distribution. Specifically, let us call the Gibbs entropy
+that is calculated with the coarse-grained distribution the
+coarse-grained Gibbs entropy. It now turns out that coarse-grained
+Gibbs entropy is not a constant of motion and it is possible for the
+entropy to increase. This re-opens the avenue of understanding the
+approach to equilibrium in terms of an increase of the entropy. It is
+also possible for the coarse-grained distribution to evolve so that it
+is spread out evenly over the entire available space and thereby comes
+to look like a micro-canonical equilibrium distribution. Such a
+distribution is also known as the quasi-equilibrium equilibrium
+distribution (Blatt 1959; Ridderbos 2002).</p>
+
+<p>
+Coarse-graining raises two questions. First, the coarse-grained
+entropy <em>can</em> increase and the system <em>can</em> approach a
+coarse-grained equilibrium, but under what circumstances will it
+actually do so? Second, is it legitimate to replace standard
+equilibrium by quasi-equilibrium?</p>
+
+<p>
+As regards the first question, the standard answer (which also goes
+back to Gibbs) is that the system has to be <em>mixing</em>.
+Intuitively speaking, a system is mixing if every subset of \(X\) ends
+up being spread out evenly over the entire state space in the long run
+(for a more detailed account of mixing see entry on
+ <a href="../ergodic-hierarchy/#ErgoHier">the ergodic hierarchy</a>).
+ The problem is that mixing is a very demanding condition. In fact,
+being mixing implies being ergodic (because mixing is strictly
+stronger than ergodicity). As we have already noticed, many relevant
+systems are not ergodic, and hence <em>a fortiori</em> not mixing.
+Even if a system is mixing, the mixed state is only achieved in the
+limit for \(t \rightarrow \infty\), but real physical systems reach
+equilibrium in finite time (indeed, in most cases rather quickly).</p>
+
+<p>
+As regards the second question, the first point to note is that a
+silent shift has occurred: Gibbs initially defined equilibrium through
+stationarity while the above argument defines it through uniformity.
+This needs further justification, but in principle there would seem to
+be nothing to stop us from redefining equilibrium in this way.</p>
+
+<p>
+The motivation for adopting quasi-equilibrium is that \(\bar{\rho}\)
+and \(\rho\) are empirically indistinguishable. If the size of the
+grid is below the measurement precision, no measurement will be able
+to tell the difference between the two, and phase averages calculated
+with the two distributions agree. Hence, hence there is no reason to
+prefer \(\rho\) to \(\bar{\rho}\).</p>
+
+<p>
+This premise has been challenged. Blatt (1959) and Ridderbos and
+Redhead (1998) argue that this is wrong because the spin-echo
+experiment (Hahn 1950) makes it possible to empirically discern
+between \(\rho\) and \(\bar{\rho}\). The weight of this experiment
+continues to be discussed controversially, with some authors insisting
+that it invalidates the coarse gaining approach (Ridderbos 2002) and
+others insisting that coarse-graining can still be defended (Ainsworth
+2005; Lavis 2004; Robertson 2020). For further discussion see Myrvold
+(2020b).</p>
+
+<h3 id="Inte">6.5 Interventionism</h3>
+
+<p>
+The approaches we discussed so far assume that systems are isolated.
+This is an idealising assumption because real physical systems are not
+perfectly isolated from their environment. This is the starting point
+for the interventionist programme, which is based on the idea that
+real systems are constantly subject to outside perturbations, and that
+it is exactly these perturbations that drive the system into
+equilibrium. In other words, it&rsquo;s these interventions from
+outside the system that are responsible for its approach to
+equilibrium, which is what earns the position the name
+<em>interventionism</em>. This position has been formulated by Blatt
+(1959) and further developed by Ridderbos and Redhead (1998). The key
+insight behind the approach is that two challenges introduced in
+ <a href="#GSMApprEqui">Section 6.3</a>
+ vanish once the system is not assumed to be isolated: the entropy can
+increase, and a non-stationary distribution can be pushed toward a
+distribution that is stationary in the future.</p>
+
+<p>
+This approach accepts that isolated systems do not approach
+equilibrium, and critics wonder why this would be the case. If one
+places a gas like the one we discussed in
+ <a href="#AimsStatMechSM">Section 1</a>
+ somewhere in interstellar space where it is isolated from outside
+influences, will it really sit there confined to the left half of the
+container and not spread? And even if this were the case, would adding
+just <em>any</em> environment resolve the issue? Interventionist
+sometimes seem to suggest that this is the case, but in an unqualified
+form this claim cannot be right. Environments can be of very different
+kinds and there is no general theorem that says that any environment
+drives a system to equilibrium. Indeed, there are reasons to assume
+that there is no such theorem&nbsp;because while environments do drive
+systems, they need not drive them to equilibrium. So it remains an
+unresolved question under what conditions environments drive systems
+to equilibrium.</p>
+
+<p>
+Another challenge for interventionism is that one is always free to
+consider a larger system, consisting of our original system plus its
+environment. For instance, we can consider the &ldquo;gas + box&rdquo;
+system. This system would then also approach equilibrium because of
+outside influences, and we can then again form an even larger system.
+So we get into a regress that only ends once the system under study is
+the entire universe. But the universe has no environment that could
+serve as a source of perturbations which, so the criticism goes, shows
+that the programme fails.</p>
+
+<p>
+Whether one sees this criticism as decisive depends on one&rsquo;s
+views of laws of nature. The argument relies on the premise that the
+underlying theory is a universal theory, i.e., one that applies to
+everything that there is without restrictions. The reader can find an
+extensive discussion in the entry on
+ <a href="../laws-of-nature/">laws of nature</a>.
+ At this point we just note that while universality is widely held,
+some have argued against it because laws are always tested in highly
+artificial situations. Claiming that they equally apply outside these
+settings involves an inductive leap that is problematic; see for
+instance Cartwright (1999) for a discussion of such a view. This, if
+true, successfully undercuts the above argument against
+interventionism.</p>
+
+<h3 id="EpisAcco">6.6 The Epistemic Account</h3>
+
+<p>
+The epistemic account urges a radical reconceptualization of SM. The
+account goes back to Tolman (1938 [1979]) and has been brought to
+prominence by Jaynes in a string of publications between 1955 and
+1980, most of which are gathered in Jaynes (1983). On this approach,
+SM is about our <em>knowledge</em> of the world and not about the
+world itself, and the probability distributions in GSM represents our
+state of knowledge about a system and not some matter of fact. The
+centre piece of this interpretation is the fact that the Gibbs entropy
+is formally identical to the Shannon entropy in information theory,
+which is a measure for the lack of information about a system: the
+higher the entropy, the less we know (for a discussion of the Shannon
+entropy see the entry on
+ <a href="../information/#ShanInfoDefiTermProb">information, &sect;4.2</a>).
+ The Gibbs entropy can therefore be seen as quantifying our lack of
+information about a system. This has the advantage that ensembles are
+no longer needed in the statement of GSM. On the epistemic account,
+there is only one system, the one on which we are performing our
+experiments, and \(\rho\) describes what we know about it. This also
+offers a natural criterion for identifying equilibrium distributions:
+they are the distributions with the highest entropy consistent with
+the external constraints on the system because such distributions are
+the least committal distributions. This explains why we expect
+equilibrium to be associated with maximum entropy. This is known as
+Jaynes&rsquo; <em>maximum entropy principle</em> (MEP).</p>
+
+<p>
+MEP has been discussed controversially, and, to date, there is no
+consensus on its significance, or even cogency. For discussions see,
+for instance, Denbigh and Denbigh (1985), Howson and Urbach (2006),
+Lavis (1977), Lavis and Milligan (1985), Seidenfeld (1986), Shimony
+(1985), Uffink (1995, 1996a), and Williamson (2010). The epistemic
+approach also assumes that experimental outcomes correspond to phase
+averages, but as we have seen, this is a problematic assumption
+ (<a href="#FramGSM">&sect;6.1</a>).
+ A further concern is that the system&rsquo;s own dynamics plays no
+role in the epistemic approach. This is problematic because if the
+dynamics has invariant quantities, a system cannot access certain
+parts of the state space even though \(\rho\) may assign a non-zero
+probability to it (Sklar 1993: 193&ndash;4).</p>
+
+<p>
+The epistemic account&rsquo;s explanation of the approach to
+equilibrium relies on making repeated measurements and
+conditionalizing on each measurement result; for a discussion see
+Sklar (1993: 255&ndash;257). This successfully gets around the problem
+that the Gibbs entropy is constant, because the value assignments now
+depend not only on the system&rsquo;s internal dynamics, but also on
+the action of an experimenter. The problem with this solution is that
+depending on how exactly the calculations are done, either the entropy
+increase fails to be monotonic (indeed entropy decreases are possible)
+or the entropy curve will become dependent on the sequence of instants
+of time chosen to carry out measurements (Lavis &amp; Milligan
+1985).</p>
+
+<p>
+However, the most fundamental worry about the epistemic approach is
+that it fails to realise the fundamental aim of SM, namely to explain
+how and why processes in nature take place because these processes
+cannot possibly depend on what we know about them. Surely, so the
+argument goes, the boiling of kettles or the spreading of gases has
+something to do with how the molecules constituting these systems
+behave and not with what we happen (or fail) to know about them
+(Redhead 1995; Albert 2000; Loewer 2001). For further discussions of
+the epistemic approach see Anta (forthcoming-a, forthcoming-b),
+Shenker (2020), and Uffink (2011).</p>
+
+<h3 id="RelaBetwGSMBSM">6.7 The Relation between GSM and BSM</h3>
+
+<p>
+A pressing and yet understudied question in the philosophy of SM
+concerns the relation between the GSM and BSM. GSM provides the tools
+and methods to carry out a wide range of equilibrium calculations, and
+it is the approach predominantly used by practitioners in the field.
+Without it, the discipline of SM would not be able to operate (Wallace
+2020). BSM is conceptually neat and is preferred by philosophers when
+they give foundational accounts of SM. So what we&rsquo;re facing is a
+schism whereby the day-to-day work of physicists is in one framework
+and foundational accounts and explanations are given in another
+framework (Anta 2021a). This would not be worrisome if the frameworks
+were equivalent, or at least inter-translatable in relatively clear
+way. As the discussion in the previous sections has made clear, this
+is not the case. And what is more, in some contexts the formalisms do
+not even give empirically equivalent predictions (Werndl &amp; Frigg
+2020b). This raises the question of how exactly the two approaches are
+related. Lavis (2005) proposes a reconciliation of the two frameworks
+through giving up on the binary property of the system being or not
+being in equilibrium, which should be replaced by the continuous
+property of <em>commonness</em>. Wallace (2020) argues that GSM is a
+more general framework in which the Boltzmannian approach may be
+understood as a special case. Frigg and Werndl suggest that BSM is a
+fundamental theory and GSM is an effective theory that offers means to
+calculate values defined in BSM (Frigg &amp; Werndl 2019; Werndl &amp;
+Frigg 2020a). Goldstein (2019) plays down their difference and argues
+that the conflict between them is not as great as often imagined.
+Finally, Goldstein, Lebowitz, Tumulka, and Zangh&igrave; (2020)
+compare the Boltzmann entropy and the Gibbs entropy and argue that the
+two notions yield the same (leading order) values for the entropy of a
+macroscopic system in thermal equilibrium.</p>
+
+<h2 id="FurtIssu">7. Further Issues</h2>
+
+<p>
+So far we have focussed on the questions that arise in the
+articulation of the theory itself. In this section we discuss some
+further issue that arise in connection with SM, explicitly excluding a
+discussion of the direction of time and other temporal asymmetries,
+which have their own entry in this encyclopedia (see the entry on
+ <a href="../time-thermo/">thermodynamic asymmetry in time</a>).</p>
+ 
+<h3 id="InteSMProb">7.1 The Interpretation of SM Probabilities</h3>
+
+<p>
+How to interpret probabilities is a problem with a long philosophical
+tradition (for a survey of different views see the entry on
+ <a href="../probability-interpret/">interpretations of probability</a>).
+ Since SM introduces probabilities, there is a question of how these
+probabilities should be interpreted. This problem is particularly
+pressing in SM because, as we have seen, the underlying mechanical
+laws are deterministic. This is not a problem so long as the
+probabilities are interpreted epistemically as in Jaynes&rsquo;
+account
+ (<a href="#EpisAcco">&sect;6.6</a>).
+ But, as we have seen, a subjective interpretation seems to clash with
+the realist intuition that SM is a physical theory that tells us how
+things are independently of what we happen to know about them. This
+requires probabilities to be objective.</p>
+
+<p>
+Approaches to SM that rely on ergodic theory tend to interpret
+probabilities as time-averages, which is natural because ergodicity
+provides such averages. However, long-run time averages are not a good
+indicator for how a system behaves because, as we have seen, they are
+constant and so do not indicate how a system behaves out of
+equilibrium. Furthermore, interpreting long-run time averages as
+probabilities is motivated by the fact the that these averages seem to
+be close cousins of long-run relative frequencies. But this
+association is problematic for a number of reasons (Emch 2005;
+Guttmann 1999; van Lith 2003; von Plato 1981, 1982, 1988,
+1994).&nbsp;An alternative is to interpret SM probabilities as
+propensities, but many regard this as&nbsp;problematic because
+propensities would ultimately seem to be incompatible with a
+deterministic underlying micro theory (Clark 2001).</p>
+
+<p>
+Loewer (2001) suggested that we interpret SM probabilities as Humean
+objective chances in Lewis&rsquo; sense (1980) because the Mentaculus
+(see
+ <a href="#MentPastHypo">&sect;4.6</a>)
+ is a best system in Lewis&rsquo; sense. Frigg (2008a) identifies some
+problems with this interpretation, and Frigg and Hoefer (2015)
+formulate an alternative Humean account that is designed to overcome
+these issues. For further discussion of Humean chances in SM, see
+Beisbart (2014), Dardashti, Glynn, Th&eacute;bault, and Frisch (2014),
+Hemmo and Shenker (2022),&nbsp; Hoefer (2019), and Myrvold (2016,
+2021).</p>
+
+<h3 id="MaxwDemoEntrCostComp">7.2 Maxwell&rsquo;s Demon and the Entropy Costs of Computation</h3>
+
+<p>
+Consider the following scenario, which originates in a letter that
+Maxwell wrote in 1867 (see Knott 1911). Recall&nbsp;the vessel with a
+partition wall that we have encountered in
+ <a href="#AimsStatMechSM">Section 1</a>,
+ but vary the setup slightly: rather than having one side empty, the
+two sides of the vessel are filled with gases of different
+temperatures. Additionally, there is now a shutter in the wall which
+is operated by a demon. The demon carefully observes all the
+molecules. Whenever a particle in the cooler side moves towards the
+shutter the demon checks its velocity, and if the velocity of the
+particle is greater than the mean velocity of the particles on the
+hotter side of the vessel he opens the shutter and lets the particle
+pass through to the hotter side. The net effect of the demon&rsquo;s
+actions is that the hotter gas becomes even hotter and that the colder
+gas becomes even colder. This means that there is a heat transfer from
+the cooler to the hotter gas without doing any work because the heat
+transfer is solely due to the demon&rsquo;s skill and intelligence in
+sorting the molecules. Yet, according to the Second Law of
+thermodynamics, this sort of heat transfer is not allowed. So we
+arrive at the conclusion that the demons&rsquo; action result in a
+violation of the Second Law of thermodynamics.</p>
+
+<p>
+Maxwell interpreted this scenario as a thought experiment that showed
+that the Second Law of thermodynamics is not an exceptionless law and
+that it has only &ldquo;statistical certainty&rdquo; (see Knott 1911;
+Hemmo &amp; Shenker 2010). Maxwell&rsquo;s demon has given rise to a
+vast literature, some of it in prestigious physics journals. Much of
+this literature has focused on exorcising the demon, i.e., on showing
+that a demon would not be physically possible. Broadly speaking, there
+are two approaches. The first approach is commonly attributed to
+Szilard (1929 [1990]), but also goes also back to von Neumann (1932
+[1955]) and Brillouin (1951 [1990]). The core idea of this approach is
+that gaining information that allows us to distinguish between \(n\)
+equally likely states comes at a necessary minimum cost in
+thermodynamic entropy of \(k \log(n)\), which is the entropy
+dissipated by the system that gains information. Since the demon has
+to gain information to decide whether to open the shutter, the second
+law of thermodynamics is not violated. The second approach is based on
+what is now called <em>Landauer&rsquo;s principle</em>, which states
+that in erasing information that can discern between \(n\) states, a
+minimum thermodynamic entropy of \(k \log(n)\) is dissipated (Landauer
+1961 [1990]). Proponents of the principle argue that because a demon
+has to erase information on memory devices, Landauer&rsquo;s principle
+prohibits a violation of the second law of thermodynamics.</p>
+
+<p>
+In two influential articles Earman and Norton (1998, 1999) lament that
+from the point of view of philosophy of science the literature on
+exorcising the demon lacks rigour and reflection on what the goals the
+enterprise are, and that the demon has been discussed from various
+different perspectives, often leading to confusion. Earman and Norton
+argue that the appeal to information theory has not resulted in a
+decisive exorcism of Maxwell&rsquo;s demon. They pose a dilemma for
+the proponent of an information theoretic exorcism of Maxwell&rsquo;s
+demon. Either the combined system of the vessel and the demon are
+already assumed to be subject to the second law of thermodynamics, in
+which case it is trivial that the demon will fail. Or, if this is not
+assumed, then proponents of the information theoretic exorcism have to
+supply new physical principles to guarantee the failure of the demon
+and they have to give independent grounds for it. Yet, in Earman and
+Norton&rsquo;s view, such independent grounds have not been
+convincingly established.</p>
+
+<p>
+Bub (2001) and Bennett (2003) responded to Earman and Norton that if
+one assumes that the demon is subject to the Second Law of
+thermodynamics, the merit of Landauer&rsquo;s principle is that it
+shows where the thermodynamic costs arise. Norton (2005, 2017) replies
+that no general precise principle is stated how erasure and the
+merging of computational paths necessarily lead to an increase in
+thermodynamic entropy. He concludes that the literature on
+Landauer&rsquo;s principle is too fragile and too tied to a few
+specific examples to sustain general claims about the failure of
+Maxwell&rsquo;s demons. Maroney (2005) argues that thermodynamic
+entropy and information-theoretic entropy are conceptually different,
+and that two widespread generalisations of Landauer&rsquo;s
+fail. Maroney (2009) then formulates what he regards as a more precise
+generalisation of Landauer&rsquo;s principle, which he argues does not
+fail.</p>
+
+<p>
+The discussions around Maxwell&rsquo;s demon are now so extensive that
+they defy documentation in an introductory survey of SM. Classical
+papers on the matter are collected in Leff and Rex (1990). For more
+recent discussion see, for instance, Anta (2021b), Hemmo and Shenker
+(2012; 2019), Ladyman and Robertson (2013, 2014), Leff and Rex (1994),
+Myrvold (forthcoming), Norton (2013), and references therein.</p>
+
+<h3 id="GibbPara">7.3 The Gibbs Paradox</h3>
+
+<p>
+So far, we have considered how one gas evolves. Now let&rsquo;s look
+at what happens when we mix two gases. Again, consider a container
+with a partition wall in the middle, but now imagine that there are
+two <em>different</em> gases on the left and on the right (for
+instance helium and hydrogen) where both gases have the <em>same</em>
+temperature. We now remove the shutter, and the gases start spreading
+and get mixed. If we then calculate the entropy of the initial and the
+final state of the two gases, we find that the entropy of the mixture
+is greater than the entropy of the gases in their initial
+compartments. This is the result that we expect. The paradox arises
+from the fact that the calculations do <em>not</em> depend on the fact
+that the gases are different: if we assume that we have air of the
+same temperature on both sides of the barrier the calculations still
+yield an increase in entropy when the barrier is removed. This seems
+wrong because it would imply that the entropy of a gas depends on its
+history and cannot be a function of its thermodynamic state alone (as
+thermodynamics requires). This is known as the <em>Gibbs
+Paradox</em>.</p>
+
+<p>
+The standard textbook resolution of the paradox is that classical SM
+gets the entropy wrong because it counts states that differ only by a
+permutation of two indistinguishable particles as distinct, which is a
+mistake (Huang 1963). So the problem is rooted in the notion of
+individuality, which is seen as inherent to classical mechanics.
+Therefore, so the argument goes, the problem is resolved by quantum
+mechanics, which treats indistinguishable particles in the right way.
+This argument raises a number of questions concerning the nature of
+individuality in classical and quantum mechanics, the way of counting
+states in both the Boltzmann and the Gibbs approach, and the relation
+of SM to thermodynamics. Classical discussions include Denbigh and
+Denbigh&nbsp;(1985: Ch. 4), Denbigh and Redhead(1989), Jaynes (1992),
+Land&eacute; (1965), Rosen (1964), and van Kampen (1984). For more
+recent discussions, see, for instance, Huggett (1999), Saunders
+(2006), and Wills (forthcoming), as well as the contributions to Dieks
+and Saunders (2018) and references therein.</p>
+
+<h3 id="SMBeyoPhys">7.4 SM Beyond Physics</h3>
+
+<p>
+Increasingly, the methods of SM are used to address problems outside
+physics. Costantini and Garibaldi (2004) present a generalised version
+of the Ehrenfest flea model and show that it can be used to describe a
+wide class of stochastic processes, including problems in population
+genetics and macroeconomics. Colombo and Palacios (2021) discuss the
+application of the free energy principle in biology. The most prolific
+application of SM methods outside physics are in economics and
+finance, where an entire field is named after them, namely
+econophysics. For discussions of different aspects of econophysics see
+Jhun, Palacios, and Weatherall (2018); Kutner <em>et al</em>. (2019),
+Rickles (2007, 2011), Schinckus (2018), Th&eacute;bault, Bradley, and
+Reutlinger (2017), and Voit (2005).</p>
+
+<h3 id="ReduInteTheoRela">7.5 Reductionism and Inter-Theory Relations</h3>
+
+<p>
+In the introduction we said that SM had to account for the
+thermodynamic behaviour of physical systems like gases in a box. This
+is a minimal aim that everybody can agree on. But many would go
+further and say that there must be stronger reductive relations
+between SM and other parts of science, or, indeed, as in the
+Mentaculs, that all layers of reality in the entire universe reduce to
+SM. For a general discussion of reductionism and inter-theory
+relations see the relevant entries in this encyclopaedia
+ (<a href="../scientific-reduction/">scientific reduction</a>
+ and
+ <a href="../physics-interrelate/">intertheory relations in physics</a>).</p>
+ 
+<p>
+A point where the issue of reduction has come to head is the
+discussion of phase transitions. Consider again a container full of
+gas and imagine that the container is over 100&deg;C hot and that the
+gas in it is water vapour. Now you start cooling down the container.
+Once the temperature of the gas falls below 100&deg;C, the gas
+condenses and turns in liquid water, and once it falls below 0&deg;C,
+liquid water turns into solid ice. These are examples of <em>phase
+transitions</em>, namely, first from the gaseous phase to the liquid
+phase and then from the liquid to the solid phase. Thermodynamics
+characterises phase transitions as a discontinuity in a thermodynamic
+potential such as the free energy, and a phase transition is said to
+occur when this potential shows a discontinuity (Callender 2001). It
+now turns out that SM can reproduce this only in the so-called
+thermodynamic limit, which takes the particle number in the system
+toward infinity (while keeping the number of particles per volume
+constant). This would seem to imply that phase transitions can only
+occur in infinite systems. In this vein, physicist David Ruelle notes
+that phase transitions can occur only in systems that are
+&ldquo;idealized to be actually infinite&rdquo; (Ruelle 2004: 2). This
+is sparked a heated debate over whether, and if so in what sense,
+thermodynamics can be reduced to SM, because in nature phase
+transitions clearly do occur in finite systems (the water in a puddle
+freezes!). Batterman (2002) draws the conclusion that phase
+transitions are <em>emergent</em> phenomena that are irreducible to
+the underling micro-theory, namely SM. Others push back against this
+view and argue that no actual infinity is needed and that therefore
+limiting behaviour is neither emergent not indicative of a failure of
+reduction. Norton (2012) reaches this conclusion by demoting the limit
+to a mere approximation, Callender (2001) by counselling against
+&ldquo;taking thermodynamics too seriously&rdquo;, and Butterfield by
+developing a view that reconciles reduction and emergence (2011a,
+2011b, 2014). For further discussions of phase transitions and their
+role in understanding whether, and if so how, thermodynamics can be
+reduced to SM see, Ardourel (2018), Bangu (2009), Butterfield and
+Buatta (2012), Franklin (2018), Liu (2001), Palacios (2018, 2019,
+forthcoming), and Menon and Callender (2013), and for a discussion of
+infinite idealisations in general Shech (2018).</p>
+
+<p>
+Similar questions arise when we aim to reduce the thermodynamic
+entropy to one of the SM entropies (Callender 1999; Dizadji-Bahmani et
+al. 2010; Myrvold 2011), when we focus on the peculiar nature of
+quasi-static processes in thermodynamics (Robertson forthcoming), when
+we study equilibration Myrvold (2020a), and when we give up the
+idealisation that SM systems are isolated and take gravity into
+account (Callender 2011). There is also a question about what exactly
+reduction is expected to achieve. Radical reductionists seem to expect
+that once the fundamental level is sorted out, the rest of science
+follows from it as a corollary (Weinberg 1992), which is also a vision
+that seems to drive the Mentaculus. Others are more cautions. Lavis,
+K&uuml;hn, and Frigg (2021) and Yi (2003) note that even if reduction
+is successful, thermodynamics remains in place as an independent
+theory: SM requires the framework of thermodynamics, which serves as
+recipient of information from SM but without itself being derivable
+from SM.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging">
+
+<li>Ainsworth, Peter, 2005, &ldquo;The Spin-Echo Experiment and
+Statistical Mechanics&rdquo;, <em>Foundations of Physics Letters</em>,
+18(7): 621&ndash;635. doi:10.1007/s10702-005-1316-z</li>
+
+<li>Albert, David Z., 2000, <em>Time and Chance</em>, Cambridge, MA:
+Harvard University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2015, <em>After Physics</em>, Cambridge,
+MA: Harvard University Press. doi:10.4159/harvard.9780674735507</li>
+
+<li>Allori, Valia (ed.), 2020, <em>Statistical Mechanics and
+Scientific Explanation: Determinism, Indeterminism and Laws of
+Nature</em>, Singapore: World Scientific. doi:10.1142/11591</li>
+
+<li>Anta, Javier, 2021a, &ldquo;The Epistemic Schism of Statistical
+Mechanics&rdquo;, <em>THEORIA. An International Journal for Theory,
+History and Foundations of Science</em>, 36(3): 399&ndash;419.
+doi:10.1387/theoria.22134</li>
+
+<li>&ndash;&ndash;&ndash;, 2021b, &ldquo;Sympathy for the Demon.
+Rethinking Maxwell&rsquo;s Thought Experiment in a Maxwellian
+Vein&rdquo;, <em>Teorema: International Journal of Philosophy</em>,
+40(3): 49&ndash;64.</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming-a, &ldquo;Can Information
+Concepts Have Physical Content?&rdquo;, <em>Perspectives on
+Science</em>, first online: 20 February 2022, 21 pages.
+doi:10.1162/posc_a_00424</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming-b, &ldquo;Ignorance, Milk and
+Coffee: Can Epistemic States Be Causally-Explanatorily Relevant in
+Statistical Mechanics?&rdquo;, <em>Foundations of Science</em>, first
+online: 5 July 2021. doi:10.1007/s10699-021-09803-3</li>
+
+<li>Ardourel, Vincent, 2017, &ldquo;Irreversibility in the Derivation
+of the Boltzmann Equation&rdquo;, <em>Foundations of Physics</em>,
+47(4): 471&ndash;489. doi:10.1007/s10701-017-0072-9</li>
+
+<li>&ndash;&ndash;&ndash;, 2018, &ldquo;The Infinite Limit as an
+Eliminable Approximation for Phase Transitions&rdquo;, <em>Studies in
+History and Philosophy of Science Part B: Studies in History and
+Philosophy of Modern Physics</em>, 62: 71&ndash;84.
+doi:10.1016/j.shpsb.2017.06.002</li>
+
+<li>Arnold, V. I. and A. Avez, 1967 [1968], <em>Probl&egrave;mes
+ergodiques de la m&eacute;canique classique</em>, (Monographies
+internationales de math&eacute;matiques modernes 9), Paris:
+Gauthier-Villars. Translated as <em>Ergodic Problems of Classical
+Mechanics</em>, (The Mathematical Physics Monograph Series), New York:
+Benjamin, 1968.</li>
+
+<li>Badino, Massimiliano, 2006, &ldquo;The Foundational Role of
+Ergodic Theory&rdquo;, <em>Foundations of Science</em>, 11(4):
+323&ndash;347. doi:10.1007/s10699-005-6283-0</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;Reassessing Typicality
+Explanations in Statistical Mechanics&rdquo;, in Allori 2020:
+147&ndash;172. doi:10.1142/9789811211720_0005</li>
+
+<li>Bangu, Sorin, 2009, &ldquo;Understanding Thermodynamic
+Singularities: Phase Transitions, Data, and Phenomena&rdquo;,
+<em>Philosophy of Science</em>, 76(4): 488&ndash;505.
+doi:10.1086/648601</li>
+
+<li>Baras, Dan and Orly Shenker, 2020, &ldquo;Calling for Explanation:
+The Case of the Thermodynamic Past State&rdquo;, <em>European Journal
+for Philosophy of Science</em>, 10(3): article 36.
+doi:10.1007/s13194-020-00297-7</li>
+
+<li>Batterman, Robert W., 1998, &ldquo;Why Equilibrium Statistical
+Mechanics Works: Universality and the Renormalization Group&rdquo;,
+<em>Philosophy of Science</em>, 65(2): 183&ndash;208.
+doi:10.1086/392634</li>
+
+<li>&ndash;&ndash;&ndash;, 2002, <em>The Devil in the Details:
+Asymptotic Reasoning in Explanation, Reduction, and Emergence</em>,
+(Oxford Studies in Philosophy of Science), Oxford/New York: Oxford
+University Press. doi:10.1093/0195146476.001.0001</li>
+
+<li>Beisbart, Claus, 2014, &ldquo;Good Just Isn&rsquo;t Good Enough:
+Humean Chances and Boltzmannian Statistical Physics&rdquo;, in
+Galavotti et al. 2014: 511&ndash;529.
+doi:10.1007/978-3-319-04382-1_36</li>
+
+<li>Ben-Menahem, Yemima (ed.), 2022, <em>Rethinking the Concept of Law
+of Nature: Natural Order in the Light of Contemporary Science</em>,
+(Jerusalem Studies in Philosophy and History of Science), Cham,
+Switzerland: Springer. doi:10.1007/978-3-030-96775-8</li>
+
+<li>Bennett, Charles H., 2003, &ldquo;Notes on Landauer&rsquo;s
+Principle, Reversible Computation, and Maxwell&rsquo;s Demon&rdquo;,
+<em>Studies in History and Philosophy of Science Part B: Studies in
+History and Philosophy of Modern Physics</em>, 34(3): 501&ndash;510.
+doi:10.1016/S1355-2198(03)00039-X</li>
+
+<li>Blatt, J. M., 1959, &ldquo;An Alternative Approach to the Ergodic
+Problem&rdquo;, <em>Progress of Theoretical Physics</em>, 22(6):
+745&ndash;756. doi:10.1143/PTP.22.745</li>
+
+<li>Boltzmann, Ludwig, 1872 [1966], &ldquo;Weitere Studien &uuml;ber
+das W&auml;rmegleichgewicht unter Gasmolek&uuml;len&rdquo;, <em>Wiener
+Berichte</em>, 66: 275&ndash;370. Collected in Boltzmann 1909, volume
+1: 316&ndash;402 (ch. 22). Translated as &ldquo;Further Studies on the
+Thermal Equilibrium of Gas Molecules&rdquo;, in <em>Kinetic Theory,
+Volume 2: Irreversible Processes</em>, S. G. Brush, (ed.), Oxford/New
+York: Pergamon Press, 88&ndash;175.
+doi:10.1016/B978-0-08-011870-3.50009-X</li>
+
+<li>&ndash;&ndash;&ndash;, 1877, &ldquo;&Uuml;ber die Beziehung
+zwischen dem zweiten Hauptsatze der mechanischen W&auml;rmetheorie und
+der Wahrscheinlichkeitsrechnung resp. den S&auml;tzen &uuml;ber das
+W&auml;armegleichgewicht&rdquo;, <em>Wiener Berichte</em>, 76:
+373&ndash;435. Collected in Boltzmann 1909, volume 2: 164&ndash;223
+(ch. 42).</li>
+
+<li>&ndash;&ndash;&ndash;, 1909, <em>Wissenschaftliche Abhandlungen:
+im Auftrage und mit Unterst&uuml;tzung der Akademien der
+Wissenschaften zu Berlin, G&ouml;ttingen, Leipzig, M&uuml;nchen,
+Wien</em>, 3 volumes, Fritz Hasen&ouml;hrl (ed.), Leipzig: Barth.</li>
+
+<li>Bricmont, Jean, 1995, &ldquo;Science of Chaos or Chaos in
+Science?&rdquo;, <em>Annals of the New York Academy of Sciences</em>,
+775(1): 131&ndash;175. doi:10.1111/j.1749-6632.1996.tb23135.x</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;Bayes, Boltzmann and Bohm:
+Probabilities in Physics&rdquo;, in Bricmont et al. 2001: 3&ndash;21.
+doi:10.1007/3-540-44966-3_1</li>
+
+<li>&ndash;&ndash;&ndash;, 2022, <em>Making Sense of Statistical
+Mechanics</em>, (Undergraduate Lecture Notes in Physics), Cham:
+Springer International Publishing. doi:10.1007/978-3-030-91794-4</li>
+
+<li>Bricmont, Jean, Giancarlo Ghirardi, Detlef D&uuml;rr, Francesco
+Petruccione, Maria Carla Galavotti, and Nino Zangh&igrave; (eds.),
+2001, <em>Chance in Physics: Foundations and Perspectives</em>,
+(Lecture Notes in Physics 574), Berlin, Heidelberg: Springer Berlin
+Heidelberg. doi:10.1007/3-540-44966-3</li>
+
+<li>Brillouin, Leon, 1951 [1990], &ldquo;Maxwell&rsquo;s Demon Cannot
+Operate: Information and Entropy. I&rdquo;, <em>Journal of Applied
+Physics</em>, 22(3): 334&ndash;337. Reprinted in Leff and Rex 1990:
+134&ndash;137. doi:10.1063/1.1699951</li>
+
+<li>Brown, Harvey R., Wayne Myrvold, and Jos Uffink, 2009,
+&ldquo;Boltzmann&rsquo;s <em>H</em>-Theorem, Its Discontents, and the
+Birth of Statistical Mechanics&rdquo;, <em>Studies in History and
+Philosophy of Science Part B: Studies in History and Philosophy of
+Modern Physics</em>, 40(2): 174&ndash;191.
+doi:10.1016/j.shpsb.2009.03.003</li>
+
+<li>Brush, Stephen G., 1976, <em>The Kind of Motion We Call Heat: A
+History of the Kinetic Theory of Gases in the 19th Century</em>,
+(Studies in Statistical Mechanics 6), Amsterdam/New York:
+North-Holland.</li>
+
+<li>Bub, Jeffrey, 2001, &ldquo;Maxwell&rsquo;s Demon and the
+Thermodynamics of Computation&rdquo;, <em>Studies in History and
+Philosophy of Science Part B: Studies in History and Philosophy of
+Modern Physics</em>, 32(4): 569&ndash;579.
+doi:10.1016/S1355-2198(01)00023-5</li>
+
+<li>Butterfield, Jeremy, 2011a, &ldquo;Emergence, Reduction and
+Supervenience: A Varied Landscape&rdquo;, <em>Foundations of
+Physics</em>, 41(6): 920&ndash;959. doi:10.1007/s10701-011-9549-0</li>
+
+<li>&ndash;&ndash;&ndash;, 2011b, &ldquo;Less Is Different: Emergence
+and Reduction Reconciled&rdquo;, <em>Foundations of Physics</em>,
+41(6): 1065&ndash;1135. doi:10.1007/s10701-010-9516-1</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;Reduction, Emergence, and
+Renormalization&rdquo;:, <em>Journal of Philosophy</em>, 111(1):
+5&ndash;49. doi:10.5840/jphil201411111</li>
+
+<li>Butterfield, Jeremy and Nazim Bouatta, 2012, &ldquo;Emergence and
+Reduction Combined in Phase Transitions&rdquo;, in <em>Frontiers of
+Fundamental Physics: The Eleventh International Symposium</em>
+(<em>AIP Conference Proceedings</em> 1446), 383&ndash;403.
+doi:10.1063/1.4728007</li>
+
+<li>Callender, Craig, 1998, &ldquo;The View from No-When&rdquo;,
+<em>The British Journal for the Philosophy of Science</em>, 49(1):
+135&ndash;159. doi:10.1093/bjps/49.1.135</li>
+
+<li>&ndash;&ndash;&ndash;, 1999, &ldquo;Reducing Thermodynamics to
+Statistical Mechanics: The Case of Entropy&rdquo;, <em>The Journal of
+Philosophy</em>, 96(7): 348&ndash;373. doi:10.2307/2564602</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;Taking Thermodynamics Too
+Seriously&rdquo;, <em>Studies in History and Philosophy of Science
+Part B: Studies in History and Philosophy of Modern Physics</em>,
+32(4): 539&ndash;553. doi:10.1016/S1355-2198(01)00025-9</li>
+
+<li>&ndash;&ndash;&ndash;, 2004a, &ldquo;Measures, Explanations and
+the Past: Should &lsquo;Special&rsquo; Initial Conditions Be
+Explained?&rdquo;, <em>The British Journal for the Philosophy of
+Science</em>, 55(2): 195&ndash;217. doi:10.1093/bjps/55.2.195</li>
+
+<li>&ndash;&ndash;&ndash;, 2004b, &ldquo;There Is No Puzzle about the
+Low-Entropy Past&rdquo;, in Hitchcock 2004: 240&ndash;255.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Hot and Heavy Matters in the
+Foundations of Statistical Mechanics&rdquo;, <em>Foundations of
+Physics</em>, 41(6): 960&ndash;981. doi:10.1007/s10701-010-9518-z</li>
+
+<li>Cartwright, Nancy, 1999, <em>The Dappled World: A Study of the
+Boundaries of Science</em>, Cambridge/New York: Cambridge University
+Press. doi:10.1017/CBO9781139167093</li>
+
+<li>Cercignani, Carlo, 1998, <em>Ludwig Boltzmann: The Man Who Trusted
+Atoms</em>, Oxford/New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780198570646.001.0001</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, &ldquo;134 Years of Boltzmann
+Equation&rdquo;, in <em>Boltzmann&rsquo;s Legacy</em>, Giovanni
+Gallavotti, Wolfgang L. Reiter, and Jakob Yngvason (eds.), (ESI
+Lectures in Mathematics and Physics), Z&uuml;rich, Switzerland:
+European Mathematical Society, 107&ndash;128.</li>
+
+<li>Cercignani, Carlo, Reinhard Illner, and M. Pulvirenti, 1994,
+<em>The Mathematical Theory of Dilute Gases</em>, (Applied
+Mathematical Sciences 106), New York: Springer-Verlag.
+doi:10.1007/978-1-4419-8524-8</li>
+
+<li>Chen, Eddy Keming, 2022, &ldquo;Fundamental Nomic
+Vagueness&rdquo;, <em>The Philosophical Review</em>, 131(1):
+1&ndash;49. doi:10.1215/00318108-9415127</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming, &ldquo;The Past Hypothesis and
+the Nature of Physical Laws&rdquo;, in <em>Time&rsquo;s Arrows and the
+Probability Structure of the World</em>, Barry Loewer, Eric Winsberg,
+and Brad Weslake (eds), Cambridge, MA: Harvard University Press.
+ [<a href="https://arxiv.org/abs/2008.00611" target="other">Chen forthcoming available online</a>]</li>
+ 
+<li>Chibbaro, Sergio, Lamberto Rondoni, and Angelo Vulpiani, 2022,
+&ldquo;Probability, Typicality and Emergence in Statistical
+Mechanics&rdquo;, in <em>From Electrons to Elephants and Elections:
+Exploring the Role of Content and Context</em>, Shyam Wuppuluri and
+Ian Stewart (eds.), (The Frontiers Collection), Cham: Springer
+International Publishing, 339&ndash;360.
+doi:10.1007/978-3-030-92192-7_20</li>
+
+<li>Clark, Peter J., 2001, &ldquo;Statistical Mechanics and the
+Propensity Interpretation of Probability&rdquo;, in Bricmont et al.
+2001: 271&ndash;281. doi:10.1007/3-540-44966-3_21</li>
+
+<li>Colombo, Matteo and Patricia Palacios, 2021,
+&ldquo;Non-Equilibrium Thermodynamics and the Free Energy Principle in
+Biology&rdquo;, <em>Biology &amp; Philosophy</em>, 36(5): article 41.
+doi:10.1007/s10539-021-09818-x</li>
+
+<li>Costantini, David and Ubaldo Garibaldi, 2004, &ldquo;The Ehrenfest
+Fleas: From Model to Theory&rdquo;, <em>Synthese</em>, 139(1):
+107&ndash;142. doi:10.1023/B:SYNT.0000021307.64103.b8</li>
+
+<li>Crane, Harry and Isaac Wilhelm, 2020, &ldquo;The Logic of
+Typicality&rdquo;, in Allori 2020: 173&ndash;229.
+doi:10.1142/9789811211720_0006</li>
+
+<li>Dardashti, Radin, Luke Glynn, Karim Th&eacute;bault, and Mathias
+Frisch, 2014, &ldquo;Unsharp Humean Chances in Statistical Physics: A
+Reply to Beisbart&rdquo;, in Galavotti et al. 2014: 531&ndash;542.
+doi:10.1007/978-3-319-04382-1_37</li>
+
+<li>Darrigol, Olivier, 2018, <em>Atoms, Mechanics, and Probability:
+Ludwig Boltzmann&rsquo;s Statistico-Mechanical Writings&mdash;an
+Exegesis</em>, Oxford: Oxford University Press.
+doi:10.1093/oso/9780198816171.001.0001</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, &ldquo;Boltzmann&rsquo;s Reply to the
+Loschmidt Paradox: A Commented Translation&rdquo;, <em>The European
+Physical Journal H</em>, 46(1): article 29.
+doi:10.1140/epjh/s13129-021-00029-2</li>
+
+<li>Davey, Kevin, 2008, &ldquo;The Justification of Probability
+Measures in Statistical Mechanics*&rdquo;, <em>Philosophy of
+Science</em>, 75(1): 28&ndash;44. doi:10.1086/587821</li>
+
+<li>&ndash;&ndash;&ndash;, 2009, &ldquo;What Is Gibbs&rsquo;s
+Canonical Distribution?&rdquo;, <em>Philosophy of Science</em>, 76(5):
+970&ndash;983. doi:10.1086/605793</li>
+
+<li>Davies, P. C. W., 1974, <em>The Physics of Time Asymmetry</em>,
+Berkeley, CA: University of California Press.</li>
+
+<li>Denbigh, Kenneth George and J. S. Denbigh, 1985, <em>Entropy in
+Relation to Incomplete Knowledge</em>, Cambridge/New York: Cambridge
+University Press.</li>
+
+<li>Denbigh, K. G. and M. L. G. Redhead, 1989, &ldquo;Gibbs&rsquo;
+Paradox and Non-Uniform Convergence&rdquo;, <em>Synthese</em>, 81(3):
+283&ndash;312. doi:10.1007/BF00869318</li>
+
+<li>Dieks, Dennis and Simon Saunders (eds), 2018, <em>Gibbs Paradox
+2018</em>, special issue of <em>Entropy</em>.
+ [<a href="https://www.mdpi.com/journal/entropy/special_issues/Gibbs_Paradox_2018">Dieks and Saunders 2018 available online</a>]</li>
+ 
+<li>Dizadji-Bahmani, Foad, 2011, &ldquo;The Aharonov Approach to
+Equilibrium&rdquo;, <em>Philosophy of Science</em>, 78(5):
+976&ndash;988. doi:10.1086/662282</li>
+
+<li>Dizadji-Bahmani, Foad, Roman Frigg, and Stephan Hartmann, 2010,
+&ldquo;Who&rsquo;s Afraid of Nagelian Reduction?&rdquo;,
+<em>Erkenntnis</em>, 73(3): 393&ndash;412.
+doi:10.1007/s10670-010-9239-x</li>
+
+<li>Earman, John, 1986, <em>A Primer on Determinism</em>, (University
+of Western Ontario Series in Philosophy of Science 32),
+Dordrecht/Boston: D. Reidel.</li>
+
+<li>&ndash;&ndash;&ndash;, 2002, &ldquo;What Time Reversal Invariance
+Is and Why It Matters&rdquo;, <em>International Studies in the
+Philosophy of Science</em>, 16(3): 245&ndash;264.
+doi:10.1080/0269859022000013328</li>
+
+<li>&ndash;&ndash;&ndash;, 2006, &ldquo;The &lsquo;Past
+Hypothesis&rsquo;: Not Even False&rdquo;, <em>Studies in History and
+Philosophy of Science Part B: Studies in History and Philosophy of
+Modern Physics</em>, 37(3): 399&ndash;430.
+doi:10.1016/j.shpsb.2006.03.002</li>
+
+<li>Earman, John and John D. Norton, 1998, &ldquo;Exorcist XIV: The
+Wrath of Maxwell&rsquo;s Demon. Part I. From Maxwell to
+Szilard&rdquo;, <em>Studies in History and Philosophy of Science Part
+B: Studies in History and Philosophy of Modern Physics</em>, 29(4):
+435&ndash;471. doi:10.1016/S1355-2198(98)00023-9</li>
+
+<li>&ndash;&ndash;&ndash;, 1999, &ldquo;Exorcist XIV: The Wrath of
+Maxwell&rsquo;s Demon. Part II. From Szilard to Landauer and
+Beyond&rdquo;, <em>Studies in History and Philosophy of Science Part
+B: Studies in History and Philosophy of Modern Physics</em>, 30(1):
+1&ndash;40. doi:10.1016/S1355-2198(98)00026-4</li>
+
+<li>Earman, John and Mikl&oacute;s R&eacute;dei, 1996, &ldquo;Why
+Ergodic Theory Does Not Explain the Success of Equilibrium Statistical
+Mechanics&rdquo;, <em>The British Journal for the Philosophy of
+Science</em>, 47(1): 63&ndash;78. doi:10.1093/bjps/47.1.63</li>
+
+<li>Ehrenfest, Paul and Tatiana Ehrenfest [Afanassjewa], 1912 [1959],
+&ldquo;Begriffliche Grundlagen der statistischen Auffassung in der
+Mechanik&rdquo;, in <em>Encyklop&auml;die der mathematischen
+Wissenschafte</em>, Leipzig: B.G. Teubner. Translated as <em>The
+Conceptual Foundations of the Statistical Approach in Mechanics</em>,
+Michael J. Moravcsik (trans.), Ithaca, NY: Cornell University Press,
+1959.</li>
+
+<li>Emch, G&eacute;rard G., 2005, &ldquo;Probabilistic Issues in
+Statistical Mechanics&rdquo;, <em>Studies in History and Philosophy of
+Science Part B: Studies in History and Philosophy of Modern
+Physics</em>, 36(2): 303&ndash;322.
+doi:10.1016/j.shpsb.2004.06.003</li>
+
+<li>Farquhar, I. E., 1964, <em>Ergodic Theory in Statistical
+Mechnics</em>, London/New York/Sydney: John Wiley and Sons.</li>
+
+<li>Farr, Matt, 2022, &ldquo;What&rsquo;s so Special About Initial
+Conditions? Understanding the Past Hypothesis in Directionless
+Time&rdquo;, in Ben-Menahem 2022: 205&ndash;224.
+doi:10.1007/978-3-030-96775-8_8</li>
+
+<li>Feynman, Richard P., 1965, <em>The Character of Physical Law</em>,
+(The Messenger Lectures 1964), Cambridge, MA: MIT Press.</li>
+
+<li>Franklin, Alexander, 2018, &ldquo;On the Renormalization Group
+Explanation of Universality&rdquo;, <em>Philosophy of Science</em>,
+85(2): 225&ndash;248. doi:10.1086/696812</li>
+
+<li>Frigg, Roman, 2008a, &ldquo;Chance in Boltzmannian Statistical
+Mechanics&rdquo;, <em>Philosophy of Science</em>, 75(5):
+670&ndash;681. doi:10.1086/594513</li>
+
+<li>&ndash;&ndash;&ndash;, 2008b, &ldquo;A Field Guide to Recent Work
+on the Foundations of Statistical Mechanics&rdquo;, in <em>The Ashgate
+Companion to Contemporary Philosophy of Physics</em>, Dean Rickles
+(ed.), London: Ashgate, 99&ndash;196.</li>
+
+<li>&ndash;&ndash;&ndash;, 2009, &ldquo;Typicality and the Approach to
+Equilibrium in Boltzmannian Statistical Mechanics&rdquo;,
+<em>Philosophy of Science</em>, 76(5): 997&ndash;1008.
+doi:10.1086/605800</li>
+
+<li>&ndash;&ndash;&ndash;, 2010, &ldquo;Probability in Boltzmannian
+Statistical Mechanics&rdquo;, in <em>Time, Chance, and Reduction:
+Philosophical Aspects of Statistical Mechanics</em>, Gerhard Ernst and
+Andreas H&uuml;ttemann (eds.), Cambridge/New York: Cambridge
+University Press, 92&ndash;118. doi:10.1017/CBO9780511770777.006</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Why Typicality Does Not
+Explain the Approach to Equilibrium&rdquo;, in <em>Probabilities,
+Causes and Propensities in Physics</em>, Mauricio Su&aacute;rez (ed.),
+Dordrecht: Springer Netherlands, 77&ndash;93.
+doi:10.1007/978-1-4020-9904-5_4</li>
+
+<li>Frigg, Roman and Carl Hoefer, 2015, &ldquo;The Best Humean System
+for Statistical Mechanics&rdquo;, <em>Erkenntnis</em>, 80(S3):
+551&ndash;574. doi:10.1007/s10670-013-9541-5</li>
+
+<li>Frigg, Roman and Charlotte Werndl, 2011, &ldquo;Explaining
+Thermodynamic-Like Behavior in Terms of Epsilon-Ergodicity&rdquo;,
+<em>Philosophy of Science</em>, 78(4): 628&ndash;652.
+doi:10.1086/661567</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, &ldquo;Demystifying
+Typicality&rdquo;, <em>Philosophy of Science</em>, 79(5):
+917&ndash;929. doi:10.1086/668043</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;Statistical Mechanics: A Tale
+of Two Theories&rdquo;, <em>The Monist</em>, 102(4): 424&ndash;438.
+doi:10.1093/monist/onz018</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, &ldquo;Can Somebody Please Say What
+Gibbsian Statistical Mechanics Says?&rdquo;, <em>The British Journal
+for the Philosophy of Science</em>, 72(1): 105&ndash;129.
+doi:10.1093/bjps/axy057</li>
+
+<li>Frisch, Mathias, 2011, &ldquo;From Arbuthnot to Boltzmann: The
+Past Hypothesis, the Best System, and the Special Sciences&rdquo;,
+<em>Philosophy of Science</em>, 78(5): 1001&ndash;1011.
+doi:10.1086/662276</li>
+
+<li>Galavotti, Maria Carla, Dennis Dieks, Wenceslao J. Gonzalez,
+Stephan Hartmann, Thomas Uebel, and Marcel Weber (eds.), 2014, <em>New
+Directions in the Philosophy of Science</em>, Cham: Springer
+International Publishing. doi:10.1007/978-3-319-04382-1</li>
+
+<li>Gibbs, J. Willard, 1902 [1981], <em>Elementary Principles in
+Statistical Mechanics: Developed with Especial Reference to the
+Rational Foundation of Thermodynamics</em>, (Yale Bicentennial
+Publications), New York: C. Scribner&rsquo;s sons. Reprinted
+Woodbridge, CT: Ox Bow Press, 1981.</li>
+
+<li>Goldstein, Sheldon, 2001, &ldquo;Boltzmann&rsquo;s Approach to
+Statistical Mechanics&rdquo;, in Bricmont et al. 2001: 39&ndash;54.
+doi:10.1007/3-540-44966-3_3</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, &ldquo;Typicality and Notions of
+Probability in Physics&rdquo;, in <em>Probability in Physics</em>,
+Yemima Ben-Menahem and Meir Hemmo (eds.), (The Frontiers Collection),
+Berlin, Heidelberg: Springer Berlin Heidelberg, 59&ndash;71.
+doi:10.1007/978-3-642-21329-8_4</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;Individualist and Ensemblist
+Approaches to the Foundations of Statistical Mechanics&rdquo;, <em>The
+Monist</em>, 102(4): 439&ndash;457. doi:10.1093/monist/onz019</li>
+
+<li>Goldstein, Sheldon and Joel L. Lebowitz, 2004, &ldquo;On the
+(Boltzmann) Entropy of Non-Equilibrium Systems&rdquo;, <em>Physica D:
+Nonlinear Phenomena</em>, 193(1&ndash;4): 53&ndash;66.
+doi:10.1016/j.physd.2004.01.008</li>
+
+<li>Goldstein, Sheldon, Joel L. Lebowitz, Roderich Tumulka, and Nino
+Zangh&igrave;, 2006, &ldquo;Canonical Typicality&rdquo;, <em>Physical
+Review Letters</em>, 96(5): 050403.
+doi:10.1103/PhysRevLett.96.050403</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;Gibbs and Boltzmann Entropy in
+Classical and Quantum Mechanics&rdquo;, in Allori 2020: 519&ndash;581.
+doi:10.1142/9789811211720_0014</li>
+
+<li>Guttmann, Y. M., 1999, <em>The Concept of Probability in
+Statistical Physics</em>, (Cambridge Studies in Probability,
+Induction, and Decision Theory), Cambridge, UK/New York: Cambridge
+University Press. doi:10.1017/CBO9780511609053</li>
+
+<li>Hahn, Erwin L., 1950, &ldquo;Spin Echoes&rdquo;,&nbsp;<em>Physics
+Review</em>, 80:&nbsp;580&ndash;594.</li>
+
+<li>Hemmo, Meir and Orly Shenker, 2010, &ldquo;Maxwell&rsquo;s
+Demon&rdquo;, <em>The Journal of Philosophy</em>, 107(8):
+389&ndash;411. doi:10.5840/jphil2010107833</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, <em>The Road to Maxwell&rsquo;s
+Demon: Conceptual Foundations of Statistical Mechanics</em>,
+Cambridge/New York: Cambridge University Press.
+doi:10.1017/CBO9781139095167</li>
+
+<li>&ndash;&ndash;&ndash;, 2015, &ldquo;Probability and Typicality in
+Deterministic Physics&rdquo;, <em>Erkenntnis</em>, 80(S3):
+575&ndash;586. doi:10.1007/s10670-014-9683-0</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;The Physics of Implementing
+Logic: Landauer&rsquo;s Principle and the Multiple-Computations
+Theorem&rdquo;, <em>Studies in History and Philosophy of Science Part
+B: Studies in History and Philosophy of Modern Physics</em>, 68:
+90&ndash;105. doi:10.1016/j.shpsb.2019.07.001</li>
+
+<li>Hemmo, Meir and Orly Shenker, 2021, &ldquo;A Challenge to the
+Second Law of Thermodynamics from Cognitive Science and Vice
+Versa&rdquo;, <em>Synthese</em>, 199(1&ndash;2): 4897&ndash;4927.
+doi:10.1007/s11229-020-03008-0</li>
+
+<li>Hemmo, Meir and Orly Shenker, 2022, &ldquo;Is the Mentaculus the
+Best System of Our World?&rdquo;, in Ben-Menahem 2022: 89&ndash;128.
+doi:10.1007/978-3-030-96775-8_4</li>
+
+<li>Hill, Terrell L., 1956 [1987], <em>Statistical Mechanics:
+Principle and Selected Applications</em>, (McGraw-Hill Series in
+Advanced Chemistry), New York: McGraw-Hill. Reprinted New York: Dover
+Publications, 1987.</li>
+
+<li>Hitchcock, Christopher (ed.), 2004, <em>Contemporary Debates in
+Philosophy of Science</em>, (Contemporary Debates in Philosophy 2),
+Malden, MA: Blackwell.</li>
+
+<li>Hoefer, Carl, 2019, <em>Chance in the World: A Humean Guide to
+Objective Chance</em>, (Oxford Studies in Philosophy of Science), New
+York: Oxford University Press.
+doi:10.1093/oso/9780190907419.001.0001</li>
+
+<li>Howson, Colin and Peter Urbach, 2006, <em>Scientific Reasoning:
+The Bayesian Approach</em>, third edition, Chicago, IL: Open
+Court.</li>
+
+<li>Huang, Kerson, 1963, <em>Statistical Mechanics</em>, New York:
+Wiley.</li>
+
+<li>Huggett, Nick, 1999, &ldquo;Atomic Metaphysics&rdquo;, <em>The
+Journal of Philosophy</em>, 96(1): 5&ndash;24.
+doi:10.2307/2564646</li>
+
+<li>Jaynes, E. T., 1983, <em>E.T. Jaynes: Papers on Probability,
+Statistics and Statistical Physics</em>, R. D. Rosenkrantz (ed.),
+(Synthese Library, Studies in Epistemology, Logic, Methodology, and
+Philosophy of Science 158), Dordrecht: Springer Netherlands.
+doi:10.1007/978-94-009-6581-2</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;The Gibbs Paradox&rdquo;, in
+<em>Maximum Entropy and Bayesian Methods, Seattle, 1991</em>, C. Ray
+Smith, Gary J. Erickson, and Paul O. Neudorfer (eds.), (Fundamental
+Theories of Physics 50), Dordrecht: Springer Netherlands, 1&ndash;21.
+doi:10.1007/978-94-017-2219-3_1</li>
+
+<li>Jhun, Jennifer, Patricia Palacios, and James Owen Weatherall,
+2018, &ldquo;Market Crashes as Critical Phenomena? Explanation,
+Idealization, and Universality in Econophysics&rdquo;,
+<em>Synthese</em>, 195(10): 4477&ndash;4505.
+doi:10.1007/s11229-017-1415-y</li>
+
+<li>Katok, Anatole and Boris Hasselblatt, 1995, <em>Introduction to
+the Modern Theory of Dynamical Systems</em>, (Encyclopedia of
+Mathematics and Its Applications, 54), Cambridge/New York: Cambridge
+University Press. doi:10.1017/CBO9780511809187</li>
+
+<li>Khinchin, A. I., 1949, <em>Mathematical Foundations of Statistical
+Mechanics</em>, George Gamow (trans.), (The Dover Series in
+Mathematics and Physics), New York: Dover Publications.</li>
+
+<li>Klein, M. J., 1973, &ldquo;The Development of Boltzmann&rsquo;s
+Statistical Ideas&rdquo;, in <em>The Boltzmann Equation</em>, E. G. D.
+Cohen and W. Thirring (eds.), Vienna: Springer Vienna, 53&ndash;106.
+doi:10.1007/978-3-7091-8336-6_4</li>
+
+<li>Knott, C. G., 1911, <em>Life and Scientific Work of Peter Gutherie
+Tait</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Kutner, Ryszard, Marcel Ausloos, Dariusz Grech, Tiziana Di Matteo,
+Christophe Schinckus, and H. Eugene Stanley, 2019, &ldquo;Econophysics
+and Sociophysics: Their Milestones &amp; Challenges&rdquo;,
+<em>Physica A: Statistical Mechanics and Its Applications</em>, 516:
+240&ndash;253. doi:10.1016/j.physa.2018.10.019</li>
+
+<li>Ladyman, James and Katie Robertson, 2013, &ldquo;Landauer
+Defended: Reply to Norton&rdquo;, <em>Studies in History and
+Philosophy of Science Part B: Studies in History and Philosophy of
+Modern Physics</em>, 44(3): 263&ndash;271.
+doi:10.1016/j.shpsb.2013.02.005</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;Going Round in Circles:
+Landauer vs. Norton on the Thermodynamics of Computation&rdquo;,
+<em>Entropy</em>, 16(4): 2278&ndash;2290. doi:10.3390/e16042278</li>
+
+<li>Landauer, R., 1961 [1990], &ldquo;Irreversibility and Heat
+Generation in the Computing Process&rdquo;, <em>IBM Journal of
+Research and Development</em>, 5(3): 183&ndash;191. Reprinted in Leff
+and Rex 1990: 188&ndash;196. doi:10.1147/rd.53.0183</li>
+
+<li>Land&eacute;, Alfred, 1965, &ldquo;Solution of the Gibbs Entropy
+Paradox&rdquo;, <em>Philosophy of Science</em>, 32(2): 192&ndash;193.
+doi:10.1086/288041</li>
+
+<li>Lanford, Oscar E., 1973, &ldquo;Entropy and Equilibrium States in
+Classical Statistical Mechanics&rdquo;, in <em>Statistical Mechanics
+and Mathematical Problems</em>, A. Lenard (ed.), (Lecture Notes in
+Physics 20), Berlin/Heidelberg: Springer Berlin Heidelberg,
+1&ndash;113. doi:10.1007/BFb0112756</li>
+
+<li>&ndash;&ndash;&ndash;, 1975, &ldquo;Time Evolution of Large
+Classical Systems&rdquo;, in <em>Dynamical Systems, Theory and
+Applications</em>, J. Moser (ed.), (Lecture Notes in Physics 38),
+Berlin/Heidelberg: Springer Berlin Heidelberg, 1&ndash;111.
+doi:10.1007/3-540-07171-7_1</li>
+
+<li>&ndash;&ndash;&ndash;, 1976, &ldquo;On a Derivation of the
+Boltzmann Equation&rdquo;, <em>Ast&eacute;risque</em>, 40:
+117&ndash;137.</li>
+
+<li>&ndash;&ndash;&ndash;, 1981, &ldquo;The Hard Sphere Gas in the
+Boltzmann-Grad Limit&rdquo;, <em>Physica A: Statistical Mechanics and
+Its Applications</em>, 106(1&ndash;2): 70&ndash;76.
+doi:10.1016/0378-4371(81)90207-7</li>
+
+<li>Lavis, David, 1977, &ldquo;The Role of Statistical Mechanics in
+Classical Physics&rdquo;, <em>The British Journal for the Philosophy
+of Science</em>, 28(3): 255&ndash;279. doi:10.1093/bjps/28.3.255</li>
+
+<li>&ndash;&ndash;&ndash;, 2004, &ldquo;The Spin-Echo System
+Reconsidered&rdquo;, <em>Foundations of Physics</em>, 34(4):
+669&ndash;688. doi:10.1023/B:FOOP.0000019630.61758.b6</li>
+
+<li>&ndash;&ndash;&ndash;, 2005, &ldquo;Boltzmann and Gibbs: An
+Attempted Reconciliation&rdquo;, <em>Studies in History and Philosophy
+of Science Part B: Studies in History and Philosophy of Modern
+Physics</em>, 36(2): 245&ndash;273.
+doi:10.1016/j.shpsb.2004.11.007</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, &ldquo;Boltzmann, Gibbs, and the
+Concept of Equilibrium&rdquo;, <em>Philosophy of Science</em>, 75(5):
+682&ndash;696. doi:10.1086/594514</li>
+
+<li>Lavis, David A., Reimer K&uuml;hn, and Roman Frigg, 2021,
+&ldquo;Becoming Large, Becoming Infinite: The Anatomy of Thermal
+Physics and Phase Transitions in Finite Systems&rdquo;,
+<em>Foundations of Physics</em>, 51(5): 90.
+doi:10.1007/s10701-021-00482-5</li>
+
+<li>Lavis, David A. and P. J. Milligan, 1985, &ldquo;The Work of E. T.
+Jaynes on Probability, Statistics and Statistical Physics&rdquo;,
+<em>The British Journal for the Philosophy of Science</em>, 36(2):
+193&ndash;210. doi:10.1093/bjps/36.2.193</li>
+
+<li>Lazarovici, Dustin and Paula Reichert, 2015, &ldquo;Typicality,
+Irreversibility and the Status of Macroscopic Laws&rdquo;,
+<em>Erkenntnis</em>, 80(4): 689&ndash;716.
+doi:10.1007/s10670-014-9668-z</li>
+
+<li>Lebowitz, Joel L., 1983, &ldquo;Microscopic Dynamics and
+Macroscopic Laws&rdquo;, in <em>Long-Time Prediction in Dynamics</em>,
+C. W. Horton Jr, Linda. E. Reichl, and Victor G. Szebehely (eds), New
+York: Wiley, 220&ndash;233..</li>
+
+<li>&ndash;&ndash;&ndash;, 1993a, &ldquo;Boltzmann&rsquo;s Entropy and
+Time&rsquo;s Arrow&rdquo;, <em>Physics Today</em>, 46(9): 32&ndash;38.
+doi:10.1063/1.881363</li>
+
+<li>&ndash;&ndash;&ndash;, 1993b, &ldquo;Macroscopic Laws, Microscopic
+Dynamics, Time&rsquo;s Arrow and Boltzmann&rsquo;s Entropy&rdquo;,
+<em>Physica A: Statistical Mechanics and Its Applications</em>,
+194(1&ndash;4): 1&ndash;27. doi:10.1016/0378-4371(93)90336-3</li>
+
+<li>Leff, Harvey S. and Andrew F. Rex (eds.), 1990,
+<em>Maxwell&rsquo;s Demon: Entropy, Information, Computing</em>,
+(Princeton Series in Physics), Princeton, NJ: Princeton University
+Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994, &ldquo;Entropy of Measurement and
+Erasure: Szilard&rsquo;s Membrane Model Revisited&rdquo;, <em>American
+Journal of Physics</em>, 62(11): 994&ndash;1000.
+doi:10.1119/1.17749</li>
+
+<li>Lewis, David K., 1980, &ldquo;A Subjectivist&rsquo;s Guide to
+Objective Chance&rdquo;, in <em>Studies in Inductive Logic and
+Probability, Volume II</em>, Richard C. Jeffrey (ed.), Berkeley, CA:
+University of California Press, 263&ndash;294 (article 13). Reprinted
+in Lewis 1986, <em>Philosophical Papers, Vol. II</em>, pp.
+83&ndash;132, New York: Oxford University Press.</li>
+
+<li>Linden, Noah, Sandu Popescu, Anthony J. Short, and Andreas Winter,
+2009, &ldquo;Quantum Mechanical Evolution towards Thermal
+Equilibrium&rdquo;, <em>Physical Review E</em>, 79(6): 061103.
+doi:10.1103/PhysRevE.79.061103</li>
+
+<li>Liu, Chuang, 2001, &ldquo;Infinite Systems in SM Explanations:
+Thermodynamic Limit, Renormalization (Semi-) Groups, and
+Irreversibility&rdquo;, <em>Philosophy of Science</em>, 68(S3):
+S325&ndash;S344. doi:10.1086/392919</li>
+
+<li>Loewer, Barry, 2001, &ldquo;Determinism and Chance&rdquo;,
+<em>Studies in History and Philosophy of Science Part B: Studies in
+History and Philosophy of Modern Physics</em>, 32(4): 609&ndash;620.
+doi:10.1016/S1355-2198(01)00028-4</li>
+
+<li>Loschmidt, Josef, 1876, &ldquo;&Uuml;ber den Zustand des
+W&auml;rmegleichgewichtes eines Systems von K&ouml;rpern mit
+R&uuml;cksicht auf die Schwerkraft&rdquo;, <em>Wiener Berichte</em>,
+73: 128&ndash;142.</li>
+
+<li>Luczak, Joshua, 2016, &ldquo;On How to Approach the Approach to
+Equilibrium&rdquo;, <em>Philosophy of Science</em>, 83(3):
+393&ndash;411. doi:10.1086/685744</li>
+
+<li>Malament, David B., 2004, &ldquo;On the Time Reversal Invariance
+of Classical Electromagnetic Theory&rdquo;, <em>Studies in History and
+Philosophy of Science Part B: Studies in History and Philosophy of
+Modern Physics</em>, 35(2): 295&ndash;315.
+doi:10.1016/j.shpsb.2003.09.006</li>
+
+<li>Malament, David B. and Sandy L. Zabell, 1980, &ldquo;Why Gibbs
+Phase Averages Work&mdash;The Role of Ergodic Theory&rdquo;,
+<em>Philosophy of Science</em>, 47(3): 339&ndash;349.
+doi:10.1086/288941</li>
+
+<li>Maroney, Owen J.E., 2005, &ldquo;The (Absence of a) Relationship
+between Thermodynamic and Logical Reversibility&rdquo;, <em>Studies in
+History and Philosophy of Science Part B: Studies in History and
+Philosophy of Modern Physics</em>, 36(2): 355&ndash;374.
+doi:10.1016/j.shpsb.2004.11.006</li>
+
+<li>&ndash;&ndash;&ndash;, 2009, &ldquo;Generalising Landauer&rsquo;s
+Principle&rdquo;, <em>Physical Review E</em>, 79:
+031105 1&ndash;29.
+doi:10.1103/PhysRevE.79.031105</li>
+
+<li>Maudlin, Tim, 2020, &ldquo;The Grammar of Typicality&rdquo;, in
+Allori 2020: 231&ndash;251. doi:10.1142/9789811211720_0007</li>
+
+<li>McCoy, C. D., 2020, &ldquo;An Alternative Interpretation of
+Statistical Mechanics&rdquo;, <em>Erkenntnis</em>, 85(1): 1&ndash;21.
+doi:10.1007/s10670-018-0015-7</li>
+
+<li>Menon, Tarun and Craig Callender, 2013, &ldquo;Turn and Face The
+Strange &hellip; Ch-Ch-Changes&rdquo;, in <em>The Oxford Handbook of
+Philosophy of Physics</em>, Robert Batterman (ed.), Oxford: Oxford
+University Press, 189&ndash;193.
+doi:10.1093/oxfordhb/9780195392043.013.0006</li>
+
+<li>Myrvold, Wayne C., 2011, &ldquo;Statistical Mechanics and
+Thermodynamics: A Maxwellian View&rdquo;, <em>Studies in History and
+Philosophy of Science Part B: Studies in History and Philosophy of
+Modern Physics</em>, 42(4): 237&ndash;243.
+doi:10.1016/j.shpsb.2011.07.001</li>
+
+<li>&ndash;&ndash;&ndash;, 2016, &ldquo;Probabilities in Statistical
+Mechanics&rdquo;, in <em>The Oxford Handbook of Probability and
+Philosophy</em>, Alan H&aacute;jek and Christopher Hitchcock (eds.),
+Oxford: Oxford University Press, 573&ndash;600. Reprinted in Myrvold
+2021: 175&ndash;204. doi:10.1093/oxfordhb/9780199607617.013.26</li>
+
+<li>&ndash;&ndash;&ndash;, 2020a, &ldquo;Explaining Thermodynamics:
+What Remains to Be Done?&rdquo;, in Allori 2020: 113&ndash;143.
+doi:10.1142/9789811211720_0004</li>
+
+<li>&ndash;&ndash;&ndash;, 2020b, &ldquo;The Science of \(\Theta
+\Delta^{\text{cs}}\)&rdquo;, <em>Foundations of Physics</em>, 50(10):
+1219&ndash;1251. doi:10.1007/s10701-020-00371-3</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, <em>Beyond Chance and Credence: A
+Theory of Hybrid Probabilities</em>, Oxford/New York: Oxford
+University Press. doi:10.1093/oso/9780198865094.001.0001</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming, &ldquo;Shakin&rsquo; All Over:
+Proving Landauer&rsquo;s Principle without Neglect of
+Fluctuations&rdquo;, <em>The British Journal for the Philosophy of
+Science</em>, first online: 6 July 2021. doi:10.1086/716211</li>
+
+<li>Myrvold, Wayne C., David Z. Albert, Craig Callender, and Jenann
+Ismael, 2016, &ldquo;Book Symposium: David Albert, <em>After
+Physics</em>&rdquo;, 1 April 2016, 90<sup>th</sup> Annual Meeting of
+the Pacific Division of the American Philosophical Association.
+ [<a href="http://philsci-archive.pitt.edu/12871/" target="other">Myrvold et al. 2016 available online</a>]</li>
+ 
+<li>Norton, John D., 2005, &ldquo;Eaters of the Lotus:
+Landauer&rsquo;s Principle and the Return of Maxwell&rsquo;s
+Demon&rdquo;, <em>Studies in History and Philosophy of Science Part B:
+Studies in History and Philosophy of Modern Physics</em>, 36(2):
+375&ndash;411. doi:10.1016/j.shpsb.2004.12.002</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, &ldquo;Approximation and
+Idealization: Why the Difference Matters&rdquo;, <em>Philosophy of
+Science</em>, 79(2): 207&ndash;232. doi:10.1086/664746</li>
+
+<li>&ndash;&ndash;&ndash;, 2013, &ldquo;The End of the Thermodynamics
+of Computation: A No-Go Result&rdquo;, <em>Philosophy of Science</em>,
+80(5): 1182&ndash;1192. doi:10.1086/673714</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, &ldquo;Thermodynamically Reversible
+Processes in Statistical Physics&rdquo;, <em>American Journal of
+Physics</em>, 85(2): 135&ndash;145. doi:10.1119/1.4966907</li>
+
+<li>Palacios, Patricia, 2018, &ldquo;Had We But World Enough, and
+Time&hellip; But We Don&rsquo;t!: Justifying the Thermodynamic and
+Infinite-Time Limits in Statistical Mechanics&rdquo;, <em>Foundations
+of Physics</em>, 48(5): 526&ndash;541.
+doi:10.1007/s10701-018-0165-0</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;Phase Transitions: A Challenge
+for Intertheoretic Reduction?&rdquo;, <em>Philosophy of Science</em>,
+86(4): 612&ndash;640. doi:10.1086/704974</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming, &ldquo;Intertheoretic
+Reduction in Physics Beyond the Nagelian Model&rdquo;, in Soto
+forthcoming.</li>
+
+<li>Parker, Daniel, 2005, &ldquo;Thermodynamic Irreversibility: Does
+the Big Bang Explain What It Purports to Explain?&rdquo;,
+<em>Philosophy of Science</em>, 72(5): 751&ndash;763.
+doi:10.1086/508104</li>
+
+<li>Penrose, O., 1970, <em>Foundations of Statistical Mechanics: A
+Deductive Treatment</em>, (International Series of Monographs in
+Natural Philosophy 22), Oxford/New York: Pergamon Press.</li>
+
+<li>Penrose, Roger, 2004, <em>The Road to Reality: A Complete Guide to
+the Laws of the Universe</em>, London: Jonathan Cape. Reprinted
+Vintage Books, 2005.</li>
+
+<li>Price, Huw, 1996, <em>Time&rsquo;s Arrow and Archimede&rsquo;s
+Point: New Directions for the Physics of Time</em>, New York: Oxford
+University Press. doi:10.1093/acprof:oso/9780195117981.001.0001</li>
+
+<li>&ndash;&ndash;&ndash;, 2004, &ldquo;On the Origins of the Arrow of
+Time: Why There is Still a Puzzle About the Low-Entropy Past&rdquo;,
+in Hitchcock 2004: 219&ndash;239.</li>
+
+<li>Redhead, Michael, 1995, <em>From Physics to Metaphysics</em>,
+Cambridge/New York: Cambridge University Press.
+doi:10.1017/CBO9780511622847</li>
+
+<li>Reichert, Paula, forthcoming, &ldquo;Essentially Ergodic
+Behaviour&rdquo;, <em>The British Journal for the Philosophy of
+Science</em>, first online: 17 December 2020.
+doi:10.1093/bjps/axaa007</li>
+
+<li>Rickles, Dean, 2007, &ldquo;Econophysics for Philosophers&rdquo;,
+<em>Studies in History and Philosophy of Science Part B: Studies in
+History and Philosophy of Modern Physics</em>, 38(4): 948&ndash;978.
+doi:10.1016/j.shpsb.2007.01.003</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Econophysics and the
+Complexity of Financial Markets&rdquo;, in <em>Philosophy of Complex
+Systems</em>, Cliff Hooker (ed.), (Handbook of the Philosophy of
+Science 10), Amsterdam: Elsevier, 531&ndash;565.
+doi:10.1016/B978-0-444-52076-0.50019-5</li>
+
+<li>Ridderbos, Katinka, 2002, &ldquo;The Coarse-Graining Approach to
+Statistical Mechanics: How Blissful Is Our Ignorance?&rdquo;,
+<em>Studies in History and Philosophy of Science Part B: Studies in
+History and Philosophy of Modern Physics</em>, 33(1): 65&ndash;77.
+doi:10.1016/S1355-2198(01)00037-5</li>
+
+<li>Ridderbos,&nbsp;T. M. and Michael L. G. Redhead, 1998, &ldquo;The
+Spin-Echo Experiments and the Second Law of Thermodynamics&rdquo;,
+<em>Foundations of Physics</em>, 28: 1237&ndash;1270.</li>
+
+<li>Roberts, Bryan W., 2022, <em>Reversing the Arrow of Time</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>Robertson, Katie, 2020, &ldquo;Asymmetry, Abstraction, and
+Autonomy: Justifying Coarse-Graining in Statistical Mechanics&rdquo;,
+<em>The British Journal for the Philosophy of Science</em>, 71(2):
+547&ndash;579. doi:10.1093/bjps/axy020</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming, &ldquo;In Search of the Holy
+Grail: How to Reduce the Second Law of Thermodynamics&rdquo;, <em>The
+British Journal for the Philosophy of Science</em>, first online: 14
+April 2021. doi:10.1086/714795</li>
+
+<li>Rosen, Robert, 1964, &ldquo;The Gibbs&rsquo; Paradox and the
+Distinguishability of Physical Systems&rdquo;, <em>Philosophy of
+Science</em>, 31(3): 232&ndash;236. doi:10.1086/288005</li>
+
+<li>Ruelle, David, 1969, <em>Statistical Mechanics: Rigorous
+Results</em>, (The Mathematical Physics Monograph Series), New York:
+W. A. Benjamin.</li>
+
+<li>&ndash;&ndash;&ndash;, 2004, <em>Thermodynamic Formalism: The
+Mathematical Structures of Equilibrium Statistical Mechanics</em>,
+second edition, (Cambridge Mathematical Library), Cambridge: Cambridge
+University Press. doi:10.1017/CBO9780511617546</li>
+
+<li>Saunders, Simon, 2006, &ldquo;On the Explanation for Quantum
+Statistics&rdquo;, <em>Studies in History and Philosophy of Science
+Part B: Studies in History and Philosophy of Modern Physics</em>,
+37(1): 192&ndash;211. doi:10.1016/j.shpsb.2005.11.002</li>
+
+<li>Schinckus, Christophe, 2018, &ldquo;Ising Model, Econophysics and
+Analogies&rdquo;, <em>Physica A: Statistical Mechanics and Its
+Applications</em>, 508: 95&ndash;103.
+doi:10.1016/j.physa.2018.05.063</li>
+
+<li>Schr&ouml;dinger, Erwin, 1952 [1989], <em>Statistical
+Thermodynamics</em>, second edition, Cambridge: University Press.
+Reprinted New York: Dover Publications, 1989.</li>
+
+<li>Seidenfeld, Teddy, 1986, &ldquo;Entropy and Uncertainty&rdquo;,
+<em>Philosophy of Science</em>, 53(4): 467&ndash;491.
+doi:10.1086/289336</li>
+
+<li>Shech, Elay, 2018, &ldquo;Infinite Idealizations in
+Physics&rdquo;, <em>Philosophy Compass</em>, 13(9): e12514.
+doi:10.1111/phc3.12514</li>
+
+<li>Shenker, Orly, 2017a, &ldquo;Foundation of Statistical Mechanics:
+Mechanics by Itself&rdquo;, <em>Philosophy Compass</em>, 12(12):
+e12465. doi:10.1111/phc3.12465</li>
+
+<li>&ndash;&ndash;&ndash;, 2017b, &ldquo;Foundation of Statistical
+Mechanics: The Auxiliary Hypotheses&rdquo;, <em>Philosophy
+Compass</em>, 12(12): e12464. doi:10.1111/phc3.12464</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;Information vs. Entropy vs.
+Probability&rdquo;, <em>European Journal for Philosophy of
+Science</em>, 10(1): article 5. doi:10.1007/s13194-019-0274-4</li>
+
+<li>Shimony, Abner, 1985, &ldquo;The Status of the Principle of
+Maximum Entropy&rdquo;, <em>Synthese</em>, 63(1): 35&ndash;53.
+doi:10.1007/BF00485954</li>
+
+<li>Sklar, Lawrence, 1993, <em>Physics and Chance: Philosophical
+Issues in the Foundations of Statistical Mechanics</em>, Cambridge/New
+York: Cambridge University Press.</li>
+
+<li>Soto, Cristian (ed.), forthcoming, <em>Current Debates in
+Philosophy of Science: In Honor of Roberto Torretti</em>, Cham:
+Springer.</li>
+
+<li>Spohn, Herbert, 1980, &ldquo;Kinetic Equations from Hamiltonian
+Dynamics: Markovian Limits&rdquo;, <em>Reviews of Modern Physics</em>,
+52(3): 569&ndash;615. doi:10.1103/RevModPhys.52.569</li>
+
+<li>&ndash;&ndash;&ndash;, 1991, <em>Large Scale Dynamics of
+Interacting Particles</em>, (Texts and Monographs in Physics),
+Berlin/New York: Springer-Verlag. doi:10.1007/978-3-642-84371-6</li>
+
+<li>Szilard, Leo, 1929 [1990], &ldquo;&Uuml;ber die
+Entropieverminderung in einem thermodynamischen System bei Eingriffen
+intelligenter Wesen&rdquo;, <em>Zeitschrift f&uuml;r Physik</em>,
+53(11&ndash;12): 840&ndash;856. Translated as &ldquo;On the Decrease
+of Entropy in a Thermodynamic System by the Intervention of
+Intelligent Beings&rdquo;, Anatol Rapoport and mechthilde Knoller
+(trans.) in Leff and Rex 1990: 124&ndash;133. doi:10.1007/BF01341281
+(de)</li>
+
+<li>te Vrugt, Michael, Gyula I. T&oacute;th, and Raphael Wittkowski,
+2021, &ldquo;Master Equations for Wigner Functions with Spontaneous
+Collapse and Their Relation to Thermodynamic Irreversibility&rdquo;,
+<em>Journal of Computational Electronics</em>, 20(6): 2209&ndash;2231.
+doi:10.1007/s10825-021-01804-6</li>
+
+<li>Th&eacute;bault, Karim, Seamus Bradley, and Alexander Reutlinger,
+2018, &ldquo;Modelling Inequality&rdquo;, <em>The British Journal for
+the Philosophy of Science</em>, 69(3): 691&ndash;718.
+doi:10.1093/bjps/axw028</li>
+
+<li>Tolman, Richard C., 1938 [1979], <em>The Principles of Statistical
+Mechanics</em>, (The International Series of Monographs on Physics),
+Oxford: The Clarendon Press. Reprinted New York: Dover Publications,
+1979.</li>
+
+<li>Uffink, Jos, 1995, &ldquo;Can the Maximum Entropy Principle Be
+Explained as a Consistency Requirement?&rdquo;, <em>Studies in History
+and Philosophy of Science Part B: Studies in History and Philosophy of
+Modern Physics</em>, 26(3): 223&ndash;261.
+doi:10.1016/1355-2198(95)00015-1</li>
+
+<li>&ndash;&ndash;&ndash;, 1996a, &ldquo;The Constraint Rule of the
+Maximum Entropy Principle&rdquo;, <em>Studies in History and
+Philosophy of Science Part B: Studies in History and Philosophy of
+Modern Physics</em>, 27(1): 47&ndash;79.
+doi:10.1016/1355-2198(95)00022-4</li>
+
+<li>&ndash;&ndash;&ndash;, 1996b, &ldquo;Nought but Molecules in
+Motion [Review Essay of Lawrence Sklar: <em>Physics and
+Chance</em>]&rdquo;, <em>Studies in History and Philosophy of Science
+Part B: Studies in History and Philosophy of Modern Physics</em>,
+27(3): 373&ndash;387. doi:10.1016/S1355-2198(96)00007-X</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;Bluff Your Way in the Second
+Law of Thermodynamics&rdquo;, <em>Studies in History and Philosophy of
+Science Part B: Studies in History and Philosophy of Modern
+Physics</em>, 32(3): 305&ndash;394.
+doi:10.1016/S1355-2198(01)00016-8</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Compendium of the Foundations
+of Classical Statistical Physics&rdquo;, in <em>Philosophy of
+Physics</em>, Jeremy Butterfield and John Earman (eds.), (Handbook of
+the Philosophy of Science), Amsterdam/Boston: Elsevier,
+923&ndash;1074. doi:10.1016/B978-044451560-5/50012-9</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Subjective Probability and
+Statistical Physics&rdquo;, in <em>Probabilities in Physics</em>,
+Claus Beisbart and Stephan Hartmann (eds.), Oxford/New York: Oxford
+University Press, 25&ndash;50.
+doi:10.1093/acprof:oso/9780199577439.003.0002</li>
+
+<li>Uffink, Jos and Giovanni Valente, 2015, &ldquo;Lanford&rsquo;s
+Theorem and the Emergence of Irreversibility&rdquo;, <em>Foundations
+of Physics</em>, 45(4): 404&ndash;438.
+doi:10.1007/s10701-015-9871-z</li>
+
+<li>Valente, Giovanni, 2014, &ldquo;The Approach towards Equilibrium
+in Lanford&rsquo;s Theorem&rdquo;, <em>European Journal for Philosophy
+of Science</em>, 4(3): 309&ndash;335.
+doi:10.1007/s13194-014-0086-5</li>
+
+<li>van Kampen, N.G., 1984, &ldquo;The Gibbs Paradox&rdquo;, in
+<em>Essays in Theoretical Physics: In Honour of Dirk Ter Haar</em>, W.
+E. Parry (ed.), Oxford: Pergamon Press, 303&ndash;312.
+doi:10.1016/B978-0-08-026523-0.50020-5</li>
+
+<li>van Lith, Janneke, 2001, &ldquo;Ergodic Theory, Interpretations of
+Probability and the Foundations of Statistical Mechanics&rdquo;,
+<em>Studies in History and Philosophy of Science Part B: Studies in
+History and Philosophy of Modern Physics</em>, 32(4): 581&ndash;594.
+doi:10.1016/S1355-2198(01)00027-2</li>
+
+<li>&ndash;&ndash;&ndash;, 2003, &ldquo;Probability in Classical
+Statistical Mechanics [Review of Guttmann 1999]&rdquo;, <em>Studies in
+History and Philosophy of Science Part B: Studies in History and
+Philosophy of Modern Physics</em>, 34(1): 143&ndash;150.
+doi:10.1016/S1355-2198(02)00040-0</li>
+
+<li>Voit, Johannes, 2005, <em>The Statistical Mechanics of Financial
+Markets</em>, third edition, (Texts and Monographs in Physics),
+Berlin/New York: Springer. doi:10.1007/b137351</li>
+
+<li>Volchan, S&eacute;rgio B., 2007, &ldquo;Probability as
+Typicality&rdquo;, <em>Studies in History and Philosophy of Science
+Part B: Studies in History and Philosophy of Modern Physics</em>,
+38(4): 801&ndash;814. doi:10.1016/j.shpsb.2006.12.001</li>
+
+<li>von Neumann, John, 1932 [1955], <em>Mathematische Grundlagen der
+Quantenmechanik</em>, Berlin: J. Springer. Translated as
+<em>Mathematical Foundations of Quantum Mechanics</em>, Robert T.
+Beyer (trans.), (Investigations in Physics 2), Princeton, NJ:
+Princeton University Press, 1955.</li>
+
+<li>von Plato, Jan, 1981, &ldquo;Reductive Relations in
+Interpretations of Probability&rdquo;, <em>Synthese</em>, 48(1):
+61&ndash;75. doi:10.1007/BF01064628</li>
+
+<li>&ndash;&ndash;&ndash;, 1982, &ldquo;The Significance of the
+Ergodic Decomposition of Stationary Measures for the Interpretation of
+Probability&rdquo;, <em>Synthese</em>, 53(3): 419&ndash;432.
+doi:10.1007/BF00486158</li>
+
+<li>&ndash;&ndash;&ndash;, 1988, &ldquo;Ergodic Theory and the
+Foundations of Probability&rdquo;, in <em>Causation, Chance and
+Credence: Proceedings of the Irvine Conference on Probability and
+Causation, Volume 1</em>, Brian Skyrms and William L. Harper (eds.),
+Dordrecht: Springer Netherlands, 257&ndash;277.
+doi:10.1007/978-94-009-2863-3_13</li>
+
+<li>&ndash;&ndash;&ndash;, 1994, <em>Creating Modern Probability: Its
+Mathematics, Physics, and Philosophy in Historical Perspective</em>,
+(Cambridge Studies in Probability, Induction, and Decision Theory),
+Cambridge/New York: Cambridge University Press.
+doi:10.1017/CBO9780511609107</li>
+
+<li>Vranas, Peter B. M., 1998, &ldquo;Epsilon-Ergodicity and the
+Success of Equilibrium Statistical Mechanics&rdquo;, <em>Philosophy of
+Science</em>, 65(4): 688&ndash;708. doi:10.1086/392667</li>
+
+<li>Wallace, David, 2015, &ldquo;The Quantitative Content of
+Statistical Mechanics&rdquo;, <em>Studies in History and Philosophy of
+Science Part B: Studies in History and Philosophy of Modern
+Physics</em>, 52: 285&ndash;293. doi:10.1016/j.shpsb.2015.08.012</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;The Necessity of Gibbsian
+Statistical Mechanics&rdquo;, in Allori 2020: 583&ndash;616.
+doi:10.1142/9789811211720_0015</li>
+
+<li>Weaver, Christopher Gregory, 2021, &ldquo;In Praise of Clausius
+Entropy: Reassessing the Foundations of Boltzmannian Statistical
+Mechanics&rdquo;, <em>Foundations of Physics</em>, 51(3): article 59.
+doi:10.1007/s10701-021-00437-w</li>
+
+<li>&ndash;&ndash;&ndash;, 2022, &ldquo;Poincar&eacute;,
+Poincar&eacute; Recurrence and the <em>H</em>-Theorem: A Continued
+Reassessment of Boltzmannian Statistical Mechanics&rdquo;,
+<em>International Journal of Modern Physics B</em>, 36(23): 2230005.
+doi:10.1142/S0217979222300055</li>
+
+<li>Weinberg, Steven, 1992, <em>Dreams of a Final Theory: The
+Scientist&rsquo;s Search for the Ultimate Laws of Nature</em>, New
+York: Pantheon Books. Reprinted New York: Vintage Books, 1993.</li>
+
+<li>Werndl, Charlotte and Roman Frigg, 2015a, &ldquo;Reconceptualising
+Equilibrium in Boltzmannian Statistical Mechanics and Characterising
+Its Existence&rdquo;, <em>Studies in History and Philosophy of Science
+Part B: Studies in History and Philosophy of Modern Physics</em>, 49:
+19&ndash;31. doi:10.1016/j.shpsb.2014.12.002</li>
+
+<li>&ndash;&ndash;&ndash;, 2015b, &ldquo;Rethinking Boltzmannian
+Equilibrium&rdquo;, <em>Philosophy of Science</em>, 82(5):
+1224&ndash;1235. doi:10.1086/683649</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, &ldquo;Boltzmannian Equilibrium in
+Stochastic Systems&rdquo;, in <em>EPSA15 Selected Papers: The 5th
+Conference of the European Philosophy of Science Association in
+D&uuml;sseldorf</em>, Michela Massimi, Jan-Willem Romeijn, and Gerhard
+Schurz (eds.), (European Studies in Philosophy of Science 5), Cham:
+Springer International Publishing, 243&ndash;254.
+doi:10.1007/978-3-319-53730-6_20</li>
+
+<li>&ndash;&ndash;&ndash;, 2020a, &ldquo;Taming Abundance: On the
+Relation between Boltzmannian and Gibbsian Statistical
+Mechanics&rdquo;, in Allori 2020: 617&ndash;646.
+doi:10.1142/9789811211720_0016</li>
+
+<li>&ndash;&ndash;&ndash;, 2020b, &ldquo;When Do Gibbsian Phase
+Averages and Boltzmannian Equilibrium Values Agree?&rdquo;,
+<em>Studies in History and Philosophy of Science Part B: Studies in
+History and Philosophy of Modern Physics</em>, 72: 46&ndash;69.
+doi:10.1016/j.shpsb.2020.05.003</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming-a, &ldquo;Boltzmannian
+Non-Equilibrium and Local Variables&rdquo;, in Soto forthcoming..</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming-b, &ldquo;When does a
+Boltzmannian equilibrium exist?&rdquo;, in Soto forthcoming.</li>
+
+<li>Wilhelm, Isaac, 2022, &ldquo;Typical: A Theory of Typicality and
+Typicality Explanation&rdquo;, <em>The British Journal for the
+Philosophy of Science</em>, 73(2): 561&ndash;581.
+doi:10.1093/bjps/axz016</li>
+
+<li>Williamson, Jon, 2010, <em>In Defence of Objective
+Bayesianism</em>, Oxford/New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780199228003.001.0001</li>
+
+<li>Wills, James, forthcoming, &ldquo;Classical Particle
+Indistinguishability, Precisely&rdquo;, <em>The British Journal for
+the Philosophy of Science</em>, first online: 15 April 2021.
+doi:10.1086/714817</li>
+
+<li>Winsberg, Eric, 2004a, &ldquo;Can Conditioning on the &lsquo;Past
+Hypothesis&rsquo; Militate Against the Reversibility
+Objections?&rdquo;, <em>Philosophy of Science</em>, 71(4):
+489&ndash;504. doi:10.1086/423749</li>
+
+<li>&ndash;&ndash;&ndash;, 2004b, &ldquo;Laws and Statistical
+Mechanics&rdquo;, <em>Philosophy of Science</em>, 71(5):
+707&ndash;718. doi:10.1086/425234</li>
+
+<li>Yi, Sang Wook, 2003, &ldquo;Reduction of Thermodynamics: A Few
+Problems&rdquo;, <em>Philosophy of Science</em>, 70(5):
+1028&ndash;1038. doi:10.1086/377386</li>
+
+<li>Zermelo, E., 1896, &ldquo;Ueber einen Satz der Dynamik und die
+mechanische W&auml;rmetheorie&rdquo;, <em>Annalen der Physik und
+Chemie</em>, 293(3): 485&ndash;494. doi:10.1002/andp.18962930314</li>
+</ul>
+</div> 
+
+<div id="academic-tools">
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=statphys-statmech" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/statphys-statmech/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=statphys-statmech&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/statphys-statmech/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<ul>
+<li>Sklar, Lawrence, &ldquo;Philosophy of Statistical Mechanics&rdquo;, 
+ <em>Stanford Encyclopedia of Philosophy</em> (Winter 2022 Edition),
+Edward N. Zalta &amp; Uri Nodelman (eds.), URL = 
+ &lt;<a href="https://plato.stanford.edu/archives/win2022/entries/statphys-statmech/">https://plato.stanford.edu/archives/win2022/entries/statphys-statmech/</a>&gt;.
+ [This was the previous entry on this topic in the <em>Stanford
+Encyclopedia of Philosophy</em> &ndash; see the 
+<a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=statphys-statmech" class="plain" target="other">version history</a>.]</li>
+</ul>
+
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../ergodic-hierarchy/">ergodic hierarchy</a> |
+ <a href="../information/">information</a> |
+ <a href="../information-entropy/">information processing: and thermodynamic entropy</a> |
+ <a href="../laws-of-nature/">laws of nature</a> |
+ <a href="../physics-interrelate/">physics: intertheory relations in</a> |
+ <a href="../probability-interpret/">probability, interpretations of</a> |
+ <a href="../qm/">quantum mechanics</a> |
+ <a href="../qm-collapse/">quantum mechanics: collapse theories</a> |
+ <a href="../scientific-reduction/">reduction, scientific</a> |
+ <a href="../statphys-boltzmann/">statphys-boltzmann</a> |
+ <a href="../supervenience/">supervenience</a> |
+ <a href="../time-thermo/">time: thermodynamic asymmetry in</a>
+
+ </p>
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML">
+
+</script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://www.lse.ac.uk/people/roman-frigg" target="other">Roman Frigg</a>
+&lt;<a href="m&#97;ilto:r&#37;2ep&#37;2efrigg&#37;40lse&#37;2eac&#37;2euk"><em>r<abbr title=" dot ">&#46;</abbr>p<abbr title=" dot ">&#46;</abbr>frigg<abbr title=" at ">&#64;</abbr>lse<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+Charlotte Werndl
+&lt;<a href="m&#97;ilto:charlotte&#37;2ewerndl&#37;40gmail&#37;2ecom"><em>charlotte<abbr title=" dot ">&#46;</abbr>werndl<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

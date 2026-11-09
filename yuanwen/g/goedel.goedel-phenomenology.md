@@ -1,0 +1,25 @@
+# goedel — goedel-phenomenology（supplement）
+
+> （《goedel》词条补充材料，源：plato.stanford.edu/entries/goedel/goedel-phenomenology.html）
+
+#### Supplement to Kurt Gödel
+
+## Gödel’s Turn to Phenomenology
+
+Reconciling realism and rationalism presents a conundrum. The high standard imposed on philosophical arguments by rationalism demands something like a proof of the realist position. But it is far from clear how to go about proving the existence of an acausal, atemporal domain of mathematical objects, especially with the notion of mathematical proof in mind. As we saw, Gödel observed in the Gibbs lecture that a proof would amount to giving an exhaustive enumeration of the alternatives to realism, and then refuting them one by one. But this dialectical approach to the problem of proving the realist view, “the only one tenable”, did not lead to its solution. Regarding his other major philosophical work from the 1950s, after six years of work on it, Gödel notified the editors in 1959, that he would not be submitting his main philosophical work from the period 1953 to 1959, the fundamental paper “Is Mathematics a Syntax of Language?” (Gödel *1953/59-III, Gödel 1953/9-V).
+
+The situation seems to have been at least temporarily resolved by Gödel’s turn to phenomenology in 1959, which, while adding some dimension to Gödel’s project to construe philosophy as a strict science, at the same time led to his incorporating into his philosophical world view a stronger emphasis on the notion of subjectivity.
+
+With Husserl, Gödel saw the problem of mathematical evidence, i.e., the question: what sort of data should count as evidence for the truth of a mathematical assertion, as fundamental. In the Dialectica paper Gödel refers to the fact that “a precise definition of either concrete or abstract evidence” is lacking (Gödel 1990, p. 273). And in Gödel’s list “My Notes, 1940–1970” he refers to the “main question” in philosophy as one which is bound up with the problem of evidence, by which problem he means, presumably, that of giving a precise characterization of it. Thus the direction taken at this point was an appropriate one in that phenomenology also places the notion of evidence, or more specifically the problem of giving a proper analysis of evidence, in a central position.
+
+Very roughly put, phenomenology holds that the world is constituted, in a special sense, but *correctly*, in consciousness. (For an introduction to phenomenology see for example the entry on phenomenology in this encyclopedia.) In particular, in the later Husserlian phenomenology that interested Gödel, consciousness constitutes both subjectivity and objectivity (and thereby makes the latter accessible to the former). (See van Atten and Kennedy 2003.)
+
+Gödel described it as the only philosophy that “really did justice to the core of Kant’s thought”;[^note-supp3-note1] as one which avoids “both the death-defying leaps of idealism into a new metaphysics as well as the positivistic rejection of all metaphysics” (Gödel 1995, p. 387). A “beginning,” but as he remarked to Wang, “Husserl’s thoroughly systematic beginning is better than Kant’s sloppy architectonic” (Wang 1996, 9.2.6).
+
+Gödel’s conversion to phenomenology seems to have been a genuine intellectual one at the time. As he wrote in the draft of a(n undelivered) lecture entitled “The Modern Development of the Foundations of Mathematics in Light of Philosophy” (*1961/?):
+
+> …there exists today the beginning of a science which claims to possess a systematic method for such a clarification in meaning, and that is the phenomenology founded by Husserl. Here clarification of meaning consists in focussing more sharply on the concepts concerned by directing our attention in a certain way, namely, onto our own acts in the use of these concepts, onto our powers in carrying out our acts, etc. But one must keep in mind that this phenomenology is not a science in the same sense as other sciences. Rather it is (or in any case should be) a procedure or technique that should produce in us a new state of consciousness in which we describe in detail the basic concepts we use in our thought, or grasp other basic concepts hitherto unknown to us. I believe there is no reason at all to reject such a procedure at the outset as hopeless…not only is there no reason for the rejection (of phenomenology), but on the contrary one can present reasons in its favor (Gödel 1995, p. 383).
+
+That the lecture was undelivered does not say very much about Gödel’s commitment to it, as the writing of undelivered or unsubmitted manuscripts was typical of Gödel’s philosophical activity from about the 1950s. On the other hand, “The Modern Development of the Foundations of Mathematics in Light of Philosophy” was not included in either of the two lists found in the Nachlass entitled “Was Ich publizieren könnte”.
+
+For further discussion of Gödel and phenomenology see Gödel’s conversations with Wang and Toledo 2011. See also Tieszen 1992, Tieszen 2006, Føllesdahl 1995 and the introduction and first chapter of Tragesser 1977.

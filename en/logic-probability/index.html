@@ -1,0 +1,2638 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Logic and Probability (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Logic and Probability" />
+<meta name="citation_author" content="Demey, Lorenz" />
+<meta name="citation_author" content="Kooi, Barteld" />
+<meta name="citation_author" content="Sack, Joshua" />
+<meta name="citation_publication_date" content="2013/03/07" />
+<meta name="DC.title" content="Logic and Probability" />
+<meta name="DC.creator" content="Demey, Lorenz" />
+<meta name="DC.creator" content="Kooi, Barteld" />
+<meta name="DC.creator" content="Sack, Joshua" />
+<meta name="DCTERMS.issued" content="2013-03-07" />
+<meta name="DCTERMS.modified" content="2023-08-17" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/logic-probability/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-probability">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Logic and Probability</h1><div id="pubinfo"><em>First published Thu Mar 7, 2013; substantive revision Thu Aug 17, 2023</em></div>
+
+<div id="preamble">
+
+<p>
+Logic and probability theory are two of the main tools in the formal
+study of reasoning, and have been fruitfully applied in areas as
+diverse as philosophy, artificial intelligence, cognitive science and
+mathematics. This entry discusses the major proposals to combine logic
+and probability theory, and attempts to provide a classification of
+the various approaches in this rapidly developing field.</p>
+</div>
+
+<div id="toc">
+<!--Entry Contents-->
+<ul>
+<li><a href="#CombLogiProbTheo">1. Combining Logic and Probability Theory</a></li>
+<li><a href="#PropProbLogi">2. Propositional Probability Logics</a>
+   <ul>
+   <li><a href="#ProbSema">2.1 Probabilistic Semantics</a></li>
+   <li><a href="#AdamProbLogi">2.2 Adams&rsquo; Probability Logic</a></li>
+   <li><a href="#FurtGene">2.3 Further Generalizations</a></li>
+   </ul></li>
+<li><a href="#BasiProbOper">3. Basic Probability Operators</a>
+   <ul>
+   <li><a href="#QualReprUnce">3.1 Qualitative Representations of Uncertainty</a></li>
+   <li><a href="#SumsProdProbTerm">3.2 Sums and Products of Probability Terms</a></li>
+   </ul></li>
+<li><a href="#ModaProbLogi">4. Modal Probability Logics</a>
+   <ul>
+   <li><a href="#BasiFiniModaProbMode">4.1 Basic Finite Modal Probability Models</a></li>
+   <li><a href="#IndeInte">4.2 Indexing and Interpretations</a></li>
+   <li><a href="#ProbSpac">4.3 Probability Spaces</a></li>
+   <li><a href="#CombQuanQualUnce">4.4 Combining Quantitative and Qualitative Uncertainty</a></li>
+   <li><a href="#ConsQuanQualInte">4.5 Constraints on Quantitative and Qualitative Interaction</a></li>
+   <li><a href="#Dyna">4.6 Dynamics</a></li>
+   </ul></li>
+<li><a href="#FirsOrdeProbLogi">5. First-order Probability Logic</a>
+   <ul>
+   <li><a href="#ExamFirsOrdeProbLogi">5.1 An Example of a First-order Probability Logic</a>
+      <ul>
+      <li><a href="#QuanOverThanOneVari">5.1.1 Quantifying over More than One Variable</a></li>
+      <li><a href="#CondProb">5.1.2 Conditional Probability</a></li>
+      <li><a href="#ProbTerm">5.1.3 Probabilities as Terms</a></li>
+      </ul></li>
+   <li><a href="#PossWorlFirsOrdeProbLogi">5.2 Possible World First-order Probability Logic</a></li>
+   <li><a href="#Meta">5.3 Metalogic</a></li>
+   </ul></li>
+<li><a href="#Bib">Bibliography</a></li>
+<li><a href="#Aca">Academic Tools</a></li>
+<li><a href="#Oth">Other Internet Resources</a></li>
+<li><a href="#Rel">Related Entries</a></li>
+</ul>
+<!--Entry Contents-->
+<hr />
+</div>
+
+<div id="main-text">
+
+<h2 id="CombLogiProbTheo">1. Combining Logic and Probability Theory</h2>
+
+<p>
+The very idea of combining logic and probability might look strange at
+first sight (H&aacute;jek 2001). After all, logic is concerned with
+absolutely certain truths and inferences, whereas probability theory
+deals with uncertainties. Furthermore, logic offers a
+<em>qualitative</em> (structural) perspective on inference (the
+deductive validity of an argument is based on the argument&rsquo;s
+formal structure), whereas probabilities are <em>quantitative</em>
+(numerical) in nature. However, as will be shown in the next section,
+there are natural senses in which probability theory
+<em>presupposes</em> and <em>extends</em> classical logic.
+Furthermore, historically speaking, several distinguished theorists
+such as De Morgan (1847), Boole (1854), Ramsey (1926), de Finetti
+(1937), Carnap (1950), Jeffrey (1992) and Howson (2003, 2007, 2009)
+have emphasized the tight connections between logic and probability,
+or even considered their work on probability as a part of logic
+itself.</p>
+
+<p>
+By integrating the complementary perspectives of qualitative logic and
+numerical probability theory, probability logics are able to offer
+highly expressive accounts of inference. It should therefore come as
+no surprise that they have been applied in all fields that study
+reasoning mechanisms, such as philosophy, artificial intelligence,
+cognitive science and mathematics. The downside to this
+cross-disciplinary popularity is that terms such as &lsquo;probability
+logic&rsquo; are used by different researchers in different,
+non-equivalent ways. Therefore, before moving on to the actual
+discussion of the various approaches, we will first delineate the
+subject matter of this entry.</p>
+
+<p>
+The most important distinction is that between <em>probability
+logic</em> and <em>inductive logic</em>. Classically, an argument is
+said to be <em>(deductively) valid</em> if and only if it is
+impossible that the premises of \(A\) are all true, while its
+conclusion is false. In other words, deductive validity amounts to
+<em>truth preservation</em>: in a valid argument, the truth of the
+premises guarantees the truth of the conclusion. In some arguments,
+however, the truth of the premises does not fully guarantee the truth
+of the conclusion, but it still renders it highly likely. A typical
+example is the argument with premises &lsquo;The first swan I saw was
+white&rsquo;, &hellip;, &lsquo;The 1000th swan I saw was white&rsquo;,
+and conclusion &lsquo;All swans are white&rsquo;. Such arguments are
+studied in <em>inductive logic</em>, which makes extensive use of
+probabilistic notions, and is therefore considered by some authors to
+be related to probability logic. There is some discussion about the
+exact relation between inductive logic and probability logic, which is
+summarized in the introduction of Kyburg (1994). The dominant position
+(defended by Adams and Levine (1975), among others), which is also
+adopted here, is that probability logic entirely belongs to deductive
+logic, and hence should not be concerned with inductive reasoning.
+Still, most work on inductive logic falls within the
+&lsquo;probability preservation&rsquo; approach, and is thus closely
+connected to the systems discussed in
+ <a href="#PropProbLogi">Section 2</a>.
+ For more on inductive logic, the reader can consult Jaynes (2003),
+Fitelson (2006), Romeijn (2011), and the entries on
+ <a href="../induction-problem/">the problem of induction</a>
+ and
+ <a href="../logic-inductive/">inductive logic</a>
+ of this encyclopedia.</p>
+
+<p>
+We will also steer clear of the philosophical debate over the exact
+nature of probability. The formal systems discussed here are
+compatible with all of the common interpretations of probability, but
+obviously, in concrete applications, certain interpretations of
+probability will fit more naturally than others. For example, the
+modal probability logics discussed in 
+ <a href="#ModaProbLogi">Section 4</a>
+ are, by themselves, neutral about the nature of probability, but when
+they are used to describe the behavior of a transition system, their
+probabilities are typically interpreted in an objective way, whereas
+modeling multi-agent scenarios is accompanied most naturally by a
+subjective interpretation of probabilities (as agents&rsquo; degrees
+of belief). This topic is covered in detail in Gillies (2000), Eagle
+(2010), and the entry on
+ <a href="../probability-interpret/">interpretations of probability</a>
+ of this encyclopedia.</p>
+
+<p>
+A recent trend in the literature has been to focus less on integrating
+or combining logic and probability theory into a single, unified
+framework, but rather to establish bridges between the two
+disciplines. This typically involves trying to capture the qualitative
+notions of logic in the quantitative terms of probability theory, or
+the other way around. We will not be able to do justice to the wide
+variety of approaches in this booming area, but interested readers can
+consult Leitgeb (2013, 2014), Lin and Kelly (2012a, 2012b), Douven and
+Rott (2018), and Harrison-Trainor, Holliday and Icard (2016, 2018). A
+&lsquo;contemporary classic&rsquo; in this area is Leitgeb (2017),
+while van Benthem (2017) offers a useful survey and some interesting
+programmatic remarks.</p>
+
+<p>
+Finally, although the success of probability logic is largely due to
+its various applications, we will not deal with these applications in
+any detail. For example, we will not assess the use of probability as
+a formal representation of belief in philosophy (Bayesian
+epistemology) or artificial intelligence (knowledge representation),
+and its advantages and disadvantages with respect to alternative
+representations, such as generalized probability theory (for quantum
+theory), \(p\)-adic probability, and fuzzy logic. For more information
+about these topics, the reader can consult Gerla (1994), Vennekens et
+al. (2009), H&aacute;jek and Hartmann (2010), Hartmann and Sprenger
+(2010), Ili&#263;-Stepi&#263; et al.&nbsp;(2012), and the entries on
+ <a href="../formal-belief/">formal representations of belief</a>,
+ <a href="../epistemology-bayesian/">Bayesian epistemology</a>,
+ <a href="../reasoning-defeasible/">defeasible reasoning</a>,
+ <a href="../qt-quantlog/">quantum logic and probability theory</a>, and
+ <a href="../logic-fuzzy/">fuzzy logic</a>
+ of this encyclopedia.</p>
+
+<p>
+With these clarifications in place, we are now ready to look at what
+<em>will</em> be discussed in this entry. The most common strategy to
+obtain a concrete system of probability logic is to start with a
+classical (propositional/modal/etc.) system of logic and to
+&lsquo;probabilify&rsquo; it in one way or another, by adding
+probabilistic features to it. There are various ways in which this
+probabilification can be implemented. One can study probabilistic
+semantics for classical languages (which do not have any explicit
+probabilistic operators), in which case the consequence relation
+itself gets a probabilistic flavor: deductive validity becomes
+&lsquo;probability preservation&rsquo;, rather than &lsquo;truth
+preservation&rsquo;. This direction will be discussed in 
+ <a href="#PropProbLogi">Section 2</a>. 
+ Alternatively, one can add various kinds of probabilistic
+operators to the syntax of the logic. In 
+ <a href="#BasiProbOper">Section 3</a>
+ we will discuss some initial, rather basic examples of probabilistic
+operators. The full expressivity of modal probabilistic operators will
+be explored in 
+ <a href="#ModaProbLogi">Section 4</a>. 
+Finally, languages with first-order probabilistic operators will be
+discussed in 
+ <a href="#FirsOrdeProbLogi">Section 5</a>.</p>
+
+<h2 id="PropProbLogi">2. Propositional Probability Logics</h2>
+
+<p>
+In this section, we will present a first family of probability logics,
+which are used to study questions of &lsquo;probability
+preservation&rsquo; (or dually, &lsquo;uncertainty
+propagation&rsquo;). These systems do not extend the language with any
+probabilistic operators, but rather deal with a
+&lsquo;classical&rsquo; propositional language \(\mathcal{L}\), which
+has a countable set of atomic propositions, and the usual
+truth-functional (Boolean) connectives.</p>
+
+<p>
+The main idea is that the premises of a valid argument can be
+uncertain, in which case (deductive) validity imposes no conditions on
+the (un)certainty of the conclusion. For example, the argument with
+premises &lsquo;if it will rain tomorrow, I will get wet&rsquo; and
+&lsquo;it will rain tomorrow&rsquo;, and conclusion &lsquo;I will get
+wet&rsquo; is valid, but if its second premise is uncertain, its
+conclusion will typically also be uncertain. Propositional probability
+logics represent such uncertainties as probabilities, and study how
+they &lsquo;flow&rsquo; from the premises to the conclusion; in other
+words, they do not study <em>truth preservation</em>, but rather
+<em>probability preservation</em>. The following three subsections
+discuss systems that deal with increasingly more general versions of
+this issue.</p>
+
+<h3 id="ProbSema">2.1 Probabilistic Semantics</h3>
+
+<p>
+We begin by recalling the notion of a probability function for the
+propositional language \(\mathcal{L}\). (In mathematics, probability
+functions are usually defined for a \(\sigma\)-algebra of subsets of a
+given set \(\Omega\), and required to satisfy countable additivity;
+cf. 
+ <a href="#ProbSpac">Section 4.3</a>. 
+ In logical
+contexts, however, it is often more natural to define probability
+functions &lsquo;immediately&rsquo; for the logic&rsquo;s object
+language (Williamson 2002). Because this language is
+finitary&mdash;all its formulas have finite length&mdash;, it also
+suffices to require finite additivity.) A <em>probability function
+(for \(\mathcal{L}\))</em> is a function \(P: \mathcal{L}\to
+\mathbb{R}\) satisfying the following constraints:</p>
+
+<div class="indent">
+
+<p>
+<strong>Non-negativity.</strong> \(P(\phi)\geq 0\) for all
+\(\phi\in\mathcal{L}.\) </p>
+
+<p>
+<strong>Tautologies.</strong> If \(\models\phi\), then
+\(P(\phi)=1.\)</p>
+
+<p>
+<strong>Finite additivity.</strong> If
+\(\models\neg(\phi\wedge\psi)\), then \(P(\phi\vee\psi) =
+P(\phi)+P(\psi).\) </p>
+</div>
+
+<p>
+In the second and third constraint, the \(\models\)-symbol denotes
+(semantic) validity in classical propositional logic. The definition
+of probability functions thus requires notions from classical logic,
+and in this sense probability theory can be said to
+<em>presuppose</em> classical logic (Adams 1998, 22). It can easily be
+shown that if \(P\) satisfies these constraints, then \(P(\phi)\in
+[0,1]\) for all formulas \(\phi\in\mathcal{L}\), and \(P(\phi) =
+P(\psi)\) for all formulas \(\phi,\psi\in\mathcal{L}\) that are
+logically equivalent (i.e. such that
+\(\models\phi\leftrightarrow\psi\)).</p>
+
+<p>
+We now turn to probabilistic semantics, as defined in Leblanc (1983).
+An argument with premises \(\Gamma\) and conclusion
+\(\phi\)&mdash;henceforth denoted as \((\Gamma,\phi)\)&mdash;is said
+to be <em>probabilistically valid</em>, written
+\(\Gamma\models_p\phi\), if and only if:</p>
+
+<p class="center">
+for all probability functions \(P:\mathcal{L}\to\mathbb{R}\):
+<br />
+if \(P(\gamma) = 1\) for all \(\gamma\in\Gamma\), then also \(P(\phi)
+= 1\).</p>
+
+<p>
+Probabilistic semantics thus replaces the valuations
+\(v:\mathcal{L}\to\{0,1\}\) of classical propositional logic with
+probability functions \(P:\mathcal{L}\to \mathbb{R}\), which take
+values in the real unit interval \([0,1]\). The classical truth values
+of <em>true</em> (1) and <em>false</em> (0) can thus be regarded as
+the endpoints of the unit interval \([0,1]\), and likewise, valuations
+\(v:\mathcal{L}\to\{0,1\}\) can be regarded as degenerate probability
+functions \(P:\mathcal{L}\to[0,1]\). In this sense, classical logic is
+a special case of probability logic, or equivalently, probability
+logic is an <em>extension</em> of classical logic.</p>
+
+<p>
+It can be shown that classical propositional logic is (strongly) sound
+and complete with respect to probabilistic semantics:</p> 
+
+\[\Gamma \models_p \phi \text{ if and only if } \Gamma \vdash\phi.\]
+
+<p>
+Some authors interpret probabilities as generalized truth values
+(Reichenbach 1949, Leblanc 1983). According to this view, probability
+logic is just a particular kind of many-valued logic, and
+probabilistic validity boils down to &lsquo;truth preservation&rsquo;:
+truth (i.e.&nbsp;probability 1) carries over from the premises to the
+conclusion. Other logicians, such as Tarski (1936) and Adams (1998,
+15), have noted that probabilities cannot be seen as generalized truth
+values, because probability functions are not
+&lsquo;extensional&rsquo;; for example, \(P(\phi\wedge\psi)\) cannot
+be expressed as a function of \(P(\phi)\) and \(P(\psi)\). More
+discussion on this topic can be found in Hailperin (1984).</p>
+
+<p>
+Another possibility is to interpret a sentence&rsquo;s probability as
+a measure of its (un)certainty. For example, the sentence &lsquo;Jones
+is in Spain at the moment&rsquo; can have any degree of certainty,
+ranging from 0 (maximal uncertainty) to 1 (maximal certainty). (Note
+that 0 is actually a kind of certainty, viz.&nbsp;certainty about
+falsity; however, in this entry we follow Adams&rsquo; terminology
+(1998, 31) and interpret 0 as maximal uncertainty.) According to this
+interpretation, the following theorem follows from the strong
+soundness and completeness of probabilistic semantics:</p>
+
+<p class="indent">
+<strong>Theorem 1.</strong> Consider a deductively valid argument
+\((\Gamma,\phi)\). If all premises in \(\Gamma\) have probability 1,
+then the conclusion \(\phi\) also has probability 1.</p>
+
+<p>
+This theorem can be seen as a first, very partial clarification of the
+issue of probability preservation (or uncertainty propagation). It
+says that if there is no uncertainty whatsoever about the premises,
+then there cannot be any uncertainty about the conclusion either. In
+the next two subsections we will consider more interesting cases, when
+there is non-zero uncertainty about the premises, and ask how it
+carries over to the conclusion.</p>
+
+<p>
+Finally, it should be noted that although this subsection only
+discussed probabilistic semantics for classical propositional logic,
+there are also probabilistic semantics for a variety of other logics,
+such as intuitionistic propositional logic (van Fraassen 1981b, Morgan
+and Leblanc 1983), modal logics (Morgan 1982a, 1982b, 1983, Cross
+1993), classical first-order logic (Leblanc 1979, 1984, van Fraassen
+1981b), relevant logic (van Fraassen 1983) and nonmonotonic logic
+(Pearl 1991). All of these systems share a key feature: the
+logic&rsquo;s semantics is probabilistic in nature, but probabilities
+are <em>not</em> explicitly represented in the object language; hence,
+they are much closer in nature to the propositional probability logics
+discussed here than to the systems presented in later sections.</p>
+
+<p>
+Most of these systems are not based on unary probabilities
+\(P(\phi)\), but rather on conditional probabilities \(P(\phi,\psi)\).
+The conditional probability \(P(\phi,\psi)\) is taken as primitive
+(rather than being defined as \(P(\phi\wedge\psi)/P(\psi)\), as is
+usually done) to avoid problems when \(P(\psi)=0\). Goosens (1979)
+provides an overview of various axiomatizations of probability theory
+in terms of such primitive notions of conditional probability.</p>
+
+<h3 id="AdamProbLogi">2.2 Adams&rsquo; Probability Logic</h3>
+
+<p>
+In the previous subsection we discussed a first principle of
+probability preservation, which says that if all premises have
+probability 1, then the conclusion also has probability 1. Of course,
+more interesting cases arise when the premises are less than
+absolutely certain. Consider the valid argument with premises \(p\vee
+q\) and \(p\to q\), and conclusion \(q\) (the symbol
+&lsquo;\(\to\)&rsquo; denotes the truth-conditional material
+conditional). One can easily show that </p> 
+
+\[P(q) = P(p\vee q) + P(p\to q) - 1.\]
+
+<p>
+In other words, if we know the probabilities of the argument&rsquo;s
+premises, then we can calculate the exact probability of its
+conclusion, and thus provide a complete answer to the question of
+probability preservation for this particular argument (for example, if
+\(P(p \vee q) = 6/7\) and \(P(p\to q) = 5/7\), then \(P(q) = 4/7\)).
+In general, however, it will not be possible to calculate the
+<em>exact</em> probability of the conclusion, given the probabilities
+of the premises; rather, the best we can hope for is a (tight) upper
+and/or lower <em>bound</em> for the conclusion&rsquo;s probability. We
+will now discuss Adams&rsquo; (1998) methods to compute such
+bounds.</p>
+
+<p>
+Adams&rsquo; results can be stated more easily in terms of
+<em>uncertainty</em> rather than <em>certainty</em> (probability).
+Given a probability function \(P:\mathcal{L}\to [0,1]\), the
+corresponding <em>uncertainty function</em> \(U_P\) is defined as </p>
+
+\[U_P:\mathcal{L}\to[0,1]: \phi\mapsto U_P(\phi):= 1-P(\phi).\]
+
+<p>
+If the probability function \(P\) is clear from the context, we will
+often simply write \(U\) instead of \(U_P\). In the remainder of this
+subsection (and in the next one as well) we will assume that all
+arguments have only finitely many premises (which is not a significant
+restriction, given the compactness property of classical propositional
+logic). Adams&rsquo; first main result, which was originally
+established by Suppes (1966), can now be stated as follows:</p>
+
+<div class="indent">
+
+<p>
+<strong>Theorem 2.</strong> Consider a valid argument
+\((\Gamma,\phi)\) and a probability function \(P\). Then the
+uncertainty of the conclusion \(\phi\) cannot exceed the sum of the
+uncertainties of the premises \(\gamma\in\Gamma\). Formally: </p>
+
+\[U(\phi) \leq \sum_{\gamma\in\Gamma}U(\gamma).\]
+
+</div>
+
+<p>
+First of all, note that this theorem subsumes Theorem 1 as a special
+case: if \(P(\gamma) = 1\) for all \(\gamma\in\Gamma\), then
+\(U(\gamma)=0\) for all \(\gamma\in\Gamma\), so \(U(\phi)\leq \sum
+U(\gamma) = 0\) and thus \(P(\phi) = 1\). Furthermore, note that the
+upper bound on the uncertainty of the conclusion depends on
+\(|\Gamma|\), i.e.&nbsp;on the number of premises. If a valid argument
+has a small number of premises, each of which only has a small
+uncertainty (i.e.&nbsp;a high certainty), then its conclusion will
+also have a reasonably small uncertainty (i.e.&nbsp;a reasonably high
+certainty). Conversely, if a valid argument has premises with small
+uncertainties, then its conclusion can only be highly uncertain if the
+argument has a large number of premises (a famous illustration of this
+converse principle is Kyburg&rsquo;s (1965) <em>lottery paradox</em>,
+which is discussed in the entry on
+ <a href="../epistemic-paradoxes/">epistemic paradoxes</a>
+ of this encyclopedia). To put the matter more concretely, note that
+if a valid argument has three premises which each have uncertainty
+1/11, then adding a premise which also has uncertainty 1/11 will not
+influence the argument&rsquo;s validity, but it <em>will</em> raise
+the upper bound on the conclusion&rsquo;s uncertainty from 3/11 to
+4/11&mdash;thus allowing the conclusion to be more uncertain than was
+originally the case. Finally, the upper bound provided by Theorem 2 is
+<em>optimal</em>, in the sense that (under the right conditions) the
+uncertainty of the conclusion can coincide with its upper bound \(\sum
+U(\gamma)\):</p>
+
+<div class="indent">
+
+<p>
+<strong>Theorem 3.</strong> Consider a valid argument
+\((\Gamma,\phi)\), and assume that the premise set \(\Gamma\) is
+consistent, and that every premise \(\gamma\in\Gamma\) is relevant
+(i.e.&nbsp;\(\Gamma-\{\gamma\}\not\models\phi\)). Then there exists a
+probability function \(P:\mathcal{L}\to[0,1]\) such that</p>
+
+\[U_P(\phi) = \sum_{\gamma\in\Gamma}U_P(\gamma).\]
+
+</div>
+
+<p>
+The upper bound provided by Theorem 2 can also be used to define a
+probabilistic notion of validity. An argument \((\Gamma,\phi)\) is
+said to be <em>Adams-probabilistically valid</em>, written
+\(\Gamma\models_a\phi\), if and only if</p>
+
+<p class="center">
+for all probability functions \(P:\mathcal{L}\to\mathbb{R}\):
+\(U_P(\phi)\leq \sum_{\gamma\in\Gamma}U_P(\gamma)\).</p>
+
+<p>
+Adams-probabilistic validity has an alternative, equivalent
+characterization in terms of probabilities rather than uncertainties.
+This characterization says that \((\Gamma,\phi)\) is
+Adams-probabilistically valid if and only if the conclusion&rsquo;s
+probability can get arbitrarily close to 1 if the premises&rsquo;
+probabilities are sufficiently high. Formally: \(\Gamma\models_a\phi\)
+if and only if</p>
+
+<p class="center">
+for all \(\epsilon&gt;0\) there exists a \(\delta&gt;0\) such that for
+all probability functions \(P\):
+<br />
+if \(P(\gamma)&gt;1-\delta\) for all \(\gamma\in\Gamma\), then
+\(P(\phi)&gt; 1-\epsilon\).</p>
+
+<p>
+It can be shown that classical propositional logic is (strongly) sound
+and complete with respect to Adams&rsquo; probabilistic semantics:
+</p> 
+
+\[\Gamma \models_a \phi \text{ if and only if } \Gamma \vdash\phi.\]
+
+<p>
+Adams (1998, 154) also defines another logic for which his
+probabilistic semantics is sound and complete. However, this system
+involves a non-truth-functional connective (the <em>probability
+conditional</em>), and therefore falls outside the scope of this
+section. (For more on probabilistic interpretations of conditionals,
+the reader can consult the entries on
+ <a href="../conditionals/">conditionals</a>
+ and
+ <a href="../logic-conditionals/">the logic of conditionals</a>
+ of this encyclopedia.)</p>
+
+<p>
+Consider the following example. The argument \(A\) with premises
+\(p,q,r,s\) and conclusion \(p\wedge(q\vee r)\) is valid. Assume that
+\(P(p) = 10/11, P(q) = P(r) = 9/11\) and \(P(s) = 7/11\). Then Theorem
+2 says that </p> 
+
+\[\begin{align}
+&amp;U(p\wedge(q\vee r)) \leq \\
+&amp;\quad\frac{1}{11} + \frac{2}{11} + \frac{2}{11} + \frac{4}{11} = \frac{9}{11}.
+\end{align}\]
+
+<p>
+This upper bound on the uncertainty of the conclusion is rather
+disappointing, and it exposes the main weakness of Theorem 2. One of
+the reasons why the upper bound is so high, is that to compute it we
+took into account the premise \(s\), which has a rather high
+uncertainty (\(4/11\)). However, this premise is irrelevant, in the
+sense that the conclusion already follows from the other three
+premises. Hence we can regard \(p\wedge (q\vee r)\) not only as the
+conclusion of the valid argument \(A\), but also as the conclusion of
+the (equally valid) argument \(A'\), which has premises \(p,q,r\). In
+the latter case Theorem 2 yields an upper bound of \(1/11 + 2/11 +
+2/11 = 5/11\), which is already much lower.</p>
+
+<p>
+The weakness of Theorem 2 is thus that it takes into account (the
+uncertainty of) <em>irrelevant</em> or inessential premises. To obtain
+an improved version of this theorem, a more fine-grained notion of
+&lsquo;essentialness&rsquo; is necessary. In argument \(A\) in the
+example above, premise \(s\) is absolutely irrelevant. Similarly,
+premise \(p\) is absolutely relevant, in the sense that without this
+premise, the conclusion \(p\wedge(q\vee r)\) is no longer derivable.
+Finally, the premise subset \(\{q,r\}\) is &lsquo;in between&rsquo;:
+together \(q\) and \(r\) are relevant (if both premises are left out,
+the conclusion is no longer derivable), but each of them separately
+can be left out (while keeping the conclusion derivable).</p>
+
+<p>
+The notion of essentialness is formalized as follows:</p>
+
+<div class="indent">
+
+<p>
+<strong>Essential premise set.</strong> Given a valid argument
+\((\Gamma,\phi)\), a set \(\Gamma' \subseteq \Gamma\) is
+<em>essential</em> iff \(\Gamma - \Gamma' \not\models\phi\).</p>
+
+<p>
+<strong>Degree of essentialness.</strong> Given a valid argument
+\((\Gamma,\phi)\) and a premise \(\gamma\in\Gamma\), the <em>degree of
+essentialness</em> of \(\gamma\), written \(E(\gamma)\), is
+\(1/|S_\gamma|\), where \(|S_\gamma|\) is the cardinality of the
+smallest essential premise set that contains \(\gamma\). If \(\gamma\)
+does not belong to any minimal essential premise set, then the degree
+of essentialness of \(\gamma\) is 0.</p>
+</div>
+
+<p>
+With these definitions, a refined version of Theorem 2 can be
+established:</p>
+
+<div class="indent">
+
+<p>
+<strong>Theorem 4.</strong> Consider a valid argument
+\((\Gamma,\phi)\). Then the uncertainty of the conclusion \(\phi\)
+cannot exceed the weighted sum of the uncertainties of the premises
+\(\gamma\in\Gamma\), with the degrees of essentialness as weights.
+Formally: </p> 
+
+\[U(\phi) \leq \sum_{\gamma\in\Gamma}E(\gamma)U(\gamma).\]
+
+</div>
+
+<p>
+The proof of Theorem 4 is significantly more difficult than that of
+Theorem 2: Theorem 2 requires only basic probability theory, whereas
+Theorem 4 is proved using methods from linear programming (Adams and
+Levine 1975; Goldman and Tucker 1956). Theorem 4 subsumes Theorem 2 as
+a special case: if all premises are relevant (i.e.&nbsp;have degree of
+essentialness 1), then Theorem 4 yields the same upper bound as
+Theorem 2. Furthermore, Theorem 4 does not take into account
+irrelevant premises (i.e.&nbsp;premises with degree of essentialness
+0) to compute this upper bound; hence if a premise is irrelevant for
+the validity of the argument, then its uncertainty will not carry over
+to the conclusion. Finally, note that since \(E(\gamma)\in [0,1]\) for
+all \(\gamma\in\Gamma\), it holds that </p> 
+
+\[\sum_{\gamma\in\Gamma}E(\gamma)U(\gamma) \leq\sum_{\gamma\in\Gamma}U(\gamma),\]
+
+<p>
+i.e.&nbsp;Theorem 4 yields in general a tighter upper bound than
+Theorem 2. To illustrate this, consider again the argument with
+premises \(p,q,r,s\) and conclusion \(p \wedge (q\vee r)\). Recall
+that \(P(p)=10/11, P(q) = P(r)=9/11\) and \(P(s)=7/11\). One can
+calculate the degrees of essentialness of the premises: \(E(p) = 1,
+E(q) = E(r) = 1/2\) and \(E(s) = 0\). Hence Theorem 4 yields that </p>
+
+\[\begin{align}
+&amp;U(p \wedge (q\vee r))\leq \\
+&amp;\quad\left(1\times \frac{1}{11}\right) + 
+ \left(\frac{1}{2} \times \frac{2}{11}\right) + 
+ \left(\frac{1}{2} \times \frac{2}{11}\right) + 
+ \left(0 \times \frac{4}{11}\right) = \frac{3}{11},
+\end{align}\]
+
+<p>
+which is a tighter upper bound for the uncertainty of \(p\wedge(q \vee
+r)\) than any of the bounds obtained above via Theorem 2
+(viz.&nbsp;\(9/11\) and \(5/11\)).</p>
+
+<h3 id="FurtGene">2.3 Further Generalizations</h3>
+
+<p>
+Given the uncertainties (and degrees of essentialness) of the premises
+of a valid argument, Adams&rsquo; theorems allow us to compute an
+<em>upper</em> bound for the uncertainty of the conclusion. Of course
+these results can also be expressed in terms of probabilities rather
+than uncertainties; they then yield a <em>lower</em> bound for the
+probability of the conclusion. For example, when expressed in terms of
+probabilities rather than uncertainties, Theorem 4 looks as
+follows:</p> 
+
+\[P(\phi)\geq 1 - \sum_{\gamma\in\Gamma}E(\gamma)(1 - P(\gamma)).\]
+
+<p>
+Adams&rsquo; results are restricted in at least two ways:</p>
+
+<ul class="jfy">
+
+<li>
+
+<p>
+They only provide a <em>lower</em> bound for the probability of the
+conclusion (given the probabilities of the premises). In a sense this
+is the most important bound: it represents the conclusion&rsquo;s
+probability in the &lsquo;worst-case scenario&rsquo;, which might be
+useful information in practical applications. However, in some
+applications it might also be informative to have an <em>upper</em>
+bound for the conclusion&rsquo;s probability. For example, if one
+knows that this probability has an upper bound of 0.4, then one might
+decide to refrain from certain actions (that one would have performed
+if this upper bound were (known to be) 0.9).</p></li>
+
+<li>
+
+<p>
+They presuppose that the premises&rsquo; exact probabilities are
+known. In practical applications, however, there might only be partial
+information about the probability of a premise \(\gamma\): its exact
+value is not known, but it <em>is</em> known to have a lower bound
+\(a\) and an upper bound \(b\) (Walley 1991). In such applications it
+would be useful to have a method to calculate (optimal) lower and
+upper bounds for the probability of the conclusion in terms of the
+upper and lower bounds of the probabilities of the premises.</p></li>
+</ul>
+
+<p>
+Hailperin (1965, 1984, 1986, 1996) and Nilsson (1986) use methods from
+linear programming to show that these two restrictions can be
+overcome. Their most important result is the following:</p>
+
+<div class="indent">
+
+<p>
+<strong>Theorem 5.</strong> Consider an argument \((\Gamma,\phi)\),
+with \(|\Gamma| = n\). There exist functions \(L_{\Gamma,\phi}:
+\mathbb{R}^{2n} \to \mathbb{R}\) and \(U_{\Gamma,\phi}:
+\mathbb{R}^{2n} \to \mathbb{R}\) such that for any probability
+function \(P\), the following holds: if \(a_i \leq P(\gamma_i) \leq
+b_i\) for \(1\leq i\leq n\), then:</p>
+
+<ol>
+
+<li><p>
+\(L_{\Gamma,\phi}(a_1,\dots,a_n,b_1,\dots,b_n) \leq P(\phi) \:\leq\)
+\(U_{\Gamma,\phi}(a_1,\dots,a_n,b_1,\dots,b_n)\).</p></li>
+
+<li><p>
+The bounds in item 1 are optimal, in the sense that there exist
+probability functions \(P_L\) and \(P_U\) such that \(a_i \leq
+P_L(\gamma_i),\) \(P_U(\gamma_i)\leq b_i\) for \(1\leq i\leq n\), and</p>
+  <blockquote>
+ \(L_{\Gamma,\phi}(a_1,\dots,a_n,b_1,\dots,b_n) = P_L(\phi)\)</blockquote>
+<p>and</p>
+  <blockquote>
+\(P_U(\phi) = U_{\Gamma,\phi}(a_1,\dots,a_n,b_1,\dots,b_n)\).
+</blockquote></li>
+
+<li><p>
+The functions \(L_{\Gamma,\phi}\) and \(U_{\Gamma,\phi}\) are
+effectively determinable from the Boolean structure of the sentences
+in \(\Gamma \cup \{\phi\}\).</p></li>
+</ol>
+</div>
+
+<p>
+This result can also be used to define yet another probabilistic
+notion of validity, which we will call <em>Hailperin-probabilistic
+validity</em> or simply <em>h-validity</em>. This notion is not
+defined with respect to formulas, but rather with respect to
+<em>pairs</em> consisting of a formula and a subinterval of \([0,1]\).
+If \(X_i\) is the interval associated with premise \(\gamma_i\in
+\Gamma\) and \(Y\) is the interval associated with the conclusion
+\(\phi\), then the argument \((\Gamma,\phi)\) is said to be
+<em>h</em>-valid, written \(\Gamma\models_h\phi\), if and only if 
+for all probability functions \(P\):</p>
+
+\[
+\text{ if } P(\gamma_i) \in X_i \text{ for } 1\leq i\leq n, \text{ then } P(\phi)\in Y
+\]
+
+<p>
+In Haenni et al. (2011) this is written as </p> 
+
+\[\gamma_1^{X_1},\dots,\gamma_n^{X_n}|\!\!\!\approx \phi^Y\]
+
+<p>
+and called the <em>standard probabilistic semantics</em>.</p>
+
+<p>
+Nilsson&rsquo;s work on probabilistic logic (1986, 1993) has sparked a
+lot of research on probabilistic reasoning in artificial intelligence
+(Hansen and Jaumard 2000; chapter 2 of Haenni et al.&nbsp;2011).
+However, it should be noted that although Theorem 5 states that the
+functions \(L_{\Gamma,\phi}\) and \(U_{\Gamma,\phi}\) are
+<em>effectively</em> determinable from the sentences in
+\(\Gamma\cup\{\phi\}\), the <em>computational complexity</em> of this
+problem is quite high (Georgakopoulos et al.&nbsp;1988, Kavvadias and
+Papadimitriou 1990), and thus finding these functions quickly becomes
+computationally unfeasible in real-world applications. Contemporary
+approaches based on probabilistic argumentation systems and
+probabilistic networks are better capable of handling these
+computational challenges. Furthermore, probabilistic argumentation
+systems are closely related to Dempster-Shafer theory (Dempster 1968;
+Shafer 1976; Haenni and Lehmann 2003). However, an extended discussion
+of these approaches is beyond the scope of (the current version of)
+this entry; see (Haenni et al.&nbsp;2011) for a recent survey.</p>
+
+<h2 id="BasiProbOper">3. Basic Probability Operators</h2>
+
+<p>
+In this section we will study probability logics that extend the
+propositional language \(\mathcal{L}\) with rather basic probability
+operators. They differ from the logics in 
+ <a href="#PropProbLogi">Section 2</a> 
+ in that
+the logics here involve probability operators in the object language.
+ <a href="#QualReprUnce">Section 3.1</a>
+ discusses <em>qualitative</em> probability
+operators; 
+ <a href="#SumsProdProbTerm">Section 3.2</a>
+ discusses <em>quantitative</em> probability operators.</p>
+
+<h3 id="QualReprUnce">3.1 Qualitative Representations of Uncertainty</h3>
+
+<p>
+There are several applications in which qualitative theories of
+probability might be useful, or even necessary. In some situations
+there are no frequencies available to use as estimates for the
+probabilities, or it might be practically impossible to obtain those
+frequencies. Furthermore, people are often willing to <em>compare</em>
+the probabilities of two statements (&lsquo;\(\phi\) is more probable
+than \(\psi\)&rsquo;), without being able to assign explicit
+probabilities to each of the statements <em>individually</em>
+(Szolovits and Pauker 1978, Halpern and Rabin 1987). In such
+situations qualitative probability logics will be useful.</p>
+
+<p>
+One of the earliest qualitative probability logics is Hamblin&rsquo;s
+(1959). The language is extended with a unary operator \(\Box\), which
+is to be read as &lsquo;probably&rsquo;. Hence a formula such as
+\(\Box\phi\) is to be read as &lsquo;probably \(\phi\)&rsquo;. This
+notion of &lsquo;probable&rsquo; can be formalized as <em>sufficiently
+high (numerical) probability</em> (i.e.&nbsp;\(P(\phi)\geq t\), for
+some threshold value \(1/2 &lt; t \leq 1\)), or alternatively in terms
+of <em>plausibility</em>, which is a non-metrical generalization of
+probability. Burgess (1969) further develops these systems, focusing
+on the &lsquo;high numerical probability&rsquo;-interpretation. Both
+Hamblin and Burgess introduce additional operators into their systems
+(expressing, for example, metaphysical necessity and/or knowledge),
+and study the interaction between the &lsquo;probably&rsquo;-operator
+and these other modal operators. However, the
+&lsquo;probably&rsquo;-operator already displays some interesting
+features on its own (independent from any other operators). If it is
+interpreted as &lsquo;sufficiently high probability&rsquo;, then it
+fails to satisfy the principle \((\Box\phi\wedge\Box\psi) \to
+\Box(\phi\wedge\psi)\). This means that it is not a <em>normal</em>
+modal operator, and cannot be given a Kripke (relational) semantics.
+Herzig and Longin (2003) and Arl&oacute; Costa (2005) provide weaker
+systems of <em>neighborhood semantics</em> for such
+&lsquo;probably&rsquo;-operators, while Yalcin (2010) discusses their
+behavior from a more linguistically oriented perspective.</p>
+
+<p>
+Another route is taken by Segerberg (1971) and G&auml;rdenfors (1975a,
+1975b), who build on earlier work by de Finetti (1937), Kraft, Pratt
+and Seidenberg (1959) and Scott (1964). They introduce a
+<em>binary</em> operator \(\geq\); the formula \(\phi\geq\psi\) is to
+be read as &lsquo;\(\phi\) is at least as probable as \(\psi\)&rsquo;
+(formally: \(P(\phi)\geq P(\psi)\)). The key idea is that one can
+completely axiomatize the behavior of \(\geq\) without having to use
+the &lsquo;underlying&rsquo; probabilities of the individual formulas.
+It should be noted that with comparative probability (a binary
+operator), one can also express some absolute probabilistic properties
+(unary operators). For example, \(\phi\geq \top\) expresses that
+\(\phi\) has probability 1, and \(\phi\geq\neg\phi\) expresses that
+\(\phi\) has probability at least 1/2. More recently, Delgrande and
+Renne (2015) and Delgrande, Renne, and Sack (2019) further extend the
+qualitative approach, by allowing the arguments of \(\geq\) to be
+finite <em>sequences</em> of formulas (of potentially different
+lengths). The formula \((\phi_1,\dots,\phi_n) \geq
+(\psi_1,\dots,\psi_m)\) is informally to be read as &lsquo;the sum of
+the probabilities of the \(\phi_i\)&rsquo;s is at least as high as the
+sum of the probabilities of the \(\psi_j\)&rsquo;s&rsquo;. The
+resulting logic can be axiomatized completely, and 
+can capture any rational quantity, making it as expressive as some
+<em>quantitiative</em> probability logics.  However, it is still
+distinct from quantitative probability logics, as there are no numbers
+in the language.  In the following sections, we direct our attention
+to quantitative probability logics.</p>
+
+<h3 id="SumsProdProbTerm">3.2 Sums and Products of Probability Terms</h3>
+
+<p>
+Propositional probability logics are extensions of propositional logic
+that express numerical relationships among probability terms
+\(P(\varphi)\). A simple propositional probability logic adds to
+propositional logic formulas of the form \(P(\varphi)\ge q\), where
+\(\varphi\) is a propositional formula and \(q\) is a number; such a
+formula asserts that the probability of \(\varphi\) is at least \(q\).
+The semantics is formalized using models consisting a probability
+function \(\mathcal{P}\) over a set \(\Omega\), whose elements are
+each given a truth assignment to the atomic propositions of the
+propositional logic. Thus a propositional formula is true at an
+element of \(\Omega\) if the truth assignment for that element makes
+the propositional formula true. The formula \(P(\varphi)\ge q\) is
+true in the model if and only if the probability \(\mathcal{P}\) of
+the set of elements of \(\Omega\) for which \(\varphi\) is true is at
+least \(q\). See Chapter 3 of Ognjanovi&#263; et al.&nbsp;(2016) for
+an overview of such a propositional probability logic.</p>
+
+<p>
+Some propositional probability logics include other types of formulas
+in the object language, such as those involving sums and products of
+probability terms. The appeal of involving sums can be clarified by
+the additivity condition of probability functions (see 
+ <a href="#ProbSema">Section 2.1</a>),
+ which can be expressed as \(P(\phi \vee \psi) =
+P(\phi)+P(\psi)\) whenever \(\neg (\phi \wedge \psi)\) is a tautology,
+or equivalently as \(P(\phi \wedge \psi) + P(\phi \wedge \neg \psi) =
+P(\phi)\). Probability logics that explicitly involve sums of
+probabilities tend to more generally include linear combinations of
+probability terms, such as in Fagin et al.&nbsp;(1990). Here,
+propositional logic is extended with formulas of the form
+\(a_1P(\phi_1) + \cdots + a_n P(\phi_n) \ge b\), where \(n\) is a
+positive integer that may differ from formula to formula, and
+\(a_1,\ldots,a_n\), and \(b\) are all rational numbers. Here are some
+examples of what can be expressed.</p>
+
+<ul>
+
+<li>
+
+<p>
+\(P(\phi) \le q\) by \(-P(\phi) \ge -q\),</p></li>
+
+<li>
+
+<p>
+\(P(\phi) &lt; q\) by \(\neg (P(\phi) \ge q)\),</p></li>
+
+<li>
+
+<p>
+\(P(\phi) = q\) by \(P(\phi)\ge q \wedge P(\phi) \le q\).</p></li>
+
+<li>
+
+<p>
+\(P(\phi) \ge P(\psi)\) by \(P(\phi)-P(\psi) \ge 0\).</p></li>
+</ul>
+
+<p>
+<strong>Expressive power with and without linear
+combinations:</strong> 
+Although linear combinations provide a convenient way of expressing
+numerous relationships among probability terms, a language without
+sums of probability terms is still very powerful. Consider the
+language restricted to formulas of the form \(P(\phi) \ge q\) for some
+propositional formula \(\phi\) and rational \(q\). We can define</p>
+
+\[P(\phi) \le q \text{ by } P(\neg\phi) \ge 1-q,\]
+
+<p>
+which is reasonable considering that the probability of the complement
+of a proposition is equal to 1 minus the probability of the
+proposition. The formulas \(P(\phi) &lt;q\) and \(P(\phi) = q\) can be
+defined without linear combinations as we did above. Using this
+restricted probability language, we can reason about additivity in a
+less direct way. The formula </p> 
+
+\[[P(\phi \wedge \psi) = a \wedge P(\phi \wedge \neg \psi) = b] \to P(\phi) = a+b\]
+
+<p>
+states that if the probability of \(\phi \wedge \psi\) is \(a\) and
+the probability of \(\phi\wedge \neg \psi\) is \(b\), then the
+probability of the disjunction of the formulas (which is equivalent to
+\(\phi\)) is \(a+b\). However, while the use of linear combinations
+allows us to assert that the probabilities of \(\varphi\wedge\psi\)
+and \(\varphi\wedge\neg\psi\) are additive by using the formula
+\(P(\varphi\wedge \psi)+P(\varphi\wedge\neg\psi) = P(\varphi)\), the
+formula without linear combinations above only does so if we choose
+the correct numbers \(a\) and \(b\). A formal comparison of the
+expressiveness of propositional probability logic with linear
+combinations and without is given in Demey and Sack (2015). While any
+two models agree on all formulas with linear combinations if and only
+if they agree on all formulas without (Lemma 4.1 of Demey and Sack
+(2015)), it is not the case that any class of models definable by a
+single formula with linear combinations can be defined by a single
+formula without (Lemma 4.2 of Demey and Sack (2015)). In particular,
+the class of models defined by the formula \(P(p)- P(q)\ge 0\) cannot
+be defined by any single formula without the power of linear
+combinations.</p>
+
+<p>
+<strong>Probabilities belonging to a given subset:</strong>
+Ognjanovi&#263; and Ra&scaron;kovi&#263; (1999) extend the language of
+probability logic by means of a new type of operator: \(Q_F\).
+Intuitively, the formula \(Q_F\phi\) means that the probability of
+\(\phi\) belongs to \(F\), for some given set \(F \subseteq [0,1]\).
+This \(Q_F\)-operator cannot be defined in terms of formulas of the
+form \(P(\phi) \ge a\). Ognjanovi&#263; and Ra&scaron;kovi&#263;
+(1999) provide a sound and complete axiomatization of this type of
+logical system. The key bridge principles, which connect the
+\(Q_F\)-operator to the more standard \(P\)-operator, are the axioms
+\(P(\phi) = a \to Q_F\phi\) for all \(a \in F\), as well as the
+infinitary rule that specifies that from \(P(\phi) = a \to \psi\) for
+all \(a \in F\), one can infer \(Q_F\phi\to\psi\).</p>
+
+<p>
+<strong>Polynomial weight formulas:</strong> Logics with polynomial
+weight formulas (involving both weighted sums and products of
+probability terms), can allow for formulas of the form
+\(P(\phi)P(\psi)-P(\phi\wedge \psi) = 0\), that is, the probability of
+both \(\phi\) and \(\psi\) is equal to the product of the
+probabilities of \(\phi\) and \(\psi\). This formula captures what it
+means for \(\phi\) and \(\psi\) to be <em>statistically
+independent</em>. Such logics were investigated in Fagin et
+al.&nbsp;(1990), but mostly with first-order logic features included,
+and then again in a simpler context (without quantifiers) in
+Perovi&#263; et al.&nbsp;(2008).</p>
+
+<p>
+<strong>Compactness and completeness:</strong> Compactness is a
+property of a logic where a set of formulas is satisfiable if every
+finite subset is satisfiable. Propositional probability logics lack
+the compactness property, as every finite subset of
+\(\{P(p)&gt;0\}\cup\{P(p)\leq a\,|\,a&gt;0\}\) is satisfiable, but the
+entire set is not.</p>
+
+<p>
+Without compactness, a logic might be weakly complete (every valid
+formula is provable in the axiomatic system), but not strongly
+complete (for every set \(\Gamma\) of formulas, every logical
+consequence of \(\Gamma\) is provable from \(\Gamma\) in the axiomatic
+system). In Fagin et al.&nbsp;(1990), a proof system involving linear
+combinations was given and the logic was shown to be both sound and
+weakly complete. In Ognjanovi&#263; and Ra&scaron;kovi&#263; (1999), a
+sound and strongly complete proof system is given for propositional
+probability logic without linear combinations. In Heifetz and Mongin
+(2001), a proof system for a variation of the logic without linear
+combinations that uses a system of types to allow for iteration of
+probability formulas (we will see in 
+ <a href="#ModaProbLogi">Section 4</a>
+ how such
+iteration can be achieved using possible worlds) was given and the
+logic was shown to be sound and weakly complete. They also observe
+that no finitary proof system for such a logic can be strongly
+complete. Ognjanovi&#263; et al.&nbsp;(2008) present some qualitative
+probabilistic logics with infinitary derivation rules (which require a
+countably infinite number of premises), and prove strong completeness.
+Goldblatt (2010) presents a strongly complete proof system for a
+related coalgebraic logic. Perovi&#263; et al.&nbsp;(2008) give a
+proof system and proof of strong completeness for propositional
+probability logic with polynomial weight formulas. Finally, another
+strategy for obtaining strong completeness involves restricting the
+range of the probability functions to a fixed, finite set of numbers;
+for example, Ognjanovi&#263; et al.&nbsp;(2008) discuss a qualitative
+probabilistic logic in which the range of the probability functions is
+not the full real unit interval \([0,1]\), but rather the
+&lsquo;discretized&rsquo; version
+\(\{0,\frac{1}{n},\frac{2}{n},\dots,\frac{n-1}{n},1\}\) (for some
+fixed number \(n\in\mathbb{N}\)). See Chapter 7 of Ognjanovi&#263; et
+al.&nbsp;(2016) for an overview of completeness results.</p>
+
+<h2 id="ModaProbLogi">4. Modal Probability Logics</h2>
+
+<p>
+Many probability logics are interpreted over a single, but arbitrary
+probability space. <em>Modal probability logic</em> makes use of many
+probability spaces, each associated with a possible world or state.
+This can be viewed as a minor adjustment to the relational semantics
+of modal logic: rather than associate to every possible world a set of
+accessible worlds as is done in modal logic, modal probability logic
+associates to every possible world a probability distribution, a
+probability space, or a set of probability distributions. The language
+of modal probability logic allows for embedding of probabilities
+within probabilities, that is, it can for example reason about the
+probability that (possibly a different) probability is \(1/2\). This
+modal setting involving multiple probabilities has generally been
+given a (1) <em>stochastic</em> interpretation, concerning different
+probabilities over the next states a system might transition into
+(Larsen and Skou 1991), and (2) a <em>subjective</em> interpretation,
+concerning different probabilities that different agents may have
+about a situation or each other&rsquo;s probabilities (Fagin and
+Halpern 1988). Both interpretations can use exactly the same formal
+framework.</p>
+
+<p>
+A basic modal probability logic adds to propositional logic formulas
+of the form \(P (\phi)\ge q\), where \(q\) is typically a rational
+number, and \(\phi\) is any formula of the language, possibly a
+probability formula. The reading of such a formula is that the
+probability of \(\phi\) is at least \(q\). This general reading of the
+formula does not reflect any difference between modal probability
+logic and other probability logics with the same formula; where the
+difference lies is in the ability to embed probabilities in the
+arguments of probability terms and in the semantics. The following
+subsections provide an overview of the variations of how modal
+probability logic is modeled. In one case the language is altered
+slightly 
+ (<a href="#IndeInte">Section 4.2</a>), and in other cases, the logic is
+extended to address interactions between qualitative and quantitative
+uncertainty 
+ (<a href="#CombQuanQualUnce">Section 4.4</a> and
+  <a href="#ConsQuanQualInte">Section 4.5</a>) or dynamics 
+ (<a href="#Dyna">Section 4.6</a>).</p>
+
+<h3 id="BasiFiniModaProbMode">4.1 Basic Finite Modal Probability Models</h3>
+
+<p>
+Formally, a <em>Basic Finite Modal Probabilistic Model</em> is a tuple
+\(M=(W,\mathcal{P},V)\), where \(W\) is a finite set of possible
+worlds or states, \(\mathcal{P}\) is a function associating a
+distribution \(\mathcal{P}_w\) over \(W\) to each world \(w\in W\),
+and \(V\) is a &lsquo;valuation function&rsquo; assigning atomic
+propositions from a set \(\Phi\) to each world. The distribution is
+additively extended from individual worlds to sets of worlds:
+\(\mathcal{P}_w(S) = \sum_{s\in S}\mathcal{P}_w(s)\). The first two
+components of a basic modal probabilistic model are effectively the
+same as a Kripke frame whose relation is decorated with numbers
+(probability values). Such a structure has different names, such as a
+directed graph with labelled edges in mathematics, or a probabilistic
+transition system in computer science. The valuation function, as in a
+Kripke model, allows us to assign properties to the worlds.</p>
+
+<p>
+The semantics for formulas are given on pairs \((M,w)\), where \(M\)
+is a model and \(w\) is an element of the model. A formula \(P(\phi)
+\ge q\) is true at a pair \((M,w)\), written \((M,w)\models P(\phi)\ge
+q\), if and only if \(\mathcal{P}_w(\{w'\mid (M,w')\models \phi\}) \ge
+q\).</p>
+
+<h3 id="IndeInte">4.2 Indexing and Interpretations</h3>
+
+<p>
+The first generalization, which is most common in applications of
+modal probabilistic logic, is to allow the distributions to be indexed
+by two sets rather than one. The first set is the set \(W\) of worlds
+(the base set of the model), but the other is an index set \(A\) often
+to be taken as a set of actions, agents, or players of a game.
+Formally, \(\mathcal{P}\) associates a distribution
+\(\mathcal{P}_{a,w}\) over \(W\) for each \(w\in W\) and \(a\in A\).
+For the language, rather than involving formulas of the form
+\(P(\phi)\ge q\), we have \(P_a(\phi)\ge q\), and \((M,w)\models
+P_a(\phi)\ge q\) if and only if \(\mathcal{P}_{a,w}(\{w'\mid
+(M,w')\models \phi\}) \ge q\).</p>
+
+<p>
+<strong>Example:</strong> Suppose we have an index set \(A = \{a,
+b\}\), and a set \(\Phi = \{p,q\}\) of atomic propositions. Consider
+\((W,\mathcal{P},V)\), where</p>
+
+<ul>
+
+<li>
+
+<p>
+\(W = \{w,x,y,z\}\)</p></li>
+
+<li>
+
+<p>
+\(\mathcal{P}_{a,w}\) and \(\mathcal{P}_{a,x}\) map \(w\) to \(1/2\),
+\(x\) to \(1/2\), \(y\) to \(0\), and \(z\) to \(0\).</p>
+
+<p>
+\(\mathcal{P}_{a,y}\) and \(\mathcal{P}_{a,z}\) map \(y\) to \(1/3\),
+\(z\) to \(2/3\), \(w\) to \(0\), and \(x\) to \(0\).</p>
+
+<p>
+\(\mathcal{P}_{b,w}\) and \(\mathcal{P}_{b,y}\) map \(w\) to \(1/2\),
+\(y\) to \(1/2\), \(x\) to \(0\), and \(z\) to \(0\).</p>
+
+<p>
+\(\mathcal{P}_{b,x}\) and \(\mathcal{P}_{b,z}\) map \(x\) to \(1/4\),
+\(z\) to \(3/4\), \(w\) to \(0\), and \(y\) to \(0\).</p></li>
+
+<li>
+
+<p>
+\(V(p) = \{w,x\}\)</p>
+
+<p>
+\(V(q) = \{w,y\}\).</p></li>
+</ul>
+
+<p>
+We depict this example with the following diagram. Inside each circle
+is a labeling of the truth of each proposition letter for the world
+whose name is labelled right outside the circle. The arrows indicate
+the probabilities. For example, an arrow from world \(x\) to world
+\(z\) labeled by \((b,3/4)\) indicates that from \(x\), the probably
+of \(z\) under label \(b\) is \(3/4\). Probabilities of 0 are not
+labelled.</p>
+
+<div class="figure avoid-break">
+<img src="figure1.svg" alt="Four circles each with a possible state of p,q and probability arrows between them" class="wid50" />
+
+<p class="center">
+<span class="figlabel">Figure</span></p>
+</div>
+
+<p>
+<strong>Stochastic Interpretation:</strong> Consider the elements
+\(a\) and \(b\) of \(A\) to be actions, for example, pressing buttons
+on a machine. In this case, pressing a button does not have a certain
+outcome. For instance, if the machine is in state \(x\), there is a
+\(1/2\) probability it will remain in the same state after pressing
+\(a\), but a \(1/4\) probability of remaining in the same state after
+pressing \(b\). That is, </p> 
+
+\[(M,x) \models P_a(p\wedge \neg q) = 1/2 \wedge P_b(p\wedge \neg q) = 1/4.\]
+
+<p>
+A significant feature of modal logics in general (and this includes
+modal probabilistic logic) is the ability to support <em>higher-order
+reasoning</em>, that is, the reasoning about probabilities of
+probabilities. The importance of higher-order probabilities is clear
+from the role they play in, for example, <em>Miller&rsquo;s
+principle</em>, which states that \(P_1(\phi\mid P_2(\phi) = b) = b\).
+Here, \(P_1\) and \(P_2\) are probability functions, which can have
+various interpretations, such as the probabilities of two agents,
+logical and statistical probability, or the probabilities of one agent
+at different moments in time (Miller 1966; Lewis 1980; van Fraassen
+1984; Halpern 1991). Higher-order probability also occurs for instance
+in the <em>Judy Benjamin Problem</em> (van Fraassen 1981a) where one
+conditionalizes on probabilistic information. Whether one agrees with
+the principles proposed in the literature on higher-order
+probabilities or not, the ability to represent them forces one to
+investigate the principles governing them.</p>
+
+<p>
+To illustrate higher-order reasoning more concretely, we return to our
+example and see that at \(x\), there is a \(1/2\) probability that
+after pressing \(a\), there is a \(1/2\) probability that after
+pressing \(b\), it will be the case that \(\neg p\) is true, that is,
+</p> 
+
+\[(M,x)\models P_a(P_b(\neg p)= 1/2)=1/2.\]
+
+<p>
+<strong>Subjective Interpretation:</strong> Suppose the elements \(a\)
+and \(b\) of \(A\) are players of a game. \(p\) and \(\neg p\) are
+strategies for player \(a\) and \(q\) and \(\neg q\) are both
+strategies for player \(b\). In the model, each player is certain of
+her own strategy; for instance at \(x\), player \(a\) is certain that
+she will play \(p\) and player \(b\) is certain that she will play
+\(\neg q\), that is </p> 
+
+\[(M,x)\models P_a(p) = 1 \wedge P_b(\neg q) = 1.\]
+
+<p>
+But the players randomize over their opponents. For instance at \(x\),
+the probability that \(b\) has for \(a\)&rsquo;s probability of \(\neg
+q\) being \(1/2\) is \(1/4\), that is </p> 
+
+\[(M,x)\models P_b(P_a(q)=1/2)=1/4.\]
+
+<h3 id="ProbSpac">4.3 Probability Spaces</h3>
+
+<p>
+Probabilities are generally defined as measures in a measure space. A
+measure space is a set \(\Omega\) (the sample space) together with a
+\(\sigma\)-algebra (also called \(\sigma\)-field) \(\mathcal{A}\) over
+\(\Omega\), which is a non-empty set of subsets of \(\Omega\) such
+that \(A\in \mathcal{A}\) implies that \(\Omega-A\in \mathcal{A}\),
+and \(A_i\in \mathcal{A}\) for all natural numbers \(i\), implies that
+\(\bigcup_i A_i\in \mathcal{A}\). A measure is a function \(\mu\)
+defined on the \(\sigma\)-algebra \(\mathcal{A}\), such that \(\mu(A)
+\ge 0\) for every set \(A \in\mathcal{A}\) and \(\mu(\bigcup_i A_i) =
+\sum_i\mu(A_i)\) whenever \(A_i\cap A_j = \emptyset\) for each
+\(i,j\).</p>
+
+<p>
+The effect of the \(\sigma\)-algebra is to restrict the domain so that
+not every subset of \(\Omega\) need have a probability. This is
+crucial for some probabilities to be defined on uncountably infinite
+sets; for example, a uniform distribution over a unit interval cannot
+be defined on all subsets of the interval while also maintaining the
+countable additivity condition for probability measures.</p>
+
+<p>
+The same basic language as was used for the basic finite probability
+logic need not change, but the semantics is slightly different: for
+every state \(w\in W\), the component \(\mathcal{P}_w\) of a modal
+probabilistic model is replaced by an entire probability space
+\((\Omega_w,\mathcal{A}_w,\mu_w)\), such that \(\Omega_w\subseteq W\)
+and \(\mathcal{A}_w\) is a \(\sigma\)-algebra over \(\Omega_w\). The
+reason we may want entire spaces to differ from one world to another
+is to reflect uncertainty about what probability space is the right
+one. For the semantics of probability formulas, \((M,w)\models P(\phi)
+\ge q\) if and only if \(\mu_w(\{w'\mid (M,w')\models \phi\})\ge q\).
+Such a definition is not well defined in the event that \(\{w'\mid
+(M,w')\models \phi\}\not\in \mathcal{A}_w\). Thus constraints are
+often placed on the models to ensure that such sets are always in the
+\(\sigma\)-algebras.</p>
+
+<h3 id="CombQuanQualUnce">4.4 Combining Quantitative and Qualitative Uncertainty</h3>
+
+<p>
+Although probabilities reflect quantitative uncertainty at one level,
+there can also be qualitative uncertainty about probabilities. We
+might want to have qualitative and quantitative uncertainty because we
+may be so uncertain about some situations that we do not want to
+assign numbers to the probabilities of their events, while there are
+other situations where we do have a sense of the probabilities of
+their events; and these situations can interact.</p>
+
+<p>
+There are many situations in which we might not want to assign
+numerical values to uncertainties. One example is where a computer
+selects a bit 0 or 1, and we know nothing about how this bit is
+selected. Results of coin flips, on the other hand, are often used as
+examples of where we would assign probabilities to individual
+outcomes.</p>
+
+<p>
+An example of how these might interact is where the result of the bit
+determines whether a fair coin or a weighted coin (say, heads with
+probability \(2/3\)) be used for a coin flip. Thus there is
+qualitative uncertainty as to whether the action of flipping a coin
+yields heads with probability \(1/2\) or \(2/3\).</p>
+
+<p>
+One way to formalize the interaction between probability and
+qualitative uncertainty is by adding another relation to the model and
+a modal operator to the language as is done in Fagin and Halpern
+(1988, 1994). Formally, we add to a basic finite probability model a
+relation \(R\subseteq W^2\). Then we add to the language a modal
+operator \(\Box\), such that \((M,w)\models \Box\phi\) if and only if
+\((M,w')\models \phi\) whenever \(w R w'\).</p>
+
+<p>
+Consider the following example:</p>
+
+<ul>
+
+<li>
+
+<p>
+\(W = \{(0,H),(0,T),(1,H),(1,T)\}\),</p></li>
+
+<li>
+
+<p>
+\(\Phi = \{h,t\}\) is the set of atomic propositions,</p></li>
+
+<li>
+
+<p>
+\(R = W^2\),</p></li>
+
+<li>
+
+<p>
+\(\mathcal{P}\) associates with \((0,H)\) and \((0,T)\) the
+distribution mapping \((0,H)\) and \((0,T)\) each to \(1/2\), and
+associates with \((1,H)\) and \((1,T)\) the distribution mapping
+\((1,H)\) to \(2/3\) and \((1,T)\) to \(1/3\),</p></li>
+
+<li>
+
+<p>
+\(V\) maps \(h\) to the set \(\{(0,H),(1,H)\}\) and \(t\) to the set
+\(\{(0,T),(1,T)\}\).</p></li>
+</ul>
+
+<p>
+Then the following formula is true at \((0,H)\): \(\neg \Box h \wedge
+(\neg \Box P(h)= 1/2) \wedge (\Diamond P(h) = 1/2)\). This can be read
+as <em>it is not known that \(h\) is true, and it is not known that
+the probability of \(h\) is \(1/2\), but it is possible that the
+probability of \(h\) is \(1/2\).</em></p>
+
+<h3 id="ConsQuanQualInte">4.5 Constraints on Quantitative and Qualitative Interaction</h3>
+
+<p>
+We go into more detail about how to relate quantitative and
+qualitative uncertainties.  Much of this is similar to the goal of the
+entry on
+  <a href="../formal-belief/">formal representations of belief</a>,
+but here we focus on the connections between the qualitative and
+quantitative tools, such as epistemic relations \(R\) and probability
+spaces \(\mathcal{P}_w = (\Omega_w,\mathcal{A}_w,\mu_w)\), discussed
+above.  </p>
+
+
+<p>
+Rather than allowing quantitative and qualitative uncertainty interact
+freely, it may be realistic to involve constraints between the two.
+Some constraints were proposed in Fagin and Halpern (1994).  One
+constraint, called consistency, ensures that the locally defined
+sample space \(\Omega_w\) is contained in the set of all worlds the
+agent qualitatively considers possible.  Another, called uniformity,
+ensures that all worlds within a sample space \(\Omega_w\) agree on
+the probability space.  These two constraints are satisfied in the
+example in 
+ <a href="#CombQuanQualUnce">Section 4.4</a>
+ concerning qualitative uncertainty about the probability
+assignment.</p>
+
+<p>
+Another approach to constraining the relationship between quantitative
+and qualitative uncertainty is to <em>define</em> qualitative belief
+from quantitative uncertainty.  A natural approach is to define belief
+in \(A\) to be quantitative certainty in \(A\) (assigning \(A\)
+probability 1).  This can arise from an epistemic relation \(R\)
+defined by </p>
+
+\[
+(w,v)\in R \text{ if and only if } \mu_w(\{v\})\gt 0.
+\]
+
+<p>
+Rather than having the sample space \(\Omega_w\) be contained in the
+set of qualitative possibilities, it is more the other way around; the
+sample space here is often the set of all possible worlds, and the set
+an agent considers possible is a subset of that.  For the rest of this
+subsection, we assume all worlds agree on a single probability space
+\(\mathcal{P} = (W,\mathcal{P}, \mu)\).</p>
+
+<p>
+We may wish to allow for a form of belief to be weaker than having
+probability 1.  For example, someone might &lsquo;believe&rsquo; her
+positive medical test result while acknowledging a non-zero chance of
+a false positive, and hence falling short of certainty that she has
+the condition being tested.  Such belief, although weaker than
+probabilistic certainty, may be particularly relevant if it leads to
+decisions and actions.  A natural way to define such a weak belief is
+the &lsquo;Lockean thesis&rsquo; which defines belief in an event
+\(A\) to having \(\mu(A)\ge r\), where \(r\) some threshold less than
+1 (see the entry on 
+ <a href="../formal-belief/">formal representations of belief</a>
+ for more details about the Lockean
+thesis), though it is not always possible for such belief to arise
+from an epistemic relation.  Alternatively, one can define an
+epistemic relation \(R\) from the probability function \(\mu\) and a
+threshold \(q\) by</p>
+
+\[
+(w,v) \in R \text{ if and only if }  \mu(\{v\})\ge q.
+\]
+
+<p>
+
+As we are assuming every world agrees on the probability space, the
+relation \(R\) satisfies the KD45 axioms of belief (see entry on
+ <a href="../logic-epistemic/">epistemic logic</a>
+ for KD45 axioms).  The threshold \(q\) for possibility is
+typically very small; it is the lowest likelihood for a possibility to
+be considered reasonably likely and to be incorporated into the
+epistemic relation \(R\).  In contrast, the Lockean threshold \(r\) is
+between 0.5 and 1.  While a belief operator defined according to the
+Lockean thesis need not correspond to any epistemic relation, there
+are special cases where it does.  If there is a \(q\) such that \(K =
+\{w\mid \mu(\{w\})\gt q\}\) is \(P\)-stable (where a subset \(K\) of
+\(W\) is \(P\)-stable if for all \(w\in K\),
+\(\mu(\{w\})\gt\mu(W\setminus K)\)), then the epistemic relation
+\(R\), defined by \((w,v)\in R\) if and only if \(v\in K\), gives rise
+to a modal belief operator that satisfies the Lockean thesis for
+threshold \(r=P(K)\) (See Leitgeb 2013 and Delgrande 2022).</p>
+
+
+<h3 id="Dyna">4.6 Dynamics</h3>
+
+<p>
+We have discussed two views of modal probability logic. One is
+temporal or stochastic, where the probability distribution associated
+with each state determines the likelihood of transitioning into other
+states; another is concerned with subjective perspectives of agents,
+who may reason about probabilities of other agents. A stochastic
+system is dynamic in that it represents probabilities of different
+transitions, and this can be conveyed by the modal probabilistic
+models themselves. But from a subjective view, the modal probabilistic
+models are static: the probabilities are concerned with what currently
+is the case. Although static in their interpretation, the modal
+probabilistic setting can be put in a dynamic context.</p>
+
+<p>
+Dynamics in a modal probabilistic setting is generally concerned with
+simultaneous changes to probabilities in potentially all possible
+worlds. Intuitively, such a change may be caused by new information
+that invokes a probabilistic revision at each possible world. The
+dynamics of subjective probabilities is often modeled using
+conditional probabilities, such as in Kooi (2003), Baltag and Smets
+(2008), and van Benthem et al.&nbsp;(2009). The probability of \(E\)
+conditional on \(F\), written \(P(E\mid F)\), is \(P(E\cap F)/P(F)\).
+When updating by a set \(F\), a probability distribution \(P\) is
+replaced by the probability distribution \(P'\), such that \(P'(E)=
+P(E \mid F)\), so long as \(P(F)\neq 0\). Let us assume for the
+remainder of this dynamics subsection that every relevant set
+considered has positive probability.</p>
+
+<p>
+Using a probability logic with linear combinations, we can abbreviate
+the conditional probability \(P(\phi\mid \psi)\ge q\) by \(P(\phi
+\wedge \psi) - qP(\psi)\ge 0\). In a modal setting, an operator
+\([!\psi]\) can be added to the language, such that \(M,w\models
+[!\psi]\phi\) if and only if \(M',w\models \phi\), where \(M'\) is the
+model obtained from \(M\) by revising the probabilities of each world
+by \(\psi\). Note that \([!\psi](P(\phi)\ge q)\) differs from
+\(P(\phi\mid \psi)\ge q\), in that in \([!\psi](P(\phi)\ge q)\), the
+interpretation of probability terms inside \(\phi\) are affected by
+the revision by \(\psi\), whereas in \(P(\phi\mid \psi)\ge q\), they
+are not, which is why \(P(\phi\mid \psi)\ge q\) nicely unfolds into
+another probability formula. However, \([!\psi]\phi\) does unfold too,
+but in more steps: </p> 
+
+\[[!\psi](P(\phi)\ge q) \leftrightarrow (\psi\to P([!\psi]\phi \mid \psi) \ge q).\]
+
+<p>
+For other overviews of modal probability logics and its dynamics, see
+Demey and Kooi (2014), Demey and Sack (2015), and
+ <a href="../dynamic-epistemic/appendix-L-probability.html">appendix L on probabilistic update in dynamic epistemic logic</a>
+ of the entry on 
+ <a href="../dynamic-epistemic/">dynamic epistemic logic</a>.</p>
+
+<h2 id="FirsOrdeProbLogi">5. First-order Probability Logic</h2>
+
+<p>
+In this section we will discuss first-order probability logics. As was
+explained in 
+ <a href="#CombLogiProbTheo">Section 1</a>
+ of this entry, there are many ways in
+which a logic can have probabilistic features. The models of the logic
+can have probabilistic aspects, the notion of consequence can have a
+probabilistic flavor, or the language of the logic can contain
+probabilistic operators. In this section we will focus on those
+logical operators that have a first-order flavor. The first-order
+flavor is what distinguishes these operators from the probabilistic
+modal operators of the previous section.</p>
+
+<p>
+Consider the following example from Bacchus (1990):</p>
+
+<p class="center">
+More than 75% of all birds fly.</p>
+
+<p>
+There is a straightforward probabilistic interpretation of this
+sentence, namely when one <em>randomly selects</em> a bird, then the
+probability that the selected bird flies is more than 3/4. First-order
+probabilistic operators are needed to express these sort of
+statements.</p>
+
+<p>
+There is another type of sentence, such as the following sentence
+discussed in Halpern (1990):</p>
+
+<p class="center">
+The probability that Tweety flies is greater than \(0.9\).</p>
+
+<p>
+This sentence considers the probability that Tweety (a particular
+bird) can fly. These two types of sentences are addressed by two
+different types of semantics, where the former involves probabilities
+over a domain, while the latter involves probabilities over a set of
+possible worlds that is separate from the domain.</p>
+
+<h3 id="ExamFirsOrdeProbLogi">5.1 An Example of a First-order Probability Logic</h3>
+
+<p>
+In this subsection we will have a closer look at a particular
+first-order probability logic, whose language is as simple as
+possible, in order to focus on the probabilistic quantifiers. The
+language is very much like the language of classical first-order
+logic, but rather than the familiar universal and existential
+quantifier, the language contains a probabilistic quantifier.</p>
+
+<p>
+The language is built on a set of of <em>individual variables</em>
+(denoted by \(x, y, z, x_1, x_2, \ldots\)), a set of <em>function
+symbols</em> (denoted by \(f, g, h, f_1, \ldots\)) where an arity is
+associated with each symbol (nullary function symbols are also called
+<em>individual constants</em>), and a set of <em>predicate
+letters</em> (denoted by \( R, P_1, \ldots\)) where an arity is
+associated with each symbol. The language contains two kinds of
+syntactical objects, namely <em>terms</em> and <em>formulas</em>. The
+terms are defined inductively as follows:</p>
+
+<ul>
+
+<li>
+
+<p>
+Every individual variable \(x\) is a term.</p></li>
+
+<li>
+
+<p>
+Every function symbol \(f\) of arity \(n\) followed by an \(n\)-tuple
+of terms \((t_1,\ldots,t_n)\) is a term.</p></li>
+</ul>
+
+<p>
+Given this definition of terms, the formulas are defined inductively
+as follows:</p>
+
+<ul>
+
+<li>
+
+<p>
+Every predicate letter \(R\) of arity \(n\) followed by an \(n\)-tuple
+of terms \((t_1,\ldots,t_n)\) is a formula.</p></li>
+
+<li>
+
+<p>
+If \(\phi\) is a formula, then so is \(\neg \phi\).</p></li>
+
+<li>
+
+<p>
+If \(\phi\) and \(\psi\) are formulas, then so is \((\phi \wedge
+\psi)\).</p></li>
+
+<li>
+
+<p>
+If \(\phi\) is a formula and \(q\) is a rational number in the
+interval \([0,1]\), then so is \(Px (\phi) \geq q\).</p></li>
+</ul>
+
+<p>
+Formulas of the form \(Px (\phi) \geq q\) should be read as:
+&ldquo;the probability of selecting an \(x\) such that \(x\) satisfies
+\(\phi\) is at least \(q\)&rdquo;. The formula \(Px(\phi) \leq q\) is
+an abbreviation of \(Px(\neg \phi) \geq 1-q\) and \(Px(\phi)=q\) is an
+abbreviation of \(Px(\phi) \geq q \wedge Px(\phi) \leq q\). Every free
+occurrence of \(x\) in \(\phi\) is bound by the operator.</p>
+
+<p>
+This language is interpreted on very simple first-order models, which
+are triples \(M=(D,I,P)\), where the <em>domain of discourse</em>
+\(D\) is a finite nonempty set of objects, the <em>interpretation</em>
+\(I\) associates an \(n\)-ary function on \(D\) with every \(n\)-ary
+function symbol occurring in the language, and an \(n\)-ary relation
+on \(D\) with every \(n\)-ary predicate letter. \(P\) is a
+<em>probability function</em> that assigns a probability \(P(d)\) to
+every element \(d\) in \(D\) such that \(\sum_{d \in D} P(d)=1\).</p>
+
+<p>
+In order to interpret formulas containing free variables one also
+needs an <em>assignment</em> \(g\) which assigns an element of \(D\)
+to every variable. The interpretation \([\![t]\!]_{M,g}\) of a term
+\(t\) given a model \(M=(D,I,P)\) and an assignment \(g\) is defined
+inductively as follows:</p>
+
+<ul>
+
+<li>
+
+<p>
+\([\![ x ]\!]_{M,g}=g(x)\)</p></li>
+
+<li>
+
+<p>
+\([\![ f (t_1,\ldots,t_n)]\!]_{M,g}= I(f) ([\![t_1]\!], \ldots,
+[\![t_n]\!])\)</p></li>
+</ul>
+
+<p>
+Truth is defined as a relation \(\models\) between models with
+assignments and formulas:</p>
+
+<ul>
+
+<li>
+
+<p>
+\(M,g \models R(t_1,\ldots,t_n)\) iff \(([\![t_1]\!], \ldots,
+[\![t_n]\!]) \in I(R)\)</p></li>
+
+<li>
+
+<p>
+\(M,g \models \neg \phi\) iff \(M,g \not \models \phi\)</p></li>
+
+<li>
+
+<p>
+\(M,g \models (\phi \wedge \psi)\) iff \(M,g \models \phi\) and \(M,g
+\models \psi\)</p></li>
+
+<li>
+
+<p>
+\(M,g \models Px(\phi) \geq q\) iff \(\sum_{d :M,g[x \mapsto d]
+\models \phi} P(d) \geq q\)</p></li>
+</ul>
+
+<p>
+As an example, consider a model of a vase containing nine marbles:
+five are black and four are white. Let us assume that \(P\) assigns a
+probability of 1/9 to each marble, which captures the idea that one is
+equally likely to pick any marble. Suppose the language contains a
+unary predicate \(B\) whose interpretation is the set of black
+marbles. The sentence \(Px(B(x)) = 5/9\) is true in this model
+regardless of the assignment.</p>
+
+<p>
+The logic that we just presented is too simple to capture many forms
+of reasoning about probabilities. We will discuss three extensions
+here.</p>
+
+<h4 id="QuanOverThanOneVari">5.1.1 Quantifying over More than One Variable</h4>
+
+<p>
+First of all one would like to reason about cases where more than one
+object is selected from the domain. Consider for example the
+probability of first picking a black marble, putting it back, and then
+picking a white marble from the vase. This probability is 5/9
+\(\times\) 4/9 = 20/81, but we cannot express this in the language
+above. For this we need one operator that deals with multiple
+variables simultaneously, written as \(Px_1,\ldots x_n (\phi) \geq
+q\). The semantics for such operators will then have to provide a
+probability measure on subsets of \(D^n\). The simplest way to do this
+is by simply taking the product of the probability function \(P\) on
+\(D\), which can be taken as an extension of \(P\) to tuples, where
+\(P(d_1,\ldots d_n)= P(d_1) \times \cdots \times P(d_n)\), which
+yields the following semantics:</p>
+
+<ul>
+
+<li>
+
+<p>
+\(M,g \models Px_1\ldots x_n (\phi) \geq q\) iff
+\(\sum_{(d_1,\ldots,d_n) :M,g[x_1 \mapsto d_1, \ldots, x_n \mapsto
+d_n] \models \phi} P(d_1,\ldots,d_n) \geq q\)</p></li>
+</ul>
+
+<p>
+This approach is taken by Bacchus (1990) and Halpern (1990),
+corresponding to the idea that selections are independent and with
+replacements. With these semantics the example above can be formalized
+as \(Px,y (B(x) \wedge \neg B(y))= 20/81\). There are also more
+general approaches to extending the measure on the domain to tuples
+from the domain such as by Hoover (1978) and Keisler (1985).</p>
+
+<h4 id="CondProb">5.1.2 Conditional Probability</h4>
+
+<p>
+When one considers the initial example that more than 75% of all birds
+fly, one finds that this cannot be adequately captured in a model
+where the domain contains objects that are not birds. These objects
+should not matter to what one wishes to express, but the probability
+quantifiers, quantify over the whole domain. In order to restrict
+quantification one must add conditional probability operators \(Px
+(\phi | \psi) \geq q\) with the following semantics:</p>
+
+<ul>
+
+<li>
+
+<p>
+\(M,g \models Px (\phi | \psi) \geq q\) iff if there is a \(d \in D\)
+such that \(M,g[x \mapsto d] \models \psi\) then</p> 
+
+\[
+\frac{\sum_{d :  M,g[x\mapsto d] \models \phi \wedge \psi} P(d)}
+  {\sum_{d: M,g [x \mapsto d] \models \psi} P(d)} \geq q.
+\]
+
+</li>
+</ul>
+
+<p>
+With these operators, the formula \(Px(F(x) \mid B(x)) &gt; 3/4\)
+expresses that more than 75% of all birds fly.</p>
+
+<h4 id="ProbTerm">5.1.3 Probabilities as Terms</h4>
+
+<p>
+When one wants to compare the probability of different events, say of
+selecting a black ball and selecting a white ball, it may be more
+convenient to consider probabilities to be terms in their own right.
+That is, an expression \(Px(\phi)\) is interpreted as referring to
+some rational number. Then one can extend the language with
+arithmetical operations such as addition and multiplication, and with
+operators such as equality and inequalities to compare probability
+terms. One can then say that one is twice as likely to select a black
+ball compared to a white ball as \(Px(B(x))=2 \times Px (W(x))\). Such
+an extension requires that the language contains two separate classes
+of terms: one for probabilities, numbers and the results of
+arithmetical operations on such terms, and one for the domain of
+discourse which the probabilistic operators quantify over. We will not
+present such a language and semantics in detail here. One can find
+such a system in Bacchus (1990).</p>
+
+<h3 id="PossWorlFirsOrdeProbLogi">5.2 Possible World First-order Probability Logic</h3>
+
+<p>
+In this subsection, we consider a first-order probability logic with a
+possible-world semantics (which we abbreviate FOPL). The language of
+FOPL is similar to the example we gave in
+ <a href="#ExamFirsOrdeProbLogi">Section 5.1</a>
+ related to that of
+Bacchus, except here we have full quantifier formulas of the form
+\((\forall x)\phi\) for any formula \(\phi\), and instead of
+probability formulas of the form \(Px(\phi)\ge q\), we have
+probability formulas of the form \(P(\phi)\ge q\) (similar to the
+probability formulas in propositional probability logic).</p>
+
+<p>
+The models of FOPL are of the form \(M = (W,D,I,P)\), where \(W\) is a
+set of <em>possible worlds</em>, \(D\) is a <em>domain of
+discourse</em>, \(I\) is a localized interpretation function mapping
+every \(w\in W\) to a interpretation function \(I(w)\) that associates
+to every function and predicate symbol, a function or predicate of
+appropriate arity, and \(P\) is a probability function that assign a
+probability \(P(w)\) to every \(w\) in \(W\).</p>
+
+<p>
+Similarly to the simple example before, we involve an assignment
+function \(g\) mapping each variable to an element of the domain
+\(D\). To interpret terms, for every model \(M\), world \(w\in W\),
+and assignment function \(g\), we map each term \(t\) to domain
+elements as follows:</p> 
+
+<ul>
+<li>\([\![ x ]\!]_{M,w,g} =g(x)\)</li>
+<li>\([\![ f (t_1,\ldots,t_n)]\!]_{M,w,g} = I(w)(f) ([\![t_1]\!], \ldots,  [\![t_n]\!])\)</li>
+</ul>
+
+<p>
+Truth is defined according to a relation \(\models\) between pointed
+models (models with designated worlds) with assignments and formulas
+as follows:</p>
+
+<ul>
+
+<li>
+
+<p>
+\(M,w,g \models R(t_1,\ldots,t_n)\) iff \(([\![t_1]\!], \ldots,
+[\![t_n]\!]) \in I(w)(R)\)</p></li>
+
+<li>
+
+<p>
+\(M,w,g \models \neg \phi\) iff \(M,w,g \not \models \phi\)</p></li>
+
+<li>
+
+<p>
+\(M,w,g \models (\phi \wedge \psi)\) iff \(M,w,g \models \phi\) and
+\(M,w,g \models \psi\)</p></li>
+
+<li>
+
+<p>
+\(M,w,g\models (\forall x)\varphi\) iff \(M,w,g[x/d]\models \varphi\)
+for all \(d\in D\), where \(g[x/d]\) is the same as \(g\) except that
+it maps \(x\) to \(d\).</p></li>
+
+<li>
+
+<p>
+\(M,w,g\models P(\varphi)\ge q\) iff \(P(\{w'\mid (M,w',g)\models
+\varphi\})\ge q\).</p></li>
+</ul>
+
+<p>
+As an example, consider a model where there are two possible vases: 4
+white marbles and 4 black marbles were put in both possible vases. But
+then another marble, called , was placed in the vase, but in one
+possible vase, was white, and in the other it was black. Thus in the
+end, there are two possible vases: one with 5 black marbles and 4
+white marbles, and the other with 4 black marbles and 5 white marbles.
+Suppose \(P\) assigns \(1/2\) probability to the two possible vases.
+Then \(P(B(\mathsf{last})) = 1/2\) is true for this variable
+assignment, and if any other variable assignment were chosen, the
+formula \((\exists x) P(B(x)) = 1/2\) would still be true.</p>
+
+<h3 id="Meta">5.3 Metalogic</h3>
+
+<p>
+Generally it is hard to provide proof systems for first-order
+probability logics, because the validity problem for these logics is
+generally undecidable. It is even not the case, as it is the case in
+classical first-order logic, that if an inference is valid, then one
+can find out in finite time (see Abadi and Halpern (1994)).</p>
+
+<p>
+Nonetheless there are many results for first-order probability logic.
+For instance, Hoover (1978) and Keisler (1985) study completeness
+results. Bacchus (1990) and Halpern (1990) also provide complete
+axiomatizations as well as combinations of first-order probability
+logics and possible-world first-order probability logics respectively.
+In Ognjanovi&#263; and Ra&scaron;kovi&#263; (2000), an infinitary
+complete axiomatization is given for a more general version of the
+possible-world first-order probability logic presented here.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging">
+
+<li>Abadi, M.&nbsp;and Halpern, J. Y., 1994, &ldquo;Decidability and
+Expressiveness for First-Order Logics of Probability,&rdquo;
+<em>Information and Computation</em>, 112: 1&ndash;36.</li>
+
+<li>Adams, E. W. and Levine, H. P., 1975, &ldquo;On the Uncertainties
+Transmitted from Premisses to Conclusions in Deductive
+Inferences,&rdquo; <em>Synthese</em>, 30: 429&ndash;460.</li>
+
+<li>Adams, E. W., 1998, <em>A Primer of Probability Logic</em>,
+Stanford, CA: CSLI Publications.</li>
+
+<li>Arl&oacute; Costa, H., 2005, &ldquo;Non-Adjunctive Inference and
+Classical Modalities,&rdquo; <em>Journal of Philosophical Logic</em>,
+34: 581&ndash;605.</li>
+
+<li>Bacchus, F., 1990, <em>Representing and Reasoning with
+Probabilistic Knowledge</em>, Cambridge, MA: The MIT Press.</li>
+
+<li>Baltag, A.&nbsp;and Smets, S., 2008, &ldquo;Probabilistic Dynamic
+Belief Revision,&rdquo; <em>Synthese</em>, 165: 179&ndash;202.</li>
+
+<li>van Benthem, J., 2017, &ldquo;Against all odds: when logic meets
+probability&rdquo;, in <em>ModelEd, TestEd, TrustEd. Essays Dedicated
+to Ed Brinksma on the Occasion of His 60th Birthday</em>, J.&nbsp;P.
+Katoen, R. Langerak and A. Rensink (eds.), Cham: Springer, pp.
+239&ndash;253.</li>
+
+<li>van Benthem, J., Gerbrandy, J., and Kooi, B., 2009, &ldquo;Dynamic
+Update with Probabilities,&rdquo; <em>Studia Logica</em>, 93:
+67&ndash;96.</li>
+
+<li>Boole, G., 1854, <em>An Investigation of the Laws of Thought, on
+which are Founded the Mathematical Theories of Logic and
+Probabilities</em>, London: Walton and Maberly.</li>
+
+<li>Burgess, J., 1969, &ldquo;Probability Logic,&rdquo; <em>Journal of
+Symbolic Logic</em>, 34: 264&ndash;274.</li>
+
+<li>Carnap, R., 1950, <em>Logical Foundations of Probability</em>,
+Chicago, IL: University of Chicago Press.</li>
+
+<li>Cross, C., 1993, &ldquo;From Worlds to Probabilities: A
+Probabilistic Semantics for Modal Logic,&rdquo; <em>Journal of
+Philosophical Logic</em>, 22: 169&ndash;192.</li>
+
+<li>Delgrande, J.&nbsp;and Renne, B., 2015, &ldquo;The Logic of
+Qualitative Probability,&rdquo; in <em>Proceedings of the
+Twenty-Fourth International Joint Conference on Artificial
+Intelligence (IJCAI 2015)</em>, Q. Yang and M. Wooldridge (eds.), Palo
+Alto, CA: AAAI Press, pp. 2904&ndash;2910.</li>
+
+<li>Delgrande, J., Renne, B., and Sack, J., 2019, &ldquo;The logic of
+qualitative probability,&rdquo; <em>Artificial Intelligence</em>, 275:
+457&ndash;486.</li>
+
+<li>Delgrande, J., Sack, J., Lakemeyer, G., and Pagnucco, M., 2022,
+&ldquo;Epistemic Logic of Likelihood and Belief,&rdquo; in
+<em>Proceedings of the Thirty-First International Joint Conference on
+Artificial Intelligence</em> (IJCAI-22), published by the
+International Joint Conferences on Artificial Intelligence,
+pp. 2599&ndash;2605.
+ [<a href="https://www.ijcai.org/proceedings/2022/0360.pdf" target="other">Delgrande et al. 2022 available online</a> </li>
+
+<li>Demey, L.&nbsp;and Kooi, B., 2014, &ldquo;Logic and Probabilistic
+Update,&rdquo; in A. Baltag and S. Smets (eds.), <em>Johan van Benthem
+on Logic and Information Dynamics</em>, pp. 381&ndash;404.</li>
+
+<li>Demey, L.&nbsp;and Sack, J., 2015, &ldquo;Epistemic Probabilistic
+Logic,&rdquo; in the <em>Handbook of Epistemic Logic</em>. H. van
+Ditmarsch, J. Halpern, W. van der Hoek and B. Kooi (eds.), London:
+College Publications, pp. 147&ndash;202.</li>
+
+<li>Dempster, A., 1968, &ldquo;A Generalization of Bayesian
+Inference,&rdquo; <em>Journal of the Royal Statistical Society</em>,
+30: 205&ndash;247.</li>
+
+<li>De Morgan, A., 1847, <em>Formal Logic</em>, London: Taylor and
+Walton.</li>
+
+<li>de Finetti, B., 1937, &ldquo;La Pr&eacute;vision: Ses Lois
+Logiques, Ses Sources Subjectives&rdquo;, <em>Annales de
+l&rsquo;Institut Henri Poincar&eacute;</em>, 7: 1&ndash;68; translated
+as &ldquo;Foresight. Its Logical Laws, Its Subjective Sources,&rdquo;
+in <em>Studies in Subjective Probability</em>, H. E. Kyburg, Jr. and
+H. E. Smokler (eds.), Malabar, FL: R. E. Krieger Publishing Company,
+1980, pp. 53&ndash;118.</li>
+
+<li>Douven, I. and Rott, H., 2018, &ldquo;From probabilities to
+categorical beliefs: Going beyond toy models,&rdquo; <em>Journal of
+Logic and Computation</em>, 28: 1099&ndash;1124.</li>
+
+<li>Eagle, A., 2010, <em>Philosophy of Probability: Contemporary
+Readings</em>, London: Routledge.</li>
+
+<li>Fagin, R. and Halpern, J. Y., 1988, &ldquo;Reasoning about
+Knowledge and Probability,&rdquo; in <em>Proceedings of the 2nd
+conference on Theoretical aspects of reasoning about knowledge</em>,
+M. Y. Vardi (ed.), Pacific Grove, CA: Morgan Kaufmann, pp.
+277&ndash;293.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994, &ldquo;Reasoning about Knowledge and
+Probability,&rdquo; <em>Journal of the ACM</em>, 41:
+340&ndash;367.</li>
+
+<li>Fagin, R., Halpern, J. Y., and Megiddo, N., 1990, &ldquo;A Logic
+for Reasoning about Probabilities,&rdquo; <em>Information and
+Computation</em>, 87: 78&ndash;128.</li>
+
+<li>Fitelson, B., 2006, &ldquo;Inductive Logic,&rdquo; in <em>The
+Philosophy of Science: An Encyclopedia</em>, J. Pfeifer and S. Sarkar
+(eds.), New York, NY: Routledge, pp. 384&ndash;394.</li>
+
+<li>van Fraassen, B., 1981a, &ldquo;A Problem for Relative Information
+Minimizers in Probability Kinematics,&rdquo; <em>British Journal for
+the Philosophy of Science</em>, 32:375&ndash;379.</li>
+
+<li>&ndash;&ndash;&ndash;, 1981b, &ldquo;Probabilistic Semantics
+Objectified: I. Postulates and Logics,&rdquo; <em>Journal of
+Philosophical Logic</em>, 10: 371&ndash;391.</li>
+
+<li>&ndash;&ndash;&ndash;, 1983, &ldquo;Gentlemen&rsquo;s Wagers:
+Relevant Logic and Probability,&rdquo; <em>Philosophical Studies</em>,
+43: 47&ndash;61.</li>
+
+<li>&ndash;&ndash;&ndash;, 1984, &ldquo;Belief and the Will,&rdquo;
+<em>Journal of Philosophy</em>, 81: 235&ndash;256.</li>
+
+<li>G&auml;rdenfors, P., 1975a, &ldquo;Qualitative Probability as an
+Intensional Logic,&rdquo; <em>Journal of Philosophical Logic</em>, 4:
+171&ndash;185.</li>
+
+<li>&ndash;&ndash;&ndash;, 1975b, &ldquo;Some Basic Theorems of
+Qualitative Probability,&rdquo; <em>Studia Logica</em>, 34:
+257&ndash;264.</li>
+
+<li>Georgakopoulos, G., Kavvadias, D., and Papadimitriou, C. H., 1988,
+&ldquo;Probabilistic Satisfiability,&rdquo; <em>Journal of
+Complexity</em>, 4: 1&ndash;11.</li>
+
+<li>Gerla, G., 1994, &ldquo;Inferences in Probability Logic,&rdquo;
+<em>Aritificial Intelligence</em>, 70: 33&ndash;52.</li>
+
+<li>Gillies, D., 2000, <em>Philosophical Theories of Probability</em>,
+London: Routledge.</li>
+
+<li>Goldblatt, R. (2010) &ldquo;Deduction systems for coalgebras over
+measurable spaces.&rdquo; <em>Journal of Logic and Computation</em>
+20(5): 1069&ndash;1100</li>
+
+<li>Goldman, A. J. and Tucker, A. W., 1956, &ldquo;Theory of Linear
+Programming,&rdquo; in <em>Linear Inequalities and Related Systems.
+Annals of Mathematics Studies 38</em>, H. W. Kuhn and A. W. Tucker
+(eds.), Princeton: Princeton University Press, pp. 53&ndash;98.</li>
+
+<li>Goosens, W. K., 1979, &ldquo;Alternative Axiomatizations of
+Elementary Probability Theory,&rdquo; <em>Notre Dame Journal of Formal
+Logic</em>, 20: 227&ndash;239.</li>
+
+<li>H&aacute;jek, A., 2001, &ldquo;Probability, Logic, and Probability
+Logic,&rdquo; in <em>The Blackwell Guide to Philosophical Logic</em>,
+L. Goble (ed.), Oxford: Blackwell, pp. 362&ndash;384.</li>
+
+<li>H&aacute;jek, A. and Hartmann, S., 2010, &ldquo;Bayesian
+Epistemology,&rdquo; in <em>A Companion to Epistemology</em>, J.
+Dancy, E. Sosa, and M. Steup (eds.), Oxford: Blackwell, pp.
+93&ndash;106.</li>
+
+<li>Haenni, R. and Lehmann, N., 2003, &ldquo;Probabilistic
+Argumentation Systems: a New Perspective on Dempster-Shafer
+Theory,&rdquo; <em>International Journal of Intelligent Systems</em>,
+18: 93&ndash;106.</li>
+
+<li>Haenni, R., Romeijn, J.-W., Wheeler, G., and Williamson, J., 2011,
+<em>Probabilistic Logics and Probabilistic Networks</em>, Dordrecht:
+Springer.</li>
+
+<li>Hailperin, T., 1965, &ldquo;Best Possible Inequalities for the
+Probability of a Logical Function of Events,&rdquo; <em>American
+Mathematical Monthly</em>, 72: 343&ndash;359.</li>
+
+<li>&ndash;&ndash;&ndash;, 1984, &ldquo;Probability Logic,&rdquo;
+<em>Notre Dame Journal of Formal Logic</em>, 25: 198&ndash;212.</li>
+
+<li>&ndash;&ndash;&ndash;, 1986, <em>Boole&rsquo;s Logic and
+Probability</em>, Amsterdam: North-Holland.</li>
+
+<li>&ndash;&ndash;&ndash;, 1996, <em>Sentential Probability Logic:
+Origins, Development, Current Status, and Technical Applications</em>,
+Bethlehem, PA: Lehigh University Press.</li>
+
+<li>Halpern, J. Y. and Rabin, M. O., 1987, &ldquo;A Logic to Reason
+about Likelihood&rdquo;, <em>Artificial Intelligence</em>, 32:
+379&ndash;405.</li>
+
+<li>Halpern, J. Y., 1990, &ldquo;An analysis of first-order logics of
+probability&rdquo;, <em>Artificial Intelligence</em>, 46:
+311&ndash;350.</li>
+
+<li>&ndash;&ndash;&ndash;, 1991, &ldquo;The Relationship between
+Knowledge, Belief, and Certainty,&rdquo; <em>Annals of Mathematics and
+Artificial Intelligence</em>, 4: 301&ndash;322. Errata appeared in
+<em>Annals of Mathematics and Artificial Intelligence</em>, 26 (1999):
+59&ndash;61.</li>
+
+<li>&ndash;&ndash;&ndash;, 2003, <em>Reasoning about Uncertainty</em>,
+Cambridge, MA: The MIT Press.</li>
+
+<li>Hamblin, C.L., 1959, &ldquo;The modal
+&lsquo;probably&rsquo;&rdquo;, <em>Mind</em>, 68: 234&ndash;240.</li>
+
+<li>Hansen, P.&nbsp;and Jaumard, B., 2000, &ldquo;Probabilistic
+Satisfiability,&rdquo; in <em>Handbook of Defeasible Reasoning and
+Uncertainty Management Systems. Volume 5: Algorithms for Uncertainty
+and Defeasible Reasoning</em>, J. Kohlas and S. Moral (eds.),
+Dordrecht: Kluwer, pp. 321&ndash;367.</li>
+
+<li>Harrison-Trainor M., Holliday, W.&nbsp;H., and Icard, T., 2016,
+&ldquo;A note on cancellation axioms for comparative
+probability&rdquo;, <em>Theory and Decision</em>, 80:
+159&ndash;166.</li>
+
+<li>&ndash;&ndash;&ndash;, 2018, &ldquo;Inferring probability
+comparisons&rdquo;, <em>Mathematical Social Sciences</em>, 91:
+62&ndash;70.</li>
+
+<li>Hartmann, S. and Sprenger J., 2010, &ldquo;Bayesian
+Epistemology,&rdquo; in <em>Routledge Companion to Epistemology</em>,
+S. Bernecker and D. Pritchard (eds.), London: Routledge, pp.
+609&ndash;620.</li>
+
+<li>Heifetz, A. and Mongin, P., 2001, &ldquo;Probability Logic for
+Type Spaces&rdquo;, <em>Games and Economic Behavior</em>, 35:
+31&ndash;53.</li>
+
+<li>Herzig, A.&nbsp;and Longin, D., 2003, &ldquo;On Modal Probability
+and Belief,&rdquo; in <em>Proceedings of the 7th European Conference
+on Symbolic and Quantitative Approaches to Reasoning with Uncertainty
+(ECSQARU 2003)</em>, T.D. Nielsen and N.L. Zhang (eds.), Lecture Notes
+in Computer Science 2711, Berlin: Springer, pp. 62&ndash;73.</li>
+
+<li>Hoover, D. N., 1978, &ldquo;Probability Logic,&rdquo; <em>Annals
+of Mathematical Logic</em>, 14: 287&ndash;313.</li>
+
+<li>Howson, C., 2003, &ldquo;Probability and Logic,&rdquo; <em>Journal
+of Applied Logic</em>, 1: 151&ndash;165.</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Logic with Numbers,&rdquo;
+<em>Synthese</em>, 156: 491&ndash;512.</li>
+
+<li>&ndash;&ndash;&ndash;, 2009, &ldquo;Can Logic be Combined with
+Probability? Probably,&rdquo; <em>Journal of Applied Logic</em>, 7:
+177&ndash;187.</li>
+
+<li>Ili&#263;-Stepi&#263;, Ognjanovi&#263;, Z., Ikodinovi&#263;, N.,
+Perovi&#263;, A., (2012), &ldquo;A \(p\)-adic probability
+logic,&rdquo; <em>Mathematical Logic Quarterly</em> 58(4&ndash;5):
+63&ndash;280.</li>
+
+<li>Jaynes, E. T., 2003, <em>Probability Theory: The Logic of
+Science</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Jeffrey, R., 1992, <em>Probability and the Art of Judgement</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>Jonsson, B., Larsen, K., and Yi, W., 2001 &ldquo;Probabilistic
+Extensions of Process Algebras,&rdquo; in <em>Handbook of Process
+Algebra</em>, J. A. Bergstra, A. Ponse, and S. A. Smolka (eds.),
+Amsterdam: Elsevier, pp. 685&ndash;710.</li>
+
+<li>Kavvadias, D.&nbsp;and Papadimitriou, C. H., 1990, &ldquo;A Linear
+Programming Approach to Reasoning about Probabilities,&rdquo;
+<em>Annals of Mathematics and Artificial Intelligence</em>, 1:
+189&ndash;205.</li>
+
+<li>Keisler, H. J., 1985, &ldquo;Probability Quantifiers,&rdquo; in
+<em>Model-Theoretic Logics</em>, J.&nbsp;Barwise and S.&nbsp;Feferman
+(eds.), New York, NY: Springer, pp. 509&ndash;556.</li>
+
+<li>Kooi B. P., 2003, &ldquo;Probabilistic Dynamic Epistemic
+Logic,&rdquo; <em>Journal of Logic, Language and Information</em>, 12:
+381&ndash;408.</li>
+
+<li>Kraft, C.&nbsp;H., Pratt, J.&nbsp;W., and Seidenberg, A., 1959,
+&ldquo;Intuitive Probability on Finite Sets,&rdquo; <em>Annals of
+Mathematical Statistics</em>, 30: 408&ndash;419.</li>
+
+<li>Kyburg, H. E., 1965, &ldquo;Probability, Rationality, and the Rule
+of Detachment,&rdquo; in <em>Proceedings of the 1964 International
+Congress for Logic, Methodology, and Philosophy of Science</em>, Y.
+Bar-Hillel (ed.), Amsterdam: North-Holland, pp. 301&ndash;310.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994, &ldquo;Uncertainty Logics, &rdquo; in
+<em>Handbook of Logic in Artificial Intelligence and Logic
+Programming</em>, D. M. Gabbay, C. J. Hogger, and J. A. Robinson
+(eds.), Oxford: Oxford University Press, pp. 397&ndash;438.</li>
+
+<li>Larsen, K.&nbsp;and Skou, A., 1991, &ldquo;Bisimulation through
+Probabilistic Testing,&rdquo; <em>Information and Computation</em>,
+94: 1&ndash;28.</li>
+
+<li>Leblanc, H., 1979, &ldquo;Probabilistic Semantics for First-Order
+Logic,&rdquo; <em>Zeitschrift f&uuml;r mathematische Logik und
+Grundlagen der Mathematik</em>, 25: 497&ndash;509.</li>
+
+<li>&ndash;&ndash;&ndash;, 1983, &ldquo;Alternatives to Standard
+First-Order Semantics,&rdquo; in <em>Handbook of Philosophical Logic,
+Volume I</em>, D. Gabbay and F. Guenthner (eds.), Dordrecht: Reidel,
+pp. 189&ndash;274.</li>
+
+<li>Leitgeb, H., 2013, &ldquo;Reducing belief simpliciter to degrees
+of belief,&rdquo; <em>Annals of Pure and Applied Logic</em>, 164:
+1338&ndash;1389.</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;The stability theory of
+belief,&rdquo; <em>Philosophical Review</em>, 123: 131&ndash;171.</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, <em>The Stability of Belief. How
+Rational Belief Coheres with Probability</em>, Oxford: Oxford
+University Press.</li>
+
+<li>Leitgeb, H., 2013, &ldquo;Reducing Belief Simpliciter to Degrees
+of Belief,&rdquo; <em>Annals of Pure and Applied Logic</em>, 164:
+1338&ndash;1389.</li>
+
+<li>Lewis, D., 1980, &ldquo;A Subjectivist&rsquo;s Guide to Objective
+Chance,&rdquo; in <em>Studies in Inductive Logic and Probability.
+Volume 2</em>, R. C. Jeffrey (ed.), Berkeley, CA: University of
+California Press, pp. 263&ndash;293; reprinted in <em>Philosophical
+Papers. Volume II</em>, Oxford: Oxford University Press, 1987, pp.
+83&ndash;113.</li>
+
+<li>Lin, H. and Kelly, K.&nbsp;T., 2012a, &ldquo;A geo-logical
+solution to the lottery paradox, with applications to conditional
+logic,&rdquo; <em>Synthese</em>, 186: 531&ndash;575.</li>
+
+<li>&ndash;&ndash;&ndash;, 2012b, &ldquo;Propositional reasoning that
+tracks probabilistic reasoning,&rdquo; <em>Journal of Philosophical
+Logic</em>, 41: 957&ndash;981.</li>
+
+<li>Miller, D., 1966, &ldquo;A Paradox of Information,&rdquo;
+<em>British Journal for the Philosophy of Science</em>, 17:
+59&ndash;61.</li>
+
+<li>Morgan, C., 1982a, &ldquo;There is a Probabilistic Semantics for
+Every Extension of Classical Sentence Logic,&rdquo; <em>Journal of
+Philosophical Logic</em>, 11: 431&ndash;442.</li>
+
+<li>&ndash;&ndash;&ndash;, 1982b, &ldquo;Simple Probabilistic
+Semantics for Propositional K, T, B, S4, and S5,&rdquo; <em>Journal of
+Philosophical Logic</em>, 11: 443&ndash;458.</li>
+
+<li>&ndash;&ndash;&ndash;, 1983, &ldquo;Probabilistic Semantics for
+Propositional Modal Logics&rdquo;. in <em>Essays in Epistemology and
+Semantics</em>, H. Leblanc, R. Gumb, and R. Stern (eds.), New York,
+NY: Haven Publications, pp. 97&ndash;116.</li>
+
+<li>Morgan, C. and Leblanc, H., 1983, &ldquo;Probabilistic Semantics
+for Intuitionistic Logic,&rdquo; <em>Notre Dame Journal of Formal
+Logic</em>, 24: 161&ndash;180.</li>
+
+<li>Nilsson, N., 1986, &ldquo;Probabilistic Logic,&rdquo;
+<em>Artificial Intelligence</em>, 28: 71&ndash;87.</li>
+
+<li>&ndash;&ndash;&ndash;, 1993, &ldquo;Probabilistic Logic
+Revisited,&rdquo; <em>Artificial Intelligence</em>, 59:
+39&ndash;42.</li>
+
+<li>Ognjanovi&#263;, Z.&nbsp;and Ra&scaron;kovi&#263;, M., 1999,
+&ldquo;Some probability logics with new types of probability
+operators,&rdquo; <em>Journal of Logic and Computation</em> 9 (2):
+181&ndash;195.</li>
+
+<li>Ognjanovi&#263;, Z.&nbsp;and Ra&scaron;kovi&#263;, M., 2000,
+&ldquo;Some first-order probability logics,&rdquo; <em>Theoretical
+Computer Science</em> 247 (1&ndash;2): 191&ndash;212.</li>
+
+<li>Ognjanovi&#263;, Z., Ra&scaron;kovi&#263;, M., and Markovi&#263;,
+Z., 2016, <em>Probability Logics: Probability-Based Formalization of
+Uncertain Reasoning</em>, Springer International Publishing AG.</li>
+
+<li>Ognjanovi&#263;, Z., Perovi&#263;, A.,&nbsp;and
+Ra&scaron;kovi&#263;, M., 2008, &ldquo;Logics with the Qualitative
+Probability Operator,&rdquo; <em>Logic Journal of the IGPL</em> 16
+(2): 105&ndash;120.</li>
+
+<li>Paris, J. B., 1994, <em>The Uncertain Reasoner&rsquo;s Companion,
+A Mathematical Perspective</em>, Cambridge: Cambridge University
+Press.</li>
+
+<li>Parma, A. and Segala, R., 2007, &ldquo;Logical Characterizations
+of Bisimulations for Discrete Probabilistic Systems,&rdquo; in
+<em>Proceedings of the 10th International Conference on Foundations of
+Software Science and Computational Structures (FOSSACS)</em>, H. Seidl
+(ed.), Lecture Notes in Computer Science 4423, Berlin: Springer, pp.
+287&ndash;301.</li>
+
+<li>Pearl, J., 1991, &ldquo;Probabilistic Semantics for Nonmonotonic
+Reasoning,&rdquo; in <em>Philosophy and AI: Essays at the
+Interface</em>, R. Cummins and J. Pollock (eds.), Cambridge, MA: The
+MIT Press, pp. 157&ndash;188.</li>
+
+<li>Perovi&#263;, A., Ognjanovi&#263;, Z., Ra&scaron;kovi&#263;, M.,
+Markovi&#263;, Z., 2008, &ldquo;A probabilistic logic with polynomial
+weight formulas&rdquo;. In Hartmann, S., Kern-Isberner, G. (eds.)
+<em>Proceedings of the Fifth International Symposium Foundations of
+Information and Knowledge Systems</em>, FoIKS 2008, Pisa, Italy,
+11&ndash;15 February 2008. <em>Lecture Notes in Computer Science</em>,
+vol. 4932, pp. 239&ndash;252. Springer.</li>
+
+<li>Ramsey, F. P., 1926, &ldquo;Truth and Probability&rdquo;, in
+<em>Foundations of Mathematics and other Essays</em>, R. B.
+Braithwaite (ed.), London: Routledge and Kegan Paul, 1931, pp.
+156&ndash;198; reprinted in <em>Studies in Subjective
+Probability</em>, H. E. Kyburg, Jr. and H. E. Smokler (eds.), 2nd ed.,
+Malabar, FL: R. E. Krieger Publishing Company, 1980, pp. 23&ndash;52;
+reprinted in <em>Philosophical Papers</em>, D. H. Mellor (ed.)
+Cambridge: Cambridge University Press, 1990, pp. 52&ndash;94.</li>
+
+<li>Reichenbach, H., 1949, <em>The Theory of Probability</em>,
+Berkeley, CA: University of California Press.</li>
+
+<li>Romeijn, J.-W., 2011, &ldquo;Statistics as Inductive Logic,&rdquo;
+in <em>Handbook for the Philosophy of Science. Vol. 7: Philosophy of
+Statistics</em>, P. Bandyopadhyay and M. Forster (eds.), Amsterdam:
+Elsevier, pp. 751&ndash;774.</li>
+
+<li>Scott, D., 1964, &ldquo;Measurement Structures and Linear
+Inequalities,&rdquo; <em>Journal of Mathematical Psychology</em>, 1:
+233&ndash;247.</li>
+
+<li>Segerberg, K., 1971, &ldquo;Qualitative Probability in a Modal
+Setting&rdquo;, in <em>Proceedings 2nd Scandinavian Logic
+Symposium</em>, E. Fenstad (ed.), Amsterdam: North-Holland, pp.
+341&ndash;352.</li>
+
+<li>Shafer, G., 1976, <em>A Mathematical Theory of Evidence</em>,
+Princeton, NJ: Princeton University Press.</li>
+
+<li>Suppes, P., 1966, &ldquo;Probabilistic Inference and the Concept
+of Total Evidence,&rdquo; in <em>Aspects of Inductive Logic</em>, J.
+Hintikka and P. Suppes (eds.), Amsterdam: Elsevier, pp.
+49&ndash;65.</li>
+
+<li>Szolovits, P. and Pauker S.G., 1978, &ldquo;Categorical and
+Probabilistic Reasoning in Medical Diagnosis,&rdquo; <em>Artificial
+Intelligence</em>, 11: 115&ndash;144.</li>
+
+<li>Tarski, A., 1936, &ldquo;Wahrscheinlichkeitslehre und mehrwertige
+Logik&rdquo;, <em>Erkenntnis</em>, 5: 174&ndash;175.</li>
+
+<li>Vennekens, J., Denecker, M., and Bruynooghe, M., 2009,
+&ldquo;CP-logic: A Language of Causal Probabilistic Events and its
+Relation to Logic Programming,&rdquo; <em>Theory and Practice of Logic
+Programming</em>, 9: 245&ndash;308.</li>
+
+<li>Walley, P., 1991, <em>Statistical Reasoning with Imprecise
+Probabilities</em>, London: Chapman and Hall.</li>
+
+<li>Williamson, J., 2002, &ldquo;Probability Logic,&rdquo; in
+<em>Handbook of the Logic of Argument and Inference: the Turn Toward
+the Practical</em>, D. Gabbay, R. Johnson, H. J. Ohlbach, and J. Woods
+(eds.), Amsterdam: Elsevier, pp. 397&ndash;424.</li>
+
+<li>Yalcin, S., 2010, &ldquo;Probability Operators,&rdquo;
+<em>Philosophy Compass</em>, 5: 916&ndash;937.</li>
+</ul>
+</div> 
+
+
+<div id="academic-tools">
+
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-probability" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/logic-probability/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=logic-probability&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="http://philpapers.org/sep/logic-probability/" target="other">Enhanced bibliography for this entry</a>
+at <a href="http://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<p>[Please contact the author with suggestions.]</p>
+
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../bayes-theorem/">Bayes&rsquo; Theorem</a> |
+ <a href="../formal-belief/">belief, formal representations of</a> |
+ <a href="../conditionals/">conditionals</a> |
+ <a href="../epistemology-bayesian/">epistemology: Bayesian</a> |
+ <a href="../induction-problem/">induction: problem of</a> |
+ <a href="../logic-conditionals/">logic: conditionals</a> |
+ <a href="../logic-fuzzy/">logic: fuzzy</a> |
+ <a href="../logic-inductive/">logic: inductive</a> |
+ <a href="../imprecise-probabilities/">probabilities, imprecise</a> |
+ <a href="../probability-interpret/">probability, interpretations of</a> |
+ <a href="../qt-quantlog/">quantum theory: quantum logic and probability theory</a> |
+ <a href="../reasoning-defeasible/">reasoning: defeasible</a>
+
+</p>
+
+</div>
+
+<div id="acknowledgments">
+
+<h3>Acknowledgments</h3>
+
+<p>
+We would like to thank Johan van Benthem, Joe Halpern, Jan Heylen,
+Jan-Willem Romeijn and the anonymous referees for their comments on
+this entry.</p>
+</div> 
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://sites.google.com/site/lorenzdemey/" target="other">Lorenz Demey</a>
+<br />
+<a href="https://www.rug.nl/staff/b.p.kooi/" target="other">Barteld Kooi</a>
+<br />
+<a href="http://www.joshuasack.info/" target="other">Joshua Sack</a>
+&lt;<a href="m&#97;ilto:joshua&#37;2esack&#37;40gmail&#37;2ecom"><em>joshua<abbr title=" dot ">&#46;</abbr>sack<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

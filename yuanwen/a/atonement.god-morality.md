@@ -1,0 +1,15 @@
+# atonement — god-morality（supplement）
+
+> （《atonement》词条补充材料，源：plato.stanford.edu/entries/atonement/god-morality.html）
+
+#### Supplement to Atonement
+
+## Atonement, God, and Morality
+
+Atoning to God for human sin and atoning to humans for wronging them are linked more tightly than simply being different instances of atonement. As mentioned in section 3, atoning to God will often involve atoning to human victims of one’s sins since one wrongs God by wronging God’s children.
+
+Some have argued that there is another connection: divine assistance in atonement helps explain certain features of the moral life. Humans find it difficult to consistently do what is right and treat people with the respect and love they deserve. Consequently, we often wrong each other. But humans seem to find atoning for their wrongs even more difficult than simply doing the right thing to start with. Living with having been wronged, without adequate—or often any—atonement is a common human experience. Not only is this distressing in itself, but it creates one aspect of what Hare (1996) calls the moral gap. The moral gap is the gap between what morality demands (and what some at least possible being could achieve) and what natural human abilities are capable of: morality demands more than we, on our own natural capacities, are able to reliably achieve. This leads to a persistent sense of failure and guilt, which in turn leads us to be motivated to avoid guilt rather than to embrace the good which seems too often above our reach. It also leads us to reasonably doubt whether doing what is right will lead to our happiness. Two problems ensue: a practical problem of one’s motivation to be moral being sapped, and a theoretical problem of one’s motivation to be moral being inadequately justifiable.
+
+Kant famously solves these problems by arguing that humans need to have moral faith that God exists and that there is an afterlife, so that humans can act on hope that happiness will be rewarded in proportion to their virtue (Kant 1793; Hare 1996; R. Adams 1987). Hare (1996) draws on a participation/collective responsibility approach to atonement to argue that Christ’s atonement for human sin draws humans who follow Christ into union with him and that union gives them moral strength/transformation and hope that virtue and happiness will meet. One of the things humans need greater strength and increased opportunity to do is atone for their sins against fellow humans. Christianity and other theisms that posit an afterlife can offer both (Thurow 2017a).
+
+Human moral failings at atoning may thus perhaps be used as grounds for moral argument for the existence of a God such as the Christian God: belief in the existence of such a being has the advantage of bridging the moral gap and thus avoiding both problems resulting from the gap—an advantage that many other views lack (Hare 1996; 2005; 2011; see Nichols 2004 for a reply). Setting aside such an argument, some theories of Christian atonement might gain support over others by providing resources to bridge the moral gap resulting from human moral failings at atoning.

@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Proof Theory &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/proof-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/proof-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Proof Theory</a></h2>
+
+<div class="footnotes">
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ The evolution of this methodological perspective to formal axiomatics
+is described in
+ <a href="appendix-a.html">Appendix A</a>.</p>
+ </div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ The term &ldquo;finit&rdquo; is used without much explanation; one is
+led to think that it was a thoroughly familiar one. Indeed, the 1919
+article by Bernstein calls &ldquo;finit&rdquo; all considerations that
+have a constructive feature, from Kronecker through Poincar&eacute; to
+Brouwer. It is obviously used also to emphasize the contrast with
+&ldquo;transfinit&rdquo;. The term was also prominently used by Weyl
+in <em>Das Kontinuum</em> (1918).</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+  <em>Primitive recursion</em> is given by the
+equations </p> 
+
+\[f(x_1,\ldots, x_n,0)=g(x_1,\ldots,x_n)\] 
+
+<p>
+and </p> 
+
+\[f(x_1,\ldots,x_n,S(x))=h(x_1,\ldots,x_n,f(x_1,\ldots,x_n,x),x)\]
+
+<p>
+where <i>S</i> is the successor function and <i>g</i>, <i>h</i> are
+previously defined primitive recursive functions. The class of
+primitive recursive functions is obtained from the constant 0
+function, <i>S</i> and the projection functions
+\(P^i_n(x_1,\ldots,x_n)=x_i\) by closure under composition and the
+above recursion schema.</p>
+
+<p>
+The language of <strong>PRA</strong> has the equality symbol = and function symbols for all primitive recursive functions. The axioms of <strong>PRA</strong> consist of the defining equations for the primitive recursive functions and the induction scheme
+
+ \[
+{A(0)} \land {\forall x[A(x)\to A(Sx)]\to \forall x A(x)}
+\]
+for atomic formulas \(A(x)\). Note that atomic formulas \(A(x)\) of <strong>PRA</strong> are of the form \(t_1(x)=t_2(x)\) for terms \(t_1(x)\) and \(t_2(x)\).</p>
+</div>
+
+
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ Many contemporary writers consider Hilbert 1922 as the beginning of
+Hilbert&rsquo;s finitist program; see, for example, Franks 2009. However, Hilbert&rsquo;s
+paper is split into two parts, according to the editors of the third
+volume of Hilbert&rsquo;s <em>Gesammelte Abhandlungen</em> in which it
+was republished: the first part stems from the older considerations
+that go back to the Heidelberg talk (Hilbert 1905); see
+ <a href="appendix-a.html#FormProo">appendix A.3</a>.
+ In the second part a new direction is taken that involves a
+significantly expanded formal theory; however, the theory is by design
+&ldquo;constructive&rdquo;, as negation is applied only to equations.
+A consistency proof for this expanded theory is not presented and
+could not be obtained by the old techniques; the result, when suitably
+restricted as the Editors of the volume suggest, can be obtained by
+the methods introduced in early 1922. It is only then that the
+finitist standpoint is taken.</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ There is a delicate evolution from &ldquo;tau&rdquo; to
+&ldquo;epsilon&rdquo; that can be followed in Ewald and Sieg 2013;
+here we use directly the epsilon terms.</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ The so-called \(\varepsilon\)-substitution method has been
+re-invigorated by work of Tait and Mints; a broad survey is given in
+Avigad and Zach 2007.</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ The Ackermann function was included among Herbrand&rsquo;s finitist
+functions. At this point, the system <b>F</b> was not
+&ldquo;identified&rdquo; with <strong>PRA</strong>.</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ See, for detailed discussion, mathematical analysis and additional
+references, Tait 2002 and Feferman &amp; Strahm 2010. A penetrating
+explication of the finitist standpoint taken by Hilbert and Bernays is
+given in Ravaglia 2003.</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ Hilbert&rsquo;s considerations are analyzed in Sieg 2012 (section 5)
+and are also discussed in Hallett 2013.</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ For the close connections between Hilbert&rsquo;s proposal and
+Gentzen&rsquo;s attempt to mould it into a consistency proof, see
+section 6 of Sieg 2012. The work in Gentzen&rsquo;s
+&ldquo;Urdissertation&rdquo; is described in von Plato 2008 and
+2009.</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ For instance through an ordinal analysis as explained in
+ <a href="index.html#PO">Definition 3.4</a>.</p>
+ </div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ For a detailed descriptions of natural deduction calculi see Prawitz
+1965 or Troelstra &amp; Schwichtenberg 2000. To achieve a more
+symmetric treatment of negation one can replace in the above axiomatic
+formulation the <em>principle of double negation</em> by the axiom
+\((B\land\neg B)\to A\) (to obtain intuitionist logic) and by the axiom
+\((\neg A\to (B\land\neg B))\to A\) (to obtain classical logic).</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ The <em>Hauptsatz</em> states informally, according to Gentzen (1934/35:
+177), that every purely
+logical proof can be transformed into a certain, by no means unique,
+normal form. One of the essential properties of such normal proofs is
+expressed by: &ldquo;It does not make detours&rdquo;.</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ Though the crucial paper was published only in 1958, the central
+ideas of the &ldquo;Dialectica Interpreation&rdquo; go back to
+lectures G&ouml;del presented at Yale in April of 1941. See G&ouml;del
+1942 in volume III of his
+<em>Collected Works</em>.</p>
+</div>
+
+<div id="note-15">
+  <!-- was 16 -->
+
+<p>
+ <a href="index.html#ref-15">15.</a>
+ Both Brouwer (1927) and Zermelo (1932), from dramatically different
+foundational perspectives, considered infinite proofs. Indeed, Brouwer
+asserted concerning his infinite proofs: </p>
+
+<blockquote>
+<p>
+These mental mathematical proofs that in general contain infinitely
+many terms must not be confused with their linguistic accompaniments,
+which are finite and necessarily inadequate, hence do not belong to
+mathematics. (Brouwer 1927: 460, note 8).</p>
+</blockquote>
+
+<p>
+He added that this remark contains his &ldquo;main argument against
+the claims of Hilbert&rsquo;s metamathematics&rdquo;.</p>
+</div>
+
+<div id="note-16">
+  <!-- was 18 -->
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ &ldquo;Because of G&ouml;del&rsquo;s result consistency proofs now
+require a method that is finite (or constructive) but which is
+nevertheless very strong when formalized. People think this is
+impossible or at least unlikely and extremely difficult. The situation
+is somewhat similar to that of finding a new axiom that carries
+conviction and decides the continuum hypothesis&rdquo;. (Takeuti 1975:
+366)</p>
+</div>
+
+<div id="note-17">
+  <!-- was 19 -->
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ Terms have to be of appropriate type, e.g., in (2) below, <i>t</i>
+and <i>r</i> have to be of type 0 while in (3) <i>s</i> and <i>t</i>
+have to be of type \(\sigma\) and \(\tau\), respectively. The required
+typing should always be clear from the context.</p>
+</div>
+
+<div id="note-18">
+  <!-- was 20 -->
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ &ldquo;Having proposed the fundamental conjecture, I concentrated on
+its proof and spent several years in an anguished struggle trying to
+resolve the problem day and night&rdquo; (Takeuti 2003: 133).</p>
+</div>
+
+<div id="note-19">
+  <!-- was 21 -->
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ Below in \((\forall_2\bL)\) and \((\exists_2\rR)\), \(A(a)\) is an
+arbitrary formula. The variable <i>U</i> in \((\forall_2\rR)\) and
+\((\exists_2\bL)\) is an eigenvariable of the respective inference,
+i.e., <i>U</i> is not to occur in the lower sequent.</p>
+</div>
+
+<div id="note-20">
+  <!-- was 22 -->
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ Meaning that it proves the same formulae as the system with cuts.</p>
+</div>
+
+<div id="note-21">
+  <!-- was 23 -->
+<p>
+
+ <a href="index.html#ref-21">21.</a>
+ In the 1970s Martin-L&ouml;f gave a normalization proof for a type
+theory with a universe that contained itself. The metatheory for this
+proof was basically a slight extension of the same type theory.
+Ironically, it turned out that the type theory was inconsistent.</p>
+</div>
+
+<div id="note-22">
+  <!-- was 24 -->
+<p>
+
+ <a href="index.html#ref-22">22.</a>
+ Below Con(<b>T</b>) and <span class="sansserif">Proof</span>\(_\bT\)
+are arithmetized formalizations of the consistency of <b>T</b> and
+provability in <b>T</b>, respectively, as explained in
+ <a href="index.html#Def21">Definition 1.3</a>.
+ \(\Corner{F}\) denotes the G&ouml;del number of a formula <i>F</i>.
+For every number <i>n</i>, \(\bar{n}\) denotes the \(n^{th}\) numeral,
+i.e., the term obtained from 0 by putting <i>n</i> successor function
+symbols in front of it.</p>
+</div>
+
+<div id="note-23">
+  <!-- was 25 -->
+<p>
+
+ <a href="index.html#ref-23">23.</a>
+ This is straightforward for languages allowing for quantifiers over
+sets of natural numbers, but for theories like <strong>PA</strong> one
+would have to add a new predicate symbol to the language.</p>
+</div>
+
+<div id="note-24">
+  <!-- was 26 -->
+
+<p>
+
+ <a href="index.html#ref-24">24.</a>
+ Recall that the class of arithmetical formulae is denoted by
+\(\Pi^1_0\). These formulae can still contain free set variables which
+can be utilized to show that
+\((\Pi^1_0\Hy\bCA)_0=(\Pi^0_1\Hy\bCA)_0\).</p>
+</div>
+
+<div id="note-25">
+  <!-- was 27 -->
+<p>
+
+ <a href="index.html#ref-25">25.</a>
+ They were re-obtained in purely proof-theoretic ways (and
+generalized) by Feferman &amp; Sieg (1981b).</p>
+</div>
+
+<div id="note-26">
+  <!-- was 28 -->
+<p>
+
+ <a href="index.html#ref-26">26.</a>
+ The attribute &ldquo;reverse&rdquo; comes from this additional
+objective: <em>When a theorem is proved from the right axioms, the
+axioms can be proved from the theorem.</em></p>
+</div>
+
+<div id="note-27">
+  <!-- was 29 -->
+<p>
+
+ <a href="index.html#ref-27">27.</a>
+ Ironically, the counterexamples that come to mind as soon as one
+begins to think about it come from one of the main inventors of
+reverse mathematics.</p>
+</div>
+
+<div id="note-28">
+  <!-- was 30 -->
+<p>
+
+ <a href="index.html#ref-28">28.</a>
+ Using classical logic and just the connectives \(\land\),\(\lor\),
+\(\neg\) and quantifiers \(\forall\), \(\exists\), any formula can be
+re-written in such a way that the negation sign occurs only in front
+of atomic formulas. A formula of the latter form is <i>P</i>-positive
+if <i>P</i> does not appear negated in it.</p>
+</div>
+
+<div id="note-29">
+  <!-- was 31 -->
+<p>
+
+ <a href="index.html#ref-29">29.</a>
+ The extension then has ordinals \(\Omega_{\alpha}\) for all
+\(\alpha\leq\nu\) and each ordinal of the form \(\Omega_{\beta+1}\)
+gets furnished with its own collapsing function
+\(\psi_{\!_{\Omega_{\beta+1}}}\).</p>
+</div>
+
+<div id="note-30">
+  <!-- was 32 -->
+<p>
+
+ <a href="index.html#ref-30">30.</a>
+ For a detailed account of the history of the proof theory of iterated
+inductive definitions see Buchholz et al. 1981.</p>
+</div>
+
+<div id="note-31">
+  <!-- was 33 -->
+<p>
+
+ <a href="index.html#ref-31">31.</a>
+ Upper bounds for (i) and (iii) are due to Takeuti (1967) while upper
+bounds for (iv) and (v) are owed to Takeuti and Yasugi (1973). The
+exacts bound in (iii) and (ii) are due to Pohlers (1977) and Buchholz
+(1977a), respectively. Other
+exact bounds involve the work of several people.</p>
+</div>
+
+<div id="note-32">
+  <!-- was 34 -->
+<p>
+
+ <a href="index.html#ref-32">32.</a>
+ The Hilbert project has produced three volumes of unpublished lecture
+notes and material that is no longer easily accessible, for example
+the original first edition of <em>Grundlagen der Geometrie</em> and
+that of the 1928 book of Hilbert and Ackermann. Associated with the
+edition and study of that material is also a rich secondary literature
+with papers, for example, by Mancosu (1998, 1999a) and Zach (2003,
+2004).</p>
+</div>
+
+<div id="note-33">
+  <!-- was 35 -->
+<p>
+
+ <a href="index.html#ref-33">33.</a>
+ Proof-theoretic studies play an important role in areas such as
+temporal and modal logics with applications to software verification.
+Linear logic and the other substructural logics are being used
+successfully in linguistics. Here the computational aspects of the
+logics are important, and the development of proof systems for such
+logics aims to find systems that are both expressive and efficient.
+Our list of &ldquo;Related Entries&rdquo; below points the interested
+reader to information concerning these logics and their
+applications.</p>
+</div>
+
+<div id="note-34">
+  <!-- was 36 -->
+<p>
+
+ <a href="index.html#ref-34">34.</a>
+ The best-known systems are Coq, Isabel, HOL, and the more recent
+theorem prover Lean. Sieg has developed with collaborators and students the system AProS; see www.phil.cmu.edu/projects/apros.</p>
+</div> <!-- this seems to be the start of the appendices -->
+
+<h3>Notes to Appendix A</h3>
+
+<div id="note-35">
+  <!-- was 38 -->
+<p>
+
+ <a href="appendix-a.html#ref-35">35.</a>
+ These four conditions correspond to the conditions \((\alpha)\)
+through \((\delta)\) of \(\#71\) in Dedekind 1888; they are easily
+seen to be equivalent to the so-called Peano axioms. The
+<em>chain</em> of the system \(\{1\}\) (with respect to the mapping
+\(\varphi\) of <b>N</b>) is the intersection of all systems that
+contain 1 as an element and are closed under \(\varphi\).</p>
+</div>
+
+<div id="note-36">
+  <!-- was 39 -->
+<p>
+
+ <a href="appendix-a.html#ref-36">36.</a>
+ In Torretti 1978 [1984: 234], for example, one finds the following
+observation:</p>
+
+<blockquote>
+<p>
+&hellip; the completeness axiom is what nowadays one would call a
+metamathematical statement, though one of a rather peculiar sort,
+since the theory with which it is concerned includes Axiom V2 [i.e.,
+the completeness axiom] itself.</p>
+</blockquote>
+</div>
+
+<div id="note-37">
+  <!-- was 40 -->
+<p>
+
+ <a href="appendix-a.html#ref-37">37.</a>
+ We have modified the translation one finds in the <em>Collected
+Works</em>. In particular, logical expression stands for <em>logischer
+Ausdruck</em>, satisfy for <em>erf&uuml;llen</em>, domain of thought
+for <em>Denkbereich</em>, statement for <em>Aussage</em>, and
+proposition for <em>Satz</em>.</p>
+</div>
+
+<div id="note-38">
+  <!-- was 41 -->
+<p>
+
+ <a href="appendix-a.html#ref-38">38.</a>
+ In <em>On the Infinite</em> Hilbert writes retrospectively: </p>
+
+<blockquote>
+<p>
+In particular, a contradiction discovered by Zermelo and Russell had,
+when it became known, a downright catastrophic effect in the world of
+mathematics. (Hilbert 1926: 375) </p>
+</blockquote>
+
+<p>
+More can be learnt about Hilbert&rsquo;s reaction at the time from
+various reports in 1902 and 1903 (cf. Peckhaus 1990: 57).</p>
+</div>
+
+<div id="note-39">
+  <!-- was 42 -->
+<p>
+
+ <a href="appendix-a.html#ref-39">39.</a>
+ One should keep in mind that the &ldquo;existence of sets&rdquo; was
+the central issue, and it was to be guaranteed by the consistency of
+an appropriate axiom system, a viewpoint shared by Poincar&eacute;.
+The latter was, on the whole, impressed by Hilbert&rsquo;s novel
+approach.</p>
+</div>
+
+<div id="note-40">
+  <!-- was 43 -->
+<p>
+
+ <a href="appendix-a.html#ref-40">40.</a>
+ See Mancosu 1999b. Not only the details of <em>Principia
+Mathematica</em> were of significance; on the contrary, the broad
+logicist outlook had a real impact on Hilbert. Hilbert&rsquo;s notes
+for a course on <em>Set Theory</em> (from the summer term 1917) and
+his talk <em>Axiomatisches Denken</em> reveal a logicist direction in
+his work. In the latter essay Hilbert writes: </p>
+
+<blockquote>
+<p>
+The examination of consistency is an unavoidable task; thus, it seems
+to be necessary to axiomatize logic itself and <em>to show that number
+theory as well as set theory are just parts of logic</em>. (Hilbert 1918: 153).</p>
+</blockquote>
+
+<p>
+If we try to achieve such a reduction to logic, Hilbert says at the
+very end of the set theory notes, &ldquo;&hellip; we are facing one of
+the most difficult problems of mathematics&rdquo;. (Hilbert 1917)</p>
+</div>
+
+<div id="note-41">
+  <!-- was 44 -->
+<p>
+
+ <a href="appendix-a.html#ref-41">41.</a>
+ This is reported in Dawson 1997 (p. 68) based on doc 023-73-04 in the
+Carnap Nachlass at the University of Pittsburgh.</p>
+</div>
+
+<div id="note-42">
+  <!-- was 45 -->
+<p>
+
+ <a href="appendix-a.html#ref-42">42.</a>
+ Volume III of G&ouml;del&rsquo;s Collected Works contains a paper
+entitled &ldquo;Vortrag &uuml;ber Vollst&auml;ndigkeit des
+Funktionenkalk&uuml;l&rsquo;s&rdquo; that is taken to be the
+manuscript for his talk in K&ouml;nigsberg. However,
+G&ouml;del&rsquo;s talk was a contributed talk of just 20 minutes;
+only a small part of the paper could have been delivered.</p>
+</div>
+
+<div id="note-43">
+  <!-- was 46 -->
+<p>
+
+ <a href="appendix-a.html#ref-43">43.</a>
+ The historical context and relevant details are presented in Sieg
+2012.</p>
+</div>
+
+<div id="note-44">
+  <!-- was 47 -->
+<p>
+
+ <a href="appendix-a.html#ref-44">44.</a>
+ More precisely, we define a function <span class="sansserif">CODE</span>
+by recursion on formulae that associates
+with each formula \(\varphi\) a term in the language of
+\(T\), which is also denoted by \({\Corner{\varphi}}\).</p>
+</div>
+
+<div id="note-45">
+  <!-- was 48 -->
+<p>
+
+ <a href="appendix-a.html#ref-45">45.</a>
+ The representability conditions for <span class="sansserif">PROOF</span>
+are as follows: If <span class="sansserif">PROOF</span>\((D,
+\varphi)\) then \(T \vdash
+\iproof(\Corner{D},\Corner{\varphi})\), and if <span class="sansserif">NOT
+PROOF</span>\((D,\varphi)\) then \(T\vdash \neg
+\iproof(\Corner{D},\Corner{\varphi})\).</p>
+</div>
+
+<div id="note-46">
+  <!-- was 49 -->
+<p>
+
+ <a href="appendix-a.html#ref-46">46.</a>
+ Note that <i>G</i> is, as Dawson put it (on p. 68), &ldquo;an
+involved combinatorial statement expressed in the richer language of
+the system of <em>Principia Mathematica</em>&rdquo; (or set theory).
+It is only after the &ldquo;arithmetization of syntax&rdquo; and the
+representation of the syntactic notions in elementary number theory
+that <i>G</i> is turned into an arithmetical statement; section 3 of
+G&ouml;del 1931a. See the remarks below from Wang 1981 concerning this
+development after the K&ouml;nigsberg conference, and the further very
+detailed description of how <i>G</i> is equivalent to a Diophantine
+equation in section 8 of G&ouml;del&rsquo;s 1934 Princeton lectures
+and in G&ouml;del 1938/9.</p>
+</div>
+
+<div id="note-47">
+  <!-- was 49b -->
+  <p>
+     <a href="appendix-a.html#ref-47">47.</a>  The letter, to the best of our knowledge, has not been published. One of the authors, Sieg, had received a copy from Chevalley&rsquo;s daughter quite a few years ago.</p>
+</div>
+
+<div id="note-48">
+  <!-- was 50 -->
+<p>
+
+ <a href="appendix-a.html#ref-48">48.</a>
+ As to the details of their interaction, see the Introductory Notes to
+G&ouml;del&rsquo;s correspondence with von Neumann and Herbrand, in
+volume V of the <em>Collected Works</em>. G&ouml;del&rsquo;s contrary
+perspective on the formalizability of finitist proofs is expressed not
+only at the end of his 1931 paper, but also in his letters to von
+Neumann and Herbrand, as well as in his contribution to the meeting of
+the Schlick Circle on 15 January 1931 and in the
+&ldquo;<em>Nachtrag</em>&rdquo; to his K&ouml;nigsberg remarks. In the
+latter he wrote: </p>
+
+<blockquote>
+<p>
+For a system in which all finitist (i.e., intuitionistically proper)
+forms of proof are formalized, a finitist consistency proof as sought
+by the formalists would be altogether impossible. However, it seems
+doubtful, whether one of the systems formulated up to now, say
+<em>Principia Mathematica</em>, is so comprehensive (or whether such a
+comprehensive system exists at all). (G&ouml;del 1931b: 204).
+</p>
+</blockquote>
+
+</div> <!-- end appendix A, begin appendix B -->
+
+<h3>Notes to Appendix B</h3>
+
+<div id="note-49">
+  <!-- was 51 -->
+<p>
+
+ <a href="appendix-b.html#ref-49">49.</a>
+ The usual recursion theorem is formulated for partial recursive
+functions but there is a version, due to Kleene (1958), that works for
+primitive recursive functions.</p>
+</div>
+
+<div id="note-50">
+  <!-- was 52 -->
+<p>
+
+ <a href="appendix-b.html#ref-50">50.</a>
+ Accessible accounts can be found in Torkel Franz&eacute;n&rsquo;s
+book (2004a) and his paper (2004b).</p>
+</div> <!-- end appendix B, begin appendix C -->
+
+<h3>Notes to Appendix C</h3>
+
+<div id="note-51">
+  <!-- was 53 -->
+<p>
+
+ <a href="appendix-c.html#ref-51">51.</a>
+ Brouwer did not include (Hyp 2) among the hypothesis. It expresses
+the &ldquo;monotonicity&rdquo; of the bar. Classically it&rsquo;s
+rather superfluous but intuitionistically it is essential as Kleene
+observed: \(\BI_{\igen}\) formulated without (Hyp 2) yields instances
+of excluded middle that are incompatible with Brouwer&rsquo;s
+continuity principles (Kleene &amp; Vesley 1965: 7.14).</p>
+</div>
+
+<div id="note-52">
+  <!-- was 54 -->
+<p>
+
+ <a href="appendix-c.html#ref-52">52.</a>
+ A bar <i>B</i> gives rise to a well-founded ordering \(\prec\) on
+\(\bbN^*\) where \(t\prec s\) means that <i>t</i> is a node above
+<i>s</i> and \(t\notin B\). Viewed in this way, \(\BI_{\igen}\) is a
+principle of transfinite induction along \(\prec\). For the
+implication \(\BI_{\igen}\to{\bCA}\) to hold it is important that
+<i>B</i> can be of arbitrary complexity. Thus the moral drawable from
+this is that impredicative comprehension can be deduced from
+transfinite induction on impredicatively defined orderings.</p>
+</div>
+
+<div id="note-53">
+  <!-- was 55 -->
+<p>
+
+ <a href="appendix-c.html#ref-53">53.</a>
+ Girard is also very skeptical about the intuitionistic setting of
+Spector&rsquo;s interpretation: &ldquo;all these topics have
+<em>nothing to do</em> with intuitionism&rdquo; (Girard 1987:
+479).</p>
+</div>
+
+<div id="note-54">
+  <!-- was 56 -->
+<p>
+
+ <a href="appendix-c.html#ref-54">54.</a>
+ As a matter of clarification, cut free proofs are not allowed to
+contain other instances of \(\tilde{\Omega}\).</p>
+</div> <!-- end appendix C, begin appendix D -->
+
+<h3>Notes to Appendix D</h3>
+
+<div id="note-55">
+  <!-- was 57 -->
+<p>
+
+ <a href="appendix-d.html#ref-55">55.</a>
+ For more background information see Takeuti 1985: 259; Feferman 1989:
+362,
+and Pohlers 1991: 374.</p>
+</div> 
+
+<!-- end appendix D, begin appendix E -->
+
+<h3>Notes to Appendix E</h3>
+
+<div id="note-56">
+  <!-- was 58 -->
+<p>
+
+ <a href="appendix-e.html#ref-56">56.</a>
+ For more details see Rathjen 1999a.</p>
+</div>
+
+<div id="note-57">
+  <!-- was 59 -->
+
+<p>
+
+ <a href="appendix-e.html#ref-57">57.</a>
+ For more details see Rathjen 2015. As for the unprovability of
+\(\Con(\PA)\) in <strong>PA</strong>, Gentzen (1943) explicitly states
+that his proof makes no appeal to the second incompleteness
+theorem.</p>
+</div>
+
+<div id="note-58">
+  <!-- was 60 -->
+<p>
+
+ <a href="appendix-e.html#ref-58">58.</a>
+ In Rathjen 2015 the question is pondered whether the latter result
+could have been proved much earlier (from a technical as well as
+sociological point of view).</p>
+</div> <!-- end appendix E, begin appendix F -->
+
+<h3>Notes to Appendix F</h3>
+
+<div id="note-59">
+  <!-- was 61 -->
+<p>
+
+ <a href="appendix-f.html#ref-59">59.</a>
+ For extensions and reflections see Sieg 1991.</p>
+</div>
+
+<div id="note-60">
+  <!-- was 62 -->
+<p>
+
+ <a href="appendix-f.html#ref-60">60.</a>
+ <a href="appendix-f.html#kms">Theorem F.4</a> can be extracted from Kreisel, Mints and Simpson (1975),
+Lopez-Escobar (1976) or Schwichtenberg (1977) and was certainly known
+to these authors.</p>
+</div>
+
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="https://eps.leeds.ac.uk/maths/staff/4073/professor-michael-rathjen" target="other">Michael Rathjen</a>
+&lt;<a href="m&#97;ilto:rathjen&#37;40maths&#37;2eleeds&#37;2eac&#37;2euk"><em>rathjen<abbr title=" at ">&#64;</abbr>maths<abbr title=" dot ">&#46;</abbr>leeds<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+Wilfried Sieg
+&lt;<a href="m&#97;ilto:sieg&#37;40cmu&#37;2eedu"><em>sieg<abbr title=" at ">&#64;</abbr>cmu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

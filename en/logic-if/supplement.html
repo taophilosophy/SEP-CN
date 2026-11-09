@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Independence Friendly Logic &gt; Existential second-order logic (a.k.a. \(\Sigma^{1}_1\) logic) (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/logic-if/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/logic-if/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-if">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Independence Friendly Logic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Existential second-order logic (a.k.a. \(\Sigma^{1}_1\) logic)</h2>
+
+<p>
+
+The set of <em>formulas</em> of existential second-order logic of
+vocabulary \(\tau\) (formulas of \(\mathbf{ESO}[\tau]\)) is the
+smallest set containing all formulas of \(\mathbf{FO}[\tau]\) and
+which is closed under the following two rules:</p>
+
+<ul>
+<li>If \(\phi\) is an \(\mathbf{ESO}[\tau \cup \{f\}]\) formula, then
+\((\exists f)\phi\) is an \(\mathbf{ESO}[\tau]\) formula.</li>
+
+<li>If \(\phi\) is an \(\mathbf{ESO}[\tau \cup \{R\}]\) formula, then
+\((\exists R)\phi\) is an \(\mathbf{ESO}[\tau]\) formula.</li>
+</ul>
+
+<p>
+
+<em>E.g.,</em> since \((\forall x)R(x, f(x))\) is an
+\(\mathbf{FO}[\{R, f\}]\) formula, we have that \((\exists f)(\forall
+x)R(x, f(x))\) is an \(\mathbf{ESO}[\{R\}]\) formula, and \((\exists
+R)(\exists f)(\forall x)R(x, f(x))\) is an \(\mathbf{ESO}\) formula of
+empty vocabulary. Observe that no second-order variables are involved
+in the formulation of the syntax. For instance, what is bound by the
+second-order quantifier \((\exists f)\) is a function symbol (not a
+function variable). The notion of a free individual variable can be
+defined exactly as in the case of \(\mathbf{FO}\). An
+\(\mathbf{ESO}[\tau]\) formula is a
+<em>sentence</em> if it contains no free variables. (For this syntax,
+see <em>e.g.</em> V&auml;&auml;n&auml;nen 2007. For an alternative formulation,
+see <em>e.g.</em> Ebbinghaus &amp; Flum 1999.)</p>
+
+<p>
+
+The semantics of \(\mathbf{ESO}[\tau]\) is specified by defining
+the <em>satisfaction relation</em> \(M, g \vDash \phi\) for all
+\(\mathbf{ESO}[\tau]\) formulas \(\phi , \tau\) structures \(M\) and
+variable assignments \(g\). The semantic clauses for atomic formulas
+and for formulas of the forms \(\vee\), \(\wedge\), \(\exists x\),
+\(\forall x\) and \({\sim}\) are as in \(\mathbf{FO}\). The remaining
+semantic clauses make use of the notion of expansion of a \(\tau\)
+structure. A \(\tau'\) structure \(M'\) is an <em>expansion</em> of a
+\(\tau\) structure \(M\) (to the vocabulary \(\tau')\), if \(\tau
+\subseteq \tau'\), \(\rM = \rM'\), and the structures \(M\) and \(M'\)
+agree on the interpretations of all symbols of vocabulary \(\tau\). So
+any difference between the structures is due to the interpretations of
+symbols that belong to \(\tau'\) but not to \(\tau\).</p>
+
+<ul>
+<li>\(M, g \vDash(\exists f)\phi\) iff there is an
+expansion \(M'\) of the structure \(M\) to the vocabulary
+\(\tau \cup \{f\}\) such that \(M', g \vDash \phi\).</li>
+
+<li>\(M, g \vDash(\exists R)\phi\) iff there is an
+expansion \(M'\) of the structure \(M\) to the vocabulary
+\(\tau \cup \{R\}\) such that \(M', g \vDash \phi\).</li>
+</ul>
+
+<p>
+
+For example, let \(N_1\) be the \(\{R\}\) structure whose domain is
+the set of natural numbers and which interprets &lsquo;\(R\)&rsquo; as
+the relation <em>smaller than</em>. Consider evaluating the
+\(\mathbf{ESO}[\{R\}]\) sentence \((\exists f)(\forall x)R(x, f(x))\)
+relative to \(N_1\). We have</p>
+
+\[
+ N_1, g \vDash (\exists f)(\forall x)R(x, f(x)),
+\]
+
+<p>
+for any assignment \(g\), because by interpreting the function symbol
+&lsquo;\(f\)&rsquo; by the function \(n \mapsto n+1,\) an expansion
+\(N_2\) of \(N_1\) to the vocabulary \(\{R, f\}\) is obtained, with
+\(N_2, g \vDash (\forall x)R(x, f(x))\).  The reason why \(N_2, g
+\vDash (\forall x)R(x, f(x))\) holds is that indeed any natural number
+\(n\) is smaller than the natural number \(n+1\). And if \(N_0\) is a
+model of empty vocabulary with the set of natural numbers as its
+domain, we have \(N_0, g \vDash (\exists R)(\exists f)(\forall x)R(x,
+f(x))\), for any assignment \(g\), since \(N_0\) can be expanded to
+\(N_1\), which is a structure of vocabulary \(\{R\}\), and then we
+have \(N_1, g \vDash (\exists f)(\forall x)R(x, f(x))\), as just
+noted.</p>
+
+<h2>Skolemizations and Skolem normal forms</h2>
+
+<p>
+
+Let us restrict our attention to \(\mathbf{IFL}\) formulas in negation
+normal form. A skolemization of an \(\mathbf{IFL}\) formula will be a
+<em>first-order</em> formula of a larger vocabulary.</p>
+
+<p> In \(\mathbf{FO}\), it is customary to effect skolemization only
+with respect to existential quantifiers; discussing \(\mathbf{IFL}\),
+Hintikka (1991, 1996, 1997) extends skolemization to disjunctions as
+well. For example, a skolemization of the sentence</p>
+
+\[
+(\forall x)(\forall y)(R(x, y) \; (\vee /\forall x) \; S(x, y))
+\]
+
+<p>
+
+of vocabulary \(\{R, S\}\) is the \(\mathbf{FO}\) formula
+</p>
+
+\[
+(\forall x)(\forall y)([R(x, y)  \wedge d(y) = 0] \vee 
+ [S(x, y) \wedge d(y) \ne 0]).
+\]
+
+<p>of vocabulary \(\{R, S, d, 0\}\). Here the
+function term \(d(y)\) is used to explicate the
+dependence of the choice of a disjunct on the value interpreting the
+universal quantifier \((\forall y)\). &lsquo;0&rsquo; is a fresh constant
+symbol, standing for some fixed element of the domain. This constant is
+used for forming the conjuncts \(d(y) = 0\) and
+\(d(y) \ne 0\); for those values \(a\) of
+\(y\) for which \(d(a) = 0\) holds, the left
+disjunct is chosen, while for those values of \(a\) of \(y\)
+for which \(d(a) \ne 0\) holds, it is the right disjunct
+that is chosen.</p>
+
+<p>
+
+Let \(\tau\) be a fixed vocabulary, and 0 a constant symbol not in
+\(\tau\). If \(\phi\) is an \(\mathbf{IFL}[\tau]\) formula, its
+<em>skolemization</em> \(\mathrm{sk}[\phi]\) is the formula
+\(\mathrm{sk}_{\phi}[\phi]\) that can be computed by the following
+rules:</p>
+
+<ul>
+
+<li> If \(\psi\) is any of the formulas 
+\(R(t_1 ,\ldots ,t_n)\) or \(t_1 = t_2\) or 
+\({\sim}R(t_1 ,\ldots ,t_n)\) or 
+\({\sim}t_1 = t_2\), then \(\mathrm{sk}_{\phi}[\psi] = \psi\).</li>
+
+<li>\(\mathrm{sk}_{\phi}[(\psi \; (\vee /\forall y_1 ,\ldots ,\forall
+y_n) \; \chi)] = (\mathrm{sk}_{\phi}[\psi] \wedge d(z_1 ,\ldots ,z_m) =
+0)\) \(\vee\) \((\mathrm{sk}_{\phi}[\chi] \wedge d(z_1 ,\ldots ,z_m) \ne
+0)\), where \(d\) is a fresh function symbol, and \((\forall
+z_1),\ldots ,(\forall z_m)\) are those universal quantifiers that
+precede the token of the disjunction sign in \(\phi\), but are not
+among \((\forall y_1),\ldots ,(\forall y_n)\).</li>
+
+<li>\(\mathrm{sk}_{\phi}[(\psi \;
+(\wedge /\exists y_1 ,\ldots ,\exists y_n) \; \chi)] = (\mathrm{sk}_{\phi}[\psi] \wedge \mathrm{sk}_{\phi}[\chi]\)).</li>
+
+<li>\(\mathrm{sk}_{\phi}[(\exists x/\forall y_1 ,\ldots ,\forall y_n)\psi]
+=\)
+\(\mathrm{sk}_{\phi}[\psi][x/f(z_1 ,\ldots ,z_m)]\),
+where \(f\) is a fresh function symbol, and
+\((\forall z_1),\ldots ,(\forall z_m)\)
+are those universal quantifiers that precede the token of the
+existential quantifier in \(\phi\), but are not among
+\((\forall y_1),\ldots ,(\forall y_n)\).</li>
+
+<li>\(\mathrm{sk}_{\phi}[(\forall x/\exists y_1 ,\ldots ,\exists y_n)\psi]
+= (\forall x) \mathrm{sk}_{\phi}[\psi]\).</li>
+</ul>
+
+<p>If \(\phi\) is a formula, \(x\) is a variable, and \(t\) is
+a term, by stipulation \(\phi[x/t]\) stands for the
+formula obtained from \(\phi\) by replacing all free occurrences of
+\(x\) in \(\phi\) by
+\(t\). This use of the slash sign must not be
+confused with its use to mark quantifier independence as in IF
+logic.</p>
+
+<p>Observe that
+the skolemization \(\mathrm{sk}[\phi]\) of an \(\mathbf{IFL}\) formula (in negation
+normal form) is itself an \(\mathbf{FO}\) formula in negation
+normal form, written in a larger vocabulary including as many function
+symbols as there are tokens of the disjunction sign and tokens of the
+existential quantifier in \(\phi\) &ndash; and possibly including also the
+constant symbol 0. The arities of these function symbols are uniquely
+determined by the position of the token in the syntactic tree of the
+formula \(\phi\). Note that the interpretations of those function symbols
+in \(\mathrm{sk}[\phi]\) that are triggered by existential quantifiers are nothing
+other than Skolem functions for those existential quantifiers in the
+sense specified in <em>Section</em> 1.</p>
+
+<p>
+
+With the help of the notion of skolemization, the notion of the Skolem
+normal form of an \(\mathbf{IFL}\) formula can be defined. If \(\phi\)
+is a formula of \(\mathbf{IFL}[\tau]\), and \(\mathrm{sk}[\phi]\) is its
+skolemization of vocabulary \(\tau'\), with \(\tau \subseteq \tau'\),
+the <em>Skolem normal form</em> \(\mathrm{SK}[\phi]\) of \(\phi\) is the
+\(\mathbf{ESO}[\tau]\) formula \(\exists f_1 \ldots \exists
+f_n \mathrm{sk}[\phi]\), where \(\{f_1 ,\ldots ,f_n\} = \tau'\) \
+\(\tau\). Here the set \(\{f_1 ,\ldots ,f_n\}\) consists of the
+function symbols introduced for tokens of the disjunction sign and
+tokens of the existential quantifier in \(\phi\), together with the
+constant 0 if \(\phi\) contains any disjunction tokens.
+</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+<a href="https://sites.google.com/site/ttulenheimo" target="other">Tero Tulenheimo</a>
+&lt;<a href="m&#97;ilto:tero&#37;2etulenheimo&#37;40tuni&#37;2efi"><em>tero<abbr title=" dot ">&#46;</abbr>tulenheimo<abbr title=" at ">&#64;</abbr>tuni<abbr title=" dot ">&#46;</abbr>fi</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

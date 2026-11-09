@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Continuity and Infinitesimals &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/continuity/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/continuity/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=continuity">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Continuity and Infinitesimals</a></h2>
+
+<div id="note-1">
+<p>
+
+<a href="index.html#ref-1">1.</a> The word &ldquo;continuous&rdquo; derives from the Latin <em>contin&#275;re</em>  meaning &ldquo;to hang together&rdquo; or &ldquo;to cohere&rdquo;; this same root gives us the nouns &ldquo;continent&rdquo;&mdash;an expanse of land unbroken by sea&mdash;and &ldquo;continence&rdquo;&mdash;self-restraint in the sense of &ldquo;holding oneself together&rdquo;. Synonyms for &ldquo;continuous&rdquo; include: connected, entire, unbroken, uninterrupted.</p>
+</div>
+
+<div id="note-2">
+<p>
+
+<a href="index.html#ref-2">2.</a> The word &ldquo;discrete&rdquo; derives from a Latin <em>discernere</em> meaning &ldquo;to separate&rdquo;. This same root yields the verb &ldquo;discern&rdquo;&mdash;to recognize as distinct or separate&mdash;and the cognate &ldquo;discreet&rdquo;&mdash;to show discernment, hence &ldquo;well-behaved&rdquo;. It is a curious fact that, while &ldquo;continuity&rdquo; and &ldquo;discreteness&rdquo; are antonyms, &ldquo;continence&rdquo; and &ldquo;discreetness&rdquo; are synonyms. Synonyms for &ldquo;discrete&rdquo; include separate, distinct, detached, disjunct.</p>
+</div>
+
+<div id="note-3">
+<p>
+
+<a href="index.html#ref-3">3.</a> Of course, this presupposes that there are no &ldquo;gaps&rdquo; between the elements or points, which is implicit in the assumption that the points have been obtained by complete division of a continuum.</p>
+</div>
+
+<div id="note-4">
+<p>
+
+<a href="index.html#ref-4">4.</a> It should also be mentioned that the German philosopher Johann Friedrich Herbart (1776&ndash;1841) introduced the term <em>synechology</em> for the part of his philosophical system concerned with the continuity of the real.</p>
+</div>
+
+<div id="note-5">
+<p>
+
+  <a href="index.html#ref-5">5.</a> According to the <em>Oxford English Dictionary</em> the term <em>infinitesimal</em> was originally 
+</p><blockquote><p>
+an ordinal, viz. the &ldquo;infinitieth&rdquo; in order&hellip; but, like other ordinals, also used to name fractions, thus infinitesimal part or infinitesimal came to mean unity divided by infinity  \((1/\infty)\), and thus an infinitely small part or quantity.</p>
+</blockquote>
+</div>
+
+<div id="note-6">
+<p>
+
+<a href="index.html#ref-6">6.</a> For the doctrines of the presocratic philosophers see Kirk, Raven, &amp; Schofield 1983 and Barnes 1982.</p>
+</div>
+
+<div id="note-7">
+<p>
+
+<a href="index.html#ref-7">7.</a> That this was the Eleatic position may be inferred from Plato&rsquo;s <em>Parmenides</em>.</p>
+</div>
+
+<div id="note-8">
+<p>
+<a href="index.html#ref-8">8.</a> For the history of the doctrine of atomism see especially Pyle 1997.</p>
+</div>
+
+<div id="note-9">
+<p>
+
+<a href="index.html#ref-9">9.</a> In Book VI of
+the <em>Categories</em>, Quantity (&pi;&omicron;&sigma;&#972;&nu; is introduced by Aristotle as the category associated with <em>how much</em>. In addition to exhibiting continuity and discreteness, quantities are, according to Aristotle, distinguished by the feature of being <em>equal</em> or <em>unequal.</em></p>
+</div>
+
+<div id="note-10">
+<p>
+
+<a href="index.html#ref-10">10.</a> Here it must be noted that for Aristotle, as for ancient Greek thinkers generally, the term &ldquo;number&rdquo;&mdash;<em>arithmos</em>&mdash;means just &ldquo;plurality&rdquo;.</p>
+</div>
+
+<div id="note-11">
+<p>
+
+<a href="index.html#ref-11">11.</a> Aristotle points out that (spoken) words are analyzable into syllables or phonemes, linguistic &ldquo;atoms&rdquo; themselves irreducible to simpler linguistic elements.</p>
+</div>
+
+<div id="note-12">
+<p>
+
+<a href="index.html#ref-12">12.</a> For an account of Epicurus&rsquo;s doctrines, see Furley 1967.</p>
+</div>
+
+<div id="note-13">
+<p>
+
+<a href="index.html#ref-13">13.</a> He seems to have refrained, however, from subjecting the continuum to his celebrated &ldquo;razor&rdquo;.</p>
+</div>
+
+<div id="note-14">
+<p>
+
+<a href="index.html#ref-14">14.</a> See, e.g., the papers of Murdoch and Stump in Kretzmann 1982.</p>
+</div>
+
+<div id="note-15">
+<p>
+
+<a href="index.html#ref-15">15.</a> Hermann Weyl makes a similar suggestion in connection with Galileo&rsquo;s &ldquo;bending&rdquo; procedure:</p>
+
+<blockquote><p>
+If a curve consists of infinitely many straight &ldquo;line elements&rdquo;, then a tangent can simply be conceived as indicating the direction of the individual line segment; it joins two &ldquo;consecutive &rdquo; points on the curve. (Weyl 1926 [1949:  44])</p>
+</blockquote>
+</div>
+
+<div id="note-16">
+<p>
+
+<a href="index.html#ref-16">16.</a> This conception was to prove fruitful in the later development of the calculus and to achieve fully rigorous formulation in the smooth infinitesimal analysis of the later twentieth century. See <a href="index.html#ConsRealLineIntuCont">Section 8</a>.</p>
+</div>
+
+<div id="note-17">
+<p>
+
+<a href="index.html#ref-17">17.</a> On Barrow, see Child 1916 and Boyer 1939 [1959].</p>
+</div>
+
+<div id="note-18">
+<p>
+
+<a href="index.html#ref-18">18.</a> On Newton&rsquo;s contributions to the calculus see Baron 1969 [1987] and Boyer 1939 [1959].</p>
+</div>
+
+
+<div id="note-19">
+<p>
+
+<a href="index.html#ref-19">19.</a> On Leibniz see especially Russell 1900 [1937].</p>
+</div>
+
+<div id="note-20">
+<p>
+
+<a href="index.html#ref-20">20.</a> On Nieuwentijdt and other critics of Leibniz see Mancosu 1996.</p>
+</div>
+
+<div id="note-21">
+<p>
+
+<a href="index.html#ref-21">21.</a> But the other properties have resurfaced in the theories of infinitesimals which have emerged over the past several decades. Appropriately defined, the relation \(\approx\), property 1 holds of the differentials in <em>nonstandard analysis,</em> while properties 1, 2 and 3 hold of the differentials in <em>smooth infinitesimal analysis.</em> See <a href="index.html#CritReacArit">section 6</a> and <a href="index.html#ConsRealLineIntuCont">section 8</a>. </p>
+</div>
+
+<div id="note-22">
+<p>
+
+<a href="index.html#ref-22">22.</a> On Euler, see especially Truesdell 1972 [1984].</p>
+</div>
+
+<div id="note-23">
+<p>
+
+<a href="index.html#ref-23">23.</a> Or, to put it another way, (real) numbers are just the ratios of infinitesimals: this is a reigning principle of smooth infinitesimal analysis, see <a href="index.html#ConsRealLineIntuCont">Section 8</a> below.</p>
+</div>
+
+<div id="note-24">
+<p>
+
+<a href="index.html#ref-24">24.</a> Likely the astronomer Edmund Halley (1656&ndash;1742).</p>
+</div>
+
+<div id="note-25">
+<p>
+
+<a href="index.html#ref-25">25.</a> Kant would probably maintain the truth of the Thesis in that event.</p>
+</div>
+
+<div id="note-26">
+<p>
+
+<a href="index.html#ref-26">26.</a> This had been previously given by Bolzano.</p>
+</div>
+
+<div id="note-27">
+<p>
+
+<a href="index.html#ref-27">27.</a> Fisher  argues that here and there in his work Cauchy did &ldquo;argue directly with infinitely small quantities treated as actual infinitesimals&rdquo; (1978:315)</p>
+</div>
+
+<div id="note-28">
+<p>
+
+<a href="index.html#ref-28">28.</a> According to Hobson, 
+</p><blockquote><p>
+the term &ldquo;arithmetization&rdquo; is used to denote the movement which has resulted in placing analysis on a basis free from the idea of measurable quantity, the fractional, negative, and irrational numbers being so defined that they depend ultimately upon the conception of integral number. (1907: 21)</p></blockquote>
+</div>
+
+
+<div id="note-29">
+<p>
+<a href="index.html#ref-29">29.</a> The concept of function had by this time been greatly broadened: in 1837 Dirichlet suggested that a variable <i>y</i> should be regarded as a function of the independent vatiable <i>x</i> if a rule exists according to which, whenever a numerical value of <i>x</i> is given, a unique value of <i>y</i> is determined. (This idea was later to evolve into the set-theoretic definition of function as a set of ordered pairs.)  Dirichlet&rsquo;s definition of function as a correspondence from which all traces of continuity had been purged, made necessary Weirstrass&rsquo;s independent definition of continuous function.</p>
+</div>
+
+<div id="note-30">
+<p>
+
+<a href="index.html#ref-30">30.</a> The notion of <em>uniform continuity</em> for functions was later introduced (in 1870) by Heine: a real valued function \(f\) is uniformly continuous if for any \(\varepsilon \gt 0\) there is \(\delta \gt 0\) such that \(|f(x) - f(y)| \lt \varepsilon\) for all \(x\) and \(y\) in the domain of \(f\) such that \(|x - y| \lt \delta\). In 1872 Heine proved the important theorem that any continuous real-valued function defined on a closed bounded interval of real numbers is uniformly continuous.</p>
+</div>
+
+<div id="note-31">
+<p>
+
+<a href="index.html#ref-31">31.</a> On Cantor, see Dauben 1979 and Hallett 1984.</p>
+</div>
+
+
+<div id="note-32">
+<p>
+
+<a href="index.html#ref-32">32.</a> This, <em>Cantor&rsquo;s continuum hypothesis</em>, is actually stated in terms of the transfinite ordinal numbers introduced in previous sections of the <em>Grundlagen.</em></p>
+</div>
+
+<div id="note-33">
+<p>
+
+<a href="index.html#ref-33">33.</a> In the terminology of general topology, a set is perfect if it is closed and has no isolated points.</p>
+</div>
+
+<div id="note-34">
+<p>
+
+<a href="index.html#ref-34">34.</a> This set later became known as the <em>Cantor ternary set</em> or the <em>Cantor discontinuum.</em></p>
+</div>
+
+<div id="note-35">
+<p>
+<a href="index.html#ref-35">35.</a> Cantor later turned to the problem of characterizing the linear continuum as an ordered set. His solution was published in 1895 in the <em>Mathematische Annalen</em> (Dauben 1979: Chapter 8.) For a modern presentation, see &sect;3 of Ch. 6 of Kuratowski-Mostowski (1968).</p>
+</div>
+
+
+<div id="note-36">
+<p>
+
+<a href="index.html#ref-36">36.</a> For du Bois-Reymond&rsquo;s theory of infinitesimals see Fisher 1981; for Veronese&rsquo;s, see Fisher 1994. The introduction to Ehrlich 1994a provides an overview of these &ldquo;non-Cantorian&rdquo; theories of infinitesimals and the continuum.</p>
+</div>
+
+<div id="note-37">
+<p>
+
+<a href="index.html#ref-37">37.</a> In a letter to Husserl drafted in 1905, Brentano asserts that &ldquo;I regard it as absurd to interpret a continuum as a set of points&rdquo;. (Brentano 1905 [1966: 95])</p>
+</div>
+
+<div id="note-38">
+<p>
+<a href="index.html#ref-38">38.</a> For an account of Peirce&rsquo;s view of the continuum, see  Ketner and Putnam 1992.</p>
+</div>
+
+<div id="note-39">
+<p>
+
+<a href="index.html#ref-39">39.</a> For Poincare&rsquo;s philosophy of mathematics see Folina 1992.</p>
+</div>
+
+<div id="note-40">
+<p>
+
+<a href="index.html#ref-40">40.</a> The failure of these important results of classical analysis caused most mathematicians of the day to shun intuitionistic, and even constructive mathematics. It was not until the 1960s that adequate constructive versions were worked out. See <a href="index.html#NonsAnal">Section 7</a>.</p>
+</div>
+
+
+<div id="note-41">
+<p>
+<a href="index.html#ref-41">41.</a> So-called, Robinson says, because his theory 
+</p><blockquote><p>
+involves and was, in part, inspired by the so-called Non-standard models of Arithmetic whose existence was first pointed out by T. Skolem. (1966: vii [1996: xiii])</p></blockquote>
+</div>
+
+<div id="note-42">
+<p>
+
+<a href="index.html#ref-42">42.</a> It follows that \(\hat{\Re}\) is a nonarchimedean ordered field. One might question whether this is compatible with the facts that \(\hat{\Re}\) and \(\Re\) share the same first-order properties, but the latter is archimedean. These data are consistent because the archimedean property is not first-order. However, while \(\hat{\Re}\) is nonarchimedean, it is *-<em>archimedean</em> in the sense that, for any \(a \in \hat{\Re}\) there is \(n \in \hat{\bbN}\) for which \(a \lt n\).</p>
+</div>
+
+<div id="note-43">
+<p>
+
+<a href="index.html#ref-43">43.</a> Robinson (1966 [1996: Ch. 3]). A number of &ldquo;nonstandard&rdquo; proofs of classical theorems may also be found there.</p>
+</div>
+
+<div id="note-44">
+<p>
+
+<a href="index.html#ref-44">44.</a> Here &ldquo;nonempty&rdquo; has the stronger constructive meaning that an element of the set in question can be constructed.</p>
+</div>
+
+<div id="note-45">
+<p>
+
+<a href="index.html#ref-45">45.</a> This may be seen to be plausible if one considers that the according to Brouwer the construction of a choice sequence is incompletable; at any given moment we can know nothing about it outside the identities of a finite number of its entries. Brouwer&rsquo;s principle amounts to the assertion that every function
+ from \(\bbN^{\bbN}\) to \(\bbN\) is continuous.</p>
+</div>
+
+<div id="note-46">
+<p>
+
+<a href="index.html#ref-46">46.</a> For an explicit statement of the principle of Bar Induction, see Ch. 3 of Dummett (1977), or Ch. 5 of Bridges and Richman (1987).</p>
+</div>
+
+<div id="note-47">
+<p>
+<a href="index.html#ref-47">47.</a> See Kock (1981), Lavendhomme (1996), Lawvere (1980, 1998  [<a href="#Oth">Other Internet Resources</a>]), McLarty (1992), Moerdijk and Reyes (1991). For an elementary account of smooth infinitesimal analysis see Bell (1998).</p>
+</div>
+
+<div id="note-48">
+<p>
+<a href="index.html#ref-48">48.</a> For any \(f \in(\Delta^{\Delta})_0\), the microaffineness axiom ensures that there is a unique \(b \in \bR\) for which \(f(\varepsilon) = b\varepsilon\) for all \(\varepsilon\), and conversely each \(b \in \bR\) yields the map \(\varepsilon \mapsto b\varepsilon\) in \((\Delta^{\Delta})_0\).</p>
+</div>
+
+<div id="note-49">
+<p>
+
+<a href="index.html#ref-49">49.</a> A <em>monoid</em> is a multiplicative system (not necessarily commutative) with an identity element.</p>
+</div>
+
+<div id="note-50">
+<p>
+
+<a href="index.html#ref-50">50.</a> The domain of \(f\) is in fact \((\bR - \{0\}) \cup \{0\}\), which, because of the failure of the law of excluded middle in SIA, is provably unequal to \(\bR\).</p>
+</div>
+
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+<a href="http://publish.uwo.ca/~jbell/" target="other">John L. Bell</a>
+
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,2842 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Games, Full Abstraction and Full Completeness (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Games, Full Abstraction and Full Completeness" />
+<meta name="citation_author" content="Cardone, Felice" />
+<meta name="citation_publication_date" content="2017/01/12" />
+<meta name="DC.title" content="Games, Full Abstraction and Full Completeness" />
+<meta name="DC.creator" content="Cardone, Felice" />
+<meta name="DCTERMS.issued" content="2017-01-12" />
+<meta name="DCTERMS.modified" content="2021-02-02" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/games-abstraction/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=games-abstraction">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Games, Full Abstraction and Full Completeness</h1><div id="pubinfo"><em>First published Thu Jan 12, 2017; substantive revision Tue Feb 2, 2021</em></div>
+
+<div id="preamble">
+
+<p>
+Computer programs are particular kinds of texts. It is therefore
+natural to ask what is the meaning of a program or, more generally,
+how can we set up a formal semantical account of a programming
+language. </p>
+
+<p>
+There are many possible answers to such questions, each motivated by
+some particular aspect of programs. So, for instance, the fact that
+programs are to be executed on some kind of computing machine gives
+rise to operational semantics, whereas the similarities of programming
+languages with the formal languages of mathematical logic have
+motivated the denotational approach that interprets programs and their
+constituents by means of set-theoretical models. </p>
+
+<p>
+Each of these accounts induces its own synonymy relation on the
+phrases of the programming language: in a nutshell, the full
+abstraction property states that the denotational and operational
+approaches define the same relation. This is a benchmark property for
+a semantical account of a programming language, and its failure for an
+intuitive denotational account of a simple language based on
+lambda-calculus has led eventually to refinements of the technical
+tools of denotational semantics culminating in game semantics, partly
+inspired by the dialogue games originally used in the semantics of
+intuitionistic logic by Lorenzen and his school, and later extended by
+Blass and others to the interpretation of Girard&rsquo;s linear logic.
+This bridge between constructive logic and programming has also
+suggested stronger forms of relation between semantics and
+proof-theory, of which the notion of full completeness is perhaps the
+most remarkable instance. </p>
+</div>
+
+<div id="toc">
+<!--Entry Contents-->
+
+<ul>
+
+ <li><a href="#Intr">1. Introduction</a>
+ 
+<ul>
+
+ <li><a href="#InteProgLang">1.1 Interpretations of programming languages</a></li>
+ 
+ <li><a href="#Comp">1.2 Compositionality</a></li>
+ 
+ <li><a href="#ProgEquiFullAbst">1.3 Program equivalence and full abstraction</a></li>
+ </ul></li>
+
+ <li><a href="#SequHighOrdeCompFullAbstProbForPCF">2. Sequential higher-order computation: the full abstraction problem for PCF</a>
+ 
+<ul>
+
+ <li><a href="#SyntPCF">2.1 Syntax of PCF</a></li>
+ 
+ <li><a href="#OperSema">2.2 Operational semantics</a></li>
+ 
+ <li><a href="#DenoSema">2.3 Denotational semantics</a>
+ 
+<ul>
+
+ <li><a href="#TypeDoma">2.3.1 Types as domains</a></li>
+ 
+ <li><a href="#AbstTheoCompFuncHighType">2.3.2 An abstract theory of computable functions of higher-types</a></li>
+ 
+ <li><a href="#ContSemaForPCF">2.3.3 Continuous semantics for PCF</a></li>
+ </ul></li>
+
+ <li><a href="#RelaOperDenoSema">2.4 Relating operational and denotational semantics</a></li>
+ 
+ <li><a href="#TowaSequSema">2.5 Towards a sequential semantics</a>
+ 
+<ul>
+
+ <li><a href="#Stab">2.5.1 Stability</a></li>
+ 
+ <li><a href="#SequFunc">2.5.2 Sequential functions</a></li>
+ 
+ <li><a href="#ConcDataStruSequAlgo">2.5.3 Concrete data structures and sequential algorithms</a></li>
+ </ul></li>
+
+ <li><a href="#HistNoteFurtRead">2.6 Historical notes and further readings</a></li>
+ </ul></li>
+
+ <li><a href="#GameSema">3. Game semantics</a>
+ 
+<ul>
+
+ <li><a href="#FullComp">3.1 Full completeness</a></li>
+ 
+ <li><a href="#Inte">3.2 Interaction</a></li>
+ 
+ <li><a href="#GameStra">3.3 Games and strategies</a>
+ 
+<ul>
+
+ <li><a href="#Game">3.3.1 Games</a></li>
+ 
+ <li><a href="#StraTheiComp">3.3.2 Strategies and their composition</a></li>
+ </ul></li>
+
+ <li><a href="#SpecKindStra">3.4 Special kinds of strategies</a></li>
+ 
+ <li><a href="#HistNoteFurtRead">3.5 Historical notes and further readings</a></li>
+ </ul></li>
+
+ <li><a href="#Bib">Bibliography</a></li>
+ 
+ <li><a href="#Aca">Academic Tools</a></li>
+ 
+ <li><a href="#Oth">Other Internet Resources</a></li>
+ 
+ <li><a href="#Rel">Related Entries</a></li>
+ </ul>
+<!--Entry Contents-->
+
+<hr />
+</div>
+
+<div id="main-text">
+
+<h2 id="Intr">1. Introduction</h2>
+
+<h3 id="InteProgLang">1.1 Interpretations of programming languages</h3>
+
+<p>
+The notion of full abstraction arises from the Scott-Strachey approach
+to the semantical analysis of programming languages (Scott &amp;
+Strachey 1971; Strachey 1966, 1967), also known as
+<em>denotational</em> semantics. One fundamental aim of a denotational
+semantics of a programming language \({L}\) is to give a
+<em>compositional</em> interpretation \({\mathcal{M}}: {L}\to D\) of
+the <em>program phrases</em> of \({L}\) as elements of abstract
+mathematical structures (<em>domains</em>) \(D\).</p>
+
+<p>
+We may choose another way of giving meaning to programs, based on
+their execution. This <em>operational</em> interpretation is only
+defined on the set <span class="monospace">Prog</span> of programs of
+\({L}\), and involves the definition of a suitable set of program
+<em>values</em>, which are the <em>observables</em> of \({L}\). If the
+execution of program \(e\) terminates with value \(v\), a situation
+expressed by the notation \(e \opDownarrow v\), then \(v\) is the
+operational meaning of \(e\). This defines the operational
+interpretation of programs as a partial function \({\mathcal{O}}\)
+from programs to values, where \({\mathcal{O}}(e) = v\) when \(e
+\opDownarrow v\).</p>
+
+<p>
+Both interpretations induce natural equivalence relations on program
+phrases. In one of its formulations, full abstraction states the
+coincidence of the denotational equivalence on a language with one
+induced by the operational semantics. Full abstraction has been first
+defined in a paper by Robin Milner (1975), which also exposes the
+essential conceptual ingredients of denotational semantics:
+compositionality, and the relations between observational and
+denotational equivalence of programs. For this reason, full
+abstraction can be taken as a vantage point into the vast landscape of
+programming language semantics, and is therefore quite relevant to the
+core problems of the philosophy of programming languages (White 2004)
+and of computer science (Turner 2016).</p>
+
+<h3 id="Comp">1.2 Compositionality</h3>
+
+<p>
+Compositionality (Szab&oacute; 2013) is a desirable feature of a
+semantical analysis of a programming language, because it allows one
+to calculate the meaning of a program as a function of the meanings of
+its constituents. Actually, in Milner&rsquo;s account (see especially
+1975: sec. 1, 4), compositionality applies even more generally to
+<em>computing agents</em> assembled from smaller ones by means of
+appropriate composition operations. These agents may include, beside
+programs, hardware systems like a computer composed of a memory,
+composed in turn of two memory registers, and a processing unit, where
+all components are computing agents. This allows one to include in one
+framework systems composed of hardware, of software and even of both.
+Now, the syntactic rules that define inductively the various
+categories of phrases of a programming language allow us to regard
+\({L}\) as an <em>algebra of program phrases</em>, whose signature is
+determined by these rules. One account of compositionality that is
+especially suitable to the present setting (Szab&oacute; 2013: sec. 2)
+identifies a compositional interpretation of programs with a
+homomorphism from this algebra to the domain of denotations
+associating with every operation of the algebra of programs a
+corresponding semantical operation on denotations.</p>
+
+<p>
+As an example, consider a simple imperative language whose programs
+\(\mathtt{c}\) denote state transformations
+\({\mathcal{M}}(\mathtt{c}) : \Sigma \to \Sigma\). Among the
+operations on programs of this language there is <em>sequential
+composition</em>, building a program \(\mathtt{c}_1 ; \mathtt{c}_2\)
+from programs \(\mathtt{c}_1\) and \(\mathtt{c}_2\). The intended
+operational meaning of this program is that, if \(\mathtt{c}_1 ;
+\mathtt{c}_2\) is executed starting from a state \(\sigma \in
+\Sigma\), we first execute \(\mathtt{c}_1\) starting form state
+\(\sigma\). If the execution terminates we obtain a state \(\sigma'\),
+from which we start the execution of \(\mathtt{c}_2\) reaching, if the
+execution terminates, a state \(\sigma''\). The latter state is the
+state reached by the execution of \(\mathtt{c}_1 ; \mathtt{c}_2\) from
+state \(\sigma\). From a denotational point of view, we have the
+operation of composition on functions \(\Sigma \to \Sigma\), and the
+compositional interpretation of our program is given by the following
+identity, to be read as a clause of a definition of \({\mathcal{M}}\)
+by induction on the structure of programs: 
+
+\[{\mathcal{M}}(\mathtt{c}_1 ; \mathtt{c}_2) = {\mathcal{M}}(\mathtt{c}_2) \circ {\mathcal{M}}(\mathtt{c}_1)\]
+
+ or, more
+explicitly, for any state \(\sigma\): 
+
+\[{\mathcal{M}}(\mathtt{c}_1 ; \mathtt{c}_2) (\sigma) = {\mathcal{M}}(\mathtt{c}_2) ({\mathcal{M}}(\mathtt{c}_1) (\sigma)).\]
+
+ As most programming
+languages have several categories of phrases (for instance
+expressions, declarations, instructions) the algebras of programs will
+generally be multi-sorted, with one sort for each category of phrase.
+Denotational semantics pursues systematically the idea of associating
+compositionally to each program phrase a denotation of the matching
+sort (see Stoy 1977 for an early account).</p>
+
+<h3 id="ProgEquiFullAbst">1.3 Program equivalence and full abstraction</h3>
+
+<p>
+The existence of an interpretation of a programming language \({L}\)
+induces in a standard way an <em>equivalence</em> of program
+phrases:</p>
+
+<div class="indent" id="def1.1">
+
+<p>
+<strong>Definition 1.1</strong> (Denotational equivalence). Given any
+two program phrases \(e,e'\), they are <em>denotationally
+equivalent</em>, written \(e \simeq_{\mathcal{M}}e'\), when
+\({\mathcal{M}}(e) = {\mathcal{M}}(e')\).</p>
+</div>
+
+<p>
+If \({\mathcal{M}}\) is compositional, then \({\simeq_{\mathcal{M}}}\)
+is a congruence over the algebra of programs, whose derived
+operations, those obtained by composition of operations of the
+signature, are called <em>contexts</em>. A context \(C\blbr\)
+represents a program phrase with a &ldquo;hole&rdquo; that can be
+filled by program phrases \(e\) of appropriate type to yield the
+program phrase \(C[e]\). By means of contexts we can characterize
+easily the compositionality of a semantic mapping:</p>
+
+<div class="indent" id="prop1.1">
+
+<p>
+<strong>Proposition 1.1.</strong> If \({\mathcal{M}}\) is
+compositional, then for all phrases \(e,e'\) and all contexts
+\(C\blbr\): 
+
+\[\tag{1}\label{compositionality}{e \simeq_{\mathcal{M}} e'} \Rightarrow {C[e] \simeq_{\mathcal{M}} C[e']}.\]</p>
+
+</div>
+
+<p>
+This formulation highlights another valuable aspect of
+compositionality, namely the <em>referentially transparency</em> of
+all contexts, equivalently their <em>extensionality</em>:
+denotationally equivalent phrases can be substituted in any context
+leaving unchanged the denotation of the resulting phrase. The
+implication (\(\ref{compositionality}\)) states, in particular, that
+\({\simeq_{\mathcal{M}}}\) is a congruence. In order to compare
+denotational and operational congruence, therefore, we must carve a
+congruence out of the naive operational equivalence defined by setting
+\(e \sim e'\) if and only if \({\mathcal{O}}(e) = {\mathcal{O}}(e')\).
+This can be done by exploiting <em>program</em> contexts \(C\blbr\),
+representing a program with a &ldquo;hole&rdquo; that can be filled by
+program phrases \(e\) of suitable type to yield a complete program
+\(C[e]\).</p>
+
+<div class="indent" id="def1.2">
+
+<p>
+<strong>Definition 1.2</strong> (Observational equivalence) Given any
+two program phrases \(e,e'\), they are <em>observational
+equivalent</em>, written \(e \simeq_{\mathcal{O}}e'\), when, for all
+program contexts \(C\blbr\) and all program values \(v\): 
+
+\[C[e] \opDownarrow v\  \text{ if and only if }\  C[e'] \opDownarrow v.\]
+
+</p>
+</div>
+
+<p>
+Observational equivalence is then a congruence over the algebra of
+program phrases, and in fact it is the largest congruence contained in
+\(\sim\). From the general point of view of the account of Milner
+(1975), that we are following closely, the context of a computing
+agent represents one of its possible environments. If we adopt the
+principle that &ldquo;the overt behavior constitutes the
+<em>whole</em> meaning of a computing agent&rdquo; (Milner 1975: 160),
+then the contexts represents intuitively the observations that we can
+make on the behavior of the computing agent. In the case of programs,
+the observables are the values, so observational equivalence
+identifies phrases that cannot be distinguished by means of
+observations whose outcomes are distinct values. One consequence of
+Milner&rsquo;s methodological principle is that a computing agent
+becomes a </p>
+
+<blockquote>
+
+<p>
+transducer, whose input sequence consists of enquiries by, or
+responses from, its environment, and whose output sequence consists of
+enquiries of, or responses to, its environment. (Milner 1975: 160)
+</p>
+</blockquote>
+
+<p>
+A behavior of a computing agent takes then the form of a
+<em>dialogue</em> between the agent and its environment, a metaphor
+that will be at the heart of the game theoretic approaches to
+semantics to be discussed in
+ <a href="#GameSema">Section 3</a>.
+ This behavioral stance, which has its roots in the work of engineers
+on finite state devices has also been extended by Milner to a
+methodology of modeling concurrent systems, with the aim </p>
+
+<blockquote>
+
+<p>
+to describe a concurrent system fully enough to determine exactly what
+behaviour will be seen or experienced by an external observer. Thus
+the approach is thoroughly extensional; two systems are
+indistinguishable if we cannot tell them apart without pulling them
+apart. (Milner 1980: 2) </p>
+</blockquote>
+
+<p>
+In addition, the roles of system and observer are symmetric, to such
+an extent that </p>
+
+<blockquote>
+
+<p>
+we would like to represent the observer as a machine, then to
+represent the composite observer/machine as a machine, then to
+understand how this machine behaves for a new observer. (Milner 1980:
+19)</p>
+</blockquote>
+
+<p>
+While observational equivalence is blind to the inner details of a
+computing agent but only observes the possible <em>interactions</em>
+with its environment in which it takes part, denotational equivalence
+takes as given the internal structure of a computing agent and, in a
+compositional way, synthesizes its description from those of its
+internal parts. The notion of full abstraction is precisely intended
+to capture the coincidence of these dual perspectives:</p>
+
+<div class="indent" id="def1.3">
+
+<p>
+<strong>Definition 1.3</strong> (Full abstraction). A denotational
+semantics \({\mathcal{M}}\) is <em>fully abstract</em> with respect to
+an operational semantics \({\mathcal{O}}\) if the induced equivalences
+\({\simeq_{\mathcal{M}}}\) and \({\simeq_{\mathcal{O}}}\)
+coincide.</p>
+</div>
+
+<p>
+As a tool for investigating program properties, full abstraction can
+be seen as a <em>completeness</em> property of denotational semantics:
+every equivalence of programs that can be proved operationally, can
+also be proved by denotational means. Equivalently, a denotational
+proof that two terms are not equivalent will be enough to show that
+they are not interchangeable in every program context.</p>
+
+<p>
+Full abstraction also functions as a criterion for assessing a
+translation \(\vartheta\) from a language \({L}_1\) into a (not
+necessarily different) language \({L}_2\), provided the two languages
+have the same sets of observables, say <em>Obs</em> (Riecke 1993).
+Then \(\vartheta\) is <em>fully abstract</em> if observational
+equivalence (defined with respect to <em>Obs</em>) of \(e,e' \in
+{L}_1\) is equivalent to observational equivalence of
+\(\vartheta(e),\vartheta(e')\) in \({L}_2\). The existence of fully
+abstract translation between languages can be used to compare their
+expressive power, following a suggestion of (Mitchell 1993; Riecke
+1993): \({L}_1\) is no more expressive than \({L}_2\) if there is a
+fully abstract translation of \({L}_1\) into \({L}_2\).</p>
+
+<p>
+Before going on in this general introduction to full abstraction and
+related notions in the area of programming languages semantics, in
+order to show the broad relevance of these notions, it is interesting
+to observe that there is a very general setting in which it is
+possible to study the full abstraction property, suggested by recent
+investigations on compositionality in natural and artificial languages
+by Hodges (2001) and others. In this setting, full abstraction is
+connected to the problem of finding a compositional extension of a
+semantic interpretation of a subset \(X\) of a language \(Y\) to an
+interpretation of the whole language, via Frege&rsquo;s <em>Context
+Principle</em> (see Janssen 2001 on this), stating that the meaning of
+an expression in \(Y\) is the contribution it makes to the meaning of
+the expressions of \(X\) that contain it. In the original formulation
+by Frege \(X\) was the set of sentences and \(Y\) the set of all
+expressions, while in programming theory \(X\) is the set of programs,
+\(Y\) the set of all program phrases.</p>
+
+<p>
+A weakening of the definition of full abstraction represents an
+essential adequacy requirement for a denotational interpretation of a
+language:</p>
+
+<div class="indent" id="def1.4">
+
+<p>
+<strong>Definition 1.4</strong> (Computational adequacy). A
+denotational semantics \({\mathcal{M}}\) is <em>computationally
+adequate</em> with respect to an operational semantics
+\({\mathcal{O}}\) if, for all programs \(e\) and all values \(v\)
+
+\[{\mathcal{O}}(e) = v \ \text{ if and only if } \ {\mathcal{M}}(e) = {\mathcal{M}}(v).\]
+
+ </p>
+</div>
+
+<p>
+An equivalent formulation of computational adequacy allows to
+highlight its relation to full abstraction:</p>
+
+<div class="indent" id="prop1.2">
+
+<p>
+<strong>Proposition 1.2.</strong> Assume that \({\mathcal{M}}\) is a
+compositional denotational interpretation such that \({\mathcal{O}}(e)
+= v\) implies \({\mathcal{M}}(e) = {\mathcal{M}}(v)\). The following
+two statements are equivalent:</p>
+
+<ol>
+
+<li>\({\mathcal{M}}\) is computationally adequate with respect to
+\({\mathcal{O}}\);</li>
+
+<li>for any two <em>programs</em> \(e,e' \in {\texttt{Prog}}\),
+
+\[e \simeq_{\mathcal{M}} e'  \ \text{ if and only if } \  e \simeq_{\mathcal{O}} e'\]
+
+ </li>
+</ol>
+</div>
+
+<p>
+While the definition of the full abstraction <em>property</em> is
+straightforward, fully abstract models for very natural examples of
+programming languages have proved elusive, giving rise to a full
+abstraction <em>problem</em>. In our discussion of full abstraction we
+shall mainly concentrate on the full abstraction problem for the
+language PCF (Programming language for Computable Functions, Plotkin
+1977), a simply typed \(\lambda\)-calculus with arithmetic primitives
+and a fixed-point combinator at all types proposed in Scott 1969b.
+This language is important because it includes most of the programming
+features semantic analysis has to cope with: higher-order functions,
+types and recursion, with reduction rules that provide an abstract
+setting for experimenting with several evaluation strategies.
+Furthermore, PCF is also a model for other extensions of simply typed
+\(\lambda\)-calculus used for experimenting with programming features,
+like the Idealized Algol of Reynolds (1981). The efforts towards a
+solution of the full abstraction problem for PCF contributed, as a
+side effect, to the systematic development of a set of mathematical
+techniques for semantical analysis whose usefulness goes beyond their
+original applications. We shall describe some of them in
+ <a href="#SequHighOrdeCompFullAbstProbForPCF">Section 2</a>,
+ devoted to the semantic analysis of PCF based on partially ordered
+structures, the <em>domains</em> introduced by Dana Scott (1970), that
+we examine in
+ <a href="#DenoSema">Section 2.3</a>.
+ Technical developments in the theory of domains and also in the new
+research area focussed on Girard&rsquo;s <em>linear logic</em> (Girard
+1987) have led to <em>game semantics</em> (Abramsky, Jagadeesan, &amp;
+Malacaria 2000; Hyland &amp; Ong 2000), which is now regarded as a
+viable alternative to standard denotational semantics based on
+domains. It is to this approach that we shall dedicate
+ <a href="#GameSema">Section 3</a>
+ trying to provide enough details to orient the reader in an extensive
+and still growing literature documenting the applications of games to
+the interpretation of a wide spectrum of programming language
+features.</p>
+
+<h2 id="SequHighOrdeCompFullAbstProbForPCF">2. Sequential higher-order computation: the full abstraction problem for PCF</h2>
+
+<p>
+The full abstraction problem has proved especially hard for a version
+of simply typed \(\lambda\)-calculus with arithmetic primitives called
+PCF (Programming with Computable Functions) (Plotkin 1977), a toy
+programming language based on the Logic for Computable Functions of
+Scott (1969) and Milner (1973). In this section we introduce (a
+version of) the language with its operational and denotational
+semantics, and outline how the full abstraction problem arises for
+this language. The problem has been one of the major concerns of the
+theoretical investigation of programming languages for about two
+decades, from its original formulation in the landmark papers (Milner
+1977; Plotkin 1977) to the first solutions proposed in 1993 (Abramsky
+et al. 2000; Hyland &amp; Ong 2000) using game semantics, for which
+see
+ <a href="#GameSema">Section 3</a>.</p>
+ 
+<h3 id="SyntPCF">2.1 Syntax of PCF</h3>
+
+<p>
+PCF is a language based on simply typed \(\lambda\)-calculus extended
+with arithmetic and boolean primitives, and its type system is defined
+accordingly:</p>
+
+<div class="indent" id="def2.1">
+
+<p>
+<strong>Definition 2.1</strong> (PCF types). The set <span class="monospace">Types</span>
+of types of PCF is defined inductively
+as follows</p>
+
+<ul>
+
+<li>the <em>ground types</em> <span class="monospace">num</span> (for
+terms representing natural numbers), <span class="monospace">bool</span>
+(for terms representing boolean values)
+are types,</li>
+
+<li>if \(\sigma, \tau\) are types, also \((\sigma \to \tau)\) is a
+type.</li>
+</ul>
+
+<p>
+Parentheses will be omitted whenever possible, with the convention
+that they associate to the right, so that a type \(\sigma_1 \to \cdots
+\sigma_n \to \tau\) is equivalent to \((\sigma_1 \to (\sigma_2 \to
+(\cdots (\sigma_n \to \tau)\cdots)))\)</p>
+</div>
+
+<p>
+PCF terms are the terms of simply typed \(\lambda\)-calculus extended
+with the following arithmetic constants, of the indicated type:</p>
+
+<ul>
+
+<li>a constant \({0}\) of type \(\texttt{num}\), representing the
+natural number 0;</li>
+
+<li>a constant \(\texttt{succ}\) of type \(\texttt{num}\to
+\texttt{num}\) representing the successor function over natural
+numbers;</li>
+
+<li>a constant \(\texttt{pred}\) of type \(\texttt{num}\to
+\texttt{num}\) representing the predecessor function over natural
+numbers;</li>
+
+<li>constants \(\texttt{tt}\) and \(\texttt{ff}\) of type
+\(\texttt{bool}\);</li>
+
+<li>constants of type \(\texttt{bool}\to \texttt{num}\to
+\texttt{num}\to \texttt{num}\) and \(\texttt{bool}\to \texttt{bool}\to
+\texttt{bool}\to \texttt{bool}\) for conditionals of type <span class="monospace">num</span>
+and of type <span class="monospace">bool</span>,
+respectively: these are both written as
+\({\texttt{if }\cdot\texttt{ then }\cdot\texttt{ else }\cdot}\), and
+we let context make clear what is the intended type of the
+result;</li>
+
+<li>a constant \(\texttt{zero?}\) for the test for zero of type
+\(\texttt{num}\to \texttt{bool}\);</li>
+
+<li>a unary function symbol \({\mathtt{Y}(\cdot)}\) for the fixed
+point combinator, where \({\mathtt{Y}(e)}:\sigma\) for any \(e:\sigma
+\to \sigma\).</li>
+</ul>
+
+<p>
+Terms are built inductively according to rules that allow to infer
+<em>judgements</em> of the form \(B \vdash e : \sigma\), stating that
+term \(e\) is of type \(\sigma\) under the assumption that the
+variables occurring free in \(e\) are given unique types in a
+<em>basis</em> \(B\) of the form 
+
+\[{\{ x_1:\sigma_1,\ldots,x_k:\sigma_k \}}.\]
+
+ The rule for building
+PCF-terms are therefore inference rules for such judgements. In
+particular there are rules for typed constants, for example in any
+basis \(B\) there is a judgement \(B \vdash \texttt{zero?} :
+\texttt{num}\to \texttt{bool}\), and we have rules for typed
+\(\lambda\)-abstractions 
+
+\[\frac{B,x:\sigma \vdash e:\tau}{B \vdash {\lambda x:\sigma{\, . \,}e}:\sigma \to \tau}\]
+
+ and applications 
+
+\[\frac{B \vdash e_1 : \sigma \to \tau \qquad B \vdash e_2 : \sigma}{B \vdash e_1 e_2 : \tau}\]
+
+ and
+a rule for the fixed-point operator: 
+
+\[\frac{B \vdash e:\sigma \to \sigma} {B \vdash {\mathtt{Y}(e)}:\sigma}.\]
+
+ </p>
+
+<h3 id="OperSema">2.2 Operational semantics</h3>
+
+<p>
+A PCF <em>program</em> is a closed term of ground type. We specify how
+programs are to be executed by defining an evaluation relation \(e
+\opDownarrow v\) between closed terms \(e\) and <em>values</em> \(v\),
+where the values are the constants and abstractions of the form
+\({\lambda x:\sigma{\, . \,}e}\). In particular, values of ground type
+<span class="monospace">bool</span> are \(\texttt{tt},\texttt{ff}\),
+and values of the ground type <span class="monospace">num</span> are
+\({0}\) and all terms of the form 
+
+\[\mathtt{n} = \underbrace{\texttt{succ}(\ldots \texttt{succ}}_{n}({0}) \ldots ) .\]
+
+ Evaluation is defined
+by cases according to the structure of terms, by means of inference
+rules for judgements of the form \(e \opDownarrow v\). These rules
+state how the result of the evaluation of a term depends on the result
+of the evaluation of other terms, the only axioms having the form \(v
+\opDownarrow v\) for every value \(v\). For example there is a rule
+
+\[\frac{e \opDownarrow v}{{\texttt{succ }e} \opDownarrow  {\texttt{succ }v}}\]
+
+ that states that, if the result of the evaluation of
+\(e\) is \(v\), then the result of the evaluation of \({\texttt{succ
+}e}\) is \({\texttt{succ } v}\). Similarly we can describe the
+evaluation of the other constants. The evaluation of a term of the
+form \(e_1\ e_2\) proceeds as follows: first \(e_1\) is evaluated; if
+the evaluation terminates with value \(v'\), then the evaluation of
+\(e_1\ e_2\) proceeds with the evaluation of \(v'\ e_2\); if this
+terminates with value \(v\), this is the value of \(e_1\ e_2\),
+formally 
+
+\[\frac{e_1 \opDownarrow v' \qquad v'\ e_2 \opDownarrow v}{e_1\ e_2 \opDownarrow v}\]
+
+ For a value of the form \({\lambda x:\sigma{\, .
+\,}e_1}\), its application to a term \(e_2\) has the value (if any)
+obtained by evaluating the term \(e_1[e_2/x]\) resulting by
+substituting \(e_2\) to all free occurrences of \(x\) in \(e_1\):
+
+\[\frac{e_1[e_2/x] \opDownarrow v}{({\lambda x:\sigma{\, . \,}e_1}) e_2 \opDownarrow v}.\]
+
+ These implement a <em>call-by-name</em> evaluation
+strategy: in an application, the term in function position must be
+evaluated completely before the term in argument position, which is
+then passed as actual parameter. The fixed point combinator is
+essential to the encoding of recursive definitions. Its evaluation is
+described by the rule 
+
+\[\frac{e({\mathtt{Y}(e)}) \opDownarrow v}{{\mathtt{Y}(e)} \opDownarrow v}\]
+
+ which is the only rule whose
+premiss involves the evaluation of a larger term than the one to be
+evaluated: this is why the definition of the evaluation relation
+cannot be reduced to structural induction.</p>
+
+<p>
+We shall be especially interested in situations when the evaluation of
+a term \(e\) does not have a value; in these case we say that \(e\)
+<em>diverges</em>, and write \(e \opUparrow\). It is in the presence
+of divergent terms that the causal structure of the evaluation process
+is exposed. The initial example is in fact a term that diverges in a
+very strong sense:</p>
+
+<div class="indent" id="Def2.2">
+
+<p>
+<strong>Definition 2.2</strong> (Undefined). For any ground type
+\(\gamma\), define \(\Omega:\gamma\) as 
+
+\[{\mathtt{Y}({\lambda x:\gamma{\, . \,}x})}\]
+
+ </p>
+</div>
+
+<p>
+By inspecting the evaluation rules we see that the only possible
+evaluation process gives rise to an infinite regress, therefore
+\(\Omega \opUparrow\).</p>
+
+<p>
+We can define the usual boolean operations by means of the conditional
+operator, as in the following examples: 
+
+\[\begin{align}
+\tag{2} \texttt{and} &amp;= {\lambda x:\texttt{bool}, y:\texttt{bool}{\, . \,}{\texttt{if }x\texttt{ then }y\texttt{ else }\texttt{ff}}}.
+                                    \label{etbivalente} \\
+\tag{3} \texttt{or} &amp;= {\lambda x:\texttt{bool}, y:\texttt{bool}{\, . \,}{\texttt{if }x\texttt{ then }\texttt{tt}\texttt{ else }y}}
+                                \label{velbivalente}\end{align}\]
+
+ with the usual
+truth tables. However, we have now to take into account the
+possibility of divergence of the evaluation process, for example in a
+term like \(\texttt{or}(\Omega,\texttt{tt})\), therefore we extend the
+usual truth tables by adding a new boolean value, representing absence
+of information, \(\bot\) (read as &ldquo;undefined&rdquo;) to
+\(\texttt{tt}\) and \(\texttt{ff}\), as the value of the term
+\(\Omega\). Here, the first argument to be evaluated is the one on the
+left, and if the evaluation of this diverges then the whole evaluation
+process diverges. Consider now an operator <span class="monospace">por</span>
+whose interpretation is given by the
+table 
+
+\[\tag{4}\label{por}
+ \begin{array}{r|lll} 
+\texttt{por}&amp; \textit{tt}&amp; \textit{ff}&amp;\bot \\\hline
+\textit{tt}&amp; \textit{tt}&amp; \textit{tt}&amp;\textit{tt}\\
+ \textit{ff}&amp; \textit{tt}&amp; \textit{ff}&amp;\bot\\
+ \bot &amp; \textit{tt}&amp; \bot &amp;\bot 
+\end{array}\]
+
+ In this case \(\texttt{por}(\texttt{tt},\Omega) =
+\texttt{por}(\Omega,\texttt{tt}) = \texttt{tt}\): this is the
+<em>parallel-or</em> which plays a central role in the full
+abstraction problem for PCF. It will turn out that is is not definable
+by any PCF term, precisely because of its parallel nature. In order to
+carry out a semantical analysis of PCF, we need a theory of data types
+with <em>partial elements</em> and of functions over them that support
+an abstract form of recursive definition through fixed point
+equations: this is what is achieved in Scott&rsquo;s theory of
+domains, the original mathematical foundation for denotational
+semantics of programming languages as conceived by Strachey (1966,
+1967).</p>
+
+<h3 id="DenoSema">2.3 Denotational semantics</h3>
+
+<h4 id="TypeDoma">2.3.1 Types as domains</h4>
+
+<p>
+What are the general structural properties of a space of partial data?
+The mathematical theory of computation elaborated by Dana Scott (1970)
+is an answer to this question, that takes partially ordered sets
+generically called <em>domains</em> as basic structures. The partial
+order of a domain describes a qualitative notion of
+&ldquo;information&rdquo; carried by the elements. In such a framework
+it is natural to reify divergence by introducing a new element
+\(\bot\) representing absence of information. When \(x \sqsubseteq y\)
+in this partial order, </p>
+
+<blockquote>
+
+<p>
+\(y\) is <em>consistent with</em> \(x\) and is (possibly) <em>more
+accurate than</em> \(x [\ldots]\) thus \(x \sqsubseteq y\) means that
+\(x\) and \(y\) want to approximate the same entity, but \(y\) gives
+<em>more</em> information about it. This means we have to allow
+&ldquo;incomplete&rdquo; entities, like \(x\), containing only
+&ldquo;partial&rdquo; information. (Scott 1970: 171) </p>
+</blockquote>
+
+<p>
+The resulting partially ordered sets should also have the property
+that sequences of approximations, in particular infinite chains \(x_0
+\sqsubseteq x_1 \sqsubseteq \ldots\) should converge to a
+<em>limit</em> containing the information cumulatively provided by the
+\(x_i\). The same structure is also exploited in Kleene&rsquo;s proof
+of the First Recursion Theorem in Kleene 1952 (secs. 66,
+348&ndash;50), and will allow to define a notion of continuous
+function in terms of preservation of limits.</p>
+
+<div class="indent" id="Def2.3">
+
+<p>
+<strong>Definition 2.3</strong> (Complete partial orders). A complete
+partial order (cpo) is a partially ordered set \({\langle
+D,\sqsubseteq \rangle}\) with a least element \(\bot\), and such that
+every increasing chain \(x_0 \sqsubseteq x_1 \sqsubseteq \ldots\) of
+elements of \(D\) has a least upper bound \(\bigsqcup_n x_n\).</p>
+</div>
+
+<p>
+Given any set \(X\), we write \(X_{\bot}\) for the set \(X \cup \{
+\bot \}\) obtained by adding a new element \(\bot\). It is natural to
+order the elements of \(X_{\bot}\) according to their amount of
+information, by setting for \(x,y \in X_{\bot}\), 
+
+\[\begin{aligned}
+x \sqsubseteq y &amp;\Longleftrightarrow (x = \bot \ \text{ or } \   x = y).\end{aligned}\]
+
+Partially ordered structures of the form \(X_\bot\) are called
+<em>flat domains</em>, among which we have \(\texttt{bool}= {\{
+{\textit{tt}},{\textit{ff}}\}}_\bot\) and \(\texttt{num}=
+{\mathbb{N}}_\bot\), that will be used to interpret the ground types
+of PCF.</p>
+
+<p>
+A general requirement on domains is that every element be a limit of
+its finite approximations, for a notion of finiteness (or
+<em>compactness</em>) that can be formulated entirely in terms of the
+partial order structure:</p>
+
+<div class="indent" id="Def2.4">
+
+<p>
+<strong>Definition 2.4</strong> (Finite elements of a cpo). If \(D\)
+is a cpo, an element \(d \in D\) is <em>finite</em> if, for every
+increasing chain \(x_0 \sqsubseteq x_1 \sqsubseteq \ldots\)
+
+\[d \sqsubseteq \bigsqcup_n x_n  \Longrightarrow \exists x_i\ \left(d \sqsubseteq x_i \right).\]
+
+ For \(d \in D\), the notation \(\mathcal{A}(d)\) denotes
+the set of finite elements below \(d\); \(\mathcal{A}(D)\) is the set
+of finite elements of \(D\). Finite elements are also called
+<em>compact</em>.</p>
+</div>
+
+<p>
+Observe that finite subsets of a set \(X\) are exactly the finite
+elements of the complete lattice of subsets of \(X\). It is useful
+also to observe that this definition only partially matches our
+intuition: consider for example the finite element \(\infty + 1\) in
+the cpo 
+
+\[0 \sqsubseteq 1 \sqsubseteq 2 \sqsubseteq \cdots \sqsubseteq \infty \sqsubseteq \infty + 1.\]
+
+ </p>
+
+<div class="indent" id="Def2.5">
+
+<p>
+<strong>Definition 2.5</strong> (Algebraic cpo). A \(D\) is
+<em>algebraic</em> if, for every \(d \in D\), there is an increasing
+chain \(x_0 \sqsubseteq x_1 \sqsubseteq \ldots\) of finite
+approximations of \(d\) such that 
+
+\[d = \bigsqcup_n x_n.\]
+
+ If \(D\) is algebraic,
+we say that the finite elements form a <em>basis</em> of \(D\).</p>
+</div>
+
+<p>
+One last completeness assumption on algebraic cpo&rsquo;s is needed in
+order to get a category of domains suitable for the interpretation of
+PCF:</p>
+
+<div class="indent" id="Def2.6">
+
+<p>
+<strong>Definition 2.6</strong>. Given a cpo \(D\), if \(X \subseteq
+D\) has an upper bound we say that \(X\) is <em>consistent</em>, and
+write \(\opuparrow X\), or \(x \opuparrow y\) when \(X = {\{ x,y
+\}}\). \(D\) is <em>consistently complete</em> if every \(X \subseteq
+D\) such that \(\opuparrow X\) has a least upper bound.</p>
+</div>
+
+<p>
+The following notion of domain that has proved extremely convenient as
+a framework for the denotational semantics of programming languages
+(Scott 1982):</p>
+
+<div class="indent" id="Def2.7">
+
+<p>
+<strong>Definition 2.7</strong> (Domain). A <em>domain</em> is a
+consistently complete algebraic cpo with a countable basis.</p>
+</div>
+
+<h4 id="AbstTheoCompFuncHighType">2.3.2 An abstract theory of computable functions of higher-types</h4>
+
+<p>
+How can we use the notion of information implicit in the ordering on
+the elements of domains to develop an abstract notion of
+computability? Clearly, a computable function should preserve
+<em>monotonically</em> any increase of information on its inputs:
+\(f(x) \sqsubseteq f(y)\) whenever \(x \sqsubseteq y\). In particular,
+<em>strict</em> functions \(f : D \to E\) over flat domains, those for
+which \(f(\bot_D) = \bot_E\), are monotonic.</p>
+
+<p>
+Consider the domain \({\{ 0,1 \}}^\infty\) whose elements are finite
+and infinite sequences of bits \(0,1\), where \(u \sqsubseteq v\) if
+either \(u\) is infinite and \(u = v\), or \(u\) is finite and \(u\)
+is a prefix of \(v\). What properties should be true of a computable
+function taking as arguments an infinite sequence of bits \({\langle
+b_1,b_2,b_3,\ldots \rangle}\)? Take as an example the function
+\(\textit{search}:{\{ 0,1 \}}^\infty \to {\mathbb{B}}_\bot\) whose
+value is \({\textit{tt}}\) if, for \(u \in {\{ 0,1 \}}^\infty\), \(1\)
+occurs in \(u\) at least once, otherwise \(\bot\). Think of the
+sequence \({\langle b_1,b_2,b_3,\ldots \rangle}\) as given one element
+at a time: the initial segments obtained in this process are an
+increasing chain of finite elements of \({\{ 0,1 \}}^\infty\),
+
+\[{\langle  \rangle} \sqsubseteq {\langle b_1 \rangle} \sqsubseteq {\langle b_1,b_2 \rangle} \sqsubseteq {\langle b_1,b_2,b_3 \rangle} \sqsubseteq \ldots\]
+
+ having \({\langle b_1,b_2,b_3,\ldots \rangle}\) as a
+limit (i.e., least upper bound). By monotonicity we have a
+corresponding increasing chain of values 
+
+\[\textit{search}({\langle  \rangle}) \sqsubseteq \textit{search}({\langle b_1 \rangle}) \sqsubseteq \textit{search}({\langle b_1,b_2 \rangle}) \sqsubseteq \textit{search}({\langle b_1,b_2,b_3 \rangle}) \sqsubseteq \ldots\]
+
+ If
+\(\textit{search}({\langle b_1,b_2,b_3,\ldots \rangle}) =
+{\textit{tt}}\), then there must be a finite initial segment
+\({\langle b_1,b_2,\ldots,b_n \rangle}\) for which
+\(\textit{search}({\langle b_1,b_2,\ldots,b_n \rangle}) =
+{\textit{tt}}\), and this will be the cumulative value of the function
+for the infinite sequence \({\langle b_1,b_2,b_3,\ldots \rangle}\). In
+general, a computable function \(f : D \to E\) should (be monotonic
+and) have the property that a finite amount of information on the
+output \(f(x)\) must be already obtainable by giving a finite amount
+of information on the input \(x\). This is equivalent to the notion of
+continuity originally introduced by Scott in his theory of computable
+functions over domains:</p>
+
+<div class="indent" id="Def2.8">
+
+<p>
+<strong>Definition 2.8</strong> (Continuous functions). If \({\langle
+D,\sqsubseteq _D \rangle},{\langle E,\sqsubseteq _E \rangle}\) are
+cpo&rsquo;s and \(f : D \to E\) is monotonic, \(f\) is
+<em>continuous</em> if 
+
+\[f(\bigsqcup_i x_i) = \bigsqcup_i f(x_i)\]
+
+ for every increasing chain \(x_0
+\sqsubseteq x_1 \sqsubseteq \ldots \subseteq D\).</p>
+</div>
+
+<p>
+From the point of view of denotational semantics, a fundamental
+property of continuous functions \(D \to D\) is that they admit a
+least fixed point, whose construction can be carried out uniformly and
+continuously:</p>
+
+<div class="indent" id="The2.1">
+
+<p>
+<strong>Theorem 2.1</strong> (The Fixed Point Theorem for continuous
+functions) Let \(f : D \to D\) be a continuous function and \(x \in
+D\) be such that \(x \sqsubseteq f(x)\). Then the element 
+
+\[\bigsqcup_{n \in {\mathbb{N}}} f^{(n)}(x)\]
+
+is the least \(y \sqsupseteq x\) such that \(f(y) = y\).</p>
+</div>
+
+<div class="indent" id="Def2.9">
+
+<p>
+<strong>Definition 2.9</strong>. The least fixed point of a continuous
+\(f : D \to D\) is the element of \(D\) defined by 
+
+\[{\texttt{fix}(f)} =_{\textrm{def}} \bigsqcup_{n \in {\mathbb{N}}} f^{(n)}(\bot).\]
+
+ </p>
+</div>
+
+<p>
+The continuous functions from \(D\) to \(E\), for cpo&rsquo;s
+\({\langle D,\sqsubseteq _D \rangle}\) e \({\langle E,\sqsubseteq _E
+\rangle}\), form a cpo \([D \to E]\), ordered pointwise by setting,
+for \(f,g:D \to E\): 
+
+\[f \sqsubseteq g \Longleftrightarrow \forall d \in D. f(d) \sqsubseteq _E g(d).\]
+
+ \([D \to E]\) is a domain if \(D\)
+and \(E\) are, and \({\texttt{fix}(\cdot)}:[D \to D] \to D\) is
+continuous. A further construction on cpo&rsquo;s which also extends
+to domains and is very frequently used is <em>cartesian product</em>:
+given cpo&rsquo;s \(D,E\), their cartesian product is defined as the
+set \(D \times E\) of pairs \({\langle d,e \rangle}\) where \(d \in
+D\) and \(e \in E\), ordered pointwise: \({\langle d,e \rangle}
+\sqsubseteq {\langle d',e' \rangle}\) if and only if \(d \sqsubseteq
+_D d'\) and \(e \sqsubseteq _E e'\). We can summarize these
+constructions in categorical language (Plotkin 1978, Other Internet
+Resources), saying that the category whose objects are domains and
+whose morphisms are the continuous functions is <em>cartesian
+closed</em>.</p>
+
+<h4 id="ContSemaForPCF">2.3.3 Continuous semantics for PCF</h4>
+
+<p>
+The <em>standard interpretation</em> of PCF consists of a family of
+cpos \(D^\sigma\), for each type \(\sigma\), where \(D^\texttt{num}=
+{\mathbb{N}}_{\bot}\) and \(D^\texttt{bool}= {\mathbb{B}}_{\bot}\),
+\(D^{\sigma \to \tau} = [D^\sigma \to D^\tau]\) and the PCF constants
+have the natural interpretation as strict continuous functions of the
+appropriate type, for example \(\texttt{cond}: {\mathbb{B}}_{\bot} \to
+{\mathbb{N}}_{\bot} \to {\mathbb{N}}_{\bot} \to {\mathbb{N}}_{\bot}\)
+is interpreted as: 
+
+\[\textit{cond}(b)(x)(y) = \left\{    \begin{array}{ll}
+                            x&amp;\text{if \(b = \texttt{tt}\)}\\
+                            y &amp;\text{if \(b = \texttt{ff}\)}\\
+                            \bot    &amp;\text{if \(b = \bot\),}    
+                            \end{array}
+                \right.\]
+
+ Furthermore, the operator
+\({\mathtt{Y}(\cdot)}\) is interpreted as the continuous functional
+\({\texttt{fix}(\cdot)}\) at the appropriate type. This is the
+interpretation considered in Scott 1969b) and Milner 1973.</p>
+
+<p>
+The possibility that \(e\) may contain free occurrences of variables
+(whose types are given by a basis \(B\)) slightly complicates the
+interpretation of terms, making it depend on a further parameter, an
+<em>environment</em> \(\rho\) mapping each free variable \(x:\tau\) of
+\(e\) to an element of \(D^\tau\) (if the latter condition is
+satisfied, we say that \(\rho\) <em>respects</em> \(B\)). Of course,
+the environment is irrelevant when \(e\) is closed.</p>
+
+<p>
+The standard interpretation of PCF terms \(e:\sigma\) (from a basis
+\(B\)) is then an element \({\lll e\rll \rho} \in D^\sigma\), for any
+environment \(\rho\) such that \(\rho\) respects \(B\), built by
+structural induction on terms, interpreting application as function
+application and \(\lambda\)-abstractions by (continuous) functions.
+More generally, an interpretation is <em>continuous</em> if every
+\(D^\sigma\) is a cpo and \(D^{\sigma \to \tau}\) consists of
+continuous functions \(D^\sigma \to D^\tau\).</p>
+
+<p>
+A <em>model</em> of PCF is an interpretation that satisfies the
+expected identities between terms of the same type. We shall omit the
+details of the general characterization of models of PCF, for which
+the reader is referred to Ong (1995: sec. 3.2) and Berry, Curien,
+&amp; L&eacute;vy (1985: sec. 4), but just to point out an example of
+what must be taken into account when such a generality is needed, in
+order to admit interpretations where the elements at function types
+are not, strictly speaking, functions, we have to assume a family of
+<em>application</em> operations 
+
+\[\cdot_{\sigma\tau}: D^{\sigma \to \tau} \times D^\sigma \to D^\tau\]
+
+ so that, if \(B \vdash
+e_1 : \sigma \to \tau\) and \(B \vdash e_2 ; \sigma\), \({\lll
+e_1e_2\rll \rho} = {\lll e_1\rll \rho} \cdot_{\sigma\tau} {\lll
+e_2\rll \rho} \in {{{D}^{\tau}}}\). A model is
+<em>order-extensional</em> if, for all elements \(f,g \in
+{{{D}^{\sigma \to \tau}}}\), \(f \sqsubseteq g\) if and only if \(f
+\cdot x \sqsubseteq g \cdot x\) for all \(x \in {{{D}^{\sigma}}}\). A
+model is <em>extensional</em> if, for all elements \(f,g \in
+{{{D}^{\sigma \to \tau}}}\), \(f = g\) if and only if \(f \cdot x = g
+\cdot x\) for all \(x \in {{{D}^{\sigma}}}\). An element \(d \in
+D^\sigma\) of a model is <em>definable</em> is there is a closed terms
+\(e:\sigma\) such that \(d = {\lll e\rll }\).</p>
+
+<h3 id="RelaOperDenoSema">2.4 Relating operational and denotational semantics</h3>
+
+<p>
+The general setting for discussing full abstraction requires that we
+introduce the following notions:</p>
+
+<div class="indent" id="Def2.10">
+
+<p>
+<strong>Definition 2.11</strong> (Observational preorder and
+equivalence) Given PCF terms \(e\) and \(e'\) of the same type
+\(\sigma\), we write \(e \precsim_{\textrm{obs}} e'\) (read <em>\(e\)
+is observationally less defined than \(e'\)</em>) if, for every
+program context \(C\blbr\) with a hole of type \(\sigma\) and any
+value \(v\), 
+
+\[C[e] \opDownarrow v \ \text{ implies that } \ C[e'] \opDownarrow v.\]
+
+ We say that \(e\) and \(e'\) are
+<em>observationally equivalent</em>, and write \(e
+\simeq_{\textrm{obs}} e'\), if \(e \precsim_{\textrm{obs}} e'\) and
+\(e' \precsim_{\textrm{obs}} e\).</p>
+</div>
+
+<p>
+Observational equivalence is a congruence. Another congruence on PCF
+terms is given by equality of denotations in a model:</p>
+
+<div class="indent" id="Def2.11">
+
+<p>
+<strong>Definition 2.11</strong> (Denotational preorder and
+equivalence). Given PCF terms \(e\) and \(e'\) of the same type
+\(\sigma\) relative to a basis \(B\), we write \(e
+\precsim_{\textrm{den}} e'\) if \({\lll e\rll \rho} \sqsubseteq {{\lll
+e'\rll} \rho}\) for all environments \(\rho\) respecting \(B\). We
+write \(e \simeq_{\textrm{den}} e'\) if \(e \precsim_{\textrm{den}}
+e'\) and \(e' \precsim_{\textrm{den}} e\) .</p>
+</div>
+
+<div class="indent" id="Prop2.1">
+
+<p>
+<strong>Proposition 2.1</strong> (Computational adequacy for PCF). The
+following two statements hold for the standard model of PCF, and are
+equivalent:</p>
+
+<ol>
+
+<li>For any two PCF terms of the same ground type \(e,e'\), \(e
+\simeq_{\textrm{den}} e'\) implies \(e \simeq_{\textrm{obs}}
+e'\);</li>
+
+<li>For any closed PCF term \(e\) of ground type and any value \(v\)
+of that type, \({\lll e\rll } = {\lll v\rll }\) if and only if \(e
+\opDownarrow v\);</li>
+</ol>
+</div>
+
+<p>
+We can now justify our intuitive interpretation of \(\bot\) in the
+standard model, where ground types are interpreted as flat
+domains:</p>
+
+<div class="indent" id="Corr2.1">
+
+<p>
+<strong>Corollary 2.1.</strong> For any closed PCF term \(e\) of
+ground type, \(e \opUparrow\) if and only if \({\lll e\rll } =
+\bot\).</p>
+</div>
+
+<p>
+In
+ <a href="#ProgEquiFullAbst">Section 1.3</a>
+ we have already defined a very general notion of (equational) full
+abstraction, based on synonymy, i.e., equality of interpretation of
+terms. In the case PCF, whose intended models are partially ordered at
+all types, we can define a stronger property:</p>
+
+<div class="indent" id="Def2.12">
+
+<p>
+<strong>Definition 2.12</strong> (Inequational full abstraction). A
+continuous model \({\langle {\{ {{{D}^{\sigma}}} \mid \sigma \in
+\texttt{Types}}\},{\lll \cdot\rll \cdot} \rangle}\) of PCF is
+<em>inequationally fully abstract</em> if, for closed terms \(e,e'\),
+\(e \precsim_{\textrm{obs}} e'\) implies \({\lll e\rll } \sqsubseteq
+{\lll e'\rll }\).</p>
+</div>
+
+<p>
+Definability is the key to full abstraction, as shown by the following
+important result of Milner and Plotkin:</p>
+
+<div class="indent" id="The2.2">
+
+<p>
+<strong>Theorem 2.2.</strong> A continuous, order-extensional model of
+PCF is fully abstract if and only if for every type \(\sigma\),
+\({{{D}^{\sigma}}}\) is a domain whose finite elements are
+definable.</p>
+</div>
+
+<p>
+We turn now to the failure of the full abstraction property for the
+standard model of PCF, as shown by Plotkin in his classic study
+(Plotkin 1977):</p>
+
+<div class="indent" id="Prop2.2">
+
+<p>
+<strong>Proposition 2.2.</strong> The standard model of PCF is not
+fully abstract with respect to call-by-name evaluation.</p>
+</div>
+
+<p>
+The proof is based on the observation that we can build PCF terms of
+type \((\texttt{bool}\to \texttt{bool}\to \texttt{bool}) \to
+\texttt{num}\) that recognize the parallel-or function. Specifically,
+consider the &ldquo;test&rdquo; terms \(T_i\) defined as follows,
+where \(i = {0},1\):</p>
+
+<div class="center" style="margin-bottom:10px">
+
+<div>
+\(\lambda f : \texttt{bool}\to \texttt{bool} \to \texttt{bool.if } (f
+\texttt{ tt } \bot_{\texttt{bool}} \texttt{ then}\)
+</div>
+
+<div style="padding-left:10em">
+\(\texttt{if } (f \bot_{\texttt{bool}} \texttt{ tt}) \texttt{ then}\)
+</div>
+
+<div style="padding-left:11em">
+\(\texttt{if } (f \texttt{ ff ff}) \texttt{ then}\)
+</div>
+
+<div style="padding-left:12em">
+\(\bot_{\texttt{num}}\)
+</div>
+
+<div style="padding-left:11em">
+\(\texttt{else } i\)
+</div>
+
+<div style="padding-left:10em">
+\(\texttt{else } \bot_{\texttt{num}}\)
+</div>
+
+<div style="padding-left:9em">
+\(\texttt{else } \bot_{\texttt{num}}\)
+</div>
+</div>
+
+<p>
+Then, \({\mathcal{D}\lll T_{0}\rll}\ \texttt{por} = {0}\neq 1 =
+{\mathcal{D}\lll T_1 \rll }\ \texttt{por} \), where <span class="monospace">por</span>
+is defined by table \((\ref{por})\), so
+\(T_{0} {\simeq_{\textrm{den}}}T_1\) does not hold. However, no
+program context in PCF can separate \(T_{0}\) and \(T_1\) because
+<span class="monospace">por</span> is not definable. This can be shown
+by characterizing in a combinatorial way the relations of dependence
+induced by the evaluation process of a program among the evaluation
+processes of its (sub)terms, as Plotkin does in the Activity Lemma
+(Plotkin 1977: Lemma 4.2). As an alternative, it is possible to build
+a computationally adequate models of PCF whose functions enjoy a weak
+sequentiality property (that we discuss below, in
+ <a href="#Stab">Section 2.5.1</a>)
+ and where, therefore, the function <span class="monospace">por</span>
+is ruled out: a complete formal proof along these lines is given in
+Gunter 1992 (sec. 6.1).</p>
+
+<p>
+One option to solve the full abstraction problem is to extend the
+language: a remarkable result of Plotkin (1977) shows that adding
+parallel-or is enough:</p>
+
+<div class="indent" id="Prop2.3">
+
+<p>
+<strong>Proposition 2.3.</strong> The standard model is fully abstract
+for the language PCF extended with parallel-or.</p>
+</div>
+
+<p>
+Milner (1977) has shown that there is a fully abstract model of PCF,
+by taking the set of closed terms at each type \(\sigma\) identifying
+observationally equivalent terms and by completing the resulting
+partially ordered set turning it into a cpo.</p>
+
+<div class="indent" id="Corr2.2">
+
+<p>
+<strong>Corollary 2.2.</strong> There is a unique continuous, order
+extensional, inequationally fully abstract model of PCF, up to
+isomorphism.</p>
+</div>
+
+<p>
+The full abstraction problem for PCF consists in finding a direct
+description of the class of domains and continuous functions that make
+up the fully abstract model. A solution to this problem would require
+a precise criterion for assessing the extent to which a proposed
+description of the model is satisfactory. If one accepts the
+&ldquo;precise minimal condition that a semantic solution of the full
+abstraction problem should satisfy&rdquo; given by Jung &amp;
+Stoughton (1993), namely the possibility of describing in an effective
+way the domains \(D^\sigma\) of a finitary version of PCF (whose only
+ground type is <span class="monospace">bool</span>), then the story of
+failed attempts to give such a direct description of the fully
+abstract model is justified, with hindsight, by a result of Loader
+(2001):</p>
+
+<div class="indent" id="The2.3">
+
+<p>
+<strong>Theorem 2.3.</strong> Observational equivalence for finitary
+PCF is not decidable.</p>
+</div>
+
+<p>
+It is still possible, however, that one could find a direct
+description of an <em>intensionally</em> fully abstract model
+(Abramsky et al. 2000: 411):</p>
+
+<div class="indent" id="Def2.13">
+
+<p>
+<strong>Definition 2.13</strong> (Intensional full abstraction). A
+model of PCF is <em>intensionally fully abstract</em> if every
+\(D^\sigma\) is algebraic and all its compact elements are
+definable.</p>
+</div>
+
+<p>
+Pursuing this line of development of the full abstraction problem
+leads us to game semantics, which will be the topic of the next
+Section. Before that, we outline the main attempts to reduce the model
+by means of a semantical characterization of higher-order sequential
+computation.</p>
+
+<h3 id="TowaSequSema">2.5 Towards a sequential semantics</h3>
+
+<p>
+The reason for the failure of full abstraction of the continuous
+semantics of PCF is the existence of functions whose evaluation
+requires parallel computation. We describe now some proposals for
+characterizing <em>sequentiality</em> of functions by means of
+properties related to the structure of the domains on which they are
+defined. This has been an area of intensive research toward the
+solution of the full abstraction problem for PCF, and some of the
+insights that emerged from it lead very naturally to the game models
+discussed in
+ <a href="#GameSema">Section 3</a>.
+ In addition, the following summary of attempts at a characterization
+of sequentiality is also a very interesting demonstration of the
+expressive power of the language of partial order in the semantic
+analysis of programming concepts.</p>
+
+<p>
+Intuitively, a sequential function is one whose evaluation proceeds
+serially: this means that it is possible to schedule the evaluation of
+its arguments so that the evaluation of the function terminates with
+the correct value; if the evaluation of one of them diverges, the
+whole evaluation diverges. At each stage of this process there is an
+argument whose value is needed to obtain more information on the
+output of the function. In order to account for this causal structure
+of computations at the semantical level, we need to enrich the domain
+structure so that the order on the elements reflect the happening of
+computational <em>events</em> and their causal order. This suggests
+another way of interpreting the abstract notion of information that
+motivated the axioms of a cpo in
+ <a href="#TypeDoma">Section 2.3.1</a>.
+ Now, </p>
+
+<blockquote>
+
+<p>
+information has to do with (occurrences of) events: namely the
+information that those events occurred. For example in the case of
+\({\mathbb{N}}_{\bot}\), \(\bot\) might mean that no event occurred
+and an integer \(n\), might mean that the event occurred of the
+integer \(n\) being output (or, in another circumstance being input).
+(Plotkin 1978, Other Internet Resources)</p>
+</blockquote>
+
+<h4 id="Stab">2.5.1 Stability</h4>
+
+<p>
+One interpretation of events regards them as the production of values
+in the evaluation of an expression. This interpretation originates in
+the context of bottom-up computation of recursive programs developed
+by Berry (1976), where a recursive definition is translated into a
+graph displaying the dependence of results of an expression on results
+of its subexpressions. This context naturally suggests the notion of
+<em>producer</em> of an event \(x\), as a set of events that must have
+happened in order that \(x\) may happen. Reformulating this
+observation in the language of partial orders, Berry (1976)
+defined:</p>
+
+<div class="indent" id="Def2.14">
+
+<p>
+<strong>Definition 2.14</strong> (Stability). Let \(D_1,\ldots,D_n,
+D\) be flat cpo&rsquo;s and \(f: D_1\times \ldots \times D_n \to D\)
+monotonic (hence continuous). Then \(f\) is <em>stable</em> if for
+every \(\vec{x} = {\langle x_1,\ldots,x_n \rangle} \in D_1\times
+\ldots \times D_n\) there is a unique minimal element \(m(f,x)
+\sqsubseteq \vec{x}\) such that \(f(m(f,\vec{x})) = f(\vec{x})\).</p>
+</div>
+
+<p>
+Clearly, the parallel-or function is not stable: the value
+\(\texttt{por}(\bot,{\textit{tt}}) = {\textit{tt}}=
+\texttt{por}({\textit{tt}},\bot)\) has no minimal producer. A
+remarkable property of stable functions is that they allow to build a
+new model of PCF, where \({{{D}^{\sigma \to \tau}}}\) is the set of
+stable functions on the domains that interpret the types \(\sigma\)
+and \(\tau\), which are refinements of Scott domains called
+<em>dI-domains</em> (Berry 1978). From our point of view, the
+important outcome of these definitions is the following adequacy
+result (Gunter 1992: chap. 6):</p>
+
+<div class="indent" id="Prop2.4">
+
+<p>
+<strong>Proposition 2.4.</strong> The interpretation of PCF terms as
+elements of dI-domains, where \(D^{\sigma \to \tau}\) is the dI-domain
+of stable functions from \(D^\sigma\) to \(D^\tau\) with the stable
+order, is a computationally adequate model of PCF.</p>
+</div>
+
+<p>
+This result completes the argument showing the failure of full
+abstraction for the continuous model of PCF at the end of
+ <a href="#RelaOperDenoSema">Section 2.4</a>,
+ if the informal notion of sequentiality used there is formalized as
+stability. The stable model of PCF has recently been shown to be fully
+abstract for an extension of PCF (Paolini 2006).</p>
+
+<h4 id="SequFunc">2.5.2 Sequential functions</h4>
+
+<p>
+The first definitions of sequentiality, due to Vuillemin (1974) and
+Milner (1977) stated that an \(n\)-ary functions \(f\) over flat
+domains is <em>sequential at argument \({\langle x_1,\ldots,x_n
+\rangle}\)</em> if there is a <em>sequentiality index</em> \(i\) of
+\(f\), depending on \({\langle x_1,\ldots,x_n \rangle}\), such that
+every increase in the output information must increase the information
+at argument \(i\). For example, the function \(\texttt{cond} :
+{\mathbb{B}}_{\bot} \times {\mathbb{N}}_{\bot} \times
+{\mathbb{N}}_{\bot} \to {\mathbb{N}}_{\bot}\) is sequential in this
+sense at any input tuple. In fact, its sequentiality index at
+\({\langle \bot,m,n \rangle}\) is 1; its sequentiality index at
+\({\langle {\textit{tt}},m,n \rangle}\) is 2, and its sequentiality
+index at \({\langle {\textit{ff}},m,n \rangle}\) is 3. There is
+however no sequentiality index for the function \(\texttt{por} :
+{\mathbb{B}}_{\bot} \times {\mathbb{B}}_{\bot} \to
+{\mathbb{B}}_{\bot}\) at the input \({\langle \bot,\bot
+\rangle}\).</p>
+
+<p>
+While all sequential functions (over flat domains) are stable,
+sequentiality is strictly stronger than stability. For example, the
+continuous function from \({\mathbb{B}}_\bot \times {\mathbb{B}}_\bot
+\times {\mathbb{B}}_\bot\) to \({\mathbb{B}}_\bot\) defined as the
+smallest continuous extension of the three assignments 
+
+\[{\langle {\textit{tt}},{\textit{ff}},\bot \rangle} \mapsto {\textit{tt}}, {\langle {\textit{ff}},\bot,{\textit{tt}}\rangle} \mapsto {\textit{tt}}, {\langle \bot,{\textit{tt}},{\textit{ff}}\rangle} \mapsto {\textit{tt}}.\]
+
+has no sequentiality index at the argument \({\langle \bot,\bot,\bot
+\rangle}\), but is stable because the arguments \({\langle
+{\textit{tt}},{\textit{ff}},\bot \rangle},{\langle
+{\textit{ff}},\bot,{\textit{tt}}\rangle},{\langle
+\bot,{\textit{tt}},{\textit{ff}}\rangle}\) are pairwise
+inconsistent.</p>
+
+<p>
+The following result adds support to the search for a semantical
+characterizations of sequentiality:</p>
+
+<div class="indent" id="Prop2.5">
+
+<p>
+<strong>Proposition 2.5.</strong> Let \(f : D_1 \times \cdots \times
+D_n \to D\) be a continuous function, where \(D_i,D\) are either
+\({\mathbb{N}}_\bot\) or \({\mathbb{B}}_\bot\). Then \(f\) is
+sequential if and only if it is definable in PCF.</p>
+</div>
+
+<h4 id="ConcDataStruSequAlgo">2.5.3 Concrete data structures and sequential algorithms</h4>
+
+<p>
+If the domains needed for an adequate definition of sequentiality are
+to describe the causality relations among occurrences of computational
+events, then it is necessary to enrich our picture by considering
+events as located at <em>places</em>, generalizing the notion of
+argument place in the definitions of Vuillemin and Milner which
+depends on how a function is presented. This led to a notion of
+<em>concrete data structure</em> (cds) (Kahn &amp; Plotkin 1993) and
+to an axiomatization of the order-theoretic properties of domains of
+first-order data. Kahn and Plotkin obtained a representation theorem
+for the domains described by their axioms, the <em>concrete
+domains</em>, in terms of the <em>states</em> of a process of
+exploration of a concrete data structure that consists in filling,
+given a state \(x\), any cell enabled by sets of events that have
+already happened in \(x\), starting from <em>initial</em> cells
+enabled in the initial, empty state: this is similar to proving
+theorems in an abstract deductive system whose rules are the
+enablings. As a motivating example, think of a linked list of, say,
+natural numbers. The initial cell may be filled at any time with any
+value \(n_1\). This event enables the second cell of the list, which
+may then (and only then) be filled with any value \(n_2\), and so on
+for all later cells.</p>
+
+<p>
+Observe that the framework of concrete data structures gives the
+necessary notions to reconstruct a semantical version of
+sequentiality. Roughly, a monotonic function \(f\) from states of
+\(M\) to states of \(M'\) is <em>sequential</em> (at state \(x\)) if,
+for any output cell \(c'\), there is an input cell \(c\) that must be
+filled in any transition from \(x\) to \(y\) such that the transition
+from \(f(x)\) to \(f(y)\) fills \(c'\) (if such a \(c'\) does exist)
+(Curien 1986: Def.&nbsp;2.4.5). The cell \(c\) is the
+<em>sequentiality index</em> for \(f\) at \(x\) for \(c'\).</p>
+
+<p>
+The category whose objects are the concrete data structures and whose
+morphisms are the sequential functions just defined is, however, not
+cartesian closed, not unexpectedly. This observation (for a simple
+proof, see Amadio &amp; Curien 1998 (theorem 14.1.12)) prevents the
+use of this category as a model of PCF. However, it is possible to
+define for every two concrete data structures \(M,M'\) a new one \(M
+\to M'\) whose states represent <em>sequential algorithms</em> and
+which is the exponential object of \(M\) and \(M'\) in a cartesian
+closed category whose morphisms are sequential algorithms (Curien
+1986: sec. 2.5). The generalizations of the model theory of PCF to
+categorical models allows us to obtain a model of PCF from this new
+category, even though its morphisms are not functions in the usual
+set-theoretic sense. It turns out that the sequential algorithm model
+is not extensional, because there are distinct PCF terms that denote
+the same continuous function yet represent distinct algorithms. As an
+example, consider the following two terms, that denote the same
+function but different algorithms: 
+
+\[\begin{aligned}
+\texttt{lror}(x,y) &amp;= \texttt{if }x\texttt{ then }({\texttt{if }y\texttt{ then }\texttt{tt}  \texttt{ else }x}) \\
+&amp;\quad \texttt{ else }({\texttt{if }y\texttt{ then }\texttt{tt}\texttt{ else }\texttt{ff}}) \\
+\texttt{rlor}(x,y) &amp;= \texttt{if }y\texttt{ then }({\texttt{if }x\texttt{ then }\texttt{tt}\texttt{ else }y})\\
+&amp;\quad \texttt{ else }({\texttt{if } x\texttt{ then }\texttt{tt}\texttt{ else }\texttt{ff}}).    
+\end{aligned}\]
+
+ By suitably
+introducing error values \(\textit{error}_1,\textit{error}_2\) in the
+semantics, and enforcing an error-propagation property of the
+interpretations of terms (thus enlarging the observables of the
+language), the <em>functions</em> corresponding to the above terms can
+then be distinguished: clearly, for the interpreting functions
+\(\textit{lror}\) and \(\textit{rlor}\) we have 
+
+\[\begin{aligned}
+ \textit{lror}(\textit{error}_1,\textit{error}_2) &amp;= \textit{error}_1 &amp;\textit{rlor}(\textit{error}_1,\textit{error}_2) &amp;= \textit{error}_2\end{aligned}\]
+
+ which
+also points to the possibility of proving full abstraction of this
+(non-standard) extensional model with respect to an extension of PCF
+with control operators (Cartwright, Curien, &amp; Felleisen 1994).</p>
+
+<p>
+Before leaving this overview of the quest for an extensional
+characterization of higher-order sequentiality, we should mention
+Bucciarelli &amp; Ehrhard (1994) who introduced a refinement of the
+dI-domains of Berry supporting a notion of <em>strongly stable
+function</em> which allows them to build an extensional model of PCF,
+which is not fully abstract. The reason for the failure of full
+abstraction in this case depends on the fact that PCF-definable
+functionals satisfy extensionality properties that fail when functions
+are ordered by the stable order. This was also the reason that
+motivated the introduction of <em>bidomains</em> (Berry 1978), where
+the stable and extensional (= pointwise) orderings of functions
+coexist.</p>
+
+<h3 id="HistNoteFurtRead">2.6 Historical notes and further readings</h3>
+
+<p>
+The problem of full abstraction has been anticipated in a large amount
+of work on the relations between the denotational and operational
+interpretations of programming languages. In particular, the
+pioneering work on the semantics of recursive programs carried out in
+Stanford in the early 1970s by a group of people gathering around
+Zohar Manna, and including Jean Marie Cadiou, Robin Milner and Jean
+Vuillemin, also interacting with Gilles Kahn.</p>
+
+<p>
+A related tradition was also quite influential on the background of
+the full abstraction problem, namely the characterizations of
+semantical notions like continuity and sequentiality inside syntactic
+models of the (untyped) \(\lambda\)-calculus based on B&ouml;hm trees
+(Barendregt 1984), mainly due to L&eacute;vy and Berry (see Berry et
+al. 1985 and Curien 1992) for accounts of the search for fully
+abstract models of PCF along this line).</p>
+
+<p>
+The basic papers on full abstraction for PCF are Milner 1977; Plotkin
+1977. They can be read together as giving a coherent picture of the
+semantic analysis of this language. An independent approach to full
+abstraction came from the Russian logician Vladimir Sazonov who
+characterized definability in PCF in terms of a certain class of
+sequential computational strategies (Sazonov 1975, 1976). His work,
+however, had no direct influence on the bulk of research on the full
+abstraction problem, and only recently there have been attempts to
+relate Sazonov&rsquo;s characterization to the game theoretic
+approaches (Sazonov 2007).</p>
+
+<p>
+Another, completely different approach to full abstraction, exploits
+special kinds of <em>logical relations</em> in order to isolate
+quotients of the continuous model. The first use of logical relations
+in the context of the problem of full abstraction is Mulmuley 1987,
+but the resulting construction of a fully abstract model is obtained
+by brute force and therefore is not what the full abstraction problem
+searches for. Later, Sieber (1992) and O&rsquo;Hearn &amp; Riecke
+(1995) have employed refinements of this technique to gain a better
+insight into the structure of the fully abstract models,
+characterizing the definable elements of the standard continuous model
+by means of invariance under special logical relations cutting out the
+non-sequential functions.</p>
+
+<p>
+Detailed accounts of the full abstraction problem for PCF can be found
+in Gunter 1992 (chaps 5,6), Streicher 2006, Ong 1995, Stoughton 1988
+and Amadio &amp; Curien 1998 (chaps 6, 12, 14), in approximately
+increasing order of technical complexity. The emphasis on the
+recursion-theoretic aspects of PCF and its full abstraction problem
+are dealt with in detail in the textbook (Longley &amp; Normann 2015:
+chaps 6, 7); a shorter account can be found in Longley 2001 (sec.
+4).</p>
+
+<h2 id="GameSema">3. Game semantics</h2>
+
+<h3 id="FullComp">3.1 Full completeness</h3>
+
+<p>
+
+ <a href="#The2.2">Theorem 2.2</a>
+ highlights the fundamental role of definability of finite elements in
+the fully abstract model of PCF, an aspect that has been stressed in
+Curien 2007. As a smooth transition to the formalisms based on games,
+and partly following the historical development of the subject, we
+pause shortly to examine another aspect of definability that arises at
+the border between computation and the proof theory of constructive
+logical systems. It has been a remarkable discovery that the structure
+of natural deduction proofs for, say, the implicative fragment of
+intuitionistic propositional calculus is completely described by terms
+of the simply typed \(\lambda\)-calculus, where a provable
+propositional formula of the form \(\sigma \to \tau\) is read as the
+type of the terms representing its proofs. This is the
+<em>propositions-as-types correspondence</em>, to be attributed to
+Curry, de Bruijn, Scott, L&auml;uchli, Lawvere and Howard, which
+extends to much richer formal systems (for a history of this
+correspondence see Cardone &amp; Hindley 2009: sec. 8.1.4).</p>
+
+<p>
+The existence of this correspondence makes it possible to speak of a
+<em>semantics of proofs</em>, that extends to constructive formal
+proofs the denotational interpretations of typed \(\lambda\)-calculi,
+and in this context it also makes sense to ask whether an element
+\(x\) of some \(D^\sigma\) in a model of a typed \(\lambda\)-calculus
+is the interpretation of some proof of formula \(\sigma\). A further
+question asks whether <em>every</em> element of \(D^\sigma\)
+satisfying a suitably chosen property is the interpretation of a proof
+of formula \(\sigma\). Suitable properties may be for example
+invariance under logical relations, suitably defined over each
+\(D^\sigma\), like in several results of Plotkin, Statman and others
+summarized in Barendregt, Dekkers, &amp; Statman 2013 (I.3, I.4). We
+can read the latter question as asking for a strong form of
+completeness for that system called <em>full completeness</em>
+(Abramsky &amp; Jagadeesan 1994), whose definition can be better
+understood in a categorical semantics of systems of constructive
+logic. It is common to interpret formulas \(A\) of such systems as
+objects \({\lll A \rll }\) of suitable categories \(\mathbb{M}\), and
+proofs \(p\) of sequents \(A \vdash B\) as morphisms \(\lll p \rll :
+\lll A \rll \longrightarrow \lll B \rll\). While ordinary completeness
+states that for every valid sequent \(A \vdash B\) the set
+\(\mathbb{M}({\lll A \rll },{\lll B \rll })\) of morphisms is not
+empty, in the present setting full completeness expresses the stronger
+requirement that every morphism \(f: \lll A \rll \longrightarrow \lll
+B \rll\) in a semantical category \(\mathbb{M}\) arises as the
+interpretation of some proof, i.e., \(f = {\lll p \rll }\) for some
+proof \(p\) of the sequent \(A \vdash B\). Full completeness results
+have been proved for several subsystems of linear logic Girard (1987),
+see Abramsky (2000) for a general framework. Furthermore, it has also
+suggested techniques for achieving the definition of models of PCF
+enjoying the strong definability property required by intensional full
+abstraction.</p>
+
+<h3 id="Inte">3.2 Interaction</h3>
+
+<p>
+In our description of the refinements to the continuous model of PCF
+in order to guarantee the definability of finite elements at each
+type, we have progressively come closer to an interactive explanation
+of computation. For example, the action of a sequential algorithm \(M
+\to M'\) (Curien 1986: sec. 3.4) exploits an external calling agent
+which triggers a cycle of requests and responses on input cells
+leading (possibly) to the emission of an output value. That
+interaction should be a central notion in the analysis of computation,
+especially in relation to full abstraction, is perhaps a natural
+outcome of the observational stance taken in the definition of
+operational equivalence. Our short account of game semantics starts
+precisely from an analysis of a general notion of <em>interaction</em>
+as a motivation to a first formalization of games which is however
+rich enough to provide a universe for the interpretation of a
+restricted set of types and terms. Later we shall add to this
+definition of game and strategies the features needed to express the
+constraints that allow strategies to characterize precisely
+higher-order, sequential computations, which is the aim set for
+denotational semantics by the full abstraction problem. The present
+account of the conceptual background of game semantics owes much to
+the work of Abramsky and Curien (Abramsky 1994, 1996, 1997; Curien
+2003a).</p>
+
+<p>
+The relevant notion of interaction has been isolated as the result of
+contributions that come from widely different research areas
+intensively investigated only in relatively recent years, notably
+linear logic (Girard 1987) and the theory of concurrent processes. It
+is in these areas that a notion of <em>composition as interaction</em>
+of <em>modules</em> takes shape. We give here just a simple example
+where the composition of modules in the form of &ldquo;parallel
+composition + hiding&rdquo; is found in nature, in order to connect it
+with the origin of this idea in the semantics of concurrent processes
+developed by Hoare (1985), and also to afford a first glimpse into a
+simplified game formalism.</p>
+
+<p>
+Consider a module \(S\) with four channels labeled
+\(a_\textrm{in},a_\textrm{out},r_\textrm{in},r_\textrm{out}\). The
+module is intended to return on channel \(a_\textrm{out}\) the
+successor of the number \(n\) incoming through channel
+\(a_\textrm{in}\), therefore its behavior can be specified as
+follows:</p>
+
+<ul>
+
+<li>\(S\) receives an input signal \(\mathbf{?}_\textrm{in}\) on
+channel \(r_\textrm{in}\), then</li>
+
+<li>emits a signal \(\mathbf{?}_\textrm{out}\) on channel
+\(r_\textrm{out}\), and</li>
+
+<li>waits for a value \(n\) on channel \(a_\textrm{in}\) and then,
+after receiving it,</li>
+
+<li>emits a value \(n+1\) on channel \(a_\textrm{out}\).</li>
+</ul>
+
+<p>
+(This pattern of interaction is formally identical to the
+<em>handshake protocol</em> which is used in hardware design to
+synchronize components in order to avoid hazards caused by
+interference of signals.) This behavior can be mapped on the channels
+as follows:</p>
+
+<div class="figure avoid-break" id="fig1">
+<img src="fig1.svg" alt="[a rectangular box with the letter S inside, on the upper left a line ending in a white circle is labeled '?_in', on the lower left a line ending in a black circle is labeled 'n+1_out', on the upper right a lined ending in a black circle is labeled '?_out', and on the lower right a line ending in a white circle is labeled 'n_in']" />
+
+<p class="center">
+<span class="figlabel">Figure 1:</span> A module for the successor
+function.</p>
+</div>
+
+<p>
+where \(\circ\) means input or, more generally, a <em>passive</em>
+involvement of the module in the corresponding action, whereas
+\(\bullet\) means output, or <em>active</em> involvement in the
+action. We can describe the behavior of \(S\) using <em>traces</em>
+(Hoare 1985), i.e., finite sequences of symbols from the infinite
+alphabet \( \alpha S = {\{
+\mathbf{?}_\textrm{in},\mathbf{?}_\textrm{out},n_\textrm{in},m_\textrm{out}
+\}}: \) 
+
+\[\tau S = {\{ \varepsilon,\mathbf{?}_\textrm{in},\mathbf{?}_\textrm{in}  \mathbf{?}_\textrm{out}, \mathbf{?}_\textrm{in}  \mathbf{?}_\textrm{out} n_\textrm{in},\mathbf{?}_\textrm{in}  \mathbf{?}_\textrm{out} n_\textrm{in}  n+1_\textrm{out},\ldots \}}\]
+
+ If we consider another instance \(S'\) of \(S\)
+with alphabet \( \alpha S' = {\{
+\mathbf{?}_\textrm{in}',\mathbf{?}_\textrm{out}',n_\textrm{in}',m_\textrm{out}'
+\}} \) we can compose \(S\) and \(S'\) by identifying (= connecting)
+channels \(r_\textrm{out},r_\textrm{in}'\), and \(a_\textrm{in} ,
+a_\textrm{out}'\), and the signals passing through them, as shown:
+
+\[\begin{aligned}
+\mathbf{?}_\textrm{out} , \mathbf{?}_\textrm{in}' &amp;\leadsto x\\
+n+1_\textrm{in} , n+1_\textrm{out}' &amp;\leadsto y\end{aligned}\]
+
+ This represents the parallel composition of the modules,
+\(S \| S'\):</p>
+
+<div class="figure avoid-break">
+<img src="fig2.svg" alt="[two rectangles, the one on the left containing 'S' and the one on the right 'S\prime'. The upper left of the left one has a line ending in a white circle labeled '?_in', on the lower left a line ending in a black circle labeled 'n+2_out'. The upper right of the right rectangle has a line ending in a black circle labeled '?\prime_out' and the lower right a line labeled 'n\prime_in'. The two rectangles are connected by two lines. The upper with a black circle on the left and a white circle on the right labeled 'x'. The lower with a white circle on the left and at black circle on the right labeled 'y'.]" />
+
+<p class="center">
+<span class="figlabel">Figure 2</span></p>
+</div>
+
+<p>
+The behavior of the compound module is described by the set of traces
+
+\[{\{ \varepsilon,
+\mathbf{?}_\textrm{in},
+\mathbf{?}_\textrm{in}  x, 
+\mathbf{?}_\textrm{in}  x  \mathbf{?}_\textrm{out}',
+\mathbf{?}_\textrm{in}  x  \mathbf{?}_\textrm{out}'  n_\textrm{in}',
+\mathbf{?}_\textrm{in}  x  \mathbf{?}_\textrm{out}'  n_\textrm{in}'  y, 
+\mathbf{?}_\textrm{in}  x  \mathbf{?}_\textrm{out}'  n_\textrm{in}'  y  n+2_\textrm{out}, \ldots \}}\]
+
+ The symbols \(x,y\) can now be hidden, representing the
+behavior of the final system</p>
+
+<div class="figure avoid-break">
+<img src="fig3.svg" alt="[two rectangles with dashed lines for sides, the one on the left containing 'S' and the one on the right 'S\prime'. The upper left of the left one has a line ending in a white circle labeled '?_in', on the lower left a line ending in a black circle labeled 'n+2_out'. The upper right of the right rectangle has a line ending in a black circle labeled '?\prime_out' and the lower right a line labeled 'n\prime_in'. The two rectangles are connected by two dashed lines. The upper with a black circle on the left and a white circle on the right and not labeled. The lower with a white circle on the left and at black circle on the right and not labeled. A larger rectangle with solid sides encloses the two rectangles so that the left side of the left rectangle and the right side of the right rectangle are on the left and right sides of the enclosing rectangle]" />
+
+<p class="center">
+<span class="figlabel">Figure 3</span></p>
+</div>
+
+<p>
+whose traces have the required form 
+
+\[{\{ 
+\varepsilon,
+\mathbf{?}_\textrm{in},
+\mathbf{?}_\textrm{in}  \mathbf{?}_\textrm{out}',
+\mathbf{?}_\textrm{in}   \mathbf{?}_\textrm{out}' n_\textrm{in}',
+\mathbf{?}_\textrm{in}   \mathbf{?}_\textrm{out}'  n_\textrm{in}'   n+2_\textrm{out}, \ldots \}}.\]
+
+ This example contains
+many of the ingredients on which game semantics is based. There is the
+idea of a System, whose behavior is triggered by an incoming request
+from its Environment: in a game formalism these are the roles of
+Proponent and Opponent in a two-person game. The behavior of each
+module is described as the trace of its possible interactions with
+other agents, and the behaviors can be composed by a peculiar change
+of role whereby the module who plays as System (in the above example,
+\(S\) emitting a request signal on channel \(r_\textrm{out}\)) is made
+to behave as Environment with respect to \(S'\) when this signal is
+received in input on channel \(r_\textrm{in}'\). Let us see how this
+example can be generalized.</p>
+
+<h3 id="GameStra">3.3 Games and strategies</h3>
+
+<p>
+We only give the definitions needed to understand the basic
+constructions on games and to see how these form a category, following
+Abramsky 1997 and Hyland 1997 that contain more formal details and
+proofs.</p>
+
+<h4 id="Game">3.3.1 Games</h4>
+
+<div class="indent" id="Def3.1">
+
+<p>
+<strong>Definition 3.1</strong> A <em>game</em> \(G\) is specified by
+giving a set of <em>moves</em> \(M_G\), a <em>labeling</em> \(\ell_G\)
+of the moves as either moves of the <em>Proponent</em> (\(P\)) or as
+moves of the <em>Opponent</em> (\(O\)). Furthermore, there is a set of
+<em>positions</em> \(P_G\) which is a set of sequences of moves where:
+(1) the two players alternate, starting with \(O\); (2) if \(s \in
+P_G\) then every prefix \(s'\) of \(s\) is also in \(P_G\).</p>
+</div>
+
+<p>
+As an example, consider a game associated with the data-type of
+Boolean values, \(G_\texttt{bool}\). There are three possible
+moves,</p>
+
+<ul>
+
+<li>an \(O\)-move \(?_\texttt{bool}\) and</li>
+
+<li>two \(P\)-moves \(\textit{tt}, \textit{ff}\)</li>
+</ul>
+
+<p>
+(i.e., \(\ell_\texttt{bool}(?_\texttt{bool}) = O,
+\ell_\texttt{bool}({\textit{tt}}) = \ell_\texttt{bool}({\textit{ff}})
+= P\)). The positions in this game are 
+
+\[?_{\texttt{bool}}, ?_{\texttt{bool}} \texttt{tt}, ?_{\texttt{bool}} \texttt{ff}:\]
+
+ think of
+\(?_\texttt{bool}\) as a cell (as in a concrete data structure) which
+can be filled by one of the two values \({\textit{tt}}\) and
+\({\textit{ff}}\), or as a question by the Opponent that admits as
+answers by the Proponent either \({\textit{tt}}\) or
+\({\textit{ff}}\). Similarly we can describe a game \(G_\texttt{num}\)
+with an \(O\)-move \(?_\texttt{num}\) and \(P\)-moves \(n \in
+{\mathbb{N}}\).</p>
+
+<h4 id="StraTheiComp">3.3.2 Strategies and their composition</h4>
+
+<p>
+The players move in a game \(G\) alternately, at each move reaching a
+legal position in \(P_G\). Their behavior is best thought of as
+describing a strategy that prescribes deterministically what is
+\(P\)&rsquo;s response to \(O\) in a position where it is its turn to
+move.</p>
+
+<div class="indent" id="Def3.2">
+
+<p>
+<strong>Definition 3.2.</strong> A <em>strategy</em> \(\sigma\) on a
+game \(G\) is a prefix-closed set of even-length positions of \(G\)
+such that, each time \(sab,sac \in \sigma\), we have \(b=c\).</p>
+</div>
+
+<p>
+For example, the strategies on \(G_\texttt{num}\) are \(\varepsilon\)
+and all sequences \(?_\texttt{num}n\), corresponding respectively to
+the elements \(\bot\) and \(n\) of the domain \({\mathbb{N}}_\bot\).
+</p>
+
+<p>
+We would like to consider the behavior of the successor module
+described above as an element of a set \(G_\texttt{num}\multimap
+G_\texttt{num}\) of strategies that compute functions over the natural
+numbers. If we consider only the sequences of interactions of \(S\)
+taking place either on the left or on the right side of the module of
+ <a href="#fig1">Figure 1</a>,
+ we see that they describe positions of \(G_\texttt{num}\), with an
+inversion of polarity (active/passive) depending on which side the
+interactions take place: the module is initially passive, and becomes
+active upon receiving a request from the environment. Such inversion,
+represented by the complementary labeling of the moves
+\(\overline{\lambda_G}\), assigning to Proponent the moves of the
+Opponent in \(G\) and conversely, is essential to the definition of a
+game \(G \multimap H\):</p>
+
+<div class="indent" id="Def3.3">
+
+<p>
+<strong>Definition 3.3.</strong> Given any pair of games \(G,H\), the
+game \(G \multimap H\) has moves \(M_{G \multimap H}\) the disjoint
+union \(M_G + M_H\) of the games \(G\) and \(H\), where 
+
+\[\lambda_{G \multimap H} (m) = 
+ \begin{cases}
+         \overline{\lambda_{G}} (m) =   &amp;\text{if \(m \in M_G\),}\\
+    \lambda_{H} (m) =   &amp;\text{if \(m \in M_H\).}
+    \end{cases}\]
+
+and a position in \(P_{G \multimap H}\) is any alternating sequence
+\(s\) of moves (of \(M_{G \multimap H}\)) whose restrictions \(s
+\upharpoonright M_G,s \upharpoonright M_H\) to the moves in \(G\) and
+\(H\), respectively, are positions of \(G\) and \(H\).</p>
+</div>
+
+<p>
+The strategy that interprets \(\texttt{succ}:\texttt{num}\to
+\texttt{num}\) corresponds to the behavior of the module \(S\) used
+above as a guiding example. The parallel composition + hiding approach
+used to compose two instances of the successor module can now be
+reinterpreted as composition of strategies, suggesting a general
+pattern:</p> 
+
+\[\begin{array}{ccc|c|cccc|c} G_\texttt{num}&amp; \multimap &amp;
+G_\texttt{num}&amp;&amp; &amp; G_\texttt{num}&amp; \multimap &amp;
+G_\texttt{num}&amp; \\ \hline &amp; &amp; &amp;&amp; &amp; &amp; &amp;
+\mathbf{?}_\textrm{in} &amp; O\\ &amp; &amp;\mathbf{?}_\textrm{in}'
+&amp;O&amp; &amp;\mathbf{?}_\textrm{out} &amp;&amp; &amp;P\\
+\mathbf{?}_\textrm{out}'&amp; &amp; &amp;P&amp; &amp; &amp; &amp;
+&amp;O\\ \vdots&amp; &amp; &amp; \vdots &amp;&amp; &amp; &amp;
+&amp;\vdots \\ n_\textrm{in}'&amp; &amp; &amp;O&amp; &amp; &amp; &amp;
+&amp; P\\ &amp; &amp; n+1_\textrm{out}' &amp;P&amp;
+&amp;n+1_\textrm{in}&amp; &amp; &amp;O \\ &amp; &amp; &amp;O&amp;
+&amp; &amp; &amp;n+2_\textrm{out} &amp;P \end{array}\]
+
+<div class="indent" id="Def3.4">
+
+<p>
+<strong>Definition 3.4.</strong> The composition \(\tau \circ \sigma\)
+on \(G \multimap K\) of strategies \(\sigma\) on \(G \multimap H\) and
+\(\tau\) on \(H \multimap K\) consists of the sequences of moves of
+\(M_G + M_K\) obtained by hiding the moves of \(M_H\) from the
+sequences \(s\) of moves in \(M_G + M_H + M_K\) such that \(s
+\upharpoonright G,H\) is in \(P_{G \multimap H}\) and \(s
+\upharpoonright H,K\) is in \(P_{H \multimap K}\).</p>
+</div>
+
+<p>
+There is one strategy that deserves a special name, because it is the
+identity morphism in the category whose objects are games and whose
+morphisms from \(G\) to \(H\) are the strategies on \(G \multimap H\).
+The <em>copy-cat strategy</em> \(\textsf{id}\) on \(G \multimap G\) is
+defined as the set of sequences of moves \(s\) such that the
+restriction of \(s\) to the left instance of \(G\) coincides with its
+restriction to the right instance.</p>
+
+<h3 id="SpecKindStra">3.4 Special kinds of strategies</h3>
+
+<p>
+The game formalism just introduced is not detailed enough to
+characterize the kind of sequential computation at higher types needed
+to achieve definability. For this purpose, a richer structure on games
+is needed, making them closer to <em>dialogue games</em> between
+Proponent and Opponent exchanging <em>questions</em> and
+<em>answers</em>. This allows to formulate restrictions on plays by
+matching answers with the corresponding questions in an appropriate
+manner. The strategies for this refined game notion, that we study
+next essentially through examples, will yield a richer notion of
+morphism between games, allowing to make finer distinctions of a
+computational nature needed for intensionally fully abstract model of
+PCF, following essentially the approach of Hyland &amp; Ong (2000)
+drawing also material from Abramsky &amp; McCusker (1999) and Curien
+(2006).</p>
+
+<p>
+The moves of the refined game notion will be either <em>questions</em>
+or <em>answers</em> played by Proponent or by the Opponent. We have
+then four classes of moves each represented by a kind of (round or
+square) bracket: Proponent&rsquo;s questions &lsquo;(&rsquo;;
+Opponent&rsquo;s answers &lsquo;)&rsquo;; Opponent&rsquo;s questions
+&lsquo;[&rsquo;; and Proponent&rsquo;s answer &lsquo;]&rsquo;. This
+labeling of the moves subsumes under the usual well-formedness
+criterion for bracket sequences, at one time: the alternation between
+Proponent and Opponent, the fact that Opponent is the first to move
+and that each answer of a player answers a unique question of the
+partner. This is not enough, however: a further <em>justification</em>
+structure on questions and answers is needed to discipline the nesting
+of (sub)dialogues in the evaluation of higher-order functions,
+allowing to characterize the <em>well-bracketed</em> strategies.
+Consider now the strategy in \((G^{11}_\texttt{bool}\to
+G^{12}_\texttt{bool}\to G^1_\texttt{bool}) \to G_\texttt{bool}\),
+described informally using a labeling of the copies of
+\(G_\texttt{bool}\) as shown:</p>
+
+<ul class="sentag tag2em subtag3em">
+
+<li><span class="tag">(1)</span><span class="sen">Opponent asks
+question \(?\) in \(G_\texttt{bool}\);</span></li>
+
+<li><span class="tag">(2)</span><span class="sen">Proponent asks
+question \(?_1\) in \(G^1_\texttt{bool}\), justified by \(?\), in
+order to know about the output of the input value \(f\);</span></li>
+
+<li><span class="tag"></span> <span class="sen"> <span class="subtag">(3.1)</span>
+<span class="subsen">if Opponent asks
+question \(?_{11}\), Proponent answers \({\textit{tt}}\) in
+\(G_\texttt{bool}\): the computation examines first the first argument
+of \(f\);</span></span></li>
+
+<li><span class="tag"></span> <span class="sen"> <span class="subtag">(3.2)</span>
+<span class="subsen">if Opponent asks
+question \(?_{12}\), Proponent answers \({\textit{ff}}\) in
+\(G_\texttt{bool}\): the computation examines first the second
+argument of \(f\);</span></span></li>
+</ul>
+
+<p>
+Here, the Proponent&rsquo;s moves at steps (3.\(i\)) answer the
+question asked by Opponent at step (1), not the questions asked by the
+Opponent at steps (3.1), (3.2) that are still pending. This violates a
+&ldquo;no dangling question mark&rdquo; condition on dialogues
+introduced under this name by Robin Gandy in his unpublished work on
+higher-type computability (and well-known in the tradition of game
+semantics for intuitionistic logic initiated by Lorenzen (1961)).
+Strategies such as these interpret control operators that do not exist
+in the fully abstract game model of PCF, but do exist, for example, in
+the model based on sequential algorithms (Curien 1986: sec. 3.2.7,
+3.2.8). A different phenomenon occurs in a variation of the previous
+example:</p>
+
+<ul class="sentag tag4em">
+
+<li><span class="tag">(1)</span><span class="sen">Opponent asks
+question \(?\) in \(G_\texttt{bool}\);</span></li>
+
+<li><span class="tag">(2)</span><span class="sen">Proponent asks
+question \(?_1\) in \(G^1_\texttt{bool}\);</span></li>
+
+<li><span class="tag">&nbsp;&nbsp;(3.1)</span><span class="sen">&nbsp;&nbsp;if
+Opponent asks question \(?_{11}\),
+Proponent answers \({\textit{tt}}\) in
+\(G^{11}_\texttt{bool}\);</span></li>
+
+<li><span class="tag">&nbsp;&nbsp;&nbsp;(3.1.1)</span><span class="sen">&nbsp;&nbsp;&nbsp;if
+Opponent answers \({\textit{tt}}\) in
+\(G^1_\texttt{bool}\), Proponent answers \({\textit{tt}}\) in
+\(G_\texttt{bool}\);</span> </li>
+
+<li><span class="tag">&nbsp;&nbsp;(3.2)</span><span class="sen">&nbsp;&nbsp;if
+Opponent answers \({\textit{tt}}\) in
+\(G^1_\texttt{bool}\), Proponent answers \({\textit{ff}}\) in
+\(G_\texttt{bool}\)</span></li>
+</ul>
+
+<p>
+Here the strategy prescribes a response to the moves by Opponent
+depending on the internal detail of the latter&rsquo;s behavior. The
+response prescribed to Proponent by the strategy to the initial
+question should not depend on what happens between the
+Proponent&rsquo;s question \(?_1\) and the Opponent&rsquo;s answer
+\({\textit{tt}}\). This is the property of <em>innocence</em>, that
+limits the amount of detail that a strategy for \(P\) can access. For
+this reason, failure of innocence allows strategies to model storage
+phenomena.</p>
+
+<p>
+This gives us the necessary terminology to understand the statement of
+the intensional full abstraction theorem proved in Hyland &amp; Ong
+2000 (th.&nbsp;7.1), where the types of PCF are interpreted as games
+and terms as innocent and well-bracketed strategies, see also Abramsky
+et al. 2000 (th.&nbsp;3.2), Curien 2006 (th.&nbsp;5.1):</p>
+
+<div class="indent" id="The3.1">
+
+<p>
+<strong>Theorem 3.1.</strong> For every PCF type \(\sigma = \sigma_1
+\to \cdots \to \sigma_n \to \kappa\) with \(\kappa = \texttt{num}\) or
+\(\kappa = \texttt{bool}\), every (compact) innocent and
+well-bracketed strategy corresponds to the denotation of a closed
+term.</p>
+</div>
+
+<p>
+This closes our quick overview of game semantics applied to the full
+abstraction problem for PCF, but opens a broad research area in the
+classification of programming disciplines according to the possible
+combinations of restrictions (innocence, well-bracketing) on general
+strategies for games as defined above. An introductory picture (the
+&ldquo;semantic square&rdquo; by Abramsky and his students) of this
+landscape, that we leave to the contemplation of the reader, can be
+found in Abramsky &amp; McCusker 1999.</p>
+
+<h3 id="HistNoteFurtReadB">3.5 Historical notes and further readings</h3>
+
+<p>
+Games as a semantic framework have a longstanding tradition, from
+ancient logic onwards. Here we list of the main sources and further
+readings pertaining to game semantics applied to programming
+languages.</p>
+
+<p>
+The use of game semantic for dealing with the full abstraction problem
+for PCF originates from Abramsky et al. 2000 and Hyland &amp; Ong
+2000. Hanno Nickau (1994) proposed independently a game model similar
+to that of Hyland and Ong: their games are sometimes called
+collectively &ldquo;H<sub>2</sub>O games&rdquo;.</p>
+
+<p>
+As a background for game semantics, from intuitionistic logic we have
+the very early Lorenzen (1961) on dialogue games, then from linear
+logic Lafont and Streicher (1991) and Blass (1992) and from
+Coquand&rsquo;s game theoretical analysis of classical provability
+(Coquand 1995). From combinatorial game theory the categorical account
+by Joyal (1977), &ldquo;the first person to make a category of games
+and winning strategies&rdquo; according to Abramsky &amp; Jagadeesan
+(1994). A readable historical account of the first uses of games in
+the interpretation of constructive logical formalisms, especially
+linear logic, is included in Abramsky &amp; Jagadeesan 1994. It should
+be observed that games for logic require winning strategies in order
+to capture validity, an issue that we have not dealt with at all in
+this entry.</p>
+
+<p>
+Connections with concrete data structures were first noticed by
+Lamarche (1992) and Curien (1994), see Curien 2003b. Antonio
+Bucciarelli (1994) explains the connections between Kleene&rsquo;s
+unimonotone functions and concrete data structures: the use of
+dialogues in the former is mentioned in Hyland &amp; Ong 2000 (sec.
+1.4).</p>
+
+<p>
+Finally, among the introductions to game semantics for PCF and other
+languages, we suggest Abramsky 1997; Abramsky &amp; McCusker 1999. The
+latter also contains a description of the applications of game
+semantics to imperative languages, notably Idealized Algol. Other
+excellent introductions to game semantics are Hyland 1997 and Curien
+2006. A broad account of the use of games in the semantics of
+programming languages with many pointers to Lorenzen games, and
+intended for a philosophical audience, is J&uuml;rjens 2002.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging">
+
+<li>Abramsky, Samson, 1994, &ldquo;Interaction Categories and
+Communicating Sequential Processes&rdquo;, in A. William Roscoe (ed.),
+<em>A Classical Mind: Essays in Honour of C.A.R. Hoare</em>, New York:
+Prentice Hall International, pp. 1&ndash;16.</li>
+
+<li>&ndash;&ndash;&ndash;, 1996, &ldquo;Retracing Some Paths in
+Process Algebra&rdquo;, in U. Montanari &amp; V. Sassone (eds.),
+<em>CONCUR &rsquo;96: Concurrency Theory, 7th International
+Conference</em>, Springer-Verlag, pp. 1&ndash;17.
+ [<a href="https://arxiv.org/abs/1401.5113" target="other">Abramsky 1996 available online</a>]</li>
+ 
+<li>&ndash;&ndash;&ndash;, 1997, &ldquo;Semantics of Interaction: An
+Introduction to Game Semantics&rdquo;, in P. Dybjer &amp; A. Pitts
+(eds.), <em>Proceedings of the 1996 CLiCS Summer School, Isaac Newton
+Institute</em>, Cambridge University Press, pp. 1&ndash;31.
+ [<a href="https://arxiv.org/abs/1312.0121" target="other">Abramsky 1997 available online</a>]</li>
+ 
+<li>&ndash;&ndash;&ndash;, 2000, &ldquo;Axioms for Definability and
+Full Completeness&rdquo;, in G.D. Plotkin, C. Stirling, &amp; M. Tofte
+(eds.), <em>Proof, Language, and Interaction, Essays in Honour of
+Robin Milner</em>, The MIT Press, pp. 55&ndash;76.
+ [<a href="https://arxiv.org/abs/1401.4735" target="other">Abramsky 2000 available online</a>]</li>
+ 
+<li>Abramsky, Samson &amp; Radha Jagadeesan, 1994, &ldquo;Games and
+Full Completeness for Multiplicative Linear Logic&rdquo;, <em>Journal
+of Symbolic Logic</em>, 59: 543&ndash;574.
+ [<a href="https://arxiv.org/abs/1401.5113" target="other">Abramsky and Jagadeesan 1994 available online</a>]</li>
+ 
+<li>Abramsky, Samson &amp; Guy McCusker, 1999, &ldquo;Game
+Semantics&rdquo;, in H. Schwichtenberg &amp; U. Berger (eds.),
+<em>Computational Logic: Proceedings of the 1997 Marktoberdorf Summer
+School</em>, Berlin: Springer-Verlag, pp. 1&ndash;56.</li>
+
+<li>Abramsky, Samson, Radha Jagadeesan, &amp; Pasquale Malacaria,
+2000, &ldquo;Full Abstraction for PCF&rdquo;, <em>Information and
+Computation</em>, 163(2): 409&ndash;470.
+ [<a href="https://arxiv.org/abs/1311.6125" target="other">Abramsky, Jagadeesan, &amp; Malacaria 2000 available online</a></li>
+ 
+<li>Amadio, Roberto M. &amp; Pierre-Louis Curien, 1998, <em>Domains
+and Lambda-Calculi</em> (Cambridge Tracts in Theoretical Computer
+Science, 46), Cambridge: Cambridge University Press.</li>
+
+<li>Barendregt, Henk P., 1984, <em>The Lambda Calculus, Its Syntax and
+Semantics</em>, Amsterdam: North-Holland Co.</li>
+
+<li>Barendregt, Henk P., Wil Dekkers, &amp; Richard Statman, 2013,
+<em>Lambda Calculus with Types</em> (Perspectives in Logic),
+Cambridge: Cambridge University Press/Association for Symbolic
+Logic.</li>
+
+<li>Berry, G&eacute;rard, 1976, &ldquo;Bottom-Up Computation of
+Recursive Programs&rdquo;, <em>RAIRO Informatique Th&eacute;orique et
+Applications</em>, 10: 47&ndash;82.
+ [<a href="http://www.numdam.org/item?id=ITA_1976__10_1_47_0" target="other">Berry 1976 available online</a>]</li>
+ 
+<li>&ndash;&ndash;&ndash;, 1978, &ldquo;Stable Models of Typed
+\(\lambda\)-Calculi&rdquo;, in Giorgio Ausiello &amp; Corrado
+B&ouml;hm (eds.), <em>Automata, Languages and Programming, Fifth
+Colloquium</em> (Lecture Notes in Computer Science, 62), Berlin:
+Springer-Verlag, pp. 72&ndash;89. doi:10.1007/3-540-08860-1_7</li>
+
+<li>Berry, G&eacute;rard, Pierre-Louis Curien, &amp; Jean-Jacques
+L&eacute;vy, 1985, &ldquo; Full Abstraction for Sequential Languages:
+the State of the Art&rdquo;, Maurice Nivat &amp; John C. Reynolds
+(eds.), <em>Algebraic Methods in Semantics</em>, Cambridge: Cambridge
+University Press, pp. 89&ndash;131.
+ [<a href="https://hal.inria.fr/inria-00076361" target="other">Berry, Curien, &amp; L&eacute;vy 1985 available online</a></li>
+ 
+<li>Blass, Andreas, 1992, &ldquo;A Game Semantics for Linear
+Logic&rdquo;, <em>Annals of Pure and Applied Logic</em>,
+56(1&ndash;3): 183&ndash;220. doi:10.1016/0168-0072(92)90073-9</li>
+
+<li>Bucciarelli, Antonio, 1994, &ldquo;Another Approach to
+Sequentiality: Kleene&rsquo;s Unimonotone Functions&rdquo;, in Stephen
+D. Brookes, Michael G. Main, Austin Melton, Michael W. Mislove, &amp;
+David A. Schmidt (eds.), <em>Mathematical Foundations of Programming
+Semantics, Proceedings of the 9th International Conference, New
+Orleans, LA, USA, April 7&ndash;10, 1993,</em> (Lecture Notes in
+Computer Science, 802), Berlin: Springer, pp. 333&ndash;358.
+doi:10.1007/3-540-58027-1_17</li>
+
+<li>Bucciarelli, Antonio &amp; Thomas Ehrhard, 1994,
+&ldquo;Sequentiality in An Extensional Framework&rdquo;,
+<em>Information and Computation</em>, 110(2): 265&ndash;296.
+doi:10.1006/inco.1994.1033</li>
+
+<li>Cardone, Felice &amp; J. Roger Hindley, 2009, &ldquo;History of
+Lambda-Calculus and Combinators in the 20th Century&rdquo;, in Dov M.
+Gabbay &amp; John Woods (eds.), <em>Handbook of the History of Logic.
+Volume 5. Logic from Russell to Church</em>, Amsterdam: Elsevier, pp.
+723&ndash;817.</li>
+
+<li>Cartwright, Robert, Pierre-Louis Curien, &amp; Matthias Felleisen,
+1994, &ldquo;Fully Abstract Semantics for Observably Sequential
+Languages&rdquo;, <em>Information and Computation</em>, 111(2):
+297&ndash;401. doi:10.1006/inco.1994.1047</li>
+
+<li>Coquand, Thierry, 1995, &ldquo;A Semantics of Evidence for
+Classical Arithmetic&rdquo;, <em>Journal of Symbolic Logic</em>,
+60(1): 325&ndash;337. doi:10.2307/2275524 </li>
+
+<li>Curien, Pierre-Louis, 1986, <em>Categorical Combinators,
+Sequential Algorithms and Functional Programming</em>, London: Pitman;
+New York: Wiley.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;Sequentiality and Full
+Abstraction&rdquo;, in Fourman, Johnstone, &amp; Pitts 1992:
+66&ndash;94. doi:10.1017/CBO9780511525902.005</li>
+
+<li>&ndash;&ndash;&ndash;, 1994, &ldquo;On the Symmetry of
+Sequentiality&rdquo;, in Stephen Brookes, Michael Main, Austin Melton,
+Michael Mislove, &amp; David Schmidt (eds.), <em>Mathematical
+Foundations of Programming Semantics, 9th International
+Conference</em> (Lecture Notes in Computer Science, 802), Berlin:
+Springer-Verlag, pp. 29&ndash;71. doi:10.1007/3-540-58027-1_2</li>
+
+<li>&ndash;&ndash;&ndash;, 2003a, &ldquo;Symmetry and Interactivity in
+Programming&rdquo;, <em>Bulletin of Symbolic Logic</em>, 9(2):
+169&ndash;180.
+ [<a href="https://arxiv.org/abs/cs/0501034" target="other">Curien 2003a available online</a>]</li>
+ 
+<li>&ndash;&ndash;&ndash;, 2003b, &ldquo;Playful, Streamlike
+Computation&rdquo;, in Guo-Qiang Zhang, J. Lawson, Ying Ming Liu, M.K.
+Luo (eds.), <em>Domain Theory, Logic and Computation, Proceedings of
+the 2nd International Symposium on Domain Theory, Sichuan, China,
+October 2001</em> (Semantic Structures in Computation, 3), Dordrecht:
+Springer Netherlands, pp. 1&ndash;24. doi:10.1007/978-94-017-1291-0_1
+ [<a href="http://arxiv.org/abs/cs/0501033" target="other">Curien 2003b available online</a>]</li>
+ 
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Definability and Full
+Abstraction&rdquo;, <em>Electronic Notes in Theoretical Computer
+Science</em>, 172(1): 301&ndash;310.
+doi:10.1016/j.entcs.2007.02.011</li>
+
+<li>Fourman, M.P., P.T. Johnstone, &amp; A.M. Pitts (eds.), 1992,
+<em>Applications of Categories in Computer Science: Proceedings of the
+London Mathematical Society Symposium, Durham 1991</em> (London
+Mathematical Society Lecture Note Series, 177), Cambridge: Cambridge
+University Press.</li>
+
+<li>Girard, Jean-Yves, 1987, &ldquo;Linear logic&rdquo;,
+<em>Theoretical Computer Science</em>, 50(1): 1&ndash;102.
+doi:10.1016/0304-3975(87)90045-4</li>
+
+<li>Gunter, Carl A., 1992, <em>Semantics of Programming Languages.
+Structures and Techniques</em>, Cambridge, MA: MIT Press.</li>
+
+<li>Hoare, C.A.R., 1985, <em>Communicating Sequential Processes</em>,
+Englewood Cliffs, NJ: Prentice-Hall.</li>
+
+<li>Hodges, Wilfrid, 2001, &ldquo;Formal Features of
+Compositionality&rdquo;, <em>Journal of Logic, Language and
+Information</em>, 10(1): 7&ndash;28. doi:10.1023/A:1026502210492</li>
+
+<li>Hyland, J. Martin E., 1997, &ldquo;Game Semantics&rdquo;, in P.
+Dybjer &amp; A. Pitts (eds.), <em>Proceedings of the 1996 CLiCS Summer
+School, Isaac Newton Institute</em>, Cambridge: Cambridge University
+Press, pp. 131&ndash;184.</li>
+
+<li>Hyland, J.M.E. &amp; C.-H.L. Ong, 2000, &ldquo;On Full Abstraction
+for PCF: I., Models, Observables and the Full Abstraction Problem, II.
+Dialogue Games and Innocent Strategies, III. a Fully Abstract and
+Universal Game Model&rdquo;, <em>Information and Computation</em>,
+163(2): 285&ndash;408. doi:10.1006/inco.2000.2917</li>
+
+<li>Janssen, Theo M.V., 2001, &ldquo;Frege, Contextuality and
+Compositionality&rdquo;, <em>Journal of Logic, Language and
+Information</em>, 10(1): 115&ndash;136.
+doi:10.1023/A:1026542332224</li>
+
+<li>Joyal, Andr&eacute;, 1977, &ldquo;Remarques sur la Th&eacute;orie
+des Jeux &agrave; Deux Personnes&rdquo;, <em>Gazette des Sciences
+Math&eacute;matiques du Quebec</em>, 1(4): 46&ndash;52.</li>
+
+<li>Jung, Achim &amp; Allen Stoughton, 1993, &ldquo;Studying the Fully
+Abstract Model of PCF Within Its Continuous Function Model&rdquo;, in
+Marc Bezem &amp; Jjan Friso Groote (eds.), <em>Typed Lambda Calculi
+and Applications, Proceedings of the International Conference on Typed
+Lambda Calculi and Applications, TLCA &rsquo;93, Utrecht, the
+Netherlands, March 16&ndash;18, 1993,</em> (Lecture Notes on Computer
+Science, 664), Berlin: Springer-Verlag, pp. 230&ndash;244.
+doi:10.1007/BFb0037109</li>
+
+<li>J&uuml;rjens, Jan, 2002, &ldquo;Games in the Semantics of
+Programming Languages&mdash;An Elementary Introduction&rdquo;,
+<em>Synthese</em>, 133(1&ndash;2): 131&ndash;158.
+doi:10.1023/A:1020883810034</li>
+
+<li>Kahn, G. &amp; G.D. Plotkin, 1993, &ldquo;Concrete Domains&rdquo;,
+<em>Theoretical Computer Science</em>, 121(1&ndash;2): 187&ndash;277.
+doi:10.1016/0304-3975(93)90090-G</li>
+
+<li>Kleene, Stephen Cole, 1952, <em>Introduction to
+Metamathematics</em>, New York: Van Nostrand.</li>
+
+<li>Lafont, Yves &amp; Thomas Streicher, 1991, &ldquo;Games Semantics
+for Linear Logic&rdquo;, in <em>Proceedings Sixth Annual IEEE
+Symposium on Logic in Computer Science</em>, IEEE Computer Society,
+Los Alamitos, CA, pp. 43&ndash;50. doi:10.1109/LICS.1991.151629</li>
+
+<li>Loader, Ralph, 2001, &ldquo;Finitary PCF is Not Decidable&rdquo;,
+<em>Theoretical Computer Science</em>, 266(1&ndash;2): 341&ndash;364.
+doi:10.1016/S0304-3975(00)00194-8</li>
+
+<li>Longley, John, 2001, &ldquo;Notions of Computability at Higher
+Types, I&rdquo;, in Ren&eacute; Cori, Alexander Razborov, Stevo
+Todorcevic, &amp; Carol Wood (eds.), <em>Logic Colloquium 2000</em>
+(Lecture Notes in Logic, 19), Wellesley, MA: A.K. Peters, pp.
+32&ndash;142.
+ [<a href="http://homepages.inf.ed.ac.uk/jrl/Research/notions1.pdf" target="other">Longley 2001 available online</a>]</li>
+ 
+<li>Longley, John &amp; Dag Normann, 2015, <em>Higher-Order
+Computability</em>, Heidelberg: Springer.</li>
+
+<li>Lorenzen, P., 1961, &ldquo;Ein Dialogisches
+Konstructivit&auml;tskriterium&rdquo;, in <em>Infinitistic Methods,
+Proceedings of the Symposium on Foundations of Mathematics (1959 :
+Warsaw, Poland)</em>, New York: Pergamon Press, pp.
+193&ndash;200.</li>
+
+<li>Milner, Robin, 1973, <em>Models for LCF</em>, Technical report,
+STAN-CS-73-332, Computer Science Department, Stanford University.
+ [<a href="http://i.stanford.edu/pub/cstr/reports/cs/tr/73/332/CS-TR-73-332.pdf" target="other">Milner 1973 available online</a>]</li>
+ 
+<li>&ndash;&ndash;&ndash;, 1975, &ldquo;Processes: a Mathematical
+Model of Computing Agents&rdquo;, in H.E. Rose &amp; J.C. Shepherdson
+(eds.), <em>Logic Colloquium &rsquo;73</em> (Studies in the Logic and
+the Foundations of Mathematics, 80), Amsterdam: North-Holland, pp.
+157&ndash;174. doi:10.1016/S0049-237X(08)71948-7</li>
+
+<li>&ndash;&ndash;&ndash;, 1977, &ldquo;Fully Abstract Models of Typed
+\(\lambda\)-Calculi&rdquo;, <em>Theoretical Computer Science</em>, 4:
+1&ndash;22. doi:10.1016/0304-3975(77)90053-6</li>
+
+<li>&ndash;&ndash;&ndash;, 1980, <em>A Calculus of Communicating
+Systems</em> (Lecture Notes in Computer Science, 92), Berlin, New
+York: Springer-Verlag. doi:10.1007/3-540-10235-3</li>
+
+<li>Mitchell, John C., 1993, &ldquo;On Abstraction and the Expressive
+Power of Programming Languages&rdquo;, <em>Science of Computer
+Programming</em>, 21(2): 141&ndash;163.
+doi:10.1016/0167-6423(93)90004-9</li>
+
+<li>Mulmuley, Ketan, 1987, <em>Full Abstraction and Semantic
+Equivalence</em>, Cambridge, MA: MIT Press.</li>
+
+<li>Nickau, Hanno, 1994, &ldquo;Hereditarily Sequential
+Functionals&rdquo;, in Anil Nerode &amp; Yu V. Matiyasevich (eds.),
+<em>Logical Foundations of Computer Science: Proceedings of the Third
+International Symposium, LFCS 1994 St. Petersburg, Russia, July
+11&ndash;14, 1994</em> (Lecture Notes in Computer Science, 813),
+Berlin: Springer-Verlag, pp. 253&ndash;264.
+doi:10.1007/3-540-58140-5_25</li>
+
+<li>Ong, C.-H.L., 1995, &ldquo;Correspondence Between Operational and
+Denotational Semantics&rdquo;, in Samson Abramsky, Dov M. Gabbay,
+&amp; T.S.E. Maibaum (eds.), <em>Handbook of Logic in Computer
+Science</em>, vol. 4, Oxford: Oxford University Press, pp.
+269&ndash;356.</li>
+
+<li>O&rsquo;Hearn, Peter W. &amp; Jon G. Riecke, 1995, &ldquo;Kripke
+Logical Relations and PCF&rdquo;, <em>Information and
+Computation</em>, 120(1): 107&ndash;116.
+doi:10.1006/inco.1995.1103</li>
+
+<li>Paolini, Luca, 2006, &ldquo;A Stable Programming Language&rdquo;,
+<em>Information and Computation</em>, 204(3): 339&ndash;375.
+doi:10.1016/j.ic.2005.11.002</li>
+
+<li>Plotkin, G.D., 1977, &ldquo;LCF Considered as a Programming
+Language&rdquo;, <em>Theoretical Computer Science</em>, 5(3):
+223&ndash;257. doi:10.1016/0304-3975(77)90044-5</li>
+
+<li>Reynolds, John C., 1981, &ldquo;The Essence of Algol&rdquo;, in
+J.W. de Bakker &amp; J.C. van Vliet (eds.), <em>Algorithmic Languages:
+Proceedings of the International Symposium on Algorithmic
+Languages</em>, Amsterdam: North Holland, pp. 345&ndash;372.</li>
+
+<li>Riecke, Jon G., 1993, &ldquo;Fully Abstract Translations Between
+Functional Languages&rdquo;, <em>Mathematical Structures in Computer
+Science</em>, 3(4): 387&ndash;415. doi:10.1017/S0960129500000293</li>
+
+<li>Sazonov, Vladimir Yu., 1975, &ldquo;Sequentially and Parallelly
+Computable Functionals&rdquo;, in Corrado B&ouml;hm (ed.),
+<em>\(\lambda\)-Calculus and Computer Science Theory, Proceedings of
+the Symposium Held in Rome, March 25&ndash;27, 1975</em> (Lecture
+Notes in Computer Science, 37), Berlin: Springer-Verlag, pp.
+312&ndash;318.</li>
+
+<li>&ndash;&ndash;&ndash;, 1976, &ldquo;Degrees of Parallelism in
+Computations&rdquo;, in A.W. Mazurkiewicz (ed.), <em>Mathematical
+Foundations of Computer Science 1976, Proceedings of the 5th
+Symposium, Gdansk, Poland, September 6&ndash;10, 1976,</em> (Lecture
+Notes in Computer Science, 45), New York: Springer, pp.
+517&ndash;523.</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Inductive Definition and
+Domain Theoretic Properties of Fully Abstract Models for PCF and
+PCF+&rdquo;, <em>Logical Methods in Computer Science</em>, 3(3): paper
+7. doi:10.2168/LMCS-3(3:7)2007</li> <!--  <li>Scott,
+Dana S., 1969a, &ldquo;A Theory of Computable Functions of
+Higher Type&rdquo;, unpublished seminar notes, University of Oxford.
+Informally distributed. [Commented out until a copy becomes available
+online]</li> -->
+
+<li>Scott, Dana S., 1969, &ldquo;A Type-Theoretical Alternative to
+ISWIM, CUCH, OWHY&rdquo;, Informally distributed. Revised and printed
+1993, <em>Theoretical Computer Science</em>, 121: 411&ndash;440.
+doi:10.1016/0304-3975(93)90095-B</li>
+
+<li>&ndash;&ndash;&ndash;, 1970, &ldquo;Outline of a Mathematical
+Theory of Computation&rdquo;, in <em>Proceedings of the Fourth Annual
+Princeton Conference on Information Sciences and Systems</em>, Dept.
+of Electrical Engineering, Princeton University, pp. 169&ndash;176.
+ [<a href="https://www.cs.ox.ac.uk/publications/publication3720-abstract.html" target="other">Scott 1970 available online</a>]</li>
+ 
+<li>&ndash;&ndash;&ndash;, 1982, &ldquo;Domains for Denotational
+Semantics&rdquo;, in M. Nielsen &amp; E. Schmidt (eds.), <em>Automata,
+Languages and Programming, Ninth International Colloquium</em>
+(Lecture Notes in Computer Science, 140), Berlin: Springer-Verlag, pp.
+577&ndash;613. doi:10.1007/BFb0012801</li>
+
+<li>Scott, Dana S. &amp; Christopher Strachey, 1971, &ldquo;Toward a
+Mathematical Semantics for Computer Languages&rdquo;, in Jerome Fox
+(ed.), <em>Proceedings of the Symposium on Computers and Automata Held
+in New York, 13&ndash;15 April 1971</em>, New York: Polytechnic
+Institute of Brooklyn Press, pp. 19&ndash;46.
+ [<a href="https://www.cs.ox.ac.uk/publications/publication3723-abstract.html" target="other">Scott and Strachey 1971 available online</a>]</li>
+ 
+<li>Sieber, Kurt, 1992, &ldquo;Reasoning About Sequential Functions
+via Logical Relations&rdquo;, in Fourman, Johnstone, &amp; Pitts 1992:
+258&ndash;269. doi:10.1017/CBO9780511525902.015</li>
+
+<li>Stoughton, Allen, 1988, <em>Fully Abstract Models of Programming
+Languages</em>, London: Pitman; New York: Wiley.</li>
+
+<li>Stoy, Joseph E., 1977, <em>Denotational Semantics: the
+Scott-Strachey Approach to Programming Language Theory</em>,
+Cambridge, MA: MIT Press.</li>
+
+<li>Strachey, Christopher, 1966, &ldquo;Towards a Formal
+Semantics&rdquo;, in Thomas B. Steel, Jr. (ed.), <em>Formal Language
+Description Languages for Computer Programming</em>, Amsterdam:
+North-Holland, pp. 198&ndash;220.</li>
+
+<li>&ndash;&ndash;&ndash;, 1967, &ldquo;Fundamental Concepts in
+Programming Languages&rdquo;, International Summer School in Computer
+Programming, Copenhagen. Revised and reprinted 2000, <em>Higher-Order
+and Symbolic Computation</em>, 13(1&ndash;2): 11&ndash;49.
+doi:10.1023/A:1010000313106</li>
+
+<li>Streicher, Thomas, 2006, <em>Domain-Theoretic Foundations of
+Functional Programming</em>, Singapore: World Scientific.</li>
+
+<li>Szab&oacute;, Zolt&aacute;n Gendler, 2013,
+&ldquo;Compositionality&rdquo;, in Edward N. Zalta (ed.), <em>The
+Stanford Encyclopedia of Philosophy</em> (Fall 2013.). URL =
+ &lt;<a href="https://plato.stanford.edu/archives/fall2013/entries/compositionality/" target="other">https://plato.stanford.edu/archives/fall2013/entries/compositionality/</a>&gt;</li>
+ 
+<li>Turner, Raymond, 2016, &ldquo;The Philosophy of Computer
+Science&rdquo;, in Edward N. Zalta (ed.), <em>The Stanford
+Encyclopedia of Philosophy</em> (Spring 2016.). URL =
+ &lt;<a href="https://plato.stanford.edu/archives/spr2016/entries/computer-science/" target="other">https://plato.stanford.edu/archives/spr2016/entries/computer-science/</a>&gt;</li>
+ 
+<li>Vuillemin, Jean, 1974, &ldquo;Correct and Optimal Implementations
+of Recursion in a Simple Programming Language&rdquo;, <em>Journal of
+Computer and System Science</em>, 9(3): 332&ndash;354.
+doi:10.1016/S0022-0000(74)80048-6</li>
+
+<li>White, Graham, 2004, &ldquo;The Philosophy of Computer
+Languages&rdquo;, in Luciano Floridi (ed.), <em>The Blackwell Guide to
+the Philosophy of Computing and Information</em>, Malden, MA:
+Blackwell, pp. 237&ndash;247. doi:10.1002/9780470757017.ch18</li>
+</ul>
+</div> 
+<div id="academic-tools">
+
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=games-abstraction" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/games-abstraction/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=games-abstraction&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="http://philpapers.org/sep/games-abstraction/" target="other">Enhanced bibliography for this entry</a>
+at <a href="http://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<ul>
+
+<li>Curien, Pierre-Louis, 2006,
+ &ldquo;<a href="https://pdfs.semanticscholar.org/2137/e2c21e577eac2bf2b4e22b43b8108636d2a4.pdf" target="other">Notes on Game Semantics</a>&rdquo;,
+ course notes</li>
+
+<li>Lamarche, Fran&ccedil;ois, 1992,
+ &ldquo;<a href="http://pll.cpsc.ucalgary.ca/charity1/spoonerd/ftp/LinGamSeq.ps.Z" target="other">Sequentiality, Games and Linear Logic</a>&rdquo;,
+ from a lecture to the CLiCS Symposium Aarhus University, March
+23&ndash;27, 1992.</li>
+
+<li>Plotkin, Gordon, 1978, &ldquo;The Category of Complete Partial
+Orders: a Tool for Making Meanings&rdquo;, Lectures, summer school,
+Dipartimento di Informatica, Universit&agrave; di Pisa, Italy.
+Reprinted in
+ <a href="http://homepages.inf.ed.ac.uk/gdp/publications/Domains_a4.ps" target="other"><em>Domains</em> (1983)</a>
+ </li>
+
+<li>Translation of Joyal, Andr&eacute; (1977)
+ &ldquo;<a href="https://bosker.files.wordpress.com/2010/12/joyal-games.pdf" target="other">Remarks on the Theory of Two-Player Games</a>,&rdquo;
+ translated by Robin Houston, see the
+ <a href="https://bosker.wordpress.com/2009/11/16/the-category-of-conway-games/" target="other">posted note</a>
+ about this translation. </li>
+</ul>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../compositionality/">compositionality</a> |
+ <a href="../computer-science/">computer science, philosophy of</a> |
+ <a href="../logic-games/">logic: and games</a> |
+ <a href="../logic-dialogical/">logic: dialogical</a> |
+ <a href="../logic-linear/">logic: linear</a> |
+ <a href="../type-theory-intuitionistic/">type theory: intuitionistic</a>
+
+</p>
+
+</div>
+
+<div id="acknowledgments">
+
+<h3>Acknowledgments</h3>
+
+<p>
+I am grateful to Ray Turner for advice and encouragement, and to Luca
+Paolini for comments on an early draft of this entry.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div> 
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="http://www.di.unito.it/~felice/" target="other">Felice Cardone</a>
+&lt;<a href="m&#97;ilto:felice&#37;2ecardone&#37;40unito&#37;2eit"><em>felice<abbr title=" dot ">&#46;</abbr>cardone<abbr title=" at ">&#64;</abbr>unito<abbr title=" dot ">&#46;</abbr>it</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

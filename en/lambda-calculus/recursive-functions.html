@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Lambda Calculus &gt; Appendix on Recursive Functions (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/lambda-calculus/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/lambda-calculus/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=lambda-calculus">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">The Lambda Calculus</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Appendix on Recursive Functions</h2>
+
+<p>
+To show that all recursive functions can be represented in the
+\(\lambda\)-calculus, one reproduces the definition of recursive
+functions in the \(\lambda\)-calculus. We recall the definition.</p>
+
+<div class="indent">
+ <p><strong>Definition</strong> The class of <strong><em>recursive
+ functions</em></strong> is the (smallest) class of functions from natural
+ numbers to natural numbers that contains:</p>
+ <table class="centered cellpad-med-dense">
+ <caption>The initial functions</caption>
+ <tr>
+ <td>Name</td>
+ <td>Definition</td>
+ <td>Condition</td>
+ </tr>
+ <tr>
+	<td>\(Z\)</td>
+	<td>\(Z(n) = 0\)</td>
+	<td></td>
+ </tr>
+ <tr>
+	<td>\(S\)</td>
+	<td>\(S(x) = x + 1\)</td>
+	<td></td>
+ </tr>
+ <tr>
+	<td>\(U_{n,k}\)</td>
+	<td>\(U_{n,k}(x_1 ,\ldots x_n)
+ = x_k\)</td>
+	<td>\(n \ge 1\) and \(1 \le k \le n\)</td>
+ </tr>
+ </table>
+ <p>and is closed under the operations of:</p>
+ <ul>
+ <li>
+ <strong><em>substitution/composition</em></strong>: if \(G\) and
+ \(H\) are recursive functions, and if the numeric function \(F\)
+ satisfies the relation: there is a \(k\) such that for all \(x_1
+ ,\ldots ,x_n\): \(F(x_1 ,\ldots ,x_n) = H(x_1 ,\ldots x_{k-1},G(x_1
+ ,\ldots x_n),x_{k+1},\ldots x_m)\),
+ then \(F\) is a recursive function.
+ </li>
+
+ <li><p><strong><em>definition by primitive recursion</em></strong>:
+ if \(G\) and \(H\) are recursive functions, and if the
+ numeric function \(F\) satisfies the relations:</p>
+
+ <ul><li>for all \(x_1 ,\ldots ,x_n\): \(F(x_1 ,\ldots ,x_n,0) = G(x_1 ,\ldots ,x_n)\)</li>
+  <li>for all k and all \(x_1 ,\ldots ,x_n\): \(F(x_1 ,\ldots ,x_n,k + 1) = H(x_1 ,\ldots ,x_n,k,F(x_1 ,\ldots ,x_n,k))\)</li>
+ </ul>
+ <p>then \(F\) is a recursive function.</p>
+ </li>
+
+ <li>
+ <p><strong><em>minimalization</em></strong>: if \(G\) is a recursive
+ function, and if the numeric function \(F\) satisfies the
+ relation</p>
+ <ul>
+ <li>\(F(x_1 ,\ldots ,x_n) = y\) iff \(G(x_1 ,\ldots ,x_n,y) = 1\) and for all \(x \lt y\) we have \(G(x_1 ,\ldots ,x_n,x) = 0\)</li>
+ </ul>
+ <p>then \(F\) is a recursive function.</p>
+ </li>
+ </ul>
+</div>
+
+<p>Say that a number-theoretic function \(f\) of arity \(n\)
+is <strong>\(\lambda\)-definable</strong> if there exists a
+\(\lambda\)-term \(F\) with the property that for every natural
+number \(a\) and for every \(n\)-tuple
+\((a_1 ,\ldots a_n)\) of natural
+numbers, we have</p>
+
+\[
+f(a_1 ,\ldots a_n) = a \text{ iff } 
+\lambda \vdash F\ulcorner a_1\urcorner \ldots \ulcorner a_n\urcorner = \ulcorner a\urcorner
+\]
+
+<p>
+To show that the class of recursive functions can be represented in
+the \(\lambda\)-calculus, one follows its definition; the step-by-step
+construction of an arbitrary recursive function from the initial
+functions can be mimicked in the \(\lambda\)-calculus. One shows first
+that all initial functions can be represented; then one shows that the
+operations of substitution/composition, definition by primitive
+recursion, and minimalization can likewise be expressed. We require,
+first, a representation of natural numbers in the \(\lambda\)-calculus.
+Representing the initial functions and substitution/composition will
+then be straightforward, but some work is required to show that
+definition by primitive recursion and minimalization can be adequately
+represented. The development that follows is standard (Barendregt,
+1984).</p>
+
+<p>We begin with a representation of natural numbers as
+\(\lambda\)-terms. Define \(\ulcorner n\urcorner\) by
+recursion as:</p>
+
+\[\begin{align}
+    \ulcorner 0\urcorner &amp;= \bI \\
+\ulcorner n + 1\urcorner &amp;= \lambda x[x\bF\ulcorner n\urcorner]
+\end{align}\]
+
+<p>Intuitively, to represent primitive recursion, one ought be able to
+proceed by cases because one has to test whether an argument is zero
+(&lsquo;base case&rsquo;) or non-zero (&lsquo;recursion case&rsquo;).
+One naturally searches for an analogue in the \(\lambda\)-calculus for an
+&lsquo;if-then-else&rsquo; term-building operation.
+The \(\bB\) combinator accomplishes this. That
+is, \(\bB\) (given our representation of the constant-true
+and constant-false by the \(\lambda\)-terms \(\bT\)
+and \(\bF\)) has the property that</p>
+
+\[
+\bB\bT xy = x \text{ and } \bB\bF xy = y
+\]
+
+<p>for all terms \(x\) and \(y\). We need, further, \(\lambda\)-terms
+representing the number-theoretic operations of successor and
+predecessor. In other words, we need \(\lambda\)-terms
+\(\Succ\) (successor), \(\Pred\) (predecessor), and
+\(\Zero\) (test for zero) satisfying</p>
+
+\[\begin{align}
+ &amp;\Succ \ulcorner n\urcorner = \ulcorner n + 1\urcorner \\
+ &amp;\Pred \ulcorner n + 1\urcorner = \ulcorner n\urcorner \\
+ &amp;\Zero 0 = \bT \\
+ &amp;\Zero \ulcorner n + 1\urcorner = \bF
+\end{align}\]
+
+<p>for all natural numbers \(n\). With this representation of natural
+numbers, one can then show that the terms \(\Succ,
+\Pred\), and \(\Zero\) defined as</p>
+
+\[\begin{align}
+\Succ &amp;:= \lambda x[\lambda y[y\bF x]] \\
+\Pred &amp;:= \lambda x[x\bF] \\
+\Zero &amp;:= \lambda x[x\bT]
+\end{align}\]
+
+<p>have properties (1)&ndash;(4).</p>
+
+<div class="indent">
+Representation of the initial recursive functions in the \(\lambda\)-calculus
+
+ <table class="centered cellpad-med-dense">
+ <tr>
+ <td>Function</td>
+ <td>Representation</td>
+ </tr>
+ <tr>
+ <td>\(Z\)</td>
+ <td>\(\lambda\)x[\(\bI\)]</td>
+ </tr>
+ <tr>
+ <td>\(S\)</td>
+ <td>\(\Succ\)</td>
+ </tr>
+ <tr>
+ <td>\(U_{n,k}\)</td>
+ <td>\(\lambda x_1 \ldots \lambda\)x\(_n\)[x\(_k\)]</td>
+ </tr>
+</table>
+</div>
+
+<p>Substitution/composition is represented straightforwardly: given
+that the \(\lambda\)-terms \(G^*\) and \(H^*\)
+represent the number-theoretic functions \(G\) and \(H\), the
+composition of \(G\) and \(H\) is given simply by</p>
+
+\[
+\lambda x_1 \ldots x_n [H^* x_1 \ldots x_{k-1}(G^* x_1 \ldots x_n)x_{k+1}\ldots x_n]
+\]
+
+<p>The desired representation of definition by primitive recursion is
+a term \(Fxy\) satisfying</p>
+
+\[
+Fxy = \ifthenelse \Zero x, Gy, H(\Pred xy,y))
+\]
+
+<p>The existence of such a term is settled by a <em>fixed-point
+theorem</em>:</p>
+
+<p class="indent">
+<strong>Theorem</strong> For every term \(F\), there exists a
+ term \(X\) such that \(X = FX\).</p>
+
+<p>(One can use Curry&rsquo;s &lsquo;paradoxical&rsquo; fixed-point
+combinator \(\bY\) for this purpose.) The final task is to
+represent, in the \(\lambda\)-calculus, the number-theoretic
+minimalization operation \(\mu\) defined on properties of natural
+numbers:</p>
+
+<p class="indent">
+ \(\mu x[\phi(x)] =\) the smallest natural number \(n\) for which the number-theoretic property \(\phi(n)\) holds
+</p>
+
+<p>An adequate representation of \(\mu\) in the \(\lambda\)-calculus is
+defined in stages. Define, for a \(\lambda\)-term \(P\), the two
+terms \(H_P\) and \(\mu P\) as</p>
+
+\[\begin{align}
+H_P &amp;:=  \bTheta (\lambda h[\lambda z[\ifthenelse Pz, z, h \Succ z]] \\
+\mu P &amp;:= H_P\ulcorner 0\urcorner
+\end{align}\]
+
+<p>The second clause of the definition can be intuitively understood
+as computing thus: Does 0 have property \(P\)? If so, then stop;
+\(\mu P\) is 0. If not, does 1 have property \(P\)? If so,
+then 1 is the answer. Proceeding in this fashion, one will eventually
+stop and the computed value will be \(\mu P\). The fixed-point
+operator <strong>\(\Theta\)</strong> accomplishes the
+&lsquo;looping&rsquo;. One can then show that if \(X\) is a
+\(\lambda\)-term with the property that</p>
+
+<ul>
+<li>for all natural numbers \(n\): either \(P\ulcorner n\urcorner = \bT\) or \(P\ulcorner n\urcorner = \bF\)</li>
+</ul>
+
+<p>and if there exists a natural number \(n\) such
+that \(P\ulcorner n\urcorner = \bT\), then \(\mu P\) is the least natural
+number \(m\) such
+that \(P\ulcorner m\urcorner = \bT\). With these ingredients in place, one can then
+prove the following representation theorem (due to Church):</p>
+
+<p class="indent">
+ <strong>Theorem</strong> For every number-theoretic
+ function \(f\), we have that \(f\) is recursive iff \(f\)
+ is \(\lambda\)-definable.</p>
+
+<p>One can extend the notion of \(\lambda\)-definability to the wider
+concept of partial recursive (number-theoretic) functions and prove
+for that class of functions a result analogous to the preceding
+theorem.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://jessealama.net/cv/" target="other">Jesse Alama</a>
+<br />
+<a href="http://jkorbmacher.org/" target="other">Johannes Korbmacher</a>
+&lt;<a href="m&#97;ilto:j&#37;2ekorbmacher&#37;40uu&#37;2enl"><em>j<abbr title=" dot ">&#46;</abbr>korbmacher<abbr title=" at ">&#64;</abbr>uu<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

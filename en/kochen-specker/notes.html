@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Kochen-Specker Theorem &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/kochen-specker/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/kochen-specker/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kochen-specker">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">The Kochen-Specker Theorem</a></h2>
+
+<div id="note-1">
+
+<p><a href="index.html#ref-1">1.</a> One of the main ideas of Bohmian
+Mechanics is that position is the only basic observable to which all
+other observables of orthodox QM can be reduced. So, Bohmian Mechanics
+will qualify VD as follows: &ldquo;Not all observables defined in
+orthodox QM for a physical system are defined in Bohmian Mechanics,
+but those that are (i.e. only position) do have definite values at all
+times.&rdquo; Both this modification of VD and the rejection of NC
+immediately immunize Bohmian Mechanics against any no HV argument from
+the Kochen Specker Theorem. See sec.s 10 and 11 of the entry
+on <a href="../qm-bohm/">Bohmian Mechanics</a> for further discussion.</p>
+</div>
+
+<div id="note-2">
+
+<p><a href="index.html#ref-2">2.</a> Note that if we understand the
+&lsquo;expectation&rsquo; values deriving from the hidden states as
+what someone knowing such a state should expect as the average
+measurement result, then this claim is correct only given an
+assumption of faithful measurement (FM). FM is another typical
+assumption of a realist (or noncontextualist HV) interpretation of
+QM. The KS argument can be given without FM, since it makes claims
+about possessed values, not measured values. Only in statistical
+arguments, like von Neumann&rsquo;s and Clifton&rsquo;s, FM must be
+assumed. We suppress FM in the main text with the exception of
+Contextuality (see Section 5.3).</p>
+</div>
+
+<div id="note-3">
+
+<p><a href="index.html#ref-3">3.</a> See Bell (1966: 4) and Jammer
+(1974: 274, 304); see also Kochen and Specker (1967: 82/322, theorem
+3) for a parallel example and criticism of von Neumann. This criticism
+of von Neumann&rsquo;s argument was first raised by Grete Hermann
+(1935). Einstein is also reported to have made the same criticism (see
+Shimony 1993: 89).</p>
+</div>
+
+<div id="note-4">
+
+<p><a href="index.html#ref-4">4.</a> Apart from being positive and
+normalised (&mu;(id)=1, id the identity operator), a probability
+measure in Gleason&rsquo;s sense must be (countably) additive for
+families of mutually orthogonal projections. This natural assumption
+is the analogue of KS&rsquo;s assumption (3) for compatible
+observables.</p>
+</div>
+
+<div id="note-5">
+
+<p><a href="index.html#ref-5">5.</a> According to Bell (1987: 167),
+Kochen did not know of Gleason&rsquo;s work at the time.</p>
+</div>
+
+<div id="note-6">
+
+<p><a href="index.html#ref-6">6.</a> It has been claimed that
+the theorem&rsquo;s statement requires a third condition:</p>
+
+<blockquote>
+  <p class="indent">(KS2)(c): There exists at least one observable <em>X</em>
+  with <em>v</em>(<em>X</em>) &ne; 0.</p>
+<p>[&hellip;] Without condition KS2c the theorem is actually false &mdash; the
+trivial valuation where for all observables <em>X</em> one
+sets <em>v</em>(<em>X</em>) = 0 provides an explicit
+counter-example.</p>
+ </blockquote>
+ 
+<p>(See Rajan and Visser 2017, p. 2, in Other Internet Resources.) But
+this is a mistake. The theorem claims the existence of a valuation
+such that KS1 and KS2 jointly are contradictory. Arguably, this claim
+can only be proved by explicit examples. Presenting a valuation such
+that KS1 and KS2 jointly are compatible (non-contradictory) &ndash;
+i.e., the &ldquo;trivial valuation&rdquo; &ndash; is itself compatible
+with the theory&rsquo;s claim but irrelevant to its proof. </p>
+</div>
+
+<div id="note-7">
+<p><a href="index.html#ref-7">7.</a> See Kochen and Specker (1967:
+71&ndash;72/310&ndash;11).</p>
+</div>
+
+<div id="note-8">
+<p><a href="index.html#ref-8">8.</a> By elementary vector algebra,
+viz.: <strong>a</strong>&middot;<strong>b</strong>=|a|&nbsp;|b|&nbsp;cos&nbsp;&phi;,
+where <strong>a</strong>&middot;<strong>b</strong> is the inner
+product of vectors <strong>a</strong> and <strong>b</strong> and &phi;
+is the angle between them.</p>
+</div>
+
+<div id="note-9">
+<p><a href="index.html#ref-9">9.</a> Both arguments, i.e., von
+Neumann&rsquo;s and Clifton&rsquo;s, presuppose faithful measurement
+(FM) (see also fn 1). Indeed, an eventual failure of FM would be the
+natural way to explain why a certain constraint on possessed values
+does not show up in the measurement statistics.</p>
+</div>
+
+<div id="note-10">
+<p><a href="index.html#ref-10">10.</a> A state of a spin-1 particle
+where
+prob(<em>v</em>(<em>S</em><sub><em>x</em></sub><sup>2</sup>)=0)=1 is
+|<em>S</em><sub><em>x</em></sub>=0&gt;. Expanding this state in the
+eigenvectors of <em>S</em><sub><em>x</em>&prime;</sub> yields</p>
+
+<blockquote>|<em>S</em><sub><em>x</em></sub>=0&gt; = <br /> cos &phi; (1
++ sin<sup>2</sup> &phi;) <sup>&minus;&frac12;</sup>
+|<em>S</em><sub><em>x</em>&prime;</sub>&nbsp;=&nbsp;0&gt; + sin &phi;
+(1 + sin<sup>2</sup> &phi;) <sup>&minus;&frac12;</sup>
+(|<em>S</em><sub><em>x</em>&prime;</sub>&nbsp;=&nbsp;&minus;1&gt;
+&minus;
+|<em>S</em><sub><em>x</em>&prime;</sub>&nbsp;=&nbsp;+1&gt;)</blockquote>
+
+<p>Now, with cos &phi;=1/3, we get:</p>
+
+<blockquote>
+<table>
+<tbody>
+   <tr>
+	<td style="vertical-align:bottom">prob(<em>v</em>(<em>S</em><sub><em>x</em>&prime;</sub><sup>2</sup>)&nbsp;=&nbsp;0)</td>
+	<td style="vertical-align:middle">=</td>
+	<td style="vertical-align:bottom">prob(<em>v</em>(<em>S</em><sub><em>x</em>&prime;</sub>)&nbsp;=&nbsp;0)</td>
+   </tr>
+
+  <tr>
+	<td style="vertical-align:bottom">&nbsp;</td>
+	<td style="vertical-align:middle">=</td>
+	<td style="vertical-align:bottom">(cos &phi;)<sup>2</sup> / (1 + sin<sup>2</sup> &phi;)</td>
+  </tr>
+
+  <tr>
+	<td style="vertical-align:bottom">&nbsp;</td>
+	<td style="vertical-align:middle">=</td>
+	<td style="vertical-align:bottom">1/9 (1 + 8/9)<sup>&minus;1</sup></td>
+  </tr>
+	
+  <tr>
+	<td style="vertical-align:bottom">&nbsp;</td>
+	<td style="vertical-align:middle">=</td>
+	<td style="vertical-align:bottom">1/17</td>
+  </tr>
+</tbody>
+</table>
+</blockquote>
+</div>
+
+<div id="note-11">
+<p><a href="index.html#ref-11">11.</a> See Redhead (1987: 121). See
+also Kochen and Specker (1967: 64/299, eq. 4) and Fine and Teller
+(1978: 631) where the principle appears under the name
+&ldquo;functional relation condition&rdquo;.</p>
+</div>
+
+<div id="note-12">
+<p><a href="index.html#ref-12">12.</a> The argument here is due to
+Redhead (1987: 132). Redhead himself suggests that there is an
+internal tension in his argument. He remarks that STAT FUNC, as
+derived from the QM formalism, is a statement about (probabilities
+for) <em>measured values</em>, (see his remark that when QM &rarr;
+STAT FUNC, the latter is &ldquo;understood in terms of the statistics
+of measurement results&rdquo;, p. 132), while FUNC talks about
+&ldquo;the <em>possessed values</em> of the observables&rdquo;
+(p. 121, my italics). This distinction seems to devaluate
+Redhead&rsquo;s reasoning to some extent. If there is a real
+difference between possessed values and measured values and no
+explicit assumption equating both types of values is made, then STAT
+FUNC (version 1) derivable from FUNC talks about a statistical
+relation among functions of <em>possessed values</em>, while STAT FUNC
+(version 2) is derived from QM, hence by definition talks about the
+statistics of <em>measured values</em>. The two versions initially are
+entirely unconnected and FUNC &rarr; STAT FUNC (version 1) cannot lend
+plausibility to STAT FUNC (version 1). Now, don&rsquo;t we have good
+reason to carefully distinguish measured and possessed values in
+QM?</p>
+
+<p>Fortunately, no such distinction is really necessary. First,
+distinguish a strong sense of possessed values where possessed value
+are values a system possesses independently from being measured and a
+weak sense of possessed values where possessed values are
+possessed <em>simpliciter</em>, i.e. the system just has them, perhaps
+as a result of measurement, perhaps not. Second, consider the hedge
+phrase of a system &lsquo;displaying a value&rsquo; as a result of a
+measurement. It is minimally a phrase like this which must go into the
+description of the events for which the Statistical Algorithm yields
+probabilities. But the hedge phrase is actually superfluous. Physical
+systems do not display anything unless they have it. Accordingly, if a
+system displays a value upon measurement, then it possesses this value
+(in the weak sense). By contrast, if a system displays a value upon
+measurement and measurement is faithful, then it possesses that value
+independently of measurement (thus, possessed it in the strong
+sense). (See the main text below, &sect; 5.3, for more on faithful
+measurement; see also Redhead, p. 131 after eq. (11), for the
+connection between faithful measurement and possessed values.) Now,
+the weak sense of possessing a value is fully sufficient to formulate
+FUNC and Redhead&rsquo;s plausibility argument for STAT FUNC remains
+untouched. (Indeed, the derivation FUNC &rarr; STAT FUNC itself uses
+the Statistical Algorithm, which would be an illegitimate procedure if
+the latter did not refer to probabilities for possessed values, in
+some sense.)</p>
+</div>
+
+<div id="note-13">
+<p><a href="index.html#ref-13">13.</a> It is not exactly true that the
+QM formalism prescribes <em>any</em> observable to have a value. In
+fact, the formalism itself is entirely silent about values, apart from
+the statistical predictions it entails via the statistical algorithm
+(see Redhead 1987: 8). But a crucial assumption of orthodox
+interpretations is the eigenstate-eigenvalue link (see Fine 1973: 20):
+Observable <em>A</em> on a system has value a<sub><em>k</em></sub> iff
+the system is in state |a<sub><em>k</em></sub>&gt;. The only if
+direction of this principle which leads to a minimum of value
+ascriptions is endorsed in van Fraassen&rsquo;s original version of
+the modal interpretation (this direction is equivalent to the
+Eigenvector Rule in Redhead 1987: 73, 120) while it denies the if
+direction, which prevents that more than a minimum of values are
+ascribed to a system.</p>
+</div>
+
+<div id="note-14">
+<p><a href="index.html#ref-14">14.</a> This is Redhead&rsquo;s (1987:
+135&ndash;36) construal of a proposal by Fine (1974).</p>
+</div>
+
+<div id="note-15">
+<p><a href="index.html#ref-15">15.</a> See Fine and Teller (1978:
+636), Redhead (1987: 138) and references therein.</p>
+</div>
+
+<div id="note-16">
+<p><a href="index.html#ref-16">16.</a> What we mean here is the
+following. A definition of observable <em>f</em>(<em>A</em>) (or
+observable <em>A</em> + <em>B</em>, or
+observable <em>A</em>&middot;<em>B</em>, both constructed from
+observables <em>A</em> and <em>B</em>) would be that it is an
+observable which takes a value calculated by
+measuring <em>v</em>(<em>A</em>) (or measuring <em>v</em>(<em>A</em>)
+and <em>v</em>(<em>B</em>)) and applying <em>f</em> to the result (or
+calculating <em>v</em>(<em>A</em>) + <em>v</em>(<em>B</em>), or
+calculating <em>v</em>(<em>A</em>)&nbsp;<em>v</em>(<em>B</em>)). FUNC,
+the Sum Rule and the Product Rule, as restricted to one measurement
+context, trivially repeat these definitions, and there obviously is no
+point in testing, e.g.,
+whether <em>v</em>(<em>A</em>&middot;<em>B</em>) really
+equals <em>v</em>(<em>A</em>)&nbsp;<em>v</em>(<em>B</em>), if the
+former expression is defined by the latter.</p>
+</div>
+
+<div id="note-17">
+<p><a href="index.html#ref-17">17.</a> The proviso &lsquo;in a
+sense&rsquo; comes from the fact that a colourable subset of the set
+of observables corresponding to all directions in R3, since it is a
+proper subset of the latter, is not itself continuous in the intuitive
+sense. We can, however, define a probability function from such a
+colourable subset into [0, 1] which obeys the usual continuity
+definition of elementary calculus.</p>
+</div>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+Carsten Held
+&lt;<a href="m&#97;ilto:carsten&#37;2eheld&#37;40mailbox&#37;2eorg"><em>carsten<abbr title=" dot ">&#46;</abbr>held<abbr title=" at ">&#64;</abbr>mailbox<abbr title=" dot ">&#46;</abbr>org</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

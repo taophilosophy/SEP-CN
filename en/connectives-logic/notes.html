@@ -1,0 +1,1282 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Sentence Connectives in Formal Logic &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/connectives-logic/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/connectives-logic/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=connectives-logic">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Sentence Connectives in Formal Logic</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ Probably the best all-purpose understanding of what logics are would
+take them as equivalence classes of proof systems under the relation
+of having mutually interderivable rules, though even this ignores
+issues about translational equivalence across differing languages. For
+many practical purposes it is sufficient to individuate logics more
+coarsely, as consequence relations or generalized consequence
+relations, or even, as is common in some areas, simply sets of
+formulas.</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ There has been much controversy as to how well this or that set of
+rules governing implication or disjunction, for example, manages to
+capture the (putatively) corresponding natural language
+analogue&mdash;<em>if-then</em>, <em>or</em> (in the cases
+cited)&mdash;but this entry will not be considering such
+connective-specific issues.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ This coincides with the algebraically defined notion of a context
+given above.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ Sometimes we will speak of \(\#\) as truth-functional over a class of
+valuations instead of truth-functional with respect to the class, when
+the immediate linguistic context contains another occurrence of the
+phrase &ldquo;with respect to&rdquo;.</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ See Leblanc (1966), p. 169 and n. 14; also Sundholm (2001), p.
+38.</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ We could make the same point apropos of the consequence relation,
+\(\vdash_{\vee}\) say, determined by the class of all
+\(\vee\)-Boolean valuations. (See the opening paragraph of Section
+ <a href="index.html#NotSou">5</a>
+ for pointers to more information on all of this.)</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ Had the historical development of logic run differently and the
+framework we would naturally call <span class="sc">Fmla</span>-<span class="sc">Set</span>
+come to initial prominence, we would have been
+fussing about the consistent valuations being closed under disjunctive
+combinations, and the sequent-undefinability of the class of
+\(\wedge\)-Boolean valuations. As it is, we shall be hearing no more of \(+\)
+and \(\sum\).</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ That is, if \(\sigma = \Gamma \succ \Delta\) and \(\sigma '= \Gamma ' \succ \Delta ', \sigma + \sigma '\) is
+\(\Gamma , \Gamma ' \succ \Delta , \Delta '\).</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ A somewhat similar range of properties is the focus of Williamson
+(2006a), though with definitions that make the concepts in question
+apply to arbitrary linguistic contexts and not just to connectives
+(see
+ <a href="index.html#Pre">Section 1</a>
+ above), and without the explicit relativity to logics (consequence
+relations or generalized consequence relations).</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ Additional background on these matters is mentioned in the opening
+paragraph of Section
+ <a href="index.html#NotSou">5</a>.
+ For an articulation of the issues from an algebraic perspective,
+Caicedo and Cignoli (2001), Caicedo (2004), and Ertola Biraben and San
+Mart&iacute;n (2011).</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ The fact that a generalized consequence relation is a binary relation
+means that we need to distinguish symmetric and non-symmetric such
+relations, as in general, and means that it is an unwise
+terminological decision to call generalized consequence relations
+<em>symmetric</em> consequence relations, as in Dunn and Hardegree
+(2001), Chapter 6. There seems to be a confusion here between whether
+a binary relation is <em>symmetric</em> and whether the treatment of
+its two relata is <em>symmetrical</em>. Note, incidentally, that it is
+binary relations that are symmetric, not binary operations
+(connectives or otherwise), <em>pace</em> Restall (1999), p. 385, who
+writes of a binary operation corresponding to a kind of conjunction
+that it is &ldquo;idempotent, symmetric, and associative&rdquo;. The
+word wanted is &lsquo;commutative&rsquo;. (Of course a connective
+<em>qua</em> syntactic operation can never literally be commutative;
+what is meant is that the corresponding
+&lsquo;Lindenbaum-algebraic&rsquo; operation on synonymy-classes of
+formulas is commutative.) Restall is in famous&mdash;if
+muddled&mdash;company here; compare Quine (1951), describing
+conjunction as transitive on one page (p. 18) and associative on the
+next. The present point is not that one should never use terminology
+appropriate to binary relations when speaking of
+connectives&mdash;since there is, for instance, for any valuation
+\(v\) the relation \(R_v\), say, holding
+between \(\phi\) and \(\psi\) just in case \(v(\phi \wedge \psi) = \rT,\)
+and for Boolean valuations at least, this relation is symmetric. It
+is just that a clearer head is called for than Quine and
+Restall&mdash;and many other writers&mdash;have displayed in jumbling
+up the binary relational terminology (reflexive, symmetric,
+transitive,&hellip;) with the binary operational terminology
+(idempotent, commutative, associative, &hellip;). Among the
+&lsquo;others&rsquo; are Dunn and Hardegree (again), who write on p.
+215 of Dunn and Hardegree (2001) of the &ldquo;symmetry of
+conjunction&rdquo;. For (pointers to) more on all this, see the
+opening paragraph of Section
+ <a href="index.html#NotSou">5</a>.</p>
+ </div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ Just as the sequents of <span class="sc">Set</span>-<span class="sc">Fmla</span>
+can be thought of as those <span class="sc">Set</span>-<span class="sc">Set</span>
+sequents \(\Gamma \succ \Delta\) with \(\Delta\) having exactly one element, those of <span class="sc">Fmla</span>
+have the further feature that \(\Gamma\) is empty,
+making these sequents stand in a one-to-one correspondence with the
+formulas of the language, with which for practical purposes we may
+identify them, explaining the following words of the main text. There
+are still two possibilities here, though. When the axiomatic or
+&lsquo;Hilbert&rsquo; approach is taken, the rules are
+formula-to-formula rules and the objects proved are formulas. On the
+other hand, in our initial presentation of natural deduction, before
+assumption discharging rules got into the act, the rules were again
+presented as formula-to-formula rules, but with the things proved with
+these rules were in effect <span class="sc">Set</span>-<span class="sc">Fmla</span>
+sequents: meaning that the rules enabled us to
+pass from a set of initial assumptions to a final formula. Should we
+say that the logical framework here is <span class="sc">Set</span>-<span class="sc">Fmla</span>
+on the basis of
+what ends up being proved, or that it is <span class="sc">Fmla</span>,
+on the basis of what the premisses and conclusions of the rules
+involved are? Now that the distinction has been duly noted, there is
+no urgent need to supply an answer to this question.</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ The two views contrasted here are distinguished in Meyer (1974).</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ In fact for any rules \(R \cup \{\varrho \}, \varrho\) is derivable
+from \(R\) together with these structural rules if and only if
+\(\Glo(R) \subseteq \Glo(\varrho)\).</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ Note that the operations \(+\) and \(\cdot\) on valuations give least
+upper bounds and greatest lower bounds with respect to this partial
+order.</p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ In fact, Garson works with a variation on the framework <span class="sc">Set</span>-<span class="sc">Fmla</span>
+which allows
+sequents \(\Gamma \succ \phi\) with \(\Gamma\) infinite, and this feature
+is essential to his proof of the claim here reported. Whether it is
+essential for the correctness of the claim, I do not know.</p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ See the opening paragraph of Section
+ <a href="index.html#NotSou">5</a>.</p>
+ </div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ The condition for \(\rightarrow\) was given incorrectly in Garson (2001);
+Garson (1990) should be consulted for the correct formulation.</p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ Dummett (1991) provides an extended discussion of such positions.
+There is an interesting proposal in Peacocke (1987) for &ldquo;reading
+off&rdquo; (Boolean) valuational semantics from inference rules found
+&lsquo;primitively compelling&rsquo; by reasoners (as a necessary
+condition for their possessing the concepts expressed by <em>and</em>,
+<em>or</em>, etc.), which for some cases may be introduction rules and
+others elimination rules. This attractive suggestion has unfortunately
+come in for worrying criticism more recently: for example in
+Williamson (2006b), (2013). It may be necessary to retreat from a
+claim about <em>possession</em> of the concepts concerned, to a claim
+about something like <em>mastery</em> of those concepts, with the
+attendant obligation to spell out what the latter consists in, in a
+way that does not make the claim vacuous.</p>
+</div>
+
+<div id="note-20">
+
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ Thus the consequence relation associated with the present natural
+deduction system is trivial&mdash;&ldquo;almost inconsistent&rdquo;,
+as it sometimes put&mdash;in the sense introduced apropos of
+Rautenberg&rsquo;s maximality theorem in
+ <a href="index.html#SeqVal">Section 2</a>.
+ (For a proper formulation of the natural deduction rules here the
+above formula-to-formula rules should be explicitly represented as
+sequent-to-sequent rules with a set parameter, &ldquo;\(\Gamma\)&rdquo;
+sitting on the left of a \(\ldquo\succ\rdquo\).) The provable sequents
+\(\phi \succ \phi \Tonk \psi\) and \(\phi \Tonk \psi \succ \psi\) represent conditions on
+this consequence relation induced by the determinants \(\langle \rT, x, \rT\rangle\) for \(x =\rT, \rF,\)
+in the former case and \(\langle y, \rF, \rF\rangle\) for \(y =
+\rT, \rF\), in the latter. Thus any valuation consistent with this
+consequence relation must respect each of two opposite
+determinants&mdash;making <span class="sc">Tonk</span>
+overdetermined&mdash;\(\langle\rT, \rF, \rT\rangle\), taking \(x =\rF\)  and
+\(\langle\rT, \rF, \rF\rangle\) taking \(y =\rT\). The only valuations that
+respect both these determinants are \(v_{\rT}\), assigning
+\(\rT\) to every formula, and \(v_{\rF}\) assigning \(\rF\) to every
+formula, and the logic determined by
+\(\{v_{\rT},v_{\rF}\}\) is the smallest
+trivial consequence relation on the language concerned. This is our
+semantic gloss on the \(\Tonk\) example. It would
+be quite wrong to diagnose the problem in terms of the non-existence
+of a <em>truth-function</em> corresponding to \(\Tonk\),
+or to say, as Stevenson (1961), p. 127, does,
+that the problem is that Prior &ldquo;gives the meanings of
+connectives in terms of permissive rules, whereas they should be
+stated in terms of truth-function statements in a metalanguage.&rdquo;
+(Prior 1976 replies to Stevenson, and <em>inter alia</em> suggests
+that the consequence relation just described can be thought of as
+&ldquo;one-valued logic&rdquo;&mdash;<em>cf.</em> Hamblin 1967; the
+better term would be <em>constant-valued</em> logic.) There is nothing
+incoherent about non-truth-functional&mdash;or more accurately, not
+fully determined&mdash;connectives: the problem arises from being
+overdetermined. The same objection, as Read (1988), p. 168, observes,
+appears to apply to the remark in Peacocke (1987) that the
+&ldquo;semantical objection to <em>tonk</em> is that there is no
+binary function on truth values which validates both its introduction
+and its elimination rules&rdquo;, though there is more room for
+manoeuvre here: the implicit suggestion is that coherence requires
+soundness, not soundness and completeness, under some truth-functional
+interpretation. This amounts to deeming unintelligible any connective
+which is &lsquo;strongly contra-classical&rsquo;, in the sense of not
+being thus interpretable. But what does soundness under &lsquo;some
+truth-functional interpretation&rsquo; mean? It will not do to say:
+soundness with respect to some \(V\) over which the connective in
+question is truth-functional, since the there may not be enough
+variety in the truth-values supplied by \(V\) to the formulas of
+the language, in which case its elements may respect the determinants
+for a truth-function only vacuously because some possibilities do not
+arise. (For an extreme case, consider \(V = \varnothing\).) One
+natural thing to require is that all combinatorially possible
+truth-value assignments to the propositional variables are provided,
+i.e., that \(\forall X \subseteq \mathbb{N} \exists v \in V \forall k \in \mathbb{N}
+[v(p_k) = \rT] \text{ iff } k \in X\). Note that this makes \(V\) uncountable. For
+most purposes, including the present one, a much weaker condition
+suffices, namely that \(V\) should be <em>non-constant</em> in
+the sense that \(V\) contains some valuation distinct from
+\(v_{\rT}\) and \(v_{\rF}\).</p>
+</div>
+
+<div id="note-21">
+
+<p>
+
+ <a href="index.html#ref-21">21.</a>
+ One such example is mentioned in the opening paragraph of Section
+ <a href="index.html#NotSou">5</a>.</p>
+ </div>
+
+<div id="note-22">
+
+<p>
+
+ <a href="index.html#ref-22">22.</a>
+ The same phenomenon occurs with the proof system for the 1-ary
+&lsquo;anticipation&rsquo; connective discussed in Ertola Biraben
+(2012), as was first observed by Brian Weatherson.</p>
+</div>
+
+<div id="note-23">
+
+<p>
+
+ <a href="index.html#ref-23">23.</a>
+ Of necessity, some examples in this paragraph have been mentioned
+without the explanation that would accompany them in a fuller
+treatment of this material. There is also a philosophical complication
+ignored in the use, above and below, of such phrases as
+&lsquo;adherent of intuitionistic logic&rsquo;, in that they seem at
+least to presume the incorrectness of a position that has been called
+logical pluralism and defended under that name in Beall and Restall
+(2006).</p>
+</div>
+
+<div id="note-24">
+
+<p>
+
+ <a href="index.html#ref-24">24.</a>
+ <em>Cf.</em> Koslow (1992), base of p. 129.</p>
+</div>
+
+<div id="note-25">
+
+<p>
+
+ <a href="index.html#ref-25">25.</a>
+ Requiring \(\Delta = \Theta = \varnothing\) in \((\vee\text{E})\) blocks the proof of
+the quantum-logically contested distribution sequent \(p \wedge 
+(q \vee r) \succ(p \wedge q)
+\vee(p \wedge r)\); see Dummett (1991),
+p.205<em>f.,</em> and also, of &lsquo;sequent calculus&rsquo; interest: p. 42,
+especially three-quarters down the page. The general acceptability of
+the distribution laws has also recently been questioned for reasons
+independent of&nbsp; quantum-logical considerations in Holliday and
+Mandelkern (2022), Holliday (2023). (In respect of \(\wedge /\vee\)
+interactions, even the more fundamental <em>absorption</em> laws have
+been known to raise eyebrows for certain equivalence relations of
+logical interest, though we do not go into this here.)</p>
+</div>
+
+<div id="note-26">
+
+<p>
+
+ <a href="index.html#ref-26">26.</a>
+ Rules for multiplicative and additive conjunction are given in
+ <a href="#note-46">note 46</a>.
+ See Troelstra (1992) for further information about linear logic.</p>
+</div>
+
+<div id="note-27">
+
+<p>
+
+ <a href="index.html#ref-27">27.</a>
+ Actually a bit more is needed to obtain \(\mathbf{R}\), in that
+distribution of additive conjunction over additive disjunction is part
+of \(\mathbf{R}\) which does not follow from the description
+given. Further details can be found in Avron (1988).</p>
+</div>
+
+<div id="note-28">
+
+<p>
+
+ <a href="index.html#ref-28">28.</a>
+ Here we see that the empty succedent is something of a luxury in
+intuitionistic logic, rather than a necessity, since we could always
+use \(F\) to fill it&mdash;or rather, \(\bot\), as one would say,
+since there are no \(F\)-vs.\(-f\) subtleties to worry
+about.</p>
+</div>
+
+<div id="note-29">
+
+<p>
+
+ <a href="index.html#ref-29">29.</a>
+ Actually, there is a complication (being ignored here) because of the
+contraction rule. One disadvantage of the set-based frameworks is
+that, loosely speaking, applications of this rule become
+invisible.</p>
+</div>
+
+<div id="note-30">
+
+<p>
+
+ <a href="index.html#ref-30">30.</a>
+ Notice that with &ldquo;\(\phi\Tonk\psi\)&rdquo; replaced by &ldquo;\(\phi , \psi\)&rdquo; the inset sequents
+are available by (Id) and (Weakening) on the left and right. Since the
+comma here is not a connective, however, there is no formula&mdash;in
+the absence of \(\Tonk\) which could serve as
+a cut formula on the basis of these two sequent premisses. On one
+usage of the term &lsquo;connective&rsquo;, that associated with
+Belnap&rsquo;s Display Logic (see Restall (2000), Chapter 6) something
+corresponding to the comma and many more somewhat analogous devices
+are sometimes referred to as &lsquo;structure connectives&rsquo; (as
+opposed to &lsquo;formula connectives&rsquo;). This whole topic lies
+outside of our purview.</p>
+</div>
+
+<div id="note-31">
+
+<p>
+
+ <a href="index.html#ref-31">31.</a>
+ This example appears in a slightly different form, but explicitly
+contrasted with that of \(\Tonk\) in the same way,
+on p. 164 of Do&scaron;en and Schroeder-Heister (1985).</p>
+</div>
+
+<div id="note-32">
+
+<p>
+
+ <a href="index.html#ref-32">32.</a>
+ This idea is essentially that of Setlur (1970), where a variation on
+the theme of Helena Rasiowa&rsquo;s, of taking hybrids in the
+framework <span class="sc">Fmla</span>&mdash;holding fixed the
+remaining connectives&mdash;is to be found. The device of taking
+direct products of matrix tables which works in <span class="sc">Fmla</span>
+does not fare so well in the richer frameworks;
+some remarks on the comparison with <span class="sc">Set</span>-<span class="sc">Fmla</span>
+in this respect can be found in Rautenberg
+(1985), pp. 7&ndash;9, and (1989), esp. p. 532. (Or see the reference
+given in the opening paragraph of Section
+ <a href="index.html#NotSou">5</a>.)
+ In an earlier publication, not listed in the bibliography, I used the
+term &lsquo;products&rsquo; instead of &lsquo;hybrids&rsquo; for the
+greatest lower bounds with respect to the subconnective relation,
+oblivious to the confusion this might engender. It did at least have
+one advantage, not shared by &lsquo;hybrids&rsquo;, of calling readily
+to mind a word&mdash;namely <em>sums</em>&mdash;for the corresponding
+least upper bounds, as illustrated by \(\Tonk^+\)
+below (for \(\wedge\) and \(\vee)\).</p>
+</div>
+
+<div id="note-33">
+
+<p>
+
+ <a href="index.html#ref-33">33.</a>
+ The term <em>harmony</em> has been used mostly, and subject to
+various degrees of technicalization, for the relation of mutual
+appropriateness of elimination and introduction rules in natural
+deduction rather than, as here, to left and right rules in a sequent
+calculus. See
+ <a href="index.html#NotSou">Section 5</a>
+ for references.</p>
+</div>
+
+<div id="note-34">
+
+<p>
+
+ <a href="index.html#ref-34">34.</a>
+ The idea that we could use a rule of \(\Box\) introduction or
+insertion on the right with a proviso to the effect that formulas on
+the left be &lsquo;fully modalized&rsquo;, and use this in the
+reduplicated system to argue that since <span class="nw">\(\Box \phi \succ \phi\)</span> is provable, the duplicated version of this rule
+allows the transition to <span class="nw">\(\Box \phi \succ \Box '\phi\),</span> on the grounds that the formula on the
+left is &lsquo;fully modalized&rsquo;, involves an illicitly equivocal
+use of the latter phrase. Something close to a model-theoretic version
+of this mistake would be involved in the suggestion that since
+\(\mathbf{S5}\) is determined by the class of models in which the
+accessibility relation is universal, and there is only one universal
+relation on any given set, \(\Box\) is uniquely characterized by this
+logic. The mistake here is to think that because we can simplify the
+completeness result for \(\mathbf{S5}\) from
+equivalence-relational models to universal models, the same applies to
+the bimodal &ldquo;reduplicated \(\mathbf{S5}\)&rdquo; logic that
+is at issue for the unique characterization claim. (&ldquo;Something
+close&rdquo;, because the syntactical argument would also apply in the
+case of \(\mathbf{S4}\) too, where nothing like the fallacy in
+this model-theoretic reasoning is likely to seem tempting.)</p>
+</div>
+
+<div id="note-35">
+
+<p>
+
+ <a href="index.html#ref-35">35.</a>
+ As with talk of the commutativity of conjunction, etc., what is meant
+is that the corresponding operation in the Lindenbaum algebra of
+formulas is a left inverse of that corresponding to \(\neg\).</p>
+</div>
+
+<div id="note-36">
+
+<p>
+
+ <a href="index.html#ref-36">36.</a>
+ Substitution-invariance implies that the class of propositional
+variables is not special; the latter is equivalent to
+substitution-invariance given closure under uniform
+<em>variable-for-variable</em> substitutions, a weakening of
+substitution-invariance usually satisfied even by proposed logics not
+closed under arbitrary (uniform) substitution&mdash;in which case,
+accordingly, the propositional variables are special. An interesting
+recent example of a logic (or range of logics) not even satisying this
+weaker substitution condition is provided by those sporting
+<em>pattern connectives</em> (van Toor, 2022), forming compounds whose
+truth-values are sensitive not only to the truth-values of their
+components (on a given a valuation) but to which of those components
+are occurrences of the same formulas as are other other
+components.</p>
+</div>
+
+<div id="note-37">
+
+<p>
+
+ <a href="index.html#ref-37">37.</a>
+ One could understand this in terms of the constancy of an associated
+truth function, but also purely syntactically: \(\#\) is constant according
+to \(\vdash\) if all formulas with # as main connective are
+\(\dashv \vdash\)-equivalent.</p>
+</div>
+
+<div id="note-38">
+
+<p>
+
+ <a href="index.html#ref-38">38.</a>
+ There is a natural notion of conservative extension which applies
+directly to (pairs of) consequence relations, but to avoid going into
+that here, we have adopted a formulation in terms of conservative
+extension as a relation between proof systems. Such a formulation
+would not be ideal here anyway because the fact that the initial
+consequence relation is \(\vee\)-classical does not imply that the
+extended consequence relation is, by contrast with the situation in
+<span class="sc">Set</span>-<span class="sc">Set</span>, since the
+conditional condition corresponding to \((\vee\text{E})\) is not guaranteed to be
+preserved under extensions.</p>
+</div>
+
+<div id="note-39">
+
+<p>
+
+ <a href="index.html#ref-39">39.</a>
+ This is sometimes put by saying that \(\vdash\) enjoys the Deduction
+Theorem, generalizing some terminology from a particular way of
+defining consequence relations on the basis of rules and axioms in
+logic treated by the axiomatic approach.</p>
+</div>
+
+<div id="note-40">
+
+<p>
+
+ <a href="index.html#ref-40">40.</a>
+ See Rousseau (1968).</p>
+</div>
+
+<div id="note-41">
+
+<p>
+
+ <a href="index.html#ref-41">41.</a>
+ For (a reference to) more on this aspect of contraries and
+subcontraries, see the opening paragraph of Section
+ <a href="index.html#NotSou">5</a>.</p>
+ </div>
+
+<div id="note-42">
+
+<p>
+
+ <a href="index.html#ref-42">42.</a>
+ This example comes from Humberstone (1995), though in 2019 Konrad
+Turzy&#324;ski observed (personal communication) that the four-valued
+table for demi-negation &ndash; values denoted by 1, 2, 3, 4 &ndash;
+given on the right of Figure 2 (p.&nbsp;5) there, coincides with the
+table &ndash; in values respectively denoted by \(v,
+i, u, f\) &ndash; for the
+&lsquo;initiation&rsquo; connective (written as a capital N with a
+right-pointing arrow on top of it) of Leonard S&#322;awomir Rogowski
+in publications in Polish in 1961 and 1964 on the four-valued
+&lsquo;directional logic&rsquo; he saw as motivated by some Hegelian
+considerations. (Turzy&#324;ski informs me that this coincidence had
+also been noticed by Fabien Schang.) Exact references to Rogowski&rsquo;s
+papers, along with the table for initiation, can be found in
+Turzy&#324;ski (1990). (Alternatively, the 1964 piece, together with
+the table in question, is given some attention in Kalinowski 1967.)
+For more on demi-negation, see further p.&nbsp;174f. of Humberstone
+(2016) and references given there, as well as Paoli (2019), and, for
+related material, Hitoshi and Wansing (2018). There have been many
+other interesting recent developments and variations on the negation
+front, several of them touched on in the discusison (and in items
+cited in the bibliography) of Wansing, Olkhovikov, and Omori (2021);
+see also De and Omori (2014) and &ndash; despite its title featuring
+<em>conditionals</em> (the main theme) rather than <em>negation</em>
+&ndash; Niki and Omori (2022). A more wide-ranging general
+introduction to the field is provided by Horn and Wansing (2022).</p>
+</div>
+
+<div id="note-43">
+
+<p>
+
+ <a href="index.html#ref-43">43.</a>
+ This is because there is no 1-ary truth-function \(f\) with
+<span class="nw">\(f(f(\rT)) = \rF\)</span> and \(f(f(\rF)) = \rT\).</p>
+</div>
+
+<div id="note-44">
+
+<p>
+
+ <a href="index.html#ref-44">44.</a>
+ As it happens, the (published) quantum-mechanically motivated work on
+\(\sqrt{\mathbf{not}}\) antedates the philosophically motivated
+work by six years: see Deutsch (1989). Note that the phrase &ldquo;the
+proposed connective&rdquo; is used unapologetically here&mdash;as in
+the hybrids cases&mdash;in the absence of any suggestion that the
+conditions to which we have subjected it suffice for unique
+characterization.</p>
+</div>
+
+<div id="note-45">
+
+<p>
+
+ <a href="index.html#ref-45">45.</a>
+ See &sect;&sect;3 and 4 of Humberstone (2000) for further discussion
+and references, as well as sources cited in the first paragraph of the
+Notes and Sources section (&sect;5 of this entry).</p>
+</div>
+
+<div id="note-46">
+
+<p>
+
+ <a href="index.html#ref-46">46.</a>
+ Contraction can be understood as the structural rule of that name in
+the multiset-based frameworks or, for the axiomatic approach in <span class="sc">Fmla</span>,
+as the schema \((\phi \rightarrow(\phi \rightarrow \psi)) \rightarrow(\phi \rightarrow \psi)\). The sequent calculus rules for
+(additive) \(\wedge\) are \((\wedge\) Left) as given in
+ <a href="index.html#SeqVal">Section 2</a>,
+ with capital Greek letters reconstrued as multiset-variables, along
+with \((\wedge\) Right) taking us from <span class="nw">\(\Gamma \succ \phi , \Delta\)</span> and <span class="nw">\(\Gamma \succ \psi ,
+\Delta\)</span> to <span class="nw">\(\Gamma \succ \phi \wedge \psi ,
+\Delta\),</span> while those for (multiplicative) \(\circ\) are as
+follows. The left insertion rule takes us from <span class="nw">\(\Gamma ,
+\phi , \psi \succ \Delta\)</span> to <span class="nw">\(\Gamma ,
+\phi \circ \psi \succ \Delta\),</span> while
+the right insertion rule takes us from <span class="nw">\(\Gamma \succ \phi , \Delta\)</span> and <span class="nw">\(\Gamma ' \succ \psi , \Delta '\)</span> to <span class="nw">\(\Gamma ,
+\Gamma ' \succ \phi \circ \psi , \Delta ,
+\Delta '\).</span> The <span class="sc">Mset</span>-<span class="sc">Fmla</span>\(_0\)
+rules suited to Intuitionistic
+Linear Logic are obtained from these <span class="sc">Mset</span>-<span class="sc">Mset</span>
+rules by the
+obvious restrictions on the right-hand sides.</p>
+</div>
+
+<div id="note-47">
+
+<p>
+
+ <a href="index.html#ref-47">47.</a>
+ In linear logic already we have \(t \rightarrow T\) provable
+without its converse, for instance.</p>
+</div>
+
+<div id="note-48">
+
+<p>
+
+ <a href="index.html#ref-48">48.</a>
+ In a sequent calculus presentation one would instead add the inverted
+form, sometimes called Expansion, of the structural rule of
+Contraction.</p>
+</div>
+
+<div id="note-49">
+
+<p>
+
+ <a href="index.html#ref-49">49.</a>
+ Theorem 5.8 in Blok and Pigozzi (1989) gives the desired \(\psi\) and
+\(\chi\) for a given \(\phi\) as \(\phi \wedge(\phi \rightarrow \phi)\) and \(\phi \rightarrow \phi\) respectively. The proof on p. 49 of Blok and Pigozzi
+(1989) is seriously garbled, though the result is correct. Speaking of
+errors, let me mention that Dunn and Hardegree&rsquo;s attempt to
+explain what Blok and Pigozzi mean by &ldquo;algebraizable&rdquo;, at
+Definition 7.13.3 of Dunn and Hardegree (2001), rather misses the
+point, leaving out the requirement for two-way invertible translations
+between \(\vdash\) and \(\vDash_{\mathbf{K}}\), and ends up
+singling out the consequence relations which, in Blok and
+Pigozzi&rsquo;s terminology, &ldquo;have an algebraic semantics&rdquo;
+(the algebraizable ones being those having what Blok and Pigozzi call
+an <em>equivalent</em> algebraic semantics).</p>
+</div>
+
+<div id="note-50">
+
+<p>
+
+ <a href="index.html#ref-50">50.</a>
+ This point is explained on p.&nbsp;23 of Davies and Humberstone
+(1980), where relevant work by Dummett is cited &ndash; not that
+precisely this terminology is used there to make the point. Further
+references to Dummett on this topic, and discussion of his preferred
+approach to it via matrix methodology, can be found in &sect;4 of
+Humberstone (1998). The connection with the present semantic setting
+is provided by thinking of frames with distinguished points (one per
+frame), underlying the models considered in the first paragraph,
+above, and recalling that any such frame gives rise to a matrix whose
+elements are sets of points from the frame. One takes the set of all
+such points as the sole designated element to capture the general
+validity of formulas (to have validity in the matrix correspond to
+validity on the frame), and takes all of sets of points containing the
+distinguished point as the designated elements in order to capture the
+real-world (or diagonal) validity of formulas. For the validity of
+sequents (or the characterization of consequence relations) in the
+general and real-world styles a more roundabout description &ndash;
+not given here &ndash; is called for, since in either case it is the
+local rather than global consequence relations that we are concerned
+with here.</p>
+</div>
+
+<div id="note-51">
+
+<p>
+
+ <a href="index.html#ref-51">51.</a>
+ Fusco (2019), p. 17, writes, concerning the favoured interpretation
+of \(\phi\or \psi\) as (1)/(2),
+&ldquo;This semantic value for disjunctions comes from the classic
+literature on disjunctive questions (Groenendijk and Stokhof, 1982;
+Lewis, 1982).&rdquo; The gloss here is fine if &ldquo;comes
+from&rdquo; means &ldquo;is inspired by, &rdquo; though not if it
+means &ldquo;coincides with that to be found in&rdquo;. The details in
+all three cases differ, as we can illustrate by comparing, below, the
+semantic values they assign (relative to any model) to what we shall
+write as \(p\or q\) in
+all three cases. The semantic value of a formula/sentence \(\phi\) we
+take as a propositional concept in the sense of Stalnaker 1978: a
+function mapping worlds to propositions \(( =\)sets of worlds),
+whose argument is the reference world/world-taken-as-actual and whose
+value is the set of worlds (of evaluation&rsquo; at which \(\phi\) is
+true relative to that reference world (in the model in question).
+Since all we need to know about the reference world for this purpose
+in the case in which \(\phi\) is constructed from sentence letters
+\(p, q\) (as here, since the \(\phi\) of current interest
+is \(p \or q)\).
+Fusco&rsquo;s \(\or\) notation is used for all three cases, the third
+being that described in Fusco (2015) (as well as in the
+Stalnaker-style matrix in Figure 8 in Fusco 2019, which coincides with
+Figure 3 of Fusco 2015), and \(\Vert\phi\Vert\); is the set of worlds
+at which the Boolean formula \(\phi\) is true.</p>
+
+<p>
+Lewis&rsquo;s \(p\or q\): 
+\(p \wedge q \mapsto\Vert p \vee q\Vert;\)
+\(p \wedge \neg q \mapsto\Vert p\Vert;\)
+\(\neg p \wedge q \mapsto \Vert q\Vert;\)
+\(\neg p \wedge \neg q \mapsto \Vert\bot\Vert = \varnothing\).</p>
+
+<p>
+Groenendijk&ndash;Stokhof&rsquo;s \(p\or q\):
+\(p \wedge q \mapsto \Vert p \wedge q\Vert;\)
+\(p \wedge \neg q \mapsto \Vert p \wedge \neg q\Vert;\)
+\(\neg p \wedge q \mapsto \Vert\neg p \wedge q\Vert;\)
+\(\neg p \wedge \neg q \mapsto \Vert\neg p \wedge \neg q\Vert\).</p>
+
+<p>
+Fusco&rsquo;s \(p\or q\):
+\(p \wedge q \mapsto\Vert p \vee q\Vert;\)
+\(p \wedge \neg q \mapsto\Vert p\Vert;\)
+\(\neg p \wedge q \mapsto\Vert q\Vert;\)
+\(\neg p \wedge \neg q \mapsto \Vert p \vee q\Vert\).</p> 
+
+<p>The Groenendijk&ndash;Stokhof characterization of the propositional
+concept in question is based on lines 5&ndash;7 of p.&nbsp;180 of
+Groenendijk and Stokhof (1982). The first case listed under
+Lewis&rsquo;s name here is a &lsquo;don&rsquo;t care&rsquo; case for
+him:
+
+<blockquote>
+What happens if (&hellip;) more than one of the presented alternatives
+are true? Then I think a presupposition required for the proper use of
+the &lsquo;whether&rsquo;-clause has failed, with the result that no
+clear-cut data on truth-conditions are available and so we may as well
+handle the case in the most technically convenient way.
+</blockquote>
+
+<p>
+Perhaps the same should be said of the case in which neither
+alternative is true (or no alternative it, as Lewis would put it,
+since he thinks of the <em>whether</em>/\(or\) construction as
+involving a multigrade &ndash; rather than a binary &ndash;
+connective).</p>
+
+<p>
+To obtain, from the specification of the propositional concepts as
+above, a Boolean\( + A\)(ctually) representation having
+a given such function as its semantic value &ndash; thereby spelling
+out the understanding of \(p \or q\)
+for the case in question, replace
+the &ldquo;maps to&rdquo; arrow with with an implicational arrow, for
+each of the four state-descriptions
+\(\psi_1 ,\ldots ,\psi_4\), putting the antecedent
+of the implication thus formed into the scope of
+\(\ldquo A\rdquo\) and dropping the \(\Vert\)s to
+obtain its consequent \(\chi_i (i =
+1,\ldots ,4)\). Thus
+\(\ldquo\psi_i \mapsto\Vert\chi_i\Vert\rdquo\)
+becomes
+\(\ldquo A\psi_i \rightarrow \chi_i\rdquo\).
+One then conjoins the four cases to give the desired representation.
+Alternatively, since the antecedents
+\(A\psi_i\) in a given case are mutually
+exclusive and jointly exhaustive, we can replace the implications with
+conjunctions and the conjunctions with disjunctions to obtain an
+unrestrictedly equivalent representation. This is essentially the
+relation between (1) and (2) in the main text (replacing the schematic
+letters with sentence letters), except that in (1) Fusco has
+simplified the representation by collapsing the
+\(p \wedge q\) and
+\(\neg p \wedge \neg q\) cases into a single
+\(p \leftrightarrow q\) case, since the conditionals
+with these \(A\)-prefixed antecedents have the same consequent
+(namely \(p \vee q)\), with (2) following suit
+in this regard.</p>
+
+<p>
+The use of the \(\or\)-notation in
+the three cases above should not be taken to suggest that Lewis and
+Groenendijk&ndash;Stokhof were following Fusco&rsquo;s general
+strategy, of tailoring the received wisdom as to how disjunction works
+across the board (namely as \(\vee)\) so as to give a single all-purpose
+account working equally well for its bread-and-butter occurrences as
+for certain problematically embedded occurrences, namely the
+deontically embedded occurrences. It is not as though the main aim of
+Lewis and Groenendijk&ndash;Stokhof had been to provide a similarly
+uniform account, except with a different range of problematic cases,
+namely the indirect question embeddings. Rather, their aim was simply
+to provide <em>some satisfactory compositional</em> account of the
+problematic constructions. (On this they make different proposals,
+even restricting attention to the case in which exactly one of the
+alternatives posed by an alternative question obtains &ndash;
+\(p\), say, out of \(\{p, q\}\). To know, in
+this case, whether \(p\) or \(q\), understood
+&lsquo;alternatively&lsquo; &ndash; rising-then-falling intonation, as
+opposed to knowing whether or not it is the case that \(p\) or
+\(q\) &ndash; Lewis requires the subject simply to know that
+\(p\), whereas Groenendijk and Stokhof require the subject to
+know that \(p\) and also that not\(-q\), and quite
+generally, for them knowing whether this is the case or that is the
+case is a matter of knowing whether this is the case <em>and</em>
+knowing whether that is the case, with alternative questions thus
+reduced to multiple polar questions.) In a final section, Lewis (1982)
+toys (not very enthusiastically) with a treatment of &ldquo;whether
+\(\phi\) or \(\psi\)&rdquo; as
+<em>wheth</em>\( \phi \vee\)<em>wheth</em>\( \psi\),
+where <em>wheth</em>\( \phi\) is interpreted as
+\(A\phi \wedge \dagger \phi\). Here \(\dagger\) is an
+operator that reduplicates the world of evaluation as the reference
+world in the same way that \(A\) reduplicates the reference world
+as the world of evaluation, found in Stalnaker 1978, Davies and
+Humberstone 1980 (note 16), Fusco 2019, as well as in work by Lewis
+not in our bibliography, and elsewhere. This &ldquo;\(\dagger\)&rdquo;
+has no effect on purely Boolean formulas, which is why were able to
+state (3) in the main text without including it (given the restriction
+on \(\phi , \psi\) there). Also, the contemporary descendant of the
+approach in Groenendijk and Stokhof (1982), namely inquisitive
+semantics &ndash; see &sect;7.1 of Aloni (2016) and &sect;2 of Cross
+and Roelofsen (2018) for more detail and further references &ndash;
+manages considerable advances in unifying various expressions across
+what might have been thought to be radically discontinuous uses across
+declarative and interrogative contexts, though as an incidental
+by-product in what may seem like the opposite direction, it makes
+available at least three different disjunction-like connectives each
+taken as the main form of disjunction in some piece of work in the
+<em>genre</em>: see &sect;6 in Humberstone 2019 for a comparative
+discussion of them, as well as &sect;7 there for further
+(one-dimensional) aspects of the logic and semantics of
+<em>whether</em>, with some examples of missteps in this area given in
+Humberstone 2016 (see the index entries under <em>knowing
+whether</em>).</p>
+</div>
+
+<div id="note-52">
+
+<p>
+
+ <a href="index.html#ref-52">52.</a>
+ We ignore a slight complication here over \(\vee\)-Elimination for one of
+the consequence relations described in Fusco (2015) &ndash; that given
+in Definition 13 there &ndash; because of an interaction between the
+supervaluational treatment of that consequence relation and the
+presence of an operator for what Fusco calls <em>settled truth</em>
+and notates using as a solid black box.</p>
+</div>
+
+<div id="note-53">
+
+<p>
+
+ <a href="index.html#ref-53">53.</a>
+ Footnote 36 in Fusco (2015) is potentially confusing on this score.
+How best to reformulate it for Fusco&rsquo;s purposes is not a
+question that we can to go into here, because of the multiplicity of
+consequence relations involved. Although the present selective
+presentation of ideas from Fusco (2015) has focused on two such
+relations &ndash; general consequence and diagonal consequence &ndash;
+there are in fact four consequence relations in play in the discussion
+there: see p.&nbsp;20, left-hand column. (The preceding note alluded
+to one of the consequence relations sidelined here.)</p>
+</div>
+
+<div id="note-54">
+
+<p>
+
+ <a href="index.html#ref-54">54.</a>
+ This is not to say there are no difficulties in the vicinity. In
+particular, expressed with a casual informality here, the following
+difficulty arises. If it is supposed to be <em>a priori</em> knowable
+that \(Ap \leftrightarrow p\) &ndash; for example, that
+there are actually pandas in Lhasa if and only if there are pandas in
+Lhasa, then how can
+\(K(Ap \leftrightarrow p)\) represent knowing
+whether \(p\)? We presumably cannot know <em>a priori</em>
+whether or not there are pandas in Lhasa. This problem is noted, and a
+solution suggested, in Rabinowicz and Segerberg (1994). (These
+authors, incidentally, use the terms <em>strong</em> and <em>weak</em>
+validity for general and real-word/diagonal validity. A fuller listing
+of the terminologies employed for this distinction by different people
+is given in note 177 of Humberstone 2016, p.&nbsp;219, with additional
+background in note 45 on p.&nbsp;60 of the same work.)</p>
+</div>
+
+<div id="note-55">
+
+<p>
+
+ <a href="index.html#ref-55">55.</a>
+ If you do not have access to a diagram of the kind mentioned here,
+see the opening paragraph of Section
+ <a href="index.html#NotSou">5</a>.</p>
+ </div>
+
+<div id="note-56">
+
+<p>
+ <a href="index.html#ref-56">56.</a>
+Subsequent moves in a similar direction for cases for logics other
+than \(\vdash_{CL}\) (varying what counts as compositionality from
+case to case) are made in Bonnay and Westerst&aring;hl (2023), Tong
+and Westerst&aring;hl (2023).</p>
+</div>
+
+<div id="note-57">
+<p>
+ <a href="index.html#ref-57">57.</a>  Here we are saying \(uv(p \vee
+p) =\rF\), but didn&rsquo;t the paragraph above (beginning
+&lsquo;Accordingly&rsquo;), end by speaking of
+\(uv\)&rsquo;s <em>verifying</em> the formula \(p \vee p\)? Yes, but
+that was in the course of a Reductio proof that began by supposing
+\(\vee\) to have a truth-function associated with it on the valuation
+\(uv,\) a supposition we saw led to a contradiction. Here we are
+simply following the definition of conjunctive combination: \(uv(p
+\vee p) =\rT\) iff \(u(p \vee p) =\rT\)  and \(v(p \vee p) =\rT\), for
+which this second conjunct fails, as \(v(p \vee p) =\rF\).
+</div>
+
+<div id="note-58">
+
+<p>
+
+ <a href="index.html#ref-58">58.</a>
+ This perspective has been urged by many theorists with otherwise
+differing inclinations, including Michael Dummett, Dana Scott, and
+Roman Suszko. When dealing with a two-element matrix exactly one of
+which is designated, as in Rautenberg&rsquo;s maximality result in
+ <a href="index.html#SeqVal">Section 2</a>,
+ the distinction between \(h\) and
+\(v_h\) collapses.</p>
+</div> 
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+Lloyd Humberstone
+&lt;<a href="m&#97;ilto:lloyd&#37;2ehumberstone&#37;40arts&#37;2emonash&#37;2eedu&#37;2eau"><em>lloyd<abbr title=" dot ">&#46;</abbr>humberstone<abbr title=" at ">&#64;</abbr>arts<abbr title=" dot ">&#46;</abbr>monash<abbr title=" dot ">&#46;</abbr>edu<abbr title=" dot ">&#46;</abbr>au</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

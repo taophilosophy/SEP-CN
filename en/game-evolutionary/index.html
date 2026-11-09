@@ -1,0 +1,3417 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Evolutionary Game Theory (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Evolutionary Game Theory" />
+<meta name="citation_author" content="Alexander, J. McKenzie" />
+<meta name="citation_publication_date" content="2002/01/14" />
+<meta name="DC.title" content="Evolutionary Game Theory" />
+<meta name="DC.creator" content="Alexander, J. McKenzie" />
+<meta name="DCTERMS.issued" content="2002-01-14" />
+<meta name="DCTERMS.modified" content="2021-04-24" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/game-evolutionary/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=game-evolutionary">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Evolutionary Game Theory</h1><div id="pubinfo"><em>First published Mon Jan 14, 2002; substantive revision Sat Apr 24, 2021</em></div>
+
+<div id="preamble">
+
+<p>
+Evolutionary game theory originated as an application of the
+mathematical theory of games to biological contexts, arising from the
+realization that frequency dependent fitness introduces a strategic
+aspect to evolution. Recently, however, evolutionary game theory has
+become of increased interest to economists, sociologists, and
+anthropologists--and social scientists in general--as well as
+philosophers. The interest among social scientists in a theory with
+explicit biological roots derives from three facts. First, the
+&lsquo;evolution&rsquo; treated by evolutionary game theory need not
+be biological evolution. &lsquo;Evolution&rsquo; may, in this context,
+often be understood as <em>cultural</em> evolution, where this refers
+to changes in beliefs and norms over time. Second, the rationality
+assumptions underlying evolutionary game theory are, in many cases,
+more appropriate for the modelling of social systems than those
+assumptions underlying the traditional theory of games. Third,
+evolutionary game theory, as an explicitly dynamic theory, provides an
+important element missing from the traditional theory. In the preface
+to <em>Evolution and the Theory of Games</em>, Maynard Smith notes
+that &ldquo;[p]aradoxically, it has turned out that game theory is
+more readily applied to biology than to the field of economic
+behaviour for which it was originally designed.&rdquo; It is perhaps
+doubly paradoxical, then, that the subsequent development of
+<em>evolutionary</em> game theory has produced a theory which holds
+great promise for social scientists, and is as readily applied to the
+field of economic behaviour as that for which it was originally
+designed.</p>
+</div> 
+
+<div id="toc">
+
+<!--Entry Contents-->
+<ul>
+<li><a href="#HistDeve">1. Historical Development</a></li>
+<li><a href="#TwoApprEvolGameTheo">2. Two Approaches to Evolutionary Game Theory</a>
+	<ul>
+	<li><a href="#DefiEvolStab">2.1 Definitions of evolutionary stability </a></li>
+	<li><a href="#DynaConcEvolStab">2.2 Dynamic concepts of evolutionary stability </a></li>
+	</ul>
+	</li>
+<li><a href="#DynaStabRatiOutc">3. Dynamics, Stability, and Rational Outcomes </a></li>
+<li><a href="#WhyEvolGameTheo">4. Why Evolutionary Game Theory?</a>
+	<ul>
+	<li><a href="#EquiSeleProb">4.1 The equilibrium selection problem</a></li>
+	<li><a href="#ProbHypeAgen">4.2 The problem of hyperrational agents</a></li>
+	<li><a href="#LackDynaTheoTradTheoGame">4.3 The lack of a dynamical theory in the traditional theory of games</a></li>
+	</ul>
+	</li>
+<li><a href="#ApplEvolGameTheo">5. Applications of Evolutionary Game Theory</a>
+	<ul>
+	<li><a href="#SensFair">5.1 A sense of fairness</a></li>
+	<li><a href="#EmerLang">5.2 The emergence of language.</a></li>
+	</ul>
+	</li>
+<li><a href="#PhilProbEvolGameTheo">6. Philosophical Problems of Evolutionary Game Theory</a>
+	<ul>
+	<li><a href="#MeanFitnCultEvolInte">6.1 The meaning of fitness in cultural evolutionary interpretations</a></li>
+	<li><a href="#ExplIrreEvolGameTheo">6.2 The explanatory irrelevance of evolutionary game theory</a></li>
+	<li><a href="#ValuLadeEvolGameTheoExpl">6.3 The value-ladenness of evolutionary game theoretic explanations</a></li>
+	</ul>
+	</li>
+<li><a href="#Bib">Bibliography</a></li>
+<li><a href="#Aca">Academic Tools</a></li>
+<li><a href="#Oth">Other Internet Resources</a></li>
+<li><a href="#Rel">Related Entries</a></li>
+</ul>
+
+<!--Entry Contents-->
+
+<hr />
+
+</div>
+
+<div id="main-text">
+
+<h2 id="HistDeve">1. Historical Development</h2>
+
+<p>
+Evolutionary game theory was first developed by R. A. Fisher [see
+<em>The Genetic Theory of Natural Selection</em> (1930)] in his
+attempt to explain the approximate equality of the sex ratio in
+mammals. The puzzle Fisher faced was this: why is it that the sex
+ratio is approximately equal in many species where the majority of
+males never mate? (See, for example, the Northern elephant seal
+<i>Mirounga angustirostris</i>.) In these species, the non-mating
+males would seem to be excess baggage carried around by the rest of
+the population, having no real use. Fisher realized that if we measure
+individual fitness in terms of the expected number of
+<em>grandchildren</em>, then individual fitness depends on the
+distribution of males and females in the population. When there is a
+greater number of females in the population, males have a higher
+individual fitness; when there are more males in the population,
+females have a higher individual fitness. Fisher pointed out that, in
+such a situation, the evolutionary dynamics lead to the sex ratio
+becoming fixed at equal numbers of males and females. The fact that
+individual fitness depends upon the relative frequency of males and
+females in the population introduces a strategic element to
+evolution.</p>
+
+<p>
+Fisher&rsquo;s argument can be understood game theoretically, but he
+did not state it in those terms. In 1961, R.&nbsp;C. Lewontin made the
+first explicit application of
+ <a href="../game-theory/">game theory</a>
+ to evolutionary biology in &ldquo;Evolution and the Theory of
+Games&rdquo; (not to be confused with the Maynard Smith work of the
+same name). In 1972, Maynard Smith first introduced the concept of an
+<em>evolutionarily stable strategy</em> (hereafter ESS) in the chapter
+&ldquo;Game Theory and the Evolution of Fighting.&rdquo; However, it
+was the publication of &ldquo;The Logic of Animal Conflict,&rdquo; by
+Maynard Smith and Price in 1973 that introduced the concept of an ESS
+into widespread circulation. In 1982, Maynard Smith&rsquo;s seminal
+text <em>Evolution and the Theory of Games</em> appeared, followed
+shortly thereafter by Robert Axelrod&rsquo;s famous work <em>The
+Evolution of Cooperation</em> in 1984. Since then, there has been a
+veritable explosion of interest by economists and social scientists in
+evolutionary game theory (see the bibliography below).</p>
+
+<p>
+Initially, it was thought that evolutionary game theory might provide
+an inroad into solving the <em>equilibrium selection problem</em> of
+traditional game theory. Although the fundamental solution concept of
+traditional game theory, the <em>Nash equilibrium</em>, had the
+desirable property of always existing for any game with a finite
+number of players and strategies, provided that mixed strategies were
+allowed, it had several deficencies. A Nash equilibrium was not
+guaranteed to be unique (sometimes even with uncountable many Nash
+equilibria existing), did not always seem to correspond to a
+reasonable outcome (see Hargreaves Heap and Varoufakis, 2004), and
+occasionally conflicted with people&rsquo;s intuitions as to what ought to
+count as a <em>rational</em> outcome. In contrast, it could be shown
+that a completely mixed evolutionarily stable strategy was unique,
+that there were at most only a finite number of evolutionarily stable
+strategies, and that several intuitive definitions of evolutionarily
+stability were equivalent to the original definition of Maynard Smith
+and Price.</p>
+
+<p>
+It was soon realised that evolutionary game theory itself had problems
+structurally similar to that of the equilibrium selection problem.
+Several competing definitions of evolutionary stability were put
+forward, each of which had certain intuitive merit. In addition, as
+the connection between the <em>static</em> and <em>dynamic</em>
+approaches to evolutionary game theory were explored in detail, it was
+found that there was, at best, an imperfect fit between static
+concepts of evolutionary stability and that of dynamic stability.
+Furthermore, dynamical models of evolutionary game theory led to
+outcomes which were expressely <em>irrational</em> from the point of
+view of traditional game theory, such as the preservation of
+<em>strictly dominated strategies</em>.</p>
+
+<h2 id="TwoApprEvolGameTheo">2. Two Approaches to Evolutionary Game Theory</h2>
+
+<p>
+There are two approaches to evolutionary game theory. The first
+approach derives from the work of Maynard Smith and Price and employs
+the concept of an evolutionarily stable strategy as the principal tool
+of analysis. The second approach constructs an explicit model of the
+process by which the frequency of strategies change in the population
+and studies properties of the evolutionary dynamics within that
+model.</p>
+
+<p>
+The first approach can thus be thought of as providing a static
+conceptual analysis of evolutionary stability. &ldquo;Static&rdquo;
+because, although definitions of evolutionary stability are given, the
+definitions advanced do not typically refer to the underlying process
+by which behaviours (or strategies) change in the population. The
+second approach, in contrast, does not attempt to define a notion of
+evolutionary stability: once a model of the population dynamics has
+been specified, all of the standard stability concepts used in the
+analysis of dynamical systems can be brought to bear.</p>
+
+<h3 id="DefiEvolStab">2.1 Definitions of evolutionary stability</h3>
+
+<p>
+In game theory, the main solution concept is the <em>Nash
+equilibrium</em>. A Nash equilibrium is a profile of strategies (that
+is, an assignment of strategies to each player) which is a mutual best
+response, meaning that no player has any incentive to deviate from
+their chosen strategy.</p>
+
+<p>
+To see why the traditional game theoretic solution concept of a Nash
+equilibrium is too weak to capture the notion of evolutionary
+stability, consider the game of figure 1. There are two Nash
+equilibria in pure strategies: \( (S_1, S_1) \) and \( (S_2, S_2) \).
+Since a Nash equilibrium is a set of mutual best responses, no player
+can <em>improve</em> their payoff by adopting a different strategy,
+but a Nash equilibrium allows for the possibility that a player who
+deviates from their equilibrium strategy receives the <em>same</em>
+payoff. This is the case for the \((S_2, S_2)\) equilibrium. And that
+is why a Nash equilibrium does not suffice for evolutionary stability:
+it allows for the possibility of drift away from the equilibrium,
+eventually leading to the replacement of the incumbent strategy.</p>
+
+<p>
+To see this, suppose that a population of individuals all followed the
+strategy \(S_2\). If a mutant appeared who played the strategy
+\(S_1\), the payoff of the \(S_1\)-mutant would be the same as the
+rest of population, and hence there would be no selection pressure
+against the mutant. If a second mutant appeared, the payoff earned by
+an \(S_1-S_1\) interaction would yield a fitness to both greater than
+the average fitness of the population. This would allow the \(S_1\)
+mutant to spread and eventually take over the rest of the
+population.</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-small-dense vert-top centered cell-center">
+<tr>
+  <td>&nbsp;</td>
+  <td><strong>\(S_1\)</strong></td>
+  <td>\(S_2\)</td> </tr>
+<tr>
+  <td><strong>\(S_1\)</strong></td>
+  <td>\( (2, 2) \)</td>
+  <td>\( (1, 1) \)</td> </tr>
+<tr>
+  <td><strong>\(S_2\) </strong></td>
+  <td>\( (1, 1) \)</td>
+  <td>\( (1, 1) \)</td> </tr> 
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 1.</span> A Nash equilibrium is
+insufficient to capture the notion of a Nash equilibrium</p>
+</div>
+
+<p>
+A <em>strict</em> Nash equilibrium is one where any unilateral
+deviation from a player&rsquo;s equilibrium strategy leaves that player
+worse off. Although a strict Nash equilibrium does intuitively capture
+one sense of evolutionary stability (it can be thought of as a kind of
+&ldquo;local optimum&rdquo;), it can also be shown that a strict Nash equilibrium
+is too strong to capture the idea of evolutionary stability, in
+general.</p>
+
+<p>
+To see this, consider the Hawk-Dove game, analyzed by Maynard Smith
+and Price in their 1973 paper &ldquo;The Logic of Animal
+Conflict.&rdquo; In this game, two individuals compete for a resource
+of a fixed value \(V\). (In biological contexts, the value \(V\) of
+the resource corresponds to an increase in the Darwinian fitness of
+the individual who obtains the resource; in a cultural context, the
+value \(V\) of the resource would need to be given an alternate
+interpretation more appropriate to the specific model at hand.) Each
+individual follows exactly one of two strategies described below:</p>
+
+<table class="cellpad-small-dense vert-top centered">
+<tr>
+  <td><strong>Hawk.</strong></td>
+  <td>Initiate aggressive behaviour, and do not stop until injured or
+until one&rsquo;s opponent backs down.</td> </tr>
+<tr>
+  <td><strong>Dove.</strong></td>
+  <td>Retreat immediately if one&rsquo;s opponent initiates aggressive
+behaviour.</td> </tr>
+</table>
+
+<p>
+Now assume the following:</p>
+
+<ol>
+
+<li>Whenever two players both initiate aggressive behaviour, conflict
+eventually results and both are equally likely to be injured.</li>
+
+<li>The conflict reduces the individual fitness of the injured party
+by some constant value \(C\).</li>
+
+<li>When a Hawk meets a Dove, the Dove immediately retreats and the
+Hawk obtains the resource.</li>
+
+<li>When two Doves meet the resource is shared equally between
+them.</li>
+</ol>
+
+<p>
+Given this, the fitness payoffs for the Hawk-Dove game are summarized
+according to the following matrix:</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-small-dense vert-top centered cell-center">
+<tr>
+  <td>&nbsp;</td>
+  <td><strong>Hawk</strong></td>
+  <td><strong>Dove</strong></td> </tr>
+<tr>
+  <td><strong>Hawk</strong></td>
+  <td>\( \left( \frac{V - C}{2}, \frac{V-C}{2}
+\right)\)</td>
+  <td>\( (V,0) \)</td> </tr>
+<tr>
+  <td><strong>Dove</strong></td>
+  <td>(0, V)</td>
+  <td>\( \left( \frac{V}{2}, \frac{V}{2} \right)
+\)</td> </tr> 
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 2.</span> The Hawk-Dove Game. (It is
+assumed that \( V\lt C \), as otherwise Hawk dominates Dove.)</p>
+</div> 
+
+<p>
+The Hawk-Dove game has no Nash equilibria in pure strategies and
+exactly one Nash equilibrium in mixed strategies. The mixed strategy
+Nash equilibrium has both individuals playing Hawk with probability
+\(\frac{V}{C}\) and Dove with probability \(1-\frac{V}{C}\). Denote
+this strategy by \(\sigma\). According to the fundamental theorem of
+mixed-strategy Nash equilibria (see Gintis, 2009), it is the case that
+\[ \pi(\text{Hawk} \mid \sigma) = \pi(\text{Dove} \mid \sigma) =
+\pi(\sigma \mid \sigma), \] where &ldquo;\(\pi( x \mid y)\)&rdquo; denotes the
+payoff obtained when playing strategy \(x\) against someone using the
+strategy \(y\). From this, it follows that for <em>any</em> other
+mixed strategy \(\mu\) it is the case that \(\pi( \mu \mid \sigma ) =
+\pi(\sigma \mid \sigma)\), and so the Nash equilibrium is not
+strict. Yet a population where everyone follows the strategy
+\(\sigma\) is still nevertheless able to resist invasion, for it can
+be shown that \(\pi(\sigma \mid \mu) &gt; \pi(\mu \mid \mu)\). That
+is, the incumbent strategy \(\sigma\) receives a higher payoff when
+played against any mutant strategy \(\mu\), than the mutant strategy
+receives when played against itself.</p>
+
+<p>
+These considerations lead Maynard Smith (1982) to propose the
+following
+ definition:<sup>[<a href="notes.html#note-1" id="ref-1">1</a>]</sup></p>
+ 
+<p>
+<strong>Definition.</strong> A strategy \(\sigma\) is an
+<em>evolutionarily stable strategy</em> (ESS) if and only if for all
+other strategies \(\mu \neq \sigma\) it is the case that
+<em>either</em> \(\pi(\sigma \mid \sigma) \gt \pi(\mu \mid \sigma)\)
+<em>or</em> that \(\pi(\sigma \mid \sigma) = \pi(\mu \mid \sigma)\)
+and \(\pi(\sigma \mid \mu) \gt \pi(\mu \mid \mu)\).</p>
+
+<p>
+Or alternatively:</p>
+
+<p>
+<strong>Definition.</strong> A strategy \(\sigma\) is an
+<em>evolutionarily stable strategy</em> (ESS) if and only if, for all
+other strategies \(\mu \neq \sigma\),</p>
+
+<ol>
+
+<li>\(\pi(\sigma \mid \sigma) \geq \pi(\mu\mid\sigma)\)</li>
+
+<li>If \(\pi(\sigma \mid \sigma) = \pi(\mu \mid \sigma)\), then \(
+\pi(\sigma \mid \mu) \gt \pi( \mu \mid \mu) \).</li>
+</ol>
+
+<p>
+The second definition, while trivially logically equivalent to the
+first, has the advantage of making it clear that every evolutionarily
+stable strategy is also a Nash equilibrium. The first definition, from
+Maynard Smith, has the advantage of making it clear that every strict
+Nash equilibrium is also evolutionarily stable.</p>
+
+<p>
+From this, we see that an evolutionarily stable strategy is a Nash
+equilibrium with an additional second-order stability criterion. It is
+a proper strengthening of the Nash equilibrium concept, because
+whereas every game with finitely many players and a finite number, of
+strategies has at least one Nash equilibrium (if mixed strategies are
+allowed), not every game has an evolutionarily stable strategy. It is
+easily shown that the game of Rock-Scissors-Paper, shown in figure 3,
+does not have an evolutionarily stable strategy. (The only potential
+candidate for being evolutionarily stable is the Nash equilibrium
+mixed strategy \(\sigma\) which assigns equal probability to all three
+pure strategies. But since \( \pi( \sigma \mid \sigma) = \pi(
+\text{Rock} \mid \sigma) \) and \(\pi(\sigma \mid \text{Rock}) = \pi(
+\text{Rock} \mid \text{Rock})\), it is not evolutionarily stable.)</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-small-dense vert-top centered cell-center">
+<tr>
+  <td>&nbsp;</td>
+  <td><strong>Rock</strong></td>
+  <td><strong>Scissors</strong></td>
+  <td><strong>Paper</strong></td> </tr>
+<tr>
+  <td><strong>Rock</strong></td>
+  <td class="payoffs">\( (0,0) \)</td>
+  <td class="payoffs">\( (1,-1) \)</td>
+  <td class="payoffs">\( ( -1, 1)\)</td> </tr>
+<tr>
+  <td><strong>Scissors</strong></td>
+  <td class="payoffs">\( (-1, 1) \)</td>
+  <td class="payoffs">\( (0,0) \)</td>
+  <td class="payoffs">\( (1, -1) \)</td> </tr>
+<tr>
+  <td><strong>Paper</strong></td>
+  <td class="payoffs">\( (1, -1\)</td>
+  <td class="payoffs">\( (-1, 1) \)</td>
+  <td class="payoffs">\( (0,0) \)</td> </tr>
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 3.</span> The game of
+Rock-Scissors-Paper has no evolutionarily stable strategy.</p>
+</div>
+
+<p>
+Despite the fact that evolutionarily stable strategies do not always
+exist, one advantage of the Maynard Smith and Price definition of an
+evolutionarily stable strategy is that it can be shown to be
+equivalent to two other concepts of evolutionary stability which were
+defined. Since these three definitions of evolutionary stability are
+not obviously the same, the fact that they turn out to be logically
+equivalent is interesting. We briefly discuss these other concepts
+below, before stating the equivalence result.</p>
+
+<p>
+To begin, recall how in the discussion above regarding the game of
+figure 1, we appealed informally to the idea of a mutant attempting to
+invade a population, all of which follow a single incumbent strategy.
+To make this idea precise, we need to introduce some notation: let
+\(\mu, \sigma\) be two strategies and let \(0 \lt \epsilon \lt 1\).
+Then \(\epsilon \mu + (1-\epsilon) \sigma\) denotes the strategy which
+plays \(\mu\) with probability \(\epsilon\) and plays \(\sigma\) with
+probability \(1-\epsilon\). However, we may also interpret this as
+representing the strategy used by a <em>player chosen at random</em>
+from a large population in which the majority \((1-\epsilon)\) follow
+the strategy \(\sigma\) and a minority (\(\epsilon\)) follow the
+strategy \(\mu\) which is attempting to invade.</p> 
+
+<p><strong>Definition.</strong> A strategy \(\sigma\) has
+a <em>uniform invasion barrier</em> if there exists an \(\bar\epsilon
+\gt 0\) such that for all \(\mu \neq \sigma\) and \(\epsilon \in
+(0,\bar\epsilon)\), \[ \pi( \sigma \mid \epsilon \mu +
+(1-\epsilon)\sigma) \gt \pi( \mu \mid \epsilon \mu + (1-\epsilon)
+\sigma). \]</p>
+
+<p>
+A uniform invasion barrier is a natural concept of evolutionary
+stability. It says that, when a population all follows the same
+strategy \(\sigma\), except for a small proportion of mutants, all of
+whom follow a <em>single</em> strategy \(\mu\), the incumbent strategy
+\(\sigma\) has a strictly higher expected fitness in the mixed
+population than the invading strategy
+ \(\mu\).<sup>[<a href="notes.html#note-2" id="ref-2">2</a>]</sup>
+ Hence there would be selection against the invading strategy and, in
+a sufficiently large population with a sufficiently small number of
+mutants, \(\sigma\) would be evolutionarily stable.</p>
+
+<p>
+A second concept of evolutionary stability draws upon the intuition
+that a stable strategy should rule out the possibility of drift. That
+is, after all, what created problems for the second Nash equilibria in
+pure strategies for the game of figure 1. One way of characterising
+this is as follows.</p>
+
+<p>
+<strong>Definition.</strong> A strategy \(\sigma\) is said to be
+<em>locally superior</em> if there exists a neighbourhood \(U\) around
+\(\sigma\) such that for all strategies \(\mu \in U\), where \(\mu\neq
+\sigma\), it is the case that \(\pi( \sigma \mid \mu) &gt; \pi (\mu
+\mid \mu)\).</p>
+
+<p>
+One can then prove the following:</p>
+
+<p>
+<strong>Theorem (Hofbauer et al., 1979)</strong> The following are
+equivalent:</p>
+
+<ol>
+
+<li>\(\sigma\) is an evolutionarily stable strategy.</li>
+
+<li>\(\sigma\) has a uniform invasion barrier.</li>
+
+<li>\(\sigma\) is locally superior.</li>
+</ol>
+
+<p>
+In the years following the original work of Maynard Smith and Price,
+alternate analytic solution concepts have been proposed for
+evolutionary game theory. One such alternative is the idea of an
+<em>evolutionarily stable set</em> (see Thomas 1984, 1985a,b).
+Consider, by way of motivation, the game shown in figure 4. In that
+game, there are no evolutionarily stable strategies, since both
+\(S_1\) and \(S_2\) receive the same payoff when played against each
+other. However, any population containing a <em>mix</em> of \(S_1\)
+and \(S_2\) is, in a sense, stable: although drift will certainly
+occur regarding the exact proportion of \(S_1\) and \(S_2\),
+regardless of the specific mix the population will still tend to drive
+out any \(S_3\) or \(S_4\) mutants due to the differences in expected
+fitness.</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-small-dense vert-top centered cell-center">
+<tr>
+  <td>&nbsp;</td>
+  <td>\(S_1\)</td>
+  <td>\(S_2\)</td>
+  <td>\(S_3\)</td>
+  <td>\(S_4\)</td> </tr>
+<tr>
+  <td>\(S_1\)</td>
+  <td class="payoffs">\( (1,1) \)</td>
+  <td class="payoffs">\( (1,1) \)</td>
+  <td class="payoffs">\( (1, \frac12)\)</td>
+  <td class="payoffs">\( (1, \frac12)\)</td> </tr>
+<tr>
+  <td>\(S_2\)</td>
+  <td class="payoffs">\( (1, 1) \)</td>
+  <td class="payoffs">\( (1, 1) \)</td>
+  <td class="payoffs">\( (1, \frac12)\)</td>
+  <td class="payoffs">\( (1, \frac12)\)</td> </tr>
+<tr>
+  <td>\(S_3\)</td>
+  <td class="payoffs">\( (\frac12, 1\)</td>
+  <td class="payoffs">\( (\frac12, 1) \)</td>
+  <td class="payoffs">\( (\frac12, \frac12) \)</td>
+  <td class="payoffs">\( (\frac12, \frac12) \)</td> </tr>
+<tr>
+  <td>\(S_4\)</td>
+  <td class="payoffs">\( (\frac12, 1\)</td>
+  <td class="payoffs">\( (\frac12, 1) \)</td>
+  <td class="payoffs">\( (\frac12, \frac12) \)</td>
+  <td class="payoffs">\( (\frac12, \frac12) \)</td> </tr>
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 4.</span> A game with no evolutionarily
+stable strategy, but one with an evolutionarily stable set.</p>
+</div>
+
+<p>
+Other analytic solution concepts exist, as well. Swinkels (1992)
+introduced the idea of an <em>equilibrium evolutionarily stable
+set</em>, providing a further refinement of the idea of an
+evolutionarily stable set. (Every evolutionarily stable set contained
+some equilibrium evolutionarily stable set, but not every equilibrium
+evolutionarily stable set was an evolutionarily stable set.) Hence we
+see that the search for static solution concepts which suffice for
+capturing the idea of evolutionary stability encounters a problem
+structurally similar to that of the equilibrium selection problem in
+traditional game theory: there are multiple competing concepts of
+evolutionary stability, all of which have some intuitive claim to
+plausibility.</p>
+
+<h3 id="DynaConcEvolStab">2.2 Dynamic concepts of evolutionary stability</h3>
+
+<p>
+As an example of the second approach, consider the well-known
+Prisoner&rsquo;s Dilemma. In this game, individuals choose one of two
+strategies, typically called &ldquo;Cooperate&rdquo; and
+&ldquo;Defect.&rdquo; Here is the general form of the payoff matrix
+for the prisoner&rsquo;s dilemma:</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-small-dense vert-top centered cell-center">
+<tr>
+  <td>&nbsp;</td>
+  <td><strong>Cooperate</strong></td>
+  <td><strong>Defect</strong></td> </tr>
+<tr>
+  <td><strong>Cooperate</strong></td>
+  <td class="payoffs">\((R,R)\)</td>
+  <td class="payoffs">\((S,T)\)</td> </tr>
+<tr>
+  <td><strong>Defect</strong></td>
+  <td class="payoffs">\((T,S)\)</td>
+  <td class="payoffs">\((P,P)\)</td> </tr>
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 5.</span> Payoff Matrix for the
+Prisoner&rsquo;s Dilemma.</p>
+</div>
+
+<p>
+In figure 5, the payoffs are assumed to satisfy the ordering \(T \gt R
+\gt P \gt S\) and \(\frac{T + S}2 \lt R\). The latter requirement,
+although often omitted in discussions of the Prisoner&rsquo;s Dilemma,
+ensures that in the context of an indefinitely repeated game there is
+no net overall advantage in the players alternating between
+Cooperate-Defect and Defect-Cooperate.</p>
+
+<p>
+How will a population of individuals that plays the Prisoner&rsquo;s
+Dilemma evolve over time? We cannot answer that question without
+introducing a few assumptions concerning the nature of the population.
+First, assume that the population is quite large and that the
+probability of interacting with a Cooperator or Defector equals the
+proportion of the population following that strategy. This allows us
+to represent the state of the population by simply keeping track of
+what proportion follow the strategies Cooperate and Defect. Let
+\(p_C\) and \(p_D\) denote these proportions. Denote the expected
+fitness of cooperators and defectors by \(W_C\) and \(W_D\),
+respectively, and let \(\overline{W}\) denote the average fitness of
+the entire population. (These quantities may vary over time; the
+time-dependency has been suppressed for clarity of notation.) Given
+these assumptions, the values of \(W_C, W_D\), and \(\overline{W}\)
+can be expressed in terms of the population proportions and payoff
+values as follows, where \(F_0\) stands for the base fitness level of
+an individual prior to any interaction:</p> 
+
+\[\begin{align*} 
+ W_C &amp;= F_0 + p_c \pi(C \mid C) + p_d \pi(C \mid D) \\
+ W_D &amp;= F_0 + p_c \pi(D \mid C) + p_d \pi(D \mid D) \\ 
+ \overline{W} &amp;= p_c W_C + p_d W_D 
+\end{align*}\]
+
+<p>
+Second, assume that the proportion of the population following the
+strategies Cooperate and Defect in the next generation is related to
+the proportion of the population following the strategies Cooperate
+and Defect in the current generation according to the following
+rule:</p> 
+
+\[ p'_c = \frac{p_c W_C}{\overline{W}} \qquad p'_d = \frac{p_d W_D}{\overline{W}} \]
+
+<p>
+The justification for these transition rules is as follows: if \(W_C
+\lt \overline{W}\), then the expected fitness of Cooperate is lower
+than the average fitness of the population. That means it is more
+advantageous to Defect than Cooperate, and so we would expect some
+proportion of the population to switch. The rate at which individuals
+switch is proportional to how much worse Cooperate does than the
+population average. (We are being deliberately ambiguous in terms of
+whether we are thinking in terms of biological or cultural evolution,
+but at this level of abstraction it makes little difference.) Since
+\(\frac{W_C}{\overline{W}} \lt 1\), it follows that \(p_c' \lt p_c\),
+as would be expected.</p>
+
+<p>
+We can rewrite these expressions in the following form:</p>
+
+\[ p'_c - p_c = \frac{p_c(W_C - \overline{W})}{\overline{W}} \qquad p'_d - p_d = \frac{p_d(W_D - \overline{W})}{\overline{W}} \]
+
+<p>
+If we assume that the change in the strategy frequency from one
+generation to the next are small, these difference equations may be
+approximated by the differential equations:</p> 
+
+\[ \frac{dp_c}{dt} = \frac{p_c(W_C - \overline{W})}{\overline{W}} \qquad \frac{dp_d}{dt} = \frac{p_d(W_D - \overline{W})}{\overline{W}} \]
+
+<p>
+These equations were offered by Taylor and Jonker (1978) and Zeeman
+(1979) to provide continuous dynamics for evolutionary game theory and
+are known as the <em>replicator dynamics</em>.</p>
+
+<p>
+Since it is the case that, for any value of \(p_c\) and \(p_d\), \(
+W_C \lt \overline{W}\), future population states will always feature
+fewer cooperators than before. This is represented in the diagram of
+figure 6.</p>
+
+<div class="figure avoid-break">
+<img alt="An empty circle labelled 'Cooperate' has a directed line with arrows leading to a closed circle labelled 'Defect'." src="img82.gif" />
+
+<p class="center">
+<span class="figlabel">Figure 6:</span> The Replicator Dynamical Model
+of the Prisoner&rsquo;s Dilemma</p>
+</div>
+
+<p>
+This diagram is interpreted as follows: the leftmost point represents
+the state of the population where everyone defects, the rightmost
+point represents the state where everyone cooperates, and intermediate
+points represent states containing a mix of both cooperators and
+defectors. (One maps states of the population onto points in the
+diagram by mapping the state when \(N\)% of the population defects
+onto the point of the line \(N\)% of the way to the leftmost point.)
+Arrows on the line indicate the evolutionary trajectory followed by
+the population over time. The open circle at the rightmost point
+represents the fact that the state where everybody cooperates is an
+unstable equilibrium, in that if a small portion (any amount
+\(\epsilon &gt; 0\)) of the population deviates from the strategy
+Cooperate, then the evolutionary dynamics will lead the population
+away from the all-Cooperate state. The solid circle at the leftmost
+point indicates that the state where everybody Defects is a stable
+equilibrium, in the sense that if some portion of the population
+deviates from the strategy Defect, then the evolutionary dynamics will
+drive the population back to the all-Defect state.</p>
+
+<p>
+Although the replicator dynamics were the first dynamics to be used in
+evolutionary game theory, many alternative dynamics have since been
+explored. In what follows, we shall talk about evolutionary dynamics
+entirely from the perspective of <em>cultural</em> evolution, which
+means nothing more than change in belief (e.g., strategy) over
+time.</p>
+
+<p>
+In his comprehensive work <em>Population Games and Evolutionary
+ Dynamics</em>,<sup>[<a href="notes.html#note-3" id="ref-3">3</a>]</sup>
+ William Sandholm provides a useful framework which allows us to
+relate the particular learning rules used by individuals to the
+evolutionary dynamics at the population-level of description. This can
+be thought of as providing the &ldquo;microfoundations&rdquo; of evolutionary game
+theory, analogous to how the study of individual decision making
+provides the microfoundations of macroeconomics.</p>
+
+<p>
+We begin with a sketch of the framework for modelling learning rules,
+and then give several examples of individual learning rules and the
+evolutionary dynamics which result at the population-level. For
+simplicity, all of the mathematical details are suppressed in the
+following discussion; for elaboration, see Sandholm (2010).
+(Sandholm&rsquo;s framework, in general, allows for games featuring multiple
+nonoverlapping populations. One of the simplifying assumptions made
+here is that there is only one population.) Assume that we have a
+symmetric game \(G\) with \(n\) strategies \(S_1,\dots, S_n\). (A
+symmetric game is one where the payoff for playing a particular
+strategy depends only on the strategies used by the other players, not
+on who is playing what strategy.) In addition, assume that the only
+possible information which could be taken into account by individuals
+is the following: (1) the current state of the population, represented
+as a distribution over the pure strategies of the game, and (2) the
+expected payoffs of each strategy, given the current state of the
+population. <!-- Since there are \(n\) pure strategies, the first piece of information is a distribution \(\bar p = \langle p_1,\dots, p_n\rangle\), where \(0 \leq p_i \leq 1\) and \(\sum p_i = 1\), where each \(p_i\) indicates the proportion of the population that follows strategy \(S_i\). The second piece of information is a vector \(\bar W(\bar p) = \langle W_1(\bar p), \dots, W_n(\bar p)\rangle\), where \(W_i(\bar p)\) denotes the expected payoff of \(S_i\) in the current state of the population. --></p>
+
+<p>
+An individual learning rule (or, to use Sandholm&rsquo;s terminology, a
+<em>revision protocol</em>) can be represented as a function which
+takes these two pieces of information as arguments, mapping them to a
+matrix of the <em>conditional switch rates</em> between strategies.
+That is, the \(ij^{th}\)-entry of the matrix contains the rate at
+which followers of strategy \(S_i\) will switch to the strategy
+\(S_j\). It is called the <em>conditional</em> switch rate because the
+\(S_i\to S_j\) switch rate will typically depend on &mdash; that is,
+be conditional on &mdash; both the state of the population and the
+vector of expected payoffs. Note that the function may not actually
+use all of the information contained in its arguments: some learning
+rules may be more sophisticated than others.</p> 
+
+<p>
+From this, the population-level evolutionary dynamics can be derived
+elegantly: the instantaneous rate of change for the proportion of the
+population following strategy \(S_i\) simply equals the total rate at
+which players following <em>other</em> strategies switch <em>to</em>
+\(S_i\), minus the total rate at which <em>current</em> followers of
+\(S_i\) switch to <em>some other</em> strategy. Substituting an
+individual learning rule into the following equation schema, and then
+solving the resulting system of equations, gives the population-level
+dynamics.</p>
+
+\[\begin{align}
+\frac{dp_i}{dt} = &amp;\ \left( \text{Rate at which people start using \(S_i\)}\right) \\
+                  &amp;- \left( \text{Rate at which people stop using
+\(S_i\)}\right) 
+\end{align}\] 
+
+<p>
+This general framework allows one to investigate
+the relationship between particular learning rules, at the individual
+level, and the evolutionary dynamics, at the population level. Here
+are three examples.</p>
+
+<p>
+<strong>The Replicator Dynamics.</strong> Suppose each player selects
+someone else from the population at random (with all individuals
+equally likely to be selected), and compares their payoff in the last
+round of play with the payoff earned by the person selected. If the
+person selected received a higher payoff, then the player adopts the
+strategy used by the person selected with a probability proportional
+to the payoff difference. Schlag (1998) showed that this learning rule
+yields the replicator dynamics.</p>
+
+<p>
+<strong>The Brown-Nash-von Neumann dynamics.</strong> One key
+assumption made by the learning rule which yields the replicator
+dynamics is that imitation is a reliable guide to future payoffs. This
+can be problematic for two reasons. First, the fact that a strategy
+has an expected payoff greater than the average payoff of the
+population may simply be indicative of peculiarities of the current
+population composition, and not of any particular strategic merit the
+strategy possesses. Such a learning rule may end up with much of the
+population shifting to adopt a strategy, only for its transient
+fitness benefits to disappear. Second, if a strategy is <em>not
+present</em> in the population at all, it has no chance of being
+adopted by imitation.</p>
+
+<p>
+As an alternative, one might consider a learning rule where the rate
+players switch to strategy \(S_i\) only depends on whether the
+expected payoff of \(S_i\) exceeds the average payoff of the
+population at the current time. Notice that such a learning rule
+attributes a higher degree of rationality to the individual players
+than the learning rule which generates the replicator dynamics. Why?
+This learning rule requires people to know the entire set of possible
+strategies, as well as the associated payoff matrix, so that they can
+determine if a strategy presently absent from the population would be
+worth adopting. When this learning rule is plugged into the above
+schema, one obtains the Brown-Nash-von Neumann (BNN) dynamic (see
+Brown and von Neumann, 1950). Unlike the replicator dynamics, the BNN
+dynamic can introduce <em>new</em> strategies into the population
+which are not represented. When the population is started in the
+states where everyone plays Rock, Paper or Scissors, the BNN dynamic
+will eventually end up in a state where all strategies are
+represented.</p>
+
+<p>
+<strong>The Smith Dynamics.</strong> One unusual feature of the
+learning rule which generates the BNN dynamic is that it compares the
+expected payoff of alternative possible strategies with the average
+payoff of the population. One might wonder why performing better than
+the population average is a sensible point of comparison, since the
+average payoff of the population is often not actually achievable by
+any <em>particular</em> strategy available to the players. Instead,
+consider the learning rule which compares the expected payoff of one&rsquo;s
+<em>current</em> strategy, in the present population state, with the
+expected payoff of other possible strategies, in the present
+population state, but where only those alternative strategies which
+have a higher expected payoff have a nonzero probability of being
+adopted. When plugged into the Sandholm framework above, this learning
+rule generates an evolutionary dynamic first studied by Smith (1984)
+and is thus known as the <em>Smith dynamic</em>.</p>
+
+<h2 id="DynaStabRatiOutc">3. Dynamics, Stability, and Rational Outcomes</h2>
+
+<p>
+Given the number of different types of evolutionary dynamics, as seen
+in section 2.2, and the number of different concepts of evolutionary
+stability, as seen in section 2.1, a first question to ask is what
+relationships exist between the two? A second question to ask is what
+relationships exist between the various families of evolutionary
+dynamics and what one might consider to be the &ldquo;rational&rdquo; outcome of a
+game? Answers to these questions turn out to be more subtle and
+complex than one might first anticipate.</p>
+
+<p>
+One complication, at the outset, is that an ESS is a
+<em>strategy</em>, possibly mixed, which satisfies certain properties.
+In contrast, all of the evolutionary dynamics described above model
+populations where individuals employ only pure strategies. How, then,
+are we to relate the two concepts?</p>
+
+<p>
+One natural suggestion is to interpret the probabilities which appear
+in an evolutionarily stable strategy as <em>population
+frequencies</em>. When the probabilities are understood in this way,
+one speaks of an <em>evolutionarily stable state</em>, in order to
+stress the difference in interpretation. One can then ask under what
+conditions a particular evolutionary dynamic will converge to an
+evolutionarily stable state.</p> <!--  <p>
+Taylor and Jonker (1978), as well as Zeeman (1979), establish
+conditions under which &#65533;&#148; at least for the replicator
+dynamics &#65533;&#148; one may infer the existence of an
+evolutionarily stable state. Roughly, if only two pure strategies
+exist, then given a (possibly mixed) evolutionarily stable strategy,
+the corresponding population state is an evolutionarily stable state.
+(If the evolutionarily stable strategy is a mixed strategy \(S\), the
+corresponding state of the population is the state in which the
+proportion of the population following the first strategy equals the
+probability assigned to the first strategy by \(S\), and the remainder
+follow the second strategy.) However, this can fail to be true, in
+general, if more than two pure strategies exist. </p> -->
+
+<p>
+In the case of the replicator dynamics, it is immediately apparent
+that the replicator dynamics need not converge to an evolutionarily
+stable state. This is because, as noted previously, the replicator
+dynamics cannot introduce strategies into the population if they are
+initially absent. Hence, if an evolutionarily stable state requires
+certain pure strategies to be present, and those pure strategies do
+not appear in the initial population state, then the replicator
+dynamics will not converge to the evolutionarily stable state.</p>
+
+<p>
+This can be seen in a particularly stark form in figure 6, above. In
+the case of the Prisoner&rsquo;s Dilemma, if the population begins in the
+state where <em>everyone</em> cooperates, the replicator dynamics will
+remain in that state forever, because the strategy of Defect cannot be
+introduced. This shows that, under the replicator dynamics, there can
+be instances where even <em>strictly dominated</em> strategies will
+persist.</p>
+
+<p>
+That said, it can also be seen in figure 6 that whenever there is a
+nonzero proportion of Defectors present in the population, that they
+will increase in number and eventually drive Cooperate to extinction.
+(In the limit, because another property of the replicator dynamics is
+that no strategy which appears can ever go extinct in a finite amount
+of time.) This motivates the following result:</p>
+
+<p>
+<strong>Theorem (Akin, 1980)</strong> Let \(G\) be a symmetric,
+two-player game, and let \(\vec p(0)\) be an initial population state
+in which all pure strategies are represented (that is, appear with a
+frequency greater than zero). Then, under the replicator dynamics
+beginning at the initial state \(\vec p(0)\), all strictly dominated
+strategies will disappear in the limit.</p>
+
+<p>
+What the above theorem shows is that, although there are cases where
+strictly dominated strategies may persist under the replicator
+dynamics, such cases are rare. As long as all strategies are initially
+present, no matter to how small an extent, the replicator dynamics
+eliminates strictly dominated strategies.</p>
+
+<p>
+However, the same does not hold for <em>weakly</em> dominated
+strategies. A strategy \(A\) is said to weakly dominate the strategy
+\(B\) if \(A\) does at least as well as \(B\) against all possible
+competitors, and there is at least one case where \(A\) does strictly
+better. When this happens, the strategy \(B\) is known as a weakly
+dominated strategy. Weakly dominated strategies <em>can</em> can
+appear in a Nash equilibrium, as figure 7 shows below. When both
+players adopt \(S_2\), it is in neither player&rsquo;s interest to switch
+because they continue to receive a payoff of 100 &mdash; and so we
+have a Nash equilibrium when both players adopt \(S_2\). Yet it is
+also the case that \(S_1\) weakly dominates \(S_2\).</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-small-dense vert-top centered cell-center">
+<tr>
+  <td>&nbsp;</td>
+  <td>\(S_1\)</td>
+  <td>\(S_2\)</td> </tr>
+<tr>
+  <td>\(S_1\)</td>
+  <td class="payoffs">\((1,1)\)</td>
+  <td class="payoffs">\((100,0)\)</td>
+</tr>
+<tr>
+  <td>\(S_2\)</td>
+  <td class="payoffs">\((0,100)\)</td>
+  <td class="payoffs">\((100,100)\)</td>
+</tr>
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 7.</span> A game in which a weakly
+dominated strategy \((S_2)\) appears in a Nash equilibrium.</p>
+</div>
+
+<p>
+It can be shown (see Weibull, 1995) that a weakly dominated strategy
+can <em>never</em> be an ESS. In the case of the game shown in figure
+7, this is surprising because the equilibrium generated by the weakly
+dominated strategy is Pareto optimal and has a much higher expected
+payoff than any other Nash equilibrium. However, it is also the case
+(see Skyrms, 1996) that the replicator dynamics need not eliminate
+weakly dominated strategies. In fact, in chapter 2 of <em>Evolution of
+the Social Contract</em>, Brian Skyrms shows that there are some games
+in which the replicator dynamics almost always yields outcomes
+containing a weakly dominated strategy! This shows that there can be
+considerable disagreement between the evolutionary outcomes of the
+replicator dynamics and what the static approach identifies as an
+evolutionarily stable strategy.</p>
+
+<p>
+The potential disagreement between the outcomes of an evolutionary
+dynamic and what ordinary game theory would consider to be a
+&ldquo;rational&rdquo; outcome of play is not just limited to the replicator
+dynamics. For example, consider the BNN dynamic and the Smith dynamic,
+described in section 2.2. In both cases, the underlying learning rule
+which generates those dynamics has some intuitive plausibility. In
+particular, each of those learning rules can be seen as employing
+slightly more rational approaches to the problem of strategy revision
+than the imitative learning rule which generated the replicator
+dynamics. Yet Hofbauer and Sandholm (2011) show that both the BNN
+dynamic and the Smith dynamic are not guaranteed to eliminate strictly
+dominated strategies!</p>
+
+<p>
+Consider the game of figure 8 below. This is known as the game of
+&ldquo;Rock-Paper-Scissors with a feeble twin&rdquo;. In this game, the Twin
+strategy is identical to Paper with the exception that all of its
+payoffs are decreased uniformly by some small amount \(\varepsilon
+&gt; 0\) (hence, the &ldquo;feeble twin&rdquo;). This means that the Twin strategy
+is strictly dominated by Paper, since there are absolutely no
+instances in which it is rationally preferable to play Twin instead of
+Paper. Yet, under the Smith dynamic, there are a nontrivial number of
+initial conditions which end up trapped in cycles where the Twin
+strategy is played by a nontrivial portion of the population.</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-small-dense vert-top centered cell-center">
+<tr>
+  <td>&nbsp;</td>
+  <td><strong>Rock</strong></td>
+  <td><strong>Scissors</strong></td>
+  <td><strong>Paper</strong></td>
+  <td><strong>Twin</strong></td> </tr>
+<tr>
+  <td><strong>Rock</strong></td>
+  <td class="payoffs">\( (0,0) \)</td>
+  <td class="payoffs">\( (1,-1) \)</td>
+  <td class="payoffs">\( ( -1, 1)\)</td>
+  <td class="payoffs">\( ( -1, 1-\varepsilon)\)</td> </tr>
+<tr>
+  <td><strong>Scissors</strong></td>
+  <td class="payoffs">\( (-1, 1) \)</td>
+  <td class="payoffs">\( (0,0) \)</td>
+  <td class="payoffs">\( (1, -1) \)</td>
+  <td class="payoffs">\( (1, -1 - \varepsilon) \)</td> </tr>
+<tr>
+  <td><strong>Paper</strong></td>
+  <td class="payoffs">\( (1, -1) \)</td>
+  <td class="payoffs">\( (-1, 1) \)</td>
+  <td class="payoffs">\( (0,0) \)</td>
+  <td class="payoffs">\( (0, - \varepsilon) \)</td> </tr>
+<tr>
+  <td><strong>Twin</strong></td>
+  <td class="payoffs">\( (1-\varepsilon, -1) \)</td>
+  <td class="payoffs">\( (-1-\varepsilon, 1) \)</td>
+  <td class="payoffs">\( (-\varepsilon, 0) \)</td>
+  <td class="payoffs">\( (-\varepsilon, - \varepsilon) \)</td> </tr>
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 8.</span> Rock-Scissors-Paper with a
+feeble twin.</p>
+</div>
+
+<p>
+The connection between ESSs and stable states under an evolutionary
+dynamical model is weakened further if we do not model the dynamics
+using a continuous population model. For example, suppose we use a
+local interaction model in which each individual plays the
+prisoner&rsquo;s dilemma with his or her neighbors. Nowak and May
+(1992, 1993), using a spatial model in which local interactions occur
+between individuals occupying neighboring nodes on a square lattice,
+show that stable population states for the prisoner&rsquo;s dilemma
+depend upon the specific form of the payoff matrix.
+ <sup>[<a href="notes.html#note-4" id="ref-4">4</a>]</sup>
+ (What is interesting about this finding is that, in all cases, it
+remains true that Defect strictly dominates Cooperate, so the
+fundamental underlying strategic problem described by the game has not
+changed.)</p>
+
+<p>
+When the payoff matrix for the population has the values \(T = 2.8\),
+\(R = 1.1\), \(P = 0.1\), and \(S = 0\), the evolutionary dynamics of
+the local interaction model agree with those of the replicator
+dynamics, and lead to a state where each individual follows the
+strategy Defect&mdash;which is, as noted before, the only
+evolutionarily stable strategy in the prisoner&rsquo;s dilemma. The
+figure below illustrates how rapidly one such population converges to
+a state where everyone defects.</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-med-dense cell-center vert-bot">
+<tr>
+  <td>
+<img alt="A mostly white square with sparse black specks" src="img91.gif" width="136" />
+</td>
+  <td>
+<img alt="A white square moderately filled with small black squares" src="img92.gif" width="136" />
+</td>
+  <td>
+<img alt="The white square is now almost entirely filled but there are still some patches of white" src="img93.gif" width="136" />
+</td> </tr>
+<tr>
+  <td>Generation 1</td>
+  <td>Generation 2</td>
+  <td>Generation 3</td>
+  <td>&nbsp;</td> </tr>
+<tr>
+  <td>
+<img alt="The white square is not mostly filled with a couple of small patches of white" height="141" src="img94.gif" width="141" />
+</td>
+  <td>
+<img alt="An almost entirely black square with a small white speck" height="141" src="img95.gif" width="141" />
+</td>
+  <td>
+<img alt="An entirely black square" height="141" src="img96.gif" width="141" />
+</td> </tr>
+<tr>
+  <td>Generation 4</td>
+  <td>Generation 5</td>
+  <td>Generation 6</td> </tr>
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 9:</span> Prisoner&rsquo;s Dilemma: All
+Defect
+<br />
+ <a href="pd-defect.gif">[View a movie of this model]</a>
+ </p>
+</div>
+
+<p>
+However, when the payoff matrix has values of \(T = 1.2, R = 1.1, P =
+0\).1, and \(S = 0\), the evolutionary dynamics carry the population
+to a stable cycle oscillating between two states. In this cycle
+cooperators and defectors coexist, with some regions containing
+&ldquo;blinkers&rdquo; oscillating between defectors and cooperators
+(as seen in generation 19 and&nbsp;20).</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-med-dense cell-center vert-bot">
+<tbody>
+<tr>
+  <td>
+<img alt="A mostly white square with sparse black specks" src="img101.gif" width="136" />
+</td>
+  <td>
+<img alt="The blackspecks are larger and now balance the white within the square" src="img102.gif" width="136" />
+</td> </tr>
+<tr>
+  <td>Generation 1</td>
+  <td>Generation 2</td> </tr>
+<tr>
+  <td>
+<img alt="A mostly white square with some small black dots and lines" src="img103.gif" width="136" />
+</td>
+  <td>
+<img alt="A mostly white square with more black dots and lines" src="img104.gif" width="136" />
+</td> </tr>
+<tr>
+  <td>Generation 19</td>
+  <td>Generation 20</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 10:</span> Prisoner&rsquo;s Dilemma:
+Cooperate
+<br />
+ <a href="pd-cooperate.gif">[View a movie of this model]</a>
+ </p>
+</div>
+
+<p>
+Notice that with these particular settings of payoff values, the
+evolutionary dynamics of the local interaction model differ
+significantly from those of the replicator dynamics. Under these
+payoffs, the stable states have no corresponding analogue in either
+the replicator dynamics nor in the analysis of evolutionarily stable
+strategies.</p>
+
+<p>
+A phenomenon of greater interest occurs when we choose payoff values
+of \(T = 1.61, R = 1.01, P = 0\).01, and \(S = 0\). Here, the dynamics
+of local interaction lead to a world constantly in flux: under these
+values regions occupied predominantly by Cooperators may be
+successfully invaded by Defectors, and regions occupied predominantly
+by Defectors may be successfully invaded by Cooperators. In this
+model, there is no &ldquo;stable strategy&rdquo; in the traditional
+dynamical sense.
+ <sup>[<a href="notes.html#note-5" id="ref-5">5</a>]</sup></p>
+ 
+<div class="figure avoid-break">
+
+<table class="cellpad-me-dense cell-center vert-bot">
+<tbody>
+<tr>
+  <td>
+<img alt="A mostly white square with small black specks" src="img111.gif" width="136" />
+</td>
+  <td>
+<img alt="The black splotches now take up much of the square but leave some areas of white" src="img112.gif" width="136" />
+</td>
+  <td>
+<img alt="A mostly black square with some splotches of white" src="img113.gif" width="136" />
+</td> </tr>
+<tr>
+  <td>Generation 1</td>
+  <td>Generation 3</td>
+  <td>Generation 5</td> </tr>
+<tr>
+  <td>
+<img alt="A black square with slightly larger splotches of white" src="img114.gif" width="136" />
+</td>
+  <td>
+<img alt="A square with splotches of black and white mixed" src="img115.gif" width="136" />
+</td>
+  <td>
+<img alt="A square with more large splotches of white and less black" src="img116.gif" width="136" />
+</td> </tr>
+<tr>
+  <td>Generation 7</td>
+  <td>Generation 9</td>
+  <td>Generation 11</td> </tr>
+<tr>
+  <td>
+<img alt="A square of large white splotches and smaller black splotches" src="img117.gif" width="136" />
+</td>
+  <td>
+<img alt="A square with some large and some small splotches of black and white" src="img118.gif" width="136" />
+</td>
+  <td>&nbsp;</td> </tr>
+<tr>
+  <td>Generation 13</td>
+  <td>Generation 15</td>
+  <td>&nbsp;</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 11:</span> Prisoner&rsquo;s Dilemma:
+Chaotic
+<br />
+ <a href="pd-chaotic.gif">[view a movie of this model]</a>
+ </p>
+</div>
+
+<p>
+These results demonstrate that, although there are cases where both
+the static and dynamic approaches to evolutionary game theory agree
+about the expected outcome of an evolutionary game, there are enough
+differences in the outcomes of the two modes of analysis to justify
+the development of each program independently.</p>
+
+<h2 id="WhyEvolGameTheo">4. Why Evolutionary Game Theory?</h2> Although evolutionary game theory has provided numerous
+insights to particular evolutionary questions, a growing number of
+social scientists have become interested in evolutionary game theory
+in hopes that it will provide tools for addressing a number of
+deficiencies in the traditional theory of games, three of which are
+discussed below.
+
+<h3 id="EquiSeleProb">4.1 The equilibrium selection problem</h3>
+
+<p>
+The concept of a Nash equilibrium (see the entry on
+ <a href="../game-theory/">game theory</a>)
+ has been the most used solution concept in game theory since its
+introduction by John Nash (1950). A selection of strategies by a group
+of agents is said to be in a Nash equilibrium if each agent&rsquo;s
+strategy is a best-response to the strategies chosen by the other
+players. By best-response, we mean that no individual can improve her
+payoff by switching strategies unless at least one other individual
+switches strategies as well. This need not mean that the payoffs to
+each individual are optimal in a Nash equilibrium: indeed, one of the
+disturbing facts of the prisoner&rsquo;s dilemma is that the only Nash
+equilbrium of the game&mdash;when both agents defect&mdash;is
+ suboptimal.<sup>[<a href="notes.html#note-6" id="ref-6">6</a>]</sup></p>
+ 
+<p>
+Yet a difficulty arises with the use of Nash equilibrium as a solution
+concept for games: if we restrict players to using pure strategies,
+not every game has a Nash equilbrium. The game &ldquo;Matching
+Pennies&rdquo; illustrates this problem.</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-small-dense vert-top cell-center">
+<tr>
+  <td>&nbsp;</td>
+  <td><strong>Heads</strong></td>
+  <td><strong>Tails</strong></td> </tr>
+<tr>
+  <td><strong>Heads</strong></td>
+  <td>(0,1)</td>
+  <td>(1,0)</td> </tr>
+<tr>
+  <td><strong>Tails</strong></td>
+  <td>(1,0)</td>
+  <td>(0,1)</td> </tr> 
+</table>
+
+<p>
+<span class="figlabel">Figure 12:</span> Payoff matrix for the game of
+Matching Pennies. (Row wins if the two coins do not match, whereas
+Column wins if the two coins match).</p>
+</div>
+
+<p>
+While it is true that every noncooperative game in which players may
+use mixed strategies has a Nash equilibrium, some have questioned the
+significance of this for real agents. If it seems appropriate to
+require rational agents to adopt only pure strategies (perhaps because
+the cost of implementing a mixed strategy runs too high), then the
+game theorist must admit that certain games lack solutions.</p>
+
+<p>
+A more significant problem with invoking the Nash equilibrium as the
+appropriate solution concept arises because some games have
+multiple Nash equilibria (see the section on
+ <a href="../game-theory/index.html#SolConEqu">Solution Concepts and Equilibria</a>,
+ in the entry on game theory). When there are several different Nash
+equilibria, how is a rational agent to decide which of the several
+equilibria is the &ldquo;right one&rdquo; to settle
+ upon?<sup>[<a href="notes.html#note-7" id="ref-7">7</a>]</sup>
+ Attempts to resolve this problem have produced a number of possible
+refinements to the concept of a Nash equilibrium, each refinement
+having some intuitive purchase. Unfortunately, so many refinements of
+the notion of a Nash equilibrium have been developed that, in many
+games which have multiple Nash equilibria, each equilibrium could be
+justified by some refinement present in the literature. The problem
+has thus shifted from choosing among multiple Nash equilibria to
+choosing among the various refinements.</p>
+
+<p>
+Samuelson (1997), in his work <em>Evolutionary Games and Equilibrium
+Selection</em>) expressed hope that further development of
+evolutionary game theory could be of service in addressing the
+equilibrium selection problem. At present, this hope does not seem to
+have been realised. As section 2.1 showed, there are multiple
+competing concepts of evolutionary stability in play. Furthermore, as
+section 3 showed, there is an imperfect agreement between what is
+evolutionary stable, in the dynamic setting, and what is evolutionary
+stable, in the static setting.</p>
+
+<h3 id="ProbHypeAgen">4.2 The problem of hyperrational agents</h3> 
+
+<p>The traditional theory of games imposes a very high
+rationality requirement upon agents. This requirement originates in
+the development of the theory of utility which provides game
+theory&rsquo;s underpinnings (see Luce and Raiffa, 1957, for an
+introduction). For example, in order to be able to assign a cardinal
+utility function to individual agents, one typically assumes that each
+agent has a well-defined, consistent set of preferences over the set
+of &ldquo;lotteries&rdquo; over the outcomes which may result from
+individual choice. Since the number of different lotteries over
+outcomes is uncountably infinite, this requires each agent to have a
+well-defined, consistent set of uncountably infinitely many
+preferences.</p>
+
+<p>
+Numerous results from experimental economics have shown that these
+strong rationality assumptions do not describe the behavior of real
+human subjects. Humans are rarely (if ever) the hyperrational agents
+described by traditional game theory. For example, it is not uncommon
+for people, in experimental situations, to indicate that they prefer
+\(A\) to \(B, B\) to \(C\), and \(C\) to \(A\). These &ldquo;failures
+of the transitivity of preference&rdquo; would not occur if people had
+a well-defined consistent set of preferences. Furthermore, experiments
+with a class of games known as a &ldquo;beauty pageant&rdquo; show,
+quite dramatically, the failure of common knowledge assumptions
+typically invoked to solve
+ games.<sup>[<a href="notes.html#note-8" id="ref-8">8</a>]</sup>
+ Since evolutionary game theory successfully explains the predominance
+of certain behaviors of insects and animals, where strong rationality
+assumptions clearly fail, this suggests that rationality is not as
+central to game theoretic analyses as previously thought. The hope,
+then, is that evolutionary game theory may meet with greater success
+in describing and predicting the choices of human subjects, since it
+is better equipped to handle the appropriate weaker rationality
+assumptions. Indeed, one of the great strengths of the framework
+introduced by Sandholm (2010) is that it provides a general method for
+linking the learning rules used by individuals, at the micro level,
+with the dynamics describing changes in the population, at the macro
+level.</p>
+
+<h3 id="LackDynaTheoTradTheoGame">4.3 The lack of a dynamical theory in the traditional theory of games</h3>
+
+<p>
+At the end of the first chapter of <em>Theory of Games and Economic
+Behavior</em>, von Neumann and Morgenstern write:</p>
+
+<blockquote>
+We repeat most emphatically that our theory is thoroughly static. A
+dynamic theory would unquestionably be more complete and therefore
+preferable. But there is ample evidence from other branches of science
+that it is futile to try to build one as long as the static side is
+not thoroughly understood. (Von Neumann and Morgenstern, 1953, p. 44)
+</blockquote>
+
+<p>
+The theory of evolution is a dynamical theory, and the second approach
+to evolutionary game theory sketched above explicitly models the
+dynamics present in interactions among individuals in the population.
+Since the traditional theory of games lacks an explicit treatment of
+the dynamics of rational deliberation, evolutionary game theory can be
+seen, in part, as filling an important lacuna of traditional game
+theory.</p>
+
+<p>
+One may seek to capture some of the dynamics of the decision-making
+process in traditional game theory by modeling the game in its
+extensive form, rather than its normal form. However, for most games
+of reasonable complexity (and hence interest), the extensive form of
+the game quickly becomes unmanageable. Moreover, even in the extensive
+form of a game, traditional game theory represents an
+individual&rsquo;s strategy as a specification of what choice that
+individual would make at each information set in the game. A selection
+of strategy, then, corresponds to a selection, prior to game play, of
+what that individual will do at any possible stage of the game. This
+representation of strategy selection clearly presupposes hyperrational
+players and fails to represent the process by which one player
+observes his opponent&rsquo;s behavior, learns from these
+observations, and makes the best move in response to what he has
+learned (as one might expect, for there is no need to model learning
+in hyperrational individuals). The inability to model the dynamical
+element of game play in traditional game theory, and the extent to
+which evolutionary game theory naturally incorporates dynamical
+considerations, reveals an important virtue of evolutionary game
+theory.</p>
+
+<h2 id="ApplEvolGameTheo">5. Applications of Evolutionary Game Theory</h2>
+
+<p>
+Evolutionary game theory has been used to explain a number of aspects
+of human behavior. A small sampling of topics which have been analysed
+from the evolutionary perspective include: <strong>altruism</strong>
+(Fletcher and Zwick, 2007; Gintis <em>et al</em>., 2003;
+S&aacute;nchez and Cuesta, 2005; Trivers, 1971), <strong>behavior in
+public goods game</strong> (Clemens and Riechmann, 2006; Hauert, 2006;
+Hauert <em>et al</em>., 2002, 2006; Huberman and Glance, 1995),
+<strong>empathy</strong> (Page and Nowak, 2002; Fishman, 2006),
+<strong>human culture</strong> (Enquist and Ghirlanda, 2007; Enquist
+<em>et al</em>., 2008), <strong>moral behaviour</strong> (Alexander,
+2007; Boehm, 1982; Harms and Skyrms, 2008; Skyrms 1996, 2004),
+<strong>private property</strong> (Gintis, 2007), <strong>signaling
+systems and other proto-linguistic behaviour</strong> (Barrett, 2007;
+Hausken and Hirshleirfer, 2008; Hurd, 1995; J&auml;ger, 2008; Nowak
+<em>et al</em>., 1999; Pawlowitsch, 2007, 2008; Skyrms, 2010; Zollman,
+2005), <strong>social learning</strong> (Kameda and Nakanishi, 2003;
+Nakahashi, 2007; Rogers, 1988; Wakano and Aoki, 2006; Wakano <em>et
+al</em>., 2004), and <strong>social norms</strong> (Axelrod, 1986;
+Bicchieri, 2006; Binmore and Samuelson, 1994; Chalub <em>et al</em>.,
+2006; Kendal <em>et al</em>., 2006; Ostrum, 2000).</p>
+
+<p>
+The following subsections provide a brief illustration of the use of
+evolutionary game theoretic models to explain two areas of human
+behavior. The first concerns the tendency of people to share equally
+in perfectly symmetric situations. The second shows how populations of
+pre-linguistic individuals may coordinate on the use of a simple
+signaling system even though they lack the ability to communicate.
+These two models have been pointed to as preliminary explanations of
+our sense of fairness and language, respectively. They were selected
+for inclusion here for three reasons: (1) the relative simplicity of
+the model, (2) the apparent success at explaining the phenomenon in
+question, and (3) the importance of the phenomenon to be
+explained.</p>
+
+<h3 id="SensFair">5.1 A sense of fairness</h3>
+
+<p>
+One natural game to use for investigating the evolution of fairness is
+<em>divide-the-cake</em> (this is the simplest version of the Nash
+bargaining game). In chapter 1 of <em>Evolution of the Social
+Contract</em>, Skyrms presents the problem as follows:</p>
+
+<blockquote>
+Here we start with a very simple problem; we are to divide a chocolate
+cake between us. Neither of us has any special claim as against the
+other. Out positions are entirely symmetric. The cake is a windfall
+for us, and it is up to us to divide it. But if we cannot agree how to
+share it, the cake will spoil and we will get nothing. (Skyrms, 1996,
+pp. 3&ndash;4)
+</blockquote>
+
+<p>
+More formally, suppose that two individuals are presented with a
+resource of size \(C\) by a third party. A <em>strategy</em> for a
+player, in this game, consists of an amount of cake that he would
+like. The set of possible strategies for a player is thus any amount
+between 0 and \(C\). If the sum of strategies for each player is less
+than or equal to \(C\), each player receives the amount he asked for.
+However, if the sum of strategies exceeds \(C\), no player receives
+anything. Figure 13 illustrates the feasible set for this game.</p>
+
+<div class="figure avoid-break">
+<img alt="A graph with Player 1 on the x-axis and Player 2 on the y-axis. A line goes from (0,10) to (10,0) and the triangle below the line is filled. The line is labelled pi(s_i,s_{-i}) = s_i if s_i + s_{-i} <= 10, and = 0 otherwise." src="dtd.gif" width="400" />
+
+<p>
+<span class="figlabel">Figure 13:</span> The feasible set for the game
+of Divide-the-Cake. In this figure, the cake is of size \(C=10\) but
+all strategies between 0 and 10 inclusive are permitted for either
+player (including fractional demands).</p>
+</div>
+
+<p>
+We have a clear intuition that the &ldquo;obvious&rdquo; strategy for
+each player to select is <em>C/2</em>; the philosophical problem lies
+in explaining <em>why</em> agents would choose that strategy rather
+than some other one. Even in the perfectly symmetric situation,
+answering this question is more difficult than it first appears. To
+see this, first notice that there are an infinite number of Nash
+equilibria for this game. If player 1 asks for \(p\) of the cake,
+where \(0 \le p \le C\), and player 2 asks for \(C - p\), then this
+strategy profile is a Nash equilibrium for any value of \(p \in
+[0,C]\). (Each player&rsquo;s strategy is a best response given what
+the other has chosen, in the sense that neither player can increase
+her payoff by changing her strategy.) Thus the equal split is only one
+of infinitely many Nash equilibria.</p>
+
+<p>
+One might propose that both players should choose that strategy which
+maximizes their expected payoff on the assumption they are uncertain
+as to whether they will be assigned the role of Player 1 or Player 2.
+This proposal, Skyrms notes, is essentially that of Harsanyi (1953).
+The problem with this is that if players only care about their
+expected payoff, and they think that it is equally likely that they
+will be assigned the role of Player 1 or Player 2, then this, too,
+fails to select uniquely the equal split. Consider the strategy
+profile \(\langle p, C - p\rangle\) which assigns Player 1 \(p\)
+slices and Player 2 \(C - p\) slices. If a player thinks it is equally
+likely that he will be assigned the role of Player 1 or Player 2, then
+his expected utility is \(\frac{1}{2} p + \frac{1}{2}(C - p) =
+\frac{C}{2}\), for all values \(p \in[0, C]\).</p>
+
+<p>
+Now consider the following evolutionary model: suppose we have a
+population of individuals who pair up and repeatedly play the game of
+divide-the-cake, modifying their strategies over time in a way which
+is described by the replicator dynamics. For convenience, let us
+assume that the cake is divided into 10 equally sized slices and that
+each player&rsquo;s strategy conforms to one of the following 11
+possible types: Demand 0 slices, Demand 1 slice, &hellip; , Demand 10
+slices. For the replicator dynamics, the state of the population is
+represented by a vector \(\langle p_0, p_1 , \ldots ,p_{10}\rangle\)
+where each \(p_i\) denotes the frequency of the strategy &ldquo;Demand
+\(i\) slices&rdquo; in the population.</p>
+
+<p>
+The replicator dynamics allows us to model how the distribution of
+strategies in the population changes over time, beginning from a
+particular initial condition. Figure 14 below shows two evolutionary
+outcomes under the continuous replicator dynamics. Notice that
+although fair division can evolve, as in Figure 14(a), it is not the
+only evolutionary stable outcome, as Figure 14(b) illustrates.</p>
+
+<div class="figure avoid-break">
+
+<table class="cell-center vert-bot">
+<tr>
+  <td>
+<img alt="A graph of Frequency in population vs Time with three curves labelled 'Demand 4', 'Demand 5', and 'Demand 6'. At time 0, Demand 4 starts at .05, rising to .5 at time 4 and decending to 0 and time 10. Demand 5 starts just above .05 rising slowly at first then rising faster around time 4.5 and asymptotically approaching 1.0 around time 9. Demand 6 starts at .15, peaks at .25 at time 2 and then descends to 0 around time 6." src="dtd-fig-1.gif" width="500" />
+</td> </tr>
+<tr>
+  <td>(a) The evolution of fair division.</td> </tr>
+</table>
+
+<table class="cell-center vert-bot">
+<tr>
+  <td>
+<img alt="A graph of Frequency in population vs Time with three curves labelled 'Demand 4', 'Demand 5', and 'Demand 6'. At time 0, Demand 4 start at .8 and rises asymptotically to .68. Demand 5 starts at 0, rising to .02 at time 2 and back to 0 around time 6. Demand 6 starts at .025 rising to .35 at time 2.5 and back down asymptotically to .34 by time 5." src="dtd-fig-2.gif" width="500" />
+</td> </tr>
+<tr>
+  <td>(b) The evolution of an unequal division rule.</td> </tr>
+</table>
+
+<p>
+<span class="figlabel">Figure 14:</span> Two evolutionary outcomes
+under the continuous replicator dynamics for the game of
+divide-the-cake. Of the eleven strategies present, only three are
+colour-coded so as to be identifiable in the plot, as noted in the
+legend.  </p>
+<!-- The initial conditions for the solution shown in (a) was the
+point \(\langle\) 0.0544685, 0.236312, 0.0560727, 0.0469244,
+0.0562243, 0.0703294, 0.151136, 0.162231, 0.0098273, 0.111366,
+0.0451093 \(\rangle\), and the initial conditions for the solution
+shown in (b) was the point \(\langle\) 0.410376, 0.107375, 0.0253916,
+0.116684, 0.0813494, 0.00573677, 0.0277155, 0.0112791, 0.0163166,
+0.191699, 0.00607705 \(\rangle\) -->
+
+</div>
+
+<p>
+Recall that the task at hand was to explain why we think the
+&ldquo;obvious&rdquo; strategy choice in a perfectly symmetric
+resource allocation problem is for both players to ask for half of the
+resource. What the above shows is that, in a population of boundedly
+rational agents who modify their behaviours in a manner described by
+the replicator dynamics, fair division is one, although not the only,
+evolutionary outcome. The tendency of fair division to emerge,
+assuming that any initial condition is equally likely, can be measured
+by determining the size of the
+ <a href="http://mathworld.wolfram.com/BasinofAttraction.html" target="other">basin of attraction</a>
+ of the state where everyone in the population uses the strategy
+Demand 5 slices. Skyrms (1996) measures the size of the basin of
+attraction of fair division using
+ <a href="http://mathworld.wolfram.com/MonteCarloMethod.html" target="other">Monte Carlo methods</a>,
+ finding that fair division evolves roughly 62% of the time.</p>
+
+<p>
+However, it is important to realise that the replicator dynamics
+assumes any pairwise interaction between individuals is equally
+likely. In reality, quite often interactions between individuals are
+<em>correlated</em> to some extent. Correlated interaction can occur
+as a result of spatial location (as shown above for the case of the
+spatial prisoner&rsquo;s dilemma), the structuring effect of social
+relations, or ingroup/outgroup membership effects, to list a few
+causes.</p>
+
+<p>
+When correlation is introduced, the frequency with which fair division
+emerges changes drastically. The amount of correlation in the model is
+represented by the <em>correlation coefficient</em> \(\varepsilon\),
+which can range between 0 and 1. When \(\varepsilon=0\), there is no
+correlation at all and the likelihood of pairwise interactions is
+determined simply by the proportion of agents in the population
+following a particular strategy. When \(\varepsilon=1\), correlation
+is perfect and agents following a particular strategy only interact
+with their own kind. Intermediate levels of correlation introduce some
+tendency for agents to interact with their own kind, where the
+tendency increases with the value of \(\varepsilon\). Figure 15
+illustrates how the basin of attraction of All Demand 5 changes as the
+correlation coefficient \(\varepsilon\) increases from 0 to
+ 0.2.<sup>[<a href="notes.html#note-9" id="ref-9">9</a>]</sup>
+ Once the amount of correlation present in the interactions reaches
+\(\varepsilon = 0.2\), fair division is virtually an evolutionary
+certainty. Note that this does not depend on there only being three
+strategies present: allowing for some correlation between interactions
+increases the probability of fair division evolving even if the
+initial conditions contain individuals using any of the eleven
+possible strategies.</p>
+
+<div class="figure avoid-break">
+
+<table class="cellpad-med-dense cell-center">
+<tr>
+  <td>
+<img alt="image" src="nash-4-5-6-simplex-nobox.gif" width="275" />
+</td>
+  <td>
+<img alt="image" src="nash-4-5-6-corr-1.gif" width="275" />
+</td> </tr>
+<tr>
+  <td>(a) \(\varepsilon = 0\)</td>
+  <td>(b) \(\varepsilon = 0\).1</td> </tr>
+<tr>
+  <td colspan="2">
+<img alt="image" src="nash-4-5-6-corr-2.gif" width="275" />
+</td> </tr>
+<tr> <td colspan="2">(c) \(\varepsilon = 0.2\)</td></tr>
+</table>
+
+<p>
+<span class="figlabel">Figure 15:</span> Three diagrams showing how,
+as the amount of correlation among interactions increases, fair
+division is more likely to evolve. In figures 15(a) and 15(b), there
+is an unstable fixed point in the interior of space where all three
+strategies are present in the population. (This is the point where the
+evolutionary trajectories appear to intersect.) This fixed point is
+what is known as a <em>saddle point</em> in dynamical systems theory:
+the smallest perturbation will cause the population to evolve away
+from that point to one of the other two attractors.</p>
+</div>
+
+<p>
+What, then, can we conclude from this model regarding the evolution of
+fair division? It all depends, of course, on how accurately the
+replicator dynamics models the primary evolutionary forces (cultural
+or biological) acting on human populations. Although the replicator
+dynamics are a &ldquo;simple&rdquo; mathematical model, it does
+suffice for modelling both a type of biological evolution (see Taylor
+and Jonker, 1978) and a type of cultural evolution (see B&ouml;rgers
+and Sarin, 1996; Weibull, 1995). As Skyrms (1996) notes:</p>
+
+<blockquote>
+In a finite population, in a finite time, where there is some random
+element in evolution, some reasonable amount of divisibility of the
+good and some correlation, we can say that it is likely that something
+close to share and share alike should evolve in dividing-the-cake
+situations. This is, perhaps, a beginning of an explanation of the
+origin of our concept of justice.
+</blockquote>
+
+<p>
+This claim, of course, has not gone without comment. For a selection
+of some discussion see, in particular, D&rsquo;Arms (1996, 2000);
+D&rsquo;Arms <em>et al</em>., 1998; Danielson (1998); Bicchieri
+(1999); Kitcher (1999); Gintis (2000); Harms (2000); Krebs (2000);
+Alexander and Skyrms (1999); and Alexander (2000, 2007).</p>
+
+<h3 id="EmerLang">5.2 The emergence of language.</h3>
+
+<p>
+In his seminal work <em>Convention</em>, David Lewis developed the
+idea of sender-receiver games. Such games have been used to explain
+how language, and semantic content, can emerge in a community which
+originally did not possess any language
+ whatsoever.<sup>[<a href="notes.html#note-10" id="ref-10">10</a>]</sup>
+ His original definition is as follows (with portions of extraneous
+commentary deleted for concision and points enumerated for clarity and
+later reference):</p>
+
+<blockquote>
+A <em>two-sided signaling problem</em> is a situation \(S\) involving
+an agent called the <em>communicator</em> and one or more other agents
+called the <em>audience</em>, such that it is true that, and it is
+common knowledge for the communicator and the audience that:
+
+<ol>
+
+<li>Exactly one of several alternative states of affairs \(s_1 ,
+\ldots ,s_m\) holds. The communicator, but not the audience, is in a
+good position to tell which one it is.</li>
+
+<li>Each member of the audience can do any one of several alternative
+actions \(r_1 , \ldots ,r_m\) called <em>responses</em>. Everyone
+involved wants the audience&rsquo;s responses to depend in a certain
+way upon the state of affairs that holds. There is a certain
+one-to-one function \(F\) from \(\{s_i\}\) onto \(\{r_j\}\) such that
+everyone prefers that each member of the audience do \(F(s_i)\) on
+condition that \(s_i\) holds, for each \(s_i\).</li>
+
+<li>The communicator can do any one of several alternative actions
+\(\sigma_1 , \ldots ,\sigma_n (n \ge m)\) called <em>signals</em>. The
+audience is in a good position to tell which one he does. No one
+involved has any preference regarding these actions which is strong
+enough to outweigh his preference for the dependence \(F\) of
+audience&rsquo;s responses upon states of affairs. [&hellip;]</li>
+
+<li>A <em>communicator&rsquo;s contingency plan</em> is any possible
+way in which the communicator&rsquo;s signal may depend upon the state
+of affairs that he observes to hold. It is a function \(Fc\) from
+\(\{s_i\}\) into \(\{\sigma_k \}\). [&hellip;]</li>
+
+<li>Similarly, an <em>audience&rsquo;s contingency plan</em> is any
+possible way in which the response of a member of the audience may
+depend upon the signal he observes the communicator to give. It is a
+one-to-one function \(Fa\) from part of \(\{\sigma_k\}\) into
+\(\{r_j\}\). [&hellip;]</li>
+</ol>
+
+<p>
+Whenever \(Fc\) and \(Fa\) combine [&hellip;] to give the preferred
+dependence of the audience&rsquo;s response upon the state of affairs,
+we call \(\langle Fc, Fa\rangle\) a <em>signaling system</em>. (Lewis,
+1969, pp. 130&ndash;132)</p>
+</blockquote>
+
+<p>
+Since the publication of <em>Convention</em>, it is more common to
+refer to the communicator as the <em>sender</em> and the members of
+the audience as <em>receivers</em>. The basic idea behind
+sender-receiver games is the following: Nature selects which state of
+the world obtains. The person in the role of Sender observes this
+state of the world (correctly identifying it), and sends a signal to
+the person in the role of Receiver. The Receiver, upon receipt of this
+signal, performs a response. If what the Receiver does is the correct
+response, given the state of the world, then both players receive a
+payoff of 1; if the Receiver performed an incorrect response, then
+both players receive a payoff of 0. Notice that, in this simplified
+model, no chance of error exists at any stage. The Sender always
+observes the true state of the world and always sends the signal he
+intended to send. Likewise, the Receiver always receives the signal
+sent by the Sender (i.e., the channel is not noisy), and the Receiver
+always performs the response he intended to.</p>
+
+<p>
+Whereas Lewis allowed the &ldquo;audience&rdquo; to consist of more
+than one person, it is more common to consider sender-receiver games
+played between two people, so that there is only a single receiver
+(or, in Lewisian terms, a single member of the
+ audience).<sup>[<a href="notes.html#note-11" id="ref-11">11</a>]</sup>
+ For simplicity, in the following we will consider a two-player,
+sender-receiver game with two states of the world \(\{S_1, S_2\}\),
+two signals \(\{\sigma_1, \sigma_2\}\), and two responses \(\{r_1,
+r_2\}\). (We shall see later why larger sender-receiver games are
+increasingly difficult to analyse.)</p>
+
+<p>
+Notice that, in point (2) of his definition of sender-receiver games,
+Lewis requires two things: that there be a unique best response to the
+state of the world (this is what requiring \(F\) to be one-to-one
+amounts to) and that everyone in the audience agrees that this is the
+case. Since we are considering the case where there is only a single
+responder, the second requirement is otiose. For the case of two
+states of the world and two responses, there are only two ways of
+assigning responses to states of the world which satisfy Lewis&rsquo;s
+requirement. These are as follows (where \(X \Rightarrow Y\) denotes
+&ldquo;in state of the world \(X\), the best response is to do
+\(Y\)&rdquo;):</p>
+
+<ol>
+
+<li>\(S_1 \Rightarrow r_1, S_2 \Rightarrow r_2\).</li>
+
+<li>\(S_1 \Rightarrow r_2, S_2 \Rightarrow r_1\).</li>
+</ol>
+
+<p>
+It makes no real difference for the model which one of these we
+choose, so pick the intuitive one: in state of the world \(S_i\), the
+best response is \(r_i\) (i.e., function 1).</p>
+
+<p>
+A <em>strategy for the sender</em> (what Lewis called a
+&ldquo;communicator&rsquo;s contingency plan&rdquo;) consists of a
+function specifying what signal he sends given the state of the world.
+It is, as Lewis notes, a function from the set of states of the world
+<em>into</em> the set of signals. This means that it is possible that
+a sender may send the <em>same</em> signal in two different states of
+the world. Such a strategy makes no sense, from a rational point of
+view, because the receiver would not get enough information to be able
+to identify the correct response for the state of the world. However,
+we do not exclude these strategies from consideration because they are
+logically possible strategies.</p>
+
+<p>
+How many sender strategies are there? Because we allow for the
+possibility of the same signal to be sent for multiple states of the
+world, there are two choices for which signal to send given state
+\(S_1\) and two choices for which signal to send given state \(S_2\).
+This means there are four possible sender strategies. These strategies
+are as follows (where \(\mathrm{`}X \rightarrow Y\text{'}\) means that
+when the state of the world is \(X\) the sender will send signal
+\(Y)\):</p>
+
+<blockquote>
+<strong>Sender 1: </strong> \(S_1 \rightarrow \sigma_1, S_2
+\rightarrow \sigma_1\).
+<br />
+<strong>Sender 2: </strong> \(S_1 \rightarrow \sigma_1, S_2
+\rightarrow \sigma_2\).
+<br />
+<strong>Sender 3: </strong> \(S_1 \rightarrow \sigma_2, S_2
+\rightarrow \sigma_1\).
+<br />
+<strong>Sender 4: </strong> \(S_1 \rightarrow \sigma_2, S_2
+\rightarrow \sigma_2\).
+</blockquote>
+
+<p>
+What is a strategy for a receiver? Here, it proves useful to deviate
+from Lewis&rsquo;s original definition of the &ldquo;audience&rsquo;s
+contingency plan&rdquo;. Instead, let us take a receiver&rsquo;s
+strategy to be a function from the set of signals into the set of
+responses. As in the case of the sender, we allow the receiver to
+perform the same response for more than one signal. By symmetry, this
+means there are \(\mathbf{4}\) possible receiver strategies. These
+receiver strategies are:</p>
+
+<blockquote>
+<strong>Receiver 1: </strong> \(\sigma_1 \rightarrow r_1, \sigma_2
+\rightarrow r_1\).
+<br />
+<strong>Receiver 2: </strong> \(\sigma_1 \rightarrow r_1, \sigma_2
+\rightarrow r_2\).
+<br />
+<strong>Receiver 3: </strong> \(\sigma_1 \rightarrow r_2, \sigma_2
+\rightarrow r_1\).
+<br />
+<strong>Receiver 4: </strong> \(\sigma_1 \rightarrow r_2, \sigma_2
+\rightarrow r_2\).
+</blockquote>
+
+<p>
+If the roles of Sender and Receiver are permanently assigned to
+individuals &mdash; as Lewis envisaged &mdash; then there are only two
+signaling systems: \(\langle\)Sender 2, Receiver 2\(\rangle\) and
+\(\langle\)Sender 3, Receiver 3\(\rangle\). All other possible
+combinations of strategies result in the players failing to
+coordinate. The coordination failure occurs because the Sender and
+Receiver only pair the appropriate action with the state of the world
+in one instance, as with \(\langle\)Sender 1, Receiver 1\(\rangle\),
+or not at all, as with \(\langle\)Sender 2, Receiver 3\(\rangle\).</p>
+
+<p>
+What if the roles of Sender and Receiver are not permanently assigned
+to individuals? That is, what if nature flips a coin and assigns one
+player to the role of Sender and the other player to the role of
+Receiver, and then has them play the game? In this case, a
+player&rsquo;s strategy needs to specify what he will do when assigned
+the role of Sender, as well as what he will do when assigned the role
+of Receiver. Since there are four possible strategies to use as Sender
+and four possible strategies to use as Receiver, this means that there
+are a total of \(\mathbf{16}\) possible strategies for the
+sender-receiver game when roles are not permanently assigned to
+individuals. Here, a player&rsquo;s strategy consists of an ordered
+pair (Sender \(X\), Receiver \(Y)\), where \(X, Y \in \{1, 2, 3,
+4\}\).</p>
+
+<p>
+It makes a difference whether one considers the roles of Sender and
+Receiver to be permanently assigned or not. If the roles are assigned
+at random, there are four signaling systems amongst two
+ players<sup>[<a href="notes.html#note-12" id="ref-12">12</a>]</sup>:</p>
+ 
+<ol>
+
+<li><strong>Player 1: </strong> (Sender 2, Receiver 2), <strong>Player
+2: </strong> (Sender 2, Receiver 2)</li>
+
+<li><strong>Player 1: </strong> (Sender 3, Receiver 3), <strong>Player
+2: </strong> (Sender 3, Receiver 3)</li>
+
+<li><strong>Player 1: </strong> (Sender 2, Receiver 3), <strong>Player
+2: </strong> (Sender 3, Receiver 2)</li>
+
+<li><strong>Player 1: </strong> (Sender 3, Receiver 2), <strong>Player
+2: </strong> (Sender 2, Receiver 3)</li>
+</ol>
+
+<p>
+Signaling systems 3 and 4 are curious. System 3 is a case where, for
+example, I speak in French but listen in German, and you speak German
+but listen in French. (System 4 swaps French and German for both you
+and me.) Notice that in systems 3 and 4 the players are able to
+correctly coordinate the response with the state of the world
+<em>regardless</em> of who gets assigned the role of Sender or
+Receiver.</p>
+
+<p>
+The problem, of course, with signaling systems 3 and 4 is that neither
+Player 1 nor Player 2 would do well when pitted against a clone of
+himself. They are cases where the signaling system would not work in a
+population of players who are pairwise randomly assigned to play the
+sender-receiver game. In fact, it is straightforward to show that the
+strategies (Sender 2, Receiver 2) and (Sender 3, Receiver 3) are the
+only evolutionarily stable strategies (see Skyrms 1996,
+89&ndash;90).</p>
+
+<p>
+As a first approach to the dynamics of sender-receiver games, let us
+restrict attention to the four strategies (Sender 1, Receiver 1),
+(Sender 2, Receiver 2), (Sender 3, Receiver 3), and (Sender 4,
+Receiver 4). Figure 16 illustrates the state space under the
+continuous replicator dynamics for the sender-receiver game consisting
+of two states of the world, two signals, and two responses, where
+players are restricted to using one of the previous four strategies.
+One can see that evolution leads the population in almost all
+ cases<sup>[<a href="notes.html#note-13" id="ref-13">13</a>]</sup>
+ to converge to one of the two signaling
+ systems.<sup>[<a href="notes.html#note-14" id="ref-14">14</a>]</sup></p>
+ 
+<div class="figure avoid-break">
+
+<table class="cellpad-med-dense cell-center">
+<tbody>
+<tr>
+  <td>
+<img alt="image" src="sr-N2-fig01.gif" width="275" />
+</td>
+  <td>
+<img alt="image" src="sr-N2-fig02.gif" width="275" />
+</td> </tr>
+<tr>
+  <td colspan="2">
+<img alt="image" src="sr-N2-fig03.gif" width="275" />
+</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Figure 16:</span> The evolution of signaling
+systems.</p>
+</div>
+
+<p>
+Figure 17 illustrates the outcome of one run of the replicator
+dynamics (for a single population model) where all sixteen possible
+strategies are represented. We see that eventually the population, for
+this particular set of initial conditions, converges to one of the
+pure Lewisian signalling systems identified above.</p>
+
+<div class="figure avoid-break">
+<img alt="A graph of Frequency in population vs Time with several curves in different colors. All start with frequency under 0.2 at time 0 and all but one hit frequency 0 by time 75. The other curves stays low until time 35 and then rises sharply, asymptotically towards 1.0 by time 75." src="sender-receiver-1.gif" width="550" />
+
+<p class="center">
+<span class="figlabel">Figure 17:</span> The evolution of a signalling
+system under the replicator dynamics.</p>
+</div>
+
+<p>
+When the number of states of the world, the number of signals, and the
+number of actions increase from 2, the situation rapidly becomes much
+more complex. If there are \(N\) states of the world, \(N\) signals,
+and \(N\) actions, the total number of possible strategies equals
+\(N^{2N}\). For \(N=2\), this means there are 16 possible strategies,
+as we have seen. For \(N=3\), there are 729 possible strategies, and a
+signalling problem where \(N=4\) has 65,536 possible strategies. Given
+this, one might think that it would prove difficult for evolution to
+settle upon an optimal signalling system.</p>
+
+<p>
+Such an intuition is correct. Hofbauer and Hutteger (2008) show that,
+quite often, the replicator dynamics will converge to a suboptimal
+outcome in signalling games. In these suboptimal outcomes, a
+<em>pooling</em> or <em>partial pooling</em> equilibrium will emerge.
+A pooling equilibrium occurs when the Sender uses the same signal
+regardless of the state of the world. A partial pooling equilibrium
+occurs when the Sender is capable of differentiating between some
+states of the world but not others. As an example of a partial pooling
+equilibrium, consider the following strategies for the case where
+\(N=3\): Suppose that the Sender sends signal 1 in state of the world
+1, and signal 2 in states of the world 2 and 3. Furthermore, suppose
+that the Receiver performs action 1 upon receipt of signal 1, and
+action 2 upon receipt of signals 2 and 3. If all states of the world
+are equiprobable, this is a partial pooling equilibrium. Given that
+the Sender does not differentiate states of the world 2 and 3, the
+Receiver cannot improve his payoffs by responding differently to
+signal 2. Given the particular response behaviour of the Receiver, the
+Sender cannot improve her payoffs by attempting to differentiate
+states of the world 2 and 3.</p>
+
+<h2 id="PhilProbEvolGameTheo">6. Philosophical Problems of Evolutionary Game Theory</h2> The growing interest among social scientists and
+philosophers in evolutionary game theory has raised several
+philosophical questions, primarily stemming from its application to
+human subjects.
+
+<h3 id="MeanFitnCultEvolInte">6.1 The meaning of fitness in cultural evolutionary interpretations</h3>
+
+<p>
+As noted previously, evolutionary game theoretic models may often be
+given both a biological and a cultural evolutionary interpretation. In
+the biological interpretation, the numeric quantities which play a
+role analogous to &ldquo;utility&rdquo; in traditional game theory
+correspond to the fitness (typically Darwinian fitness) of
+ individuals.<sup>[<a href="notes.html#note-15" id="ref-15">15</a>]</sup>
+ How does one interpret &ldquo;fitness&rdquo; in the cultural
+evolutionary interpretation?</p>
+
+<p>
+In many cases, fitness in cultural evolutionary interpretations of
+evolutionary game theoretic models directly measures some objective
+quantity of which it can be safely assumed that (1) individuals always
+want more rather than less and (2) interpersonal comparisons are
+meaningful. Depending on the particular problem modeled, money, slices
+of cake, or amount of land would be appropriate cultural evolutionary
+interpretations of fitness. Requiring that fitness in cultural
+evolutionary game theoretic models conform to this interpretative
+constraint severely limits the kinds of problems that one can address.
+A more useful cultural evolutionary framework would provide a more
+general theory which did not require that individual fitness be a
+linear (or strictly increasing) function of the amount of some real
+quantity, like amount of food.</p>
+
+<p>
+In traditional game theory, a strategy&rsquo;s fitness was measured by
+the expected utility it had for the individual in question. Yet
+evolutionary game theory seeks to describe individuals of limited
+rationality (commonly known as &ldquo;boundedly rational&rdquo;
+individuals), and the utility theory employed in traditional game
+theory assumes highly rational individuals. Consequently, the utility
+theory used in traditional game theory cannot simply be carried over
+to evolutionary game theory. One must develop an alternate theory of
+utility/fitness, one compatible with the bounded rationality of
+individuals, that is sufficient to define a utility measure adequate
+for the application of evolutionary game theory to cultural
+evolution.</p>
+
+<h3 id="ExplIrreEvolGameTheo">6.2 The explanatory irrelevance of evolutionary game theory</h3>
+
+<p>
+Another question facing evolutionary game theoretic explanations of
+social phenomena concerns the kind of explanation it seeks to give.
+Depending on the type of explanation it seeks to provide, are
+evolutionary game theoretic explanations of social phenomena
+irrelevant or mere vehicles for the promulgation of pre-existing
+values and biases? To understand this question, recognize that one
+must ask whether evolutionary game theoretic explanations target the
+etiology of the phenomenon in question, the persistence of the
+phenomenon, or various aspects of the normativity attached to the
+phenomenon. The latter two questions seem deeply connected, for
+population members typically enforce social behaviors and rules having
+normative force by sanctions placed on those failing to comply with
+the relevant norm; and the presence of sanctions, if suitably strong,
+explains the persistence of the norm. The question regarding a
+phenomenon&rsquo;s etiology, on the other hand, can be considered
+independent of the latter questions.</p>
+
+<p>
+If one wishes to explain how some currently existing social phenomenon
+came to be, it is unclear why approaching it from the point of view of
+evolutionary game theory would be particularily illuminating. The
+etiology of any phenomenon is a unique historical event and, as such,
+can only be discovered empirically, relying on the work of
+sociologists, anthropologists, archaeologists, and the like. Although
+an evolutionary game theoretic model may exclude certain historical
+sequences as possible histories (since one may be able to show that
+the cultural evolutionary dynamics preclude one sequence from
+generating the phenomenon in question), it seems unlikely that an
+evolutionary game theoretic model would indicate a unique historical
+sequence suffices to bring about the phenomenon. An empirical inquiry
+would then still need to be conducted to rule out the extraneous
+historical sequences admitted by the model, which raises the question
+of what, if anything, was gained by the construction of an
+evolutionary game theoretic model in the intermediate stage. Moreover,
+even if an evolutionary game theoretic model indicated that a single
+historical sequence was capable of producing a given social
+phenomenon, there remains the important question of why we ought to
+take this result seriously. One may point out that since nearly any
+result can be produced by a model by suitable adjusting of the
+dynamics and initial conditions, all that the evolutionary game
+theorist has done is provide one such model. Additional work needs to
+be done to show that the underlying assumptions of the model (both the
+cultural evolutionary dynamics and the initial conditions) are
+empirically supported. Again, one may wonder what has been gained by
+the evolutionary model&mdash;would it not have been just as easy to
+determine the cultural dynamics and initial conditions beforehand,
+constructing the model afterwards? If so, it would seem that the
+contributions made by evolutionary game theory in this context simply
+are a proper part of the parent social science&mdash;sociology,
+anthropology, economics, and so on. If so, then there is nothing
+<em>particular</em> about evolutionary game theory employed in the
+explanation, and this means that, contrary to appearances,
+evolutionary game theory is really irrelevant to the given
+explanation.</p>
+
+<p>
+If evolutionary game theoretic models do not explain the etiology of a
+social phenomenon, presumably they explain the persistence of the
+phenomenon or the normativity attached to it. Yet we rarely need an
+evolutionary game theoretic model to identify a particular social
+phenomenon as stable or persistent as that can be done by observation
+of present conditions and examination of the historical records; hence
+the charge of irrelevancy is raised again. Moreover, most of the
+evolutionary game theoretic models developed to date have provided the
+crudest approximations of the real cultural dynamics driving the
+social phenomenon in question. One may well wonder why, in these
+cases, we should take seriously the stability analysis given by the
+model; answering this question would require one engage in an
+empirical study as previously discussed, ultimately leading to the
+charge of irrelevance again.</p>
+
+<p>
+It is sometimes argued that evolutionary game theoretic models answer
+&ldquo;how possibly&rdquo; questions. That is, an evolutionary game
+theoretic model shows how some phenomenon could possibly be generated
+by an underlying dynamical process of interacting, boundedly rational
+agents. Although this is certainly the case, one might wonder whether
+this subtly shifts the explanatory target. Answering a &ldquo;how
+possibly&rdquo; question is most interesting when we do not know
+whether something is possible at all. The challenge faced by some
+evolutionary game theoretic accounts of social phenomena is that they
+answer a &ldquo;how possibly&rdquo; question regarding something which
+we already knew was possible, because the phenomenon actually exists.
+What we would like to know is how the answer to the &ldquo;how
+possibly&rdquo; question connects to the actual real-world processes
+generating the phenomenon. This suggests that evolutionary game
+theoretic explanations of social phenomena are, even in the best
+cases, <em>incomplete</em>. </p>
+
+<h3 id="ValuLadeEvolGameTheoExpl">6.3 The value-ladenness of evolutionary game theoretic explanations</h3>
+
+<p>
+If one seeks to use an evolutionary game theoretic model to explain
+the normativity attached to a social rule, one must explain how such
+an approach avoids committing the so-called &ldquo;naturalistic
+fallacy&rdquo; of inferring an ought-statement from a conjunction of
+ is-statements.<sup>[<a href="notes.html#note-16" id="ref-16">16</a>]</sup>
+ Assuming that the explanation does not commit such a fallacy, one
+argument charges that it must then be the case that the evolutionary
+game theoretic explanation merely repackages certain key value claims
+tacitly assumed in the construction of the model. After all, since any
+argument whose conclusion is a normative statement must have at least
+one normative statement in the premises, any evolutionary game
+theoretic argument purporting to show how certain norms acquire
+normative force must contain&mdash;at least implicitly&mdash;a
+normative statement in the premises. Consequently, this application of
+evolutionary game theory does not provide a neutral analysis of the
+norm in question, but merely acts as a vehicle for advancing
+particular values, namely those smuggled in the premises.</p>
+
+<p>
+This criticism seems less serious than the charge of irrelevancy.
+Cultural evolutionary game theoretic explanations of norms need not
+&ldquo;smuggle in&rdquo; normative claims in order to draw normative
+conclusions. The theory already contains, in its core, a proper
+subtheory having normative content&mdash;namely a theory of rational
+choice in which boundedly rational agents act in order to maximize, as
+best as they can, their own self-interest. One may challenge the
+suitability of this as a foundation for the normative content of
+certain claims, but this is a different criticism from the above
+charge. Although cultural evolutionary game theoretic models do act as
+vehicles for promulgating certain values, they wear those minimal
+value commitments on their sleeve. Evolutionary explanations of social
+norms have the virtue of making their value commitments explicit and
+also of showing how other normative commitments (such as fair division
+in certain bargaining situations, or cooperation in the
+prisoner&rsquo;s dilemma) may be derived from the principled action of
+boundedly rational, self-interested agents.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging"> 
+
+<!--  <li>Ackley,
+David and Michael Littman (1994). &ldquo;Interactions
+Between Learning and Evolution,&rdquo; in Christopher G. Langton, ed.,
+<em>Artificial Life III</em>. Reading, MA: Addison-Wesley, pp.
+487&ndash;509.</li> --> 
+
+<!--  <li>Adachi,
+N. and Matsuo, K. (1991). &ldquo;Ecological Dynamics Under
+Different Selection Rules in Distributed and Iterated Prisoner&rsquo;s
+Dilemma Games,&rdquo; <em>Parallel Problem Solving From Nature</em>
+(Lecture Notes in Computer Science: Volume 496), Berlin:
+Springer-Verlag, pp. 388&ndash;394.</li> -->
+
+<li>Akin, Ethan (1980). &ldquo;Domination or
+equilibrium,&rdquo; <em>Mathematical Biosciences</em>, vol. 50(3-4):
+239&ndash;250.</li>
+
+<li>Alexander, J. McKenzie (2000). &ldquo;Evolutionary
+Explanations of Distributive Justice,&rdquo; <em>Philosophy of
+Science</em>, 67: 490&ndash;516.</li>
+
+<li>&ndash;&ndash;&ndash; (2007). <em>The Structural
+Evolution of Morality</em>, Cambridge: Cambridge University
+Press.</li>
+
+<li>Alexander, Jason and Brian Skyrms (1999).
+&ldquo;Bargaining with Neighbors: Is Justice Contagious?&rdquo;
+<em>Journal of Philosophy</em>, 96 (11): 588&ndash;598.</li>
+
+<li>Axelrod, R. (1984). <em>The Evolution of
+Cooperation</em>. New York: Basic Books.</li>
+
+<li>&ndash;&ndash;&ndash; (1986). &ldquo;An evolutionary
+approach to norms,&rdquo; <em>American Political Science Review</em>,
+80(4): 1095&ndash;1111.</li> 
+
+<!--  <li>Axelrod,
+Robert M. and Dion, Douglas (1988). &lsquo;The Further
+Evolution of Cooperation&rsquo;, <em>Science</em>, 242 (4884):
+1385&ndash;1390.</li>--> 
+
+<!--  <li>Axelrod,
+Robert M. and Hamilton, William D. (1981). &lsquo;The
+Evolution of Cooperation&rsquo;, <em>Science</em>, 211 (4489):
+1390&ndash;1396.</li>--> 
+
+<!--  <li>Banerjee,
+Abhijit V. and Weibull, Joergen W. (1993).
+&ldquo;Evolutionary Selection with Discriminating Players,&rdquo;
+Working Paper #375, Research Institute of Industrial Economics,
+University of Stockholm.</li> -->
+
+<li>Barrett, Jeffrey A. (2007). &ldquo;Dynamic
+Partitioning and the Conventionality of Kinds,&rdquo; <em>Philosophy
+of Science</em>, 74 (4): 527&ndash;546.</li> 
+
+<!--  <li>Bergin,
+J. and Lipman, B. (1996). &ldquo;Evolution with
+State-Dependent Mutations,&rdquo; <em>Econometrica</em>, 64:
+943&ndash;956. </li>-->
+
+<li>Bicchieri, Cristina (1999). &ldquo;Local
+Fairness,&rdquo; <em>Philosophy and Phenomenological Research</em>,
+59(1): 229&ndash;236.</li>
+
+<li>&ndash;&ndash;&ndash; (2006). <em>The Grammar of
+Society</em>, Cambridge: Cambridge University Press.</li> 
+
+<!--  <li>Binmore,
+Ken and Samuelson, Larry (1991). &ldquo;Evolutionary
+Stability in Repeated Games Played By Finite Automata,&rdquo;
+<em>Journal of Economic Theory</em>, 57: 278&ndash;305.</li>-->
+
+<li>Binmore, Ken and Samuelson, Larry (1994). &ldquo;An
+Economist&rsquo;s Perspective on the Evolution of Norms,&rdquo;
+<em>Journal of Institutional and Theoretical Economics</em>, 150 (1):
+45&ndash;63.</li> 
+
+<!-- <li>Bj&ouml;rnerstedt, J. and Weibull, J. (1993). &ldquo;Nash
+Equilibrium and Evolution by Imitation,&rdquo; in Arrow, K. and
+Colombatto, E. (eds.), <em>Rationality in Economics</em>, New York:
+Macmillan.</li>-->
+
+<!-- <li>Blume, L. (1993). &ldquo;The Statistical Mechanics of
+Strategic Interaction,&rdquo; <em>Games and Economic Behaviour</em>,
+5: 387&ndash;424.</li>
+
+<li>Blume, Lawrence E. (1997). &ldquo;Population Games,&rdquo; in W.
+Brian Arthur, Steven N. Durlauf, and David A. Lane (eds.), <em>The
+Economy as an Evolving Complex System II</em> (SFI Studies in the
+Sciences of Complexity: Volume 27), Reading, MA: Addison-Wesley, pp.
+425&ndash;460.</li> -->
+
+<li>Boehm, C. (1982). &ldquo;The evolutionary
+development of morality as an effect of dominance behavior and
+conflict interference,&rdquo; <em>Journal of Social and Biological
+Structures</em>, 5: 413&ndash;421.</li>
+
+<li>B&ouml;gers, Tilman and Sarin, R. (1996).
+&ldquo;Naive Reinforcement and Replicator Dynamics,&rdquo; Working
+Paper, Centre for Economic Learning and Social Evolution, University
+College London.</li> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1997). &ldquo;Learning
+Through Reinforcement and Replicator Dynamics,&rdquo; <em>Journal of
+Economic Theory</em>, 77(1): 1&ndash;14.</li>--> 
+
+<!--  <li>Boyd,
+Robert and Lorberbaum, Jeffrey P. (1987). &ldquo;No Pure
+Strategy is Evolutionarily Stable in the Repeated Prisoner&rsquo;s
+Dilemma Game,&rdquo; <em>Nature</em>, 32(7) (May 7):
+58&ndash;59.</li>-->
+
+<li>Brown, George W. and John von Neumann (1950).
+&ldquo;Solutions of Games by Differential Equations,&rdquo; in
+<em>Contributions to the Theory of Games</em>, Princeton University
+Press.</li> 
+
+<!--  <li>Boylan,
+Richard T. (1991). &ldquo;Laws of Large Numbers for
+Dynamical Systems with Randomly Matched Individuals,&rdquo;
+<em>Journal of Economic Theory</em>, 57: 473&ndash;504.</li>
+
+<li>Busch, Marc L. and Reinhardt, Eric R. (1993). &ldquo;Nice
+Strategies in a World of Relative Gains: The Problem of Co-operation
+under Anarchy,&rdquo; <em>Journal-of-Conflict-Resolution</em>, 37(3):
+427&ndash;445.</li>
+
+<li>Cabrales, A. and Ponti, G. (1996). &ldquo;Implementation,
+Elimination of Weakly Dominated Strategies and Evolutionary
+Dynamics,&rdquo; Working Paper, Centre for Economic Learning and
+Social Evolution, University College London.</li>
+
+<li>Canning, David (1988). &ldquo;Rationality and Game Theory When
+Players are Turing Machines,&rdquo; ST/ICERD Discussion Paper 88/183,
+London: London School of Economics.</li>
+
+<li>Canning, David (1990c). &ldquo;Rationality, Computability and the
+Limits of Game Theory,&rdquo; Economic Theory Discussion Paper Number
+152, Department of Applied Economics, University of Cambridge,
+July.</li>
+
+<li>Canning, David (1992). &ldquo;Rationality, Computability and Nash
+Equilibrium,&rdquo; <em>Econometrica</em>, 60(4):
+877&ndash;888.</li> -->
+
+<li>Chalub, F.A.C.C., Santos, F.C. and J.M. Pacheco
+(2006). &ldquo;The evolution of norms,&rdquo; <em>Journal of
+Theoretical Biology</em>, 241: 233&ndash;240.</li> 
+
+<!--  <li>Cho,
+I.-K. and Kreps, David M. (1987). &ldquo;Signaling Games and
+Stable Equilibria,&rdquo; <em>Quarterly Journal of Economics</em>, 102
+(1): 179&ndash;221.</li>-->
+
+<li>Clemens, Christiane and Thomas Riechmann (2006).
+&ldquo;Evolutionary Dynamics in Public Goods Games,&rdquo;
+<em>Computational Economics</em>, 28: 399&ndash;420.</li> 
+
+<!--  <li>Cowan,
+Robin A. and Miller, John H. (1990). &ldquo;Economic Life
+on a Lattice: Some Game Theoretic Results,&rdquo; Working Paper
+90-010, Economics Research Program, Santa Fe Institute, New
+Mexico.</li> -->
+
+<li>D&rsquo;Arms, Justin (1996). &ldquo;Sex, Fairness,
+and the Theory of Games,&rdquo; <em>Journal of Philosophy</em>, 93
+(12): 615&ndash;627.</li>
+
+<li>&ndash;&ndash;&ndash; (2000). &ldquo;When
+Evolutionary Game Theory Explains Morality, What Does It
+Explain?&rdquo; <em>Journal of Consciousness Studies</em>
+7(1&ndash;2): 296&ndash;299.</li>
+
+<li>D&rsquo;Arms, Justin, Robert Batterman, and
+Krzyzstof G&oacute;rny (1998). &ldquo;Game Theoretic Explanations and
+the Evolution of Justice,&rdquo; <em>Philosophy of Science</em>, 65:
+76&ndash;102.</li> 
+
+<!--  <li>Danielson,
+P. (1992). <em>Artificial Morality: Virtuous Robots for
+Virtual Games</em>, London: Routledge.</li>-->
+
+<li>Danielson, P. (1998). &ldquo;Critical Notice:
+<em>Evolution of the Social Contract</em>,&rdquo; <em>Canadian Journal
+of Philosophy</em>, 28 (4): 627&ndash;652.</li> 
+
+<!--  <li>Dekel,
+Eddie and Scotchmer, Suzanne (1992). &ldquo;On the
+Evolution of Optimizing Behavior,&rdquo; <em>Journal of Economic
+Theory</em>, 57: 392&ndash;406.</li>
+
+<li>Eaton, B. C. and Slade, M. E. (1990). &ldquo;Evolutionary
+Equilibrium in Market Supergames,&rdquo; Discussion Paper 90-30
+(November 1989), Department of Economics, University of British
+Columbia.</li>
+
+<li>Ellingsen, Tore (1997). &ldquo;The Evolution of Bargaining
+Behavior,&rdquo; <em>The Quarterly Journal of Economics</em>, 112 (1):
+581&ndash;602.</li>
+
+<li>Ellison, G. (1993). &ldquo;Learning, Local Interaction and
+Coordination,&rdquo; <em>Econometrica</em>, 61:
+1047&ndash;1071.</li> -->
+
+<li>Enquist, Magnus and Stefano Ghirlanda (2007).
+&ldquo;Evolution of Social Learning Does Not Explain the Origin of
+Human Cumulative Culture,&rdquo; <em>Journal of Theoretical
+Biology</em>, 246: 129&ndash;135.</li>
+
+<li>Enquist, M., Ghirlanda, S., Jarrick, A., and
+Wachtmeister, C. A. (2008). &ldquo;Why Does Human Culture Increase
+Exponentially?&rdquo; <em>Theoretical Population Biology</em>, 74:
+46&ndash;55.</li> 
+
+<!--  <li>Epstein,
+Joshua A. (1998). &ldquo;Zones of Cooperation in
+Demographic Prisoner&rsquo;s Dilemma,&rdquo; <em>Complexity</em>, 4
+(2): 36&ndash;48.</li>
+
+<li>Eshel, Ilan, Larry Samuelson, and Avner Shaked (1998).
+&ldquo;Altruists, Egoists, and Hooligans in a Local Interaction
+Model,&rdquo; <em>The American Economic Review</em>, 88 (1):
+157&ndash;179.</li>-->
+
+<li>Fishman, Michael A. (2006). &ldquo;Involuntary
+defection and the evolutionary origins of empathy,&rdquo; <em>Journal
+of Theoretical Biology</em>, 242: 873&ndash;879.</li>
+
+<li>Fisher, R. A. (1930). <em>The Genetic Theory of
+Natural Selection</em>, Oxford, Clarendon Press.</li>
+
+<li>Fletcher, Jeffrey A. and Martin Zwick (2007).
+&ldquo;The evolution of altruism: Game theory in multilevel selection
+and inclusive fitness,&rdquo; <em>Journal of Theoretical Biology</em>,
+245: 26&ndash;36.</li> 
+
+<!--  <li>Fogel,
+David B. (1993). &ldquo;Evolving Behaviours in the Iterated
+Prisoner&rsquo;s Dilemma,&rdquo; <em>Evolutionary Computation</em>, 1
+(1): 77&ndash;97.</li>
+
+<li>Forrest, Stephanie and Mayer-Kress, G. (1991). &ldquo;Genetic
+Algorithms, Nonlinear Dynamical Systems, and Global Stability
+Models,&rdquo; in L. Davis, (ed.), <em>The Handbook of Genetic
+Algorithms</em>, New York: Van Nostrand Reinhold.</li>
+
+<li>Foster, Dean and Young, H. Peyton (1990). &ldquo;Stochastic
+Evolutionary Game Dynamics,&rdquo; <em>Journal of Theoretical
+Biology</em>, 38: 219&ndash;232.</li>--> 
+
+<!--  <li>Friedman,
+Daniel (1991). &ldquo;Evolutionary Games in
+Economics,&rdquo; <em>Econometrica</em>, 59 (3):
+637&ndash;666.</li>--> 
+
+<!--  <li>Fudenberg,
+Drew and Maskin, Eric (1990). &ldquo;Evolution and
+Cooperation in Noisy Repeated Games,&rdquo; <em>American Economic
+Review (Papers and Proceedings)</em>, 80 (2):
+274&ndash;279.</li>-->
+
+<li>Gintis, Herbert (2000). &ldquo;Classical Versus
+Evolutionary Game Theory,&rdquo; <em>Journal of Consciousness
+Studies</em>, 7 (1&ndash;2): 300&ndash;304.</li>
+
+<li>&ndash;&ndash;&ndash; (2007). &ldquo;The evolution
+of private property,&rdquo; <em>Journal of Economic Behavior &amp;
+Organization</em>, 64: 1&ndash;16.</li>
+
+<li>&ndash;&ndash;&ndash; (2009). <em>Game Theory
+Evolving</em>, Princeton University Press.</li>
+
+<li>Gintis, Herbert, Samuel Bowles, Robert Boyd and
+Ernst Fehr (2003). &ldquo;Explaining altruistic behavior in
+humans,&rdquo; <em>Evolution and Human Behavior</em>, 24:
+153&ndash;172.</li> 
+
+<!--  <li>Guth,
+Werner and Kliemt, Hartmut (1994). &ldquo;Competition or
+Co-operation &#65533;&#148; On the Evolutionary Economics of Trust,
+Exploitation and Moral Attitudes,&rdquo; <em>Metroeconomica</em>, 45:
+155&ndash;187.</li>--> 
+
+<!--  <li>Guth,
+Werner and Kliemt, Hartmut (1998). &ldquo;The Indirect
+Evolutionary Approach: Bridging the Gap Between Rationality and
+Adaptation,&rdquo; <em>Rationality and Society</em>, 10 (3):
+377&ndash;399.</li>--> 
+
+<!--  <li>Hamilton,
+W. D. (1963). &ldquo;The Evolution of Altruistic
+Behavior,&rdquo; <em>The American Naturalist</em>, 97:
+354&ndash;356.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1964). &ldquo;The
+Genetical Evolution of Social Behavior. I,&rdquo; <em>Journal of
+Theoretical Biology</em>, 7: 1&ndash;16.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1964). &ldquo;The
+Genetical Evolution of Social Behavior. II,&rdquo; <em>Journal of
+Theoretical Biology</em>, 7: 17&ndash;52.</li>--> 
+
+<!--  <li>Hammerstein,
+P. and Selten, R. (1994). &ldquo;Game Theory and
+Evolutionary Biology,&rdquo; in R. Auman and S. Hart (eds.),
+<em>Handbook of Game Theory with Economic Applications</em> (Volume
+2), Amsterdam: Elsevier Science, pp. 931&ndash;962.</li>-->
+
+<li>Hargreaves Heap, Shaun P. and Varoufakis, Yanis
+(2004). <em>Game Theory: A Critical Text</em>, Routledge.</li> 
+
+<!--  <li>Hansen,
+R. G. and Samuelson, W. F. (1988). &ldquo;Evolution in
+Economic Games,&rdquo; <em>Journal of Economic Behavior and
+Organization</em>, 10 (3): 315&ndash;338.</li>
+
+<li>Harms, William (1997). &ldquo;Evolution and Ultimatum
+Bargaining,&rdquo; <em>Theory and Decision</em>, 42:
+147&ndash;175.</li>-->
+
+<li>Harms, William (2000). &ldquo;The Evolution of
+Cooperation in Hostile Environments,&rdquo; <em>Journal of
+Consciousness Studies</em>, 7 (1&ndash;2): 308&ndash;313.</li>
+
+<li>Harms, William and Brian Skyrms (2008).
+&ldquo;Evolution of Moral Norms,&rdquo; in <em>The Oxford Handbook of
+Philosophy of Biology</em>, Oxford: Oxford University Press.</li>
+
+<li>Harsanyi, J. (1953). &ldquo;Cardinal Utility in
+Welfare Economics and the Theory of Risk Taking,&rdquo; <em>Journal of
+Political Economy</em>, 61: 434&ndash;435.</li> 
+
+<!--  <li>Harrald,
+Paul G. (in press). &ldquo;Evolving Behaviour in Repeated
+Games via Genetic Algorithms,&rdquo; in P. Stampoultzsis (ed.),
+<em>The Applications Handbook of Genetic Algorithms</em>, Boca Raton,
+FA: CRC Publishers.</li>
+
+<li>Hassell, Michael P., Hugh N. Comins, and Robert M. May (1991).
+&ldquo;Spatial structure and chaos in insect population
+dynamics,&rdquo; <em>Nature</em>, 353: 255&ndash;258.</li> -->
+
+<li>Hauert, Christoph (2006). &ldquo;Spatial Effects in
+Social Dilemmas,&rdquo; <em>Journal of Theoretical Biology</em>, 240:
+627&ndash;636.</li>
+
+<li>Hauert, Christoph, Franziska Michor, Martin A.
+Nowak, and Michael Doebeli (2006). &ldquo;Synergy and discounting of
+cooperation in social dilemmas,&rdquo; <em>Journal of Theoretical
+Biology</em>, 239: 195&ndash;202.</li>
+
+<li>Hauert, Christoph, Silvia De Monte, Josef Hofbauer
+and Karl Sigmund (2002). &ldquo;Replicator Dynamics for Optional
+Public Goods Games,&rdquo; <em>Journal of Theoretical Biology</em>,
+218: 187&ndash;194.</li>
+
+<li>Hausken, Kjell, and Jack Hirshleifer (2008).
+&ldquo;Truthful Signalling, the Heritability Paradox, and the
+Malthusian Equi-Marginal Principle,&rdquo; <em>Theoretical Population
+Biology</em>, 73: 11&ndash;23.</li> 
+
+<!--  <li>Hegselmann,
+Rainer (1996). &ldquo;Social Dilemmas in Lineland and
+Flatland,&rdquo; in Liebrand and Messick (eds.), <em>Frontiers in
+Social Dilemmas Research</em>, Berlin: Springer, pp.
+337&ndash;361.</li>
+
+<li>Hiebeler, David (1997). &ldquo;Stochastic Spatial Models: From
+Simulations to Mean Field and Local Structure Approximations,&rdquo;
+<em>Journal of Theoretical Biology</em>, 187:
+307&ndash;319.</li>--> 
+
+<!--  <li>Hines,
+W. G. (1987). &ldquo;Evolutionary Stable Strategies: A
+Review of Basic Theory,&rdquo; <em>Theoretical Population
+Biology</em>, 31: 195&ndash;272.</li>--> 
+
+<!--  <li>Hirshleifer,
+Jack and Martinez-Coll, Juan Carlos (1988).
+&ldquo;What Strategies can Support the Evolutionary Emergence of
+Cooperation?,&rdquo;</span> <em>Journal of Conflict Resolution</em>,
+32 (2): 367&ndash;398.</li>--> 
+
+<!--  <li>Hirshleifer,
+Jack and Martinez-Coll, Juan Carlos (1992).
+&ldquo;Selection, Mutation and the Preservation of Diversity in
+Evolutionary Games,&rdquo; Papers on Economics and Evolution, #9202,
+edited by the European Study Group for Evolutionary Economics.</li>-->
+
+
+<!--  <li>Howard,
+J. V. (1988). &ldquo;Cooperation in the Prisoner&rsquo;s
+Dilemma,&rdquo; <em>Theory and Decision</em>, 24:
+203&ndash;213.</li>-->
+
+<li>Hofbauer, Josef and Simon Huttegger (2008).
+&ldquo;Feasibility of Communication in Binary Signaling Games,&rdquo;
+<em>Journal of Theoretical Biology</em>, 254: 843&ndash;849.</li>
+
+<li>Hofbauer, Josef, P. Schuster and K. Sigmund (1979).
+&ldquo;A note on evolutionary stable strategies and game
+dynamics&rdquo;. <em>Journal of Theoretical Biology</em>,
+81:609&ndash;12.</li>
+
+<li>Hofbauer, Josef P. and William H. Sandholm (2011).
+&ldquo;Survival of dominated strategies under evolutionary
+dynamics&rdquo;. <em>Theoretical Economics</em>, 6:341&ndash;377.</li>
+
+<li>Huberman, Bernardo A. and Glance, Natalie S. (1993).
+&ldquo;Evolutionary Games and Computer Simulations,&rdquo;
+<em>Proceedings of the National Academy of Sciences of the USA</em>,
+90 (16): 7716&ndash;7718.</li> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1995). &ldquo;The
+Dynamics of Collective Action,&rdquo; <em>Computational
+Economics</em>, 8: 27&ndash;46.</li>-->
+
+<li>Hurd, Peter L. (1995). &ldquo;Communication in
+Discrete Action-Response Games,&rdquo; <em>Journal of Theoretical
+Biology</em>, 174: 217&ndash;222.</li> 
+
+<!--  <li>Ikegami,
+Takashi (1993). &ldquo;Ecology of Evolutionary Game
+Strategies,&rdquo; in <em>Self Organization and Life: From Simple
+Rules to Global Complexity</em> (Proceedings of the Second European
+Conference on Artificial Life, Brussels, Belgium 24&ndash;26
+May 1993), Cambridge, MA: MIT Press, pp. 527&ndash;536.</li>-->
+
+<li>J&auml;ger, Gerhard (2008). &ldquo;Evolutionary
+Stability Conditions for Signaling Games with Costly Signals,&rdquo;
+<em>Journal of Theoretical Biology</em>, 253: 131&ndash;141.</li>
+
+<li>Kameda, Tatsuya and Daisuke Nakanishi (2003).
+&ldquo;Does social/cultural learning increase human adaptability?
+Rogers&rsquo;s question revisited,&rdquo; <em>Evolution and Human
+Behavior</em>, 24: 242&ndash;260.</li> 
+
+<!--  <li>Kandori,
+Michihiro, George J. Mailath, and Rafael Rob (1993).
+&ldquo;Learning, Mutation, and Long Run Equilibria in Games,&rdquo;
+<em>Econometrica</em>, 61(1): 29&ndash;56.</li>-->
+
+<li>Kendal, Jeremy, Marcus W. Feldman, and Kenichi Aoki
+(2006). &ldquo;Cultural coevolution of norm adoption and enforcement
+when punishers are rewarded or non-punishers are punished,&rdquo;
+<em>Theoretical Population Biology</em>, 70: 10&ndash;25.</li> 
+
+<!--  <li>Kreps,
+David M. (1990). <em>Game Theory and Economic
+Modelling</em>, Oxford: Clarendon Press.</li>--> 
+
+<!--  <li>Kreps,
+David M. and Fudenberg, Drew (1988). <em>Learning,
+Experimentation, and Equilibrium in Games</em>, Cambridge, MA: MIT
+Press.</li>--> 
+
+<!--  <li>Iwasa,
+Yoh, Mayuko Nakamaru, and Simon A. Levin (1998).
+
+&ldquo;Allelopathy of bacteria in a lattice population: Competition
+between colicin-sensitive and colicin-producing strains,&rdquo;
+<em>Evolutionary Ecology</em>, 12: 785&ndash;802.</li>--> 
+
+<!--  <li>Kaneko,
+Kunihiko and Junji Suzuki (1994). &ldquo;Evolution to the
+Edge of Chaos in an Imitation Game,&rdquo; in Christopher G. Langton
+(ed.), <em>Artificial Life III</em>, Reading, MA: Addison-Wesley, pp.
+43&ndash;53.</li>--> 
+
+<!--  <li>Kephart,
+Jeffrey O. (1994). &ldquo;How Topology Affects Population
+Dynamics,&rdquo; in Christopher G. Langton (ed.), <em>Artificial Life
+III</em>, Reading, MA: Addison-Wesley, pp. 447&ndash;463.</li>-->
+
+<li>Kitcher, Philip (1999). &ldquo;Games Social Animals
+Play: Commentary on Brian Skyrms&rsquo; <em>Evolution of the Social
+Contract</em>,&rdquo; <em>Philosophy and Phenomenological
+Research</em>, 59(1): 221&ndash;228.</li>
+
+<li>Krebs, Dennis (2000). &ldquo;Evolutionary Games and
+Morality,&rdquo; <em>Journal of Consciousness Studies</em>, 7
+(1&ndash;2): 313&ndash;321.</li> 
+
+<!--  <li>Levin,
+B. R. (1988). &ldquo;Frequency-dependent selection in
+bacterial populations,&rdquo; <em>Philosophical Transactions of the
+Royal Society of London</em> (Series B), 319:
+469&ndash;472.</li> -->
+
+<li>Lewis, David (1969). <em>Convention</em>, Blackwell
+Publishers.</li>
+
+<li>Lewontin, R.&nbsp;C. (1961). &ldquo;Evolution and
+the Theory of Games&rdquo; <em>Journal of Theoretical Biology</em>, 1:
+382&ndash;403.</li> 
+
+<!--  <li>Liebrand,
+Wim B. G. and Messick, David M. (eds.) (1996).
+<em>Frontiers in Social Dilemmas Research</em>, Berlin:
+Springer-Verlag.</li>--> 
+
+<!--  <li>Lindgren,
+Kristian (1990). &ldquo;Evolution in a Population of
+Mutating Strategies,&rdquo; Preprint 90/22 S, Copenhagen: Nordic
+Institute for Theoretical Physics.</li>--> 
+
+<!--  <li>Lindgren,
+Kristian and Nordahl, Mats G. (1993).
+&ldquo;Evolutionary Dynamics of Spatial Games,&rdquo; in <em>Self
+Organization and Life: From Simple Rules to Global Complexity</em>
+(Proceedings of the Second European Conference on Artificial Life,
+Brussels, Belgium 24&ndash;26 May 1993), Cambridge, MA: MIT
+Press, pp. 604&ndash;616.</li>--> 
+
+<!--  <li>Lindgren,
+Kristian and Mats G. Nordahl (1994). &ldquo;Evolutionary
+dynamics of spatial games,&rdquo; <em>Physica D</em>, 75:
+292&ndash;309.</li>--> 
+
+<!--  <li>Lindgren,
+K. (1991). &ldquo;Evolutionary phenomena in simple
+dynamics,&rdquo; in C.G. Langton, J.D. Farmer, S. Rasmussen, and C.
+Taylor (eds.), <em>Artificial Life II</em>, Redwood City, CA:
+Addison-Wesley, pp. 295&ndash;312.</li>--> 
+
+<!--  <li>Lomborg,
+Bjorn (1992). &ldquo;Cooperation in the Iterated
+Prisoner&rsquo;s Dilemma,&rdquo; Papers on Economics and Evolution,
+#9302, edited by the European Study Group for Evolutionary
+Economics.</li>--> 
+
+<!--  <li>Lomborg,
+Bjorn (1996). &ldquo;Nucleus and Shield: The Evolution of
+Social Structure in the Interated Prisoner&rsquo;s Dilemma,&rdquo;
+<em>American Sociological Review</em>, 61: 278&ndash;307.</li>
+
+<li>Macy, Michael (1989). &ldquo;Walking Out of Social Traps: A
+Stochastic Learning Model for the Prisoner&rsquo;s Dilemma,&rdquo;
+<em>Rationality and Society</em>, 1 (2): 197&ndash;219.</li>
+-->
+
+<li>Luce, R. Duncan and Howard Raiffa (1957). <em>Games
+and Decisions: Introduction and Critical Survey</em>, New York: John
+Wiley and Sons.</li> 
+
+<!--  <li>Mailath,
+George J. (1992). &ldquo;Introduction: Symposium on
+Evolutionary Game Theory,&rdquo; <em>Journal of Economic Theory</em>,
+57: 259&ndash;277.</li>--> 
+
+<!--  <li>Mailath,
+George J., Samuelson, Larry and Shaked, Avner (1992).
+&ldquo;Evolution and Endogenous Interaction,&rdquo; Draft Paper,
+Department of Economics, University of Pennsylvania, latest version 24
+August 1995.</li>--> 
+
+<!--  <li>Matsui,
+Akihiko (1993). &ldquo;Evolution and
+Rationalizability,&rdquo; Working Paper: 93&ndash;19 (May
+1993), Center for Analytic Research in Economics and the Social
+Sciences (CARESS), University of Pennsylvania.</li>--> 
+
+<!--  <li>Mar,
+Gary (2000). &ldquo;Evolutionary Game Theory, Morality, and
+Darwinism&rdquo; <em>Journal of Consciousness Studies</em>, 7
+(1&ndash;2): 322&ndash;326.</li>--> 
+
+<!--  <li>May,
+R. M., Bohoeffer, S. and Nowak, Martin A. (1995).
+&ldquo;Spatial Games and the Evolution of Cooperation,&rdquo; in F.
+Moran, A. Moreno, J.J. Merelo and P. Chacon, P. (eds.), <em>Advances
+in Artificial Life: Proceedings of the Third European Conference on
+Artificial Life (ECAL95)</em>, Berlin: Sprnger-Verlag, pp.
+749&ndash;759.</li>-->
+
+<li>Maynard Smith, John (1972). &ldquo;Game Theory and
+the Evolution of Fighting,&rdquo; in <em>On Evolution</em>, Edinburgh
+University Press.</li>
+
+<li>Maynard Smith, John (1976). &ldquo;Evolution and the
+Theory of Games,&rdquo; <em>American Scientist</em>, 64 (1):
+41&ndash;45.</li>
+
+<li>Maynard Smith, John (1982). <em>Evolution and the
+Theory of Games</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Maynard Smith, John and George Price (1973).
+&ldquo;The Logic of Animal Conflict&rdquo; <em>Nature</em>, 146:
+15&ndash;18.</li> 
+
+<!--  <li>Miller,
+John H. (1988). &ldquo;The Evolution of Automata in the
+Repeated Prisoner&rsquo;s Dilemma,&rdquo; in <em>Two Essays on the
+Economics of Imperfect Information</em>, Ph.D. Dissertation,
+Department of Economics, University of Michigan/Ann Arbor.</li>
+
+<li>&ndash;&ndash;&ndash; (1996). &ldquo;The
+Coevolution of Automata in the Repeated Prisoner&rsquo;s
+Dilemma,&rdquo; <em>Journal of Economic Behavior and
+Organization</em>, 29 (1): 87&ndash;112.</li>
+
+<li>Miller, John H. and Shubik, Martin (1994). &ldquo;Some Dynamics of
+a Strategic Market Game with a Large Number of Agents,&rdquo;
+<em>Journal of Economics</em>, 60: 1&ndash;28.</li>
+
+<li>Miller, J. H. and J. Andreoni (1991). &ldquo;Can Evolutionary
+Dynamics Explain Free Riding in Experiments?&rdquo; <em>Economic
+Letters</em>, 36: 9&ndash;15.</li>
+
+<li>Nachbar, John H. (1990). &ldquo;&rsquo;Evolutionary&rsquo;
+Selection Dynamics in Games: Convergence and Limit Properties,&rdquo;
+<em>International Journal of Game Theory</em>, 19:
+59&ndash;89.</li>--> 
+
+<!--  <li>Nachbar,
+John H. (1992). &ldquo;Evolution in the Finitely Repeated
+Prisoner&rsquo;s Dilemma: A Methodological Comment and Some
+Simulations,&rdquo; <em>Journal of Economic Behaviour and
+Organization</em>, 19 (3): 307&ndash;326.</li>-->
+
+<li>Nakahashi, Wataru (2007). &ldquo;The Evolution of
+Conformist Transmission in Social Learning when the Environment
+Changes Periodically,&rdquo; <em>Theoretical Population Biology</em>,
+72: 52&ndash;66.</li> 
+
+<!--  <li>Neyman,
+A. (1985). &ldquo;Bounded Complexity Justifies Cooperation
+in the Finitely Repeated Prisoner&rsquo;s Dilemma,&rdquo;
+<em>Economics Letters</em>, 19: 227&ndash;229.</li> -->
+
+<li>Nash, John F. (1950). &ldquo;Equilibrium points in
+n-person games,&rdquo; <em>Proceedings of the National Academy of
+Sciences</em>, 36(1):48&ndash;49.</li>
+
+<li>Nowak, Martin A. and May, Robert M. (1992).
+&ldquo;Evolutionary Games and Spatial Chaos,&rdquo; <em>Nature</em>,
+359 (6398): 826&ndash;829.</li>
+
+<li>&ndash;&ndash;&ndash; (1993). &ldquo;The Spatial
+Dilemmas of Evolution,&rdquo; <em>International Journal of Bifurcation
+and Chaos</em>, 3: 35&ndash;78.</li>
+
+<li>Nowak, Martin A., Joshua B. Plotkin, and David C.
+Krakauer (1999). &ldquo;The Evolutionary Language Game,&rdquo;
+<em>Journal of Theoretical Biology</em>, 200: 147&ndash;162.</li> 
+
+<!--  <li>Nowak,
+Martin A. and Sigmund, K. (1992). &ldquo;Tit For Tat in
+Heterogenous Populations,&rdquo; <em>Nature</em>, 359:
+250&ndash;253.</li>--> 
+
+<!--  <li>Nowak,
+Martin A., Sebastian Bonhoeffer, and Robert M. May (1994).
+&ldquo;More Spatial Games,&rdquo; <em>International Journal of
+Bifurcation and Chaos</em>, 4 (1): 33&ndash;56.</li>--> 
+
+<!--  <li>Ockenfels,
+Peter (1993). &ldquo;Cooperation in Prisoner&rsquo;s
+Dilemma&#65533;&#148;An Evolutionary Approach,&rdquo; <em>European
+Journal of Political Economy</em>, 9: 567&ndash;579.</li> -->
+
+<li>Ostrom, Elinor (2000). &ldquo;Collective Action and
+the Evolution of Social Norms,&rdquo; <em>Journal of Economic
+Perspectives</em>, 14 (3): 137&ndash;158.</li>
+
+<li>Page, K. M. and M. A. Nowak (2002). &ldquo;Empathy
+leads to fairness,&rdquo; <em>Bulletin of Mathematical Biology</em>,
+64: 1101&ndash;1116.</li>
+
+<li>Pawlowitsch, C. (2007). &ldquo;Finite populations
+choose an optimal language,&rdquo; <em>Journal of Theoretical
+Biology</em>, 249: 606&ndash;616.</li>
+
+<li>&ndash;&ndash;&ndash; (2008). &ldquo;Why evolution
+does not always lead to an optimal signaling system,&rdquo; <em>Games
+and Economic Behavior</em>, 63: 203&ndash;226.</li> 
+
+<!--  <li>Reijnders,
+L. (1978). &ldquo;On the Applicability of Game Theory
+to Evolution,&rdquo; <em>Journal of Theoretical Biology</em>, 75 (1):
+245&ndash;247.</li>
+
+<li>Robles, J. (1998). &ldquo;Evolution with Changing Mutation
+Rates,&rdquo; <em>Journal of Economic Theory</em>, 79:
+207&ndash;223.&nbsp;</li>
+
+<li>Robson, Arthur J. (1990). &ldquo;Efficiency in Evolutionary Games:
+Darwin, Nash and the Secret Handshake,&rdquo; <em>Journal of
+Theoretical Biology</em>, 144: 379&ndash;396.</li>-->
+
+<li>Rogers, A. R. (1988). &ldquo;Does biology constrain
+culture?&rdquo; <em>American Anthropologist</em>, 90:
+819&ndash;831.</li> 
+
+<!--  <li>Samuelson,
+Larry and J. Zhang (1992). &ldquo;Evolutionary
+Stability in Asymmetric Games,&rdquo; <em>Journal of Economic
+Theory</em>, 57: 363&ndash;391.</li>--> 
+
+<!--  <li>Samuelson,
+Larry (1993). &ldquo;Does Evolution Eliminate Dominated
+Strategies?&rdquo; in Kenneth G. Binmore, A. Kirman, and P. Tani
+(eds.), <em>Frontiers of Game Theory</em>, Cambridge, MA: MIT Press,
+pp. 213&ndash;235.</li>-->
+
+<li>&ndash;&ndash;&ndash; (1997). <em>Evolutionary Games
+and Equilibrium Selection</em>. (Series: Economic Learning and Social
+Evolution), Cambridge, Massachusetts: MIT Press.</li>
+
+<li>S&aacute;nchez, Angel and Jos&eacute; A. Cuesta
+(2005). &ldquo;Altruism may arise from individual selection,&rdquo;
+<em>Journal of Theoretical Biology</em>, 235: 233&ndash;240.</li>
+
+<li>Sandholm, William (2010). <em>Population Games and
+Evolutionary Dynamics</em>, MIT Press.</li>
+
+<li>Schlag, Karl H. (1998). &ldquo;Why Imitate, and If
+So, How? A Boundedly Rational Approach to Multi-armed Bandits,&rdquo;
+<em>Journal of Economic Theory</em>, 78: 130&ndash;156.</li> 
+
+<!--  <li>Schuster,
+P. and Sigmund, K. (1983). &ldquo;Replicator
+Dynamics,&rdquo; <em>Journal of Theoretical Biology</em>, 100 (3):
+533&ndash;538.</li>--> 
+
+<!--  <li>Selten,
+Reinhard (1983). &ldquo;Evolutionary Stability in
+Extensive Two-Person Games,&rdquo; <em>Mathematical Social
+Sciences</em>, 5: 269&ndash;363.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1988).
+&ldquo;Evolutionary Stability in Extensive Two-Person
+Games&#65533;&#148;Correction and Further Development,&rdquo; <em>
+Mathematical Social Sciences</em>, 16 (3):
+223&ndash;266.</li>--> 
+
+<!--  <li>Selten,
+Reinhard (ed.) (1991). <em>Game Equilibrium Models I:
+Evolution and Game Dynamics</em>, New York: Springer-Verlag.</li>-->
+
+
+<!--  <li>Selten,
+Reinhard (1993). &ldquo;Evolution, Learning, and Economic
+Behaviour,&rdquo; <em>Games and Economic Behaviour</em>, 3 (1):
+3&ndash;24.</li>--> 
+
+<!--  <li>Sinclair,
+P. J. N. (1990). &ldquo;The Economics of
+Imitation,&rdquo; <em>Scottish Journal of Political Economy</em>,
+37(2): 113&ndash;144.</li>--> 
+
+<!--  <li>Skyrms,
+Brian (1992). &ldquo;Chaos in Game Dynamics,&rdquo;
+<em>Journal of Logic, Language, and Information</em>, 1:
+111&ndash;130.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1994). &ldquo;Chaos
+and the Explanatory Significance of Equilibrium: Strange Attractors in
+Evolutionary Game Dynamics,&rdquo; in <em>Proceedings of the 1992
+PSA</em> (Volume 2), Philosophy of Science Association, pp.
+374&ndash;394.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1994a). &ldquo;Darwin
+Meets <em>The Logic of Decision</em>: Correlation in Evolutionary Game
+Theory,&rdquo; <em>Philosophy of Science</em>, 61:
+503&ndash;528.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1994b). &ldquo;Sex and
+Justice,&rdquo; <em>Journal of Philosophy</em>, 91:
+305&ndash;320.</li>-->
+
+<li>Skyrms, Brian (1996). <em>Evolution of the Social
+Contract</em>, Cambridge: Cambridge University Press.</li> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1997). &ldquo;Game
+Theory, Rationality and Evolution,&rdquo; in M. L. Dalla Chiara <em>et
+al</em>. (eds.), <em>Structures and Norms in Science</em>, Dordrecht:
+Kluwer Academic Publishers, pp. 73&ndash;85.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1998). &ldquo;Salience
+and symmetry-breaking in the evolution of convention,&rdquo; <em>Law
+and Philosophy</em>, 17: 411&ndash;418.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1999).
+&ldquo;Pr&eacute;cis of <em>Evolution of the Social
+Contract</em>,&rdquo; <em>Philosophy and Phenomenological
+Research</em>, 59 (1): 217&ndash;220.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(2000). &ldquo;Game
+Theory, Rationality and Evolution of the Social Contract,&rdquo;
+<em>Journal of Consciousness Studies</em>, 7 (1&ndash;2):
+269&ndash;284.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(2000). &ldquo;Adaptive
+Dynamic Models and the Social Contract,&rdquo; <em>Journal of
+Consciousness Studies</em>, 7 (1&ndash;2):
+335&ndash;339.</li>-->
+
+<li>&ndash;&ndash;&ndash; (2004). <em>The Stag Hunt and
+the Evolution of Social Structure</em>, Cambridge: Cambridge
+University Press.</li>
+
+<li>&ndash;&ndash;&ndash; (2010). <em>Signals:
+Evolution, Learning, &amp; Information</em>, Oxford University
+Press.</li> 
+
+<!--  <li>Smale,
+Steve (1980). &ldquo;The Prisoner&rsquo;s Dilemma and
+Dynamical Systems Associated to Non-cooperative Games,&rdquo;
+<em>Econometrica</em>, 48: 1617&ndash;1634.</li>-->
+
+<li>Smith, M. J. (1984). &ldquo;The stability of a
+dynamic model of traffic assignment: An application of a method of
+Lyapunov,&rdquo; <em>Transportation Science</em> 18:245&ndash;252.</li> 
+
+<!--  <li>Stanley,
+E. Ann, Dan Ashlock, and Leigh Tesfatsion (1994).
+&ldquo;Iterated Prisoner&rsquo;s Dilemma with Choice and Refusal of
+Partners,&rdquo; in Christopher G. Langton (ed.), <em>Artificial Life
+III</em> (Proceedings of the Workshop on Artificial Life, held June
+1992 in Santa Fe, New Mexico), Reading, MA: Addison-Wesley, pp.
+131&ndash;175.</li>--> 
+
+<!--  <li>Suleiman,
+Ramzi and Ilan Fischer (1996). &ldquo;The Evolution of
+Cooperation in a Simulated Inter-Group Conflict,&rdquo; in Liebrand
+and Messick (eds.), <em>Frontiers in Social Dilemmas Research</em>,
+Berlin: Springer.</li>-->
+
+<li>Swinkels, J. (1992). &ldquo;Evolutionary stability
+with equilibrium entrants,&rdquo; <em>Journal of Economic Theory,</em>
+57:306&ndash;332.</li>
+
+<li>Taylor, Peter D. and Leo B. Jonker (1978).
+&ldquo;Evolutionary Stable Strategies and Game Dynamics,&rdquo;
+<em>Mathematical Biosciences</em>, 40: 145&ndash;156.</li>
+
+<li>Thomas, B. (1984). &ldquo;Evolutionary Stability:
+States and Strategies,&rdquo; <em>Theoretical Population Biology</em>,
+26: 49&ndash;67.</li>
+
+<li>&ndash;&ndash;&ndash; (1985a). &ldquo;Evolutionary
+Stable Sets in Mixed-Strategist Models,&rdquo; <em>Theoretical
+Population Biology</em>, 28: 332&ndash;341.</li>
+
+<li>&ndash;&ndash;&ndash; (1985b). &ldquo;On
+Evolutionary Stable Sets,&rdquo; <em>Journal of Mathematical
+Biology</em>, 22: 105&ndash;115.</li> 
+
+<!--  <li>Tomochi,
+Masaki and Mitsuo Kono (1998). &ldquo;Social Evolution
+Based on Prisoner&rsquo;s Dilemma with Generation Dependent Payoff
+Matrices,&rdquo; <em>Research on Policy Studies</em>, 3:
+79&ndash;91.</li>-->
+
+<li>Trivers, Robert L. (1971). &ldquo;The evolution of
+reciprocal altruism,&rdquo; <em>The Quarterly Review of Biology</em>,
+46: 35&ndash;57.</li> 
+
+<!--  <li>Vanderschraaf,
+Peter (2000). &ldquo;Game Theory, Evolution, and
+Justice,&rdquo; <em>Philosophy and Public Affairs</em>, 28 (4):
+325&ndash;358.</li>--> 
+
+<!--  <li>Vega-Redondo,
+Fernando (1996). <em>Evolution, Games, and Economic
+Behaviour</em>, Oxford: Oxford University Press.</li>--> 
+
+<!--  <li>Vega-Redondo,
+Fernando (1997). &ldquo;The Evolution of Walrasian
+Behavior,&rdquo; <em>Econometrica</em>, 65 (2):
+375&ndash;384.</li>-->
+
+<li>von Neumann, John and Oskar Morgenstern (1953).
+<em>Theory of Games and Economic Behavior</em> (3rd ed.) Princeton:
+Princeton University Press.</li>
+
+<li>Wakano, Joe Yuichiro, Kenichi Aoki and Marcus W.
+Feldman (2004). &ldquo;Evolution of social learning: a mathematical
+analysis,&rdquo; <em>Theoretical Population Biology</em>, 66:
+249&ndash;258.</li>
+
+<li>Wakano, Joe Yuichiro and Kenichi Aoki (2006).
+&ldquo;A mixed strategy model for the emergence and intensification of
+social learning in a periodically changing natural environment,&rdquo;
+<em> Theoretical Population Biology</em>, 70: 486&ndash;497.</li>
+
+<li>Weibull, Juergen W. (1995). <em>Evolutionary Game
+Theory</em>, Cambridge, MA: The MIT Press.</li> 
+
+<!--  <li>Witt,
+Ulrich (1989a). &ldquo;The Evolution of Economic
+Institutions as a Propagation Process,&rdquo; <em>Public Choice</em>,
+62 (2): 155&ndash;172.</li>--> 
+
+<!--  <li>Young,
+H. Peyton. (1993). &ldquo;An Evolutionary Model of
+Bargaining,&rdquo; <em>Journal of Economic Theory</em>, 59:
+145&ndash;168.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(1993). &ldquo;The
+Evolution of Conventions,&rdquo; <em>Econometrica</em>, 61 (1):
+57&ndash;84.</li>--> 
+
+<!--  <li>&ndash;&ndash;&ndash;
+(2001). <em>Individual
+Strategy and Social Strategy: An Evolutionary Theory of
+Institutions</em>, Princeton: Princeton University Press.</li>-->
+
+<li>Zeeman, E.C. (1979). &ldquo;Population dynamics from
+game theory,&rdquo; in <em>Proc. Int. Conf. Global Theory of Dynamical
+Systems</em>, Northwestern: Evanston.</li>
+
+<li>Zollman, Kevin (2005). &ldquo;Talking to Neighbors:
+The Evolution of Regional Meaning,&rdquo; <em>Philosophy of
+Science</em>, 72: 69&ndash;85.</li>
+</ul>
+
+</div> 
+
+<div id="academic-tools">
+
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=game-evolutionary" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/game-evolutionary/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=game-evolutionary&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/game-evolutionary/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<ul>
+
+<li><a href="http://www.ethics.ubc.ca/eame/" target="other">Evolving Artificial Moral Ecologies</a>,
+ (with interactive simulators), by Peter Danielson (U. British Columbia) and
+ William Harms (Bowling Green State).</li>
+
+<li><a href="http://www.brookings.edu/dynamics.aspx" target="other">Brookings Center on Social and Economic Dynamics</a>.</li>
+ 
+<li><a href="http://www-personal.umich.edu/~axe/ComplexCoop.html" target="other">Complexity of Cooperation</a>,
+  website on Robert Axelrod's book.</li>
+
+</ul>
+
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../altruism/">altruism</a> |
+ <a href="../altruism-biological/">altruism: biological</a> |
+ <a href="../evolution/">evolution</a> |
+ <a href="../evolution-cultural/">evolution: cultural</a> |
+ <a href="../game-theory/">game theory</a> |
+ <a href="../prisoner-dilemma/">prisoner&rsquo;s dilemma</a>
+
+</p>
+
+</div> 
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+J. McKenzie Alexander
+&lt;<a href="m&#97;ilto:jalex&#37;40lse&#37;2eac&#37;2euk"><em>jalex<abbr title=" at ">&#64;</abbr>lse<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

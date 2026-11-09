@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Rule-Following and Intentionality &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/rule-following/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/rule-following/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=rule-following">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Rule-Following and Intentionality</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ We&rsquo;re following Paul Boghossian (1989) in this respect. We
+won&rsquo;t address the issue of the extent to which Kripke&rsquo;s
+interpretation is faithful to Wittgenstein&rsquo;s text. Note that
+Kripke does not actually endorse either the sceptical argument or the
+sceptical solution, but rather &ldquo;expounds Wittgenstein&rsquo;s
+argument as it struck Kripke, as it presented a problem for him&rdquo;
+(1982: 5). For ease of exposition, we largely ignore this in the text.
+For recent discussion of what is at stake in Wittgenstein&rsquo;s
+rule-following considerations, see, among others, Stroud 2011,
+Goldfarb 2012, Ebbs 2016, and Ginsborg 2020. Other works that
+foreground the importance of the rule-following investigations in
+Wittgenstein&rsquo;s later philosophy include Wright (1980) and
+Fogelin (1976 [1987]). A discussion of the rule-following
+considerations that locates them in a philosophical tradition going
+back to Kant can be found in Haase (2009).</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ In his 1989, Boghossian appears to suggest that, for the sceptical
+arguments to get going at the level of content, we need to assume that
+mental content properties are carried by linguistic-bearers, although
+it is left open whether we need to view these bearers as, in Fodorian
+Language of Thought fashion, syntactically and semantically
+structured; we agree with the more liberal line taken in Boghossian
+1990, where Boghossian recognizes that we don&rsquo;t need to exploit
+any facts about the putative bearers of content in order to get the
+sceptical arguments going.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ We use the singular pronoun when explaining the sceptical challenge,
+even though the entry is co-written, as the challenge is supposed to
+be faced from the perspective of the individual speaker.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ Among the commentators who resist reading the second condition as
+requiring that meaning facts are categorically prescriptive are Kusch
+2006, Verheggen 2000, 2011, and Bridges 2014. (Note that in his 2021
+CUNY seminar on rule-following, attended by the authors, Kripke
+himself said that he had only hypothetical prescriptivity in
+mind.)</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ For example, in the &ldquo;two soldiers&rdquo; variant of the
+Prisoners&rsquo; Dilemma that Mackie outlines (1977: 115), the
+judgement that one ought not to desert one&rsquo;s post in the face of
+the enemy&mdash;where the &ldquo;ought&rdquo; in question is
+categorical&mdash;although false, is such that its acceptance helps to
+make probable the best possible outcome for the group (in a non-moral
+sense of &ldquo;best&rdquo;).</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ Another example of a non-eliminativist error theory is arguably
+provided by Hartry Field&rsquo;s nominalism about arithmetic (Field
+1980, 1989). In Field&rsquo;s account, the subsidiary norm is cashed
+out in terms of the notion of <em>conservativeness.</em> (We take the
+term &ldquo;subsidiary norm&rdquo; from Wright 1995. Wright goes on to
+argue that non-eliminativist error theories are inherently
+unstable.)</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ Kripke himself thinks that the mention of agreement here requires a
+departure from fully individualistic conceptions of meaning and
+content. See also sections 12 and 13 of Boghossian 1989 (and the
+references therein to McGinn 1984 and Goldfarb 1985) for more
+discussion.</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ For what it&rsquo;s worth, Gibbard&rsquo;s reply strikes us as
+unconvincing. In the course of defending and developing his account of
+moral judgement, the ethical expressivist can help herself to facts
+about what is and what is not pleasurable. But she cannot assume that
+such facts are <em>moral</em> facts without compromising her claim to
+be providing an alternative account of moral judgement to that given
+by the moral realist. Likewise, although the expressivist in the case
+of meaning and content may help herself to facts about speakers&rsquo;
+dispositions, or facts about biological function and the like, she
+cannot assume that such facts are <em>semantic</em> or
+<em>intentional</em> facts without compromising her claim to be
+providing an alternative account of ascriptions of meaning and content
+to that provided by the semantic realist. However, in helping herself
+to facts about plans or planning states with determinate satisfaction
+conditions, she does precisely that. For further useful discussion of
+Gibbard&rsquo;s view, see Wikforss (2018), and Boghossian
+(forthcoming).</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ Some philosophers have viewed the sceptical solution proposed by
+Kripke&rsquo;s Wittgenstein as hospitable to a form of
+non-reductionism, albeit one that is different from the
+non-reductionist position rejected by him in his brief discussion in
+Kripke (1982: chapter 2). Over the course of that discussion, Kripke
+says of the non-reductionist strategy that if &ldquo;taken in an
+appropriate way Wittgenstein may even accept it&rdquo; (1982: 51).
+Consequently, some have argued that the sceptical solution illustrates
+the appropriate way to take non-reductionism, a way that rejects some
+of the sceptic&rsquo;s assumptions. According to Kusch, for example,
+Kripke proposes a meaning-sceptical variety of primitivism. The view
+is a form of primitivism insofar as it takes our linguistic
+inclinations to be primitive (2006: 38, 199), but it is sceptical
+insofar as it rejects the conception of meaning targeted by the
+sceptical argument, which Kusch calls &ldquo;low brow meaning
+determinism&rdquo; (see 2006: 11&ndash;12 for an enumeration of its
+basic tenets). In a nutshell, according to meaning-determinism, an
+agent means something by an expression in virtue of having a
+particular mental state that is immediately known by the agent, is
+intrinsic to her, guides and justifies her uses of the expression, and
+somehow contains all the possible correct applications of the
+expression. Indeed, meaning determinism is closely related to
+Wilson&rsquo;s classical realism. In a similar vein, David Davies
+argues that we should view the sceptical solution as claiming that
+</p>
+
+<blockquote>
+
+<p>
+there <em>are</em> semantic facts, but they cannot play any
+significant explanatory role with respect to our dispositions to go on
+in similar ways with respect to our expressions. (1998: 133; cf. Byrne
+1996) </p>
+</blockquote>
+
+<p>
+and Sultanescu and Verheggen argue that </p>
+
+<blockquote>
+
+<p>
+Kripke&rsquo;s non-reductionism [as manifested in the sceptical
+solution] is ultimately a capitulation to quietism, (2019: 16) </p>
+</blockquote>
+
+<p>
+for it </p>
+
+<blockquote>
+
+<p>
+sheds little light, if any, on the question what makes it possible for
+there to be a distinction between correct and incorrect applications
+of expressions. (2019: 15)</p>
+</blockquote>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ If this is scepticism about a disposition, it is not
+<em>epistemological</em> scepticism of the sort put to one side in
+Kripke&rsquo;s discussion. The claim is not that we don&rsquo;t know
+what Jones&rsquo;s extended dispositions in the relevant cases are,
+but that there are no such dispositions.</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ These considerations effectively rule out a response to the finitude
+problem that utilizes the notion of an idealized disposition.
+We&rsquo;ve so far tacitly assumed that ascriptions of dispositions
+can be analysed in terms of counterfactual or subjunctive
+conditionals, as follows:</p>
+
+<dl class="sentag">
+<dt>(CA)</dt>
+<dd> &ldquo;<i>S</i> is disposed to <i>A</i> in <i>C</i>&rdquo; is
+true iff if <i>S</i> were in conditions <i>C</i>, she would
+<i>A</i>.</dd>
+</dl>
+
+<p>
+Say we assume also that the conditional on the right-hand side is true
+iff in every nearby possible world in which <i>S</i> is in conditions
+<i>C</i>, she <i>A</i>s. We could try to deal with the finitude
+problem by including within the ideal conditions <i>C</i> some
+stipulation that would ensure that <i>S</i>&rsquo;s cognitive capacity
+is sufficiently enhanced to allow her to answer arithmetical queries
+that are inaccessible given her actual cognitive equipment. In some
+cases, though, this will involve <i>S</i> having a brain the size of
+the universe, and since there <em>are</em> no nearby possible worlds
+in which <i>S</i> has a brain the size of a universe (for the sorts of
+reason outlined above), the conditional</p>
+
+<dl class="sentag">
+<dt>(a)</dt>
+<dd> If <i>S</i> had a brain the size of the universe (etc.), she
+would respond with the sum</dd>
+</dl>
+
+<p>
+will not be true in a way that can underwrite the ascription to
+<i>S</i> of the disposition to respond with the sum.</p>
+
+<p>
+Some philosophers (e.g., Martin and Heil 1998) have attempted to use
+the fact that (CA) is problematic (Martin 1994) in order to ward off
+Kripke-style objections like those outlined above. Handfield and Bird
+(2008) provide a powerful critique of Martin and Heil&rsquo;s defence
+of the dispositional theory of meaning (see Boghossian 2015:
+342&ndash;3 for a useful summary).</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ In Warren&rsquo;s terminology, Jones has an <i>M</i>-general and
+stable disposition to produce the sum in normal situations (see Warren
+2020: 271).</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ The argument in this paragraph might be criticised for conflating
+logical and metaphysical notions of consistency and determination, as
+follows. Consider again the claim that possession of <span class="sc">disp</span>
+is consistent with multiple hypotheses about
+what Jones means. If the notion of consistency at play is logical,
+then this is surely correct. But, the thought goes, Warren&rsquo;s
+idea must be that <span class="sc">disp</span> <em>constitutes</em> or
+<em>determines</em> or <em>grounds</em> the meaning fact; this kind of
+metaphysical relationship between <span class="sc">disp</span> and the
+meaning fact does not require that the ascription of <span class="sc">disp</span>
+be logically inconsistent with alternative
+hypotheses about what Jones means.</p>
+
+<p>
+However, it seems to us that the criticism misses the dialectical
+force of the argument. For the argument isn&rsquo;t simply that, since
+possession of <span class="sc">disp</span> is consistent with
+Jones&rsquo;s meaning quaddition, it can&rsquo;t be constitutive of
+his meaning addition. (If this was the argument, it would indeed be
+susceptible to the criticism.) Rather, the argument concerns the way
+in which <span class="sc">disp</span> is <em>characterised</em> or
+<em>specified</em>. Given that Jones&rsquo;s possession of <span class="sc">disp</span>
+is logically consistent with her meaning any
+one of an infinite set of functions by &ldquo;+&rdquo;, how do we
+characterise the normal situation involved in the specification of
+<span class="sc">disp</span> in such a way that, of all the functions
+in that infinite range, it is <em>addition</em> that is metaphysically
+determined by it? On what grounds does dispositionalist claim that an
+adequate characterisation can be given in wholly non-semantic and
+non-intentional terms, that is, without presupposing that addition is
+what is in fact meant by Jones?</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ We&rsquo;ve oversimplified here, glossing over the fact that Warren&rsquo;s
+solution to the finitude problem utilizes the notion of a composite
+disposition (itself consisting of what Warren calls
+&ldquo;singular&rdquo; dispositions) and that the solution to the
+error problem upon which it depends focuses on the singular
+dispositions out of which the composite disposition is composed.
+Nothing crucial turns on this oversimplification, though. </p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ Scott Soames also seems to neglect Kripke&rsquo;s discussion of
+non-reductionism when he claims that the challenge posed by
+Kripke&rsquo;s sceptic is &ldquo;to locate non-content-bearing (i.e.
+nonintentional) facts that determine the content-bearing ones&rdquo;
+(1997: 216n16).</p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ More specifically, Wright&rsquo;s project is to show that the
+proponent of non-reductionism might be able to avoid the
+&ldquo;flagrant &hellip; philosophical stone-kicking&rdquo; that he
+claims to find in other non-reductionist views, such as Colin
+McGinn&rsquo;s (Wright 1989 [2002: 113]). Wright argues that we can
+account for the intuitive first-person epistemology and
+&ldquo;disposition-like theoreticity&rdquo; (Wright 2001: 87) of
+intentional and semantic properties by relying on a judgment-dependent
+account of the sort outlined. Such an account takes for granted the
+contents of the judgements on which meaning facts allegedly depend,
+which is what makes it a variety of non-reductionism. (See Wright
+[1992: 138]. Boghossian [1989 [2002: 184&ndash;85]] argues that
+judgement-dependent accounts of content are problematic in a way that
+does not apply to judgement-dependent accounts of traditional
+secondary qualities.) </p>
+</div>
+
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+<a href="https://www.otago.ac.nz/philosophy/our-people/academic-staff/alex-miller" target="other">Alexander Miller</a>
+&lt;<a href="m&#97;ilto:alex&#37;2emiller&#37;40otago&#37;2eac&#37;2enz"><em>alex<abbr title=" dot ">&#46;</abbr>miller<abbr title=" at ">&#64;</abbr>otago<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>nz</em></a>&gt;<br />
+<a href="https://www.haverford.edu/users/asultanesc" target="other">Olivia Sultanescu</a>
+&lt;<a href="m&#97;ilto:asultanesc&#37;40haverford&#37;2eedu"><em>asultanesc<abbr title=" at ">&#64;</abbr>haverford<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

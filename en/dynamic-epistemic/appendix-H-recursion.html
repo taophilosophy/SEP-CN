@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Dynamic Epistemic Logic &gt; Appendix H: Recursive definition of languages with action models (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/dynamic-epistemic/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/dynamic-epistemic/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dynamic-epistemic">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Dynamic Epistemic Logic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Appendix H: Recursive definition of languages with action models</h2>
+
+<p> Formally, the grammar (EAL) is defined by double recursion as follows.  First, let \((\text{EAL}^0)\) be the language (ML) of modal logic, and let \(\AM_*^0\) be the set of pointed action models whose precondition qformulas all come from the language \((\text{EAL}^0)\).  Then, whenever \((\text{EAL}^n)\) and \(\AM_*^n\) are both defined, we define the language \((\text{EAL}^{n+1})\) and the set \(\AM_*^{n+1}\) as follows: </p>
+
+\[\begin{gather*}\tag{\(\text{EAL}^{n+1}\)}
+F  \ccoloneqq  p \mid F\land F \mid \lnot F \mid [a]F \mid [A,e]F \\
+\small p\in\sP,\; a\in\sA,\; (A,e)\in\AM_*^n
+\end{gather*}\]
+
+<p> and we let \(\AM_*^{n+1}\) be the set of pointed action models whose precondition formulas all come from the language \((\text{EAL}^{n+1})\).  Finally, we define (EAL) as the union
+
+\[
+\text{(EAL)} \coloneqq \bigcup_{n\in\mathbb{N}} (\text{EAL}^n)
+\]
+
+of all languages \((\text{EAL}^n)\) and we define \(\AM_*\) to be the union
+
+\[
+\AM_* \coloneqq \bigcup_{n\in\mathbb{N}} \AM_*^n
+\]
+
+of all sets \(\AM_*^n\).  For convenience, we let \(\AM^n\) denote the set of all action models whose precondition formulas are all in the language \((\text{EAL}^n)\), and we let \(\AM\) denote the set of all action models whose precondition formulas are all in the language (EAL).  A useful lemma is the following.  </p>
+
+<div class="indent">
+
+<p> <strong>Inclusion Lemma.</strong> \(m\leq n\) implies \((\text{EAL}^m)\subseteq(\text{EAL}^n)\) and \(\AM^m\subseteq\AM^n\).</p>
+
+</div>
+
+<p> We often need a complete, well-founded binary relation on (EAL)-formulas that orders these formulas in such a way that the right side of each of the following equivalences&mdash;the EAL reduction axioms&mdash;has a &ldquo;smaller&rdquo; position in the ordering than does the left side (so that going left to right in a reduction axiom &ldquo;reduces&rdquo; the position in the ordering).  </p>
+
+<ol>
+<li>
+\([A,e]p\leftrightarrow(\pre(e)\to p)\) for letters \(p\in\sP\)
+</li>
+
+<li>
+\([A,e](G\land H)\leftrightarrow([A,e]G\land[A,e]H)\)
+</li>
+
+<li>
+\([A,e]\lnot G\leftrightarrow(\pre(e)\to\lnot[A,e]G)\)
+</li>
+
+<li>
+\([A,e][a]G\leftrightarrow (\pre(e)\to\bigwedge_{e R_a f} [a][A,f]G)\)
+</li>
+</ol>
+
+<p> A natural strict dictionary ordering is given as follows.  First, for each [EAL]-formula <i>F</i>, let \(d(F)\) denote the <em>(non&ndash;precondition-recursing) formation depth</em> of <i>F</i> and \(D(F)\) denote the <em>post-action (non&ndash;precondition-recursing) formation depth</em> of <i>F</i>.  </p>
+
+<div class="indent">
+<div style="display:inline-block">
+\[\begin{align*}
+d(p) &amp;= 0 \text{ for letters }p\in\sP \\
+d(F\land G) &amp;= 1 + \max(d(F),d(G)) \\
+d(\lnot F) &amp;= 1+d(F) \\
+d([a]F) &amp;= 1+d(F) \\
+d([A,e]F) &amp;= 1+d(F)
+\end{align*}\]
+</div>
+<div style="display:inline-block">
+\[\begin{align*}
+D(p) &amp;= 0 \text{ for letters }p\in\sP \\
+D(F\land G) &amp;= \max(D(F),D(G)) \\
+D(\lnot F) &amp;= D(F) \\
+D([a]F) &amp;= D(F) \\
+D([A,e]F) &amp;= d(F)
+\end{align*}\]
+</div>
+</div>
+
+<p> The number \(d(F)\) tells us the maximum number of steps required to construct a part of <i>F</i> without counting recursive steps used to construct preconditions of action models.  The number \(D(F)\) tells us the maximum number of steps required to construct a part of a formula in <i>F</i> that comes just after an action, again without counting recursive steps used for precondition construction.  (So in each case, a &ldquo;step&rdquo; is a recursive call to the grammar \((\text{EAL}^n)\) for some fixed <i>n</i> such that \(F\in(\text{EAL}^n)\).)  Proceeding, let \(L(F)\) denote the <em>recursion level</em> of the (EAL)-formula <i>F</i>; that is, \(L(F)\) is the smallest non-negative integer <i>n</i> such that \(F\in(\text{EAL}^n)\).  Finally, we order (EAL)-formulas as follows: assign to each (EAL)-formula <i>F</i> the pair \((L(F),D(F))\) and then order according to the strict dictionary ordering on pairs of integers (i.e., order first by the left number and then by the right number).  </p>
+
+<div class="indent">
+
+<p> <strong>Dictionary Ordering of (EAL)-formulas.</strong> \(F\lt G\) means that either \(L(F)\lt L(G)\) or else both \(L(F)=L(G)\) and \(D(F)\lt D(G)\).  </p>
+
+</div>
+
+<p> Note that we have \(L(\pre^A(e))\lt L([A,e]F)\) for each \((A,e)\in\AM_*\) and \(F\in\text{(EAL)}\).  One can then check that the following holds.  </p>
+
+<div class="indent">
+
+<p> <strong>EAL Dictionary Ordering Lemma.</strong> For each of the schemes 1&ndash;4 listed above, if \(F_1\) denotes the formula on the left side of the equivalence and \(F_2\) denotes the formula on the right, then \(F_2\lt F_1\).  </p>
+
+</div>
+
+<p> Another useful ordering introduced by van Ditmarsch, van der Hoek, and Kooi (2007) is given by assigning a non-negative integer &ldquo;complexity&rdquo; \(c(F)\) to each (EAL)-formula and then ordering according to the usual strict ordering on the integers.  </p>
+
+\[\begin{align*}
+c(p) &amp;= 0 \text{ for letters }p\in\sP \\
+c(F\land G) &amp;= 1+\max(c(F),c(G)) \\
+c(\lnot F) &amp;= 1+c(F) \\
+c([a]F) &amp;= 1+c(F) \\
+c([A,e]F) &amp;= (4+c(A))\cdot c(F) \\
+c(A) &amp;= \max\{c(\pre^A(f)) \mid f \text{ is an event in } A\}
+\end{align*}\]
+
+<div class="indent">
+
+<p>
+<strong>EAL Complexity Ordering Lemma (van Ditmarsch, van der Hoek, and Kooi 2007).</strong>
+
+For each of the schemes 1&ndash;4 listed above, if \(F_1\) denotes the formula on the left side of the equivalence and \(F_2\) denotes the formula on the right, then \(c(F_2)\lt c(F_1)\).</p>
+
+</div>
+
+<p> The ordering lemmas make precise the idea that the right side of a given reduction axiom is &ldquo;less complex&rdquo; than the left side.  These lemmas are used extensively to prove important results whose proof, like that of the Reduction Theorem, calls for an induction on (EAL)-formulas.  </p>
+
+<p> Finally, we note that showing the correctness of our definition of the binary satisfaction relation \(\models\) between the class \(\sC_*\) of pointed Kripke models and the set of (EAL)-formulas can be done by way of an induction as well. In particular, we may use the ordering lemmas or the value <i>n</i> for the languages \((\text{EAL}^n)\)&mdash;the latter is probably most natural&mdash;to provide an inductive construction of a binary satisfaction relation \({\models}\;\subseteq\; \sC_*\times\text{(EAL)}\) between pointed Kripke models and (EAL)-formulas that minimally extends the binary satisfaction relation \({\models}\;\subseteq\;\sC_*\times\text{(ML)}\) for the basic modal language (see <a href="appendix-A-kripke.html">Appendix A</a>) such that for each \([A,e]G\in\text{(EAL)}\), we have the following: </p>
+
+<ul>
+
+<li> \(M,w\models[A,e]G\) holds if and only if \(M,w\not\models\pre^A(e)\) or \(M[A],(w,e)\models G\), where the Kripke model \(M[A]\) is defined via the BMS product update (Baltag, Moss, and Solecki 1998).  </li>
+
+</ul>
+
+<p> Correctness of the definition of satisfaction relations for other action model-style languages can be shown using similar methods.  </p>
+
+<!--pdf exclude begin-->
+<p><a href="index.html">&larr; beginning of main article</a></p>
+<!--pdf exclude end-->
+
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2016</a> by
+
+<br />
+<a href="https://sites.google.com/site/thealexandrubaltagsite/" target="other">Alexandru Baltag</a>
+&lt;<a href="m&#97;ilto:a&#37;2ebaltag&#37;40uva&#37;2enl"><em>a<abbr title=" dot ">&#46;</abbr>baltag<abbr title=" at ">&#64;</abbr>uva<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;<br />
+<a href="http://bryan.renne.org/" target="other">Bryan Renne</a>
+&lt;<a href="m&#97;ilto:brenne&#37;40gmail&#37;2ecom"><em>brenne<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

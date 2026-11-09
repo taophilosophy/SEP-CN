@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Mathematics of Boolean Algebra (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="The Mathematics of Boolean Algebra" />
+<meta name="citation_author" content="Monk, J. Donald" />
+<meta name="citation_publication_date" content="2002/07/05" />
+<meta name="DC.title" content="The Mathematics of Boolean Algebra" />
+<meta name="DC.creator" content="Monk, J. Donald" />
+<meta name="DCTERMS.issued" content="2002-07-05" />
+<meta name="DCTERMS.modified" content="2018-07-11" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/boolalg-math/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boolalg-math">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>The Mathematics of Boolean Algebra</h1><div id="pubinfo"><em>First published Fri Jul 5, 2002; substantive revision Wed Jul 11, 2018</em></div>
+
+<div id="preamble">
+
+<p>
+
+Boolean algebra is the algebra of two-valued logic with only
+sentential connectives, or equivalently of algebras of sets under
+union and complementation. The rigorous concept is that of a certain
+kind of algebra, analogous to the mathematical notion of a
+group. This concept has roots and applications in logic
+(Lindenbaum-Tarski algebras and model theory), set theory (fields of
+sets), topology (totally disconnected compact Hausdorff spaces),
+foundations of set theory (Boolean-valued models), measure theory
+(measure algebras), functional analysis (algebras of projections),
+and ring theory (Boolean rings).&nbsp; The study of Boolean algebras
+has several aspects: structure theory, model theory of Boolean
+algebras, decidability and undecidability questions for the class of
+Boolean algebras, and the indicated applications. In addition,
+although not explained here, there are connections to other logics,
+subsumption as a part of special kinds of algebraic logic, finite
+Boolean algebras and switching circuit theory,&nbsp; and Boolean
+matrices.</p>
+
+</div>
+
+<div id="toc">
+<!--Entry Contents-->
+<ul>
+<li><a href="#def">1. Definition and simple properties</a> </li>
+
+<li><a href="#elem">2. The elementary algebraic theory</a></li>
+
+<li><a href="#spec">3. Special classes of Boolean algebras</a></li>
+
+<li><a href="#card">4. Structure theory and cardinal functions on Boolean algebras</a></li>
+
+<li><a href="#decid">5. Decidability and undecidability questions</a></li>
+
+<li><a href="#lind">6. Lindenbaum-Tarski algebras</a></li>
+
+<li><a href="#bv">7. Boolean-valued models</a></li>
+
+<li><a href="#Bib">Bibliography</a></li>
+
+<li><a href="#Aca">Academic Tools</a></li>
+<li><a href="#Oth">Other Internet Resources</a></li>
+
+<li><a href="#Rel">Related Entries</a></li>
+
+</ul>
+<!--Entry Contents-->
+<hr /> 
+</div>
+
+<div id="main-text">
+
+<h2><a name="def">1. Definition and simple properties</a></h2>
+
+<p>
+
+ A Boolean algebra (BA) is a set \(A\) together with binary
+operations + and \(\cdot\) and a unary operation \(-\), and elements
+0, 1 of \(A\) such that the following laws hold: commutative and
+associative laws for addition and multiplication, distributive laws
+both for multiplication over addition and for addition over
+multiplication, and the following special laws:</p>
+ 
+\[\begin{align*}
+x + (x \cdot y) &amp;= x \\
+x \cdot(x + y) &amp;= x \\
+x + (-x) &amp;= 1 \\
+x \cdot(-x) &amp;= 0
+\end{align*}\]
+
+<p>
+ These laws are better understood in terms of the basic example of a
+BA, consisting of a collection \(A\) of subsets of a set \(X\) closed
+under the operations of union, intersection, complementation with
+respect to \(X\), with members \(\varnothing\) and \(X\). One can
+easily derive many elementary laws from these axioms, keeping in mind
+this example for motivation. Any BA has a natural partial order
+\(\le\) defined upon it by saying that \(x \le y\) if and only if \(x
++ y = y\).  This corresponds in our main example to \(\subseteq\). Of
+special importance is the two-element BA, formed by taking the set
+\(X\) to have just one element. The two-element BA shows the direct
+connection with elementary logic. The two members, 0 and 1, correspond
+to falsity and truth respectively. The Boolean operations then express
+the ordinary truth tables for disjunction (with \(+)\), conjunction
+(with \(\cdot)\) and negation (with \(-)\). An important elementary
+result is that an equation holds in all BAs if and only if it holds in
+the two-element BA. Next, we define \(x \oplus y = (x \cdot -y) + (y
+\cdot -x)\). Then \(A\) together with \(\oplus\) and \(\cdot\), along
+with 0 and 1, forms a ring with identity in which every element is
+idempotent. Conversely, given such a ring, with addition \(\oplus\)
+and multiplication, define \(x + y = x \oplus y \oplus(x \cdot y)\)
+and \(-x = 1 \oplus x\). This makes the ring into a BA. These two
+processes are inverses of one another, and show that the theory of
+Boolean algebras and of rings with identity in which every element is
+idempotent are definitionally equivalent. This puts the theory of BAs
+into a standard object of research in algebra. An atom in a BA is a
+nonzero element \(a\) such that there is no element \(b\) with \(0 \lt
+b \lt a\). A BA is atomic if every nonzero element of the BA is above
+an atom. Finite BAs are atomic, but so are many infinite BAs. Under
+the partial order \(\le\) above, \(x + y\) is the least upper bound of
+\(x\) and \(y\), and \(x \cdot y\) is the greatest lower bound of
+\(x\) and \(y\). We can generalize this: \(\Sigma X\) is the least
+upper bound of a set \(X\) of elements, and \(\Pi X\) is the greatest
+lower bound of a set \(X\) of elements. These do not exist for all
+sets in all Boolean algebras; if they do always exist, the Boolean
+algebra is said to be complete.</p>
+
+<h2><a name="elem">2. The elementary algebraic theory</a></h2>
+
+<p>
+ Several algebraic constructions have obvious definitions and simple
+properties for BAs: subalgebras, homomorphisms, isomorphisms, and
+direct products (even of infinitely many algebras). Some other
+standard algebraic constructions are more peculiar to BAs. An ideal in
+a BA is a subset \(I\) closed under +, with 0 as a member, and such
+that if \(a \le b \in I\), then also \(a \in I\). Although not
+immediately obvious, this is the same as the ring-theoretic
+concept. There is a dual notion of a filter (with no counterpart in
+rings in general). A filter is a subset \(F\) closed under \(\cdot\) ,
+having 1 as a member, and such that if \(a \ge b \in F\), then also
+\(a \in F\). An ultrafilter on \(A\) is a filter \(F\) with the
+following properties: \(0 \not\in F\), and for any \(a \in A\), either
+\(a \in F\) or \(-a \in F\). For any \(a \in A\), let</p>
+
+\[
+S(a)= \{F : F \text{ is an ultrafilter on } A \text{ and } a \in F\}.
+\]
+
+<p> 
+
+Then \(S\) is an isomorphism onto a BA of subsets of the set \(X\) of
+all ultrafilters on \(A\). This establishes the basic Stone
+representation theorem, and clarifies the origin of BAs as concrete
+algebras of sets. Moreover, the sets \(S(a)\) can be declared to be a
+base for a topology on \(X\), and this turns \(X\) into a totally
+disconnected compact Hausdorff space. This establishes a one-one
+correspondence between the class of BAs and the class of such
+spaces. As a consequence, used very much in the theory of BAs, many
+topological theorems and concepts have consequences for BAs. If \(x\)
+is an element of a BA, we let \(0x = -x\) and \(1x = x\). If
+\((x\)(0), \(\ldots x(m - 1))\) is a finite sequence of elements of a
+BA \(A\), then every element of the subalgebra of \(A\) generated by
+\(\{x(0), \ldots, x(m - 1)\}\) can be written as a sum of monomials
+\(e(0)x(0) \cdot \ldots \cdot e(m - 1)x(m - 1)\) for \(e\) in some set
+of functions mapping \(m = \{0,\ldots , m - 1\}\) into \(2 = \{0,
+1\}\). This is an algebraic expression of the disjunctive normal form
+theorem of sentential logic. A function \(f\) from a set \(X\) of
+generators of a BA \(A\) into a BA \(B\) can be extended to a
+homomorphism if and only if</p>
+
+\[
+e(0)x(0) \cdot \ldots \cdot e(m - 1)x(m - 1) = 0
+\]
+
+<p> always implies that </p>
+
+\[e(0)f(x(0)) \cdot \ldots \cdot e(m - 1)f(x(m - 1)) = 0.
+\]
+
+<p>
+This is Sikorski&rsquo;s extension criterion. Every BA \(A\) can be
+embedded in a complete BA \(B\) in such a way that every element of
+\(B\) is the least upper bound of a set of elements of \(A\). \(B\) is
+unique up to \(A\)-isomorphism, and is called the completion of
+\(A\). If \(f\) is a homomorphism from a BA \(A\) into a complete BA
+\(B\), and if \(A\) is a subalgebra of \(C\), then \(f\) can be
+extended to a homomorphism of \(C\) into \(B\). This is
+Sikorski&rsquo;s extension theorem. Another general algebraic notion
+which applies to Boolean algebras is the notion of a free
+algebra. This can be concretely constructed for BAs. Namely, the free
+BA on \(\kappa\) is the BA of closed-open subsets of the two element
+discrete space raised to the \(\kappa\) power.</p>
+ 
+
+<h2><a name="spec">3. Special classes of Boolean algebras</a></h2>
+
+<p>
+
+ There are many special classes of Boolean algebra which are important
+both for the intrinsic theory of BAs and for
+applications:</p>
+ 
+<ul class="jfy"> 
+
+<li>Atomic BAs, already mentioned above.</li>
+
+<li>Atomless BAs, which are defined to be
+BAs without any atoms. For example, any infinite
+free BA is atomless.</li>
+
+<li>Complete BAs, defined above. These are specially
+important in the foundations of set theory.</li>
+
+<li>Interval algebras. These are derived from linearly ordered sets
+\((L, \lt)\) with a first element as follows. One takes the smallest
+ algebra of subsets of \(L\) containing all of the half-open
+intervals [\(a, b)\) with \(a\) in \(L\) and
+\(b\) in \(L\) or equal to \(\infty\). These BAs are useful in
+the study of Lindenbaum-Tarski algebras. Every countable BA is
+isomorphic to an interval algebra, and thus a countable BA can be
+described by indicating an ordered set such that it is isomorphic to
+the corresponding interval algebra.</li>
+
+<li>Tree algebras. A tree is a partially ordered set \((T, \lt)\) in
+which the set of predecessors of any element is well-ordered.  Given
+such a tree, one considers the algebra of subsets of \(T\) generated
+by all sets of the form \(\{b : a \le b\}\) for some \(a\) in
+\(T\).</li>
+
+<li>Superatomic BAs. These are BAs
+which are not only atomic, but are such that each subalgebra and
+homomorphic image is atomic.</li>
+ 
+</ul>
+
+<h2><a name="card">4. Structure theory and cardinal functions on Boolean algebras</a></h2>
+
+<p>
+
+ Much of the deeper theory of Boolean algebras, telling about their
+structure and classification, can be formulated in terms of certain
+functions defined for all Boolean algebras, with infinite cardinals
+as values. We define some of the more important of these cardinal
+functions, and state some of the known structural facts, mostly
+formulated in terms of them</p>
+ 
+<ol>
+
+<li>The cellularity \(c(A)\) of a BA is the supremum of
+the cardinalities of sets of pairwise disjoint elements of \(A\).
+</li>
+
+<li>A subset \(X\) of a BA \(A\) is independent if
+\(X\) is a set of free generators of the subalgebra that it
+generates. The independence of \(A\) is the supremum of
+cardinalities of independent subsets of \(A\).</li>
+
+<li>A subset \(X\) of a BA \(A\) is dense in \(A\) if
+every nonzero element of \(A\) is \(\ge\) a nonzero element of
+\(X\). The \(\pi\)-weight of \(A\) is the smallest cardinality
+of a dense subset of \(A\).</li>
+
+<li>Two elements \(x, y\) of \(A\) are incomparable
+if neither one is \(\le\) the other. The supremum of cardinalities of
+subset \(X\) of \(A\) consisting of pairwise incomparable
+elements is the incomparability of \(A\).</li>
+ 
+<li>A subset \(X\) of \(A\) is irredundant if no element of
+\(X\) is in the subalgebra generated by the others.</li>
+ 
+</ol>
+
+<p>
+ An important fact concerning cellularity is the Erd&#337;s-Tarski
+theorem: if the cellularity of a BA is a singular cardinal, then there
+actually is a set of disjoint elements of that size; for cellularity
+regular limit (inaccessible), there are counterexamples. Every
+infinite complete BA has an independent subset of the same size as the
+algebra. Every infinite BA \(A\) has an irredundant incomparable
+subset whose size is the \(\pi\)-weight of \(A\). Every interval
+algebra has countable independence. A superatomic algebra does not
+even have an infinite independent subset. Every tree algebra can be
+embedded in an interval algebra. A BA with only the identity
+automorphism is called rigid. There exist rigid complete BAs, also
+rigid interval algebras and rigid tree algebras. </p>
+
+<p>
+More recently, many cardinal functions of min-max type have been
+studied. For example, small independence is the smallest size of an
+infinite maximal independent set; and small cellularity is the
+smallest size of an infinite partition of unity.</p>
+
+<h2><a name="decid">5. Decidability and undecidability questions</a></h2>
+
+<p>
+
+ A basic result of Tarski is that the elementary theory of Boolean
+algebras is decidable. Even the theory of Boolean algebras with a
+distinguished ideal is decidable. On the other hand, the theory of a
+Boolean algebra with a distinguished subalgebra is undecidable. Both
+the decidability results and undecidablity results extend in various
+ways to Boolean algebras in extensions of first-order logic.</p>
+
+<h2><a name="lind">6. Lindenbaum-Tarski algebras</a></h2>
+
+<p>
+
+ A very important construction, which carries over to many logics and
+many algebras other than Boolean algebras, is the construction of a
+Boolean algebra associated with the sentences in some logic. The
+simplest case is sentential logic. Here there are sentence symbols,
+and common connectives building up longer sentences from them:
+disjunction, conjunction, and negation. Given a set \(A\) of sentences
+in this language, two sentences \(s\) and \(t\) are equivalent modulo
+\(A\) if and only if the biconditional between them is a logical
+consequence of \(A\). The equivalence classes can be made into a BA
+such that + corresponds to disjunction, \(\cdot\) to conjunction, and
+\(-\) to negation. Any BA is isomorphic to one of this form. One can
+do something similar for a first-order theory. Let \(T\) be a
+first-order theory in a first-order language \(L\). We call formulas
+\(\phi\) and \(\psi\) equivalent provided that \(T \vdash \phi
+\leftrightarrow \psi\).  The equivalence class of a sentence \(\phi\)
+is denoted by [\(\phi\)]. Let \(A\) be the collection of all
+equivalence classes under this equivalence relation. We can make \(A\)
+into a BA by the following definitions, which are easily
+justified:</p>
+
+\[\begin{align*}
+[\phi] + [\psi] &amp;= [\phi \vee \psi] \\
+[\phi] \cdot[\psi] &amp;= [\phi \wedge \psi] \\
+-[\phi] &amp;= [\neg \phi] \\
+0 &amp;= [\mathrm{F}] \\
+1 &amp;= [\mathrm{T}]
+\end{align*}\]
+
+<p>
+
+ Every BA is isomorphic to a Lindenbaum-Tarski
+algebra. However, one of the most important uses of these classical
+Lindenbaum-Tarski algebras is to describe them for important theories
+(usually decidable theories). For countable languages this can be
+done by describing their isomorphic interval algebras. Generally this
+gives a thorough knowledge of the theory. Some examples are:</p>
+
+<table class="hrules vert-top cellpad-small-dense centered avoid-break">
+<tr>
+<td></td>
+<td><strong>Theory</strong></td>
+<td><strong>Isomorphic to interval algebra on</strong></td>
+</tr>
+
+<tr>
+<td>(1)</td>
+<td>essentially undecidable theory</td>
+<td>\(\mathbb{Q}\), the rationals</td>
+</tr>
+
+<tr>
+<td>(2)</td>
+<td>BAs</td>
+<td>\(\mathbb{N} \times \mathbb{N}\),
+ square of the positive integers, ordered lexicographically</td>
+</tr>
+
+<tr>
+<td>(3)</td>
+<td>linear orders</td>
+<td>\(\mathbf{A} \times \mathbb{Q}\) ordered antilexicographically,
+ where \(\mathbf{A}\) is \(\mathbb{N}^\mathbb{N}\)
+ in its usual order</td>
+</tr>
+
+<tr>
+<td>(4)</td>
+<td>abelian groups</td>
+<td>\((\mathbb{Q} + \mathbf{A}) \times \mathbb{Q}\)</td>
+</tr>
+</table>
+
+<h2><a name="bv">7. Boolean-valued models</a></h2>
+
+<p>
+
+ In model theory, one can take values in any complete BA rather than
+the two-element BA. This Boolean-valued model theory was developed
+around 1950&ndash;1970, but has not been worked on much since. But a
+special case, Boolean-valued models for set theory, is very much at
+the forefront of current research in set theory. It actually forms an
+equivalent way of looking at the forcing construction of Cohen, and
+has some technical advantages and disadvantages. Philosophically it
+seems more satisfactory than the forcing concept. We describe this
+set theory case here; it will then become evident why only complete
+BAs are considered. Let B be a complete BA. First we define the
+Boolean valued universe \(V(B)\). The ordinary
+set-theoretic universe can be identified with \(V\)(2), where 2
+is the 2-element BA. The definition is by transfinite recursion, where
+\(\alpha , \beta\) are ordinals and \(\lambda\) is a limit ordinal:</p>
+
+\[\begin{align*}
+V(B, 0) &amp;= \varnothing \\
+V(B, \alpha + 1) &amp;= \{ f : \dom(f) \subset V(B, \alpha) 
+     \text{ and } \range(f) \subset B \} \\
+V(B, \lambda) &amp;= \bigcup_{\beta \lt \lambda} V(B, \beta).
+\end{align*}\]
+
+<p>
+
+where \(\dom(f)\) is the domain of function \(f\) and \(\range(f)\) is
+the range of function \(f\). The \(B\)-valued universe is the proper
+class \(V(B)\) which is the union of all of these \(V\)s. Next, one
+defines by a rather complicated transfinite recursion over
+well-founded sets the value of a set-theoretic formula with elements
+of the Boolean valued universe assigned to its free variables:</p>
+
+\[\begin{align*}
+\val{x \in y} &amp;= \sum_{t \in \dom(y)} \val{x=t}\cdot y(t) \\
+\val{x \subseteq y} &amp;= \prod_{t \in \dom(x)} -x(t) + \val{t \in y} \\
+\val{x = y} &amp;= \val{x \subseteq y} \cdot \val{y \subseteq x} \\
+\val{\neg \phi} &amp;= -\val{\phi} \\
+\val{\phi \vee \psi} &amp;=  \val{\phi} + \val{\psi} \\
+\val{\exists x\phi(x)} &amp;= \sum_{a \in V(B)} \val{\phi(a)}.
+\end{align*}\]
+
+</div>
+
+<div id="bibliography">
+
+<h2><a name="Bib">Bibliography</a></h2>
+
+<ul class="hanging">
+
+<li>Halmos, P., 1963, <em>Lectures on Boolean Algebras</em>,
+Princeton: Van Nostrand</li>
+
+<li>Heindorf, L., and Shapiro, L., 1994, <em>Nearly projective Boolean
+algebras</em>, Lecture Notes in Mathematics no. 1596, Berlin:
+Springer-Verlag</li>
+
+<li>Jech, T., 1997, <em>Set Theory</em>, 2nd corrected edition,
+Berlin, New York: Springer-Verlag</li>
+
+<li>Monk, J. D., and R. Bonnet (eds.), 1989, <em>Handbook of Boolean
+algebras</em>, 3 volumes, Amsterdam: North-Holland. </li>
+ 
+<li>Monk, J. D., 2014, <em>Cardinal Invariants on Boolean Algebras,
+Second Revised Edition</em>, Basel: Birka&uuml;ser</li>
+
+</ul>
+
+</div>
+
+<div id="academic-tools">
+
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boolalg-math" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/boolalg-math/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=boolalg-math&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="http://philpapers.org/sep/boolalg-math/" target="other">Enhanced bibliography for this entry</a>
+at <a href="http://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+
+</div>
+
+<div id="other-internet-resources">
+
+<h2><a name="Oth">Other Internet Resources</a></h2>
+
+ 
+<p>[Please contact the author with suggestions.]</p>
+
+</div>
+
+<div id="related-entries">
+
+<h2><a name="Rel">Related Entries</a></h2>
+
+<p>
+
+ <a href="../algebra/">algebra</a> |
+ <a href="../algebra-logic-tradition/">algebra of logic tradition</a> |
+ <a href="../boole/">Boole, George</a> |
+ <a href="../logic-algebraic-propositional/">logic: algebraic propositional</a> |
+ <a href="../model-theory/">model theory</a> |
+ <a href="../set-theory/">set theory</a>
+
+</p>
+
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2018</a> by
+
+<br />
+<a href="http://euclid.colorado.edu/~monkd/" target="other">J. Donald Monk</a>
+
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

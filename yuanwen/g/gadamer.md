@@ -1,0 +1,343 @@
+# Hans-Georg Gadamer
+**First published Mon Mar 3, 2003; substantive revision Mon Aug 22, 2022**
+
+*Malpas, Jeff*
+
+Hans-Georg Gadamer is the decisive figure in the development of twentieth century hermeneutics—almost certainly eclipsing, in terms of influence and reputation, the other leading figures, including Paul Ricoeur, and also Gianni Vattimo (Vattimo was himself one of Gadamer’s students). Profoundly affected by the philosophy of Martin Heidegger (whose own influence on philosophical hermeneutics is pervasive despite Heidegger’s abandonment of the term in his later thought), Gadamer was trained in neo-Kantian scholarship as well as in classical philology. Central to Gadamer’s mature philosophy is a distinctive and thoroughly dialogical approach, based in Platonic-Aristotelian as well as Heideggerian thinking, that rejects subjectivism and relativism, abjures any simple notion of interpretive method, and grounds understanding in the linguistically mediated happening of tradition. Employing a more orthodox and modest, but also more accessible style than Heidegger himself, Gadamer’s work can be seen as concentrated in four main areas: the first, and clearly the most influential, is the development and elaboration of a philosophical hermeneutics; the second is the dialogue within philosophy, and within the history of philosophy, with respect to Plato and Aristotle in particular, but also with Hegel and Heidegger; the third is the engagement with literature, particularly poetry, and with art; and the fourth is what Gadamer himself terms ‘practical philosophy’ (Gadamer 2001, 78–85) encompassing contemporary political and ethical issues. The dialogical character of Gadamer’s approach is evident, not merely in the central theoretical role he gives to the concept of dialogue in his thinking, but also in the discursive and dialogic, even ‘conversational’ character of his writing, as well as in his own personal commitment to intellectual engagement and exchange (Gadamer uses the German term *Gespräch* which can be translated as either dialogue or conversation). Indeed, Gadamer is one of the few philosophers for whom the ‘interview’ has become a significant category of philosophical output (see Hahn 1997, 588–599; also Gadamer 2001, 2003)[^hahn-1997]. Although he identified connections between his own work and English-speaking ‘analytic’ thought (mainly via the later Wittgenstein, but also Donald Davidson—see Keane 2021)[^keane-2021], and has sometimes seen his ideas taken up by thinkers such as Alasdair McIntyre (see MacIntyre 2002), Ronald Dworkin (see Dworkin 1986)[^dworkin-1986], Robert Brandom (see Brandom 2002)[^brandom-2002], John McDowell (see McDowell 1996, 2002)[^mcdowell-1996], and especially Richard Rorty (Rorty 1979; see also Keane 2021)[^keane-2021][^rorty-1979], Gadamer is perhaps less well known, and certainly less well-appreciated, in English-speaking philosophical circles than are some of his near-contemporaries. He is undoubtedly, however, one of the most important thinkers of the twentieth century, having had an enormous impact on a range of areas from aesthetics to jurisprudence, and having acquired a respect and reputation in Germany, and elsewhere in Europe, that went far beyond the usual confines of academia.
+
+## 1. Biographical Sketch
+
+Born on February 11, 1900, in Marburg, in Southern Germany, Gadamer grew up in Breslau (now Wroclaw in Poland), where his father was Professor of Pharmacy at the University of Breslau, later taking the Chair of Pharmaceutical Chemistry at Marburg. Gadamer’s family background was Protestant, and his father was sternly Prussian. His mother died of diabetes when Gadamer was only four, and he had no surviving brothers or sisters. Showing an early interest in humanistic studies, Gadamer began university studies in Breslau in 1918 (studying with Richard Hoenigswald), moving to Marburg with his father in 1919. Gadamer completed his doctoral studies at Marburg in 1922 (in his own words, ‘too young’—see Gadamer 1997b, 7) with a dissertation on Plato. In that same year, Gadamer also contracted poliomyelitis, from which he recovered only slowly, and the after-effects of which remained with him for the rest of his life.
+
+Gadamer’s early teachers at Marburg were Paul Natorp and Nicolai Hartmann. Paul Friedlander introduced him to philological study, and Gadamer also received encouragement from Rudolf Bultmann. It was, however, Martin Heidegger (at Marburg from 1923–1928) who exerted the most important and enduring effect on Gadamer’s philosophical development. Gadamer had first met Heidegger in Freiburg in early 1923, having also corresponded with him in 1922. Yet although Gadamer was a key figure in Heidegger’s Marburg circle, working as Heidegger’s unpaid assistant, by 1925 Heidegger had become quite critical of Gadamer’s philosophical capacities and contributions. As a result, Gadamer decided to abandon philosophy for classical philology. (Gadamer was not alone in being the recipient of such criticism—Heidegger was also unimpressed by Jacob Klein and was certainly prone to deliver harsh judgments on his students and colleagues—but Gadamer seems to have been more particularly affected by it.) Through his philological work, however, Gadamer seems to have regained Heidegger’s respect, passing the State Examination in Classical Philology in 1927, with Friedlander and Heidegger as two of the three examiners, and then going on to submit his habilitation dissertation (‘Plato’s Dialectical Ethics’, [1991]), in 1928, under Friedlander and Heidegger’s guidance. Gadamer’s relationship with Heidegger remained relatively close throughout their respective careers, even though it was also a relationship that held considerable tension—at least on Gadamer’s side (of his difficulties in writing in the late 1940s, Gadamer commented that ‘I had the terrible feeling that Heidegger was standing behind me and looking over my shoulder’, Gadamer 1997b, 15).
+
+Gadamer’s first academic appointment was to a junior position in Marburg in 1928, finally achieving a lower-level professorship there in 1937. In the meantime, from 1934–35, Gadamer held a temporary professorship at Kiel, and then, in 1939, took up the Directorship of the Philosophical Institute at the University of Leipzig, becoming Dean of the Faculty in 1945, and Rector in 1946, before returning to teaching and research at Frankfurt-am-Main in 1947. In 1949, he succeeded Karl Jaspers at Heidelberg, officially retiring (becoming Professor Emeritus) in 1968. Following his retirement, he travelled extensively, spending considerable time in North America, where he was a visitor at a number of institutions and developed an especially close and regular association with Boston College in Massachusetts.
+
+During the 1930s and 1940s, Gadamer was able to accommodate himself, on his account, reluctantly, first to National Socialism and then briefly, to Communism. While Gadamer did not identify himself strongly with either regime (he was never a member of the National Socialist Party, although he did belong to the affiliated National Socialist Teachers Union), neither did he draw attention to himself by outright opposition. However some have seen his stance as too acquiescent, and others have argued that he was indeed supportive of the Nazi dictatorship or of some aspects of it (see Wolin 2000 as well as the reply in Palmer 2002; see also the discussion in Krajewski 2003, 169–306; for Gadamer’s own comments on this issue see the interview/conversation, ‘The real Nazis had no interest in us at all’, Gadamer 2001)[^krajewski-2003][^palmer-2002][^wolin-2000].
+
+In 1953, together with Helmut Kuhn, Gadamer founded the highly influential *Philosophische Rundschau*, but his main philosophical impact was not felt until the publication of *Truth and Method* in 1960 (1989b). Gadamer’s best known publications almost all date from the period after *Truth and Method* (which did not appear in English translation until 1975), and in this respect much of his philosophical reputation rests on publications either after or in the decade just before his transition to emeritus status in 1968 (also the year in which he began regular visits to the United States). The important debates in which Gadamer engaged with Jürgen Habermas and Jacques Derrida took place in this latter part of Gadamer’s philosophical career, and it was not until the 1970s and 1980s that Gadamer’s work began to receive widespread attention in English.
+
+Gadamer was twice married: in 1923, to Frida Kratz (later divorced), with whom he had one daughter (born in 1926), and, in 1950, to Käte Lekebusch. Gadamer received numerous awards and prizes including, in 1971, Knight of the ‘Order of Merit’—the highest academic honor awarded in Germany. Remaining intellectually active until the very end of his life (he held regular office hours even in his nineties), Gadamer died in Heidelberg on March 13, 2002, at the age of 102 (for a more detailed biography, see Grondin 2003; see also Dostal 2021)[^grondin-2003].
+
+## 2. Hermeneutical Foundations
+
+### 2.1 Dialogue and Phronesis
+
+Gadamer’s thinking began and always remained connected with Greek thought, especially that of Plato and Aristotle. In this respect, Gadamer’s early engagement with Plato, which lay at the core of both his doctoral and habilitation dissertations, was determinative of much of the character and philosophical direction of his thinking. Under the influence of his early teachers such as Hartmann, as well as Friedlander, Gadamer developed an approach to Plato that rejected the idea of any ‘hidden’ doctrine in Plato’s thought, looking instead to the structure of the Platonic dialogues themselves as the key to understanding Plato’s philosophy. The only way to understand Plato, as Gadamer saw it, was thus by working through the Platonic texts in a way that not only enters into the dialogue and dialectic set out in those texts, but also repeats that dialogic movement in the attempt at understanding as such. Moreover, the dialectical structure of Platonic questioning also provides the model for a way of understanding that is open to the matter at issue through bringing oneself into question along with the matter itself.
+
+Under the influence of Heidegger, Gadamer also took up, as a central element in his thinking, the idea of *phronesis* (‘practical wisdom’) that appears in Book VI of Aristotle’s *Nichomachean Ethics*. For Heidegger the concept of *phronesis* is important, not only as a means of giving emphasis to our practical ‘being-in-the world’ over and against theoretical apprehension, but also as constituting a mode of insight into our own concrete situation (both our practical situation and, more fundamentally, our existential situation, hence *phronesis* constitutes a mode of *self-knowledge*). The way in which Gadamer conceives of understanding, and interpretation, is as just such a practically oriented mode of insight—a mode of insight that has its own rationality irreducible to any simple rule or set of rules, that cannot be directly taught, that necessarily implicates an understanding of self as well as other, and that is always oriented to the particular case at hand. The concept of *phronesis* can itself be seen as providing a certain elaboration of the dialogic conception of understanding Gadamer had already found in Plato, but it goes well beyond the Platonic account alone.
+
+Taken together, *phronesis* and dialogue provide the essential starting point for the development of Gadamer’s philosophical hermeneutics. It is a starting point in which these two key elements, *phronesis* and dialogue, can be seen as together founded in, as well as being elaborative of, the idea of hermeneutical situation or situatedness—an idea that has a Heideggerian provenance, but which Gadamer also develops in his own terms. The idea of hermeneutical situation is basic to Gadamer’s approach and underpins many of his key concepts even though it often remains in the background. It is elaborated, sometimes implicitly, through notions of event and encounter, and in a way that increasingly draws attention to the role of the other (although the self-other relation figures throughout Gadamer’s thinking, see Dallmayr 1993)[^dallmayr-1993]. It is an idea tied to Gadamer’s use of the notion of play as a key element in understanding and to the character of understanding as always embedded in an prior ‘horizon’ that is also fundamentally historical. *Phronesis* and dialogue are thus aspects of a hermeneutical situatedness that is *complex*, *differentiated*, and *dynamic*.
+
+### 2.2 Ontology and Hermeneutics
+
+Traditionally, hermeneutics is taken to have its origins in problems of biblical exegesis and in the development of a theoretical framework to govern and direct such exegetical practice. In the hands of eighteenth and early nineteenth century theorists, writers such as Chladenius and Meier, Ast and Schleiermacher, hermeneutics was developed into a more encompassing theory of textual interpretation in general—a set of rules that provide the basis for good interpretive practice no matter what the subject matter. Inasmuch as hermeneutics is the method proper to the recovery of meaning, so Wilhelm Dilthey broadened hermeneutics still further, taking it as the methodology for the recovery of meaning that is essential to understanding within the ‘human’ or ‘historical’ sciences (the *Geisteswissenschaften*). For these writers, as for many others, the basic problem of hermeneutics was methodological: how to found the human sciences, and so how to found the science of interpretation, in a way that would make them properly ‘scientific’. Moreover, if the mathematical models and procedures that appeared to be the hallmark of the sciences of nature could not be duplicated in the human sciences, then the task at issue must involve finding an alternative methodology proper to the human sciences as such—hence Schleiermacher’s ambition to develop a formal methodology that would codify interpretive practice, while Dilthey aimed at the elaboration of a ‘psychology’ that would elucidate and guide interpretive understanding.
+
+Already familiar with earlier hermeneutic thinking, Heidegger redeployed hermeneutics to a very different purpose and within a very different frame. In Heidegger’s early thinking, particularly the lectures from the early 1920s (‘The Hermeneutics of Facticity’), hermeneutics is presented as that by means of which the investigation of the basic structures of factical existence is to be pursued—not as that which constitutes a ‘theory’ of textual interpretation nor a method of ‘scientific’ understanding, but rather as that which allows the self-disclosure of the structure of understanding as such. The ‘hermeneutic circle’ that had been a central idea in previous hermeneutic thinking, and that had been viewed in terms of the interpretative interdependence, within any meaningful structure, between the parts of that structure and the whole, was transformed by Heidegger, so that it was now seen as expressing the way in which all understanding was ‘always already’ given over to that which is to be understood (to ‘the things themselves’—*die Sachen selbst*). Thus, to take a simple example, if we wish to understand some particular artwork, we must already have some prior understanding of that work (even if only as a set of paint marks on canvas), otherwise it cannot even be seen as something to be understood. To put the point more generally, and in more basic ontological terms, if we are to understand anything at all, we must already find ourselves ‘in’ the world ‘along with’ that which is to be understood. All understanding that is directed at the grasp of some particular subject matter is thus based in a prior ‘ontological’ understanding—a prior hermeneutical situatedness. On this basis, hermeneutics can be understood as the attempt to ‘make explicit’ the structure of such situatedness. Yet since that situatedness is indeed prior to any specific event of understanding, so it must always be presupposed even in the attempt at its own explication. Consequently, the explication of this situatedness—of this basic ontological mode of understanding—is essentially a matter of exhibiting or ‘laying-bare’ a structure with which we are already familiar (as well as a structure that is present in every event of understanding) and in which we are already embedded. In this respect, hermeneutics becomes one with phenomenology, itself understood, in Heidegger’s thinking, as just such a ‘laying bare’ (it also takes the form, given the focus on situation and situatedness, of what Heidegger later calls a ‘topology’ (*Topologie*) or a ‘saying of place’—see Malpas 2014).
+
+It is hermeneutics, in this Heideggerian and phenomenological sense, that is taken up in Gadamer’s work, and that leads him, in conjunction with certain other insights from Heidegger’s later thinking, as well as the ideas of dialogue and practical wisdom, to elaborate a philosophical hermeneutics that provides an account of the nature of understanding in its universality (where this refers both to the ontologically fundamental character of the hermeneutical situation and the all-encompassing nature of hermeneutic practice) and, in the process, to develop a response to the earlier hermeneutic tradition’s preoccupation with the problem of interpretive method. In these respects, Gadamer’s work, in conjunction with that of Heidegger, represents a radical reworking of the idea of hermeneutics that constitutes a break with the preceding hermeneutical tradition at the same time as it also reflects back on that tradition. Gadamer thus develops a philosophical hermeneutics that provides an account of the proper ground for understanding, while nevertheless rejecting the attempt, whether in relation to the *Geisteswissenschaften* or elsewhere, to found understanding on any method or set of rules. This is not a rejection of the importance of methodological concerns, but rather an insistence on the limited role of method and the priority of understanding as a dialogic, practical, situated activity.
+
+### 2.3 Aesthetics and Subjectivism
+
+In 1936 Heidegger gave three lectures on ‘The Origin of the Work of Art’. In these lectures, not published until 1950 (but which Gadamer heard at the time of their original presentation, see Gadamer 1997b, 47), Heidegger connects art with truth, arguing that the essence of the artwork is not its ‘representational’ character, but rather its capacity to allow the disclosure of a world. Thus the Greek temple establishes the ‘Greek’ world and in so doing allows things to take on a particular appearance within that world. Heidegger refers to this event of disclosure as the event of ‘truth’. The sense of truth at issue here is one that Heidegger presents in explicit contrast to what he views as the traditional concept of truth as ‘correctness’. Such correctness is usually taken to consist in some form of correspondence between individual statements and the world, but so-called ‘coherence’ accounts of truth, according to which truth is a matter of the consistency of a statement with a larger body of statements, can also be viewed as based upon the same underlying notion of truth as ‘correctness’. While Heidegger does not abandon the notion of truth as ‘correctness’, he argues that it is derivative of a more basic sense of truth as what he terms ‘unconcealment’. Understood in this latter sense, truth is not a property of statements as they stand in relation to the world, but rather an event or process in and through which both the things of the world and what is said about them come to be revealed at one and the same time—the possibility of ‘correctness’ arises on the basis of just such ‘unconcealment’.
+
+It is important to recognize, however, that the unconcealment at issue is not a matter of the bringing about of some form of complete and absolute transparency. The revealing of things is, in fact, always dependent upon other things being simultaneously concealed (in much the same way as seeing something in one way depends on not seeing it in another). Truth is thus understood as the unconcealment that allows things to appear, and that also makes possible the truth and falsity of individual statements, and yet which arises on the basis of the ongoing play between unconcealment *and* concealment—a play that, for the most part, remains itself hidden and is never capable of complete elucidation. In the language Heidegger employs in ‘The Origin of the Work of Art’, the unconcealment of ‘world’ is thereby grounded in the concealment of ‘earth’. It is this sense of truth as the emergence of things into unconcealment that occurs on the basis of the play between concealing and unconcealing that is taken by Heidegger as the essence (or ‘origin’) of the work of art. This idea of truth, as well as the poetic language Heidegger employed in his exposition, had a decisive effect on Gadamer’s own thinking. Indeed, Gadamer described his philosophical hermeneutics as precisely an attempt “to take up and elaborate this line of thinking from the later Heidegger” (Gadamer 1997b, 47)
+
+There are two crucial elements to Gadamer’s appropriation of Heidegger here: first, the focus on art, and the connection of art with truth; second, the focus on truth itself as the event of prior and partial disclosure (or more properly, of concealment/unconcealment) in which we are already involved and that can never be made completely transparent. Both of these elements are connected with Gadamer’s response to the subjectivist and idealist elements in German thought that were present in the neo-Kantian tradition, and, more specifically, in romantic hermeneutics and aesthetic theory. As Gadamer saw it, aesthetic theory had, largely under the influence of Kant, become alienated from the actual experience of art—the response to art had become abstracted and ‘aestheticised’—while aesthetic judgment had become purely a matter of taste, and so of subjective response. Similarly, under the influence of the ‘scientific’ historiography of those such as Ranke, together with the romantic hermeneutics associated with Schleiermacher and others, the desire for objectivity had led to the separation of historical understanding from the contemporary situation that motivates it, and to a conception of historical method as based in the reconstruction of the subjective experiences of the author—a reconstruction that, as Hegel made clear, is surely impossible (see Gadamer 1989b, 164–9).
+
+By turning back to the direct experience of art, and to the concept of truth as prior and partial disclosure, Gadamer was able to develop an alternative to subjectivism that also connected with the ideas of dialogue and practical wisdom taken from Plato and Aristotle, and of hermeneutical situatedness taken from the early Heidegger. Just as the artwork is taken as central and determining in the experience of art, so is understanding similarly determined by the matter to be understood; as the experience of art reveals, not in spite of, but precisely because of the way it also conceals, so understanding is possible, not in spite of, but precisely because of its prior involvement. In Gadamer’s developed work, the concept of ‘play’ (*Spiel*) has an important role here. Gadamer takes play as the basic clue to the ontological structure of art, emphasizing the way in which play is not a form of disengaged, disinterested exercise of subjectivity, but is rather something that has its own order and structure to which one is given over. The structure of play has obvious affinities with all of the other concepts at issue here—of dialogue, *phronesis*, the hermeneutical situation, the truth of art. Indeed, one can take all of these ideas as providing slightly different elaborations of what is essentially the same basic conception of understanding—one that takes our finitude, that is, our prior involvement and partiality, not as a barrier to understanding, but rather as its enabling condition. It is this conception that is worked out in detail in *Truth and Method*.
+
+## 3. Philosophical Hermeneutics
+
+### 3.1 The Positivity of ‘Prejudice’
+
+One might respond to Gadamer’s emphasis on our prior hermeneutic involvement, whether in the experience of art or elsewhere, that such involvement cannot but remain subjective simply on the grounds that it is always determined by our particular dispositions to experience things in certain ways rather than others—our involvement, one might say, is thus always based on subjective *prejudice*. Such an objection can be seen as a simple reiteration of the basic tendency towards subjectivism that Gadamer rejects, but Gadamer also takes issue directly with this view of prejudice and the negative connotations often associated with the notion, arguing that, rather than closing us off, our prejudices are themselves what open us up to what is to be understood. In this way Gadamer can be seen as attempting to retrieve a positive conception of prejudice (German *Vorurteil*) that goes back to the meaning of the term as literally a *pre-judgment* (from the Latin *prae-judicium*) that was lost during the Renaissance. In *Truth and Method*, Gadamer redeploys the notion of our prior hermeneutical situatedness as it is worked out in more particular fashion in Heidegger’s *Being and Time* (first published in 1927) in terms of the ‘fore-structures’ of understanding, that is, in terms of the anticipatory structures that allow what is to be interpreted or understood to be grasped in a preliminary fashion. The fact that understanding operates by means of such anticipatory structures means that understanding always involves what Gadamer terms the ‘anticipation of completeness’—it always involves the revisable presupposition that what is to be understood constitutes something that is understandable, that is, something that is constituted as a coherent, and therefore meaningful, whole.
+
+Gadamer’s positive conception of prejudice as pre-judgment is connected with several ideas in his approach to hermeneutics. The way in which our prejudgments open us up to the matter at issue in such a way that those prejudgments are themselves capable of being revised exhibits the character of the Gadamerian conception of prejudgment, and its role in understanding, as itself constituting a version of the hermeneutic circle. The hermeneutical priority Gadamer assigns to prejudgment is also tied to Gadamer’s emphasis on the priority of the question in the structure of understanding—the latter emphasis being something Gadamer takes both from Platonic dialectic and also, in *Truth and Method*, from the work of R. G. Collingwood. Moreover, the indispensable role of prejudgment in understanding connects directly with Gadamer’s rethinking of the traditional concept of hermeneutics as necessarily involving, not merely explication, but also *application*. In this respect, all interpretation, even of the past, is necessarily ‘prejudgmental’ in the sense that it is always oriented to present concerns and interests, and it is those present concerns and interests that allow us to enter into the dialogue with the matter at issue. Here, of course, there is a further connection with the Aristotelian emphasis on the practical—not only is understanding a matter of the application of something like ‘practical wisdom’, but it is also always determined by the practical context out of which it arises.
+
+The prejudicial character of understanding means that, whenever we understand, we are necessarily involved in a dialogue that encompasses both our own self-understanding and our understanding of the matter at issue (and there is, it should be added, an essential alterity that obtains even in those cases where our engagement is primarily textual). In the dialogue of understanding our prejudices come to the fore, both inasmuch as they play a crucial role in opening up what is to be understood, and inasmuch as they themselves become evident in that process. As our prejudices thereby become apparent to us, so they can also become the focus of questioning in their own turn. While Gadamer has claimed that ‘temporal distance’ can play a useful role in enabling us better to identify those prejudices that exercise a problematic influence on understanding (Gadamer acknowledges that prejudices can sometimes distort—the point is that they do not always do so), it seems better to see the dialogical interplay that occurs in the process of understanding itself as the means by which such problematic elements are identified and worked through. One consequence of Gadamer’s rehabilitation of prejudice is a positive evaluation of the role of authority and tradition as legitimate sources of knowledge, and this has often been seen, most famously by Jürgen Habermas, as indicative of Gadamer’s ideological conservatism—Gadamer himself viewed it as merely providing a proper corrective to the over-reaction against these ideas that occurred with the Enlightenment.
+
+### 3.2 The Happening of Tradition
+
+Inasmuch as understanding always occurs against the background of our prior involvement, so it always occurs on the basis of our *history*. Understanding, for Gadamer, is thus always an ‘effect’ of history, while hermeneutical ‘consciousness’ is itself that mode of being that is conscious of its own historical ‘being effected’—it is ‘historically-effected consciousness’ (*wirkungsgeschichtliches Bewußtsein*). Awareness of the historically effected character of understanding is, according to Gadamer, identical with an awareness of the hermeneutical situation and he also refers to that situation by means of the phenomenological concept of ‘horizon’ (*Horizont*)—understanding and interpretation thus always occurs from within a particular ‘horizon’ that is determined by our historically-determined situatedness. Understanding is not, however, imprisoned within the horizon of its situation—indeed, the horizon of understanding is neither static nor unchanging (it is, after all, always subject to the effects of history). Just as our prejudices are themselves brought into question in the process of understanding, so, in the encounter with another, is the horizon of our own understanding susceptible to change.
+
+Gadamer views understanding as a matter of negotiation between oneself and one’s partner in the hermeneutical dialogue such that the process of understanding can be seen as a matter of coming to an ‘agreement’ about the matter at issue. Coming to such an agreement means establishing a common framework or ‘horizon’ and Gadamer thus takes understanding to be a process of the ‘fusion of horizons’ (*Horizontverschmelzung*). In phenomenology, the ‘horizon’ is, in general terms, that larger context of meaning in which any particular meaningful presentation is situated. Inasmuch as understanding is taken to involve a ‘fusion of horizons’, then so it always involves the formation of a new context of meaning that enables integration of what is otherwise unfamiliar, strange or anomalous. In this respect, all understanding involves a process of mediation and dialogue between what is familiar and what is alien in which neither remains unaffected. This process of horizontal engagement is an ongoing one that never achieves any final completion or complete elucidation—moreover, inasmuch as our own history and tradition is itself constitutive of our own hermeneutic situation as well as being itself constantly taken up in the process of understanding, so our historical and hermeneutic situation can never be made completely transparent to us. As a consequence, Gadamer explicitly takes issue with the Hegelian ‘philosophy of reflection’ that aims at just such completion and transparency.
+
+In contrast with the traditional hermeneutic account, Gadamer thus advances a view of understanding that rejects the idea of understanding as achieved through gaining access to some inner realm of subjective meaning. Moreover, since understanding is an ongoing process, rather than something that is ever completed, so he also rejects the idea that there is any final determinacy to understanding. It is on this basis that Gadamer argues against there being any method or technique for achieving understanding or arriving at truth. The search for a methodology for the *Geisteswissenschaften* that would place them on a sound footing alongside the ‘sciences of nature’ (the *Naturwissenschaften*)—a search that had characterized much previous hermeneutical inquiry—is thus shown to be fundamentally misguided. Not only is there no methodology that describes the means by which to arrive at an understanding of the human or the historical, but neither is there any such methodology that is adequate to the understanding of the non-human or the natural. Gadamer’s conception of understanding as not reducible to method or technique, along with his insistence of understanding as an ongoing process that has no final completion, not only invites comparison with ideas to be found in the work of the later Wittgenstein, but can also be seen as paralleling developments in post-Kuhnian philosophy of science.
+
+### 3.3 The Linguisticality of Understanding
+
+The basic model of understanding that Gadamer finally arrives at in *Truth and Method* is that of dialogue or *conversation*. A conversation involves an exchange between conversational partners that seeks agreement about some matter at issue; consequently, such an exchange is never completely under the control of either conversational partner, but is rather determined by the matter at issue. Conversation always takes place in language and similarly Gadamer views understanding as always linguistically mediated. Since both conversation and understanding involve coming to an agreement, so Gadamer argues that all understanding involves something like a common language, albeit a common language that is itself formed in the process of understanding itself (and that, one might argue, is also constantly formed and reformed in that very process). In this sense, all understanding is, according to Gadamer, interpretative, and, insofar as all interpretation involves the exchange between the familiar and the alien, so all interpretation is also translative. Gadamer’s commitment to the linguisticality of understanding also commits him to a view of understanding as essentially a matter of conceptual articulation. This does not rule out the possibility of other modes of understanding, but it does give primacy to language and conceptuality in hermeneutic experience. Indeed, Gadamer takes language to be, not merely some instrument by means of which we are able to engage with the world, but as instead the very medium for such engagement. We are ‘in’ the world through being ‘in’ language. This emphasis on the linguisticality of understanding does not, however, lead Gadamer into any form of linguistic relativism. Just as we are not held inescapably captive within the circle of our prejudices, or within the effects of our history, neither are we held captive within language. Language is that within which anything that is intelligible can be comprehended, it is also that within which we encounter ourselves and others. In this respect, language is itself understood as essentially dialogue or conversation. Like Wittgenstein, as well as Davidson, Gadamer thus rejects the idea of such a thing as a ‘private language’—language always involves others, just as it always involves the world.
+
+Gadamer claims that language is the universal horizon of hermeneutic experience; he also claims that the hermeneutic experience is itself universal. This is not merely in the sense that the experience of understanding is familiar or ubiquitous. The universality of hermeneutics derives from the existential claim for hermeneutics that Heidegger advanced in the 1920s and that Gadamer made into a central idea in his own thinking. Hermeneutics concerns our fundamental mode of being in the world and understanding is thus the basic phenomenon in our existence. We cannot go back ‘behind’ understanding, since to do so would be to suppose that there was a mode of intelligibility that was prior to understanding. Hermeneutics thus turns out to be universal, not merely in regard to knowledge, whether in the ‘human sciences’ or elsewhere, but to all understanding and, indeed, to philosophy itself. Philosophy is, in its essence, hermeneutics. Gadamer’s claim for the universality of hermeneutics was one of the explicit points at issue in the debate between Gadamer and Habermas (see Ormiston & Schrift [eds.] 1990); it can also be seen as, in a certain sense, underlying the engagement between Gadamer and Derrida (see Michelfelder & Palmer [eds.] 1989), although in Derrida’s case this consisted in a denial of the primacy of understanding, and the possibility of agreement, on which hermeneutics itself rests.
+
+## 4. Philosophy and the History of Philosophy
+
+Gadamer’s commitment to the historically conditioned character of understanding, coupled with the hermeneutic imperative that we engage with our historical situatedness, means that he takes philosophy to itself stand in a critical relation to the history of philosophy. Gadamer’s own thought certainly reflects a hermeneutical commitment to both philosophical dialogue and historical engagement. His public debates with contemporary figures such as Habermas and Derrida, although they have not always lived up to Gadamer’s own ideals of hermeneutic dialogue (at least not in respect of Derrida), have provided clear evidence of Gadamer’s own commitment to such engagement. The dialogue with philosophy and its history also makes up a large part of Gadamer’s published work and, while that dialogue has encompassed a range of thinkers, its primary focus has been on Plato, Aristotle, Hegel and Heidegger.
+
+In the case of Plato and Aristotle (see Gadamer 1980, 1986a, 1991), Gadamer has argued for a particular way of reading both thinkers that attends to the character of their texts, that takes those texts to display a high degree of consistency, and that, particularly in the later work, also views Plato and Aristotle as holding essentially similar views. In *The Beginning of Philosophy* (1997a), Gadamer also takes Plato and Aristotle as providing the indispensable point of entry to an understanding of Pre-Socratic thought. When it comes to Hegel (see Gadamer 1971), although there is much that Gadamer finds sympathetic to his own hermeneutic project (particularly Hegel’s attempt to move beyond the dichotomy of subject and object, as well as aspects of Hegel’s revival of ancient dialectic), Gadamer’s commitment to a hermeneutics of finitude (and so to what Hegel terms ‘bad infinity’) places him in direct opposition to the Hegelian philosophy of reflection that aims at totality and completion. It is with Heidegger, however, that Gadamer had his most significant, sustained and yet also most problematic philosophical engagement (see especially Gadamer 1994a). Although Gadamer emphasized the continuities between his own work and that of Heidegger, and was clearly gratified by those occasions when Heidegger gave his approval to Gadamer’s work, he can also be seen as involved in a subtle reworking of Heidegger’s ideas. On a number of points, that reworking has a rather different character from that which is explicit in Heidegger. In particular, Gadamer argues that Heidegger’s attempts, in his later thinking, to find a ‘non-metaphysical’ path of thought led Heidegger into a situation in which he experienced a ‘lack of (or need for) language’ (a *Sprachnot*). Gadamer’s own work can thus be seen as an attempt to take up the path of Heidegger’s later thought in a way that does not abandon, but rather attempts to work with our existing language. Similarly, while Heidegger views the history of philosophy as characterized by a ‘forgetting’ of being—a forgetting that is inaugurated by Plato—Gadamer takes the history of philosophy to have no such tendency. In this respect, many of the differences between Gadamer and Heidegger become clearest in their differing readings of the philosophical tradition, as well as in their approaches to poets such as Hölderlin.
+
+## 5. Literature and Art
+
+Over and above his concern with aesthetics as a philosophical theme, the engagement with literature and art has been a continuing feature throughout Gadamer’s life and work and, in particular, Gadamer has written extensively on poets such as Celan, Goethe, Hölderlin, and Rilke (see especially Gadamer 1994b, 1997c). Gadamer’s engagement with art is strongly influenced by his dialogue with the history of philosophy, and he draws explicitly on Hegel as well as Plato. At the same time, that engagement provides an exemplification of Gadamer’s hermeneutics as well as a means to develop it further, while his hermeneutic approach to art itself constitutes a rethinking of aesthetics through the integration of aesthetics into hermeneutics (on Gadamer’s aesthetics in general, see Athos 2013; Davey 2013; Nielsen 2023)[^davey-2013][^nielsen-2023].
+
+In contrast to much contemporary aesthetics, Gadamer takes the experience of beauty to be central to an understanding of the nature of art and in the final pages of *Truth and Method*, he discusses the beautiful as that which is self-evidently present to us (as ‘radiant’) exploring also the close relationship between the beautiful and the true. Of particular importance in his writing about art and literature are the three ideas that appear in the subtitle to ‘The Relevance of the Beautiful’ (1986b): art as play, symbol and festival. The role of play is a central notion in Gadamer’s hermeneutic thinking generally, providing the basis for Gadamer’s account of the experience both of art and understanding (see Aesthetics and Subjectivism above). The symbolic character of the artwork is seen, by Gadamer, not in terms of any form of simple ‘representationalism’, but instead in terms of the character of art as always showing something more than is literally present to us in the work (this aspect of art as referring outside itself is also taken up by Gadamer elsewhere in relation to the character of art as ‘imitation’—*mimesis*). The artwork, no matter what its medium, opens up, through its symbolic character, a space in which both the world, and our own being in the world, are brought to light as a single, but inexhaustibly rich totality. In the experience of art, we are not merely given a ‘moment’ of vision, but are able to ‘dwell’ along with the work in a way that takes us out of ordinary time into what Gadamer calls ‘fulfilled’ or ‘autonomous’ time. Thus the artwork has a festive, as well as symbolic and playful character, since the festival similarly takes us out of ordinary time, while opening us up to the true possibility of community. Gadamer returned specifically to the question of art in his late essay (from 1992) ‘The Artwork in Word and Image: "So True, So Full of Being"’(Gadamer 2007, pp. 192–224) in which he draws out the character of interpretation as not something additional to the work or art, but that in which the artwork is itself realized. In so doing, Gadamer also enlarges and expands the idea of interpretation that was evident in his earlier works, drawing on the experience of reading in a way that not only shows the richness of textual engagement, but also brings out the dynamic, performative, and essentially other-involving-character of all interpretation.
+
+Although much of Gadamer’s writing on art focuses on poetry, as well as the visual arts, he has also addressed questions of music (see Gadamer 2021, 2022), and Gadamer’s work is increasingly evident in contemporary philosophy of music, especially in discussions of musical performance and improvisation (see, e.g., Benson 2003; McAuliffe 2023; Nielsen 2023)[^benson-2003][^mcauliffe-2023][^nielsen-2023]. Gadamer’s emphasis on the dynamic and performative character of understanding has an obvious relevance to music, but music itself provides a valuable source for thinking about the character of art and understanding in general.
+
+## 6. Practical Philosophy
+
+There is, according to Gadamer, a continuity between a hermeneutics ‘that is aware of its philosophic implications’ and ‘the great tradition of practical philosophy’ (Gadamer 2007, p.245), and such a claim would already seem to be implicit in the idea that interpretation and application are tied together through the embeddedness of interpretation in the hermeneutical situation. Gadamer has himself engaged, however, in direct reflection on a range of concrete contemporary issues (see Gadamer 1976a, 1989a, 1993b, 1998b, 1999, 2001, see also Krajewski 2003)[^krajewski-2003]. Gadamer’s discussion of these issues draws directly upon his more theoretical discussions of hermeneutics elsewhere, sometimes serving to provide further elaboration and illumination of the ideas at work in those discussions. A central concern in many of Gadamer’s essays is the role of Europe, and European culture, in the contemporary world—something that was especially pressing for Gadamer with the advent of German reunification and the expansion of the European community (see especially Gadamer 1989a). Here, however, a number of other closely connected issues also come into view: the nature and role of modern science and technology (see especially 1976a, 1998b), and together with this, the role of the humanities; the question of education and, in particular, of humanistic education (1992); the issue of understanding between cultures, and especially between religions, and the issue of world literature (see especially George 2020)[^george-2020]. In addition, Gadamer has written on matters concerning law, ethics, the changing character of the modern university, the connection between philosophy and politics, and the nature of medical practice and the concept of health (see especially Gadamer 1993b, see also see Aho 2022)[^aho-2022].
+
+In almost all of these areas, Gadamer’s approach is characterized, not by the attempt to apply pre-existing theory to the domain in question, but rather by the attempt to think from within that domain, and in a way that is attentive to it, that also entails a reciprocity between the theoretical and the applied. As Gadamer comments in *Truth and Method*, ‘application is neither a subsequent nor merely an occasional part of the phenomenon of understanding, but co-determines it as a whole from the beginning’ (Gadamer 1989b, 324). Theory and application do not occur, then, in separation from one another, but are part of a single hermeneutical ‘practice’. The interdependence of philosophical theory and practical application, often in the form of an interdependence between theoretical engagement in one domain and engagement in another, is evident to a degree in some of the very early responses to Gadamer’s work by thinkers from outside of philosophy who had interests in the implications of hermeneutic thinking within their own specific domains. Thus Gadamer’s work was famously taken up in the 1960s by the Italian jurist Emilio Betti (see Betti 2021 [1964], pp. 45–61)[^betti-2021], and Betti’s work was also drawn upon by E. D. Hirsch whose concerns came from the direction of literary theory (see Hirsch 1965, 1967). Theology was another area where Gadamer had an early impact (see, e.g., Robinson and Cobb 1964)[^robinson-1964], partly reinforced through connections between his work and that of the theologian Bernard Lonergan (see Lawrence 1984)[^lawrence-1984].
+
+Gadamer’s thinking has continued to be influential in legal theory and jurisprudence (see Mootz 2007)[^mootz-2007], in literary theory (see Weinsheimer 1991)[^weinsheimer-1991], and theology (see Lawrence 2006)[^lawrence-2006], but the interconnection of philosophical and practical hermeneutics that is evident in Gadamer’s own work has itself been reflected in the way that work has been taken up in relation to practical and applied issues within many other domains—within, for instance, health and medical practice (see e.g., Svenaueus 2003)[^svenaueus-2003], intercultural studies (see e.g., Garfield 2002, Lammi 2008)[^garfield-2002][^lammi-2008]), education (see e.g., Fairfield 2012)[^fairfield-2012], environmental education and ecology (see, e.g., Grün 2005)[^grün-2005],architecture (see, e.g., Snodgrass and Coyne 2006)[^snodgrass-2006], and political theory (see, e.g., Walhof 2022)[^walhof-2022](on many of these topics, see also the various chapters in Malpas & Gander 2014)[^gander-2014][^malpas-2014][^malpas-2014-2]. Gadamer’s work has also seen application, though not uncontentiously, within feminism (see Homan 2022)[^homan-2022] and contemporary race theory (Botts 2022)[^botts-2022].
+
+That practical engagement is an essential element in Gadamer’s thinking implies that it cannot be seen to stand aside from questions of ethics. Gadamer never developed a book-length treatment that addresses such questions, but there is clearly an ethical current that runs throughout his thinking, and that is discernible, for instance, in his emphasis on the conversational character of hermeneutic engagement as well as his later reflections on the relation to the other (including on themes of friendship and solidarity) (see Gadamer 1999). It is also clearly evident in the engagement with Aristotle that runs throughout Gadamer’s work as well as his engagement with Plato (notably Gadamer 1991). Despite the absence of a fully developed account, Gadamer has addressed the matter of ethics directly in, most notably, ‘On the Possibility of a Philosophical Ethics’ (Gadamer 1999, pp. 18–36 and 2007, pp. 274–289), in which Gadamer argues against Kantian formalism in favor of a more Aristotelian approach. The issue of the ethical dimension in Gadamer’s thought and in hermeneutics more generally has also been taken up in the work of others (see especially Schmidt 2015; George 2020)[^george-2020][^schmidt-2015].
+
+## References（引用注释）
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Sources
+
+#### Works in German
+
+#### Works in English
+
+### Secondary Sources (in English)
+
+## Academic Tools
+
+> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=gadamer). |
+> | --- | --- |
+> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/gadamer/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=gadamer&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/gadamer/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+- [Gadamer Home Page in German](http://www.rs.tus.ac.jp/makita/gdmhp/gdmhp_d.html) maintained by Etsuro Makita
+- [Gadamer Home Page in Japanese](http://www.rs.tus.ac.jp/makita/gdmhp/gdmhp_j.html) maintained by Etsuro Makita
+- [Gadamer, Hans-Georg](http://www.iep.utm.edu/gadamer/), entry by Lauren Swayne Barthold, in the *Internet Encyclopedia of Philosophy*, J. Fieser and Bradley Dowden (eds.), U. Tennessee/Martin.
+- [Hans-Georg Gadamer](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0281.xml), by Robert Dostal, *Oxford Bibliographies*.
+
+## Related Entries
+
+Gadamer, Hans-Georg: aesthetics | Hartmann, Nicolai | Heidegger, Martin | hermeneutics | Natorp, Paul | phenomenology | understanding
+
+[^an-1997]: An extensive bibliography of Gadamer’s work, compiled by Richard E. Palmer, can be found in Hahn 1997, 555–602; see also Makita 1995.
+
+[^an-1985]: 1985–1995, *Gesammelte Werke*, 10 vols., Tübingen: J.C.B. Mohr; *Truth and Method* (*Wahrheit und Methode: Grundzüge einer philosophischen Hermeneutik*, 5th edn, 1975), is included as v.1; a list of contents for all 10 vols. is included in vol.10.
+
+[^an-1967]: 1967–1979, *Kleine Schriften*, 4 vols, Tübingen: Mohr.
+
+[^other-nd]: Other works not included in the *Gesammelte Werke* or *Kleine Schriften*:
+
+[^other-1971]: 1971, *Hegels Dialektik*, Tübingen: Mohr, English trans. Gadamer 1976b.
+
+[^other-1976a]: 1976a, *Vernunft im Zeitalter der Wissenschaft: Aufsätze*, Frankfurt: Suhrkamp, English trans. Gadamer 1981.
+
+[^other-1989a]: 1989a, *Das Erbe Europas: Beiträge*, Frankfurt: Suhrkamp, English translation in Gadamer 1992
+
+[^other-1993a]: 1993a, *Hermeneutik, Ästhetik, Praktische Philosophie: Hans-Georg Gadamer im Gespräch*, ed. by Carsten Dutt, Heidelberg: Universitätsverlag C. Winter, English trans. Gadamer 2001.
+
+[^other-1993b]: 1993b, *Über die Verborgenheit der Gesundheit: Aufsätze und Vorträge*, Frankfurt: Suhrkamp Verlag, English translation Gadamer 1996.
+
+[^other-1997a]: 1997a, *Der Anfang der Philosophie*, Stuttgart: Reclam, English trans. Gadamer 1998a
+
+[^other-2000]: 2000, *Hermeneutische Entwürfe*, Tübingen: Mohr Siebeck.
+
+[^other-1976b]: 1976b, *Hegel’s Dialectic: Five Hermeneutical Studies*, trans. by P. Christopher Smith (from Gadamer 1971), New Haven: Yale University Press.
+
+[^other-1976c]: 1976c, *Philosophical Hermeneutics*, ed. and trans. by David E. Linge, Berkeley: University of California Press; 2nd revised edition published as “30th Anniversary Edition”, 2008.
+
+[^other-1980]: 1980, *Dialogue and Dialectic: Eight Hermeneutical Studies on Plato*, trans. and ed. by P. Christopher Smith, New Haven: Yale University Press.
+
+[^other-1981]: 1981, *Reason in the Age of Science*, trans. by Frederick G. Lawrence, Cambridge, Mass.: MIT Press.
+
+[^other-1985]: 1985, *Philosophical Apprenticeships*, trans. by Robert R. Sullivan, Cambridge, Mass.: MIT Press.
+
+[^other-1986a]: 1986a, *The Idea of the Good in Platonic-Aristotelian Philosophy*, trans. P. Christopher Smith, New Haven: Yale University Press.
+
+[^other-1986b]: 1986b, *The Relevance of the Beautiful and Other Essays*, trans. by N. Walker, ed. by R. Bernasconi, Cambridge: Cambridge University Press.
+
+[^other-1989b]: 1989b, *Truth and Method*, 2nd rev. edn. (1st English edn, 1975, trans. by W, Glen-Doepel, ed. by John Cumming and Garret Barden), revised translation by J. Weinsheimer and D.G. Marshall, New York: Crossroad. [Since the appearance of the 2nd revised edition in 1989, *Truth and Method* has been republished in various formats by Continuum, and more recently Bloomsbury, without substantive change to the text, but unfortunately without maintaining any uniformity of pagination.]
+
+[^other-1991]: 1991, *Plato’s dialectical ethics: phenomenological interpretations relating to the “Philebus”*, trans. by R. M. Wallace, New Haven: Yale University Press.
+
+[^other-1992]: 1992, *Hans-Georg Gadamer on Education, Poetry and History: Applied Hermeneutics*, ed. by Dieter Misgeld and Graeme Nicholson, trans. by Lawrence Schmidt and Monica Ruess, Albany, NY: SUNY Press.
+
+[^other-1994a]: 1994a, *Heidegger’s ways*, trans. by John W. Staley, Albany, NY: SUNY Press.
+
+[^other-1994b]: 1994b, *Literature and Philosophy in Dialogue: Essays in German Literary Theory*, trans. By Robert H. Paslick, ed. by Dennis J. Schmidt, Albany, NY: SUNY Press.
+
+[^other-1996]: 1996, *The Enigma of Health: The Art of Healing in a Scientific Age*, trans. by John Gaiger and Nicholas Walker, Oxford: Polity Press.
+
+[^other-1997b]: 1997b, ‘Reflections on my Philosophical Journey’, trans. by Richard E. Palmer, in Hahn (ed.) 1997.
+
+[^other-1997c]: 1997c, *Gadamer on Celan: ‘Who Am I and Who Are You?’ and Other Essays*, trans. and ed. by Richard Heinemann and Bruce Krajewski, Albany, NY: SUNY Press.
+
+[^other-1998a]: 1998a, *The Beginning of Philosophy*, trans. by Rod Coltman, New York: Continuum.
+
+[^other-1998b]: 1998b, *Praise of Theory*, trans. by Chris Dawson, New Haven: Yale University Press.
+
+[^other-1999]: 1999, *Hermeneutics, Religion and Ethics*, trans. by Joel Weinsheimer, New Haven: Yale University Press.
+
+[^other-2001]: 2001, *Gadamer in Conversation*, trans. by Richard Palmer (from Gadamer 1993a), New Haven: Yale University Press.
+
+[^other-2002]: 2002, *The Beginning of Knowledge*, trans. by Rod Coltman, New York: Continuum.
+
+[^other-2003]: 2003, *A Century of Philosophy: a conversation with Ricardo Dottori*, trans. by Rod Coltman and Sigrid Koepke, New York: Continuum.
+
+[^other-2007]: 2007, *The Gadamer Reader: A Bouquet of the Later Writings* , ed. by Jean Grondin, trans. by Richard Palmer, Chicago: Northwestern University Press.
+
+[^other-2016]: 2016, *Hermeneutics between History and Philosophy: The Selected Writings of Hans-Georg Gadamer*, ed. Pol Vandevelde and Arun Iyer, London: Bloomsbury.
+
+[^other-2016-2]: 2016, with Jacques Derrida and Philippe Lacoue-Labarthe, *Heidegger, Philosophy, and Politics. The Heidelberg Conference*, trans. Mireille Calle-Gruber, ed. Jeff Fort, Fordham: Fordham University Press.
+
+[^other-2021]: 2021, ‘Music and Time’, trans. Cynthia R. Nielsen & David Liakos, *Epoché: A Journal for the History of Philosophy*, 26: 251–258.
+
+[^other-2022]: 2022, *Ethics, Aesthetics, and the Historical Dimension of Language: The Selected Writings of Hans-Georg Gadamer*, ed. Pol Vandevelde and Arun Iyer, London: Bloomsbury.
+
+[^aho-2022]: Aho, Kevin, 2022,‘Gadamer and Health’, George and van der Heiden (2022), pp. 177–187.
+
+[^arthos-2013]: Arthos, John, 2013, *Gadamer’s Poetics: A Critique of Modern Aesthetics*, London: Bloomsbury.
+
+[^barthold-2010]: Barthold, Lauren Swayne, 2010, *Gadamer’s Dialectical Hermeneutics*, Lanham, MD: Lexington, 2010.
+
+[^benson-2003]: Benson, Bruce Ellis, 2003, *The Improvisation of Musical Dialogue: A Phenomenology of Music*, Cambridge: Cambridge University Press.
+
+[^betti-2021]: Betti, Emilio, 2021 [1962], *Hermeneutics as a General Methodology of the Sciences of Spirit*, Abingdon: Routledge.
+
+[^brandom-2002]: Brandom, Robert, 2002, *Tales of the Mighty Dead: Historical Essays in the Metaphysics of Intentionality*, Cambridge, Mass: Harvard University Press.
+
+[^botts-2022]: Botts, Tina Fernandes, 2022, ‘Gadamer and Race Theory’, in George and van der Heiden (2022), pp. 501–514.
+
+[^carr-1996]: Carr, Thomas K., 1996, *Newman and Gadamer: Toward a Hermeneutics of Religious Knowledge*, New York: Oxford University Press.
+
+[^code-2003]: Code, Lorraine (ed.), 2003, *The Feminist Interpretations of Hans-Georg Gadamer*, University Park, Pennsylvania State University Press.
+
+[^coltman-1998]: Coltman, Rodney R., 1998, *The Language of Hermeneutics: Gadamer and Heidegger in Dialogue*, Albany, NY: SUNY Press.
+
+[^dallmayr-1993]: Dallmayr, Fred, 1993, ‘Self and Other: Gadamer and the Hermeneutics of Difference’, *Yale Journal of Law and Humanities* 5: 507–529.
+
+[^davey-2013]: Davey, Nicholas, 2013, *Unfinished Worlds: Hermeneutics, Aesthetics and Gadamer*, Edinburgh: Edinburgh University Press.
+
+[^di-2013]: Di Cesare, Donatella, 2013, *Gadamer: A Philosophical Portrait*, trans. Niall Keane, Bloomington: Indiana University Press.
+
+[^dostal-2021a]: Dostal, Robert J. (ed.), 2021a, *The Cambridge Companion to Gadamer*, Cambridge: Cambridge University Press, 2nd edn.
+
+[^dostal-2021b]: Dostal, Robert J., 2021b, ‘Gadamer (1900–2002): The Man and His Work’, in Dostal (2021a), pp. 15–43.
+
+[^dottori-2012]: Dottori, Ricardo (ed.), 2012, *Fifty years after H.-G. Gadamer’s ‘Truth and Method’: Some considerations on H.-G. Gadamer’s main philosophical work*, Berlin: LIT Verlag.
+
+[^dworkin-1986]: Dworkin, Ronald, 1986, *Law’s Empire*, Cambridge, Mass.: Harvard University Press.
+
+[^eberhard-2004]: Eberhard, Philippe, 2004, *The Middle Voice in Gadamer’s Hermeneutics: A Basic Interpretation with Some Theological Implications*, Tübingen: Mohr Siebeck.
+
+[^fairfield-2012]: Fairfield, Paul (ed.), 2012 *Education, Dialogue and Hermeneutics*, London: Bloomsbury.
+
+[^foster-1991]: Foster, Matthew, 1991, *Gadamer and Practical Philosophy: The Hermeneutics of Moral Confidence*, Atlanta: Scholars Press.
+
+[^gander-2014]: Gander, Hans-Helmuth, 2014, ‘Gadamer: the Universality of Hermeneutics’, in Malpas and Gander (2014), pp. 37–48.
+
+[^garfield-2002]: Garfield, Jay, 2002, ‘Philosophy, Religion, and the Hermeneutic Imperative’, in Malpas, Arnswald and Kertscher (2002), pp. 97–110.
+
+[^george-2020]: George, Theodore, 2020, *The Responsibility to Understand: Hermeneutical Contours of Ethical Life*, Edinburgh: Edinburgh University Press.
+
+[^george-2022]: George, Theodore and Gert-Jan van der Heiden (eds), 2022, *The Gadamerian Mind*, Abingdon: Routledge.
+
+[^grondin-2002]: Grondin, Jean, 2002, *The Philosophy of Gadamer*, trans. by Kathryn Plant, New York: McGill-Queens University Press.
+
+[^grondin-2003]: Grondin, Jean, 2003, *Hans-Georg Gadamer: A Biography*, trans. Joel Weinsheimer, New Haven: Yale University Press.
+
+[^grün-2005]: Grün, Mauro, 2005, ‘Gadamer and the Otherness of Nature: Elements for an Environmental Education’, *Human Studies*, 28: 157–171.
+
+[^hahn-1997]: Hahn, Lewis Edwin (ed.), 1997, *The Philosophy of Hans-Georg Gadamer*, *Library of Living Philosophers* XXIV, Chicago: Open Court (includes Gadamer 1997b).
+
+[^hirsch-1967]: Hirsch, E.D., 1967, *Validity in Interpretation*, New Haven and London: Yale University Press.
+
+[^homan-2022]: Homan, Catherine, 2022, ‘Gadamer and feminism’, in George and van der Heiden (2022), pp. 487–500.
+
+[^keane-2015]: Keane, Niall and Chris Lawn (eds), 2015, *A Companion to Hermeneutics,*Oxford: Blackwell.
+
+[^keane-2021]: Keane, Niall, 2021,‘Hermeneutics in a Broader Horizon: Gadamer, Rorty, Davidson’, in Dostal (2021), pp. 374–405.
+
+[^krajewski-2003]: Krajewski, Bruce (ed.), 2003, *Gadamer’s Repercussions: Reconsidering Philosophical Hermeneutics*, Berkeley: University of California Press.
+
+[^lammi-2008]: Lammi, Walter, 2008, *Gadamer and the Question of the Divine*, London: Continuum.
+
+[^lawn-2006]: Lawn, Chris, 2006, *Gadamer: A Guide for the Perplexed*, New York: Continuum.
+
+[^lawrence-1984]: Lawrence, F. (ed.), 1984, *The Beginning and the Beyond: Papers From the Gadamer and Voegelin Conferences, Supplementary Issue of Lonergan Workshop*, Vol. 4 (Chico, CA: Scholars Press).
+
+[^lawrence-2006]: Lawrence, Fred, 2006, ‘Gadamer, the Hermeneutic Revolution, and Theology’, in Dostal (2021), pp. 242–281
+
+[^makita-1995]: Makita, Etsura, 1995, *Gadamer-Bibliographie (1922–1994)*, New York: Peter Lang (in German) (this bibliography, in updated form, also appears at the ‘Gadamer Home Page’, see Other Internet Resources below.)
+
+[^malpas-2014]: Malpas, Jeff, 2014, ‘Place and Situation’, in Malpas (2014), pp. 354–366.
+
+[^malpas-2002]: Malpas, Jeff, Ulrich Arnswald and Jens Kertscher (eds.), 2002, *Gadamer’s Century: Essays in Honour of Hans-Georg Gadamer*, Cambridge, Mass.: MIT Press.
+
+[^malpas-2014-2]: Malpas, Jeff, and Hans-Helmuth Gander (eds.), 2014, *The Routledge Companion to Hermeneutics*, London: Routledge.
+
+[^malpas-2010]: Malpas, Jeff, and Santiago Zabala (eds.), 2010, *Consequences of Hermeneutics: Fifty Years After “Truth and Method”*, Evanston, Ill.: Northwestern University Press.
+
+[^mcauliffe-2023]: McAuliffe, Sam, 2023, *Improvisation in Music and Philosophical Hermeneutics*, London: Bloomsbury.
+
+[^mcdowell-1996]: McDowell, John, 1996, *Mind and World*, Cambridge, Mass.: Harvard University Press.
+
+[^mcdowell-2002]: –––, 2002, ‘Gadamer and Davidson on Understanding and Relativism’, in Malpas, Arnswald and Kertscher (2002), pp. 173–194.
+
+[^mcintyre-2002]: McIntyre, Alasdair, 2002, ‘On Not Having the Last Word: Thoughts on Our Debts to Gadamer’, in Malpas, Arnswald and Kertscher (2002), pp. 157–172.
+
+[^michelfelder-1989]: Michelfelder, Diane. P. and Richard E. Palmer (eds.), 1989, *Dialogue and Deconstruction: The Gadamer-Derrida Debate*, Albany, NY: SUNY Press. (Contains a number of Gadamer’s writings relevant to the debate with Derrida.)
+
+[^mootz-2007]: Mootz, Francis Joseph, 2007, *Gadamer and Law*, Farnham, Surrey: Ashgate Publishing.
+
+[^nielsen-2023]: Nielsen, Cynthia R, 2023, *Gadamer’s Hermeneutical Aesthetics: Art as a Performative, Dynamic, Communal Event*, Abingdon: Routledge.
+
+[^ormiston-1990]: Ormiston, Gayle and Alan Schrift (eds.), 1990, *The Hermeneutic Tradition*, Albany: SUNY Press (contains a number of writings by Gadamer and others relevant to the debate with Habermas as well as Betti.)
+
+[^palmer-1969]: Palmer, Richard, E., 1969, *Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer*, Evanston, Northwestern University Press (one of the first detailed accounts of Gadamer’s thinking, and of hermeneutic theory generally, available in English.)
+
+[^palmer-2002]: –––, 2002, ‘A Response to Richard Wolin on Gadamer and the Nazis’, *International Journal of Philosophical Studies*, 10: 467–82 (replying to Wolin 2000.)
+
+[^robinson-1964]: Robinson, J.M. and Cobb, J. B, (1964), *The New Hermeneutic*. New York, Harper Row.
+
+[^risser-1997]: Risser, James, 1997, *Hermeneutics and the Voice of the Other: Re-Reading Gadamer’s Philosophical Hermeneutics*, Albany, NY: SUNY Press.
+
+[^rorty-1979]: Rorty, Richard, 1979, *Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
+
+[^scheibler-2000]: Scheibler, Ingrid, 2000, *Gadamer. Between Heidegger and Hermeneutics*, Lanham, Maryland: Rowman and Littlefield.
+
+[^schmidt-2015]: Schmidt, Dennis, 2015, ‘Hermeneutics and Ethical Life: On the Return to Factical Life’, in Keane and Lawn (2015), pp. 65–71.
+
+[^schmidt-1985]: Schmidt, Lawrence K., 1985, *The Epistemology of Hans-Georg Gadamer*, Frankfurt: Peter Lang.
+
+[^silverman-1991]: Silverman, Hugh J. (ed.), 1991, *Gadamer and Hermeneutics*, New York: Routledge.
+
+[^snodgrass-2006]: Snodgrass, Adrian and Richard Coyne, 2006, *Interpretation in Architecture: Design as Way of Thinking*, London: Routledge.
+
+[^sullivan-1990]: Sullivan, Robert, 1990, *Political Hermeneutics: The Early Thinking of Hans-Georg Gadamer*, University Park, Pennsylvania: Pennsylvania State University Press.
+
+[^svenaueus-2003]: Svenaueus, Fredrick, 2003, ‘Hermeneutics of Medicine in the wake of Gadamer: The Issue of Phronesis’, *Theoretical Medicine and Bioethics*, 24: 407–431.
+
+[^wachterhauser-1999]: Wachterhauser, Brice, 1999, *Beyond Being: Gadamer’s Post-Platonic Hermeneutic Ontology*, Evanston, Illinois: Northwestern University Press.
+
+[^walhof-2022]: Walhof, Darren, 2022, ‘Gadamer’s Contribution to Political Theory’, George and van der Heiden (2022), pp. 418–431.
+
+[^warnke-1987]: Warnke, Georgia, 1987, *Gadamer: Hermeneutics, Tradition and Reason*, Stanford: Stanford University Press.
+
+[^warnke-2016]: Warnke, Georgia (ed.), 2016, *Inheriting Gadamer. New Directions in Philosophical Hermeneutics*, Edinburgh: Edinburgh University Press.
+
+[^weinsheimer-1985]: Weinsheimer, Joel, 1985, *Gadamer’s Hermeneutics: A Reading of “Truth and Method”*, New Haven: Yale University Press.
+
+[^weinsheimer-1991]: Weinsheimer, Joel, 1991, *Philosophical Hermeneutics and Literary Theory*, New Haven: Yale University Press.
+
+[^wiercinski-2011]: Wiercinski, Andrej, 2011, *Gadamer’s Hermeneutics and the Art of Conversation*, Münster: LIT Verlag.
+
+[^wolin-2000]: Wolin, Richard, 2000, ‘Untruth and Method: Nazism and the Complicities of Hans-Georg Gadamer’, *New Republic*, 222(20): 36–45 (for the reply, see Palmer 2002).
+
+[^wright-1990]: Wright, Kathleen (ed.), 1990, *Festivals of Interpretation: Essays on Hans-Georg Gadamer’s Work*, Albany, NY: SUNY Press.

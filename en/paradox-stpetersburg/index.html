@@ -1,0 +1,1780 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The St. Petersburg Paradox (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="The St. Petersburg Paradox" />
+<meta name="citation_author" content="Peterson, Martin" />
+<meta name="citation_publication_date" content="2019/07/30" />
+<meta name="DC.title" content="The St. Petersburg Paradox" />
+<meta name="DC.creator" content="Peterson, Martin" />
+<meta name="DCTERMS.issued" content="2019-07-30" />
+<meta name="DCTERMS.modified" content="2023-08-01" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/paradox-stpetersburg/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=paradox-stpetersburg">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>The St. Petersburg Paradox</h1><div id="pubinfo"><em>First published Tue Jul 30, 2019; substantive revision Tue Aug 1, 2023</em></div>
+
+<div id="preamble">
+
+<p>
+The St. Petersburg paradox was introduced by Nicolaus Bernoulli in
+1713. It continues to be a reliable source for new puzzles and
+insights in decision theory.</p>
+
+<p>
+The standard version of the St. Petersburg paradox is derived from the
+St. Petersburg game, which is played as follows: A fair coin is
+flipped until it comes up heads the first time. At that point the
+player wins \(\$2^n,\) where <i>n</i> is the number of times the coin
+was flipped. How much should one be willing to pay for playing this
+game? Decision theorists advise us to apply the principle of
+maximizing expected value. According to this principle, the value of
+an uncertain prospect is the sum total obtained by multiplying the
+value of each possible outcome with its probability and then adding up
+all the terms (see the entry on
+ <a href="../rationality-normative-utility/">normative theories of rational choice: expected utility</a>).
+ In the St. Petersburg game the monetary values of the outcomes and
+their probabilities are easy to determine. If the coin lands heads on
+the first flip you win $2, if it lands heads on the second flip you
+win $4, and if this happens on the third flip you win $8, and so on.
+The probabilities of the outcomes are \(\frac{1}{2}\),
+\(\frac{1}{4}\), \(\frac{1}{8}\),&hellip;. Therefore, the expected
+monetary value of the St. Petersburg game is</p> 
+\[\begin{align}
+\frac{1}{2}\cdot 2 + \frac{1}{4}\cdot 4 + \frac{1}{8}\cdot 8 + \cdots &amp;= 1+1+1+ \cdots \\
+&amp;= \sum_{n=1}^{\infty} \left(\frac{1}{2}\right)^n \cdot 2^n \\
+&amp;= \infty.
+\end{align}\]
+
+<p>
+(Some would say that the sum <em>approaches</em> infinity, not that it
+<em>is</em> infinite. We will discuss this distinction in
+ <a href="">Section 2</a>.)</p>
+ 
+<p>
+The &ldquo;paradox&rdquo; consists in the fact that our best theory of
+rational choice seems to entail that it would be rational to pay
+<em>any</em> finite fee for a single opportunity to play the St.
+Petersburg game, even though it is almost certain that the player will
+win a very modest amount. The probability is \(\frac{1}{2}\) that the
+player wins no more than $2, and \(\frac{3}{4}\) that he or she wins
+no more than $4.</p>
+
+<p>
+In a strict logical sense, the St. Petersburg paradox is not a paradox
+because no formal contradiction is derived. However, to claim that a
+rational agent should pay millions, or even billions, for playing this
+game seems absurd. So it seems that we, at the very least, have a
+counterexample to the principle of maximizing expected value. If
+rationality forces us to liquidate all our assets for a single
+opportunity to play the St. Petersburg game, then it seems unappealing
+to be rational.</p>
+</div> 
+
+<div id="toc">
+<!--Entry Contents-->
+<ul>
+<li><a href="#HistStPetePara">1. The History of the St. Petersburg Paradox</a></li>
+<li><a href="#ModeStPetePara">2. The Modern St. Petersburg Paradox</a></li>
+<li><a href="#UnreAssu">3. Unrealistic Assumptions?</a></li>
+<li><a href="#BounUtilFunc">4. A Bounded Utility Function?</a></li>
+<li><a href="#IgnoSmalProb">5. Ignore Small Probabilities?</a></li>
+<li><a href="#RelaExpeUtilTheo">6. Relative Expected Utility Theory</a></li>
+<li><a href="#PasaGame">7. The Pasadena Game</a></li>
+<li><a href="#Bib">Bibliography</a></li>
+<li><a href="#Aca">Academic Tools</a></li>
+<li><a href="#Oth">Other Internet Resources</a></li>
+<li><a href="#Rel">Related Entries</a></li>
+</ul>
+
+<!--Entry Contents-->
+<hr />
+
+</div>
+
+<div id="main-text">
+
+<h2 id="HistStPetePara">1. The History of the St. Petersburg Paradox</h2>
+
+<p>
+The St. Petersburg paradox is named after one of the leading
+scientific journals of the eighteenth century, <em>Commentarii
+Academiae Scientiarum Imperialis Petropolitanae</em> [<em>Papers of
+the Imperial Academy of Sciences in Petersburg</em>], in which Daniel
+Bernoulli (1700&ndash;1782) published a paper entitled &ldquo;Specimen
+Theoriae Novae de Mensura Sortis&rdquo; [&ldquo;Exposition of a New
+Theory on the Measurement of Risk&rdquo;] in 1738. Daniel Bernoulli
+had learned about the problem from his cousin Nicolaus I
+(1687&ndash;1759), who proposed an early but unnecessarily complex
+version of the paradox in a letter to Pierre R&eacute;mond de Montmort
+on 9 September 1713 (for this and related letters see J. Bernoulli
+1975). Nicolaus asked de Montmort to imagine an example in which an
+ordinary dice is rolled until a 6 comes up:</p>
+
+<blockquote>
+
+<p>
+[W]hat is the expectation of <i>B</i> &hellip; if <i>A</i> promises to
+<i>B</i> to give him some coins in this progression 1, 2, 4, 8, 16
+etc. or 1, 3, 9, 27 etc. or 1, 4, 9, 16, 25 etc. or 1, 8, 27, 64
+instead of 1, 2, 3, 4, 5 etc. as beforehand. Although for the most
+part these problems are not difficult, you will find however something
+most curious. (N. Bernoulli to Montmort, 9 September 1713)</p>
+</blockquote>
+
+<p>
+It seems that Montmort did not immediately get Nicolaus&rsquo; point.
+Montmort responded that these problems </p>
+
+<blockquote>
+
+<p>
+have no difficulty, the only concern is to find the sum of the series
+of which the numerators being in the progression of squares, cubes,
+etc. the denominators are in geometric progression. (Montmort to N.
+Bernoulli, 15 November 1713) </p>
+</blockquote>
+
+<p>
+However, he never performed any calculations. If he had, he would have
+discovered that the expected value of the first series (1, 2, 4, 8,
+16, etc.) is:</p> 
+\[
+\sum_{n=1}^{\infty} \frac{5^{n-1}}{6^n}\cdot 2^{n-1}.
+\]
+
+<p>
+For this series it holds that</p> 
+\[
+\lim_{n\to\infty} \left|\frac{a_{n+1}}{a_n}\right| \gt 1,
+\]
+
+<p>
+so by applying the ratio test it is easy to verify that the series is
+divergent. (This test was discovered by d&rsquo;Alembert in 1768, so
+it might be unfair to criticize Montmort for not seeing this.)
+However, the mathematical argument presented by Nicolaus himself was
+also a bit sketchy and would not impress contemporary mathematicians.
+The good news is that his conclusion was correct:</p>
+
+<blockquote>
+
+<p>
+it would follow thence that B must give to <i>A</i> an infinite sum
+and even more than infinity (if it is permitted to speak thus) in
+order that he be able to make the advantage to give him some coins in
+this progression 1, 2, 4, 8, 16 etc. (N. Bernoulli to Montmort, 20
+February 1714)</p>
+</blockquote>
+
+<p>
+The next important contribution to the debate was made by
+Cram&eacute;r in 1728. He read about Nicolaus&rsquo; original problem
+in a book published by Montmort and proposed a simpler and more
+elegant formulation in a letter to Nicolaus:</p>
+
+<blockquote>
+
+<p>
+In order to render the case more simple I will suppose that <i>A</i>
+throw in the air a piece of money, <i>B</i> undertakes to give him a
+coin, if the side of Heads falls on the first toss, 2, if it is only
+the second, 4, if it is the 3rd toss, 8, if it is the 4th toss, etc.
+The paradox consists in this that the calculation gives for the
+equivalent that <i>A</i> must give to <i>B</i> an infinite sum, which
+would seem absurd. (Cram&eacute;r to N. Bernoulli, 21 May 1728)</p>
+</blockquote>
+
+<p>
+In the very same letter, Cram&eacute;r proposed a solution that
+revolutionized the emerging field of decision theory. Cram&eacute;r
+pointed out that it is not the expected <em>monetary</em> value that
+should guide the choices of a rational agent, but rather the
+&ldquo;usage&rdquo; that &ldquo;men of good sense&rdquo; can make of
+money. According to Cram&eacute;r, twenty million is not worth more
+than ten million, because ten million is enough for satisfying all
+desires an agent may reasonably have:</p>
+
+<blockquote>
+
+<p>
+mathematicians value money in proportion to its quantity, and men of
+good sense in proportion to the usage that they may make of it. That
+which renders the mathematical expectation infinite, is the prodigious
+sum that I am able to receive, if the side of Heads falls only very
+late, the 100th or 1000th toss. Now this sum, if I reason as a
+sensible man, is not more for me, does not make more pleasure for me,
+does not engage me more to accept the game, than if it would be only
+10 or 20 million coins. (21 May 1728)</p>
+</blockquote>
+
+<p>
+The point made by Cram&eacute;r in this passage can be generalized.
+Suppose that the upper boundary of an outcome&rsquo;s value is
+\(2^m.\) If so, that outcome will be obtained if the coin lands heads
+on the <i>m</i><sup>th</sup> flip. This means that the expected value
+of all the <em>infinitely many</em> possible outcomes in which the
+coin is flipped more than <i>m</i> times will be finite: It is \(2^m\)
+times the probability that this happens, so it cannot exceed \(2^m\).
+To this we have to add the aggregated value of the first <i>m</i>
+possible outcomes, which is obviously finite. Because the sum of any
+two finite numbers is finite, the expected value of
+Cram&eacute;r&rsquo;s version of the St. Petersburg game is
+finite.</p>
+
+<p>
+Cram&eacute;r was aware that it would be controversial to claim that
+there exists an upper boundary beyond which additional riches do not
+matter <em>at all</em>. However, he pointed out that his solution
+works even if he the value of money is strictly increasing but the
+relative increase gets smaller and smaller (21 May 1728): </p>
+
+<blockquote>
+
+<p>
+If one wishes to suppose that the moral value of goods was as the
+square root of the mathematical quantities &hellip; my moral
+expectation will be</p> 
+\[
+\frac{1}{2} \cdot \sqrt{1} + \frac{1}{4} \cdot \sqrt{2} + \frac{1}{8} \cdot \sqrt{4} + \frac{1}{16} \cdot \sqrt{8} \ldots 
+  \]
+
+</blockquote>
+
+<p>
+This is the first clear statement of what contemporary decision
+theorists and economists refer to as decreasing marginal utility: The
+additional utility of more money is never zero, but the richer you
+are, the less you gain by increasing your wealth further.
+Cram&eacute;r correctly calculated the expected utility (&ldquo;moral
+value&rdquo;) of the St. Petersburg game to be about 2.9 units for an
+agent whose utility of money is given by the root function.</p>
+
+<p>
+Daniel Bernoulli proposed a very similar idea in his famous 1738
+article mentioned at the beginning of this section. Daniel argued that
+the agent&rsquo;s utility of wealth equals the logarithm of the
+monetary amount, which entails that improbable but large monetary
+prizes will contribute less to the expected utility of the game than
+more probable but smaller monetary amounts. As his article was about
+to be published, Daniel&rsquo;s brother Nicolaus mentioned to him that
+Cram&eacute;r had proposed a very similar idea in 1728 (in the letter
+quoted above). In the final version of the text, Daniel openly
+acknowledged this: </p>
+
+<blockquote>
+
+<p>
+Indeed I have found [Cram&eacute;r&rsquo;s] theory so similar to mine
+that it seems miraculous that we independently reached such close
+agreement on this sort of subject. (Daniel Bernoulli 1738 [1954:
+33])</p>
+</blockquote>
+
+<h2 id="ModeStPetePara">2. The Modern St. Petersburg Paradox</h2>
+
+<p>
+Cram&eacute;r&rsquo;s remark about the agent&rsquo;s decreasing
+marginal utility of money solves the original version of the St.
+Petersburg paradox. However, modern decision theorists agree that this
+solution is too narrow. The paradox can be restored by increasing the
+values of the outcomes up to the point at which the agent is fully
+compensated for her decreasing marginal utility of money (see Menger
+1934 [1979]). The version of the St. Petersburg paradox discussed in
+the modern literature can thus be formulated as follows:</p>
+
+<blockquote>
+
+<p>
+A fair coin is flipped until it comes up heads. At that point the
+player wins a prize worth \(2^n\) <em>units of utility</em> on the
+player&rsquo;s personal utility scale, where <i>n</i> is the number of
+times the coin was flipped.</p>
+</blockquote>
+
+<p>
+Note that the expected utility of this gamble is infinite even if the
+agent&rsquo;s marginal utility of money is decreasing. We can leave it
+open exactly what the prizes consists of. It need not be money.</p>
+
+<p>
+It is worth stressing that none of the prizes in the St. Petersburg
+game have infinite value. No matter how many times the coin is
+flipped, the player will <em>always win some finite amount of
+utility</em>. The <em>expected</em> utility of the St. Petersburg game
+is not finite, but the <em>actual</em> outcome will always be finite.
+It would thus be a mistake to dismiss the paradox by arguing that no
+actual prizes can have infinite utility. No actual infinities are
+required for constructing the paradox, only potential ones. (For a
+discussion of the distinction between actual and potential infinities,
+see Linnebo and Shapiro 2019.) In discussions of the St. Petersburg
+paradox it is often helpful to interpret the term &ldquo;infinite
+utility&rdquo; as &ldquo;not finite&rdquo; but leave it to
+philosophers of mathematics to determine whether it <em>is</em> or
+merely <em>approaches</em> infinity.</p>
+
+<p>
+Some authors have discussed exactly what is problematic with the claim
+that the expected utility of the modified St. Petersburg game is
+infinite (read: not finite). Is it merely the fact that the fair price
+of the wager is &ldquo;too high&rdquo;, or is there something else
+that prompts the worry? James M. Joyce notes that </p>
+
+<blockquote>
+
+<p>
+a wager of infinite utility will be strictly preferred to <em>any</em>
+of its payoffs since the latter are all finite. This is absurd given
+that we are confining our attention to bettors who value wagers only
+as means to the end of increasing their fortune. (Joyce 1999: 37)</p>
+</blockquote>
+
+<p>
+Joyce&rsquo;s point seems to be that an agent who pays the fair price
+of the wager will know <em>for sure</em> that she will actually be
+worse off after she has paid the fee. However, this seems to
+presuppose that actual infinities do exist. If only potential
+infinities exist, then the player cannot &ldquo;pay&rdquo; an infinite
+fee for playing the game. If so, we could perhaps interpret Joyce as
+reminding us that no matter what finite amount the player actually
+wins, the expected utility will always be higher, meaning that it
+would have been rational to pay even more. Russell and Isaacs
+(2021:179) offer a slightly different analysis. Their point is that
+&ldquo;however much the St. Petersburg gamble is worth, no particular
+<em>outcome</em> could be worth exactly that much&rdquo;. This is
+because the St. Petersburg gamble is worth more than any finite
+outcome, but less than something worth infinitely much.</p>
+
+<blockquote>
+
+<p>
+Is the St. Petersburg gamble perhaps worth something like an infinite
+amount of money? No. The St. Petersburg gamble is sure to pay only a
+finite amount of money. Suppose there is something which is worth
+<em>more</em> than each finite amount of money&ndash;such as an
+infinite amount of money (whatever that might come to), or a priceless
+artwork, or true love. If [the agent] has something like that, then
+the prospect of keeping it (with certainty) will <em>dominate</em>
+giving it up in exchange for the St. Petersburg gamble; thus the St.
+Petersburg gamble is not worth so much. Of course, nothing is worth
+<em>more</em> than each finite amount of money, yet not worth more
+than <em>every</em> finite amount of money. So the conclusion of [the
+agent&rsquo;s] reasoning is that nothing she could bid&ndash;monetary
+or otherwise&ndash;would be the right price. (Russell and Isaacs
+2021:179)</p>
+</blockquote>
+
+<p>
+Decisions theorists wish to clarify a means-ends notion of
+rationality, according to which it is rational to do whatever is the
+best means to one&rsquo;s end. The player thus knows that paying more
+than what one actually wins <em>cannot</em> be the best means to the
+end of maximizing utility. But always being forced to pay too little
+is also problematic, because then the seller would &ldquo;pay&rdquo;
+too much (that is, receive too little). So at least one agent will be
+irrational and pay too much unless we can establish a fair price of
+the gamble. This observation enables us to strengthen the original
+&ldquo;paradox&rdquo; (in which no formal contradiction is derived)
+into a stronger version consisting of three incompatible claims:</p>
+
+<ol>
+
+<li id="claim1"> The amount of utility it is rational to pay for
+playing (or selling the right to play) the St. Petersburg game is
+higher than every finite amount of utility.</li>
+
+<li id="claim2"> The buyer knows that the actual amount of utility he
+or she will actually receive is finite.</li>
+
+<li id="claim3"> It is not rational to knowingly pay more for
+something than one will receive.</li>
+</ol>
+
+<p>
+Many discussions of the St. Petersburg paradox have focused on
+ <a href="#claim1">(1)</a>.
+ As we will see in the next couple of sections, many scholars argue
+that the value of the St. Petersburg game is, for one reason or
+another, finite. A rare exception is H&aacute;jek and Nover. They
+offer the following argument for accepting
+ <a href="#claim1">(1)</a>:</p>
+ 
+<blockquote>
+
+<p>
+The St Petersburg game can be regarded as the limit of a sequence of
+truncated St Petersburg games, with successively higher finite
+truncation points&mdash;for example, the game is called off if heads
+is not reached by the tenth toss; by the eleventh toss; by the
+twelveth toss;&hellip;. If we accept dominance reasoning, these
+successive truncations can guide our assessment of the St Petersburg
+game&rsquo;s value: it is bounded below by each of their values, these
+bounds monotonically increasing. Thus we have a principled reason for
+accepting that it is worth paying any finite amount to play the St
+Petersburg game. (H&aacute;jek and Nover 2006: 706)</p>
+</blockquote>
+
+<p>
+Although they do not explicitly say so, H&aacute;jek and Nover would
+probably reject
+ <a href="#claim3">(3)</a>.
+ The least controversial claim is perhaps (2). It is, of course,
+<em>logically possible</em> that the coin keeps landing tails
+<em>every</em> time it is flipped, even though an infinite sequence of
+tails has probability 0. (For a discussion of this possibility, see
+Williamson 2007.) Some events that have probability 0 do actually
+occur, and in uncountable probability spaces it is impossible that all
+outcomes have a probability greater than 0. Even so, if the coin keeps
+landing tails <em>every</em> time it is flipped, the agent wins 0
+units of utility. So
+ <a href="#claim2">(2)</a>
+ would still hold true.</p>
+
+<h2 id="UnreAssu">3. Unrealistic Assumptions?</h2>
+
+<p>
+Some authors claim that the St. Petersburg game should be dismissed
+because it rests on assumptions that can never be fulfilled. For
+instance, Jeffrey (1983: 154) argues that &ldquo;anyone who offers to
+let the agent play the St. Petersburg gamble is a liar, for he is
+pretending to have an indefinitely large bank&rdquo;. Similar
+objections were raised in the eighteenth century by Buffon and
+Fontaine (see Dutka 1988).</p>
+
+<p>
+However, it is not clear why Jeffrey&rsquo;s point about real-world
+constraints would be relevant. What is wrong with evaluating a highly
+idealized game we have little reason to believe we will ever get to
+play? H&aacute;jek and Smithson (2012) point out that the St
+Petersburg paradox is <em>contagious</em> in the following sense: As
+long as you assign some nonzero probability to the hypothesis that the
+bank&rsquo;s promise is credible, the expected utility will be
+infinite no matter how low your credence in the hypothesis is. Any
+nonzero probability times infinity equals infinity, so any option in
+which you get to play the St. Petersburg game with a nonzero
+probability has infinite expected utility.</p>
+
+<p>
+It is also worth keeping in mind that the St. Petersburg game may not
+be as unrealistic as Jeffrey claims. The fact that the bank does not
+have an indefinite amount of money (or other assets) available
+<em>before the coin is flipped</em> should not be a problem. All that
+matters is that the bank can make <em>a credible promise</em> to the
+player that the correct amount will be made available within a
+reasonable period of time after the flipping has been completed. How
+much money the bank has in the vault when the player plays the game is
+irrelevant. This is important because, as noted in section 2, the
+amount the player actually wins will always be finite. We can thus
+imagine that the game works as follows: We first flip the coin, and
+once we know what finite amount the bank owes the player, the CEO will
+see to it that the bank raises enough money.</p>
+
+<p>
+If this does not convince the player, we can imagine that the central
+bank issues a blank check in which the player gets to fill in the
+correct amount once the coin has been flipped. Because the check is
+issued by the central bank it cannot bounce. New money is
+automatically created as checks issued by the central bank are
+introduced in the economy. Jeffrey dismisses this version of the St.
+Petersburg game with the following argument:</p>
+
+<blockquote>
+
+<p>
+[Imagine that] Treasury department delivers to the winner a crisp new
+billion billion dollar bill. Due to the resulting inflation, the
+marginal desirabilities of such high payoffs would presumably be low
+enough to make the prospect of playing the game have finite expected
+[utility]. (Jeffrey 1983: 155)</p>
+</blockquote>
+
+<p>
+Jeffrey is probably right that &ldquo;a crisp new billion billion
+dollar bill&rdquo; would trigger some inflation, but this seems to be
+something we could take into account as we construct the game. All
+that matters is that the utilities in the payoff scheme are
+linear.</p>
+
+<p>
+Readers who feel unconvinced by this argument may wish to imagine a
+version of the St. Petersburg game in which the player is hooked up to
+Nozick&rsquo;s Experience Machine (see section 2.3 in the entry on
+ <a href="../hedonism/">hedonism</a>).
+ By construction, this machine can produce any pleasurable experience
+the agent wishes. So once the coin has been flipped <i>n</i> times,
+the Experience Machine will generate a pleasurable experience worth
+\(2^n\) units of utility on the player&rsquo;s personal utility scale.
+Aumann (1977) notes without explicitly mention the Experience Machine
+that:</p>
+
+<blockquote>
+
+<p>
+The payoffs need not be expressible in terms of a fixed finite number
+of commodities, or in terms of commodities at all [&hellip;] the
+lottery ticket [&hellip;] might be some kind of open-ended activity --
+one that could lead to sensations that he has not heretofore
+experienced. Examples might be religious, aesthetic, or emotional
+experiences, like entering a monastery, climbing a mountain, or
+engaging in research with possibly spectacular results. (Aumann 1977:
+444)</p>
+</blockquote>
+
+<p>
+A possible example of the type of experience that Aumann has in mind
+could be the number of days spent in Heaven. It is not clear why time
+spent in Heaven must have diminishing marginal utility. </p>
+
+<p>
+Another type of practical worry concerns the temporal dimension of the
+St. Petersburg game. Brito (1975) claims that the coin flipping may
+simply take too long time. If each flip takes <i>n</i> seconds, we
+must make sure it would be <em>possible</em> to flip it sufficiently
+many times before the player dies. Obviously, if there exists an upper
+limit to how many times the coin can be flipped the expected utility
+would be finite too.</p>
+
+<p>
+A straightforward response to this worry is to imagine that the
+flipping took place yesterday and was recorded on video. The first
+flip occurred at 11 p.m. sharp, the second flip \(\frac{60}{2}\)
+minutes later, the third \(\frac{60}{4}\) minutes after the second,
+and so on. The video has not yet been made available to anyone, but as
+soon as the player has paid the fee for playing the game the video
+will be placed in the public domain. Note that the coin could in
+principle have been flipped infinitely many times within a single
+hour. (This is an example of a &ldquo;supertask&rdquo;; see the entry
+on
+ <a href="../spacetime-supertasks/">supertasks</a>.)</p>
+ 
+<p>
+It is true that this random experiment requires the coin to be flipped
+faster and faster. At some point we would have to spin the coin faster
+than the speed of light. This is not <em>logically impossible</em>
+although this assumption violates a contingent law of nature. If you
+find this problematic, we can instead imagine that someone throws a
+dart on the real line between 0 and 1. The probability that the dart
+hits the first half of the interval, \(\left[0, \frac{1}{2}\right),\)
+is \(\frac{1}{2}.\) And the probability that the dart hits the next
+quarter, \(\left[\frac{1}{2}, \frac{3}{4}\right),\) is
+\(\frac{1}{4}\), and so on. If &ldquo;coin flips&rdquo; are generated
+in this manner the random experiment will be over in no time at all.
+To steer clear of the worry that no real-world dart is infinitely
+sharp we can define the point at which the dart hits the real line as
+follows: Let <i>a</i> be the area of the dart. The point at which the
+dart hits the interval [0,1] is defined such that half of the area of
+<i>a</i> is to the right of some vertical line through <i>a</i> and
+the other half to the left the vertical line. The point at which the
+vertical line crosses the interval [0,1] is the outcome of the random
+experiment.</p>
+
+<p>
+In the contemporary literature on the St. Petersburg paradox practical
+worries are often ignored, either because it is possible to imagine
+scenarios in which they do not arise, or because highly idealized
+decision problems with unbounded utilities and infinite state spaces
+are deemed to be interesting in their own right.</p>
+
+<h2 id="BounUtilFunc">4. A Bounded Utility Function?</h2>
+
+<p>
+Arrow (1970: 92) suggests that the utility function of a rational
+agent should be &ldquo;taken to be a bounded function.&hellip; since
+such an assumption is needed to avoid [the St. Petersburg]
+paradox&rdquo;. Basset (1987) makes a similar point; see also
+Samuelson (1977) and McClennen (1994).</p>
+
+<p>
+Arrow&rsquo;s point is that utilities must be bounded to avoid the St.
+Petersburg paradox and that traditional axiomatic accounts of the
+expected utility principle guarantee this to be the case. The
+well-known axiomatizations proposed by Ramsey (1926), von Neumann and
+Morgenstern (1947), and Savage (1954) do, for instance, all entail
+that the decision maker&rsquo;s utility function is bounded. (See
+ <a href="../decision-theory/#VNMRepThe">section 2.3 in the entry on decision theory</a>
+ for an overview of von Neumann and Morgenstern&rsquo;s
+axiomatization.)</p>
+
+<p>
+If the utility function is bounded, then the expected utility of the
+St. Petersburg game will of course be finite. But why do the axioms of
+expected utility theory guarantee that the utility function is
+bounded? The crucial assumption is that rationally permissible
+preferences over lotteries are <em>continuous</em>. To explain the
+significance of this axiom it is helpful to introduce some symbols.
+Let \(\{pA, (1-p)B\}\) be the lottery that results in <i>A</i> with
+probability <i>p</i> and <i>B</i> with probability \(1-p\). The
+expression \(A\preceq B\) means that the agent considers <i>B</i> to
+be at least as good as <i>A</i>, i.e., weakly prefers <i>B</i> to
+<i>A</i>. Moreover, \(A\sim B\) means that <i>A</i> and <i>B</i> are
+equi-preferred, and \(A\prec B\) means that <i>B</i> is preferred to
+<i>A</i>. Consider:</p>
+
+<div class="indent">
+
+<ul class="hanging">
+
+<li><em>The Continuity Axiom:</em> Suppose \(A \preceq B\preceq C\).
+Then there is a probability \(p\in [0,1]\) such that \(\{pA,
+(1-p)C\}\sim B\).</li>
+</ul>
+</div>
+
+<p>
+To explain why this axiom entails that no object can have infinite
+value, suppose for <em>reductio</em> that <i>A</i> is a prize check
+worth $1, <i>B</i> is a check worth $2, and <i>C</i> is a prize to
+which the agent assigns infinite utility. The decision maker&rsquo;s
+preference is \(A\prec B\prec C\), but there is no probability
+<i>p</i> such that \(\{pA, (1-p)C\sim B\). Whenever <i>p</i> is
+nonzero the decision maker will strictly prefer \(\{pA, (1-p)C\}\) to
+<i>B</i>, and if <i>p</i> is 0 the decision maker will strictly prefer
+<i>B</i>. So because no object (lottery or outcome) can have infinite
+value, and a utility function is defined by the utilities it assigns
+to those objects (lotteries or outcomes), the utility function has to
+be bounded.</p>
+
+<p>
+Does this solve the St. Petersburg paradox? The answer depends on
+whether we think a rational agent offered to play the St. Petersburg
+game has any reason to accept the continuity axiom. A possible view is
+that anyone who is offered to play the St. Petersburg game has reason
+to reject the continuity axiom. Because the St. Petersburg game has
+infinite utility, the agent has no reason to evaluate lotteries in the
+manner stipulated by this axiom. As explained in Section 3, we can
+imagine unboundedly valuable payoffs.</p>
+
+<p>
+Some might object that the continuity axiom, as well as the other
+axioms proposed by von Neumann and Morgenstern (and Ramsey and
+Savage), are essential for <em>defining</em> utility in a
+mathematically precise manner. It would therefore be
+<em>meaningless</em> to talk about utility if we reject the continuity
+axiom. This axiom is part of what it means to say that something has a
+higher utility than something else. A good response could be to
+develop a theory of utility in which preferences over lotteries are
+not used for defining the meaning of the concept; see Luce (1959) for
+an early example of such a theory. Another response could be to
+develop a theory of utility in which the continuity axiom is
+explicitly rejected; see Skala (1975).</p>
+
+<h2 id="IgnoSmalProb">5. Ignore Small Probabilities?</h2>
+
+<p>
+Buffon argued in 1777 that a rational decision maker should disregard
+the possibility of winning lots of money in the St. Petersburg game
+because the probability of doing so is very low. According to Buffon,
+some sufficiently improbable outcomes are &ldquo;morally
+impossible&rdquo; and should therefore be ignored. From a technical
+point of view, this solution is very simple: The St. Petersburg
+paradox arises because the decision maker is willing to aggregate
+infinitely many extremely valuable but highly improbable outcomes, so
+if we restrict the set of &ldquo;possible&rdquo; outcomes by excluding
+sufficiently improbable ones the expected utility will, of course, be
+finite.</p>
+
+<p>
+But <em>why</em> should small probabilities be ignored? And how do we
+draw the line between small probabilities that are beyond concern and
+others that are not? Dutka summarizes Buffon&rsquo;s lengthy answer as
+follows:</p>
+
+<blockquote>
+
+<p>
+To arrive at a suitable threshold value, [Buffon] notes that a
+fifty-six year old man, believing his health to be good, would
+disregard the probability that he would die within twenty-four hours,
+although mortality tables indicate that the odds against his dying in
+this period are only 10189 to 1. Buffon thus takes a probability of
+1/10,000 or less for an event as a probability which may be
+disregarded. (Dutka 1988: 33)</p>
+</blockquote>
+
+<p>
+Is this a convincing argument? According to Buffon, we <em>ought</em>
+to ignore some small probabilities because people like him
+(56-year-old males) <em>do in fact</em> ignore them. Buffon can thus
+be accused of attempting to derive an &ldquo;ought&rdquo; from an
+&ldquo;is&rdquo;. To avoid Hume&rsquo;s no-ought-from-an-is objection,
+Buffon would have to add a premise to the effect that people&rsquo;s
+everyday reactions to risk are always rational. But why should we
+accept such a premise?</p>
+
+<p>
+Another objection is that if we ignore small probabilities, then we
+will sometimes have to ignore <em>all</em> possible outcomes of an
+event. Consider the following example: A regular deck of cards has 52
+cards, so it can be arranged in exactly 52! different ways. The
+probability of any given arrangement is thus about 1 in \(8 \cdot
+10^{67}\). This is a very small probability. (If one were to add six
+cards to the deck, then the number of possible orderings would exceed
+the number of atoms in the known, observable universe.) However, every
+time we shuffle a deck of cards, we know that exactly one of the
+possible outcomes will materialize, so why should we ignore
+<em>all</em> such very improbable outcomes?</p>
+
+<p>
+Nicholas J. J. Smith (2014) defends a modern version of Buffon&rsquo;s
+solution. He bases his argument on the following principle:</p>
+
+<div class="indent">
+
+<ul class="hanging">
+
+<li><em>Rationally negligible probabilities (RNP):</em> For any
+lottery featuring in any decision problem faced by any agent, there is
+an \(\epsilon &gt; 0\) such that the agent need not consider outcomes
+of that lottery of probability less than \(\epsilon\) incoming to a
+fully rational decision. (Smith 2014: 472)</li>
+</ul>
+</div>
+
+<p>
+Smith points out that the order of the quantifiers in RNP is crucial.
+The claim is that for every lottery there exists some probability
+threshold \(\epsilon\) below which all probabilities should be
+ignored, but it would be a mistake to think that one and the same
+\(\epsilon\) is applicable to every lottery. This is important because
+otherwise we could argue that RNP allows us to combine thousands or
+millions of separate events with a probability of less than
+\(\epsilon.\) It would obviously make little sense to ignore, say,
+half a million one-in-a-million events. By keeping in mind that that
+the appropriate \(\epsilon\) may vary from case to case this worry can
+be dismissed.</p>
+
+<p>
+Smith also points out that if we ignore probabilities less than
+\(\epsilon,\) then we have to increase some other probabilities to
+ensure that all probabilities sum up to one, as required by the
+probability axioms (see
+ <a href="../probability-interpret/#KolProCal">section 1 in the entry on interpretations of probability</a>).
+ Smith proposes a principle for doing this in a systematic manner.</p>
+
+<p>
+However, <em>why</em> should we accept RNP? What is the
+<em>argument</em> for accepting this controversial principle apart
+from the fact that it would solve the St. Petersburg paradox?
+Smith&rsquo;s argument goes as follows:</p>
+
+<blockquote>
+
+<p>
+Infinite precision cannot be required: rather, in any given context,
+there must be some finite tolerance&mdash;some positive threshold such
+that ignoring all outcomes whose probabilities lie below this
+threshold counts as satisfying the norm&hellip;. There is a norm of
+decision theory which says to ignore outcomes whose probability is
+zero. Because this norm mentions a specific probability value (zero),
+it is the kind of norm where it makes sense to impose a tolerance:
+zero plus or minus \(\epsilon\) (which becomes zero plus \(\epsilon,\)
+given that probabilities are all between 0 and 1)&hellip; the idea
+behind (RNP) is that in any actual context in which a decision is to
+be made, one never needs to be infinitely precise in this
+way&mdash;that it never matters. There is (for each decision problem,
+each lottery therein, and each agent) some threshold such that the
+agent would not be irrational if she simply ignored outcomes whose
+probabilities lie below that threshold. (Smith 2014:
+472&ndash;474)</p>
+</blockquote>
+
+<p>
+Suppose we accept the claim that infinite precision is not
+<em>required</em> in decision theory. This would entail, per
+Smith&rsquo;s argument, that it is <em>rationally permissible</em> to
+ignore probabilities smaller than \(\epsilon\). However, to ensure
+that the decision maker never pays a fortune for playing the St.
+Petersburg game it seems that Smith would have to defend the stronger
+claim that decision makers are <em>rationally required</em> to ignore
+small probabilities, i.e., that it is not permissible to not ignore
+them. Decision makers who find themselves in agreement with
+Smith&rsquo;s view run a risk of paying a very large amount for
+playing the St. Petersburg game without doing anything deemed to be
+irrational by RNP. This point is important because it is arguably more
+difficult to show that decision makers are <em>rationally
+required</em> to avoid &ldquo;infinite precision&rdquo; in decisions
+in which this is an attainable and fully realistic goal, such as the
+St. Petersburg game. For a critique of RNP and a discussion of some
+related issues, see H&aacute;jek (2014).</p>
+
+<p>
+Another objection to RNP has been proposed by Yoaav Isaacs (2016). He
+shows that RNP together with an additional principle endorsed by Smith
+(Weak Consistency) entail that the decision maker will sometimes take
+arbitrarily much risk for arbitrarily little reward.</p>
+
+<p>
+Lara Buchak (2013) proposes what is arguably a more elegant version of
+this solution. Her suggestion is that we should assign exponentially
+<em>less weight</em> to small probabilities as we calculate an
+option&rsquo;s value. A possible weighting function <i>r</i> discussed
+by Buchak is \(r(p) = p^2.\) Her proposal is, thus, that if the
+probability is \(\frac{1}{8}\) that you win $8 in addition to what you
+already have, and your utility of money increases linearly, then
+instead of multiplying your gain in utility by \(\frac{1}{8},\) you
+should multiply it by \((\frac{1}{8})^2 =\frac{1}{64}.\) Moreover, if
+the probability is \(\frac{1}{16}\) that you win $16 in addition to
+what you already have, you should multiply your gain by
+\(\frac{1}{256},\) and so on. This means that small probabilities
+contribute very little to the <em>risk-weighted</em> expected
+utility.</p>
+
+<p>
+Buchak&rsquo;s proposal vaguely resembles the familiar idea that our
+marginal utility of money is decreasing. As stressed by Cram&eacute;r
+and Daniel Bernoulli, more money is always better than less, but the
+utility gained from each extra dollar is decreasing. According to
+Buchak, the weight we should assign to an outcome&rsquo;s probability
+is also nonlinear: Small probabilities matter less the smaller they
+are, and their relative importance decrease exponentially:</p>
+
+<blockquote>
+
+<p>
+The intuition behind the diminishing marginal utility analysis of risk
+aversion was that adding money to an outcome is of less value the more
+money the outcome already contains. The intuition behind the present
+analysis of risk aversion is that adding probability to an outcome is
+of more value the more likely that outcome already is to obtain.
+(Buchak 2014: 1099.)</p>
+</blockquote>
+
+<p>
+Buchak notes that this move does not by itself solve the St.
+Petersburg paradox. For reasons that are similar to those Menger (1934
+[1979]) mentions in his comment on Bernoulli&rsquo;s solution, the
+paradox can be reintroduced by adjusting the outcomes such that the
+sum increases linearly (for details, see Buchak 2013: 73&ndash;74).
+Buchak is, for this reason, also committed to RNP, i.e., the
+controversial assumption that there will be some probability so small
+that it does not make any difference to the overall value of the
+gamble.</p>
+
+<p>
+Another worry is that because Buchak rejects the principle of
+maximizing expected utility and replaces it with the principle of
+risk-weighted maximizing expected utility, many of the stock
+objections decision theorists have raised against violations of the
+expected utility principle can be raised against her principle as
+well. For instance, if you accept the principle of risk-weighted
+maximizing expected utility, you have to reject the independence
+axiom. This entails that you can be exploited in some cleverly
+designed pragmatic argument. See Briggs (2015) for a discussion of
+some objections to Buchak&rsquo;s theory.</p>
+
+<h2 id="RelaExpeUtilTheo">6. Relative Expected Utility Theory</h2>
+
+<p>
+In the Petrograd game introduced by Colyvan (2008) the player wins $1
+more than in the St. Petersburg game regardless of how many times the
+coin is flipped. So instead of winning 2 utility units if the coin
+lands heads on the first toss, the player wins 3; and so on. See
+ <a href="#table1">Table 1</a>.</p>
+ 
+<table class="hrules cellpad-med centered shortcap" id="table1">
+<caption>Table 1</caption>
+<tr>
+  <td><em>Probability</em></td>
+  <td>\(\frac{1}{2}\)</td>
+  <td>\(\frac{1}{4}\)</td>
+  <td>\(\frac{1}{8}\)</td>
+  <td>&hellip;</td> </tr>
+<tr>
+  <td>St. Petersburg</td>
+  <td>2</td>
+  <td>4</td>
+  <td>8</td>
+  <td>&hellip;</td> </tr>
+<tr>
+  <td>Petrograd</td>
+  <td>\(2+1\)</td>
+  <td>\(4+1\)</td>
+  <td>\(8+1\)</td>
+  <td>&hellip;</td> </tr>
+</table>
+
+<p>
+It seems obvious that the Petrograd game is worth more than the St.
+Petersburg game. However, it is not easy to explain why. Both games
+have infinite expected utility, so the expected utility principle
+gives the wrong answer. It is not true that the Petrograd game is
+worth more than the St. Petersburg game because its expected utility
+is higher; the two games have exactly the same expected utility. This
+shows that the expected utility principle is not universally
+applicable to all risky choices, which is an interesting observation
+in its own right.</p>
+
+<p>
+Is the Petrograd game worth more than the St. Petersburg game because
+the outcomes of the Petrograd game <em>dominate</em> those of the St.
+Petersburg game? In this context, dominance means that the player will
+always win $1 more regardless of which state of the world turns out to
+be the true state, that is, regardless of how many times the coin is
+flipped. The problem is that it is easy to imagine versions of the
+Petrograd game to which the dominance principle would not be
+applicable. Imagine, for instance, a version of the Petrograd game
+that is exactly like the one in
+ <a href="#table1">Table 1</a>
+ except that for some very improbable outcome (say, if the coin lands
+heads for the first time on the 100<sup>th</sup> flip) the player wins
+1 unit <em>less</em> than in the St. Petersburg game. This game, the
+Petrogradskij game, does not dominate the St. Petersburg game.
+However, since it is almost certain that the player will be better off
+by playing the Petrogradskij game a plausible decision theory should
+be able to explain why the Petrogradskij game is worth more than the
+St. Petersburg game.</p>
+
+<p>
+Colyvan claims that we can solve this puzzle by introducing a new
+version of expected utility theory called Relative Expected Utility
+Theory (REUT). According to REUT we should calculate the difference in
+expected utility between the two options for each possible outcome.
+Formally, the relative expected utility (\(\reu\)) of act \(A_k\) over
+\(A_l\) is</p> 
+\[
+\reu(A_k,A_l) = \sum_{i=1}^n p_i(u_{ki} - u_{li}).
+\]
+
+<p>
+According to Colyvan, it is rational to choose \(A_k\) over \(A_l\) if
+and only if \(\reu(A_k,A_l) \gt 0\).</p>
+
+<p>
+Colyvan&rsquo;s REUT neatly explains why the Petrograd game is worth
+more than the St. Petersburg game because the relative expected
+utility is 1. REUT also explains why the Petrogradskij game is worth
+more than the St. Petersburg game: the difference in expected utility
+is \(1 - (\frac{1}{2})^{100}\) which is &gt; 0.</p>
+
+<p>
+However, Peterson (2013) notes that REUT cannot explain why the
+<em>Leningradskij</em> game is worth more than the <em>Leningrad</em>
+game (see
+ <a href="#table2">Table 2</a>).
+ The Leningradskij game is the version of the Petrograd game in which
+the player in addition to receiving a finite number of units of
+utility also gets to play the St. Petersburg game (SP) if the coin
+lands heads up in the second round. In the Leningrad game the player
+gets to play the St. Petersburg game (SP) if the coin lands heads up
+in the third round.</p>
+
+<table class="hrules cellpad-med centered shortcap" id="table2">
+<caption>Table 2</caption>
+<tr>
+  <td><em>Probability</em></td>
+  <td>\(\frac{1}{2}\)</td>
+  <td>\(\frac{1}{4}\)</td>
+  <td>\(\frac{1}{8}\)</td>
+  <td>\(\frac{1}{16}\)</td>
+  <td>&hellip;</td> </tr>
+<tr>
+  <td>Leningrad</td>
+  <td>2</td>
+  <td>4</td>
+  <td>\(8+\textrm{SP}\)</td>
+  <td>16</td>
+  <td>&hellip;</td> </tr>
+<tr>
+  <td>Leningradskij</td>
+  <td>2</td>
+  <td>\(4+\textrm{SP}\)</td>
+  <td>8</td>
+  <td>16</td>
+  <td>&hellip;</td></tr>
+</table>
+
+<p>
+It is obvious that the Leningradskij game is worth more than the
+Leningrad game because the probability that the player gets to play SP
+as a bonus (which has infinite expected utility) is higher. However,
+REUT cannot explain why. The difference in expected utility for the
+state that occurs with probability \(\frac{1}{4}\) in
+ <a href="#table2">Table 2</a>
+ is \(-\infty\) and it is \(+\infty\) for the state that occurs with
+probability \(\frac{1}{8}.\) Therefore, because \(p \cdot \infty =
+\infty\) for all positive probabilities \(p\), and &ldquo;\(\infty -
+\infty\)&rdquo; is undefined in standard analysis, REUT cannot be
+applied to these games.</p>
+
+<p>
+Bartha (2007) and (2016) proposes a more complex version of relative
+expected utility theory. In Bartha&rsquo;s theory, the utility of an
+outcome <i>x</i> is compared to the utility of some alternative
+outcome <i>y</i> and a basepoint <i>z</i>, which can be chosen
+arbitrarily as long as <i>x</i> and <i>y</i> are at least as preferred
+as <i>z</i>. The relative utility of <i>x</i> vis-&agrave;-vis
+<i>y</i> and the base-point <i>z</i> is then defined as the ratio
+between <em>u</em>(<em>x</em>) &ndash; <em>u</em>(<em>z</em>) and the
+denominator <em>u</em>(<em>y</em>) &ndash; <em>u</em>(<em>z</em>); the
+latter is a &ldquo;measuring stick&rdquo; to which
+<em>u</em>(<em>x</em>) &ndash; <em>u</em>(<em>z</em>) is compared. So
+if <em>u</em>(<em>x</em>) = 10, <em>u</em>(<em>y</em>) = 20 and
+<em>u</em>(<em>z</em>)= 0, then the relative utility of <i>x</i>
+vis-&agrave;-vis <i>y</i> and the base-point <i>z</i> is
+<em>U</em>(<em>x</em>, <em>y</em>; <em>z</em>) = 0.5.</p>
+
+<p>
+Bartha&rsquo;s suggestion is to ask the agent to compare the St.
+Petersburg game to a lottery between two other games. If, for
+instance, Petrograd<sup>+</sup> is the game in which the player always
+wins 2 units more than in the St. Petersburg game regardless of how
+many times the coin is tossed, then the player could compare the
+Petrograd game to a lottery between Petrograd<sup>+</sup> and the St.
+Petersburg game. By determining for what probabilities <i>p</i> a
+lottery in which one plays Petrograd<sup>+</sup> with probability
+<i>p</i> and the St. Petersburg game with probability \(1-p\) is
+better than playing the Petrograd game for sure one can establish a
+measure of the relative value of Petrograd as compared to
+Petrograd<sup>+</sup> or St. Petersburg. (For details, see Sect. 5 in
+Bartha 2016. See also Colyvan and H&aacute;jek&rsquo;s 2016 discussion
+of Bartha&rsquo;s theory.) </p>
+
+<p>
+An odd feature of Bartha&rsquo;s theory is that two lotteries can have
+the <i>same</i> relative utility even if one is <i>strictly
+preferred</i> to the other; see Bartha (2011: 34&ndash;35). This indicates
+that the relative utilities assigned to lotteries in Bartha&rsquo;s
+theory are not always choice-guiding. </p>
+
+<p>
+Let us also mention another, quite simple variation of the original
+St. Petersburg game, which is played as follows (see Peterson 2015:
+87): A manipulated coin lands heads up with probability 0.4 and the
+player wins a prize worth \(2^n\) units of utility, where <i>n</i> is
+the number of times the coin was tossed. This game, the Moscow game,
+is more likely to yield a long sequence of flips and is therefore
+worth more than the St. Petersburg game, but the expected utility of
+both games is the same, because both games have infinite expected
+utility. It might be tempting to say that the Moscow game is more
+attractive because the Moscow game <em>stochastically dominates</em>
+the St. Petersburg game. (That one game stochastically dominates
+another game means that for every possible outcome, the first game has
+at least as high a probability of yielding a prize worth at least
+<i>u</i> units of utility as the second game; and for some <i>u</i>,
+the first game yields <i>u</i> with a higher probability than the
+second.) However, the stochastic dominance principle is inapplicable
+to games in which there is a small risk that the player wins a prize
+worth slightly less than in the other game. We can, for instance,
+imagine that if the coin lands heads on the 100<sup>th</sup> flip the
+Moscow game pays one unit less than the St. Petersburg game; in this
+scenario neither game stochastically dominates the other. Despite
+this, it still seems reasonable to insist that the game that is almost
+certain to yield a better outcome (in the sense explained above) is
+worth more. The challenge is to explain why in a robust and
+non-arbitrary way.</p>
+
+<h2 id="PasaGame">7. The Pasadena Game</h2>
+
+<p>
+The Pasadena paradox introduced by Nover and H&aacute;jek (2004) is
+inspired by the St. Petersburg game, but the pay-off schedule is
+different. As usual, a fair coin is flipped <i>n</i> times until it
+comes up heads for the first time. If <i>n</i> is odd the player wins
+\((2^n)/n\) units of utility; however, if <i>n</i> is even the player
+<em>has to pay</em> \((2^n)/n\) units. How much should one be willing
+to pay for playing this game?</p>
+
+<p>
+If we sum up the terms in the temporal order in which the outcomes
+occur and calculate expected utility in the usual manner we find that
+the Pasadena game is worth:</p>
+
+<p>
+
+\[\begin{align}
+\frac{1}{2}\cdot\frac{2}{1} - \frac{1}{4}\cdot\frac{4}{2} + \frac{1}{8}\cdot\frac{8}{3}
+ &amp;- \frac{1}{16}\cdot\frac{16}{4} + \frac{1}{32}\cdot\frac{16}{5} - \cdots  \\
+ &amp;= 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \frac{1}{5} - \cdots \\
+ &amp;= \sum_n \frac{(-1)^{n-1}}{n}
+\end{align}\]
+ </p>
+
+<p>
+This infinite sum converges to <em>ln</em> 2 (about 0.69 units of
+utility). However, Nover and H&aacute;jek point out that we would
+obtain a very different result if we were to rearrange the order in
+which the very same numbers are summed up. Here is one of many
+possible examples of this mathematical fact:</p> 
+\[\begin{align}
+1 - \frac{1}{2} - \frac{1}{4} + \frac{1}{3} - \frac{1}{6} - \frac{1}{8}
+  + \frac{1}{5} - \frac{1}{10} &amp;- \frac{1}{12} + \frac{1}{7} - \frac{1}{14}
+  - \frac{1}{16} \cdots \\
+ &amp;= \frac{1}{2}(\ln 2).
+\end{align}\]
+
+<p>
+This is, of course, not news to mathematicians. The infinite sum
+produced by the Pasadena game is known as the <em>alternating harmonic
+series</em>, which is a <em>conditionally convergent</em> series. (A
+series \(a_n\) is conditionally convergent if \(\sum_{j=1}^{\infty}
+a_n\) converges but \(\sum_{j=1}^{\infty} \lvert a_n\rvert\)
+diverges.) Because of a theorem known as the Riemann rearrangement
+theorem, we know that if an infinite series is conditionally
+convergent, then its terms can always be rearranged such the sum
+converges to any finite number, or to \(+\infty\) or to
+\(-\infty\).</p>
+
+<p>
+Nover and H&aacute;jek&rsquo;s point is that it seems
+<em>arbitrary</em> to sum up the terms in the Pasadena game in the
+temporal order produced by the coin flips. To see why, it is helpful
+to imagine a slightly modified version of the game. In their original
+paper, Nover and H&aacute;jek ask us to imagine that:</p>
+
+<blockquote>
+
+<p>
+We toss a fair coin until it lands heads for the first time. We have
+written on consecutive cards your pay-off for each possible outcome.
+The cards read as follows: (Top card) If the first =heads is on toss
+#1, we pay you $2. [&hellip;] By accident, we drop the cards, and
+after picking them up and stacking them on the table, we find that
+they have been rearranged. No matter, you say&mdash;obviously the game
+has not changed, since the pay-off schedule remains the same. The
+game, after all, is correctly and completely specified by the
+conditionals written on the cards, and we have merely changed the
+order in which the conditions are presented. (Nover and H&aacute;jek
+2004: 237&ndash;239)</p>
+</blockquote>
+
+<p>
+Under the circumstances described here, we seem to have <em>no</em>
+reason to prefer any particular order in which to sum up the terms of
+the infinite series. So is the expected value of Pasadena game \(\ln
+2\) or \(\frac{1}{2}(\ln 2)\) or \(\frac{1}{3}\) or \(-\infty\) or
+345.68? All these suggestions seem equally arbitrary. Moreover, the
+same holds true for the Altadena game, in which every payoff is
+increased by one dollar. The Altadena game is clearly better than then
+Pasadena game, but advocates of expected utility theory seem unable to
+explain why.</p>
+
+<p>
+The literature on the Pasadena game is extensive. See, e.g.,
+H&aacute;jek and Nover (2006), Fine (2008), Smith (2014), and Bartha
+(2016). A particularly influential solution is due to Easwaran (2008).
+He introduces a distinction between a strong and a weak version of the
+expected utility principle, inspired by the well-known distinction
+between the strong and weak versions of the law of large numbers.
+According to the strong law of large numbers, the average utility of a
+game converges to its expected utility with probability one as the
+number of iterations goes to infinity. The weak law of large numbers
+holds that for a sufficiently large set of trials the probability can
+be made arbitrarily small that that the average utility will not
+differ from the expected utility by more than some small pre-specified
+amount. So according to the weak expected utility principle, </p>
+
+<blockquote>
+
+<p>
+by fixing in advance a high enough number of <i>n</i> plays, the
+average payoff per play can be almost guaranteed to be arbitrarily
+close to ln 2, </p>
+</blockquote>
+
+<p>
+while the strong version of the principle entails that </p>
+
+<blockquote>
+
+<p>
+if one player keeps getting to decide whether to play again or quit,
+then she can almost certainly guarantee as much profit as she wants,
+regardless of the (constant) price per play. (Easwaran 2008: 635) </p>
+</blockquote>
+
+<p>
+Easwaran&rsquo;s view is that the weak expected utility principle
+should guide the agent&rsquo;s choice and that the fair price to pay
+is ln 2.</p>
+
+<p>
+However, Easwaran&rsquo;s solution cannot be generalized to other
+games with slightly different payoff schemes. Bartha (2016: 805)
+describes a version of the Pasadena game that has no expected value.
+In this game, the Arroyo game, the player wins \(-1^{n+1}(n+1)\) with
+probability \(p_n = \frac{1}/{(n+1)}\). If we calculate the expected
+utility in the order in which the outcomes are produced, we get the
+same result as for the Pasadena game: \(1 - \frac{1}{2} + \frac{1}{3}
+- \frac{1}{4} \cdots\) For reasons explained (and proved) by Bartha,
+the Arroyo game has no weak expected utility.</p>
+
+<p>
+It is also worth keeping in mind that Pasadena-like scenarios can
+arise in non-probabilistic contexts (see Peterson 2013). Imagine, for
+instance, an infinite population in which the utility of individual
+number <i>j</i> is \(\frac{(-1)^{j-1}}{j}\). What is the total utility
+of this population? Or imagine that you are the proud owner of a
+Jackson Pollock painting. An art dealer tells you the overall
+<em>aesthetic</em> value of the painting is the sum of some of its
+parts. You number the points in the painting with <em>arbitrary</em>
+numbers 1, 2, 3, &hellip; (perhaps by writing down the numbers on
+cards and then dropping all cards on the floor); the aesthetic value
+of each point <i>j</i> is \(\frac{(-1)^{j-1}}{j}\). What is the total
+aesthetic value of the painting? These examples are non-probabilistic
+versions of the Pasadena problem, to which the expected utility
+principle is inapplicable. There is no uncertainty about any state of
+nature; the decision maker knows for sure what the world is like. This
+means that Easwaran&rsquo;s distinction between weak and strong
+expectations is not applicable.</p>
+
+<p>
+Although some of these problems may appear to be somewhat esoteric, we
+cannot dismiss them. All Pasadena-like problems are vulnerable to the
+same <em>contagion problem</em> as the St Petersburg game (see
+ <a href="#ModeStPetePara">section 2</a>).
+ H&aacute;jek and Smithson offer the following colorful
+illustration:</p>
+
+<blockquote>
+
+<p>
+You can choose between pizza and Chinese for dinner. Each
+option&rsquo;s desirability depends on how you weigh probabilistically
+various scenarios (burnt pizza, perfectly cooked pizza,&hellip;
+over-spiced Chinese, perfectly spiced Chinese&hellip;) and the
+utilities you accord them. Let us stipulate that neither choice
+dominates the other, yet it should be utterly straightforward for you
+to make a choice. <em>But it is not if the expectations of pizza and
+Chinese are contaminated by even a miniscule [sic] assignment of
+credence to the Pasadena game.</em> If the door is opened to it just a
+crack, it kicks the door down and swamps all expected utility
+calculations. You cannot even choose between pizza and Chinese.
+(H&aacute;jek and Smithson 2012: 42, emph. added.)</p>
+</blockquote>
+
+<p>
+Colyvan (2006) suggests that we should bite the bullet on the Pasadena
+game and accept that it has <em>no</em> expected utility. The
+contagion problem shows that if we were to do so, we would have to
+admit that the principle of maximizing expected utility would be
+applicable to nearly <em>no</em> decisions. Moreover, because the
+contagion problem is equally applicable to all games discussed in this
+entry (St. Petersburg, Pasadena, Arroyo, etc.) it seems that all these
+problems may require a unified solution.</p>
+
+<p>
+For hundreds of years, decision theorists have agreed that rational
+agents should maximize expected utility. The discussion has mostly
+been focused on how to interpret this principle, especially for
+choices in which the causal structure of the world is unusual.
+However, until recently no one has seriously questioned that the
+principle of maximizing expected utility is the right principle to
+apply. The rich and growing literature on the many puzzles inspired by
+the St. Petersburg paradox indicate that this might have been a
+mistake. Perhaps the principle of maximizing expected utility should
+be replaced by some entirely different principle?</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging">
+
+<li>Alexander, J. M., 2011, &ldquo;Expectations and
+Choiceworthiness&rdquo;, <em>Mind</em>, 120(479): 803&ndash;817.
+doi:10.1093/mind/fzr049</li>
+
+<li>Arrow, Kenneth J., 1970, <em>Essays in the Theory of
+Risk-Bearing</em>, Amsterdam: North-Holland.</li>
+
+<li>Aumann, Robert J., 1977, &ldquo;The St. Petersburg Paradox: A
+Discussion of Some Recent Comments&rdquo;, <em>Journal of Economic
+Theory</em>, 14(2): 443&ndash;445.
+doi:10.1016/0022-0531(77)90143-0</li>
+
+<li>Bartha, Paul, 2007, &ldquo;Taking Stock of Infinite Value:
+Pascal&rsquo;s Wager and Relative Utilities&rdquo;, <em>Synthese</em>,
+154(1): 5&ndash;52.</li>
+
+<li>Bartha, Paul, Barker, John and H&aacute;jek, Alan, 2014,
+&ldquo;Satan, Saint Peter and Saint Petersburg: Decision Theory and
+Discontinuity at Infinity&rdquo;, <em>Synthese</em>, 191(4):
+629&ndash;660.</li>
+
+<li>Bartha, Paul F. A., 2016, &ldquo;Making Do Without
+Expectations&rdquo;, <em>Mind</em>, 125(499): 799&ndash;827.
+doi:10.1093/mind/fzv152</li>
+
+<li>Bassett, Gilbert W., 1987, &ldquo;The St. Petersburg Paradox and
+Bounded Utility&rdquo;, <em>History of Political Economy</em>, 19(4):
+517&ndash;523. doi:10.1215/00182702-19-4-517</li>
+
+<li>Bernoulli, Daniel, 1738 [1954], &ldquo;Specimen Theoriae Novae de
+Mensura Sortis&rdquo;, <em>Commentarii Academiae Scientiarum
+Imperialis Petropolitanae</em>, 5: 175&ndash;192. English translation,
+1954, &ldquo;Exposition of a New Theory on the Measurement of
+Risk&rdquo;, <em>Econometrica</em>, 22(1): 23&ndash;36.
+doi:10.2307/1909829</li>
+
+<li>Bernoulli, Jakob, 1975, <em>Die Werke von Jakob Bernoulli</em>,
+Band III, Basel: Birkh&auml;user. A translation from this by Richard
+J. Pulskamp of
+ <a href="https://web.archive.org/web/20200725100737/http://cerebro.xu.edu/math/Sources/NBernoulli/correspondence_petersburg_game.pdf" target="other">Nicolas Bernoulli&rsquo;s letters concerning the St. Petersburg Game is available online</a>.</li>
+ 
+<li>Briggs, Rachael, 2015, &ldquo;Costs of Abandoning the Sure-Thing
+Principle&rdquo;, <em>Canadian Journal of Philosophy</em>,
+45(5&ndash;6): 827&ndash;840. doi:10.1080/00455091.2015.1122387</li>
+
+<li>Brito, D.L, 1975, &ldquo;Becker&rsquo;s Theory of the Allocation
+of Time and the St. Petersburg Paradox&rdquo;, <em>Journal of Economic
+Theory</em>, 10(1): 123&ndash;126.
+doi:10.1016/0022-0531(75)90067-8</li>
+
+<li>Buchak, Lara, 2013, <em>Risk and Rationality</em>, New York:
+Oxford University Press.
+doi:10.1093/acprof:oso/9780199672165.001.0001</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;Risk and Tradeoffs&rdquo;,
+<em>Erkenntnis</em>, 79(S6): 1091&ndash;1117.
+doi:10.1007/s10670-013-9542-4</li>
+
+<li>Buffon, G. L. L., 1777, &ldquo;Essai
+d&rsquo;Arithmd&eacute;&eacute;tique Motale&rdquo;, in
+<em>Suppl&eacute;ments &agrave; l&rsquo;Histoire Naturelle</em>.
+Reprinted in <em>Oeuvres Philosophiques de Buffon</em>, Paris,
+1954.</li>
+
+<li>Chalmers, David J., 2002, &ldquo;The St. Petersburg Two-Envelope
+Paradox&rdquo;, <em>Analysis</em>, 62(2): 155&ndash;157.
+doi:10.1093/analys/62.2.155</li>
+
+<li>Chen, Eddy Keming and Daniel Rubio, forthcoming, &ldquo;Surreal
+Decisions&rdquo;, <em>Philosophy and Phenomenological Research</em>,
+First online: 5 June 2018. doi:10.1111/phpr.12510</li>
+
+<li>Colyvan, Mark, 2006, &ldquo;No Expectations&rdquo;, <em>Mind</em>,
+115(459): 695&ndash;702. doi:10.1093/mind/fzl695</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, &ldquo;Relative Expectation
+Theory&rdquo;:, <em>Journal of Philosophy</em>, 105(1): 37&ndash;44.
+doi:10.5840/jphil200810519</li>
+
+<li>Colyvan, Mark and Alan H&aacute;jek, 2016, &ldquo;Making Ado
+Without Expectations&rdquo;:, <em>Mind</em>, 125(499): 829&ndash;857.
+doi:10.1093/mind/fzv160</li>
+
+<li>Cowen, Tyler and Jack High, 1988, &ldquo;Time, Bounded Utility,
+and the St. Petersburg Paradox&rdquo;, <em>Theory and Decision</em>,
+25(3): 219&ndash;223. doi:10.1007/BF00133163</li>
+
+<li>Dutka, Jacques, 1988, &ldquo;On the St. Petersburg Paradox&rdquo;,
+<em>Archive for History of Exact Sciences</em>, 39(1): 13&ndash;39.
+doi:10.1007/BF00329984</li>
+
+<li>Easwaran, Kenny, 2008, &ldquo;Strong and Weak Expectations&rdquo;,
+<em>Mind</em>, 117(467): 633&ndash;641. doi:10.1093/mind/fzn053</li>
+
+<li>Fine, Terrence L., 2008, &ldquo;Evaluating the Pasadena, Altadena,
+and St Petersburg Gambles&rdquo;, <em>Mind</em>, 117(467):
+613&ndash;632. doi:10.1093/mind/fzn037</li>
+
+<li>H&aacute;jek, Alan, 2014, &ldquo;Unexpected Expectations&rdquo;,
+<em>Mind</em>, 123(490): 533&ndash;567. doi:10.1093/mind/fzu076</li>
+
+<li>H&aacute;jek, Alan and Harris Nover, 2006, &ldquo;Perplexing
+Expectations&rdquo;, <em>Mind</em>, 115(459): 703&ndash;720.
+doi:10.1093/mind/fzl703</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, &ldquo;Complex Expectations&rdquo;,
+<em>Mind</em>, 117(467): 643&ndash;664. doi:10.1093/mind/fzn086</li>
+
+<li>H&aacute;jek, Alan and Michael Smithson, 2012, &ldquo;Rationality
+and Indeterminate Probabilities&rdquo;, <em>Synthese</em>, 187(1):
+33&ndash;48. doi:10.1007/s11229-011-0033-3</li>
+
+<li>Isaacs, Yoaav, 2016, &ldquo;Probabilities Cannot Be Rationally
+Neglected&rdquo;, <em>Mind</em>, 125(499): 759&ndash;762.
+doi:10.1093/mind/fzv151</li>
+
+<li>Jeffrey, Richard C., 1983, <em>The Logic of Decision</em>, 2nd
+edition, Chicago: University of Chicago Press.</li>
+
+<li>Jordan, Jeff, 1994, &ldquo;The St. Petersburg Paradox and
+Pascal&rsquo;s Wager&rdquo;, <em>Philosophia</em>, 23(1&ndash;4):
+207&ndash;222. doi:10.1007/BF02379856</li>
+
+<li>Joyce, James M., 1999, <em>The Foundations of Causal Decision
+Theory</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Lauwers, Luc and Peter Vallentyne, 2016, &ldquo;Decision Theory
+without Finite Standard Expected Value&rdquo;, <em>Economics and
+Philosophy</em>, 32(3): 383&ndash;407.
+doi:10.1017/S0266267115000334</li>
+
+<li>Linnebo, &Oslash;ystein and Stewart Shapiro, 2019, &ldquo;Actual
+and Potential Infinity: Actual and Potential Infinity&rdquo;,
+<em>No&ucirc;s</em>, 53(1): 160&ndash;191. doi:10.1111/nous.12208</li>
+
+<li>Luce, R. Duncan, 1959, &ldquo;On the Possible Psychophysical
+Laws&rdquo;, <em>Psychological Review</em>, 66(2): 81&ndash;95.
+doi:10.1037/h0043178</li>
+
+<li>McClennen, Edward F., 1994, &ldquo;Pascal&rsquo;s Wager and Finite
+Decision Theory&rdquo;, in <em>Gambling on God: Essays on
+Pascal&rsquo;s Wager</em>, Jeff Jordan (ed.), Boston: Rowman &amp;
+Littlefield, 115&ndash;138.</li>
+
+<li>McCutcheon, Randall G., 2021, &ldquo;How to co-exist with
+nonexistent expectations&rdquo;, <em>Synthese</em>, 198(3):
+2783&ndash;2799.</li>
+
+<li>Menger, Karl, 1934 [1979], &ldquo;Das Unsicherheitsmoment in der
+Wertlehre: Betrachtungen im Anschlu&szlig; an das sogenannte
+Petersburger Spiel&rdquo;, <em>Zeitschrift f&uuml;r
+National&ouml;konomie</em>, 5(4): 459&ndash;485. Translated, 1979, as
+&ldquo;The Role of Uncertainty in Economics&rdquo;, in Menger&rsquo;s
+<em>Selected Papers in Logic and Foundations, Didactics,
+Economics</em>, Dordrecht: Springer Netherlands, 259&ndash;278.
+doi:10.1007/BF01311578 (de) doi:10.1007/978-94-009-9347-1_25 (en)
+</li>
+
+<li>Nover, Harris and Alan H&aacute;jek, 2004, &ldquo;Vexing
+Expectations&rdquo;, <em>Mind</em>, 113(450): 237&ndash;249.
+doi:10.1093/mind/113.450.237</li>
+
+<li>Peterson, Martin, 2011, &ldquo;A New Twist to the St. Petersburg
+Paradox&rdquo;:, <em>Journal of Philosophy</em>, 108(12):
+697&ndash;699. doi:10.5840/jphil20111081239</li>
+
+<li>&ndash;&ndash;&ndash;, 2013, &ldquo;A Generalization of the
+Pasadena Puzzle: A Generalization of the Pasadena Puzzle&rdquo;,
+<em>Dialectica</em>, 67(4): 597&ndash;603.
+doi:10.1111/1746-8361.12046</li>
+
+<li>&ndash;&ndash;&ndash;, 2009 [2017], <em>An Introduction to
+Decision Theory</em>, Cambridge: Cambridge University Press; second
+edition 2017. doi:10.1017/CBO9780511800917
+doi:10.1017/9781316585061</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;Interval Values and Rational
+Choice&rdquo;, <em>Economics and Philosophy</em>, 35(1):
+159&ndash;166. doi:10.1017/S0266267118000147</li>
+
+<li>Ramsey, Frank Plumpton, 1926 [1931], &ldquo;Truth and
+Probability&rdquo;, printed in <em>The Foundations of Mathematics and
+Other Logical Essays</em>, R. B. Braithwaite (ed.), London: Kegan
+Paul, Trench, Trubner &amp; Co., 156&ndash;198. Reprinted in
+<em>Philosophy of Probability: Contemporary Readings</em>, Antony
+Eagle (ed.), New York: Routledge, 2011: 52&ndash;94.
+ [<a href="https://econpapers.repec.org/bookchap/hayhetcha/ramsey1926.htm" target="other">Ramsey 1926 [1931] available online</a>]</li>
+ 
+<li>Russell, Jeffrey Sanford and Isaacs, Yoaav, 2021, &ldquo;Infinite
+Prospects&rdquo;, <em>Philosophy and Phenomenological Research</em>,
+103(1): 178&ndash;198.</li>
+
+<li>Samuelson, Paul A., 1977, &ldquo;St. Petersburg Paradoxes:
+Defanged, Dissected, and Historically Described&rdquo;, <em>Journal of
+Economic Literature</em>, 15(1): 24&ndash;55.</li>
+
+<li>Savage, Leonard J., 1954, <em>The Foundations of Statistics</em>,
+(Wiley Publications in Statistics), New York: Wiley. Second edition,
+Courier Corporation, 1974.</li>
+
+<li>Skala, Heinz J., 1975, <em>Non-Archimedean Utility Theory</em>,
+Dordrecht: D. Reidel.</li>
+
+<li>Smith, Nicholas J. J., 2014, &ldquo;Is Evaluative Compositionality
+a Requirement of Rationality?&rdquo;, <em>Mind</em>, 123(490):
+457&ndash;502. doi:10.1093/mind/fzu072</li>
+
+<li>von Neumann, John and Oskar Morgenstern, 1947, <em>Theory of Games
+and Economic Behavior</em>, second revised edtion, Princeton, NJ:
+Princeton University Press.</li>
+
+<li>Weirich, Paul, 1984, &ldquo;The St. Petersburg Gamble and
+Risk&rdquo;, <em>Theory and Decision</em>, 17(2): 193&ndash;202.
+doi:10.1007/BF00160983</li>
+
+<li>Williamson, Timothy, 2007, &ldquo;How Probable Is an Infinite
+Sequence of Heads?&rdquo;, <em>Analysis</em>, 67(295): 173&ndash;180.
+doi:10.1111/j.1467-8284.2007.00671.x</li>
+</ul>
+</div> 
+
+<div id="academic-tools">
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=paradox-stpetersburg" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/paradox-stpetersburg/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=paradox-stpetersburg&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/paradox-stpetersburg/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<p>
+[Please contact the author with suggestions.] </p>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../decision-theory/">decision theory</a> |
+ <a href="../hedonism/">hedonism</a> |
+ <a href="../infinity/">infinity</a> |
+ <a href="../pascal-wager/">Pascal&rsquo;s wager</a> |
+ <a href="../probability-interpret/">probability, interpretations of</a> |
+ <a href="../rationality-normative-utility/">rational choice, normative: expected utility</a> |
+ <a href="../spacetime-supertasks/">space and time: supertasks</a> |
+ <a href="../statistics/">statistics, philosophy of</a>
+
+</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="http://www.martinpeterson.org" target="other">Martin Peterson</a>
+&lt;<a href="m&#97;ilto:martinpeterson&#37;40tamu&#37;2eedu"><em>martinpeterson<abbr title=" at ">&#64;</abbr>tamu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,136 @@
+# epistemic-utility — char-ep-ut-cred（supplement）
+
+> （《epistemic-utility》词条补充材料，源：plato.stanford.edu/entries/epistemic-utility/char-ep-ut-cred.html）
+
+#### Supplement to Epistemic Utility Arguments for Epistemic Norms
+
+## Accuracy and Veritist Accounts of Epistemic Utility for Credences
+
+### 1. Arguments for and against Credal Veritism
+
+Before we consider how to measure the accuracy of a credence function, let’s briefly attend to a concern about Credal Veritism. One consequence of Credal Veritism is that any virtue a credence has other than accuracy must derive from the virtue of accuracy (Goldman 2002: 52). Now, perhaps you think it’s a virtue to have credences that cohere with one another in a particular sense; or perhaps you think it’s a virtue of a credence in a particular proposition if it matches the degree of support given to that proposition by the agent’s current total evidence, a position dubbed *evidential proportionalism* by Goldman (2002: 55–7); and so on. The credal veritist must either deny that these are really virtues, or they must explain how they derive from the virtue of accuracy.
+
+For the putative virtue of coherence, there is a very natural explanation. The coherence that we demand of credences is precisely that they relate to one another in the way that Probabilism demands. If that is correct, then of course the dominance argument for Probabilism given in Section 5.2 provides an argument that this virtue derives its goodness from the goodness of inaccuracy: after all, if a credence function lacks this sort of coherence, it will be accuracy dominated.
+
+What of the evidential proportionalist? Here it is a little more difficult. There are principles that the evidential proportionalist will take to govern evidential support that go beyond merely Probabilism, which is a relatively weak and undemanding principle. So it is not sufficient to point to the dominance argument for that principle in the way we did in response to the coherentist. However, here is an attempt at an answer. It comes from collecting together the whole array of accuracy arguments for other principles of credal rationality that we consider in Section 5 of the main text, such as the arguments for The Principal Principle (Section 5.2), Conditionalization (Section 5.3), and the Principle of Indifference (Section 5.4). The point is that, piece by piece, the principles that are taken to govern the degree of support provided to a proposition by a body of evidence are shown to follow from accuracy considerations alone. This, it seems, constitutes a response to the concerns of the evidential proportionalist.
+
+Christopher Meacham (2018) objects to this response in two ways: first, he argues that the different decision-theoretic norms that are used in the epistemic utility arguments for the various credal norms just listed might be incompatible with one another; and, second, he worries that some of the decision-theoretic norms that are used in those justifications are not themselves purely alethic and therefore fail to provide purely veritistic justifications of the norms in question.
+
+Both the response to the coherentist and the response to the evidential proportionalist leave the credal veritist’s argument for Probabilism in a strange position. The argument for, or defence of, one component of its first premise, namely, Credal Veritism, appeals to an argument of which it is a premise! In fact, this isn’t problematic. The credal veritist and her opponent can agree that the argument at least establishes a conditional: *if* credal veritism is true, *then* probabilism is true. You need not accept Credal Veritism to accept that conditional. And it is that conditional to which the credal veritist appeals in defending Credal Veritism against the coherentist, for instance. Having successfully defended credal veritism in this way, she can then appeal to its truth to derive Probabilism.
+
+In the coming sections, we ask how we might measure the gradational (in)accuracy of a credence function. We’ll begin with Joyce’s (1998) original characterisation of the inaccuracy measures; then we’ll give Leitgeb and Pettigrew’s (2010) and D'Agostino and Sinigaglia’s (2010) alternative characterisations, which both single out the Brier score; and finally, we’ll describe Williams and Pettigrew’s characterisation, which gives the additive and continuous strictly proper scoring rules, which we’ll meet again in the following section, when we consider Joyce’s (2009) later characterisation of epistemic utility functions that does not assume they’re accuracy measures. Strictly proper scoring rules are the measures that are now most commonly assumed in epistemic utility arguments.
+
+### 2. A geometric characterization
+
+Joyce (1998) lists and motivates a variety of conditions on a measure of inaccuracy, and then proves that, for any measure that satisfies these conditions and for any non-probabilistic credence function, there is a probabilistic credence function that is less accurate at every state of the world—this is the original dominance argument for Probabilism. We’ll focus here on just one of Joyce’s conditions on a measure of inaccuracy.
+
+> **Strong Convexity** Every legitimate measure of inaccuracy is *strictly convex*. That is, if $\mathfrak{I}$ is a legitimate inaccuracy measure and $C \neq C'$ and $\mathfrak{I}(C, w) = \mathfrak{I}(C', w)$, then $$\mathfrak{I}\left(\frac{1}{2}C + \frac{1}{2}C', w\right) \lt \mathfrak{I}(C, w) = \mathfrak{I}(C', w)$$
+
+Joyce calls this Weak Convexity, but I change the name in this presentation because, as Patrick Maher (2002) points out, it is considerably stronger than Joyce imagines. It says that, for any two distinct credence functions that are equally inaccurate at a given world, the third credence function obtained by “splitting the difference” between them and taking an equal mixture of the two is less inaccurate than either of them. Here is Joyce’s justification of this condition:
+
+> [Strong] Convexity is motivated by the intuition that extremism in the pursuit of accuracy is no virtue. It says that if a certain change in a person’s degrees of belief does not improve accuracy then a more radical change in the same direction and of the same magnitude should not improve accuracy either. Indeed, this is just what the principle says. (Joyce 1998: 596)
+
+Joyce’s point is this: Suppose we have three credence functions, $C$, $M$, and $C'$. And suppose that, to move from $M$ to $C'$ is just to move in the same direction and by the same amount as to move from $C$ to $M$, which is exactly what will be true if $M$ is the equal mixture of $C$ and $C'$. Now suppose that $M$ is at least as inaccurate as $C$—that is, the change from $C$ to $M$ does not “improve accuracy”. Then, Joyce claims, $C'$ must be at least as inaccurate as $M$—that is, the change from $M$ to $C'$ also does not “improve accuracy”.
+
+Objection: *The justification given doesn’t justify Strong Convexity.* The problem with this justification is that it establishes a weaker principle than Strong Convexity. This was first pointed out by Patrick Maher (2002), who noted that Joyce’s justification in fact motivates the following weaker principle:
+
+> **Weak Convexity** Every legitimate measure of inaccuracy is *weakly convex*. That is, if $\mathfrak{I}$ is a legitimate inaccuracy measure and $C \neq C'$ and $\mathfrak{I}(C, w) = \mathfrak{I}(C', w)$, then $$\mathfrak{I}\left(\frac{1}{2}C + \frac{1}{2}C', w\right) \leq \mathfrak{I}(C, w) = \mathfrak{I}(C', w)$$
+
+That is, Joyce’s motivation rules out situations in which inaccuracy *increases* from $C$ to $M$ and then *decreases* from $M$ to $C'$. And this is what Weak Convexity also rules out. But Strong Convexity furthermore rules out situations in which inaccuracy *remains the same* from $C$ to $M$ and then from $M$ to $C'$. And Joyce has given no reason to think that such changes are problematic.
+
+Can we respond to Maher’s objection by replacing Strong Convexity with Weak Convexity in Joyce’s characterisation? No, for Maher proves that there are measures of inaccuracy that satisfy all the other conditions as well as Weak Convexity for which the dominance argument for Probabilism does not go through.
+
+### 3. A distance-based characterization I
+
+Unlike Joyce’s conditions, those offered by Leitgeb and Pettigrew (2010a) are sufficient to narrow the field of legitimate inaccuracy measures to just a single one, namely, the Brier score $\mathfrak{B}$ itself.
+
+Here, we focus on one of the most powerful, which also turns out to be the most problematic:
+
+> **Global Normality and Dominance** If $\mathfrak{I}$ is a legitimate inaccuracy measure, there is a strictly increasing $f:[0, \infty) \rightarrow [0, \infty)$ such $$\mathfrak{I}(C, w) = f(||V_w - C||_2).$$ (Recall: $V_w(X) = 1$ if $X$ is true at $w$ and $V_w(X) = 0$ if $X$ is false at $w$. And for any two credence functions $C$, $C'$ defined on $\mathcal{F}$, $$||C - C'||_2 := \sqrt{\sum_{X \in \mathcal{F}} |C(X) - C'(X)|^2}$$ So $||C - C'||_2$ the *Euclidean distance between $C$ and $C'$*, or the *$\mathscr{l}^2$ distance*.)
+
+Thus, Global Normality and Dominance says that the inaccuracy of a credence function at a world should supervene in a certain way upon the Euclidean distance between that credence function and the omniscient credence function at that world. Indeed, it should be a strictly increasing function of that distance between them.
+
+Objection 1: *There is no motivation for the appeal to Euclidean distance.* Leitgeb and Pettigrew give no reason for appealing to the Euclidean distance measure in particular, rather than some other measure of distance between credence functions (Chapter 4, Pettigrew 2022). Suppose we replace that condition with one that says that a legitimate global inaccuracy measure must be a strictly increasing function of the so-called *Manhattan* or *city block* or $\mathscr{l}^1$ distance measure, where the distance between two credence functions measured in this way is defined as follows: $$||C - C'||_1 := \sum_{X \in \mathcal{F}} |C(X) - C'(X)|$$ That is, the Manhattan distance between two credence functions is obtained by summing the differences between the credences they each assign to the various propositions on which they are defined. Together with the other constraints that Leitgeb and Pettigrew place on inaccuracy measures, this alternative constraint entails that the only legitimate inaccuracy measure is the so-called *absolute value score*, which is defined as follows: $$\mathfrak{A}(C, w) := \sum_{X \in \mathcal{F}} |V_w(X) - C(X)|$$
+
+Now, it turns out that the absolute value score cannot ground a dominance argument for Probabilism. In fact, there are situations in which non-probabilistic credence functions dominate probabilistic credence functions when epistemic disutility is measured using the absolute value score. Let $\mathcal{F} = \{X_1, X_2, X_3\}$, where $X_1$, $X_2$, and $X_3$ are mutually exclusive and exhaustive propositions. And consider the following two credence functions: $C(X_i) = \frac{1}{3}$ for each $i = 1, 2, 3$; $C'(X_i) = 0$ for each $i = 1, 2, 3$. The former, $C$, is probabilistic; the latter, $C'$, is not. But, if we measure epistemic disutility using the absolute value score, the disutility of $C$ at each of the three possible worlds is $\frac{4}{3}$, whereas the disutility of $C'$ at each of the three possible worlds is $1$. The upshot of this observation is that, if the dominance argument for Probabilism is to succeed, it is crucial to rule out the absolute value score. The problem with the Leitgeb and Pettigrew characterization is that it rules out this measure essentially by fiat. It rules it out by demanding that the inaccuracy of a credence function at a world supervenes on the Euclidean distance between the credence function and the omniscient credence function at that world. But it gives no reason for favouring this measure of distance over another, such as Manhattan distance.
+
+### 4. A distance-based characterization II
+
+Like Leitgeb and Pettigrew, D’Agostino and Sinigaglia (2010) offer a set of conditions that narrow down the set of legitimate measures of inaccuracy to just the Brier score (and positive linear transformations of it). I’ll bundle them together into the following condition for ease of exposition:
+
+> **Difference and Order Sensitivity** Every legitimate measure of inaccuracy is *difference and order sensitive*. That is:
+>
+> 1. Difference Sensitivity: For any credence function $C$ and any world $w$, $$\mathfrak{I}(C, w) = \sum_{X \in \mathcal{F}} f(|V_w(X) - C(X)|)$$
+> 2. Order Sensitivity: If
+> 3. $C$ and $C'$ are both credence functions defined on an agenda $\mathcal{F}$;
+> 4. $X_i, X_j, X_k, X_l$ are propositions in $\mathcal{F}$;
+> 5. $C$ and $C'$ order $X_i$ and $X_j$ in the same way;
+> 6. $C$ and $C'$ order $X_k$ and $X_l$ in the same way;
+> 7. $|C(X_i) - C(X_j)| = |C(X_k) - C(X_j)|$;
+> 8. $|C'(X_i)- C'(X_j)| = |C'(X_k) - C'(X_j)|$;
+> 9. $C'_{ij}$ is the credence function exactly like $C'$, but with the credences assigned to $X_i$ and $X_j$ swapped;
+> 10. $C'_{kl}$ is the credence function exactly like $C'$, but with the credences assigned to $X_k$ and $X_l$ swapped; then $$\sum_{X \in \mathcal{F}} f(|C(X) - C'_{ij}(X)|) = \sum_{X \in \mathcal{F}} f(|C(X) - C'_{kl}(X)|)$$
+
+Difference Sensitivity says that the inaccuracy of a credence function is the sum of the inaccuracies of the credences it assigns, and the inaccuracy of a credence is a continuous and strictly increasing function of the difference between it and the omniscience credence. Order Sensitivity then says, very roughly, that, if we use that continuous and strictly increasing function to define a measure of distance between any two credence functions, and not just between a credence function and an omniscient credence function, then, other things being equal, the distance of one credence function from another is sensitive to the way in which the credence functions order the propositions. In particular, it says that if two credence functions order one pair of credence functions in the same way, and also another pair, and if, for both credence functions, the difference between the credences it assigns to the first pair is the same as the difference between the credences it assigns to the second pair, then if we simply take the second credence function and first swap the credences it assigns to the propositions in the first pair and measure the distance from the first credence function, and if we take the second credence function and instead swap the credences it assigns to the propositions in the second pair and measure the distance from the first credence function, we’ll get the same distance.
+
+Objection: One worry about this approach targets Difference Sensitivity. Why should it be that the distance from one credence function to another is a function of the *differences* between the credences they assign, rather than, for instance, a function of the *ratios* of the credences they assign? However, if we replace differences with ratios throughout D’Agostino and Sinigaglia’s characterisation, we permit the following inaccuracy measure: $$\mathfrak{I}(C, w) = \sum_{X \in \mathcal{F}} \log \left ( \frac{w(X)}{C(X)} \right ) = \sum_{\substack{X \in \mathcal{F} \\ w(X) = 1}} -\log C(X) $$ And it turns out that this does not support the dominance argument for Probabilism (Chapter 5, Pettigrew 2021).
+
+### 5. A calibration-based characterization
+
+Williams and Pettigrew impose three constraints on legitimate measures of inaccuracy; their characterisation is explicitly an improvement of the one given by Pettigrew (2016), so I won’t present the latter here. In fact, they characterise families of legitimate measures of inaccuracy, where a family contains one measure of inaccuracy for each agenda on which the credence functions to be evaluated are defined. And the families that they characterise contain all and only the additive and continuous strictly proper inaccuracy measures.
+
+Their characterization assumes Continuity and Additivity. The third and final component is inspired by the following quotation from Frank P. Ramsey:
+
+> Granting that [an individual] is going to think always in the same way about all yellow toadstools, we can ask what degree of confidence it would be best for him to have that they are unwholesome. And the answer is that it will in general be best for his degree of belief that a yellow toadstool is unwholesome to be equal to the proportion of yellow toadstools that are unwholesome. (Ramsey 1926 [1931])
+
+They interpret this as saying the following: given an agenda, say that a credence function on that agenda is *homogeneous* if it assigns the same credence to each proposition; and say that a homogeneous credence function is *perfectly calibrated* at a state of the world if the credence it assigns to each proposition is the proportion of true propositions among the set; then Williams and Pettigrew read Ramsey as saying:
+
+> **The Calibration Test** Every legitimate measure of inaccuracy *passes the calibration test*. That is, for every family of legitimate inaccuracy measures $\mathfrak{I}$, for each agenda $\mathcal{F}$, for each world $w$ relative to $\mathcal{F}$, and for each credence function $C$ defined on $\mathcal{F}$, $$\mathfrak{I}(C^w_\mathcal{F}, w) \lt \mathfrak{I}(C, w)$$ where, for each $X$ in $\mathcal{F}$, $$C^w_\mathcal{F}(X) = \frac{|\{Z \in \mathcal{F} \mid V_w(Z) = 1\}|}{|\{Z \in \mathcal{F}\}|}$$ That is, for every family of legitimate inaccuracy measures and for each agenda, the most accurate homogeneous credence function defined on that agenda at a state of the world is the one that is perfectly calibrated at that world.
+
+So, if an individual assigns credences to three propositions, and only two are true at a world, then the most accurate homogeneous credence function assigns credence 2/3 to each proposition. This may not be the most accurate credence function at that world, of course, but the perfectly calibrated one will be the most accurate *among the homogeneous ones*.
+
+They then show that Additivity, Continuity, and The Calibration Test together characterise the additive and continuous strictly proper inaccuracy measures.
+
+### 6. Epistemic utility and unique rational responses
+
+In this section, we consider an argument due to Joyce (2009) that attempts to characterise epistemic disutility functions directly.
+
+Joyce’s central condition is Coherent Admissibility. It says that no probabilistic credence function should be weakly dominated: that is, there should be no probabilistic credence function for which there is some alternative that is at least as good at all worlds and strictly better at some.
+
+> **Coherent Admissibility** Every legitimate measure of epistemic utility is *coherent admissible*. That is, for every legitimate measure of epistemic utility $\mathfrak{EU}$, if $C$ is a probabilistic credence function, then $C$ is not weakly dominated relative to $\mathfrak{EU}$.
+
+Joyce argues for Coherent Admissibility as follows.
+
+> (1) For each probabilistic credence function $C$, there is a possible world at which $C$ is the objective chance function.
+>
+> (2) If an agent learns with certainty that $C$ is the objective chance function, and nothing more, then the unique rational response to her evidence is to set her credence function to $C$. (This is close to David Lewis’ Principal Principle, which I’ll discuss in Section 5.3 (Lewis 1980).)
+>
+> (3) Thus, by (1) and (2): for each probabilistic credence function $C$, there is an evidential situation to which $C$ is the unique rational response.
+>
+> (4) For any credence function $C$, if $C'$ weakly dominates $C$ relative to a legitimate measure of epistemic utility, and $C$ is rationally permitted, then $C'$ is also rationally permitted.
+>
+> (5) Thus, by (4): for any credence function $C$, if $C$ is weakly dominated, there is no evidential situation in which $C$ the unique rational response.
+>
+> Therefore,
+>
+> (6) Thus, by (3) and (5): no probabilistic credence function is weakly dominated relative to any legitimate measure of epistemic utility.
+
+It is worth noting that a similar argument might be given for Strict Propriety. If $C$ is the unique rational response to your evidential situation, then it cannot be the case that there is an alternative credence function $C'$ that has at least as expected high epistemic utility as $C$ when this is calculated from the point of view of $C$. If there were, it would always be rationally permissible to move from $C$ to $C'$, and yet that can't be true if $C$ is the unique rational response to some evidence.
+
+Let’s consider two objections to this argument.
+
+Objection 1: *Not all probabilistic credence functions could be chance functions.* The first objection denies (1). It’s due to Alan Hájek (2008). As Hájek notes, if a credence function $C$ is defined on propositions about the chances themselves, it’s not obvious that any chance function will be defined on that proposition. If that’s right $C$ is not a possible chance function. And his argument might be extended. We can assign a credence function on propositions concerning ethical matters, or mathematical matters, or aesthetic matters, or facts about the current time or the agent’s current location. But it is not clear that such a credence function could possibly be the chance function of any world, since it seems natural to think that chances cannot attach to these sorts of proposition. Pettigrew (2014b: Section 5.2.1) replies on Joyce’s behalf.
+
+Objection 2: *The argument over-generates.* The second objection claims that, in the absence of Probabilism, which is supposed to be the conclusion of the argument for which Coherent Admissibility is a crucial part, this argument overgenerates. Consider, for instance, the following claim:
+
+> (2′) If an agent learns with certainty that $C$ is the credence function that constitutes the unique rational response to her evidence at that time, and nothing more, then the unique rational response is to set her credence function to $C$.
+
+Now, suppose $C^\dag$ is a non-probabilistic credence function and apply the version of Joyce’s argument that results from replacing (2) with (2′). That is, we assume that it is possible that the agent learn with certainty that $C^\dag$ is the unique rational response to her evidence, even if in fact it is not. We might assume, for instance, that a mischievous God whispers in the agent’s ear that this is the case. Then we must conclude that $C^\dag$ is not weakly dominated relative to any legitimate measure of epistemic disutility. Of course, the natural response to this objection is to note that (2′) only holds when $C$ is a probabilistic credence function. But such a restriction is unmotivated until we have established Probabilism.
+
+### 7. Pragmatic accounts of epistemic utility
+
+Why do we want to have accurate beliefs? A pragmatist might say that it is because we have reason to think that more accurate beliefs will lead us to make better decisions. They might argue that, if the outcome of your action is determined by how the world is, then you stand a better chance of getting a good outcome if you represent the world accurately. Ben Levinstein (2017) has built on some formal results by Mark Schervish (1989) to pursue this idea. The idea is that you will use your credence in a proposition to make decisions whose outcome depends on the truth or falsity of that proposition. So we might judge your credence at a world by the utility of the outcome at that world of the action you’ll choose when faced with a decision problem. But which decision problem? Well, a natural thing is to take a sort of average over all of the decision problems you might face. How do we define this average? Well, using a measure over the possible decision problems. And Levinstein (and Schervish) show that, whatever continuous measure you use, if you score a credence at a world by the average utility you’ll get at that world by choosing the actions it will lead you to choose, then that way of scoring is a continuous strictly proper scoring rule. And, what’s more, any continuous strictly proper scoring rule can be generated in that way by picking an appropriate measure.
+
+### 8. Guessing accounts of epistemic utility
+
+Building on a suggestion by Sophie Horowitz (2017), Gabrielle Kerbel (ms) has proposed an alternative way to generate scores for precise credences. Horowitz’s central idea is that credences license guesses. Suppose I have a greater credence in $X$ than in $Y$, and you force me to guess either $X$ or $Y$; then my credence licenses guessing $X$ and doesn’t license guessing $Y$. And if I have the same credence in $X$ as in $Y$, and you again force me to guess, then my credence licenses guessing either. Now assume the version of the Principal Principle that says that if you know the chance of a proposition, your credence should match that chance. And, for each $0 \leq x \leq 1$, let $\rho_x$ be a proposition whose chance you know to be $x$: perhaps $\rho_x$ says that a coin with bias $x$ towards landing heads will land heads on the next toss. Then, if your credence in $X$ is greater than $x$, then you’re licensed to guess $X$ when offered a forced choice between $X$ and $\rho_x$. Now let’s say you score 1 when you guess a true proposition and 0 if you guess a false one. Then we’re going to score a credence in a proposition by the score of the guess it licenses when forced to choose between it and $\rho_x$. But which $\rho_x$? Well, as with Levinstein’s proposal, the natural thing is to take a sort of average over the possibilities. And Kerbel shows that, if you take the expected average score you’ll receive, where the average is taken relative to the uniform distribution, then the resulting method of scoring a credence is continuous and strictly proper.

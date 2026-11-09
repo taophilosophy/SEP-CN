@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Gödel’s Incompleteness Theorems &gt; G&ouml;del Numbering (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/goedel-incompleteness/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/goedel-incompleteness/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=goedel-incompleteness">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">G&ouml;del&rsquo;s Incompleteness Theorems</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>G&ouml;del Numbering</h2>
+<p>
+
+A key method in the usual proofs of the first incompleteness theorem
+is the arithmetization of the formal language, or <em>G&ouml;del
+numbering:</em> certain natural numbers are assigned to terms,
+formulas, and proofs of the formal theory \(F\). There are
+different ways of doing this; one standard approach is sketched here
+(for a rather different method of coding, see, e.g., Boolos &amp;
+Jeffrey 1989). An essential requirement is that the method is
+effective, that is, a purely mechanical routine.</p>
+<p>
+
+The method proceeds in two steps:</p>
+
+
+<h3>1. Symbol numbers</h3>
+<p>
+
+To begin with, to each primitive symbol \(s\) of the language of the
+formalized system \(F\) at stake, a natural number \(\num(s)\),
+called the <em>symbol number</em> of \(s\), is attached. It does
+not matter how and in which order this is done&mdash;that is
+arbitrary&mdash;but once it is done, it is obviously kept fixed.</p>
+<p>
+
+For example, in the case of the standard language of arithmetic, with
+symbols \(0, ', +, \times , =\), (, ), \(\neg , \rightarrow ,
+\forall\) (for simplicity, let us assume that \(\neg , \rightarrow\)
+and \(\forall\) are the only primitive logical symbols, and that
+\(\wedge , \vee , \leftrightarrow\) and \(\exists\) are defined with
+the help of them), one might proceed, e.g., as follows:</p>
+
+<table class="cellpad-med-dense centered">
+<tr>
+<td>\(\num(\lsq 0\rsq) = 1\)</td>
+<td>\(\num(\lsq {=}\rsq) = 5\) </td>
+<td>\(\num(\lsq \neg\rsq) = 9\) </td>
+</tr>
+
+<tr>
+<td>\(\num(\lsq\,'\,\rsq) = 2\) </td>
+<td>\(\num(\lsq (\rsq ) = 6\) </td>
+<td>\(\num(\lsq \forall\rsq) = 10\) </td>
+</tr>
+
+<tr>
+<td>\(\num(\lsq {+}\rsq) = 3\) </td>
+<td>\(\num(\lsq )\rsq) = 7\) </td>
+<td>\(\num(\lsq x_i\rsq) = 11 + i\)</td>
+</tr>
+
+<tr>
+<td>\(\num(\lsq {\times}\rsq) = 4\)</td>
+<td>\(\num(\lsq {\rightarrow}\rsq) = 8\)</td>
+<td></td>
+</tr>
+</table>
+
+<h3>2. Coding sequences</h3>
+<p>
+
+Some way of coding finite sequences of numbers by single numbers is
+also fixed. There are indefinitely many possible ways to achieve that;
+one common approach (used also originally by G&ouml;del himself) is
+based on the products of the powers of the prime numbers.</p>
+<p>
+
+Recall that a <em>prime number</em> is a natural number which is
+greater than 1 and can be divided only by 1 and the number itself (all
+the other numbers greater than 1 are &ldquo;composite&rdquo;). There
+are infinitely many prime numbers; the beginning of the sequence is 2,
+3, 5, 7, 11, 13, 17, &hellip;</p>
+<p>
+
+<em>The fundamental theorem of arithmetic</em> (or the
+unique-prime-factorization theorem) states that any natural number
+greater than 1 can be written as a unique product (up to ordering of
+the factors) of prime numbers.</p>
+
+<p>
+
+Let then \(p_1\) be the first prime number, \(p_2\) the second prime
+number, and so forth. In general, \(p_n\) is the \(n\)-th prime
+number, and </p>
+
+\[
+p_1, p_2 , \ldots ,p_n
+\]
+
+<p>
+
+is the sequence of the first \(n\) primes in the increasing
+order.</p>
+<p>
+
+Given an arbitrary finite sequence of positive numbers (0 would cause
+complications) with length \(k + 1\), \((n_0, n_1 , \ldots ,n_k)\), it
+can be uniquely coded as a product of powers of the prime numbers
+\(p_1, p_2 , \ldots ,p_{k+1}\) as follows:</p>
+
+\[
+c = 2^{n_0} \times 3^{n_1} \times 5^{n_2} \times \ldots \times p^{n_k}_{k+1},
+\]
+
+<p>
+
+For example, the sequence \(\langle 3, 1, 2\rangle\) is coded as \(2^3
+\times 3^1 \times 5^2\), that is, \(8 \times 3 \times 25\), which
+equals 600.</p>
+
+<h4>Combining the two steps:</h4>
+
+<p>
+
+Given these two methods, it is possible to code an arbitrary
+expression of the language by a single number: first, replace each
+symbol \(s\) by it symbol number \(\num(s)\). This way a
+sequence of symbols becomes a sequence of numbers. Second, using the
+above powers of primes coding, associate to this sequence of numbers a
+unique single number as its code&mdash;its &ldquo;G&ouml;del
+number&rdquo;.</p>
+<p>
+
+For example, take the simple expression \(\lsq0 = 0\rsq.\) As it was
+stipulated above that the symbol numbers of the symbols
+&lsquo;0&rsquo; and &lsquo;=&rsquo; are 1 and 5, respectively, the
+corresponding sequence of the symbol numbers is: \(\langle 1, 5,
+1\rangle\). The code (that is, the G&ouml;del number) of \(\lsq 0 =
+0\rsq\) then is:</p>
+
+\[
+2^1 \times 3^5 \times 5^1 = 2 \times 243 \times 5 = 2430.
+\]
+
+<p>
+In general, the G&ouml;del number of a formula (sentence, derivation)
+\(A\) is denoted by \(\ulcorner A\urcorner\). For example, \(\ulcorner
+0 = 0\urcorner\) refers, under the coding we have fixed, to 2430.</p>
+<p>
+
+In this way we can assign G&ouml;del numbers to formulas, sequences
+of formulas (once a method for distinguishing when one formula ends and
+another begins has been adopted), and most notably, proofs, or
+derivations.</p>
+<p>
+
+We can also go to the other direction: It is an essential part of
+the method that if a code number is given (many numbers simply do not
+code anything, but it can be decided which ones do), it is also
+possible to decode it in a unique way, that is, to reconstruct the
+unique original expression (or derivation) that it encodes.</p>
+
+<p>
+
+For example, let the G&ouml;del number that has been given be
+18. The prime factorization of it, which is unique (by the
+fundamental theorem of arithmetic; see above), can then be determined.
+It is:</p>
+
+\[
+2^1 \times 3^2
+\]
+
+<p>
+
+Focusing on the powers, we see that this represents the sequence
+\(\langle 1, 2\rangle\), and recalling the relevant symbol
+numbers:</p>
+
+\[\begin{align}
+1  &amp;= \num(\lsq 0\rsq) \\
+2  &amp;= \num(\lsq\,'\,\rsq) 
+\end{align}\]
+<p>
+
+it can be seen that the encoded sequence of symbols is \(\langle 0,
+'\rangle\), that is, the expression that is coded by 18 is
+\(\lsq 0'\rsq\).</p>
+
+
+<h3>3. Defining syntactical properties and operations</h3>
+<p>
+
+It is then possible to develop the key notions of exact syntax in
+the arithmetized form, mimicking their ordinary definitions, though the
+rigorous definitions tend to get a bit complicated. That is, it is
+possible to define, in an arithmetical language, properties such
+as:</p>
+
+<table class="cellpad-small-dense centered cell-rl">
+<tr>
+  <td>\(\textit{Const}(x)\)</td>
+  <td>\(x\) is (a G&ouml;del number of) a constant.</td></tr>
+<tr>
+  <td>\(\textit{Var}(x)\)</td>
+  <td>\(x\) is (a G&ouml;del number of) a variable.</td></tr>
+<tr>
+  <td>\(\textit{Term}(x)\)</td>
+  <td>\(x\) is (a G&ouml;del number of) a term.</td></tr>
+<tr>
+  <td>\(\textit{Form}(x)\)</td>
+  <td>\(x\) is (a G&ouml;del number of) a formula.</td></tr>
+</table>
+
+<p>
+
+The following operations on (the G&ouml;del numbers of) formulas can
+also be easily defined in the language of arithmetic:</p>
+
+<div class="indent">
+\(\textit{neg}(x)\)&nbsp;&nbsp; the arithmetical function that sends
+the G&ouml;del number of a formula to the G&ouml;del number of its
+negation:
+\[
+\textit{neg}(\ulcorner A\urcorner) = (\ulcorner \neg A\urcorner);
+\]
+
+\(\textit{impl}(x, y)\)&nbsp;&nbsp; the function which
+maps the G&ouml;del numbers of a pair of formulas to the G&ouml;del
+number of the implication of the formulas:
+\[
+\textit{impl}(\ulcorner A\urcorner , \ulcorner B\urcorner) = \ulcorner A \rightarrow B\urcorner;
+\]
+</div>
+
+<p>
+Given that \(y\) (\(z\)) is (a G&ouml;del number of) a
+formula, the following syntactic relations can be also defined in
+arithmetic:</p>
+
+<table class="cellpad-small-dense centered cell-rl">
+<tr>
+  <td>\(\textit{Free}(x,y)\)</td>
+  <td>\(x\) is free variable in \(y\).</td></tr>
+<tr>
+  <td>\(\textit{FreeFor}(x,y,z)\)</td>
+  <td>\(x\) is free for \(y\) in \(z\).</td></tr>
+</table>
+
+<p>
+
+The following operation on G&ouml;del numbers plays a particularly
+important role:</p>
+
+<div class="indent">
+\(\textit{subst}(x, y) = z\)&nbsp;&nbsp; the operation which maps the
+pair with the G&ouml;del number of a formula with one free variable
+and the G&ouml;del number of a numeral to the G&ouml;del number of the
+closed formula which results from the original formula when the given
+numeral is substituted for the free variable:
+\[
+\textit{subst}(\ulcorner A(x)\urcorner , \ulcorner \underline{n}\urcorner) = 
+ \ulcorner A(\underline{n})\urcorner
+\]
+</div>
+<p>
+
+Once the background logic, its axioms and rules of inference have
+been fixed, the following can also be defined:</p>
+
+<p class="indent">
+\(\textit{LogAx}(x)\)&nbsp;&nbsp; \(x\) is the G&ouml;del number of a
+logical axiom.
+</p>
+
+<p>
+
+Rules of inference also get expressed in the arithmetized form:</p>
+
+<p>
+
+For example, there is an arithmetical formula \(M(x, y, z)\) which is
+true exactly when one has an application of a standard rule of
+inference &ldquo;Modus Ponens&rdquo; at hand; i.e., for some formulas
+\(A\) and \(B,\)
+\(x = \ulcorner A\urcorner,\)
+\(y = \ulcorner A \rightarrow B\urcorner\) and
+\(z = \ulcorner B\urcorner.\)</p>
+
+<p>
+When the specific formal system \(F\) at stake has been fixed,
+the following properties and relations can also be defined:</p>
+
+<table class="cellpad-small-dense indent cell-rl vert-top">
+<tr>
+  <td>\(\textit{Axiom}_F(x)\)</td>
+  <td>\(x\) is the G&ouml;del number of a non-logical axiom of \(F\).</td></tr>
+
+<tr>
+  <td>\(\textit{Prf}_F(x,y)\)</td>
+  <td>\(x\) is the G&ouml;del number of a derivation (in \(F)\) of the
+formula with the G&ouml;del number \(y\).</td></tr>
+
+<tr>
+  <td>\(\textit{Prov}_F(y)\)</td>
+  <td>\(\exists x \textit{Prf}_F(x, y)\), i.e., the formula (with the
+G&ouml;del number) \(y\) is provable (derivable) in \(F\).</td></tr>
+</table>
+
+<p>
+
+All the above properties and relations, except the last one,
+provability, are decidable and can be, not only defined but, strongly
+represented in any sufficiently strong \(F\).</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="https://www.tuni.fi/en/panu-raatikainen" target="other">Panu Raatikainen</a>
+&lt;<a href="m&#97;ilto:panu&#37;2eraatikainen&#37;40tuni&#37;2efi"><em>panu<abbr title=" dot ">&#46;</abbr>raatikainen<abbr title=" at ">&#64;</abbr>tuni<abbr title=" dot ">&#46;</abbr>fi</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

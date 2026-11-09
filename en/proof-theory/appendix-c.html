@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Proof Theory &gt; C. Bar Induction, Spector&rsquo;s Result, and the &Omega;-rule (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/proof-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/proof-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Proof Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>C. Bar Induction, Spector&rsquo;s Result, and the &Omega;-rule</h2>
+
+<p>
+Here we discuss the principle of bar induction, Spector&rsquo;s proof
+and a relationship between bar induction and an infinitary proof rule
+devised by Buchholz.</p>
+<!--Entry Contents-->
+
+<ul>
+
+ <li><a href="#C1BarIndu">C.1 Bar induction</a></li>
+ 
+ <li><a href="#C2OutlSpecInte">C.2 An outline of Spector&rsquo;s interpretation</a></li>
+ 
+ <li><a href="#C3BarInduBuchOmegRule">C.3 Bar induction and Buchholz&rsquo; &Omega;-rule</a></li>
+ </ul>
+<!--Entry Contents-->
+
+<hr/>
+
+<h3 id="C1BarIndu">C.1 Bar induction</h3>
+
+<p>
+The Bar Theorem is a theorem about trees. It occupies a prominent
+place in Brouwer&rsquo;s development of intuitionist mathematics and
+has also played a central role in proof theory in the 1960s and 1970s.
+Here we will give a brief account of it since it is essential to
+Spector&rsquo;s functional interpretation of second order arithmetic.
+Its proof-theoretic analysis provides a nice demonstration of
+Buchholz&rsquo; &Omega;-rule.</p>
+
+<div class="indent" id="BID">
+
+<p>
+<span class="bold">Definition C.1</span> Let \(\bbN^*\) be the set of
+all finite sequences of natural numbers including the empty sequence
+\(\langle\rangle\). \(\bbN^*\) can be viewed as an infinite tree which
+grows from the root \(\langle\rangle\) upwards. If \(s\in\bbN^*\),
+\(m\in\bbN\) and \(s=\langle s_0,\ldots s_k\rangle\) then the
+immediate successor nodes or children of <i>s</i> are of the form
+\(s*\langle m\rangle\) defined as \(\langle s_0,\ldots,s_k,m\rangle\).
+<i>t</i> is a node <em>above</em> <i>s</i> if <i>t</i> is of the form
+\(s*\langle k_0\rangle*\ldots*\langle k_r\rangle\). </p>
+
+<p>
+A bar of \(\bbN^*\) is a subclass <i>B</i> of \(\bbN^*\) such that
+every infinite path through \(\bbN^*\) goes through <i>B</i>; in
+Brouwer&rsquo;s terminology, every infinite path is
+&ldquo;barred&rdquo; by <i>B</i>. More formally this is defined as
+follows. For a function \(f:\bbN\to \bbN\) and \(n\in\bbN\),
+\(\bar{f}n\) denotes the sequence \(\langle f(0),\ldots, f(n-1)\rangle
+(\bar{f}0= \langle\rangle)\). A <em>bar</em> <i>B</i> for \(\bbN^*\)
+is a subclass of \(\bbN^*\) such that for all \(f:\bbN\to\bbN\) there
+exists \(n\in\bbN\) such that \(\bar fn\in B\).</p>
+
+<p>
+Bar induction is the following principle: </p> 
+
+\[
+\tag*{\(\BI_{\igen}\)}  \textrm{Hyp 1}\land \textrm{Hyp 2}\land \textrm{Hyp 3}\land\textrm{Hyp 4} \to Q(\langle \rangle)
+\]
+
+<p>
+where </p>
+
+<div id="hyplist">
+
+\[\begin{align}
+\tag{Hyp 1} &amp; B \textrm{ is a bar}\\
+\tag{Hyp 2} &amp;  \forall s\in \bbN^*\,\forall n\in\bbN\,(s\in B\rightarrow s*\langle n\rangle\in B)\\
+\tag{Hyp 3} &amp;  \forall s\in \bbN^*\,(s\in B\to s\in Q) \\
+\tag{Hyp 4} &amp;\forall s\in\bbN^*\,[(\forall k\in\bbN\;s*\langle k\rangle \in Q)\to s\in Q].
+\end{align}\]
+
+</div>
+
+<p>
+Clause (Hyp 4) asserts that the property of being in <i>Q</i>
+propagates to a node <i>s</i> if all its children belong to <i>Q</i>.
+Since all nodes in the bar belong to <i>Q</i> by (Hyp 3), the
+intuitive idea behind this principle is that the clauses (Hyp
+1&ndash;4) guarantee that membership in <i>Q</i>
+&ldquo;percolates&rdquo; from the bar all the way down to the
+ root.<sup>[<a href="notes.html#note-51" id="ref-51">51</a>]</sup></p>
+ </div>
+
+<p>
+Brouwer&rsquo;s justification for the Bar theorem (1927), that is, of
+the general validity of Bar Induction, rests on the idea that any
+canonical proof of (Hyp 1) in infinitary logic has a particular
+structure which allows one, when supplied with proofs of (Hyp
+2&ndash;4), to transform it into a proof of \(Q(\langle \rangle)\).
+With hindsight, one could say that Brouwer is assuming that a
+canonical proof is something like a cut-free proof in
+\(\omega\)-logic.</p>
+
+<p>
+The notions of
+ <a href="#BID">Definition C.1</a>
+ can be easily formalized in the language of second order arithmetic.
+If one doesn&rsquo;t impose any restrictions on the complexity of the
+bar <i>B</i> and the predicate <i>Q</i> (i.e., allowing them to be
+expressed by any formula of the language), then \(\BI_{\igen}\) is
+surprisingly strong when classical logic is assumed as shown by Howard (1963, section 2.3).</p>
+
+<div class="indent" id="BIgen">
+
+<p>
+<span class="bold">Theorem C.2</span> \(\BI_{\igen}\) implies full
+second order comprehension \({\bCA}\) (actually \(\bAC\)) and is
+conservative over \(\bZ_2\) for \(\Pi^1_4\)
+ sentences.<sup>[<a href="notes.html#note-52" id="ref-52">52</a>]</sup>
+ (Conservativity for \(\Pi^1_4\)
+ sentences is not shown in (Howard, 1963).)</p>
+</div>
+
+<p>
+On the other hand, when the ambient logic is intuitionist,
+\(\BI_{\igen}\) is much weaker than \(\bZ_2\). To obtain an
+intuitionist theory of that strength based on the idea of Bar
+Induction one needs to consider Bar Induction on higher types.</p>
+
+<h3 id="C2OutlSpecInte">C.2 An outline of Spector&rsquo;s interpretation</h3>
+
+<p>
+In his 1960,
+Spector gave a consistency proof of \(\bZ_2\) by means of a functional
+interpretation. To find a class of functionals sufficient unto the
+task of lifting the D-interpretation to \(\bZ_2\), he defined the
+so-called bar recursive functionals. The crucial step in the
+interpretation is to furnish a functional interpretation of the
+negative translation of \(\BI_{\igen}\), which by
+ <a href="#BIgen">Theorem C.2</a>
+ gives rise to an interpretation of \(\bZ_2\). For this he extended
+intuitionist \(\BI_{\igen}\) to all finite types. Bar induction for
+type \(\sigma\), \(\BI_{\sigma}\), is formulated similar to
+\(\BI_{\igen}\), the difference being that instead of just looking at
+the tree of all finite sequences of natural numbers \(\bbN^*\), one
+takes the full tree of finite sequences \(\langle
+F_1,\ldots,F_r\rangle\) of objects \(F_i\) of type \(\sigma\),
+\(\cT_{\sigma}\). A bar of the latter is defined in complete analogy
+to a bar of \(\bbN^*\).</p>
+
+<p>
+Instead of \(\BI_{\sigma}\), Spector&rsquo;s extension of <b>T</b> has
+a scheme, \(\bBR_{\sigma}\) for defining functionals by <em>bar
+recursion</em> on the tree \(\cT_{\sigma}\). The first step is to
+interpret the theory \(\bHA^{\sharp}+\BI_{\sigma}\) in Spector&rsquo;s
+\(\bT+\bBR_{\sigma}\), where \(\bHA^{\sharp}\) is the theory
+\(\bHA^{\omega}\) augmented by the axioms </p> 
+
+\[
+\tag{c1}\label{D} A\leftrightarrow A^D
+\]
+
+<p>
+with \(A^D\) being the G&ouml;del Dialectica interpretation of
+<i>A</i>. A functional interpretation of \(A\leftrightarrow A^D\)
+follows from observing that \((A\leftrightarrow A^D)^D\) is identical
+to \((A\leftrightarrow A)^D\). With this one can see that
+\(\bHA^{\sharp}+\BI_{\sigma}\) has a functional interpretation in
+\(\bT+ \bBR_{\sigma}\).</p>
+
+<p>
+The next step, which furnishes the interpretation of classical
+\(\BI_{\igen}\) (and thereby of full \({\bCA}\)) is to look at the
+negative interpretation of some instances of \(\BI_{\sigma}\) in
+\(\bHA^{\sharp}+\BI_{\sigma}\). The main task is to verify the
+negative interpretation of
+ (<a href="#hyplist">Hyp 1</a>)
+ of special forms of \(\BI_{\sigma}\), </p> 
+
+\[\tag{c2}\label{h1}
+\forall f\exists n\,P(\bar{f}n)
+\]
+
+<p>
+with the predicate \(P(c)\) being of the form \(\exists Z\,B(Z,c)\)
+where \(B(Z,c)\) is quantifier free and <i>c</i> is of type \(\sigma\)
+(see Howard 1968, Lemma 4D). The negative translation of
+\((\ref{h1})\) is </p> 
+
+\[
+\forall f\,\neg\neg\exists n\, P(\bar{f}n)^N\mbox{; i.e., }\forall f\,\neg\neg \exists n\,\neg\neg \exists Z\,B(Z,\bar{f}n)
+\]
+
+<p>
+since \(B(Z,c)\) is quantifier free. The <i>D</i>-translation of the
+latter formula is the same as that of \(\forall f\exists
+n\neg\neg\exists Z\,B(Z,\bar{f}n)\). Note that a generalization of
+Markov&rsquo;s principle is a consequence of (\(\ref{D}\)). As a
+result, \(\forall f\neg\neg\exists n\,P(\bar{f}n)^N\) is equivalent in
+\(\bHA^{\sharp}\) to \(\forall f\exists n\,P(\bar{f}n)^N\), so (Hyp 1)
+has been restored.
+<br />
+Spector was rather cautious not to claim that his theory \(T+\bBR\)
+gives a constructive interpretation of \(\bZ_2\).</p>
+
+<blockquote>
+
+<p>
+The author believes that the bar theorem is itself questionable, and
+that until the bar theorem can be given a suitable foundation, the
+question of whether bar induction is intuitionistic is premature.
+(Spector 1962: 2)</p>
+</blockquote>
+
+<p>
+The question of constructivity of bar recursion was also answered in
+the negative by Kreisel; cf.
+ <a href="index.html#ImprSubsGeneInduDefi">section 5.3</a>.
+ On closer inspection of the proof, one is left with the impression
+that logically complex comprehensions are traded in for inductions on
+highly complex higher type
+ relations.<sup>[<a href="notes.html#note-53" id="ref-53">53</a>]</sup>
+ That notwithstanding, Spector&rsquo;s result is quite remarkable and
+his interpretation has been applied to extract computational
+information from classical proofs (Kohlenbach 2007).</p>
+
+<h3 id="C3BarInduBuchOmegRule">C.3 Bar induction and Buchholz&rsquo; &Omega;-rule</h3>
+
+<p>
+By
+ <a href="#BIgen">Theorem C.2</a>,
+ \(\BI_{\igen}\) with classical logic is very strong. If the
+background logic is assumed to be just intuitionist, then is a lot
+weaker, namely of the same strength as the theory of non-iterated
+inductive definitions \(\bID_1\) (which has the Bachmann-Howard
+ordinal as its proof-theoretic ordinal; see
+ <a href="index.html#InteOrdiReprSystBeyoBach">section 5.3.1</a>).
+ So \(\BI_{\igen}\) is an example of a theory where the law of
+excluded middle makes an enormous difference. A classical theory of
+the same strength as intuitionist \(\BI_{\igen}\) is obtained by
+requiring the bar <i>B</i> to be a set. This theory is usually denoted
+by \(\BI\). An equivalent formalization of \(\BI\) is given by the
+schema of quantifier elimination (see Feferman 1970b): </p> <!-- was (14) -->
+
+\[
+\tag{\(\forall^2\textrm{-E}\)} 
+\forall X\,A(X) \to A(F)
+\]
+
+<p>
+for any arithmetical formula \(A(X)\) and arbitrary \(\cL_2\)-formula
+\(F(u)\), where \(A(F)\) arises from \(A(X)\) by replacing all
+occurrences of the form \(t\in X\) in the formula by \(F(t)\).</p>
+
+<p>
+Ever since the great successes with the \(\omega\)-rule, which
+restored cut elimination in arithmetic, proof theorists were looking
+for stronger forms of infinitary proof rules that could bring about
+cut elimination for genuinely impredicative theories. Buchholz was the
+first who succeeded in finding such a rule. He introduced the
+&Omega;-rule in Buchholz 1977a, and extended versions of it are the central tool in
+Buchholz and Sch&uuml;tte 1988. A sequent calculus version of it was
+used in Rathjen and Weiermann 1993 to give a proof-theoretic bound
+on Kruskal&rsquo;s theorem and this is the version we will briefly
+discuss. According to the intuitionist interpretation of an
+implication (called the Brouwer-Heyting-Kolmogorov (BHK)
+interpretation) the truth of an implication \(C\to D\) is explained in
+terms of a construction that transforms any proof of <i>C</i> into a
+proof of <i>D</i>. This idea may serve as a first approach to the
+&Omega;-rule:</p>
+
+<ul class="sentag tag3em">
+
+<li><span class="tag">\((\tilde{\Omega})\)</span><span class="sen">If
+for every cut free
+ proof<sup>[<a href="notes.html#note-54" id="ref-54">54</a>]</sup>
+ \(\cD\) of \(\forall X A(X)\) we have
+\(\cT(\cD)\vdash\Theta\Rightarrow \Xi\), then \(\cT\) is considered to
+be a proof of \(\Theta,\forall XF(X)\Rightarrow \Xi\).</span></li>
+</ul>
+
+<p>
+Since any cut free proof of \(\forall XA(X)\) can be transformed into
+a proof of \(A(F)\), just by the operation \(\cT\) of substituting
+\(F(t)\) for \(t\in X\) in \(A(X)\), this rule allows one to prove
+\((\forall^2\mbox{-E})\). However, \((\tilde{\Omega})\) is just too
+naive an approach since this rule does not behave well with respect to
+cut elimination, particularly since side formulae (assumptions) are
+not taken into account. So the actual &Omega;-rule takes a rather
+more involved form:</p>
+
+<div class="indent avoid-break" id="BO">
+
+<p>
+<span class="bold">Definition C.3</span></p>
+
+<ul class="sentag tag2em">
+
+<li><span class="tag">\((\Omega)\)</span><span class="sen">If for all
+finite sets of \(\Sigma^1_1\)-formulae \(\Gamma\) and
+\(\Pi^1_1\)-formulae \(\Delta\), every cut free proof \(\cD\) of
+
+\[\Gamma\Rightarrow \Delta,  \forall X A(X)\]
+
+ can be transformed into a proof \(\cT(\cD)\) of
+\(\Gamma,\Theta\Rightarrow \Delta,\Xi\), then \(\cT\) is considered to
+be a proof of \(\Theta,\forall XF(X)\Rightarrow \Xi\).</span></li>
+</ul>
+</div>
+
+<p>
+With the help of the &Omega;-rule one obtains an ordinal analysis
+of (<strong>BI</strong>.); see Buchholz and Sch&uuml;tte 1988 and
+Rathjen and Weiermann 1993. In view of Brouwer&rsquo;s speculative
+justification of bar induction, it is perhaps gratifying to see that a
+proof-theoretic analysis of (<strong>BI</strong>) can be obtained via
+a rule that embodies transformations on infinite canonical proof
+trees.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="https://eps.leeds.ac.uk/maths/staff/4073/professor-michael-rathjen" target="other">Michael Rathjen</a>
+&lt;<a href="m&#97;ilto:rathjen&#37;40maths&#37;2eleeds&#37;2eac&#37;2euk"><em>rathjen<abbr title=" at ">&#64;</abbr>maths<abbr title=" dot ">&#46;</abbr>leeds<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+Wilfried Sieg
+&lt;<a href="m&#97;ilto:sieg&#37;40cmu&#37;2eedu"><em>sieg<abbr title=" at ">&#64;</abbr>cmu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

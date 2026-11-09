@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Dynamic Epistemic Logic &gt; Appendix G: More on action models and the Logic of Epistemic Actions (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/dynamic-epistemic/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/dynamic-epistemic/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dynamic-epistemic">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Dynamic Epistemic Logic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Appendix G: More on action models and the Logic of Epistemic Actions</h2>
+
+<p> In this Appendix, we examine three key topics in the Logic of Epistemic Actions: a notion of action model equivalence known as <em>action emulation</em>, how to extend action models so as to allow &ldquo;factual change&rdquo; via valuation-changing substitutions, and how to add common knowledge to the Logic of Epistemic Actions.  </p>
+
+<ul>
+<li><a href="#AE">1. Action emulation</a></li>
+<li><a href="#factual">2. Incorporating factual change</a></li>
+<li><a href="#CK">3. Adding common knowledge</a></li>
+</ul>
+
+<hr />
+
+<h3 id="AE">1. Action emulation</h3>
+
+<p> Two different pointed Kripke models can satisfy exactly the same (ML)-formulas, making them <em>semantically equivalent</em>.  This lead to the study of a notion of <em>structural equivalence</em> for pointed Kripke models that would hold if and only if semantic equivalence holds as well, thereby allowing us to determine if two pointed Kripke models are semantically equivalent by examining only their structure.  An often-used notion of structural equivalence is <em>bisimulation</em> </p>
+
+<div class="indent">
+
+<p><strong>Bisimulation.</strong> A <em>bisimulation</em> between Kripke models \(M_1=(W_1,R_1,V_1)\) and \(M_2=(W_2,R_2,V_2)\) is a nonempty binary relation \(Z\subseteq W_1\times W_2\) between \(W_1\) and \(W_2\) satisfying the following properties:</p>
+
+<ul>
+
+<li> Propositional Identity: \(xZy\) implies \(x\in V_1(p)\) if and only if \(y\in V_2(p)\) for each letter \(p\in\sP\); </li>
+
+<li> Back: if \(xZy\) and \(y(R_2)_ay'\), then there exists \(x'\in W_1\) such that \(x(R_1)_ax'\) and \(x'Zy'\); and </li>
+
+<li> Forth: if \(xZy\) and \(x(R_1)_ax'\), then there exists \(y'\in W_2\) such that \(y(R_2)_ay'\) and \(x'Zy'\).  </li>
+
+</ul>
+
+<p>To say that the pointed Kripke models \((M_1,w_1)\) and \((M_2,w_2)\) are <em>bisimilar</em>, written \((M_1,w_1)\bisim(M_2,w_2)\), means there exists a bisimulation <i>Z</i> between \(M_1\) and \(M_2\) satisfying \(w_1 Zw_2\).  To say \(M_1\) and \(M_2\) are <em>bisimilar</em>, written \(M_1\bisim M_2\), means there exists a bisimulation <i>Z</i> between \(M_1\) and \(M_2\) that is <em>total</em>: every \(x\in W_1\) has a \(y\in W_2\) such that \(xZy\), and every \(y\in W_2\) has an \(x\in W_1\) such that \(xZy\).</p> </div>
+
+<div class="indent">
+
+<p><strong>Bisimulation Theorem (see, e.g., Blackburn, de Rijke, and Venema  2002).</strong>
+
+Let \((M_1,w_1)\) and \((M_2,w_2)\) be pointed Kripke models.  We write \((M_1,w_1)\equiv(M_2,w_2)\) to indicate that these pointed Kripke models are (ML)-<em>semantically equivalent</em>, meaning we have \(M_1,w_1\models F\) if and only if \(M_2,w_2\models F\) for each (ML)-formula <i>F</i>.</p>
+
+<ul>
+<li>
+Bisimulation implies (ML)-semantic equivalence:
+
+\[
+(M_1,w_1)\bisim(M_2,w_2) \text{ implies }
+(M_1,w_1)\equiv(M_2,w_2).
+\]
+</li>
+
+
+<li>(ML)-semantic equivalence of image finite models implies bisimulation: if \(M_1\) and \(M_2\) are <em>image finite</em>, meaning each world in the model has at most finitely many outgoing \(R_a\)-arrows for each agent \(a\in\sA\), then
+
+\[
+(M_1,w_1)\equiv(M_2,w_2) \text{ implies }
+(M_1,w_1)\bisim(M_2,w_2).
+\]
+</li>
+</ul>
+</div>
+
+<p> Notice that the Bisimulation Theorem does not give us an exact correspondence between bisimulation and (ML)-semantic equivalence: the second item of the theorem requires the models be image finite.  A more complicated version of the Bisimulation Theorem makes it possible to avoid the issue of image finiteness; see Blackburn et al. (2002) for details.  </p>
+
+<p> Similar to the way in which different pointed Kripke models can be (ML)-semantically equivalent, different actions \((A_1,e_1)\) and \((A_2,e_2)\) can also be &ldquo;equivalent&rdquo;. Following van Eijck, Ruan, and  Sadzik (2012), action equivalence is defined in terms of bisimulation: to say that two actions are &ldquo;equivalent&rdquo; means that the actions can be executed in the same situations and, furthermore, whenever the actions are both executable, they yield bisimilar (and hence (ML)-indistinguishable) results.  </p>
+
+<div class="indent">
+<strong>Equivalence of action models (van Eijck, Ruan, and Sadzik 2012).</strong>  
+
+To say that action models \(A_1\) and \(A_2\) are <em>equivalent</em>,
+written \(A_1\equiv A_2\), means that
+
+<ul> <li> \(A_1\) and \(A_2\) are executable in the same Kripke models; and </li>
+
+<li> if \(A_1\) and \(A_2\) are both executable in the Kripke model <i>M</i>, then \(M[A_1]\bisim M[A_2]\).  </li> </ul>
+
+To say that the actions \((A_1,e_1)\) and \((A_2,e_2)\)
+are <em>equivalent</em>, written \((A_1,e_1)\equiv(A_2,e_2)\), means
+that the underlying action models \(A_1\) and \(A_2\) are equivalent
+(i.e., \(A_1\equiv A_2\)).
+</div>
+
+<p> <a href="#FigG1">Figure G1</a> provides an example of equivalent actions.  Examining this figure, it is clear that \(A_1\) and \(A_2\) are executable in the same situations: each is executable in situations satisfying <i>p</i> and in situations satisfying \(\lnot p\).  Further, these two action models produce bisimilar results: events \(e_1\) and \(f_1\) execute in the same situations and events \(f_2\) and \(f_3\) effectively &ldquo;simulate&rdquo; the always-executable event \(e_2\). This &ldquo;simulation&rdquo; works as follows: any situation at which \(e_2\) is executable satisfies either <i>p</i> or \(\lnot p\) and so may be matched up with one of \(f_2\) or \(f_3\).  Since all events are interconnected in both action models, the connections between \(e_2\)-produced worlds match up with the connections between the corresponding \(f_2\)- or \(f_3\)-produced worlds in a way that ensures bisimilar results.  For example, for a sequence of three worlds <i>w</i>, <i>x</i>, <i>y</i>, <i>z</i> connected in order using \(R_a\)-arrows and respectively satisfying <i>p</i>, <i>p</i>, \(\lnot p\), and <i>p</i> in the original model: </p>
+
+<ul> <li> the \(A_1\)-produced \((w,e_1)\), \((x,e_2)\), \((y,e_2)\), and \((z,e_1)\) are connected in order using \(R_a\)-arrows; and </li>
+
+<li> the \(A_2\)-produced final model will have the worlds \((w,f_1)\), \((x,f_2)\), \((y,f_3)\), and \((z,f_2)\) are connected in order using \(R_a\)-arrows.  </li> </ul>
+
+<p> Sietsma and van Eijck (2012) provide a full proof that these actions are equivalent.  </p>
+
+<div class="figure"  id="FigG1">
+
+<div>
+
+
+<div style="width:49%; display:inline-block; vertical-align: middle">
+<img style="max-width: 100%" src="figure-emulation-A1.jpg" alt="" />
+
+<div class="center">  \(A_1\)</div>
+
+  </div>
+
+<div style="width:49%; display:inline-block; vertical-align: middle">
+<img style="max-width:100%" src="figure-emulation-A2.jpg" alt="" />
+
+<div class="center"> \(A_2\)</div>
+</div>
+
+</div>
+
+<p><span class="figlabel">Figure G1.</span> The actions \((A_1,e_1)\) and \((A_2,f_2)\) are equivalent (van Eijck, Ruan, and Sadzik 2012; Sietsma and van Eijck 2012).</p>
+
+</div>
+
+<p> It is possible to define a notion of bisimulation for actions, but it turns out that there are equivalent actions that are not bisimilar (van Eijck, Ruan, and Sadzik 2012; Sietsma and van Eijck 2012).  This led to the search for a structural relationship between actions that hold if and only if the actions are equivalent.  A notion of <em>parameterized action emulation</em> was proposed by van Eijck, Ruan, and Sadzik (2012), and a variant called <em>action emulation</em> was later proposed by Sietsma and van Eijck (2012).  To introduce these, we first need the following preliminary definitions.  </p>
+
+<div class="indent">
+<strong>Single negation, closure, atoms, and
+<font face="Arial, Helvetica, sans-serif">pre</font>(<i>A</i>)
+(Sietsma and van Eijck 2012).</strong>
+
+Let <i>S</i> be a set of (ML)-formulas.
+<ul class="jfy">
+
+<li> The <em>single negation</em> of an (ML)-formula <i>F</i>, written \({\sim} F\), is defined as follows: if <i>F</i> has the form \(\lnot G\), then \({\sim} F\) is <i>G</i>; otherwise, \({\sim} F\) is \(\lnot F\).  The <em>single negation</em> of the set <i>S</i>, written \({\sim} S\), is the set consisting of the single negation of every formula in <i>S</i>.
+
+</li>
+
+
+<li>The <em>closure</em> of <i>S</i> is the smallest set \(\Cl(S)\) that contains <i>S</i> and is closed under subformulas (i.e., \(F\in \Cl(S)\) and <i>G</i> a subformula of <i>F</i> together imply \(G\in \Cl(S)\)) and closed under single negations (i.e., \({\sim}\Cl(S)=\Cl(S)\)).
+
+</li>
+
+
+<li>An <em>atom</em> over <i>S</i> is a maximal consistent subset of \(\Cl(S)\): a subset <i>T</i> of \(\Cl(S)\) that is <em>consistent</em> (i.e., \(\not\models\lnot\bigwedge T\)) and that satisfies the property that adding any formula in \(\Cl(S)\) that is not already present will result in a set that is \(inconsistent\) (i.e., not consistent). We let \(\At(S)\) denote the set of atoms over <i>S</i>.
+
+</li>
+
+
+<li>For each action model <i>A</i>, define the set \(\pre(A)\coloneqq\{\pre(e)\mid e\in E^A\}\) of preconditions in <i>A</i>.
+
+</li>
+
+
+<li>A <em>multi-pointed action model</em> is a pair \((A,Z)\) consisting of an action model \(A=(E,A,\pre)\).  and a set \(Z\subseteq E\) of events in <i>A</i> called the <em>multi-point</em>.  We let
+
+\[
+[A,Z]F
+\quad\text{abbreviate}\quad
+\textstyle\bigwedge_{e\in Z}[A,e]F,
+\]
+
+so that a multi-pointed action model modality acts as a conjunction over all events in the multi-point.  Note that the conjunction is equal to \(\top\) if the multi-point <i>Z</i> is empty.  Multi-pointed action models will sometimes be called <em>multi-actions</em>.  If we write a pointed action model \((A,e)\) where a multi-pointed action model is expected, then what is meant is the multi-action \((A,\{e\})\).  In this way, actions may be identified with multi-actions.
+
+</li>
+</ul>
+</div>
+
+<p> The single negation of a formula strips any outermost negation that is present or, if none is present, adds one.  The single negation of a set just performs the single negation of each formula in the set.  The closure of a set expands the set by repeatedly adding subformulas and performing single negations on the formulas present until no further expansion is possible.  In essence, the closure if a set of formulas is the collection of all formulas that are &ldquo;relevant&rdquo; when it comes to determining whether a formula in the set is true at a pointed Kripke model.  An atom over a set of formulas is a subset whose formulas can all be made true at a pointed Kripke model and, further, any larger subset would violate this property (see, e.g., Blackburn, de Rijke, and Venema 2002).  In effect, choosing an atom of a set <i>S</i> is the same as choosing a pointed Kripke model that makes true the formulas in the atom and makes false the other formulas in <i>S</i> that are not in the atom.  By choosing the set \(S=\pre(A_1)\cup\pre(A_2)\) to be the collection of all precondition formulas in either the action model \(A_1\) or the action model \(A_2\), an atom \(\sigma\in\At(S)\) over <i>S</i> identifies a maximal collection of preconditions in these action models that can simultaneously be made true: these are just the actions <i>e</i> having \(\pre(e)\in\sigma\).  These ideas lead to the following notion of structural equivalence between action models.  </p>
+
+<div class="indent">
+
+  <p><strong>Parameterized action emulation (adapted from van Eijck, Ruan, and Sadzik 2012).</strong>
+
+Let \(A_1=(E_1,R_1,\pre_1)\) and \(A_2=(E_2,R_2,\pre_2)\) be action models and let \(S=\pre(A_1)\cup\pre(A_2)\) be the set of preconditions for all events in either of \(A_1\) or \(A_2\). For each \(i\in\{1,2\}\) and event \(e\in E_i\), define
+
+\[
+\Sigma_i(e)\coloneqq\{\sigma\in\At(S)\mid\pre_i(e)\in\sigma\}
+\]
+
+to be the set of atoms satisfying the precondition of <i>e</i>.  A <em>parameterized action emulation</em> between \(A_1\) and \(A_2\) is a set of indexed binary relations \(\{E_\sigma\}_{\sigma\in\At(S)}\) between \(E_1\) and \(E_2\) (i.e., \(E_\sigma\subseteq E_1\times E_2\) for each \(\sigma\in\At(S)\)) satisfying the property that \(xE_\sigma y\) implies the following:</p>
+
+<ul>
+
+<li>Invariance: \(\pre(x)\in\sigma\) and \(\pre(y)\in\sigma\);
+
+</li>
+
+
+<li>Back: if we have that \(y (R_2)_a y'\), that \(\sigma\in\Sigma_2(y')\) and that \(\bigwedge\sigma\land\langle a\rangle\bigwedge\sigma'\) is consistent, then there exists \(x'\in E_1\) such that \(x(R_1)_a x'\) and \(x'E_{\sigma'}y'\); and
+
+</li>
+
+
+<li>Forth: if we have that \(x (R_1)_a x'\), that \(\sigma\in\Sigma_2(x')\) and that \(\bigwedge\sigma\land\langle a\rangle\bigwedge\sigma'\) is consistent, then there exists \(y'\in E_2\) such that \(y(R_1)_a y'\) and \(x'E_{\sigma'}y'\).
+
+</li>
+</ul>
+
+<p>For multi-actions \((A_1,Z_1)\) and \((A_2,Z_2)\), we write \((A_1,Z_1)\rightleftarrows_p(A_2,Z_2)\) to mean that there is a parameterized action emulation \(\{E_\sigma\}_{\sigma\in\At(S)}\) between \(A_1\) and \(A_2\) satisfying the following:</p>
+
+<ul> <li> for each \(x\in Z_1\) and \(\sigma\in\Sigma_1(x)\), there exists \(y\in Z_2\) such that \(xE_\sigma y\); and </li>
+
+<li> for each \(y\in Z_2\) and \(\sigma\in\Sigma_2(x)\), there exists \(x\in Z_1\) such that \(xE_\sigma y\).  </li> </ul> </div>
+
+<p> Intuitively, an emulation between actions links events <i>e</i> and <i>f</i> via \(eE_\sigma f\) only if the preconditions of these events can be made simultaneously true in a situation that makes true all formulas in the atom \(\sigma\).  Further, this linkage his bisimulation-like Back and Forth properties that respect consistency of the linking atoms: a link made between events via \(E_\sigma\) gives rise to another link made between events via \(E_\sigma\) only if it is consistent for a situation satisfying the formulas in \(\sigma\) to lead via an <i>a</i>-arrow to a situation satisfying the formulas in \(\sigma'\) (i.e., \(\bigwedge\sigma\land\langle a\rangle\bigwedge\sigma'\) is consistent).  In this way, the Back and Forth conditions come with built-in guarantees of consistency, and this is leveraged in proving the following result.  </p>
+
+<div class="indent">
+<p>
+<strong>Parameterized Action Emulation Theorem (van Eijck, Ruan, and Sadzik 2012).</strong>
+
+For multi-actions \((A_1,Z_1)\) and \((A_2,Z_2)\), we have </p>
+
+\[
+(A_1,Z_1)\leftrightarrows_p(A_2,Z_2) \text{ if and only if } A_1\equiv A_2.
+\]
+
+</div>
+
+<p> This gives a direct correspondence between a parameterized structural relationship over actions and the semantic notion of action equivalence.  However, the parameterization makes this notion complex.  A simpler, non-parameterized structural relationship that gets close to providing a similar direct correspondence was recently proposed by Sietsma and van Eijck (2012).  This relationship and the related results are formulated in terms of <em>multi-pointed action models</em>.  </p>
+
+<div class="indent">
+<p><strong>Action emulation (adapted from Sietsma and van Eijck 2012).</strong>
+
+Let \(A_1=(E_1,R_1,\pre_1)\) and \(A_2=(E_2,R_2,\pre_2)\) be action models.  An <em>action emulation</em> between \(A_1\) and \(A_2\) is a binary relation \(E\subseteq E_1\times E_2\) satisfying the property that \(xEy\) implies:</p>
+
+<ul>
+
+<li>Consistency: \(\pre_1(x)\land\pre_2(y)\) is consistent;
+
+</li>
+
+
+<li>Back: \(y(R_2)_ay'\) implies there exists \(X'\subseteq E_1\) such that \(x(R_1)_a x'\) and \(x' E_ay'\) for each \(x'\in X'\) and
+
+\[
+\models (\pre_1(x)\land\pre_2(y))
+\to [a](\pre_2(y')\to\bigvee_{x'\in X'}\pre_1(x'));
+\]
+
+</li>
+
+
+<li>Forth: \(x(R_1)_ax'\) implies there exists \(Y'\subseteq E_2\) such that \(y(R_1)_a y'\) and \(x' E_ay'\) for each \(y'\in Y'\) and
+
+\[
+\models (\pre_1(x)\land\pre_2(y))
+\to [a](\pre_2(x')\to\bigvee_{y'\in Y'}\pre_1(y')).
+\]
+
+</li>
+</ul>
+
+<p>For multi-actions \((A_1,Z_1)\) and \((A_2,Z_2)\), we write \((A_1,Z_1)\leftrightarrows(A_2,Z_2)\) to mean that there is an action emulation <i>E</i> between \(A_1\) and \(A_2\) satisfying the following:</p>
+
+<ul>
+
+<li>every \(x\in Z_1\) gives rise to a \(Y\subseteq Z_2\) such that \(xEy\) for each \(y\in Y\) and
+
+\[
+\textstyle
+\models\pre_1(x)\to\bigvee_{y\in Y}\pre_2(y);
+\]
+
+</li>
+
+
+<li>every \(y\in Z_2\) gives rise to a \(X\subseteq Z_1\) such that \(xEy\) for each \(x\in X\) and
+
+\[
+\textstyle
+\models\pre_1(y)\to\bigvee_{x\in X}\pre_2(X).
+\]
+
+</li>
+</ul>
+</div>
+
+<p> An action emulation connects events only if their preconditions are consistent.  Further, for events <i>e</i> and <i>f</i> linked via \(eEf\), an event reachable from one of <i>e</i> and <i>f</i> via <i>a</i>-arrows is linked up with a set of events reachable from the other via <i>a</i>-arrows in such a way that the preconditions of <i>e</i> and <i>f</i> together imply that <i>a</i>-accessible worlds must satisfy a precondition from an event in the set whenever the precondition from the <i>a</i>-accessible event is satisfied.  As it turns out, this is just what is needed to show that emulation implies equivalence.  The converse (i.e., the statement that equivalence implies emulation) is an open question.  However, a weaker version of the converse has been proved.  This version makes use of the following result.  </p>
+
+<div class="indent">
+<p><strong>Canonical Action Model Theorem (Sietsma and van Eijck 2012).</strong>
+
+Let <i>S</i> be a finite set of (ML)-formulas and \(A=(E,R,\pre)\) be an action model.  To say that <i>A</i> is \(canonical\) over <i>S</i> means that:</p>
+
+<ul>
+
+<li>for each \(e\in E\), there is an atom \(\sigma\in\At(S)\) over <i>S</i> such that \(\pre(e)=\bigwedge\sigma\), and
+
+</li>
+
+
+<li>\(e R_a e'\) implies \(\pre(e)\land\langle a\rangle\pre(e')\) is consistent.
+
+</li>
+</ul>
+
+<p>To say that an action or multi-action is <em>canonical</em> means that the action model underlying (i.e., the first element of the pair making up) the action or multi-action is canonical.  The multi-action \((A,\{e\})\) is equivalent to the multi-action \((A^c,e^c)\), where the canonical action model \(A^c\coloneqq(E^c,R^c,\pre^c)\) over \(\pre(A)\) and the event \(e^c\in E^c\) are defined as follows:</p>
+
+<ul>
+
+<li>\(E^c\coloneqq\{(x,\sigma)\in E\times\At(\pre(A))\mid \pre(x)\in\sigma\}\),
+
+</li>
+
+
+<li>\((x,\sigma)R^c_a(x',\sigma')\) if and only if \(xR_ax'\) and \(\bigwedge\sigma\land\langle a\rangle\bigwedge\sigma'\) is consistent,
+
+</li>
+
+
+<li>\(\pre^c((x,\sigma))\coloneqq\bigwedge\sigma\), and
+
+</li>
+
+
+<li>\(e^c\coloneqq\{(x,\sigma\in E^c\mid x=e\}\).  </li> </ul> </div>
+
+<p> An action model that is canonical over a set <i>S</i> of formulas is an action model whose preconditions are conjunctions of atoms over <i>S</i>.  Therefore, each precondition describes a situation in which the formulas in the corresponding atom over <i>S</i> are all true and the other formulas in <i>S</i> are all false.  This gives important information that is exploited in proof of the following result.  </p>
+
+<div class="indent">
+<p><strong>Action Emulation Theorem (Sietsma and van Eijck 2012).</strong>
+
+Let \((A_1,Z_1)\) and \((A_2,Z_2)\) be multi-actions.  </p>
+
+<ul> <li> Emulation implies equivalence:
+
+\[
+(A_1,Z_1)\leftrightarrows(A_2,Z_2)
+\quad\text{implies}\quad
+A_1\equiv A_2;
+\]
+
+</li>
+
+<li> Equivalence between canonical action models implies emulation of multi-actions: if \(A_1\) is canonical over \(S_1\) and \(A_2\) is canonical over \(S_2\), then
+
+\[
+A_1\equiv A_2
+\quad\text{implies}\quad
+(A_1,Z_1)\leftrightarrows(A_2,Z_2).
+\]
+
+</li>
+</ul>
+</div>
+
+<p> Non-parameterized action emulation provides a procedure for determining whether two actions \((A_1,e_1)\) and \((A_2,e_2)\) are equivalent: construct the equivalent canonical multi-actions \((A_1^c,e_1^c)\) and \((A_2^c,e_2^c)\) and determine whether
+
+\[
+(A_1^c,e_1^c)\leftrightarrows(A_2^c,e_a^c).
+\]
+
+Since \(A_1^c\) and \(A_2^c\) are both finite and computable from \(A_1\) and \(A_2\), it follows that the overall procedure is computable as well.  </p>
+
+<p> It is an open question whether the canonicity condition can be dropped in the second part of the Action Emulation Theorem.  If this condition cannot be dropped, then it is possible that there may be a variant of the above-defined notion of non-parameterized action emulation that would correspond directly with action equivalence (as in the Parameterized Action Emulation Theorem except without the parameterization).  </p>
+
+<h3 id="factual">2. Incorporating factual change</h3>
+
+<p> As a consequence of the (EAL) semantics presented in the main article, an executable action \((A,e)\) transforms an initial world <i>w</i> into a resultant world \((w,e)\) in a manner that preserves the valuation.  That is, a propositional letter <i>p</i> is true at the resultant world \((w,e)\) if and only if <i>p</i> was true at the initial world <i>w</i>.  By the soundness of the axiomatic system \(\EAL\), the preservation of propositional valuation must be reflected in the axiomatics as well.  And indeed, this is so: the \(\EAL\) reduction axiom for propositional letters 
+
+\[
+[A,e]p\leftrightarrow(\pre(e)\to p)
+\text{ for letters } p\in\sP
+\]
+
+ implies the scheme 
+
+\[
+\pre(e)\to([A,e]p\leftrightarrow p)
+\text{ for letters }p\in\sP,
+\]
+
+ which says that whenever \((A,e)\) is executable, <i>p</i> is true after the occurrence of \((A,e)\) if and only if <i>p</i> was true before the occurrence.  Since this is true of all propositional letters, it follows that all actions are valuation-preserving.  Thinking of propositional letters as the &ldquo;basic facts&rdquo; of the situations that we reason about using \(\EAL\), the preservation of valuations is sometimes described as &ldquo;preserving (basic) facts&rdquo; or as &ldquo;leaving (basic) facts unchanged&rdquo;. </p>
+
+<p> Sometimes we want to reason about fact-changing actions.  For example, if we use the letter <i>q</i> to represent the statement that &ldquo;the light is on&rdquo; and this is true in an initial world <i>w</i>, then the action of &ldquo;flipping the light switch&rdquo; should bring about a resultant world \((w,e)\) in which <i>q</i> is false.  That is, the valuation should change: the basic fact <i>q</i> goes from being true in <i>w</i> to being false in \((w,e)\).  </p>
+
+<p> Incorporating factual change into the theory of action models requires two modifications: one syntactical-semantical and one axiomatic.  For the syntactical-semantical modification, we add an extra component to action models that allows us to specify changes in the valuation of various letters.  </p>
+
+<div class="indent" id="Actm-Sub">
+<p><strong>Action model with substitution (van Benthem, van Eijck, and Kooi 2006).</strong>
+
+Given a set of formulas \(\Lang\) and a finite nonempty set \(\sA\) of agents, an <em>action model with substitution</em> is a structure \(A=(E,R,\pre,\sub)\) satisfying the following:</p>
+
+<ul>
+
+<li>\((E,R,\pre)\) is an action model (as defined before); and
+
+</li>
+
+
+<li>\(\sub:(E\times\sP)\to\Lang\) is a <em>(finite) substitution</em>: a function mapping each event-letter pair \((e,p)\in E\times\sP\) to an \(\Lang\)-formula \(\sub(e,p)\) subject to the restriction that \(\sub(e,p)=p\) for all but finitely many pairs (\(e,p)\in E\times\sP\).  </li> </ul> </div>
+
+<p> We then define the language \eqref{EAL+S} of Epistemic Action Logic with substitution along with the set \(\AMS_*\) of pointed action models with substitution having preconditions in the language \eqref{EAL+S} much as we did for (EAL) and \(\AM_*\) but with a slightly different recursive grammar (in which pointed action models come from \(\AMS_*\) instead of from \(\AM_*\)): </p>
+
+\[\begin{gather*}\taglabel{EAL+S}
+F  \ccoloneqq p \mid F\land F\mid \lnot F \mid [a]F \mid [A,e]F \\
+\small p\in\sP,\; a\in\sA,\; (A,e)\in\AMS_*
+\end{gather*}\]
+
+<p> A substitution \(\sub\) specifies substitutions for propositional letters: to have \(\sub(e,p)=F\) means that we are to reassign the truth value of <i>p</i> so that it is like <i>F</i> as per the occurrence of event <i>e</i>.  That is, at any world <i>w</i> at which <i>e</i> can occur (i.e., at which the precondition \(\pre(e)\) holds), the execution of <i>e</i> yields a world \((w,e)\) at which <i>p</i> is true if and only if <i>F</i> was true before in <i>w</i>.  As a result, <i>p</i> is essentially replaced with <i>F</i> during the occurrence of the event.  Formally, this works as follows: </p>
+
+<ul id="Actm-Sub-Semantics">
+
+<li>\(M,w\models[A,e]G\) holds if and only if \(M,w\not\models\pre(e)\) or \(M[A],(w,e)\models G\), where the model
+
+\[
+M[A]=(W[A],R[A],V[A])
+\]
+
+is the result of the <em>product update (with substitution)</em> \(M\mapsto M[A]\) defined by:
+
+<ul>
+
+<li>\(W[A]\coloneqq\{(v,g)\in W\times E \mid M,v\models\pre(g)\}\) &mdash; pair worlds with events whose preconditions they satisfy,
+
+</li>
+
+
+<li>\((w_1,e_1)R[A]_a(w_2,e_2)\) if and only if there is an <i>a</i>-arrow from \(w_1\) to \(w_2\) in <i>M</i> and an <i>a</i>-arrow from \(e_1\) to \(e_2\) in <i>A</i>, and
+
+</li>
+
+
+<li>\((v,g)\in V[A](p)\) if and only if \(M,v\models\sub(g,p)\) &mdash; make the truth of <i>p</i> at \((v,g)\) like that of the formula \(\sub(g,p)\) at <i>v</i>.
+
+</li>
+</ul>
+</li>
+</ul>
+
+<p> So if \(\sub(e,p)=F\), then the letter <i>p</i> is true after the occurrence of <i>e</i> if and only if <i>F</i> was true before the occurrence of <i>e</i>.  Therefore, \(\sub(e,p)=p\) implies that the valuation of <i>p</i> is left unchanged, which is how the semantics worked before we introduced substitutions.  Our assumption that we have \(\sub(e,p)=p\) for all but finitely many pairs \((e,p)\) ensures that the valuation changes for at most finitely many letters.  The reason for this restriction is that we want action models to be finite objects: it should be possible in principle to write down a sequence of symbols (or draw a picture) that completely specifies any given action model in our language.  </p>
+
+<p> The axiomatic theory \(\EALS\) of Epistemic Action Logic with substitutions is identical to the theory <a href="index.html#EAL">\(\EAL\)</a> except that the reduction axiom for propositional letters is changed to the following: </p>
+
+<ol>
+
+<li>\([A,e]p \leftrightarrow (\pre(e)\to \sub(e,p))\) for letters \(p\in\sP\) <br /> &ldquo;After a non-executable action, every letter holds&mdash;a contradiction.  After an executable action, the substitution sets truth values.&rdquo;
+
+</li>
+</ol>
+
+<p> An example utilizing an action model with substitution is given in Figure G2, where the action \(\mathsf{Flip}(q)\) implements our light-switch action: the occurrence of this action toggles the truth value of <i>q</i> between &ldquo;on&rdquo; (i.e., true) and &ldquo;off&rdquo; (i.e., false) in a manner that is common knowledge to all.  </p>
+
+<div class="figure"  id="FigG2">
+
+  <div style="width:110%">
+<div style="width:19%; display:inline-block; vertical-align: top">
+<img style="max-width: 100%; height: auto;" src="figure-flip1-crop.jpg" alt="" />
+
+<div class="center">
+\(\small M\) 
+</div>
+</div>
+
+<div style="width:19%; display:inline-block; vertical-align: top">
+<img style="max-width: 100%; height: auto;" src="figure-fliparrow-crop.jpg" alt="" />
+</div>
+
+<div style="width:19%; display:inline-block; vertical-align: top">
+<img style="max-width: 100%; height: auto;" src="figure-flip2-crop.jpg" alt="" />
+
+  <div class="center">
+\(\small M[\mathsf{Flip}(q)]\) 
+</div>
+</div>
+
+<div style="width:19%; display:inline-block; vertical-align: top">
+<img style="max-width: 100%; height: auto;" src="figure-fliparrow-crop.jpg" alt="" />
+</div>
+
+<div style="width:19%; display:inline-block; vertical-align: top">
+<img style="max-width: 100%; height: auto;"
+src="figure-flip3-crop.jpg" alt="" />
+
+<div class="center">
+\(\small M[\mathsf{Flip}(q)][\mathsf{Flip}(q)]\)
+</div>
+</div>
+</div>
+
+<p><span class="figlabel">Figure G2.</span> The pointed action model \((\mathsf{Flip}(q),e)\) toggles the truth value of letter <i>q</i> in a way that is common knowledge to all.</p>
+
+</div>
+
+<p> Almost all results about action model logics carry through <em>mutatis mutandis</em> upon addition of valuation-changing substitutions.  So in the interest of simplicity, we assume in what follows that, unless stated otherwise, our action models do not contain valuation-changing substitutions.  It is worth noting that this assumption is often made in the DEL literature and, in light of how simple it is to include valuation-changing substitutions if they are desired, this assumption should not be viewed as a genuine limitation to a given piece of work.  </p>
+
+<h3 id="CK">3. Adding common knowledge</h3>
+
+<p> To study the effect of common knowledge on action models, we define the language \eqref{EAL+C} of (EAL) with common knowledge along with the set \(\AMC_*\) of pointed action models with preconditions in the language \eqref{EAL+C} according to the following recursive grammar: </p>
+
+\[\begin{gather*}\taglabel{EAL+C}
+F  \ccoloneqq p \mid F\land F \mid \lnot F \mid [a]F \mid [A,e]F \mid [B*]F \\
+ \small p\in\sP,\; a\in\sA,\; (A,e)\in\AMC_*,\; B\subseteq\sA
+\end{gather*}\]
+
+<p> The semantics of this language over pointed Kripke models is defined above.  There are a number of interesting fragments of \eqref{EAL+C} obtained by restricting the action model modalities \([A,e]\) to have certain communicative forms.  Here are a few examples.  </p>
+
+<ul> <li> (PUB+C) is the fragment of \eqref{EAL+C} obtained by requiring that any action model modality \([A,e]\) used in the formation of a formula be a public announcement modality \([\Pub(F),e]\). See <a href="index.html#Fig4">Figure 4 (main article)</a> for a picture of the action model \(\Pub(p)\).  </li>
+
+<li> (PRI+C) is the fragment of \eqref{EAL+C} obtained by requiring that any action model modality \([A,e]\) used in the formation of a formula be a private announcement modality \([\Pri(F),e]\) <a href="index.html#Fig3">Figure 3 (main article)</a> depicts the action model \(\Pri(p)\).  </li> </ul>
+
+<p> We now examine the axiomatic theory of EAL with common knowledge.  </p>
+
+<div class="indent" id="AMLC-theory">
+
+  <p><strong>The axiomatic theory \(\EALC\).</strong> Other name in the literature: \(\mathsf{AMC}\) (van Ditmarsch, van der Hoek, and Kooi 2007).  </p>
+
+<ul> <li> Axiom schemes and rules for the theory <a href="index.html#EAL">\(\EAL\)</a> </li>
+
+<li> Axiom schemes for common knowledge: <ul>
+
+<li>\([B*](F\to G)\to([B*]F\to[B*]G)\) <br /> &ldquo;Common knowledge is closed under logical consequence.&rdquo;
+</li>
+
+<li>\([B*]F\leftrightarrow(F\land[B][B*]F)\), the &ldquo;Mix axiom&rdquo; <br />
+
+&ldquo;Common knowledge is equivalent to truth and group knowledge of common knowledge.&rdquo;
+</li>
+
+<li>\([B*](F\to[B]F)\to(F\to[B*]F)\), the &ldquo;Induction axiom&rdquo; <br />
+
+&ldquo;If there is common knowledge that truth implies group knowledge and there is truth, then there is common knowledge.&rdquo; </li>
+
+</ul>
+</li>
+
+<li>CK Necessitation Rule: from <i>F</i>, infer \([B*]F\) <br/> &ldquo;There is common knowledge of every validity.&rdquo;
+</li>
+
+<li>AM-CK Rule: given \eqref{EAL+C}-formulas \(G_x\) for each event <i>x</i> in the action model <i>A</i>, from
+
+\[
+\bigwedge_{e (R_B)*f}
+\left(
+(G_f\land \pre(f)\land (G_f\to[A,f]F))\to
+\bigwedge_{a\in B}\bigwedge_{f R_a g}[a]G_g
+\right)
+\]
+
+infer
+
+\[
+G_e\to[A,e][B*]F
+\]
+
+</li>
+</ul>
+</div>
+
+<p> Just like for \(\PALC\), there can be no reduction theorem for \(\EALC\).  This makes for a more intricate completeness proof.  </p>
+
+<div class="indent">
+
+  <p><strong>\(\EALC\) Soundness and Completeness (Baltag, Moss, and Solecki 1999; van
+Ditmarsch, van der Hoek, and Kooi 2007).</strong>
+
+\(\EALC\) is sound and complete with respect to the collection \(\sC_*\) of pointed Kripke models for which the underlying logic \(\EAL\) is sound and complete.  That is, for each \eqref{EAL+C}-formula <i>F</i>, we have \(\EALC\vdash F\) if and only if \(\sC_*\models F\).</p>  </div>
+
+<p> We summarize some of the known expressive relationships between various fragments of \eqref{EAL+C} over the class of all pointed Kripke models.  Relationships over various other classes are reported by van Ditmarsch, van der Hoek, and Kooi (2007).  </p>
+
+<div class="indent">
+
+<p> <strong>Relative Expressivity Theorem.</strong> Over the class of all pointed Kripke models, we have each of the following.</p>
+
+<ul> <li> \eqref{EAL+C} is strictly more expressive than each of (PUB+C) and (PRI+C) (Baltag, Moss, and Solecki 1999).  </li>
+
+<li> (PUB+C) and (PRI+C) are expressively incomparable: there is a (PUB+C)-formula that cannot be expressed in (PRI+C) (Renne 2008), and there is a (PRI+C)-formula that cannot be expressed in (PUB+C) (Baltag, Moss, and Solecki 1999).  </li>
+
+<li> (PUB+C) and (PAL+C) are equally expressive (Baltag, Moss, and Solecki 1999).  </li>
+
+<li> (PAL+C) is strictly more expressive than (ML+C) (Baltag, Moss, and Solecki 1999).  </li>
+
+<li> (ML+C) is strictly more expressive than (ML) (Fagin et al. 1995).  </li>
+
+<li> (EAL) and (ML) are equally expressive (Baltag, Moss, and Solecki 1999).  </li> </ul> </div>
+
+<p> In closing, we note two alternative approaches to reasoning about action models and common knowledge.  </p>
+
+<ul> <li> van Benthem, van Eijck, and Kooi  (2006) extend (ML) to an &ldquo;Epistemic Propositional Dynamic Logic&rdquo; that can express common knowledge (and relativized common knowledge).  It is shown via a Reduction Theorem that adding action model modalities does not increase expressivity of the language.  </li>
+
+<li> Van Benthem and Ikegami (2008) show that modal \(\mu\)-calculus, which can express common knowledge, is closed under the product update.  That is, a Reduction Theorem implies that adding action model modalities does not increase expressivity of the language.  </li> </ul> 
+
+
+<!--pdf exclude begin-->
+<p><a href="index.html">&larr; beginning of main article</a></p>
+<!--pdf exclude end-->
+
+
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2016</a> by
+
+<br />
+<a href="https://sites.google.com/site/thealexandrubaltagsite/" target="other">Alexandru Baltag</a>
+&lt;<a href="m&#97;ilto:a&#37;2ebaltag&#37;40uva&#37;2enl"><em>a<abbr title=" dot ">&#46;</abbr>baltag<abbr title=" at ">&#64;</abbr>uva<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;<br />
+<a href="http://bryan.renne.org/" target="other">Bryan Renne</a>
+&lt;<a href="m&#97;ilto:brenne&#37;40gmail&#37;2ecom"><em>brenne<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

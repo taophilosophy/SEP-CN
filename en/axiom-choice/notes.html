@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Axiom of Choice &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/axiom-choice/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/axiom-choice/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=axiom-choice">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">The Axiom of Choice</a></h2>
+
+<p>
+ <a href="index.html#note-1" name="1">1.</a> Zermelo does not, however, actually
+ give the principle an explicit name at this point. ( He does so only in
+ 1908, where he uses the term
+ &ldquo;postulate of choice&rdquo;. We note that Zermelo here uses the
+ term &ldquo;product&rdquo; , which is the reason why a number of
+ mathematicians (in particular Russell and Ramsey) referred to the
+ axiom as the &ldquo;multiplicative axiom&rdquo; (see &sect;4
+ below).</p>
+
+<p>
+
+ <a href="index.html#note-2" name="2">2.</a> A function \(f\): \(A
+\rightarrow B\) is <em>surjective</em> if for any element \(b \in B\)
+there is \(a \in A\) such that \(f(a) = b\). A <em>right inverse</em>
+to \(f\) is a function \(g: B \rightarrow A\) such
+that, for any \(x\in B\),
+\(f(g(x) = x\).</p>
+
+<p>
+
+ <a href="index.html#note-3" name="3">3.</a> Zermelo&rsquo;s formulation
+reads literally:</p>
+
+<blockquote>
+ A set \(S\) that can be decomposed into a set of disjoint parts
+\(A\), \(B\), \(C\), &hellip; , each containing at
+least one element, possess at least one subset \(S_{1}\)
+having exactly one element with each of the parts \(A\),
+\(B\), \(C\), &hellip; , considered.
+ </blockquote>
+
+<p>
+
+ <a href="index.html#note-4" name="4">4.</a>
+ The difficulty here is amusingly illustrated by an anecdote due to
+Bertrand Russell. A millionaire possesses an infinite number of pairs
+of shoes, and an infinite number of pairs of socks. One day, in a fit
+of eccentricity, the millionaire summons his valet and asks him to
+select one shoe from each pair. When the valet, accustomed to
+receiving precise instructions, asks for details as to how to perform
+the selection, the millionaire suggests that the left shoe be chosen
+from each pair. Next day the millionaire proposes to the valet that he
+select one <em>sock</em> from each pair. When asked as to how
+<em>this</em> operation is to be carried out, the millionaire is at a
+loss for a reply, since, unlike shoes, there is no intrinsic way of
+distinguishing one sock of a pair from the other. In other words, the
+selection of the socks must be truly arbitrary.</p>
+
+
+<p>
+
+ <a href="index.html#note-5" name="5">5.</a> In 1923 Hilbert
+asserted:</p>
+
+<blockquote>
+ The essential idea on which the axiom of choice is based constitutes
+a general logical principle which, even for the first elements of
+mathematical inference, is indispensable.  </blockquote>
+
+<p>
+ (Quoted in section 4.8 of Moore 1982.)</p>
+
+
+<p>
+
+ <a href="index.html#note-6" name="6">6.</a>
+ For a detailed history of the Axiom of Choice, see Moore 1982.</p>
+
+<p>
+
+ <a href="index.html#note-7" name="7">7.</a> Here
+(\(x)_{x\in X}\) indicates
+that all the members of \(X\) are taken as designated elements of
+the structure, i.e. as being named by constant symbols in the
+associated first-order language.</p>
+
+<p>
+
+ <a href="index.html#note-8" name="8">8.</a>
+ For a detailed account of the proof of the independence of the Axiom
+of Choice, see Bell 2005 or Jech 1973.</p>
+
+<p>
+
+ <a href="index.html#note-9" name="9">9.</a>
+ For the proof of <em>ZL</em> from <em>AC</em> in <strong>ZF</strong>,
+see Mendelson 1987 (Ch. 4, sect. 5). For a proof not using ordinals,
+and so formulable in Zermelo set theory, see Bourbaki 1950 or Lawvere
+and Rosebrugh 2003 (Appendix B).</p>
+
+<p>
+
+ <a href="index.html#note-10" name="10">10.</a>
+ Thus a nest in \(S\) is a chain in \(S\) partially ordered by set
+inclusion.</p>
+
+<p>
+
+ <a href="index.html#note-11" name="11">11.</a>
+That minimal samplings are transversals requires
+demonstration. Suppose \(S\) is a minimal sampling; then, given \(X\in
+\sI\) either (1) \(S\cap X\) is finite nonempty or (2) \(X \subseteq
+S\). In case (1) \(S\cap X\) cannot contain two distinct elements
+because the removal of one of them from \(S\) would yield a sampling
+smaller than \(S\), violating its minimality. So in this case \(S\cap
+X\) must be a singleton. In case (2) \(S\) cannot contain two distinct
+elements \(a\), \(b\) since, if it did, \(S' = [(S - X) \cup \{a\}]\)
+would be a sampling smaller than \(S\) (notice that \(S' \cap X =
+\{a\}\) and the relations of \(S'\) with the members of \(\sI -
+\{X\}\) are the same as those of \(S\)), again violating the
+minimality of \(S\). So in this case \(X\), and <em>a fortiori</em>
+\(S\cap X\) must be a singleton.</p>
+
+<p>
+
+ <a href="index.html#note-12" name="12">12.</a>
+ Had we elected to follow more closely the intuitive combinatorial
+derivation of <em>AC</em> as sketched above
+by using selectors instead of samplings we would have
+encountered the obstacle that&mdash;unlike the set of
+samplings&mdash;the set of selectors is not necessarily reductive.</p>
+
+<p>
+
+ <a href="index.html#note-13" name="13">13.</a>
+ For equivalents of the Axiom of Choice, see Rubin and Rubin 1985;
+for consequences, see Howard and Rubin 1998.</p>
+
+<p>
+
+ <a href="index.html#note-14" name="14">14.</a>
+&ldquo;Weaker&rdquo; here means that, within the context of the axioms
+of set theory (minus, of course, <em>AC</em>), the proposition
+in question is entailed by <em>AC</em>, but not vice-versa.</p>
+
+
+<p>
+
+ <a href="index.html#note-15" name="15">15.</a>
+ The idea of the proof goes back to Goodman and Myhill 1978, which
+was itself built on a result of Diaconescu 1975. See below.</p>
+
+<p>
+
+ <a href="index.html#note-16" name="16">16.</a>
+ See Bishop and Bridges 1985.</p>
+
+<p>
+
+ <a href="index.html#note-17" name="17">17.</a>
+ See Supplementary Document. For an analysis of
+various versions of <em>AC</em> within constructive type
+theory, see Martin-L&ouml;f 2006.</p>
+
+<p>
+
+ <a href="index.html#note-18" name="18">18.</a>
+ Also, of course, use was made of \(0 \ne 1\), but this assumption is
+so weak that it may be consistently added to virtually any axiomatic
+system.</p>
+
+<p>
+
+ <a href="index.html#note-19" name="19">19.</a>
+ But in weak set theories lacking the axiom of extensionality the
+derivation of Excluded Middle from <em>AC</em> does not go
+through: some form of extensionality, or the existence of quotient
+sets for equivalence relations, needs to be assumed. See Bell
+2008.</p>
+
+<p>
+
+ <a href="index.html#note-20" name="20">20.</a>
+ With Zorn&rsquo;s Lemma the situation is otherwise. For despite its
+equivalence to <em>AC</em> in classical set theory, in intuitionistic
+set theory Zorn&rsquo;s Lemma <em>does not imply</em> <strong>LEM:</strong>
+in fact, it has no &ldquo;non-constructive&rdquo; logical consequences
+whatsoever (Grayson 1975, Bell 1997). Thus Zorn&rsquo;s Lemma is
+considerably weaker than <em>AC</em> in intuitionistic set
+theory. Intuitionistic equivalents of Zorn&rsquo;s Lemma are scarce; a few
+have been formulated in Bell 2003.</p>
+
+<p>
+
+ <a href="index.html#note-21" name="21">21.</a>
+ That is, the set of all \(R\)-equivalence classes of members of
+\(A\).</p>
+
+<h3>Notes to Supplementary Document: The Axiom of Choice and Type Theory</h3>
+
+<p>
+
+ <a href="choice-and-type-theory.html#note-1" name="sup1">1.</a>
+ Dependent types were actually first studied in the late 1960s by de
+Bruijn and his colleagues at the University of Eindhoven in connection
+with the AUTOMATH project. CDTT has been employed as a basis for
+various computational devices employed for the verification of
+mathematical theories and of software and hardware systems in computer
+science.</p>
+
+<p>
+
+ <a href="choice-and-type-theory.html#note-2" name="sup2">2.</a>
+ Analogous constructive versions of set theory, incorporating choice
+principles, have been developed by Peter Aczel. See Aczel 1978, 1982,
+2005 and Aczel &amp; Rathjen 2001.</p>
+
+<p>
+
+ <a href="choice-and-type-theory.html#note-3" name="sup3">3.</a>
+ This idea was advanced by Curry and Feys 1958 and later by Howard
+1980. As the <em>Curry-Howard correspondence</em> it has come to play
+an important role in theoretical computer science.</p>
+
+<p>
+
+ <a href="choice-and-type-theory.html#note-4" name="sup4">4.</a>
+ For a complete specification of the operations and rules of DCTT, see
+Chapter 10 of Jacobs 1999 or Gambino &amp; Aczel 2005.</p>
+
+<p>
+
+ <a href="choice-and-type-theory.html#note-5" name="sup5">5.</a> See &sect;4.</p>
+
+<p>
+
+ <a href="choice-and-type-theory.html#note-6" name="sup6">6.</a>
+ It is interesting to note that Ramsey 1926 also asserted the
+tautological character of <em>AC</em> but for quite different
+reasons. Like Zermelo, Ramsey construed&mdash;and accepted the truth
+of&mdash;<em>AC</em> as asserting the objective existence of choice
+functions, given extensionally and so independently of the manner in
+which they might be described. But the intensional nature of
+constructive mathematics, and, in particular, of
+<strong>CDTT</strong>, decrees that nothing is given completely
+independently of its description. This leads to a strong construal of
+the quantifiers which, as we have observed, essentially trivializes
+<em>AC</em> by rendering the antecedent of the implication
+constituting it essentially equivalent to the consequent. It is
+remarkable that <em>AC</em> can be considered tautological both from
+an extensional and from an intensional point of view.</p>
+
+<p>
+
+ <a href="choice-and-type-theory.html#note-7" name="sup7">7.</a>
+  While in classical set theory each singleton in this sense is either
+empty or a one-element set, in intuitionistic set theory there are
+many additional &ldquo;intermediate&rdquo; sets qualifying as
+singletons.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="http://publish.uwo.ca/~jbell/" target="other">John L. Bell</a>
+&lt;<a href="m&#97;ilto:jbell&#37;40uwo&#37;2eca"><em>jbell<abbr title=" at ">&#64;</abbr>uwo<abbr title=" dot ">&#46;</abbr>ca</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

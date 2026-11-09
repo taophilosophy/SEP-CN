@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Dynamic Epistemic Logic &gt; Appendix M: Preference dynamics (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/dynamic-epistemic/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/dynamic-epistemic/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dynamic-epistemic">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Dynamic Epistemic Logic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Appendix M: Preference dynamics</h2>
+
+<p> DEL-style model-changing operators have been applied by a number of researchers to the study of preferences, preference change, and related notions.  At the semantic core of the various DEL approaches to reasoning about preference and preference change is some variant of the <em>preference model</em>.  </p>
+
+<div class="indent"> <p> <strong>Preference model.</strong>
+
+Given a nonempty set \(\sP\) of propositional letters and a finite nonempty set \(\sA\) of agents, a <em>preference model</em> is a structure</p>
+
+\[
+M=(W,\succeq,V)
+\]
+
+<p> consisting of a nonempty set <i>W</i> of <em>worlds</em> identifying the possible states of affairs that might obtain, a function \(\succeq\) that assigns to each agent <i>a</i> a reflexive and transitive binary relation\(\succeq_a\) on <i>W</i>, and a <em>propositional valuation</em> <i>V</i> mapping each propositional letter to the set of worlds at which that letter is true. A <em>pointed preference model</em>, sometimes called a <em>scenario</em> or a <em>situation</em>, is a pair \((M,w)\) consisting of a preference model <i>M</i> and a world <i>w</i> (called the <em>point</em>) that designates the state of affairs that we (the formal modelers) currently assume to be actual.  </p> 
+
+</div>
+
+<p> A preference model is just like a <a href="index.html#Def-Plaus">plausibility model</a> except that the order \(\succeq_a\) need not satisfy the property of <em>Plausibility</em>; in particular, within each nonempty set of worlds, there need not always exist a nonempty subset consisting of the &ldquo;most preferred&rdquo; worlds.  The expression \(w\succeq_a v\) is read, &ldquo;agent <i>a</i> considers <i>w</i> to be at least as preferred as <i>v</i>&rdquo;. </p>
+
+<p> Note that the convention here is that the &ldquo;larger&rdquo; worlds according to \(\succeq_a\) are more preferred; this is the opposite of the convention adopted for plausibility models. The converse preferential relation \(\preceq_a\), the strict preferential relations \(\succ_a\) and \(\prec_a\), and the equi-preferential relation \(\simeq_a\) are defined in terms of \(\succeq_a\) in a manner analogous to our definitions of converse plausibility, strict plausibility, strict converse plausibility, and equi-plausibility in <a href="index.html#Def-Plaus">the definition of plausibility models</a>.  </p>
+
+<p> Van Benthem et al. (2009) consider a single-agent version of a reflexive and irreflexive preference language we call \eqref{RIPL}.  This language consists of a universal modality \([\forall]\) (&ldquo;true at all worlds in the model&rdquo;), a reflexive preference modality \([\succeq_a]\) (&ldquo;true at the worlds non-strictly less preferred by <i>a</i>&rdquo;), the converse reflexive preference modality \([\preceq_a]\) (&ldquo;true at the worlds non-strictly preferred by <i>a</i>&rdquo;), an irreflexive preference modality \([\succ_a]\) (&ldquo;true at the worlds strictly less preferred by <i>a</i>&rdquo;), and the converse irreflexive preference modality \([\prec_a]\) (&ldquo;true at the worlds strictly preferred by <i>a</i>&rdquo;).  </p>
+
+\[\begin{align*} \taglabel{RIPL}
+F  \ccoloneqq &amp;p \mid F\land F \mid \lnot F \mid [\forall F] \,\mid \\
+ &amp;[\succeq_a]F \mid [\preceq_a]F \mid [\succ_a]F \mid [\prec_a]F \\
+ &amp;\small p\in\sP,\; a\in\sA
+\end{align*}\]
+
+<p id="RIPL-Semantics"> We recall that the dual existential modality \([\exists]\) is defined by \([\exists]F\coloneqq\lnot[\forall]\lnot F\).  The dual modalities for the preference relation, which are written between angled brackets, are defined similarly; for example, \(\may{\succeq_a}F\coloneqq\lnot[\succeq_a]\lnot F\).  The language \eqref{RIPL} is interpreted over pointed preference models as follows.  </p>
+
+<ul> 
+<li>\(M,w\models p\) holds if and only if \(w\in V(p)\).</li>
+
+<li>\(M,w\models F\land G\) holds if and only if both \(M,w\models F\) and \(M,w\models G\).</li>
+
+<li>\(M,w\models\lnot F\) holds if and only if \(M,w\not\models F\).</li>
+
+<li>\(M,w\models[\forall]F\) holds if and only if \(M,v\models F\) for each \(v\in W\).</li>
+
+<li>\(M,w\models[\succeq_a]F\) holds if and only if \(M,v\models F\) for each \(v\succeq_a w\).</li>
+
+<li>\(M,w\models[\preceq_a]F\) holds if and only if \(M,v\models F\) for each \(v\preceq_a w\).</li>
+
+<li>\(M,w\models[\succ_a]F\) holds if and only if \(M,v\models F\) for each \(v\succ_a w\).</li>
+
+<li>\(M,w\models[\prec_a]F\) holds if and only if \(M,v\models F\) for each \(v\prec_a w\).</li> </ul>
+
+<p> Van Benthem et al. (2009) show that \eqref{RIPL} allows us to express eight distinct notions of &ldquo;agent <i>a</i> prefers <i>G</i> to <i>F</i>&rdquo;. A number of these notions arise in choosing best moves in a game-theoretic setting (van Benthem 2009).  </p>
+
+<div class="indent"> 
+
+<p> <strong>Theorem (van Benthem et al. 2009).</strong> Let \((M,w)\) be a pointed preference model.</p> <ol>
+
+<li> Define \(M,w\models F\leq_a^{\exists\exists} G\) to mean that \(\exists x, \exists y \succeq_a x:\) (\(M,x\models F\) and \(M,y\models G\)).  <br />
+
+&ldquo;There is an <i>F</i>-world that agent <i>a</i> non-strictly prefers
+to some <i>G</i>-world.&rdquo; <br />
+
+The formula \([\exists](F\land\may{\preceq_a}G)\) is equivalent to \(F\leq_a^{\exists\exists} G\).  
+</li>
+
+<li> Define \(M,w\models F\leq_a^{\forall\exists} G\) to mean that \(\forall x, \exists y \succeq_a x:\) (\(M,x\models F\) implies \(M,y\models G\)).  <br />
+
+&ldquo;For every <i>F</i>-world, there is a <i>G</i>-world that agent <i>a</i> non-strictly prefers.&rdquo; <br />
+
+The formula \([\forall](F\to\may{\preceq_a} G)\) is equivalent to \(F\leq_a^{\forall\exists} G\).  
+</li>
+
+<li> Define \(M,w\models F\lt_a^{\exists\exists} G\) to mean that \(\exists x, \exists y \succ_a x:\) (\(M,x\models F\) and \(M,y\models G\)).  <br />
+
+&ldquo;There is an <i>F</i>-world that agent <i>a</i> strictly prefers to some <i>G</i>-world.&rdquo; <br />
+
+The formula \([\exists](F\land\may{\prec_a}G)\) is equivalent to \(F\lt_a^{\exists\exists} G\).
+</li>
+
+<li> Define \(M,w\models F\lt_a^{\forall\exists} G\) to mean that \(\forall x, \exists y :\) (if \(M,x\models F\), then \(M,y\models G\) and \(y\succ_a x\)).  <br />
+
+&ldquo;For every <i>F</i>-world, there is a <i>G</i>-world that agent <i>a</i> strictly prefers.&rdquo; <br />
+
+The formula \([\forall](F\to\may{\prec_a} G)\) is equivalent to \(F\lt_a^{\forall\exists} G\).  
+</li>
+
+<li> Define \(M,w\models F\lt_a^{\forall\forall} G\) to mean that \(\forall x, \forall y :\) (if \(M,x\models F\) and \(M,y\models G\), then \(x\prec_a y\)).  <br />
+
+&ldquo;Agent <i>a</i> strictly prefers every <i>G</i>-world to every <i>F</i>-world.&rdquo; <br />
+
+If the preference ordering \(\succeq_a\) is total (see <a href="appendix-C-relations.html">Appendix C</a>), then \([\forall](G\to[\preceq_a]\lnot F)\) is equivalent to \(F\lt_a^{\forall\forall} G\).
+</li>
+
+<li> Define \(M,w\models G\gt_a^{\exists\forall} F\) to mean that \(\exists y, \forall x :\) (if \(M,x\models F\) and \(M,y\models G\), then \(x\prec_a y\)).  <br />
+
+&ldquo;There is a <i>G</i>-world that agent <i>a</i> strictly prefers to every <i>F</i>-world.&rdquo; <br />
+
+If the preference ordering \(\succeq_a\) is total, then \([\exists](G\land[\preceq_a]\lnot F)\) is equivalent to \(G\gt_a^{\exists\forall} F\).  
+</li>
+
+<li> Define \(M,w\models F\leq_a^{\forall\forall} G\) to mean that \(\forall x, \forall y :\) (if \(M,x\models F\) and \(M,y\models G\), then \(x\preceq_a y\)).  <br />
+
+&ldquo;Agent <i>a</i> non-strictly prefers every <i>G</i>-world to every <i>F</i>-world.&rdquo; <br />
+
+If the preference ordering \(\succeq_a\) is total, then \([\forall](G\to[\prec_a]\lnot F)\) is equivalent to \(F\leq_a^{\forall\forall} G\).  
+</li>
+
+<li> Define \(M,w\models G\geq_a^{\exists\forall} F\) to mean that \(\exists y, \forall x :\) (if \(M,x\models F\) and \(M,y\models G\), then \(x\preceq_a y\)).  <br />
+
+&ldquo;There is a <i>G</i>-world that agent <i>a</i> non-strictly prefers to every <i>F</i>-world.&rdquo; <br />
+
+If the preference ordering \(\succeq_a\) is total, then \([\exists](G\land[\prec_a]\lnot F)\) is equivalent to \(G\geq_a^{\exists\forall} F\).  
+</li> 
+
+</ol> 
+</div>
+
+<p> To consider multi-agent preferences in conjunction with multi-agent knowledge, and to allow for DEL-style changes in preferences and knowledge, van Benthem and Liu (2007) study preference models to which epistemic relations \(R_a\) are added for each agent <i>a</i>.  </p>
+
+<div class="indent">
+ <p> <strong>Epistemic preference model.</strong>
+
+Given a nonempty set \(\sP\) of propositional letters and a finite nonempty set \(\sA\) of agents, an <em>epistemic preference model</em> is a structure
+
+\[
+M=(W,\succeq,R,V)
+\]
+
+consisting of a nonempty set <i>W</i> of <em>worlds</em> identifying the possible states of affairs that might obtain, a function \(\succeq\) that assigns to each agent \(a\in\sA\) a reflexive and transitive binary relation \({\succeq_a}\) on <i>W</i>, a function <i>R</i> that assigns a binary equivalence relation \(R_a\) on <i>W</i> to each agent \(a\in\sA\), and a <em>propositional valuation</em> <i>V</i> mapping each propositional letter to the set of worlds at which that letter is true. A <em>pointed epistemic preference model</em>, sometimes called a <em>scenario</em> or a <em>situation</em>, is a pair \((M,w)\) consisting of an epistemic preference model <i>M</i> and a world <i>w</i> (called the <em>point</em>) that designates the state of affairs that we (the formal modelers) currently assume to be actual.  </p>
+ </div>
+
+<p> We note that van Benthem and Liu (2007) define epistemic preference models so that each \(R_a\) is an equivalence relation.  This is because they wish to adopt the standard logic of knowledge (multi-agent \(\mathsf{S5}\)) and assign formulas \([a]F\) an epistemic reading (&ldquo;agent <i>a</i> knows <i>F</i>&rdquo;).  This restriction that the \(R_a\)&rsquo;s be equivalence relations is not a technical necessity and could easily be varied if other normal modal logics for the modalities \([a]\) are desired.  </p>
+
+<p> Van Benthem and Liu (2007) define the single-agent dynamic epistemic preference language \eqref{DEPL} that makes use of a universal modality, reflexive preference formulas \([\preceq_a]F\) (&ldquo;agent <i>a</i> prefers <i>F</i>&rdquo;) for each agent <i>a</i>, a knowledge modality \([a]F\) (&ldquo;agent <i>a</i> knows <i>F</i>&rdquo;) for each agent <i>a</i>, &ldquo;link-cutting&rdquo; public announcement formulas \([F!']G\) (&ldquo;after the announcement of <i>F</i>, formula <i>G</i> is true&rdquo;), and &ldquo;preference upgrade&rdquo; formulas \([\sharp F]G\) (&ldquo;after eliminating preferences for \(\lnot F\)-worlds over <i>F</i>-worlds, <i>G</i> is true&rdquo;).  Here we consider a simple multi-agent extension.  </p>
+
+\[\begin{align*} \taglabel{DEPL}
+F  \ccoloneqq  &amp;p \mid F\land F \mid \lnot F \mid [a]F \,\mid  \\
+ &amp;[\forall]F \mid [\preceq_a]F \mid [F!']F \mid [\sharp F]F  \\
+ &amp;\small p\in\sP,\; a\in\sA
+\end{align*}\]
+
+<p> Formulas of this language are interpreted at pointed epistemic preference models using <a href="#RIPL-Semantics">the appropriate clauses from \eqref{RIPL}</a> and <a href="appendix-A-kripke.html#ML-Semantics">from (ML)</a> along with the following clauses: </p>
+
+<ul> 
+<li> \(M,w\models[a]F\) holds if and only if \(M,v\models F\) for each <i>v</i> satisfying \(wR_av\).  </li>
+
+<li> \(M,w\models[F!']G\) holds if and only if we have that \(M[F!'],w\models G\), where the model
+
+\[
+M[F!']=(W[F!'],{\succeq}[F!'],R[F!'],V[F!'])
+\]
+
+is defined by:
+
+<ul> 
+<li> \(W[F!'] \coloneqq W\) &mdash; retain all worlds, </li>
+
+<li> \(x{\succeq}[F!']_a y\) if and only if \(x\succeq_a y\) &mdash; leave preferences as before, </li> 
+
+<li> \(xR[F!']_ay\) if and only if \(xR_ay\) and we have \(M,x\models F\) if and only if \(M,y\models F\) &mdash; delete only those epistemic connections between <i>F</i>-worlds and \(\lnot F\)-worlds, and </li> 
+
+<li> \(v\in V[F!'](p)\) holds if and only if \(v\in V(p)\) &mdash; leave the valuation the same at all worlds.  </li> 
+
+</ul> </li>
+
+
+<li> \(M,w\models[\sharp F]G\) holds if and only if we have that \(M[\sharp F],w\models G\), where the model
+
+\[
+M[\sharp F]=(W[\sharp F],{\succeq}[\sharp F],R[\sharp F],V[\sharp F])
+\]
+
+is defined by:
+
+<ul> 
+<li> \(W[\sharp F]\coloneqq W\) &mdash; retain all worlds, </li> 
+
+<li> \(x{\succeq}[\sharp F]_ay\) if and only if \(x\succeq_a y\) and it is not the case that both \(M,w\not\models F\) and \(M,y\models F\) &mdash; delete only those preferences for \(\lnot F\)-worlds over <i>F</i>-worlds, </li> 
+
+<li> \(x R[\sharp F]_ay\) if and only if \(x R_a y\) &mdash; leave epistemic relations as before, and </li> 
+
+<li> \(v\in V[\sharp F](p)\) if and only if \(v\in V(p)\) &mdash; leave the valuation the same at all worlds.  </li> 
+
+</ul> </li> </ul>
+
+<p> Van Benthem and Liu (2007) axiomatize the \eqref{DEPL}-validities and call the resulting logic Dynamic Epistemic Upgrade Logic \(\DEUL\).  </p>
+
+<div class="indent">
+
+  <p  style="margin-bottom:0pt"><strong>The axiomatic theory \(\DEUL\).</strong></p> <ul>
+
+<li>Axiom schemes and rules for classical propositional logic</li>
+
+
+<li>\(\mathsf{S5}\) axiom schemes and rules for \([a]\)</li>
+
+
+<li>\(\mathsf{S4}\) axiom schemes and rules for \([\preceq_a]\)</li>
+
+
+<li>Universal modality axioms:
+<ul>
+
+<li>\(\mathsf{S5}\) axiom schemes and rules for \([\forall]\)</li>
+
+
+<li>\([\forall]F\to[a]F\)</li>
+
+
+<li>\([\forall]F\to[\preceq_a]F\)</li>
+</ul>
+</li>
+
+<!-- ZZZ -->
+
+
+<li>Link-cutting public announcements:
+<ul>
+
+<li> \([F!']p\leftrightarrow(F\to p)\) for letters \(p\in\sP\) <br /> 
+&ldquo;After a false announcement, every letter holds&mdash;a contradiction.  After a true announcement, letters retain their truth values.&rdquo; </li>
+
+<li> \([F!'](G\land H)\leftrightarrow([F!']G\land[F!']H)\) <br /> 
+&ldquo;A conjunction is true after an announcement iff each conjunct is.&rdquo; </li>
+
+<li> \([F!']\lnot G\leftrightarrow(F\to\lnot[F!']G)\) <br /> 
+&ldquo;<i>G</i> is false after an announcement iff the announcement, whenever truthful, does not make <i>G</i> true.&rdquo; </li>
+
+<li> \([F!'][a]G\leftrightarrow(F\to[a][F!']G)\) <br /> 
+&ldquo;<i>a</i> knows <i>G</i> after an announcement iff the announcement, whenever truthful, is known by <i>a</i> to make <i>G</i> true.&rdquo; </li>
+
+<li> \([F!'][\preceq_a]G\leftrightarrow(F\to[\preceq_a][F!']G)\) <br /> 
+&ldquo;<i>a</i> prefers <i>G</i> after an announcement iff <i>a</i> prefers that <i>G</i> is true after the announcement is truthfully made.&rdquo; </li>
+
+<li> \([F!'][\forall]G\leftrightarrow (F\to[\forall]([F!']G\land[\lnot F!']G))\) <br /> 
+&ldquo;<i>G</i> is true everywhere after an announcement of <i>F</i> iff whenever <i>F</i> is true, it is true everywhere that both the announcement of <i>F</i> and the announcement of its negation makes <i>G</i> true.&rdquo; </li>
+
+<li> Link-Cutting Announcement Necessitation Rule: from <i>F</i>, infer \([G!']F\).<br /> 
+&ldquo;A validity holds after any announcement.&rdquo; </li> </ul> </li>
+
+<li>Preference upgrades: <ul>
+
+<li> \([\sharp F]p\leftrightarrow p\) for letters \(p\in\sP\) <br /> 
+&ldquo;<i>p</i> holds after an upgrade iff <i>p</i> held before the upgrade.&rdquo; </li>
+
+<li> \([\sharp F](G\land H)\leftrightarrow ([\sharp F]G\land[\sharp F]H)\) <br /> 
+&ldquo;A conjunction is true after an upgrade iff each conjunct is.&rdquo; </li>
+
+<li> \([\sharp F]\lnot G\leftrightarrow\lnot[\sharp F]G\) <br /> 
+&ldquo;A negation is true after an upgrade iff it is false before the upgrade.&rdquo; </li>
+
+<li> \([\sharp F][a]G\leftrightarrow[a][\sharp F]G\) <br /> 
+&ldquo;<i>a</i> knows <i>G</i> after an upgrade iff the upgrade is known by <i>a</i> to make <i>G</i> true.&rdquo; </li>
+
+<li> \([\sharp F][\preceq_a]G\leftrightarrow ([\preceq_a](F\to[\sharp F]G)\land (\lnot F\to[\preceq_a][\sharp F]G))\) <br /> 
+&ldquo;<i>a</i> prefers <i>G</i> after an upgrade by <i>F</i> iff <i>a</i> prefers that &lsquo;the upgrade by <i>F</i> make <i>G</i> true at <i>F</i>-worlds,&rsquo; and, in case <i>F</i> is false, <i>a</i> also prefers that the upgrade of <i>F</i> make <i>G</i> true.&rdquo; </li>
+
+<li> \([\sharp F][\forall]G\leftrightarrow[\forall][\sharp F]G\) <br /> 
+&ldquo;<i>G</i> is true everywhere after an upgrade of <i>F</i> iff it is true everywhere that the upgrade makes <i>G</i> true.&rdquo; </li>
+
+<li> Preference Upgrade Necessitation Rule: from <i>F</i>, infer \([\sharp G]F\).<br /> 
+&ldquo;A validity holds after any upgrade.&rdquo; </li>
+
+</ul>
+</li>
+</ul>
+</div>
+
+<div class="indent">
+
+  <p><strong>\(\DEUL\) Soundness and Completeness (van Benthem and Liu 2007).</strong> \(\DEUL\) is sound and complete with respect to the collection \(\sC_*\) of pointed epistemic preference models.  That is, for each \eqref{DEPL}-formula <i>F</i>, we have that \(\DEUL\vdash F\) if and only if \(\sC_*\models F\).  </p>
+
+</div>
+
+<p> The work of van Benthem and Liu (2007) has been further developed by a number of authors. Liu (2008) looks at a quantitative version of preference and preference change closely related to earlier work on belief revision by Aucher (2003). Yamada (2007a,b, 2008) examines various deontic logics of action, command, and obligation. Van Eijck (2008) looks at a generalized Propositional Dynamic Logic-style preference logic that encompasses van Benthem and Liu (2007) and allows for the study of common knowledge (or belief) along with a DEL-style notion of conditional belief and belief change.  Van Eijck and Sietsma (2010) further extend this work, examining applications to judgment aggregation; this has natural connections with coalition logic and social choice theory.  Van Benthem, Girard, and Roy (2009c) examine a preference logic for von Wright&rsquo;s (1963) notion of <em>ceteris paribus</em> (in the distinct senses of &ldquo;all things being normal&rdquo; and of &ldquo;all things being equal&rdquo;) along with a dynamic notion of &ldquo;agenda change&rdquo;. A textbook on preferences and preference dynamics is Liu (2011).  </p>
+
+<!--pdf exclude begin-->
+<p><a href="index.html">&larr; beginning of main article</a></p>
+<!--pdf exclude end-->
+
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2016</a> by
+
+<br />
+<a href="https://sites.google.com/site/thealexandrubaltagsite/" target="other">Alexandru Baltag</a>
+&lt;<a href="m&#97;ilto:a&#37;2ebaltag&#37;40uva&#37;2enl"><em>a<abbr title=" dot ">&#46;</abbr>baltag<abbr title=" at ">&#64;</abbr>uva<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;<br />
+<a href="http://bryan.renne.org/" target="other">Bryan Renne</a>
+&lt;<a href="m&#97;ilto:brenne&#37;40gmail&#37;2ecom"><em>brenne<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

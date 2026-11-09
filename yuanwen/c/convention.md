@@ -1,0 +1,810 @@
+# Convention
+**First published Thu Sep 6, 2007; substantive revision Thu Feb 22, 2024**
+
+*Rescorla, Michael*
+
+The central philosophical task posed by conventions is to analyze what they are and how they differ from mere regularities of action and cognition. Subsidiary questions include: How do conventions arise? How are they sustained? How do we select between alternative conventions? Why should one conform to convention? What social good, if any, do conventions serve? How does convention relate to such notions as rule, norm, custom, practice, institution, and social contract? Apart from its intrinsic interest, convention is important because philosophers frequently invoke it when discussing other topics. A favorite philosophical gambit is to argue that, perhaps despite appearances to the contrary, some phenomenon ultimately results from convention. Notable candidates include: property, government, justice, law, morality, linguistic meaning, necessity, ontology, mathematics, and logic.
+
+## 1. Issues raised by convention
+
+In everyday usage, “convention” has various meanings, as suggested by the following list: Republican Party Convention; Geneva Convention; terminological conventions; conventional wisdom; flouting societal convention; conventional medicine; conventional weapons; conventions of the horror genre. As Nelson Goodman observes:
+
+> The terms “convention” and “conventional” are flagrantly and intricately ambiguous. On the one hand, the conventional is the ordinary, the usual, the traditional, the orthodox as against the novel, the deviant, the unexpected, the heterodox. On the other hand, the conventional is the artificial, the invented, the optional, as against the natural, the fundamental, the mandatory. (1989, p. 80)
+
+Adding to the confusion, “convention” frequently serves as jargon within economics, anthropology, and sociology. Even within philosophy, “convention” plays so many roles that we must ask whether a uniform notion is at work. Generally speaking, philosophical usage emphasizes the second of Goodman’s disambiguations. A common thread linking most treatments is that conventions are “up to us,” undetermined by human nature or by intrinsic features of the non-human world. We *choose* our conventions, either explicitly or implicitly.
+
+### 1.1 Social convention
+
+This concept is the target of David Lewis’s celebrated analysis in *Convention* (1969). A social convention is a regularity widely observed by some group of agents. But not every regularity is a convention. We all eat, sleep, and breathe, yet these are not conventions. In contrast, the fact that everyone in the United States drives on the right side of the road rather than the left is a convention. We also abide by conventions of etiquette, dress, eating, and so on.
+
+Two putative social conventions commonly cited by philosophers are *money* and *language*. Aristotle mentions the former example in the *Nicomachean Ethics* (V.5.II33a):
+
+> Money has become by convention a sort of representative of demand; and this is why it has the name “money” (“*nomisma*”)—because it exists not by nature but by law (*nomos*) and it is in our power to change it and make it useless,
+
+and the latter example in *De Interpretatione* (16a.20–28):
+
+> A name is a spoken sound significant by convention… I say “by convention” because no name is a name naturally but only when it has become a symbol.
+
+David Hume mentions both examples in the *Treatise of Human Nature* (p. 490):
+
+> [L]anguages [are] gradually establish’d by human conventions without any explicit promise. In like manner do gold and silver become the common measures of exchange, and are esteem’d sufficient payment for what is of a hundred times their value.
+
+Although Hume analyzed money at some length in the 1752 “Of Money,” it now receives systematic attention mainly from economists rather than philosophers.[^note-1] In contrast, philosophers still lavish great attention upon the extent, if any, to which language rests upon convention. David Lewis offers a theory of linguistic conventions, while Noam Chomsky and Donald Davidson argue that convention sheds no light upon language. See section 7, Conventions of language.
+
+For many philosophers, a central philosophical task is to elucidate how we succeed in “creating facts” through our conventions. For instance, how does convention succeed in conferring value upon money or meaning upon linguistic items? Ideally, a satisfying answer to these questions would include both an analysis of what social conventions *are* and a description of the particular conventions underlying some range of “conventional” facts. Hume’s theory of property and Lewis’s theory of linguistic meaning serve as paradigms here.
+
+What are social conventions? A natural first thought is that they are *explicit agreements*, such as promises or contracts, enacted either by parties to the convention or by people suitably related to those parties (such as their ancestors). This conception underwrites at least one famous conventionalist account: Thomas Hobbes’s theory of government as resulting from a *social contract*, into which agents enter so as to leave the *state of nature*. However, it seems clear that the vast majority of interesting social phenomena, including government, involve no explicit historical act of agreement. Social conventions can arise and persist without overt convening.
+
+Partly in response to such worries, John Locke emphasized the notion of a *tacit* agreement. A tacit agreement obtains if there has been no explicit agreement but matters are otherwise *as if* an explicit agreement occurred. A principal challenge here is explaining the precise respects in which matters are just as if an explicit agreement occurred. Moreover, many philosophers argue that appeal even to “as if” agreements cannot explain linguistic meaning. What language would participants in such an agreement employ when conducting their deliberations? Bertrand Russell observes that “[w]e can hardly suppose a parliament of hitherto speechless elders meeting together and agreeing to call a cow a cow and a wolf a wolf” (1921, p. 190). As W. V. Quine asks, then, “What is convention when there can be no thought of convening?” (1969, p. xi). Some philosophers take this argument to show that language does not rest upon convention. Others, such as Lewis, take it as impetus to develop a theory of convention that invokes neither explicit nor tacit agreement.
+
+### 1.2 Conventionalism
+
+Conventionalism about some phenomenon is the doctrine that, perhaps despite appearances to the contrary, the phenomenon arises from or is determined by convention. Conventionalism surfaces in virtually every area of philosophy, with respect to such topics as property (Hume’s *Treatise of Human Nature*), justice (Hume’s *Treatise* again, Peter Vanderschraaf (2019)), morality (Gilbert Harman (1996), Graham Oddie (1999), Bruno Verbeek (2008)), geometry (Henri Poincaré (1902), Hans Reichenbach (1922), Adolf Grünbaum (1962)), Lawrence Sklar (1977)), pictorial representation (Nelson Goodman (1976)), personal identity (Derek Parfit (1984)), ontology (Rudolf Carnap (1937), Nelson Goodman (1978), Hilary Putnam (1987)), arithmetic and mathematical analysis (Rudolf Carnap (1937)), necessity (A. J. Ayer (1936)), Alan Sidelle (1989)), and almost any other topic one can imagine. Conventionalism arises in so many different forms that one can say little of substance about it as a general matter. However, a distinctive thesis shared by most conventionalist theories is that there exist *alternative* conventions that are in some sense equally good. Our choice of a convention from among alternatives is undetermined by the nature of things, by general rational considerations, or by universal features of human physiology, perception, or cognition. This element of free choice distinguishes conventionalism from doctrines such as projectivism, transcendental idealism, and constructivism about mathematics, all of which hold that, in one way or another, certain phenomena are “due to us.”
+
+A particularly important species of conventionalism, especially within metaphysics and epistemology, holds that some phenomenon is partly due to our conventions about the meaning or proper use of words. For instance, Henri Poincaré argues that “*the axioms of geometry are merely disguised definitions*,” concluding that:
+
+> The *axioms of geometry therefore are neither synthetic* a priori *judgments nor experimental facts*. They are *conventions*; our choice among all possible conventions is *guided* by experimental facts; but it remains *free* and is limited only by the necessity of avoiding all contradiction. (1902, p. 65)
+
+Poincaré holds that, in practice, we will always find it more convenient to choose Euclidean over non-Euclidean geometry. But he insists that, in principle, we could equally well choose non-Euclidean axioms. This position greatly influenced the logical positivists, including Rudolf Carnap, Moritz Schlick, and Hans Reichenbach, who generalized it to other aspects of science.
+
+Beginning with *Logical Syntax of Language* (1937/2002), Carnap developed a particularly thoroughgoing version of linguistic conventionalism. Carnap invites us to propose various linguistic frameworks for scientific inquiry. Which framework we choose determines fundamental aspects of our logic, mathematics, and ontology. For instance, we might choose a framework yielding either classical or intuitionistic logic; we might choose a framework quantifying over numbers or one that eschews numbers; we might choose a framework that takes sense data as primitive or one that takes physical objects as primitive. Questions about logic, mathematics, and ontology make no sense outside a linguistic framework, since only by choosing a framework do we settle upon the ground rules through which we can rationally assess such questions. There is no theoretical basis for deciding between any two linguistic frameworks. It is just a matter for conventional stipulation based upon pragmatic factors like convenience.
+
+Conventionalist theories differ along several dimensions. The most obvious concerns the underlying understanding of conventions themselves. In many cases, such as Hume’s theory of property and justice, the conventions are *social*. In other cases, however, convention lacks any intrinsically social element. For example, both Poincaré and Carnap seem to regard conventional stipulation as something that a lone cognitive agent could in principle achieve.
+
+Another important difference between conventionalist theories concerns what the “conventional” is contrasted with. Options include: the natural; the mind-independent; the objective; the universal; the factual; and the truth-evaluable.
+
+Poincaré’s geometric conventionalism contrasts the conventional with the truth-evaluable. According to Poincaré, there is no underlying fact of the matter about the geometry of physical space, so geometric axioms are not evaluable as true or false. Rather, the choice of an axiom system is akin to the choice of a measuring standard, such as the metric system. In many conventionalist theories, however, the idea is that our conventions somehow *make* certain facts true. Those facts may be “conventional”, “social,” or “institutional” rather than “brute” or “natural,” but they are full-fledged facts nonetheless. For instance, following Hume, it seems plausible to claim that property rights and monetary value are due largely to convention. Yet few philosophers would hold that claims about property rights or monetary value are non-truth-evaluable.[^note-2] As this example illustrates, conventionalism need not reflect an “anti-realist” or “deflationary” stance towards some subject matter.
+
+Conventionalism often entrains *relativism*. A particularly clear example is Gilbert Harman’s moral philosophy (1996), according to which moral truths result from social convention. Conventions vary among societies. One society may regard infanticide as horrific, while another may regard it as routine and necessary. Moral statements are true only relative to a conventional standard. On the other hand, as the example of property rights illustrates, one can accept that some fact is due to social convention while denying that it is relative or non-universal. For instance, one might urge, the conventions of my society make it the case that I own my house, but this fact is then true *simpliciter*, without relativization to a particular societal convention.
+
+A final division among conventionalist theories concerns whether the putative conventions inform pre-existing practice. Hume’s theory of property purports to unveil actual conventions at work in actual human societies. But some conventionalists instead urge that we must *adopt* a convention. Carnap’s conventionalist treatment of logic, mathematics, and ontology illustrates this approach. Carnap exhorts us to replace unformalized natural language with conventionally chosen formal languages. Carnap has no interest in describing pre-existing practice. Instead, he offers a “rational reconstruction” of that practice.
+
+## 2. Truth by convention
+
+Carnap’s conventionalism was the culmination of the logical positivists’ efforts to accommodate logic and mathematics within an empiricist setting. Rejecting the Kantian synthetic *a priori*, the positivists held that logic and mathematics were analytic. Kant had explained the analytic-synthetic distinction in terms of concept-containment, which struck the positivists as psychologistic and hence “unscientific.” The positivists instead treated analyticity as “truth by virtue of meaning.” Specifically, they treated it as the product of linguistic convention. For instance, we can adopt the stipulative convention that “bachelor” means “unmarried man.” “All bachelors are unmarried men” is true by virtue of this convention. The positivists sought to extend this analysis to far less trivial examples, most notably mathematical and logical truth. In this regard, they were heavily influenced by Gottlob Frege’s logicism and also by Ludwig Wittgenstein’s conception, developed in the *Tractatus Logico-Philosophicus*, of logical truths as tautologous and contentless (*sinnloss*). Alberto Coffa (1993), Michael Friedman (1999), and Warren Goldfarb (1997) offer detailed discussion of the role played by conventionalism in logical positivism.
+
+Although initially attracted to Carnap’s conventionalism, W.V. Quine eventually launched a sustained attack on it in “Truth by Convention” (1935) and “Carnap and Logical Truth” (1963). Quine’s anti-conventionalist arguments, in conjunction with his attack upon the analytic-synthetic distinction, profoundly impacted metaphysics and epistemology, casting conventionalist theories of logic, mathematics, and ontology into general disrepute.
+
+One of the Quine’s most widely cited arguments (1936), directed against a crude conventionalism about logic, traces back to Lewis Carroll. There are infinitely many logical truths. Human beings are finite, so we can explicitly stipulate only a finite number of statements. Thus, in generating all the logical truths we must eventually apply rules of inference to finitely many conventionally stipulated statements. But then we are employing logic to derive logic from convention, generating a vicious regress. Quine’s point here is not just that logic did not *in fact* come into existence through conventional truth assignment. His point is that it *could not* have thus come into existence.
+
+To avoid the Quinean regress, one might propose that we conventionally stipulate a finite number of axioms *and* a finite number of inferences rules, thereby fixing an infinite number of logical truths. The question here is what it means to “stipulate” an inference rule. We can conventionally stipulate that we will henceforth obey a certain inference rule. But that stipulation does not entail that we are *entitled* to reason in accord with the inference rule. Mere conventional stipulation that we will henceforth obey a inference rule does not ensure that the rule carries truths into truths. What if we stipulate that the inference rule carries truths into truths? Then our stipulation is merely another axiom. So we require a new inference rule to draw any consequences from it, and the regress continues.
+
+While it is doubtful that Carnap or the other positivists held the crude form of conventionalism attacked by Quine’s argument, the argument suggests that conventionalism about logic requires an account of “tacit” conventions. If logic is indeed “true by convention,” then some of the relevant conventions must apparently be “implicit” in our practice, rather than the results of explicit stipulation. So we require an account of what an “implicit” convention amounts to. Carnap offers no such account. Jared Warren (2017, 2020) attempts to meet the challenge by developing an account of “implicit” inference rules.
+
+Another Quinean argument holds that “truth by convention” offers no explanatory or predictive advantage over the far less exciting thesis that certain statements are true due to obvious features of extra-linguistic reality. For instance, we can all agree that linguistic convention makes it the case that “Everything is identical to itself” means what it does. But why should we furthermore hold that the *truth* of this sentence is due to linguistic convention, rather than to the fact that everything is indeed self-identical? According to Quine, Carnap has offered no reason for thinking that such truths are somehow vacuous as opposed to merely obvious.
+
+A final notable Quinean argument centers on the role of “conventional stipulation” in scientific theorizing. Consider a scientist introducing a new theoretical term by definitional stipulation. The new term is embroiled in an evolving body of scientific doctrine. As this body of doctrine develops, the original legislated definition occupies no privileged status. We may reject it in light of new empirical developments. Thus, “conventionality is a passing trait, significant at the moving front of science but useless in classifying the sentences behind the lines” (1954, p. 119). Hilary Putnam (1962) further develops this argument, offering the example of “kinetic energy $= \bfrac{1}{2} mv^{2}$”. Although that identity began as a stipulative definition in Newtonian mechanics, Einsteinian mechanics deems it false. Inspired by such examples, Quine rejects as untenable any distinction between statements “true by convention” or otherwise.
+
+Quine therefore rejects Carnap’s picture of science as a two-stage process: the first stage in which we conventionally stipulate constitutive aspects of our scientific language (such as its ontology or logic) based solely upon pragmatic, non-rational factors; the second in which we deploy our language by subjecting non-conventional theories to rational scrutiny. For Quine, this two-stage picture does not describe even idealized scientific inquiry. There is no clear separation between those aspects of theory choice that are solely “pragmatic” and those that are rational.
+
+These and other Quinean arguments proved extremely influential. Ultimately, many philosophers became convinced that Carnap’s conventionalist program was fundamentally flawed.[^note-3] This reaction dovetailed with additional developments inimical to conventionalism. For instance, Hilary Putnam (1963, 1974) and various later philosophers, such as Michael Friedman (1983), vigorously attacked geometric conventionalism.[^note-4]
+
+On the other hand, conventionalism still finds defenders. Lawrence Sklar (1977) advocates a refurbished version of geometric conventionalism. Alan Sidelle (1989) advocates conventionalism about necessary truth. Michael Dummett (1991), Christopher Peacocke (1987), and Dag Prawitz (1977) follow Gerhard Gentzen in treating certain fundamental inferences as “implicit definitions” of the logical connectives, a theory somewhat reminiscent of Carnap’s conventionalism about logic. Jared Warren (2020) develops the “implicit definition” approach into a systematic defense of conventionalism about logic. He also invokes implicit definition to elucidate arithmetical vocabulary (Warren 2015, 2020)[^warren-2015], defending on that basis a conventionalist treatment of arithmetical truth. Thus, the issues raised by Quine remain unresolved. Still, it seems safe to say that philosophers nowadays regard conventionalist solutions within metaphysics and epistemology more warily than philosophers from the pre-Quinean era.[^note-5]
+
+## 3. Analyzing social convention
+
+Although philosophers have always been interested in social conventions, Hume’s *Treatise* *of Human Nature* offered the first systematic analysis of what they *are*. The topic then lay dormant until Lewis revived it in *Convention*, providing an analysis heavily influenced by Hume’s but far more detailed and rigorous. Lewis’s analysis continues to shape the contemporary discussion. In this section, we briefly discuss Hume and then discuss Lewis in detail. Henceforth, “convention” means “social convention.”
+
+### 3.1 Hume
+
+Hume’s analysis of convention, while compressed, has proved remarkably fertile. As Hume puts it in the *Enquiry* *Concerning Human Understanding*, a convention is
+
+> a sense of common interest; which sense each man feels in his own breast, which he remarks in his fellows, and which carries him, in concurrence with others into a general plan or system of actions, which tends to public utility. (p. 257)
+
+On this definition, a convention prevails in a population when each member of the population plays his part in some system of actions because he perceives that it is in his interest to do so, given that others perceive it is in their interests to do so. Several features of this definition deserve emphasis. First, a convention contributes to the mutual benefit of its participants. Second, a convention need not result from explicit promise or agreement. Third, each participant believes that other participants obey the convention. Fourth, given this belief, each participant has reason to obey the convention herself. This fourth point emerges even more sharply in the *Treatise*: “the actions of each of us have a reference to those of the other, and are perform’d upon the supposition, that something is to be perform’d on the other part” (p. 490). Hume illustrates his approach with the memorable example of two men sitting in a row-boat. In order to move at all, they must synchronize their rowing, which they do without any explicit agreement.
+
+Having clarified convention, Hume deploys it to illuminate property, justice, promising, and government. In each case, Hume offers a broadly conventionalist account (see the entry on Hume’s moral philosophy for details). For instance, property emerges from the state of nature through a social convention “to bestow stability on the possession of those external goods, and leave every one in the peaceable enjoyment of what he may acquire by his fortune and industry” (*Treatise*, p. 489). This convention makes it the case that certain goods are “owned” by certain people, who enjoy exclusive rights to their use or dispensation. Similarly, Hume argues that the obligation to keep one’s promises is intelligible only with reference to convention that, when one employs a certain “form of words” (e.g., “I promise to $j$”), one thereby expresses a resolution to $j$ and subjects oneself to penalty if one does not $j$.
+
+In both the *Treatise* and “Of the Original Contract,” Hume rejects a Hobbesian conception of government as arising from the state of nature through a social contract. Hume offers various criticisms, but a particularly fundamental objection is that Hobbes adopts a misguided order of explanation. Hobbes explains government as the result of phenomena, such as *promising* or *contracting*, that themselves rest upon convention and hence could not arise in a pure state of nature. Hume contends that promising and government arise independently, albeit in the same basic way and from the same basic source: convention.[^note-6]
+
+Perhaps the most notable feature of Hume’s account is that it provides a detailed model of how social order can arise from rational decisions made by individual agents, without any need for either explicit covenant or supervision by a centralized authority. In this respect, Hume’s discussion prefigures Adam Smith’s “invisible hand” analysis of the marketplace.
+
+### 3.2 Lewis
+
+Lewis (1969) develops a broadly Humean perspective by employing game theory, the mathematical theory of strategic interaction among instrumentally rational agents. Drawing inspiration from Thomas Schelling’s *The Strategy of Conflict* (1960), Lewis centers his account around the notion of a *coordination problem*, i.e., a situation in which there are several ways agents may coordinate their actions for mutual benefit.
+
+Suppose $A$ and $B$ want to meet for dinner. They can choose between two restaurants, Luigi’s and Fabio’s. Each agent is indifferent between the two restaurants, and each agent prefers meeting the other one to not meeting. We represent this situation through a *payoff matrix*:
+
+*Restaurant Rendezvous Payoff Matrix*
+
+|   | Luigi’s | Fabio’s |
+| --- | --- | --- |
+| Luigi’s | 1, 1 | 0, 0 |
+| Fabio’s | 0, 0 | 1, 1 |
+
+Restaurant Rendezvous Payoff Matrix
+
+The rows (respectively, columns) represent $A$’s (respectively, $B$’s) possible *strategies*: in this case, their two restaurant options. Each cell contains the respective *payoffs* for $A$ and $B$ for a given strategy combination. Since there are two incompatible ways that $A$ and $B$ might achieve a mutually desirable result, the two “players” must coordinate their actions.
+
+In several respects, Restaurant Rendezvous is an unrepresentative coordination problem. First, $A$ and $B$ must perform the *same* action in order to achieve the desired result. Second, $A$ and $B$ achieve identical payoffs in each circumstance. The following payoff matrix represents a coordination problem lacking these two properties:
+
+*Telephone Tag Payoff Matrix*
+
+|   | Call back | Wait |
+| --- | --- | --- |
+| Call back | 0, 0 | 1, 2 |
+| Wait | 2, 1 | 0, 0 |
+
+Telephone Tag Payoff Matrix
+
+As an intuitive interpretation, imagine that $A$ and $B$ are speaking on the phone but that they are disconnected. Who should call back? Each would prefer that the other call back, so as to avoid paying for the call. However, each prefers paying for the call to not talking at all. If both try to call back, then both will receive a busy signal. The payoff matrix summarizes this situation. This kind of case is sometimes called an *impure coordination problem*, since it enshrines a partial conflict of interest between players.
+
+Coordination problems pervade social interaction. Drivers must coordinate so as to avoid collisions. Economics agents eliminate the need for barter by coordinating upon a common monetary currency. In many such cases, there is no way to communicate in advance, and there is no centralized authority to impose order. For instance, prisoners in POW camps converge without any centralized guidance upon a single medium of exchange, such as cigarettes.
+
+Lewis analyzes convention as an arbitrary, self-perpetuating solution to a recurring coordination problem. It is self-perpetuating because no one has reason to deviate from it, given that others conform. For example, if everyone else drives on the right, I have reason to as well, since otherwise I will cause a collision. Lewis’s analysis runs as follows (1969, p. 76):
+
+> A regularity $R$ in the behavior of members of a population $P$ when they are agents in a recurrent situation $S$ is a convention if and only if it is true that, and it is common knowledge in $P$ that, in any instance of $S$ among members of $P$,
+>
+> (1) everyone conforms to $R$;
+>
+> (2) everyone expects everyone else to conform to $R$;
+>
+> (3) everyone has approximately the same preferences regarding all possible combinations of actions;
+>
+> (4) everyone prefers that everyone conform to $R$, on condition that at least all but one conform to $R$;
+>
+> (5) everyone would prefer that everyone conform to $R'$, on condition that at least all but one conform to $R'$,
+>
+> where $R'$ is some possible regularity in the behavior of members of $P$ in $S$, such that no one in any instance of $S$ among members of $P$ could conform both to $R'$ and to $R$.
+
+Lewis finally settles upon a modified analysis that allows occasional exceptions to conventions. The literature spawned by Lewis’s discussion tends to focus on the exceptionless characterization given above.
+
+Lewisian convention is a special case of *Nash equilibrium*, the central idea behind modern game theory. An assignment of strategies to players is a Nash equilibrium iff no agent can improve his payoff by deviating unilaterally from it. An equilibrium is *strict* iff each agent *decreases* his payoff by deviating unilaterally from it. Intuitively, a Nash equilibrium is a “steady state”, since each player behaves optimally, given how other players behave. In this sense, Nash equilibrium “solves” the strategic problem posed by a game, so it is sometimes called a “solution concept”. However, Lewisian convention goes well beyond Nash equilibrium. In a Lewisian convention, everyone prefers that *everyone else* conform if at least all but one conform. Equilibria with this property are sometimes called *coordination equilibria*.
+
+By classifying $R$ as a convention only if there is some alternative regularity $R'$ that could serve as a convention, Lewis codifies the intuitive idea that conventions are *arbitrary*. This was one of the most widely heralded features of Lewis’s definition, emphasized by both Quine (1969) and Putnam (1981).
+
+Notably, Lewis introduces the concept of *common knowledge*. Roughly, $p$ is common knowledge iff everyone knows $p$, everyone knows that everyone knows $p$, everyone knows that everyone knows that everyone knows that $p$, etc. The subsequent game-theoretic and philosophical literature offers several different ways of formalizing this intuitive idea, due to researchers such as Robert Aumann (1976) and Stephen Schiffer (1972). The precise relation between these later formalizations and Lewis’s own informal remarks is controversial. Robin Cubitt and Robert Sugden (2003) argue that Lewis’s conception of common knowledge is radically different from the later formalizations, while Peter Vanderschraaf (1998) and Giacomo Sillari (2005) downplay the differences. See the entry on common knowledge for discussion of this controversy and of how common knowledge informs both game theory and the philosophical study of convention.
+
+In the later paper “Languages and Language” (1975/1983), Lewis significantly altered his analysis of convention. See section 7, Conventions of language, for details.
+
+## 4. Critical reactions to Lewis
+
+Most subsequent discussions take Lewis’s analysis as a starting point, if only as a foil for motivating some alternative. Many philosophers simply help themselves to Lewis’s account without modifying it. On the other hand, virtually every element of Lewis’s account has attracted criticism during the past few decades. For instance, Ken Binmore (2008) and Richard Moore (2013) attack the “common knowledge” condition in Lewis’s analysis. In this section, we will review some prominent criticisms of Lewis’s account.
+
+### 4.1 Regularities *de facto* and *de jure*
+
+Lewis’s definition of convention demands complete or near-complete conformity. Many commentators object that this is too strict, excluding conventions “more honored in the breach than the observance.” To take Margaret Gilbert’s example (1989), there might be a convention in my social circle of sending thank-you notes after a dinner party, even though few people actually observe this convention anymore. Lewis must deny that sending thank-you notes is a convention, a verdict which Gilbert and other commentators find unintuitive. Wayne Davis (2003) and Ruth Millikan (2005) develop similar objections.
+
+This objection sometimes accompanies another: that Lewis overlooks the essentially *normative* character of conventions. The idea is that conventions concern not just how people actually behave but also how they *should* behave. In other words, conventions are regularities not (merely) *de facto*, but *de jure*. For instance, if there is a convention that people stand a certain distance from one another when conversing, then it seems natural to say that people *should* stand that distance when conversing. It is not obvious that Lewis can honor these intuitions, since his conceptual analysis does not mention normative notions. On this basis, Margaret Gilbert (1989) and Andrei Marmor (1996) conclude that Lewis has not provided sufficient conditions for a convention to prevail among some group.
+
+A closely related idea is that violations of convention elicit some kind of *sanction*, such as tangible punishment or, more commonly, negative reactive attitudes. Lewis emphasizes the *self-perpetuating* character of convention: one conforms because it is in one’s interest to conform, given that others conform. But, the argument goes, this emphasis overlooks a distinct enforcement mechanism: non-conformity elicits some kind of sanction from other people.
+
+Lewis (1969, pp. 97–100) anticipates such objections and attempts to forestall them. He argues that conventions will tend to become norms. Once a convention prevails in some population, any member of the population will recognize that others expect him to conform to it and that they prefer he do so. He will also recognize that by conforming, he will comply with his own preferences. It follows that he *ought* to conform, since, other things being equal, one ought to do what answers both to one’s own preferences and to those of other people. Moreover, if people see that he fails to conform, then they will tend to sanction him through punishment, reproach, or distrust, since they will see that he acts contrary both to his own preferences and to theirs. To some extent, this argument recalls Hume’s argument in the *Treatise* that conventions of property generate moral norms. Robert Sugden (1986/2004) develops the line of thought in more detail.
+
+Gilbert responds to such arguments by noting that, even if they show that conventions have a tendency to *acquire* normative force, they do not show that normativity is essential to convention. Theoretically, it seems possible for rational agents to instantiate a Lewisian convention without regarding it as a norm and without making any effort to enforce the convention through sanctions. Thus, Gilbert concludes, Lewis’s account does not preserve the intrinsic link between convention and normativity.
+
+Even if one sympathizes with this objection, how to elucidate more systematically the normativity of convention remains unclear. It does not seem to be the normativity of morality, since someone who violates some convention of, say, etiquette or fashion need not thereby act immorally. Nor is it straightforwardly reducible to the normativity of instrumental rationality: many philosophers want to say that, other things being equal, one should conform to convention quite independently of whatever one’s beliefs and desires happen to be. (“You really ought to send a thank-you note.”) What is this mysterious brand of normativity, which apparently derives from neither morality nor instrumental rationality? That question is still a focus of active philosophical research.
+
+### 4.2 Alternative conventions?
+
+Seumas Miller (2001) deploys an example of Jean-Jacques Rousseau to question whether a convention must have a conventional alternative. In Rousseau’s example, agents stationed throughout a forest must decide whether to hunt stag or hunt hares. Hunting stag yields a higher pay-off for everyone, but only if all other players hunt stag as well. We can represent a two-person stag hunt through the following pay-off matrix:
+
+*The Stag Hunt Payoff Matrix*
+
+|   | Hunt Stag | Hunt Hare |
+| --- | --- | --- |
+| Hunt Stag | 2, 2 | 0, 1 |
+| Hunt Hare | 1, 0 | 1, 1 |
+
+The Stag Hunt Payoff Matrix
+
+Miller argues that, on Lewis’s definition of “convention,” hunting hares is not a possible convention, since a player who chooses to hunt rabbits does not prefer that the other player do likewise. Miller argues that this result accords with intuition. He furthermore argues that hunting stag $is$, intuitively speaking, a possible convention. He concludes that Lewis errs by requiring convention to have a conventional alternative.
+
+Tyler Burge (1975) develops a related but distinct worry. He agrees with Lewis that convention must have a conventional alternative, but he denies that participants must *know* of such an alternative. Burge offers as an example a primitive, isolated society with a single language. Members of this society believe, as a matter of religious principle, that theirs is the only possible language. Nevertheless, Burge argues, their linguistic practice is governed by convention. Burge concludes that Lewis adopts an overly “intellectualist” conception of convention, one that credits participants in convention with far more rational self-understanding than they necessarily possess. While Burge agrees with Lewis that conventions are arbitrary, he thinks that “the arbitrariness of conventions resides somehow in the ‘logic of the situation’ rather than in the participants’ psychological life” (p. 253). For Burge, the arbitrariness of a convention consists in the following facts: the conventions operative within a society emerge due to historical accident, not biological, psychological or sociological law; and, with effort comparable to that expended in learning the original convention, parties to the convention *could have* instead learned an incompatible convention that would have served roughly the same social purpose.
+
+### 4.3 Dichotomy or degree?
+
+Some authors question whether there is a sharp dichotomy between the conventional and the non-conventional. They urge that conventionality should instead be viewed as a matter of degree. Lewis himself anticipates this viewpoint (1969, pp. 76–80). He articulates a notion of *degree of conventionality* that measures the extent to which members of a population satisfy the various clauses in his definition. However, some authors contend that Lewis does not go far enough in acknowledging the extent to which conventionality is a matter of degree. Mandy Simons and Kevin Zollman (2019) target the notion of *arbitrariness*. They claim that whether a solution to a coordination problem counts as arbitrary is itself a matter of degree, depending on factors such as how likely the solution is to emerge and how likely it is to persist if it does emerge. Cailin O’Conner (2021) agrees, articulating an information-theoretic measure of arbitrariness that targets likelihood of emergence. Her analysis yields a continuum of arbitrariness rather than a rigid dichotomy between the arbitrary and the non-arbitrary. She maintains that her analysis “pushes strongly against a framework where we class outcomes into ‘conventional’ and ‘not conventional.’ Instead we should expect that almost everything is at least a little conventional, and focus on the diversity of cases within the category of ‘convention’(p. 586)”. She applies her degree-theoretic viewpoint to several social and linguistic phenomena, such as the conventionality of color vocabulary.
+
+### 4.4 Which equilibrium concept?
+
+The game-theoretic literature contains numerous solution concepts that either generalize or refine Nash equilibrium. Various commentators suggest that a proper analysis of convention requires one of these alternate solution concepts. For instance, Robert Sugden (1986/2004) analyzes convention as a system of evolutionarily stable strategies. On this approach, not only are conventions self-enforcing, but they have an additional stability property: once established, they can resist invasion by deviant agents trying to establish a new convention. Sugden argues that this approach illuminates a wide range of social phenomena, including familiar examples such as money and property.
+
+Another widely discussed solution concept is *correlated equilibrium*, introduced by Robert Aumann (1974, 1987). To illustrate this generalized concept, consider a modified version of Restaurant Rendezvous. In the new version (sometimes called “Battle of the Sexes”), each agent prefers a different restaurant, although both agents prefer meeting to not meeting. We represent this situation with the following payoff matrix:
+
+*Battle of the Sexes Payoff Matrix*
+
+|   | Luigi’s | Fabio’s |
+| --- | --- | --- |
+| Luigi’s | 2, 1 | 0, 0 |
+| Fabio’s | 0, 0 | 1, 2 |
+
+Battle of the Sexes Payoff Matrix
+
+This game has two “pure” Nash equilibria: one in which both players go to Luigi’s, the other in which both go to Fabio’s. Intuitively, neither equilibrium is fair, since one player achieves a higher payoff than the other. The game also has a “mixed-strategy” Nash equilibrium: that is, an equilibrium in which each agent chooses his strategy based upon the outcome of a randomizing device. Specifically, the game has a mixed-strategy equilibrium in which $A$ goes to Luigi’s with probability $\bfrac{2}{3}$ and $B$ goes to Luigi’s with probability $\bfrac{1}{3}$. $A$’s expected payoff from this equilibrium is given as follows, where “$Prob(x, y)$” denotes the probability that $A$ goes to $x$ and $B$ goes to $y$:
+
+$$\begin{align} A\text{’s expected payoff} &= Prob(\text{Luigi’s, Luigi’s})\times 2 \\ &\quad + Prob(\text{Luigi’s, Fabio’s})\times 0 \\ &\quad + Prob(\text{Fabio’s, Luigi’s})\times 0 \\ &\quad + Prob(\text{Fabio’s, Fabio’s})\times 1 \\ &= \bfrac{2}{9}\times 2 + \bfrac{2}{9} \times 0 + \bfrac{2}{9} \times 0 + \bfrac{2}{9} \times 1 \\ &= \bfrac{2}{3}. \end{align}$$
+
+Similarly, $B$’s expected payoff is $\bfrac{2}{3}$. Neither player can improve upon this payoff by deviating from the mixed-strategy equilibrium, given that the other player is playing her end of the equilibrium. This equilibrium is fair, in that it yields the same expected payoff for both players. But it also yields a lower expected payoff for each player than either pure equilibrium, since there is a decent chance that the players’ separate randomizing devices will lead to them to different restaurants.
+
+If the players can contrive to correlate their actions with a *common* randomizing device, they can achieve a new equilibrium that is fair and that Pareto dominates the old mixed-strategy equilibrium. More specifically, suppose that there is a *single* coin toss: each player goes to Luigi’s if the toss is heads, Fabio’s if the toss is tails. The resulting strategy combination yields an expected payoff of $\bfrac{3}{2}$ for each player. Intuitively, this strategy combination is an equilibrium, since no player has reason to deviate unilaterally from it. But the strategy combination does not count as a *Nash* equilibrium of the original game, since in mixed Nash equilibria players’ actions must be probabilistically independent. Aumann calls this strategy combination a *correlated equilibrium*, since players’ actions are probabilistically correlated. He develops this intuitive idea in great formal detail, without reliance upon explicit pre-game communication between players.
+
+Building upon Aumann’s formal treatment, Brian Skyrms (1996) and Peter Vanderschraaf (1998b, 2001) argue that we should treat convention as a kind of correlated equilibrium. For example, consider the convention that drivers at traffic intersections correlate their actions with the color of the traffic signal. As the restaurant and traffic examples illustrate, correlated equilibria often provide far more satisfactory solutions to coordination problems than one could otherwise achieve.
+
+Skyrms (2023) also discusses a solution concept, *coarse correlated equilibrium*, that generalizes correlated equilibrium. The difference between correlated equilibrium and coarse correlated equilibrium is this. In a correlated equilibrium, the player receives a recommendation from the randomizing device, and she cannot improve her expected payoff by deviating from that recommendation. In a *coarse* correlated equilibrium, the player knows in advance that deviation from the device’s recommendations does not improve expected payoff *as computed before she receives any specific recommendation*. Coarse correlated equilibrium allows (while mere correlated equilibrium does not allow) that the agent would like to deviate from the device’s recommendation after she learns its specific recommendation. For that reason, coarse correlated equilibria may not have the kind of stability one would usually expect from conventions. Skyrms introduces the term *quasi-convention*, to highlight that coarse correlated equilibrium gives rise to a notion sharing some but not all important features with our intuitive concept of convention.
+
+### 4.5 Must convention solve a coordination problem?
+
+Wayne Davis (2003), Andrei Marmor (1996, 2009), Seumas Miller (2001), Robert Sugden (1986/2004), and Peter Vanderschraaf (1998) argue that conventions need not be coordination equilibria. For instance, Davis claims that fashion conventions do not solve coordination problems, since we do not usually care how other people dress.
+
+To develop this objection, Sugden introduces *conventions of property* and *conventions of reciprocity*, neither of which solves coordination problems. He illustrates the former with the Hawk-Dove game (also sometimes called “Chicken”):
+
+*Hawk-Dove Payoff Matrix*
+
+|   | Dove | Hawk |
+| --- | --- | --- |
+| Dove | 1, 1 | 0, 2 |
+| Hawk | 2, 0 | $\bfrac{1}{2},$ $\bfrac{1}{2}$ |
+
+Hawk-Dove Payoff Matrix
+
+The intuitive interpretation here is that two people faced with an item of value 2 must decide whether to fight for it (Hawk) or share it (Dove). If both play Dove, then they split it. If one plays Hawk and the other Dove, then the Hawk gets the entire good. If they both play Hawk, then they again split it, but its value is reduced by half to reflect the cost of fighting. This game has no coordination equilibrium. However, consider the following strategy for recurring instances of the game: “If you are already in possession of the relevant item, then play *Hawk*; otherwise, play *Dove*.” It is an equilibrium for both players to play this strategy. (More technically, following Skyrms (1996), we might regard this strategy combination as a correlated equilibrium.) Sugden argues that such an equilibrium might emerge as a convention among agents who repeatedly play Hawk-Dove. But the equilibrium is not a convention according to Lewis’s definition. If I play my end of it, I do not prefer that other people do likewise. I prefer that others play Dove. Thus, the equilibrium lacks one of the main characteristics emphasized by Lewis: a preference for general conformity over slight-less-than-general conformity.
+
+Sugden illustrates conventions of reciprocity with the Prisoner’s Dilemma, which has the following payoff matrix:
+
+*Prisoner’s Dilemma Payoff Matrix*
+
+|   | Cooperate | Defect |
+| --- | --- | --- |
+| Cooperate | 2, 2 | 0, 3 |
+| Defect | 3, 0 | 0, 0 |
+
+Prisoner’s Dilemma Payoff Matrix
+
+The original intuitive interpretation of this payoff matrix is that the police are separately interrogating two prisoners, each of whom must decide whether to cooperate with the other prisoner by remaining silent or whether to “defect” by confessing. If both cooperate, then both receive very light sentences. If both defect, then both receive very harsh sentences. If one defects and the other cooperates, then the defector goes free while the cooperator receives a harsh sentence. Although this scenario may seem rather contrived, we can model many common social interactions as instances of Prisoner’s Dilemma. Sugden offers as an example two academics who exchange houses for their sabbaticals. Each academic must decide whether to maintain the other’s house in good condition, even though leaving it a mess would be easier.
+
+Prisoner’s Dilemma has no coordination equilibrium. Yet Sugden argues that the following “tit-for-tat” strategy might emerge as a convention when players repeatedly play Prisoner’s Dilemma over some indefinite period (e.g., two academics with a standing arrangement to exchange houses every summer): co-operate as long as your opponent cooperates; if your opponent defects, then defect for some prescribed number of rounds $r$ as retaliation before cooperating again; if your opponent cooperates but you defect by mistake, then accept your opponent’s punishment in the next $r$ rounds without retaliating. This equilibrium is not a convention in Lewis’s sense, since one always prefers that one’s opponent cooperate rather than defect.
+
+In response to such examples, Sugden (1986/2004) and Vanderschraaf (1998b) develop generalized game-theoretic analyses that do not require convention to solve a coordination problem. In practice, the necessary revisions to Lewis’s account are not very sweeping, since they basically amount to excising clause (4) from his conceptual analysis. Vanderschraaf (1998a) argues that these revisions yield a theory closer to Hume’s original account.
+
+Marmor (2009) also questions Lewis’s focus on coordination problems. Marmor emphasizes actual games, such as chess, rather than the “games” primarily studied by game theorists, such as Prisoner’s Dilemma. According to Marmor, the rules of chess are conventions that do not solve a coordination problem. Chess playing activity does not involve coordinating one’s actions with those of other players, in anything like the sense that driving on the right side of the road (rather than the left) involves coordination among agents. Drawing on John Searle’s (1969) discussion of “constitutive rules,” Marmor argues that Lewis has overlooked an important class of conventions, which Marmor calls “constitutive conventions,” modeled after the rules of a game. Roughly, a constitutive convention helps “constitute” a social practice, in the sense that it helps define what the practice is and how to engage in it correctly. Marmor offers a generalized analysis designed to accommodate both Lewisian conventions and constitutive conventions. The analysis resembles Lewis’s, but it makes no mention of coordination problems, and it contains no reference to common knowledge.
+
+## 5. Equilibrium selection
+
+Lewis requires that a convention be one among several possible alternatives. Even if one follows Miller in rejecting that requirement, it seems clear that there are many cases, such as the choice of monetary currency, where we must select from among numerous candidate conventions. This raises the question of how we select a particular candidate. An analogous question arises for game theory more generally, since a game may have many Nash equilibria. It is rational to play my part in a Nash equilibrium, *if I believe that other agents will play their parts*. But why should I believe that others will play their parts in this particular equilibrium? If we assume that players cannot engage in pre-game communication, three basic answers suggest themselves: players converge upon a unique equilibrium through rational reflection on the logic of their strategic situation; or they are guided by psychological factors outside the ambit of purely rational analysis; or they learn from prior experience which equilibrium to choose. One might also combine these three suggestions with one another.
+
+A venerable game-theoretic tradition embraces the first suggestion. The hope is that, if we assume enough common knowledge among players about the game’s payoff structure and their own rationality, then, through relatively *a priori* reasoning, they can successfully predict which equilibrium others will select. An early example of this explanatory tradition is the method of backwards induction, introduced by Ernst Zermelo (1913). The tradition culminates in John Harsanyi and Reinhard Selten’s *A General Theory of Equilibrium Selection* (1988). However, few researchers still champion this tradition. Its basic flaw is already apparent from our simplest coordination problem, Restaurant Rendezvous. Nothing intrinsic either to rationality or to the logic of the situation favors one equilibrium over the other. Indeed, Harsanyi and Selten’s theory dictates that each player choose a mixed-strategy randomizing over Luigi’s and Fabio’s. Clearly, then, Harsanyi and Selten cannot explain how, in a wide variety of cases, people converge upon a unique, non-randomized solution. Nor does it seem likely that we can overcome this difficulty by emending our analysis of rationality or refining our solution concept. Apparently, breaking the tie between otherwise symmetrical equilibria requires us to supplement the austere viewpoint of pure rational analysis with some additional input, either from human psychology or else from experience.
+
+### 5.1 Salience
+
+Following Thomas Schelling (1960), who introduced the notion of a *focal point*, Lewis argues that agents will select the *salient* convention. A convention is salient (it is a focal point) if it “stands out” from the other choices. A candidate convention might acquire salience through precedent, explicit agreement, or its own intrinsic properties. Schelling conducted a famous experiment to illustrate the concept of salience. He asked subjects to choose a time and place to meet a friend on a given day in New York City, without any possibility of prior communication about where or when to meet. Most respondents chose noon at Grand Central Station. Somehow, then, this choice stands out as the most conspicuous. As Schelling’s example illustrates, salience is a “subjective” psychological trait that does not follow in any obvious way from the rational structure of the strategic situation. Hume already anticipated a role for subjective psychological traits, noting that our choice of convention often depends upon “the imagination, or the more frivolous properties of our thought and conception” (*Treatise*, p. 504, note 1).
+
+Salience plays two distinct roles in Lewis’s account, corresponding to the following two questions: *How do conventions arise?* and *Why do people conform to convention*? The former question concerns dynamics (i.e., the factors governing how conventions originate and evolve over time), while the latter concerns statics (specifically, the rational structure that sustains a convention at a given moment). Lewis’s answer to the first question is that agents initially select some equilibrium either by chance, agreement, or intrinsic salience. The equilibrium gradually becomes more salient through precedent, until eventually it becomes a convention. Lewis’s answer to the second question is that a pre-existing convention is so overwhelmingly salient that agents expect one another to abide by it, an expectation which furnishes reason to conform.
+
+Philosophers have heavily criticized Lewis’s reliance upon salience, arguing that the notion of salience is obscure, or that there is often no salient option among candidate conventions, or that precedence does not confer salience, or that Lewis fails to integrate salience into the formal game-theoretic framework that otherwise shapes his discussion. Margaret Gilbert (1989) argues that salience cannot provide a reason for action: merely observing that some possible convention is salient tells us nothing, because we cannot assume that others will abide by the most salient convention. In a similar vein, Brian Skyrms (1996) asks how it comes to be common knowledge that others will choose the salient equilibrium over the alternatives.
+
+Despite these criticisms, many authors over the intervening decades, such as Robert Sugden (1986/2004, 2011) and Ken Binmore and Larry Samuelson (2006), have argued that a satisfactory theory of equilibrium selection requires something like Lewis’s notion of salience. Note also that, even if the foregoing criticisms are legitimate, they do not impugn Lewis’s analysis of what conventions *are*. They only show that Lewis has not offered a complete theory of how conventions are chosen, how they evolve, and how they sustain themselves.
+
+### 5.2 Dynamical models
+
+Another popular approach to equilibrium selection is broadly *dynamical*. The dynamical approach, a branch of evolutionary game theory, develops formal models of how strategy choice evolves in a population whose members repeatedly play some game against each another. In contrast with “static” game theory (i.e., the study of equilibria), dynamical models incorporate an explicitly temporal parameter. The basic goal is to study the conditions under which dynamical models with various properties tend to converge to static equilibria with various properties.
+
+Dynamical models of equilibrium selection differ along several dimensions. Does the model depict learning by individual players or aggregate trends in the population as a whole? How much rationality does the model attribute to players? Is the model deterministic or stochastic? Do players have limited or unlimited memory of past events? How much common knowledge do players have about the game’s payoff structure? Can players learn about the results of interactions in which they do not participate? Do the same players participate in each round of play, or are the players repeatedly drawn anew from a larger population? Is that larger population modeled as finite or infinite? An overview of the burgeoning and forbiddingly technical literature on these questions falls beyond the scope of this article. We confine attention here to three developments: replicator dynamics; fictitious play; and sophisticated Bayesian learning. Interested readers should consult the detailed surveys offered by Drew Fudenberg and David Levine (1998) and H. Peyton Young (2004).
+
+*Replicator dynamics*: In this deterministic model, introduced by Peter Taylor and Leo Jonker (1978), the proportion of players choosing some strategy grows proportionally to the difference between that strategy’s mean payoff and the mean payoff for the population as a whole. The model does not describe how the behavior of individual players changes over time. Rather, the model describes aggregate trends in the population as a whole.
+
+A *stable steady state* of a dynamical system is a state $s$ with the following two features: once the system enters $s$, it never leaves it; and once the system approaches “close enough” to $s$, then it always remains near $s$. The *basin of attraction* of $s$ is the set of states such that, if the dynamical system begins in one of those states, then it will eventually converge towards $s$. In many cases, the best way to understand a dynamical system is to construct a “phase portrait” diagramming its steady states and their basins of attraction. In the case of interest to us here, the “state” of a dynamical system is simply the proportion of players choosing each strategy.
+
+Two easy formal results convey the flavor of research on replicator dynamics: every stable steady state of replicator dynamics is a Nash equilibrium; and every evolutionarily stable equilibrium is a stable steady state of replicator dynamics.
+
+Replicator dynamics originated within evolutionary biology. Subsequently, game theorists such as Larry Samuelson (1997) have argued that it illuminates social interaction among humans. Within philosophy, Brian Skyrms (1996, 1998) argues that replicator dynamics shows how conventions of property and linguistic meaning could evolve without any need for Lewisian “salience.” He places particular emphasis upon *signaling games*, that is, games in which a sender wishes to communicate a message to a receiver, a message determining which action from among a fixed repertoire the receiver will perform. (See section 7.1 for more detail on signaling games.) For certain signaling games, replicator dynamics almost always converges to an evolutionarily stable signaling convention. Which convention emerges depends solely upon chance facts about players’ initial propensities to adopt various strategies (i.e., the basin of attraction from which the system happens to begin). As Skyrms puts it, “*[w]hich signaling system is selected is a matter of chance, not of salience*” (1996, p. 93).
+
+Despite the popularity of replicator dynamics, critics such as H. Peyton Young (1998) remain skeptical. The most natural motivation for replicator dynamics is biological. We conceptualize players as animals genetically programmed to exhibit certain behaviors. Creatures who achieve higher payoffs have higher reproductive fitness, and they pass their strategy choices along to their progeny. Natural selection therefore causes certain behaviors to become more prevalent. Under these assumptions, replicator dynamics seems plausible. But it is not clear that a comparable rationale applies to human interaction, since humans generally act not based solely upon their genetic programming but rather upon their beliefs and desires. Why should the choices of individual human agents yield the pattern described by replicator dynamics?
+
+In response to this worry, theorists try to derive replicator dynamics from models of individual adaptive behavior. Some models posit that people tend to imitate the behavior of others, based either on how popular or how successful that behavior seems. Other models posit some kind of reinforcement mechanism. Neither approach accords very well with the traditional preference among both philosophers and economists for *rational* explanations. Samuelson (1997, p. 23) responds that such approaches may nevertheless be appropriate “if we are interested in people, rather than ideally rational agents.” But it is hardly obvious that our best cognitive science of actual human psychology will eschew rational explanation in favor of the psychological mechanisms currently being invoked to underwrite replicator dynamics.
+
+*Fictitious play*: George Brown (1951) introduced fictitious play as “pre-play” reasoning, in which a player mentally simulates repeated trials of a game against an imaginary opponent so as to predict her real opponent’s actions. The phrase “fictitious play” has become a misnomer, because researchers now typically apply it to models in which players learn based upon their actual experience of repeated play. In paradigmatic fictitious play models, each player plays a “best reply” to the observed historical frequency of her opponents’ past actions. This policy is rational if: the player assumes that each opponent plays some stationary (either pure or mixed) strategy; the player employs Bayesian updating to determine the probability that each opponent will perform a given action in the next round; and the player seeks to maximize her expected payoff for that round based upon her current probability distribution over her opponents’ actions. It is easy to show that, if players engaged in fictitious play enter into a strict Nash equilibrium, then they stay in it forever. Moreover, there are some circumstances (e.g., zero-sum two-person games) in which fictitious play converges to Nash equilibrium behavior. However, as Lloyd Shapley (1964) first showed, there are games in which fictitious play does not always converge to equilibrium behavior.
+
+The literature explores many different variations on this theme. One can restrict how many past trials the player remembers or how much weight the player places upon older trials. One can embed the player in a large population and restrict how much a player knows about interactions within that population. One can introduce a “neighborhood structure,” so that players interact only with their neighbors. One can introduce a stochastic element. For instance, building on work of M. I. Friedlin and A. D. Wentzell (1984) and Michihiro Kandori, George Mailath, and Rafael Rob (1993), H. Peyton Young (1993, 1996, 1998) develops a model of how conventions evolve in which each player chooses a “best reply” with probability $1-\varepsilon$ and some random strategy with probability $\varepsilon$. One can also generalize the fictitious play framework to accommodate correlated equilibrium. Peter Vanderschraaf (2001) explores a variant of fictitious play in which a player frames hypotheses about correlations between her opponents’ strategies and external events. Applying this framework to convention, he argues that we can treat the emergence of correlated equilibrium conventions as an instance of rational belief-fixation through inductive deliberation.
+
+Fictitious play does not attribute knowledge of other people’s payoffs or their rationality. It does not depict players as reasoning about the reasoning of others. Instead, it depicts players as performing a mechanical statistical inference that converts an action’s observed historical frequency into a prediction about its future probability of recurrence. For this reason, critics such as Ehud Kalai and Ehud Lehrer (1993) contend that fictitious play attributes to players insufficient recognition that they are engaged in *strategic* interaction. For instance, a player who reasons in accord with fictitious play implicitly assumes that each opponent plays some stationary (either pure or mixed) strategy. This assumption overlooks that her opponents are themselves updating their beliefs and actions based upon prior interaction. It also prevents players from detecting patterns in the data (such as an opponent who plays one strategy in odd-numbered trials and another strategy in even-numbered trials). Moreover, fictitious play instructs a player to maximize her expected payoff for the *current* round of play. This “myopic” approach precludes maximizing one’s future expected payoff at the price of lowering one’s current payoff (e.g., playing Hawk rather than Dove even if I expect my opponent to do likewise, since I believe that I can eventually “teach” my opponent to back down and play Dove in future rounds).
+
+*Sophisticated Bayesian learning*: This approach, initiated by Paul Milgrom and John Robert (1991), replaces the rather crude statistical inference posited by fictitious play with a more refined conception of inductive deliberation. Specifically, it abandons the questionable assumption that one faces stationary strategies from one’s opponents. Ehud Kalai and Ehud Lehrer (1993) offer a widely discussed model of sophisticated Bayesian learning. Players engaged in an infinitely repeated game constantly update probability distributions defined over the set of possible strategies played by their opponents, where a strategy is a function from the set of possible histories to the set of possible actions. At each stage, a player chooses an action that maximizes the expected value of her payoffs for the *entire* future sequence of trials, not just for the present trial. This approach allows a player to discern patterns in her opponents’ behavior, including patterns that depend upon her own actions. It also allows her to sacrifice current payoff for a higher expected long-term payoff. Kalai and Lehrer prove that their procedure almost always converges to something approximating Nash equilibrium, under the crucial assumption (the “grain of truth” assumption) that each player begins by assigning positive probability to all strategies that actually occur.
+
+Critics such as John Nachbar (1997) and Dean Foster and H. Peyton Young (2001) argue that there is no reason to accept the “grain of truth” assumption. From this perspective, Kalai and Lehrer merely push the problem back to explaining how players converge upon a suitable set of prior probabilities satisfying the “grain of truth” assumption. Although Kalai and Lehrer’s proof actually requires only a somewhat weakened version of this assumption, the problem persists: sophisticated Bayesian learning converges to Nash equilibrium only under special assumptions about players’ prior coordinated expectations, assumptions that players might well fail to satisfy.
+
+Sanjeev Goyal and Maarten Janssen (1996) develop this criticism, connecting it with the philosophical problem of induction, especially Nelson Goodman’s grue problem. Robert Sugden (1998, 2011) further develops the criticism, targeting not just sophisticated Bayesian learning but virtually every other learning model found in the current literature. As the grue problem highlights, there are many different way of extrapolating past observations into predictions about the future. In philosophy of science, the traditional solution to this difficulty is that only certain predicates are “projectible.” But Sugden argues that the difficulty is more acute for strategic interaction, since successful coordination requires shared standards of projectibility. For instance, suppose that I repeatedly play a coordination game with an opponent who has two different strategy options: $s_{1}$ and $s_{2}$. Up until time $t$, my opponent has always played $s_{1}$. I might “project” this pattern into the future, predicting that my opponent will henceforth play $s_{1}$. But I might instead project a “grueified” pattern, such as: “play $s_{1}$ until time $t$, and then play $s_{2}$.” Which inductive inference I make depends upon which predicates I regard as projectible. There is no guarantee that my opponent shares my standards of projectibility. In effect, then, convergence through inductive deliberation requires me and my opponent to solve a new coordination problem: coordinating our standards of projectibility. According to Sugden, existing dynamical models implicitly assume that players have already solved this new coordination problem. Sugden concludes that a full explanation of equilibrium selection requires something like Lewis’s notion of salience. In particular, it requires shared psychological standards regarding which patterns are projectible and which are not. Sugden urges, contra Skyrms, that dynamical models of convention cannot displace salience from its central role in understanding convention.[^note-7]
+
+### 5.3 Experimental methods
+
+An increasingly active research tradition uses experimental methods to investigate equilibrium selection. The typical goal is to study how closely human subjects conform to the predictions of some formal model. In that spirit, Justin Bruner, Cailin O’Connor, Hannah Rubin, and Simon Huttegger (2018), building on work of Andreas Blume, Douglas DeJong, Yong-Gwan Kim, and Geoffrey Sprinkle (1998), show that actual human behavior in several small group signaling games fits well with the predictions of replicator dynamics. This study, along with other related studies (e.g. Calvin Cochran and Jeffrey Barrett (2021)), provides empirical evidence that signaling conventions can emerge through “low-rationality” dynamics in at least some circumstances. Other empirical studies suggest a more significant role for high-level rational cognition. For example, Robert Hawkins, Michael Franke, Michael C. Frank, Adele Goldberg, Kenny Smith, Thomas Griffiths, and Noah Goodman (2023) give a Bayesian model of communicative interaction and linguistic convention formation. Through computer simulations coupled with behavioral experiments, they show that the model can accommodate several phenomena that are otherwise difficult to explain, such as communicative conventions tailored to specific interlocutors. We may expect future empirical research to shed further light upon the extent to which various conventions implicate high-level rationality as opposed to relatively low-level psychological mechanisms.
+
+As the foregoing discussion indicates, equilibrium selection is a diverse, fast-growing area of study. Moreover, it raises difficult questions on the boundary between economics, philosophy, and psychology, such as how to analyze inductive reasoning, how much rationality to attribute to social agents, and so on. It is undeniable that, in a wide variety of circumstances, people successfully converge upon a single unique convention amidst a range of alternatives. It seems equally undeniable that we do not yet fully understand the social and psychological mechanisms that accomplish this deceptively simple feat.
+
+## 6. Alternative treatments of convention
+
+We now survey some alternative theories of convention proposed in the past few decades. Unlike the rival proposals discussed in section 4, which accept Lewis’s basic perspective while emending various details, the theories discussed below reject Lewis’s entire approach.
+
+### 6.1 Gilbert: plural subjects
+
+Eschewing Lewis’s game-theoretic orientation, Margaret Gilbert (1989) instead draws inspiration from sociology, specifically from Georg Simmel’s theory of “social groups” (1908). The basic idea is that individual agents can “join forces” to achieve some common end, thereby uniting themselves into a collective entity. To develop this idea, Gilbert provides a complex account of how agents bind themselves into a “plural subject” of belief and action. A plural subject is a set of agents who regard themselves as jointly committed to promoting some goal, sharing some belief, or operating under some principle of action. By virtue of their common knowledge of this joint commitment, members of the plural subject regard themselves as “we”. They thereby regard one another as responsible for promoting the group’s goals and principles. For instance, two traveling companions make manifest their commitment to keep track of one another, whereas two people who happen to share a seat on a train do not. The traveling companions form a plural subject. The unaffiliated travelers do not. The traveling companions regard each other as responsible for helping if one person falls behind, for not losing one another in a crowd, and so on.
+
+Gilbert proposes that “our everyday concept of a social convention is that of a jointly accepted principle of action, a group fiat with respect to how one is to act in certain situations” (p. 377). Members of a population *jointly accept a fiat* when it is common knowledge that they have made manifest their willingness to accept and promote that fiat as a basis for action. By Gilbert’s definition, participants in a convention constitute a plural subject. For they jointly accept the common goal of promoting some fiat. Moreover, members of the social group regard the fiat as exerting normative force simply by virtue of the fact that they jointly accept it. Note that not all plural subjects instantiate conventions. For instance, depending on the details of the case, the traveling companions from the previous paragraph might not. A convention arises only when individual members of a plural subject jointly accept some fiat.
+
+Gilbert’s account differs from Lewis’s in both *ontology* and *ideology*. Ontologically, Gilbert isolates a *sui generis* entity, the plural subject, that Lewis’s “individualistic” approach does not countenance. Gilbert argues that a population could instantiate a Lewisian convention without giving rise to a plural subject. Participants in a Lewisian convention may *prefer* that other participants conform to it, given that almost everyone does. But they need not regard themselves as *responsible* for enforcing it or for helping others conform. They would so regard themselves if they viewed themselves as belonging to a plural subject. Thus, a Lewisian convention does not ensure that its adherents constitute a plural subject.
+
+Regarding *ideology*, Gilbert’s account attributes to convention an intrinsically normative element that Lewis rejects. For Gilbert, adopting a convention is making manifest a willingness to promote a certain fiat. Parties to a convention therefore accept that they *ought* to act in accord with the fiat. In contrast, as we saw in section 4.2, Lewis’s account does not recognize any normative elements as intrinsic to convention.
+
+The contrast between Gilbert and Lewis instantiates a more general debate over *Homo economicus*: a conception of agents as self-interested and instrumentally rational. Lewis attempts to analyze social phenomena reductively within that framework. In contrast, Gilbert rejects the rational choice conception, opting for a picture, *Homo sociologicus,* according to which an agent acts based on her self-identification as a member of a social group constituted by various norms. Elizabeth Anderson (2000) analyzes how the clash between these two conceptions relates to convention and normativity.
+
+In her later work, Gilbert (2008) adopts a more concessive stance towards Lewis’s analysis of convention. She maintains that her analysis handles many important social phenomena that Lewis’s account overlooks, but she grants that there may be other social phenomena that Lewis’s account handles well.
+
+### 6.2 Miller: collective ends
+
+Seumas Miller (2001) introduces the notion of a “collective end.” A collective end is an end that is shared by a group of agents and that can be achieved only through action by all of those agents; moreover, these facts are mutually believed by the agents. A convention to $j$ in some recurring situation $s$ prevails among some agents iff it is mutually believed by the agents that each one has a standing intention to $j$ in $s$, as long as others perform $j$ in $s$, so as to realize some shared collective end $e$. For instance, the collective end corresponding to the convention of driving on the right side of the road is avoiding collisions.
+
+In many respects, Miller’s account is more similar to Lewis’s than to Gilbert’s. Miller shares Lewis’s “reductionist” perspective, analyzing social convention as a pattern of interaction between rational agents, without any irreducibly “social” element. In particular, Miller rejects *sui generis* social entities, such as plural subjects, and he does not invoke specialized norms of convention beyond those engendered by morality and rationality.
+
+One objection to Miller’s account is that, in many cases, there is no clear “collective end” subserved by convention. For instance, what collective end must participants in a monetary practice share? It seems that each agent might care only about his own individual welfare, without concern for some more general social end. Even where there is a clear collective end served by some convention, should we really build this fact into the *definition* of convention? As Burge observes, “parties to a convention are frequently confused about the relevant ends (the social functions of their practice); they are often brought up achieving them and do not know the origins of their means” (1975, p. 252). Thus, it might seem that Miller attributes too much self-understanding to participants in a convention.
+
+### 6.3 Millikan: patterns sustained by weight of precedent
+
+Ruth Millikan (2005) offers a radical alternative to the views surveyed so far. She draws inspiration not from economics or sociology but from biology. On her view, a convention is a pattern of behavior *reproduced* within a population due largely to weight of precedent. To say that an instance of some pattern “reproduces” previous instances is to say that, if the previous instance had been different, the current instance would be correspondingly different. Many patterns of behavior are “reproduced” in this sense, such as the propensity to greet one another by shaking hands in a certain way. However, not all reproduced patterns are conventions. For instance, we learn from our parents to open stuck jars by immersing them in hot water, but our reproduction of this pattern is not a convention. To count as a convention, a reproduced pattern must be reproduced, in large part, simply because it is a precedent, not because of its intrinsic merits. Thus, a convention is unlikely to emerge independently in different populations, in contrast with a pattern such as immersing stuck jars in hot water.
+
+Through what mechanisms does convention spread “by weight of precedent”? Millikan mentions several ideas: lack of imagination, desire to conform, playing it safe by sticking with what has worked. The use of chopsticks in the East and forks in the West illustrates how obeying precedent is often the most practical policy, since these respective implements are more readily available in the respective locations.
+
+Perhaps the most striking aspect of Millikan’s discussion is that it assigns no essential role to rationality in sustaining conventions. For instance, a society in which people maintain a convention simply from unreflective conformism would satisfy Millikan’s definition. The tradition established by Hume and continued by Lewis seeks to explain how social order emerges from the rational decisions of individual agents. Millikan rejects that tradition. To some extent, Burge also departs from the tradition, writing that “the stability of conventions is safeguarded not only by enlightened self-interest, but by inertia, superstition, and ignorance” (p. 253). However, Millikan’s position is more extreme than Burge’s, since she assigns reason no role in sustaining convention. In other words, whereas Burge apparently thinks that convention rests upon both rational and irrational underpinnings, Millikan does not acknowledge any rational underpinnings.
+
+## 7. Conventions of language
+
+Plato’s *Cratylus* offers a notable early discussion of linguistic convention. Hermogenes defends a broadly conventionalist view of linguistic meaning:
+
+> [N]o one is able to persuade me that the correctness of names is determined by anything besides convention… No name belongs to a particular thing by nature, but only because of the rules and usages of those who establish the usage and call it by that name, (384c-d)
+
+while Cratylus advocates a rather obscure anti-conventionalist alternative:
+
+> A thing’s name isn’t whatever people agree to call it —some bit of their native language that applies to it—but there is a natural correctness of names, which is the same for everyone, Greek or foreigner (383a-b).
+
+Nowadays, virtually all philosophers side with Hermogenes. Barring a few possible exceptions such as onomatopoeia, the association between a word and its referent is not grounded in the intrinsic nature of either the word or the referent. Rather, the association is *arbitrary*. In this weak sense, everyone agrees that language is conventional. However, disagreement persists about whether social convention plays a useful role in illuminating the workings of language.
+
+### 7.1 Conventional theories of meaning
+
+David Lewis (1969) provides the first systematic theory of how social convention generates linguistic meaning. Subsequent philosophers to offer convention-based accounts include Jonathan Bennett (1976), Simon Blackburn (1984), Wayne Davis (2003), Ernie Lepore and Matthew Stone (2015), Brian Loar (1976), and Stephen Schiffer (1972).
+
+Lewis begins by studying *signaling problems*. A *communicator* has privileged information differentiating among states $s_{1},\ldots, s_{m}$. *Audience members* can choose among responses $F(s_{1}), \ldots, F(s_{m})$. Everyone prefers that audience members do $F(s_{i})$ if $s_{i}$ obtains. There is a set of signals $x_{1},\ldots,x_{n}$, $m \le n$, that the communicator can pass to the audience. In Lewis’s example, the sexton knows whether the redcoats are staying home, coming by land, or coming by sea. By placing either zero, one, or two lanterns in the belfry, he signals Paul Revere whether to go home, warn people that redcoats are coming by land, or warn people that the redcoats are coming by sea. A signaling problem is a coordination problem, because communicator and audience must coordinate so that the communicator’s signal elicits the mutually desired action. Building on Lewis’s discussion, Skyrms (2010) offers an intensive analysis of signaling problems, with applications to diverse biological cases studies ranging from bacteria to apes.
+
+In comparison with normal linguistic interaction, signaling problems are very specialized. A fundamental difference is that people normally need not agree upon which action(s) would be desirable, given some state of affairs. When we search for an audience reaction canonically associated with an assertion that $p$, the most natural candidate is something like *believing* that $p$ (or perhaps believing that the speaker believes $p)$. Yet coming to believe a proposition is not an action, and Lewis’s definition of convention presupposes that conventions are regularities of action. Hence, believing what people say cannot be part of a Lewisian convention.
+
+Although Lewis explored various ways around this difficulty, he eventually concluded that we should alter the analysis of convention. In “Languages and Language” (1975/1983), he broadened the analysis so that regularities of action *and belief* could serve as conventions. Clause (4) of Lewis’s definition entails that everyone prefers to conform to the convention given that everyone else does. Preferences regarding one’s own beliefs are dubiously relevant to ordinary conversation. Thus, in his revised analysis, Lewis substitutes a new clause:
+
+> The expectation of conformity to the convention gives everyone a good reason why he himself should conform. (p. 167)
+
+The “reason” in question might be either a *practical* reason, in the case of action, or an *epistemic* reason, in the case of belief.
+
+Lewis defines a *language* as a function that assigns truth-conditions to sentences. More precisely, and ignoring complications such as vagueness and indexicality, a language $L$ is a mapping that assigns each sentence $s$ a set of possible worlds $L(s)$. A sentence $s$ is “true in $L$” iff the actual world belongs to $L(s)$. There are infinitely many possible languages. We must explain what it is for a given group of agents to use a given language. In other words, what is the “actual language” relation? Lewis proposes:
+
+> A language $L$ is used by a population $G$ iff there prevails in $G$ a convention of truthfulness and trust in $L$, sustained by an interest in communication,
+
+where a speaker is “truthful in $L$” iff she tries to avoid uttering sentences not true in $L$, and a speaker is “trusting in $L$” iff she believes that sentences uttered by other speakers are true in $L$. Given that this convention prevails, speakers who want to communicate have reason to conform to it, which in turn perpetuates the convention. Note that Lewis’s account avoids the Russell-Quine regress argument from section 1.1, since Lewisian convention does not presuppose explicit agreement between participants.
+
+In many respects, Lewis’s account descends from Grice’s theory of speaker-meaning. A simplified version of Grice’s account runs as follows: a speaker *speaker*-*means* that $p$ iff she performs an action with an intention of inducing the belief that $p$ in her audience by means of their recognition of that very intention. Although Lewis does not explicitly build speaker-meaning into his analysis of the “actual language” relation, a broadly Gricean communicative mechanism informs his discussion. Like Grice, Lewis emphasizes how meaning emerges from coordination between the speaker’s communicative intentions and the hearer’s communicative expectations. Grice does not provide a very compelling account of how speakers and hearers coordinate their communicative intentions and expectations by exploiting a *pre-existing* practice. Lewis fills this lacuna by citing a standing convention of truthfulness and trust.
+
+Stephen Schiffer (1972) and Jonathan Bennett (1976) offer alternative “neo-Gricean” accounts that combine Lewisian convention with more explicit appeal to Gricean speaker-meaning. In effect, both theories are sophisticated variants upon the following:
+
+> Sentence $s$ means that $p$ as used by population $G$ iff there prevails in $G$ a convention to use utterances of $s$ so as to speaker-mean that $p$.
+
+Thus, both accounts analyze sentence meaning as the result of a convention that certain sentences are used to communicate certain propositions.
+
+A fundamental question for philosophy of language is how meaning arises from use. How do we confer significance upon inherently meaningless linguistic expressions by employing them in linguistic practice? Neo-Gricean accounts such as Lewis’s, Schiffer’s, and Bennett’s provide detailed answers to this question. For instance, Lewis isolates a self-perpetuating communicative mechanism that systematically associates sentences with propositional contents. He reduces social convention to the propositional attitudes of individual speakers, and he then uses social convention to explain how meaning arises from use. He thereby depicts linguistic expressions as inheriting content from antecedently contentful propositional attitudes. On this approach, thought is the primary locus of intentionality, and language enjoys intentional content merely in a derivative way, through its employment in communicative transactions. That general view of the relation between language and thought goes back at least to Book III of Locke’s *Essay on Human Understanding*. It is currently quite popular. Much of its popularity stems from the widespread perception that Lewis’s account, or some other such account, successfully explains how language inherits content from thought.
+
+### 7.2 Objections to conventional theories
+
+Conventional theories of linguistic meaning attract several different types of criticism. We may distinguish four especially important criticisms: denial that the putative conventions prevail in actual practice; denial that convention can determine linguistic meaning; denial that convention is necessary for linguistic meaning; and denial that convention-based accounts employ the proper order of explanation.
+
+#### 7.2.1 Do the putative conventions prevail?
+
+This criticism surfaces repeatedly throughout the literature. For instance, Grice’s analysis of speaker-meaning generated a mini-industry of counter-example and revised analysis. The gist of the counter-examples is that there are many perfectly normal linguistic interactions in which speakers lack the communicative intentions and expectations cited by Grice. Thus, it is difficult to see how our practice could instantiate a convention that crucially involves those intentions and expectations. One might respond to this argument in various ways, such as classifying certain linguistic interactions as “paradigmatic” and others as “derivative.” But at least one prominent Gricean, Stephen Schiffer (1987), eventually concluded, partly from such counter-examples, that the program of explicating linguistic meaning through Lewisian convention and Gricean speaker-meaning was hopeless.
+
+Regarding Lewis’s account, critics such as Wayne Davis (2003), Max Kölbel (1998), Stephen Laurence (1996), and Bernard Williams (2002) question whether there is a convention of truthfulness and trust. As Davis and Williams urge, it is hardly obvious that speakers generally speak the truth or generally trust one another, despite frequent claims by diverse philosophers to the contrary. Even if we grant that people generally speak the truth and generally trust one another, does this give me reason to speak truthfully? It does, *if I want other people to believe the truth*. But if I want them to believe falsehoods, then I have reason to lie rather than speak the truth. Thus, one might object, a regularity of truthfulness and trust is not self-perpetuating in the way that Lewisian convention requires. Expectation of conformity does not provide reason for conformity. In contrast, consider the convention of driving on the right. That convention likewise provides reason for conformity only given an appropriate desire: namely, desire to avoid a collision. The difference is that virtually everyone seeks to avoid a collision, while deception is a normal feature of ordinary linguistic interaction.
+
+Inevitably, such objections focus on details of particular theories. Thus, they cannot show that conventionalist theories *in general* are mistaken.
+
+#### 7.2.2 Can convention determine linguistic meaning?
+
+The most serious version of this objection, advanced by Stephen Schiffer (1993, 2006), John Hawthorne (1990, 1993), and many other philosophers, focuses on the *productivity* of language. We can understand a potential infinity of meaningful sentences. Yet we can hardly master infinitely many linguistic conventions, one for each meaningful sentence. How, then, can convention fix the meanings of these infinitely many sentences?
+
+This general worry arises in a particularly acute way for Lewis’s theory. Consider some sentence $S$ that we would never normally use, perhaps because it is too long or too grammatically complex. Suppose that some speaker nevertheless utters $S$. As Lewis acknowledges, we would not normally believe that the speaker was thereby attempting to speak truthfully. Instead, we would suspect that the speaker was acting for some deviant reason, such as trying to annoy, or settling a bet, and so on. We would not normally trust the speaker. But then Lewis cannot use his convention of truthfulness and trust to underwrite a unique truth-condition for $S$.
+
+The most natural diagnosis here is that the sentence’s meaning is determined by the meanings of its parts. We understand it because we understand its component words and because we understand the compositional mechanisms through which words combine to form meaningful sentences. Of course, word meanings may themselves be fixed by convention. But then what the conventionalist should explicate is the conventional link between words and their meanings, not just the conventional link between sentences and their truth-conditions. Lewis explicates the latter, not the former. Although Lewis (1992) attempts to circumvent these worries, Hawthorne (1993) and Schiffer (2006) argue that his response is inadequate.
+
+Lewis’s account is not alone in encountering difficulties with productivity. Most contemporary conventionalist theories encounter similar difficulties, because most such theories, heeding Frege’s context principle (only the context of a sentence do words have meaning), focus attention upon the link between sentences and propositions rather than the link between words and their meanings. One might hope to supplement convention-based accounts with the Chomsky-inspired thesis, advocated by James Higginbotham (1986) and Richard Larson and Gabriel Segal (1995), that speakers have tacit knowledge of a compositional semantic theory. However, as Martin Davies observes (2003), no one seems to have worked out this supplementary strategy in any detail, and it is not obvious how important a role the resulting account would assign to convention, let alone the Gricean communicative mechanism.
+
+Ultimately, the force of these worries remains unclear. For instance, Wayne Davis (2003) develops a conventionalist account that harkens back to the pre-Fregean tradition. In simplified form, Davis’s Lockean proposal is that a word is meaningful because we conventionally use it to express a certain “idea”. The meaning of a sentence is then determined by the meanings of its component words, along with the (conventionally determined) semantic import of the syntactic structure in which those words are arranged. Evidently, these issues connect with vexed questions about compositionality, linguistic understanding, the unity of the proposition, and the role played by formal semantic theories in the study of natural language.
+
+#### 7.2.3 Is convention necessary for linguistic meaning?
+
+Noam Chomsky (1980) and Donald Davidson (1984) acknowledge that there are linguistic conventions while denying that they are fundamental to the nature of language.
+
+Chomsky regards language as a system of grammatical rules “tacitly known” by a speaker. Linguistics, which Chomsky treats as a branch of cognitive psychology, studies the grammatical competence of individual speakers. It should not posit a mysterious and unscientific “communal language” shared by speakers, but should instead focus upon “idiolects.” Thus, language has no special ties to social interaction or communication. Specifically, it has no special ties to convention. Stephen Laurence (1996) and Stephen Schiffer (2006) develop theories of the “actual language” relation informed by a broadly Chomskian perspective. The basic idea behind both accounts is that a linguistic item as used by some speaker is associated with certain semantic properties just in case the association between the linguistic item and the semantic property figures in the psychological processes through which the speaker assigns meanings (or truth-conditions) to sentences.
+
+Davidson elaborates a model of communication that takes as its paradigm “radical interpretation.” During radical interpretation, one tries to assign truth-conditions to utterances in a completely unfamiliar tongue. To do so, one detects patterns concerning which sentences the speaker “holds true,” and one tries to make rational sense of those patterns, guided by general maxims such as the *principle of charity* (roughly, maximize true beliefs on the part of the speaker). Davidson admits that, in everyday life, we tend as a default to interpret one another “homophonically.” But there is no principled reason why we must embrace this homophonic default, and we readily deviate from it whenever seems appropriate, as illustrated by cases of idiosyncratic usage, malapropism, and so on. In a sense, then, all linguistic understanding rests upon radical interpretation. So shared linguistic conventions are inessential to linguistic communication:
+
+> Knowledge of the conventions of language is thus a practical crutch to interpretation, a crutch we cannot in practice afford to do without—but a crutch which, under optimum conditions for communication, we can in the end throw away, and could in theory have done without from the start. (1984, p. 279)
+
+Davidson concludes that theories of meaning and understanding should not assign convention a foundational role.
+
+#### 7.2.4 Do convention-based accounts employ the proper order of explanation?
+
+A final objection to convention-based theories targets the broader Lockean strategy of explaining language in terms of thought. According to this objection, which is espoused by philosophers such as Robert Brandom (1994), Donald Davidson (1984), and Michael Dummett (1993), language does not inherit content from thought. Rather, thought and language are on a par, acquiring content through their mutual interrelations. (One might also claim that language is the primary locus of intentionality and that thought inherits content from language. However, few if any contemporary philosophers espouse this viewpoint.) Thus, we should not analyze linguistic meaning as the product of convention, so long as conventions are understood as Lewisian systems of intentions, preferences, and expectations. Those propositional attitudes are themselves intelligible only through their relations to language. As Davidson puts it, “philosophers who make convention a necessary element in language have the matter backwards. The truth is rather that language is a condition for having conventions” (1984, p. 280).
+
+Two main difficulties face this approach. First, although philosophers have offered various arguments for the thesis that thought is not explanatorily prior to language, none of the arguments commands widespread assent. Christopher Peacocke (1998) forcefully criticizes many of the most well-known arguments. As things stand, the objection constitutes not so much a *problem* for conventional theories as a prospectus for a rival research program. The second and more serious difficulty is that, so far, the rival research program has not yielded results nearly as precise or systematic as existing conventional theories. Perhaps the two most commanding theories within the rival research program are Davidson’s (1984) and Brandom’s (1994). Many contemporary philosophers feel that both theories enshrine an overly “anti-realist” conception of mental content. Moreover, neither theory yields detailed necessary and sufficient conditions for linguistic meaning analogous to those provided by Lewis.
+
+## References（引用注释）
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+## Academic Tools
+
+> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=convention). |
+> | --- | --- |
+> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/convention/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=convention&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/convention/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+- [Resources on convention and related areas](http://web.archive.org/web/20060902114417/http://www.hss.cmu.edu/philosophy/vanderschraaf/resources.htm), September 2006, by Peter Vanderschraaf.
+
+[Please contact the author with additional suggestions.]
+
+## Related Entries
+
+analytic/synthetic distinction | Aristotle, General Topics: logic | Bayes’ Theorem | common knowledge | Frege, Gottlob | game theory | game theory: evolutionary | Goodman, Nelson | Hobbes, Thomas: moral and political philosophy | Hume, David: moral philosophy | implicature | Lewis, David | Locke, John | logicism and neologicism | moral relativism | nature of law: natural law theories | relativism | social contract: contemporary approaches to | social institutions | social norms | Wittgenstein, Ludwig
+
+## Notes（原文脚注）
+
+## Notes to Convention
+
+[^note-1]: An exception to this trend is John Searle, who discusses money in *The Social Construction of Reality* (1995). Searle analyzes money not through convention but rather through his proprietary framework of constitutive rules.
+
+[^note-2]: Whether or not they are *true* is another matter. Liam Murphy and Thomas Nagel advocate conventionalism about property in *The Myth of Ownership* (2002), a book whose title suggests that claims about property rights are, strictly speaking, false. In the body of the text, however, Murphy and Nagel seem to argue instead that claims about property rights are *made true* by convention, which presumably entails that such claims are *true*. A similar ambivalence sometimes seems to inform Hume’s exposition.
+
+[^note-3]: Kurt Gödel’s incompleteness theorems seemed to many philosophers to undercut conventionalism about mathematics. Quine argued along these lines in “Carnap on Logical Truth.” When Carnap tries to specify a precise sense in which arithmetic is a “consequence” of a conventionally stipulated linguistic framework, the first incompleteness theorem forces him to employ a meta-language containing mathematics that goes beyond arithmetic (so as to ensure the bivalence of arithmetical truth). Quine argues that this meta-linguistic appeal renders Carnap’s procedure circular. In a posthumously published paper (1995), Gödel himself advances a different argument based on the second incompleteness theorem. Briefly, Gödel argues that Carnap can treat arithmetic as fixed by convention only if he shows that the relevant convention does not generate a contradiction. By the second incompleteness theorem, we can show this only if we assume mathematics not captured by the relevant convention. The need for that assumption undercuts the claim that arithmetic results solely from convention. Michael Friedman (1999) presses both Gödelian objections. Warren Goldfarb and Thomas Ricketts (1992) defend Carnap against such objections.
+
+[^note-4]: The logical positivists urged that Einsteinian relativity theory supports geometric conventionalism. For instance, Schlick (1917/1920) argued that general relativity treats all coordinate systems as equally admissible, and hence that we must arbitrarily choose a coordinate system, thereby conventionally fixing our metric geometry. Friedman (1983, 1999) forcefully maintains that such positivist arguments typically rested upon serious misunderstandings of general relativity. In particular, general relativity posits a determinate, non-conventional metric that is related in a determinate way to the mass-energy distribution, as described by Einstein’s field equations.
+
+[^note-5]: One of Lewis’s goals in developing his theory of linguistic convention was to rebut Quinean skepticism about analyticity. In this connection, he offered the following definition:
+
+> sentence $s$ is analytic as used by members of a population $G$ iff there is a language $L$ such that $L$ is the language used by $G$ and $s$ is true in $L$ in all possible worlds,
+
+where “language $L$ is used by population $G$” is explicated in terms of Lewisian convention, as described in section 7.1, Conventional theories of meaning. Lewis argues on the basis of this definition that Quine’s skepticism about analyticity is unwarranted. To this, Quine replies that Lewis has not broken out of the “intensional circle”, since he helps himself to the notion of a possible world (1969). In our post-Kripkean era, most philosophers would doubtless urge that, at best, Lewis’s definition vindicates metaphysical *necessity* rather than analyticity.
+
+[^note-6]: David Gauthier (1979) argues that Hume’s own theory of government is a species of “hypothetical contractarianism,” of the kind made famous by John Rawls.
+
+[^note-7]: Other notable developments in the dynamical study of equilibrium selection include the “hypothesis testing” model, offered by Dean Foster and H. Peyton Young (2003), and the “regret testing” model, also offered by Foster and Young (2006).
+
+[^alston-2000]: Alston, William, 2000. *Illocutionary Acts and Sentence Meaning*, Ithaca: Cornell University Press.
+
+[^anderson-2000]: Anderson, Elizabeth, 2000. “Beyond *Homo Economicus*: New Developments in Theories of Social Norms,” *Philosophy and Public Affairs*, 29: 170–200.
+
+[^aristotle-1980]: Aristotle, 1980. *Nicomachean Ethics*, trans. David Ross. Rev. trans. J. L. Ackrill and J. O. Urmson. Oxford: Oxford University Press.
+
+[^aristotle-1984]: –––, 1984. *De Interpretatione*, in *The Complete Works of Aristotle*, ed. Jonathan Barnes, Princeton: Princeton University Press.
+
+[^aumann-1974]: Aumann, Robert, 1974. “Subjectivity and Correlation in Randomized Strategies,” *Journal of Mathematical Economics*, 1: 67–96.
+
+[^aumann-1976]: –––, 1976. “Agreeing to Disagree,” *Annals of Statistics*, 4: 1236–1239.
+
+[^aumann-1987]: –––, 1987. “Correlated Equilibrium as an Expression of Bayesian Rationality,” *Econometrica*, 55: 1–18.
+
+[^avramides-1997]: Avramides, Anita, 1997. “Intention and Convention,” in *A Companion to the Philosophy of Language*, ed. Bob Hale and Crispin Wright, Malden: Blackwell.
+
+[^ayer-1936]: Ayer, A. J., 1936/1952. *Language, Truth, and Logic*, 2nd ed., New York: Dover.
+
+[^axelrod-1984]: Axelrod, Robert, 1984. *The Evolution of Cooperation*, New York: Basic Books.
+
+[^ben-menahem-2006]: Ben-Menahem, Yemima, 2006. *Conventionalism*, Cambridge: Cambridge University Press.
+
+[^bennett-1976]: Bennett, Jonathan, 1976. *Linguistic Behavior*, Cambridge: Cambridge University Press.
+
+[^bicchieri-2006]: Bicchieri, Cristina, 2006. *The Grammar of Society*, Cambridge: Cambridge University Press.
+
+[^bicchieri-2016]: –––, 2016. *Norms in the Wild: How to Diagnose, Measure, and Change Social Norms*, Oxford: Oxford University Press.
+
+[^binmore-2008]: Binmore, Ken, 2008. “Do Conventions Need to be Common Knowledge?” *Topoi*, 27: 17–27.
+
+[^binmore-2006]: Binmore, Ken and Samuelson, Larry, 2006. “The Evolution of Focal Points,” *Games and Economic Behavior*, 55: 21–42.
+
+[^blackburn-1984]: Blackburn, Simon, 1984. *Spreading the Word*, Oxford: Clarendon Press.
+
+[^blume-1998]: Blume, Andreas, DeJong, Douglas, Kim, Yong Gwan, and Sprinkle, Geoffrey, 1998. “Experimental Evidence on the Evolution of Meaning of Messages in Sender-Receiver Games,” *The American Economic Review*, 88: 1323–1340.
+
+[^brandom-1994]: Brandom, Robert, 1994. *Making it Explicit*, Cambridge: Harvard University Press.
+
+[^brown-1951]: Brown, George, 1951. “Iterative Solutions to Games by Fictitious Play,” in *Activity Analysis of Production and Allocation*, ed. T. C. Koopmans, New York: Wiley.
+
+[^bruner-2018]: Bruner, Justin, O’Connor, Cailin, Rubin, Hannah, and Huttegger, Simon, 2018. “David Lewis in the Lab: Experimental Results on the Emergence of Meaning,” *Synthese*, 195: 603–621.
+
+[^bunzl-2003]: Bunzl, Martin and Kreuter, Richard, 2003. “Conventions Made too Simple?”. *Philosophy of the Social Science*s 33: 417–426.
+
+[^burge-1975]: Burge, Tyler, 1975. “On Knowledge and Convention,” *Philosophical Review*, 84: 249–255.
+
+[^carnap-1937]: Carnap, Rudolf, 1937/2002. *The Logical Syntax of Language*, trans. Amethe Smeaton. Chicago: Open Court Press.
+
+[^chomsky-1980]: Chomsky, Noam, 1980. *Rules and Representations*, New York: Columbia University Press.
+
+[^cochran-2021]: Cochran, Calvin, and Barrett, Jeffrey, 2021. “How Signaling Conventions Are Established,” *Synthese*, 199: 4367–4391.
+
+[^coffa-1993]: Coffa, Alberto, 1993. *The Semantic Tradition from Kant to Carnap*, Cambridge: Cambridge University Press.
+
+[^cubitt-2003]: Cubitt, Robin, and Sugden, Robert, 2003. “Common Knowledge, Salience, and Convention: A Reconstruction of David Lewis’s Game Theory,” *Economics and Philosophy*, 19: 175–210.
+
+[^davidson-1984]: Davidson, Donald, 1984. “Convention and Communication,” in *Inquiries into Truth and Interpretation*, Oxford: Oxford University Press.
+
+[^davies-2003]: Davies, Martin, 2003. “Philosophy of Language,” in *The Blackwell Companion to Philosophy*, ed. Nicholas Bunnin and E. P. Tsui-James, Malden: Blackwell.
+
+[^davis-2003]: Davis, Wayne, 2003. *Meaning, Expression, and Thought*, Cambridge: Cambridge University Press.
+
+[^disalle-2002]: DiSalle, Robert, 2002. “Conventionalism and Modern Physics: A Reassessment,” *Noûs*, 36: 169–200.
+
+[^dummett-1991]: Dummett, Michael, 1991. *The Logical Basis of Metaphysics*, Cambridge: Harvard University Press.
+
+[^dummett-1993]: –––, 1993. *The Seas of Language*, Oxford: Oxford University Press.
+
+[^einheuser-2006]: Einheuser, Iris, 2006. “Counterconventional Conditionals,” *Philosophical Studies*, 127: 459–482.
+
+[^foster-2001]: Foster, Dean and Young, H. Peyton, 2001. “On the Impossibility of Predicting the Behavior of Rational Agents,” *Proceedings of the National Academy of Sciences*, 98: 12848–12853.
+
+[^foster-2003]: –––, 2003. “Learning, Hypothesis Testing, and Nash equilibrium,” *Games and Economics Behavior*, 45: 73–96.
+
+[^foster-2006]: –––, 2006. “Regret Testing: Learning to Play Nash Equilibrium Without Knowing that You Have an Opponent,” *Theoretical Economics*, 1: 341–367.
+
+[^franssen-2004]: Franssen, Maarten, 2004. “Review of Peter Vanderschraaf’s Learning, *and Coordination: Inductive Deliberation, Equilibrium, and Convention*,” *Economics and Philosophy*, 20: 375–416.
+
+[^friedlin-1984]: Friedlin, M. I., and Wentzell, A. D., 1984. *Random perturbations of dynamical systems*, New York: Springer.
+
+[^friedman-1983]: Friedman, Michael, 1983. *Foundations of Space-Time Theories*, Princeton: Princeton University Press.
+
+[^friedman-1999]: –––, 1999. *Reconsidering Logical Positivism*, Cambridge: Cambridge University Press.
+
+[^fudenberg-1998]: Fudenberg, Drew and Levine, David, 1998. *The Theory of Learning in Games*, Cambridge, MA: MIT Press.
+
+[^gauthier-1979]: Gauthier, David, 1979. “David Hume: Contractarian,” *Philosophical Review*, 88: 3–38.
+
+[^gilbert-1981]: Gilbert, Margaret, 1981. “Game Theory and *Convention*,” *Synthese*, 46: 41–93.
+
+[^gilbert-1983]: –––, 1983. “Agreements, Conventions, and Language,” *Synthese*, 54: 375–407.
+
+[^gilbert-1983-2]: –––, 1983. “Notes on the Concept of Social Convention,” *New Literary History*, 14: 225–251.
+
+[^gilbert-1989]: –––, 1989. *On Social Facts*, New York: Routledge.
+
+[^gilbert-1990]: –––, 1990. “Rationality, Coordination, and Convention,” *Synthese*, 84: 1–21.
+
+[^gilbert-2008]: –––, 2008. “Social Convention Revisited,” *Topoi*, 27: 5–16.
+
+[^gödel-1995]: Gödel, Kurt, 1995. “Is Mathematics Syntax of Language?”. In *Kurt Gödel: Collected Works*, vol. 3., ed. Solomon Feferman, John Dawson, Warren Goldfarb, Charles Parsons, and Robert Solovay, Oxford: Oxford University Press.
+
+[^goldfarb-1995]: Goldfarb, Warren, 1995. “Introductory Note to [Gödel 1995],” in *Kurt Gödel: Collected Works*, vol. 3. ed. Solomon Feferman, John Dawson, Warren Goldfarb, Charles Parsons, and Robert Solovay, Oxford: Oxford University Press.
+
+[^goldfarb-1997]: –––, 1997. “Semantics in Carnap: A Rejoinder to Coffa,” *Philosophical Topics*, 25: 51–66.
+
+[^goldfarb-1992]: Goldfarb, Warren and Ricketts, Thomas, 1992. “Carnap and the Philosophy of Mathematics,” in *Science and Subjectivity*, ed. David Bell and Wilhelm Vossenkuhl, Berlin: Akademie.
+
+[^goodman-1976]: Goodman, Nelson, 1976. *Languages of Art*, Indianapolis: Hackett.
+
+[^goodman-1978]: –––, 1978. *Ways of Worldmaking*, Indianapolis: Hackett.
+
+[^goodman-1989]: –––, 1989. “Just the Facts, Ma’am!,” In *Relativism: Interpretation and Confrontation*, ed. Michael Krausz, Notre Dame: University of Notre Dame Press.
+
+[^goyal-1996]: Goyal, Sanjeev, and Janssen, Maarten, 1996. “Can We Rationally Learn to Coordinate?,” *Theory and Decision*, 40: 29–49.
+
+[^grandy-1977]: Grandy, Richard, 1977. “A Review of Lewis’s *Convention: A Philosophy Study*,” *Journal of Philosophy*, 74: 129–139.
+
+[^grünbaum-1962]: Grünbaum, Adolf, 1962. “Geometry, Chronometry, and Empiricism,” in *Minnesota Studies in the Philosophy of Science*, vol. 3. Eds. Herbert Feigl and Grover Maxwell. Minneapolis: University of Minnesota Press.
+
+[^harman-1996]: Harman, Gilbert, 1996. “Moral Relativism,” in *Moral Relativism and Moral Objectivity*, ed. Gilbert Harman and J.J. Thompson, Cambridge: Blackwell.
+
+[^harsanyi-1988]: Harsanyi, John, and Selten, Reinhard, 1988. *A General Theory of Equilibrium Selection*, Cambridge, MA: MIT Press.
+
+[^hawkins-2023]: Hawkins, Robert, Franke, Michael, Frank, Michael C., Goldberg, Adele, Smith, Kenny, Griffiths, Thomas, and Goodman, Noah, 2023. “From Partners to Populations: A Hierarchical Bayesian Account of Coordination and Convention,” *Psychological Review*, 130: 977–1016.
+
+[^hawthorne-1990]: Hawthorne, John, 1990. “A Note on ‘Languages and Language,’” *Australasian Journal of Philosophy*, 68: 116–118.
+
+[^hawthorne-1993]: –––, 1993. “Meaning and Evidence: A Reply to Lewis,” *Australasian Journal of Philosophy*, 71: 206–211.
+
+[^higginbotham-1986]: Higginbotham, James, 1986. “Linguistic Theory and Davidson’s Program in Semantics,” in *Truth and Interpretation*, ed. Ernest Lepore. New York: Blackwell.
+
+[^hume-1740]: Hume, David, 1740/1976. *A Treatise of Human Nature*, ed. L. A. Selby-Brigge, revised 3ʳᵈ edn., ed. P. H. Nidditch, Oxford: Clarendon Press.
+
+[^hume-1777]: –––, 1777/ 1975. *Enquiries Concerning Human Understanding and Concerning the Principles of Morals*, ed. by L. A. Selby-Brigge, revised 3ʳᵈ edn., ed. P. H. Nidditch, Oxford: Clarendon Press.
+
+[^hume-1741]: –––, 1741–2/1985. “Of the Original Contract,” in *Essays Moral, Political, and Literary*, ed. Eugene Miller, New York: Liberty Press.
+
+[^hume-1752]: –––, 1752/1994. “Of Money,” in *Hume: Political Essays*, ed. Knud Haakonssen, Cambridge: Cambridge University Press.
+
+[^huttegger-2014]: Huttegger, Simon, 2014. “How Much Rationality Do We Need to Explain Conventions?,” *Philosophy Compass*, 9: 11–21.
+
+[^jamieson-1975]: Jamieson, Dale, 1975. “David Lewis on Convention,” *Canadian Journal of Philosophy*, 5: 73–81.
+
+[^kalai-1993]: Kalai, Ehud, and Lehrer, Ehud, 1993. “Rational Learning Leads to Nash Equilibrium,” *Econometrica*, 61: 1019–45.
+
+[^kandori-1993]: Kandori, Michihiro, Mailath, George, and Rob, Rafael, 1993. “Learning, Mutation, and Long-Run Equilibria in Games,” *Econometrica*, 61: 29–56.
+
+[^kölbel-1998]: Kölbel, Max, 1998. “Lewis, Language, Lust, and Lies,” *Inquiry*, 41: 301–315.
+
+[^larson-1995]: Larson, Richard and Segal, Gabriel, 1995. *Knowledge of Meaning*, Cambridge, MA: MIT Press.
+
+[^laurence-1996]: Laurence, Stephen, 1996. “A Chomskian Alternative to Convention-Based Semantics,” *Mind*, 105: 269–301.
+
+[^lepore-2015]: Lepore, Ernie, and Stone, Matthew, 2015. *Imagination and Convention*, Oxford: Oxford University Press.
+
+[^lewis-1969]: Lewis, David, 1969. *Convention*, Cambridge: Harvard University Press.
+
+[^lewis-1975]: –––, 1975/1983. “Languages and Language,” Reprinted in *Philosophical Papers*, vol. 1. Oxford: Oxford University Press.
+
+[^lewis-1976]: –––, 1976/2000. “Convention: Reply to Jamieson,” Reprinted in *Papers in Ethics and Social Philosophy*, Cambridge: Cambridge University Press.
+
+[^lewis-1992]: –––, 1992/2000. “Meaning Without Use: Reply to Hawthorne,” Reprinted in *Papers in Ethics and Social Philosophy*, Cambridge: Cambridge University Press.
+
+[^loar-1976]: Loar, Brian, 1976. “Two Theories of Meaning,” in *Truth and Meaning*, ed. Gareth Evans and John McDowell, Oxford: Oxford University Press.
+
+[^locke-1689]: Locke, John, 1689/1975. *An Essay Concerning the Human Understanding*, ed. Peter Nidditch, Oxford: Clarendon Press.
+
+[^locke-1689-2]: –––, 1689/1988. *Two Treatises of Government*, ed. Peter Laslett, Cambridge: Cambridge University Press.
+
+[^marmor-1996]: Marmor, Andrei, 1996. “On Convention,” *Synthese*, 107: 349–371.
+
+[^marmor-2007]: –––, 2007. “Deep Conventions. ” *Philosophy and Phenomenological Research*, 74: 586–610.
+
+[^marmor-2009]: –––, 2009. *Social Conventions*, Princeton: Princeton University Press.
+
+[^maynard-1973]: Maynard Smith, John, and Price, George, 1973. “The Logic of Animal Conflicts,” *Nature*, 146: 15–18.
+
+[^milgrom-1991]: Milgrom, Paul, and Robert, John, 1991. “Adaptive and Sophisticated Learning in Normal Form Games,” *Games and Economics Behavior*, 3: 82–100.
+
+[^miller-1986a]: Miller, Seumas, 1986a. “Truthtelling and the Actual Language Relation,” *Philosophical Studies*, 49: 281–94.
+
+[^miller-1986b]: –––, 1986b. “Conventions, Interdependence of Action, and Collective Ends,” *Nous*, 20: 117–140.
+
+[^miller-1990]: –––, 1990. “Rationalizing Conventions,” *Synthese*, 84: 23–41.
+
+[^miller-2001]: –––, 2001. *Social Action: A Teleological Account*. Cambridge: Cambridge University Press.
+
+[^millikan-2005]: Millikan, Ruth, 2005. *Language: A Biological Model*, Oxford: Clarendon Press.
+
+[^millikan-2008]: –––, 2008. “A Difference of Some Consequence Between Conventions and Rules,” *Topoi*, 27: 87–99.
+
+[^moore-2013]: Moore, Richard, 2013. “Imitation and Conventional Communication,” *Biology and Philosophy*, 28: 481–500.
+
+[^murphy-2002]: Murphy, Liam and Nagel, Thomas, 2002. *The Myth of Ownership*, Oxford: Oxford University Press.
+
+[^nachbar-1997]: Nachbar, John, 1997. “Prediction, Optimization, and Learning in Repeated Games,” *Econometrica*, 65: 275–309.
+
+[^o’connor-2021]: O’Connor, Cailin, 2021. “Measuring Conventionality,” *Australasian Journal of Philosophy*, 99: 579–596.
+
+[^oddie-1999]: Oddie, Graham, 1999. “Moral Realism, Moral Relativism, and Moral Rules,” *Synthese*, 117: 251–274.
+
+[^parfit-1984]: Parfit, Derek, 1984. *Reasons and Persons*, Oxford: Oxford University Press.
+
+[^peacocke-1987]: Peacocke, Christopher, 1987. “Understanding Logical Constants: A Realist’s Account,” *Proceedings of the British Academy*, 73: 153–200.
+
+[^peacocke-1998]: –––, 1998. “Concepts Without Words,” in *Language, Thought, and Logic*: *Essays in Honor of Michael Dummett*, ed. Richard Heck, Oxford: Oxford University Press.
+
+[^plato-1997]: Plato, “Cratylus,” trans. C. D. C. Reeve. In *Complete Works*, ed. John Cooper, Indianapolis: Hackett, 1997.
+
+[^poincaré-1902]: Poincaré, Henri, 1902/1905. *Science and Hypothesis*. In *The Foundations of Science*, trans. George Halsted, New York: The Science Press.
+
+[^prawitz-1977]: Prawitz, Dag, 1977. “Meaning and Proofs: On the Conflict Between Classical and Intuitionistic Logic,” *Theoria*, 43: 2–40.
+
+[^putnam-1962]: Putnam, Hilary, 1962/1985. “The Analytic and the Synthetic,” Reprinted in *Philosophical Papers*, vol. 2. Cambridge: Cambridge University Press.
+
+[^putnam-1962-2]: –––, 1962/1975. “An Examination of Grünbaum’s Philosophy of Geometry,” Reprinted in *Philosophical Papers*, vol. 1. Cambridge: Cambridge University Press.
+
+[^putnam-1974]: –––, 1974/1985. “The Refutation of Conventionalism,” Reprinted in *Philosophical Papers*, vol. 2. Cambridge: Cambridge University Press.
+
+[^putnam-1981]: –––, 1981. “Convention: A Theme in Philosophy,” *New Literary History*, 13: 1–14.
+
+[^putnam-1987]: –––, 1987. *The Many Faces of Realism*, LaSalle: Open Court.
+
+[^quine-1936]: Quine, W. V., 1936/1976. “Truth by Convention,” reprinted in *The Ways of Paradox*, 2nd ed., Cambridge: Harvard University Press.
+
+[^quine-1963]: –––, 1963/1975. “Carnap and Logical Truth,” Reprinted *The Ways of Paradox*, 2nd ed., Cambridge: Harvard University Press.
+
+[^quine-1969]: –––, 1969. “Foreword,” in Lewis, 1969.
+
+[^rawls-1955]: Rawls, John, 1955. “Two Concepts of Rules,” *Philosophical Review*, 63: 3–32.
+
+[^reichenbach-1922]: Reichenbach, Hans, 1922/1978. “The Present State of the Discussion on Relativity,” trans. M. Reichenbach. In *Hans Reichenbach: Selected Writings, 1909–1953*, vol. 2, Dordrecht: Reidel.
+
+[^russell-1921]: Russell, Bertrand, 1921. *The Analysis of Mind*, London: Unwin Brothers Ltd.
+
+[^samuelson-1997]: Samuelson, Larry, 1997. *Evolutionary Games and Equilibrium Selection*, Cambridge, MA: MIT Press.
+
+[^schelling-1960]: Schelling, Thomas, 1960. *The Strategy of Conflict*, Cambridge: Harvard University Press.
+
+[^schiffer-1972]: Schiffer, Stephen, 1972. *Meaning*, Oxford: Oxford University Press.
+
+[^schiffer-1987]: –––, 1987. *Remnants of Meaning*, Cambridge, MA: MIT Press.
+
+[^schiffer-1993]: –––, 1993. “Actual-Language Relations,” *Philosophical Perspectives*, 7: 231–258.
+
+[^schiffer-2006]: –––, 2006. “Two Perspectives on Knowledge of Language,” *Philosophical Issues*, 16: 275–287.
+
+[^schiffer-2017]: –––, 2017. “Intention and Convention in the Theory of Meaning,” in B. Hale, C. Wright, and A. Miller (eds.), *A Companion to the Philosophy of Language*, 2nd edition, Malden, MA: Wiley.
+
+[^schlick-1917]: Schlick, Moritz, 1917/1920. *Space and Time in Contemporary Physics*, trans. H. L. Brose. Oxford: Oxford University Press.
+
+[^schlick-1953]: –––, 1953.“Are Natural Laws Conventions?,” trans. Herbert Feigl and May Brodbeck. In *Readings in the Philosophy of Science*, ed. Feigl and Brodbeck, New York: Appleton-Century-Crofts.
+
+[^schotter-1981]: Schotter, Andrew, 1981. *The Economic Theory of Social Institutions*, Cambridge: Cambridge University Press.
+
+[^searle-1969]: Searle, John, 1969. *Speech Acts*, Cambridge: Cambridge University Press.
+
+[^searle-1995]: –––, 1995. *The Construction of Social Reality*, New York: Free Press.
+
+[^searle-2001]: –––, 2001. *Rationality in Action*, Cambridge, MA: MIT Press.
+
+[^sellars-1963]: Sellars, Wilfrid, 1963. “Some Reflections on Language Games,” Reprinted in *Science, Perception, and Reality*, New York: Routledge and Kegan Paul.
+
+[^shapley-1964]: Shapley, Lloyd, 1964. “Some Topics in Two-person Games,” *Advances in Game Theory: Annals of Mathematical Studies*, 5: 1–28.
+
+[^shin-1996]: Shin, Hyun Song and Williamson, Timothy, 1996. “How Much Common Belief is Necessary for Convention?,” *Games and Economic Behavior*, 13: 252–268.
+
+[^sidelle-1989]: Sidelle, Alan, 1989. *Necessity, Essence, and Individuation: A Defense of Conventionalism*, Cornell: Cornell University Press.
+
+[^sider-2003]: Sider, Theodore, 2003. “Reductive Theories of Modality,” in *The Oxford Handbook of Metaphysics*, ed. Michael Loux and Dean Zimmerman, Oxford: Oxford University Press.
+
+[^sillari-2005]: Sillari, Giacomo, 2005. “A Logical Framework for Convention,” *Synthese*, 147: 379–400.
+
+[^sillari-2008]: –––, 2008. “Common Knowledge and Convention,” *Topoi*, 27: 29–39.
+
+[^simmel-1908]: Simmel, Georg, 1908/1971. “How is Society Possible?,” Reprinted in *George Simmel: On Individuality and Social Forms*, ed. Donald Levine, Chicago: University of Chicago Press.
+
+[^simons-2019]: Simons, Mandy, and Zollman, Kevin, 2019. “Natural Conventions and Indirect Speech Acts,” *Philosophers’Imprint*, 19: 1–26.
+
+[^sklar-1977]: Sklar, Lawrence, 1977. *Space, Time, and Spacetime*. Berkeley: University of California Press.
+
+[^skyrms-1996]: Skyrms, Brian, 1996. *Evolution of the Social Contract*, Cambridge: Cambridge University Press.
+
+[^skyrms-1998]: –––, 1998. “Salience and Symmetry-Breaking in the Evolution of Convention,” *Law and Philosophy*, 17: 411–418.
+
+[^skyrms-2010]: –––, 2010. *Signals: Evolution, Learning, and Communication*, Oxford: Oxford University Press.
+
+[^skyrms-2023]: –––, 2023. “Quasi-Conventions,” *Synthese*, 201: 1–16.
+
+[^snare-1991]: Snare, Francis, 1991. *Moral, Motivation, and Convention*. Cambridge: Cambridge University Press.
+
+[^sugden-1986]: Sugden, Robert, 1986/2004. *The Economics of Rights, Co-operation, and Welfare*, 2nd ed., New York: Palgrave Macmillan.
+
+[^sugden-1998]: –––, 1998. “The Role of Inductive Reasoning in the Evolution of Conventions,” *Law and Philosophy*, 17: 377–410.
+
+[^sugden-2011]: –––, 2011. “Salience, Inductive Reasoning, and the Emergence of Conventions,” *Journal of Economic Behavior and Organization*, 79: 35–47.
+
+[^syverson-2003]: Syverson, Paul, 2003. *Logic, Convention, and Common Knowledge: A Conventionalist Account of Logic*, Stanford: CSLI Publications.
+
+[^taylor-1978]: Taylor, Peter and Jonker, Leo, 1978. “Evolutionarily Stable Strategies and Game Dynamics,” *Mathematical Biosciences*, 40: 145–156.
+
+[^ullmann-margalit-1977]: Ullmann-Margalit, Edna, 1977. *The Emergence of Norms*, Oxford: Clarendon Press.
+
+[^vanderschraaf-1995]: Vanderschraaf, Peter, 1995. “Convention as Correlated Equilibrium,” *Erkenntnis*, 42: 65–87.
+
+[^vanderschraaf-1998a]: –––, 1998a. “The Informal Game Theory in Hume’s Account of Convention,” *Economics and Philosophy*, 14: 215–247.
+
+[^vanderschraaf-1998b]: –––, 1998b. “Knowledge, Equilibrium, and Convention,” *Erkenntnis*, 49: 337–369.
+
+[^vanderschraaf-2001]: –––, 2001. *Learning and Coordination: Inductive Deliberation, Equilibrium, and Convention*, London: Routledge.
+
+[^vanderschraaf-2019]: –––, 2019. *Strategic Justice: Convention and Problems of Balancing Divergent Interests*, Oxford: Oxford University Press.
+
+[^verbeek-2008]: Verbeek, Bruno, 2008. “Conventions and Moral Norms: The Legacy of Lewis,” *Topoi*, 27: 73–86.
+
+[^warren-2015]: Warren, Jared, 2015. “Conventionalism, Consistency, and Consistency Sentences,” *Synthese*, 192: 1351–1371.
+
+[^warren-2017]: –––, 2017. “Revisiting Quine on Truth by Convention,” *Journal of Philosophical Logic*, 46: 119–139.
+
+[^warren-2020]: –––, 2020. *Shadows of Syntax*, Oxford: Oxford University Press.
+
+[^williams-2002]: Williams, Bernard, 2002. *Truth and Truthfulness*, Princeton: Princeton University Press.
+
+[^williamson-2000]: Williamson, Timothy, 2000. *Knowledge and its Limits*, Oxford: Oxford University Press.
+
+[^young-1993]: Young, H. Peyton, 1993. “The Evolution of Conventions,” *Econometrica*, 61: 57–84.
+
+[^young-1996]: –––, 1996. “The Economics of Convention,” *Journal of Economic Perspectives*, 10: 105–122.
+
+[^young-1998]: –––, 1998. *Individual Strategy and Social Structure*, Princeton: Princeton University Press.
+
+[^young-2004]: –––, 2004. *Strategic Learning and its Limits*, Oxford: Oxford University Press.
+
+[^zermelo-1913]: Zermelo, Ernst, 1913. “Über eine Anwendung der Mengenlehre auf die theorie des Schachspiels,” *Proceedings of the Fifth International Congress of Mathematicians*, 2: 501–4.

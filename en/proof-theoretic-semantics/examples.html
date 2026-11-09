@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Proof-Theoretic Semantics &gt; Examples of Proof-theoretic Validity (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/proof-theoretic-semantics/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/proof-theoretic-semantics/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theoretic-semantics">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Proof-Theoretic Semantics</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2><a name="ExaProTheVal">Examples of Proof-theoretic Validity</a></h2>
+
+<p>
+Prawitz&rsquo;s definition of validity, of which there are several
+variants, can be reconstructed as follows. We consider only the
+constants of positive propositional logic (conjunction, disjunction,
+implication). We assume that an atomic system <em class="m">S</em> is
+given determining the derivability of atomic formulas, which is the
+same as their validity. A formula over <em class="m">S</em> is a
+formula built up by means of logical connectives starting with atoms
+from <em class="m">S</em>. We propose the term &ldquo;derivation
+structure&rdquo; for a candidate for a valid derivation. (Prawitz uses
+various terminologies, such as &ldquo;[argument or proof]
+schema&rdquo; or &ldquo;[argument or proof] skeleton&rdquo;.) A
+<em>derivation structure</em> is composed of arbitrary rules. The
+general form of an arbitrary inference rule is the following, where
+the square brackets indicate assumptions which can be discharged at
+the application of the rule:</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$[C_{11},\ldots,C_{1m_1}]$} \noLine\UnaryInfC{$A_1$} \AxiomC{$\ldots$} \AxiomC{$[C_{n1},\ldots,C_{nm_n}]$} \noLine\UnaryInfC{$A_n$} \TrinaryInfC{$B$} 
+\end{prooftree} \hspace{-2em},\]
+</p>
+
+<p>
+in short</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$\Gamma_1$} \noLine\UnaryInfC{$A_1$} \AxiomC{$\ldots$} \AxiomC{$\Gamma_n$} \noLine\UnaryInfC{$A_n$} \TrinaryInfC{$B$} 
+\end{prooftree}\]
+</p>
+
+<p>
+Obviously, the standard introduction and elimination rules are
+particular cases of such rules. As a generalization of the standard
+reductions of maximal formulas it is supposed that certain reduction
+procedures are given. A reduction procedure transforms a given
+derivation structure into another one. A set of reduction procedures
+is called a <em>derivation reduction system</em> and denoted by
+\(\mathcal{J}\). Reductions serve as justifying procedures for
+non-canonical steps, i.e. for all steps, which are not
+self-justifying, i.e., which are not introduction steps. Therefore a
+reduction system \(\mathcal{J}\) is also called a
+<em>justification</em>. Reduction procedures must satisfy certain
+constraints such as closure under substitution. As the validity of a
+derivation not only depends on the atomic system <em class="m">S</em>
+but also on the derivation reduction system used, we define the
+validity of a derivation structure with respect to the underlying
+atomic basis <em class="m">S</em> and with respect to the
+justification \(\mathcal{J}\):</p>
+
+<ol>
+
+<li>Every closed derivation in <em class="m">S</em> is <em class="m">S</em>-valid
+with respect to \(\mathcal{J}\) (for every
+\(\mathcal{J})\).</li>
+
+<li>A closed canonical derivation structure is <em class="m">S</em>-valid
+with respect to \(\mathcal{J}\), if all its
+immediate substructures are <em class="m">S</em>-valid with respect to
+\(\mathcal{J}\).</li>
+
+<li>A closed non-canonical derivation structure is <em class="m">S</em>-valid
+with respect to \(\mathcal{J}\), if it reduces,
+with respect to \(\mathcal{J}\), to a canonical derivation structure,
+which is <em class="m">S</em>-valid with respect to
+\(\mathcal{J}\).</li>
+
+<li>An open derivation structure 
+\[\begin{prooftree}
+\AxiomC{$A_1\ldots A_n$} \noLine\UnaryInfC{$\mathcal{D}$} \noLine\UnaryInfC{$B$} 
+\end{prooftree}\]
+ where all open
+assumptions of \(\mathcal{D}\) are among \(A_1,\ldots ,A_n\), is <em class="m">S</em>-valid
+with respect to \(\mathcal{J}\), if for every
+extension \(S'\) of <em class="m">S</em> and every extension
+\(\mathcal{J}'\) of \(\mathcal{J}\), and for every list of closed
+derivation structures 
+\[\begin{prooftree}
+\AxiomC{$\mathcal{D_i}$} \RightLabel{$(1 \le i \le n)$,} \noLine\UnaryInfC{$A_i$} 
+\end{prooftree}\]
+ which are \(S'\)-valid with respect
+to \(\mathcal{J}'\), 
+\[\begin{prooftree}
+\AxiomC{$\mathcal{D}_1\quad\;\mathcal{D}_n$} \noLine\UnaryInfC{$A_1\ldots A_n$} \noLine\UnaryInfC{$\mathcal{D}$} \noLine\UnaryInfC{$B$} 
+\end{prooftree}\]
+
+<p>
+is \(S'\)-valid with respect to \(\mathcal{J}'\).</p> </li>
+</ol>
+
+<p>
+(See Prawitz, 1973, p.&nbsp;236; 1974, p.&nbsp;73; 2006;
+Schroeder-Heister, 2006.) In clause (iv), the reason for considering
+extensions \(\mathcal{J}'\) of \(\mathcal{J}\) and extensions \(S'\)
+of <em class="m">S</em>, is a monotonicity constraint. Derivations
+should remain valid if one&rsquo;s knowledge incorporated in the
+atomic system and in the reduction procedures is extended.</p>
+
+<p>
+A corresponding concept of <em>universal validity</em> can be defined
+as follows: Let \(S_0\) be the atomic system with only propositional
+variables as atoms and with no inference rules. Let
+\(\mathcal{L}(S_0)\) be a set of derivation structures over \(S_0\)
+together with a justification \(\mathcal{J}\) . Let <em class="m">v</em>
+be an assignment of <em class="m">S</em>-formulas to
+propositional variables. Let \(\mathcal{D}^v\) be obtained from
+\(\mathcal{D}\) by substituting in \(\mathcal{D}\) propositional
+variables <em class="m">p</em> with \(v(p)\). Let \(\mathcal{J}^v\) be
+the set of reductions which acts on derivations \(\mathcal{D}^v\) in
+the same way as \(\mathcal{J}\) acts on \(\mathcal{D}\)(i.e.,
+\(\mathcal{J}^v\) is the homomorphic image of \(\mathcal{J}\) under
+\(v)\). Then a derivation structure \(\mathcal{D}\) in
+\(\mathcal{L}(S_0)\) (i.e. a derivation structure containing only
+propositional variables as atoms) is defined to be <em>universally
+valid</em> with respect to \(\mathcal{J}\) iff for every <em class="m">S</em>
+and every \(v, \mathcal{D}^v\) is <em class="m">S</em>-valid
+with respect to \(\mathcal{J}^v\). It is easy
+to see that \(\mathcal{D}\) is universally valid with respect to
+\(\mathcal{J}\) iff \(\mathcal{D}\) is \(S_0\)-valid with respect to
+\(\mathcal{J}\). This means that we can use the term
+&ldquo;valid&rdquo; (with respect to some \(\mathcal{J} )\)
+interchangeably for both universal and \(S_0\)-validity.</p>
+
+<p>
+Validity with respect to some \(\mathcal{J}\) can be viewed as a
+generalized notion of logical validity. In fact, if we specialize
+\(\mathcal{J}\) to the standard reductions of intuitionistic logic,
+then all derivations in intuitionistic logic are valid with respect to
+\(\mathcal{J}\) (see below). The <em class="m">S</em>-validity of a
+generalized inference rule</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$\Gamma_1$} \noLine\UnaryInfC{$A_1$} \AxiomC{$\ldots$} \AxiomC{$\Gamma_n$} \noLine\UnaryInfC{$A_n$} \TrinaryInfC{$B$} 
+\end{prooftree}\]
+</p>
+
+<p>
+with respect to a justification \(\mathcal{J}\) means that for all
+derivations</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$\Gamma_1\qquad\; \Gamma_n$} \noLine\UnaryInfC{$\mathcal{D}_1,\ldots,\mathcal{D}_n$} \noLine\UnaryInfC{$A_1\qquad\; A_n$} 
+\end{prooftree}\]
+</p>
+
+<p>
+which are \(S'\)-valid with respect to \(\mathcal{J}'\) for extensions
+\(S'\) and \(\mathcal{J}'\) of <em class="m">S</em> and
+\(\mathcal{J}\), respectively, the derivation</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$\Gamma_1$} \noLine\UnaryInfC{$\mathcal{D}_1$} \noLine\UnaryInfC{$A_1$} \AxiomC{$\ldots$} \AxiomC{$\Gamma_n$} \noLine\UnaryInfC{$\mathcal{D}_n$} \noLine\UnaryInfC{$A_n$} \TrinaryInfC{$B$} 
+\end{prooftree}\]
+</p>
+
+<p>
+is \(S'\)-valid with respect to \(\mathcal{J}'\). For a simple
+inference rule</p>
+
+<p>
+
+\[\frac{A_1 \quad\ldots\quad A_n}{A}\]
+</p>
+
+<p>
+this means that if it is <em class="m">S</em>-valid with respect to
+\(\mathcal{J}\) , it is <em class="m">S</em>-valid with respect to
+\(\mathcal{J}\) when viewed as a one-step derivation structure.</p>
+
+<p>
+This gives rise to a corresponding notion of consequence (see also
+Prawitz, 1985). Instead of saying that the rule</p>
+
+<p>
+
+\[\frac{A_1 \quad\ldots\quad A_n}{A}\]
+</p>
+
+<p>
+is <em class="m">S</em>-valid with respect to \(\mathcal{J}\), we may
+say that <em class="m">A</em> is a <em>consequence</em> of
+\(A_1,\ldots,A_n\) <em>with respect to</em> <em class="m">S</em>
+<em>and</em> \(\mathcal{J}\), formally \(A_1,\ldots
+,A_n\vDash_{S,\mathcal{J}} A\). If we consider universal validity with
+respect to \(\mathcal{J}\), we may speak of <em>consequence with
+respect to</em> \(\mathcal{J}\), formally \(A_1,\ldots
+,A_n\vDash_{\mathcal{J}} A\). Finally, if there is some
+\(\mathcal{J}\) such that universal validity holds for \(\mathcal{J}\)
+, then we may speak of <em>logical consequence</em>, formally \(A_1
+,\ldots,A_n\vDash A\).</p>
+
+<p>
+This makes <em>proof-theoretic</em> consequence differ from
+<em>constructive</em> consequence according to which</p>
+
+<p>
+
+\[\frac{A_1 \quad\ldots\quad A_n}{A}\]
+</p>
+
+<p>
+would be defined as valid with respect to a <em>constructive
+function</em> <em class="m">f</em>, if <em class="m">f</em> transforms
+valid arguments of the premisses \(A_1,\ldots,A_n\) into a valid
+argument of the conclusion <em class="m">A</em>. Actually, it is not
+always possible to extract such a constructive function from our
+derivation reduction system, as a reduction system \(\mathcal{J}\)
+serving as a justification need not be deterministic, which means that
+it merely generates a constructive relation on arguments. However,
+constructive consequence may be viewed as a limiting case of
+proof-theoretic consequence.</p>
+
+<p>
+Examples of proof-theoretic validity</p>
+
+<p>
+The following are the standard reductions for conjunction, disjunction
+and implication, as used in proofs of normalization.</p>
+
+<div class="figures nocaption">
+<img alt="reduction table" src="fig1.8.png" style="width:525px" />
+</div>
+
+<p>
+For simplicity, we disregard atomic systems <em class="m">S</em> and
+speak of \(\mathcal{J}\)-validity for validity with respect to
+\(\mathcal{J}\) . First we observe that any derivation that results
+from the composition of \(\mathcal{J}\)-valid rules and/or
+\(\mathcal{J}\)-valid derivations is itself \(\mathcal{J}\)-valid. For
+example, the derivation</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$A$} \AxiomC{$B$} \BinaryInfC{$C$} \noLine\UnaryInfC{$\mathcal{D}_1$} \noLine\UnaryInfC{$D$} \AxiomC{$\mathcal{D}_2$} \noLine\UnaryInfC{$E$} \BinaryInfC{$F$} 
+\end{prooftree}\]
+</p>
+
+<p>
+is \(\mathcal{J}\)-valid, if the rules</p>
+
+<p>
+
+\[ \frac{A\quad B}{C} \quad\text{and}\quad \frac{D\quad E}{F}\]
+</p>
+
+<p>
+as well as the derivations \(\mathcal{D}_1\) and \(\mathcal{D}_2\) are
+\(\mathcal{J}\)-valid.</p>
+
+<p>
+As our first example, we show that the rule of \(\rightarrow\)
+elimination (modus ponens) is valid with respect to
+\(\{sr(\rightarrow)\}\), i.e., with respect to the justification
+consisting just of the standard reduction for implication. For that we
+have to show that for any \(\mathcal{J} \supseteq
+\{sr(\rightarrow)\}\), and for all closed \(\mathcal{J}\)-valid
+derivations</p>
+
+<p>
+
+\[ \begin{prooftree}
+\AxiomC{$\mathcal{D}_1$} \noLine\UnaryInfC{$A\to B$} 
+\end{prooftree} \quad\text{and}\quad \begin{prooftree}
+\AxiomC{$\mathcal{D}_2$} \noLine\UnaryInfC{$A$} 
+\end{prooftree}, \]
+</p>
+
+<p>
+the derivation</p>
+
+<p>
+
+\[ \begin{prooftree}
+\AxiomC{$\mathcal{D}_1$} \noLine\UnaryInfC{$A\to B$} \AxiomC{$\mathcal{D}_2$} \noLine\UnaryInfC{$A$} \BinaryInfC{$B$} 
+\end{prooftree} \]
+</p>
+
+<p>
+is \(\mathcal{J}\)-valid. Since \(\mathcal{D}_1\) is closed
+\(\mathcal{J}\)-valid, it is of the form, or reduces with respect to
+\(\mathcal{J}\) to the form</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$[A]$} \noLine\UnaryInfC{$\mathcal{D}'_1$} \noLine\UnaryInfC{$B$} \RightLabel{ (1),} \UnaryInfC{$A\to B$} 
+\end{prooftree}\]
+</p>
+
+<p>
+where \(\mathcal{D}_1 '\) is \(\mathcal{J}\)-valid. Applying
+\(sr(\rightarrow)\), which is part of \(\mathcal{J}\), to</p>
+
+<p>
+
+\[ \begin{prooftree}
+\AxiomC{$[A]$} \noLine\UnaryInfC{$\mathcal{D}'_1$} \noLine\UnaryInfC{$B$} \RightLabel{ (1)} \UnaryInfC{$A\to B$} \AxiomC{$\mathcal{D}_2$} \noLine\UnaryInfC{$A$} \BinaryInfC{$B$} 
+\end{prooftree} \]
+</p>
+
+<p>
+yields the derivation</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$\mathcal{D}_2$} \noLine\UnaryInfC{$A$} \noLine\UnaryInfC{$\mathcal{D}'_1$} \noLine\UnaryInfC{$B$.} 
+\end{prooftree} \]
+</p>
+
+<p>
+This derivation is \(\mathcal{J}\)-valid, as it is the result of a
+composition of the \(\mathcal{J}\)-valid derivations
+\(\mathcal{D}_1'\) and \(\mathcal{D}_2\). In a similar way we can
+demonstrate the validity of \(\wedge\) and \(\vee\) elimination with
+respect to the standard reductions \(sr(\wedge)\) and \(sr(\vee)\) as
+justifications.</p>
+
+<p>
+As our second example, we show that the rule of importation</p>
+
+<p>
+
+\[\tag{$R_{\imp}$} \frac{A\to(B\to C)}{A \land B \to C} \]
+</p>
+
+<p>
+is valid with respect to the justification \(\mathcal{J}_{\imp} =
+\{sr(\rightarrow),sr(\wedge),r_1,r_2\}\), where \(sr(\rightarrow)\)
+and \(sr(\wedge)\) are, as before, the standard reductions for
+implication and conjunction, and \(r_1\) and \(r_2\) are the following
+reductions:</p>
+
+<div class="figures nocaption">
+<img alt="table of reductions" src="fig1.17.png" style="width:413px" />
+</div>
+
+<p>
+We have to show that for every \(\mathcal{J} \supseteq
+\mathcal{J}_{\imp}\) and for every closed \(\mathcal{J}\)-valid
+derivation</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$\mathcal{D}$} \noLine\UnaryInfC{$A\to(B\to C)$} 
+\end{prooftree}\]
+</p>
+
+<p>
+the derivation</p>
+
+<p>
+
+\[\tag{$\mathcal{D}_1$} \begin{prooftree}
+\AxiomC{$\mathcal{D}$} \noLine\UnaryInfC{$A\to(B\to C)$} \UnaryInfC{$A\land B\to C$} 
+\end{prooftree}\]
+</p>
+
+<p>
+is \(\mathcal{J}\)-valid. Since \(\mathcal{D}\) is closed
+\(\mathcal{J}\)-valid, it is of the form, or reduces with respect to
+\(\mathcal{J}\) to the form</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{(1)} \noLine\UnaryInfC{$[A]$} \noLine\UnaryInfC{$\mathcal{D}'$} \noLine\UnaryInfC{$B\to C$} \RightLabel{(1),} \UnaryInfC{$A\to (B\to C)$} 
+\end{prooftree}\]
+</p>
+
+<p>
+where \(\mathcal{D}'\) is \(\mathcal{J}\)-valid. Applying \(r_1\) to
+this derivation yields</p>
+
+<p>
+
+\[\tag{$\mathcal{D}_2$} \begin{prooftree}
+\AxiomC{(2)} \noLine\UnaryInfC{$[A]$} \noLine\UnaryInfC{$\mathcal{D}'$} \noLine\UnaryInfC{$B\to C$} \AxiomC{(1)} \noLine\UnaryInfC{$[B]$} \BinaryInfC{$C$} \RightLabel{(1)} \UnaryInfC{$B\to C$} \RightLabel{(2)} \UnaryInfC{$A\to (B\to C)$} 
+\end{prooftree}\]
+</p>
+
+<p>
+which is \(\mathcal{J}\)-valid, as it is composed of the
+\(\mathcal{J}\)-valid derivation \(\mathcal{D}'\) and
+\(\mathcal{J}\)-valid rules (note that \(\rightarrow\) elimination is
+\(\mathcal{J}\)-valid since \(sr(\rightarrow)\) belongs to
+\(\mathcal{J}\), and introduction rules are trivially valid). This
+means that \(\mathcal{D}_1\) reduces with respect to \(\mathcal{J}\)
+to</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{$\mathcal{D}_2$} \noLine\UnaryInfC{$A\to(B\to C)$} \UnaryInfC{$A\land B\to C$} 
+\end{prooftree}\,,\]
+</p>
+
+<p>
+which, by means of \(r_2\), reduces to</p>
+
+<p>
+
+\[\begin{prooftree}
+\AxiomC{(1)} \noLine\UnaryInfC{$[A\land B]$} \UnaryInfC{$A$} \noLine\UnaryInfC{$\mathcal{D}'$} \noLine\UnaryInfC{$B\to C$} \AxiomC{(1)} \noLine\UnaryInfC{$[A\land B]$} \UnaryInfC{$B$} \BinaryInfC{$C$} \RightLabel{ (1)\,.} \UnaryInfC{$A\land B\to C$} 
+\end{prooftree}\]
+</p>
+
+<p>
+The latter derivation structure is \(\mathcal{J}\)-valid as being
+composed of the \(\mathcal{J}\)-valid derivation structure
+\(\mathcal{D}'\) and \(\mathcal{J}\)-valid rules \((\wedge\)
+elimination and \(\rightarrow\) elimination are \(\mathcal{J}\)-valid,
+because \(sr(\rightarrow)\) and \(sr(\wedge)\) are in \(\mathcal{J}
+)\).</p>
+
+<p>
+Alternatively, \(R_{\imp}\) can be shown to be valid with respect to
+\(\mathcal{J}_{\imp}' = \{sr(\rightarrow),sr(\wedge),r_3\}\), where
+\(r_3\) is defined as:</p>
+
+<div class="figure nocaption">
+<img alt="derivation list" src="fig1.24.png" style="width:513px" />
+</div>
+
+<p>
+The comparison of the standard reductions \((sr(\rightarrow),
+sr(\wedge), sr(\vee))\) with the reductions \(r_1,r_2\) and \(r_3\)
+shows that the former are elementary in the sense that they just
+compose given subderivations, whereas \(r_1,r_2\) and \(r_3\) use
+additional steps to generate their output. \(r_1\) uses
+\(\rightarrow\) E and introduction rules, \(r_2\) uses \(\wedge\)E and
+introduction rules, and \(r_3\) uses both \(\rightarrow\) E and
+\(\wedge\)E, and introduction rules. In using standard elimination
+inferences, both \(\mathcal{J}_{\imp}\) and \(\mathcal{J}_{\imp}'\)
+have to rely on the standard reductions for the connectives involved.
+\(\mathcal{J}_{\imp}\) can be viewed more elementary than
+\(\mathcal{J}_{\imp}'\) in that it not simply produces a natural
+deduction derivation, but requires first a reduction of the premiss
+derivation of \(R_{\imp}\) in order to be able to apply \(r_1\). In
+generating a derivation of the conclusion of \(R_{\imp}\) from its
+premiss, \(\mathcal{J}'_{\imp}\) comes nearest to constructive
+semantics, where just a transformation of derivations is required. The
+example of importation shows that not every valid rule has a
+justification consisting of elementary reductions only. As soon as one
+has a right-iterated implication in the premiss of a rule, we have to
+rely on non-elementary reductions to establish its validity.</p>
+
+<p>
+Remarks on Prawitz&rsquo;s completeness conjecture</p>
+
+<p>
+If we argue classically, we can disregard justifications and rephrase
+the definition of validity of proofs as a definition of validity of
+formulas as follows (see section
+ <a href="index.html#SentBasSem">2.7</a>
+ on sentence-based semantics in the main entry).&nbsp;We consider
+conjunction-disjunction-implication logic, which is essentially
+minimal logic.</p>
+
+<ol>
+
+<li>An atomic formula <em class="m">A</em> is <em class="m">S</em>-valid,
+if it is derivable in <em class="m">S</em>.</li>
+
+<li>A conjunction \(A\wedge B\) is <em class="m">S</em>-valid, if both
+<em class="m">A</em> and <em class="m">B</em> are <em class="m">S</em>-valid.</li>
+
+<li>A disjunction \(A\vee B\) is <em class="m">S</em>-valid, if either
+<em class="m">A</em> or <em class="m">B</em> is <em class="m">S</em>-valid.</li>
+
+<li>An implication \(A \rightarrow B\) is <em class="m">S</em> valid,
+if for every extension \(S'\) of <em class="m">S</em>, if <em class="m">A</em>
+if \(S'\)-valid then <em class="m">B</em> is
+\(S'\)-valid.</li>
+</ol>
+
+<p>
+This very much resembles Kripke-semantics of intuitionistic logic (see
+Troelstra and van Dalen, 1988, Ch.&nbsp;2, and the entry on
+ i<a href="../logic-intuitionistic/">ntuitionistic logic</a>).
+ The reference points (worlds) are atomic systems <em class="m">S</em>,
+and accessibility is the extension relation between
+such systems. We can identify an atomic system with the set of atoms
+and rules derivable in it. Furthermore, we can identify rules with
+implications, as implications together with modus ponens behave like
+rules. The atomic systems <em class="m">S</em> can thus be identified
+with deductively closed sets of implications. Together with the subset
+ordering as accessibility relation, we obtain exactly what in
+Kripke-style completeness proofs is known as the canonical model for
+implicational logic. Thus we can conclude that for implicational logic
+(and, in fact, for implication-conjunction logic), Prawitz&rsquo;s
+completeness conjecture is correct, i.e., conjunction-implication
+logic is complete with respect to validity-based semantics.</p>
+
+<p>
+However, the analogy to the canonical model breaks down if we add
+disjunction. In this case, in Kripke-style completeness proofs one has
+to require saturation, saying that, if a disjunction is member of a
+world of the canonical model, then so is one of its disjuncts. An
+explicit counterexample to Prawitz&rsquo;s completeness conjecture can
+actually be given. Piecha, de Campos Sanz and Schroeder-Heister (2015)
+and, under weaker conditions, Piecha and Schroeder-Heister (2019) have
+shown that Harrop&rsquo;s rule</p>
+
+<p>
+
+\[ \frac{\neg A \to (B \lor C)}{(\neg A \to B) \lor (\neg A \to C)} \]
+</p>
+
+<p>
+which is not derivable in intuitionistic logic, is valid (see section
+ <a href="index.html#SemCompl">2.8</a>
+ on semantical completeness).</p>
+
+<p>
+It should be mentioned that even the above verification of
+Prawitz&rsquo;s completeness conjecture for implicational logic only
+holds if we allow the atomic systems to contain primitive rules which
+discharge assumptions, and not solely production rules. Only then
+there is a full analogy between (iterated) implications and
+(higher-level) rules, which is needed for the parallelism between
+atomic systems and their extensions on one side and the canonical
+model on the other. Otherwise counterexamples to completeness can be
+constructed (see Sandqvist, 2009).</p>
+
+<p>
+It should also be noticed that it is not fully clear of whether the
+validity-based semantics presented here is exactly what Prawitz
+intended. In Prawitz (1971) he gives a clause for implication where he
+refers to arbitrary extensions of atomic systems, but in Prawitz
+(1973), where he formulates the completeness conjecture, and also in
+later papers, he does not consider extensions. Considering extensions
+in the clause for implication is crucial for the analogy to Kripke
+models on which we have drawn here. Without considering extensions we
+are loosing monotonicity, i.e., something shown to be valid in <em class="m">S</em>
+need no longer be valid if <em class="m">S</em> is
+extended, which is an inconvenient result. A possible rationale for
+not considering extensions would be to regard atomic systems as
+definitions in the sense of definitional reflection (see section
+ <a href="index.html#DefRef">2.3.2</a>)
+ rather than just production systems describing an information state.
+For further discussions of this topic see&nbsp;Piecha (2016).</p>
+
+<p>
+At the epistemological level, validity-based semantics was further
+developed by Prawitz in his theory of grounds (Prawitz 2015). This
+approach has been significantly expanded by Piccolomini
+d&rsquo;Aragona (2023) towards an encompassing formal theory of
+epistemic grounding, which, by using term-annotated propositions, is
+related to the formulae-as-types paradigm and thus to
+Martin-L&ouml;f&rsquo;s proof-theoretic semantics (see section
+ <a href="index.html#ConTypThe">2.2.3</a>
+ on contructive type theory).&nbsp; For epistemological reasons,
+Prawitz himself is no longer pursuing the formal theory of
+proof-theoretic validity sketched in this supplement, which is based
+on the conceptual primacy of the&nbsp;validity of proofs over
+the&nbsp;validity of inferences. Instead he uses a general
+characterization of the interdependency of the concepts of inference,
+validity, argument, canonicality etc. without yet trying to bring
+these concepts into the&nbsp;well-founded order needed for an
+inductive definition (Prawitz 2024).&nbsp;</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+Peter Schroeder-Heister
+&lt;<a href="m&#97;ilto:psh&#37;40uni-tuebingen&#37;2ede"><em>psh<abbr title=" at ">&#64;</abbr>uni-tuebingen<abbr title=" dot ">&#46;</abbr>de</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

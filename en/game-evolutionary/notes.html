@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Evolutionary Game Theory &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/game-evolutionary/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/game-evolutionary/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=game-evolutionary">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Evolutionary Game Theory</a></h2>
+
+<div id="note-1">
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+   An earlier, logically equivalent, definition of an evolutionarily stable strategy can be found
+   in the Maynard Smith and Price paper &ldquo;The Logic of Animal Conflict&rdquo;, <em>Nature</em>,
+   vol. 246, pp. 15&ndash;18 (1973).   In the introduction to his 1972 collection of essays entitled <em>On Evolution</em>, Maynard Smith gives credit to George Price for the idea: &ldquo;I would probably not have had the idea for this essay if I had not seen an unpublished manuscript on the evolution of fighting by Dr George Price [&hellip;] Unfortunately, Dr Price is better at having ideas than at publishing them.  The best I can do therefore is acknowledge that if there is anything in the idea, the credit should go to Dr Price and not to me.&rdquo;
+ </p></div>
+
+
+<div id="note-2">
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ In a mixed
+strategy, a player assigns a probability to each pure strategy, and
+chooses which strategy to play using a randomization device. For the
+Hawk-Dove game, one mixed strategy would assign equal probabilities to
+playing Hawk or Dove, and decide which to play in a given case by
+flipping a fair coin.</p></div>
+
+<div id="note-3">
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+   Sandholm's book is specifically entitled that in order to pay homage to Josef Hofbauer's influential book <em>Evolutionary Games and Population Dynamics</em>, first published in 1998. We bring this point to the reader's attention, as it creates the potential for accidental confusion.
+</p></div>
+
+
+<div id="note-4">
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ In Nowak and
+May&rsquo;s model, each individual on the lattice plays the prisoner&rsquo;s
+dilemma with their eight nearest neighbors. At the end of each game
+round, an individual compares her score with that of her neighbors. If
+one of her neighbors earned a higher score, that player will adopt the
+strategy used by her most successful neighbor (presumably using some
+kind of randomization process to break ties). If no neighbor earned a
+higher score, that player will continue using the same strategy for the
+next round of play. All individuals switch strategies at the same time,
+and all have the same payoff structure.</p></div>
+
+<div id="note-5">
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ Of course, Nowak
+and May were speaking somewhat loosely when they referred to this
+behavior as &ldquo;chaotic.&rdquo; Since there are only finitely many states of the
+population, it must be the case that this dynamical system will
+eventually settle into a cycle (although it may not repeat itself for a
+very long time). However, the point is clear enough: in this particular
+case we are incapable of predicting the state of the model after
+\(N\) generations (for a large \(N)\) without running the
+model for that length of time. In both of the previous cases, it is
+easy to predict the future state of the population given its current
+state.</p></div>
+
+<div id="note-6">
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ Both agents would
+clearly do better if both agents elected to cooperate, but the point
+where both individuals choose cooperate is not a Nash equilibrium: if
+both agents initially cooperate, the first individual can increase her
+payoff by choosing to defect (and vice versa).</p></div>
+
+<div id="note-7">
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ This is a problem
+only when we consider games other than two-person zero sum games, since
+all Nash equilibria in these sort of games have equivalent payoffs and
+are interchangable.</p></div>
+
+<div id="note-8">
+<p>
+
+ <a href="index.html#ref-8">8.</a> One &ldquo;beauty pageant&rdquo;
+game is as follows: a group of subjects is told to choose any number
+in the interval [0,100]. The person whose choice is closest to half of
+the mean of the group wins the game. Assuming that the rules of the
+game and the rationality of the players are common knowledge, the
+predicted outcome of the game is that all members of the group choose
+0. Since 50 is the largest possible winning choice (if each subject
+chose 100, half of the group mean would be 50), no rational individual
+would choose a number more than 50. However, since no rational
+individual would choose a number greater than 50, and all subjects
+know this, no subject will choose a number greater than 25. In the
+limit, all players will converge upon 0. Tests with real human
+subjects (other than game theorists or people who have been exposed to
+this game before) demonstrate that the modal offer is significantly
+greater than zero. If the game is repeated, though, subjects do
+approach the game theoretic prediction.</p></div>
+
+<div id="note-9">
+<p>
+ <a href="index.html#ref-9">9.</a> The diagrams appearing in
+Figure 10 illustrate the basins of attraction for evolutionary
+dynamics when only three strategies are present. They take advantage
+of the fact that, with only three strategies, the vector \(\mathbf{p}
+= \langle p_1, p_2, p_3\rangle\) listing the frequencies of strategies
+1, 2, and 3 in the population can be interpreted as a point in
+three-dimensional Euclidean space.  Because each of the \(p_i\) are
+between 0 and 1, the corresponding point is in the first octant and
+lies on the plane described by the equation \(x + y + z = 1\).  The
+triangle is simply the portion of that plane confined to the first
+octant, looked at from a vantage point where one is staring straight
+at it.</p>
+
+<p>Given an initial condition \(\mathbf{p}\), a solution to the replicator
+dynamics is a trajectory confined to the first octant, lying on the
+surface of the plane, which starts at the point \(\mathbf{p}\). If the
+trajectory converges to one of the vertices of the triangle, that
+means that the population converges to a state where everyone uses the
+same strategy. (If the trajectory converges to a point on the edge of
+the triangle, that means the population converged to a state where
+there is a stable mix of two strategies in the population. This can
+be seen in Figure 10(a).) Thus, looking at the overall pattern of
+flows in the triangle shows how often a particular outcome is likely
+to come about: the greater the area of the triangle occupied by flows
+which converge to the outcome All Demand 5, the more likely that the
+outcome All Demand 5 is a product of evolution.
+</p></div>
+
+<div id="note-10">
+<p>
+ <a href="index.html#ref-10">10.</a> It is worth noting
+that Lewis appreciated that the type of language which could be
+explained as a product of sender-receiver games was only a
+&ldquo;rudimentary language&rdquo; (Lewis, 1969, pg. 160) for several reasons. The
+most important of these being: such languages have only a finite
+number of sentences, there was no possibility of &ldquo;idle conversation&rdquo;
+(<em>ibid.</em>), there were not enough moods, and, finally, there was
+no ambiguity or indexicality in the resulting signalling systems. It
+is interesting to note that Lewis thought that the absence of the
+possibility of idle conversation was a shortcoming worth noting, for
+some authors have recently argued that the possibility of idle
+conversation is the real reason evolution endowed us with language.
+This line of argument is advanced by Jean-Louis Dessalles in his
+book <em>Why We Talk: The Evolutionary Origins of Language</em>:</p>
+
+<blockquote>
+If evolution endowed us with language and the cognitive means
+associated with it, it was not for the purpose of speculating about
+the world into which we have been brought, of collaborating on the
+building of bridges or rockets or even devising systems of
+mathematics. It was so that we could chat. (Dessalles, 2007, pg. 269)
+</blockquote>
+</div>
+
+<div id="note-11">
+<p>
+ <a href="index.html#ref-11">11.</a> However, see Skyrms
+(forthcoming), for a discussion of sender-receiver games played by
+multiple senders and multiple receivers.
+</p></div>
+
+<div id="note-12">
+<p>
+ <a href="index.html#ref-12">12.</a> It is important to
+remember that, in <em>Convention</em>, Lewis assumed that the roles of
+Sender and Receiver were permanently assigned to individuals, even
+though he did not explicitly state this. Some of the formal results
+he established are clearly false in the case where roles are not
+permanently assigned. For example, on page 133 he writes: &ldquo;In a
+signaling problem with \(m\) states of affairs and \(n\)
+signals, there are \(n! \frasl (n - m)!\)
+signaling systems.&rdquo; In the problem considered here, there are two
+states of the world, so \(m = 2\), and there are two signals,
+so \(n = 2\). Lewis&rsquo;s formula, in this case, says that there
+should be only 2 signaling systems, but as we have seen there are
+four.</p></div>
+
+<div id="note-13">
+<p>
+ <a href="index.html#ref-13">13.</a> The exception occurs
+when there are exactly equal proportions of the strategies (Sender 2,
+Receiver 2) and (Sender 3, Receiver 3). These points lie on a plane
+dividing the state space in half. For initial conditions lying on this
+plane, the replicator dynamics does not lead the population to
+converge to a single signaling system.</p></div>
+
+<div id="note-14">
+<p>
+ <a href="index.html#ref-14">14.</a> Note that these
+diagrams are interpreted very differently from the diagrams in Figure
+10. Here, there are four possible strategies.
+Let \(p_i\) denote the proportion of the population
+following strategy \(i\). Because we know
+that \(p_1 + p_2 + p_3 + p_4 = 1\), the number of
+degrees of freedom in selecting a population state is three (since
+fixing the proportion of the population that follow three strategies
+determines the proportion of the population following the remaining
+one). Thus, the set of possible population states corresponds exactly
+to the set of points in the region which satisfy the inequality \(0
+\le p_1 + p_2 + p_3 \le 1\). The vertices of the tetrahedron
+correspond to states where everyone in the population employs the same
+strategy. An initial state of the population corresponds to a point
+in that three-dimensional region, and a solution to the replicator
+dynamics for the sender-receiver game, using that point as the initial
+state, is almost always a trajectory leading away from that
+point. Figure 11 illustrates the trajectories for 125 randomly
+selected initial conditions.
+</p></div>
+
+<div id="note-15">
+<p>
+ <a href="index.html#ref-15">15.</a> In the Hawk-Dove game
+discussed in section 2, the quantities in the payoff matrix represent
+the change in Darwinian fitness of the two individuals.</p></div>
+
+<div id="note-16">
+<p>
+
+ <a href="index.html#ref-16">16.</a> A more appropriate
+name would be &ldquo;Hume&rsquo;s fallacy.&rdquo; Moore&rsquo;s
+&ldquo;naturalistic fallacy&rdquo; discussed in <em>Principia
+Ethica</em> differs significantly from the mistaken inference of an
+ought-statement from an is-statement. Using the same label for such
+different fallacies invites confusion.</p></div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+J. McKenzie Alexander
+&lt;<a href="m&#97;ilto:jalex&#37;40lse&#37;2eac&#37;2euk"><em>jalex<abbr title=" at ">&#64;</abbr>lse<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

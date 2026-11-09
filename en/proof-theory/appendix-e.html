@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Proof Theory &gt; E. Combinatorial Independence Results (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/proof-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/proof-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Proof Theory</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>E. Combinatorial Independence Results</h2>
+
+<p>
+Results that have been achieved through ordinal analysis mainly fall
+into four groups: (1) Consistency of subsystems of classical second
+order arithmetic and set theory relative to constructive theories, (2)
+reductions of theories formulated as conservation theorems, (3)
+combinatorial independence results, and (4) classifications of
+provable functions and ordinals. In this appendix we shall just
+provide a few examples of
+ (3).<sup>[<a href="notes.html#note-56" id="ref-56">56</a>]</sup>
+ (4) is to be discussed in
+ <a href="appendix-f.html">Appendix F</a>.</p>
+ 
+<p>
+G&ouml;del&rsquo;s Incompleteness Theorems raised the question of
+whether there is a strictly mathematical example of an incompleteness
+in first-order Peano arithmetic and stronger systems, one which is
+mathematically simple and interesting and does not require the
+numerical coding of metamathematical notions. The first such examples
+were found by Gentzen and Goodman. Recall from
+ <a href="index.html#GentConsProo">section 3</a>
+ the ordinal representation for \(\varepsilon_0\) based on
+Cantor&rsquo;s normal form with its ordering \(\prec\). Let
+PRWO\((\varepsilon_0)\) be the statement that there are no infinite
+primitive recursive \(\prec\)-descending sequences.</p>
+
+<div class="indent" id="t2.7">
+
+<p>
+<span class="bold">Theorem E.1 (Gentzen 1938b)</span></p>
+
+<ol type="i">
+
+<li>The theory of primitive recursive arithmetic,
+<strong>PRA</strong>, proves that PRWO\((\varepsilon_0)\) implies the
+consistency of <strong>PA</strong>.</li>
+
+<li>Assuming that <strong>PA</strong> is consistent,
+<strong>PA</strong> does not prove PRWO\((\varepsilon_0)\).</li>
+</ol>
+</div>
+
+<p>
+This theorem is not explicitly stated in his 1938b but it is an immediate
+consequence of his consistency proof of
+ <strong>PA</strong>.<sup>[<a href="notes.html#note-57" id="ref-57">57</a>]</sup>
+ Goodstein, upon studying Gentzen&rsquo;s 1936, established a
+connection between descending sequences of ordinals below
+\(\varepsilon_0\) and certain sequences of natural numbers. He
+realized that given two ordinals \(\alpha,\beta&lt;\varepsilon_0\) one
+could replace the base \(\omega\) in their complete Cantor normal
+forms by a sufficiently large number <i>b</i> and the resulting
+natural numbers \(\hat\rT^{\omega}_{b}(\alpha)\) and
+\(\hat{\rT}^{\omega}_{b}(\beta)\) would stand in the same ordering as
+\(\alpha\) and \(\beta\). This is a consequence of the fact that the
+criteria for comparing ordinals in Cantor normal form are the same as
+for natural numbers in complete base <i>b</i>-representation. There is
+a Cantor normal form for positive integers <i>m</i> to any base
+<i>b</i> with \(b\geq 2\), namely we can express <i>m</i> uniquely in
+the form </p> 
+
+\[\tag{e1}
+m= b^{n_1}\cdot k_1+\ldots +b^{n_r}\cdot k_r
+\]
+
+<p>
+where \(m&gt;n_1&gt;\ldots&gt;n_r\geq 0\) and \(0&lt;k_1,\ldots,
+k_r&lt;b\). As each \(n_i&gt;0\) is itself of this form we can repeat
+this procedure, arriving at what is called the <em>complete
+<i>b</i>-representation</em> of <i>m</i>. In this way we get a unique
+representation of <i>m</i> over the alphabet
+\(0,1,\ldots,b,+,\cdot\).</p>
+
+<p>
+For example </p> 
+
+\[
+\begin{align}
+7\,625\,597\,485\,157 &amp;= 3^{27}\cdot 1+ 3^4\cdot 2 +  3^1\cdot 2+3^0\cdot 2 \\
+&amp; =   3^{3^3}+ 3^{3+1}\cdot 2 +  3^1\cdot 2+2.
+\end{align}
+\]
+
+<p>
+In 1944 Goodstein defined what came to be called <em>Goodstein
+sequences</em>.</p>
+
+<div class="indent" id="good">
+
+<p>
+<span class="bold">Definition E.2</span> For naturals \(m&gt;0\) and
+\(c\geq b\geq 2\) let \(\rS^{b}_{c}(m)\) be the integer resulting from
+<i>m</i> by replacing the base <i>b</i> in the complete
+<i>b</i>-representation of <i>m</i> everywhere by <i>c</i>. For
+example \({\rS^{3}_{4}(34)}=265\), since \(34=3^3+3\cdot 2+1\) and
+\(4^4+4\cdot 2+1=265\).</p>
+
+<p>
+Given any natural number <i>m</i> and non-decreasing function </p>
+
+\[f:\bbN\to \bbN\]
+
+<p>
+with \(f(0)\geq 2\) define </p> 
+
+\[
+m^{f}_{0} = m,\ldots, m^{f}_{i+1} = \rS^{f(i)}_{f(i+1)} (m^{f}_{i}) \monus   1
+\]
+
+<p>
+where \(k \monus 1\) is the predecessor of <i>k</i> if \(k&gt;0\), and
+\(k \monus 1=0\) if \(k=0\).</p>
+
+<p>
+We shall call \((m_i^f)_{i\in \bbN}\) a <em>Goodstein sequence</em>.
+Note that a sequence \((m_i^f)_{i\in \bbN}\) is uniquely determined by
+<i>f</i> once we fix its starting point \(m=m_0^f\).</p>
+
+<p>
+The case when <i>f</i> is just a shift function has received special
+attention. Given any <i>m</i> we define \(m_0=m\) and
+\(m_{i+1}:=\rS^{i+2}_{i+3} (m_i) \monus 1\) and call \((m_i)_{i\in
+\bbN}\) a <em>special Goodstein sequence</em>. Thus \((m_i)_{i\in
+\bbN}= (m^{\textrm{id}_2}_i)_{i\in \bbN}\), where
+\(\textrm{id}_2(x)=x+2\). Special Goodstein sequences can differ only
+with respect to their starting points. They give rise to a recursive
+function \(f_{\textrm{good}}\) defined as follows:
+\(f_{\textrm{good}}(m)\) is the least <i>i</i> such that \(m_i=0\)
+where \((m_i)_{i\in{\bbN}}\) is the special Goodstein sequence
+starting with \(m_0=m\).</p>
+</div>
+
+<p>
+Goodstein proved that all Goodstein sequences are finite. From his
+work combined with that of Gentzen 1938b he could have concluded the
+following result (see Rathjen 2015: Theorem 2.9).</p>
+
+<div class="indent" id="t2.8">
+
+<p>
+<span class="bold">Theorem E.3</span> Termination of primitive
+recursive Goodstein sequences is not provable in
+<strong>PA</strong>.</p>
+</div>
+
+<p>
+Already the termination of special Goodstein sequences, i.e., those
+where the base change is governed by the shift function, is not
+provable in <strong>PA</strong>. This result was obtained only much
+later by Kirby and Paris (1982) using model-theoretic tools. The
+latter prompted Cichon (1983) to find a different (short) proof that
+harked back to older proof-theoretic work of Kreisel (1952) which
+identified the so-called \(&lt;\varepsilon_0\)-recursive functions as
+the provably recursive functions of <strong>PA</strong>; see
+ <a href="appendix-f.html">Appendix F</a>,
+ Definition F.1. Other results pivotal to Cichon (1983) were
+ordinal-recursion-theoretic classifications of Schwichtenberg (1971)
+and Wainer (1970) which showed that the latter class of recursive
+functions consists exactly of those elementary in one of the fast
+growing functions \(F_{\alpha}\) with \(\alpha&lt;\varepsilon_0\). As
+\(F_{\varepsilon_0}\) eventually dominates any of these functions it
+is not provably total in <strong>PA</strong>. Cichon verified that
+\(F_{\varepsilon_0}\) is elementary in the function
+\(f_{\textrm{good}}\) of
+ <a href="#good">Definition E.2</a>.
+ Thus termination of special Goodstein sequences is not provable in
+ <strong>PA</strong>.<sup>[<a href="notes.html#note-58" id="ref-58">58</a>]</sup></p>
+ 
+
+<p>
+Mathematical independence results enjoyed great popularity in the
+1970s and 1980s. Perhaps the most elegant of these is a strengthening
+of the Finite Ramsey Theorem due to Paris and Harrington (1977). The
+original proofs of the independence of combinatorial statements from
+<strong>PA</strong> all used techniques from non-standard models of
+arithmetic. Only later on alternative proofs using proof-theoretic
+techniques were found. However, results from ordinal-theoretic proof
+theory turned out to be pivotal in providing independence results for
+theories stronger than <strong>PA</strong>, and even led to a new
+combinatorial statement. The stronger theories referred to are
+Friedman&rsquo;s system \(\ATR_0\) of <em>arithmetical transfinite
+recursion</em> and the system \((\Pi^1_1\mbox{-}\bCA)_0\) based on
+\(\Pi^1_1\)-comprehension. The independent combinatorial statements
+have their origin in certain embeddability questions in the theory of
+finite graphs. The first is a famous theorem of Kruskal asserting that
+every set of finite trees has only finitely many minimal elements.</p>
+
+<div class="indent">
+
+<p>
+<span class="bold">Definition E.4</span> A <em>finite tree</em> is a
+finite partially ordered set \(\bbB=(B,\leq)\) such that:</p>
+
+<ol type="i">
+
+<li><i>B</i> has a smallest element (called the <em>root</em> of
+\(\bbB\));</li>
+
+<li>for each \(s\in B\) the set \(\{t\in B : t\leq s\}\) is a totally
+ordered subset of <i>B</i>.</li>
+</ol>
+</div>
+
+<div class="indent">
+
+<p>
+<span class="bold">Definition E.5</span> For finite trees \(\bbB_1\)
+and \(\bbB_2\), an <em>embedding</em> of \(\bbB_1\) into \(\bbB_2\) is
+a one-to-one mapping \(f: \bbB_1 \rightarrow \bbB_2\) such that
+\(f(a\land b)=f(a) \land f(b)\) for all \(a,b\in \bbB_1\), where
+\(a\land b\) denotes the infimum of <i>a</i> and <i>b</i>.</p>
+
+<p>
+We write \(\bbB_1\leq \bbB_2\) to mean that there exists an embedding
+\(f: \bbB_1 \rightarrow \bbB_2\).</p>
+</div>
+
+<div class="indent">
+
+<p>
+<span class="bold">Theorem E.6</span> <em>(Kruskal&rsquo;s
+theorem)</em> For every infinite sequence of trees \(\left(\bbB_k :
+k&lt;\omega\right)\), there exist indices <i>i</i> and <i>j</i> such
+that \(i&lt;j&lt;\omega\) and \(\bbB_i\leq \bbB_j\). (In particular,
+there is no infinite set of pairwise nonembeddable trees.)</p>
+</div>
+
+<div class="indent">
+
+<p>
+<span class="bold">Theorem E.7</span> Kruskal&rsquo;s Theorem is not
+provable in \(\ATR_0\) (cf. Simpson 1985).</p>
+</div>
+
+<p>
+The proof of the above independence result exploits a connection
+between finite trees and ordinal representations for ordinals
+\(&lt;\Gamma_0\) and the fact that \(\Gamma_0\) is the proof-theoretic
+ordinal of \(\ATR_0\). Each ordinal representation \(\fraka\) is
+assigned a finite tree \(\bbB_{\fraka}\) to the effect that for two
+representations \({\fraka}\) and \(\frakb\), \(\bbB_{\fraka}\leq
+\bbB_\frakb\) implies \({\fraka}\leq \frakb\). Hence Kruskal&rsquo;s
+theorem implies the well-foundedness of \(\Gamma_0\) and is therefore
+not provable in \(\ATR_0\). The connection between finite trees and
+ordinal representations for ordinals \(&lt;\Gamma_0\) was noticed by
+Friedman (cf. Simpson 1985) and independently by Diana Schmidt
+(1979).</p>
+
+<p>
+A hope in connection with ordinal analyses is that they may lead to
+discoveries of new combinatorial principles which encapsulate
+considerable proof-theoretic strength. Examples are still scarce. One
+case where ordinal notations led to a new combinatorial result was
+Friedman&rsquo;s extension of Kruskal&rsquo;s Theorem, EKT, which
+asserts that finite trees are well-quasi-ordered under gap
+embeddability (see Simpson 1985). The gap condition imposed on the
+embeddings is directly related to an ordinal notation system that was
+used for the analysis of \(\Pi^1_1\) comprehension. The principle EKT
+played a role in the proof of the graph minor theorem of Robertson and
+Seymour.</p>
+
+<div class="indent">
+
+<p>
+<span class="bold">Definition E.8</span> For \(n&lt;\omega\), let
+\(\cB_n\) be the set of all finite trees with labels from <i>n</i>,
+i.e., \((\bbB,\ell)\in {\mathcal B}_n\) if \(\bbB\) is a finite tree
+and \(\ell:B\rightarrow\{0,\ldots,n-1\}\). The set \(\cB_n\) is
+quasiordered by putting \((\bbB_1,\ell_1)\leq (\bbB_2,\ell_2)\) if
+there exists an embedding \(f: \bbB_1 \rightarrow \bbB_2\) with the
+following properties:</p>
+
+<ol type="i">
+
+<li>for each \(b\in B_1\) we have \(\ell_1(b)=\ell_2(f(b))\);</li>
+
+<li>if <i>b</i> is an immediate successor of \(a\in\bbB_1\), then for
+each \(c\in \bbB_2\) in the interval \(f(a)&lt;c&lt;f(b)\) we have
+\(\ell_2(c)\geq\ell_2(f(b))\).</li>
+</ol>
+
+<p>
+The condition (ii) above is called a <em>gap condition</em>.</p>
+</div>
+
+<div class="indent">
+
+<p>
+<span class="bold">Theorem E.9</span> For each \(n&lt;\omega\),
+\(\cB_n\) is a well quasi ordering (abbreviated \(\WQO(\cB_n)\)),
+i.e., there is no infinite set of pairwise nonembeddable trees.</p>
+</div>
+
+<div class="indent" id="t3.6">
+
+<p>
+<span class="bold">Theorem E.10</span> \(\forall
+n&lt;\omega\;\WQO(\cB_n)\) is not provable in
+\((\Pi^1_1-\bCA)_0\).</p>
+</div>
+
+<p>
+The proof of Theorem E.10 employs the ordinal representation system of
+ <a href="index.html#InteOrdiReprSystBeyoBach">section 5.3.1</a>.
+ for the proof-theoretic ordinal of \((\Pi^1_1-{\bCA})_0\) which is
+\(\psi_{\lower{.8ex}{\Omega_1}} (\Omega_{\omega})\). The connection
+between \(&lt;\omega\) labeled trees and this ordinal is that
+\(\forall n&lt;\omega\;\WQO(\cB_n)\) implies the well-foundedness of
+\(\psi_{\lower{.8ex}{\Omega_1}}(\Omega_{\omega})\) (on the basis of
+\(\ACA_0\) say). The connection is even closer in that the gap
+condition imposed on the embeddings between trees is actually gleaned
+from the ordering of the ordinal representations. If one views these
+terms as labeled trees, then the gap condition is exactly what one
+needs to ensure that an embedding of two such trees implies that the
+ordinal corresponding to the first tree is less than the ordinal
+corresponding to the second tree. It is also for that reason that
+criticism had been leveled against the principle EKT for being too
+contrived or too metamathematical. But this was superseded by the role
+that EKT played in the proof of the graph minor theorem (see Friedman,
+Robertson, &amp; Seymour 1987).</p>
+
+<p>
+As to the importance attributed to the graph minor theorem, let us
+quote from a book on Graph Theory:</p>
+
+<blockquote>
+
+<p>
+Our goal [&hellip;] is a single theorem, one which dwarfs any other
+result in graph theory and may doubtless be counted among the deepest
+theorems that mathematics has to offer: <em>in every infinite set of
+graphs there are two such that one is a minor of the other</em>. This
+<em>minor theorem</em>, inconspicuous though it may look at first
+glance, has made a fundamental impact both outside graph theory and
+within. Its proof, due to Neil Robertson and Paul Seymour, takes well
+over 500 pages. (Diestel 1997: 249)</p>
+</blockquote>
+
+<div class="indent">
+
+<p>
+<span class="bold">Definition E.11</span> Let \(e=xy\) be an edge of a
+graph \(G=(V,E)\), where <i>V</i> and <i>E</i> denote its vertex and
+edge set, respectively. By \(G/e\) we denote the graph obtained from
+<i>G</i> by <em>contracting</em> the edge <i>e</i> into a new vertex
+\(v_e\), which becomes adjacent to all the former neighbors of
+<i>x</i> and of <i>y</i>. Formally, \(G/e\) is a graph
+\((V',E')\) with vertex set
+\(V':=(V\setminus\{x,y\})\,\cup\,\{v_e\}\) (where \(v_e\) is the
+&ldquo;new&rdquo; vertex, i.e., \(v\notin V\,\cup\,E\)) and edge set
+</p> 
+
+\[
+\begin{align}
+ E'  &amp; := \left\{vw\in E \mid \{v,w\} \cap \{x,y\}=\emptyset\right\} \\
+&amp;\qquad \cup \left\{v_ew \mid xw\in E\setminus\{e\} \lor yw\in E\setminus\{e\}\right\}.
+\end{align}
+\]
+
+<p>
+If <i>X</i> is obtained from <i>Y</i> by first deleting some vertices
+and edges, and then contracting some further edges, <i>X</i> is said
+to be a <em>minor</em> of <i>Y</i>. In point of fact, the order in
+which deletions and contractions are applied is immaterial as any
+graph obtained from another by repeated deletions and contractions in
+any order is its minor. </p>
+</div>
+
+<div class="indent">
+
+<p>
+<span class="bold">Theorem E.12</span> (Robertson and Seymour 2004) If
+\(G_0\), \(G_1\), \(G_2\),&hellip; is an infinite sequence of finite
+graphs, then there exist \(i&lt;j\) so that \(G_i\) is isomorphic to a
+minor of \(G_j\).</p>
+</div>
+
+<p>
+As a corollary to the graph minor theorem one obtains positive answers
+to two famous conjectures.</p>
+
+<div class="indent">
+
+<p>
+<span class="bold">Corollary E.13</span></p>
+
+<ol type="i">
+
+<li>(V&aacute;zsonyi&rsquo;s conjecture) If all the \(G_k\) are
+trivalent, then there exist \(i&lt;j\) so that \(G_i\) is embeddable
+into \(G_j\).</li>
+
+<li>(Wagner&rsquo;s conjecture) For any 2-manifold <i>M</i> there are
+only finitely many graphs which are not embeddable in <i>M</i> and are
+minimal with this property.</li>
+</ol>
+</div>
+
+<div class="indent">
+
+<p>
+<span class="bold">Theorem E.14</span> (Friedman, Robertson, and 
+Seymour 1987)</p>
+
+<ol type="i">
+
+<li>GMT implies EKT within, say, \(\RCA_0\).</li>
+
+<li>GMT is not provable in \((\Pi^1_1-\bCA)_0\).</li>
+</ol>
+</div>
+
+<p>
+A further independence result that ensues from ordinal analysis is due
+to Buchholz (1987). It concerns an extension of the hydra game of
+Kirby and Paris. It is shown in that paper that the assertion that
+Hercules has a winning strategy in this game is not provable in the
+theory \((\Pi^1_1-\bCA)+\BI\).</p>
+
+<p>
+It would be very desirable to also find mathematically fruitful
+combinatorial principles hidden in stronger representation systems
+such as the ones based on Mahlo cardinals and weakly compact cardinals
+used for analyzing Kripke-Platek set theory with a recursively Mahlo
+universe and with \(\Pi_3\)-reflection, respectively.</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="https://eps.leeds.ac.uk/maths/staff/4073/professor-michael-rathjen" target="other">Michael Rathjen</a>
+&lt;<a href="m&#97;ilto:rathjen&#37;40maths&#37;2eleeds&#37;2eac&#37;2euk"><em>rathjen<abbr title=" at ">&#64;</abbr>maths<abbr title=" dot ">&#46;</abbr>leeds<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+Wilfried Sieg
+&lt;<a href="m&#97;ilto:sieg&#37;40cmu&#37;2eedu"><em>sieg<abbr title=" at ">&#64;</abbr>cmu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

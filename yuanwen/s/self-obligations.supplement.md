@@ -1,0 +1,15 @@
+# self-obligations — supplement（supplement）
+
+> （《self-obligations》词条补充材料，源：plato.stanford.edu/entries/self-obligations/supplement.html）
+
+#### Supplement to Obligations to Oneself
+
+## Kant on What We Owe to Ourselves
+
+Of all the philosophers who have defended duties to oneself, one towers over the others: Immanuel Kant. His main discussion is in the *Metaphysics of Morals*—in particular, the *Doctrine of Virtue*—but the topic comes up in his *Lectures on Ethics*, and he discusses examples in the *Groundwork of the Metaphysics of Morals* as well as the *Critique of Practical Reason*.
+
+What does Kant think is owed to oneself? His extensive catalogue mainly consists of the following: pursuing “one’s own perfection” (*MM* 6:385), abstaining from extramarital sex (*MM* 6:278), cultivating one’s talents (*G* 4:423), cultivating a “fitness for social intercourse” (*MM* 4:417), cultivating a kindness towards animals and a love of nature (*MM* 6:443), having “religion” (*MM* 6:444), being honest with oneself about one’s own worth—or lack thereof (*MM* 6:441), being honest with other people (*MM* 6:429–30), not killing oneself (*MM* 6:422–24, *G* 4:422)—even in an attempt to save others (*CPrR* 5:158; see also *MM* 6:423), not mutilating one’s body for cash or for the sake of improving one’s musical skills (*MM* 6:422–24; see §6.4 in the main text), keeping chaste (*MM* 6:424–25), not drinking or eating too much (*MM* 6:427–28), avoiding avarice (*MM* 6:432–33), and avoiding servility, where by “servility” Kant means such things as letting others violate your rights, accepting favors, begging, flattering, whining, genuflecting, and falling into poverty (*MM* 6:434–37).
+
+It is striking how many of Kant’s arguments—even the treatment of suicide in the *Groundwork*—appeal to natural law rather than deriving the duty from universalizable maxims or respect for people’s free choices. Take for instance Kant’s claim that we would “do wrong to the humanity in our own person” were we to make “unnatural use” of our “sexual organs and capacities”—by which he means having intercourse “either with a person of the same sex or with an animal of a nonhuman species” (*MM* 6:277). He writes: “Since such transgressions of laws, called unnatural (*criminal carnis contra naturam*) or also unmentionable vices, do wrong to humanity in our own person, there are no limitations or exceptions whatsoever that can save them from being repudiated completely” (*MM* 6:277). Here there is not even a question of whether a gay couple—consenting adults—should get to choose what to do with their own bodies. Instead, nature itself declares their choice a “crime.”
+
+For detailed analysis of Kant’s arguments about duties to oneself in the *Doctrine of Virtue*, see Bacin 2013; Esser 2013; Hill 2013; Timmermann 2013; and Timmons 2013. For a valuable discussion of Kant’s view of the nature of duties to self—and how they fit into his theory—see Denis 1997, 2001. For a recent application of Kant’s ideas to digital ethics, see Lo Re forthcoming.

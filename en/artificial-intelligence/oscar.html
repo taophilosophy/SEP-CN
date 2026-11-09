@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Artificial Intelligence &gt; The OSCAR Project (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/artificial-intelligence/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/artificial-intelligence/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=artificial-intelligence">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Artificial Intelligence</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>The OSCAR Project</h2>
+
+<p id="OSCAProj">
+OSCAR, according to Pollock, will eventually be not just an intelligent computer program, but an artificial person. (Lest it be thought that this is spinning Pollock&rsquo;s work in the direction of the stunningly ambitious, note that the subtitle of (Pollock 1995) is &ldquo;A Blueprint for How to Build a Person,&rdquo;, and that his prior book (1989) was <i>How to Build a Person</i>.) However, though persons have an array of perceptual powers (effectors that allow them to manipulate their environments, linguistic abilities, etc.) OSCAR, at least in the near term, will not have this breadth. OSCAR&rsquo;s strong suit is the &ldquo;intellectual&rdquo; side of personhood. Pollock thus intends OSCAR to be an &ldquo;artificial intellect&rdquo;, or, to use his neologism, an <b>artilect</b>. An artilect is a rational agent; Pollock&rsquo;s concern is thus with rationality. As to the roles of AI and philosophy addressing this concern, Pollock writes: </p>
+
+<blockquote>
+The implementability of a theory of rationality is a necessary condition for its correctness. This amounts to saying that philosophy needs AI just as much as AI needs philosophy. A partial test of the correctness of a theory of rationality is that it can form the basis of an autonomous rational agent, and to establish that conclusively, one must actually build an AI system implementing the theory. It behooves philosophers to keep this in mind when constructing their theories, because it takes little reflection to see that many kinds of otherwise popular theories are not implementable. (Pollock 1995: xii)
+</blockquote>
+
+<p>
+The distinguishing feature of OSCAR <i>qua</i> artilect, at least so far, is that the system is able to perform sophisticated defeasible reasoning.<sup>[<a href="notes.html#note-o1" id="ref-o1">O1</a>]</sup> The study of defeasible reasoning was started by Roderick Chisholm (1957, 1966, 1977) and Pollock (1965, 1967, 1974), long before AI took the project under a different name (<b>nonmonotonic</b> reasoning). Both Chisholm and Pollock, as we noted above, assume that reasoning proceeds by constructing <em>arguments</em>, and Pollock takes <b>reasons</b> to provide the atomic links in arguments. <b>Conclusive reasons</b> are reasons that aren&rsquo;t defeasible; conclusive reasons logically entail their conclusions. On the other hand, <b>prima facie</b> reasons provide support for their conclusions, but can be defeated. <b>Defeaters</b> overthrow or defeat prima facie reasons, and come in two forms: defeaters can provide a reason for denying the conclusion, and they can also attack the connection between the premises and the conclusion. As an example of the latter given by Pollock, consider: The proposition &lsquo;\(a\) looks red to me&rsquo; is a prima facie reason for an agent to believe &lsquo;\(a\) is red&rsquo;. But if you know as well that \(a\) is illuminated by red lights, and that such lights can make things look red when they aren&rsquo;t, the connection is threatened. You don&rsquo;t have a reason for thinking that it&rsquo;s not the case that \(a\) is red, but the inference in question is shot down: it&rsquo;s defeated. </p>
+
+<p>
+We can bring a good deal of this to life, even within our space constraints, by considering how OSCAR supplies a solution to the lottery paradox (LP), which arises as follows. Suppose you hold one ticket \(t_k\), for some \(k \leq 1000000\), in a fair lottery consisting of 1 million tickets, and suppose it is known that one and only one ticket will win. Since the probability is only \(.000001\) of \(t_k\)&rsquo;s being drawn, it seems reasonable to believe that \(t_k\) will not win. (Of course, to make this side of the apparent antinomy more potent, we can stipulate that the lottery has, say, a <i>quadrillion</i> tickets. In this case, it&rsquo;s probably much more likely that you will be struck dead by a meteorite the next time you leave a building, than it is that you will win. And isn&rsquo;t it true that you firmly believe, now, that when you walk outside tomorrow you <i>won&rsquo;t</i> be struck dead in this way? If so, then presumably you should believe, of your ticket, that it won&rsquo;t win!) By the same reasoning it seems that you ought to believe that \(t_1\) will not win, that \(t_2\) will not win, &hellip;, that \(t_{1000000}\) will not win (where you skip over \(k\)). Therefore it is reasonable to believe 
+
+    \[
+    \lnot \exists t_i \mbox{($ t_i$ will win)}
+    \]
+
+ But on the other hand we know that 
+
+    \[
+    \exists t_i \mbox{($ t_i$ will win)}
+    \]
+
+ We thus find ourselves caught in an outright contradiction (or at least caught in a web of irrationality, since believing at once that \(\phi\) and \(\neg \phi\) seems quite irrational). </p>
+
+<p>
+What is Pollock&rsquo;s diagnosis of this paradox? In a nutshell, it&rsquo;s this: Since as rational beings we ought never to believe both \(p_i\) and \(\lnot p_i\), and since if we know anything we <em>know</em> that a certain ticket <em>will</em> win, we must conclude that it&rsquo;s not the case that we ought to believe that \(t_k\) will not win. We must replace this belief with a <i>defeasible</i> belief based on that fact that we have but a <i>prima facie</i> reason for believing that \(t_k\) will not win. </p>
+
+<p>
+Our situation can be described more carefully in Pollockian terms, which indicates that this situation is a case of <b>collective defeat</b>. Suppose that we are warranted in believing \(r\) and that we have equally good prima facie reasons for \(p_1, p_2, \ldots, p_n\), where \(\{p_1, p_2, \ldots, p_n\} \cup r\) is inconsistent, but no proper subset of \(p_1,p_2,\ldots, p_n\) is inconsistent with \(r\). Then, for every \(p_i\): 
+
+    \[
+    \{r \land p_1 \land \ldots p_{i-1} \land p_{i+1} \land \ldots p_n \} \vdash
+    \lnot p_i
+    \]
+
+ </p>
+
+<p>
+In this case we have equally strong support for each \(p_i\) and each \(\lnot p_i\), so they collectively defeat one another. Here is how Pollock at one point expresses the principle of collective defeat, operative in this case: </p>
+
+<blockquote>
+If we are warranted in believing \(r\) and we have equally good independent <i>prima facie</i> reasons for each member of a minimal set of propositions deductively inconsistent with \(r\), and none of these prima facie reasons is defeated in any other way, then none of the propositions in the set is warranted on the basis of these <i>prima facie</i> reasons. (Pollock 1995, p. 62)
+</blockquote>
+
+<p>
+Recall Pollock&rsquo;s insistence upon the <em>implementability</em> of theories of rationality. The neat thing is that OSCAR allows us to implement collective defeat &ndash; indeed, though we will not go that far here, we can even implement in OSCAR the solution to LP (and the paradox of the preface as well, as Pollock (1995) shows). These particular implementations are too detailed and technical to present in the present venue. But we can show here the use of OSCAR to solve, in natural-deductive form, some simple problems in deductive logic that philosophers give students in introductory philosophy and logic. Let&rsquo;s start by giving OSCAR this problem: \( \{ (p\rightarrow q), (q \lor s) \rightarrow r \} \vdash p \rightarrow r \) The reader will be spared the details concerning how this query is encoded and supplied to OSCAR, and so on. We move directly to what OSCAR instantly returns in response to the query: </p>
+
+<pre style="font-size:67%;">===========================================================================
+ARGUMENT #1
+This is an undefeated argument of strength 1.0 for:
+      (p -&gt; r)
+which is of ultimate interest.
+
+ 2. ((q v s) -&gt; r)     GIVEN
+ 1. (p -&gt; q)     GIVEN
+ 6. (q -&gt; r)     disj-antecedent-simp from { 2 }
+     |----------------------------------------------------------
+     | Suppose:  { p }
+     |----------------------------------------------------------
+     | 3.  p     SUPPOSITION
+     | 5.  q     modus-ponens1 from { 1 , 3 }
+     | 8.  r     modus-ponens1 from { 6 , 5 }
+ 9. (p -&gt; r)     CONDITIONALIZATION from { 8 }
+===========================================================================
+</pre>
+
+<p>
+Notice how nice this output is: it conforms to the kind of natural deduction routinely taught to students in elementary philosophy and logic. For example, it would be easy enough to have OSCAR solve the bulk of the exercises supplied in <i>Language, Proof, and Logic</i> (Barwise &amp; Etchemendy 1999), which teaches the system \(\mathcal F\), so named because it&rsquo;s a Fitch-style natural deduction system. Of course, some of these exercises involve quantifiers. Here is a query that corresponds to one of the hardest problems in (Barwise &amp; Etchemendy 1994), which teaches a natural-deduction system very similar to \(\mathcal F\): 
+
+    \[
+    \vdash \exists x (B(x) \rightarrow \forall y B(y))
+    \]
+
+ </p>
+
+<p>
+Using quantifier shift, OSCAR produces the following as a solution, in less than a tenth of a second. </p>
+
+<pre style="font-size:67%;">===========================================================================
+ARGUMENT #1
+This is a deductive argument for:
+      (some x)(( Bird x) -&gt; (all y)( Bird y))
+ which is of ultimate interest.
+
+    |----------------------------------------------------------
+    | Suppose:  { ~(some x)(( Bird x) -&gt; (all y)( Bird y)) }
+    |----------------------------------------------------------
+    | 2.  ~(some x)(( Bird x) -&gt; (all y)( Bird y))  REDUCTIO-SUPPOSITION
+    | 5.  (all x)~(( Bird x) -&gt; (all y)( Bird y))   neg-eg from { 2 }
+    | 6.  ~(( Bird x3) -&gt; (all y)( Bird y))     UI from { 5 }
+    | 7.  ( Bird x3)     neg-condit from { 6 }
+    | 8.  ~(all y)( Bird y)     neg-condit from { 6 }
+    | 9.  (some y)~( Bird y)     neg-ug from { 8 }
+    | 10.  ~( Bird @y5)     EI from { 9 }
+11. (some x)(( Bird x) -&gt; (all y)( Bird y))     REDUCTIO from { 10 , 7 }
+===========================================================================
+</pre>
+
+<p>
+How good is OSCAR, matched against the ambitious goal of literally building a person? Here only two points will be made; both should be uncontroversial. </p>
+
+<p>
+First, certainly expressivity is a problem for OSCAR. Can OSCAR handle reasoning that seems to require intensional operators?<sup>[<a href="notes.html#note-o2" id="ref-o2">O2</a>]</sup> There does not appear to be any such work with the system. Perhaps Pollock had such work in mind for the future, but at present, OSCAR is merely at the level of elementary extensional logic. (Of course, the technique of encoding down, encapsulated above, could be used in conjunction with OSCAR.) </p>
+
+<p>
+A second, and not unrelated, concern, is that while Pollock&rsquo;s method of finding rigorous innovation by striving to build a system capable of handling paradoxes is fruitful (and doubtless especially congenial to philosophers), the fact is that he has so far based his work on <em>simple</em> paradoxes and puzzles. Can OSCAR handle more difficult paradoxes? It would be nice, for example, if OSCAR could automatically find a solution to Newcomb&rsquo;s Paradox (NP) (Nozick 1970). As some readers will know, this paradox involves constructions (e.g., backtracking conditionals) quite beyond first-order logic. In addition, there are now <i>infinitary</i> paradoxes in the literature (e.g., see Bringsjord &amp; van Heuveln 2003), and it&rsquo;s hard to see how OSCAR could be used to even represent the key parts of these paradoxes. Since some humans dissect and discuss NP and infinitary paradoxes (etc.) in connection with various more expressive logics, humans would appear to be functioning as artilects beyond the reach of at least the current version of OSCAR. </p>
+
+<p>
+On the other hand, part of the reason for including coverage herein of OSCAR-based AI work is that such a direction, with roots in argument-based epistemology that runs back to the 1950s, the same time modern AI started up (recall that the 1956 Dartmouth conference was held in 1956), promises to continue to provide a fruitful approach into the future. Evidence for this can be found in the form of Pollock&rsquo;s (2006) <i>Thinking about Acting: Logical Foundations for Rational Decision Making</i>, a philosophically sophisticated AI-relevant investigation of planning and rational decision-making for resource-bounded agents. Unfortunately, AI and philosophy lost Pollock prematurely, and after his passing, OSCAR went into a period of quiet stasis. Fortunately, the system has been resurrected by Kevin O&rsquo;Neill, and can be obtained at <a href="https://rair.cogsci.rpi.edu/projects/automated-reasoners/oscar" target="other">OSCAR, Rensselaer Artificial Intelligence and Reasoning Laboratory (RAIR)</a>. Moreover, initial experiments with OSCAR in the area of AI planning indicate a bright future (initial results can be found at <a href="https://rair.cogsci.rpi.edu/sep_oscar/">Initial Explorations [RAIR]</a>). </p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2018</a> by
+
+<br />
+<a href="https://kryten.mm.rpi.edu/selmerbringsjord.html" target="other">Selmer Bringsjord</a>
+&lt;<a href="m&#97;ilto:Selmer&#37;2eBringsjord&#37;40gmail&#37;2ecom"><em>Selmer<abbr title=" dot ">&#46;</abbr>Bringsjord<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+Naveen Sundar Govindarajulu
+&lt;<a href="m&#97;ilto:Naveen&#37;2eSundar&#37;2eG&#37;40gmail&#37;2ecom"><em>Naveen<abbr title=" dot ">&#46;</abbr>Sundar<abbr title=" dot ">&#46;</abbr>G<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

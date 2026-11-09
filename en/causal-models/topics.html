@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Causal Models &gt; Supplement 3. Further Topics in Causal Inference (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/causal-models/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/causal-models/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=causal-models">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Causal Models</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Supplement 3. Further Topics in Causal Inference</h2>
+
+<p>
+This supplement briefly surveys some more advanced topics in causal
+inference, and point to some references. Two recent review articles,
+Eberhardt 2017 and Spirtes &amp; Zhang (2016), survey many of these
+topics.</p>
+
+<p>
+<em>Portability</em>: We are often interested in exporting a causal
+inference made in one context to a novel context. For example, we may
+conduct an experiment establishing that a certain development program,
+such as micro-lending, is successful in one country. We may then be
+interested in whether the same program will be successful in a
+different country, with different social institutions. Bareinboim and
+Pearl (2013, 2014) explore conditions in which this is possible.</p>
+
+<p>
+<em>Inferences from sample data</em>: We have largely focused on what
+can be inferred about causal structure if one knows the true
+probability distribution. In practice, of course, we must make
+inferences from finite sample data. This raises particular problems
+for causal inference. Standard statistical methods allow us to
+<em>reject</em> the hypothesis that two variables are
+probabilistically independent, but they never allow us to
+<em>accept</em> such a hypothesis (or reject probabilistic
+dependence). This raises the issue of how we might confirm a causal
+hypothesis that entails a relation of probabilistic independence
+between variables. Strategies include assigning Bayesian prior
+probabilities and updating (Claassen &amp; Heskes 2012; Cooper &amp;
+Herskovits 1992; Geiger &amp; Heckerman 1994), using cost functions
+that weigh goodness of fit with data against complexity (Hyttinen et
+al. 2014; Triantafillou &amp; Tsamardinos 2015), and
+learning-theoretic approaches (Schulte et al. 2010).</p>
+
+<p>
+<em>Relational causal models:</em> As mentioned in the previous
+paragraph, causal inference frequently requires that we make
+inferences about a probability distribution from sample data. The most
+commonly employed methods assume that sampling is independent. This
+independence assumption can be violated when individuals in the sample
+population stand in certain kinds of causal or non-causal
+relationships. For instance, suppose that we are conducting an
+epidemiological study about risk factors for a particular disease. If
+some of the subjects in our study have come in contact with one
+another, they may spread the disease among themselves. This is a case
+of inter-unit causation. Or suppose that we wish to study the factors
+that influence which academic authors are widely cited. If two of the
+subjects in our study are co-authors, their citation rates will not be
+independent. In this case, the relationship between the subjects in
+the study population is non-causal. Representative work on this topic
+includes Maier et al. 2010, Shalizi &amp; Thomas 2011; Schulte &amp;
+Khosravi 2012; and Maier et al. 2013.</p>
+
+<p>
+<em>Combining evidence from different studies</em>: Sometimes we have
+data available from different studies. These studies may employ
+different methods; e.g., some may involve experimental interventions
+while others are observational. They may investigate overlapping but
+non-identical sets of variables. And they may reach incompatible
+conclusions. Strategies for drawing inferences about causal structure
+from diverse studies involve deriving constraints from individual
+studies and searching for causal models that optimally satisfy the
+constraints. See, e.g., Hyttinen et al. 2014; Tillman &amp; Eberhardt
+2014; and Bareinboim &amp; Pearl 2015.</p>
+
+<p>
+<em>Time series</em>: Often we are interested in tracking the state of
+a system over a period of time. In econometrics, we may be interested
+in changes in inflation, interest rates, unemployment, and government
+spending from month to month or year to year. Unemployment rates in
+one month may affect inflation in the next month, and it may also
+affect unemployment in the following month. To represent such a
+system, we can have multiple copies of the same set of variables:
+e.g., we might have different variables for the rate of unemployment
+in May, and for the rate in June. Then we could look for causal
+relationships among these time-indexed variables. But complications
+can arise if we do not have separate observations of each time period.
+For instance, perhaps we only have quarterly data on unemployment,
+inflation, and so on, while unemployment has an impact on inflation
+rates within one month. Or perhaps we only have aggregate data that
+combines observations from multiple time periods. Another problem is
+that there may be latent common causes that are changing over the
+course of the time scales that we are observing. See Eichler 2012 for
+an overview of these issues, and Danks &amp; Plis 2014; Gong et al.
+2015; Hyttinen et al. 2016; and Gong et al. 2017 for some recent
+approaches.</p>
+
+<p>
+<em>Dynamic systems:</em> In physics and other sciences, we are often
+interested in modeling the evolution of a system over time. The state
+of the system at a time is represented by a set of variables, and the
+way in which these variables change over time is represented by a set
+of differential equations. These systems can also be represented using
+causal models with discrete temporal stages. One question we may ask
+about these systems is whether they will evolve toward a stable
+equilibrium. Another question is how the causal relations governing
+the evolution of the system relates to the causal relations governing
+the equilibrium state. For a simple example, increasing the rate at
+which water pours into a cup at time \(t\) may affect the amount of
+water present in the cup at time \(t + 1\); but increasing the rate at
+which water pours into the cup over a period of time will not affect
+the volume of water that is present at equilibrium (when the flow of
+water in equals the flow of water out), which is determined solely by
+the capacity of the cup. Modeling such dynamic systems raises a number
+of conceptual and technical challenges. In particular, it requires
+greater flexibility in the way we represent interventions. For
+instance, we must distinguish between interventions that change the
+value of a variable at one time, and interventions that fix the value
+of the variable at all times. Also, the variables characterizing
+dynamic systems typically include time derivatives, or discrete
+differences, of other variables. For instance, to model the trajectory
+of a body in classical physics, we must represent both its position
+and its velocity at each time. This means that it will not be possible
+to intervene on all of the variables independently: an intervention
+that fixes the position of the body over time will also set the
+velocity of the body to zero. So our representation will need to
+encode information about which variables are mathematically related to
+others as derivatives or integrals, and we will need a mechanism to
+capture the effects of interventions on such variables. Work on these
+problems was pioneered by Denver Dash, see for example Dash &amp;
+Druzdzel 2001. See also
+Mooij et al. 2013 for a more recent discussion.</p>
+
+<p>
+<em>Cycles</em>: Actual causation is usually assumed to be asymmetric:
+if \(C\) causes \(E\) then \(E\) does not cause \(C\). But at the
+general level, there can be cycles. For example, in familiar supply
+and demand models of economics, the price of a good (such as an
+iPhone) affects the level of demand for that good; and the level of
+demand for the good affects its price. If we add time indices to the
+variables, it will be possible to eliminate the cycle. For instance,
+if Apple drops the price of an iPhone at noon on a Monday, that will
+cause demand to increase starting on Monday afternoon. If demand for
+iPhones suddenly increases, that may cause Apple to increase the price
+shortly afterward. However, if we collect data on prices and demand
+levels over a period of time, it may not be possible to separate out
+the variables in this way. In this case, we would represent the causal
+relationships under investigation with a graph that includes cycles.
+If we assume that the underlying causal relationships are linear, we
+can still infer a good deal about models with cycles. But the general
+case poses serious challenges. See Hyttinen et al. 2013b; Neal 2000;
+Pearl &amp; Dechter 1996; and Spirtes 1995.</p>
+
+<p>
+<em>Macro-variables</em>: A sample of a gas consists of a huge number
+of molecules, each of which has a position and momentum (if we ignore
+quantum mechanics). But we can predict many features of the behavior
+of the gas using macro-variables like pressure and temperature.
+Methods exist for determining when it is possible to construct
+macro-variables for use in causal inference. See Chalupka et al. 2017
+for methods and applications.</p>
+
+<p>
+In addition to these topics in causal inference, there is much
+important work on the use of Bayes nets for computations. Pearl (1988)
+is a technical work on Bayes nets and other graphical representations
+of probability, although it is not focused on causation. Neapolitan
+2004 is a text book that treats Bayes nets in causal and noncausal
+contexts. Neapolitan &amp; Jiang 2016 is a short overview of this
+topic.</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2018</a> by
+
+<br />
+<a href="https://www.hss.caltech.edu/people/christopher-hitchcock" target="other">Christopher Hitchcock</a>
+&lt;<a href="m&#97;ilto:cricky&#37;40caltech&#37;2eedu"><em>cricky<abbr title=" at ">&#64;</abbr>caltech<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

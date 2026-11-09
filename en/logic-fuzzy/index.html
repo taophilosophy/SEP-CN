@@ -1,0 +1,1787 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Fuzzy Logic (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Fuzzy Logic" />
+<meta name="citation_author" content="Cintula, Petr" />
+<meta name="citation_author" content="Ferm&uuml;ller, Christian G." />
+<meta name="citation_author" content="Noguera, Carles" />
+<meta name="citation_publication_date" content="2016/11/15" />
+<meta name="DC.title" content="Fuzzy Logic" />
+<meta name="DC.creator" content="Cintula, Petr" />
+<meta name="DC.creator" content="Ferm&uuml;ller, Christian G." />
+<meta name="DC.creator" content="Noguera, Carles" />
+<meta name="DCTERMS.issued" content="2016-11-15" />
+<meta name="DCTERMS.modified" content="2021-11-11" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/logic-fuzzy/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-fuzzy">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Fuzzy Logic</h1><div id="pubinfo"><em>First published Tue Nov 15, 2016; substantive revision Thu Nov 11, 2021</em></div>
+
+<div id="preamble">
+
+<p>
+Fuzzy logic is intended to model logical reasoning with vague or
+imprecise statements like &ldquo;Petr is young (rich, tall, hungry,
+etc.)&rdquo;. It refers to a family of
+ <a href="../logic-manyvalued/">many-valued logics</a>,
+ where the truth-values are interpreted as degrees of truth. The
+truth-value of a logically compound proposition, like &ldquo;Carles is
+tall and Chris is rich&rdquo;, is determined by the truth-value of its
+components. In other words, like in classical logic, one imposes
+truth-functionality.</p>
+
+<p>
+Fuzzy logic emerged in the context of the theory of fuzzy sets,
+introduced by Lotfi Zadeh (1965). A fuzzy set assigns a degree of
+membership, typically a real number from the interval \([0,1]\), to
+elements of a universe. Fuzzy logic arises by assigning degrees of
+truth to propositions. The standard set of truth-values (degrees) is
+the real unit interval \([0,1]\), where \(0\) represents
+&ldquo;totally false&rdquo;, \(1\) represents &ldquo;totally
+true&rdquo;, and the other values refer to partial truth, i.e.,
+intermediate degrees of
+ truth.<sup>[<a href="notes.html#note-1" id="ref-1">1</a>]</sup>
+ </p>
+
+<p>
+&ldquo;Fuzzy logic&rdquo; is often understood in a very wide sense
+which includes all kinds of formalisms and techniques referring to the
+systematic handling of <em>degrees</em> of some kind (see, e.g.,
+Nguyen &amp; Walker 2000). In particular in engineering contexts
+(fuzzy control, fuzzy classification, soft computing) it is aimed at
+efficient computational methods tolerant to suboptimality and
+imprecision (see, e.g., Ross 2010). This entry focuses on fuzzy logic
+in a restricted sense, established as a discipline of mathematical
+logic following the seminal monograph by Petr H&aacute;jek (1998) and
+nowadays usually referred to as &ldquo;mathematical fuzzy
+logic&rdquo;. For details about the history of different variants of
+fuzzy logic we refer to B&#283;lohl&aacute;vek, Dauben, &amp; Klir
+2017.</p>
+
+<p>
+Mathematical fuzzy logic focuses on logics based on a truth-functional
+account of partial truth and studies them in the spirit of classical
+mathematical logic, investigating syntax, model-theoretic semantics,
+proof systems, completeness, etc., both, at the propositional and the
+predicate level (see Cintula, Ferm&uuml;ller, H&aacute;jek, &amp;
+Noguera 2011 and 2015).</p>
+</div> 
+
+<div id="toc">
+<!--Entry Contents-->
+
+<ul>
+
+ <li><a href="#FuzzConnBaseTNorm">1. Fuzzy connectives based on t-norms</a></li>
+ 
+ <li><a href="#MTLFundFuzzLogi">2. MTL: A fundamental fuzzy logic</a></li>
+ 
+ <li><a href="#LukaLogi">3. &#321;ukasiewicz logic</a></li>
+ 
+ <li><a href="#GodeLogi">4. G&ouml;del&ndash;Dummett logic</a></li>
+ 
+ <li><a href="#OtheNotaFuzzLogi">5. Other notable fuzzy logics</a></li>
+ 
+ <li><a href="#PredLogi">6. Predicate logics</a></li>
+ 
+ <li><a href="#AlgeSema">7. Algebraic semantics</a></li>
+ 
+ <li><a href="#ProoTheo">8. Proof theory</a></li>
+ 
+ <li><a href="#SemaJustTrutFunc">9. Semantics justifying truth-functionality</a></li>
+ 
+ <li><a href="#FuzzLogiVagu">10. Fuzzy logic and vagueness</a></li>
+ 
+ <li><a href="#Bib">Bibliography</a></li>
+ 
+ <li><a href="#Aca">Academic Tools</a></li>
+ 
+ <li><a href="#Oth">Other Internet Resources</a></li>
+ 
+ <li><a href="#Rel">Related Entries</a></li>
+ </ul>
+
+<!--Entry Contents-->
+
+<hr />
+</div>
+
+<div id="main-text">
+
+<h2 id="FuzzConnBaseTNorm">1. Fuzzy connectives based on t-norms</h2>
+
+<p>
+The standard set of truth-values for fuzzy logics is the real unit
+interval \([0,1]\) with its natural ordering \(\leq\), ranging from
+total falsity (represented by \(0\)) to total truth (represented by
+\(1\)) through a continuum of intermediate degrees of truth (see
+Sections
+ <a href="../logic-fuzzy/#OtheNotaFuzzLogi">5</a>
+ and
+ <a href="../logic-fuzzy/#AlgeSema">7</a>
+ for alternative interpretations of truth constants and alternative
+sets of truth-values). A fundamental assumption of (mainstream)
+mathematical fuzzy logic is that connectives are to be interpreted
+truth-functionally over the set of degrees of truth. Such
+truth functions are assumed, in the standard setting, to behave
+classically on the extremal values \(0\) and \(1\). A very natural
+behavior of conjunction, disjunction, and negation is achieved by
+imposing \(x \land y = \min\{x,y\}\), \(x \lor y = \max\{x,y\}\), and
+\(\neg x = 1 - x\) for each \(x,y \in [0,1]\).</p>
+
+<p>
+These three truth functions yield the original semantics of fuzzy
+logic proposed by Joseph Goguen (1975), later studied formally by,
+e.g., Gehrke, Walker, &amp; Walker (1997). Many researchers still
+refer to it as &ldquo;the fuzzy logic&rdquo;. However, it has soon
+become apparent that this semantic framework is too poor to (1)
+encode/model numerous interesting aspects of reasoning and (2) to
+support a fully fledged theory of mathematical logic. </p>
+
+<p>
+Another, non-idempotent, conjunction \(\&amp;\) is typically added to
+account for the intuition that applying a partially true hypothesis
+twice might lead to a different degree of truth than using it only
+once. Such a conjunction is usually interpreted by a binary operation
+on \([0,1]\), which is not necessarily idempotent, but still
+associative, commutative, non-decreasing in both arguments and has
+\(1\) as neutral element. These operations are called <em>t-norms</em>
+(<em>triangular norms</em>) and their mathematical properties have
+been thoroughly studied (see Klement, Mesiar, &amp; Pap 2000).
+Prominent examples of t-norms are the already mentioned function
+\(\min\), the standard product \(\cdot\) of real numbers, and the
+&#321;ukasiewicz t-norm: \(x *_{&#321;} y=\max\{x+y-1,0\}\). These
+three t-norms are actually continuous functions and any other
+continuous t-norm can be described as an <em>ordinal sum</em> of these
+three basic ones (Ling 1965; Mostert &amp; Shields 1957).</p>
+
+<p>
+Interestingly, each left-continuous t-norm determines a suitable
+choice for implication. Indeed, it is known that a t-norm \(\ast\) is
+left-continuous if, and only if, there is a unique binary operation
+\(\Rightarrow_\ast\) on \([0,1]\) satisfying the so-called
+<em>residuation condition:</em> 
+
+\[
+x \ast y \leq z\ \text{ if and only if }\ x \leq y \Rightarrow_\ast z.
+\] 
+
+ The function
+\(\Rightarrow_\ast\) is known as <em>residuum of \(\ast\)</em>, and it
+can be shown that \(x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq
+y\}\). The residua of the three mentioned prominent t-norms are: \(x
+\Rightarrow_\min y = 1\) if \(x\leq y\) and \(y\) otherwise; \(x
+\Rightarrow_\cdot y = 1\) if \(x\leq y\) and \(\frac{y}{x}\)
+otherwise; and \(x \Rightarrow_{&#321;} y = \min\{1, 1 - x+y\}\).</p>
+
+<p>
+In the general t-norm setting, the negation is interpreted using the
+residuum. Namely, for a given left-continuous t-norm \(\ast\) we set
+\(\neg_\ast x = x\Rightarrow_\ast 0\). For the &#321;ukasiewicz t-norm
+we obtain the negation \(\neg_{&#321;} x = 1 - x\) (known as
+&#321;ukasiewicz negation or the standard involutive negation) whereas for the
+minimum and the product t-norms we obtain the same negation (known as
+G&ouml;del negation): \(\neg_\mathrm{G} 0 = 1\) and \(0\) otherwise.
+</p>
+
+<h2 id="MTLFundFuzzLogi">2. MTL: A fundamental fuzzy logic</h2>
+
+<p>
+The weakest logic with connectives interpreted by truth functions of
+the type described above is MTL (<em>Monoidal T-norm based Logic</em>,
+Esteva &amp; Godo 2001). It is a logic with the primitive binary
+connectives \(\mathbin{\&amp;}, \to, \wedge\) and a truth-constant
+\(\overline{0}\), and derivable connectives defined as: 
+
+\[
+\begin{align}
+\varphi \lor \psi &amp;= ((\varphi \to \psi) \to \psi) \land ((\psi \to \varphi) \to \varphi),\\
+\neg \varphi &amp;= \varphi \to \overline{0}, \\
+\varphi \leftrightarrow \psi &amp;= (\varphi \to \psi) \land (\psi \to \varphi),\\
+\overline{1} &amp;= \neg \overline{0}.
+\end{align}
+\]
+
+MTL is defined as a consequence relation by means of the semantics
+given by all left-continuous t-norms. Namely, given a particular
+left-continuous t-norm \(\ast\) and a mapping from propositional
+variables to \([0,1]\), we define the \(\ast\)-evaluation of all
+formulas by interpreting \(\&amp;\) as \(\ast\), the implication
+\(\to\) as its residuum \(\Rightarrow\), and \(\land\) and
+\(\overline{0}\) as \(\min\) and \(0\), respectively.</p>
+
+<p>
+A formula \(\varphi\) is a consequence of a set of formulas \(\Gamma\)
+in MTL, denoted \(\Gamma \models_\mathrm{MTL} \varphi\), if for each
+left-continuous t-norm \(\ast\) and each \(\ast\)-evaluation \(e\)
+such that \(e(\psi) = 1\) for each \(\psi \in \Gamma\) we have
+\(e(\varphi) = 1\); in words, if the premises are totally true, so is
+the conclusion. A formula \(\varphi\) that always evaluates to \(1\)
+(i.e. \(\emptyset\models_\mathrm{MTL}\varphi\)) is called valid or a
+tautology of MTL. Note that the formula \(\varphi \mathbin{\&amp;}
+\psi \to \varphi \land \psi\) is a tautology in MTL but the converse
+implication \(\varphi \land \psi \to \varphi \mathbin{\&amp;} \psi\)
+is not, i.e., the conjunction \(\&amp;\) is stronger than
+\(\land\).</p>
+
+<p>
+MTL can also be presented by a Hilbert-style proof system with the
+following axioms:</p> 
+
+\[
+\begin{align}
+  (\varphi \to \psi) &amp; \to ((\psi \to \chi) \to (\varphi \to \chi)) \\
+  \varphi \mathbin{\&amp;} \psi &amp; \to \varphi \\
+  \varphi\mathbin{\&amp;}\psi &amp; \to\psi\mathbin{\&amp;}\varphi \\
+  \varphi \land \psi &amp; \to \varphi \\
+  \varphi \land \psi &amp; \to \psi \land \varphi \\
+  (\chi \to \varphi) &amp; \to ((\chi\to \psi) \to (\chi \to \varphi\wedge \psi)) \\
+  (\varphi\mathbin{\&amp;}\psi \to \chi) &amp; \to (\varphi\to(\psi \to \chi)) \\
+  (\varphi\to(\psi \to \chi)) &amp; \to (\varphi\mathbin{\&amp;}\psi \to \chi) \\
+  ((\varphi \to \psi) \to \chi) &amp; \to (((\psi \to \varphi)\to \chi)\to \chi) \\
+  \overline{0}&amp; \to\varphi \\
+\end{align}
+\]
+
+<p>
+and <em>modus ponens</em> as the only inference rule: from \(\varphi\)
+and \(\varphi \to \psi\), infer \(\psi\). We write \(\Gamma
+\vdash_\mathrm{MTL} \varphi\) whenever there is a proof of \(\varphi\)
+from \(\Gamma\) in this system, i.e. there is a finite sequence of
+formulas which ends with \(\varphi\) and its members are instances of
+the axioms, elements of \(\Gamma\), or follow from previous ones by
+the inference rule (<em>modus ponens</em>). This Hilbert-style system
+is a strongly complete (finitary) axiomatization of the logic MTL,
+i.e. for each set of premises \(\Gamma\) we have: \(\Gamma
+\models_\mathrm{MTL} \varphi\) iff \(\Gamma \vdash_\mathrm{MTL}
+\varphi\). The validity problem of \(\mathrm{MTL}\) is known to be
+decidable, however its computational complexity has not yet been
+determined.</p>
+
+<h2 id="LukaLogi">3. &#321;ukasiewicz logic</h2>
+
+<p>
+
+&#321;ukasiewicz logic can be defined by adding the axiom (known as Wajsberg axiom)\[((\varphi \to \psi)
+\to \psi) \to ((\psi \to \varphi) \to \varphi)\] to the Hilbert-style proof system for MTL. It corresponds to the finitary version of
+
+ the consequence relation defined with respect to
+evaluations based on the &#321;ukasiewicz t-norm (in symbols: for each
+<em>finite</em> set of formulas \(\Gamma\) and each formula
+\(\varphi\), we have \(\Gamma \models_{&#321;} \varphi\) iff \(\Gamma
+\vdash_{&#321;}
+ \varphi\)).<sup>[<a href="notes.html#note-2" id="ref-2">2</a>]</sup>
+ </p>
+
+<p>
+This logic was an early example of a many-valued logic, introduced by
+Jan &#321;ukasiewicz and Alfred Tarski (1930), well before the
+inception of the theory of fuzzy sets, by means of an equivalent
+axiomatic system (with <em>modus ponens</em> as the only inference
+rule):</p> 
+
+\[
+\begin{align}
+\varphi &amp;\to (\psi \to \varphi)\\
+(\varphi \to \psi) &amp;\to ((\psi \to \chi) \to (\varphi \to \chi))\\
+((\varphi \to \psi) \to \psi) &amp;\to ((\psi \to \varphi) \to \varphi)\\
+(\neg \psi \to \neg \varphi) &amp;\to (\varphi \to \psi)\\
+((\varphi \to \psi) &amp;\to (\psi \to \varphi)) \to (\psi \to \varphi). 
+\end{align}
+\]
+
+<p>
+&#321;ukasiewicz logic is the only t-norm based fuzzy logic where all
+connectives are interpreted by continuous functions, including the
+implication given by the function \(x \Rightarrow_{&#321;}
+y=\min\{1,1-x+y\}\). McNaughton&rsquo;s theorem (1951) states that
+real-valued functions over [0,1] that interpret formulas of
+&#321;ukasiewicz logic are exactly the continuous piecewise linear
+functions with integer coefficients. In terms of computational
+complexity, the validity problem for this logic is asymptotically not
+worse than in classical logic: it remains coNP-complete.</p>
+
+<h2 id="GodeLogi">4. G&ouml;del&ndash;Dummett logic</h2>
+
+<p>
+G&ouml;del&ndash;Dummett logic, also known as Dummett&rsquo;s LC or
+simply as G&ouml;del logic, is another early example of a many-valued
+logic with truth-values in \([0,1]\). It was introduced by Michael
+Dummett (1959) as the extension of
+ <a href="../logic-intuitionistic/">intuitionistic logic</a>
+ by the axiom 
+
+\[(\varphi \to \psi) \lor (\psi \to \varphi).\]
+
+ This formula enforces a linear order in the
+underlying (Kripke-style as well as algebraic) semantics. It also
+appears in the context of Kurt G&ouml;del&rsquo;s observation that it
+is impossible to characterize intuitionistic logic by finite truth
+tables (G&ouml;del 1932). In the fuzzy logic setting,
+G&ouml;del&ndash;Dummett logic can alternatively be obtained as an
+axiomatic extension of MTL by adding the axiom \(\varphi \to \varphi
+\mathbin{\&amp;} \varphi\), which amounts to requiring the idempotence
+of \(\&amp;\), and hence the interpretation of both conjunctions
+coincides. Semantically, G&ouml;del&ndash;Dummett logic can also be
+defined as the consequence relation given by the minimum t-norm. It is
+distinguished as the only t-norm based logic where the validity of a
+formula in a given evaluation does not depend on the specific values
+assigned to the propositional variables, but only on the relative
+order of these values. In this sense, G&ouml;del&ndash;Dummett logic
+can be seen as a logic of comparative truth. Like for &#321;ukasiewicz
+logic, the computational complexity of testing validity remains
+coNP-complete.</p>
+
+<h2 id="OtheNotaFuzzLogi">5. Other notable fuzzy logics</h2>
+
+<p>
+Besides MTL (the logic of all left-continuous t-norms) and
+&#321;ukasiewicz and G&ouml;del&ndash;Dummett logics (each induced by
+a particular t-norm), one can consider logics <em>induced</em> by sets
+of t-norms or, in general, arbitrary axiomatic extensions of MTL. In
+particular, the logic of all <em>continuous</em> t-norms
+(H&aacute;jek&rsquo;s basic fuzzy logic BL) is obtained by adding the
+axiom 
+
+\[\varphi\mathbin{\&amp;}(\varphi\to{{\psi}}) \to
+\psi\mathbin{\&amp;}(\psi\to\varphi)\]
+
+ to those of MTL. Actually, for any set of continuous
+t-norms there is a finite axiomatization of the corresponding logic
+(Esteva, Godo, &amp; Montagna 2003; Hanikov&aacute; 2014); in most
+cases the axiomatization captures semantic consequence from
+<em>finite</em> sets of premises. In particular, the logic of the
+third prominent continuous t-norm (algebraic product), known as
+Product logic, is the extension of BL by the axiom 
+
+\[\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&amp;}{{\psi}})\to{{\psi}}).\]
+
+ On the
+other hand, not all axiomatic extensions of MTL can be given a t-norm
+based semantics. For example, classical logic can be axiomatized as
+MTL \(+\) \(\varphi\vee\neg \varphi\), but the axiom of excluded
+middle is not a tautology under any t-norm based interpretation.</p>
+
+<p>
+There are also reasons to consider weaker fuzzy logics. For example,
+it can be argued that the assumptions forcing the interpretation of
+the conjunction &amp; to be a t-norm are too strong. In particular,
+the assumption that \(1\) is its neutral element enforces a definition
+of tautology as a formula always evaluated to \(1\) and the
+consequence relation as preservation of the value \(1\) &ndash; that
+is, \(1\) is the only <em>designated value</em> in the
+ semantics.<sup>[<a href="notes.html#note-3" id="ref-3">3</a>]</sup>
+ A natural way to introduce logics with more than one designated
+truth-degree is to assume that the neutral element for the
+interpretation of &amp; is a number \(t &lt;1\). It can be shown that
+in this situation the designated truth-degrees are exactly those
+greater than or equal to \(t\). Such interpretations of conjunctions
+are called <em>uninorms</em>. The logic of left-continuous uninorms
+was axiomatized in Metcalfe &amp; Montagna (2007).</p>
+
+<p>
+Analogously, one may argue against commutativity or even against
+associativity of &amp;. Axiomatizations of resulting logics are
+described in the literature (see Cintula, Hor&#269;&iacute;k, &amp;
+Noguera 2013; Jenei &amp; Montagna 2003); an exception is the logic of
+non-commutative uninorms for which no natural axiomatic system is
+known.</p>
+
+<p>
+Finally, taking into account that fuzzy logics, unlike classical
+logic, are typically not functionally complete, one can increase their
+expressive power by adding new connectives. The most commonly
+considered connectives are: truth-constants \(\bar r\) for each
+rational number \(r\in (0,1)\); unary connectives \(\sim\) and
+\(\triangle\) interpreted as \({\sim}x = 1-x\) and \(\triangle x = 1\)
+if \(x=1\) and \(0\) otherwise; a binary connective \(\odot\)
+interpreted as the usual algebraic product, etc. (Baaz 1996; Esteva,
+Gispert, Godo, &amp; Noguera 2007; Esteva, Godo, &amp; Montagna 2001;
+Esteva, Godo, H&aacute;jek, &amp; Navara 2000).</p>
+
+<p>
+A thorough overview of all the kinds of propositional fuzzy logics
+mentioned in this section (and a general theory thereof) can be found
+in the <em>Handbook of Mathematical Fuzzy Logic</em> (3 volumes,
+Cintula et al. 2011a,b, 2015).</p>
+
+<h2 id="PredLogi">6. Predicate logics</h2>
+
+<p>
+The propositional logic MTL can be given a first-order counterpart
+MTL\(\forall\) in a predicate language \(\mathcal{P\!L}\) (defined as
+in the classical case) in the following way. The semantics is given by
+structures in which predicate symbols are interpreted as functions
+mapping tuples of domain elements into truth-values. More precisely,
+given a left-continuous t-norm \(\ast\), a \(\ast\)-structure
+\({\mathbf M}\) consists of a non-empty domain of elements \(M\), a
+function \(f_{\mathbf M}\colon M^n\to M\) for each \(n\)-ary function
+symbol \(f\in \mathcal{P\!L}\), and a function \(P_{\mathbf M}\colon
+M^n\to [0,1]\) for each \(n\)-ary predicate symbol \(P\in
+\mathcal{P\!L}\). Fixing a valuation \({\mathrm v}\) of object
+variables in \(M\), one defines values of terms
+(\(\|f(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = f_{\mathbf
+M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm
+v})\)) and truth-values of atomic formulas
+(\(\|P(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = P_{\mathbf
+M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm
+v})\)). Truth-values of a universally/existentially quantified formula
+are computed as infimum/supremum of truth-values of instances of the
+formula where the quantified variable runs over all elements of the
+domain \(M\). Formally: 
+
+\[
+\begin{align}
+\|\forall x\, \varphi\|^{\mathbf M}_{\mathrm v} &amp; = \inf\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]} \mid a\in M\}\\
+  \|\exists x\,\varphi\|^{\mathbf M}_{\mathrm v} &amp; = \sup\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]}\mid a\in M\},\\
+  \end{align}
+\]
+
+ where \({\mathrm v}[x{:}a]\) is
+the valuation sending \(x\) to \(a\) and keeping values of other
+variables unchanged. The values of other formulas are computed by
+interpreting, as in propositional semantics, \(\&amp;\) as \(\ast\),
+the implication \(\to\) as its residuum \(\Rightarrow_\ast\), and
+\(\land\) and \(\overline{0}\) as \(\min\) and \(0\),
+respectively.</p>
+
+<p>
+The first-order logic MTL\(\forall\) is then defined as the
+consequence relation given by the preservation of total truth (value
+\(1\)) in \(\ast\)-structures (allowing \(\ast\) to run over all
+left-continuous t-norms). More precisely, we say that a first-order
+formula \(\varphi\) is a consequence of a set of formulas \(\Gamma\)
+(in symbols: \(\Gamma \models_{\mathrm{MTL}\forall} \varphi\)) if, for
+each left-continuous t-norm \(\ast\) and each \(\ast\)-structure
+\({\mathbf M}\), we have \(\|\varphi\|^{\mathbf M}_{\mathrm v} = 1\)
+for each valuation v, whenever \(\|\psi\|^{\mathbf M}_{\mathrm v} =
+1\) for each valuation v and each \(\psi \in \Gamma\).</p>
+
+<p>
+MTL\(\forall\) can be given a strongly complete Hilbert-style proof
+system with the following axioms:</p>
+
+<ul class="sentag tag3em">
+
+<li><span class="tag">(P)</span> <span class="sen">The first-order
+instances of the axioms of MTL</span></li>
+
+<li><span class="tag">\((\forall1 )\)</span> <span class="sen">
+\(\forall x\,\varphi(x)\to\varphi(t)\), where the term \(t\) is
+substitutable for \(x\) in \(\varphi\)</span></li>
+
+<li><span class="tag"> \((\exists1)\)</span> <span class="sen">
+\(\varphi(t)\to \exists x\, \varphi(x)\), where the term \(t\) is
+substitutable for \(x\) in \(\varphi\) </span></li>
+
+<li><span class="tag">\((\forall2)\)</span> <span class="sen">
+\(\forall x\,(\chi\to\varphi)\to(\chi\to \forall x\,\varphi)\), where
+\(x\) is not free in \(\chi\)</span></li>
+
+<li><span class="tag">\((\exists2)\)</span> <span class="sen">
+\(\forall x\,(\varphi\to\chi)\to(\exists x\,\varphi\to\chi)\), where
+\(x\) is not free in \(\chi\)</span></li>
+
+<li><span class="tag">\((\forall3)\)</span> <span class="sen">
+\(\forall x\,(\chi\vee\varphi)\to\chi\vee \forall x\,\varphi\), where
+\(x\) is not free in \(\chi\).</span></li>
+</ul>
+
+<p>
+The deduction rules of MTL\(\forall\) are <em>modus ponens</em> plus
+the rule of <em>generalization:</em> from \(\varphi\) infer \(\forall
+x\,\varphi\).</p>
+
+<p>
+There are two ways of introducing first-order counterparts for other
+propositional t-norm based fuzzy logics. On the one hand, the
+axiomatization of MTL\(\forall\) can be extended by adding the
+first-order instances of propositional axioms like those seen in the
+previous sections. In this manner one obtains syntactic presentations
+of first-order variants of, e.g., &#321;ukasiewicz logic,
+G&ouml;del&ndash;Dummett logic, Product logic, or H&aacute;jek&rsquo;s
+basic fuzzy logic BL. On the other hand, the semantic definition of
+MTL\(\forall\) can be easily modified by defining the consequence
+relations given by the corresponding (sets of) t-norms. Then, the
+natural question is whether, in each case, these two routes lead to
+the same logic (as it happened for MTL). For soundness there is no
+problem, as the axiomatic systems are easily checked to be sound with
+respect to their corresponding classes of structures. As for
+completeness, there is no general answer and the problem has to be
+considered case by case.</p>
+
+<p>
+For G&ouml;del&ndash;Dummett logic the axiomatic system is strongly
+complete with respect to its semantics. However, the set of
+tautologies of the semantics for &#321;ukasiewicz logic is not
+recursively axiomatizable as shown by Bruno Scarpellini (1962). Emil
+Ragaz (1981) proved that it is actually \(\Sigma_2\)-complete in the
+sense of arithmetical hierarchy. The situation is even worse in the
+case of Product logic and H&aacute;jek&rsquo;s basic fuzzy logic BL,
+where the sets of first-order tautologies of all structures given by
+continuous t-norms are as complex as true arithmetics (Montagna 2001).
+Completeness can be achieved either by adding a suitable infinitary
+inference rule to the Hilbert-style proof system, as done by Louise
+Hay (1963) for &#321;ukasiewicz logic, or by generalizing the set of
+truth-values (see next section).</p>
+
+<p>
+First-order counterparts of weaker fuzzy logics can be studied in
+analogous, syntactic and semantic, ways; see the survey presentation
+in Cintula, Hor&#269;&iacute;k, &amp; Noguera 2014. </p>
+
+<h2 id="AlgeSema">7. Algebraic semantics</h2>
+
+<p>
+One of the main tools in the study of fuzzy logic is that of
+ <a href="../logic-algebraic-propositional/#AlgeSema">algebraic semantics</a>.
+ Roughly speaking, the idea is to replace the real unit interval with
+an arbitrary set and to interpret the connectives as operations of
+corresponding arities on that set.</p>
+
+<p>
+An MTL-algebra, introduced by Francesc Esteva and Llu&iacute;s Godo
+(2001), is a tuple \({\mathbf A} = \langle A, \&amp;, \to, \wedge,
+\vee, \overline{0}, \overline{1} \rangle\) where</p>
+
+<ul>
+
+<li>\(\langle A, \wedge, \vee, \overline{0}, \overline{1} \rangle\) is
+a bounded lattice</li>
+
+<li>\(\langle A, \&amp;, \overline{1} \rangle\) is a commutative
+monoid</li>
+
+<li>\((x\to y)\vee(y\to x) = \overline{1}\)</li>
+
+<li>\(x\mathbin{\&amp;} y \leq z\) iff \(x \leq y\to z\) (where
+\(\leq\) is the lattice order induced by \(\wedge\) or \(\vee\)).</li>
+</ul>
+
+<p>
+If the lattice order is total, then \({\mathbf A}\) is called an
+MTL-chain. It is worth noting that MTL-algebras are a subvariety of
+residuated lattices which provide the algebraic semantics for
+ <a href="../logic-substructural/">substructural logics</a>;
+ the first pointer to the tight connection between these two families
+of logics. </p>
+
+<p>
+MTL-algebras are a generalization of the t-norm based semantics
+explained above and provide a sound and complete semantics for
+ MTL.<sup>[<a href="notes.html#note-4" id="ref-4">4</a>]</sup>
+ </p>
+
+<p>
+MTL-chains are the basic building blocks of the whole class of
+algebras, in the sense that each MTL-algebra can be decomposed as a
+<em>subdirect product</em> of chains. This implies that the logic is
+also complete with respect to the semantics of MTL-chains, which is
+then used as the first step in the proof of its completeness with
+respect to the t-norm based semantics (Jenei &amp; Montagna 2002).</p>
+
+<p>
+Algebraic semantics is a universal tool for propositional logics. In
+particular, for any arbitrary fuzzy logic studied in the literature
+(even those not supporting a t-norm based semantics such as
+finite-valued fuzzy logics or the logic of non-commutative uninorms)
+one can find a corresponding class of algebras which can be decomposed
+as subdirect products of chains. This fact has led Libor B&#283;hounek
+and Petr Cintula (2006) to propose a definition of fuzzy logics as
+logics that are complete with respect to totally ordered algebraic
+structures.</p>
+
+<p>
+The algebraic semantics can be used for first-order fuzzy logics in a
+rather straightforward way: just change the definition of a
+\(\ast\)-structure of the previous section to a structure that,
+instead of the interval [0,1] and \(\ast\) and its residuum, uses an
+arbitary MTL-chain and its operation to compute truth-values of
+formulas. Given a propositional fuzzy logic, one can use this
+generalized semantics to obtain a recursively enumerable set of
+tautologies and a strong completeness theorem for a corresponding
+first-order Hilbert-style proof system.</p>
+
+<h2 id="ProoTheo">8. Proof theory</h2>
+
+<p>
+It has been a considerable challenge to come up with analytic proof
+systems for fuzzy logics. These are systems that share important
+features, like the eliminability of cuts and the subformula property,
+with Gentzen&rsquo;s sequent calculi for classical and intuitionistic
+logic (see entry on
+ <a href="../proof-theory-development/">the development of proof theory</a>).
+ A major breakthrough has been achieved with the introduction of a
+hypersequent calculus for G&ouml;del&ndash;Dummett logic by Arnon
+Avron (1991). Hypersequent calculi arise from sequent calculi by
+defining inference rules that refer to finite multisets of sequents,
+rather than to single sequents. Hypersequents are interpreted, at the
+meta-level, as disjunctions of sequents. This interpretation implies
+that it is sound to add additional sequents (external weakening) or to
+replace multiple copies of the same sequent within a given
+hypersequent by a single copy of that sequent (external contraction).
+In the case of G&ouml;del&ndash;Dummett logic, the rules for
+introducing logical connectives arise from the rules of
+Gentzen&rsquo;s intuitionistic sequent calculus by simply adding
+side-hypersequents the upper and lower sequents of the original rule.
+For example, the sequent rule for introducing conjunction on the
+right-hand side 
+
+\[\frac{\Gamma_1 \Rightarrow \phi \hspace{3ex} \Gamma_2 \Rightarrow
+\psi}{\Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi}\]
+
+ where \(\Gamma_1\) and \(\Gamma_2\) are
+finite sequences of formulas, is turned into the following
+hypersequent rule: 
+
+\[\frac{H \mid \Gamma_1 \Rightarrow \phi \hspace{3ex} H' \mid \Gamma_2
+\Rightarrow \psi}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \phi
+\wedge \psi }\]
+
+ where \(H\) and \(H'\) denote the
+side-hypersequents, i.e., finite multisets of sequents added
+disjunctively to the exhibited sequents. This by itself does not
+change the corresponding logic (intuitionistic logic, in this case).
+The crucial additional structural rule is the so-called communication
+rule: 
+
+\[\frac{H \mid \Gamma_1,\Pi_1 \Rightarrow \Delta_1 \hspace{3ex} H'
+\mid \Gamma_2,\Pi_2 \Rightarrow \Delta_2}{H \mid H' \mid
+\Gamma_1,\Gamma_2 \Rightarrow \Delta_1 \mid \Pi_2,\Pi_2 \Rightarrow
+\Delta_2}\]
+
+ Here \(\Gamma_1, \Gamma_2,\Pi_1, \Pi_2\) are finite
+sequences of formulas; \(\Delta_1\) and \(\Delta_2\) are either single
+formulas or remain empty; \(H\) and \(H'\) denote the
+side-hypersequents, like above. To understand the impact of the
+communication rule, we present a derivation of the crucial axiom
+\((\varphi \to \psi) \lor (\psi \to \varphi)\), which features an
+application of this rule immediately below the intial (hyper)sequents:
+
+\[
+\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\varphi \Rightarrow \varphi \hspace{5ex} \psi \Rightarrow \psi}{\varphi \Rightarrow \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid\, \Rightarrow  \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow  (\varphi \to \psi) \vee (\psi \to \varphi)}}{\Rightarrow (\varphi \to \psi) \lor (\psi \to \varphi)}
+\]
+
+ </p>
+
+<p>
+To obtain a hypersequent calculus for the fundamental fuzzy logic MTL
+one has to add the communication rule to a sequent system for the
+contraction-free version of intuitionistic logic (a well-studied
+example of a
+ <a href="../logic-substructural/">substructural logic</a>).
+ Analytic proof systems for other fuzzy logics, in particular
+&#321;ukasiewicz logic, call for a more radical departure from
+traditional calculi, where the sequent components of hypersequents are
+interpreted differently than intuitionistic or classical sequents.
+Also labeled proof systems and various tableau calculi have been
+suggested. A detailed presentation of the corresponding state of the
+art can be found in Metcalfe, Olivetti, &amp; Gabbay 2008 and Metcalfe
+2011.</p>
+
+<h2 id="SemaJustTrutFunc">9. Semantics justifying truth-functionality</h2>
+
+<p>
+It is desirable, not only from a philosophical point of view, but also
+to a get a better grip on potential applications of fuzzy logics to
+relate the meaning of intermediary truth-values and corresponding
+logical connectives to basic models of reasoning with vague and
+imprecise notions. A number of such semantics that seek to justify
+particular choices of truth-functional connectives have been
+introduced. Just two of them are briefly described here.</p>
+
+<p>
+Voting semantics is based on the idea that different agents (voters)
+may coherently judge the same proposition differently. The proportion
+of agents that accept a proposition \(\varphi\) as true may be seen as
+a truth-value. Without further restrictions this does not lead to a
+truth-functional semantics, but rather to an assignment of
+probabilities to propositions. But if one assigns a fixed <em>level of
+skepticism</em> to each agent and imposes some natural conditions that
+keep the judgments on logically complex statements consistent with
+those levels, then one can recover \(\min\), \(\max\), and \(1-x\) as
+truth functions for conjunction, disjunction and negation,
+respectively. Details can be found in Lawry 1998.</p>
+
+<p>
+Another intriguing model of reasoning that provides a justification
+for all propositional connectives of standard &#321;ukasiewicz logic
+has been introduced by Robin Giles (1974). It consists in a game,
+where two players, I and you, systematically reduce logically complex
+assertions (formulas) to simpler ones according to rules like the
+following:</p>
+
+<ul>
+
+<li>If I assert \(\varphi \lor \psi\), then I have to assert either
+\(\varphi\) or \(\psi\).</li>
+
+<li>If I assert \(\varphi \land \psi\), then you choose one of the
+conjuncts and I have to assert either \(\varphi\) or \(\psi\),
+accordingly.</li>
+
+<li>If I assert \(\varphi \to \psi\), then I have to assert \(\psi\)
+if you assert \(\varphi\).</li>
+</ul>
+
+<p>
+The rules for quantified statements refer to a fixed domain, assuming
+that there is a constant symbol for each domain element one
+stipulates:</p>
+
+<ul>
+
+<li>If I assert \(\forall x\, \varphi(x)\), then I have to assert
+\(\varphi(c)\), for a constant \(c\) chosen by you.</li>
+
+<li>If I assert \(\exists x\, \varphi(x)\), then I have to assert
+\(\varphi(c)\), for a constant \(c\) chosen by myself.</li>
+</ul>
+
+<p>
+The rules for your assertions are dual. At each state of the game an
+occurrence of a non-atomic formula in either the multiset of current
+assertions by me or by you is chosen and gets replaced by subformulas,
+as indicated by these rules, until only atomic assertions remain. A
+final game state is then evaluated according to the following betting
+scheme.</p>
+
+<p>
+For each atomic formula there is a corresponding experiment which may
+either fail or succeed, but may show dispersion, i.e., it may yield
+different results when repeated. A fixed failure probability, called
+risk value, is assigned to each experiment and thus to each atomic
+formula. The players have to pay \(\$\)1 to the other player for each
+of their atomic assertion where the associated experiments fails. For
+any game starting with my assertion of \(\varphi\) my expected overall
+loss of money, if we both play rationally, can be shown to correspond
+to the inverse of the truth-value of \(\varphi\) evaluated in an
+interpretation of &#321;ukasiewicz logic that assigns the inverse of
+the risk values as truth-values to atomic formulas. In particular, a
+formula is valid in &#321;ukasiewicz logic if and only if, for every
+risk value assignment, I have a strategy that guarantees that my
+expected overall loss at the end of game is \(0\) or negative.</p>
+
+<p>
+Christian Ferm&uuml;ller and George Metcalfe (2009) have pointed out a
+correspondence between optimal strategies in Giles&rsquo;s game and
+cut-free proofs in a hypersequent system for &#321;ukasiewicz logic.
+The game has also been extended in Ferm&uuml;ller &amp; Roschger 2014
+to characterize various types of (semi-)fuzzy quantifiers, intended to
+model natural language expressions like &ldquo;about half&rdquo; or
+&ldquo;almost all&rdquo;.</p>
+
+<p>
+Jeff Paris (2000) provided an overview over other semantics supporting
+various choices of truth functions; in particular, re-randomizing
+semantics (Hisdal 1988), similarity semantics (e.g., Ruspini 1991),
+acceptability semantics (Paris 1997), and approximation semantics
+(Paris 2000). Let us also mention the resource-based semantics
+proposed in B&#283;hounek 2009. Moreover there are different forms of
+evaluation games for various fuzzy logics besides the one of Giles for
+&#321;ukasiewicz logic, outlined above. An overview over those
+semantic games was given in Ferm&uuml;ller 2015.</p>
+
+<h2 id="FuzzLogiVagu">10. Fuzzy logic and vagueness</h2>
+
+<p>
+Modeling reasoning with vague predicates and propositions is often
+cited as the main motivation for introducing fuzzy logics. There are
+many alternative theories of
+ <a href="../vagueness/">vagueness</a>,
+ but there is a general agreement that the susceptibility to the
+ <a href="../sorites-paradox/">sorites paradox</a>
+ is a main feature of vagueness. Consider the following version of the
+paradox:</p>
+
+<ul class="sentag tag2em">
+
+<li id="ex1"><span class="tag">(1)</span><span class="sen">\(10^{100}\)
+is a huge number.</span></li>
+
+<li id="ex2"><span class="tag">(2)</span><span class="sen">If \(n\) is
+a huge number, then \(n-1\) is also huge.</span></li>
+</ul>
+
+<p>
+On the face of it, it seems not to be unreasonable to accept these two
+assumptions. By instantiating \(n\) with \(10^{100}\) in
+ <a href="#ex2">(2)</a>
+ and applying <em>modus ponens</em> with
+ <a href="#ex1">(1)</a>
+ as the other premise we conclude that \(10^{100}-1\) is huge. By
+simply repeating this type of inference we arrive at the unreasonable
+statement</p>
+
+<ul class="sentag tag2em">
+
+<li id="ex3"><span class="tag">(3)</span><span class="sen">\(0\) is a
+huge number.</span></li>
+</ul>
+
+<p>
+Fuzzy logic suggests an analysis of the <em>sorites paradox</em> that
+respects the intuition that statement
+ <a href="#ex2">(2)</a>,
+ while arguably not totally true, is almost true.</p>
+
+<p>
+There are various ways to model this form of reasoning in t-norm-based
+fuzzy logics that dissolve the paradox. For example, one may declare
+that any instance of <em>modus ponens</em> is sound if the degree of
+truth of the conclusion is not lower than that of the strong
+conjunction of its <span  class="nw">premises.<sup>[<a href="notes.html#note-5" id="ref-5">5</a>]</sup></span>
+ As indicated, one stipulates that every instance of
+ <a href="#ex2">(2)</a>
+ is true to degree \(1-\epsilon\), for some very small number
+\(\epsilon\). Even if we declare
+ <a href="#ex1">(1)</a>
+ to be perfectly true, the statement that \(10^{100}-1\) is huge, too,
+might then be less than perfectly true without sacrificing the
+soundness of instantiation and <em>modus ponens</em>. If, moreover,
+the degree of truth of the conjunction of two not perfectly true (and
+not perfectly false) statements is less than that of each conjunct, we
+may safely declare that statement
+ <a href="#ex3">(3)</a>
+ is perfectly false and nevertheless insist on the soundness of each
+step in the indicated chain of inferences. Informally speaking, the
+paradox disappears by assuming that repeatedly decreasing some
+perfectly huge number by a small amount leads to numbers of which it
+is less and less true that they are huge too.</p>
+
+<p>
+An alternative truth-degree-based solution to the <em>sorites
+paradox</em> has been proposed in H&aacute;jek &amp; Nov&aacute;k
+2003. They introduce a new truth-functional connective modeling the
+expression &ldquo;it is almost true that&rdquo;. In this manner they
+formalize <em>sorites</em>-style reasoning within an axiomatic theory
+of an appropriate t-norm-based fuzzy logic.</p>
+
+<p>
+Nicholas J.J. Smith (2005 and 2008) has argued that the so-called
+<em>closeness principle</em> captures the essence of vagueness. It
+expresses that statements of the same form about indistinguishable
+objects should remain close in respect of truth. It is a hallmark of
+many approaches to the sorites paradox that employ fuzzy logic that
+they are compatible with this
+ principle.<sup>[<a href="notes.html#note-6" id="ref-6">6</a>]</sup>
+ </p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<p>
+Supplementary document:</p>
+
+<p class="indent">
+
+ <a href="readings-by-topic.html">Bibliography Sorted by Topic</a>
+ </p>
+
+<ul class="hanging">
+
+<li>Aguzzoli, Stefano, Simone Bova, and Brunella Gerla, 2011,
+&ldquo;Free algebras and functional representation for fuzzy
+logics&rdquo;, in Cintula, Petr, Petr H&aacute;jek, and Carles Noguera
+(eds.), <em>Handbook of Mathematical Fuzzy Logic</em>, Volume 2,
+(Mathematical Logic and Foundations, Volume 38), London: College
+Publications, pages 713&ndash;791.</li>
+
+<li>Avron, Arnon, 1991, &ldquo;Hypersequents, Logical Consequence and
+Intermediate Logics for Concurrency&rdquo;, <em>Annals of Mathematics
+and Artificial Intelligence</em>, 4(3&ndash;4): 225&ndash;248.
+doi:10.1007/BF01531058</li>
+
+<li>Baaz, Matthias, 1996, &ldquo;Infinite-Valued G&ouml;del Logic with
+0&ndash;1-Projections and Relativisations&rdquo;, in H&aacute;jek,
+Petr (ed.), <em>G&ouml;del&rsquo;96: Logical Foundations of
+Mathematics, Computer Science, and Physics</em>, (Lecture Notes in
+Logic, Volume 6), Brno: Springer, pages 23&ndash;33.</li>
+
+<li>Baaz, Matthias, Petr H&aacute;jek, Franco Montagna, and Helmut
+Veith, 2002, &ldquo;Complexity of T-Tautologies&rdquo;, <em>Annals of
+Pure and Applied Logic</em>, 113(1&ndash;3): 3&ndash;11.</li>
+
+<li>Baaz, Matthias and Norbert Preining, 2011,
+&ldquo;G&ouml;del&ndash;Dummett Logics&rdquo;, in Cintula, Petr, Petr
+H&aacute;jek, and Carles Noguera (eds.), <em>Handbook of Mathematical
+Fuzzy Logic</em>, Volume 2, (Mathematical Logic and Foundations,
+Volume 38), London: College Publications, pages 585&ndash;625.</li>
+
+<li>Badia, Guillermo and Carles Noguera, 2021, &ldquo;Lindstr&ouml;m
+theorems in graded model theory&rdquo;, <em>Annals of Pure and Applied
+Logic</em>, 172(3): 102916. doi: 10.1016/j.apal.2020.102916</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, &ldquo;A General Omitting Types
+Theorem in Mathematical Fuzzy Logic&rdquo;, <em>IEEE Transactions on
+Fuzzy Systems</em>, 29(6): 1386&ndash;1394. doi:
+10.1109/TFUZZ.2020.2975146</li>
+
+<li>B&#283;hounek, Libor, 2009, &ldquo;Fuzzy Logics Interpreted as
+Logics of Resources&rdquo;, in Peli&scaron;, Michal (ed.), <em>The
+Logica Yearbook 2008</em>, London: College Publications, pages
+9&ndash;21.</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;In Which Sense Is Fuzzy Logic
+a Logic For Vagueness?&rdquo;, in &#321;ukasiewicz, Thomas, Rafael
+Pe&ntilde;aloza, and Anni-Yasmin Turhan (eds.), <em>PRUV 2014: Logics
+for Reasoning About Preferences, Uncertainty, and Vagueness</em>,
+(CEUR Workshop Proceedings, Volume 1205), Dresden: CEUR.</li>
+
+<li>B&#283;hounek, Libor and Petr Cintula, 2005, &ldquo;Fuzzy Class
+Theory&rdquo;, <em>Fuzzy Sets and Systems</em>, 154(1):
+34&ndash;55.</li>
+
+<li>&ndash;&ndash;&ndash;, 2006, &ldquo;Fuzzy Logics as the Logics of
+Chains&rdquo;, <em>Fuzzy Sets and Systems</em>, 157(5):
+604&ndash;610.</li>
+
+<li>B&#283;hounek, Libor and Zuzana Hanikov&aacute;, 2014, &ldquo;Set
+Theory and Arithmetic in Fuzzy Logic&rdquo;, in Montagna, Franco
+(ed.), <em>Petr H&aacute;jek on Mathematical Fuzzy Logic</em>,
+(Outstanding Contributions to Logic, Volume 6), Cham: Springer, pages
+63&ndash;89.</li>
+
+<li>B&#283;lohl&aacute;vek, Radim, Joseph W. Dauben, and George J.
+Klir, 2017, <em>Fuzzy Logic and Mathematics: A Historical
+Perspective</em>, Oxford: Oxford University Press.
+doi:10.1093/oso/9780190200015.001.0001</li>
+
+<li>B&#283;lohl&aacute;vek, Radim and Vil&eacute;m Vychodil, 2005,
+<em>Fuzzy Equational Logic</em>, (Studies in Fuzziness and Soft
+Computing, Volume 186), Berlin and Heidelberg: Springer.</li>
+
+<li>Bobillo, Fernando, Marco Cerami, Francesc Esteva, &Agrave;ngel
+Garc&iacute;a-Cerda&ntilde;a, Rafael Pe&ntilde;aloza, and Umberto
+Straccia, 2015, &ldquo;Fuzzy Description Logics&rdquo;, in Cintula,
+Petr, Christian G. Ferm&uuml;ller, and Carles Noguera (eds.),
+<em>Handbook of Mathematical Fuzzy Logic</em>, Volume 3, (Mathematical
+Logic and Foundations, Volume 58), London: College Publications, pages
+1105&ndash;1181.</li>
+
+<li>Bou, F&eacute;lix, Francesc Esteva, Llu&iacute;s Godo, and Ricardo
+Oscar Rodr&iacute;guez, 2011, &ldquo;On the Minimum Many-Valued Modal
+Logic Over a Finite Residuated Lattice&rdquo;, <em>Journal of Logic
+and Computation</em>, 21(5): 739&ndash;790.</li>
+
+<li>Busaniche, Manuela and Franco Montagna, 2011,
+&ldquo;H&aacute;jek&rsquo;s Logic BL and BL-Algebras&rdquo;, in
+Cintula, Petr, Petr H&aacute;jek, and Carles Noguera (eds.),
+<em>Handbook of Mathematical Fuzzy Logic</em>, Volume 1, (Mathematical
+Logic and Foundations, Volume 37), London: College Publications, pages
+355&ndash;447.</li>
+
+<li>Ciabattoni, Agata, Nikolaos Galatos, and Kazushige Terui, 2012,
+&ldquo;Algebraic Proof Theory for Substructural Logics:
+Cut-Elimination and Completions&rdquo;, <em>Annals of Pure and Applied
+Logic</em>, 163(3): 266&ndash;290.</li>
+
+<li>Caicedo, Xavier, George Metcalfe, Ricardo Oscar Rodr&iacute;guez,
+and Jonas Rogger, 2017, &ldquo;Decidability of order-based modal
+logics&rdquo;, <em>Journal of Computer and System Sciences</em>, 88:
+53&ndash;74. doi:10.1016/j.jcss.2017.03.012</li>
+
+<li>Caicedo, Xavier and Ricardo Oscar Rodr&iacute;guez, 2010,
+&ldquo;Standard G&ouml;del Modal Logics&rdquo;, <em>Studia
+Logica</em>, 94(2): 189&ndash;214.</li>
+
+<li>&ndash;&ndash;&ndash;, 2015, &ldquo;Bi-modal G&ouml;del logic over
+[0, 1]-valued Kripke frames&rdquo;, <em>Journal of Logic and
+Computation</em>, 25(1): 37&ndash;55. doi: 10.1093/logcom/exs036</li>
+
+<li>Cicalese, Ferdinando and Franco Montagna, 2015,
+&ldquo;Ulam&ndash;R&eacute;nyi Game Based Semantics For Fuzzy
+Logics&rdquo;, in Cintula, Petr, Christian G. Ferm&uuml;ller, and
+Carles Noguera (eds.), <em>Handbook of Mathematical Fuzzy Logic</em>,
+Volume 3, (Mathematical Logic and Foundations, Volume 58), London:
+College Publications, pages 1029&ndash;1062.</li>
+
+<li>Cignoli, Roberto, Itala M. D&rsquo;Ottaviano, and Daniele Mundici,
+1999, <em>Algebraic Foundations of Many-Valued Reasoning</em>, (Trends
+in Logic, Volume 7), Dordrecht: Kluwer.</li>
+
+<li>Cintula, Petr, 2006, &ldquo;Weakly Implicative (Fuzzy) Logics I:
+Basic Properties&rdquo;, <em>Archive for Mathematical Logic</em>,
+45(6): 673&ndash;704.</li>
+
+<li>Cintula, Petr, Denisa Diaconescu, and George Metcalfe, 2019,
+&ldquo;Skolemization and Herbrand theorems for lattice-valued
+logics&rdquo;, <em>Theoretical Computer Science</em>, 768:
+54&ndash;75. doi: 10.1016/j.tcs.2019.02.007</li>
+
+<li>Cintula, Petr, Francesc Esteva, Joan Gispert, Llu&iacute;s Godo,
+Franco Montagna, and Carles Noguera, 2009, &ldquo;Distinguished
+Algebraic Semantics for T-norm Based Fuzzy Logics: Methods and
+Algebraic Equivalencies&rdquo;, <em>Annals of Pure and Applied
+Logic</em>, 160(1): 53&ndash;81.</li>
+
+<li>Cintula, Petr, Christian G. Ferm&uuml;ller, and Carles Noguera
+(eds.), 2015, <em>Handbook of Mathematical Fuzzy Logic</em>, volume 3,
+(Studies in Logic, Volume 58), London: College Publications.</li>
+
+<li>Cintula, Petr, Petr H&aacute;jek, and Carles Noguera (eds.),
+2011a, <em>Handbook of Mathematical Fuzzy Logic</em>, volume 1
+(Studies in Logic, Volume 37), London: College Publications.</li>
+
+<li>&ndash;&ndash;&ndash; (eds.), 2011b, <em>Handbook of Mathematical
+Fuzzy Logic</em>, volume 2 (Studies in Logic, Volume 38), London:
+College Publications.</li>
+
+<li>Cintula, Petr, Rostislav Hor&#269;&iacute;k, Carles Noguera, 2013,
+&ldquo;Non-Associative Substructural Logics and their Semilinear
+Extensions: Axiomatization and Completeness Properties&rdquo;, <em>The
+Review of Symbolic Logic</em>, 6(3): 394&ndash;423.
+doi:10.1017/S1755020313000099</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;The Quest for the Basic Fuzzy
+Logic&rdquo;, in Montagna, Franco (ed.), <em>Petr H&aacute;jek on
+Mathematical Fuzzy Logic</em>, (Outstanding Contributions to Logic,
+Volume 6), Cham: Springer, pages 245&ndash;290.
+doi:10.1007/978-3-319-06233-4_12</li>
+
+<li>Cintula, Petr, Paula Mench&oacute;n, and Carles Noguera, 2019,
+&ldquo;Toward a general frame semantics for modal many-valued
+logics&rdquo;, <em>Soft Computing</em>, 23(7): 2233&ndash;2241. doi:
+10.1007/s00500-018-3369-5</li>
+
+<li>Cintula, Petr and Carles Noguera, 2011, &ldquo;A General Framework
+for Mathematical Fuzzy Logic&rdquo;, in Cintula, Petr, Petr
+H&aacute;jek, and Carles Noguera (eds.), <em>Handbook of Mathematical
+Fuzzy Logic</em>, Volume 1, (Mathematical Logic and Foundations,
+Volume 37), London: College Publications, pages 103&ndash;207.</li>
+
+<li>Cintula, Petr and George Metcalfe, 2009, &ldquo;Structural
+Completeness in Fuzzy Logics&rdquo;, <em>Notre Dame Journal of Formal
+Logic</em>, 50(2): 153&ndash;183.</li>
+
+<li>Dellunde, Pilar, 2012, &ldquo;Preserving Mappings in Fuzzy
+Predicate Logics&rdquo;, <em>Journal of Logic and Computation</em>,
+22(6): 1367&ndash;1389.</li>
+
+<li>Dellunde, Pilar, &Agrave;ngel Garc&iacute;a-Cerda&ntilde;a, and
+Carles Noguera, 2018, &ldquo;Back-and-forth systems for fuzzy
+first-order models&rdquo;, <em>Fuzzy Sets and Systems</em>, 345:
+83&ndash;98.</li>
+
+<li>Di Nola, Antonio and Giangiacomo Gerla, 1986, &ldquo;Fuzzy Models
+of First-Order Languages&rdquo;, <em>Zeitschrift f&uuml;r
+Mathematische Logik und Grundlagen der Mathematik</em>,
+32(19&ndash;24): 331&ndash;340.</li>
+
+<li>Dummett, Michael, 1959, &ldquo;A Propositional Calculus with
+Denumerable Matrix&rdquo;, <em>Journal of Symbolic Logic</em>, 24(2):
+97&ndash;106. doi:10.2307/2964753 </li>
+
+<li>Esteva, Francesc, Joan Gispert, Llu&iacute;s Godo, and Carles
+Noguera, 2007, &ldquo;Adding Truth-Constants to Logics of Continuous
+T-norms: Axiomatization and Completeness Results&rdquo;, <em>Fuzzy
+Sets and Systems</em>, 158(6): 597&ndash;618.
+doi:10.1016/j.fss.2006.11.010</li>
+
+<li>Esteva, Francesc and Llu&iacute;s Godo, 2001, &ldquo;Monoidal
+T-norm Based Logic: Towards a Logic for Left-Continuous
+T-norms&rdquo;, <em>Fuzzy Sets and Systems</em>, 124(3):
+271&ndash;288. doi:10.1016/S0165-0114(01)00098-7</li>
+
+<li>Esteva, Francesc, Llu&iacute;s Godo, and &Agrave;ngel
+Garc&iacute;a-Cerda&ntilde;a, 2003, &ldquo;On the Hierarchy of T-norm
+Based Residuated Fuzzy Logics&rdquo;, in Fitting, Melvin and Ewa
+Or&#322;owska (eds.), <em>Beyond Two: Theory and Applications of
+Multiple-Valued Logic</em>, (Studies in Fuzziness and Soft Computing,
+Volume 114), Heidelberg: Springer, pages 251&ndash;272.</li>
+
+<li>Esteva, Francesc, Llu&iacute;s Godo, Petr H&aacute;jek, and Mirko
+Navara, 2000, &ldquo;Residuated Fuzzy Logics with an Involutive
+Negation&rdquo;, <em>Archive for Mathematical Logic</em>, 39(2):
+103&ndash;124. doi:10.1007/s001530050006</li>
+
+<li>Esteva, Francesc, Llu&iacute;s Godo, and Enrico Marchioni, 2011,
+&ldquo;Fuzzy Logics with Enriched Language&rdquo;, in Cintula, Petr,
+Petr H&aacute;jek, and Carles Noguera (eds.), <em>Handbook of
+Mathematical Fuzzy Logic</em>, Volume 2, (Mathematical Logic and
+Foundations, Volume 38), London: College Publications, pages
+627&ndash;711.</li>
+
+<li> Esteva, Francesc, Llu&iacute;s Godo, and Franco Montagna, 2001,
+&ldquo;The \(L\Pi\) and \(L\Pi\frac12\) Logics: Two Complete Fuzzy
+Systems Joining &#321;ukasiewicz and Product Logics&rdquo;,
+<em>Archive for Mathematical Logic</em>, 40(1): 39&ndash;67.
+doi:10.1007/s001530050173</li>
+
+<li>&ndash;&ndash;&ndash;, 2003, &ldquo;Axiomatization of Any
+Residuated Fuzzy Logic Defined by a Continuous T-norm&rdquo;, in Taner
+Bilgi&ccedil;, Bernard De Baets, and Okyay Kaynak (eds.), <em>Fuzzy
+Sets and Systems: IFSA 2003</em>, (Lecture Notes in Computer Science,
+Volume 2715), Berlin/Heidelberg: Springer, pages 172&ndash;179.
+doi:10.1007/3-540-44967-1_20</li>
+
+<li>Fedel, Martina, Hykel Hosni, and Franco Montagna, 2011, &ldquo;A
+Logical Characterization of Coherence for Imprecise
+Probabilities&rdquo;, <em>International Journal of Approximate
+Reasoning</em>, 52(8): 1147&ndash;1170, doi:
+10.1016/j.ijar.2011.06.004.</li>
+
+<li>Ferm&uuml;ller, Christian G., 2015, &ldquo;Semantic Games for
+Fuzzy Logics&rdquo;, Cintula, Petr, Christian G. Ferm&uuml;ller, and
+Carles Noguera (eds.), 2015, <em>Handbook of Mathematical Fuzzy
+Logic</em>, volume 3, (Studies in Logic, Volume 58), London: College
+Publications, pages 969&ndash;1028.</li>
+
+<li>Ferm&uuml;ller, Christian G. and George Metcalfe, 2009,
+&ldquo;Giles&rsquo;s Game and Proof Theory for &#321;ukasiewicz
+Logic&rdquo;, <em>Studia Logica</em>, 92(1): 27&ndash;61.
+doi:10.1007/s11225-009-9185-2</li>
+
+<li>Ferm&uuml;ller, Christian G. and Christoph Roschger, 2014,
+&ldquo;Randomized Game Semantics for Semi-Fuzzy Quantifiers&rdquo;,
+<em>Logic Journal of the Interest Group of Pure and Applied
+Logic</em>, 22(3): 413&ndash;439. doi:10.1093/jigpal/jzt049</li>
+
+<li>Flaminio, Tommaso, Llu&iacute;s Godo, and Enrico Marchioni, 2011,
+&ldquo;Reasoning About Uncertainty of Fuzzy Events: An
+Overview&rdquo;, in Cintula, Petr, Christian G. Ferm&uuml;ller,
+Llu&iacute;s Godo, and Petr H&aacute;jek(eds.), <em>Understanding
+Vagueness: Logical, Philosophical, and Linguistic Perspectives</em>,
+(Studies in Logic, Volume 36), London: College Publications, pages
+367&ndash;400.</li>
+
+<li>Flaminio, Tommaso and Tom&aacute;&#353; Kroupa, 2015,
+&ldquo;States of MV-Algebras&rdquo;, in Cintula, Petr, Christian G.
+Ferm&uuml;ller, and Carles Noguera (eds.), <em>Handbook of
+Mathematical Fuzzy Logic</em>, Volume 3, (Mathematical Logic and
+Foundations, Volume 58), London: College Publications, pages
+1183&ndash;1236.</li>
+
+<li>Font, Josep Maria, 2016, <em>Abstract Algebraic Logic: An
+Introductory Textbook</em>, (Mathematical Logic and Foundations,
+Volume 60), London: College Publications.</li>
+
+<li>Galatos, Nikolaos, Peter Jipsen, Tomasz Kowalski, and Hiroakira
+Ono, 2007, <em>Residuated Lattices: An Algebraic Glimpse at
+Substructural Logics</em>, (Studies in Logic and the Foundations of
+Mathematics, Volume 151), Amsterdam: Elsevier.</li>
+
+<li>Garc&iacute;a-Cerda&ntilde;a, &Agrave;ngel, Eva Armengol, and
+Francesc Esteva, 2010, &ldquo;Fuzzy Description Logics and T-norm
+Based Fuzzy Logics&rdquo;, <em>International Journal of Approximate
+Reasoning</em>, 51(6): 632&ndash;655.</li>
+
+<li>Gehrke, Mai, Carol L. Walker, and Elbert A. Walker, 1997, &ldquo;A
+Mathematical Setting for Fuzzy Logics&rdquo;, <em>International
+Journal of Uncertainty, Fuzziness, and Knowledge-Based Systems</em>,
+5(3): 223&ndash;238. doi:10.1142/S021848859700021X</li>
+
+<li>Gerla, Giangiacomo, 2001, <em>Fuzzy Logic&mdash;Mathematical Tool
+for Approximate Reasoning</em>, (Trends in Logic, Volume 11), New
+York: Kluwer and Plenum Press.</li>
+
+<li>Giles, Robin, 1974, &ldquo;A Non-Classical Logic for
+Physics&rdquo;, <em>Studia Logica</em>, 33(4): 397&ndash;415.
+doi:10.1007/BF02123379</li>
+
+<li>G&ouml;del, Kurt, 1932, &ldquo;Zum intuitionistischen
+Aussagenkalk&uuml;l&rdquo;, <em>Anzeiger Akademie Der Wissenschaften
+Wien</em>, 69: 65&ndash;66.</li>
+
+<li>Godo, Llu&iacute;s, Francesc Esteva, and Petr H&aacute;jek, 2000,
+&ldquo;Reasoning About Probability Using Fuzzy Logic&rdquo;,
+<em>Neural Network World</em>, 10(5): 811&ndash;823.</li>
+
+<li>Goguen, Joseph A., 1969, &ldquo;The Logic of Inexact
+Concepts&rdquo;, <em>Synthese</em>, 19(3&ndash;4): 325&ndash;373.</li>
+
+<li>Gottwald, Siegfried, 2001, <em>A Treatise On Many-Valued
+Logics</em>, (Studies in Logic and Computation, Volume 9), Baldock:
+Research Studies Press Ltd.</li>
+
+<li>H&aacute;jek, Petr, 1998, <em>Metamathematics of Fuzzy Logic</em>,
+(Trends in Logic, Volume 4), Dordrecht: Kluwer.</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;On Very True&rdquo;, <em>Fuzzy
+Sets and Systems</em>, 124(3): 329&ndash;333.</li>
+
+<li>&ndash;&ndash;&ndash;, 2005, &ldquo;Making Fuzzy Description Logic
+More General&rdquo;, <em>Fuzzy Sets and Systems</em>, 154(1):
+1&ndash;15.</li>
+
+<li>H&aacute;jek, Petr and Petr Cintula, 2006, &ldquo;On Theories and
+Models in Fuzzy Predicate Logics&rdquo;, <em>Journal of Symbolic
+Logic</em>, 71(3): 863&ndash;880.</li>
+
+<li>H&aacute;jek, Petr and Zuzana Hanikov&aacute;, 2003, &ldquo;A
+Development of Set Theory in Fuzzy Logic&rdquo;, in Fitting, Melvin
+and Ewa Or&#322;owska (eds.), <em>Beyond Two: Theory and Applications
+of Multiple-Valued Logic</em>, (Studies in Fuzziness and Soft
+Computing, Volume 114), Heidelberg: Springer, pages
+273&ndash;285.</li>
+
+<li>H&aacute;jek, Petr, Franco Montagna, Carles Noguera, 2011,
+&ldquo;Arithmetical Complexity of First-Order Fuzzy Logics&rdquo;, in
+Cintula, Petr, Petr H&aacute;jek, and Carles Noguera(eds.),
+<em>Handbook of Mathematical Fuzzy Logic</em>, Volume 2, (Mathematical
+Logic and Foundations, Volume 38), London: College Publications, pages
+853&ndash;908.</li>
+
+<li>H&aacute;jek, Petr and Vil&eacute;m Nov&aacute;k, 2003, &ldquo;The
+Sorites Paradox and Fuzzy Logic&rdquo;, <em>International Journal of
+General Systems</em>, 32(4): 373&ndash;383.
+doi:10.1080/0308107031000152522</li>
+
+<li>H&aacute;jek, Petr, Jeff Paris, and John C. Shepherdson, 2000,
+&ldquo;The Liar Paradox and Fuzzy Logic&rdquo;, <em>Journal of
+Symbolic Logic</em>, 65(1): 339&ndash;346.</li>
+
+<li>Hanikov&aacute;, Zuzana, 2011, &ldquo;Computational Complexity of
+Propositional Fuzzy Logics&rdquo;, in Cintula, Petr, Petr
+H&aacute;jek, and Carles Noguera (eds.), <em>Handbook of Mathematical
+Fuzzy Logic</em>, Volume 2, (Mathematical Logic and Foundations,
+Volume 38), London: College Publications, pages 793&ndash;851.</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;Varieties Generated by
+Standard BL-Algebras&rdquo;, <em>Order</em>, 31(1): 15&ndash;33.
+doi:10.1007/s11083-013-9285-5</li>
+
+<li>Hansoul, Georges and Bruno Teheux, 2013, &ldquo;Extending
+&#321;ukasiewicz Logics with a Modality: Algebraic Approach to
+Relational Semantics&rdquo;, <em>Studia Logica</em>, 101(3):
+505&ndash;545, doi: 10.1007/s11225-012-9396-9.</li>
+
+<li>Hay, Louise Schmir, 1963, &ldquo;Axiomatization of the
+Infinite-Valued Predicate Calculus&rdquo;, <em>Journal of Symbolic
+Logic</em>, 28(1): 77&ndash;86. doi:10.2307/2271339 </li>
+
+<li>Hisdal, Ellen, 1988, &ldquo;Are Grades of Membership
+Probabilities?&rdquo; <em>Fuzzy Sets and Systems</em>, 25(3):
+325&ndash;348. doi:10.1016/0165-0114(88)90018-8</li>
+
+<li>Hor&#269;&iacute;k, Rostislav, 2011, &ldquo;Algebraic Semantics:
+Semilinear FL-Algebras&rdquo;, in Cintula, Petr, Petr H&aacute;jek,
+and Carles Noguera (eds.), <em>Handbook of Mathematical Fuzzy
+Logic</em>, Volume 1, (Mathematical Logic and Foundations, Volume 37),
+London: College Publications, pages 283&ndash;353.</li>
+
+<li>Horn, Alfred, 1969, &ldquo;Logic with Truth Values in a Linearly
+Ordered Heyting Algebra&rdquo;, <em>The Journal of Symbolic
+Logic</em>, 34(3): 395&ndash;408.</li>
+
+<li>Jenei, S&aacute;ndor and Franco Montagna, 2002, &ldquo;A Proof of
+Standard Completeness for Esteva and Godo&rsquo;s Logic MTL&rdquo;,
+<em>Studia Logica</em>, 70(2): 183&ndash;192.
+doi:10.1023/A:1015122331293</li>
+
+<li>Je&#345;&aacute;bek, Emil, 2010, &ldquo;Bases of Admissible Rules
+of &#321;ukasiewicz Logic&rdquo;, <em>Journal of Logic and
+Computation</em>, 20(6): 1149&ndash;1163.</li>
+
+<li>&ndash;&ndash;&ndash;, 2003, &ldquo;A Proof of Standard
+Completeness for Non-Commutative Monoidal T-norm Logic&rdquo;,
+<em>Neural Network World</em>, 13(5): 481&ndash;489.</li>
+
+<li>Klement, Erich Peter, Radko Mesiar, and Endre Pap, 2000,
+<em>Triangular Norms</em>, (Trends in Logic, Volume 8), Dordrecht:
+Kluwer.</li>
+
+<li>Lawry, Jonathan, 1998, &ldquo;A Voting Mechanism for Fuzzy
+Logic&rdquo;, <em>International Journal of Approximate Reasoning</em>,
+19(3&ndash;4): 315&ndash;333. doi:10.1016/S0888-613X(98)10013-0</li>
+
+<li>Le&#351;tean, Ioana and Antonio Di Nola, 2011,
+&ldquo;&#321;ukasiewicz Logic and MV-Algebras&rdquo;, in Cintula,
+Petr, Petr H&aacute;jek, and Carles Noguera (eds.), <em>Handbook of
+Mathematical Fuzzy Logic</em>, Volume 2, (Mathematical Logic and
+Foundations, Volume 38), London: College Publications, pages
+469&ndash;583.</li>
+
+<li>Ling, Cho-Hsin, 1965, &ldquo;Representation of Associative
+Functions&rdquo;, <em>Publicationes Mathematicae Debrecen</em>, 12:
+189&ndash;212.</li>
+
+<li>&#321;ukasiewicz, Jan, 1920, &ldquo;O Logice
+Tr&oacute;jwarto&#347;ciowej&rdquo;, <em>Ruch Filozoficzny</em>, 5:
+170&ndash;171. English translation, &ldquo;On Three-Valued
+Logic&rdquo;, in McCall, Storrs (ed.), 1967, <em>Polish Logic</em>
+<em>1920&ndash;1939</em>, Oxford: Clarendon Press, pages 16&ndash;18,
+and in Jan &#321;ukasiewicz, 1970, <em>Selected Works</em>, Borkowski,
+Ludwik (ed.), Amsterdam: North-Holland, pages 87&ndash;88.</li>
+
+<li>&#321;ukasiewicz, Jan and Alfred Tarski, 1930,
+&ldquo;Untersuchungen &uuml;ber den Aussagenkalk&uuml;l&rdquo;,
+<em>Comptes Rendus Des S&eacute;ances de La Soci&eacute;t&eacute; Des
+Sciences et Des Lettres de Varsovie, Cl. III</em>, 23(iii):
+30&ndash;50.</li>
+
+<li>Marra, Vincenzo and Luca Spada, 2013, &ldquo;Duality,
+Projectivity, and Unification in &#321;ukasiewicz Logic and
+MV-Algebras&rdquo;, <em>Annals of Pure and Applied Logic</em>, 164(3):
+192&ndash;210.</li>
+
+<li>McNaughton, Robert, 1951, &ldquo;A Theorem About Infinite-Valued
+Sentential Logic&rdquo;, <em>Journal of Symbolic Logic</em>, 16(1):
+1&ndash;13. doi:10.2307/2268660 </li>
+
+<li>Metcalfe, George, 2011, &ldquo;Proof Theory for Mathematical Fuzzy
+Logic&rdquo;, Cintula, Petr, Petr H&aacute;jek, and Carles Noguera
+(eds.), 2011a, <em>Handbook of Mathematical Fuzzy Logic</em>, volume 1
+(Studies in Logic, Volume 37), London: College Publications, pages
+209&ndash;282.</li>
+
+<li>Metcalfe, George and Franco Montagna, 2007, &ldquo;Substructural
+Fuzzy Logics&rdquo;, <em>Journal of Symbolic Logic</em>, 72(3):
+834&ndash;864. doi:10.2178/jsl/1191333844</li>
+
+<li>Metcalfe, George, Nicola Olivetti, and Dov M. Gabbay, 2008,
+<em>Proof Theory for Fuzzy Logics</em>, (Applied Logic Series, Volume
+36), Dordrecht: Springer Netherlands.</li>
+
+<li>Montagna, Franco, 2001, &ldquo;Three Complexity Problems in
+Quantified Fuzzy Logic&rdquo;, <em>Studia Logica</em>, 68(1):
+143&ndash;152. doi:10.1023/A:1011958407631</li>
+
+<li>Montagna, Franco and Carles Noguera, 2010, &ldquo;Arithmetical
+Complexity of First-Order Predicate Fuzzy Logics Over Distinguished
+Semantics&rdquo;, <em>Journal of Logic and Computation</em>, 20(2):
+399&ndash;424. doi:10.1093/logcom/exp052</li>
+
+<li>Montagna, Franco, Carles Noguera, and Rostislav
+Hor&#269;&iacute;k, 2006, &ldquo;On Weakly Cancellative Fuzzy
+Logics&rdquo;, <em>Journal of Logic and Computation</em>, 16(4):
+423&ndash;450.</li>
+
+<li>Montagna, Franco and Hiroakira Ono, &ldquo;Kripke Semantics,
+Undecidability and Standard Completeness for Esteva and Godo&rsquo;s
+Logic MTL\(\forall\)&rdquo;, <em>Studia Logica</em>, 71(2):
+227&ndash;245.</li>
+
+<li>Mostert, Paul S. and Allen L. Shields, 1957, &ldquo;On the
+Structure of Semigroups on a Compact Manifold with Boundary&rdquo;,
+<em>The Annals of Mathematics, Second Series</em>, 65(1):
+117&ndash;143. doi:10.2307/1969668 </li>
+
+<li>Mundici, Daniele, 1987, &ldquo;Satisfiability in Many-Valued
+Sentential Logic is NP-Complete&rdquo;, <em>Theoretical Computer
+Science</em>, 52(1&ndash;2): 145&ndash;153.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;The Logic of Ulam&rsquo;s Game
+with Lies&rdquo;, in Bicchieri, Cristina and Maria Luisa Dalla Chiara
+(eds.), <em>Knowledge, Belief, and Strategic Interaction</em>
+(<em>Castiglioncello</em>, <em>1989</em>), Cambridge: Cambridge
+University Press, 275&ndash;284.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, <em>Advanced &#321;ukasiewicz
+Calculus and MV-Algebras</em>, (Trends in Logic, Volume 35), New York:
+Springer.</li>
+
+<li>Nov&aacute;k, Vil&eacute;m, 2004, &ldquo;On Fuzzy Type
+Theory&rdquo;, <em>Fuzzy Sets and Systems</em>, 149(2):
+235&ndash;273.</li>
+
+<li>&ndash;&ndash;&ndash;, 2015, &ldquo;Fuzzy Logic with Evaluated
+Syntax&rdquo;, in Cintula, Petr, Christian G. Ferm&uuml;ller, and
+Carles Noguera (eds.), <em>Handbook of Mathematical Fuzzy Logic</em>,
+Volume 3, (Mathematical Logic and Foundations, Volume 58), London:
+College Publications, pages 1063&ndash;1104.</li>
+
+<li>Nov&aacute;k, Vil&eacute;m, Irina Perfilieva, and Ji&#345;&iacute;
+Mo&#269;ko&#345;, 2000, <em>Mathematical Principles of Fuzzy
+Logic</em>, Dordrecht: Kluwer.</li>
+
+<li>Nguyen, Hung T. and Elbert A. Walker, 2005, <em>A First Course in
+Fuzzy Logic</em> (third edition), Chapman and Hall/CRC.</li>
+
+<li>Paris, Jeff, 1997, &ldquo;A Semantics for Fuzzy Logic&rdquo;,
+<em>Soft Computing</em>, 1(3): 143&ndash;147.
+doi:10.1007/s005000050015</li>
+
+<li>&ndash;&ndash;&ndash;, 2000, &ldquo;Semantics for Fuzzy Logic
+Supporting Truth Functionality&rdquo;, in Vil&eacute;m Nov&aacute;k
+and Irina Perfilieva (eds.), <em>Discovering the World with Fuzzy
+Logic</em>, (Studies in Fuzziness and Soft Computing. Volume 57),
+Heidelberg: Springer, pages 82&ndash;104.</li>
+
+<li>Pavelka, Jan, 1979, &ldquo;On Fuzzy Logic I, II, and III&rdquo;,
+<em>Zeitschrift f&uuml;r Mathematische Logik und Grundlagen der
+Mathematik</em>, 25: 45&ndash;52, 119&ndash;134, and
+447&ndash;464.</li>
+
+<li>Ragaz, Matthias Emil, 1981, <em>Arithmetische Klassifikation von
+Formelmengen der unendlichwertigen Logik</em> (PhD thesis), Swiss
+Federal Institute of Technology, Z&uuml;rich.
+doi:10.3929/ethz-a-000226207</li>
+
+<li>Rodr&iacute;guez, Ricardo Oscar and Amanda Vidal, 2021,
+&ldquo;Axiomatization of Crisp G&ouml;del Modal Logic&rdquo;,
+<em>Studia Logica</em>, 109(2): 367&ndash;395. doi:
+10.1007/s11225-020-09910-5</li>
+
+<li>Ross, Timothy J., 2016, <em>Fuzzy Logic with Engineering
+Applications</em> (fourth edition), Hoboken, NJ: Wiley.</li>
+
+<li>Ruspini, Enrique H., 1991, &ldquo;On the Semantics of Fuzzy
+Logic&rdquo;, <em>International Journal of Approximate Reasoning</em>,
+5(1): 45&ndash;88. doi:10.1016/0888-613X(91)90006-8</li>
+
+<li>Scarpellini, Bruno, 1962, &ldquo;Die Nichtaxiomatisierbarkeit des
+unendlichwertigen Pr&auml;dikatenkalk&uuml;ls von
+&#321;ukasiewicz&rdquo;, <em>Journal of Symbolic Logic</em>, 27(2):
+159&ndash;170. doi:10.2307/2964111 </li>
+
+<li>Smith, Nicholas J.J., 2005, &ldquo;Vagueness as Closeness&rdquo;,
+<em>Australasian Journal of Philosophy</em>, 83(2): 157&ndash;183.
+doi:10.1080/00048400500110826</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, <em>Vagueness and Degrees of
+Truth</em>, Oxford: Oxford University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2015, &ldquo;Fuzzy Logics in Theories of
+Vagueness&rdquo;, in Cintula, Petr, Christian G. Ferm&uuml;ller, and
+Carles Noguera (eds.), <em>Handbook of Mathematical Fuzzy Logic</em>,
+Volume 3, (Mathematical Logic and Foundations, Volume 58), London:
+College Publications, pages 1237&ndash;1281.</li>
+
+<li>Straccia, Umberto, 1998, &ldquo;A Fuzzy Description Logic&rdquo;,
+in Mostow, Jack and Chuck Rich (eds.), <em>Proceedings of the 15th
+National Conference on Artificial Intelligence (AAAI 1998)</em>, Menlo
+Park: AAAI Press, pages 594&ndash;599.</li>
+
+<li>Teheux, Bruno, 2016, &ldquo;Modal definability based on
+&#321;ukasiewicz validity relations&rdquo;, <em>Studia Logica</em>,
+104(2): 343&ndash;363. doi: 10.1007/s11225-015-9643-y</li>
+
+<li>Takeuti, Gaisi and Satako Titani, 1984, &ldquo;Intuitionistic
+Fuzzy Logic and Intuitionistic Fuzzy Set Theory&rdquo;, <em>Journal of
+Symbolic Logic</em>, 49(3): 851&ndash;866.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;Fuzzy Logic and Fuzzy Set
+Theory&rdquo;, <em>Archive for Mathematical Logic</em>, 32(1):
+1&ndash;32.</li>
+
+<li>Vetterlein, Thomas, 2015, &ldquo;Algebraic Semantics: The
+Structure of Residuated Chains&rdquo;, in Cintula, Petr, Christian G.
+Ferm&uuml;ller, and Carles Noguera (eds.), <em>Handbook of
+Mathematical Fuzzy Logic</em>, Volume 3, (Mathematical Logic and
+Foundations, Volume 58), London: College Publications, pages
+929&ndash;967.</li>
+
+<li>Vidal, Amanda, 2021, &ldquo;On transitive modal many-valued
+logics&rdquo;, <em>Fuzzy Sets and Systems</em>, 407: 97&ndash;114.
+doi: 10.1016/j.fss.2020.01.011</li>
+
+<li>Vidal, Amanda, Francesc Esteva, and Llu&iacute;s Godo, 2017,
+&ldquo;On modal extensions of Product fuzzy logic&rdquo;, <em>Journal
+of Logic and Computation</em>, 27(1): 299&ndash;336. doi:
+10.1093/logcom/exv046</li>
+
+<li>Zadeh, Lotfi A., 1965, &ldquo;Fuzzy Sets&rdquo;, <em>Information
+and Control</em>, 8(3): 338&ndash;353.
+doi:10.1016/S0019-9958(65)90241-X</li>
+
+<li>&ndash;&ndash;&ndash;, 1975, &ldquo;Fuzzy logic and approximate
+reasoning&rdquo;, <em>Synthese</em>, 30: 407&ndash;428. doi:
+10.1007/BF00485052</li>
+</ul>
+</div> 
+
+<div id="academic-tools">
+
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-fuzzy" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/logic-fuzzy/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=logic-fuzzy&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/logic-fuzzy/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<ul>
+
+<li>Hajek, Petr, &ldquo;Fuzzy Logic&rdquo;, <em>The Stanford
+Encyclopedia of Philosophy</em> (Fall 2016 Edition), Edward N. Zalta
+(ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/fall2016/entries/logic-fuzzy/">https://plato.stanford.edu/archives/fall2016/entries/logic-fuzzy/</a>&gt;.
+ [This was the previous entry on fuzzy logic in the <em>Stanford
+Encyclopedia of Philosophy</em> &mdash; see the
+ <a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-fuzzy" class="plain" target="other">version history</a>.]</li>
+ <!--LINK CHECKER COMMENTED OUT (Fri Mar 1 14:20:10 PST 2019)   <li><a href="http://www.mathfuzzlog.org/" target="other">Mathematics of Fuzzy Logic</a>,
+ webpage of the working group on mathematical fuzzy logic.</li> LINK
+CHECKER-->
+</ul>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../logic-algebraic-propositional/">logic: algebraic propositional</a> |
+ <a href="../logic-manyvalued/">logic: many-valued</a> |
+ <a href="../logic-substructural/">logic: substructural</a> |
+ <a href="../proof-theory-development/">proof theory: development of</a> |
+ <a href="../vagueness/">vagueness</a>
+
+</p>
+
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="https://www.avcr.cz/en/about-us/cas-structure/council-for-sciences/list-of-members-of-council-for-sciences/doc.-Ing.-Petr-Cintula-Ph.D.-DSc./" target="other">Petr Cintula</a>
+&lt;<a href="m&#97;ilto:cintula&#37;40cs&#37;2ecas&#37;2ecz"><em>cintula<abbr title=" at ">&#64;</abbr>cs<abbr title=" dot ">&#46;</abbr>cas<abbr title=" dot ">&#46;</abbr>cz</em></a>&gt;<br />
+<a href="http://www.logic.at/staff/chrisf" target="other">Christian G. Ferm&uuml;ller</a>
+&lt;<a href="m&#97;ilto:chrisf&#37;40logic&#37;2eat"><em>chrisf<abbr title=" at ">&#64;</abbr>logic<abbr title=" dot ">&#46;</abbr>at</em></a>&gt;<br />
+<a href="http://www.utia.cas.cz/people/noguera" target="other">Carles Noguera</a>
+&lt;<a href="m&#97;ilto:carles&#37;2enoguera&#37;2eclofent&#37;40gmail&#37;2ecom"><em>carles<abbr title=" dot ">&#46;</abbr>noguera<abbr title=" dot ">&#46;</abbr>clofent<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

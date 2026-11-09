@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Second-order and Higher-order Logic &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/logic-higher-order/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/logic-higher-order/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-higher-order">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Second-order and Higher-order Logic</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ Classical sources for second-order logic are <span class="citation">Hilbert
+&amp; Ackermann (1938)</span> and <span class="citation">Church
+(1956)</span>.</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ Suppose a formula \(\phi\) is logically equivalent to both \(\exists
+X_1\ldots \exists X_n\,\phi_1\) and \(\forall Y_1\ldots \forall
+Y_m\phi_2,\) where \(\phi_1\) and \(\phi_2\) are first order. W.l.o.g.
+</p> 
+\[\{X_1,\ldots, X_n\}\cap\{Y_1,\ldots, Y_m\}=\emptyset.\]
+
+<p>
+Now \(\models\phi_1\to\phi_2\). By the Craig Interpolation Theorem
+there is a first order \(\theta\) such that
+\(\models\phi_1\to\theta\), \(\models\theta\to\phi_2\), and the
+symbols \(X_1,\)&hellip;, \(X_n,\) \(Y_1,\)&hellip;, \(Y_m\) do not
+occur in \(\theta\). Hence \(\phi\) is logically equivalent with
+\(\theta\).</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ Here <i>E</i> is a kind of membership relation. Indeed, the formula
+\(\phi_1\) resembles the Axiom of Extensionality of ZFC set theory.
+Formula \(\phi_2\) says that if \(E(x,y)\) is read as &ldquo;<i>x</i>
+is an element of <i>y</i>", then the &ldquo;element" <i>x</i> must be
+an element of <i>U</i>. We can easily build a model \(\mm\) of
+\(\phi_1\land\phi_2\) as follows. Let <i>A</i> be a set such that
+\(A\cap\P(A)=\emptyset\). Here \(\P(A)\) denotes the power set of
+<i>A</i>. Note that \(A\cap\P(A)=\emptyset\) is always the case if,
+for example, <i>A</i> is a set of singletons \(\{a_i\}\), where each
+\(a_i\) has cardinality 2. We let \(M=A\cup \P(A)\). As the
+interpretation of the unary relation variable <i>U</i> we choose
+<i>A</i>. Finally, as the interpretation of the binary relation
+variable <i>E</i> we choose the real membership relation, that is,
+</p> 
+\[E^\mm=\{(a,b)\in A\times \P(A) : a\in b\}.\]
+
+<p>
+The last conjunct \(\phi_3\) says that if <i>X</i> is a subset of
+<i>U</i>, then there is some <i>y</i> such that exactly those elements
+<i>z</i> of <i>U</i> that satisfy \(E(z,y)\) are the ones that are in
+<i>X</i>. In a sense <i>y</i> &ldquo;codes&rdquo; the set <i>X</i>. In
+our example model \(\mm\) we would choose \(y=X\) because <i>M</i> has
+all the subsets of <i>A</i> as elements. In other models we may not be
+able to choose \(y=X\) because <i>X</i> is not an element of the
+model, just a subset of <i>U</i>, coded by <i>y</i>. In (6) the
+variable <i>X</i> is universally quantified. The effect of this is
+that <em>every</em> subset of <i>U</i> is coded by some element of the
+model. Thus the above \(\mm\) satisfies \(\theta\). On the other hand,
+suppose \(\mn\) is an arbitrary model of \(\theta\). Let us take a set
+<i>A</i> such that \(|A|=|U^\mn|\). We can assume
+\(A\cap\P(A)=\emptyset\), as above. Let \(M=A\cup\P(A)\). By letting
+\(U^\mm=A\) and </p> 
+\[E^\mm=\{(a,b)\in A\times \P(A) : a\in b\}\]
+
+<p>
+we obtain a model \(\mm\) (of \(\theta\)). Let \(\pi:U^\mn\to A\) be a
+bijection. If \(b\in N\), let \(\pi(b)=\{a\in A:E^\mn(a,b)\}\). Now
+\(\pi:\mn\cong\mm\).</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ The smallest cardinal \(\kappa\) such that if a second-order sentence
+has a model at all, it has a model of cardinality \(\le\kappa\).</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ The smallest cardinal \(\kappa\) such that if a second-order sentence
+has a model of cardinality \(\ge\kappa\), it has arbitrarily large
+models.</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ Let \(T\subseteq \ZFC\) be finite. Let <i>L</i> be G&ouml;del&rsquo;s
+model of constructible sets. Let \(\delta\) be an ordinal such that
+\(L\models {}\) &ldquo;\(\delta\) is uncountable&rdquo;. Let
+\(\lambda&gt;\delta\) be a cardinal such that \((L_\lambda,\in)\models
+T\). Such \(\lambda\) exist, because <i>T</i> is finite (by the
+Reflection Theorem, see, e.g., Kunen 1980). Let \((N,E)\prec
+(L_{\lambda},\in)\) be countable with \(\delta\in N\), by the
+L&ouml;wenheim-Skolem Theorem of first order logic. By
+Mostowski&rsquo;s Collapsing Lemma (see e.g. Kunen 1980), there is a
+transitive \((N',\in)\) and \(\pi:(N,E)\cong (N',\in)\). Let
+\(\eta=\pi(\delta)\). Let \(\mm\in N'\) be a structure for the empty
+vocabulary such that \(M=\eta\). Let <i>s</i> be an assignment such
+that \(s\in N'\), \(s(P)=\eta\) and \(s(R)=\omega\). Then \((N',\in)\)
+is a countable transitive model of <i>T</i> with an element \(\eta\)
+such that \((N',\in)\models &ldquo;\eta\mbox{ is
+uncountable}&rdquo;,\) hence
+\((N',\in)\not\models&ldquo;\mm\models_s\theta_{\textrm{EC}}(P,R)&rdquo;,\)
+that is, if second-order logic is construed inside the transitive
+model \(N'\) of the finite part <i>T</i> of ZFC, then in the sense of
+\(N'\) the assignment <i>s</i> does not satisfy
+\(\theta_{\textrm{EC}}(P,R)\) in \(\mm\), but still
+\(\mm\models_s\theta_{\textrm{EC}}(P,R)\), because \(\eta\) is a
+countable ordinal.</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ Here is an example: Suppose \(\phi\) is preserved under extensions of
+the <i>n</i>-ary predicate symbol <i>R</i>, i.e., if
+\(\mm\models\phi\) and \(\mm'\) is the result of extending the
+predicate <i>R</i> in \(\mm\), then \(\mm'\models\phi\). Then \(\phi\)
+is logically equivalent with a second-order sentence \(\psi\) in which
+<i>R</i> occurs only positively. The proof is trivial: Let \(\phi'\)
+be the result of replacing \(R(t_1,\ldots, t_n)\) everywhere in
+\(\phi\) by \(X(t_1,\ldots, t_n)\). Let \(\psi\) be the sentence </p>
+
+\[\exists X(\forall x_1\ldots\forall x_n(X(x_1,\ldots, x_n)\to R(x_1,\ldots, x_n))\land\phi').\]
+
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ Suppose \(\phi\) characterizes \(\ma\) up to isomorphism. Suppose the
+constant, predicate and function symbols of \(\phi\) are \(c_1,\ldots,
+c_n,R_1,\ldots, R_m, F_1,\ldots, F_k\). Let us replace in \(\phi\)
+constant symbols by individual variables, predicate symbols by
+relation variables and function symbols by function variables
+obtaining \(\phi'\). Let \(\phi^*\) be the sentence </p> 
+\[\exists x_1\ldots \exists x_n\,\exists X_1\ldots\exists X_m\,\exists F_1\ldots F_k\phi'.
+\]
+
+<p>
+Note that \(\phi^*\) is a sentence of the empty vocabulary. If a
+structure (<i>B</i>) of the empty vocabulary satisfies \(\phi^*\), the
+structure can be expanded to a model \(\mb\) of \(\phi\). Then
+\(\mb\cong\ma\), whence \(|B|=|A|\). Conversely, if <i>B</i> is a set
+such that there is a bijection \(\pi:A\to B\), then \(\pi\) can be
+used to copy the structure of \(\ma\) onto (<i>B</i>) resulting in a
+structure \(\mb\). By construction, \(\mb\cong\ma\), whence
+\(\mb\models\phi\). Clearly now \((B)\models\phi^*\). We have shown
+that \(\phi^*\) characterizes the cardinal \(|A|\) (i.e., the
+structure of cardinality \(|A|\) of the empty vocabulary) up to
+isomorphism.</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ W.l.o.g. \(M=\kappa\). Since \(\kappa\) is measurable, there is an
+elementary embedding \(j:V\to N\) with <i>N</i> transitive and
+\({}^\kappa N\subseteq N\). Thus \(\mm\in N\). On the other hand
+\(N\models &ldquo;j(\mm)\models\phi&rdquo;\). Also \(N\models
+&ldquo;\mm\models\phi&rdquo;\). Clearly \(\mm\subseteq j(\mm)\). Thus
+in <i>N</i> the model \(j(\mm)\) has a submodel which contains
+<i>X</i>, is of size \(&lt;j(\kappa)\) and is a model of \(\phi\).
+Since <i>j</i> is elementary, \(\mm\) has a submodel of size
+\(&lt;\kappa\) which contains <i>X</i> and is a model of \(\phi\).</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ A cardinal \(\kappa\) is weakly compact if it is strongly
+inaccessible and every \(\kappa\)-tree, i.e., tree of height
+\(\kappa\) in which the levels have cardinality \(&lt;\kappa\) has a
+branch of length \(\kappa\). We can express weak compactness of
+\(\kappa\) with a second-order sentence \(\phi\). Since \(\lambda\) is
+weakly compact, \((\lambda)\models\phi\). There cannot be a smaller
+model of \(\phi\), because \(\lambda\) is the smallest weakly compact
+cardinal.</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ If a set-theoretical proof involves a set <i>A</i>, we can without
+hesitation also consider the power set \(\P(A)\) and even the double
+power set \(\P(\P(A))\). In second-order logic the situation is
+different. If we have a set <i>A</i> of individuals, we can talk about
+its subsets but we cannot collect them together into the power set
+\(\P(A)\). We can do it in third order logic, but then we cannot form
+\(\P(\P(A))\).</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ Mirroring means here the existence of translations in both
+directions. We shall now define these translations. To simplify
+notation, let us assume that the individual variables of second-order
+logic are \(x_1,\) \(x_2,\)&hellip;, the constant symbols are \(c_1,\)
+\(c_2,\)&hellip;, the <i>n</i>-ary relation variables are \(X^n_1,\)
+\(X^n_2,\)&hellip;, and the <i>n</i>-ary function variables are
+\(F^n_1,\) \(F^n_2,\)&hellip;. Respectively, let the variables of our
+many-sorted logic be as follows: </p>
+
+<div class="indent">
+
+<p>
+The variables of sort \(\si\) are \(v_1,v_2,\ldots\), the <i>n</i>-ary
+relation variables are \(w^n_1,w^n_2,\ldots\), and the <i>n</i>-ary
+function variables are \(u^n_1,u^n_2,\ldots\). </p>
+</div>
+
+<p>
+Let \(\Gamma\) consist of the following first order sentences: </p>
+
+\[
+\begin{align}
+&amp;\exists v_1(v_1=c_n), \\
+&amp;\forall w^n_m\forall w^n_k(\forall v_1\ldots\forall v_n(\sA(x_1,\ldots, x_n,w^n_m)\leftrightarrow \sA(x_1,\ldots, x_n,w^n_k))\\
+&amp;\qquad\to w^n_m=w^n_k), \\
+&amp;\forall u^n_m\forall u^n_k(\forall v_1\ldots\forall v_n(\sF(x_1,\ldots, x_n,u^n_m)=\sF(x_1,\ldots, x_n,u^n_k))\\
+&amp;\qquad\to u^n_m=u^n_k) \\
+  \end{align}
+  \]
+
+<p>
+for \(n,m,k\in\oN\). We define a translation \(\phi\mapsto\phi^*\)
+from second-order logic to many-sorted logic as follows: </p>
+
+<ul>
+
+<li>\(x_n^*\) is \( v_n\), \(c^*_n=c_n\), </li>
+
+<li>\(F^n_m(t_1,\ldots, t_n)^*\) is \( \sF(t^*_1,\ldots,
+t^*_n,u^n_m)\), </li>
+
+<li>\(X^n_m(t_1,\ldots, t_n)^*\) is \( \sA(t^*_1,\ldots,
+t^*_n,w^n_m)\), </li>
+
+<li>\((t_1=t_2)^*\) is \( t^*_1=t^*_2\), </li>
+
+<li>\(R(t_1,\ldots, t_n)^*\) is \( R(t^*_1,\ldots, t^*_n)\), </li>
+
+<li>\((\neg\phi)^*\) is \( \neg\phi^*\), </li>
+
+<li>\((\phi\land\psi)^*\) is \( \phi^*\land\psi^*\), </li>
+</ul>
+
+<p>
+similarly for \((\phi\lor\psi)^*\), \((\phi\to\psi)^*\), and
+\((\phi\leftrightarrow\psi)^*\),</p>
+
+<ul>
+
+<li> \((\exists x_n\,\phi)^*\) is \( \exists v_n\,\phi^*\), </li>
+
+<li>\((\exists X^n_m\,\phi)^*\) is \( \exists w^n_m\,\phi^*\), </li>
+
+<li> \((\exists F^n_m\,\phi)^*\) is \( \exists u^n_m\,\phi^*\),</li>
+</ul>
+
+<p>
+similarly for \((\forall x_n\,\phi)^*\), \((\forall X^n_m\,\phi)^*\),
+and \((\forall F^n_m\,\phi)^*\). </p>
+
+<p>
+A model \(\mm\) of \(\Gamma\) gives rise to a general model
+\((\mm^{\textrm{ms}}, \G^{\textrm{ms}})\) with
+\(M_{s^{\textrm{ind}}}\) as the domain and \(\G^{\textrm{ms}}\)
+consisting for each \(n\in\oN\) of the relations</p> 
+\[\{(a_1,\ldots,a_n) \in M_{s^{\text{ind}}}^n: \mm\models \sA(a_1,\ldots,a_n,b)\},\]
+
+<p>
+where \(b\in M_{s^{\textrm{rel}}_n}\), and of the functions \(f:
+M_{\si}^n\to M_{\si}\) such that </p> 
+\[f(a_1,\ldots,a_n)= \sF(a_1,\ldots,a_n,b),\]
+
+<p>
+where \(b\in M_{\sr}\). Conversely, every general model is of the form
+\((\mm^{\text{ms}},\G^{\text{ms}})\) for some many sorted model
+\(\mm\) of \(\Gamma\). Now for all second-order sentences \(\phi\) and
+all models \(\mm\) of \(\Gamma\) we have </p> 
+\[(\mm^{\textrm{ms}},\G^{\textrm{ms}})\models\phi\iff \mm\models\phi^*.\]
+
+<p>
+Similarly to \(\phi\mapsto\phi^*\) there is also a translation from
+the many-sorted logic into second-order logic.</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ The proof is just as the proof given by Henkin for the Completeness
+Theorem of first order logic. Suppose we have a countable theory which
+is consistent in the sense that no contradiction can be derived. We
+add new constant symbols as witnesses for existential formulas
+\(\exists x\,\phi\), new predicate symbols as witnesses for
+existential formulas \(\exists X\,\phi\), and new function symbols as
+witnesses for existential formulas \(\exists F\,\phi\). Then we extend
+to a maximal consistent theory. From this we can form a general model
+by using the new constants as the building blocks of the domain of
+individuals to get a model \(\mm\), the new predicate an function
+symbols as the building blocks of the \(\G\). Naturally, not
+<em>all</em> sets of individual end in \(\G\), only those that the
+construction yields as necessary witnesses. An alternative to this
+proof is a translation of second-order logic to many sorted logic.
+Then one can use the Completeness Theorem of many sorted logic.</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ Every set of second-order sentences, every finite subset of which has
+a Henkin model, has itself a Henkin model.</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ If a second-order sentence has a Henkin model \((\mm,\G)\) with
+<i>M</i> infinite, it has Henkin models \((\mm,\G)\) with <i>M</i> any
+infinite cardinal.</p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ By the upward L&ouml;wenheim-Skolem Theorem, if <i>M</i> is infinite,
+\(\textit{Mod}_H(\phi)\) has Henkin models of all infinite
+cardinalities.</p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ I.e., \(\pi(x)=x\) for all \(x\in E\).</p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ To prove the equivalence, let us first assume \(\theta(P)\) is
+categorical and \(\mm\) is an arbitrary model. We show
+\(\mm\models\categ(\theta(P))\). For this, consider values \(R=s(P)\)
+and \(R'=s(P')\) of the variables <i>P</i> and \(P'\) in \(\mm\). Let
+\(A=s(U)\) and \(A'=s(U')\) be values of the variables <i>U</i> and
+\(U'\) in \(\mm\). Assume </p> 
+\[\mm\models_s\theta(P)^{(U)}\land\theta(P')^{(U')}.\]
+
+<p>
+Let \(\ma\) have <i>A</i> as the domain and \(R\cap (A\times A)\) as
+the interpretation of <i>P</i>. Let \(\ma'\) have \(A'\) as the domain
+and \(R'\cap (A'\times A')\) as the interpretation of <i>P</i>. Now
+\(\ma\models\theta(P)\) and \(\ma'\models\theta(P)\). By categoricity
+there is an isomorphism \(\pi:\ma\cong\ma'\). By letting \(s(F)=\pi\)
+we see that</p> 
+\[\mm\models_s\isom(U,P,U',P').\]
+
+<p>
+For the converse, suppose \(\models\categ(\theta(P))\). Let \(\ma\)
+and \(\ma'\) be two arbitrary models of \(\theta(P)\). We define a
+model \(\mm\) of the empty vocabulary by letting \(M=A\cup A'\). By
+assumption,</p> 
+\[\mm\models\categ(\theta(P)).\]
+
+<p>
+Let </p> 
+\[
+s(U)=A, 
+ s(U')=A', 
+ s(P)=P^\ma, 
+ s(P')=P^{\ma'}.
+\]
+
+<p>
+Since</p> 
+\[\mm\models\categ(\theta(P)),\]
+
+<p>
+we have</p> 
+\[\mm\models_s\isom(U,P,U',P').\]
+
+<p>
+Thus there is \(f:M\to M\) such that \(f\restriction A\) demonstrates
+the isomorphism \(\ma\cong\ma'\).</p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ The \(\Delta\)-extension of a logic \(\mathcal{L}\) is the smallest
+extension of \(\mathcal{L}\) to a logic \(\mathcal{L'}\) in which
+every model class, i.e., class of models of a fixed vocabulary which
+is closed under isomorphisms, which is, and the complement of which
+is, a class of (possibly many-sorted) reducts of an
+\(\mathcal{L}\)-definable model class, i.e., a class of all models of
+a sentence of \(\mathcal{L}\), is definable. Such an \(\mathcal{L'}\)
+is denote \(\Delta(\mathcal{L})\). It can be shown that the
+\(\Delta\)-operation preserves many properties of logics, see <span class="citation">Makowsky,
+Shelah, and Stavi (1976)</span>.</p>
+</div>
+
+<div id="note-20">
+
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ The L&ouml;wenheim number of second-order logic is obviously
+\(&gt;2^\omega\), i.e., there is a sentence \(\phi \) of second-order
+logic that has models but none of size \(\le 2^\omega\). If the
+L&ouml;wenheim number of a sublogic of second-order logic is
+\(&lt;2^\omega\), then there cannot be any sentence of the sublogic
+equivalent to \(\phi\), and in this sense the sublogic is weaker than
+second-order logic.</p>
+</div>
+
+<div id="note-21">
+
+<p>
+
+ <a href="index.html#ref-21">21.</a>
+ This theorem states that every bounded sequence of real numbers
+contains a convergent subsequence.</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+Jouko V&auml;&auml;n&auml;nen
+&lt;<a href="m&#97;ilto:jouko&#37;2evaananen&#37;40helsinki&#37;2efi"><em>jouko<abbr title=" dot ">&#46;</abbr>vaananen<abbr title=" at ">&#64;</abbr>helsinki<abbr title=" dot ">&#46;</abbr>fi</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

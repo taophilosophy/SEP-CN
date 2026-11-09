@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Defeasible Reasoning &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/reasoning-defeasible/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/reasoning-defeasible/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=reasoning-defeasible">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Defeasible Reasoning</a></h2>
+
+<div id="note-1">
+<p>
+
+ <a href="index.html#ref-1">1.</a> G&auml;rdernfors proved
+that no non-trivial belief revision system satisfies the following
+five conditions:</p>
+
+<ol>
+<li>The set of belief states is closed under expansions.</li>
+
+<li>Success: \(A\) belongs to \(K*A\).</li>
+
+<li>Consistency: if \(K\) and \(A\) are both consistent,
+then so is \(K*A\).</li>
+
+<li>Ramsey test: \((A \Rightarrow B) \in K\) iff
+\(B \in K*A\).</li>
+
+<li>Preservation: if \(\neg A \not\in K\),
+ then \(K \subseteq K*A\).
+</li> 
+
+</ol>
+</div>
+
+<div id="note-2">
+<p>
+
+ <a href="index.html#ref-2">2.</a> There is another
+desirable property that is independent of the ones discussed here:
+<em>infinite conditionalization</em>: \(C(\Gamma \cup \Delta) \subseteq Cn(\Gamma \cup C(\Delta))\). The
+study of nonmonotonic Tarski relations (in which the set of premises
+can be infinite) is still relatively undeveloped (although see
+Makinson 1994 and Freund, Lehmann, and Makinson 1990).</p>
+</div>
+
+<div id="note-3">
+<p>
+
+ <a href="index.html#ref-3">3.</a> Karl Schlechta (Schlechta
+1997) has proved that the restriction of these theorem to
+<em>finite</em> models is a necessary one. In order to cover the case
+of infinite theories, it is necessary to add yet another condition to
+the preferential models: a condition Schlechta calls
+&ldquo;definability preservation&rdquo; (Schlechta 1997, 76).</p>
+</div>
+
+<div id="note-4">
+<p>
+
+ <a href="index.html#ref-4">4.</a> Adams&rsquo;s logic of high
+conditional probability also corresponds closely to the logic of
+subjunctive or counterfactual conditionals developed by Robert
+Stalnaker and David K. Lewis (Lewis 1973). By deleting both weak
+centering and the <em>CV</em> axiom (which corresponds to Rational
+Montonoty) from Lewis&rsquo;s favored logic, <em>VC</em>, Adams&rsquo;s logic
+results. Adding axiom <em>CV</em> produces a logic corresponding to
+the Lehmann-Magidor-Pearl 1-entailment (see below). The correspondence
+between counterfactual logics and preferential logics was first noted
+by Adam Grove (Grove 1988).</p>
+</div>
+
+<div id="note-5">
+<p>
+
+ <a href="index.html#ref-5">5.</a>  Admissibility has also known as
+&ldquo;\(p\)-consistency&rdquo; (Adams 1975) and
+&ldquo;\(\varepsilon\)-consistency&rdquo; (Pearl 1988). A preferential
+consequence relation is <em>admissible</em> if and only if, for every
+\(\varepsilon \gt 0\), there exists a probability function \(P\) such
+that, for all propositions \(p\) and \(q, p \dproves q\) iff \(P(q \mid p)
+\ge 1 - \varepsilon\).</p>
+</div>
+
+<div id="note-6">
+<p>
+
+ <a href="index.html#ref-6">6.</a> The <em>entropy</em> of a
+probability function is a measure of the expectation of
+information. To simplify, suppose that there are finitely many
+models. The entropy of a function \(P\) is the sum, over all the
+models \(\mathcal{M}\) of the product of the probability of
+\(\mathcal{M}\) and the negative logarithm (base 2) of that
+probability.</p>
+</div>
+
+<div id="note-7">
+<p>
+
+ <a href="index.html#ref-7">7.</a> Wayne Wobcke&rsquo;s
+(Wobcke 1995) system is an alternative to Commonsense Entailment that
+allows a limited amount of nesting. Both Delgrande and Asher use
+conditional logics that are significantly weaker than either Ernest
+Adam&rsquo;s or David Lewis&rsquo;s \(VC\) (minus Centering).</p>
+</div>
+
+<div id="note-8">
+<p>
+
+ <a href="index.html#ref-8">8.</a> Under an extension of 1-entailment
+or the maximum entropy approach, we could defeasibly infer that \(\neg
+q\) is not exceptional, that is, that \(\neg(\top \Rightarrow q)\),
+unless the exceptional character of \(\neg q\) follows monotonically
+from our theory. (The symbol \(\top\) represents any logical
+tautology.) From \((p \Rightarrow q)\) and \(\neg(\top \Rightarrow
+q)\), the contraposed conditional \((\neg q \Rightarrow \neg p)\)
+follows monotonically (in \(VC\) minus centering), as the following
+derivation shows:</p>
+
+<table class="indent cellpad-med-dense vert-top">
+
+<tr>
+<td>\((p \Rightarrow q)\)</td>
+<td>[Assumption]</td>
+</tr>
+
+<tr>
+<td>\(\neg(\top \Rightarrow q)\)</td>
+<td>[Assumption]</td>
+</tr>
+
+<tr>
+<td>\((p \Rightarrow(\neg p \vee q))\)</td>
+<td>[1, right weakening]</td>
+</tr>
+
+<tr>
+<td>\((\neg p \Rightarrow \neg p)\)</td>
+<td>[Reflexivity]</td>
+</tr>
+
+<tr>
+<td>\((\neg p \Rightarrow(\neg p \vee q))\)</td>
+<td>[4, right weakening]</td>
+</tr>
+
+<tr>
+<td>\(((p \vee \neg p) \Rightarrow(\neg p \vee q))\)
+</td>
+<td>[3, 5, Or]</td>
+</tr>
+
+<tr>
+<td>\((\top \Rightarrow (\neg p \vee q))\)</td>
+<td>[6, Left equivalence]</td>
+</tr>
+
+<tr>
+<td>\(((\top \amp \neg q) \Rightarrow(\neg p \vee q))\)</td>
+<td>[2, 7, CV]</td>
+</tr>
+
+<tr>
+<td>\((\neg q \Rightarrow(\neg p \vee q))\)</td>
+<td>[8, Left equivalence]</td>
+</tr>
+
+<tr>
+<td>\((\neg q \Rightarrow \neg q)\)</td>
+<td>[Reflexivity]</td>
+</tr>
+
+<tr>
+<td>\((\neg q \Rightarrow \neg p)\)</td>
+<td>[9, 10, right conjunction, right weakening]</td>
+</tr> 
+
+</table>
+</div>
+
+<div id="note-9">
+<p>
+
+ <a href="index.html#ref-9">9.</a> Morgan
+ also gives us good reason to reject the principle of absorption for
+conditionals:</p>
+
+<p class="indent">
+\((p \Rightarrow(q \Rightarrow r)) \leftrightarrow((p \amp q) \Rightarrow r)\)
+</p>
+
+<p>
+
+This principle of absorption holds in the logic of extreme
+higher-order probabilities <em>only</em> in the special case where
+\(p\) consists entirely of Boolean combinations of
+\(\Rightarrow\)-conditionals.</p>
+</div>
+
+<div id="note-10">
+<p>
+
+ <a href="index.html#ref-10">10.</a> Andrew Baker (Baker
+1988) offers a solution to the Yale shooting problem with the
+resources of circumscription, by altering which predicates are allowed
+to vary and which are held fixed. Baker&rsquo;s solution is not an exception
+to my claim, however, since his solution involves making a critical
+distinction between the role of causal and non-causal information.</p>
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="https://robkoons.net/index.html" target="other">Robert Koons</a>
+&lt;<a href="m&#97;ilto:koons&#37;40austin&#37;2eutexas&#37;2eedu"><em>koons<abbr title=" at ">&#64;</abbr>austin<abbr title=" dot ">&#46;</abbr>utexas<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

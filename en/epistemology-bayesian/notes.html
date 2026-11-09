@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Bayesian Epistemology &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/epistemology-bayesian/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/epistemology-bayesian/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-bayesian">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Bayesian Epistemology</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ For <em>enumerative induction</em>, see Fitelson (2006) and
+ <a href="../probability-interpret/#LogPro">section 3.2.1 of the entry on interpretations of probability</a>.
+ For <em>Ockham&rsquo;s razor</em>, see Rosenkrantz (1983: sec. 3) and
+Sprenger &amp; Hartmann (2019: ch. 10). For <em>inference to the best
+explanation</em>, see sections 3.1 and 4 of the entry on
+ <a href="../abduction/">abduction</a>.
+ For <em>statistical inference</em>, see
+ <a href="../statistics/#BaySta">section 4 of the entry on philosophy of statistics</a>.
+ For <em>causal inference</em>, see Howson &amp; Urbach (2006: sec.
+8.e) and Heckerman (1996 [2008]). For Bayesian replies to Hume&rsquo;s
+argument for <em>inductive skepticism</em> (the view that there is no
+good argument for any kind of induction), see
+ <a href="../induction-problem/#BayeSolu">section 3.2.2 of the entry on the problem of induction</a>.
+ For Bayesians&rsquo; contributions to the controversies about
+<em>predictivism</em> (the thesis that predictions are superior to
+accommodations in the assessment of scientific theories), see sections
+5, 6.1, and 7 of the entry on
+ <a href="../prediction-accommodation/">prediction versus accommodation</a>.
+ There is also the <em>Duhem-Quine problem</em> (which concerns when a
+body of evidence tells against a theory rather than one of its
+auxiliary hypotheses, as explained in sections 1 and 2 of the entry on
+ <a href="../scientific-underdetermination/">underdetermination of scientific theory</a>);
+ for Bayesians&rsquo; attempts to solve that problem, see Dorling
+(1979), Earman (1992: sec. 3.7), Strevens (2001), Fitelson &amp;
+Waterman (2005), and the survey by Ivanova (2021: ch. 4).</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ A less general but quite common setting requires also that \(\cal A\)
+be closed under countable unions; in that case, \(\cal A\) is called a
+<em>&sigma;-algebra</em>.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ If the Ratio Formula is taken as a definition, we don&rsquo;t really
+need to assume that it holds&mdash;it does automatically. But, as
+mentioned earlier, it is debatable whether the Ratio Formula should be
+taken as a definition or a normative constraint.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ Argue as follows that \(c=0\). If \(c &gt; 0\), then by Probabilism
+the credence of a sufficiently long finite disjunction of some
+\(A_n\)&rsquo;s will be a large multiple of \(c\), greater than \(1\),
+which violates Probabilism. If \(c &lt; 0\), Probabilism is
+automatically violated. So, by Probabilism, the only alternative is
+\(c = 0\).</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ The theory of regular conditional probability actually involves more
+ideas than presented in the main text, because this theory is also
+designed to generalize an equivalent form of the Ratio Formula. More
+specifically, the Ratio Formula is equivalent to the following formula
+(assuming Probabilism):</p> 
+
+\[\Cr(A \cap B) = \sum_{k = 1}^n \Cr(A \mid B_k) \, \Cr(B_k),\]
+
+<p>
+where \(\Cr(B_k)\) is nonzero for each \(k\) and propositions
+\(B_1,\)&hellip;, \(B_n\) form a partition of \(B\) (i.e.,
+\(B_1,\)&hellip;, \(B_n\) are mutually exclusive and their union is
+\(B\)). The above equivalent form of the Ratio Formula has a
+generalized version, which is important for many applications in
+probability theory and statistics. The generalization replaces the sum
+by an integral, allows \(\Cr(B_i)\) to be zero, and hence makes use of
+conditionalization on a zero-credence proposition. It is this
+generalization that the theory of regular conditional probability is
+partly designed for. See Rescorla (2015) for an accessible presentation.</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ If a continuum of hypotheses is considered instead, as is often the
+case in statistical applications, then the summation \(\sum\) will
+have to be replaced by an integral \(\int\).</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ Forster and Sober do not just object to the Bayesian approach to
+Ockham&rsquo;s razor in statistical model selection. In fact, they
+also develop their own positive, non-Bayesian view (Forster &amp;
+Sober 1994), which has been criticized by some Bayesians (Sprenger
+&amp; Hartmann 2019: ch. 10).</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ While the above presents some worries to the effect that
+merging-of-opinions theorems are <em>too weak</em> to get the job done
+for subjective Bayesians, Belot (2013) raises the worry that they are
+too strong&mdash;and too strong for Bayesians in general, not just for
+subjective Bayesians. He argues that those theorems (as well as some
+other Bayesian convergence theorems) require one to be somewhat
+arrogant&mdash;be fully confident that one is so good at certain
+things, even though one is typically not that good (in a sense of
+typicality that Belot defines).</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ Interestingly, although Harper&rsquo;s work (1976, 1978) and
+Levi&rsquo;s work (1980: ch. 1&ndash;4) on change of certainties
+belong to Bayesian epistemology, those works actually made an
+important contribution to the creation of another area of formal
+epistemology, called <em>belief revision theory</em>. Namely,
+Harper&rsquo;s and Levi&rsquo;s axioms for change of certainties were
+first reinterpreted as axioms for change of all-or-nothing beliefs,
+and then adopted as the standard axioms in belief revision theory.
+Those axioms include, for example, the axioms that are now known as
+<em>the AGM axioms</em> and <em>Levi identity</em>. For the relevant
+history, see
+ <a href="../logic-belief-revision/#Hist">section 1.1 of the entry on logic of belief revision</a>.</p>
+ </div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="supplement.html#ref-10">10.</a>
+ Although this idea is attributed by Easwaran (2014: sec. 2.4) to
+H&aacute;jek (2003), it can only be found in the former paper but not
+in the latter.</p>
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+Hanti Lin
+&lt;<a href="m&#97;ilto:ika&#37;40ucdavis&#37;2eedu"><em>ika<abbr title=" at ">&#64;</abbr>ucdavis<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

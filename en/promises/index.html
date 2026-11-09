@@ -1,0 +1,3224 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Promises (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Promises" />
+<meta name="citation_author" content="Habib, Allen" />
+<meta name="citation_publication_date" content="2008/10/10" />
+<meta name="DC.title" content="Promises" />
+<meta name="DC.creator" content="Habib, Allen" />
+<meta name="DCTERMS.issued" content="2008-10-10" />
+<meta name="DCTERMS.modified" content="2022-06-17" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/promises/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=promises">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Promises</h1><div id="pubinfo"><em>First published Fri Oct 10, 2008; substantive revision Fri Jun 17, 2022</em></div>
+
+<div id="preamble">
+
+<p>
+Few moral judgments are more intuitively obvious and more widely
+shared than that promises ought to be kept. It is in part this fixed
+place in our intuitive judgments that makes promises of particular
+interest to philosophers, as well as a host of social scientists and
+other theorists.</p>
+
+<p>
+Another feature of promises that make them a topic of philosophical
+concern is their role in producing trust, and by so doing facilitating
+social coordination and cooperation. Because of this promises and
+related phenomena, such as vows, oaths, pledges, contracts, treaties
+and agreements more generally are important elements of justice and
+the law, and, at least in the Social Contract tradition, of the
+political order as well.</p>
+
+<p>
+Promises are of special interest to ethical theorists, as they are
+generally taken to impose moral obligations. Thus an explanation of
+how such promissory obligations come about and how they function is
+necessary for a complete moral theory.</p>
+
+<p>
+And if indeed promises produce moral obligations, they are of a
+peculiar sort. Unlike paradigmatic moral duties, the duty not to harm
+for example, promissory obligations are not owed equally to everyone,
+but rather only those we have promised. Further, promissory
+obligations are voluntary; we don&rsquo;t have to make promises, but
+we must keep them when we do.</p>
+
+<p>
+And promissory obligations aren&rsquo;t just contingent upon acts of
+the will, like the obligations we might incur by deliberately damaging
+someone&rsquo;s property, but (at least it seems on first reflection)
+they are immediately created <em>by</em> acts of the will. When I
+promise to do something, it seems that <em>by so doing</em> I have
+created the obligation to do it.</p>
+
+<p>
+This last feature makes promissory obligations a special puzzle for
+ethical theories. The idea that we simply manufacture promissory
+obligations by speaking them, like an incantation, is decidedly
+mysterious. As Hume acidly remarked in the <em>Treatise</em>
+(1739&ndash;40):</p>
+
+<blockquote>
+
+<p>
+I shall further observe, that, since every new promise imposes a new
+obligation of morality on the person who promises, and since this new
+obligation arises from his will; it is one of the most mysterious and
+incomprehensible operations that can possibly be imagined, and may
+even be compared to <em>transubstantiation</em> or <em>holy
+orders</em>, where a certain form of words, along with a certain
+intention, changes entirely the nature of an external object, and even
+of a human creature. (<em>Treatise</em>, 3.2.5; emphasis in the
+original)</p>
+</blockquote>
+
+<p>
+The philosophical work on these topics is body of literature that
+spans the ages. Although promising as a phenomenon is rarely the sole
+subject of a major work, it is a subject treated by many major
+figures. From the ancients to the medievals to the moderns and beyond,
+theorists have sought to explain the normative force of promises.
+While the bulk of the corpus is in ethical and political theory and
+the related fields of legal theory and applied ethics, work on
+promises has also been done in the philosophy of language, action
+theory, rationality theory, game theory and other areas.</p>
+
+<p>
+There are a variety of methods of classifying promissory theories in
+the literature. Atiyah (1981), Downie (1985), Vitek (1993), Shiffrin
+(2008), Owens (2012), van Roojen (2013), Liberto (2016b), and many
+others have given the matter some attention, and while there is
+significant overlap, there are some differences as well. Typically
+theorists sort theories by reference to the way in which promissory
+obligations are generated. On this standard taxonomy the main types of
+promissory theory are: Normative power views, Conventionalist views,
+Expectation views, and Joint Commitment views</p>
+</div> 
+
+<div id="toc"><!--Entry Contents-->
+<ul>
+	<li><a href="#NormPoweTheo">1. Normative Power Theory</a>
+
+	<ul>
+		<li><a href="#AnciView">1.1 Ancient Views</a></li>
+		<li><a href="#NatuLawView">1.2 Natural Law Views</a></li>
+		<li><a href="#ContView">1.3 Contemporary Views</a></li>
+	</ul>
+	</li>
+	<li><a href="#Conv">2. Conventionalism</a>
+	<ul>
+		<li><a href="#OntoNormConv">2.1 Ontological and Normative Conventionalism</a></li>
+		<li><a href="#ParaConv">2.2 Paradigmatic Conventionalism</a></li>
+		<li><a href="#HybrTheo">2.3 Hybrid Theories</a></li>
+	</ul>
+	</li>
+	<li><a href="#ExpeTheo">3. Expectation Theory</a>
+	<ul>
+		<li><a href="#Assu">3.1 Assurance</a></li>
+		<li><a href="#Reli">3.2 Reliance</a></li>
+		<li><a href="#Trus">3.3 Trust</a></li>
+	</ul>
+	</li>
+	<li><a href="#InteComm">4. Interpersonal Commitments</a>
+	<ul>
+		<li><a href="#JoinComm">4.1 Joint Commitment</a></li>
+		<li><a href="#SecoPers">4.2 Second Personal</a></li>
+	</ul>
+	</li>
+	<li><a href="#IssuPromTheo">5. Issues in Promissory Theory</a>
+	<ul>
+		<li><a href="#ProbPromUptaCond">5.1 Problematic Promisees and the Uptake Condition</a></li>
+		<li><a href="#PromSelfPromReleCond">5.2 Promises to the Self and the Promisee Release Condition</a></li>
+		<li><a href="#VowsOathRelaPhen">5.3 Vows, Oaths and Related Phenomena</a>
+		<ul>
+			<li><a href="#Vows">5.3.1 Vows</a></li>
+			<li><a href="#Oath">5.3.2 Oaths</a></li>
+		</ul>
+		</li>
+		<li><a href="#PromReas">5.4 Promissory Reasons</a></li>
+	</ul>
+	</li>
+	<li><a href="#PromOtheFiel">6. Promises and Other Fields</a>
+	<ul>
+		<li><a href="#PromSpeeActs">6.1 Promises and Speech Acts</a></li>
+		<li><a href="#PromContLaw">6.2 Promise, Contracts and the Law</a></li>
+		<li><a href="#PromCons">6.3 Promises and Consequentialism</a>
+		<ul>
+			<li><a href="#ActUtil">6.3.1 Act Utilitarianism</a></li>
+			<li><a href="#RuleUtil">6.3.2 Rule Utilitarianism</a></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><a href="#Bib">Bibliography</a></li>
+	<li><a href="#Aca">Academic Tools</a></li>
+	<li><a href="#Oth">Other Internet Resources</a></li>
+	<li><a href="#Rel">Related Entries</a></li>
+</ul>
+<!--Entry Contents-->
+
+<hr /></div>
+
+<div id="main-text">
+
+<h2 id="NormPoweTheo">1. Normative Power Theory</h2>
+
+<p>
+On these theories promising is a special sort of power we have over
+our normative circumstances, the power to invoke obligations by
+promissory utterance. What separates this approach from the others is
+the self-contained nature of promises: promisors obligate themselves
+directly, by their own powers, rather than indirectly, either by
+appeal to a convention or by engendering expectations or commitments
+in the promisee.</p>
+
+<p>
+Traditional normative power views, like the one Hume is mocking in the
+quote above, ground such a power in one of the various traditions that
+go under the general title &ldquo;Natural Law&rdquo;, like the
+virtue-based views of the ancients and the divinity-based views of the
+medieval theologians. Modern (in the philosophical sense) normative
+power views generally ground the power in the rights or interests of
+promisors.</p>
+
+<h3 id="AnciView">1.1 Ancient Views</h3>
+
+<p>
+Representative of the ancient view, for Aristotle promise-keeping is
+directly mandated by the virtues, in particular those of justice, as
+well as liberality in cases of purely gratuitous promises:</p>
+
+<blockquote>
+
+<p>
+Let us discuss them both, but first of all the truthful man. We are
+not speaking of the man who keeps faith in his agreements, i.e., in
+the things that pertain to justice or injustice (for this would belong
+to another excellence[this would be the virtue of justice]), but the
+man who in the matters in which nothing of this sort is at stake is
+true both in word and in life because his character is such. But such
+a man would seem to be as a matter of fact equitable. For the man who
+loves truth, and is truthful where nothing is at stake, will still
+more be truthful where something is at stake; he will avoid falsehood
+as something base, seeing that he avoided it even for its own sake;
+and such a man is worthy of praise. He inclines rather to understate
+the truth; for this seems in better taste because exaggerations are
+wearisome. (<em>Nicomachean Ethics</em>, iv. vii,
+1127a&ndash;1127b)</p>
+</blockquote>
+
+<p>
+The Roman Jurists like Cicero and Gaius developed this sort of view
+further, crucially conceiving of a specific moral duty to keep
+promises, and a specific (and for Cicero particularly <em>Roman</em>)
+virtue of fidelity to promises (see Cicero, <em>De Officiis</em> 1.8)
+as well as formalizing promissory obligations, by reference to a
+specific procedure called the <em>stipulatio</em> or stipulating:</p>
+
+<blockquote>
+
+<p>
+A verbal obligation is created by question and answer in such form as:
+&ldquo;Do you solemnly promise conveyance? I solemnly promise
+conveyance&rdquo;; &ldquo;Will you convey? I will convey&rdquo;;
+&ldquo;Do you promise? I promise&rdquo;; &ldquo;Do you promise on your
+honour? I promise on my honour&rdquo;; &ldquo;Do you guarantee on your
+honour? I guarantee on my honour&rdquo;; &ldquo;Will you do? I will
+do&rdquo; (Gaius, <em>Inst.</em> 3.92, cited in Swain 2013)</p>
+</blockquote>
+
+<h3 id="NatuLawView">1.2 Natural Law Views</h3>
+
+<p>
+And the tradition is also later enlarged by Scholastic theorists, most
+importantly Aquinas (Aquinas, <em>Summa Theologica</em> II, q.88 &amp;
+q.110). Aquinas used Aristotelian assumptions and techniques to expand
+and detail the theory, deriving the duty to keep a promise from the
+intentions of the promisor and the underpinning virtues (see Gordley
+1991: 10ff).</p>
+
+<p>
+Aquinas discusses promises indirectly, in his treatment of vows, which
+he takes are promises made to God. His adaptation of Aristotelian
+virtue theory to the precepts of the natural law made for some
+important changes in the theory&mdash;principally a shift in focus to
+the will of the promisor as the agent of obligation. For Aquinas, a
+promise is essentially the agent&nbsp;&ldquo;binding&rdquo; himself
+(i.e., generating an obligation) by act of will:</p>
+
+<blockquote>
+
+<p>
+A vow denotes a binding to do or omit some particular thing. Now one
+man binds himself to another by means of a promise, which is an act of
+the reason to which faculty it belongs to direct. For just as a man by
+commanding or praying, directs, in a fashion, what others are to do
+for him, so by promising he directs what he himself is to do for
+another. [&hellip;] Now a promise is the outcome from a purpose of
+doing something: and a purpose presupposes deliberation, since it is
+the act of a deliberate will. Accordingly three things are essential
+to a vow: the first is deliberation; the second is a purpose of the
+will; and the third is a promise, wherein is completed the nature of a
+vow. Sometimes, however, two other things are added as a sort of
+confirmation of the vow, namely, pronouncement by word of mouth,
+according to Psalm 65:13, &ldquo;I will pay Thee my vows which my lips
+have uttered&rdquo;; and the witnessing of others. Hence the Master
+says (Sent. iv, D, 38) that a vow is &ldquo;the witnessing of a
+spontaneous promise and ought to be made to God and about things
+relating to God&rdquo;: although the &ldquo;witnessing&rdquo; may
+strictly refer to the inward protestation. (<em>Summa</em>, II-II,
+q.88)</p>
+</blockquote>
+
+<p>
+Still later on, important early modern commentators on promising in
+the Natural Law tradition such as Locke (1689, <em>Two Treatises On
+Government</em>, II-II:14), Reid (1788, <em>Essay on the Active Powers
+of Man</em>, 2), Grotius (1625, <em>De iure naturae</em>, ii. xi.),
+Pufendorf (1672, <em>De iure naturae et gentium</em>, iii. v. 9),
+Stair (1681/93, <em>Institutions of the Laws of Scotland</em>, I.
+X.1), and others developed the doctrine in new directions.</p>
+
+<p>
+This natural law tradition waned in popularity among philosophers
+during the modern period, with influential early theorists like Hobbes
+and Hume adopting conventionalist sorts of views. This is of a piece
+with the turn to more naturalistic views in many different areas of
+western philosophy, but the tradition never disappeared. Through the
+works of later natural lawyers in Spain and elsewhere, (Suarez,
+Molina), the tradition greatly influenced the development of European
+private law doctrine&mdash;the doctrine underlying things like
+contract and tort law. See the section below on the
+ <a href="#PromContLaw">relationship between promissory theory and contract law</a>
+ for more. For an excellent overview of these issues, see chapter 1 of
+James Gordley&rsquo;s <em>The Philosophical Origins of Modern Contract
+Doctrine</em> (1991).</p>
+
+<h3 id="ContView">1.3 Contemporary Views</h3>
+
+<p>
+By the twentieth century newer versions of normative power views began
+to appear. Unsurprisingly, these neo-normative power views were
+initially most popular among theorists with a significant legal theory
+bent, e.g., H. L. A. Hart (1955) and Joseph Raz (1972, 1977, 1984,
+2012). But philosophers without any such link have also adopted them,
+some examples being Gary Watson (2004)&nbsp;and David Owens (2006,
+2008, 2012). &nbsp;</p>
+
+<p>
+The new normative power views generally ground the power the same way
+other elements of Hohfeldian (1919) systems (e.g., rights and
+privileges) have been grounded, by appeal to our interests (see
+Feinberg 1970). Perhaps the paradigm of such a view is HLA
+Hart&rsquo;s appeal in his seminal &ldquo;Are There Any Natural
+Rights?&rdquo; (Hart 1955), where he makes promissory obligations out
+to rest on &ldquo;special rights&rdquo; generated by the parties, in
+the interests of &ldquo;freedom of choice&rdquo;:</p>
+
+<blockquote>
+
+<p>
+When rights arise out of special transactions between individuals or
+out of some special relationship in which they stand to each other,
+both the persons who have the right and those who have the
+corresponding obligation are limited to the parties to the special
+transaction or relationship. [&hellip;]</p>
+
+<p>
+(i) The most obvious cases of special rights are those that arise from
+promises. By promising to do or not to do something, we voluntarily
+incur obligations and create or confer rights on those to whom we
+promise; we alter the existing moral independence of the
+parties&rsquo; freedom of choice in relation to some action and create
+a new moral relationship between them, so that it becomes morally
+legitimate for the person to whom the promise is given to determine
+how the promisor shall act. That which corresponds very well to the
+distinction between a right, which an individual has, and what it is
+right to do. The promisee has a temporary authority or sovereignty in
+relation to some specific matter over the other&rsquo;s will which we
+express by saying that the promisor is under an obligation to the
+promisee to do what he has promised. To some philosophers the notion
+that moral phenomena&mdash;rights and duties or obligations&mdash;can
+be brought into existence by the voluntary action of individuals has
+appeared utterly mysterious; but this I think has been so because they
+have not clearly seen how special the moral notions of a right and an
+obligation are, nor how peculiarly they are connected with the
+distribution of freedom of choice [&hellip;] (Hart 1955:
+183&ndash;184)</p>
+</blockquote>
+
+<p>
+Hart&rsquo;s proposal was the harbinger of a revival of these sorts of
+theories, first among legal theorists and then to moral philosophers
+more generally. One of the earliest and most influential authors to
+take up Hart&rsquo;s idea is Joseph Raz. First appearing in his 1977
+essay &ldquo;Promises and Obligations&rdquo; (Raz 1977) and later in
+his book <em>The Morality of Freedom</em> (1986) and elsewhere (see
+Raz 1982, 2014) Raz advances a normative power view that explicitly
+grounds the promissory power in our interests in self-binding for
+cooperation and coordination:</p>
+
+<blockquote>
+
+<p>
+Normative powers are the abilities of people (or institutions) to
+change normative situations or conditions (i.e., to impose or repeal
+duties, to confer or revoke rights, to change status etc.) by acts
+intended to achieve these changes, where the ability depends on
+(namely is based on, grounded on, justified by) the desirability (the
+value) of those people (or institutions) having them.</p>
+
+<p>
+In the case of promises the value of the power is that it expands
+people&rsquo;s ability to fashion their lives, or aspects of their
+lives, by their actions. Through their promises they commit themselves
+to others. Up to a point, promises are analogous to decisions that
+constitute reasons for the deciders to perform the act they decided to
+perform. Both are ways of opening up options through closing other
+options, normatively speaking. Decisions, as well as having goals,
+facilitate undertaking complex activities (giving a ball, writing a
+symphony, etc.) that require concerted actions. Promises, being
+commitments to others, facilitate co-operation, the forging of
+relations that presuppose dependence, trust and joint actions, and
+more. For the sake of brevity I will refer to the value of having
+these powers as the value of enhanced control (of one&rsquo;s life),
+though a somewhat different explanation of their value is required
+when the powers are held by institutions. (Raz 2014: 61)</p>
+</blockquote>
+
+<p>
+David Owens (2006, 2008, 2011, 2012), in a recent and widely
+influential approach, proposes a power based in what he calls our
+&ldquo;authority interest&rdquo;, or the interest we have in having a
+certain practical authority over others, the authority that being the
+recipient of a promise gives us. This power is one of a family of such
+powers, whose purpose is to serve our interest in being able to shape
+the normative landscape by declaration, an interest that takes at
+least two forms: the <em>authority</em> interest, which underwrites
+promissory obligation and the <em>permissive</em> interest that
+underwrites the power of consent:</p>
+
+<blockquote>
+
+<p>
+I shall argue that promising exists because, at least when it comes to
+each other&rsquo;s actions, human beings often have what might be
+called an authority interest: I often want it to be the case that I,
+rather than you, have the authority to determine what you do. If you
+promise me a lift home, this promise gives me the right to require you
+to drive me home; in that sense, it puts me in authority over you. So
+much is obvious. What I claim is that human beings often want such
+authority for its own sake (not just to facilitate prediction or
+coordination). I often have an interest in having the right to
+determine whether you&rsquo;ll give me a lift, over and above any
+interest I have in knowing what you (or we) will actually do. And I
+claim that promising exists because it serves this authority interest.
+(Owens, 2006: 51)</p>
+</blockquote>
+
+<p>
+Seana Shiffrin (2008, 2012b) has also recently proposed a novel
+normative power view, one that grounds the power in our interests in
+forming and maintaining relationships with others, rather than
+authority or coordination. On Shiffrin&rsquo;s view promises are of a
+piece with other commitments that are integral to the structure of
+intimate relations between persons:</p>
+
+<blockquote>
+
+<p>
+[&hellip;]The power to make binding promises, as well as to forge a
+variety of other related forms of commitment, is an integral part of
+the ability to engage in special relationships in a morally good way,
+under conditions of equal respect. (Shiffrin 2008: 485)</p>
+</blockquote>
+
+<p>
+These recent developments have spawned a burgeoning literature, with a
+focus on the issue of normative powers themselves, e.g., Chang (2013,
+2020), Westlund (2013, 2018), Nieswandt (2017), as well as their
+propriety for explaining promissory obligation, e.g., E. Taylor
+(2013), Fruh (2014, 2019), Molina (2019), Melenovsky (2017) and
+others.</p>
+
+<h2 id="Conv">2. Conventionalism</h2>
+
+<p>
+Conventionalism about promises refers, in the vaguest sense, to views
+that invoke the promising convention (or the promising
+&ldquo;practice&rdquo;, &ldquo;institution&rdquo;,
+&ldquo;system&rdquo;, or &ldquo;game&rdquo; to mention some of the
+other names that it goes by in the literature) as central to their
+explanation of the provenance of promises and promissory
+obligations.</p>
+
+<p>
+There are a number of different ways of making this idea more precise
+in the literature (E. Taylor 2013, Neiwenstadt 2019a, van Roojen 2020,
+Cohon 2021, <em>inter alia</em>). My survey of this literature leads
+to me to propose a distinction between two sorts of conventionalism,
+ontological and normative.</p>
+
+<h3 id="OntoNormConv">2.1 Ontological and Normative Conventionalism</h3>
+
+<p>
+The first of these, ontological conventionalism, is the idea that
+promises are ontologically dependent upon the convention, so that
+promises could not exist, or could not be properly understood as
+promises, without the promising convention. One way of understanding
+this is via the framework found in Rawls&rsquo; 1955 article <em>Two
+Concepts of Rules</em>.</p>
+
+<p>
+Rawls distinguished between what he called the &ldquo;summary&rdquo;
+conception of rules, in which rules are merely &ldquo;rules of
+thumb&rdquo;, i.e., guides to established actions&mdash;like the rules
+of effective writing, and the &ldquo;practice&rdquo; view of rules,
+where the rules define a practice, which in turn defines the actions
+regulated by the rules. Rawls calls these latter sort
+&ldquo;constitutive&rdquo; rules.</p>
+
+<p>
+Constitutive rules, like the rules of baseball, are necessary for us
+to perform (and even understand) game-based actions like
+&ldquo;striking out&rdquo; or &ldquo;hitting a home run&rdquo; (Rawls
+1955). So on views that are ontologically conventionalist, promises
+are like home runs, i.e., they are only intelligible within the bounds
+of the convention&mdash;they are artefacts of it.</p>
+
+<p>
+The second thing meant by the term &ldquo;conventionalist&rdquo; is
+what I call Normative Conventionalism. This is the idea that the
+convention explains the normative force of the promissory obligation,
+in a particular way. On these views individual promises are obligatory
+because of some prior obligation to the convention or its members as
+such.</p>
+
+<p>
+This appeal can be made in different ways, by pointing to different
+elements of the convention and the ways in which reneging might affect
+it. One standard way is to argue for a duty to uphold the convention,
+on some basis, as well as an appeal to the damage one might do to the
+convention by reneging.</p>
+
+<p>
+The two qualities go naturally together, and many contemporary
+theories make both claims, although they are sometimes not careful to
+distinguish them. But they are independent qualities, and they can and
+do come apart. This can be seen by considering two early
+conventionalist theories, those of Hobbes and Hume.</p>
+
+<p>
+Hobbes thinks that keeping promises is only rational (and thus
+promises are obligatory) due to the fear of punishment for reneging,
+punishment that only follows from the establishment of the civil state
+and a system of promissory exchange backed by the power of that
+state:</p>
+
+<blockquote>
+
+<p>
+Covenants Of Mutuall Trust, When Invalid</p>
+
+<p>
+If a Covenant be made, wherein neither of the parties performe
+presently, but trust one another; in the condition of meer Nature,
+(which is a condition of Warre of every man against every man,) upon
+any reasonable suspition, it is Voyd; But if there be a common Power
+set over them bothe, with right and force sufficient to compell
+performance; it is not Voyd. For he that performeth first, has no
+assurance the other will performe after; because the bonds of words
+are too weak to bridle mens ambition, avarice, anger, and other
+Passions, without the feare of some coerceive Power; which in the
+condition of meer Nature, where all men are equall, and judges of the
+justnesse of their own fears cannot possibly be supposed. And
+therefore he which performeth first, does but betray himselfe to his
+enemy; contrary to the Right (he can never abandon) of defending his
+life, and means of living.</p>
+
+<p>
+But in a civill estate, where there is a Power set up to constrain
+those that would otherwise violate their faith, that feare is no more
+reasonable; and for that cause, he which by the Covenant is to perform
+first, is obliged so to do.</p>
+
+<p>
+The cause of Feare, which maketh such a Covenant invalid, must be
+alwayes something arising after the Covenant made; as some new fact,
+or other signe of the Will not to performe; else it cannot make the
+Covenant Voyd. For that which could not hinder a man from promising,
+ought not to be admitted as a hindrance of performing.</p>
+</blockquote>
+
+<p>
+But Hobbes also thinks that promises, and their cognates, exchanges,
+agreements and covenants and contracts, arise not from any convention,
+but rather from our power to transfer innate rights we have to each
+other:</p>
+
+<blockquote class="avoid-break">
+
+<p>
+Renouncing (or) Transferring Right What; Obligation Duty Injustice</p>
+
+<p>
+Right is layd aside, either by simply Renouncing it; or by
+Transferring it to another. By Simply RENOUNCING; when he cares not to
+whom the benefit thereof redoundeth. By TRANSFERRING; when he
+intendeth the benefit thereof to some certain person, or persons. And
+when a man hath in either manner abandoned, or granted away his Right;
+then is he said to be OBLIGED, or BOUND, not to hinder those, to whom
+such Right is granted, or abandoned, from the benefit of it: and that
+he Ought, and it his DUTY, not to make voyd that voluntary act of his
+own: and that such hindrance is INJUSTICE, and INJURY, as being Sine
+Jure; the Right being before renounced, or transferred. So that
+Injury, or Injustice, in the controversies of the world, is somewhat
+like to that, which in the disputations of Scholers is called
+Absurdity. For as it is there called an Absurdity, to contradict what
+one maintained in the Beginning: so in the world, it is called
+Injustice, and Injury, voluntarily to undo that, which from the
+beginning he had voluntarily done. The way by which a man either
+simply Renounceth, or Transferreth his Right, is a Declaration, or
+Signification, by some voluntary and sufficient signe, or signes, that
+he doth so Renounce, or Transferre; or hath so Renounced, or
+Transferred the same, to him that accepteth it. And these Signes are
+either Words onely, or Actions onely; or (as it happeneth most often)
+both Words and Actions. And the same are the BONDS, by which men are
+bound, and obliged: Bonds, that have their strength, not from their
+own Nature, (for nothing is more easily broken then a mans word,) but
+from Feare of some evill consequence upon the rupture.</p>
+</blockquote>
+
+<p>
+The distinction helps us perhaps understand a bit better the obvious
+tension between these two claims on Hobbes&rsquo; part. How is it that
+Hobbes can say that promises and contracts are matters of the will, in
+one section, but then null and void in the state of nature in the
+subsequent? Because in the first gloss Hobbes is saying what a promise
+is, ontologically speaking, and in the second he is speaking of what
+generates its normative force.</p>
+
+<p>
+So Hobbes&rsquo; theory is normatively, but not ontologically,
+conventionalist. He takes it that the normative force of a promise
+flows from the convention, while the promise itself is created by an
+act of the will in transfer of rights.</p>
+
+<p>
+For Hume, the reverse is true. Hume thinks that promises are
+conventional in the ontological sense&mdash;they are artefacts of a
+human convention, and fidelity, the virtue of justice that attend
+them, is also artificial for this reason. This he contrasts with
+other, natural virtues, like caring for offspring, which are
+innate.</p>
+
+<blockquote>
+
+<p>
+I say, first, that a promise is not intelligible naturally, nor
+antecedent to human conventions; and that a man, unacquainted with
+society, could never enter into any engagements with another, even
+though they could perceive each other&rsquo;s thoughts by intuition.
+[&hellip;]</p>
+
+<p>
+Now it is evident we have no motive leading us to the performance of
+promises, distinct from a sense of duty. If we thought, that promises
+had no moral obligation, we never should feel any inclination to
+observe them. This is not the case with the natural virtues. Though
+there was no obligation to relieve the miserable, our humanity would
+lead us to it; and when we omit that duty, the immorality of the
+omission arises from its being a proof, that we want the natural
+sentiments of humanity. A father knows it to be his duty to take care
+of his children: But he has also a natural inclination to it. And if
+no human creature had that indication, no one could lie under any such
+obligation. (<em>Treatise</em>, 3.2.5)</p>
+</blockquote>
+
+<p>
+But Hume also thinks that the primary role of the convention in
+producing individual promissory obligations is indirect. Hume takes it
+that the appreciation of the convention produces in people both the
+sentiments themselves that are, for Hume, the mark of the moral, as
+well as the dispositions to foster and encourage those sentiments in
+themselves and others:</p>
+
+<blockquote>
+
+<p>
+There needs but a very little practice of the world, to make us
+perceive all these consequences and advantages. The shortest
+experience of society discovers them to every mortal; and when each
+individual perceives the same sense of interest in all his fellows, he
+immediately performs his part of any contract, as being assured, that
+they will not be wanting in theirs. All of them, by concert, enter
+into a scheme of actions, calculated for common benefit, and agree to
+be true to their word; nor is there any thing requisite to form this
+concert or convention, but that every one have a sense of interest in
+the faithful fulfilling of engagements, and express that sense to
+other members of the society. This immediately causes that interest to
+operate upon them; and interest is the first obligation to the
+performance of promises.</p>
+
+<p>
+Afterwards a sentiment of morals concurs with interest, and becomes a
+new obligation upon mankind. This sentiment of morality, in the
+performance of promises, arises from the same principles as that in
+the abstinence from the property of others. Public interest,
+education, and the artifices of politicians, have the same effect in
+both cases. The difficulties, that occur to us, in supposing a moral
+obligation to attend promises, we either surmount or elude.
+(<em>Treatise</em>, 3.2.5)</p>
+</blockquote>
+
+<p>
+So Hume&rsquo;s promissory theory is ontologically conventionalist,
+but not normatively so. Rather promises are obligatory by way of the
+moral sentiments, like all other moral obligations. This point is
+elegantly made in a recent piece, &ldquo;Hume&rsquo;s Practice Theory
+and its Dissimilar Descendants&rdquo; (Cohon 2021)</p>
+
+<h3 id="ParaConv">2.2 Paradigmatic Conventionalism</h3>
+
+<p>
+Perhaps a better way of understanding contemporary conventionalist
+theories is that they are paradigmatically both normatively and
+ontologically conventional about promises. Such a theory is offered by
+John Rawls, in his seminal <em>A Theory of Justice</em> (1971).</p>
+
+<p>
+Rawls conceives of promises not as <em>sui generis</em> moral actions,
+but as essentially institutional artifacts, and thus promissory
+obligations as institutional obligations, grounded in the same manner
+as all such obligations. These institutions are comprised of sets of
+rules that prescribe and proscribe certain sorts of behavior for the
+participants in the institution. The dicta of the rules are the
+contents of moral obligations. Rawls in turn grounds institutional
+obligations in what he calls the principle of fairness.</p>
+
+<p>
+The principle of fairness is a basic moral principle, chosen by
+contractors in the OP. But unlike its more famous Rawlsian cognate the
+difference principle, the principle of fairness is an individual
+principle, one that applies directly to individuals in the society, as
+opposed to the basic institutions of the society themselves. Rawls
+lays out the principle of fairness in the following way:</p>
+
+<blockquote>
+
+<p>
+&hellip;[A] person is required to do his part as defined by the rules
+of an institution when two conditions are met: first the institution
+is just (or fair)&hellip;and second, one has voluntarily accepted the
+benefits of the arrangement or taken advantage of the opportunities it
+offers to further their own interests. (1971: 111&ndash;112)</p>
+</blockquote>
+
+<p>
+So there are two conditions on an action&rsquo;s being an
+institutional obligation in the Rawlsian sense: (1) The institution
+whose rule calls for the action is just, and (2) The person has
+&ldquo;voluntarily accepted the benefits&rdquo; of the
+institution.</p>
+
+<p>
+Rawls then introduces three theoretical elements to explain promissory
+obligations in particular. The first is what he calls the rule of
+promising, or the central rule that constitutes the promising
+convention:</p>
+
+<blockquote>
+
+<p>
+[I]f one says the words &ldquo;I promise to do <em>X</em>&rdquo; in
+the appropriate circumstances, one is to do <em>X</em>, unless certain
+excusing conditions obtain. (Rawls, 1971: 345)</p>
+</blockquote>
+
+<p>
+Rawls doesn&rsquo;t go into the circumstance and conditions mentioned
+in the rule in any great detail, but he does note that a promise must
+be voluntary and deliberate. He also notes that a proper rendition of
+such clauses is necessary to evaluate whether the institution of
+promising the rule defines is just (1971: 346). The second piece of
+theory Rawls employs is the notion of a bona fide promise. A bona fide
+promise is a promise that arises in accordance with the rule of
+promising, when the practice [of promising] it represents is just.</p>
+
+<p>
+And the third piece of theory is a moral principle targeted to
+promises directly, what Rawls call the Principle of Fidelity. The
+principle of fidelity is merely a derivative of the principle of
+fairness, fashioned specifically for the institution of promising. And
+it says simply that &ldquo;[B]ona fide promises are to be kept&rdquo;
+(1971: 347).</p>
+
+<p>
+Thus Rawls&rsquo; explanation for the obligatory force of promises is
+roughly: If you make a promise under a just promising institution,
+then you are obligated to uphold that institution (and obey its rules)
+because to do otherwise would be to &ldquo;free-ride&rdquo; on the
+institution in a manner forbidden by the principle of fairness.</p>
+
+<p>
+So, unlike Hobbes and Hume, for Rawls the convention is both source of
+promises as a phenomenon and the source of the moral justification for
+promissory obligation. Individual promises are &ldquo;moves&rdquo; in
+the promising game, as home runs are moves in baseball, and promissory
+obligations are grounded in the value of the convention directly.</p>
+
+<p>
+Another important contemporary branch of conventionalist theory is
+propounded by John Searle (1965, <em>inter alia</em>) Like Rawls,
+Searle takes promises to be essentially institutional actions, made
+possible by the very rules of the promising convention. Similarly,
+promissory obligations are a kind of institutional obligation, one
+that attends those already bound by the institution. And ultimately,
+the normative force of the individual promises is grounded in the
+value of the convention as a whole. See the Promises and Speech acts
+ (<a href="#PromSpeeActs">section 6.1</a>)
+ below for further information.</p>
+
+<h3 id="HybrTheo">2.3 Hybrid Theories</h3>
+
+<p>
+By the late twentieth century, outside of the legal academy, this sort
+of dual conventionalism was the dominant view among theorists who took
+up these issues. Thomas Scanlon&rsquo;s influential work propounding
+an expectational view of promises, takes this tradition as its
+target.</p>
+
+<p>
+In &ldquo;Promises and Practices&rdquo; (1990), Scanlon argued that
+(among other things) the conventional view gets the harm of breaking a
+promise wrong. On the conventional view, when someone breaks a
+promise, they harm the convention of promising as a whole, and by
+extension, all those who rely on it. But this clashes with our firm
+intuition that a broken promise harms primarily the jilted
+promisee.</p>
+
+<p>
+One possible response to this open to a conventionalist is to move
+towards a &ldquo;hybrid&rdquo; theory, one that invokes the convention
+to explain the source of the trust of the promisee, but explains the
+harm done in breaking a promise (and thus the ground of the obligation
+to keep one) as one of betraying that trust as per the expectational
+view</p>
+
+<p>
+This is roughly the route that Kolodny and Wallace take in their
+proposal for an expectational/conventional hybrid sort of theory in
+response to Scanlon, in a piece called &ldquo;Promises and Practices
+Revisited&rdquo; (2003). They argue there that the two different sorts
+of principles would satisfy two different demands&mdash;the appeal to
+the convention would explain the moral obligation, while the appeal to
+expectations would account for the directed wrongness of
+promise-breaking.</p>
+
+<p>
+We can understand this move as a conscious return to the bifurcated
+conventionalism of Hobbes and Hume, save in this case the view is
+ontologically conventional, but normatively expectational, as opposed
+to a natural law/normative power hybrid of Hobbes.</p>
+
+<p>
+This hybrid proposal, and the criticisms that prompted it, have also
+spawned a growing discussion among theorists (see Cureton 2015;
+Shockley 2008; Roth 2016; van Roojen 2013; and Melenovsky 2017, among
+others).</p>
+
+<h2 id="ExpeTheo">3. Expectation Theory</h2>
+
+<p>
+As just mentioned, another approach to promissory obligations is an
+appeal to the expectations that promises create in their promisees.
+Theories of this sort claim that promises are designed to invoke
+expectations of performance in the promisee, and that the betrayal of
+those expectations is the wrong in breaking a promise, and thus the
+source of the promissory obligation.</p>
+
+<p>
+Expectational approaches were initially adopted by consequentialists
+like Bentham (<em>A Comment on the Commentaries</em>, 1-1-6), Sidgwick
+(<em>The Methods of Ethics</em>, 3&ndash;6), Narveson (1967, 1971),
+Singer (1972), and &Aacute;rdal (1968, 1976). But in the past 50 years
+many theorists with other normative frameworks have also put forward
+such views, e.g., McNeilly (1972), MacCormick (1972), Anscombe (1981:
+Ch. 1), Thomson (1990: Ch. 12), T. M. Scanlon (1990, 1999: Ch. 7),
+Foot (2001: Ch. 1), and Friederich and Southwood (2011).</p>
+
+<p>
+We can distinguish (along with Friederich &amp; Southwood [2009,
+2011], among others) between three sorts of expectational theories on
+the basis of what they propose is required on the part of the promisee
+to incur the obligation. The three candidates are assurance, reliance
+and trust.</p>
+
+<h3 id="Assu">3.1 Assurance</h3>
+
+<p>
+Assurance views require that the promisee seek and care for the
+promisor&rsquo;s assurance of performance. In other words, the
+promisee must want to be assured of the fact of the promisor&rsquo;s
+promissory fulfillment. The paradigm of this sort of view is
+Scanlon&rsquo;s (1990, 1998)</p>
+
+<p>
+Scanlon claims that promissory obligations derive from another sort of
+more basic moral obligations, specifically obligations not to
+&ldquo;unfairly manipulate&rdquo; others. One has a moral duty to keep
+one&rsquo;s promises because making a promise will lead others to
+believe that you will do what you promise. Breaking the promise is
+then tantamount to deceiving those one promised, and since one has a
+moral duty not to do this, one has a moral duty to keep one&rsquo;s
+promises.</p>
+
+<p>
+Scanlon&rsquo;s principle governing a promise&rsquo;s generation of an
+obligation (the Principle of Fidelity, or Principle F) is:</p>
+
+<blockquote>
+
+<p>
+<em>Principle F</em>: If (1) <em>A</em> voluntarily and intentionally
+leads <em>B</em> to expect that <em>A</em> will do <em>X</em> (unless
+<em>B</em> consents to <em>A</em>&rsquo;s not doing so); (2)
+<em>A</em> knows that <em>B</em> wants to be assured of this; (3)
+<em>A</em> acts with the aim of providing this assurance, and has good
+reason to believe that he or she has done so; (4) <em>B</em> knows
+that <em>A</em> has the intentions and beliefs just described; (5)
+<em>A</em> intends for <em>B</em> to know this, and knows that
+<em>B</em> does know it; (6) <em>B</em> knows that <em>A</em> has this
+knowledge and intent, then, in the absence of special justification,
+<em>A</em> must do <em>X</em> unless <em>B</em> consents to
+<em>X</em>&rsquo;s not being done. (Scanlon 1998: 304)</p>
+</blockquote>
+
+<p>
+Principle F is reasonable (i.e., a real moral principle with normative
+force) because the reasons potential promisees have not to be deceived
+outweigh the reasons potential promisors have to deceive.</p>
+
+<p>
+On Scanlon&rsquo;s view, it is enough that the promisee come to
+reasonably believe in the promisor&rsquo;s fulfillment for a breach to
+be a wrong. The promisee need not suffer a loss, other than by
+epistemic disappointment, to be wronged.</p>
+
+<h3 id="Reli">3.2 Reliance</h3>
+
+<p>
+A more demanding requirement is that a promisee must in fact suffer
+from some loss or harm in order for a wrong to have occurred, and this
+is what another expectational tradition, reliance views, propose. The
+paradigm of a contemporary reliance view is Thomson&rsquo;s
+(1990).</p>
+
+<p>
+For Thomson, a promise is an invitation to rely on the
+promisor&rsquo;s performance, where that means expect and plan around
+that future performance, and not merely come to believe or expect
+it.</p>
+
+<p>
+Something like a reliance understanding of promises plausibly
+underlies the private law doctrine of &ldquo;consideration&rdquo;,
+which indemnifies promisees for costs incurred as a result of such
+reliance (see
+ <a href="#PromContLaw">Promise and Contract section 6.2</a>
+ below).</p>
+
+<h3 id="Trus">3.3 Trust</h3>
+
+<p>
+The third sort of expectational view, trust views, explain promises as
+invitations to trust, where that concept is subtly different and
+somewhat more demanding than expectation or reliance. Friederich and
+Southwood (2011) pioneer this approach:</p>
+
+<blockquote>
+
+<p>
+At the heart of the Trust View is the idea of inviting <em>someone to
+trust one to do something</em>. To explicate this idea, consider first
+what it means for someone to <em>trust</em> one to do something. or
+someone to trust one to do something she must have a certain
+<em>faith</em> or <em>optimism</em> in one&rsquo;s character insofar
+as one&rsquo;s doing it is concerned. (Friederich &amp; Southwood
+2011: 278)</p>
+</blockquote>
+
+<p>
+Further, the trusting relation requires that the promised act
+typically be important to and desired by the promisee. So on the trust
+view, promises are simultaneously invitations to trust in the
+promisor&rsquo;s execution and acknowledgments of the importance and
+value of the promised act, as well as the other moral characteristics
+integral to the trusting relation. Promissory obligations are formed
+on the basis of the acceptance, or &ldquo;uptake&rdquo;, in the
+jargon, of these invitations to trust.</p>
+
+<p>
+All three sorts of expectation theory employ a condition of promissory
+uptake, as mentioned above. This has led to a separate set of
+discussions among scholars as to the nature of this condition.</p>
+
+<p>
+There are a number of criticisms and objections in the literature to
+the expectational approach to promissory obligations. One group of
+problems revolves around the claim that by making promises out to be
+merely expectation-producing mechanisms, expectationalists collapse
+the distinction between promising and other things, like advising,
+warning and threatening (see Raz 1972; Peetz 1977; see also
+&Aacute;rdal 1979, in response).</p>
+
+<p>
+Adjunct to these problems is the charge that the expectationalist
+can&rsquo;t explain why promissory expectations produce obligations,
+in a way that other expectations don&rsquo;t (see Raz 1972; Owens
+2006). Elinor Mason, in a recent article on Scanlon&rsquo;s theory
+argues in favor of the collapse, claiming that promises are just one
+sort of inducement to trust, and the harm of breaking a promise is
+exactly the harm of misleading that might be performed by lying or
+otherwise deceiving (Mason 2005).</p>
+
+<p>
+Another traditional problem for expectational views is a charge of
+circularity (see Robins 1976; Prichard 1949; Warnock 1971). The
+problem is this: When I promise someone to do something then, if all
+goes well, as a result of my promise they come to trust that I will do
+that thing. But this trust, on the expectational view, is the source
+of my obligation to do what I promise. So it seems that the trust of
+my promisee is both the cause and the effect of my promise, and this
+seems an unacceptable circle. The problem is best framed in epistemic
+terms, as one of the reason that a promisee has to trust a promisor.
+The intuitively obvious reason for the trust a promisee has is that
+the promisor has promised, and as such has placed herself under a
+moral obligation to do the deed. This belief, combined with beliefs
+about the moral rectitude of the promisor, give the promisee a sound
+reason to believe that the promisor will keep her promise. The problem
+for the expectational view is that the promisee, on such a view,
+can&rsquo;t rely on the fact of the promissory obligation as a reason
+to trust, since on this view that obligation rests on the prior fact
+of the trust itself. If the trust of the promisor is the ground of the
+moral obligation to keep a promise, then prior to the promisee coming
+to trust the promisor, no such obligation exists. So when the promisee
+goes searching for a reason to trust, the standard one is barred from
+consideration.</p>
+
+<p>
+Moreover, if an expectationalist aims to offer a theory that explains
+promissory obligation without the invocation of a convention or
+practice of promising (like Scanlon does), then the other standard
+route to explaining promise trust is blocked. If there is a convention
+in place that governs promises, and if that convention is such as to
+inspire confidence in promisees that promisors will keep their
+promises, then promises can be said to generate the necessary
+expectations. But such a view is incompatible with the claim that
+conventions aren&rsquo;t necessary to explain promissory obligations.
+These objections are pressed against Scanlon&rsquo;s theory by N.
+Kolodny and R. J. Wallace (2003).</p>
+
+<p>
+Another traditional set of problems with the expectational approach is
+their difficulty in handling cases where the expectations that
+normally attend a promise are lacking. The Desert Island/Deathbed
+cases are one such problem, where the expectations are lacking because
+the promisee is dead. Scanlon discusses another sort of case, the
+Profligate Pal (Scanlon 1998: 312) where the promisee fails to have
+the standard expectations because the promisor (the profligate pal)
+has made and broken too many promises in the past. In such cases
+expectationalists must either admit that there is no obligation to
+keep the promise, which seems very counterintuitive, or come up with
+some reason for the obligation apart from the fact that the promise
+created expectations in the promisee. See the section covering
+ <a href="#ProbPromUptaCond">promises to the dead [&sect;5.1]</a>,
+ for more information.</p>
+
+<h2 id="InteComm">4. Interpersonal Commitments</h2>
+
+<p>
+In the last twenty years a new sort of theory of promissory
+obligations has emerged. This approach makes promissory obligations
+out to be one of a number of <em>Sui Generis</em> obligations (and
+other normative phenomena) that arise from interpersonal exchange. The
+two pre-eminent views are those of Stephen Darwall (2006, 2009, 2011)
+and Margaret Gilbert (1993, 2011, 2013).</p>
+
+<h3 id="JoinComm">4.1 Joint Commitment</h3>
+
+<p>
+Gilbert&rsquo;s theory, sketched in her &ldquo;Three Dogmas about
+Promising&rdquo; (2011) makes promissory obligations a matter of
+&ldquo;joint commitment&rdquo;, jointly made by two or more parties.
+Whereas a personal decision is a personal commitment, a promise is a
+joint commitment of promisor and promisee. More fully a promise is a
+joint commitment to endorse as a body a plan such that one person (the
+promisor) do such and such, where a joint commitment is not composed
+of two or more personal commitment (in Gilbert's sense) though each of
+the parties is committed through it:</p>
+
+<blockquote>
+
+<p>
+A joint commitment is not a composite of two or more personal
+commitments. It is a commitment of two or more persons by two or more
+persons. [. . . .]&nbsp; In order to create a new joint commitment
+each of the would-be parties must openly express to the others his
+readiness together with the others to commit them all in the pertinent
+way. Once these expressions are common knowledge between the parties,
+the joint commitment is in place&mdash;as they understand. Each is
+therefore now committed to do what he can to promote satisfaction of
+the joint commitment in conjunction with the actions of the rest.
+(Gilbert 2011: 92&ndash;3)</p>
+</blockquote>
+
+<p>
+Gilbert&rsquo;s work has spurred a number of commentators, and there
+is a vibrant sub-literature on her theories and related matters, see
+Sheehy (2002), Carassa &amp; Colombetti, (2014), Melenovsky (2017),
+Helmreich (2018), Kenessey (2020, among others</p>
+
+<h3 id="SecoPers">4.2 Second Personal</h3>
+
+<p>
+Stephen Darwall&rsquo;s view makes promissory obligations out to be a
+species of what he has called &ldquo;second-personal&rdquo; normative
+phenomena. Second-personal phenomena are many and varied, and Darwall
+places promises in the category of &ldquo;transactions&rdquo;, which
+are a group, including contracts and other mutual arrangements, in
+which the basic second-personal authority (i.e., the power we have to
+&ldquo;make claims and demands on one another&rdquo;) generates
+obligations to perform what is outlined in the transaction. This
+second-personal authority is in turn a normative basic, and Darwall
+argues that this sort of authority is necessarily assumed in all cases
+of agreed-upon arrangement.</p>
+
+<p>
+Darwall assumes that transactions can engender obligations without an
+explicit &ldquo;agreement&rdquo;. As an example of this he cites
+accepting an invitation. As well Darwall&rsquo;s second-personal
+authority story gives rise to explicitly moral obligations, through
+the mechanism of contractualism: roughly, the sort of authority we
+have to enter agreements is the sort necessary to ground a
+hypothetical contractualism of the Scanlonian sort.</p>
+
+<blockquote>
+
+<p>
+To begin with the most obvious point, promises are always to some
+person or persons. There must be a promisee who is given by virtue of
+the promise an ensemble of rights and prerogatives she would otherwise
+not have had. But it is also important, as I shall be arguing
+presently is true of all transactions, that it is part of the very
+idea of a promise that the <em>promisee already</em> has some rights
+and prerogatives (hence some (second-personal) authority to make
+claims and demands) with respect to the promisor, as indeed with
+respect to every other person, independently of the promise. In
+particular, the (would be) promisee has the authority to refuse to
+accept a promise. A promise&rsquo;s existence is conditional on its
+acceptance (or at least not being rejected) by the promisee. I simply
+cannot make a promise to you if you refuse to accept it.</p>
+
+<p>
+In this way, a promise is like a gift; it must be accepted or not
+rejected to be given at all. Otherwise, I will have no more than tried
+to promise (or give a gift). Various other rights and prerogatives
+derive from the would-be promisee&rsquo;s authority to reject the
+promise. Just as it is part of the very idea of a gift that it cannot
+be forced on someone, so also does a would-be promisee have standing
+to demand that he be genuinely free to reject it&mdash;that his
+acceptance not be forced, manipulated, extracted by deception, and so
+on. (Darwall, 2011: 269&ndash;70)</p>
+</blockquote>
+
+<p>
+Darwall&rsquo;s work has also led to a new sub-section of the
+literature, see Watson (2007), Korsgaard (2007), Carassa &amp;
+Colombetti (2014), Zylberman (2014), Schofield (2014), Dougherty
+(2015), Kenessey (2020), Roth (2021) among others.</p>
+
+<h2 id="IssuPromTheo">5. Issues in Promissory Theory</h2>
+
+<p>
+There are also a number of theoretical issues in promissory theory
+that have garnered significant attention from philosophers of late. A
+partial list of these below, along with some pointers to the relevant
+literature:</p>
+
+<h3 id="ProbPromUptaCond">5.1 Problematic Promisees and the Uptake Condition</h3>
+
+<p>
+One source of discussion are the issues surrounding promisees that are
+somehow different from the paradigm promisee. The paradigm promisee is
+aware of the promise, acknowledges and confirms the promissory
+arrangement, welcomes or at least doesn&rsquo;t spurn the promised act
+and expects and/or relies on its execution or the subsequent state of
+affairs. In the literature these are called &ldquo;uptake&rdquo;
+conditions (the term was coined by Thomson [1990: 301]).</p>
+
+<p>
+Most promissory theories employ some sort of uptake condition, for
+different reason (see Liberto 2018) with expectational theories
+generally having the more demanding ones. But not all plausible
+promisees can satisfy these conditions. These are problematic
+promisees, cases where a promise to them seems intuitively valid, but
+the promisee fails to satisfy the uptake condition.</p>
+
+<p>
+A paradigm example of such problematic cases are promises to the dead
+or dying, since those promisees can&rsquo;t be disappointed or harmed.
+That is, unless one subscribes to the view that the dead can be
+harmed, and whether or not this is even possible is a question that
+thinkers have also spent some time on (see Boonin 2019, for a survey
+of the philosophical literature here). Like promises to the self,
+promises to the dead are a commonplace in both prose and poetry take
+Jane Austen&rsquo;s&nbsp;<em>Pride and Prejudice,</em> or J
+Stafford&rsquo;s&nbsp;<em>The Cremation of Sam McGee</em></p>
+
+<p>
+One such sort of case that arose in the mid-twentieth century is the
+so-called &ldquo;Desert Island&rdquo; case, where a promise is made in
+isolation (on a desert island) to someone who then dies. The case was
+wielded against act utilitarians, as an example of a sort of case that
+the expectationalist sort of views they espouse can&rsquo;t answer
+(see Nowell-Smith 1956; Narveson 1963: 210; Cargile 1964; Narveson
+1967: 196&ndash;7).</p>
+
+<p>
+But recently scholars have widened the criticism. Nick Leonard
+(forthcoming) argues that, like the dead and dying, promisees who fail
+to have the standard cognitive capacity to rely on promises would
+certainly fail the uptake condition for expectational theories. He
+imagines in this role small children, or people with severe cognitive
+limitations. Such promisees are intuitively owed fidelity, but
+expectational promissory theories can&rsquo;t accommodate this
+judgment, since the promisees don&rsquo;t have the required uptake,
+i.e., they fail to form expectations or reliance. Further Leonard
+argues that joint commitment views are similarly cognitively
+demanding, requiring as they do complex and sophisticated mental
+states like mutual intentions.</p>
+
+<p>
+Similarly James S. Taylor (2021) argues that authority views like
+Owens&rsquo;, that appeal to the possible exercise of power over the
+promisor by the promisee, can&rsquo;t accommodate dead or absent
+promisees. And Hallie Liberto (2018) through a set of subtle and
+clever cases, argues that uptake conditions in both authority and
+joint commitment views might be violated even by perfectly
+paradigmatic promisees. The cases involve promisees that are either
+delayed, absent or not yet specified at the time of the creation of
+the promissory obligation. Liberto argues that uptake has what she
+call a &ldquo;backward reach&rdquo;, meaning that it must be able to
+be satisfied <em>after</em> the promissory obligation has
+attached.</p>
+
+<p>
+Albrecht (2018), argues that these sorts of promises to the dead or
+missing, to young children, to oneself, give rise to
+&ldquo;asymmetrical&rdquo; promises. On what Albrecht calls
+&ldquo;transactional&rdquo; sorts of promissory theories a promise is
+an exchange of rights (or authority, or whatever the specific
+mechanism is) which transaction occurs between independent agents. But
+in certain cases, where the promisee is unable to fulfil their pat of
+the transaction, the promisor can stand in for her as a proxy. But
+this only occurs, says Albrecht, in cases where the promisor is in
+some way already responsible for the promisee. So, when we promise our
+young children t, say, get them a good education, we act to accept the
+promise on their part, as a proxy for them, in our role as parent, in
+the same way we might receive money or other things on their
+behalf.</p>
+
+<p>
+In another vein, A. S. Roth (2016) argues that the uptake condition
+must be understood as the promisee <em>intending</em> that the
+promisor perform, as opposed to &ldquo;expecting&rdquo; or
+&ldquo;trusting&rdquo; such. This construal allows him to respond to
+the circularity worry inherent in expectational views. (see the
+section covering
+ <a href="#Trus">expectationalism [&sect;3.3]</a>).</p>
+ 
+<p>
+Following Scanlon, Roth analyses the circularity worry in epistemic
+terms, as a lack of justification for the belief in performance on the
+part of the promisee. But, argues Roth, intentional beliefs, of the
+sort we form when we form an intention to do some act don&rsquo;t
+typically require epistemic justification. If I intend to take a walk,
+I come to believe that I will, and that belief is reasonable (ceteris
+paribus) without any other evidence that I will do so.</p>
+
+<p>
+So (argues Roth) if we construe the promisee as intending that the
+<em>promisor</em> perform the promised act, and if we take intentions
+as cognitive, i.e., as partly constituted by beliefs, then we can
+avoid the need for justification, and thus the circularity, since
+beliefs of this sort don&rsquo;t typically require justification:</p>
+
+<blockquote>
+
+<p>
+By offering a sufficiently attractive invitation (which most promises
+are), the promisor leads the promisee to accept. And the promisee
+accepts by intending the promisor&rsquo;s action. So we have a case of
+the promisor leading the promisee to a belief (as required by
+Principle F), but not in a way that requires evidence. For, if
+Cognitivism is true, the expectation that comes with the intention to
+&#981; is normally not based on evidence. [&hellip;] Notice, also,
+that the process described is entirely compatible with the expectation
+(hence acceptance) being voluntary. An attractive invitation was made
+and voluntarily accepted: the promisee voluntarily intends the
+promisor&rsquo;s action, and given Cognitivism, thereby forms the
+expectation. (Roth 2016: 111)</p>
+</blockquote>
+
+<p>
+This turn has also sparked some recent discussion, see Sharadin
+(2018), Shaver (2019), Dannenberg (2019), Kenessey (2020) and Lichter
+(2021)</p>
+
+<h3 id="PromSelfPromReleCond">5.2 Promises to the Self and the Promisee Release Condition</h3>
+
+<p>
+Another sort of problematic case that has come in for some recent
+attention is the case of promising oneself. The idea of the self
+promises is a commonplace, in the vernacular as well as in poetry and
+prose (see Migotti 2003). But how self promises might produce
+obligations is a difficult question to answer for many promissory
+theories.</p>
+
+<p>
+Traditionally self promises (and their counterparts, pledges,
+resolutions and similar commitments) have been discounted as proper
+promises, but there have been a number of recent attempts to vindicate
+self promises in the literature, and provide some positive explanation
+for their normative force.</p>
+
+<p>
+Connie Rosati, in her influential piece &ldquo;The Importance of Self
+Promises&rdquo; (2011) argues that self promises are, rather than a
+peripheral phenomena, the paradigmatic instance of promising&mdash;as
+they are exercises of our authority over ourselves. This idea is not
+without antecedent&mdash;R.S. Downie says something similar in his
+1985 &ldquo;Three Accounts of Promising&rdquo;, as Rosati
+acknowledges. But Rosati&rsquo;s account is more
+developed&mdash;appealing to Owens-style authority and Darwall&rsquo;s
+second-personal normative framework.</p>
+
+<p>
+Jorah Dannenberg (2015), in a Neitszchean vein, argues that self
+promises are a way of solidifying our wills, protecting our valued
+choices from deterioration in the face of time and trials. And Janis
+Schaab (2021) argues against what she calls the
+&ldquo;incoherence&rdquo; argument against the possibility of one
+releasing oneself from a promise.</p>
+
+<p>
+A central issue in this sub-literature is this last&mdash;the problem
+of promisee release. This problem goes all the way back to Hobbes, who
+says of self promises:</p>
+
+<blockquote>
+
+<p>
+Nor is it possible for any person to be bound to himselfe ; because he
+that can bind, can release; and therefore he that is bound to himselfe
+onely, is not bound. (<em>Leviathan</em> part II, ch. 26)</p>
+</blockquote>
+
+<p>
+In cases of self promise, since the promisor is also the promisee, and
+so can release herself, then we are faced with Hobbes&rsquo;
+challenge. Many authors have grappled with this puzzle&mdash;some,
+like Liberman (2019) move to drop the promisee release condition, and
+claim that some sorts of self promise, like vows, cannot be revoked.
+Others, like Habib (2009) and Schaab (2021), look to accept promisee
+release and explain Hobbes&rsquo; difficulty away.</p>
+
+<h3 id="VowsOathRelaPhen">5.3 Vows, Oaths and Related Phenomena</h3>
+
+<p>
+Another set of promissory issues that has received some recent
+attention from scholars concerns other phenomena of what we might call
+&ldquo;self-binding&rdquo;, things like vows, oaths, pledges and
+resolutions. In promissory theory proper, there has been some focus on
+these with the end of informing a comprehensive promissory theory, one
+that might go some distance to explain these related phenomena.</p>
+
+<h4 id="Vows">5.3.1 Vows</h4>
+
+<p>
+Work on vows has occurred in different contexts, and between different
+voices, within and outside of philosophy. Wedding vows and religious
+vows in particular have been the object of some recent work.</p>
+
+<p>
+Kyle Fruh (2019) surveys the difficulties some promissory theories,
+and in particular expectational theories have in accommodating these
+notions, and offers that any reasonably successful theory of promises
+would likely have to explain these phenomena as well. He calls this
+the &ldquo;breadth&rdquo; requirement:</p>
+
+<blockquote>
+
+<p>
+Oaths and vows partially fill out what I call the &ldquo;breadth
+criterion&rdquo;: Theories of promising should cover not only
+customary, interpersonal promises but also sibling phenomena,
+including oaths and vows. Promises, oaths, and vows are all forms of
+voluntary binding commitments; indeed, the terms are often used
+interchangeably. They should be taken up into theory together. The
+familiar and powerful grounds for this intuitive idea are at least
+twofold: It is more parsimonious to have a single theory that covers
+the entire family rather than developing distinct theories for each of
+the phenomena, and if there is such a theory, its explanatory power
+will compare favorably to theories that fail to cover some of the
+phenomena in question. A theory of promising that is silent about
+oaths and vows is one we have less reason to accept than one that can
+illuminate the capacity of oaths and vows to produce moral
+obligations. Provisionally at least, the breadth criterion should be
+applied to competing theories of promising. (Fruh 2019: 859)</p>
+</blockquote>
+
+<p>
+On vows <em>per se</em>, in addition to Fruh&rsquo;s work, novel
+theories of the obligation of vows have been advanced by Alida
+Liberman (2019), who makes vows out to be a species of resolution.</p>
+
+<p>
+In another vein, Elizabeth Brake, in her widely read 2011 piece
+&ldquo;Is Divorce Promise Breaking&rdquo; argues that wedding vows
+can&rsquo;t be construed as promises, on pain of saying that divorce
+is promise breaking. Brake argues for this and other reasons, wedding
+vows shouldn&rsquo;t be taken as promises at all.</p>
+
+<p>
+Brake&rsquo;s work has in turn spurred further dialogue on wedding
+vows as promises, see Gheaus (2017), Cowley (2020), and Liberman
+(2021).</p>
+
+<h4 id="Oath">5.3.2 Oaths</h4>
+
+<p>
+Like promises, oaths play a part in many different human undertakings.
+In politics, at least among democracies, oaths of office for those in
+positions of power are the norm. In the professions oaths like the
+Hippocratic oath sworn by doctors, are also very common. In cases of
+testimony in court, testimonial oaths are standard, and witnesses are
+asked to swear oaths of veracity for their affidavits or other
+testimony.</p>
+
+<p>
+Traditionally oaths were understood as a separate species of
+obligation-producing commitment, a &ldquo;calling to witness&rdquo; of
+God to bolster a claim to veracity on the part of the swearer.
+Aquinas, for example divides them into four types: Calls to witness
+truths of the past or present, which he calls declaratory oaths, and
+claims of some future conduct, which are promissory oaths. Further,
+oaths can be either simple invitations to witnessings, which are
+simply oaths, or they can be invitations to punish the swearer for
+default, which are curses:</p>
+
+<blockquote>
+
+<p>
+[O]aths are taken for the purpose of confirmation. Now speculative
+propositions receive confirmation from reason, which proceeds from
+principles known naturally and infallibly true. But particular
+contingent facts regarding man cannot be confirmed by a necessary
+reason, wherefore propositions regarding such things are wont to be
+confirmed by witnesses. Now a human witness does not suffice to
+confirm such matters for two reasons. First, on account of man&rsquo;s
+lack of truth, for many give way to lying, according to Ps. 16:10,
+&ldquo;Their mouth hath spoken lies [Vulg.:
+&lsquo;proudly&rsquo;]&rdquo;. Secondly, on account of [his] lack of
+knowledge, since he can know neither the future, nor secret thoughts,
+nor distant things: and yet men speak about such things, and our
+everyday life requires that we should have some certitude about them.
+Hence the need to have recourse to a Divine witness, for neither can
+God lie, nor is anything hidden from Him. Now to call God to witness
+is named <em>jurare</em> (to swear) because it is established as
+though it were a principle of law (<em>jure</em>) that what a man
+asserts under the invocation of God as His witness should be accepted
+as true. Now sometimes God is called to witness when we assert present
+or past events, and this is termed a &ldquo;declaratory oath&rdquo;;
+while sometimes God is called to witness in confirmation of something
+future, and this is termed a &ldquo;promissory oath&rdquo;. But oaths
+are not employed in order to substantiate necessary matters, and such
+as come under the investigation of reason; for it would seem absurd in
+a scientific discussion to wish to prove one&rsquo;s point by an oath.
+(<em>Summa</em> II-II q.89-Art. i)</p>
+
+<p>
+A person is called to give witness, in order that he may make known
+the truth about what is alleged. Now there are two ways in which God
+makes known whether the alleged facts are true or not. In one way He
+reveals the truth simply, either by inward inspiration, or by
+unveiling the facts, namely, by making public what was hitherto
+secret: in another way by punishing the lying witness, and then He is
+at once judge and witness, since by punishing the liar He makes known
+his lie. Hence oaths are of two kinds: one is a simple contestation of
+God, as when a man says &ldquo;God is my witness&rdquo;, or, &ldquo;I
+speak before God&rdquo;, or, &ldquo;By God&rdquo;, which has the same
+meaning, as Augustine states [*See argument On the contrary]; the
+other is by cursing, and consists in a man binding himself or
+something of his to punishment if what is alleged be not true.
+(<em>ibid.</em>, Reply Obj. 3)</p>
+</blockquote>
+
+<p>
+So oaths are ways of bolstering one&rsquo;s claim to veracity by
+calling on God to witness your claim. If your claim is about your
+future conduct, then the oath can be understood as a promise, with God
+as the promisee. You can invite god to witness alone, on the tacit
+understanding that he sees and knows all and will take account, or you
+can invite him to punish you for falsity directly, e.g &ldquo;May God
+strike me down&rdquo; or &ldquo;God blind me&rdquo;
+(&ldquo;blimey&rdquo;).</p>
+
+<p>
+Recent philosophical work has tended to recapitulate this analysis,
+absent the divine promisee. This broadens the appeal, certainly, but
+it means a substantial change in the nature of the grounding of the
+obligation.</p>
+
+<p>
+Thomas Scanlon, in his influential 1990 piece &ldquo;Promises and
+Practices&rdquo;, is an example of this. Scanlon offers roughly the
+same meaning of the term, and rehearses the Thomistic distinctions
+between testamentary and promissory oaths, but he makes oaths out to
+be not invitations to witness or punish, but rather invocations of
+important or sacred objects or ideas:</p>
+
+<blockquote>
+
+<p>
+In an oath a person says, in support of a claim to be telling the
+truth or to have a sincere and reliable intention to do a certain
+thing, &ldquo;I swear to you by &hellip;&rdquo;, naming here something
+to which he or she is assumed to attach great value, such as God, the
+Bible, or the memory of a loved one. It is not necessary that the
+value appealed to involve a code of honor or convention of
+truth-telling. What is claimed is simply that the speaker&rsquo;s
+sincerity in making the present claim is comparable to the sincerity
+of his or her devotion to the value named. It would cheapen such a
+value, and hence be incompatible with true devotion to it, to invoke
+it for personal advantage in support of an insincere claim. Of course,
+some think that it is incompatible with holding something sacred to
+invoke it in sup port of any claim, which is why some religions forbid
+the use of holy texts or the name of God in this way. (Scanlon 1990:
+223)</p>
+</blockquote>
+
+<p>
+This move allows the analysis to survive the removal of God as a
+promisee, but subtly substitutes the receiver of the vow (&ldquo;I
+swear to <em>you</em>&hellip;&rdquo;) in its place.</p>
+
+<p>
+Fruh (2019) resists this move, and disputes the understanding of oaths
+as &ldquo;directed&rdquo; toward a counterparty. He argues at some
+length against the plausibility of various candidate counterparties
+(promisees) for standard oaths. Rather, for Fruh oaths should be
+understood as a <em>sui generis</em> form of voluntary obligation,
+different from promises and vows in that it is without a
+&ldquo;counterparty&rdquo;. Liberman (2021) instead argues that oath
+and vows should be understood as &ldquo;exceptionless
+resolutions&rdquo;, both without counterparty, and both different than
+traditional promise.</p>
+
+<h3 id="PromReas">5.4 Promissory Reasons</h3>
+
+<p>
+Another set of issues that have been discussed in the literature we
+might call issues of promissory psychology. These are issues
+concerning the mental states of promisors and promisees, and the role
+these play in producing, explaining or justifying promissory
+obligations. The main focus is on promissory reasons.</p>
+
+<p>
+What reasons do promisors have to keep promises? How do these
+promissory come about and how do they function? How strong are they,
+and what, if any, reasons may override them? These are just some of
+the most common questions in this area, and the literature on them is
+quite large, too large to adequately survey here, so I will just note
+some important foci. Of particular interest are the answers to these
+questions provided by Joseph Raz (1975, 1982, 1986, 2012).</p>
+
+<p>
+Raz proposes a system of practical rationality with two sorts of
+reasons, of first and second order. First order reasons are reason for
+or against courses of action, while second order reasons are reasons
+about reasons themselves. Exclusionary reasons are second order
+reasons that exclude other, first order reasons. Promises, says Raz,
+produce (in the promisor) both first order reasons to perform the
+promised act as well as second order exclusionary reasons to bar from
+considerations most first order reasons that counsel against keeping
+the promise.</p>
+
+<blockquote>
+
+<p>
+Let us say that a person does <em>A</em> for the reason that
+<em>p</em> if and only if he does <em>A</em> because he believes that
+<em>p</em> is a reason for him to do <em>A</em>. A person refrains
+from doing <em>A</em> for the reason that <em>p</em> if and only if it
+is not the case that he does <em>A</em> for the reason that
+<em>p</em>. In other words a person refrains from acting for a reason
+if he does not do the act or does it but not for this reason.
+&ldquo;Refrains&rdquo; is used here in an extended sense which does
+not imply that the agent intentionally avoids acting for the reason. A
+second order reason is any reason to act for a reason or to refrain
+from acting for a reason. An exclusionary reason is a second order
+reason to refrain from acting for some reason. (Raz 1975: 487)</p>
+</blockquote>
+
+<p>
+Moreover, on the Razian picture exclusionary reasons are
+&ldquo;content independent&rdquo; reasons. This is the notion
+(original with Hart [1958, 1982] cited in Sciaraffa 2009) that a
+reason for action is independent of the &ldquo;content&rdquo; or
+&ldquo;nature&rdquo; of the action they implicate:</p>
+
+<p>
+There is a vibrant literature, spanning many decades, engaging with
+Raz&rsquo;s intriguing suggestions. see Sciaraffa (2009) for a survey
+of some of the earlier literature on this. More recent work can be
+found in McBride (2015), MacMahon (2018), Molina (2019), Murphy
+(2020), Kimel (forthcoming), and others. Much of this work is in legal
+theory, on the philosophical underpinnings of private law.</p>
+
+<h2 id="PromOtheFiel">6. Promises and Other Fields</h2>
+
+<p>
+In addition to the various positive theories of promising, there are
+also several other issues of philosophical interest concerning the
+intersection of promissory theory and other fields or theoretical
+frameworks. In the following sections I try and outline some of these,
+and provide some guides to the literature.</p>
+
+<h3 id="PromSpeeActs">6.1 Promises and Speech Acts</h3>
+
+<p>
+Promises have often been cast as speech acts, or actions that we
+perform by speaking. The <em>locus classicus</em> for this issue is J.
+L. Austin&rsquo;s 1962 book <em>How to Do Things with Words</em>. In
+it Austin defines two sorts of speech acts, or
+&ldquo;performatives&rdquo;: illocutions and perlocutions. Illocutions
+are those actions that we perform by uttering the words alone. Austin
+lists requesting, warning and announcing as examples. Alternatively,
+perlocutions are actions performed by speaking which require some
+particular <em>effect</em> of the speech in order to be successful.
+Austin cites persuading, explaining and alarming as examples of the
+latter sort of locution.</p>
+
+<p>
+Austin takes promising to be an illocutionary act, that is, he takes
+it that promising is <em>merely</em> a matter of a certain form of
+utterance, under certain conditions. Moreover the reason he takes this
+to be is that he thinks that promising is a <em>conventional</em> act,
+one that invokes a certain practice to formalize the action. Austin
+thinks that in this way promises are just of a piece with many sorts
+of obligation-producing actions, such as betting, buying and
+contracting (Austin 1962 [1975: 19])</p>
+
+<p>
+Austin&rsquo;s linguistic distinction mirrors the crucial difference
+between the expectational and conventional theories of promising. On
+the conventionalist view that Austin adopts, promises are
+&ldquo;conventional&rdquo; moves in the game, and as such one promises
+by &ldquo;making the right moves&rdquo;, i.e., saying the right sorts
+of things and otherwise obeying the rules of the game.</p>
+
+<p>
+Searle, taking up the speech-act framework pioneered by J. L.
+Austin&mdash;similarly makes promises out to be a particular form of
+speech act&mdash;(see Searle 1963, 1965, 1965, 1979) a non-verbal
+action affected by speech, of a piece with &ldquo;ordering&rdquo; and
+&ldquo;agreeing&rdquo;. Searle, like Austin, is a paradigmatic
+conventionalist his work has been widely influential, and has helped
+to grow the literature on both promises and speech act theory (cf.
+Searle et al. 1980, <em>inter alia</em>)</p>
+
+<p>
+The investigation of promises as speech acts is furthered in the work
+of Rawls (1955), William Alston (1964, 1994), John Searle (1963, 1965,
+1979, 1980, 1985), David Jones (1966), Otto Hanfling (1975), and
+Michael Pratt (2003, 2007), Christina Corredor (2001), and Vincent
+Blok (2013) among others. See Harris and McKinney (2021) for a
+contemporary survey</p>
+
+<h3 id="PromContLaw">6.2 Promise, Contracts and the Law</h3>
+
+<p>
+The relationship between the law, contracts and promises is a long and
+tangled one. From its ancient origins promissory theory has been
+intertwined with issues of contracts and agreements more generally.
+And since at least the time of Aquinas and especially with the works
+of the later Natural Lawyers like Grotius and Pufendorf, scholarly
+work on promising has been done at least in part with an eye towards
+informing the law of contract. This in turn gave rise to a tradition
+on the part of legal theorists of surveying such scholarship in their
+work on both historical and contemporary issues in the law of
+contract. Finally, the law itself has methods for dealing with
+promises (as they are obviously the sorts of things that might lead to
+legal wrangling). Thus the legal practice regarding promises has some
+interest to theorists of promising as well. The result is two
+interlinked scholarly traditions and bodies of work.</p>
+
+<p>
+Perhaps the first question on the mind of legal and philosophical
+historians is the issue of the degree to which, if any, contractual
+obligations are grounded in promissory obligations in contemporary
+legal regimes. This question is complicated by the different
+traditions and cultures involved in the long path to contemporary law,
+i.e., natural law theory, virtue theory, rights theory, the (anglo)
+common law, the continental civilian law, canon law and other
+theoretical approaches, which are in turn variously situated in the
+UK, on the European continent, and in the anglo territories (Scotland,
+Australia, Canada the US, etc.). The answer to the question is
+different in different traditions and places, and the contemporary law
+is the result of some complicated amalgamation of these different
+traditions over time. For an overview of these issues, see, e.g.,
+Gordley (1991), Ibbetson (1999), Markovits (2011), Swain (2013), or
+Fried (1981, 2015).</p>
+
+<p>
+One central dialectic within this corpus has the &ldquo;normative
+power&rdquo; tradition of the natural lawyers pitted against the more
+expectational views of the English common law. As Atiyah notes (1981:
+ch. 6), there is a tension between the Natural Law promissory theory
+and the actual law of contract and promise plainly evident in the
+British common law. One source of the tension is the common law
+doctrine of &ldquo;consideration&rdquo;, which mandates that only
+promises given with &ldquo;consideration&rdquo;, i.e., given in
+exchange for something of value, are enforceable in the law. In other
+words, mere promises, given without consideration, are traditionally
+not indemnified by the law.</p>
+
+<p>
+Further, as Lon Fuller and William Perdue pointed out in an
+influential 1936/37 article &ldquo;The Reliance Interest in Contract
+Damages&rdquo;, the damages awarded by courts to those who have had a
+promise or contract broken is best understood as being proportional to
+the harm the plaintiff suffered in relying on the promise. These and
+other considerations argue for a theory of promises based on
+expectations and reliance, i.e., an expectational theory, as opposed
+to one based on conventions or natural duties, and this is what a
+number of philosophers and legal theorists have done. This debate has
+spawned a sizable literature (see Swain 2013 for a good overview of
+this work).</p>
+
+<p>
+Charles Fried&rsquo;s widely influential book <em>Contract as
+Promise</em> (1981) re-kindled this debate in American legal circles.
+Fried argued that the traditional approach, which made contractual
+obligation out to be grounded in promissory obligation, was slowly
+being usurped by the consequentialist-flavored approaches of the
+English common law, and he aimed his book as a polemic against this
+movement.</p>
+
+<p>
+Fried took on these arguments directly, and the corpus of work that
+sprang from the book greatly enlarged the debate. In 2012 a special
+conference and subsequent issue of the Suffolk University Law Review
+revisited Fried&rsquo;s work, 30 years on. This new corpus of work
+provides us with some interesting new explorations. As an example of
+this, see Brian Bix&rsquo;s assessment in his essay (2012). Subsequent
+to this Fried released an updated version of the book in 2015, which
+in turn has spawned a more recent literature (see Markovits 2020;
+Saprai 2013; Bix 2017; Encarnacion 2018)</p>
+
+<p>
+And the legal academy continues to work on the relation between the
+concepts and the theoretical foundations of contract law, with
+scholars like Markovits (2011), Shiffrin (2006, 2012), Pratt (2007,
+2014) Encarnacion (2018), Saprai (2017) and many others contributing.
+For an excellent overview of the theoretical work see the SEP entry on
+ <a href="../contract-law/">contract law</a>.</p>
+ 
+<h3 id="PromCons">6.3 Promises and Consequentialism</h3>
+
+<p>
+Consequentialism has always had a fraught relationship with promises
+and promissory obligation. It has been a traditional challenge to
+consequentialist views, particularly earlier, act-based forms, to
+explain promissory obligations, as they aren&rsquo;t necessarily
+&ldquo;felicific&rdquo;, or productive of the most good. Of course,
+not all consequentialist views are of this sort.</p>
+
+<p>
+Consequentialist theories of promissory obligation fall into two broad
+camps: Act utilitarians are expectationalists&mdash;generally explain
+promissory obligations as arising from the negative consequences of
+breaking the promise. Rule utilitarians are conventionalists, and
+defend promissory obligations on the grounds that the rule of
+promise-keeping is productive of the best consequences.</p>
+
+<h4 id="ActUtil">6.3.1 Act Utilitarianism</h4>
+
+<p>
+Act utilitarians evaluate individual actions in light of the net
+utility produced by that action as compared to alternative actions.
+The right action is that which promotes the maximum net utility. On
+the face of it, this entirely general and comprehensive maxim leaves
+no room for considerations of prior promise. The fact that an agent
+promised someone something has no direct relevance to an act
+consequentialist appraisal of that agent&rsquo;s action at the time
+the promise is meant to be kept. If breaking the promise would promote
+more utility than keeping it, then the theory seems to mandate
+breaking the promise.</p>
+
+<p>
+This counter-intuitive result has been offered as a criticism of act
+utilitarianism since its inception. That act utilitarians have
+difficulty in accounting for the force of promises is a touchstone for
+critics (see Prichard 1949; Ross 1930; Hodgson 1967).</p>
+
+<p>
+But act utilitarians do have some resources to accommodate our moral
+intuitions about promises, and the sort of theory they employ is held
+by more than just utilitarians .The act utilitarian explanation for
+promissory obligations is that these obligations arise from the
+negative consequences that attend the breaking of promises, where
+these negative consequences are, at least in part, created by the
+effects of the promise on the promisee, specifically, the creation in
+the promisee of the expectation that the promisor will keep her
+promise. A sample list of utilitarianism that have either offered or
+defended such a view: Bentham (<em>A Comment on the Commentaries</em>,
+1-1-6), Sidgwick (<em>The Methods of Ethics</em>, 1874 [1962:
+3&ndash;6]), Narveson (1967, 1971), Singer (1972), and &Aacute;rdal
+(1968, 1976).</p>
+
+<p>
+In support of this picture utilitarians argue that promises are the
+sorts of things which are generally made because the promisee wants
+the thing promised, and so wants to be assured of getting it. Since a
+promise is designed to secure his trust, and that trust is then likely
+to be the source of much pain if it&rsquo;s disappointed, it&rsquo;s
+reasonable to assume that in most cases keeping one&rsquo;s promise
+will be productive of better consequences than breaking them, given
+the expectations of the promisee. And there are other potential
+negative consequences of breaking a promise (e.g., the loss of trust
+by one&rsquo;s familiars, the general erosion of trust in the practice
+of promises) that utilitarians can add to the negative side of the
+ledger. For an astute philosophical survey of Act Utilitarian
+approaches to promising see Atiyah (1981: 30&ndash;79), also Robins
+(1984: 140&ndash;143) and Vitek (1993: 61&ndash;70).</p>
+
+<p>
+As mentioned above, the standard critique of the act utilitarian
+theory of promissory obligations is that it doesn&rsquo;t accord with
+our intuitive judgment that at least some promises that don&rsquo;t
+produce the maximum utility still ought to be kept. In claiming that
+utilitarianism has unacceptably counter-intuitive results in certain
+cases, this argument it is of a piece with most arguments against the
+view. One sort of counter-intuitive case that has received some
+attention is the so-called &ldquo;Desert Island&rdquo; case, where a
+promise is made in isolation (on a desert island) to someone who then
+dies. The question is whether there is any obligation to keep the
+promise, given that the promisee can&rsquo;t have any expectations of
+its fulfillment (being dead) and that no-one else can know of the
+promise (see Nowell-Smith 1956; Narveson 1963: 210; Cargile 1964;
+Narveson 1967: 196&ndash;7). See the section on
+ <a href="#ProbPromUptaCond">Problematic Promisees and the Uptake Condition (&sect;5.1]</a>
+ above for more information.</p>
+
+<p>
+A more sophisticated problem outlined by Hodgson (1967: 38) and others
+is that a promising convention is broadly speaking incompatible with
+an act utilitarian society. This is so because such a convention
+couldn&rsquo;t get established (or couldn&rsquo;t be sustained) if
+people were aware that everyone was a consistent utility maximizer of
+the act utilitarian sort. If this were the case people would put no
+stock in promises, knowing that when the time came to keep the
+promise, the promisor would simply apply the utilitarian calculus,
+without regard to the fact that he had previously
+&ldquo;promised&rdquo;, as this is what being an act utilitarian
+means.</p>
+
+<p>
+Note that the utilitarian cannot reply that we have failed to take
+into account the expectations of the promisee in our case, because the
+claim is that the promisee has no reason to generate any special
+expectations that the promisor will do what she promises, precisely
+because he knows the promisor to be an act utilitarian, and
+consequently knows that she will do what the utility calculus tells
+her is best, without thought of her promise. Of course, the promisee
+is free to generate some expectations that the promisor will keep her
+promise on the assumption that her promise is indicative of her at
+least having the (present) intention to perform the promised act. But,
+as Raz (1972), Kolodny and Wallace (2003) and others point out, the
+advising of the promisee of one&rsquo;s mere intention to do the
+promised act is insufficient ground for the sorts of expectations that
+are meant to attend promises.</p>
+
+<p>
+More recently there have been some efforts to rehabilitate act
+utilitarianism with regards to promissory obligations. Some theorists,
+like Michael Smith (1994, 2011), propose that sophisticating the
+theory with the addition of other values might allow it to accommodate
+&ldquo;agent-relative&rdquo; values like promise keeping (M. Smith
+2011: 208&ndash;215).</p>
+
+<p>
+Others, like Alastair Norcross, offer a negative defense, arguing that
+the sorts of counter-examples generally adduced to demonstrate the
+problem don&rsquo;t survive scrutiny (Norcross 2011). Norcross also
+proposes an indirect form of consequentialism, one where the decision
+procedure consciously adopted by agents isn&rsquo;t the same as theory
+itself. This sort of approach is outlined by Peter Railton (1984).</p>
+
+<h4 id="RuleUtil">6.3.2 Rule Utilitarianism</h4>
+
+<p>
+The sorts of difficulties that promises pose for act utilitarian
+theories discussed above are at least in part the motivation for rule
+utilitarianism (see Rawls 1955 and Brandt 1979: 286&ndash;305). Rule
+utilitarians change the context of moral evaluation from individual
+acts to rules governing actions. The principle of utility is applied
+to rules and practices, rather than individual acts, and the best rule
+or practice is that produces the best over-all consequences. Some
+notable rule utilitarians are Urmson (1953), Brandt (1959, 1979), and
+Hooker (2000, 2011).</p>
+
+<p>
+Of special note here is Rawls&rsquo; 1955 paper we discussed above in
+the context of conventionalism, &ldquo;Two Concepts of Rules&rdquo;,
+which advanced a rule-utilitarian defense of promissory obligations
+and helped to focus the debate on promising By changing the focus from
+act to rule, rule utilitarians are better able to explain our moral
+intuitions regarding individual cases of promise-keeping. But in
+particular, rule utilitarians claim that their theory can make sense
+of the origin and maintenance of the practice of promising itself.
+Unlike an act utilitarian society, promising and trusting in promises
+makes sense in a rule utilitarian society, because promisees can rest
+assured that promisors won&rsquo;t do the local utility calculation to
+determine whether or not to keep their promises, but rather will obey
+the rule of promising.</p>
+
+<p>
+One problem for the rule utilitarian theory of promissory obligations
+is that it seems that utilitarian society couldn&rsquo;t establish a
+practice of promising, because prior to the establishment of the rule,
+people could have no expectations that promises would be kept. As
+such, those receiving the first promises would not be able to form the
+expectations necessary to make the rule actually productive of the
+best consequences. This is so because the consequential value of the
+rule of promise keeping depends on the expectations of promisees. Such
+expectations are the grounds of trust, and trust is how promising
+generates its benefits (see Robins 1984: 142&ndash;3). In response,
+Brandt argues for what he calls <em>ideal rule utilitarianism</em>,
+which makes the frame of reference for rule consideration not the
+actual rules available, but the ideal rule, i.e., the rule that would
+be optimific (productive of the best possible consequences), were it
+employed. There is substantial criticism of this move (see Diggs
+1970). Again, an excellent (although now dated) survey of the
+rule-utilitarian approach to promising is found in Atiyah (1981:
+79&ndash;86).</p>
+
+<p>
+Since the turn of the century Brad Hooker has offered newer versions
+of Brandt-style rule-utilitarianism (he calls it
+rule-consequentialism) (2000, 2011) with an eye towards solving these
+sorts of problems. This work has in turn spawned another chapter in
+this literature (see Eggleston 2007; Arneson 2005; Wall 2009; Cureton
+2015).</p>
+
+<p>
+And work continues on these issues, see Sinnott-Armstrong (2009), Gill
+(2012), Melenovsky (2017). For an excellent contemporary survey of
+this issue, see Alida Liberman&rsquo;s &ldquo;Consequentialism and
+Promises&rdquo; in the <em>Oxford Handbook of Consequentialism</em>
+(2020).</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging">
+
+<li>Albrecht, Ingrid V., 2018, &ldquo;Graveside and Other Asymmetrical
+Promises&rdquo;, <em>Social Theory and Practice</em>, 44(4):
+469&ndash;483. doi:10.5840/soctheorpract201891344</li>
+
+<li>Alston, William P., 1964, <em>The Philosophy of Language</em>,
+Englewood Cliffs, NJ: Prentice Hall.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994, &ldquo;Illocutionary Acts and
+Linguistic Meaning&rdquo;, in <em>Foundations of Speech Act Theory:
+Philosophical and Linguistic Perspectives</em>, S. L. Tsohatzidis
+(ed.), London, New York: Routledge, pp. 29&ndash;49.</li>
+
+<li>Anscombe, G.E.M., 1981, <em>Ethics, Religion and Politic</em>,
+Oxford: Blackwell.</li>
+
+<li>Aquinas, Thomas, <em>The Summa Theologica of St. Thomas
+Aquinas</em>, Translated by English Dominicans, London: Burns, Oates,
+and Washbourne. Reprinted New York: Christian Classics, 1981.</li>
+
+<li>&Aacute;rdal, P&aacute;ll S., 1968, &ldquo;&lsquo;And That&rsquo;s
+a Promise&rsquo;&rdquo;, <em>The Philosophical Quarterly</em>, 18(72):
+225&ndash;237. doi:10.2307/2218560</li>
+
+<li>&ndash;&ndash;&ndash;, 1976, &ldquo;Promises and Reliance&rdquo;,
+<em>Dialogue</em>, 15(1): 54&ndash;61.
+doi:10.1017/S0012217300021946</li>
+
+<li>&ndash;&ndash;&ndash;, 1979, &ldquo;Threats and Promises: A Reply
+to Vera Peetz&rdquo;, <em>Mind</em>, 88(352): 586&ndash;587.
+doi:10.1093/mind/LXXXVIII.1.586</li>
+
+<li>Aristotle, <em>Nicomachean Ethics</em>, Jonathon Barnes (ed.),
+Princeton, NJ: Princeton University Press, 1984.</li>
+
+<li>Arneson, Richard, 2005, &ldquo;Sophisticated Rule
+Consequentialism: Some Simple Objections&rdquo;, <em>Philosophical
+Issues</em>, 15: 235&ndash;251.
+doi:10.1111/j.1533-6077.2005.00064.x</li>
+
+<li>Atiyah, P. S., 1961, <em>An Introduction to the Law of
+Contract</em>, Oxford: Clarendon Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1979, <em>The Rise and Fall of the Freedom
+of Contract</em>, Oxford: Clarendon Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1981, <em>Promises, Morals and the
+Law</em>, Oxford: Clarendon Press.</li>
+
+<li>Austin, J. L., 1962 [1975], <em>How To Do Things With Words</em>,
+from the William James lectures of 1955, J. O. Urmson (ed.),
+Cambridge, MA: Harvard University Press. Second edition, J. O. Urmson
+and Marina Sbis&agrave; (eds).</li>
+
+<li>Baier, Annette C., 1992, &ldquo;Artificial Virtues and the Equally
+Sensible Non-Knaves: A Response to Gauthier&rdquo;, <em>Hume
+Studies</em>, 18(2): 429&ndash;439. doi:10.1353/hms.2011.0402</li>
+
+<li>Bentham, Jeremy, 1928 [1977], <em>A Comment on the
+Commentaries</em>, written c. 1775, first published 1928, <em>A
+Comment on the Commentaries: A Criticism of William Blackstone&rsquo;s
+&ldquo;Commentaries on the Laws of England&rdquo;</em>, Oxford:
+Clarendon Press. Reprinted in <em>The Collected Works of Jeremy
+Bentham: A Comment on the Commentaries and A Fragment on
+Government</em>, J.H. Burns and H.L.A. Hart (eds), London: Athlone
+Press.</li>
+
+<li>Binmore, Ken, 1994, <em>Playing Fair: Game Theory and the Social
+Contract : Volume 1, Playing Fair</em>, Cambridge, MA: The MIT
+Press.</li>
+
+<li>Bix, Brian, 2012, &ldquo;Theories of Contract Law and Enforcing
+Promissory Morality: Comments on Charles Fried&rdquo;, <em>Suffolk
+University Law Review</em>, 45(3): 719&ndash;734.</li>
+
+<li>&ndash;&ndash;&ndash;,&nbsp;&nbsp;2017, &ldquo;Theories of
+contract law&rdquo;,&nbsp;In&nbsp;<em>Comparative Contract Law,</em>
+London: Edward Elgar Publishing.</li>
+
+<li>Blok, Vincent, 2013, &ldquo;The Power of Speech Acts: Reflections
+on a Performative Concept of Ethical Oaths in Economics and
+Business&rdquo;, <em>Review of Social Economy</em>, 71(2):
+187&ndash;208. doi:10.1080/00346764.2013.799965</li>
+
+<li>Brake, Elizabeth, 2011, &ldquo;Is Divorce
+Promise-Breaking?&rdquo;, <em>Ethical Theory and Moral Practice</em>,
+14(1): 23&ndash;39. doi:10.1007/s10677-009-9217-z</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, <em>Minimizing Marriage: Marriage,
+Morality, and the Law</em>, New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780199774142.001.0001</li>
+
+<li>Brandt, Richard B., 1959, <em>Ethical Theory: The Problems of
+Normative and Critical Ethics</em>, Englewood Cliffs, NJ:
+Prentice-Hall.</li>
+
+<li>&ndash;&ndash;&ndash;, 1979, <em>Theory of the Good and the
+Right</em>, Oxford: Clarendon Press.</li>
+
+<li>Boonin, D., 2019,&nbsp;<em>Dead Wrong: The Ethics of Posthumous
+Harm</em>. Oxford: Oxford University Press.</li>
+
+<li>Carassa, Antonella and Marco Colombetti, 2014,
+&ldquo;Interpersonal Responsibilities and Communicative
+Intentions&rdquo;, <em>Phenomenology and the Cognitive Sciences</em>,
+13(1): 145&ndash;159. doi:10.1007/s11097-013-9325-z</li>
+
+<li>Cargile, James, 1964, &ldquo;Utilitarianism and the Desert Island
+Problem&rdquo;, <em>Analysis</em>, 25(1): 23&ndash;24.
+doi:10.1093/analys/25.1.23</li>
+
+<li>Chang, Ruth, 2013, &ldquo;Commitments, Reasons, and the
+Will&rdquo;, in <em>Oxford Studies in Metaethics, Volume 8</em>,
+Oxford: Oxford University Press, pp. 74&ndash;113.</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;Do We Have Normative
+Powers?&rdquo;, <em>Aristotelian Society Supplementary Volume</em>,
+94: 275&ndash;300. doi:10.1093/arisup/akaa012</li>
+
+<li>Cholbi, Michael, 2014, &ldquo;A Plethora of Promises&mdash;or None
+at All&rdquo;, <em>American Philosophical Quarterly</em>, 51(3):
+261&ndash;272.</li>
+
+<li>&ndash;&ndash;&ndash;, 2015, &ldquo;On Marcus Singer&rsquo;s
+&lsquo;On Duties to Oneself&rsquo;&rdquo;, <em>Ethics</em>, 125(3):
+851&ndash;853. doi:10.1086/679554</li>
+
+<li>Chwang, Eric, 2011, &ldquo;On Coerced Promises&rdquo;, in Sheinman
+2011: 156&ndash;179 (ch. 6).</li>
+
+<li>Cicero, 44 BCE, <em>De Officiis</em>. Printed with an English
+translation as <em>On Duties</em>, by Walter Miller, (Loeb Classical
+Library, 30), Cambridge, MA: Harvard University Press, 1913.</li>
+
+<li>Cohon, Rachel, 2006, &ldquo;Hume on Promises and the Peculiar Act
+of the Mind&rdquo;, <em>Journal of the History of Philosophy</em>,
+44(1): 25&ndash;45. doi:10.1353/hph.2006.0007</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, &ldquo;Hume&rsquo;s Practice Theory
+of Promises and Its Dissimilar Descendants&rdquo;, <em>Synthese</em>,
+199(1&ndash;2): 617&ndash;635. doi:10.1007/s11229-020-02684-2</li>
+
+<li>Conee, Earl, 2000, &ldquo;The Moral Value in Promises&rdquo;,
+<em>Philosophical Review</em>, 109(3): 411&ndash;422.
+doi:10.1215/00318108-109-3-411</li>
+
+<li>Corredor, Cristina, 2001, &ldquo;A Comment on Threats and
+Communicative Rationality&rdquo;, <em>Theoria. Revista de
+Teor&iacute;a, Historia y Fundamentos de La Ciencia</em>, 16(1):
+147&ndash;166.</li>
+
+<li>Cowley, Christopher, 2020, &ldquo;Divorce, Disorientation, and
+Remarriage&rdquo;, <em>Ethical Theory and Moral Practice</em>,
+23(3&ndash;4): 531&ndash;544. doi:10.1007/s10677-019-10036-4</li>
+
+<li>Cupit, Geoffrey, 1994, &ldquo;How Requests (And Promises) Create
+Obligations&rdquo;, <em>The Philosophical Quarterly</em>, 44(177):
+439&ndash;455. doi:10.2307/2220244</li>
+
+<li>Cureton, Adam, 2015, &ldquo;Making Room for Rules&rdquo;,
+<em>Philosophical Studies</em>, 172(3): 737&ndash;759.
+doi:10.1007/s11098-014-0331-y</li>
+
+<li>Dannenberg, Jorah, 2015, &ldquo;Promising Ourselves, Promising
+Others&rdquo;, <em>The Journal of Ethics</em>, 19(2): 159&ndash;183.
+doi:10.1007/s10892-015-9192-7</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;Promising as Doxastic
+Entrustment&rdquo;, <em>The Journal of Ethics</em>, 23(4):
+425&ndash;447. doi:10.1007/s10892-019-09304-3</li>
+
+<li>Darwall, Stephen, 2006, <em>The Second Person Standpoint:
+Morality, Respect, and Accountability</em>, Cambridge, MA: Harvard
+University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2009, &ldquo;Authority and Second-Personal
+Reasons for Acting&rdquo;, in Sobel and Wall 2009: 134&ndash;154.
+doi:10.1017/CBO9780511720185.007</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Demystifying Promises&rdquo;,
+in Sheinman 2011: 256&ndash;274 (ch. 11).</li>
+
+<li>Deigh, John, 2002, &ldquo;Promises under Fire&rdquo;,
+<em>Ethics</em>, 112(3): 483&ndash;506. doi:10.1086/338483</li>
+
+<li>Diggs, B.J., 1970, &ldquo;A Comment on &lsquo;Some Merits of One
+Form of Utilitarianism&rsquo;&rdquo;, in <em>Readings in Contemporary
+Ethical Theory</em>, Kenneth Pahel and Marvin Schiller (eds.),
+Englewood Cliffs, NJ: Prentice Hall, 307&ndash;317.</li>
+
+<li>Dougherty, Tom, 2015, &ldquo;Yes Means Yes&#8239;: Consent as
+Communication&rdquo;, <em>Philosophy &amp; Public Affairs</em>, 43(3):
+224&ndash;253. doi:10.1111/papa.12059</li>
+
+<li>Downie, R. S., 1985, &ldquo;Three Accounts of Promising&rdquo;,
+<em>The Philosophical Quarterly</em>, 35(140): 259&ndash;271.
+doi:10.2307/2218905</li>
+
+<li>Dressel, Ashley, 2015, &ldquo;&lsquo;Directed Obligations and the
+Trouble with Deathbed Promises&rsquo;&rdquo;, <em>Ethical Theory and
+Moral Practice</em>, 18(2): 323&ndash;335.
+doi:10.1007/s10677-014-9520-1</li>
+
+<li>Driver, Julia, 2011, &ldquo;Promising Too Much&rdquo;, in Sheinman
+2011: 183&ndash;195 (ch. 7).</li>
+
+<li>Dunn, John, 1984, &ldquo;The Concept of &lsquo;Trust&rsquo; in the
+Politics of John Locke&rdquo;, in <em>Philosophy in History: Essays in
+the Historiography of Philosophy</em>, Richard Rorty, Jerome B.
+Schneewind, and Quentin Skinner (eds.), Cambridge: Cambridge
+University Press, pp. 279&ndash;302.
+doi:10.1017/CBO9780511625534.015</li>
+
+<li>Dworkin, Ronald, 1977, <em>Taking Rights Seriously</em>,
+Cambridge, MA: Harvard University Press.</li>
+
+<li>Eggleston, Ben, 2007, &ldquo;Conflicts of Rules in Hooker&rsquo;s
+Rule-Consequentialism&rdquo;, <em>Canadian Journal of Philosophy</em>,
+37(3): 329&ndash;349. doi:10.1353/cjp.2007.0026</li>
+
+<li>Encarnacion, E,&nbsp;2018,&nbsp;&ldquo;Contract as Commodified
+Promise&rdquo;&nbsp;<em>Vanderbilt&nbsp;Law&nbsp;Rev.</em>,&nbsp;71:&nbsp;61.</li>
+
+<li>Feinberg, Joel, 1970, &ldquo;The Nature and Value of
+Rights&rdquo;, <em>The Journal of Value Inquiry</em>, 4(4):
+243&ndash;260. doi:10.1007/BF00137935</li>
+
+<li>Finnis, John, 1980, <em>Natural Law and Natural Rights</em>,
+Oxford: Clarendon Press.</li>
+
+<li>Fleming, Lauren, 2009, &ldquo;The normativity of personal
+commitment&rdquo;, Ph.D. Thesis, Georgetown University.
+ [<a href="http://hdl.handle.net/10822/553193" target="other">Fleming 2009 available online</a>]</li>
+ 
+<li>Flew, Anthony, 1964, &ldquo;On Not Deriving &lsquo;ought&rsquo;
+from &lsquo;Is&rsquo;&rdquo;, <em>Analysis</em>, 25(2): 25&ndash;32.
+doi:10.1093/analys/25.2.25</li>
+
+<li>Foot, Philippa, 2001, <em>Natural Goodness</em>, Oxford: Clarendon
+Press. doi:10.1093/0198235089.001.0001</li>
+
+<li>Fried, Charles, 1981 [2015], <em>Contract as Promise: A Theory of
+Contractual Obligation</em>, Cambridge, MA: Harvard University Press.
+Second edition with new preface and postscript, Oxford: Oxford
+University Press. doi:10.1093/acprof:oso/9780190240158.001.0001</li>
+
+<li>Friedrich, D. &amp; Southwood, N., 2009,&nbsp;&ldquo;Promises
+beyond assurance&rdquo;,&nbsp;<em>Philosophical
+studies</em>,&nbsp;144(2):&nbsp;261&ndash;280.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Promises and Trust&rdquo;, in
+Sheinman 2011: 277&ndash;294 (ch. 12).</li>
+
+<li>Fruh, Kyle, 2014, &ldquo;The Power to Promise Oneself&rdquo;,
+<em>The Southern Journal of Philosophy</em>, 52(1): 61&ndash;85.
+doi:10.1111/sjp.12048</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;Promising&rsquo;s Neglected
+Siblings: Oaths, Vows, and Promissory Obligation&rdquo;, <em>Pacific
+Philosophical Quarterly</em>, 100(3): 858&ndash;880.
+doi:10.1111/papq.12286</li>
+
+<li>Fuller, L. L. and William R. Perdue, 1936, &ldquo;The Reliance
+Interest in Contract Damages: 1&rdquo;, <em>The Yale Law Journal</em>,
+46(1): 52&ndash;96. doi:10.2307/791632</li>
+
+<li>&ndash;&ndash;&ndash;, 1937, &ldquo;The Reliance Interest in
+Contract Damages: 2&rdquo;, <em>The Yale Law Journal</em>, 46(3):
+373&ndash;420. doi:10.2307/791834</li>
+
+<li>Gaius, c. 161 CE, <em>Institutiones</em>. Translated as <em>The
+Institutes of Gaius</em>, W.M. Gordon and O.F. Robinson (trans.),
+Latin and English, London: Duckworth, 1988.</li>
+
+<li>Gauthier, David, 1986, <em>Morals by Agreement</em>, Oxford:
+Clarendon Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;Artificial Virtues and the
+Sensible Knave&rdquo;, <em>Hume Studies</em>, 18(2): 401&ndash;427.
+doi:10.1353/hms.2011.0388</li>
+
+<li>Gheaus, Anca, 2017, &ldquo;Love and Justice: A Paradox?&rdquo;,
+<em>Canadian Journal of Philosophy</em>, 47(6): 739&ndash;759.
+doi:10.1080/00455091.2017.1319656</li>
+
+<li>Gibbard, Allan F., 1965, &ldquo;Rule-Utilitarianism: Merely an
+Illusory Alternative?&rdquo;, <em>Australasian Journal of
+Philosophy</em>, 43(2): 211&ndash;220.
+doi:10.1080/00048406512341181</li>
+
+<li>Gilbert, Margaret, 1990, &ldquo;Walking Together: A Paradigmatic
+Social Phenomenon&rdquo;, <em>Midwest Studies in Philosophy</em>, 15:
+1&ndash;14. doi:10.1111/j.1475-4975.1990.tb00202.x</li>
+
+<li>&ndash;&ndash;&ndash;, 1993, &ldquo;Is an Agreement an Exchange of
+Promises?&rdquo;, <em>The Journal of Philosophy</em>, 90(12):
+627&ndash;649. doi:10.2307/2940815</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Three Dogmas about
+Promising&rdquo;, in Sheinman 2011: 81&ndash;108 (ch. 3).</li>
+
+<li>&ndash;&ndash;&ndash;, 2013, <em>Joint Commitment: How We Make the
+Social World</em>, New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780199970148.001.0001</li>
+
+<li>Gill, M. B., 2012,&nbsp;&ldquo;The non-consequentialist moral
+force of promises: a response to
+Sinnott-Armstrong&rdquo;,&nbsp;<em>Analysis</em>,&nbsp;72(3):&nbsp;506&ndash;513.</li>
+
+<li>Goldman, Holly S., 1974, &ldquo;David Lyons on Utilitarian
+Generalization&rdquo;, <em>Philosophical Studies</em>, 26(2):
+77&ndash;95. doi:10.1007/BF00355261</li>
+
+<li>Gordley, James, 1991, <em>The Philosophical Origins of Modern
+Contract Doctrine</em>, Oxford: Clarendon Press.</li>
+
+<li>Grotius, Hugo, 1625 [1901], <em>De Jure Belli ac Pacis Libri
+Tres</em>, Paris: Buon. Translated as <em>The Rights of War and
+Peace</em>, A.C. Campbell (trans.), Washington, DC: M. Walter Dunne,
+1901.</li>
+
+<li>Habib, Allen, 2009, &ldquo;Promises to the Self&rdquo;,
+<em>Canadian Journal of Philosophy</em>, 39(4): 537&ndash;558.
+doi:10.1353/cjp.0.0061</li>
+
+<li>Hampton, Jean, 1987, <em>Hobbes and the Social Contract
+Tradition</em>, Cambridge: Cambridge University Press.
+doi:10.1017/CBO9780511625060</li>
+
+<li>Hanfling, Oswald, 1975, &ldquo;Promises, Games and
+Institutions&rdquo;, <em>Proceedings of the Aristotelian Society</em>,
+75: 13&ndash;32. doi:10.1093/aristotelian/75.1.13</li>
+
+<li>Hardin, Russell, 1988, <em>Morality within the Limits of
+Reason</em>, Chicago, IL: University of Chicago Press.</li>
+
+<li>Hare, R. M., 1964, &ldquo;The Promising Game&rdquo;, <em>Revue
+Internationale de Philosophie</em>, 18(70): 398&ndash;412. Reprinted
+in <em>The Is-Ought Question: A Collection of Papers on the Central
+Problems in Moral Philosophy</em> , W. D. Hudson (ed.), London:
+Macmillan, 1969, pp. 144&ndash;156.</li>
+
+<li>Harris, Daniel W. and Rachel McKinney, 2021, &ldquo;Speech-Act
+Theory&rdquo;, <em>The Routledge Handbook of Social and Political
+Philosophy of Language</em>, Justin Khoo and Rachel Sterken (eds.),
+London: Routledge, ch. 5.</li>
+
+<li>Harsanyi, John C., 1955, &ldquo;Cardinal Welfare, Individualistic
+Ethics, and Interpersonal Comparisons of Utility&rdquo;, <em>Journal
+of Political Economy</em>, 63(4): 309&ndash;321.
+doi:10.1086/257678</li>
+
+<li>Hart, H. L. A., 1955, &ldquo;Are There Any Natural Rights?&rdquo;,
+<em>Philosophical Review</em>, 64(2): 175&ndash;191.
+doi:10.2307/2182586</li>
+
+<li>&ndash;&ndash;&ndash;, 1958, &ldquo;Legal and Moral
+Obligations&rdquo; in <em>Essays in Moral Philosophy</em>, A.I.
+Melden, (ed.), Seattle, WA: University of Washington Press,
+82&ndash;107.</li>
+
+<li>Helmreich, Jeffrey S., 2018, &ldquo;The Bounds of Morality:
+Gilbert on Promissory Obligation&rdquo;, <em>ProtoSociology</em>, 35:
+217&ndash;234. doi:10.5840/protosociology20183512</li>
+
+<li>Hill, Thomas E., Jr, 1991, &ldquo;Promises to Oneself&rdquo;, in
+his <em>Autonomy and Self Respect</em>, Cambridge: Cambridge
+University Press, pp. 138&ndash;154.</li>
+
+<li>Hobbes, Thomas, 1651 [1991], <em>Leviathan</em>, London.
+Reprinted, Richard Tuck (ed.), Cambridge: Cambridge University Press,
+1991.</li>
+
+<li>Hodgson, David H., 1967, <em>Consequences of Utilitarianism: A
+Study in Normative Ethics and Legal Theory</em>, Oxford: Clarendon
+Press.</li>
+
+<li>Hoekstra, Kinch, 1997, &ldquo;Hobbes and the Foole&rdquo;,
+<em>Political Theory</em>, 25(5): 620&ndash;654.
+doi:10.1177/0090591797025005002</li>
+
+<li>Hohfeld, Wesley Newcomb, 1919, <em>Some Fundamental Legal
+Conceptions as Applied in Judicial Reasonings</em>, Walter Wheeler
+Cook (ed.), New Haven, CT: Yale University Press.</li>
+
+<li>Hooker, Brad, 2000, <em>Ideal Code, Real World: A
+Rule-Consequentialist Theory of Morality</em>, Oxford: Clarendon
+Press. doi:10.1093/0199256578.001.0001</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Promises and
+Rule-Consequentialism&rdquo;, in Sheinman 2011: 238&ndash;254 (ch.
+10).</li>
+
+<li>Hume, David A., 1739&ndash;40, <em>A Treatise of Human
+Nature</em>, London. Reprinted, L. A. Selby-Bigge (ed.), London:
+Oxford University Press, 1896. Second edition revised by P. H.
+Nidditch, Oxford: Clarendon Press, 1975.</li>
+
+<li>Ibbetson, D. J., 1999, <em>A Historical Introduction to the Law of
+Obligations</em>, Oxford: Oxford University Press.
+doi:10.1093/acprof:oso/9780198764113.001.0001</li>
+
+<li>Jones, David H., 1966, &ldquo;Making and Keeping Promises&rdquo;,
+<em>Ethics</em>, 76(4): 287&ndash;296. doi:10.1086/291598</li>
+
+<li>Kant, Immanuel, 1785 [1990], <em>Grundlegung zur Metaphysik der
+Sitten</em>, Riga. Translated as <em>Foundations of the Metaphysics of
+Morals</em> in <em>Foundations of the Metaphysics of Morals and, What
+is Enlightenment</em>, Lewis White Beck (trans.), New York:
+Macmillan.</li>
+
+<li>Kanygina, Yuliya, forthcoming, &ldquo;Duties to Oneself and Their
+Alleged Incoherence&rdquo;, <em>Australasian Journal of
+Philosophy</em>, first online: 10 May 2021q.
+doi:10.1080/00048402.2021.1909086</li>
+
+<li>Kavka, Gregory S., 1995, &ldquo;The Rationality of Rule-Following:
+Hobbes&rsquo;s Dispute with the Foole&rdquo;, <em>Law and
+Philosophy</em>, 14(1): 5&ndash;34. doi:10.1007/BF01000523</li>
+
+<li>Kenessey, Brendan de, 2020, &ldquo;Promises as Proposals in Joint
+Practical Deliberation&rdquo;, <em>No&ucirc;s</em>, 54(1):
+204&ndash;232. doi:10.1111/nous.12269</li>
+
+<li>Kimel, Dori, 2003, <em>From Promise to Contract: Toward a Liberal
+Theory of Contract</em>, Oxford: Hart Publishing.</li>
+
+<li>&ndash;&ndash;&ndash;, forthcoming, &ldquo;The Next Best Thing to
+a Promise&rdquo;, in <em>Private Law and Practical Reason: Essays on
+John Gardner&rsquo;s Private Law Theory</em>, Haris Psarras and Sandy
+Steel (eds.), Oxford: Oxford University Press.</li>
+
+<li>Kolodny, Niko and R. Jay Wallace, 2003, &ldquo;Promises and
+Practices Revisited&rdquo;, <em>Philosophy &amp; Public Affairs</em>,
+31(2): 119&ndash;154. doi:10.1111/j.1088-4963.2003.00119.x</li>
+
+<li>Korsgaard, Christine&nbsp;M., 2007, &ldquo;Autonomy and the Second
+Person Within: A Commentary on Stephen Darwall&rsquo;s <em>The
+Second&#8208;Person Standpoint</em>&rdquo;, <em>Ethics</em>, 118(1):
+8&ndash;23. doi:10.1086/522019</li>
+
+<li>Kurji, Aadil Hanif, 2013, &ldquo;An Update Semantics for Promises
+and Other Obligation-Creating Speech Acts: A Promising Start&rdquo;,
+MSc Thesis, University of Amsterdam.</li>
+
+<li>Leonard, Nick, forthcoming, &ldquo;Promises and all of the people
+who rely on them&rdquo;, <em>Journal of Social Philosophy</em>, first
+online: 06 May 2021. doi:10.1111/josp.12412</li>
+
+<li>Lewis, David, 1969, <em>Convention, a Philosophical Study</em>,
+Cambridge, MA: Harvard University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1972, &ldquo;Utilitarianism and
+Truthfulness&rdquo;, <em>Australasian Journal of Philosophy</em>,
+50(1): 17&ndash;19. doi:10.1080/00048407212341021</li>
+
+<li>Liberman, Alida, 2015, &ldquo;The Mental States First Theory of
+Promising&rdquo;, Ph.D. Thesis, University of Southern
+California.</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, &ldquo;Reconsidering
+Resolutions&rdquo;, <em>Journal of Ethics and Social Philosophy</em>,
+10(2): 1&ndash;27. doi:10.26556/jesp.v10i2.98</li>
+
+<li>&ndash;&ndash;&ndash;, 2019, &ldquo;On the Rationality of
+Vow&#8208;making&rdquo;, <em>Pacific Philosophical Quarterly</em>,
+100(3): 881&ndash;900. doi:10.1111/papq.12287</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;Consequentialism and
+Promises&rdquo;, in <em>Oxford Handbook of Consequentialism</em>,
+Douglas W. Portmore (ed.), Oxford: Oxford University Press, pp.
+289&ndash;309.</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, &ldquo;For Better or for Worse: When
+Are Uncertain Wedding Vows Permissible?&rdquo;, <em>Social Theory and
+Practice</em>, 47(4): 765&ndash;788.
+doi:10.5840/soctheorpract2021923141</li>
+
+<li>Liberto, Hallie, 2016a, &ldquo;Promises, Release-Seeking, and
+Exploitation: What We Should Not Do To Get Off the Hook&rdquo;,
+<em>The Southern Journal of Philosophy</em>, 54: 143&ndash;165.
+doi:10.1111/sjp.12191</li>
+
+<li>&ndash;&ndash;&ndash;,&nbsp;2016b,&nbsp;&ldquo;Against a Unified
+Account&rdquo;&nbsp;<em>Oxford Studies in Normative Ethics,
+Volume</em> 6(6):&nbsp;102.</li>
+
+<li>&ndash;&ndash;&ndash;, 2018, &ldquo;Promises and the Backward
+Reach of Uptake&rdquo;, <em>American Philosophical Quarterly</em>,
+55(1): 15&ndash;26.</li>
+
+<li>Lichter, Andrew, 2021, &ldquo;Promises, Intentions, and Reasons
+for Action&rdquo;, <em>Ethics</em>, 132(1): 218&ndash;231.
+doi:10.1086/715285</li>
+
+<li>Locke, John, 1689 [1988], <em>Two Treatises of Government</em>,
+London. Reprinted, Peter Laslett (ed.), Cambridge: Cambridge
+University Press, 1988.</li>
+
+<li>Lyons, David, 1965, <em>Forms and Limits of Utilitarianism</em>,
+Oxford: Clarendon Press.</li>
+
+<li>MacCormick, Neil, 1972, &ldquo;Voluntary Obligations and Normative
+Powers I&rdquo;, <em>Aristotelian Society Supplementary Volume</em>,
+46: 59&ndash;78. doi:10.1093/aristoteliansupp/46.1.59</li>
+
+<li>MacMahon, P, 2018, &ldquo;Conflict and contract
+law&rdquo;.&nbsp;<em>Oxford Journal of Legal Studies</em>&nbsp;38(2):
+270&ndash;299.</li>
+
+<li>Markovits, Daniel, 2004, &ldquo;Contract and Collaboration&rdquo;,
+<em>The Yale Law Journal</em>, 113(7): 1417&ndash;1518.
+doi:10.2307/4135772</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Promise as an
+Arm&rsquo;s-Length Relation&rdquo;, in Sheinman 2011: 296&ndash;326
+(ch. 13).</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;Contract as
+collaboration&rdquo;,&nbsp;in&nbsp;<em>Research Handbook on Private
+Law Theory</em>. London:Edward Elgar Publishing.</li>
+
+<li>Markovits, Daniel and Alan Schwartz, 2012, &ldquo;The Expectation
+Remedy and the Promissory Basis of Contract&rdquo;, <em>Suffolk
+University Law Review</em>, 45(3): 799&ndash;825.</li>
+
+<li>Mason, Elinor, 2005, &ldquo;We Make No Promises&rdquo;,
+<em>Philosophical Studies</em>, 123(1&ndash;2): 33&ndash;46.
+doi:10.1007/s11098-004-5219-9</li>
+
+<li>McBride, Mark, 2015, &ldquo;Raz, Practical Inferences, Promising,
+Legal Reasoning&rdquo;, <em>Ratio Juris</em>, 28(2): 286&ndash;292.
+doi:10.1111/raju.12082</li>
+
+<li>McNeilly, F. S., 1972, &ldquo;Promises De-Moralized&rdquo;,
+<em>Philosophical Review</em>, 81(1): 63&ndash;81.
+doi:10.2307/2184226</li>
+
+<li>Melden, A. I., 1977, <em>Rights and Persons</em>, Berkeley, CA:
+University of California Press.</li>
+
+<li>Melenovsky, CM, 2017, &ldquo;Promises, Practices and
+Reciprocity&rdquo;,&nbsp;<em>The Philosophical Quarterly</em>,
+ 67(266):106&ndash;126,&nbsp;<a href="https://doi.org/10.1093/pq/pqw041">https://doi.org/10.1093/pq/pqw041</a></li>
+ 
+<li>Menetrez, Frank, 1999, &ldquo;Consequentialism, Promissory
+Obligation, and the Theory of Efficient Breach&rdquo;, <em>UCLA Law
+Review</em>, 47(3): 859&ndash;885.</li>
+
+<li>Midgley, Mary, 1974, &ldquo;The Game Game&rdquo;,
+<em>Philosophy</em>, 49(189): 231&ndash;253.
+doi:10.1017/S0031819100048208</li>
+
+<li>Migotti, Mark, 2003, &ldquo;All Kinds of Promises&rdquo;,
+<em>Ethics</em>, 114(1): 60&ndash;87. doi:10.1086/376716</li>
+
+<li>Miles, Steven H., 2005, <em>The Hippocratic Oath and the Ethics of
+Medicine</em>, Oxford: Oxford University Press.</li>
+
+<li>Molina, Crescente, 2019, &ldquo;Is There Value in Keeping a
+Promise? A Response to Joseph Raz&rdquo;, <em>Journal of Ethics and
+Social Philosophy</em>, 15(1): 85&ndash;90.
+doi:10.26556/jesp.v15i1.616</li>
+
+<li>Mu&ntilde;oz, Daniel, 2021, &ldquo;From Rights to
+Prerogatives&rdquo;, <em>Philosophy and Phenomenological
+Research</em>, 102(3): 608&ndash;623. doi:10.1111/phpr.12682</li>
+
+<li>Murphy, Liam, 2020, &ldquo;The Artificial Morality of Private Law:
+The Persistence of an Illusion&rdquo;, <em>University of Toronto Law
+Journal</em>, 70(4): 453&ndash;488.</li>
+
+<li>Narveson, Jan, 1963, &ldquo;The Desert-Island Problem&rdquo;,
+<em>Analysis</em>, 23(3): 63&ndash;67. doi:10.1093/analys/23.3.63</li>
+
+<li>&ndash;&ndash;&ndash;, 1967, <em>Morality and Utility</em>,
+Baltimore, MD: Johns Hopkins University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1971, &ldquo;Promising, Expecting, and
+Utility&rdquo;, <em>Canadian Journal of Philosophy</em>, 1(2):
+207&ndash;233. doi:10.1080/00455091.1971.10716017</li>
+
+<li>&ndash;&ndash;&ndash;, 1988, <em>The Libertarian Idea</em>,
+Philadelphia, PA: Temple University Press.</li>
+
+<li>Nieswandt, K,&nbsp;2017,&nbsp;&ldquo;Anscombe on the Sources of
+Normativity&rdquo;,&nbsp;<em>The Journal of Value
+Inquiry</em>,&nbsp;51(1): 141&ndash;163.</li>
+
+<li>&ndash;&ndash;&ndash;, 2019a, &ldquo;What Is Conventionalism about
+Moral Rights and Duties?&rdquo;, <em>Australasian Journal of
+Philosophy</em>, 97(1): 15&ndash;28.
+doi:10.1080/00048402.2018.1425306</li>
+
+<li>&ndash;&ndash;&ndash;, 2019b, &ldquo;Authority and Interest in the
+Theory of Right&rdquo;, in <em>Dimensions of Normativity: New Essays
+on Metaethics and Jurisprudence</em>, David Plunkett, Scott J.
+Shapiro, and Kevin Toh (eds.), New York: Oxford University Press,
+315&ndash;334. doi:10.1093/oso/9780190640408.003.0014</li>
+
+<li>Nietzsche, Friedrich, 1887 [1967], <em>Zur Genealogie der Moral:
+Eine Streitschrift</em>, Leipzig. Translated as <em>On the Genealogy
+of Morals</em>, Walter Kaufmann and R.J. Hollingdale (trans), New
+York: Vintage Books.</li>
+
+<li>Norcross, Alastair, 2011, &ldquo;Act-utilitarianism and Promissory
+Obligation&rdquo;, in Sheinman 2011: 218&ndash;233 (ch. 9).</li>
+
+<li>Nowell-Smith, P.H., 1956, <em>Ethics</em>, London: Penguin
+Books.</li>
+
+<li>Nozick, Robert, 1974, <em>Anarchy, State, and Utopia</em>, New
+York: Basic Books.</li>
+
+<li>Osmola, Szymon, 2018, &ldquo;Promises to Unidentified
+Individuals&rdquo;, <em>Principia</em>, 65: 91&ndash;111.</li>
+
+<li>Owens, David, 2006, &ldquo;A Simple Theory of Promising&rdquo;,
+<em>Philosophical Review</em>, 115(1): 51&ndash;77.
+doi:10.1215/00318108-2005-002</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Duress, Deception, and the
+Validity of a Promise&rdquo;, <em>Mind</em>, 116(462): 293&ndash;315.
+doi:10.1093/mind/fzm293</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, &ldquo;Promising without
+Intending&rdquo;, <em>Journal of Philosophy</em>, 105(12):
+737&ndash;755. doi:10.5840/jphil20081051217</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;The Problem with
+Promising&rdquo;, in Sheinman 2011: 59&ndash;79 (ch. 2).</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, <em>Shaping the Normative
+Landscape</em>, Oxford: Oxford University Press.
+doi:10.1093/acprof:oso/9780199691500.001.0001</li>
+
+<li>Peetz, Vera, 1977, &ldquo;Promises and Threats&rdquo;,
+<em>Mind</em>, 86(344): 578&ndash;581.
+doi:10.1093/mind/LXXXVI.344.578</li>
+
+<li>Pickard-Cambridge, W. A., 1932, &ldquo;Two Problems about
+Duty&rdquo;, <em>Mind</em>, 41(161): 72&ndash;96, 41(162):
+145&ndash;172, 41(163): 311&ndash;340. doi:10.1093/mind/XLI.161.72
+doi:10.1093/mind/XLI.162.145 doi:10.1093/mind/XLI.163.311</li>
+
+<li>Pink, Thomas, 2009, &ldquo;Promising and Obligation&rdquo;,
+<em>Philosophical Perspectives</em>, 23: 389&ndash;420.
+doi:10.1111/j.1520-8583.2009.00177.x</li>
+
+<li>Pitcher, George, 1984, &ldquo;The Misfortunes of the Dead&rdquo;,
+<em>American Philosophical Quarterly</em>, 21(2): 183&ndash;188.</li>
+
+<li>Pitson, Anthony E., 1988, &ldquo;Hume on Promises and Their
+Obligation&rdquo;, <em>Hume Studies</em>, 14(1): 176&ndash;190.
+doi:10.1353/hms.2011.0514</li>
+
+<li>Pratt, Michael G., 2003, &ldquo;Promises and Perlocutions&rdquo;,
+in <em>Scanlon and Contractualism: Readings and Responses</em>, Matt
+Matravers (ed.), London: Frank Cass Publishers, pp. 93&ndash;119.</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Promises, Contracts and
+Voluntary Obligations&rdquo;, <em>Law and Philosophy</em>, 26(6):
+531&ndash;574. doi:10.1007/s10982-006-9003-1</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;Some Features of Promises and
+Their Obligations&rdquo;, <em>The Southern Journal of Philosophy</em>,
+52(3): 382&ndash;402. doi:10.1111/sjp.12080</li>
+
+<li>Prichard, H.A., 1949 [2002], &ldquo;The Obligation to Keep a
+Promise&rdquo;, written around 1940, collected in his <em>Moral
+Obligation: Essays and Lectures</em>, Oxford: Clarendon Press, 1949.
+Reprinted in his <em>Moral Writings</em>, Jim MacAdam (ed.), Oxford:
+Clarendon Press, 2002, pp. 257&ndash;266.
+doi:10.1093/0199250197.003.0012</li>
+
+<li>Pufendorf, Samuel, 1672, <em>De jure naturae et gentium libri
+octo</em>, Lund, Junghans. Translated as <em>On the Law of Nature and
+Nations</em>, Charles Henry Oldfather and W.A. Oldfather (trans),
+Oxford: Clarendon Press, 1934.</li>
+
+<li>Railton, Peter, 1984, &ldquo;Alienation, Consequentialism, and the
+Demands of Morality&rdquo;, <em>Philosophy &amp; Public Affairs</em>,
+13(2): 134&ndash;171.
+ [<a href="https://philarchive.org/rec/RAIACA" target="other">Railton 1984 available online</a>]</li>
+ 
+<li>Rawls, John, 1955, &ldquo;Two Concepts of Rules&rdquo;,
+<em>Philosophical Review</em>, 64(1): 3&ndash;32.
+doi:10.2307/2182230</li>
+
+<li>&ndash;&ndash;&ndash;, 1971, <em>A Theory of Justice</em>,
+Cambridge, MA: Harvard University Press.</li>
+
+<li>Raz, Joseph, 1972, &ldquo;Voluntary Obligations and Normative
+Powers II&rdquo;, <em>Aristotelian Society Supplementary Volume</em>,
+46: 80&ndash;102. doi:10.1093/aristoteliansupp/46.1.59</li>
+
+<li>&ndash;&ndash;&ndash;, 1975, <em>Practical Reason and Norms</em>,
+(Hutchinson University Library), London: Hutchinson.</li>
+
+<li>&ndash;&ndash;&ndash;, 1977, &ldquo;Promises and
+Obligations&rdquo;, in <em>Law, Morality, and Society: Essays in
+Honour of H.L.A. Hart</em>, P.M.S. Hacker and Joseph Raz (eds.),
+Oxford: Clarendon press, pp. 210&ndash;228.</li>
+
+<li>&ndash;&ndash;&ndash;, 1982, &ldquo;Promises in Morality and
+Law&rdquo;, <em>Harvard Law Review&nbsp;</em>95:916.</li>
+
+<li>&ndash;&ndash;&ndash;, 1984, &ldquo;On the Nature of
+Rights&rdquo;, <em>Mind</em>, 93(370): 194&ndash;214.
+doi:10.1093/mind/XCIII.370.194</li>
+
+<li>&ndash;&ndash;&ndash;, 1986, <em>The Morality of Freedom</em>, New
+York: Oxford University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, &ldquo;Is there a Reason to Keep
+Promises&rdquo;, Columbia Public Law Research Paper No. 12&ndash;320.
+ [<a href="https://scholarship.law.columbia.edu/faculty_scholarship/1766" target="other">Raz 2012 available online</a>]</li>
+ 
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;Is There a Reason to Keep a
+Promise?&rdquo;, in <em>Philosophical Foundations of Contract
+Law</em>, Gregory Klass, George Letsas, and Prince Saprai (eds.),
+Oxford: Oxford University Press, pp.58&ndash;77 (ch. 4).</li>
+
+<li>Reid, Thomas, 1788 [2010], <em>Essays on the Active Powers of
+Man</em>. Reprinted in volume 7 of the <em>Edinburgh Edition of Thomas
+Reid</em>, Knud Haakonssen and James A. Harris (eds.), Edinburgh:
+Edinburgh University Press.</li>
+
+<li>Robins, Michael H., 1976, &ldquo;The Primacy of Promising&rdquo;,
+<em>Mind</em>, 85(339): 321&ndash;340.
+doi:10.1093/mind/LXXXV.339.321</li>
+
+<li>&ndash;&ndash;&ndash;, 1984, <em>Promising, Intending, and Moral
+Autonomy</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Rosati, Connie, 2011, &ldquo;The Importance of
+Self-Promises&rdquo;, in Sheinman 2011: 125&ndash;155 (ch. 5).</li>
+
+<li>Ross, W. David, 1930, <em>The Right and the Good</em>, Oxford:
+Clarendon Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1939, <em>Foundations of Ethics: the
+Gifford Lectures Delivered in the University of Aberdeen, 1935</em>,
+Oxford: Clarendon Press.</li>
+
+<li>Roth, Abraham Sesshu, 2016, &ldquo;Intention, Expectation, and
+Promissory Obligation&rdquo;, <em>Ethics</em>, 127(1): 88&ndash;115.
+doi:10.1086/687333</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, &ldquo;Directed Duty, Practical
+Intimacy, and Legal Wronging&rdquo;, in <em>Collective Action,
+Philosophy and Law</em>, Teresa Marques and Chiara Valentini (eds.),
+New York: Routledge, pp. 152&ndash;174.</li>
+
+<li>Roum&eacute;as, &Eacute;lise, 2021, &ldquo;The Procedural Value of
+Compromise&rdquo;, <em>Social Theory and Practice</em>, 47(2):
+377&ndash;396. doi:10.5840/soctheorpract2021419126</li>
+
+<li>Salgueiro, Antonio Blanco, 2010, &ldquo;Promises, Threats, and the
+Foundations of Speech Act Theory&rdquo;, <em>Pragmatics</em>, 20(2):
+213&ndash;228. doi:10.1075/prag.20.2.05bla</li>
+
+<li>Saprai, P,&nbsp;2013,&nbsp;&ldquo;The penalties rule and the
+promise theory of contract&rdquo;,&nbsp;<em>Canadian Journal of Law
+&amp; Jurisprudence</em>,&nbsp;26(2): 443&ndash;469.</li>
+
+<li>Scanlon, Thomas, 1990, &ldquo;Promises and Practices&rdquo;,
+<em>Philosophy &amp; Public Affairs</em>, 19(3): 199&ndash;226.</li>
+
+<li>&ndash;&ndash;&ndash;, 1998, <em>What We Owe To Each Other</em>,
+Cambridge, MA: Harvard University Press.</li>
+
+<li>Schaab, Janis David, 2021, &ldquo;On the Supposed Incoherence of
+Obligations to Oneself&rdquo;, <em>Australasian Journal of
+Philosophy</em>, 99(1): 175&ndash;189.
+doi:10.1080/00048402.2020.1714677</li>
+
+<li>Schofield, Paul, 2014, &ldquo;Stephen Darwall, &lsquo;Morality,
+Authority, and Law: Essays in Second-Personal Ethics I&rsquo;&rdquo;,
+<em>Philosophy in Review</em>, 34(6): 296&ndash;299.</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, <em>Duty to Self: Moral, Political,
+and Legal Self-Relation</em>, New York: Oxford University Press.
+doi:10.1093/oso/9780190941758.001.0001</li>
+
+<li>Sciaraffa, Stefan, 2009, &ldquo;On Content-Independent Reasons:
+It&rsquo;s Not in the Name&rdquo;, <em>Law and Philosophy</em>, 28(3):
+233&ndash;260. doi:10.1007/s10982-008-9037-7</li>
+
+<li>Searle, John R., 1963, <em>Speech Acts</em>, Cambridge, MA:
+Harvard University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1964, &ldquo;How to Derive
+&lsquo;Ought&rsquo; From &lsquo;Is&rsquo;&rdquo;, <em>Philosophical
+Review</em>, 73(1): 43&ndash;58. doi:10.2307/2183201</li>
+
+<li>&ndash;&ndash;&ndash;,&nbsp;1965, &ldquo;What is a speech
+act?&rdquo;,&nbsp;in&nbsp;<em>Perspectives in the philosophy of
+language: a concise anthology</em>,Stainton, R. J. (ed.), Broadview
+Press, 253&ndash;268.</li>
+
+<li>&ndash;&ndash;&ndash;, 1979, <em>Expression and Meaning: Studies
+in the Theory of Speech Acts</em>, Cambridge: Cambridge University
+Press. doi:10.1017/CBO9780511609213</li>
+
+<li>Searle, J. R., Kiefer, F., &amp; Bierwisch, M.
+(eds.),&nbsp;1980,&nbsp;<em>Speech Act Theory and
+Pragmatics</em>&nbsp;(Vol. 10), Dordrecht: D. Reidel.</li>
+
+<li>Searle, John R. and Daniel Vanderveken, 1985, <em>Foundations of
+Illocutionary Logic</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Sharadin, Nathaniel, 2018, &ldquo;Two Problems for Accepting as
+Intending&rdquo;, <em>Ethics</em>, 128(3): 626&ndash;641.
+doi:10.1086/695991</li>
+
+<li>Shaver, Robert, 2019, &ldquo;Promissory Obligation: A Sidgwickian
+View&rdquo;, <em>History of Philosophy Quarterly</em>, 36(2):
+181&ndash;197. doi:10.2307/48563643</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;Promises as Invitations to
+Trust&rdquo;, <em>Philosophical Studies</em>, 177(6): 1515&ndash;1522.
+doi:10.1007/s11098-019-01271-7</li>
+
+<li>Sheehy, Paul, 2002, &ldquo;On Plural Subject Theory&rdquo;,
+<em>Journal of Social Philosophy</em>, 33(3): 377&ndash;394.
+doi:10.1111/0047-2786.00148</li>
+
+<li>Sheinman, Hanoch (ed.), 2011, <em>Promises and Agreements:
+Philosophical Essays</em>, Oxford/New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780195377958.001.0001</li>
+
+<li>Shiffrin, Seana Valentine, 2007, &ldquo;The Divergence of Contract
+and Promise&rdquo;, <em>Harvard Law Review</em>, 120(3):
+709&ndash;749.</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, &ldquo;Promising, Intimate
+Relationships, and Conventionalism&rdquo;, <em>Philosophical
+Review</em>, 117(4): 481&ndash;524. doi:10.1215/00318108-2008-014</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Immoral, Conflicting, and
+Redundant Promises&rdquo;, in <em>Reasons and Recognition: Essays on
+the Philosophy of T.M. Scanlon</em>, R. Jay Wallace, Rahul Kumar, and
+Samuel Freeman (eds.), New York: Oxford University Press, pp.
+155&ndash;171, (ch. 7).</li>
+
+<li>&ndash;&ndash;&ndash;, 2012a, &ldquo;Are Contracts
+Promises?&rdquo; in <em>The Routledge Companion to the Philosophy of
+Law</em>, London: Routledge, pp. 241&ndash;258 (ch. 16).</li>
+
+<li>&ndash;&ndash;&ndash;,
+2012b,&nbsp;&ldquo;Promise?&rdquo;&nbsp;<em>The Routledge Companion to
+Philosophy of Law</em>, 241.</li>
+
+<li>Shockley, K, 2008, &ldquo;On that peculiar practice of
+promising&rdquo;,&nbsp;<em>Philosophical Studies</em>,&nbsp;140(3):
+385&ndash;399.</li>
+
+<li>Sidgwick, Henry, 1874 [1962], <em>The Methods of Ethics</em>,
+London: Macmillan. Seventh edition, reissued, Chicago: University of
+Chicago Press.</li>
+
+<li>Simpson, A. W. Brian, 1975, <em>A History of the Common Law of
+Contract: The Rise of the Action of Assumpsit</em>, Oxford: Clarendon
+Press.</li>
+
+<li>Singer, Peter, 1972, &ldquo;Is Act-Utilitarianism
+Self-Defeating?&rdquo;, <em>Philosophical Review</em>, 81(1):
+94&ndash;104. doi:10.2307/2184228</li>
+
+<li>Sinnott-Armstrong, W., 2009,&nbsp;&ldquo;How strong is this
+obligation? An argument for consequentialism from concomitant
+variation&rdquo;,&nbsp;<em>Analysis</em>,&nbsp;69(3):&nbsp;438&ndash;442.</li>
+
+<li>Skyrms, Brian, 1996, <em>Evolution of the Social Contract</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>Smith, Holly M., 1997, &ldquo;A Paradox of Promising&rdquo;,
+<em>Philosophical Review</em>, 106(2): 153&ndash;196.
+doi:10.2307/2998356</li>
+
+<li>Smith, Michael, 1994, <em>The Moral Problem</em>, Oxford:
+Blackwell.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;The Value of Making and
+Keeping Promises&rdquo;, in Sheinman 2011: 198&ndash;215 (ch. 8).</li>
+
+<li>Sobel, David and Steven Wall (eds.), 2009, <em>Reasons for
+Action</em>, Cambridge: Cambridge University Press.
+doi:10.1017/CBO9780511720185</li>
+
+<li>Stafford, Kim, 1978, &ldquo;Promises to the Dead&rdquo;,
+<em>Northwest Review</em>, 17(1): 29.</li>
+
+<li>Stair, 1st Viscount (James Dalrymple), 1681/1693 [1981],
+<em>Institutions of the Law of Scotland</em>, Edinburgh: Anderson.
+Second edition, 1693. Revised edition, David M. Walker (ed.),
+Edinburgh: University Presses.</li>
+
+<li>Swain, Warren, 2013, &ldquo;Contract as Promise: The Role of
+Promising in the Law of Contract. An Historical Account&rdquo;,
+<em>Edinburgh Law Review</em>, 17(1): 1&ndash;21.
+doi:10.3366/elr.2013.0136</li>
+
+<li>Tadros, Victor, 2020, &ldquo;Appropriate Normative Powers&rdquo;,
+<em>Aristotelian Society Supplementary Volume</em>, 94: 301&ndash;326.
+doi:10.1093/arisup/akaa009</li>
+
+<li>Taylor, Erin, 2013, &ldquo;A New Conventionalist Theory of
+Promising&rdquo;, <em>Australasian Journal of Philosophy</em>, 91(4):
+667&ndash;682. doi:10.1080/00048402.2013.768278</li>
+
+<li>Taylor, James Stacey, 2021, &ldquo;Promises to the Dead&rdquo;,
+<em>Royal Institute of Philosophy Supplement</em>, 90: 81&ndash;103.
+doi:10.1017/S1358246121000242</li>
+
+<li>Thomson, Judith Jarvis, 1990, <em>The Realm of Rights</em>,
+Cambridge, MA: Harvard University Press.</li>
+
+<li>Tsevreni, Magdalini, 2018, &ldquo;The Concept of Promise and
+Contract Theory&rdquo;, in <em>Proceedings of the XXIII World Congress
+of Philosophy</em>, Athens: Greek Philosophical Society,
+405&ndash;409. doi:10.5840/wcp232018691592</li>
+
+<li>Urmson, J. O., 1953, &ldquo;The Interpretation of the Moral
+Philosophy of J. S. Mill&rdquo;, <em>The Philosophical Quarterly</em>,
+3(10): 33&ndash;39. doi:10.2307/2216697</li>
+
+<li>van Roojen, Mark,&nbsp;2013,&nbsp;&ldquo;Scanlon&rsquo;s Promising
+Proposal and the Right Kind of Reasons to
+Believe&rdquo;,&nbsp;<em>Oxford Studies in Normative
+Ethics</em>&nbsp;3: 59&ndash;78.</li>
+
+<li>&ndash;&ndash;&ndash;, 2020, &ldquo;Promising and
+Assertion&rdquo;, <em>The Oxford Handbook of Assertion</em>, Sanford
+Goldberg (ed.), Oxford: Oxford University Press, pp.
+179&ndash;201.</li>
+
+<li>Verbeek, Bruno, 2002, <em>Instrumental Rationality and Moral
+Philosophy: An Essay on the Virtues of Cooperation</em>, (Theory and
+Decision Library 33), Dordrecht/Boston: Kluwer Academic Publishers.
+doi:10.1007/978-94-015-9982-5</li>
+
+<li>Vitek, William, 1993, <em>Promising</em>, Philadelphia, PA: Temple
+University Press.</li>
+
+<li>Wall, Edmund, 2009, &ldquo;Hooker&rsquo;s Consequentialism and the
+Depth of Moral Experience&rdquo;, <em>Dialogue</em>, 48(2):
+337&ndash;351. doi:10.1017/S0012217309090283</li>
+
+<li>Warnock, G. J., 1971, <em>The Object of Morality</em>, London:
+Methuen.</li>
+
+<li>Watson, Gary, 2004, &ldquo;Asserting and Promising&rdquo;,
+<em>Philosophical Studies</em>, 117(1/2): 57&ndash;77.
+doi:10.1023/B:PHIL.0000014525.93335.9e</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Morality as Equal
+Accountability: Comments on Stephen Darwall&rsquo;s <em>The
+Second&#8208;Person Standpoint</em>&rdquo;, <em>Ethics</em>, 118(1):
+37&ndash;51. doi:10.1086/522017</li>
+
+<li>&ndash;&ndash;&ndash;, 2009, &ldquo;Promises, Reasons, and
+Normative Powers&rdquo;, in Sobel and Wall 2009: 155&ndash;178.
+doi:10.1017/CBO9780511720185.008</li>
+
+<li>Westlund, A. C., 2013&nbsp;&ldquo;Deference as a normative
+power&rdquo;&nbsp;<em>Philosophical
+studies</em>,&nbsp;166(3):&nbsp;455&ndash;474.</li>
+
+<li>&ndash;&ndash;&ndash;, 2018,&nbsp;&ldquo;Relational autonomy and
+practical authority&rdquo;,&nbsp;<em>The Bloomsbury Companion to
+Analytic Feminism</em>, 375&ndash;393.</li>
+
+<li>Weiss, Jonathan A., 2003, &ldquo;Why Keep Promises to the Dead If
+There Is No Afterlife&rdquo;, <em>Quaderni Di Diritto e Politica
+Ecclesiastica</em>, 11(3): 643&ndash;649. doi:10.1440/12300</li>
+
+<li>Woods, Jack, 2016, &ldquo;The Normative Force of Promising&rdquo;,
+in <em>Oxford Studies in Normative Ethics, Volume 6</em>, Mark Timmons
+(ed.), Oxford: Oxford University Press, pp. 77&ndash;101 (ch. 4).</li>
+
+<li>Zemach, Eddy M., 1971, &ldquo;Ought, Is, and a Game Called
+&lsquo;Promise&rsquo;&rdquo;, <em>The Philosophical Quarterly</em>,
+21(82): 61&ndash;63. doi:10.2307/2217570</li>
+
+<li>Zylberman, Ariel, 2014, &ldquo;The Very Thought of (Wronging)
+You&rdquo;, <em>Philosophical Topics</em>, 42(1): 153&ndash;175.
+doi:10.5840/philtopics20144217</li>
+</ul>
+</div> 
+
+<div id="academic-tools">
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=promises" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/promises/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=promises&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/promises/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<p>
+[Please contact the author with suggestions.]</p>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../aquinas-moral-political/">Aquinas, Thomas: moral, political, and legal philosophy</a> |
+ <a href="../contractarianism/">contractarianism</a> |
+ <a href="../contract-law/">contract law, philosophy of</a> |
+ <a href="../contractualism/">contractualism</a> |
+ <a href="../convention/">convention</a> |
+ <a href="../natural-law-ethics/">ethics: natural law tradition</a> |
+ <a href="../game-theory/">game theory</a> |
+ <a href="../hobbes-moral/">Hobbes, Thomas: moral and political philosophy</a> |
+ <a href="../rawls/">Rawls, John</a> |
+ <a href="../reasoning-moral/">reasoning: moral</a> |
+ <a href="../school-salamanca/">School of Salamanca</a> |
+ <a href="../sidgwick/">Sidgwick, Henry</a> |
+ <a href="../contractarianism-contemporary/">social contract: contemporary approaches to</a> |
+ <a href="../speech-acts/">speech acts</a>
+
+</p>
+</div> 
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+Allen Habib
+&lt;<a href="m&#97;ilto:anhabib&#37;40ucalgary&#37;2eca"><em>anhabib<abbr title=" at ">&#64;</abbr>ucalgary<abbr title=" dot ">&#46;</abbr>ca</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

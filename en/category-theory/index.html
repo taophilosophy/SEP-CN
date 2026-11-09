@@ -1,0 +1,2903 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Category Theory (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Category Theory" />
+<meta name="citation_author" content="Marquis, Jean-Pierre" />
+<meta name="citation_publication_date" content="1996/12/06" />
+<meta name="DC.title" content="Category Theory" />
+<meta name="DC.creator" content="Marquis, Jean-Pierre" />
+<meta name="DCTERMS.issued" content="1996-12-06" />
+<meta name="DCTERMS.modified" content="2019-08-29" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/category-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=category-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Category Theory</h1><div id="pubinfo"><em>First published Fri Dec 6, 1996; substantive revision Thu Aug 29, 2019</em></div>
+
+<div id="preamble">
+
+<p>
+
+Category theory has come to occupy a central position in contemporary
+mathematics and theoretical computer science, and is also applied to
+mathematical physics. Roughly, it is a general mathematical theory of
+structures and of systems of structures. As category theory is still
+evolving, its functions are correspondingly developing, expanding and
+multiplying. At minimum, it is a powerful language, or conceptual
+framework, allowing us to see the universal components of a family of
+structures of a given kind, and how structures of different kinds are
+interrelated. Category theory is both an interesting object of
+philosophical study, and a potentially powerful formal tool for
+philosophical investigations of concepts such as space, system, and
+even truth. It can be applied to the study of logical systems in which
+case category theory is called &ldquo;categorical doctrines&rdquo; at
+the syntactic, proof-theoretic, and semantic levels. Category theory
+even leads to a different theoretical conception of set and, as such,
+to a possible alternative to the standard set theoretical foundation
+for mathematics. As such, it raises many issues about mathematical
+ontology and epistemology. Category theory thus affords philosophers
+and logicians much to use and reflect upon.
+</p>
+
+</div>
+
+<div id="toc">
+<!--Entry Contents-->
+<ul>
+<li><a href="#GeneDefiExamAppl">1. General Definitions, Examples and Applications</a>
+ <ul>
+ <li><a href="#Defi">1.1 Definitions</a></li>
+ <li><a href="#Exam">1.2 Examples</a></li>
+ <li><a href="#FundConcTheo">1.3 Fundamental Concepts of the Theory</a></li>
+ </ul></li>
+<li><a href="#BrieHistSket">2. Brief Historical Sketch</a></li>
+<li><a href="#PhilSign">3. Philosophical Significance</a></li>
+<li><a href="#Bib">Bibliography</a></li>
+<li><a href="#Aca">Academic Tools</a></li>
+<li><a href="#Oth">Other Internet Resources</a></li>
+<li><a href="#Rel">Related Entries</a></li>
+</ul>
+<!--Entry Contents-->
+
+<hr />
+
+</div>
+
+<div id="main-text">
+
+<h2 id="GeneDefiExamAppl">1. General Definitions, Examples and Applications</h2>
+
+<h3 id="Defi">1.1 Definitions</h3>
+
+<p>
+
+Categories are algebraic structures with many complementary natures,
+e.g., geometric, logical, computational, combinatorial, just as groups
+are many-faceted algebraic structures. Eilenberg &amp; Mac&thinsp;Lane
+(1945) introduced categories in a purely auxiliary fashion, as
+preparation for what they called functors and natural
+transformations. The very definition of a category evolved over time,
+according to the author&rsquo;s chosen goals and metamathematical
+framework. Eilenberg &amp; Mac&thinsp;Lane at first gave a purely
+abstract definition of a category, along the lines of the axiomatic
+definition of a group. Others, starting with Grothendieck (1957) and
+Freyd (1964), elected for reasons of practicality to define categories
+in set-theoretic terms. </p>
+
+<p>
+
+An alternative approach, that of Lawvere (1963, 1966), begins by
+characterizing the category of categories, and then stipulates that a
+category is an object of that universe. This approach, under active
+development by various mathematicians, logicians and mathematical
+physicists, lead to what are now called &ldquo;higher-dimensional
+categories&rdquo; (Baez 1997, Baez &amp; Dolan 1998a, Batanin 1998, Leinster
+2002, Hermida <em>et al</em>. 2000, 2001, 2002). The very definition
+of a category is not without philosophical importance, since one of
+the objections to category theory as a foundational framework is the
+claim that since categories are <em>defined</em> as sets, category
+theory cannot provide a philosophically enlightening foundation for
+mathematics. We will briefly go over some of these definitions,
+starting with Eilenberg&rsquo;s &amp; Mac&thinsp;Lane&rsquo;s (1945) algebraic
+definition. However, before going any further, the following
+definition will be required.</p>
+
+<div class="indent">
+
+<p><strong>Definition</strong>: A mapping \(e\) will be called an
+<em>identity</em> if and only if the existence of any product
+\(e\alpha\) or \(\beta e\) implies that \(e\alpha = \alpha\) and
+\(\beta e = \beta\)</p>
+
+<p>
+Here is the original definition of a category.</p>
+
+<p>
+
+<strong>Definition</strong> (Eilenberg &amp; Mac&thinsp;Lane 1945): A
+category \(\mathbf{C}\) is an aggregate \(\mathbf{Ob}\) of
+abstract elements, called the <em>objects</em> of \(\mathbf{C}\),
+and abstract elements <b>Map</b>, called <em>mappings</em> of
+the category. The mappings are subject to the following five
+axioms:</p>
+
+<div class="indent">
+<p>(C1) Given three mappings \(\alpha_1, \alpha_2\) and
+\(\alpha_3\), the triple product \(\alpha_3 (\alpha_2\alpha_1)\) is
+defined if and only if \((\alpha_3\alpha_2)\alpha_1\) is defined.
+When either is defined, the associative law</p>
+
+\[
+\alpha_3 (\alpha_2\alpha_1) = (\alpha_3\alpha_2)\alpha_1
+\]
+
+<p>
+
+holds. This triple product is written
+\(\alpha_3\alpha_2\alpha_1.\) </p>
+
+<p>
+
+(C2) The triple product
+\(\alpha_3\alpha_2\alpha_1\) is defined
+whenever both products \(\alpha_3\alpha_2\) and
+\(\alpha_2\alpha_1\) are defined.</p>
+
+<p>
+
+(C3) For each mapping \(\alpha\), there is at least one identity
+\(e_1\) such that \(\alpha e_1\) is
+defined, and at least one identity \(e_2\) such that
+\(e_2\alpha\) is defined.</p>
+
+<p>
+
+(C4) The mapping \(e_X\) corresponding to each object
+\(X\) is an identity.</p>
+
+<p>
+
+(C5) For each identity \(e\) there is a unique object
+\(X\) of \(\mathbf{C}\) such that \(e_X = e.\)</p>
+</div>
+</div>
+
+<p>
+
+As Eilenberg &amp; Mac&thinsp;Lane promptly remark, objects play a
+secondary role and could be entirely omitted from the definition.
+Doing so, however, would make the manipulation of the applications
+less convenient. It is practically suitable, and perhaps
+psychologically more simple to think in terms of mappings and
+objects. The term &ldquo;aggregate&rdquo; is used by Eilenberg &amp;
+Mac&thinsp;Lane themselves, presumably so as to remain neutral with
+respect to the background set theory one wants to adopt.</p>
+
+<p>
+
+Eilenberg &amp; Mac&thinsp;Lane defined categories in 1945 for reasons
+of rigor. As they note:</p>
+
+<blockquote>
+It should be observed first that the whole concept of a category is
+essentially an auxiliary one; our basic concepts are essentially those
+of a functor and of natural transformation (&hellip;). The idea of a
+category is required only by the precept that every function should
+have a definite class as domain and a definite class as range, for the
+categories are provided as the domains and ranges of functors. Thus
+one could drop the category concept altogether and adopt an even more
+intuitive standpoint, in which a functor such as &ldquo;Hom&rdquo; is
+not defined over the category of &ldquo;all&rdquo; groups, but for
+each particular pair of groups which may be given. The standpoint
+would suffice for applications, inasmuch as none of our developments
+will involve elaborate constructions on the categories
+themselves. (1945, chap. 1, par. 6, p. 247)
+</blockquote>
+
+<p>
+
+Things changed in the following ten years, when categories started
+to be used in algebraic topology and homological algebra. Mac&thinsp;Lane,
+Buchsbaum, Grothendieck and Heller were considering categories in which
+the collections of morphisms between two fixed objects have an additional
+structure. More specifically, given any two objects \(X\) and
+\(Y\) of a category \(\mathbf{C}\), the <em>set</em>
+\(\mathbf{Hom}(X, Y)\) of morphisms from
+\(X\) to \(Y\) form an abelian group. Furthermore, for
+reasons related to the ways homology and cohomology theories are
+linked, the definition of a category had to satisfy an additional
+formal property (which we will leave aside for the moment): it had to
+be self-dual. These requirements lead to the following definition.</p>
+
+<div class="indent">
+
+<strong>Definition</strong>: A category \(\mathbf{C}\) can be
+described as a set \(\mathbf{Ob}\), whose members are the objects
+of \(\mathbf{C}\), satisfying the following three conditions:
+
+<div class="indent">
+<p><em>Morphism</em>&thinsp;: For every pair \(X,
+Y\) of objects, there is a set \(\mathbf{Hom}(X,
+Y)\), called the <em>morphisms</em> from \(X\) to
+\(Y\) in \(\mathbf{C}.\) If \(\boldsymbol{f}\) is a
+morphism from \(X\) to \(Y\), we write
+\(\boldsymbol{f} : X \rightarrow Y.\) </p>
+
+<p>
+
+<em>Identity</em>&thinsp;: For every object \(X\), there exists
+a morphism \(\mathbf{id}_X\) in
+\(\mathbf{Hom}(X, X)\), called the
+<em>identity</em> on \(X.\)</p>
+
+<p>
+
+<em>Composition</em>&thinsp;: For every triple \(X,
+Y\) and \(Z\) of objects, there exists a partial binary
+operation from \(\mathbf{Hom}(X, Y) \times \mathbf{Hom}(Y, Z)\) to
+\(\mathbf{Hom}(X, Z)\), called the composition of
+morphisms in \(\mathbf{C}.\) If
+\(\boldsymbol{f}: X \rightarrow Y\) and
+\(\boldsymbol{g}: Y \rightarrow Z\), the
+composition of \(f\) and \(g\) is notated
+\((\boldsymbol{g} \circ \boldsymbol{f}): X \rightarrow Z.\)</p>
+ </div>
+
+<p>
+
+Identity, morphisms, and composition satisfy two axioms:</p>
+
+<div class="indent">
+
+<em>Associativity</em>&thinsp;: If
+\(\boldsymbol{f}: X \rightarrow Y,
+\boldsymbol{g}: Y \rightarrow Z\) and
+\(\boldsymbol{h}: Z \rightarrow W\), then
+\(\boldsymbol{h} \circ 
+ (\boldsymbol{g} \circ \boldsymbol{f})
+= (\boldsymbol{h} \circ \boldsymbol{g})
+ \circ \boldsymbol{f}.\)
+
+<p>
+
+<em>Identity</em>&thinsp;: If \(\boldsymbol{f}:
+X \rightarrow Y\), then \((\mathbf{id}_Y \circ \mathbf{f}) = \boldsymbol{f}\) and
+\((\boldsymbol{f} \circ \id_X) = \boldsymbol{f}.\)</p>
+</div>
+</div>
+
+<p>
+
+This is the definition one finds in most textbooks of category
+theory. As such it explicitly relies on a set theoretical background
+and language. An alternative, suggested by Lawvere in the early
+sixties, is to develop an adequate language and background framework
+for a category of categories. We will not present the formal framework
+here, for it would take us too far from our main concern, but the
+basic idea is to define what are called weak \(n\)-categories
+(and weak \(\omega\)-categories), and what had been called categories
+would then be called weak 1-categories (and sets would be weak
+0-categories). (See, for instance, Baez 1997, Makkai 1998, Leinster
+2004, Baez &amp; May 2010, Simpson 2011.)</p>
+
+<p>
+
+Also in the sixties, Lambek proposed to look at categories as
+deductive systems. This begins with the notion of a <em>graph</em>,
+consisting of two classes <em>Arrows</em> and <em>Objects</em>, and
+two mappings between them, \(\boldsymbol{s}: \Arrows \rightarrow
+\Objects\) and \(\boldsymbol{t}: \Arrows \rightarrow \Objects\),
+namely the source and the target mappings. The arrows are usually
+called the &ldquo;oriented edges&rdquo; and the objects
+&ldquo;nodes&rdquo; or &ldquo;vertices&rdquo;. Following this,
+a <em>deductive system</em> is a graph with a specified arrow:</p>
+
+<p class="indent">(R1) \(\mathbf{id}_X : X \rightarrow X\),</p>
+
+<p>
+
+and a binary operation on arrows: </p>
+
+<p class="indent">(R2) Given \(\boldsymbol{f}: X \rightarrow Y\) and \(\boldsymbol{g}: Y \rightarrow Z\), the composition of \(\boldsymbol{f}\) and
+\(\boldsymbol{g}\) is \((\boldsymbol{g} \circ \boldsymbol{f}): X \rightarrow Z.\)</p>
+
+<p>
+
+Of course, the objects of a deductive system are normally thought of
+as <em>formulas</em>, the arrows are thought of as <em>proofs</em> or
+<em>deductions</em>, and operations on arrows are thought of as
+<em>rules of inference</em>. A <em>category</em> is then defined
+thus:</p>
+
+<div class="indent">
+<p>
+<strong>Definition</strong> (Lambek): A <em>category</em> is a
+deductive system in which the following equations hold between proofs:
+for all \(\boldsymbol{f}: X \rightarrow Y, \boldsymbol{g}: Y \rightarrow Z\) and
+\(\boldsymbol{h}: Z \rightarrow W\),</p>
+
+<p>(E1) \(\boldsymbol{f} \circ \id_X = \boldsymbol{f}\), &emsp; \(\mathbf{id}_Y \circ \boldsymbol{f} = \boldsymbol{f}\), &emsp; \(\boldsymbol{h} \circ 
+ (\boldsymbol{g} \circ \boldsymbol{f}) = (\boldsymbol{h} \circ \boldsymbol{g})
+ \circ \boldsymbol{f}.\)</p>
+
+</div>
+
+<p>
+
+Thus, by imposing an adequate equivalence relation upon proofs, any
+deductive system can be turned into a category. It is therefore
+legitimate to think of a category as an algebraic encoding of a
+deductive system. This phenomenon is already well-known to logicians,
+but probably not to its fullest extent. An example of such an
+algebraic encoding is the Lindenbaum-Tarski algebra, a Boolean algebra
+corresponding to classical propositional logic. Since a Boolean
+algebra is a poset, it is also a category. (Notice also that Boolean
+algebras with appropriate homomorphisms between them form another
+useful category in logic.) Thus far we have merely a change of
+vocabulary. Things become more interesting when first-order and
+higher-order logics are considered. The Lindenbaum-Tarski algebra for
+these systems, when properly carried out, yields categories, sometimes
+called &ldquo;conceptual categories&rdquo; or &ldquo;syntactic categories&rdquo;
+(Mac&thinsp;Lane &amp; Moerdijk 1992, Makkai &amp; Reyes 1977, Pitts
+2000).</p>
+
+<h3 id="Exam">1.2 Examples</h3>
+
+<p>
+
+Almost every known example of a mathematical structure with the
+appropriate structure-preserving map yields a category. </p>
+
+<ol>
+<li>The category <em>Set</em> with objects sets and morphisms the usual
+functions. There are variants here: one can consider partial functions
+instead, or injective functions or again surjective functions. In each
+case, the category thus constructed is different.</li>
+
+<li>The category <em>Top</em> with objects topological spaces and
+morphisms continuous functions. Again, one could restrict morphisms to
+<em>open</em> continuous functions and obtain a different
+category.</li>
+
+<li>The category <em>hoTop</em> with objects topological spaces and
+morphisms equivalence classes of homotopic functions. This category is
+not only important in mathematical practice, it is at the core of
+algebraic topology, but it is also a fundamental example of a category
+in which morphisms are <em>not</em> structure preserving
+functions.</li>
+
+<li>The category <em>Vec</em> with objects vector spaces and morphisms
+linear maps.</li>
+
+<li>The category <em>Diff</em> with objects differential manifolds and
+morphisms smooth maps.</li>
+
+<li>The categories <em>Pord</em> and <em>PoSet</em> with objects
+preorders and posets, respectively, and morphisms monotone
+functions.</li>
+
+<li>The categories <em>Lat</em> and <em>Bool</em> with objects lattices
+and Boolean algebras, respectively, and morphisms structure preserving
+homomorphisms, i.e., \((\top , \bot , \wedge , \vee)\) homomorphisms.</li>
+
+<li>The category <em>Heyt</em> with objects Heyting algebras and
+ \((\top , \bot , \wedge , \vee , \rightarrow)\) homomorphisms.</li>
+
+<li>The category <em>Mon</em> with objects monoids and morphisms monoid
+homomorphisms.</li>
+
+<li>The category <em>AbGrp</em> with objects abelian groups and
+morphisms group homomorphisms, i.e. \((1, \times, (-)^{-1})\) homomorphisms.</li>
+
+<li>The category <em>Grp</em> with objects groups and morphisms group
+homomorphisms, i.e. \((1, \times, (-)^{-1})\) homomorphisms.</li>
+
+<li>The category <em>Rings</em> with objects rings (with unit) and
+morphisms ring homomorphisms, i.e. \((0, 1, +, \times)\)
+homomorphisms.</li>
+
+<li>The category <em>Fields</em> with objects fields and morphisms
+fields homomorphisms, i.e. \((0, 1, +, \times)\) homomorphisms.</li>
+
+<li>Any deductive system \(T\) with objects formulae and morphisms
+proofs.</li>
+</ol>
+
+<p>
+
+These examples nicely illustrates how category theory treats the
+notion of structure in a uniform manner. Note that a category is
+characterized by its morphisms, and not by its objects. Thus the
+category of topological spaces with open maps differs from the
+category of topological spaces with continuous maps &mdash; or, more
+to the point, the categorical properties of the latter differ from
+those of the former.</p>
+
+<p>
+
+We should underline again the fact that not all categories are made
+of structured sets with structure-preserving maps. Thus any preordered
+set is a category. For given two elements \(p, q\) of a
+preordered set, there is a morphism
+\(\boldsymbol{f}: p \rightarrow q\) if and only if
+\(p \le q.\) Hence a preordered set is a category in which there
+is at most one morphism between any two objects. Any monoid (and thus
+any group) can be seen as a category: in this case the category has
+only one object, and its morphisms are the elements of the monoid.
+Composition of morphisms corresponds to multiplication of monoid
+elements. That the monoid axioms correspond to the category axioms is
+easily verified.</p>
+
+<p>
+
+Hence the notion of category generalizes those of preorder and
+monoid. We should also point out that a groupoid has a very simple
+definition in a categorical context: it is a category in which every
+morphism is an isomorphism, that is for any morphism
+\(\boldsymbol{f}: X \rightarrow Y\),
+there is a morphism \(\boldsymbol{g}: Y \rightarrow X\) such that
+\(\boldsymbol{f} \circ \boldsymbol{g} = \mathbf{id}_Y\) and
+\(\boldsymbol{g} \circ \boldsymbol{f} = \mathbf{id}_X.\)</p>
+
+<h3 id="FundConcTheo">1.3 Fundamental Concepts of the Theory</h3>
+
+<p>
+
+Category theory unifies mathematical structures in two different ways.
+First, as we have seen, almost every set theoretically defined
+mathematical structure with the appropriate notion of homomorphism
+yields a category. This is a unification provided <em>within</em> a set
+theoretical environment. Second, and perhaps even more important, once
+a type of structure has been defined, it is imperative to determine how
+new structures can be constructed out of the given one. For instance,
+given two sets \(A\) and \(B\), set theory allows us to
+construct their Cartesian product \(A \times B.\) It is also
+imperative to determine how given structures can be decomposed into
+more elementary substructures. For example, given a finite Abelian
+group, how can it be decomposed into a product of certain of its
+subgroups? In both cases, it is necessary to know how structures of a
+certain kind may combine. The nature of these combinations might appear
+to be considerably different when looked at from a purely set
+theoretical perspective. </p>
+
+<p>
+
+Category theory reveals that many of these constructions are in fact
+certain objects in a category having a &ldquo;universal property&rdquo;. Indeed,
+from a categorical point of view, a Cartesian product in set theory, a
+direct product of groups (Abelian or otherwise), a product of
+topological spaces, and a conjunction of propositions in a deductive
+system are all instances of a categorical product characterized by a
+universal property. Formally, a <em>product</em> of two objects
+\(X\) and \(Y\) in a category \(\mathbf{C}\) is an object
+\(Z\) of \(\mathbf{C}\) <em>together</em> with two morphisms,
+called the projections, \(\boldsymbol{p}: Z \rightarrow X\) and 
+\(\boldsymbol{q}: Z \rightarrow Y\)
+such that&mdash;and this is the universal property&mdash;for all
+objects \(W\) with morphisms \(\boldsymbol{f}: W \rightarrow X\)
+and \(\boldsymbol{g}: W \rightarrow Y\),
+there is a unique morphism
+\(\boldsymbol{h}: W \rightarrow Z\) such that
+\(\boldsymbol{p} \circ \boldsymbol{h} = \boldsymbol{f}\) and \(\boldsymbol{q} \circ \boldsymbol{h} = \boldsymbol{g}.\)</p>
+
+<p>
+
+Note that we have defined \(a\) product for \(X\) and
+\(Y\) and not <em>the</em> product for \(X\) and \(Y.\)
+Indeed, products and other objects with a universal property are
+defined only up to a (unique) isomorphism. Thus in category theory,
+the nature of the elements constituting a certain construction is
+irrelevant. What matters is the way an object is related to the other
+objects of the category, that is, the morphisms going in and the
+morphisms going out, or, put differently, how certain structures can
+be mapped into a given object and how a given object can map its
+structure into other structures of the same kind.</p>
+
+<p>
+
+Category theory reveals how different kinds of structures are
+related to one another. For instance, in algebraic topology,
+topological spaces are related to groups (and modules, rings, etc.) in
+various ways (such as homology, cohomology, homotopy, K-theory). As noted
+above, groups with group homomorphisms constitute a category. Eilenberg
+&amp; Mac&thinsp;Lane invented category theory precisely in order to
+clarify and compare these connections. What matters are the morphisms
+between categories, given by functors. Informally, functors are
+structure-preserving maps between categories. Given two categories
+\(\mathbf{C}\) and \(\mathbf{D}\), a functor \(F\) from
+\(\mathbf{C}\) to \(\mathbf{D}\) sends objects of
+\(\mathbf{C}\) to objects of \(\mathbf{D}\), and morphisms of
+\(\mathbf{C}\) to morphisms of \(\mathbf{D}\), in such a way
+that composition of morphisms in \(\mathbf{C}\) is preserved, i.e.,
+\(F(\boldsymbol{g} \circ \boldsymbol{f}) = F(\boldsymbol{g})
+ \circ F(\boldsymbol{f})\),
+and identity morphisms are preserved, i.e.,
+\(F(\mathbf{id}_X ) = \mathbf{id}_{FX}.\) It immediately follows that
+a functor preserves commutativity of diagrams between categories.
+Homology, cohomology, homotopy, K-theory are all example of
+functors.</p>
+
+<p>
+
+A more direct example is provided by the power set operation, which
+yields two functors on the category of sets, depending on how one
+defines its action on functions. Thus given a set \(X,
+\wp(X)\) is the usual set of subsets of \(X\), and
+given a function \(\boldsymbol{f}: X \rightarrow Y, \wp(\boldsymbol{f}):
+\wp(X) \rightarrow \wp(Y)\) takes a subset
+\(A\) of \(X\) and maps it to \(B = \boldsymbol{f}(A)\), the image of
+\(\boldsymbol{f}\) restricted to \(A\) in \(X.\) It
+is easily verified that this defines a functor from the category of
+sets into itself.</p>
+
+<p>
+
+In general, there are many functors between two given categories, and
+the question of how they are connected suggests itself. For instance, given a
+category \(\mathbf{C}\), there is always the identity functor from
+\(\mathbf{C}\) to \(\mathbf{C}\) which sends every
+object/morphism of \(\mathbf{C}\) to itself. In particular, there
+is the identity functor over the category of sets.</p>
+
+<p>
+
+Now, the identity functor is related in a natural manner to the power set functor
+described above. Indeed, given a set \(X\) and
+its power set \(\wp(X)\), there is a function
+\(\mathbf{h}_X\) which takes an element
+\(x\) of \(X\) and sends it to the singleton set \(\{x\}\),
+a subset of \(X\), i.e., an element of \(\wp(X).\) This
+function in fact belongs to a family of functions indexed by the
+objects of the category of sets
+\(\{\mathbf{h}_Y : Y \rightarrow \wp(X)| Y \text{ in } \mathbf{Ob(Set)}\}.\)
+Moreover, it satisfies the following commutativity condition: given any
+function \(\boldsymbol{f}: X \rightarrow Y\), the
+identity functor yields the same function
+\(\boldsymbol{Id}(\boldsymbol{f}):
+\boldsymbol{Id}(X) \rightarrow \boldsymbol{Id}(Y).\) The commutativity condition
+thus becomes: \(\mathbf{h}_Y \circ \boldsymbol{Id}(\boldsymbol{f}) = \wp(\boldsymbol{f})
+ \circ \mathbf{h}_X.\)
+Thus the family of functions \(\boldsymbol{h}({\text{-}})\) relates the
+two functors in a natural manner. Such families of morphisms are called
+<em>natural transformations</em> between functors. Similarly, natural
+transformations between models of a theory yield the usual
+homomorphisms of structures in the traditional set theoretical
+framework.</p>
+
+<p>
+
+The above notions, while important, are not fundamental to category
+<em>theory</em>. The latter heading arguably include the notions of
+limit/colimit; in turn, these are special cases of what is certainly
+the cornerstone of category theory, the concept of adjoint functors,
+first defined by Daniel Kan in 1956 and published in 1958.</p>
+
+<p>
+
+Adjoint functors can be thought of as being conceptual inverses.
+This is probably best illustrated by an example. Let
+\(U: \mathbf{Grp} \rightarrow \mathbf{Set}\)
+be the forgetful functor, that is, the functor that sends to each
+group \(G\) its underlying set of
+elements \(U(G)\), and to a group
+homomorphism \(\boldsymbol{f}: G \rightarrow H\) the underlying set function
+\(U(\boldsymbol{f}): U(G) \rightarrow U(H).\) In other words, \(U\) forgets about the
+group structure and forgets the fact that morphisms are group
+homomorphisms. The categories \(\mathbf{Grp}\) and
+\(\mathbf{Set}\) are certainly not isomorphic, as categories, to
+one another. (A simple argument runs as follows: the category
+\(\mathbf{Grp}\) has a zero object, whereas \(\mathbf{Set}\)
+does not.) Thus, we certainly cannot find an inverse, in the usual
+algebraic sense, to the functor \(U.\) But there are many
+non-isomorphic ways to define a group structure on a given set
+\(X\), and one might hope that among these constructions at least
+one is functorial and systematically related to the functor \(U.\)
+What is the conceptual inverse to the operation of forgetting all the
+group theoretical structure and obtaining a set? It is to construct a
+group from a set solely on the basis of the concept of group and
+nothing else, i.e., with no extraneous relation or data. Such a group is
+constructed &ldquo;freely&rdquo;; that is, with no restriction whatsoever except
+those imposed by the axioms of the theory. In other words, all that is
+remembered in the process of constructing a group from a given set is
+the fact that the resulting construction has to be a group. Such a
+construction exists; it is functorial and it yields what are called
+<em>free groups</em>. In other words, there is a functor
+\(F: \mathbf{Set} \rightarrow \mathbf{Grp}\),
+which to any set \(X\) assigns the free group
+\(F(X)\) on \(X\), and to each function
+\(\boldsymbol{f}: X \rightarrow Y\), the group
+homomorphism \(F(\boldsymbol{f}): F(X) \rightarrow F(Y)\), defined in the
+obvious manner. The situation can be described thusly: we have two
+conceptual contexts, a group theoretical context and a set theoretical
+context, and two functors moving systematically from one context to the
+other in opposite directions. One of these functors is elementary,
+namely the forgetful functor \(U.\) It is apparently trivial and
+uninformative. The other functor is mathematically significant and
+important. The surprising fact is that \(F\) is related to
+\(U\) by a simple rule and, in some sense, it arises from
+\(U.\) One of the striking features of adjoint situations is
+precisely the fact that fundamental mathematical and logical
+constructions arise out of given and often elementary functors.</p>
+
+<p>
+
+The fact that \(U\) and \(F\) are conceptual inverses
+expresses itself formally as follows: applying \(F\) first and
+then \(U\) does not yield the original set \(X\), but there
+is a fundamental relationship between \(X\) and
+\(UF(X).\) Indeed, there is a function \(\eta\):
+\(X \rightarrow UF(X)\), called the <em>unit of the
+adjunction</em>, that simply sends each element of \(X\) to itself
+in \(UF(X)\) and this function satisfies the following
+universal property: given any function
+\(\boldsymbol{g}: X \rightarrow U(G)\), there is a unique <em>group homomorphism</em>
+\(\boldsymbol{h}: F(X) \rightarrow G\) such that \(U(\boldsymbol{h})
+ \circ \eta = \boldsymbol{g}.\) In other words, \(UF(X)\) is
+the best possible solution to the problem of inserting elements of
+\(X\) into a group (what is called &ldquo;insertion of generators&rdquo; in
+the mathematical jargon). Composing \(U\) and \(F\) in the
+opposite order, we get a morphism \(\xi : FU(G)
+\rightarrow G\), called the <em>counit of the adjunction</em>,
+satisfying the following universal property: for any group homomorphism
+\(\boldsymbol{g}: F(X) \rightarrow G\), there is a unique function
+\(\boldsymbol{h}: X \rightarrow U(G)\) such that \(\xi \circ
+F(\boldsymbol{h}) = \boldsymbol{g}\). In other words, \(FU(G)\)
+constitutes the best possible solution to the problem of finding a
+representation of \(G\) as a quotient of a free group. If \(U\) and
+\(F\) were simple algebraic inverses to one another, we would have the
+following identity: \(UF = I_{\mathbf{Set}}\) and \(FU =
+I_{\mathbf{Grp}}\), where \(I_{\mathbf{Set}}\) denotes the identity
+functor on \(\mathbf{Set}\) and \(I_{\mathbf{Grp}}\) the identity
+functor on \(\mathbf{Grp}.\) As we have indicated, these identities
+certainly do not hold in this case. However, some identities do hold:
+they are best expressed with the help of the commutative diagrams:</p>
+
+<table class="centered">
+<tr><td>
+\(\begin{array}{rcl}
+U &amp; \xrightarrow{\eta\,\circ\,U} &amp; UFU \\
+  &amp; \searrow    &amp; \downarrow \scriptsize{U \circ \xi} \\
+  &amp;             &amp; U
+\end{array}\)
+</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+\begin{array}{rcl}
+F &amp; \xrightarrow{F\,\circ\,\eta} &amp; FUF \\
+  &amp; \searrow    &amp; \downarrow \scriptsize{\xi \circ F} \\
+  &amp;             &amp; F
+\end{array}
+</td></tr>
+</table>
+
+<p>
+
+where the diagonal arrows denote the appropriate identity natural
+transformations.</p>
+
+<p>
+
+This is but one case of a very common situation: every free
+construction can be described as arising from an appropriate forgetful
+functor between two adequately chosen categories. The number of
+mathematical constructions that can be described as adjoints is simply
+stunning. Although the details of each one of these constructions vary
+considerably, the fact that they can all be described using the same
+language illustrates the profound unity of mathematical concepts and
+mathematical thinking. Before we give more examples, a formal and
+abstract definition of adjoint functors is in order.</p>
+
+<div class="indent">
+<p>
+<strong>Definition</strong>: Let \(F: \mathbf{C} \rightarrow
+\mathbf{D}\) and \(G: \mathbf{D} \rightarrow \mathbf{C}\) be functors
+going in opposite directions. \(F\) is a <em>left adjoint</em> to \(G
+(G\) a <em>right adjoint</em> to \(F)\), denoted by \(F \dashv G\), if
+there exists natural transformations \(\eta : I_{\mathbf{C}}
+\rightarrow GF\) and \(\xi: FG \rightarrow I_{\mathbf{D}}\), such that
+the composites</p>
+
+\[
+G \xrightarrow{\eta\,\circ\,G} GFG \xrightarrow{G\,\circ\,\xi} G
+\]
+
+<p>and</p>
+
+\[
+F \xrightarrow{F\,\circ\,\eta} FGF \xrightarrow{\xi\,\circ\,F} F
+\]
+
+<p>
+are the identity natural transformations. (For different but
+equivalent definitions, see Mac&thinsp;Lane 1971 or 1998, chap. IV.)</p>
+
+</div>
+
+<p>
+
+Here are some of the important facts regarding adjoint functors.
+Firstly, adjoints are unique up to isomorphism; that is any two left
+adjoints \(F\) and \(F'\) of a functor \(G\) are
+naturally isomorphic. Secondly, the notion of adjointness is formally
+equivalent to the notion of a universal morphism (or construction) and
+to that of representable functor. (See, for instance Mac&thinsp;Lane
+1998, chap. IV.) Each and every one of these notions exhibit an
+aspect of a given situation. Thirdly, a left adjoint preserves all the
+colimits which exist in its domain, and, dually, a right adjoint
+preserves all the limits which exist in its domain.</p>
+
+<p>
+
+We now give some examples of adjoint situations to illustrate the
+pervasiveness of the notion.</p>
+
+<ol>
+<li>Instead of having a forgetful functor going into the category of
+sets, in some cases only a part of the structure is forgotten. Here are
+two standard examples: 
+
+<ul>
+
+<li>There is an obvious forgetful functor \(U\):
+<strong>AbGrp</strong> \(\rightarrow\) <strong>AbMon</strong> from the category of abelian
+groups to the category of abelian monoids: \(U\) forgets about
+the inverse operation. The functor \(U\) has a left adjoint
+\(F\): <strong>AbMon</strong> \(\rightarrow\) <strong>AbGrp</strong> which, given an
+abelian monoid \(M\), assigns to it the best possible abelian
+group \(F(M)\) such that \(M\) can be embedded in
+\(F(M)\) as a submonoid. For instance, if \(M\)
+is \(\mathbb{N}\), then \(F(\mathbb{N})\) &ldquo;is&rdquo; \(\mathbb{Z}\), that is, it
+is isomorphic to \(\mathbb{Z}.\)</li>
+
+<li>Similarly, there is an obvious forgetful functor
+\(U: \mathbf{Haus} \rightarrow \mathbf{Top}\)
+from the category of Hausdorff topological spaces to the category of
+topological spaces which forgets the Hausdorff condition. Again, there
+is a functor
+\(F: \mathbf{Top} \rightarrow \mathbf{Haus}\) such that
+\(F \dashv U.\) Given a topological space \(X,
+F(X)\) yields the best Hausdorff space constructed from
+\(X\): it is the quotient of \(X\) by the closure of the
+diagonal
+ \(\overline{\Delta}_X \subseteq X \times X\), which is an equivalence relation. In
+contrast with the previous example where we had an embedding, this
+time we get a quotient of the original structure.</li> 
+</ul>
+</li>
+
+<li>Consider now the category of <em>compact</em> Hausdorff spaces
+<strong>kHaus</strong> and the forgetful functor \(U\):
+<strong>kHaus</strong> \(\rightarrow \mathbf{Top}\), which forgets the compactness
+property and the separation property. The left adjoint to this
+\(U\) is the Stone-Cech compactification.</li>
+
+<li>There is a forgetful functor \(U:
+\textbf{Mod}_R \rightarrow\)
+<strong>AbGrp</strong> from a category of \(R\)-modules to the
+category of abelian groups, where \(R\) is a commutative ring
+with unit. The functor \(U\) forgets the action of \(R\) on
+a group \(G.\) The functor \(U\) has both a left and a right
+adjoint. The left adjoint is \(R \otimes -\): <strong>AbGrp</strong> \(\rightarrow \mathbf{Mod}_R\) which sends an abelian group
+\(G\) to the tensor product \(R \otimes G\) and the right adjoint is given by the functor
+\(\mathbf{Hom}(R, -)\): <strong>AbGrp</strong>
+\(\rightarrow \mathbf{Mod}_R\) which assigns to any group
+\(G\) the modules of linear mappings
+\(\mathbf{Hom}(R, G).\)</li>
+
+<li>The case where the categories \(\mathbf{C}\) and
+\(\mathbf{D}\) are posets deserves special attention here. Adjoint
+functors in this context are usually called <em>Galois
+connections</em>. Let \(\mathbf{C}\) be a poset. Consider the
+diagonal functor \(\Delta : \mathbf{C} \rightarrow \mathbf{C} \times \mathbf{C}\), with \(\Delta(X) = \langle X,
+X\rangle\) and for \(\boldsymbol{f}:
+X \rightarrow Y, \Delta(\boldsymbol{f}) = \langle \boldsymbol{f},
+\boldsymbol{f}\rangle : \langle X,
+X\rangle \rightarrow \langle Y, Y\rangle.\) In
+this case, the left-adjoint to \(\Delta\) is the coproduct, or the
+sup, and the right-adjoint to \(\Delta\) is the product, or the inf.
+The adjoint situation can be described in the following special form: 
+
+\[
+\frac{X \vee Y \le Z}{X \le Z, Y \le Z}\Updownarrow
+ \qquad
+\frac{Z \le X \wedge Y}{Z \le Y, Z \le X}\Updownarrow
+\]
+
+<p>
+ where the vertical double arrow can be interpreted as rules of
+inference going in both directions.</p>
+</li>
+
+<li>Implication can also be introduced. Consider a functor with a
+parameter: \((- \wedge X): \mathbf{C} \rightarrow \mathbf{C}.\) It
+can easily be verified that when \(\mathbf{C}\) is a poset, the
+function \((- \wedge X)\) is order preserving and therefore
+a functor. A right adjoint to \((- \wedge X)\) is a functor
+that yields the largest element of \(\mathbf{C}\) such that its
+infimum with \(X\) is smaller than \(Z.\) This element is
+sometimes called the relative pseudocomplement of \(X\) or, more
+commonly, the <em>implication</em>. It is denoted by <em>X \(\Rightarrow\)
+Z</em> or by
+\(X \supset Z.\) The adjunction can be presented as follows:
+
+\[
+\frac{Y \wedge X \le Z}{Y \le X \Rightarrow Z}\Updownarrow
+\]
+</li>
+
+<li>The negation operator \(\neg X\) can be introduced from the
+last adjunction. Indeed, let \(Z\) be the bottom element \(\bot\) of
+the lattice. Then, since \(Y \wedge X \le \bot\) is always true, it follows that
+\(Y \le X \Rightarrow \bot\) is also always true. But since \(X \Rightarrow \bot \le X\) is always the case, we get at the numerator
+that \((X \Rightarrow \bot \wedge X) = \bot.\) Hence, \(X \Rightarrow \bot\) is
+the largest element disjoint from \(X.\) We can therefore put
+\(\neg X =_{def} X \Rightarrow \bot.\) 
+</li>
+
+<li>Limits, colimits, and all the fundamental constructions of
+category theory can be described as adjoints. Thus, products and
+coproducts are adjoints, as are equalizers, coequalizers, pullbacks
+and pushouts, etc. This is one of the reasons adjointness is central
+to category theory itself: because all the fundamental operations of
+category theory arise from adjoint situations.</li>
+
+<li>An <em>equivalence of categories</em> is a special case of
+adjointness. Indeed, if in the above triangular identities the arrows
+\(\eta : I_{\mathbf{C}} \rightarrow GF\) and \(\xi : FG \rightarrow I_{\mathbf{D}}\) are natural
+<em>isomorphisms</em>, then the functors \(F\) and \(G\)
+constitute an <em>equivalence</em> of categories. In practice, it is
+the notion of equivalence of categories that matters and not the
+notion of isomorphism of categories.</li> 
+
+</ol>
+
+<p>
+
+It is easy to prove certain facts about these operations directly from
+the adjunctions. Consider, for instance, implication. Let \(Z = X.\) Then we get at the numerator that \(Y \wedge X \le X\),
+which is always true in a poset (as is easily verified). Hence,
+\(Y \le X \Rightarrow X\) is also true for
+all \(Y\) and this is only possible if \(X \Rightarrow X = \top\), the top element of the lattice. Not only
+can logical operations be described as adjoints, but they naturally
+arise as adjoints to basic operations. In fact, adjoints can be used
+to define various structures, distributive lattices, Heyting algebras,
+Boolean algebras, etc. (See Wood, 2004.) It should be clear from the
+simple foregoing example how the formalism of adjointness can be used
+to give syntactic presentations of various logical
+theories. Furthermore, and this is a key element, the standard
+universal and existential quantifiers can be shown to be arising as
+adjoints to the operation of substitution. Thus, quantifiers are on a
+par with the other logical operations, in sharp contrast with the
+other algebraic approaches to logic. (See, for instance Awodey 1996 or
+Mac&thinsp;Lane &amp; Moerdijk 1992.) More generally, Lawvere showed
+how syntax and semantics are related by adjoint functors. (See Lawvere
+1969b.)</p>
+
+<p>
+
+Dualities play an important role in mathematics and they can be
+described with the help of equivalences between categories. In other
+words, many important mathematical theorems can be translated as
+statements about the existence of adjoint functors, sometimes
+satisfying additional properties. This is sometimes taken as
+expressing the <em>conceptual</em> content of the theorem. Consider
+the following fundamental case: let \(\mathbf{C}\) be the category
+whose objects are the locally compact abelian groups and the morphisms
+are the continuous group homomorphisms. Then, the Pontryagin duality
+theorem amounts to the claim that the category \(\mathbf{C}\) is
+equivalent to the category \(\mathbf{C}\)&deg;, that is, to the
+opposite category. Of course, the precise statement requires that we
+describe the functors \(F: \mathbf{C} \rightarrow \mathbf{C}\)&deg; and \(G: \mathbf{C}\)&deg; \(\rightarrow \mathbf{C}\) and prove that they constitute an equivalence of
+categories.</p>
+
+<p>
+
+Another well known and important duality was discovered by Stone in
+the thirties and now bears his name. In one direction, an arbitrary
+Boolean algebra yields a topological space, and in the other
+direction, from a (compact Hausdorff and totally disconnected)
+topological space, one obtains a Boolean algebra. Moreover, this
+correspondence is functorial: any Boolean homomorphism is sent to a
+continuous map of topological spaces, and, conversely, any continuous
+map between the spaces is sent to a Boolean homomorphism. In other
+words, there is an equivalence of categories between the category of
+Boolean algebras and the dual of the category of Boolean spaces (also
+called Stone spaces). (See Johnstone 1982 for an excellent
+introduction and more developments.) The connection between a category
+of algebraic structures and the opposite of a category of topological
+structures established by Stone&rsquo;s theorem constitutes but one example
+of a general phenomenon that did attract and still attracts a great
+deal of attention from category theorists. Categorical study of
+duality theorems is still a very active and significant field, and is
+largely inspired by Stone&rsquo;s result. (For recent applications in logic,
+see, for instance Makkai 1987, Taylor 2000, 2002a, 2002b, Caramello 2011.)</p>
+
+<h2 id="BrieHistSket">2. Brief Historical Sketch</h2>
+
+<p>
+
+It is difficult to do justice to the short but intricate history of the
+field. In particular it is not possible to mention all those who have
+contributed to its rapid development. With this word of caution out of
+the way, we will look at some of the main historical threads. </p>
+
+<p>
+
+Categories, functors, natural transformations, limits and colimits
+appeared almost out of nowhere in a paper by Eilenberg &amp;
+Mac&thinsp;Lane (1945) entitled &ldquo;General Theory of Natural
+Equivalences.&rdquo; We say &ldquo;almost,&rdquo; because their earlier paper (1942)
+contains specific functors and natural transformations at work,
+limited to groups. A desire to clarify and abstract their 1942 results
+led Eilenberg &amp; Mac&thinsp;Lane to devise category theory. The
+central notion at the time, as their title indicates, was that of
+natural transformation. In order to give a general definition of the
+latter, they defined functor, borrowing the term from Carnap, and in
+order to define functor, they borrowed the word &lsquo;category&rsquo;
+from the philosophy of Aristotle, Kant, and C. S. Peirce, but
+redefining it mathematically.</p>
+
+<p>
+
+After their 1945 paper, it was not clear that the concepts of category
+theory would amount to more than a convenient language; this indeed
+was the status quo for about fifteen years. Category theory was
+employed in this manner by Eilenberg &amp; Steenrod (1952), in an
+influential book on the foundations of algebraic topology, and by
+Cartan &amp; Eilenberg (1956), in a ground breaking book on
+homological algebra. (Curiously, although Eilenberg &amp; Steenrod
+defined categories, Cartan &amp; Eilenberg simply assumed them!) These
+books allowed new generations of mathematicians to learn algebraic
+topology and homological algebra directly in the categorical language,
+and to master the method of diagrams. Indeed, without the method of
+diagram chasing, many results in these two books seem inconceivable,
+or at the very least would have required a considerably more intricate
+presentation.</p>
+
+<p>
+
+The situation changed radically with Grothendieck&rsquo;s (1957) landmark
+paper entitled &ldquo;Sur quelques points d&rsquo;alg&egrave;bre homologique&rdquo;, in
+which the author employed categories intrinsically to define and
+construct more general theories which he (Grothendieck 1957) then
+applied to specific fields, e.g., to algebraic geometry. Kan (1958)
+showed that adjoint functors subsume the important concepts of limits
+and colimits and could capture fundamental concepts in other areas (in
+his case, homotopy theory).</p>
+
+<p>
+
+At this point, category theory became more than a convenient
+language, by virtue of two developments.</p>
+
+<ol>
+
+<li>Employing the axiomatic method and the language of categories,
+Grothendieck (1957) defined in an abstract fashion types of
+categories, e.g., additive and Abelian categories, showed how to
+perform various constructions in these categories, and proved various
+results about them. (It should be pointed out that Mac Lane in his
+1950 paper had made a previous attempt which introduced certain key
+ideas, for instance using arrows to define certain fundamental
+concepts and that Buchsbaum had essentially introduced the notion of an
+abelian category independently under the name of &ldquo;exact
+category&rdquo; in 1955.) In a nutshell, Grothendieck showed how to
+develop part of homological algebra in an abstract setting of this
+sort. From then on, a specific category of structures, e.g., a
+category of sheaves over a topological space \(X\), could be seen as a
+token of an abstract category of a certain type, e.g., an Abelian
+category. One could therefore immediately see how the methods of,
+e.g., homological algebra could be applied to, for instance, algebraic
+geometry. Furthermore, it made sense to look for other types of
+abstract categories, ones that would encapsulate the fundamental and
+formal aspects of various mathematical fields in the same way that
+Abelian categories encapsulated fundamental aspects of homological
+algebra.</li>
+
+<li>Thanks in large part to the efforts of Freyd and Lawvere, category
+theorists gradually came to see the pervasiveness of the concept of
+adjoint functors. Not only does the existence of adjoints to given
+functors permit definitions of abstract categories (and presumably
+those which are defined by such means have a privileged status) but as
+we mentioned earlier, many important theorems and even theories in
+various fields can be seen as equivalent to the existence of specific
+functors between particular categories. By the early 1970s, the
+concept of adjoint functors was seen as central to category
+theory.</li> 
+
+</ol>
+
+<p>
+
+With these developments, category theory became an autonomous field of
+research, and pure category theory could be developed. And indeed, it
+did grow rapidly as a discipline, but also in its applications, mainly
+in its source contexts, namely algebraic topology and homological
+algebra, but also in algebraic geometry and, after the appearance of
+Lawvere&rsquo;s Ph.D. thesis, in universal algebra. This thesis also
+constitutes a landmark in this history of the field, for in it Lawvere
+proposed the category of categories as a foundation for category
+theory, set theory and, thus, the whole of mathematics, as well as
+using categories for the study of the logical aspects of
+mathematics.</p>
+
+<p>
+
+Over the course of the 1960s, Lawvere outlined the basic framework
+for an entirely original approach to logic and the foundations of
+mathematics. He achieved the following:</p>
+
+<ul>
+
+<li>Axiomatized the category of sets (Lawvere 1964) and of categories
+(Lawvere 1966);</li>
+
+<li>Gave a categorical description of theories that was independent of
+syntactical choices and sketched how completeness theorems for logical
+systems could be obtained by categorical methods (Lawvere 1967);</li>
+
+<li>Characterized Cartesian closed categories and showed their
+connections to logical systems and various logical paradoxes (Lawvere
+1969);</li>
+
+<li>Showed that the quantifiers and the comprehension schemes could be
+captured as adjoint functors to given elementary operations (Lawvere
+1966, 1969, 1970, 1971);</li>
+
+<li>Argued that adjoint functors should generally play a major
+foundational role through the notion of &ldquo;categorical doctrines&rdquo;
+(Lawvere 1969).</li>
+
+</ul>
+
+<p>
+ Meanwhile, Lambek (1968, 1969, 1972) described categories in terms of
+deductive systems and employed categorical methods for
+proof-theoretical purposes. </p>
+
+<p>
+
+All this work culminated in another notion, thanks to Grothendieck and
+his school: that of a <em>topos</em>. Even though toposes appeared in
+the 1960s, in the context of algebraic geometry, again from the mind
+of Grothendieck, it was certainly Lawvere and Tierney&rsquo;s (1972)
+elementary axiomatization of a topos which gave impetus to its
+attaining foundational status. Very roughly, an elementary topos is a
+category possessing a logical structure sufficiently rich to develop
+most of &ldquo;ordinary mathematics&rdquo;, that is, most of what is
+taught to mathematics undergraduates. As such, an elementary topos can
+be thought of as a categorical theory of sets. But it is also a
+generalized topological space, thus providing a direct connection
+between logic and geometry. (For more on the history of categorical
+logic, see Marquis &amp; Reyes 2012, Bell 2005.) </p>
+
+<p>
+
+The 1970s saw the development and application of the topos concept in
+many different directions. The very first applications outside
+algebraic geometry were in set theory, where various independence
+results were recast in terms of topos (Tierney 1972, Bunge 1974, but
+also Blass &amp; Scedrov 1989, Blass &amp; Scedrov 1992, Freyd 1980,
+Mac&thinsp;Lane &amp; Moerdijk 1992, Scedrov 1984). Connections with
+intuitionistic and, more generally constructive mathematics were noted
+early on, and toposes are still used to investigate models of various
+aspects of intuitionism and constructivism (Lambek &amp; Scott 1986,
+Mac&thinsp;Lane &amp; Moerdijk 1992, Van der Hoeven &amp; Moerdijk
+1984a, 1984b, 1984c, Moerdijk 1984, Moerdijk 1995a, Moerdijk 1998,
+Moerdijk &amp; Palmgren 1997, Moerdijk &amp; Palmgren 2002, Palmgren
+2012, Palmgren 2018. For more on the history of topos theory, see McLarty 1992 and Bell 2012).</p>
+
+<p>
+
+More recently, topos theory has been employed to investigate various
+forms of constructive mathematics or set theory (Joyal &amp; Moerdijk
+1995, Taylor 1996, Awodey 2008), recursiveness, and models of
+higher-order type theories generally. The introduction of the
+so-called &ldquo;effective topos&rdquo; and the search for axioms for
+synthetic domain theory are worth mentioning (Hyland 1982, Hyland
+1988, 1991, Hyland <em>et al</em>. 1990, McLarty 1992, Jacobs
+1999, Van Oosten 2008, Van Oosten 2002 and the references
+therein). Lawvere&rsquo;s early motivation was to provide a new foundation
+for differential geometry, a lively research area which is now called
+&ldquo;synthetic differential geometry&rdquo; (Lawvere 2000, 2002,
+Kock 2006, Bell 1988, 1995, 1998, 2001, Moerdijk &amp; Reyes
+1991). This is only the tip of the iceberg; toposes could prove to be
+for the 21st century what Lie groups were to the 20th century.</p>
+
+<p>
+
+From the 1980s to the present, category theory has found new
+applications. In theoretical computer science, category theory is now
+firmly rooted, and contributes, among other things, to the development
+of new logical systems and to the semantics of programming. (Pitts
+2000, Plotkin 2000, Scott 2000, and the references therein). Its
+applications to mathematics are becoming more diverse, even touching
+on theoretical physics, which employs higher-dimensional category
+theory &mdash; which is to category theory what higher-dimensional
+geometry is to plane geometry &mdash; to study the so-called &ldquo;quantum
+groups&rdquo; and quantum field theory (Majid 1995, Baez &amp; Dolan 2001 and other
+publications by these authors).</p>
+
+<h2 id="PhilSign">3. Philosophical Significance</h2>
+
+<p>
+
+Category theory challenges philosophers in two ways, which are not
+necessarily mutually exclusive. On the one hand, it is certainly the
+task of philosophy to clarify the general epistemological and
+ontological status of categories and categorical methods, both in the
+practice of mathematics and in the foundational landscape. On the
+other hand, philosophers and philosophical logicians can employ
+category theory and categorical logic to explore philosophical and
+logical problems. I now discuss these challenges, briefly, in turn.</p>
+
+<p>
+
+Category theory is now a common tool in the mathematician&rsquo;s
+toolbox; that much is clear. It is also clear that category theory
+organizes and unifies much of mathematics. Contemporary mathematical
+fields would not be what they are without category theory, for
+instance algebraic topology, homological algebra, homotopy theory and
+homotopical algebra, representation theory, arithmetic geometry and
+algebraic geometry. (See for instance Mac&thinsp;Lane 1971, 1998 or
+Pedicchio &amp; Tholen 2004.) No one will deny these simple facts.
+Furthermore, vast portions of contemporary mathematics now rest on a
+different practice which rely, in large part, on the manipulation of
+new graphical notations, on the one hand, and on different levels of
+abstraction, on the other hand. It is not simply that category theory
+and the mathematical disciplines developed within that framework use
+commutative diagrams, although this in itself leads to some
+interesting philosophical explorations, as for instance in De Toffoli
+2017, but category theorists have seen the need to develop systematic
+and formal graphical languages to express directly various forms of
+argumentations. (See, for instance, Joyal &amp; Street 1993; Joyal,
+Street &amp; Verity 1996; Fong &amp; Spivak 2019, Other Internet
+Resources.) Whereas since
+Bourbaki, mathematics was done &ldquo;up to isomorphism&rdquo;, in
+some cases, it is now done &ldquo;up to equivalence&rdquo; or up to
+&ldquo;bi-equivalence&rdquo; or even up to
+&ldquo;n-equivalence&rdquo;. (For an attempt at clarifying what these
+levels of abstraction mean, see Marquis 2014, Marquis 2016.)</p>
+
+<p>
+
+Doing mathematics in a categorical framework is almost always
+radically different from doing it in a set-theoretical framework (the
+exception being working with the internal language of a Boolean topos;
+whenever the topos is not Boolean, then the main difference lies in
+the fact that the logic is <em>intuitionistic</em>). Hence, as is
+often the case when a different conceptual framework is adopted, many
+basic issues regarding the nature of the objects studied, the nature
+of the knowledge involved, and the nature of the methods used have to
+be reevaluated. We will take up these three aspects in turn.</p>
+
+<p>
+
+Two facets of the nature of mathematical objects within a categorical
+framework have to be emphasized. First, objects are always given in a
+category. An object exists in and depends upon an ambient
+category. Furthermore, an object is characterized by the morphisms
+going in it and/or the morphisms coming out of it. Second, objects are
+always characterized up to isomorphism (in the best cases, up to a
+unique isomorphism). There is no such thing, for instance, as
+<em>the</em> natural numbers. However, it can be argued that there is
+such a thing as <em>the concept</em> of natural numbers. Indeed, the
+concept of natural numbers can be given unambiguously, via the
+Dedekind-Peano-Lawvere axioms, but what this concept refers to in
+specific cases depends on the context in which it is interpreted,
+e.g., the category of sets or a topos of sheaves over a topological
+space. Thus, it seems that sense does not determine reference in a
+categorical context. It is hard to resist the temptation to think that
+category theory embodies a form of structuralism, that it describes
+mathematical objects as structures since the latter, presumably, are
+always characterized up to isomorphism. Thus, the key here has to do
+with the kind of criterion of identity at work within a categorical
+framework and how it resembles any criterion given for objects which
+are thought of as forms in general. One of the standard objections
+presented against this view is that if objects are thought of as
+structures and only as <em>abstract</em> structures, meaning here that
+they are separated from any specific or concrete representation, then
+it is impossible to locate them within the mathematical universe. (See
+Hellman 2003 for a standard formulation of the objection, McLarty
+1993, Awodey 2004, Landry &amp; Marquis 2005, Shapiro 2005, Landry
+2011, Linnebo &amp; Pettigrew 2011, Hellman 2011, Shapiro 2011,
+McLarty 2011, Logan 2015 for relevant material on the issue.)</p>
+
+<p>
+
+A slightly different way to make
+sense of the situation is to think of mathematical objects as
+<em>types</em> for which there are tokens given in different
+contexts. This is strikingly different from the situation one finds in
+set theory, in which mathematical objects are defined uniquely and
+their reference is given directly. Although one can make room for
+types within set theory via equivalence classes or isomorphism types
+in general, the <em>basic</em> criterion of identity within that
+framework is given by the axiom of extensionality and thus,
+ultimately, reference is made to specific sets. Furthermore, it can
+be argued that the relation between a type and its token is
+<em>not</em> represented adequately by the membership relation. A
+token does not belong to a type, it is not an element of a type, but
+rather it is an instance of it. In a categorical framework, one always
+refers to a <em>token</em> of a type, and what the theory
+characterizes directly is the type, not the tokens. In this framework,
+one does not have to locate a type, but tokens of it are, at least in
+mathematics, epistemologically required. This is simply the reflection
+of the interaction between the abstract and the concrete in the
+epistemological sense (and not the ontological sense of these latter
+expressions.) (See Ellerman 1988, Ellerman 2017, Marquis 2000, Marquis
+2006, Marquis 2013.)</p>
+
+<p>
+
+The history of category theory offers a rich source of information to
+explore and take into account for an historically sensitive
+epistemology of mathematics. It is hard to imagine, for instance, how
+algebraic geometry and algebraic topology could have become what they
+are now without categorical tools. (See, for instance, Carter 2008,
+Corfield 2003, Kr&ouml;mer 2007, Marquis 2009, McLarty 1994, McLarty
+2006.) Category theory has lead to reconceptualizations of various
+areas of mathematics based on purely abstract foundations. Moreover,
+when developed in a categorical framework, traditional boundaries
+between disciplines are shattered and reconfigured; to mention but one
+important example, topos theory provides a direct bridge between
+algebraic geometry and logic, to the point where certain results in
+algebraic geometry are directly translated into logic and vice versa.
+Certain concepts that were geometrical in origin are more clearly seen
+as logical (for example, the notion of coherent topos). Algebraic
+topology also lurks in the background. (See, for instance, Caramello
+2018 for a systematic exploitation of the idea of toposes as bridges
+in mathematics.) On a different but important front, it can be argued
+that the distinction between mathematics and metamathematics cannot be
+articulated in the way it has been. All these issues have to be
+reconsidered and reevaluated.</p>
+
+<p>
+
+Moving closer to mathematical practice, category theory allowed for
+the development of methods that have changed and continue to change
+the face of mathematics. It could be argued that category theory
+represents the culmination of one of deepest and most powerful
+tendencies in twentieth century mathematical thought: the search for
+the most general and abstract ingredients in a given
+situation. Category theory is, in this sense, the legitimate heir of
+the Dedekind-Hilbert-Noether-Bourbaki tradition, with its emphasis on
+the axiomatic method and algebraic structures. (For a different
+reading, see Rodin 2014.) When used to characterize a specific
+mathematical domain, category theory reveals the frame upon which that
+area is built, the overall structure presiding to its stability,
+strength and coherence. The structure of this specific area, in a
+sense, might not need to rest on anything, that is, on some solid
+soil, for it might very well be just one part of a larger network that
+is without any Archimedean point, as if floating in space. To use a
+well-known metaphor: from a categorical point of view, Neurath&rsquo;s
+ship has become a spaceship.</p>
+
+<p>
+
+Still, it remains to be seen whether category theory should be &ldquo;on the
+same plane,&rdquo; so to speak, as set theory, whether it should be taken as
+a serious alternative to set theory as a foundation for mathematics,
+or whether it is foundational in a different sense altogether. (That
+this very question applies even more forcefully to topos theory will
+not detain us.)</p>
+
+<p>
+
+Lawvere from early on promoted the idea that a category of categories
+could be used as a foundational framework. (See Lawvere 1964, 1966.)
+This proposal now rests in part on the development of
+higher-dimensional categories, also called weak \(n\)-categories.
+(See, for instance Makkai 1998.) The advent of topos theory in the
+seventies brought new possibilities. Mac&thinsp;Lane has suggested
+that certain toposes be considered as a genuine foundation for
+mathematics. (See Mac&thinsp;Lane 1986.) Lambek proposed the so-called
+free topos as the best possible framework, in the sense that
+mathematicians with different philosophical outlooks might nonetheless
+agree to adopt it. (See Couture &amp; Lambek 1991, 1992, Lambek
+1994.) He has also argued that there is no topos that can
+thoroughly satisfy a classical mathematician. (See Lambek 2004.) (For
+more on the various foundational views among category theorists, see
+Landry &amp; Marquis 2005.)</p>
+
+<p>
+
+Arguments have been advanced for and against category theory as a
+foundational framework. (Blass 1984 surveys the relationships between
+category theory and set theory. Feferman 1977, Bell 1981, and Hellman
+2003 argue against category theory. See Marquis 1995 for a quick
+overview and proposal and McLarty 2004 and Awodey 2004 for replies to
+Hellman 2003.) The debate has advanced slowly but surely. It has been
+recognized that it is possible to present a foundational framework in
+the language of category theory, be it in the form of the Elementary
+Theory of the Category of Sets, ETCS, or a category of categories, of
+Makkai Structuralist foundations for abstract mathematics, SFAM. Thus,
+it seems that the community no longer question the logical and the
+conceptual autonomy of these approaches, to use the terminology
+introduced by Linnebo &amp; Pettigrew 2011. The main issue seems to be
+whether one can provide a philosophically satisfying justification for
+one of those framework. (See Hellman 2013, Landry 2013, Marquis 2013b,
+McLarty 2018.)</p>
+
+<p>
+
+This matter is further complicated by the fact that the foundations of
+category theory itself have yet to be clarified. For there may be many
+different ways to think of a universe of higher-dimensional categories
+as a foundations for mathematics. It is safe to say that we now have a
+good understanding of what are called \((\infty, 1)\)-categories and important
+mathematical results have been obtained in that framework. (See, for
+instance, Cisinski 2019 for a presentation.) An adequate language for
+the universe of arbitrary higher-dimensional categories still has to
+be presented together with definite axioms for mathematics. (See
+Makkai 1998 for a short description of such a language. A different
+approach based on homotopy theory but with closed connections with
+higher-dimensional categories has been proposed by Voevodsky et
+al. and is being vigorously pursued. See the book <em>Homotopy Type
+Theory</em>, by Awodey et al. 2013.) </p>
+
+<p>
+
+It is an established fact that category theory is employed to study
+logic and philosophy. Indeed, categorical logic, the study of logic by
+categorical means, has been under way for about 40 years now and still
+vigorous. Some of the philosophically relevant results obtained in
+categorical logic are:</p>
+
+<ul class="jfy">
+
+<li>The hierarchy of categorical doctrines: regular categories,
+coherent categories, Heyting categories and Boolean categories; all
+these correspond to well-defined logical systems, together with
+deductive systems and completeness theorems; they suggest that logical
+notions, including quantifiers, arise naturally in a specific order
+and are not haphazardly organized (see Walsh 2017 for a philosophical
+justification of logical connectives using category theory and
+Halvorson &amp; Tsementzis 2018 for a look from the point of view of
+scientific theories);</li>
+
+<li>Joyal&rsquo;s generalization of Kripke-Beth semantics for intuitionistic
+logic to sheaf semantics (Lambek &amp; Scott 1986, Mac&thinsp;Lane
+&amp; Moerdijk 1992);</li>
+
+<li>Coherent and geometric logic, so-called, whose practical and
+conceptual significance has yet to be explored (Makkai &amp; Reyes
+1977, Mac&thinsp;Lane &amp; Moerdiejk 1992, Johnstone 2002, Caramello
+2011b, 2012a);</li>
+
+<li>The notions of generic model and classifying topos of a theory
+(Makkai &amp; Reyes 1977, Boileau &amp; Joyal 1981, Bell 1988, Mac Lane
+&amp; Moerdijk 1992, Johnstone 2002, Caramello 2012b);</li>
+
+<li>The notion of strong conceptual completeness and the associated
+theorems (Makkai &amp; Reyes 1977, Butz &amp; Moerdijk 1999, Makkai
+1981, Pitts 1989, Johnstone 2002);</li>
+
+<li>Geometric proofs of the independence of the continuum hypothesis
+and other strong axioms of set theory (Tierney 1972, Bunge 1974, Freyd
+1980, 1987, Blass &amp; Scedrov 1983, 1989, 1992, Mac&thinsp;Lane &amp;
+Moerdijk 1992);</li>
+
+<li>Models and development of constructive mathematics (see
+bibliography below);</li>
+
+<li>Synthetic differential geometry, an alternative to standard and
+non-standard analysis (Kock 1981, Bell 1998, 2001, 2006);</li>
+
+<li>The construction of the so-called effective topos, in which every
+function on the natural numbers is recursive (McLarty 1992,
+Hyland 1982, 1991, Van Oosten 2002, Van Oosten 2008);</li>
+
+<li>Categorical models of linear logic, modal logic, fuzzy sets, and
+general higher-order type theories (Reyes 1991, Reyes &amp; Zawadoski
+1993, Reyes &amp; Zolfaghari 1991, 1996, Makkai &amp; Reyes 1995,
+Ghilardi &amp; Zawadowski 2002, Rodabaugh &amp; Klement 2003, Jacobs
+1999, Taylor 1999, Johnstone 2002, Blute &amp; Scott 2004, Awodey
+&amp; Warren 2009, Awodey et al. 2013, Kishida 2018, Cockett &amp;Seely 2018);</li>
+
+<li>A graphical syntax called &ldquo;sketches&rdquo; (Barr &amp; Wells
+1985, 1999, Makkai 1997a, 1997b, 1997c, Johnstone 2002).</li>
+
+<li>Quantum logic, the foundations of quantum physics and quantum
+field theory (Brunetti et al. 2003, Abramsky &amp; Duncan 2006, Heunen et al. 2009, Baez
+&amp; Stay 2010, Baez &amp; Lauda 2011, Coecke 2011, Isham 2011,
+D&ouml;ring 2011, Eva 2017, Coecke &amp; Kissinger 2018).</li>
+</ul>
+
+<p>
+
+Categorical tools in logic offer considerable flexibility, as is
+illustrated by the fact that almost all the surprising results of
+constructive and intuitionistic mathematics can be modeled in a proper
+categorical setting. At the same time, the standard set-theoretic
+notions, e.g. Tarski&rsquo;s semantics, have found natural generalizations
+in categories. Thus, categorical logic has roots in logic as it was
+developed in the twentieth century, while at the same time providing a
+powerful and novel framework with numerous links to other parts of
+mathematics.</p>
+
+<p>
+
+Category theory also bears on more general philosophical questions.
+From the foregoing disussion, it should be obvious that category
+theory and categorical logic ought to have an impact on almost all
+issues arising in philosophy of logic: from the nature of identity
+criteria to the question of alternative logics, category theory always
+sheds a new light on these topics. Similar remarks can be made when we
+turn to ontology, in particular formal ontology: the part/whole
+relation, boundaries of systems, ideas of space, etc. Ellerman (1988)
+has bravely attempted to show that category theory constitutes a
+theory of universals, one having properties radically different from
+set theory, which is also seen as a theory of universals. Moving from
+ontology to cognitive science, MacNamara &amp; Reyes (1994) have tried
+to employ categorical logic to provide a different logic of
+reference. In particular, they have attempted to clarify the
+relationships between count nouns and mass terms. Other researchers
+are using category theory to study complex systems, cognitive neural
+networks, and analogies. (See, for instance, Ehresmann 2018, Ehresmann &amp;
+Vanbremeersch 1987, 2007, Healy 2000, Healy &amp; Caudell 2006,
+Arzi-Gonczarowski 1999, Brown &amp; Porter 2006.) Finally,
+philosophers of science have turned to category theory to shed a new
+light on issues related to structuralism in science. (See, for
+instance, Brading &amp; Landry 2006, Bain 2013, Lam &amp; W&uuml;thrich
+2015, Eva 2016, Lal &amp; Teh 2017, Landry 2007, 2012, 2018.)</p>
+
+<p>
+
+Category theory offers thus many philosophical challenges, challenges
+which will hopefully be taken up in years to come.</p>
+
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<p>Readers may find the following useful:</p>
+ <p class="indent">
+ <a href="bib.html">Programmatic Reading Guide</a>
+ </p>
+<p>The citations in this guide and in the text above can all be
+found in the list below.</p>
+
+<ul class="hanging">
+
+<li>Abramsky, S. &amp; Duncan, R., 2006, &ldquo;A Categorical Quantum
+Logic&rdquo;, <em>Mathematical Structures in Computer Science</em>, 16
+(3): 469&ndash;489.</li>
+
+<li>Adamek, J. <em>et al</em>., 1990, <em>Abstract and Concrete
+Categories: The Joy of Cats</em>, New York: Wiley.</li>
+
+<li>Adamek, J. <em>et al</em>., 1994, Locally Presentable and
+Accessible Categories, Cambridge: Cambridge University Press.</li>
+
+<li>Arzi-Gonczaworski, Z., 1999, &ldquo;Perceive This as That &mdash;
+Analogies, Artificial Perception, and Category
+Theory&rdquo;, <em>Annals of Mathematics and Artificial
+Intelligence</em>, 26 (1): 215&ndash;252.</li>
+
+<li>Awodey, S., 1996, &ldquo;Structure in Mathematics and Logic: A
+Categorical Perspective&rdquo;, <em>Philosophia Mathematica</em>, 3:
+209&ndash;237.</li>
+
+<li>&ndash;&ndash;&ndash;, 2004, &ldquo;An Answer to Hellman&rsquo;s Question: Does
+Category Theory Provide a Framework for Mathematical
+Structuralism&rdquo;, <em>Philosophia Mathematica</em>, 12:
+54&ndash;64.</li>
+
+<li>&ndash;&ndash;&ndash;, 2006, <em>Category Theory</em>, Oxford: Clarendon
+Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Relating First-Order Set Theories and
+Elementary Toposes&rdquo;, <em>The Bulletin of Symbolic</em>, 13 (3):
+340&ndash;358.</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, &ldquo;A Brief Introduction to Algebraic Set
+Theory&rdquo;, <em>The Bulletin of Symbolic</em>, 14 (3):
+281&ndash;298.</li>
+
+<li>Awodey, S., et al., 2013, <em> Homotopy Type Theory: Univalent
+Foundations of Mathematics</em>, The Univalent Foundations
+Program.</li>
+
+<li>Awodey, S. &amp; Butz, C., 2000, &ldquo;Topological Completeness
+for Higher Order Logic&rdquo;, <em>Journal of Symbolic Logic</em>, 65
+(3): 1168&ndash;1182.</li>
+
+<li>Awodey, S. &amp; Reck, E.&thinsp;R., 2002, &ldquo;Completeness and
+Categoricity I. Nineteen-Century Axiomatics to Twentieth-Century
+Metalogic&rdquo;, <em>History and Philosophy of Logic</em>, 23 (1):
+1&ndash;30.</li>
+
+<li>&ndash;&ndash;&ndash;, 2002, &ldquo;Completeness and
+Categoricity II. Twentieth-Century Metalogic to Twenty-first-Century
+Semantics&rdquo;, <em>History and Philosophy of Logic</em>, 23 (2):
+77&ndash;94.</li>
+
+<li>Awodey, S. &amp; Warren, M., 2009, &ldquo;Homotopy theoretic
+Models of Identity Types&rdquo;, <em>Mathematical Proceedings of the
+Cambridge Philosophical Society</em>, 146 (1): 45&ndash;55.</li>
+
+<li>Baez, J., 1997, &ldquo;An Introduction
+to \(n\)-Categories&rdquo;, <em>Category Theory and Computer
+Science</em>, Lecture Notes in Computer Science (Volume 1290), Berlin:
+Springer-Verlag, 1&ndash;33.</li>
+
+<li>Baez, J. &amp; Dolan, J., 1998a, &ldquo;Higher-Dimensional Algebra
+III. \(n\)-Categories and the Algebra of
+Opetopes&rdquo;, <em>Advances in Mathematics</em>, 135:
+145&ndash;206.</li>
+
+<li>&ndash;&ndash;&ndash;, 1998b,
+&ldquo;Categorification&rdquo;, <em>Higher Category Theory</em>
+(Contemporary Mathematics, Volume 230), Ezra Getzler and Mikhail
+Kapranov (eds.), Providence: AMS, 1&ndash;36.</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;From Finite Sets to Feynman
+Diagrams&rdquo;, <em>Mathematics Unlimited &ndash; 2001 and
+Beyond</em>, Berlin: Springer, 29&ndash;50.</li>
+
+<li>Baez, J. &amp; Lauda, A.D., 2011, &ldquo;A Pre-history
+of \(n\)-Categorical Physics&rdquo;, <em>Deep Beauty:
+Understanding the Quantum World Through Mathematical Innovation</em>,
+H. Halvorson (ed.), Cambridge: Cambridge University Press,
+13&ndash;128.</li>
+
+<li>Baez, J. &amp; May, P. J., 2010, <em> Towards Higher Category
+Theory</em>, Berlin: Springer.</li>
+
+<li>Baez, J. &amp; Stay, M., 2010, &ldquo;Physics, Topology, Logic and
+Computation: a Rosetta Stone&rdquo;, <em>New Structures for
+Physics</em> (Lecture Notes in Physics 813), B. Coecke (ed.), New York,
+Springer: 95&ndash;172.</li>
+
+<li>Baianu, I. C., 1987, &ldquo;Computer Models and Automata Theory in
+Biology and Medecine&rdquo;, <em>Mathematical
+Modelling</em>, 7: 1513&ndash;1577.</li>
+
+<li>Bain, J., 2013, &ldquo;Category-theoretic Structure and Radical
+Ontic Structural Realism&rdquo;, <em>Synthese</em>, 190:
+1621&ndash;1635.</li>
+
+<li>Barr, M. &amp; Wells, C., 1985, <em>Toposes, Triples and
+Theories</em>, New York: Springer-Verlag.</li>
+
+<li>&ndash;&ndash;&ndash;, 1999, <em>Category Theory for Computing
+Science</em>, Montreal: CRM.</li>
+
+<li>Batanin, M., 1998, &ldquo;Monoidal Globular Categories as a
+Natural Environment for the Theory of
+Weak \(n\)-Categories&rdquo;, <em>Advances in Mathematics</em>,
+136: 39&ndash;103.</li>
+
+<li>Bell, J.&thinsp;L., 1981, &ldquo;Category Theory and the
+Foundations of Mathematics&rdquo;, <em>British Journal for the
+Philosophy of Science</em>, 32: 349&ndash;358.</li>
+
+<li>&ndash;&ndash;&ndash;, 1982, &ldquo;Categories, Toposes and
+Sets&rdquo;, <em>Synthese</em>, 51 (3): 293&ndash;337.</li>
+
+<li>&ndash;&ndash;&ndash;, 1986, &ldquo;From Absolute to Local
+Mathematics&rdquo;, <em>Synthese</em>, 69 (3): 409&ndash;426.</li>
+
+<li>&ndash;&ndash;&ndash;, 1988,
+&ldquo;Infinitesimals&rdquo;, <em>Synthese</em>, 75 (3):
+285&ndash;315.</li>
+
+<li>&ndash;&ndash;&ndash;, 1988, <em>Toposes and Local Set Theories: An
+Introduction</em>, Oxford: Oxford University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1995, &ldquo;Infinitesimals and the
+Continuum&rdquo;, <em>Mathematical Intelligencer</em>, 17 (2):
+55&ndash;57.</li>
+
+<li>&ndash;&ndash;&ndash;, 1998, <em>A Primer of Infinitesimal
+Analysis</em>, Cambridge: Cambridge University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;The Continuum in Smooth
+Infinitesimal Analysis&rdquo;, <em>Reuniting the Antipodes &mdash;
+Constructive and Nonstandard Views on the Continuum</em> (Synthese
+Library, Volume 306), Dordrecht: Kluwer, 19&ndash;24.</li>
+
+<li>&ndash;&ndash;&ndash;, 2005, &ldquo;The Development of Categorical
+Logic&rdquo;, in <em>Handbook of Philosophical Logic</em> (Volume 12),
+2nd ed., D.M. Gabbay, F. Guenthner (eds.), Dordrecht: Springer,
+pp. 279&ndash;362.</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, &ldquo;Types, Sets and
+Categories&rdquo;, in <em>Handbook of the History of Logic: Sets and
+Extensions in the Twentieth Century</em> (Volume 6), 1st edition,
+D. Gabbay, A. Kanamori, J. Woods (eds.), Amsterdam: North Holland,
+pp. 633&ndash;687.</li>
+
+<li>Birkoff, G. &amp; Mac Lane, S., 1999, Algebra, 3<sup>rd</sup> ed.,
+Providence: AMS.</li>
+
+<li>Blass, A., 1984, &ldquo;The Interaction Between Category Theory
+and Set Theory&rdquo;, in <em>Mathematical Applications of Category
+Theory</em> (Volume 30), Providence: AMS, 5&ndash;29.</li>
+
+<li>Blass, A. &amp; Scedrov, A., 1983, &ldquo;Classifying Topoi and
+Finite Forcing&rdquo;, <em>Journal of Pure and Applied Algebra</em>,
+28: 111&ndash;140.</li>
+
+<li>&ndash;&ndash;&ndash;, 1989, <em>Freyd&rsquo;s Model for the
+Independence of the Axiom of Choice</em>, Providence: AMS.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;Complete Topoi
+Representing Models of Set Theory&rdquo;, <em>Annals of Pure and
+Applied Logic</em> , 57 (1): 1&ndash;26.</li>
+
+<li>Blute, R. &amp; Scott, P., 2004, &ldquo;Category Theory for Linear
+Logicians&rdquo;, in <em>Linear Logic in Computer Science</em>,
+T. Ehrhard, P. Ruet, J-Y. Girard, P. Scott (eds.), Cambridge: Cambridge
+University Press, 1&ndash;52.</li>
+
+<li>Boileau, A. &amp; Joyal, A., 1981, &ldquo;La logique des
+topos&rdquo;, <em>Journal of Symbolic Logic</em>, 46 (1):
+6&ndash;16.</li>
+
+<li>Borceux, F., 1994, <em>Handbook of Categorical Algebra</em>, 3
+volumes, Cambridge: Cambridge University Press.</li>
+
+<li>Brading, K. &amp; Landry, E., 2006, &ldquo;Scientific
+Structuralism: Presentation and Representation&rdquo;, <em>Philosophy
+of Science</em>, 73: 571&ndash;581.</li>
+
+<li>Brown, R. &amp; Porter, T., 2006, &ldquo;Category Theory: an
+abstract setting for analogy and comparison&rdquo;, <em>What is
+Category Theory?</em>, G. Sica (ed.), Monza: Polimetrica:
+257&ndash;274.</li>
+
+<li>Brunetti, R. &amp; Fredenhagen, K &amp; Verch, R., 2003,
+&ldquo;The Generally Covariant Locality Principle &ndash; a new
+paradigm for local quantum field theory&rdquo;, <em>Communications in
+Mathematical Physics</em>, 237 (1&ndash;2): 31&ndash;68.</li>
+
+<li>Buchsbaum, D.A., 1955, &ldquo;Exact Categories and
+Duality&rdquo;, <em>Transactions of the American Mathematical
+Society</em>, 80 (1): 1&ndash;34.</li>
+
+<li>Bunge, M., 1974, &ldquo;Topos Theory and Souslin&rsquo;s
+Hypothesis&rdquo;, <em>Journal of Pure and Applied Algebra</em>, 4:
+159&ndash;187.</li>
+
+<li>&ndash;&ndash;&ndash;, 1984, &ldquo;Toposes in Logic and Logic in
+Toposes&rdquo;, <em>Topoi</em>, 3 (1): 13&ndash;22.</li>
+
+<li>Caramello, O., 2011, &ldquo;A Characterization Theorem for
+Geometric Logic&rdquo;, <em>Annals of Pure and Applied Logic</em>,162,
+4: 318&ndash;321.</li>
+
+<li>&ndash;&ndash;&ndash;, 2012a, &ldquo;Universal Models and
+Definability&rdquo;, <em>Mathematical Proceedings of the Cambridge
+Philosophical Society</em>, 152 (2): 279&ndash;302.</li>
+
+<li>&ndash;&ndash;&ndash;, 2012b, &ldquo;Syntactic Characterizations of
+Properties of Classifying Toposes&rdquo;, <em>Theory and Applications
+of Categories</em>, 26 (6): 176&ndash;193.</li>
+
+<li>&ndash;&ndash;&ndash;, 2018, <em>Theories, Sites, Toposes</em>,
+Oxford: Oxford University Press.</li>
+
+<li>Carter, J., 2008, &ldquo;Categories for the working mathematician:
+making the impossible possible&rdquo;, <em>Synthese</em>, 162 (1):
+1&ndash;13.</li>
+
+<li>Cisinski, J.-C., 2019, <em>Higher Categories and Homotopical
+Algebra</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Cockett, J.&thinsp;R.&thinsp;B. &amp; Seely,
+R.&thinsp;A.&thinsp;G., 2001, &ldquo;Finite Sum-product
+Logic&rdquo;, <em>Theory and Applications of Categories</em>
+(electronic), 8: 63&ndash;99.</li>
+
+<li>Cockett, J.&thinsp;R.&thinsp;B. &amp; Seely,
+R.&thinsp;A.&thinsp;G., 2018, &ldquo;Proof Theory of the Cut
+Rule&rdquo;, in <em>Categories for the Working Philosopher</em>,
+E. Landry (ed.), Oxford: Oxford University Press: 223&ndash;261.</li>
+
+<li>Coecke, B., 2011, &ldquo;A Universe of Processes and Some of its
+Guises&rdquo;, <em>Deep Beauty: Understanding the Quantum World
+through Mathematical Innovation</em>, Cambridge: Cambridge University
+Press: 129&ndash;186.</li>
+
+<li>Coecke, B. &amp; Kissinger, A., 2018, &ldquo;Categorical Quentum
+Mechanics I: Causal Quantum Processes&rdquo;, <em>Categories for the
+Working Philosopher</em>, E. Landry (ed.), Oxford: Oxford University
+Press: 286&ndash;328.</li>
+
+<li>Couture, J. &amp; Lambek, J., 1991, &ldquo;Philosophical
+Reflections on the Foundations of
+Mathematics&rdquo;, <em>Erkenntnis</em>, 34 (2): 187&ndash;209.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992,
+&ldquo;Erratum:&rdquo;Philosophical Reflections on the Foundations of
+Mathematics&ldquo;&rdquo;, <em>Erkenntnis</em>, 36 (1): 134.</li>
+
+<li>Crole, R.&thinsp;L., 1994, Categories for Types, Cambridge:
+Cambridge University Press.</li>
+
+<li>De Toffoli, S., 2017, &ldquo;Chasing the diagram &ndash; the use of
+visualizations in algebraic reasoning &rdquo;, <em>The Review of
+Symbolic Logic</em>, 10 (1): 158&ndash;186.</li>
+
+<li>Dieudonn&eacute;, J. &amp; Grothendieck, A., 1960
+[1971], <em>&Eacute;l&eacute;ments de G&eacute;om&eacute;trie
+Alg&eacute;brique</em>, Berlin: Springer-Verlag.</li>
+
+<li>D&ouml;ring, A., 2011, &ldquo;The Physical Interpretation of
+Daseinisation&rdquo;, <em>Deep Beauty: Understanding the Quantum World
+through Mathematical Innovation</em>, Cambridge: Cambridge University
+Press: 207&ndash;238.</li>
+
+<li>Ehresmann, A., 2018, &ldquo;Applications of Categories to Biology
+and Cognition&rdquo;, <em>Categories for the Working Philosopher</em>,
+E. Landry (ed.), Oxford: Oxford University Press: 358&ndash;380.</li>
+
+<li>Ehresmann, A. &amp; Vanbremeersch, J.-P., 2007, <em>Memory
+Evolutive Systems: Hierarchy, Emergence, Cognition</em>, Amsterdam:
+Elsevier</li>
+
+<li>&ndash;&ndash;&ndash;, 1987, &ldquo;Hierarchical Evolutive
+Systems: a Mathematical Model for Complex Systems&rdquo;, <em>Bulletin
+of Mathematical Biology</em>, 49 (1): 13&ndash;50.</li>
+
+<li>Eilenberg, S. &amp; Cartan, H., 1956, <em>Homological
+Algebra</em>, Princeton: Princeton University Press.</li>
+
+<li>Eilenberg, S. &amp; Mac&thinsp;Lane, S., 1942, &ldquo;Group
+Extensions and Homology&rdquo;, <em>Annals of Mathematics</em>, 43:
+757&ndash;831.</li>
+
+<li>&ndash;&ndash;&ndash;, 1945, &ldquo;General
+Theory of Natural Equivalences&rdquo;, <em>Transactions of the
+American Mathematical Society</em>, 58: 231&ndash;294.</li>
+
+<li>Eilenberg, S. &amp; Steenrod, N., 1952, <em>Foundations of
+Algebraic Topology</em>, Princeton: Princeton University Press.</li>
+
+<li>Ellerman, D., 1988, &ldquo;Category Theory and Concrete
+Universals&rdquo;, <em>Erkenntnis</em>, 28: 409&ndash;429.</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, &ldquo;Category Theory and Set Theory as
+Theories about Complementary Types of Universals&rdquo;, <em>Logic and
+Logical Philosophy</em>, 26 (2): 145&ndash;162.</li>
+
+<li>Eva, B., 2016, &ldquo;Category Theory and Physical
+Structuralism&rdquo;, <em>European Journal for Philosophy of
+Science</em>, 6 (2): 231&ndash;246.</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, &ldquo;Topos Theoretic Quantum
+Realism&rdquo;, <em>The British Journal for the Philosophy of
+Science</em>, 68 (4): 1149&ndash;1181.</li>
+
+<li>Feferman, S., 1977, &ldquo;Categorical Foundations and Foundations
+of Category Theory&rdquo;, <em>Logic, Foundations of Mathematics and
+Computability</em>, R. Butts (ed.), Reidel, 149&ndash;169.</li>
+
+<li>&ndash;&ndash;&ndash;, 2004, &ldquo;Typical Ambiguity: trying to
+have your cake and eat it too&rdquo;, <em>One Hundred Years of
+Russell&rsquo;s Paradox</em>, G. Link (ed.), Berlin: De Gruyter,
+135&ndash;151.</li>
+
+<li>Freyd, P., 1964, <em>Abelian Categories. An Introduction to the
+Theory of Functors</em>, New York: Harper &amp; Row.</li>
+
+<li>&ndash;&ndash;&ndash;, 1965, &ldquo;The Theories of Functors and
+Models&rdquo;. <em>Theories of Models</em>, Amsterdam: North Holland,
+107&ndash;120.</li>
+
+<li>&ndash;&ndash;&ndash;, 1972, &ldquo;Aspects of
+Topoi&rdquo;, <em>Bulletin of the Australian Mathematical
+Society</em>, 7: 1&ndash;76.</li>
+
+<li>&ndash;&ndash;&ndash;, 1980, &ldquo;The Axiom of
+Choice&rdquo;, <em>Journal of Pure and Applied Algebra</em>, 19:
+103&ndash;125.</li>
+
+<li>&ndash;&ndash;&ndash;, 1987, &ldquo;Choice and
+Well-Ordering&rdquo;, <em>Annals of Pure and Applied Logic</em>, 35
+(2): 149&ndash;166.</li>
+
+<li>&ndash;&ndash;&ndash;, 1990, <em>Categories, Allegories</em>,
+Amsterdam: North Holland.</li>
+
+<li>&ndash;&ndash;&ndash;, 2002, &ldquo;Cartesian
+Logic&rdquo;, <em>Theoretical Computer Science</em>, 278 (1&ndash;2):
+3&ndash;21.</li>
+
+<li>Freyd, P., Friedman, H. &amp; Scedrov, A., 1987, &ldquo;Lindembaum
+Algebras of Intuitionistic Theories and Free
+Categories&rdquo;, <em>Annals of Pure and Applied Logic</em>, 35 (2):
+167&ndash;172.</li>
+
+<li>Galli, A. &amp; Reyes, G. &amp; Sagastume, M., 2000,
+&ldquo;Completeness Theorems via the Double Dual
+Functor&rdquo;, <em>Studia Logical</em>, 64 (1): 61&ndash;81.</li>
+
+<li>Ghilardi, S., 1989, &ldquo;Presheaf Semantics and Independence
+Results for some Non-classical first-order logics&rdquo;, <em>Archive
+for Mathematical Logic</em>, 29 (2): 125&ndash;136.</li>
+
+<li>Ghilardi, S. &amp; Zawadowski, M., 2002, <em>Sheaves, Games &amp;
+Model Completions: A Categorical Approach to Nonclassical
+Porpositional Logics</em>, Dordrecht: Kluwer.</li>
+
+<li>Goldblatt, R., 1979, <em>Topoi: The Categorical Analysis of Logic,
+Studies in logic and the foundations of mathematics</em>, Amsterdam:
+Elsevier.</li>
+
+<li>Grothendieck, A., 1957, &ldquo;Sur Quelques Points
+d&rsquo;alg&egrave;bre homologique&rdquo;, <em>Tohoku Mathematics
+Journal</em>, 9: 119&ndash;221.</li>
+
+<li>Grothendieck, A. <em>et al</em>., <em>S&eacute;minaire de
+G&eacute;om&eacute;trie Alg&eacute;brique</em>, Vol. 1&ndash;7, Berlin:
+Springer-Verlag.</li>
+
+<li>Hatcher, W.&thinsp;S., 1982, <em>The Logical Foundations of
+Mathematics</em>, Oxford: Pergamon Press.</li>
+
+<li>Healy, M.&thinsp;J., 2000, &ldquo;Category Theory Applied to
+Neural Modeling and Graphical Representations&rdquo;, <em>Proceedings
+of the IEEE-INNS-ENNS International Joint Conference on Neural
+Networks: IJCNN200, Como, vol. 3</em>, M. Gori, S-I. Amari,
+C.&thinsp;L. Giles, V. Piuri (eds.), IEEE Computer Science Press,
+35&ndash;40.</li>
+
+<li>Healy, M.&thinsp;J., &amp; Caudell, T.&thinsp;P., 2006,
+&ldquo;Ontologies and Worlds in Category Theory: Implications for
+Neural Systems&rdquo;,<em>Axiomathes</em>, 16 (1&ndash;2):
+165&ndash;214.</li>
+
+<li>Hellman, G., 2003, &ldquo;Does Category Theory Provide a Framework
+for Mathematical Structuralism?&rdquo;, <em>Philosophia
+Mathematica</em>, 11 (2): 129&ndash;157.</li>
+
+<li>&ndash;&ndash;&ndash;, 2006, &ldquo;Mathematical Pluralism: the case of
+smooth infinitesimal analysis&rdquo;, <em>Journal of Philosophical
+Logic</em>, 35 (6): 621&ndash;651.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011,&ldquo;Foundational Frameworks&rdquo;,
+in <em>Foundational Theories of Classical and Constructive
+Mathematics</em>, G. Sommaruga (ed.), New York: Springer:
+53&ndash;70.</li>
+
+<li>Hellman, G., 2013, &ldquo;Neither Categorical nor Set-Theoretic
+Foundations&rdquo;, <em>The Review of Symbolic Logic</em>, 6 (1):
+16&ndash;23.</li>
+
+<li>Hermida, C. &amp; Makkai, M. &amp; Power, J., 2000, &ldquo;On Weak
+Higher-dimensional Categories I&rdquo;, <em>Journal of Pure and
+Applied Algebra</em>, 154 (1&ndash;3): 221&ndash;246.</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;On Weak
+Higher-dimensional Categories 2&rdquo;, <em>Journal of Pure and
+Applied Algebra</em>, 157 (2&ndash;3): 247&ndash;277.</li>
+
+<li>&ndash;&ndash;&ndash;, 2002, &ldquo;On Weak
+Higher-dimensional Categories 3&rdquo;, <em>Journal of Pure and
+Applied Algebra</em>, 166 (1&ndash;2): 83&ndash;104.</li>
+
+<li>Heunen, C. &amp; Landsmann, N. &amp; Spitters, B., 2009, &ldquo;A
+Topos for Algebraic Quantum Theory&rdquo;, <em>Communications in
+Mathematical Physics</em>, 291 (1): 63&ndash;110.</li>
+
+<li>Hyland, J.&thinsp;M.&thinsp;E., 1982, &ldquo;The Effective
+Topos&rdquo;, <em>Studies in Logic and the Foundations of
+Mathematics</em> (Volume 110), Amsterdam: North Holland,
+165&ndash;216.</li>
+
+<li>&ndash;&ndash;&ndash;, 1988, &ldquo;A Small Complete
+Category&rdquo;, <em>Annals of Pure and Applied Logic</em>, 40 (2):
+135&ndash;165.</li>
+
+<li>&ndash;&ndash;&ndash;, 1991, &ldquo;First Steps in
+Synthetic Domain Theory&rdquo;, <em>Category Theory (Como 1990)</em>
+(Lecture Notes in Mathematics, Volume 1488), Berlin: Springer,
+131&ndash;156.</li>
+
+<li>&ndash;&ndash;&ndash;, 2002, &ldquo;Proof Theory in the
+Abstract&rdquo;, <em>Annals of Pure and Applied Logic</em>, 114
+(1&ndash;3): 43&ndash;78.</li>
+
+<li>Hyland, J.&thinsp;M.&thinsp;E. &amp; Robinson, E.&thinsp;P. &amp;
+Rosolini, G., 1990, &ldquo;The Discrete Objects in the Effective
+Topos&rdquo;, <em>Proceedings of the London Mathematical Society
+(3)</em>, 60 (1): 1&ndash;36.</li>
+
+<li>Isham, C.J., 2011, &ldquo;Topos Methods in the Foundations of
+Physics&rdquo;, <em>Deep Beauty: Understanding the Quantum World
+through Mathematical Innovation</em>, Cambridge: Cambridge University
+Press: 187&ndash;206.</li>
+
+<li>Jacobs, B., 1999, <em>Categorical Logic and Type Theory</em>,
+Amsterdam: North Holland.</li>
+
+<li>Johnstone, P.&thinsp;T., 1977, <em>Topos Theory</em>, New York:
+Academic Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1979a, &ldquo;Conditions Related to De
+Morgan&rsquo;s Law&rdquo;, <em>Applications of Sheaves</em> (Lecture Notes
+in Mathematics, Volume 753), Berlin: Springer, 479&ndash;491.</li>
+
+<li>&ndash;&ndash;&ndash;, 1979b, &ldquo;Another Condition
+Equivalent to De Morgan&rsquo;s Law&rdquo;, <em>Communications in
+Algebra</em>, 7 (12): 1309&ndash;1312.</li>
+
+<li>&ndash;&ndash;&ndash;, 1981, &ldquo;Tychonoff&rsquo;s Theorem without
+the Axiom of Choice&rdquo;, <em>Fundamenta Mathematicae</em>, 113 (1):
+21&ndash;35.</li>
+
+<li>&ndash;&ndash;&ndash;, 1982, <em>Stone Spaces</em>,
+Cambridge:Cambridge University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1985, &ldquo;How General is a Generalized
+Space?&rdquo;, <em>Aspects of Topology</em>, Cambridge: Cambridge
+University Press, 77&ndash;111.</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;Elements of the History of
+Locale Theory&rdquo;, <em>Handbook of the History of General
+Topology</em>, Vol. 3, Dordrecht: Kluwer, 835&ndash;851.</li>
+
+<li>&ndash;&ndash;&ndash;, 2002a, <em>Sketches of an Elephant: a
+Topos Theory Compendium. Vol. 1</em> (Oxford Logic Guides, Volume 43),
+Oxford: Oxford University Press.</li>
+
+<li>Joyal, A. &amp; Moerdijk, I., 1995, <em>Algebraic Set Theory</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>Joyal, A. and Street, R., 1993, &ldquo;Braided Tensor
+Categories&rdquo;, <em>Advances in Mathematics</em>, 102 (1):
+20&ndash;78.</li>
+
+<li>Joyal, A., Street, R. and Verity, D., 1996, &ldquo;Traced Monoidal
+Categories&rdquo;, <em>Mathematical Proceedings of the Cambridge
+Philosophical Society</em>, 119 (3): 447&ndash;468.</li>
+
+<li>Kan, D.&thinsp;M., 1958, &ldquo;Adjoint
+Functors&rdquo;, <em>Transactions of the American Mathematical
+Society</em>, 87: 294&ndash;329.</li>
+
+<li>Kishida, K., 2018, &ldquo;Categories and Modalities&rdquo;,
+in <em>Categories for the Working Philosopher</em>, E. Landry (ed.),
+Oxford, Oxford University Press: 163&ndash;222.</li>
+
+<li>Kock, A., 2006, <em>Synthetic Differential Geometry</em> (London
+Mathematical Society Lecture Note Series, Volume 51), Cambridge:
+Cambridge University Press, 2nd ed.</li>
+
+<li>Kr&ouml;mer, R., 2007, <em>Tool and Objects: A History and
+Philosophy of Category Theory</em>, Basel: Birkh&auml;user.</li>
+
+<li>La Palme Reyes, M., John Macnamara, Gonzalo E. Reyes, and Houman
+Zolfaghari, 1994, &ldquo;The non-Boolean Logic of Natural Language
+Negation&rdquo;, <em>Philosophia Mathematica</em>, 2 (1):
+45&ndash;68.</li>
+
+<li>&ndash;&ndash;&ndash;, 1999, &ldquo;Count Nouns, Mass Nouns, and their
+Transformations: a Unified Category-theoretic
+Semantics&rdquo;, <em>Language, Logic and Concepts</em>, Cambridge:
+MIT Press, 427&ndash;452.</li>
+
+<li>Lal, R. &amp; Teh, N., 2017, &ldquo;Categorical Generalization and
+Physical Structuralism&rdquo;, <em>British Journal for the Philosophy
+of Science</em>, 68 (1): 213&ndash;251.</li>
+
+<li>Lambek, J., 1968, &ldquo;Deductive Systems and Categories
+I. Syntactic Calculus and Residuated
+Categories&rdquo;, <em>Mathematical Systems Theory</em>, 2:
+287&ndash;318.</li>
+
+<li>&ndash;&ndash;&ndash;, 1969, &ldquo;Deductive Systems and Categories
+II. Standard Constructions and Closed Categories&rdquo;, <em>Category
+Theory, Homology Theory and their Applications I</em>, Berlin:
+Springer, 76&ndash;122.</li>
+
+<li>&ndash;&ndash;&ndash;, 1972, &ldquo;Deductive Systems and Categories
+III. Cartesian Closed Categories, Intuition&acirc;&permil;&nbsp;istic
+Propositional Calculus, and Combinatory Logic&rdquo;, <em>Toposes,
+Algebraic Geometry and Logic</em> (Lecture Notes in Mathematics,
+Volume 274), Berlin: Springer, 57&ndash;82.</li>
+
+<li>&ndash;&ndash;&ndash;, 1982, &ldquo;The Influence of Heraclitus on Modern
+Mathematics&rdquo;, <em>Scientific Philosophy Today</em>, J. Agassi
+and R.S. Cohen (eds.), Dordrecht, Reidel, 111&ndash;122.</li>
+
+<li>&ndash;&ndash;&ndash;, 1986, &ldquo;Cartesian Closed Categories and Typed
+
+lambda calculi&rdquo;, <em>Combinators and Functional Programming
+Languages</em> (Lecture Notes in Computer Science, Volume 242),
+Berlin: Springer, 136&ndash;175.</li>
+
+<li>&ndash;&ndash;&ndash;, 1989a, &ldquo;On Some Connections Between Logic and
+Category Theory&rdquo;, <em>Studia Logica</em>, 48 (3):
+269&ndash;278.</li>
+
+<li>&ndash;&ndash;&ndash;, 1989b, &ldquo;On the Sheaf of Possible
+Worlds&rdquo;, <em>Categorical Topology and its relation to Analysis,
+Algebra and Combinatorics</em>, Teaneck: World Scientific Publishing,
+36&ndash;53.</li>
+
+<li>&ndash;&ndash;&ndash;, 1993, &ldquo;Logic without Structural
+Rules&rdquo;, <em>Substructural Logics</em> (Studies in Logic and
+Computation, Volume 2), Oxford: Oxford University Press,
+179&ndash;206.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994a, &ldquo;Some Aspects of Categorical
+Logic&rdquo;, <em>Logic, Methodology and Philosophy of Science IX</em>
+(Studies in Logic and the Foundations of Mathematics, Volume 134),
+Amsterdam: North Holland, 69&ndash;89.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994b, &ldquo;Are the Traditional
+Philosophies of Mathematics Really
+Incompatible?&rdquo;, <em>Mathematical Intelligencer</em>, 16 (1):
+56&ndash;62.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994c, &ldquo;What is a Deductive
+System?&rdquo;, <em>What is a Logical System?</em> (Studies in Logic
+and Computation, Volume 4), Oxford: Oxford University Press,
+141&ndash;159.</li>
+
+<li>&ndash;&ndash;&ndash;, 2004, &ldquo;What is the world of Mathematics?
+Provinces of Logic Determined&rdquo;, <em>Annals of Pure and Applied
+Logic</em>, 126: 1&ndash;3, 149&ndash;158.</li>
+
+<li>Lambek, J. &amp; Scott, P.J., 1981, &ldquo;Intuitionistic Type
+Theory and Foundations&rdquo;, <em>Journal of Philosophical
+Logic</em>, 10 (1): 101&ndash;115.</li>
+
+<li>&ndash;&ndash;&ndash;, 1983, &ldquo;New Proofs of Some
+Intuitionistic Principles&rdquo;, <em>Zeitschrift f&uuml;r
+Mathematische Logik und Grundlagen der Mathematik</em>, 29 (6):
+493&ndash;504.</li>
+
+<li>&ndash;&ndash;&ndash;, 1986, <em>Introduction to Higher
+Order Categorical Logic</em>, Cambridge: Cambridge University
+Press.</li>
+
+<li>Lam, V. &amp; W&uuml;trich, C., 2015, &ldquo;No Categorical Support for
+Radical Ontic Structural Realism&rdquo;, <em>British Journal for the
+Philosophy of Science</em>, 66 (3): 605&ndash;634.</li>
+
+<li>Landry, E., 1999, &ldquo;Category Theory: the Language of
+Mathematics&rdquo;, <em>Philosophy of Science</em>, 66 (3)
+(Supplement): S14&ndash;S27.</li>
+
+<li>&ndash;&ndash;&ndash;, 2001, &ldquo;Logicism, Structuralism and
+Objectivity&rdquo;, <em>Topoi</em>, 20 (1): 79&ndash;95.</li>
+
+<li>&ndash;&ndash;&ndash;, 2007, &ldquo;Shared Structure need not be Shared
+Set-structure&rdquo;, <em>Synthese</em>, 158 (1): 1&ndash;17.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;How to be a Structuralist all the way
+down&rdquo;, <em>Synthese</em>, 179: 435&ndash;454.</li>
+
+<li>&ndash;&ndash;&ndash;, 2012, &ldquo;Methodological Structural
+Realism&rdquo;, in <em>Sructure, Objects, and Causality</em>,
+E. Landry &amp; D. Rickles (eds.), Dordrecht, Reidel: 29&ndash;59.</li>
+
+<li>&ndash;&ndash;&ndash;, 2013, &ldquo;The Genetic versus The
+Axiomatic Method: responding to Feferman 1977&rdquo;, <em>The Review
+of Symbolic Logic</em>, 6 (1): 24&ndash;50.</li>
+
+<li>&ndash;&ndash;&ndash;, 2018, &ldquo;Structural Realism and
+Category Mistakes&rdquo;, in <em>Categories for the Working
+Philosopher</em>, E. Landry (ed.), Oxford, Oxford University Press:
+430&ndash;449.</li>
+
+<li>Landry, E. &amp; Marquis, J.-P., 2005, &ldquo;Categories in
+Context: Historical, Foundational and
+philosophical&rdquo;, <em>Philosophia Mathematica</em>, 13:
+1&ndash;43.</li>
+
+<li>&ndash;&ndash;&ndash;, 2017, <em>Categories for the Working
+Philosophers</em>, Oxford: Oxford University Press. </li>
+
+<li>Lawvere, F.&thinsp;W., 1963, &ldquo;Functorial Semantics of
+Algebraic Theories&rdquo;, <em>Proceedings of the National Academy of
+Sciences U.S.A.</em>, 50: 869&ndash;872.</li>
+
+<li>&ndash;&ndash;&ndash;, 1964, &ldquo;An Elementary Theory of the
+Category of Sets&rdquo;, <em>Proceedings of the National Academy of
+Sciences U.S.A.</em>, 52: 1506&ndash;1511.</li>
+
+<li>&ndash;&ndash;&ndash;, 1965, &ldquo;Algebraic Theories, Algebraic
+Categories, and Algebraic Functors&rdquo;, <em>Theory of Models</em>,
+Amsterdam: North Holland, 413&ndash;418.</li>
+
+<li>&ndash;&ndash;&ndash;, 1966, &ldquo;The Category of Categories as
+a Foundation for Mathematics&rdquo;, <em>Proceedings of the Conference
+on Categorical Algebra</em>, La Jolla, New York: Springer-Verlag,
+1&ndash;21.</li>
+
+<li>&ndash;&ndash;&ndash;, 1969a, &ldquo;Diagonal Arguments and
+Cartesian Closed Categories&rdquo;, <em>Category Theory, Homology
+Theory, and their Applications II</em>, Berlin: Springer,
+134&ndash;145.</li>
+
+<li>&ndash;&ndash;&ndash;, 1969b, &ldquo;Adjointness in
+Foundations&rdquo;, <em>Dialectica</em>, 23: 281&ndash;295.</li>
+
+<li>&ndash;&ndash;&ndash;, 1970, &ldquo;Equality in Hyper doctrines
+and Comprehension Schema as an Adjoint
+Functor&rdquo;, <em>Applications of Categorical Algebra</em>,
+Providence: AMS, 1&ndash;14.</li>
+
+<li>&ndash;&ndash;&ndash;, 1971, &ldquo;Quantifiers and
+Sheaves&rdquo;, <em>Actes du Congr&egrave;s International des
+Math&eacute;maticiens, Tome 1</em>, Paris: Gauthier-Villars,
+329&ndash;334.</li>
+
+<li>&ndash;&ndash;&ndash;, 1972,
+&ldquo;Introduction&rdquo;, <em>Toposes, Algebraic Geometry and
+Logic</em>, Lecture Notes in Mathematics, 274, Springer-Verlag,
+1&ndash;12.</li>
+
+<li>&ndash;&ndash;&ndash;, 1975, &ldquo;Continuously Variable Sets:
+Algebraic Geometry = Geometric Logic&rdquo;, <em>Proceedings of the
+Logic Colloquium Bristol 1973</em>, Amsterdam: North Holland,
+135&ndash;153.</li>
+
+<li>&ndash;&ndash;&ndash;, 1976, &ldquo;Variable Quantities and
+Variable Structures in Topoi&rdquo;, <em>Algebra, Topology, and
+Category Theory</em>, New York: Academic Press, 101&ndash;131.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;Categories of Space and of
+Quantity&rdquo;, <em>The Space of Mathematics</em>, Foundations of
+Communication and Cognition, Berlin: De Gruyter, 14&ndash;30.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994a, &ldquo;Cohesive Toposes and Cantor&rsquo;s
+lauter Ensein &rdquo;, <em>Philosophia Mathematica</em>, 2 (1):
+5&ndash;15.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994b, &ldquo;Tools for the Advancement of
+Objective Logic: Closed Categories and Toposes&rdquo;, <em>The Logical
+Foundations of Cognition</em> (Vancouver Studies in Cognitive Science,
+Volume 4), Oxford: Oxford University Press, 43&ndash;56.</li>
+
+<li>&ndash;&ndash;&ndash;, 2000, &ldquo;Comments on the Development of
+Topos Theory&rdquo;, <em>Development of Mathematics 1950&ndash;2000</em>,
+Basel: Birkh&auml;user, 715&ndash;734.</li>
+
+<li>&ndash;&ndash;&ndash;, 2002, &ldquo;Categorical Algebra for
+Continuum Micro Physics&rdquo;, <em>Journal of Pure and Applied
+Algebra</em>, 175 (1&ndash;3): 267&ndash;287.</li>
+
+<li>&ndash;&ndash;&ndash;, 2003, &ldquo;Foundations and Applications:
+Axiomatization and Education. New Programs and Open Problems in the
+Foundation of Mathematics&rdquo;, <em>Bulletin of Symbolic Logic</em>,
+9 (2): 213&ndash;224.</li>
+
+<li>Lawvere, F.&thinsp;W. &amp; Rosebrugh, R., 2003, <em>Sets for
+Mathematics</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Lawvere, F.&thinsp;W. &amp; Schanuel, S., 1997, <em>Conceptual
+Mathematics: A First Introduction to Categories</em>, Cambridge:
+Cambridge University Press.</li>
+
+<li>Leinster, T., 2002, &ldquo;A Survey of Definitions
+of \(n\)-categories&rdquo;, <em>Theory and Applications of
+Categories</em>, (electronic), 10: 1&ndash;70.</li>
+
+<li>&ndash;&ndash;&ndash;, 2004, <em>Higher Operads, Higher Categories</em>,
+London Mathematical Society Lecture Note Series, 298, Cambridge:
+Cambridge University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, <em>Basic Category Theory</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>Linnebo, O. &amp; Pettigrew, R., 2011, &ldquo;Category Theory as an
+Autonomous Foundation&rdquo;, <em>Philosophia Mathematica</em>, 
+19 (3): 227&ndash;254.</li>
+
+<li>Logan, S., 2015, &ldquo;Category Theory is a Contentful
+Theory&rdquo;, <em>Philosophia Mathematica</em>, 23 (1):
+110&ndash;115. </li>
+
+<li>Lurie, J., 2009, <em>Higher Topos Theory</em>, Princeton:
+Princeton University Press.</li>
+
+<li>Mac&thinsp;Lane, S., 1950, &ldquo;Dualities for
+Groups&rdquo;, <em>Bulletin of the American Mathematical Society</em>,
+56: 485&ndash;516.</li>
+
+<li>&ndash;&ndash;&ndash;, 1969, &ldquo;Foundations for Categories and
+Sets&rdquo;, <em>Category Theory, Homology Theory and their
+Applications II</em>, Berlin: Springer, 146&ndash;164.</li>
+
+<li>&ndash;&ndash;&ndash;, 1969, &ldquo;One Universe as a Foundation for
+Category Theory&rdquo;, <em>Reports of the Midwest Category Seminar
+III</em>, Berlin: Springer, 192&ndash;200.</li>
+
+<li>&ndash;&ndash;&ndash;, 1971, &ldquo;Categorical algebra and
+Set-Theoretic Foundations&rdquo;, <em>Axiomatic Set Theory</em>,
+Providence: AMS, 231&ndash;240.</li>
+
+<li>&ndash;&ndash;&ndash;, 1975, &ldquo;Sets, Topoi, and Internal Logic
+in Categories&rdquo;, <em>Studies in Logic and the Foundations of
+Mathematics</em> (Volumes 80), Amsterdam: North Holland,
+119&ndash;134.</li>
+
+<li>&ndash;&ndash;&ndash;, 1981, &ldquo;Mathematical Models: a Sketch
+for the Philosophy of Mathematics&rdquo;, <em>American Mathematical
+Monthly</em>, 88 (7): 462&ndash;472.</li>
+
+<li>&ndash;&ndash;&ndash;, 1986, <em>Mathematics, Form and
+Function</em>, New York: Springer.</li>
+
+<li>&ndash;&ndash;&ndash;, 1988, &ldquo;Concepts and Categories in
+Perspective&rdquo;, <em>A nCentury of Mathematics in America, Part
+I</em>, Providence: AMS, 323&ndash;365.</li>
+
+<li>&ndash;&ndash;&ndash;, 1989, &ldquo;The Development of Mathematical
+Ideas by Collision: the Case of Categories and Topos
+Theory&rdquo;, <em>Categorical Topology and its Relation to Analysis,
+Algebra and Combinatorics</em>, Teaneck: World Scientific,
+1&ndash;9.</li>
+
+<li>&ndash;&ndash;&ndash;, 1996, &ldquo;Structure in
+Mathematics. Mathematical Structuralism&rdquo;, <em>Philosophia
+Mathematica</em>, 4 (2): 174&ndash;183.</li>
+
+<li>&ndash;&ndash;&ndash;, 1997, &ldquo;Categorical Foundations of the
+Protean Character of Mathematics&rdquo;, <em>Philosophy of Mathematics
+Today</em>, Dordrecht: Kluwer, 117&ndash;122.</li>
+
+<li>&ndash;&ndash;&ndash;, 1998, <em>Categories for the Working
+Mathematician</em>, 2<sup>nd</sup> edition, New York:
+Springer-Verlag.</li>
+
+<li>Mac&thinsp;Lane, S. &amp; Moerdijk, I., 1992, <em>Sheaves in
+Geometry and Logic</em>, New York: Springer-Verlag.</li>
+
+<li>MacNamara, J. &amp; Reyes, G. (eds.), 1994, <em>The Logical
+Foundation of Cognition</em>, Oxford: Oxford University Press.</li>
+
+<li>Majid, S., 1995, <em>Foundations of Quantum Group Theory</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>Makkai, M., 1987, &ldquo;Stone Duality for First-Order
+Logic&rdquo;, <em>Advances in Mathematics</em>, 65 (2):
+97&ndash;170.</li>
+
+<li>&ndash;&ndash;&ndash;, 1988, &ldquo;Strong Conceptual Completeness
+for First Order Logic&rdquo;, <em>Annals of Pure and Applied
+Logic</em>, 40: 167&ndash;215.</li>
+
+<li>&ndash;&ndash;&ndash;, 1997a, &ldquo;Generalized Sketches as a
+Framework for Completeness Theorems I&rdquo;, <em>Journal of Pure and
+Applied Algebra</em>, 115 (1): 49&ndash;79.</li>
+
+<li>&ndash;&ndash;&ndash;, 1997b, &ldquo;Generalized Sketches as a
+Framework for Completeness Theorems II&rdquo;, <em>Journal of Pure and
+Applied Algebra</em>, 115 (2): 179&ndash;212.</li>
+
+<li>&ndash;&ndash;&ndash;, 1997c, &ldquo;Generalized Sketches as a
+Framework for Completeness Theorems III&rdquo;, <em>Journal of Pure
+and Applied Algebra</em>, 115 (3): 241&ndash;274.</li>
+
+<li>&ndash;&ndash;&ndash;, 1998, &ldquo;Towards a Categorical Foundation of
+Mathematics&rdquo;, <em>Lecture Notes in Logic</em> (Volume 11),
+Berlin: Springer, 153&ndash;190.</li>
+
+<li>&ndash;&ndash;&ndash;, 1999, &ldquo;On Structuralism in
+Mathematics&rdquo;, <em>Language, Logic and Concepts</em>, Cambridge:
+MIT Press, 43&ndash;66.</li>
+
+<li>Makkai, M. &amp; Par&eacute;, R., 1989, <em>Accessible Categories:
+the Foundations of Categorical Model Theory</em>, Contemporary
+Mathematics 104, Providence: AMS.</li>
+
+<li>Makkai, M. &amp; Reyes, G., 1977, <em>First-Order Categorical
+Logic</em>, Springer Lecture Notes in Mathematics 611, New York:
+Springer.</li>
+
+<li>&ndash;&ndash;&ndash;, 1995, &ldquo;Completeness Results for
+Intuitionistic and Modal Logic in a Categorical
+Setting&rdquo;, <em>Annals of Pure and Applied Logic</em>, 72 (1):
+25&ndash;101.</li>
+
+<li>Marquis, J.-P., 1993, &ldquo;Russell&rsquo;s Logicism and Categorical
+Logicisms&rdquo;, <em>Russell and Analytic Philosophy</em>,
+A. D. Irvine &amp; G. A. Wedekind (eds.), Toronto, University of
+Toronto Press, 293&ndash;324.</li>
+
+<li>&ndash;&ndash;&ndash;, 1995, &ldquo;Category Theory and the Foundations
+of Mathematics: Philosophical Excavations&rdquo;, <em>Synthese</em>,
+103: 421&ndash;447.</li>
+
+<li>&ndash;&ndash;&ndash;, 2000, &ldquo;Three Kinds of Universals in
+Mathematics?&rdquo;, in <em>Logical Consequence: Rival Approaches and
+New Studies in Exact Philosophy: Logic, Mathematics and Science</em>,
+Vol. II, B. Brown &amp; J. Woods (eds.), Oxford: Hermes, 191&ndash;212.</li>
+
+<li>&ndash;&ndash;&ndash;, 2006, &ldquo;Categories, Sets and the Nature of
+Mathematical Entities&rdquo;, in <em>The Age of Alternative
+Logics. Assessing philosophy of logic and mathematics today</em>,
+J. van Benthem, G. Heinzmann, Ph. Nabonnand, M. Rebuschi, H. Visser
+(eds.), Springer, 181&ndash;192.</li>
+
+<li>&ndash;&ndash;&ndash;, 2009, <em>From a Geometrical Point of View: A
+Study in the History and Philosophy of Category Theory</em>, Berlin:
+Springer.</li>
+
+<li>&ndash;&ndash;&ndash;, 2013, &ldquo;Mathematical Forms and Forms
+of Mathematics: leaving the shores of extensional
+mathematics&rdquo;, <em>Synthese</em>, 190 (12): 2141&ndash;2164.</li>
+
+<li>&ndash;&ndash;&ndash;, 2013b, &ldquo;Categorical Foundations of
+Mathematics or how to provide foundations for abstract
+mathematics&rdquo;, <em>The Review of Symbolic Logic</em>, 6 (1):
+51&ndash;75.</li>
+
+<li>&ndash;&ndash;&ndash;, 2014, &ldquo;Mathematical Abstraction,
+Conceptual Variation and Identity&rdquo;, <em> Logic, Methodology and
+Philosophy of science &ndash; logic and science facing the new
+technologies</em>, P. Schroeder-Heister, et al. (eds.), London: College
+Publications, 299&ndash;322.</li>
+
+<li>&ndash;&ndash;&ndash;, 2016, &ldquo;Stairway to
+Heaven&rdquo;, <em>The Mathematical Intelligencer</em>, 38 (3):
+41&ndash;51.</li>
+
+<li>Marquis, J.-P. &amp; Reyes, G., 2012, &ldquo;The History of
+Categorical Logic: 1963&ndash;1977&rdquo;, <em>Handbook of the History of
+Logic</em>, Vol. 6, D. Gabbay &amp; J. Woods (eds.), Amsterdam:
+Elsevier, 689&ndash;800.</li>
+
+<li>McLarty, C., 1986, &ldquo;Left Exact
+Logic&rdquo;, <em>Journal of Pure and Applied Algebra</em>, 41 (1):
+63&ndash;66.</li>
+
+<li>&ndash;&ndash;&ndash;, 1990, &ldquo;Uses and Abuses of the History
+of Topos Theory&rdquo;, <em>British Journal for the Philosophy of
+Science</em>, 41: 351&ndash;375.</li>
+
+<li>&ndash;&ndash;&ndash;, 1991, &ldquo;Axiomatizing a Category of
+Categories&rdquo;, <em>Journal of Symbolic Logic</em>, 56 (4):
+1243&ndash;1260.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, <em>Elementary Categories, Elementary
+Toposes</em>, Oxford: Oxford University Press.</li>
+
+<li>&ndash;&ndash;&ndash;, 1993, &ldquo;Numbers Can be Just What They
+Have to&rdquo;, <em>No&ucirc;s</em>, 27: 487&ndash;498.</li>
+
+<li>&ndash;&ndash;&ndash;, 1994, &ldquo;Category Theory in Real
+Time&rdquo;, <em>Philosophia Mathematica</em>, 2 (1):
+36&ndash;44.</li>
+
+<li>&ndash;&ndash;&ndash;, 2004, &ldquo;Exploring Categorical
+Structuralism&rdquo;, <em>Philosophia Mathematica</em>, 12:
+37&ndash;53.</li>
+
+<li>&ndash;&ndash;&ndash;, 2005, &ldquo;Learning from Questions on
+Categorical Foundations&rdquo;, <em>Philosophia Mathematica</em>, 13
+(1): 44&ndash;60.</li>
+
+<li>&ndash;&ndash;&ndash;, 2006, &ldquo;Emmy Noether&rsquo;s set-theoretic
+topology: from Dedekind to the rise of functors&rdquo;, <em>The
+Architecture of Modern Mathematics</em>, J.J. Gray &amp; J. Ferreiros,
+Oxford: Oxford University Press, 187&ndash;208.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011, &ldquo;Recent Debate over Categorical
+Foundations&rdquo;, in <em>Foundational Theories of Classical and
+Constructive Mathematics</em>, G. Sommaruga (ed.), New York: Springer:
+145&ndash;154.</li>
+
+<li>&ndash;&ndash;&ndash;, 2018, &ldquo;The Role of Set Theory in
+Mathematics&rdquo;, in <em>Categories for the Working
+Philosopher</em>, E. Landry (ed.), Oxford, Oxford University Press:
+1&ndash;17.</li>
+
+<li>Moerdijk, I., 1984, &ldquo;Heine-Borel does not imply the Fan
+Theorem&rdquo;, <em>Journal of Symbolic Logic</em>, 49 (2):
+514&ndash;519.</li>
+
+<li>&ndash;&ndash;&ndash;, 1995a, &ldquo;A Model for Intuitionistic
+Non-standard Arithmetic&rdquo;, <em>Annals of Pure and Applied
+Logic</em>, 73 (1): 37&ndash;51.</li>
+
+<li>&ndash;&ndash;&ndash;, 1998, &ldquo;Sets, Topoi and
+Intuitionism&rdquo;, <em>Philosophia Mathematica</em>, 6 (2):
+169&ndash;177.</li>
+
+<li>Moerdijk, I. &amp; Palmgren, E., 1997, &ldquo;Minimal Models of
+Heyting Arithmetic&rdquo;, <em>Journal of Symbolic Logic</em>, 62 (4):
+1448&ndash;1460.</li>
+
+<li>&ndash;&ndash;&ndash;, 2002, &ldquo;Type Theories,
+Toposes and Constructive Set Theory: Predicative Aspects of
+AST&rdquo;, <em>Annals of Pure and Applied Logic</em>, 114
+(1&ndash;3): 155&ndash;201.</li>
+
+<li>Moerdijk, I. &amp; Reyes, G., 1991, <em>Models for Smooth
+Infinitesimal Analysis</em>, New York: Springer-Verlag.</li>
+
+<li>Palmgren, E., 2012, &ldquo;Constructivist and Structuralist
+Foundations: Bishop&rsquo;s and Lawvere&rsquo;s Theories of
+Sets&rdquo;, <em>Annals of Pure and Applied Logic</em>, 63:
+1384&ndash;1399.</li>
+
+<li>Palmgren, E., 2018, &ldquo;A Constructive Examination of a
+Russell-style Ramified Type Theory&rdquo;, <em>The Bulletin of
+Symbolic Logic</em>, 24 (1): 90&ndash;106.</li>
+
+<li>Pareigis, B., 1970, <em>Categories and Functors</em>, New York:
+Academic Press.</li>
+
+<li>Pedicchio, M.&thinsp;C. &amp; Tholen, W., 2004, <em>Categorical
+Foundations</em>, Cambridge: Cambridge University Press.</li>
+
+<li>Peirce, B., 1991, <em>Basic Category Theory for Computer
+Scientists</em>, Cambridge: MIT Press.</li>
+
+<li>Peruzzi, A., 2006, &ldquo;The Meaning of Category Theory for 21st
+Century Philosophy&rdquo;, <em>Axiomathes</em>, 16 (4):
+424&ndash;459.</li>
+
+<li>&ndash;&ndash;&ndash;, 2016, &ldquo;Category Theory and the Search
+for Universals: A Very Short Guide for Philosophers&rdquo;,
+in <em>Modern Logic 1850&ndash;1950, East and West</em>, F. Abeles
+&amp; M. Muller (eds.), Basel: Birkhauser, 159&ndash;182.</li>
+
+<li>Pitts, A.&thinsp;M., 1987, &ldquo;Interpolation and Conceptual
+Completeness for Pretoposes via Category
+Theory&rdquo;, <em>Mathematical Logic and Theoretical Computer
+Science</em> (Lecture Notes in Pure and Applied Mathematics, Volume
+106), New York: Dekker, 301&ndash;327.</li>
+
+<li>&ndash;&ndash;&ndash;, 1989, &ldquo;Conceptual Completeness for
+First-order Intuitionistic Logic: an Application of Categorical
+Logic&rdquo;, <em>Annals of Pure and Applied Logic</em>, 41 (1):
+33&ndash;81.</li>
+
+<li>&ndash;&ndash;&ndash;, 1992, &ldquo;On an Interpretation of
+Second-order Quantification in First-order Propositional
+Intuitionistic Logic&rdquo;, <em>Journal of Symbolic Logic</em>, 57
+(1): 33&ndash;52.</li>
+
+<li>&ndash;&ndash;&ndash;, 2000, &ldquo;Categorical
+Logic&rdquo;, <em>Handbook of Logic in Computer Science, Vol.5</em>,
+Oxford: Oxford Unversity Press, 39&ndash;128.</li>
+
+<li>Pitts, A.&thinsp;M. &amp; Taylor, P., 1989, &ldquo;A Note of
+Russell&rsquo;s Paradox in Locally Cartesian Closed
+Categories&rdquo;, <em>Studia Logica</em>, 48 (3): 377&ndash;387.</li>
+
+<li>Plotkin, B., 2000, &ldquo;Algebra, Categories and
+Databases&rdquo;, <em>Handbook of Algebra, Vol. 2</em>, Amsterdam:
+Elsevier, 79&ndash;148.</li>
+
+<li>Porter, T., 2004, &ldquo;Interpreted Systems and Kripke Models for
+Multiagent Systems from a Categorical
+Perspective&rdquo;, <em>Theoretical Computer Science</em>, 323 (1&ndash;3):
+235&ndash;266.</li>
+
+<li>Reyes, G., 1991, &ldquo;A Topos-theoretic Approach to Reference
+and Modality&rdquo;, <em>Notre Dame Journal of Formal Logic</em>, 32
+(3): 359&ndash;391.</li>
+
+<li>&ndash;&ndash;&ndash;, 1974, &ldquo;From Sheaves to Logic&rdquo;,
+in <em>Studies in Algebraic Logic</em>, A. Daigneault (ed.),
+Providence: AMS.</li>
+
+<li>Reyes, G. &amp; Zawadowski, M., 1993, &ldquo;Formal Systems for
+Modal Operators on Locales&rdquo;, <em>Studia Logica</em>, 52 (4):
+595&ndash;613.</li>
+
+<li>Reyes, G. &amp; Zolfaghari, H., 1991, &ldquo;Topos-theoretic
+Approaches to Modality&rdquo;, <em>Category Theory (Como 1990)</em>
+(Lecture Notes in Mathematics, Volume 1488), Berlin: Springer,
+359&ndash;378.</li>
+
+<li>&ndash;&ndash;&ndash;, 1996, &ldquo;Bi-Heyting Algebras,
+Toposes and Modalities&rdquo;, <em>Journal of Philosophical
+Logic</em>, 25 (1): 25&ndash;43.</li>
+
+<li>Riehl, E., 2016, <em>Category Theory in Context</em>, Mineola:
+Dover.</li>
+
+<li>Rodabaugh, S.&thinsp;E. &amp; Klement, E.&thinsp;P.
+(eds.), <em>Topological and Algebraic Structures in Fuzzy Sets: A
+Handbook of Recent Developments in the Mathematics of Fuzzy Sets</em>
+(Trends in Logic, Volume 20), Dordrecht: Kluwer.</li>
+
+<li>Rodin, A., 2014, <em>Axiomatic Method and Category Theory</em>
+(Synthese Library: Volume 364), New York: Springer.</li>
+
+<li>Scedrov, A., 1984, <em>Forcing and Classifying Topoi</em>,
+Providence: AMS.</li>
+
+<li>Scott, P.J., 2000, &ldquo;Some Aspects of Categories in Computer
+Science&rdquo;, <em>Handbook of Algebra, Vol. 2</em>, Amsterdam: North
+Holland, 3&ndash;77.</li>
+
+<li>Seely, R.&thinsp;A.&thinsp;G., 1984, &ldquo;Locally Cartesian
+Closed Categories and Type Theory&rdquo;, <em>Mathematical Proceedings
+of the Cambridge Mathematical Society</em>, 95 (1): 33&ndash;48.</li>
+
+<li>Shapiro, S., 2005, &ldquo;Categories, Structures and the
+Frege-Hilbert Controversy: the Status of
+Metamathematics&rdquo;, <em>Philosophia Mathematica</em>, 13 (1):
+61&ndash;77.</li>
+
+<li>&ndash;&ndash;&ndash;, 2011,&ldquo;Foundations: Structures, Sets,
+and Categories&rdquo;, in <em>Foundational Theories of Classical and
+Constructive Mathematics</em>, G. Sommaruga (ed.), New York: Springer:
+97&ndash;110. </li>
+
+<li>Sica, G. (ed.), 2006, <em>What is Category Theory?</em>, Firenze:
+Polimetrica.</li>
+
+<li>Simpson, C., 2011, <em> Homotopy Theory of Higher Categories</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>Spivak, D., 2014, <em>Category Theory for the Sciences</em>,
+Cambridge: MIT Press.</li>
+
+<li>Taylor, P., 1996, &ldquo;Intuitionistic sets and
+Ordinals&rdquo;, <em>Journal of Symbolic Logic</em>, 61:
+705&ndash;744.</li>
+
+<li>&ndash;&ndash;&ndash;, 1999, <em>Practical Foundations of Mathematics</em>,
+Cambridge: Cambridge University Press.</li>
+
+<li>Tierney, M., 1972, &ldquo;Sheaf Theory and the Continuum
+Hypothesis&rdquo;, <em>Toposes, Algebraic Geometry and Logic</em>,
+F.W. Lawvere (ed.), Springer Lecture Notes in Mathematics 274,
+13&ndash;42.</li>
+
+<li>Van Oosten, J., 2002, &ldquo;Realizability: a Historical
+Essay&rdquo;, <em>Mathematical Structures in Computer Science</em>, 12
+(3): 239&ndash;263.</li>
+
+<li>&ndash;&ndash;&ndash;, 2008, <em>Realizability: an Introduction to its
+Categorical Side</em> (Studies in Logic and the Foundations of
+Mathematics, Volume 152), Amsterdam: Elsevier.</li>
+
+<li>Van der Hoeven, G. &amp; Moerdijk, I., 1984a, &ldquo;Sheaf Models
+for Choice Sequences&rdquo;, <em>Annals of Pure and Applied
+Logic</em>, 27 (1): 63&ndash;107.</li>
+
+<li>&ndash;&ndash;&ndash;, 1984b, &ldquo;On Choice
+Sequences determined by Spreads&rdquo;, <em>Journal of Symbolic
+Logic</em>, 49 (3): 908&ndash;916.</li>
+
+<li>&ndash;&ndash;&ndash;, 1984c, &ldquo;Constructing
+Choice Sequences for Lawless Sequences of Neighbourhood
+Functions&rdquo;, <em>Models and Sets</em> (Lecture Notes in
+Mathematics, Volume 1103), Berlin: Springer, 207&ndash;234.</li>
+
+<li>Walsh, P., 2017, &ldquo;Categorical Harmony and Path
+Induction&rdquo;, <em>The Review of Symbolic Logic</em>, 10 (2):
+301&ndash;321.</li>
+
+<li>Wood, R.J., 2004, &ldquo; Ordered Sets via
+Adjunctions&rdquo;, <em>Categorical Foundations</em>, M. C. Pedicchio
+&amp; W. Tholen (eds.), Cambridge: Cambridge University Press.</li>
+
+<li>Yanofski, N., 2003, &ldquo;A Universal Approach to
+Self-Referential Paradoxes, Incompleteness and Fixed
+Points&rdquo;, <em>The Bulletin of Symbolic Logic</em>, 9 (3):
+362&ndash;386.</li>
+
+</ul>
+
+</div>
+
+<div id="academic-tools">
+
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=category-theory" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/category-theory/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=category-theory&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/category-theory/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<ul>
+
+
+
+<li>Cheng, E. &amp; Lauda, A., 2004, 
+ <a href="http://eugeniacheng.com/wp-content/uploads/2017/02/cheng-lauda-guidebook.pdf" target="other"><em>Higher-Dimensional Categories: an illustrated guide book</em></a>. </li>
+
+
+
+<li>Fong, B. and Spivak, D., 2019, 
+ &ldquo;<a href="https://arxiv.org/pdf/1812.05765v2.pdf" target="other">Graphical Regular
+Logic</a>&rdquo;, available at arXiv.org.</li>
+
+<li><a href="http://www.mta.ca/~cat-dist/" target="other">The category theory mailing list</a>
+ (with many links and useful information)</li>
+ 
+<li><a href="http://golem.ph.utexas.edu/category/" target="other">The n-category Cafe, A blog on higher-dimensional categories, physics and philosophy</a></li>
+
+<li><a href="https://ncatlab.org/nlab/show/HomePage/" target="other">The nLab</a> (an open access resource on categories and higher-dimensional categories)</li>
+
+<li><a href="https://www.logicmatters.net/categories/" target="other">Logic Matters</a> Peter Smith&rsquo;s blog on logic. It contains a page on category theory with many references and discussions.</li>
+
+<li><a href="https://www.youtube.com/watch?v=yeQcmxM2e5I&amp;list=PLlGXNwjYhXYxKVa67r0pKuYufECy713bv/" target="other">The Catsters&rsquo; Category Theory Videos, introducing the basic concepts of category theory</a></li>
+
+<li><a href="https://www.math3ma.com/categories/" target="other">Math3Ma</a> A math blog that contains introductions to the main concepts of category theory, set theory and other mathematical topics</li>
+
+</ul>
+
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../logic-classical/">logic: classical</a> |
+ <a href="../philosophy-mathematics/">mathematics, philosophy of</a> |
+ <a href="../set-theory/">set theory</a>
+
+</p>
+
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2019</a> by
+
+<br />
+<a href="https://philo.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15376/sg/Jean-Pierre%20Marquis/" target="other">Jean-Pierre Marquis</a>
+&lt;<a href="m&#97;ilto:Jean-Pierre&#37;2eMarquis&#37;40umontreal&#37;2eca"><em>Jean-Pierre<abbr title=" dot ">&#46;</abbr>Marquis<abbr title=" at ">&#64;</abbr>umontreal<abbr title=" dot ">&#46;</abbr>ca</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

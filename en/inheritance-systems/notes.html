@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Inheritance Systems &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/inheritance-systems/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/inheritance-systems/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=inheritance-systems">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Inheritance Systems</a></h2>
+
+<div id="note-1">
+
+<p>
+ <a href="index.html#ref-1">1.</a>
+ More broadly, a trait is hereditary if offspring have a higher
+probability of resembling the corresponding trait of the parent (e.g.,
+eye color) than would otherwise be the case, or if similarity between
+parent and offspring is caused by inheritance processes. This
+sidesteps various complications, for example the effects of sexual
+reproduction and phenomena such alternation of generations, which are
+handled differently by the various conceptual frameworks discussed
+below. For a useful recent discussion of the notions of heredity and
+reproduction, see Godfrey-Smith (2009).</p>
+</div>
+
+<div id="note-2">
+
+<p>
+ <a href="index.html#ref-2">2.</a>
+ The tables below provide a detailed comparison of the inheritance
+systems of Jablonka and Lamb. These tables are reproduced with
+permission from Eva Jablonka and Marion J. Lamb (2005/2014).</p>
+
+<!--pdf include  <div class="pagebreak">
+</div> pdf include-->
+
+<div class="figure wide">
+
+<table class="cellpad-small-dense hrulesTH pdfsmall vert-top">
+<thead>
+<tr class="vert-bot">
+  <td>Inheritance system</td>
+  <td>Organizations of information</td>
+  <td>Dedicated copying system?</td>
+  <td>Transmits latent (nonexpressed) information?</td>
+  <td>Directions of transmission</td>
+  <td>Range of variation</td> </tr> </thead>
+<tbody>
+<tr>
+  <td>Genetic</td>
+  <td>Modular</td>
+  <td>Yes</td>
+  <td>Yes</td>
+  <td>Mostly vertical</td>
+  <td>Unlimited</td> </tr>
+<tr>
+  <td class="rule-below" style="padding-top:0.4em">Epigenetic</td>
+  <td colspan="5">&nbsp;</td> </tr>
+<tr>
+  <td><em>Self-sustaining loops</em></td>
+  <td>Holistic</td>
+  <td>No</td>
+  <td>No</td>
+  <td>Mostly vertical</td>
+  <td>Limited at the loop level, unlimited at the cell level</td>
+</tr>
+<tr>
+  <td><em>Structural templating</em></td>
+  <td>Holistic</td>
+  <td>No</td>
+  <td>No</td>
+  <td>Mostly vertical</td>
+  <td>Limited at the structure level, unlimited at the cell level</td>
+</tr>
+<tr>
+  <td><em>RNA silencing</em></td>
+  <td>Holistic</td>
+  <td>Yes</td>
+  <td>Sometimes</td>
+  <td>Vertical and sometimes horizontal</td>
+  <td>Limited at the single transcript level, unlimited at the cell
+level</td> </tr>
+<tr>
+  <td><em>Chromatin marks</em></td>
+  <td>Modular and holistic</td>
+  <td>Yes (for methylation)</td>
+  <td>Sometimes</td>
+  <td>Vertical</td>
+  <td>Unlimited</td> </tr>
+<tr>
+  <td><em>Organism-level developmental legacies</em></td>
+  <td>Holistic</td>
+  <td>No</td>
+  <td>No</td>
+  <td>Mostly vertical</td>
+  <td>Limited</td> </tr>
+<tr>
+  <td class="rule-below" style="padding-top:0.4em">Behavioral</td>
+  <td colspan="5">&nbsp;</td> </tr>
+<tr>
+  <td><em>Behavior-affecting substances</em></td>
+  <td>Holistic</td>
+  <td>No</td>
+  <td>No</td>
+  <td>Both vertical and horizontal</td>
+  <td>Limited at the single behavior level, unlimited for
+lifestyles</td> </tr>
+<tr>
+  <td><em>Nonimitative social learning</em></td>
+  <td>Holistic</td>
+  <td>No</td>
+  <td>No</td>
+  <td>Both vertical and horizontal</td>
+  <td>Limited at the single behavior level, unlimited for
+lifestyles</td> </tr>
+<tr>
+  <td><em>Imitation</em></td>
+  <td>Modular</td>
+  <td>Probably</td>
+  <td>No</td>
+  <td>Both vertical and horizontal</td>
+  <td>Unlimited</td> </tr>
+<tr>
+  <td style="padding-top:0.4em">Symbolic</td>
+  <td>Modular and holistic</td>
+  <td>Yes, several</td>
+  <td>Yes</td>
+  <td>Both vertical and horizontal</td>
+  <td>Unlimited</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Table 1.</span> The reproduction of
+information</p>
+</div>
+
+<!--pdf include  <div class="pagebreak">
+</div> pdf include-->
+
+<div class="figure wide">
+
+<table class="cellpad-small-dense hrulesTH pdfsmall vert-top">
+<thead>
+<tr class="vert-bot">
+  <td>Inheritance system</td>
+  <td>Variation is targeted (biased generation)?</td>
+  <td>Variation subject to developmental filtering and
+modification?</td>
+  <td>Variation constructed through direct planning?</td>
+  <td>Variation can change the selective environment?</td> </tr>
+</thead>
+<tbody>
+<tr>
+  <td>Genetic</td>
+  <td>Generally not, except for the directed changes that are part of
+development and the various types of interpretive mutation</td>
+  <td>Usually not, although expressed genetic changes may have to
+survive selection between cells prior to sexual or asexual
+reproduction</td>
+  <td>No</td>
+  <td>Only insofar as genes can affect all aspects of epigenetics,
+behavior, and culture</td> </tr>
+<tr>
+  <td>Epigenetic</td>
+  <td>Yes, a lot of epigenetic variations are produced as specific
+responses to inducing signals</td>
+  <td>Yes, selection can occur between cells prior to reproduction;
+epigenetic states can be modified or reversed during meiosis and early
+embryogenesis</td>
+  <td>No</td>
+  <td>Yes, because the products of cellular activities can affect the
+environment in which a cell, its neighbors, and its descendants
+live</td> </tr>
+<tr>
+  <td>Behavioral</td>
+  <td>Yes, because of emotional, cognitive, and perceptual biases</td>
+  <td>Yes, behavior is selected and modified during the animal&rsquo;s
+lifetime</td>
+  <td>No</td>
+  <td>Yes, new social behavior and traditions alter the social and
+sometimes also the physical conditions in which an animal lives</td>
+</tr>
+<tr>
+  <td>Symbolic</td>
+  <td>Yes, because of emotional, cognitive, and perceptual biases</td>
+  <td>Yes, at many levels, in many ways</td>
+  <td>Yes, at many levels, in many ways</td>
+  <td>Yes, very extensively, by affecting many aspects of the social
+and physical conditions of life</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Table 2.</span> Targeting, constructing, and
+planning transmitted variation</p>
+</div>
+</div> 
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2026</a> by
+
+<br />
+<a href="http://www.ehudlamm.com" target="other">Ehud Lamm</a>
+&lt;<a href="m&#97;ilto:ehud&#37;2elamm&#37;40gmail&#37;2ecom"><em>ehud<abbr title=" dot ">&#46;</abbr>lamm<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

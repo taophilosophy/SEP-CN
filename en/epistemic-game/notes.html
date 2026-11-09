@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Epistemic Foundations of Game Theory &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/epistemic-game/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/epistemic-game/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemic-game">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Epistemic Foundations of Game Theory</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ When \(X\) is infinite, we need to define a \(\Sigma\)-algebra on
+\(X\), but these technical issues are not important for us at this
+point, so we restrict attention to finite sets. In this case,
+\(p:X\rightarrow[0,1]\) is a probability measure when \(\sum_{x\in X}
+p(x) = 1\).</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ This does not mean that the player will know exactly what the other
+players will do in the game. There may be more than one
+&ldquo;rational choice&rdquo; or the other players may randomize.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ A variant of this problem is the well-known <em>sleeping beauty
+problem</em>, which has been extensively discussed in the philosophy
+literature. Of course, much of the discussion of the sleeping beauty
+problem found in the philosophy literature is relevant here; however,
+the issues surrounding the sleeping beauty problem is typically framed
+differently than we have done in this section. See Titelbaum (2013)
+for a survey and pointers to the relevant literature.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ Some of the literature in epistemic game theory distinguishes between
+&ldquo;belief-based&rdquo; approaches when Harsanyi type spaces are
+used as a model of a game and &ldquo;knowledge-based&rdquo; approaches
+when Aumann structures (also called Kripke structures) are used as a
+model of a game. However, both types of models can be used to
+represent both knowledge and beliefs of the players in a game.</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ While hard information shares <em>some</em> of the characteristics
+that have been attributed to knowledge in epistemology, such as
+truthfulness, researchers in epistemic game theory are well aware of
+discrepancies between hard information and our philosophical
+understanding of knowledge.</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ Once again, philosophical carefulness is in order here. The whole
+range of informational attitudes that are labeled as
+&ldquo;beliefs&rdquo; in the epistemic game theory literature falls
+into the category of attitudes that can be described as
+&ldquo;regarding something as true&rdquo; (Schwitzgebel 2006 [2021]),
+among which belief seems to form a proper sub-category.</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ Recall that, for simplicity, we identify the outcomes of the game
+with the strategy profiles. It is not difficult to adapt the models
+presented in this entry to account for uncertainty about outcomes
+associated with a given strategy profile.</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ Given an equivalence relation \(\sim_i\) on \(W\), the collection</p>
+
+\[\Pi_i=\{[w]_i\mid w\in W\}\]
+
+<p>
+is a partition. Furthermore, given any partition \(\Pi_i\) on
+\(W\),</p> 
+\[\sim_i=\{(w,v)\mid v\in \Pi_i(w)\}\]
+
+<p>
+is an equivalence relation with \([w]_i=\Pi_i(w)\).</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ If \(W\) is infinite, we need an additional property that \(W\) is
+<em>well-founded</em> implying that every non-empty subset of \(W\)
+has a maximal element according to \(\succeq_i\). /p&gt;</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ As mentioned in Footnote 1, when \(W\) is infinite, we need to define
+a \(\Sigma\)-algebra on \(W\), but these technical issues are not
+important for us at this point, so we restrict attention to finite
+sets of states. In this case, \(p:W\rightarrow[0,1]\) is a probability
+measure when \(\sum_{w\in W} p(w) = 1\).</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ Of course, one could consider a different class of models where
+monotonicity does not hold, such as neighborhood models (Pacuit
+2017).</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ Even though it is important to consider situations in which a
+player&rsquo;s pure strategy is strictly dominated by a mixed
+strategy, we do not extend the above definition to probabilities over
+the opponents&rsquo; strategies. That is, we do not replace the above
+definition with:</p>
+
+<p class="indent">
+Suppose that \(G=\langle N, (S_i)_{i\in N}, (u_i)_{i\in N}\rangle\) is
+a game in strategic form. We say that \(m_i\) is strictly
+<i>p</i>-dominated \(m_i'\) with respect to \(X\subseteq
+\Delta(S_{-i})\), provided that for all \(q\in X\),
+\(U_i(m_i,q)&gt;U_i(m_i',q)\), where \(U_i(m_1, q)=\sum_{s\in
+\times_{i\in N}S_i} m_i(s_i) * q(s_{-i}) * u_i(s)\).</p>
+
+<p>
+It is not hard to see that strict dominance and <i>p</i>-strict
+dominance are equivalent. Obviously, <i>p</i>-strict dominance implies
+strict dominance. To see the converse, suppose that \(m'\) is strictly
+dominated by \(m\) with respect to \(X\subseteq S_{-i}\). We show that
+for all \(q\in \Delta(X)\), \(U_i(m_i,q) &gt; U_i(m_i',q)\) (and so
+\(m'\) is <i>p</i>-strictly dominated by \(m\) with respect to
+\(\Delta(X)\)). Suppose that \(q\in \Delta(X)\). Then,</p> 
+\[
+\begin{align*}
+U_i(m, q) &amp; = \sum_{s_{-i}\in S_{-i}} q(s_{-i}) U_i(m, s_{-i}) \\
+&amp;  &gt; \sum_{s_{-i}\in S_{-i}} q(s_{-i}) U_i(m', s_{-i})=U_i(m',q).\\
+\end{align*}
+\]
+
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ This discussion is related to the debate between causal and
+evidential decision theorists in Newcomb-like decision problems (see
+Weirich 2008 [2024]).</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ The uniqueness of the payoffs at each outcome is needed to ensure
+that there is a unique backward induction solution.</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ Player \(i\) does not have an incentive to deviate from a mixed
+strategy profile \(\mathbf{m}\) if there is no mixed strategy \(m'\)
+for player \(i\) such that \(i\) assigns strictly greater utility to
+\(m'\) than to \(\mathbf{m}_i\) given that the other players adopt
+their mixed strategies in \(\mathbf{m}\). To formally define this, we
+need to define the utility of a mixed strategy profile for a player.
+Suppose that </p> 
+\[G=\langle N, (S_i)_{i\in N}, (u_i)_{i\in N}\rangle\]
+
+<p>
+is a game in strategic form and \(\mathbf{m}\in\times_{i\in
+N}\Delta(S_i)\) is a mixed strategy profile. Let \(S=\times_{i\in N}
+S_i\) be the set of pure-strategy profiles \(N=\{1, \ldots, n\}\).
+Then the utility of a mixed strategy profile \(\mathbf{m}\) for player
+\(i\) is: </p> 
+\[U_i(m) = \sum_{\mathbf{s}\in S} \mathbf{m}_1(\mathbf{s}_1)*\cdots \mathbf{m}_n(\mathbf{s}_n)* u_i(\mathbf{s}).\]
+
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ See Joyce (2012) for a similar discussion about the well-known
+&ldquo;Death in Damascus&rdquo; example.</p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>It
+ is important to note that Harsanyi was not motivated by a
+dissatisfaction with the thought that players delegate their choices
+to a randomizing device. He was concerned with another puzzling
+feature of mixed strategy Nash equilibria. When all players play their
+component of a mixed strategy Nash equilibrium, each player is
+indifferent between all of her strategies that are assigned a non-zero
+probability by her mixed strategy. Harsanyi&rsquo;s purification
+theorem explains why each player uses the probability given in the
+mixed strategy Nash equilibrium rather than some other mixture between
+her available strategies.</p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ There can even be strategies outside the support of a mixed strategy
+that are a best response to the mixed strategy played by the others,
+although these cases are extremely unlikely (cf. the notion of an
+<em>extra-weak</em> equilibrium from Harsanyi 1973).</p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ The models used by Samuelson differ from the ones presented in
+ <a href="index.html#GamMod">Section 2</a>.
+ In his model, each state is assigned a <em>set</em> of actions for
+each agent (rather than a single action). This formal detail is
+important for Samuelson&rsquo;s main results, but is not crucial for
+the main point we are making here.</p>
+</div>
+
+<div id="note-20">
+
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ Recall the well-known distinction between &ldquo;picking&rdquo; and
+&ldquo;choosing&rdquo; from the seminal paper by Edna Ullmann-Margalit
+and Sidney Morgenbesser (1977).</p>
+</div>
+
+<div id="note-21">
+
+<p>
+
+ <a href="index.html#ref-21">21.</a>
+ Wlodeck Rabinowicz (1992) takes this idea even further and argues
+that from the principle of indifference, players must assign equal
+probability to all choice-worthy options.</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2025</a> by
+
+<br />
+<a href="https://philosophy.umd.edu/directory/eric-pacuit" target="other">Eric Pacuit</a>
+&lt;<a href="m&#97;ilto:epacuit&#37;40umd&#37;2eedu"><em>epacuit<abbr title=" at ">&#64;</abbr>umd<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+<a href="http://www.philosophie1.uni-bayreuth.de/en/team/roy/" target="other">Olivier Roy</a>
+&lt;<a href="m&#97;ilto:Olivier&#37;2eRoy&#37;40uni-bayreuth&#37;2ede"><em>Olivier<abbr title=" dot ">&#46;</abbr>Roy<abbr title=" at ">&#64;</abbr>uni-bayreuth<abbr title=" dot ">&#46;</abbr>de</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,405 @@
+# analysis — bib2（supplement）
+
+> （《analysis》词条补充材料，源：plato.stanford.edu/entries/analysis/bib2.html）
+
+#### Supplement to Analysis
+
+## Annotated Bibliography on Analysis §2: Ancient Conceptions of Analysis
+
+This bibliography is intended as a reference guide to the key works that deal, in whole or in part, with analysis and related topics such as analyticity and definition. Cross-references are by name(s) of author(s) or editor(s) and either year of publication or abbreviation as indicated immediately after their name(s). Notes in square brackets at the end of an entry indicate the relevant part(s) of the work and/or its significance to the topic of analysis. Key passages can be found quoted in the supplementary document on [Definitions and Descriptions of Analysis](analysis.s1.md), linked from the relevant entry and note by means of ‘{[Quotation(s)](analysis.s1.md)}’. In some cases where there is material available online, an internet address is also given after the entry.
+
+This section of the bibliography corresponds to Section 2 of the main entry, and is divided into subsections which correspond to the subsections of the supplementary document on [Ancient Conceptions of Analysis](analysis.s2.md), with the exception of the introduction and conclusion. Where works include important material under more than one heading, they are cited under each heading; but duplication has been kept to a minimum. Cross-references to other (sub)sections are provided in curly brackets.
+
+- 2.1 General
+- 2.2 Ancient Greek Geometry
+- 2.3 Plato
+- 2.4 Aristotle
+- 2.5 Ancient Chinese philosophy
+- 2.6 Ancient Indian philosophy
+
+[Annotated Bibliography on Analysis: Full List of Sections](analysis.bib1.md)
+
+### 2.1 General
+
+- Adamson, Peter and Jonardon Ganeri, 2020, *Classical Indian Philosophy*, Oxford: Oxford University Press
+- Algra, K., J. Barnes, J. Mansfeld, and M. Schofield, (eds.), 1999, *Hellenistic Philosophy*, Cambridge: Cambridge University Press [includes Barnes, Bobzien and Mignucci 1999]
+- Barnes, Jonathan, 1990, *The Toils of Scepticism*, Cambridge: Cambridge University Press [ch. 4: ‘Hypotheses’]
+- ––– 1991, ‘Galen on Logic and Therapy’, in Durling and Kudlien 1991, 50–102
+- Barnes, J., S. Bobzien, and M. Mignucci, 1999, ‘Logic’, in Algra *et al.* 1999, 77–176 [137–48: analysis in Stoic logic]
+- Bobzien, Susanne, 1996, ‘Stoic Syllogistic’, *Oxford Studies in Ancient Philosophy* 14, 133–92
+- ––– 2020, ‘Ancient Logic’, in *Stanford Encyclopedia of Philosophy*
+- Bowen, Alan C., (ed.), 1991, *Science and Philosophy in Classical Greece*, London and New York: Garland [includes Mueller 1991]
+- Charles, David, (ed.), 2010, *Definition in Greek Philosophy*, Oxford: Oxford University Press [Part I: ‘Plato on Definition’ {§2.3}; Part II: ‘Aristotle on Definition’ {§2.4}; Part III: ‘Post-Aristotelian Writers on Definition’]
+- Durling, R. and F. Kudlien, (eds.), 1991, *Galen’s Method of Healing*, Leiden [includes Barnes 1991]
+- Ferejohn, Michael T., 2014, *Formal Causes: Definition, Explanation, and Unity in Socratic and Aristotelian Thought*, Oxford: Oxford University Press [chs. 1–2: Socratic definitions {§2.3}; chs. 3–6: Aristotle {§2.4}]
+- Fine, Gail, 2014, *The Possibility of Inquiry: Meno’s Paradox from Socrates to Sextus*, Oxford: Oxford University Press [Part I: ‘Plato’s *Meno*’ {§2.3}; Part II: ‘Aristotle and After’ {§2.4}]
+- Frede, Michael, 1974, ‘Stoic vs. Aristotelian Syllogistic’, in Frede 1987a, 99–124; orig. publ. 1974 {§2.4}
+- ––– 1982, ‘The Method of the So-Called Methodical School of Medicine’, in Frede 1987a, 261–78; orig. publ. 1982
+- ––– 1987a, *Essays in Ancient Philosophy*, Oxford: Oxford University Press [includes Frede 1974, 1982, 1987b]
+- ––– 1987b, ‘On Galen’s Epistemology’, in Frede 1987a, 279–98 [288–97: Galen’s methodology]
+- Frede, Michael and Gisela Striker, (eds.), 1996, *Rationality in Greek Thought*, Oxford: Oxford University Press [includes Lloyd 1996, Striker 1996 {§2.4}]
+- Fung, Yu-Lan, 1948, *A Short History of Chinese Philosophy*, ed. Derk Bodde, New York: The Free Press
+- Galen, *TM*, *On the Therapeutic Method*, first two books tr. in Hankinson 1991
+- ––– *SW*, *Selected Works*, tr. with an introd. and notes by P. N. Singer, Oxford: Oxford University Press, 1997 [xiv–xvii: scientific methodology; 127–49 (Errors of the Soul): method of proof]
+- ––– *AC*, *On Antecedent Causes*, ed. R. J. Hankinson, Cambridge: Cambridge University Press, 1998
+- Ganeri, Jonardon, (ed.), 2001a, *Indian Logic: A Reader*, London: Routledge
+- Garfield, Jay L. and William Edelglass, (eds.), 2011, *The Oxford Handbook of World Philosophy*, Oxford: Oxford University Press
+- Gentzler, Jyl, (ed.), 1998, *Method in Ancient Philosophy*, Oxford: Oxford University Press [includes Irwin 1998 {§2.3}, Lloyd 1998 {§2.2}, Reeve 1998 {§2.4}, Striker 1998 {§2.4}] {§1.2}
+- Graham, A. C., 1989, *Disputers of the Dao: Philosophical Argument in Ancient China*, Chicago: Open Court
+- ––– (ed.), 2003, *Later Mohist Logic, Ethics and Science*, Hong Kong: The Chinese University Press [Mohist logic {§2.5}]
+- Guthrie, W. K. C., *HGP*, *A History of Greek Philosophy*, 8 vols., Cambridge: Cambridge University Press, 1962- {§2.3, §2.4}
+- Hankinson, R. J., 1991, *Galen on the Therapeutic Method*, Oxford: Oxford University Press [inc. tr. of first two books of Galen *TM*]
+- ––– 1998, *Cause and Explanation in Ancient Greek Thought*, Oxford: Oxford University Press
+- Harbsmeier, Christoph, 1998, *Science and Civilisation in China, Vol. 7, Part I: Language and Logic*, Cambridge: Cambridge University Press
+- Lloyd, G. E. R., 1979, *Magic, Reason and Experience*, Cambridge: Cambridge University Press [ch. 2: dialectic and demonstration]
+- ––– 1996, ‘Theories and Practices of Demonstration in Galen’, in Frede and Striker 1996, 255–77
+- ––– 2004, *Ancient Worlds, Modern Reflections: Philosophical Perspectives on Greek and Chinese Science and Culture*, Oxford: Clarendon Press [Chinese philosophy {§2.5}]
+- ––– 2014, *The Ideals of Inquiry: An Ancient History*, Oxford: Oxford University Press
+- Long, A. A. and D. N. Sedley, 1987, *The Hellenistic Philosophers*, 2 vols., Cambridge: Cambridge University Press, Vol. 1: Translations of the principal sources, with philosophical commentary; Vol. 2: Greek and Latin texts with notes and bibliography [Epicureanism: §18 scientific methodology; Stoicism: §31 dialectic and rhetoric; §32 definition and division; §33 sayables (*lekta*); §42 scientific methodology; The Academics: §68 methodology]
+- Mou, Bo, (ed.), 2009, *History of Chinese Philosophy*, London: Routledge
+- Mueller, Ian, 1991, ‘On the Notion of a Mathematical Starting Point in Plato, Aristotle, and Euclid’, in Bowen 1991, 59–97
+- Oeing-Hanhoff, L., 1971, ‘Analyse/Synthese’, in Ritter 1971, columns 232–48 {§1.1}
+- Staal, Frits, 1965, ‘Euclid and Pāṇini’, *Philosophy East and West* 15.2: 99–116 [Greek geometry {§2.2}; Indian philosophy {§2.6}]
+
+### 2.2 Ancient Greek Geometry
+
+- Behboud, M., 1994, ‘Greek Geometrical Analysis’, *Centaurus* 37, 52–86
+- Cohen, R. S. *et al.*, (eds.), 1976, *Essays in Memory of Imre Lakatos*, Dordrecht: D. Reidel [includes Hintikka and Remes 1976]
+- Corcoran, John, (ed.), 1974, *Ancient Logic and its Modern Interpretations*, Dordrecht: D. Reidel [includes Mueller 1974]
+- Cuomo, Serafina, 2000, *Pappus of Alexandria and the Mathematics of Late Antiquity*, Cambridge: Cambridge University Press [§5.1: theorems and problems]
+- Euclid, *E*, *The Thirteen Books of The Elements*, 3 vols., 2nd ed., tr. T. H. Heath, New York: Dover, 1956, orig. publ. Cambridge: Cambridge University Press, 1925 [I, 136–42: Heath’s account of analysis and synthesis (cf. Heath 1925 below); III, 442–3: interpolated account of analysis and synthesis in Book XIII, Prop. 1 {Quotation}]
+- Gulley, Norman, 1958, ‘Greek Geometrical Analysis’, *Phronesis* 3, 1–14
+- Hankel, Hermann, 1874, *Zur Geschichte der Mathematik in Alterthum und Mittelalter*, Leipzig: B. G. Teubner [137–50: transformation and resolution in analysis]
+- Harari, Orna, 2006, ‘*Methexis* and Geometrical Reasoning in Proclus’ Commentary on Euclid’s *Elements*’, *Oxford Studies in Ancient Philosophy* 30 (Summer 2006)
+- Heath, Thomas L., 1921, *A History of Greek Mathematics*, 2 vols., New York: Dover, 1981, orig. publ. Oxford: Oxford University Press [I, ch. 9: Plato {§2.3}; 371–2, 421–2: analysis]
+- ––– 1925, ‘Introduction’ to Euclid, *E*, Vol. I, 1–151 [ch. 9: methodology, esp. 136–42: analysis and synthesis]
+- Hintikka, Jaakko and Unto Remes, 1974, *The Method of Analysis*, Dordrecht: D. Reidel {§1.2}
+- ––– 1976, ‘Ancient Geometrical Analysis and Modern Logic’, in Cohen *et al.* 1976
+- Klein, Jacob, 1968, *Greek Mathematical Thought and the Origin of Algebra*, tr. Eva Brann, Cambridge, Mass.: MIT Press; repr. New York: Dover, 1981; orig. publ. in German 1934, 1936 [154–71, 179–85: Vieta and ancient analysis] {§4.2}
+- Knorr, Wilbur Richard, 1993, *The Ancient Tradition of Geometrical Problems*, New York: Dover [9, 66–76, 95, 354–60]
+- Lachterman, David Rapport, 1989, *The Ethics of Geometry*, London: Routledge [ch. 2: ‘The Euclidean Context’]
+- Lakatos, Imre, 1978a, *Mathematics, Science and Epistemology*, Cambridge: Cambridge University Press
+- ––– 1978b, ‘The Method of Analysis-Synthesis’, in Lakatos 1978a, 70–103 [Pappus and Descartes; response to Hintikka and Remes 1974 {Quotation}] {§4.2}
+- Lloyd, G. E. R., 1998, ‘Techniques and Dialectic: Method in Greek and Chinese Mathematics and Medicine’, in Gentzler 1998, 351–76 {§2.1}
+- Mäenpää, Petri, 1997, ‘From Backward Reduction to Configurational Analysis’, in Otte and Panza 1997, 201–26 {§1.2}
+- Mahoney, M. S., 1968, ‘Another Look at Greek Geometrical Analysis’, *Archive for History of Exact Sciences* 5 (1968–9), 319–48
+- Marchi, Peggy, 1980, ‘The Method of Analysis in Mathematics’, in Nickles 1980, 159–72 [Pythagorean vs. Euclidean approaches regarding the choice of knowns]
+- Morrow, Glenn R., 1970, ‘Introduction’ to Proclus *CEE* [xxxvi ff.: analysis]
+- Mueller, Ian, 1974, ‘Greek Mathematics and Greek Logic’, in Corcoran 1974, 35–70
+- ––– 1981, *Philosophy of Mathematics and Deductive Structure in Euclid’s Elements*, Cambridge, Mass.: MIT Press
+- Netz, Reviel, 1999, *The Shaping of Deduction in Greek Mathematics*, Cambridge: Cambridge University Press
+- ––– 2000, ‘Why did Greek Mathematicians Publish their Analyses?’, in Suppes *et al.* 2000, 139–57
+- ––– 2004a, *The Transformation of Mathematics in the Early Mediterranean World*, Cambridge: Cambridge University Press
+- ––– (ed.), 2004b, *The Works of Archimedes*, Vol. 1, Cambridge: Cambridge University Press [pp. 190–1, 201–2, 207, 217–8]
+- Nickles, Thomas, (ed.), 1980, *Scientific Discovery, Logic, and Rationality*, Dordrecht: D. Reidel [includes Marchi 1980] {§4.2}
+- Pappus of Alexandria, *PAC*, *Pappi Alexandrini Collectionis quae supersunt*, 3 vols., ed. F. Hultsch, Berlin: F. Weidmann, 1875–8 [634–6: analysis and synthesis {Quotation}; tr. in Hintikka and Remes 1974, 8–10; Heath 1925, 138–9; Thomas 1941, 597–601]
+- Pólya, George, 1957, *How to Solve It*, 2nd ed., London: Penguin, 1990, 1st ed. 1945 [141–8: Pappus {Quotation}]
+- Proclus, *CEE*, *A Commentary on the First Book of Euclid’s Elements*, tr. with introd. and notes by Glenn R. Morrow, Princeton: Princeton University Press, 1970 [54–5, 165–6, 189, 192: analysis; 7, 46, 57, 198–9: analysis vs. synthesis {Quotations}]
+- Rehder, W., 1982, ‘Die Analysis und Synthesis bei Pappus’, *Philosophia Naturalis* 19, 350–70 [offers translation of the Pappus text using a 1589 Latin tr. by F. Commandinus]
+- Robinson, Richard, 1936, ‘Analysis in Greek Geometry’, *Mind* 45, 464–73; repr. in Robinson 1969, 1–15
+- ––– 1969, *Essays in Greek Philosophy*, Oxford: Oxford University Press
+- Saito, K., 1986, ‘Compounded Ratio in Euclid and Apollonius’, *Historia Scientiarum* 31, 25–59
+- Schmitz, Markus, 1997, *Euklids Geometrie und ihre mathematiktheoretische Grundlegung in der neuplatonischen Philosophie des Proklos*, Würzburg: Königshausen & Neumann [108–26, 277–307: method of analysis]
+- Suppes, P., J. Moravcsik, and H. Mendell, (eds.), 2000, *Ancient and Medieval Traditions in the Exact Sciences: Essays in Memory of Wilbur Knorr*, Stanford, California: CSLI Publications [includes Netz 2000]
+- Szabó, Árpád, 1969, *Die Anfänge der griechischen Mathematik*, Munich/Vienna: R. Oldenbourg, tr. by A.M. Ungar as *The Beginnings of Greek Mathematics*, Dordrecht: D. Reidel, 1978
+- ––– 1974, ‘Working Backwards and Proving by Synthesis’, App. I to Hintikka and Remes 1974, 118–30
+- ––– 1975, ‘Analysis und Synthesis’, *Acta Classica Universitatis Scientiarum Debreceniensis* 10/11 (1974–5), 155–64 [Pappus on analysis]
+- Tannery, Paul, 1915, ‘Du sens des mots analyse et synthèse chez les Grecs et de leur algèbre géométrique’, in *Mémoires Scientifiques*, Vol. III, Paris, 162–9
+- Thomas, Ivor, (ed.), 1941, *Greek Mathematical Works*, Vol. II, Loeb Classical Library, Cambridge, Mass.: Harvard and London: Heinemann [597–601: tr. of Pappus’ account of analysis]
+
+### 2.3 Plato
+
+- Ackrill, J. L., 1970, ‘In Defence of Platonic Division’, in Ackrill 1997, 93–109; orig. publ. in 1970
+- ––– 1973, ‘Anamnesis in the *Phaedo*: Remarks on 73c–75c’, in Ackrill 1997, 13–32; orig. publ. in 1973
+- ––– 1997, *Essays on Plato and Aristotle*, Oxford: Oxford University Press {§2.4}
+- Ambuel, David, 2007, *Image and Paradigm in Plato’s Sophist*, Las Vegas: Parmenides [Part I: method of division]
+- Annas, Julia, 1981, *An Introduction to Plato’s Republic*, Oxford: Oxford University Press [chs. 8–11]
+- Bailey, D. T. J., 2006, ‘Plato and Aristotle on the Unhypothetical’, *Oxford Studies in Ancient Philosophy* 30 (Summer 2006) {§2.4}
+- Beaney, Michael and Bob Clark, 2018, ‘Seeing-As and Mathematical Creativity’, in Brendan Harrington, Dominic Shaw and Michael Beaney, (eds.), *Aspect Perception after Wittgenstein: Seeing-As and Novelty*, London: Routledge, pp. 131–51 [§1 on Meno’s paradox and geometry]
+- Benson, Hugh H., 1990a, ‘The Priority of Definition and the Socratic Elenchus’, *Oxford Studies in Ancient Philosophy* 8 (1990), 19–65 [fn. 2 contains useful bib.]
+- ––– 1990b, ‘Misunderstanding the “What-is-F-ness” Question’, in Benson 1992, 123-36; orig. in *Archiv für Geschichte der Philosophie* 72, 125–42
+- ––– (ed.), 1992, *Essays on the Philosophy of Socrates*, Oxford and New York [includes Benson 1990b, Beversluis 1987]
+- ––– 1995, ‘The Dissolution of the Problem of the *Elenchos*’, in *Oxford Studies in Ancient Philosophy* 13
+- ––– 2000, *Socratic Wisdom: The Model of Knowledge in Plato’s Early Dialogues*, Oxford: Oxford University Press
+- ––– 2003, ‘The Method of Hypothesis in the *Meno*’, *Proceedings of the Boston Area Colloquium in Ancient Philosophy* 18, 95–126
+- ––– 2005, ‘Plato’s Rationalistic Method’, in Alan Nelson, (ed.), *A Companion to Rationalism*, Oxford: Blackwell, 85–99
+- Beversluis, J., 1974, ‘Socratic Definition’, *Amer. Phil. Quar.* 11, 331–6
+- ––– 1987, ‘Does Socrates Commit the Socratic Fallacy?’, in Benson 1992, 107–22; orig. in *Amer. Phil. Quar.* 24 (1987), 211–23
+- Bluck, R. S., (ed.), 1961, *Plato’s Meno*, Cambridge: Cambridge University Press [‘Introduction’, §D: ‘The Hypothetical Method’; App.: ‘The Geometrical Problem at 86e *sq.*’]
+- Bostock, David, 1974, *Plato’s Theaetetus*, Oxford: Oxford University Press [ch. 6: ‘True Belief with an Account’]
+- ––– 1986, *Plato’s Phaedo*, Oxford: Oxford University Press [ch. 8: ‘The Method of Hypothesis’]
+- Brickhouse, Thomas C. and Nicholas D. Smith, 1984a, ‘The Paradox of Socratic Ignorance in the *Apology*’, *Hist. of Phil. Quar.* 1984, 125–31
+- ––– 1984b, ‘Vlastos on the *Elenchus*’, *Oxford Studies in Ancient Philosophy* 2, 185–95 [reply to Vlastos 1983]
+- ––– 1991, ‘Socrates’ Elenctic Mission’, in *Oxford Studies in Ancient Philosophy* 9, 131–59
+- Bronstein, David, 2016, *Aristotle on Knowledge and Learning: The Posterior Analytics*, Oxford: Oxford University Press [Introduction: Meno’s paradox] {§2.4}
+- Brown, Lesley, 2010, ‘Definition and Division in Plato’s *Sophist*’, in Charles 2010, 151–71 {§2.1}
+- Brown, Malcolm, 1967, ‘Plato Disapproves of the Slave-Boy’s Answer’, in Brown 1971, 198–242; orig. in *Review of Metaphysics* 20, 57–93
+- ––– (ed.), 1971, *Plato’s Meno with Essays*, Indianapolis: Bobbs-Merrill Co. [includes Brown 1967, Cornford 1971]
+- Burnyeat, Myles, 1977, ‘Examples in Epistemology: Socrates, Theaetetus and G. E. Moore’, *Philosophy* 52, 381–98
+- ––– 1990, *The Theaetetus of Plato*, Indianapolis: Hackett [Introd., Part III: ‘Knowledge is true judgement with an account’]
+- Canto Sperber, M., (ed.), 1991, *Les Paradoxes de la Connaissance: Essais sur le Ménon de Platon*, Paris: Odile Jacob
+- Charles, David, 2006, ‘Types of Definition in the *Meno*’, in Judson and Karasmanis 2006, 110–28
+- ––– 2010, ‘The Paradox in the *Meno* and Aristotle’s Attempt to Resolve It’, in Charles 2010, 115–50 {§2.1}
+- Cherniss, Harold, 1951, ‘Plato as Mathematician’, *Review of Metaphysics* 4, 395–425
+- Cornford, F. M., 1932, ‘Mathematics and Dialectic in the *Republic* VI–VII’ (in 2 parts), *Mind* 41, 37–52, 173–90
+- ––– 1935, *Plato’s Theory of Knowledge: The Theaetetus and the Sophist of Plato translated with a running commentary*, London: Kegan Paul [165–87: the method of collection and division in the *Sophist*]
+- ––– 1971, ‘Anamnesis’, in Brown 1971
+- Crombie, I. M., 1976, ‘Socratic Definition’, in Day 1994a, 172–207; orig. publ. in *Paideia* 5, 80–102
+- Dancy, R.M., 2004, *Plato’s Introduction of Forms*, Cambridge: Cambridge University Press [Part I: ‘A Socratic Theory of Definition’; Part II, ch. 9: ‘The *Meno*’]
+- Day, Jane M., (ed.), 1994a, *Plato’s Meno in Focus*, London: Routledge [includes Crombie 1976, Moravcsik 1971, Nehamas 1985, Vlastos 1965, N. White 1975]
+- ––– 1994b, ‘Introduction’ to Day 1994a, 1–34
+- Deslauriers, Marguerite, 1990, ‘Plato and Aristotle on Division and Definition’, *Ancient Philosophy* 10, 203–19 {§2.4}
+- Diogenes Laertius, *LEP*, *Lives of Eminent Philosophers*, 2 vols., tr. R. D. Hicks, London: Heinemann and Harvard University Press, 1925 [I, 299: Plato and the method of analysis]
+- Doyle, James, 2012, ‘Socratic Methods’, *Oxford Studies in Ancient Philosophy* 42
+- Ebert, Theodor, 1973, ‘Plato’s Theory of Recollection Reconsidered: An Interpretation of *Meno* 80a-86c’, *Man and World* 6, 163–81
+- ––– 2001, ‘Sokrates über seinen Umgang mit Hypotheseis (*Phaidon* 100A). Ein Problem und ein Vorschlag zur Lösung’, *Hermes* 129, 457–73
+- Ebrey, David, 2014, ‘Meno’s Paradox in Context’, *British Journal for the History of Philosophy* 22.1, 4–24
+- Ferejohn, Michael T., 2014, *Formal Causes: Definition, Explanation, and Unity in Socratic and Aristotelian Thought*, Oxford: Oxford University Press [chs.1–2: Socratic definitions]
+- Fine, Gail, 1992, ‘Inquiry in the *Meno*’, in Kraut 1992, 200–26
+- ––– (ed.), 1999, *Plato 1: Metaphysics and Epistemology*, Oxford: Oxford University Press [includes Vlastos 1983, Vlastos 1985, Scott 1999]
+- ––– 2004, ‘Knowledge and True Belief in the *Meno*’, *Oxford Studies in Ancient Philosophy* 27 (Winter 2004)
+- ––– 2014, *The Possibility of Inquiry: Meno’s Paradox from Socrates to Sextus*, Oxford: Oxford University Press [Part I: ‘Plato’s *Meno*’]
+- Foley, Richard, 2008, ‘Plato’s Undividable Line: Contradiction and Method in *Republic* VI’ *J. Hist. Phil.* 46, 1–24
+- Fowler, David, 1999, *The Mathematics of Plato’s Academy: A New Reconstruction*, 2nd ed., Oxford: Oxford University Press, 1st ed. 1987 [ch. 1: Socrates and the slaveboy]
+- Franklin, Lee, 2001, ‘The Structure of Dialectic in the *Meno*’, *Phronesis* 46, 413–39
+- ––– 2005, ‘Recollection and Philosophical Reflection in Plato’s *Phaedo*’, *Phronesis* 50, 289–314
+- Futter, Dylan Brian, 2013, ‘On Irony Interpretation: Socratic Method in Plato’s *Euthyphro*’, *British Journal for the History of Philosophy* 21.6, 1030–51
+- ––– 2019, ‘The Socratic Fallacy Undone’, *British Journal for the History of Philosophy* 27.6, 1071–91
+- Geach, P. T., 1966, ‘Plato’s *Euthyphro*’, in Geach 1972, 31–44; orig. in *Monist* 50 (1966), 369–82 [Socratic fallacy]
+- ––– 1972, *Logic Matters*, Oxford: Blackwell
+- Gill, Christopher and Mary Margaret McCabe, (eds.), 1996, *Form and Argument in Late Plato*, Oxford: Oxford University Press
+- Gill, Mary Louise, 2010, ‘Division and Definition in Plato’s *Sophist* and *Statesman*’, in Charles 2010, 172–99 {§2.1}
+- Gonzalez, Francisco J., 1998, *Dialectic and Dialogue: Plato’s Practice of Philosophical Inquiry*, Evanston, Illinois: Northwestern University Press
+- Gosling, J. C. B., 1973, *Plato*, London: Routledge [ch. XI: definition]
+- Gregory, Andrew, 2000, *Plato’s Philosophy of Science*, London: Duckworth [ch. 3: ‘Meno’s Paradox and Underdetermination’]
+- Gulley, Norman, 1962, *Plato’s Theory of Knowledge*, London: Methuen [1–47, 108–20: recollection]
+- ––– 1968, *The Philosophy of Socrates*, London: Macmillan [ch. 1: ‘Socratic Method’]
+- Guthrie, W. K. C., *HGP*, IV, *A History of Greek Philosophy*, Vol. IV, ‘Plato: The Man and his Dialogues: Earlier Period’, Cambridge: Cambridge University Press, 1975 [ch. V, 236–65: *Meno*] {§2.1}
+- ––– *HGP*, V, *A History of Greek Philosophy*, Vol. V, ‘The Later Plato and the Academy’, Cambridge: Cambridge University Press, 1978 [166–75: *Politicus*, method of division] {§2.1}
+- Hare, R. M., 1982, *Plato*, Oxford: Oxford University Press [ch. 6: definition]
+- Harte, Verity, 2002, *Plato on Parts and Wholes*, Oxford: Oxford University Press
+- Heath, Thomas L., 1921, *A History of Greek Mathematics*, 2 vols., New York: Dover, 1981, orig. publ. Oxford: Oxford University Press [I, ch. 9: Plato] {§2.2}
+- Irwin, T. H., 1989, *Classical Thought*, Oxford: Oxford University Press [86–97: Socratic argument]
+- ––– 1995, *Plato’s Ethics*, Oxford: Oxford University Press [ch. 2: ‘Socrates’ Method’; ch. 9: ‘Socratic Method and Socratic Ethics: The *Meno*’; ch. 10: ‘The Theory of Forms’]
+- ––– 1998, ‘Common Sense and Socratic Method’, in Gentzler 1998, 29–66 {§2.1}
+- Iwata, Naoya, 2016, ‘Plato’s Hypothetical Inquiry in the *Meno*’, *British Journal for the History of Philosophy* 24.2, 194–214
+- Judson, Lindsay, 2010, ‘Carried Away in the *Euthyphro*’, in Charles 2010, 31–61 {§2.1}
+- Judson, Lindsay and Vassilis Karasmanis, 2006, *Remembering Socrates*, Oxford: Oxford University Press [includes Charles 2006, Karasmanis 2006, Politis 2006]
+- Kahn, Charles H., 1996, *Plato and the Socratic Dialogue*, Cambridge: Cambridge University Press [ch. 6: ‘The priority of definition: from *Laches* to *Meno*’; ch. 10: ‘The emergence of dialectic’]
+- Karasmanis, Vassilis, 2006, ‘Definition in Plato’s *Meno*’, in Judson and Karasmanis 2006, 129–41
+- Klein, Jacob, 1965, *A Commentary on Plato’s Meno*, Chicago: University of Chicago Press
+- Kraut, Richard, (ed.), 1992, *The Cambridge Companion to Plato*, Cambridge: Cambridge University Press [includes Fine 1992, Mueller 1992, useful bib.]
+- Lane, M. S., 1998, *Method and Politics in Plato’s ‘Statesman’*, Cambridge: Cambridge University Press [Part I: ‘Method’]
+- Lloyd, G. E. R., 1992, ‘The *Meno* and the Mysteries of Mathematics’, *Phronesis* 37, 166–83
+- Matthews, Gareth B., 1999, *Socratic Perplexity and the Nature of Philosophy*, Oxford: Oxford University Press [ch. 6: the paradox of inquiry]
+- Menn, Stephen, 2002, ‘Plato and the Method of Analysis’, *Phronesis* 47, 193–223
+- Moravcsik, Julius, 1971, ‘Learning as Recollection’, in Day 1994a, 112–28; orig. in Vlastos 1971, 53–69
+- ––– 1973, (ed.), *Patterns in Plato’s Thought*, Dordrecht: D. Reidel
+- ––– 1973a, ‘Plato’s Method of Division’, in Moravcsik 1973, 158–80
+- Mueller, Ian, 1992, ‘Mathematical Method and Philosophical Truth’, in Kraut 1992, 170–99 [Plato’s method: analysis and dialectic]
+- Nehamas, Alexander, 1985, ‘Meno’s Paradox and Socrates as a Teacher’, in Day 1994a, 221–48; orig. in *Oxford Studies in Ancient Philosophy* 3, 1–30
+- Penner, Terry, 1973, ‘The Unity of Virtue’, *Phil. Review* 82, 35–68
+- Plato, *Charmides*, tr. B. Jowett, in *CD*, 99–122; also tr. W. R. M. Lamb, in *PL*, XII [‘What is temperance?’]
+- ––– *Euthyphro*, tr. L. Cooper, in *CD*, 169–85; also tr. H. N. Fowler, in *PL*, I [‘What is piety?’; defs. as explaining essence]
+- ––– *Laches*, tr. B. Jowett, in *CD*, 123–44; also tr. W. R. M. Lamb, in *PL*, II, 1924 [‘What is courage?’]
+- ––– *Meno*, tr. J. M. Day, in Day 1994a, 35–72; also tr. W. K. C. Guthrie, in *Protagoras and Meno*, Harmondsworth: Penguin, 1956, and in *CD*, 353–84; also tr. W. R. M. Lamb, *PL*, II, 1924 [86e–87b: method of hypothesis]
+- ––– *Phaedo*, tr. H. Tredennick, in *CD*, 40–98; also tr. H. N. Fowler, in *PL*, I [72e–76d: learning as recollection; 100a–101d: method of hypothesis]
+- ––– *The Republic*, tr. D. Lee, Harmondsworth: Penguin, 1955, 1974; also tr. P. Shorey, in *PL*, V and VI, 1930, repr. in *CD*, 575–844 [506d–518b: the Sun, the Line and the Cave]
+- ––– *Phaedrus*, tr. W. Hamilton, Harmondsworth: Penguin, 1973; also tr. R. Hackforth, in *CD*, 475–525; also tr. H. N. Fowler, in *PL*, I [method of division]
+- ––– *Theaetetus*, tr. John McDowell, Oxford: Oxford University Press, 1973; also tr. F. M. Cornford, in *CD*, 845–919; also tr. H. N. Fowler, in *PL*, VII
+- ––– *Sophist*, tr. F. M. Cornford, in *CD*, 957–1017; also tr. H. N. Fowler, in *PL*, VII [method of division]
+- ––– *Statesman* (*Politicus*), tr. J. B. Skemp, in *CD*, 1018–85; also tr. H. N. Fowler, in *PL*, VIII [method of division]
+- ––– *Philebus*, tr. J. C. B. Gosling, Oxford: Oxford University Press, 1975; also tr. R. A. H. Waterfield, Harmondsworth: Penguin, 1982; also tr. R. Hackforth, in *CD*, 1086–1150; also tr. H. N. Fowler, in *PL*, VIII [method of division]
+- ––– *PL*, *Plato*, Loeb Classical Library, 12 vols., Cambridge, Mass.: Harvard and London: Heinemann
+- ––– *CD*, *The Collected Dialogues*, ed. Edith Hamilton and Huntington Cairns, Princeton University Press, 1961
+- Politis, Vasilis, 2006, ‘*Aporia* and Searching in the Early Plato’, in Judson and Karasmanis 2006, 88–109
+- ––– 2010, ‘Explanation and Essence in Plato’s *Phaedo*’, in Charles 2010, 62–114 {§2.1}
+- Prior, William J., 1998, ‘Plato and the “Socratic Fallacy”’, *Phronesis* 43, 97–113
+- Rabbas, Oyvind, 2004, ‘Definitions and Paradigms: Laches’ First Definition’, *Phronesis* 49, 143–68
+- Robinson, Richard, 1953, *Plato’s Earlier Dialectic*, 2nd ed., Oxford: Oxford University Press; 1st ed. Cornell University Press, 1941 [Part I: ‘Elenchus’; Part II: ‘Dialectic’]
+- ––– 1954, *Definition*, Oxford: Oxford University Press [Plato as offering real defs.]
+- Rosen, Stanley, 1983, *Plato’s Sophist: The Drama of Original and Image*, New Haven: Yale University Press [‘Act One’: ‘Diaeresis’]
+- Ryle, Gilbert, 1965a, ‘The Academy and Dialectic’, in Ryle 1971, I, 89–115; orig. publ. 1965
+- ––– 1965b, ‘Dialectic in the Academy’, in Ryle 1971, I, 116–25; also in Owen 1968, 69–79 {§2.4}; orig. publ. 1965
+- ––– 1966, *Plato’s Progress*, Cambridge: Cambridge University Press [ch. IV: ‘Dialectic’]
+- ––– 1971, *Collected Papers*, 2 vols., Vol. 1: Critical Essays, Vol. 2: Collected Essays 1929–1968, London: Hutchinson {§6.8}
+- Santas, Gerasimos, 1979, *Socrates*, London: Routledge [ch. IV: Socratic definitions]
+- Sayre, Kenneth M., 1969, *Plato’s Analytic Method*, Chicago: University of Chicago Press [ch. 1: ‘The Method of Hypothesis: *Phaedo* 100A–101D’; ch. 2: ‘The *Theaetetus*’; ch. 3: ‘The *Sophist*’; ch. 4: ‘On Collection and Division’] {§1.2}
+- ––– 2006, *Metaphysics and Method in Plato’s Statesman*, Cambridge: Cambridge University Press
+- Scott, Dominic, 1995, *Recollection and Experience: Plato’s Theory of Learning and its Successors*, Cambridge: Cambridge University Press
+- ––– 1999, ‘Platonic Recollection’, in Fine 1999, 93–124 [extracted from Scott 1995, 3–80]
+- ––– 2006, *Plato’s Meno*, Cambridge: Cambridge University Press [ch. 7: Meno’s paradox; ch. 11: method of hypothesis]
+- Scott, Gary Alan, 2002, *Does Socrates have a Method? Rethinking the Elenchus in Plato’s Dialogues and Beyond*, Pennsylvania State University Press
+- Sedley, David, 2004, *The Midwife of Platonism: Text and Subtext in Plato’s Theaetetus*, Oxford: Oxford University Press [19–27: Socratic definition]
+- Sharples, R. W., (ed.), 1985, *Plato: Meno*, Warminster, Wiltshire: Aris and Phillips [158–63: geometrical example and hypothesis]
+- Sharvy, Richard, 1972, ‘*Euthyphro* 9d–11b: Analysis and Definition in Plato and Others’, *Nous* 6, 119–37
+- Stenzel, Julius, 1940, *Plato’s Method of Dialectic*, tr. D. J. Allan, Oxford: Oxford University Press
+- Sternfeld, Robert and Harold Zyskind, 1977, ‘Plato’s *Meno*: 86E–87A: Geometrical Illustration of The Argument by Hypothesis’, *Phronesis* 22, 206–11
+- Taylor, A.E., 1960, *Plato: The Man and his Work*, 7th ed., London: Methuen, 1st ed. 1926 [ch. 15: division in the *Sophist* and *Politicus*]
+- Vlastos, Gregory, 1965, ‘*Anamnesis* in the *Meno*’, in Day 1994a, 88–111; orig. in *Dialogue* 4, 143–67
+- ––– (ed.), 1971, *Plato: A Collection of Critical Essays*, Vol. 1: Metaphysics and Epistemology, New York: Doubleday, and London: Macmillan, repr. Notre Dame Press 1978 [includes Moravcsik 1971, Robinson 1953, ch. X]
+- ––– 1981a, *Platonic Studies*, 2nd ed., Princeton University Press; 1st ed. 1973
+- ––– 1981b, ‘What did Socrates Understand by His “What is *F*?” Question’, in Vlastos 1981a, 410–17 [reply to Penner 1973]
+- ––– 1983, ‘The Socratic Elenchus’, in Fine 1999, 36–63; orig. publ. in *Oxford Studies in Ancient Philosophy* 1 (1983), 27–58; also repr. in Vlastos 1994, ch. 1
+- ––– 1985, ‘Socrates’ Disavowal of Knowledge’, in Fine 1999, 64–92; orig. publ. in *Phil. Quar.* 35 (1985), 1–31; also repr. in Vlastos 1994, ch. 2
+- ––– 1991, *Socrates*, Cambridge: Cambridge University Press [ch. 4: ‘Elenchus and mathematics’]
+- ––– 1994, *Socratic Studies*, ed. Myles Burnyeat, Cambridge: Cambridge University Press [ch. 1: ‘The Socratic elenchus: method is all’ (Vlastos 1983); ch. 2: Vlastos 1985]
+- White, Nicholas P., 1975, ‘Inquiry’, in Day 1994a, 152–71; orig. in *Review of Metaphysics* 28 (1974–5), 289–310
+- ––– 1976, *Plato on Knowledge and Reality*, Indianapolis: Hackett [ch. 1: definition; ch. 2: paradox of inquiry; ch. 3: *Phaedo*; ch. 4: *Republic*; ch. 5: collection and division]
+- Wolfsdorf, David, 2003, ‘Socrates’ Pursuit of Definitions’, *Phronesis* 48, 271–312
+- ––– 2004, ‘Socrates’ Avowals of Knowledge’, *Phronesis* 49, 75–142
+
+### 2.4 Aristotle
+
+- Ackrill, J. L., 1981, ‘Aristotle’s Theory of Definition: Some Questions on *Post. An.* II.8–10’, in Ackrill 1997, 110–30 {§2.3}; orig. in Berti 1981, 359–84
+- ––– 1981, *Aristotle the Philosopher*, Oxford: Oxford University Press [chs. 7–8: ‘starting-points’]
+- Alexander of Aphrodisias, *On Aristotle ‘Prior Analytics’ 1.1–7*, tr. J. Barnes *et al.*, London: Duckworth, 1991 [49–50: explanation of title of *Analytics*, distinguishing nine senses of ‘analysis’ {Quotation}; 170–1: analysis as reduction to first figure syllogisms]
+- Allen, James, 2011, ‘Syllogism, Demonstration, and Definition in Aristotle’s *Topics* and *Posterior Analytics*’, *Oxford Studies in Ancient Philosophy*, 40, Essays in Memory of Michael Frede.
+- Angelelli, Ignacio and María Cerezo, (eds.), 1996, *Studies on the History of Logic*, Berlin: Walter de Gruyter [includes Smith 1996]
+- Aristotle, *C*, *Categories*, and *DI*, *De Interpretatione*, tr. J. L. Ackrill, Oxford: Oxford University Press, 1963, repr. in *CW*, I, 3–38; also tr. H. P. Cooke, in *AL*, I, 1938
+- ––– *PrA*, *Prior Analytics*, tr. R. Smith, Indianapolis: Hackett, 1989; also tr. A. J. Jenkinson, *WA*, I, 1928, repr. in *CW*, I, 39–113; also tr. H. Tredennick, in *AL*, I, 1938; Book I tr. Gisela Striker, Oxford: Oxford University Press, 2009 {Quotations}
+- ––– *PoA*, *Posterior Analytics*, tr. J. Barnes, 2nd ed., Oxford: Oxford University Press, 1993; 1st ed. 1975, repr. in *CW*, I, 114–66; also tr. H. Tredennick, in *AL*, II [78a6–13: analysis and inferring {Quotation}]
+- ––– *T*, *Topics*, tr. W. A. Pickard-Cambridge, in *WA*, I, 1928, repr. in *CW*, I, 167–277; also tr. E. S. Forster, in *AL*, II
+- ––– *SR*, *Sophistical Refutations*, tr. W. A. Pickard-Cambridge, in *WA*, I, 1928, repr. in *CW*, I, 278–314; also tr. E. S. Forster, in *AL*, III, 1955 [16: geometrical analysis {Quotation}]
+- ––– *P*, *Physics*, tr. R. P. Hardie and R. K. Gaye, in *WA*, 1950, repr. in *CW*, I, 315–446; also tr. P. Wicksteed and F. M. Cornford, in *AL*, IV-V; Books I and II also tr. William Charlton, Oxford: Oxford University Press, 1970, 1992 [I, 1: analysis]
+- ––– *GC*, *On Generation and Corruption*, tr. Harold H. Joachim, in *WA*, II, 1922, repr. in *CW*, I, 512–54; also tr. E. S. Forster, in *AL*, III, 1955 [328a6–328a18: composition vs. combination; 329a24: analysis as decomposition]
+- ––– *PA*, *Parts of Animals*, tr. W. Ogle, in *WA*, repr. in *CW*, I, 994–1086; also tr. A. L. Peck, in *AL*, XII [I, 2–3: critique of method of division]
+- ––– *M*, *Metaphysics*, tr. W. D. Ross, in *WA*, VIII, 1908, 1928, repr. in *CW*, II, 1552–1728; also tr. H. Tredennick, in *AL*, XVII–XVIII; Books C, D, and E also tr. C. Kirwan, Oxford: Oxford University Press, 1971; Books Z and H also tr. D. Bostock, Oxford: Oxford University Press, 1994 [IX, 9: geometrical constructions discovered by actualization; XIII, 4: Socratic def.]
+- ––– *NE*, *Nicomachean Ethics*, tr. W. D. Ross, 1925, rev. J. L. Ackrill and J. O. Urmson, Oxford: Oxford University Press, 1980; repr. in *CW*, II, 1729–1867; also tr. H. Rackham, in *AL*, XIX [III, 3: geometrical analysis {Quotation}]
+- ––– *WA*, *The Works of Aristotle Translated into English*, 12 vols., Oxford: Oxford University Press, 1912–54
+- ––– *AL*, *Aristotle*, Loeb Classical Library, 23 vols., Cambridge, Mass.: Harvard and London: Heinemann
+- ––– *CW*, *The Complete Works of Aristotle*, 2 vols., ed. J. Barnes, Princeton: Princeton University Press, 1984, revised ed. in 2 vols. of Aristotle, *WA*
+- Bailey, D. T. J., 2006, ‘Plato and Aristotle on the Unhypothetical’, *Oxford Studies in Ancient Philosophy* 30 (Summer 2006) {§2.3}
+- Barnes, Jonathan, 1975, ‘Aristotle’s Theory of Demonstration’, in Barnes *et al.* 1975, 65–87
+- ––– 1982, *Aristotle*, Oxford: Oxford University Press [ch. 8: knowledge (axioms and defs.)]
+- ––– 2007, *Truth, etc.: Six Lectures on Ancient Logic*, Oxford: Oxford University Press [chs. 4–6: syllogistic theory]
+- Barnes, J., M. Schofield, and R. Sorabji, (eds.), 1975, *Articles on Aristotle*, Vol. 1: Science, London: Duckworth [includes Barnes 1975, Wieland 1960]
+- ––– (eds.), 1979, *Articles on Aristotle*, Vol. 3: Metaphysics, London: Duckworth [includes LeBlond 1939]
+- Bayer, Greg, 1995, ‘Definition through Demonstration: The Two Types of Syllogisms in *Posterior Analytics* II.8’, *Phronesis* 40, 241–64
+- Beaney, Michael, 1996, *Frege: Making Sense*, London: Duckworth [ch. 1 on Aristotelian logic]
+- Benardete, José, 1993, ‘Real Definitions: Quine and Aristotle’, *Phil. Studies* 72
+- Berti, E., (ed.), 1981, *Aristotle on Science: The Posterior Analytics*, Padua and New York [includes Ackrill 1981, Sorabji 1981]
+- Bobzien, Susanne, 2020, ‘Ancient Logic’, *Stanford Encyclopedia of Philosophy*, (Summer 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2020/entries/logic-ancient/>.
+- Boger, George, 1998, ‘Completion, Reduction and Analysis: three proof-theoretic processes in Aristotle’s *Prior Analytics*’, *History and Philosophy of Logic* 19, 187–226
+- Bolton, R., 1993, ‘Aristotle’s Account of the Socratic Elenchus’, in *Oxford Studies in Ancient Philosophy* 11
+- Bronstein, David, 2016, *Aristotle on Knowledge and Learning: The Posterior Analytics*, Oxford: Oxford University Press [Introduction: Meno’s paradox {§2.3}; Part I: ‘Learning by Demonstration’; Part II: ‘Learning by Definition’, Part III: ‘Learning by Induction’]
+- Byrne, Patrick H., 1997, *Analysis and Science in Aristotle*, State University of New York Press [ch. 1: senses of ‘analysis’; chs. 2–3: analysis of syllogisms; chs. 4–8: analysis and science] {§1.2}
+- Charles, David, 2000, *Aristotle on Meaning and Essence*, Oxford: Oxford University Press [chs. 7–11: demonstration and definition]
+- ––– 2010, ‘Definition and Explanation in the *Posterior Analytics* and *Metaphysics*’, in Charles 2010, 286–328 {§2.1}
+- Chiba, Kei, 2010, ‘Aristotle on Essence and Defining-Phrase in his Dialectic’, in Charles 2010, 203–51 {§2.1}
+- Cleary, John J., 1995, *Aristotle and Mathematics: Aporetic Method in Cosmology and Metaphysics*, Leiden, The Netherlands: E.J. Brill [ch. 4: ‘Aristotle’s Dialectical Method’]
+- DaVia, Carlo, 2018, ‘The Limits of Definition: Gadamer’s Critique of Aristotle’s Ethics’, *British Journal for the History of Philosophy* 26.6, 1176–96
+- Deslauriers, Marguerite, 1990, ‘Plato and Aristotle on Division and Definition’, *Ancient Philosophy* 10, 203–19 {§2.3}
+- Evans, J. D. G., 1977, *Aristotle’s Concept of Dialectic*, Cambridge: Cambridge University Press [ch. 4: definition]
+- Ferejohn, M., 1982, ‘Definition and the Two Stages of Aristotelian Demonstration’, *Review of Metaphysics* 36, 375–95
+- ––– 1988, ‘Meno’s Paradox and *De Re* Knowledge in Aristotle’s Theory of Demonstration’, *Hist. of Phil. Quar.* 5, 99–117
+- ––– 1991, *The Origins of Aristotelian Science*, Yale University Press [ch. 1: ‘Demonstration, Division, and the Syllogism’; ch. 2: ‘Demonstration and Definition’]
+- ––– 2014, *Formal Causes: Definition, Explanation, and Unity in Socratic and Aristotelian Thought*, Oxford: Oxford University Press [chs. 3–6: Aristotle]
+- Fine, Gail, 2014, *The Possibility of Inquiry: Meno’s Paradox from Socrates to Sextus*, Oxford: Oxford University Press [ch.6: ‘Aristotelian Inquiry’]
+- Frede, Michael, 1974, ‘Stoic vs. Aristotelian Syllogistic’, in Frede 1987, 99–124; orig. publ. 1974 {§2.1}
+- Gifford, Mark, 1999, ‘Aristotle on Platonic Recollection and the Paradox of Knowing Universals: *Prior Analytics* B.21 67a8–30’, *Phronesis* 44, 1–29
+- Harari, Orna, 2004, *Knowledge and Demonstration: Aristotle’s Posterior Analytics*, Dordrecht: Kluwer Academic Publishers
+- Heath, T.L., 1949, *Mathematics in Aristotle*, Oxford: Oxford University Press [ch. 4: ‘Posterior Analytics’; 270–2: ethics and math. analysis; 278–80: hypotheses]
+- Irwin, T. H., 1988, *Aristotle’s First Principles*, Oxford: Oxford University Press [chs. 1–3: dialectic]
+- Landor, Blake, 1981, ‘Definitions and Hypotheses in *Posterior Analytics* 72a19–25 and 76b35–77a4’, *Phronesis* 26, 308–18
+- LeBlond, J. M., 1939, ‘Aristotle on Definition’, tr. J. & J. Barnes, in Barnes *et al.* 1979, 63–79; orig. publ. in French, 1939
+- Lee, H. D. P., 1935, ‘Geometrical Method and Aristotle’s Account of First Principles’, *Classical Quarterly* 29, 113–24
+- McKirahan, R., 1992, *Principles and Proofs: Aristotle’s Theory of Demonstrative Science*, Princeton, New Jersey: Princeton University Press
+- Mendell, Henry, 1998, ‘Making Sense of Aristotelian Demonstration’, in *Oxford Studies in Ancient Philosophy* 16
+- Modrak, Deborah K. W., 2001, *Aristotle’s Theory of Language and Meaning*, Cambridge: Cambridge University Press [ch. 3, §1]
+- ––– 2010, ‘Nominal Definition in Aristotle’, in Charles 2010, 252–85 {§2.1}
+- Morrison, Donald, 1997, ‘Philoponus and Simplicius on Tekmeriodic Proof’, in Di Liscia, Kessler and Methuen 1997, 1–22 [Aristotle and the Renaissance theory of *regressus*] {§3.2}
+- Owen, G. E. L., (ed.), 1968a, *Aristotle on Dialectic: The Topics*, Oxford: Oxford University Press [includes Owen 1968b, Ryle 1965b {§2.3}]
+- ––– 1968b, ‘Dialectic and Eristic in the Treatment of the Forms’, in Owen 1968a, 103–25; repr. in Owen 1986, 221–38
+- ––– 1986, *Logic, Science and Dialectic*, ed. Martha Nussbaum, London: Duckworth
+- Patzig, Günther, 1968, *Aristotle’s Theory of the Syllogism*, tr. J. Barnes, Dordrecht: D. Reidel
+- Reeve, C. D. C., 1998, ‘Dialectic and Philosophy in Aristotle’, in Gentzler 1998, 227–52 {§2.1}
+- Smith, Robin, 1996, ‘Aristotle’s Regress Argument’, in Angelelli and Cerezo 1996, 21–32
+- ––– 2022, ‘Aristotle’s Logic’, *Stanford Encyclopedia of Philosophy*, (Winter 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2022/entries/aristotle-logic/>.
+- Sorabji, Richard, 1980, *Necessity, Cause, and Blame: Perspectives on Aristotle’s Theory*, London: Duckworth [Part IV: definitions]
+- ––– 1981, ‘Definitions: Why Necessary and in What Way?’, in Berti 1981, 205–44
+- Striker, Gisela 1996, ‘Perfection and Reduction in Aristotle’s *Prior Analytics*’, in Frede and Striker 1996, 203–19 {§2.1}
+- ––– 1998, ‘Aristotle and the Uses of Logic’, in Gentzler 1998, 209–26 {§2.1} [222–5: analysis as syllogistic reduction]
+- Tierney, Richard, 2001, ‘Aristotle’s Scientific Demonstrations as Expositions of Essence’, *Oxford Studies in Ancient Philosophy* 20 (Summer 2001)
+- Upton, Thomas V., 1985, ‘Aristotle on Hypothesis and the Unhypothesized First Principle’, *Review of Metaphysics* 39, 283–301
+- Wehrle, Walter E., 2000, *The Myth of Aristotle’s Development and the Betrayal of Metaphysics*, Lanham, Maryland: Rowman and Littlefield [ch. 2: ‘Inquiry and Dialectic’]
+- Wieland, W., 1960, ‘Aristotle’s Physics and the Problem of Inquiry into Principles’, in Barnes *et al.* 1975, 127–40; orig. publ. as ‘Das Problem des Prinzipienforschung und die aristotelische Physik’ in *Kant-Studien* 52 (1960–1), 206–19
+- Wright, M. R., 1984, ‘Method and Argument after Aristotle’, *Oxford Studies in Ancient Philosophy* 2, 269–77
+
+### 2.5 Ancient Chinese philosophy
+
+- Beaney, Michael, 2021, [‘Swimming Happily in Chinese Logic’](https://doi.org/10.1093/arisoc/aoab010), *Proceedings of the Aristotelian Society* 121.3: 355–79
+- Fraser, Chris, 2013, ‘Distinctions, Judgment, and Reasoning in Classical Chinese Thought’, *History and Philosophy of Logic* 34.1: 1–24
+- ––– 2016, *The Philosophy of the Mozi*, New York: Columbia University Press [ch. 2 on epistemology and logic]
+- ––– 2018, ‘Rationalism and Anti-Rationalism in Later Mohism and the *Zhuangzi*’, in Carine Defoort and Roger T. Ames, (eds.), *Having a Word with Angus Graham*, Albany, NY: SUNY Press, 2018, pp. 251–74
+- ––– 2020a, *The Essential Mozi: An Annotated Translation*, Oxford: Oxford University Press
+- ––– 2020c, ‘Mohist Canons’, *The Stanford Encyclopedia of Philosophy* (Winter 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2020/entries/mohist-canons/>.
+- ––– 2020c, ‘School of Names’, *The Stanford Encyclopedia of Philosophy* (Winter 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2020/entries/>.
+- ––– 2023, ‘Mohism’, *The Stanford Encyclopedia of Philosophy* (Fall 2023 Edition), URL = <https://plato.stanford.edu/archives/fall2023/entries/mohism/>.
+- Fung, Yiu-ming, 2009, ‘The School of Names’, in Mou 2009, pp. 164–88
+- ––– 2016, ‘Issues and Methods of Analytic Philosophy’, in Tan 2016, pp. 227–44
+- ––– (ed.), 2020, *Dao Companion to Chinese Philosophy of Logic*, Switzerland: Springer
+- Fung, Yu-Lan, 1948, *A Short History of Chinese Philosophy*, ed. Derk Bodde, New York: The Free Press [ch. 8 on the School of Names; ch. 11 on the Later Mohists]
+- Gentz, Joachim and Dirk Meyer, (eds.), 2015, *Literary Forms of Argument in Early China*, Leiden: Brill
+- Goldin, Paul R., 2020, *The Art of Chinese Philosophy: Eight Classical Texts and How to Read Them*, Princeton, NJ: Princeton University Press [ch. 1: ‘Nondeductive Argumentation and the Art of Chinese Philosophy’]
+- Graham, A. C., 1989, *Disputers of the Dao: Philosophical Argument in Ancient China*, Chicago: Open Court [Part I, ch. 3 on Mozi; ch. 6 on ‘The Sharpening of Rational Debate’; Part II, ch. 2 on the Later Mohists; App. 1 on a ‘quasi-syllogism’]
+- ––– (ed.), 2003, *Later Mohist Logic, Ethics and Science*, Hong Kong: The Chinese University Press
+- Hall, David, 2001, ‘The Import of Analysis in Classical China – A Pragmatic Appraisal’, in Mou 2001, pp. 153–67
+- Hansen, Chad, 1983, *Language and Logic in Ancient China*, University of Michigan Press
+- ––– 1987, ‘Classical Chinese Philosophy as Linguistic Analysis’, *Journal of Chinese Philosophy* 14: 309–30
+- ––– 1992, *A Daoist Theory of Chinese Thought*, Oxford: Oxford University Press [ch. 2 on language; ch. 4 on Mozi; Part III (chs. 7–8) on ‘The Analytic Period’]
+- Harbsmeier, Christoph, 1998, *Science and Civilisation in China, Vol. 7, Part I: Language and Logic*, Cambridge: Cambridge University Press
+- Hu Shi, 1922, *The Development of the Logical Method in Ancient China*, Shanghai: Oriental Book Company
+- Indraccolo, Lisa, 2020, ‘Argumentation (*Bian* 辯)’, in Fung 2020, pp. 171–80
+- Jenco, Leigh, 2016, ‘Methods from Within the Chinese Tradition’, in Tan 2016, pp. 273–88
+- Lai, Karyn, 2017, *An Introduction to Chinese Philosophy*, 2nd edn., Cambridge: Cambridge University Press [ch. 6: ‘The Mingjia and the Later Mohists’]
+- Li, Chenyang and Franklin Perkins, (eds.), 2015, *Chinese Metaphysics and its Problems*, Cambridge: Cambridge University Press
+- Liu, Fenrong and Jeremy Seligman, (eds.), 2015, *History of Logic in China: 5 Questions*, Automatic Press
+- Liu, Shu-hsien, 2001, ‘Philosophical Analysis and Hermeneutics: Reflections on Methodology via an Examination of the Evolution of My Understanding of Chinese Philosophy’, in Mou 2001, pp. 131–52
+- Lloyd, G. E. R., 2004, *Ancient Worlds, Modern Reflections: Philosophical Perspectives on Greek and Chinese Science and Culture*, Oxford: Clarendon Press
+- Lucas, Thierry, 2020, ‘Definitions in Pre-Qin Texts’, in Fung 2020, pp. 233–49
+- Makeham, John, 1994, *Name and Actuality in Early Chinese Thought*, Albany: State University of New York Press [an account of the philosophy of Xu Gan (170–217 CE]
+- Mou, Bo, (ed.), 2001, *Two Roads to Wisdom? Chinese and Analytic Philosophical Traditions*, Chicago: Open Court [includes Hall 2001 and S. Liu 2001]
+- Mou, Bo, (ed.), 2009, *History of Chinese Philosophy*, London: Routledge [includes Fung 2009]
+- Perkins, Franklin, 2016, ‘Metaphysics and Methodology in a Cross-Cultural Context’, in Tan 2016, pp. 183–98
+- Robins, Dan, 2010, ‘The Later Mohists and Logic’, *History and Philosophy of Logic* 31.3: 247–85
+- Tan, Sor-hoon, (ed.), 2016, *The Bloomsbury Research Handbook of Chinese Philosophy Methodologies*, London: Bloomsbury [includes Fung 2016, Perkins 2016]
+- Willman, Marshall, 2010, ‘Logical Analysis and Later Mohist Logic: Some Comparative Reflections’, *Comparative Philosophy* 1.1: 53–77
+- ––– 2023, ‘Logic and Language in Early Chinese Philosophy’, *The Stanford Encyclopedia of Philosophy* (Fall 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/fall2023/entries/chinese-logic-language/>.
+- Yang, Wujin, 2020, ‘Reasoning (*Pi* 譬, *Mou* 侔, *Yuan* 援, *Tui* 推)’, in Fung 2020, pp. 161–9
+- Yang, Wujin and Wanqiang Zhang, 2020, ‘Classes (*Lèi* 類) and Individuals’, in Fung 2020, pp. 203–12
+- Zhang, Dainian, 2002, *Key Concepts in Chinese Philosophy*, tr. and ed. Edmund Ryden, New Haven: Yale University Press, orig. publ. in Chinese in 1989
+
+### 2.6 Ancient Indian philosophy
+
+- Adamson, Peter and Jonardon Ganeri, 2020, *Classical Indian Philosophy*, Oxford: Oxford University Press
+- Cardona, George, 1970, ‘Some Principles of Pāṇini’s Grammar’, *Journal of Indian Philosophy* 1.1: 40–74
+- ––– 1974, ‘Pāṇini’s *Kārakas*: Agency, Animation and Identity’, *Journal of Indian Philosophy* 2.3: 231–306
+- Coward, Harold G. and K. Kunjunni Raja, (eds.), 1990, *The Philosophy of the Grammarians*, Encyclopedia of Indian Philosophies, Vol. 5, Princeton: Princeton University Press
+- Dasti, Matthew R., ‘*Nyāya*’, in *Internet Encyclopedia of Philosophy*: https://iep.utm.edu/nyaya/
+- Deshpande, Madhav, 2022, ‘Language and Testimony in Classical Indian Philosophy’, in *Stanford Encyclopedia of Philosophy* (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/fall2022/entries/language-india/>.
+- Edelglass, William and Jay L. Garfield, (eds.), 2009, *Buddhist Philosophy: Essential Readings*, Oxford: Oxford University Press
+- Ganeri, Jonardon, (ed.), 2001a, *Indian Logic: A Reader*, London: Routledge
+- ––– 2001b, *Philosophy in Classical India: The Proper Work of Reason*, London: Routledge
+- ––– 2004, ‘Indian Logic’, in Dov M. Gabbay and John Woods, (eds.), *Handbook of the History of Logic*, Vol. 1, Amsterdam: Elsevier
+- ––– (ed.), 2017, *The Oxford Handbook of Indian Philosophy*, Oxford: Oxford University Press
+- Gillon, Brendan, 2024, ‘Logic in Classical Indian Philosophy’, in *Stanford Encyclopedia of Philosophy* (Spring 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2024/entries/logic-india/>.
+- Keating, Malcolm, 2019, *Language, Meaning, and Use in Indian Philosophy: An Introduction to Mukula’s “Fundamentals of the Communicative Funtion”*, London: Bloomsbury
+- ––– (ed.), 2020, *Controversial Reasoning in Indian Philosophy: Major Texts and Arguments on Arthāpatti*, London: Bloomsbury
+- Kiparsky, P., 1982, *Some Theoretical Problems in Pāṇini’s Grammar*, Poona
+- Matilal, Bimal Krishna, 1990, *Logic, Language and Reality: Indian Philosophy and Contemporary Issues*, 2nd edn., Delhi: Motilal Banarsidass; 1st edn. 1985  [ch. 1: ‘Logic and Dialectic in Ancient and Medieval India’]
+- ––– 1998a, *The Character of Logic in India*, ed. Jonardon Ganeri and Heeraman Tiwari, Albany: State University of New York Press
+- ––– 1998b, ‘Introducing Indian Logic’, in Matilal 1998a, pp. 1–30; repr. in Ganeri 2001a, pp. 183–215
+- ––– 2001, *The Word and the World: India*’*s Contribution to the Study of Language*, New Delhi: Oxford University Press; first edn. 1990
+- ––– 2005, *Epistemology, Logic, and Grammar in Indian Philosophical Analysis*, 2nd edn., ed. J. Ganeri, Oxford: Oxford University Press; first publ. 1971
+- Matilal, Bimal Krishna and Arindam Chakrabarti, (eds.), 1994, *Knowing from Words*, Dordrecht: Kluwer
+- Pāṇini, 1954, *Aṣṭādhyāyī-sūtrapatha*, Bombay: Nirnayasagar
+- Perrett, Roy W., 2016, *An Introduction to Indian Philosophy*, Cambridge: Cambridge University Press [ch. 2: ‘Knowledge’; ch. 3: ‘Reasoning’; ch. 4: ‘Word’]
+- Phillips, Stephen H., 2012, *Epistemology in Classical India: The Knowledge Sources of the Nyāya School*, London: Routledge
+- Potter, Karl H., (ed.), 1978, *Indian Metaphysics and Epistemology: The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa*, Encyclopedia of Indian Philosophies, Vol. 2, Princeton: Princeton University Press
+- Priest, Graham, 1995, *Beyond the Limits of Thought*, Cambridge: Cambridge University Press
+- ––– 2018, *The Fifth Corner of Four: An Essay on Buddhist Metaphysics and the Catuṣkoṭi*, Oxford: Oxford University Press
+- Sharma, R. N., 2002, *The Aṣṭādhyāyī of Pāṇini, vol. 1: Introduction to the Aṣṭādhyāyī as a Grammatical Device*, New Delhi
+- Siderits, Mark, 1991, *Indian Philosophy of Language*, Dordrecht: Kluwer [ch. 3: sense/reference distinction; ch. 4: empty terms]
+- Staal, Frits, 1965, ‘Euclid and Pāṇini’, *Philosophy East and West* 15.2: 99–116
+- ––– 1982, ‘Ritual, Grammar and the Origins of Science in India’, *Journal of Indian Philosophy* 10.1: 3–35

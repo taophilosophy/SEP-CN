@@ -1,0 +1,3663 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Propositional Logic (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="Propositional Logic" />
+<meta name="citation_author" content="Franks, Curtis" />
+<meta name="citation_publication_date" content="2023/05/18" />
+<meta name="DC.title" content="Propositional Logic" />
+<meta name="DC.creator" content="Franks, Curtis" />
+<meta name="DCTERMS.issued" content="2023-05-18" />
+<meta name="DCTERMS.modified" content="2023-05-18" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/logic-propositional/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-propositional">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>Propositional Logic</h1><div id="pubinfo"><em>First published Thu May 18, 2023</em></div>
+
+<div id="preamble">
+
+<p>
+Propositional logic is the study of the meanings of, and the
+inferential relationships that hold among, sentences based on the role
+that a specific class of logical operators called the propositional
+connectives have in determining those sentences&rsquo; truth or
+assertability conditions. As early as Aristotle it was observed that
+propositional connectives have a logical significance, and over many
+centuries piecemeal observations about some of their properties were
+made. But propositional logic <em>per se</em> did not emerge until the
+nineteenth century with the appreciation of the value of studying the
+behavior of propositional connectives in isolation of other
+operators.</p>
+
+<p>
+For example, a variation of the famous canonical syllogism where A is
+the sentence &ldquo;All men are mortal, and Socrates is a man&rdquo;,
+and B is the sentence &ldquo;Socrates is mortal&rdquo; can give rise
+to a plurality of questions about the relationship between A and B.
+Whether B follows logically from A ought not depend, it is thought, on
+what words like &ldquo;mortal&rdquo; or &ldquo;man&rdquo; mean. But
+one could reasonably ask either of the questions, </p>
+
+<blockquote>
+
+<p>
+Does B follow from A purely by virtue of the meaning of the words
+&ldquo;and&rdquo;, &ldquo;is&rdquo;, &ldquo;are&rdquo;,
+&ldquo;all&rdquo;, and &ldquo;a&rdquo;? </p>
+</blockquote>
+
+<p>
+and </p>
+
+<blockquote>
+
+<p>
+Does B follow from A purely by virtue of the meaning of the word
+&ldquo;and&rdquo;? </p>
+</blockquote>
+
+<p>
+Intuitively, the answer to the first question is &ldquo;yes&rdquo;,
+and the answer to the second question is &ldquo;no&rdquo;.</p>
+
+<p>
+The example suggests that there is a right way to ask the question,
+for surely B does follow logically from A. So when we want to ask if a
+sentence follows logically, we should attend to the role of all words
+such as &ldquo;and&rdquo;, &ldquo;is&rdquo;, &ldquo;are&rdquo;,
+&ldquo;all&rdquo;, and &ldquo;a&rdquo;. Consider, however, if C is the
+sentence &ldquo;All men are mortal&rdquo; and D is the sentence
+&ldquo;Socrates is a man&rdquo;, that C also follows from A, but the
+meanings of the words &ldquo;is&rdquo;, &ldquo;are&rdquo;,
+&ldquo;all&rdquo;, and &ldquo;a&rdquo; play no role in the intuitive
+verification of that fact. (Because A is just the sentence &ldquo;C
+and D&rdquo;, nothing beyond an understanding of the meaning of the
+word &ldquo;and&rdquo; is needed to see that A cannot be true without
+C also being true.) It seems significant that B and C not only each
+follow from A, but that they do so in different ways. The inference
+from A to C is not only simpler or more direct than the inference to
+B. In whatever sense B follows from A, so too does C, whereas there is
+a stricter sense in which C, but not B, follows from A: Although both
+B and C follow &ldquo;logically&rdquo; from A, the logical bond
+between C and A is stronger than that between B and A. This highlights
+the importance, not just of determinations about whether one sentence
+follows from another, but of what standard of logicality underwrites
+that determination.</p>
+
+<p>
+Propositional logic is the study of just such a specification of a
+standard of logicality, wherein only the meanings of the propositional
+connectives (e.g., &ldquo;and&rdquo; in the example above, but not
+&ldquo;is&rdquo;, &ldquo;all&rdquo;, etc.) are considered in
+evaluating things such as the cogency of a deduction or a
+sentence&rsquo;s truth conditions.</p>
+
+<p>
+A sentential connective is a linguistic particle that binds sentences
+to create a new compound sentence or that inflects a single sentence
+to create a new sentence. Among the sentential connectives, a
+propositional connective has the characteristic feature that when the
+original sentences it operates on are (or express) propositions, the
+new sentence that results from its application also is (or expresses)
+a proposition. There are, as one would expect, many competing theories
+about what a proposition is, and propositional logic originated as a
+scientific discipline independent of that debate. For this reason, the
+precise demarcation of which linguistic particles qualify as
+propositional connectives is somewhat vague and even contentious. But
+the general heuristic is that a propositional connective must create
+from some original sentences a new sentence that makes a claim of the
+same order. Intuitively, because &ldquo;A and B&rdquo; is just an
+affirmation of the content of A and the content of B, and &ldquo;not
+A&rdquo; is just a denial of the content of A, &ldquo;and&rdquo; and
+&ldquo;not&rdquo; are serving as propositional connectives. &ldquo;It
+is necessary that A&rdquo;, on the other hand, is a claim not about
+the content of A but about the sentence A itself. Similarly, &ldquo;A
+implies B&rdquo; is a claim about the sentences A and B, that they
+stand in an implication relationship with one another, rather than a
+claim about the sort of thing that A and B themselves are claims
+about. For this reason, the necessity qualifier and the implication
+relation are typically not thought of as propositional connectives but
+as modal operators. The conditional operator in such expressions as
+&ldquo;If A, then B&rdquo; has not received a consensus: On some
+analyses, this has been treated as a propositional connective, but on
+others it cannot be.</p>
+
+<p>
+In presenting propositional logic, we will not assume any particular
+theory of propositions. As we will see, the development of and
+plurality of systems of propositional logic can only be appreciated
+when no particular conception of proposition is in place. The only
+stipulations are that the connectives operate always on whole
+sentences and never on sub-sentential items like predicates or terms,
+and that they create sentences in the same evaluation class as the
+ones they operate on, never higher-order expressions about the
+sentences in that class.</p>
+</div> 
+
+<div id="toc">
+<!--Entry Contents-->
+<ul>
+ <li><a href="#BasiFram">1. Basic Framework</a></li>
+ <li><a href="#ClasInte">2. The Classical Interpretation</a>
+<ul>
+ <li><a href="#TrutFunc">2.1 Truth-functionality</a>
+<ul>
+ <li><a href="#NormForm">2.1.1 Normal forms</a></li>
+ <li><a href="#TrutFuncComp">2.1.2 Truth-functional completeness</a></li>
+ <li><a href="#RealSwitCirc">2.1.3 Realization in switching circuits</a></li>
+ <li><a href="#MateCond">2.1.4 The material conditional</a></li>
+ <li><a href="#Deci">2.1.5 Decidability</a></li>
+ <li><a href="#NPComp">2.1.6 NP-completeness</a></li>
+ <li><a href="#Comp">2.1.7 Compactness</a></li>
+ </ul></li>
+ <li><a href="#Dedu">2.2 Deduction</a>
+<ul>
+ <li><a href="#DeduTheo">2.2.1 The Deduction Theorem</a></li>
+ <li><a href="#BasiMetaTheo">2.2.2 Basic meta-theory</a>
+<ul>
+ <li><a href="#Cons">2.2.2.1 Consistency</a></li>
+ <li><a href="#Maxi">2.2.2.2 Maximality</a></li>
+ <li><a href="#Comp_1">2.2.2.3 Completeness</a></li>
+ <li><a href="#CompSemiDeci">2.2.2.4 Completeness as semi-decidability</a></li>
+ <li><a href="#Inde">2.2.2.5 Independence</a></li>
+ </ul></li>
+</ul></li>
+ <li><a href="#GentCalc">2.3 Gentzen&rsquo;s calculi</a>
+<ul>
+ <li><a href="#NatuDedu">2.3.1 Natural deduction</a></li>
+ <li><a href="#SequCalc">2.3.2 Sequent calculus</a></li>
+ <li><a href="#ConsCompPkPi">2.3.3 Constructive completeness of <span class="sc">pk</span> and of <span class="sc">pi</span></a></li>
+ </ul></li>
+</ul></li>
+ <li><a href="#NonClasInte">3. Non-Classical Interpretations</a>
+<ul>
+ <li><a href="#MultValuLogi">3.1 Multi-valued logics</a></li>
+ <li><a href="#ConsLogi">3.2 Constructive logics</a></li>
+ <li><a href="#ReleConnLogi">3.3 Relevance and connexive logics</a></li>
+ <li><a href="#LineLogi">3.4 Linear logic</a></li>
+ </ul></li>
+ <li><a href="#Bib">Bibliography</a>
+<ul>
+ <li><a href="#Refe">References</a></li>
+ <li><a href="#OtheRead">More Readings</a></li>
+ </ul></li>
+ <li><a href="#Aca">Academic Tools</a></li>
+ <li><a href="#Oth">Other Internet Resources</a></li>
+ <li><a href="#Rel">Related Entries</a></li>
+ </ul>
+
+<!--Entry Contents-->
+<hr />
+
+</div>
+
+<div id="main-text">
+
+<h2 id="BasiFram">1. Basic Framework</h2>
+
+<p>
+The formal language of propositional logic consists of
+&ldquo;atomic&rdquo; propositional variables, \(p_1\), \(p_2\),
+\(p_3\), &hellip;, and propositional connectives, \(c_1^1\),
+\(c_2^1\), \(c_3^1\), &hellip;, \(c_1^2\), \(c_2^2\), \(c_3^2\),
+&hellip;, \(c_1^3\), &hellip;. The expressions&rsquo; subscripts are
+used to distinguish them from one another; the fact that we use
+natural numbers indicates the typical convention that the vocabulary
+be countable. The propositional connectives&rsquo; superscripts
+indicate their &ldquo;arity&rdquo;, i.e., the number of propositions
+that they operate on in order to create a new proposition. The
+formulas of propositional logic are defined recursively by</p>
+
+<ol>
+
+<li>
+
+<p>
+Atomic propositional variables are formulas.</p></li>
+
+<li>
+
+<p>
+If \(c_n^m\) is a propositional connective, and \(\langle\)A, B, C,
+&hellip;\(\rangle\) is a sequence of <i>m</i>, possibly but not
+necessarily atomic, possibly but not necessarily distinct, formulas,
+then the result of applying \(c_n^m\) to \(\langle\)A, B, C,
+&hellip;\(\rangle\) is a formula.</p></li>
+</ol>
+
+<p>
+The result of applying \(c_n^m\) to \(\langle\)A, B, C,
+&hellip;\(\rangle\) is customarily written in functional notation:
+\(c_n^m\)(A, B, C, &hellip;). Examples of formulas are</p>
+
+<ul>
+
+<li id="formula1">
+
+<p>
+\(p_4\)</p></li>
+
+<li id="formula2">
+
+<p>
+\(c_1^2(p_7, p_3)\)</p></li>
+
+<li id="formula3">
+
+<p>
+\(c_2^2(c_1^1(p_1), c_1^1(c_1^2(p_2, p_3)))\)</p></li>
+
+<li id="formula4">
+
+<p>
+\(c_5^3(p_2, c_3^2(c_4^1(c_6^2(p_3, p_3)), p_5),
+c_9^1(p_2))\)</p></li>
+</ul>
+
+<p>
+This recursive definition of the formulas of propositional logic
+justifies the use of the label &ldquo;atomic&rdquo; for the
+propositional variables: Every formula is built up stepwise from atoms
+through a finite application of propositional connectives. It can be
+helpful to think of the connectives as &ldquo;propositional
+functions&rdquo; that take propositions (denoted by formulas) as input
+and return propositions as output. The space of propositions is then
+given as the free algebra on the atomic formulas generated by these
+functions, and the specification of a proposition is given by the
+standard &ldquo;composition of functions&rdquo; notation. This
+terminology is not common, however, because the expression
+&ldquo;propositional function&rdquo; has a quite different use of high
+currency (see the entry on
+ <a href="../russell/">Bertrand Russell</a>).</p>
+ 
+<p>
+It is customary to indicate the specific connectives one is studying
+with special characters, typically \(\wedge\), \(\vee\), \(\supset\),
+\(\neg\), to use infix notation for binary connectives, and to display
+parentheses only when there would otherwise be ambiguity. It is also
+common to investigate properties of propositional formulas that do not
+depend on the occurrence of atoms fundamentally, in which case
+formula variables A, B, C, etc. appear in the expression in place of
+sentence letters. Thus if \(c_1^1\) is relabeled \(\neg\), \(c_1^2\)
+is relabeled \(\wedge\), and \(c_2^2\) is relabeled \(\vee\), then in
+place of the
+ <a href="#formula3">third formula</a>
+ listed above one would write \(\neg\rA\vee\neg(\rB\wedge\rC)\).</p>
+
+<h2 id="ClasInte">2. The Classical Interpretation</h2>
+
+<p>
+The logical analysis of propositional formulas proceeds from an
+association of some meaning with the connectives, and there are
+several ways of doing this. Because the original motivation for
+studying propositional logic is the observation that some particles in
+natural language often behave like propositional connectives, a
+natural first move is to try to specify formal rules of inference or
+precise assertability conditions that capture or approximate the role
+that these natural language predicates serve in informal reasoning.
+Two of the earliest specifications were in terms of truth functions
+and in terms of axiomatic deduction systems. After considering these
+in turn, we will compare the more sophisticated specifications given
+by Gentzen&rsquo;s calculi.</p>
+
+<h3 id="TrutFunc">2.1 Truth-functionality</h3>
+
+<p>
+If \(\calV\) is a set of truth values, a function
+\(\calV^n\longrightarrow\calV\) mapping <i>n</i>-tuples of truth
+values to truth values is called an <i>n</i>-ary truth function. The
+number of values in \(\calV\) is called the valence of the function
+space. In the bivalent case, the truth values are denoted \(\bT\) and
+\(\bF\), and one has the classical theory of truth. Observe that in
+this classical function space are two 0-ary truth functions which,
+following the conventions on indices for propositional connectives we
+could denote \(f_1^0\) and \(f_2^0\), but are conventionally denoted
+\(\top\) and \(\bot\), defined by \(\top=\bT\) and \(\bot=\bF\), and
+four unary truth functions defined by</p> 
+\[
+\begin{aligned}
+f_1^1(\bT)&amp;=f_1^1(\bF)=\bT,\\
+f_2^1(\bT) &amp;=\bT, \\
+f_2^1(\bF) &amp;=\bF, \\
+f_3^1(\bT) &amp;=\bF, \\
+f_3^1(\bF) &amp;=\bT, \\
+f_4^1(\bT) &amp;=f_4^1(\bF)=\bF. \\
+\end{aligned}
+\]
+
+<p>
+One sees that \(f_1^1\) performs no operation on its input and is
+essentially the same as \(\top\). \(f_4^1\) is similarly an impostor:
+\(\bot\) dressed up as a unary function. One can quickly check that
+the number of <i>n</i>-ary truth functions is \(2^{2^n}\)&mdash;there
+being 2 possible output values on each of the \(2^n\) possible
+<i>n</i>-tuples of input values, and that at each stage, a number of
+truth functions are impostors from lower arity. A case of special
+interest are the sixteen binary truth functions, which one can fully
+individuate by specifying their range on the 4 possible input
+values:</p>
+
+<div class="center">
+
+<table class="cellpad-small-dense cell-center two-rulesTH centered">
+<colgroup class="colhead" span="1"> </colgroup> <colgroup span="4">
+</colgroup>
+<thead>
+<tr class="header">
+<th>input</th>
+<th>\(\langle\bT, \bT\rangle\)</th>
+<th>\(\langle\bT, \bF\rangle\)</th>
+<th>\(\langle\bF, \bT\rangle\)</th>
+<th>\(\langle\bF, \bF\rangle\)</th> </tr> </thead>
+<tbody>
+<tr class="odd">
+<th>\(f_1^2\)</th>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td> </tr>
+<tr class="even">
+<th>\(f_2^2\)</th>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td> </tr>
+<tr class="odd">
+<th>\(f_3^2\)</th>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td> </tr>
+<tr class="even">
+<th>\(f_4^2\)</th>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td> </tr>
+<tr class="odd">
+<th>\(f_5^2\)</th>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td> </tr>
+<tr class="even">
+<th>\(f_6^2\)</th>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td> </tr>
+<tr class="odd">
+<th>\(f_7^2\)</th>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td> </tr>
+<tr class="even">
+<th>\(f_8^2\)</th>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td> </tr>
+<tr class="odd">
+<th>\(f_9^2\)</th>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td> </tr>
+<tr class="even">
+<th>\(f_{10}^2\)</th>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td> </tr>
+<tr class="odd">
+<th>\(f_{11}^2\)</th>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td> </tr>
+<tr class="even">
+<th>\(f_{12}^2\)</th>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td> </tr>
+<tr class="odd">
+<th>\(f_{13}^2\)</th>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bT\)</td> </tr>
+<tr class="even">
+<th>\(f_{14}^2\)</th>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td>
+  <td>\(\bF\)</td> </tr>
+<tr class="odd">
+<th>\(f_{15}^2\)</th>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bT\)</td> </tr>
+<tr class="even">
+<th>\(f_{16}^2\)</th>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td>
+  <td>\(\bF\)</td> </tr> </tbody>
+</table>
+
+</div>
+
+<p>
+One immediately recognizes the impostors \(f_1^2 = \top\), \(f_4^2 =
+f_2^1\) acting on the first input value, \(f_6^2 = f_2^1\) acting on
+the second input value, \(f_{11}^2 = f_3^1\) acting on the second
+input value, \(f_{13}^2 = f_3^1\) action on the first value, and
+\(f_{16}^2 = \bot\), leaving ten essentially new binary truth
+functions.</p>
+
+<p>
+The truth-functional analysis of propositional logic proceeds by
+associating <i>n</i>-ary truth functions with the <i>n</i>-ary
+propositional connectives. The classical case considered thus far,
+where the truth value space is bivalent, admits a strikingly simple
+analysis. Observe first that the functions \(f_1^3\), \(f_2^2\), and
+\(f_2^8\) approximate the truth conditions of some uses of the natural
+language particles &ldquo;not&rdquo;, &ldquo;or&rdquo;, and
+&ldquo;and&rdquo; (another use of the particle &ldquo;or&rdquo; is
+arguably approximated by \(f_2^7\)). Thus if we associate these
+functions with the three connectives labeled earlier \(\neg\),
+\(\vee\), and \(\wedge\), we could compute the truth value of complex
+formulas such as \(\neg\rA\vee\neg(\rB\wedge\rC)\) given different
+possible assignments of truth values to the sentence letters A, B, and
+C, according to the composition of functions indicated in the
+formula&rsquo;s propositional structure. One can check that this
+formula takes the value <strong>F</strong> precisely when each of A,
+B, and C is assigned <strong>T</strong> and takes the value
+<strong>T</strong> otherwise. Under this interpretation, one can
+define</p>
+
+<ol>
+
+<li>
+
+<p>
+A is a <strong>classical propositional validity</strong> if it
+evaluates as <strong>T</strong> on every possible assignment of values
+to its atomic propositional variables;</p></li>
+
+<li>
+
+<p>
+A is <strong>classically satisfiable</strong> if it evaluates as
+<strong>T</strong> on at least one possible assignment of values to
+its atomic propositional variables (and is <strong>classically
+unsatisfiable</strong> otherwise);</p></li>
+
+<li>
+
+<p>
+A is a <strong>classical propositional consequence</strong> of B if on
+no assignment of values to the atoms that occur in A and B on which B,
+evaluates as <strong>T</strong> does A evaluate as
+<strong>F</strong>;</p></li>
+
+<li>
+
+<p>
+A is a <strong>classical propositional equivalent</strong> of B if A
+and B evaluate as <strong>T</strong> on precisely the same assignments
+of values to atoms.</p></li>
+</ol>
+
+<p>
+In this way, the language of propositional logic restricted to the
+connectives \(\neg\), \(\vee\), and \(\wedge\) corresponds with the
+formulas of the familiar two element Boolean algebra of
+complementation, union, and intersection. The familiar Boolean laws
+of</p>
+
+<ul>
+
+<li>
+
+<p>
+<strong>interchange</strong>:
+<br />
+If A and B are equivalent, and A occurs as a subformula of \(\rC_1\),
+then the result of replacing an occurrence of A in \(\rC_1\) with B is
+a formula \(\rC_2\) that is equivalent to \(\rC_1\).</p></li>
+
+<li>
+
+<p>
+<strong>substitution</strong>:
+<br />
+If A and \(\rB_1\) and \(\rC_1\) are any formulas whatsoever, then the
+result of replacing <em>each</em> occurrence of the propositional
+variable \(p\) in \(\rB_1\) and \(\rC_1\) with A are formulas
+\(\rB_2\) and \(\rC_2\) with the properties: \(\rB_2\) is valid if
+\(\rB_1\) is; \(\rB_2\) is unsatisfiable if \(\rB_1\) is; \(\rB_2\) is
+a consequence of \(\rC_2\) if \(\rB_1\) is a consequence of \(\rC_1\);
+\(\rB_2\) and \(\rC_2\) are equivalent if \(\rB_1\) and \(\rC_1\)
+are.</p></li>
+
+<li>
+
+<p>
+<strong>complementation</strong>:
+<br />
+\(\rA\vee\neg\rA\) is a classical validity (called the &ldquo;law of
+excluded middle&rdquo; (<span class="sc">lem</span>) in propositional
+logic).</p></li>
+
+<li>
+
+<p>
+<strong>double complementation</strong>:
+<br />
+\(\neg\neg\rA\) is equivalent to A.</p></li>
+
+<li>
+
+<p>
+<strong>commutativity</strong>:
+<br />
+\(\rA\wedge\rB\) is equivalent to \(\rB\wedge\rA\), and \(\rA\vee\rB\)
+is equivalent to \(\rB\vee\rA\).</p></li>
+
+<li>
+
+<p>
+<strong>associativity</strong>:
+<br />
+\((\rA\wedge\rB)\wedge\rC\) is equivalent to \(\rA\wedge
+(\rB\wedge\rC)\), and \((\rA\vee\rB)\vee\rC\) is equivalent to
+\(\rA\vee (\rB\vee\rC)\).</p></li>
+
+<li>
+
+<p>
+<strong>distribution</strong>:
+<br />
+\(\rA\vee (\rB_1\wedge\rB_2\wedge \ldots \wedge\rB_n)\) is equivalent
+to \((\rA\vee\rB_1)\wedge (\rA\vee\rB_2)\wedge \ldots \wedge
+(\rA\vee\rB_n)\) and
+<br />
+\(\rA\wedge (\rB_1\vee\rB_2\vee \ldots \vee\rB_n)\) is equivalent to
+\((\rA\wedge\rB_1)\vee (\rA\wedge\rB_2)\vee \ldots \vee
+(\rA\wedge\rB_n)\).</p></li>
+
+<li>
+
+<p>
+<strong>De Morgan equivalence</strong>:
+<br />
+\(\neg(\rB_1\wedge\rB_2\wedge \ldots \wedge\rB_n)\) is equivalent to
+\(\neg\rB_1\vee\neg\rB_2\vee \ldots \vee\neg\rB_n\) and
+<br />
+\(\neg(\rB_1\vee\rB_2\vee \ldots \vee\rB_n)\) is equivalent to
+\(\neg\rB_1\wedge\neg\rB_2\wedge \ldots \wedge\neg\rB_n\).</p></li>
+</ul>
+
+<p>
+therefore apply to this language of &ldquo;Boolean propositional
+formulas&rdquo;.</p>
+
+<h4 id="NormForm">2.1.1 Normal forms</h4>
+
+<p>
+Consider any other propositional connective denoted \(\star\), of any
+arity, say 3, and suppose that with it too is associated an arity-3
+truth function. As before let us specify this truth function by
+indicating its output on each of the \(2^3\) possible input
+values.</p>
+
+<div class="center">
+
+<table class="cellpad-med-dense cell-center centered two-rulesTH">
+<colgroup class="colhead" span="1"> </colgroup> <colgroup span="1">
+</colgroup>
+<thead>
+<tr class="header">
+<th>input</th>
+<th>\(\star\)</th> </tr> </thead>
+<tbody>
+<tr class="odd">
+  <td>\(\langle\)<strong>T</strong>, <strong>T</strong>,
+<strong>T</strong>\(\rangle\)</td>
+  <td><strong>T</strong></td> </tr>
+<tr class="even">
+  <td>\(\langle\)<strong>T</strong>, <strong>T</strong>,
+<strong>F</strong>\(\rangle\)</td>
+  <td><strong>T</strong></td> </tr>
+<tr class="odd">
+  <td>\(\langle\)<strong>T</strong>, <strong>F</strong>,
+<strong>T</strong>\(\rangle\)</td>
+  <td><strong>F</strong></td> </tr>
+<tr class="even">
+  <td>\(\langle\)<strong>T</strong>, <strong>F</strong>,
+<strong>F</strong>\(\rangle\)</td>
+  <td><strong>F</strong></td> </tr>
+<tr class="odd">
+  <td>\(\langle\)<strong>F</strong>, <strong>T</strong>,
+<strong>T</strong>\(\rangle\)</td>
+  <td><strong>F</strong></td> </tr>
+<tr class="even">
+  <td>\(\langle\)<strong>F</strong>, <strong>T</strong>,
+<strong>F</strong>\(\rangle\)</td>
+  <td><strong>T</strong></td> </tr>
+<tr class="odd">
+  <td>\(\langle\)<strong>F</strong>, <strong>F</strong>,
+<strong>T</strong>\(\rangle\)</td>
+  <td><strong>F</strong></td> </tr>
+<tr class="even">
+  <td>\(\langle\)<strong>F</strong>, <strong>F</strong>,
+<strong>F</strong>\(\rangle\)</td>
+  <td><strong>F</strong></td> </tr> </tbody>
+</table>
+</div>
+
+<p>
+There is a simple algorithm for constructing a Boolean formula that is
+equivalent to \(\star\)(A, B, C): For each row of the defining table
+for \(\star\) in which the output value is <strong>T</strong>,
+construct a conjunction of each propositional variable that is
+assigned <strong>T</strong> and the negation of each propositional
+variable that is assigned <strong>F</strong> in that row&rsquo;s
+input: in our case, \(\rA\wedge\rB\wedge\rC\) from row 1,
+\(\rA\wedge\rB\wedge\neg\rC\) from row 2, and
+\(\neg\rA\wedge\rB\wedge\neg\rC\) from row 3. Then disjoin these
+conjunctions. In our case the final formula is </p> 
+\[(\rA\wedge \rB\wedge\rC)\vee (\rA\wedge\rB\wedge\neg\rC)\vee (\neg \rA\wedge \rB\wedge\neg\rC).\]
+
+<p>
+It is clear that this formula will evaluate as <strong>T</strong> on
+all the rows that \(\star\)(A, B, C) did and as false on all the other
+rows. Suppose, now, that one is given a propositional formula with any
+arbitrary composition of connectives, and that under the classical
+interpretation these connectives are associated with truth-functional
+connectives of the appropriate arity. This formula will be equivalent
+to some simple formula with a single connective whose arity is equal
+to the total number of propositional variables in the original
+formula. By the construction just rehearsed, that simple formula is
+again equivalent to a Boolean formula of a certain form. Thus we have
+verified the Disjunctive Normal Form (DNF) theorem:</p>
+
+<div class="theorem" id="theorem1">
+
+<p>
+<strong>Theorem 1</strong>. <em>Any formula of propositional logic
+under the classical interpretation is equivalent to a disjunction of
+conjunctions of propositional variables and negated propositional
+variables.</em></p>
+</div>
+
+<p>
+Similar reasoning can be used to verify equivalence to a
+&ldquo;conjunctive normal formula&rdquo;, a conjunction of
+disjunctions of propositional variables and negated propositional
+variables.</p>
+
+<h4 id="TrutFuncComp">2.1.2 Truth-functional completeness</h4>
+
+<p>
+One corollary of the DNF theorem is that Boolean logic&mdash;the
+fragment of propositional logic with only the connectives \(\neg\),
+\(\wedge\), and \(\vee\)&mdash;is in a sense just as expressive as
+full classical propositional logic with infinitely many connectives of
+infinitely many arities. This fact is often expressed by saying that
+the set of connectives \(\{\neg, \wedge, \vee\}\) on the classical
+interpretation is &ldquo;truth-functionally complete&rdquo;: the other
+connectives aren&rsquo;t all exactly impostors in the above used
+sense, but they can each be viewed as an abbreviation of some
+combination of Boolean connectives. Algebraically, one can think of
+the infinite function space as being fully spanned by the Boolean
+functions.</p>
+
+<p>
+The idea of truth-functional completeness can be pressed further with
+the simple observation that \(\rA\wedge\rB\) is the classical
+equivalent of \(\neg (\neg\rA\vee\neg\rB)\), so that it too can be
+viewed as an abbreviation. So the pair \(\{\vee, \neg\}\) is
+truth-functionally complete. Likewise, \(\rA\vee\rB\) abbreviates
+\(\neg (\neg\rA\wedge\neg\rB)\): \(\{\wedge, \neg\}\) is
+truth-functionally complete. In 1913, Henry Sheffer rediscovered an
+unpublished observation of Charles Sanders Peirce that the functions
+\(f_9^2\) and \(f_{15}^2\) approximating the truth conditions of the
+natural language expressions &ldquo;not both &hellip;and
+&hellip;&rdquo; and &ldquo;neither &hellip;nor &hellip;&rdquo; each
+individually span the entire space of bivalent truth-functions.</p>
+
+<h4 id="RealSwitCirc">2.1.3 Realization in switching circuits</h4>
+
+<p>
+More productive than reducing the number of connectives to the
+smallest possible truth-functionally complete set, though, has been
+the selection of connectives that convey the greatest perspicuity into
+the structure of deductive inference. We have already indicated that
+the Boolean connectives, by closely approximating the truth conditions
+of the ordinary language particles &ldquo;not&rdquo;,
+&ldquo;and&rdquo;, and &ldquo;or&rdquo;, provide a formal mechanism
+for evaluating contentful human inference. Another merit of the
+Boolean selection is its natural realization in the description of
+relay and switching circuits. In 1940 Claude Shannon described an
+interpretation of propositional logic in which sentence letters stand
+for circuits: atomic circuits are nodes \(n_1\) and \(n_2\) connected
+by a gated path which, when closed, allows a current to pass between
+\(n_1\) to \(n_2\) and, when open, does not. \(\rA\wedge\rB\)
+represents the serial connection of circuits A and B, \(\rA\vee\rB\)
+represents their parallel connection, and \(\neg\rA\) represents a
+circuit that is closed if A is open and open if A is closed (this is a
+theoretical posit: the interpretation alone provides no predetermined
+way to construct such a circuit). Letting the value 0 represent a
+circuit being closed and the value 1 represent a circuit being open,
+one sees that the formulas of propositional logic represent all the
+possible ways of constructing electrical circuits, and their classical
+truth functional analysis determines exactly whether a circuit so
+represented is open: open circuits evaluate as <strong>T</strong>,
+closed circuits as <strong>F</strong>.</p>
+
+<p>
+Because of the simplicity of classical propositional logic,
+Shannon&rsquo;s thesis greatly facilitated circuit design.
+Immediately, one sees that any circuit is equivalent to (i.e., opens
+and closes under the same conditions as) a circuit described by a
+disjunctive normal formula. Thus one could be given complex circuits
+A, B, and C, connect A and B in series (\(\rA\vee\rB\)), then connect
+this in parallel to C (\((\rA\vee\rB)\wedge\rC\)), and finally desire
+a circuit that is closed when this is open: \(\neg
+((\rA\vee\rB)\wedge\rC)\). This formula describes the conditions under
+which the circuit you are after will be closed, but it does not
+specify a way of constructing it. The DNF theorem tells us that there
+is a &ldquo;normal&rdquo; circuit with the same closure conditions.
+Because all switches in such normal circuits apply at the atomic
+level, there is a known way to construct them. More, there are
+systematic methods for simplifying disjunctive normal formulas to
+equivalent formulas with the fewest number of occurrences of atoms
+(Quine 1955 presents an algorithm originally discovered by Samson and
+Mills 1954). Combined with Shannon&rsquo;s result, this shows not only
+that symbolic manipulation provides a guide for how to construct a
+circuit with desired closure conditions but that it can be used to
+design the least complicated and resource demanding one.</p>
+
+<h4 id="MateCond">2.1.4 The material conditional</h4>
+
+<p>
+Another important feature of the classical interpretation is the
+special role played by the binary truth function \(f_5^2\), which
+always returns the value <strong>T</strong> unless given the input
+\(\langle\)<strong>T</strong>, <strong>F</strong>\(\rangle\). This
+truth function is often described, controversially, as giving the
+truth conditions for the indicative mood conditional connective
+&ldquo;if &hellip;, then &hellip;&rdquo;, or even, erroneously, for
+the relation &ldquo;implies&rdquo;. It is important to underscore the
+error in attributing truth functionality to the implication relation.
+To say that one proposition implies another is to say that under any
+conditions in which the first is true, the second is also true. To
+suggest that this relation is truth-functional is to suggest that
+simply knowing whether A and B are true is enough to determine whether
+A implies B. This suggestion is untenable because the truth or falsity
+of A and B indicate nothing about other conditions. B could be true
+but, for all that, not be implied by A because under some other
+situation A could be true while B is false. As emphasized above, the
+implication relation is not ordinarily thought of as a propositional
+connective at all, but a relation that two propositions might bear to
+one another.</p>
+
+<p>
+What is more interesting is the thesis that \(f_5^2\) captures the
+truth conditions of, at least some uses of, conditional expressions in
+the indicative mood. The binary connective given this truth-functional
+interpretation is known as the &ldquo;material conditional&rdquo; and
+is often denoted \(\supset\). One can readily check that
+\(\rA\supset\rB\) is equivalent to the Boolean expression
+\(\neg\rA\vee\rB\). There is a vast literature about the tenability of
+the claim that ordinary language conditional expressions are
+truth-functional. The claim itself is apparently ancient, attributed
+to Philo of Melaga and referenced in Chrysippus&rsquo;s early
+systematization of propositional logic. It has been defended in a
+modern context by Charles Peirce, H. P. Grice, and Frank Jackson. But
+its detractors have been many (see the entry on
+ <a href="../conditionals/">indicative conditionals</a>).</p>
+ 
+
+<p>
+Of special interest is the suggestion, originally due to Frank Ramsey,
+that expressions of the form &ldquo;If A, then B&rdquo; in the
+indicative mood are best understood in terms of conditional
+probabilities as &ldquo;The probability of B given A is nearly certain
+(\(\bP_\rA (\rB) &gt; 0.95\))&rdquo;. In 1976 David Lewis proved that
+the conditional expressions, so understood, not only fail to be
+truth-functional but in fact are not even propositions. Dorothy
+Edgington (1995: 280) provided the following simple argument for
+Lewis&rsquo;s result: Suppose \(\bP_\rA (\rB)\) measured the
+probability of some (not necessarily truth functional) proposition
+\(\rA\cdot\rB\). If \(\rA\supset\rB\) implies \(\rA\cdot\rB\), then
+\(\rA\cdot\rB\) is true whenever A is false. Therefore,
+\(\rA\cdot\rB\) cannot be unlikely when A is unlikely. But the
+unlikelihood of A certainly does not prevent \(\bP_\rA (\rB)\) from
+being very low. If, on the other hand, \(\rA\supset\rB\) does not
+imply \(\rA\cdot\rB\), then \(\rA\cdot\rB\) could be false when
+\(\neg(\rA\wedge\neg \rB)\) is true, and certainty about
+\(\neg(\rA\wedge\neg \rB)\) would still leave room for doubt about
+\(\rA\cdot\rB\). But being certain of \(\neg(\rA\wedge\neg\rB)\)
+suffices for \(\bP_A (\rB)=1\). It follows that \(\rA\supset\rB\)
+neither implies nor doesn&rsquo;t imply \(\rA\cdot\rB\), and the only
+way this could happen is for \(\rA\cdot\rB\) not to have
+truth-conditions at all, for \(\bP_\rA (\rB)\) not to measure the
+probability of any proposition.</p>
+
+<p>
+This example highlights again the delicacy of the problem of
+determining which connectives can be analyzed under the purview of
+propositional logic. On some interpretations (including the
+truth-functional one), indicative mood conditionals can be, but on
+Ramsey&rsquo;s interpretation they cannot. In 1982, W. V. O. Quine
+anticipated Lewis&rsquo;s result by expressing the caution, which he
+attributed to Philip Rhinelander, not to confuse the statement of a
+conditional &ldquo;If A, then B&rdquo; with the statement of B on
+condition A. The latter, he held, is typically the proper way of
+understanding an expression of the form &ldquo;If A, then B&rdquo;,
+which, because it is a non-statement in the absence of the condition
+A, cannot be understood as a proposition at all.</p>
+
+<p>
+Gottlob Frege is often counted among the defenders of the material
+conditional, but his attitude towards the connective is nuanced. His
+systematization of propositional logic did feature a connective with
+the truth conditions given by \(f_5^2\), but Frege rejected the idea
+that this connective expressed the indicative conditional of natural
+language. He wrote, &ldquo;the causal connection implicit in the word
+&lsquo;if&rsquo; &hellip;is not expressed by our symbols&rdquo; (1972:
+116). It is a matter of ongoing debate whether Frege believed that the
+material conditional failed even to capture the truth conditions of
+ordinary language indicative conditionals or if he meant only that
+although it captures those conditionals&rsquo; truth conditions, the
+material conditional fails to capture other, non truth-conditional
+aspects of meaning. What is clear is that whatever mismatch he
+detected between ordinary conditional statements and the material
+conditional did not dissuade him from placing the latter in the center
+of his logical investigations.</p>
+
+<p>
+Given the plurality of truth-functionally complete sets of
+connectives, why would Frege or anyone else select the material
+conditional as a primitive connective for classical logic? Frege saw
+that the value of selecting the material conditional as a primitive
+connective not from its approximation of ordinary language expression
+but from its role internal to logical theory. Let us write
+\(\dturnstile{\CTT} \rB\) to indicate that the formula B is valid in
+the classical theory of truth. Generalizing this turnstile notation,
+one also writes \(\rA \dturnstile{\CTT} \rB\) to indicate that B is a
+classical propositional consequence of A, and where \(\calS\) is a set
+of propositional formulas, \(\calS \dturnstile{\CTT} \rB\) to indicate
+that B is a classical propositional consequence of all the formulas in
+\(\calS\). A fundamental fact, readily verifiable with a truth table,
+is that \(\calS\cup\{\rA\}\dturnstile{\CTT} \rB\) if, and only if,
+\(\calS\dturnstile{\CTT} \rA\supset\rB\). In the case that \(\calS\)
+is empty, \(\rA\dturnstile{\CTT} \rB\) exactly when
+\(\dturnstile{\CTT} \rA\supset\rB\). Earlier we emphasized that the
+material conditional cannot be understood as an expression of logical
+implication. The relation of classical logical consequence, on the
+other hand, is in fact a (particularly strict sort of) logical
+implication relation, one to which the material conditional is in fact
+directly related: \(\rA\supset\rB\) does not express any implication
+relation between A and B, but the claim that \(\rA\supset\rB\) is a
+classical propositional validity is such an expression of
+implication.</p>
+
+<h4 id="Deci">2.1.5 Decidability</h4>
+
+<p>
+A logic is said to be decidable if there is a reliable method for
+determining whether a formula is satisfiable. Classical propositional
+logic is readily seen to be decidable: Given an arbitrary formula,
+simply enumerate in the tabular method used above each of the possible
+sequences of truth values that can be input to its atomic
+propositional variables, and compute the composition of functions on
+each of these inputs. Because formulas are finite strings of symbols,
+each contains only a finite number, say <i>n</i>, of atoms, so that
+the truth-table will have exactly \(2^n\) rows. Completing the truth
+table is therefore a finite determinate task, at the end of which one
+will have discovered whether or not the formula is satisfiable.</p>
+
+<h4 id="NPComp">2.1.6 NP-completeness</h4>
+
+<p>
+The problem of determining whether a formula of classical
+propositional logic is satisfiable is known as <span class="sc">sat</span>.
+Although decision procedures exists for <span class="sc">sat</span>,
+all known procedures for making this
+determination in a predetermined manner for every possible formula are
+in a precise sense tedious and inefficient: no procedure has been
+discovered which returns an answer after a number of computation steps
+polynomially bounded by the size of the formula one tests, i.e., it is
+unknown whether <span class="sc">sat</span> is in the complexity class
+<strong>P</strong> of problems solvable by a deterministic procedure
+in polynomial time. It is known that <span class="sc">sat</span> is in
+the complexity class <strong>NP</strong>&mdash;those questions that
+can be answered by a non-deterministic procedure in polynomial time.
+In 1971, Steven Cook proved that <span class="sc">sat</span> is
+&ldquo;<strong>NP</strong>-complete&rdquo;: any problem in the class
+<strong>NP</strong> is reducible in polynomial time to <span class="sc">sat</span>.
+A corollary of Cook&rsquo;s theorem is that if
+<span class="sc">sat</span> is in the class <strong>P</strong>, then
+<strong>NP</strong> = <strong>P</strong>. It is generally believed
+that <strong>NP</strong> is a strictly larger class of problems than
+<strong>P</strong> and, for this reason, that no
+&ldquo;efficient&rdquo; procedure for solving <span class="sc">sat</span>
+in the sense of polynomial time computability
+exists. In the decades since Cook&rsquo;s discovery, a wide range of
+problems have been shown to be <strong>NP</strong>-complete. But
+classical propositional logic figured prominently in the context of
+the discovery of <strong>NP</strong>-completeness. Its perspicuity was
+particularly suited to stage the concept&rsquo;s formation.</p>
+
+<h4 id="Comp">2.1.7 Compactness</h4>
+
+<p>
+A fundamental fact about classical propositional logic is that it is
+&ldquo;compact&rdquo;. To motivate the idea of compactness, consider
+the set of formulas \(\calS = \{p_1, p_2, p_3, \neg (p_1\wedge
+p_2\wedge p_3) \}\). Every proper subset of \(\calS\) is
+&ldquo;simultaneously satisfiable&rdquo;, i.e., given any such proper
+subset, there is a single assignment of truth values to atoms under
+which each of the subset&rsquo;s formulas are true. However, \(\calS\)
+itself is not simultaneously satisfiable: Making each of \(p_1\),
+\(p_2\), and \(p_3\) true guarantees the falsity of \(\neg (p_1\wedge
+p_2\wedge p_3)\). What if another set \(\calT\) contains infinitely
+many formulas? Our observation about \(\calS\) might well foster the
+intuition that every proper subset of \(\calT\) could be
+simultaneously satisfiable despite there being no assignment of truth
+values to atoms that satisfies every formula in \(\calT\). What if,
+instead of knowing that every <em>proper</em> subset of \(\calT\) is
+simultaneously satisfiable, one were told only that each
+<em>finite</em> subset of \(\calT\) is? Because most proper subsets of
+\(\calT\) are infinite, the intuition that \(\calT\) could
+nevertheless fail to be simultaneously satisfiable is only
+strengthened.</p>
+
+<p>
+The Compactness Theorem (G&ouml;del 1930) tells us that this intuition
+is misleading:</p>
+
+<div class="theorem" id="theorem2">
+
+<p>
+<strong>Theorem 2</strong>. <em>If each finite subset of \(\calT\) is
+simultaneously satisfiable, then so is \(\calT\).</em></p>
+</div>
+
+<p>
+Notice that by &ldquo;relaxing&rdquo; the hypothesis from
+&ldquo;proper subset&rdquo; to &ldquo;finite subset&rdquo;, the
+Compactness Theorem is true and in fact trivial when \(\calT\) is
+finite: \(\calT\) is one of its own finite subsets. When \(\calT\) is
+infinite, though, relaxing the hypothesis dramatically increases the
+theorem&rsquo;s strength (In the language of quantification theory,
+the theorem involves a strong quantifier switch: From the fact that,
+given any finite subset of \(\calT\), one can always find an
+interpretation that satisfies it (potentially a different
+interpretation for each finite subset), one may infer the existence of
+a single interpretation that satisfies every possible finite subset of
+\(\calT\) one might ever be given).</p>
+
+<p>
+For a striking corollary of compactness, suppose that A is the
+classical propositional consequence of the infinite set of formulas
+\(\calU\) (\(\calU \dturnstile{\CTT} \rA\)). If every finite subset of
+\(\calU\cup\{\neg\rA\}\) were simultaneously satisfiable, then by
+compactness, \(\calU\cup \{\neg\rA\}\) would be simultaneously
+satisfiable, contrary to the our supposition. Therefore, some finite
+subset of \(\calU\cup\{\neg\rA\}\) is not simultaneously
+satisfiable&mdash;for some finite subset \(\calV\) of \(\calU\), there
+is no assignment of truth values to atoms that makes every formula in
+\(\calV\) true and A false. Classical propositional consequence is
+always &ldquo;finitely determined&rdquo;: If \(\calU \dturnstile{\CTT}
+\rA\), then for some finite subset \(\calV\) of \(\calU\), \(\calV
+\dturnstile{\CTT} \rA\).</p>
+
+<h3 id="Dedu">2.2 Deduction</h3>
+
+<p>
+Formal deduction systems, introduced by Gottlob Frege in 1879, provide
+an alternative specification of the meanings of propositional
+connectives. Such systems are characterized by a finite set of
+formulas called axioms and a finite set of inference rules. The
+propositional axioms in Frege&rsquo;s system are</p>
+
+<div id="fregeaxioms">
+
+\[
+\begin{align}
+\rA&amp;\supset (\rB\supset\rA) \tag*{axiom 1}\\
+(\rC\supset (\rB\supset\rA))&amp;\supset ((\rC\supset\rB)\supset (\rC\supset\rA))  \tag*{axiom 2}\\
+(\rB\supset\rA)&amp;\supset (\neg\rA\supset \neg\rB) \tag*{axiom 3}\\
+\rA&amp;\supset \neg\neg\rA \tag*{axiom 4}\\
+\neg\neg\rA&amp;\supset\rA \tag*{axiom 5}\\
+\end{align}
+\]
+
+</div> <!-- \(\rA\supset (\rB\supset\rA)\) \((\rC\supset (\rB\supset\rA))\supset ((\rC\supset\rB)\supset (\rC\supset\rA))\) \((\rB\supset\rA)\supset (\neg\rA\supset \neg\rB)\) \(\rA\supset \neg\neg\rA\) \(\neg\neg\rA\supset\rA\) -->
+
+<p>
+The inference rules of are</p>
+
+<ul>
+
+<li>
+
+<p>
+<em>modus ponens</em>: \(\begin{prooftree}
+\AxiomC{\(\rA\supset\rB\)}\AxiomC{\(\rA\)}\BinaryInfC{\(\rB\)}
+\end{prooftree}\) </p> </li>
+
+<li>
+
+<p>
+substitution: If \(p\) is an atomic variable in B, and C is any
+formula whatsoever, then let \(\rB'\) be the result of replacing every
+occurrence of \(p\) with C, and from B infer \(\rB'\).</p></li>
+</ul>
+
+<p>
+A proof is defined as a finite sequence of formulas, each one of which
+either is an axiom or follows from previous entries in the sequence by
+an application of an inference rule. A theorem is a formula which
+occurs as the final entry in a proof, and we denote the theoremhood of
+a formula A by \(\turnstile{\CPC} \rA\)&mdash;here <span class="sc">cpc</span>
+stands for &ldquo;the classical propositional
+calculus&rdquo;. We have presented the formal deduction system found
+in Frege 1879, but <span class="sc">cpc</span> is meant to label any
+equivalent system. Frege&rsquo;s system is in two senses adequate for
+representing classical propositional logic: Because the pair \(\{\neg,
+\supset\}\) is truth-functionally complete, any formula expressible
+with any combination of bivalent truth-functional connectives
+whatsoever can be translated into a formula in Frege&rsquo;s system.
+Moreover, the system is complete in the sense that all and only the
+classical propositional tautologies are theorems. The verification of
+this propositional completeness theorem below uses a different
+deductive system for <span class="sc">cpc</span> due to Hilbert and
+Bernays. As Jean Nicod (1917) was the first to observe, there are even
+presentations of <span class="sc">cpc</span> using only the single
+&ldquo;not both &hellip;and &hellip;&rdquo; connective \(|\), e.g.,
+with the lone axiom</p> 
+\[((\rA | (\rB | \rC)) | ((\rE | (\rE | \rE)) | ((\rD | \rB) | ((\rA | \rD) | (\rA | \rD)))))\]
+
+<p>
+and rules of inference</p>
+
+<ul>
+
+<li><em>Nicod&rsquo;s inference</em>: \(\begin{prooftree}
+\AxiomC{\(\rA\)} \AxiomC{\(\rA|(\rB|\rC)\)} \BinaryInfC{\(\rC\)}
+\end{prooftree}\) </li>
+
+<li>substitution: If \(p\) is an atomic variable in B, and C is any
+formula whatsoever, then let B&rsquo; be the result of replacing every
+occurrence of \(p\) with C, and from B infer B&rsquo;.</li>
+</ul>
+
+<p>
+In parallel to the truth-functional framework for classical logic, one
+can also introduce the notion of deduction from hypotheses: If
+\(\calS\) is a set of formulas, then a sequence of formulas whose last
+entry is A and in which every entry either is an axiom, a member of
+\(\calS\), or the result of an application of a inference rule from
+earlier entries is called a derivation of A from \(\calS\). In
+formulating this notion for <span class="sc">cpc</span>, however, some
+care is needed. One does not want, for example, every formula to be
+deducible from a propositional variable, and yet the substitution rule
+allows one to infer anything from \(p_1\). In moving from pure
+axiomatic provability to the idea of deduction from arbitrary
+hypotheses, therefore, the substitution rule is restricted to be
+applicable only to axioms. One can easily show that this restriction
+does not affect the set of theorems. With this restriction in place,
+we can denote the derivability of A from the set \(\calS\) by \(\calS
+\turnstile{\CPC} \rA\).</p>
+
+<h4 id="DeduTheo">2.2.1 The Deduction Theorem</h4>
+
+<p>
+In 1910 Frege pointed out, but did not prove, that
+\(\calS\cup\{\rA\}\turnstile{\CPC} \rB\) if, and only if,
+\(\calS\turnstile{\CPC} \rA\supset\rB\). The first recorded proofs are
+in Herbrand 1930 and Tarski 1933. Whereas the analogous observation in
+the case of the truth-functional interpretation is trivial, this
+result of Herbrand and Tarski is more complex. One direction is
+readily verified: Any \(\calS\)-derivation \(\calD\) of
+\(\rA\supset\rB\) is obviously also a \(\calS\cup\{\rA\}\)-derivation.
+To construct a \(\calS\cup\{\rA\}\)-derivation of \(\rB\), simply
+append the two formulas \(\rA\) and \(\rB\) to the end of
+\(\calD\).</p>
+
+<p>
+The other direction is known as the Deduction Theorem. It&rsquo;s
+proof uses induction on the length of the \(\calS\cup\{
+\rA\}\)-derivation of \(\rB\):</p>
+
+<div class="theorem" id="theorem3">
+
+<p>
+<strong>Theorem 3</strong>. <em>\(\calS\cup\{
+\rA\}\turnstile{\CPC}\rB\) only if \(\calS
+\turnstile{\CPC}\rA\supset\rB\)</em></p>
+</div>
+
+<div class="proof">
+
+<p>
+<em>Proof.</em> (<span class="sc">base step</span>) If there is a
+one-line derivation of \(\rB\) from \(\calS\cup\{ \rA\}\), then it is
+possible to construct a \(\calS\)-derivation of \(\rA\supset\rB\). To
+see this, notice that there are only three types of one-line
+derivations:</p>
+
+<ol>
+
+<li>\(\rB\) is in the set \(\calS\)</li>
+
+<li>\(\rB\) is \(\rA\)</li>
+
+<li>\(\rB\) is an axiom</li>
+</ol>
+
+<p>
+The following three \(\calS\)-derivations exhibit the fact that
+\(\calS \turnstile{\CPC}\rA\supset\rB\) in case 1, 2, and 3,
+respectively:</p>
+
+<div class="pdfsmall">
+
+\[\begin{array}{c|c|c}
+
+\rB &amp; (\rB\supset
+((\rC\supset\rB)\supset\rB))\supset
+((\rB\supset
+(\rC\supset\rB))\supset(\rB\supset\rB)) &amp;
+\rB \\
+
+\rB\supset (\rA\supset\rB) &amp; \rB\supset
+((\rC\supset\rB)\supset\rB) &amp; \rB\supset
+(\rA\supset\rB) \\
+
+\rA\supset\rB &amp; (\rB\supset
+(\rC\supset\rB))\supset(\rB\supset\rB)) &amp;
+\rA\supset\rB \\
+
+&amp; \rB\supset (\rC\supset\rB) &amp; \\
+
+&amp; \rB\supset\rB &amp;
+
+  
+\end{array}\]
+
+</div>
+
+<p>
+It is easy to check that each line of each derivation is either a
+member of \(\calS,\) an axiom, or the result of an application of
+<em>modus ponens</em>. (The middle sequence qualifies as a
+\(\calS\)-derivation of \(\rA\supset\rB\) because of the assumption
+that \(\rA\) is \(\rB\).)</p>
+
+<p>
+(<span class="sc">induction step</span>) Assume that whenever there is
+a \(\calS\cup\{ \rA\}\)-derivation of \(\rB\) that is <i>n</i> or
+fewer lines long, there is a \(\calS\)-derivation of
+\(\rA\supset\rB\). Now suppose there is an \(n+1\) line long
+\(\calS\cup\{ \rA\}\)-derivation \(\calD\) of \(\rB\). It is possible
+that the justification for line \(n+1\) is one of the possibilities
+from the base case&mdash;that \(\rB\) is an axiom, is from the set
+\(\calS\), or is identical to \(\rA\). In any of those cases, the
+\(\calS\)-derivation of \(\rA\supset\rB\) would be constructed as in
+the base case. In the novel case that the last line is the result of
+an application of <em>modus ponens</em>, the formulas
+\(\rC\supset\rB\) and \(\rC\) occur as earlier lines in \(\calD\).
+Therefore \(\calS\cup\{ \rA\}\)-derivations that are <i>n</i> lines
+long or shorter of \(\rC\supset\rB\) and \(\rC\) appear as
+subsequences of \(\calD\). The induction hypothesis then guarantees
+the existence of \(\calS\)-derivations of \(\rA\supset
+(\rC\supset\rB)\) and of \(\rA\supset\rC\). Let </p> 
+\[\calD_1 = \langle\rS_1, \rS_2, \ldots, \rA\supset (\rC\supset\rB)\rangle\]
+
+<p>
+and</p> 
+\[\calD_2 = \langle\rT_1, \rT_2, \ldots, \rA\supset\rC\rangle\]
+
+<p>
+be examples of such derivations, and consider the sequence:</p>
+
+<p>
+
+\[\begin{array}{c}
+
+  \calD_1\\
+  \calD_2\\
+  (\rA\supset (\rC\supset\rB))\supset
+  ((\rA\supset\rC)\supset
+  (\rA\supset\rB))\\
+  (\rA\supset\rC)\supset
+  (\rA\supset\rB)\\
+  \rA\supset\rB
+
+\end{array}\]
+ </p>
+
+<p>
+This is a \(\calS\)-derivation of \(\rA\supset\rB\).&nbsp;&#9723;</p>
+</div>
+
+<p>
+Because this verification of the Deduction Theorem depends only on the
+first two of Frege&rsquo;s axioms, it applies also in many
+non-classical contexts including, importantly, a large class of
+constructive propositional logics.</p>
+
+<h4 id="BasiMetaTheo">2.2.2 Basic meta-theory</h4>
+
+<p>
+Another analogue to the evident facts from the truth-functional
+framework, this time the DNF theorem, played a historical role in the
+metatheoretical analysis of axiomatic systems. Hilbert showed how to
+associate with every formula A a disjunctive normal formula
+\(\rA_{\dnf}\) and a conjunctive normal formula \(\rA_{\cnf}\) such
+that </p> 
+\[\begin{aligned}
+&amp;\turnstile{\CPC} \rA \supset\rA_{\dnf},\\ 
+&amp;\turnstile{\CPC} \rA_{\dnf} \supset\rA, \\
+&amp;\turnstile{\CPC} \rA \supset\rA_{\cnf}, \text{ and }\\ 
+&amp;\turnstile{\CPC} \rA_{\cnf} \supset\rA.
+\end{aligned}
+\]
+
+<p>
+In particular, applying the Deduction Theorem, A and \(\rA_{\cnf}\)
+are inter-derivable.</p>
+
+<p>
+Frege&rsquo;s axiomatization obviously depends on the expressive
+adequacy of the pair \(\{\supset, \neg\}\), about which one cannot
+really be certain unless one has in mind some account of the meaning
+of the connectives other than that provided by the deduction system
+itself. Russell and Whitehead in <em>Principia Mathematica</em> and
+Hilbert and Ackermann in 1928 followed Frege in working with a small
+set of basic connectives and using others as abbreviations. In 1926,
+Bernays questioned &ldquo;the predominant tendency &hellip;to reduce
+the number of basic connectives and therewith the number of
+axioms&rdquo;, observing that &ldquo;one can, on the other hand,
+sharply distinguish the various connectives&rdquo; and thereby not
+presuppose equivalences such as \(\neg\rA\vee\rB = \rA\supset\rB\)
+that do not appear in the axiomatic framework itself. Such an approach
+allows one to explore modifications of an axiom system in which
+certain equivalences do not hold, and to compare them with one
+another. The axiomatic framework is generally a crude device for such
+comparative studies; the spirit of Bernays&rsquo;s insight reached its
+maturation in the natural deduction and sequent calculi of Gentzen
+(1934&ndash;35) wherein the meaning of each connective is fully
+specified, in terms of characterizing inference rules, in isolation of
+the other connectives.</p>
+
+<p>
+The axiomatic framework with minimal signature (following Russell and
+Whitehead, Hilbert used only \(\{\vee, \neg\}\)) nevertheless
+submitted to the Hilbert school&rsquo;s profound metatheoretical
+analysis in terms of consistency, independence, maximality, and
+completeness proofs. In order to preserve the context of discovery,
+the following retraces the original proofs provided in Hilbert&rsquo;s
+lectures &ldquo;Prinzipien der Mathematik&rdquo; from 1917.</p>
+
+<h5 id="Cons">2.2.2.1 Consistency</h5>
+
+<p>
+An formal deductive system <span class="sc">S</span> is
+<em>consistent</em> if for no formula A is \(\turnstile{\rS} \rA\) and
+\(\turnstile{\rS} \neg\rA\). To prove consistency of <span class="sc">cpc</span>,
+Hilbert reasoned as follows: Let the sentence
+letters range over the numbers 1 and 0, interpret the disjunction
+symbol as multiplication and the negation symbol as the function \(1 -
+x\). In this interpretation, every formula is a function on 0 and 1
+composed of multiplication and \(1 - x\). Hilbert observed that the
+axioms are each interpreted as functions that return the value 0 on
+every input, and that the rules of inference each preserve this
+property (so that every theorem is constant 0). Furthermore, the
+negation of any theorem is constant 1 and therefore unprovable. Thus,
+no formula is provable if its negation also is, so the system is
+consistent.</p>
+
+<h5 id="Maxi">2.2.2.2 Maximality</h5>
+
+<p>
+A formal deductive system is <em>maximal</em> if any proper extension
+of it is inconsistent. Hilbert used the same interpretation from his
+consistency argument to show:</p>
+
+<div class="theorem" id="theorem4">
+
+<p>
+<strong>Theorem 4</strong>. <em><span class="sc">cpc</span> is
+maximal.</em></p>
+</div>
+
+<div class="proof">
+
+<p>
+<em>Proof.</em> As above, a formula is provable only if it is constant
+0 under the interpretation, which, in the case of a conjunctive normal
+formula, occurs precisely when each of its conjuncts contains both a
+negated and unnegated occurrence of some propositional variable. Now
+let A be any unprovable formula. Its associated formula \(\rA_{\cnf}\)
+must also be unprovable and therefore must contain a conjunct C with
+no propositional variable appearing both negated and unnegated. To
+show that <span class="sc">cpc</span>+A (<span class="sc">cpc</span>
+augmented with A as an additional axiom) is inconsistent, let B be any
+formula whatsoever, and label D the result of substituting, into
+\(\rA_{\cnf}\), B for every propositional variable that occurs
+unnegated in C and \(\neg\rB\) for every propositional variable that
+occurs negated in C. It is easy to show that </p> 
+\[\begin{aligned}
+&amp;\turnstile{\CPC+\rA} \rA, \\
+&amp;\turnstile{\CPC} \rA\supset\rA_{\cnf},\\
+&amp;\turnstile{\CPC} \rA_{\cnf}\supset\rD, \text{ and}\\
+&amp;\turnstile{\CPC} \rD\supset\rB.\\
+\end{aligned}
+\]
+
+<p>
+Thus \(\turnstile{\CPC+\rA} \rB\) for any formula B.&nbsp;&#9723;</p>
+</div>
+
+<p>
+Hilbert and others called this same property
+&ldquo;completeness&rdquo;, in analogy to the completeness axiom from
+Hilbert&rsquo;s foundational studies of plane geometry and number
+theory. But as completeness has come to mean something else in the
+logical domain, this property is now commonly referred to as
+&ldquo;Post-completeness&rdquo; (after Post 1921 who rediscovered this
+property of <span class="sc">cpc</span>) or, as here, as
+&ldquo;maximality&rdquo;.</p>
+
+<h5 id="Comp_1">2.2.2.3 Completeness</h5>
+
+<p>
+The Completeness Theorem describes an exact correspondence between the
+truth-functional and deductive frameworks:</p>
+
+<div class="theorem" id="theorem5">
+
+<p>
+<strong>Theorem 5</strong>. <em>\(\turnstile{\CPC} \rA\) if, and only
+if, \(\dturnstile{\CTT} \rA\).</em></p>
+</div>
+
+<div class="proof">
+
+<p>
+<em>Proof.</em> This result is often described as difficult to
+establish, but in Hilbert&rsquo;s 1917 lectures, it is an immediate
+corollary of maximality. Already it was observed in the consistency
+argument that only formulas interpreted as constant 0 functions are
+provable. Suppose that some formula A were constant 0 but unprovable
+in <span class="sc">cpc</span>. Then the same consistency argument as
+before would carry through for <span class="sc">cpc</span>+A,
+contradicting the maximality result just proved. It follows that every
+formula interpreted as a constant 0 function is a theorem of <span class="sc">cpc</span>.
+The formulas interpreted as constant 0
+functions are just the valid formulas on the classical
+truth-functional interpretation.&nbsp;&#9723;</p>
+</div>
+
+<p>
+A direct route to the Completeness Theorem is also possible. A famous
+proof from Kalm&aacute;r 1935 begins with two observations:</p>
+
+<dl class="sentag tag3em">
+<dt id="K1">K1</dt>
+<dd> \(\turnstile{\CPC} (\rA\supset \rB)\supset ((\neg \rA\supset
+\rB)\supset \rB)\)</dd>
+<dt id="K2">K2</dt>
+<dd>Let A be any formula with propositional variables \(p_1\),
+\(p_2\), &hellip;, \(p_n\), and let \(\mathit{v}\) be an assignment of
+truth values to propositional variables. Define \(\rC_k = p_1\) if
+\(\mathit{v}(p_1) = \mathbf{T}\), \(\neg p_1\) if \(\mathit{v}(p_k) =
+\mathbf{F}\). Then if \(\mathit{v}(\rA) = \mathbf{T}\), \(\rC_1,
+\rC_2, \ldots, \rC_n \turnstile{\CPC} \rA\).</dd>
+</dl>
+
+<div class="proof">
+
+<p>
+<em>Proof.</em> Suppose now that T is a classical validity with
+propositional variables \(p_1\), \(p_2\), &hellip;, \(p_n\). Then by
+ <a href="#K2">K2</a>,
+ for every assignment \(\mathit{v}\) of truth values to propositional
+variables, \(\mathit{v}(\rT) = \mathbf{T}\) and \(\rC_1, \rC_2,
+\ldots, \rC_n \turnstile{\CPC} \rT\). Let \(\mathit{u}\) and
+\(\mathit{w}\) be assignments of truth values that differ only in that
+\(\mathit{u}(p_n) = \mathbf{T}\) whereas \(\mathit{w}(p_n) =
+\mathbf{F}.\) </p> 
+\[\rC_1, \rC_2, \ldots, \rC_{n-1}, p_n \turnstile{\CPC} \rT\]
+
+<p>
+and</p> 
+\[\rC_1, \rC_2, \ldots, \rC_{n-1}, \neg p_n \turnstile{\CPC} \rT.\]
+
+<p>
+By the Deduction Theorem,</p> 
+\[\rC_1, \rC_2, \ldots, \rC_{n-1} \turnstile{\CPC} p_n\supset \rT,\]
+
+<p>
+and</p> 
+\[\rC_1, \rC_2, \ldots, \rC_{n-1} \turnstile{\CPC} \neg p_n\supset \rT.\]
+
+<p>
+By
+ <a href="#K1">K1</a>,
+ </p> 
+\[\rC_1, \rC_2, \ldots, \rC_{n-1} \turnstile{\CPC} (p_n\supset \rT)\supset ((\neg p_n\supset \rT)\supset \rT).\]
+
+<p>
+Two applications of <em>modus ponens</em> yield</p> 
+\[\rC_1, \rC_2, \ldots, \rC_{n-1} \turnstile{\CPC} \rT.\]
+
+<p>
+Repeating this same reasoning for \(p_{n-1}\) yields </p> 
+\[\rC_1, \rC_2, \ldots, \rC_{n-2} \turnstile{\CPC} \rT,\]
+
+<p>
+and after <i>n</i> repetitions \(\turnstile{\CPC} \rT\) is
+established.&nbsp;&#9723;</p>
+</div>
+
+<p>
+Proving completeness directly in this manner allows a different
+argument for maximality:</p>
+
+<div class="proof">
+
+<p>
+<em>Proof.</em> For suppose \(\centernot{\turnstile{\CPC}} \rA\). Then
+by completeness, \(\centernot{\dturnstile{\CTT}} \rA\). So there is
+some assignment \(\mathit{v}\) of truth values to propositional
+variables on which A evaluates as <strong>F</strong>. Let \(\rA'\) be
+the result of replacing every propositional variable assigned
+<strong>T</strong> by \(\mathit{v}\) with \(p_1\supset p_1\) and every
+propositional variable assigned <strong>F</strong> by \(\mathit{v}\)
+with \(p_1\supset\neg p_1\). \(\rA'\) is unsatisfiable. Therefore
+\(\neg \rA'\) is valid. So \(\turnstile{\CPC+\rA} \neg\rA'\). But
+\(\turnstile{\CPC+\rA} \rA\) and, by substitution,
+\(\turnstile{\CPC+\rA} \rA'\). So <span class="sc">cpc</span>+A is
+inconsistent.&nbsp;&#9723;</p>
+</div>
+
+<h5 id="CompSemiDeci">2.2.2.4 Completeness as semi-decidability</h5>
+
+<p>
+The set of theorems of a formal deductive system can be seen to be
+recursively enumerable. To construct a simple enumeration, let us add
+to the language of propositional logic the symbol &ldquo;;&rdquo; as a
+sequential location demarcator so that the language consists of \(p_1,
+p_2, \ldots, (, ), \supset, \neg, \hbox{and} ;\). Then we can list all
+possible sequences of symbols in stages:</p>
+
+<div class="indent">
+
+<ul class="hanging">
+
+<li>Stage 1: list all strings of symbols of length 1 using only the
+propositional variable \(p_1\).</li>
+
+<li>Stage 2: list all strings of symbols of length 1 or 2 using only
+propositional variables \(p_1\) and \(p_2\).</li>
+
+<li>...</li>
+</ul>
+</div>
+
+<p>
+At each stage, the vocabulary is finite, so there are only finitely
+many strings of symbols to list. But every proof is a finite string of
+symbols and therefore gets listed at some stage or another. Therefore,
+given a formula A, one can begin searching for a proof one stage at a
+time, checking only finitely many strings at each stage. If A is
+valid, then by completeness it is provable, and one will discover a
+proof of it after examining some finite number of strings. On the
+other hand, if A is not valid, the search will never halt.</p>
+
+<p>
+Completeness results are often described as valuable because they make
+evident the recursive enumerability of a logic&rsquo;s validities. In
+the case of classical propositional logic, validity is already known
+to be recursively enumerable and even decidable by a much simpler and
+more efficient method of truth table evaluation. The Completeness
+Theorem&rsquo;s value derives instead from the fact that two vastly
+different conceptions of logicality&mdash;formal provability and
+truth-functional validity&mdash;coincide. The situation is different
+with other logical systems. The most famous example is first-order
+classical quantification theory, which Church and Turing proved to be
+undecidable in 1936. Here, the Completeness Theorem of G&ouml;del 1930
+is especially insightful: the set of quantificational validities is
+not recursive, but it is at least recursively enumerable. In fact, the
+completeness results for classical propositional logic and
+quantification theory were the historical occasion for the
+clarification of the distinction between recursive and recursively
+enumerable sets&mdash;a distinction seen as elementary today but the
+source of considerable confusion in the first decades of the twentieth
+century.</p>
+
+<p>
+Completeness results can play a role for many alternative systems of
+propositional logic similar to the one they play for classical
+quantification theory: Urquhart 1984 showed that the systems <span class="sc">e</span>
+and <span class="sc">r</span> of relevance logic
+are undecidable; Lincoln et al. 1992 showed that full propositional
+linear logic <span class="sc">ll</span> is undecidable. In these
+arenas, a complete formal derivation system can provide some concrete
+access to the space of valid formulas whose abstract definition is not
+otherwise readily navigable.</p>
+
+<h5 id="Inde">2.2.2.5 Independence</h5>
+
+<p>
+The style of reasoning exhibited in the consistency argument can be
+generalized to show independence results. The idea of the consistency
+argument was first to describe a property P such that</p>
+
+<ol>
+
+<li>
+
+<p>
+all the axioms have P, and</p></li>
+
+<li>
+
+<p>
+if an inference rule is applied to a formula with P, then the formula
+that results from its application also has P</p></li>
+</ol>
+
+<p>
+and then to show that certain formulas do not have P. Because all
+theorems either are axioms or are generated from axioms by iterated
+applications of inference rules, those latter formulas cannot be
+theorems.</p>
+
+<p>
+In the consistency proof, P is the property of being interpreted as a
+constant 0 function, and the formulas that do not have P are the
+negations of theorems. The reasoning can be generalized, though.
+Suppose P were some other property that all but one of the axioms have
+and that is similarly preserved by the inference rules. By verifying
+this one could show that the one axiom is not derivable from the
+others and therefore that the deductive system would have fewer
+theorems without it. For example, the classical interpretation of
+\(\supset\) is a function that returns 1 on the input \(\langle 0,
+1\rangle\) and 0 otherwise, and the classical interpretation of
+\(\neg\) is the function that returns 1 on the input 0 and returns 0
+on the input 1. All five of Frege&rsquo;s axioms are constant 0 on
+this interpretation. If we modify the interpretation so that
+\(\supset\) is unchanged but \(\neg\) returns 1 on the input 1 and
+returns 0 on the input 0, then
+ <a href="#fregeaxioms">axioms 1, 2, 4, and 5</a>
+ are still interpreted as constant 0 functions, whereas axiom 3
+returns 1 on the input \(\langle 0, 1\rangle\). The inference rules
+still preserve the property of being constant 0 on this modified
+interpretation, so we know that axiom 3 cannot be proved using only
+axioms 1, 2, 4, and 5 and that without axiom 3 Frege&rsquo;s system
+would not be complete.</p>
+
+<p>
+For a more interesting example, consider the interpretation of
+\(\supset\) and \(\neg\) in terms of trivalent functions given by the
+following tables:</p>
+
+<div class="center">
+
+<div style="display:inline-block; vertical-align:top;padding-right:3em">
+
+<table class="cellpad-med-dense cell-center two-rulesTH centered">
+<colgroup class="colhead" span="2"> </colgroup> <colgroup span="1"></colgroup>
+<thead>
+<tr class="header">
+<th>A</th>
+<th>B</th>
+<th>\(\rA\supset\rB\)</th> </tr> </thead>
+<tbody>
+<tr class="odd">
+  <td>0</td>
+  <td>0</td>
+  <td>0</td> </tr>
+<tr class="even">
+  <td>1</td>
+  <td>0</td>
+  <td>0</td> </tr>
+<tr class="odd">
+  <td>2</td>
+  <td>0</td>
+  <td>0</td> </tr>
+<tr class="even">
+  <td>0</td>
+  <td>1</td>
+  <td>1</td> </tr>
+<tr class="odd">
+  <td>1</td>
+  <td>1</td>
+  <td>0</td> </tr>
+<tr class="even">
+  <td>2</td>
+  <td>1</td>
+  <td>0</td> </tr>
+<tr class="odd">
+  <td>0</td>
+  <td>2</td>
+  <td>2</td> </tr>
+<tr class="even">
+  <td>1</td>
+  <td>2</td>
+  <td>2</td> </tr>
+<tr class="odd">
+  <td>2</td>
+  <td>2</td>
+  <td>0</td> </tr> </tbody>
+</table>
+
+</div>
+
+<div class="center" style="display:inline-block; vertical-align:top">
+
+<table class="cellpad-med-dense cell-center two-rulesTH centered">
+<colgroup class="colhead" span="1"> </colgroup> <colgroup span="1">
+</colgroup>
+<thead>
+<tr class="header">
+<th>A</th>
+<th>\(\neg\rA\)</th> </tr> </thead>
+<tbody>
+<tr class="odd">
+  <td>0</td>
+  <td>2</td> </tr>
+<tr class="even">
+  <td>1</td>
+  <td>2</td> </tr>
+<tr class="odd">
+  <td>2</td>
+  <td>0</td> </tr> </tbody>
+</table>
+</div>
+</div>
+
+<p>
+If P is the property of being a constant 0 function on this
+interpretation, then one can verify that</p>
+
+<ol>
+
+<li>
+
+<p>
+axioms 1, 2, 3, and 4 each have P</p></li>
+
+<li>
+
+<p>
+P is preserved by <em>modus ponens</em> and substitution</p></li>
+
+<li>
+
+<p>
+axiom 5 evaluates as 1 on the input 1 and so does not have property
+P</p></li>
+</ol>
+
+<p>
+and that axiom 5 is therefore independent of the first four
+axioms.</p>
+
+<p>
+The use of non-classical (typically higher valence) truth-functional
+interpretations to define properties to be used in independence proofs
+dates back to Schr&ouml;der 1890. It was pursued in full generality by
+&#321;ukasiewicz, who also proved results about the scope of this
+technique.</p>
+
+<h3 id="GentCalc">2.3 Gentzen&rsquo;s calculi</h3>
+
+<p>
+In 1934&ndash;35, Gerhard Gentzen introduced two alternative
+frameworks for presenting deductive inference that have led to
+particularly refined analyses of propositional logic. We will look
+first at Gentzen&rsquo;s system of natural deduction and later
+consider his sequent calculus.</p>
+
+<h4 id="NatuDedu">2.3.1 Natural deduction</h4>
+
+<p>
+In lectures from early 1920, David Hilbert remarked that a formal
+deduction system&rsquo;s inference rules can be thought of as
+providing the meanings of the connectives they govern (Hilbert 2013:
+323). Hilbert&rsquo;s idea is given a profound realization in
+Gentzen&rsquo;s natural deduction calculus. Natural deduction is an
+early and emblematic achievement in &ldquo;proof-theoretic
+semantics&rdquo;: the tradition of specifying definitions in
+inferential, rather than denotational, terms.</p>
+
+<p>
+In systems like <span class="sc">cpc</span> the only inference rule
+responsible specifically to a connective is <em>modus ponens</em>.
+What would it mean for this rule not only to describe a deductively
+valid pattern of inference but in fact to provide a definition of the
+connective \(\supset\)? If one understands <em>modus ponens</em> not
+just as one among many patterns of valid inference but as saying that
+it is <em>definitive</em> of the conditional \(\rA\supset\rB\) that it
+licenses the inference from \(\rA\) to \(\rB\), then part of what one
+means is that any sentence that, together with \(\rA\), allows the
+inference to \(\rB\) expresses something equivalent to or stronger
+than \(\rA\supset\rB\). To illustrate this, let us rewrite <em>modus
+ponens</em> in the turnstile notation as </p> 
+\[\begin{aligned}
+\rA\supset\rB, \rA
+\vdash \rB
+\end{aligned}\]
+
+<p>
+Understood as a definition of \(\supset\), this determines the
+following form of the Deduction Theorem, stating that
+\(\rA\supset\rB\) can be inferred from any other formula that
+similarly licenses the inference from A to B: </p> 
+\[
+\hbox{for all }\rC, \hbox{if } \rC, \rA
+\vdash \rB, \hbox{then }
+\rC\vdash \rA\supset\rB
+\]
+
+<p>
+In Gentzen&rsquo;s terminology, rules like <em>modus ponens</em> that
+describe the definitive way of reasoning from a sentence governed by a
+certain connective are called &ldquo;elimination rules&rdquo;. The
+Deduction Theorem, in describing the definitive pattern of reasoning
+whose conclusion is governed by a certain connective, is an example of
+an &ldquo;introduction rule&rdquo;. Gentzen wrote: </p>
+
+<blockquote>
+
+<p>
+The introductions represent &hellip;the &ldquo;definitions&rdquo; of
+the symbols concerned, and the eliminations are no more, in the final
+analysis, than the consequences of these definitions. &hellip;By
+making these ideas more precise it should be possible to display the
+Elim-rules as unique functions of their corresponding Intro-rules.
+(1934&ndash;35: &sect;II 5.13) </p>
+</blockquote>
+
+<p>
+The precisification Gentzen foresaw is this: Elimination rules are not
+&ldquo;consequences&rdquo; of their corresponding introduction rules;
+neither are introduction rules &ldquo;consequences&rdquo; of their
+corresponding elimination rules; but rules of the one type do follow
+from the conception of their corresponding rules of the other type as
+definitions. When conditionalization is understood as an operation
+that maps \(\rA\) and \(\rB\) to the proposition that together with
+\(\rA\) licenses an inference to \(\rB\), <em>modus ponens</em>
+captures the part about licensing this inference, and the Deduction
+Theorem captures the part about being <em>the thing</em> that so
+licenses it, so that any other proposition that allows an inference
+from \(\rA\) to \(\rB\) only does so <em>via</em> \(\rA\supset\rB\)
+(see Franks 2021).</p>
+
+<p>
+To take another example, consider the inferences \(\rA\wedge\rB\vdash
+\rA\) and \(\rA\wedge\rB\vdash \rB\). One might think of these as
+definitive of the logical conjunction: To know \(\rA\wedge\rB\) is to
+be in a position to immediately infer both A and B. If so, then simply
+being in the position to immediately infer both A and B should suffice
+to allow one to conclude \(\rA\wedge\rB\): For all \(\rC\), if
+\(\rC\vdash \rA\) and \(\rC\vdash \rB\), then \(\rC\vdash
+\rA\wedge\rB\). Here again, Gentzen labeled the first pair of
+inferences the elimination rule for \(\wedge\) and the latter
+inference its introduction rule.</p>
+
+<p>
+Gentzen&rsquo;s system of natural deduction is a presentation of logic
+in terms of an intro/elim pair of rules, related as are <em>modus
+ponens</em> and the Deduction theorem, providing an inferential
+definition of each logical particle. His natural deduction system of
+propositional logic has such pairs of rules for the propositional
+connectives \(\supset\), \(\wedge\), \(\vee\), and \(\neg\), which he
+presented in two-dimensional inference figures:</p> 
+\[\hspace{-10em}
+\begin{prooftree} \AxiomC{\(\rA\supset\rB\)} \AxiomC{\(\rA\)}
+\RightLabel{\({\supset}\text{elim}\)} \BinaryInfC{\(\rB\)}
+\end{prooftree}
+\hspace{4em}
+\begin{prooftree} \AxiomC{\([\rA]\)} \noLine\UnaryInfC{\(\vdots\)}
+\noLine\UnaryInfC{\(\rB\)} \RightLabel{\({\supset}\text{intro}\)}
+\UnaryInfC{\(\rA\supset\rB\)} \end{prooftree}
+\]
+
+\[\hspace{-4em}
+\begin{prooftree} \AxiomC{\(\rA\wedge\rB\)} \UnaryInfC{\(\rA\)}
+\end{prooftree} \quad \begin{prooftree} \AxiomC{\(\rA\wedge\rB\)}
+\RightLabel{\({\wedge}\text{elim}\)} \UnaryInfC{\(\rB\)}
+\end{prooftree}
+\hspace{4em}
+\begin{prooftree} \AxiomC{\(\rA\)} \AxiomC{\(\rB\)}
+\RightLabel{\({\wedge}\text{intro}\)} \BinaryInfC{\(\rA\wedge\rB\)}
+\end{prooftree}\]
+ 
+\[\hspace{-3em}
+\begin{prooftree} \AxiomC{\(\rA\vee\rB\)} \AxiomC{[\(\rA\)]}
+\noLine\UnaryInfC{\(\vdots\)} \noLine\UnaryInfC{\(\rC\)}
+\AxiomC{[\(\rB\)]} \noLine\UnaryInfC{\(\vdots\)}
+\noLine\UnaryInfC{\(\rC\)} \RightLabel{\({\vee}\text{elim}\)}
+\TrinaryInfC{\(\rC\)} \end{prooftree}
+\hspace{7em}
+\begin{prooftree} \AxiomC{\(\rA\)} \UnaryInfC{\(\rA\vee\rB\)}
+\end{prooftree} \quad \begin{prooftree} \AxiomC{\(\rB\)}
+\RightLabel{\({\vee}\text{intro}\)} \UnaryInfC{\(\rA\vee\rB\)}
+\end{prooftree}\]
+ 
+\[\hspace{-10em}
+\begin{prooftree} \AxiomC{\(\neg\rA\)} \AxiomC{\(\rA\)}
+\RightLabel{\({\neg}\text{elim}\)} \BinaryInfC{\(\bot\)}
+\end{prooftree}
+\hspace{6em}
+\begin{prooftree} \AxiomC{\([\rA]\)} \noLine\UnaryInfC{\(\vdots\)}
+\noLine\UnaryInfC{\(\bot\)} \RightLabel{\({\neg}\text{intro}\)}
+\UnaryInfC{\(\neg A\)} \end{prooftree}\]
+
+<p>
+Notice the appearance of the arity-0 connective \(\bot\) in the
+\(\neg\) rules, which has no inferential definition of its own.</p>
+
+<p>
+Natural deduction proofs are trees constructed by iterating these
+rules. When all the assumptions in such a proof are discharged by the
+application of a rule, the formula in the tree&rsquo;s single root
+node is said to be proved; otherwise it is said to be derived from the
+set of assumptions that remain open at leaf nodes. Let us write
+\(\turnstile{\ND} \rA\) when there is a natural deduction proof of
+A.</p>
+
+<p>
+Gentzen observed that the natural deduction calculus with intro/elim
+pairs of rules for the connectives \(\supset\), \(\wedge\), \(\vee\),
+and \(\neg\) is <em>not</em> equivalent to classical propositional
+logic: \(\turnstile{\ND} \rA\) only if \(\dturnstile{\CTT} \rA\), but,
+for example, \(\dturnstile{\CTT} \rA\vee\neg\rA\) whereas
+\(\centernot{\turnstile{\ND}} \rA\vee\neg\rA\). &ldquo;The law of
+excluded middle, which the intuitionists reject&rdquo;, Gentzen wrote,
+&ldquo;occupies a special position&rdquo; in natural deduction.
+Gentzen&rsquo;s framework revealed that the specification of the
+meanings of the propositional connectives in terms of binary truth
+functions does not correspond with the &ldquo;inferential&rdquo;
+specification of their meanings in terms of the intro/elim rule
+scheme. In fact, Johansson pointed out in 1937 that the introduction
+and elimination rules of Gentzen&rsquo;s natural deduction cannot even
+derive the rule of disjunctive syllogism </p> 
+\[
+  \begin{prooftree}
+\AxiomC{\(\rA\vee\rB\)}\AxiomC{\(\neg\rB\)}\BinaryInfC{\(\rA\)}
+  \end{prooftree}
+\]
+
+<p>
+This elementary inference that Chrysippus famously attributed to
+hunting dogs cannot be justified by the inferential meaning of the
+\(\neg\) and \(\vee\) connectives alone. To derive the disjunctive
+syllogism rule, one needs the additional primitive inference figure
+</p> 
+\[
+  \begin{prooftree}
+\AxiomC{\(\bot\)}\UnaryInfC{A}
+  \end{prooftree}
+\qquad(\textit{ex falso quodlibet});\]
+
+<p>
+to derive the principle of excluded middle, one needs in addition the
+double negation rule </p> 
+\[
+  \begin{prooftree}
+\AxiomC{\(\neg\neg\rA\)}\UnaryInfC{\(\rA\)} 
+  \end{prooftree}.
+\]
+
+<p>
+These rules can be used together with the introduction and elimination
+rules for the propositional connectives to construct natural deduction
+systems <span class="sc">nd</span>+\(\frac{\bot}{\rA}\) for
+intuitionistic propositional logic and <span class="sc">nd</span>+\(\frac{\neg\neg\rA}{\rA}\)
+for classical
+propositional logic, but Gentzen observed, such inference schemata
+&ldquo;fall outside the intro/elim framework &hellip;&rdquo;.
+(Classical propositional logic is often given a natural deduction
+presentation <span class="sc">nd</span>+\(\frac{\bot}{\rA}\)+\(\frac{\neg\neg\rA}{\rA}\),
+but the <em>ex falso quodlibet</em> rule is redundant in that system
+because \(\bot \turnstile{\ND+({\neg\neg\rA}/{\rA})} \rB\).)</p>
+
+<p>
+The distinction between classical and intuitionistic logic predates
+Gentzen&rsquo;s work. But with its inferential definition of
+propositional connectives, natural deduction sheds new light on the
+distinction: classical, intuitionist, and other logicians can agree to
+the same definitions of the propositional connectives, the differences
+between their conceptions of logic having to do with the acceptability
+of principles like the law of excluded middle that are independent of
+the connectives&rsquo; meanings.</p>
+
+<h4 id="SequCalc">2.3.2 Sequent calculus</h4>
+
+<p>
+This same point is brought out in a different way in Gentzen&rsquo;s
+propositional sequent calculi. These calculi present logical inference
+in the form of sequents: expressions of the form &ldquo;\(\Gamma
+\Lrightarrow \Delta\)&rdquo; in which Greek letters stand for
+(possibly empty) finite sequences of formula. The sequences to the
+left and to the right of the coordinating &ldquo;sequent arrow&rdquo;
+\(\Lrightarrow\) are called the antecedent and succedent. The sequent
+calculus again associates with each propositional connective a pair of
+rules, this time &ldquo;left&rdquo; and &ldquo;right&rdquo; rules:</p>
+
+\[\hspace{1em}
+  \begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+  \Axiom$\rA, \rB, \Gamma \fCenter \Delta$
+  \RightLabel{ $\wedge$(L)}
+  \UnaryInf$\rA \wedge \rB, \Gamma\fCenter \Delta$
+  \end{prooftree}
+\hspace{2em}
+  \begin{prooftree}
+  \AxiomC{\(\Gamma\Lrightarrow\Theta, \rA\)}
+  \AxiomC{\(\Gamma\Lrightarrow\Theta, \rB\)}
+  \RightLabel{ $\wedge$(R)}
+  \BinaryInfC{\(\Gamma\Lrightarrow\Theta, \rA \wedge \rB\)}
+  \end{prooftree}
+\]
+ 
+\[\hspace{-3em}
+  \begin{prooftree}
+  \AxiomC{\(\rA, \Gamma\Lrightarrow\Theta\)}
+  \AxiomC{\(\rB, \Gamma\Lrightarrow\Theta\)}
+  \RightLabel{ $\vee$(L)}
+  \BinaryInfC{\(\rA \vee \rB, \Gamma\Lrightarrow\Theta\)}
+  \end{prooftree}
+\hspace{2em}
+  \begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+  \Axiom$\Gamma \fCenter \Delta, \rA, \rB$
+  \RightLabel{ $\vee$(R)}
+  \UnaryInf$\Gamma \fCenter \Delta, \rA \vee \rB$
+  \end{prooftree}
+\]
+ 
+\[\hspace{-2em}
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \Theta, \rA$
+\RightLabel{$\neg\text{(L)}$}
+\UnaryInf$\neg\rA, \Gamma\fCenter \Theta$
+\end{prooftree}
+\hspace{6em}
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\rA, \Gamma\fCenter \Theta$
+\RightLabel{$\neg\text{(R)}$}
+\UnaryInf$\Gamma\fCenter \Theta, \neg\rA$
+\end{prooftree}
+\]
+ 
+\[\hspace{-3em}
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \Theta, \rA$
+\Axiom$\rB, \Gamma\fCenter \Theta$
+\RightLabel{${\supset}\text{(L)}$}
+\BinaryInf$\rA \supset \rB, \Gamma\fCenter \Theta$
+\end{prooftree}
+\hspace{2em}
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\rA, \Gamma\fCenter \Theta, \rB$
+\RightLabel{${\supset}\text{(R)}$}
+\UnaryInf$\Gamma\fCenter \Theta, \rA \supset \rB$
+\end{prooftree}
+\]
+
+<p>
+In the sequent calculi, these left/right rules for the propositional
+connectives function alongside another set of rules of structural
+reasoning. The classical calculus <span class="sc">pk</span> has
+seven:</p>
+
+<div class="prooftree">
+
+\[
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \Theta$
+\RightLabel{\(\text{thinning(L)}\)}
+\UnaryInf$\rD,\Gamma\fCenter \Theta$
+\end{prooftree}
+\qquad
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \Theta$
+\RightLabel{\(\text{thinning(R)}\)}
+\UnaryInf$\Gamma\fCenter \Theta, \rD$
+\end{prooftree}
+\]
+ 
+\[
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\rD, \rD, \Gamma\fCenter \Theta$
+\RightLabel{\(\text{contraction(L)}\)}
+\UnaryInf$\rD, \Gamma\fCenter \Theta$
+\end{prooftree}
+\qquad
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \Theta, \rD, \rD$
+\RightLabel{\(\text{contraction(R)}\)}
+\UnaryInf$\Gamma\fCenter \Theta, \rD$
+\end{prooftree}
+\]
+ 
+\[
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Delta, \rD, \rE, \Gamma\fCenter \Theta$
+\RightLabel{\(\text{exchange(L)}\)}
+\UnaryInf$\Delta, \rE, \rD, \Gamma\fCenter \Theta$
+\end{prooftree}
+\qquad
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \Theta, \rE, \rD, \Delta$
+\RightLabel{\(\text{exchange(R)}\)}
+\UnaryInf$\Gamma\fCenter \Theta, \rD, \rE, \Delta$
+\end{prooftree}
+\]
+ 
+\[
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \Theta, \rD$
+\Axiom$\rD, \Delta\fCenter \Lambda$
+\RightLabel{\(\text{cut}\)}
+\BinaryInf$\Gamma, \Delta\fCenter \Theta, \Lambda$
+\end{prooftree}
+\]
+
+</div>
+
+<p>
+A proof in <span class="sc">pk</span> is a finite branching tree built
+from iterations of these logical and structural rules, each leaf node
+of which is an basic sequent of the form \(p_i\Lrightarrow p_i\). The
+sequent with which the root node is labeled is called the endsequent.
+When the endsequent of a <span class="sc">pk</span> proof has the form
+\(\Lrightarrow \rA\), we write \(\turnstile{\PK} \rA\). Gentzen made
+several observations about <span class="sc">pk</span>:</p>
+
+<ol>
+
+<li>
+
+<p>
+\(\turnstile{\PK} \rA\) if, and only if, \(\turnstile{\CPC} \rA\) if,
+and only if, \(\turnstile{\ND+\sfrac{\neg\neg\rA}{\rA}} \rA\)</p></li>
+
+<li>
+
+<p>
+If one modifies <span class="sc">pk</span> by requiring the righthand
+side of the sequent arrow to have at most one formula and accordingly
+rewrites the \(\vee(\rR)\) rule as</p> 
+\[
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \rA$
+\RightLabel{\(\vee\text{(R)}\)}
+\UnaryInf$\Gamma\fCenter \rB \vee \rA$
+\end{prooftree}
+\qquad
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \rA$
+\RightLabel{\(\vee\text{(R)}\)}
+\UnaryInf$\Gamma\fCenter \rA \vee \rB$
+\end{prooftree}
+\]
+
+<p>
+the resulting calculus <span class="sc">pi</span> is such that
+\(\turnstile{\text{PI}} \rA\) if, and only if, \(\turnstile{\IPC}
+\rA\) if, and only if, \(\turnstile{\ND+\sfrac{\bot}{\rA}} \rA\),
+where <span class="sc">ipc</span> stands for Heyting&rsquo;s formal
+deduction system for propositional intuitionistic logic and its
+equivalents. (Obviously the rules exchange(R) and contraction(R) play
+no role in <span class="sc">pi</span> and can be omitted.)</p> </li>
+
+<li>
+
+<p>
+Cut Elimination Theorem: If one modifies <span class="sc">pk</span>
+and <span class="sc">pi</span> simply by removing the rule
+&ldquo;cut&rdquo;, the resulting calculi <span class="sc"> pk</span>-
+and <span class="sc">pi</span>- are such that \(\turnstile{\PK} \rA\)
+if, and only if, \(\turnstile{\text{PK-}} \rA\), and
+\(\turnstile{\text{PI}} \rA\) if, and only if,
+\(\turnstile{\text{PI-}} \rA\).</p> </li>
+
+<li>
+
+<p>
+All the formulas that appear anywhere in a <span class="sc">pk</span>-
+or <span class="sc">pi</span>- proof are subformulas of the formulas
+that appear in the endsequent. (This &ldquo;subformula property&rdquo;
+clearly does not hold of <span class="sc">pk</span> and <span class="sc">pi</span>
+proofs.)</p> </li>
+</ol>
+
+<p>
+Observation 2 provides yet another perspective on the way logicians
+could disagree about the validity of principles like the law of
+excluded middle without disagreeing about the meanings of the
+propositional connectives. The treatment of \(\vee\) and \(\neg\) is
+identical in <span class="sc">pk</span> and <span class="sc">pi</span>;
+the only difference between them is in the
+background structure of reasoning.</p>
+
+<p>
+Observation 1 allows one immediately to conclude that <span class="sc">pk</span>
+is complete with respect to the classical truth
+functional interpretation of propositional logic. Gentzen did not draw
+this conclusion because he had a different understanding of
+completeness made possible by the sequent calculus: Because the rule
+&ldquo;cut&rdquo; can be shown to fully capture the general concept of
+logical consequence&mdash;something Gentzen took himself to have
+demonstrated in 1932&mdash;, observation 3, that &ldquo;cut&rdquo; is
+eliminable from <span class="sc">pk</span>, shows that the left/right
+rules for the propositional connectives are complete in the sense that
+no logical consequence of formulas provable with them is itself
+unprovable with them (see Franks 2010). This way of framing
+completeness has the further advantage that <span class="sc">pi</span>
+can be said to be complete in the same sense.</p>
+
+<h4 id="ConsCompPkPi">2.3.3 Constructive completeness of <span class="sc">pk</span> and of <span class="sc">pi</span></h4>
+
+<p>
+Because of observation 4, however, it is possible to prove the
+completeness of <span class="sc">pk</span> in the usual sense very
+simply.</p>
+
+<div class="proof">
+
+<p>
+<em>Proof.</em> Let us call a sequent \(\Gamma\Lrightarrow \Delta\)
+valid if the formula \(\bigwedge\Gamma\supset\bigvee\Delta\) is valid
+on the classical truth-functional interpretation. As one expects, it
+is easy to check that all the rules of <span class="sc">pk</span>
+preserve validity. More surprisingly, the same rules, except for
+thinning, preserve validity when read backwards. Call such inference
+figures &ldquo;invertible&rdquo;. Suppose now that one is given a
+sequent \(\Gamma\Lrightarrow \Delta\) containing <i>n</i> logical
+connectives. A straightforward mathematical induction demonstrates
+that, if \(\Gamma\Lrightarrow \Delta\) is valid, then there is a <span class="sc">pk</span>-proof
+of it. Suppose first that \(n=0
+(\Gamma\Lrightarrow \Delta\) contains no logical connectives). Then
+there must be some atom \(p_i\) that appears in both its antecedent
+and its succedent. Obviously \(\Gamma\Lrightarrow \Delta\) can be
+proved from \(p_i \rightarrow p_i\) by a series of thinning and
+exchange inferences. Now with the induction hypothesis that
+\(\Gamma\Lrightarrow \Delta\) is provable when \(n=k\), suppose
+\(n=k+1\). Select any formula in \(\Gamma\Lrightarrow \Delta\) that is
+not atomic and identify its main connective. Suppose, for example,
+that it is in \(\Gamma\) and its main connective is \(\supset\). Then
+we can begin building a proof from the bottom up, using
+\(\rA\supset\rB\) as our selected formula and \(\Theta\) to stand for
+\(\Gamma\) with the selected occurrence of the formula
+\(\rA\supset\rB\) deleted:</p> 
+\[\begin{prooftree}
+ \AxiomC{\(\Theta \Lrightarrow \Delta, \rA\)}
+ \AxiomC{\(\rB, \Theta \Lrightarrow \Delta\)}
+ \RightLabel{ $\supset$(L)}
+ \BinaryInfC{\(\dfrac{\rA \supset \rB, \Theta\Lrightarrow \Delta}
+                     {\phantom{\rA \supset \rB,\,}\Gamma\Lrightarrow \Delta}\)}
+\end{prooftree}
+\kern-5em\lower 1.5em \text{exchange(L)}\]
+
+<p>
+Because of the invertibility of \(\supset\)<em>(L)</em> both leaf
+nodes of this tree are labeled with valid sequents containing k
+connectives. The induction hypothesis guarantees that they have <span class="sc">pk</span>-proofs.
+Therefore \(\Gamma\Lrightarrow \Delta\)
+has a <span class="sc">pk</span>-proof. An analogous argument applies
+for each connective. In the special case that \(\Gamma\) is empty and
+\(\Delta\) contains a single (valid) formula, this construction shows
+that \(\turnstile{\text{PK-}} \rA\) if <span class="nobr">\(\dturnstile{\CTT}
+\rA.\) &#9723;</span></p>
+</div>
+
+<p>
+As was mentioned, Gentzen did not present this very simple version of
+the completeness theorem. Because he was interested in cut-elimination
+as an expression of the completeness of his rules, he pursued that
+instead, providing an elaborate proof transformation technique.
+Knowledge of the completeness of <span class="sc">pk</span>-, though,
+leads to an alternate verification of cut-elimination: Suppose
+\(\turnstile{\PK} \rA\). Because all basic sequents are valid and all
+<span class="sc">pk</span> rules preserve validity,
+\(\dturnstile{\CTT} \rA\). But <span class="sc">pk</span>- is
+complete, so \(\turnstile{\PK\text{-}} \rA\) .</p>
+
+<p>
+Reflection on the construction implicit in this completeness argument
+in fact shows that an arbitrary formula can in this way be tested for
+validity and therefore provides a new decision procedure for classical
+logic: The end result of the construction will either be a proof or
+will be a tree whose leaf nodes indicate how to construct a falsifying
+interpretation for \(\Gamma\Lrightarrow \Delta.\)</p>
+
+<p>
+A version of the same argument applies also to <span class="sc">pi</span>,
+not&mdash;of course&mdash;to show that it is
+complete with respect to its classical truth-functional
+interpretation, but to show that it is complete with respect to
+another sort of interpretation based on Kripke frames. The interesting
+thing about this approach to an analysis of intuitionistic logic is
+that one need not have in mind in advance what sort of interpretation
+one wants to show <span class="sc">pi</span> complete with respect to.
+Just setting out algorithmically to build a cut-free <span class="sc">pi</span>
+proof will either succeed or will indicate the
+sort of falsifying interpretation that applies in the intuitionistic
+case (see Takeuti 1987 [2013]).</p>
+
+<h2 id="NonClasInte">3. Non-Classical Interpretations</h2>
+
+<p>
+Classical propositional logic is evidently a valuable framework not
+only for organizing principles of reasoning but for providing a fairly
+simple setting for showcasing basic theoretical phenomena such as
+completeness, formal consistency, axiomatic independence, and the
+like. But a considerable measure of the value of its systematic
+development lies in the indications, along the way, of ways to deviate
+from the classical framework and devise alternative interpretations of
+the propositional connectives. We have touched on a few indications
+already: the independence of the principle of excluded middle from the
+other axioms in Frege&rsquo;s formal deduction system, the
+implausibility of the material conditional as an analysis of the truth
+conditions of ordinary indicative mood &ldquo;if &hellip;then&rdquo;
+statements, etc. Here we survey some of the most prevalent alternative
+systems of propositional logic.</p>
+
+<h3 id="MultValuLogi">3.1 Multi-valued logics</h3>
+
+<p>
+Already we indicated how truth-functional interpretations with valence
+greater than 2 can be utilized to provide independence proofs for
+axiom systems. G&ouml;del (1932) defined a sequence
+\(\{S_n\}_{n=2}^\infty\) of <i>n</i>-valued logics that generalize the
+classical interpretation:</p> 
+\[\begin{align}
+    v(\neg\rA)  &amp;=  \begin{cases}
+               0                 &amp; v(\rA) = n-1\\
+               n-1               &amp; \text{otherwise}
+                  \end{cases}\\
+    v(\rA\wedge\rB)  &amp;=  \mathbf{max}\{v(\rA),
+v(\rB)\}\\
+    v(\rA\vee\rB)  &amp;=  \mathbf{min}\{v(\rA),
+v(\rB)\}\\
+    v(\rA\supset\rB)  &amp;=  \begin{cases}
+               v(\rB)           &amp; v(\rA) &lt;
+v(\rB)\\
+               0               &amp; \text{otherwise}
+           \end{cases}\\
+    v(\bot) &amp;= n-1
+\end{align}\]
+
+<p>
+with \(\dturnstile{S_n}\rA\) if \(v(\rA) = 0\) for all assignments of
+values from \(\{0, 1, \ldots, n-1\}\) to atomic formulas.</p>
+
+<p>
+\(S_2\) is just the classical theory of truth. \(S_3\) was used above
+to demonstrate the independence of Frege&rsquo;s fifth axiom.
+G&ouml;del used the whole sequence in a demonstration that
+intuitionistic logic is not complete with respect to any finite-valued
+truth-functional interpretation.</p>
+
+<p>
+Beyond such utilitarian roles, multi-valued logics have attracted
+interest in their own right. Important examples are the (strong and
+weak) Kleene 3-valued logics, which are meant to assign truth values
+to propositions about partial recursive functions. Other 3-valued
+logics have been proposed as improvements on the material conditional
+as interpretations of indicative mood conditionals (see Cobreros et al
+2014). 4-valued logics have been used to model computation on
+databases containing conflicting information&mdash;here the values
+correspond with the information states &ldquo;true&rdquo;,
+&ldquo;false&rdquo;, &ldquo;both&rdquo;, and &ldquo;neither&rdquo;
+(see Belnap 1977). Graham Priest 1992 has applied the same framework
+in the development of a system of relevance logic, again offering an
+improved formalization of conditional language.</p>
+
+<p>
+Another important class of multi-valued logics are the
+infinitely-valued &ldquo;fuzzy logics&rdquo;. These have been used in
+order to provide an analysis of propositions with vague terms, which
+can be thought of as admitting degrees of truth.</p>
+
+<h3 id="ConsLogi">3.2 Constructive logics</h3>
+
+<p>
+We have already noted that simply rejecting the <span class="sc">lem</span>
+leads to a subtle deviation from the classical
+interpretation: The classical truth functional interpretation falls
+away, but the inferential definition of the connectives evident in
+natural deduction can be preserved. The intuitionistic propositional
+calculus <span class="sc">ipc</span> has been studied in great depth.
+Among its prominent features are:</p>
+
+<p>
+1. The &ldquo;disjunction property&rdquo;: the fact that
+\(\turnstile{\IPC} \rA\vee\rB\) only if either \(\turnstile{\IPC}
+\rA\) or \(\turnstile{\IPC} \rB\). G&ouml;del (1932, 1933a) contain
+the first observations that <span class="sc">ipc</span> has the
+disjunction property. The first recorded proof is in Gentzen
+1934&ndash;35, where it is a trivial consequence of cut elimination
+for <span class="sc">pi</span>: The only way a <span class="sc">pi</span>-
+proof can have the endsequent \(\Lrightarrow
+\rA\vee\rB\) is for the last inference to be a thinning(R) or
+\(\vee(\rR)\). If the inference were thinning(R), then the previous
+sequent would be \(\Lrightarrow\). Because <span class="sc">pi</span>
+is consistent, that is impossible. Therefore, the previous sequent
+must either be \(\Lrightarrow \rA\) or \(\Lrightarrow \rB\).</p>
+
+<p>
+At one time it was conjectured that <span class="sc">ipc</span> can be
+characterized as the strongest propositional logic with the
+disjunction property (an example of a weaker logic is
+Johansson&rsquo;s <span class="sc">mpc</span>, corresponding to the
+pure system of natural deduction <span class="sc">nd</span>). In 1957,
+Kreisel and Putnam studied the &ldquo;independence of premises
+(IndPrem)&rdquo; inference</p> 
+\[
+\begin{prooftree}
+\AxiomC{$\neg\rA\supset(\rB\vee\rC)$}\UnaryInfC{($\neg\rA\supset\rB)\vee(\neg\rA\supset\rC)$}
+\end{prooftree}
+\]
+
+<p>
+and observed that</p> 
+\[\neg\rA\supset(\rB\vee\rC)\centernot{\turnstile{\IPC}} (\neg\rA\supset\rB)\vee(\neg\rA\supset\rC)\]
+
+<p>
+although the logic <span class="sc">kp</span> = <span class="sc">ipc</span>+IndPrem
+also has the disjunction property. Today
+it is known that there are infinitely many distinct logical systems
+intermediate in strength between <span class="sc">ipc</span> and <span class="sc">cpc</span>,
+and that infinitely many of them have the
+disjunction property.</p>
+
+<p>
+2. The failure of truth-functionality: The intuitive understanding of
+intuitionism is to replace the idealistic concept of truth with the
+notion of having been constructively verified. Some authors suggested
+that in the propositional case, this might lead to a 3-valued logic:
+one value indicating that a statement was constructively verified,
+another value indicating that it had been constructively refuted, and
+a third value indicating that neither of these is the case. This seems
+at least to accord with <span class="sc">ipc</span>&rsquo;s rejection
+of <span class="sc">lem</span>. However, because there are only a
+small number of 3-valued semantic environments, others were able to
+rule out this possibility case-by case. This led to speculation that
+the right semantics might have valence 4 or possibly 5.
+G&ouml;del&rsquo;s 1932 proof rules out all truth-functional
+interpretations of any finite valence.</p>
+
+<p>
+Because of the failure of truth-functionality, a new framework for
+understanding <span class="sc">ipc</span> validity is needed. Adequate
+topological, algebraic, and Kripke-frame semantics have been
+introduced, and completeness results demonstrating a correspondence
+between these frameworks and various proof systems abound. We have
+already indicated that the completeness argument for the
+intuitionistic sequent calculus <span class="sc">pi</span> with
+respect to Kripke frames is a variation of the simple constructive
+completeness theorem for <span class="sc">pk</span> with respect to
+the classical theory of truth. Again, the argument shows that <span class="sc">pi</span>
+is decidable: Given a formula A, the algorithm
+either returns a <span class="sc">pi</span>-proof of A or a falsifying
+Kripke frame.</p>
+
+<p>
+There is also an informal, intuitive understanding of <span class="sc">ipc</span>
+theoremhood called the BHK interpretation.
+According to this interpretation, the disjunction property is a formal
+analogue of the definition of the \(\vee\) symbol: To have a proof of
+\(\rA\vee\rB\) just means that either \(\rA\) or \(\rB\) has been
+proved. In a similar fashion, to have a proof of \(\rA\wedge\rB\)
+means that both \(\rA\) and \(\rB\) have been proved; a proof of
+\(\rA\supset\rB\) is a construction that allows any proof of A to be
+transformed into a proof of B; a proof of \(\neg\rA\) is a
+construction that allows any proof of A to be transformed into a proof
+of \(\bot\). In this specification of the meanings of the connectives,
+&ldquo;provability&rdquo; refers to informal provability by any means
+whatsoever, rather than to formal provability within a specific
+system.</p>
+
+<p>
+Because the BHK interpretation specifies, not what expressions like
+\(\rA\vee\rB\) and \(\rA\supset\rB\) mean, but what it means to say
+that such expressions are provable, the \(\supset\) connective is
+typically referred to in the intuitionistic setting as the
+&ldquo;implication&rdquo; operator. This is sometimes misread as a
+disagreement with the classical distinction between the conditional
+connective and the implication relation. But as we have seen, on the
+classical conception, too, the expression \(\vdash \rA\supset\rB\)
+represents implication, i.e., truth of the conditional claim on every
+assignment. On the intuitionistic conception, however, the connectives
+are understood primitively in terms of what it means for expressions
+governed by them to be provable. The same conception figures into the
+understanding of connectives in relevance logic, where again
+\(\supset\) is typically described as an implication operator (and its
+classical treatment is faulted for engendering the &ldquo;paradoxes of
+material implication&rdquo;, not the &ldquo;paradoxes of material
+conditionalization&rdquo;.)</p>
+
+<p>
+3. A striking feature of <span class="sc">ipc</span> is the presence
+of inference rules like IndPrem that are not derivable </p>
+
+\[\neg\rA\supset(\rB\vee\rC) \centernot{\turnstile{\IPC}} (\neg\rA\supset\rB)\vee(\neg\rA\supset\rC)\]
+
+<p>
+but that nevertheless preserve the property of <span class="sc">ipc</span>-provability.
+Other examples of such rules
+are</p> 
+\[ \begin{prooftree}
+ \AxiomC{$(\rA\supset\rB)\supset (\rA\vee\rC)$}
+ \RightLabel{ Mints&rsquo;s rule}
+ \UnaryInfC{(($\rA\supset\rB)\supset\rA)\vee((\rA\supset\rB)\supset\rC)$}
+\end{prooftree}\]
+ 
+\[\begin{prooftree}
+  \AxiomC{$(\neg\neg\rA\supset\rA)\supset (\neg\neg\rA\vee\neg\rA)$}
+  \RightLabel{ Rose&rsquo;s rule}
+  \UnaryInfC{$\neg\neg\rA\vee\neg\rA$}
+\end{prooftree}\]
+
+<p>
+Is it right to say that such rules are valid patterns of
+intuitionistic inference? The question is ambiguous in a way that
+experience with classical logic desensitizes one to. For it can be
+shown that any rule that preserves the property of being a classical
+validity is also derivable in <span class="sc">cpc</span> itself. The
+fact that the rules under whose application the set of <span class="sc">ipc</span>
+theorems is closed properly extends the <span class="sc">ipc</span>-derivable
+rules leads to a new concept: the
+former rules are called &ldquo;admissible&rdquo;. The intuitionsitic
+study of propositional logic thereby reveals a fundamental distinction
+in the basic concept of deductive validity, between a rule licensing
+legitimate inferences from theorems and it applying also to arbitrary
+hypotheses.</p>
+
+<p>
+Because the primitive understanding of logical connectives from the
+intuitionist perspective is in terms of the conditions of the
+provability of statements containing them, one might, and many authors
+have, maintained that admissibility is the proper precisification of
+the concept of deductive validity for <span class="sc">ipc</span>. On
+the other hand, what distinguishes <span class="sc">ipc</span> from
+<span class="sc">mpc</span> is the derivability of the rule <em>ex
+falso quodlibet</em>. That rule (as well as the disjunctive syllogism)
+is admissible already in <span class="sc">mpc</span>, so the decision
+to include it explicitly as a derivable inference in <span class="sc">ipc</span>
+indicates some recognition of the importance of
+derivability. What can be said definitely is that the distinction
+between derivability and admissibility is important in constructive
+logics in a way that it is not in <span class="sc">cpc</span>.</p>
+
+<p>
+4. Three of the De Morgan inferences are derivable in <span class="sc">ipc</span>,
+but the inference
+\(\frac{\neg(\rA\wedge\rB)}{\neg\rA\vee\neg\rB}\) is not. <span class="sc">ipc</span>
+therefore serves as a background theory from
+which the strength of this inference can be measured. One might
+conjecture that <span class="sc">ipc</span>+\(\frac{\neg(\rA\wedge\rB)}{\neg\rA\vee\neg\rB}\)
+is fully classical, but in fact this system still does not prove <span class="sc">lem</span>.
+It does, however, prove the so-called weak law
+of excluded middle (<span class="sc">wlem</span>):
+\(\neg\rA\vee\neg\neg\rA\). Moreover, all De Morgan&rsquo;s inferences
+are derivable in <span class="sc">ipc</span>+<span class="sc">wlem</span>,
+so that <span class="sc">wlem</span> and
+\(\frac{\neg(\rA\wedge\rB)}{\neg\rA\vee\neg\rB}\) can be said to be
+equivalent over the base theory <span class="sc">ipc</span>. The logic
+<span class="sc">ipc</span>+\(\frac{\neg(\rA\wedge\rB)}{\neg\rA\vee\neg\rB}\),
+sometimes called De Morgan logic or Jankov&rsquo;s logic, occupies a
+unique place in the hierarchy of systems intermediate in strength
+between <span class="sc">ipc</span> and <span class="sc">cpc</span>.
+It has a natural realization in the Medvedev lattice of degrees of
+solvability. The setting is Baire space \(\omega^\omega\) (the set of
+functions from \(\omega\) to \(\omega\)) and the problem of producing
+an element of a given subset of this space. Subsets of Baire space are
+called mass problems, and their elements are called solutions. One
+mass problem is said to reduce to another if there is an effective
+procedure for transforming solutions of the second into solutions of
+the first. If one defines the lattice \(\calM\) of degrees of
+reducibility of mass problems, the set of identities of \(\calM\)
+corresponds to the set of theorems De Morgan logic (Sorbi 1991), so
+that the theory of mass problems provides a constructive
+interpretation of this logic. (This is like a constructive analogue to
+the way switching circuits are a realization of <span class="sc">cpc</span>.)
+Unlike <span class="sc">ipc</span>, however,
+no rule admissible in De Morgan logic is underivable (Prucnal 1976).
+Thus one sees that <span class="sc">wlem</span>, standing in the place
+of full <span class="sc">lem</span>, allows for a constructive
+interpretation without exhibiting underivable admissible rules.</p>
+
+<p>
+5. We have observed how the Gentzen calculi highlight certain
+relationships between <span class="sc">ipc</span> and <span class="sc">cpc</span>.
+Translation schemes of Kolmogorov, Glivenko,
+G&ouml;del, and Gentzen make evident other relationships between these
+and other systems. We begin with a result of Val&eacute;rii Glivenko
+(1929):</p>
+
+<div class="theorem" id="theorem6">
+
+<p>
+<strong>Theorem 6</strong>. <em>If \(\turnstile{\CPC}\rA\), then
+\(\turnstile{\IPC}\neg\neg\rA\).</em></p>
+</div>
+
+<div class="proof">
+
+<p>
+<em>Proof.</em> First observe three simple facts about <span class="sc">nd</span>+\(\frac{\bot}{\rA}\),
+the natural deduction
+equivalent of <span class="sc">ipc</span>:</p>
+
+<div id="V1">
+
+\[\tag*{V1}
+\turnstile{\ND+\sfrac{\bot}{\rA}}\neg\neg(\rB\vee\neg\rB) 
+\]
+
+</div>
+
+<div id="V2">
+
+\[\tag*{V2}
+\neg\neg\rB\turnstile{\ND+\sfrac{\bot}{\rA}+ (\rC\vee\neg\rC)}\rB 
+\]
+
+</div>
+
+<div id="V3">
+
+\[\tag*{V3}
+\neg\neg\neg\rB\turnstile{\ND+\sfrac{\bot}{\rA}}\neg\rB 
+\]
+
+</div>
+
+<p>
+For the proof of the main theorem, suppose \(\turnstile{\CPC}\rA\).
+Then by
+ <a href="#V2">V2</a>
+ we have \(\turnstile{\ND+\sfrac{\bot}{\rA}+ (\rC\vee\neg\rC)}\rA\),
+hence a proof in <span class="sc">nd</span>+\(\frac{\bot}{\rA}\)+\((\rC\vee\neg\rC)\):</p>
+
+\[
+\begin{prooftree}
+  \AxiomC{$\text{P}_{1}\vee\neg\text{P}_{1}$}
+  \noLine
+  \UnaryInfC{$\ddots$}
+  \AxiomC{$\text{P}_{2}\vee\neg\text{P}_{2}$}
+  \noLine
+  \UnaryInfC{$\ddots$}
+  \AxiomC{$\cdots$}
+  \noLine
+  \UnaryInfC{\(\iddots\)}
+  \AxiomC{$\text{P}_{k}\vee\neg\text{P}_{k}$}
+  \noLine
+  \UnaryInfC{\(\iddots\)}
+  \noLine
+  \QuaternaryInfC{$\rA$}
+\end{prooftree}  
+\]
+
+<p>
+By
+ <a href="#V1">V1</a>,
+ there exist <span class="sc">nd</span>+\(\frac{\bot}{\rA}\)proofs:</p>
+
+\[
+\begin{prooftree}
+  \AxiomC{$\ddots$}
+  \AxiomC{$\iddots$}
+  \noLine
+  \BinaryInfC{$\neg\neg (\text{P}_{1}\vee\text{P}_{1}$)}
+\end{prooftree}
+\qquad
+\begin{prooftree}
+  \AxiomC{$\ddots$}
+  \AxiomC{$\iddots$}
+  \noLine
+  \BinaryInfC{$\neg\neg (\text{P}_{2}\vee\text{P}_{2}$)}
+\end{prooftree}
+  \ldots
+\begin{prooftree}
+  \AxiomC{$\ddots$}
+  \AxiomC{$\iddots$}
+  \noLine
+  \BinaryInfC{$\neg\neg (\text{P}_{k}\vee\text{P}_{k}$)}
+\end{prooftree}
+\]
+
+<p>
+From these pieces one can construct a <span class="sc">nd</span>+\(\frac{\bot}{\rA}\)proof:</p>
+
+<div class="figure wide">
+<img src="large-figure.svg" style="width:100%" alt="This proof is built by placing each of the proof figures indicated above on the left side of each of the binary inferences. Each binary inference is a negation elimination, and each subsequent unary inference is a negation introduction." />
+</div>
+
+<p>
+That completes the proof of the main theorem.&nbsp;&#9723;</p>
+</div>
+
+<p>
+We observe two corollaries:</p>
+
+<dl class="sentag">
+<dt id="V4">V4</dt>
+<dd>If \(\turnstile{\CPC}\neg\rA\), then \(\turnstile{\IPC}\neg\rA\).
+
+<p>
+This follows immediately from the main theorem and
+ <a href="#V3">V3</a>.</p>
+ </dd>
+<dt id="V5">V5</dt>
+<dd><span class="sc">cpc</span> is inconsistent only if <span class="sc">ipc</span>
+is.
+
+<p>
+For if <span class="sc">cpc</span> is inconsistent, then there is a
+formula \(\rA\) such that \(\turnstile{\CPC}\rA\) and
+\(\turnstile{\CPC}\neg\rA\). But then \(\turnstile{\IPC}\neg\neg\rA\)
+and \(\turnstile{\IPC}\neg\rA\).</p></dd>
+</dl>
+
+<p>
+Glivenko&rsquo;s theorem provides a simple translation \(t_\rV\) of
+classical logic into intuitionistic logic defined by \(t_\rV (\rA) =
+\neg\neg\rA\) for all formulas A. It is a translation in the sense
+that \(\turnstile{\CPC}\rA\) if, and only if,
+\(\turnstile{\IPC}t_\rV(\rA\)). This translation is limited in that it
+does not extend to quantification theory. Kolmogorov (1925) provided a
+variation \(t_\rK\) as follows:</p>
+
+<ul>
+
+<li>
+
+<p>
+\(t_\rK(p)\) is \(\neg\neg p\), for all propositional
+variables</p></li>
+
+<li>
+
+<p>
+\(t_\rK(\neg\rA)\) is \(\neg t_\rK(\rA)\)</p></li>
+
+<li>
+
+<p>
+\(t_\rK(\rB\wedge\rC)\) is \(\neg\neg(t_\rK(\rB)\wedge
+t_\rK(\rC))\)</p></li>
+
+<li>
+
+<p>
+\(t_\rK (\rB\vee\rC)\) is \(\neg\neg (t_\rK(\rB)\vee\
+t_\rK(\rC))\)</p></li>
+
+<li>
+
+<p>
+\(t_\rK(\rB\supset\rC)\) is \(\neg\neg (t_\rK(\rB)\supset
+t_\rK(\rC)\)</p></li>
+</ul>
+
+<p>
+The G&ouml;del/Gentzen (1933) translation \(t_\rG\) is defined by:</p>
+
+<ul>
+
+<li>
+
+<p>
+\(t_\rG(p)\) is \(\neg\neg p\), for all propositional
+variables</p></li>
+
+<li>
+
+<p>
+\(t_\rG(\neg\rA)\) is \(\neg t_\rG(\rA)\)</p></li>
+
+<li>
+
+<p>
+\(t_\rG(\rB\wedge\rC)\) is \(t_\rG(\rB)\wedge t_\rG(\rC)\)</p></li>
+
+<li>
+
+<p>
+\(t_\rG (\rB\vee\rC)\) is \(\neg (\neg t_\rG(\rB)\wedge\neg
+t_\rG(\rC))\)</p></li>
+
+<li>
+
+<p>
+\(t_\rG(\rB\supset\rC)\) is \(t_\rG(\rB)\supset t_\rG(\rC)\)</p></li>
+</ul>
+
+<p>
+It is easy to show that \(\turnstile{\CPC}\rA\) if, and only if,
+\(\turnstile{\IPC}t_\rK(\rA\)) if, and only if,
+\(\turnstile{\IPC}t_\rG(\rA\)). Unlike \(t_\rV\), the schemes of
+Kolmogorov and of G&ouml;del/Gentzen can be extended to quantifiers.
+The latter can be further extended to theories of arithmetic and to
+set theory (see Troelstra &amp; van Dalen 1988).</p>
+
+<p>
+In 1933b, G&ouml;del provided similar translation from <span class="sc">ipc</span>
+to the modal logic <span class="smaller">S4</span>.
+<span class="smaller">S4</span> is <span class="sc">cpc</span>
+supplemented with a new primitive symbol
+\(\Box\) so that, if A is a formula, then \(\Box\rA\) is a formula, a
+new rule of inference</p>
+
+<ol>
+
+<li>\(\dfrac{\rA}{\Box\rA}\)</li>
+</ol>
+
+<p>
+and three new axioms</p>
+
+<ol>
+
+<li>\(\Box\rA\supset\rA\)</li>
+
+<li>\(\Box\rA\supset (\Box (\rA\supset\rB)\supset\Box\rB)\)</li>
+
+<li>\(\Box\rA\supset\Box\Box\rA\)</li>
+</ol>
+
+<p>
+G&ouml;del defined a translation \(t_\Box\) of formulas from <span class="sc">ipc</span>
+into the language of <span class="smaller">S4</span>
+by:</p>
+
+<ul>
+
+<li>\(t_\Box(\neg\rA) \text{ is } \Box\neg\Box t_\Box(\rA)\)</li>
+
+<li>\(t_\Box(\rA\supset\rB) \text{ is } \Box t_\Box(\rA)\supset\Box
+t_\Box(\rB)\)</li>
+
+<li>\(t_\Box(\rA\vee\rB) \text{ is } \Box t_\Box(\rA)\vee\Box
+t_\Box(\rB)\)</li>
+
+<li>\(t_\Box(\rA\wedge\rB) \text{ is } \Box t_\Box(\rA)\wedge\Box
+t_\Box(\rB)\)</li>
+</ul>
+
+<p>
+and stated, without proof: </p> 
+\[\turnstile{\IPC}\rA \text{ if, and only if, }
+\turnstile{\text{S4}} t_\Box(\rA).\tag{*}\]
+
+<p>
+G&ouml;del further declared both that &ldquo;the translation of
+\(\rA\vee\neg\rA\) is not derivable in <span class="smaller">S4</span>&rdquo;
+and also that &ldquo;neither in
+general is any formula of the form \(\Box\rA\vee\Box\rB\) for which
+neither \(\Box\rA\) nor \(\Box\rB\) is already provable in <span class="smaller">S4</span>&rdquo;:</p>
+
+\[\turnstile{\text{S4}}\Box\rA\vee\Box\rB
+\text{ only if either }\turnstile{\text{S4}}\Box\rA
+\text{ or }
+\turnstile{\text{S4}}\Box\rB\tag{**}\]
+
+<p>
+(*) and (**) together obviously entail the disjunction property for
+<span class="sc">ipc</span>.</p>
+
+<h3 id="ReleConnLogi">3.3 Relevance and connexive logics</h3>
+
+<p>
+Returning to the problem of approximating natural language
+expressions, some writers have proposed overcoming the apparent
+inadequacies of the material conditional by stipulating stronger
+conditions on the truth of propositions of the form \(\rA\supset\rB\).
+Relevance logicians suggest that many of the features exhibited by the
+material conditional that seem like departures from speakers&rsquo;
+intuitions about the truth of conditional expressions stem from
+ascriptions of truth to conditionals whose antecedents are irrelevant
+to their consequents. As a formal measure to ensure relevance, they
+propose a &ldquo;variable sharing condition&rdquo;. Variable sharing
+is generally thought to be only a necessary condition for relevance,
+however, and the project of describing sufficient formal conditions is
+ongoing.</p>
+
+<p>
+Connexive logicians aim instead to make good of the intuition that for
+a conditional statement to be true, the negation of its consequent
+should be incompatible with its antecedent. This requirement on the
+truth of conditional statements has a formidable history, appearing in
+logical manuscripts of the Stoic philosophers Chrysippus and Sextus
+Empiricus and evidently garnering more support at the time than the
+contrary opinion of Philo of Melaga. A related idea appears already in
+the <em>Prior Analytics</em>, where Aristotle claimed that it is
+impossible that if not A, then A. This, &ldquo;Aristotle&rsquo;s
+thesis&rdquo;, can be formalized as \(\neg (\neg\rA\supset\rA)\),
+which is obviously invalid both classically and intuitionistically.
+Sometimes instead the formula \(\neg (\rA\supset\neg\rA)\) is called
+Aristotle&rsquo;s thesis. Systems of connexive logic accept both as
+axioms, as well as the principles
+\((\rA\supset\rB)\supset\neg(\rA\supset\neg\rB)\) and
+\((\rA\supset\neg\rB)\supset\neg(\rA\supset\rB)\), which purport to
+formalize the original idea attributed to Chrysippus above. (These
+latter two principles are interderivable, over the base theory <span class="sc">ipc</span>,
+with Aristotle&rsquo;s theses).</p>
+
+<p>
+By including as theorems principles that are classically invalid, such
+logics risk trivialization because of the maximality of <span class="sc">cpc</span>.
+Some approaches address this problem by
+rejecting classical principles such as the \(\wedge\)-elimination rule
+of natural deduction, avoiding thereby any formula and its negation
+being theorems. Other approaches are &ldquo;paraconsistent&rdquo;,
+i.e., they allow theorems A and \(\neg\rA\) but do not allow the
+derivation of arbitrary formulas from this contradiction.
+Paraconsistent approaches are often interpretable with the 4-valued
+truth-assignment mentioned above.</p>
+
+<h3 id="LineLogi">3.4 Linear logic</h3>
+
+<p>
+If many departures from the classical framework are motivated by
+wanting to study connectives that more closely approximate the truth
+conditions of ordinary language expressions, linear logic (introduced
+in Girard 1987) can be thought of as a push in the opposite direction.
+Just as Frege saw logical significance in the material conditional
+despite (maybe even because of) its lack of correspondence with
+ordinary &ldquo;if &hellip;then&rdquo; statements for reasons internal
+to logical theory, linear logic can be thought of as an attempt to
+discover in the fine structure of formal logic those propositional
+connectives that play specific inference-tracking roles that ordinary
+expressions might be too crude to articulate.</p>
+
+<p>
+We saw earlier how in the sequent calculus classical and
+intuitionistic logic differ not in the inference rules governing the
+propositional connectives but in the background structure of
+reasoning&mdash;specifically, in the presence or absence of multiple
+formulas in succedents. Linear logic analyzes this relationship
+further through adjustments to other structural aspects of reasoning.
+It is well known that the operational rules of <span class="sc">pk</span>
+can be written either in a
+&ldquo;context-sharing&rdquo; or &ldquo;context-independent&rdquo;
+form. The operational rules were given a context-sharing presentation
+above, but for example the rule</p> 
+\[
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \Theta, \rA$
+\Axiom$\rB, \Gamma\fCenter \Theta$
+\RightLabel{\({{\supset}\text{(L)-cs}}\)}
+\BinaryInf$\rA \supset \rB, \Gamma\fCenter \Theta$
+\end{prooftree}
+\]
+
+<p>
+could instead be given a context-independent presentation:</p>
+
+<div>
+
+\[
+\begin{prooftree}
+  \def\fCenter{\Lrightarrow}
+\Axiom$\Gamma\fCenter \Theta, \rA$
+\Axiom$\rB, \Delta\fCenter \Lambda$
+\RightLabel{\({\supset}\text{(L)-ci}\)}
+\BinaryInf$\rA \supset \rB, \Gamma, \Delta\fCenter \Lambda, \Theta$
+\end{prooftree}
+\]
+
+</div>
+
+<p>
+The equivalence of these presentations is easy to verify:</p>
+
+\[
+\xlongequal[{\Large \rA \,\supset\, \rB, \Gamma \,\Lrightarrow\, \Theta}]
+{\Large
+    \begin{prooftree}
+    \def\fCenter{\Lrightarrow}
+    \Axiom$\Gamma\fCenter \Theta, \rA$
+    \Axiom$\rB, \Gamma\fCenter \Theta$
+    \BinaryInf$\rA \,\supset\, \rB, \Gamma, \Gamma \fCenter \Theta, \Theta$
+    \end{prooftree} }
+\raise 1.6em {{\supset}\text{(L)-ci}}
+\kern -3.5em \text{\}exchanges and contractions}
+\]
+ 
+\[\frac{
+  \xlongequal[{\Large \Gamma,\Delta \,\Lrightarrow\, \Lambda,\Theta,\rA}]{{\Large \Gamma \,\Lrightarrow\, \Theta,\rA}} 
+\text{\}thinnings and exchanges\{}
+  \xlongequal[{\Large\rB,\Gamma, \Delta \,\Lrightarrow\, \Lambda,\Theta}]{{\Large \rB, \Delta \,\Lrightarrow\, \Lambda}} 
+}{
+ \rA \supset \rB, \Gamma, \Delta \,\Lrightarrow\, \Lambda, \Theta
+}
+{\supset}\text{(L)-cs}
+\]
+
+<p>
+but we see that their equivalence depends on the presence of the
+structural rules thinning and contraction.</p>
+
+<p>
+In propositional linear logic, there are two conjunction-like
+operators, \(\otimes\) and \(\amp\), and two disjunction-like
+operators \(\oplus\) and \(\parr\). \(\oplus\) is given a
+context-sharing left rule and a right rule with &ldquo;built-in
+thinning&rdquo; like the intuitionistic version of \(\vee(\rR)\).
+\(\parr\) is its structural dual: its left rule is context-independent
+and its right rule is just like the classical \(\vee(\rR)\).
+Similarly, \(\otimes(\rR)\) is context-independent and \(\otimes\)(L)
+is just like the classical \(\wedge\)(L), whereas \(\&amp;(\rR)\) is
+context-sharing and \(\&amp;\)(L) has built in thinning. The
+connectives \(\&amp;\) and \(\oplus\) with context-sharing rules are
+called &ldquo;additives&rdquo;; \(\otimes\) and \(\parr\) with
+context-independent rules are called &ldquo;multiplicatives&rdquo;.
+But there are no structural rules for thinning and contraction, so the
+additive and multiplicative rules are not equivalent.</p>
+
+<p>
+Disambiguating the logical conjunction and disjunction into additive
+and multiplicative versions lends great perspicuity to the
+relationship between classical and intuitionistic logic. For example,
+there are two versions of <span class="sc">lem</span>. The additive
+version \(\rA\oplus\neg\rA\) can be thought of as based on the
+intuitionsitic disjunction: Since neither of its disjuncts is
+provable, neither is it. The multiplicative version
+\(\rA\parr\neg\rA\), on the other hand, corresponds to the classical
+understanding and is readily provable (&ldquo;linear
+implication&rdquo; \(\rA\multimap\rB\) is defined as
+\(\neg\rA\parr\rB\), so the multiplicative <span class="sc">lem</span>
+corresponds with the linear identity \(\rA\multimap\rA\)).</p>
+
+<p>
+In the absence of contraction and weakening, formulas of linear logic
+stand for something more like resources than permanent statements or
+constructions. Just as intuitionistic logic replaced the classical
+understanding of a conditional \(\rA\supset\rB\) &ldquo;either A is
+false or B is true&rdquo; with a procedural claim &ldquo;Given A, I
+can produce B&rdquo;, linear logic is able to distinguish claims
+&ldquo;Given one copy of A, I can produce one copy of B&rdquo; from
+&ldquo;Given three copies of A, I can produce one copy of B&rdquo;.
+This allows modeling of propositions about resource use in
+computation, and much of the attention directed towards linear logic
+has arisen because of its natural realization in computational models
+such as Petri nets.</p>
+
+<p>
+The fragment of linear logic presented so far is called <span class="sc">mall</span>
+(for multiplicative/additive linear logic). In
+order to preserve its distinctive properties but also be able to
+express claims interpretable as, for example, the intuitionistic
+implication, the linear modalities are introduced. These are unary
+connectives for which restricted forms of weakening and contraction
+apply. They are called &ldquo;modalities&rdquo; for a reason, though:
+They are governed by the same left and right rules as the necessity
+and possibility operators of modal logic <span class="smaller">S4</span>.
+This makes it unclear whether full linear
+logic <span class="sc">ll</span> with their inclusion qualifies as a
+propositional logic.</p>
+
+<p>
+This is no fault of linear logic, but rather one of its main
+contributions to the study of propositions. As stressed in the
+introduction to this article, a helpful attitude for the development
+of propositional logic is to bracket questions about the nature of
+propositions and simply require that the propositional connectives
+return expressions of the same order as those they operate on. From
+this perspective, the idea of &ldquo;persistent factual truth&rdquo;
+or &ldquo;reusable construction&rdquo;, which is the basic starting
+point of classical and intuitionistic logic, is related to linear
+logic&rsquo;s basic unit of &ldquo;limited resource&rdquo; just as the
+modalities &ldquo;necessary truth&rdquo; and &ldquo;possible
+truth&rdquo; are related to the category of &ldquo;persistent factual
+truth&rdquo; or &ldquo;reusable construction&rdquo;.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<h3 id="Refe">References</h3>
+
+<ul class="hanging">
+
+<li>Belnap, Nuel D., 1977, &ldquo;A Useful Four-Valued Logic&rdquo;,
+in <em>Modern Uses of Multiple-Valued Logic</em>, J. Michael Dunn and
+George Epstein (eds.), Dordrecht/Boston: D. Reidel, 5&ndash;37.
+doi:10.1007/978-94-010-1161-7_2</li>
+
+<li>Bernays, Paul, 1926, &ldquo;Axiomatische Untersuchung des
+Aussagen-Kalkuls der <em>Principia Mathematica</em>&rdquo;,
+<em>Mathematische Zeitschrift</em>, 25: 305&ndash;320.
+doi:10.1007/BF01283841</li>
+
+<li>Cook, Stephen A., 1971, &ldquo;The Complexity of Theorem-Proving
+Procedures&rdquo;, in <em>Proceedings of the Third Annual ACM
+Symposium on Theory of Computing</em>, New York: ACM Press,
+151&ndash;158. doi:10.1145/800157.805047</li>
+
+<li>Cobreros, Pablo, Paul &Eacute;gr&eacute;, David Ripley, and Robert
+van Rooij, 2014, &ldquo;Foreword: Three-Valued Logics and Their
+Applications&rdquo;, <em>Journal of Applied Non-Classical Logics</em>,
+24(1&ndash;2): 1&ndash;11. doi:10.1080/11663081.2014.909631</li>
+
+<li>Church, Alonzo, 1936, &ldquo;An Unsolvable Problem of Elementary
+Number Theory&rdquo;, <em>American Journal of Mathematics</em>, 58(2):
+345&ndash;353. doi:10.2307/2371045</li>
+
+<li>Edgington, Dorothy, 1995, &ldquo;On Conditionals&rdquo;,
+<em>Mind</em>, 104(414): 235&ndash;329.
+doi:10.1093/mind/104.414.235</li>
+
+<li>Franks, Curtis, 2010, &ldquo;Cut as Consequence&rdquo;,
+<em>History and Philosophy of Logic</em>, 31(4): 349&ndash;379.
+doi:10.1080/01445340.2010.522365</li>
+
+<li>&ndash;&ndash;&ndash;, 2021, &ldquo;The Deduction Theorem (Before
+and After Herbrand)&rdquo;, <em>History and Philosophy of Logic</em>,
+42(2): 129&ndash;159. doi:10.1080/01445340.2021.1889117</li>
+
+<li>Frege, Gottlob, 1879, <em>Begriffsschrift, eine der arithmetischen
+nachgebildete Formelsprache des reinen Denkens</em>, Halle: L. Nebert.
+Translated as <em>Conceptual Notation: a formula language of pure
+thought modeled upon the formula language of arithmetic</em> in Frege
+1972:: 101&ndash;208.</li>
+
+<li>&ndash;&ndash;&ndash;, 1910 [1980], &ldquo;Letter to
+Jourdain&rdquo;, translated and reprinted in his <em>Philosophical and
+Mathematical Correspondence</em>, G. Gabriel, et al. (eds.), Chicago:
+University of Chicago Press, 1980.</li>
+
+<li>&ndash;&ndash;&ndash;, 1972, <em>Conceptual Notation, and Related
+Articles</em>, Terrell Ward Bynum (trans.), Oxford: Clarendon
+Press.</li>
+
+<li>Gentzen, Gerhard, 1932, &ldquo;&Uuml;ber die Existenz
+unabh&auml;ngiger Axiomensysteme zu unendlichen Satzsystemen&rdquo;,
+<em>Mathematische Annalen</em> 107: 329&ndash;50. Translated as
+&ldquo;On the Existence of Independent Axiomsystems for Infinite
+Sentence Systems&rdquo;, in Gentzen 1969: 29&ndash;52.
+doi:10.1007/BF01448897 (de)</li>
+
+<li>&ndash;&ndash;&ndash;, 1934&ndash;35, &ldquo;Untersuchungen
+&uuml;ber das logische Schlie&szlig;en&rdquo;, Gentzen&rsquo;s
+doctoral thesis at the University of G&ouml;ttingen, translated as
+&ldquo;Investigations into Logical Deduction&rdquo;, in Gentzen 1969:
+68&ndash;131.</li>
+
+<li>&ndash;&ndash;&ndash;, 1969, <em>The Collected Papers of Gerhard
+Gentzen</em>, M. E. Szabo (ed.), (Studies in Logic and the Foundations
+of Mathematics 55), Amsterdam: North-Holland.</li>
+
+<li>Girard, Jean-Yves, 1987, &ldquo;Linear Logic&rdquo;,
+<em>Theoretical Computer Science</em>, 50(1): 1&ndash;101.
+doi:10.1016/0304-3975(87)90045-4</li>
+
+<li>Glivenko, Val&eacute;ry, 1929, &ldquo;Sur quelques points de la
+logique de M. Brouwer&rdquo;, <em>Acad&eacute;mie royale de Belgique,
+Bulletin de la classe des sciences</em>, series 5, 15:
+183&ndash;188.</li>
+
+<li>G&ouml;del, Kurt, 1930 [1986], &ldquo;Die Vollst&auml;ndigkeit der
+Axiome des logischen Funktionenkalk&uuml;ls&rdquo;, <em>Monatshefte
+f&uuml;r Mathematik und Physik</em>, 37: 349&ndash;360. Translated by
+S. Bauer-Mengelberg as &ldquo;The completeness of the axioms of the
+functional calculus of logic&rdquo; reprinted in G&ouml;del 1986:
+102&ndash;23. doi:10.1007/BF01696781</li>
+
+<li>&ndash;&ndash;&ndash;, 1932 [1986], &ldquo;Zum intuitionistischen
+Aussagenkalk&uuml;l&rdquo;, <em>Anzeiger der Akademie der
+Wissenschaftischen in Wien</em>, 69: 65&ndash;66. Translated by J.
+Dawson as &ldquo;On the intuitionistic propositional calculus&rdquo;,
+in G&ouml;del 1986: 223&ndash;25.</li>
+
+<li>&ndash;&ndash;&ndash;, 1933a [1986], &ldquo;Eine Interpretation
+des intuitionistischen Aussagenkalk&uuml;ls&rdquo;, <em>Ergebnisse
+eines mathematischen Kolloquiums</em>, 4: 39&ndash;40. Translated as
+&ldquo;An Interpretation of the Intuitionistic Propositional
+Calculus&rdquo;, in G&ouml;del 1986: 301&ndash;302.</li>
+
+<li>&ndash;&ndash;&ndash;, 1933b [1986], &ldquo;Zur intuitionistischen
+Arithmetik und Zahlentheorie&rdquo;, <em>Ergebnisse eines
+mathematischen Kolloquiums</em>, 4: 34&ndash;38. Translated as
+&ldquo;On Intuitionistic Arithmetic and Number Theory&rdquo;, in
+G&ouml;del 1986: 287&ndash;295.</li>
+
+<li>&ndash;&ndash;&ndash;, 1986, <em>Collected Works, Volume I:
+Publications 1929&ndash;1936</em>, Solomon Feferman, John W. Dawson
+Jr, Stephen C. Kleene, Gregory H. Moore, Robert M. Solovay, and Jean
+van Heijenoort (eds.), Oxford/New York: Clarendon Press.</li>
+
+<li>Herbrand, Jacques, 1930, <em>Recherches sur la th&eacute;orie de
+la d&eacute;monstration</em>, Herbrand&rsquo;s doctoral thesis at the
+University of Paris. Translated by W. Goldfarb, except pp.
+133&ndash;88 translated by B. Dreben and J. van Heijenoort, as
+&ldquo;Investigations in proof theory&rdquo; in Herbrand 1968 [1971:
+44&ndash;202].</li>
+
+<li>&ndash;&ndash;&ndash;, 1968 [1971], <em>&Eacute;crits
+Logigues</em>, Jean van Heijenoort (ed.), (Biblioth&egrave;que de
+Philosophie Contemporaine. Logique et Philosophie Des Sciences),
+Paris: Presses universitaires de France. Translated as <em>Logical
+Writings</em>, Warren D. Goldfarb (trans.), Dordrecht, Holland: D.
+Reidel, 1971.</li>
+
+<li>Hilbert, David, 2013, <em>David Hilbert&rsquo;s Lectures on the
+Foundations of Arithmetic and Logic 1917&ndash;1933</em> (David
+Hilbert&rsquo;s Lectures on the Foundations of Mathematics and
+Physics, 1891&ndash;1933, vol. 3), William Ewald and Wilfried Sieg
+(eds.), Berlin, Heidelberg: Springer Berlin Heidelberg.
+doi:10.1007/978-3-540-69444-1</li>
+
+<li>Hilbert, David and W. Ackermann, 1928, <em>Grundz&uuml;ge der
+theoretischen Logik</em>, (Die Grundlehren der mathematischen
+Wissenschaften 27), Berlin: J. Springer.</li>
+
+<li>Johansson, Ingebrigt, 1937, &ldquo;Der Minimalkalk&uuml;l, ein
+reduzierter Intuitionistischer Formalismus&rdquo;, <em>Compositio
+Mathematica</em>, 4: 119&ndash;136.
+ [<a href="http://www.numdam.org/item/CM_1937__4__119_0/" target="other">Johansson 1937 available online</a>]</li>
+ 
+<li>Kalm&aacute;r, L&aacute;szl&oacute;, 1935, &ldquo;&Uuml;ber die
+Axiomatisierbarkeit des Aussagenkalk&uuml;ls&rdquo;, <em>Acta
+Scientiarum Mathematicarum</em>, 7(4): 222&ndash;43.</li>
+
+<li>Kolmogorov [Kolmogoroff], Andrey N., 1925 [1967], &ldquo;&#1054;
+&#1087;&#1088;&#1080;&#1085;&#1094;&#1080;&#1087; tertium non
+datur&rdquo;, <em>Matematicheskii Sbornik</em>, 32(4): 646&ndash;667.
+Translated as &ldquo;On the Principle of Excluded Middle&rdquo;, in
+<em>From Frege to G&ouml;del A Source Book in Mathematical Logic,
+1879&ndash;1931</em>, Jean van Heijenoort (ed.), Cambridge, MA: Harvard
+University Press, 1967, 416&ndash;437.</li>
+
+<li>Kreisel, Georg and Hilary Putnam, 1957, &ldquo;Eine
+Unableitbarkeitsbeweismethode f&uuml;r den Intuitionistischen
+Aussagenkalk&uuml;l&rdquo;, <em>Archiv f&uuml;r Mathematische Logik
+und Grundlagenforschung</em>, 3(3&ndash;4): 74&ndash;78.
+doi:10.1007/BF01988049</li>
+
+<li>Lewis, David, 1976, &ldquo;Probabilities of Conditionals and
+Conditional Probabilities&rdquo;, <em>The Philosophical Review</em>,
+85(3): 297&ndash;315. doi:10.2307/2184045</li>
+
+<li>Lincoln, Patrick, John Mitchell, Andre Scedrov, and Natarajan
+Shankar, 1992, &ldquo;Decision Problems for Propositional Linear
+Logic&rdquo;, <em>Annals of Pure and Applied Logic</em>,
+56(1&ndash;3): 239&ndash;311. doi:10.1016/0168-0072(92)90075-B</li>
+
+<li>Nicod, J. G. P., 1917, &ldquo;A Reduction in the Number of
+Primitive Propositions of Logic&rdquo;, <em>Proceedings of the
+Cambridge Philosophical Society</em>, 19: 32&ndash;41.</li>
+
+<li>Post, Emil L., 1921, &ldquo;Introduction to a General Theory of
+Elementary Propositions&rdquo;, <em>American Journal of
+Mathematics</em>, 43(3): 163&ndash;185. doi:10.2307/2370324</li>
+
+<li>Priest, Graham, 1992, &ldquo;What is a non-normal world?&rdquo;,
+<em>Logique &amp; Analyse</em>, 139&ndash;140: 291&ndash;302.</li>
+
+<li>Prucnal, Tadeusz, 1976, &ldquo;Structural Completeness of
+Medvedev&rsquo;s Propositional Calculus&rdquo;, <em>Reports on
+Mathematical Logic</em>, 6: 103&ndash;105.</li>
+
+<li>Quine, W. V. O., 1955, &ldquo;A Way to Simplify Truth
+Functions&rdquo;, <em>The American Mathematical Monthly</em>, 62(9):
+627&ndash;631. doi:10.1080/00029890.1955.11988710</li>
+
+<li>&ndash;&ndash;&ndash;, 1982, <em>Methods of Logic</em>, fourth
+edition, Cambridge, MA: Harvard University Press.</li>
+
+<li>Samson, E. and B. Mills, 1954, &ldquo;Circuit minimization:
+algebra and algorithms for new Boolean canonical expressions&rdquo;,
+Technical Report 54&ndash;21, Air Force Cambridge Research
+Center.</li>
+
+<li>Schr&ouml;der, Ernst, 1890, <em>Vorlesungen &uuml;ber die Algebra
+der Logik (exakte Logik)</em>, volume 1, Leipzig: B. G. Teubner.
+Reprinted 1966, New York: Chelsea.</li>
+
+<li>Shannon, Claude Elwood, 1940, &ldquo;A Symbolic Analysis of Relay
+and Switching Circuits&rdquo;, Thesis (M.S.), Massachusetts Institute
+of Technology, Dept. of Electrical Engineering.
+ [<a href="https://dspace.mit.edu/handle/1721.1/11173" target="other">Shannon 1940 available online</a>]</li>
+ 
+<li>Sheffer, Henry Maurice, 1913, &ldquo;A Set of Five Independent
+Postulates for Boolean Algebras, with Application to Logical
+Constants&rdquo;, <em>Transactions of the American Mathematical
+Society</em>, 14(4): 481&ndash;488.
+doi:10.1090/S0002-9947-1913-1500960-1</li>
+
+<li>Sorbi, Andrea, 1991, &ldquo;Some Quotient Lattices of the Medvedev
+Lattice&rdquo;, <em>Zeitschrift f&uuml;r Mathematische Logik und
+Grundlagen der Mathematik</em>, 37(9&ndash;12): 167&ndash;182.
+doi:10.1002/malq.19910370905</li>
+
+<li>Takeuti, Gaisi, 1987 [2013], <em>Proof Theory</em>, second
+edition, (Studies in Logic and the Foundations of Mathematics 81),
+Amsterdam/New York: North-Holland. Reprinted New York: Dover,
+2013.</li>
+
+<li>Tarski, Alfred, 1933, &ldquo;Einige Betrachtungen &uuml;ber die
+Begriffe der &omega;-Widerspruchsfreiheit und der
+&omega;-Vollst&auml;ndigkeit&rdquo;, <em>Monatshefte f&uuml;r
+Mathematik und Physik</em>, 40(1): 97&ndash;112.
+doi:10.1007/BF01708855</li>
+
+<li>Troelstra, A. S. and D. van Dalen, 1988, <em>Constructivism in
+Mathematics, Volume 1: An Introduction</em>, (Studies in Logic and the
+Foundations of Mathematics 121), Amsterdam: North-Holland.</li>
+
+<li>Turing, A. M., 1936, &ldquo;On Computable Numbers, with an
+Application to the Entscheidungsproblem&rdquo;, <em>Proceedings of the
+London Mathematical Society</em>, series 2, 42(1): 230&ndash;265.
+doi:10.1112/plms/s2-42.1.230</li>
+
+<li>Urquhart, Alasdair, 1984, &ldquo;The Undecidability of Entailment
+and Relevant Implication&rdquo;, <em>Journal of Symbolic Logic</em>,
+49(4): 1059&ndash;1073. doi:10.2307/2274261</li>
+
+<li>Whitehead, Alfred North and Bertrand Russell, 1925&ndash;27,
+<em>Principia Mathematica, Volumes 1, 2 and 3</em>, 2nd Edition,
+Cambridge: Cambridge University Press.</li>
+</ul>
+
+<h3 id="OtheRead">More Readings</h3>
+
+<p>
+Most textbooks treat propositional logic as an elementary step <em>en
+route</em> to quantification theory or another more general topic. A
+notable exception is:</p>
+
+<ul class="hanging">
+
+<li>Schechter, Eric, 2005, <em>Classical and Nonclassical Logics: An
+Introduction to the Mathematics of Propositions</em>, N.J: Princeton
+University Press.</li>
+</ul>
+
+<p>
+Another sensitive treatment of propositional logic with attention to
+non-classical interpretations is:</p>
+
+<ul class="hanging">
+
+<li>Gamut, L. T. F., 1990, <em>Logic, Language, and Meaning, Volume 1:
+Introduction to Logic</em>, Chicago, IL: University of Chicago Press.
+Translation of <em>Logica, taal en betekenis I: inleiding in de
+logica</em>, Utrecht: Het Spectrum, 1982. (L. T. F. Gamut is a
+collective name for Johan van Benthem, J. A. G. Groenendijk, D. H. J.
+de Jongh, M. J. B. Stokhof, and H. J. Verkuyl.)</li>
+</ul>
+
+<p>
+Among standard textbook treatments, standout presentations of
+propositional logic can be found in Quine 1982 and in:</p>
+
+<ul class="hanging">
+
+<li>Buss, Samuel R., 1998, &ldquo;An Introduction to Proof
+Theory&rdquo;, in <em>Handbook of Proof Theory</em>, Samuel R. Buss
+(ed.), (Studies in Logic and the Foundations of Mathematics 137),
+Amsterdam: Elsevier, 1&ndash;78.
+doi:10.1016/S0049-237X(98)80016-5</li>
+
+<li>Kleene, Stephen Cole, 1952, <em>Introduction to
+Metamathematics</em>, (The University Series in Higher Mathematics),
+New York: Van Nostrand.</li>
+
+<li>Mendelson, Elliott, 2015, <em>Introduction to Mathematical
+Logic</em>, sixth edition, (Textbooks in Mathematics), Boca Raton, FL:
+CRC Press.</li>
+
+<li>Von Plato, Jan, 2013, <em>Elements of Logical Reasoning</em>,
+Cambridge/New York: Cambridge University Press.
+doi:10.1017/CBO9781139567862</li>
+</ul>
+
+<p>
+An excellent presentation of the rapid historical development of the
+subject in the early twentieth century is:</p>
+
+<ul class="hanging">
+
+<li>Mancosu, Paolo, Richard Zach, and Calixto Badesa, 2009, &ldquo;The
+Development of Mathematical Logic from Russell to Tarski,
+1900&ndash;1935&rdquo;, in <em>The Development of Modern Logic</em>,
+Leila Haaparanta (ed.), Oxford/New York: Oxford University Press,
+318&ndash;470. doi:10.1093/acprof:oso/9780195137316.003.0029</li>
+</ul>
+</div> 
+
+<div id="academic-tools">
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-propositional" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/logic-propositional/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=logic-propositional&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/logic-propositional/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<p>
+[Please contact the author with suggestions.] </p>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../boolalg-math/">Boolean algebra: the mathematics of</a> |
+ <a href="../computational-complexity/">computational complexity theory</a> |
+ <a href="../conditionals/">conditionals</a> |
+ <a href="../logic-algebraic-propositional/">logic: algebraic propositional</a> |
+ <a href="../logic-connexive/">logic: connexive</a> |
+ <a href="../logic-fuzzy/">logic: fuzzy</a> |
+ <a href="../logic-intuitionistic/">logic: intuitionistic</a> |
+ <a href="../logic-linear/">logic: linear</a> |
+ <a href="../logic-manyvalued/">logic: many-valued</a> |
+ <a href="../logic-paraconsistent/">logic: paraconsistent</a> |
+ <a href="../logic-relevance/">logic: relevance</a> |
+ <a href="../proof-theory-development/">proof theory: development of</a> |
+ <a href="../russell/">Russell, Bertrand</a> |
+ <a href="../proof-theoretic-semantics/">semantics: proof-theoretic</a>
+
+</p>
+</div>
+
+<div id="acknowledgments">
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+</div>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+Curtis Franks
+&lt;<a href="m&#97;ilto:cfranks&#37;40nd&#37;2eedu"><em>cfranks<abbr title=" at ">&#64;</abbr>nd<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Recursive Functions &gt; History of the Ackermann and P&eacute;ter functions (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/recursive-functions/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/recursive-functions/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=recursive-functions">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Recursive Functions</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>History of the Ackermann and P&eacute;ter functions</h2>
+
+<p>
+Textbook presentations sometimes suggest that the functions which now
+bear the names of Wilhelm Ackermann and R&oacute;zsa P&eacute;ter were
+directly presented as examples of intuitively computable functions
+which are not primitive
+ recursive.<sup>[<a href="notes.html#note-34" id="ref-34">34</a>]</sup>
+ Such an understanding overlooks the context of the papers Ackermann
+1928b and P&eacute;ter 1935 in which these functions were introduced
+as well as the subsequent work on forms of recursion which they
+inspired. The goal of this supplement is to provide a brief account of
+these developments which, while significant in their own right, lie
+off the main branch of computability theory after the 1930s.</p>
+
+<p>
+The first published presentation of a function similar to what we
+called the <em>P&eacute;ter function</em> in the main text appears to
+have been given by Hilbert in his well-known address &ldquo;On the
+infinite&rdquo; (1926). This corresponds to the text of a lecture he
+delivered in M&uuml;nster in 1925 which in turn draws on a lecture course
+(1925) of the same name he delivered in G&ouml;ttingen in
+1924&ndash;1925. The published address is often cited as an
+overview of Hilbert&rsquo;s finitary standpoint and goal of proving
+the consistency of infinitary mathematics by finite means.   A more extensive treatment was later provided in <em>Grundlagen der Mathematik</em> (1934:
+&sect;2), where Hilbert and Bernay stress the finitary character of primitive recursive definitions.</p>
+
+<p>
+Recursion is also an important topic in (1926) and
+Hilbert&rsquo;s treatment makes clear that he and his collaborators
+had taken substantial steps towards developing a general theory of
+recursive definability. But in neither this address nor the lectures
+on which it is based does he directly suggest that primitive recursion
+can be used to characterize finitary mathematics. Rather, Hilbert
+simply assumes that functions defined by primitive recursion will be
+regarded as finitary in the course of suggesting that such definitions may play a
+role in addressing questions from transfinite set theory. In
+particular, Hilbert&rsquo;s original introduction (under a different
+description) of what is now called &ldquo;the Ackermann
+function&rdquo; occurs within the context of his attempted proof of
+the Continuum Hypothesis
+ (CH).<sup>[<a href="notes.html#note-35" id="ref-35">35</a>]</sup>
+ </p>
+
+<p>
+In this setting Hilbert begins by distinguishing what he calls
+<em>ordinary recursion</em> from transfinite recursion. Ordinary
+recursion is characterized informally as the means by which </p>
+
+<blockquote>
+
+<p>
+a function of a number-theoretic variable \(n\) is defined when we
+indicate what value it has for \(n = 0\) and how the value for \(n
++1\) is obtained from that for \(n\). (1926 [1967: 386]) </p>
+</blockquote>
+
+<p>
+As the examples he provides make clear, this form subsumes what we now
+call primitive
+ recursion.<sup>[<a href="notes.html#note-36" id="ref-36">36</a>]</sup>
+ Hilbert then characterizes transfinite recursion as generalizing the
+principle &ldquo;that the value of the function for a value of the
+variable is determined by the preceding values of the function&rdquo;
+from recursion on the natural numbers to ordinals in Cantor&rsquo;s
+second number class.</p>
+
+<p>
+Hilbert next discusses recursion at higher types and it is within this
+context that a description of the
+Ackermann function first appears. Hilbert begins by introduces a hierarchy
+of what Ackermann would later call <em>function types</em>: type 0 is
+taken to be that of natural numbers, type 1 that of functions from
+natural numbers to natural numbers, type 2 is that of functions from
+type 1 functions to type 1 functions, etc. Hilbert next reprises the
+definitions of type 1 functions denoted in the main text by
+\(\alpha_1(x,y)\) (addition), \(\alpha_2(x,y)\) (multiplication),
+\(\alpha_3(x,y)\) (exponentiation), \(\ldots\) and observes that they
+may all be defined by ordinary recursion. He next notes that the
+uniformly defined function \(\alpha_n(x,y)\)&mdash;wherein the
+position \(n\) in the sequence is now itself understood as a
+variable&mdash;cannot be defined by in this manner. On the other hand,
+he also provides a definition similar to (\ref{ackdef1}) below which
+shows how this function can be defined by recursion on a type 1
+variable. Part of Hilbert&rsquo;s approach to proving CH relied on his
+characterization of the continuum as class of functions of type
+\(\mathbb{N} \rightarrow \mathbb{N}\) obtainable by recursion at
+higher types. Since \(\alpha_x(x,x)\) can be regarded as a function of
+a single numerical variable \(x\), the original role of this example
+was thus to illustrate that this class is not exhausted by functions
+definable by ordinary recursion.</p>
+
+<p>
+Already at this time Hilbert attributed this result to
+ Ackermann.<sup>[<a href="notes.html#note-37" id="ref-37">37</a>]</sup>
+ However a precise statement and proof would only appear three years
+later in Ackermann&rsquo;s paper &ldquo;On Hilbert&rsquo;s
+construction of the real numbers&rdquo; (1928b). Ackermann (1928b
+[1967: 495]) begins by presenting a notational variant of
+Hilbert&rsquo;s example which takes the following form: </p>
+
+\[\begin{align}
+\label{ackdef1}
+\varphi(x, y, 0) &amp; =  x + y\\
+\nonumber
+\varphi(x, y, n + 1) &amp; =  \rho_{z}(\varphi(x, z, n), \alpha(x,
+n), y) \\
+\end{align}
+\]
+
+<p>
+where</p> 
+\[\begin{align}\label{ackdef2}
+\rho_{z}(f(z), v, 0) &amp; =  v \\
+\nonumber
+\rho_{z}(f(z), v, n + 1) &amp; = f(\rho_{z}(f(z), v, n)) 
+\end{align}
+\]
+
+<p>
+and</p> 
+\[\begin{equation}
+\alpha(x, n) =
+\begin{cases}
+0 &amp; \text{if }n = 0 \\
+1 &amp; \text{if }n = 1 \\
+x &amp; \text{if } n \geqslant 2
+\end{cases}
+\end{equation}
+\label{ackdef3}
+\]
+
+<p>
+The equations (\ref{ackdef1}) define \(\varphi(x,y,z)\) by primitive
+recursion relative to the auxiliary function \(\rho_z\). Note,
+however, that (\ref{ackdef2}) defines \(\rho_z\) not by primitive
+ordinary recursion but rather by recursion on a type 1 function. In
+particular, \(\rho_{z}(f(z), v, n )\) denotes the <i>n</i>-fold
+iteration of the function \(f\) in which the variable \(z\) is
+replaced with the argument \(v\), i.e., </p> 
+\[\rho_{z}(f(z), v, n ) = \underbrace{f(\dots f}_{n
+\text{ times}} (v)\ldots)\]
+
+<p>
+In Ackermann&rsquo;s notation, the subscript \(z\) in \(\rho_{z}\)
+thus plays the role of an abstraction operator so that its first
+argument would now be more conventionally denoted by \(\lambda
+z.f(z)\). \(\rho_z\) is thus itself a type 2 function&mdash;i.e., it
+has type \((\mathbb{N} \to \mathbb{N}) \to (\mathbb{N} \to (\mathbb{N}
+\to \mathbb{N}))\).</p>
+
+<p>
+Ackermann next notes that the functions defined by \(\varphi(0,x,y),
+\varphi(1,x,y), \varphi(2,x,y), \ldots\) do indeed give the sequence
+\(\alpha_1(x,y), \alpha_2(x,y), \alpha_3(x,y), \ldots\) described by
+Hilbert&mdash;e.g.,</p> 
+\[\tag{i}\varphi(x, y, 0) = x + y\]
+ 
+\[\tag{ii}
+\begin{align*}
+\varphi(x,y,1) &amp; = \rho_{z}(\varphi(x,z,0), \alpha(x,0), y) \\
+&amp; = \rho_{z}(\varphi(x,z,0), 0, y) \\
+&amp; = \rho_{z}(x + z, 0, y) \\
+&amp; = x + \rho_{z}(x + z, 0, y - 1) \\
+&amp; = x + \underbrace{(x +( \ldots +(x}_{y - 1 \text{ times}} + \rho_{z}(x + z, 0, 0)) \ldots)) \\
+&amp; = \underbrace{x + (x +( \ldots +(x}_{y \text{ times}} + 0)) \ldots)) \\
+&amp; = \underbrace{x + x + \ldots + x}_{y \text{ times}} \\
+&amp; = x \times y\\
+\end{align*}
+\]
+ 
+\[\tag{iii}
+\begin{align*}
+\varphi(x, y, 2) &amp; = \rho_{z}(\varphi(x,z,1), \alpha(x,1), y) \\
+&amp; = \rho_{z}(\varphi(x,z,1), 1, y) \\
+&amp; = \rho_{z}(x \times z, 1, y) \\
+&amp; = x \times \rho_{z}(x \times z, 1, y - 1) \\
+&amp; = x \times \underbrace{(x \times( \ldots \times (x}_{y - 1 \text{ times}} \times \rho_{z}(x \times z, 1, 0)) \ldots)) \\
+&amp; = \underbrace{x \times (x \times ( \ldots \times (x}_{y \text{ times}} \times 1)) \ldots)) \\
+&amp; = \underbrace{x \times x \times \ldots \times x}_{y \text{ times}} \\
+&amp; = x^{y}.\\
+\end{align*}
+\]
+
+<p>
+The goal of Ackermann&rsquo;s paper was to demonstrate that the
+function \(\varphi(x,x,x)\)&mdash;i.e., that obtained by taking \(x =
+y = z\) in (\ref{ackdef1}) which is itself of type 1&mdash;cannot be
+defined by ordinary recursion. This is accomplished by showing that
+\(\varphi(x,x,x)\) grows more rapidly than any function defined by
+ordinary recursion&mdash;i.e., that for any such function \(\psi(x)\),
+there exists \(n_0\) such that for all \(n > n_0\), \(\varphi(n,n,n) >
+\psi(n)\).</p>
+
+<p>
+In order to do so, Ackermann shows that although Hilbert originally
+defined \(\varphi(x,y,z)\) by higher-order recursion using the
+functional \(\rho_z\), the same function in extension can be defined
+by a form of recursion directly on the natural numbers which is more
+complex than ordinary recursion. In particular, the first two lemmas of Ackermann (1928b) jointly entail that this function is also given by the following
+definition: </p> 
+\[\begin{align}\label{ackdef4}
+\varphi(x, y, 0) &amp; =  x + y \\
+\nonumber 
+\varphi(x, 0, n + 1) &amp; =  \alpha(x,n) \\
+\nonumber 
+\varphi(x, y + 1, n + 1) &amp; =  \varphi(x, \varphi(x,y,n+1), n)
+\end{align}
+\]
+
+<p>
+It is this definition which many subsequent authors identify as giving
+the <em>Ackermann function</em>.</p>
+
+<p>
+While the arguments on the righthand size of (\ref{ackdef4}) are
+natural numbers, this definition does not conform to the primitive
+recursion scheme as the value of \(\varphi(x,y+1,n+1)\) is defined
+relative to its prior values at <em>both</em> \(y\) and \(n\). In
+light of this, Ackermann originally referred to this as an instance of
+<em>simultaneous recursion</em>. His original argument
+that \(\varphi(x,y,z)\) is not primitive recursive was somewhat
+involved. As such, subsequent presentations often demonstrate the
+existence of a function definable by simultaneous but not primitive
+recursion via the simpler example of the binary <em>P&eacute;ter
+function</em> \(\pi(x,y)\).</p>
+
+<p>
+Recall that as presented in the main text this is given by </p>
+
+\[\begin{align}\label{pidef2}
+\pi(0,y) &amp; =  y + 1\\ 
+\nonumber \pi(x+1,0) &amp; =  \pi(x,1)\\ 
+\nonumber \pi(x+1,y+1) &amp; =  \pi(x,\pi(x+1,y))\\
+\end{align}
+\]
+
+<p>
+This definition was presented by P&eacute;ter (1935) (see also 1967:
+9) and bears a similar relation to the function
+\(\beta(i)\)&mdash;which was defined in the main text in terms of the
+functional \(\mathcal{Iter}\)&mdash;as does (\ref{ackdef4}) to
+(\ref{ackdef1}). Relative to the terminology she subsequently
+introduced, the definition (\ref{pidef2}) is an instance of <em>nested
+double recursion</em>&mdash;i.e., it exemplifies two separate
+generalizations of primitive recursion which are both subsumed under
+Ackermann&rsquo;s original term &ldquo;simultaneous
+recursion&rdquo;.</p>
+
+<p>
+Double recursion is in turn an instance of <em>multiple</em> or
+<em><i>k</i>-recursion</em> which was considered in the general case
+by P&eacute;ter (1937). For double recursion (i.e., \(k = 2\)), the
+case for binary functions is given by the scheme </p> 
+\[\begin{align}\label{double}
+\delta(0,y) &amp; = \alpha_{1}(y) \\
+\nonumber \delta(x + 1, 0) &amp; =  \alpha_{2}(x, \delta(x,k)))  \\
+\nonumber \delta(x+1, y + 1) &amp; =  \beta(x,y,\delta(x,\gamma(x,y)),
+\delta(x+1,y)) \\
+\end{align}
+\]
+
+<p>
+where \(\alpha_1,\alpha_2\) and \(\gamma\) are previously given
+functions and \(k\) is fixed. In order to calculate the value
+\(\delta\) for the arguments \(x+1,y+1\) we must thus first obtain its
+value for the pairs \(\langle x,\gamma(x,y) \rangle\) and also
+\(\langle x+1, y\rangle\). Note, however, that both of these pairs
+come before \(\langle x+1,y+1 \rangle\) in the lexicographical
+ordering \(\prec\) of \(\mathbb{N} \times \mathbb{N}\)&mdash;i.e.,
+\(\langle x_1,y_1 \rangle \prec \langle x_2,y_2 \rangle\) iff \(x _1
+&le; x_2\) or \(x_1 = x_2\) and \(y_1 &le; y_2\). Thus under the
+assumption that we can compute the value of \(\gamma(x,y)\),
+(\ref{double}) can still be understood as specifying a finite
+inductive procedure for calculating the values of
+ \(\delta\).<sup>[<a href="notes.html#note-38" id="ref-38">38</a>]</sup>
+ And in fact P&eacute;ter (1937) showed that the generalization of
+(\ref{double}) to multiple recursion on \(k\) variables with
+parameters does not lead outside the class of primitive recursive
+functions by showing that this procedure can be reduced to course of
+values recursion (see also 1967: 6).</p>
+
+<p>
+In order to understand the generalization involved with nested
+recursion, (\ref{pidef2}) can be compared directly with
+(\ref{double}). The former can be considered as a case of the latter
+in which \(\beta\) is the projection function which returns its third
+argument \(\delta(x,\gamma(x,y))\). In the case of (\ref{double}) we
+assume that \(\gamma(x,y)\) is a given function already known to be in
+the class under consideration. But in the case of (\ref{pidef2}),
+\(\gamma(x,y)\) corresponds to \(\pi(x+1,y)\)&mdash;i.e., a
+substitution instance of the function which is itself being defined.
+It is in this sense which the definition exemplified by (\ref{pidef2})
+is said to involve a form of recursion which is &ldquo;nested&rdquo;
+(<em>eingeschachtelte</em>). For although a calculation carried out by
+applying the clauses of (\ref{pidef2}) also follows the lexicographic
+order, when the first argument of \(\pi\) decreases, the value of the
+second argument required to calculate \(\pi(x+1,y+1)\) is not
+determined independently of the specification of function \(\pi(x,y)\)
+itself. It is in this sense in which the definition of the Ackermann
+and P&eacute;ter functions have subsequently been said to exhibit a
+form impredicativity which makes them inaccessible from
+Hilbert&rsquo;s finitary standpoint (see, e.g., Tait 1961, 1968,
+ 1981).<sup>[<a href="notes.html#note-39" id="ref-39">39</a>]</sup>
+ </p>
+
+<p>
+Nested recursion was introduced by P&eacute;ter (1935) and is
+considered in relation to <i>k</i>- and transfinite recursion in Tait
+(1961), P&eacute;ter (1967), and Rose (1984). The definitions
+(\ref{ackdef4}) and (\ref{pidef2}) can be understood to exemplify the
+following general scheme of double nested recursion formulated by
+Epstein and Carnielli (2008: 117): </p> 
+\[\begin{align}
+f(0,y) &amp; =  g(y) \\
+\nonumber f(x + 1, 0) &amp; =  j(x, f(x,k)) \\
+\nonumber f(x+1, y + 1) &amp;  =  h(x,y,f(x+1,y), f(x,j(x,y,f(x +1,y))))\\
+\end{align}
+\]
+
+<p>
+for a fixed but arbitrary \(k\). But again this scheme on its own does
+not necessarily lead out of the class of primitive recursive
+functions. In fact P&eacute;ter (1956) shows that if \(g\), \(h\) and
+\(j\) are primitive recursive, and \(f(x,u) \leq r(x,u)\) where \(r\)
+is also primitive recursive and \(u\) is calculated by means of
+\(j(x,y,f(x +1,y)\)), then \(f\) is also primitive recursive (see also
+1967: 10).</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+<a href="http://go.warwick.ac.uk/whdean" target="other">Walter Dean</a>
+&lt;<a href="m&#97;ilto:W&#37;2eH&#37;2eDean&#37;40warwick&#37;2eac&#37;2euk"><em>W<abbr title=" dot ">&#46;</abbr>H<abbr title=" dot ">&#46;</abbr>Dean<abbr title=" at ">&#64;</abbr>warwick<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+<a href="https://www.pantheonsorbonne.fr/page-perso/anaibo" target="other">Alberto Naibo</a>
+&lt;<a href="m&#97;ilto:alberto&#37;2enaibo&#37;40univ-paris1&#37;2efr"><em>alberto<abbr title=" dot ">&#46;</abbr>naibo<abbr title=" at ">&#64;</abbr>univ-paris1<abbr title=" dot ">&#46;</abbr>fr</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

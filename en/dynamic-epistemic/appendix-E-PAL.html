@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Dynamic Epistemic Logic &gt; Appendix E: Technical details of Public Announcement Logic (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/dynamic-epistemic/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/dynamic-epistemic/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dynamic-epistemic">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Dynamic Epistemic Logic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Appendix E: Technical details of Public Announcement Logic</h2>
+
+<p> In this appendix, we take a closer look at some of the technical details of Public Announcement Logic.  </p>
+
+<ul>
+<li><a href="#Pub-Tautology">1. Schematic validity</a></li>
+<li><a href="#Pub-Expressivity">2. Expressivity and succinctness</a></li>
+<li><a href="#Pub-GG">3. Gerbrandy-Groeneveld announcements</a></li>
+<li><a href="#Pub-AUL">4. Consistency-preserving announcements and Arrow Update Logic</a></li>
+<li><a href="#Pub-APAL">5. Arbitrary Public Announcement Logic: quantification over announcements</a></li>
+</ul>
+
+<hr />
+
+<h3><a name="Pub-Tautology">1. Schematic validity</a></h3>
+
+<p> Fix a language \(\Lang\) and a semantics for this language.  To say that an \(\Lang\)-formula <i>F</i> is <em>schematically valid</em> means that <i>F</i> is valid and that <i>F</i> remains valid whenever we obtain a new \(\Lang\)-formula by replacing, for each propositional letter in <i>F</i>, all occurrences of that letter by some other \(\Lang\)-formula.  To say that \(\Lang\) itself is <em>schematically valid</em> means that every valid formula in \(\Lang\) is schematically valid. (Validity may be restricted to some specific class of models; however, if no class is mentioned, then the class of all models is assumed, as we will do now.)  For example, let \(\Lang\) be the language (ML) of basic multi-modal logic.  Then the formula
+
+\[
+p\to(q\to p)
+\]
+
+is schematically valid: no matter what (ML)-formula we use to replace <i>p</i> or <i>q</i>, we always obtain a valid (ML)-formula.  In fact, we can show that replacing letters in valid (ML)-formulas by (ML)-formulas preserves validity of <em>every</em> valid (ML)-formula; that is, (ML) is schematically valid.  This proof is by induction on the length of derivations for multi-modal \(\mathsf{K}\): each axiom is schematically valid and each rule preserves schematic validity.  Since an (ML)-formula is valid (for the class of all pointed Kripke models) if and only if it is derivable in multi-modal \(\mathsf{K}\), the result follows.  </p>
+
+<p> The language (PAL) is <em>not</em> schematically valid.  In particular, the reduction axiom for propositional letters, which states that </p>
+
+\[
+[F!]p\leftrightarrow(F\to p)
+\text{ for letters }p\in\sP
+\]
+
+<p> is not schematically valid.  To see why, consider the formula obtained by replacing <i>F</i> with the letter <i>q</i> and <i>p</i> with the formula \([a]q\): </p>
+
+\[
+[q!][a]q\leftrightarrow(q\to[a]q)
+\text{ (not valid)}
+\]
+
+<p> This formula says that the statement &ldquo;after the announcement of <i>q</i>, agent <i>a</i> knows <i>q</i>&rdquo; is equivalent to the statement &ldquo;if <i>q</i> is true, then agent <i>a</i> knows <i>q</i>&rdquo;. This supposed equivalence is formally and intuitively incorrect: an agent can come to know some truth after it is announced without knowing that truth in advance; that is, the left side \([q!][a]q\) can be true while the right side \(q\to[a]q\) is false.  Indeed, the primary purpose of a public announcement is to bring about knowledge by conveying information that the agents do not already have.  The valid equivalence, which follows by Reduction Axiom 4, says something very different:
+
+\[
+[q!][a]q\leftrightarrow(q\to[a][q!]q) .
+\]
+
+This says that <i>a</i>&rsquo;s knowledge of <i>q</i> after the announcement comes about if and only if, whenever <i>q</i> is true, <i>a</i> knows <em>before</em> the announcement that the possible future announcement of <i>q</i> would ensure that <i>q</i> is true.  That this is correct follows immediately from the fact that PAL announcements are truthful and completely trustworthy: the announcement of a formula guarantees that the formula is true. This leads us to the key difference between the two equivalences: the valid one correctly equates post-announcement knowledge with pre-announcement knowledge of truths that a possible future announcement would convey, whereas the invalid one incorrectly equates post-announcement knowledge with what is currently known independent of what is to be announced.  </p>
+
+<p> Note that the axiomatization of \(\PAL\) uses the letters <i>F</i>, <i>G</i>, and <i>H</i> to represent arbitrary formulas and the letter <i>p</i> to represent an arbitrary propositional letter.  Formally speaking, each of these symbols is to be understood as a propositional letter, with the assumption that instances of a given axiom are obtained by replacing letters <i>F</i>, <i>G</i>, and <i>H</i> by (PAL)-formulas and the letter <i>p</i> by any letter.  Therefore, to say that a given \(\PAL\) axiom is schematically valid means that the axiom is valid (<em>i.e.,</em> each instance is valid) and, further, we obtain a valid formula whenever we replace one or more of <i>F</i>, <i>G</i>, <i>H</i>, or <i>p</i> by an <em>arbitrary</em> (PAL)-formula.  In particular, this substitution need not respect the convention given in the axiomatization of \(\PAL\) that restricts replacements of <i>p</i> to replacements by other letters.  And herein is the source of non-schematic validity of (PAL): violating the requirement that <i>p</i> must be replaced by another letter allows us to replace <i>p</i> by a non-letter in the valid Reduction Axiom 1 and obtain a new, non-valid formula.  Of course in making this replacement, the new formula we obtain is not an instance of Reduction Axiom 1 (because we violated the replacement rule for <i>p</i>).  Nevertheless, that we can obtain a non-valid formula from a valid one by letter replacement shows that (PAL) is not schematically valid.  </p>
+
+<p> Schematic validity is generally taken for granted when it comes to classical (modal) logic.  It is therefore noteworthy that PAL, which is obtained as an extension of the language of classical multi-modal logic, is not schematically valid.  In particular, one must take care when inferring that a formula <i>F</i> is valid in light of the fact that <i>F</i> has the same form as a known valid formula.  We saw an example above where this can go wrong: from the valid Reduction Axiom 1 we obtained (by a replacement that violated this axiom's restriction on letters) a formula with the same form that turned out to be invalid.  In general, writing \(F(p/G)\) to denote the formula obtained from <i>F</i> by replacing all instances of <i>p</i> by <i>G</i>, the following is a rule that is not valid in PAL: </p>
+
+<div class="indent">
+
+<p><strong>Schematic Substitution Rule (<em>not</em> valid for PAL):</strong> from <i>F</i>, infer \(F(p/G)\) for any formula <i>G</i> in the language.</p>
+
+</div>
+
+<p> But we do have the following kind of substitution rule in PAL: </p>
+
+<div class="indent">
+
+  <p><strong>Equivalence Substitution Rule (van Ditmarsch, van der Hoek, and Kooi 2007):</strong> if \(\PAL\vdash G\leftrightarrow H\), then \(\PAL\vdash F(p/G)\leftrightarrow F(p/H)\).</p>
+
+</div>
+
+<p> Note that this rule is not part of the axiomatization of \(\PAL\); however, it can be proved that it is an admissible rule (i.e., the rule is derivable from the axiomatization of \(\PAL\), in the sense that if the hypotheses are \(\PAL\)-derivable, then one can prove that the conclusion is as well).  </p>
+
+<p> Though not all (PAL)-formulas are schematically valid, there are some (PAL)-formulas that in fact are schematically valid.  The formula \(p\to(q\to p)\) is a simple example.  An important result is that the set of schematically valid (PAL)-formulas&mdash;either over the class of transitive and Euclidean models with finitely many agents or over the class of all models with infinitely many agents&mdash;is decidable and axiomatizable; that is, there is an algorithm that can identify whether a given (PAL)-formula is schematically valid, and the collection of schematically valid (PAL)-formulas can be captured via an axiomatic system (Holliday et al. 2010, 2012).  Whether this result holds for other classes of models is open as of the time of writing.  </p>
+
+<h3><a name="Pub-Expressivity">2. Expressivity and succinctness</a></h3>
+
+<p> The Reduction Theorem tells us that every (PAL)-formula <i>F</i> is provably equivalent to an announcement-free (ML)-formula \(F^\circ\).  Put another way, every formula containing public announcements can be rewritten so as to express exactly the same thing without using any public announcements.  Therefore, even though the language (PAL) of Public Announcement Logic is defined as an extension of the language (ML) of basic multi-modal logic, this extension does not let us say anything that could not already be said before.  </p>
+
+<div class="indent">
+
+  <p><strong>PAL Expressivity Theorem (Plaza 1989, 2007; Gerbrandy and Groeneveld 1997).</strong> (PAL) and (ML) are equally expressive (over the class of all pointed Kripke models). That is, whenever \(\Lang\) is any one of our languages (PAL) and (ML) and \(\Lang'\) is the other, we have the following: for each \(\Lang\)-formula <i>F</i>, there is an \(\Lang'\)-formula <i>G</i> such that \(\models F\leftrightarrow G\).</p>
+
+</div>
+
+
+<p> This is a curious result: at first it seems like we have gained something by adding public announcements.  In particular, the model-transforming operation of deleting worlds where the announced formula does not hold seems like something genuinely new; this is, after all, a <em>dynamic</em> take on what was before a purely <em>static</em> semantics.  Nevertheless, the PAL Expressivity Theorem tells us that, at least from the point of view of expressivity, new formulas for public announcements and an extended semantics to accommodate the corresponding model-transforming operation are not needed.  This may seem like bad news for the PAL approach.  But this is not the whole story, since using the announcement-free language to express public announcements comes with another cost.  </p>
+
+<div class="indent">
+
+  <p><strong>PAL Succinctness Theorem (Lutz 2006; French et al. 2011, 2013).</strong> (PAL) is exponentially more succinct than (ML) over the class \(\sC_{\mathsf{K}}\) of all Kripke models (Lutz 2006) and over the class \(\sC_{\mathsf{S5}}\) of reflexive, transitive, and Euclidean Kripke models (French et al. 2011, 2013): for each \(\sC\in\{\sC_{\mathsf{K}},\sC_{\mathsf{S5}}\}\), there there is a sequence of (PAL)-formulas such that the size of the <i>n</i>-th formula \(F_n\) (in terms of the number of symbols) is a linear function of <i>n</i> but the smallest (ML)-formula \(F_n'\) satisfying \(\sC\models F\leftrightarrow F_n'\) has size at least \(2^n\).</p>
+
+</div>
+
+<p> This tells us that while we can express public announcement statements in the basic language (ML), doing so will in general require us to use exponentially more space.  By way of analogy, we think of an advanced student of a foreign language: though she can express herself well in the foreign tongue, she may not have the ability to express every concept in the foreign language using a single word short phrase and so must sometimes use many words when speaking this language, even though she can make things much shorter in her mother tongue.  So it is that the basic modal language (ML) can express fully the concepts of (PAL), though doing so will sometimes take exponentially more space.  </p>
+
+<p> This gives us two main reasons to stick with the PAL approach despite the seemingly bad news conveyed by the PAL Expressivity Theorem.  First, using public announcements can save us an exponential amount of space.  Second, the PAL approach provides us with a direct and intuitively appealing means of reasoning about truthful, completely trustworthy public announcements.  That is, public announcements are <em>dynamic</em> operations that transform Kripke models (and hence agent knowledge and belief) in accordance with the information conveyed by what is announced, and using public announcements explicitly in the language can save us an exponential amount of space.  </p>
+
+<h3><a name="Pub-GG">3. Gerbrandy-Groeneveld announcements</a></h3>
+
+<p> The model-transforming operation brought about by a public announcement of <i>F</i> was defined above as a <em>world-deleting</em> operation: delete all non-<i>F</i> worlds along with any arrows to or from these worlds. This method of <em>world-deleting</em> update was introduced by Plaza (1989, 2007).  Gerbrandy and Groeneveld (1997) introduced an alternative <em>arrow-deleting</em> method: delete only the arrows pointing to non-<i>F</i> worlds.  Defining new formulas \([F!_g]G\) with the intended meaning that <i>G</i> is true after the Gerbrandy&ndash;Groeneveld (GG) announcement of <i>F</i>, we are led to the following formal semantics: </p>
+
+<ul>
+
+<li> \(M,w\models[F!_g]G\) holds if and only if \(M[F!_g],w\models G\), where the model
+
+\[
+M[F!_g] = (W[F!_g],R[F!_g],V[F!_g])
+\]
+
+is defined by:
+
+<ul>
+
+<li> \(W[F!_g]\coloneqq W\) &mdash; retain all worlds, </li>
+
+<li> \(xR[F!_g]_ay\) if and only if \(xR_ay\) and \(M,y\models F\) &mdash; delete arrows if and only if they point to non-<i>F</i> worlds, and </li>
+
+<li> \(v\in V[F!_g](p)\) if and only if \(v\in V(p)\) &mdash; leave the valuation the same at all worlds.  </li>
+
+</ul>
+</li>
+</ul>
+
+<p> Note that this semantics does not require that the announcement be truthful.  That is, since we only delete arrows to non-<i>F</i> worlds, we do not run into a difficulty if we want to determine what is true of a non-<i>F</i> world <i>w</i> after the GG-announcement of <i>F</i>: we simply delete arrows to non-<i>F</i> worlds (including those pointing to <i>w</i>) and then check what is true at <i>w</i> in the resulting model.  This provides a natural way for us to drop the assumption made for Plaza-style world-deleting announcements that announcements are truthful.  While this alternative may have some intuitive appeal, the two approaches turn out to be expressively equivalent: the language of modal logic (ML) with GG-announcements is just as expressive as the language (ML) itself, and hence it follows by the PAL Expressivity Theorem that (ML) with GG-announcements is just as expressive as (ML) with Plaza-announcements (= (PAL)).  </p>
+
+<p> In the remainder of the article, &ldquo;public announcements&rdquo; will refer to Plaza-announcements.  </p>
+
+<h3><a name="Pub-AUL">4. Consistency-preserving announcements and Arrow Update Logic</a></h3>
+
+<p> GG-announcements, like Plaza-announcements, maintain the assumption that announcements are completely trustworthy.  For the Plaza approach, the agents&rsquo; trust of the announcement leads them to all together delete worlds that violate the announcement (along with arrows to and from these worlds).  For the GG approach, the agents&rsquo; trust of the announcement leads them to all together eliminate arrows that point to a world that violates the announcement, effectively eliminating those worlds from the list of considered possibilities.  In each case, a consequence of this complete trust is that the agents run into trouble when they receive inconsistent information.  In particular, on announcement of a contradiction such as the propositional constant \(\bot\) for falsehood, all agents&rsquo; beliefs become trivialized: the formulas \([\bot!][a]F\) and \([\bot!_g][a]F\) are valid for all agents <i>a</i> and all formulas <i>F</i>. In essence, an announcement of a contradiction brings each agent into a confused state of doxastic contradiction in which she believes anything and everything is true.  This led Steiner (2006) to consider <em>consistency-preserving public announcements</em>, a variation of GG-announcements in which agents avoid arrow deletions that would lead to doxastic contradiction. Other studies of consistency preservation include Aucher (2008) and Aucher et al. (2009). Steiner&rsquo;s construction is a special case of a generalized approach to arrow deletion introduced by Kooi and Renne (2011a,b).  </p>
+
+<p> The language \eqref{AUL} of arrow update logic is given by the following grammar:
+
+\[\begin{align*}\taglabel{AUL}
+F &amp; \ccoloneqq p \mid F \land F \mid \lnot F \mid [a]F \mid [U]F
+\\
+U &amp; \ccoloneqq (F,a,F) \mid (F,a,F),U
+\\
+&amp; \qquad \small p\in\sP,\; a\in\sA
+\end{align*}\]
+
+Each triple \((G,a,G')\) is called an <em><i>a</i>-arrow specification</em> with <em>source condition <i>G</i></em> and <em>target condition \(G'\)</em>. A finite, comma-separated sequence <i>U</i> of arrow specifications for one or more agents is called an <em>arrow update</em>.  When it is convenient, we identify an arrow update <i>U</i> with the finite set consisting of the arrow specifications in <i>U</i>.  </p>
+
+<p> An arrow update <i>U</i> describes the following Kripke model-transforming operation: save every <i>a</i>-arrow from a world <i>x</i> to a world \(x'\) if <i>U</i> contains an <i>a</i>-arrow specification \((F,a,F')\) such that <i>F</i> is true at the source world <i>x</i> and \(F'\) is true at the target world \(x'\); delete all other arrows in the model.  Formally, this is defined as follows.  </p>
+
+<ul>
+<li>
+\(M,w\models[U]F\) holds if and only if \(M*U,w\models F\), where the
+model
+
+\[
+M*U=(W*U,R*U,V*U)
+\]
+
+is defined by:
+
+<ul>
+<li>
+\(W*U\coloneqq W\) &mdash; retain all worlds,
+</li>
+
+<li> \(x(R*U)_ax'\) if and only if \(xR_ax'\) and there exists \((G,a,G')\in U\) such that \(M,x\models G\) and \(M,x'\models G'\) &mdash; delete arrows that do not satisfy an arrow specification in <i>U</i>, and </li>
+
+<li> \(v\in V*U(p)\) if and only if \(v\in V(p)\) &mdash; leave the valuation the same at all worlds.  </li>
+
+</ul>
+</li>
+</ul>
+
+<p> Using the propositional constant \(\top\) for truth, the GG-announcement formula \([F!_g]G\) is equivalent to the \eqref{AUL}-formula
+
+\[ [\{(\top,a,F)\mid a\in\sA\}]G, \]
+
+and the Plaza-announcement formula \([F!]G\) is equivalent to the \eqref{AUL}-formula
+
+\[ F\to[\{(\top,a,F)\mid a\in\sA\}]G.  \]
+
+Arrow updates are therefore a generalization of both types of public announcement.  Steiner&rsquo;s (2006) consistency-preserving public announcement with <i>F</i> is equivalent to Kooi and Renne's (2011a) &ldquo;cautious update&rdquo; with <i>F</i>, which is the arrow update \(\CaU\) (called &rdquo;\(\CU\)&rdquo; in Kooi and Renne 2011a) defined by </p>
+
+\[
+\CaU(F) \coloneqq \{ ([a]\lnot F,a,\top)\mid a\in\sA \} \cup \{ (\may{a}F,a,F)\mid a\in\sA \}.
+\]
+
+<p> Intuitively, \(\CaU(F)\) says that if agent <i>a</i> believes that <i>F</i> is false, then <i>a</i>-arrows departing the current world should remain because she rejects an update she knows to be false. That is, we preserve <i>a</i>-arrows whose source is an \([a]\lnot F\)-world and whose target is a \(\top\)-world (i.e., whose target is any world at all).  However, if she believes that <i>F</i> might be true, then all <i>a</i>-arrows leading to a non-<i>F</i> world should be deleted because she is willing to accept information that does not contradict her beliefs.  That is, we preserve <i>a</i>-arrows whose source is an \(\may{a}F\)-world only if their target is an <i>F</i>-world.  We delete all arrows that do not satisfy one of the two kinds of arrow specifications that make up \(\CaU(F)\).  </p>
+
+<p> A key limitation of arrow updates is that the information is assumed to be public: all agents together perform the same arrow update.  So while arrow updates are a generalization of public announcements, this generalization still retains the assumption that the model-changing action is common knowledge among the agents.  <em>Generalized Arrow Update Logic</em> (Kooi and Renne 2011b) drops this common knowledge assumption.  We discuss Generalized Arrow Update Logic in <a href="appendix-I-variants.html#BMS-Variants-GAUL">Appendix I</a>.  Finally, we mention that Kooi and Renne (2011a) also present a <em>common knowledge</em> extension of \eqref{AUL}, but this has not yet been extended to the generalized arrow update setting.  </p>
+
+<p> Having briefly surveyed consistency-preserving public announcements, Arrow Update Logic, and Generalized Arrow Update Logic, we return to the primary topic of this section: public announcements.  </p>
+
+<h3><a name="Pub-APAL">5. Arbitrary Public Announcement Logic: quantification over announcements</a></h3>
+
+<p> We may think of public announcement logic as a theory that tells us whether a given formula <i>F</i> is made true by some specific announcement <i>G</i> we have fixed in advance.  But we might wish to look at this the other way around: is there some announcement <i>G</i> that will bring out the truth of our given formula <i>F</i>?  Balbiani et al. (2008) introduced Arbitrary Public Announcement Logic (APAL) for studying such questions.  The language \eqref{APAL} of Arbitrary Public Announcement Logic extends the language (PAL) of Public Announcement Logic by adding new &ldquo;arbitrary announcement&rdquo; formulas \([*!]F\) to express that &ldquo;after every announcement, <i>F</i> is true&rdquo;:
+
+\[\begin{gather*}\taglabel{APAL}
+F \ccoloneqq p \mid F\land F \mid \lnot F\mid [a]F \mid [F!]F \mid [*!]F \\
+ \small p\in\sP,\; a\in\sA
+\end{gather*}\]
+
+
+The dual arbitrary announcement modality \(\may{*!}\) defined by setting
+
+\[ \may{*!}F \coloneqq \lnot[*!]\lnot F \]
+
+allows us to express &ldquo;after some announcement, <i>F</i> is true&rdquo;. Semantically, the formula \([*!]F\) is interpreted as follows: to say that \([*!]F\) is true means that <i>F</i> is true after the announcement of any formula <i>G</i> of multi-modal logic (ML).  Hence </p>
+
+\[
+[*!]F \text{ is intuitively equivalent to } \bigwedge_{G\in\text{(ML)}}[F!]F.
+\]
+
+<p> Of course the conjunction above is not a formula in our language (since it is infinite), but this expression gives the intuition of what we are after.  In particular, the modal \([*!]\) acts as a <em>universal quantifier</em> over (ML)-formula announcements (&ldquo;after every (ML)-announcement&rdquo;), and the dual \(\may{*!}\) acts as an <em>existential quantifier</em> over (ML)-formula announcements (&ldquo;after some (ML)-announcement&rdquo;).  Quantification is restricted to (ML)-formulas so as to avoid circularity in the semantics: were quantification to range over all \eqref{APAL}-formulas, \([*!]F\) would be true at a pointed model only if <i>F</i> holds after the formula \([*!]F\) is itself announced at that pointed model, and this would require us to already know the truth value of \([*!]F\) at that pointed model.  Restricting the range of quantification to (ML)-formulas avoids this circularity.  Further, we note it follows by the PAL Expressivity Theorem (<a href="#Pub-Expressivity">Section 2</a>) that restricting the range to (ML)-formulas is no different (in terms of expressivity) than restricting the range to (PAL)-formulas.  </p>
+
+<p> Formally, \eqref{APAL}-formulas are evaluated by extending the binary truth relation \(\models\) between pointed Kripke models and (PAL)-formulas as follows: </p>
+
+<ul>
+<li>
+\(M,w\models[*!]G\) holds if and only if we have \(M,w\models[G!]F\) for all \(G\in\text{(ML)}\).
+</li>
+</ul>
+
+<p> Balbiani et al. (2008) obtained a number of results on the relative expressivity of \eqref{APAL}, (PAL), and (ML).  </p>
+
+<div class="indent">
+
+<p><strong>Theorem (Balbiani et al. 2008).</strong> Over the class of all pointed \(\mathsf{S5}\) Kripke models with agent set \(\sA\), we have each of the following.</p>
+
+<ul>
+
+<li>If \(|\sA|=1\) (i.e., there is only one agent), then \eqref{APAL}, (PAL), and (ML) are equally expressive.  </li>
+
+<li> If \(|\sA|\gt 1\) (i.e., there is more than one agent), then \eqref{APAL} is strictly more expressive than both (PAL) and (ML).  </li>
+
+</ul>
+</div>
+
+<p> The axiomatic theory of Arbitrary Public Announcement Logic is a deceptively simple extension of \(\mathsf{S5}\) Public Announcement Logic obtained by adding one new axiom and one new rule.  However, the proof of completeness is difficult and highly technical.  We present the axiomatic theory, state the soundness and completeness results, and present two complexity results.  </p>
+
+<div class="indent" id="APAL-theory">
+
+  <p  style="margin-bottom:0pt"><strong>The axiomatic theory \(\APAL\).</strong></p>
+<ul>
+
+<li> Axiom schemes and rules for <a href="index.html#PAL-theory">\(\PAL\)</a> based on multi-agent \(\mathsf{S5}\).  </li>
+
+<li> \([*!]F\to[G!]F\) for \(G\in\text{(ML)}\) <br /> &ldquo;Arbitrary announcements may be instantiated by specific (ML)-formulas.&rdquo; </li>
+
+<li> Arbitrary Announcement Rule: from \(F\to[G!][p!]H\) with <i>p</i> not occurring in <i>F</i>, <i>G</i>, or <i>H</i>, infer \(F\to[G!][*!]H\).  <br/> &ldquo;If <i>H</i> obtains after an announcement by an otherwise unused letter <i>p</i>, then <i>H</i> obtains after an arbitrary announcement.&rdquo; </li>
+
+</ul>
+</div>
+
+<div class="indent">
+
+<p><strong>\(\APAL\) Soundness and Completeness (Balbiani et al. 2008).</strong> \(\APAL\) is sound and complete with respect to the collection \(\sC_*\) of pointed \(\mathsf{S5}\) Kripke models.  That is, for each \eqref{APAL}-formula <i>F</i>, we have that \(\APAL\vdash F\) if and only if \(\sC_*\models F\).</p>
+
+</div>
+
+<div class="indent">
+
+<p><strong>APAL Complexity.</strong> Let \(\sC_{\mathsf{S5}}\) be the class of Kripke models such that each binary accessibility relation is reflexive, transitive, and symmetric.</p>
+
+<ul>
+
+<li>The satisfiability problem for \eqref{APAL} over \(\sC_{\mathsf{S5}}\) is undecidable (French and van Ditmarsch 2008).  </li>
+
+<li> The model checking problem for \eqref{APAL} over \(\sC_{\mathsf{S5}}\) is PSPACE-complete (Balbiani et al. 2008).  </li>
+
+</ul>
+</div>
+
+<p> APAL provides a convenient language for reasoning about Fitch&rsquo;s paradox (Fitch 1963), which concerns the seemingly strange result that the existence of unknown truths implies not all truths are knowable.  Following the suggestion of van Benthem (2004), Balbiani et al. (2008) identify &ldquo;<i>F</i> is knowable by agent <i>a</i>&rdquo; with \(\may{*!}[a]F\).  This equates &ldquo;knowability&rdquo; with &ldquo;being known after some announcement&rdquo;. We then may express &ldquo;all truths are knowable&rdquo; using the scheme \(F\to\may{*!}[a]F\).  We note that this scheme is not valid: the formula \(p\land\lnot[a]p\) (&ldquo;<i>p</i> is true but <i>a</i> does not know it&rdquo;) is satisfiable but can never be known by <i>a</i> (because <i>a</i>&rsquo;s knowledge of the first conjunct <i>p</i> implies the negation of the second conjunct \(\lnot[a]p\)).  Therefore, if <i>p</i> is a truth unknown to agent <i>a</i>, then the formula \(p\land\lnot[a]p\) is another truth unknown to agent <i>a</i> but agent <i>a</i> cannot come to know this lattermost truth.  That is, the following assumptions are jointly inconsistent: </p>
+
+<ul>
+<li>
+\(p\land\lnot[a]p\) &mdash; &ldquo;<i>p</i> is an unknown truth.&rdquo;
+</li>
+
+<li> \(F\to\may{*!}[a]F\) for each \(F\in\eqref{APAL}\) &mdash; &ldquo;All truths are knowable.&rdquo; </li>
+
+</ul>
+
+<p> We refer the reader to the discussions in van Benthem (2004), Balbiani et al. (2008), and Brogaard and Salerno (2012) for further details. Also, for an alternative interpretation of &ldquo;all truths are knowable&rdquo; based on the \eqref{APAL}-formula \(\may{*!}([a]F\lor[a]\lnot F)\) (&ldquo;it is possible for <i>a</i> to come to know <em>whether</em> <i>F</i> is true&rdquo;), see van Ditmarsch et al. (2012b).  </p>
+
+<p> &Aring;gotnes et al. (2010) study a variant of APAL known as &ldquo;group announcement logic&rdquo;. In this logic, new modal formulas having the form \(\may{B!}F\) for a group \(B\subseteq\sA\) of agents express that &ldquo;the group <i>B</i> can make an announcement that makes <i>F</i> true&rdquo;. The semantics of these new formulas is given as follows: </p>
+
+<ul>
+
+<li> \(M,w\models\may{B!}F\) holds if and only if we have \(M,w\models\may{\bigwedge_{a\in B}[a]G_a!}F\) for some function \(G:B\to\text{(ML)}\) mapping each agent \(a\in B\) to a formula \(G_a\in\text{(ML)}\).  </li>
+
+</ul>
+
+<p> That is, to say that \(\may{B!}F\) is true means that there is a collection of (ML)-formulas \(G_a\), one formula for each agent <i>a</i> in the group <i>B</i>, such that if each agent knows her formula and this knowledge is then announced, then <i>F</i> is true.  For details, the reader is referred to &Aring;gotnes et al. (2010).  </p>
+
+<!--pdf exclude begin-->
+<p><a href="index.html">&larr; beginning of main article</a></p>
+<!--pdf exclude end-->
+
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2016</a> by
+
+<br />
+<a href="https://sites.google.com/site/thealexandrubaltagsite/" target="other">Alexandru Baltag</a>
+&lt;<a href="m&#97;ilto:a&#37;2ebaltag&#37;40uva&#37;2enl"><em>a<abbr title=" dot ">&#46;</abbr>baltag<abbr title=" at ">&#64;</abbr>uva<abbr title=" dot ">&#46;</abbr>nl</em></a>&gt;<br />
+<a href="http://bryan.renne.org/" target="other">Bryan Renne</a>
+&lt;<a href="m&#97;ilto:brenne&#37;40gmail&#37;2ecom"><em>brenne<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Large Cardinals and Determinacy &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/large-cardinals-determinacy/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/large-cardinals-determinacy/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=large-cardinals-determinacy">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Large Cardinals and Determinacy</a></h2>
+
+<p><a href="index.html#note-1" name="1">1.</a> This view that only natural numbers (and things reducible to them) have real mathematical existence has a long tradition, going back at least to the German mathematician Martin Ohm (1792&ndash;1872). Other notable figures in this tradition include Leopold Kronecker (1823&ndash;1891), Hermann Weyl (1885&ndash;1955), and, more recently, Solomon Feferman. See Ferreir&oacute;s (2007), pp. 11&ndash;13 for further discussion on the early history. </p>
+
+<p><a href="index.html#note-2" name="2">2.</a>  We should note that there are some views that accept the standard hierarchy of large cardinal axioms&mdash;and so climb the canonical path through the well-founded stem of the interpretability hierarchy &ldquo;all the way&rdquo;&mdash;and yet are pluralist about statements of third-order arithmetic, in particular CH. So once one has solved the problem of consistency&mdash;even in the strong sense where one actually adopts the theories in the canonical sequence&mdash;there is still plenty of room for pluralism in approaching the problem of selection. </p>
+
+<p><a href="index.html#note-3" name="3">3.</a>  It should be noted that some strict finitists&mdash;like Nelson himself&mdash;think that exponentiation is not total and so think that most of the degrees above that of Q are trivial (inconsistent). Such a strict finitist will not be a pluralist about, say, PRA and the theories extending it for the simple reason that such a strict finitist will think that these theories are inconsistent. </p>
+
+<p><a href="index.html#note-4" name="4">4.</a>  Nelson is one mathematician who does not accept the totality of exponentiation and this alone serves to rule out most systems beyond the degree of Q. </p>
+
+<p><a href="index.html#note-5" name="5">5.</a>  This theory is obtained from Q by adding &Sigma;<sub>0</sub>-induction and the statement asserting that exponentiation is total. </p>
+
+<p><a href="index.html#note-6" name="6">6.</a>  Note that we are individuating our theories by their axioms. </p>
+
+<p><a href="index.html#note-7" name="7">7.</a>  Notice that in speaking of <i>X</i> being intrinsically justified on the basis of <i>Y</i>, <i>X</i> stands for a statement and <i>Y</i> stands for a conception. The relation is thus quite different than the usual relation of <em>justified on the basis of</em> which holds between statements and statements. The present notion bears comparison with the evidentness order since in the case where one has reached a minimal point&mdash;such as the case of &ldquo;&#1013;<sub>0</sub> is well-ordered&rdquo; one looks not to other statements for epistemic support but rather to the underlying conception.  </p>
+
+<p><a href="index.html#note-8" name="8">8.</a>  We intend to use this term in the same sense as Parsons. See Parsons (2000) and chapter 9 of Parsons (2008) for a more detailed discussion of the notion and some of the themes we touch upon here. </p>
+
+<p><a href="index.html#note-9" name="9">9.</a>  This structure is homeomorphic to the irrationals (as standardly construed). The reason for working with &omega;<sup>&omega;</sup> instead of &#8477; is that &omega;<sup>&omega;</sup> is homeomorphic to its finite products, (&omega;<sup>&omega;</sup>)<sup><i>n</i></sup>, in contrast to the situation with &#8477;. This enables one to concentrate on proving results for &omega;<sup>&omega;</sup>, and simply note that they lift (through the natural homeomorphisms) to the finite products. </p>
+
+<p><a href="index.html#note-10" name="10">10.</a>  It is straightforward to see that this collection is the least collection containing the closed sets and closed under the operations of complementation and countable union. </p>
+
+<p><a href="index.html#note-11" name="11">11.</a>  We shall not discuss the details but let us note that the result is that the &Delta;<span class="supsub">0<span class="lower">1</span></span> sets coincide with the recursive sets and the lightface version of the Borel hierarchy coincides with the hyperarithmetical hierarchy. </p>
+
+<p><a href="index.html#note-12" name="12">12.</a>  Inner model theory is a very advanced subbranch of set theory and we will not be able to describe it in any detail here. Suffice it to say that the goal of inner model theory is to find &ldquo;<i>L</i>-like&rdquo; models that can contain large cardinals. In the results below <i>M</i><sub>&omega;</sub> is the canonical inner model for &omega;-many Woodin cardinals and <i>M</i><span class="supsub">&#9839;<span class="lower">&omega;</span></span> is the &ldquo;sharp&rdquo; of this model. For a more detailed discussion of these results see Koellner and Woodin (2010). </p>
+
+<p><a href="index.html#note-13" name="13">13.</a>  Under the same hypothesis one has that all of the &ldquo;provably-&Delta;<span class="supsub">2<span class="lower">1</span></span>&rdquo; sets of reals are universally Baire. </p>
+
+<p><a href="index.html#note-14" name="14">14.</a>  One might worry that what is really going on here is that large cardinal axioms throw a wrench into the forcing machinery. But this is not so. Under large cardinal assumptions one has more generic extensions. What is really going on is that large cardinal axioms generate trees that are robust and act as oracles for truth. </p>
+
+<p><a href="index.html#note-15" name="15">15.</a>  Consider, for example, the reasons given in Kepler&rsquo;s &ldquo;Defense of Ursus&rdquo; and <em>Epitome of Copernican Astronomy</em>. </p>
+
+<!--pdf include  
+<br/>
+<br/>
+pdf include-->
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2013</a> by
+
+<br />
+Peter Koellner
+&lt;<a href="m&#97;ilto:koellner&#37;40fas&#37;2eharvard&#37;2eedu"><em>koellner<abbr title=" at ">&#64;</abbr>fas<abbr title=" dot ">&#46;</abbr>harvard<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

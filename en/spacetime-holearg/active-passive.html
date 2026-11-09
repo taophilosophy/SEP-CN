@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Hole Argument &gt; Active and Passive Covariance (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/spacetime-holearg/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,handheld" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/spacetime-holearg/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=spacetime-holearg">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">The Hole Argument</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Active and Passive Covariance</h2>
+
+<h3>Its Importance for the Hole Argument</h3>
+
+<p>
+One of the more perplexing components of the hole argument is the
+transition from the general covariance of Einstein&rsquo;s theory to our
+freedom to spread the metric field with great freedom over the
+spacetime manifold. The transition is from what is known as a
+&ldquo;passive&rdquo; view of coordinate transformations to an
+&ldquo;active&rdquo; view. It goes something like this:</p>
+
+<dl class="partag indent">
+<dt><em>Passive view</em>:</dt>
+<dd> 
+<p class="notopmargin">
+The laws of Einstein&rsquo;s theory are covariant under arbitrary coordinate
+transformations. That means that if we perform an arbitrary coordinate
+transformation, the laws stay the same in form. As a result we are
+free to use any coordinate transformation we like. </p>
+
+<p>
+The notion of &ldquo;arbitrary&rdquo; is mathematically rather
+imprecise. We need not linger to explicate the delicate matter of just
+what &ldquo;arbitrary&rdquo; may include. For it definitely includes
+coordinate transformations that are the identity outside some freely
+chosen neighborhood of the spacetime manifold and then come smoothly
+to differ from the identity only within. This is a passive form of a
+hole transformation.</p>
+</dd></dl>
+
+<dl class="partag indent">
+<dt><em>Active view</em>:</dt>
+<dd>
+The formulae used to generate the above coordinate transformation can
+be used in a very different way. Say the coordinate transformation
+relabels the point (0,0,0,0) in the old coordinate system with the new
+label (1,1,1,1). We can also use that transformation within just one
+coordinate system in the active sense. Then the transformation is used
+to pick up whatever geometric structures live at the point (0,0,0,0)
+and redeposit them at the point (1,1,1,1) in the same coordinate
+sytem. This amounts to a different spreading of the geometrical
+structures over the spacetime.</dd>
+</dl>
+
+<h3>A Toy Example</h3>
+
+<p>
+In Einstein&rsquo;s general theory of relativity, active redistributions of
+fields on the manifold will continue to satisfy the defining equations
+of the theory: Einstein&rsquo;s field equations. But this is surely not
+obvious. Rather than plod through the abstract considerations that
+show this, we will describe an example of the very same transition
+from passive to active transformations in a greatly simplified case.
+</p>
+
+<p>
+To begin, consider the example of a scalar field \(f\) spread
+over a one dimensional manifold; that is, a real line with a
+coordinate \(x\). The field will be represented by the function
+\(f(x)\) in this \(x\)-coordinate system. The field
+law of our simple theory is just</p>
+
+\[\tag{AP1}
+d^2 f(x)/dx^2 = 0.
+\]
+
+<h4>Covariance of the Field Equation</h4>
+
+<p>
+Consider the transformation to the new coordinate system</p>
+
+\[\tag{AP2}
+y = 2x.
+\]
+
+<p>
+This is just a relabeling with different coordinates of points in the
+same one-dimensional space, as shown in the figure:</p>
+
+<div class="figure">
+<img alt="A horizontal line has five short vertical tick marks at equal spacing. They are labeled above from left to right as x=0, x=1, x=2, x=3 and x=4; and from below as y=0, y=2, y=4, y=6 and y=8." src="AP_Fig_1.svg" style="width:500px" />
+</div>
+
+<p>
+We also assume that the field \(f\) transforms as a scalar, so
+that the field transforms as</p>
+
+\[
+F(y) = f(x).
+\]
+
+<p>
+(Say to yourself: &ldquo;The value of the field \(F\) at the
+point with coordinate \(y\) in the new coordinate system is the
+same as value of the field \(f\) in the old coordinate system at
+point \(x\).&rdquo;)</p>
+
+<p>
+It is easy to see that this law is covariant under the transformation
+to the new coordinate system. We have for the differential
+operators</p>
+
+\[
+d/dx = (dy/dx) \cdot (d/dy) = 2 (d/dy)
+\]
+
+<p>
+and thus</p>
+
+\[
+d^2 /dx^2 = 4 (d^2 /dy^2)
+\]
+
+<p>
+By a simple substitution of the differential operator and the scalar
+transformation rule \(F(y) = f(x)\) in
+(AP1) we arrive at</p>
+
+\[0 = d^2 f(x)/dx^2 = 4 (d^2 F(y)/dy^2)
+\]
+
+<p>
+which in turn entails</p>
+
+\[\tag{AP3}
+d^2 F(y)/dy^2 = 0
+\]
+
+<p>
+This establishes the covariance of the field law (AP1) under the
+coordinate transformation (AP2); the transformed field law (AP3) has
+the same form as the original field law (AP1).</p>
+
+<h4>Passive Transformation</h4>
+
+<p>
+Now let us consider a passive transformation of this field. A simple
+solution of field law (AP1) in the \(x\) coordinate system is</p>
+
+\[\tag{AP4}
+f(x) = x - 1
+\]
+
+<div class="figure">
+<img alt="Horizontal x and vertical f(x) coordinate axes, labeled &lsquo;x&rsquo; and &lsquo;f(x)&rsquo; respectively, are shown as straight lines for the Cartesian plane. The x axis has tick marks at 0, 1, 2, 3 and 4 and the f(x) axis has tick marks at -1, 0, 1 and 2. An oblique straight line passes through points -1 on the vertical axis and 1 on the horizontal axis and is labeled &lsquo;f(x) = x-1&rsquo;." src="AP_Fig_2.svg" style="width:500px" />
+</div>
+
+<p>
+If we transform this solution to the new coordinate system y by
+replacing \(f(x)\) by \(F(y)\) and \(x\) by \(y/2\), we arrive at</p>
+
+\[\tag{AP5}
+F(y) = y/2 - 1
+\]
+
+<div class="figure">
+<img alt="Horizontal y and vertical F(y) coordinate axes, labeled &lsquo;y&rsquo; and &lsquo;F(y)&rsquo; respectively, are shown as straight lines for the Cartesian plane. The y axis has tick marks at 0, 2, 4, 6, 8 and the F(y) axis has tick marks at -1, 0, 1 and 2. An oblique straight line passes through points -1 on the vertical axis and 2 on the horizontal axis and is labeled &lsquo;F(y)=y/2-1&rsquo;." src="AP_Fig_3.svg" style="width:500px" />
+</div>
+
+<p>
+This is just the same field as (AP4), but now described in the new
+coordinate system \(y\). To get a sense of the sameness, note
+that the field (AP2) vanishes at the point \(x=1\) in the
+\(x\) coordinate system. The field \(F(y)\)
+vanishes at the point \(y=2\). These vanishings happen at the
+same point in space. It is the point that has coordinate \(x=1\)
+in the \(x\) coordinate system and \(y=2\) in the \(y\)
+coordinate system.</p>
+
+<h4>Active Transformation</h4>
+
+<p>
+Now comes the tricky part&mdash;pay attention! We have learned a
+useful mathematical fact through our generation of the field
+(AP5):</p>
+
+<p class="indent">
+The field \(F(y) = y/2 - 1\) solves the field law \(d^2 F(y)/dy^2 =
+0\)
+</p>
+
+<p>
+This fact uses the variable &ldquo;\(y\)&rdquo; to designate the
+coordinate system. Forget for a moment that values of \(y\)
+indicate particular points in the one dimensional space. Just think of
+it as a mathematical fact about a real valued variable \(y\) and
+function \(F\) of it. The mathematical fact remains true if we
+rewrite it using the label &ldquo;\(x\)&rdquo; instead of
+&ldquo;\(y\)&rdquo; for the real variable. Then it says:</p>
+
+<p class="indent">
+The field \(F(x) = x/2 - 1\) solves the field law \(d^2 F(x)/dx^2 =
+0\)
+</p>
+
+<p>
+This mathematic fact can be given a new physical interpretation. Let
+the variable &ldquo;\(x\)&rdquo; be the \(x\) coordinate of
+our original coordinate system. We have now discovered a <em>new</em>
+field in the original \(x\) coordinate system that also satisfies
+the field equation. That is, we now have the two fields in the
+original \(x\) coordinate system:</p>
+
+<p class="indent">
+The field \(f(x) = x - 1\) solves the field law \(d^2 f(x)/dx^2 = 0\)
+</p>
+
+<p class="indent">
+The field \(F\)(x) \(= x/2 - 1\) solves the field law \(d^2 F(x)/dx^2
+= 0\)</p>
+
+<div class="figure">
+<img alt="Horizontal x and vertical f(x), F(x) coordinate axes are labeled &lsquo;x&rsquo; for the horizontal axis and &lsquo;f(x)&rsquo; and &lsquo;F(x)&rsquo; for the vertical axis. The axes are shown as straight lines for the Cartesian plane. The x axis has tick marks at 0, 1, 2, 3, 4 and the f(x), F(x) axis has tick marks at -1, 0, 1 and 2. An oblique straight line passes through points -1 on the vertical axis and 1 on the horizontal axis and is labeled &lsquo;f(x) = x-1.&rsquo; A second oblique straight line passes through -1 on the f(x), F(x) axis and 2 on the x axis and is labeled &lsquo;F(x) = x/2 - 1&rsquo;." border="0" src="AP_Fig_4.svg" style="width:500px" />
+</div>
+
+<p>
+Lest there be any doubt that the two fields are different, note that
+they are both described in the same coordinate system \(x\), but
+are different functions of \(x\). The points at which they vanish
+are now different. \(f(x)\) vanishes at \(x=1\) and
+\(F(x)\) vanishes at \(x=2\).</p>
+
+<p>
+What we have done is to use the covariance of the original field law
+(AP1) to generate a new solution of the field law (AP1). That new
+solution is generated by taking the field at a point in space with
+coordinate \(x\) and moving it to a new point in space with
+coordinate \(y = 2x\) in the same coordinate system.</p>
+
+<div class="figure">
+<img alt="The figure is the same as the previous figure that shows oblique lines labeled f(x) = x -1 and F(x) = x/2 - 1. The only change is the addition of three curved arrows, aligned horizontally, that point from the f(x) = x -1 line to the F(x) = x/2 - 1 line." src="AP_Fig_5.svg" style="width:500px" />
+</div>
+
+<p>
+This use of the transformation (AP2) \(y = 2x\) is an
+active use of the transformation.</p> 
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="http://www.pitt.edu/~jdnorton/jdnorton.html" target="other">John D. Norton</a>
+&lt;<a href="m&#97;ilto:jdnorton+&#37;40pitt&#37;2eedu"><em>jdnorton+<abbr title=" at ">&#64;</abbr>pitt<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+Oliver Pooley
+&lt;<a href="m&#97;ilto:oliver&#37;2epooley&#37;40philosophy&#37;2eox&#37;2eac&#37;2euk"><em>oliver<abbr title=" dot ">&#46;</abbr>pooley<abbr title=" at ">&#64;</abbr>philosophy<abbr title=" dot ">&#46;</abbr>ox<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;<br />
+<a href="http://users.ox.ac.uk/~orie2304/" target="other">James Read</a>
+&lt;<a href="m&#97;ilto:james&#37;2eread&#37;40philosophy&#37;2eox&#37;2eac&#37;2euk"><em>james<abbr title=" dot ">&#46;</abbr>read<abbr title=" at ">&#64;</abbr>philosophy<abbr title=" dot ">&#46;</abbr>ox<abbr title=" dot ">&#46;</abbr>ac<abbr title=" dot ">&#46;</abbr>uk</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2023</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

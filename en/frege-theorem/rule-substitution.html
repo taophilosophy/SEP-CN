@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Frege’s Theorem and Foundations for Arithmetic &gt; Frege&rsquo;s Rule of Substitution (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/frege-theorem/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/frege-theorem/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-theorem">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Frege&rsquo;s Theorem and Foundations for Arithmetic</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Frege&rsquo;s Rule of Substitution</h2>
+
+<p>
+In this supplement, we briefly discuss the connection between Frege&rsquo;s Rule of Substitution and the comprehension principles discussed in the main text. But understanding this connection is not necessary for understanding Frege&rsquo;s Theorem. The Rule of Substitution is notoriously difficult to formulate correctly. Though we will formulate the rule correctly towards the end, a simplified, though incorrect, formulation of the rule will serve the purpose of getting the main idea across.</p>
+
+<p class="indent">
+<strong>Rule of Substitution</strong> (Simplified Version):
+<br />
+In any statement of the form \(\ldots Fx\ldots\) (in which the variable \(F\) is free) which is derivable as a theorem of logic, we may substitute any open formula \(\phi(x)\) (with the free variable \(x\)) for all the occurrences of the atomic formula \(Fx\) in \(\ldots Fx\ldots\)&nbsp;.
+</p>
+
+<p>
+To see the intent of this rule, first consider the following theorem of (Frege&rsquo;s) second-order predicate logic: </p>
+
+<div class="indent">
+\[\tag{A} \forall x(Fx \equiv Fx)\]
+</div>
+
+<p>
+Now Frege&rsquo;s Rule of Substitution is intended to allow us to substitute complex formulas with a free variable x for &lsquo; \(Fx\)&rsquo;. So, for example, we are allowed substitute the formula &lsquo; \(Ox \amp x > 5\)&rsquo; (&lsquo; \(x\) is odd and \(x\) is greater than \(5\)&rsquo;) for &lsquo; \(Fx\)&rsquo; in (A) to derive the following from (A): </p>
+
+<div class="indent">
+\[\tag{B} \forall x[(Ox \amp x > 5)\equiv (Ox \amp x > 5)]\]
+</div>
+
+<p>
+Inferences such as this will be valid no matter what complex formula with \(x\) free we substitute for \(Fx\) in our universal claim (A). This is the idea behind Frege&rsquo;s Rule of Substitution. </p> <!--
+
+<p>
+An example by Kai Wehmeier shows that the above formulation of the Rule is incorrect. \(Fc \rightarrow \exists xFx\) is a theorem of logic in which \(F\) is free. But note that \(F\) appears in the context \(Fx\) and the context \(Fc\). We can't substitute a complex formula \(\phi(x)\) for \(F\) in both occurrences of \(F\), and if we do substitute, say \(Qx\amp \neg Qx\) for \(F\) in \(Fx\), we get \(Fc\rightarrow &exists;x(Qx \amp &neg;Qx)\). If we then generalize to get \(\forall F(Fc\rightarrow &exists;x(Qx \amp &neg;Qx))\). But for any property \(P\), either \(c\) exemplifies \(P\) or exemplifies \([\lambda x \, \neg Px]\). In either case, we can derive \(&exists;x(Qx \amp &neg;Qx\).</p> -->
+
+<p>
+In what follows, we will assume that the Rule of Substitution can be generalized to relations, so that we can uniformly replace the formula \(Rxy\) (in a theorem of logic with \(R\) free) by a complex formula \(\phi(x,y)\) (in which both \(x\) and \(y\) are free).</p>
+
+<p>
+The Rule of Substitution has rather powerful consequences. It implies the Comprehension Principle for Concepts discussed in the main text. To see that this is a consequence of the rule, note that it follows from (A) by existential generalization that:</p>
+
+<p class="indent">
+\(\exists G\forall x(Gx\equiv Fx)\)
+</p>
+
+<p>
+Frege&rsquo;s Rule of Substitution now allows us to substitute any formula with free variable \(x\) for \(Fx\). This, in effect, is the Comprehension Principle for Concepts discussed in the main text.</p>
+
+<p>
+The same facts apply to relations. The following is a theorem of logic, where \(S\) is any 2-place relation:</p>
+
+<p class="indent">
+\(\forall x\forall y(Sxy \equiv Sxy)\)
+</p>
+
+<p>
+From this theorem, on can generalize to obtain:</p>
+
+<p class="indent">
+\(\exists R\forall x\forall y(Rxy \equiv Sxy)\)
+</p>
+
+<p>
+From this theorem, Frege could use the Rule of Substitution to derive, for any formula \(\phi\) with free variables \(x\) and \(y\), the existence of a relation \(R\) such that any objects \(x\) and \(y\) stand in \(R\) if and only if \(\phi\).</p>
+
+<p>
+In effect, Frege&rsquo;s Rule of Substitution allows us to instantiate \(\phi(x)\) for the free variable \(F\) in theorems of logic as if \(\phi(x)\) were a \(\lambda\)-expression and constituted a name of a concept. Indeed, \(\lambda\)-notation helps us to develop a more precise formulation of the Rule of Substitution; the precise formulation of the rule for concepts is:</p>
+
+<p class="indent">
+<strong>Rule of Substitution</strong> (1-place case):
+<br />
+In any theorem of logic \(\psi\) in which \(F\) is free, one may uniformly substitute the \(\lambda\)-expression \([\lambda x \, \phi(x)]\) for \(F\), and then convert all the resulting formulas using \(\lambda\)-Conversion, provided \([\lambda x \, \phi(x)]\) is substitutable for \(F\) (i.e., provided no variable free in \([\lambda x \, \phi(x)]\) is captured by a quantifier binding that variable in \(\psi\) when the substitution is made).
+</p>
+
+<p>
+(The formulation for relations is similar.) Moreover, the principle of \(\lambda\)-Conversion simplifies the strict proof of the equivalence of Frege&rsquo;s Rule of Substitution and the Comprehension Principle for Concepts. As it turns out, not only does Frege&rsquo;s Rule of Substitution imply the Comprehension Principle for Concepts, but the converse also holds: the Comprehension Principle for Concepts implies the Rule of Substitution. [For a proof sketch, see Boolos (1985) pp. 161&ndash;162. Note that instead of \([\lambda x \, \phi(x)]\), Boolos uses the notation \(\{a : Aa\}\); elsewhere, in (1987) for example, Boolos uses the notation \([x : A(x)]\) to denote concepts.]</p>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+<a href="https://mally.stanford.edu/zalta.html" target="other">Edward N. Zalta</a>
+&lt;<a href="m&#97;ilto:zalta&#37;40stanford&#37;2eedu"><em>zalta<abbr title=" at ">&#64;</abbr>stanford<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

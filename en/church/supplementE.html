@@ -1,0 +1,1090 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Alonzo Church &gt; E. Philosophy of Language (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/church/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/church/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=church">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Alonzo Church</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>E. Philosophy of Language</h2>
+<!--Entry Contents-->
+
+<ul>
+
+ <li><a href="#E1WhyFormSema">E.1 Why Formal Semantics?</a></li>
+ 
+ <li><a href="#E2InteSema">E.2 Intensional Semantics</a></li>
+ 
+ <li><a href="#E3LogiSensDeno">E.3 The Logic of Sense and Denotation</a></li>
+ 
+ <li><a href="#E4LSDCritIdenForConc">E.4 LSD and the Criteria of Identity for Concepts</a></li>
+ 
+ <li><a href="#E5RussPhilLang">E.5 Russellian Philosophy of Language</a></li>
+ </ul>
+<!--Entry Contents-->
+
+<hr />
+
+<h3 id="E1WhyFormSema">E.1 Why Formal Semantics?</h3>
+
+<p>
+As noted in the main text, Church&rsquo;s (1943a) review of
+Carnap&rsquo;s (1942) constitutes an important early step in the
+application of the logistic method to the subject of semantics, not
+least because of the succinct description of the goal of formal
+semantics (for similar remarks, see Church 1943c, 1951b, 1952, 1956a).
+According to this description, the discovery of syntax and semantics
+begins with observation of how informal language is used, rather like
+how the discovery of the basic notions of Euclidean geometry begins
+with observation of how magnitudes are compared and measured (cf.
+Church 1951b). However, syntax and semantics</p>
+
+<blockquote>
+
+<p>
+have an abstract character, like that of mathematics: they do not
+relate how in historical fact the language was used by so-and-so and
+so-and-so, but they propose a definition of what shall be considered
+the correct usage of the language, and base an abstract theory on this
+definition (1943a [BE: 259]).</p>
+</blockquote>
+
+<p>
+This is a different theoretical treatment than that given to the
+&ldquo;imprecise approximations&rdquo; to norms that we find in
+&ldquo;everyday linguistic behavior&rdquo; (1951b [BE: 282]). Just as
+geometry idealizes away imprecisions in the comparison and measurement
+of magnitudes, a syntax and semantics for a language idealizes away
+ambiguities, vagaries and inconsistencies of actual use. When a syntax
+and semantics is provided for an informal (or natural) language like
+English, it is formulated by extrapolation from just those examples
+that are judged to be examples of <em>correct</em> use (1943c). If,
+instead, a syntax and semantics is provided for the <em>formalized
+counterpart</em> of English, then, while it should diverge only
+minimally from the syntax and semantics of English, the formulation of
+the syntax and semantics must be <em>as precise as possible</em>. In
+this respect, the distinction between English and its formalized
+counterpart is not entirely sharp (ibid). This puts Church at odds
+with Carnap (1942), who does draw a sharp distinction between English,
+which he claims has a descriptive semantics, and formalized languages
+for which the semantics is <em>stipulated</em>. For Church, a syntax
+and semantics for a given language, whether formal or informal, is a
+theory of <em>norms</em> of correct use for that language; and, in
+general, syntax and semantics for formal languages is a theory of the
+languages we <em>should</em> speak for the purposes of logical
+analysis, the discovery and dissolution of paradox, and (other)
+scientific thought. Church&rsquo;s view, then, constitutes a more
+nuanced approach to logical theorizing about languages than the
+uniform attitude propounded by Montague: that there is &ldquo;no
+important theoretical difference between natural languages and the
+artificial languages of logicians&rdquo; (1970a: 373).</p>
+
+<h3 id="E2InteSema">E.2 Intensional Semantics</h3>
+
+<p>
+The influence of Frege on Church is evident in the particular semantic
+theory that Church favors. This theory postulates and assigns to each
+name a unique sense that in turn determines a unique
+<em>designatum</em>:</p>
+
+<blockquote>
+
+<p>
+the sense of an expression is in its linguistic meaning, the meaning
+which is known to any one familiar with the language and for which no
+knowledge of extralinguistic fact is required; the sense is what we
+have grasped when we are said to understand the expression. On the
+other hand the <em>designatum</em> of an expression often requires to
+be discovered by an empirical investigation or other considerations in
+addition to the knowledge of the language; it may well be possible to
+understand an expression yet not know its <em>designatum</em>. (1943a
+[BE: 261])</p>
+</blockquote>
+
+<p>
+Church agrees with Frege that senses are
+objective&mdash;mind-and-language independent&mdash;abstract entities.
+(Church&rsquo;s reasons for postulating and assigning entities of this
+nature to names are discussed in
+ <a href="index.html#ApplLogiMeth">section 3</a>
+ and
+ <a href="index.html#Meta">section 6</a>).
+ He also agrees with Frege (1892a) that senses are recommended for
+their power to explain the informative nature of identity statements
+containing co-designating names, as well as to explain the failure of
+the substitutivity of co-designating names in intensional contexts
+(1943a; 1956a: &sect;01).</p>
+
+<p>
+For example, suppose that the sense of the proper name
+&ldquo;Hesperus&rdquo; is <em>the first planet visible in the
+evening</em>, while the sense of &ldquo;Phosphorus&rdquo; is <em>the
+last planet visible in the morning.</em> Because of the difference
+between these senses, &ldquo;Hesperus is Phosphorus&rdquo; expresses
+information about astronomy of which a competent speaker may be
+ignorant, while &ldquo;Hesperus is Hesperus&rdquo; does not. In the
+case of proper names of people, like &ldquo;Sir Walter Scott&rdquo;,
+Church claims that they express senses like <em>the person with the
+given name &ldquo;Walter&rdquo; and the surname
+&ldquo;Scott&rdquo;</em> (1956a: &sect;01; but compare the remarks
+about &ldquo;Capetown&rdquo; in 1956a: fn. 136). While reflection on
+actual linguistic behavior reveals that <em>a speaker</em> can use
+&ldquo;Hesperus&rdquo; to convey more than one sense, the sense
+assigned by a semantic theory is &ldquo;univocal&rdquo; (ibid). This
+raises two questions: <em>which</em> sense to assign to
+&ldquo;Hesperus&rdquo; and, in particular, which sense to assign to
+&ldquo;Hesperus&rdquo; when it occurs in an indirect context. (We will
+return to the latter question in a moment.)</p>
+
+<p>
+Departing from Frege&rsquo;s terminology, Church calls senses
+&ldquo;concepts&rdquo; and explains the relation that holds between a
+name and its <em>designatum</em> in terms of a more primitive relation
+that holds between the individual concept expressed by the name and
+the thing of which it is an individual concept (1956a: &sect;01). For
+example, suppose that the sense or concept univocally expressed by
+&ldquo;Hesperus&rdquo; is <em>the first planet visible in the
+evening</em>. Further suppose that this is, as a matter of objective
+fact, a concept of Hesperus that identifies it uniquely. In that case,
+the <em>designatum</em> of &ldquo;Hesperus&rdquo; is, in
+Church&rsquo;s terminology, &ldquo;a function of&rdquo; this concept.
+This idea is encoded in the first of Church&rsquo;s compositional
+principles, which taken together preserve Frege&rsquo;s important idea
+that semantic compositionality is function-argument application. The
+first such principle is as follows:</p>
+
+<dl class="sentag tag6em">
+<dt id="comp1">(Comp 1)</dt>
+<dd>The <em>designatum</em> of a name, if there is one, is a function
+of the concept expressed by that name, i.e., there exists a function
+\(f\) such that <em>designatum</em> \((N) = f\) (concept expressed by
+\(N)\), for all names \(N\) for which there is a
+<em>designatum</em>.</dd>
+</dl>
+
+<p>
+According to Church, there can be non-designating (empty) names (like
+&ldquo;Pegasus&rdquo;) that express individual concepts that are not
+concepts of any actually existing thing. There can also be individual
+concepts of things&mdash;such as non-recursive real numbers&mdash;that
+have no names (1956a: &sect;01 and fn. 50).</p>
+
+<p>
+Unlike simple names, which express concepts purely in virtue of
+linguistic convention, definite descriptions&mdash;like &ldquo;the
+successor of 0&rdquo; and &ldquo;the first planet visible in the
+evening&rdquo;&mdash;are complex names, ones that express complex
+structured concepts composed out of other concepts. Further, any
+asserted sentence is also a complex name that&mdash;for the reasons
+discussed in
+ <a href="index.html#SlinArgu">section 3.2</a>&mdash;designates
+ a truth value and expresses a structured proposition composed out of
+individual concepts and class concepts (more of which in a
+moment).</p>
+
+<p>
+According to Church, the proposition expressed by a sentence is its
+meaning&mdash;&ldquo;that which is grasped when one understands the
+sentence&rdquo; (1956a: &sect;04). The proposition is also that which
+is preserved when the sentence is correctly translated into another
+language. It is also a concept of a truth value (cf.
+ <a href="index.html#SlinArgu">section 3.2</a>).
+ Like all concepts, propositions are also
+objective&mdash;mind-and-language independent&mdash;abstract entities
+&ldquo;of the same general category as a class, a number, or a
+function&rdquo; (ibid).</p>
+
+<p>
+Complex names require two more compositional semantic principles:</p>
+
+<dl class="sentag tag6em">
+<dt id="comp2">(Comp 2)</dt>
+<dd>The concept expressed by a complex name is a function of the
+concepts expressed by that name&rsquo;s component names, so that if a
+component name is replaced by another expressing the same concept, the
+concept expressed by the complex name is not changed.</dd>
+<dt id="comp3">(Comp 3)</dt>
+<dd>The <em>designatum</em> of a complex name is a function of the
+<em>designata</em> of that name&rsquo;s component names, so that if a
+component name is replaced by another with the same
+<em>designatum</em>, the <em>designatum</em> of the complex name is
+not changed.</dd>
+</dl>
+
+<p>
+Another important kind of expression for Church is a <em>form</em>
+(1956a: &sect;02), which is an expression obtained from a complex name
+by replacing one or more of its constituent names by a free occurrence
+of a variable (that doesn&rsquo;t otherwise occur in the original
+complex). Suppose that we begin with the complex names:</p>
+
+<ul>
+
+<li>Venus is the first planet visible in the evening</li>
+
+<li>Venus is the last planet visible in the morning.</li>
+</ul>
+
+<p>
+We can then replace the first constituent proper name in each of these
+with a free occurrence of a variable, to obtain the following
+(singulary) forms:</p>
+
+<ul>
+
+<li>\(x\) is the first planet visible in the evening</li>
+
+<li>\(x\) is the last planet visible in the morning.</li>
+</ul>
+
+<p>
+Two (<em>n</em>-ary) forms are <em>concurrent</em> if they agree in
+their values&mdash;i.e., have the same value or no value&mdash;for
+every assignment of values to their free variables. For example, the
+two singulary forms just obtained are concurrent, since they both have
+the value True for the value Venus of \(x\) and the value False for
+all other values of \(x\). (Compare the forms &ldquo;\(x\) is the
+smallest perfect number&rdquo; and &ldquo;\(x\) is the factorial of
+3&rdquo;.)</p>
+
+<p>
+To each singulary form there corresponds a function, according to the
+rule that <em>the value of the function can be obtained for a given
+argument by assigning that argument to the free variable in the
+corresponding form</em>. So, two concurrent singulary forms with the
+same free variable will correspond to the same function (in
+extension). Just as there can be concepts of things that have no
+names, so there can be functions that have no corresponding form.</p>
+
+<p>
+Any function whose range is just the two truth values, and in
+particular any function associated with a propositional form, is a
+<em>propositional function</em>. Whereas Russell (1903) claimed that
+the range of a given propositional function consists of propositions,
+Church argues that it consists of the two truth values (see, once
+again,
+ <a href="index.html#SlinArgu">&sect;3.2</a>).
+ With that said, we can now state Church&rsquo;s fourth compositional
+semantic principle, which extends
+ <a href="#comp3">(Comp 3)</a>
+ to forms:</p>
+
+<dl class="sentag tag6em">
+<dt id="comp4">(Comp 4)</dt>
+<dd>If a component form is replaced by another form that is concurrent
+to it, the entire form is concurrent to the original one.</dd>
+</dl>
+
+<p>
+For example, suppose that we begin with</p>
+
+<ul>
+
+<li>Venus is the first planet visible in the evening and also orbits
+the Sun</li>
+</ul>
+
+<p>
+and obtain the form</p>
+
+<ul>
+
+<li>\(x\) is the first planet visible in the evening and also orbits
+\(y.\)</li>
+</ul>
+
+<p>
+If we replace the first component form with a concurrent one, the
+result is concurrent to the original form:</p>
+
+<ul>
+
+<li>\(x\) is the last planet visible in the morning and also orbits
+\(y.\)</li>
+</ul>
+
+<p>
+Two forms are <em>concept-concurrent</em> if they agree in their
+concept value for every assignment of concept values to their free
+variables (1956a: fn. 30). This requires another principle for
+variables, which we omit from our exposition (see 1951b [BE:
+284&ndash;5]).</p>
+
+<p>
+To conclude our discussion of compositionality, it should be noted
+that what Church&rsquo;s (Comp) principles can explain is how we are
+able to understand new complex <em>names</em> by calculating which of
+a stock of familiar complex concepts they express. While this
+explanation is an impressive achievement, it leaves unexplained how we
+are also able to grasp new complex <em>concepts</em> that we have not
+previously entertained but which have, as constituents, concepts with
+which we are familiar. Addressing this aspect of the problem of
+compositionality from within a Fregean framework like Church&rsquo;s
+arguably requires the notion of a <em>canonical</em> concept of a
+concept (see E.III below). Since Church did not introduce such a
+notion explicitly, applying it to compositionality is beyond the scope
+of this entry.</p>
+
+<p>
+According to Church (1941, 1956a), one can, by the process known as
+&ldquo;functional abstraction&rdquo;, obtain a closed expression or
+&ldquo;name&rdquo; of the function corresponding to a given form by
+prefixing &ldquo;\(\lambda x\)&rdquo; to that form (as is discussed in
+ <a href="supplementD.html">supplement D</a>).
+ For example, prefixing &ldquo;\(\lambda x\)&rdquo; to the singulary
+form &ldquo;\(x\) is a planet&rdquo; yields the closed expression
+&ldquo;\(\lambda x \hdot x\) is a planet&rdquo;. According to Church,
+this expresses a class concept&mdash;in this case the concept of the
+class of planets&mdash;and designates the characteristic function of
+this class, the function that that maps any potential value of \(x\)
+to truth iff it is a planet. In this way, one can designate the
+function that corresponds semantically to the form.</p>
+
+<p>
+Here we see an important departure from Frege (1892b), who insisted
+that functions are <em>incomplete abstractions</em> (they are
+&ldquo;unsaturated&rdquo;), and so are not the kind of complete thing
+(or object) that can be designated. In particular, Frege insisted that
+the function <em>___ is a horse</em> is not a function, since
+&ldquo;<em>___ is a horse</em>&rdquo; appears to designate it, thereby
+suggesting that it is an object and not a function. This consequence
+of Frege&rsquo;s rather inflexible attitude towards functions is
+extremely odd, if not paradoxical, and can be avoided by
+Church&rsquo;s proposal that the function in question can be
+designated by &ldquo;\(\lambda x \hdot x\) is a horse&rdquo;.
+(Church&rsquo;s proposal is endorsed by Burge [2005b,&nbsp;2019] and
+Kaplan [2005]; cf. Terrance Parsons [1986].)</p>
+
+<h3 id="E3LogiSensDeno">E.3 The Logic of Sense and Denotation</h3>
+
+<p>
+Church&rsquo;s LSD, as described in the text, faces two objections
+that arise when we consider that once LSD is properly formulated as a
+theory of concepts, it is supposed to be suitable to serve as the
+semantics of possible languages.</p>
+
+<p>
+First, Church&rsquo;s account of the types does not tell us
+<em>which</em> concept of a given type determines the entity belonging
+to the type immediately below. So, in the event that LSD was required
+to serve as a semantic theory for a given language, because it would
+only tell us that <em>some</em> concept of type \(\iota_2\) is
+assigned to &ldquo;\(a_1\)&rdquo;, it would not thereby tell us what
+&ldquo;\(a_1\)&rdquo; meant (cf. Kripke 2008).</p>
+
+<p>
+This bring us to the second objection, which arises from the fact that
+(as we have already seen in the main text) intensional contexts can be
+iterated:</p>
+
+<ol type="1">
+
+<li>Hesperus is a planet</li>
+
+<li>Hammurabi believes that (1)</li>
+
+<li>Monica said that (2)</li>
+
+<li>Sam believes that (3)</li>
+
+<li style="list-style-type: none"><em>Ad infinitum.</em></li>
+</ol>
+
+<p>
+Replacing such constructions with the corresponding ones in LSD
+requires an infinity of independent names,
+&ldquo;\(a_0\)&rdquo;&ndash;&ldquo;\(a_n\)&rdquo;, corresponding to
+the occurrences of &ldquo;Hesperus&rdquo; in (1), (2), (3), (4), etc.
+Likewise, (1), (2), (3), etc. are also an infinity of names expressing
+<em>propositional</em> concepts. If these names named an infinity of
+primitive and independent concepts, Church&rsquo;s proposal would be
+subject to Davidson&rsquo;s objection that a language for which LSD
+was a semantic theory could not be learned (1965). To meet this
+objection, something needs to be said about the nature of the relation
+\(\Delta\) described in the main text.</p>
+
+<p>
+There is an impressive degree of consensus that these objections can
+be met. As regards the latter objection, it is argued that what is
+needed is to be able both to grasp the individual concept expressed
+by, for example, &ldquo;\(a_0\)&rdquo; and to follow a rule for
+obtaining each concept of type \(\iota_k\) from the concept of type
+\(\iota_{k-1}\) below. There is also considerable consensus that such
+a rule can be stated (cf. Burge 2005c, 2009; Kripke 2008 [2011a];
+Peacocke 2008; Salm&oacute;n 1993, 2001, 2006). Indeed, there is even
+agreement among <em>some</em> of these authors that whereas, in the
+case of the various individual concepts that determine ordinary
+concrete individuals, none of them distinguishes itself by
+<em>identifying</em> which individual it is a concept of, concepts
+themselves are unlike ordinary concrete individuals in this regard.
+(Note that the notion of an identifying concept of a <em>number</em>
+is discussed by Church 1956a: fn. 122.) That is, in the case of
+concepts, it is claimed that the concept of type \(\iota_k\)
+identifies the concept of type \(\iota_{k-1}\) below and so,
+intuitively, tells us which concept it is. (Similar considerations
+apply to the hierarchy of propositions and propositional concepts.)
+This is what promises to provide some illumination about the nature of
+the relation \(\Delta\). In which case, if one can (i) grasp the
+individual concept of \(\iota_1\) expressed by &ldquo;\(a_0\)&rdquo;,
+and (ii) thereby grasp its identifying concept of type \(\iota_2\), as
+well as (iii) repeat this process recursively for each concept of type
+\(\iota_k\) given the concept of type \(\iota_{k-1}\), then one
+<em>can</em> in principle learn a language for which LSD is a semantic
+theory. However, there is still disagreement about exactly what is
+required for a concept of a concept to be <em>identifying</em>; but
+the issue is beyond the scope of this entry (cf. the citations
+above.).</p>
+
+<h3 id="E4LSDCritIdenForConc">E.4 LSD and the Criteria of Identity for Concepts</h3>
+
+<p>
+It is reasonable to require a criterion of identity for concepts
+(including propositions). After all, not only are concepts postulated
+abstract entities whose existence and identity is entailed by the
+theory in which they are postulated; but also the issue of whether two
+concepts are identical is very closely related to the natural question
+whether two expressions mean the same thing. Church&rsquo;s papers on
+LSD contain attempts to formulate logistic theories of concepts based
+on three alternative criteria of identity for them (as well as
+reformulations of them in the light of the antinomies such as those
+discussed in
+ <a href="index.html#Para">section 4</a>
+ of the main text). As we will see, Church says repeatedly that there
+is more that one theoretically important criterion of identity for
+concepts, each of which helps to limn a corresponding notion of
+concept (or sense). For example:</p>
+
+<blockquote>
+
+<p>
+No doubt there is more that one meaning of &ldquo;sense&rdquo;,
+according to the criterion adopted for equality of senses, and the
+decision among them is a matter of convention and expediency. (1956a:
+fn. 37)</p>
+</blockquote>
+
+<p>
+Alternative (2) proposes that two complex concepts are identical iff
+the expressions that express them are necessarily materially
+equivalent (i.e., logically equivalent). Church comments that this</p>
+
+<blockquote>
+
+<p>
+leads to a notion of proposition which serves some purposes, including
+that of modal logic, but is not suitable for an analysis of indirect
+quotation. It is not surprising that there should be more than one
+notion of proposition, according to what identity criterion is adopted
+(1973a: fn. 11).</p>
+</blockquote>
+
+<p>
+The point is that while Alternative (2) can provide insight into modal
+logic (cf. Kaplan 1975b), it is too coarse grained to be part of a
+logistic theory of concepts like LSD that is intended to provide an
+analysis of attributions of propositional attitudes. This is because,
+for example, all theorems of pure mathematics are necessarily
+materially equivalent (Bernays 1961). However, if we say, by
+Alternative (2), that all mathematical theorems express the same
+proposition, and if we individuate propositional attitudes in terms of
+the propositions believed, asserted etc., then anyone who believes or
+asserts one mathematical theorem believes or asserts all of them!</p>
+
+<p>
+A more stringent criterion is Alternative (1), which is related to the
+process of functional abstraction. According to Alternative (1), two
+complex concepts are identical iff the corresponding complex
+expressions have the same free variables and can each be obtained from
+the other by a sequence of applications of:</p>
+
+<ul>
+
+<li>Alphabetic changes of bound variables, i.e., alpha-conversion (see
+ <a href="supplementD.html">supplement D</a>)</li>
+ 
+<li>The replacement of component expressions by strict synonyms of the
+same type</li>
+
+<li>&lambda;-conversion (see
+ <a href="supplementD.html">supplement D</a>).</li>
+ </ul>
+
+<p>
+Alternative (1) raises a constellation of issues (see the citations to
+follow). However, the basic issue can be seen from the following
+example adopted from Kripke&rsquo;s thought experiment (1979),
+according to which Peter does not realize that Paderewski the great
+concert pianist is Paderewski the Polish diplomat. Consider examples
+(1)&ndash;(5), where <em>a =</em> Paderewski:</p>
+
+<dl class="sentag">
+<dt>(1)</dt>
+<dd>\(a\) is an autodidact.</dd>
+<dt>(2)</dt>
+<dd>\(a\) is taught by \(a.\)</dd>
+<dt>(3)</dt>
+<dd>\(\lambda x \hdot x\) is taught by \(a a.\)</dd>
+<dt>(4)</dt>
+<dd>\(\lambda x \hdot a\) is taught by \(x a.\)</dd>
+<dt>(5)</dt>
+<dd>\(\lambda x \hdot x\) is taught by \(x a.\)</dd>
+</dl>
+
+<p>
+In Peter&rsquo;s case, it seems plausible that he might believe that
+(2) but <em>not</em> believe that (5) as well as not being in a
+position to appreciate that his beliefs are inconsistent
+(Salm&oacute;n 2010). It is unclear how this can be explained by
+Alternative (1), which would have it that (1)&ndash;(5) express the
+same proposition (see Russell 1905; Kripke 2005; Salm&oacute;n 2010
+and the citations therein for further discussion).</p>
+
+<p>
+Church&rsquo;s own counterexample to Alternative (1) is stated in
+unpublished correspondence that is described in Anderson (2001) and
+Salm&oacute;n (2010). Recalling (from
+ <a href="supplementD.html">supplement D</a>)
+ that numerals and arithmetical operations can be encoded in the
+&lambda;-calculus, the &lambda;-expression designating \(m \times n\)
+will in general be &lambda;-convertible with &ldquo;\(k\) &rdquo;,
+where &ldquo;\(k\)&rdquo; is the &lambda;-expression designating the
+product of \(m \times n.\) So, &ldquo;\(m \times n\)&rdquo; and
+&ldquo;\(k\)&rdquo; express the same concept by Alternative (1).
+Nevertheless, John might have the false belief reported in (6) without
+thereby having the false belief reported in (7):</p>
+
+<dl class="sentag">
+<dt>(6)</dt>
+<dd>John believes that \(k\) is prime</dd>
+<dt>(7)</dt>
+<dd>John believes that \(m \times n\) is prime.</dd>
+</dl>
+
+<p>
+The criterion that Church seems to favor, for the purposes of
+analyzing attributions of propositional attitudes in LSD, is
+Alternative (0), which is motivated in part by a criticism of
+Carnap&rsquo;s proposal that two sentences are synonymous iff they are
+intensionally isomorphic (1947). A given sentence \(S\) in a language
+\(L\) is <em>intensionally isomorphic with</em> another given sentence
+\(S'\) in a language \(L'\) just in case \(S\) and \(S'\) are
+syntactically isomorphic and each of the syntactic counterparts in
+\(S\) and \(S'\) are cointensional with each other. Carnap&rsquo;s
+requirement of syntactic isomorphism places excessively stringent
+requirements on synonymy. &ldquo;Anita is Sarah&rdquo;s lawyer&rsquo;
+and &ldquo;Anita is Sarah&rdquo;s attorney&rsquo; are intensionally
+isomorphic. Arguably, so are &ldquo;Sarah is an autodidact&rdquo; and
+&ldquo;Sarah is self-taught&rdquo; (assuming that
+&ldquo;autodidact&rdquo; is a compound such that &ldquo;auto&rdquo;
+can be mapped to &ldquo;self&rdquo; and &ldquo;didact&rdquo; to
+&ldquo;taught&rdquo;). However, &ldquo;Anita is Sarah&rsquo;s
+physician&rdquo; and &ldquo;Anita is Sarah&rdquo;s medical
+doctor&rsquo;, though intuitively synonymous, are not intensionally
+isomorphic because the sentences are not syntactically isomorphic.</p>
+
+<p>
+Moreover, as Church argues, Carnap&rsquo;s semantic requirement that
+the counterparts be cointensional (or necessarily materially
+equivalent) is too weak (1954). Consider Fermat&rsquo;s Last Theorem,
+which is highly non-trivial (and was still unproven when Church gave
+the example):</p> 
+
+\[ \nsim [(\exists x)(\exists y)(\exists z)(\textrm{positive integers } x, y, z) x^n+ y^n = z^n \cdot n \gt 2]]\]
+
+<p>
+Suppose that we introduce into a language \(L\) two number-theoretic
+predicates &ldquo;\(P\)&rdquo; and &ldquo;\(Q\)&rdquo;, and stipulate
+in the meta-language that</p> 
+
+\[\begin{align} 
+Pn &amp; \equiv_{df} n \lt 3\\ 
+Qn &amp; \equiv_{df} (\exists x)(\exists y)(\exists z)(\textrm{positive integers } x, y, z) [x^n + y^n = z^n]\\ 
+A\approx B &amp; \equiv_{df} A \textrm{ is cointensional with } B\\ 
+\end{align}\]
+
+<p>
+Given this set up, the following are syntactically isomorphic as well
+as cointensional, and so intensionally isomorphic:</p> 
+
+\[(\exists n) [Qn\approx Pn]\]
+
+<p>
+and</p> 
+
+\[(\exists n) [Pn\approx Pn].\]
+
+<p>
+Yet someone could believe the proposition expresses by the second
+without believing that expressed by the first, because the equivalence
+(which depends on the theorem) is non-trivial.</p>
+
+<p>
+Church made a modification to Carnap&rsquo;s criterion by weakening
+Carnap&rsquo;s excessively strict syntactic requirement and
+strengthening his rather lax semantic one. According to Alternative
+(0) two complex concepts are identical iff their corresponding complex
+expressions are <em>synonymously isomorphic</em>; that is, they have
+the same free variables and can each be obtained from the other by a
+sequence of applications of:</p>
+
+<ul>
+
+<li>Alphabetic changes of bound variables, i.e., alpha-conversion (see
+ <a href="supplementD.html">supplement D</a>)</li>
+ 
+<li>The replacement of a component expression of a given type by a
+simple synonym of the same type</li>
+
+<li>The replacement of a component simple expression of a given type
+by a synonym of the same type</li>
+</ul>
+
+<p>
+In contrast with Alternative (1), &lambda;-conversion is not allowed,
+so the main issue here is what Church means by &ldquo;synonym&rdquo;.
+The key point appears to be that while complex expressions of a type
+can be stipulated to be synonymous with simple expressions of that
+type, and while simple expressions of a type can be stipulated to be
+synonymous with complex or simple expressions of that type,
+<em>complex expressions cannot be stipulated to be synonymous with
+other complex expressions</em>. A plausible reason for this is that
+complex expressions express corresponding complex concepts, which, if
+they have different parts and structure, are distinct. (This is
+related to the aforementioned Russell-Myhill Paradox discussed in
+ <a href="index.html#RussMyhiPara">section 4.5</a>
+ of the main text.)</p>
+
+<p>
+This takes care of the above counterexample to intensional
+isomorphism, since &ldquo;\(Pn\)&rdquo; and &ldquo;\(Qn\)&rdquo; are
+stipulated to be synonymous with different complexes. Therefore,
+&ldquo;\((\exists n) [Qn\approx Pn]\)&rdquo; and &ldquo;\((\exists n)
+[Pn\approx Pn]\)&rdquo; are not deemed to express the same proposition
+by Alternative (0).</p>
+
+<p>
+This fine-grained criterion will individuate propositions finely
+enough for the purposes of analyzing attributions of propositional
+attitudes in LSD. However, it arguably individuates propositions too
+finely for some purposes. Consider, once again:</p> 
+
+\[\nsim [(\exists x)(\exists y)(\exists z)(\textrm{positive integers }x, y, z) [x^n + y^n = z^n \cdot n \gt 2]]\]
+
+<p>
+and</p> 
+
+\[(\exists x)(\exists y)(\exists z)(\textrm{positive integers }x, y, z) [x^n + y^n = z^n ] \supset n = 1 \lor n = 2.\]
+
+<p>
+As Bernays points out, these cannot be obtained from one another by
+the above substitutions (1961). However, while a <em>layperson</em>
+might believe one without believing the other, <em>they both express
+the same piece of mathematical information value</em>, viz.
+Fermat&rsquo;s Last Theorem. So it is arguable that Alternative (0)
+individuates propositions too finely to be a correct theory of
+mathematical information value.</p>
+
+<p>
+Numerous other counterexamples have been proposed to Alternative (0),
+which might also suggest that it is too fine grained for certain
+purposes; these are discussed by Anderson (1980, 1986, 1987, 1998,
+2001), Bealer (1982), Kripke (2005) and Salm&oacute;n (2010).</p>
+
+<h3 id="E5RussPhilLang">E.5 Russellian Philosophy of Language</h3>
+
+<p>
+Earlier we saw that Frege&rsquo;s treatment of indirect contexts
+requires us to prohibit the application of Leibniz&rsquo;s law,
+because names&mdash;including definite descriptions&mdash;with the
+same customary <em>designatum</em> but different customary senses
+cannot be substituted <em>salva veritate</em> within such contexts.
+Russell&rsquo;s solution (1905; PM) is to distinguish definite
+descriptions from proper names and to analyze the former as complex
+quantifier phrases that can have either primary or secondary
+occurrence&mdash;that is, either wide or narrow scope&mdash;with
+respect to a propositional attitude verb. According to Russell&rsquo;s
+solution, the following attributions all have very different logical
+forms, which is why deducing them from each other by Leibniz&rsquo;s
+law is prohibited:</p>
+
+<dl class="sentag tag5em">
+<dt>(Id)</dt>
+<dd>Hammurabi wishes to know whether Hesperus is Hesperus.</dd>
+<dt>\((2^{ndry})\)</dt>
+<dd>Hammurabi wishes to know whether [the unique \(x: x\) is the first
+planet seen shining in the morning] is Hesperus.</dd>
+<dt>\((1^{ry})\)</dt>
+<dd>[the unique \(x: x\) is the first planet seen shining in the
+morning] is such that Hammurabi wishes to know whether \(x\) is
+Hesperus.</dd>
+</dl>
+
+<p>
+While Church evidently considers Russell&rsquo;s philosophy of
+language to be worthy of serious consideration (1943a; 1956a:
+&sect;00; 1951b: fn. 14), he also considers the distinction between
+primary and secondary occurrences of descriptions to be an unwelcome
+complication imposed by the theory of descriptions (1982: fn. 2).
+Moreover, in later work (1989), Church shows that Russell&rsquo;s
+theory of descriptions is not sufficient to provide an adequate
+analysis of attributions of propositional attitudes if descriptions
+are eliminated from \((2^{ndry})\) using the method of <em>PM</em>
+(1925&ndash;27&nbsp;edition, *14) along with its principle of
+extensionality for propositional functions. The important moral is
+that the <em>intensional</em> propositional functions from
+Russell&rsquo;s earlier (1905; PM) are also crucial to his
+solution.</p>
+
+<p>
+Church also observes in his (1984) that in the system of <em>PM</em>
+the correspondents of verbs of propositional attitude would have to be
+functions and that such functions cannot vary in adicity. How, then,
+can one express attributions of propositional attitudes, which may be
+of varying complexity? Church introduces a connective for
+propositional identity for which we will use a bold equality sign, so
+that (in addition to identities between propositional variables such
+as &ldquo;\(p = q\)&rdquo;) identities between <em>wffs</em> are well
+formed. (The connective is governed by fifteen axioms discussed in
+ <a href="index.html#Para">section 4</a>
+ and
+ <a href="supplementF.html">supplement F</a>.)
+ With this in hand, constructions such as &ldquo;\(p \sequiv\) All
+planets are massive&rdquo; are well formed; so we can say, for
+example, &ldquo;\(p \sequiv\) All planets are massive &amp; Believes
+(Sam, \(p)\)&rdquo;.</p>
+
+<p>
+As for the failure of Leibniz&rsquo;s law, instead of appealing to the
+theory of descriptions, Church proposes a neo-Russellian logistic
+theory, not of concepts (as in LSD) but of structured entities that
+are <em>un-conceptualized</em>&mdash;in the sense that they do not
+consist of concepts&mdash;, which he calls &ldquo;propositional
+surrogates&rdquo; (1989, 1995c). Unlike the neo-Russellian structured
+<em>propositions</em> of Kaplan (1989), these surrogates are composed
+entirely out of semantic extensions. Further, because they correspond
+structurally to complex expressions, which consist of predicates or
+relations with \(n\) argument places, the surrogates themselves are
+also structured complexes&mdash;specifically, ordered \(n+1\)-tuples
+composed of semantic extensions. These extensions include individuals
+(the designata of names), &ldquo;propositional functions&rdquo; in
+Church&rsquo;s sense of functions from individuals to truth values
+(such as that associated with &ldquo;\(x\) is a planet&rdquo;),
+functions from objects to objects (such as that associated with
+&ldquo;\(x\)&rdquo;s mother&rsquo;), as well as functions from
+functions to either individuals or truth values. These, he suggests,
+can provide an analysis of attributions of propositional attitudes (in
+a way that is inspired by Ajdukiewicz (1960, 1967)).</p>
+
+<p>
+For example, according to this proposal,</p>
+
+<dl class="sentag">
+<dt>(1)</dt>
+<dd>George IV wishes to know whether Scott is the author of
+<em>Waverley</em></dd>
+</dl>
+
+<p>
+has two different readings, according to which George IV is related to
+different surrogates. To find the first reading, we rewrite (1) as
+follows (where where \(G =\) &ldquo;George IV&rdquo; and \(\stK
+\sequiv\) &ldquo;wishes to know whether&rdquo;)</p> 
+
+\[\tag{2} \stK (G, \lambda X \lambda x \lambda y \hdot Xxy, =, \textit{the author of Waverley}, \textit{Scott})\]
+
+<p>
+\(\stK\) is a function <em>from</em> George IV, <em>and</em> the
+function designated by &ldquo;\(\lambda X \lambda x \lambda y \hdot
+Xxy\)&rdquo;, <em>together with</em> the latter function&rsquo;s three
+arguments, to a truth value. Further, we assume that the adicity of
+\(\stK\) shouldn&rsquo;t vary depending on the adicity of the function
+that occupies its 2<sup>nd</sup> argument position (although see
+Taylor &amp; Hazen 1992); and so we keep \(\stK\)&rsquo;s first
+argument (George IV) and replace the others with an ordered
+<em>n</em>-tuple consisting of the aforementioned function
+<em>and</em> its arguments:</p> 
+
+\[\tag{3} \stK (G, \langle \lambda X \lambda x \lambda y \hdot Xxy, =, \textit{the author of Waverley}, \textit{Scott} \rangle)\]
+
+<p>
+What (3) says is that George IV wishes to know about the relation of
+identity, the author of <em>Waverley</em>, and Scott, whether the
+second stands in the first to the third. Since the author of
+<em>Waverley</em> = Scott, we can obtain:</p> 
+
+\[\tag{4} \stK (G, \langle \lambda X \lambda x \lambda y \hdot Xxy, =, \textit{Scott}, \textit{Scott} \rangle.)\]
+
+<p>
+On the other hand, (1) can also be read as reporting that George IV
+wishes to know whether</p> 
+
+\[\tag{5} \stK (G, \langle \lambda X \lambda f \lambda x \lambda y \hdot X (f x,) y, =, \textit{the author of}, \textit{Waverley}, \textit{Scott} \rangle)\]
+
+<p>
+That is, George IV wishes to know about the relation of identity, the
+function <em>the author of</em>, <em>Waverley</em>, and Scott, whether
+the second applied to the third stands in the first to the fourth.
+Intuitively, wishing to know <em>de re</em> about the author of
+<em>Waverley</em> is wishing to know about Scott, since the author of
+<em>Waverley</em> = Scott. Wishing to know <em>de re</em> about
+<em>the author of</em> and <em>Waverley</em> without having applied
+the former to the latter, is not wishing to know about Scott. So, if
+Sam hasn&rsquo;t applied the function, he may wish to know (5) but not
+(4).</p>
+
+<p>
+By calling these structured entities &ldquo;surrogates&rdquo;, Church
+<em>might</em> be showing awareness that structured entities composed
+of extensions do not unify to produce intrinsically representational
+propositions. Rather, they are intended as a guide to axiomatizing the
+theory of propositions. However, since Church is explicit that
+surrogates are individuated in accordance with either Alternative (0)
+or Alternative (1), there is a danger that any axiomatic theory of
+them will be vulnerable to the Russell-Myhill Paradox (discussed in
+ <a href="supplementF.html">supplement F</a>).
+ Church himself notes that</p>
+
+<p>
+The task of finding a suitable axiomatic theory of propositions has
+seemed very difficult in the past, especially in regard to the
+question of identity of propositions and it may well be rendered much
+easier by using propositional surrogates to guide the choice of
+axioms, and in the end perhaps even to provide a relative consistency
+proof (1989: fn. 21 [BE: 838&ndash;9]).</p>
+
+<p>
+Currently, however, it is not known whether such a consistency proof
+can be provided.</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+Harry Deutsch
+&lt;<a href="m&#97;ilto:hdeutsch&#37;40ilstu&#37;2eedu"><em>hdeutsch<abbr title=" at ">&#64;</abbr>ilstu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+Oliver Marshall
+&lt;<a href="m&#97;ilto:omarshall&#37;40gradcenter&#37;2ecuny&#37;2eedu"><em>omarshall<abbr title=" at ">&#64;</abbr>gradcenter<abbr title=" dot ">&#46;</abbr>cuny<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

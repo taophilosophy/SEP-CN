@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Computational Philosophy &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/computational-philosophy/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/computational-philosophy/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computational-philosophy">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Computational Philosophy</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ Although not included here, Billy Wheeler has made an appeal for
+computational models in metaphysics (Wheeler 2019). Since 1994 Magnani
+Lorenzo has directed a
+ <a href="http://www-9.unipv.it/webphilos_lab/wordpress/" target="other">Computational Philosophy Lab</a>
+ at the University of Pavia, emphasizing abduction and model-based
+cognition.</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ Argument undoubtedly has a history as old as human communication, and
+the self-conscious consideration of what makes an argument valid
+cannot have been far behind. The latter is clearly evident in the
+Sophists and Plato (see Bobzien 2019). The first structured and
+systematized formalization of valid argument, however, is generally
+credited to Aristotle. The vision of formalization embodied in
+Aristotle is breathtaking: that properties crucial to the rationality
+of something as richly human and context-dependent as argument, tied
+to content and intended for social persuasion, can be captured in a
+skeleton of icy symbolism that has neither human content nor social
+context. It is that vision of formalization as capturing the validity
+of argument&mdash;of various forms and regardless of
+application&mdash;that continues through the 2500 years of the
+development of logic since Aristotle.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ The combined work of G&ouml;del, Church and Turing in the 1930s
+demonstrated the close connection between formal systems, general
+recursive functions, and Turing&rsquo;s abstract vision of
+symbol-processing machines (G&ouml;del 1931, Church 1936, Turing
+1936&ndash;1937). That abstract vision lay the groundwork for fully
+concrete symbol-processing machines: our contemporary computers. In
+computational philosophy, that contemporary computer power is applied
+to a range of philosophical questions, including complex questions in
+logic.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ Leibniz appears to have been inspired in part by the work of Ramon
+Llull, whose <em>Ars Magna</em> or <em>Ars generalis ultima</em> of
+1308 outlines what is intended as a combinatorial tool of argument and
+analysis in ethics and religion (Lull 1308 [1986]). Different
+permutations of principles regarding goodness, eternity, will, truth,
+concordance, and the like are intended to generate and answer
+questions such as &ldquo;is eternal goodness concordant?&rdquo;
+Lull&rsquo;s vision traces in turn to the medieval Arabic
+<em>zairja</em>, a combinatoric algorithm intended to generate truths
+from a finite number of elements (Gray 2016, Khald&#363;n 1377
+[1958]). In fiction, the image of combinatoric machines continues in
+Herman Hesse&rsquo;s <em>The Glass Bead Game</em>, a version set far
+in the future. The game is described as &ldquo;a kind of synthesis of
+human learning&rdquo; in which elements or themes are combined, with
+deeper and more varied associations developing as the game progresses
+(Hesse 1943).</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ Many of the features of the Hegselmann-Krause model are anticipated
+in Lehrer and Wagner (1981), though there the emphasis is on belief
+convergence rather than polarization.</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ In a series of linked articles, Alexander Riegler and Igor Douven
+extend the Hegselmann Krause model in several ways (Riegler &amp;
+Douven 2009, 2010, Douven &amp; Riegler 2010). They introduce
+parameters regarding the degree to which an agent&rsquo;s evidence may
+be inaccurate, a different weighting for the influence of different
+agents, and a &ldquo;space&rdquo; of interaction in the cellular
+automata tradition. In a further extension, their agents hold
+&ldquo;theories&rdquo; composed of sets of logically linked beliefs
+rather than simply single beliefs, and interaction is guided by an
+&ldquo;epistemic space&rdquo; of theory proximity as well. Riegler and
+Douven find a consistent set of results in these extensions,
+indicating that increased interaction with other agents helps agents
+better track the truth in the long run, but that stronger emphasis on
+individual evidence is faster.</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ The attempt to track the impact of argumentative strategies and
+cognitive limitations with regard to the exchange of arguments
+continues. For example, see Singer et al. (2021).</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ Technically, Weisberg and Muldoon&rsquo;s agents occupy square cells
+on a grid. Interaction is with their &ldquo;Moore neighborhood&rdquo;:
+the 8 cells touching theirs on each side and corner. </p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ In her critique, Thoma (2015) in fact outlines an alternative
+landscape model which supports claims regarding the epistemic
+advantage of division of labor. A crucial difference from the Weisberg
+and Muldoon model is that agents are not limited to information and
+movement in their immediate theoretical neighborhood.</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ Zollman (2005) also merges the work on communication with the work on
+game-theoretic cooperation above. Agents on a spatialized grid develop
+a signaling a system as outlined, but also play Stag Hunt with
+neighbors, where play in Stag Hunt can be conditional on the signal
+received. Play in Stag Hunt co-evolves with signaling systems, with
+the result that all agents end up playing Stag (Skyrms 2010).</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ We leave discussion of computation in the context of epistemic logic
+to other contexts (Fagin, Halbern, Moses, &amp; Vardi 1995; van
+Benthem 2006; Rendsvig &amp; Symons 2006 [2019]). In classical form,
+epistemic logic is an attempt to model belief and knowledge with focus
+on the individual and at a particular time. The classic source for
+extension to dynamic logics&mdash;in which one considers how an
+individual&rsquo;s body of knowledge changes with the addition
+(expansion) or removal (contraction) of particular beliefs, or the
+replacement of one belief by another (revision)&mdash;is the AGM
+model, named after developers Carlos Alchourr&oacute;n, Peter
+G&auml;rdenfors, and David Makinson (Alchourr&oacute;n,
+G&auml;rdenfors, &amp; Makinson 1985; see also van Ditmarsch, van der
+Hoek, &amp; Kooi 2008; Baltag &amp; Renne 2016 [2019]). Work has also
+been done on expanding epistemic logic to a form appropriate to groups
+rather than individuals (Halpern &amp; Moses 1984; Baltag, Boddy and
+Smetts 2018). A link between that work and the agent-based approach
+highlighted above would be fascinating, but has not yet been
+developed.</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ Herbert Simon, interviewed by A. Dale, Pittsburgh, April 21, 1994.
+Quoted in MacKenzie (1995: 11).</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ Also of note is Paradox, developed by Koen Lindstr&ouml;m Claessen and
+Niklas S&ouml;rensson.</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ For a very different computational approach to logic see Mar and Grim
+(1991) and St. Denis and Grim (1997), both further developed in Grim,
+Mar, and St. Denis (1998).</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ For a very different computational approach to philosophy of
+religion, more akin to agent-based modeling, see Shults (2019).</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2024</a> by
+
+<br />
+Patrick Grim
+&lt;<a href="m&#97;ilto:patrick&#37;2egrim&#37;40stonybrook&#37;2eedu"><em>patrick<abbr title=" dot ">&#46;</abbr>grim<abbr title=" at ">&#64;</abbr>stonybrook<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+Daniel Singer
+&lt;<a href="m&#97;ilto:singerd&#37;40phil&#37;2eupenn&#37;2eedu"><em>singerd<abbr title=" at ">&#64;</abbr>phil<abbr title=" dot ">&#46;</abbr>upenn<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

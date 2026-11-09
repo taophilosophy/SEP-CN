@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Quantum Logic and Probability Theory &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/qt-quantlog/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/qt-quantlog/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=qt-quantlog">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Quantum Logic and Probability Theory</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ A few qualifications are in order already: In a more general
+formulation, one considers the lattice of projections of a von Neumann
+algebra. Only in the context of non-relativistic quantum mechanics,
+and then only absent superselection rules, is this algebra a type I
+factor. For the expository purposes of this paper, we restrict our
+discussion to this context.</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2. </a>
+ Throughout this paper, I use the term &ldquo;logic&rdquo; rather
+narrowly to refer to the algebraic and order-theoretic aspect of
+propositional logic. There exists a substantial technical literature
+devoted to non-classical formal deductive systems that are intended to
+stand to quantum propositional logics rather as classical deductive
+systems stand to Boolean algebras. A good reference for this material
+is Kalmbach 1983.</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ It is important to note here that even in classical mechanics, only
+subsets of the state-space that are measurable (in the sense of
+measure theory) are regarded as representing observable properties of
+the system, and only these are assigned probabilities. The difference
+is that in the classical case, the observable properties form a
+sub-Boolean algebra of the power set of \(S\), while in the quantum
+case, they do not.</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ For a recent, and particularly sharp, critique of Putnam&rsquo;s
+proposal, see Maudlin 2005. A more slightly more sympathetic treatment
+is given by Bacciagaluppi (2009), who suggests that one&rsquo;s
+attitude towards the kind of revision of logic Putnam proposes will be
+bound up with one&rsquo;s preferences regarding a physical
+interpretation of quantum mechanics. In particular, Bacciagaluppi
+suggests that the Everett interpretation that consistent with
+something resembling Putnam&rsquo;s thesis. </p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ The first explicit formulation of this interpretation seems to have
+been given by Jauch and Piron (1969).</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ So-called <em> modal </em> interpretations of quantum mechanics do
+not attempt to assign actual values (or ranges of values) to <em> all
+</em> observables. Rather, they identify (in various different ways) a
+privileged observable or class of observables as having
+&ldquo;definite values&rdquo;, and thereby avoid the various no-go
+theorems for hidden variables. For references and further details, see
+the
+ <a href="../qm-modal/">entry on modal interpretations of quantum mechanics</a>.
+ </p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ Of course, another possible response to such a question is to dismiss
+it, perhaps with the observation that mathematical models of natural
+phenomena evolve, more or less organically, to fit the facts, and
+require no a priori justification. Or, to put it differently, we can
+insist that quantum logic has the structure that it does just because
+the <em>world</em> has that structure.</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ These include, besides Mackey&rsquo;s original formalism, that of
+Piron (1976), the approach based on partial Boolean algebras of Kochen
+and Specker (1965, 1967), and various approaches emphasizing the
+convex structure of the set of (statistical) states of a system, e.g.,
+Holevo 1982, Ludwig 1983, Pitowsky 1989.</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ Even at this point, a couple of remarks are in order. First, notice
+that \(E\) need not be the set of outcomes of any humanly executable,
+let alone repeatable, measurement or experiment. Any exhaustive set of
+mutually exclusive alternatives will serve, at least as long as some
+sense can be attached to the terms &ldquo;occurrence&rdquo; and
+&ldquo;realization&rdquo; (even as terms of art). Secondly, notice
+that every standard interpretation of probability theory, whether
+relative-frequentist, propensity, subjective or what-have-you,
+represents probability weights mathematically in the same way.&nbsp;
+Thus, the framework just sketched is agnostic among these
+interpretations.</p>
+</div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ It is worth remarking that all approaches to a generalized
+probability theory contain some mechanism for identifying outcomes of
+distinct measurements or values of distinct observables, though this
+mechanism varies from author to author . The most common approaches
+are to identify outcomes that are equi-probable in every state (as in
+the work of Mackey), or to identify outcomes that are certain (i.e.,
+have probability 1) in exactly the same states (as in the work of
+Piron). Both of these prescriptions become problematic in the context
+of sequential measurements&mdash;see, e.g., Cooke and Hilgevoord 1981.
+The Foulis-Randall theory has the advantage of remaining neutral as to
+the precise mechanism whereby outcomes are identified.</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ It is easy to see that this condition, which is sometimes used as the
+definition of algebraicity, implies algebraicity as we have defined
+it. For the converse, we argue as follows. Let \(A, B, C\) be events
+of an algebraic test space \(\mathcal{A}\), with \(A \sim B\) and
+\(C\) complementary to \(B\). Then, because \(\mathcal{A}\) is
+algebraic, \(A\binbot C\), and so \(A\cup C\) is an event. To show
+that \(C\) is complementary to \(A\), we need to show that \(A\cup C\)
+is a test. To do this, let \(D\) be complementary to \(A\cup C\). Then
+\(C\cup D\) is complementary to \(A\), and, since \(A \sim B\) , we
+have \((C\cup D)\binbot B\). But then \(B\cup C\cup D\) is an event,
+containing the test \(B\cup C\).</p>
+
+<p>
+In an algebraic test space, tests are maximal events; that is, a test
+has no non-empty complement. If \(E\) and \(F\) are tests and
+\(E\subseteq F\), then we have \(F \sim E\) (since the empty set is a
+common complement of \(F\) and \(E\)); since \(E\binbot(F / E)\), we
+have \(F\binbot(F / E)\) as well, and so \((F / E)\) is empty, and \(F
+= E\).</p>
+
+<p>
+It follows that \(D\) is empty, whence \(A\cup C\) is a test.</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ Cabello (2012,
+ <a href="index.html#Oth">Other Internet Resources</a>)
+ attributes to Ernst Specker the following comment: &ldquo;Do you know
+what, according to me, is the fundamental theorem of quantum
+mechanics? (&hellip;) That is, if you have several questions and you
+can answer any two of them, then you can also answer all of
+them.&rdquo; This is exactly regularity. As Harding&rsquo;s results
+show, it is very far from uniquely quantum-mechanical. On the other
+hand, regularity, and even orthocoherence, are strong constraints on a
+probabilistic model. For instance, it is pointed out in Henson 2012
+ (<a href="index.html#Oth">Other Internet Resources</a>)
+ that orthocoherence enforces the quantum-mechanical upper-bound on
+the so-called &ldquo;KCBS&rdquo; parameter, one proposed measure of
+the degree to which a probabilistic model is contextual. Othocoherent
+probabilistic models, then, cannot be, by this measure, more
+&ldquo;non-contextual&rdquo; than allowed by quantum mechanics. </p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ The approach taken here is modeled on, but somewhat less general
+than, that of Foulis, Piron and Randall (1983). See also Randall and
+Foulis (1985).</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ Indeed, the pair \((S, F)\) is an <em>adjunction</em> between
+\(\wp(X)\) and \(\wp(\Delta)\)&mdash;that is, for any \(\Gamma \in
+\wp(\Delta)\) and any \(J \in \wp(X)\), we have \(S(\Gamma) \subseteq
+J\) if and only if \(\Gamma \subseteq F(J)\). It follows that the
+mappings </p>
+
+\[\Gamma \rightarrow F(S(\Gamma)) \textrm{ and  }J \rightarrow S(F(J))\]
+
+<p>
+ are respectively a closure operator on
+\(\wp(\Delta)\) and an interior operator on \(\wp(X)\). The collection
+of closed subsets of \(\Delta\) and the collection of open subsets of
+\(X\) (which are exactly the ranges of the mappings \(F\) and \(S)\)
+are complete lattices, closed under intersection and union
+respectively, and are mapped isomorphically onto one another by \(S\)
+and \(F\). (See the supplement on ordering relations for further
+details.)</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15. </a>
+ In the case where \(\Delta\) is a <em>convex</em> set of states the
+closed subsets of \(\Delta\) are <em>faces</em> of \(\Delta\); that
+is, \(F(J)\) is itself convex, and if a convex combination of states
+lies in \(F(J)\), then those states themselves lie in \(F(J)\). The
+faces of any convex set \(\Delta\), ordered by inclusion, form a
+complete lattice, closed under intersection. Thus, in this context,
+the property lattice is a complete sublattice of the face lattice of
+the state-space. This is the starting point for a number of approaches
+to generalized probability theory. Note that if \(\Delta\) is a
+simplex, as it is for classical models, then the face lattice of
+\(\Delta\) is a Boolean algebra.</p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ This condition fails for the projection lattice modeling a
+quantum-mechanical system with superselection rules, but continues to
+hold for the lattices associated with each superselection sector.</p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ The first such examples were obtained by H. Keller. Recently, M. P.
+Soler has shown that if a generalized Hilbert space contains any
+infinite orthonormal set, it must in fact be a classical Hilbert
+space&mdash;i.e., the division ring D must be the field of real
+numbers, the field of complex numbers, or the ring of quaternions. See
+Holland 1995 for references and further discussion. For an interesting
+recent attempt to motivate the hypothesis of Soler&rsquo;s theorem,
+see Pitowsky 2006. </p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ For a development of this idea in a more general context, see Wilce
+2000a. </p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ Interesting work of Meyer (1999) and Clifton &amp; Kent (2000)
+shows that the quantum test space \(F(\mathbf{H})\) contains a dense
+semi-classical sub-test space. A detailed hidden-variables model along
+these lines has not been seriously entertained (and would presumably
+be otherwise problematic), but these results do suggest that
+experiments having finite precision can not rule out non-contextual
+hidden variables.</p>
+
+</div>
+
+<div id="note-20">
+
+<p>
+<a href="index.html#ref-20">20.</a>  Essentially equivalent structures
+called <em> weak orthoalgebras </em> had earlier been introduced by
+R. Giuntini and H. Grueling [1989]. Also equivalent are the <em>
+D-posets </em> of Kopka and Chovanec [1994]. </p>
+</div>
+
+<div id="note-21">
+
+<p>
+<a href="index.html#ref-21">21.</a> In fact, \([0,1]^{E}\) is also an
+example of an MV algebra, a class of algebraic structures
+providing the standard semantics for Lukasiewicz&rsquo;s multivalued logic.
+MV algebras are provably the same thing as lattice-ordered effect
+algebras. See Kopka and Chovanec [1994] or Foulis [2000].</p>
+</div>
+
+
+<div id="note-22">
+
+<p>
+<a href="index.html#ref-22">22.</a>  In fact, de
+Wetering&rsquo;s result does not require part (i) of condition (d). </p>
+</div>
+
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="https://www.susqu.edu/profiles/wilce/" target="other">Alexander Wilce</a>
+&lt;<a href="m&#97;ilto:wilce&#37;40susqu&#37;2eedu"><em>wilce<abbr title=" at ">&#64;</abbr>susqu<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2025</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

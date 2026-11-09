@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Proof-Theoretic Semantics &gt; Definitional Reflection and Paradoxes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/proof-theoretic-semantics/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/proof-theoretic-semantics/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theoretic-semantics">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Proof-Theoretic Semantics</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2><a name="DefRefPar">Definitional Reflection and Paradoxes</a></h2>
+
+<p>
+The theory of definitional reflection is most conveniently framed in a
+sequent-style system. If the definition of \(A\) has the form</p>
+
+\[ \mathbb{D}_A\ \left\{ \begin{array}{rcl}
+A &amp; \Leftarrow &amp; \Delta_1 \\
+ &amp; \vdots &amp; \\
+ A &amp; \Leftarrow &amp; \Delta_n 
+\end{array} \right. \]
+
+<p>
+and the \(\Delta_i\) have the form &lsquo;\(B_{i1}, \ldots,
+B_{ik_i}\)&rsquo;, then the right-introduction rules for \(A\)
+(definitional closure) are</p>
+
+<p>
+
+\[ (\vdash A)\frac{\Gamma \vdash B_{i1} \quad \ldots \quad \Gamma \vdash B_{ik_i}}{\Gamma \vdash A} \]
+ </p>
+
+<p>
+or, in short,</p>
+
+<p>
+
+\[ \frac{\Gamma \vdash \Delta_i}{\Gamma \vdash A}\quad (1 \le i \le n). \]
+ </p>
+
+<p>
+and the left-introduction rule for \(A\) (definitional reflection)
+is</p>
+
+<p>
+
+\[ (A \vdash)\frac{\Gamma, \Delta_1 \vdash C \quad \ldots \quad \Gamma, \Delta_n \vdash C}{\Gamma, A \vdash C} \]
+ </p>
+
+<p>
+If \(\bot\) is an atom for which no definitional clause in given, then
+\(\bot \vdash C\) is derivable for any \(C\) &mdash; we just have to
+apply definitional reflection with the empty set \((n = 0)\) of
+premisses. &ldquo;\(\Rightarrow\)&rdquo; denotes a structural
+implication for which we assume that the rules</p>
+
+<p>
+
+\[ \frac{\Gamma, A \vdash B}{\Gamma \vdash A \Rightarrow B}(\vdash \Rightarrow) \qquad \frac{\Gamma\vdash A}{\Gamma,(A \Rightarrow B)\vdash B}(\Rightarrow \vdash) \]
+ </p>
+
+<p>
+are available. They can be obtained immediately from Gentzen&rsquo;s
+sequent-rules for implication.</p>
+
+<p>
+Following Halln&auml;s (1991), we now consider the following
+definition which consists of a single clause defining \(R\) in terms
+of its own negation:</p>
+
+<p>
+
+\[ \mathbb{D}_R \left\{ R \Leftarrow (R \Rightarrow \bot) \right. \]
+ </p>
+
+<p>
+Then we can derive absurdity, if the following structural principles
+are at our disposal: (i) initial sequents of the form \(A \vdash A\),
+(ii) the contraction of identical formulas in the antecedent and (iii)
+the cut rule.</p>
+
+<div class="center nocaption">
+<img alt="derivation of _|_" src="fig2.7.png" style="width:346px" />
+</div>
+
+<p>
+There are various strategies to deal with this phenomenon, depending
+on which structural principle one wants to tackle.</p>
+
+<p>
+(i) We may restrict initial sequents \(A\vdash A\) to those cases,
+where there is no definitional clause for \(A\) available, i.e. where
+\(A\) cannot be introduced by definitional closure or definitional
+reflection. The rationale behind this proposal is that, if \(A\) has a
+definitional meaning, then \(A\) should be introduced according to its
+meaning and not in an unspecific way. This corresponds to the idea of
+the logical sequent calculus, in which one often restricts initial
+sequents to the atomic case, i.e., to the case, where no
+meaning-determining right and left introduction rules are available.
+If we impose this restriction on the definition of \(R\), then the
+above derivation is no longer well-formed. As there is a definitional
+rule for \(R\), we are not entitled to use the initial sequent \(R
+\vdash R\). On the other hand, the initial sequent is not reducible to
+any other, more elementary initial sequent which is permitted. This
+way of proceeding was proposed by Kreuger (1994) and is related to
+using a certain three-valued semantics for logic programming (see
+J&auml;ger and St&auml;rk, 1998).</p>
+
+<p>
+(ii) If we disallow contraction, the above derivation again breaks
+down. This is not very surprising, as, since the work of Fitch and
+Curry, it is well-known that choosing a logic without contraction
+prevents many paradoxes (see the entry on
+ <a href="../curry-paradox/">Curry&rsquo;s paradox</a>,
+ and the entry on
+ <a href="../paradoxes-contemporary-logic/">paradoxes and contemporary logic</a>).
+ It would actually be sufficient to restrict contraction by forbidding
+only those cases in which the two expressions being contracted have
+been introduced in semantically different ways. This means the
+following: In the definitional framework an expression \(A\) can be
+introduced either by means of an initial sequent \(A \vdash A\) or by
+one of the two definitional principles \((\vdash A)\) or
+\((A\vdash)\). In the first case, \(A\) is introduced in an
+<em>unspecific</em> way, i.e., independent of its definition, whereas
+in the second case, \(A\) is introduced in a <em>specific</em> way,
+namely according to its meaning as given by the definition of \(A\).
+It can be shown that contraction is only critical (with respect to cut
+elimination) if a specific occurrence of \(A\) is identified with an
+unspecific one. This is exactly the situation in the above derivation:
+An \(R\) coming from an initial sequent is contracted with an \(R\)
+coming from definitional reflection.</p>
+
+<p>
+(iii) If we disallow cut, then again we are not able to derive
+absurdity. In fact, it is questionable, why we should assume cut at
+all. In standard logic cut is not needed as a primitive rule, since it
+is admissible. We can simply read the above example as demonstrating
+that the rule of cut is not admissible in the system without cut, as
+there is no other rule that can generate \(\vdash \bot\). Instead of
+discussing whether we should force cut by making it a primitive rule,
+we can inversely use the admissibility or non-admissibility of cut to
+be a feature by means of which we classify definitions. Certain
+definitions admit cut, others do not. It is a main task of the theory
+of definitional reflection to sort definitions according to whether
+they render cut admissible. As stressed by Halln&auml;s (1991), this
+is comparable to the situation in recursion theory where one considers
+partial recursive functions. There the fact that a well-defined
+partial recursive function is total is a behavioral feature of the
+function defined and not a syntactic feature of its recursive
+definition (in fact, it is undecidable in general). For example, one
+sufficient condition for cut with cut formula \(A\) to be admissible
+is that the definition of \(A\) is well-founded, i.e. every chain of
+definitional successors starting with \(A\) terminates. Another
+condition is that the bodies of the definitional clauses for \(A\) do
+not contain structural implication. Giving up well-foundedness as a
+definitional principle is not so strange as it might appear at first
+sight. In the revision theory of truth (see the entry on
+ <a href="../truth-revision/">the revision theory of truth</a>),
+ the investigations that have started with the works of Kripke, Gupta,
+Herzberger and Belnap have shown that the exclusion of
+non-wellfoundedness obstructs the view on interesting phenomena.</p>
+
+<p>
+In a typed version, where cut takes the form of a substitution
+rule:</p>
+
+<p>
+
+\[ \frac{\Gamma \vdash t : A \quad \Delta,x : A \vdash s : B}{ \Gamma, \Delta \vdash s[x / t] : B } \]
+ </p>
+
+<p>
+one might consider to restrict cut locally to those cases in which it
+generates a normalizable term \(s[x/ t]\). This can be seen as an
+argument for the sequent calculus as the appropriate formal model of
+deductive reasoning, since only the sequent calculus has this local
+substitution rule. In natural deduction, where one would have to
+restrict the application of modus ponens to non-critical cases,
+substitution is built into the general framework as a global
+principle. Within a natural-deduction framework, Tranchini (2016) has
+proposed to consider derivations of absurdity to be
+&ldquo;arguments&rdquo; rather than &ldquo;proofs&rdquo;,
+understanding arguments as senses of derivations and proofs as their
+denotations, so that a non-normalizable derivation of absurdity is
+meaningful, but lacks a denotation. This approach, which builds on
+Prawitz&rsquo;s (1965, App. B) observation that the derivation of
+Russell&rsquo;s paradox is non-normalizable and Tennant&rsquo;s (1982)
+corresponding analysis of many well-known paradoxes, contributes to
+the research programme to apply Frege&rsquo;s semantical distinction
+between sense and denotation to proofs (see Ayhan, 2021) and thus
+belongs to what might be called &ldquo;intensional proof-theoretic
+semantics&rdquo; (see section
+ <a href="index.html#IntProTheSem">3.7</a>).</p>
+ <script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../mjax/tex-chtml-full.js"></script>
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2023</a> by
+
+<br />
+Peter Schroeder-Heister
+&lt;<a href="m&#97;ilto:psh&#37;40uni-tuebingen&#37;2ede"><em>psh<abbr title=" at ">&#64;</abbr>uni-tuebingen<abbr title=" dot ">&#46;</abbr>de</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

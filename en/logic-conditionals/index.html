@@ -1,0 +1,4185 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+The Logic of Conditionals (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="citation_title" content="The Logic of Conditionals" />
+<meta name="citation_author" content="Egr&eacute;, Paul" />
+<meta name="citation_author" content="Rott, Hans" />
+<meta name="citation_publication_date" content="2021/07/03" />
+<meta name="DC.title" content="The Logic of Conditionals" />
+<meta name="DC.creator" content="Egr&eacute;, Paul" />
+<meta name="DC.creator" content="Rott, Hans" />
+<meta name="DCTERMS.issued" content="2021-07-03" />
+<meta name="DCTERMS.modified" content="2021-07-03" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="#toc">Entry Contents</a></li>
+            <li><a href="#Bib">Bibliography</a></li>
+            <li><a href="#Aca">Academic Tools</a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/logic-conditionals/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-conditionals">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->
+
+<h1>The Logic of Conditionals</h1><div id="pubinfo"><em>First published Sat Jul 3, 2021</em></div>
+
+<div id="preamble">
+
+<p>
+This article provides a survey of classic and recent work in
+conditional logic. We review the problems of a two-valued analysis and
+examine logics based on richer semantic frameworks that have been
+proposed to deal with conditional sentences of the form &ldquo;if
+<em>A</em>, <em>B</em>,&rdquo; including trivalent semantics,
+possible-world semantics, premise semantics, and probabilistic
+semantics. We go on to examine theories of conditionals involving
+belief revision, and highlight recent approaches based on the idea
+that a conditional is assertable provided the truth of its antecedent
+makes a relevant difference to that of its consequent. We close with a
+brief discussion of systems accounting for the interaction of
+conditionals with modalities and speech act operators.</p>
+</div> 
+
+<div id="toc">
+
+<!--Entry Contents-->
+<ul>
+<li><a href="#Intr">1. Introduction</a></li>
+<li><a href="#ThreValuCond">2. Three-Valued Conditionals</a>
+	<ul>
+	<li><a href="#Moti">2.1 Motivations</a></li>
+	<li><a href="#SomeTrivLogi">2.2 Some trivalent logics</a></li>
+	<li><a href="#OpenIssu">2.3 Open issues</a></li>
+	</ul>
+	</li>
+<li><a href="#PossWorlMode">3. Possible Worlds Models</a>
+	<ul>
+	<li><a href="#StriCond">3.1 Strict conditionals</a></li>
+	<li><a href="#VariStriCond">3.2 Variably strict conditionals</a>
+		<ul>
+		<li><a href="#MainSema">3.2.1 Main semantics</a></li>
+		<li><a href="#FramCorrProp">3.2.2 Frame correspondence properties</a></li>
+		</ul>
+		</li>
+	<li><a href="#LogiForCond">3.3 Logics for conditionals</a></li>
+	<li><a href="#NonmLogiPrefMode">3.4 Nonmonotonic logic and preferential models</a></li>
+	<li><a href="#IfImpoExpoSimpDisjAnte">3.5 Or-to-If, Import-Export, Simplification of Disjunctive Antecedents</a></li>
+	</ul>
+	</li>
+<li><a href="#PremSema">4. Premise Semantics</a>
+	<ul>
+	<li><a href="#Moti_1">4.1 Motivations</a></li>
+	<li><a href="#PremFram">4.2 Premise frames</a></li>
+	<li><a href="#CorrOrdeSema">4.3 Correspondence with ordering semantics</a></li>
+	</ul>
+	</li>
+<li><a href="#ProbLogi">5. Probabilistic Logics</a>
+	<ul>
+	<li><a href="#AdamLogi">5.1 Adams&rsquo;s logic</a></li>
+	<li><a href="#LewiTrivTheo">5.2 Lewis&rsquo;s triviality theorem</a></li>
+	<li><a href="#CardImag">5.3 Cardinality and imaging</a>
+	<ul>
+		<li><a href="#Card">5.3.1 Cardinality</a></li>
+		<li><a href="#Imag">5.3.2 Imaging</a></li>
+		</ul>
+		</li>
+	<li><a href="#ProbForCompCond">5.4 Probabilities for compound conditionals</a></li>
+	</ul>
+	</li>
+<li><a href="#BeliReviAppr">6. Belief Revision Approaches</a>
+	<ul>
+	<li><a href="#BeliReviModeRamsTest">6.1 Belief revision models and the Ramsey test</a></li>
+	<li><a href="#GrdeTrivTheo">6.2 G&auml;rdenfors&rsquo;s triviality theorem</a></li>
+	</ul>
+	</li>
+<li><a href="#ReleDiffMaki">7. Relevance and Difference-Making</a></li>
+<li><a href="#ModaSpeeActs">8. Modals and Speech Acts</a>
+	<ul>
+	<li><a href="#Moda">8.1 Modalities</a></li>
+	<li><a href="#BeyoAsse">8.2 Beyond assertion</a></li>
+	</ul>
+	</li>
+<li><a href="#Bib">Bibliography</a></li>
+<li><a href="#Aca">Academic Tools</a></li>
+<li><a href="#Oth">Other Internet Resources</a></li>
+<li><a href="#Rel">Related Entries</a></li>
+</ul>
+<!--Entry Contents-->
+
+<hr />
+
+</div>
+
+<div id="main-text">
+
+<h2 id="Intr">1. Introduction</h2>
+
+<p>
+Logics of conditionals deal with inferences involving sentences of the
+form &ldquo;if <em>A</em>, (then) <em>B</em>&rdquo; of natural
+language. Despite the overwhelming presence of such sentences in
+everyday discourse and reasoning, there is surprisingly little
+agreement about what the right logic of conditionals might be, or even
+about whether a unified theory can be given for all kinds of
+conditionals. The problem is not new, but can be traced back to
+debates between Megarian and Stoic logicians (see Sextus Empiricus,
+<em>Outlines of Scepticism</em> II, 110&ndash;112; Kneale &amp; Kneale
+1962; Sanford 1989; Weiss 2019). Famously, Philo of Megara proposed
+that a conditional of the form &ldquo;if <em>A</em> then
+<em>B</em>&rdquo; is true exactly when it is not the case that
+<em>A</em> is true and <em>B</em> is false. The same definition is at
+the core of the modern treatment of the conditional as so-called
+&ldquo;material implication&rdquo; in the two-valued propositional
+framework of Frege (1879) and Whitehead and Russell (1910).</p>
+
+<div class="figure avoid-break" id="tabmaterial">
+
+<table class="cell-center cellpad-small centered shortcap two-rulesTH">
+<colgroup class="colhead" span="2"> </colgroup> <colgroup class="colbody" span="2">
+</colgroup>
+<thead>
+<tr>
+<th colspan="2">&nbsp;</th>
+<th colspan="2">\(B\)</th> </tr>
+<tr>
+<th colspan="2">\(A \supset B\)</th>
+<th>1</th>
+<th>0</th> </tr> </thead>
+<tbody>
+<tr>
+<th rowspan="2">\(A\)</th>
+<th>1</th>
+  <td>1</td>
+  <td>0</td> </tr>
+<tr>
+<th>0</th>
+  <td>1</td>
+  <td>1</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Table 1:</span> The material conditional</p>
+</div>
+
+<p>
+This understanding of the conditional has considerable virtues of
+simplicity, and in that regard the material conditional analysis
+provides a benchmark for other theories. Probably its main virtue is
+that it lends itself to a truth-functional treatment (the truth value
+of a conditional is a function of the truth values of antecedent and
+consequent). A related one is that it makes the conditional
+interdefinable with Boolean negation, disjunction, and conjunction. A
+third, among the driving motivations for Frege, Russell and Whitehead,
+is that it appears adequate to regiment mathematical proofs involving
+conditional sentences. Despite that, as granted by Frege himself in
+the <em>Begriffsschrift</em>, it fails to do justice to some of the
+ways in which conditionals are ordinarily understood and used in
+natural language.</p>
+
+<p>
+An oddity pointed out early by MacColl (1908) is the observation that
+of any two sentences of the form &ldquo;not <em>A</em> or
+<em>B</em>&rdquo; and &ldquo;not <em>B</em> or <em>A</em>&rdquo;, at
+least one must be true. Assuming the equivalence with the material
+conditional, this implies that either &ldquo;if John is a physician,
+then he is red-haired&rdquo; or &ldquo;if John is red-haired, then he
+is a physician&rdquo; must be true. Intuitively, however, one may be
+inclined to reject both conditionals. Similar complications, known as
+the <em>paradoxes of material implication</em>, concern the fact that
+for any sentences <em>A</em> and <em>B</em>, &ldquo;if <em>A</em> then
+<em>B</em>&rdquo; follows from &ldquo;not <em>A</em>&rdquo;, but also
+from &ldquo;<em>B</em>&rdquo;, thereby allowing true and false
+sentences to create true conditionals irrespective of their content
+(C. I. Lewis 1912). Another peculiarity looms large: the negation of
+&ldquo;if <em>A</em> then <em>B</em>&rdquo; is predicted to be
+&ldquo;<em>A</em> and not <em>B</em>&rdquo;, but intuitively one may
+deny that &ldquo;if God exists, all criminals will go to heaven&rdquo;
+without committing oneself to the existence of God (cited in Lycan
+2001).</p>
+
+<p>
+A fourth complication is that conditional sentences in natural
+language are not limited to indicative conditionals (&ldquo;if I
+strike this match, it will light&rdquo;), but also include subjunctive
+conditionals used to express counterfactual hypotheses (&ldquo;if I
+had struck this match, it would have lit&rdquo;). All counterfactual
+conditionals would be vacuously true if analyzed as material
+conditionals with a false antecedent, as pointed out by Quine (1950),
+an obviously inadequate result, suggesting that the interplay of
+grammatical tense and grammatical mood should also be of concern to
+understand the logic of conditionals.</p>
+
+<p>
+To a large extent, the development of conditional logics over the past
+century has thus been driven by the quest for a more sophisticated
+account of the connection between antecedent and consequent in
+conditionals. A number of conditional logics have thus been developed
+within the framework of <em>modal logic</em>, to capture the idea that
+conditional sentences express a necessary connection of sort between
+antecedent and consequent, whether metaphysical, epistemic, or deontic
+(see C. I. Lewis 1912; Stalnaker 1968; D. Lewis 1973; Kratzer 2012). A
+related wave of work encompasses the so-called cotenability theories
+of conditionals, in which the idea is that a conditional is assertable
+if its antecedent, together with suitable (co-tenable) premises,
+entails its consequent (see Chisholm 1946; Goodman 1955; Rescher
+1964).</p>
+
+<p>
+Another strand of influential logics has been motivated by the idea
+that conditionals have probabilities or express a probabilistic
+dependence between their antecedents and their consequents (Ramsey
+1931; de Finetti 1936; Adams 1965; Edgington 1995; Douven 2016). A
+very influential source of this is a passage by Ramsey (1931), in
+which he writes:</p>
+
+<blockquote>
+
+<p>
+If two people are arguing &ldquo;If \(p\), then \(q\)?&rdquo; and are
+both in doubt as to \(p\), they are adding \(p\) hypothetically to
+their stock of knowledge and arguing on that basis about \(q\); so
+that in a sense &ldquo;If \(p\), \(q\)&rdquo; and &ldquo;If \(p\),
+\(\neg q\)&rdquo; are contradictories. We can say that they are fixing
+their degree of belief in \(q\) given \(p\). If \(p\) turns out false,
+these degrees of belief are rendered <em>void</em>. If either party
+believes <em>not \(p\)</em> for certain, the question ceases to mean
+anything to him except as a question about what follows from certain
+laws or hypothesis. [Notation adapted]</p>
+</blockquote>
+
+<p>
+Importantly, the so-called Ramsey Test (adding the antecedent
+hypothetically to one&rsquo;s beliefs) has inspired a number of
+approaches that stand as some of the cornerstones of conditional
+logics. This includes Stalnaker&rsquo;s modal logic of conditionals
+based on the idea that the antecedent of a conditional selects a
+hypothetical possible world (Stalnaker 1968). It also includes
+Adams&rsquo;s approach based on studying formally the idea that the
+probability of (non-nested) conditionals is given by the corresponding
+conditional probability (Adams 1965, 1975), as well as more
+qualitative theories of the acceptability of conditionals in terms of
+(non-probabilistic) belief revision policies (G&auml;rdenfors 1986).
+Finally, Ramsey&rsquo;s idea that conditionals with a false antecedent
+are void underlies the main motivation behind three-valued accounts of
+conditionals, developed independently by various authors (in
+particular by de Finetti 1936).</p>
+
+<p>
+In this entry, our presentation of conditional logics will be
+structured by the centrality of those various frameworks. Our goal in
+particular will be to allow readers to orient themselves easily
+between those frameworks, and also to show how they communicate. We
+start with a presentation of three-valued logics of conditionals in
+ <a href="#ThreValuCond">section 2</a>.
+ <a href="#PossWorlMode">Section 3</a> surveys the main analyses of the conditional in modal
+logics (possible worlds semantics). In
+ <a href="#PremSema">section 4</a>,
+ we discuss so-called premise semantics, which formalize the
+co-tenability idea, and which shed a different light on standard modal
+analyses.
+ <a href="#ProbLogi">Section 5</a>
+ moves on to probabilistic logics of conditionals, and
+ <a href="#BeliReviAppr">section 6</a>
+ to qualitative approaches in terms of belief revision.
+ <a href="#ReleDiffMaki">Section 7</a>
+ and
+ <a href="#ModaSpeeActs">section 8</a>,
+ finally, will present more recent developments or refinements: first,
+logics based on the idea that the antecedent ought to make a relevant
+difference to the consequent, then some extensions of propositional
+logics of conditionals addressing the interaction of conditionals with
+modalities as well as with questions and commands.</p>
+
+<p>
+One caveat is that in this entry we will try to keep a unified
+perspective on both indicative and subjunctive conditionals. Although
+some authors, notably David Lewis, have insisted on treating them
+differently, differences can be handled parametrically relative to a
+common semantic core (viz., Stalnaker 1975 or Pearl 2009). We will
+point to differences when relevant, but refer the reader to
+Starr&rsquo;s (2019) SEP entry on counterfactuals that deals with the
+topic rather extensively. On some aspects our entry also overlaps with
+Edgington&rsquo;s (2020) SEP entry on indicative conditionals, and
+readers are invited to consult both of those entries for
+complements.</p>
+
+<p>
+In what follows, we will represent the conditional operator by the
+symbol \(&gt;\). We distinguish three main layers of syntactic
+complexity. Let \(L_0\) be a propositional language capable of
+building <em>factual</em> sentences from atoms with the help of the
+usual Boolean connectives (\(\neg\), \(\wedge\), \(\vee\), \(\supset\)
+and \(\equiv\) for negation, conjunction, disjunction, material
+conditional and material equivalence, respectively). Then \(L_1\) is
+the extension of \(L_0\) with <em>flat conditionals</em>, such that if
+\(A\) and \(B\) are in \(L_0\) then \(A&gt;B\) is in \(L_1\). And
+\(L_2\) is the extension of \(L_0\) and \(L_1\) allowing free
+combinations of all connectives, including arbitrary nestings of
+conditionals.</p>
+
+<h2 id="ThreValuCond">2. Three-Valued Conditionals</h2>
+
+<h3 id="Moti">2.1 Motivations</h3>
+
+<p>
+Logics of indicative conditionals, in so far as they are based on
+truth evaluations, all agree that a conditional is false if its
+antecedent is true and its consequent is false. This is captured by
+the two-valued analysis. Less obvious is the assumption that a
+conditional is true when both antecedent and consequent are true, for
+this predicts that \(A\wedge B\) entails \(A &gt;B\). And even more
+controversial is the proviso that a conditional is true whenever its
+antecedent is false, which indeed is one of the paradoxes of the
+material conditional.</p>
+
+<p>
+C. I. Lewis&rsquo;s (1912) response to the paradoxes of the material
+conditional is his proposal of a strict conditional (aka &ldquo;strict
+implication&rdquo;, section
+ <a href="#PossWorlMode">3</a>).
+ The strict conditional is no longer truth-functional, however. A
+closer kin to standard two-valued logic in this regard is the family
+of three-valued logics originating from the work of &#321;ukasiewicz
+(1920), which retain truth-functionality. &#321;ukasiewicz&rsquo;s
+main motivation was not to deal specifically with conditionals,
+however, but with the notion of possibility. &#321;ukasiewicz&rsquo;s
+conditional is shown in
+ <a href="#figluk">Table 2</a>.
+ &#321;ukasiewicz defines validity to be the preservation of the value
+1 from premises to conclusion, as in two-valued logic. His operator
+retains the law of Identity \(A&gt;A\) and various classic schemata
+(such as Modus Ponens), but it also fails some classical properties
+(it is non-contractive, for example, failing the inference from
+\(A&gt;(A&gt;B)\) to \(A&gt;B\)). It agrees with the two-valued
+conditional on classical input, and it does not block the paradoxes of
+the material conditional.</p>
+
+<div class="figure avoid-break" id="figluk">
+
+<table class="cell-center cellpad-small centered shortcap two-rulesTH">
+<colgroup class="colhead" span="2"> </colgroup> <colgroup class="colbody" span="3">
+</colgroup>
+<thead>
+<tr>
+<th colspan="2">&nbsp;</th>
+<th colspan="3">\(B\)</th> </tr>
+<tr>
+<th colspan="2">\(A &gt; B\)</th>
+<th>1</th>
+<th>&frac12;</th>
+<th>0</th> </tr> </thead>
+<tbody>
+<tr>
+<th>&nbsp;</th>
+<th>1</th>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+<th>\(A\)</th>
+<th>&frac12;</th>
+  <td>1</td>
+  <td>1</td>
+  <td>&frac12;</td> </tr>
+<tr>
+<th>&nbsp;</th>
+<th>0</th>
+  <td>1</td>
+  <td>1</td>
+  <td>1</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Table 2:</span> &#321;ukasiewicz&rsquo;s
+conditional</p>
+</div>
+
+<p>
+&#321;ukasiewicz&rsquo;s work was a source of inspiration to
+Reichenbach, and subsequently to de Finetti, both of whom put forward
+the idea expressed earlier by Ramsey that a conditional must be
+indeterminate when its antecedent is false (see Reichenbach 1935,
+1944; de Finetti 1936). Reichenbach deems <em>meaningless</em> the
+evaluation of a conditional \(A&gt;B\) when \(A\) concerns some
+measurement rendered impossible by some other measurement (as
+predicted in quantum physics). For de Finetti, the idea is that a
+conditional sentence is like a bet. When someone bets that the card
+will be a king if it is a club, the bet should simply be called off if
+the card turns out to be of a different suit. On that basis, de
+Finetti proposed a table (sometimes called the &ldquo;defective&rdquo;
+conditional, see Baratgin et al. 2013, Over &amp; Baratgin 2017) for
+what he calls the logic of tri-events, where a tri-event refers to
+&ldquo;the event \(B\) conditional upon event \(A\)&rdquo;. The
+tri-event is true when both events are true, false when \(A\) is true
+and \(B\) false, and <em>null</em> otherwise (e.g., when \(A\) is
+false).</p>
+
+<div class="figure avoid-break" id="figfinetti">
+
+<table class="cell-center cellpad-small centered shortcap two-rulesTH">
+<colgroup class="colhead" span="2"> </colgroup> <colgroup class="colbody" span="3">
+</colgroup>
+<thead>
+<tr>
+<th colspan="2">&nbsp;</th>
+<th colspan="3">\(B\)</th> </tr>
+<tr>
+<th colspan="2">\(A &gt; B\)</th>
+<th>1</th>
+<th>&frac12;</th>
+<th>0</th> </tr> </thead>
+<tbody>
+<tr>
+<th>&nbsp;</th>
+<th>1</th>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+<th>\(A\)</th>
+<th>&frac12;</th>
+  <td>&frac12;</td>
+  <td>&frac12;</td>
+  <td>&frac12;</td> </tr>
+<tr>
+<th>&nbsp;</th>
+<th>0</th>
+  <td>&frac12;</td>
+  <td>&frac12;</td>
+  <td>&frac12;</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Table 3:</span> De Finetti&rsquo;s
+conditional</p>
+</div>
+
+<p>
+As
+ <a href="#figfinetti">Table 3</a>
+ shows, there is now a third truth value &frac12; (for
+&ldquo;null&rdquo; or &ldquo;void&rdquo; or
+&ldquo;indeterminate&rdquo;) beyond the classical values 1 (for
+&ldquo;true&rdquo;) and 0 (for &ldquo;false&rdquo;). This is why these
+logics are called <em>trivalent</em>. The conditional is no longer
+classically valued for classical input. Although Reichenbach and de
+Finetti considered the interplay of this conditional with other
+trivalent connectives, they did not investigate the logics resulting
+from that choice. Investigations of logics resulting from de
+Finetti&rsquo;s table spread in a scattered way, often oblivious of
+the work of Reichenbach and de Finetti. One path was paved by remarks
+due to Quine (1950), crediting the work of Ph. Rhinelander on the idea
+that the assertion of a sentence of the form &ldquo;if \(A\) then
+\(C\)&rdquo; is commonly felt &ldquo;less as the assertion of a
+conditional than as a conditional assertion of the consequent&rdquo;
+(see Jeffrey 1963; Cooper 1968; Belnap 1970, 1973; Manor 1975; Farrell
+1979, 1986; Olkhovikov 2002; Huitink 2008). This view is known more
+broadly as the suppositional view (Adams 1975; Edgington 1995).
+Another line of work was pursued in connection with algebraic
+treatments of probability, much in the spirit of de Finetti&rsquo;s
+original work, who viewed trivalence as a way of representing the
+notion of conditional probability more qualitatively (see Schay 1968;
+Calabrese 1991; Dubois &amp; Prade 1994; McDermott 1996; Milne 1997;
+Cantwell 2008; Rothschild 2014; Lassiter 2020).</p>
+
+<h3 id="SomeTrivLogi">2.2 Some trivalent logics</h3>
+
+<p>
+Amongst trivalent logics based on variations of de Finetti&rsquo;s
+table, some systems stand out. First, there is Cooper&rsquo;s logic
+<strong>OL</strong> and a close variant of it, Cantwell&rsquo;s logic
+<strong>CC/TT</strong> (as named in &Eacute;gr&eacute;, Rossi, &amp;
+Sprenger 2021, after Cooper and Cantwell), itself a fragment of the
+logic <strong>LImp</strong> of Olkhovikov (2002), which also
+incorporates a modal necessity operator.
+<strong>OL</strong>&nbsp;and&nbsp;<strong>CC/TT&nbsp;</strong>are
+defined for \(L_2\), the full language allowing nested conditionals.
+Like de Finetti, Cooper (1968) handles the conditional as
+indeterminate when the antecedent is false (0). However, the
+conditional takes the value of the consequent when the antecedent is
+<em>not false</em> (either 1 or &frac12;). Hence, instead of grouping
+&frac12; with 0, as de Finetti does, it groups &frac12; with 1.
+ <a href="#figcooper">Table 4</a>
+ was rediscovered independently by Olkhovikov (2002) and by Cantwell
+(2008), with very similar motivations in mind. It was also proposed by
+Belnap (1973), who presents it as a suitable modification from Belnap
+(1970), who first used the same table as De Finetti&rsquo;s.</p>
+
+<div class="figure avoid-break" id="figcooper">
+
+<table class="cell-center cellpad-small centered shortcap two-rulesTH">
+<colgroup class="colhead" span="2"> </colgroup> <colgroup class="colbody" span="3">
+</colgroup>
+<thead>
+<tr>
+<th colspan="2">&nbsp;</th>
+<th colspan="3">\(B\)</th> </tr>
+<tr>
+<th colspan="2">\(A &gt; B\)</th>
+<th>1</th>
+<th>&frac12;</th>
+<th>0</th> </tr> </thead>
+<tbody>
+<tr>
+<th>&nbsp;</th>
+<th>1</th>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+<th>\(A\)</th>
+<th>&frac12;</th>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+<th>&nbsp;</th>
+<th>0</th>
+  <td>&frac12;</td>
+  <td>&frac12;</td>
+  <td>&frac12;</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Table 4:</span> Cooper&rsquo;s conditional</p>
+</div>
+
+<p>
+Cooper, Olkhovikov, and&nbsp;Cantwell define an inference to be valid
+if the conclusion is not false whenever all the premises are not
+false, for all trivalent valuations of the language. A central feature
+of their systems is that the full deduction theorem holds (a feature
+also stressed by Jeffrey 1963 and Belnap 1973):</p> 
+
+\[\tag{DT} \Gamma, A\vDash B \tiff \Gamma\vDash A&gt;B.\]
+
+<p>
+One difference between their systems is that Cooper defines validity
+relative to trivalent valuations that are atom-classical; another is
+that Cooper uses so-called quasi-conjunction and disjunction (see
+below), whereas Olkhovikov and Cantwell use the common min and max
+rules for conjunction and disjunction, respectively. For Cooper and
+Cantwell, in particular, and similarly for Belnap (1973), a central
+motivation for this conditional is the validation of the principle of
+Negation Commutation for the conditional, namely the conjunction
+of:</p> 
+
+\[\tag{EX} A&gt;\neg B \;\vDash\; \neg (A&gt;B). \] \[\tag{IN} \neg (A&gt;B) \;\vDash\; A&gt;\neg B.\]
+
+<p>
+Principle EX in particular is characteristic of connexive logics (see
+Section
+ <a href="#ReleDiffMaki">7</a>
+ below). Another important feature of the resulting logics is that
+whereas Modus Ponens is a valid argument schema, Modus Tollens and
+Contraposition fail in general (though they remain valid over atomic
+variants of the schemata in Cooper&rsquo;s <strong>OL</strong>):</p>
+
+\[\tag{MP} A,\ A&gt;B \;\vDash\; B.\] \[\tag{MT} \neg B,\ A&gt;B \;\not\vDash\; \neg A.\] \[\tag{CP} A&gt;B \;\not\vDash\; \neg B &gt;\neg A.\]
+
+<p>
+Since \(A\not \vDash \neg A &gt;B\), the Cooper conditional blocks one
+of the paradoxes of the material conditional, but it retains another
+one, namely \(A\vdash B&gt;A\). Relatedly, although Cooper and
+Cantwell or Olkhovikov&nbsp;use different semantics for conjunction,
+on their approaches, conjunction entails the conditional. This
+principle is called <em>Conjunctive Sufficiency</em>:</p> 
+
+\[\tag{CS} A \wedge B \;\vDash\; A&gt;B.\]
+
+<p>
+Cooper provides a complete axiomatization for his logic, using a
+system of inference rules close to a natural deduction system (system
+<strong>OL</strong>). Using tableaux and sequent calculi,
+&Eacute;gr&eacute;, Rossi, and Sprenger (2021) compare the
+Cooper-Cantwell logic <strong>CC/TT</strong> with the logic
+<strong>DF/TT</strong> that results from de Finetti&rsquo;s table and
+the same notion of validity (preservation of non-zero values). The
+logic <strong>DF/TT</strong> is connexive, too, and supports Negation
+Commutation. A central difference, however, is that de Finetti&rsquo;s
+table fails to support MP.</p>
+
+<p>
+Another system worthy of consideration is the trivalent logic of
+&ldquo;conditional objects&rdquo; investigated by Dubois and Prade
+(1994). This system is itself closely related to a three-valued
+treatment of conditionals presented in Adams (1986). The system rests
+on de Finetti&rsquo;s original table, but only formulae from the flat
+fragment \(L_1\) are admitted. Validity in Dubois and Prade&rsquo;s
+approach is defined as follows. Assume \(\Gamma\) is a set of flat
+conditionals of the form \(A_i&gt;B_i\). Then define \(\Gamma \models
+A&gt;B\) iff <em>either</em> \(A\) classically entails \(B\)
+<em>or</em> for every trivalent valuation the value of the
+quasi-conjunction of some subset of conditionals in \(\Gamma\) is less
+than or equal to the value of \(A&gt;B\) (for the usual ordering of
+truth-values: \(0&lt;&frac12;&lt;1\)). Quasi-conjunction&mdash;a
+connective proposed by Cooper (1968: 305) and in a different guise by
+Adams (1966: 306), also proposed by Belnap (1973:60), and earlier by
+Soboci&#324;ski 1952 in relation to a different trivalent conditional
+&mdash;differs from min conjunction in that the conjunction of
+classical values is classical, and the conjunction of &frac12; with a
+classical value is that classical value. Quite remarkably, this
+relation of logical consequence can be axiomatized by the system
+<strong>P</strong> of preferential entailment of Kraus, Lehmann and
+Magidor, which is discussed in detail below. Thus, the associated
+notion of consequence does not support Monotonicity, Transitivity, and
+Contraposition of the conditional (see
+ <a href="#VariStriCond">section 3.2</a>).</p>
+ 
+<h3 id="OpenIssu">2.3 Open issues</h3>
+
+<p>
+Despite its simplicity, the use of trivalence raises several issues.
+One open problem is how to deal with counterfactual
+conditionals&mdash;the problem is not without options, but trivalence
+so far has been used mostly to deal with indicative conditionals. A
+related issue is how to make three-valued conditionals interact with
+modalities and other operators more generally.</p>
+
+<p>
+Another problem concerns the expressiveness of a finitely-valued
+truth-functional account. McGee (1981) shows that the common
+&ldquo;flat&rdquo; \(L_1\)-fragment of the logics of conditionals of
+Adams, Stalnaker and Lewis, i.e., the system <strong>P</strong>,
+cannot be characterized in terms of the preservation of a designated
+set of truth-values in a finite-valued logic. Prima facie, this
+results appears in tension with Adams&rsquo;s as well as Dubois and
+Prade&rsquo;s trivalent characterization of <strong>P</strong>. As
+pointed out by M. Schulz (2009), however, the trivalent
+characterization proposed by Adams&mdash;or indeed Dubois and
+Prade&mdash;differs from the one entertained by McGee (it asks for
+more than the preservation of a fixed set of designated values, and
+allows quantification over subsets of the
+ premises).<sup>[<a href="notes.html#note-1" id="ref-1">1</a>]</sup>
+ As discussed by Schulz, whether a similar characterization can be
+given for the non-flat logics of Stalnaker and Lewis is an open
+question.</p>
+
+<h2 id="PossWorlMode">3. Possible Worlds Models</h2>
+
+<p>
+Trivalent accounts suppose that the truth value of a conditional
+depends only on the truth values of its parts. However, this
+assumption does not account for a connection of the contents of the
+antecedent and the consequent, a point granted by Frege (1879)
+himself. In this section we review accounts that preserve the idea
+that conditionals are truth-evaluable, but assume that their truth
+value cannot be settled just by the truth values of the antecedent and
+the consequent at the actual world. Instead, the antecedent has a
+certain modal force, it makes its consequent in some sense necessary.
+Possible-worlds models give an explication of the necessity
+involved.</p>
+
+<h3 id="StriCond">3.1 Strict conditionals</h3>
+
+<p>
+The first step toward an intensional treatment of conditionals was
+made with C. I. Lewis&rsquo;s introduction of the strict conditional.
+Although Lewis&rsquo;s treatment was axiomatic, its semantic content
+can be made transparent using possible worlds semantics. On
+Lewis&rsquo;s approach, &ldquo;If \(A\), then \(C\)&rdquo; means that
+the material conditional is not just true, but necessarily true:</p>
+
+\[\tag{SI} (A &gt;B ) \equiv \Box (A\supset B).\]
+
+<p>
+From a semantic view point, reference is made here not just to the
+actual world, but also to other possible worlds, in fact to all
+&ldquo;accessible&rdquo; worlds. Thus, the meaning of this conditional
+cannot be explained by a simple truth table.</p>
+
+<p>
+In modal logic, a <em>Kripke frame</em> is a pair \(\langle W,
+R\rangle\) where \(W\) is a non-empty set of <em>possible worlds</em>
+(possible states, possible situations or possible ways the world might
+be) and \(R\) is a binary relation on \(W\). \(R\) is called the
+<em>accessibility relation</em> of the model, and intuitively \(Rwv\)
+means that world \(v\) is (in some sense) possible from the point of
+view of \(w\). A <em>model</em> is a triple \(\langle W, R, V\rangle\)
+such that \(\langle W, R\rangle\) is a frame and \(V\) is a valuation
+function assigning truth values to all propositional variables of the
+language at all possible worlds in \(W\). We write \(M, w \Vdash A\)
+for &ldquo;\(A\) is true at world \(w\) in model \(M\)&rdquo; and let
+\(\lvert A\rvert^M\) denote the set \(\{w\in W: M, w \Vdash A\}\) of
+possible worlds at which \(A\) is true. Let \(R(w) := \{v\in W:
+Rwv\}\). The truth conditions for the Boolean connectives are the
+usual ones for propositional logic, extending \(V\) to complex
+sentences. Those for the strict conditional are as follows:</p>
+
+\[\tag{SC } \begin{align} M, w \Vdash A &gt;B &amp; \quad\text{iff}\quad \text{for all } v \text{ such that } Rwv,\quad M, v \Vdash A \supset B\\ &amp; \quad\text{iff}\quad R(w) \cap \lvert A\rvert^M \subseteq \lvert B\rvert^M.\\ \end{align} \]
+
+<p>
+Validity (relative to a class of frames) is defined as
+truth-preservation at all worlds of all models (based on any frame in
+the class). It is easy to see that the strict conditional invalidates
+the paradoxes of the material conditional, relative to models built on
+arbitrary Kripke frames. The strict conditional retains Modus Ponens
+and a number of classic properties, such as Monotonicity,
+Transitivity, and Contraposition (see below). Starting with Goodman
+(1955), however, such inferences have been regarded with suspicion,
+both for indicative conditionals (see Adams 1965) and for
+counterfactuals conditionals (see Stalnaker 1968, Lewis 1973). For
+instance, in the case of Transitivity, we have the following
+counterexamples:</p>
+
+<dl class="sentag">
+<dt id="exadams">(1)</dt>
+<dd>If Brown wins the election, Smith will retire to private life. If
+Smith dies before the election, Brown will win it. #Therefore, if
+Smith dies before the election, then he will retire to private life.
+(Adams 1965, p. 166)</dd>
+<dt id="exstal">(2)</dt>
+<dd>If J. Edgar Hoover were today a communist, then he would be a
+traitor. If J. Edgar Hoover had been born a Russian, then he would
+today be a communist. #Therefore, if J. Edgar Hoover had been born a
+Russian, he would be a traitor. (Stalnaker 1968, p. 106)</dd>
+</dl>
+
+<p>
+Such examples inspired Adams to propose a probabilistic treatment of
+conditionals. They inspired Stalnaker, Lewis, Nute, and a number of
+others to weaken the strict conditional analysis. But recently there
+has been a revival of the strict conditional analysis, based on the
+idea that many phenomena can be accounted for pragmatically by
+construing the accessibility relation that determines which possible
+worlds are relevant as massively context-dependent (Daniels &amp;
+Freeman 1980; von Fintel 2001; Gillies 2007; Starr 2014a, and
+Starr&rsquo;s entry on counterfactuals).</p>
+
+<h3 id="VariStriCond">3.2 Variably strict conditionals</h3>
+
+<p>
+The basic idea behind &ldquo;variably strict conditionals&rdquo; (an
+expression due to D. Lewis 1973) is that the standard of necessity
+relevant to evaluate a conditional sentence depends on the antecedent.
+Roughly speaking, in order to evaluate a conditional \(A&gt;B\), one
+has to extend the reach of the accessibility relation to the
+&ldquo;closest&rdquo; or &ldquo;most similar&rdquo; worlds in which
+the antecedent is true. In what follows we present three related ways
+of stating the truth conditions of the variably strict
+conditional.</p>
+
+<h4 id="MainSema">3.2.1 Main semantics</h4>
+
+<h5>Relative modalities</h5>
+
+<p>
+Though not historically the first, arguably the simplest way of
+expressing the idea of a strict conditional whose necessity varies
+depending on the antecedent can be found in Chellas (1975) and
+Segerberg (1989), who describe a conditional \(A&gt;B\) as a relative
+modality, namely a sententially indexed modality \(\Box_{A}B\), with
+the corresponding accessibility relation \(R_{\lvert A\rvert^{M}}\)
+for every sentence \(A\). A relative-modality frame or
+<em>rm-frame</em> can be defined as a pair \(\langle W, R\rangle\)
+where \(R\) is a ternary relation on \(W\times W\times \cP(W)\). In
+practice we can write \(R_Uvw\) instead of \(RvwU\), and see \(R\) as
+assigning a binary relation over worlds relative to a proposition
+\(U\). An <em>rm-model</em> is a triple \(M = \langle W, R, V\rangle\)
+such that \(\langle W, R\rangle\) is an rm-frame and \(V\) a valuation
+function. Given an rm-model \(M\), the truth condition for the
+conditional is this:</p> 
+
+\[\tag*{(VSC)-rm } \begin{align} \ M, w \Vdash A &gt;B &amp; \quad\text{iff}\ \text{for all } v \text{ such that } R_{\lvert A\rvert^{M}} wv, \ M, v \Vdash B\\ &amp; \quad\text{iff}\ R_{\lvert A\rvert^{M}}(w) \subseteq \lvert B\rvert^M.\\ \end{align} \]
+
+<p>
+Note that \(R\) could be defined on \(W\times W\times L_2\), letting
+\(R_A(w)\) depend on the syntactic form of \(A\) (instead of the
+proposition \(\lvert A\rvert^M\) expressed by \(A\)). The main effect
+of this modification is to block the substitution of equivalent
+antecedents, a feature called for by several theorists on separate
+grounds (see
+ <a href="#IfImpoExpoSimpDisjAnte">section 3.5</a>).</p>
+ 
+<h5>Selection functions</h5>
+
+<p>
+An equivalent definition is in terms of selection functions (Stalnaker
+1968; Nute 1980). An <em>sf-frame</em> is a pair \(\langle W,
+f\rangle\) where \(W\) is a non-empty set of <em>possible worlds</em>
+and \(f: W \times \cP(W) \to \cP(W)\) is a function taking a world and
+a proposition (i.e., a set of worlds) and yielding a proposition.
+\(f\) is called the <em>selection function</em> of the model, and
+intuitively \(v \in f(w,U)\), where \(U\subseteq W\), means that world
+\(v\) is a world in \(U\) that is (in some sense) <em>closest</em> or
+<em>most similar</em> to \(w\), as compared to all the other worlds in
+\(U\). The correspondence with the previous approach is
+straightforward, if we let \(f(w,\lvert A\rvert^M)\) coincide with
+\(R_{\lvert A\rvert^M}(w)\). An <em>sf-model</em> is a triple \(M =
+\langle W, f, V\rangle\) such that \(\langle W, f\rangle\) is an
+sf-frame and \(V\) is a valuation function. The truth condition for
+the variably strict conditional becomes:</p> 
+
+\[\tag*{(VSC)-sf} \begin{align} \ M, w \Vdash A &gt;B &amp; \quad\text{iff}\ \text{for all } v \in f(w,\lvert A\rvert^M), \ M, v \Vdash B\\ &amp; \quad\text{iff}\ f(w,\lvert A\rvert^M) \subseteq \lvert B\rvert^M.\\ \end{align} \]
+
+<p>
+As with rm-frames, the definition of an sf-frame can be modified to
+let \(f\) depend on \(w\) and \(A\), instead of \(\lvert
+A\rvert^M\).</p>
+
+<h5>Similarity orderings</h5>
+
+<p>
+There is a closely related alternative to this set-up which uses
+comparative similarity orderings in place of selection functions (D.
+Lewis 1973; Burgess 1981). Here, an <em>o-frame</em> is a pair
+\(\langle W, \prec \rangle\) where \(W\) is a non-empty set of
+<em>possible worlds</em> and \(\prec\) is a ternary relation on the
+set of worlds, assumed to be transitive and irreflexive relative to
+its first argument. The relation \(u \prec_w v\) is supposed to mean
+that world \(u\) is (in some sense) <em>more similar</em> or
+<em>closer</em> to \(w\) than world \(v\). Let \(R(w) := \{y\in W:
+\exists z \in W(y\prec_wz)\}\). This corresponds to the set of
+accessible worlds from \(w\). An <em>o-model</em> is a triple
+\(\langle W, \prec, V\rangle\) such that \(\langle W, \prec\rangle\)
+is an o-frame, and \(V\) is a valuation function. We use the
+abbreviation \(\lvert A\rvert^M_w := \lvert A\rvert^M \cap R(w)\), and
+let \(min_{\prec_{w}}(U)\) denote the \(U\)-worlds most similar to
+\(w\) (such that no \(U\)-world is strictly more similar to \(w\)). A
+simple form of the truth-condition for the variably strict conditional
+reads as follows:</p> 
+
+\[\tag*{(VSC)-o-L } \begin{align} \ M, w \Vdash A &gt;B &amp; \quad\text{iff}\ \text{for all } v \in \min_{\prec_w} (\lvert A\rvert^M_w), \ M, v \Vdash B\\ &amp; \quad\text{iff}\ \min_{\prec_w} (\lvert A\rvert^M_w) \subseteq \lvert B\rvert^M. \end{align} \]
+
+<p>
+These truth-conditions, however, make sense only if \(\lvert
+A\rvert^M_w\) possesses minimal elements under \(\prec_w\), that is,
+only if we can assume (L), in which we write \(v \preceq_w u\) for \(v
+\prec_w u\) or \(v = u\):</p> 
+
+\[\tag{L } \forall w \in W \;\forall u \in \lvert A\rvert^M_w \;\exists v \in \lvert A\rvert^M_w ((v\preceq_w u) \amp \neg\exists v' \in \lvert A\rvert^M_w (v'\prec_w v)).\]
+
+<p>
+(L) is a slight generalization of the <em>Limit Assumption</em> of
+Lewis (1973, 1981). While most researchers are ready to endorse the
+Limit Assumption, Lewis rejects it. According to him, for a
+counterfactual such as &ldquo;If Fred was taller than 2 meters, he
+would be in the university basketball team&rdquo; there is no closest
+world that would make the antecedent true. Ordering semantics can deal
+with failures of (L) by stating more complex truth conditions.</p>
+
+<dl class="sentag tag4em">
+<dt>(VSC)-o</dt>
+<dd>\(M, w \Vdash A &gt;B\quad \) iff for all \(v \in \lvert
+A\rvert^M_w\) there is a \(u\in \lvert A\rvert^M_w\) such that \(u
+\preceq_w v\) and for all \(u'\in \lvert A\rvert^M_w\) such that \(u'
+\preceq_w u,\ M, u' \Vdash B\).</dd>
+</dl>
+
+<p>
+This intuitively means that the \(A\wedge \neg B\) worlds are more
+remote from \(w\) than the \(A\wedge B\)-worlds.</p>
+
+<h5>Comparisons</h5>
+
+<p>
+First of all, it is easy to see how all three semantics can invalidate
+inferences like
+ <a href="#exadams">(1)</a>
+ and
+ <a href="#exstal">(2)</a>,
+ which assume Transitivity. In an o-model, for example, from</p>
+
+\[\min_{\prec_w} (\lvert A\rvert^M_w)\subseteq \lvert B\rvert^M\]
+
+<p>
+and</p> 
+
+\[\min_{\prec_w} (\lvert B\rvert^M_w)\subseteq \lvert C\rvert^M,\]
+
+<p>
+it need not follow that</p> 
+
+\[\min_{\prec_w} (\lvert A\rvert^M_w)\subseteq \lvert C\rvert^M.\]
+
+<p>
+See the three-world model in
+ <a href="#figocounterxtrans">Fig. 1</a>,
+ where the arrows represent \(\prec_w\) so that \(x\!\leftarrow\!y\)
+means the same thing as \(x\prec_w y\).</p>
+
+<div class="figure avoid-break centered" id="figocounterxtrans">
+<img alt="a diagram: link to extended description below" src="figure1.svg" />
+
+<p class="center">
+<span>Figure 1:</span> Counterexample against Transitivity in an
+o-model [An
+ <a href="figdesc.html#figocounterxtrans">extended description of Figure 1</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+Similar counterexamples to Monotonicity and Contraposition are easy to
+come by.</p>
+
+<p>
+The correspondence between selection function models and relative
+modality models is very direct. The correspondence between selection
+function models and ordering models is less obvious. How can we
+explain it? If we interpret similarity relations as preference
+relations, we can import the insights gained in rational choice theory
+to the analysis of conditionals (Sen 1970; Suzumura 1983; Aleskerov,
+Bouyssou, &amp; Monjardet 2007; applications to nonmonotonic reasoning
+are in Lindstr&ouml;m 1994 and Rott 2001). If the Limit Assumption is
+satisfied, then we can simply identify \(f(w,U)\) with
+\(\min_{\prec_w} (U)\), for all \(U\subseteq W\). For the converse
+direction, we can use the revealed preferences, defined by</p>
+
+\[u\prec_w v \ \textrm{ iff for all } U \subseteq W \text{ such that } u,v \in U, v\notin f(w,U)\]
+
+<p>
+or, if \(f\) can take propositions with two elements,</p> 
+
+\[u\prec_w v \tiff v\notin f(w,\{u,v\}).\]
+
+<p>
+These preferences &ldquo;rationalize&rdquo; the selections made by
+\(f\). This, however, works only under certain constraints. In this
+respect sf-models are more general than o-models. They are also easier
+to work with, and giving up the Limit Assumption is generally viewed
+as inadequate from a linguistic point of view (see Stalnaker 1980;
+Schlenker 2004; S. Kaufmann 2017 for more on (L)).</p>
+
+<h4 id="FramCorrProp">3.2.2 Frame correspondence properties</h4>
+
+<p>
+For each semantics, specific conditions can be imposed on frames in
+order to secure the validity of particular axioms or argument
+schemata. Their effects on the logic of conditionals have been studied
+in detail. For illustration we give the examples of two specific
+axioms and their correspondence properties in the three frameworks.
+Identity requires that every \(A\)-closest world be indeed an
+\(A\)-world. Conditional excluded middle corresponds to a uniqueness
+condition: there is at most one closest \(A\)-world.</p>
+
+<div class="figure avoid-break pdfwide smaller">
+
+<table class="cellpad-small inner-rules vert-top">
+<tbody>
+<tr>
+  <td>&nbsp;</td>
+  <td>\(A&gt;A\)</td>
+  <td>\((A&gt;B) \vee (A &gt;\neg B)\)</td> </tr>
+<tr>
+  <td>rm</td>
+  <td>\(R_Avw \supset w\in A\)</td>
+  <td>\(wR_Aw_1 \wedge wR_Aw_2 \supset w_1=w_2\)</td> </tr>
+<tr>
+  <td>sf</td>
+  <td>\(f(w,A)\subseteq A\)</td>
+  <td>\(card(f(w,A))\leq 1\)</td> </tr>
+<tr>
+  <td>o</td>
+  <td>\(\forall x\,\forall y\,(\exists z(x\preceq_y z) \supset
+x\preceq_y x)\)</td>
+  <td>\(\forall y\,\forall y'\,\forall w\,((y\in \lvert A\rvert^M_w
+\wedge \forall z(z\prec_{w}y \supset z\notin \lvert
+A\rvert^M_w))\supset {}\) \(((y'\in \lvert A\rvert^M_w \wedge \forall
+z(z\prec_{w}y' \supset z\notin \lvert A\rvert^M_w))\supset
+y=y'))\)</td> </tr> </tbody>
+</table>
+
+<p class="center">
+<span class="figlabel">Table 5:</span> Some frame correspondence
+properties</p>
+</div>
+
+<p>
+We refer to Unterhuber and Schurz (2014) for a systematic presentation
+of frame correspondence properties for rm-frames, to Nute (1980),
+Girard (2007), and Raidl (2021) on the correspondence properties of
+sf-frames, and to Friedman and Halpern (1994) and Herzig (1996) on the
+correspondence properties of o-frames.</p>
+
+<h3 id="LogiForCond">3.3 Logics for conditionals</h3>
+
+<p>
+In order to present some central logics of conditionals based on the
+possible-worlds framework, we adopt a Frege-Hilbert axiomatic
+perspective and introduce a list of axioms and rules of inference. Our
+presentation and choice of terminology relies on Nute (1980) as well
+as Herzig (1996), Unterhuber and Schurz (2014), and Crupi and Iacona
+(forthcoming-b).</p>
+
+<ul>
+
+<li>As a first layer for all systems, we let <strong>PC</strong>
+consist of all tautologies of the classical propositional
+calculus.</li> 
+
+	<li>We also assume the systems below to be closed under material Modus Ponens, but distinguish moreover the following inference rules (Left Logical Equivalence, Right Weakening, and Rule of Conditional K). Those mean that if the premises are theorems, then so is the conclusion. \[\tag*{LLE} \frac{B \equiv C}{(B &gt;A) \equiv(C &gt;A)} \] \[\tag*{RW} \frac{B \supset C}{(A &gt;B) \supset(A &gt;C)} \] \[\tag*{RCK} \frac{(B_1 \wedge \ldots \wedge B_n) \supset C} {(A &gt;B_1) \wedge \ldots (A &gt;B_n) \supset(A &gt;C)\quad (n\geq 0)} \]</li>
+
+<li>Axioms
+
+<table class="cellpad-small vert-top">
+<tbody>
+<tr>
+  <td>LT</td>
+  <td>(Logical Truth)
+<br />
+\(A&gt;\top\)</td> </tr>
+<tr>
+  <td>ID</td>
+  <td>(Identity)
+<br />
+\(A&gt;A\)</td> </tr>
+<tr>
+  <td>AND</td>
+  <td>(And)
+<br />
+\(((A&gt;B)\wedge (A&gt;C))\supset(A&gt;(B\wedge C))\)</td> </tr>
+<tr>
+  <td>OR</td>
+  <td>(Or)
+<br />
+\(((A&gt;C)\wedge (B&gt;C))\supset((A\vee B)&gt;C)\)</td> </tr>
+<tr>
+  <td>CCut</td>
+  <td>(Cautious Transitivity)
+<br />
+\(((A&gt;B)\wedge ((A\wedge B)&gt;C))\supset(A&gt;C)\)</td> </tr>
+<tr>
+  <td>CMon</td>
+  <td>(Cautious Monotonicity)
+<br />
+\(((A&gt;B)\wedge (A&gt;C))\supset((A\wedge B)&gt;C)\)</td> </tr>
+<tr>
+  <td>Rec</td>
+  <td>(Reciprocity)
+<br />
+\(((A&gt;B)\wedge (B&gt;A)) \supset((A&gt;C) \equiv(B&gt;C))\)</td>
+</tr>
+<tr>
+  <td>SM</td>
+  <td>(Stronger-than-Material)
+<br />
+\((B&gt;C)\supset(B\supset C)\)</td> </tr>
+<tr>
+  <td>CS</td>
+  <td>(Conjunctive Sufficiency)
+<br />
+\((B\wedge C)\supset(B&gt;C)\)</td> </tr>
+<tr>
+  <td>RMon</td>
+  <td>(Rational Monotonicity)
+<br />
+\(((A&gt;B)\wedge \neg(A&gt;\neg C))\supset((A\wedge C)&gt;B)\)</td>
+</tr>
+<tr>
+  <td>CEM</td>
+  <td>(Conditional Excluded Middle)
+<br />
+\((A&gt;B)\vee (A&gt;\neg B)\)</td> </tr> </tbody>
+</table> </li>
+</ul>
+
+<div class="figure avoid-break" id="tabsalientlogics">
+
+<table class="cell-center cellpad-small-dense two-rulesTH">
+<colgroup class="colhead" span="1"> </colgroup> <colgroup class="colbody" span="9">
+</colgroup>
+<thead>
+<tr>
+<th class="rule-below" rowspan="2">Rules and
+<br />
+axioms</th>
+<th colspan="9">Systems</th> </tr>
+<tr>
+<th>Ck</th>
+<th>CK</th>
+<th>B</th>
+<th>SS</th>
+<th>NP</th>
+<th>V</th>
+<th>VW</th>
+<th>VC</th>
+<th>C2</th> </tr> </thead>
+<tbody>
+<tr>
+<th>LLE</th>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>RW</th>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>RCK</th>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>LT</th>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>ID</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>AND</th>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>OR</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>CCut</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>CMon</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>Rec</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>RMon</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>SM</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>CS</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&#10003;</td> </tr>
+<tr>
+<th>CEM</th>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&#10003;</td> </tr> </tbody>
+</table>
+
+<p>
+<span class="figlabel">Table 6:</span> Salient logics of conditionals.
+<strong>Ck</strong> and <strong>CK</strong> correspond to basic
+conditional logics; System <strong>B</strong> is due to Burgess;
+system <strong>SS</strong> to Pollock; system <strong>NP</strong> to
+Delgrande; systems <strong>V</strong>, <strong>VW</strong> and
+<strong>VC</strong> to D. Lewis; system <strong>C2</strong> to
+Stalnaker.</p>
+</div>
+
+<p>
+We highlight nine systems of conditional logic that have drawn
+particular attention.</p>
+
+<p>
+System <strong>CK</strong> axiomatizes the truth-conditions laid out
+in (VSC)-rm. <strong>CK</strong> has been called the basic conditional
+logic by Chellas (1980), as it is meant to be the counterpart to the
+basic system <strong>K</strong> of modal logic. In particular it
+yields the same theorems as system <strong>K</strong> relative to a
+fixed modality \(\Box_{A}\). Thus, it satisfies conditional analogues
+of the axiom K of standard modal logic (viz., the axiom CK: \((A&gt;B)
+\supset((A &gt; (B\supset C)) \supset(A &gt; C))\)) and of the rule of
+Necessitation (viz., the rule CNec: from \(C\) infer \(A&gt;C\)). It
+can be described as the smallest logic closed under LLE and RCK (the
+latter entailing LT, RW and AND), and is also called a normal
+conditional logic because of that. The logic <strong>Ck</strong>
+corresponds to its hyperintensional variant, in which LLE is
+dropped.</p>
+
+<p>
+System <strong>B</strong>, proposed by Burgess, is the smallest
+extension of <strong>CK</strong> containing ID, OR and CMon. System
+<strong>B</strong> axiomatizes the truth conditions stated under
+(VSC)-o assuming \(\preceq\) is a preorder (reflexive and transitive).
+Another specific interest of system <strong>B</strong> is that its
+flat fragment corresponds to the system <strong>P</strong> of
+nonmonotonic logic due to Kraus, Lehmann and Magidor (see
+ <a href="#NonmLogiPrefMode">section 3.4</a>).
+ System <strong>P</strong> is also sound and complete for Adams&rsquo;
+probabilistic semantics of conditionals (see
+ <a href="#ProbLogi">section 5</a>),
+ and a three-valued characterization can be given for it too, as
+mentioned above, see Dubois and Prade (1994). In that sense, system
+<strong>P</strong> is quite central amongst logic of conditionals.</p>
+
+<p>
+Particularly noteworthy is the fact that none of these logics
+validates Monotonicity (also known as Strengthening the Antecedent),
+Transitivity or Contraposition for conditionals:</p>
+
+<table class="cellpad-med-dense">
+<tbody>
+<tr>
+  <td>Monotonicity</td>
+  <td>\((A&gt;C)\supset ((A\wedge B) &gt;C)\)</td> </tr>
+<tr>
+  <td>Transitivity</td>
+  <td>\((A&gt;B) \supset ((B&gt;C) \supset (A&gt;C))\)</td> </tr>
+<tr>
+  <td>Contraposition</td>
+  <td>\((A&gt;C)\supset (\neg C&gt;\neg A)\)</td> </tr> </tbody>
+</table>
+
+<p>
+These principles have in many contexts been considered as paradigmatic
+invalidities of conditional logic.</p>
+
+<p>
+If we add RMon to <strong>B</strong> we get the system
+<strong>V</strong> of David Lewis. John Pollock (1976) proposed the
+system <strong>SS</strong> obtained by adding SM and CS to
+<strong>B</strong>. Lewis&rsquo; &ldquo;official&rdquo; axiomatization
+of the logic of counterfactuals is the system <strong>VC</strong> that
+is obtained by adding SM and C to <strong>V</strong>. The extension of
+<strong>V</strong> with just SM is the system <strong>VW</strong>.
+Finally, system <strong>C2</strong> with the incorporation of CEM into
+<strong>VC</strong> is Stalnaker&rsquo;s logic of conditionals. As
+ <a href="#tabsalientlogics">Table 6</a>
+ makes clear, principles like CS, CMon, RMon, and CEM in particular
+are controversial, they have all been subject to philosophical
+discussions.</p>
+
+<p>
+James Delgrande (1987) proposed the system <strong>NP</strong> as a
+different extension of <strong>CK</strong>. The main difference is
+that <strong>B</strong> satisfies Cautious Monotonicity, whereas
+<strong>NP</strong> satisfies Rational Monotonicity. In
+Delgrande&rsquo;s interpretation, an instance of Rational Monotonicity
+is the inference from the premises &ldquo;ravens normally fly&rdquo;
+and &ldquo;it is not the case that normally ravens are not
+black&rdquo; to &ldquo;black ravens normally fly&rdquo;. Note that
+Cautious Monotonicity predicts the inference from &ldquo;ravens
+normally fly&rdquo; and &ldquo;ravens normally are black&rdquo; to
+&ldquo;black ravens normally fly&rdquo;. The existence of systems
+<strong>B</strong> and <strong>NP</strong> makes clear that strictly
+speaking, RMon and CMon are logically independent. But it is fair to
+say that RMon is <em>essentially</em> stronger than CMon, because in
+most environments one can infer \(\neg(A&gt;\neg C)\) from \(A&gt;C\).
+In the ordering semantics, RMon needs weak orders which satisfy
+Modularity (for all worlds \(t, u, v, w \in W\), if \(t\prec_w u\),
+then \(t\prec_w v\) or \(v\prec_w u\)), while CMon needs only
+transitive relations. But RMon may be satisfied without CMon being
+satisfied if one has a weak order over an infinite set without
+anything like the limit assumption and uses a selection function or a
+minimal models approach. This is the case in Delgrande
+ (1987).<sup>[<a href="notes.html#note-2" id="ref-2">2</a>]</sup></p>
+ 
+<p>
+Beside the systems mentioned, other intermediate systems between
+<strong>CK</strong> and <strong>C2</strong> have been studied, in
+particular by proof theorists. Olivetti, Pozzato, and Schwind (2007)
+and Poggiolesi (2016) present sequent calculi for the systems
+<strong>CK</strong>, <strong>CK</strong>+ID, <strong>CK</strong>+SM
+and <strong>CK</strong>+SM+ID. Poggiolesi also investigates systems of
+natural deduction for the same systems.</p>
+
+<h3 id="NonmLogiPrefMode">3.4 Nonmonotonic logic and preferential models</h3>
+
+<p>
+Earlier we mentioned that system <strong>P</strong> corresponds to the
+flat fragment of system <strong>B</strong>. Given the centrality of
+system <strong>P</strong>, here we say more about the way Kraus,
+Lehmann and Magidor defined it as a system of nonmonotonic logic. KLM
+do not aim at characterizing which formulae are logically valid, but
+at specifying closure conditions for rational sets of conditionals.
+They read the conditional \(A&gt;C\) (actually they use the notation
+\(A\pipsim C\)), with \(A\) and \(B\) only from \(L_0\), as expressing
+a default of the form &ldquo;if \(A\) then normally \(C\)&rdquo; or
+&ldquo;\(C\) is a plausible consequence of \(A\)&rdquo;. They start
+with models right away, but their models are slightly different from
+the ones we have seen so far. Importantly, KLM have no use for a truth
+value of a conditional at a single world, but only look at the
+&ldquo;consequence relation&rdquo; determined by a full model. What
+KLM call &ldquo;states&rdquo; are more like information states than
+like possible worlds, what they call &ldquo;worlds&rdquo; are
+valuations, i.e., assignments of truth values to the propositional
+variables of the language. KLM&rsquo;s preferential models are similar
+to the o-models discussed above, except there is only one binary
+relation for the full model rather than one for each world in the
+model.</p>
+
+<p>
+A <em>cumulative model</em> \(M\) for a universe \(W\) is a triple
+\(\langle S, l, &lt; \rangle\) where \(S\) is a set of states, \(l: S
+\rightarrow \cP(W)\) is a labeling function assigning to each state a
+non-empty set of worlds from the universe \(W\), and \(&lt;\) is a
+binary relation on \(S\) satisfying the <em>smoothness condition</em>:
+for all \(A\in L_0\) and all \(s\) such that
+\(s\mathrel|\mathrel{\mkern-3mu}\equiv A\) either \(s\) is minimal in
+\(\hat{A} = \{s \in S: s\mathrel|\mathrel{\mkern-3mu}\equiv A\}\) or
+there is an \(s' &lt; s\) that is minimal in \(\hat{A}\). Here
+\(s\mathrel|\mathrel{\mkern-3mu}\equiv A\) (read: \(s\) satisfies
+\(A\)) means that for every world \(w\) in \(l(s)\), \(w \Vdash
+A\).</p>
+
+<p>
+The smoothness condition is almost the same as condition (L) of
+ <a href="#MainSema">section 3.2.1</a>
+ above. This notion of a model allows for a modification of the
+classical definition of entailment in such a way that it becomes
+compatible with the idea of defeasibility or nonmonotonicity:</p>
+
+<p>
+Given a cumulative model \(M = \langle S, l, &lt; \rangle\), the
+entailment relation \(\pipsim _M\) defined by \(M\) is given by: \(A
+\pipsim _{M} B\) iff for all states \(s\) minimal in \(\hat{A}\),
+\(s\mathrel|\mathrel{\mkern-3mu}\equiv B\).</p>
+
+<p>
+Thus every single cumulative model defines a preferential entaliment
+relation&mdash;one with respect to which a sentence <em>A</em>
+typically entails much more than just its classical logical
+consequences.</p>
+
+<p>
+Kraus, Lehmann, and Magidor (1990) focused on a particular class of
+cumulative models, the so-called preferential models. They require the
+binary relation to be a strict partial order and the labeling function
+to assign just one world to each state. A <em>preferential model</em>
+for a universe \(W\) is a triple \(\langle S, l, &lt; \rangle\) where
+\(S\) is a set of states, \(l: S \rightarrow W\) is a labeling
+function assigning to each state a single world from the universe
+\(W\), and \(&lt;\) is a strict partial order on \(S\) (irreflexive,
+transitive) satisfying the <em>smoothness condition</em>.</p>
+
+<p>
+Lehmann and Magidor (1992) focused on a subfamily of preferential
+models, the so-called ranked models. A <em>ranked model</em> \(R\) is
+a preferential model \(\langle S, l, &lt; \rangle\) where the strict
+partial order \(&lt;\) satisfies Modularity: for all \(s, t, u \in
+S\), if \(s&lt;t\), then \(u&lt;t\) or \(s&lt;u\).</p>
+
+<p>
+These modes are called &ldquo;ranked&rdquo; because the property of
+Modularity of the strict partial order &lt; is equivalent to there
+being a totally ordered set \(\Omega\) (the strict order on \(\Omega\)
+will be denoted by \(\bangle\)) and a ranking function \(r : S
+\rightarrow \Omega\) such that \(s &lt; t\) iff \(r(s) \bangle r(t)\).
+Intuitively, a state of smaller rank is &ldquo;more normal&rdquo; than
+a state of higher rank.</p>
+
+<p>
+The main representation theorem of Kraus, Lehmann, and Magidor
+concerns the system <strong>P</strong> in terms of preferential
+models. Below we repeat the rules of the system, except that here
+axioms come in argument form (the entailment symbol
+&ldquo;\(\pipsim\)&rdquo; is not part of the object language), and
+inference rules in meta-argument form. The rules in the systems they
+consider are not thought of as validity preserving. They are rather
+taken to be closure conditions: any reasonable nonnomotonic inference
+relation \(\pipsim \) is such that when it includes the premises
+(sometimes, though, the premises are <em>exclusion</em> conditions,
+see RMon, DRat and NRat below), then it includes the conclusion, too.
+Kraus, Lehmann and Magidor&rsquo;s representation results then state
+that an inference relations \(\pipsim \) is reasonable in this
+syntactically specified sense just in case it can be defined by a
+model with certain properties.</p> 
+
+\[\tag*{ID\(_{\pipsim}\)} A \pipsim A \] \[\tag*{LLE\(_{\pipsim}\)} \frac{\models A \equiv B \qquad A \pipsim C}{B \pipsim C}\] \[\tag*{RW\(_{\pipsim}\)} \frac{\models A \supset B \qquad C \pipsim A}{C \pipsim B}\] \[\tag*{CCut\(_{\pipsim}\)} \frac{A \pipsim B \qquad A \wedge B \pipsim C}{A \pipsim C}\] \[\tag*{CMon\(_{\pipsim}\)} \frac{A \pipsim B \qquad A \pipsim C}{A \wedge B \pipsim C}\] \[\tag*{AND\(_{\pipsim}\)} \frac{A \pipsim B \qquad A \pipsim C}{A \pipsim B \wedge C}\] \[\tag*{OR\(_{\pipsim}\)} \frac{A \pipsim C \qquad B \pipsim C}{A \vee B \pipsim C}\]
+
+<p>
+In Kraus, Lehmann, and Magidor (1990), rules ID\(_{\pipsim}\),
+LLE\(_{\pipsim}\), RW\(_{\pipsim}\), CCut\(_{\pipsim}\) and
+CMon\(_{\pipsim}\) together define the system <strong>C</strong> of
+<em>cumulative reasoning</em>; AND\(_{\pipsim}\) is a derived rule of
+<strong>C</strong>. If OR\(_{\pipsim}\) is added, one gets system
+<strong>P</strong> of <em>preferential reasoning</em>; if one keeps
+AND\(_{\pipsim}\), CCut\(_{\pipsim}\) can be derived from the other
+rules of <strong>P</strong>.</p>
+
+<p>
+Lehmann and Magidor (1992) prove that the system <strong>R</strong> of
+<em>rational reasoning</em> that is obtained by adding the following
+rule of Rational Monotonicity to the above set of rules is complete
+with respect to ranked models.</p> 
+
+\[\tag*{RMon\(_{\pipsim}\)} \frac{A \pipsim C \qquad A \npipsim \neg B} {A \wedge B \pipsim C} \]
+
+<p>
+This rule has an untypical form in that one of its premises is the
+denial of a nonmonotonic implication; such rules are called
+&ldquo;non-Horn&rdquo;. If RMon\(_{\pipsim}\) is added to
+<strong>P</strong>, then CM\(_{\pipsim}\) can be replaced by the rule
+that infers \(A\wedge B\pipsim \bot\) from \(A\pipsim \bot\).
+Arl&oacute;-Costa and Shapiro (1992) proved that the system obtained
+by dropping CMon\(_{\pipsim}\) from <strong>R</strong> is sound and
+complete with respect to &ldquo;rough&rdquo; ranked models in which
+the ordering of the states is no longer subject to the smoothness
+condition.</p>
+
+<p>
+Other important non-Horn rules in the literature are
+&ldquo;Disjunctive Rationality&rdquo; and &ldquo;Negation
+Rationality&rdquo;:</p> 
+
+\[\tag*{DRat\(_{\pipsim}\)} \frac{A\vee B \pipsim C \qquad A \npipsim C} {B \pipsim C} \] \[\tag*{NRat\(_{\pipsim}\)} \frac{A \pipsim C \qquad A\wedge B \npipsim C}{A \wedge \neg B \pipsim C} \]
+
+<p>
+Negation Rationality is weaker than Disjunctive Rationality, which in
+turn is weaker than Rational Monotonicity (see Lehmann &amp; Magidor
+1992).</p>
+
+<h3 id="IfImpoExpoSimpDisjAnte">3.5 Or-to-if, import-export, simplification of disjunctive antecedents</h3>
+
+<p>
+To conclude this section we point out three axioms that are valid for
+the material conditional but which fail in the extensions of
+<strong>CK</strong> mentioned earlier, even in the strong logics
+<strong>C2</strong> and <strong>VC</strong> of Stalnaker and
+ Lewis.<sup>[<a href="notes.html#note-3" id="ref-3">3</a>]</sup>
+ These principles concern the interaction of conditionals with
+disjunction and conjunction. They are:</p>
+
+<table class="cellpad-med-dense vert-top">
+<tbody>
+<tr>
+  <td>OI</td>
+  <td>\((A\vee B) \supset(\neg A &gt;B)\)</td>
+  <td>(Or to If)</td> </tr>
+<tr>
+  <td>IE</td>
+  <td>\((A &gt;(B &gt;C)) \equiv (A\wedge B &gt;C)\)</td>
+  <td>(Import-Export)</td> </tr>
+<tr>
+  <td>SDA</td>
+  <td>\(((A \vee B) &gt;C) \supset((A &gt;C) \wedge (B &gt;C))\)</td>
+  <td>(Simplification of Disjunctive
+<br />
+Antecedents)</td> </tr> </tbody>
+</table>
+
+<p>
+The principle OI is intuitively plausible, but as noted by C. I.
+Lewis, assuming it leads to one of the paradoxes of the material
+conditional. For assuming that \(A\) entails \(A\vee B\) (disjunction
+introduction), and that the latter entails \(\neg A&gt;B\), by
+transitivity it should follow that \(A\) entails \(\neg A&gt;B\).
+Various options exist in the face of the paradox: to deny disjunction
+introduction, to deny transitivity, or indeed to deny the validity of
+OI. Stalnaker (1975) for one defends the invalidity of OI, arguing
+that OI is a <em>pragmatically reasonable</em> principle, but that the
+inference is context-sensitive.</p>
+
+<p>
+A similar collapse result concerns the principle IE. Gibbard (1980)
+shows that provided we have Modus Ponens, IE, LLE, and the principle
+of Supraclassicality&mdash;whereby \(A&gt;C\) must hold if \(A\)
+classically entails \(C\)&mdash;, then if the conditional entails the
+material conditional, the reciprocal also holds. McGee (1989) modified
+Stalnaker&rsquo;s semantics in such a way that IE is valid, but MP is
+no longer valid. McGee&rsquo;s rejection of MP is independently
+motivated by natural language examples, in particular by the famous
+example of the 1980 US elections, in which Reagan was ahead of the
+polls as a Republican, Carter second as a Democrat, and then Anderson
+as a distant third, but also a Republican. In this context, McGee
+argues that the following instance of MP is problematic:</p>
+
+<dl class="sentag">
+<dt>(3)</dt>
+<dd>A Republican will win. If a Republican wins, then if Reagan does
+not win, Anderson will win. Therefore if Reagan does not win, Anderson
+will win.</dd>
+</dl>
+
+<p>
+Here the conclusion is problematic, because intuitively, if Reagan
+does not win, Carter appears as the more likely winner. Recently
+Mandelkern (2020) has argued that IE should not be viewed as
+unrestrictedly valid. Mandelkern&rsquo;s argument is in part based on
+logical considerations and in part based on natural language examples.
+Mandelkern points out that in a situation (adapted from McGee&rsquo;s
+counterexample) in which Reagan is ahead of Carter and Anderson, but
+the relative situation of Anderson and Carter is not known, there is a
+contrast between:</p>
+
+<dl class="sentag">
+<dt>(4)</dt>
+<dd>If a Republican will win the election, and Anderson will win if
+Reagan doesn&rsquo;t win, then both Republicans are currently in a
+stronger position to win than Carter.</dd>
+<dt>(5)</dt>
+<dd>If a Republican will win the election, then if Anderson will win
+if Reagan doesn&rsquo;t, then both Republicans are currently in a
+stronger position to win than Carter.</dd>
+</dl>
+
+<p>
+According to Mandelkern, the latter is less acceptable than the
+former, because the second conditional antecedent &ldquo;Anderson will
+win if Reagan doesn&rsquo;t&rdquo; is contextually equivalent to
+&ldquo;a Republican will win&rdquo;. Mandelkern does find IE
+acceptable if the nested antecedent is restricted to a non-conditional
+sentence, however.</p>
+
+<p>
+Another argument against IE, put forward in Adams (1975), concerns the
+equivalence of \(A&gt;(B &gt;A)\) and \((A\wedge B) &gt;A\). Whereas
+the latter is a clear logical truth, the former is not. S. Kaufmann
+(2005) thus argues that the validity or invalidity of IE depends on
+specific causal assumptions linking the consequent and the
+antecedents.</p>
+
+<p>
+The case of SDA is also a bone of contention between theorists.
+Chellas (1975) and Fine (1975) first pointed out that SDA seems
+intuitively valid, against Lewis&rsquo;s and Stalnaker&rsquo;s
+theories. However, as pointed out by Ellis, Jackson, and Pargetter
+(1977), SDA and LLE together imply Monotonicity: from \(A&gt;C\), it
+follows that \(((A\wedge B) \vee (A\wedge \neg B)) &gt;C\) by LLE, and
+thus by SDA, \((A\wedge B) &gt;C\).</p>
+
+<p>
+Since then, various theorists have proposed to abandon LLE (viz., Nute
+1980; Fine 2012; Ciardelli, Zhang, &amp; Champollion 2018; Santorio
+2018) in order to endorse SDA without Monotonicity. Santorio (2018) in
+particular provides a systematic comparison between pragmatic accounts
+based on the idea that SDA might be based on a mechanism akin to
+scalar implictures (see Klinedinst 2009), and semantic accounts based
+on the idea that logically equivalent antecedents can directly
+generate different alternatives. Santorio&rsquo;s proposal, in a
+nutshell, is that \(A&gt;C\) is true iff the alternative propositions
+\(A_1,\dots,A_n\) that are ways for \(A\) to be true are such that the
+closest worlds in them are \(C\)-worlds.</p>
+
+<p>
+Importantly, Santorio&rsquo;s account drops LLE but nevertheless makes
+SDA only optionally valid. Lassiter (2018) recently suggested that
+some classic counterexamples put forward against SDA by McKay and
+Inwagen (1977), and originally judged inconclusive, can be
+strengthened. For example, assuming Jim likes odd numbers but is
+indifferent between them, and actually bet on 5, one can accept:</p>
+
+<dl class="sentag">
+<dt>(6)</dt>
+<dd>If Jim had bet on 1 or 3, there is an exactly 50% probability that
+he would have bet on 3.</dd>
+</dl>
+
+<p>
+SDA would predict:</p>
+
+<dl class="sentag">
+<dt>(7)</dt>
+<dd>
+
+<dl class="sentag tag2em">
+<dt>a.</dt>
+<dd>If Jim had bet on 1 there is an exactly 50% probability that he
+would have bet on 3.</dd>
+<dt>b.</dt>
+<dd>If Jim had bet on 3 there is an exactly 50% probability that he
+would have bet on 3.</dd>
+</dl> </dd>
+</dl>
+
+<p>
+Both conclusions are problematic under at least one reading. However,
+we note that there is also a reading that would make them fine, if the
+evaluation of chance is prior to Jim&rsquo;s betting.</p>
+
+<p>
+In summary, we see that although OI, IE and SDA appear intuitively
+valid, to accept them involves substantive trade-offs regarding other
+basic principles.</p>
+
+<h2 id="PremSema">4. Premise Semantics</h2>
+
+<h3 id="Moti_1">4.1 Motivations</h3>
+
+<p>
+Some early theories of conditionals said that a counterfactual is
+true, or assertable, if and only if its antecedent, together with
+further &ldquo;co-tenable&rdquo; premises, implies its consequent
+(Ramsey 1931 commenting on Mill; Chisholm 1946; Goodman 1947, 1955;
+Mackie 1962). D. Lewis called such theories metalinguistic, the idea
+being that &ldquo;if \(A\), \(C\)&rdquo; is true provided there is an
+argument leading from the sentence \(A\) and additional premises to
+\(C\). On these accounts, the counterfactual is either a sentence
+meaning that some suitable argument backing it exists, or&mdash;as in
+Mackie&rsquo;s version&mdash;it is itself an elliptical presentation
+of such an argument. The principal problem of any such theory is to
+specify which &ldquo;additional premises&rdquo; are suitable to be
+conjoined to a given antecedent and which are not. Goodman (1955)
+views the additional premises as general laws, supplemented by
+relevant factual conditions, but the problem is to determine which
+facts are to be assumed, and which facts are to be retracted. Rescher
+(1964) treats additional potential premises as ordered according to
+their position in a system of &ldquo;modal categories&rdquo;.</p>
+
+<p>
+An account of the co-tenability idea based on possible worlds was
+further elaborated in the work of Veltman (1976) and Kratzer (1979),
+in what has come to be known as <em>premise semantics</em> (an
+expression coined by D. Lewis 1981). Premise semantics can be
+presented either as providing acceptance conditions or as providing
+truth conditions. It is compatible with an epistemic as well as with
+an ontic interpretation of conditionals. The former builds on the idea
+that the premises represent essentially an agent&rsquo;s basic
+beliefs; this is the approach of Veltman (1976) who took inspiration
+from Ramsey. The latter takes the premises to represent the basic
+facts of a possible world; this is the approach of Kratzer (1979,
+1981), who was inspired by Rescher and Lewis (D. Lewis 1981) and has
+functions assigning a premise set to every possible world. In any
+case, the idea of premise semantics is this. Relative to a given set
+\(\Gamma\) of premises (assigned to a possible world \(w\)), a
+conditional \(A&gt;B\) is accepted (or true at \(w\)) if and only if
+for every maximal subset of \(\Gamma'\) of \(\Gamma\) that is
+consistent with \(A\) it holds that \(\Gamma' \cup \{A\}\) implies
+\(B\).</p>
+
+<h3 id="PremFram">4.2 Premise frames</h3>
+
+<p>
+More formally, a <em>premise frame</em> is a pair \(\langle W,
+\Gamma\rangle\) where \(W\) is a non-empty set of possible worlds and
+\(\Gamma: W \to \cP(\cP(W))\) is as a function assigning to any world
+\(w\) a set of propositions&mdash;the premises for \(w\). One may, but
+need not stipulate that \(w\) does, and all other worlds do not,
+belong to every proposition in \(\Gamma(w)\) (Centering). For the sake
+of simplicity, we assume that \(W\) is finite. A <em>premise
+model</em> is a triple \(M = \langle W, \Gamma, V\rangle\) such that
+\(\langle W, \Gamma\rangle\) is a premise frame and \(V\) a valuation
+function. For any proposition \(F\), let \(\Gamma(w)\bot F\) denote
+the set of all subsets of \(\Gamma(w)\) that are consistent with \(F\)
+but have no proper supersets in \(\Gamma(w)\) that are also consistent
+with \(F\). That is, \(\Gamma(w)\bot F\) is the set of subsets of
+\(\Gamma(w)\) that are maximally consistent with \(F\). The truth
+conditions for conditionals are:</p> 
+
+\[\tag{PS} M, w \Vdash A &gt;C \text{ iff for each } X \in \Gamma(w)\bot\lvert A\rvert^M, \\ \bigcap (X\cup \lvert A\rvert^M) \subseteq \lvert C\rvert^M. \]
+
+<p>
+This means that a (counterfactual) conditional is true at a world
+\(w\) if each set of basic beliefs or facts associated with this world
+that is maximally consistent with \(A\), taken together with \(A\),
+implies \(C\).</p>
+
+<p>
+Kratzer shows how this definition gives the flexibility to either
+&ldquo;lump&rdquo; some facts together, or to keep facts separate from
+each other relative to a conditional antecedent. One of her
+illustrative examples is the
+ following.<sup>[<a href="notes.html#note-4" id="ref-4">4</a>]</sup>
+ Angelika and Regina must pass a bridge one after the other. Angelika
+takes one minute to pass the bridge, and Regina is waiting one minute
+before passing. Assuming Angelika had passed the bridge in 40 seconds,
+would Regina still be waiting for one minute? Let \(B\) represent
+&ldquo;Angelika passes in one minute&rdquo;, \(C\) &ldquo;Regina waits
+one minute&rdquo; and \(A\) represent &ldquo;Angelika passes in 40
+seconds&rdquo;, with the proviso that \(A\) and \(B\) are
+inconsistent. The issue is whether the conditional \(A&gt;C\),
+&ldquo;if Angelika had passed in 40 seconds, Regina would have waited
+one minute&rdquo;, is true or false. One option is to let
+ \(\Gamma(w)=\{B,C\}\).<sup>[<a href="notes.html#note-5" id="ref-5">5</a>]</sup>
+ \(\Gamma(w)\cup \{A\}\) is inconsistent, but contains as maximal
+\(A\)-consistent set only \(\{A,C\}\) and the intersection of this set
+entails \(C\). This predicts that Regina would have waited one minute
+indeed under the assumption that Angelika had passed faster. Another
+option is to let \(\Gamma(w)=\{B\cap C\}\). This time, \(\Gamma(w)\cup
+\{A\}\) contains \(\{A\}\) as sole maximal \(A\)-consistent set, and
+this set fails to entail \(C\). Although the two premise sets have the
+same intersection, the lumping of premises in the second set leads one
+to retract more facts when making the counterfactual assumption. This
+flexibility, as emphasized by Kratzer, accounts for the
+context-sensitivity of conditionals.</p>
+
+<p>
+It is easy to see how premise semantics invalidates Transitivity. For
+example, if</p> 
+
+\[\Gamma(w) = \{A\supset B,\, A\supset\neg C,\, \neg A\wedge(B\supset C)\},\]
+
+<p>
+then we get that both \(A&gt;B\) and \(B&gt;C\) are true, but
+\(A&gt;C\) is false at \(w\) (in fact, \(A&gt;\neg C\) is true; see
+ <a href="#figpcounterxtrans">Fig. 2</a>).
+ There are similar counterexamples to Monotonicity and
+Contraposition.</p>
+
+<div class="figure avoid-break" id="figpcounterxtrans">
+<img alt="a diagram: link to extended description below" src="figure2.svg" />
+
+<p>
+<span class="figlabel">Figure 2:</span> Counterexample against
+Transitivity in a premise model [An
+ <a href="figdesc.html#figocounterxtrans">extended description of figure 2</a>
+ is in the supplement.]</p>
+</div>
+
+<h3 id="CorrOrdeSema">4.3 Correspondence with ordering semantics</h3>
+
+<p>
+David Lewis (1981) proved that the truth conditions of premise
+semantics and ordering semantics fundamentally correspond to each
+other. One can start with a premise model and define a strict partial
+ordering for an o-model that gives the same results: define \(u
+\prec_w v\) iff the set of all premises in \(\Gamma(w)\) true at world
+\(u\) is a proper superset of the set of premises true at world \(v\).
+And conversely, one can start with an o-model based on a strict
+partial ordering and define a premise model that gives the same
+results: define \(\Gamma(w)\) as the set of all propositions of the
+form</p> 
+
+\[X_v := \{u\in W: u\prec_w v \text{ or } u=v\},\]
+
+<p>
+for every \(v\in W\).</p>
+
+<p>
+Lewis in his paper discusses several refinements of the
+correspondence, depending on which conditions are imposed on ordering
+frames, and further results can be found in Chemla (2011). From a
+philosophical and foundational perspective, the correspondence may be
+taken to suggest that the choice between an ordering-first approach
+and a premise-first approach doesn&rsquo;t matter. Arguably, however,
+a premise semantics may be judged more explanatory than one in which
+the ordering comes first, for two reasons. First of all, from a
+cognitive perspective, it may be argued that premise semantics is
+closer to implementing the Ramsey test idea, since an ordering
+semantics only implicitly refers to the idea of making adjustments to
+one&rsquo;s belief set. Secondly, in an o-semantics the question is
+indeed moot what determines similarity between worlds. Of course,
+which facts to admit or not in premise semantics is also problematic,
+but using propositions as an ordering source makes clearer that
+similarity between worlds is a relative rather than an absolute
+matter. In recent years, several authors have proposed to further
+clarify the problem of premise selection in counterfactuals by looking
+at causal models of reasoning (K. Schulz 2007; Briggs 2012; S.
+Kaufmann 2013; Santorio 2019).</p>
+
+<p>
+Based on the correspondence between ordering semantics and premise
+semantics, Kratzer (1979) mentions that Burgess&rsquo;s system
+<strong>B</strong> is sound and complete for the latter. Veltman
+(1985: 108&ndash;132) proved that flat conditionals interpreted by
+premise semantics can be characterized by the axioms of system
+<strong>P</strong>. Results obtained in the 1990s show that such
+conditionals have an additional special property that cannot, however,
+be expressed as an axiom of conditional
+ logic:<sup>[<a href="notes.html#note-6" id="ref-6">6</a>]</sup></p>
+ 
+<dl class="sentag" id="exstar">
+<dt>\((*)\)</dt>
+<dd>If \((A\vee B) &gt;C\) is accepted (or true at \(w\)), then there
+are \(D\) and \(E\) such that \(D\wedge E\) entails \(C\), and \(A
+&gt;D\) and \(B &gt;E\) are both accepted (or true at \(w\)).</dd>
+</dl>
+
+<p>
+Among the recent modifications of premise semantics with causal
+models, Santorio&rsquo;s (2019) filtering semantics ends up giving up
+OR.</p>
+
+<h2 id="ProbLogi">5. Probabilistic Logics</h2>
+
+<p>
+The idea that the right semantics for conditionals may be
+probabilistic is appealing for at least three reasons. First of all,
+as pointed out by Adams (1965), it is unclear whether it makes sense
+to declare either true or false conditionals with false antecedents.
+Adams thus prefers to think of conditionals as having assertability
+conditions, rather than truth conditions, and justified assertability
+is naturally handled in terms of probability. Adams&rsquo;s scepticism
+about truth conditions for conditionals is shared by several authors,
+in particular Gibbard (1980) and Edgington (1995), and it was further
+fueled by Lewis&rsquo;s (1976) triviality results. Secondly, many
+conditional sentences appear to express only a relation of probable
+inference between antecedent and consequent. Thus, whereas &ldquo;if
+\(a=b\), then \(a+1=b+1\)&rdquo; expresses a purely deductive
+relation, &ldquo;if you boil this egg, it will become hard&rdquo;
+expresses an inductive relation, and &ldquo;if the light does not turn
+on, then the lamp must be broken&rdquo; expresses an abductive
+relation (Douven &amp; Verbrugge 2010; Krzy&#380;anowska, Wenmackers,
+&amp; Douven 2013; Douven 2016). But in the same way in which
+inductive and abductive inferences express that a conclusion may be
+inferred from given premises with only a reasonable probability,
+putting these inferences into a conditional appears to demand the
+assignment of a degree of probability to the corresponding sentences.
+Thirdly, as stressed by Stalnaker (1970),</p>
+
+<blockquote>
+
+<p>
+[a]lthough the interpretation of probability is controversial, the
+abstract calculus is a relatively well defined and well established
+mathematical theory.</p>
+</blockquote>
+
+<p>
+Indeed, based on its mathematical simplicity, the theory offers a
+universal framework in the psychology of reasoning, where conditionals
+occupy central stage (Over, Hadjichristidis, Evans, Handley, &amp;
+Sloman 2007). We open this section with Adams&rsquo;s logic for
+conditionals. We then explain Lewis&rsquo;s triviality results and the
+problem they raise for the assignment of probabilities to compounds of
+conditionals.</p>
+
+<h3 id="AdamLogi">5.1 Adams&rsquo;s logic</h3>
+
+<p>
+Central to probabilistic treatments of conditionals is the notion of
+conditional probability. Given a Boolean formula \(A\) of \(L_0\), and
+a set \(W\) of possible worlds over which they are interpreted, we let
+\(\Pr(A)\) denote \(\Pr(\lvert A\rvert)\), namely the probability
+assigned to the worlds in which \(A\) is true. For \(A\) and \(C\) two
+Boolean formulae, the conditional probability
+\(\Pr(C\mkern2mu|\mkern2muA)\) is definable by the Ratio Formula:</p>
+
+<ul class="hanging">
+
+<li><strong>(Ratio Formula)</strong>
+\(\Pr(C\mkern2mu|\mkern2muA)=\displaystyle\frac{\Pr(A\wedge
+C)}{\Pr(A)}\), provided \(\Pr(A)&gt;0\).</li>
+</ul>
+
+<p>
+Now consider the problem of determining the probability that if a fair
+die lands even, it will land on six. The probability of the material
+conditional &ldquo;either it is not even, or it is a six&rdquo; is</p>
+
+\[\Pr(1\vee 3\vee 5\vee 6)=\nicefrac{2}{3}.\]
+
+<p>
+This clearly exceeds the probability sought, which is instead captured
+in terms of the conditional probability of getting a six assuming it
+is an even number,</p> 
+
+\[\Pr(6 \mid 2\vee 4 \vee 6)=\nicefrac{1}{3}.\]
+
+<p>
+More generally, the probability \(\Pr(A\supset C)\) of any material
+conditional is never less than the conditional probability
+\(\Pr(C\mkern2mu|\mkern2muA)\), a point apparently first stressed by
+Reichenbach (1949, p. 437).</p>
+
+<p>
+Adams&rsquo;s central assumption is that for every conditional
+sentence \(A&gt;C\) in which \(A\) and \(C\) are Boolean sentences,
+and for every probability function \(\Pr\), the probability of the
+conditional equals the corresponding conditional probability:</p>
+
+<ul class="hanging">
+
+<li><strong>(Adams&rsquo;s Thesis)</strong> For every Boolean
+sentences \(A\), \(C\), and every probability function \(\Pr\),
+\(\Pr(A&gt;C)=\Pr(C\mkern2mu|\mkern2muA)\), provided
+\(\Pr(A)&gt;0\).</li>
+</ul>
+
+<p>
+Adams&rsquo;s Thesis has two sides. From the inner standpoint of
+Adams&rsquo; logic of conditionals, it may be viewed as a
+<em>definition</em>: the conditional probability defines the degree of
+probability assigned to a simple conditional. From the outer
+standpoint of ordinary English, Adams&rsquo;s Thesis makes an
+empirical claim: namely, that the <em>assertability</em> of a simple
+conditional is a function of the conditional probability of the
+consequent given the antecedent.</p>
+
+<p>
+Stipulating that \(\Pr(A&gt;C)=1\) when \(\Pr(A)=0\), Adams
+investigates several notions of validity for the language \(L_1\) of
+flat conditionals. His original definition is the following:</p>
+
+<ul class="hanging">
+
+<li><strong>(Probabilistic Validity)</strong> An inference is
+<em>probabilistically valid</em> if and only if, for any positive
+\(\varepsilon\), there exists a positive \(\delta\) such that under
+any probability assignment under which each of the premises has a
+probability greater than \(1 - \delta\), the conclusion will have a
+probability of at least \(1 - \varepsilon\).</li>
+</ul>
+
+<p>
+One way of understanding this definition is by contraposing it: an
+argument is invalid when an arbitrarily high probability can be
+assigned to the premises, but such that the conclusion falls short of
+a high probability.</p>
+
+<p>
+Adams contrasts this definition with an alternative criterion for
+validity that is perhaps more intuitive:</p>
+
+<ul class="hanging">
+
+<li><strong>(Strict Validity)</strong> An inference is <em>strictly
+valid</em> if and only if its conclusion has probability 1 under any
+probability assignment under which its premises each have probability
+1.</li>
+</ul>
+
+<p>
+Every probabilistically valid inference is strictly valid, but not
+vice versa. Strict validity coincides with classical validity. In
+later work, Adams uses an alternative definition of probabilistic
+validity, based on the notion of uncertainty. Given a probability
+function \(\Pr\), the uncertainty U\((A)\) of a sentence \(A\) is
+defined as \(1-\Pr(A)\):</p>
+
+<ul class="hanging">
+
+<li><strong>(p-Validity)</strong> An inference is <em>p-valid</em> if
+and only if for every probability assignment, the uncertainty of the
+conclusion is no greater than the sum of the uncertainty of the
+premises.</li>
+</ul>
+
+<p>
+Probabilistic validity and \(p\)-validity can be shown to coincide
+(Adams 1975: Thm. 3.1). For Boolean formulae, moreover, Adams shows
+that the three definitions of validity coincide with classical
+validity. For conditional sentences, however, the resulting logic is
+weaker, and corresponds in fact to system <strong>P</strong>.</p>
+
+<p>
+As in the semantics considered in
+ <a href="#PossWorlMode">sections 3</a>
+ and<a href="#PremSema"> 4</a>, Monotonicity, Transitivity, and Contraposition fail
+in Adams&rsquo; semantics. Consider Transitivity: it is easy to
+construct models in which \(\Pr(B\mkern2mu|\mkern2muA)=1\),
+\(\Pr(C\mkern2mu|\mkern2muB)&gt;1-\delta\) for positive, but
+arbitrarily small \(\delta\), and yet \(\Pr(C\mkern2mu|\mkern2muA)=0\)
+(see
+ <a href="#figcounterxtrans">Fig. 3</a>).</p>
+ 
+<div class="figure avoid-break" id="figcounterxtrans">
+<img alt="a diagram: link to extended description below" src="figure3.svg" />
+
+<p>
+<span class="figlabel">Figure 3:</span> Counterexample against
+Transitivity in an Adams model [An
+ <a href="figdesc.html#figocounterxtrans">extended description of Figure 3</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+This yields a counterexample according to either definition of
+probabilistic validity. Similar examples can be constructed for
+Monotonicity, Contraposition, and the paradoxes of the material
+conditional.</p>
+
+<h3 id="LewiTrivTheo">5.2 Lewis&rsquo;s triviality theorem</h3>
+
+<p>
+Viewed as logics that tell us which conditionals are consequences of a
+given set of conditionals, Adams&rsquo;s logic coincides, over their
+common language, with Stalnaker&rsquo;s and Lewis&rsquo;s logics. That
+is, for every argument with a finite set of premises \(\Gamma\) and
+conclusion \(A\) of \(L_1\), \(A\) is a \(p\)-consequence of
+\(\Gamma\) iff \(A\) is a consequence of \(\Gamma\) according to
+Stalnaker&rsquo;s semantics (see Gibbard 1980 for a
+ proof).<sup>[<a href="notes.html#note-7" id="ref-7">7</a>]</sup>
+ However, the main limit of Adams&rsquo;s logic is that it does not
+account for embeddings of conditionals (negated conditionals,
+disjunctions of conditionals, right-nested and left-nested
+conditionals). Nevertheless, the coincidence of the logics generated
+by possible worlds and probabilistic semantics suggests that
+Adams&rsquo; Thesis could be extended to the language \(L_2\) of
+arbitrarily complex conditionals. This hypothesis is known as
+Stalnaker&rsquo;s Hypothesis, who formulates it in his 1970
+ article.<sup>[<a href="notes.html#note-8" id="ref-8">8</a>]</sup></p>
+ 
+<ul class="hanging">
+
+<li><strong>(Stalnaker&rsquo;s Hypothesis)</strong> For every
+probability function \(\Pr\) and for every conditional \(A&gt;C\),
+possibly complex: \(\Pr(A&gt;C)=\Pr(C\mkern2mu|\mkern2muA)\), provided
+that \(\Pr(A)&gt;0\).</li>
+</ul>
+
+<p>
+The empirical adequacy of Stalnaker&rsquo;s Hypothesis depends on the
+treatment of nested conditionals. However, Lewis (1976) shows that
+under rather uncontroversial assumptions on the probability of nested
+conditionals, the thesis leads to triviality. Lewis assumes the
+following Factorization Hypothesis (Fitelson 2015):</p>
+
+<ul class="hanging">
+
+<li><strong>(Factorization Hypothesis)</strong> For every probability
+function \(\Pr\) and for all sentences \(A\) and \(B\) such that
+\(\Pr(A\wedge B)&gt;0\):</li> 
+
+	<li>\[\Pr(B &gt;C\mid A)=\Pr(C\mid A\wedge B).\]</li>
+
+</ul>
+
+<p>
+Given Stalnaker&rsquo;s Hypothesis, the Factorization Hypothesis is
+equivalent to the Law of Import-Export, namely \(\Pr(A &gt; (B &gt;
+C))=\Pr((A\wedge B) &gt; C).\)</p>
+
+<p>
+From Factorization, Lewis derives the following result, which
+basically expresses that the probability of the conditional collapses
+to the unconditional probability of its consequent:</p>
+
+<ul class="hanging">
+
+<li><strong>Triviality Theorem (Lewis)</strong> If \(A\) is
+probabilistically compatible with both \(C\) and \(\neg C\), that is,
+if \(\Pr(A\wedge C)&gt;0\) and \(\Pr(A\wedge \neg C)&gt;0\), then
+\(\Pr(A&gt;C)=\Pr(C)\).</li>
+</ul>
+
+<p>
+The proof goes as follows:</p> 
+
+\[\begin{align} 
+\Pr(A&gt; C)&amp;=\Pr(A&gt;C\mid C)\Pr(C) + \Pr(A&gt;C\mid \neg C)\Pr(\neg C) \\
+  &amp; \hspace{4cm} {\scriptsize\text{(Expansion)}}\\ 
+\Pr(A&gt;C\mid C)&amp;=\Pr(C\mid A\wedge C) = 1 \\
+  &amp; \hspace{4cm} {\scriptsize\text{(by Factorization)}}\\ 
+\Pr(A&gt;C\mid \neg C)&amp;=\Pr(C\mid A\wedge \neg C) = 0 \\
+  &amp; \hspace{4cm} {\scriptsize\text{(by Factorization)}}\\ 
+\Pr(A&gt;C)&amp;=1\cdot \Pr(C)+0\cdot \Pr(\neg C) = \Pr(C) 
+\end{align}\]
+
+<p>
+Lewis himself states further variants, and several generalizations
+have been proposed since (H&aacute;jek &amp; Hall 1994; Bradley 2000;
+Milne 2003; Fitelson 2015). Bradley (2000) in particular shows that
+the following Preservation Condition inspired by Belief Revision
+theory also leads to triviality.</p>
+
+<ul class="hanging">
+
+<li><strong>Preservation Condition (Bradley):</strong> For every
+probability function \(\Pr\) and all sentences \(A\) and \(C\), if
+\(\Pr(A)&gt;0\) and \(\Pr(C)=0\), then \(\Pr(A&gt;C)=0\).</li>
+</ul>
+
+<p>
+The condition is weaker than Stalnaker&rsquo;s Thesis, and therefore
+it extends triviality to an even wider class of conditionals.</p>
+
+<h3 id="CardImag">5.3 Cardinality and imaging</h3>
+
+<p>
+Lewis&rsquo;s triviality results expose a mismatch between
+\(\Pr(C\mkern2mu|\mkern2muA)\) and \(\Pr(A&gt;C)\). To clarify the
+phenomenon, we ask what each quantity represents in light of
+Lewis&rsquo;s result, already for simple conditionals.</p>
+
+<h4 id="Card">5.3.1 Cardinality</h4>
+
+<p>
+Let us start with \(\Pr(C\mkern2mu|\mkern2muA)\). Even with a fixed
+probability assignment over a finite set of worlds, the conditional
+probability may not correspond to the probability of any set of
+worlds. Let \(W=\{a,b,c\}\) and let</p> 
+
+\[\Pr(a)=\Pr(b)=\Pr(c)=&frac13;.\]
+
+<p>
+Clearly,</p> 
+
+\[\Pr(a\mid a\vee b)=&frac12;.\]
+
+<p>
+However, in the Boolean algebra generated from \(W\), no
+possible-worlds proposition gets a probability of &frac12; under
+\(\Pr\). H&aacute;jek (1989) in fact showed that there are more
+distinct conditional probability values than distinct unconditional
+probability values, for any finite set of possible worlds \(W\) that
+has at least three worlds with non-zero probability. As pointed out in
+&Eacute;gr&eacute; and Cozic (2011), this result offers a structural
+analogy with undefinability results in generalized quantifier theory.
+&ldquo;Most \(A\)s are \(C\)s&rdquo; is not definable by applying the
+unrestricted &ldquo;most&rdquo; to first-order definable propositions.
+Similarly here, we may view the result as showing that in a sentence
+like &ldquo;there is a probability of &frac12; that if \(A\) then
+\(C\)&rdquo;, the embedded conditional does not express any
+proposition.</p>
+
+<p>
+This result, however, is compatible with the idea that if-clauses
+fundamentally act as restrictors of overt or covert operators (see
+Lewis 1975; Kratzer 2012; and
+ <a href="#Moda">section 8.1</a>
+ below). &Eacute;gr&eacute; and Cozic (2011) use the result to
+vindicate that view, though Charlow (2016) argues that the restrictor
+view is not in itself immune to triviality. Another take on it
+concerns three-valued approaches. In the three-valued case, the
+assertability of a proposition is naturally viewed as the probability
+of that proposition being true given it has a determinate truth value
+(McDermott 1996). Assuming De Finetti&rsquo;s scheme for the
+conditional, the assertability of \(A&gt;C\) is then equal to the
+probability that \(A\wedge C\) is true, given that \(A\) is true, and
+so to the conditional probability. This derives Adams&rsquo; Thesis
+for simple conditionals. That fact notwithstanding, note that with
+\(a, b,c\) as atoms and \(\Pr\) as equiprobable on them, again there
+is no three-valued proposition whose probability is &frac12; for the
+conditional \(a\vee b &gt; a\), if we define a possible world by an
+assignment of one of the three values to atomic propositions (and
+handle disjunction Strong Kleene style). Rather, if three-valued
+conditionals do express propositions, those propositions then need to
+be viewed as relations between those worlds where the sentence is true
+and those where it is defined, so again as more complex objects than
+set of worlds (cf. Dubois &amp; Prade 1994 who represent them as
+pairs).</p>
+
+<h4 id="Imag">5.3.2 Imaging</h4>
+
+<p>
+Consider now \(\Pr(A&gt;C)\). Assume Stalnaker&rsquo;s semantics for
+\(A&gt;C\); what does the probability of that conditional correspond
+to, if not the conditional probability? D. Lewis (1976) identifies a
+revision rule he calls <em>imaging</em>. Given \(\Pr\), he defines
+\(\Pr\mkern.1mu'_A\) to be the imaging under the antecedent, where
+\(\Pr\mkern.1mu'_A(w)=0\) if \(w\) is not an \(A\)-world; and if \(w\)
+is an \(A\)-world, then \(\Pr\mkern.1mu'_A(w)\) equals \(\Pr(w)\)
+augmented by the sum of the non-\(A\) worlds to which \(w\) comes
+closest according to Stalnaker&rsquo;s selection function. Lewis shows
+that the probability of Stalnaker&rsquo;s conditional is the
+probability of the consequent under imaging by the antecedent. Whereas
+conditioning upon \(A\) kills off the non-\(A\) worlds and spreads
+their mass uniformly over the \(A\)-worlds, imaging upon \(A\) is a
+different operation, which shifts the weight of non-\(A\) worlds
+non-uniformly to the \(A\)-worlds depending on the selection function
+(see
+ <a href="#figconditionalizationvsimaging">Fig. 4</a>).</p>
+ 
+<div class="figure" id="figconditionalizationvsimaging">
+
+<div class="inner-fig avoid-break" id="fig4a" style="width:45%">
+<img alt="a diagram: link to extended description below" src="figure4a.svg" />
+
+<p class="left">
+(a) Conditionalization on \(A\) results in posterior probabilities
+\(\Pr'(u)=\frac{p}{p+q}\), \(\Pr'(v)=\frac{q}{p+q}\) and
+\(\Pr'(w)=0\).</p>
+</div>
+
+<div class="inner-fig avoid-break" id="fig4b" style="width:45%">
+<img alt="a diagram: link to extended description below" src="figure4b.svg" />
+
+<p class="left">
+(b) Imaging on \(A\) results in posterior probabilities
+\(\Pr'(u)=p+r\), \(\Pr'(v)=q\) and \(\Pr'(w)=0\).</p>
+</div>
+
+<p class="left">
+<span class="figlabel">Figure 4:</span> Example with \(W=\{u,v,w\}\)
+and prior probabilities \(\Pr(u)=p\), \(\Pr(v)=q\) and \(\Pr(w)=r\).
+In the figure a red dashed arrow from \(x\) to \(y\) represents that
+\(y\) is the closest \(A\)-world to \(x\) [An
+ <a href="figdesc.html#figconditionalizationvsimaging">extended description of Figure 4</a>
+ is in the supplement.]</p>
+</div>
+
+<p>
+An example from Edgington (2020) can help to figure out the
+difference. Assume a stack of 100 straws, out of which 90 are 10 cm
+long, 1 is 11 cm long, and 9 are 20 cm long. Consider the conditional
+&ldquo;if the straw is longer than 10 cm, then it is shorter than 15
+cm&rdquo;. Assume similarity between worlds is set by the closeness in
+lengths between straws. The probability of the set of worlds in which
+Stalnaker&rsquo;s conditional is true is \(\nicefrac{91}{100}\), since
+the 10-cm-straw worlds and the 11-cm-straw world are such that the
+closest world in which the straw is longer than 10 cm is indeed a
+world where it is less than 15 cm. But the conditional probability for
+the conditional is \(\nicefrac{1}{10}\), since only one of the straws
+that are 11 cm or 20 cm long is less than 15 cm.</p>
+
+<p>
+The upshot of these considerations is that starting from
+Stalnaker&rsquo;s conditional, we can see that its probability is not
+the conditional probability, but the imaging probability (for more on
+imaging, we refer to G&uuml;nther 2018). Conversely, starting from the
+conditional probability of \(C\) given \(A\), we have seen that it is
+not in general equal to the probability of any possible world
+proposition. Importantly, Adams&rsquo;s Thesis remains coherent for
+simple conditionals <em>qua</em> definition, because it stipulates
+that the probability of a conditional sentence is a certain
+conditional probability. However, as an empirical thesis,
+Stalnaker&rsquo;s Hypothesis states a substantive identity between
+quantities defined separately, and we now see better why it should
+fail. Whether Adams&rsquo; Thesis holds as a matter of empirical fact
+and even for simple conditionals is still debated. Recent findings, to
+which we return in
+ <a href="#ReleDiffMaki">section 7</a>,
+ suggest that relevance considerations also come into play (Douven
+2016; Skovgaard-Olsen, Singmann, &amp; Klauer 2016).</p>
+
+<h3 id="ProbForCompCond">5.4 Probabilities for compound conditionals</h3>
+
+<p>
+Stalnaker&rsquo;s Thesis is consistent for simple conditionals, but
+fails for conditionals of arbitrary complexity. A challenge is to
+extend Stalnaker&rsquo;s Thesis to more or less extended classes of
+compound conditionals. Several proposals have been made toward that
+goal. The associated literature is quite technical, however, and we
+give only a few landmarks here. Important is that all the resulting
+systems mentioned here conservatively extend Adams&rsquo;s basic
+logic, namely system <strong>P</strong> (i.e., they preserve the same
+axioms for simple conditionals, though not necessarily for compound
+conditionals).</p>
+
+<p>
+Van Fraassen (1976) extends Stalnaker&rsquo;s Thesis to right-nested
+conditionals of the form \(A&gt; (B&gt;C)\) in which \(A, B,C\) are
+Boolean, and to left-nested conditionals \((A&gt;B)&gt;C\) with the
+same restriction, and he can also deal with specific conjunctions and
+disjunctions of conditionals. Van Fraassen&rsquo;s proposal involves a
+product space construction, relying on so-called Stalnaker-Bernoulli
+models, allowing him to assign probabilities to infinite sequences of
+worlds based on standard Stalnaker models. The construction is used in
+Stalnaker and Jeffrey (1994) and extended in S. Kaufmann (2009). One
+noteworthy aspect of the construction is that the probability of
+right-nested conditionals of the form \(A&gt;(B&gt;C)\) is not in all
+cases identical to the probability of \((A\wedge B) &gt; C\). McGee
+(1989) on the other hand proposes a distinct construction that does
+not permit left-nested conditionals, but which is intended to secure
+the law of import-export for right-nested conditionals (famously, by
+giving up Modus Ponens for nested conditionals). Both approaches have
+some probabilistic principles in common, however, for instance</p>
+
+\[\Pr(A\wedge (A&gt;B))=\Pr(A\wedge B)\]
+
+<p>
+holds in both theories. For both approaches, moreover, the associated
+logics are semantically interpretable starting from Stalnaker&rsquo;s
+possible world semantics. Bradley (2012) builds on the
+Jeffrey-Stalnaker and McGee approaches to show that for simple
+conditionals Adams Thesis can be derived by assigning probabilities to
+pairs of worlds, instead of just worlds. The probability of a pair
+\((w_0,w_1)\) represents the probability that \(w_0\) is the actual
+world, and that \(w_1\) is its selected alternative given the
+antecedent under discussion (note that one needs such probabilities
+for all potential antecedents). A generalization of this property to
+nested conditionals is outlined, with philosophical emphasis on the
+idea that the probability of a conditional does not depend on a single
+world, but also on the nonfactual relations of counterfactual
+dependence between worlds.</p>
+
+<p>
+A related approach to iterated conditionals is based on the so-called
+coherence approach to probability, coming from de Finetti&rsquo;s
+betting view of probability (see Coletti &amp; Scozzafava 1999; Gilio
+2002; Gilio &amp; Sanfilippo 2014; and Pfeifer 2014 for an
+introduction). The idea is that probability degrees can be attached to
+conditional events so long as they do not violate certain coherence
+constraints on those bets (no sure losses or &ldquo;Dutch
+books&rdquo;). In this framework the probability of an event is
+defined in terms of the technical notion of prevision. The prevision
+\(x\) attached to \(A&gt;C\) corresponds to the fact that</p>
+
+<blockquote>
+
+<p>
+for every real number \(s\), you are willing to pay (resp., to
+receive) an amount \(sx\) and to receive (resp., to pay) \(s\), or
+\(0\), or \(sx\), according to whether \(A\wedge C\) is true, or
+\(A\wedge\neg C\) is true, or \(\neg A\) is true (bet called off),
+respectively. (Sanfilippo, Gilio, Over, &amp; Pfeifer (2020 notation
+adapted))</p>
+</blockquote>
+
+<p>
+Depending on independence assumptions concerning basic propositions,
+previsions can be defined not only for conjunctions of conditionals,
+but also for various nested conditionals. A recent overview of results
+in that domain appears in Sanfilippo et al. (2020).</p>
+
+<h2 id="BeliReviAppr">6. Belief Revision Approaches</h2>
+
+<p>
+While Stalnaker rendered Ramsey&rsquo;s suggestion about the role of
+&ldquo;if \(A\)&rdquo; in terms of closest antecedent world, and Adams
+focused on the probabilistic interpretation of it, Peter
+G&auml;rdenfors (1978) introduced a semantics of conditionals that
+uses the Ramsey idea in a direct and purely qualitative way. His
+approach is resolutely epistemic&mdash;or more precisely,
+doxastic&mdash; and it is based on the notion of belief or acceptance.
+Precursors of this approach were William Harper (1976) and Isaac Levi
+(1977).</p>
+
+<h3 id="BeliReviModeRamsTest">6.1 Belief revision models and the Ramsey test</h3>
+
+<p>
+A <em>belief set</em> over a language \(L\) is a set of sentences that
+is closed under a given background logic \(\iCn\) (i.e., a
+<em>theory</em> in the logician&rsquo;s sense). A <em>belief revision
+model</em> (BRM) is a pair \(M = \langle \cK, *\rangle\), where
+\(\cK\) is a set of belief sets over \(L\) and *: \(\cK \times L \to
+\cK\) is a belief revision function assigning to every belief set
+\(K\) and every sentence \(A\) a revised belief set \(K*A\). The
+acceptance condition for conditionals at a belief set in a belief
+revision model is a straightforward formalization of Ramsey&rsquo;s
+test:</p> 
+
+\[\tag{RT} M, K \Vdash_{acc} A &gt;B \text{ if and only if } B \in K*A.\]
+
+<p>
+G&auml;rdenfors&rsquo;s (1978, 1988: sects. 7.1&ndash;7.2) initial
+idea was to take conditionals that are accepted at a belief set as
+<em>beliefs</em>, i.e., as elements of this very belief set. Let us
+call this G&auml;rdenfors&rsquo;s Ramsey test:</p> 
+
+\[\tag{GRT} A &gt;B \in K (\text{in } M) \text{ if and only if } B \in K*A.\]
+
+<p>
+Principles for the logic of conditionals then fall out directly of the
+following rationality postulates for belief revision introduced by
+G&auml;rdenfors (1978) and Alchourr&oacute;n, G&auml;rdenfors, and
+Makinson (&ldquo;AGM&rdquo;, 1985). Using the abbreviation \(K+A\) for
+\(\iCn(K\cup\{A\})\), the eight AGM-postulates read as follows: For
+all belief sets \(K\) (in all BRMs \(M\)) and all sentences \(A\) and
+\(B\),</p>
+
+<table class="cellpad-med-dense vert-top">
+<tbody>
+<tr id="ex1s">
+  <td style="width:2em">(\(*\)1)</td>
+  <td>\(K*A\) is a belief set.</td>
+  <td>(Closure)</td> </tr>
+<tr id="ex2s">
+  <td>(\(*\)2)</td>
+  <td>\(A\in K*A.\)</td>
+  <td>(Success)</td> </tr>
+<tr id="ex3s">
+  <td>(\(*\)3)</td>
+  <td>\(K*A\subseteq K+A.\)</td>
+  <td>(Inclusion)</td> </tr>
+<tr id="ex4s">
+  <td>(\(*\)4)</td>
+  <td>If \(\neg A\not\in K\), then \(K+A \subseteq K*A\).</td>
+  <td>(Vacuity)</td> </tr>
+<tr id="ex5s">
+  <td>(\(*\)5)</td>
+  <td>\(K*A = K_{\bot}\) only if \(\vdash \neg A\).</td>
+  <td>(Consistency)</td> </tr>
+<tr id="ex6s">
+  <td>(\(*\)6)</td>
+  <td>If \(\vdash A\equiv B\), then \(K*A = K*B\).</td>
+  <td>(Extensionality)</td> </tr>
+<tr id="ex7s">
+  <td>(\(*\)7)</td>
+  <td>\(K*(A\wedge B) \subseteq(K*A)+B\).</td>
+  <td>(Superexpansion)</td> </tr>
+<tr id="ex8s">
+  <td>(\(*\)8)</td>
+  <td>If \(\neg B \notin K*A\), then \((K*A)+B \subseteq K*(A\wedge
+B)\)</td>
+  <td>(Subexpansion, Rational Monotonicity)</td> </tr> </tbody>
+</table>
+
+<p>
+The numbering is AGM&rsquo;s, the names are due to Hansson (1999).
+Postulates (\(*\)3) and (\(*\)4) taken together say that if the input
+\(A\) is consistent with the belief set \(K\), then the background
+logic alone is sufficient to guide belief revision. When (\(*\)1) and
+(\(*\)2) are present and \(\iCn\) is a monotonic consequence
+operation, (\(*\)4) is equivalent to the <em>Preservation
+Principle</em> stating that if \(A\) is consistent with \(K\), then
+all elements of \(K\) are preserved in \(K*A\):</p>
+
+<dl class="sentag tag3em">
+<dt>(Pres)</dt>
+<dd>If \(\neg A\not\in K\), then \(K \subseteq K*A\). <span style="padding-left:5em">(Preservation)</span></dd>
+</dl>
+
+<p>
+AGM called (\(*\)1)&ndash;(\(*\)6) the <em>basic</em> set of
+postulates. The <em>supplementary</em> postulates (\(*\)7) and
+(\(*\)8) concern composite belief revisions of the form \(K*(A\wedge
+B)\). The idea is that, if \(K\) is to be changed minimally so as to
+include two sentences \(A\) and \(B\), such a change should be
+possible by first revising \(K\) with respect to \(A\) and then
+expanding \(K*A\) by \(B\)&mdash;provided that \(B\) does not
+contradict the beliefs in \(K*A\).</p>
+
+<p>
+The logic of conditionals then mirrors the logic of belief revision:
+(\(*\)1) corresponds to RCK, (\(*\)2) to ID, (\(*\)3) to SM, a
+weakened version of (\(*\)4) (viz., if \(A \in K\) and \(K\) is
+consistent, then \(K \subseteq K*A\)) to CS, (\(*\)6) corresponds to
+LLE, (\(*\)7) to OR and (\(*\)8) to RMon. In establishing this logic,
+G&auml;rdenfors used the following notion of validity: a sentence
+\(A\) is valid in a BRM \(M\) if there is no consistent \(K\in \cK\)
+with \(\neg A\in K\). A sentence \(A\) is valid iff it is valid in
+every BRM. Arl&oacute;-Costa and Levi (1996) call this notion
+<em>negative validity</em> and contrast it with a notion of
+<em>positive validity</em> that they argue is preferable: \(A\) is
+positively valid in a BRM \(M\) if \(A\in K\) for every \(K\in
+\cK\).</p>
+
+<h3 id="GrdeTrivTheo">6.2 G&auml;rdenfors&rsquo;s triviality theorem</h3>
+
+<p>
+G&auml;rdenfors (1986; 1988 sects. 7.4&ndash;7.7) soon noticed that
+coupling the Ramsey test with the AGM theory of belief revision leads
+to a trivialization, which is in many respects similar to
+Lewis&rsquo;s trivialization (see
+ <a href="#LewiTrivTheo">section 5.2</a>).</p>
+ 
+<ul class="hanging">
+
+<li><strong>Triviality Theorem (G&auml;rdenfors):</strong>A belief
+revision model satisfies the AGM postulates
+ <a class="nobr" href="#ex4s">(\(*\)4)</a>
+ and
+ <a class="nobr" href="#ex5s">(\(*\)5)</a>
+ and G&auml;rdenfors&rsquo;s Ramsey Test only if it is trivial in the
+sense that it does not contain any belief set that is logically
+compatible with three sentences \(A\), \(B\) and \(C\) that are
+pairwise inconsistent with each other.</li>
+</ul>
+
+<p>
+A quick and simple proof goes as follows: Suppose for reductio that we
+have a BRM \(M = \langle \cK, *\rangle\) with a belief set \(K\in
+\cK\) that is logically compatible with three pairwise inconsistent
+sentences \(A\), \(B\) and \(C\). First notice that</p> 
+
+\[B\in K+(\neg A\wedge B) = (K+(A\vee B))+\neg A \subseteq(K+(A\vee B))*\neg A,\]
+
+<p>
+by (\(*\)4), and similarly \(C\in (K+(A\vee C))*\neg A\). So by
+GRT,</p> 
+
+\[\neg A &gt; B \in K+(A\vee B)\]
+
+<p>
+and</p> 
+
+\[\neg A &gt; C \in K+(A\vee C).\]
+
+<p>
+Since \(A\) is logically stronger than both \(A\vee B\) and \(A\vee
+C\), we have</p> 
+
+\[K+(A\vee B)\subseteq K+A\]
+
+<p>
+and</p> 
+
+\[K+(A\vee C)\subseteq K+A.\]
+
+<p>
+But since \(A\) is compatible with \(K\), \(K+A \subseteq K*A\), by
+(\(*\)4). So both \(\neg A &gt; B\) and \(\neg A &gt; C\) are in
+\(K*A\). This implies, by GRT again, that both \(B\) and \(C\) are in
+\((K*A)*\neg A\). Since \(B\) and \(C\) are inconsistent with each
+other, the latter belief set is inconsistent, contradicting (\(*\)5).
+So the supposition is impossible.</p>
+
+<p>
+G&auml;rdenfors&rsquo;s triviality theorem was widely perceived as an
+unexpected and somewhat shocking result. Postulate
+ <a href="#ex5s">(\(*\)5)</a>
+ can hardly been seen as the culprit, so the triviality theorem was
+interpreted by G&auml;rdenfors basically as a conflict between
+ <a href="#ex4s">(\(*\)4)</a>
+ or the Preservation Principle on the one hand, and the Ramsey Test on
+the other. But the reactions to his result were mixed, and no
+consensus has emerged so far.</p>
+
+<p>
+A first position, taken by Levi and very much in line with those
+denying that conditionals have truth values, was that conditionals do
+not express propositions, but epistemic appraisals, and thus should
+not be objects of belief and elements of belief sets, but rather
+sentences that can only be accepted. This amounts to rejecting
+GRT.</p>
+
+<p>
+Another group of researchers suggested to modify or restrict the
+Ramsey test. Solutions of this kind were discussed, amongst others, by
+Rott (1986), G&auml;rdenfors (1987, 1988), Levi (1996: Chapter 2),
+Lindstr&ouml;m and Rabinowicz (1998) and Nute and Cross (2001).
+Arguably, none of these adaptations of the Ramsey test has retained
+the intuitive appeal of the original idea.</p>
+
+<p>
+Others think that the Ramsey test is perfectly all right. Some authors
+argue that the right reaction is to say that conditionals should not
+be analyzed by AGM-style <em>revisions</em>, but rather by
+<em>updates</em> in the style of Katsuno and Mendelzon (1992). Members
+of this party include Ryan and Schobbens (1997), Grahne (1998) and
+Crocco and Herzig (2002). Updates in this sense are closely related to
+Lewis&rsquo;s (1976) imaging (see
+ <a href="#Imag">section 5.3.2</a>
+ above). These operations violate the AGM-postulate (\(*\)4) and the
+Principle of Preservation, but satisfy the following Monotonicity
+condition which is immediately entailed by GRT:</p> 
+
+\[\tag{MON} \text{If } K_1\subseteq K_2 \text{ then } K_1*A \subseteq K_2*A.\]
+
+<p>
+Rott (2011) defends G&auml;rdenfors&rsquo;s Ramsey test by showing
+that it does not create a specific problem for the Preservation
+Principle. Its consequence is rather that both preservation of factual
+beliefs and preservation of flat conditionals entail that there is no
+preservation of right-nested conditionals of depth 2. GRT allows for
+right-nested conditionals if a model for iterated belief revision is
+available (other compounds of conditionals are more difficult to make
+sense of). It can be shown, for instance, that supposing there is an
+atom \(p\) on which the believer suspends judgment, the
+conditional</p> 
+
+\[(\neg A\vee p)&gt;((\neg A\vee \neg p)&gt;\neg A)\]
+
+<p>
+functions exactly like the epistemic modal &ldquo;might \(\neg
+A\)&rdquo;: it is believed (or accepted) if and only if \(A\) is not
+believed. Thus, if our language includes right-nested conditionals,
+there are no two belief sets \(K\) and \(K'\) such that \(K\) is a
+strict subset of \(K'\). Rott argues that it has simply been a mistake
+to take it for granted that Preservation can and should be transferred
+from factual language to languages containing nested conditionals.</p>
+
+<p>
+Detailed analyses of the dialectics of the situation emerging from
+G&auml;rdenfors&rsquo;s triviality theorem can be found in
+Lindstr&ouml;m and Rabinowicz (1998), Nute and Cross (2001), and
+Arl&oacute;-Costa (2007). An up-to-date discussion of related problems
+is Boylan &amp; Schultheis (forthcoming).</p>
+
+<h2 id="ReleDiffMaki">7. Relevance and Difference-Making</h2>
+
+<p>
+Since MacColl&rsquo;s and C. I. Lewis&rsquo;s strictures against
+material implication, there has been an increasing number of voices
+arguing that some notion of relevant connection between antecedent and
+consequent is part of the meaning of conditionals. In the area of
+conditionals, the notion of relevance is claimed by distinct
+traditions, however, and means slightly different
+ things.<sup>[<a href="notes.html#note-9" id="ref-9">9</a>]</sup></p>
+ 
+<p>
+One tradition concerns so-called relevant logics, designed to
+formulate a more demanding notion of implication than Lewis&rsquo;s
+strict implication (cf. Meyer &amp; Routley 1973). The idea of
+relevant implication is based in large part on the idea that the
+antecedent and the consequent of an acceptable conditional \(A&gt;B\)
+must be connected <em>in terms of topics</em>. For example, a
+conditional of the form \((p \wedge \neg p) &gt; q\) need not be
+valid, despite having an impossible antecedent, since the consequent
+shares no content with the antecedent. Various constraints can be
+imposed on the idea of content-sharing, leading to various
+non-classical logics of so-called relevant implication (see
+Mares&rsquo;s 2020 SEP entry on relevant logics for an overview, and
+Weiss 2019 on the use of analytic entailment to deal with
+Sextus&rsquo; so-called fourth conditional).</p>
+
+<p>
+Another approach to the notion of relevance is in terms of the idea
+that the antecedent of a conditional should make a difference to the
+truth, assertability or probability of the consequent. Consider a
+conditional like &ldquo;if London is in England, then Aristotle was a
+Greek philosopher&rdquo;. The conditional sounds odd because the truth
+of the antecedent does not matter to the truth of the consequent.
+While relevant logics capture the idea of relevance in terms of
+topic-sharing, here the idea of relevance is captured in terms of the
+difference that the antecedent makes for the consequent.</p>
+
+<p>
+The idea of <em>difference-making</em> itself can be formulated in
+several ways. One way is proposed by Douven, in what he calls the
+&ldquo;Evidential support thesis&rdquo; (&ldquo;EST&rdquo;, Douven
+[2008, 2016: 108]). Basically, the EST says that a conditional
+\(A&gt;C\) is relevantly assertable provided \(\Pr(C|A)\) exceeds a
+sufficiently high threshold and \(\Pr(C|A)&gt;\Pr(C)\). Douven&rsquo;s
+main argument in support of the latter condition&mdash;which is a
+relevance criterion&mdash;is that high probability is not enough for
+assertion. He gives the example of the following minimal pair:</p>
+
+<dl class="sentag">
+<dt>(8)</dt>
+<dd>
+
+<dl class="sentag tag2em">
+<dt>a.</dt>
+<dd>If there is at least 1 Head in the first 10 tosses of this coin,
+then there is at least 1 Head in the first 100,000 tosses.</dd>
+<dt>b.</dt>
+<dd>If Chelsea wins the Champion&rsquo;s league, then there is at
+least 1 Head in the first 100,000 tosses.</dd>
+</dl> </dd>
+</dl>
+
+<p>
+Both statements are such that the probability of the consequent given
+the antecedent is high. However, in (8)-b the antecedent does not
+increase the probability of the consequent, it is irrelevant in that
+sense, and the conditional may be called a &ldquo;non-interference
+conditional&rdquo;. Douven (2016) defines validity in terms of
+acceptability-preservation according to the EST criterion, for all
+thresholds \(t\in [0.5, 1)\). The resulting logic is weak, in
+particular it violates Modus Ponens, RW, AND, CMon, Cut, OR and
+Contraposition. Douven establishes the validity and invalidity of
+specific principles (see Douven 2016: Theorem 5.2.1), but a sound and
+complete axiomatization of his logic is still an open problem.</p>
+
+<p>
+More recently, an alternative approach was proposed by Crupi and
+Iacona (forthcoming-b), yielding a stronger logic. Crupi and Iacona
+use the Rips measure of confirmation and associate to a conditional
+\(A&gt;C\) a score defined as</p> 
+
+\[\frac{P(C|A)-P(C)}{1-P(C)}\]
+
+<p>
+when \(P(C|A)&gt;P(C)\), and defined to be equal to \(0\) otherwise.
+This yields a modified score of &ldquo;uncertainty&rdquo; for a
+conditional, which they substitute for the standard notion of
+uncertainty in Adams&rsquo;s definition of \(p\)-validity. The logic
+they identify violates RW and Cut, but it validates AND, CMon, OR,
+Modus Ponens, restricted forms of Aristotle&rsquo;s and
+Abelard&rsquo;s theses (principles of connexive logic), and even
+Contraposition. Crupi and Iacona (forthcoming-a) present a
+possible-worlds semantics for what appears to be the same logic, in
+which contraposition plays a central role.</p>
+
+<p>
+Ahead of this recent wave of work, Rott (1986) pioneered another
+measure of relevance in a belief revision framework, a measure picked
+up by Spohn (2013), and proposed independently in various accounts of
+causality. Arguing against Conjunctive Sufficiency (see
+ <a href="#PossWorlMode">sections 2.2</a>),
+ Rott&rsquo; suggests that a &ldquo;difference-making&rdquo;
+conditional \(A&gt;C\) is accepted provided \(C\in K*A\) and \(C\notin
+K*\neg A\). This is a relevantized variant of the Ramsey Test, ruling
+that the conditional is accepted provided the revision by \(A\)
+results in the belief that \(C\), but the revision by \(\neg A\) does
+not result in the belief that \(C\). Using the terminology of
+&ldquo;difference-making conditionals&rdquo;, Rott (forthcoming) calls
+the violation of RW the hallmark of conditionals that encode the idea
+that the antecedent is positively relevant to the consequent. This
+yields a logic that also invalidates CMon, Cut, Or and Contraposition,
+but it validates And, Aristotle&rsquo;s theses, a restricted form of
+Abelard&rsquo;s thesis as well as conditions such as</p>
+
+<dl class="sentag tag4em">
+<dt>(\(&gt;\)1)</dt>
+<dd>If \(A &gt;B\wedge C\), then \(A&gt;B\) or \(A&gt;C\).</dd>
+<dt>(\(&gt;\)2a)</dt>
+<dd>\(A&gt;C \tiff (A &gt;A\wedge C \text{ and }A &gt;A\vee C)\).</dd>
+</dl>
+
+<p>
+In general conditionals with a relevance reading tend to behave in
+rather unusual and unruly ways. Raidl (2021) develops a general
+technique of transferring completeness results for more
+&ldquo;well-behaved&rdquo; suppositional conditionals \(&gt;\) to
+relevance-expressing conditionals definable in terms of \(&gt;\). He
+is thus able to cover the proposal of Crupi and Iacona as well as that
+of Rott in a unified manner.</p>
+
+<p>
+Rott&rsquo;s proposal turns out to be related to what is known as the
+&ldquo;difference measure&rdquo; or as the &ldquo;score of
+contingency&rdquo;</p> 
+
+\[\Delta(p)=P(C\mkern2mu|\mkern2muA)-P(C|\neg A)\]
+
+<p>
+in the psychology of causality (Shanks 1995; Cheng 1997). In
+particular, (Skovgaard-Olsen et al. 2016) found that depending on
+whether this measure is positive, negative, or null, the probability
+of a conditional may or may not equal the conditional probability. In
+other words, relevance considerations appear to interact with
+assignments of probabilities to conditionals, the main finding being
+that Adams&rsquo; Thesis appears to hold good only when \(\Delta(p)\)
+is positive. The equation breaks down, on the other hand, when
+\(\Delta(p)\) is null, so precisely in the case of non-interference
+conditionals. Furthermore, Rooij and Schulz (2019) argue that an even
+better predictor of the acceptability of conditionals is given by a
+normalized measure of contingency, that is, by the measure</p>
+
+\[\Delta^*(p) = \frac{P(C|A)-P(C|\neg A)}{1-P(C|\neg A)}.\]
+
+<p>
+Whether in logic or in the psychology of reasoning, the investigation
+of relevance measures and of the resulting inferences is currently a
+very active field in the study of conditionals.</p>
+
+<h2 id="ModaSpeeActs">8. Modals and Speech Acts</h2>
+
+<p>
+The previous sections have looked at propositional logics of
+conditionals, which extend Boolean logic with a distinguished
+conditional operator. To wrap up, we look briefly at some richer
+languages, in particular at the interplay of conditionals with
+modalities, and at the interplay of conditionals with other speech
+acts than assertions.</p>
+
+<h3 id="Moda">8.1 Modalities</h3>
+
+<p>
+Possible-worlds analyses of conditionals make it possible to define
+modalities from conditionals as follows (Stalnaker 1968; Nute
+1980):</p> 
+
+\[\begin{align} \Diamond A &amp; \equiv \neg (A &gt; \neg A)\\ \Box A &amp;\equiv (\neg A &gt; A)\end{align}\]
+
+<p>
+Conversely, we saw how strict conditional analyses treat the
+conditional as definable from modalities. Those facts may seem to
+suggest that modals and conditionals are interdefinable. However, the
+interaction between them is actually more complex.</p>
+
+<p>
+Linguistic facts about conditionals suggest that across a wide range
+of languages, modal operators commute with conditional
+antecedents.</p>
+
+<dl class="sentag">
+<dt id="exnec">(9)</dt>
+<dd>If \(A\) then necessarily \(C \equiv\) Necessarily if \(A\) then
+\(C\).</dd>
+<dt id="exposs">(10)</dt>
+<dd>If \(A\) then possibly \(C \equiv\) Possibly if \(A\) then
+\(C\).</dd>
+</dl>
+
+<p>
+Such facts centrally motivate Kratzer&rsquo;s account of conditionals
+as restrictors of modal operators (Kratzer (2012), inspired by D.
+Lewis 1975). As Kratzer (1991, pp. 468&ndash;469) puts it,
+&ldquo;there is a very close relationship between <em>if</em>-clauses
+and operators like <em>must</em>&rdquo;, and more specifically
+&ldquo;for each world, the <em>if</em>-clause has the function of
+restricting the set of worlds which are accessible from that
+world&rdquo;.</p>
+
+<p>
+Kratzer formulates the restrictor view of conditionals by relativizing
+the semantics of modals to two premise sets, a so-called modal base
+(&ldquo;hard&rdquo; facts known or believed by the speaker) and an
+ordering source (&ldquo;soft&rdquo; facts taken to be revisable).
+Consider a model \(\langle W, \Gamma, \Delta\rangle\) where \(\Gamma\)
+is a premise function for the ordering source, and \(\Delta\) the
+premise function for the modal base. Let us assume the Limit
+assumption and let \(\max_{\Gamma(w)}(F)\) be the set of worlds in a
+proposition \(F\) that satisfy a maximal set of propositions in
+\(\Gamma(w)\). Kratzer&rsquo;s semantics for \(\Box\) is:</p>
+
+<p>
+<strong>(Kratzer&rsquo;s <em>Must</em>)</strong></p> 
+
+\[ M, w,\Gamma, \Delta\Vdash \Box C \tiff \max_{\Gamma(w)}\left(\bigcap \Delta(w)\right)\subseteq \lvert C\rvert^{M,w,\Gamma, \Delta}\]
+
+<p>
+The conditional &ldquo;if \(A\) then \(C\)&rdquo; can be treated as a
+binary modality \(\Box(A,C)\), with the following truth conditions,
+where \((\Delta+A)(w)\) equals \(\Delta(w) \cup \{\lvert
+A\rvert^{M,w,\Gamma, \Delta}\}\):</p> 
+
+<p><strong>(Restricted <em>Must</em>)</strong> \[M, w,\Gamma, \Delta\Vdash \Box (A,C) \tiff M, w, \Gamma, (\Delta+A) \Vdash \Box C\]</p>
+
+<p>
+For bare conditionals, Kratzer postulates that the antecedent also
+restricts a covert modal. This particular assumption is a source of
+controversy. Several authors point out that while <em>if</em>-clauses
+may restrict operators, modal operators and conditional operators can
+also have separate contributions (von Fintel 1994; M. Kaufmann &amp;
+S. Kaufmann 2015).</p>
+
+<p>
+An important issue is whether the interaction of modals and
+conditionals can be accounted for when both types of operators are
+logically represented in the language. We highlight two recent
+accounts along those lines. Both take inspiration from Yalcin&rsquo;s
+(2007) conception of modal operators as expressive devices, and also
+from Veltman&rsquo;s (1996) and Gillies&rsquo;s (2004) emphasis on the
+idea that utterances involving epistemic modals update informational
+states.</p>
+
+<p>
+Ciardelli (forthcoming) states truth conditions for a language with
+modal operators and a conditional operator. He defines the semantic
+value of sentences relative to two parameters, a state parameter \(s\)
+(set of worlds), and an attitude parameter \(a\). In Ciardelli&rsquo;s
+approach, <em>if</em>-clauses restrict the state \(s\), as in
+Kratzer&rsquo;s approach, but modals basically act on the attitude
+parameter \(a\), which can express various modal forces (universal,
+existential, or probabilistic). The framework allows him to derive as
+equivalences the facts
+ <a href="#exnec">(9)</a>
+ and
+ <a href="#exposs">(10)</a>,
+ in the following guise:</p> 
+
+\[\begin{align} A &gt; \Box C &amp; \equiv \Box(A &gt; C)\\ A &gt; \Diamond C &amp; \equiv \Diamond (A &gt; C) \end{align}\]
+
+<p>
+Bare conditionals of the form \(A&gt;B\) turn out equivalent to
+conditionals \(A&gt;\Box B\), but only under the default attitude
+coming with universal force. Ciardelli (forthcoming) also derives the
+incompatibility of the conditional \(A&gt;C\) with the
+might-conditional \(A&gt;{\Diamond \neg C}\) (If-Might Contradiction,
+henceforth IMC). The same incompatibility is at the heart of
+Santorio&rsquo;s (forthcoming) so-called path semantics for
+conditionals. Santorio exposes a contradiction between this principle
+and two other principles of conditional logic, namely CEM and the
+Duality principle whereby \(A&gt;\Diamond C\,\equiv\, \neg (A &gt;\neg
+C)\) (endorsed by D. Lewis 1973, though rejected by Stalnaker 1968).
+His semantics validates IMC and preserves CEM, but drops Duality. A
+number of further predictions follow from Santorio&rsquo;s semantics,
+in particular OI becomes valid, as well as restricted versions of IE.
+Like Ciardelli, Santorio does not have to treat bare conditionals as
+implicitly modalized, and like Ciardelli he can derive commutation
+facts about modalities.</p>
+
+<p>
+Beside those proposals, Omori (2019) focuses also on the interplay of
+negation, modals, and conditionals in the framework of connexive
+logics. Omori uses Odintsov and Wansing&rsquo;s (2010) four-valued
+framework for modal logic, to show that conditional negations of
+varying strength for \(A&gt;B\) can be derived from the outer negation
+of a conditional (building on distinctions made in &Eacute;gr&eacute;
+&amp; Politzer 2013), in particular \(A&gt;{\Diamond\neg B}\) instead
+of \(A &gt;\neg B\). He gives sound and complete axiomatizations for
+the resulting conditional logics. An earlier connexive system is
+Olkhovikov (2002)&rsquo;s logic&nbsp;<strong>LImp</strong>,
+effectively combining Cooper&rsquo;s conditional with a trivalent
+necessity operator of determinate truth (mapping 1 to 1
+and&nbsp;&frac12; and 0 to 0).</p>
+
+<h3 id="BeyoAsse">8.2 Beyond assertion</h3>
+
+<p>
+Conditionals do not only appear in declarative sentences, but also in
+questions and in commands, as in:</p>
+
+<dl class="sentag">
+<dt id="expolar">(11)</dt>
+<dd>If John visits, will Mary visit too?</dd>
+<dt>(12)</dt>
+<dd>If John visits, make sure to bring cheese!</dd>
+</dl>
+
+<p>
+The semantics of imperatives and interrogatives lies beyond the scope
+of this entry. However, we mention such constructions because they too
+may be seen as supporting Kratzer&rsquo;s restrictor analysis. In
+particular, S. Kaufmann and Schwager (2011) treat imperatives as
+involving a covert modal operator, which can have a deontic, or
+bouletic meaning, but basically acting like &ldquo;must&rdquo;. In the
+case of questions, Isaacs and Rawlins (2008) treat questions as
+prefixed with a covert speech act operator, coming with a modal domain
+restricted by the <em>if</em>-clause. In a related way, Ciardelli,
+Groenendijk, and Roelofsen (2018) point out that the semantics of a
+question can be specified by resolution conditions relative to an
+information state. Again, conditional questions can be viewed as
+appropriately restricting the information state to the antecedent
+worlds, so as to resolve the question relative to those (see
+Ciardelli, forthcoming). For a polar question of form \(?M\)
+(&ldquo;will Mary visit?&rdquo;) the information state \(s\) resolves
+it if either \(s\) supports \(M\) or \(s\) supports \(\neg M\). In the
+case of a conditional polar question like
+ <a href="#expolar">(11)</a>,
+ the semantics of Ciardelli, Groenendijk, and Roelofsen (2018)
+predicts that a state \(s\) will resolve a question of the form \(J
+&gt;{?M}\) provided either \(s\) supports \(J &gt;M\) or \(s\)
+supports \(J &gt;\neg M\).</p>
+
+<p>
+Further connections have been explored between the semantics of
+interrogatives and the very structure of conditional sentences. Starr
+(2014b) in particular argues that all conditionals have a
+topic-comment structure, allowing to treat the antecedent as a covert
+question itself. Finally, more aspects of the interaction of
+conditional phrases with speech acts deserve to be mentioned,
+including so-called <em>biscuit</em>-conditionals (&ldquo;if you want
+some biscuits, there are some in the cupboard&rdquo;, Austin 1956,
+Lycan 2001), as well as concessives (&ldquo;even if A, B&rdquo;
+sentences, see Lycan 2001, Guerzoni and Lim 2007). For both kinds,
+permitted inferences differ significantly from those found in regular
+conditionals (in particular, both entail the truth of the consequent).
+This is evidence that the diversity found in logics of conditionals
+also depends on the variety of uses and linguistic environments in
+which <em>if</em>-clauses occur.</p>
+</div>
+
+<div id="bibliography">
+
+<h2 id="Bib">Bibliography</h2>
+
+<ul class="hanging">
+
+<li id="ref-Adams1965">Adams, Ernest, 1965, &ldquo;The Logic of
+Conditionals&rdquo;, <em>Inquiry</em>, 8(1&ndash;4): 166&ndash;197.
+doi:10.1080/00201746508601430</li>
+
+<li id="ref-Adams1966">&ndash;&ndash;&ndash;, 1966, &ldquo;Probability
+and the Logic of Conditionals&rdquo;, in <em>Aspects of Inductive
+Logic</em>, Jaakko Hintikka and Patrick Suppes (eds.), Amsterdam:
+North-Holland, 265&ndash;316.</li>
+
+<li id="ref-Adams1975">&ndash;&ndash;&ndash;, 1975, <em>The Logic of
+Conditionals</em>, Dordrecht: Reidel.</li>
+
+<li id="ref-adams1986logic">&ndash;&ndash;&ndash;, 1986, &ldquo;On the
+Logic of High Probability&rdquo;, <em>Journal of Philosophical
+Logic</em>, 15(3): 255&ndash;279. doi:10.1007/BF00248572</li>
+
+<li id="ref-agm85">Alchourr&oacute;n, Carlos E., Peter
+G&auml;rdenfors, and David Makinson, 1985, &ldquo;On the Logic of
+Theory Change: Partial Meet Contraction and Revision Functions&rdquo;,
+<em>Journal of Symbolic Logic</em>, 50(2): 510&ndash;530.
+doi:10.2307/2274239</li>
+
+<li id="ref-aleskerov-bouyssou-monjardet-07">Aleskerov, Fuad, Denis
+Bouyssou, and Bernard Monjardet, 2007, <em>Utility Maximization,
+Choice and Preference</em>, second edition, Berlin: Springer.
+doi:10.1007/978-3-540-34183-3</li>
+
+<li id="ref-arlo-costa-sep-07">Arl&oacute;-Costa, Horacio, 2007,
+&ldquo;The Logic of Conditionals&rdquo;, in <em>The Stanford
+Encyclopedia of Philosophy</em> (Fall 2007 edition), Edward N. Zalta
+(ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/fall2007/entries/logic-conditionals/" target="other">https://plato.stanford.edu/archives/fall2007/entries/logic-conditionals/</a>&gt;.</li>
+ 
+<li id="ref-arlo-costa-levi-96">Arl&oacute; Costa, Horacio and Isaac
+Levi, 1996, &ldquo;Two Notions of Epistemic Validity: Epistemic Models
+for Ramsey&rsquo;s Conditionals&rdquo;, <em>Synthese</em>, 109(2):
+217&ndash;262. doi:10.1007/BF00413768</li>
+
+<li id="ref-Arlo-Costa-1992">Arl&oacute;-Costa, Horacio and Scott J.
+Shapiro, 1992, &ldquo;Maps between Conditional Logic and Non-Monotonic
+Logic&rdquo;, in <em>Principles of Knowledge Representation and
+Reasoning: Proceedings of the Third International Conference</em>,
+Bernhard Nebel, Charles Rich, and William R. Swartout (eds.), San
+Mateo, CA: Morgan Kaufmann, 553&ndash;565.</li>
+
+<li id="ref-austin1956ifs">Austin, J. L., 1956, &ldquo;Ifs and
+Cans&rdquo;, <em>Proceedings of the British Academy</em>, 42:
+109&ndash;132.</li>
+
+<li>Baratgin, Jean, David Over, and Guy Politzer, 2013,
+&ldquo;Uncertainty and the de Finetti tables&rdquo;, <em>Thinking
+&amp; Reasoning</em> 19, 308&ndash;328.
+doi:10.1080/13546783.2013.809018</li>
+
+<li id="ref-belnap1970conditional">Belnap, Nuel D., 1970,
+&ldquo;Conditional Assertion and Restricted Quantification&rdquo;,
+<em>No&ucirc;s</em>, 4(1): 1&ndash;12. doi:10.2307/2214285</li>
+
+<li>Belnap, Nuel D., 1973, &ldquo;Restricted Quantification and
+Conditional Assertion&rdquo;, in <em>Truth, Syntax, and Modality</em>,
+Hughes Leblanc (ed.), Studies in Logic and the Foundations of
+Mathematics, vol. 68, Elsevier, 48&ndash;75.
+doi:10.1016/S0049-237X(08)71533-7</li>
+
+<li id="ref-boylan-schultheis-qualitative-20">Boylan, David and Ginger
+Schultheis, forthcoming, &ldquo;The Qualitative Thesis&rdquo;, <em>The
+Journal of Philosophy</em>.</li>
+
+<li id="ref-bradley2000preservation">Bradley, Richard, 2000, &ldquo;A
+Preservation Condition for Conditionals&rdquo;, <em>Analysis</em>,
+60(3): 219&ndash;222. doi:10.1093/analys/60.3.219</li>
+
+<li id="ref-bradley2012multidimensional">&ndash;&ndash;&ndash;, 2012,
+&ldquo;Multidimensional Possible-World Semantics for
+Conditionals&rdquo;, <em>Philosophical Review</em>, 121(4):
+539&ndash;571. doi:10.1215/00318108-1630921</li>
+
+<li id="ref-briggs2012interventionist">Briggs, Rachael, 2012,
+&ldquo;Interventionist Counterfactuals&rdquo;, <em>Philosophical
+Studies</em>, 160(1): 139&ndash;166.
+doi:10.1007/s11098-012-9908-5</li>
+
+<li id="ref-burgess-81">Burgess, John P., 1981, &ldquo;Quick
+Completeness Proofs for Some Logics of Conditionals&rdquo;, <em>Notre
+Dame Journal of Formal Logic</em>, 22(1): 76&ndash;84.
+doi:10.1305/ndjfl/1093883341</li>
+
+<li id="ref-calabrese1991deduction">Calabrese, Philip, 1991,
+<em>Deduction and Inference Using Conditional Logic and
+Probability</em>, San Diego, CA: Naval Ocean Systems Center.</li>
+
+<li id="ref-cantwell2008logic">Cantwell, John, 2008, &ldquo;The Logic
+of Conditional Negation&rdquo;, <em>Notre Dame Journal of Formal
+Logic</em>, 49(3): 245&ndash;260. doi:10.1215/00294527-2008-010</li>
+
+<li id="ref-charlow2016triviality">Charlow, Nate, 2016,
+&ldquo;Triviality for Restrictor Conditionals&rdquo;,
+<em>No&ucirc;s</em>, 50(3): 533&ndash;564. doi:10.1111/nous.12111</li>
+
+<li id="ref-chellas-75">Chellas, Brian F., 1975, &ldquo;Basic
+Conditional Logic&rdquo;, <em>Journal of Philosophical Logic</em>,
+4(2): 133&ndash;153. doi:10.1007/BF00693270</li>
+
+<li id="ref-chellas-modal-logic-80">&ndash;&ndash;&ndash;, 1980,
+<em>Modal Logic: an Introduction</em>, Cambridge: Cambridge University
+Press.</li>
+
+<li id="ref-chemla2011expressible">Chemla, Emmanuel, 2011,
+&ldquo;Expressible Semantics for Expressible Counterfactuals&rdquo;,
+<em>Review of Symbolic Logic</em>, 4(1): 63&ndash;80.
+doi:10.1017/S175502031000016X</li>
+
+<li id="ref-ChemlaEgreSpector2017">Chemla, Emmanuel, Paul
+&Eacute;gr&eacute;, and Benjamin Spector, 2017, &ldquo;Characterizing
+Logical Consequence in Many-Valued Logic&rdquo;, <em>Journal of Logic
+and Computation</em>, 27(7): 2193&ndash;2226.</li>
+
+<li id="ref-cheng1997covariation">Cheng, Patricia W., 1997,
+&ldquo;From Covariation to Causation: A Causal Power Theory&rdquo;,
+<em>Psychological Review</em>, 104(2): 367&ndash;405.
+doi:10.1037/0033-295X.104.2.367</li>
+
+<li id="ref-chisholm1946contrary">Chisholm, Roderick M., 1946,
+&ldquo;The Contrary-to-Fact Conditional&rdquo;, <em>Mind</em>,
+55(220): 289&ndash;307. doi:10.1093/mind/LV.219.289</li>
+
+<li id="ref-ciardelli2020restrictor">Ciardelli, Ivano, forthcoming,
+&ldquo;The Restrictor View, Without Covert Modals&rdquo;,
+<em>Linguistics and Philosophy</em>, first online: 31 May 2021.
+doi:10.1007/s10988-021-09332-z.</li>
+
+<li id="ref-ciardelli2018inquisitive">Ciardelli, Ivano, Jeroen
+Groenendijk, and Floris Roelofsen, 2018, <em>Inquisitive
+Semantics</em>, Oxford: Oxford University Press.
+doi:10.1093/oso/9780198814788.001.0001</li>
+
+<li id="ref-ciardelli2018two">Ciardelli, Ivano, Linmin Zhang, and
+Lucas Champollion, 2018, &ldquo;Two Switches in the Theory of
+Counterfactuals: A Study of Truth Conditionality and Minimal
+Change&rdquo;, <em>Linguistics and Philosophy</em>, 41(6):
+577&ndash;621. doi:10.1007/s10988-018-9232-4</li>
+
+<li id="ref-coletti1999conditioning">Coletti, Giulianella and Romano
+Scozzafava, 1999, &ldquo;Conditioning and Inference in Intelligent
+Systems&rdquo;, <em>Soft Computing</em>, 3(3): 118&ndash;130.
+doi:10.1007/s005000050060</li>
+
+<li id="ref-cooper1968propositional">Cooper, William S., 1968,
+&ldquo;The Propositional Logic of Ordinary Discourse&rdquo;,
+<em>Inquiry</em>, 11(1&ndash;4): 295&ndash;320.
+doi:10.1080/00201746808601531</li>
+
+<li id="ref-crocco_herzig">Crocco, Gabriella and Andreas Herzig, 2002,
+&ldquo;Les Op&eacute;rations de Changement Bas&eacute;es sur le Test
+de Ramsey&rdquo;, in <em>R&eacute;vision Des Croyances</em>, Pierre
+Livet (ed.), Paris: Hermes Science Publications, 21&ndash;41.</li>
+
+<li id="ref-crupi-iacona-evidential-conditional-19">Crupi, Vincenzo
+and Andrea Iacona, forthcoming-a, &ldquo;The Evidential
+Conditional&rdquo;, <em>Erkenntnis</em>, first online: 31 December
+2020. doi:10.1007/s10670-020-00332-2</li>
+
+<li id="ref-daniels-freeman-subjunctive-80">&ndash;&ndash;&ndash;,
+forthcoming-b, &ldquo;Three Ways of Being Non-Material&rdquo;,
+<em>Studia Logica</em>, first online: 30 May 2021, 1&ndash;47.
+doi:10.1007/s11225-021-09949-y</li>
+
+<li>Daniels, Charles B. and James B. Freeman, 1980, &ldquo;An Analysis
+of the Subjunctive Conditional&rdquo;, <em>Notre Dame Journal of
+Formal Logic</em>, 21(4): 639&ndash;655.
+doi:10.1305/ndjfl/1093883247</li>
+
+<li id="ref-delgrande1987first">Delgrande, James P., 1987, &ldquo;A
+First-Order Conditional Logic for Prototypical Properties&rdquo;,
+<em>Artificial Intelligence</em>, 33(1): 105&ndash;130.
+doi:10.1016/0004-3702(87)90053-1</li>
+
+<li id="ref-Douven2008">Douven, Igor, 2008, &ldquo;The Evidential
+Support Theory of Conditionals&rdquo;, <em>Synthese</em>, 164(1):
+19&ndash;44. doi:10.1007/s11229-007-9214-5</li>
+
+<li id="ref-Douven2016">&ndash;&ndash;&ndash;, 2016, <em>The
+Epistemology of Indicative Conditionals: Formal and Empirical
+Approaches</em>, Cambridge: Cambridge University Press.
+doi:10.1017/CBO9781316275962</li>
+
+<li id="ref-DouvenVerbrugge2010">Douven, Igor and Sara Verbrugge,
+2010, &ldquo;The Adams Family&rdquo;, <em>Cognition</em>, 117(3):
+302&ndash;318. doi:10.1016/j.cognition.2010.08.015</li>
+
+<li id="ref-dubois1994conditional">Dubois, Didier and Henri Prade,
+1994, &ldquo;Conditional Objects as Nonmonotonic Consequence
+Relationships&rdquo;, <em>IEEE Transactions on Systems, Man, and
+Cybernetics</em>, 24(12): 1724&ndash;1740. doi:10.1109/21.328930</li>
+
+<li>Eells, Ellery and Brian Skyrms (eds.), 1994, <em>Probability and
+Conditionals: Belief Revision and Rational Decision</em>, (Cambridge
+Studies in Probability, Induction, and Decision Theory), Cambridge:
+Cambridge University Press.</li>
+
+<li id="ref-Edgington1995">Edgington, Dorothy, 1995, &ldquo;On
+Conditionals&rdquo;, <em>Mind</em>, 104(414): 235&ndash;329.
+doi:10.1093/mind/104.414.235</li>
+
+<li id="ref-sep-conditionals">&ndash;&ndash;&ndash;, 2020,
+&ldquo;Indicative Conditionals&rdquo;, in <em>The Stanford
+Encyclopedia of Philosophy</em> (Fall 2020 edition), Edward N. Zalta
+(ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/fall2020/entries/conditionals/" target="other">https://plato.stanford.edu/archives/fall2020/entries/conditionals/</a>&gt;</li>
+ 
+<li id="ref-ellis1977objection">Ellis, Brian, Frank Jackson, and
+Robert Pargetter, 1977, &ldquo;An Objection to Possible-World
+Semantics for Counterfactual Logics&rdquo;, <em>Journal of
+Philosophical Logic</em>, 6(1): 355&ndash;357.
+doi:10.1007/BF00262069</li>
+
+<li id="ref-egre2011if">&Eacute;gr&eacute;, Paul and Mika&euml;l
+Cozic, 2011, &ldquo;If-Clauses and Probability Operators&rdquo;,
+<em>Topoi</em>, 30(1): 17&ndash;29. doi:10.1007/s11245-010-9087-y</li>
+
+<li id="ref-egre2013negation">&Eacute;gr&eacute;, Paul and Guy
+Politzer, 2013, &ldquo;On the Negation of Indicative
+Conditionals&rdquo;, in <em>Proceedings of the 19th Amsterdam
+Colloquium</em>, Maria Aloni, Michael Franke, and Floris Roelofsen
+(eds.), Amsterdam: ILLC, University of Amsterdam, 10&ndash;18.</li>
+
+<li id="ref-egre2019finettian">&Eacute;gr&eacute;, Paul, Lorenzo
+Rossi, and Jan Sprenger, 2021, &ldquo;De Finettian Logics of
+Indicative Conditionals Part I: Trivalent Semantics and
+Validity&rdquo;, <em>Journal of Philosophical Logic</em>, 50(2):
+187&ndash;213. doi:10.1007/s10992-020-09549-6</li>
+
+<li id="ref-farrell1979material">Farrell, Robert J., 1979,
+&ldquo;Material Implication, Confirmation, and Counterfactuals&rdquo;,
+<em>Notre Dame Journal of Formal Logic</em>, 20(2): 383&ndash;394.
+doi:10.1305/ndjfl/1093882546</li>
+
+<li id="ref-farrell1986implication">&ndash;&ndash;&ndash;, 1986,
+&ldquo;Implication and Presupposition&rdquo;, <em>Notre Dame Journal
+of Formal Logic</em>, 27(1): 51&ndash;61.
+doi:10.1305/ndjfl/1093636522</li>
+
+<li id="ref-Fine1975">Fine, Kit, 1975, &ldquo;Vagueness, Truth and
+Logic&rdquo;, <em>Synthese</em>, 30(3&ndash;4): 265&ndash;300.
+doi:10.1007/BF00485047</li>
+
+<li id="ref-fine2012counterfactuals">&ndash;&ndash;&ndash;, 2012,
+&ldquo;Counterfactuals Without Possible Worlds&rdquo;, <em>Journal of
+Philosophy</em>, 109(3): 221&ndash;246.</li>
+
+<li id="ref-finetti1936logic">Finetti, Bruno de, 1936, &ldquo;La
+Logique de La Probabilit&eacute;&rdquo;, in <em>Actes Du
+Congr&egrave;s International de Philosophie Scientifique, Paris
+1935</em>, Vol. IV: Induction et Probabilit&eacute;, Paris: Hermann,
+31&ndash;39.</li>
+
+<li id="ref-fintel1994restrictions">von Fintel, Kai, 1994,
+<em>Restrictions on Quantifier Domains</em>, PhD Thesis, University of
+Massachusetts, Amherst.</li>
+
+<li id="ref-von-fintel-counterfactuals-01">&ndash;&ndash;&ndash;,
+2001, &ldquo;Counterfactuals in a Dynamic Context&rdquo;, in <em>Ken
+Hale: A Life in Language</em>, Michael Kenstowicz (ed.), Cambridge,
+MA: MIT Press, 123&ndash;152.</li>
+
+<li id="ref-fitelson2015strongest">Fitelson, Branden, 2015, &ldquo;The
+Strongest Possible Lewisian Triviality Result&rdquo;,
+<em>Thought</em>, 4(2): 69&ndash;74. doi:10.1002/tht3.159</li>
+
+<li id="ref-fraassen1976probabilities">van Fraassen, Bas C., 1976,
+&ldquo;Probabilities of Conditionals&rdquo;, in Harper and Hooker
+1976: 261&ndash;308. doi:10.1007/978-94-010-1853-1_10</li>
+
+<li id="ref-frege1879begriffsschrift">Frege, Gottlob, 1879,
+<em>Begriffsschrift</em>, Halle: Nebert.</li>
+
+<li id="ref-freund-93">Freund, Michael, 1993, &ldquo;Injective Models
+and Disjunctive Relations&rdquo;, <em>Journal of Logic and
+Computation</em>, 3(3): 231&ndash;247. doi:10.1093/logcom/3.3.231</li>
+
+<li id="ref-friedman1994complexity">Friedman, Nir and Joseph Y.
+Halpern, 1994, &ldquo;On the Complexity of Conditional Logics&rdquo;,
+in <em>Principles of Knowledge Representation and Reasoning:
+Proceedings of the Fourth International Conference (KR&rsquo;94)</em>,
+Jon Doyle, Erik Sandewall, and Pietro Torasso (eds.), San Francisco,
+CA: Morgan Kaufmann, 202&ndash;213.</li>
+
+<li id="ref-gardenfors-79">G&auml;rdenfors, Peter, 1978,
+&ldquo;Conditionals and Changes of Belief&rdquo;, in <em>The Logic and
+Epistemology of Scientific Change</em>, Illkka Niiniluoto and Raimo
+Tuomela (eds.), (Acta Philosophica Fennica), Amsterdam: North Holland,
+381&ndash;404.</li>
+
+<li id="ref-gardenfors1986belief">&ndash;&ndash;&ndash;, 1986,
+&ldquo;Belief Revisions and the Ramsey Test for Conditionals&rdquo;,
+<em>Philosophical Review</em>, 95(1): 81&ndash;93.
+doi:10.2307/2185133</li>
+
+<li id="ref-gardenfors-87">&ndash;&ndash;&ndash;, 1987,
+&ldquo;Variations on the Ramsey Test: More Triviality Results&rdquo;,
+<em>Studia Logica</em>, 46(4): 321&ndash;327.
+doi:10.1007/BF00370643</li>
+
+<li id="ref-gardenfors-88">&ndash;&ndash;&ndash;, 1988, <em>Knowledge
+in Flux: Modeling the Dynamics of Epistemic States</em>, Cambridge,
+MA: Bradford Books, MIT Press.</li>
+
+<li id="ref-gibbard1980two">Gibbard, Allan, 1980, &ldquo;Two Recent
+Theories of Conditionals&rdquo;, in Harper, Stalnaker, and Pearce
+1980: 211&ndash;247. doi:10.1007/978-94-009-9117-0_10</li>
+
+<li id="ref-gilio2002probabilistic">Gilio, Angelo, 2002,
+&ldquo;Probabilistic Reasoning under Coherence in System P&rdquo;,
+<em>Annals of Mathematics and Artificial Intelligence</em>,
+34(1&ndash;3): 5&ndash;34. doi:10.1023/A:1014422615720</li>
+
+<li id="ref-gilio2014conditional">Gilio, Angelo and Giuseppe
+Sanfilippo, 2014, &ldquo;Conditional Random Quantities and Compounds
+of Conditionals&rdquo;, <em>Studia Logica</em>, 102(4): 709&ndash;729.
+doi:10.1007/s11225-013-9511-6</li>
+
+<li id="ref-gillies2004epistemic">Gillies, Anthony S., 2004,
+&ldquo;Epistemic Conditionals and Conditional Epistemics&rdquo;,
+<em>No&ucirc;s</em>, 38(4): 585&ndash;616.
+doi:10.1111/j.0029-4624.2004.00485.x</li>
+
+<li id="ref-gillies_scorekeeping-07">&ndash;&ndash;&ndash;, 2007,
+&ldquo;Counterfactual Scorekeeping&rdquo;, <em>Linguistics and
+Philosophy</em>, 30(3): 329&ndash;360.
+doi:10.1007/s10988-007-9018-6</li>
+
+<li id="ref-girard2007onions">Girard, Patrick, 2007, &ldquo;From
+Onions to Broccoli: Generalizing Lewis&rsquo; Counterfactual
+Logic&rdquo;, <em>Journal of Applied Non-Classical Logics</em>, 17(2):
+213&ndash;229. doi:10.3166/jancl.17.213-229</li>
+
+<li id="ref-goodman47">Goodman, Nelson, 1947, &ldquo;The Problem of
+Counterfactual Conditionals&rdquo;, <em>Journal of Philosophy</em>,
+44(5): 113&ndash;128. doi:10.2307/2019988</li>
+
+<li id="ref-goodman1955fact">&ndash;&ndash;&ndash;, 1955, <em>Fact,
+Fiction and Forecast</em>, Cambridge, MA: Harvard University
+Press.</li>
+
+<li id="ref-grahne_update_counterfactuals">Grahne, G&ouml;sta, 1998,
+&ldquo;Updates and Counterfactuals&rdquo;, <em>Journal of Logic and
+Computation</em>, 8(1): 87&ndash;117. doi:10.1093/logcom/8.1.87</li>
+
+<li>Guerzoni, Elena, &amp; Lim, Dongsik (2007). &ldquo;Even if,
+factivity and focus&rdquo;, in <em>Proceedings of Sinn und Bedeutung,
+</em>vol. 11: 276&ndash;290. doi:10.18148/sub/2007.v11i0.645</li>
+
+<li>G&uuml;nther, Mario, 2018, &ldquo;Learning conditional information
+by Jeffrey imaging on Stalnaker conditionals&rdquo;, <em>Journal of
+Philosophical Logic</em>, 47(5), 851&ndash;876.
+doi:10.1007/s10992-017-9452-z</li>
+
+<li id="ref-hansson_textbook">Hansson, Sven Ove, 1999, <em>A Textbook
+on Belief Dynamics</em>, Dordrecht: Kluwer.</li>
+
+<li id="ref-harper76">Harper, William L., 1976, &ldquo;Ramsey Test
+Conditionals and Iterated Belief Change (A Response to
+Stalnaker)&rdquo;, in Harper and Hooker 1976: 117&ndash;135.
+doi:10.1007/978-94-010-1853-1_6</li>
+
+<li>Harper, William L. and Clifford Alan Hooker (eds.), 1976,
+<em>Foundations of Probability Theory, Statistical Inference, and
+Statistical Theories of Science</em>, Vol. 1, Dordrecht: Springer
+Netherlands. doi:10.1007/978-94-010-1853-1</li>
+
+<li>Harper, William L., Robert Stalnaker, and Glenn Pearce (eds.),
+1980, <em>IFS: Conditionals, Belief, Decision, Chance and Time</em>,
+Dordrecht: Springer Netherlands. doi:10.1007/978-94-009-9117-0</li>
+
+<li id="ref-hajek1989probabilities">H&aacute;jek, Alan, 1989,
+&ldquo;Probabilities of Conditionals &ndash; Revisited&rdquo;,
+<em>Journal of Philosophical Logic</em>, 18(4): 423&ndash;428.
+doi:10.1007/BF00262944</li>
+
+<li id="ref-hajek1994hypothesis">H&aacute;jek, Alan, and Hall, Ned,
+1994, &ldquo;The Hypothesis of the Conditional Construal of
+Conditional Probability&rdquo;, in Eells and Skyrms 1994:
+75&ndash;111.</li>
+
+<li id="ref-herzig1996scan">Herzig, Andreas, 1996, <em>SCAN and
+Systems of Conditional Logic</em> (No. MPI-I-1996-2-007),
+Saarbr&uuml;cken: Max-Planck-Institut f&uuml;r Informatik.</li>
+
+<li id="ref-huitink2008phd">Huitink, Janneke, 2008, <em>Modals,
+Conditionals and Compositionality</em>, PhD Thesis, Radboud
+University, Nijmegen.</li>
+
+<li id="ref-isaacs2008conditional">Isaacs, James and Kyle Rawlins,
+2008, &ldquo;Conditional Questions&rdquo;, <em>Journal of
+Semantics</em>, 25(3): 269&ndash;319. doi:10.1093/jos/ffn003</li>
+
+<li id="ref-jeffrey1963indeterminate">Jeffrey, Richard C., 1963,
+&ldquo;On Indeterminate Conditionals&rdquo;, <em>Philosophical
+Studies</em>, 14(3): 37&ndash;43. doi:10.1007/BF00427948</li>
+
+<li id="ref-katmend-91">Katsuno, Hirofumi and Alberto O. Mendelzon,
+1991, &ldquo;Propositional Knowledge Base Revision and Minimal
+Change&rdquo;, <em>Artificial Intelligence</em>, 52(3): 263&ndash;294.
+doi:10.1016/0004-3702(91)90069-V</li>
+
+<li id="ref-katmend-92">&ndash;&ndash;&ndash;, 1992, &ldquo;On the
+Difference between Updating a Knowledge Base and Revising It&rdquo;,
+in <em>Belief Revision</em>, Peter G&auml;rdenfors (ed.), Cambridge:
+Cambridge University Press, 183&ndash;203.
+doi:10.1017/CBO9780511526664.007</li>
+
+<li id="ref-kaufmann2015conditionals">Kaufmann, Magdalena and Stefan
+Kaufmann, 2015, &ldquo;Conditionals and Modality&rdquo;, in <em>The
+Handbook of Contemporary Semantic Theory</em>, Shalom Lappin and Chris
+Fox (eds.), 2nd ed., Chichester, UK: John Wiley &amp; Sons,
+237&ndash;270. doi:10.1002/9781118882139.ch8</li>
+
+<li id="ref-kaufmann2005conditional">Kaufmann, Stefan, 2005,
+&ldquo;Conditional Predictions: A Probabilistic Account&rdquo;,
+<em>Linguistics and Philosophy</em>, 28(2): 181&ndash;231.
+doi:10.1007/s10988-005-3731-9</li>
+
+<li id="ref-kaufmann2009conditionals">&ndash;&ndash;&ndash;, 2009,
+&ldquo;Conditionals Right and Left: Probabilities for the Whole
+Family&rdquo;, <em>Journal of Philosophical Logic</em>, 38(1):
+1&ndash;53. doi:10.1007/s10992-008-9088-0</li>
+
+<li id="ref-kaufmann2013causal">&ndash;&ndash;&ndash;, 2013,
+&ldquo;Causal Premise Semantics&rdquo;, <em>Cognitive Science</em>,
+37(6): 1136&ndash;1170. doi:10.1111/cogs.12063</li>
+
+<li id="ref-kaufmann2017limit">&ndash;&ndash;&ndash;, 2017, &ldquo;The
+Limit Assumption&rdquo;, <em>Semantics and Pragmatics</em>, 10: art.
+18. doi:10.3765/sp.10.18</li>
+
+<li id="ref-kaufmann2009unified">Kaufmann, Stefan and Magdalena
+Schwager, 2011, &ldquo;A Unified Analysis of Conditional
+Imperatives&rdquo;, in <em>Proceedings of Semantics and Linguistic
+Theory (SALT) 19, 2009</em>, Ed Cormany, Satoshi Ito, and David Lutz
+(eds.), 239&ndash;256. doi:10.3765/salt.v19i0.2545</li>
+
+<li id="ref-klinedinst2009simplification">Klinedinst, Nathan, 2009,
+&ldquo;(Simplification of)<sup>2</sup> Disjunctive Antecedents&rdquo;,
+in <em>Presuppositions and Implicatures: Proceedings of the MIT-Paris
+Workshop</em>, Paul &Eacute;gr&eacute; and Giorgio Magri (eds.),
+Cambridge, MA: MIT Working Papers in Linguistics, 135&ndash;151.</li>
+
+<li id="ref-kneale1962development">Kneale, William and Martha Kneale,
+1962, <em>The Development of Logic</em>, Oxford: Oxford University
+Press.</li>
+
+<li id="ref-kratzer-79">Kratzer, Angelika, 1979, &ldquo;Conditional
+Necessity and Possibility&rdquo;, in <em>Semantics from Different
+Points of View</em>, Rainer B&auml;uerle, Urs Egli, and Arnim von
+Stechow (eds.), Berlin: Springer, 117&ndash;147.</li>
+
+<li id="ref-Kratzer">&ndash;&ndash;&ndash;, 1981, &ldquo;Partition and
+Revision: The Semantics of Counterfactuals&rdquo;, <em>Journal of
+Philosophical Logic</em>, 10(2). doi:10.1007/BF00248849</li>
+
+<li id="ref-Kratzer1991">&ndash;&ndash;&ndash;, 1991,
+&ldquo;Modality&rdquo;, in <em>Semantics: An International Handbook of
+Contemporary Research</em>, Arnim von Stechow and Dieter Wunderlich
+(eds.), Berlin: de Gruyter, 639&ndash;650.</li>
+
+<li id="ref-kratzer2012modals">&ndash;&ndash;&ndash;, 2012, <em>Modals
+and Conditionals: New and Revised Perspectives</em>, Oxford: Oxford
+University Press.</li>
+
+<li id="ref-klm">Kraus, Sarit, Daniel Lehmann, and Menachem Magidor,
+1990, &ldquo;Nonmonotonic Reasoning, Preferential Models and
+Cumulative Logics&rdquo;, <em>Artificial Intelligence</em>,
+44(1&ndash;2): 167&ndash;207. doi:10.1016/0004-3702(90)90101-5</li>
+
+<li id="ref-krzyzanowska2013inferential">Krzy&#380;anowska, Karolina,
+Sylvia Wenmackers, and Igor Douven, 2013, &ldquo;Inferential
+Conditionals and Evidentiality&rdquo;, <em>Journal of Logic, Language
+and Information</em>, 22(3): 315&ndash;334.
+doi:10.1007/s10849-013-9178-4</li>
+
+<li id="ref-lassiter2018complex">Lassiter, Daniel, 2018,
+&ldquo;Complex Sentential Operators Refute Unrestricted Simplification
+of Disjunctive Antecedents&rdquo;, <em>Semantics and Pragmatics</em>,
+11: art. 9. doi:10.3765/sp.11.9</li>
+
+<li id="ref-lassiter2019triviality">&ndash;&ndash;&ndash;, 2020,
+&ldquo;What We Can Learn from How Trivalent Conditionals Avoid
+Triviality&rdquo;, <em>Inquiry</em>, 63(9&ndash;10): 1087&ndash;1114.
+doi:10.1080/0020174X.2019.1698457</li>
+
+<li id="ref-lehmann-magidor-92">Lehmann, Daniel and Menachem Magidor,
+1992, &ldquo;What Does a Conditional Knowledge Base Entail?&rdquo;,
+<em>Artificial Intelligence</em>, 55(1): 1&ndash;60.
+doi:10.1016/0004-3702(92)90041-U</li>
+
+<li id="ref-levisubjunctives-77">Levi, Isaac, 1977,
+&ldquo;Subjunctives, Dispositions and Chances&rdquo;,
+<em>Synthese</em>, 34(4): 423&ndash;455. doi:10.1007/BF00485649</li>
+
+<li id="ref-levi_fsa">&ndash;&ndash;&ndash;, 1996, <em>For the Sake of
+the Argument: Ramsey Test Conditionals, Inductive Inference and
+Nonmonotonic Reasoning</em>, Cambridge: Cambridge University Press.
+doi:10.1017/CBO9780511720161</li>
+
+<li id="ref-lewis1912implication">Lewis, Clarence Irving, 1912,
+&ldquo;Implication and the Algebra of Logic&rdquo;, <em>Mind</em>,
+21(84): 522&ndash;531. doi:10.1093/mind/XXI.84.522</li>
+
+<li id="ref-Lewis1973">Lewis, David, 1973, <em>Counterfactuals</em>,
+Oxford: Basil Blackwell.</li>
+
+<li id="ref-lewis1975adverbs">&ndash;&ndash;&ndash;, 1975,
+&ldquo;Adverbs of Quantification&rdquo;, in <em>Formal Semantics of
+Natural Language</em>, Edward L. Keenan (ed.), Cambridge: Cambridge
+University Press, 178&ndash;188.</li>
+
+<li id="ref-lewis_76">&ndash;&ndash;&ndash;, 1976,
+&ldquo;Probabilities of Conditionals and Conditional
+Probabilities&rdquo;, <em>Philosophical Review</em>, 85(3):
+297&ndash;315. doi:10.2307/2184045</li>
+
+<li id="ref-lewis-81">&ndash;&ndash;&ndash;, 1981, &ldquo;Ordering
+Semantics and Premise Semantics for Counterfactuals&rdquo;,
+<em>Journal of Philosophical Logic</em>, 10(2): 217&ndash;234.
+doi:10.1007/BF00248850</li>
+
+<li id="ref-lindstrom">Lindstr&ouml;m, Sten, 1994, <em>A Semantic
+Approach to Nonmonotonic Reasoning: Inference Operations and
+Choice</em> (Uppsala Prints and Preprints in Philosophy, 1994, 10),
+University of Uppsala: Department of Philosophy.</li>
+
+<li id="ref-lindstr_rabino-98">Lindstr&ouml;m, Sten and Wlodek
+Rabinowicz, 1998, &ldquo;Conditionals and the Ramsey Test&rdquo;, in
+<em>Belief Change</em>, Didier Dubois and Henri Prade (eds.),
+(Handbook of Defeasible Reasoning and Uncertainty Management Systems
+3), Dordrecht: Kluwer, 147&ndash;188.
+doi:10.1007/978-94-011-5054-5_4</li>
+
+<li id="ref-lukasiewicz1920three">&#321;ukasiewicz, Jan, 1920,
+&ldquo;O logice tr&oacute;jwarto&#347;ciowej&rdquo; (&ldquo;On
+Three-Valued Logic&rdquo;), <em>Ruch Filosoficzny</em>, 5:
+170&ndash;171.</li>
+
+<li id="ref-lycan2001real">Lycan, William G., 2001, <em>Real
+Conditionals</em>, Oxford: Clarendon Press.</li>
+
+<li id="ref-maccoll1908if">MacColl, Hugh, 1908, &ldquo;`If&rsquo;and
+`Imply&rsquo;&rdquo;, <em>Mind</em>, 17(67): 453&ndash;455.
+doi:10.1093/mind/XVII.3.453</li>
+
+<li id="ref-mackie1962counterfactuals">Mackie, John Leslie, 1962,
+&ldquo;Counterfactuals and Causal Laws&rdquo;, in <em>Analytical
+Philosophy</em>, R. J. Butler (ed.), Oxford: Blackwell,
+66&ndash;80.</li>
+
+<li id="ref-Mandelkern2018import">Mandelkern, Matthew, 2020,
+&ldquo;Import&#8208;Export and &lsquo;And&rsquo;&rdquo;,
+<em>Philosophy and Phenomenological Research</em>, 100(1):
+118&ndash;135. doi:10.1111/phpr.12513</li>
+
+<li id="ref-manor1975propositional">Manor, Ruth, 1975,
+&ldquo;Propositional Commitment and Presuppositions&rdquo;,
+<em>American Philosophical Quarterly</em>, 12(2): 141&ndash;149.</li>
+
+<li id="ref-sep-logic-relevance">Mares, Edwin, 2020, &ldquo;Relevance
+Logic&rdquo;, in <em>The Stanford Encyclopedia of Philosophy</em>
+(Summer 2020 edition), Edward N. Zalta (ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/sum2020/entries/logic-relevance/" target="other">https://plato.stanford.edu/archives/sum2020/entries/logic-relevance/</a>&gt;</li>
+ 
+<li id="ref-mcdermott1996truth">McDermott, Michael, 1996, &ldquo;On
+the Truth Conditions of Certain &rsquo;If&rsquo;-Sentences&rdquo;,
+<em>Philosophical Review</em>, 105(1): 1&ndash;37.
+doi:10.2307/2185762</li>
+
+<li id="ref-McGee1981">McGee, Vann, 1981, &ldquo;Finite Matrices and
+the Logic of Conditionals&rdquo;, <em>Journal of Philosophical
+Logic</em>, 10(3): 349&ndash;351. doi:10.1007/BF00293426</li>
+
+<li id="ref-mcgee1989conditional">&ndash;&ndash;&ndash;, 1989,
+&ldquo;Conditional Probabilities and Compounds of Conditionals&rdquo;,
+<em>Philosophical Review</em>, 98(4): 485&ndash;541.
+doi:10.2307/2185116</li>
+
+<li id="ref-mckay1977counterfactuals">Mckay, Thomas and Peter Van
+Inwagen, 1977, &ldquo;Counterfactuals with Disjunctive
+Antecedents&rdquo;, <em>Philosophical Studies</em>, 31(5):
+353&ndash;356. doi:10.1007/BF01873862</li>
+
+<li id="ref-meyer1973classical">Meyer, Robert K. and Richard Routley,
+1973, &ldquo;Classical Relevant Logics. I&rdquo;, <em>Studia
+Logica</em>, 32(1): 51&ndash;66. doi:10.1007/BF02123812</li>
+
+<li id="ref-milne1997finetti">Milne, Peter, 1997, &ldquo;Bruno de
+Finetti and the Logic of Conditional Events&rdquo;, <em>British
+Journal for the Philosophy of Science</em>, 48(2): 195&ndash;232.
+doi:10.1093/bjps/48.2.195</li>
+
+<li id="ref-milne2003simplest">&ndash;&ndash;&ndash;, 2003, &ldquo;The
+Simplest Lewis-Style Triviality Proof Yet?&rdquo;, <em>Analysis</em>,
+63(4): 300&ndash;303. doi:10.1093/analys/63.4.300</li>
+
+<li id="ref-nute-80">Nute, Donald, 1980, <em>Topics in Conditional
+Logic</em>, Dordrecht: Reidel. doi:10.1007/978-94-009-8966-5</li>
+
+<li id="ref-NuteCross2001">Nute, Donald and Charles B. Cross, 2001,
+&ldquo;Conditional Logic&rdquo;, in <em>Handbook of Philosophical
+Logic</em>, volume 4, Dov M. Gabbay and Franz Guenthner (eds.), 2nd
+ed., Dordrecht: Kluwer, 1&ndash;98.
+doi:10.1007/978-94-017-0456-4_1</li>
+
+<li id="ref-odintsov2010modal">Odintsov, Sergei P. and Heinrich
+Wansing, 2010, &ldquo;Modal Logics with Belnapian Truth Values&rdquo;,
+<em>Journal of Applied Non-Classical Logics</em>, 20(3):
+279&ndash;301.</li>
+
+<li id="ref-olivetti2007sequent">Olivetti, Nicola, Gian Luca Pozzato,
+and Camilla B. Schwind, 2007, &ldquo;A Sequent Calculus and a Theorem
+Prover for Standard Conditional Logics&rdquo;, <em>ACM Transactions on
+Computational Logic</em>, 8(4): art. 22.
+doi:10.1145/1276920.1276924</li>
+
+<li>Olkhovikov, Grigory, 2002, &ldquo;On a new three-valued
+paraconsistent logic&rdquo;, T. Ferguson (trans.), <em>IFCoLog Journal
+of Logic and Applications</em>, 3 (2016): 317&ndash;334; originaly
+published in Russian, <em>Logic of Law and Tolerance</em>,
+Yekaterinburg: Ural State University Press, 2002, pp. 96&ndash;113.
+</li>
+
+<li id="ref-omori2019bridge">Omori, Hitoshi, 2019, &ldquo;Towards a
+Bridge over Two Approaches in Connexive Logic&rdquo;, <em>Logic and
+Logical Philosophy</em>, 28(3): 553&ndash;566.
+doi:10.12775/LLP.2019.005</li>
+
+<li id="ref-over2017defective">Over, David and Jean Baratgin, 2017,
+&ldquo;The &lsquo;Defective&rsquo; Truth Table: Its Past, Present, and
+Future&rdquo;, in <em>The Thinking Mind: A Festschrift for Ken
+Manktelow</em>, Niall Galbraith, Erica Lucas, and David Over (eds.),
+London: Routledge, 15&ndash;28.</li>
+
+<li id="ref-OverEtAl2007">Over, David E., Constantinos
+Hadjichristidis, Jonathan St. B.T. Evans, Simon J. Handley, and Steven
+A. Sloman, 2007, &ldquo;The Probability of Causal Conditionals&rdquo;,
+<em>Cognitive Psychology</em>, 54(1): 62&ndash;97.
+doi:10.1016/j.cogpsych.2006.05.002</li>
+
+<li id="ref-pearl2009causality">Pearl, Judea, 2009, <em>Causality:
+Models, Reasoning, and Inference</em>, second edition, Cambridge:
+Cambridge University Press. doi:10.1017/CBO9780511803161</li>
+
+<li id="ref-pfeifer2014reasoning">Pfeifer, Niki, 2014,
+&ldquo;Reasoning About Uncertain Conditionals&rdquo;, <em>Studia
+Logica</em>, 102(4): 849&ndash;866. doi:10.1007/s11225-013-9505-4</li>
+
+<li id="ref-poggiolesi2016natural">Poggiolesi, Francesca, 2016,
+&ldquo;Natural Deduction Calculi and Sequent Calculi for
+Counterfactual Logics&rdquo;, <em>Studia Logica</em>, 104(5):
+1003&ndash;1036. doi:10.1007/s11225-016-9662-3</li>
+
+<li id="ref-pollock">Pollock, John L., 1976, <em>Subjunctive
+Reasoning</em>, Dordrecht: Reidel. doi:10.1007/978-94-010-1500-4</li>
+
+<li id="ref-quine1950methods">Quine, W. V. O., 1950, <em>Methods of
+Logic</em>, New York: Holt.</li>
+
+<li id="ref-raidl-definable-conditionals-20">Raidl, Eric, 2021,
+&ldquo;Definable Conditionals&rdquo;, <em>Topoi</em>, 40(1):
+87&ndash;105. doi:10.1007/s11245-020-09704-3</li>
+
+<li id="ref-Ramsey1929">Ramsey, Frank P., 1931, &ldquo;General
+Propositions and Causality&rdquo;, in <em>The Foundations of
+Mathematics and Other Logical Essays</em>, Joseph B. Braithwaite
+(ed.), London: Kegan Paul, 237&ndash;255.</li>
+
+<li id="ref-reichenbach1935wahr">Reichenbach, Hans, 1935,
+<em>Wahrscheinlichkeitslehre</em>, Leiden: Sijthoff.</li>
+
+<li id="ref-reichenbach1944philosophic">&ndash;&ndash;&ndash;, 1944,
+<em>Philosophic Foundations of Quantum Mechanics</em>, Berkeley, CA:
+University of California Press.</li>
+
+<li id="ref-reichenbach1949prob">&ndash;&ndash;&ndash;, 1949, <em>The
+Theory of Probability</em>, Berkeley: University of California
+Press.</li>
+
+<li id="ref-rescher1964hypothetical">Rescher, Nicholas, 1964,
+<em>Hypothetical Reasoning</em>, Amsterdam: North-Holland.</li>
+
+<li id="ref-rooij2019conditionals">Rooij, Robert van and Katrin
+Schulz, 2019, &ldquo;Conditionals, Causality and Conditional
+Probability&rdquo;, <em>Journal of Logic, Language and
+Information</em>, 28(1): 55&ndash;71.
+doi:10.1007/s10849-018-9275-5</li>
+
+<li>Rothschild, D., 2014, &ldquo;Capturing the relationship between
+conditionals and conditional probability with a trivalent
+semantics&rdquo;, <em>Journal of Applied Non-Classical
+Logics</em>,&nbsp;24(1&ndash;2), 144&ndash;152.
+doi:10.1080/11663081.2014.911535</li>
+
+<li id="ref-rott_ifs">Rott, Hans, 1986, &ldquo;Ifs, Though, and
+Because&rdquo;, <em>Erkenntnis</em>, 25(3): 345&ndash;370.
+doi:10.1007/BF00175348</li>
+
+<li id="ref-pmcpbc">&ndash;&ndash;&ndash;, 1993, &ldquo;Belief
+Contraction in the Context of the General Theory of Rational
+Choice&rdquo;, <em>Journal of Symbolic Logic</em>, 58(4):
+1426&ndash;1450. doi:10.2307/2275152</li>
+
+<li id="ref-cci">&ndash;&ndash;&ndash;, 2001, <em>Change, Choice and
+Inference: A Study in Belief Revision and Nonmonotonic Reasoning</em>,
+Oxford: Oxford University Press.</li>
+
+<li id="ref-reapramsey-11">&ndash;&ndash;&ndash;, 2011,
+&ldquo;Reapproaching Ramsey: Conditionals and Iterated Belief Change
+in the Spirit of AGM&rdquo;, <em>Journal of Philosophical Logic</em>,
+40(2): 155&ndash;191. doi:10.1007/s10992-011-9177-3</li>
+
+<li id="ref-rott-relevant-ramsey-19">&ndash;&ndash;&ndash;,
+forthcoming, &ldquo;Difference-Making Conditionals and the Relevant
+Ramsey Test&rdquo;, <em>Review of Symbolic Logic</em>, first online:
+12 December 2019, 1&ndash;32. doi:10.1017/S1755020319000674</li>
+
+<li id="ref-ryan-schobbens_counterfactuals-97">Ryan, Mark D. and
+Pierre-Yves Schobbens, 1997, &ldquo;Counterfactuals and Updates as
+Inverse Modalities&rdquo;, <em>Journal of Logic, Language and
+Information</em>, 6(2): 123&ndash;146.
+doi:10.1023/A:1008218502162</li>
+
+<li id="ref-sanfilippo2020probabilities">Sanfilippo, Giuseppe, Angelo
+Gilio, David E. Over, and Niki Pfeifer, 2020, &ldquo;Probabilities of
+Conditionals and Previsions of Iterated Conditionals&rdquo;,
+<em>International Journal of Approximate Reasoning</em>, 121:
+150&ndash;173. doi:10.1016/j.ijar.2020.03.001</li>
+
+<li id="ref-sanford1989if">Sanford, David, 1989, <em>If P, Then Q:
+Conditionals and the Foundations of Reasoning</em>, London:
+Routledge.</li>
+
+<li id="ref-santorio2018alternatives">Santorio, Paolo, 2018,
+&ldquo;Alternatives and Truthmakers in Conditional Semantics&rdquo;,
+<em>Journal of Philosophy</em>, 115(10): 513&ndash;549.
+doi:10.5840/jphil20181151030</li>
+
+<li id="ref-santorio2019interventions">&ndash;&ndash;&ndash;, 2019,
+&ldquo;Interventions in Premise Semantics&rdquo;,
+<em>Philosopher&rsquo;s Imprint</em>, 19: art. 1.
+ [<a href="http://hdl.handle.net/2027/spo.3521354.0019.001" target="other">Santorio 2019 available online</a>]</li>
+ 
+<li id="ref-santorio2020path">&ndash;&ndash;&ndash;, forthcoming,
+&ldquo;Path Semantics for Conditionals&rdquo;, <em>Mind</em>.</li>
+
+<li id="ref-schay1968algebra">Schay, Geza, 1968, &ldquo;An Algebra of
+Conditional Events&rdquo;, <em>Journal of Mathematical Analysis and
+Applications</em>, 24(2): 334&ndash;344.
+doi:10.1016/0022-247X(68)90035-8</li>
+
+<li id="ref-schlenker2004conditionals">Schlenker, Philippe, 2004,
+&ldquo;Conditionals as Definite Descriptions&rdquo;, <em>Research on
+Language and Computation</em>, 2(3): 417&ndash;462.
+doi:10.1007/s11168-004-0908-2</li>
+
+<li id="ref-schulz2007minimal">Schulz, Katrin, 2007, <em>Minimal
+Models in Semantics and Pragmatics: Free Choice, Exhaustivity, and
+Conditionals</em>, PhD Thesis, Institute for Logic, Language;
+Computation, Amsterdam.</li>
+
+<li id="ref-Schulz2009">Schulz, Moritz, 2009, &ldquo;A Note on Two
+Theorems by Adams and McGee&rdquo;, <em>Review of Symbolic Logic</em>,
+2(3): 509&ndash;516. doi:10.1017/S1755020309990189</li>
+
+<li id="ref-segerberg_cond-log-89">Segerberg, Krister, 1989,
+&ldquo;Notes on Conditional Logic&rdquo;, <em>Studia Logica</em>,
+48(2): 157&ndash;168. doi:10.1007/BF02770509</li>
+
+<li id="ref-senCCSW-70">Sen, Amartya K., 1970, <em>Collective Choice
+Social Welfare</em>, San Francisco: Holden-Day.</li>
+
+<li>Sextus Empiricus, 2000, <em>Outlines of Skepticism</em>, J. Annas
+and J. Barnes (eds.), Cambridge: Cambridge University Press.</li>
+
+<li id="ref-shanks1995psychology">Shanks, David R., 1995, <em>The
+Psychology of Associative Learning</em>, Cambridge: Cambridge
+University Press. doi:10.1017/CBO9780511623288</li>
+
+<li id="ref-skovgaard2016relevance">Skovgaard-Olsen, Niels, Henrik
+Singmann, and Karl Christoph Klauer, 2016, &ldquo;The Relevance Effect
+and Conditionals&rdquo;, <em>Cognition</em>, 150(1): 26&ndash;36.
+doi:10.1016/j.cognition.2015.12.017</li>
+
+<li>Soboci&#324;ski, Boles&#322;aw, 1952. Axiomatization of a partial
+system of three-value calculus of propositions. <em>Journal of
+Computing Systems</em> 1, 23&ndash;55.</li>
+
+<li id="ref-spohn2013ranking">Spohn, Wolfgang, 2013, &ldquo;A
+Ranking-Theoretic Approach to Conditionals&rdquo;, <em>Cognitive
+Science</em>, 37(6): 1074&ndash;1106. doi:10.1111/cogs.12057</li>
+
+<li id="ref-Stalnaker1968">Stalnaker, Robert C., 1968, &ldquo;A Theory
+of Conditionals&rdquo;, in <em>Studies in Logical Theory</em>,
+Nicholas Rescher (ed.), Oxford: Blackwell, 98&ndash;112.</li>
+
+<li id="ref-stalnaker1970probability">&ndash;&ndash;&ndash;, 1970,
+&ldquo;Probability and Conditionals&rdquo;, <em>Philosophy of
+Science</em>, 37(1): 64&ndash;80. doi:10.1086/288280</li>
+
+<li id="ref-stalnaker1975indicative">&ndash;&ndash;&ndash;, 1975,
+&ldquo;Indicative Conditionals&rdquo;, <em>Philosophia</em>, 5(3):
+269&ndash;286. doi:10.1007/BF02379021</li>
+
+<li id="ref-stalnaker1980defense">&ndash;&ndash;&ndash;, 1980,
+&ldquo;A Defense of Conditional Excluded Middle&rdquo;, in Harper,
+Stalnaker, and Pearce 1980: 87&ndash;104.
+doi:10.1007/978-94-009-9117-0_4</li>
+
+<li id="ref-stalnaker1994conditionals">Stalnaker, Robert C. and
+Richard Jeffrey, 1994, &ldquo;Conditionals as Random Variables&rdquo;,
+in Eells and Skyrms 1994: 31&ndash;46.</li>
+
+<li id="ref-starr2014uniform">Starr, William B., 2014a, &ldquo;A
+Uniform Theory of Conditionals&rdquo;, <em>Journal of Philosophical
+Logic</em>, 43(6): 1019&ndash;1064. doi:10.1007/s10992-013-9300-8</li>
+
+<li id="ref-starr2015whatif">&ndash;&ndash;&ndash;, 2014b, &ldquo;What
+&lsquo;If&rsquo;?&rdquo;, <em>Philosopher&rsquo;s Imprint</em>, 14:
+art. 10.
+ [<a href="http://hdl.handle.net/2027/spo.3521354.0014.010" target="other">Starr 2014 available online</a>]</li>
+ 
+<li id="ref-sep-counterfactuals">&ndash;&ndash;&ndash;, 2019,
+&ldquo;Counterfactuals&rdquo;, in <em>The Stanford Encyclopedia of
+Philosophy</em> (Fall 2019 edition), Edward N. Zalta (ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/fall2019/entries/counterfactuals/" target="other">https://plato.stanford.edu/archives/fall2019/entries/counterfactuals/</a>&gt;</li>
+ 
+<li id="ref-suzu">Suzumura, Kotaro, 1983, <em>Rational Choice,
+Collective Decisions, and Social Welfare</em>, Cambridge: Cambridge
+University Press. doi:10.1017/CBO9780511897993</li>
+
+<li id="ref-unterhuber2014completeness">Unterhuber, Matthias and
+Gerhard Schurz, 2014, &ldquo;Completeness and Correspondence in
+Chellas&ndash;Segerberg Semantics&rdquo;, <em>Studia Logica</em>,
+102(4): 891&ndash;911. doi:10.1007/s11225-013-9504-5</li>
+
+<li id="ref-delval94">del Val, Alvaro, 1994, &ldquo;On the Relation
+Between the Coherence and Foundations Theories of Belief
+Revision&rdquo;, in <em>Proceedings of the Twelfth National Conference
+of the American Association on Artificial Intelligence
+(AAAI&rsquo;94)</em>, Barbara Hayes-Roth and Richard E. Korf (eds.),
+Menlo Park, CA: AAAI Press, 909&ndash;914.</li>
+
+<li id="ref-veltman-76">Veltman, Frank, 1976, &ldquo;Prejudices,
+Presuppositions and the Theory of Counterfactuals&rdquo;, in
+<em>Amsterdam Papers of Formal Grammar</em>, volume 1, Jeroen
+Groenendijk and Martin Stokhof (eds.), Centrale Interfaculteit,
+Universiteit van Amsterdam, 248&ndash;281.</li>
+
+<li id="ref-Veltman">&ndash;&ndash;&ndash;, 1985, <em>Logics for
+Conditionals</em>, PhD Thesis, University of Amsterdam,
+Amsterdam.</li>
+
+<li id="ref-veltman1996defaults">&ndash;&ndash;&ndash;, 1996,
+&ldquo;Defaults in Update Semantics&rdquo;, <em>Journal of
+Philosophical Logic</em>, 25(3): 221&ndash;261.
+doi:10.1007/BF00248150</li>
+
+<li id="ref-veltman2005making">&ndash;&ndash;&ndash;, 2005,
+&ldquo;Making Counterfactual Assumptions&rdquo;, <em>Journal of
+Semantics</em>, 22(2): 159&ndash;180. doi:10.1093/jos/ffh022</li>
+
+<li>Weiss, Yale, 2019, &ldquo;Sextus Empiricus&rsquo; Fourth
+Conditional and Containment Logic&rdquo;, <em>History and Philosophy
+of Logic</em>, 40(4), 307&ndash;322.
+doi:10.1080/01445340.2019.1647083</li>
+
+<li id="ref-russell1910principia">Whitehead, Alfred North, and
+Bertrand Russell, 1910, <em>Principia Mathematica</em>, Vol. 1,
+Cambridge: Cambridge University Press.</li>
+
+<li id="ref-yalcin2007epistemic">Yalcin, Seth, 2007, &ldquo;Epistemic
+Modals&rdquo;, <em>Mind</em>, 116(464): 983&ndash;1026.
+doi:10.1093/mind/fzm983</li>
+</ul>
+</div> 
+
+<div id="academic-tools">
+
+<h2 id="Aca">Academic Tools</h2>
+
+<blockquote>
+<table class="vert-top">
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-conditionals" target="other">How to cite this entry</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/sepman-icon.jpg" alt="sep man icon" /></td>
+<td><a href="https://leibniz.stanford.edu/friends/preview/logic-conditionals/" target="other">Preview the PDF version of this entry</a> at the
+ <a href="https://leibniz.stanford.edu/friends/" target="other">Friends of the SEP Society</a>.</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/inpho.png" alt="inpho icon" /></td>
+<td><a href="https://www.inphoproject.org/entity?sep=logic-conditionals&amp;redirect=True" target="other">Look up topics and thinkers related to this entry</a>
+ at the Internet Philosophy Ontology Project (InPhO).</td>
+</tr>
+
+<tr>
+<td><img src="../../symbols/pp.gif" alt="phil papers icon" /></td>
+<td><a href="https://philpapers.org/sep/logic-conditionals/" target="other">Enhanced bibliography for this entry</a>
+at <a href="https://philpapers.org/" target="other">PhilPapers</a>, with links to its database.</td>
+</tr>
+
+</table>
+</blockquote>
+
+</div>
+
+<div id="other-internet-resources">
+
+<h2 id="Oth">Other Internet Resources</h2>
+
+<ul>
+
+<li>Arlo-Costa, Horacio, &ldquo;The Logic of Conditionals&rdquo;,
+<em>Stanford Encyclopedia of Philosophy</em> (Summer 2021 Edition),
+Edward N. Zalta (ed.), URL =
+ &lt;<a href="https://plato.stanford.edu/archives/sum2021/entries/logic-conditionals/">https://plato.stanford.edu/archives/sum2021/entries/logic-conditionals/</a>&gt;.
+ [This was the previous entry on this topic in the <em>Stanford
+Encyclopedia of Philosophy</em> &mdash; see the
+ <a class="plain" href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-conditionals" target="other">version history</a>.]</li>
+ </ul>
+</div>
+
+<div id="related-entries">
+
+<h2 id="Rel">Related Entries</h2>
+
+<p>
+
+ <a href="../conditionals/">conditionals</a> |
+ <a href="../counterfactuals/">conditionals: counterfactual</a> |
+ <a href="../lewis-ci/">Lewis, Clarence Irving</a> |
+ <a href="../logic-connexive/">logic: connexive</a> |
+ <a href="../logic-relevance/">logic: relevance</a> |
+ <a href="../probability-interpret/">probability, interpretations of</a>
+
+</p>
+
+</div>
+
+<div id="acknowledgments">
+
+<h3>Acknowledgments</h3>
+
+<p>
+We dedicate our work to the memory of Horacio Arl&oacute;-Costa. We
+are grateful to Vincenzo Crupi, Hitoshi Omori, and Paolo Santorio for
+helpful comments, and to participants of the Dagstuhl Seminar 19032
+&ldquo;Conditional Logics and Conditional Reasoning: New Joint
+Perspectives&rdquo; held in Dagstuhl in 2019 for helpful discussions.
+Thanks to grants ANR-19-CE28-0004-01 (Probasem) and ANR-17-EURE-0017
+(FrontCog) for support.</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2021</a> by
+
+<br />
+<a href="http://paulegre.free.fr/" target="other">Paul Egr&eacute;</a>
+&lt;<a href="m&#97;ilto:paulegre&#37;40gmail&#37;2ecom"><em>paulegre<abbr title=" at ">&#64;</abbr>gmail<abbr title=" dot ">&#46;</abbr>com</em></a>&gt;<br />
+<a href="https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/theoretische-philosophie/personen/prof-dr-hans-rott/index.html" target="other">Hans Rott</a>
+&lt;<a href="m&#97;ilto:hans&#37;2erott&#37;40ur&#37;2ede"><em>hans<abbr title=" dot ">&#46;</abbr>rott<abbr title=" at ">&#64;</abbr>ur<abbr title=" dot ">&#46;</abbr>de</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

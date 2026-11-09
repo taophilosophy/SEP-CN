@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Peirce’s Deductive Logic &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/peirce-logic/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/peirce-logic/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=peirce-logic">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Peirce&rsquo;s Deductive Logic</a></h2>
+
+<div id="note-1">
+
+<p>
+
+ <a href="index.html#ref-1">1.</a>
+ Peano&rsquo;s arithmetic, Russell and Whitehead&rsquo;s systems,
+Gentzen&rsquo;s natural deductive systems, Hilbert&rsquo;s programs,
+and G&ouml;del&rsquo;s incompleteness theorems are prime examples.</p>
+</div>
+
+<div id="note-2">
+
+<p>
+
+ <a href="index.html#ref-2">2.</a>
+ According to Peirce&rsquo;s terminology, there are three kinds of
+predicates, &ldquo;absolute terms&rdquo;, &ldquo;simple relative
+terms&rdquo;, and &ldquo;conjugative terms&rdquo; (DNLR [CP 3.63]).
+These correspond to monadic, dyadic, and ternary predicates, in modern
+terminology. Also, there is a controversy over &ldquo;relatives&rdquo;
+versus &ldquo;relations&rdquo;. Refer to Merrill 1990: 160&ndash;163.
+&ldquo;I conclude that [Peirce&rsquo;s] simple relative terms stand
+for dyadic relations&rdquo; (1990: 162).</p>
+</div>
+
+<div id="note-3">
+
+<p>
+
+ <a href="index.html#ref-3">3.</a>
+ Benjamin Peirce placed mathematics before logic (see entry on
+ <a href="../peirce-benjamin/">Benjamin Peirce</a>).
+ Charles Peirce gave full credit to his father&rsquo;s warning against
+not-so-mathematical philosophical reasoning for steering him away from
+his early ambition to combine philosophy, logic, and mathematics (CP
+1.560 c. 1905).</p>
+</div>
+
+<div id="note-4">
+
+<p>
+
+ <a href="index.html#ref-4">4.</a>
+ This occurs as early as his work, <em>Formal Logic</em> (De Morgan
+1847).</p>
+</div>
+
+<div id="note-5">
+
+<p>
+
+ <a href="index.html#ref-5">5.</a>
+ &ldquo;De Morgan&rsquo;s own outlook remaining essentially
+syllogistic, which &hellip;would liable to impede him, unfortunately,
+from definitively taking a radically novel point of view&rdquo;
+(Hawkins 1995: 137).</p>
+</div>
+
+<div id="note-6">
+
+<p>
+
+ <a href="index.html#ref-6">6.</a>
+ &ldquo;In his [De Morgan&rsquo;s] effort to break the bonds of
+traditional logic and to expand the limits of logical inquiry, he
+directed his attention to the general concept of relations and fully
+recognized its significance. Nevertheless, De Morgan cannot be
+regarded as the creator of the modern theory of relations, since he
+did not possess an adequate apparatus for treating the subject in
+which he was interested, and was apparently unable to create such an
+apparatus&rdquo; (Tarski 1941: 73).</p>
+</div>
+
+<div id="note-7">
+
+<p>
+
+ <a href="index.html#ref-7">7.</a>
+ Emily Michael (1974) argues for Peirce&rsquo;s independence, while
+Daniel Merrill (1978) presents a more nuanced picture by tracking down
+the correspondences between De Morgan and Peirce.</p>
+</div>
+
+<div id="note-8">
+
+<p>
+
+ <a href="index.html#ref-8">8.</a>
+ For more details, see Michael (1974) and Merrill (1978:
+257&ndash;266). The following is one of Peirce&rsquo;s first examples
+for relational arguments: </p>
+
+<blockquote>
+
+<p>
+Everyone loves him whom he treats kindly.
+<br/>
+James treats John kindly.
+<br/>
+Therefore, James loves John. </p>
+</blockquote>
+
+<p>
+(Peirce 1866: 10 and quoted in Merrill 1978: 258)</p>
+</div>
+
+<div id="note-9">
+
+<p>
+
+ <a href="index.html#ref-9">9.</a>
+ George Boole&rsquo;s work (1847) has been considered as the first
+systematic and ambitious project to represent logical concepts in
+terms of algebra. For more details, see section 3 of the entry on
+ <a href="../boole/">George Boole</a>.</p>
+ </div>
+
+<div id="note-10">
+
+<p>
+
+ <a href="index.html#ref-10">10.</a>
+ Houser correctly observes that &ldquo;[w]hat is most evident in his
+work is the importance Peirce attached to his basic analysis of
+relations&rdquo; (1997: 14).</p>
+</div>
+
+<div id="note-11">
+
+<p>
+
+ <a href="index.html#ref-11">11.</a>
+ Some relate the distinction between property and relation in terms to
+Peirce&rsquo;s own distinction between corollarial and theorematic
+reasoning. That is, for monadic inference, simple corollarial
+reasoning is carried out while the logic of relation involves more
+complicated and ingenious theorematic reasoning (Hintikka 1980 and
+Shin 1997).</p>
+</div>
+
+<div id="note-12">
+
+<p>
+
+ <a href="index.html#ref-12">12.</a>
+ What does &ldquo;,&rdquo; mean here? For a record, the following
+citation is in order:</p>
+
+<blockquote>
+
+<p>
+Thus far, we have considered the multiplication of relative terms
+only. Since our conception of multiplication is the application of a
+relation, we can only multiply absolute terms by considering them as
+relatives. Now the absolute term &ldquo;man&rdquo; is really exactly
+equivalent to the relative term &ldquo;man that is &mdash;,&rdquo; and
+so with any other. I shall write a comma after any absolute term to
+show that it is so regarded as a relative term. (DNLR [CP 3.73])</p>
+</blockquote>
+
+<p>
+This is interesting indeed, as Brady points out: &ldquo;We see here an
+interesting feature of Peirce&rsquo;s 1870 paper. Peirce takes the
+multiplication of relative terms as primitive&rdquo; (Brady 2000: 35).
+This interpretation is consistent with the citation from DNLR [CP
+3.68], where Peirce himself starts with the application of a relation,
+not the relation of a property. A slightly different, but compatible,
+interpretation was suggested by the reviewer: Peirce&rsquo;s symbol
+&ldquo;,&rdquo; is an interesting operation which turns a property
+into a relation.</p>
+</div>
+
+<div id="note-13">
+
+<p>
+
+ <a href="index.html#ref-13">13.</a>
+ &ldquo;Some <i>A</i>s are <i>B</i>s&rdquo; is an existential
+statement. Peirce called them particular propositions. &ldquo;As for
+particular propositions, Boole could not accurately express them at
+all&rdquo; (DNLR [CP 3.138]).</p>
+</div>
+
+<div id="note-14">
+
+<p>
+
+ <a href="index.html#ref-14">14.</a>
+ &ldquo;These letters may be conceived to be finite in number or
+innumerable&rdquo; (1882a [CP 3.306]).</p>
+</div>
+
+<div id="note-15">
+
+<p>
+
+ <a href="index.html#ref-15">15.</a>
+ Even though the basic idea for ordered pairs existed in the 1870
+paper, we can see more clearly how it is combined with quantifiers and
+bound variables in the 1883a Note.</p>
+</div>
+
+<div id="note-16">
+
+<p>
+
+ <a href="index.html#ref-16">16.</a>
+ Using more familiar notation, \(l = \{\langle A, C\rangle, \langle B,
+D\rangle\}\).</p>
+</div>
+
+<div id="note-17">
+
+<p>
+
+ <a href="index.html#ref-17">17.</a>
+ The next section &ldquo;Second-intentional logic&rdquo; is the first
+place where second-order logic was discussed. &ldquo;Peirce&rsquo;s
+1885 paper was his first attempt to formalize higher mathematical
+notions in the higher order theory of relatives&rdquo; (Brady 2000:
+132). The representation of quantifiers led Peirce to explore whether
+relatives may be quantified. For this topic, refer to Putnam 1982 and
+Goldfarb 1979.</p>
+</div>
+
+<div id="note-18">
+
+<p>
+
+ <a href="index.html#ref-18">18.</a>
+ 1885a [CP 3.396]. Our modern notation is used here. The expression
+&ldquo;\(\phi(x)\)&rdquo; is a formula whose unbound variable is
+\(x\). More rules are found in the undated Note (see 1885b).</p>
+</div>
+
+<div id="note-19">
+
+<p>
+
+ <a href="index.html#ref-19">19.</a>
+ Out of the three volumes Peirce&rsquo;s influence was clear in Vol. 2
+and part of Vol. 3, and both of them were published in 1895.</p>
+</div>
+
+<div id="note-20">
+
+<p>
+
+ <a href="index.html#ref-20">20.</a>
+ &ldquo;I do believe that the calculus of relations deserves much more
+attention than it receives&rdquo; (Tarkski 1941: 89).</p>
+</div>
+
+<div id="note-21">
+
+<p>
+
+ <a href="index.html#ref-21">21.</a>
+ Frege does not think these two features are not exclusive to each
+other mainly because he locates a difference between propositional and
+quantified logic. Hence, Frege believed that his own system
+<em>Begriffsschrift</em> is both <em>calculus ratiocinator</em> and
+<em>a lingua characterica</em>.</p>
+</div>
+
+<div id="note-22">
+
+<p>
+
+ <a href="index.html#ref-22">22.</a>
+ Peirce&rsquo;s letter (1882b) to O.H. Mitchell showed that he had
+started playing around with the possibility of graphically
+representing relations. See Roberts 1973: 18.</p>
+</div>
+
+<div id="note-23">
+
+<p>
+
+ <a href="index.html#ref-23">23.</a>
+ Peirce&rsquo;s theory of signs is complicated. See entry on
+ <a href="../peirce-semiotics/">Peirce&rsquo;s theory of signs</a>
+ and Short 2007: ch. 8.</p>
+</div>
+
+<div id="note-24">
+
+<p>
+
+ <a href="index.html#ref-24">24.</a>
+ For example, 1885a [CP 3.359&ndash;362], and part of 1903d [CP
+2.247&ndash;249]. Also refer to Dipert 1996.</p>
+</div>
+
+<div id="note-25">
+
+<p>
+
+ <a href="index.html#ref-25">25.</a>
+ See Grattan-Guinness 2002 and Shin 2012 for a discussion of the
+relationship between Peirce&rsquo;s ideas and Kempe&rsquo;s.</p>
+</div>
+
+<div id="note-26">
+
+<p>
+
+ <a href="index.html#ref-26">26.</a>
+ Much more interesting work can be done for this claim.</p>
+</div>
+
+<div id="note-27">
+
+<p>
+
+ <a href="index.html#ref-27">27.</a>
+ For the comparison between these two graphical systems, refer to Shin
+2002: 48&ndash;53.</p>
+</div>
+
+<div id="note-28">
+
+<p>
+
+ <a href="index.html#ref-28">28.</a>
+ For more details, refer to Shin 2002: &sect;4.3.</p>
+</div>
+
+<div id="note-29">
+
+<p>
+
+ <a href="index.html#ref-29">29.</a>
+ If we desire to match the syntax and the reading method in an obvious
+way, we may have the following alternative definition for well-formed
+diagrams:</p>
+
+<ol type="a">
+
+<li>An empty space is a well-formed diagram.</li>
+
+<li>Any letter is a well-formed diagram.</li>
+
+<li>If \(D\) is a well-formed diagram, then a single cut of \(D\)
+(&ldquo;\([D]\)&rdquo;) is a well-formed diagram as well.</li>
+
+<li>
+If \(D_{1}\) and \(D_{2}\) are well-formed diagrams, then all of the
+followings are also well-formed:
+
+<ol type="i" class="notopmargin nobottommargin">
+
+<li>\(D_{1}\) \(D_{2}\)</li>
+
+<li>\([D_{1}\ D_{2}]\)</li>
+
+<li>\([D_{1}\ [D_{2}]]\)</li>
+
+<li>\([[D_{1}]\ [D_{2}]]\)</li>
+</ol></li>
+
+<li>Nothing else is a well-formed diagram.</li>
+</ol>
+</div>
+
+<div id="note-30">
+
+<p>
+
+ <a href="index.html#ref-30">30.</a>
+ For the proof of the legitimacy of the Multiple readings algorithm,
+refer to Shin 2002, &sect;4.2.2, where the equivalence of the
+Endoporeutic and the Multiple readings is proven.</p>
+</div>
+
+<div id="note-31">
+
+<p>
+
+ <a href="index.html#ref-31">31.</a>
+ Roberts&rsquo; slightly rearranged version is: </p>
+
+<div class="indent avoid-break">
+<p>
+<strong>Transformation Rules</strong></p>
+
+<ul class="hanging">
+
+<li>[R1] <em>The rule of erasure</em>. Any evenly enclosed graph may
+be erased.</li>
+
+<li>[R2] <em>The rule of insertion</em>. Any graph may be scribed on
+any oddly enclosed area.</li>
+
+<li>[R3] <em>The rule of iteration</em>. If a graph <i>P</i> occurs on
+SA [a sheet of assertion or a sheet of paper] or in a nest of cuts, it
+may be scribed on any area not part of <i>P</i>, which is contained by
+{<i>P</i>}.</li>
+
+<li>[R4] <em>The rule of deiteration</em>. Any graph whose occurrence
+could be the result of iteration may be erased.</li>
+
+<li>[R5] <em>The rule of the double cut</em>. The double cut may be
+inserted around or removed (where it occurs) from any graph on any
+area.</li>
+</ul>
+
+<p>
+(see Roberts 1973: 40&ndash;45)</p></div>
+</div>
+
+<div id="note-32">
+
+<p>
+
+ <a href="index.html#ref-32">32.</a>
+ An area which is enclosed by an even number of cuts</p>
+</div>
+
+<div id="note-33">
+
+<p>
+
+ <a href="index.html#ref-33">33.</a>
+ An area which is enclosed by an odd number of cuts</p>
+</div>
+
+<div id="note-34">
+
+<p>
+
+ <a href="index.html#ref-34">34.</a>
+ As far as Peirce&rsquo;s pursuit of graphical representation goes,
+one more EG system, Gamma graphs, was invented by Peirce after Beta
+graphs. Gamma graphs aim to represent modality by adding two kinds of
+signs to Beta graphs&mdash;broken cuts and tinctures (1903c,
+1906).</p>
+</div>
+
+<div id="note-35">
+
+<p>
+
+ <a href="index.html#ref-35">35.</a>
+ Although the matter is not yet settled, Dau (2006) has raised a
+question about one of the rules.</p>
+</div>
+
+<div id="note-36">
+
+<p>
+
+ <a href="index.html#ref-36">36.</a>
+ Examples in Peirce 1903b [CP 4.455] nicely illustrate the visual
+effect of an identity line.</p>
+</div>
+
+<div id="note-37">
+
+<p>
+
+ <a href="index.html#ref-37">37.</a>
+ <i>X</i> is evenly (oddly) enclosed if and only <i>X</i> is enclosed
+by an even (odd) number of cuts.</p>
+</div>
+
+<div id="note-38">
+
+<p>
+
+ <a href="index.html#ref-38">38.</a>
+ For more complex examples, refer to Peirce 1903b [CP 4.502] and 1906
+[CP 4.571].</p>
+</div>
+
+<div id="note-39">
+
+<p>
+
+ <a href="index.html#ref-39">39.</a>
+ According to the Endoporeutic reading, we get the following reading
+first: &ldquo;It is not the case that something is good but not
+ugly&rdquo;. If we adopt the Multiple readings, we may directly obtain
+the above reading &ldquo;Everything good is ugly&rdquo;.</p>
+</div>
+
+<div id="note-40">
+
+<p>
+
+ <a href="index.html#ref-40">40.</a>
+ Recently, Odland discovered three more pages from Peirce&rsquo;s
+<em>Logic Notebook</em> related to his discussion on triadic logic in
+<em>Peirce&rsquo;s Triadic Logic: Continuity, Modality, and L</em>
+(Odland 2020).</p>
+</div>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2022</a> by
+
+<br />
+<a href="http://www.yale.edu/philos/people/shin_sun-joo.html" target="other">Sun-Joo Shin</a>
+&lt;<a href="m&#97;ilto:Sun-Joo&#37;2eShin&#37;40yale&#37;2eedu"><em>Sun-Joo<abbr title=" dot ">&#46;</abbr>Shin<abbr title=" at ">&#64;</abbr>yale<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

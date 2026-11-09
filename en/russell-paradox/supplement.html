@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Russell’s Paradox &gt; Frege&rsquo;s and Russell&rsquo;s Ways Out of the Paradox (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/russell-paradox/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><img src="../../symbols/sep-man-red.png" alt="" /></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/russell-paradox/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=russell-paradox">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+<h4 id="supphead">Supplement to <a href="index.html">Russell&rsquo;s Paradox</a></h4>
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Frege&rsquo;s and Russell&rsquo;s Ways Out of the Paradox</h2>
+
+<p>
+Recall that the notation &lsquo;\(\varepsilon f\)&rsquo; is used for
+the extension of the concept (or function to truth values) \(f(~)\),
+and recall Frege&rsquo;s idea that (V) mandates the transformation of
+the generality of an identity between concepts into an identity
+between their extensions. His amendment to (V) is to allow an
+exception to the generality of an identity between concepts. More
+precisely, two extensions are identified even though their
+corresponding concepts <em>don&rsquo;t</em> agree on their values for
+a certain argument &mdash;namely, the extensions in question&mdash; so
+long as they agree on every other argument:</p>
+
+<blockquote>
+
+<p>
+the extension of one concept coincides with that of another when every
+object that falls under the first concept, except the extension of the
+first concept, falls under the second concept likewise, and when every
+object that falls under the second concept, except the extension of
+the second concept, falls under the first concept likewise (G&amp;B,
+pp. 242&ndash;3).</p>
+</blockquote>
+
+<p>
+Recalling that &lsquo;\(f(x)\)&rsquo; means that \(x\) falls under the
+concept \(f(~)\):</p>
+
+<p>
+
+\[\tag{V$^\prime$} \varepsilon f= \varepsilon g\equiv \forall x[(x\ne\varepsilon f\wedge x \ne \varepsilon g)\rightarrow(f(x)=g(x))].\]
+ </p>
+
+<p>
+Regarding comprehension, because (V) and (NCF) are equivalent by the
+proofs given in the main text, the amendment of (V) to (V&prime;)
+results in a corresponding restriction of (NCF) to a principle we will
+call (RCF). Moreover, these proofs make use of Frege&rsquo;s notion of
+membership, which is now restricted so that \(x \in_R y\) if and only
+if \(x\) is distinct from \(y\) and \(y\) is the extension of a
+concept under which \(x\) falls:</p>
+
+<p>
+
+\[x \in_R y \equiv_{df} \exists f [x \ne y \wedge y =\varepsilon f \wedge f(x)].\]
+ </p>
+
+<p>
+Accordingly, (RCF) says that every concept determines a corresponding
+extension whose members are distinct from it and such that the concept
+applies to those members:</p>
+
+<p>
+
+\[\forall f \exists y \forall x [x \in_R y \equiv x \ne y \wedge f(x)].\]
+ </p>
+
+<p>
+Notice that it remains the case that every concept determines an
+extension. But no extension is a member of itself, since this would
+violate the requirement that an extension&rsquo;s members must be
+distinct from it. Frege hoped for this reason that his proposal evaded
+the contradiction.</p>
+
+<p>
+However, several distinguished commentators have shown that this
+proposal also leads to paradox. (Indeed, Frege had already abandoned
+it before this was widely known.) Here we summarize an especially
+illuminating discussion due to Roy Cook (2019) before providing
+further citations.</p>
+
+<p>
+Cook makes several observations about (V\(^\prime\)) in this context.
+First, (V\(^\prime\)) is not satisfiable in a domain containing more
+than two elements (Cook, 2019, theorem 15.2.11.) Second,
+(V\(^\prime\)) is satisfied in a domain of only one element (<em>op.
+cit.</em>, 15.2.12). Third, it is satisfiable in a domain containing
+only at most one (<em>op. cit.</em>, 15.4.6). So, (V\(^\prime\))
+commits Frege to monism!</p>
+
+<p>
+This result is obtained in modern higher-order logic. But Cook also
+shows that (V\(^\prime\)) in Frege&rsquo;s own system is satisfiable
+only by at most one element (<em>op. cit.</em>15.4.13). But in
+Frege&rsquo;s own system, there are at least two elements &ndash; the
+two truth values. Combining these facts yields another contradiction
+in Frege&rsquo;s system.</p>
+
+<p>
+See also (Geach,1956), the basic idea of which is already in (Geach
+and Black, 1952), (Quine, 1955), and (Burgess, 2005). (According to
+Geach, the core of the argument is due to Le&#347;niewski as written
+up by Soboci&#324;ski (1949/1984).)</p>
+
+<p>
+We now turn to the part of Russell&rsquo;s epic battle with his
+paradox that took place between 1904 and 1908. In this period his
+creativity and determination yielded his theory of descriptions, his
+substitutional theory of propositions and, ultimately, his mature
+theory of types. All of these are major achievements. While scholars
+may disagree about the details of exactly what Russell believed and
+when, all will agree with Landini that Russell&rsquo;s battle with
+paradox and the</p>
+
+<blockquote>
+
+<p>
+evolution of <em>Principia</em> is one of the most engaging episodes
+in the history of ideas (2011, 15)</p>
+</blockquote>
+
+<p>
+Not only does Russell explore different forms of logicism and
+different ways of blocking the diagonal arguments discussed in the
+main text; he also discovers and wrestles with issues about the nature
+of&nbsp;propositions that continue to dog contemporary structured
+propositions theorists.</p>
+
+<p>
+What Russell (1903) calls &ldquo;objective propositions&rdquo; are
+complex structured entities that can contain worldly objects as
+arguments. They do not contain Fregean senses or modes of presentation
+of objects. The proposition that John Lennon was a member of the
+Beatles contains John Lennon himself. Further, the replacement of John
+Lennon by Paul McCartney results in a distinct proposition. This is
+because, for Russell, propositions are finely individuated by the
+principle that if a pair of propositions differ by a constituent, then
+they are distinct propositions. This property of being fine grained
+leads to the paradox about classes of propositions that is discussed
+in section 5 of the main text. And, as we will see, the possibility of
+substitution into the argument places of fine-grained propositions
+leads to yet another paradox.</p>
+
+<p>
+As for propositional functions, according to Whitehead and
+Russell:</p>
+
+<blockquote>
+
+<p>
+By a &lsquo;propositional function&rsquo; we mean something which
+contains a variable \(x\), and expresses a proposition as soon as a
+value is assigned to \(x\). That is to say, it differs from a
+proposition solely by the fact that it is ambiguous: it contains a
+variable of which the value is unassigned. (1910, 38).</p>
+</blockquote>
+
+<p>
+Thus, propositional functions are not Frege&rsquo;s functions to truth
+values; rather, they are ambiguous propositions containing an entity
+\(x\) whose value can vary. Whereas the proposition that John Lennon
+was a member of the Beatles contains a definite object, the
+propositional function</p>
+
+<p class="indent">
+\(x\) was a member of the Beatles</p>
+
+<p>
+is an ambiguous entity. Before proceeding further, note that there is
+a question about the logico-metaphysical status of the entity \(x\) in
+the propositional function. Is \(x\) a variable object? See (Russell,
+1903, ch. VIII). It will become clear that this difficult issue can be
+side-stepped for the purposes of this discussion.</p>
+
+<p>
+Russell&rsquo;s work in 1904 was focused on ruling out propositional
+functions that allow diagonal arguments using the restrictions of the
+so-called zigzag theory (Urquhart, 1994, xxvi). The theory is
+so-called because given a propositional function \(\Phi\) that
+purports to determine a class \(u,\) diagonal arguments exploit
+&ldquo;a certain zigzag quality,&rdquo; that \(x \not\in u\) when
+\(\Phi x\), or \(x \in u\) when \({\sim}\Phi x\) (Russell, 1907,
+38):</p>
+
+<p>
+
+\[(\exists x (\Phi x \wedge x \not\in u)) \vee (\exists x (x \in u \wedge{\sim}\Phi x)).\]
+ </p>
+
+<p>
+Avoiding this requires that the formula expressing a given
+propositional function must have a certain logical simplicity if the
+function is to be legitimate. If all the formulae indicating it are
+excessively &ldquo;complicated and recondite&rdquo; then the function
+is illegitimate (Russell, <em>ibid</em>).</p>
+
+<p>
+In one fascinating passage, Russell offers an epistemological argument
+in favor of simplicity that is somewhat reminiscent of Hilbert&rsquo;s
+epistemological notion of finitsm (1904, 1925). For Russell, if a
+proposition is&nbsp;to be intelligible or graspable, it can have only
+finitely many components. Otherwise, he says, it will be too
+&ldquo;complicated and recondite&rdquo; to grasp. Further, he
+continues, the number of values of first-order variables in a
+universally quantified sentence is infinite, because in
+Russell&rsquo;s untyped language such variables range over everything
+rather than over values from a restricted range. These values are too
+numerous to be components of any intelligible general proposition.
+Rather, according to Russell, the genuine components of such a
+proposition are propositional functions, from which we can build
+intelligible complexes by applying functions to other functions and to
+complexes built out of functions. Only propositions built in this way
+guarantee the existence of classes. This argument is found in
+(Russell, 1904b, p. 100).</p>
+
+<p>
+In any case, Russell adds that for every legitimate propositional
+function, a formula expressing its negation is also legitimate. If, on
+the other hand, a function expressed by &lsquo;\(\Phi x\)&rsquo; is
+illegitimate, then there are either members of the corresponding class
+of which &lsquo;\(\Phi x\)&rsquo; is false or members of its
+complement of which &lsquo;\(\Phi x\)&rsquo; is true. Thus, the
+function expressed by &lsquo;\(\Phi x\)&rsquo; is made illegitimate as
+much by the things to which it does not apply just as by the things to
+which it does. So, given any class \(u\) and an illegitimate function
+indicated by &lsquo;\(\Phi x\)&rsquo;, &lsquo;\(\Phi x\)&rsquo;
+applies to some but not all members of \(u\) or to some but not all of
+the members of its complement. This, says Russell, &ldquo;is the
+zig-zag property which gives its name to the theory&rdquo; (1907, 38).
+Finally, if two functions are to determine the same class, both must
+be legitimate.</p>
+
+<p>
+Note that restrictions are placed on the complexity of comprehension
+axioms not on the sizes of classes. The open formulae &lsquo;\(x\) is
+a surviving member of the Beatles&rsquo; and &lsquo;\(x\) is not a
+surviving member of the Beatles&rsquo; express legitimate
+propositional functions, despite the fact that the class corresponding
+to the latter is enormous &ndash; containing (at the time of writing)
+only two objects fewer than are contained in \(V\). Russell&rsquo;s
+various attempts to state axioms for logical simplicity defy
+informative summary, so we refer the reader to (Russell, 1904),
+(Quine, 1937, 1967) and (Burgess, 2005, ch. 2).</p>
+
+<p>
+More important is the substitutional theory, which allows Russell to
+mimic the logical behavior of both propositional functions and classes
+in a theory that quantifies over neither kind of entity. Rather than
+expressing or designating a given propositional function \(\Phi x\) as
+an entity, we begin simply with propositions. Consider a pair
+consisting of a proposition \(p\) and its argument \(a\), for
+example:</p>
+
+<div class="indent">
+
+<p>
+John Lennon was a member of the Beatles, John Lennon\(.\)</p>
+</div>
+
+<p>
+Both the proposition and its argument are individuals. There are no
+(other) types. Russell uses the notation</p>
+
+<p>
+
+\[p~ x/a; !q\]
+ </p>
+
+<p>
+for the following four-place relation between \(p\) and another
+proposition \(q\):</p>
+
+<div class="indent">
+
+<p>
+\(q\) is the unique proposition that results from \(p\) by the
+substitution of \(x\) for all occurrences of \(a\) as argument in
+\(p.\)</p>
+</div>
+
+<p>
+Because of the uniqueness requirement in Russell&rsquo;s theory of
+definite descriptions, the following is a logical axiom of
+Russell&rsquo;s theory:</p>
+
+<p>
+
+\[(p~x/a; !q)\wedge(p~x/a; !r)\rightarrow r=q.\]
+ </p>
+
+<p>
+Recall that \(p\) is the proposition that John Lennon was member of
+the Beatles. Rather than writing</p>
+
+<div class="indent">
+
+<p>
+\(x\) was a member of the Beatles,</p>
+</div>
+
+<p>
+which, together with a comprehension axiom for classes, invites the
+error of thinking that this propositional function is an entity that
+determines a class containing John, Paul, George and Ringo, consider
+the proposition \(p\) and its argument:</p>
+
+<p>
+
+\[(p~x/a; q) \amp q\equiv x=a\vee x=b \vee x=c \vee x=d.\]
+ </p>
+
+<p>
+In other words,</p>
+
+<div class="indent">
+
+<p>
+\(q\) is the proposition that results from \(p\) by the substitution
+of \(x\) for all occurrences of \(a\) \(\amp\) \(q\) is true if and
+only if \(x\) is either John, Paul\(,\) George, or Ringo\(.\)</p>
+</div>
+
+<p>
+So, the correct values for \(x\) make \(q\) true. However,</p>
+
+<blockquote>
+
+<p>
+we do not assume that these values collectively form a single entity
+which is the class composed of them (Russell 1907, 46).</p>
+</blockquote>
+
+<p>
+Presumably, it is even possible to mimic the universal class with a
+pair such as</p>
+
+<div class="indent">
+
+<p>
+John Lennon = John Lennon, John Lennon.</p>
+</div>
+
+<p>
+In general, Russell can define the relation \(\in\) that mimics class
+membership in terms of the truth of the result of substitution:</p>
+
+<p>
+
+\[x\in p~ x/a\equiv_{df} (p~x/a; q)\amp q.\]
+ </p>
+
+<p>
+However, &lsquo;\(p~x/a\)&rsquo; does not denote a class. It is an
+incomplete symbol that has meaning only in the context of a larger
+expressions like the ones above that describe substitution relations
+between propositions.</p>
+
+<p>
+Note that the substitution of \(x\) for \(a\) is the substitution of
+one <em>individual entity</em> for another; it is not merely the
+substitution of symbols for symbols. This raises the same question
+about the logico-metaphysical status of the entity \(x\) that arose
+above for propositional functions. Is \(x\) a variable object? For a
+way of side-stepping this, see (Pelham and Urquhart 1995), which
+contains a rigorous formal version of Russell&rsquo;s substitutional
+theory that makes use of Frege&rsquo;s notion of an incomplete or
+unsaturated entity as described in section 2.5 of the main text.</p>
+
+<p>
+Note also that substitution can result in distinct true propositions
+for different values of \(x\). Clearly, then, Russell is still working
+with the &ldquo;objective propositions&rdquo; of his (1903), which
+contain worldly objects like John Lennon and are finely individuated
+by the principle that if a pair of propositions differ by a
+constituent, then they are distinct propositions. This property of
+being fine grained leads to the paradox about classes of propositions
+that is discussed in section 5 of the main text. And, as will be
+explained, the possibility of substitution into the argument places of
+fine-grained propositions leads to yet another paradox.</p>
+
+<p>
+Since there are no comprehension axioms in the substitutional theory
+for classes or propositional functions as entities, there are no
+paradoxes of classes or functions. Neither is there a paradox about
+classes of propositions like that discussed in section 5 of the main
+text. Nor is there the purportedly paradoxical proposition that is
+usually written as &lsquo;\(R(R)\)&rsquo;. This is ruled as ill-formed
+by the substitutional theory. Instead of the legal</p>
+
+<p>
+
+\[p~ x/a; !q,\]
+ </p>
+
+<p>
+in which \(x\) is substituted once for \(a\) to yield \(q,\) deriving
+the paradoxical proposition would require substituting \(x\) twice
+into a monadic proposition to yield a self-application:</p>
+
+<p>
+
+\[p~x, x/a; !q.\]
+ </p>
+
+<p>
+This is not allowed by the syntax of Russell&rsquo;s substitutional
+theory, which bars substitution of two variable objects \(x\) and
+\(y\), or two occurrences of a variable object \(x\) (as above), for a
+single argument place \(a\) (Landini, 2011). For readers familiar with
+the \(\lambda\)-calculus, it is a little bit like trying to abstract
+John shaves himself, i.e.</p>
+
+<p>
+
+\[(\lambda x.x \textit{ shaves } x)\text{John}\]
+ </p>
+
+<p>
+from the simple monadic surface form of &lsquo;John shaves&rsquo;. To
+abstract &lsquo;John shaves himself&rsquo;, we would need to look
+deeper into the syntax of &lsquo;John shaves&rsquo; to find an elided
+argument place that can be made explicit as in &lsquo;John shaves
+John&rsquo;. Only then could we substitute one variable for each
+occurrence of &lsquo;John&rsquo;.</p>
+
+<p>
+Unfortunately, Russell&rsquo;s battle against paradox was not over.
+Disaster struck again when he discovered that the possibility of
+substitution into the argument place of a fine-grained objective
+proposition allows diagonalization. First, he defines a proposition
+\(Po\):</p>
+
+<p>
+
+\[Po=_{df} \exists p, a[ao=p~b/a; !q\wedge \exists z (p~ao/a;!z\wedge{\sim}z)].\]
+ </p>
+
+<p>
+This can be rewritten as</p>
+
+<p>
+
+\[\exists p, a [ao=p~ b/a;!q\wedge{\sim}p~ao/a].\]
+ </p>
+
+<p>
+Next Russell substitutes \(Po~b/ao\); \(!q\) for \(ao\) in \(Po\) to
+obtain the proposition \((\text{R})\):</p>
+
+<p>
+
+\[\tag{R} \exists p, a[Po~b/ao;!q=p~b/a;!q\wedge{\sim}p~(Po~b/ao;!q/a)].\]
+ </p>
+
+<p>
+Russell then derives a contradiction from \((\text{R}).\) This paradox
+led Russell first to alter the substitutional theory (Russell 1908),
+and then to abandon it altogether for the ramified theory of types
+that is discussed in the main text. As Pelham and Urquhart write:</p>
+
+<blockquote>
+
+<p>
+The contradiction revealed by the substitutional paradox is of a
+fundamental sort; it does not directly involve truth, quotation
+contexts or self-reference, as in other semantical paradoxes. When
+Russell first faced the paradoxes, he thought he could solve the
+problems posed by them by making <em>ad hoc</em> modifications to a
+set-theoretical apparatus built upon a logical foundation which could
+be assumed as given. The substitutional paradox, in contrast, uses
+only elementary relations between Russellian propositions in addition
+to basic logical concepts. It led in the end to the radical
+reconstruction of logic in the ramified theory of types. (Pelham &amp;
+Urquhart 1995, 321)</p>
+</blockquote>
+
+<p>
+Perhaps as a result of this paradox, propositions are dropped entirely
+from Russell&rsquo;s mature theory of types.</p>
+
+<p>
+The significance of the substitutional paradox is also discussed in
+Grattan-Guiness 1974, Linsky 2003, Klement 2010ab and Galaugher
+2013.</p>
+<script type="text/javascript" src="local.js"></script>
+<script type="text/javascript" src="../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2026</a> by
+
+<br />
+Harry Deutsch
+<br />
+Oliver Marshall
+&lt;<a href="m&#97;ilto:omarshall&#37;40gradcenter&#37;2ecuny&#37;2eedu"><em>omarshall<abbr title=" at ">&#64;</abbr>gradcenter<abbr title=" dot ">&#46;</abbr>cuny<abbr title=" dot ">&#46;</abbr>edu</em></a>&gt;<br />
+<a href="http://phil.ok.ubc.ca/faculty/irvine.html" target="other">Andrew David Irvine</a>
+
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-book"></i> Browse</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-info-sign"></i> About</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <span class="listheader"><i class="icon-leaf"></i> Support SEP</span>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <span class="listheader"><i class="icon-globe"></i> Mirror Sites</span>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2026</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>

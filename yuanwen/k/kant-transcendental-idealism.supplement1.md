@@ -1,0 +1,22 @@
+# kant-transcendental-idealism — supplement1（supplement）
+
+> （《kant-transcendental-idealism》词条补充材料，源：plato.stanford.edu/entries/kant-transcendental-idealism/supplement1.html）
+
+#### Supplement to Kant’s Transcendental Idealism
+
+## Kant’s Attempts to Distance Himself from Berkeley
+
+In the definition of idealism in the *Prolegomena* (Ak. 4:267), by “objects existing outside” our minds Kant might mean two things. In the terminology he uses in the A Edition “Fourth Paralogism” (A373, quoted above) he might mean objects “empirically external” to our minds—objects that are spatially distinct from us and thus “outer”—or he might means objects “transcendentally external” to our minds—objects that do not depend upon our minds at all, things in themselves (A373). The main text assumed he meant that idealists deny the existence of empirically external objects. (After all, in the Appendix, he defines idealism as the claim that sense perception is illusory). But Kant might mean that idealists deny the existence of *transcendentally* external objects, things in themselves, and in this sense Berkeley is, and he is not, an idealist.[^note-65] Kant may be right to point out that the thing in itself constitutes a clear difference between his view and Berkeley’s. But the thing in itself does little to distinguish Berkeley from Kant on the very issue Feder-Garve raised: the ontological status of objects in space. The question is whether Kant is a phenomenalist (of some stripe) about objects in space, not about things in themselves.[^note-66]
+
+Kant’s other point—that the *a priori* forms of space and time are a source of objectivity not available to Berkeley—is largely irrelevant to determining whether Kant is a phenomenalist.[^note-67] The Feder-Garve charge is that Kantian bodies are simply collections of representations. That space and time are necessary conditions on experiencing objects entails (at most) that any possible empirical object is in space and time, and that we have knowledge *a priori* of the possible spatiotemporal properties of objects. It does not entail that those objects are anything more than collections of representations (including, of course, *a priori* spatiotemporal representations). Nor does it entail that there is anything more to the existence of a body than subjects’ having experiences with a certain content (including spatiotemporal content). Claiming that experience has a necessary *a priori* spatiotemporal form does nothing to undercut the phenomenalist implications of claiming that bodies are identical to collections of representations *or* that they exist in virtue of the contents of those representations, if, as Feder-Garve allege, Kant is committed to one of those views.[^note-68]
+
+
+## Notes（原文脚注，引自主文）
+
+[^note-65]: 65. With one qualification: Berkeley, of course, does believe that God is “transcendentally external” (in Kant’s sense) but would deny, arguably, that God is an object for us, for we do not have an idea of God. We do have a *notion* of God, according to Berkeley, but Berkeley’s doctrine of non-sensory notions lies far outside the scope of this article.
+
+[^note-66]: 66. It seems independently implausible that at 4:289 by “objects outside us” Kant means things in themselves. Kant often distinguishes between two forms of idealism: dogmatic idealism (which denies the existence of outer objects) and problematic idealism (which is agnostic about the existence of outer objects). Immediately after the definition of idealism at 4:289 Kant reminds us that we cannot know things in themselves. So if he mean “objects outside us” to refer to things in themselves, he would just have committed himself to problematic idealism, but Kant consistently argues that transcendental idealism is the only way to *avoid* problematic idealism. The issue of idealism, for Kant, is an issue about objects in space.
+
+[^note-67]: 67. This point is, arguably, missed by the discussion of B70–1 in Allison 2004: 25.
+
+[^note-68]: 68. Beiser (2002: 98–99) anticipates this objection and replies, on Kant’s behalf, that even if Berkeley intended to establish the reality of objects in space, Kant could plausibly argue that he is committed to their being mere illusions. But Kant’s claim is that Berkeley’s idealism *is* the denial that objects exist in space. It is not germane for Kant to argue that Berkeley’s idealism entails, given Kantian premises about what constitutes the difference between truth and illusion, that objects are illusory.
