@@ -1115,90 +1115,126 @@ segments:
     kind: body
     source: |-
       According to van Fraassen, explanations are answers to questions and getting clear about the logic of questions is central to constructing a theory of explanation. Questions can take many different forms, but when the question of interest is a “why” question, explanatory queries will typically take the following form: a query about why some explanandum $P_k$ rather than any one of the members of a contrast class $X$ (a set of possible alternatives to $P_k$) obtained. In addition, some “relevance relation” $R$ is assumed by the question. An *answer* $A$ to this question will take the form “$P_k$ in contrast to (the rest of) $X$ because $A$, where $A$ bears the relevance relation $R$ to $[P_k,X]$”. To use van Fraassen’s example, consider “Why is this conductor warped?” Depending on the context, the intended contrast might have to with, e.g., why this particular conductor is warped in contrast to some other conductor that is unwarped. Alternatively, it might have to do with why this particular conductor is warped now when it was previously unwarped. The relevance relation $R$ similarly depends on the context and the information which the questioner is interested in obtaining. For example, $R$ might involve causal information (the question might be a request for what caused the warping) but it also might have to do with information about function, if the context was one in which it is assumed that the shape of the conductor plays some functional role in a power station which the questioner wants to know about. Thus “context” enters into the explanation both by playing a role in specifying the contrast class $X$ and the relevance relation $R$. van Fraassen describes various rules for the “evaluation” of answers. For example, $P_k$ and $A$ must be true, the other members of the contrast class must not be true, $A$ must “favor” (raise the conditional probability of) $P_k$ against alternatives, and $A$ must compare favorably with other answers to the same question, a condition which itself has several aspects including, for example, whether $A$ favors the topic more than these other answers and whether $A$ is screened off by other answers. However, he also makes it clear (as the example above suggests) that a variety of different relevance relations may be appropriate depending on context and that the evaluation of answers also depends on context. Moreover, he explicitly denies that there is anything distinctive about the category of scientific explanation that has to do with its structure or form—instead, a scientific explanation is simply an explanation that makes use of information that is (or at least, is treated as) grounded in a “scientific” theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      据范弗拉森，解释是对问题的回答；澄清问题的逻辑，对构造解释理论至关重要。问题可有多种形式，但当所关切者是一个“为何”问题时，解释性提问通常取如下形式：关于为何某被解释项 $P_k$ 而非对照类 $X$（$P_k$ 之可能替代者的集合）中的任何一个成员得以成立的提问。此外，问题还预设了某个“相关性关系” $R$。对此问题的*回答* $A$ 取如下形式：“$P_k$ 而非（其余）$X$ 之所以成立，因为 $A$，其中 $A$ 对 $[P_k,X]$ 承担相关性关系 $R$”。用范弗拉森的例子：“为何这根导线弯了？”依语境而定，意图中的对照可能是：为何这根特定的导线弯了，而另一根未弯；也可能是：为何这根特定的导线现在弯了而先前未弯。相关性关系 $R$ 同样取决于语境与提问者想获得的信息。例如，$R$ 可能涉及因果信息（问题或许是在问什么导致了弯曲），但也可能关乎功能方面的信息——若语境假定导线的形状在发电站中起某种功能作用，而提问者正想知道这点。于是“语境”通过规定对照类 $X$ 与相关性关系 $R$ 两方面进入解释。范弗拉森描述了对回答进行“评价”的各种规则。例如：$P_k$ 与 $A$ 必须为真，对照类的其他成员必须不为真，$A$ 必须“支持”（提高条件概率）$P_k$ 而不利于替代者，且 $A$ 必须与对同一问题的其他回答相比占优——这一条件本身又有多方面，例如 $A$ 是否比其他回答更支持主题，$A$ 是否被其他回答筛除。不过他也明确表示（如上例所示）：依语境不同，可能有种种不同的相关性关系均属适当，且对回答的评价也取决于语境。此外，他明确否认“科学解释”这一范畴在其结构或形式上有任何特异之处——科学解释只是利用了（或至少被视为）植根于“科学”理论之信息的解释。
+    step2: |-
+      范弗拉森以为，解释是问题的回答，故澄清问题的逻辑乃是构造解释理论的要务。问题形式甚多，然所关切者为“为何”问题时，解释性询问通常取此形式：为何某被解释项 $P_k$ 而非对照类 $X$（$P_k$ 诸可能替代者之集）中任一成员得以成立。问题又预设某“相关性关系” $R$。其*回答* $A$ 取形：“$P_k$ 而非（其余）$X$ 之所以然，因 $A$，其中 $A$ 与 $[P_k,X]$ 具相关性关系 $R$”。举范弗拉森之例：“为何这根导线弯曲？”依语境，所期对照或为：何以此导线弯而彼导线不弯；或为：何以此导线今弯而昔不弯。$R$ 亦依语境与提问者所欲之信息而定：或涉因果信息（问何以致弯），或涉功能信息——若语境假定导线形状在电站中有某种功用，而提问者正欲知之。故“语境”于规定对照类 $X$ 与相关性关系 $R$ 两处进入解释。范弗拉森列出评价回答诸规则：$P_k$ 与 $A$ 须真；对照类其余成员须不真；$A$ 须“支持”（提高 $P_k$ 之条件概率）$P_k$ 而非替代者；$A$ 须与同一问题的其他回答相比占优——此条件又含数面，如 $A$ 是否较诸回答更支持主题、$A$ 是否被诸回答筛除。但他亦明示（如上例所示）：种种相关性关系可因语境而皆属适当，回答之评价亦依语境。且他否认“科学解释”在其结构与形式上有何特异——科学解释只是使用了（至少被视为）植根于“科学”理论之信息的解释。
   - id: 138
     kind: body
     source: |-
       Van Fraassen sums up his view of explanation (and gestures at his grounds for rejecting traditional objectivist approaches) as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      范弗拉森如此总结他对解释的看法（并暗示他拒斥传统客观主义进路的根据）：
+    step2: |-
+      范弗拉森如此总括其解释观（并暗示拒斥传统客观主义进路之根据）：
   - id: 139
     kind: body
     source: |-
       > The discussion of explanation went wrong at the very beginning when explanation was conceived of as a relation like description: a relation between a theory and a fact. Really, it is a three-term relation between theory, fact, and context. No wonder that no single relation between theory and fact ever managed to fit more than a few examples! Being an explanation is essentially relative for an explanation is an *answer*… it is evaluated vis-à-vis a question, which is a request for information. But exactly… what is requested differs from context to context. (1980: 156)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 关于解释的讨论从一开始就走错了，那时解释被构想为一种像描述那样的关系：理论与事实之间的关系。实际上，它是理论、事实与语境之间的三项关系。难怪理论与事实之间的任何单一关系都只适合少数例子！成为解释本质上是相对的，因为解释是一个*回答*……它是相对于一个问题而被评价的，而问题是对信息的请求。但究竟……所请求者因语境而异。（1980: 156）
+    step2: |-
+      > 解释的讨论一开始便错了，那是把解释构想为一种如描述般的、理论与事实之间的关系。实则它是理论、事实、语境之间的三项关系。难怪理论与事实间的任何单一关系都只能切合少数例子！成为解释本质上是相对的——解释是一个*回答*，相对于一问题而被评价，而问题是对信息的要求。然而……所要求者因语境而异。（1980: 156）
   - id: 140
     kind: body
     source: |-
       Van Fraassen begins his chapter on explanation with a brief story that provides a good point of entry into how he intends his account to work. Recall from Section 2.5 that a well-known counterexample to the *DN* model involves the claim that one can explain the length *S* of the shadow cast by a flagpole in terms of the height *H* of the flagpole but that (supposedly) one cannot explain *H* in terms of *S*, despite the fact that one can construct a *DN* derivation from *S* to *H*. This is commonly taken to show that the *DN* model has left out some factor having to do with the directional or asymmetric features of explanation—e.g., perhaps an asymmetry in the relation between cause and effect that ought to be incorporated into one’s model of explanation. In van Fraassen’s story, a straightforward causal explanation of the usual sort of *S* in terms of *H* (although the object in question is a tower rather than a flagpole) is first offered. Then a second explanation, according to which the height of the tower is “explained” by the fact that it was designed to cast a shadow of a certain length is advanced. Presumably the moral we are to draw is that as the context and perhaps the relevance relation *R* are varied, both
 
       $$ H \text{ explains } S$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      范弗拉森的解释一章以一则小故事开篇，这故事为理解他意在让这一说明如何运作提供了良好入口。回想第 2.5 节：针对 *DN* 模型的一个著名反例主张，可以由旗杆高度 *H* 解释旗杆所投影子的长度 *S*，却（据称）不能由 *S* 解释 *H*，尽管可以构造一个从 *S* 到 *H* 的 *DN* 推导。这通常被看作表明：*DN* 模型遗漏了与解释的方向性或不对称特征有关的某种因素——例如，或许因果之间有一种不对称，应当纳入解释模型。在范弗拉森的故事里，先给出一个通常类型的、由 *H* 对 *S* 的直白因果解释（不过所涉之物是一座塔而非旗杆）。然后提出第二个解释，按照它，塔的高度由“它被设计为投下某一长度的影子”这一事实“解释”。我们所应汲取的要义大概是：随着语境、或许还有相关性关系 *R* 的变化，
+
+      $$ H \text{ explains } S$$
+    step2: |-
+      范弗拉森解释一章以一小故事开篇，可为理解其说明之运作的好入口。回想第 2.5 节：针对 *DN* 的著名反例谓——由旗杆高度 *H* 可解释其所投影长 *S*，却（据说）不能由 *S* 解释 *H*，尽管可造一从 *S* 至 *H* 的 *DN* 推导。此通常被解作：*DN* 遗漏了与解释方向性、不对称性有关的某种因素——例如因果之间或有不对称，宜纳入解释模型。范氏故事中，先给出通常那种由 *H* 解释 *S* 的直白因果解释（不过所涉是一座塔而非旗杆）；继而提出第二说，据此塔高由“它被设计成投下某长度影子”这一事实得到“解释”。其要义大概是：随着语境乃至相关性关系 *R* 而变，
+
+      $$ H \text{ explains } S$$
   - id: 141
     kind: body
     source: |-
       and
 
       $$ S \text{ explains } H$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以及
+
+      $$ S \text{ explains } H$$
+    step2: |-
+      以及
+
+      $$ S \text{ explains } H$$
   - id: 142
     kind: body
     source: |-
       are acceptable (legitimate, appropriate etc.) explanations. Moreover, since these variations in context and relevance relation turn on variations in what is of interest to the explainer and his audience, we are further encouraged to conclude that explanatory asymmetries have their source in psychological facts about people’s interests and background beliefs, rather than in, say, some asymmetry that exits in nature independently of these. Pragmatists about explanation think that a similar conclusion holds for other features of the explanatory relevance relation that philosophers have tried to characterize in terms of traditional models of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      两个解释都可以是可接受（正当、恰当等）的。而且，既然语境与相关性关系的这些变化取决于解释者及其听众所关切者的变化，我们便进一步被鼓励得出这样的结论：解释的不对称性源于人的兴趣与背景信念等心理事实，而非（比如说）自然中独立于此的某种不对称。关于解释的实用主义者认为，类似的结论也适用于他们试图用传统解释模型刻画的解释相关性关系的其特征。
+    step2: |-
+      二者皆可算可接受（正当、恰当）的解释。且既然语境与相关性关系之变取决于解释者及其听众所关切者之变，我们更被鼓励如此结语：解释的不对称性源于人的兴趣、背景信念等心理事实，而非自然中独立于这些的某种不对称。解释的语用论者以为，类似结语也适用于哲学家曾以传统模型刻画之解释相关性关系的诸特征。
   - id: 143
     kind: body
     source: |-
       One obvious response to this claim, made by several critics (e.g., Kitcher & Salmon 1987: 317)[^kitcher-1987], is that the example does not really involve a case in which, depending on context, *H* causally explains *S* and *S* causally explains *H*. Instead, although *H* does causally explain *S*, it is (something like) the *desire* for a shadow of length *S* (rather than *S* itself) that explains (or at least causally explains) the height (or the choice of height) for the tower. Or, if one prefers, in the latter case we are given something like a functional explanation (but not a causal explanation) for the height of the tower, in the sense that we are told what the intended function of that choice of height is. On either of these diagnoses, this will not be a case in which whether *H* provides a causal explanation of *S* or whether instead *S* provides a causal explanation of *H* shifts depending on factors having to do with the interests of the speaker or audience or other contextual factors. If so, the story about the tower does not show that the asymmetry present in the flagpole example must be accounted for in terms of pragmatic factors. It may be accounted for in some other way. In fact, although discussion must be beyond the scope of this entry, a number of possible candidates for such a non-pragmatic account of causal asymmetries have been proposed, both in philosophy and outside of it (for example, in the machine learning literature[^note-13]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一主张，若干批评者（如 Kitcher & Salmon 1987: 317）[^kitcher-1987] 作出一个显见的回应：该例实际上并不涉及这样一种情形——依语境不同，*H* 因果地解释 *S*，而 *S* 因果地解释 *H*。相反，尽管 *H* 确实因果地解释 *S*，在那里解释（或至少因果地解释）塔高（或对塔高的选择）的，是（大致）对长度为 *S* 的影子之*欲望*，而非 *S* 本身。或者，若愿意这样说：在后一情形中我们得到的是关于塔高的大致功能性解释（而非因果解释），即有人告诉我们这一高度选择的意图功能是什么。按这两种诊断中的任何一种，这都不是这样的情形：究竟是 *H* 提供对 *S* 的因果解释、还是 *S* 提供对 *H* 的因果解释，会随言说者或听众的兴趣及其他语境因素而变。若如此，关于塔的故事就没有表明旗杆一例中的不对称必须以语用因素来说明。它或许能以别的方式说明。事实上，尽管讨论必须超出本条目范围，在哲学之内与之外（例如在机器学习文献中[^note-13]）都已提出若干这类非语用说明因果不对称的可能候选。
+    step2: |-
+      若干批评者（如 Kitcher & Salmon 1987: 317）[^kitcher-1987] 对此有一显见回应：此例并非“依语境而 *H* 因果解释 *S*、*S* 亦因果解释 *H*”之情形。实则 *H* 确因果解释 *S*，而后者中解释（至少因果解释）塔高（或其选择）者，乃对长度为 *S* 之影子的*欲望*（而非 *S* 本身）。或可另说：后一情形所得是塔高的功能性解释（非因果解释），即告以此高度选择之意图功能。无论取哪种诊断，这都不是“*H* 是否因果解释 *S*（或反之）随言说者、听众兴趣及其他语境因素而变”的情形。若然，塔的故事便未表明旗杆例中的不对称须以语用因素说明——它或可以他种方式说明。事实上，虽讨论超出本条目范围，哲学内外（如机器学习文献[^note-13]）已提出若干非语用说明因果不对称的候选。
   - id: 144
     kind: body
     source: |-
       A much more general criticism has been advanced against van Fraassen’s version of a pragmatic theory by Kitcher and Salmon (1987). Basically, their complaint is that the relevance relation *R* in van Fraassen’s account is completely unconstrained, with the (in their view, obviously unacceptable) consequence that for any pair of true propositions *P* and *A*, answer *A* is relevant to *P* via some relevance relation and thus “explains” *P*. For example, according to Salmon and Kitcher, we might define a relationship of “astral influence” $R^*$, meeting van Fraassen’s criteria for being a relevance relation, such that the time *t* of a person’s death is explained in terms of $R^*$ and the position of various heavenly bodies at *t*. Here it may seem that van Fraassen has a ready response. As noted above, on van Fraassen’s view, background knowledge and, in the case of scientific explanation, current scientific knowledge, helps to determine which are the acceptable relevance relations and acceptable answers to the questions posed in requests for explanation—such knowledge and the expectations that go along with it are part of the relevant context when one asks for an explanation of time of death. Obviously, astral influence is not an acceptable or legitimate relevance relation according to modern science—hence appeal to such a relation is not countenanced as explanatory by van Fraassen’s theory. More generally it might be argued that available scientific knowledge will provide constraints on the relevance relations and answers that exclude the “anything goes” worry raised by Salmon and Kitcher—at least insofar as the context is one in which a “scientific explanation” is sought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一项远为一般的批评由基切尔与萨蒙（1987）针对范弗拉森版语用理论提出。基本说来，他们的不满在于：范弗拉森说明中的相关性关系 *R* 完全不受约束，其后果（在他们看来显然不可接受）是：对任意一对真命题 *P* 与 *A*，回答 *A* 都经由某个相关性关系而相关于 *P*，从而“解释”*P*。例如，据萨蒙与基切尔，我们可以定义一种“星象影响”关系 $R^*$，它满足范弗拉森对作为相关性关系的条件，使得一个人死亡的时刻 *t* 由 $R^*$ 与诸星体在 *t* 的位置来解释。在这里，范弗拉森似乎有一个现成的回应。如上所述，按范弗拉森的看法，背景知识——在科学解释的情形中则是当前科学知识——有助于确定哪些是可接受的相关性关系、哪些是对解释请求中所提问题的可接受回答；此类知识以及随之而来的期待，是询问死亡时刻之解释时的相关语境的一部分。显然，星象影响依现代科学不是可接受或正当的相关性关系——因此范弗拉森的理论不会把诉诸此关系算作解释。更一般地，可以说：可得的知识会对相关性关系与回答施加约束，从而排除萨蒙与基切尔提出的“怎么都行”之忧——至少在该语境是寻求“科学解释”的语境时如此。
+    step2: |-
+      基切尔与萨蒙（1987）对范弗拉森版语用理论提出一远更一般的批评。其要处在：范氏说明中的相关性关系 *R* 全无约束，后果（在他们看来显然不可接受）是：对任意一对真命题 *P* 与 *A*，回答 *A* 皆可经某相关性关系而相关于 *P*，从而“解释”*P*。例如，据萨蒙与基切尔，我们可定义一种“星象影响”关系 $R^*$，满足范氏为相关性关系所设条件，使一人死亡之时刻 *t* 由 $R^*$ 与诸星体在 *t* 的位置来解释。此处范弗拉森似有现成回应：如上所述，依其看法，背景知识（科学解释时即当前科学知识）有助于确定何者为可接受的相关性关系与可接受回答；此类知识与随之的期待，正是询问死亡时刻解释时的相关语境之一部。星象影响依现代科学显然不是可接受、正当的相关性关系，故范氏理论不允其算作解释。更一般地可说：现有科学知识会为相关性关系与回答设限，从而排除萨蒙与基切尔的“怎么都行”之忧——至少在所求为“科学解释”的语境中如此。
   - id: 145
     kind: body
     source: |-
       While this response may seem plausible enough as far as it goes, it does bring out the extent to which much of the work of distinguishing the explanatory from the non-explanatory in van Fraassen’s account comes from a very general appeal to what is accepted as legitimate background information in current science. Put differently, this raises the worry that once one moves beyond van Fraassen’s formal machinery concerning questions and answers (which van Fraassen himself acknowledges is relatively unconstraining), one is left with an account according to which a scientific explanation is simply any explanation employing claims from current science and a currently scientifically approved relevance relation. Even if otherwise unexceptionable, this proposal is, if not exactly trivial, at least rather deflationary—it provides much less than many have hoped for from a theory of explanation. In particular, in cases (of which there are many examples) in which there is an ongoing argument or dispute in some area of science not about whether some proposed theory or model is true but rather about whether it explains some phenomenon, it is not easy to see how the proposal even purports to provide guidance. On the other hand, the obvious rejoinder that might be made on van Fraassen’s behalf is that no more ambitious treatment that would satisfy the expectations associated with more traditional accounts of explanation (including a demarcation of candidate explanations into those that are “correct” and “incorrect”) is possible—a theory like van Fraassen’s is as good as it gets. If there is no defensible theory of explanation embodying a non-trivially constraining relevance relation, it cannot be a good criticism of van Fraassen’s theory that he fails to provide this.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一回应就其本身而言似乎相当合理，但它也显出：在范弗拉森的说明中，把解释性的与非解释性的加以区分这项工作，有多大分量来自对当前科学中被接受为正当的背景信息的一次非常一般的诉诸。换个说法，这就引出一种担忧：一旦越过范弗拉森关于问题与回答的形式机制（范氏自己承认其约束力相对薄弱），留下的便是一种这样的说明——科学解释只是任何使用当前科学主张与当前科学认可的相关性关系的解释。这一提议即便别无不妥，至少也颇属缩水：它提供的远少于许多人对解释理论的期望。尤其，在科学某些领域中，持续的争论不在于某个拟议理论或模型是否为真，而在于它是否解释某现象——此类例子甚多，在这些情形中，很难看出这一提议甚至意在提供什么指引。另一方面，为范弗拉森所作的显然反驳是：任何更雄心勃勃、能够满足与更传统解释说明相联的期待（包括把候选解释划分为“正确”与“不正确”）的处理都不可能——像范弗拉森这样的理论已尽其所能。若没有一个体现非平凡地施加约束的相关性关系、且站得住脚的解释理论，那么指责范弗拉森未能提供它，就不是一个好的批评。
+    step2: |-
+      此回应就其本身似尚合理，却也显出：范氏说明中区分解释性与非解释性的工作，大半只靠一句极一般的诉诸——诉诸当前科学认作正当的背景信息。换言之为一种担忧：一旦越过范氏关于问答的形式机制（他自己承认其约束颇弱），所余者便是“科学解释即任何使用当前科学主张与当前公认相关性关系的解释”。此说纵无他失，也颇缩水——所提供远逊于人们对解释理论的期望。尤其，科学某域中常有争论不在拟议理论是否为真，而在它是否解释某现象；此类例子甚多，很难看出此说甚至何曾意在提供指引。反之，为范氏辩护者显然可说：任何更宏大的处理——足以餍足传统解释说明所相伴的期待（含将候选解释判为“正确”与“不正确”）——皆不可能；像范氏这样的理论已尽其所能。若本无可站得住、且以非平凡方式约束相关性关系的解释理论，则责备范氏未提供之，便不是好批评。
   - id: 146
     kind: body
     source: |-
       A final point that is suggested by van Fraassen’s theory is this: In considering pragmatic theories, it matters a great deal exactly where the “pragmatic” elements are claimed to enter into the account of explanation. One point at which such considerations seem clearly to enter is in the selection or characterization of what an audience wants explained. This is reflected in van Fraassen’s theory in the choice of a $P_k$ and an associated contrast class $X$. Obviously, whether we are looking for an explanation of why, say, this particular conductor is now bent when it was previously straight or whether instead we want to know why this conductor is bent while some other conductor is straight is a matter that depends on our interests. However, this particular sort of “interest relativity” (and associated phenomena having to do with the role of contrastive focus in the characterization of explananda, which really just serve to specify more exactly which particular explananda we want explained) seems something that can be readily acknowledged by traditional theories.[^note-14] After all, it is not a threat to the *DN* or other models with similar traditional aspirations that one audience may be interested in an explanation of the photoelectric effect but not the deflection of starlight by the sun and another audience may have the opposite interests. What would be a threat to the *DN* and similar models would be an argument that once some explanandum *E* is fully specified, whether explanans *M* explains *E* (that is, whether there is an explanatory relation between *M* and *E*) is itself “interest-relative”. It is natural to interpret van Fraassen as making this latter claim, both in connection with explanatory asymmetries and more generally.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      范弗拉森的理论还提示最后一点：在考察语用理论时，“语用”成分究竟被声称在何处进入解释说明，关系重大。此类考量看似清楚进入的一处，是对听众想要解释之物的选择或刻画。这在范弗拉森的理论中反映为对 $P_k$ 及相伴随的对照类 $X$ 的选择。显然，我们是在寻求“为何这根特定导线如今弯了而先前是直的”这一解释，还是想知道“为何这根导线弯了而另一根是直的”，取决于我们的兴趣。然而，这种特殊的“兴趣相对性”（以及与之相关的、在对被解释项的刻画中对比焦点所起作用等现象——它们其实只是更确切地指明我们想要解释的是哪些特定被解释项）似乎是传统理论不难承认的。毕竟，一个听众可能对光电效应感兴趣而不对太阳偏折星光感兴趣，另一个听众兴趣正相反——这对 *DN* 或其他有类似传统志向的模型并不构成威胁。对 *DN* 与类似模型构成威胁的，将是这样一种论证：一旦某个被解释项 *E* 被完全规定，解释项 *M* 是否解释 *E*（即 *M* 与 *E* 之间是否存在解释关系）这件事本身是否“兴趣相对”的。把范弗拉森理解为在后一意义上作此主张，无论是就解释不对称性还是就一般情形而言，都是自然的。
+    step2: |-
+      范氏理论另提示末节：考察语用理论时，“语用”成分被声称于何处进入解释说明，关系甚大。看似清楚进入的一处，是选择或刻画听众想要解释什么——在范氏理论中即选定 $P_k$ 及其对照类 $X$。显然，我们要的是“为何此导线今弯而昔直”，还是“为何此导线弯而彼导线直”，确依我们的兴趣而定。然而，这一种“兴趣相对性”（连同对比焦点在刻画被解释项时的作用——那其实只是更确切地指明所欲解释者为何）传统理论不难承认。[^note-14]毕竟，一听众或求光电效应之解而不求星光偏折之解，另一听众正相反，此于 *DN* 及同类传统志向之模型无所威胁。真正构成威胁者，是论证：一旦 *E* 被完全规定，*M* 是否解释 *E*（二者间有无解释关系）本身即“兴趣相对”。无论从解释不对称看还是一般而论，把范氏解作后一主张，皆是自然的。
   - id: 147
     kind: body
     source: |-
       **Selected Readings**. van Fraassen (1980, especially Chapter Six) and Achinstein (1983) are classic statements of pragmatic approaches to explanation. These pragmatic accounts are discussed and criticized in Salmon (1989). van Fraassen’s account is also discussed in Kitcher and Salmon (1987). De Regt and Dieks (2005) is a recent defense of what the authors describe as a “contextual” account of scientific understanding and which engages with some of the themes in the “pragmatics of explanation” literature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **推荐读物**。van Fraassen（1980，尤其第六章）与 Achinstein（1983）是语用解释进路的经典陈述。这些语用说明在 Salmon（1989）中受到讨论与批评。范弗拉森的说明亦见 Kitcher and Salmon（1987）。De Regt 与 Dieks（2005）为一较新辩护，作者称其立场为科学理解的“语境”说明，并处理了“解释的语用学”文献中的若干主题。
+    step2: |-
+      **推荐读物**：van Fraassen（1980，尤其第六章）与 Achinstein（1983）为语用进路的经典陈述；此类说明在 Salmon（1989）中受讨论与批评；范氏之说亦见 Kitcher and Salmon（1987）。De Regt 与 Dieks（2005）较新，为其所谓科学理解的“语境”说明作辩护，并回应“解释语用学”文献的若干主题。
   - id: 148
     kind: body
     source: |-
       ## 7. Conclusions and Stock-Taking
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 结论与盘点
+    step2: |-
+      ## 7 结论与盘点
   - id: 149
     kind: body
     source: |-
       What can we conclude from this recounting of some of the more prominent attempts to construct models of scientific explanation in the period from about 1940 to 2000?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从约 1940 至 2000 年间若干较著名的科学解释建模尝试的这次叙述中，我们能得出什么结论？
+    step2: |-
+      上述对约 1940 至 2000 年间数项著名科学解释建模尝试的叙述，可归结出什么？
   - id: 150
     kind: body
     source: |-
       Of course, any effort at stock-taking will reflect a particular point of view, but with this caveat in mind, several observations seem plausible, even if not completely uncontroversial.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，任何盘点努力都会反映某种特定观点，但记下这一保留，下述几项观察似乎合理，即便并非全然无反对意见。
+    step2: |-
+      自然，凡盘点皆反映一己观点；然有此保留在先，数项观察似属合理，虽非全无反对。
   - id: 151
     kind: body
     source: |-
