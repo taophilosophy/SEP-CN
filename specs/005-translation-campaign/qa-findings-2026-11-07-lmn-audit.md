@@ -181,3 +181,27 @@
 * logic-hybrid 为数学密集件（265 公式、$ 计数 542=542 逐段守恒），结构 defs 80=80、文内引用键全等。
 * 全局 `check_summary` 现存 1 硬错误为他会在途件 `g/gianfrancesco-pico.md`（工作区 M），非本批引入。
 * 断点：成稿 21（done 18 + 在途 3）/未建 123；下一目标 `logic-relevance`（8,512 词）。
+
+
+## 11. L 批接管续译与四条收口（2026-11-09，L-main-20261109c）
+
+**起因**：用户指派本会话接手 L 批全部翻译，并裁定“全包到 done”（含 r1–r3，复核独立性按 rules/04 冷置条款）。开工复账：done 18、在途 3（langer r1_reviewed；la-forge、logic-hybrid s3_checked）、在途初译 1（logic-relevance cleared，账本 98 段已填 22、TBD 76）、未建 122。
+
+| 词条 | 源词数 | 账本段 | 成稿字符 | 本轮动作 | 结果 |
+| --- | --- | --- | --- | --- | --- |
+| logic-relevance | 8,512 | 98（body 96/oir 1/ack 1） | 28,471 | 续译 TBD 76 段；1–22 段文言腔改写白话（同 justus-lipsius 先例）；冷置后 r1–r3 | done |
+| logic-fuzzy | 8,592 | 75（body 68/oir 1/note 6） | 42,280 | 全条新译；冷置后 r1–r3 | done |
+| langer | — | — | — | r2–r3（初译为他会话，本会话独立复核） | done |
+| la-forge | — | — | — | r1–r3（同上） | done |
+| logic-hybrid | — | — | — | r1–r3（同上） | done |
+
+**要点**：
+
+1. **文言腔判例续用**：logic-relevance 已填 22 段为文言体（“盖因”“云云”“宜措意”），违 rules/02 白话标尺，已逐段对照源文改写；与其后 76 段统一为白话。
+2. **术语裁定**：FDE 不臆造汉译，正文保留 “FDE（First Degree Entailment）”；relevant entailment 与 relevant implication 分列，前者作“相干衍推”；sorites paradox 主形按登记册/词汇表定为“堆垛悖论”（“连锁悖论”为亦作），修掉登记册新行与词汇表冲突 1 处；sequent calculus 照登记册主形“矢列演算”（非“相继式演算”）。
+3. **误报留痕**：`check_math` 的 unbalanced 12 项均为表格内数字开头公式（如 `$1,2, \rightarrow$ E`、`$10^{100}$`）触发货币启发式；`.vitepress/math-plugin.mjs` 的 `protectMath` 分支 A 实测正常保护，渲染无碍（`script/tmp/test-math-protect.mjs` 验证）。
+4. **并行收编**：logic-relevance 成稿与账本被并行会话 `7630b143`（“暂存”）宽范围 `git add` 收编；内容核对为本会话最终版，按并行纪律不改写他人提交，仅在此留痕。
+5. **四检口径**：locic-relevance / logic-fuzzy 均 style 0、prose 0、math 缺失 0、academic --strict 0、check_terms 硬错误 0；langer prose 4、la-forge prose 10 全在引文块与朗格原话枚举内，ADR-0020 豁免留痕。
+6. **登记**：logic-relevance 术语 46 + 人名 37；logic-fuzzy 术语 44 + 人名 46（含并行合并 3 术语、2 人名）。
+
+**断点**：L 批 done 23/144（本轮 +5），在途 0，未建任务 121；下一目标按源词数升序 `logical-consequence`（8,856 词）。PROGRESS.md 未重生成（工作区含他会话未提交任务，`progress.py` 会误收他人在途态）。

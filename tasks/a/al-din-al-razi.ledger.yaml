@@ -91,62 +91,82 @@ segments:
     kind: body
     source: |-
       ## 2. Logic and Epistemology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 逻辑学与认识论
+    step2: |-
+      ## 2 逻辑学与认识论
   - id: 12
     kind: body
     source: |-
       In the Islamic world, representatives of *falsafa* largely accept the traditional Aristotelian presentation of the manner of the acquisition of knowledge. This is the Peripatetic *Organon*, which starts from the predicables and moves through syllogistic to demonstrative science and essential definitions. Fakhr al-Dīn, however, presents a different structure for logic and epistemology, which leaves the traditional organization of the *Organon* behind. The new structure revolves around two ways of acquiring knowledge, conceptualization (*taṣawwur*) and assent (*taṣdīq*) (El-Rouayheb 2019: 29). “Conceptualization” stands for mentally entertaining a concept, such as “human” or “rational animal”, without ascribing any truth-value to it, while “assent” stands for claiming that the human is rational animal in the real world (Lameer 2006)[^lameer-2006]. Fakhr al-Dīn’s reorganization of logic and epistemology may have been one inspiration for later authors who re-define the subject matter of logic as “the objects of conception and assent” (El-Rouayheb 2012).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在伊斯兰世界，法尔萨法的代表人物大体接受亚里士多德关于知识获取方式的传统表述。这就是逍遥学派的《工具论》：从谓项出发，经由三段论，走向证明科学与本质定义。然而，法赫尔丁为逻辑学与认识论提出了另一种结构，把《工具论》的传统编排抛在后面。这一新结构围绕两种获取知识的方式：概念化（taṣawwur）与确认（taṣdīq）（El-Rouayheb 2019: 29）。“概念化”指在心里把握一个概念，如“人”或“理性动物”，而不对其赋予真值；“确认”则指主张人在现实世界中确实是理性动物（Lameer 2006）[^lameer-2006]。法赫尔丁对逻辑学与认识论的重组，也许是后来把逻辑学主题重新定义为“概念与确认之对象”的作者的灵感之一（El-Rouayheb 2012）。
+    step2: |-
+      在伊斯兰世界，法尔萨法的代表人物大体接受亚里士多德关于知识获取方式的传统表述，即逍遥学派的《工具论》：从谓项出发，经由三段论，走向证明科学与本质定义。然而，法赫尔丁为逻辑学与认识论提出了另一种结构，把《工具论》的传统编排抛在后面。这一新结构围绕两种获取知识的途径：概念化（*taṣawwur*）与确认（*taṣdīq*）（El-Rouayheb 2019: 29）。“概念化”指在心里把握一个概念，如“人”或“理性动物”，而不对其赋予真值；“确认”则指主张人在现实世界中确实是理性动物（Lameer 2006）[^lameer-2006]。法赫尔丁对逻辑学与认识论的重组，也许是后来把逻辑学主题重新界定为“概念与确认之对象”的作者的灵感之一（El-Rouayheb 2012）。
   - id: 13
     kind: body
     source: |-
       Fakhr al-Dīn complements this picture with his critique of definitions, a rejection of the intentional acquisition of knowledge through conceptualization (Falaturi 1969, Ibrahim 2013, Özturan 2018, Jacobsen Ben Hammed 2020, Benevich 2022a)[^benevich-2022a][^falaturi-1969][^ibrahim-2013][^jacobsen-2020][^özturan-2018]. According to the traditional Aristotelian epistemology, wholly embraced by Ibn Sīnā, we know what a human is by acquiring a complete definition of the essence of what it means to be a human, through a combination of all inherent generic and specific aspects, for instance “being an animal” and “being rational”. Fakhr al-Dīn denies that this is how we learn what things are. For him, as for his contemporaries Abū l-Barakāt and al-Suhrawardī, the best that we can hope to achieve with the traditional Aristotelian-Avicennan approach is a nominal definition, the explication of a meaning we have in our minds (*Muḥaṣṣal*, 84; *Mulakhkhaṣ*: *Manṭiq*, 106). By defining humans as “rational animals”, we do not learn anything new about real humans. Rather, we just explain what we meant by “humans” in the first place.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      法赫尔丁以一种对定义的批判，补足这幅图景：他拒斥通过概念化有意获取知识（Falaturi 1969、Ibrahim 2013、Özturan 2018、Jacobsen Ben Hammed 2020、Benevich 2022a）[^benevich-2022a][^falaturi-1969][^ibrahim-2013][^jacobsen-2020][^özturan-2018]。按伊本·西那全盘接受的亚里士多德式传统认识论，我们通过获得关于“人之所以为人”之本质的完整定义，即综合一切固有的属与种差方面（例如“是动物”与“是有理性的”），而知道人是什么。法赫尔丁否认我们就是这样认识事物的。他与其同时代人阿布·巴拉卡特、苏赫拉瓦尔迪一样认为，用传统的亚里士多德-阿维森纳进路，我们最多只能得到名义定义，即对我们心中已有之含义的阐明（《精要》，84；《纲要·逻辑学》，106）。把人定义为“理性动物”，我们并没有学到关于现实之人的任何新东西；我们只是解释了最初说“人”时意指什么。
+    step2: |-
+      法赫尔丁以一种对定义的批判，补足这幅图景：他拒斥通过概念化有意获取知识（Falaturi 1969、Ibrahim 2013、Özturan 2018、Jacobsen Ben Hammed 2020、Benevich 2022a）[^benevich-2022a][^falaturi-1969][^ibrahim-2013][^jacobsen-2020][^özturan-2018]。按伊本·西那全盘接受的亚里士多德式传统认识论，我们通过获得关于“人之所以为人”之本质的完整定义——综合一切固有的属与种差方面（如“是动物”与“是有理性的”）——而知道人是什么。法赫尔丁否认我们就是这样认识事物的。他与其同时代人阿布·巴拉卡特、苏赫拉瓦尔迪一样认为：走传统的亚里士多德-阿维森纳进路，我们最多只能得到名义定义，即对心中已有含义的阐明（《精要》，84；《纲要·逻辑学》，106）。把人定义为“理性动物”，我们并未学到关于现实之人的任何新东西，只是解释了最初说“人”时意指什么。
   - id: 14
     kind: body
     source: |-
       Fakhr al-Dīn’s main argument against real definitions is a reapplication of an old epistemological problem that goes back to Meno’s paradox in Plato (*Meno*, 80d6–10). Al-Rāzī formulates it as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      法赫尔丁反对实在定义的主要论证，是对一个古老认识论问题的重新运用，该问题可追溯至柏拉图《美诺篇》中的美诺悖论（《美诺篇》80d6–10）。拉齐表述如下：
+    step2: |-
+      法赫尔丁反对实在定义的主要论证，是对一个古老认识论问题的重新运用——它可追溯至柏拉图《美诺篇》中的美诺悖论（《美诺篇》80d6–10）。拉齐的表述如下：
   - id: 15
     kind: body
     source: |-
       > If one is not aware of the object of inquiry, inquiry is impossible. For, if one is entirely unaware of something, the soul undertakes no inquiry into it. If on the other hand one *is* aware of it, inquiry is again impossible, since it is absurd to make something available when it is already available (*taḥṣīl al-ḥāṣil*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果一个人不知道探究的对象，探究就不可能。因为，如果他对某物全然不知，灵魂就不会对它进行探究。另一方面，如果他确实知道它，探究又不可能，因为把已经可得的东西弄到手是荒谬的（taḥṣīl al-ḥāṣil，求取已得者）。
+    step2: |-
+      > 若不知探究对象，探究便不可能：对某物全然不知，灵魂就不会去探究它。可若他 **确实** 知其为何，探究同样不可能——把已到手之物再弄到手（*taḥṣīl al-ḥāṣil*），岂非荒谬。
   - id: 16
     kind: body
     source: |-
       *If someone says*: [the inquirer] is aware of [the object of inquiry] in some respect or other, *I respond*: the respect in which he is aware of it is distinct from the respect in which he is not aware of it. [82] He cannot inquire into the first [respect], since it is [already] available. Nor can he inquire into the second [respect], since he is absolutely unaware of it (*Muḥaṣṣal*, 81–82)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *若有人说*：[探究者]以某种方式知道[探究对象]。*我答曰*：他知其所是的方面，与他不知其所是的方面，并不相同。[82] 他不能探究前者，因为它已经可得；也不能探究后者，因为他对之全然无知（《精要》，81–82）。
+    step2: |-
+      *若有人说*：[探究者]以某种方式知道[探究对象]。*我答曰*：他知其所是的方面，与他不知其所是的方面，并不相同。[82] 他不能探究前者，因为它已经可得；也不能探究后者，因为他对之全然无知（《精要》，81–82）。
   - id: 17
     kind: body
     source: |-
       How can we learn something new if we do not even know what to look for; and if we already know what we are looking for, what sense does it make to learn something new about it? Al-Fārābī and Ibn Sīnā mostly accepted the Aristotelian solution to the paradox, namely that we can know something in one respect, and inquire into it and learn something new about it in another respect (Black 2008, Marmura 2009)[^black-2008][^marmura-2009]. Fakhr al-Dīn rejects this solution, on the grounds that the problem may be applied to each aspect individually. If we do not know one aspect but already know another aspect, new inquiry is impossible for both, with the two aspects falling prey to the two different horns of the paradox.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们连要找什么都不知道，又怎能学到新东西？而如果我们已经知道要找什么，再对它学点什么又有什么意义？法拉比与伊本·西那大体接受亚里士多德对这一悖论的解决：我们可以在一个方面知道某物，而在另一个方面对它探究并学到新东西（Black 2008、Marmura 2009）[^black-2008][^marmura-2009]。法赫尔丁拒斥这一解决，理由是：问题可逐一施于每个方面。假如我们不知某一方面而已知另一方面，那么对两者而言新的探究都不可能——两个方面分别落入悖论的两个犄角。
+    step2: |-
+      我们若连要找什么都不知道，又怎能学到新东西？若已经知道要找什么，再对它学点什么又有什么意义？法拉比与伊本·西那大体接受亚里士多德对这一悖论的解决：人可以就某一方面知道某物，而就另一方面对它探究并学有所得（Black 2008、Marmura 2009）[^black-2008][^marmura-2009]。法赫尔丁拒斥这一解决，理由是：问题可逐一施于每个方面。假如我们不知某一方面而已知另一方面，那么对两者而言新的探究都不可能——两个方面分别落入悖论的两个犄角。
   - id: 18
     kind: body
     source: |-
       In his analysis of the acquisition of knowledge, Fakhr al-Dīn addresses the traditional epistemological distinction inherited from *kalām* between “necessary” (*ḍarūrī*) and “acquired” (*iktisābī*) knowledge. We receive “necessary” items of knowledge as a given, whether or not we want to do so. For instance, when I look at a red apple, I have no power over seeing that the apple is red. I cannot just decide to see it as blue. By contrast, acquired knowledge means that we are intentionally involved in the acquisition of knowledge. I might for instance try to learn why humans have certain features that belong to them, though I need not do so (see further Abrahamov 1993, Radhi Ibrahim 2013, Benevich 2022b)[^abrahamov-1993][^benevich-2022b][^ibrahim-2013][^radhi-2013]. Fakhr al-Dīn goes against this standard *kalām* account by denying the second type of knowledge. According to him, we do not have any power over our conceptualization of things, nor over any beliefs that derive from conceptualization (*Arbaʿīn*, vol.1, 330–332). Rather, all items of conceptualization and assent are given to us, which in the occasionalist Ashʿarite framework means given directly by God (Jacobsen Ben Hammed 2020, Benevich 2022a)[^benevich-2022a][^jacobsen-2020]. We are thus “forced” to have whatever knowledge we wind up having. The nature of the objects known is not so clear: it has been argued that for Fakhr al-Dīn we can only get to objects of phenomenal experience (Ibrahim 2013)[^ibrahim-2013], and also that for him we can get at the things in themselves (Benevich 2022a)[^benevich-2022a]. Either way, the necessary items of knowledge are the primary data for epistemic agents. We do not learn what humans are through an inquiry and by producing essential definitions. We know what humans are through direct experience, which is not up to us.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在分析知识获取时，法赫尔丁处理了凯拉姆传统传下的“必然”（ḍarūrī）知识与“获得”（iktisābī）知识之分。我们接受“必然”的知识项，如同接受给定之物，无论愿不愿意。例如，当我看着一个红苹果，我无力不看见苹果是红的；我不能干脆决定把它看成蓝的。相反，“获得的知识”意味着我们有意参与知识的获取。例如，我可能试图弄清楚人为何具有某些特征，但我并非必须如此（另见 Abrahamov 1993、Radhi Ibrahim 2013、Benevich 2022b）[^abrahamov-1993][^benevich-2022b][^ibrahim-2013][^radhi-2013]。法赫尔丁背离这一标准凯拉姆说法，否认第二类知识。按他，我们对事物的概念化没有能力，对任何由概念化而来的信念也没有能力（《四十问》，卷 1，330–332）。相反，一切概念化与确认之项都是被给予我们的；在偶因论的艾什尔里框架中，这意味由神直接给予（Jacobsen Ben Hammed 2020、Benevich 2022a）[^benevich-2022a][^jacobsen-2020]。因此，我们“被迫”拥有我们最终拥有的任何知识。所知对象的性质则不那么清楚：有论证认为，按法赫尔丁我们只能达到现象经验的对象（Ibrahim 2013）[^ibrahim-2013]；也有论证认为，按他我们能达到事物本身（Benevich 2022a）[^benevich-2022a]。无论哪种，必然知识项都是认识主体的基本材料。我们不是通过探究、通过给出本质定义来认识人是什么；我们是靠直接经验认识人是什么，而那不由我们作主。
+    step2: |-
+      在分析知识获取时，法赫尔丁处理了凯拉姆传统传下的“必然”（*ḍarūrī*）知识与“获得”（*iktisābī*）知识之分。必然的知识项如同给定之物，我们受之，无论愿不愿意。例如，我看着一个红苹果，便无力不看见它是红的，也不能干脆决定把它看成蓝的。相反，“获得的知识”意味着我们有意参与知识的获取：我可能设法弄清人为何有某些特征，却并非必须如此（另见 Abrahamov 1993、Radhi Ibrahim 2013、Benevich 2022b）[^abrahamov-1993][^benevich-2022b][^ibrahim-2013][^radhi-2013]。法赫尔丁背离这一标准凯拉姆说法，否认第二类知识。按他，我们对事物的概念化没有能力，对任何由概念化而来的信念也没有能力（《四十问》，卷 1，330–332）。相反，一切概念化与确认之项都是被给予我们的；在偶因论的艾什尔里框架中，这意味着由神直接给予（Jacobsen Ben Hammed 2020、Benevich 2022a）[^benevich-2022a][^jacobsen-2020]。于是我们“被迫”拥有最终拥有的任何知识。所知对象的性质则不那么清楚：有论证认为，按法赫尔丁我们只能达到现象经验的对象（Ibrahim 2013）[^ibrahim-2013]；也有论证认为，按他能达到事物本身（Benevich 2022a）[^benevich-2022a]。无论哪种，必然知识项都是认识主体的基本材料。人是什么，不靠探究、不靠给出本质定义去认识，而靠不由我们作主的直接经验。
   - id: 19
     kind: body
     source: |-
       For someone who denies that we can voluntarily acquire knowledge through either conceptualization or assent, Fakhr al-Dīn devotes surprising effort to discussing the ways of acquiring assents. He introduces a few substantial innovations in the Avicennan theories of the types of propositions and syllogistics. In fact, Fakhr al-Dīn introduces several notions and distinctions that become standard in the subsequent history of Arabic logic. Most of them are rooted in Ibn Sīnā’s logical apparatus, but Fakhr al-Dīn makes great effort to critically revise and re-organize them, creating the foundations of what has been called “revisionist Avicennan logic” (El-Rouayheb 2019: 68–69). One of the most important innovations is Fakhr al-Dīn’s suggestion that Ibn Sīnā failed to distinguish between the alethic and temporal understanding of necessity. “Every *A* is necessarily *B*” does not need to mean the same as “Every *A* is always *B*”. With this distinction, Fakhr al-Dīn creates what Street has called “profusion of propositional types”, which would be extensively discussed in the later period of Arabic logic (Street 2014, 2016; see further Strobino & Thom 2016)[^street-2014][^strobino-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于一个否认我们能通过概念化或确认自愿获取知识的人来说，法赫尔丁讨论确认之获取方式所费的力气，多得令人意外。他在阿维森纳关于命题类型与三段论的理论中引入了几项实质创新。事实上，法赫尔丁提出的若干概念与区分，成为后来阿拉伯逻辑史的标准。它们大多扎根于伊本·西那的逻辑装置，但法赫尔丁着力批判性地修订与重组，奠定了所谓“修正派阿维森纳逻辑”的基础（El-Rouayheb 2019: 68–69）。最重要的创新之一，是法赫尔丁提出：伊本·西那未能区分必然性的真势理解与时间理解。“每个 *A* 都必然地是 *B*”不必等同于“每个 *A* 都总是 *B*”。凭借这一区分，法赫尔丁造就了 Street 所谓“命题类型的繁盛”，这在阿拉伯逻辑后期得到广泛讨论（Street 2014, 2016；另见 Strobino & Thom 2016）[^street-2014][^strobino-2016]。
+    step2: |-
+      一个否认我们能凭概念化或确认自愿获取知识的人，却花了出人意料的大力气讨论确认如何获取。法赫尔丁在阿维森纳关于命题类型与三段论的理论中，引入了数项实质创新；其中有若干概念与区分，后来成为阿拉伯逻辑史的标准。它们大多扎根于伊本·西那的逻辑装置，但法赫尔丁着力作批判性修订与重组，奠定了所谓“修正派阿维森纳逻辑”的基础（El-Rouayheb 2019: 68–69）。最重要的创新之一，是他指出：伊本·西那未区分必然性的真势义与时间义。“每个 *A* 都必然地是 *B*”，不必等同于“每个 *A* 都总是 *B*”。凭此区分，法赫尔丁造就了 Street 所谓“命题类型的繁盛”，阿拉伯逻辑后期对此讨论甚多（Street 2014, 2016；另见 Strobino & Thom 2016）[^street-2014][^strobino-2016]。
   - id: 20
     kind: body
     source: |-
       Another important contribution in logic is Fakhr al-Dīn’s distinction between two readings of the subject term of a proposition: externalist (*khārijī*) and essentialist (*ḥaqīqī*). When we say “Every *A* is *B*” on the externalist reading, we mean that every single thing which actually happens to be *A* in the real world is *B*. On the essentialist reading, “Every *A* is *B*” means “everything, were it to be described as *A*, would be *B*” (*Mulakhkhaṣ: Manṭiq*, 141–42). The distinction between the externalist and the essentialist reading is Fakhr al-Dīn’s response to the earlier Arabic discussions of the subject term by al-Farābī and Ibn Sīnā. Al-Farābī was credited with the ampliation of the subject term to the possible. In other words, for him, “Every *A* is *B*” means “everything that is possibly *A*, is *B*”. Ibn Sīnā was more restrictive: “Every *A* is *B*” means “everything that is actually *A*, is *B*”. This need not mean “everything that actually is *A* in *the real world*” but can also refer to whatever is actually described as *A* in the mind (Street 2005, 2010, 2014, and 2016, cf. Chatti 2016)[^chatti-2016][^street-2005]. Fakhr al-Dīn’s distinction between the essentialist and the externalist readings of the subject term may be a reaction to Ibn Sīnā’s ampliation of the subject term to include the mental realm. As we will see in Section 4, Fakhr al-Dīn denies mental existence, and hence requires different formulation for the readings of the subject term that do not refer to real-world actuality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      逻辑学上的另一项重要贡献，是法赫尔丁对命题主词两种读法的区分：外延读法（khārijī）与本质读法（ḥaqīqī）。按外延读法说“每个 *A* 都是 *B*”，意思是现实世界中每一个恰好是 A 的东西都是 B。按本质读法，“每个 *A* 都是 *B*”意为“任何东西，若被描述为 A，就会是 B”（《纲要·逻辑学》，141–42）。外延读法与本质读法之分，是法赫尔丁对法拉比与伊本·西那早先关于主词之讨论的回应。法拉比被认为是把主词扩及可能者：换言之，对他而言“每个 *A* 都是 *B*”意为“每一个可能是 A 的东西都是 B”。伊本·西那限制更严：“每个 *A* 都是 *B*”意为“每一个实际上是 A 的东西都是 B”。这不必指“现实世界中实际是 A 的一切”，也可指心中实际被描述为 A 的一切（Street 2005, 2010, 2014, 2016；参 Chatti 2016）[^chatti-2016][^street-2005]。法赫尔丁对主词本质读法与外延读法的区分，也许是回应伊本·西那把主词扩及心灵领域之举。正如我们将在第 4 节看到，法赫尔丁否认心灵存在，因而需要对主词读法另作表述，不指涉现实世界中的实际性。
+    step2: |-
+      逻辑学上的另一项重要贡献，是法赫尔丁对命题主词两种读法的区分：外延读法（*khārijī*）与本质读法（*ḥaqīqī*）。按外延读法说“每个 *A* 都是 *B*”，意思是现实世界中凡恰好是 A 者皆为 B。按本质读法，“每个 *A* 都是 *B*”意为“任何东西，若被描述为 A，就会是 B”（《纲要·逻辑学》，141–42）。此二分是法赫尔丁对法拉比与伊本·西那早先主词之论的回应。法拉比被认为把主词扩及可能者：对他而言，“每个 *A* 都是 *B*”意为“每一个可能是 A 的东西都是 B”。伊本·西那限制更严：“每个 *A* 都是 *B*”意为“每一个实际上是 A 的东西都是 B”——这不必指“现实世界中实际是 A 的一切”，也可指心中实际被描述为 A 的一切（Street 2005, 2010, 2014, 2016；参 Chatti 2016）[^chatti-2016][^street-2005]。法赫尔丁区分本质读法与外延读法，也许正为回应伊本·西那把主词扩及心灵领域之举。如第 4 节将见，法赫尔丁否认心灵存在，因而须给主词读法另立表述，不指涉现实世界中的实际性。
   - id: 21
     kind: body
     source: |-

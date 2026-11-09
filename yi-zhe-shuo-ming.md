@@ -379,6 +379,7 @@
 | brain death | — | 脑死亡 | organ-donation | 学界惯例（医学名词通行；SUMMARY 既有“脑死亡”别名行） | 2026-11-06 |
 | brain in a vat | — | 缸中之脑 | closure-epistemic 首译 | 知识论通行（普特南式怀疑论假设）；凭证 2026-11-08 | 2026-11-08 |
 | back-tracking counterfactual | — | 回溯式反事实条件句 | prophecy | 构词直译（后件时间早于前件的反事实条件句，学界亦称 backtracking）；凭证 2026-11-09 | 2026-11-09 |
+| biomarker | — | 生物标志物 | cancer | 学界通行（医学与精准医学）；凭证 2026-11-09 | 2026-11-09 |
 | Bridgewater Treatise | — | 布里奇沃特论丛 | 首现（william-jevons） | 学界惯例（19 世纪科学-宗教关系丛书名）；凭证 2026-11-07 | 2026-11-07 |
 | Brit Shalom | — | 和平联盟（Brit Shalom） | s/scholem 首译 | 专名音译兼意译（1925 年巴勒斯坦犹太社团组织）；凭证 2026-11-08 | 2026-11-08 |
 | Buddhism | — | 佛教 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -397,13 +398,14 @@
 | Calvinism | Calvinistic scholasticism | 加尔文主义 | cambridge-platonists 补登 | 学界通行（加尔文宗神学）；凭证 2026-11-09 | 2026-11-09 |
 | canon | — | 咏礼司铎 | autrecourt | 天主教通行职名（主教座堂参议会成员；本库统一形，改定初译“议事司铎”） | 2026-11-06 |
 | canonically conjugate | — | 正则共轭 | qt-entangle | 审定名词库（物理学名词）；凭证 2026-11-09 | 2026-11-09 |
+| biostatistical theory of disease | — | 疾病的生物统计理论 | cancer | 学界通行（Boorse 疾病理论）；凭证 2026-11-09 | 2026-11-09 |
 | capability approach | — | 可行能力进路 | 首现（justice-virtue） | 学界惯例（Sen/Nussbaum 通行，亦作“能力进路”）；凭证 2026-11-02 | 2026-11-02 |
 | capacity to benefit | — | 受益能力（直接受益能力） | disability-care-rationing | 生物伦理学界通行（CEA 语境：从医疗资源受益的能力）；凭证 2026-11-08 | 2026-11-08 |
 | Capitalism | — | 资本主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | cardinal | — | 基数 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | cardinal virtues | — | 四枢德 | neoplatonism | 经院哲学与伦理学通行（正义、审慎、节制、勇敢） | 2026-11-07 |
 | cardinality | — | 基数 | omniscience | 数学通行译名；凭证 2026-11-09 | 2026-11-09 |
-| caretaker gene | — | 看护基因 | cancer | 学界通行（癌症遗传学；与 gatekeeper 守门基因对举）；凭证 2026-11-09 | 2026-11-09 |
+| caretaker gene | — | 看护基因；cancer | cancer | 学界通行（癌症遗传学；与 gatekeeper 守门基因对举）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | care ethics | — | 关怀伦理学（亦作"关怀伦理"） | 语料回收（标题词） | 审定名词库（termonline-all·新闻学与传播学·媒体与传播伦理，2026-11-08 浏览器通道凭证，en=ethics of care 精确命中；语料多数词条已用"关怀伦理学"） | 2026-11-08 |
 | caritas | caritas | 仁爱（亦作“博爱”） | 首现（justice-virtue） | 学界惯例（神学德性，托马斯·阿奎那）；凭证 2026-11-02 | 2026-11-02 |
 | Cārvāka / Lokāyata | चार्वाक / लोकायत | 顺世论 | jayaraasi | 印度哲学史学界通行（唯物论派；音译“遮卢婆迦”较少用）；与既有 anumāna/pratyakṣa 因明系译名并行 | 2026-11-07 |
@@ -720,6 +722,7 @@
 | d'Alembert's principle | — | 达朗贝尔原理 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
 | dactylic hexameter | — | 扬抑抑六音步 | 首现（william-sherwood） | 学界通行（古典诗体）；凭证 2026-11-07 | 2026-11-07 |
 | daimon | — | 精灵 | xenocrates | 学界通行（希腊宗教中介于神与人之间者；daimonion 亦译“神明”） | 2026-11-08 |
+| curse of dimensionality | — | 维数灾难 | cancer | 学界通行（机器学习与统计）；凭证 2026-11-09 | 2026-11-09 |
 | Dao | 道 | 道 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定命中为跨学科同名不采（凭证 2026-10-30） | 2026-10-30 |
 | Daodejing / Tao Te Ching | 道德經 | 《道德经》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Daoist Canon | 道藏 | 《道藏》 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
@@ -758,6 +761,7 @@
 | declarative sentence | — | 陈述句 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
 | decoherence | — | 退相干 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | decolonization | — | 去殖民化 | colonialism | 学界通行译名；凭证 2026-11-07 | 2026-11-07 |
+| deep learning | — | 深度学习 | cancer | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | deductive system | — | 演绎系统 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | deductivism | — | 演绎主义 | deductivism-mathematics | 学界通行（数学哲学：数学语句以公理为条件）；凭证 2026-11-08 | 2026-11-08 |
 | Default Mode Network | — | 默认模式网络 | 首现（experimental-aesthetics） | 神经科学通行（DMN） | 2026-11-09 |
@@ -955,10 +959,11 @@
 | Elementarphilosophie | Elementarphilosophie | 元素哲学（莱因霍尔德） | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
 | Elementarphilosophie | Elementarphilosophie | 元素哲学（莱因霍尔德；亦作“基础哲学”） | august-rehberg 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
 | clonal evolution | — | 克隆演化；cancer | cancer | 学界通行（肿瘤演化）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
-| age of onset | — | 发病年龄 | cancer | 学界通行（流行病学）；凭证 2026-11-09 | 2026-11-09 |
+| age of onset | — | 发病年龄；cancer | cancer | 学界通行（流行病学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Ockhamism | — | 奥卡姆主义 | prophecy | 构词直译（奥卡姆式预知-自由解决方案）；凭证 2026-11-09 | 2026-11-09 |
 | Molinism | — | 莫利纳主义 | prophecy | 学界通行（沿莫利纳既定汉名）；凭证 2026-11-09 | 2026-11-09 |
 | counterfactual power over the past | — | 对过去的反事实能力 | prophecy | 构词直译（沿登记册 counterfactual power 反事实能力）；凭证 2026-11-09 | 2026-11-09 |
+| batch effect | — | 批次效应 | cancer | 学界通行（组学数据处理）；凭证 2026-11-09 | 2026-11-09 |
 | elementary embedding | — | 初等嵌入 | tarski-truth | 模型论通行 | 2026-11-09 |
 | elements of reality | — | 实在要素 | qt-entangle | 学界通行译名（EPR 论证文献）；凭证 2026-11-09 | 2026-11-09 |
 | Elements of Theology | — | 《神学要义》 | 首现（theology-aristotle） | 学界惯例（普罗克洛斯著作；通行亦作《神学原理》）；凭证 2026-11-08 | 2026-11-08 |
@@ -990,7 +995,7 @@
 | engaged object（'jug yul） | — | 趣入境（'jug yul） | epistemology-language-tibetan | 藏传量论通译 | 2026-11-04 |
 | engi | 縁起 | 缘起（縁起） | japanese-aesthetics | 学界惯例（佛教研究通行译法“缘起”） | 2026-11-02 |
 | disease course | — | 病程；cancer | cancer | 学界通行（医学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
-| angiogenesis | — | 血管生成 | cancer | 学界通行（肿瘤生物学）；凭证 2026-11-09 | 2026-11-09 |
+| angiogenesis | — | 血管生成；cancer | cancer | 学界通行（肿瘤生物学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | enhypostaton / enhypostata | — | 内寓者（寄寓他物而存者） | john-italos | 基督论与中世纪哲学通行（与 anhypostaton 对举）；待 specs/008 审定库复核 | 2026-11-06 |
 | Enlightenment | — | 启蒙（时代名，视语境亦作「启蒙运动」） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
 | Enneads | — | 《九章集》 | 首现（theology-aristotle） | 学界通行（普罗提诺著作标准汉译）；凭证 2026-11-08 | 2026-11-08 |
@@ -1409,7 +1414,7 @@
 | hard facts | — | 硬事实 | omniscience | 学界通行译名（与 soft facts 对举）；凭证 2026-11-09 | 2026-11-09 |
 | harmonic | — | 谐波 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | harmonic series | — | 调和级数 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
-| hallmark | — | 标志性特征 | cancer | 本条术语（Hanahan & Weinberg 的 hallmarks of cancer）；凭证 2026-11-09 | 2026-11-09 |
+| hallmark | — | 标志性特征；cancer | cancer | 本条术语（Hanahan & Weinberg 的 hallmarks of cancer）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Harmony of the Two Sages, Plato and Aristotle | — | 《两圣（柏拉图与亚里士多德）之和合》 | 首现（theology-aristotle） | 照题直译（法拉比著作，通行亦作《两哲观点的调和》）；凭证 2026-11-08 | 2026-11-08 |
 | haruspicy | — | 肠卜术 | gianfrancesco-pico | 古代占卜史通行（亦作「脏卜术」） | 2026-11-09 |
 | Hasidism | — | 哈西德主义 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
@@ -1448,7 +1453,7 @@
 | Hōjōki | 方丈記 | 《方丈记》 | japanese-aesthetics | 学界惯例（日本文学史通行书名） | 2026-11-08 |
 | holding responsible | — | 追究责任 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | hole argument | — | 空穴论证 | spacetime-holearg | 发布表 ci-hui-biao 既有裁定（广义相对论哲学语境，亦译“空洞论证”） | 2026-10-28 |
-| homeostatic property cluster | — | 稳态属性簇 | cancer | 学界通行（Boyd 自然种类理论）；凭证 2026-11-09 | 2026-11-09 |
+| homeostatic property cluster | — | 稳态属性簇；cancer | cancer | 学界通行（Boyd 自然种类理论）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | hole transformation | — | 洞变换 | spacetime-holearg | B 档（随词条语境，与 hole argument 复合同源） | 2026-10-28 |
 | holes | — | 洞 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/holes））；凭证 2026-11-04 | 2026-11-04 |
 | Holy Spirit | — | 圣灵 | 语料回收（标题词） | 学界惯例（宗教学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -1459,7 +1464,7 @@
 | hongaku / honkyō | 本学 / 本教 | 本学/本教（大国隆正） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | hook operator | hook | 蹄铁算子（⊃） | necessary-sufficient | 逻辑学通行（material conditional 符号）；凭证 2026-11-08 | 2026-11-08 |
 | Horak（湖洛） | 湖洛 | 湖洛之辩 | korean-philosophy | 朝鲜性理学史通行（韩元震-李僩系人性物性之辩） | 2026-11-05 |
-| hormone | — | 激素 | cancer | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| hormone | — | 激素；cancer | cancer | 学界通行；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | horizon | — | 视域 | gadamer-aesthetics | 学界惯例（现象学/诠释学通行） | 2026-11-01 |
 | horizontal / vertical relations | — | 水平关系／垂直关系 | reasoning-analogy | 学界通行（Hesse 术语） | 2026-11-05 |
 | Horned Man argument | — | 有角人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
@@ -1594,6 +1599,7 @@
 | Indigenous futurity | — | 原住民未来性 | colonialism | 引介文献译名；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
 | indiscernibility of identicals | — | 同一者的不可分辨 | object 首译 | 学界通行汉译（莱布尼茨第一律）；凭证 2026-11-07 | 2026-11-07 |
 | indispensability argument | — | 不可或缺性论证 | god-necessary-being | 科学哲学与数学哲学通行译名 | 2026-11-09 |
+| indolent | — | 惰性 | cancer | 学界通行（肿瘤学，指生长缓慢不侵袭的病程）；凭证 2026-11-09 | 2026-11-09 |
 | individualism | — | 个人主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | individuation | — | 个体化 | 首译（stem-cells） | 学界惯例（形而上学通行；与已登记“个体化原理”同源）；凭证 2026-11-09 | 2026-11-09 |
 | indivisible lines | — | 不可分线 | xenocrates | 学界通行（SEP On Indivisible Lines 通行译名） | 2026-11-08 |
@@ -1607,7 +1613,7 @@
 | inertial observer | — | 惯性观察者 | spacetime-convensimul | 构词直译 | 2026-11-06 |
 | infallibility | — | 无误性 | omniscience | 学界通行译名（与 essential omniscience 分列）；凭证 2026-11-09 | 2026-11-09 |
 | infimum | — | 下确界 | logic-fuzzy | 数学通行译法；凭证 2026-11-09 | 2026-11-09 |
-| infectious agent | — | 传染因子 | cancer | 学界通行（流行病学）；凭证 2026-11-09 | 2026-11-09 |
+| infectious agent | — | 传染因子；cancer | cancer | 学界通行（流行病学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | inference rule | — | 推理规则 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
 | Inference to the Best Explanation | — | 最佳说明推理（亦作“最佳解释推理”） | abduction | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | Inference to the Worst Explanation (IWE) | — | 最差解释推理 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
@@ -1936,7 +1942,7 @@
 | Marxism | — | 马克思主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Massive Modularity Hypothesis | — | 大规模模块性假说 | 语料回收（标题词） | 学界惯例（Carruthers 心灵架构理论）；凭证 2026-11-01 | 2026-11-01 |
 | grounding objection | — | 根据反驳 | prophecy | 中知识论争论通行译法（对自由之虚拟条件句真理根据的质疑）；凭证 2026-11-09 | 2026-11-09 |
-| histopathology | — | 组织病理学 | cancer | 学界通行（病理学）；凭证 2026-11-09 | 2026-11-09 |
+| histopathology | — | 组织病理学；cancer | cancer | 学界通行（病理学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Master Argument | kyrieuon logos | 主论证 | dialectical-school | 学界通行（狄奥多罗斯决定论论证的通行译名）；凭证 2026-11-07 | 2026-11-07 |
 | fuzzy set | — | 模糊集合 | logic-fuzzy | Zadeh 1965 通行译法；凭证 2026-11-09 | 2026-11-09 |
 | high-throughput sequencing | — | 高通量测序；cancer | cancer | 学界通行（基因组学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
@@ -2251,7 +2257,7 @@
 | Nominalism in Metaphysics | — | 形而上学中的唯名论 | nominalism-metaphysics | 词条题名组合译法：沿用本册 Nominalism；metaphysics 采用哲学学界通行译名“形而上学”（2026-10-28） | 2026-10-28 |
 | nominatio | nominatio | 指称（阿伯拉尔；与 significatio 意涵相对） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | nomos | νόμος | 约定（亦作“习俗”） | 首现（justice-virtue） | 学界惯例（自然/约定之辩）；凭证 2026-11-02 | 2026-11-02 |
-| non-coding RNA | — | 非编码 RNA | cancer | 学界通行（分子生物学）；凭证 2026-11-09 | 2026-11-09 |
+| non-coding RNA | — | 非编码 RNA；cancer | cancer | 学界通行（分子生物学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | non-ascertaining perception（snang la ma nges pa） | — | 显而未定识 | epistemology-language-tibetan | 藏传量论通行（七种心识之一） | 2026-11-04 |
 | non-belying | — | 不欺诳 | epistemology-language-tibetan | 量论通行（avisaṃvāda=不欺诳） | 2026-11-04 |
 | non-bivalent world | — | 非二值世界 | logic-relevance | 多值逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -2392,7 +2398,8 @@
 | ou mallon | οὐ μᾶλλον | 并不更 | democritus | 学界通行（原子论—怀疑论“无差异”论证式；正文完整式作“并不比…更”） | 2026-11-06 |
 | ouden mallon | — | 并不更 | 首现（timon-phlius） | 学界惯例（与 ou mallon 同式，正文完整希腊形）；凭证 2026-11-07 | 2026-11-07 |
 | precision medicine | — | 精准医学；cancer | cancer | 学界通行（医学政策与生命伦理学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
-| parity | — | 产次 | cancer | 学界通行（流行病学与生殖医学）；凭证 2026-11-09 | 2026-11-09 |
+| overdiagnosis | — | 过度诊断 | cancer | 学界通行（筛查与预防医学）；凭证 2026-11-09 | 2026-11-09 |
+| parity | — | 产次；cancer | cancer | 学界通行（流行病学与生殖医学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Over-Soul | — | 超灵 | emerson | 学界通行（爱默生《论超灵》） | 2026-11-07 |
 | overdetermination | causal overdetermination | 过度决定（因果过度决定） | occasionalism 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | overpervades | — | 周遍过宽 | gorampa | 藏传因明通行（khyab che ba）；果让巴反批评宗喀巴“否定过多”之术语 | 2026-11-09 |
@@ -2607,6 +2614,7 @@
 | prāsaṅgika | प्रासङ्गिक | 应成派 | gelukpa | 藏传佛教通译（应成中观）；学界通行 | 2026-11-01 |
 | pratyakṣa | प्रत्यक्ष | 现量（印度量论） | 语料回收 | 学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | pratyakṣa（感官知觉义） | प्रत्यक्ष | 知觉（现量） | jayaraasi | j/jayaraasi 体例：作量目/认知凭据者作“现量”，作感官知觉活动者作“知觉”，随文括注原词 | 2026-11-07 |
+| precancerous lesion | — | 癌前病变 | cancer | 学界通行（病理学）；凭证 2026-11-09 | 2026-11-09 |
 | praxis / theôria / lexis | πρᾶξις / θεωρία / λέξις | 讲授次第／要义通观／文辞疏解（首现各括注原文） | olympiodorus | 亚历山大里亚注疏体三分的描述性译法（术语学界无统一汉译，Viano/Tarrant 英译作 class/overview/close reading）；凭证 2026-11-08 | 2026-11-08 |
 | pre-established harmony | — | 前定和谐 | leibniz-mind | 学界惯例（莱布尼茨译本通行，亦作"预定和谐"备查）；凭证 2026-11-03 | 2026-11-03 |
 | pre-humanist | — | 前人文主义 | marsilius-padua | 学界通行（帕多瓦前人文主义运动）；凭证 2026-11-08 | 2026-11-08 |
@@ -2680,6 +2688,7 @@
 | productive misunderstanding | — | 生产性误解 | s/scholem 首译 | 构词直译（朔勒姆术语）；凭证 2026-11-08 | 2026-11-08 |
 | progressive universal poetry | progressive Universalpoesie | 渐进的总汇诗 | 首现（schlegel） | 学界惯例（施莱格尔研究通行译法）；凭证 2026-11-07 | 2026-11-07 |
 | prohodos | πρόοδος | 流溢（进程） | neoplatonism | 新柏拉图主义研究通行（与 epistrophe 对举） | 2026-11-07 |
+| promiscuous realism | — | 混杂实在论 | cancer | 学界通行（Dupré 科学哲学）；凭证 2026-11-09 | 2026-11-09 |
 | projective geometry | — | 射影几何 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | projective sets | — | 射影集合 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | projectivism | — | 投射主义 | hobbes-moral 首译 | 学界通行（元伦理学）；凭证 2026-11-09 | 2026-11-09 |
@@ -2920,6 +2929,7 @@
 | rigorous science | — | 严格科学 | reinach | 学界惯例（胡塞尔「作为严格科学的哲学」通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | Rinzai | 臨済 | 临济（临济禅） | japanese-aesthetics | 学界惯例（日本禅宗史通行译法“临济”） | 2026-11-08 |
 | risk (decision theory) | — | 风险 | 首现（imprecise-probabilities） | 学界惯例（与 ambiguity 歧义对举）；凭证 2026-11-08 | 2026-11-08 |
+| risk factor | — | 风险因素 | cancer | 学界通行（流行病学）；凭证 2026-11-09 | 2026-11-09 |
 | risk affine | — | 风险偏好 | risk | 学界惯例（与 risk aversion 对举；亦作「风险爱好」）；凭证 2026-11-09 | 2026-11-09 |
 | risk assessment | — | 风险评估 | risk | 学界惯例（风险治理通行）；凭证 2026-11-09 | 2026-11-09 |
 | risk aversion | — | 风险厌恶 | risk | 学界惯例（经济学通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -3004,6 +3014,7 @@
 | scientific methodology | — | 科学方法论 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | scientific practice | — | 科学实践 | 语料回收 | 学界惯例（科学哲学通行）；审定库无直接收录（凭证 2026-10-29）；佐证审定库复合词“科学实践的动力学”（凭证 2026-10-29） | 2026-10-29 |
 | scientific realism | — | 科学实在论 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| screening | — | 筛查 | cancer | 学界通行（预防医学）；凭证 2026-11-09 | 2026-11-09 |
 | scientific world view | wissenschaftliche Weltauffassung | 科学世界观 | 首现（scholz） | 学界惯例（维也纳学派研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | scientism | — | 科学主义 | oakeshott 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | scottish philosophy | — | 苏格兰哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
@@ -3531,12 +3542,13 @@
 | truth-functional | — | 真值函项的 | necessary-sufficient | 逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
 | truth-maker | — | 真值制造者（亦作“真理制造者”） | reinach；首现（truth-coherence）；首现（simon-faversham） | 学界通行（truthmaker 另一形体，正文照源作 truth-maker；与 truthmaker theory 真值制造理论 同族）；simon-faversham 等篇用“真理制造者”，待三校对齐；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | truthmaker theory | — | 真值制造理论 | necessary-sufficient | 与 truth-maker 真值制造者（truth-coherence 既有行）同族；凭证 2026-11-08 | 2026-11-08 |
+| tumor organismal environment | — | 肿瘤机体环境 | cancer | 本条术语（Laplane 等 TOE，与 TME 肿瘤微环境对举）；凭证 2026-11-09 | 2026-11-09 |
 | tuistic / non-tuistic | tuism | 利他的／非利他的 | c/contractarianism 首译 | 戈蒂耶自造术语（tuistic），学界通行译法；凭证 2026-11-07 | 2026-11-07 |
 | tuphos | — | 虚妄 | 首现（timon-phlius） | 学界惯例（犬儒派抨击术语，vanity；第蒙 *hupatuphos* 词根）；凭证 2026-11-07 | 2026-11-07 |
 | Twin Earth | — | 孪生地球 | 语料回收（标题词） | 学界惯例（心灵哲学（普特南思想实验）通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | two truths | — | 二谛（佛教；犹太哲学语境亦作“两种真理”） | gelukpa、delmedigo | 佛学界通行译名（真谛/俗谛） | 2026-11-01 |
 | Two Visual Systems Model | — | 双视觉系统模型 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法（Goodale–Milner）；凭证 2026-11-06 | 2026-11-06 |
-| tumor microenvironment | — | 肿瘤微环境 | cancer | 学界通行（肿瘤生物学）；凭证 2026-11-09 | 2026-11-09 |
+| tumor microenvironment | — | 肿瘤微环境；cancer | cancer | 学界通行（肿瘤生物学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | two-layer structure | — | 双层结构 | logic-preference | 本领域通行（优先基+偏好） | 2026-11-05 |
 | impassibility | — | 不动情性 | petitionary-prayer | 神学通行译法（divine impassibility：不受外物影响）；凭证 2026-11-09 | 2026-11-09 |
 | counterfactual power | — | 反事实能力 | petitionary-prayer | 构词直译（counterfactual power over God's knowledge）；凭证 2026-11-09 | 2026-11-09 |
@@ -3641,7 +3653,7 @@
 | venesection | — | 静脉切开放血 | locke-on-medicine | 医史通行（简称“放血术”） | 2026-11-05 |
 | verbal object（sgra don，śabdārtha） | — | 声义 | epistemology-language-tibetan | 量论通行 | 2026-11-04 |
 | verisimilitude | — | 逼真性 | 语料回收（lakatos 首译） | 波普尔研究通行译法（truth-likeness 亦译似真性）；凭证 2026-11-06 | 2026-11-06 |
-| tumor suppressor | — | 抑癌基因 | cancer | 学界通行（癌症遗传学）；凭证 2026-11-09 | 2026-11-09 |
+| tumor suppressor | — | 抑癌基因；cancer | cancer | 学界通行（癌症遗传学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Verstehen | Verstehen | 理解 | jaspers 首译 | 学界通行（狄尔泰解释学「理解/说明」二分；中文狄尔泰研究通译）；凭证 2026-11-09 | 2026-11-09 |
 | Verstehende Psychologie | Verstehende Psychologie | 理解心理学 | jaspers 首译 | 学界通行（《普通精神病理学》方法论；与说明心理学对举）；凭证 2026-11-09 | 2026-11-09 |
 | Versuch theory | — | 《尝试》理论（洛伦兹 1895 论文 Versuch 简称） | spacetime-convensimul | 构词直译（德文 Versuch=尝试） | 2026-11-06 |
