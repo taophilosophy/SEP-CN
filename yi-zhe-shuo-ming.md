@@ -30,6 +30,7 @@
 | ableism | — | 能力主义 | disability | 学界通行译名（失能研究）；凭证 2026-11-09 | 2026-11-09 |
 | absolute adjectives | — | 绝对形容词 | 首译（experimental-aesthetics） | 语言学通行（与相对形容词二分） | 2026-11-09 |
 | absolute idealism | — | 绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| absolute income hypothesis | — | 绝对收入假说 | justice-inequality-health | 收入与健康研究通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | absolute music | — | 绝对音乐 | music | 学界通行（与标题音乐对举）；凭证 2026-11-09 | 2026-11-09 |
 | absolute power (of God) | — | 上帝的绝对权能 | condemnation 首译 | 学界通行汉译（potentia Dei absoluta）；凭证 2026-11-08 | 2026-11-08 |
 | absolute term | — | 绝对词项 | ockham | 王路译本《逻辑大全》作「绝对的名」；与含蓄词项对偶；凭证 2026-11-07 | 2026-11-07 |
@@ -124,20 +125,6 @@
 | aggregation rule | — | 聚合规则 | jury-theorems | 学界惯例（社会选择理论通行）；凭据 2026-11-02 | 2026-11-02 |
 | agnosticism | — | 不可知论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | agreeableness | — | 宜人性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10 | 2026-11-10 |
-| Swampman | — | 沼泽人 | davidson 首译 | 戴维森思想实验通行；凭证 2026-11-10 | 2026-11-10 |
-| T-sentence | — | T 句 | davidson 首译 | 塔尔斯基真理理论通行（与 Convention T 约定 T 相承）；凭证 2026-11-10 | 2026-11-10 |
-| anomalism of the mental | — | 心理的变异性 | davidson 首译 | 与变异一元论（anomalous monism，termonline 定名 2026-10-27）同族取“变异”形；凭证 2026-11-10 | 2026-11-10 |
-| conceptual relativism | — | 概念相对主义 | davidson 首译 | Davidson/蒯因研究文献通行；凭证 2026-11-10 | 2026-11-10 |
-| conceptual scheme | — | 概念图式 | davidson 首译 | 蒯因/戴维森研究通行（“图式”承康德 Schema 译名）；凭证 2026-11-10 | 2026-11-10 |
-| holding true | — | 视为真 | davidson 首译 | 戴维森语义学通行；凭证 2026-11-10 | 2026-11-10 |
-| holism | — | 整体论 | davidson 首译 | 蒯因/戴维森研究通行（与 meaning holism 意义整体论相承）；凭证 2026-11-10 | 2026-11-10 |
-| indeterminacy of translation | — | 翻译的非确定性 | davidson 首译 | 与 indeterminacy 非确定性（既有行 2026-11-08）同族分列；蒯因通行；凭证 2026-11-10 | 2026-11-10 |
-| omniscient interpreter | — | 全知解释者 | davidson 首译 | 戴维森认识论通行（omniscient 全知既有行同根）；凭证 2026-11-10 | 2026-11-10 |
-| primary reason | — | 首要理由 | davidson 首译 | 戴维森行动理论通行；凭证 2026-11-10 | 2026-11-10 |
-| principle of charity | — | 慈善原则 | davidson 首译 | 戴维森/蒯因解释论通行（亦作“宽容原则”）；凭证 2026-11-10 | 2026-11-10 |
-| pro-attitude | — | 肯定态度 | davidson 首译 | 戴维森行动理论通行；凭证 2026-11-10 | 2026-11-10 |
-| radical interpretation | — | 彻底解释 | davidson 首译 | 戴维森语言哲学通行；凭证 2026-11-10 | 2026-11-10 |
-| triangulation | — | 三角测量 | davidson 首译 | 戴维森后期哲学通行（测绘隐喻术语）；凭证 2026-11-10 | 2026-11-10 |
 | āhāryāropa | आहार्यारोप | 假想赋予 | early-modern-india | 正理思择义译（counterfactual supposition；āropa 之限定形）；凭证 2026-11-10 | 2026-11-10 |
 | ahiṃsā | अहिंसा | 不害（非暴力） | jaina-philosophy | 学界千年通行（印度宗教共同术语） | 2026-11-08 |
 | ahimsa | — | 不害 | colonialism | 印度哲学通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -702,6 +689,7 @@
 | Confucian | — | 儒家的（Confucian practical philosophy 儒家实践哲学，指孔子学说） | 18thGerman-preKant | 学界通行汉译（对齐既有行 Confucius=孔子） | 2026-11-05 |
 | Confucianism | — | 儒家思想 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | congruence | — | 一致（吻合） | justep-coherence | 学界惯例（Lewis 术语 congruence 通行译法“一致/吻合”） | 2026-11-02 |
+| coronary heart disease | — | 冠心病 | justice-inequality-health | 医学通行汉译（CHD 缩写照录）；凭证 2026-11-10 | 2026-11-10 |
 | Yale shooting problem | — | 耶鲁射击问题 | f/frame-problem 首译 | AI 逻辑史通行译名（Hanks–McDermott 1987）；凭证 2026-11-10 | 2026-11-10 |
 | congruitas | congruitas | 合语法性 | 首现（sophismata） | 学界惯例（中世纪语法研究保留拉丁原词）；凭证 2026-11-07 | 2026-11-07 |
 | conic hypersurface | — | 锥形超曲面 | spacetime-convensimul | 构词直译 | 2026-11-06 |
@@ -1639,6 +1627,9 @@
 | Hasidism | — | 哈西德主义 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
 | hatsuboku | 泼墨 | 泼墨 | japanese-aesthetics | 学界惯例（日本水墨画研究通行译法“泼墨”） | 2026-11-02 |
 | Ḥayy ibn Yaqẓān | حي بن يقظان | 《哈义·本·叶格赞》（伊本·图斐利著；亦译《觉民之子》） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| health disparity | — | 健康差距 | justice-inequality-health | 公共卫生通行汉译（本词条指群体间健康差异）；凭证 2026-11-10 | 2026-11-10 |
+| health equity | — | 健康公平 | justice-inequality-health | WHO 与公共卫生伦理通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| health inequality | — | 健康不平等 | justice-inequality-health | 公共卫生与正义理论通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Hedonic Utilitarianism | — | 快乐论功利主义 | 首现（intuitionism-ethics） | 学界通行（功利主义史标准译名） | 2026-11-09 |
 | hedonism | — | 快乐主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | hegemonikon | ἡγεμονικόν | 灵魂的主导部分（斯多亚） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；亦作「统治部分」（telesio，2026-11-08 登记时依先登优先从正形）；凭证 2026-11-04 | 2026-11-04 |
@@ -1825,6 +1816,7 @@
 | incentive sensitivity | — | 激励敏感性 | moral-responsibility-empirical | Pickard 术语（行动随激励增减而变化） | 2026-11-07 |
 | incipit/desinit | incipit/desinit | 开始存在／停止存在 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | inclusion axioms | — | 包含公理 | logic-preference | 模态逻辑公理化通行（本词条图 6） | 2026-11-08 |
+| incompensable | — | 不可补偿的 | justice-inequality-health | Hausman 术语（与“可补偿的”对举）；凭证 2026-11-10 | 2026-11-10 |
 | incompleteness / incomparability | — | 不完备性／不可比性 | 首现（imprecise-probabilities） | 学界惯例（决策论通行）；凭证 2026-11-08 | 2026-11-08 |
 | inconsistent triad | — | 不一致三元组 | intentionality-ancient | 本库行文（三命题互不相容之组） | 2026-11-07 |
 | inconsistent world | — | 不一致世界 | logic-relevance | 次协调逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -2166,6 +2158,7 @@
 | licit/illicit | — | 合法／非法（绝对意义） | marsilius-padua | 学界通行（马西利乌斯术语）；凭证 2026-11-08 | 2026-11-08 |
 | Lienü Zhuan | 列女傳 | 《列女传》 | han-dynasty | 刘向书，学界通行学名 | 2026-11-10 |
 | Liezi | 列子 | 《列子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| life expectancy | — | 预期寿命 | justice-inequality-health | 人口学与公共卫生通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | light cone | — | 光锥 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
 | light-signal method | — | 光信号法 | spacetime-convensimul | 构词直译 | 2026-11-06 |
 | Liji | 禮記 | 《礼记》 | han-dynasty | 学界通行学名 | 2026-11-10 |
@@ -2669,7 +2662,7 @@
 | numerical identity | — | 数值同一（亦作“数的同一性”） | 首译（stem-cells） | 学界惯例（形而上学同一性文献通行）；凭证 2026-11-09 | 2026-11-09 |
 | numerical unity | unitas numeralis | 数值统一性 | 首译（sharpe） | 经院哲学通行（numerical 数值/数目义，与 specific unity 种的统一性对举）；凭证 2026-11-09 | 2026-11-09 |
 | numinous | — | 努秘（奥托 das Heilige 语境） | 首现（emotion-Christian-tradition） | 学界惯例（汉语宗教学界通行（《论“神圣”》译本））；凭证 2026-11-04 | 2026-11-04 |
-| Nyāya | न्याय | 正理派 | early-modern-india 首译 | 千年通行（正理派；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
+| Nyāya | न्याय | 正理（派） | early-modern-india 首译 | 千年通行（正理派；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
 | Nyāya-sūtra | न्यायसूत्र | 《逻辑经》 | early-modern-india | 本库家法（jaina-philosophy 先例；简称 NS 沿用）；凭证 2026-11-10 | 2026-11-10 |
 
 ## O
@@ -3192,6 +3185,7 @@
 
 ## Q
 
+| QALYs | — | 质量调整生命年 | justice-inequality-health | 卫生经济学通行汉译（QALY 质量调整生命年）；凭证 2026-11-10 | 2026-11-10 |
 | qi | 氣 | 气（拼音转写，汉字即译名） | 语料回收（中文哲学词条群） | 学界惯例；审定命中为中医药域同名不采（凭证 2026-10-30） | 2026-10-30 |
 | Qianfulun | 潛夫論 | 《潜夫论》 | han-dynasty | 王符书，学界通行学名 | 2026-11-10 |
 | Qingtan | 清談 | 清谈 | han-dynasty | 学界通行（pure talk） | 2026-11-10 |
@@ -3323,6 +3317,7 @@
 | relationalism（space and time） | — | 关系论 | newton-philosophy | 时空哲学通行（与绝对论对举） | 2026-11-10 |
 | relative adjectives | — | 相对形容词 | 首译（experimental-aesthetics） | 语言学通行 | 2026-11-09 |
 | relative frequency | — | 相对频率 | 语料回收 | 审定名词库（termonline-all·复合词“相对频率法”佐证，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| relative income hypothesis | — | 相对收入假说 | justice-inequality-health | 收入与健康研究通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | relative-state formulation | — | 相对态表述 | qt-entangle | 学界通行译名（Everett 1957）；凭证 2026-11-09 | 2026-11-09 |
 | Relativism | — | 相对主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | relativistic cosmology | — | 相对论宇宙学 | cosmology-30s 首译 | 宇宙学通行（广义相对论框架下的宇宙学，本词条主角阵营）；凭证 2026-11-08 | 2026-11-08 |
@@ -3375,6 +3370,7 @@
 | retinal image | — | 视网膜像 | 语料回收（标题词） | 学界惯例（视觉科学通行；审定“视网膜成像”复合佐证）；凭证 2026-11-01 | 2026-11-01 |
 | retributive justice | — | 报应正义 | justice-moral-psych | 学界通行汉译（与“分配正义”对举）；凭证 2026-11-10 | 2026-11-10 |
 | Revelation | — | 启示 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
+| reverse causation | — | 反向因果 | justice-inequality-health | 方法论通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | reverse mathematics | — | 反推数学 | 首现（intuitionism） | 数理逻辑通行译名（亦作“逆向数学”）；凭证 2026-11-10 | 2026-11-10 |
 | rewilding | — | 再野化 | 首现（environmental-aesthetics） | 生态学通行（亦作“野化”备查） | 2026-11-08 |
 | rhapsode | — | 诵诗人 | 首现（xenophanes） | 学界通行（古希腊职业诵诗者）；凭证 2026-11-07 | 2026-11-07 |
@@ -3668,9 +3664,11 @@
 | social constructionism | — | 社会建构论 | disability | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
 | social contract | — | 社会契约论（亦作“社会契约”） | august-rehberg 首译 | 政治哲学通行（理论名从词汇表既定形，2026-11-08 冲突归一）；凭证 2026-11-08 | 2026-11-08 |
 | social criticism | — | 社会批评 | oakeshott 首译 | 学界通行汉译（沃尔泽《正义诸领域》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| social determinants of health | — | 健康的社会决定因素 | justice-inequality-health | WHO 通行汉译（健康社会决定因素）；凭证 2026-11-10 | 2026-11-10 |
 | social dilemma | — | 社会困境 | justice-moral-psych | 社会两难与合作研究通行汉译（与“讨价还价博弈”对举）；凭证 2026-11-10 | 2026-11-10 |
 | social epistemology | — | 社会认识论 | s/social-procedures 首译 | 学界通行译法（哲学通行）；凭证 2026-11-07 | 2026-11-07 |
 | social facts | — | 社会事实（涂尔干） | 语料回收 | 学界惯例（社会哲学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| social gradient in health | — | 健康的社会梯度 | justice-inequality-health | 公共卫生通行汉译（Whitehall 研究术语）；凭证 2026-11-10 | 2026-11-10 |
 | social justice | — | 社会正义（亦作“社会公正”） | 语料回收 | 学界惯例（政治哲学/罗尔斯译本通行）；审定库无直接收录（凭证 2026-10-29）；审定库“社会公正”为地理学域不采（凭证 2026-10-29） | 2026-10-29 |
 | social model | — | 社会模型 | disability | 学界通行译名（失能研究）；凭证 2026-11-09 | 2026-11-09 |
 | social normativity | — | 社会规范性 | reinach | 本词条首译（与 axiological normativity 对举）；凭证 2026-11-09 | 2026-11-09 |
@@ -3815,6 +3813,7 @@
 | striving possibles | — | 力求存在的可能者 | leibniz-modal | 学界惯例（莱布尼茨研究通行，亦作“力争存在的可能者”备查）；凭证 2026-11-03 | 2026-11-03 |
 | strong completeness | — | 强完全性 | logic-fuzzy | 证明论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | strong conjunction | — | 强合取 | logic-fuzzy | 模糊逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
+| structural inequality | — | 结构性不平等 | justice-inequality-health | 政治哲学通行汉译（Young 术语）；凭证 2026-11-10 | 2026-11-10 |
 | structural realism | — | 结构实在论（“结构现实主义”是国际关系理论译名，勿混） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | structural rule | — | 结构规则 | logical-consequence | 子结构逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | structural rules | — | 结构规则（证明论） | 语料回收 | 学界惯例（逻辑学界通行）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
@@ -4238,7 +4237,7 @@
 | vagueness | — | 模糊性 | 首现（imprecise-probabilities） | 学界惯例（语言哲学与认识论通行）；凭证 2026-11-08 | 2026-11-08 |
 | Vaibhāṣika | वैभाषिक | 毗婆沙宗 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
 | vainglory | — | 虚荣 | hobbes-moral 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
-| vaiśeṣika | वैशेषिक | 胜论派 | early-modern-india 首译 | 千年通行汉译（胜宗；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
+| vaiśeṣika | वैशेषिक | 胜论（派） | early-modern-india 首译 | 千年通行汉译（胜宗；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
 | Vaiśeṣika-sūtra | — | 《胜论经》 | early-modern-india | 学界通行（承「胜论」派名；简称 VS）；凭证 2026-11-10 | 2026-11-10 |
 | vajra | 金剛杵 | 金刚（杵） | kukai | 佛学界传统译名 | 2026-11-09 |
 | Vajrasattva / Kongō-satta | 金剛薩埵 | 金刚萨埵 | kukai | 佛学界千年传统译名 | 2026-11-09 |
@@ -4360,6 +4359,7 @@
 | what expresses / what is expressed（rjod byed / brjod bya） | — | 能诠／所诠 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
 | Whig history | — | 辉格史 | oakeshott 首译 | 学界通行汉译（巴特菲尔德《历史的辉格解释》中译本）；凭证 2026-11-07 | 2026-11-07 |
 | whiggish | — | 辉格式的（史学术语，指以今度旧的进步史观） | 18thGerman-preKant | 学界通行汉译（史学理论惯例） | 2026-11-05 |
+| Whitehall studies | — | 白厅研究 | justice-inequality-health | 学界通行音译（Whitehall 白厅）；凭证 2026-11-10 | 2026-11-10 |
 | whole of ends | — | 目的整体 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | wholly present | — | 整个地临在 | omnipresence | 学界通行（奥古斯丁/安瑟伦传统）；凭证 2026-11-08 | 2026-11-08 |
 | wide reflective equilibrium | — | 广义反思平衡 | 首现（truth-coherence） | 学界通行（Rawls 1971）；凭证 2026-11-07 | 2026-11-07 |
