@@ -2,7 +2,7 @@
   "slug": "bessarion",
   "kind": "retranslate",
   "zh_doc": "b/bessarion.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,13 @@
       "actor": "?",
       "at": "2026-11-01T20:24:19Z",
       "evidence": ""
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "B-main-20261109c",
+      "at": "2026-11-09T20:49:52Z",
+      "evidence": "逐节对读 24 段正文＋导语＋尾部四节（对照 yuanwen/b/bessarion.md）：①人名订正 26 处对齐登记册主形（马尔西利奥·费奇诺×2、格弥斯托斯·普莱东×4、普罗克洛斯×2、辛普里丘×3、库萨的尼古拉、尼古拉五世、尼古拉·马尼亚库提亚、狄摩西尼、西斯笃四世、伊本·鲁世德（阿威罗伊）、亨利·德·佐梅伦、彼得·德里沃、勒费弗尔·戴塔普尔×2、皮耶特罗·彭波那齐、凯撒利亚的优西比乌）；②结构四件：refs 子标题还原英文（Primary/Secondary Literature）、学术工具改中文四行 bullet（模板 v1.3）、OIR 链接文本译出、相关词条补加粗译注占位行；③实修 4 处：divine causality in the world→神对世界的因果作用（消歧义）、妇女公用→妇女共有、alleged→实际的与所谓的、(see, e.g.)→（例如见）（全库成例）；④defs 91:91 键集全等，2 条逐字符对齐现行镜像（eleuteri-1994 希腊文 NFD 规范形、rigo-2021 draft 转抄笔误 manuscritti 正形）；⑤ren-ming-biao 补登 22 行（折叠键序插入）；混形提请裁定不自行换用：勒菲弗·戴塔普勒（SUMMARY/相关行）vs 勒费弗尔·戴塔普尔（登记册/正文）、彼得罗（SUMMARY/相关行）vs 皮耶特罗（登记册/正文）。三检绿：style 0／academic --strict 0／terms 定点 0。"
     }
   ],
   "blockers": [],
