@@ -2,7 +2,7 @@
   "slug": "william-jevons",
   "kind": "retranslate",
   "zh_doc": "w/william-jevons.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "TZ-main-20261107",
       "at": "2026-11-07T15:13:43Z",
       "evidence": "体例校：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_terms 硬错误 0（词汇表滞后 4 系既有）、check_all 七项全绿；术语 36 行/人名 13 行入册（bisect 插入、先查后登）；单会话作业冷置后走复审波 r1-r3"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T14:39:32Z",
+      "evidence": "r1 回源逐节核销（导语+7 节全对照）：正文零 Critical/Major/漏译——探针 NUM 19/20 为 19th/20th century→十九/二十世纪体例、1860 为 early 1860s→六十年代初；ENRES 4 为 References 书名照录。实修 2 处体例——H1 下空行（MD022）、推理形式列表 dash→asterisk×7（MD004）。四检：style 0/academic 0 硬/math 0/prose 0；lint 0"
     }
   ],
   "blockers": [],

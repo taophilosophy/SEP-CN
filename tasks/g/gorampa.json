@@ -2,7 +2,7 @@
   "slug": "gorampa",
   "kind": "retranslate",
   "zh_doc": "g/gorampa.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "REV-main-20261109",
       "at": "2026-11-09T14:26:55Z",
       "evidence": "r1 回源逐节核销（导语+3 节含 2.1–2.4 全对照，无 Critical/Major）：实修 2 处——Nalendra 加英文名防与印度那烂陀混淆（登记册新增 Nalendra monastery 行）、ascended to political power 政教大权→政权（源文只说 political）。探针 NUM 20 为 20th century→二十世纪体例；BLOCK +1 为 zh 分段，非漏译；MMK I:1 引文用鸠摩罗什汉译通行偈，内容等值。四检：style 0/academic 0 硬/math 0/prose 0；markdownlint 0；summary H1 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T14:31:45Z",
+      "evidence": "r2 逐句回核（新问题）：实修 1——§2.2 fourfold analysis 补「用作佛教哲学传统中的工具」限定（原句易读作泛用工具）；全篇模态/否定辖域/论证链复核无反转（四边破除顺序依赖、med dgag 无遮 vs 宗喀巴双重否定、khyab chung/che 两向批评）；prose 0、style 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T14:40:27Z",
+      "evidence": "r3 冷置回读（隔 william-jevons 全条 r1）：终读无新增问题；markdownlint 本文件 0 error；check_all 7/7 全绿；验收签字"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T14:40:27Z",
+      "evidence": "r1–r3 全过（r1 实修 2+r2 实修 1），四检绿、check_all 7/7、lint 0；冷置条款满足（r2→r3 间完成 william-jevons r1）；登记 Nalendra monastery 1 行"
     }
   ],
   "blockers": [],
