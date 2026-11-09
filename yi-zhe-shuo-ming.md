@@ -3353,3 +3353,62 @@
 | willingness to pay | — | 支付意愿 | risk | 学界惯例（环境经济学通行）；凭证 2026-11-09 | 2026-11-09 |
 | variance | — | 方差 | risk | 审定名词库统计学术语通行译名；凭证 2026-11-09 | 2026-11-09 |
 | Hedonic Utilitarianism | — | 快乐论功利主义 | 首现（intuitionism-ethics） | 学界通行（功利主义史标准译名） | 2026-11-09 |
+| perennial philosophy | philosophia perennis | 永恒哲学 | cambridge-platonists 补登 | 学界通行（文艺复兴「永恒哲学」说；斯图科 De perenni philosophia） | 2026-11-09 |
+| Calvinism | Calvinistic scholasticism | 加尔文主义 | cambridge-platonists 补登 | 学界通行（加尔文宗神学）；凭证 2026-11-09 | 2026-11-09 |
+| infinite space | — | 无限空间 | cambridge-platonists 补登 | 学界通行（莫尔空间学说；与笛卡尔广延论对照） | 2026-11-09 |
+| Plastic Nature | the Plastick Life of Nature | 塑形自然 | cambridge-platonists 补登 | 学界通行（库德沃斯术语；Spirit of Nature 自然精神 与之对举） | 2026-11-09 |
+| divine archetype | — | 神圣原型 | cambridge-platonists 补登 | 学界通行（柏拉图主义 archetype/ectype 对举） | 2026-11-09 |
+| argument from design | — | 设计论证 | cambridge-platonists 补登 | 学界通行（自然神学论证）；凭证 2026-11-09 | 2026-11-09 |
+| vitalism | — | 活力论 | cambridge-platonists 补登 | 学界通行（法国启蒙运动活力论论辩）；凭证 2026-11-09 | 2026-11-09 |
+| Origenism | Origenist doctrine | 奥利金主义 | cambridge-platonists 补登 | 学界通行（灵魂先在说）；凭证 2026-11-09 | 2026-11-09 |
+| autexousion | autoexousy | 自主能力（autexousion） | cambridge-platonists 补登 | 普罗提诺术语（库德沃斯与莫尔取用）；凭证 2026-11-09 | 2026-11-09 |
+| human embryonic stem cell (HESC) | — | 人类胚胎干细胞 | 首译（stem-cells） | 学界惯例（干细胞生物学通行；HESC 缩写保留）；凭证 2026-11-09 | 2026-11-09 |
+| trophoblast | — | 滋养层 | 首译（stem-cells） | 学界惯例（胚胎学通行；与 trophectoderm 滋养外胚层区分）；凭证 2026-11-09 | 2026-11-09 |
+| inner cell mass | — | 内细胞团 | 首译（stem-cells） | 学界惯例（胚胎学通行）；凭证 2026-11-09 | 2026-11-09 |
+| stem cell line | — | 干细胞系 | 首译（stem-cells） | 学界惯例（干细胞生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| self-renewal | — | 自我更新 | 首译（stem-cells） | 学界惯例（干细胞生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| cell differentiation | — | 细胞分化 | 首译（stem-cells） | 学界惯例（细胞生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| zygote | — | 受精卵 | 首译（stem-cells） | 学界惯例（胚胎学通行）；凭证 2026-11-09 | 2026-11-09 |
+| monozygotic twinning | — | 同卵孪生（亦作“单卵孪生”） | 首译（stem-cells） | 学界惯例（发育生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| numerical identity | — | 数值同一（亦作“数的同一性”） | 首译（stem-cells） | 学界惯例（形而上学同一性文献通行）；凭证 2026-11-09 | 2026-11-09 |
+| transitivity | — | 传递性 | 首译（stem-cells） | 学界惯例（逻辑与形而上学通行）；凭证 2026-11-09 | 2026-11-09 |
+| individuation | — | 个体化 | 首译（stem-cells） | 学界惯例（形而上学通行；与已登记“个体化原理”同源）；凭证 2026-11-09 | 2026-11-09 |
+| right to life | — | 生命权 | 首译（stem-cells） | 学界惯例（生命伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
+| social utility | — | 社会效用 | 首译（stem-cells） | 学界惯例（伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
+| metaphysical guilt | — | 形而上学罪责（亦作“形而上学罪感”） | 首译（stem-cells） | 学界惯例（集体责任文献汉译）；凭证 2026-11-09 | 2026-11-09 |
+| moral taint | — | 道德污点 | 首译（stem-cells） | 学界惯例（道德责任文献通行）；凭证 2026-11-09 | 2026-11-09 |
+| epigenetic primordia | — | 表观遗传原基 | 首译（stem-cells） | 学界惯例（发育生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| rational nature | — | 理性本性 | 首译（stem-cells） | 学界惯例（自然法伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
+| active disposition | — | 主动倾向 | 首译（stem-cells） | 照文直译（潜能论术语，与“内在力量”配对）；凭证 2026-11-09 | 2026-11-09 |
+| intrinsic power | — | 内在力量 | 首译（stem-cells） | 照文直译（潜能论术语，与“主动倾向”配对）；凭证 2026-11-09 | 2026-11-09 |
+| spare embryos | — | 剩余胚胎 | 首译（stem-cells） | 学界惯例（生殖医学通行；源文亦作 leftover embryos）；凭证 2026-11-09 | 2026-11-09 |
+| in vitro fertilization (IVF) | — | 体外受精 | 首译（stem-cells） | 学界惯例（生殖医学通行；IVF 缩写保留）；凭证 2026-11-09 | 2026-11-09 |
+| gamete | — | 配子 | 首译（stem-cells） | 学界惯例（发育生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| stem cell bank | — | 干细胞库 | 首译（stem-cells） | 学界惯例（生命伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
+| HLA types | — | HLA 型 | 首译（stem-cells） | 学界惯例（免疫遗传学通行；HLA 缩写不译）；凭证 2026-11-09 | 2026-11-09 |
+| preimplantation genetic diagnosis (PGD) | — | 植入前遗传学诊断 | 首译（stem-cells） | 学界惯例（生殖医学通行；PGD 缩写保留）；凭证 2026-11-09 | 2026-11-09 |
+| organoid | — | 类器官 | 首译（stem-cells） | 学界惯例（干细胞生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| cerebral organoid | — | 脑类器官 | 首译（stem-cells） | 学界惯例（神经伦理与干细胞文献通行）；凭证 2026-11-09 | 2026-11-09 |
+| gastruloid | — | 类原肠胚 | 首译（stem-cells） | 构词直译（gastrula 原肠胚 + -oid；学界新造术语）；凭证 2026-11-09 | 2026-11-09 |
+| gastrulation | — | 原肠胚形成 | 首译（stem-cells） | 学界惯例（胚胎学通行）；凭证 2026-11-09 | 2026-11-09 |
+| synthetic embryo | — | 合成胚胎 | 首译（stem-cells） | 学界惯例（发育生物学与生命伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
+| body plan | — | 体型蓝图（亦作“身体蓝图”） | 首译（stem-cells） | 学界惯例（发育生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| afferent stimulation | — | 传入刺激 | 首译（stem-cells） | 学界惯例（神经科学通行）；凭证 2026-11-09 | 2026-11-09 |
+| phenomenal consciousness | — | 现象意识 | 首译（stem-cells） | 学界惯例（意识研究通行）；凭证 2026-11-09 | 2026-11-09 |
+| microcephaly | — | 小头畸形 | 首译（stem-cells） | 学界惯例（医学通行）；凭证 2026-11-09 | 2026-11-09 |
+| Zika virus | — | 寨卡病毒 | 首译（stem-cells） | 学界惯例（医学通行）；凭证 2026-11-09 | 2026-11-09 |
+| doctrine of double effect | — | 双重效应原则（亦作“双重效应学说”） | 语料回收（标题词，double-effect 词条） | SUMMARY 定名沿用（double effect, doctrine of）；跨条一致；凭证 2026-11-09 | 2026-11-09 |
+| giftedness of life | — | 生命的馈赠性（亦作“生命的赠予性”） | 首译（stem-cells） | 学界惯例（桑德尔《反对完美》汉译用语）；凭证 2026-11-09 | 2026-11-09 |
+| reproductive cloning | — | 生殖性克隆 | 首译（stem-cells） | 学界惯例（生命伦理学通行；与已登记“研究性克隆”配对）；凭证 2026-11-09 | 2026-11-09 |
+| non-consequentialism | — | 非后果主义 | 首译（stem-cells） | 学界惯例（与已登记“后果论（亦作后果主义）”配对）；凭证 2026-11-09 | 2026-11-09 |
+| immune recognition | — | 免疫识别 | 首译（stem-cells） | 学界惯例（免疫学通行）；凭证 2026-11-09 | 2026-11-09 |
+| assisted reproductive technology | — | 辅助生殖技术 | 首译（stem-cells） | 学界惯例（生殖医学通行）；凭证 2026-11-09 | 2026-11-09 |
+| egg donor | — | 卵子捐赠者 | 首译（stem-cells） | 学界惯例（生殖医学通行）；凭证 2026-11-09 | 2026-11-09 |
+| chimera（生物医学语境） | — | 嵌合体 | 首译（stem-cells） | SUMMARY 定名沿用（chimeras, human/non-human 人类/非人类嵌合体）；与神话义键 chimera 客迈拉分列；凭证 2026-11-09 | 2026-11-09 |
+| cosmopolitanism | — | 世界主义 | SUMMARY 定名沿用（cosmopolitanism 词条） | SUMMARY 题名；跨条一致 | 2026-11-09 |
+| cosmopolitan | — | 世界主义的 | 首译（cosmopolitanism） | 与本条世界主义同族（形容词形态）；凭证 2026-11-09 | 2026-11-09 |
+| world citizen | — | 世界公民 | 首译（cosmopolitanism） | 学界通行（kosmopolitēs 世界公民，第欧根尼典）；凭证 2026-11-09 | 2026-11-09 |
+| cosmopolis | — | 世界城邦 | 首译（cosmopolitanism） | 学界通行（斯多亚术语；与 polis 城邦对举）；凭证 2026-11-09 | 2026-11-09 |
+| panhellenism | — | 泛希腊主义 | 首译（cosmopolitanism） | 学界通行（希腊史）；凭证 2026-11-09 | 2026-11-09 |
+| anti-cosmopolitan | — | 反世界主义（的） | 首译（cosmopolitanism） | 本条术语（与 uncosmopolitan 非世界主义区分使用）；凭证 2026-11-09 | 2026-11-09 |
+| uncosmopolitan | — | 非世界主义（的） | 首译（cosmopolitanism） | 本条术语（作者刻意弱于 anti-cosmopolitan）；凭证 2026-11-09 | 2026-11-09 |

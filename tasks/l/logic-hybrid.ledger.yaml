@@ -547,113 +547,151 @@ segments:
     kind: body
     source: |-
       A number of papers have dealt with axioms for hybrid logic, for example Gargov and Goranko (1993), Blackburn (1993), and Blackburn and Tzakova (1999). In the paper Gargov and Goranko (1993) an axiom system for hybrid logic is given, and it is shown that if the system is extended with a set of additional axioms which are *pure* formulas (that is, formulas where all propositional symbols are nominals), then the extended axiom system is complete with respect to the class of frames validating the axioms in question. Pure formulas correspond to first-order conditions on the accessibility relation (cf. the translation $\mathrm{ST}_\mathtt{a}$ above), so axiom systems for new hybrid logics with first-order conditions on the accessibility relation can be obtained in a uniform way simply by adding axioms as appropriate. So, if, for example, the formula $\mathtt{c\rightarrow \Box \neg c}$ is added as an axiom, then the resulting system is complete with respect to irreflexive frames, as we mentioned earlier. See the discussion of such rules in Section 4 of the paper Blackburn (2000).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      混合逻辑的公理已有不少论文处理，例如 Gargov and Goranko (1993)、Blackburn (1993) 与 Blackburn and Tzakova (1999)。Gargov and Goranko (1993) 给出了混合逻辑的一个公理系统，并表明：若给该系统增加一组作为 *纯* 公式（即所有命题符号都是名项的公式）的附加公理，则扩展后的公理系统相对于使这些公理有效的框架类完全。纯公式对应于可及关系上的一阶条件（参上述翻译 $\mathrm{ST}_\mathtt{a}$），因此，为具有可及关系一阶条件的新混合逻辑建立公理系统，可以统一地通过按需增加公理而得到。于是，例如，若把公式 $\mathtt{c\rightarrow \Box \neg c}$ 作为公理加入，所得系统相对于非自反框架完全，如前所述。此类规则的讨论见 Blackburn (2000) 第 4 节。
+    step2: |-
+      混合逻辑的公理系统，已有不少论文讨论，如 Gargov and Goranko (1993)、Blackburn (1993)、Blackburn and Tzakova (1999)。Gargov and Goranko (1993) 给出一个混合逻辑公理系统，并证明：若增补一组 *纯* 公式（即所有命题符号均为名项的公式）作为附加公理，则扩展后的系统相对于使这些公理有效的框架类完全。纯公式对应可及关系上的一阶条件（参前述翻译 $\mathrm{ST}_\mathtt{a}$），故凡以可及关系一阶条件刻画的新混合逻辑，其公理系统皆可按需增补公理而统一获得。例如加入公理 $\mathtt{c\rightarrow \Box \neg c}$，所得系统即相对于非自反框架完全（如前所述）。此类规则的讨论见 Blackburn (2000) 第 4 节。
   - id: 64
     kind: body
     source: |-
       The proof­ system in Gargov and Goranko (1993) makes use of a complex rule (called COV) where the formula schema containing the active part of the rule can be arbitrarily large; in fact, the active part is embedded under arbitrarily deep nestings of modal operators. Blackburn and Tzakova (1999) shows that satisfaction operators can be used to formulate an axiom system in a more standard format, using a simpler rule called PASTE, such that the system is still complete when extended with pure axions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Gargov and Goranko (1993) 的证明系统使用一条复杂规则（称为 COV），其中包含规则活动部分的公式模式可以任意大；事实上，活动部分嵌套在任意深度的模态算子之下。Blackburn and Tzakova (1999) 表明，可用满足算子以更标准的格式表述公理系统，使用一条更简单的规则 PASTE，使得该系统在加入纯公理后仍然完全。
+    step2: |-
+      Gargov and Goranko (1993) 的证明系统用一条复杂规则（COV），其含活动部分的公式模式可任意大——活动部分实嵌套于任意深度的模态算子之下。Blackburn and Tzakova (1999) 表明，借满足算子可以更标准的格式表述公理系统，只需一条更简单的规则 PASTE；系统增补纯公理后仍完全。
   - id: 65
     kind: body
     source: |-
       The paper Blackburn and ten Cate (2006) investigates *orthodox* proof-rules, which are proof-rules without side-conditions, and it is shown that if one requires extended completeness using pure formulas, then unorthodox proof-rules are indispensable in axiom systems for binder-free hybrid logic. However, in the case of the stronger hybrid logic including the $\mathtt{\downarrow}$ binder, an axiom system can be given that only involves orthodox proof-rules. See also the book Braüner (2011a) for another axiom system for hybrid logic as well as axiom systems for intuitionistic hybrid logic and a hybridization of Nelson’s paraconsistent logic N4 (compare to Costa and Martins (2017) where another paraconsistent hybrid logic is considered). A survey of intuitionistic hybrid logic can be found in Braüner (2011b).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Blackburn and ten Cate (2006) 考察 *正统* 证明规则，即无附条件的证明规则，并表明：若要求用纯公式获得扩展完全性，则在无约束子混合逻辑的公理系统中，非正统证明规则不可或缺。然而，在包含 $\mathtt{\downarrow}$ 约束子的更强混合逻辑情形，可以给出只涉及正统证明规则的公理系统。另见 Braüner (2011a) 一书，其中有混合逻辑的另一公理系统，以及直觉主义混合逻辑与纳尔逊悖论逻辑 N4 的混合化（比较 Costa and Martins (2017) 所考虑的另一悖论混合逻辑）。直觉主义混合逻辑的综述见 Braüner (2011b)。
+    step2: |-
+      Blackburn and ten Cate (2006) 考察 *正统* 证明规则（即无附条件的规则），并表明：若欲借纯公式获得扩展完全性，则无约束子混合逻辑的公理系统离不开非正统规则。但在含 $\mathtt{\downarrow}$ 约束子的更强混合逻辑中，可以给出仅用正统规则的公理系统。另见 Braüner (2011a)：其中既有混合逻辑的另一公理系统，也有直觉主义混合逻辑及纳尔逊悖论逻辑 N4 之混合化的公理系统（比较 Costa and Martins (2017) 所论另一悖论混合逻辑）。直觉主义混合逻辑的综述见 Braüner (2011b)。
   - id: 66
     kind: body
     source: |-
       ## 7. Analytic proof methods for hybrid logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 混合逻辑的分析性证明方法
+    step2: |-
+      ## 7 混合逻辑的分析性证明方法
   - id: 67
     kind: body
     source: |-
       Tableau, Gentzen, and natural deduction style proof-theory for hybrid logic work very well compared to ordinary modal logic. Usually, when a modal tableau, Gentzen, or natural deduction system is given, it is for one particular modal logic and it has turned out to be problematic to formulate such systems for modal logics in a uniform way without introducing metalinguistic machinery. This can be remedied by hybridization, that is, hybridization of modal logics enables the formulation of uniform tableau, Gentzen, and natural deduction systems for wide classes of logics. The paper Blackburn (2000) introduces a tableau system for hybrid logic that has this desirable feature: Analogous to the axiom system of Blackburn and Tzakova (1999), completeness is preserved if the tableau system is extended with a set of pure axioms, that is, a set of pure formulas that are allowed to be added to a tableau during the tableau construction. The tableau system of Blackburn (2000) is the basis for a decision procedure for the binder-free fragment of hybrid logic given in Bolander and Braüner (2006). This line of work has been continued in the papers Bolander and Blackburn (2007) and Bolander and Blackburn (2009). The paper Cerrito and Cialdea (2010) presents another tableau-based decision procedure for hybrid logic. Other decision procedures for hybrid logics, which also are based on proof-theory, are given in the paper Kaminski and Smolka (2009). The procedures of the latter paper are based on a higher-order formulation of hybrid logic involving the simply typed lambda calculus.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与普通模态逻辑相比，混合逻辑的表列、Gentzen 与自然演绎式证明论运作得非常好。通常，给出模态表列、Gentzen 或自然演绎系统时，都是针对某一特定模态逻辑；而事实证明，要不引入元语言机制而统一地为模态逻辑表述这类系统，颇为困难。混合化可以补救这一点：模态逻辑的混合化使人们能为广泛的逻辑类统一表述表列、Gentzen 与自然演绎系统。Blackburn (2000) 引入了具有这一可取特征的混合逻辑表列系统：与 Blackburn and Tzakova (1999) 的公理系统类似，若给表列系统增加一组纯公理（即允许在表列构造过程中加入表列的一组纯公式），完全性得以保持。Blackburn (2000) 的表列系统是 Bolander and Braüner (2006) 所给无约束子混合逻辑判定程序的基础。此线工作由 Bolander and Blackburn (2007) 与 Bolander and Blackburn (2009) 继续。Cerrito and Cialdea (2010) 提出了另一基于表列的混合逻辑判定程序。其他同样基于证明论的混合逻辑判定程序见 Kaminski and Smolka (2009)；后者的程序基于涉及简单类型 lambda 演算的高阶混合逻辑表述。
+    step2: |-
+      较之普通模态逻辑，混合逻辑的表列、Gentzen 与自然演绎证明论运作得颇为顺畅。通常，模态表列、Gentzen 或自然演绎系统皆针对某一特定模态逻辑；事实证明，若不引入元语言机制，便很难统一地为模态逻辑表述此类系统。混合化恰可补救：模态逻辑一经混合化，便能为广泛的逻辑类统一表述表列、Gentzen 与自然演绎系统。Blackburn (2000) 给出的混合逻辑表列系统即具此优点：与 Blackburn and Tzakova (1999) 的公理系统相仿，给表列系统增补一组纯公理（即允许在表列构造中添入表列的纯公式），完全性仍得保持。该表列系统是 Bolander and Braüner (2006) 无约束子混合逻辑判定程序的基础；此线研究由 Bolander and Blackburn (2007)、(2009) 续之。Cerrito and Cialdea (2010) 另提出一种基于表列的混合逻辑判定程序；其他基于证明论的判定程序见 Kaminski and Smolka (2009)，其程序基于涉及简单类型 lambda 演算的高阶混合逻辑表述。
   - id: 68
     kind: body
     source: |-
       The article Hansen, Bolander, and Braüner (2018) gives a tableau-based decision procedure for many-valued hybrid logic, that is, hybrid logic where the two-valued classical logic basis has been generalized to a many-valued logic basis involving a truth-value space having the structure of a finite Heyting algebra. Hansen (2010) gives a tableau-based decision procedure for a hybridized version of a dynamic epistemic logic called public annoucement logic. This is also a major issue of the PhD thesis Hansen (2011).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Hansen, Bolander, and Braüner (2018) 给出了多值混合逻辑（即把二值经典逻辑基础推广为多值逻辑基础、其真值空间具有有限 Heyting 代数结构的混合逻辑）的基于表列的判定程序。Hansen (2010) 给出了公共宣告逻辑这一动态认知逻辑的混合化版本的基于表列的判定程序。这也是 Hansen (2011) 博士论文的一大主题。
+    step2: |-
+      Hansen, Bolander, and Braüner (2018) 给出多值混合逻辑的基于表列的判定程序。所谓多值混合逻辑，即把二值经典逻辑基础推广为多值逻辑基础，其真值空间具有有限 Heyting 代数结构。Hansen (2010) 则给出公共宣告逻辑（一种动态认知逻辑）混合化版本的基于表列的判定程序，这也是 Hansen (2011) 博士论文的一大主题。
   - id: 69
     kind: body
     source: |-
       Natural deduction style proof-theory of hybrid logic has been explored in the book Braüner (2011a). This book also gives a cut-free Gentzen sequent system for hybrid logic. Cut-freeness is proved via a normalizing natural deduction system, but such a result can also be proved directly, see Indrzejczak (2016). The natural deduction and Gentzen systems of Braüner (2011a) can be extended with additional proof-rules corresponding to first-order conditions on the accessibility relations expressed by so-called *geometric theories* (this is of course analogous to extending tableau and axiom systems with pure axioms). See also Braüner and de Paiva (2006) where a natural deduction system is given for intuitionistic hybrid logic (Chapter 8 of Braüner (2011a)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      混合逻辑的自然演绎式证明论已在 Braüner (2011a) 一书中得到探讨。该书还给出了混合逻辑的无切 Gentzen 序列系统。无切性通过规范化自然演绎系统证明，但这一结果也可直接证明，见 Indrzejczak (2016)。Braüner (2011a) 的自然演绎与 Gentzen 系统可以加入额外的证明规则，以对应由所谓 *几何理论* 表达的、可及关系上的一阶条件（这当然类似于用纯公理扩展表列与公理系统）。另见 Braüner and de Paiva (2006)，其中给出了直觉主义混合逻辑的自然演绎系统（Braüner (2011a) 第 8 章）。
+    step2: |-
+      Braüner (2011a) 探讨了混合逻辑的自然演绎证明论，并给出无切 Gentzen 序列系统。无切性经规范化自然演绎系统证得，但亦可直接证明，见 Indrzejczak (2016)。Braüner (2011a) 的自然演绎与 Gentzen 系统可增补证明规则，以对应所谓 *几何理论* 所表达的可及关系一阶条件（这自然类似于以纯公理扩展表列与公理系统）。另见 Braüner and de Paiva (2006) 所给直觉主义混合逻辑的自然演绎系统（Braüner (2011a) 第 8 章）。
   - id: 70
     kind: body
     source: |-
       Gentzen and natural deduction systems for logics similar to hybrid logics were explored already in the 1990s by Jerry Seligman, see the overview in Seligman (2001). In particular, Seligman developed proof-systems that work with arbitrary formulas, not just satisfaction statements, the latter being the case for most proof-systems for hybrid logic, where satisfaction operators are used to access information hidden behind modalities. A natural deduction system in this style was introduced in Seligman (1997) and this system has been further developed in Chapter 4 of the book Braüner (2011a). A tableau systems in Seligman’s proof-style has been considered in Blackburn, Bolander, Braüner, and Jørgensen (2017) where a syntactic completeness proof is given. A semantic completenes proof of the tableau system is given in Jørgensen, Blackburn, Bolander, Braüner (2016). Reasoning in these systems does not directly rely on the global encodings that satisfaction operators make possible, hence, these systems can be considered more in line with the local character of the standard Kripke semantics for modal logic. In fact, this more local reasoning style makes these systems suitable for formalizing the perspectival reasoning taking place in certain psychological reasoning tasks, see Braüner (2014b) as well as Braüner, Blackburn, and Polyanskaya (2016).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与混合逻辑类似的逻辑的 Gentzen 与自然演绎系统，早在 20 世纪 90 年代就由 Jerry Seligman 探讨过，概述见 Seligman (2001)。特别是，Seligman 发展了处理任意公式而非仅满足陈述的证明系统；后者是多数混合逻辑证明系统的情况——它们用满足算子获取隐藏在模态之后的信息。这种风格的自然演绎系统由 Seligman (1997) 引入，并在 Braüner (2011a) 一书第 4 章得到进一步发展。Seligman 证明风格的表列系统在 Blackburn, Bolander, Braüner, and Jørgensen (2017) 中得到考察，其中给出了句法完全性证明。该表列系统的语义完全性证明见 Jørgensen, Blackburn, Bolander, Braüner (2016)。这些系统中的推理并不直接依赖满足算子所提供的全局编码，因此可视为更符合模态逻辑标准 Kripke 语义的局部特性。事实上，这种更局部的推理风格使这些系统适合形式化某些心理学推理任务中发生的视角性推理，见 Braüner (2014b) 以及 Braüner, Blackburn, and Polyanskaya (2016)。
+    step2: |-
+      与混合逻辑类似的逻辑，其 Gentzen 与自然演绎系统早在 20 世纪 90 年代即由 Jerry Seligman 探究，概述见 Seligman (2001)。Seligman 尤其发展了处理任意公式、而非仅处理满足陈述的证明系统；多数混合逻辑证明系统则只处理满足陈述，借满足算子获取隐于模态之后的信息。此种风格的自然演绎系统由 Seligman (1997) 引入，并在 Braüner (2011a) 第 4 章进一步发展。Seligman 式表列系统见 Blackburn, Bolander, Braüner, and Jørgensen (2017)，文中给出句法完全性证明；其语义完全性证明则见 Jørgensen, Blackburn, Bolander, Braüner (2016)。此类系统中的推理并不直接依赖满足算子所提供的全局编码，故更契合模态逻辑标准 Kripke 语义的局部特性。事实上，这种更局部的推理风格，使这些系统适于形式化某些心理学推理任务中的视角性推理，见 Braüner (2014b) 及 Braüner, Blackburn, and Polyanskaya (2016)。
   - id: 71
     kind: body
     source: |-
       As mentioned above, the papers Blackburn, Bolander, Braüner, and Jørgensen (2017) and Jørgensen, Blackburn, Bolander, Braüner (2016) gave completenes proofs for Seligman-style tableau systems for hybrid logic. Based on these results, completeness for these systems have in From (2021) and From, Blackburn, and Villadsen (2020) been fully formalised using the proof assistant Isabelle/HOL.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上所述，Blackburn, Bolander, Braüner, and Jørgensen (2017) 与 Jørgensen, Blackburn, Bolander, Braüner (2016) 给出了混合逻辑 Seligman 式表列系统的完全性证明。基于这些结果，From (2021) 与 From, Blackburn, and Villadsen (2020) 使用证明助手 Isabelle/HOL 对这些系统的完全性作了完全形式化。
+    step2: |-
+      如前所述，Blackburn, Bolander, Braüner, and Jørgensen (2017) 与 Jørgensen, Blackburn, Bolander, Braüner (2016) 给出了混合逻辑 Seligman 式表列系统的完全性证明。本此，From (2021) 与 From, Blackburn, and Villadsen (2020) 借证明助手 Isabelle/HOL 将这些系统的完全性完全形式化。
   - id: 72
     kind: body
     source: |-
       Some work in resolution calculi and model checking has been carried out, see Areces, de Rijke, and de Nivelle (2001) as well as Areces and Gorin (2011) for resolution calculi and see as Franceschet and de Rijke (2006) as well as Lange (2009) for results on model checking.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在消解演算与模型检验方面也已有一些工作：消解演算见 Areces, de Rijke, and de Nivelle (2001) 以及 Areces and Gorin (2011)；模型检验结果见 Franceschet and de Rijke (2006) 以及 Lange (2009)。
+    step2: |-
+      消解演算与模型检验方面亦已有若干成果：消解演算见 Areces, de Rijke, and de Nivelle (2001) 与 Areces and Gorin (2011)；模型检验结果见 Franceschet and de Rijke (2006) 与 Lange (2009)。
   - id: 73
     kind: body
     source: |-
       ## 8. Quantified Hybrid Logics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8 量化混合逻辑
+    step2: |-
+      ## 8 量化混合逻辑
   - id: 74
     kind: body
     source: |-
       We treat quantified hybrid logics separately. First-order modal logic comes in many different versions, which also is the case with first-order hybrid logic. Tableau systems for first-order hybrid logic can be found in the paper Blackburn and Marx (2002). Natural deduction and axiom systems for first-order hybrid logic can be found in Chapter 6 of the book Braüner (2011a) and Chapter 7 of the book deals with natural deduction for intensional first-order hybrid logic. The paper Indrzejczak (2020) gives a Gentzen-style sequent calculus for first-order hybrid logic with lambda operators as well as existence and definedness predicates. The paper Barbosa, Martins, and Carreteiro (2014) gives an axiomatization of a fragment of first-order hybrid logic called equational first-order hybrid logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们单独处理量化混合逻辑。一阶模态逻辑有许多不同版本，一阶混合逻辑亦然。一阶混合逻辑的表列系统见 Blackburn and Marx (2002)。一阶混合逻辑的自然演绎与公理系统见 Braüner (2011a) 第 6 章，该书第 7 章讨论内涵一阶混合逻辑的自然演绎。Indrzejczak (2020) 给出了带 lambda 算子以及存在与有定义谓词的一阶混合逻辑的 Gentzen 式序列演算。Barbosa, Martins, and Carreteiro (2014) 给出了称为等式一阶混合逻辑的一阶混合逻辑片段的公理化。
+    step2: |-
+      量化混合逻辑另作处理。一阶模态逻辑版本繁多，一阶混合逻辑亦然。一阶混合逻辑的表列系统见 Blackburn and Marx (2002)；自然演绎与公理系统见 Braüner (2011a) 第 6 章，该书第 7 章则论内涵一阶混合逻辑的自然演绎。Indrzejczak (2020) 给出带 lambda 算子以及存在与有定义谓词的一阶混合逻辑 Gentzen 式序列演算。Barbosa, Martins, and Carreteiro (2014) 则公理化了称为等式一阶混合逻辑的一阶混合逻辑片段。
   - id: 75
     kind: body
     source: |-
       It is remarkable that first-order hybrid logic offers precisely the features needed to prove interpolation theorems: While interpolation fails in a number of well-known first-order modal logics, their hybridized counterparts have this property, see Areces, Blackburn, and Marx (2003) as well as Blackburn and Marx (2003). The first paper gives a model-theoretic proof of interpolation whereas the second paper gives an algorithm for calculating interpolants based on a tableau system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得注意的是，一阶混合逻辑恰好提供了证明插值定理所需的特征：虽然插值在许多著名的一阶模态逻辑中失效，其混合化对应物却具有该性质，见 Areces, Blackburn, and Marx (2003) 与 Blackburn and Marx (2003)。前文给出插值的模型论证明，后文给出基于表列系统计算插值项的算法。
+    step2: |-
+      值得注意的是，一阶混合逻辑恰具备证明插值定理所需之特征：插值在许多著名一阶模态逻辑中失效，其混合化对应物却保有该性质，见 Areces, Blackburn, and Marx (2003) 与 Blackburn and Marx (2003)。前文给出插值的模型论证明，后文给出基于表列系统计算插值项的算法。
   - id: 76
     kind: body
     source: |-
       The paper Areces, Blackburn, Huertas, and Manzano (2014) deals with a hybrid-logical version of higher-order modal logic (that is, modal logic built over Church’s simple theory of types). Axiom systems are given and completeness is proved wrt. Henkin-type semantics. The paper Blackburn, Huertas, Manzano, and Jørgensen (2014) extends these results to encompass the downarrow binder and gives translations to and from the bounded fragment of first-order logic (see above).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Areces, Blackburn, Huertas, and Manzano (2014) 处理高阶模态逻辑（即建立在 Church 简单类型论之上的模态逻辑）的混合逻辑版本。文中给出公理系统，并相对于 Henkin 型语义证明完全性。Blackburn, Huertas, Manzano, and Jørgensen (2014) 把这些结果扩展到涵盖下箭头约束子，并给出与一阶逻辑有界片段之间的双向翻译（见上文）。
+    step2: |-
+      Areces, Blackburn, Huertas, and Manzano (2014) 讨论高阶模态逻辑（即建于 Church 简单类型论之上的模态逻辑）的混合逻辑版本，给出公理系统并相对于 Henkin 型语义证明完全性。Blackburn, Huertas, Manzano, and Jørgensen (2014) 将这些结果推及下箭头约束子，并给出与一阶逻辑有界片段间的双向翻译（见上文）。
   - id: 77
     kind: body
     source: |-
       Rather than introducing nominals as a second kind of propositional symbol, Prior sometimes created them using propositional quantifiers together with the $\mathtt{Q}$ operator, defined as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Prior 有时不用把名项作为第二类命题符号引入的办法，而是用命题量词加上如下定义的 $\mathtt{Q}$ 算子来创造名项：
+    step2: |-
+      有时 Prior 不把名项当作第二类命题符号引入，而以命题量词配合如下定义的 $\mathtt{Q}$ 算子造出它们：
   - id: 78
     kind: body
     source: |-
       > $\mathtt{ Qp = \Diamond p \wedge \forall q (\Box (p \rightarrow q) \vee \Box (p \rightarrow \neg q)) }$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $\mathtt{ Qp = \Diamond p \wedge \forall q (\Box (p \rightarrow q) \vee \Box (p \rightarrow \neg q)) }$
+    step2: |-
+      > $\mathtt{ Qp = \Diamond p \wedge \forall q (\Box (p \rightarrow q) \vee \Box (p \rightarrow \neg q)) }$
   - id: 79
     kind: body
     source: |-
       Here the $\mathtt{\Box}$ and $\mathtt{\Diamond}$ are the box and diamond forms of the universal modality. The result of prefixing the ordinary propositional symbol $\mathtt{p}$ by the $\mathtt{Q}$ operator, converts $\mathtt{p}$ to a nominal. To be more precise, taking the propositional quantifier $\mathtt{\forall q}$ to range over all sets of worlds, $\mathtt{Qp}$ says that $\mathtt{p}$ denotes a singleton set, that is, $\mathtt{p}$ is a standard nominal. But there is another approach to interpreting propositional quantifiers, called the general (or Henkin) approach, where propositional quantifiers range over a *preselected* set of subsets of worlds. Interpreted these two different ways, the $\mathtt{Q}$ operator gives rise to two different ‘species’ of nominals, and it turns out that these two species behave differently with respect to the rule of universal instantiation. This is investigated in the paper Blackburn, Braüner, and Kofod (2020), which gives a tableau system for a hybrid logic with Henkin-style propositional quantifiers, containing both species of nominals. The paper moreover describes how this formally-defined ‘species division’ corresponds rather well with two intuitions about nominals that can be detected in Prior’s writings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里 $\mathtt{\Box}$ 与 $\mathtt{\Diamond}$ 是全称模态的方框与菱形形式。在普通命题符号 $\mathtt{p}$ 前加上 $\mathtt{Q}$ 算子，就把 $\mathtt{p}$ 转换为名项。更准确地说，若取命题量词 $\mathtt{\forall q}$ 的范围为一切世界集合，则 $\mathtt{Qp}$ 表示 $\mathtt{p}$ 指称一个单元素集，即 $\mathtt{p}$ 是标准名项。但还有另一种解释命题量词的方式，称为一般（或 Henkin）方式，其中命题量词的范围是 *预先选定* 的世界子集。按这两种不同方式解释，$\mathtt{Q}$ 算子产生两种不同的名项“物种”，而结果表明，这两个物种在全称例示规则方面表现不同。Blackburn, Braüner, and Kofod (2020) 对此作了研究，给出了带 Henkin 式命题量词、包含两种名项的混合逻辑的表列系统。该文还描述了这种形式定义的“物种划分”如何与 Prior 著作中可辨识的两种名项直觉颇为吻合。
+    step2: |-
+      此处 $\mathtt{\Box}$、$\mathtt{\Diamond}$ 为全称模态的方框与菱形形式。在普通命题符号 $\mathtt{p}$ 前冠以 $\mathtt{Q}$ 算子，即把 $\mathtt{p}$ 化为名项。更准确地说，若命题量词 $\mathtt{\forall q}$ 的范围取一切世界集合，则 $\mathtt{Qp}$ 表示 $\mathtt{p}$ 指称单元素集，即 $\mathtt{p}$ 是标准名项。但命题量词另有一种解释方式，称为一般（或 Henkin）方式，其范围是 *预先选定* 的世界子集。两种解释之下，$\mathtt{Q}$ 算子生出两种不同的名项“物种”；结果表明，二者在全称例示规则上表现各异。Blackburn, Braüner, and Kofod (2020) 对此作了研究，给出带 Henkin 式命题量词、兼含两种名项的混合逻辑表列系统，并说明这种形式定义的“物种划分”与 Prior 著作中可辨识的两种名项直觉颇为契合。
   - id: 80
     kind: body
     source: |-
       Since the mid 1990s, the work on hybrid logic has flourished. We refer the reader to the publications in the bibliography for further references. Moreover, see the internet resources below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自 20 世纪 90 年代中期以来，混合逻辑研究蓬勃发展。进一步文献请读者参阅书目中的出版物。此外，见下文网络资源。
+    step2: |-
+      20 世纪 90 年代中期以来，混合逻辑研究蔚然成风。更多文献请参书目所列。另见下文网络资源。
   - id: 81
     kind: oir
     source: |-
       - [A.N. Prior—The Founding Father of Temporal Logic](http://www.priorstudies.org/)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [A.N. Prior——时态逻辑之父](http://www.priorstudies.org/)
+    step2: |-
+      - [A.N. Prior——时态逻辑之父](http://www.priorstudies.org/)
