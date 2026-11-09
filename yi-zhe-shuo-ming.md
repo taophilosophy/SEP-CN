@@ -465,6 +465,7 @@
 | care ethics | — | 关怀伦理学（亦作"关怀伦理"） | 语料回收（标题词） | 审定名词库（termonline-all·新闻学与传播学·媒体与传播伦理，2026-11-08 浏览器通道凭证，en=ethics of care 精确命中；语料多数词条已用"关怀伦理学"） | 2026-11-08 |
 | caritas | caritas | 仁爱（亦作“博爱”） | 首现（justice-virtue） | 学界惯例（神学德性，托马斯·阿奎那）；凭证 2026-11-02 | 2026-11-02 |
 | commodity fetishism | — | 商品拜物教 | adorno | 学界通行汉译（《资本论》中译本通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
+| comparatio | — | 《比较论》（文类名） | bessarion | 本词条首译（文艺复兴“哲学家比较”文类，拉丁 comparatio 直译；待 specs/008 审定库复核） | 2026-11-10 |
 | constitutive subjectivity | — | 构成性主体性 | adorno | 学界通行汉译（阿多诺/观念论研究通行）；凭证 2026-11-10 | 2026-11-10 |
 | Cārvāka / Lokāyata | चार्वाक / लोकायत | 顺世论 | jayaraasi | 印度哲学史学界通行（唯物论派；音译“遮卢婆迦”较少用）；与既有 anumāna/pratyakṣa 因明系译名并行 | 2026-11-07 |
 | casus | casus | 情形（正文保留拉丁原词 *casus*，首现括注） | richard-sophister | 学界惯例（义务论辩研究保留拉丁术语） | 2026-11-04 |
@@ -1035,6 +1036,7 @@
 | Elementarphilosophie | Elementarphilosophie | 元素哲学（莱因霍尔德；亦作“基础哲学”） | august-rehberg 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
 | clonal evolution | — | 克隆演化；cancer | cancer | 学界通行（肿瘤演化）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | age of onset | — | 发病年龄；cancer | cancer | 学界通行（流行病学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
+| epiclesis | — | 呼求祷文 | bessarion | 东正教礼仪学通行汉译（圣体礼仪中呼求圣灵之祷文） | 2026-11-10 |
 | exchange principle | Tauschprinzip | 交换原则 | adorno | 学界通行汉译（阿多诺研究通行）；凭证 2026-11-10 | 2026-11-10 |
 | exchange society | Tauschgesellschaft | 交换社会 | adorno | 学界通行汉译（阿多诺研究通行）；凭证 2026-11-10 | 2026-11-10 |
 | expression | Ausdruck | 表现（美学/阿多诺语境；与 expression 普通用法“表达”随文区分） | adorno | 学界通行汉译（美学与《美学理论》中译通行）；凭证 2026-11-10 | 2026-11-10 |
@@ -1314,6 +1316,7 @@
 | fictitious mean | — | 虚构均值 | 首现（william-jevons） | 学界惯例（Quetelet-杰文斯统计方法论术语）；凭证 2026-11-07 | 2026-11-07 |
 | fideism | — | 信仰主义 | lorenzo-valla | 宗教哲学通行（首见登记为“维特根斯坦式信仰主义”复合词，本行补单词） | 2026-11-04 |
 | fifth element / aether | αἰθήρ | 第五元素／以太（首现括注） | olympiodorus | 沿本册 ether=以太；亚里士多德宇宙论术语；凭证 2026-11-08 | 2026-11-08 |
+| Filioque | — | “和子”句 | bessarion | 基督教神学史通行汉译（拉丁“及圣子”添缀，东西教会分裂争点） | 2026-11-10 |
 | final cause | — | 目的因 | aristotle-causality 首译 | 亚里士多德研究通行译名（四因之一）；凭证 2026-11-08 | 2026-11-08 |
 | First / Later Diffusion of Buddhism | — | 前弘期／后弘期 | epistemology-language-tibetan | 藏学界通行 | 2026-11-04 |
 | first cause | — | 第一因 | crescas | 学界通行；凭证 2026-11-08 | 2026-11-08 |
@@ -1533,6 +1536,7 @@
 | heritage | — | 遗产 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | hermeneutic circle | — | 诠释学循环 | gadamer-aesthetics | 学界惯例（诠释学通行） | 2026-11-01 |
 | hermeneutic identity | — | 诠释学同一性 | gadamer-aesthetics | 学界惯例（伽达默尔研究通行） | 2026-11-01 |
+| Hesychast | — | 静修派 | bessarion | 东正教研究通行汉译（14 世纪拜占庭静观传统；通行亦作“静默派”） | 2026-11-10 |
 | heterogeneity | — | 异质性；cancer | cancer | 学界通行（肿瘤生物学与生物学哲学）；与 homogeneity 同质性命对举；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | hermeneutical aesthetics | — | 诠释学美学 | gadamer-aesthetics | 学界惯例（伽达默尔美学研究通行） | 2026-11-01 |
 | hermeneutical sublime | — | 诠释学的崇高 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
@@ -2184,6 +2188,7 @@
 | infallible | — | 不会出错的 | prophecy | 构词直译（对上帝知识的不谬性描述，与 infallibility 不谬性相承）；凭证 2026-11-09 | 2026-11-09 |
 | Metaphysics | — | 形而上学 | 语料回收（标题词，946 篇） | 审定名词库（termonline-all·形而上学在案，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | metapopulation | — | 集合种群 | ecological-genetics 首译 | 学界通行译名（生态学文献）；凭证 2026-11-09 | 2026-11-09 |
+| metasomatosis | — | 易体 | bessarion | 本词条首译（柏拉图《蒂迈欧》灵魂易换躯体学说；无通行定译，待 specs/008 审定库复核） | 2026-11-10 |
 | Meteorology | — | 《气象学》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
 | method of exhaustion | — | 穷竭法 | 语料回收（mathematics-inconsistent 首译） | 数学史界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | method of least squares | — | 最小二乘法 | 首现（william-jevons） | 学界通行（统计学标准译名） | 2026-11-07 |
@@ -2195,6 +2200,7 @@
 | microcosm | — | 小宇宙 | neoplatonism | 学界通行；本词条正文作“缩影” | 2026-11-07 |
 | middle term | — | 中项 | analogy-medieval 首译 | 学界通行（三段论术语）；凭证 2026-11-08 | 2026-11-08 |
 | mikunigokoro | — | 御国心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| millenarianism | — | 千禧年论 | bessarion | 宗教史学通行汉译 | 2026-11-10 |
 | millet seed | — | 黍粒（悖论名；亦作“谷粒”） | zeno-elea | 学界惯例（芝诺谷粒论证）；凭证 2026-11-09 | 2026-11-09 |
 | Mündigkeit | — | 成熟（康德启蒙语境“自行成熟”；阿多诺政治语境“政治成熟”） | adorno | 学界通行汉译（康德《答复这个问题：“什么是启蒙运动？”》通行）；凭证 2026-11-10 | 2026-11-10 |
 | Mīmāṃsā | मीमांसा | 弥曼差（亦作“弥曼沙”） | 语料回收 | 学界惯例（印度哲学派名）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
@@ -4003,6 +4009,7 @@
 | voluntarist | — | 意志论者 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | voting semantics | — | 投票语义 | logic-fuzzy | Lawry 1998 术语直译；凭证 2026-11-09 | 2026-11-09 |
 | von Neumann entropy | — | 冯·诺依曼熵 | qt-entangle | 学界通行译名（量子信息文献）；凭证 2026-11-09 | 2026-11-09 |
+| Vulgate | — | 武加大译本 | bessarion | 天主教圣经学界通行汉译 | 2026-11-10 |
 | Vor-Schein | — | 前现（先行照亮） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Vorstellung | Vorstellung | 表象（康德/叔本华） | 语料回收 | 学界惯例（德国古典哲学通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | vox populi | vox populi | 人民之声（拉丁原词保留斜体） | s/sovereignty 首译 | 学界惯例（拉丁语通行）；凭证 2026-11-07 | 2026-11-07 |
