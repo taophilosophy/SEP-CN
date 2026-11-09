@@ -2,7 +2,7 @@
   "slug": "justice-moral-psych",
   "kind": "retranslate",
   "zh_doc": "j/justice-moral-psych.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:18Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "J-main-20261110",
+      "at": "2026-11-09T22:15:40Z",
+      "evidence": "零信任重译落盘（ADR-0021 账本反思两步）：tasks/j/justice-moral-psych.ledger.yaml 155 段双版全填（body 153/oir 1/ack 1），逐段 source 与 yuanwen 逐字符一致；compose 42040 字符 → j/justice-moral-psych.md（15,728 汉字）；6 节＋References（引用注释，现代式，defs 77 条逐条照录）＋学术工具四行＋其他网络资源＋相关词条＋致谢；术语先登记 62 行（最后通牒/独裁者博弈、道德伪善、正义敏感性、大五/HEXACO 各维度、观点采择等）、人名 34 行（ADR-0022 现代学者保留英文）同批提交；lq check 残余 14 段全为货币 $→“X 美元”转换（$ 后接数字，check_math 货币分支不参与配对；依 intuitionism-ethics（done）同类先例），非货币标记（脚注键/**/公式 $…$）零残余"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "J-main-20261110",
+      "at": "2026-11-09T22:15:40Z",
+      "evidence": "对照核销（MTPE 顺序：幻觉/漏译/增译→术语漂移→语言）：账本 155 段与源逐字符一致（lq check 段数/kind/source 全等）；关键数字逐项机检全在（4.05/3.14/30.73/23.00/1.04/0.01/1.92/17.43/3.54/4.66/2.61/4.67/13.6/15–20/28.35/29.65/4.91/3.40/2.49/1.99/22.5/7.06/7.91/5.56/3.89/7.45/7.30/4.38/8.25/64.4/34.6 与 r=.18/.10/.24/.29/.16 等）；marker 219:219 键集全等、defs 77:77、节 6＋尾四件套＋致谢（源 ### Acknowledgments 按家法升 ## 致谢）；抽读段 13/36/48/61/78 全文无错译；引文内 [t]/[i] 方括号系英文引文改例记号，中文直引体例不保留（语义无损）；源“consciousness facet”笔误照上下文译“尽责性”；金额统一“X 美元/X 元/X 欧元”"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "J-main-20261110",
+      "at": "2026-11-09T22:15:40Z",
+      "evidence": "反欧化实修：check_prose --strict 告警 15 → 0，逐条对照原意实修 15 处（的链 9、长句 5、双被 1）：拆分过长句（Batson 伪善三要件、Winking 公交站实验、Park 感恩实验、Thielmann 元分析）、重写 6 处“的”密集句、“收益未被…被代价压过”改单被；同时回改 50–50 保留阿拉伯数字（保数字对账）、段 118 拉丁词 HEXACO 恢复斜体（避免 CJK 加粗体例误用）；无豁免项（引文内长句已随改写消除）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "J-main-20261110",
+      "at": "2026-11-09T22:15:41Z",
+      "evidence": "三校体例四检：check_style --docs j/justice-moral-psych.md --strict issues=[]（8 处 CJK 加粗两侧补半角空格）；check_academic --strict OK；check_math formulas=5 missing=0（unbalanced=1 为 yuanwen 镜像“$__”空额行，源端转换工件、非产物问题）；check_summary H1 mismatch=0 HARD=0；marker 219:219、defs 77:77、节 6＋5、表格 17 行照录；术语一致性：本次新登记 62 术语＋34 人名，正文用词与登记册一致"
     }
   ],
   "blockers": [],
