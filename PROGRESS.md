@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 08:04（UTC）
+生成时间：2026-11-09 14:07（UTC）
 
 ## 总览
 
@@ -12,32 +12,31 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1161|
+|已建任务|1170|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|232|
-|在途（drafted 起、done 前）|244|
+|已完成（done）|252|
+|在途（drafted 起、done 前）|236|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|685|
-|cleared|159|
-|drafted|6|
-|s1_checked|1|
-|s3_checked|73|
+|pending|682|
+|cleared|154|
+|drafted|5|
+|s3_checked|72|
 |r1_reviewed|4|
 |r2_reviewed|1|
-|done|232|
+|done|252|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|54|
+|A|160|160|160|57|
 |B|62|62|62|15|
-|C|172|172|172|5|
+|C|172|172|172|6|
 |D|92|92|92|11|
 |E|99|99|99|19|
 |F|96|96|96|1|
@@ -46,18 +45,18 @@
 |I|75|75|75|22|
 |J|38|38|38|9|
 |K|36|36|36|21|
-|L|144|144|22|18|
+|L|144|144|25|24|
 |M|139|139|14|6|
 |N|50|50|7|4|
 |O|21|21|11|8|
-|P|165|165|5|1|
+|P|165|165|11|6|
 |Q|34|34|34|1|
 |R|85|85|85|9|
-|S|161|161|18|10|
+|S|161|161|18|14|
 |T|71|71|7|2|
 |U|4|4|0|0|
 |V|15|15|0|0|
-|W|38|38|7|1|
+|W|38|38|7|2|
 |X|3|3|3|1|
 |Y|2|2|1|0|
 |Z|6|6|6|0|
@@ -67,18 +66,15 @@
 |slug|类型|状态|最后执行|
 |---|---|---|---|
 |adorno|retranslate|cleared|task_ops 2026-10-31|
-|aesthetic-judgment|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-cogsci|retranslate|cleared|task_ops 2026-10-31|
 |affirmative-action|retranslate|cleared|task_ops 2026-10-31|
-|african-ethics|retranslate|s1_checked|A3-main-20261109 2026-11-09|
 |africana-contemporary|retranslate|cleared|task_ops 2026-10-31|
 |afterlife|retranslate|cleared|task_ops 2026-10-31|
 |agency|retranslate|cleared|task_ops 2026-10-31|
 |agent-modeling-philscience|retranslate|cleared|task_ops 2026-10-31|
 |al-baghdadi|retranslate|cleared|task_ops 2026-10-31|
-|al-din-al-razi|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-logic|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-metaphysics|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
@@ -133,7 +129,7 @@
 |butler-moral|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |byzantine-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |cambridge-platonists|retranslate|r2_reviewed|REV-main-20261109 2026-11-09|
-|cancer|retranslate|cleared|task_ops 2026-11-07|
+|cancer|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |carneades|retranslate|s3_checked|主代理 2026-11-01|
 |cassirer|retranslate|s3_checked|主代理 2026-11-01|
 |causation-medieval|retranslate|s3_checked|CD-main-20261106 2026-11-06|
@@ -157,8 +153,7 @@
 |contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
-|cosmopolitanism|retranslate|cleared|task_ops 2026-11-09|
-|creation-conservation|retranslate|s3_checked|主代理 2026-11-01|
+|cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |crescas|retranslate|s3_checked|C-main-20261108 2026-11-07|
 |croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |cudworth|retranslate|s3_checked|主代理 2026-11-01|
@@ -278,31 +273,27 @@
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|la-forge|retranslate|s3_checked|L-main-20261109b 2026-11-09|
-|langer|retranslate|r1_reviewed|L-main-20261109 2026-11-08|
-|logic-hybrid|retranslate|s3_checked|L-main-20261109b 2026-11-09|
-|logic-relevance|retranslate|cleared|task_ops 2026-11-09|
+|lvov-warsaw|retranslate|s3_checked|L-main-20261109c 2026-11-09|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
-|marsilius-padua|retranslate|drafted|M-main-20261109 2026-11-08|
+|marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
+|moral-learning|retranslate|cleared|task_ops 2026-11-09|
+|music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |newton-philosophy|retranslate|cleared|task_ops 2026-11-08|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
 |omniscience|retranslate|cleared|task_ops 2026-11-09|
+|peter-damian|retranslate|cleared|task_ops 2026-11-09|
 |quine-nf|retranslate|cleared|task_ops 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|
-|saadya|retranslate|cleared|task_ops 2026-11-08|
-|sharpe|retranslate|cleared|task_ops 2026-11-09|
-|stebbing|retranslate|cleared|task_ops 2026-11-09|
-|stem-cells|retranslate|s3_checked|S-trans-20261109a 2026-11-09|
+|sikh-philosophy|retranslate|cleared|task_ops 2026-11-09|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
-|wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
-|xenophanes|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
+|xenophanes|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
 |zabarella|retranslate|s3_checked|Z2-main-20261109 2026-11-08|
 |zeno-elea|retranslate|cleared|task_ops 2026-11-08|

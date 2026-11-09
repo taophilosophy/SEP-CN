@@ -2,7 +2,7 @@
   "slug": "wisdom",
   "kind": "retranslate",
   "zh_doc": "w/wisdom.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "TZ-main-20261107",
       "at": "2026-11-07T03:35:14Z",
       "evidence": "体例校：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_terms 0 硬错误、check_all 七项全绿。术语登记 18 行（认知谦逊/认知准确/认知傲慢/认知自信/谦逊理论/理论智慧/混合理论/合理性/实践诀窍/过好生活/道德德性＋凯瑞丰/希帕提娅/老子/泰勒斯/所罗门/歌德/甘地），词汇表与池同步，行体例 6 列重排。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T13:45:20Z",
+      "evidence": "r1 回源逐节核销（5 节全对照，无 Critical/Major）：实修 5 处——Nozick 1989 引言漏译补（or avoid)=无法避开、epistemically justified 三处认识→认知（登记册新增行）、note-1 引用形 Lehrer and→&。探针 NUM 6/7 为 Book 6/ch.7 译卷章数字，非漏译；KEYS lehrer-1996-2 为探针误报（zh/en refs 集合实等）；孤悬空标题 #### 删除（全库孤例）。四检：style 0/academic --strict 0 硬/math 0/prose 3 条全为引文内译句（Nozick 62、亚里士多德 64、Whitcomb 95），逐条豁免留痕。登记册 epistemically justified 新行"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T13:48:10Z",
+      "evidence": "r2 逐句回核原文与逻辑（新问题，不复查 r1）：实修 3 处——反事实语气 would have rejected 由「大可以」改「早该」；excellent justification 与 highly justified 分级区分（极佳 vs 极充分）；perfect success 由「事事成功」改「取得完美的成功」。逐段核连接词/模态/否定辖域：H1–H2 反驳链、EA1–EA2 反例链、KLW→KLS→混合理论→DRT 递进与源文一一对应，无方向反转。prose 仍 3 条引文内译句，维持豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T14:06:14Z",
+      "evidence": "r3 冷置回读（隔 xenophanes 全条 r1）：修体例 2 处——H1 下补空行（MD022）、全库孤例空标题 #### 删除（r1 已记）；markdownlint 本文件 0 error（.md 库内他文件 issue 属他会话在途件）；check_all 7/7 全绿；终读无新增问题，验收签字"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T14:07:12Z",
+      "evidence": "r1–r3 全过（r1 实修 5+r2 实修 3+r3 体例 2），check_all 7/7、markdownlint 0、prose 3 引文内豁免；冷置条款满足（r2→r3 间完成 xenophanes r1）；登记 epistemically justified 1 行"
     }
   ],
   "blockers": [],
