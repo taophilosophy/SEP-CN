@@ -1327,95 +1327,127 @@ segments:
     kind: note
     source: |-
       [^note-1]: For treatments of non-causal explanation, see Lange (2017) and Reutlinger & Saatsi (2018).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 关于非因果处理的论述，见 Lange (2017) 与 Reutlinger & Saatsi (2018)。
+    step2: |-
+      [^note-1]: 非因果解释的处理，见 Lange (2017)、Reutlinger & Saatsi (2018)。
   - id: 163
     kind: note
     source: |-
       [^note-2]: In addition to Hempel (1965a) and Salmon (1989), see also Cartwright (1983), Earman (1986: 80–110), and van Fraassen (1989).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 除 Hempel (1965a) 与 Salmon (1989) 外，另见 Cartwright (1983)、Earman (1986: 80–110) 与 van Fraassen (1989)。
+    step2: |-
+      [^note-2]: 除 Hempel (1965a)、Salmon (1989) 外，另见 Cartwright (1983)、Earman (1986: 80–110)、van Fraassen (1989)。
   - id: 164
     kind: note
     source: |-
       [^note-3]: As an illustration of this attitude, consider Hempel’s discussion of “support for counterfactuals” as a criterion for distinguishing laws from accidental generalizations (1965b). While Hempel agrees that support for counterfactuals is, as it were, diagnostic of the law/accident distinction, he also holds that counterfactuals “present notorious philosophical difficulties” (1965b: 339) and because of this cannot be used to provide any independent purchase on the distinction between laws and accidentally true generalizations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 作为这一态度的一个例证，可考虑亨佩尔对“反事实支持”作为区分律与偶然概括之标准的讨论（1965b）。亨佩尔虽然同意反事实支持可以说是律／偶然之别的诊断，他却主张反事实“带来众所周知的哲学困难”（1965b: 339），因此不能用来为律与偶然为真的概括之别提供任何独立的抓手。
+    step2: |-
+      [^note-3]: 可举亨佩尔论“反事实支持”作为区分律与偶然概括的标准（1965b），以见这一态度。他虽同意反事实支持可说是律／偶然之别的诊断，却认为反事实“带来众所周知的哲学困难”（1965b: 339），故不能用来为律与偶然为真者之别提供独立抓手。
   - id: 165
     kind: note
     source: |-
       [^note-4]: In addition to the requirement that laws must be exceptionless generalizations, these include the requirements that laws not contain terms referring to particular objects or places and the requirement that laws must contain only projectable predicates in the sense of Goodman (1955).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 除律必须是无例外概括这一要求外，这些要求还包括：律不得包含指称特定对象或地点的词项，以及律只能包含 Goodman (1955) 意义上的可投射谓词。
+    step2: |-
+      [^note-4]: 除律须为无例外概括外，这些要求还包含：律不得含指称特定对象或地点的词项；律只可含 Goodman (1955) 意义上的可投射谓词。
   - id: 166
     kind: note
     source: |-
       [^note-5]: See Cartwright (1979) and Spirtes, Glymour & Scheines (1993 [2000]). The latter contains theorems specifying the extent of this underdetermination even given much stronger assumptions than those which Salmon was willing to make connecting causation and probability.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: 见 Cartwright (1979) 与 Spirtes, Glymour & Scheines (1993 [2000])。后者含有若干定理，标明了即便在比萨蒙愿作的、联结因果与概率的假定强得多的条件下，这种不定性所及的程度。
+    step2: |-
+      [^note-5]: 见 Cartwright (1979)、Spirtes, Glymour & Scheines (1993 [2000])。后书有定理标明此不定性之所及——即便假定的强度远过萨蒙联结因果与概率者。
   - id: 167
     kind: note
     source: |-
       [^note-6]: Cases of causation by omission are cases in which, to put the matter intuitively, the non-occurrence of some event causes an outcome, as when a doctor’s failure to provide medical help causes the death of his patient. In such cases, there is no transfer of energy or momentum from cause to effect and no natural candidate for a connecting process. Some writers (e.g., Dowe 2000)[^dowe-2000] conclude on these grounds that causation by omission is not real or literal causation, although it possesses some features that makes it similar to cases of real causation. If omissions can be causes or figure in causal explanations, this presents an obvious prima facie problem for causal process theories like Salmon’s. Cases of causation by *C* of *E* by double prevention or disconnection are cases in which *C* prevents or interferes with the operation of a second factor *D* which if operative would block the occurrence of *E*. By removing the preventer *D* of *E*, *C* causes *E* to occur. Examples are common in biological contexts—see Schaffer (2000), Woodward (2002), and for more general discussion of this phenomenon, see Hall (2004) and Lewis (2000). Again, if it is accepted that citing a disconnecting cause provides a (scientific) explanation, this is a difficulty for causal process theories, at least as formulated by Salmon.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: 遗漏所致因果的情形，直觉上说是某事件之不发生引起一个结果的情形，如医生未提供医疗救助导致病人死亡。在此类情形中，没有能量或动量从因传到果，也没有联结性过程的自然候选。有些论者（如 Dowe 2000）[^dowe-2000] 据此得出结论：遗漏所致的因果并非真实或字面上的因果，尽它具备某些使其与真实因果情形相似的特征。若遗漏可以是原因、可以出现在因果解释中，那么对萨蒙那样的因果过程理论就构成一个显见的表面难题。由 *C* 通过双重阻止或断连引起 *E* 的情形是这样的：*C* 阻止或干扰了第二因素 *D* 的运作，而 *D* 若在运作本会阻止 *E* 的发生；通过除去 *E* 的阻止者 *D*，*C* 引起 *E* 发生。此例在生物学语境中常见——见 Schaffer (2000)、Woodward (2002)；关于这一现象的更一般讨论，见 Hall (2004) 与 Lewis (2000)。同样，若承认引述一个断连之因提供了（科学）解释，那么至少就萨蒙的表述而言，这对因果过程理论是一困难。
+    step2: |-
+      [^note-6]: 遗漏所致因果，直觉言之，即某事件之不发生引起结果的情形，如医生未施救治致病人死亡。此处既无能量动量自因向果的传递，也无联结过程的自然候选。有些论者（如 Dowe 2000）[^dowe-2000] 据此断言：遗漏之因果并非真实、字面的因果，虽有其与真实因果相似之处。若遗漏可以为因、可入因果解释，则对萨蒙式因果过程理论即成一显见的表面难题。*C* 经双重阻止或断连引起 *E*，指 *C* 阻止或干扰了第二因素 *D* 的运作——*D* 若在运作本会挡住 *E*；除去 *E* 的阻止者 *D*，*C* 便引起 *E*。此例生物学中常见，见 Schaffer (2000)、Woodward (2002)；更一般的讨论见 Hall (2004)、Lewis (2000)。同样，若承认断连之因提供了（科学）解释，则至少就萨蒙的表述而言，因果过程理论便遇一困难。
   - id: 168
     kind: note
     source: |-
       [^note-7]: One might well wonder what the basis for this judgment is. Can’t the gas as a whole be “marked”—e.g., by heating it or introducing a radioactive tracer—and won’t the gas transmit this mark, at least for a while?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 人们大有理由追问这一判断的根据何在。难道气体整体不能被“标记”吗——例如加热它或引入放射性示踪剂——而气体难道不会传递这一标记，哪怕只是一会儿？
+    step2: |-
+      [^note-7]: 这一判断的根据大可一问。气体整体难道不能被“标记”——加热之、或引入放射性示踪剂——而气体难道不传递此标记，纵只一时？
   - id: 169
     kind: note
     source: |-
       [^note-8]: As mentioned in the introduction, this article will cover treatments of scientific explanation up to the end of the twentieth century. For entries on more developments see: “Scientific Explanation”, “Explanation in Mathematics”, “Causal Processes”, “Causation and Manipulability”, and “Mechanism in Science”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: 如导言所述，本文将涵盖截至 20 世纪末的科学解释处理。关于进一步发展的条目，见“Scientific Explanation”、“Explanation in Mathematics”、“Causal Processes”、“Causation and Manipulability” 与 “Mechanism in Science”。
+    step2: |-
+      [^note-8]: 如导言所说，本文涵盖截至 20 世纪末的科学解释处理。进一步发展的条目见“Scientific Explanation”“Explanation in Mathematics”“Causal Processes”“Causation and Manipulability”“Mechanism in Science”。
   - id: 170
     kind: note
     source: |-
       [^note-9]: Unification in science has also been associated with “consilience”, in which information or evidence from different sources supports a similar view or claim (Whewell 1840)[^whewell-1840].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: 科学中的统一还与“汇归一致”（consilience）相联，即来自不同来源的信息或证据支持相似的见解或主张（Whewell 1840）[^whewell-1840]。
+    step2: |-
+      [^note-9]: 科学中的统一又与“汇归一致”（consilience）相联：不同来源的信息或证据支持相似的见解或主张（Whewell 1840）[^whewell-1840]。
   - id: 171
     kind: note
     source: |-
       [^note-10]: We are not aware of any systematic historical exploration of the origins of this particular use of “pragmatic” in connection with accounts of explanation. However, one conjecture (and it is only a conjecture) is that it derives, at least in significant part, from linguistics and, in particular, from the contrast between, on the one hand, syntax and semantics, (often thought to be “objective” and appropriate objects of general, systematic study) and “pragmatics” understood as having to do with the use of language by particular speakers directed toward particular audiences in particular contexts to achieve particular ends. This notion of “pragmatic” does suggest a connection with what is idiosyncratic to the psychology of particular language users and contexts and contrasts with projects that are regarded as providing a “syntax” or “semantics” of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-10]: 我们不清楚有谁曾就“语用”一词在与解释说明相关联时的这一特定用法之起源作过系统的历史考察。不过有一猜测（仅属猜测）：它至少在相当程度上源自语言学，尤其源自如下对照——一方面是句法与语义（常被视为“客观的”、宜作一般系统研究的对象），另一方面是“语用学”，即关乎特定言说者在特定语境中面向特定听众、为达到特定目的而对语言的使用。这一“语用”概念确实提示与特定语言使用者之心理及特定语境中的特异之处有关，并与那些被视为提供解释之“句法”或“语义”的工程相对照。
+    step2: |-
+      [^note-10]: 与解释说明相联的“语用”一词，其这一特定用法之渊源，据我们所知尚无系统的历史考察。然有一猜测（仅为猜测）：它至少大半源于语言学，尤其是如下对照：一方为句法与语义（常被视为“客观”而宜作一般系统研究），另一方为“语用学”——关乎特定言说者在特定语境中面向特定听众、为特定目的而使用语言。此“语用”概念确提示其与特定语言使用者之心理及语境中的特异处相关，而与提供解释之“句法”或“语义”的工程相对照。
   - id: 172
     kind: note
     source: |-
       [^note-11]: The relevant notion of stability is the notion discussed in Woodward (2006).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-11]: 稳定的相关概念是 Woodward (2006) 所讨论的那个概念。
+    step2: |-
+      [^note-11]: 此处“稳定”之相关概念，即 Woodward (2006) 所讨论者。
   - id: 173
     kind: note
     source: |-
       [^note-12]: Another influential pragmatic theory of explanation is due to Peter Achinstein (1983). For reasons of space we discuss only van Fraassen’s theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-12]: 另一种有影响的语用解释理论出于 Peter Achinstein (1983)。因篇幅所限，我们只讨论范弗拉森的理论。
+    step2: |-
+      [^note-12]: 另有 Peter Achinstein (1983) 的语用解释理论亦饶影响。篇幅所限，此处只论范弗拉森之说。
   - id: 174
     kind: note
     source: |-
       [^note-13]: See, e.g., Hausman (1998) and Janzing et al. (2012).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-13]: 例如见 Hausman (1998) 与 Janzing et al. (2012)。
+    step2: |-
+      [^note-13]: 如 Hausman (1998)、Janzing et al. (2012)。
   - id: 175
     kind: note
     source: |-
       [^note-14]: A closely related point is that a characterization that “relativizes” some feature of an explanation to a context sometimes can, so to speak, be “de-relativized” by making it explicit how the feature in question depends on context—in other words, the apparent contextuality may be just a reflection of the fact that some relevant feature has not been made explicit. For example, an explanandum for which the contrast class is left implicit may seem to support a context-relative picture of explanation (for example, that different explanations of why the conductor is bent will be appropriate depending on context) but at least sometimes this appearance may be removed by making the intended contrast class explicit. It might be argued that once it is made explicit that what is of interest is why this conductor is bent while others are straight, it is an “objective” matter whether some candidate explanans accounts for this contrast. For this reason, it seems that we should regard a thorough-going pragmatic theory as one that claims that explanations have a contextual element that can’t be removed (in a way that satisfies objectivist constraints) by making the context explicit.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-14]: 一个紧密相关的要点是：把解释的某个特征“相对化”于语境，有时可以说能够通过把该特征如何依赖语境讲明白而“去相对化”——换言之，表面的语境性也许只是某个相关特征未被明确说出的反映。例如，对照类未明言的被解释项，可能看似支持解释的语境相对图景（比如说，关于导线为何弯曲，依语境而宜取不同的解释）；但至少有时，只要把意图中的对照类明确说出，这一表象便可消除。可以说：一旦明确我们所关心的是“为何这根导线弯而其余直”，那么某个候选解释项是否说明这一对照，就是一个“客观”问题。因此，我们似乎应当把一个彻底的语用理论理解为这样的理论：它声称解释含有一种无法通过把语境明确化（从而满足客观主义约束）而消除的语境成分。
+    step2: |-
+      [^note-14]: 密切相关的一点：把解释的某特征“相对化”于语境，有时可借明白说出该特征如何依语境而变来“去相对化”——表面上的语境性，或许只是某相关特征未加明示的反映。例如，对照类未言明的被解释项，看似支持解释的语境相对图景（导线何以弯曲，依语境而宜取异解）；但至少有时，把意图中的对照类明示，此表象即可消除。可谓：一旦明示所关心者是“何以此导线弯而余者直”，则某候选解释项是否说明此对照，便成“客观”之事。是故，彻底之语用理论宜解作：它声称解释含一种语境成分，不能靠把语境明确化（而餍足客观主义约束）加以消除。
   - id: 176
     kind: note
     source: |-
       [^note-15]: As noted below, whether one accepts this assessment will depend in part on whether one thinks that there are non-causal forms of why-explanation (in the broad sense of why-explanation gestured at in Section 1). If there are, then a more adequate theory of causation will take us only part of the way toward a more satisfactory theory of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-15]: 如后文所述，是否接受这一评估，部分取决于是否认为存在非因果形式的“为何”解释（就第 1 节所提示的“为何”解释的宽泛意义而言）。若存在，那么更充分的因果理论，只能带我们走通通往更令人满意的解释理论的部分路程。
+    step2: |-
+      [^note-15]: 如下文所言，是否接受这一评估，部分取决于是否承认有非因果形式的“为何”解释（第 1 节所提示的宽泛意义）。若有，则更充分的因果理论只能带我们走通半程。
   - id: 177
     kind: note
     source: |-
       [^note-16]: Relevant recent work includes Hall (2004), Lewis (1986, 2000), Pearl (2000), and Spirtes, Glymour & Scheines (1993 [2000]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-16]: 相关的晚近工作包括 Hall (2004)、Lewis (1986, 2000)、Pearl (2000) 与 Spirtes, Glymour & Scheines (1993 [2000])。
+    step2: |-
+      [^note-16]: 相关晚近工作有 Hall (2004)、Lewis (1986, 2000)、Pearl (2000)、Spirtes, Glymour & Scheines (1993 [2000])。
