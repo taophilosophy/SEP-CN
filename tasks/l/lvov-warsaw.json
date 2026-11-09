@@ -2,7 +2,7 @@
   "slug": "lvov-warsaw",
   "kind": "retranslate",
   "zh_doc": "l/lvov-warsaw.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-09T14:04:52Z",
       "evidence": "术语 25 行、人名 34 行经 reg_tool 入库（利沃夫—华沙学派/物化论/伪名/原理论/分体论/激进约定论/语义认识论等；与既有 10 术语、6 人名并行合并）；check_terms 硬错误 0、冲突 0，1 告警裁定；style 0；math 缺失 0；academic --strict 0；check_summary H1 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T19:21:29Z",
+      "evidence": "冷置后 r1 复核（间隔：logic-fuzzy、logical-consequence、logic-infinitary 三条在途/完成）：对照 yuanwen/l/lvov-warsaw.md 逐段核 86 段对位；查得补充材料链接 lvov-warsaw.seminar.md 悬空——已建页（照片 + 参加者表）、图片自 yuanwen/assets 镜像复制入 assets/（SHA-256 一致），commit 9db7dcf91；同时核源页缺陷（(a)-(f) 只列到 (e)、CCNppp, 逗号、CcpEqNqNq 小写）均照录不擅改"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T19:24:11Z",
+      "evidence": "r2 复校：四门禁复跑全绿（style 0 / prose 0 / math missing 0 unbalanced 0 / academic strict 0 硬错误）；check_terms 硬错误 0；check_summary H1 mismatch 0；术语一致性抽查（波兰记法、逻辑矩阵、后承运算、演绎系统、分体论、物化论、建构唯名论、语义认识论、激进约定论）与登记册一致；源文'科学语言封闭且不连通'等表述按源照录"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T19:32:57Z",
+      "evidence": "r3 终校：全文通读 86 段对位无误，无 TBD/英文残句；补充材料链接已可解析（l/lvov-warsaw.seminar.md，照片入 assets/lvov-warsaw，SHA-256 与 yuanwen 镜像一致）；标题/SUMMARY（1600 行 H1 一致）、mu-lu-s 467 行、jian-yi-shu/fu-lu-a.md 旧译名'逻辑蕴涵'同步为'逻辑后承'（本次一并提交）；lq.py check 86 段守恒 OK"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T19:33:53Z",
+      "evidence": "done 收口：四门禁 + check_terms/check_summary 全绿（style 0 / prose 0 / math 0 / academic strict 0 硬错误 / terms 硬错误 0 / H1 一致）；r1–r3 冷置间隔为 logic-infinitary 等三条在途条目；补充材料页与图片已入库"
     }
   ],
   "blockers": [],
