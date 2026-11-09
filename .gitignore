@@ -150,7 +150,6 @@ vite.config.ts.timestamp-*
 /state
 /.workbuddy
 /script
-/yuanwen
 /tools/__pycache__
 *.pyc
 
@@ -160,9 +159,9 @@ vite.config.ts.timestamp-*
 # SEP 上游同步检查的运行时报告（基线 .github/sep-baseline/ 需提交，报告不入库）
 /.github/sep-sync-report/
 
-# ===== SEP-CN 原始物与垃圾清理（ADR-0003） =====
-# 原始抓取物仅存本地，不入库（宪法 II / FR-014）；版本事实源见 baseline/ 与 .github/sep-baseline/
-/en/
+# ===== SEP-CN 原始物与垃圾清理（ADR-0003 + ADR-0027） =====
+# 原始抓取物 en/ 与转换镜像 yuanwen/ 自 2026-11-09 起入库（ADR-0027，宪法 II v1.3.0）；
+# 版本事实源仍见 baseline/ 与 .github/sep-baseline/
 __pycache__/
 *.py[cod]
 .pytest_cache/
@@ -178,8 +177,7 @@ desktop.ini
 *.tmp
 *.bak
 
-# 原始抓取物仅存本地（宪法 II / FR-014；ADR-0003）——恢复被覆盖的忽略规则
-/en/
+# 原始抓取物已入库（ADR-0027，2026-11-09）——保留本节仅作沿革注记，不再忽略 /en/
 
 # specs/008 术语战役：单篇提取缓存（本地可再生，池与凭证入库）
 specs/008-terminology-campaign/results/harvest-cache/

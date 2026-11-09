@@ -24,8 +24,8 @@
 | `check_summary.py` | SUMMARY 结构审计（条目解析、缺失文件、命名、重复）；硬错误退出码 1 |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测；坏链/路径错/标题不一致为硬错误（退出码 1），覆盖缺口与重复收录仅报告 |
 | `check_terms.py` | 术语一致性检查（specs/002）：登记册 ↔ 词汇表译法冲突与登记册自洽为硬错误（退出码 1），词汇表滞后与缺裁定日期为告警；`--docs <路径>...` 定点核销 |
-| `check_junk.py` | 垃圾/产物入库门禁（ADR-0003）：扫描 git 跟踪清单，原始物、缓存、构建产物、系统杂物命中即退出码 1 |
-| `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件，跳过 .git/node_modules/en/script 等保护目录） |
+| `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0027）：扫描 git 跟踪清单，缓存、构建产物、系统杂物命中即退出码 1（`en/`、`yuanwen/` 已入库，不再判违规） |
+| `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件，跳过 .git/node_modules/en/yuanwen/script 等保护目录） |
 | `progress.py` | 从 SUMMARY/baseline/tasks 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
 
 ## 快速命令

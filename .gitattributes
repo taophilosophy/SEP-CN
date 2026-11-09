@@ -8,6 +8,12 @@
 *.gif binary
 *.ico binary
 
+# 原始物入库（ADR-0027）：逐字节保真，禁用行尾转换。
+# 原始抓取 HTML 与转换镜像混有 CRLF/LF，任何归一化都会破坏「不可变原始物」与
+# en/ ↔ yuanwen/ 的逐字符一致性（sha256 对不上）。
+/en/** -text
+/yuanwen/** -text
+
 *.md linguist-vendored=false
 *.md linguist-generated=false
 *.md linguist-documentation=false

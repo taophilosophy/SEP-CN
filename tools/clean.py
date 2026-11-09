@@ -19,7 +19,7 @@ import sys
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-SKIP_DIRS = {'.git', 'node_modules', 'en', 'script', '.specify', '.zcode'}
+SKIP_DIRS = {'.git', 'node_modules', 'en', 'yuanwen', 'script', '.specify', '.zcode'}
 JUNK_DIRS = {'__pycache__', '.pytest_cache', '.mypy_cache', '.ruff_cache'}
 JUNK_DIR_PREFIXES = (os.path.join('.vitepress', 'cache') + os.sep,
                      os.path.join('.vitepress', 'dist') + os.sep)

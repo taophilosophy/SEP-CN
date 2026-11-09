@@ -319,7 +319,7 @@ def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None, defer_tail
             # （notes.html#note-N 出现在 en/<slug>/*.html 中），主文定义非孤儿
             if cross_refs and key in cross_refs:
                 continue
-            # CI 无 en/ 原始包（不入库）：注号定义是否被补充材料页引用无从核对，
+            # 稀疏检出/无 en/ 原始包时（ADR-0027 后仅见于稀疏检出）：注号定义是否被补充材料页引用无从核对，
             # 降级为告警，避免把「notes.html 聚合页」误判为孤儿（2026-11-07 实例：
             # s/spacetime-holearg.md 的 note-7/8 由 gauge.html 引用，CI 却判硬错误）。
             # 本地 check_all 有 en/ 时照常硬拦。

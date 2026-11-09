@@ -30,7 +30,7 @@
 | ---- | ---- |
 | `fetch.py` / `fetch_catalog.py` / `fetch_entry.py` | SEP 抓取（正文、目录、词条包；串行默认 ≥5 秒间隔，失败显式化；并发模式间隔按 2026-10-27 用户裁定，见 specs/001 Assumptions） |
 | `fetch_all.py` | 全量抓取+原文镜像驱动器（并发节拍 A=16 路×5s / B=64 路×10s，实测均无限流；`--resume` 断点续跑；逐条留痕 `script/fetch-all-log.jsonl`） |
-| `extract_text.py` / `parser.py` / `yuanwen.py` | 原始 HTML → 提取文本（`en/`、`yuanwen/`，不入库）；数学保真（2026-10-27 裁定）：跨块公式保护、公式内部原样保留，仅定界符统一 `$`/`$$`、空白折叠、表格内竖线一律以 `&#124;` 保义 |
+| `extract_text.py` / `parser.py` / `yuanwen.py` | 原始 HTML → 提取文本（`en/`、`yuanwen/`，ADR-0027 起入库，随抓取批提交）；数学保真（2026-10-27 裁定）：跨块公式保护、公式内部原样保留，仅定界符统一 `$`/`$$`、空白折叠、表格内竖线一律以 `&#124;` 保义 |
 | `baseline_audit.py` | 基线清单审计（哈希、版本钉一致性） |
 | `task_ops.py` | 文档任务状态机（show / create / advance / clear / block） |
 | `check_style.py` | 体例检查（引号、空格、HTML/AsciiDoc 残留；输出 JSON） |
@@ -39,7 +39,7 @@
 | `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；跳过代码块与行内代码，`yuanwen/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，退出码 0 |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）＋ H1 一致性硬门禁（SUMMARY 条目文字 ↔ 文件 H1，ADR-0024）＋ 别名行英文完整标题硬门禁（`alias fragment`，ADR-0024）；硬错误退出码 1；`--headers` 只查标题（CI 用），`--sync-headers` 按 SUMMARY 同步 H1（本地用，写回后跑残差门） |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录）；坏链/路径错/标题不一致为硬错误，退出码 1 |
-| `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0023）：原始物、缓存、构建产物、系统杂物命中即退出码 1；根目录白名单对跟踪清单与工作区双向核对，根级散件无论是否入库一律红灯 |
+| `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0023 + ADR-0027）：缓存、构建产物、系统杂物命中即退出码 1（`en/`、`yuanwen/` 已入库，不再判违规）；根目录白名单对跟踪清单与工作区双向核对，根级散件无论是否入库一律红灯 |
 | `check_terms.py` | 术语一致性门禁（specs/002）：登记册 ↔ 词汇表译法互斥冲突、登记册废弃链/重复为硬错误（退出码 1）；词汇表滞后、缺裁定日期、`--docs` 定点核销仅告警 |
 | `check_math.py` | 数学保真门禁（2026-10-27 裁定）：原始 HTML 每条公式内容必须原样出现在 yuanwen 产物；占位符残留、行内 `$` 失衡为硬错误（退出码 1） |
 | `check_doc_size.py` | 单体文件大小门禁（ADR-0004）：叙事/规则/规格类 md 超 1000 行或 100KB 即退出码 1；登记册与生成物豁免 |

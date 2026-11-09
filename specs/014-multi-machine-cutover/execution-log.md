@@ -83,3 +83,28 @@
 * 取证方法可复用：`check_terms.py --registry <单提交导出> --glossary <同>` 注入单表模式，能判定冲突属于哪个提交，不必动他人工作树。
 * **暴露的纪律问题**：C: 历史出现多个 `Merge branch 'main' of https://github.com/...`（`1839013b`/`3070e112`/`2ce504be`），说明有会话用裸 `git pull`（merge）而非 `--rebase`，与 `rules/06` 第 3 条相悖；双机后合并图会越来越乱，须纠正。
 * **脚本改进点**：`verify-clone.sh` 首轮把 `git status` 报成 45 项脏，实为 clone 后 index 未刷新的 racy-git 假阳性（随后自收敛到 2 项）。建议脚本开头加 `git update-index --refresh >/dev/null 2>&1 || true` 再计数。
+
+## 2026-11-09 原始物入库（ADR-0027）
+
+用户裁定「en、yuanwen 也入 git 库；其他应入 git 库的文件应入尽入」。落地为宪法 II 修订（v1.2.0 → **v1.3.0**）+ ADR-0027。
+
+**边界**：`en/`、`yuanwen/` 入库；`.secrets/`（凭证）永不入库；`script/`（个人草稿）、`state/`（运行态）、`node_modules/`、缓存与生成物仍忽略——「应入尽入」以规则既有边界为准。
+
+**改动面**：`.gitignore` 撤 `/en/`×2 与 `/yuanwen`；`.gitattributes` 新增 `en/** -text`、`yuanwen/** -text`（**关键**：全局 `core.autocrlf=input` 会把 CRLF 归一化，破坏原始物字节与 sha256 对账）；`check_junk` 撤 `^en/` 规则；`clean.py` 的 `SKIP_DIRS` 增 `yuanwen`；`check_images`/`check_academic` 的「CI 无原始物」降级注释改写；`rules/01`、`rules/05`、`AGENTS.md`、`tools/README.md`、`specs/001` FR-014 同步。
+
+**体积**（实测）
+
+| 目录 | 文件 | 文本 | 图片 |
+| --- | --- | --- | --- |
+| `en/` | 5434 | 273 MB（3595） | 106 MB（1839） |
+| `yuanwen/` | 4262 | 209 MB（2428） | 106 MB（1839，与 en 同内容，git 自动去重） |
+
+未推提交的压缩包实测 **233 MiB**（`git pack-objects` 全量重算）。
+
+**事故：en/ 被并行客户端清空**。19:2x 时 `en/` 从 5434 文件变成 0 文件（仅剩 2 个空目录）。根因线索：GitHub Desktop 于 09:19Z 把 `C:\Users\ykla\Documents\SEP-CN` 加入其仓库列表，随后在 09:45Z 有 commit 动作，日志中出现 `Unable to create index.lock`——GUI 客户端与本会话争用同一仓库，其「丢弃更改」类操作会删除未跟踪文件，而当时 `en/` 尚未入库。处置：从 M2 副本 `robocopy /MIR` 恢复（5434 文件，27 s），随即 `git add en` 入库，**已跟踪后不会再被 clean 类操作删除**。
+
+**分叉与 rebase**：本地 3 提交（宪法修订 / yuanwen / en）与 M2 的 23 提交分叉，`git pull --rebase` **零冲突**——文件面完全不重叠（本地改规则/工具/宪法，M2 改词条/任务/登记册）。rebase 后 M2 又推进 6 提交，再次 rebase 仍零冲突。
+
+**带宽与推送策略**：代理 `192.168.5.4:7890` 上行实测 **87 KB/s**（10 MB 上传 120 s 超时）；直连 GitHub 被 reset，代理是唯一通路 → 233 MiB ≈ 45 分钟。为免「每被 M2 顶掉一次就重传 233 MB」，先推独立分支 `archive/raw-20261109`（main 移动不影响它），对象在 GitHub 侧共享，随后推 main 只传 commit 对象增量。
+
+**遗留纪律问题**：GitHub Desktop 用 merge 而非 rebase，且会与命令行争用 `index.lock`——建议 M1 关闭该仓库的 GUI 窗口，否则双机合并图与工作树都会被它搅乱。

@@ -3,7 +3,7 @@
 
 把 en/<slug>/index.html（不可变原始抓取物）确定性转换为 yuanwen/<letter>/<slug>.md：
 - 结构与中文仓库逐字符镜像（ADR-0009 A–Z 字母目录）：yuanwen/<letter>/<slug>.md，letter=slug 首字符
-- 抓取的原始 HTML 一律存 en/<slug>/（不可变原始物，不入库）；yuanwen/ 只存转换后的 md 镜像
+- 抓取的原始 HTML 一律存 en/<slug>/（不可变原始物，ADR-0027 起入库）；yuanwen/ 只存转换后的 md 镜像
 - 脚注：正文 <sup>[<a href="notes.html#n">n</a>]</sup> → [^note-n]；notes.html → 文末脚注定义
   （定义名取注段自身锚点 id，即 <div id="note-N"> 的 N——旧实现取回链目标
   index.html#ref-N，与正文引用 notes.html#note-N 错位，D14）

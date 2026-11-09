@@ -2,10 +2,11 @@
 """垃圾入库门禁（ADR-0003 + ADR-0023）：扫描 git 跟踪清单与根目录工作区，命中即非零退出。
 
 用法: python tools/check_junk.py
-规则一（全库，跟踪清单）: 原始抓取物（en/）、运行时报告（.github/sep-sync-report/）、
+规则一（全库，跟踪清单）: 运行时报告（.github/sep-sync-report/）、
       字节码缓存、构建产物（node_modules、.vitepress/cache|dist、.astro、.turbo、dist、coverage）、
       系统与编辑器杂物（.DS_Store、Thumbs.db、desktop.ini、*~、*.swp、*.tmp、*.bak、*.log）
-      一律不得入库。可入库的事实源：baseline/、.github/sep-baseline/、PROGRESS.md（生成但受控）。
+      一律不得入库。可入库的事实源：baseline/、.github/sep-baseline/、PROGRESS.md（生成但受控）、
+      en/ 与 yuanwen/（原始物与转换镜像，ADR-0027 起入库）。
 规则二（根目录白名单，ADR-0023）: 根目录只允许 ROOT_ALLOW 登记的条目（工具链配置、顶层叙事文档、
       A–Z 词条目录、结构目录、包管理文件）。跟踪清单与工作区（含被忽略物）双向核对——
       根级散件无论 `git add -A` 扫没扫到、忽略规则漏没漏，都算违规。
@@ -41,7 +42,6 @@ PATTERNS = [
     (r'^dist/', '构建输出'),
     (r'^coverage/', '测试覆盖率输出'),
     (r'^\.(pytest_cache|mypy_cache|ruff_cache)/', '工具缓存'),
-    (r'^en/', '原始抓取物（宪法 II / FR-014：仅存本地）'),
     (r'^\.github/sep-sync-report/', '同步检查运行时报告'),
     (r'^[^/]+\.html$', '根级 HTML 残留（站点页面误抓，仓库无合法根级 html；2026-10-27 audit 教训）'),
     (r'^_[^/]', '根级 `_` 前缀散件（会话脚手架不入库，批次工件归 specs/005/bin；2026-11-05 D24，add -A 扫入教训）'),
@@ -77,7 +77,7 @@ ROOT_ALLOW = {
     # 结构目录
     'assets': '词条图片（正文 ../assets/ 引用）',
     'baseline': '版本钉基线',
-    'en': '原始抓取 HTML（忽略，仅存本地）',
+    'en': '原始抓取 HTML（ADR-0027 起入库）',
     'fang-fa-lun': '翻译工程方法论散页',
     'guan-yu': '项目说明页',
     'jian-yi-shu': '一次性交付物',
@@ -90,7 +90,7 @@ ROOT_ALLOW = {
     'state': '管线本地运行态（忽略）',
     'tasks': '任务状态记录',
     'tools': '管线与治理脚本',
-    'yuanwen': '英文原文镜像（忽略，仅存本地）',
+    'yuanwen': '英文原文镜像（ADR-0027 起入库）',
     # 包管理
     'package.json': '站点依赖声明',
     'bun.lock': 'bun 锁文件',
