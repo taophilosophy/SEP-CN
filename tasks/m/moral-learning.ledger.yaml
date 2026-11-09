@@ -1052,68 +1052,90 @@ segments:
     kind: body
     source: |-
       ### 6.2 Trade-off between fit and flexibility
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 Trade-off between fit and flexibility
+    step2: |-
+      ### 6.2 拟合与灵活性之间的权衡
   - id: 131
     kind: body
     source: |-
       Another statistical principle that has been invoked to explain moral representations involves the trade-off between fit and flexibility. Of course, it’s important for a hypothesis to *fit the data*; but it’s also important to take into account the *flexibility* of the hypothesis, i.e., *its ability to fit data*. An extremely flexible hypothesis can accommodate a very wide range of data and thus risks overfitting. Thus each prediction of a highly flexible hypothesis is less likely than the prediction of a more committal hypothesis.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个被用来解释道德表征的统计原则，涉及拟合与灵活性之间的权衡。假设*拟合数据*固然重要，但考虑假设的*灵活性*——即*它拟合数据的能力*——同样重要。一个极其灵活的假设能容纳极广的数据范围，因而有过度拟合的风险。因此，高度灵活假设的每个预测，都比更“有立场”的假设的预测更不可能成立。
+    step2: |-
+      还有一个统计原则常被用来解释道德表征：拟合与灵活性要权衡。假设*贴合数据*当然重要，可它的*灵活性*——能贴合多少数据——也得算进去。太灵活的假设什么数据都能装，容易过度拟合；因此它每作一个预测，都比更“有立场”的假设的预测更不靠谱。
   - id: 132
     kind: body
     source: |-
       This applies naturally to evaluating whether a claim is universally or relatively true. Consider a child learning about months and seasons. She thinks that the sentence “July is a summer month” is true, and she’s trying to figure out whether it’s universally true or only relatively true. If she discovers that just over half the world considers July a summer month while the rest do not, it would be reasonable for her to conclude that the sentence “July is a summer month” is only relatively true. The hypothesis that it is a universal truth fits the consensus data too poorly.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这自然适用于评价一个断言是普遍为真还是相对为真。设想一个孩子在学习月份与季节。她认为“七月是夏季月份”这句话为真，并想弄清它是普遍为真还是仅相对为真。如果她发现世界上刚过半数的人认为七月是夏季月份，其余人不这么认为，那么她合理地会得出结论：“七月是夏季月份”仅相对为真。认为它是普遍真理的假设，拟合共识数据拟合得太差。
+    step2: |-
+      评价一句话是普遍为真还是相对为真，正好用得上。设想一个孩子学月份与季节。她觉得“七月是夏天的月份”没错，可想知道这是普遍如此，还是只相对如此。她要是发现，世界上刚过半的人认为七月是夏天，另一半不这么看，那她合理地会断定：这句话只是相对为真。说它“普遍为真”的假设，跟共识数据对得太差。
   - id: 133
     kind: body
     source: |-
       Now imagine the child learns that 99% of people around the world think that “Snow melts when it warms” is true. The consensus surrounding this judgment provides reason to think that it is a universal truth about which a small minority is mistaken. A relativist account can, of course, fit the responses – one could say that the judgment is true relative to one group and false relative to another, much smaller group; however, the relativist hypothesis can say this about *any* distribution of responses, and this massive amount of flexibility counts against it. It will often be more plausible to count a small minority as mistaken about a universal truth rather than correct about a relative one.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在设想孩子得知，全世界 99% 的人认为“雪遇暖即融”为真。围绕这一判断的共识，提供了理由认为它是普遍真理，只是少数人弄错了。相对主义说明当然也能拟合这些反应——人们可以说，该判断相对于一个群体为真、相对于另一个小得多的群体为假；然而，相对主义假设对*任何*反应分布都能这么说，这种巨大的灵活性对它不利。通常更可信的是：把一小少数算作对一条普遍真理判断有误，而不是算作对一条相对真理判断正确。
+    step2: |-
+      再设想孩子得知，全世界 99% 的人认为“雪遇暖就化”是真的。这一共识让人有理由说：这是普遍真理，只是极少数人弄错了。相对主义当然也装得下：它可以说，这句话对这群人为真、对那一小群人为假。可相对主义假设对*任何*分布都这么说；这么能屈能伸，反倒成了它的软肋。通常更可信的是：把那一小撮算作“对普遍真理看走了眼”，而不是“对相对真理看得准”。
   - id: 134
     kind: body
     source: |-
       More generally, if opinion is largely split, then, unless we have prior reason to think it’s a universal domain or the opinion-holders are unreliable on the topic, it is rational to infer relativism as a means of fitting the data. However, if opinion is almost universal then, unless we have prior reason to think it’s a relativist domain or the opinion holders are unreliable on the topic, we should maintain universalism rather than take on a flexible account like relativism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更一般地说，如果意见大体分裂，那么，除非我们有先前的理由认为这是个普遍领域，或持意见者在此题上不可靠，否则理性地推断相对主义，是拟合数据的一种方式。然而，如果意见几乎一致，那么，除非我们有先前的理由认为这是个相对主义领域，或持意见者在此题上不可靠，否则我们应当维持普遍主义，而不是采纳相对主义这类灵活说明。
+    step2: |-
+      更一般地说：意见若大体对半，除非我们事先就知道这领域是普遍的、或者持论者在这题上不靠谱，否则理性地推一把相对主义，是让模型贴合数据的办法。反过来，意见若几乎一边倒，除非事先知道这领域是相对的、或者持论者不靠谱，否则就该守住普遍主义，别去背相对主义那套灵活包袱。
   - id: 135
     kind: body
     source: |-
       #### 6.2.1 Universal norms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 6.2.1 Universal norms
+    step2: |-
+      #### 6.2.1 普遍规范
   - id: 136
     kind: body
     source: |-
       People tend to think it’s universally true that it’s wrong to steal (e.g., Goodwin & Darley 2008)[^goodwin-2008]. But people think that it’s only relatively true that it’s wrong to wear jeans to school. In other words, whether it’s wrong to wear jeans depends on the context, but it’s wrong to steal across all contexts. How do people come to make these meta-normative judgments? Reasoning from fit and flexibility provides a method. If we discover that almost everyone thinks it’s wrong to steal, then this favors the view that stealing is universally wrong. To invoke relativism would introduce unwarranted flexibility into the model. By contrast, if we discover that there is wide divergence about whether it’s wrong to wear jeans to school, this suggests that the claim about attire must be relativized to context.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们倾向于认为，“偷窃是错的”普遍为真（如 Goodwin & Darley 2008）[^goodwin-2008]。但人们认为，“穿牛仔裤上学是错的”仅相对为真。换句话说，穿牛仔裤对不对取决于情境，而偷窃在任何情境下都是错的。人们如何作出这些元规范判断？从拟合与灵活性出发的推理提供了一种方法。如果我们发现几乎所有人都认为偷窃是错的，这就支持“偷窃普遍为错”的观点；诉诸相对主义会给模型引入没有根据的灵活性。相比之下，如果我们发现关于“穿牛仔裤上学是否错误”分歧很大，这就提示，关于着装的说法必须相对于情境来理解。
+    step2: |-
+      人们多半认为“偷东西是错的”普遍为真（如 Goodwin & Darley 2008）[^goodwin-2008]，却认为“穿牛仔裤上学是错的”只是相对为真。换句话说，穿牛仔裤对不对看情境，偷东西在哪儿都错。这类元规范判断是怎么来的？拟合与灵活性的推理给出了一条路：若发现几乎人人都说偷不对，就支持“偷普遍为错”；此时搬出相对主义，等于凭空给模型加灵活性。反过来，若发现“穿牛仔裤上学对不对”众说纷纭，那就提示：着装这档子事，得相对于情境来说。
   - id: 137
     kind: body
     source: |-
       Are people actually sensitive to consensus evidence when making judgments about whether a claim is universally or only relatively true? Indeed they are. First, there is a correlation between judgments of universalism and judgments of high consensus. For instance, people tend to think that (1) there is widespread consensus that it’s wrong to rob banks and that (2) robbing a bank is universally wrong; by contrast, people tend to think that (1*) there is no widespread consensus about whether abortion is wrong and that (2*) abortion is not universally wrong (Goodwin & Darley 2008)[^goodwin-2008]. Goodwin & Darley (2012) also manipulated perceived consensus about various issues by informing participants either that there was high or low consensus in the United States about the issue; they found that people gave more universalist responses when they were told that consensus was high and more relativist responses when they were told that consensus was low (see also Ayars & Nichols 2020)[^ayars-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们作“普遍为真还是仅相对为真”的判断时，是否真的对共识证据敏感？确实敏感。第一，普遍主义判断与高共识判断之间存在相关。例如，人们倾向于认为：（1）存在广泛共识认为抢银行是错的；（2）抢银行普遍为错。相比之下，人们倾向于认为：（1*）关于堕胎是否错误并无广泛共识；（2*）堕胎并非普遍为错（Goodwin & Darley 2008）[^goodwin-2008]。Goodwin & Darley（2012）还通过告知参与者美国国内对该议题的共识是高是低，来操纵感知到的共识；他们发现，被告知共识高时，人们给出更多普遍主义回答，被告知共识低时，给出更多相对主义回答（另见 Ayars & Nichols 2020）[^ayars-2020]。
+    step2: |-
+      人作“普遍为真还是只相对为真”的判断时，真看共识吗？真看。其一，普遍主义判断与“共识很高”的判断相关：人们多半觉得（1）抢银行对不对，大家有广泛共识说不对；（2）抢银行在哪儿都错。反过来，人们多半觉得（1*）堕胎对不对，没什么广泛共识；（2*）堕胎并非普遍为错（Goodwin & Darley 2008）[^goodwin-2008]。Goodwin & Darley（2012）还直接操纵“感知到的共识”：告诉参与者美国国内对此议题共识高或低。结果，听到“共识高”的人，普遍主义回答更多；听到“共识低”的人，相对主义回答更多（另见 Ayars & Nichols 2020）[^ayars-2020]。
   - id: 138
     kind: body
     source: |-
       #### 6.2.2 The moral/conventional distinction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 6.2.2 The moral/conventional distinction
+    step2: |-
+      #### 6.2.2 道德/习俗区分
   - id: 139
     kind: body
     source: |-
       As we saw above (section 3.1), children reliably treat moral violations differently from conventional violations. Of particular interest is that children are more likely to regard conventional violations (e.g., standing up during nap time) as authority-dependent than moral violations (e.g., hitting another child). If a teacher says that there is no rule against standing up during nap time, then children are more inclined to say that the action is permissible than if the teacher says there is no rule against hitting another child (Smetana, 1985; Turiel 1983)[^turiel-1983].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上文所见（3.1 节），儿童可靠地把道德违规与习俗违规区别对待。特别值得注意的是，比起道德违规（如打另一个孩子），儿童更倾向于把习俗违规（如午睡时站起来）视为依赖权威。如果老师说没有禁止午睡时站起来的规则，儿童比听到“没有禁止打别的孩子”时更倾向于说该动作是允许的（Smetana, 1985; Turiel 1983）[^turiel-1983]。
+    step2: |-
+      上文（3.1 节）已见，儿童总是把道德违规与习俗违规分开对待。有趣的是：比起道德违规（如打别的孩子），他们更觉得习俗违规（如午睡时站起来）是“看权威”的。老师说没规定不许午睡时站起来，孩子多半会说那就可以；老师说没规定不许打别的孩子，孩子却不这么说（Smetana, 1985; Turiel 1983）[^turiel-1983]。
   - id: 140
     kind: body
     source: |-
       The account of universalist and relativist judgments offered above naturally extends to explain judgments about authority-independence. Insofar as perceived high consensus generates a universalist judgment – that the action is wrong universally – it follows that the action should also be regarded as wrong independent of authority. In a recent study, consensus information was manipulated directly and the results indicated that when there is high consensus regarding an unspecified normative prohibition, people tend to think that the prohibited action is wrong independent of authority (Ayars & Nichols 2020)[^ayars-2020]. Thus, statistical learning seems to provide an explanation for how people come to make judgments of universalism and relativism as well as authority independence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上文关于普遍主义与相对主义判断的说明，自然可以扩展来解释关于权威独立性的判断。就感知到的高共识产生普遍主义判断——即该动作普遍为错——而言，随之而来的便是：该动作也应被视为独立于权威而为错。在一项近期研究中，共识信息被直接操纵，结果显示：当对某项未指明的规范禁令存在高共识时，人们倾向于认为被禁动作独立于权威而为错（Ayars & Nichols 2020）[^ayars-2020]。因此，统计学习似乎为人们如何作出普遍主义与相对主义判断、以及权威独立性判断，提供了解释。
+    step2: |-
+      上文那套普遍主义与相对主义的说明，正好能延伸到“独立于权威”。既然高共识会生出普遍主义判断——这动作在哪儿都错——那它自然也该被视为错不取决于权威。一项近期研究直接操纵共识信息：对某条未言明的禁令，共识高时，人们倾向于认为被禁的动作错不取决于权威（Ayars & Nichols 2020）[^ayars-2020]。可见统计学习似乎把普遍主义、相对主义乃至权威独立性的判断，一并解释了。
   - id: 141
     kind: body
     source: |-
