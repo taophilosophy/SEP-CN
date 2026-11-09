@@ -1,0 +1,33 @@
+{
+ "key": "erlebnis-asthetik",
+ "term": "Erlebnis-Ästhetik",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T19:17:24+00:00",
+ "status": "ok",
+ "note": "variant=Erlebnis-Ästhetik; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "口腔美容学",
+   "en": "esthetic dentistry",
+   "code": "01.042",
+   "standard": "医学名词 第二分册",
+   "subject": "医学_口腔医学_口腔医学总论"
+  },
+  {
+   "cn": "公路美学设计",
+   "en": "highway esthetic design",
+   "code": "02.061",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_道路工程"
+  },
+  {
+   "cn": "生存世界",
+   "en": "erlebnis\",\"experience",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

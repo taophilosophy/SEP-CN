@@ -1,0 +1,26 @@
+{
+ "key": "equivocal",
+ "term": "equivocal",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T19:12:54+00:00",
+ "status": "ok",
+ "note": "variant=equivocal; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "疑义度",
+   "en": "equivocation",
+   "code": "05.023",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "疑义度",
+   "en": "equivocation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

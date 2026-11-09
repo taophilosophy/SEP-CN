@@ -1,0 +1,348 @@
+{
+ "key": "epistemic thing",
+ "term": "epistemic thing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T19:09:54+00:00",
+ "status": "ok",
+ "note": "variant=epistemic thing; 审定公布名词库=523; 海峡两岸名词对照库=99; 其他来源数据库=106; 预公布名词数据库=39; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "认识相对性",
+   "en": "epistemic relativity",
+   "code": "03.013",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "code": "03.648",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "code": "06.013",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "认识客体",
+   "en": "epistemic object",
+   "code": "06.014",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "认识工具",
+   "en": "epistemic implement",
+   "code": "06.018",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "code": "18.014",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题"
+  },
+  {
+   "cn": "认知逻辑",
+   "en": "epistemic logic",
+   "code": "08.0012",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "认知的不确定性",
+   "en": "epistemic uncer-tainty",
+   "code": "01.1982",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "物",
+   "en": "thing",
+   "code": "02.033",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_基本概念"
+  },
+  {
+   "cn": "传染型余震序列模型",
+   "en": "epistemic type aftershock sequence; ETAS",
+   "code": "01.2217",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "聚焦物",
+   "en": "focus thing",
+   "code": "04.028",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "起因物",
+   "en": "causing thing",
+   "code": "02.118",
+   "standard": "化工名词（四）安全·环保·可持续发展",
+   "subject": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护"
+  },
+  {
+   "cn": "对事情归因",
+   "en": "attribution towards things",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "Th0细胞",
+   "en": "Th0 cell",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "Th1细胞",
+   "en": "Th1 cell",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "Th2细胞",
+   "en": "Th2 cell",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "Th3细胞",
+   "en": "Th3 cell",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "杜能圈",
+   "en": "von Th黱en",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "酪氨酸羟化酶",
+   "en": "tyrosine hydroxylase\",\"TH",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "跳时式",
+   "en": "time-hopped\",\"TH",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "附加六度和弦",
+   "en": "chord of added 6th",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "杜能模式",
+   "en": "von Th黱en pattern",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "辅助性T细胞",
+   "en": "helper T cell\",\"Th cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "辅助性T细胞",
+   "en": "helper T cell， Th cell",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "物",
+   "en": "Wu (Thing / Matter)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "物联网",
+   "en": "Internet of Things",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "物化",
+   "en": "Transformation of Things",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "物联网",
+   "en": "Internet of Things",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "齐物",
+   "en": "Seeing Things as Equal",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "和实生物",
+   "en": "Harmony Begets New Things.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "类族辨物",
+   "en": "Discerning Things Through Classification",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "万物一体",
+   "en": "All Things Are One.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "窄带物联网",
+   "en": "narrowband Internet of Things",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物联网",
+   "en": "Internet of Things (IoT)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物联网银行",
+   "en": "Banking of Things (BoT)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "格物致知",
+   "en": "Study Things to Acquire Knowledge",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "自在之物",
+   "en": "thing in itself",
+   "code": "01.0118",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "一切经过试验",
+   "en": "all things should be experimented",
+   "code": "04.0175",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "医疗物联网技术",
+   "en": "internet of medical things technology",
+   "code": "17.2.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务"
+  },
+  {
+   "cn": "钍-232",
+   "en": "232Th",
+   "code": "2.4.14",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品放射性污染"
+  },
+  {
+   "cn": "古为今用洋为中用",
+   "en": "make the past serve the present and foreign things serve China",
+   "code": "03.0464",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "胸气道",
+   "en": "thoracic (TH) airways",
+   "code": "6.3.2.25",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "八七会议",
+   "en": "August th Conference",
+   "code": "04.0528",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要会议_中国化的马克思主义时期"
+  },
+  {
+   "cn": "战争胜负的决定因素是人不是物",
+   "en": "factor which decides the outcome of a war is man but not any other things",
+   "code": "03.0402",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "五四运动",
+   "en": "May th Movement of",
+   "code": "04.0255",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_中国化的马克思主义时期"
+  },
+  {
+   "cn": "红八团",
+   "en": "8th Russian Cavalry Regiment",
+   "code": "3.0593",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "苏联事件",
+   "en": "Soviet Union August th Event",
+   "code": "04.0250",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_列宁斯大林时期"
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic",
+   "code": "8.002",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

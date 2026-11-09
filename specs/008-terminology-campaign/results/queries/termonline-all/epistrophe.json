@@ -1,0 +1,26 @@
+{
+ "key": "epistrophe",
+ "term": "epistrophe",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T19:09:54+00:00",
+ "status": "ok",
+ "note": "variant=epistrophe; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "呼告",
+   "en": "apostrophe",
+   "code": "08.178",
+   "standard": "语言学名词",
+   "subject": "语言学_修辞学_修辞方法"
+  },
+  {
+   "cn": "比拟呼告",
+   "en": "apostrophe by personification",
+   "code": "08.179",
+   "standard": "语言学名词",
+   "subject": "语言学_修辞学_修辞方法"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

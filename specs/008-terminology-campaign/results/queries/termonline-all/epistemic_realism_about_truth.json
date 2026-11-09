@@ -1,0 +1,348 @@
+{
+ "key": "epistemic realism about truth",
+ "term": "epistemic realism about truth",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T19:09:54+00:00",
+ "status": "ok",
+ "note": "variant=epistemic realism about truth; 审定公布名词库=355; 海峡两岸名词对照库=90; 其他来源数据库=78; 预公布名词数据库=45; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "code": "04.073",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "现实主义",
+   "en": "realism",
+   "code": "01.058",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_理论与方法"
+  },
+  {
+   "cn": "真值",
+   "en": "truth",
+   "code": "02.0042",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "认识相对性",
+   "en": "epistemic relativity",
+   "code": "03.013",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "code": "03.648",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "code": "06.013",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "认识客体",
+   "en": "epistemic object",
+   "code": "06.014",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "认识工具",
+   "en": "epistemic implement",
+   "code": "06.018",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "code": "18.014",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题"
+  },
+  {
+   "cn": "认知逻辑",
+   "en": "epistemic logic",
+   "code": "08.0012",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "半真相",
+   "en": "partial truth;half truth",
+   "code": "12.017",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "科学实在论",
+   "en": "scientific realism",
+   "code": "03.003",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "现实主义",
+   "en": "realism",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "真实感显示",
+   "en": "realism display，realism rendering",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "实验真实性",
+   "en": "experimental realism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "掉抢",
+   "en": "come about",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "真实感图形",
+   "en": "photo-realism graphic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "真实标记",
+   "en": "truth in labeling",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "真值表归约",
+   "en": "truth-table reduction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "反复抢风转变航向",
+   "en": "tack about\",\"beating about\",\"tacking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "二谛",
+   "en": "Satyadvaya / Two Truths",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "人性假设",
+   "en": "assumption about human nature",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "六经皆史",
+   "en": "The Six Confucian Classics Are All About History.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "道济天下",
+   "en": "Support All People by Upholding Truth and Justice",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "见微知著",
+   "en": "Learning About What Is Forthcoming by Observing Tiny Clues",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "编造并传播证券、期货交易虚假信息罪",
+   "en": "crime of fabricating and disseminating false information about securities and futures trading",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "面对面！",
+   "en": "Face about! Face each other! Face to face! Jwawoo-hyangwoo! Turn to front!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "社会唯实论",
+   "en": "social realism",
+   "code": "2.1.7.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会意识"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "code": "3.10.2.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学知识"
+  },
+  {
+   "cn": "客观真理",
+   "en": "objective truth",
+   "code": "01.0209",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "code": "01.0210",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "code": "01.0211",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "《苗防备览》",
+   "en": "A Book about Miao",
+   "code": "3.0306",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "code": "01.0245",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "政策和策略思想",
+   "en": "thought about policy and tactic",
+   "code": "03.0429",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "革命现实主义和革命浪漫主义相结合",
+   "en": "combine revolutionary realism with revolutionary romanticism",
+   "code": "03.0463",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "《御制喇嘛说》",
+   "en": "Doctrine about Lama by Imperial Order",
+   "code": "3.0308",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "code": "03.0614",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "code": "03.0560",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
