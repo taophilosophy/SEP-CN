@@ -11,86 +11,114 @@ segments:
     kind: body
     source: |-
       Cancer is a major health problem worldwide; it is a leading cause of death, and with few exceptions, there have been steady increases in incidence and mortality (WHO, 2020). Perhaps not surprisingly, then, cancer is a central topic of biomedical research, drawing billions of dollars annually. In 2019, the U.S. National Cancer Institute (NCI) allocated $5.74 billion in federal dollars, a $79 million increase over 2018 (NCI, 2019—see the Other Internet Resources). A search for the term “cancer” in PubMed returns over three million hits.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      癌症是世界范围内的一大健康问题；它是主要死因之一，而且除少数例外，发病率和死亡率都在稳步上升（WHO, 2020）。因此，癌症成为生物医学研究的核心课题、每年吸引数十亿美元资金，也许并不令人意外。2019 年，美国国家癌症研究所（NCI）拨付了 57.4 亿美元联邦经费，比 2018 年增加 7,900 万美元（NCI, 2019——见“其他网络资源”）。在 PubMed 中检索“cancer”一词会返回三百多万条结果。
+    step2: |-
+      癌症是世界范围内的一大健康问题：它是主要死因之一，而且除少数例外，发病率和死亡率一路稳步上升（WHO, 2020）。因此，癌症成为生物医学研究的核心课题、每年吸引数十亿美元经费，也许并不奇怪。2019 年，美国国家癌症研究所（NCI）拨付联邦经费 57.4 亿美元，比 2018 年增加 7,900 万美元（NCI, 2019，见“其他网络资源”）。在 PubMed 里检索“cancer”，会返回三百多万条结果。
   - id: 2
     kind: body
     source: |-
       Despite this, cancer—and scientific research on cancer—has received relatively little attention from philosophers of science. However, this is starting to change. Recent work by philosophers of science has made substantial contributions to addressing conceptual and methodological issues that arise in cancer science and medicine (Pradeu, et. al., 2023). This entry will focus on four such issues.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管如此，癌症——以及对癌症的科学研究——从科学哲学家那里得到的关注相对较少。不过，情况正在开始改变。科学哲学家近来的工作，对解决癌症科学与医学中出现的概念问题和方法论问题作出了实质贡献（Pradeu, et. al., 2023）。本词条将聚焦四个这样的问题。
+    step2: |-
+      尽管如此，癌症以及对癌症的科学研究，从科学哲学家那里得到的关注一直相对较少。不过，情况正在开始改变。科学哲学家近年来的工作，对解决癌症科学与医学中出现的概念问题和方法问题作出了实质贡献（Pradeu 等，2023）。本词条聚焦其中四个问题。
   - id: 3
     kind: body
     source: |-
       First, scientific classifications of cancer have as yet failed to yield a unified taxonomy. There is a diversity of classificatory schemes for cancer, and while some are hierarchical or nested, others appear to be “cross-cutting.” Initially, researchers turned to genomics in hopes that such issues might be resolved by molecular “subtyping”. However, genomic sequencing and its sequelae—transcriptomics, proteomics, epigenomics, etc.—have, if anything, complicated cancer classification. This literature thus raises a variety of questions about both the nature of the disease and disease classification: Are there some classifications that are more useful, or better than others? What makes a classification a good one? What does it mean to track more or less “natural” distinctions in the context of disease? The problem of cancer classification is complicated by the fact that cancer progression is a process with a complex natural history. Thus, cancer serves as a challenging case not only for disease classification, but also for demarcating disease from health.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一，癌症的科学分类迄今未能产生统一的分类系统。癌症有各式各样的分类方案；有些是层级式或嵌套式的，另一些则似乎是“交叉分类的”。起初，研究者转向基因组学，希望这类问题能通过分子“亚型划分”得到解决。然而，基因组测序及其后续技术——转录组学、蛋白质组学、表观基因组学等等——要说有什么影响，反倒是让癌症分类变得更复杂了。因此，这批文献提出了关于疾病本质和疾病分类的种种问题：有没有哪些分类更有用，或者比别的更好？什么使一个分类成为好的分类？在疾病的语境中，追踪或多或少“自然”的区分是什么意思？癌症分类问题之所以复杂，还因为癌症进展是一个具有复杂自然史的过程。于是，癌症不仅对疾病分类、而且对区分疾病与健康，都成了一个棘手案例。
+    step2: |-
+      第一，癌症的科学分类至今没有产生统一的分类系统。癌症有各种各样的分类方案：有些是层级式或嵌套式的，另一些则看起来是“交叉分类的”。起初，研究者转向基因组学，希望靠分子“亚型划分”解决这类问题。然而，基因组测序以及它带出的转录组学、蛋白质组学、表观基因组学等等，要说有什么作用，反倒是让癌症分类更复杂了。于是，这批文献提出了一连串问题，既关乎疾病本质，也关乎疾病分类：有没有哪种分类更有用，或者比别的好？一个分类凭什么算好？在疾病语境里，追踪或多或少“自然”的区分究竟指什么？癌症分类之所以难，还因为癌症进展是一个自然史复杂的过程。所以，癌症不但是疾病分类的棘手案例，也是区分疾病与健康的棘手案例。
   - id: 4
     kind: body
     source: |-
       Second, many assume that the aim of science is to arrive at true theories, from which one may generate predictions and explanations. However, scientists studying cancer seem to have a variety of different practical and scientific aims, and the practical aims seem to receive far more attention than theoretical ones. Perhaps it is not surprising, then, that historians and philosophers of science do not seem to agree on how best to characterize the aims, let alone agree on how best to assess “progress” in cancer research. With the rise of “big data” science, both philosophers and historians of science are rethinking how best to describe and explain these distinctive kinds of scientific inquiry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二，许多人假定科学的目标是得出真的理论，再从中产生预测和解释。然而，研究癌症的科学家似乎有各式各样不同的实践目标和科学目标，而实践目标似乎远比理论目标更受关注。因此，科学史家和科学哲学家似乎无法就如何最好地刻画这些目标达成一致，更不用说就如何最好地评估癌症研究中的“进步”达成一致，也许并不令人意外。随着“大数据”科学的兴起，科学哲学家和科学史家都在重新思考：如何最好地描述和解释这些独具特色的科学探究。
+    step2: |-
+      第二，许多人假定，科学的目标是得出真的理论，再从中产生预测和解释。可是，研究癌症的科学家似乎有各式各样不同的实践目标和科学目标，而实践目标受关注的程度远远超过理论目标。于是，科学史家和科学哲学家似乎说不到一块去：怎样刻画这些目标最好，他们不一致；怎样评估癌症研究里的“进步”最好，更不一致。这也许并不奇怪。随着“大数据”科学兴起，科学哲学家和科学史家都在重新思考：这些独具特色的科学探究，该怎么描述、怎么解释才最好。
   - id: 5
     kind: body
     source: |-
       Third, cancer is in part a byproduct of our developmental and life history, as well as our evolutionary history. Cancer’s emergence and progression has been compared to a reversion of development, and to the evolution of multicellularity. Thus, cancer raises intriguing questions about how we conceive of “functions,” “development,” and the role of our evolutionary history and particularly, selective trade-offs, in vulnerability to disease.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三，癌症部分地是我们发育史与生活史、以及我们进化史的副产物。癌症的出现和进展曾被比作发育的逆转，也曾被比作多细胞性的演化。因此，癌症提出了一些引人入胜的问题：我们如何设想“功能”“发育”，以及我们的进化史、特别是选择权衡，在疾病易感性中起什么作用。
+    step2: |-
+      第三，癌症部分地是我们发育史、生活史和进化史的副产物。有人把癌症的出现和进展比作发育的逆转，也有人把它比作多细胞性的演化。这就提出了一些很有意思的问题：我们该怎么理解“功能”和“发育”？我们的进化史，特别是选择上的权衡，在疾病易感性里扮演什么角色？
   - id: 6
     kind: body
     source: |-
       Last but not least, cancer research provides a case study for consideration of the roles of values in science, and at the science-policy interface. Epidemiological and toxicological research on cancer’s causes informs law and regulatory policy. Cancer research also provides a test case for debates about the challenges facing precision medicine; in particular, the complexity and heterogeneity of cancer makes translating “basic” science into the “real world” enormously difficult. This does not exhaust the variety of conceptual and methodological questions that arise in cancer science. Philosophical work on cancer is increasingly brought into conversation with debates of general philosophical interest over causation, risk, chance, choice, and moral responsibility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后但同样重要的是，癌症研究为考虑价值在科学中的作用、以及价值在科学与政策交界处的作用，提供了一个案例研究。关于癌症病因的流行病学和毒理学研究，为法律和监管政策提供依据。癌症研究也为关于精准医学所面临挑战的争论提供了一个检验案例；尤其是，癌症的复杂性和异质性使把“基础”科学转化为“现实世界”的应用变得极其困难。这还没有穷尽癌症科学中出现的各种概念问题和方法论问题。关于癌症的哲学工作，正日益被带入与关于因果、风险、机遇、选择与道德责任的一般哲学关切的对话。
+    step2: |-
+      最后同样重要的是，癌症研究提供了一个案例，用来考察价值在科学中、以及在科学与政策交界处起什么作用。关于癌症病因的流行病学和毒理学研究，为法律和监管政策提供依据。癌症研究还为精准医学面临哪些挑战的争论提供了一个检验案例；特别是，癌症的复杂和异质，使“基础”科学转化为“现实世界”应用变得极其困难。癌症科学里的概念问题和方法问题当然不止这些。关于癌症的哲学工作，正越来越频繁地与一般哲学关切的争论对话：因果、风险、机遇、选择、道德责任。
   - id: 7
     kind: body
     source: |-
       ## 1. Defining and Classifying Cancer
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 癌症的定义与分类
+    step2: |-
+      ## 1 癌症的定义与分类
   - id: 8
     kind: body
     source: |-
       What is cancer? Is cancer one disease, or many? If many, how many cancers are there? One might think that such questions are merely empirical. However, it turns out that defining and classifying cancer is contested not merely for empirical reasons. There are at least two broader philosophical issues at stake. First, there is little agreement on how to characterize disease, distinguish disease from health, and thus classify diseases, generally (See the entry on concepts of health and disease). Second, cancers exhibit features that make generating classifications difficult; they are heterogeneous, and variable in their etiology and course of progression. In section 1.1, we will consider challenges facing cancer classification given its intrinsic heterogeneity, and in section 1.2, we will consider challenges facing cancer classification given its variable natural history.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      什么是癌症？癌症是一种疾病，还是许多种？如果是许多种，那有多少种癌症？人们也许以为这类问题纯粹是经验问题。然而结果表明，定义和分类癌症之所以有争议，并不只出于经验理由。这里至少涉及两个更广泛的哲学问题。第一，关于如何刻画疾病、区分疾病与健康、从而一般地分类疾病，几乎没有共识（见“疾病与健康的概念”词条）。第二，癌症表现出一些使分类难以生成的特征；它们异质，而且在病因和进展过程上多变。在 1.1 节，我们将考虑癌症分类因其内在异质性而面临的挑战；在 1.2 节，我们将考虑癌症分类因其多变的自然史而面临的挑战。
+    step2: |-
+      什么是癌症？癌症是一种疾病，还是许多种？如果是许多种，那到底有多少种？人们也许以为，这类问题纯粹是经验问题。结果却发现，定义和分类癌症之所以有争议，并不只因为经验上的理由。这里至少还牵涉两个更大的哲学问题。第一，怎样刻画疾病、怎样把疾病与健康分开、从而一般地给疾病分类，几乎没有什么共识（见“疾病与健康的概念”词条）。第二，癌症有一些特征，让分类很难做：它们彼此异质，病因和进展过程也多变。1.1 节讨论癌症分类因内在异质性而遇到的挑战，1.2 节讨论癌症分类因自然史多变而遇到的挑战。
   - id: 9
     kind: body
     source: |-
       *Prima facie*, what distinguishes diseases are typical symptoms, disease course, and a common cause. However, cancer can be present without clinically detectable symptoms, has variable disease course, and is a multifactorial disease. It is difficult to pick out a “causal bottleneck” uniquely necessary for cancer in general, let alone each cancer type and subtype. While cancers are typically classified by their cell-of-origin—or the tissue, or organ, and cell-type where they originated (e.g., squamous cell carcinoma of the skin or ovaries), it turns out that cancers can contain mixes of different cells of origin, and cancers arising in the same cells or tissues can have very different features, may evolve in different ways, and have different vulnerability to treatment (Marusyk, et al. 2012). How, then, are we to classify such poorly behaving kinds? These puzzles led researchers to wonder whether there are distinctive genetic or molecular “signatures” of each cancer that can help us estimate risk of progression, or chances of recurrence, as well as predict responses to treatment. Perhaps these molecular signatures are the key to a natural taxonomy of cancer types and subtypes?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *初看之下*，区分疾病的东西是典型症状、病程和共同病因。然而，癌症可以在没有临床可检出症状时存在，病程多变，而且是一种多因子疾病。要挑出一个对一般癌症、更不用说每一种癌症类型和亚型都独特必要的“因果瓶颈”，是很困难的。癌症通常按其起源细胞——即癌症起源的组织或器官、以及细胞类型（例如皮肤或卵巢的鳞状细胞癌）——来分类；但结果表明，癌症可以包含不同起源细胞的混合，而起源于相同细胞或组织的癌症可能有非常不同的特征，可能以不同方式演化，对治疗也有不同的易感性（Marusyk, et al. 2012）。那么，我们该怎样给这类表现糟糕的“类”分类？这些难题使研究者不禁要问：是否每种癌症都有独特的遗传或分子“签名”，能帮我们估计进展风险或复发几率，并预测治疗反应？也许这些分子签名就是通向癌症类型与亚型自然分类系统的钥匙？
+    step2: |-
+      *初看之下*，把不同疾病区分开的，是典型症状、病程和共同病因。可是癌症不一样：它可以在临床查不出症状时就存在，病程多变，还是一种多因子疾病。要找出一个对一般意义上的癌症、更不用说对每一种癌症类型和亚型都独特必要的“因果瓶颈”，很难。癌症通常按起源细胞来分类，也就是按它起源的组织或器官、以及细胞类型来分类（例如皮肤或卵巢的鳞状细胞癌）；结果却发现，癌症里可以混有不同起源的细胞，而起源于同一类细胞或组织的癌症，特征可能大不相同，演化方式可能不同，对治疗的反应也不一样（Marusyk 等，2012）。那么，这类不听话的“类”该怎么分类？这些难题让研究者开始琢磨：每种癌症是否都有独特的遗传或分子“签名”，能帮我们估计进展风险、复发几率，并预测治疗反应？也许这些分子签名，就是通向癌症类型与亚型自然分类系统的钥匙？
   - id: 10
     kind: body
     source: |-
       ### 1.1 Cancer’s Intrinsic Heterogeneity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 癌症的内在异质性
+    step2: |-
+      ### 1.1 癌症的内在异质性
   - id: 11
     kind: body
     source: |-
       The hope that molecular signature will address these classification problems in part inspired international efforts at sequencing cancer genomes – the Sanger Institute’s Cancer Genome Project, and the U.S.’s Cancer Genome Atlas project (TCGA). Such projects use high-throughput genome sequencing to identify both inherited and somatically acquired mutations to genes affected in cancer cells, as well as mutational processes and patterns of clonal evolution. The TCGA aimed at generating a catalogue of mutations distinctive to of each cancer type and subtype, resulting in thirty-three “marker” papers, and some novel subclassifications. For example, in 2015, a working group affiliated with TCGA published a “Comprehensive Genomic Characterization of Head and Neck Squamous Cell Carcinomas,” which identified specific mutations associated with human-papillomavirus-associated versus smoking-related head and neck cancers. While such projects did result in a more comprehensive understanding of cancer biology, they also raised many questions. Cancer genomes have many mutations, so a central puzzle has been determining which among the many changes to cancer genomes are causally relevant to cancer progression, or which mutations are “drivers” of cancer. Sorting the “signal” from the noise has proven more difficult than anticipated.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      分子签名将解决这些分类问题的希望，部分地激发了癌症基因组测序的国际努力——桑格研究所的癌症基因组计划，以及美国的癌症基因组图谱计划（TCGA）。这类计划使用高通量基因组测序，来识别癌症细胞中受影响基因的遗传性和体细胞获得性突变，以及突变过程和克隆演化模式。TCGA 旨在生成一部对每种癌症类型和亚型都有独特性的突变目录，产生了 33 篇“标志物”论文，以及一些新的亚类划分。例如，2015 年，一个隶属于 TCGA 的工作组发表了《头颈部鳞状细胞癌的综合基因组特征》，识别出与人乳头瘤病毒相关头颈癌和吸烟相关头颈癌有关的具体突变。这类计划确实促成了对癌症生物学更全面的理解，但也提出了许多问题。癌症基因组带有许多突变，所以一个核心难题一直是：癌症基因组众多变化中，哪些与癌症进展有因果关联，哪些突变是癌症的“驱动者”。把“信号”从噪声里分出来，比预期的要难。
+    step2: |-
+      人们希望分子签名能解决这些分类问题，这种希望部分促成了癌症基因组测序的国际合作：桑格研究所的癌症基因组计划，以及美国的癌症基因组图谱计划（TCGA）。这类计划用高通量基因组测序，找出癌症细胞里受影响基因的遗传突变和体细胞获得性突变，也找出突变过程与克隆演化模式。TCGA 想编出一部突变目录，让每种癌症类型和亚型都有自己独特的突变，成果是 33 篇“标志物”论文，另有一些新的亚类划分。例如 2015 年，一个隶属 TCGA 的工作组发表了《头颈部鳞状细胞癌的综合基因组特征》，找出了与人乳头瘤病毒相关头颈癌、以及与吸烟相关头颈癌有关的具体突变。这类计划确实让人对癌症生物学了解得更全面，但也带出许多问题。癌症基因组上有许多突变，一个核心难题因此是：这么多变化里，哪些与癌症进展有因果关系？哪些突变是癌症的“驱动者”？把“信号”从噪声里分出来，比原先预想的难。
   - id: 12
     kind: body
     source: |-
       There are very different rates, numbers and types of mutations across and within different cancer types and subtypes – what is called “intertumor heterogeneity.” Which mutations play a more significant causal role, viz. which outcome in different cancers, over the course of cancer progression, is a difficult puzzle to solve. In part as a result of this, the concepts of “driver mutation” and “actionability” have come to be deployed quite differently in different contexts, leading to problems of slippage between criteria of application in research and clinical contexts (Chin-Yee and Plutynski, forthcoming). Complicating this further, a cancer may contain several subpopulations of cells (or, multiple evolving lineages), with different numbers and types of mutations within each lineage. Or, cancers have varying types and degrees of “intratumor heterogeneity.” So, samples of a tumor taken when cancer is first diagnosed may be representative of only one subpopulation of one stage of a dynamic process. Such samples may not be representative of the genomic changes of greatest relevance to late-stage disease.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不同癌症类型和亚型之间及内部，突变的发生率、数目和类型差别很大——这被称为“肿瘤间异质性”。哪些突变起更重要的因果作用，即在不同的癌症中、在癌症进展过程中导致不同的结局，是个难以解决的难题。部分由于这个原因，“驱动突变”和“可靶向性”这两个概念在不同语境中的用法变得相当不同，导致研究语境与临床语境中的应用标准之间出现滑移问题（Chin-Yee and Plutynski, forthcoming）。使情况更复杂的是，一个癌症可以包含若干细胞亚群（或者多个演化中的谱系），每个谱系内突变的数目和类型各不相同。也就是说，癌症有不同类型和程度的“肿瘤内异质性”。所以，癌症初诊时取得的肿瘤样本，可能只代表一个动态过程的某个阶段中的某一个亚群。这样的样本可能并不代表与晚期疾病关系最大的那些基因组变化。
+    step2: |-
+      不同癌症类型和亚型之间、以及各自内部，突变的速率、数目和类型差别很大，这叫“肿瘤间异质性”。哪些突变起的因果作用更重要——在不同的癌症里、在癌症进展过程中导致不同结局的是哪些突变——这个难题很难解。部分因为这个，“驱动突变”和“可靶向性”这两个概念在不同场合用法相当不同，研究场合与临床场合的应用标准之间于是出现滑移（Chin-Yee and Plutynski, forthcoming）。更麻烦的是，一个癌症里可以有好几个细胞亚群（即多个正在演化的谱系），每个谱系的突变数目和类型都不一样。也就是说，癌症有不同类型和程度的“肿瘤内异质性”。所以，初诊时取的肿瘤样本，可能只代表一个动态过程某一阶段的某一个亚群，未必代表与晚期疾病关系最大的基因组变化。
   - id: 13
     kind: body
     source: |-
       All this would be challenging enough as it is, but there is a yet further challenge facing hierarchical subclassifications of cancer based on molecular information. Cancers arising in the same tissue or organ can be more genetically dissimilar than cancers arising in different tissues or organs (Hoadley, et. al., 2014, 2018). Genomic information, far from providing a way to sort all cancers into a Linnean hierarchy, instead yields what philosophers have called cross-cutting classifications (Khalidi, 1998).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一切本身已经够难办了，但基于分子信息的癌症层级式亚类划分还面临一个更深层的挑战。起源于同一组织或器官的癌症，在遗传上可能比起源于不同组织或器官的癌症差异更大（Hoadley, et. al., 2014, 2018）。基因组信息远没有提供把一切癌症分入林奈式层级的方法，反而产生了哲学家所称的交叉分类（Khalidi, 1998）。
+    step2: |-
+      这些本身已经够难办了，可基于分子信息的癌症层级式亚类划分还有一道坎。起源于同一组织或器官的癌症，在遗传上可能比起源于不同组织或器官的癌症还要不同（Hoadley 等，2014，2018）。基因组信息非但没有提供把一切癌症塞进林奈式层级的办法，反而产生了哲学家所说的交叉分类（Khalidi, 1998）。
   - id: 14
     kind: body
     source: |-
       Moreover, the effects of mutations are context-dependent, making their causal relevance to any given cancer difficult to discern. Some mutations may provide low or no advantage to the mutated cells, until conditions change, such as the application of chemotherapies, which can lead to proliferation of cells with specific mutations (Hsu et al. 2018)[^hsu-2018]. Even the order of acquisition of mutations can change the biology and outcome of the disease. For example, depending on which of two genes was first mutated, patients with myeloproliferative neoplasms (MPN) have different risks of different outcomes (Ortmann et al. NEJM 2015; Kent and Green 2017)[^kent-2017][^ortmann-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，突变的效果依语境而定，这使它们对任何特定癌症的因果相关性难以辨明。有些突变对突变细胞可能提供很小或没有优势，直到条件改变，例如施用化疗，这可能导致带有特定突变的细胞增殖（Hsu et al. 2018）[^hsu-2018]。甚至突变获得的顺序也能改变疾病的生物学和结局。例如，取决于两个基因中哪一个先突变，骨髓增殖性肿瘤（MPN）患者有不同结局的风险不同（Ortmann et al. NEJM 2015; Kent and Green 2017）[^kent-2017][^ortmann-2015]。
+    step2: |-
+      此外，突变的效果要看语境，所以要辨明它对某个特定癌症的因果相关性并不容易。有些突变给突变细胞带来的优势很小，甚至没有优势，直到条件改变——比如用上化疗——才可能导致带特定突变的细胞大量增殖（Hsu 等，2018）[^hsu-2018]。甚至突变获得的先后顺序，也能改变疾病的生物学特性和结局。例如，取决于两个基因中哪一个先发生突变，骨髓增殖性肿瘤（MPN）患者面对不同结局的风险也不同（Ortmann et al. NEJM 2015; Kent and Green 2017）[^kent-2017][^ortmann-2015]。
   - id: 15
     kind: body
     source: |-
