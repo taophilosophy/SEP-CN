@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 03:49（UTC）
+生成时间：2026-11-09 04:36（UTC）
 
 ## 总览
 
@@ -15,19 +15,19 @@
 |已建任务|1159|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|229|
-|在途（drafted 起、done 前）|242|
+|在途（drafted 起、done 前）|245|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|688|
-|cleared|162|
-|drafted|5|
+|pending|685|
+|cleared|164|
+|drafted|6|
 |s1_checked|1|
-|s2_checked|2|
-|s3_checked|68|
+|s2_checked|1|
+|s3_checked|69|
 |r1_reviewed|3|
 |r2_reviewed|1|
 |done|229|
@@ -157,7 +157,8 @@
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
 |contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|cosmology-30s|retranslate|s2_checked|C-main-20261109 2026-11-09|
+|cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
+|cosmopolitanism|retranslate|cleared|task_ops 2026-11-09|
 |creation-conservation|retranslate|s3_checked|主代理 2026-11-01|
 |crescas|retranslate|s3_checked|C-main-20261108 2026-11-07|
 |croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
@@ -192,10 +193,11 @@
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
 |george-eliot|retranslate|cleared|task_ops 2026-11-01|
 |gersonides|retranslate|s3_checked|g-beta-G-main-20261109 2026-11-09|
-|gianfrancesco-pico|retranslate|cleared|task_ops 2026-11-01|
+|gianfrancesco-pico|retranslate|drafted|g-beta-G-main-20261109 2026-11-09|
 |giles|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
 |god-necessary-being|retranslate|s2_checked|g-gamma-G-main-20261109 2026-11-09|
+|godwin|retranslate|cleared|task_ops 2026-11-09|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
 |gorampa|retranslate|s3_checked|lead-G-main-20261109 2026-11-09|
@@ -232,6 +234,7 @@
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
 |ingarden|retranslate|s3_checked|I-main-20261108 2026-11-08|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
+|intuitionism|retranslate|cleared|task_ops 2026-11-09|
 |it-moral-values|retranslate|cleared|task_ops 2026-11-08|
 |james-mill|retranslate|s3_checked|? 2026-11-07|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
