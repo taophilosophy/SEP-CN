@@ -875,98 +875,130 @@ segments:
     kind: body
     source: |-
       > I would now say that (1) statistical relevance relations, in the absence of information about connecting causal processes, lack explanatory import and that (2) connecting causal processes, in the absence of statistical relevance relations, also lack explanatory import. (1997: 476)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我现在会说：(1) 统计相关性关系在缺乏关于联结性因果过程的信息时，不具解释力；(2) 联结性因果过程在缺乏统计相关性关系时，同样不具解释力。（1997: 476）
+    step2: |-
+      > 我如今会说：(1) 统计相关性关系若无联结性因果过程的信息相配，便无解释分量；(2) 联结性因果过程若无统计相关性关系，同样无解释分量。（1997: 476）
   - id: 108
     kind: body
     source: |-
       This suggestion is not developed in any detail in Salmon’s paper, and it is not easy to see how it can be made to work. We noted above that statistical relevance relationships often greatly underdetermine the causal relationships among a set of variables. What reason is there to suppose that appealing to the notion of a causal process, in Salmon’s sense, will always or even usually remove this indeterminacy? We also noted that the notion of a causal process cannot capture fine-grained notions of relevance between properties, that there can be causal relevance between properties instances of which (at least at the level of description at which they are characterized) are not linked by spatio-temporally continuous or transference of conserved quantities, and that properties can be so linked without being causally relevant (recall the chalk mark that is transmitted from one billiard ball to another). As long as it is possible (and why should it not be?) for different causal claims to imply the same facts about statistical relevance relationships and for these claims to differ in ways that cannot be fully cashed out in terms of Salmon’s notions of causal processes and interactions, this new proposal will fail as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一建议在萨蒙的论文中未作任何详细展开，而要让它行得通并不容易。上文指出，统计相关性关系常常远不足以决定一组变量之间的因果关系。有什么理由假定：诉诸萨蒙意义上的因果过程概念，总能甚至通常能消除这种不定性？我们还指出：因果过程概念无法把握属性之间精细的相关性概念；属性之间可以有因果相关性，而其个例（至少在刻画它们的那个描述层面上）并不由时空连续性或守恒量的传递相联结；属性也可以如此相联结却不因果相关（回想从一只台球传到另一只的巧粉痕迹）。只要（凭什么不该这样？）不同的因果主张可以蕴涵相同的统计相关性关系事实，而这些主张之间的差异又无法用萨蒙的因果过程与相互作用概念充分兑现，这一新提议就会同样失败。
+    step2: |-
+      此建议在萨蒙文中并未详细展开，而要让它行得通也不易。上文已说：统计相关性关系往往远不足以决定一组变量间的因果关系。凭什么假定诉诸萨蒙意义的因果过程概念总能、甚至通常能消除这不定性？又已说：因果过程概念把握不了属性间精细的相关性——属性间可有因果相关性，而其个例（就刻画它们的描述层面而言）并不由时空连续或守恒量传递相联结；属性亦可如此联结却不因果相关（回想自一球传至另一球的巧粉痕迹）。只要不同因果主张可蕴涵同一统计相关性事实（凭什么不可能？），而这些主张之差异又无法用萨蒙的因果过程与相互作用概念充分兑现，这一新提议便同样要失败。
   - id: 109
     kind: body
     source: |-
       **Selected Readings:** Salmon (1984) provides a detailed statement of the Causal Mechanical model, as originally formulated. Salmon (1994 and 1997) provide a restatement of the model and respond to criticisms. For discussion and criticism of the *CM* model, see Kitcher (1989, especially pages 461ff), Woodward (1989), and Hitchcock (1995).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **推荐读物**：Salmon（1984）给出因果机制模型最初表述的详尽陈述。Salmon（1994 与 1997）重述该模型并回应批评。关于 *CM* 模型的讨论与批评，见 Kitcher（1989，尤其 461 页以下）、Woodward（1989）与 Hitchcock（1995）。
+    step2: |-
+      **推荐读物**：Salmon（1984）详述初版因果机制模型；Salmon（1994、1997）重述该模型并回应批评。对 *CM* 模型的讨论与批评见 Kitcher（1989，尤其 461 页以下）、Woodward（1989）、Hitchcock（1995）。
   - id: 110
     kind: body
     source: |-
       ## 5. A Unificationist Account of Explanation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 解释的统一论说明
+    step2: |-
+      ## 5 解释的统一论说明
   - id: 111
     kind: body
     source: |-
       ### 5.1 The Basic Idea
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 基本观念
+    step2: |-
+      ### 5.1 基本观念
   - id: 112
     kind: body
     source: |-
       In unificationist accounts of explanation developed by philosophers, scientific explanation is a matter of providing a unified account of a range of different phenomena.[^note-9] This idea is unquestionably intuitively appealing. Successful unification may exhibit connections or relationships between phenomena previously thought to be unrelated and this seems to be something that we expect good explanations to do. Moreover, theory unification has clearly played an important role in science. Paradigmatic examples include Newton’s unification of terrestrial and celestial theories of motion and Maxwell’s unification of electricity and magnetism. The key question, however, is whether (and which) intuitive notions of unification can be made more precise in a way that allows us to recover the features that we think that good explanations should possess.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在哲学家发展出的统一论解释说明中，科学解释在于对一系列不同现象提供统一的说明。[^note-9] 这一想法无疑在直觉上有吸引力。成功的统一可以显示先前被认为无关的现象之间的联系或关系，而这似乎正是我们对好解释的期待。而且，理论统一显然在科学中起过重要作用。典范例子包括牛顿对地上与天上运动理论的统一，以及麦克斯韦对电与磁的统一。然而关键问题是：统一的直觉概念（以及哪些概念）能否被精确化，其方式能让我们找回我们认为好解释应有的特征。
+    step2: |-
+      哲学家发展的统一论说明认为：科学解释在于对一系列不同现象给出统一的说明。[^note-9] 此想直觉上颇可取。成功的统一可显出先前被视为无关的现象之间的联系，而这正是我们对好解释的期待。理论统一在科学中的作用亦显而易见：牛顿统一地上与天上的运动理论，麦克斯韦统一电与磁，皆为范例。关键问题却是：统一的直觉概念（以及其中哪些）能否精确化，使我们得以找回好解释应有的特征。
   - id: 113
     kind: body
     source: |-
       Michael Friedman (1974) is an important early attempt to do this. Friedman’s formulation of the unificationist idea was subsequently shown to suffer from various technical problems (Kitcher 1976)[^kitcher-1976] and subsequent development of the unificationist treatment of explanation has been most closely associated with Philip Kitcher (especially Kitcher 1989)[^kitcher-1989][^kitcher-1989-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      弗里德曼（Michael Friedman, 1974）是做到这一点的一次重要早期尝试。弗里德曼对统一论思想的表述，后来被证明有种种技术问题（Kitcher 1976）[^kitcher-1976]，而统一论处理之后续发展，最紧密地关联于菲利普·基切尔（尤其 Kitcher 1989）[^kitcher-1989][^kitcher-1989-2]。
+    step2: |-
+      弗里德曼（Michael Friedman, 1974）是此举的一次重要早期尝试。其统一论表述后来被证明有种种技术问题（Kitcher 1976）[^kitcher-1976]；统一论解释的后续发展则最紧密地系于菲利普·基切尔（尤其 Kitcher 1989）[^kitcher-1989][^kitcher-1989-2]。
   - id: 114
     kind: body
     source: |-
       Let us begin by introducing some of Kitcher’s technical vocabulary. A *schematic sentence* is a sentence in which some of the nonlogical vocabulary has been replaced by dummy letters. To use Kitcher’s examples, the sentence “Organisms homozygous for the sickling allele develop sickle cell anemia” is associated with a number of schematic sentences including “Organisms homozygous for *A* develop *P*” and “For all *X* if *X* is *O* and *A* then *X* is *P*”. *Filling instructions* are directions that specify how to fill in the dummy letters in schematic sentences. For example, filling instructions might tell us to replace *A* with the name of an allele and *P* with the name of a phenotypic trait in the first of the above schematic sentences. *Schematic arguments* are sequences of schematic sentences. *Classifications* describe which sentences in schematic arguments are premises and conclusions and what rules of inference are used. An *argument pattern* is an ordered triple consisting of a schematic argument, a set or sets of filling instructions, one for each term of the schematic argument, and a classification of the schematic argument. The more restrictions an argument pattern imposes on the arguments that instantiate it, the more *stringent* it is said to be.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      先从基切尔的一些技术术语入手。*模式句*是把若干非逻辑词汇替换为占位字母后的句子。用基切尔的例子，“对镰形细胞等位基因为同合子的有机体会患镰形细胞贫血”这句话关联着若干模式句，包括“对 *A* 为同合子的有机体会表现出 *P*”以及“对所有 *X*，若 *X* 是 *O* 且 *A*，则 *X* 是 *P*”。*填充指令*是指明如何在模式句中填入占位字母的指示。例如，填充指令可能告诉我们在上述第一个模式句中把 *A* 替换为一个等位基因的名称，把 *P* 替换为一个表型性状的名字。*模式论证*是模式句的序列。*分类*说明模式论证中哪些句子是前提、哪些是结论，以及使用了什么推理规则。*论证模式*是一个有序三元组，由一个模式论证、一组（对模式论证的每个词项各一组）填充指令、以及对模式论证的分类构成。一个论证模式对其所例示的论证施加的限制越多，就被说成越*严格*。
+    step2: |-
+      先引入基切尔的几个技术术语。*模式句*是把若干非逻辑词汇换为占位字母后的句子。基切尔举例：“对镰形细胞等位基因为同合子的有机体会患镰形细胞贫血”关联若干模式句，如“对 *A* 为同合子的有机体表现出 *P*”、“对所有 *X*，若 *X* 是 *O* 且 *A*，则 *X* 是 *P*”。*填充指令*指明如何在模式句中填入占位字母：例如在上述第一模式中把 *A* 换为某等位基因之名、把 *P* 换为某表型性状之名。*模式论证*是模式句的序列。*分类*说明其中哪些句子是前提、哪些是结论，用了什么推理规则。*论证模式*是有序三元组：一个模式论证、一组（每一词项各一组）填充指令、以及对模式论证的分类。模式对所例示论证施加的限制愈多，便愈*严格*。
   - id: 115
     kind: body
     source: |-
       Roughly speaking, Kitcher’s guiding idea is that explanation is a matter of deriving descriptions of many different phenomena by using as few and as stringent argument patterns as possible over and over again-the fewer the patterns used, the more stringent they are, and the greater the range of different conclusions derived, the more unified our explanations. Kitcher summarizes this view as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      粗略地说，基切尔的主导想法是：解释在于用尽可能少、尽可能严格、且反复使用的论证模式来推出许多不同现象的描述——所用模式越少、模式越严格、所推出的不同结论越多，我们的解释就越统一。基切尔如此概述这一观点：
+    step2: |-
+      大致而言，基切尔的主导想法是：解释在于以尽可能少、尽可能严格的论证模式反复使用，从而推出许多不同现象的描述——所用模式越少、越严格，所推出的不同结论越多，解释便越统一。他如此概述：
   - id: 116
     kind: body
     source: |-
       > Science advances our understanding of nature by showing us how to derive descriptions of many phenomena, using the same pattern of derivation again and again, and in demonstrating this, it teaches us how to reduce the number of facts we have to accept as ultimate. (Kitcher 1989: 432)[^kitcher-1989][^kitcher-1989-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 科学通过向我们表明如何反复使用同一推导模式来推出许多现象的描述，从而推进我们对自然的理解；而在演示这一点时，它教会我们如何减少我们不得不接受为终极的事实数目。（Kitcher 1989: 432）[^kitcher-1989][^kitcher-1989-2]
+    step2: |-
+      > 科学向我们表明如何反复以同一推导模式推出许多现象的描述，由此推进我们对自然的理解；而在演示这一点时，它教会我们如何减少我们不得不认作终极的事实之数。（Kitcher 1989: 432）[^kitcher-1989][^kitcher-1989-2]
   - id: 117
     kind: body
     source: |-
       Kitcher does not propose a completely general theory of how the various considerations he describes—number of conclusions, number of patterns and stringency of patterns—are to be traded-off against one another, but does suggest that it often will be clear enough what these considerations imply about the evaluation of particular candidate explanations. His basic strategy is to attempt to show that the derivations we regard as good or acceptable explanations are instances of patterns that, taken together, score better according to the criteria just described than the patterns instantiated by what we regard as defective explanations. Following Kitcher, let us define the *explanatory store $E(K)$* as the set of argument patterns that maximally unifies *K*, the set of beliefs accepted at a particular time in science. Showing that a particular derivation is a good or acceptable explanation is then a matter of showing that it belongs to the explanatory store.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      基切尔并未提出一套完全一般的理论，说明他所描述的诸考量——结论的数目、模式的数目、模式的严格度——如何相互权衡；但他确实指出：这些考量对特定候选解释的评价往往足够清楚。其基本策略是：试图表明，我们视为好或可接受的解释的那些推导，是某些模式的例示，而这些模式合起来按上述标准得分高于我们视为有缺陷的解释所例示的模式。循基切尔之意，我们把*解释库 $E(K)$* 定义为对 *K*（科学在特定时刻被接受的信念集）作出最大程度统一的那组论证模式。表明某一特定推导是好或可接受的解释，就是要表明它属于解释库。
+    step2: |-
+      基切尔未就诸考量——结论之数、模式之数、模式之严格度——如何权衡提出完全一般的理论；但他指出，这些考量对特定候选解释的评价往往足够清楚。其基本策略是：表明我们视为好或可接受的那些推导，是若干模式的例示，而这些模式合起来按上述标准得分高于有缺陷解释所例示的模式。循其之意，我们把*解释库 $E(K)$* 定义为对 *K*（科学在特定时刻所接受的信念集）作出最大统一的那组论证模式。证明某一推导是好或可接受的解释，便是证明它属于解释库。
   - id: 118
     kind: body
     source: |-
       ### 5.2 Illustrations of the Unificationist Model
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 统一论模型的例证
+    step2: |-
+      ### 5.2 统一论模型的例证
   - id: 119
     kind: body
     source: |-
       As an illustration, consider Kitcher’s treatment of the problem of explanatory asymmetries (recall Section 2.5). Our present explanatory practices—call these *P*—are committed to the idea that derivations of a flagpole’s height from the length of its shadow are not explanatory. Kitcher compares *P* with an alternative systemization in which such derivations are regarded as explanatory. According to Kitcher, *P* includes the use of a single “origin and development” (*OD*) pattern of explanation, according to which the dimensions of objects-artifacts, mountains, stars, organisms etc. are traced to “the conditions under which the object originated and the modifications it has subsequently undergone” (1989: 485). Now consider the consequences of adding to *P* an additional pattern *S* (the shadow pattern) which permits the derivation of the dimensions of objects from facts about their shadows. Since the *OD* pattern already permits the derivation of all facts about the dimensions of objects, the addition of the shadow pattern *S* to *P* will increase the number of argument patterns in *P* and will not allow us to derive any new conclusions. On the other hand, if we were to drop *OD* from *P* and replace it with the shadow pattern, we would have no net change in the number of patterns in *P*, but would be able to derive far fewer conclusions than we would with *OD*, since many objects do not have shadows (or enough shadows) from which to derive all of their dimensions. Thus *OD* belongs to the explanatory store, and the shadow pattern does not. Kitcher’s treatment of other familiar problem cases is similar. For example he claims that explanations that contain irrelevancies (such as Salmon’s birth control pills case are less unifying than competing explanations that do not contain such irrelevancies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为例证，考虑基切尔对解释不对称性问题的处理（回想第 2.5 节）。我们当前的解释实践——称之为 *P*——承诺了这一点：由影长推出旗杆高度不是解释。基切尔把 *P* 与另一种体系化相比较，在后者中此类推导被视为有解释力。据基切尔，*P* 包含对单一“起源与演化”（*OD*）解释模式的使用：按照该模式，物体的尺寸——人工物、山岳、恒星、有机体等等——被追溯到“物体起源的条件及其随后经历的改动”（1989: 485）。现在考虑把另一个模式 *S*（影子模式）加入 *P* 的后果，该模式允许由关于物体影子的事实推出物体的尺寸。既然 *OD* 模式已经允许推出关于物体尺寸的一切事实，把影子模式 *S* 加入 *P* 就会增加 *P* 中论证模式的数目，却不让我们推出任何新结论。另一方面，若我们从 *P* 中删去 *OD* 而以影子模式代之，*P* 中模式的数目不会有净变化，但我们能推出的结论将远少于有 *OD* 时——因为许多物体没有影子（或影子不够多）以推出其全部尺寸。故 *OD* 属于解释库，影子模式则否。基切尔对其他常见疑难案例的处理与此类似。例如他声称，含有不相关之物的解释（如萨蒙的避孕药一例）比不含此类不相关之物的竞争解释更不统一。
+    step2: |-
+      试以基切尔处理解释不对称性为例（回想第 2.5 节）。我们当前的解释实践——称之 *P*——已承诺：由影长推旗杆高度不是解释。基切尔把 *P* 与另一种体系化相比，后者视此类推导为有解释力。据他，*P* 使用单一“起源与演化”（*OD*）模式：按此模式，物体的尺寸——人工物、山岳、恒星、有机体等——被追溯到“物体起源的条件及其后所经历的改动”（1989: 485）。今考虑将模式 *S*（影子模式）加入 *P*，它允许由影子事实推出物体尺寸。既然 *OD* 已可推出关于尺寸的一切事实，加入 *S* 只会增加 *P* 中模式之数，而不能推出任何新结论。反之，若从 *P* 删去 *OD* 而以影子模式代之，模式之数无净变化，可推出的结论却远少于有 *OD* 之时——许多物体并无影子（或影子不足），无从推出其全部尺寸。故 *OD* 入解释库，影子模式不入。基切尔对其他常见疑难的处理类此。例如他声称：含不相关之物的解释（如萨蒙的避孕药之例）比不含者更不统一。
   - id: 120
     kind: body
     source: |-
       Kitcher acknowledges that there is nothing in the unificationist account *per se* that requires that all explanation be deductive: “there is no bar in principle to the use of non-deductive arguments in the systemization of our beliefs”. Nonetheless, “the task of comparing the unifying power of different systemizations looks even more formidable if non-deductive arguments are considered” and in part for this reason Kitcher endorses the view that *“in a certain sense, all explanation is deductive”* (1989: 448).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      基切尔承认，统一论说明本身并不要求一切解释都是演绎的：“以非演绎论证体系化我们的信念，原则上并无障碍。”然而，“若纳入非演绎论证，比较诸体系化之统一力的任务更显艰巨”；部分因此，基切尔赞同：“*在某种意义上，一切解释都是演绎的*”（1989: 448）。
+    step2: |-
+      基切尔承认，统一论说明本身并不要求一切解释皆演绎：“以非演绎论证体系化我们的信念，原则上并无障碍。”然而“若纳入非演绎论证，比较诸体系化之统一力更属艰难”；部分因此，他赞同：“*在某种意义上，一切解释都是演绎的*”（1989: 448）。
   - id: 121
     kind: body
     source: |-
       What is the role of causation on this account? Kitcher claims that “the ‘because’ of causation is always derivative from the ‘because’ of explanation.” (1989: 477). That is, our causal judgments simply reflect the explanatory relationships that fall out of our (or our intellectual ancestors’ ) attempts to construct unified theories of nature. There is no independent causal order over and above this which our explanations must capture. Like many other philosophers, Kitcher takes very seriously (even if in the end he perhaps does not fully endorse) standard empiricist or Humean worries about the epistemic accessibility and intelligibility of causal claims. Taking causal, counterfactual or other notions belonging to the same family as primitive in the theory of explanation is problematic. Kitcher believes that it is a virtue of his theory that it does not do this. Instead, Kitcher proposes to begin with the notion of explanatory unification, characterized in terms of constraints on deductive systemizations, where these constraints can be specified in a quite general way that is independent of causal or counterfactual notions, and then show how the causal claims we accept derive from our efforts at unification.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这一说明中因果的作用是什么？基切尔声称：“因果的‘因为’总是派生于解释的‘因为’。”（1989: 477）也就是说，我们的因果判断仅仅反映我们（或我们的智识前辈）构造自然之统一理论的努力所掉出的解释关系。在此之外，并无一个我们的解释必须捕捉的独立因果秩序。与许多其他哲学家一样，基切尔非常严肃地对待（即便最终或许并未完全采纳）关于因果主张之可认知性与可理解性的标准经验主义或休谟式忧虑。在解释理论中把因果、反事实或同家族的其他概念当作初始项，是有问题的。基切尔认为，他的理论之优点恰在于不这样做。他转而提议：从解释统一性概念出发，以演绎体系化的约束来刻画它——这些约束可以以一种相当一般、且独立于因果或反事实概念的方式加以规定——然后表明我们所接受的因果主张如何从统一努力中派生。
+    step2: |-
+      此说中因果地位如何？基切尔声称：“因果之‘因为’总是派生于解释之‘因为’。”（1989: 477）即：我们的因果判断只反映我们（或智识前辈）构造自然统一理论的努力所呈现的解释关系；此外并无一个须由解释去捕捉的独立因果秩序。与许多哲学家一样，基切尔严肃处理（虽未必全盘采纳）经验主义或休谟式对因果主张之可认知、可理解的忧虑。在解释理论中以因果、反事实或同家族概念为初始项是有问题的；他认为自家理论的优点正在不如此。他转而提议从解释统一性出发，以演绎体系化的约束来刻画它——这些约束可依相当一般、独立于因果与反事实的方式规定——再表明我们所接受的因果主张如何从统一努力派生。
   - id: 122
     kind: body
     source: |-
       ### 5.3 The Illustrations Criticized
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 诸例证所受的批评
+    step2: |-
+      ### 5.3 诸例证所受的批评
   - id: 123
     kind: body
     source: |-
