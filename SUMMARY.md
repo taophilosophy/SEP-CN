@@ -1284,7 +1284,7 @@
 * [\*信息处理 information processing](README.md)
   * [信息加工与热力学熵 and thermodynamic entropy (Owen Maroney)](i/information-entropy.md)
 * [\*信息技术 information technology](README.md)
-  * [信息技术与道德价值 and moral values (John Sullins)](i/it-moral-values.md)
+  * [信息技术与道德价值 Information Technology and Moral Values (John Sullins)](i/it-moral-values.md)
   * [信息技术伦理学的现象学方法 phenomenological approaches to ethics and (Lucas Introna)](e/ethics-it-phenomenology.md)
   * [隐私与信息技术 privacy and information technology (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)](i/it-privacy.md)
 * [知情同意 informed consent (Nir Eyal)](i/informed-consent.md)

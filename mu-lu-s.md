@@ -1594,7 +1594,7 @@ outline: [1, 6]
 * [本体论与信息系统 Ontology and Information Systems (Adam Pease)](o/ontology-is.md)
 * [模式生物 Model Organisms (Michael Dietrich and Nedah Nemati)](m/model-organisms.md)
 * [语义概念的信息 semantic conceptions of (Sebastian Sequoiah-Grayson and Luciano Floridi)](i/information-semantic.md)
-* [信息技术与道德价值 and moral values (John Sullins)](i/it-moral-values.md)
+* [信息技术与道德价值 Information Technology and Moral Values (John Sullins)](i/it-moral-values.md)
 * [信息技术伦理学的现象学方法 phenomenological approaches to ethics and (Lucas Introna)](e/ethics-it-phenomenology.md)
 * [隐私与信息技术 privacy and information technology (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)](i/it-privacy.md)
 * [逻辑与信息 and information (Maricarmen Martinez and Sebastian Sequoiah-Grayson)](l/logic-information.md)

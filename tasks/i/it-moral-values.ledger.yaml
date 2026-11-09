@@ -1000,97 +1000,133 @@ segments:
     kind: body
     source: |-
       Luciano Floridi and J. W. Sanders argue that information as it is used in the theory of computation can serve as a powerful idea that can help resolve some of the famous moral conundrums in philosophy such as the nature of evil (1999, 2001). They propose that along with moral evil and natural evil, both concepts familiar to philosophy (see the entry on the problem of evil); we add a third concept they call artificial evil (2001). Floridi and Sanders contend that if we do this then we can see that the actions of artificial agents
-    step1: TBD
-    step2: TBD
+    step1: |-
+      卢恰诺·弗洛里迪与 J. W. Sanders 论证说，计算理论中所使用的信息概念可以充当一个强有力的观念，有助于解决哲学中若干著名的道德难题，例如恶的本质（1999, 2001）。他们提议，在道德恶与自然恶——这两个哲学所熟悉的概念（见“恶的问题”词条）——之外，再添一个他们称为人造恶的第三个概念（2001）。弗洛里迪与 Sanders 主张，若如此，我们便能看到，人造行动者的行为
+    step2: |-
+      卢恰诺·弗洛里迪与 J. W. Sanders 主张，计算理论里的信息概念是一个强有力的观念，可助解决哲学中若干著名的道德难题，如恶之本质（1999, 2001）。他们提议：于道德恶与自然恶这两大哲学习见概念（见“恶的问题”词条）之外，再添第三个概念，名曰人造恶（2001）。二人以为，若如此，便可看出：人造行动者的行为
   - id: 100
     kind: body
     source: |-
       > …to be morally good or evil can be determined even in the absence of biologically sentient participants and thus allows artificial agents not only to perpetrate evil (and for that matter good) but conversely to ‘receive’ or ‘suffer from’ it. (Floridi and Sanders 2001)[^floridi-2001]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……在道德上是善是恶，即便在无生物感受性参与者的情况下也可判定，从而使人造行动者不仅能够作恶（相应地也能行善），反过来还能“承受”或“遭受”善恶。（Floridi and Sanders 2001）[^floridi-2001]
+    step2: |-
+      > ……其道德善恶，即便无生物感受性参与者亦可判定，故人造行动者不仅能作恶（相应地亦能行善），反过来还能“承受”或“遭受”之。（Floridi and Sanders 2001）[^floridi-2001]
   - id: 101
     kind: body
     source: |-
       Evil can then be equated with something like information dissolution, where the irretrievable loss of information is bad and the preservation of information is good (Floridi and Sanders 2001)[^floridi-2001]. This idea can move us closer to a way of measuring the moral impacts of any given action in an information environment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是恶便可等同于某种类似信息消散的东西：信息不可挽回的丧失为恶，信息的保存为善（Floridi and Sanders 2001）[^floridi-2001]。这一想法能使我们更接近一种衡量信息环境中任何给定行动之道德影响的方法。
+    step2: |-
+      于是恶可等同于某种类似信息消散者：信息之不可挽回的丧失为恶，信息之保存为善（Floridi and Sanders 2001）[^floridi-2001]。循此想法，便可望找到一种度量信息环境中任一行动之道德影响的法子。
   - id: 102
     kind: body
     source: |-
       ### 4.2 Information Technology as a Moral System
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 信息技术作为道德系统
+    step2: |-
+      ### 4.2 信息技术作为道德系统
   - id: 103
     kind: body
     source: |-
       Early in the twentieth century, the American philosopher John Dewey (see entry on John Dewey) proposed a theory of inquiry based on the instrumental uses of technology. Dewey had an expansive definition of technology which included not only common tools and machines but also information systems such as logic, laws, and even language as well (Hickman 1990)[^hickman-1990]. Dewey argued that we are in a ‘transactional’ relationship with all of these technologies within which we discover and construct our world (Hickman 1990)[^hickman-1990]. This is a helpful standpoint to take as it allows us to advance the idea that information technology of morality and ethics is not impossible. As well as allowing us to take seriously the idea that the relations and transactions between human agents and those that exist between humans and their artifacts have important ontological similarities. While Dewey could only dimly perceive the coming revolutions in information technologies, his theory is useful to us still because he proposed that ethics was not only a theory but a practice and solving problems in ethics is like solving problems in algebra (Hickman 1990)[^hickman-1990]. If he is right, then an interesting possibility arises, namely the possibility that ethics and morality are computable problems and therefore it should be possible to create an information technology that can embody moral systems of thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      20 世纪初，美国哲学家约翰·杜威（见“约翰·杜威”词条）提出一种基于技术之工具性运用的探究理论。杜威对技术的定义颇为宽泛，不仅包括寻常工具与机器，也包括逻辑、法律乃至语言这类信息系统（Hickman 1990）[^hickman-1990]。杜威论证说，我们与所有这些技术处于一种“交易式的”关系之中，并在这种关系中发现和建构我们的世界（Hickman 1990）[^hickman-1990]。这是一个有用的立足点，因为它使我们能够推进如下想法：道德与伦理方面的信息技术并非不可能；也使我们能够认真对待这样的想法：人类行动者之间的关系与交易，同人类与其人造物之间的交易，具有重要的本体论相似性。尽管杜威只能隐约察觉即将到来的信息技术革命，他的理论至今仍对我们有用，因为他曾提出：伦理不仅是一种理论，也是一种实践，解决伦理问题就像解代数题（Hickman 1990）[^hickman-1990]。若他说得对，便出现一个有趣的可能：伦理与道德是可计算的问题，因而应当有可能造出一种能够体现道德思想体系的信息技术。
+    step2: |-
+      20 世纪初，美国哲学家约翰·杜威（见“约翰·杜威”词条）提出一种以技术之工具性运用为基的探究理论。杜威对技术的界定甚宽，寻常工具与机器之外，逻辑、法律乃至语言这类信息系统亦在其列（Hickman 1990）[^hickman-1990]。杜威以为，我们与这一切技术皆处于“交易式”的关系之中，并在此关系中发现并建构世界（Hickman 1990）[^hickman-1990]。此一立足点颇有用：既使“道德与伦理上的信息技术并非不可能”之说得以推进，也使人得以认真对待另一想法——人类行动者之间的关系与交易，同人类与其人造物之间的交易，具有重要的本体论相似性。杜威虽只能隐约窥见信息技术革命之将至，其理论于今仍有用：他主张伦理不仅为理论，亦为实践，解伦理问题如解代数题（Hickman 1990）[^hickman-1990]。若其言不虚，便有一个有趣的可能：伦理与道德乃可计算之问题，故当可造出能体现道德思想体系的信息技术。
   - id: 104
     kind: body
     source: |-
       In 1974 the philosopher Mario Bunge proposed that we take the notion of ‘technoethics’ seriously arguing that moral philosophers should emulate the way engineers approach a problem. Engineers do not argue in terms of reasoning by categorical imperatives but instead they use:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1974 年，哲学家马里奥·邦格提议认真对待“技术伦理”这一概念，主张道德哲学家应效法工程师处理问题的方式。工程师不以定言命令式的推理立论，而是采用：
+    step2: |-
+      1974 年，哲学家马里奥·邦格（Mario Bunge）倡议正视“技术伦理”这一概念，主张道德哲学家当效法工程师处理问题之道。工程师立论不取定言命令式的推理，而取：
   - id: 105
     kind: body
     source: |-
       > … the forms If *A* produces *B*, and you value *B*, chose to do *A*, and If *A* produces *B* and *C* produces *D*, and you prefer *B* to *D*, choose *A* rather than *C*. In short, the rules he comes up with are based on fact and value, I submit that this is the way moral rules ought to be fashioned, namely as rules of conduct deriving from scientific statements and value judgments. In short ethics could be conceived as a branch of technology. (Bunge 1977, 103)[^bunge-1977]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……这些形式：若 *A* 产生 *B*，而你重视 *B*，则选择做 *A*；若 *A* 产生 *B*、*C* 产生 *D*，而你偏好 *B* 甚于 *D*，则宁选 *A* 而不选 *C*。总之，他提出的规则基于事实与价值，我认为道德规则正应如此塑造，即作为由科学陈述与价值判断推出的行为规则。总之，伦理可视为技术的一个分支。（Bunge 1977, 103）[^bunge-1977]
+    step2: |-
+      > ……这些形式：若 *A* 生 *B*，而君重 *B*，则择行 *A*；若 *A* 生 *B*、*C* 生 *D*，而君好 *B* 甚于 *D*，则宁取 *A* 而舍 *C*。要之，其规则基于事实与价值；窃以为道德规则正宜如此塑造，即作为由科学陈述与价值判断推出的行为规则。一言以蔽之，伦理可视为技术之一支。（Bunge 1977, 103）[^bunge-1977]
   - id: 106
     kind: body
     source: |-
       Taking this view seriously implies that the very act of building information technologies is also the act of creating specific moral systems within which human and artificial agents will, at least occasionally, interact through moral transactions. Information technologists may therefore be in the business of creating moral systems whether they know it or not and whether or not they want that responsibility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      认真对待这一观点，意味着建构信息技术的行为本身也就是在创造特定的道德系统——在其中，人类与人造行动者至少偶尔会通过道德交易相互作用。因此，信息技术专家无论自知与否、无论是否愿意承担这一责任，都可能已在从事创造道德系统的工作。
+    step2: |-
+      此说若当真，则建构信息技术之举本身，即在创造特定的道德系统——人类与人造行动者于其中至少偶尔以道德交易相往来。故信息技术专家无论自知与否、愿担此责与否，恐皆已在从事创造道德系统之业。
   - id: 107
     kind: body
     source: |-
       ### 4.3 Informational Organisms as Moral Agents
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 信息有机体作为道德行动者
+    step2: |-
+      ### 4.3 信息有机体作为道德行动者
   - id: 108
     kind: body
     source: |-
       The most comprehensive literature that argues in favor of the prospect of using information technology to create artificial moral agents is that of Luciano Floridi (1999, 2002, 2003, 2010b, 2011b), and Floridi with Jeff W. Sanders (1999, 2001, 2004). Floridi (1999) recognizes that issues raised by the ethical impacts of information technologies strain our traditional moral theories. To relieve this friction he argues that what is needed is a broader philosophy of information (2002). After making this move, Floridi (2003) claims that information is a legitimate environment of its own and that has its own intrinsic value that is in some ways similar to the natural environment and in other ways radically foreign but either way the result is that information is on its own a thing that is worthy of ethical concern. Floridi (2003) uses these ideas to create a theoretical model of moral action using the logic of object-oriented programming.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最全面地论证利用信息技术创造人工道德行动者之前景的文献，出自卢恰诺·弗洛里迪（1999, 2002, 2003, 2010b, 2011b），以及弗洛里迪与 Jeff W. Sanders 合著者（1999, 2001, 2004）。弗洛里迪（1999）认识到，信息技术的伦理影响所引出的问题，使我们传统的道德理论捉襟见肘。为缓解这一紧张，他论证说，所需要的是一种更宽广的信息哲学（2002）。作出这一步之后，弗洛里迪（2003）主张，信息自成一个合法的环境，有其自身的内在价值，在某些方面类似自然环境，在另一些方面则迥然相异，但无论哪种情形，结果都是：信息本身就值得伦理关切。弗洛里迪（2003）利用这些想法，借助面向对象编程的逻辑，建立了一个道德行动的理论模型。
+    step2: |-
+      最全面论证以信息技术创造人工道德行动者之前景者，当推卢恰诺·弗洛里迪（1999, 2002, 2003, 2010b, 2011b）及其与 Jeff W. Sanders 的合作（1999, 2001, 2004）。弗洛里迪（1999）承认，信息技术之伦理影响所生诸问题，使我辈传统道德理论不胜其任。为解此困，他主张亟需一种更宏阔的信息哲学（2002）。既立此说，弗洛里迪（2003）进而断言：信息自成一合法环境，有其内在价值，或类于自然环境、或与之迥异，无论如何，信息本身即值得伦理关切。弗洛里迪（2003）即借这些想法、依面向对象编程的逻辑，构建其道德行动的理论模型。
   - id: 109
     kind: body
     source: |-
       His model has seven components; 1) the moral agent a, 2) the moral patient *p* (or more appropriately, reagent), 3) the interactions of these agents, 4) the agent’s frame of information, 5) the factual information available to the agent concerning the situation that agent is attempting to navigate, 6) the environment the interaction is occurring in, and 7) the situation in which the interaction occurs (Floridi 2003, 3)[^floridi-2003]. Note that there is no assumption of the ontology of the agents concerned in the moral relationship modeled and these agents can be any mixture or artificial or natural in origin (Sullins 2009a)[^sullins-2009a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      该模型有七个组成部分：1）道德行动者 a；2）道德承受者 *p*（更恰当地说，反应者）；3）这些行动者的互动；4）行动者的信息框架；5）行动者所可获得的、关于其试图应对之情境的事实信息；6）互动发生的环境；7）互动发生的情境（Floridi 2003, 3）[^floridi-2003]。须注意，所建模的道德关系并不假定相关行动者的本体论地位，这些行动者可以是任何混合物，其来源或为人造、或为自然（Sullins 2009a）[^sullins-2009a]。
+    step2: |-
+      该模型含七个成分：1）道德行动者 a；2）道德承受者 *p*（更恰当地说，反应者）；3）诸行动者之互动；4）行动者的信息框架；5）行动者所可获得的、关于其所欲应对情境的事实信息；6）互动所处之环境；7）互动所发生之情境（Floridi 2003, 3）[^floridi-2003]。须注意者，所建模的道德关系并不预设相关行动者的本体论地位；此类行动者可任意混合，其来源或为人造、或为自然（Sullins 2009a）[^sullins-2009a]。
   - id: 110
     kind: body
     source: |-
       There is additional literature that critiques arguments such as Floridi’s with the hope of expanding the idea of automated moral reasoning so that one can speak of many different types of automated moral technologies from simple applications to full moral agents with rights and responsibilities similar to humans (Adam 2008; Anderson and Anderson 2011; Johnson and Powers 2008; Schmidt 2007; Wallach and Allen 2010)[^adam-2008][^anderson-2011][^johnson-2008][^schmidt-2007][^wallach-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另有文献批评弗洛里迪这类论证，希望扩展自动道德推理的观念，使人们能够谈论从简单应用到具有类似人类之权利与责任的完整道德行动者的多种自动道德技术（Adam 2008; Anderson and Anderson 2011; Johnson and Powers 2008; Schmidt 2007; Wallach and Allen 2010）[^adam-2008][^anderson-2011][^johnson-2008][^schmidt-2007][^wallach-2010]。
+    step2: |-
+      亦有文献批评弗洛里迪此类论证，意在拓宽自动道德推理之观念，使人们得以谈论多种自动道德技术——自简单应用以至具备类人之权利与责任的完整道德行动者（Adam 2008; Anderson and Anderson 2011; Johnson and Powers 2008; Schmidt 2007; Wallach and Allen 2010）[^adam-2008][^anderson-2011][^johnson-2008][^schmidt-2007][^wallach-2010]。
   - id: 111
     kind: body
     source: |-
       While scholars recognize that we are still some time from creating information technology that would be unequivocally recognized as an artificial moral agent, there are strong theoretical arguments in suggesting that automated moral reasoning is an eventual possibility and therefore it is an appropriate area of study for those interested in the moral impacts of information technologies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      学者们虽承认，距离造出被无争议地认定为人工道德行动者的信息技术尚有时日，但强有力的理论论证表明，自动道德推理终将成为可能，因此对关心信息技术之道德影响的人而言，这是一个适切的研究领域。
+    step2: |-
+      学者固承认，距造出无可争议地堪称人工道德行动者的信息技术尚有时日；然强有力的理论论证表明，自动道德推理终属可能，故对关心信息技术之道德影响者而言，此乃适切的研究领域。
   - id: 112
     kind: oir
     source: |-
       - Clarke, R., 2000, “[Information wants to be Free…](http://www.rogerclarke.com/II/IWtbF.html)”, unpublished manuscript.
       - O’Reilly, T., 2005, “[What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software](http://oreilly.com/web2/archive/what-is-web-20.html)”.
       - IEEE, 2018, “[The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems](https://standards.ieee.org/industry-connections/ec/autonomous-systems.html)”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Clarke, R., 2000, “[信息渴望自由……](http://www.rogerclarke.com/II/IWtbF.html)”，未刊稿。
+      - O’Reilly, T., 2005, “[Web 2.0 是什么：下一代软件的设计模式与商业模式](http://oreilly.com/web2/archive/what-is-web-20.html)”。
+      - IEEE, 2018, “[IEEE 自主与智能系统伦理全球倡议](https://standards.ieee.org/industry-connections/ec/autonomous-systems.html)”。
+    step2: |-
+      - Clarke, R., 2000, “[信息渴望自由……](http://www.rogerclarke.com/II/IWtbF.html)”，未刊稿。
+      - O’Reilly, T., 2005, “[Web 2.0 是什么：下一代软件的设计模式与商业模式](http://oreilly.com/web2/archive/what-is-web-20.html)”。
+      - IEEE, 2018, “[IEEE 自主与智能系统伦理全球倡议](https://standards.ieee.org/industry-connections/ec/autonomous-systems.html)”。
   - id: 113
     kind: note
     source: |-
       [^note-1]: Roger Clarke is quoting this statement from Brand; it was originally printed in a report/transcript from the conference in the May 1985 “Whole Earth Review”, p. 49.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: Roger Clarke 引述 Brand 此语；该语原刊于 1985 年 5 月《Whole Earth Review》所载该次会议的报告／记录，第 49 页。
+    step2: |-
+      [^note-1]: Roger Clarke 引述 Brand 此语；原刊于 1985 年 5 月《Whole Earth Review》所载该次会议的报告／记录，第 49 页。
   - id: 114
     kind: note
     source: |-
       [^note-2]: See [Acceleration Studies Foundation](http://accelerating.org/), [Future of Humanity Institute](http://www.fhi.ox.ac.uk/), and [H+](http://hplusmagazine.com/).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 参见[加速研究基金会](http://accelerating.org/)、[人类未来研究所](http://www.fhi.ox.ac.uk/)与 [H+](http://hplusmagazine.com/)。
+    step2: |-
+      [^note-2]: 参见[加速研究基金会](http://accelerating.org/)、[人类未来研究所](http://www.fhi.ox.ac.uk/)与 [H+](http://hplusmagazine.com/)。
