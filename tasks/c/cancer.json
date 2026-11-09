@@ -2,7 +2,7 @@
   "slug": "cancer",
   "kind": "retranslate",
   "zh_doc": "c/cancer.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-07T06:55:50Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T13:01:00Z",
+      "evidence": "账本 78 段双版全填（body 77+oir 1），HARD=0（币值 $ 按原文括注保留以满足 $ 守恒门）；compose 65,940 字符；术语登记 60 余条（肿瘤生物学/演化医学/科学哲学三类）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T13:01:00Z",
+      "evidence": "回源逐段核销 78 段（翻译时逐段对照 yuanwen 源文）：节集合 h2 8:8、h3 4:4 全等；脚注定义 214:214 逐键一致；H1 与 SUMMARY 逐字一致、pubinfo 与源一致；参考文献（现制 References）条目录入；相关词条 1 项英文残留（mechanism in science）已归为 SUMMARY 定名「科学中的机制」。Critical 0、Major 0；源文缺陷 1 处照译留痕：Hanahan-Weinberg「六项根本改变」源文实列五项（缺 limitless replicative potential），按零信任照译不改"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T13:02:30Z",
+      "evidence": "反欧化打磨：check_prose 54→0（43 处语义断句 + 17 处去『的』链/弱动词/清单化）。实修类型：long-sentence 22（含 104/98/94 汉字诸句按语义拆分）、de-chain 26（有的…有的→有些…有些、删冗余定语、清单化）、weak-verb 6（作出贡献→帮助解决、作出反应→回应、作出推断→得出推断、作出区分→作…区分）。改后四检全绿：style 0 / math 0 / academic --strict 0 硬 / terms 0 硬"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T13:02:31Z",
+      "evidence": "三校体例终验：check_style 0 issue；markdownlint 该文件 0 错；术语主形统一（trade-off 权衡、复发/复发、临床意义）；尾部节序 其他网络资源→相关词条 合规；结构 h2 8:8 / h3 4:4 / 脚注定义 214:214 逐键一致；H1 与 SUMMARY 逐字一致；数学 0 公式（本条无公式，check_math 空集）"
     }
   ],
   "blockers": [],

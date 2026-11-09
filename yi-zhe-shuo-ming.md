@@ -3954,3 +3954,10 @@
 | Transoxania | — | 河中地区 | al-din-al-razi 首译 | 学界通行（Ma warāʾ al-nahr；阿姆河以北） | 2026-11-09 |
 | Khwārazm-Shāh | — | 花剌子模沙 | al-din-al-razi 首译 | 学界通行（王朝名；亦作“花拉子模沙”） | 2026-11-09 |
 | occult sciences | — | 秘术 | al-din-al-razi 首译 | 学界惯例（魔法、星占等隐秘学问） | 2026-11-09 |
+| psuchê (ψυχή) | ψυχή | 灵魂（保留希腊原词括注） | ancient-soul 首译 | 学界惯例（古希腊哲学研究通行；与 soul「灵魂」同形分条留痕） | 2026-11-09 |
+| Presocratic | — | 前苏格拉底（的） | ancient-soul 首译 | 学界通行（西方哲学史通行） | 2026-11-09 |
+| Phaedo | — | 《斐多篇》 | ancient-soul 首译 | 学界通行汉译（柏拉图对话） | 2026-11-09 |
+| Republic (Plato) | — | 《理想国》 | ancient-soul 首译 | 学界通行汉译（柏拉图对话） | 2026-11-09 |
+| Iliad | — | 《伊利亚特》 | ancient-soul 首译 | 学界通行汉译（荷马史诗） | 2026-11-09 |
+| Odyssey | — | 《奥德赛》 | ancient-soul 首译 | 学界通行汉译（荷马史诗） | 2026-11-09 |
+| Church Fathers | — | 教父 | ancient-soul 首译 | 学界通行（基督教思想史） | 2026-11-09 |
