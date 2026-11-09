@@ -53,6 +53,7 @@
 | accessible pointed graph | — | 可及带点图 | quine-nf | Aczel 术语通行译法；凭证 2026-11-09 | 2026-11-09 |
 | Distinguishing the View | — | 《辨见》 | gorampa | 果让巴论著（lta ba’i shan ‘byed）；藏传中观研究通行译名 | 2026-11-09 |
 | Gentzen sequent | — | Gentzen 序列 | logic-hybrid | 学界惯例（保留 Gentzen 人名，译 sequent 为序列）；凭证 2026-11-09 | 2026-11-09 |
+| Oxford Realists | — | 牛津实在论者 | penbygull | 学界通行（中世纪后期实在论研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | Actualism | — | 现实主义（模态形而上学；亦作“现实论”；伦理学语境词条定名作“现实主义”） | 语料回收（标题词） | 学界惯例（模态形而上学通行；审定“现实论”为地质学域同名不采）；凭证 2026-11-01 | 2026-11-01 |
 | actualization | — | 现实化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | addiction | — | 成瘾 | moral-responsibility-empirical | 精神医学与哲学通行（substance addiction 物质成瘾） | 2026-11-07 |
@@ -229,6 +230,7 @@
 | bootstrapping | — | 自我拔擢 | god-necessary-being | 学界通行意象译法（揪自己鞋带把自己提起）；Leftow 1990 论域 | 2026-11-09 |
 | bounded fragment | — | 有界片段 | logic-hybrid | 学界通行（bounded fragment，Areces 等）；凭证 2026-11-09 | 2026-11-09 |
 | binder | — | 约束子 | logic-hybrid | 学界通行（∀/↓ 绑定名项的算子）；凭证 2026-11-09 | 2026-11-09 |
+| causal predication | — | 因果谓述 | penbygull | 构词直译（praedicatio secundum causam）；凭证 2026-11-09 | 2026-11-09 |
 | Dialectical School | — | 辩证学派 | dialectical-school | 学界通行（苏格拉底minor school之一；SUMMARY 定名）；凭证 2026-11-07 | 2026-11-07 |
 | dictum | dictum | 所述 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | differential blaming disposition | — | 差别责备倾向 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -1672,7 +1674,9 @@
 | Synopsis of Madhyamaka | — | 《中观总义》 | gorampa | 果让巴论著（dbu ma’i spyi don）；藏传中观研究通行译名 | 2026-11-09 |
 | Hōjōki | 方丈記 | 《方丈记》 | japanese-aesthetics | 学界惯例（日本文学史通行书名） | 2026-11-08 |
 | kare | 枯 | 枯（枯萎） | japanese-aesthetics | 学界惯例（日本庭园研究通行译法“枯”） | 2026-11-08 |
+| predication by essence | — | 本质谓述 | penbygull | 构词直译（praedicatio secundum essentiam）；凭证 2026-11-09 | 2026-11-09 |
 | epistemic justification | — | 知识证成 | justep-coherence | 学界惯例（知识论通行译法；SUMMARY 词条名“知识证成的融贯论”） | 2026-11-02 |
+| remote inherence | — | 间接内寓 | penbygull | 构词直译（inhaerentia remota，阿林顿对本质谓述的改称）；凭证 2026-11-09 | 2026-11-09 |
 | coherentism | — | 融贯论 | justep-coherence | 学界惯例（哲学通译；已登记“coherence theory of truth=真理融贯论”） | 2026-11-02 |
 | standard deviation | — | 标准差 | risk | 审定名词库统计学术语通行译名；凭证 2026-11-09 | 2026-11-09 |
 | risk perception | — | 风险感知 | risk | 学界惯例（心理测量学通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -1794,6 +1798,7 @@
 | dialectic | — | 辩证法 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | concept | — | 概念 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | contingency | — | 偶然性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| formal predication | — | 形式谓述 | penbygull | 构词直译（praedicatio formalis，威克里夫—牛津实在论谓述三分之一）；凭证 2026-11-09 | 2026-11-09 |
 | category | — | 范畴 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | key distribution | — | 密钥分发 | qt-entangle | 密码学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | feeling-towards | — | 朝向感受（戈尔迪） | 首现（emotion-Christian-tradition） | 学界惯例（情感哲学直译+括注）；凭证 2026-11-04 | 2026-11-04 |
@@ -1912,6 +1917,7 @@
 | doctrina gentium | — | 异教教义 | gianfrancesco-pico | 源文自设术语（「世间世俗的哲学」），正文保留拉丁原词并括注 | 2026-11-09 |
 | Tree of Porphyry | — | 波菲利之树 | lorenzo-valla | 逻辑学教科书通行 | 2026-11-04 |
 | terminism | — | 词项主义 | lorenzo-valla | 中世纪逻辑史学界通行（奥卡姆派语义学） | 2026-11-04 |
+| formal distinction | — | 形式区分 | penbygull | 中世纪形而上学通行译法（与实在区分 real distinction 对举；邓斯·司各脱 formal distinction 学说名）；凭证 2026-11-09 | 2026-11-09 |
 | enthymeme | — | 省略三段论 | lorenzo-valla | 亚里士多德修辞学通行译名 | 2026-11-04 |
 | predestinarianism | — | 预定论 | lorenzo-valla | 神学界通行 | 2026-11-04 |
 | hylomorphism | — | 质形论 | lorenzo-valla | 亚里士多德学界通行 | 2026-11-04 |
@@ -2987,6 +2993,7 @@
 | precession of the equinoxes | — | 岁差 | newton | 天文学通行；凭证 2026-11-08 | 2026-11-08 |
 | truth-functional | — | 真值函项的 | necessary-sufficient | 逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
 | freedom from conceptual proliferations | — | 离戏论 | gorampa | 中观通行（spros pa dang bral ba，离一切戏论）；承登记册 conceptual proliferation 戏论 | 2026-11-09 |
+| predication by relation | — | 关系谓述 | penbygull | 构词直译（praedicatio secundum habitudinem；habitudinal predication 同）；凭证 2026-11-09 | 2026-11-09 |
 | INUS condition | INUS | INUS 条件（不充分但必要的部分，属于本身不必要却充分的条件） | necessary-sufficient | Mackie 术语；凭证 2026-11-08 | 2026-11-08 |
 | sufficient cause model | — | 充分原因模型 | necessary-sufficient | 流行病学通行（Rothman）；凭证 2026-11-08 | 2026-11-08 |
 | reason why | — | 原因性理由（何以如此的理由） | necessary-sufficient | 本词条核心区分（解释性关系）；凭证 2026-11-08 | 2026-11-08 |
@@ -3476,4 +3483,5 @@
 | Yoruba | — | 约鲁巴语 | 首译（african-ethics） | 民族语言通行音译（尼日利亚 Yoruba；人作“约鲁巴人”）；凭证 2026-11-09 | 2026-11-09 |
 | Igbo | — | 伊博语 | 首译（african-ethics） | 民族语言通行音译（尼日利亚 Igbo）；凭证 2026-11-09 | 2026-11-09 |
 | Shona | — | 绍纳语 | 首译（african-ethics） | 民族语言通行音译（津巴布韦 Shona）；凭证 2026-11-09 | 2026-11-09 |
+| type-form | — | 类型形式 | penbygull | 构词直译（ Naturally apt to be present-in 的共相形态）；凭证 2026-11-09 | 2026-11-09 |
 | South Sotho | — | 南索托语 | 首译（african-ethics） | 民族语言通行音译（莱索托/南非 Sotho）；凭证 2026-11-09 | 2026-11-09 |
