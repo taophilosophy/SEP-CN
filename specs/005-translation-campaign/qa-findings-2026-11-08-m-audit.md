@@ -153,3 +153,11 @@
 1. 4 条 pending 按源文体量升序：music（108 KB）→ moral-learning（111 KB）→ montessori-maria（125 KB）→ mathematical-practice（154 KB）。
 2. 125 条未建任务按 SUMMARY 序 `task_ops.py create --kind retranslate` 逐条推进。
 3. 断点一律以 `campaign.py status`、`task_ops.py show <slug>` 现查；并行会话抢提交时按 pathspec 提交、共享登记册按行键选择性暂存。
+
+### 8.4 music 收口（cleared → s3_checked）
+
+* **draft**：92 段（body 91 + oir 1）双版落盘，8 批（`fa7f9568` 起）；lq.py check 92 段 HARD=0；compose 59,509 字符；术语先登记 22 行、人名补登 Tolstoy 1 行。
+* **s1**：结构全等——h2 9:9、h3 10:10、脚注定义 232:232、正文引用 179:179、年份零差、`4′33″` 4:4；biblio_audit 无中国文献。相关词条两处 source-defect 拆正（「history of Western philosophy of music:antiquity to1800」粘连、「types and tokens value: intrinsic vs. extrinsic Xunzi」三合一）。人名按登记册主形改写 10 组（基维、莱文森、斯克鲁顿、斯蒂芬/大卫·戴维斯、沃尔顿、柯林武德、萨特、托尔斯泰、杜威），引用组与无登记学者保留英文。
+* **s2**：check_prose 33 → 20（实修 23 处：长句 3、被动 3、的链 9、其他 8）；余 20 条逐条豁免（3 条「葬礼进行曲」误报、1 条破折号想象结构、16 条引语/术语密集句）。
+* **s3**：style 0、markdownlint 0、math 0、summary H1 0、academic --strict OK；check_terms 14 条告警逐条裁定（2 条移动/1 条 persona 已撤回/1 条 Tolstoy 对齐，余 9 条他集群串扰）。
+* 状态 s3_checked，交 R-main 评审线；commits `26a394a4`（s2/s3）、s1 与账本批次为并行会话暂存提交收编（内容已核对）。
