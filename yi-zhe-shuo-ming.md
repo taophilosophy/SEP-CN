@@ -4201,3 +4201,37 @@
 | a posteriori necessity | — | 后天必然性 | 首现（zombies） | 学界惯例（同上）；凭证 2026-11-10 | 2026-11-10 |
 | private language argument | — | 私人语言论证 | 首现（zombies） | 学界惯例（维特根斯坦术语通译）；凭证 2026-11-10 | 2026-11-10 |
 | qualitative (of properties) | — | 质性的 | 首现（zombies） | 学界惯例（与倾向性对举）；凭证 2026-11-10 | 2026-11-10 |
+| explanandum (that which is to be explained) | — | 被解释项 | 首译（scientific-explanation-20th） | 学界通行（Hempel 模型术语；与「解释项」对）；凭证 2026-11-10 | 2026-11-10 |
+| deductive-nomological (DN) model | — | 演绎—律则模型 | 首译（scientific-explanation-20th） | 学界通行（Hempel & Oppenheim 1948；亦译「演绎—规律模型」）；凭证 2026-11-10 | 2026-11-10 |
+| nomic expectability | — | 律则可期待性 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1989 之用语；「律则的」nomological）；凭证 2026-11-10 | 2026-11-10 |
+| accidental generalization | — | 偶然概括 | 首译（scientific-explanation-20th） | 学界通行（与「律」相对；偶然为真的全称概括）；凭证 2026-11-10 | 2026-11-10 |
+| lawlike / lawfulness | — | 律性的／律性 | 首译（scientific-explanation-20th） | 学界通行（Goodman 传统；「律性标准」）；凭证 2026-11-10 | 2026-11-10 |
+| best-systems analysis | — | 最佳系统分析 | 首译（scientific-explanation-20th） | 学界通行（Lewis 1973 论律性）；凭证 2026-11-10 | 2026-11-10 |
+| special sciences | — | 特殊科学 | 首译（scientific-explanation-20th） | 学界通行（Fodor 1974 以来；生物学、心理学、经济学等）；凭证 2026-11-10 | 2026-11-10 |
+| deductive-statistical (DS) explanation | — | 演绎—统计解释 | 首译（scientific-explanation-20th） | 学界通行（Hempel 1965b）；凭证 2026-11-10 | 2026-11-10 |
+| inductive-statistical (IS) explanation | — | 归纳—统计解释 | 首译（scientific-explanation-20th） | 学界通行（Hempel 1965b）；凭证 2026-11-10 | 2026-11-10 |
+| statistical relevance (SR) model | — | 统计相关性模型 | 首译（scientific-explanation-20th） | 学界通行（Salmon 1971a）；凭证 2026-11-10 | 2026-11-10 |
+| homogeneous partition | — | 齐一划分 | 首译（scientific-explanation-20th） | 本库首译（Salmon 之 technical term；亦译「同质划分」）；凭证 2026-11-10 | 2026-11-10 |
+| objective homogeneity | — | 客观齐一性 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1984）；凭证 2026-11-10 | 2026-11-10 |
+| causal mechanical (CM) model | — | 因果机制模型 | 首译（scientific-explanation-20th） | 学界通行（Salmon 1984）；凭证 2026-11-10 | 2026-11-10 |
+| causal process | — | 因果过程 | 首译（scientific-explanation-20th） | 学界通行（Salmon；与「伪过程」对）；凭证 2026-11-10 | 2026-11-10 |
+| pseudo-process | — | 伪过程 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1984）；凭证 2026-11-10 | 2026-11-10 |
+| mark transmission | — | 标记传递 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1984；mark＝标记）；凭证 2026-11-10 | 2026-11-10 |
+| causal interaction | — | 因果相互作用 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1984）；凭证 2026-11-10 | 2026-11-10 |
+| unificationist account | — | 统一论说明 | 首译（scientific-explanation-20th） | 学界通行（Friedman 1974、Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
+| explanatory store | — | 解释库 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989 之 E(K)）；凭证 2026-11-10 | 2026-11-10 |
+| schematic sentence | — | 模式句 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
+| filling instructions | — | 填充指令 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
+| argument pattern | — | 论证模式 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
+| stringency (of an argument pattern) | — | 严格度 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
+| consilience | — | 汇归一致 | 首译（scientific-explanation-20th） | 学界通行（Whewell 1840；亦译「归并」「辐合」）；凭证 2026-11-10 | 2026-11-10 |
+| constructive empiricism | — | 建构经验主义 | 首译（scientific-explanation-20th） | 学界通行（van Fraassen 1980）；凭证 2026-11-10 | 2026-11-10 |
+| empirical adequacy | — | 经验充足性（经验上充足） | 首译（scientific-explanation-20th） | 学界通行（van Fraassen 1980）；凭证 2026-11-10 | 2026-11-10 |
+| contrast class | — | 对照类 | 首译（scientific-explanation-20th） | 学界通行（van Fraassen 之 why-question 理论）；凭证 2026-11-10 | 2026-11-10 |
+| relevance relation | — | 相关性关系 | 首译（scientific-explanation-20th） | 学界通行（van Fraassen 1980）；凭证 2026-11-10 | 2026-11-10 |
+| singular causal explanation | — | 单称因果解释 | 首译（scientific-explanation-20th） | 学界通行（Scriven 1962）；凭证 2026-11-10 | 2026-11-10 |
+| etiological (aspect of explanation) | — | 病因学的（方面） | 首译（scientific-explanation-20th） | 本库首译（Salmon 之 etiological/constitutive 对）；凭证 2026-11-10 | 2026-11-10 |
+| causation by omission | — | 遗漏所致的因果 | 首译（scientific-explanation-20th） | 本库首译（omission＝遗漏、不作为）；凭证 2026-11-10 | 2026-11-10 |
+| double prevention | — | 双重阻止 | 首译（scientific-explanation-20th） | 本库首译（Schaffer 2000）；凭证 2026-11-10 | 2026-11-10 |
+| projectable predicate | — | 可投射谓词 | 首译（scientific-explanation-20th） | 学界通行（Goodman 1955）；凭证 2026-11-10 | 2026-11-10 |
+| conserved quantity | — | 守恒量 | scientific-explanation-20th | 学界通行（物理学既有译名；Dowe 2000 守恒过程理论）；凭证 2026-11-10 | 2026-11-10 |
