@@ -2,7 +2,7 @@
   "slug": "scientific-explanation-20th",
   "kind": "retranslate",
   "zh_doc": "s/scientific-explanation-20th.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-09T16:55:11Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "S-trans-20261110",
+      "at": "2026-11-09T22:38:59Z",
+      "evidence": "draft：`tasks/s/scientific-explanation-20th.ledger.yaml` 177 段（body 160 / oir 1 / note 16）全部落盘双版，源文 114,324 字符；`lq.py check` 硬错 0、守恒通过（177 段）；逐批提交 p1–p14（段 1–177）。译文自 `yuanwen/s/scientific-explanation-20th.md`（Winter 2025 存档，SHA-256 e3085ec5…）零信任重译，未参考既有中文。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "S-trans-20261110",
+      "at": "2026-11-09T22:38:59Z",
+      "evidence": "s1：逐段核对源文与 step1。公式（$…$ 22 处 + $$ 块 7 对，共 14 个 $$）与源文一致；脚注键 [^note-1]–[^note-16] 及 59 个文献键全数保留；`*` 强调标记与 `**` 计数守恒（少数斜体→书名号处已标注）；标题层级 H2 7 / H3 20 / H4 0 与源文一一对应；编辑者按语（原文 [*Editor's Note: …*]）改用引文块保留括注形式。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "S-trans-20261110",
+      "at": "2026-11-09T22:38:59Z",
+      "evidence": "s2：润色稿定稿。prose 告警 33 → 0（长句切分 20 处、去链 8 处、弱动词「作出/加以」改写 2 处、被动句改写 3 处）；style 全绿（`**` 后空格 1 处修正、中文斜体经 italic_to_bold_cjk 转换 34 行）；academic 全绿（引文、文献照录、pubinfo 一致）；术语 34 条入册（`script/reg_se20_terms.json`→`yi-zhe-shuo-ming.md`），人名 6 条入 `ren-ming-biao.md` 并 A–Z 归整（守恒 3121 行）；人名体例统一：萨蒙（Wesley Salmon）、范·弗拉森（与库内 18 个文件一致）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "S-trans-20261110",
+      "at": "2026-11-09T22:39:00Z",
+      "evidence": "s3：三校通过。`script/s_gate.py scientific-explanation-20th` 七项全绿（ledger-check / style / academic / prose / math / summary / terms）；`check_terms --docs` 硬错误 0（余 1 条 Helmholtz 告警为文献区误配，词汇表滞后 4 属全局）；结构：H1 1（SUMMARY 定名「20 世纪的科学解释理论」）、H2 12（含模板补出的 脚注/参考文献/相关词条/学术工具）、H3 20、脚注定义 75（16 注 + 59 文献键）；数学 $$ 14 与源文同；相关词条 1 条未匹配（logical positivism 无 SUMMARY 条目，保留英文）。"
     }
   ],
   "blockers": [],

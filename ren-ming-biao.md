@@ -3115,7 +3115,6 @@
 | Woodger, J. H. | — | J. H. Woodger（现代学者，保留英文） | — | — | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Woodruff, Paul | — | 保罗·伍德拉夫 | — | — | binarium | 学界惯例（古典哲学家，音译）；凭证 2026-11-08 | 2026-11-08 |
 | Woods, Jack | — | Woods | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Woodward, James | — | 詹姆斯·伍德沃德 | 美国 | 1946– | scientific-explanation-20th | 本库首译（解释的因果／操控论）；凭证 2026-11-10 | 2026-11-10 |
 | Wooldridge, Michael | — | 迈克尔·伍尔德里奇 | — | — | social-procedures | 学界通行汉译（多智能体系统）；凭证 2026-11-07 | 2026-11-07 |
 | Woolf, Virginia | — | 弗吉尼亚·伍尔夫 | — | — | ingarden | 文学通行汉译（《海浪》）；凭证 2026-11-08 | 2026-11-08 |
 | Worms, Frederic | — | 弗雷德里克·沃尔姆 | — | — | bergson | 柏格森之友协会创立者；学界通行音译 | 2026-11-08 |
