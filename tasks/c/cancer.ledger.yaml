@@ -179,44 +179,58 @@ segments:
     kind: body
     source: |-
       Several recent efforts at cancer classification use network, “deep learning” methods or AI to mine data to identify patterns of association or clusters of common features within and across different cancer types. These methods have been used to address the so-called “curse of dimensionality” problem: i.e., sort through enormous amounts of genomic data, and speed development of tools for both diagnosis and treatment. Recent philosophical work explores a variety of methodological and conceptual challenges facing use these methods. While some are optimistic about the use of such tools in classification of cancers and other diseases, others are more skeptical (Boniolo & Nathan, 2016; Boniolo and Campagner, 2019a, 2019b; Bechtel, 2019; Shrager, et. al., 2019; Hey, et. al., 2019; Chin-Yee and Upshur, 2019; Green et al., 2022; Plutynski, 2018; Plutynski, 2022). Skepticism comes from several sources. First, some raise methodological concerns about representativeness of samples, sample quality and purity, batch effects, and the fact that methods of both sequence analysis and data labeling and curation are constantly being updated, such that data gathered even five years past may need revisiting. Others warn that different ways of labeling the same genetic information can lead to contradictory results in clinical trials of novel cancer drugs, or mistaken inferences about likely progression or treatment benefit (Hey, 2015, 2019; Hey, et. al., 2016, 2019). Some worry that genomic data is a static representation of gene expression profile at a single point in time, but cancer is a dynamic process, shaped in part by the “tumor microenvironment” (TME) – the environment surrounding a tumor. If we are interested in determining how cancers progress, or are likely to respond to treatment, we arguably need to take multiple samples at several points in time, and even broaden consideration of relevant causal factors outside the (local) tumor environment, to the “tumor organismal environment” (TOE) (Laplane, et. al., 2018, 2019b). How best to integrate as wide as possible an array of genomic, extra-genomic, and clinical information is not obvious, as well as how best to take into consideration the dynamic features of cancer progression.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      近来若干分类癌症的努力，使用网络、“深度学习”方法或 AI 来挖掘数据，以找出不同癌症类型之内和之间关联模式或共同特征簇。这些方法被用来处理所谓的“维数灾难”问题：即，从海量基因组数据中筛选，加快诊断和治疗工具的研发。近来的哲学工作探讨了使用这些方法所面临的种种方法论和概念挑战。有些人对这类工具用于癌症和其他疾病分类持乐观态度，另一些人则更为怀疑（Boniolo & Nathan, 2016; Boniolo and Campagner, 2019a, 2019b; Bechtel, 2019; Shrager, et. al., 2019; Hey, et. al., 2019; Chin-Yee and Upshur, 2019; Green et al., 2022; Plutynski, 2018; Plutynski, 2022）。怀疑来自几个方面。第一，一些人对样本代表性、样本质量与纯度、批次效应提出方法论关切，还关切如下事实：序列分析以及数据标注与整理的方法都在不断更新，以致哪怕是五年前采集的数据也可能需要重新审视。另一些人警告说，对同一遗传信息采用不同的标注方式，可能导致新型癌症药物临床试验得出矛盾结果，或者导致关于可能进展或治疗获益的错误推断（Hey, 2015, 2019; Hey, et. al., 2016, 2019）。有些人担心，基因组数据只是基因表达谱在单一时间点的静态表示，而癌症是一个动态过程，部分地由“肿瘤微环境”（TME）——肿瘤周围的环境——塑造。如果我们想确定癌症如何进展、或可能如何对治疗作出反应，按理说就需要在若干时间点取多个样本，甚至把相关因果因素的考虑扩大到（局部）肿瘤环境之外，直到“肿瘤机体环境”（TOE）（Laplane, et. al., 2018, 2019b）。怎样最好地整合尽可能广泛的一系列基因组、基因组外和临床信息，并不显然；怎样最好地考虑癌症进展的动态特征，也同样不显然。
+    step2: |-
+      近年来有好些分类癌症的尝试，用网络、“深度学习”方法或 AI 来挖数据，找出不同癌症类型之内、之间有哪些关联模式或共同特征簇。这些方法用来对付所谓的“维数灾难”：从海量基因组数据里筛出有用的东西，加快诊断工具和治疗工具的研发。近年的哲学工作，探讨了用这些方法时碰到的各种方法论和概念挑战。有些人对这类工具用于癌症和其他疾病分类抱乐观态度，另一些人则比较怀疑（Boniolo & Nathan, 2016; Boniolo and Campagner, 2019a, 2019b; Bechtel, 2019; Shrager, et. al., 2019; Hey, et. al., 2019; Chin-Yee and Upshur, 2019; Green et al., 2022; Plutynski, 2018; Plutynski, 2022）。怀疑有几个来源。第一，有人对样本有没有代表性、样本质量与纯度、批次效应提出方法论上的担心；他们还担心，序列分析以及数据标注和整理的办法都在不断更新，连五年前采的数据都可能需要回头看。另一些人警告说，同一条遗传信息，标注方式不同，可能让新型癌症药物的临床试验得出互相矛盾的结果，或者让人对可能进展和治疗获益作出错误推断（Hey, 2015, 2019; Hey, et. al., 2016, 2019）。还有人担心，基因组数据只是基因表达谱在某个时间点的静态快照，而癌症是个动态过程，部分由“肿瘤微环境”（TME）——肿瘤周围的环境——塑造。要弄清癌症怎么进展、可能怎么对治疗作出反应，按理说就得在几个时间点取多个样本，甚至把相关因果因素从（局部）肿瘤环境向外扩展，一直考虑到“肿瘤机体环境”（TOE）（Laplane, et. al., 2018, 2019b）。怎样把尽可能广泛的基因组、基因组外和临床信息整合得最好，并不显然；怎样把癌症进展的动态特征考虑得最好，也一样不显然。
   - id: 23
     kind: body
     source: |-
       The larger issues raised by this case is whether there is one way to privilege choice of causal basis for classifying disease. Different choice of temporal or spatial scale, or more or less fine-grained characterization of causal processes, might yield multiple, overlapping disease classifications. While some may be willing to bite this bullet, and indeed, endorse pluralism and non-hierarchical classifications (see, e.g., Khalidi 1998, 2013)[^khalidi-1998], others might be concerned that this would yield too permissive an array of disease types, or inconsistent classifications, thus complicating scientific communication. More generally, this case raises some interesting puzzles about the aims and methods of classification in the biomedical sciences more generally. Given that genomic features of cancer are unlikely to unproblematically yield a single natural taxonomy, we might become skeptical of reductive pictures of disease classification and explanation. It seems that classifications of disease like cancer form a kind of ‘hybrid’—they are intended to capture natural regularities and their causes, but also to be of use for a wide array of agents with different purposes. It’s unclear whether all these purposes can be served by one method or set of classificatory criteria.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个案例提出的更大问题是：是否存在一种方式，可以为疾病分类中因果基础的选择赋予优先地位。时间或空间尺度的不同选择，或者对因果过程或粗或细的刻画，可能产生多种相互重叠的疾病分类。有些人也许愿意硬着头皮接受这一点，甚至赞同多元论和非层级分类（例如见 Khalidi 1998, 2013）[^khalidi-1998]；另一些人则可能担心，这会产出一套过于宽松的疾病类型，或者不一致的分类，从而使科学交流变得复杂。更一般地说，这个案例对生物医学科学中分类的目标和方法提出了一些有趣的难题。既然癌症的基因组特征不太可能毫无问题地产生单一的自然分类系统，我们也许会对疾病分类和解释的还原论图景产生怀疑。癌症这类疾病的分类似乎构成一种“混合体”——它们旨在把握自然规律及其原因，同时又要供具有不同目的的各种行动者使用。所有这些目的是否都能由一种方法或一套分类标准来服务，并不清楚。
+    step2: |-
+      这个案例引出的更大问题是：给疾病分类时，挑选因果基础有没有一种可以优先采用的办法？时间尺度或空间尺度换个选法，或者把因果过程刻画得粗一点、细一点，都可能得到多种互相重叠的疾病分类。有些人也许愿意认了，甚至赞成多元论和非层级分类（例如见 Khalidi 1998, 2013）[^khalidi-1998]；另一些人则担心，这样一来疾病类型会多到没边，或者分类前后不一致，科学交流反而变麻烦。更一般地说，这个案例对生物医学科学里分类的目标和方法，提出了一些有趣的难题。癌症的基因组特征既然不大可能顺顺当当地给出单一的自然分类系统，我们就有理由怀疑疾病分类和解释上的还原论图景。癌症这类疾病的分类，似乎是一种“混合体”：既要抓住自然规律及其原因，又要给目的各不相同的各类行动者使用。这些目的能不能都靠一种方法、一套分类标准来满足，并不清楚。
   - id: 24
     kind: body
     source: |-
       ### 1.2 Cancer’s Variable Natural History
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 癌症多变的自然史
+    step2: |-
+      ### 1.2 癌症多变的自然史
   - id: 25
     kind: body
     source: |-
       A major complication surrounding classification in the case of cancer is that cancers have variable disease course (Foulds 1958; Cairns 1975; Lynch 2007; Bertolaso & Dupré 2018; Plutynski, 2018)[^bertolaso-2018][^cairns-1975][^foulds-1958]. Not all cancers progress uniformly to metastasis and death; some growths progress slowly or not at all. Some very common cancers (in the prostate and thyroid) are either slow growing, or tend to remain “indolent” (Esserman, et al. 2014; Siegel, et al. 2017). There is some disagreement in the medical community about how to characterize such cases; it’s unclear whether they are best viewed as very slow growing precancerous lesions, or perhaps ought not be characterized as cancer, at all (Schwartz, 2014). Such cases also raise a host of practical questions about the merits of screening, and the risk of overdiagnosis—the diagnosis of disease that might never have progressed in the lifetime of the patient (see, e.g., Walker & Rogers 2016; Hofman 2017; Esserman, et al. 2014; Welch & Black 2010)[^welch-2010]. They also raise interesting philosophical questions about the nature of disease.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      癌症分类周围的一个主要复杂因素，是癌症的病程多变（Foulds 1958; Cairns 1975; Lynch 2007; Bertolaso & Dupré 2018; Plutynski, 2018）[^bertolaso-2018][^cairns-1975][^foulds-1958]。并非所有癌症都一律进展到转移和死亡；有些肿块进展缓慢，或者根本不进展。一些非常常见的癌症（前列腺癌和甲状腺癌）要么生长缓慢，要么倾向于保持“惰性”（Esserman, et al. 2014; Siegel, et al. 2017）。医学界对于如何刻画这类病例存在一些分歧；不清楚它们最好被看作生长极慢的癌前病变，还是也许根本不应被刻画为癌症（Schwartz, 2014）。这类病例还提出一大堆实际问题，涉及筛查的价值，以及过度诊断的风险——即诊断出一种在患者有生之年可能根本不会进展的疾病（例如见 Walker & Rogers 2016; Hofman 2017; Esserman, et al. 2014; Welch & Black 2010）[^welch-2010]。它们也提出了关于疾病本质的有趣哲学问题。
+    step2: |-
+      癌症分类的一大麻烦，是癌症的病程多变（Foulds 1958; Cairns 1975; Lynch 2007; Bertolaso & Dupré 2018; Plutynski, 2018）[^bertolaso-2018][^cairns-1975][^foulds-1958]。并不是所有癌症都会一路进展到转移和死亡；有些肿块长得很慢，有些干脆不长。几种很常见的癌症（前列腺癌和甲状腺癌）要么长得慢，要么倾向于保持“惰性”（Esserman 等，2014; Siegel 等，2017）。这类病例该怎么刻画，医学界还有分歧：把它们看成长得极慢的癌前病变最好，还是干脆不该叫作癌症（Schwartz, 2014）？这些病例还带出一大堆实际问题：筛查值不值得做，过度诊断的风险有多大——也就是诊断出一种在患者有生之年也许根本不会进展的疾病（例如见 Walker & Rogers 2016; Hofman 2017; Esserman 等，2014; Welch & Black 2010）[^welch-2010]。它们也提出了关于疾病本质的有意思的哲学问题。
   - id: 26
     kind: body
     source: |-
       Some philosophers (Schwartz 2014)[^schwartz-2014], drawing upon the biostatistical theory of disease as departure from age and sex-typical function (Boorse 1977), argue that we ought to classify such early-stage cancers as risk factors, rather than disease. Such growths are not disease, on this view, because they are not atypical and do not yet impair function—in fact as many as one half of men over 60 have some lesions of the prostate (Welch & Black 2010)[^welch-2010]. Reclassification of such cancers as mere risk factors, Schwartz argues, will prevent overdiagnosis and overtreatment. Other philosophers (e.g., Reid 2017)[^reid-2017] argue that this approach fails to acknowledge how the practice of diagnosis is itself a sort of risk-benefit calculation, informed in part by our knowledge of the prevalence of early-stage or indolent disease, and in part by more or less precautionary values. It seems this debate is not only a scientific one, but also a normative one; much like debates about PTSD or obesity, there are normative dimensions to how we diagnose and classify disease. Labeling can have both positive and negative consequences for patients, clinicians, insurers, not to mention developers and producers of screening, medical device, and pharmaceuticals (Ereshefsky 2009)[^ereshefsky-2009]. Overdiagnosis of early-stage disease can lead to serious harms; treating a condition that may or may not progress to invasive disease in the lifetime of a patient is costly and harmful.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些哲学家（Schwartz 2014）[^schwartz-2014]依据疾病即偏离年龄与性别典型功能的生物统计理论（Boorse 1977），论证说我们应当把这类早期癌症分类为风险因素，而不是疾病。照这种看法，这类肿块不是疾病，因为它们并不非典型，也尚未损害功能——事实上，60 岁以上的男性中多达一半有某种前列腺病变（Welch & Black 2010）[^welch-2010]。Schwartz 论证说，把这类癌症重新归类为单纯的风险因素，将防止过度诊断和过度治疗。其他哲学家（如 Reid 2017）[^reid-2017]论证说，这种进路未能承认诊断实践本身就是一种风险—收益计算，它部分地由我们关于早期或惰性疾病流行程度的知识所启发，部分地由或多或少预防性的价值所启发。看来这场辩论不仅是科学的，也是规范性的；很像关于创伤后应激障碍或肥胖的辩论，我们如何诊断和分类疾病，带有规范性的维度。贴标签对患者、临床医生、保险方，更不用说对筛查、医疗器械和药物的开发者和生产者，都可能既有正面也有负面后果（Ereshefsky 2009）[^ereshefsky-2009]。早期疾病的过度诊断可能带来严重伤害；治疗一种在有生之年也许进展、也许不进展为侵袭性疾病的情况，既昂贵又有害。
+    step2: |-
+      一些哲学家（Schwartz 2014）[^schwartz-2014]依据一种生物统计的疾病理论——疾病即偏离同龄同性别者的典型功能（Boorse 1977）——认为，这类早期癌症应当归为风险因素，而不是疾病。照这种看法，这类肿块不算疾病，因为它们并不异常，也还没有损害功能；事实上，60 岁以上的男性里，多达一半人有某种前列腺病变（Welch & Black 2010）[^welch-2010]。Schwartz 认为，把这类癌症重新归为单纯的风险因素，就能避免过度诊断和过度治疗。其他哲学家（如 Reid 2017）[^reid-2017]则认为，这种办法没有看到：诊断实践本身就是一种风险—收益计算，它一部分靠我们对早期疾病或惰性疾病有多常见的研究，一部分靠或强或弱的预防性价值。看来这场争论不只是科学的，也是规范性的；很像关于创伤后应激障碍或肥胖的争论，我们怎样诊断和分类疾病，本身就有规范维度。贴标签对患者、临床医生、保险方，更不用说对筛查、医疗器械和药物的开发者和生产者，都可能有好有坏（Ereshefsky 2009）[^ereshefsky-2009]。早期疾病的过度诊断可能造成严重伤害；治疗一种在有生之年也许进展、也许不进展成侵袭性疾病的情况，既费钱又有害。
   - id: 27
     kind: body
     source: |-
       One hope driving the precision medicine research program is that the identification of biomarkers of aggressive disease will resolve these ambiguities with respect to early stage disease, as well as identify targets of effective treatment (see, e.g., Collins, et al. 2005). However, as we have seen, interpreting genomic data has been far from straightforward, and classifying cancer types and subtypes by appeal to genomic information alone can lead to a loss of important information. While genomic and molecular data is no doubt useful, it is not necessarily decisive.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      驱动精准医学研究纲领的一个希望是，鉴定出侵袭性疾病的生物标志物，将解决早期疾病方面的这些含糊之处，并鉴定出有效治疗的靶点（例如见 Collins, et al. 2005）。然而，正如我们已经看到的，解释基因组数据远不简单，而仅凭基因组信息来分类癌症类型和亚型，可能导致重要信息的丢失。基因组和分子数据无疑有用，但并不必然具有决定性。
+    step2: |-
+      推动精准医学研究纲领的一个希望是：找出侵袭性疾病的生物标志物，就能解决早期疾病上的这些含糊之处，也能找出有效治疗的靶点（例如见 Collins 等，2005）。然而，正如前面看到的，解释基因组数据远没有那么简单，光凭基因组信息来分类癌症类型和亚型，可能丢掉重要信息。基因组和分子数据当然有用，但未必起决定作用。
   - id: 28
     kind: body
     source: |-
       In sum, much like genes and species, diseases like cancer lack essences, are heterogeneous, blur together at the edges, are caused in many different ways, and have variable dynamics. Perhaps inconsistent classifications are simply to be expected in such cases. That this is so does not (necessarily) show that we ought to give up on realism about disease kinds; indeed, perhaps we ought to endorse “promiscuous realism” (Dupré 1995). As knowledge has grown, and practical interests shift, classifications can multiply and even cross-classify the same kinds. This is nothing to fear, so long as the kinds we countenance do the predictive or explanatory work intended for them, in the context intended. Others have a somewhat less permissive view, however, though there remains a good deal of dispute over how and which empirical constraints should govern classification of “scientific kinds,” whether or not these categories count as examples of “natural” kinds (Slater 2014; Ereshefsky & Reydon 2015)[^ereshefsky-2015][^slater-2014]. (See the entry on scientific pluralism.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总之，很像基因和物种，癌症这样的疾病缺少本质，彼此异质，在边缘处模糊交融，由许多不同方式引起，并且有可变的动态。也许在这类病例中，不一致的分类本来就该预料到。情况如此并不（必然）表明我们应当放弃关于疾病种类的实在论；事实上，也许我们应当赞同“混杂实在论”（Dupré 1995）。随着知识增长、实践兴趣转移，分类会增殖，甚至对同样的种类交叉分类。只要我们所承认的种类在预期的语境中完成了预期的预测或解释工作，这就没有什么可怕的。不过，另一些人持不那么宽松的看法，尽管关于如何、以及哪些经验约束应当支配“科学种类”的分类，仍有大量争论——无论这些范畴是否算作“自然”种类的例子（Slater 2014; Ereshefsky & Reydon 2015）[^ereshefsky-2015][^slater-2014]。（见“科学多元主义”词条。）
+    step2: |-
+      总之，很像基因和物种，癌症这类疾病没有本质，彼此异质，边缘处模糊交融，成因多种多样，动态也多变。在这种病例里，分类不一致也许是理所当然的。情况如此并不（一定）说明我们就该放弃关于疾病种类的实在论；事实上，也许我们该赞成“混杂实在论”（Dupré 1995）。知识增长了，实践兴趣转移了，分类就可能增多，甚至把同样的种类交叉分类。只要我们承认的这些种类，在预期的语境里干完了预期的预测活或解释活，就没什么好怕的。不过，另一些人的看法没那么宽松；关于“科学种类”的分类应当受哪些经验约束、怎样受约束，仍有不少争论，不管这些范畴算不算“自然”种类的例子（Slater 2014; Ereshefsky & Reydon 2015）[^ereshefsky-2015][^slater-2014]。（见“科学多元主义”词条。）
   - id: 29
     kind: body
     source: |-
