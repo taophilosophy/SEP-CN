@@ -1,0 +1,243 @@
+{
+ "key": "epidemiology",
+ "term": "epidemiology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:57:53+00:00",
+ "status": "ok",
+ "note": "variant=epidemiology; 审定公布名词库=42; 海峡两岸名词对照库=4; 其他来源数据库=5; 预公布名词数据库=42; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "流行病学",
+   "en": "epidemiology",
+   "code": "01.0278",
+   "standard": "感染病学名词",
+   "subject": "感染病学_总论_感染病流行病学"
+  },
+  {
+   "cn": "流行病学",
+   "en": "epidemiology",
+   "code": "01.0037",
+   "standard": "核医学名词",
+   "subject": "核医学_总论"
+  },
+  {
+   "cn": "流行病学",
+   "en": "epidemiology",
+   "code": "06.002",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区公共卫生"
+  },
+  {
+   "cn": "分子流行病学",
+   "en": "molecular epidemiology",
+   "code": "02.057",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物传染病学"
+  },
+  {
+   "cn": "行为流行病学",
+   "en": "behavioral epidemiology",
+   "code": "1.062",
+   "standard": "行为医学名词",
+   "subject": "行为医学_总论_行为医学分支学科"
+  },
+  {
+   "cn": "遗传流行病学",
+   "en": "genetic epidemiology",
+   "code": "1.021",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "辐射流行病学",
+   "en": "radiation epidemiology",
+   "code": "17.870",
+   "standard": "电力名词",
+   "subject": "电力_核电"
+  },
+  {
+   "cn": "遗传流行病学",
+   "en": "genetic epidemiology",
+   "code": "01.0279",
+   "standard": "感染病学名词",
+   "subject": "感染病学_总论_感染病流行病学"
+  },
+  {
+   "cn": "分析流行病学",
+   "en": "analytical epidemiology",
+   "code": "05.005",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育科研方法"
+  },
+  {
+   "cn": "描述性流行病学",
+   "en": "descriptive epidemiology",
+   "code": "05.007",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育科研方法"
+  },
+  {
+   "cn": "实验性流行病学",
+   "en": "experimental epidemiology",
+   "code": "05.008",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育科研方法"
+  },
+  {
+   "cn": "结核病流行病学",
+   "en": "tuberculosis epidemiology",
+   "code": "01.005",
+   "standard": "结核病学名词",
+   "subject": "结核病学_总论"
+  },
+  {
+   "cn": "流行病学",
+   "en": "epidemiology",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "景观流行病学",
+   "en": "landscape epidemiology",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "遗传流行病学",
+   "en": "genetic epidemiology",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "流行病学转型",
+   "en": "epidemiologic transition",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "流行病学",
+   "en": "epidemiology",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "流行病学",
+   "en": "Epidemiology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "流行病学史",
+   "en": "historical epidemiology",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "流行病学调查（流调）",
+   "en": "epidemiological investigation ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "感染控制和流行病学专业人员协会",
+   "en": "Association for Professionals in Infection Control and Epidemiology (APIC)",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "流行病学",
+   "en": "epidemiology",
+   "code": "3.11.1.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_医学社会学学科界定"
+  },
+  {
+   "cn": "放射流行病学",
+   "en": "radiation epidemiology",
+   "code": "1.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生学"
+  },
+  {
+   "cn": "航空流行病学",
+   "en": "aviation epidemiology",
+   "code": "14.5",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_航空流行病学"
+  },
+  {
+   "cn": "军队流行病学",
+   "en": "military epidemiology",
+   "code": "14",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学"
+  },
+  {
+   "cn": "流行病学调查",
+   "en": "epidemiologic study",
+   "code": "3.6.19",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "流行病学监测",
+   "en": "epidemiological surveillance",
+   "code": "9.4.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检"
+  },
+  {
+   "cn": "航空病流行病学",
+   "en": "epidemiology of airsickness",
+   "code": "14.5.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_航空流行病学"
+  },
+  {
+   "cn": "军事航海流行病学",
+   "en": "military nautical epidemiology",
+   "code": "14.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_军事航海流行病学"
+  },
+  {
+   "cn": "军事环境流行病学",
+   "en": "military environmental epidemiology",
+   "code": "14.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_军事环境流行病学"
+  },
+  {
+   "cn": "流行病学资料分析",
+   "en": "epidemiological data analysis",
+   "code": "3.6.22.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "流行病学负担评估",
+   "en": "epidemiological burden assessment",
+   "code": "3.7.12",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "卫生流行病学侦察",
+   "en": "sanitary epidemiological reconnaissance",
+   "code": "14.9",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_卫生流行病学侦察"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,187 @@
+{
+ "key": "epistasis",
+ "term": "epistasis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T19:02:23+00:00",
+ "status": "ok",
+ "note": "variant=epistasis; 审定公布名词库=33; 海峡两岸名词对照库=14; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "上位效应",
+   "en": "epistatic effect,epistasis",
+   "code": "10.0101",
+   "standard": "植物学名词",
+   "subject": "植物学_植物遗传学"
+  },
+  {
+   "cn": "显性上位",
+   "en": "dominance epistasis",
+   "code": "10.0104",
+   "standard": "植物学名词",
+   "subject": "植物学_植物遗传学"
+  },
+  {
+   "cn": "隐性上位",
+   "en": "recessive epistasis",
+   "code": "10.0105",
+   "standard": "植物学名词",
+   "subject": "植物学_植物遗传学"
+  },
+  {
+   "cn": "显性上位",
+   "en": "dominance epistasis",
+   "code": "02.079",
+   "standard": "遗传学名词",
+   "subject": "遗传学_经典遗传学"
+  },
+  {
+   "cn": "隐性上位",
+   "en": "recessive epistasis",
+   "code": "02.080",
+   "standard": "遗传学名词",
+   "subject": "遗传学_经典遗传学"
+  },
+  {
+   "cn": "鼻出血",
+   "en": "epistaxis",
+   "code": "2.3.4",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "鼻科_鼻症状"
+  },
+  {
+   "cn": "鼻出血",
+   "en": "epistaxis",
+   "code": "15.110",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医内科学"
+  },
+  {
+   "cn": "鼻出血",
+   "en": "epistaxis",
+   "code": "3.009",
+   "standard": "血液学名词",
+   "subject": "血液学_症状与体征"
+  },
+  {
+   "cn": "鼻衄[病]",
+   "en": "epistaxis",
+   "code": "01.1098",
+   "standard": "中医药学名词（2010）",
+   "subject": "中医药学_内科学"
+  },
+  {
+   "cn": "鼻衄[病]",
+   "en": "epistaxis",
+   "code": "010.144",
+   "standard": "中医药学名词",
+   "subject": "中医药学_内科疾病_气血津液疾病"
+  },
+  {
+   "cn": "鼻衄",
+   "en": "epistaxis",
+   "code": "04.091",
+   "standard": "中医药学名词",
+   "subject": "中医药学_诊断学_诊法"
+  },
+  {
+   "cn": "鼻出血",
+   "en": "epistaxis,nasal hemorrhage",
+   "code": "02.344",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_耳鼻喉科学"
+  },
+  {
+   "cn": "上位性",
+   "en": "epistasis",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "显性上位",
+   "en": "dominant epistasis\",\"dominance epistasis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "隐性上位",
+   "en": "recessive epistasis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "显性上位",
+   "en": "dominance epistasis",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "隐性上位",
+   "en": "recessive epistasis",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "上位效应",
+   "en": "epistatic effect\",\"epistasis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "珠心冠原",
+   "en": "epistase",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "上位基因",
+   "en": "epistatic gene",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "上位离差",
+   "en": "epistatic deviation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "上位显性",
+   "en": "epistatic dominance",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "上位基因",
+   "en": "epistatic gene",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "上位方差",
+   "en": "epistatic variance",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "鼻出血",
+   "en": "epistaxis",
+   "code": "5.3.2.12",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原病"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

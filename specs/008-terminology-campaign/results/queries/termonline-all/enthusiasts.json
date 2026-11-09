@@ -1,0 +1,26 @@
+{
+ "key": "enthusiasts",
+ "term": "Enthusiasts",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:53:23+00:00",
+ "status": "ok",
+ "note": "variant=Enthusiasts; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "热情",
+   "en": "enthusiasm",
+   "code": "02.729",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "激励机制",
+   "en": "enthusiasm mechanism",
+   "code": "05.008",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_资源管理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
