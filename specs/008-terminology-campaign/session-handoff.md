@@ -129,14 +129,19 @@ JWT 139 字符验证可用。会话失效时重跑导入即可：
       --no-warm --interval 12 --batch-gap 20 --out-dir %TEMP%
     python -u script/tl_ingest_watch.py     # 另开一个：每 90 秒把新批次 --ingest
 
-**限流口径（2026-11-09 校准实测）**：预算约 **18 请求/5 分钟**，第 19 次起降级（3 库全 0），
-60 秒后恢复。稳态约 2–3 词/分钟。整页激活本身要烧十个左右请求，**常态勿每批激活**
-（`--no-warm`），只在降级后激活一次；降级词不落凭证、留待下轮 `--unverified` 重查
-（error 不计已查证）。
+**限流口径（2026-11-09/10 三轮校准实测）**：预算约 **18 请求/5 分钟（滚动窗口）**，超了即降级
+（3 库全 0）；60 秒后恢复；**连续运行共享同一预算**（刚跑完再校准只剩 3 个额度）。整页激活本身
+要烧十个左右请求，**常态勿每批激活**（`--no-warm`），只在降级后激活一次。
+稳态吞吐 2.3–3.5 词/分钟（1 个/18 秒），这是站点硬上限，不是脚本问题。
+降级词不落凭证、标记 error，留待二轮 `--unverified` 重查（error 不计已查证）；实测二轮前
+error 占比约 10–15%，集中在会话失效的连续段，批末补跑可救回一部分。
 
 **队列重建**（登记册持续增长，重跑即含新行）：
 
     python tools/tl_browser_batch.py --emit --table term --unverified --out %TEMP%/az-term.json
+
+**二轮清扫**（主队列跑完后）：上面这条命令只跳过 ok/empty，error 词会自动回到队列，再跑一遍即
+可；**不要把 error 当查无**，也不要在登记册里据此改依据。
 
 **验收**：`python tools/term_audit.py` 四态；凭证落
 `specs/008-terminology-campaign/results/queries/termonline-all/`，每 4–5 批 `git add` 提交。

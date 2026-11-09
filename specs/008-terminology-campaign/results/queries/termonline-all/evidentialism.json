@@ -1,0 +1,54 @@
+{
+ "key": "evidentialism",
+ "term": "evidentialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T19:36:55+00:00",
+ "status": "ok",
+ "note": "variant=evidentialism; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "凭证价值",
+   "en": "evidential value",
+   "code": "01.03.006",
+   "standard": "档案学名词",
+   "subject": "档案学_总论_档案价值"
+  },
+  {
+   "cn": "证据的不可区分性",
+   "en": "evidential indistinguishability",
+   "code": "03.174",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "证据推理",
+   "en": "evidential reasoning",
+   "code": "08.0113",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "见证取样检测",
+   "en": "evidential testing",
+   "code": "06.0095",
+   "standard": "建筑学名词",
+   "subject": "建筑学_市场管理与工程建设程序_施工阶段"
+  },
+  {
+   "cn": "证据推理",
+   "en": "evidential reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "证据的不可区分性",
+   "en": "evidential indistinguishability",
+   "code": "03.174",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

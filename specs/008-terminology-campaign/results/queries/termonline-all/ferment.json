@@ -1,0 +1,306 @@
+{
+ "key": "ferment",
+ "term": "ferment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T20:44:01+00:00",
+ "status": "ok",
+ "note": "variant=ferment; 审定公布名词库=817; 海峡两岸名词对照库=280; 其他来源数据库=6; 预公布名词数据库=19; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "发酵罐",
+   "en": "fermenter",
+   "code": "06.212",
+   "standard": "化学工程名词",
+   "subject": "化学工程_生物化学工程_生化反应工程_生化反应器"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "02.0462",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品科学_食品生物技术_食品发酵工程"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "11.0283",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生理学_植物呼吸作用"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "05.290",
+   "standard": "药学名词",
+   "subject": "药学_生物药学"
+  },
+  {
+   "cn": "可发酵性",
+   "en": "fermentability",
+   "code": "08.027",
+   "standard": "微生物学名词",
+   "subject": "微生物学_应用微生物学"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "08.023",
+   "standard": "微生物学名词",
+   "subject": "微生物学_应用微生物学"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "06.170",
+   "standard": "化学工程名词",
+   "subject": "化学工程_生物化学工程_生化反应工程_细胞生长与代谢"
+  },
+  {
+   "cn": "发酵罐",
+   "en": "fermenter,fermentor",
+   "code": "08.056",
+   "standard": "微生物学名词",
+   "subject": "微生物学_应用微生物学"
+  },
+  {
+   "cn": "发酵罐",
+   "en": "fermenter;fermentor",
+   "code": "11.0958",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术"
+  },
+  {
+   "cn": "发酵干草",
+   "en": "fermented hay ",
+   "code": "6.0263",
+   "standard": "草学名词",
+   "subject": "草学_饲草生产与加工_饲草加工与利用"
+  },
+  {
+   "cn": "腐乳",
+   "en": "fermented tofu",
+   "code": "05.016",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_生物化工工艺及产品_食品发酵工程_酿造工业"
+  },
+  {
+   "cn": "发酵酪乳",
+   "en": "fermented buttermilk",
+   "code": "06.283",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_畜产品与加工_乳_发酵乳制品加工"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "发酵槽",
+   "en": "fermentation tank\",\"fermentation vat",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "酒精发酵（=乙醇发酵）",
+   "en": "ethanol fermentation\",\"alcoholic fermentation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "生醇发酵（=乙醇发酵）",
+   "en": "ethanol fermentation\",\"alcoholic fermentation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "乙醇发酵，酒精发酵，生醇发酵",
+   "en": "ethanol fermentation\",\"alcoholic fermentation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "发酵罐",
+   "en": "fermenter\",\"fermentor",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "发酵罐",
+   "en": "fermenter\",\"fermentor",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "曲剂",
+   "en": "fermented medicine",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "缸式发酵槽",
+   "en": "jar fermenter",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "发酵罐",
+   "en": "Fermentor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "碳化钽",
+   "en": "cermet",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "缓缴税款",
+   "en": "deferment of taxes",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "管状车胎胶",
+   "en": "tubular tire cement",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "游泳比赛",
+   "en": "finish of the swim\",\"first segment",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "4.4.61",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品生产规范"
+  },
+  {
+   "cn": "豆豉",
+   "en": "fermented soybean",
+   "code": "5.14.47",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "发酵食品",
+   "en": "fermented food",
+   "code": "5.23.22",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "发酵调味品",
+   "en": "fermented seasoning",
+   "code": "5.14.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "发酵水果",
+   "en": "fermented fruit",
+   "code": "5.4.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水果"
+  },
+  {
+   "cn": "酿造食醋",
+   "en": "fermented vinegar",
+   "code": "5.14.31",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "发酵乳",
+   "en": "fermented milk",
+   "code": "5.8.11",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_奶类"
+  },
+  {
+   "cn": "精准发酵",
+   "en": "precision fermentation",
+   "code": "5.23.20",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "腐乳",
+   "en": "fermented bean curd",
+   "code": "5.14.48",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "酿造酱油",
+   "en": "fermented soy sauce",
+   "code": "5.14.26",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "发酵型果酒",
+   "en": "fermented fruit wines",
+   "code": "5.12.1.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_酒类"
+  },
+  {
+   "cn": "发酵型奶酒",
+   "en": "fermented milk wine",
+   "code": "5.12.1.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_酒类"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

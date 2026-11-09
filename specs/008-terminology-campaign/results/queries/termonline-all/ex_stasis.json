@@ -1,0 +1,348 @@
+{
+ "key": "ex-stasis",
+ "term": "ex-stasis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T19:39:56+00:00",
+ "status": "ok",
+ "note": "variant=ex-stasis; 审定公布名词库=1475; 海峡两岸名词对照库=280; 其他来源数据库=39; 预公布名词数据库=73; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "淤滞",
+   "en": "stasis",
+   "code": "08.166",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_创伤学"
+  },
+  {
+   "cn": "工厂交货",
+   "en": "ex works,ex factory,ex mill",
+   "code": "11.0305",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_客货运输"
+  },
+  {
+   "cn": "目的港码头交货",
+   "en": "ex quay,ex wharf,ex pier",
+   "code": "11.0312",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_客货运输"
+  },
+  {
+   "cn": "灭绝",
+   "en": "extinct,EX",
+   "code": "13.0630",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生态学_植物多样性与保护"
+  },
+  {
+   "cn": "衍生模式",
+   "en": "ex-type",
+   "code": "02.114",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "衍生主模式",
+   "en": "ex-holotype",
+   "code": "02.115",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "衍生等模式",
+   "en": "ex-isotype",
+   "code": "02.116",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "目的港船上交货",
+   "en": "ex ship",
+   "code": "11.0311",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_客货运输"
+  },
+  {
+   "cn": "近中天",
+   "en": "ex-meridian",
+   "code": "03.0050",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_天文航海"
+  },
+  {
+   "cn": "血淤",
+   "en": "blood stasis",
+   "code": "10.203",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "十二指肠壅积症",
+   "en": "duodenal stasis",
+   "code": "3.475",
+   "standard": "消化病学名词",
+   "subject": "消化病_胃十二指肠_十二指肠疾病"
+  },
+  {
+   "cn": "停滞进化",
+   "en": "stasigenesis;stasis",
+   "code": "2.0234",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物进化"
+  },
+  {
+   "cn": "目的港码头交货",
+   "en": "ex pier\",\"ex wharf\",\"ex quay",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "交换局",
+   "en": "exchange\",\"EX",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "衍生模式",
+   "en": "ex-type",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "场外交易",
+   "en": "ex pit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "工厂交货价格",
+   "en": "ex works",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "机场交货价",
+   "en": "ex aerodrome",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "机上交货价",
+   "en": "ex plane",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "码头交货价",
+   "en": "ex pier",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "[目的港]船上交货",
+   "en": "ex ship",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "[目的港]码头交货价",
+   "en": "ex quay",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "[目的港]码头交货价",
+   "en": "ex wharf",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "目的港码头交货价",
+   "en": "ex dock",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "静止",
+   "en": "statism",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "台阶",
+   "en": "stair",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "乳房下垂",
+   "en": "Breast ptosis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中肾旁管",
+   "en": "Carnegie stages",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "状态感知",
+   "en": "status awareness",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "静态柔顺性",
+   "en": "static compliance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "横隔",
+   "en": "Carnegie stages",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "泄殖腔膜",
+   "en": "Carnegie stages",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "静止姿势",
+   "en": "static position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "吉姆萨染液",
+   "en": "Giemsa stain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "定位打法",
+   "en": "slow play\",\"static play",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "抗酸染色",
+   "en": "Acid-fast stain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "乳汁淤滞",
+   "en": "milk stasis",
+   "code": "6.2.2.14",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼营养_儿童营养"
+  },
+  {
+   "cn": "身份",
+   "en": "status",
+   "code": "2.6.3.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会结构"
+  },
+  {
+   "cn": "卡西人",
+   "en": "Khasis",
+   "code": "6.0032",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_亚洲地区"
+  },
+  {
+   "cn": "静态",
+   "en": "static state",
+   "code": "1.8.11",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "状态检测",
+   "en": "status test",
+   "code": "8.1.4.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_医用辐射监管_放射诊疗设备"
+  },
+  {
+   "cn": "现状评价",
+   "en": "status evaluation",
+   "code": "8.3.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_放射建设项目"
+  },
+  {
+   "cn": "身份人格",
+   "en": "status personality",
+   "code": "2.3.2.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会角色"
+  },
+  {
+   "cn": "身份社会",
+   "en": "status society",
+   "code": "2.3.2.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会角色"
+  },
+  {
+   "cn": "社会地位",
+   "en": "social status",
+   "code": "2.6.3.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会结构"
+  },
+  {
+   "cn": "身份群体",
+   "en": "status group",
+   "code": "2.6.3.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会结构"
+  },
+  {
+   "cn": "身份制",
+   "en": "status system",
+   "code": "2.6.3.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会结构"
+  },
+  {
+   "cn": "地位结晶化",
+   "en": "status crystallization",
+   "code": "2.6.3.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会结构"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

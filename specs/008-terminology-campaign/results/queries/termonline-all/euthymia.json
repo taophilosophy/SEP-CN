@@ -1,0 +1,54 @@
+{
+ "key": "euthymia",
+ "term": "euthymia",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T19:32:25+00:00",
+ "status": "ok",
+ "note": "variant=euthymia; 审定公布名词库=6; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "离任审计",
+   "en": "Euthynai",
+   "code": "02.0331",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_希腊"
+  },
+  {
+   "cn": "臁疮",
+   "en": "ecthyma",
+   "code": "03.0151",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_皮肤病学"
+  },
+  {
+   "cn": "传染性脓疱",
+   "en": "contagious ecthyma",
+   "code": "02.100",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物传染病学"
+  },
+  {
+   "cn": "坏疽性深脓疱",
+   "en": "ecthyma gangrenosum",
+   "code": "01.0101",
+   "standard": "感染病学名词",
+   "subject": "感染病学_总论_感染病特征"
+  },
+  {
+   "cn": "坏死斑",
+   "en": "ecthyma gangrenosa",
+   "code": "07.257",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_烧伤外科学"
+  },
+  {
+   "cn": "羊传染性脓疱",
+   "en": "sheep contagious ecthyma",
+   "code": "02.202",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物传染病学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

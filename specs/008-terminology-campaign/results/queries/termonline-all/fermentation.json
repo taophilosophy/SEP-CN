@@ -1,0 +1,292 @@
+{
+ "key": "fermentation",
+ "term": "fermentation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T20:44:01+00:00",
+ "status": "ok",
+ "note": "variant=fermentation; 审定公布名词库=307; 海峡两岸名词对照库=95; 其他来源数据库=4; 预公布名词数据库=19; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "02.0462",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品科学_食品生物技术_食品发酵工程"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "11.0283",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生理学_植物呼吸作用"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "05.290",
+   "standard": "药学名词",
+   "subject": "药学_生物药学"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "08.023",
+   "standard": "微生物学名词",
+   "subject": "微生物学_应用微生物学"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "06.170",
+   "standard": "化学工程名词",
+   "subject": "化学工程_生物化学工程_生化反应工程_细胞生长与代谢"
+  },
+  {
+   "cn": "可发酵性",
+   "en": "fermentability",
+   "code": "08.027",
+   "standard": "微生物学名词",
+   "subject": "微生物学_应用微生物学"
+  },
+  {
+   "cn": "发酵罐",
+   "en": "fermenter",
+   "code": "06.212",
+   "standard": "化学工程名词",
+   "subject": "化学工程_生物化学工程_生化反应工程_生化反应器"
+  },
+  {
+   "cn": "发酵脱胶",
+   "en": "fermentation degumming",
+   "code": "17.308",
+   "standard": "农学名词",
+   "subject": "农产品贮运与加工_咖啡加工"
+  },
+  {
+   "cn": "发酵干燥",
+   "en": "fermentation dehydration",
+   "code": "09.347",
+   "standard": "农学名词",
+   "subject": "土壤肥料_肥料"
+  },
+  {
+   "cn": "发酵干燥",
+   "en": "fermentation drying ",
+   "code": "6.0198",
+   "standard": "草学名词",
+   "subject": "草学_饲草生产与加工_饲草生产"
+  },
+  {
+   "cn": "发酵促进剂",
+   "en": "fermentation accelerator ",
+   "code": "6.0308",
+   "standard": "草学名词",
+   "subject": "草学_饲草生产与加工_饲草加工与利用"
+  },
+  {
+   "cn": "发酵抑制剂",
+   "en": "fermentation inhibitor ",
+   "code": "6.0309",
+   "standard": "草学名词",
+   "subject": "草学_饲草生产与加工_饲草加工与利用"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "发酵槽",
+   "en": "fermentation tank\",\"fermentation vat",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "酒精发酵（=乙醇发酵）",
+   "en": "ethanol fermentation\",\"alcoholic fermentation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "生醇发酵（=乙醇发酵）",
+   "en": "ethanol fermentation\",\"alcoholic fermentation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "乙醇发酵，酒精发酵，生醇发酵",
+   "en": "ethanol fermentation\",\"alcoholic fermentation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "发酵模式",
+   "en": "fermentation pattern",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "发酵效率",
+   "en": "fermentation efficiency",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "发酵技术",
+   "en": "fermentation technology",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "发酵过程",
+   "en": "fermentation process",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "客户细分",
+   "en": "customer segmentation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自动分词",
+   "en": "automatic segmentation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "场景分割识别",
+   "en": "scenario segmentation and identification",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "发酵",
+   "en": "fermentation",
+   "code": "4.4.61",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品生产规范"
+  },
+  {
+   "cn": "精准发酵",
+   "en": "precision fermentation",
+   "code": "5.23.20",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "豆豉",
+   "en": "fermented soybean",
+   "code": "5.14.47",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "发酵食品",
+   "en": "fermented food",
+   "code": "5.23.22",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "发酵调味品",
+   "en": "fermented seasoning",
+   "code": "5.14.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "发酵水果",
+   "en": "fermented fruit",
+   "code": "5.4.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水果"
+  },
+  {
+   "cn": "酿造食醋",
+   "en": "fermented vinegar",
+   "code": "5.14.31",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "发酵乳",
+   "en": "fermented milk",
+   "code": "5.8.11",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_奶类"
+  },
+  {
+   "cn": "乳糖发酵管",
+   "en": "lactose fermentation tube",
+   "code": "6.2.26.6.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "实际发酵度",
+   "en": "actual fermentation degree",
+   "code": "5.12.5.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_酒类"
+  },
+  {
+   "cn": "发酵用营养物质",
+   "en": "nutrients for fermentation",
+   "code": "6.2.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品工业用加工助剂"
+  },
+  {
+   "cn": "腐乳",
+   "en": "fermented bean curd",
+   "code": "5.14.48",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
