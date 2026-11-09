@@ -2,8 +2,44 @@
   "slug": "moral-learning",
   "kind": "retranslate",
   "zh_doc": "m/moral-learning.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T12:54:11Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T14:36:36Z",
+      "evidence": "draft 初译（主会话直译，无子代理）：lq.py init 158 段（body 156 + oir 1 + note 1，biblio 照录 141 条）；9 批双版落盘（script/ml_b1..b9.py）：段 1-19 导语与 §1、20-38 1.2.1-1.2.5、39-57 §2-§3、58-76 §4 联想学习、77-99 4.2.2-§5、100-113 5.1-§6 开篇、114-129 6.1 规模原则与两图、130-140 6.2、141-158 §7 与 OIR/note。lq.py check 158 段 HARD=0；compose 52,601 字符；术语先登记 19 行。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T14:36:36Z",
+      "evidence": "s1 一校：结构——h3 17:17、h4 11:11、脚注定义 142:142、正文引用 136:136、年份零差、图 2:2（本地化路径 ../yuanwen/assets/moral-learning/image00[12].png）；H1 与 SUMMARY 一致；biblio_audit 141 条照录。修订：① 相关词条「moral/conventional distinction」→「道德/习俗区分」（SUMMARY 1787）；② 源文 (1*)/(2*) 序号标记译作（1′）（2′），避 markdown 强调误判（italic_to_bold 曾把（1*）吞成（1**），已回改账本重排）；③ 源文 Notes 两级标题（Notes（原文脚注）+ Notes to Moral Learning）按 lq 惯例合为「## 脚注」一节，定义区完整（note-1 含 Lucca 2025 重复实验失败说明）；④ 术语 19 行登记（联想学习、经典/操作性条件作用、道义规则、同质性偏好、道德/习俗区分、先天论、偏狭主义、过度模仿、亲社会行为、强化学习、规模原则、统计学习、证言学习、可普遍化等）。图注/表题照 rules/02 形态。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T14:39:52Z",
+      "evidence": "s2 二校（语言层）：check_prose 20 → 10。实修 10 处（账本 step2 与成稿同步）：长句拆分 4（Tomasello 第二阶段、证言定义、Chalik/Rhodes 引语前导、康德式可普遍化段）；的链化解 4（末节议题句、Simner 实验清单、婴儿预判句、统计学习收束句）；弱动词 2（作出反应→反应、作出归纳推断→作归纳推断）；被动 1（被预见/被意图→被预见/有意为之）。余 10 条逐条裁定：L132、L136、L162、L186、L208 为引文内部（Blair 2007 引语、Cushman 2013 定义引语、Dwyer 2006 引语、Dwyer 1999 引语），L11/L52×2 为术语引号密集句（“道德的”“内在的”“及物的”类），L208/L224 两条长句均在直接引语内——按 ADR-0020 豁免留痕。lq.py check 158 段 HARD=0；compose 与成稿归一（除 NOTE 行与相关词条手工核销行）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T14:39:53Z",
+      "evidence": "s3 三校（体例）：check_style 0 issue；markdownlint-cli2 本文件 0 error；check_math missing/unbalanced 0；check_summary H1 0（与 SUMMARY 逐字符一致）；check_academic --strict OK（版本钉 Sep 12 2026 / Fall 2026 与 pubinfo 一致；脚注定义 142 与正文引用 136 对应，141 条文献逐条照录 yuanwen，无幻觉引文）；check_terms 定点 0 处缺译法（19 条新登术语全部见于正文）；两张图片路径 ../yuanwen/assets/moral-learning/ 可解析。全局登记册告警（词汇表滞后 4 条、人名同键异译 3 条）属并行会话登记行，非本词条。状态 s3_checked，交 R-main 评审线。"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:10Z",
   "version_pin": {
