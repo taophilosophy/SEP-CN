@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie"> <![endif]-->
+<!--[if !IE]> --> <html lang="en"> <!-- <![endif]-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+Zermelo’s Axiomatization of Set Theory &gt; Notes (Stanford Encyclopedia of Philosophy)
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive, noodp" />
+<meta name="DCTERMS.ispartof" content="https://plato.stanford.edu/entries/zermelo-set-theory/" />
+
+<!-- NOTE: Import webfonts using this link: -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css" />
+<!--[if IE 7]> <link rel="stylesheet" type="text/css" href="../../css/font-awesome-ie7.min.css"> <![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="../../css/print.css" />
+<link rel="stylesheet" type="text/css" href="../../css/entry.css" />
+<!--[if IE]> <link rel="stylesheet" type="text/css" href="../../css/ie.css" /> <![endif]-->
+<script type="text/javascript" src="../../js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+
+<!-- NOTE: Javascript for sticky behavior needed on article and ToC pages -->
+<script type="text/javascript" src="../../js/jquery-scrolltofixed-min.js"></script>
+<script type="text/javascript" src="../../js/entry.js"></script>
+
+<!-- SEP custom script -->
+<script type="text/javascript" src="../../js/sep.js"></script>
+</head>
+
+<!-- NOTE: The nojs class is removed from the page if javascript is enabled. Otherwise, it drives the display when there is no javascript. -->
+<body class="nojs article" id="pagetopright">
+<div id="container">
+<div id="header-wrapper">
+  <div id="header">
+    <div id="branding">
+      <div id="site-logo"><a href="../../index.html"><img src="../../symbols/sep-man-red.png" alt="SEP home page" /></a></div>
+      <div id="site-title"><a href="../../index.html">Stanford Encyclopedia of Philosophy</a></div>
+    </div>
+    <div id="navigation">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <div class="container">
+            <button class="btn btn-navbar collapsed" data-target=".collapse-main-menu" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Menu </button>
+            <div class="nav-collapse collapse-main-menu in collapse">
+              <ul class="nav">
+                <li class="dropdown open"><a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-book"></i> Browse</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                    <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+                    <li role="menuitem"><a href="../../new.html">What's New</a></li>
+                    <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+                    <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+                    <li role="menuitem"><a href="../../archives/">Archives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop2" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-info-sign"></i> About</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop2">
+                    <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+                    <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+                    <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+                    <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+                    <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+                    <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+                    <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown open"><a id="drop3" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="icon-leaf"></i> Support SEP</a>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                    <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+                    <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+                    <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+                    <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End navigation -->
+    
+    <div id="search">
+      <form id="search-form" method="get" action="../../search/searcher.py">
+        <input type="search" name="query" placeholder="Search SEP" />
+        <div class="search-btn-wrapper"><button class="btn search-btn" type="submit" aria-label="search"><i class="icon-search"></i></button></div>
+      </form>
+    </div>
+    <!-- End search --> 
+    
+  </div>
+  <!-- End header --> 
+</div>
+<!-- End header wrapper -->
+
+<div id="content">
+
+<!-- Begin article sidebar -->
+<div id="article-sidebar" class="sticky">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <button class="btn btn-navbar" data-target=".collapse-sidebar" data-toggle="collapse" type="button"> <i class="icon-reorder"></i> Entry Navigation </button>
+        <div id="article-nav" class="nav-collapse collapse-sidebar in collapse">
+          <ul class="nav">
+            <li><a href="./">Back to Entry <i class="icon-external-link"></i></a></li>
+            <li><a href="./#toc">Entry Contents <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Bib">Entry Bibliography <i class="icon-external-link"></i></a></li>
+            <li><a href="./#Aca">Academic Tools <i class="icon-external-link"></i></a></li>
+            <li><a href="https://leibniz.stanford.edu/friends/preview/zermelo-set-theory/">Friends PDF Preview <i class="icon-external-link"></i></a></li>
+            <li><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=zermelo-set-theory">Author and Citation Info <i class="icon-external-link"></i></a> </li>
+            <li><a href="#pagetopright" class="back-to-top">Back to Top <i class="icon-angle-up icon2x"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End article sidebar --> 
+
+<!-- NOTE: Article content must have two wrapper divs: id="article" and id="article-content" -->
+<div id="article">
+<div id="article-content">
+
+<!-- BEGIN ARTICLE HTML -->
+
+
+<div id="aueditable">
+<!--DO NOT MODIFY THIS LINE AND ABOVE--> 
+<h2>Notes to <a href="index.html">Zermelo&rsquo;s Axiomatization of Set Theory</a></h2>
+
+<p>
+
+<a href="index.html#note-1" name="1">1.</a> Page number specifications on their own will refer to Zermelo (1908b). The translations of Zermelo are all taken from Zermelo (2010), where the original pagination is preserved and where the original German can be found.</p>
+
+<p>
+
+<a href="index.html#note-2" name="2">2.</a> As Russell admits:</p>
+
+<blockquote>
+  <p>&hellip;the question arises: which propositional functions define classes which are single terms as well as many, and which do not? And with this question our real difficulties begin. (Russell 1903: 103)</p>
+</blockquote>
+
+<p>
+
+<a href="index.html#note-3" name="3">3.</a> This is taken from the official English translation.</p>
+
+<p>
+
+<a href="index.html#note-4" name="4">4.</a> Zermelo uses &lsquo;&epsilon;&rsquo; to denote set membership rather than now standard &lsquo;&isin;&rsquo;.</p>
+
+<p>
+
+<a href="index.html#note-5" name="5">5.</a> Various things should be noted here. Firstly, Zermelo's argument goes back to 1902 (see Felgner 2010: 167); he had discovered the Russell paradox independently as early as 1900. Secondly, Zermelo's analysis is already present, in effect, in Russell (1903: &sect;100) where &lsquo;the Contradiction&rsquo; is discussed explicitly. Thirdly, the Burali-Forti paradox was treated by Jourdain as a reductio, but it wasn't at all clear which premise in its derivation was under attack (see Hallett 1981).</p>
+
+<p>
+
+<a href="index.html#note-6" name="6">6.</a> See, for example, the principles set out at the beginning of Dedekind 1888, and later the paper published by Harward in 1905 (Harward 1905; Moore 1976).</p>
+
+<p>
+
+<a href="index.html#note-7" name="7">7.</a> For a review of these principles, see Felgner 2010: 174&ndash;175. The relevant correspondence of Cantor can be found in Cantor 1991, with English translations in Ewald 1996: volume 2.</p>
+
+<p>
+<a href="index.html#note-8" name="8">8.</a> See Ebbinghaus 2007, in particular 36&ndash;47. See also Peckhaus 1990. Also helpful is the chronology of Zermelo's career in Zermelo 2010: 42&ndash;51, and also the introductory section on Zermelo's life and work.
+</p>
+
+
+<p>
+
+<a href="index.html#note-9" name="9">9.</a> Note that, while the notion of consistency itself is stated in syntactic terms, the proofs given in the geometrical work are relative consistency proofs effected by semantic arguments. The demonstration of consistency is in fact by the exhibition [&lsquo;<em>Aufweisung</em>&rsquo;] of what we would now call a model.</p>
+
+<p>
+<a href="index.html#note-10" name="10">10.</a> See also Hilbert's famous
+paper on mathematical problems from 1900 (Hilbert 1900a: 265&ndash;266).</p>
+
+<p>
+
+<a href="index.html#note-11" name="11">11.</a> Hilbert (1918: 411; 152 of reprint, 1112 of   English translation) cites Zermelo's work as an example of solving specific problems by means of the axiomatic method. He repeats this in some lectures from 1920: </p>
+
+<blockquote> <p>Die axiomatische Methode ist durch keine andere ersetzbar. Sie ist und bleibt das unserem Geist angemessene, unentbehrliche Hilfsmittel der exakten Forschung in jedem Gebiete; sie ist fruchtbar und logisch unanfechtbar. Um einen bestimmten Zweig der Wissenschaft zu erforschen, sucht man diesen auf eine m&ouml;glichst geringe Anzahl von m&ouml;glichst einfachen und anschaulichen Prinzipien zur&uuml;ckzuf&uuml;hren. Diese Prinzipien heissen Axiome. Nur dadurch gewinnt man eine klare Uebersicht &uuml;ber die ganze Disziplin, wie auch die M&ouml;glichkeit ihrer weiteren Entwicklung, dass man ihre Axiome sammelt und als solche aufstellt. </p>
+
+<p>Das gl&auml;nzendste Beispiel einer vollendeten Ausgestaltung der axiomatischen Methode bietet das betrachtete Axiomensystem von Zermelo. (Hilbert 1920: 33&ndash;34.)</p>
+
+</blockquote>
+
+<p>
+
+<a href="index.html#note-12" name="12">12.</a> For an analysis of Hilbert's work of this kind, see Hallett 2008.</p>
+
+<p>
+
+<a href="index.html#note-13" name="13">13.</a> Two sets <i>M</i>
+and <i>N</i> are said to have the same size or power or cardinality if
+they can be put into one-to-one onto correspondence. In this case we
+say that <i>M</i> &#x2243; <i>N</i>. If <i>M</i> has the same power as
+a subset of <i>N</i>, we say that <i>M</i> &#x227C; <i>N</i>; if in
+addition to this <i>M</i> &#x2243; <i>N</i> fails, we say
+that <i>M</i> &#x227A; <i>N</i>, and that <i>N</i> has greater power
+than <i>M</i>. A set is said to be countable if it can be put into
+one-to-one onto correspondence with the set of natural numbers.</p>
+
+<p>
+
+<a href="index.html#note-14" name="14">14.</a> However, for a survey of other, quite different, attempts to count with infinite numbers, both before Cantor and after, see Mancosu 2009.</p>
+
+<p>
+
+<a href="index.html#note-15" name="15">15.</a> Two ordered
+sets <i>A</i><sub>1</sub> with ordering <i>R</i><sub>1</sub>
+and <i>A</i><sub>2</sub> with ordering <i>R</i><sub>2</sub> are said
+to be order-isomorphic if there is a function <i>f</i> which puts them
+into one-to-one onto correspondence and in addition is such that, for
+any two elements <i>a</i>, <i>b</i> in <i>A</i><sub>1</sub>,
+<i>a</i><i>R</i><sub>1</sub><i>b</i> if and only if
+<i>f</i>(<i>a</i>)<i>R</i><sub>2</sub><i>f</i>(<i>b</i>). Thus, <i>f</i> shows
+that the ordering of <i>A</i><sub>1</sub> is reflected in the ordering
+of <i>A</i><sub>2</sub>.</p>
+
+<p>
+
+<a href="index.html#note-16" name="16">16.</a> Recall that the phrase
+&lsquo;laws of thought [<em>Gesetze des Denkens</em>]&rsquo; is used by Frege
+(1879, Vorwort) to refer to logical laws, laws which
+&lsquo;transcend all particulars [<em>&uuml;ber allen Besonderheiten
+erhaben</em>]&rsquo;.</p>
+
+
+
+
+<p>
+
+<a href="index.html#note-17" name="17">17.</a> The letters can all be found in Cantor 1991, with English translations, and an important and informative introduction, in Ewald 1996: Volume 2, 923&ndash;940. For commentary, see Hallett 1984.</p>
+
+<p>
+
+<a href="index.html#note-18" name="18">18.</a> Hardy (1904: &sect;2) and Jourdain (1905a, among other places) later endorsed a similar &lsquo;selection&rsquo; method to show, respectively, that the continuum has a subset of the power of the second number-class and that every cardinal number is an aleph.</p>
+
+<p> 
+<a href="index.html#note-19" name="19">19.</a> &lsquo;Component&rsquo; was Cantor's original term for a subset.
+</p>
+
+<p>
+
+<a href="index.html#note-20" name="20">20.</a> One could in consequence say that Zermelo's criticism reveals a circularity similar to that revealed in many of the &ldquo;proofs&rdquo; of the Euclidean Parallel Postulate.</p>
+
+  <p> <a href="index.html#note-21" name="21">21.</a> Following Cantor, we would put &lsquo;&#x2135;&rsquo; in place of Russell's &lsquo;&alpha;&rsquo;.</p>
+
+<p>
+
+<a href="index.html#note-22" name="22">22.</a> For an account of K&ouml;nig's lecture, its aftermath and Zermelo's r&ocirc;le and comments, see Ebbinghaus 2007: 50&ndash;53.</p>
+
+<p>
+
+<a href="index.html#note-23" name="23">23.</a> Zermelo attributes to Erhard Schmidt the idea that each covering gives rise to a well-ordering; see Zermelo 1904: 516.</p>
+
+<p>
+
+<a href="index.html#note-24" name="24">24.</a> For comments on how to move from the informal &lsquo;successive selection&rsquo; argument to Zermelo's proof of the WOT, see Hausdorff 1914: 134&ndash;136.</p>
+
+
+<p>
+
+<a href="index.html#note-25" name="25">25.</a> In later work on the set axioms, however, Zermelo again calls AC a &lsquo;logical principle&rsquo;. See, for example, Zermelo 1930: 31.</p>
+
+  <p> <a href="index.html#note-26" name="26">26.</a> The enumeration of such problems is clearly associated with Zermelo's remark in the 1904 paper that the choice principle cannot be reduced to anything simpler, and &lsquo;<em>wird aber in der mathematischen Deduktion &uuml;berall unbedenklich angewendet</em>&rsquo; (Zermelo 1904: 516).</p>
+
+  <p> <a href="index.html#note-27" name="27">27.</a> For a more detailed account of Poincar&eacute;'s position, and a brief account of the Cauchy proof, see Hallett 2010b: 109&ndash;112, and the further references given there.</p>
+
+<p>
+
+<a href="index.html#note-28" name="28">28.</a> Of course, the proof itself avoids the psychological casting which this explanation has given it.</p>
+
+<p>
+
+<a href="index.html#note-29" name="29">29.</a> This is shown in Zermelo's proof by the demonstration that there is in fact a one-one correspondence between the &lsquo;remainders&rsquo; and the set of singletons determined by <i>M</i>, i.e., <span class="nw">{{<i>x</i>} : <i>x</i> &isin; <i>M</i>}</span>. Using &lsquo;initial segments&rsquo; (and unions instead of intersections) with the inclusion relation, not reverse inclusion, would also work just as well, but taking remainders has the advantage of being able to &lsquo;build down&rsquo; from the whole of <i>M</i> instead of &lsquo;up&rsquo; from &empty;.</p>
+
+<p>
+
+<a href="index.html#note-30" name="30">30.</a> For an illuminating account of Zermelo's second proof, see Hausdorff 1914: 136&ndash;139. For a discussion of Kuratowki's (and other) fundamental work in relation to Zermelo's, see Hallett 2010b: &sect;3.3, or (in more detailed fashion) Hallett 1984: chapter 7, &sect;3(b), 256&ndash;266.</p>
+
+<p>
+
+<a href="index.html#note-31" name="31">31.</a> See Ebbinghaus 2007: 285. The central points were reported in Fraenkel 1922: 232&ndash;233.</p>
+
+<p>
+
+<a href="index.html#note-32" name="32">32.</a> As the paper (Mancosu et al. 2009: 349) points out, Skolem knew of Weyl's work, since he had reviewed Weyl (1910) in 1912.</p>
+
+<p>
+
+<a href="index.html#note-33" name="33">33.</a> For a much fuller account, see Ebbinghaus 2010. For further subtleties, see Hallett 1984.</p>
+
+
+<p>
+
+<a href="index.html#note-34" name="34">34.</a> Before the general acceptance of the von Neumann ordinals in the later 1920s and the consequent &lsquo;reduction&rsquo; of the full theory of the ordinals to &lsquo;pure&rsquo; set theory, there was a vigorous debate about the independent importance of the transfinite numbers. We cannot go into this here.</p>
+
+  <p> <a href="index.html#note-35" name="35">35.</a> For a more elaborate account of Kuratowski's results, see Hallett (1984, 2010b).</p>
+
+<p>
+
+<a href="index.html#note-36" name="36">36.</a> Von Neumann's formulation will be examined in a later article for this Encyclopedia.</p>
+
+<p>
+
+<a href="index.html#note-37" name="37">37.</a> These lectures can be found in Chapter 2 of Ewald et al. 2013; see also the Introduction to this chapter, &sect;4.2.</p>
+
+<p>
+
+<a href="index.html#note-38" name="38">38.</a> For an account of the Axiom of Replacement, and in particular von Neumann's work with it, see Kanamori 2012.</p>
+
+</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->
+
+<!-- END ARTICLE HTML -->
+
+</div> <!-- End article-content -->
+
+  <div id="article-copyright">
+    <p>
+ <a href="../../info.html#c">Copyright &copy; 2013</a> by
+
+<br />
+Michael Hallett
+&lt;<a href="m&#97;ilto:michael&#37;2ehallett&#37;40mcgill&#37;2eca"><em>michael<abbr title=" dot ">&#46;</abbr>hallett<abbr title=" at ">&#64;</abbr>mcgill<abbr title=" dot ">&#46;</abbr>ca</em></a>&gt;
+    </p>
+  </div>
+
+</div> <!-- End article -->
+
+<!-- NOTE: article banner is outside of the id="article" div. -->
+<div id="article-banner" class="scroll-block">
+  <div id="article-banner-content">
+    <a href="../../fundraising/">
+    Open access to the SEP is made possible by a world-wide funding initiative.<br />
+    The Encyclopedia Now Needs Your Support<br />
+    Please Read How You Can Help Keep the Encyclopedia Free</a>
+  </div>
+</div> <!-- End article-banner -->
+
+    </div> <!-- End content -->
+
+    <div id="footer">
+
+      <div id="footer-menu">
+        <div class="menu-block">
+          <h4><i class="icon-book"></i> Browse</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../contents.html">Table of Contents</a></li>
+            <li role="menuitem"><a href="../../new.html">What's New</a></li>
+            <li role="menuitem"><a href="https://plato.stanford.edu/cgi-bin/encyclopedia/random">Random Entry</a></li>
+            <li role="menuitem"><a href="../../published.html">Chronological</a></li>
+            <li role="menuitem"><a href="../../archives/">Archives</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-info-sign"></i> About</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../info.html">Editorial Information</a></li>
+            <li role="menuitem"><a href="../../about.html">About the SEP</a></li>
+            <li role="menuitem"><a href="../../board.html">Editorial Board</a></li>
+            <li role="menuitem"><a href="../../cite.html">How to Cite the SEP</a></li>
+            <li role="menuitem"><a href="../../special-characters.html">Special Characters</a></li>
+            <li role="menuitem"><a href="../../tools/">Advanced Tools</a></li>
+            <li role="menuitem"><a href="../../accessibility.html">Accessibility</a></li>
+            <li role="menuitem"><a href="../../contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h4><i class="icon-leaf"></i> Support SEP</h4>
+          <ul role="menu">
+            <li role="menuitem"><a href="../../support/">Support the SEP</a></li>
+            <li role="menuitem"><a href="../../support/friends.html">PDFs for SEP Friends</a></li>
+            <li role="menuitem"><a href="../../support/donate.html">Make a Donation</a></li>
+            <li role="menuitem"><a href="../../support/sepia.html">SEPIA for Libraries</a></li>
+          </ul>
+        </div>
+      </div> <!-- End footer menu -->
+
+      <div id="mirrors">
+        <div id="mirror-info">
+          <h4><i class="icon-globe"></i> Mirror Sites</h4>
+          <p>View this site from another server:</p>
+        </div>
+        <div class="btn-group open">
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="https://plato.stanford.edu/">
+            <span class="flag flag-usa"></span> USA (Main Site) <span class="caret"></span>
+            <span class="mirror-source">Philosophy, Stanford University</span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="../../mirrors.html">Info about mirror sites</a></li>
+          </ul>
+        </div>
+      </div> <!-- End mirrors -->
+      
+      <div id="site-credits">
+        <p>The Stanford Encyclopedia of Philosophy is <a href="../../info.html#c">copyright &copy; 2024</a> by <a href="https://mally.stanford.edu/">The Metaphysics Research Lab</a>, Department of Philosophy, Stanford University</p>
+        <p>Library of Congress Catalog Data: ISSN 1095-5054</p>
+      </div> <!-- End site credits -->
+
+    </div> <!-- End footer -->
+
+  </div> <!-- End container -->
+
+   <!-- NOTE: Script required for drop-down button to work (mirrors). -->
+  <script>
+    $('.dropdown-toggle').dropdown();
+  </script>
+
+</body>
+</html>
