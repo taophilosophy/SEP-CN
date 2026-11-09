@@ -11,86 +11,128 @@ segments:
     kind: body
     source: |-
       The word ‘cosmopolitan’, which derives from the Greek word *kosmopolitēs* (‘citizen of the world’), has been used to describe a wide variety of important views in moral and socio-political philosophy. The nebulous core shared by all cosmopolitan views is the idea that all human beings, regardless of their political affiliation, are (or can and should be) citizens in a single community. Different versions of cosmopolitanism envision this community in different ways, some focusing on political institutions, others on moral norms or relationships, and still others focusing on shared markets or forms of cultural expression. In most versions of cosmopolitanism, the universal community of world citizens functions as a positive ideal to be cultivated, but a few versions exist in which it serves primarily as a ground for denying the existence of special obligations to local forms of political organizations. Versions of cosmopolitanism also vary depending on the notion of citizenship they employ, including whether they use the notion of ‘world citizenship’ literally or metaphorically. The philosophical interest in cosmopolitanism lies in its challenge to commonly recognized attachments to fellow-citizens, the local state, parochially shared cultures, and the like.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      「世界主义的」（cosmopolitan）一词源自希腊语 *kosmopolitēs*（「世界公民」），历来被用来描述道德哲学与社会政治哲学中形形色色的重要观点。所有这些世界主义观点共享的朦胧核心是这样一个观念：一切人，无论其政治归属如何，都是（或能够且应当是）单一共同体中的公民。不同版本的世界主义以不同方式构想这一共同体：有的聚焦于政治制度，有的聚焦于道德规范或关系，还有的聚焦于共同市场或文化表达形式。在多数版本的世界主义中，世界公民的普遍共同体作为有待培育的正面理想发挥作用；但也有少数版本中，它主要被用作否认对本地形式政治组织负有特殊义务的根据。世界主义诸版本还因其动用的公民身份概念而不同，包括它们是在字面还是隐喻意义上使用「世界公民身份」这一概念。世界主义在哲学上的趣味，在于它挑战了人们通常认可的种种依附——对同胞公民、对地方国家、对狭隘共享的文化等等。
+
+    step2: |-
+      「世界主义者」（cosmopolitan）一词出自希腊语 *kosmopolitēs*（「世界公民」），在道德哲学与社会政治哲学中历来指称形形色色的重要主张。诸种世界主义共享一个朦胧内核：一切人无论政治归属如何，皆为（或能够、且应当成为）单一共同体之公民。各版本对这种共同体的构想不同：或重政治制度，或重道德规范与关系，或重共享市场与文化表达。多数版本把世界公民的普遍共同体视为有待培育的正面理想；少数版本则主要用它来否认对本地政治组织负有特殊义务。诸版本的另一差异在于所取的公民身份概念，包括「世界公民身份」是照字面还是作隐喻解。世界主义的哲学意义，恰在于它挑战了人们习以为常的依附：对同胞、对地方国家、对褊狭共享的文化等等。
   - id: 2
     kind: body
     source: |-
       ## 1. History of Cosmopolitanisms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 世界主义的历史
+
+    step2: |-
+      ## 1 世界主义诸史
   - id: 3
     kind: body
     source: |-
       ### 1.1 Greek and Roman Cosmopolitanism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 希腊与罗马的世界主义
+
+    step2: |-
+      ### 1.1 希腊罗马的世界主义
   - id: 4
     kind: body
     source: |-
       The political culture idealized in the writings of Plato and Aristotle is not cosmopolitan. In this culture, a man identifies himself first and foremost as a citizen of a particular polis or city, and in doing so, he signals which institutions and which body of people hold his allegiance. He would then be counted on for help in defending the city from attacks, sustaining its institutions of justice, and contributing to its common good. In this way, his own pursuit of a good life is inextricably bound to the fate of the city and to the similar pursuit carried out by other inhabitants of the city. By contrast, the good person would not be expected to share with or serve any foreigners who live outside the city. Any cosmopolitan expectations on a good Athenian extended only to concern for those foreigners who happen to reside in Athens.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      柏拉图与亚里士多德著作中所理想化的政治文化并不是世界主义的。在这种文化中，一个人首先且主要是把自己认作某个特定城邦（polis）的公民；这样做，也就表明了他效忠哪些制度、哪一群人。人们便可以指望他出力保卫城邦免受攻击、维系其正义制度、并为城邦的共同善作贡献。这样一来，他对好生活的追求，便与城邦的命运、与城邦其他居民类似的追求不可分割地绑在一起。相形之下，好人并不被指望与城邦之外的任何外邦人分享或为其服务。对一个好雅典人而言，任何世界主义的期待都只延伸到关心那些恰好居住在雅典的外邦人。
+
+    step2: |-
+      柏拉图与亚里士多德笔下理想化的政治文化，并非世界主义式的。在这种文化里，人首先把自己认作某一城邦（polis）的公民，并由此表明自己效忠于哪些制度、哪一群人。于是人们可以指望他保卫城邦、维系其正义制度、增进其共同善。他对好生活的追求，也便与城邦命运及城邦其他居民的同类追求不可分割地系于一处。反之，好人并不被要求与外邦人分享或为其效劳；对一位好雅典人来说，世界主义的关切最多只及于恰好侨居雅典的外邦人。
   - id: 5
     kind: body
     source: |-
       It would, however, be wrong to assume that Classical Greek thought was uniformly *anti-cosmopolitan*. Actively excluding foreigners from any ethical consideration or actively targeting foreigners for mistreatment goes one step beyond focusing one’s service and concern on compatriots, and in fact, the targeting of ‘barbarians’ is historically linked with the rise of panhellenism and not with the more narrow emphasis on the polis. It would be more accurate to call the Classical emphasis on the polis *uncosmopolitan*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，若以为古典希腊思想一律是*反世界主义的*，那就错了。主动把外邦人排除在任何伦理考量之外，或主动针对外邦人施加恶待，都比把服务与关切集中于同胞更进了一步；事实上，针对「蛮族」的做法在历史上是与泛希腊主义的兴起相联系的，而不是与对城邦的那种更狭隘的强调相联系。更准确的说法是：古典时期对城邦的强调是*非世界主义的*。
+
+    step2: |-
+      但若以为古典希腊思想一概*反世界主义*，便错了。主动将外邦人排除于伦理考量之外，或主动加害外邦人，比仅仅把服务与关切集于同胞又进一步；而历史上针对「蛮族」的做法，与泛希腊主义的兴起相连，倒与对城邦的更狭隘强调无涉。更确切的说法是：古典时期对城邦的强调属于*非世界主义的*。
   - id: 6
     kind: body
     source: |-
       Yet even as Plato and Aristotle were writing, other Greeks were issuing cosmopolitan challenges. Perhaps the most obvious challenges came from the traveling intellectuals who insisted on the contrast between the conventional ties of politics and the natural ties of humanity. Notice, for example, the way Plato has the Sophist Hippias address the motley crew of Athenians and foreigners present at Callias’ house in Plato’s *Protagoras* (337c7–d3):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，就在柏拉图与亚里士多德写作的同时，其他希腊人已在提出世界主义的挑战。最明显的挑战或许来自那些游历四方的智者，他们坚持政治性的约定联系与人性性的自然联系之间的对照。例如，请看柏拉图如何让智者希庇亚斯在《普罗泰戈拉》篇（337c7–d3）中对聚集在卡里亚斯家中的那批杂七杂八的雅典人与外邦人说话：
+
+    step2: |-
+      然而，恰在柏拉图与亚里士多德著书之际，另一些希腊人已发出世界主义的挑战。最显明的挑战或来自那些周游各地的智者：他们强调政治约定之纽带与人类天性之纽带的对照。例如《普罗泰戈拉》篇（337c7–d3）中，柏拉图让智者希庇亚斯对卡里亚斯家中那批杂处的雅典人与外邦人说道：
   - id: 7
     kind: body
     source: |-
       > Gentlemen present … I regard you all as kinsmen, familiars, and fellow-citizens – by nature and not by convention; for like is by nature akin to like, while convention, which is a tyrant over human beings, forces many things contrary to nature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在座诸位……我视你们全为亲族、熟识与同胞公民——这是出于自然，而非出于约定；因为同类自然与同类相亲，而约定是人间的一位僭主，常强迫人做出违背自然之事。
+
+    step2: |-
+      > 在座诸位……我视各位皆为亲族、熟人、同邦公民——此系自然使然，非约定所致；盖同类天然相亲，而约定乃人之僭主，常强人所难、违逆自然。
   - id: 8
     kind: body
     source: |-
       Socrates, too, it can be argued, was sensitive to this more cosmopolitan identification with human beings as such. At least as Plato characterizes him, Socrates avoids traditional political engagement as much as he can, in favor of an extraordinary career of examining himself and others, and he insists that these examinations are both genuinely political (*Gorg* 521d6–8) and extended to all, Athenians and foreigners alike (*Apol* 23b4–6, 30a3–7; cf. Eu. 3d5–9). Of course, Socrates chose not to travel widely, but this decision could well have been consistent with cosmopolitan ideals, for he may have thought that his best bet for serving human beings generally lay in staying at home, on account, ironically, of Athens’ superior freedom of speech (*Gorg* 461e1–3; cf. *Apol* 37c5–e2 and *Meno* 80b4–7). Whether Socrates was self-consciously cosmopolitan in this way or not, there is no doubt that his ideas accelerated the development of cosmopolitanism and that he was in later antiquity embraced as a citizen of the world.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也可以说，苏格拉底对这种把人本身作为认同对象、更具世界主义意味的取向是敏感的。至少在柏拉图的刻画中，苏格拉底尽其所能避开传统的政治参与，转而从事一种非凡的事业：考察自己与他人；他坚持说，这些考察既是真正政治性的（《高尔吉亚》521d6–8），又面向所有人——雅典人与外邦人一视同仁（《申辩》23b4–6、30a3–7；参《欧绪弗洛》3d5–9）。当然，苏格拉底选择不广泛游历；但这一决定很可能与世界主义理想并不冲突，因为他或许认为，服务于人类总体而言的最佳办法就是留在国内——讽刺的是，这恰恰因为雅典有优越的言论自由（《高尔吉亚》461e1–3；参《申辩》37c5–e2、《美诺》80b4–7）。无论苏格拉底是否以这种方式自觉地做个世界主义者，毫无疑问，他的思想加速了世界主义的发展，而且他在后世古代被奉为世界公民。
+
+    step2: |-
+      同样可以说，苏格拉底对这种以人类本身为认同对象的世界主义情怀颇为敏感。至少在柏拉图笔下，他尽量回避传统政治活动，转而从事一项不凡的事业——考察自己、考察他人；他坚称这些考察既是真正政治性的（《高尔吉亚》521d6–8），又向所有人开放，雅典人与外邦人并无分别（《申辩》23b4–6、30a3–7；参《欧绪弗洛》3d5–9）。当然，苏格拉底并未远游；但此一选择或与世界主义理想相符：他也许认为，服务人类全体最好的办法恰是留在本土——说来讽刺，正因雅典的言论自由更为优越（《高尔吉亚》461e1–3；参《申辩》37c5–e2、《美诺》80b4–7）。无论苏格拉底是否自觉怀此世界主义情怀，他的思想无疑加速了世界主义的发展，后世古代亦尊之为世界公民。
   - id: 9
     kind: body
     source: |-
       In fact, the first philosopher in the West to give perfectly explicit expression to cosmopolitanism was the Socratically inspired Cynic Diogenes in the fourth century BCE. It is said that “when he was asked where he came from, he replied, ‘I am a citizen of the world [*kosmopolitês*]’” (Diogenes Laertius VI 63). By identifying himself not as a citizen of Sinope but as a citizen of the world, Diogenes apparently refused to agree that he owed special service to Sinope and the Sinopeans. So understood, ‘I am a citizen of the cosmos’ is a negative claim, and we might wonder if there is any positive content to the Cynic’s world citizenship. The most natural suggestion would be that a world citizen should serve the world-state, helping to bring it about in order to enable the later work of sustaining its institutions and contributing to its common good. But the historical record does not suggest that Diogenes the Cynic favored the introduction of a world-state. In fact, the historical record does not unambiguously provide Diogenes any positive commitments that we can readily understand as cosmopolitan. The best we can do to find positive cosmopolitanism in Diogenes is to insist that the whole Cynic way of life is supposed to be cosmopolitan: by living in accordance with nature and rejecting what is conventional, the Cynic sets an example of high-minded virtue for all other human beings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，西方第一个毫不含糊地表达世界主义的哲学家，是公元前四世纪受苏格拉底启发的犬儒派第欧根尼。据说「有人问他从哪里来，他答道：『我是世界公民［*kosmopolitês*］』」（第欧根尼·拉尔修 VI 63）。第欧根尼不把自己认作西诺佩的公民，而认作世界公民，显然拒绝承认自己对西诺佩及西诺佩人负有特殊服务之责。如此理解，「我是宇宙的公民」便是一个否定性主张；我们不禁要问：犬儒派的世界公民身份是否还有任何肯定性内容。最自然的建议或许是：世界公民应当服务于世界国家，帮助促成它，以便日后维系其制度、增进其共同善。但历史记载并不表明犬儒派第欧根尼赞成引入世界国家。事实上，历史记载也没有明确赋予第欧根尼任何我们可以直接理解为世界主义的肯定性承诺。要在第欧根尼身上找到肯定的世界主义，我们所能做的至多是坚持：犬儒派的整个生活方式本就被设想为世界主义的——通过依自然而生活、拒斥约定俗成之物，犬儒派为所有其他人树立了高尚德性的榜样。
+
+    step2: |-
+      事实上，西方第一位把世界主义表述得毫不含糊的哲学家，是公元前四世纪那位受苏格拉底启发的犬儒派第欧根尼。据载，「有人问他来自何处，他答：『我是世界公民［*kosmopolitês*］』」（第欧根尼·拉尔修 VI 63）。第欧根尼不自称西诺佩公民而自称世界公民，显然是不肯承认自己对西诺佩及西诺佩人负有特殊服务之责。如此理解，「我是宇宙的公民」乃一否定性主张；于是人们要问：犬儒的世界公民身份是否带有任何肯定内容？最自然的设想是：世界公民应效力于世界国家，助其实现，以便日后维系其制度、增进其共同善。然而史载并不表明犬儒第欧根尼主张引入世界国家；史载亦未明确赋予他任何可径直读作世界主义的肯定承诺。欲在犬儒身上寻得肯定意义的世界主义，至多只能坚持：犬儒的整个生活方式本即被设想为世界主义的——依自然而生、拒斥习俗，犬儒遂为其余一切人树立了高洁德性之范。
   - id: 10
     kind: body
     source: |-
       A fuller exploration of positively committed philosophical cosmopolitanism arrives only with the Socratizing and Cynic-influenced Stoics of the third century CE. These Stoics are fond of saying that the cosmos is, as it were, a polis, because the cosmos is put in perfect order by law, which is right reason. They also embrace the negative implication of their high standards: conventional poleis do not, strictly speaking, deserve the name, and human beings who are not wise and virtuous do not count as citizens of the cosmos. But the Stoics do not believe that living in agreement with the cosmos – as a (virtuous) citizen of the cosmos – requires maintaining critical distance from conventional poleis. Rather, as the traces of Chrysippus’ *On Lives* make clear, the Stoics believe that goodness requires serving other human beings as best one can, that serving all human beings equally well is impossible, and that the best service one can give typically requires political engagement. Of course, the Stoics recognize that political engagement will not be possible for everyone, and that some people will best be able to help other human beings as private teachers of virtue rather than as politicians. But in no case, the Stoics insist, is consideration of political engagement to be limited to one’s own polis. The motivating idea is, after all, to help human beings as such, and sometimes the best way to do that is to serve as a teacher or as a political advisor in some foreign place. In this fashion, the Stoics introduce clear, practical content to their metaphor of the cosmopolis: a cosmopolitan considers moving away in order to serve, whereas a non-cosmopolitan does not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对一种具有肯定承诺的哲学世界主义的更充分探索，要到公元三世纪受苏格拉底影响、受犬儒影响的斯多亚派那里才出现。这些斯多亚派乐于说，宇宙可以说就是一个城邦，因为宇宙被法——即正当理性——安排进了完美的秩序。他们也接受其高标准所含的否定性意涵：严格说来，约定俗成的城邦并不配此名，而并非智慧而有德的人也不算是宇宙的公民。但斯多亚派并不认为，与宇宙保持一致地生活——作为（有德的）宇宙公民——就要求同约定俗成的城邦保持批判性的距离。相反，正如克律西波《论生活方式》的残篇所表明的，斯多亚派相信：善要求尽其所能服务他人；同等良好地服务一切人是不可能的；而人能提供的最佳服务通常要求政治参与。当然，斯多亚派承认政治参与并非人人可能，也承认有些人作为私人的德性教师而非政治家，反而最能帮助他人。但斯多亚派坚持，在任何情况下，对政治参与的考量都不应局限于自己的城邦。毕竟，其激励性的观念是帮助作为人的人；而有时做到这一点的最好办法，就是在某个外邦地方做教师或政治顾问。斯多亚派就这样为其世界城邦的隐喻引入了明确而实践性的内容：世界主义者会考虑为服务而迁居，非世界主义者则不会。
+
+    step2: |-
+      对带有肯定承诺的哲学世界主义作更充分的探讨，要待公元三世纪受苏格拉底与犬儒影响的斯多亚派。他们喜欢说：宇宙宛如一个城邦，因为它由法——即正当理性——安排得井然有序。他们也接受这一高标准所含的否定意涵：严格说来，习俗城邦不配此名，不智不德之人亦不算宇宙公民。但斯多亚派并不认为，与宇宙相合而生活——作为（有德的）宇宙公民——须同习俗城邦保持批判距离。相反，克律西波《论生活方式》的残篇表明：斯多亚派相信善在于尽力服务他人，而同等良好地服务一切人绝无可能，故最佳服务通常需要政治参与。他们当然承认并非人人皆能参与政治，也承认有人以私人德性教师而非政治家的身份最能助人。但无论如何，斯多亚派坚称对政治参与的考量不可囿于一己城邦：其激励观念本在帮助作为人的人，而有时最好的办法正于外邦任教师或政治顾问。斯多亚派便这样为世界城邦的隐喻注入明确而实践的内容：世界主义者会为服务他乡而考虑迁居，非世界主义者则不然。
   - id: 11
     kind: body
     source: |-
       This content admits of a strict and a more moderate interpretation. On the strict view, when one considers whether to emigrate, one recognizes prima facie no special or stronger reason to serve compatriots than to serve a set of human beings abroad. On the moderate view, one does introduce into one’s deliberations extra reason to serve compatriots, although one might still, all things considered, make the best choice by emigrating. The evidence does not permit a decisive attribution of one or the other of these interpretations to any of the earliest Stoics. But if we think that Chrysippus was deeply attracted to the Cynics’ rejection of what is merely conventional, then we will find it easy to think of him as a strict cosmopolitan.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一内容容许一种严格解释，也容许一种更温和的解释。按严格看法，一个人在考虑是否移居时，会认为在初看之下，服务于同胞并不比服务于海外的一群人具有任何特殊或更强的理由。按温和看法，一个人确实会在自己的斟酌中加入服务于同胞的额外理由，尽管综合考虑之下，他仍可能通过移居作出最佳选择。现有证据不足以把这两种解释中的任何一种决定性地归于最早的任何一位斯多亚派。但如果我们认为克律西波深深服膺犬儒派对纯属约定之物的拒斥，那么我们便会觉得把他看作一位严格的世界主义者是容易的。
+
+    step2: |-
+      此内容可有严格与温和两种解读。严格解读：人在考虑是否移居时，初看之下并不认为服务同胞比服务海外人群有更特殊或更强的理由。温和解读：人在斟酌中确实为服务同胞加入额外理由，尽管就全局而言仍可能以移居为最佳选择。证据不足以把两种解读中的任何一种决定性地归于最早的斯多亚派。但若认为克律西波深为犬儒派对纯然习俗之物的拒斥所吸引，便不难视他为严格意义上的世界主义者。
   - id: 12
     kind: body
     source: |-
       Things are a bit different for at least some of the Stoics at Rome. On the one hand, the cosmopolis becomes less demanding. Whereas Chrysippus limits citizenship in the cosmos to those who in fact live in agreement with the cosmos and its law, Roman Stoics extend citizenship to all human beings by virtue of their rationality. On the other hand, local citizenship becomes more demanding. There is no doubt that the Stoicism of Cicero’s *De Officiis* or of Seneca’s varied corpus explicitly acknowledges obligations to Rome in addition to obligations to the cosmos. This is a moderate Stoic cosmopolitanism, and empire made the doctrine very easy for many Romans by identifying the Roman *patria* with the cosmopolis itself. But neither imperialism nor a literal interpretation of world citizenship is required for the philosophical point. The maximally committed cosmopolitan looks around to determine whom he can best help and how, knowing full well that he cannot help all people in just the same way, and his decision to help some people far more than others is justified by cosmopolitan lights if it is the best he can do to help human beings as such.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对至少某些身在罗马的斯多亚派来说，情形略有不同。一方面，世界城邦变得不那么苛求：克律西波把宇宙公民身份限于那些事实上与宇宙及其法相一致地生活的人，而罗马斯多亚派则凭理性把公民身份扩展至一切人。另一方面，本地公民身份变得更为苛求：西塞罗《论义务》或塞涅卡各类著作中的斯多亚主义，无疑在承认对宇宙的义务之外，还明确承认对罗马的义务。这是一种温和的斯多亚式世界主义；而帝国通过把罗马这个*patria*（祖国）与世界城邦等同起来，使这一学说对许多罗马人变得非常容易接受。但无论帝国主义，还是对世界公民身份作字面解释，都不是这一哲学要点所必需的。一个最大程度投入的世界主义者会环顾四周，以确定自己最能帮助谁、如何帮助，深知自己无法以完全相同的方式帮助所有人；而若他决定帮助某些人远多于他人，只要能做得上是帮助作为人的人的最佳方式，那么从世界主义的眼光看，这一决定便是正当的。
+
+    step2: |-
+      至少对部分罗马斯多亚派而言，情形略有不同。一方面，世界城邦变得不那么苛求：克律西波将宇宙公民身份限于事实上与宇宙及其法相合而生活的人，罗马斯多亚派却凭理性把公民身份推及一切人。另一方面，本地公民身份反而更苛求：西塞罗《论义务》与塞涅卡各体著作中的斯多亚主义，无疑在对宇宙的义务之外明确承认对罗马的义务。此即温和的斯多亚式世界主义；而帝国把罗马这一*patria*（祖国）与世界城邦等同，使此说对众多罗马人极易接受。然而帝国主义并非此哲学要点所必需，对世界公民身份作字面解亦非必需。最大程度投入的世界主义者会环顾四周，判断自己最能帮助何人、如何帮助，深知无法以同一方式帮助所有人；他若决定对某些人远多施助，只须这已是帮助作为人的人之最佳方式，从世界主义立场看便属正当。
   - id: 13
     kind: body
     source: |-
       Stoic cosmopolitanism in its various guises was enormously persuasive throughout the Greco-Roman world. In part, this success can be explained by noting how cosmopolitan the world at that time was. Alexander the Great’s conquests and the subsequent division of his empire into successor kingdoms sapped local cities of much of their traditional authority and fostered increased contacts between cities, and later, the rise of the Roman Empire united the whole of the Mediterranean under one political power. But it is wrong to say what has frequently been said, that cosmopolitanism arose as a *response* to the fall of the polis or to the rise of the Roman empire. First, the polis’ fall has been greatly exaggerated. Under the successor kingdoms and even – though to a lesser degree – under Rome, there remained substantial room for important political engagement locally. Second, and more decisively, the cosmopolitanism that was so persuasive during the so-called Hellenistic Age and under the Roman Empire was in fact rooted in intellectual developments that *predate* Alexander’s conquests. Still, there is no doubting that the empires under which Stoicism developed and flourished made many people more receptive to the cosmopolitan ideal and thus contributed greatly to the widespread influence of Stoic cosmopolitanism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      斯多亚式世界主义以其各种面貌在整个希腊—罗马世界极具说服力。这一成功部分可以这样解释：当时的世界本身就极为世界主义。亚历山大大帝的征服以及随后其帝国分裂为继业者诸王国，抽空了地方城市的大量传统权威，促进了城市之间接触的增加；后来罗马帝国的兴起又把整个地中海统一在一个政治权力之下。但若说世界主义是作为对城邦衰落或罗马帝国兴起的*回应*而产生的——这是常被重复的说法——那就错了。首先，城邦的衰落被大大夸张了：在继业者诸王国治下，甚至（程度虽轻）在罗马治下，地方上仍留有相当大的空间可供重要的政治参与。其次，更具决定性的理由是：在所谓希腊化时代与罗马帝国时期如此有说服力的世界主义，实际上植根于*早于*亚历山大征服的思想发展。尽管如此，无疑正是斯多亚主义在其中发展并繁荣的那些帝国，使许多人对世界主义理想更易接受，从而大大促成了斯多亚式世界主义的广泛影响。
+
+    step2: |-
+      斯多亚式世界主义以种种面貌在希腊—罗马世界风靡一时。其成功部分可归于当时世界本身即高度世界主义化：亚历山大大帝的征服及其帝国分裂为继业者诸王国，削弱了地方城市的传统权威，增进了城市间往来；其后罗马帝国崛起，更把整个地中海置于一个政权之下。但常说世界主义乃是对城邦衰亡或罗马兴起的*回应*，此说不对。其一，城邦之衰被严重夸大：无论在继业者诸王国治下，抑或（程度稍逊）在罗马治下，地方仍留有可观的重大政治参与空间。其二，更关键的是，希腊化时代与罗马帝国时期如此动人的世界主义，实植根于*早于*亚历山大征服的思想演进。尽管如此，斯多亚主义所赖以发展繁荣的那些帝国确实使更多人对世界主义理想易于接受，从而极大推动了斯多亚式世界主义的广泛影响。
   - id: 14
     kind: body
     source: |-
       Nowhere was Stoic cosmopolitanism itself more influential than in early Christianity. Early Christians took the later Stoic recognition of two cities as independent sources of obligation and added a twist. For the Stoics, the citizens of the polis and the citizens of the cosmopolis do the same work: both aim to improve the lives of the citizens. The Christians respond to a different call: “Render therefore unto Caesar the things which are Caesar’s; and unto God the things that are God’s” (Matthew 22:21). On this view, the local city may have divine authority (*John* 19:11; cf. *Romans* 13:1,4,7), but the most important work for human goodness is removed from traditional politics, set aside in a sphere in which people of all nations can become “fellow-citizens with the saints” (*Ephesians* 2:20).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      斯多亚式世界主义本身影响最大的地方，莫过于早期基督教。早期基督徒采纳了晚期斯多亚派对两个城邦作为义务之独立来源的承认，并作了一点变通。对斯多亚派来说，城邦的公民与世界城邦的公民做的是同一件工作：两者都旨在改善公民的生活。基督徒则回应另一种召唤：「这样，凯撒的物当归给凯撒；神的物当归给神」（《马太福音》22:21）。照此看法，地方城市或许拥有神授的权威（《约翰福音》19:11；参《罗马书》13:1、4、7），但关乎人之善的最重要工作却从传统政治中移出，被安置在一个领域之中，各国之人皆可在其中成为「圣徒同国」（《以弗所书》2:20）。
+
+    step2: |-
+      斯多亚式世界主义自身影响最著者，莫过于早期基督教。早期基督徒承接晚期斯多亚派以两个城邦为义务之独立来源的见解，又添一层转折。于斯多亚派，城邦公民与世界城邦公民所行乃同一件事：两者都欲改善公民生活。基督徒却应另一召唤：「这样，凯撒的物当归给凯撒；神的物当归给神」（《马太福音》22:21）。依此见，地方城市或具神授之权（《约翰福音》19:11；参《罗马书》13:1、4、7），然关乎人之善的要务已自传统政治中移出，另置一域，万国之人在此可成「圣徒同国」（《以弗所书》2:20）。
   - id: 15
     kind: body
     source: |-
