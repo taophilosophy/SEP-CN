@@ -2,7 +2,7 @@
   "slug": "god-necessary-being",
   "kind": "retranslate",
   "zh_doc": "g/god-necessary-being.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "g-gamma-G-main-20261109",
       "at": "2026-11-09T02:59:53Z",
       "evidence": "s2 check_prose 27→7：已消 long-sentence 4（Leibniz 引文 44 处分号断句、ladder 句拆两处、Welty 引文断句）、plural-men 1（权威文本的作者们→作者）、de-chain 19→4（核心术语链「必然存在的抽象对象的存在」逐句改写 12 处、视图清单定义句改写），passive-bei 3 与 de-chain 4 逐条豁免留痕：豁免理由=（1）25/33 行系《尼希米记》9:6、《歌罗西书》1:15–16 经文引文，和合本文体照录不得改写；（2）63 行系笛卡尔 1630-05-27 致梅森书信直译引文；（3）105/107 行「被上帝例示」「必然被例示」是属性名 being exemplified by God 的构词成分，非被字句。另修正一处 s1 漏掉的误译：the grounding takes place in that abstracta are identical with divine mental states 原译「奠基于…」→「这种奠基在于…」"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "g-gamma-G-main-20261109",
+      "at": "2026-11-09T04:44:13Z",
+      "evidence": "s3 三校：g_check 全绿（check_style issues=0、check_math formulas=0 missing/unbalanced 皆 0、check_academic --strict OK、H1=SUMMARY 一致）；check_terms --docs 定点核销 1 文档 0 处疑似缺译法（登记册层面 165/2441 条全局告警与本词条无关）；术语对齐登记册：完满存在神学（原写「完满存在者神学」2 处改齐）、马兰·梅森（首现补全名）；登记清单 scrip/g_reg/g-gamma_god-necessary-being.json 19 术语+3 人名经 Lead 入库"
     }
   ],
   "blockers": [],
