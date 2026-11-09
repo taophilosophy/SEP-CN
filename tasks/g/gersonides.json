@@ -2,7 +2,7 @@
   "slug": "gersonides",
   "kind": "retranslate",
   "zh_doc": "g/gersonides.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "g-beta-G-main-20261109",
       "at": "2026-11-09T02:18:07Z",
       "evidence": "s3 体例终检：script/g_check.py g gersonides 全绿（check_style issues=0；check_math formulas=0 missing=[] unbalanced=[]；check_academic --strict OK；H1=SUMMARY『吉尔松尼德 Gersonides (Tamar Rudavsky)』）；tools/check_prose.py 复跑告警 0（s2 已清，无豁免）；参考文献照录核对：脚注定义区 51=51 条、缺 0 多 0、顺序逐条一致（对照 yuanwen/g/gersonides.md）；正文脚注标记 9 与源逐项相同、脚注键集合 52=52 全等；相关词条 6=6 与源一一对应。check_terms --docs 告警逐类说明：①『正文缺登记译法』107 处——均为登记册『出处』列记到 gersonides 的旧语料词（sovereignty、body politic、corpus mysticum 等），本轮全量重译后正文不再使用，属预期告警非本稿缺陷；②『非英语术语缺原文』180 条、『人名缺籍属/生卒』2414 条为登记册全局存量告警，与本稿无关；③新登 22 术语 + 8 人名已由 Lead 入库（出处 gersonides，2026-11-09），正文用词与之对齐（『无中生有』已改为登记册主形『无中创世』）。al-Bitruji 保留英文原名（汉译未统一，待审定）。译名混形已知：ren-ming-biao/israeli 行作『格森尼德』，本条目从 SUMMARY 主形『吉尔松尼德』，已提请 Lead 统一裁定；相关词条行『阿芙罗蒂西亚的亚历山大』（SUMMARY 管线名）与正文登记册主形『阿弗罗狄西亚的亚历山大』并存，按 rules/03 不自行改写，一并提请统一。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "g-gamma-G-main-20261109",
+      "at": "2026-11-09T06:05:58Z",
+      "evidence": "r1 结构/事实复核（回源逐节核，不采信机检自证）：g_audit h2 11=11、h3 3=3、h4 0=0、脚注键 60=60 集合等、脚注定义 51=51 逐字符相同、年份 56 缺 0、数字串 140 缺 0；本人另逐句核第 1 节（zh 9-11 ↔ en 10-12）与第 5-7 节全部段落（zh 65-95 ↔ en 66-96），并回源核实三处原被截断的源行尾部（en 76 'by the ascendent degree or the dominant planet [in a particular zodiacal position]'、en 82 'translated into Latin with the aid of his brother'、en 96 'an insightful, ruthlessly consistent philosopher'），译文齐备无误；方括号补语［所在的黄道位置］经核实系源文自带的括注，非增译；页码引文 Wars V.2.3 p.194/V.2.5 p.137/V.2.8 p.207-8/V.3.8 p.272/II.2 p.33,34,35/II.6 p.64/II.7 pp.69-70/I.4 p.79,136/I.8 p.170/I.12 p.219/V.1.1 p.23/V.1.3 p.27 与 Goldstein 1974 p.24/1988 p.386/1990、Touati 1973 pp.103,311、Glasner 2015 p.13 全对；三处待核判定：①开篇 **讨伐上帝之战** 对应源文斜体 *Wars against the Lord*，属源强调→中文粗体体例映射，非任意加工，保留；②无中创世（*ex nihilo*）与登记册主形 creation from nothing=无中创世 一致；③相关词条行阿芙罗蒂西亚的亚历山大（SUMMARY 形）与正文阿弗罗狄西亚的亚历山大（登记册主形）混形，按既定裁定不改，仅此留痕"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "g-gamma-G-main-20261109",
+      "at": "2026-11-09T06:09:14Z",
+      "evidence": "r2 句级回核与译误复查：check_prose g/gersonides.md 0 告警（无长句/被动/欧化/类名们问题）；逐句比对第 5 节 8 段、第 6 节 3 段、第 7 节 1 段与第 4 节创世段（zh 41 ↔ en 42，含 Geshem/Homer/thou va-vohu 三术语密集句）均无漏译错译增译；记录 1 处源级注记不作硬错：经院成语 *sapiens dominabitur astris* 源文括注作 'the wise man will be ruled by the stars'，而拉丁实义为「智者将支配星辰」，译文照源括注作［智者将受星辰支配］，属对源文的忠实复现，不擅改亦不加译注（rules/02 译注谨慎克制）；另（see North 1986, p. 25）与（see Glasner 2015, p 36）之 see 与 p 36 缺句点均为源文原样，照录不改"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "g-gamma-G-main-20261109",
+      "at": "2026-11-09T06:09:17Z",
+      "evidence": "r3 终检：script/g_check.py g gersonides 全绿（check_style issues=0、check_math formulas=0 missing=[] unbalanced=[]、check_academic --strict OK、H1 与 SUMMARY 一致）；check_academic --docs --strict 输出「学术规范无硬错误」（非存根词条 1、在途豁免 1）；g_audit 结构审计通过；r1/r2 记录的问题零 Critical、零 Major，源级注记 1 条（sapiens dominabitur astris 括注）已留痕，符合验收"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "g-gamma-G-main-20261109",
+      "at": "2026-11-09T06:09:17Z",
+      "evidence": "done：r1-r3 三校复核完毕，g_check 全绿、结构守恒、无 Critical/Major；成稿未作改动（复核未发现需改处），维持 g-beta s3 提交 ba32c9b1"
     }
   ],
   "blockers": [],
