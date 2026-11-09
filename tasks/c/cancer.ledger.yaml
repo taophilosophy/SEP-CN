@@ -427,40 +427,56 @@ segments:
     kind: body
     source: |-
       Historically the cancer stem cell theory (CSC) was framed in opposition to the somatic mutation theory and the clonal evolution model, according to which cancer cells diversify and evolve through the acquisition of mutations (e.g. Reya, et al. 2001; Wicha, et al. 2006; Shipitsin, et al. 2007). But soon it appeared that rather than see the two theories as mutually exclusive, we might see the two as complementary, in the process of integration, or overlapping models. Fagan (2016) argues that on a “model-based” approach, it’s not clear that these two theories are inconsistent. Laplane (2018) has pointed out how the CSC can serve to supplement the evolutionary perspective. The presence and number of cancer stem cells can affect the rate and nature of evolutionary change in a population of cancer cells. Essentially, if all cells in a tumor are descended from one or a few cancer stem cells, this restricts population size, and thus suggests that to a large extent cancer progression is driven by drift, rather than selection. Lyne et al. (2021) develop this argument with a mathematical model, and question the ubiquitous assumption that linear evolution, in which each new clone arises from the latest one and tend to almost outcompete it, is the output of natural selection. Such inference can only be warranted if the number of contributing stem cells is high enough to prevent clonal evolution by drift.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从历史上看，癌症干细胞理论（CSC）是在与体细胞突变论及克隆演化模型的对立中提出的；按照后者，癌细胞通过获得突变而多样化和演化（例如 Reya, et al. 2001; Wicha, et al. 2006; Shipitsin, et al. 2007）。但不久人们便发现，与其把两种理论看作互斥的，不如把它们看作互补的、正在整合中的、或者相互重叠的模型。Fagan（2016）论证说，在“基于模型”的进路上，不清楚这两种理论是否不一致。Laplane（2018）指出，CSC 可以补充演化视角。癌症干细胞的存在和数量，能影响癌细胞群体中演化改变的速率和性质。基本上，如果一个肿瘤中的所有细胞都来自一个或少数几个癌症干细胞，这就限制了群体规模，从而提示癌症进展在很大程度上是由漂变、而非选择驱动的。Lyne 等（2021）用数学模型发展了这一论证，并质疑一个无处不在的假定：线性演化——其中每个新克隆都从最新的克隆产生，并往往几乎把它竞争掉——是自然选择的产物。只有参与的干细胞数量足够多、足以阻止由漂变造成的克隆演化时，这样的推论才是有保证的。
+    step2: |-
+      从历史上看，癌症干细胞理论（CSC）是作为体细胞突变论和克隆演化模型的对立面提出的；按后两者，癌细胞通过不断获得突变而多样化、演化（例如 Reya 等，2001; Wicha 等，2006; Shipitsin 等，2007）。但没过多久人们就发现，这两种理论不必看成互斥，倒可以看成互补的、正在合流的、或者相互重叠的模型。Fagan（2016）认为，按“基于模型”的路子看，说不清这两种理论哪里不一致。Laplane（2018）指出，CSC 可以给演化视角作补充。癌症干细胞有没有、有多少，会影响癌细胞群体里演化改变的快慢和性质。大体上说，一个肿瘤里的细胞如果都出自一个或少数几个癌症干细胞，群体规模就受限，这就提示癌症进展在很大程度上是漂变推着走，而不是选择推着走。Lyne 等（2021）用数学模型把这个论证往下做，并质疑一个到处都是的假定：线性演化——每个新克隆都从最新的克隆里冒出来，往往几乎把它挤垮——是自然选择的结果。只有当参与的干细胞多到足以挡住漂变造成的克隆演化时，这种推论才站得住。
   - id: 54
     kind: body
     source: |-
       There are several open questions about the causal role of stem cells in both preventing and promoting cancer. Cairns (1975) originally proposed the hypothesis that the hierarchical organization of tissues, with the tissue stem cells producing all the other cells, may prevent cancer, by allowing only a few relatively protected cells to serve as progenitors in somatic cell division, thus reducing the risk of accumulated mutations (Cairns 1975)[^cairns-1975]. More recently, a similar idea led to the claim that the risk of cancer is mostly a matter of bad luck, proportional to the number of stem cell divisions in each tissue (Tomasetti and Vogelstein 2015; Tomasetti et al. 2017)[^tomasetti-2015][^tomasetti-2017]. This has led to a vivid debate on the explanatory relevance of the variation in the number of stem cell divisions by tissues in the variation of the lifetime risk of cancer in these tissues. However, the lack of conceptual clarity and argumentative consistency of the initial papers and its critics has hindered the debate (Plutynski 2021b)[^plutynski-2021b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于干细胞在预防和促进癌症两方面的因果作用，还有若干未决问题。Cairns（1975）最初提出一个假说：组织的层级式组织——组织干细胞产生所有其他细胞——也许能预防癌症，办法是只让少数相对受保护的细胞充当体细胞分裂中的祖细胞，从而降低突变累积的风险（Cairns 1975）[^cairns-1975]。更近些时候，一个类似的想法导致了这样的主张：癌症风险多半是运气问题，与每种组织中干细胞分裂的次数成正比（Tomasetti and Vogelstein 2015; Tomasetti et al. 2017）[^tomasetti-2015][^tomasetti-2017]。这引发了一场激烈的辩论：各组织干细胞分裂次数的差异，对于解释这些组织终生癌症风险的差异有什么相关性。然而，最初的论文及其批评者在概念清晰性和论证一致性上的欠缺，阻碍了这场辩论（Plutynski 2021b）[^plutynski-2021b]。
+    step2: |-
+      关于干细胞在防癌和致癌两头的因果作用，还有好些问题没弄清。Cairns（1975）最早提出一个假说：组织呈层级式组织，组织干细胞生出其他所有细胞，这本身也许就能防癌——只让少数相对受保护的细胞在体细胞分裂时当祖细胞，突变累积的风险就降下来了（Cairns 1975）[^cairns-1975]。后来，一个类似的想法引出了这样的主张：得不得癌症多半靠运气，风险大小与每种组织里干细胞分裂的次数成正比（Tomasetti and Vogelstein 2015; Tomasetti 等，2017）[^tomasetti-2015][^tomasetti-2017]。这引起了一场热闹的辩论：各组织干细胞分裂次数的差异，对解释这些组织终生癌症风险的差异有多大用处。不过，最初的论文和批评者两边都欠些概念上的清楚和论证上的一致，辩论因此卡住了（Plutynski 2021b）[^plutynski-2021b]。
   - id: 55
     kind: body
     source: |-
       Discussion of the role and nature of cancer stem cells, however, is complicated by the fact that there is a great deal of dispute around what counts as a cancer stem cell (for questions about what counts as a stem cell, outside of cancer, see Fagan’s work, especially Fagan 2013 and Fagan 2021)[^fagan-2013][^fagan-2021]. Laplane (2016), Fagan (2016), and Germain (2014) draw attention to the fact that the concept of cancer stem cell is multiply ambiguous, in at least the following ways:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，关于癌症干细胞的作用和性质的讨论变得复杂，因为什么算作癌症干细胞有很大争议（关于癌症之外的什么算作干细胞，见 Fagan 的工作，尤其是 Fagan 2013 和 Fagan 2021）[^fagan-2013][^fagan-2021]。Laplane（2016）、Fagan（2016）和 Germain（2014）提请注意：癌症干细胞概念有多重歧义，至少表现在以下方面：
+    step2: |-
+      不过，癌症干细胞起什么作用、是什么性质，讨论起来很麻烦，因为什么才算癌症干细胞争议很大（癌症之外什么算干细胞，见 Fagan 的工作，尤其是 Fagan 2013 和 Fagan 2021）[^fagan-2013][^fagan-2021]。Laplane（2016）、Fagan（2016）和 Germain（2014）提醒说，癌症干细胞这个概念有好几重歧义，至少有以下几方面：
   - id: 56
     kind: body
     source: |-
       - First, when we speak of cancer stem cells, we may be referring to their capacities, or to their historical role or genealogy, i.e., to the fact that they were the cells from which other cancer cells originate. That is, some take cancer stem cells to be defined in terms of their distinctive capacities and some in terms of their relationship to other cells—in particular, to their ancestor-descendent relationships in a population of cells in a tumor. The “cancer stem cell model” is sometimes simply taken to refer to any model of a tumor that treats the population of cells as having a hierarchical relationship, where one or a few cells propagate the tumor, whether or not those cells have distinctive properties that cause them to stand in that relationship.
       - Second, there are several different kinds of historical role that CSCs might play: They may be all and only those cells that initiate a cancer under natural conditions, they may be those cells which propagate a cancer in situ, or they may be those cells that are capable of propagating a cancer in an experimental animal. Xenotransplantation experiments used to assess CSCs are “highly artificial” contexts, that may or may not warrant the conclusions researchers claim to establish. Xenotransplantation, for instance, has been used to articulate and test hypotheses about “intrinsic tumorigenicity” of CSCs. The problem with using these tools, however, is that the matter of when and whether a cell is “tumorigenic” varies across different backgrounds. For example, CSCs may develop tumors in some mouse models and not others, depending on their immune deficiency. Which experimental context is relevant to understanding how and why cancer is caused by CSCs thus depends upon which causes we wish to isolate, and how.
       - Third, some take the concept of CSC to be restricted to normal stem cells, which some believe are the most likely precursors to cancer. Others hold that cells that originate a tumor have stem-like properties but may or may not derive from normal stem cells.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 第一，我们说到癌症干细胞时，可能指它们的各种能力，也可能指它们的历史角色或谱系，即它们是这样一些细胞：其他癌细胞由之起源。也就是说，有些人认为癌症干细胞应当按其独特能力来定义，有些人则按其与其他细胞的关系来定义——特别是按它们在肿瘤细胞群体中的祖先—后代关系来定义。“癌症干细胞模型”有时被简单地用来指任何这样一种肿瘤模型：它把细胞群体看作具有层级关系，由一个或少数几个细胞繁殖肿瘤，不管这些细胞是否具有使它们处于这种关系的独特属性。
+      - 第二，CSC 可能扮演的历史角色有几种不同：它们可能是自然条件下引发癌症的全部且仅有那些细胞；可能是原位繁殖癌症的那些细胞；也可能是能在实验动物中繁殖癌症的那些细胞。用于评估 CSC 的异种移植实验是“高度人为”的语境，可能、也可能不足以证成研究者声称要确立的结论。例如，异种移植曾被用来表述和检验关于 CSC“内在致瘤性”的假说。然而，使用这些工具的问题在于：一个细胞何时、是否“致瘤”，在不同背景中各不相同。例如，CSC 在某些小鼠模型中能长出肿瘤，在另一些模型中则不能，取决于其免疫缺陷程度。因此，哪一种实验语境与理解 CSC 如何、为何致癌相关，取决于我们想分离哪些原因、以及如何分离。
+      - 第三，有些人认为 CSC 概念只限于正常干细胞，有些人相信正常干细胞最可能是癌症的前体。另一些人则认为，引发肿瘤的细胞具有类干细胞属性，但它们可能源自、也可能不源自正常干细胞。
+    step2: |-
+      - 第一，说癌症干细胞时，可能指它们的种种能力，也可能指它们的历史角色或谱系——也就是说，它们是这样一些细胞：别的癌细胞从它们那里来。换句话说，有人按独特能力来定义癌症干细胞，有人按它与其他细胞的关系来定义，特别是按它在肿瘤细胞群体里的祖先—后代关系来定义。“癌症干细胞模型”有时就泛指任何一种把细胞群体看作层级关系的肿瘤模型：由一个或少数几个细胞把肿瘤繁殖下去，不管这些细胞有没有独特的属性让它们处于这种关系。
+      - 第二，CSC 可能扮演的历史角色有好几种：它们可能是自然条件下引发癌症的全部且仅有的那些细胞；可能是原位把癌症繁殖下去的那些细胞；也可能是能在实验动物身上繁殖癌症的那些细胞。用来评估 CSC 的异种移植实验是“高度人为”的条件，可能够、也可能不够证成研究者声称要确立的结论。比如，异种移植曾被用来表述和检验关于 CSC“内在致瘤性”的假说。可用这些工具的麻烦在于：一个细胞什么时候“致瘤”、是不是“致瘤”，在不同背景里不一样。比如，CSC 在某些小鼠模型里能长出肿瘤，在另一些里就不能，看免疫缺陷到什么程度。所以，哪种实验条件与理解 CSC 如何、为何致癌相关，取决于我们想分离出哪些原因、又怎么分离。
+      - 第三，有人认为 CSC 概念只限于正常干细胞，他们相信正常干细胞最可能是癌症的前体。另一些人则认为，引发肿瘤的细胞有类干细胞属性，但它们可能来自、也可能不来自正常干细胞。
   - id: 57
     kind: body
     source: |-
       What’s clear is that some populations of cells in a tumor appear to have “stemness” properties—the ability to renew oneself. What is less clear is whether these capacities are context sensitive, and how and by which cells they may be acquired. The plasticity of many types of cancer cells suggests that they may acquire a stemness phenotype, and even shift back to non-stem phenotype. Given this, it appears that the CSC is just one of a continuum of general views, some of which take only specific types of cells to be precursors to cancer and others which grant that many different types of cells have the potential to develop such properties. That is, the real question at issue is whether the cells that initiate a tumor are in some way distinctive or require distinctive precursors, and how properties of stemness are acquired. Whether stemness is intrinsic or acquirable, niche-dependent or independent, moreover, will drastically change the therapeutic strategy. The CSC model (the idea that CSC are at the origin of cancer development, resistance to treatment, and relapse) might be true and yet CSC-targeting strategy might fail. Indeed, what kind of property “stemness” is may vary across cancers, and even over time within a cancer (Laplane and Solary 2019a; Laplane 2016)[^laplane-2016][^laplane-2019a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      清楚的是，肿瘤中的某些细胞群似乎具有“干性”属性——自我更新的能力。不太清楚的是，这些能力是否对语境敏感，以及它们如何、由哪些细胞获得。许多类型癌细胞的可塑性提示，它们可能获得干性表型，甚至转回非干细胞表型。既然如此，CSC 似乎只是从一系列一般看法中的一种；其中有些看法认为只有特定类型的细胞是癌症的前体，另一些则承认许多不同类型的细胞都有发展出这类属性的潜力。也就是说，真正成问题的是：引发肿瘤的细胞是否以某种方式独特，或者是否需要独特的前体；以及干性属性是如何获得的。此外，干性是内在的还是可获得的、依赖龛的还是独立的，将大幅改变治疗策略。CSC 模型（认为 CSC 处于癌症发展、治疗抵抗和复发的源头）可能是真的，而靶向 CSC 的策略仍可能失败。的确，“干性”是何种属性，可能因癌症而异，甚至在同一癌症内随时间而变（Laplane and Solary 2019a; Laplane 2016）[^laplane-2016][^laplane-2019a]。
+    step2: |-
+      清楚的是，肿瘤里有些细胞群似乎有“干性”：能自我更新。不那么清楚的是，这些能力是不是看语境，它们又怎么获得、由哪些细胞获得。许多类型的癌细胞可塑性很强，提示它们可能获得干性表型，甚至再转回非干细胞表型。这样看来，CSC 只是一系列一般看法中的一种：有的认为只有特定类型的细胞才是癌症的前体，有的则承认许多不同类型的细胞都有潜力长出这类属性。也就是说，真正要问的是：引发肿瘤的细胞是不是有某种独特之处，是不是需要独特的前体；干性又怎么获得。而且，干性是内在的、还是可以后天获得的，是依赖龛的、还是独立的，会大大改变治疗策略。CSC 模型（认为 CSC 处在癌症发展、耐药和复发的源头）可能是对的，而靶向 CSC 的策略照样可能失败。的确，“干性”是哪一类属性，可能因癌症而异，甚至在同一癌症里随时间变（Laplane and Solary 2019a; Laplane 2016）[^laplane-2016][^laplane-2019a]。
   - id: 58
     kind: body
     source: |-
       In sum, there appear to remain several open questions about the nature of cancer stem cells, and more generally, how to best intervene upon cancer to successfully eradicate the disease. According to the model of the disease inherited from the latter third of the 20th Century, somatic mutations, acquired over a lifetime, to the acquisition of cancer’s “hallmarks.” So, the best strategy for intervention may be targeting specific pathways associated with these hallmarks. In contrast, according to the TOFT, changes in tissue organization yield carcinogenesis. Thus, the best strategy for intervention might be finding ways to intervene in the tissue microenvironment, so as to create an environment less hospitable to the growth of cancer cells. According to the cancer stem cell theory, cancer arises in cells that have distinctive properties: continuous renewal, and indefinite growth, permitting the emergence of new disease. On this view, eradicating these stem cells seems essential to cancer treatment. Philosophical work on cancer causation and explanation can better illuminate the competing presuppositions of different approaches, clarify their commitments, and offer insights into fruitful integration of new data. It is already clear that philosophical discussions of ambiguities in how we define and measure stemness is essential to understanding how best to prevent recurrence and treat the disease (Clevers 2016)[^clevers-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总之，关于癌症干细胞的本质、以及更一般地说如何最好地干预癌症以成功根除该疾病，似乎仍有若干未决问题。按照从二十世纪后三分之一继承下来的疾病模型，一生中获得的体细胞突变导致了癌症“标志性特征”的获得。所以，最好的干预策略也许是靶向与这些标志性特征相关的特定通路。相比之下，按照 TOFT，组织结构的变化导致癌变。因此，最好的干预策略也许是找到干预组织微环境的方法，从而营造一个不那么适合癌细胞生长的环境。按照癌症干细胞理论，癌症起源于具有独特属性的细胞：持续更新和无限生长，使新疾病得以出现。照这种看法，根除这些干细胞似乎是癌症治疗的关键。关于癌症因果和解释的哲学工作，可以更好地照亮不同进路的相互竞争的预设，澄清它们的承诺，并为新数据的富有成果的整合提供洞见。已经清楚的是，对我们如何定义和测量干性中的歧义进行哲学讨论，对于理解如何最好地预防复发和治疗该疾病至关重要（Clevers 2016）[^clevers-2016]。
+    step2: |-
+      总之，癌症干细胞究竟是什么、以及更一般地说怎样最好地干预癌症才能把病根除掉，似乎还有好几个问题没答案。按二十世纪后三分之一传下来的疾病模型，人一生中获得的体细胞突变带来了癌症“标志性特征”的获得。所以，最好的干预策略也许是打击与这些标志性特征相关的特定通路。相比之下，按 TOFT，组织结构的变化导致癌变。因此，最好的干预策略也许是设法干预组织微环境，营造一个不那么适合癌细胞生长的环境。按癌症干细胞理论，癌症起源于有独特属性的细胞：不断自我更新、无限生长，让新疾病冒出来。照这种看法，把这些干细胞根除掉，似乎是治癌的关键。关于癌症因果和解释的哲学工作，能更好地照亮不同进路各自暗中假定什么，澄清它们承诺了什么，并为新数据的有效整合提供洞见。已经清楚的是：对我们如何定义、如何测量干性中的歧义作哲学讨论，对于弄懂怎样最好地防复发、治病，必不可少（Clevers 2016）[^clevers-2016]。
   - id: 59
     kind: body
     source: |-
