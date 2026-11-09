@@ -315,57 +315,77 @@ segments:
     kind: body
     source: |-
       One issue arises from the fact that some research on stem cell-derived gametes requires the creation of embryos, regardless of whether one is using ESCs or iPSCs. To establish that a particular technique for deriving human gametes from stem cells produces functional sperm and eggs, it is necessary to demonstrate that the cells can produce an embryo. This entails the creation of embryos through in vitro fertilization. Since it would not be safe to implant embryos created during the early stages of the research, the likely disposition of the embryos is that they would be destroyed. In such instances, the research would implicate all of the moral issues surrounding the creation and destruction of embryos for research. However, the creation of embryos for research in this situation would not necessitate the destruction of the embryos, as it does when embryos are created to derive stem cell lines. One could in principle store them indefinitely rather than destroy them. This would still leave one subject to the objection that life is being created for instrumental purposes. But the force of the objection is questionable since it is not clear that this instrumental use is any more objectionable than the routine and widely accepted practice of creating excess IVF embryos in the reproductive context to increase the probability of generating a sufficient number of viable ones to produce a pregnancy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有一个问题源于如下事实：干细胞来源配子的某些研究要求创造胚胎，无论所用的是 ESC 还是 iPSC。要确立某种从干细胞获取人类配子的技术能产生有功能的精子与卵子，就必须证明这些细胞能产生胚胎。这就需要通过体外受精创造胚胎。由于植入研究早期阶段创造的胚胎并不安全，这些胚胎很可能被销毁。在此类情形下，研究会牵连到围绕为研究创造与销毁胚胎的全部道德问题。然而，在这种情形下为研究创造胚胎，并不像为获取干细胞系而创造胚胎那样必然要求销毁胚胎。人们在原则上可以无限期储存它们，而不销毁它们。这仍会让人受到如下反驳：生命正被为工具性目的而创造。但这一反驳的力量值得怀疑，因为并不清楚这种工具性使用是否比生殖语境中创造多余 IVF 胚胎这一常规且广为接受的做法更可反对——那种做法是为了提高产生足够数量可存活胚胎以实现妊娠的概率。
+    step2: |-
+      有个问题源于这一事实：干细胞来源配子的某些研究必须创造胚胎，用 ESC 还是 iPSC 都一样。要证明某种从干细胞获取人类配子的技术真能产出有功能的精子与卵子，就得证明这些细胞能造出胚胎。这就要通过体外受精创造胚胎。研究早期造出的胚胎不宜植入，因此它们多半会被销毁。这类研究于是牵连到为研究创造与销毁胚胎的全部道德问题。不过，此处为研究创造胚胎，并不像为获取干细胞系那样非销毁胚胎不可。原则上可以无限期储存而不销毁。即便如此，仍会有人反驳：这是在为工具性目的创造生命。这一反驳有多大力量，值得怀疑：它并不比生殖语境中“多造些 IVF 胚胎以提高得到足够可存活胚胎、实现妊娠的概率”这一常规且广被接受的做法更可反对。
   - id: 40
     kind: body
     source: |-
       Further issues emerge with the prospect of being able to produce large quantities of eggs from stem cells. As the capacity to identify disease and non-disease related alleles through preimplantation genetic diagnosis (PGD) expands, the ability to create large numbers of embryos would substantially increase the chances of finding an embryo that possesses most or all of the traits one wishes to select. This would be beneficial in preventing the birth of children with genetic diseases. But matters would become morally contentious if it were possible to select for non-disease characteristics, such as sexual orientation, height, superior intelligence, memory, and musical ability. One common argument against using PGD in this way is that it could devalue the lives of those who do not exhibit the chosen characteristics. Another concern is that employing PGD to select for non-disease traits would fail to acknowledge the “giftedness of life” by treating children as “objects of our design or products of our will or instruments of our ambition” rather accepting them as they are given to us (Sandel 2004, 56)[^sandel-2004]. There is additionally a concern about advances in genetics heightening inequalities where certain traits confer social and economic advantages and only the well-off have the resources to access the technology (Buchanan 1995)[^buchanan-1995]. Of course, one can question whether the selection of non-disease traits would in fact lead to devaluing other characteristics, whether it would alter the nature of parental love, or whether it is distinct enough from currently permitted methods of gaining social and economic advantage to justify regulating the practice. Nonetheless, the capacity to produce human stem cell-derived gametes would make these issues more pressing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果能够从干细胞大量生产卵子，还会出现进一步的问题。随着通过植入前遗传学诊断（PGD）识别疾病相关与非疾病相关等位基因的能力扩大，创造大量胚胎的能力会大大提高找到这样胚胎的机会：它拥有人们想要选择的多数或全部性状。这对防止遗传病患儿出生是有益的。但如果有可能选择非疾病特征，比如性取向、身高、超常智力、记忆力与音乐才能，事情就会在道德上引起争议。反对以这种方式使用 PGD 的一种常见论证是：这会贬低不具备所选特征者生命的价值。另一种担忧是：用 PGD 选择非疾病性状，会把人当成“我们设计的对象、我们意志的产物或我们野心的工具”，而不是按生命被给予我们的样子接受它，从而不承认“生命的馈赠性”（Sandel 2004, 56）[^sandel-2004]。此外还有一种担忧：遗传学的进步会加剧不平等，因为某些性状带来社会与经济优势，而只有富裕者才有资源获得这项技术（Buchanan 1995）[^buchanan-1995]。当然，人们可以质疑：选择非疾病性状是否真的会导致贬低其他特征？是否会改变父母之爱的性质？它与目前被允许的获取社会与经济优势的方法是否足够不同，从而有理由对这一做法加以管制？尽管如此，生产人类干细胞来源配子的能力会使这些问题更加紧迫。
+    step2: |-
+      若能由干细胞大量生产卵子，还会有进一步的问题。植入前遗传学诊断（PGD）识别疾病相关与非疾病相关等位基因的能力越强，造出大量胚胎的本事就越是能提高几率，让人找到那样的胚胎：它具备自己想要挑选的多数乃至全部性状。这对于防止遗传病患儿出生是有益的。但若可以选择非疾病特征——性取向、身高、超常智力、记忆力、音乐才能之类——事情在道德上就很有争议了。反对这样使用 PGD 的一种常见论证是：这会贬低那些不具备所选特征者生命的价值。另一种担忧是：用 PGD 挑非疾病性状，等于不承认“生命的馈赠性”，把孩子当成“我们设计的对象、我们意志的产物、我们野心的工具”，而不是照其被给予我们的样子接受（Sandel 2004, 56）[^sandel-2004]。还有一种担忧：遗传学的进步会加剧不平等——某些性状带来社会与经济优势，而只有富裕者有资源用上这项技术（Buchanan 1995）[^buchanan-1995]。当然，也可以反问：选择非疾病性状是否真会贬低其他特征？是否会改变父母之爱的性质？它与如今获准的谋取社会与经济优势的办法，是否真有足够区别，以至于该受管制？尽管如此，能生产人类干细胞来源配子，会让这些问题更加紧迫。
   - id: 41
     kind: body
     source: |-
       ## 5. Stem Cell-Derived Organoids, Gastruloids, and Synthetic Embryos
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 干细胞来源的类器官、类原肠胚与合成胚胎
+    step2: |-
+      ## 5 干细胞来源的类器官、类原肠胚与合成胚胎
   - id: 42
     kind: body
     source: |-
       There have been a number of recent scientific studies in which stem cells have, under certain *in vitro* culture conditions, self-organized into three-dimensional structures that resemble and recapitulate some of the functions of human organs (Lancaster & Knoblich 2014; Clevers 2016)[^clevers-2016][^lancaster-2014]. These “organoids” have been established with human stem cells for a variety of organs, including, among others, the kidney, liver, gut, pancreas, retina, and brain. In addition to organoids, stem cells have been shown to self-organize into embryo-like structures *in vitro*. Human embryonic stem cells have formed structures – referred to as “gastruloids” – that bear some resemblance to embryos during gastrulation, which is the stage several days after implantation where the body plan and some tissues tissue types, including the central nervous system, start to develop (Warmflash et al. 2014; Deglincerti *et al*. 2016; Shahbazi 2016)[^deglincerti-2016][^shahbazi-2016][^warmflash-2014]. Researchers have also combined mouse embryonic stem cells and trophoblast stem cells to create “synthetic embryos,” which have a structure akin to pre-implantation embryos (Rivron *et al*. 2018)[^rivron-2018]. Synthetic embryos have been shown to implant into the mouse uterus, though their potential to develop to term has not been demonstrated.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最近有多项科学研究显示，干细胞在特定的 *in vitro* 培养条件下会自组织成三维结构，这些结构类似并重现人体某些器官的部分功能（Lancaster & Knoblich 2014; Clevers 2016）[^clevers-2016][^lancaster-2014]。研究者已用人类干细胞为多种器官建立了这类“类器官”，其中包括肾、肝、肠、胰、视网膜与脑。除类器官之外，研究显示干细胞还能在 *in vitro* 自组织成类胚胎结构。人类胚胎干细胞形成了被称为“类原肠胚”的结构，它们与原肠胚形成期的胚胎有几分相似——原肠胚形成是植入后数天的一个阶段，此时体型蓝图与包括中枢神经系统在内的一些组织类型开始发育（Warmflash et al. 2014; Deglincerti *et al*. 2016; Shahbazi 2016）[^deglincerti-2016][^shahbazi-2016][^warmflash-2014]。研究者还把小鼠胚胎干细胞与滋养层干细胞结合起来，创造出“合成胚胎”，其结构类似于植入前胚胎（Rivron *et al*. 2018）[^rivron-2018]。合成胚胎已被证明能植入小鼠子宫，但它们发育至足月的潜能尚未得到证明。
+    step2: |-
+      近来有多项研究显示，干细胞在特定 *in vitro* 培养条件下会自组织成三维结构，形似人体某些器官，并能重现其部分功能（Lancaster & Knoblich 2014; Clevers 2016）[^clevers-2016][^lancaster-2014]。研究者已用人类干细胞培养出多种器官的“类器官”，包括肾、肝、肠、胰、视网膜与脑等。除类器官之外，干细胞还被证明能在 *in vitro* 自组织成类胚胎结构。人类胚胎干细胞形成了所谓“类原肠胚”，与原肠胚形成期的胚胎有几分相似：这个阶段在植入后数天，体型蓝图以及中枢神经系统等一些组织类型开始发育（Warmflash et al. 2014; Deglincerti *et al*. 2016; Shahbazi 2016）[^deglincerti-2016][^shahbazi-2016][^warmflash-2014]。研究者还把小鼠胚胎干细胞与滋养层干细胞结合，造出“合成胚胎”，结构近似植入前胚胎（Rivron *et al*. 2018）[^rivron-2018]。合成胚胎已被证明能植入小鼠子宫，但是否能发育至足月则尚未证明。
   - id: 43
     kind: body
     source: |-
       While these scientific advances offer promising avenues for better understanding human development and disease, they also raise some novel and challenging ethical issues. In the case of organoids, cerebral organoids raise the most vexing issues. Researchers have produced cerebral organoids with a degree of development similar to that of a few-months-old embryo, and have already used them to study how the Zika virus causes microcephaly in fetuses (Garcez *et al*. 2016). At present, there is some evidence that cerebral organoids may be able to receive afferent stimulations that produce simple sensations (Quadrato *et al*. 2017)[^quadrato-2017]. However, they currently lack the kind of mature neural networks and sensory inputs and outputs essential to the development of cognition. If, through bioengineering, human cerebral organoids were to develop the capacity for cognition, that would provide grounds for ascribing an elevated moral status to them, and it would raise concomitant issues about our moral obligations towards them. In the nearer term, it is more likely that cerebral organoids will develop some degree of consciousness Assuming we have a shared understanding of consciousness (e.g., phenomenal consciousness), one challenge is to identify means of measuring the presence of consciousness, since a cerebral organoid cannot communicate its internal states (Lavazza & Massimini 2018)[^lavazza-2018]. But even if we can verify that an organoid is conscious, there remains the question of the moral significance of consciousness (Shepherd 2018)[^shepherd-2018]. There is debate over whether consciousness has intrinsic value (Lee 2018)[^lee-2018], and whether in some cases it is better for a conscious being to not possess it (Kahane & Savulescu 2009)[^kahane-2009]. Those who reject the intrinsic value and moral significance of consciousness might find the case of a conscious entity that has led a solely disembodied existence, emerges and persists in the absence of any social or cultural nexus, and lacks beliefs and desires, to be a paradigmatic case where the value of consciousness is doubtful.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然这些科学进展为更好地理解人类发育与疾病提供了有希望的道路，它们也提出了若干新颖而富有挑战的伦理问题。就类器官而言，脑类器官提出的问题最为棘手。研究者已制造出发展程度类似于数月大胚胎的脑类器官，并已用它们研究寨卡病毒如何导致胎儿小头畸形（Garcez *et al*. 2016）。目前有一些证据表明，脑类器官可能能够接受产生简单感觉的传入刺激（Quadrato *et al*. 2017）[^quadrato-2017]。然而，它们目前缺乏认知发展所必需的那类成熟神经网络以及感觉输入与输出。如果通过生物工程，人类脑类器官发展出认知能力，那就会为赋予它们更高的道德地位提供根据，并会随之产生我们对它们的道德义务问题。在更近的将来，更可能的是脑类器官会发展出某种程度的意识。假定我们对意识（例如现象意识）有共同的理解，一个挑战就是找出测量意识是否存在的手段，因为脑类器官无法传达其内部状态（Lavazza & Massimini 2018）[^lavazza-2018]。但即使我们能验证某个类器官有意识，意识具有何种道德意义仍是问题（Shepherd 2018）[^shepherd-2018]。关于意识是否具有内在价值（Lee 2018）[^lee-2018]，以及在有些情况下一个有意识的存在者不具有意识是否更好（Kahane & Savulescu 2009）[^kahane-2009]，都存在争论。那些否认意识具有内在价值与道德意义的人，可能认为下面这种情形是意识价值可疑的典型例子：一个有意识的存在者只过着脱离肉体的生活，在没有任何社会或文化联系的情况下出现并持续存在，且缺乏信念与欲望。
+    step2: |-
+      这些科学进展为更好地理解人类发育与疾病开辟了有希望的道路，同时也提出了若干新颖而棘手的伦理问题。就类器官而言，最麻烦的是脑类器官。研究者造出的脑类器官，发育程度已接近数月大的胚胎，并已用来研究寨卡病毒如何导致胎儿小头畸形（Garcez *et al*. 2016）。目前有证据显示，脑类器官或许能接受传入刺激而产生简单感觉（Quadrato *et al*. 2017）[^quadrato-2017]。但它们眼下缺少认知发展所必需的那种成熟神经网络与感觉输入输出。假如通过生物工程，人类脑类器官发展出认知能力，那就可以为赋予它们更高道德地位提供根据，随之也带来我们对它们的道德义务问题。近期更可能出现的情形，是脑类器官发展出某种程度的意识。假定我们对意识（比如现象意识）有共同理解，难处之一就是找出测量意识有无的手段——脑类器官无法说出自己的内部状态（Lavazza & Massimini 2018）[^lavazza-2018]。可即便能验证某个类器官有意识，意识在道德上有何意义仍是个问题（Shepherd 2018）[^shepherd-2018]。意识是否具有内在价值（Lee 2018）[^lee-2018]、在某些情况下有意识的存在者没有意识是否更好（Kahane & Savulescu 2009）[^kahane-2009]，都有争论。否认意识具有内在价值与道德意义的人，也许会把这种情形当作意识价值可疑的典型：一个有意识的存在者只过着脱离肉体的生活，在毫无社会或文化联系的情况下出现并持续存在，而且没有信念与欲望。
   - id: 44
     kind: body
     source: |-
       With respect to gastruloids and synthetic embryos (if the latter are successfully produced with human stem cells), the central question is whether these entities are sufficiently like human embryos in their structure and functions to give rise to moral concerns about their use in research. Gastruloids do not possess all the characteristics of an embryo, as they do not form all of the embryonic tissues (e.g., they do not have the trophectoderm, which mediates the attachment to the uterus). At the same time, gastruloids may, with extra-embryonic tissues, achieve a developmental stage in which they manifest a whole body plan. Recall that one argument (discussed in Section 1.1 above) for rejecting that human embryos are human beings is that the cells that comprise the early embryo do not function in a coordinated way to regulate and preserve a single organism. Gastruloids can in principle operate with this higher level of coordination. While one may still reject that this characteristic of gastruloids confers human rights on them, their more advanced stage of development might ground reasonable claims for according them greater respect than embryos at an earlier stage. In the case of both gastruloids and human synthetic embryos, the possibility that they ultimately lack the potential to develop into mature human beings may be of significance in morally distinguishing them from normal human embryos. As noted previously (in section 1.2 above), one argument for ascribing a high moral status to human embryos and for distinguishing the potential of human embryos from the potential of somatic cells and embryonic stem cells is that embryos have an “active disposition” and “intrinsic power” to develop into mature humans on their own. If synthetic embryos and gastruloids do not possess this disposition and power, then those who oppose some forms of human embryo research might not object to the creation and use of human gastruloids and synthetic embryos for research.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就类原肠胚与合成胚胎而言（如果后者已用人类干细胞成功制造），核心问题是：这些实体在结构与功能上与人类胚胎是否足够相似，从而引发对其研究用途的道德关切。类原肠胚并不具备胚胎的全部特征，因为它们并不形成全部胚胎组织（例如它们没有介导与子宫附着的滋养外胚层）。同时，类原肠胚若有胚外组织，可能达到表现出完整体型蓝图的发育阶段。回顾一下，反对“人类胚胎是人”的一条论证（上文 1.1 节讨论过）是：构成早期胚胎的细胞并未以协调的方式运作以调节并维持单一有机体。类原肠胚原则上能以这种更高水平的协调运作。虽然人们仍可否认类原肠胚的这一特征赋予它们人权，但它们更发达的发育阶段或许为如下合理主张提供根据：应给予它们比早期阶段胚胎更多的尊重。就类原肠胚与人类合成胚胎而言，它们最终可能缺乏发育为成熟的人的潜能，这一点在道德上把它们与正常人类胚胎区分开来时或许有意义。如前所述（上文 1.2 节），赋予人类胚胎高道德地位、并把人类胚胎的潜能与体细胞及胚胎干细胞的潜能区分开来的一条论证是：胚胎有自行发育为成熟的人的“主动倾向”与“内在力量”。如果合成胚胎与类原肠胚不具备这种倾向与力量，那么反对某些形式人类胚胎研究的人，可能就不反对为研究创造与使用人类类原肠胚与合成胚胎。
+    step2: |-
+      至于类原肠胚与合成胚胎（假如合成胚胎已用人类干细胞造出），核心问题是：这些实体在结构与功能上与人类胚胎像到什么程度，才足以引起对其研究用途的道德关切。类原肠胚并不具备胚胎的全部特征，它们不形成全部胚胎组织（比如没有介导与子宫附着的滋养外胚层）。但同时，类原肠胚加上胚外组织，可能达到表现出完整体型蓝图的发育阶段。还记得上文 1.1 节那条反对“人类胚胎是人”的论证：构成早期胚胎的细胞并不协同运作去调节、维持单一有机体。类原肠胚原则上可以达到这种更高的协调水平。人们仍可否认这一特征赋予它们人权，但它们发育得更靠前，这或许足以支持一个合理主张：应给它们比早期胚胎更多的尊重。对类原肠胚与人类合成胚胎来说，它们最终可能不具备发育为成熟的人的潜能——这一点在道德上把它们与正常人类胚胎区分开来时，或许有用。如上文 1.2 节所述，赋予人类胚胎高道德地位、并把胚胎的潜能与体细胞、胚胎干细胞的潜能区别开来的一条论证是：胚胎有自行发育为成熟的人的“主动倾向”与“内在力量”。若合成胚胎与类原肠胚没有这种倾向与力量，反对某些人类胚胎研究的人或许就不会反对为研究而创造、使用人类类原肠胚与合成胚胎。
   - id: 45
     kind: oir
     source: |-
       ### Cited Resources
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 引用资源
+    step2: |-
+      ### 引用资源
   - id: 46
     kind: oir
     source: |-
       - President’s Council on Bioethics, 2002, [Human Cloning and Human Dignity: An Ethical Inquiry](http://bioethics.georgetown.edu/pcbe/reports/cloningreport/)
       - U.S. Conference of Catholic Bishops, 2001, [Fact Sheet: President Bush’s Stem Cell Decision](http://web.archive.org/web/20020616170740/http://www.nccbuscc.org/prolife/issues/bioethic/fact801.htm)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 总统生物伦理委员会，2002，[人类克隆与人的尊严：一项伦理探究](http://bioethics.georgetown.edu/pcbe/reports/cloningreport/)
+      - 美国天主教主教团，2001，[情况说明：布什总统的干细胞决定](http://web.archive.org/web/20020616170740/http://www.nccbuscc.org/prolife/issues/bioethic/fact801.htm)
+    step2: |-
+      - 总统生物伦理委员会，2002，[人类克隆与人的尊严：一项伦理探究](http://bioethics.georgetown.edu/pcbe/reports/cloningreport/)
+      - 美国天主教主教团，2001，[情况说明：布什总统的干细胞决定](http://web.archive.org/web/20020616170740/http://www.nccbuscc.org/prolife/issues/bioethic/fact801.htm)
   - id: 47
     kind: oir
     source: |-
       ### Other Resources
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 其他资源
+    step2: |-
+      ### 其他资源
   - id: 48
     kind: oir
     source: |-
@@ -375,5 +395,17 @@ segments:
       - [Medline Plus: Stem Cells](http://www.nlm.nih.gov/medlineplus/stemcells.html)
       - [The Pew Forum on Religion and Public Life: Bioethics](http://www.pewforum.org/topics/bioethics/)
       - [The Hinxton Group: An International Consortium on Stem Cell, Ethics, and Law](http://www.hinxtongroup.org/)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [国际干细胞研究学会](http://www.isscr.org/)
+      - [干细胞资源](http://www.aaas.org/news/stem-cell-resources)，来自美国科学促进会
+      - [干细胞研究与应用](http://www.aaas.org/sites/default/files/content_files/Stem%20Cell%20Research%20and%20Applications%20Report.pdf)：美国科学促进会与公民社会研究所的建议与结论。
+      - [Medline Plus：干细胞](http://www.nlm.nih.gov/medlineplus/stemcells.html)
+      - [皮尤宗教与公共生活论坛：生命伦理学](http://www.pewforum.org/topics/bioethics/)
+      - [欣克斯顿小组：干细胞、伦理与法律的国际联合会](http://www.hinxtongroup.org/)
+    step2: |-
+      - [国际干细胞研究学会](http://www.isscr.org/)
+      - [干细胞资源](http://www.aaas.org/news/stem-cell-resources)，来自美国科学促进会
+      - [干细胞研究与应用](http://www.aaas.org/sites/default/files/content_files/Stem%20Cell%20Research%20and%20Applications%20Report.pdf)：美国科学促进会与公民社会研究所的建议与结论。
+      - [Medline Plus：干细胞](http://www.nlm.nih.gov/medlineplus/stemcells.html)
+      - [皮尤宗教与公共生活论坛：生命伦理学](http://www.pewforum.org/topics/bioethics/)
+      - [欣克斯顿小组：干细胞、伦理与法律的国际联合会](http://www.hinxtongroup.org/)
