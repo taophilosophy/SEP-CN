@@ -2,7 +2,7 @@
   "slug": "langer",
   "kind": "retranslate",
   "zh_doc": "l/langer.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "L-main-20261109",
       "at": "2026-11-08T17:05:28Z",
       "evidence": "源文对照复审：脚注 refs 216=216 逐键零差异、defs 257 键集与源一致且无重复定义（未引用 defs 为源文书目转换既有形态，转换注记已照录）、引块 10=10、节数 18=18；语义抽查 20 段（覆盖全部 6 节）无误译漏译；数字差异 6 类定性；初译 actor 为前会话，本审独立（ISO 17100）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:03:48Z",
+      "evidence": "逐句回核：术语（符号形式/虚拟现实/生命意蕴/主导形式/主导幻象/记法相对性）零漂移；脚注 257 键闭环、文内引用全等；prose 4 项复核均在引文块与朗格原话枚举内（第 27/97/155 行），按 ADR-0020 豁免留痕；check_terms 硬错误 0；复核独立于初译 actor（前会话）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:03:49Z",
+      "evidence": "冷置后回读（中间隔 logic-fuzzy、logic-relevance 全周期）；结构 10 h2/7 h3 与源相等、脚注 257=257、$ 8=8；H1 与 SUMMARY 一致；四检：style 0、math 缺失 0、academic --strict 0、prose 4 豁免留痕"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:03:49Z",
+      "evidence": "r1 前会话已过，r2–r3 本会话独立复核通过；验收判据全过"
     }
   ],
   "blockers": [],

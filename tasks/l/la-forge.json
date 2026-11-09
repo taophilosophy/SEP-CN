@@ -2,7 +2,7 @@
   "slug": "la-forge",
   "kind": "retranslate",
   "zh_doc": "l/la-forge.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "L-main-20261109b",
       "at": "2026-11-09T00:04:41Z",
       "evidence": "术语 14 行、人名 8 行登记（reg_tool 入库，ren-ming-biao/yi-zhe-shuo-ming 来源列含 la-forge）；check_terms 硬错误 0（冲突 0 自洽 0）、词汇表滞后 0；check_style 0 issue；check_academic --strict 0；check_math 0 缺失 0 未闭合；致谢现代学者按体例保留英文"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:06:23Z",
+      "evidence": "对照源文逐节核销：编号节 8 全序、尾节齐备、脚注 39 键闭环、引块 23 处全译；问题分级 Critical 0/Major 0/Minor 0（prose 10 项经逐行复核全在引文块，第 57/65/105/111/119/127/141/155 行，ADR-0020 豁免留痕）；复核独立于初译 actor"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:08:17Z",
+      "evidence": "逐句回核：术语（实体二元论/偶因论/动物精气/共同感官/持续创造/神圣协同）零漂移；人名与年份（1632/1650/1664/1665/1666）逐处核对；check_prose 10 项均引文块豁免、check_terms 硬错误 0；指代显化与欧化句复核无新改"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:08:18Z",
+      "evidence": "冷置后回读（中间隔 langer 复核周期）；结构 8 编号节、脚注 39=39、$ 0、引块对位；H1 与 SUMMARY 一致；四检：style 0、math 缺失 0、academic --strict 0、prose 10 豁免留痕"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:08:18Z",
+      "evidence": "r1–r3 全过，复核独立于初译 actor；验收判据全过"
     }
   ],
   "blockers": [],

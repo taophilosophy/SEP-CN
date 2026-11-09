@@ -2,7 +2,7 @@
   "slug": "logic-hybrid",
   "kind": "retranslate",
   "zh_doc": "l/logic-hybrid.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "L-main-20261109b",
       "at": "2026-11-09T05:29:44Z",
       "evidence": "术语 20 行登记（混合逻辑、名项、满足算子、满足陈述、约束子、标准翻译、有界片段、纯公式、表列系统、Gentzen 序列、插值、全称模态、语境有效性、多值混合逻辑、可及关系、框架、有效性、非自反性、正统证明规则、Henkin 式）；check_terms 硬错误 0（冲突 0 自洽 0）、词汇表滞后 0；check_style 0；check_academic --strict 0；check_math 265 式 0 缺失；OIR 列表符号统一为 *"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:10:05Z",
+      "evidence": "对照源文逐节核销：编号节 12 全序、脚注 80 键闭环、$ 计数 542=542、defs 80=80、公式 265 条无缺失；问题分级 Critical 0/Major 0/Minor 0；复核独立于初译 actor"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:10:05Z",
+      "evidence": "逐句回核：术语（名项/满足算子/满足陈述/混合逻辑）零漂移；人名年份（2006/2021、Prior 1960 年代）核对；check_prose 0 告警、check_terms 硬错误 0；LaTeX 与 \\mathtt 记号逐块复核未动"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:10:06Z",
+      "evidence": "冷置后回读（中间隔 la-forge 复核周期）；结构 12 h2、脚注 80=80、$ 542=542；H1 与 SUMMARY 一致；四检全绿：style 0、prose 0、math 缺失 0、academic --strict 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T11:10:06Z",
+      "evidence": "r1–r3 全过，复核独立于初译 actor；验收判据全过"
     }
   ],
   "blockers": [],
