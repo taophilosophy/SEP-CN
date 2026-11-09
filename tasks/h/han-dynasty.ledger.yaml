@@ -11,404 +11,538 @@ segments:
     kind: body
     source: |-
       Philosophy in early China underwent a major transformation after the beginning of empire in the late third century BCE. These were the years of the Han Dynasty, in its two parts, the Western Han (206 BCE–9 CE) and Eastern Han (25–220 CE). Some of the main trends, ideas, and thinkers of the more than 400 years of the Han period are discussed in this article. Some of the particularly prominent features of Han philosophy in comparison with that of earlier periods are: increased focus on metaphysics , the prominence of syncretism, new views on language, the rise of naturalism, and debates about methodology. In addition, many of the ideas we associate with Pre-Qin philosophy were developed most fully in the Han. Retrospective interpretation in later years, including during the Han itself, led to our association of some of these ideas with earlier texts and traditions. Many of the “early”, pre-Han Chinese texts were actually compiled or created during the Han (see Hunter 2018; Klein 2010)[^hunter-2018][^klein-2010]. Even the “school” categories that we often use to classify texts and thinkers from periods prior to the Han, such as “Confucianism” (*rujia* 儒家), “Daoism” (*daojia* 道家), Legalism (*fajia* 法家), and so on, were actually Han period creations. It is no exaggeration to say that the Chinese philosophical tradition was founded *as such* during the Han.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早期中国哲学在公元前三世纪末帝国建立之后经历了重大转变。这些岁月属于汉代，它分为两部分：西汉（公元前 206–9 年）与东汉（25–220 年）。本文讨论汉代四百多年间的一些主要趋势、观念与思想家。与更早时期相比，汉代哲学尤其显著的几个特征是：对形而上学的关注增加，折中主义的突出，关于语言的新观点，自然主义的兴起，以及围绕方法论的争论。此外，我们常与先秦哲学相联系的许多观念，其实是在汉代才得到最充分发展的。后来的追溯性解释，包括汉代本身的解释，使我们把其中某些观念与更早的文本和传统联系了起来。许多“早期”的、汉代以前的中国文本，实际上是在汉代编纂或创作出来的（见 Hunter 2018; Klein 2010）[^hunter-2018][^klein-2010]。甚至我们常用来给汉代以前的文本和思想家分类的“学派”范畴，如“儒家”（*rujia* 儒家）、“道家”（*daojia* 道家）、“法家”（*fajia* 法家）等等，实际上都是汉代人的创造。毫不夸张地说，中国哲学传统正是在汉代才*作为这样一种传统*被创立起来的。
+    step2: |-
+      早期中国哲学在公元前三世纪末帝国建立后经历了一场重大转变：这就是汉代的岁月。汉朝分两段——西汉（公元前 206–9 年）与东汉（25–220 年）。本文讨论汉代四百多年间的主要趋势、观念与思想家。与更早的时期相比，汉代哲学有几个特征格外突出：对形而上学的关注增强、折中主义盛行、关于语言的新观点涌现、自然主义兴起，以及围绕方法论的争论。此外，我们习惯归给先秦哲学的许多观念，其实要到汉代才发展得最充分。在后世的追溯性解释中——包括汉代人自己的解释——这些观念才逐渐与更早的文本和传统挂上了钩。不少“早期”的、汉代以前的中国文本，实际上是在汉代编纂或写定的（见 Hunter 2018; Klein 2010）[^hunter-2018][^klein-2010]。就连我们给汉代以前的文本和思想家分类时常用的“学派”范畴——“儒家”（*rujia* 儒家）、“道家”（*daojia* 道家）、“法家”（*fajia* 法家）等——也是汉代人的创造。毫不夸张地说，中国哲学传统正是在汉代才 **作为一种传统本身** 被创立起来的。
   - id: 2
     kind: body
     source: |-
       ## 1. Background
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 背景
+    step2: |-
+      ## 1 背景
   - id: 3
     kind: body
     source: |-
       Much of the most prominent philosophy in the Han period in China was closely associated with the state. Philosophical discussions and texts were commissioned by state or imperial representatives and organizations, to help resolve problems or guide political action. By the Han, there had long been a tradition of philosophy associated with advisors to the state. Many of the most well-known philosophers in earlier periods had been political advisors, with some notable exceptions such as the “Dao-tradition” figures represented in texts such as the late Warring States Period (475–221 BCE) text *Zhuangzi*. While prior to the Han, we find a variety of philosophical “schools” associated with different states and individuals (as there was no imperial structure), many (but not all) of the surviving philosophical texts from the Han are associated in some way with the Han state. Some well-known examples of philosophy closely linked to Han imperial concerns and issues are the treatises of the early Han advisors Lu Jia (240–170 BCE) and Jia Yi (200–169 BCE), the *Huainanzi*, commissioned by Liu An (179–122 BCE), the vassal ruler of the Huainan state and uncle of Emperor Wu of Han (156–87 BCE), the *Yantielun* (“Salt and Iron Discourses”), the account by Huan Kuan of a series of discussions organized by Emperor Zhao of Han concerning state production of goods, and the *Baihutong*, recounting a similar group of imperially sanctioned discussions. It is not quite right, however, to say that in the Han, philosophy becomes the purview of the state. Religion, divination, medicine, and other areas of thought all contained a great deal of philosophical content. And as we will see, philosophical discussions in the later part of the Han were increasingly independent of the state.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      汉代中国最显赫的哲学，很大一部分与国家密切相关。哲学讨论与文本由国家或帝国的代表和组织委托，以帮助解决问题或指导政治行动。到汉代时，与国家顾问相关的哲学传统早已长期存在。更早时期许多最著名的哲学家都曾是政治顾问，也有一些显著的例外，如晚周（公元前 475–221 年）文本《庄子》所代表的“道传统”人物。虽然在汉代以前，我们看到各种与不同国家和个人相关的哲学“学派”（因为当时没有帝国结构），但汉代留存下来的哲学文本中，许多（但并非全部）都以某种方式与汉朝国家相关。与汉帝国关切和问题密切相关的哲学，有一些著名例子：早期汉朝顾问陆贾（公元前 240–170 年）与贾谊（公元前 200–169 年）的论著；由淮南国诸侯王、汉武帝（公元前 156–87 年）的叔父刘安（公元前 179–122 年）委托编纂的《淮南子》；桓宽记录汉昭帝围绕国家商品生产所组织的一系列讨论的《盐铁论》；以及记述另一组类似由朝廷批准之讨论的《白虎通》。然而，说汉代哲学成为国家的专属领域并不完全正确。宗教、占卜、医学及其他思想领域都包含大量哲学内容。而且我们将会看到，汉代后期的哲学讨论越来越独立于国家。
+    step2: |-
+      汉代中国最显赫的哲学，大多与国家密切相关。国家或皇室的代表与机构会委托撰写哲学讨论和文本，用来解决现实问题或指导政治行动。到了汉代，与治国顾问联系在一起的哲学传统已存在很长时间。更早时期许多最著名的哲学家本身就是政治顾问；当然也有显著的例外，比如晚周（公元前 475–221 年）文本《庄子》所代表的那批“道传统”人物。汉代以前没有帝国结构，哲学“学派”林立，各与不同的国家和个人相关；相比之下，汉代留存下来的哲学文本中，许多（并非全部）都以某种方式与汉朝国家相关。这方面著名的例子有：汉初顾问陆贾（公元前 240–170 年）与贾谊（公元前 200–169 年）的论著；淮南国诸侯王、汉武帝（公元前 156–87 年）的叔父刘安（公元前 179–122 年）主持编纂的《淮南子》；桓宽记录的《盐铁论》——汉昭帝就国家经营商品生产组织了一系列讨论，此书即为记录；以及《白虎通》——记述了另一组同样经朝廷认可的讨论。不过，若说哲学在汉代成了国家的专属领域，并不完全准确。宗教、占卜、医学以及其他思想领域，都含有大量哲学内容。下文将会看到，汉代后期的哲学讨论越来越独立于国家。
   - id: 4
     kind: body
     source: |-
       In the Han we also find the origins of the commentarial tradition on philosophical texts. There was already an established commentarial tradition by the time of the Han on the historical and ritual texts known as the *Five Classics*. The commentarial tradition on the ancient historical text *Chunqiu*, in particular, became central in the early Han. A new commentarial tradition developed in the Han, however, connected to philosophical texts such as the *Analects*, *Daodejing*, *Zhuangzi*, and others. The commentarial tradition surrounding these texts became a major source of philosophical development throughout the rest of the history of philosophy in China (see Makeham 2003)[^makeham-2003].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们也在汉代看到哲学文本注疏传统的起源。到汉代时，对被称为《五经》的历史与礼仪文本，已经存在一套成熟的注疏传统。尤其是对古代史书《春秋》的注疏传统，在汉初成为核心。不过，汉代还发展出新的注疏传统，与《论语》《道德经》《庄子》等哲学文本相联系。围绕这些文本的注疏传统，成为此后中国哲学史中哲学发展的主要来源（见 Makeham 2003）[^makeham-2003]。
+    step2: |-
+      哲学文本的注疏传统，也可以追溯到汉代。到汉代时，围绕被称为《五经》的史书与礼书，注疏传统已经相当成熟；其中对古代史书《春秋》的注疏，在汉初更成为显学。与此同时，汉代又发展出新的注疏传统，所注的是《论语》《道德经》《庄子》等哲学文本。围绕这些文本形成的注疏传统，此后一直是中国哲学发展的主要源泉之一（见 Makeham 2003）[^makeham-2003]。
   - id: 5
     kind: body
     source: |-
       An additional important feature of Han philosophy is what we might call the “naturalistic shift”. Scientific developments in the Han, particularly in astronomy and medicine, linked philosophical concerns to those of areas that were newly developing at the time and more empirical in nature (see entries on Chinese philosophy and Chinese medicine and on science and Chinese philosophy).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      汉代哲学另一个重要特征，是我们可称之为“自然主义转向”的东西。汉代科学的发展，尤其在天文学和医学领域，把哲学关切与当时新兴的、性质上更重经验的领域联系了起来（参见“中国哲学与中医”以及“中国哲学与科学”两词条）。
+    step2: |-
+      汉代哲学还有一个重要特征，不妨称为“自然主义转向”。汉代科学的发展——尤其在天文学和医学领域——把哲学关切与当时新兴的几个更重经验的领域联系了起来（参见“中国哲学与中医”与“中国哲学与科学”两词条）。
   - id: 6
     kind: body
     source: |-
       ## 2. Western Han (202 BCE–9 CE)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 西汉（公元前 202–9 年）
+    step2: |-
+      ## 2 西汉（公元前 202–9 年）
   - id: 7
     kind: body
     source: |-
       ### 2.1 Political Thought: Lu Jia and Jia Yi
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 政治思想：陆贾与贾谊
+    step2: |-
+      ### 2.1 政治思想：陆贾与贾谊
   - id: 8
     kind: body
     source: |-
       Political philosophy was central to the Han Dynasty from its very beginning. In the *Han Shu* (Book of the Han), we read that the first Han emperor, Gaozu (formerly Liu Bang, 256–195 BCE), commissioned a number of scholars to construct texts on subjects valuable for the operation of empire. Lu Jia (d. 170 BCE), one of Gaozu’s ministers, wrote the *Xinyu* (“New Discussions”), the earliest extant treatise on political philosophy and practical government of the Han period. The organization of the text follows a pattern that would become common in political texts throughout the period and into later Chinese history. It begins with theoretical foundations discussing the connection of political concerns to broader metaphysical concerns, then expands on this to show how the practical application of political ideas follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      政治哲学从汉代一开始就居于中心。在《汉书》中我们读到，汉朝第一位皇帝高祖（原名刘邦，公元前 256–195 年）委托若干学者撰写对帝国运作有价值的主题的文本。高祖的臣子之一陆贾（卒于公元前 170 年）写了《新语》，这是汉代现存最早的一部讨论政治哲学与实践治理的论著。该书的组织结构遵循一种此后在整个时期乃至中国后世政治文本中变得常见的模式：先讨论理论基础，说明政治关切与更广泛的形而上学关切如何相连；再展开论述，展示政治观念的实际应用如何随之而来。
+    step2: |-
+      汉代的政治哲学从一开始就居于中心地位。《汉书》记载，汉朝开国皇帝高祖（原名刘邦，公元前 256–195 年）曾命一批学者撰文，讨论对帝国运作有实际价值的题目。高祖的臣子之一陆贾（卒于公元前 170 年）著有《新语》，这是汉代现存最早的一部政治哲学与实践治国论著。全书的编排开了此后汉代乃至整个中国政治文本的常见格局：先立理论基础，说明政治关切如何与更广阔的形而上学关切相连；再由此展开，交代政治观念的实际应用。
   - id: 9
     kind: body
     source: |-
       The first chapter of the *Xinyu* discusses the foundation of the political project (and the human project more generally) in nature, or “heaven” (*tian* 天), borrowing a well-known and contentious concept from earlier Chinese philosophical discourse. The *dao* 道 (way) of proper action and governance here is associated with understanding the patterns (*li* 理) of heaven and earth. Lu Jia offers a “realist” conception of political and ethical principles (which early Chinese thinkers see as continuous for the most part). These principles are based in the mind-independent world, rather than dependent on human construction. Of course, the distinction between mind and world is not heavily stressed in early China. Although early Chinese philosophers did draw a distinction between mind and body (Slingerland 2019; McLeod 2021)[^mcleod-2021][^slingerland-2019], we do not find the strong distinction between mind-dependence and independence that ground conceptions of antirealism and realism in contemporary Western philosophical discourse. The construction of *dao* (as political and ethical principles) is dependent on the nature of the world, including facts about patterns (*li*) as they exist within and determine human activity. Both “mind” and “world”, that is, are responsible for the *dao*. This is expressed in the *Xinyu* as a matter of the ancient sages’ expression of what they discern in the cosmos/heaven (*tian*). Lu Jia gives us a succinct explanation of this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《新语》第一章讨论政治规划（以及更一般的人之规划）在自然或“天”（*tian* 天）中的基础，借用了早期中国哲学话语中一个著名而有争议的概念。此处，正当行动与治理的“道”（*dao* 道）与对天地的“理”（*li* 理）的理解相关联。陆贾提出了一种关于政治与伦理原则的“实在论”构想（早期中国思想家大体上把二者视为连续统一的）。这些原则基于独立于心灵的世界，而不是依赖于人的建构。当然，在早期中国，心灵与世界的区分并没有被着重强调。尽管早期中国哲学家确实区分了心与身（Slingerland 2019; McLeod 2021）[^mcleod-2021][^slingerland-2019]，但当代西方哲学话语中那种支撑反实在论与实在论构想的、心灵依赖与心灵独立的强区分，我们在这里找不到。道的建构（作为政治与伦理原则）取决于世界的性质，包括理（*li* 理）作为既存在于人的活动之中、又规定着人的活动的事实。也就是说，“心”与“世界”共同对道负责。《新语》把这一点表述为古代圣人对其在宇宙/天（*tian* 天）中所察见之物的表达。陆贾给出了一个简明的说明：
+    step2: |-
+      《新语》首章讨论政治事业（乃至更广义的人之事业）在自然或“天”（*tian* 天）中的根据，借用了早期中国哲学话语中一个著名而有争议的概念。在此，正当行动与治理的“道”（*dao* 道），系于对天地的“理”（*li* 理）的理解。陆贾对政治与伦理原则提出了一种“实在论”构想——早期中国思想家大体上都把二者视为连续的一体。这些原则立足于独立于心灵的世界，而非人的建构。当然，早期中国并未着重强调心灵与世界的区分。早期中国哲学家确实区分了心与身（Slingerland 2019; McLeod 2021）[^mcleod-2021][^slingerland-2019]，但当代西方哲学中支撑实在论与反实在论的那种“心灵依赖/心灵独立”的强区分，在这里是找不到的。道作为政治与伦理原则，其建构取决于世界的性质，包括理的存在方式：理既存在于人的活动之中，又规定着人的活动。换言之，“心”与“世界”共同成就了道。《新语》把这层意思表述为：古代圣人把自己在宇宙/天（*tian* 天）中察见的东西表达出来。陆贾有一段简明的说明：
   - id: 10
     kind: body
     source: |-
       > In order to determine the Way (*dao*) of human beings, the first sage looked up to observe Heaven’s pattern, looked down to examine the configuration of the ground, and then delineated the hexagrams Qian and Kun. The people began to become aware, understood the affection between father and son, right conduct between ruler and minister, separation between men and women, and proper order of senior and junior. Thereupon the numerous offices were established and the Kingly Way was born. (*Xinyu* 1.6, Goldin and Sabattini [trans] 2020: 23)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 为了确定人之道（*dao* 道），先圣仰观天象，俯察地理，然后画定乾、坤二卦。民众开始有所觉知，懂得了父子之亲、君臣之义、男女之别、长幼之序。于是百官建立，王道由此而生。（《新语》1.6，Goldin 与 Sabattini 译，2020：23）
+    step2: |-
+      > 为了确定人之道（*dao* 道），先圣仰观天象，俯察地理，而后画定乾、坤二卦。百姓由此开始觉醒，懂得了父子之间的亲情、君臣之间的正当举止、男女之间的分别，以及长幼之间的恰当次序。于是各种官职设立起来，王道由此诞生。（《新语》1.6，Goldin 与 Sabattini 译，2020：23）
   - id: 11
     kind: body
     source: |-
       After this initial establishment of the Way based on understanding the patterns inherent in the world and human nature, more conventional norms still proved necessary. All of the particular manifestations of culture were then created by various sages, including the well-known Confucian concepts *li* 禮 (ritual) and *yi* 義 (appropriateness). The first stage of construction of the Way required the coordination of the sage and the patterns of the world—the sage had to make known and usable these patterns. After this, a more “antirealist” conception was offered—more conventional moral and political norms still had to be created from this more basic and abstract conception of the Way. The sages thus established ritual (*li* 禮) and appropriateness (*yi* 義). Through the sages’ construction of institutions and social systems, as well as their moral and political instruction, they helped people to follow the Way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在道的这一初步确立——以理解世界与人性中固有的理为基础——之后，更为约定性的规范仍然被证明是必要的。文化的各种具体表现形式，随后由不同的圣人创造出来，其中包括著名的儒家概念礼（*li* 禮）与义（*yi* 義）。道之建构的第一阶段，需要圣人与世界之理相互配合：圣人必须让这些理为人所知、可用。在此之后，一种更“反实在论”的构想被提出来：更为约定性的道德与政治规范，仍须从这个更基本、更抽象的道概念中创造出来。于是圣人确立了礼（*li* 禮）与义（*yi* 義）。通过圣人建制立制、构建社会系统，以及他们的道德与政治教化，他们帮助人们遵循道。
+    step2: |-
+      道的最初确立，靠的是理解世界与人性中固有的理；但在此之后，更具约定性的规范仍然不可或缺。文化的各种具体形态，随后由不同的圣人创造出来，其中包括著名的儒家概念礼（*li* 禮）与义（*yi* 義）。道之建构的第一阶段，要求圣人与世界之理相互配合——圣人必须让这些理为人所知、为人所用。此后则出现了更“反实在论”的一面：更具约定性的道德与政治规范，仍须从这个更基本、更抽象的道概念中创造出来。于是圣人确立了礼与义。圣人通过创建制度与社会系统、通过道德与政治教化，帮助人们遵循道。
   - id: 12
     kind: body
     source: |-
       Lu Jia did not treat ethics and politics as distinct from one another or from human culture (*wen* 文) more generally. The human *dao* includes elements we might distinguish as political, ethical, aesthetic, etc. Thus, music and dress are discussed in terms of “proper” and “improper”, alongside considerations of respect for elders and superiors, and other principles that we would consider political and ethical. Neglect of one of them would inevitably lead to decay in the others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      陆贾并不把伦理与政治看作彼此分离，也不把它们与更一般意义上的人文（*wen* 文）分开。人之道包含我们可能区分为政治、伦理、审美等的各种元素。因此，音乐与服饰也以“当”与“不当”来讨论，与敬重长者与尊上的考虑，以及其他我们会视为政治与伦理的原则并列。忽视其中一项，必然导致其他各项衰败。
+    step2: |-
+      在陆贾那里，伦理与政治并不彼此分离，也没有同更广义的人文（*wen* 文）分开。人之道包含我们如今会分别称作政治、伦理、审美等的各种成分。所以，音乐与服饰也要论“当”与“不当”，与敬重长上、尊卑有序之类的考虑并列，而这些在我们看来属于政治与伦理原则。其中任何一项被忽视，其余各项都势必随之败坏。
   - id: 13
     kind: body
     source: |-
       Following the example or direction of the sage is continually necessary because of the human tendency to diverge from the *dao*, according to Lu Jia (*Xinyu* 1). Seemingly influenced by the *Xunzi* and legalist texts such as *Hanfeizi* and *Shangjunshu*, Lu Jia held that having the right structure between ruler and ministers was key to maintaining order of the state and moral action. Most importantly, the ministers who serve under a ruler must be morally upright. The ideal ruler, following earlier Daoist and Confucian ideas, should be “non-active” (*wu wei* 無為), employing the right people with the proper motivations and abilities, to ensure the commitment of the rest of society to moral activity. The ministers work in this way as exemplars and influences on those below in society.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      陆贾认为，由于人倾向于背离道，不断效法或遵循圣人的榜样是必要的（《新语》1）。陆贾似乎受到《荀子》以及《韩非子》《商君书》等法家文本的影响，主张君臣之间有恰当的结构，是维持国家秩序与道德行为的关键。最重要的是，在君主之下任职的臣子必须道德端正。理想的君主依照早期道家与儒家的观念，应当“无为”（*wu wei* 無為），任用动机与能力都恰当的人，以确保社会其余成员投入道德活动。臣子则以此方式成为榜样，影响社会地位更低的人。
+    step2: |-
+      陆贾认为，人天生容易偏离道，所以始终需要效法圣人的榜样、依循圣人的引导（《新语》1）。他大概受了《荀子》以及《韩非子》《商君书》等法家文本的影响，认定君臣之间结构得当，是维持国家秩序与道德行为的关键。其中最重要的，是君主手下的臣子必须品行端正。依照早期道家与儒家的观念，理想的君主应当“无为”（*wu wei* 無為）：任用动机纯正、才干相当的人，从而带动整个社会投身道德实践。臣子则以自身的作为充任榜样，影响下层的民众。
   - id: 14
     kind: body
     source: |-
       Jia Yi (200–168 BCE) was a Han official who served as tutor to a number of vassal kings associated with the Han—first to the ruler of the distant southern region of Changsha, and later to the ruler of the region of Liang (more on this system of government below in discussion of the *Huainanzi*). His political thought is presented in the text *Xinshu* (“New Writings”). Despite debates as to whether the *Xinshu* was written by Jia or later authors in his name, we can take it as representative of an important strain of Han political thought (Sanft 2005: 6)[^sanft-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      贾谊（公元前 200–168 年）是一位汉朝官员，曾先后担任多位与汉朝有关的诸侯王的太傅：先是远在南方的长沙王，后来是梁王（关于这套治理体制，下文讨论《淮南子》时还会谈到）。他的政治思想见于《新书》。尽管学界对《新书》出自贾谊本人还是后世托名作者仍有争论，我们仍可把它视为汉代政治思想一个重要脉络的代表（Sanft 2005: 6）[^sanft-2005]。
+    step2: |-
+      贾谊（公元前 200–168 年）是汉朝的官员，先后做过几位诸侯王的太傅——最初是远在南方长沙国的诸侯王，后来是梁国的诸侯王（这套分封治理的体制，下文讨论《淮南子》时还会涉及）。他的政治思想见于《新书》。此书究竟出自贾谊本人，还是后人伪托其名，学界尚有争论；但无论如何，它可以代表汉代政治思想中一个重要脉络（Sanft 2005: 6）[^sanft-2005]。
   - id: 15
     kind: body
     source: |-
       The most famous section of the *Xinshu* is Jia Yi’s criticism of the Qin, the first imperial dynasty of China which unified the “Warring States” in 221 BCE. Jia’s criticism stresses the Qin state’s failure to treat the people (*min* 民) with sufficient consideration. The Qin’s harsh treatment of people led to the loss of the obedience required to maintain order in a state. Jia Yi stressed that successful rule was only possible with the consent and obedience of the people—a position referred to as “taking the people as root” (*min ben* 民本). Jia wrote about the Qin rulers:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《新书》最著名的一部分，是贾谊对秦的批评。秦是中国第一个皇朝，于公元前 221 年统一了“战国”。贾谊的批评强调，秦国未能给人民（*min* 民）以足够的体恤。秦对民众的苛待，导致国家丧失了维持秩序所必需的服从。贾谊强调，成功的统治只有在得到人民同意与服从时才可能——这一立场被称为“以民为本”（*min ben* 民本）。贾谊这样写到秦的君主：
+    step2: |-
+      《新书》中最著名的一篇，是贾谊对秦的批评。秦是中国第一个皇朝，公元前 221 年结束“战国”割据、一统天下。贾谊的批评聚焦于一点：秦没有给人民（*min* 民）以足够的体恤。秦对百姓的苛酷，使国家丧失了维持秩序所必需的服从。贾谊强调，统治要成功，只能以民众的同意与服从为前提——这一立场被称为“以民为本”（*min ben* 民本）。他这样评说秦的君主：
   - id: 16
     kind: body
     source: |-
       > [They] made penalties many and punishments severe. The officers’ handling of cases was harsh to an extreme. Rewards and punishments were not appropriate and taxation lacked proper measure. (translated in Sanft 2016: 54)[^sanft-2016]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [他们]使刑罚繁多、惩处严酷。官吏断案苛刻至极。赏罚失当，赋税毫无节制。（Sanft 2016: 54 译文）[^sanft-2016]
+    step2: |-
+      > [他们]刑罚繁多、惩处严酷，官吏断案苛刻到了极点；赏罚失当，赋敛也没有法度。（Sanft 2016: 54 译文）[^sanft-2016]
   - id: 17
     kind: body
     source: |-
       To ensure successful rule, a ruler must govern with “humanenness” (*ren* 仁), a concern for the wellbeing of the people that was a major topic of discussion in Pre-Han Confucian texts. Unlike these earlier Confucians, however, Jia Yi’s interest in humaneness was mainly with its practical benefits for ensuring the stability of the ruler’s position. Earlier Confucians were more concerned with the issue of moral development and the role of humaneness in the development of the person. Jia Yi’s concern with humaneness was about political expediency. Lacking humaneness, as he claims the Qin rulers did, will inevitably lead to the collapse of one’s rule. Securing the cooperation and support of the people is necessary to maintain a state, and thus the good ruler must attend to this. (Sanft 2005: 35–6)[^sanft-2005] While concern for the people is necessary, Jia does not take the assent of the people to being governed as the ground or justification for the ruler’s authority. This authority, according to Jia, is independent of the people. The “people as root” position developed in the *Xinshu* is fully based in pragmatic considerations of rulership. In this way, Jia Yi links the ideas developed in early Confucian texts with the pragmatic “amoralism” of Legalists like Han Feizi who argued for the appropriateness of political strategies on the basis of their success in maintaining the power of the ruler, rather than on the basis of moral considerations. Jia’s political thought thus represents a new trend in the Han period, one that forms the basis for the ideology of what Dingxin Zhao calls “the Confucian-Legalist state” (Zhao 2015)[^zhao-2015]. The origins of the political philosophy that would guide Chinese dynasties through much of the rest of Chinese history are found in the Han.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为确保统治成功，君主必须以“仁”（*ren* 仁）来治理，即关切民众福祉——这是汉代以前儒家文本中讨论的一个主要话题。然而，与更早的儒者不同，贾谊对仁的兴趣主要在于它对确保君主地位稳定所带来的实际好处。早期儒者更关心道德发展的问题，以及仁在个人成长中的作用。贾谊对仁的关切则关乎政治上的权宜。缺乏仁——如他所称秦的君主那样——必然导致统治崩溃。赢得民众的合作与支持是维持国家所必需的，因此好的君主必须留意这一点（Sanft 2005: 35–6）[^sanft-2005]。虽然对民众的关切是必要的，但贾谊并不把民众对统治的同意当作君主权威的根据或正当性理由。按贾谊的看法，这种权威独立于民众。《新书》中发展出的“以民为本”立场，完全基于治国的实用考虑。这样一来，贾谊就把早期儒家文本中发展的观念，与韩非子等法家那种实用的“非道德主义”联系了起来：法家主张政治策略的恰当性取决于其维持君主权力的成效，而不取决于道德考虑。贾谊的政治思想因此代表了汉代的一种新趋势，它构成了赵鼎新所谓“儒法国家”意识形态的基础（Zhao 2015）[^zhao-2015]。此后在中国历史大部分时期指导各朝各代的政治哲学，其源头就在汉代。
+    step2: |-
+      统治要成功，君主就必须以“仁”（*ren* 仁）治国——关怀民众的福祉。这本是汉代以前儒家文本反复讨论的大题目。但与早期儒者不同的是，贾谊看重仁，主要看重它对稳固君主地位的实际功效。早期儒者更关心道德修养，关心仁在人格成长中起什么作用；贾谊关心仁，则出于政治上的权宜。君主若缺乏仁——他认定秦的君主就是如此——统治必然崩溃。要维持国家，就必须赢得民众的合作与支持，所以好的君主不能不留意这一点（Sanft 2005: 35–6）[^sanft-2005]。不过，关怀民众固然必要，贾谊却并不把民众对统治的认可当作君主权威的根据或正当性来源。在他看来，这种权威独立于民众。《新书》的“以民为本”主张，完全建立在治国的实用考虑之上。贾谊由此把早期儒家文本中的观念，同韩非子等法家的实用“非道德主义”接上了线：法家判断一种政治策略是否恰当，看的是它能否有效维持君主的权力，而非是否符合道德。贾谊的政治思想因此代表了汉代的一股新潮流，它构成了赵鼎新所谓“儒法国家”意识形态的基础（Zhao 2015）[^zhao-2015]。此后中国历史大部分时期中指导历代王朝的政治哲学，其源头正在汉代。
   - id: 18
     kind: body
     source: |-
       ### 2.2 Correlative Metaphysics: Chunqiu Fanlu
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 关联性形而上学：《春秋繁露》
+    step2: |-
+      ### 2.2 关联性形而上学：《春秋繁露》
   - id: 19
     kind: body
     source: |-
       The *Chunqiu Fanlu* is one of the earliest and most prominent Han examples of so-called “correlative cosmology”. The text has been traditionally associated with the well-known Han court scholar Dong Zhongshu (b. ~195 BCE), an advocate of the tradition based on the *Gongyang* commentary on the classic history *Chunqiu*, a text believed to be essential for understanding philosophy. Three major commentaries on the text, *Gongyang*, *Zuo*, and *Guliang*, offered different interpretations and explanations of the *Chunqiu*, itself a very sparse and direct text. Different scholastic traditions developed around these commentaries, as groups accepted one or the other of the commentaries as authoritative. In early China, particularly in the Han period, intellectual “schools” are better understood in terms of commitments to the centrality of certain *texts* rather than commitment to certain concepts or theories.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《春秋繁露》是汉代所谓“关联性宇宙论”最早、最突出的例子之一。传统上，此书与汉代著名宫廷学者董仲舒（约生于公元前 195 年）联系在一起；董仲舒是《公羊传》传统的倡导者，而《公羊传》是对经典史书《春秋》的一种注释，时人相信此书对理解哲学至关重要。《春秋》本身文字极为简省直接，而对它的三部主要注释——《公羊》《左氏》《穀梁》——则给出了不同的解释与说明。围绕这些注释，形成了不同的学派传统：各群体分别把其中一部奉为权威。在早期中国，尤其是在汉代，理解思想“学派”更好的方式，是看它们是否以某些*文本*为核心，而不是看它们信奉哪些概念或理论。
+    step2: |-
+      《春秋繁露》是汉代“关联性宇宙论”最早、最突出的范例之一。传统上，此书被归到汉代著名宫廷学者董仲舒（约生于公元前 195 年）名下。董仲舒推崇《公羊传》一系的传统；《公羊传》是对经典史书《春秋》的一种注释，时人认为此书对理解哲学不可或缺。《春秋》本身极为简省直接，围绕它的三部主要注释——《公羊》《左氏》《穀梁》——各有一套不同的解释与说明。不同的经学传统遂围绕这些注释形成，各群体分别奉其中一部为权威。在早期中国，尤其在汉代，要理解思想“学派”，与其看它信奉哪些概念或理论，不如看它以哪些 **文本** 为核心。
   - id: 20
     kind: body
     source: |-
       In the *Chunqiu Fanlu* we also find the development of two important categories—the “five phases” (*wu xing* 五行) and *yin-yang* 陰陽—as well as discussion of their connection to the concept of *qi* 氣. The ethical and political content of the *Chunqiu Fanlu* does not differ considerably from the standard “Confucian” views of the time as found in texts such as those of Lu Jia and Jia Yi, so I here focus on the metaphysics of the *Chunqiu Fanlu,* where we find its most original contribution.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《春秋繁露》中，我们还看到两个重要范畴的发展——“五行”（*wu xing* 五行）与阴阳（*yin-yang* 陰陽），以及对它们与气（*qi* 氣）概念之关联的讨论。《春秋繁露》的伦理与政治内容，与当时见诸陆贾、贾谊等人文本的标准“儒家”观点差别不大，所以这里集中讨论《春秋繁露》的形而上学，其最具原创性的贡献正在于此。
+    step2: |-
+      《春秋繁露》还发展了两个重要范畴——“五行”（*wu xing* 五行）与阴阳（*yin-yang* 陰陽），并讨论了二者同气（*qi* 氣）这一概念的关系。此书的伦理与政治内容，与陆贾、贾谊等人文本中反映的当时标准“儒家”观点相差不大；因此下文只谈《春秋繁露》的形而上学——它最具原创性的贡献正在这里。
   - id: 21
     kind: body
     source: |-
       In what we can call a “naturalistic shift” in Han thought, which began in the earlier texts of the late Warring States period such as the *Xunzi*, we see a move toward the development of correlative cosmology and new uses of concepts such as *qi* (vital energy) to explain human behavior and guide ethical and political activity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在汉代思想中可称为“自然主义转向”的这一变化里——它始于《荀子》等战国晚期的较早文本——我们看到一种趋向：关联性宇宙论得到发展，气（*qi*，生命能量）这类概念被用于新的用途，即解释人的行为、指导伦理与政治活动。
+    step2: |-
+      汉代思想中有一场不妨称为“自然主义转向”的变化，其发端见于《荀子》等战国晚期文本。在这场转向中，关联性宇宙论发展起来，气（*qi*，生命能量）一类概念也被派上新用场：解释人的行为，指导伦理与政治活动。
   - id: 22
     kind: body
     source: |-
       Developing an older distinction, the *Chunqiu Fanlu* uses the contrast of *yin* and *yang*, the qualities associated with each, and their transformations, to make sense of properties of the world and humans. One of the key features of this naturalistic shift of the Han is the view that “heaven/nature and humanity are as one” (*tian ren yi ye* 天人一也, CQFL 49.1). The principles and patterns that explain the operation of the natural world, such as *yin-yang* and the five phases, also explain human characteristics, society, and conduct. There is some debate as to whether *yin* and *yang* are something like properties of their own that belong to objects and events, or whether they are qualities or types of *qi*. In some parts of the text, *yin* and *yang* are discussed as if they are particular and concrete elements of the world, and in other parts of the text *yin* and *yang* are discussed as features of *qi*. The *Chunqiu Fanlu*, unlike earlier Daoist texts, takes a partisan stance here, arguing that we should value *yang* over *yin*. *Yang* is associated with positive features such as virtue, humanity, and life, while *yin* is understood as absence, and associated with the opposing features of vice, violence, and death. This contrasts with earlier “Daoist” texts, which generally take *yin* and *yang* to be mutually valuable principles of change, which should be followed as situations call for. The *Chunqiu Fanlu* argues instead that we should “honor *yang* and denigrate *yin*” (CQFL 43.1), and that “*yang* is lofty, *yin* is lowly.” (CQFL 43, Queen & Major 2016: 393)[^queen-2016]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《春秋繁露》发展了一个更早的区分，用阴与阳的对立、各自关联的性质以及二者的转化，来理解世界与人的各种属性。汉代这一自然主义转向的一个关键特征，是“天人一也”的观点（*tian ren yi ye* 天人一也，CQFL 49.1）。解释自然界运作的原理与法则，如阴阳与五行，同样也解释人的特征、社会与行为。关于阴与阳究竟是某种自身属于对象与事件的性质，还是气的性质或类型，学界尚有争论。在文本的某些部分，阴阳被当作世界具体而个别的要素来讨论；在另一些部分，阴阳又被当作气的特征来讨论。与早期道家文本不同，《春秋繁露》在此采取党派性立场，主张我们应当贵阳而贱阴。阳与德性、仁爱、生命等正面特征相关联，阴则被理解为欠缺，并与恶、暴力、死亡等相反的特征相关联。这与早期“道家”文本形成对照：后者一般把阴阳视为彼此同样有价值的变化原理，应当随情境需要而依循。《春秋繁露》却主张我们应“尊阳而卑阴”（CQFL 43.1），并且“阳尊而阴卑”（CQFL 43，Queen & Major 2016: 393）[^queen-2016]。
+    step2: |-
+      《春秋繁露》沿用一个更早的区分，以阴与阳的对立、二者各自关联的性质及其转化，来解释世界与人的种种属性。汉代这场自然主义转向有一个关键特征，即“天人一也”之见（*tian ren yi ye* 天人一也，CQFL 49.1）：解释自然界运作的原理与法则——阴阳、五行——同时也解释人的特征、社会与行为。阴与阳究竟是对象和事件自身具有的某种性质，还是气的性质或类别，学界尚有争论。书中有些地方把阴阳当作世界中具体而个别的要素来谈，另一些地方又把它们当作气的特征来谈。与早期道家文本不同，《春秋繁露》在此选边站定：阳的价值高于阴。阳与德性、仁、生命等正面特征相联；阴则被理解为“无”，与恶、暴力、死亡等相反特征相联。这同早期“道家”文本正相反——后者一般视阴阳为价值对等的变化原理，应随情境所需而依循。《春秋繁露》却主张“尊阳而卑阴”（CQFL 43.1），主张“阳尊阴卑”（CQFL 43，Queen & Major 2016: 393）[^queen-2016]。
   - id: 23
     kind: body
     source: |-
       Everything from the change of seasons to the movement of planets and alternation of emotions can be understood in terms of *yin* and *yang*. The pair gives us a way to make sense of the constructive and deconstructive aspects involved in any change. We can understand any change or any state as involving contrastive elements that alternate with one another during change. These two complementary and oppositional principles of *yin* and *yang* (not forces or substances but something more like causally efficacious qualities or categories) explain the movement and change of things in the world. In most early Chinese texts, *yin* and *yang* are given a balanced priority. They are equally responsible for the emergence of things, each governs half of the year, the day, and growth. The *Chunqiu Fanlu* makes the unusual move of elevating the position of *yang*, making it responsible for a greater amount, of more potency, and thus ultimately higher value.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从季节更替到行星运行、再到情绪的交替，一切都可以用阴阳来理解。这一对概念让我们得以把握任何变化中建设性与解构性的方面。我们可以把任何变化或任何状态理解为包含着相互对照、在变化中彼此交替的要素。阴阳这两条互补而对立的原则（不是力量或实体，而更像是有因果效力的性质或范畴），解释了世界上事物的运动与变化。在大多数早期中国文本中，阴阳被赋予平衡的优先性：二者对事物的生成同样负责，各自掌管半年、半日与生长。而《春秋繁露》则不同寻常地把阳的地位抬高，使阳负责更多、更具力量，因而最终具有更高的价值。
+    step2: |-
+      从季节更替到行星运行，再到情绪的起伏交替，都可以用阴阳来解释。这一对概念使我们得以理解任何变化中建设性与解构性的两面。任何变化、任何状态，都可以看作包含着彼此对照、在变化中互相交替的要素。阴阳这两条互补而对立的原则（并非力量或实体，更像是有因果效力的性质或范畴），解释了世上事物的运动与变化。在大多数早期中国文本里，阴阳地位均衡：二者同为万物生成之源，各主半年、半日与一半的生长。《春秋繁露》却做了一件不寻常的事——抬高阳的地位，让阳承担更多、更具力量，因而价值也更高。
   - id: 24
     kind: body
     source: |-
       In addition to *yin* and *yang,* the *Chunqiu Fanlu* also uses the concept of the “five phases” (*wu xing*) to understand change. The five phases are at the center of what is known as *correlative cosmology*—the explanation of things in the world by reference to their correlative associations with other things. A thing is associated with a particular phase or element, with principles of change built into the phases or elements, as each has a transformational principle determined by the phase into which it changes. *Xing* 行 is in this context generally translated as “phase” because of this focus on change. A phase describes not only the nature of a thing in its current state, but more importantly the future states of this thing, that into which it transforms. In this sense, the phases had value as *predictive* features of things. The five phases situate things with respect to their relationships with other things—in terms of their becoming other things, their location, roles, and coordinating activities. Chapter 42 of the *Chunqiu Fanlu* explains this use of the phases. After explaining the ordering of the five phases: wood, fire, earth, metal, and water, the chapter then discusses their relationships, in terms of transformation, location, reciprocal activity, and reliance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除阴阳之外，《春秋繁露》还用“五行”（*wu xing*）概念来理解变化。五行正是所谓*关联性宇宙论*的核心——即通过与别的事物的关联来解释世界上的事物。事物与某一特定的行或元素相关联，而行或元素本身内含变化的原理：每一行都有一种由它所转化进入的那一行所决定的转化原理。由于关注变化，行（*xing* 行）在此语境中一般译为“phase”（阶段）。一行不只描述事物当前状态的性质，更重要的是描述该事物未来的状态，即它将要转化成什么。在这个意义上，五行作为事物的*预测性*特征而有其价值。五行把事物置于与其他事物的关系之中——它们变成别的事物、它们的位置、角色与协同活动。《春秋繁露》第四十二章说明了五行的这种用法：先讲五行的次序——木、火、土、金、水，然后讲它们之间的关系，包括转化、方位、相互作用与依待。
+    step2: |-
+      除阴阳之外，《春秋繁露》还用“五行”（*wu xing*）概念来解释变化。五行正是所谓**关联性宇宙论**的中枢——即通过事物与其他事物的关联来解释世间万物。事物与某一特定的行（元素）相联，而变化原理就内置于这些行之中：每一行都有一种转化原理，由它将转入的那一行所决定。正因着眼于变化，“行”（*xing* 行）在此语境中通常译作“phase”（阶段）。一行不仅描述事物当下状态的性质，更要紧的是描述它未来的状态——它将变成什么。在这个意义上，五行作为事物的**预测性**特征而有价值。五行把事物安放在与其他事物的关系之中：它们将变成什么、位居何处、担任何种角色、如何协同行动。 《春秋繁露》第四十二章讲的就是五行的这种用法：先列五行之序——木、火、土、金、水，再论它们之间的关系，包括转化、方位、相互作用与依待。
   - id: 25
     kind: body
     source: |-
       > Metal gives birth to fire; fire gives birth to earth; earth gives birth to metal; metal gives birth to water; water gives birth to wood. This is their father-son relationship. Wood dwells on the left; metal dwells on the right; fire dwells in the front; water dwells in the rear; earth dwells in the center. This is their father-son sequence. The phases receive from and distribute to one another. […] To constantly rely on the father to direct the son is the Way of Heaven. Therefore once wood is born, fire nurtures it; once metal dies, water buries it. Fire delights in wood and nourishes it with yang, water overcomes metal and nourishes it with yin. Earth’s managing of the affairs of fire fully expresses its loyalty. Thus the five phases exemplify the conduct of the filial son and loyal minister. (Queen & Major [trans] 2016: 367–8).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 金生火；火生土；土生金；金生水；水生木。此其父子之关系。木居左，金居右，火居前，水居后，土居中央。此其父子之序。五行彼此相受而相散。[…] 常依父以统子，天之道也。所以木生而火养之，金死而水藏之。火乐木而以阳养之，水克金而以阴丧之。土之理事火，尽其忠也。故五行体现了孝子与忠臣的品行。（Queen & Major 译，2016：367–8）
+    step2: |-
+      > 金生火，火生土，土生金，金生水，水生木，此其父子也。木居左，金居右，火居前，水居后，土居中央，此其父子之序。五行相受而相散也。[…] 常依父以摄子，天之道也。故木生而火养之，金死而水藏之。火乐木而以阳养之，水克金而以阴丧之。土之理事火，尽其忠也。故五行者，孝子忠臣之行也。（Queen & Major 译，2016：367–8）
   - id: 26
     kind: body
     source: |-
       We see here that *Chunqiu Fanlu* combines the five phases explanation of change and interaction with *yin* and *yang* principles. *Yin* and *yang* operate within the five phases, and are properties of the phases explaining their relationships to one another. It is in the *Chunqiu Fanlu* that we find the fusion of these two previously distinct correlative systems in an overarching correlative synthesis (even though the synthesis is not perfect—the systems are still very much treated separately in particular areas of the text, likely due to the composite nature of the text).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们在此看到，《春秋繁露》把五行的变化与互动解释同阴阳原理结合了起来。阴阳在五行之内运作，是五行的属性，解释五行彼此之间的关系。正是在《春秋繁露》中，我们见到此前彼此分离的两套关联系统融合为一个总体的关联性综合（尽管这一综合并不完美——在文本的某些部分，两套系统仍被分开处理，这很可能是由于文本本身由不同材料拼合而成）。
+    step2: |-
+      由此可见，《春秋繁露》把以五行解释变化与互动的做法，同阴阳原理结合了起来。阴阳在五行内部运作，是五行的属性，用来解释五行彼此的关联。也正是在《春秋繁露》里，原先彼此独立的两套关联系统被熔铸成一个总体的关联性综合——尽管这一综合并不完美：书中某些部分仍把两套系统分开处理，这大概是因为文本本身由不同来源的材料拼合而成。
   - id: 27
     kind: body
     source: |-
       The five phase makes possible both explanation and prediction. When we understand the interaction of the five phases, it becomes possible to understand how things will change, which gives us the ability to make use of them. The phases govern activity as well, including human activity. Through understanding the phases we come to understand which kinds of activity will be most effective at performing certain kinds of tasks, attaining certain kinds of ends. This is all relevant for those in government, particularly the ruler (such people are the text’s primary audience), as understanding of the phases will allow the ruler to properly evaluate and appraise others, knowing who to elevate to particular positions, based on their abilities as determined by the phases.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      五行既使解释成为可能，也使预测成为可能。理解了五行的相互作用，就能理解事物将如何变化，从而有能力加以利用。五行也支配活动，包括人的活动。通过理解五行，我们能明白哪些活动最能有效完成某些任务、达成某些目标。这一切对治国者、尤其对君主关系重大（这类人是文本的主要读者）：理解五行，君主才能恰当地评价与考量他人，依据五行所决定的才干，知道该把什么人提拔到什么位置。
+    step2: |-
+      五行既使解释成为可能，也使预测成为可能。一旦理解五行的相互作用，就能知道事物将如何变化，从而能够加以利用。五行还支配活动，包括人的活动。懂得五行，我们就能明白：要做某类事情、达成某类目标，什么样的活动最为有效。这一切对治国者——尤其对君主——都切实相关（这类人正是本书的主要读者）：懂得五行，君主才能恰当地品评人物，按五行所定的才性，知道该把谁放到什么位置上。
   - id: 28
     kind: body
     source: |-
       ### 2.3 Knowledge and Method: The Syncretism of the Huainanzi
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 知识与方法：《淮南子》的折中主义
+    step2: |-
+      ### 2.3 知识与方法：《淮南子》的折中主义
   - id: 29
     kind: body
     source: |-
       One of the major developments of the Han was the formation of what is commonly known as “Han Syncretism”, associated by some with “schools” such as Huang-Lao and texts such as the *Huainanzi*. The development and nature of Huang-Lao are topics still debated by scholars (see Graham 1991; Major 1993: 10; Chen & Sung 2015)[^chen-2015][^graham-1991][^major-1993]. While the syncretic or synthetic tendency, its ascent, and its pinnacle was reached during the Han, such thinking actually had its origins much earlier in Chinese history. In Warring States texts such the *Guanzi* and *Lushi Chunqiu*, we find the first developments of syncretism. It is in the Han that this trend really takes off, and the *Huainanzi* represents its high-water mark.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      汉代的一项重大发展，是通常所谓“汉代折中主义”的形成；有人把它同黄老之类的“学派”以及《淮南子》之类的文本联系起来。黄老的发展与性质，仍是学者争论的话题（见 Graham 1991; Major 1993: 10; Chen & Sung 2015）[^chen-2015][^graham-1991][^major-1993]。折中式或综合式的思想倾向兴起并于汉代达到顶峰，但这类思想其实在中国历史更早时期就已发端。在《管子》《吕氏春秋》等战国文本中，我们看到折中主义的最初发展。到了汉代，这一趋势才真正兴起，《淮南子》代表了它的最高水位。
+    step2: |-
+      汉代的一大发展，是通常所谓“汉代折中主义”的形成。有人把它同黄老一类“学派”、《淮南子》一类文本联系起来。黄老的来龙去脉与性质，至今仍是学者争论的话题（见 Graham 1991; Major 1993: 10; Chen & Sung 2015）[^chen-2015][^graham-1991][^major-1993]。折中或综合的思想倾向，兴起于汉代、鼎盛于汉代；但这种思路其实在中国历史更早的时候已有源头。《管子》《吕氏春秋》等战国文本里，已能看到折中主义的最初萌芽。真正蔚为大观是在汉代，而《淮南子》就是它的最高水位。
   - id: 30
     kind: body
     source: |-
       Earlier forms of syncretism involved the intentional combination of aspects of different schools and textual traditions, such as Confucianism, Daoism, and Legalism. While we see this to some extent in texts like the *Chunqiu Fanlu*, these forms of syncretism were often not explicit. The *Huainanzi*, on the other hand, openly discusses its synthesis of ideas from across previously opposing schools and traditions. In the *Huainanzi*, we find a specific methodology for and justification of synthesis built from a framework using ideas primarily from the *Zhuangzi* and *Daodejing*, but involving Confucian, Legalist, and even Mohist ideas as well. Numerous scholars have debated the ultimate purpose of the *Huainanzi*’s syncretism (see Goldin 1999; Vankeerberghen 2001)[^goldin-1999][^vankeerberghen-2001]. Clearly there is a political aim of the overall project. Liu An (179–122 BCE), the vassal ruler of the territory of Huainan, brought together the scholars who constructed the text. Liu was concerned with the ideology of empire. His primary aim was the development of a system synthesizing the numerous and diverse peoples, cultures, systems, languages, and ways of life throughout the still relatively new Han empire. The ways of governance and social ideologies of the past, Liu recognized, may have been acceptable in the smaller-scale societies in which they developed. But these societies were already unified by language, culture, and social norms. Imposing the norms and ideology of a single people on others simply would not work in a territory as large and diverse as that controlled by the Han. What was needed was a political, ethical, and metaphysical system that unified the variety of peoples in a single social project while at the same time allowing for the independence and individuality of their local approaches. What resulted from this reflection by the committee of scholars at Liu An’s court was one of the most comprehensive and powerful syntheses in the history of human thought. Liu An’s scholars almost seamlessly combined all of the known philosophical, political, scientific, and religious systems of their day into one overarching explanation of the cosmos.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      较早的折中主义形态，是有意把不同学派与文本传统的方面结合起来，如儒家、道家与法家。我们在《春秋繁露》一类文本中多少能看到这种做法，但这类折中往往并不明言。《淮南子》则不同，它公开讨论自己对先前彼此对立的各学派、各传统之观念的综汇。在《淮南子》中，我们可以找到一套关于综合的具体方法论与辩护，其框架主要取自《庄子》与《道德经》的观念，同时也涉及儒家、法家乃至墨家的观念。许多学者争论过《淮南子》折中主义的最终目的（见 Goldin 1999; Vankeerberghen 2001）[^goldin-1999][^vankeerberghen-2001]。整个工程显然有政治目的。淮南国的诸侯王刘安（公元前 179–122 年）召集学者撰成此书。刘安关心的是帝国的意识形态。他的首要目标，是建立一个体系，把当时仍相对年轻的汉帝国境内众多不同的民族、文化、制度、语言与生活方式综合起来。刘安认识到，过去的治理方式与社会意识形态，在其发展所在的小型社会中或许可行；但这些社会本已由语言、文化与社会规范统一起来。把单一民族的规范与意识形态强加于他人，在汉朝所控制的这样辽阔而多样的疆域内根本行不通。所需要的，是一套政治、伦理与形而上学的体系：它把多样的民族统一在同一个社会工程之中，同时又容许各地做法保持独立与个性。刘安幕府中学者群体的这番思考，结出了人类思想史上最全面、最有力的综合之一。刘安的学者们几乎无缝地把当时已知的一切哲学、政治、科学与宗教体系，整合进一个关于宇宙的总纲式解释之中。
+    step2: |-
+      较早的折中，往往是有意把不同学派与文本传统的成分拼合起来，如儒家、道家、法家。这种做法在《春秋繁露》一类文本中已见端倪，但通常并不明说。《淮南子》不同，它公开讨论自己如何综汇先前彼此对立的各派各家的观念。书中有一套关于综合的方法论与辩护，其框架主要取自《庄子》与《道德经》，同时也牵入儒家、法家乃至墨家的观念。对于《淮南子》折中主义的最终用意，学者们争论不休（见 Goldin 1999; Vankeerberghen 2001）[^goldin-1999][^vankeerberghen-2001]。整个工程显然有政治意图。淮南国的诸侯王刘安（公元前 179–122 年）把撰写此书的学者召集到一起，他所关切的是帝国的意识形态：首要目标，是造出一套体系，把当时尚属年轻的汉帝国境内众多民族、文化、制度、语言与生活方式统统综合起来。刘安看得很清楚：过去的治理方式与社会意识形态，在其诞生的小型社会里或许行得通；但那些社会本来已由共同的语言、文化和社会规范维系成一体。把某一族群的规范与意识形态强加给别的族群，在汉朝所辖如此辽阔多样的疆域里根本行不通。真正需要的，是一套政治、伦理与形而上学体系：它把多样的族群统摄于同一个社会工程，同时又容许各地做法保持独立、各有个性。刘安幕府的这班学者反复推究，最终拿出的，是人类思想史上最全面、最有力的综合之一。他们几乎无缝地把当时已知的一切哲学、政治、科学和宗教体系，编入一个包罗宇宙的总纲式解释。
   - id: 31
     kind: body
     source: |-
       Ostensibly the purpose of this, according to Liu An, was to instruct his nephew, Emperor Wu of Han, in the proper ways to maintain the empire, unifying the people while allowing for their differences, which would prove much more effective than attempting to eliminate these differences or impose norms. There was likely another more personal purpose behind the text as well. In the mid to late second century BCE, the central Han government began moving away from an older model of imperial control in which vassal rulers were given independent control of distant states. These vassal kingdoms were generally handed out to family or those otherwise demonstratively loyal to the Han, such as Liu An, who was the uncle of the Emperor Wu. In the early days of the Han empire, such a political structure was necessary because of the inexperience of the Han court (or any political entity for that matter) in administering a vast and diverse empire. By the time of the *Huainanzi*’s construction, however, the Han had developed the experience, organizational structure, and centralized power to more directly administer the various regions. The central Han government began to take direct control of these regions, moving away from the older system of vassal rulership. Liu An, as one of these vassal rulers in the dying years of the practice, wanted to secure the practice in order to keep his position and lands. Thus the pluralistic argument of the *Huainanzi* was to a large extent also an argument to Emperor Wu for why he should leave the vassal kingdoms intact, rather than bringing them under the direct control of the Han.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照刘安的说法，此书的表面目的，是教导他的侄子汉武帝如何以恰当的方式维持帝国——统一民众而容许其差异，这远比试图消除差异或强加规范更为有效。不过，此书背后很可能还有一个更为个人的目的。公元前二世纪中后期，汉朝中央开始放弃一种旧的帝国控制模式：在这种模式下，诸侯王被赋予对远方邦国的独立控制权。这些诸侯国通常分封给宗室，或分封给其他明显效忠汉室的人——刘安便是其中之一，他是汉武帝的叔父。在汉帝国早期，由于汉廷（或任何政治实体）都缺乏治理辽阔多样帝国的经验，这样的政治结构是必要的。但到《淮南子》成书之时，汉朝已经积累了经验、组织架构与中央集权的能力，足以更直接地治理各个地区。汉朝中央开始直接控制这些地区，逐渐放弃旧的诸侯统治制度。刘安作为这一制度没落年代的诸侯王之一，希望保住这一制度，以维持自己的地位与封地。因此，《淮南子》的多元论论证，在很大程度上也是向汉武帝进言：为什么应当让诸侯国保持原样，而不是把它们收归汉廷直接控制。
+    step2: |-
+      按刘安自己的说法，此书名义上的目的，是教他的侄子汉武帝如何正确地维持帝国：把民众统一起来，同时容许彼此的差异——这比试图抹平差异或强加规范要有效得多。但书后很可能另有一层更私人的用意。公元前二世纪中后期，汉朝中央开始放弃旧的帝国控制模式，那种模式让诸侯王独立管治远方的邦国。诸侯国通常封给宗室，或封给其他明确效忠汉室的人；刘安就是其中一位，他是汉武帝的叔父。汉帝国初年，这种政治结构是必要的：汉廷（其实任何政治实体）都没有治理庞大而多样的帝国的经验。但到《淮南子》编纂之时，汉朝已经积累了经验、组织架构和中央集权的能力，可以直接治理各地。汉廷于是开始直接控制这些地区，逐步放弃旧的诸侯分治。刘安身为这一制度末期的诸侯王之一，自然想保住这套制度，从而保住自己的地位与封地。因此，《淮南子》的多元论论证，很大程度上也是写给汉武帝看的陈情：为什么应当让诸侯国原封不动，而不是收归汉廷直辖。
   - id: 32
     kind: body
     source: |-
       A number of new themes in early Chinese thought are discussed in the *Huainanzi*. The methodology of philosophy is a central concern of the text, as discussed in the first two chapters and the final chapter in particular. Using a framework that seems to borrow most from Daoism (Roth 2015: 342)[^roth-2015], the text aims to create a synthesis of not only other existing intellectual schools, but a variety of other multiplicities. The first two chapters of the text, as well as the final “overview” chapter offer the main structure for the synthesis of the text, which is explored in specifics in the other chapters (Murray 2004)[^murray-2004]. The two main images used are the distinction between root (*ben* 本) and branches (*mo* 末), and the appeal to a unifying “pattern” (*li* 理). The *Huainanzi* argues that the unification of all things is explained by the origination of all things in “the one” (*yi* 一), which it associated with *dao*. Things emerge from *dao* in particular patterns, following *yin* and *yang* change. We gain understanding and mastery over ourselves and nature by following the myriad things (*wan wu* 萬物) as they develop and change, and their patterns. To do this, we must follow the way of *tian* 天 (heaven) rather than that of the human. Following earlier views of texts such as the *Zhuangzi*, the distinction drawn between *tian* and the human (*ren* 人) in the *Huainanzi* is one of wide vs. narrow focus. It seems to parallel a kind of distinction between the natural and the human that takes what is associated with the human to be modifying nature, with nature as the untouched and separate. The nature/human distinction in the *Huainanzi* is not total—humanity is ultimately seen as originating in the same source as the rest of nature, somehow operating on the stuff of nature—which later chapters (such as ch. 3) understand in terms of the human “completion” (*cheng* 成) of nature. In chapter one, however, a valuation seems to be made, contrasting the human as the narrow and flawed with the natural as the broad and pure. A key passage in Chapter One reads:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《淮南子》讨论了许多早期中国思想中的新主题。哲学方法论是此书的核心关切，前两章与末章对此讨论尤多。此书使用一个似乎最多借自道家的框架（Roth 2015: 342）[^roth-2015]，意在不仅综合其他现存的思想学派，也综合多种多样的其他杂多。前两章以及末尾的“总览”章，为全书的综合提供了主要结构，其余各章则分别展开具体内容（Murray 2004）[^murray-2004]。所用的两个主要意象，是本（*ben* 本）与末（*mo* 末）的区分，以及对统一的“理”（*li* 理）的诉求。《淮南子》主张，万物的统一可由万物起源于“一”（*yi* 一）来解释，而“一”与道相关联。事物依循阴阳变化，以特定的理从道中产生。我们通过顺随万物（*wan wu* 萬物）的发育变化及其理，来获得对自身与自然的理解与掌握。要做到这一点，我们必须循天（*tian* 天）之道，而非循人之道。承续《庄子》等文本的较早观点，《淮南子》在天（*tian*）与人（*ren* 人）之间所作的区分，是“广”与“狭”的区分。它似乎对应于自然与人为之间的一种区分：凡与“人”相关者，被视为对自然的改易，而自然则是未被触动、与之分离的。不过，《淮南子》的自然/人区分并非绝对的——人最终被视为与自然的其余部分同源，并以某种方式作用于自然的材料，后文（如第三章）便以人对自然的“完成”（*cheng* 成）来理解这一点。但在第一章中，似乎作出了一种价值评判：把人视为狭隘而有缺陷的，把自然视为广阔而纯净的。第一章有一段关键文字：
+    step2: |-
+      《淮南子》探讨了早期中国思想中的一系列新主题。哲学方法论是全书的核心关怀，前两章与末章着墨尤多。全书借用的框架似乎最重道家（Roth 2015: 342）[^roth-2015]，其目标不只是综合现存各思想学派，还要综合形形色色的其他杂多。前两章与末尾的“总览”章，给出了全书综合的基本结构，其余各章则分头落实细节（Murray 2004）[^murray-2004]。贯穿其中的两个主要意象，是本（*ben* 本）与末（*mo* 末）的区分，以及对统一的“理”（*li* 理）的诉求。《淮南子》主张，万物的统一要由万物皆源于“一”（*yi* 一）来解释，而“一”与道相联。万物循阴阳之变，以特定的理从道中生出。我们若顺着万物（*wan wu* 萬物）的生灭变化及其理，就能理解并掌控自身与自然。要做到这一点，必须循天（*tian* 天）之道，而不是循人之道。承《庄子》等文本之绪，《淮南子》在天（*tian*）与人（*ren* 人）之间划出的界限，是“广”与“狭”之别，大致相当于自然与人为之别：凡属“人”者，被视为对自然的改造；自然则是未经触动、与人相隔的。不过，《淮南子》的自然/人之分并不是全然的——人终究与自然的其余部分同出一源，并且以某种方式作用于自然的材料；后文（如第三章）就把这一点理解为人对自然的“完成”（*cheng* 成）。但在第一章里，似乎暗含一种褒贬：人为狭小而偏失，自然宽广而纯粹。第一章有一段关键的话：
   - id: 33
     kind: body
     source: |-
       > what we call nature is pure and untainted, unadorned and plain, and has never begun to be tainted with impurities. What we call human is askew because of wisdom and precedent. It is what looks back to past generations and interacts with the vulgar. (*Huainanzi* 1.10, Major, Queen, et al. [trans] 2010: 37)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们所谓的自然，纯净而不受污染，素朴而无文饰，从未开始沾染杂质。我们所谓的人为，则因智慧与先例而偏斜；它回望前代，与流俗相交接。（《淮南子》1.10，Major、Queen 等译，2010：37）
+    step2: |-
+      > 我们所说的自然，纯净无染，素朴无饰，从不曾沾上杂质。我们所说的人为，则被智慧和成例弄得歪斜；它回望前代，与流俗往来。（《淮南子》1.10，Major、Queen 等译，2010：37）
   - id: 34
     kind: body
     source: |-
       The human is associated here with desire, intention, artifice, and agency, and contrasted with the non-agentive and “spontaneous” activity of *tian*. We have the ability to act as *tian* acts by following along with *tian*. This idea is developed in the *Zhuangzi* and a number of earlier texts, in which *tian* and *dao* are sometimes used interchangeably. The *Huainanzi*, like Daoist texts, locates the problem of human failure, in terms of individual thriving, skill and achievement, knowledge, or political organization, in the existence of specifically human *agency*. Like texts such as the *Daodejing* and *Zhuangzi*, the *Huainanzi* presents action in concert with nature (*tian*) and undermining of the specifically human activity guided by intention as the keys to ensuring success in all of the above measures. In order to act in this way, however, we must have an understanding of the patterns of nature, so as to align ourselves with them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在此，“人”与欲望、意图、人为造作和能动性相联系，并与天那种无主体、“自发”的活动相对照。我们有能力循天而动，像天那样行事。这一观念在《庄子》和一些更早的文本中得到发展，在那些文本中，天与道有时可以互换使用。《淮南子》像道家文本一样，把人在个体成长、技艺成就、知识或政治组织方面的失败，归因于人所特有的*能动性*。与《道德经》《庄子》等文本一样，《淮南子》把顺应自然（*tian* 天）的行动、把对由意图引导的人为活动的消解，视为在上述各方面确保成功的关键。不过，要以这种方式行动，我们必须理解自然的理，从而使自己与之一致。
+    step2: |-
+      在这里，“人”与欲望、意图、造作、能动性相联，与天那种无主体的“自发”活动相对照。人能够像天那样行动——只要顺天而行。这一观念在《庄子》及若干更早文本中已有发展，那些文本里天与道有时可以互换。《淮南子》同道家文本一样，把人的失败——无论是个体的安身立命、技艺成就、知识，还是政治组织——归咎于人所特有的**能动性**。与《道德经》《庄子》等文本一样，《淮南子》认定：顺应自然（*tian* 天）而行，消解由意图主导的人为活动，才是上述各方面确保成功的关键。然而，要这样行动，我们必须理解自然的理，才能与它调准。
   - id: 35
     kind: body
     source: |-
       The *Huainanzi* has a difficult balancing act to maintain here, however. While it accepts the Daoist view outlined above concerning the efficacy of following nature and the corrosive nature of specifically human activity, artifice, and tools such as ritual, moral norms, and righteousness (*Huainanzi* 2.3), it also endorses the Confucian view of the value and necessity of ritual and other such human inventions. This is partially explained by the account of human development given in Chapter 2. The ancients, according to the text, were able to act in accordance with nature, and thus did not require the artifice of ritual, humanity, and righteousness. In later ages, there was a decline such that ritual and the tools of humanity became necessary. The key to using these artifacts well is to use them consistently with the *dao*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，《淮南子》在此要维持一种困难的平衡：它一方面接受上述道家观点——顺应自然有效，而人所特有的活动、人为造作，以及礼、道德规范、义等工具具有腐蚀性（《淮南子》2.3）；另一方面，它又赞同儒家的看法——礼之类的发明有价值且必要。第二章关于人类发展的叙述，部分地解释了这一点。按书中的说法，古人能依自然而行，因而无需礼、仁、义这些人造之物；在后世，出现了衰败，礼与仁的工具才变得必要。用好这些人为之物的关键，在于使它们与道保持一致。
+    step2: |-
+      然而，这里《淮南子》走的是一根难走的钢丝。它既接受上述道家观点——顺应自然有效，而人所特有的活动、造作，以及礼、道德规范、义这类工具都有腐蚀性（《淮南子》2.3）——又赞同儒家的看法：礼以及其他诸如此类的人为发明有其价值，且必不可少。第二章对人类历史的叙述，可以部分解释这一态度。书中说，上古之人能依自然而行，所以用不着礼、仁、义这些造作；后世世道衰降，礼与仁的工具才成为必需。用好这些人为之物的关键，在于让它们与道保持一致。
   - id: 36
     kind: body
     source: |-
       The main argument for synthesis of the *Huainanzi* is that the knowledge to be gained about the world that ultimately allows one to attain success can be best attained through understanding what is correct in all schools and perspectives. The assumption here is that each of the competing schools had *something* right, and was properly responding to some aspect of the world or human life. The mistake the various schools made was in their commitment to *partiality*, and the idea that the aspects of the world they had uncovered were the only ones to uncover. When we move beyond this partiality, we recognize that each of the myriad schools, teachings, customs, etc. have some value, if we understand the perspectives from which they are useful and the aspects of the world they illuminate. A key passage in Chapter Two reads:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《淮南子》主张综合的主要论据是：最终能使人获得成功的世界知识，最好通过理解一切学派与视角中正确的东西来获得。这里的前提是：相互竞争的每个学派都*有*某些正确之处，都在恰当地回应世界或人生的某个方面。各学派的错误在于执着于*偏*，在于认为自己揭示的方面就是唯一值得揭示的方面。一旦超越这种偏，我们就会承认：只要理解了各家各派有用处的视角，以及它们所照亮的世界的方面，那么众多的学派、教说、习俗等等都有其价值。第二章有一段关键文字：
+    step2: |-
+      《淮南子》为综合给出的主要理由，是这样一个判断：要想获得最终能带来成功的世界知识，最好的办法是弄清所有学派与视角中各自正确的地方。其前提是：每一个相互竞争的学派都**有**对的地方，都在恰当地回应世界或人生的某一侧面。各派的错处，在于偏守一隅（**偏**），以为自己揭出的方面就是唯一值得揭出的方面。一旦超脱这种偏，我们就会承认：众多的学派、教说、习俗等等各有其价值——只要我们明白它们从什么角度看是有用的，又照亮了世界的哪些方面。第二章有一段关键的话：
   - id: 37
     kind: body
     source: |-
       > The Hundred Schools have different theories, and each has its own origins. For example, the relationship of Mozi, Yang Zhu, Shen Buhai, and Lord Shang to the Way of Governing is like that of an individual umbrella rib to the whole canopy and like that of an individual spoke to the whole chariot wheel. If you have any one of them, you can complete the number; if you are missing any one of them, it will not affect the utility of the whole. Each one thought that he alone had a monopoly on true governing; he did not understand the genuine disposition of Heaven and Earth. (*Huainanzi* 2.10, Major, Queen, et al. [trans] 2010: 93–94 [modified])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 百家之说各不相同，各有其渊源。譬如墨子、杨朱、申不害、商鞅之于治道，就像一根伞骨之于整个伞盖，就像一根辐条之于整个车轮：有其中任何一样，数目便可凑足；缺了任何一样，也不影响整体的用处。每个人都以为自己独占真正的治道，却不懂得天地的实情。（《淮南子》2.10，Major、Queen 等译，2010：93–94，有改动）
+    step2: |-
+      > 百家之说各不相同，各有渊源。比如墨子、杨朱、申不害、商鞅之于治道，犹如一根伞骨之于整个伞盖，一根辐条之于整个车轮：有其中任何一样，数目便可凑足；缺了任何一样，也不碍整体的用处。每人都以为自己独占真正的治道，却不懂得天地的实情。（《淮南子》2.10，Major、Queen 等译，2010：93–94，有改动）
   - id: 38
     kind: body
     source: |-
       The solution the *Huainanzi* offers to the partiality of the myriad schools is to take the entirety of them, understand how they are individually useful, and use them in the right ways. The *Huainanzi* takes this same approach to all areas of human knowledge, people, customs, rituals, and things in the world. The sage aims to understand *all* of these myriad ways and to thus make use of them, through organizing them in the proper ways. This opens up a problem, however. How can one possibly understand *all* schools, traditions, peoples, customs, etc? There is far too much diversity and material in the world for any given person to know. The *Huainanzi*’s bold claim is that one can and should strive to attain a summative awareness of all human knowledge. How is this possible?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《淮南子》为众家之偏提供的解决办法，是把它们整体拿来，理解它们各自何以为用，再以恰当的方式加以使用。《淮南子》把同一路数用于人类知识的一切领域，以及人、习俗、礼仪和世界上的事物。圣人要理解这众多路径的*全部*，从而通过恰当的组织来加以利用。但这就引出一个问题：一个人怎么可能理解*所有*学派、传统、民族、习俗等等？世界上的多样性与材料实在太多，任何个人都无法尽知。《淮南子》的大胆主张是：人能够、也应当力求对人类全部知识获得一种总括性的觉知。这如何可能？
+    step2: |-
+      《淮南子》化解众家之偏的办法，是把各家整体收下，弄清各自用处何在，再各按其宜地加以运用。对人类知识的一切领域，对人物、习俗、礼仪和世间万物，此书都用同一套办法。圣人的目标，是理解这众多路径的**全部**，再通过恰当的组织来运用它们。可这就带出一个难题：一个人怎么可能懂得**所有**学派、传统、民族、习俗？世间的多样性、材料之多，远非任何个人所能穷尽。《淮南子》却大胆宣称：人能够、并且应当力求对人类全部知识获得一种总揽式的觉知。这又怎么可能？
   - id: 39
     kind: body
     source: |-
       The *Huainanzi* offers a number of ways out of this difficulty, but the most developed one is the use of the distinction between *root* (*ben* 本) and *branch* (*mo* 末) as applied to areas of knowledge. Each of the various schools, areas of human knowledge, and things in the world can be considered a “branch”, where the branches are connected to one another via their grounding in the same “root”. This root can be understood as the *pattern* (*li*) of nature that links the branches. The image of the umbrella and rib above shows us one example of this, and there are many others in the text. A passage in Ch. 2 reads:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《淮南子》给出了若干摆脱这一困难的办法，其中发展得最充分的一种，是把本（*ben* 本）与末（*mo* 末）的区分用于知识领域。各个学派、人类知识的各个领域、世界上的各种事物，都可以看作“末”；诸末之所以彼此相连，是因为它们同根。这个根可以理解为连接诸末的自然之*理*（*li* 理）。上文伞与伞骨的意象就是一例，书中还有许多别的例子。第二章有一段文字：
+    step2: |-
+      《淮南子》给出了好几种解法，其中发挥得最充分的一种，是把本（*ben* 本）与末（*mo* 末）之别用到知识领域上。各个学派、人类知识的各个门类、世间万物，都可视为“末”；诸末彼此相连，靠的是共有的“本”。这个本就理解为贯通诸末的自然之**理**（*li* 理）。上文伞与伞骨的比喻即是一例，书中类似的比喻还有很多。第二章有一段话说：
   - id: 40
     kind: body
     source: |-
       > When the myriad things differentiate and branch off, when the hundred affairs proliferate and diverge, all have their foundation in a single root, despite their ten million branchings. (*Huainanzi* 2.11, Major, Queen, et al. [trans] 2010: 94)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 万物分化而枝蔓，百事滋繁而歧出，然而尽管有千万分枝，它们都以同一个根为本。（《淮南子》2.11，Major、Queen 等译，2010：94）
+    step2: |-
+      > 万物分化枝蔓，百事滋繁歧出，尽管分枝千万，终究同本同根。（《淮南子》2.11，Major、Queen 等译，2010：94）
   - id: 41
     kind: body
     source: |-
       The key to understanding (and thus also knowing how to employ) all forms of human knowledge is to understand the nature and pattern of the root in which these myriad ways are grounded. The same patterns are manifest not only in different areas of human knowledge, subjects, people, customs, languages, etc., but also in the rest of the world. One of the key features of Han syncretic thought and “correlative cosmology” is the linking of the general structure of humanity and the cosmos (*tian*), such that the very same patterns govern both. This insight is behind much of what I have called the “naturalistic shift” of the Han, and the origins of much of early Chinese science in the Han period. Some examples of this are the development of the medical tradition, found in early texts such as the *Huangdi Neijing*, and the systematization of astronomy, geography, calendrics, and mathematics. The earliest texts in these areas date to the Han period, and we find general discussions of these areas in texts such as *Huainanzi* that attempt to organize all human knowledge. Thus we have chapters on astronomy (*Tianwen*, ch. 3), calendrics and seasons (*Shize*, ch. 5), and other areas of natural science.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要理解（并由此知道如何运用）人类知识的一切形式，关键在于理解这些众多路径所植根的那个根的性质与理。同样的理不仅显现在人类知识的不同领域、学科、人群、习俗、语言等等之中，也显现在世界的其余部分。汉代折中思想与“关联性宇宙论”的一个关键特征，是把人与宇宙（*tian* 天）的一般结构联系起来，使同一套理支配二者。这一洞见是汉代“自然主义转向”的许多内容背后的东西，也是汉代许多早期中国科学之起源背后的东西。例子包括医学传统的发展（见于《黄帝内经》等早期文本），以及天文学、地理学、历法与数学的系统化。这些领域最早的文本都成于汉代；在《淮南子》这类试图组织全部人类知识的文本中，我们可以看到对这些领域的总体讨论。因此，书中有论天文的篇章（《天文》，第三章）、论历法与季节的篇章（《时则》，第五章），以及其他自然科学领域的内容。
+    step2: |-
+      要理解——并因而懂得如何运用——人类知识的一切形态，关键就在于把握这些众多路径所植之“本”的性质与理。同一套理，不仅显现在人类知识的各个领域、学科、人群、习俗、语言之中，也显现在世界的其余部分。汉代折中思想与“关联性宇宙论”的一大特征，就是把人与宇宙（*tian* 天）的一般结构打通，让同一套理支配二者。汉代“自然主义转向”的许多内容，以及汉代早期中国科学的许多源头，都出于这一洞见。例如医学传统的发展（见于《黄帝内经》等早期文本），以及天文学、地理学、历法和数学的系统化。这些领域最早的文本都出于汉代；在《淮南子》这类意在整理全部人类知识的书中，也能看到对这些领域的通论。于是书中有论天文的《天文》篇（第三章）、论历法与季节的《时则》篇（第五章），以及其他自然科学方面的内容。
   - id: 42
     kind: body
     source: |-
       The application of this understanding of the root, according to the Liu An’s scholars, is in managerial acumen. The ruler who understands the root will also understand the value and role of the variety of different regions, people, customs, languages, disciplines, schools, and other things that make up the vast collection of things in the empire. Only a ruler with such vast understanding could hope to be successful in maintaining order in an empire as broad and diverse as the Han. Thus, the art of learning the root underlying all human knowledge is part of the art of rulership, which is the central concern of the *Huainanzi*. As many noticed, however (and was surely intended), this general framework is applicable beyond the case of the ruler. The individual reader can benefit from the *Huainanzi*’s model of learning and understanding, for their own purposes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照刘安门下学者的说法，这种对根的理解，其用处在于管理才干。懂得根的君主，也会懂得帝国之内众多不同地区、人群、习俗、语言、学科、学派等的价值与作用——正是这些东西构成了帝国庞杂的万物。只有具备如此广博理解的君主，才有望在汉朝这样辽阔多样的帝国中维持秩序。因此，学习一切人类知识所植之根，这门功夫是统治术的一部分，而统治术正是《淮南子》的核心关切。不过，正如许多人所注意到的（这肯定也是作者的意图），这一总体框架的适用并不限于君主。个别读者也可以为了自己的目的，从《淮南子》的学习与理解模型中获益。
+    step2: |-
+      按刘安门下学者的说法，这种对“本”的理解，落脚处在治国的才干。君主懂得了本，也就懂得帝国内不同地区、人群、习俗、语言、学科、学派等等各有何种价值、担任何种角色——正是这些构成了帝国庞杂的万物。唯有见识如此广博的君主，才可能在汉朝这样辽阔多样的帝国里维持秩序。所以，学通一切人类知识所植之“本”，这门功夫是统治术的一部分，而统治术正是《淮南子》的核心所在。不过，许多人也注意到（这想必正是作者的用意）：这套总框架并不只适用于君主。单个读者也可以各取所需，从《淮南子》的为学与理解之道中受益。
   - id: 43
     kind: body
     source: |-
       One interesting feature of the *Huainanzi* is its position on the role of humanity in completing (*cheng* 成) the cosmos, through such activity as measurement (ch.3), naming (ch. 1), and construction of customs (ch. 11). The *Huainanzi* focuses on the role of the human in both understanding the patterns inherent in nature, and also in shaping and completing things on the basis of these patterns. In comparison in particular with accounts of agency and free will emerging in philosophical contexts of the post-Abrahamic West, the *Huainanzi*, and Han philosophy in general, has a far easier time squaring human activity and that of the extra-human world.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《淮南子》一个有趣之处，是它对人在“完成”（*cheng* 成）宇宙中所起作用的立场——人通过度量（第三章）、命名（第一章）、建构习俗（第十一章）之类的活动来完成宇宙。《淮南子》关注人的双重作用：既理解自然固有的理，又依据这些理来塑造和完成事物。尤其是与后亚伯拉罕西方哲学语境中出现的能动性与自由意志学说相比，《淮南子》乃至整个汉代哲学，在调和人类活动与超人类世界的活动方面要轻松得多。
+    step2: |-
+      《淮南子》有一个耐人寻味之处：它主张人参与“完成”（*cheng* 成）宇宙——通过度量（第三章）、命名（第一章）、创制习俗（第十一章）这类活动。《淮南子》看重人的双重角色：既理解自然固有的理，又依这些理去塑造、完成事物。尤其与后亚伯拉罕西方哲学语境中关于能动性与自由意志的学说相比，《淮南子》乃至整个汉代哲学，在打通人的活动与超人类世界的活动这一点上要轻松得多。
   - id: 44
     kind: body
     source: |-
       The *Huainanzi* represents the most sophisticated expression of the tendency toward synthesis popular in the early Han period, as well as the high-water mark of the trend, before it began to recede in the years after the Han political consolidation of vassal states. Despite this, a strong current of the kind of syncretism found in the *Huainanzi* would continue to thrive in Chinese thought, ultimately facilitating the construction of the unique kinds of Buddhist thought that emerged in China in later centuries, which heavily borrowed from both Daoist and Confucian ideas.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《淮南子》代表了汉初流行的综合倾向最精致的表达，也是这一趋势的最高点；此后随着汉朝在政治上削平诸侯国，这股趋势开始退潮。尽管如此，《淮南子》式的折中主义仍作为一股强劲的潮流在中国思想中延续，最终促成了后世中国出现的独特佛教思想形态——这些思想大量借用了道家与儒家的观念。
+    step2: |-
+      《淮南子》是汉初盛行的综合倾向最精致的表达，也是这股潮流的高点；此后随汉廷在政治上收拢诸侯国，潮流渐退。尽管如此，《淮南子》式的折中主义仍作为一股强劲的潜流在中国思想中延续，最终促成了后世中国特有的佛教思想形态——那些思想大量借取了道家与儒家的观念。
   - id: 45
     kind: body
     source: |-
       ### 2.4 Human Nature: Yang Xiong
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 东汉（25–220 年）
+    step2: |-
+      ## 3 东汉（25–220 年）
   - id: 46
     kind: body
     source: |-
       Yang Xiong (53 BCE–18 CE) was one of the last major philosophical figures before the end of the Western Han Dynasty, whose life spanned into the short-lived “interregnum” period of Wang Mang’s *Xin* Dynasty (9–23 CE). Yang’s late work represents a crucial pivot point toward the new kind of philosophical thought that would come to dominate in the Eastern Han period. Though the naturalism of the early Han remained, later Han thought moved back toward the kind of metaphysically sparse realism of the pre-Han period, away from the elaborate correlative systems of the earlier Han. Yang Xiong’s *Fayan* (“Model Sayings”) returns to the style and ideas of early texts such as the *Analects*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 汉末自然主义的发展：桓谭
+    step2: |-
+      ### 3.1 汉末自然主义的发展：桓谭
   - id: 47
     kind: body
     source: |-
       While Yang’s early scholarly reputation was based on his *fu* poems (a genre of polemic poetry generally aimed at influencing political policy during this time), his best known work today is his philosophical work, produced later in his life. The earlier of these texts, the *Taixuanjing* (“Classic of Supreme Mystery”) is a very much continuous with the correlative metaphysical trends of earlier Han philosophy. The text is an divinatory and philosophical manual in the style of the early divination classic *Yijing*, and develops a similar correlative metaphysics to ones found in earlier texts such as *Chunqiu Fanlu* and *Huainanzi*. *Fayan*, perhaps his most famous work, was one of his later works, written during period of Wang Mang’s Xin Dynasty. While this work is innovative in its return to an older style of presentation as well as its presentation of new theories of *xing* 性 (human nature/inborn characteristics), moral cultivation, and political organization, it’s legacy led to the sidelining of Yang Xiong in the later Chinese tradition. Song Dynasty Neo-Confucians such as Zhu Xi (1130–1200 CE) criticized Yang on the basis of what they saw as the presumptuousness of his use of the style of the *Analects* for the construction of *Fayan*. Because of this, Yang’s work was not included as one of the essential Confucian texts by these later scholars, and this led to the neglect of Yang’s work from this time, given the influence of the Neo-Confucians (Nylan 2014: 2)[^nylan-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      桓谭（公元前 43 年–公元 28 年）虽与扬雄同时（且二人有交往），却可以算作东汉第一位哲学家。与扬雄一样，桓谭也与王莽的新朝有瓜葛，因此遭到后世一些人物的非议；但与扬雄不同，桓谭的生命与著述延续到了东汉数年，他因为继续在后汉担任官职，名声多少得到了挽回。
+    step2: |-
+      桓谭（公元前 43 年–公元 28 年）虽然与扬雄同时代（两人也有过交往），却可以看作东汉第一位哲学家。和扬雄一样，桓谭也与王莽的新朝牵连，因此被后世不少人诟病。不过与扬雄不同，桓谭的生命与事业一直延伸进东汉，又因在第二个汉朝继续做官，名声总算挽回了几分。
   - id: 48
     kind: body
     source: |-
       The correlative model of the *Taixuanjing*, as it follows in general the kind of “Five Phases” thought found in earlier works, is presented in the style of the *Yijing*, as short descriptions of divinatory tetragrams. It is a notoriously difficult text, written in the same terse, poetic, and suggestive way as the *Yijing* itself, and its main focus is divinatory, although Yang develops some philosophical positions in the text as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本条给桓谭专列一节——不像同时代的其他人物（如刘歆）——因为他对东汉其余部分的哲学有影响，论辩风格与内容两方面都是。桓谭的主要哲学著作《新论》今天只存残篇；在其中，他提出了关于心/精神的自然主义与物理主义观点，主张精神依赖于身体、与身体相连，因此随身体的死亡而死亡。如此，桓谭批评了他视为迷信的观点——接受鬼魂或脱离身体的精神之存在。他也反对当时流行的通过炼丹、身体技术或心智修养求长生的做法。桓谭认为，我们无法阻止人类机体的自然衰败与最终的死亡。这种以早先非物理主义观点为靶子的批判精神，成为东汉许多思想家的标志，最突出的是王充。在讨论他视为方术道家人士延寿之术的谬误时，桓谭如此描述有意识的精神（*jingshen*）与形（*xing*）的关联：
+    step2: |-
+      本条给桓谭专设一节，而不像对其同时代人（如刘歆）那样一笔带过，原因在于他对东汉其余哲学的影响——论辩风格与内容两头都有。桓谭的主要哲学著作《新论》今只存残篇。在这部书里，他对心/精神（*jingshen* 精神）提出了一种自然主义兼物理主义的观点：精神依附于身体、与身体相连，所以身体死亡，精神也随之死亡。桓谭由此批评了他眼中的迷信——相信鬼魂或脱离形体之灵实有。他还反对当时风行的种种求仙之术：炼丹、方技、养神。桓谭主张，人阻止不了机体的自然衰败与最终的死亡。这种以先前非物理主义观点为靶子的批判精神，成了东汉一批思想家的标志，其中最突出的是王充。谈到他眼中术士延寿之法的荒谬时，桓谭这样描述有意识的精神（*jingshen*）与形体的关系：
   - id: 49
     kind: body
     source: |-
       Arguably the most well-known of Yang’s philosophical positions is his view of *xing* 性 (human nature/inborn characteristics), a view later criticized by Neo-Confucians in the Song Dynasty because of its inconsistency with Mengzi’s view, which had by that time become the “orthodox” Confucian position. Contrary to the earlier Confucian philosophers Mengzi and Xunzi, Yang held that human inborn characteristics contain both good and evil, and that moral development is a matter of cultivating the good aspects of it, while allowing the evil elements to wither. The fact that a particular characteristic is inborn or part of our nature, according to Yang, does not necessitate that we act according to it. Humans have the ability (through ritual and other tools) to shape our dispositions. Agreeing with earlier Confucians, Yang argues that what is contained in our nature must be developed in order to become either virtue or vice. The contents of our nature can be called good or evil, but an individual only becomes virtuous or vicious in connection with these characteristics once they are developed. The key passage in *Fayan* reads:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 精神居于形体，犹如火焰居于烛身。若把烛照料得当、转动及时，使之随火而行，火便不必熄灭，直到烛膏燃尽。当然，烛本无火，便不能凭空自燃，其灰烬也不能后来复燃。（《弘明集》5.18 残篇，Pokora 译，1975：76–77）
+    step2: |-
+      > 精神居于形体，就像火焰居于烛上。若把烛照料得好、转动得勤，火随烛走，火就不必熄灭，直到烛膏烧尽。当然，烛上本没有火，它便不能凭空自燃；它的灰烬，事后也点不着。（《弘明集》5.18 残篇，Pokora 译，1975：76–77）
   - id: 50
     kind: body
     source: |-
       > Human *xing* is a mixture of good and evil. If one cultivates the good aspects one becomes good, while if one cultivates the evil aspects one becomes evil. As for *qi*—is it not the horse that carries one to either good or evil? (*Fayan* 3.2, author’s translation)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      批判性文字在中国思想文化中由来已久，但在桓谭的著作里，我们开始看到更直接、更锋利的批评，而不像西汉早期那样——当时赋是表达批评的主流形式，人们推崇文学的含蓄与曲折。这种借赋而行的间接批评在东汉仍在，蔡邕等名家依然擅长此道；但桓谭一类学者更直截的批判文字，在这一时期开始扮演更重要的角色。桓谭的批判立场动摇了许多早先的传统做法（如占卜），而且与许多前代思想家不同，他不诉诸历史先例、不乞灵于往古人物。这使他在一定程度上与法家的现实主义实用主义接近；不过，把桓谭归入法家这一在汉代并无声势的旧学派名目之下，并不恰当。他的思想代表了那种批判的、理性主义的、更执意自然主义的思维方式，这种思维方式在东汉变得更为突出。桓谭等人批评西汉关联性宇宙论形而上学的过度铺张，批评其在本体论中增殖实体的倾向——桓谭认为其中许多实体是出于想象。桓谭的批判风格在东汉后来的思想家（如王符、王充）身上有清晰的回声。尤其是在对待经典文本的方式上，可以看到他对王充这类后人的影响。桓谭主张零敲碎打、逐条取舍，而不是把一部文本整个接受或拒斥：对古人的著述，真的就接受，假的就抛弃。
+    step2: |-
+      批判之文在中国思想文化里由来已久，但到了桓谭笔下，批评开始变得更直接、更锋利，一改西汉早期那种措辞谨慎、拐弯抹角、点到即止的路数——那时赋是表达批评的主流体裁，文学上的含蓄曲折备受推崇。借赋行讽的间接批评在东汉并未绝迹，蔡邕等作手依然精于此道；但桓谭这类学者更直接的批判文字，在这个时期分量越来越重。桓谭的批判立场动摇了许多早先的传统做法，比如占卜；而且他与许多前人不同，不靠历史先例，不搬古圣先贤来压阵。这让他跟法家的现实主义实用主义有几分相近；不过把他塞进“法家”这个在汉代并无声势的旧学派名目之下，并不恰当。他的思想代表的是一种批判的、理性主义的、更执意自然主义的思维方式，这种思维方式在东汉日益突出。桓谭等人批评西汉关联性宇宙论形而上学的铺张，批评它在本体论中一味增殖实体——桓谭认定其中许多实体纯属虚构。桓谭的批判风格，在东汉后来的王符、王充等人身上有清楚的回声。尤其在他对待经典文本的方式上，可见其对王充一类后人的影响。桓谭主张零敲碎打、逐条取舍，而不是把一部文本整个接受或整个拒斥：古书里真就取，假就弃。
   - id: 51
     kind: body
     source: |-
       ## 3. Eastern Han (25–220CE)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 虽然在……其他那些书里有无据而骇人的篇章，我们也必须用其中最好的部分。哪敢谈把它们整个抛弃？（《新论》，Pokora 译，1975：xvi, 2）
+    step2: |-
+      > 虽然在……其他那些书里有无稽而骇人的段落，我们也必须采用其中最好的东西。怎么敢说要把它们整个抛弃？（《新论》，Pokora 译，1975：xvi, 2）
   - id: 52
     kind: body
     source: |-
       ### 3.1 The Development of Late Han Naturalism: Huan Tan
-    step1: TBD
-    step2: TBD
+    step1: |-
+      桓谭的政治与伦理纲领遵循同样的批判式、零碎式进路。他并不像韩非子等早期法家那样，把古圣先王之道整个排除在当下政治实践的指导之外；但在一点上他跟法家一致：当下情形的特点最终决定实践，而且至少一部分古人的范本应当弃而不用。
+    step2: |-
+      桓谭的政治与伦理纲领，走的正是这种批判而零敲碎打的路子。他不像韩非子等早期法家那样，把古圣之道整个逐出当下政治实践的指导范围；但他在一点上与法家一致：最终决定实践的，是当下处境的特点，而且至少有一部分前人的成规应当弃之不用。
   - id: 53
     kind: body
     source: |-
       Although Huan Tan (43 BCE–28 CE) was a contemporary of Yang Xiong (with whom he interacted), he can be considered the first of the philosophers of the Eastern Han. Like Yang Xiong, Huan was associated with the Xin court of Wang Mang, and was for this reason criticized by a number of later figures, but unlike Yang, Huan’s life and work stretched a few years into the Eastern Han, and Huan’s reputation was salvaged to some extent by his continued service as an official in the second Han Dynasty.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 认识论与形而上学的新方法：王充
+    step2: |-
+      ### 3.2 认识论与形而上学的新方法：王充
   - id: 54
     kind: body
     source: |-
       Huan Tan receives a special section here, unlike other of his contemporaries such as Liu Xin, because of his influence on the philosophy of the rest of the Eastern Han, both in argumentative style and in content. In Huan’s major philosophical work, *Xinlun* (“New Discourses”), which only exists today in fragmentary form, he offered a naturalistic and physicalistic view of mind/spirit (*jingshen* 精神), arguing that the spirit is dependent on and linked to the body, and that it thus dies with the death of the body. In this way, Huan criticizes what he takes to be superstitious views accepting the existence of ghosts or disembodied spirits. He also objected to the popular practices of the time of seeking of immortality through alchemy, physical techniques, or intellectual cultivation. We cannot, Huan argued, forestall the natural decline and ultimate death of the human organism. This critical spirit taking aim at earlier non-physicalistic views comes to mark a number of thinkers in the Eastern Han, most prominently Wang Chong. Huan describes the connection between the conscious spirit (*jingshen*) and the body (*xing*) thus, in discussing what he takes to be the wrongheadedness of the life-extension techniques of esoteric Daoists:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      桓谭的批判与自然主义思想今天只能靠残篇得知；王充（公元 27–100 年）则给我们留下了多得多的材料。他是东汉一位与桓谭相近的思想家，其著作很可能受过桓谭的影响。王充在他那个时代多少是个边缘人物（他本人就在著作中抱怨这一点），但他的思想在后世间接产生了影响，尤其是魏晋玄学运动兴起的前夜。王充不仅著述浩繁，而且其中富含历史掌故、引文与对前代思想家的征引。他显然研读过极广的文本，并就其中许多写过文字。因此，他的著作得以留存，主要是由于汉末与魏晋人物把它收集起来、当作一种百科全书使用。这些人物中有若干位在先于玄学的“清谈”论辩运动中出了名，王充的思想经由这一渠道影响了该运动（见 McLeod 2020）[^mcleod-2020]。
+    step2: |-
+      桓谭的批判与自然主义思想，今天只能靠残篇来认识。王充（公元 27–100 年）留给我们的材料则多得多——他是东汉一位与桓谭相类的思想家，著作很可能受过桓谭影响。王充在世时多少是个边缘人物（他本人就在书里抱怨此事），但他的思想在后世间接发挥了影响，尤其为魏晋玄学运动的前夜铺了路。王充不仅著述浩繁，书中还含有大量历史掌故、引文以及对前代思想家的征引。他显然涉猎极广，对许多文本都写过论说。也正因此，他的著作得以流传，主要靠汉末与魏晋人物把它收集起来、当百科全书用。这批人物里有几位在先于玄学的“清谈”论辩运动中声名鹊起，王充的思想经由这一渠道影响了那场运动（见 McLeod 2020）[^mcleod-2020]。
   - id: 55
     kind: body
     source: |-
       > The conscious spirit inhabits the body as a flame does a candle. If the candle is properly tended and turned so that it follows the flame need not be extinguished until the candle is all used up. Of course, if the candle has no flame, it cannot become active in the void, nor can its ashes be lighted later. (fragment from *Hongming Ji* 5.18, Pokora [trans.] 1975: 76–77).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      王充最具原创性的贡献，是他的方法论与批评观、真理与知识观、人性与能动性观。近年来不少学者就王充在这些题目上的看法著文（包括 Klein & Klein 2016；McLeod 2018；Song 2020）[^klein-2016][^mcleod-2018][^song-2020]。
+    step2: |-
+      王充最具原创性的贡献，是他的方法论与批评观、真与知识的观点、以及人性与能动性的观点。近年来已有不少学者撰文讨论王充在这些题目上的看法（如 Klein & Klein 2016；McLeod 2018；Song 2020）[^klein-2016][^mcleod-2018][^song-2020]。
   - id: 56
     kind: body
     source: |-
       While the literature of criticism had long been a part of Chinese intellectual culture, in Huan’s work we begin to see more direct and incisive criticism, rather than the carefully expressed, indirect, and suggestive criticism we see earlier in the Western Han, when *fu* poetry was a dominant form of presentation of critique and literary subtlety and indirectness were prized. Such indirect criticism through *fu* poetry was still practiced in the Eastern Han, by masters of the art such as Cai Yong, but the more direct critical literature of scholars like Huan Tan came to play a larger role in this period. Huan’s critical stance undermined many earlier traditional practices, such as divination, and he does not, unlike many previous thinkers, rely on historical precedent and appeals to the figures of the past. This aligns him to some extent with the realist pragmatism of the Legalists, although it is incorrect to see Huan in terms of this older school designation that had no cache in the Han. His thought is representative of the critical, rationalist, and more insistently naturalist mode of thinking that became more prominent in the Eastern Han. Huan and others criticized what they saw as the excesses of the metaphysics of correlative cosmology of the Western Han, and its tendency to proliferate entities in its ontology, many of which Huan thought were imaginary. Huan’s critical style is clearly echoed in later thinkers of the Eastern Han such as Wang Fu and Wang Chong. Particularly in his approach to the classical texts, we find influence on later thinkers such as Wang Chong. Huan advocated a piecemeal approach rather than acceptance or rejection of a text as a whole. We should accept what is true and reject what is false in the writings of the past.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      王充发展了一套他称为“问难”（*wen nan* 問難）的批判方法，由两个部分构成（《论衡》28）。照王充的看法，要辨识往圣文本中的真理，先要考察其言辞，对它们加以问诘以求澄清。文本中含义不明或可作多重解释的语句或教言（*yan* 言），王充主张，应施以澄清性的问诘。问诘旨在消除一切不明之处，得出一个可以就其本身优劣来评价的立场。得到明确而可评价的语句之后，我们再应用“难”的方法：更直接地评价语句——向它们提出反例，寻找其不成立的情形，检验其可信度，考虑其可行性，等等。王充在“问孔”一章总论此法的必要，批评同时代的人不愿质疑往圣之言：
+    step2: |-
+      王充发展了一套他称作“问难”（*wen nan* 問難）的批判方法，分两个部分（《论衡》28）。按王充的说法，要辨识前圣文本中的真理，先从考察他们的言辞入手，对言辞加以问诘，以求澄清。文本里含义不明、或可作多种解读的语句与教言（*yan* 言），就该施以澄清性的“问”。“问”的目标，是扫除一切含混，得出一个可以就其本身是非来评判的立场。拿到明确而可评判的语句之后，再用“难”的方法：更直接地检验语句——提反例，找它们站不住脚的情形，试其可信与否，量其可行与否，等等。王充在“问孔”一篇里总论此法的必要，批评同代人不敢质疑前圣之言：
   - id: 57
     kind: body
     source: |-
       > Although there are unfounded and outrageous passages in…those other books, we must use what is best in them. How dare we talk of rejecting them completely? (*Xinlun*, Pokora [trans.] 1975: xvi, 2)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 贤圣著书，详察其事。即便如此，也不能说他们完全获得了（关于一切的）真理。既然如此，他们平日随口的闲谈怎么可能会是全真？这些话不可能都真，而今天的人却不知道怎样去难。或者，其中有些话是实的，而所传之意不明难解，今天的人也不知道怎样去问。（《论衡》28.1，作者自译）
+    step2: |-
+      > 贤圣著书，用他们的思想对事理作了详察。即便如此，也不能说他们完全达到了（关于一切的）真理。既然如此，他们平日信口的闲言，怎么可能是全真？这些话不可能都真，可今天的人不知道该怎样去“难”。或者，其中有些话是实的，而所传的意思不明、难以捉摸，今天的人也不知道该怎样去“问”。（《论衡》28.1，作者自译）
   - id: 58
     kind: body
     source: |-
       Huan’s political and ethical program followed this critical and piecemeal approach. While he did not, as early Legalists such as Han Feizi, completely reject the way of the sages of the past as a guide for current political practice, he did follow the Legalists in holding that the features of current situations should ultimately determine practice, and that at least some of the models of the past should be rejected.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      照王充的分析，这种无能部分地出于学者不愿创新、不愿背离圣贤。在《对作》一章中，王充直面一种由《论语》表达的流行看法：传述古代圣贤的教诲胜于创作与创新。“作”（*zuo* 作）本身在汉代被视为消极之事，尽管这一时期创新极多。王充用他提出的方法，旨在区分实（*shi* 實）的语句与虚（*xu* 虛）的语句。在他看来，虚的语句是那些出于种种原因容易抓住我们的语句。王充关心的不是我们没有倾向去相信的假话，而是那些本身具有吸引力的话。他论证说，“华”（*hua* 花）的言辞就有这种特点：以其风格而非其真实性吸引我们。大量的人类偏差，使某些类型的假话对我们具有吸引力。除了偏好华美的言辞，我们还倾向于那些把我们呈现在好光景中的语句与教言——它们喂养我们的优越感与虚荣心，或增进我们的私利。王充把“虚”（*xu*）这一范畴——这个词也有“空”的意思——专门留给这一类语句。虚的语句有吸引力，却缺乏使语句为真的那些重要特征。语句之所以为实（*shi*），是因为它具有我们*一般*在评价语句时所寻求的特征，而不只是在某些选项对我们有吸引力的个别情形中所寻求的特征。这些特征依我们评价的语句类型而不同：一条为真的道德语句，其成真特征不同于医学或地质学的语句。
+    step2: |-
+      按王充的分析，这种无能部分是因为学者不肯创新、不敢跟圣人分道。在《对作》篇里，他正面迎击一种流行看法——它见于《论语》：传述古圣的教诲，胜于自己创作与创新。汉代对“作”（*zuo* 作）这件事本身抱着否定态度，尽管那个时代创新累累。王充要靠他提出的方法，把实（*shi* 實）的语句同虚（*xu* 虛）的语句区分开来。在他看来，虚的语句之所以要紧，是因为它们出于种种缘故容易抓住我们。王充并不关心我们没有兴趣去信的假话，他关心的是那些天生讨人喜欢的话。他论证说，“华”（*hua* 花）美的言辞就有这种特点：以文采动人，而不以真实动人。形形色色的人性偏差，共同使某些类型的假话对我们产生吸引力。除了好华辞，我们还偏爱那些把我们衬托得光彩的语句与教言：它们喂养我们的优越感、我们的虚荣，或者增进我们的私利。“虚”（*xu*）这个范畴——这个词兼有“空”的意思——王充就专门留给这一类语句：虚的语句有吸引力，却缺少使语句为真的那些关键特征。一个语句之所以为实（*shi*），在于它具有我们**通常**评判语句时所要求的那些特征，而不是只在个别情形、当我们被某些选项吸引时所要求的那点东西。这些特征随语句的类型而不同：一条道德语句为真，其成真特征就不同于医学或地质学的语句。
   - id: 59
     kind: body
     source: |-
       ### 3.2 New Methods in Epistemology and Metaphysics: Wang Chong
-    step1: TBD
-    step2: TBD
+    step1: |-
+      王充著作中另一个重要议题是人性或禀赋（*xing* 性）；它与若干概念交织在一起，包括能动性与命（*ming* 命）。王充提出了一种在他那个时代极具创新的人之能动性学说，把能动性与“自然”（*ziran* 自然）或自生自发对照起来。他关心的问题是：儒家等较早文本所讨论的那种道德修养，能够在多大程度上改变人的行为及行为所致的结果。我们能否通过儒家所劝导的那些实践，矫正并改变自己的行为，从而产生与原本不同的效果？承认人的活动能对世界造成这样的差异，似乎与另一个古已有之的观念冲突：我们所有人都受命（*ming*）的束缚，而命由世界支配。王充在《论衡》的许多章节里试图调和这两个互相冲突的观念。
+    step2: |-
+      王充书中另一个重要议题是人性或禀赋（*xing* 性）。它与若干概念纠缠在一起，包括能动性与命（*ming* 命）。王充提出了一套在当时极具新意的人之能动性理论，把能动性同“自然”（*ziran* 自然）、自生自发对照起来。他关心的问题是：儒家等较早文本所讨论的那种道德修养，究竟能在多大程度上改变人的行为，以及行为带来的结果。我们能不能照儒家劝导的那样做，来矫正并改变自己的行为，从而造出原本不会出现的效果？承认人的活动能对世界造成这样的差别，似乎就同另一个古老的观念相抵触：人人都受命（*ming*）约束，而命由世界支配。王充在《论衡》的许多篇里，都试图调和这两个互相冲突的观念。
   - id: 60
     kind: body
     source: |-
       While the critical and naturalistic thought of Huan Tan is only today known through fragments, we have far more material from Wang Chong (27–100 CE), a somewhat similar thinker of the Eastern Han whose work was likely influenced by Huan. While Wang Chong was a somewhat marginal figure in his time (a situation about which he complains in his work), his thought became influential indirectly in later years, particularly in the leadup to the *Xuanxue* movement in the Wei-Jin period. Wang’s writing was not only voluminous, but contained a wealth of historical references, quotes, and citations of earlier thinkers. Wang apparently studied a wide range of texts, and wrote about many of them. Thus, his work survived mainly due to being collected and used as a kind of encyclopedia by figures in the late Han and Wei-Jin periods. A number of these figures became prominent in the “*Qingtan*” (pure talk) discussion movement that preceded *Xuanxue*, and Wang’s ideas influenced the movement via this direction (see McLeod 2020)[^mcleod-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      照王充的说法，人的禀赋（*xing*）由自然所赋予人的命（*ming*）决定。这一过程不含任何能动性，是“自然”（*ziran*）地发生的。王充用自然中的生育来刻画这种自发或无主体的活动。例如人的生育行为，就同时具有能动与非能动的特征：个体决定行生育之事，这是能动的；而胚胎生成、终成孩子，则“自然”（*ziran*）发生，不费气力，也没有意图。不过，王充似乎比这更进一步，走向决定论。他写道，连人的行为最终也由世界的非能动特征决定，甚至绕过通常用来解释我们行为的禀赋——而禀赋本身也由世界的非能动特征决定。在《论衡·治期》篇中他写道：
+    step2: |-
+      照王充的说法，人的禀赋（*xing*）由自然赋予人的命（*ming*）来决定。这个过程不含任何能动性，是“自然”（*ziran*）发生的。王充用自然界的生育来刻画这种自发或无主体的活动。比如人的生育，就兼有能动与非能动两面：要不要行房事，由人决定，这是能动的；而胚胎生成、长成孩子，则“自然”（*ziran*）发生，不费力气，也没有意图。不过王充似乎比这更进一层，直奔决定论。他写道，连人的行为最终也由世界的非能动特征所决定，甚至绕过了通常用来解释行为的禀赋——而禀赋本身同样由世界的非能动特征决定。他在《论衡·治期》篇里写道：
   - id: 61
     kind: body
     source: |-
       Wang’s most original contributions were his views on methodology and criticism, truth and knowledge, and human nature and agency. A number of scholars have written in recent years on Wang’s views on these topics (including Klein & Klein 2016; McLeod 2018; and Song 2020)[^klein-2016][^mcleod-2018][^song-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 谷粮充足、有得吃饱时，遵循礼义之心便在心中生起。礼丰义盛时，太平的根基便得以确立。因此，饥年的春天，人甚至不给亲人饭吃；丰年的秋天，人却把四方的邻居召来宴饮。不给亲人饭吃是恶行，召四方之邻则是善行、义行。善行或恶行的形成，不在于人的质性（*zhi xing* 質性），而在于谷物的收聚。（《论衡》53.6，作者自译）
+    step2: |-
+      > 谷粮充足、吃得饱的时候，礼义之心在胸中生起；礼丰义盛，太平的根基就立起来了。所以荒年的春天，人连亲人都不给饭吃；丰年的秋天，人却把四方的邻居请来设宴。不给亲人饭吃，是恶行；请四方之邻，是善行、义行。善行恶行的形成，不系于人的质性（*zhi xing* 質性），而系于谷物的多寡。（《论衡》53.6，作者自译）
   - id: 62
     kind: body
     source: |-
       Wang developed a critical method he referred to as *wen nan* 問難 (“questioning and challenging”), built of two parts (*Lunheng* 28). According to Wang, to discern the truth in the texts of the sages of the past, we begin with an investigation of their words, subjecting them to questioning so as to clarify them. The statements or teachings (*yan* 言) found in texts that are unclear or interpretively ambiguous, Wang claims, should be subjected to clarifying questioning. This questioning aims to remove any lack of clarity and derive a position that can be evaluated on its merits. Once we have clear and evaluable statements, we can then apply the method of “challenging”, which more directly evaluates statements by presenting them with counterexamples, looking for cases in which they do not hold, testing their plausibility, considering their practicability, etc. Wang offers a general statement of the need for this method in his chapter “Questioning Confucius”, in which he criticizes his contemporaries for their unwillingness to challenge the words of sages of the past:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      王充虽把人的行为归因于这类无主体的外部境况，但同时也为禀赋（*xing*）留出了位置。这些禀赋因个人受自然之命（*ming*）而彼此不同，决定一个人行为善恶的品性。王充写道：
+    step2: |-
+      王充一方面把人的行为归给这类无主体的外部境况，另一方面又为禀赋（*xing*）留了位置。这些禀赋因各人受自自然的命（*ming*）而彼此不同，决定着一个人行为善恶的品质。他写道：
   - id: 63
     kind: body
     source: |-
       > When the worthies and sages wrote their works, they used their thoughts to make a detailed investigation of things. We cannot say that they completely attained the truth (about everything) even then. Given this, how could it possibly be that their everyday and idle statements are completely true? These statements cannot all be true, but the people of today don’t know how to challenge them. Or if some of these statements are true and the ideas imparted are unclear and hard to make out, the people of today do not know how to question them. (*Lunheng* 28.1, author’s translation)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……人性有善有恶，就像人的才性有高有低……禀性与受命（*ming*）实为一事：命决定人的贫富，禀性决定人的善恶。（《论衡》13.19，作者自译）
+    step2: |-
+      > ……人性有善有恶，正如人的才干有高有低……禀性与受命（*ming*）本是一回事：命决定人的贫富，性决定人的善恶。（《论衡》13.19，作者自译）
   - id: 64
     kind: body
     source: |-
       According to Wang, this inability is in part explained by the unwillingness of scholars to innovate and to break with the sages. In the chapter *Duizuo* (Replies on Creation), Wang confronts the commonly held view, expressed in the *Analects* of Confucius, that it is best to transmit the teachings of the ancient sages rather than to create or innovate. “Creation” (*zuo* 作) as such was looked at in a negative way in the Han, despite a wealth of innovation in this period. Using his proposed method, Wang aimed to distinguish true (*shi* 實) statements from false (*xu* 虛) statements. Wang understood false statements as ones that tend to have a grip on us for a variety of reasons. Wang was not concerned with falsehoods that we have no inclination to believe, but rather with ones that have an intrinsic attractiveness. He argued that “flowery” (*hua* 花) words have this feature, attracting us due to their style, rather than their veridicality. A whole host of human biases contributes to making certain kinds of falsehoods attractive to us. In addition to having a preference for flowery words, we are also inclined toward those statements and teachings that present us in a good light, feeding our sense of superiority, our vanity, or advancing our personal interests. It is this category of statement for which Wang reserves the category of “false” (*xu*), using a term that also has the sense of “empty”. *Xu* statements are attractive statements that lack the important features that make statements true. What makes a statement true (*shi*) is that it has the features we *generally* seek in evaluating statements, rather than only in particular cases with certain options attractive to us. These features will be different depending on the kind of statement we are evaluating. A true moral statement will have different truth-making features than a statement of medicine or geology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      王充把关乎行为善恶的禀性与才性之类的自然所赋特征联系起来，试图用归根结底自发的、无主体的世界方面来解释品性的来源。然而，尽管他对人的活动似乎持一种决定论观点，王充仍试图为能动性、为人类活动改变理式的效力留出空间。他论证说，道德教育可以通过改造人的品性而转变人的行为，而这需要个人付出协同的努力（能动性的努力）（《论衡》5）。王充意识到，这种看法表面上与他在别处的决定论陈述相冲突。为求解这一问题，他诉诸三种命（*ming*）的区分。在某些较早的文本中，命以更明确的决定论方式被理解，这也是我们常见把这个词译为“destiny”或“fate”的原因。王充在这里放弃了这种严格决定论。人的能动性可以在某些类型的命中起作用，在另一些类型中则不然。王充写道：
+    step2: |-
+      王充把关乎行为善恶的禀性，同才性这类自然所赋的特征连在一起，试图用归根到底自发、无主体的世界面向来解释品性的来源。然而，尽管他谈人的活动带着决定论的口吻，王充仍然想给能动性留地步，想说明人的活动能够改变理式。他论证说，道德教育可以改造人的品性，从而转变人的行为，而这要求个人付出协调一致的努力（能动性的努力）（《论衡》5）。王充自己也看到，这种说法表面上看与他别处的决定论断言相冲突。为解决这个难题，他诉诸命（*ming*）的三分。在某些较早文本里，命以更明确的决定论方式被理解——这也是人们常把这个词译作“destiny”“fate”的原因。王充在这里放弃了这种严格决定论：人的能动性在某些类型的命里起作用，在另一些类型里不起。他写道：
   - id: 65
     kind: body
     source: |-
       Another important issue dealt with in Wang’s work is that of human nature or inborn characteristics (*xing* 性), which is intertwined with a number of concepts, including agency and allotment (*ming* 命). Wang develops an account of human agency that is remarkably innovative for his time, drawing a contrast between agency and “spontaneity” or self-action (*ziran* 自然). Wang is concerned with the ways in which the kind of moral cultivation discussed in earlier texts such as those of the Confucians can make a difference in human behaviors and in the outcomes resulting from these behaviors. Can we, through the kinds of practices the Confucians enjoin, rectify and change our behavior so as to produce different effects than those that otherwise would have resulted? To accept that human activity can make such a difference in the world seems to conflict with another idea of antiquity, that all of us are bound by our allotment (*ming*), which is governed by the world. Wang attempts to square these two conflicting ideas in numerous chapters of the *Lunheng*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 传说讲命有三种：正命、随命、遭命。正命是说，善报出于本来的禀赋：凭自身禀性，骨相健康，因此不必改行易操以求吉福，善报即由自身禀性而得，所以称正命。随命之人用力控制自己的行为，由此得吉福善报；若纵情恣欲，便遭祸殃，所以称随命。至于遭命之人，行善而得恶，无所望救；外遇事故，遂得祸殃，所以称遭命。（《论衡》6.4，作者自译）
+    step2: |-
+      > 相传命分三种：正命、随命、遭命。正命，是说善报由本来的禀赋自行而出：禀性本身健全，骨相康健，所以不必改行移性去求吉福，善报自然由自身禀性而来，故称正命。随命之人用力约束自己的行为，由此得到吉福善果；若放纵情欲，就会遭祸，故称随命。至于遭命之人，行为虽善却得恶报，毫无指望可救；外部遇上事故，遂得祸殃，故称遭命。（《论衡》6.4，作者自译）
   - id: 66
     kind: body
     source: |-
       According to Wang, human inborn characteristics (*xing*) are determined by the allotment (*ming*) provided to humans by nature. This process is one absent of agency of any kind, and happens “spontaneously” (*ziran*). Wang uses the image of generation in nature to describe such spontaneous or non-agentive activity. The act of human procreation, for example, displays both agentive and non-agentive features. While individuals decide to engage in the procreative act, the generation of the embryo that becomes a child happens spontaneously (*ziran*), without effort and intention. Wang seems to go even further than this toward determinism, however. He writes that even human behavior is ultimately determined by non-agentive features of the world, even bypassing the inborn characteristics generally taken to explain our behavior, and itself determined by non-agentive features of the world. Wang writes, in the *Zhiqi* (Periods of Government) chapter of *Lunheng*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      三种命中，第二种——随命（*sui ming* 隨命）——强调能动性的作用。我们始于正命（*zheng ming* 正命），由此我们生活中的特定方面被确定下来。这个命可以因人的努力（由此得到随命）而改变，也可以因遇到世间的事故而改变——遭命（*zao ming* 遭命）。人的能动性虽能改变我们的命、从而改变我们生命与行为的结局，但这种活动的范围与效力仍受正命的限制。事实上，王充认为，这种外部限制正是理解道德教化之价值与效力的关键。无论个人的道德修养，还是国家与君主对民众的道德教化，都是如此。在《论衡·治期》篇论政一段中，王充写道：
+    step2: |-
+      三种命中，第二种随命（*sui ming* 隨命）突出能动性的作用。人始于正命（*zheng ming* 正命），生活中某些特定方面由此注定。这个命可以由人力（由此得随命）改变，也可以因撞上世间事故而改变——那就是遭命（*zao ming* 遭命）。人的能动性虽能改动我们的命，从而改动一生的际遇与行为的结果，但其范围与效力仍受正命的限定。王充甚至认为，正是这种外部限制，是理解道德教化之价值与效力的关键。个人的道德修养如此，国家与君主对民众的道德教化也是如此。他在《论衡·治期》篇论政治的一段里写道：
   - id: 67
     kind: body
     source: |-
       > When grain is sufficient and there is enough to eat, adherence to ritual and righteousness are born in the heart. When ritual flourishes and righteousness is abundant, the foundations of peace are established. Therefore in the spring of a year of famine, one does not even feed one’s relatives, whereas in the autumn of a year of abundance, one calls together one’s neighbors from the four directions to feast. Not to feed relatives is evil conduct, while to call together neighbors from the four directions is good, righteous conduct. The formation of good or bad conduct is not a matter of the substantive character of the person (*zhi xing* 質性), but is rather a matter of the collection of grains. (*Lunheng* 53.6, author’s translation)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 良医能施针药，医术成功，是因为遇到尚未死亡、所得之病不致于死的病人。如果病人之病已属必死，医生便无可奈何，即使他是国手。重症之命不可救治，正如民众之乱不可挽救。医药治病，正如教化引导、安抚民众；二者都系于命（*ming*）与时势，不能靠命令或强力获得。（《论衡》53.3，作者自译）
+    step2: |-
+      > 良医会用针用药，医道所以奏效，是因为碰上的病人还没死，得的病不至致命。如果病人的病已入膏肓，医生就束手无策，哪怕他医术再高。重病之命救不回来，正如民众之乱挽回不了。医药治病，一如教化引导、安抚民众；二者都取决于命（*ming*）与时势，靠命令或强力都求不来。（《论衡》53.3，作者自译）
   - id: 68
     kind: body
     source: |-

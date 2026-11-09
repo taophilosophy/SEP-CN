@@ -877,35 +877,47 @@ segments:
     kind: body
     source: |-
       ## 4. Concluding Remarks
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 结束语
+    step2: |-
+      ## 4. 结语
   - id: 109
     kind: body
     source: |-
       Among the better known philosophers of the Kyoto School, references to Kūkai or Shingon, when compared to Zen or Pure Land Buddhism, are hardly noticeable. It has been suggested that this neglect may have something to do with an intellectual’s prejudice against the “esoteric,” e.g. the significance of ritual with its symbols and images, which are not so easily amenable to rational comprehension and instead conjure up preconceptions of the “occult” and the “magical.” However the philosophical aspects of Shingon Buddhism are often traceable to the same Mahāyāna seeds that sprouted Zen. Once such prejudices are overcome, it would not be so difficult for the contemporary philosopher to find in Kūkai a well-spring of ideas and thoughts which may be of interest today.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在京都学派较为知名的哲学家中，与禅或净土佛教相比，对空海或真言宗的提及几乎难以察觉。有人提出，这种忽视或许与知识分子对“密教”的偏见有关：例如仪轨及其符号与图像的意义，不容易受理性的把握，反而唤起对“秘术”与“魔法”的先入之见。然而，真言宗佛教的哲学面向，往往可以追溯到禅所由萌发的同一批大乘种子。一旦这类偏见被克服，当代哲学家不难在空海中发现一个今天仍然饶有兴味的观念与思想的源泉。
+    step2: |-
+      在京都学派较知名的哲学家中，与禅或净土佛教相比，对空海或真言宗的提及几乎难以察觉。有人提出，这种忽视或许与知识分子对“密教”的成见有关：例如仪轨及其符号与图像的意义，不易受理性的把握，反而唤起对“秘术”与“魔法”的先入之见。然而，真言宗佛教的哲学面向，往往可溯至禅所由萌发的同一批大乘种子。一旦此类成见被克服，当代哲学家不难在空海中发现一个今日仍饶有兴味的观念与思想的源泉。
   - id: 110
     kind: body
     source: |-
       We need to acknowledge, however, that Kūkai and Shingon Buddhism in general have not altogether been ignored by contemporary philosophers of Japan. Even within the Kyoto School, its current representative Ueda Shizuteru in a 1993 lecture, *Basho to mandara*, discusses the significance of mandalas in Shingon Buddhism in relation to the ontological structure of human existence understood in his terms as being-in-the-twofold-world. In his analysis of Kūkai’s mandalas, Ueda approriates contemporary philosophical concepts, such as Nishida’s “place” (*basho*), Nishitani’s “field” (*ba*), and Heidegger’s “being-in-the-world” (*In-der-Welt-sein*), and takes the mandala as indicative of the always assumed semantic space (*imi kūkan*) belonging to the world (*sekai*) as the total framework of meanings (*imi no waku gumi*) wherein we find ourselves. A couple of other graduates of Kyoto University’s philosophy department have entire books on Kūkai. In *Kūkai no shisō ni tsuite*, Umehara Takeshi discusses Kūkai both as a religious practitioner and as a theorist, who explicates the world’s infinite “treasure” unfolding within the self. And ex-Nishidian turned Marxist, Yanagida Kenjūrō, has a study on Kūkai and his works: *Nihon shingon no tetsugaku: Kūkai Hizōhōyaku to Ben’kenmitsu nikyōron*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过我们也需要承认，空海与真言宗总体而言并没有被日本的当代哲学家完全忽视。即便在京都学派内部，其当代代表上田闲立（Ueda Shizuteru）在 1993 年的讲座《场所与曼荼罗》（*Basho to mandara*）中，结合他以“在双重世界中存在”（being-in-the-twofold-world）为术语来理解的人之存在的存在论结构，讨论真言佛教曼荼罗的意义。在分析空海的曼荼罗时，上田取用了当代哲学概念，如西田几多郎的“场所”（*basho*）、西谷启治的“场”（*ba*）和海德格尔的“在世界之中存在”（*In-der-Welt-sein*），并把曼荼罗视为那被一直默会的意义空间（*imi kūkan*）的标示，这个意义空间属于作为意义整体框架（*imi no waku gumi*）的世界（*sekai*），我们置身其中。京都大学哲学系出身者中，另有数人写过关于空海的整本书。梅原猛（Umehara Takeshi）在《论空海的思想》（*Kūkai no shisō ni tsuite*）中把空海既作为宗教修行者又作为理论家来讨论，后者阐明在自我之内展开的世界的无限“宝藏”。而由西田门下转归马克思主义的柳田谦十郎（Yanagida Kenjūrō）则有关于空海及其著作的研究：《日本真言之哲学：空海〈秘藏宝钥〉与〈辩显密二教论〉》。
+    step2: |-
+      然而我们也须承认，空海与真言宗总体而言并未被日本的当代哲学家全然忽视。即便在京都学派内部，其当代代表上田闲立（Ueda Shizuteru）在 1993 年的演讲《场所与曼荼罗》（*Basho to mandara*）中，讨论真言宗曼荼罗的意义，关联于他以“在双重世界中存在”（being-in-the-twofold-world）为术语所理解的人之存在的存在论结构。在其对空海曼荼罗的分析中，上田取用当代哲学概念——西田几多郎的“场所”（*basho*）、西谷启治的“场”（*ba*）与海德格尔的“在世界之中存在”（*In-der-Welt-sein*）——并把曼荼罗视为那一直被默会的意义空间（*imi kūkan*）的标示：这意义空间属于作为我们置身其中的意义整体框架（*imi no waku gumi*）的“世界”（*sekai*）。京都大学哲学系出身者中，另有数人著有关于空海的整部书。梅原猛（Umehara Takeshi）在《论空海的思想》（*Kūkai no shisō ni tsuite*）中，把空海既作为宗教修行者、又作为理论家来讨论——后者阐明在自我之内展开的世界的无限“宝藏”。而由西田门下转投马克思主义的柳田谦十郎（Yanagida Kenjūrō），则有对空海及其著作的研究：《日本真言之哲学：空海〈秘藏宝钥〉与〈辩显密二教论〉》（*Nihon shingon no tetsugaku: Kūkai Hizōhōyaku to Ben'kenmitsu nikyōron*）。
   - id: 111
     kind: body
     source: |-
       Among other twentieth century Japanese philosophers, Yuasa Yasuo, known for his theory of the body, often refers to the doctrines and practices of Shingon Buddhism, and has writen entire chapters on Kūkai in *Shintairon: Tōyōteki shinshin ron to gendai* and *The Body: Towards an Eastern Mind-Body Theory*. Comparative philosopher of religion, Izutsu Toshihiko, as well, in *Ishiki to honshitsu* and other works, has found Kūkai’s ideas – especially his cosmological-linguistic theory – inspiring enough to incorporate into his own theory of essence as part of his attempt to build a synthetic “Oriental philosophy” (*tōyō tetsugaku*). Philosopher of Buddhist thought, Tamaki Kōshirō discusses the significance of Kūkai’s philosophy within the history of Japanese Buddhism in his *Nihon bukkyō shisō ron*. And philosopher of religion and religious studies scholar Nakazawa Shin’ichi, like Ueda, focuses on Kūkai’s mandalic philosophy in his book, *Seppen kyokusenron*. He reads Kūkai’s works on Shingon as involving a hydrodynamic mode of thinking that in its flexibility deals with the non-Euclidean currents of nature with its forces of reality, undulating in ripples and forming vortexes. He views the Shingon mandala as approximating, with its circles and lines, what is expressed in today’s fractal geometry, whereby the infinitesimally microcosmic part endlessly and indefinitely iterates the patterns of the whole of nature in its innumerable vortexes and curves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在二十世纪的其他日本哲学家中，以身体理论知名的汤浅泰雄（Yuasa Yasuo）经常引用真言佛教的教义与实践，并在《新身体论：东方的身心论与现代》和《身体：迈向一种东方的身心理论》中以整章的篇幅论空海。宗教比较哲学家井筒俊彦（Izutsu Toshihiko）也是如此，他在《意识与本质》等著作中发现空海的观念——尤其是其宇宙论-语言学理论——颇有启发，足以纳入其自己的本质理论，作为其构建一种综合的“东方哲学”（*tōyō tetsugaku*）之努力的一部分。佛教思想哲学家玉城康四郎（Tamaki Kōshirō）在《日本佛教思想论》中讨论空海哲学在日本佛教史中的意义。宗教哲学家与宗教学者中泽新一（Nakazawa Shin’ichi）则与上田一样，在其《说波曲线论》一书中聚焦空海的曼荼罗哲学。他把空海的真言诸著作解读为一种流体动力学的思维方式，以其灵活性应对自然的非欧几里得潮流——自然的实在之力如涟漪起伏、形成漩涡。他把真言曼荼罗看作以其圆与线近似今日分形几何所表达的东西：无限微小的部分在自然无数的漩涡与曲线中无尽而不定地迭代着整体的模式。
+    step2: |-
+      在二十世纪的其他日本哲学家中，以身体理论知名的汤浅泰雄（Yuasa Yasuo）常援引真言宗的教义与实践，并在《新身体论：东方的身心论与现代》（*Shintairon: Tōyōteki shinshin ron to gendai*）与《身体：迈向一种东方的身心理论》（*The Body: Towards an Eastern Mind-Body Theory*）中以整章论空海。宗教比较哲学家井筒俊彦（Izutsu Toshihiko）亦然：在《意识与本质》（*Ishiki to honshitsu*）及其他著作中，他发现空海的观念——尤其是其宇宙论-语言学理论——足以启沃，遂纳入自己的本质理论，作为其构建综合的“东方哲学”（*tōyō tetsugaku*）之努力的一部分。佛教思想哲学家玉城康四郎（Tamaki Kōshirō）在《日本佛教思想论》（*Nihon bukkyō shisō ron*）中讨论空海哲学在日本佛教史中的意义。宗教哲学家兼宗教学者中泽新一（Nakazawa Shin’ichi）则与上田同样，在《说波曲线论》（*Seppen kyokusenron*）一书中聚焦空海的曼荼罗哲学。他把空海的真言诸著作解读为一种流体动力学的思维方式：以其灵活性应对自然的非欧几里得潮流——自然的实在之力如波纹起伏、形成漩涡。他把真言曼荼罗看作以其圆与线近似今日分形几何所表达者：无限微小的部分，在自然数不尽的漩涡与曲线中，无尽而不定地迭代着整体的模式。
   - id: 112
     kind: body
     source: |-
       Kūkai’s ideas engender an holistic view towards nature and the cosmos as encompassing ourselves and in our interrelationships with others. They may be of relevance to the dilemmas we face today in this epoch of globalization, religious wars, technological “enframing” (to use Heidegger’s terminology), and environmental hazards. And in terms of scholarship, as can be seen in some of the above-mentioned Japanese scholars’ works on Kūka, Kūkai offers a wealth of ideas for comparative analyses: e.g. with Derrida on the world as text, with Process thought on “cosmo-holism,” with Merleau-Ponty or Deleuze on the significance of the body and bodily spatiality and interrelationality vis-à-vis the environment, with Nishida or Hegel on dialectics and interrelationality, or with major “mystic” thinkers of other religious traditions such as Ibn Arabi of Islam or Meister Eckhart of Christianity on a dynamic non-duality as opposed to both static monism and subject-object dualism. Kūkai’s thinking provides a wealth of insights, of much value, to offer to philosophers of today.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      空海的观念催生一种对自然与宇宙的整全观点，这种观点把我们自身以及我们与他人的相互关系都包含在内。它们可能与我们今天在全球化、宗教战争、技术的“座架”（用海德格尔的术语）以及环境危机的时代所面临的困境相关。就学术而言，如上面所举的几位日本学者关于空海的著作所示，空海为比较分析提供了丰富的观念资源：例如与德里达论作为文本的世界，与过程思想论“宇宙整全论”，与梅洛-庞蒂或德勒兹论身体、身体的空间性以及相对于环境的相互关联的意义，与西田或黑格尔论辩证法与相互关联，或与其他宗教传统的主要“神秘”思想家——如伊斯兰教的伊本·阿拉比或基督教的艾克哈特大师——论动态的不二，以反对静态的一元论和主客二元论。空海的思想提供了丰富的洞见，值得呈献给今日的哲学家。
+    step2: |-
+      空海的观念催生一种对自然与宇宙的整全观：把我们也涵摄在内，并把我们与他人的相互关系涵摄在内。它们或与我们今日所面对的困境相关：全球化、宗教战争、技术的“座架”（用海德格尔的术语）与环境危机的时代。就学术而言，如上引日本学者关于空海的著作所示，空海为比较分析提供了丰富的观念资源：例如与德里达论作为文本的世界，与过程思想论“宇宙整全论”，与梅洛-庞蒂或德勒兹论身体、身体的空间性与相对于环境的相互关联之意义，与西田或黑格尔论辩证法与相互关联，或与其他宗教传统的主要“神秘”思想家——如伊斯兰教的伊本·阿拉比或基督教的艾克哈特大师——论动态的不二：既反对静态的一元论，也反对主客二元论。空海的思想提供丰富的洞见，值得呈献给今日的哲学家。
   - id: 113
     kind: oir
     source: |-
       - [The “Six Schools” of Japan](http://www.friesian.com/six.htm#japan), by Kelley L. Ross (Los Angeles Valley College).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [日本佛教的“六宗”](http://www.friesian.com/six.htm#japan)，由 Kelley L. Ross（洛杉矶谷学院）撰写。
+    step2: |-
+      - [日本的“六宗”](http://www.friesian.com/six.htm#japan)，Kelley L. Ross 撰（洛杉矶谷学院）。
