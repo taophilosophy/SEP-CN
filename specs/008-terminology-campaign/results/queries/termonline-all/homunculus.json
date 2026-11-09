@@ -1,0 +1,26 @@
+{
+ "key": "homunculus",
+ "term": "homunculus",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:32:26+00:00",
+ "status": "ok",
+ "note": "variant=homunculus; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "侏儒星云",
+   "en": "Homunculus Nebula",
+   "code": "08.548",
+   "standard": "天文学名词",
+   "subject": "天文学_恒星和银河系"
+  },
+  {
+   "cn": "微型人谬误",
+   "en": "homunculus fallacy,fallacy of the homunculus",
+   "code": "07.138",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物控制论_脑理论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

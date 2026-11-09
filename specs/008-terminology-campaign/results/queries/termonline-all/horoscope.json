@@ -1,0 +1,201 @@
+{
+ "key": "horoscope",
+ "term": "horoscope",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:35:26+00:00",
+ "status": "ok",
+ "note": "variant=horoscope; 审定公布名词库=68; 海峡两岸名词对照库=15; 其他来源数据库=3; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "天宫图",
+   "en": "horoscope",
+   "code": "05.217",
+   "standard": "天文学名词",
+   "subject": "天文学_天文学史"
+  },
+  {
+   "cn": "陀螺",
+   "en": "gyroscope",
+   "code": "24.015",
+   "standard": "光学名词",
+   "subject": "光学_光学导航技术"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyroscope",
+   "code": "02.682",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "荧光屏",
+   "en": "photoscope",
+   "code": "04.1918",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_光谱学、激光、非线性光学"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyroscope",
+   "code": "02.0535",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "透视镜",
+   "en": "photoscope",
+   "code": "04.1919",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_光谱学、激光、非线性光学"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyroscope",
+   "code": "08.114",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶通信导航"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyroscope",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_力学通类"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyroscope",
+   "code": "04.485",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制技术_空间运动体控制"
+  },
+  {
+   "cn": "陀螺[仪]",
+   "en": "gyro,gyroscope",
+   "code": "05.108",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天控制与导航"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyroscope,gyro",
+   "code": "06.0097",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航海仪器"
+  },
+  {
+   "cn": "耳镜",
+   "en": "otoscope",
+   "code": "1.3.1",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "耳科_耳检查法"
+  },
+  {
+   "cn": "天宫图",
+   "en": "horoscope",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyroscope",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "计数器描迹仪",
+   "en": "counter hodoscope",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyroscope\",\"gyro",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyroscope\",\"gyro",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "陀螺仪",
+   "en": "gyro\",\"gyroscope",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "压电陀螺",
+   "en": "piezoelectric gyroscope",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "方位[陀螺]仪",
+   "en": "directional gyroscope",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "积分陀螺仪",
+   "en": "integrating gyroscope",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "挠性陀螺仪",
+   "en": "flexibility gyroscope",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "平衡陀螺仪",
+   "en": "balanced gyroscope",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "自由陀螺仪",
+   "en": "free gyroscope",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "天宫图",
+   "en": "Horoscope",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "SERF陀螺仪",
+   "en": "SERF gyroscope",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "核磁共振陀螺",
+   "en": "nuclear magnetic resonance gyroscope",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
