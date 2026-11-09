@@ -14,6 +14,7 @@
 | `yuanwen.py` | `yuanwen/` 英文原文对照文本管理 |
 | `baseline_audit.py` | 基线审计：对 `baseline/entries.json` 登记物复算 SHA-256 并核对存在（依赖本地 `en/` 原始物，不进 CI） |
 | `task_ops.py` | 文档任务状态机：show / create / advance / clear / block（契约见 `specs/001-sep-sync-pipeline/contracts/cli.md`） |
+| `sync_guard.py` | 双机同步护栏（ADR-0028）：`pull` 包装 rebase 并判弃自检（patch-identical 放行、其余判弃即事故），`status` 积压自查（途中 ≤1、收工清零） |
 | `tests/` | unittest 单元测试 + 金样本 fixtures（CI 门禁项） |
 
 ## 目录治理工具（CI 门禁项）

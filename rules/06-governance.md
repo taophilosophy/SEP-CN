@@ -36,19 +36,21 @@
 
 1. **提交前核对 HEAD**：`git log --oneline -3` + `git status`，确认基点未变；基点变了先 `git diff HEAD` 重放自己的改动。
 2. **提交竞态重试**：commit 失败或“no changes added”时，先检查自己的文件是否已被对方提交卷入，确认内容无误后不必重复提交；确有剩余再补提交。
-3. **推送先 pull**（2026-10-27 教训固化）：`git push` 被拒（non-fast-forward）或对方已推送时，先 `git fetch && git pull --rebase origin main` 再推；带未授权 force push 期间，其他会话应停手或改为先 pull 再推——本日两次 force push 各孤儿化了并行会话的一个提交（587ec741、fb2a3317），其内容需对方会话重新落地。
+3. **推送先 pull**（2026-10-27 教训固化）：`git push` 被拒（non-fast-forward）或对方已推送时，先 `python tools/sync_guard.py pull`（含 fetch+rebase+判弃自检，ADR-0028）再推；带未授权 force push 期间，其他会话应停手或改为先 pull 再推——本日两次 force push 各孤儿化了并行会话的一个提交（587ec741、fb2a3317），其内容需对方会话重新落地。
 4. **目录所有权边界**：词条内容归翻译会话；`specs/`、`.specify/`、`tools/`（管线包）、`baseline/` 归管线会话；`rules/`、`tasks/README.md`、`AGENTS.md` 归治理。跨界修改先在提交信息说明理由。
 5. **不抢改他人正在写的文件**：发现非本人改动先读再动，禁止用 `git checkout --` / `reset --hard` 清理他人未提交工作。
 6. **`script/` 为个人草稿区** （gitignore），一次性脚本与临时日志放这里；沉淀为正式工具的脚本移入 `tools/` 并登记 README；`script/tmp/` 临时文件用 `tools/clean.py` 定期清理。
 
-### 多机并行（2026-11-09 起，ADR-0026）
+### 多机并行（2026-11-09 起，ADR-0026；2026-11-10 定岗分工与积压线，ADR-0028）
 
-* 两台机各持**独立克隆**：M1 `C:\Users\ykla\Documents\SEP-CN`（DESKTOP-RLOEIG9）、M2 `D:\SEP-CN`（Desktop-m5p610n）。**唯一同步面是 `origin/main`**，不以对方工作树为真值；共享克隆时代结束。
-* 开工先对齐：`git fetch && git status -sb && git pull --rebase origin main`，落后不干活。
-* push 只有三个检查点：批次认领（抢锁）／`campaign.py advance`／条目 done 收口。认领即推，别攒；其余微提交留本地。
+* 两台机各持**独立克隆**：M1 `C:\Users\ykla\Documents\SEP-CN`（DESKTOP-RLOEIG9）、M2 `D:\SEP-CN`（Desktop-m5p610n）。**唯一同步面是 `origin/main`**，不以对方工作树为真值；共享克隆时代结束。（M1 侧的 `D:` 是映射网络盘 `\\Desktop-m5p610n\d`，只作只读观测，不写。）
+* **分工定岗（ADR-0028，2026-11-10 用户裁定）**：M1 只负责**词条翻译**（含随附术语/人名登记、任务与账本操作）；原始物、抓取管线、术语跑批、全库审阅、规则/ADR/工具维护、上游 intake、更新流程一律归 M2。同工种单机化即互斥，双机不再并行同类工程；M1 会话遇管线/规则/工具问题记录上报，不自行修复（除非用户当场指示）。
+* 开工先对齐：`git fetch && git status -sb && python tools/sync_guard.py pull`（包装 `pull --rebase`，判弃自检实拦，ADR-0028），落后不干活。
+* push 只有三个检查点：批次认领（抢锁）／`campaign.py advance`／条目 done 收口。认领即推，别攒；其余微提交留本地。**积压线（ADR-0028）**：作业途中未推送提交 ≤1（`python tools/sync_guard.py status` 自查），**收工时必须清零**；例外：M2 关机代理不可用时允许积压跨夜，恢复联网后第一件事清零。
+* **孤儿件处置（ADR-0028）**：本地提交不在远程历史时，先 `git cherry` 判内容是否已在远程；已在→本地弃置；不在→reflog 恢复后推送。处置记入对应 spec execution-log，禁止静默。
 * **机器身份以 IP 区分**（两机 git 用户名同为 `ykla`）：M1 `192.168.5.6` → `pc6`，M2 `192.168.5.4` → `pc4`；标签存各克隆本地配置 `git config --local ykla.machine`，会话 ID 前缀取之（`pc6-c-s3-20261109`）。当场取法：`ipconfig | grep -a IPv4 | head -1`。批次交接用 `campaign.py release <批> --note`，接手方重新 claim。
 * **生成物冲突不手工解**：`PROGRESS.md` 任取一侧后 `tools/progress.py` 重生成；`SUMMARY.md` 取并集后 `check_summary.py`；账本 rebase 后重放 `campaign.py advance`（幂等）；术语表／人名表／词汇表追加式书写，冲突取并集后 `check_terms.py`。
-* 两机尽量不同时开工同一字母批，压低 `SUMMARY.md` 与登记册的文本冲突面；本地相（`en/`、`yuanwen/`、`script/`、`state/`、`.secrets/`）各机自持，不入库不共享。
+* 两机尽量不同时开工同一字母批，压低 `SUMMARY.md` 与登记册的文本冲突面；本地相（`script/`、`state/`、`.secrets/`；`en/`、`yuanwen/` 已随 ADR-0027 入库）各机自持，不入库不共享。
 * **M1 的 GitHub 访问经 M2 代理**（`192.168.5.4:7890`，本机直连因 TLS 吊销检查脱机不可用）；M2 关机时 M1 无法 push/pull，需等其上线或改用局域网直连仓库应急。`check_all --all` 每次会改写 `specs/001/en-integrity-full.json` 的 `ran_at`，提交前还原，别把时间戳当改动。
 
 ## 质量门与完成定义
