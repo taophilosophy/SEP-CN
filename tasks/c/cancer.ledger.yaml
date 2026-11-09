@@ -379,38 +379,50 @@ segments:
     kind: body
     source: |-
       It seems that each of these authors is pointing to an important role for structural organization in the maintenance of homeostasis as playing an important role in carcinogenesis. Indeed, evidence provided by Bissell’s lab (Weaver, et al. 1997, 2002) seems to indicate that structural features of the extracellular matrix somehow either prevent the emergence of disease, or can accelerate it (on Bissell’s lab, see Plutynski 2018b)[^plutynski-2018b]. It seems such examples do not point to “downward causation,” but instead suggest that we need to expand our understanding of the causes of cancer to include maintenance of tissue integrity. That is, the case of cancer seems to require a richer, more integrative and interdisciplinary approach to investigating cancer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看来这些作者各自都在指出结构性组织在维持稳态中的作用，以及这种作用在癌变中扮演的重要角色。事实上，Bissell 实验室提供的证据（Weaver, et al. 1997, 2002）似乎表明，细胞外基质的结构特征以某种方式要么阻止疾病的出现，要么加速疾病（关于 Bissell 实验室，见 Plutynski 2018b）[^plutynski-2018b]。看来这类例子并不指向“下向因果”，而是提示我们需要把对癌症原因的理解扩展到包括组织完整性的维持。也就是说，癌症这个案例似乎要求一种更丰富、更具整合性和跨学科性的进路来研究癌症。
+    step2: |-
+      看来这些作者都在强调：结构性组织对维持内稳态有用，而这对癌变也很重要。事实上，Bissell 实验室提供的证据（Weaver 等，1997, 2002）似乎表明，细胞外基质的结构特征多少能阻止疾病出现，或者反过来加速疾病（关于 Bissell 实验室，见 Plutynski 2018b）[^plutynski-2018b]。看来这类例子并不指向“下向因果”，而是提示：得把对癌症原因的理解扩展到组织完整性怎么维持。也就是说，癌症这个案例似乎要求一种更丰富、更整合、更跨学科的进路来研究癌症。
   - id: 48
     kind: body
     source: |-
       Soto, Sonnenschein, and others have argued that the SMT and TOFT are mutually incompatible and cancer research needs a paradigm shift (Bizzarri and Cuccina, 2016). Others argue that they can be fruitfully integrated (Bertolaso, 2011; Marcum 2005; Malaterre, 2007; Bedessem and Ruphy, 2015; Baxendale, 2019)[^marcum-2005]. Today, SMT and TOFT represent two extremes along a continuum of views about the central causal role of genetic mutations in cancer. Most researchers grant that mutations are one among many other causal factors in cancer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Soto、Sonnenschein 等人论证说，SMT 与 TOFT 互不相容，癌症研究需要一次范式转移（Bizzarri and Cuccina, 2016）。另一些人论证说，二者可以富有成果地整合起来（Bertolaso, 2011; Marcum 2005; Malaterre, 2007; Bedessem and Ruphy, 2015; Baxendale, 2019）[^marcum-2005]。今天，SMT 与 TOFT 代表了关于基因突变在癌症中中心因果作用的一系列看法的两个极端。多数研究者承认，突变是癌症众多其他因果因素之一。
+    step2: |-
+      Soto、Sonnenschein 等人认为，SMT 与 TOFT 互不相容，癌症研究得换一次范式（Bizzarri and Cuccina, 2016）。另一些人认为，两者可以卓有成效地整合起来（Bertolaso, 2011; Marcum 2005; Malaterre, 2007; Bedessem and Ruphy, 2015; Baxendale, 2019）[^marcum-2005]。今天，SMT 和 TOFT 代表着一条谱系的两端：对基因突变在癌症中的中心因果作用，看法从这头排到那头。多数研究者承认，突变只是癌症众多因果因素中的一种。
   - id: 49
     kind: body
     source: |-
       For instance, the tumor microenvironment (TME) is now considered another key factor (see Maman and Witz, 2018 for a historical review). However, there are some open questions about what falls within the TME’s spatial and temporal boundaries, and what causal relevance spatial organization and temporal order have for cancer (Rondeau et al. 2019; Laplane et al., 2018, 2019b)[^rondeau-2019]. Some interesting ambiguous cases are provided by nutrition (Sholl 2022)[^sholl-2022][^sholl-2022-2] and by the microbiota (Sholl et al. 2022)[^sholl-2022][^sholl-2022-2]. Increasingly, there are indications that changes in the microbiome (both of cancer, and of the organism as a whole) may play an important role in cancer initiation and progression, suggesting that data about the microbiome may be relevant to diagnosis, prognosis, and choice of therapies (Sholl et al. 2022)[^sholl-2022][^sholl-2022-2]. Moreover, given that microbes can be transmitted vertically (during cell division) as well as horizontally (between neighboring cells), and are themselves subject to evolution, Sepich-Poore et al. (2022) suggest reconsidering clonal evolution in cancer as a multispecies process. Experimental study of the role of microbes in cancer is difficult, however, raising several questions about pragmatic and epistemic trade-offs. The complexity and heterogeneity on both sides of the microbiome-cancer relationship makes generating robust causal hypotheses difficult (Parke and Plutynski, 2023).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，肿瘤微环境（TME）现在被认为是另一个关键因素（历史综述见 Maman and Witz, 2018）。然而，关于什么落在 TME 的空间和时间边界之内、以及空间组织与时间顺序对癌症有什么因果相关性，还有一些未决问题（Rondeau et al. 2019; Laplane et al., 2018, 2019b）[^rondeau-2019]。营养（Sholl 2022）[^sholl-2022][^sholl-2022-2]和微生物群（Sholl et al. 2022）[^sholl-2022][^sholl-2022-2]提供了一些有趣的含糊案例。越来越多的迹象表明，微生物组（既包括癌症的微生物组，也包括整个机体的微生物组）的变化可能在癌症发生和进展中起重要作用，提示微生物组数据可能与诊断、预后和治疗选择相关（Sholl et al. 2022）[^sholl-2022][^sholl-2022-2]。此外，鉴于微生物既可以垂直传递（在细胞分裂期间），也可以水平传递（在相邻细胞之间），而且本身也会演化，Sepich-Poore 等（2022）建议把癌症中的克隆演化重新考虑为一个多物种过程。然而，微生物在癌症中作用的实验研究很困难，这提出了若干关于实用与认识权衡的问题。微生物组—癌症关系两侧的复杂性与异质性，使生成稳健的因果假说变得困难（Parke and Plutynski, 2023）。
+    step2: |-
+      例如，肿瘤微环境（TME）现在被看作另一个关键因素（历史综述见 Maman and Witz, 2018）。不过，TME 的时空边界到底划到哪里，空间组织和时间顺序对癌症有什么因果相关性，还有一些问题没定（Rondeau 等，2019; Laplane 等，2018, 2019b）[^rondeau-2019]。营养（Sholl 2022）[^sholl-2022][^sholl-2022-2]和微生物群（Sholl 等，2022）[^sholl-2022][^sholl-2022-2]提供了一些有意思的含糊案例。越来越多的迹象表明，微生物组的变化（癌症本身的微生物组，以及整个机体的微生物组）可能在癌症发生和进展中起重要作用，这提示微生物组数据可能与诊断、预后和治疗选择有关（Sholl 等，2022）[^sholl-2022][^sholl-2022-2]。而且，微生物既能垂直传递（在细胞分裂时），也能水平传递（在相邻细胞之间），本身还会演化，所以 Sepich-Poore 等（2022）建议把癌症里的克隆演化重新看成一种多物种过程。可是微生物在癌症中起什么作用，实验研究很难做，这就引出一些关于实用与认识之间如何权衡的问题。微生物组与癌症关系两边都复杂、都异质，想提出靠得住的因果假说很难（Parke and Plutynski, 2023）。
   - id: 50
     kind: body
     source: |-
       Another major research program that in some ways challenges a mechanistic picture of cancer is the “cancer stem cell” theory (CSC). Fagan (2016) characterizes the notion of a cancer stem cell, as well as the current state of the field, as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个在某些方面挑战癌症机械论图景的主要研究纲领，是“癌症干细胞”理论（CSC）。Fagan（2016）这样刻画癌症干细胞这一概念以及该领域目前的状况：
+    step2: |-
+      还有一个主要研究纲领在某些方面挑战癌症的机械论图景，就是“癌症干细胞”（CSC）理论。Fagan（2016）这样描述癌症干细胞这个概念以及该领域的现状：
   - id: 51
     kind: body
     source: |-
       > Cancer stem cells (CSCs) are thought to be a small subpopulation of self-renewing stem cells within a tumor or blood-borne cancer, which are responsible for maintaining and growing the malignancy. This idea has significant clinical implications. If the CSC model is correct, the current clinical strategy of seeking to eradicate *all* cancer cells should be revised, to specifically target CSC.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 癌症干细胞（CSC）被认为是肿瘤或血源性癌症中一小群自我更新的干细胞，负责维持和增长恶性病变。这一想法有重大的临床含义。如果 CSC 模型正确，目前力求消灭*所有*癌症细胞的临床策略就应当修改，以专门靶向 CSC。
+    step2: |-
+      > 癌症干细胞（CSC）被认为是肿瘤或血源性癌症里的一小群自我更新的干细胞，负责维持和增大恶性病变。这个想法有重大的临床意义。如果 CSC 模型是对的，现在这种力求消灭*所有*癌细胞的临床策略就该改，改成专门靶向 CSC。
   - id: 52
     kind: body
     source: |-
       The cancer stem cell theory in part is descended from the view that cancers are in several ways akin to ordinary tissue (though distorted), containing a mixture of proliferating stem cells and their more differentiated progeny. This view played an important role in cancer research in the 1960s and 1970s and is sometimes called the “developmental” theory of cancer, in light of the fact that it takes cancer to be a disease of “development,” or cellular differentiation in particular (Pierce & Speers 1988, Morange 2015, Laplane 2014)[^laplane-2014][^morange-2015][^pierce-1988]. This model of cancer etiology was revived in the 90s, when Lapidot, Bonnet, and Dick identified “leukemic stem cells” (Lapidot, et al. 1994, Bonnet and Dick 1997)[^bonnet-1997], and was expanded upon in the early 2000s with the identification of an analogous cell population in breast cancer, suggesting that CSCs are a general feature of all cancers (Al-Hajj, et al. 2003). The notion that there are subpopulations of cells within a tumor that play a distinctive role—either in initiating a cancer, or in seeding new cancers, has been influential in current research, suggesting new avenues for both treatment and prevention.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      癌症干细胞理论部分地源自这样一种看法：癌症在若干方面类似普通组织（尽管是扭曲的），其中含有增殖中的干细胞及其分化程度更高的子代的混合物。这种看法在二十世纪六十年代和七十年代的癌症研究中起过重要作用，有时被称为癌症的“发育”理论，因为它把癌症看作一种“发育”病、或者特别是细胞分化病（Pierce & Speers 1988, Morange 2015, Laplane 2014）[^laplane-2014][^morange-2015][^pierce-1988]。这一癌症病因学模型在九十年代复兴，当时 Lapidot、Bonnet 和 Dick 鉴定出“白血病干细胞”（Lapidot, et al. 1994, Bonnet and Dick 1997）[^bonnet-1997]；二十一世纪初，随着在乳腺癌中鉴定出类似的细胞群，该模型得到扩展，提示 CSC 是所有癌症的一个一般特征（Al-Hajj, et al. 2003）。肿瘤内部存在发挥独特作用的细胞亚群——或者在引发癌症中、或者在播种新癌症中发挥作用——这一观念在当今研究中颇具影响，为治疗和预防都提示了新的途径。
+    step2: |-
+      癌症干细胞理论部分源自一种看法：癌症在好几方面类似普通组织（不过是扭曲的），里面有正在增殖的干细胞，也有分化程度更高的子代，两者混在一起。这种看法在二十世纪六十、七十年代的癌症研究里起过重要作用，有时被称为癌症的“发育”理论，因为它把癌症看成一种“发育”病，或者更具体地说，看成细胞分化出了毛病（Pierce & Speers 1988, Morange 2015, Laplane 2014）[^laplane-2014][^morange-2015][^pierce-1988]。这个癌症病因学模型在九十年代复活：Lapidot、Bonnet 和 Dick 找出了“白血病干细胞”（Lapidot 等，1994, Bonnet and Dick 1997）[^bonnet-1997]。二十一世纪初，人们在乳腺癌里找到类似的细胞群，模型随之扩展，提示 CSC 是所有癌症的一个普遍特征（Al-Hajj 等，2003）。肿瘤内部存在发挥独特作用的细胞亚群——或者在引发癌症时起作用，或者在播散新癌症时起作用——这个观念在当今研究里很有影响，为治疗和预防都指了新路。
   - id: 53
     kind: body
     source: |-
