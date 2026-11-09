@@ -924,98 +924,130 @@ segments:
     kind: body
     source: |-
       One simple principle that has been invoked to capture moral representations is known as the “size principle” (Xu & Tenenbaum 2007). To grasp the principle intuitively, imagine your friend has two dice: a 4-sided and a 10-sided die. He randomly selects one, conceals it from you, and rolls it 10 times. He then reports the results: 3, 2, 2, 3, 1, 1, 1, 4, 3, 2. Which die do you think he rolled? Intuitively it seems like it must be the 4-sided die. While the results are technically compatible with the 10-sided die, it would be a suspicious coincidence that all the rolls happened to be 4 or lower. This reasoning aligns with the size principle, which we can represent using a nested structure to compare different hypotheses (figure 1).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个被用来刻画道德表征的简单原则，称为“规模原则”（Xu & Tenenbaum 2007）。直观把握该原则：设想你朋友有两颗骰子，一颗 4 面，一颗 10 面。他随机选一颗，藏起来不让你看见，掷了 10 次，然后报出结果：3、2、2、3、1、1、1、4、3、2。你觉得他掷的是哪颗？直觉上想必是 4 面那颗。这些结果严格说来与 10 面骰相容，但十次全在 4 以下，未免巧得可疑。这一推理与规模原则相符；我们可以用嵌套结构来表征它，以比较不同假设（图 1）。
+    step2: |-
+      有一个简单原则常被用来刻画道德表征，叫“规模原则”（Xu & Tenenbaum 2007）。要直观把握它，设想朋友手里有两颗骰子：一颗四面，一颗十面。他随手挑一颗，背着你掷十次，报出结果：3、2、2、3、1、1、1、4、3、2。你猜是哪颗？直觉上只能是四面那颗。严格说，这些结果十面骰也掷得出，可十次全在四以下，巧得让人起疑。这份推理正合规模原则；我们可以用嵌套结构把它画出来，比较不同假设（图 1）。
   - id: 115
     kind: body
     source: |-
       *Figure 1:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 1:*
+    step2: |-
+      *图 1：*
   - id: 116
     kind: body
     source: |-
       ![a large square with the number 10 inside it; nested inside is a smaller square with the number 4 inside it; the bottom- and left-side of the smaller square overlap with the bottom- and left-side of the larger square.](../assets/moral-learning/image001.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![a large square with the number 10 inside it; nested inside is a smaller square with the number 4 inside it; the bottom- and left-side of the smaller square overlap with the bottom- and left-side of the larger square.](../assets/moral-learning/image001.png)
+    step2: |-
+      ![一个大正方形，内标数字 10；其内嵌套一个较小的正方形，内标数字 4；小正方形的底边与左边分别与大正方形的底边与左边重合。](../yuanwen/assets/moral-learning/image001.png)
   - id: 117
     kind: body
     source: |-
       Figure 1: The numbers represent the highest denomination of the die; the rectangles represent the relative sizes of the hypotheses
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Figure 1: The numbers represent the highest denomination of the dice; the rectangles represent the relative sizes of the hypotheses
+    step2: |-
+      图 1：数字表示骰子的最高面数；矩形表示各假设的相对大小。
   - id: 118
     kind: body
     source: |-
       The size principle states that when the evidence is consistent with the “smaller hypothesis” (in this case that is the hypothesis that it’s the 4-sided die), that hypothesis is the one that should be favored.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      规模原则主张：当证据与“较小的假设”（此处即“是 4 面骰”这一假设）一致时，该假设就是应当偏好的假设。
+    step2: |-
+      规模原则说：当证据与“较小的假设”（这里就是“四面骰”）相容时，该偏向的就该是它。
   - id: 119
     kind: body
     source: |-
       #### 6.1.1 Moral intuitions and action
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 6.1.1 Moral intuitions and action
+    step2: |-
+      #### 6.1.1 道德直觉与行动
   - id: 120
     kind: body
     source: |-
       As we saw in section 3.2, children tend to interpret moral rules as being focused on specific actions rather than on the broader consequences of those actions. They often understand these rules to mean that individuals should avoid causing certain outcomes rather than striving to reduce or minimize such outcomes. For example, the moral rule about lying is typically understood as "one should not lie" instead of "one should work to minimize instances of lying". Although children seem to register this distinction, they are not explicitly told anything like "it’s wrong to lie, but you’re not obligated to minimize others’ lying". So, how do children acquire moral rules defined over actions rather than consequences? The size principle provides a possible explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 3.2 节所见，儿童倾向于把道德规则理解为聚焦于具体行动，而不是行动的更广泛后果。他们往往把这些规则理解为个体应避免造成某些结果，而不是努力减少或最小化这类结果。例如，关于说谎的道德规则，通常被理解为“人不该说谎”，而不是“人应努力减少说谎的情形”。尽管儿童似乎登记了这一区分，却从未被明确告知“说谎是错的，但你没有义务减少别人的说谎”之类的话。那么，儿童是如何获得以行动而非后果来定义的道德规则的？规模原则提供了一个可能的解释。
+    step2: |-
+      3.2 节已见，儿童倾向于把道德规则理解成管具体动作，而不是管动作的更大后果：规则是说“别造成某种结果”，而不是“努力减少这种结果”。比如关于说谎的规则，通常理解为“人不该撒谎”，而不是“人该努力少让人撒谎”。儿童似乎分得清这一点，可谁也没明说过“撒谎是错的，但你没义务减少别人撒谎”这类话。那么，以行动而非后果定义的道德规则，孩子是怎么学来的？规模原则给了一个可能的答案。
   - id: 121
     kind: body
     source: |-
       As with the hypotheses about the dice, hypotheses about the range of a rule can be organized into a nested structure: the set of consequences actively produced by an agent is a subset of the broader set of consequences either produced or allowed by an agent (see figure 2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与关于骰子的假设一样，关于规则范围的假设也可以组织成嵌套结构：行动者主动造成的一组后果，是行动者造成或允许的更广后果集合的子集（见图 2）。
+    step2: |-
+      跟骰子假设一样，关于规则范围的假设也能排成嵌套结构：行动者主动造成的后果是一小圈，行动者造成或允许的后果是外面一大圈（见图 2）。
   - id: 122
     kind: body
     source: |-
       *Figure 2*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 2*
+    step2: |-
+      *图 2*
   - id: 123
     kind: body
     source: |-
       ![a large rectangle with the label 'consequences' inside it; nested inside is a smaller rectangle with the label 'Consequences produced by agent' inside it.](../assets/moral-learning/image002.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![a large rectangle with the label 'consequences' inside it; nested inside is a smaller rectangle with the label 'Consequences produced by agent' inside it.](../assets/moral-learning/image002.png)
+    step2: |-
+      ![一个大矩形，内标“后果”；其内嵌套一个较小的矩形，内标“行动者造成的后果”。](../yuanwen/assets/moral-learning/image002.png)
   - id: 124
     kind: body
     source: |-
       Figure 2: The potential scope of rules. A rule confined to the smaller box (e.g., “it is wrong for an agent to make a mess”) is act-based. In contrast, a rule that spans the larger box (e.g., “it is wrong for an agent to make a mess or allow a mess to remain”) is consequence-based.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Figure 2: The potential scope of rules. A rule confined to the smaller box (e.g., “it is wrong for an agent to make a mess”) is act-based. In contrast, a rule that spans the larger box (e.g., “it is wrong for an agent to make a mess or allow a mess to remain”) is consequence-based.
+    step2: |-
+      图 2：规则的潜在范围。只占小框的规则（如“行动者把东西弄乱是错的”）以行动为基础；相反，覆盖大框的规则（如“行动者把东西弄乱，或任由乱象留着，都是错的”）以后果为基础。
   - id: 125
     kind: body
     source: |-
       Children are rarely given explicit instruction about the difference between *doing* and *allowing*, yet they may still infer the distinction from the evidence they encounter. If all of the sample violations they encounter involve an agent intentionally producing an outcome, this pattern can suggest that the operative rule is not meant to forbid merely allowing that outcome to occur. This reasoning follows from the size principle (section 6.1). When none of the observed violations are “allowings” this would be a suspicious coincidence if the rule prohibited allowings. The absence of evidence is itself evidence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      儿童很少得到关于*做*与*允许*之区别的明确教导，却仍可能从遇到的证据中推断出这一区分。如果他们遇到的所有样本违规都涉及行动者有意造成某结果，这一模式便可提示：实际起作用的规则，本意并非禁止仅仅允许该结果发生。这一推理来自规模原则（6.1 节）。当所观察到的违规中没有一个是“允许”时，若规则本就禁止允许，那这会是巧得可疑的巧合。证据的缺失本身就是证据。
+    step2: |-
+      没人正经教过孩子*做*与*允许*的区别，可他们仍能从见到的证据里推出来。要是碰上的违规样本，桩桩都是行动者有意弄出某个结果，这一模式就提示：起作用的规则本意不是禁止“任由它发生”。这步推理靠的还是规模原则（6.1 节）：看到的违规里一桩“允许”都没有；若规则本就禁止允许，那也巧得太可疑了。证据缺席，本身就是证据。
   - id: 126
     kind: body
     source: |-
       But what kind of evidence does the child actually receive? Nichols and colleagues analyzed a portion of the standard database for child-directed speech (CHILDES) and found that over 99% of observed rule violations involved intentional actions (Nichols et al. 2016)[^nichols-2016]. For most of the rules children encounter, the data show a conspicuous lack of evidence in favor of the hypothesis that the rule applies both to acting and allowing. And this counts as evidence that the rules do not apply to allowings but only to actions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但儿童实际得到的是什么样的证据？Nichols 与同事分析了儿童指向言语标准数据库（CHILDES）的一部分，发现所观察到的规则违规中超过 99% 涉及有意行动（Nichols et al. 2016）[^nichols-2016]。对儿童遇到的大多数规则，数据显示明显缺乏支持“规则同时适用于行动与允许”这一假设的证据。而这本身就构成证据：规则不适用于允许，只适用于行动。
+    step2: |-
+      可孩子手头究竟有什么证据？Nichols 与同事分析了儿童指向语料库（CHILDES）的一部分，发现观察到的规则违规里，九成九以上都涉及有意行动（Nichols et al. 2016）[^nichols-2016]。孩子碰到的大多数规则，数据里都明显缺少支持“规则兼管行动与允许”的证据。这本身就构成证据：规则不管允许，只管行动。
   - id: 127
     kind: body
     source: |-
       #### 6.1.2 Parochialism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 6.1.2 Parochialism
+    step2: |-
+      #### 6.1.2 偏狭主义
   - id: 128
     kind: body
     source: |-
       The size principle can also explain how children might learn parochial rather than inclusive norms. Suppose a learner is trying to determine whether some rule applies to everyone or just to a designated proper subset of the population. For instance, imagine a set of creatures, some of whom are blue and some of whom are yellow. If the child has an opportunity to see several violations, and all of them are restricted to the blue creatures, that would provide evidence that the rule only applies to the blue creatures. That is, if the rule applied to the entire population, it would be a suspicious coincidence that all of the sample violations only applied to the blue creatures. Hence, it would be appropriate to infer that the rule had a parochial scope.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      规模原则也能解释儿童如何可能学到偏狭而非包容的规范。设想一个学习者要判断某条规则适用于所有人，还是只适用于人群中一个指定的真子集。例如，设想一群生物，有些是蓝色，有些是黄色。如果儿童有机会看到若干违规，而它们全都限于蓝色生物，这就提供了证据：规则只适用于蓝色生物。也就是说，如果规则适用于全体，那么样本违规全都只涉及蓝色生物，会是巧得可疑的巧合。因此，推断规则具有偏狭范围是恰当的。
+    step2: |-
+      规模原则也能解释：孩子怎么学到的规范是偏狭的，而不是对谁都适用。设想一个学习者要弄清某条规则是管所有人，还是只管人群里划出来的一小撮。比方有一群生物，有蓝有黄。孩子若看到几桩违规，全出在蓝色生物身上，这就提供了证据：规则只管蓝的。反过来说，规则要是管全体，样本违规却全落在蓝的头上，那就巧得可疑了。所以，推断规则范围偏狭，是恰当的。
   - id: 129
     kind: body
     source: |-
       Using a novel rules paradigm, Partington and colleagues (2023) investigated whether adults and children would make these kinds of inferences about social rules. Participants were told about two distinct groups of creatures, Glerks and Hibbles, and given sample violations. For instance, an image showing a Glerk wearing a ribbon is labeled as violating the rule. Based on the sample violations, participants were asked to infer whether the rule applied to just Glerks or to Glerks as well as Hibbles. In keeping with the size principle, participants tended to think that when all of sample violations were with Glerks, they tended to infer that the rule only applied to Glerks. This tendency was stronger when the population of Glerks was small (20%) rather than large (80%). This is in fact the rational inference to draw since if all of the sample violations involved Glerks, then it’s especially likely that the rule only applies to Glerks if the population of Glerks is only 20%. That is, it would be even more of a suspicious coincidence if the rule applied to everyone when all the samples come from a designated small minority.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Partington 与同事（2023）用一种新规则范式，考察成人与儿童是否会就社会规则作出这类推断。参与者被告知两群不同的生物——Glerks 与 Hibbles——并获得样本违规。例如，一张显示一个 Glerk 戴丝带的图片被标明违反规则。基于样本违规，参与者被问：规则只适用于 Glerks，还是同时适用于 Glerks 与 Hibbles。与规模原则一致，当所有样本违规都出在 Glerks 身上时，参与者倾向于推断规则只适用于 Glerks。当 Glerks 群体较小（20%）而非较大（80%）时，这一倾向更强。这其实是理性的推断：如果所有样本违规都涉及 Glerks，那么当 Glerks 只占 20% 时，规则只管 Glerks 的可能性就格外高。也就是说，若规则管所有人，而样本全来自一个指定的小少数，那就更巧得可疑了。
+    step2: |-
+      Partington 与同事（2023）用一套新规则范式，看大人和孩子会不会作这类推断。参与者先认识两群生物——Glerks 与 Hibbles——再看若干违规样本。比如一张图里，一个 Glerk 戴丝带，标明违规。然后问：这规则只管 Glerks，还是 Glerks 和 Hibbles 都管？结果与规模原则一致：样本违规全出在 Glerks 身上时，参与者多半推断规则只管 Glerks；Glerks 只占 20% 时，这倾向比占 80% 时更强。这恰恰是理性推断：样本全来自 Glerks，若 Glerks 本来就只占两成，规则只管他们就更说得通；反过来，规则若管所有人，样本却全出在一个小少数身上，那就巧得离谱了。
   - id: 130
     kind: body
     source: |-
