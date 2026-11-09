@@ -107,86 +107,114 @@ segments:
     kind: body
     source: |-
       ### 2.2 The Role of Laws in the *DN* Model
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 *DN* 模型中律的作用
+    step2: |-
+      ### 2.2 *DN* 模型中律的作用
   - id: 14
     kind: body
     source: |-
       The notion of a sound deductive argument is (arguably) relatively clear (or at least something that can be regarded as antecedently understood from the point of view of characterizing scientific explanation). But what about the other major component of the *DN* model—that of a law of nature? The basic intuition that guides the *DN* model goes something like this: Within the class of true generalizations, we may distinguish between those that are only “accidentally true” and those that are “laws”. To use Hempel’s examples, the generalization
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可靠演绎论证这一概念（可以说）相对清楚（至少从刻画科学解释的角度看，可视为预先已理解）。但 *DN* 模型的另一主要构件——自然律——又如何呢？引导 *DN* 模型的基本直觉大致如下：在真全称概括的类中，我们可以区分仅“偶然为真”者与“律”。用亨佩尔的例子，这个概括
+    step2: |-
+      可靠演绎论证这一概念（可以说）相对清楚——至少从刻画科学解释的角度看，可视为预先已理解。但 *DN* 的另一主要构件——自然律——又如何？引导该模型的直觉大致是：在真全称概括中，可区分仅“偶然为真”者与“律”。用亨佩尔的例子，下面这个概括
   - id: 15
     kind: body
     source: |-
       **(1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(1)**
+    step2: |-
+      **(1)**
   - id: 16
     kind: body
     source: |-
       All members of the Greensbury School Board for 1964 are bald
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1964 年格林斯伯里学校董事会全体成员都是秃头
+    step2: |-
+      1964 年格林斯伯里学校董事会全体成员都是秃头
   - id: 17
     kind: body
     source: |-
       is, if true, only accidentally so. In contrast,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若为真，也只是偶然为真。相反，
+    step2: |-
+      若为真，也只是偶然为真。相反，
   - id: 18
     kind: body
     source: |-
       **(2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(2)**
+    step2: |-
+      **(2)**
   - id: 19
     kind: body
     source: |-
       All gases expand when heated under constant pressure
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一切气体在恒压下受热都会膨胀
+    step2: |-
+      一切气体在恒压下受热都会膨胀
   - id: 20
     kind: body
     source: |-
       is a law. Thus, according to the *DN* model, the latter generalization can be used, in conjunction with information that some particular sample of gas has been heated under constant pressure, to explain why it has expanded. By contrast, the former generalization (1) in conjunction with the information that a particular person *n* is a member of the 1964 Greensbury school board, cannot be used to explain why *n* is bald.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      则是一条律。因此按 *DN* 模型，后一概括可与“某份特定气体样品在恒压下受热”的信息一起，用来解释它为何膨胀。相反，前一概括（1）与“某人 *n* 是 1964 年格林斯伯里学校董事会成员”的信息一起，却不能用来解释 *n* 为何秃头。
+    step2: |-
+      则是一条律。故按 *DN* 模型，后一概括连同“某份气体样品在恒压下受热”的信息，可解释它为何膨胀；反之，概括（1）连同“某人 *n* 是 1964 年格林斯伯里学校董事会成员”的信息，却不能解释 *n* 何以秃头。
   - id: 21
     kind: body
     source: |-
       While this example may seem clear enough, what exactly is it that distinguishes true accidental generalizations from laws? This has been the subject of a great deal of philosophical discussion, most of which must be beyond the scope of this entry.[^note-2] For reasons explained in Section 1, Hempel assumes that an adequate account must explain the notion of law in terms of notions that lie outside the modal family.[^note-3] He considers (1965b) a number of familiar proposals having this character[^note-4] and finds them all wanting, remarking that the problem of characterizing the notion of law has proved “highly recalcitrant” (1965b: 338). It seems fair to say, however, that his underlying assumption is that, at bottom, laws are just exceptionless generalizations describing regularities that meet certain additional distinguishing conditions that he is not at present able to formulate. In subsequent decades, a variety of criteria for lawhood have been proposed. Of these the so-called best systems analysis (Lewis 1973)[^lewis-1973] is probably the most popular, but no single account has won general acceptance. Finding an adequate characterization of lawhood is thus an ongoing issue for the *DN* model.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此例看似足够清楚，但究竟是什么把真的偶然概括与律区分开来？这曾是大量哲学讨论的主题，其中大部分只能超出本条目范围。[^note-2] 出于第 1 节说明的理由，亨佩尔假定：充分的说明必须用模态家族之外的概念来解释“律”。[^note-3] 他在（1965b）中考察了若干具有这一特征的常见方案[^note-4]，发现它们都不足，并说“刻画律这一概念”的问题已被证明“极难驯服”（1965b: 338）。不过可以说，他的底层假定是：律归根结底不过是描述规则性、且满足某些他目前尚无法表述的进一步区分条件的无例外概括。此后数十年间，人们提出了多种律性标准。其中所谓“最佳系统分析”（Lewis 1973）[^lewis-1973] 大概最流行，但没有一种说明获得普遍接受。因此，为律性找到充分刻画，仍是 *DN* 模型悬而未决的问题。
+    step2: |-
+      此例看似足够清楚，但究竟是什么把真的偶然概括与律区分开来？这曾是大量哲学讨论的主题，多数只能超出本条目范围。[^note-2] 出于第 1 节的理由，亨佩尔假定：充分说明须用模态家族之外的概念来阐释“律”。[^note-3] 他在（1965b）中考察了若干具此特征的常见方案[^note-4]，发现无一可用，并称刻画“律”的问题已被证明“极难驯服”（1965b: 338）。不过可以说，其底层假定是：律归根结底只是描述规则性、并满足某些他当时尚无法表述的区分条件的无例外概括。此后数十年间，律性标准层出不穷，其中“最佳系统分析”（Lewis 1973）[^lewis-1973] 大概最流行，但无一说获得普遍接受。为律性寻得充分刻画，仍是 *DN* 模型未了的问题。
   - id: 22
     kind: body
     source: |-
       One point at which this issue is particularly pressing concerns the explanatory status of the so-called special sciences—biology, psychology, economics and so on. These sciences are full of generalizations that appear to play an explanatory role and yet fail to satisfy many of the standard criteria for lawfulness. For example, although Mendel’s law of segregation (M) (which states that in sexually reproducing organisms each of the two alternative forms (alleles) of a gene specifying a trait at a locus in a given organism has 0.5 probability of ending up in a gamete) is widely used in models in evolutionary biology, it has a number of exceptions, such as meiotic drive. A similar point holds for the principles of rational choice theory (such as the generalization that preferences are transitive) which figure centrally in economics. Other widely used generalizations in the special sciences have very narrow scope in comparison with paradigmatic laws, hold only over restricted spatio-temporal regions, and lack explicit theoretical integration.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一问题尤为紧迫的一点，涉及所谓特殊科学——生物学、心理学、经济学等——的解释地位。这些科学充满看似起解释作用、却不满足许多标准律性条件的概括。例如，孟德尔分离定律（M）（它说：在有性生殖的生物中，某个在给定生物体内某一位点规定某一性状的基因，其两种交替形式（等位基因）各有 0.5 的概率进入一个配子）虽广泛用于演化生物学模型，却有一些例外，如减数分裂驱动。类似之点也适用于理性选择理论的原理（如偏好具有传递性这一概括），它们在经济学中居核心地位。特殊科学中其他广泛使用的概括，与范式性的律相比范围极窄，只在受限的时空区域成立，且缺乏明确的理论整合。
+    step2: |-
+      此问题尤显紧迫的一处，是所谓特殊科学（生物学、心理学、经济学等）的解释地位。这些科学满是看似起解释作用、却不满足许多标准律性条件的概括。例如孟德尔分离定律（M）：在有性生殖的生物中，某一位点上规定某一性状的基因有两种交替形式（等位基因），各以 0.5 的概率进入一个配子。此律虽广泛用于演化生物学模型，却有些例外，如减数分裂驱动。理性选择理论的原理（如偏好具传递性）亦然，它们在经济学中居核心。特殊科学中其他广泛使用的概括，与范式之律相比范围极窄，只在受限时空区域成立，且缺乏明确的理论整合。
   - id: 23
     kind: body
     source: |-
       There is considerable disagreement over whether such generalizations are laws. Some philosophers (e.g., Woodward 2000)[^woodward-2000] suggest that such generalizations satisfy too few of the standard criteria to count as laws but can nevertheless figure in explanations; if so, it apparently follows that we must abandon the *DN* requirement that all explanations must appeal to laws. Others (e. g., Mitchell 1997)[^mitchell-1997], emphasizing different criteria for lawfulness, conclude instead that generalizations like (M) are laws and hence no threat to the requirement that explanations must invoke laws. In the absence of a more principled account of laws, it is hard to evaluate these competing claims and hence hard to assess the implications of the *DN* model for the special sciences. At the very least, providing such an account is an important item of unfinished business for advocates of the *DN* model.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这类概括是否为律，存在相当大的分歧。有些哲学家（如 Woodward 2000）[^woodward-2000] 认为，这类概括满足的标准太少，不足以算作律，但仍可出现在解释中；若如此，显然我们就必须放弃 *DN* 模型“一切解释都必须诉诸律”的要求。另一些人（如 Mitchell 1997）[^mitchell-1997] 强调不同的律性标准，反而断定像（M）这样的概括就是律，因而对“解释必须援引律”的要求不构成威胁。在缺乏更有原则的律理论的情况下，很难评价这些相互竞争的主张，因而也很难评估 *DN* 模型对特殊科学的意涵。至少可以说，提供这样一种理论，是 *DN* 模型拥护者一项重要的未竟事业。
+    step2: |-
+      这类概括是否为律，分歧甚大。有些哲学家（如 Woodward 2000）[^woodward-2000] 认为，它们满足的标准太少，不足以为律，但仍可现身于解释；若如此，显然就得放弃 *DN* 模型“一切解释须诉诸律”之要求。另一些人（如 Mitchell 1997）[^mitchell-1997] 看重别的律性标准，反断言像（M）这样的概括就是律，故不构成对“解释须援引律”的威胁。在缺乏更有原则的律理论时，这些相争之说难以评判，*DN* 模型对特殊科学的意涵也就难以评估。至少可以说，提供这样一套理论，是 *DN* 拥护者重要的未竟之业。
   - id: 24
     kind: body
     source: |-
       ### 2.3 Inductive Statistical Explanation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 归纳—统计解释
+    step2: |-
+      ### 2.3 归纳—统计解释
   - id: 25
     kind: body
     source: |-
       The *DN* model is meant to capture explanation via deduction from deterministic laws and this raises the obvious question of the explanatory status of statistical laws. Do such laws explain at all and if so, what do they explain, and under what conditions? Hempel (1965b) distinguishes two varieties of statistical explanation. The first of these, *deductive-statistical* (*DS*) explanation, involves the deduction of “a narrower statistical uniformity” from a more general set of premises, at least one of which involves a more general statistical law. Since *DS* explanation involves deduction of the explanandum from a law, it conforms to the same general pattern as the *DN* explanation of regularities. However, in addition to *DS* explanation, Hempel also recognizes a distinctive sort of statistical explanation, which he calls *inductive-statistical* or *IS* explanation, involving the subsumption of individual events (like the recovery of a particular person from streptococcus infection) under (what he regards as) statistical laws (such as a law specifying the probability of recovery, given that penicillin has been taken).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *DN* 模型意在把握由确定性律所作的演绎解释，这就提出一个明显问题：统计律的解释地位如何？这类律究竟是否解释？若解释，解释什么、在什么条件下解释？亨佩尔（1965b）区分两种统计解释。第一种是*演绎—统计*（*DS*）解释，涉及从一组更一般的前提（其中至少一条涉及更一般的统计律）演绎出“一个较窄的统计齐一性”。由于 *DS* 解释是从律演绎被解释项，它符合与 *DN* 解释规则性相同的一般模式。不过，除 *DS* 解释外，亨佩尔还承认一种独特的统计解释，他称之为*归纳—统计*（*IS*）解释：把个别事件（如某人从链球菌感染中康复）归入（他所理解的）统计律（如规定“若服用青霉素，则康复概率为某值”的律）。
+    step2: |-
+      *DN* 模型意在把握由确定性律所作的演绎解释，于是有一显见之问：统计律的解释地位如何？这类律到底解不解释？若解释，解释什么、条件何在？亨佩尔（1965b）分出两种统计解释。其一是*演绎—统计*（*DS*）解释：从一组更一般的前提（至少一条为更一般的统计律）演绎出“一个较窄的统计齐一性”。因 *DS* 是从律演绎被解释项，其模式与 *DN* 解释规则性相同。除 *DS* 外，亨佩尔还承认另一种独特的统计解释，称*归纳—统计*（*IS*）解释：把个别事件（如某人从链球菌感染中康复）归入（他所谓的）统计律（如规定“服用青霉素则康复概率为某值”的律）。
   - id: 26
     kind: body
     source: |-
       While the explanandum of a *DN* or *DS* explanation can be deduced from the explanans, one cannot deduce that some particular individual, John Jones, has recovered from the above statistical law and the information that he has taken penicillin. At most what can be deduced from this information is that recovery is more or less probable. In *IS* explanation, the relation between explanans and explanandum is, in Hempel’s words, “inductive,” rather than deductive—hence the name inductive-statistical explanation. The details of Hempel’s account are complex, but the underlying idea is roughly this: an *IS* explanation will be good or successful to the extent that its explanans confers high probability on its explanandum outcome.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *DN* 或 *DS* 解释的被解释项可从解释项演绎出来，但从上述统计律与“他已服用青霉素”的信息，却不能演绎出某个特定个体约翰·琼斯已康复。最多只能演绎出康复多少有些概率。在 *IS* 解释中，解释项与被解释项的关系，用亨佩尔的话说，是“归纳的”而非演绎的——故有“归纳—统计解释”之名。亨佩尔说明的细节复杂，但底层想法大致是：一个 *IS* 解释之好或成功，取决于其解释项是否赋予被解释项结果以高概率。
+    step2: |-
+      *DN* 或 *DS* 的被解释项可由解释项演绎得出；但由上述统计律加上“他已服用青霉素”，却推不出某个特定个体约翰·琼斯已经康复，最多只能推出康复有或高或低的概率。在 *IS* 解释中，解释项与被解释项的关系，用亨佩尔的话说，是“归纳的”而非演绎的——故称归纳—统计解释。亨佩尔之说细节复杂，底层想法大致是：一个 *IS* 解释好不好、成不成功，取决于其解释项是否给被解释项结果以高概率。
   - id: 27
     kind: body
     source: |-
