@@ -1,0 +1,348 @@
+{
+ "key": "embryonic stem cell",
+ "term": "embryonic stem cell",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:42:52+00:00",
+ "status": "ok",
+ "note": "variant=embryonic stem cell; 审定公布名词库=5428; 海峡两岸名词对照库=2298; 其他来源数据库=106; 预公布名词数据库=144; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": "9.015",
+   "standard": "整形外科名词",
+   "subject": "整形外科_再生医学与组织工程_组织工程"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": "9.013",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖医学前沿技术"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": "8.023",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": "4.0537",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_细胞分化与发育"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": "02.010",
+   "standard": "计划生育名词",
+   "subject": "计划生育_生殖医学基础_生殖"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": "05.371",
+   "standard": "显微外科学名词",
+   "subject": "显微外科学_周围神经_周围神经损伤研究进展_周围神经损伤与再生医学"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": "08.0169",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_生物材料_组织工程与再生医学材料"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": "2.048",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫细胞"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": "05.050",
+   "standard": "遗传学名词",
+   "subject": "遗传学_发育遗传学"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell,EScell",
+   "code": "05.472",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_繁殖_胚胎移植"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell,ESC",
+   "code": "11.124",
+   "standard": "生理学名词",
+   "subject": "生理学_生殖生理学"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell,ES cell",
+   "code": "20.048",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_绪论"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell\",\"ES cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell\",\"ES cell",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "胚胎干细胞法",
+   "en": "embryonic stem cell method",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "胚胎干细胞库",
+   "en": "embryonic stem cell bank",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "胚胎干细胞法",
+   "en": "embryonic stem cell method",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "胚胎干细胞",
+   "en": "embryonic stem cell\",\"ES cell\",\"ESC",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "胚胎干细胞介导技术",
+   "en": "embryonic stem cell-mediated technology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "胚细胞",
+   "en": "embryonic cell",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "造血干细胞",
+   "en": "Hematopoietic stem cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "成体干细胞",
+   "en": "somatic stem cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "诱导性多能干细胞",
+   "en": "Induced pluripotent stem cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "艏柱",
+   "en": "stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "艇首",
+   "en": "bow\",\"stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "摆上",
+   "en": "stem\",\"uprise",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "艏",
+   "en": "bow\",\"stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "车座杆",
+   "en": "saddle stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "车把手杆",
+   "en": "handlebar extension\",\"stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "细胞",
+   "en": "Cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "记忆细胞",
+   "en": "Memory cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "干细胞",
+   "en": "stem cell",
+   "code": "1.3.3.22",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "干细胞移植",
+   "en": "stem cell transplantation",
+   "code": "9.04",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  },
+  {
+   "cn": "间充质干细胞",
+   "en": "mesenchymal stem cell, MSC",
+   "code": "1.3.3.24",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "干细胞移植",
+   "en": "stem cell transplantation, SCT",
+   "code": "1.7.3.11",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗"
+  },
+  {
+   "cn": "鸡胚蛋",
+   "en": "embryonated egg",
+   "code": "5.9.14",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蛋类"
+  },
+  {
+   "cn": "造血干细胞移植",
+   "en": "hematopoietic stem cell transplantation，HSCT",
+   "code": "4.2.1.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射性疾病"
+  },
+  {
+   "cn": "造血干细胞移植",
+   "en": "hematopoietic stem cell transplantation，HSCT",
+   "code": "1.7.3.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗"
+  },
+  {
+   "cn": "主干家庭",
+   "en": "stem family",
+   "code": "3.1.1.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "主干家庭",
+   "en": "stem family",
+   "code": "1.0381",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "干细胞治疗伦理",
+   "en": "ethics of stem cell-based therapy",
+   "code": "5.061",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临床诊疗伦理"
+  },
+  {
+   "cn": "淋巴干细胞缺乏引起的重症联合免疫缺陷",
+   "en": "severe combined immunodeficiency due to absent lymphoid stem cells(SCID)",
+   "code": "2.18.5.5",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病"
+  },
+  {
+   "cn": "电解槽",
+   "en": "electrolytic cell",
+   "code": "3.1.2.10.3.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

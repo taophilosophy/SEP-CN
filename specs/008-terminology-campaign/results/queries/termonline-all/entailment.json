@@ -1,0 +1,187 @@
+{
+ "key": "entailment",
+ "term": "entailment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:50:23+00:00",
+ "status": "ok",
+ "note": "variant=entailment; 审定公布名词库=25; 海峡两岸名词对照库=14; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "蕴涵",
+   "en": "entailment",
+   "code": "01.158",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "文本蕴含识别",
+   "en": "textual entailment recognition",
+   "code": "08.0589",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "雾沫夹带",
+   "en": "entrainment",
+   "code": "3.0758",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_塔设备"
+  },
+  {
+   "cn": "［雾沫］夹带",
+   "en": "entrainment",
+   "code": "03.0757",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "揽引作用",
+   "en": "entrainment",
+   "code": "05.178",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_光生物物理学_生物节律"
+  },
+  {
+   "cn": "夹卷",
+   "en": "entrainment",
+   "code": "05.341",
+   "standard": "大气科学名词",
+   "subject": "大气科学_动力气象学"
+  },
+  {
+   "cn": "夹卷",
+   "en": "entrainment",
+   "code": "02.0493",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_海洋科学_海洋气象学"
+  },
+  {
+   "cn": "内外偶联",
+   "en": "entrainment",
+   "code": "08.010",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫生理与生化"
+  },
+  {
+   "cn": "[雾沫]夹带",
+   "en": "entrainment",
+   "code": "03.477",
+   "standard": "化学工程名词",
+   "subject": "化学工程_传递过程与单元操作_传质分离过程_气液传质设备"
+  },
+  {
+   "cn": "挟带",
+   "en": "entrainment",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_其他力学"
+  },
+  {
+   "cn": "雾沫夹带液泛",
+   "en": "entrainment flooding",
+   "code": "3.0762",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_塔设备"
+  },
+  {
+   "cn": "机械夹杂",
+   "en": "mechanical entrainment",
+   "code": "03.0015",
+   "standard": "冶金学名词",
+   "subject": "冶金学_选矿_一般术语"
+  },
+  {
+   "cn": "卷入",
+   "en": "entrainment",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "［雾沫］夹带",
+   "en": "entrainment",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "夹卷",
+   "en": "entrainment",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "内外偶联",
+   "en": "entrainment",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "夹卷率",
+   "en": "entrainment rate",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "夹卷速度",
+   "en": "entrainment velocity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "卷入系数",
+   "en": "entrainment coefficient",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "雾沫蒸发器",
+   "en": "entrainment evaporator",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "夹带速度",
+   "en": "entrainment velocity",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "雾沫混合器",
+   "en": "entrainment mixer",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "二次夹带",
+   "en": "re-entrainment",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "混合雾沫",
+   "en": "mixing entrainment",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "蕴涵",
+   "en": "Entailment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
