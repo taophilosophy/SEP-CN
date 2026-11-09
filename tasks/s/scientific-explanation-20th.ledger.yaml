@@ -379,98 +379,130 @@ segments:
     kind: body
     source: |-
       **(5)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(5)**
+    step2: |-
+      **(5)**
   - id: 48
     kind: body
     source: |-
       (*L*) All males who take birth control pills regularly fail to get pregnant
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (*L*) 凡按时服用避孕药的男性都不会怀孕
+    step2: |-
+      (*L*) 所有按时服用避孕药的男性都不怀孕
   - id: 49
     kind: body
     source: |-
       (*K*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (*K*)
+    step2: |-
+      (*K*)
   - id: 50
     kind: body
     source: |-
       John Jones is a male who has been taking birth control pills regularly
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约翰·琼斯是一名按时服用避孕药的男性
+    step2: |-
+      约翰·琼斯是按时服用避孕药的男性
   - id: 51
     kind: body
     source: |-
       (*E*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (*E*)
+    step2: |-
+      (*E*)
   - id: 52
     kind: body
     source: |-
       John Jones fails to get pregnant
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约翰·琼斯没有怀孕
+    step2: |-
+      约翰·琼斯没有怀孕
   - id: 53
     kind: body
     source: |-
       It is arguable that (*L*) meets the criteria for lawfulness imposed by Hempel and many other writers. (If one wants to deny that (*L*) is a law one needs some principled, generally accepted basis for this judgment and, as explained above, it is unclear what this basis is.) Moreover, (5) is certainly a sound deductive argument in which (*L*) occurs as an essential premise. Nonetheless, most people judge that (*L*) and (*K*) are no explanation of (*E*). There are many other similar illustrations. For example (Kyburg 1965)[^kyburg-1965], it is presumably a law (or at least an exceptionless, counterfactual supporting generalization) that all samples of table salt that have been hexed by being touched with the wand of a witch dissolve when placed in water. One may use this generalization as a premise in a *DN* derivation which has as its conclusion that some particular hexed sample of salt has dissolved in water. But again the hexing is irrelevant to the dissolving and such a derivation is no explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可以说，(*L*) 满足亨佩尔与许多其他论者所设定的律性标准。（若有人想否认 (*L*) 是律，就需要某种有原则且被普遍接受的根据；而上文已经说明，这一根据何在并不清楚。）此外，(5) 显然是一个可靠的演绎论证，其中 (*L*) 作为本质前提出现。然而多数人判断：(*L*) 与 (*K*) 并不是 (*E*) 的解释。类似的例证还有很多。例如（Kyburg 1965）[^kyburg-1965]，这大概是一条律（或至少是一条无例外、支持反事实的概括）：一切被女巫以魔杖触碰而“施法”过的食盐样品，放入水中都会溶解。人们可以用这一概括作前提，在一个 *DN* 推导中得出结论：某个特定的被施法盐样品已在水中溶解。但同样，施法与溶解无关，这样的推导不是解释。
+    step2: |-
+      可以说，(*L*) 满足亨佩尔及许多论者所设的律性标准。（谁要否认 (*L*) 是律，就得拿出有原则且公认的依据；上文已说明，这依据何在并不清楚。）而且 (5) 显然是可靠演绎论证，(*L*) 在其中作本质前提。然而多数人判定：(*L*) 与 (*K*) 不是 (*E*) 的解释。类似例子极多。Kyburg（1965）[^kyburg-1965] 举一例：这大概是一条律（或至少是无例外、支持反事实的概括）——凡被女巫以魔杖触碰而“施法”的食盐样品，置入水中必溶。可用此概括为前提，在 *DN* 推导中得出某份被施法的盐已在水中溶解。但施法与溶解无干，这样的推导同样不是解释。
   - id: 54
     kind: body
     source: |-
       One obvious diagnosis of the difficulties posed by examples like (4) and (5) focuses on the role of causation in explanation. According to this analysis, to explain an outcome we must cite its causes and (4) and (5) fail to do this. As Salmon (1989a: 47) puts it,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对 (4) 与 (5) 所提困难的一个显见诊断，聚焦于因果在解释中的作用。按这一分析，要解释一个结果，我们必须引述其原因，而 (4) 与 (5) 未做到这一点。用萨蒙（1989a: 47）的话说，
+    step2: |-
+      (4) 与 (5) 之困难有一显见诊断，聚焦于因果在解释中的作用。按这一分析，解释一个结果须引述其原因，而 (4) 与 (5) 未做到。用萨蒙（1989a: 47）的话说：
   - id: 55
     kind: body
     source: |-
       > a flagpole of a certain height causes a shadow of a given length and thereby explains the length of the shadow.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 某一高度的旗杆引起某一长度的影子，并由此解释了影子的长度。
+    step2: |-
+      > 特定高度的旗杆引起特定长度的影子，由此解释了影子的长度。
   - id: 56
     kind: body
     source: |-
       By contrast,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相反，
+    step2: |-
+      相反，
   - id: 57
     kind: body
     source: |-
       > the shadow does not cause the flagpole and consequently cannot explain its height.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 影子并不引起旗杆，因而不能解释旗杆的高度。
+    step2: |-
+      > 影子不引起旗杆，故不能解释旗杆的高度。
   - id: 58
     kind: body
     source: |-
       Similarly, taking birth control pills does not cause Jones’ failure to get pregnant and this is why (5) fails to be an acceptable explanation. On this analysis, what (4) and (5) show is that a derivation can satisfy the *DN* criteria and yet fail to identify the causes of an explanandum—when this happens the derivation will fail to be explanatory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样，服用避孕药并不引起琼斯不怀孕，这就是 (5) 不成其为可接受解释的原因。按这一分析，(4) 与 (5) 所表明的是：一个推导可以满足 *DN* 标准，却未能指出被解释项的原因；发生这种情况时，该推导就不具解释力。
+    step2: |-
+      同样，服用避孕药并不引起琼斯不怀孕，是 (5) 不成其为可接受解释的原因。按此分析，(4) 与 (5) 表明：推导可以满足 *DN* 标准，却未指出被解释项的原因；一旦如此，该推导便不具解释力。
   - id: 59
     kind: body
     source: |-
       As explained above, advocates of the *DN* model would not regard this diagnosis as very illuminating, unless accompanied by some account of causation that does not simply take this notion as primitive. (Salmon in fact provides such an account, which we will consider in Section 4.) We should note, however, that an apparent lesson of (4) and (5) is that the regularity account of causation favored by *DN* theorists is at best incomplete: the occurrence of *c*, *e*, and the existence of some regularity or law linking them (or *x*’s having property *P* and *x*’s having property *Q* and some law linking these) is *not* a sufficient condition for the truth of the claim that *c* caused or *x*’s having *P* is causally or explanatorily relevant to *x*’s having *Q*. More generally, if the counterexamples (4) and (5) are accepted, it follows that the *DN* model fails to state sufficient conditions for explanation. Explaining an outcome isn’t *just* a matter of showing that it is nomically expectable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上所述，*DN* 模型的拥护者不会把这一诊断看得多么有启发性，除非它伴有一种不把因果概念当作初始项的因果说明。（萨蒙实际上提供了这样的说明，我们将在第 4 节考虑。）不过应注意到，(4) 与 (5) 的一个表观教训是：*DN* 论者所青睐的因果规则性说明至多是不完备的——*c*、*e* 的出现，以及把二者联系起来的某个规则性或律的存在（或 *x* 有属性 *P*、*x* 有属性 *Q* 且有某种律联结二者），并*非*“*c* 引起了（*e*）”或“*x* 之有 *P* 在因果上或解释上相关于 *x* 之有 *Q*”这一主张为真的充分条件。更一般地说，若接受 (4) 与 (5) 这两个反例，则可知 *DN* 模型未能给出解释的充分条件。解释一个结果不*仅仅*是表明它在律则上可被期待。
+    step2: |-
+      如上所述，*DN* 的拥护者不会认为这一诊断多有启发，除非另有一种不把因果当初始项的因果说明。（萨蒙即提供了这样的说明，第 4 节将论。）但应注意到，(4) 与 (5) 的一重教训是：*DN* 论者青睐的因果规则性说明至多不完备——*c*、*e* 出现，且有某个规则性或律联结二者（或 *x* 有 *P*、*x* 有 *Q*，且有律联结二者），并*非*“*c* 引起（*e*）”或“*x* 之有 *P* 在因果上、解释上相关于 *x* 之有 *Q*”为真的充分条件。更一般地说，若接受 (4)(5) 两例，*DN* 模型便未给出解释的充分条件。解释一个结果，不*仅仅*是表明它律则地可被期待。
   - id: 60
     kind: body
     source: |-
       There are two possible reactions one might have to this observation. One is that the idea that explanation is a matter of nomic expectability is correct as far as it goes, but that something more is required as well. According to this assessment, the *DN/IS* model does state a *necessary* condition for successful explanation and, moreover, a condition that is a non-redundant part of a set of conditions that are jointly sufficient for explanation. However, some other, independent feature, *X* (which will account for the directional features of explanation and insure the kind of explanatory relevance that is apparently missing in the birth control example) must be added to the *DN* model to achieve a successful account of explanation. The idea is thus that Nomic Expectability + X = Explanation. Something like this idea is endorsed, by the unificationist models of explanation developed by Friedman (1974) and Kitcher (1989), which are discussed in Section 5 below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一观察可能有两种反应。其一是：解释在于律则的可期待性这一想法就其本身而言是对的，但还需要更多的东西。按这一评估，*DN/IS* 模型确实给出了成功解释的一个*必要*条件，而且这一条件还是共同构成解释之充分条件的那组条件中不冗余的一环。然而，必须把某种其他、独立的特征 *X*（它将说明解释的方向性特征，并保证避孕药一例中显然缺失的那类解释相关性）添加到 *DN* 模型之上，才能得到成功的解释理论。其想法因而就是：律则的可期待性 + *X* = 解释。弗里德曼（1974）与基切尔（1989）发展、下文第 5 节讨论的统一论解释模型，大体赞同这一想法。
+    step2: |-
+      对此观察可有两种反应。其一认为：解释在于律则的可期待性，此见就其本身而言不差，但尚有所缺。按这一评估，*DN/IS* 模型确实给出成功解释的一个*必要*条件，且此条件还是那组共同构成充分条件的条件中不冗余的一环。然而还须把某种独立的特征 *X* 添加到 *DN* 模型之上——它要说明解释的方向性，并保证避孕药之例中显然缺失的那类解释相关性——方可得到成功的解释理论。其想法即：律则的可期待性 + *X* = 解释。弗里德曼（1974）与基切尔（1989）的统一论模型（下文第 5 节讨论）大体持此想法。
   - id: 61
     kind: body
     source: |-
       A second, more radical possible conclusion is that the *DN* account of the goal or rationale of explanation is mistaken in some much more fundamental way and that the *DN* model does not even state necessary conditions for successful explanation. As noted above, unless the hidden structure argument is accepted, this conclusion is strongly suggested by examples like (3) (“The impact of my knee caused the tipping over of the inkwell”) which appear to involve explanation without the explicit citing of a law or a deductive structure.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二种、更激进的可能结论是：*DN* 对解释之目的或理据的说明在远为根本的意义上是错的，*DN* 模型甚至未给出成功解释的必要条件。如上所述，除非接受“隐藏结构”论证，(3)（“我的膝盖撞上书桌引起了墨水瓶翻倒”）这类例子就强烈提示这一结论——它们似乎涉及解释，却没有显式引述律，也没有演绎结构。
+    step2: |-
+      第二种结论更激进：*DN* 对解释之目的或理据的说明错在远更根本处，该模型甚至未给出成功解释的必要条件。如上所述，除非接受“隐藏结构”论证，(3)（“我的膝盖撞上书桌引起了墨水瓶翻倒”）这类例子便强烈提示此说——它们看似有解释，却未显式引述律，也无演绎结构。
   - id: 62
     kind: body
     source: |-
       **Suggested Readings**. The most authoritative and comprehensive statement of the *DN* and *IS* models is probably Hempel (1965b). This is reprinted in Hempel 1965a, along with a number of other papers that touch on various aspects of the problem of scientific explanation. In addition to the references cited in this section, Salmon (1989: 46ff.) describes a number of well-known counterexamples to the *DN/IS* models and discusses their significance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **推荐读物**。对 *DN* 与 *IS* 模型最权威、最全面的陈述，大概是亨佩尔（1965b）。该文重印于 Hempel 1965a，连同若干其他触及科学解释问题各方面的论文。除本节所引参考文献外，萨蒙（1989: 46ff.）描述了对 *DN/IS* 模型的若干著名反例，并讨论了其意义。
+    step2: |-
+      **推荐读物**：*DN* 与 *IS* 模型最权威、最全面的陈述大概是亨佩尔（1965b），重印于 Hempel 1965a，另有数文触及科学解释问题的不同方面。除本节所引文献外，萨蒙（1989: 46ff.）描述了针对 *DN/IS* 模型的若干著名反例并讨论其意义。
   - id: 63
     kind: body
     source: |-
