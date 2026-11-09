@@ -601,50 +601,70 @@ segments:
       | Assigned self to positive consequences task | 24 |
       | --- | --- |
       | Assigned other to positive consequences task | 4 |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 把正面后果任务分给自己 | 24 |
+      | --- | --- |
+      | 把正面后果任务分给别人 | 4 |
+    step2: |-
+      | 把正面后果任务分给自己 | 24 |
+      | --- | --- |
+      | 把正面后果任务分给别人 | 4 |
   - id: 65
     kind: body
     source: |-
       Furthermore, those who assigned themselves to the positive consequences task after flipping the coin again thought that they were being highly moral (7.42 on a 9-point scale), while those who made the same assignment without flipping the coin did not (3.90) (Batson et al. 1999: 529)[^batson-1999]. So marking the coin and thereby reducing the ambiguity as to what the fair assignment should have been, did nothing to undermine moral hypocrisy. We are still without an explanation for how it seems to work—more on that in a moment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，掷硬币后把正面后果任务分给自己的人再次认为自己的行为高度道德（9 点量表 7.42），而没有掷硬币却做出同样分配的人则不这么认为（3.90）（Batson et al. 1999: 529）[^batson-1999]。可见，标记硬币从而减少“公平分配本应是什么”的歧义，并没有削弱道德伪善。对于它何以似乎行之有效，我们仍然没有解释——稍后再谈。
+    step2: |-
+      此外，掷完硬币再把正面任务分给自己的人，又一次认为自己做得相当道德（9 点量表 7.42）；没掷硬币却做出同样分配的人则不然（3.90）（Batson et al. 1999: 529）[^batson-1999]。可见，给硬币做上标记、从而减少“怎样的分配才算公平”的歧义，丝毫没有削弱道德伪善。至于它何以似乎奏效，我们仍然没有解释——稍后再谈。
   - id: 66
     kind: body
     source: |-
       A natural thought here is that this last result does not distinguish between those participants who flip, win, and then rate the morality of their action, versus those who flip, lose, change the task assignment to favor themselves, and then rate the morality of their action. It could be that the former group (rightly) rates the morality of their action highly, since they are following the fair procedure, whereas the second group rates it low, perhaps around 4.0 as do those who do not even bother flipping the coin and just assign themselves the positive task. If the results came out this way, then we would have evidence for moral weakness of will, to be sure, but not for moral hypocrisy, since the second group would be honest about the moral failure of their action.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里一个自然的想法是：最后这个结果并未区分两类参与者——掷硬币、赢了、然后评价自己行为道德性的人，与掷硬币、输了、把任务分配改得偏向自己、然后评价自己行为道德性的人。可能前一类人（理所当然地）给自己的行为打出高道德分，因为他们遵循了公平程序；而后一类人打低分，比如 4.0 左右，与那些懒得掷硬币、径直把正面任务分给自己的人一样。如果结果如此，那么我们当然有意志薄弱的证据，却没有道德伪善的证据，因为后一类人对自己行为的道德失败是诚实的。
+    step2: |-
+      一个自然的想法是：最后这个结果并未区分两类人——掷硬币、赢了、然后给自己行为打道德分的人，与掷硬币、输了、把分配改得偏向自己、然后再打分的人。可能前一类人（理直气壮地）给自己的行为打出高道德分，因为他们照公平程序行事；而后一类人打低分，比如 4.0 左右，跟那些懒得掷硬币、径直把正面任务分给自己的人一个样。若结果真是如此，那我们有意志薄弱的证据，却没有道德伪善的证据——因为后一类人对自己的道德失败是坦率的。
   - id: 67
     kind: body
     source: |-
       In a later study, Batson tested this possibility using secret observations of how each participant who flipped ended up having his or her coin fall (Batson et al. 2002: 334–338)[^batson-2002]. Of the 32 who flipped the coin, 16 got OTHER to POS or otherwise fiddled the coin flip so that it came out in their favor (i.e., repeated flipping). For this group, the mean rated morality of their action was 5.56, which was significantly higher than the 3.89 for the group which assigned itself to the positive task without using the coin. On the other hand, it was also lower than the 7.45 for the group which flipped, won SELF to POS, and assigned themselves to the positive task (2002: 336). The upshot is that,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在后来的研究中，Batson 用秘密观察每位掷硬币者的硬币落点来检验这一可能（Batson et al. 2002: 334–338）[^batson-2002]。掷硬币的 32 人中，有 16 人得到 OTHER to POS，或者以其他方式摆弄硬币使结果偏向自己（即反复掷）。这一组的平均道德评分为 5.56，显著高于不用硬币径直把正面任务分给自己的那组的 3.89。另一方面，它也低于掷硬币、赢得 SELF to POS、把正面任务分给自己的那组的 7.45（2002: 336）。结论是：
+    step2: |-
+      在后来的研究中，Batson 秘密记录每位掷硬币者的硬币落点，用以检验这一可能（Batson et al. 2002: 334–338）[^batson-2002]。掷硬币的 32 人里，16 人掷出了 OTHER to POS，或者靠反复掷等手法摆弄硬币、让结果偏向自己。这一组的平均道德评分是 5.56，显著高于不用硬币、径直把正面任务分给自己的那组（3.89）；另一方面又低于掷出 SELF to POS 并顺势把正面任务分给自己的那组（7.45）（2002: 336）。结论是：
   - id: 68
     kind: body
     source: |-
       > even though the coin had no more effect on their decision than it had on the decision of those who did not claim to use the coin at all, the fiddlers still said they thought the way they made the task assignment decision was more moral. Their sham reference to use of the coin seems to have provided sufficient appearance of morality that they could claim to have acted, if not totally morally, at least moderately so. (2002: 337)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 尽管硬币对他们的决定的影响，与对那些根本不声称使用硬币者的影响并无不同，这些“摆弄者”仍说自己认为其任务分配决定的方式更有道德。他们假装提到使用硬币，似乎提供了足够的道德外观，使他们得以声称自己做得——即便不全然道德，至少也算适度道德。（2002: 337）
+    step2: |-
+      > 尽管硬币对他们决定的影响，与对那些压根不声称用硬币者的影响并无二致，这批“摆弄者”仍然声称，自己决定任务分配的方式更有道德。他们假意提到用硬币，似乎已足以营造道德的外观，让他们得以宣称自己的行为——纵然算不上全然道德，至少也还算有些道德。（2002: 337）
   - id: 69
     kind: body
     source: |-
       To summarize, the studies mentioned above suggest that participants could have had their relevant fairness norm activated—in this case, the norm that flipping a coin and conforming to its results is the morally right way to behave—and even be motivated to some extent to do so. But this motivation must have been so weak that, once the cost/benefit analysis was done on an alternative action of secretly ignoring the coin when it went against the person and instead assigning oneself to the positive task, it became fairly easy to outweigh or undercut the motivation to do the right thing. So our fairness norms look to have little enhancing power after all, or at least in these kinds of cases.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总而言之，上述研究提示：参与者身上相关的公平规范可能已被激活——此处即“掷硬币并遵从其结果是道德上正确的行为方式”这一规范——甚至在一定程度上受到激励去这么做。但这种动机必定非常弱：一旦对“硬币不利于自己时暗中无视它、径直把正面任务分给自己”这一替代行动做完成本/收益分析，压倒或削弱做正确之事的动机就变得相当容易。因此，我们的公平规范看来终究没什么增强力，至少在这类情形中如此。
+    step2: |-
+      总而言之，上述研究提示：参与者身上相关的公平规范可能已被激活——此处即“掷硬币并遵从其结果才是道德上正确的行为方式”这一规范——甚至也在一定程度上有动力照做。但这种动机必定很弱：只要把“硬币不利于自己时暗中无视它、径直把正面任务分给自己”这个替代选项的成本/收益一算清，压倒或削弱做正确之事的动机就相当容易。可见我们的公平规范终究增强力有限，至少在这类情形里如此。
   - id: 70
     kind: body
     source: |-
       But all is not lost for fairness norms. Batson was able to discover two variables which separately helped to ensure that motivation to be fair did win out. The first variable was the introduction of a mirror. The setup was as usual with no labeling of the coin, but now a mirror was propped up against a wall on the only table where participants could fill out their forms. For one group of participants, the mirror was facing them; for the other, it was turned to the wall. This ended up making a significant difference (Batson et al. 1999: 530)[^batson-1999]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但公平规范并未全盘皆输。Batson 发现了两个变量，它们分别有助于确保“要公平”的动机获胜。第一个变量是引入一面镜子。设定照旧，硬币不加标记，但现在唯一一张供参与者填表的桌子上，一面镜子靠墙立着。对一组参与者，镜面朝向他们；对另一组，镜面转向墙。这最终造成了显著差异（Batson et al. 1999: 530）[^batson-1999]：
+    step2: |-
+      但公平规范并没有全盘皆输。Batson 找到两个变量，各自都能帮“要公平”的动机赢下来。第一个是加一面镜子。设定照旧，硬币不做标记；唯一一张用来填表的桌子边，墙面上立着一面镜子。一组参与者面前镜面朝内，另一组则镜面朝墙。结果差别显著（Batson et al. 1999: 530）[^batson-1999]：
   - id: 71
     kind: body
     source: |-
       *Assigned Self to Positive Consequences Task*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **把正面后果任务分给自己**
+    step2: |-
+      **把正面后果任务分给自己**
   - id: 72
     kind: body
     source: |-
@@ -652,26 +672,40 @@ segments:
       | --- | --- | --- |
       | Did Not Flip Coin (29) | 85% | 62% |
       | Flipped Coin (23) | 85% | 50% |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      |   | 镜面未朝向自己 | 镜面朝向自己 |
+      | --- | --- | --- |
+      | 没掷硬币（29） | 85% | 62% |
+      | 掷了硬币（23） | 85% | 50% |
+    step2: |-
+      |   | 镜面未朝向自己 | 镜面朝向自己 |
+      | --- | --- | --- |
+      | 没掷硬币（29） | 85% | 62% |
+      | 掷了硬币（23） | 85% | 50% |
   - id: 73
     kind: body
     source: |-
       Here for the first time we see results in line with what fairness requires—for those who flipped the coin and were facing the mirror, the overall results were as chance would predict.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里我们第一次看到与公平要求相一致的结果——对掷了硬币且面对镜子的人，总体结果正如概率所预测。
+    step2: |-
+      在这里我们第一次看到符合公平要求的结果——掷了硬币又面对镜子的那组人，总体结果正如概率所预测。
   - id: 74
     kind: body
     source: |-
       What is the best explanation for the contribution made by the mirror? Batson appeals to research on the psychology of self-awareness, in which objects like mirrors can,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      镜子的贡献，最好的解释是什么？Batson 诉诸自我觉察心理学的研究，其中镜子这类物件可以：
+    step2: |-
+      镜子为何能起这样的作用？最有力的解释是什么？Batson 诉诸自我觉察心理学的研究：在这一研究传统里，镜子一类的物件能够
   - id: 75
     kind: body
     source: |-
       > heighten awareness of discrepancies between behavior and salient personal standards, creating pressure to act in accord with standards. (Batson et al. 1999: 529; for more on the psychology of self-awareness, see Wicklund 1975)[^batson-1999][^wicklund-1975]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 提高对行为与突显的个人标准之间差距的觉察，形成按标准行事的压力。（Batson et al. 1999: 529；关于自我觉察心理学的更多内容，见 Wicklund 1975）[^batson-1999][^wicklund-1975]
+    step2: |-
+      > 使人更清楚地察觉行为与醒目的个人标准之间的差距，从而产生按标准行事的压力。（Batson et al. 1999: 529；自我觉察心理学的更多内容见 Wicklund 1975）[^batson-1999][^wicklund-1975]
   - id: 76
     kind: body
     source: |-
