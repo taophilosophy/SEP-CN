@@ -1330,6 +1330,7 @@
 | algorithm | — | 算法 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
 | fair division | — | 公平分配 | s/social-procedures 首译 | 学界通行译法（社会选择与分配正义文献通行）；凭证 2026-11-07 | 2026-11-07 |
 | divide and choose | — | 分割—选择 | s/social-procedures 首译 | 学界通行译法（亦作“我分你选”；公平分配文献通行）；凭证 2026-11-07 | 2026-11-07 |
+| cultural rights | — | 文化权利 | cosmopolitanism | 学界通行（少数群体权利论）；凭证 2026-11-09 | 2026-11-09 |
 | cake cutting | — | 切蛋糕 | s/social-procedures 首译 | 学界通行译法（公平分配文献比喻性术语）；凭证 2026-11-07 | 2026-11-07 |
 | simply fair | — | 简单公平 | s/social-procedures 首译 | 构词直译（与 envy-free 无嫉妒对举）；凭证 2026-11-07 | 2026-11-07 |
 | infinitary logic | — | 无穷逻辑 | tarski-truth | 逻辑学通行；SUMMARY 定名“无穷逻辑” | 2026-11-09 |
@@ -1385,6 +1386,7 @@
 | Bahir | — | 《巴希尔之书》 | s/scholem 首译 | 学界通行译名（早期卡巴拉经典）；凭证 2026-11-08 | 2026-11-08 |
 | Major Trends of Jewish Mysticism | — | 《犹太神秘主义主流》 | s/scholem 首译 | 学界通行译名（朔勒姆 1941 讲演集）；凭证 2026-11-08 | 2026-11-08 |
 | Star of Redemption | — | 《救赎之星》 | s/scholem 首译 | 学界通行译名（罗森茨维格代表作）；凭证 2026-11-08 | 2026-11-08 |
+| cosmopolitan democracy | — | 世界主义民主 | cosmopolitanism | 学界通行（Held 等，cosmopolitan democracy）；凭证 2026-11-09 | 2026-11-09 |
 | continuous creation | — | 持续创造 | la-forge | 学界通行（偶因论研究，creatio continua）；凭证 2026-11-09 | 2026-11-09 |
 | examen mentale | — | 心智检验（保留拉丁；源文自释 mental examination） | zabarella | 学界惯例（同上，保留拉丁随文括注）；凭证 2026-11-09 | 2026-11-09 |
 | Redemption through Sin | — | 《以罪救赎》 | s/scholem 首译 | 构词直译（朔勒姆 1937 论文）；凭证 2026-11-08 | 2026-11-08 |
@@ -1397,12 +1399,17 @@
 | Hasidism | — | 哈西德主义 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
 | Ten Unhistorical Aphorisms | — | 《十则非历史的箴言》 | s/scholem 首译 | 构词直译（朔勒姆短文）；凭证 2026-11-08 | 2026-11-08 |
 | Zimzum | — | 齐姆祖姆（神性收缩） | s/scholem 首译 | 犹太神秘主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
+| beneficence | — | 行善 | cosmopolitanism | 学界通行（伦理学义务论；与 justice 正义对举）；凭证 2026-11-09 | 2026-11-09 |
 | Brit Shalom | — | 和平联盟（Brit Shalom） | s/scholem 首译 | 专名音译兼意译（1925 年巴勒斯坦犹太社团组织）；凭证 2026-11-08 | 2026-11-08 |
+| cosmopolitan law | — | 世界主义法 | cosmopolitanism | 本条术语（康德 Weltbürgerrecht 字面义）；学界亦作「世界公民权」；凭证 2026-11-09 | 2026-11-09 |
 | conscience | — | 良心（亦作“良知”） | conscience 首译 | 学界通行（伦理学术语；哲学词典与伦理学教材通译“良心”，与孟子学“良知”相区别；本词条锁定“良心”）；凭证 2026-11-08；待 specs/008 审定库复核 | 2026-11-08 |
 | moral conscience | — | 道德良心 | conscience 首译 | 学界通行（conscience 的道德义）；凭证 2026-11-08 | 2026-11-08 |
 | extramission theory of vision | — | 视觉外射说 | zabarella | 学界通行（中世纪—早期近代视觉论研究，与 intromission 内射说对举）；凭证 2026-11-09 | 2026-11-09 |
+| free trade | — | 自由贸易 | cosmopolitanism | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| epistemic justice | — | 认知正义 | cosmopolitanism | 学界通行（认知不正义研究，Fricker 谱系）；凭证 2026-11-09 | 2026-11-09 |
 | conscientious objection | — | 依良心拒绝 | conscience 首译 | 学界通行（生命伦理学与法哲学文献通译“依良心拒绝”，亦作“良心拒绝”；本词条锁定前者）；凭证 2026-11-08 | 2026-11-08 |
 | need of being heard (Vernehmungsbedürftigkeit) | — | 需被听闻性 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09 | 2026-11-09 |
+| global distributive justice | — | 全球分配正义 | cosmopolitanism | 学界通行（罗尔斯《万民法》论争）；凭证 2026-11-09 | 2026-11-09 |
 | freedom of conscience | — | 良心自由 | conscience 首译 | 学界通行（政治哲学与宪法学）；凭证 2026-11-08 | 2026-11-08 |
 | normativity | — | 规范性 | reinach | 学界惯例（与登记册 normative force「规范性力量」同族）；凭证 2026-11-09 | 2026-11-09 |
 | peras | — | 限（peras） | zeno-elea | 学界通行（前苏格拉底研究：限/无定对举）；凭证 2026-11-09 | 2026-11-09 |
@@ -2142,6 +2149,7 @@
 | corporeal species | — | 形体种相 | la-forge | 直译（species corporea；与“观念”对举）；凭证 2026-11-09 | 2026-11-09 |
 | double negation | — | 双重否定 | gorampa | 逻辑学通行（double negation elimination 双重否定消去） | 2026-11-09 |
 | Commentary (long/middle) & Epitome | — | 长注／中注／梗概 | delmedigo | 学界通行（阿威罗伊注疏三体通行译法） | 2026-11-06 |
+| liberal nationalism | — | 自由民族主义 | cosmopolitanism | 学界通行（Tamir《自由主义的民族主义》汉译）；凭证 2026-11-09 | 2026-11-09 |
 | eidôla | εἴδωλα | 影像 | democritus | 学界通行（德谟克利特知觉论术语，原子薄膜；亦作“偶象”） | 2026-11-06 |
 | ou mallon | οὐ μᾶλλον | 并不更 | democritus | 学界通行（原子论—怀疑论“无差异”论证式；正文完整式作“并不比…更”） | 2026-11-06 |
 | euthymia | εὐθυμία | 愉快 | democritus | 学界通行（德谟克利特伦理核心词，良好心境；亦作“明朗”） | 2026-11-06 |
@@ -2254,7 +2262,10 @@
 | conscription（of organs） | — | 征用（器官） | organ-donation | 学界惯例（conscription 通译“征用”；凭证 2026-11-06） | 2026-11-06 |
 | mandated choice | — | 强制选择 | organ-donation | 构词直译（本词条政策术语） | 2026-11-06 |
 | first person authorization | — | 第一人称授权 | organ-donation | 学界惯例（美国器官捐献法术语；凭证 2026-11-06） | 2026-11-06 |
+| multiculturalism | — | 多元文化主义 | cosmopolitanism | 学界通行（政治哲学）；凭证 2026-11-09 | 2026-11-09 |
 | directed donation | — | 定向捐献 | organ-donation | 学界惯例（亦作“指定捐献”；凭证 2026-11-06） | 2026-11-06 |
+| republican cosmopolitanism | — | 共和主义世界主义 | cosmopolitanism | 学界通行（Pettit、Laborde 等新共和主义谱系）；凭证 2026-11-09 | 2026-11-09 |
+| relational facts | — | 关系性事实 | cosmopolitanism | 本条术语（Miller 关系性义务论）；学界亦作「关系事实」；凭证 2026-11-09 | 2026-11-09 |
 | kidney exchange | — | 肾脏交换 | organ-donation | 学界惯例（亦作“配对交换”；凭证 2026-11-06） | 2026-11-06 |
 | xenotransplantation | — | 异种移植 | organ-donation | 学界惯例（医学名词审定词；凭证 2026-11-06） | 2026-11-06 |
 | psychosocial harms | — | 心理社会伤害 | organ-donation | 学界惯例（医学文献 psychosocial 通行“心理社会”；凭证 2026-11-06） | 2026-11-06 |
@@ -2599,6 +2610,7 @@
 | blob | objects as blobs | 团块 | object 首译 | 学界惯例（Armstrong 论关系性本体论）；凭证 2026-11-07 | 2026-11-07 |
 | identity of indiscernibles | — | 不可分辨者的同一 | object 首译 | 学界通行汉译（莱布尼茨第二律）；凭证 2026-11-07 | 2026-11-07 |
 | indiscernibility of identicals | — | 同一者的不可分辨 | object 首译 | 学界通行汉译（莱布尼茨第一律）；凭证 2026-11-07 | 2026-11-07 |
+| mercantilism | — | 重商主义 | cosmopolitanism | 学界通行（经济思想史）；凭证 2026-11-09 | 2026-11-09 |
 | Islamicization | — | 伊斯兰化 | 首现（theology-aristotle） | 学界惯例（希腊哲学接受史通行说法）；凭证 2026-11-08 | 2026-11-08 |
 | mimar | — | 米马尔（叙利亚语'章'） | 首现（theology-aristotle） | 学界惯例（叙利亚语 mimar 音译＋义注）；凭证 2026-11-08 | 2026-11-08 |
 | singly-located | — | 单处定位 | object 首译 | 自译裁定（与多重定位对举；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
@@ -2623,6 +2635,7 @@
 | dubitatio | — | 存疑 | obligationes 首译 | 学界惯例（中世纪逻辑研究）；凭证 2026-11-07 | 2026-11-07 |
 | disputation | obligational disputation | 论辩（义务论辩） | obligationes 首译 | 学界惯例；凭证 2026-11-07 | 2026-11-07 |
 | respondent | — | 应答者 | obligationes 首译 | 学界惯例（对话逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| protectionism | — | 贸易保护主义 | cosmopolitanism | 学界通行（国际贸易政治经济学）；与美学域 aesthetic protectionism 区分；凭证 2026-11-09 | 2026-11-09 |
 | opponent | — | 提问者 | obligationes 首译 | 学界惯例（对话逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | sophismata | sophisma | 诡辩题 | obligationes 首译 | 学界通行汉译（中世纪逻辑文种）；凭证 2026-11-07 | 2026-11-07 |
 | est concedendum | — | 必须承认 | obligationes 首译 | 学界惯例（中世纪义务论核心术语）；凭证 2026-11-07 | 2026-11-07 |
@@ -3041,6 +3054,7 @@
 | state of affairs | — | 事态 | reinach | 同上；单数形不另立译名（同词条内锁定主形）；凭证 2026-11-09 | 2026-11-09 |
 | spontaneous acts | — | 自发行为 | reinach | 学界惯例（spontane Akte 研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | theory of rays | — | 光线说 | gianfrancesco-pico | 肯迪—费奇诺脉络通行（辐射论）；正文交代「术士体内发出光线」 | 2026-11-09 |
+| standing armies | — | 常备军 | cosmopolitanism | 学界通行（康德《永久和平论》条款用语）；凭证 2026-11-09 | 2026-11-09 |
 | moral property | — | 道德属性 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
 | tropes | — | 特罗普 | reinach | 学界惯例（分析形而上学音译；亦作「殊质」）；首现括注原文；凭证 2026-11-09 | 2026-11-09 |
 | theory of deduction (Schlußlehre) | — | 推论学说 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09 | 2026-11-09 |
@@ -3490,3 +3504,11 @@
 | Shona | — | 绍纳语 | 首译（african-ethics） | 民族语言通行音译（津巴布韦 Shona）；凭证 2026-11-09 | 2026-11-09 |
 | type-form | — | 类型形式 | penbygull | 构词直译（ Naturally apt to be present-in 的共相形态）；凭证 2026-11-09 | 2026-11-09 |
 | South Sotho | — | 南索托语 | 首译（african-ethics） | 民族语言通行音译（莱索托/南非 Sotho）；凭证 2026-11-09 | 2026-11-09 |
+| judgment of taste | — | 趣味判断 | aesthetic-judgment 首译 | 语料主形（全库“趣味判断”44 处 vs“鉴赏判断”2 处；邓晓芒康德译本作“鉴赏判断”备查）；凭证 2026-11-09 | 2026-11-09 |
+| pleasure in beauty | — | 对美的愉悦 | aesthetic-judgment 首译 | 康德美学通行（Kant 1790/2000 语境）；凭证 2026-11-09 | 2026-11-09 |
+| judgment of beauty | — | 美的判断 | aesthetic-judgment 首译 | 康德美学通行（与“趣味判断”对举的语域）；凭证 2026-11-09 | 2026-11-09 |
+| world community | — | 世界共同体 | cosmopolitanism | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| free play (of cognitive faculties) | — | 自由游戏（认识能力；想象力与知性） | aesthetic-judgment 首译 | 康德《判断力批判》通行汉译（邓晓芒本同形）；凭证 2026-11-09 | 2026-11-09 |
+| world state | — | 世界国家 | cosmopolitanism | 学界通行（世界主义政治理论）；与 world government 世界政府区分；凭证 2026-11-09 | 2026-11-09 |
+| world government | — | 世界政府 | cosmopolitanism | 学界通行（国际关系理论）；凭证 2026-11-09 | 2026-11-09 |
+| aesthetic idea | — | 审美理念 | aesthetic-judgment 首译 | 康德《判断力批判》§49 通行汉译；凭证 2026-11-09 | 2026-11-09 |

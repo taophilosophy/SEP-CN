@@ -12,9 +12,9 @@ segments:
     source: |-
       *Relevance logics* are non-classical logics. Called ‘relevant logics’ in Britain and Australasia, these systems developed as attempts to avoid the paradoxes of material and strict implication. These so-called paradoxes are valid conclusions that follow from the definitions of material and strict implication but are seen, by some, as problematic.
     step1: |-
-      *相干逻辑* 是非经典逻辑。在不列颠与澳大拉西亚称为 “relevant logics”，这些系统的发展旨在避免实质蕴涵与严格蕴涵的悖论。这些所谓悖论，是从实质蕴涵与严格蕴涵的定义得出的有效结论，但被一些人视为有问题。
+      *相干逻辑* 是非经典逻辑。在英国与澳大拉西亚，这些系统被称为 “relevant logics”；它们的发展，是为了避开实质蕴涵与严格蕴涵的悖论。这些所谓的悖论，是依实质蕴涵与严格蕴涵的定义得出的有效结论，但有些人觉得它们有问题。
     step2: |-
-      *相干逻辑* 属非经典逻辑。不列颠与澳大拉西亚学界称之为 “relevant logics”；这类系统的发展，意在避开实质蕴涵与严格蕴涵的悖论。所谓悖论，即依实质蕴涵、严格蕴涵之定义而得的有效结论，却被一些人视为成问题者。
+      *相干逻辑* 属非经典逻辑。英国与澳大拉西亚学界把它叫做 “relevant logics”。这类系统之所以发展起来，就是为了避开实质蕴涵和严格蕴涵的悖论。所谓悖论，是指按实质蕴涵、严格蕴涵的定义推出来的有效结论，只是有些人觉得这些结论有问题。
   - id: 2
     kind: body
     source: |-
@@ -22,11 +22,11 @@ segments:
 
       $$\begin{align} & p \rightarrow(q \rightarrow p), \\ & \neg p \rightarrow(p \rightarrow q), \\ & (p \rightarrow q) \vee(q \rightarrow r). \end{align}$$
     step1: |-
-      例如，实质蕴涵 $(p \rightarrow q)$ 在 $p$ 假或 $q$ 真时为真——即 $(\neg p \vee q)$。因此若 $p$ 真，则当 $q$ 真时实质蕴涵为真。实质蕴涵的悖论包括：
+      例如，实质蕴涵 $(p \rightarrow q)$ 在 $p$ 假或 $q$ 真时为真——也就是 $(\neg p \vee q)$。所以，如果 $p$ 真，那么 $q$ 真时实质蕴涵也真。实质蕴涵的悖论包括下面这些：
 
       $$\begin{align} & p \rightarrow(q \rightarrow p), \\ & \neg p \rightarrow(p \rightarrow q), \\ & (p \rightarrow q) \vee(q \rightarrow r). \end{align}$$
     step2: |-
-      例如，实质蕴涵 $(p \rightarrow q)$ 在 $p$ 假或 $q$ 真时为真，亦即 $(\neg p \vee q)$。故 $p$ 若真，则 $q$ 真时实质蕴涵亦真。实质蕴涵的悖论有：
+      比如，实质蕴涵 $(p \rightarrow q)$ 在 $p$ 假或 $q$ 真时为真，也就是 $(\neg p \vee q)$。因此，$p$ 为真时，只要 $q$ 真，实质蕴涵就真。实质蕴涵的悖论有：
 
       $$\begin{align} & p \rightarrow(q \rightarrow p), \\ & \neg p \rightarrow(p \rightarrow q), \\ & (p \rightarrow q) \vee(q \rightarrow r). \end{align}$$
   - id: 3
@@ -34,9 +34,9 @@ segments:
     source: |-
       The first asserts that every proposition implies a true one; the second that a false proposition implies every proposition, and the third that for any three propositions, either the first implies the second or the second implies the third.
     step1: |-
-      第一条断言每个命题都蕴涵一个真命题；第二条断言假命题蕴涵一切命题；第三条断言对任意三个命题，要么第一个蕴涵第二个，要么第二个蕴涵第三个。
+      第一条说每个命题都蕴涵某个真命题；第二条说假命题蕴涵一切命题；第三条说，对任意三个命题，要么第一个蕴涵第二个，要么第二个蕴涵第三个。
     step2: |-
-      第一式断言：凡命题皆蕴涵某真命题。第二式断言：假命题蕴涵一切命题。第三式断言：任取三命题，或第一蕴涵第二，或第二蕴涵第三。
+      第一式说的是：每个命题都蕴涵一个真命题。第二式说：假命题蕴涵任何命题。第三式说：任取三个命题，要么第一个蕴涵第二个，要么第二个蕴涵第三个。
   - id: 4
     kind: body
     source: |-
@@ -44,11 +44,11 @@ segments:
 
       $$\begin{align} & (p \amp \neg p) \rightarrow q, \\ & p \rightarrow(q \rightarrow q), \\ & p \rightarrow(q \vee \neg q). \end{align}$$
     step1: |-
-      同样，严格蕴涵 $(p \rightarrow q)$ 在不可能 $p$ 真而 $q$ 假时为真——即 $\neg \diamond(p \amp \neg q)$。严格蕴涵的悖论包括：
+      同样，严格蕴涵 $(p \rightarrow q)$ 在“$p$ 真而 $q$ 假”不可能时为真——也就是 $\neg \diamond(p \amp \neg q)$。严格蕴涵的悖论包括下面这些：
 
       $$\begin{align} & (p \amp \neg p) \rightarrow q, \\ & p \rightarrow(q \rightarrow q), \\ & p \rightarrow(q \vee \neg q). \end{align}$$
     step2: |-
-      同理，严格蕴涵 $(p \rightarrow q)$ 于“$p$ 真而 $q$ 假”不可能时为真，亦即 $\neg \diamond(p \amp \neg q)$。严格蕴涵的悖论有：
+      同理，严格蕴涵 $(p \rightarrow q)$ 在不可能“$p$ 真而 $q$ 假”时为真，也就是 $\neg \diamond(p \amp \neg q)$。严格蕴涵的悖论有：
 
       $$\begin{align} & (p \amp \neg p) \rightarrow q, \\ & p \rightarrow(q \rightarrow q), \\ & p \rightarrow(q \vee \neg q). \end{align}$$
   - id: 5
@@ -56,71 +56,71 @@ segments:
     source: |-
       The first asserts that a contradiction strictly implies every proposition; the second and third imply that every proposition strictly implies a tautology.
     step1: |-
-      第一条断言矛盾严格蕴涵一切命题；第二、三条则蕴含每个命题都严格蕴涵一个重言式。
+      第一式说矛盾严格蕴涵一切命题；第二、第三式则意味着每个命题都严格蕴涵某个重言式。
     step2: |-
-      第一式断言：矛盾严格蕴涵一切命题。第二、三式则意味着：凡命题皆严格蕴涵某一重言式。
+      第一式说的是：矛盾严格蕴涵任何命题。第二式和第三式则意味着：每个命题都严格蕴涵某个重言式。
   - id: 6
     kind: body
     source: |-
       Many philosophers, beginning with Hugh MacColl (1908), have claimed that these theses are counterintuitive. They claim that these formulae fail to be valid if we interpret $\rightarrow$ as representing the concept of implication that we have before we learn classical logic. Relevance logicians claim that what is unsettling about these so-called paradoxes is that in each of them the antecedent seems irrelevant to the consequent.
     step1: |-
-      自 Hugh MacColl (1908) 起，许多哲学家主张这些论题反直觉。他们主张，若把 $\rightarrow$ 解释为我们在学习经典逻辑之前所具有的蕴涵概念，这些公式便不是有效的。相干逻辑学家主张，这些所谓悖论令人不安之处在于：其中每一例的前件似乎都与后件不相干。
+      从 Hugh MacColl（1908）开始，许多哲学家都主张这些论题违反直觉。他们声称，如果我们把 $\rightarrow$ 理解为我们在学习经典逻辑之前就有的蕴涵概念，这些公式就不是有效的。相干逻辑学家则说，这些所谓的悖论之所以让人不安，是因为在每一例中，前件与后件看起来互不相干。
     step2: |-
-      自 Hugh MacColl (1908) 以来，不少哲学家认为这些论题有违直觉。他们称：若以 $\rightarrow$ 表示我们未习经典逻辑之前即有的蕴涵概念，这些公式便非有效。相干逻辑学家则认为，这些所谓悖论之所以令人不安，在于每一例中前件与后件似乎互不相干。
+      从 Hugh MacColl（1908）起，不少哲学家就认为这些论题反直觉。他们说：如果把 $\rightarrow$ 理解为我们在学经典逻辑之前就有的蕴涵概念，这些公式并不有效。相干逻辑学家则说，这些所谓悖论之所以叫人不安，是因为每一例里前件和后件看上去毫不相干。
   - id: 7
     kind: body
     source: |-
       In addition, relevance logicians have had qualms about certain inferences that classical logic makes valid. For example, consider the classically valid inference
     step1: |-
-      此外，相干逻辑学家对经典逻辑使之有效的某些推理也有疑虑。例如，考虑经典有效的推理：
+      此外，相干逻辑学家对经典逻辑判定为有效的某些推理也有疑虑。例如，看下面这个经典有效的推理：
     step2: |-
-      此外，相干逻辑学家对经典逻辑判为有效的某些推理亦存疑虑。例如下面这个经典有效推理：
+      另外，经典逻辑判定有效的某些推理，也让相干逻辑学家不放心。例如下面这个经典有效推理：
   - id: 8
     kind: body
     source: |-
       > The moon is made of green cheese. Therefore, either it is raining in Ecuador now or it is not.
     step1: |-
-      > 月亮是绿奶酪做的。因此，要么现在厄瓜多尔在下雨，要么没有。
+      > 月亮是绿奶酪做的。因此，要么现在厄瓜多尔在下雨，要么没有下雨。
     step2: |-
-      > 月亮是绿奶酪做的。因此，要么现在厄瓜多尔在下雨，要么没有。
+      > 月亮是绿奶酪做的。所以，现在厄瓜多尔要么在下雨，要么没下雨。
   - id: 9
     kind: body
     source: |-
       Again here there seems to be a failure of relevance. The conclusion seems to have nothing to do with the premise. Relevance logicians have attempted to construct logics that reject theses and arguments that commit “fallacies of relevance”.
     step1: |-
-      这里同样似乎有相干性失效。结论似乎与前提毫无关系。相干逻辑学家试图构造这样的逻辑：它们拒斥犯下“相干性谬误”的论题与论证。
+      这里同样像是相干性失效了。结论看起来与前提毫无关系。相干逻辑学家试图构造一些逻辑，来拒斥犯“相干性谬误”的论题与论证。
     step2: |-
-      此处同样像是相干性失效：结论与前提似无任何关联。相干逻辑学家力图构造这样的逻辑，以拒斥犯“相干性谬误”的论题与论证。
+      这里同样像是相干性断了：结论与前提似乎毫无关系。相干逻辑学家想构造出一些逻辑，把犯“相干性谬误”的论题和论证排除掉。
   - id: 10
     kind: body
     source: |-
       Relevant logicians point out that what is wrong with some of the paradoxes (and fallacies) is that the antecedents and consequents (or premises and conclusions) are on completely different topics. The notion of a topic, however, would seem not to be something that a logician should be interested in — it has to do with the content, not the form, of a sentence or inference. But there is a formal principle that relevant logicians apply to force theorems and inferences to “stay on topic”. This is the *variable sharing principle.* The variable sharing principle says that no formula of the form $A \rightarrow B$ can be proven in a relevance logic if $A$ and $B$ do not have at least one propositional variable (sometimes called a proposition letter) in common and that no inference can be shown valid if the premises and conclusion do not share at least one propositional variable.
     step1: |-
-      相干逻辑学家指出，某些悖论（与谬误）的毛病在于前件与后件（或前提与结论）完全属于不同的话题。然而，话题概念似乎并非逻辑学家应当关心之事——它关涉句子或推理的内容，而非形式。但有一条形式原则，相干逻辑学家用以迫使定理与推理“不离题”。这就是 *变量共享原则*。变量共享原则说：若 $A$ 与 $B$ 没有至少一个共同命题变元（有时称为命题字母），则任何形如 $A \rightarrow B$ 的公式都不能在相干逻辑中得证；若前提与结论不共享至少一个命题变元，则任何推理都不能被表明为有效。
+      相干逻辑学家指出，某些悖论（以及谬误）的毛病在于，前件与后件（或前提与结论）谈的是完全不同的话题。然而，“话题”这个概念似乎不是逻辑学家该关心的——它涉及句子或推理的内容，而不是形式。但有一条形式原则，相干逻辑学家用它来迫使定理和推理“不跑题”。这就是 *变量共享原则*。变量共享原则说：在相干逻辑中，如果 $A$ 与 $B$ 没有至少一个共同的命题变元（有时叫命题字母），那么任何形如 $A \rightarrow B$ 的公式都不能被证明；如果前提与结论不共享至少一个命题变元，那么任何推理都不能被证明有效。
     step2: |-
-      相干逻辑学家指出，某些悖论（及谬误）之病，在于前件与后件（或前提与结论）分属全然不同的话题。然而“话题”云云，似非逻辑学家所宜措意——它关涉句子或推理之内容，而非其形式。但有一条形式原则，相干逻辑学家用以迫使定理与推理“不离题”，即 *变量共享原则*。该原则称：若 $A$ 与 $B$ 无至少一个共同命题变元（或称命题字母），则形如 $A \rightarrow B$ 的公式皆不能在相干逻辑中得证；若前提与结论不共享至少一个命题变元，则任何推理皆不能被证明有效。
+      相干逻辑学家指出，有些悖论（以及谬误）的毛病，在于前件和后件（或前提和结论）根本不在同一个话题上。可“话题”这种东西，似乎不该是逻辑学家操心的事——它关涉句子或推理的内容，不关涉形式。不过有一条形式原则，相干逻辑学家用它逼着定理和推理“留在话题上”，这就是 *变量共享原则*。该原则说：在相干逻辑里，若 $A$ 与 $B$ 连一个共同的命题变元（有时叫命题字母）都没有，任何形如 $A \rightarrow B$ 的公式都证不出来；若前提与结论不共享至少一个命题变元，任何推理都不能被证明有效。
   - id: 11
     kind: body
     source: |-
       At this point some confusion is natural about what relevant logicians are attempting to do. The variable sharing principle is only a necessary condition that a logic must have to count as a relevance logic. It is not sufficient. Moreover, this principle does not give us a criterion that eliminates all of the paradoxes and fallacies. Some remain paradoxical or fallacious even though they satisfy variable sharing. As we shall see, however, relevant logic does provide us with a relevant notion of proof in terms of the real use of premises (see the section “Proof Theory” below), but it does not by itself tell us what counts as a true (and relevant) implication. It is only when the formal theory is put together with a philosophical interpretation that it can do this (see the section “Semantics for Relevant Implication” below).
     step1: |-
-      至此，对相干逻辑学家究竟要做什么产生一些困惑是自然的。变量共享原则只是一个逻辑要算作相干逻辑所必须满足的必要条件，并非充分条件。此外，该原则并未给出消除一切悖论与谬误的判据。有些悖论或谬误虽满足变量共享，却仍然是悖论或谬误。然而我们将会看到，相干逻辑确实以“前提的真正使用”提供了相干的证明概念（见下文“证明论”一节），但它本身并不告诉我们什么才算真（且相干）的蕴涵。只有当形式理论与哲学解释结合起来时，才能做到这一点（见下文“相干蕴涵的语义”一节）。
+      到这里，人们对相干逻辑学家到底想做什么感到困惑，是很自然的。变量共享原则只是一个逻辑要算作相干逻辑的必要条件，不是充分条件。而且，这条原则并没有给我们一个能消除所有悖论和谬误的标准。有些悖论或谬误虽然满足变量共享，却仍然是悖论或谬误。不过我们将会看到，相干逻辑确实用“前提的真正使用”给出了一个相干的证明概念（见下文“证明论”一节），但它本身并不能告诉我们什么才算真（而且相干）的蕴涵。只有把形式理论与哲学解释结合起来，它才能做到这一点（见下文“相干蕴涵的语义”一节）。
     step2: |-
-      至此，对相干逻辑学家之所图产生困惑，实属自然。变量共享原则只是一个逻辑堪称相干逻辑的必要条件，而非充分条件；它也未提供消除一切悖论与谬误的判据——有些悖论或谬误虽满足变量共享，仍属悖谬。不过下文将见，相干逻辑确实凭“前提的真正使用”给出了相干的证明概念（见“证明论”一节），但它本身并未告诉我们何谓真（且相干）的蕴涵；唯有形式理论与哲学解释相合，方能臻此（见“相干蕴涵的语义”一节）。
+      讲到这里，人们对相干逻辑学家究竟想干什么感到困惑，也很自然。变量共享原则只是逻辑成为相干逻辑的必要条件，不是充分条件；它也没有给出一个能扫清所有悖论和谬误的标准——有些悖论或谬误照样满足变量共享，却仍是悖论或谬误。不过下文会看到，相干逻辑确实凭“前提的真正使用”给出了相干的证明概念（见下文“证明论”一节），但它本身并不告诉我们什么才算真（且相干）的蕴涵；只有把形式理论和哲学解释放在一起，它才能做到这一点（见下文“相干蕴涵的语义”一节）。
   - id: 12
     kind: body
     source: |-
       In this article we will give a brief and relatively non-technical overview of the field of relevance logic.
     step1: |-
-      本文将对相干逻辑领域作简要且相对不太技术的概述。
+      本文将对该领域作一个简短且相对不技术的概述。
     step2: |-
-      本文将就相干逻辑领域作一简要而相对不太技术的概述。
+      本文对相干逻辑这个领域作一个简短、相对不那么技术的概述。
   - id: 13
     kind: body
     source: |-
       ## 1. Semantics for Relevant Implication
     step1: |-
-      ## 1. Semantics for Relevant Implication
+      ## 1. 相干蕴涵的语义
     step2: |-
       ## 1 相干蕴涵的语义
   - id: 14
@@ -128,253 +128,313 @@ segments:
     source: |-
       Our exposition of relevant logic is backwards to most found in the literature We will begin, rather than end, with the semantics, since most philosophers at present are semantically inclined.
     step1: |-
-      我们这里的阐述与文献中多数阐述顺序相反：我们从语义开始，而非以语义结束，因为目前多数哲学家在语义上更有兴趣。
+      我们对相干逻辑的阐述，与文献中大多数阐述的顺序相反。我们将从语义开始，而不是以语义结束，因为目前大多数哲学家都倾向于语义。
     step2: |-
-      本节阐述与文献中多数论述次序相反：先讲语义，而非以语义作结，盖因当今多数哲学家更倾心于语义。
+      本文讲相干逻辑的顺序，和文献里大多数讲法相反：先讲语义，而不是把语义放在最后，因为如今多数哲学家都偏爱语义。
   - id: 15
     kind: body
     source: |-
       The semantics that is presented here is the ternary relation semantics due to Richard Routley and Robert K. Meyer. This semantics is a development of Alasdair Urquhart’s “semilattice semantics” (Urquhart 1972)[^urquhart-1972]. There is a similar semantics, due to Kit Fine, that was developed at the same time as the Routley-Meyer theory (Fine 1974)[^fine-1974]. And there is an algebraic semantics due to J. Michael Dunn. Urquhart’s, Fine’s, and Dunn’s models are very interesting in their own right, but we do not have room to discuss them here.
     step1: |-
-      这里呈现的语义，是 Richard Routley 与 Robert K. Meyer 的三元关系语义。该语义是 Alasdair Urquhart “半格语义”的发展（Urquhart 1972）[^urquhart-1972]。另有 Kit Fine 的一种类似语义，与 Routley–Meyer 理论同时发展（Fine 1974）[^fine-1974]。还有 J. Michael Dunn 的一种代数语义。Urquhart、Fine 与 Dunn 的模型本身都非常有趣，但此处无篇幅讨论。
+      这里呈现的语义是 Richard Routley 与 Robert K. Meyer 提出的三元关系语义。这种语义是 Alasdair Urquhart 的“半格语义”的发展（Urquhart 1972）[^urquhart-1972]。还有一种类似的语义，由 Kit Fine 提出，与 Routley–Meyer 理论同时发展（Fine 1974）[^fine-1974]。此外还有 J. Michael Dunn 的代数语义。Urquhart、Fine 与 Dunn 的模型本身都很有意思，但这里没有篇幅讨论。
     step2: |-
-      这里所陈语义，为 Richard Routley 与 Robert K. Meyer 的三元关系语义，系 Alasdair Urquhart “半格语义”之发展（Urquhart 1972）[^urquhart-1972]。Kit Fine 另有一种类似语义，与 Routley–Meyer 理论同时而成（Fine 1974）[^fine-1974]；J. Michael Dunn 则有代数语义。Urquhart、Fine 与 Dunn 的模型本身皆极有趣，惜此处无篇幅讨论。
+      这里讲的语义，是 Richard Routley 与 Robert K. Meyer 的三元关系语义，由 Alasdair Urquhart 的“半格语义”发展而来（Urquhart 1972）[^urquhart-1972]。Kit Fine 另有一种类似的语义，与 Routley–Meyer 理论同时提出（Fine 1974）[^fine-1974]；J. Michael Dunn 则有代数语义。Urquhart、Fine、Dunn 的模型本身都很有意趣，可惜这里没有篇幅讨论。
   - id: 16
     kind: body
     source: |-
       The idea behind the ternary relation semantics is rather simple. Consider C.I. Lewis’ attempt to avoid the paradoxes of material implication. He added a new connective to classical logic, that of strict implication. In post-Kripkean semantic terms, $A \prurel B$ is true at a world $w$ if and only if for all $w'$ such that $w'$ is accessible to $w$, either $A$ fails in $w'$ or $B$ obtains there. Now, in Kripke’s semantics for modal logic, the accessibility relation is a binary relation. It holds between pairs of worlds. Unfortunately, from a relevant point of view, the theory of strict implication is still irrelevant. That is, we still make valid formulae like $p \prurel (q \prurel q)$. We can see quite easily that the Kripke truth condition forces this formula on us.
     step1: |-
-      三元关系语义背后的想法相当简单。试看 C.I. Lewis 避免实质蕴涵悖论的尝试。他给经典逻辑增加了一个新联结词：严格蕴涵。用后 Kripke 式的语义术语说，$A \prurel B$ 在世界 $w$ 为真，当且仅当对所有满足 $w'$ 可由 $w$ 通达的 $w'$，要么 $A$ 在 $w'$ 失败，要么 $B$ 在彼处成立。然而，在 Kripke 的模态逻辑语义中，可及关系是二元关系，它成立与世界对之间。不幸的是，从相干观点看，严格蕴涵理论仍不相干。也就是说，我们仍使 $p \prurel (q \prurel q)$ 这类公式有效。很容易看出，Kripke 真值条件把该公式强加给我们。
+      三元关系语义背后的想法相当简单。看看 C.I. Lewis 为避免实质蕴涵悖论所做的尝试。他给经典逻辑增加了一个新联结词，即严格蕴涵。用 Kripke 之后的语义术语说，$A \prurel B$ 在世界 $w$ 为真，当且仅当对所有 $w'$，只要 $w'$ 可被 $w$ 通达，要么 $A$ 在 $w'$ 中失败，要么 $B$ 在那里成立。可是，在 Kripke 的模态逻辑语义中，可及关系是二元关系，它成立于世界对之间。不幸的是，从相干的观点看，严格蕴涵理论仍然不相干。也就是说，我们仍然使 $p \prurel (q \prurel q)$ 这样的公式有效。很容易看出，Kripke 的真值条件硬把这条公式塞给了我们。
     step2: |-
-      三元关系语义的想法颇简单。试看 C.I. Lewis 为避实质蕴涵悖论所作的尝试：他给经典逻辑添一新联结词，即严格蕴涵。以 Kripke 之后的语义术语说，$A \prurel B$ 在世界 $w$ 为真，当且仅当凡满足“$w'$ 可由 $w$ 通达”的 $w'$，或 $A$ 在 $w'$ 失败，或 $B$ 在彼处成立。然在 Kripke 模态逻辑语义中，可及关系乃二元关系，成立于世界对之间。不幸的是，自相干观点视之，严格蕴涵理论仍不相干：我们仍使 $p \prurel (q \prurel q)$ 之类公式有效。稍加推演即可见，Kripke 真值条件逼出此公式。
+      三元关系语义的想法其实很简单。回想 C.I. Lewis 为避免实质蕴涵悖论所做的尝试：他给经典逻辑添了一个新联结词，即严格蕴涵。用 Kripke 之后的语义术语说，$A \prurel B$ 在世界 $w$ 为真，当且仅当凡 $w'$ 可被 $w$ 通达，要么 $A$ 在 $w'$ 失败，要么 $B$ 在 $w'$ 成立。但在 Kripke 的模态逻辑语义里，可及关系是二元关系，只成立于世界对之间。遗憾的是，从相干的观点看，严格蕴涵理论仍不相干：我们照样使 $p \prurel (q \prurel q)$ 这类公式有效。稍加推演就能看出，Kripke 的真值条件逼出了这条公式。
   - id: 17
     kind: body
     source: |-
       Like the semantics of modal logic, the semantics of relevance logic relativises truth of formulae to worlds. But Routley and Meyer go modal logic one better and use a three-place relation on worlds. This allows there to be worlds at which $q \rightarrow q$ fails and that in turn allows worlds at which $p \rightarrow(q \rightarrow q)$ fails. Their truth condition for $\rightarrow$ on this semantics is the following:
     step1: |-
-      与模态逻辑语义一样，相干逻辑语义把公式真值相对于世界。但 Routley 与 Meyer 比模态逻辑更进一步，使用世界上的三元关系。这允许存在 $q \rightarrow q$ 失败的世界，进而允许 $p \rightarrow(q \rightarrow q)$ 失败的世界。他们在此语义下对 $\rightarrow$ 的真值条件如下：
+      与模态逻辑的语义一样，相干逻辑的语义也把公式的真相对于世界。但 Routley 与 Meyer 比模态逻辑更进一步，使用世界间的三元关系。这样一来，就可以有使 $q \rightarrow q$ 失败的世界，进而也可以有使 $p \rightarrow(q \rightarrow q)$ 失败的世界。他们在这种语义中对 $\rightarrow$ 的真值条件如下：
     step2: |-
-      相干逻辑语义与模态逻辑语义一样，把公式真值相对于世界；但 Routley 与 Meyer 更进一层，采用世界间的三元关系。于是可以有使 $q \rightarrow q$ 失败的世界，从而也可以有使 $p \rightarrow(q \rightarrow q)$ 失败的世界。其 $\rightarrow$ 真值条件如下：
+      和模态逻辑的语义一样，相干逻辑的语义也把公式的真相对于世界。但 Routley 与 Meyer 比模态逻辑更进一步，用的是世界间的三元关系。于是可以有使 $q \rightarrow q$ 失败的世界，进而也可以有使 $p \rightarrow(q \rightarrow q)$ 失败的世界。他们在这种语义下给 $\rightarrow$ 的真值条件是：
   - id: 18
     kind: body
     source: |-
       $A \rightarrow B$ is true at a world $a$ if and only if for all worlds $b$ and $c$ such that $Rabc$ $(R$ is the accessibility relation) either $A$ is false at $b$ or $B$ is true at $c$.
     step1: |-
-      $A \rightarrow B$ 在世界 $a$ 为真，当且仅当对所有满足 $Rabc$ 的世界 $b$ 与 $c$（$R$ 为可及关系），要么 $A$ 在 $b$ 为假，要么 $B$ 在 $c$ 为真。
+      $A \rightarrow B$ 在世界 $a$ 为真，当且仅当对所有满足 $Rabc$ 的世界 $b$ 与 $c$（$R$ 是可及关系），要么 $A$ 在 $b$ 为假，要么 $B$ 在 $c$ 为真。
     step2: |-
-      $A \rightarrow B$ 在世界 $a$ 为真，当且仅当凡满足 $Rabc$ 的世界 $b$、$c$（$R$ 即可及关系），或 $A$ 在 $b$ 为假，或 $B$ 在 $c$ 为真。
+      $A \rightarrow B$ 在世界 $a$ 为真，当且仅当凡满足 $Rabc$ 的世界 $b$、$c$（$R$ 即可及关系），要么 $A$ 在 $b$ 上为假，要么 $B$ 在 $c$ 上为真。
   - id: 19
     kind: body
     source: |-
       For people new to the field it takes some time to get used to this truth condition. But with a little work it can be seen to be just a generalisation of Kripke’s truth condition for strict implication (just set $b = c$).
     step1: |-
-      对初入此领域者，需要一些时间才能习惯这一真值条件。但稍加推敲便可见，它只是 Kripke 严格蕴涵真值条件的推广（令 $b = c$ 即可）。
+      对刚接触这个领域的人来说，要花些时间才能习惯这个真值条件。但只要稍加推敲，就能看出它不过是 Kripke 严格蕴涵真值条件的推广（只需令 $b = c$）。
     step2: |-
-      初入此领域者，须些时日方能习惯这一真值条件；稍加推敲便知，它不过是 Kripke 严格蕴涵真值条件之推广（令 $b = c$ 即是）。
+      刚入门的人得花点时间才习惯这个真值条件。不过稍加推敲就能看出，它无非是 Kripke 严格蕴涵真值条件的推广——只要令 $b = c$ 就行。
   - id: 20
     kind: body
     source: |-
       The ternary relation semantics can be adapted to be a semantics for a wide range of logics. Placing different constraints on the relation makes valid different formulae and inferences. For example, if we constrain the relation so that $Raaa$ holds for all worlds $a$, then we make it true that if $(A \rightarrow B) \amp A$ is true at a world, then $B$ is also true there. Given other features of the Routley-Meyer semantics, this makes the thesis $((A \rightarrow B) \amp A) \rightarrow B$ valid. If we make the ternary relation symmetrical in its first two places, that is, we constrain it so that, for all worlds $a, b$, and $c$, if $Rabc$ then $Rbac$, then we make valid the thesis $A \rightarrow ((A \rightarrow B) \rightarrow B)$.
     step1: |-
-      三元关系语义可改造为适用范围很广的逻辑语义。对关系施加不同约束，会使不同公式与推理有效。例如，若约束关系使 $Raaa$ 对所有世界 $a$ 成立，则我们使“若 $(A \rightarrow B) \amp A$ 在某世界为真，则 $B$ 亦在彼处为真”成立。结合 Routley–Meyer 语义的其他特征，这使论题 $((A \rightarrow B) \amp A) \rightarrow B$ 有效。若使三元关系前两位置对称，即约束为：凡世界 $a, b$ 与 $c$，若 $Rabc$ 则 $Rbac$，则使论题 $A \rightarrow ((A \rightarrow B) \rightarrow B)$ 有效。
+      三元关系语义可以改造成适用范围很广的逻辑语义。对关系施加不同约束，就会使不同的公式和推理有效。例如，如果约束关系使 $Raaa$ 对所有世界 $a$ 成立，那么我们就使这一点为真：如果 $(A \rightarrow B) \amp A$ 在世界为真，则 $B$ 也在那里为真。结合 Routley–Meyer 语义的其他特征，这使论题 $((A \rightarrow B) \amp A) \rightarrow B$ 有效。如果我们让三元关系的前两位对称，也就是约束它使对所有世界 $a, b$ 与 $c$，若 $Rabc$ 则 $Rbac$，那么我们就使论题 $A \rightarrow ((A \rightarrow B) \rightarrow B)$ 有效。
     step2: |-
-      三元关系语义可改装为适用范围甚广的逻辑语义：对关系施加不同约束，便使不同公式与推理有效。例如，若约束关系使 $Raaa$ 对一切世界 $a$ 成立，则“若 $(A \rightarrow B) \amp A$ 在某世界为真，则 $B$ 亦在彼处为真”得以成立；再合以 Routley–Meyer 语义的其他特征，论题 $((A \rightarrow B) \amp A) \rightarrow B$ 便有效。若令三元关系前两位对称，即约束为：凡世界 $a, b$ 与 $c$，若 $Rabc$ 则 $Rbac$，则论题 $A \rightarrow ((A \rightarrow B) \rightarrow B)$ 有效。
+      三元关系语义稍作调整，就能给一大类逻辑当语义：对关系加不同约束，有效的公式和推理也随之不同。比如，若约束关系使 $Raaa$ 对一切世界 $a$ 成立，就能保证：只要 $(A \rightarrow B) \amp A$ 在某世界为真，$B$ 也在那里为真；再结合 Routley–Meyer 语义的其他特征，论题 $((A \rightarrow B) \amp A) \rightarrow B$ 便有效。若让三元关系的前两位对称，即凡世界 $a, b$ 与 $c$ 满足 $Rabc$ 就有 $Rbac$，那么论题 $A \rightarrow ((A \rightarrow B) \rightarrow B)$ 也有效。
   - id: 21
     kind: body
     source: |-
       The ternary accessibility relation needs a philosophical interpretation in order to give relevant implication a real meaning on this semantics. Recently there have been several interpretations developed based on theories of information.
     step1: |-
-      三元可及关系需要哲学解释，才能在此语义上赋予相干蕴涵真正意义。近来已有若干基于信息理论的解释。
+      三元可及关系需要一种哲学解释，才能在这种语义上给相干蕴涵一个真正的意义。近来已有几种基于信息理论的解释发展出来。
     step2: |-
-      三元可及关系须有哲学解释，方能在此语义上赋予相干蕴涵以真实意义。晚近已有数种基于信息理论的解释。
+      要让相干蕴涵在这种语义上有真正的意义，三元可及关系就需要哲学解释。近年来已有几种基于信息理论的解释。
   - id: 22
     kind: body
     source: |-
       One interpretation is suggested in Jon Barwise (1993) and developed in Restall (1996). On this view, worlds are taken to be information-theoretic “sites” and “channels”. A site is a context in which information is received and a channel is a conduit through which information is transferred. Thus, for example, when the BBC news appears on the television in my living room, we can consider the living room to be a site and the wires, satellites, and so on, that connect my television to the studio in London to be a channel. Using channel theory to interpret the Routley-Meyer semantics, we take $Rabc$ to mean that $a$ is an information-theoretic channel between sites $b$ and $c$. Thus, we take $A \rightarrow B$ to be true at $a$ if and only if, whenever $a$ connects a site $b$ at which $A$ obtains to a site $c, B$ obtains at $c$.
     step1: |-
-      一种解释由 Jon Barwise (1993) 提出，并在 Restall (1996) 中发展。此观点把世界视为信息论意义上的“站点”与“信道”。站点是接收信息的语境，信道是传递信息的通道。因此，例如当 BBC 新闻出现在我客厅的电视上时，我们可以把客厅视为站点，把连接我电视与伦敦演播室的线路、卫星等视为信道。用信道论解释 Routley–Meyer 语义，我们把 $Rabc$ 理解为：$a$ 是站点 $b$ 与 $c$ 之间的信息论信道。于是，$A \rightarrow B$ 在 $a$ 为真，当且仅当：只要 $a$ 把 $A$ 在其中成立的站点 $b$ 连接到站点 $c$，$B$ 就在 $c$ 成立。
+      Jon Barwise（1993）提出了一种解释，Restall（1996）加以发展。按这种观点，世界被看作信息论意义上的“站点”与“信道”。站点是接收信息的语境，信道是传递信息的通道。因此，例如，当 BBC 新闻出现在我客厅的电视上时，我们可以把客厅看作站点，把连接我的电视与伦敦演播室的线缆、卫星等看作信道。用信道论解释 Routley–Meyer 语义，我们把 $Rabc$ 理解为：$a$ 是站点 $b$ 与 $c$ 之间的信息论信道。于是，我们把 $A \rightarrow B$ 在 $a$ 为真理解为：只要 $a$ 把一个 $A$ 在其中成立的站点 $b$ 连到一个站点 $c, B$ 就在 $c$ 成立。
     step2: |-
-      Jon Barwise (1993) 提出一种解释，Restall (1996) 加以发展。此说以世界为信息论意义上的“站点”与“信道”：站点接收信息，信道传送信息。故如 BBC 新闻现于我客厅电视时，客厅可为站点，连接电视与伦敦演播室的线路、卫星等则为信道。以信道论解释 Routley–Meyer 语义，$Rabc$ 意即 $a$ 是站点 $b,c$ 间的信息论信道。于是 $A \rightarrow B$ 在 $a$ 为真，当且仅当：凡 $a$ 将 $A$ 所成立的站点 $b$ 连至站点 $c$，$B$ 即在 $c$ 成立。
+      Jon Barwise（1993）提出一种解释，Restall（1996）加以发展。这种看法把世界当作信息论意义上的“站点”和“信道”：站点接收信息，信道传送信息。比如 BBC 新闻出现在我客厅的电视上时，客厅可算站点，连接电视与伦敦演播室的线缆、卫星等可算信道。用信道论解释 Routley–Meyer 语义，$Rabc$ 意为 $a$ 是站点 $b$、$c$ 之间的信息论信道；于是 $A \rightarrow B$ 在 $a$ 为真，当且仅当 $a$ 把 $A$ 在其中成立的站点 $b$ 连到站点 $c, B$ 在 $c$ 成立。
   - id: 23
     kind: body
     source: |-
       Similarly, Mares (1997) uses a theory of information due to David Israel and John Perry (1990). In addition to other information a world contains informational links, such as laws of nature, conventions, and so on. For example, a Newtonian world will contain the information that all matter attracts all other matter. In information-theoretic terms, this world contains the information that two things’ being material carries the information that they attract each other. On this view, $Rabc$ if and only if, according to the links in $a$, all the information carried by what obtains in $b$ is contained in $c$. Thus, for example, if $a$ is a Newtonian world and the information that $x$ and $y$ are material is contained in $b$, then the information that $x$ and $y$ attract each other is contained in $c$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样地，Mares（1997）采用了 David Israel 与 John Perry（1990）提出的信息理论。除其他信息外，一个世界还包含信息联系，例如自然规律、约定等等。例如，一个牛顿式的世界将包含这样的信息：一切物质吸引一切其他物质。用信息论的术语说，这个世界包含这样的信息：两个事物是物质的这一情况承载着它们相互吸引的信息。按这种观点，$Rabc$ 当且仅当，按照 $a$ 中的联系，$b$ 中所成立的东西所承载的一切信息都包含在 $c$ 中。因此，例如，若 $a$ 是一个牛顿式的世界，且 $x$ 与 $y$ 是物质的这一信息包含在 $b$ 中，则 $x$ 与 $y$ 相互吸引的信息包含在 $c$ 中。
+    step2: |-
+      同样，Mares（1997）采用了 David Israel 与 John Perry（1990）提出的一种信息理论。一个世界除包含其他信息外，还包含信息联系，比如自然规律、约定等。例如，牛顿式的世界包含“一切物质都吸引其他一切物质”这一信息。用信息论的术语说，它包含的信息是：两物为物质，承载着它们相互吸引的信息。按这种看法，$Rabc$ 成立，当且仅当依 $a$ 中的联系，$b$ 中所发生之事承载的全部信息都包含在 $c$ 中。于是，若 $a$ 是牛顿式的世界，而“$x$ 与 $y$ 是物质”这一信息包含在 $b$ 中，那么“$x$ 与 $y$ 相互吸引”这一信息就包含在 $c$ 中。
   - id: 24
     kind: body
     source: |-
       Another interpretation is developed in Mares (2004). This interpretation takes the Routley-Meyer semantics to be a formalisation of the notion of “situated implication”. This interpretation takes the “worlds” of the Routley-Meyer semantics to be *situations*. A situation is a perhaps partial representation of the universe. The information contained in two situations, $a$ and $b$ might allow us to infer further information about the universe that is contained in neither situation. Thus, for example, suppose in our current situation that we have the information contained in the laws of the theory of general relativity (this is Einstein’s theory of gravity). Then we hypothesise a situation in which we can see a star moving in an ellipse. Then, on the basis of the information that we have and the hypothesised situation, we can infer that there is a situation in which there is a very heavy body acting on this star.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种解释由 Mares（2004）提出。这种解释把 Routley–Meyer 语义视为“情境化蕴涵”概念的形式化。这种解释把 Routley–Meyer 语义中的“世界”视为 *情境*。情境是对宇宙的一种或许部分性的表象。两个情境 $a$ 与 $b$ 所包含的信息，可能允许我们推出关于宇宙的、两个情境都不包含的进一步信息。因此，例如，假设在我们当前的情境中，我们拥有广义相对论理论定律所包含的信息（这是爱因斯坦的引力理论）。然后我们假设一个情境，在其中我们可以看到一颗恒星沿椭圆运动。然后，根据我们拥有的信息与所假设的情境，我们可以推出存在一个情境，其中有一个非常重的物体作用于这颗恒星。
+    step2: |-
+      Mares（2004）提出另一种解释，把 Routley–Meyer 语义看作“情境化蕴涵”概念的形式化，并把该语义中的“世界”看作 *情境*。情境是对宇宙的一种表象，可能只涉及部分。两个情境 $a$ 与 $b$ 所含的信息合在一起，也许能推出关于宇宙的进一步信息，而这是两个情境各自都不包含的。比如，假定当前情境中有广义相对论定律所含的信息（即爱因斯坦的引力理论），我们又设想一个能看到恒星沿椭圆运动的情境；那么根据手头的信息与所设想的情境，就能推出：存在一个情境，其中有个极重的天体在作用于这颗恒星。
   - id: 25
     kind: body
     source: |-
       We can model situated inference using a relation $I$ (for “implication”). Then we have $IabP$, where $P$ is a proposition, if and only if the information in $a$ and $b$ together license the inference to there being a situation in which $P$ holds. We can think of a proposition itself as a set of situations. We set $A \rightarrow B$ to hold at $a$ if and only if, for all situations $b$ in which $A$ holds, $Iab|B|,$ where $|B$| is the set of situations at which $B$ is true. We set $Rabc$ to hold if and only if $c$ belongs to every proposition $P$ such that $IabP$. With the addition of the postulate that, for any set of propositions $P$ such that $IabP$, the intersection of that set $X$ is such that $IabX$, we find that the implications that are made true on any situation using the truth condition that appeals to $I$ are the same as those that are made true by the Routley-Meyer truth condition. Thus, the notion of situated inference gives a way of understanding the Routley-Meyer semantics. (This is a very brief version of the discussion of situated inference that is in chapters 2 and 3 of Mares (2004).)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以用关系 $I$（代表“蕴涵”）来建模情境化推理。于是，若有 $IabP$，其中 $P$ 是一个命题，当且仅当 $a$ 与 $b$ 中的信息合起来许可推出存在一个 $P$ 在其中成立的情境。我们可以把命题本身看成一个情境集合。我们规定 $A \rightarrow B$ 在 $a$ 成立，当且仅当对所有 $A$ 在其中成立的情境 $b$，都有 $Iab|B|,$，其中 $|B$| 是 $B$ 在其中为真的情境集合。我们规定 $Rabc$ 成立，当且仅当 $c$ 属于每一个满足 $IabP$ 的命题 $P$。再加上这样一条公设：对任何满足 $IabP$ 的命题集合 $P$，该集合的交 $X$ 也满足 $IabX$；我们就会发现，用诉诸 $I$ 的真值条件在任何情境上使之成真的蕴涵，与用 Routley–Meyer 真值条件使之成真的蕴涵相同。因此，情境化推理的概念提供了一种理解 Routley–Meyer 语义的方式。（这是对 Mares（2004）第 2、3 章中关于情境化推理的讨论的极简短版本。）
+    step2: |-
+      用关系 $I$（“蕴涵”的缩写）可以给情境化推理建模：$IabP$ 成立（$P$ 是命题），当且仅当 $a$ 与 $b$ 的信息合起来许可推出“存在一个 $P$ 在其中成立的情境”。命题本身可视为一个情境集合。规定 $A \rightarrow B$ 在 $a$ 成立，当且仅当对所有使 $A$ 成立的情境 $b$，都有 $Iab|B|,$，这里 $|B$| 是使 $B$ 为真的情境集合。规定 $Rabc$ 成立，当且仅当 $c$ 属于每个满足 $IabP$ 的命题 $P$。再补一条公设：任取满足 $IabP$ 的命题集 $P$，其交集 $X$ 也满足 $IabX$。由此可知，借 $I$ 的真值条件在任何情境上判为真的蕴涵，与 Routley–Meyer 真值条件判为真的蕴涵一致。可见情境化推理为理解 Routley–Meyer 语义提供了一条途径。（以上只是 Mares（2004）第 2、3 章相关讨论的极简版。）
   - id: 26
     kind: body
     source: |-
       Another informational interpretation is in Dunn (2015). This interpretation neatly connects the concept of relevance in relevance logic with the pragmatic notion of relevance in Grice’s conversational maxims and in Sperber and Wilson’s pragmatic theory. The idea is that the relation $R$ holds between three “states”, $a,b$, and $c$ if in the context $a, b$ is relevant to $c$. This means that using the information both in $a$ and $b$ allows one to derive the information in $c$. The notion of derivation here is one that Sperber and Wilson call “contextual implication”. The result is derivable from the information in $a$ and $b$, but not from the information in either alone (Sperber and Wilson, 2002, p. 251). There are various ways to think of the combination of information in $a$ and $b$. One that Dunn discusses is to think of $a$ and $b$ as being similar to computer programs and the combination of the two is their composition -- the result of running $b$ and taking the result of that as input for $a$, and then running $a$. This combination is relevant to $c$ if the information produced by it is all contained in $c$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种信息论解释见 Dunn（2015）。这种解释巧妙地把相干逻辑中的相干概念与 Grice 会话准则中以及 Sperber 与 Wilson 语用理论中的语用相干概念联系起来。其想法是：关系 $R$ 在三个“状态” $a,b,c$ 之间成立，如果在语境 $a$ 中，$b$ 与 $c$ 相干。这意味着同时使用 $a$ 与 $b$ 中的信息可以推出 $c$ 中的信息。这里的推出概念是 Sperber 与 Wilson 称为“语境蕴涵”的东西。结果可以从 $a$ 与 $b$ 中的信息推出，但不能从其中任何一个单独推出（Sperber and Wilson, 2002, p. 251）。有各种方式理解 $a$ 与 $b$ 中信息的结合。Dunn 讨论的一种方式是把 $a$ 与 $b$ 看作类似计算机程序，两者的结合就是它们的复合——运行 $b$ 并把结果作为 $a$ 的输入，然后再运行 $a$。这种结合与 $c$ 相干，如果它产生的信息全部包含在 $c$ 中。
+    step2: |-
+      另一种信息论解释见 Dunn（2015）。它把相干逻辑的相干概念，同 Grice 会话准则与 Sperber、Wilson 语用理论中的语用相干概念挂上了钩。想法是：三个“状态” $a,b,c$ 之间有关系 $R$，意思是在语境 $a$ 中，$b$ 对 $c$ 相干；也就是说，合起来使用 $a$ 与 $b$ 的信息，可以推出 $c$ 的信息。这里的“推出”即 Sperber 与 Wilson 所说的“语境蕴涵”：结论可从 $a$ 与 $b$ 的信息推出，却不能从其中任一单独推出（Sperber and Wilson, 2002, p. 251）。$a$ 与 $b$ 的信息如何结合，可以有不同理解。Dunn 讨论的一种是：把 $a$、$b$ 比作计算机程序，两者的结合即其复合——先运行 $b$，把结果作为 $a$ 的输入，再运行 $a$。若这样产生的信息全在 $c$ 中，该结合便与 $c$ 相干。
   - id: 27
     kind: body
     source: |-
       A different sort of interpretation is given by Beall, et al. (2012). In fact, Beall, et al (2012) presents three different interpretations of the ternary relation. These interpretations link the ternary relation with different notions of “conditionality”. I discuss only two of these interpretations here. The third is a bit too involved for inclusion in an encyclopedia entry. On the first of these interpretations, a conditional $A\rightarrow B$ holds at a world $a$ if there is no counterexample to this conditional, i.e. a place salient to $a$ at which $A$ holds and $B$ fails to hold. This “place” is not a single world, but a pair of worlds, $b, c$. A pair consists in a counterexample to the conditional if $A$ is true at the first of the pair and $B$ is not true at the second.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种解释由 Beall 等（2012）给出。事实上，Beall 等（2012）对三元关系给出了三种不同解释。这些解释把三元关系与不同的“条件性”概念联系起来。这里我只讨论其中两种解释。第三种对百科全书词条来说稍嫌繁复。按第一种解释，条件句 $A\rightarrow B$ 在世界 $a$ 成立，如果这个条件句没有反例，即没有相对于 $a$ 而言显著的地点使 $A$ 成立而 $B$ 不成立。这个“地点”不是单个世界，而是一对世界 $b,c$。如果 $A$ 在这一对中的第一个世界为真而 $B$ 在第二个世界不为真，这一对就构成该条件句的反例。
+    step2: |-
+      Beall 等（2012）给出另一种解释，实际上提出了三元关系的三种解释，分别联系不同的“条件性”概念。这里只谈两种，第三种对百科词条来说过于繁复。第一种解释认为，条件句 $A\rightarrow B$ 在世界 $a$ 成立，当且仅当该条件句没有反例，即没有相对于 $a$ 而言显著的地点使 $A$ 成立而 $B$ 失败。这种“地点”不是单个世界，而是一对世界 $b,c$：若 $A$ 在这一对的第一个世界为真、$B$ 在第二个世界不为真，这对世界就是反例。
   - id: 28
     kind: body
     source: |-
       On the second interpretation, the points of Routley-Meyer models are considered to be both operators (in the mathematical sense) and the things that they operate on. On this understanding, $Rabc$ means that considered as an operator, $a$ when applied to $b$ yields information all of which is contained in $c$. This interpretation makes the Routley-Meyer semantics very similar in intent to Fine’s operational semantics. And this interpretaion is very closely related to Dunn’s interpetation (in particular in his notion of the combining of information in states).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按第二种解释，Routley–Meyer 模型的点既被看作（数学意义上的）算子，又被看作它们所作用的东西。按这种理解，$Rabc$ 意味着：把 $a$ 看作算子，当它作用于 $b$ 时产生的一切信息都包含在 $c$ 中。这种解释使 Routley–Meyer 语义在意图上与 Fine 的算子语义非常相似。这种解释也与 Dunn 的解释（特别是他关于状态中信息结合的概念）密切相关。
+    step2: |-
+      第二种解释把 Routley–Meyer 模型的点同时看作（数学意义上的）算子和算子作用的对象。按这种理解，$Rabc$ 意为：把 $a$ 当作算子作用于 $b$，所产生的信息全部包含在 $c$ 中。这样，Routley–Meyer 语义在意图上就很接近 Fine 的算子语义，也与 Dunn 的解释（尤其是其状态信息结合的概念）关系密切。
   - id: 29
     kind: body
     source: |-
       By itself, the use of the ternary relation is not sufficient to avoid all the paradoxes of implication. Given what we have said so far, it is not clear how the semantics can avoid paradoxes such as $(p \amp \neg p) \rightarrow q$ and $p \rightarrow (q \vee \neg q)$. These paradoxes are avoided by the inclusion of inconsistent and non-bivalent worlds in the semantics. For, if there were no worlds at which $p \amp \neg p$ holds, then, according to our truth condition for the arrow, $(p \amp \neg p) \rightarrow q$ would also hold everywhere. Likewise, if $q \vee \neg q$ held at every world, then $p \rightarrow(q \vee \neg q)$ would be universally true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      单靠使用三元关系，还不足以避开一切蕴涵悖论。就目前所说，尚不清楚这种语义如何避开 $(p \amp \neg p) \rightarrow q$ 与 $p \rightarrow (q \vee \neg q)$ 之类的悖论。这些悖论是靠语义中包含不一致世界与非二值世界来避开的。因为，如果没有世界使 $p \amp \neg p$ 成立，那么按照我们对箭头的真值条件，$(p \amp \neg p) \rightarrow q$ 也会处处成立。同样，如果 $q \vee \neg q$ 在每个世界都成立，那么 $p \rightarrow(q \vee \neg q)$ 就会普遍为真。
+    step2: |-
+      光有三元关系还不够，避不开所有蕴涵悖论。按目前所述，还看不出这种语义怎样排除 $(p \amp \neg p) \rightarrow q$、$p \rightarrow (q \vee \neg q)$ 这类悖论。办法是在语义中放进不一致世界与非二值世界。因为若没有世界使 $p \amp \neg p$ 成立，按箭头的真值条件，$(p \amp \neg p) \rightarrow q$ 就会处处成立；同理，若 $q \vee \neg q$ 在每个世界都成立，$p \rightarrow(q \vee \neg q)$ 便普遍为真。
   - id: 30
     kind: body
     source: |-
       An approach to relevance that does not require the ternary relation is due to Routley and Loparic (1978) and Priest (1992) and (2008). This semantics uses a set of worlds and a binary relation, $S$. Worlds are divided into two categories: normal worlds and non-normal worlds. An implication $A \rightarrow B$ is true at a normal world $a$ if and only if for all worlds $b$, if $A$ is true at $b$ then $B$ is also true true at $b$. At non-normal worlds, the truth values for implications are random. Some may be true and others false. A formula is valid if and only if it is true on every such model in its *normal* worlds. This division of worlds into normal and non-normal and the use of random truth values for implications at non-normal worlds enables us to find countermodels for formulas such as $p \rightarrow (q \rightarrow q)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种不需要三元关系的相干性进路由 Routley 与 Loparic（1978）以及 Priest（1992）与（2008）提出。这种语义使用一个世界集合与一个二元关系 $S$。世界分为两类：正规世界与非正规世界。蕴涵 $A \rightarrow B$ 在正规世界 $a$ 为真，当且仅当对所有世界 $b$，若 $A$ 在 $b$ 为真则 $B$ 也在 $b$ 为真。在非正规世界，蕴涵的真值是随机的。有些可能为真，另一些为假。一个公式有效，当且仅当它在每个这样的模型的*正规*世界中都为真。把世界分为正规与非正规，并在非正规世界对蕴涵使用随机真值，使我们能为 $p \rightarrow (q \rightarrow q)$ 之类公式找到反模型。
+    step2: |-
+      Routley、Loparic（1978）以及 Priest（1992、2008）提出了一种不用三元关系的相干性进路。它使用一个世界集合和一个二元关系 $S$，把世界分成正规世界与非正规世界。蕴涵 $A \rightarrow B$ 在正规世界 $a$ 为真，当且仅当凡世界 $b$ 使 $A$ 在 $b$ 为真，$B$ 也在 $b$ 为真；在非正规世界，蕴涵的真值则是随机的，有的真、有的假。公式有效，当且仅当它在每个这类模型的*正规*世界都为真。如此划分世界，并让非正规世界的蕴涵取随机真值，就能为 $p \rightarrow (q \rightarrow q)$ 之类公式找到反模型。
   - id: 31
     kind: body
     source: |-
       Priest interprets non-normal worlds as the worlds that correspond to “logic fictions”. In a science fiction, the laws of nature may be different than those in our universe. Similarly, in a logic fiction the laws of logic may be different from our laws. For example, $A \rightarrow A$ may fail to be true in some logic fiction. The worlds that such fictions describe are non-normal worlds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Priest 把非正规世界解释为对应于“逻辑虚构”的世界。在科幻小说中，自然规律可能与我们宇宙中的不同。同样，在逻辑虚构中，逻辑规律可能不同于我们的规律。例如，$A \rightarrow A$ 在某些逻辑虚构中可能不为真。这类虚构所描述的世界就是非正规世界。
+    step2: |-
+      Priest 把非正规世界解释为“逻辑虚构”所对应的世界。科幻小说里的自然规律可以与我们宇宙不同；同样，逻辑虚构里的逻辑规律也可以不同于我们的规律，比如 $A \rightarrow A$ 在某些逻辑虚构中就不为真。这类虚构描述的世界，就是非正规世界。
   - id: 32
     kind: body
     source: |-
       One problem with the semantics without the ternary relation is that it is difficult to use it to characterize as wide a range of logical systems as can done with the ternary relation. In addition, the logics determined by this semantics are quite weak. For example, they do not have as a theorem the transitivity of implication — $((A \rightarrow B) \amp(B \rightarrow C)) \rightarrow (A \rightarrow C)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不用三元关系的语义有一个问题：很难用它刻画像三元关系所能刻画的那样广泛的逻辑系统。此外，这种语义所确定的逻辑相当弱。例如，它们不把蕴涵的传递性——$((A \rightarrow B) \amp(B \rightarrow C)) \rightarrow (A \rightarrow C)$——作为定理。
+    step2: |-
+      不用三元关系的语义有个毛病：它能刻画的逻辑系统范围，远不如三元关系语义那么广。而且，这种语义确定的逻辑相当弱，比如不把蕴涵传递性 $((A \rightarrow B) \amp(B \rightarrow C)) \rightarrow (A \rightarrow C)$ 当作定理。
   - id: 33
     kind: body
     source: |-
       Like the ternary relation semantics, this semantics requires some worlds to be inconsistent and some to be non-bivalent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与三元关系语义一样，这种语义也要求有些世界不一致，有些世界非二值。
+    step2: |-
+      这种语义和三元关系语义一样，也要求有些世界不一致、有些世界非二值。
   - id: 34
     kind: body
     source: |-
       ## 2. Semantics for Negation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 否定语义
+    step2: |-
+      ## 2 否定语义
   - id: 35
     kind: body
     source: |-
       The use of non-bivalent and inconsistent worlds requires a non-classical truth condition for negation. In the early 1970s, Richard and Val Routley invented their “star operator” to treat negation (Routley & Routley 1972). The operator is an operator on non-normal worlds. For each world $a$, there is a world $a$*. And
-    step1: TBD
-    step2: TBD
+    step1: |-
+      使用非二值与不一致世界，要求对否定给出非经典真值条件。20 世纪 70 年代初，Richard 与 Val Routley 发明了他们的“星号算子”来处理否定（Routley & Routley 1972）。这个算子是关于非正规世界的算子。对每个世界 $a$，都有一个世界 $a$*。并且
+    step2: |-
+      要让不一致世界与非二值世界派上用场，否定就得用非经典的真值条件。20 世纪 70 年代初，Richard 与 Val Routley 发明“星号算子”来处理否定（Routley & Routley 1972）。这是作用于非正规世界的算子：每个世界 $a$ 都有对应的世界 $a$*。并且
   - id: 36
     kind: body
     source: |-
       $\neg A$ is true at $a$ if and only if $A$ is false at $a$*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\neg A$ 在 $a$ 为真，当且仅当 $A$ 在 $a$* 为假。
+    step2: |-
+      $\neg A$ 在 $a$ 上为真，当且仅当 $A$ 在 $a$* 上为假。
   - id: 37
     kind: body
     source: |-
       Once again, we have the difficulty of interpreting a part of the formal semantics. One interpretation of the Routley star is that of Dunn (1993). Dunn uses a binary relation, $C$, on worlds. $Cab$ means that $b$ is compatible with $a. a$*, then, is the maximal world (the world containing the most information) that is compatible with $a$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们又一次遇到解释形式语义某一部分的困难。Routley 星号的一种解释是 Dunn（1993）的解释。Dunn 在世界之间使用一个二元关系 $C$。$Cab$ 意味着 $b$ 与 $a. a$* 相容。那么，这个星号世界就是与 $a$ 相容的极大世界（包含信息最多的世界）。
+    step2: |-
+      这里又碰上了解释形式语义某一部分的难题。Dunn（1993）对 Routley 星号给出一种解释：他在世界之间用一个二元关系 $C$，$Cab$ 表示 $b$ 与 $a. a$* 相容；这个星号世界就是与 $a$ 相容的极大世界，也就是信息最多的世界。
   - id: 38
     kind: body
     source: |-
       There are other semantics for negation. One, due to Dunn, is a four-valued semantics. As is the case for truth tables for classical logic, this semantics begins with the values T (true) and F (false). A formula is given a set of these truth values. Thus, a formula $A$ can get the values $\{\True\}$, $\{\False\}$, $\{\True,\False\}$, or $\varnothing$. If a formula gets the value $\{\True\}$, then it is just true; likewise, if it gets the value $\{\False\}$ it is just false; if it gets the value $\{\True,\False\}$ it is both true and false; if it gets the value $\varnothing$, it is neither true nor false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还有其他否定语义。一种是 Dunn 的四值语义。与经典逻辑的真值表一样，这种语义从值 T（真）与 F（假）开始。一个公式被赋予这些真值的一个集合。因此，公式 $A$ 可以得到值 $\{\True\}$、$\{\False\}$、$\{\True,\False\}$ 或 $\varnothing$。如果公式得到值 $\{\True\}$，那它就只是真；同样，如果它得到值 $\{\False\}$，它就只是假；如果得到 $\{\True,\False\}$，它就既真又假；如果得到 $\varnothing$，它就既不真也不假。
+    step2: |-
+      否定还有别的语义。一种是 Dunn 的四值语义：和经典逻辑的真值表一样，它从 T（真）、F（假）两个值出发，但给公式赋予这些真值的一个集合。于是公式 $A$ 可取 $\{\True\}$、$\{\False\}$、$\{\True,\False\}$ 或 $\varnothing$。取 $\{\True\}$ 就是单纯为真，取 $\{\False\}$ 就是单纯为假；取 $\{\True,\False\}$ 是既真又假，取 $\varnothing$ 则既不真也不假。
   - id: 39
     kind: body
     source: |-
       Each formula is given a truth condition and a falsity condition. For example, T is in the value of $\neg A$ if and only if F is in the value of $A$ and F is in the value of $\neg A$ if and only if T is in the value of $A$. With regard to conjunction, T is in the value of $A \amp B$ if and only if T is in the value of $A$ and T is in the value of $B$ and F is in the value of $A \amp B$ if and only if F is the value of $A$ or F is in the value of $B$. Disjunction has very similar truth and falsity conditions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      每个公式都被赋予一个真条件与一个假条件。例如，T 在 $\neg A$ 的值中，当且仅当 F 在 $A$ 的值中；F 在 $\neg A$ 的值中，当且仅当 T 在 $A$ 的值中。关于合取，T 在 $A \amp B$ 的值中，当且仅当 T 在 $A$ 的值中且 T 在 $B$ 的值中；F 在 $A \amp B$ 的值中，当且仅当 F 是 $A$ 的值或 F 在 $B$ 的值中。析取的真条件与假条件非常相似。
+    step2: |-
+      每个公式既有真条件，也有假条件。比如，T 属于 $\neg A$ 的值，当且仅当 F 属于 $A$ 的值；F 属于 $\neg A$ 的值，当且仅当 T 属于 $A$ 的值。合取方面，T 属于 $A \amp B$ 的值，当且仅当 T 同时属于 $A$ 与 $B$ 的值；F 属于 $A \amp B$ 的值，当且仅当 F 属于 $A$ 的值或属于 $B$ 的值。析取的真、假条件与此十分相似。
   - id: 40
     kind: body
     source: |-
       Dunn put forward his semantics to characterize the logic of First Degree Entailment (FDE), which treats only entailments between implication-free formulas. (For papers on the nature and development of FDE, see Omori & Wansing 2017.)[^omori-2017] Richard Routley (1988) extended the theory to treat some weak relevant logics, and Restall (1995) extended the theory to treat logics just weaker than the prominent relevant logics E and R (see sections 4 and 5 below). Mares (2004a) used a neighbourhood semantics, together with four truth-values to give a semantics for R. The four-valued semantics is treated in more detail the entry on paraconsistent logics. Other treatments of negation, some of which have been used for relevance logics, can be found in Wansing (2001) and in the entry on negation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Dunn 提出他的语义，用以刻画一阶蕴涵逻辑（FDE），它只处理无蕴涵公式之间的蕴涵。（关于 FDE 的性质与发展的论文，见 Omori & Wansing 2017。）[^omori-2017] Richard Routley（1988）把该理论推广到处理某些弱相干逻辑，Restall（1995）把该理论推广到处理仅弱于著名相干逻辑 E 与 R 的逻辑（见下文第 4、5 节）。Mares（2004a）使用邻域语义连同四个真值，给出 R 的一种语义。四值语义在次协调逻辑词条中有更详细的处理。关于否定的其他处理——其中一些曾用于相干逻辑——可见 Wansing（2001）以及否定词条。
+    step2: |-
+      Dunn 提出这套语义，是为了刻画一阶蕴涵逻辑（FDE）；FDE 只处理不含蕴涵的公式之间的蕴涵。（关于 FDE 的性质与发展，见 Omori & Wansing 2017。）[^omori-2017] Richard Routley（1988）把该理论推广到某些弱相干逻辑，Restall（1995）又推广到仅比著名相干逻辑 E、R 稍弱的逻辑（见下文第 4、5 节）。Mares（2004a）用邻域语义加上四个真值，为 R 给出一种语义。四值语义在“次协调逻辑”词条中讲得更细；否定的其他处理（有些曾用于相干逻辑）见 Wansing（2001）与“否定”词条。
   - id: 41
     kind: body
     source: |-
       ## 3. Semantics for Quantification
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 量化语义
+    step2: |-
+      ## 3 量化语义
   - id: 42
     kind: body
     source: |-
       In (1980), Richard Routley conjectured that a constant domain semantics, in the sense that is familiar from modal logic, will characterize quantified relevant relevant logics. On this semantics, a universally quantified formula $\forall xA(x)$ is true at a world if and only if $A(x)$ is true on every interpretation of $x$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在（1980）中，Richard Routley 猜想，模态逻辑中熟悉的那种常域语义将刻画量化相干逻辑。按这种语义，全称量化公式 $\forall xA(x)$ 在世界为真，当且仅当 $A(x)$ 在 $x$ 的每一种解释下都为真。
+    step2: |-
+      Richard Routley（1980）猜想，模态逻辑中常见的那种常域语义足以刻画量化相干逻辑。按这种语义，全称量化公式 $\forall xA(x)$ 在某个世界为真，当且仅当 $A(x)$ 在 $x$ 的每种解释下都为真。
   - id: 43
     kind: body
     source: |-
       Unfortunately, Kit Fine (1988a) proved that the logic RQ (the logic R of relevant implication together with some standard quantificational axioms) is incomplete over the constant domain semantics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不幸的是，Kit Fine（1988a）证明，逻辑 RQ（相干蕴涵逻辑 R 加上某些标准量化公理）相对于常域语义是不完全的。
+    step2: |-
+      可惜，Kit Fine（1988a）证明：逻辑 RQ（相干蕴涵逻辑 R 加上若干标准量化公理）在常域语义下不完全。
   - id: 44
     kind: body
     source: |-
       Fine (1988b) also developed a semantics over which RQ is complete and which can be modified to accommodate any of the mainstream relevance logics. Fine’s semantics is “stratified”. This means that a model is made up of a collection of miniature models, each with its own domain of individuals. Each of these mini-models is related to models with larger domains, and each world in a model is similarly related to worlds in these models with larger domains. A very clear explanation of how Fine’s semantics works is given in Shay Logan (2019).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Fine（1988b）也发展了一种语义，RQ 相对于它是完全的，并且可以修改以容纳任何主流相干逻辑。Fine 的语义是“分层的”。这意味着一个模型由一群微型模型组成，每个微型模型都有自己的个体域。每个微型模型都与具有更大域的模型相关联，一个模型中的每个世界也类似地与这些更大域模型中的世界相关联。Shay Logan（2019）对 Fine 语义如何运作给出了非常清晰的解释。
+    step2: |-
+      Fine（1988b）又给出一种语义，RQ 相对于它完全，而且稍加修改就能容纳任何主流相干逻辑。Fine 的语义是“分层”的：一个模型由一组微型模型构成，每个微型模型各有自己的个体域；每个微型模型都与域更大的模型相连，一个模型中的每个世界也照此与那些更大域模型中的世界相连。Shay Logan（2019）对 Fine 语义的运作方式解释得很清楚。
   - id: 45
     kind: body
     source: |-
       Another semantics for quantified relevance logics is given by Mares and Robert Goldblatt (2006) and further developed in Goldblatt (2011). In addition to worlds and domains, a model on this theory contains a set of propositions, which are designated sets of words. A formula $\forall xA(x)$ is true at a world $w$ if and only if there is a proposition $\pi$ true at $w$ such that $\pi$ entails every instance of $A(x)$. This means that at every world in the set $\pi$, every instance of $A(x)$ is true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      量化相干逻辑的另一种语义由 Mares 与 Robert Goldblatt（2006）给出，并在 Goldblatt（2011）中得到进一步发展。除世界与域之外，这种理论中的一个模型还包含一个命题集合，命题是指定的世界集合。公式 $\forall xA(x)$ 在世界 $w$ 为真，当且仅当存在一个在 $w$ 为真的命题 $\pi$，使得 $\pi$ 蕴涵 $A(x)$ 的每个实例。这意味着在集合 $\pi$ 中的每个世界里，$A(x)$ 的每个实例都为真。
+    step2: |-
+      Mares 与 Robert Goldblatt（2006）给出量化相干逻辑的另一种语义，Goldblatt（2011）又作了发展。除了世界与域，这种模型还包含一个命题集合，而命题就是指定的世界集合。公式 $\forall xA(x)$ 在世界 $w$ 为真，当且仅当存在一个在 $w$ 为真的命题 $\pi$，$\pi$ 蕴涵 $A(x)$ 的每个实例；也就是说，在 $\pi$ 所含的每个世界里，$A(x)$ 的每个实例都为真。
   - id: 46
     kind: body
     source: |-
       The Mares-Goldblatt semantics is called an “admissible set” semantics. The propositions are the admissible sets. In some models at least, not every set of worlds counts as a proposition. One rationale for that comes from reflection on how humans relate circumstances together as similar. Not every set of situations are such that we would see a similarity that the members of the set have to one another and to no other situations outside the set. It seems reasonable to think of a proposition as a set of worlds that could act as a content for some person. (Perhaps if we were to construct a language to talk about what people could think in other words, we could index sets of propositions to worlds. But that is a topic to be left for some other time.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Mares–Goldblatt 语义被称为“可容许集合”语义。命题就是可容许集合。至少在某些模型中，并非每个世界集合都算作命题。一个理由来自对人类如何把各种境况联系为相似者的反思。并非每个情境集合都使我们看到集合成员彼此相似、且与集合外任何情境不相似。把命题看作可充当某人内容的世界的集合，似乎是合理的。（也许，如果我们构造一种语言来谈论人们用其他词会想什么，就可以把命题集合索引到世界。但那是留待他日的话题。）
+    step2: |-
+      Mares–Goldblatt 语义又叫“可容许集合”语义：命题就是可容许集合。至少有些模型里，并非任意一组世界都算命题。理由之一来自对人类如何把不同境况归为相似的反思：并非每一组情境都让人觉得组内成员彼此相似、而与组外情境不相似。把命题看成“可以充当某人内容的世界集合”，似乎说得通。（若真造一种语言来谈论人们换种说法会想什么，也许可以把命题集索引到世界；不过那是后话。）
   - id: 47
     kind: body
     source: |-
       One useful addition to the relevant theory of quantification is a conditional that is used to represent restricted quantification. This is developed by Jc Beall, et al. (2006). Consider the categorial scheme, “All $A$s are $B$s”. This scheme is translated into the language of classical logic as $\forall x(A(x)\supset B(x))$. The material conditional, $\supset$, is too weak to do this job in relevant logic (where $A\supset B$ is understood as $\neg A\vee B)$. If we were to use material implication is this manner, in a model for relevant logic, we could have a world in which all $A$s are $B$s, and some $i$ is $A$, but where $i$ is not $B$. The material conditional is too weak, but relevant implication is too strong. When one says, for example, “Everyone in this room owns a dog”, she does not mean that it follows from being in this room that people own a dog. Rather, it just happens that every person in this room owns a dog. It is this connection, that lies somewhere between material and relevant implication that the restricted quantificational conditional is supposed to capture.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对相干量化理论的一个有用补充，是用来表示受限量化的一种条件句。这由 Jc Beall 等（2006）发展。考虑范畴图式“所有 $A$ 都是 $B$”。这个图式翻译为经典逻辑语言是 $\forall x(A(x)\supset B(x))$。实质条件句 $\supset$ 在相干逻辑中太弱，做不了这件事（在相干逻辑中 $A\supset B$ 被理解为 $\neg A\vee B$）。如果我们这样使用实质蕴涵，那么在相干逻辑的一个模型中，可能出现一个世界使所有 $A$ 都是 $B$，且某个 $i$ 是 $A$，但 $i$ 不是 $B$。实质条件句太弱，相干蕴涵又太强。例如，当一个人说“这房间里的每个人都养狗”时，她并不是说从身处此房间可以推出人们养狗；事情只是碰巧这房间里的每个人都养狗。受限量化条件句要捕捉的，正是这种介于实质蕴涵与相干蕴涵之间的联系。
+    step2: |-
+      相干量化理论有一个有用的补充：用条件句来表示受限量化。这是 Jc Beall 等（2006）提出的。拿范畴图式“所有 $A$ 都是 $B$”来说，经典逻辑把它译为 $\forall x(A(x)\supset B(x))$；但在相干逻辑里，实质条件句 $\supset$ 太弱，干不了这活（相干逻辑把 $A\supset B$ 理解为 $\neg A\vee B$）。若照此使用实质蕴涵，相干逻辑的模型里就可能出现这样的世界：所有 $A$ 都是 $B$，某个 $i$ 是 $A$，可 $i$ 却不是 $B$。实质条件句太弱，相干蕴涵又太强。比如有人说“这屋里的每个人都养狗”，她并不是说“身处此屋”能推出“养狗”，只是碰巧这屋里的每个人都养狗罢了。受限量化条件句想捕捉的，正是这种介于实质蕴涵与相干蕴涵之间的联系。
   - id: 48
     kind: body
     source: |-
       It is unclear, however, that the conditional of Beall, et al. (2006) is the right connective to use, at least with regard to some weaker relevance logics. One virtue of some weaker systems is that they can be used to formalise naive set theory (see section 6). Zach Weber (2010) has formalised naive set theory, using this conditional to define the subset relation. The resulting system, unfortunately, is trivial in that every formula is provable in it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，尚不清楚 Beall 等（2006）的条件句是否是正确的联结词，至少就某些较弱相干逻辑而言。某些较弱系统的一个优点是，它们可用来形式化朴素集合论（见第 6 节）。Zach Weber（2010）用这个条件句定义子集关系，形式化了朴素集合论。不幸的是，所得系统是平凡的，其中每个公式都可证明。
+    step2: |-
+      不过，Beall 等（2006）的条件句是不是合适的联结词，至少对某些较弱相干逻辑来说，还不好说。有些较弱系统的长处，是能用来形式化朴素集合论（见第 6 节）。Zach Weber（2010）就用这个条件句定义子集关系，形式化了朴素集合论；可惜所得系统是平凡的——其中每个公式都可证。
   - id: 49
     kind: body
     source: |-
       ## 4. Proof Theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 证明论
+    step2: |-
+      ## 4 证明论
   - id: 50
     kind: body
     source: |-
       The logic that is often taken to be the paradigm relevance logic is the logic $\mathbf{R}$. For an axiomatisation of $\mathbf{R}$, see [Logic $\mathbf{R}$](logic-relevance.logicr.md).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      常被当作相干逻辑范式的逻辑是逻辑 $\mathbf{R}$。关于 $\mathbf{R}$ 的公理化，见[逻辑 $\mathbf{R}$](logic-relevance.logicr.md)。
+    step2: |-
+      最常被当作相干逻辑范式的，是逻辑 $\mathbf{R}$。$\mathbf{R}$ 的公理化见[逻辑 $\mathbf{R}$](logic-relevance.logicr.md)。
   - id: 51
     kind: body
     source: |-
       There are now several approaches to the proof theory for $\mathbf{R}$. There is a sequent calculus for the negation-free fragment of the logic $\mathbf{R}$ due to Gregory Mints (1972) and J.M. Dunn (1973) and an elegant and very general approach called “Display Logic” developed by Nuel Belnap (1982). But here I will only deal with the natural deduction system for the relevant logic $\mathbf{R}$ due to Anderson and Belnap.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在有若干处理 $\mathbf{R}$ 证明论的进路。有 Gregory Mints（1972）与 J.M. Dunn（1973）为逻辑 $\mathbf{R}$ 的无否定片段建立的相继式演算，还有 Nuel Belnap（1982）发展的称为“显示逻辑”的优雅而非常一般的进路。但这里我只处理 Anderson 与 Belnap 为相干逻辑 $\mathbf{R}$ 建立的自然演绎系统。
+    step2: |-
+      如今 $\mathbf{R}$ 的证明论有好几条进路：Gregory Mints（1972）与 J.M. Dunn（1973）为 $\mathbf{R}$ 的无否定片段给出了相继式演算；Nuel Belnap（1982）发展出“显示逻辑”，优雅而极为一般。这里只讲 Anderson 与 Belnap 为相干逻辑 $\mathbf{R}$ 建立的自然演绎系统。
   - id: 52
     kind: body
     source: |-
       Anderson and Belnap’s natural deduction system is based on Fitch’s natural deduction systems for classical and intuitionistic logic. The easiest way to understand this technique is by looking at an example.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Anderson 与 Belnap 的自然演绎系统基于 Fitch 为经典逻辑与直觉主义逻辑建立的自然演绎系统。理解这种技术的最容易方式，是看一个例子。
+    step2: |-
+      Anderson 与 Belnap 的自然演绎系统，建立在 Fitch 为经典逻辑和直觉主义逻辑设计的自然演绎系统之上。要看懂这套技术，最省事的办法是看一个例子。
   - id: 53
     kind: body
     source: |-
@@ -382,14 +442,24 @@ segments:
       | --- | --- | --- |
       | 2. | $(A \rightarrow B)_{\{2\}}$ | Hyp |
       | 3. | $B_{\{1,2\}}$ | $1,2, \rightarrow$ E |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 1. | $A_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $(A \rightarrow B)_{\{2\}}$ | 假设 |
+      | 3. | $B_{\{1,2\}}$ | $1,2, \rightarrow$ E |
+    step2: |-
+      | 1. | $A_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $(A \rightarrow B)_{\{2\}}$ | 假设 |
+      | 3. | $B_{\{1,2\}}$ | $1,2, \rightarrow$ E |
   - id: 54
     kind: body
     source: |-
       This is a simple case of modus ponens. The numbers in set brackets indicate the hypotheses used to prove the formula. We will call them ‘indices’. The indices in the conclusion indicate which hypotheses are really used in the derivation of the conclusion. In the following “proof” the second premise is not really used:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是肯定前件的一个简单例子。集合括号中的数字表示用来证明该公式的假设。我们称它们为“索引”。结论中的索引表示在推导结论时真正使用了哪些假设。在下面的“证明”中，第二个前提并未真正使用：
+    step2: |-
+      这是肯定前件的一个简单例子。花括号里的数字，是证明该公式所用到的假设，我们称之为“索引”。结论上的索引表明：推导结论时真正用到了哪些假设。下面这个“证明”里，第二个前提其实没派上用场：
   - id: 55
     kind: body
     source: |-
@@ -398,20 +468,34 @@ segments:
       | 2. | $B_{\{2\}}$ | Hyp |
       | 3. | $(A \rightarrow B)_{\{3\}}$ | Hyp |
       | 4. | $B_{\{1,3\}}$ | $1,3, \rightarrow$ E |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 1. | $A_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $B_{\{2\}}$ | 假设 |
+      | 3. | $(A \rightarrow B)_{\{3\}}$ | 假设 |
+      | 4. | $B_{\{1,3\}}$ | $1,3, \rightarrow$ E |
+    step2: |-
+      | 1. | $A_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $B_{\{2\}}$ | 假设 |
+      | 3. | $(A \rightarrow B)_{\{3\}}$ | 假设 |
+      | 4. | $B_{\{1,3\}}$ | $1,3, \rightarrow$ E |
   - id: 56
     kind: body
     source: |-
       This “proof” really just shows that the inference from $A$ and $A \rightarrow B$ to $B$ is relevantly valid. Because the number 2 does not appear in the subscript on the conclusion, the second “premise” does not really count as a premise.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个“证明”其实只表明，从 $A$ 与 $A \rightarrow B$ 推出 $B$ 是相干有效的。因为数字 2 没有出现在结论的下标中，第二个“前提”并不真正算作前提。
+    step2: |-
+      这个“证明”其实只说明：从 $A$ 与 $A \rightarrow B$ 推出 $B$ 是相干有效的。结论下标里没有数字 2，可见第二个“前提”并不真的算前提。
   - id: 57
     kind: body
     source: |-
       Similarly, when an implication is proven relevantly, the assumption of the antecedent must really be used to prove the conclusion. Here is an example of the proof of an implication:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样，当一个蕴涵被相干地证明时，对前件的假定必须真正用于证明结论。下面是证明一个蕴涵的例子：
+    step2: |-
+      同理，要相干地证明一个蕴涵，对前件的假定就必须真正用来证明结论。下面是一个证明蕴涵的例子：
   - id: 58
     kind: body
     source: |-
@@ -421,20 +505,36 @@ segments:
       | 3. | $B_{\{1,2\}}$ | $1,2, \rightarrow$ E |
       | 4. | $((A \rightarrow B) \rightarrow B)_{\{1\}}$ | $2,3, \rightarrow$ I |
       | 5. | $A \rightarrow((A \rightarrow B) \rightarrow B)$ | $1,4, \rightarrow$ I |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 1. | $A_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $(A \rightarrow B)_{\{2\}}$ | 假设 |
+      | 3. | $B_{\{1,2\}}$ | $1,2, \rightarrow$ E |
+      | 4. | $((A \rightarrow B) \rightarrow B)_{\{1\}}$ | $2,3, \rightarrow$ I |
+      | 5. | $A \rightarrow((A \rightarrow B) \rightarrow B)$ | $1,4, \rightarrow$ I |
+    step2: |-
+      | 1. | $A_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $(A \rightarrow B)_{\{2\}}$ | 假设 |
+      | 3. | $B_{\{1,2\}}$ | $1,2, \rightarrow$ E |
+      | 4. | $((A \rightarrow B) \rightarrow B)_{\{1\}}$ | $2,3, \rightarrow$ I |
+      | 5. | $A \rightarrow((A \rightarrow B) \rightarrow B)$ | $1,4, \rightarrow$ I |
   - id: 59
     kind: body
     source: |-
       When we discharge a hypothesis, as in lines 4 and 5 of this proof, the number of the hypothesis must really occur in the subscript of the formula that is to become the consequent of the implication.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当我们解除一个假设时，如此证明的第 4、5 行，该假设的编号必须真正出现在将要成为蕴涵后件的公式的下标中。
+    step2: |-
+      像证明第 4、5 行那样解除假设时，该假设的编号必须确实出现在那个将要充当蕴涵后件的公式的下标里。
   - id: 60
     kind: body
     source: |-
       Now, it might seem that the system of indices allows irrelevant premises to creep in. One way in which it might appear that irrelevances can intrude is through the use of a rule of conjunction introduction. That is, it might seem that we can always add in an irrelevant premise by doing, say, the following:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，索引系统似乎可能让不相干的前提溜进来。一种可能显得不相干者可以混入的方式，是通过使用合取引入规则。也就是说，似乎总可以这样做来加入一个不相干前提：
+    step2: |-
+      乍看之下，索引系统似乎会让不相干的前提混进来。最可能被钻空子的地方，是合取引入规则：好像总能这样塞进一个不相干的前提：
   - id: 61
     kind: body
     source: |-
@@ -445,74 +545,110 @@ segments:
       | 4. | $B_{\{1,2\}}$ | 3, &E |
       | 5. | $(B \rightarrow B)_{\{1\}}$ | $2,4, \rightarrow$ I |
       | 6. | $A \rightarrow(B \rightarrow B)$ | $1,5, \rightarrow$ I |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 1. | $A_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $B_{\{2\}}$ | 假设 |
+      | 3. | $(A \amp B)_{\{1,2\}}$ | 1,2, &I |
+      | 4. | $B_{\{1,2\}}$ | 3, &E |
+      | 5. | $(B \rightarrow B)_{\{1\}}$ | $2,4, \rightarrow$ I |
+      | 6. | $A \rightarrow(B \rightarrow B)$ | $1,5, \rightarrow$ I |
+    step2: |-
+      | 1. | $A_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $B_{\{2\}}$ | 假设 |
+      | 3. | $(A \amp B)_{\{1,2\}}$ | 1,2, &I |
+      | 4. | $B_{\{1,2\}}$ | 3, &E |
+      | 5. | $(B \rightarrow B)_{\{1\}}$ | $2,4, \rightarrow$ I |
+      | 6. | $A \rightarrow(B \rightarrow B)$ | $1,5, \rightarrow$ I |
   - id: 62
     kind: body
     source: |-
       To a relevance logician, the first premise is completely out of place here. To block moves like this, Anderson and Belnap give the following conjunction introduction rule:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对相干逻辑学家来说，第一个前提在这里完全不合适。为了阻止这类动作，Anderson 与 Belnap 给出如下合取引入规则：
+    step2: |-
+      在相干逻辑学家看来，第一个前提在这里完全多余。为堵住这类动作，Anderson 与 Belnap 把合取引入规则写成：
   - id: 63
     kind: body
     source: |-
       From $A_i$ and $B_i$ to infer $(A \amp B)_i$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从 $A_i$ 与 $B_i$ 推出 $(A \amp B)_i$。
+    step2: |-
+      由 $A_i$ 与 $B_i$ 推出 $(A \amp B)_i$。
   - id: 64
     kind: body
     source: |-
       This rule says that two formulae to be conjoined must have the same index before the rule of conjunction introduction can be used.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这条规则说，两个要合取的公式必须具有相同索引，然后才能使用合取引入规则。
+    step2: |-
+      这条规则的意思是：两个公式要合取，必须先有相同的索引，才能用合取引入。
   - id: 65
     kind: body
     source: |-
       There is, of course, a lot more to the natural deduction system (see Anderson and Belnap 1975 and Anderson, Belnap, and Dunn 1992)[^anderson-1975], but this will suffice for our purposes. The theory of relevance that is captured by at least some relevant logics can be understood in terms of how the corresponding natural deduction system records the real use of premises.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，自然演绎系统还有更多内容（见 Anderson and Belnap 1975 与 Anderson, Belnap, and Dunn 1992）[^anderson-1975]，但这对我们的目的已经够了。至少某些相干逻辑所捕捉的相干理论，可以按相应自然演绎系统如何记录前提的真正使用来理解。
+    step2: |-
+      自然演绎系统当然远不止这些（见 Anderson and Belnap 1975；Anderson, Belnap, and Dunn 1992）[^anderson-1975]，但对我们来说已经够用。至少某些相干逻辑所刻画的相干理论，可以从相应自然演绎系统如何记录“前提的真正使用”来理解。
   - id: 66
     kind: body
     source: |-
       ## 5. Some Systems of Relevance Logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 相干逻辑的若干系统
+    step2: |-
+      ## 5 相干逻辑的若干系统
   - id: 67
     kind: body
     source: |-
       In the work of Anderson and Belnap the central systems of relevance logic were the logic $\mathbf{E}$ of relevant entailment and the system $\mathbf{R}$ of relevant implication. The relationship between the two systems is that the entailment connective of $\mathbf{E}$ was supposed to be a strict (i.e. necessitated) relevant implication. To compare the two, Meyer added a necessity operator to $\mathbf{R}$ (to produce the logic $\mathbf{NR})$. Larisa Maksimova, however, discovered that $\mathbf{NR}$ and $\mathbf{E}$ are importantly different — that there are theorems of $\mathbf{NR}$ (on the natural translation) that are not theorems of $\mathbf{E}$. This has left some relevant logicians with a quandary. They have had to decide whether to take $\mathbf{NR}$ or $\mathbf{E}$ to be the system of relevant entailment. If $\mathbf{E}$ is chosen, then perhaps it is not reasonable to say that entailment is just relevant implication together with logical necessity. It may be that entailment and implication are related in some other way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 Anderson 与 Belnap 的工作中，相干逻辑的中心系统是相干衍推逻辑 $\mathbf{E}$ 与相干蕴涵系统 $\mathbf{R}$。两个系统之间的关系是：$\mathbf{E}$ 的衍推联结词被设想为严格的（即必然化的）相干蕴涵。为比较二者，Meyer 给 $\mathbf{R}$ 添加了一个必然性算子（产生逻辑 $\mathbf{NR}$）。然而，Larisa Maksimova 发现 $\mathbf{NR}$ 与 $\mathbf{E}$ 有重要差异——有些 $\mathbf{NR}$ 的定理（按自然翻译）不是 $\mathbf{E}$ 的定理。这使一些相干逻辑学家陷入困境。他们不得不决定把 $\mathbf{NR}$ 还是 $\mathbf{E}$ 当作相干衍推系统。如果选择 $\mathbf{E}$，那么也许说衍推就是相干蕴涵加上逻辑必然性并不合理。衍推与蕴涵可能以某种其他方式相关联。
+    step2: |-
+      Anderson 与 Belnap 的工作里，相干逻辑的中心系统是相干衍推逻辑 $\mathbf{E}$ 和相干蕴涵系统 $\mathbf{R}$。两者的关系是：$\mathbf{E}$ 的衍推联结词被设想为严格（即必然化）的相干蕴涵。为作比较，Meyer 给 $\mathbf{R}$ 加了一个必然性算子，得到逻辑 $\mathbf{NR}$。但 Larisa Maksimova 发现，$\mathbf{NR}$ 与 $\mathbf{E}$ 有重要差别——有些 $\mathbf{NR}$ 的定理（按自然翻译）并不是 $\mathbf{E}$ 的定理。这让一些相干逻辑学家犯了难：究竟该把 $\mathbf{NR}$ 还是 $\mathbf{E}$ 当作相干衍推系统？若选 $\mathbf{E}$，那么“衍推就是相干蕴涵加逻辑必然性”的说法也许就不合理了；衍推与蕴涵的关系可能另有讲法。
   - id: 68
     kind: body
     source: |-
       On the other hand, there are those relevance logicians who reject both $\mathbf{R}$ and $\mathbf{E}$. There are those, like Arnon Avron, who accept logics stronger than $\mathbf{R}$ (Avron 1990)[^avron-1990]. And there are those, like Ross Brady, John Slaney, Steve Giambrone, Richard Sylvan, Graham Priest, Greg Restall, and others, who have argued for the acceptance of systems weaker than $\mathbf{R}$ or $\mathbf{E}$. One extremely weak system is the logic $\mathbf{S}$ of Robert Meyer and Errol Martin. As Martin has proven, this logic contains no theorems of the form $A \rightarrow A$. In other words, according to $\mathbf{S}$, no proposition implies itself and no argument of the form ‘$A$, therefore $A$’ is valid. Thus, this logic does not make valid any circular arguments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一方面，有些相干逻辑学家既拒斥 $\mathbf{R}$ 也拒斥 $\mathbf{E}$。有些人如 Arnon Avron 接受比 $\mathbf{R}$ 更强的逻辑（Avron 1990）[^avron-1990]。还有些人如 Ross Brady、John Slaney、Steve Giambrone、Richard Sylvan、Graham Priest、Greg Restall 等，主张接受比 $\mathbf{R}$ 或 $\mathbf{E}$ 更弱的系统。一个极弱的系统是 Robert Meyer 与 Errol Martin 的逻辑 $\mathbf{S}$。正如 Martin 所证明的，这个逻辑不含形如 $A \rightarrow A$ 的定理。换句话说，按照 $\mathbf{S}$，没有命题蕴涵自身，形如“$A$，因此 $A$”的论证也不有效。因此，这个逻辑不使任何循环论证有效。
+    step2: |-
+      另一方面，也有相干逻辑学家把 $\mathbf{R}$ 与 $\mathbf{E}$ 一并拒斥。Arnon Avron 等人接受比 $\mathbf{R}$ 更强的逻辑（Avron 1990）[^avron-1990]；Ross Brady、John Slaney、Steve Giambrone、Richard Sylvan、Graham Priest、Greg Restall 等人则主张接受比 $\mathbf{R}$ 或 $\mathbf{E}$ 更弱的系统。Robert Meyer 与 Errol Martin 的逻辑 $\mathbf{S}$ 极弱：据 Martin 证明，它没有任何形如 $A \rightarrow A$ 的定理。换句话说，按 $\mathbf{S}$ 的说法，没有命题蕴涵自身，“$A$，所以 $A$”这种论证也不有效。于是，这个逻辑不让任何循环论证成为有效。
   - id: 69
     kind: body
     source: |-
       For more details on these logics see supplements on the [logic $\mathbf{E}$](logic-relevance.logice.md), [logic $\mathbf{R}$](logic-relevance.logicr.md), [logic $\mathbf{NR}$](logic-relevance.logicnr.md), and [logic $\mathbf{S}$](logic-relevance.logics.md).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这些逻辑的更多细节，见关于[逻辑 $\mathbf{E}$](logic-relevance.logice.md)、[逻辑 $\mathbf{R}$](logic-relevance.logicr.md)、[逻辑 $\mathbf{NR}$](logic-relevance.logicnr.md) 与[逻辑 $\mathbf{S}$](logic-relevance.logics.md) 的补充材料。
+    step2: |-
+      关于这些逻辑的更多细节，见[逻辑 $\mathbf{E}$](logic-relevance.logice.md)、[逻辑 $\mathbf{R}$](logic-relevance.logicr.md)、[逻辑 $\mathbf{NR}$](logic-relevance.logicnr.md)、[逻辑 $\mathbf{S}$](logic-relevance.logics.md) 四份补充材料。
   - id: 70
     kind: body
     source: |-
       Among the points in favour of weaker systems is that, unlike $\mathbf{R}$ or $\mathbf{E}$, many of them are decidable. Another feature of some of these weaker logics that makes them attractive is that they can be used to construct a naïve set theory. A naïve set theory is a theory of sets that includes as a theorem the naïve comprehension axiom, viz., for all formulae $A(y)$,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      支持较弱系统的理由之一是：与 $\mathbf{R}$ 或 $\mathbf{E}$ 不同，其中许多是可判定的。某些较弱逻辑的另一个吸引人之处，是它们可用来构造朴素集合论。朴素集合论是一种集合理论，它把朴素概括公理作为定理包含在内，即对所有公式 $A(y)$，
+    step2: |-
+      较弱系统的一个好处是：与 $\mathbf{R}$、$\mathbf{E}$ 不同，它们中有许多可判定。有些较弱逻辑还有一点很吸引人——能用来构造朴素集合论。朴素集合论把朴素概括公理当作定理，即对一切公式 $A(y)$，
   - id: 71
     kind: body
     source: |-
       $\exists x\forall y(y \in x \leftrightarrow A(y))$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\exists x\forall y(y \in x \leftrightarrow A(y))$。
+    step2: |-
+      $\exists x\forall y(y \in x \leftrightarrow A(y))$。
   - id: 72
     kind: body
     source: |-
       In set theories based on strong relevant logics, like $\mathbf{E}$ and $\mathbf{R}$, as well as in classical set theory, if we add the naïve comprehension axiom, we are able to derive any formula at all. Thus, naïve set theories based on systems such as $\mathbf{E}$ and $\mathbf{R}$ are said to be “trivial”. Here is an intuitive sketch of the proof of the triviality of a naïve set theory using principles of inference from the logic **R.** Let $p$ be an arbitrary proposition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在基于强相干逻辑（如 $\mathbf{E}$ 与 $\mathbf{R}$）的集合论中，和在经典集合论中一样，如果我们加入朴素概括公理，就能推出任何公式。因此，基于 $\mathbf{E}$ 与 $\mathbf{R}$ 之类系统的朴素集合论被称为“平凡的”。这里用逻辑 **R** 的推理原则，给出朴素集合论平凡性的直观证明梗概。设 $p$ 是任意命题：
+    step2: |-
+      在基于 $\mathbf{E}$、$\mathbf{R}$ 这类强相干逻辑的集合论里，和经典集合论一样，一旦加入朴素概括公理，就能推出任何公式。所以，基于 $\mathbf{E}$、$\mathbf{R}$ 等系统的朴素集合论被称作“平凡的”。下面用逻辑 **R** 的推理原则，粗略说明朴素集合论为何平凡。设 $p$ 为任意命题：
   - id: 73
     kind: body
     source: |-
@@ -526,20 +662,44 @@ segments:
       | 7. | $(z \in z \rightarrow p)) \rightarrow z \in z$ | 3, df of $\leftrightarrow$ , &-Elimination |
       | 8. | $z \in z$ | 6,7, Modus Ponens |
       | 9. | $p$ | 6,8, Modus Ponens |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 1. | $\exists x\forall y(y \in x \leftrightarrow(y \in y \rightarrow p))$ | 朴素概括 |
+      | --- | --- | --- |
+      | 2. | $\forall y(y \in z \leftrightarrow (y \in y \rightarrow p))$ | 1，存在例化 |
+      | 3. | $z \in z \leftrightarrow(z \in z \rightarrow p)$ | 2，全称例化 |
+      | 4. | $z \in z \rightarrow(z \in z \rightarrow p)$ | 3，$\leftrightarrow$ 的定义、合取消去 |
+      | 5. | $(z \in z \rightarrow (z \in z \rightarrow p)) \rightarrow(z \in z \rightarrow p)$ | 收缩公理 |
+      | 6. | $z \in z \rightarrow p$ | 4,5，肯定前件 |
+      | 7. | $(z \in z \rightarrow p)) \rightarrow z \in z$ | 3，$\leftrightarrow$ 的定义、合取消去 |
+      | 8. | $z \in z$ | 6,7，肯定前件 |
+      | 9. | $p$ | 6,8，肯定前件 |
+    step2: |-
+      | 1. | $\exists x\forall y(y \in x \leftrightarrow(y \in y \rightarrow p))$ | 朴素概括 |
+      | --- | --- | --- |
+      | 2. | $\forall y(y \in z \leftrightarrow (y \in y \rightarrow p))$ | 1，存在例化 |
+      | 3. | $z \in z \leftrightarrow(z \in z \rightarrow p)$ | 2，全称例化 |
+      | 4. | $z \in z \rightarrow(z \in z \rightarrow p)$ | 3，$\leftrightarrow$ 的定义、合取消去 |
+      | 5. | $(z \in z \rightarrow (z \in z \rightarrow p)) \rightarrow(z \in z \rightarrow p)$ | 收缩公理 |
+      | 6. | $z \in z \rightarrow p$ | 4,5，肯定前件 |
+      | 7. | $(z \in z \rightarrow p)) \rightarrow z \in z$ | 3，$\leftrightarrow$ 的定义、合取消去 |
+      | 8. | $z \in z$ | 6,7，肯定前件 |
+      | 9. | $p$ | 6,8，肯定前件 |
   - id: 74
     kind: body
     source: |-
       Thus we show that any arbitrary proposition is derivable in this naïve set theory. This is the infamous Curry Paradox. The existence of this paradox has led Grishen, Brady, Restall, Priest, and others to abandon the axiom of contraction $((A \rightarrow (A \rightarrow B)) \rightarrow(A \rightarrow B))$. Brady has shown that by removing contraction, plus some other key theses, from $\mathbf{R}$ we obtain a logic that can accept naïve comprehension without becoming trivial (Brady 2005)[^brady-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是我们表明，在这个朴素集合论中可推出任意命题。这就是臭名昭著的柯里悖论。这个悖论的存在，使 Grishen、Brady、Restall、Priest 等人放弃收缩公理 $((A \rightarrow (A \rightarrow B)) \rightarrow(A \rightarrow B))$。Brady 表明，从 $\mathbf{R}$ 中去掉收缩以及某些其他关键论题，所得逻辑可以接受朴素概括而不变得平凡（Brady 2005）[^brady-2005]。
+    step2: |-
+      这样便表明，这个朴素集合论能推出任意命题——这就是臭名昭著的柯里悖论。正因如此，Grishen、Brady、Restall、Priest 等人放弃了收缩公理 $((A \rightarrow (A \rightarrow B)) \rightarrow(A \rightarrow B))$。Brady 证明，从 $\mathbf{R}$ 中去掉收缩公理以及另外几条关键论题，所得逻辑可以接受朴素概括而不致平凡（Brady 2005）[^brady-2005]。
   - id: 75
     kind: body
     source: |-
       In terms of the natural deduction system, the presence of contraction corresponds to allowing premises to be used more than once. Consider the following proof:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用自然演绎系统的话说，收缩的出现对应于允许前提被使用不止一次。考虑下面的证明：
+    step2: |-
+      用自然演绎系统的话说，有收缩就等于允许一个前提被用上不止一次。看下面这个证明：
   - id: 76
     kind: body
     source: |-
@@ -550,137 +710,195 @@ segments:
       | 4. | $B_{\{1,2\}}$ | $2,3, \rightarrow$ E |
       | 5. | $A \rightarrow B_{\{1\}}$ | 2–$4, \rightarrow$ I |
       | 6. | $(A \rightarrow(A \rightarrow B)) \rightarrow (A \rightarrow B)$ | 1–$5, \rightarrow$ I |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 1. | $A \rightarrow(A \rightarrow B)_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $A_{\{2\}}$ | 假设 |
+      | 3. | $A \rightarrow B_{\{1,2\}}$ | $1,2, \rightarrow$ E |
+      | 4. | $B_{\{1,2\}}$ | $2,3, \rightarrow$ E |
+      | 5. | $A \rightarrow B_{\{1\}}$ | 2–$4, \rightarrow$ I |
+      | 6. | $(A \rightarrow(A \rightarrow B)) \rightarrow (A \rightarrow B)$ | 1–$5, \rightarrow$ I |
+    step2: |-
+      | 1. | $A \rightarrow(A \rightarrow B)_{\{1\}}$ | 假设 |
+      | --- | --- | --- |
+      | 2. | $A_{\{2\}}$ | 假设 |
+      | 3. | $A \rightarrow B_{\{1,2\}}$ | $1,2, \rightarrow$ E |
+      | 4. | $B_{\{1,2\}}$ | $2,3, \rightarrow$ E |
+      | 5. | $A \rightarrow B_{\{1\}}$ | 2–$4, \rightarrow$ I |
+      | 6. | $(A \rightarrow(A \rightarrow B)) \rightarrow (A \rightarrow B)$ | 1–$5, \rightarrow$ I |
   - id: 77
     kind: body
     source: |-
       What enables the derivation of contraction is the fact that our subscripts are sets. We do not keep track of how many times (more than once) that a hypothesis is used in its derivation. In order to reject contraction, we need a way of counting the number of uses of hypotheses. Thus natural deduction systems for contraction-free systems use “multisets” of relevance numerals instead of sets — these are structures in which the number of occurrences of a particular numeral counts, but the order in which they occurs does not. Even weaker systems can be constructed, which keep track also of the order in which hypotheses are used (see Read 1986 and Restall 2000)[^restall-2000].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      使收缩得以推导出来的，是我们的下标是集合这一事实。我们不追踪一个假设在其推导中被使用了多少次（超过一次）。为了拒斥收缩，我们需要一种计算假设使用次数的方式。因此，无收缩系统的自然演绎系统使用相干数字的“多重集”而不是集合——在这种结构中，某个特定数字出现的次数算数，而它们出现的顺序不算数。还可以构造更弱的系统，它们也追踪假设被使用的顺序（见 Read 1986 与 Restall 2000）[^restall-2000]。
+    step2: |-
+      收缩之所以推得出来，是因为下标用的是集合：我们不记录一个假设在推导中用了几次（超过一次也算一次）。要拒斥收缩，就得数清假设用了几次。所以无收缩系统的自然演绎系统改用相干数字的“多重集”而非集合——在这种结构里，某个数字出现几次要算，出现顺序不算。还能构造更弱的系统，连假设的使用顺序也记录下来（见 Read 1986；Restall 2000）[^restall-2000]。
   - id: 78
     kind: body
     source: |-
       For three of the better known and more widely used weak relevant logics, $\mathbf{B}, \mathbf{DK}$, and $\mathbf{DJ}$, see the supplement on them:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于三个较知名且较广泛使用的弱相干逻辑 $\mathbf{B}, \mathbf{DK}$ 与 $\mathbf{DJ}$，见关于它们的补充材料：
+    step2: |-
+      三个较知名、用得也较广的弱相干逻辑 $\mathbf{B}, \mathbf{DK}$ 与 $\mathbf{DJ}$，见相应补充材料：
   - id: 79
     kind: body
     source: |-
       [The logics $\mathbf{B}, \mathbf{DJ}$, and $\mathbf{DK}$](logic-relevance.logic-b-dj-dk.md).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [逻辑 $\mathbf{B}, \mathbf{DJ}$ 与 $\mathbf{DK}$](logic-relevance.logic-b-dj-dk.md)。
+    step2: |-
+      [逻辑 $\mathbf{B}, \mathbf{DJ}$ 与 $\mathbf{DK}$](logic-relevance.logic-b-dj-dk.md)。
   - id: 80
     kind: body
     source: |-
       ## 6. Systems Closely Related to Mainstream Relevance Logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 与主流相干逻辑密切相关的系统
+    step2: |-
+      ## 6 与主流相干逻辑密切相关的系统
   - id: 81
     kind: body
     source: |-
       There are some systems that deserve to be called *relevant* that are not mainstream relevant logic. One such system is Graham Priest’s logic N$_4$. The easiest way to present this logic is to explain its semantics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有些系统配得上称为 *相干* 的，却不属于主流相干逻辑。其中一个系统是 Graham Priest 的逻辑 N$_4$。呈现这个逻辑的最容易方式，是解释它的语义。
+    step2: |-
+      有些系统称得上 *相干*，却不属于主流相干逻辑，Graham Priest 的逻辑 N$_4$ 就是一例。要介绍它，最方便的办法是讲它的语义。
   - id: 82
     kind: body
     source: |-
       A model for N$_4$ consists in a set of world that is partitioned into normal and non-normal worlds. At every world, formulas are given one of four truth values, in accordance with Dunn’s semantics explained in section 2 above, with regard to conjunction, disjunction, and negation. But the treatment of implication is rather interesting. At normal worlds, an implication $A\rightarrow B$, is true if and only if in every world w, if $A$ is true in w, then $B$ is also true in w. The implication is false if there is at least one world in which $A$ is true and $B$ is false. At non-normal worlds, implications are made true and false randomly.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      N$_4$ 的一个模型由一个世界集合组成，该集合被划分为正规世界与非正规世界。在每个世界，公式按照上文第 2 节所解释的 Dunn 语义，就合取、析取与否定而言，被赋予四个真值之一。但蕴涵的处理相当有趣。在正规世界，蕴涵 $A\rightarrow B$ 为真，当且仅当在每个世界 w，若 $A$ 在 w 为真则 $B$ 也在 w 为真。如果至少有一个世界使 $A$ 为真而 $B$ 为假，该蕴涵为假。在非正规世界，蕴涵被随机地判为真或假。
+    step2: |-
+      N$_4$ 的模型由一个世界集合构成，集合分成正规世界与非正规世界。在每个世界，合取、析取、否定按上文第 2 节讲的 Dunn 语义赋予四个真值之一。蕴涵的处理则相当有意思：在正规世界，蕴涵 $A\rightarrow B$ 为真，当且仅当凡世界 w 使 $A$ 为真，$B$ 也为真；只要有一个世界使 $A$ 真而 $B$ 假，蕴涵即为假。在非正规世界，蕴涵的真假则是随机指定的。
   - id: 83
     kind: body
     source: |-
       N$_4$ is a relevant logic. It has the variable-sharing property. And it has a very simple and intuitive semantics. It is, however, a very weak logic. It does not contain any transitivity axioms for implication. It has a transitivity rule. It does not contain either the contraposition axiom nor the rule form of contraposition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      N$_4$ 是一个相干逻辑。它具有变量共享性质。而且它有非常简单直观的语义。然而，它是一个非常弱的逻辑。它不含任何蕴涵的传递性公理。它有一条传递性规则。它既不含逆否公理，也不含逆否的规则形式。
+    step2: |-
+      N$_4$ 是相干逻辑，具备变量共享性质，语义也非常简单直观。但它很弱：没有任何蕴涵传递公理，只有一条传递规则；既没有逆否公理，也没有逆否的规则形式。
   - id: 84
     kind: body
     source: |-
       Another very interesting logic is Neil Tennant’s Core Logic. One of the “fallacies” that relevance logic was created to avoid is ex falso quodlibet, or explosion – the inference from a contradiction to any proposition whatsoever. C.I. Lewis justified explosion by means of a little argument. He started with the premise $p \amp \neg p$. By conjunction elimination he derived, $p$, and by disjunction introduction, $p\vee q$. From the premise, he also derived $\neg p$, by conjunction elimination. Thus, he had $p\vee q$ and $\neg p$. From these, by disjunctive syllogism, Lewis derived $q$. Mainstream relevance logicians block this argument by rejecting disjunctive syllogism. The rejection of disjunctive syllogism, however, has become one of the most controversial aspects of relevance logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个非常有趣的逻辑是 Neil Tennant 的核心逻辑。相干逻辑想要避开的一个“谬误”是 ex falso quodlibet，即爆炸——从矛盾推出任何命题。C.I. Lewis 用一个小论证为爆炸辩护。他从前提 $p \amp \neg p$ 开始。通过合取消去，他推出 $p$，再通过析取引入推出 $p\vee q$。从该前提，他还通过合取消去推出 $\neg p$。于是他有 $p\vee q$ 与 $\neg p$。由这些，通过析取三段论，Lewis 推出 $q$。主流相干逻辑学家通过拒斥析取三段论来堵住这个论证。然而，拒斥析取三段论已成为相干逻辑最具争议的方面之一。
+    step2: |-
+      另一个很有意思的逻辑是 Neil Tennant 的核心逻辑。相干逻辑原本要避开的一个“谬误”是 ex falso quodlibet，也就是爆炸：从矛盾推出随便什么命题。C.I. Lewis 曾用一个小论证替爆炸辩护。他以 $p \amp \neg p$ 为前提，由合取消去得 $p$，再由析取引入得 $p\vee q$；又从前提经合取消去得 $\neg p$。于是有了 $p\vee q$ 和 $\neg p$，再经析取三段论推出 $q$。主流相干逻辑学家拒斥析取三段论，以此堵住这个论证；但拒斥析取三段论，也成了相干逻辑最受争议的一点。
   - id: 85
     kind: body
     source: |-
       Tennant’s core logic, however, accepts disjunctive syllogism. It also accepts conjunction elimination and disjunction introduction. In fact, Core Logic supports all the standard primitive rules that we find in the proof theory of intuitionist logic. Thus, one could say that the meanings of the connectives in Core logic are just their meanings in intuitionist logic. What is different is its treatment of one of the structural rules of proof -- it rejects the transitivity of logical consequence in its most general form.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，Tennant 的核心逻辑接受析取三段论。它也接受合取消去与析取引入。事实上，核心逻辑支持我们在直觉主义逻辑证明论中见到的一切标准初始规则。因此，可以说核心逻辑中联结词的意义就是它们在直觉主义逻辑中的意义。不同之处在于它对一条证明结构规则的处理——它拒斥逻辑后承在其最一般形式下的传递性。
+    step2: |-
+      但 Tennant 的核心逻辑接受析取三段论，也接受合取消去与析取引入。事实上，直觉主义逻辑证明论里的标准初始规则，核心逻辑全都支持；因此可以说，核心逻辑中联结词的意义就是它们在直觉主义逻辑中的意义。差别在于对一条结构规则的处理：它拒斥最一般形式的逻辑后承传递性。
   - id: 86
     kind: body
     source: |-
       Yet another logical system that is closely related to relevance logic is William Parry’s logic of Analytic Implication. Analytic Implication is motivated by the desire to satisfy a very strong form of variable-sharing. No implication $A\rightarrow B$ is provable in this logic unless $\mathbf{all}$ the variables in $B$ are contained in $A$. In order to satisfy this strong variable-sharing principle, the principle of disjunction introduction needs to be restricted. So, instead of having $A\rightarrow(A\vee B)$ as a theorem for all formulas $A$ and $B$, this schema is valid only when all the propositional variables in $B$ are also in $A$. The principle of contraposition and some transitivity principles for implication also have to be restricted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还有一个与相干逻辑密切相关的逻辑系统，是 William Parry 的分析蕴涵逻辑。分析蕴涵的动机，是要满足一种非常强的变量共享形式。在这个逻辑中，除非 $B$ 中的 $\mathbf{all}$（全部）变量都包含在 $A$ 中，否则任何蕴涵 $A\rightarrow B$ 都不可证明。为了满足这条强变量共享原则，析取引入原则需要受到限制。于是，$A\rightarrow(A\vee B)$ 不再对所有公式 $A$ 与 $B$ 都是定理，而只在 $B$ 中所有命题变元也都在 $A$ 中时才有效。逆否原则以及某些蕴涵传递原则也必须受到限制。
+    step2: |-
+      还有一个与相干逻辑密切相关的系统，是 William Parry 的分析蕴涵逻辑。分析蕴涵的动机，是要满足一种非常强的变量共享：除非 $B$ 中的 $\mathbf{all}$（全部）变量都包含在 $A$ 中，任何蕴涵 $A\rightarrow B$ 都不可证。为满足这条强原则，析取引入得受限制：$A\rightarrow(A\vee B)$ 不再对所有公式 $A$、$B$ 都是定理，而只在 $B$ 的所有命题变元也都在 $A$ 中时才有效。逆否原则和某些蕴涵传递原则同样要受限制。
   - id: 87
     kind: body
     source: |-
       Analytic Implication has been given an elegant possible worlds semantics by Kit Fine. Fine adds to a possible worlds model a domain of subject matters. An implication holds at a world if and only if it both preserves truth at all accessible worlds and also every subject matter of the consequent is also a subject matter of the antecedent (Fine 1986)[^fine-1986].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      分析蕴涵由 Kit Fine 给出了一种优雅的可能世界语义。Fine 在可能世界模型上添加了一个题材域。一个蕴涵在世界成立，当且仅当它在所有可及世界都保持真值，并且后件的每个题材也是前件的题材（Fine 1986）[^fine-1986]。
+    step2: |-
+      Kit Fine 为分析蕴涵给出了优雅的可能世界语义：他在可能世界模型上增加一个“题材”域。蕴涵在世界成立，当且仅当它在所有可及世界都保真，并且后件的每个题材也都属于前件的题材（Fine 1986）[^fine-1986]。
   - id: 88
     kind: body
     source: |-
       For a comparison of Analytic Implication and relevance logic, see Routley, et al., 1982, pages 96–101. For a detailed examination and defense of Analytic Implication, see Ferguson (2017).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于分析蕴涵与相干逻辑的比较，见 Routley 等，1982，第 96–101 页。关于分析蕴涵的详细考察与辩护，见 Ferguson（2017）。
+    step2: |-
+      分析蕴涵与相干逻辑的比较，见 Routley 等（1982，第 96–101 页）；对分析蕴涵的详细考察与辩护，见 Ferguson（2017）。
   - id: 89
     kind: body
     source: |-
       ## 7. Applications and Extensions of Relevance Logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. 相干逻辑的应用与扩展
+    step2: |-
+      ## 7 相干逻辑的应用与扩展
   - id: 90
     kind: body
     source: |-
       Apart from the motivating applications of providing better formalisms of our pre-formal notions of implication and entailment and providing a basis for naïve set theory, relevance logic has been put to various uses in philosophy and computer science. Here I will list just a few.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了提供更好的形式系统以刻画我们前形式的蕴涵与衍推概念、以及为朴素集合论提供基础这些动机性应用之外，相干逻辑在哲学与计算机科学中还有各种用途。这里我只列几种。
+    step2: |-
+      相干逻辑的动机，本在于更好地形式化我们前形式的蕴涵、衍推概念，并为朴素集合论提供基础；除此之外，它在哲学与计算机科学中还有不少用途。这里只举几例。
   - id: 91
     kind: body
     source: |-
       Dunn has developed a theory of intrinsic and essential properties based on relevant logic. This is his theory of *relevant predication*. Briefly put, a thing $i$ has a property $F$ relevantly iff $\forall x(x{=}i \rightarrow F(x))$. Informally, an object has a property relevantly if being that thing relevantly implies having that property. Since the truth of the consequent of a relevant implication is by itself insufficient for the truth of that implication, things can have properties irrelevantly as well as relevantly. Dunn’s formulation would seem to capture at least one sense in which we use the notion of an intrinsic property. Adding modality to the language allows for a formalisation of the notion of an essential property as a property that is had both necessarily and intrinsically (see Anderson, Belnap, and Dunn 1992, §74).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Dunn 基于相干逻辑发展了一种内在属性与本质属性的理论。这就是他的 *相干谓述* 理论。简言之，一个事物 $i$ 相干地具有属性 $F$，当且仅当 $\forall x(x{=}i \rightarrow F(x))$。非正式地说，一个对象相干地具有一个属性，如果“是那个事物”相干地蕴涵“具有那个属性”。由于相干蕴涵后件的真本身不足以保证该蕴涵的真，事物可以不相干地具有属性，也可以相干地具有属性。Dunn 的表述似乎至少捕捉到我们使用内在属性概念的一种意义。给语言添加模态，可以把本质属性概念形式化为既必然又内在地具有的属性（见 Anderson, Belnap, and Dunn 1992, §74）。
+    step2: |-
+      Dunn 以相干逻辑为基础，提出了一种关于内在属性与本质属性的理论，即他的 *相干谓述* 理论。简单说，事物 $i$ 相干地具有属性 $F$，当且仅当 $\forall x(x{=}i \rightarrow F(x))$。用大白话说，一个对象相干地具有某属性，是指“是那个东西”相干地蕴涵“具有那个属性”。相干蕴涵后件为真，本身不足以保证整个蕴涵为真，所以事物既可以相干地具有属性，也可以不相干地具有属性。Dunn 的表述似乎至少抓住了“内在属性”的一种用法。若在语言中加入模态，还可把本质属性形式化为既必然又内在地具有的属性（见 Anderson, Belnap, and Dunn 1992, §74）。
   - id: 92
     kind: body
     source: |-
       Relevant logic has been used as the basis for mathematical theories other than set theory. Meyer has produced a variation of Peano arithmetic based on the logic $\mathbf{R}$. Meyer gave a finitary proof that his relevant arithmetic does not have $0 = 1$ as a theorem. Thus Meyer solved one of Hilbert’s central problems in the context of relevant arithmetic; he showed using finitary means that relevant arithmetic is absolutely consistent. This makes relevant Peano arithmetic an extremely interesting theory. Unfortunately, as Meyer and Friedman have shown, relevant arithmetic does not contain all of the theorems of classical Peano arithmetic. Hence we cannot infer from this that classical Peano arithmetic is absolutely consistent (see Meyer and Friedman 1992)[^meyer-1992].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相干逻辑已被用作集合论之外的数学理论的基础。Meyer 基于逻辑 $\mathbf{R}$ 造出了皮亚诺算术的一个变体。Meyer 给出一个有穷性证明，表明他的相干算术不以 $0 = 1$ 为定理。这样，Meyer 在相干算术的语境中解决了 Hilbert 的一个核心问题；他用有穷手段表明相干算术绝对一致。这使相干皮亚诺算术成为一个极其有趣的理论。不幸的是，正如 Meyer 与 Friedman 所表明的，相干算术不包含经典皮亚诺算术的一切定理。因此，我们不能由此推断经典皮亚诺算术绝对一致（见 Meyer and Friedman 1992）[^meyer-1992]。
+    step2: |-
+      相干逻辑也被用作集合论之外其他数学理论的基础。Meyer 以逻辑 $\mathbf{R}$ 为基础，造出皮亚诺算术的一个变体，并给出有穷性证明：他的相干算术不以 $0 = 1$ 为定理。这样，Meyer 就在相干算术的范围内解决了 Hilbert 的一个核心问题——用有穷手段表明相干算术绝对一致。相干皮亚诺算术因此成为一个极有意思的理论。可惜，正如 Meyer 与 Friedman 所示，相干算术并不包含经典皮亚诺算术的全部定理，所以不能由此推出经典皮亚诺算术绝对一致（见 Meyer and Friedman 1992）[^meyer-1992]。
   - id: 93
     kind: body
     source: |-
       Anderson (1967) formulated a system of deontic logic based on $\mathbf{R}$ and, more recently, relevance logic has been used as a basis for deontic logic by Mares (1992) and Lou Goble (1999). These systems avoid some of the standard problems with more traditional deontic logics. One problem that standard deontic logics face is that they make valid the inference from $A$’s being a theorem to $OA$’s being a theorem, where ‘$OA$’ means ‘it ought to be that $A$’. The reason that this problem arises is that it is now standard to treat deontic logic as a normal modal logic. On the standard semantics for modal logic, if $A$ is valid, then it is true at all possible worlds. Moreover, $OA$ is true at a world $a$ if and only if $A$ is true at every world accessible to $a$. Thus, if $A$ is a valid formula, then so is $OA$. But it seems silly to say that every valid formula ought to be the case. Why should it be the case that either it is now raining in Ecuador or it is not? In the semantics for relevant logics, not every world makes true every valid formula. Only a special class of worlds (sometimes called “base worlds” and sometimes called “normal worlds”) make true the valid formulae. Any valid formula can fail at a world. By allowing these “non-normal worlds” in our models, we invalidate this problematic rule.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Anderson（1967）基于 $\mathbf{R}$ 构造了一个道义逻辑系统；更晚近，Mares（1992）与 Lou Goble（1999）用相干逻辑作为道义逻辑的基础。这些系统避开了更传统的道义逻辑的一些标准问题。标准道义逻辑面临的一个问题，是它们使从 $A$ 是定理推出 $OA$ 是定理这一推理有效，其中“$OA$”意为“应当 $A$”。这个问题产生的原因，是现在通常把道义逻辑当作正规模态逻辑。按模态逻辑的标准语义，如果 $A$ 有效，那么它在所有可能世界都为真。而且，$OA$ 在世界 $a$ 为真，当且仅当 $A$ 在可及于 $a$ 的每个世界都为真。因此，如果 $A$ 是有效公式，那么 $OA$ 也是。但说每个有效公式都应当成立，似乎很荒唐。凭什么“现在厄瓜多尔在下雨或者没下雨”应当成立？在相干逻辑的语义中，并非每个世界都使每个有效公式为真。只有一类特殊世界（有时称为“基础世界”，有时称为“正规世界”）使有效公式为真。任何有效公式都可以在世界失败。通过允许这些“非正规世界”进入模型，我们使这条有问题的规则失效。
+    step2: |-
+      Anderson（1967）以 $\mathbf{R}$ 为基础构造了一个道义逻辑系统；后来 Mares（1992）与 Lou Goble（1999）也以相干逻辑为基础建立道义逻辑。这些系统避开了传统道义逻辑的一些标准麻烦。麻烦之一，是标准道义逻辑会让“$A$ 是定理，所以 $OA$ 是定理”这条推理有效，其中“$OA$”表示“应当 $A$”。病根在于如今通常把道义逻辑当作正规模态逻辑：按模态逻辑的标准语义，$A$ 有效就在所有可能世界为真；而 $OA$ 在世界 $a$ 为真，当且仅当 $A$ 在一切可及于 $a$ 的世界为真。于是 $A$ 有效，$OA$ 也有效。但说每个有效公式都应当成立，未免荒唐——凭什么“现在厄瓜多尔在下雨或没下雨”应当成立呢？相干逻辑的语义里，并非每个世界都使有效公式为真，只有一类特殊世界（有时叫“基础世界”，有时叫“正规世界”）才使有效公式为真，任何有效公式都可以在某个世界失败。把这类“非正规世界”放进模型，这条有问题的规则便失效了。
   - id: 94
     kind: body
     source: |-
       Other sorts of modal operators have been added to relevance logic as well. Fuhrmann (1990) adapts the usual axioms for the familiar classical modal logics to the relevant context to produce a collection of relevant modal logics and proves completeness results for them. Epistemic modal operators have been added to relevance logics by Heinrich Wansing (2002), Marta Bilkova, Ondrej Majer, Michal Peliš, and Greg Restall (2010), among others. Shawn Standefer (2019) has produced a relevant version of justification logic and has very recently added an actuality opertor to relevance logic. There is even a relevant logic of questions and answers (see Punčochář 2020)[^punčochář-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其他种类的模态算子也被添加到相干逻辑中。Fuhrmann（1990）把熟悉的经典模态逻辑的通常公理改编到相干语境，产生了一批相干模态逻辑，并为它们证明了完全性结果。认识模态算子被 Heinrich Wansing（2002）、Marta Bilkova、Ondrej Majer、Michal Peliš 与 Greg Restall（2010）等人添加到相干逻辑中。Shawn Standefer（2019）造出了辩护逻辑的相干版本，并且最近给相干逻辑添加了一个现实性算子。甚至还有关于问题与回答的相干逻辑（见 Punčochář 2020）[^punčochář-2020]。
+    step2: |-
+      相干逻辑还被加上了其他种类的模态算子。Fuhrmann（1990）把经典模态逻辑的常见公理改造成相干版本，得到一批相干模态逻辑，并证明了完全性。Heinrich Wansing（2002）、Marta Bilkova、Ondrej Majer、Michal Peliš、Greg Restall（2010）等人给相干逻辑加入了认识模态算子；Shawn Standefer（2019）造出辩护逻辑的相干版本，最近又给相干逻辑添了现实性算子。甚至还有关于问与答的相干逻辑（见 Punčochář 2020）[^punčochář-2020]。
   - id: 95
     kind: body
     source: |-
       Routley and Val Plumwood (1989) and Mares and André Fuhrmann (1995) present theories of counterfactual conditionals based on relevant logic. Their semantics adds to the standard Routley-Meyer semantics an accessibility relation that holds between a formula and two worlds. On Routley and Plumwood’s semantics, $A\gt B$ holds at a world $a$ if and only if for all worlds $b$ such that $SAab$, $B$ holds at $b$. Mares and Fuhrmann’s semantics is slightly more complex: $A\gt B$ holds at a world $a$ if and only if for all worlds $b$ such that $SAab$, $A \rightarrow B$ holds at $b$ (also see Brady (ed.) 2002, §10 for details of both semantics). Mares (2004) presents a more complex theory of relevant conditionals that includes counterfactual conditionals. All of these theories avoid the analogues of the paradoxes of implication that appear in standard logics of counterfactuals.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Routley 与 Val Plumwood（1989）、Mares 与 André Fuhrmann（1995）提出了基于相干逻辑的反事实条件句理论。他们的语义在标准 Routley–Meyer 语义上添加了一个在公式与两个世界之间成立的可及关系。按 Routley 与 Plumwood 的语义，$A\gt B$ 在世界 $a$ 成立，当且仅当对所有满足 $SAab$ 的世界 $b$，$B$ 在 $b$ 成立。Mares 与 Fuhrmann 的语义稍复杂：$A\gt B$ 在世界 $a$ 成立，当且仅当对所有满足 $SAab$ 的世界 $b$，$A \rightarrow B$ 在 $b$ 成立（两种语义的细节另见 Brady (ed.) 2002, §10）。Mares（2004）提出了一个更复杂的相干条件句理论，其中包括反事实条件句。所有这些理论都避开了标准反事实逻辑中出现的蕴涵悖论的对应物。
+    step2: |-
+      Routley 与 Val Plumwood（1989）、Mares 与 André Fuhrmann（1995）提出了基于相干逻辑的反事实条件句理论。他们在标准 Routley–Meyer 语义上增加了一个可及关系，它成立于一个公式与两个世界之间。按 Routley 与 Plumwood 的语义，$A\gt B$ 在世界 $a$ 成立，当且仅当凡满足 $SAab$ 的世界 $b$，$B$ 都在 $b$ 成立。Mares 与 Fuhrmann 的语义稍复杂：$A\gt B$ 在世界 $a$ 成立，当且仅当凡满足 $SAab$ 的世界 $b$，$A \rightarrow B$ 都在 $b$ 成立（两种语义的细节见 Brady (ed.) 2002, §10）。Mares（2004）提出了一套更复杂的相干条件句理论，其中包含反事实条件句。这些理论都避开了标准反事实逻辑中蕴涵悖论的对应物。
   - id: 96
     kind: body
     source: |-
       Relevant logics have been used in computer science as well as in philosophy. Linear logics — a branch of logic initiated by Jean-Yves Girard — is a logic of computational resources. Linear logicians read an implication $A \rightarrow B$ as saying that having a resource of type $A$ allows us to obtain something of type $B$. If we have $A \rightarrow(A \rightarrow B)$, then, we know that we can obtain a $B$ from two resources of type $A$. But this does not mean that we can get a $B$ from a single resource of type $A$, i.e. we don’t know whether we can obtain $A \rightarrow B$. Hence, contraction fails in linear logic. Linear logics are, in fact, relevant logics that lack contraction and the distribution of conjunction over disjunction $((A \amp(B \vee C)) \rightarrow((A \amp B) \vee(A \amp C)))$. They also include two operators (! and ?) that are known as “exponentials”. Putting an exponential in front of a formula gives that formula the ability to act classically, so to speak. For example, just as in standard relevance logic, we cannot usually merely add an extra premise to a valid inference and have it remain valid. But we can always add a premise of the form $!A$ to a valid inference and have it remain valid. Linear logic also has contraction for formulae of the form $!A$, i.e., it is a theorem of these logics that $(!A \rightarrow(!A \rightarrow B)) \rightarrow(!A \rightarrow B)$ (see Troelstra 1992)[^troelstra-1992]. The use of ! allows for the treatment of resources “that can be duplicated or ignored at will” (Restall 2000, p 56)[^restall-2000]. For more about linear logic, see the entry on substructural logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相干逻辑不仅在哲学中，也在计算机科学中被使用。线性逻辑——Jean-Yves Girard 开创的逻辑分支——是一种计算资源的逻辑。线性逻辑学家把蕴涵 $A \rightarrow B$ 读作：拥有一个类型 $A$ 的资源，使我们能够获得某个类型 $B$ 的东西。于是，如果我们有 $A \rightarrow(A \rightarrow B)$，我们就知道可以从两个类型 $A$ 的资源获得一个 $B$。但这并不意味着我们可以从单个类型 $A$ 的资源获得一个 $B$，也就是说，我们不知道能否获得 $A \rightarrow B$。因此，收缩在线性逻辑中失败。线性逻辑实际上是缺少收缩以及合取对析取的分配 $((A \amp(B \vee C)) \rightarrow((A \amp B) \vee(A \amp C)))$ 的相干逻辑。它们还包含两个算子（! 与 ?），称为“指数”。把一个指数放在公式前面，就使该公式具有“经典地”行事的能力，可以这么说。例如，正如在标准相干逻辑中，我们通常不能仅仅给一个有效推理添加一个额外前提而让它仍然有效。但我们总可以给一个有效推理添加形如 $!A$ 的前提而让它保持有效。线性逻辑对形如 $!A$ 的公式也有收缩，即这些逻辑中有定理 $(!A \rightarrow(!A \rightarrow B)) \rightarrow(!A \rightarrow B)$（见 Troelstra 1992）[^troelstra-1992]。使用 ! 使得可以处理“可以随意复制或忽略”的资源（Restall 2000, p 56）[^restall-2000]。关于线性逻辑的更多内容，见子结构逻辑词条。
+    step2: |-
+      相干逻辑不只用于哲学，也用于计算机科学。线性逻辑——Jean-Yves Girard 开创的一个逻辑分支——是计算资源的逻辑。线性逻辑学家把蕴涵 $A \rightarrow B$ 读作：拥有类型 $A$ 的资源，就能得到类型 $B$ 的东西。因此，若有 $A \rightarrow(A \rightarrow B)$，便知可以从两份类型 $A$ 的资源得到一个 $B$；但这并不意味着能从单份类型 $A$ 的资源得到 $B$，也就是说，不知道能否得到 $A \rightarrow B$。所以收缩在线性逻辑中失效。线性逻辑其实就是缺少收缩、也缺少合取对析取分配律 $((A \amp(B \vee C)) \rightarrow((A \amp B) \vee(A \amp C)))$ 的相干逻辑。它还有两个算子（! 与 ?），称为“指数”：把指数加在公式前面，就好像让该公式取得“经典”行事的资格。例如，在标准相干逻辑中，通常不能只给有效推理添一个前提还让它保持有效；但加上形如 $!A$ 的前提，就总能保持有效。线性逻辑对形如 $!A$ 的公式还有收缩，即 $(!A \rightarrow(!A \rightarrow B)) \rightarrow(!A \rightarrow B)$ 是这些逻辑的定理（见 Troelstra 1992）[^troelstra-1992]。! 的用处，是处理“可以随意复制或忽略”的资源（Restall 2000, p 56）[^restall-2000]。线性逻辑的更多内容，见“子结构逻辑”词条。
   - id: 97
     kind: oir
     source: |-
       - Jago, M., forthcoming, “[Truthmaker Semantics for Relevant Logic](https://link.springer.com/article/10.1007/s10992-019-09533-9)” *Journal of Philosophical Logic*, first online 7 January 2020, doi:10.1007/s10992-019-09533-9 [This paper develops a semantics for relevance logic based on Kit Fine’s theory of truthmakers.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Jago, M., forthcoming, “[Truthmaker Semantics for Relevant Logic](https://link.springer.com/article/10.1007/s10992-019-09533-9)” *Journal of Philosophical Logic*, first online 7 January 2020, doi:10.1007/s10992-019-09533-9 [本文基于 Kit Fine 的真值制造者理论，为相干逻辑发展一种语义。]
+    step2: |-
+      - Jago, M., forthcoming, “[相干逻辑的真值制造者语义](https://link.springer.com/article/10.1007/s10992-019-09533-9)”，*Journal of Philosophical Logic*，2020 年 1 月 7 日首次在线，doi:10.1007/s10992-019-09533-9。[本文以 Kit Fine 的真值制造者理论为基础，为相干逻辑建立一种语义。]
   - id: 98
     kind: ack
     source: |-
       The author would like to thank an anonymous reviewer and Shawn Standefer for suggesting corrections and improvements.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作者感谢一位匿名审稿人以及 Shawn Standefer 提出修正与改进建议。
+    step2: |-
+      作者感谢匿名审稿人与 Shawn Standefer 提出修正和改进建议。
