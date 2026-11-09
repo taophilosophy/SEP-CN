@@ -1,0 +1,348 @@
+{
+ "key": "ideology",
+ "term": "ideology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:56:27+00:00",
+ "status": "ok",
+ "note": "variant=ideology; 审定公布名词库=189; 海峡两岸名词对照库=18; 其他来源数据库=15; 预公布名词数据库=22; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "意识形态",
+   "en": "ideology",
+   "code": "03.803",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "意识形态",
+   "en": "ideology",
+   "code": "05.030",
+   "standard": "经济学名词",
+   "subject": "经济学_制度经济学"
+  },
+  {
+   "cn": "占统治地位的意识形态",
+   "en": "dominant ideology",
+   "code": "18.031",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题"
+  },
+  {
+   "cn": "政策意识形态",
+   "en": "policy ideology",
+   "code": "11.0212",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_公共政策"
+  },
+  {
+   "cn": "意识形态领导权",
+   "en": "ideological hegemony",
+   "code": "10.04",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_跨文化传播_跨文化传播理论"
+  },
+  {
+   "cn": "意识形态分析",
+   "en": "ideological analysis",
+   "code": "15.038",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播与社会发展_理论与方法"
+  },
+  {
+   "cn": "理想课程",
+   "en": "ideological curriculum",
+   "code": "02.034",
+   "standard": "教育学名词",
+   "subject": "教育学_课程与教学"
+  },
+  {
+   "cn": "作为意识形态的技术",
+   "en": "technology as ideology",
+   "code": "04.079",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "意识形态传播",
+   "en": "dissemination of ideology",
+   "code": "11.064",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_国际传播_中国的国际传播"
+  },
+  {
+   "cn": "意识形态国家机器",
+   "en": "ideological state apparatus",
+   "code": "18.072",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_重要概念"
+  },
+  {
+   "cn": "思想教育方法",
+   "en": "ideological education approach",
+   "code": "10.010",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区卫生服务管理"
+  },
+  {
+   "cn": "马克思主义的思想来源",
+   "en": "Marxist Ideological Sources",
+   "code": "01.0059",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_国际共产主义运动"
+  },
+  {
+   "cn": "进步意识形态",
+   "en": "progressive ideology",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "马克思主义意识形态",
+   "en": "ideology of Marxism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "民族国家意识形态",
+   "en": "ideology of the national State",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "流变学",
+   "en": "rheology",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "火星学",
+   "en": "areology",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "潮汐学",
+   "en": "tidology",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "发生土壤学",
+   "en": "pedology",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "潮汐学",
+   "en": "tidology",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "地质学",
+   "en": "geology",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "表面流变学",
+   "en": "surface rheology",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "行星地质学",
+   "en": "planetary geology",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "月质学",
+   "en": "lunar geology",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "意识形态工作领导权",
+   "en": "the CPC's leadership over ideological work",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "牢牢掌握意识形态工作领导权",
+   "en": "holding firmly the leading position in ideological work",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "党的思想建设",
+   "en": "the ideological work of the CPC / building the Party through theory",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "流变学",
+   "en": "rheology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "地质学",
+   "en": "geology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "缝合带",
+   "en": "Lens (geology)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "层",
+   "en": "Bed (geology)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "构造地质学",
+   "en": "Structural geology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "层面",
+   "en": "Bed (geology)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "甾烷",
+   "en": "Catagenesis (geology)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "岩株",
+   "en": "Stock(geology)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "意识形态",
+   "en": "ideology",
+   "code": "3.13.4.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴"
+  },
+  {
+   "cn": "社会意识形态",
+   "en": "social ideology",
+   "code": "2.1.7.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会意识"
+  },
+  {
+   "cn": "性别意识形态",
+   "en": "gender ideology",
+   "code": "3.2.1.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "意识形态询唤",
+   "en": "ideological interpellation",
+   "code": "05.0073",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "意识形态批判",
+   "en": "critique of ideology",
+   "code": "05.0025",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "党的思想路线",
+   "en": "Partys ideological line",
+   "code": "03.0338",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "党的思想建设",
+   "en": "partys ideological building",
+   "code": "03.0471",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "意识形态国家机器",
+   "en": "ideological state apparatuses",
+   "code": "05.0071",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "资产阶级思想的侵袭",
+   "en": "invasion of bourgeois ideology",
+   "code": "03.0539",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "思想入党",
+   "en": "join the party ideologically",
+   "code": "03.0472",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "思想政治教育",
+   "en": "ideological and political education",
+   "code": "03.0597",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "人道的社会主义思潮",
+   "en": "humane socialist ideological trend",
+   "code": "04.0375",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_列宁斯大林时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

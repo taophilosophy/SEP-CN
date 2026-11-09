@@ -1,0 +1,145 @@
+{
+ "key": "hyperset",
+ "term": "hyperset",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:45:57+00:00",
+ "status": "ok",
+ "note": "variant=hyperset; 审定公布名词库=23; 海峡两岸名词对照库=5; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "超文本",
+   "en": "hypertext",
+   "code": "03.598",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "超文本",
+   "en": "hypertext",
+   "code": "06.04.024",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "超文本",
+   "en": "hypertext",
+   "code": "09.0745",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络应用"
+  },
+  {
+   "cn": "超文本",
+   "en": "hypertext",
+   "code": "01.049",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "超文本检索",
+   "en": "hypertext information retrieval",
+   "code": "03.0541",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_图书情报档案领域"
+  },
+  {
+   "cn": "发排",
+   "en": "send to typeset",
+   "code": "03.02.001",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印前工艺"
+  },
+  {
+   "cn": "页面超文本预处理器",
+   "en": "page hypertext preprocessor,PHP",
+   "code": "07.0607",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库应用开发"
+  },
+  {
+   "cn": "超文本传送协议",
+   "en": "hypertext transfer protocol,HTTP",
+   "code": "09.0748",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络应用"
+  },
+  {
+   "cn": "超文本标记语言",
+   "en": "hypertext markup language,HTML",
+   "code": "09.0749",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络应用"
+  },
+  {
+   "cn": "超文本置标语言",
+   "en": "hypertext markup language,HTML",
+   "code": "01.050",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "超文本置标语言",
+   "en": "hypertext markup language,HTML",
+   "code": "11.064",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_语篇处理"
+  },
+  {
+   "cn": "超文本传送协议",
+   "en": "hypertext transport protocol,HTTP",
+   "code": "05.027",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信协议"
+  },
+  {
+   "cn": "超文本",
+   "en": "hypertext",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "超文本",
+   "en": "hypertext",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "超文本链接置标语言，超文本链接标记语言",
+   "en": "hypertext markup language\",\"HTML",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "超文本传送协议",
+   "en": "hypertext transfer protocol\",\"HTTP",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "超文本置标语言",
+   "en": "hypertext markup language\",\"HTML",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "超文本",
+   "en": "Hypertext",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "安全超文本传输协议",
+   "en": "Secure Hypertext Transfer Protocol (S-HTTP)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

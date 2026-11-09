@@ -1,0 +1,33 @@
+{
+ "key": "ikebana",
+ "term": "ikebana",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:59:28+00:00",
+ "status": "ok",
+ "note": "variant=ikebana; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "池田屋事件",
+   "en": "Ikedaya Incident",
+   "code": "04.0045",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚"
+  },
+  {
+   "cn": "科特鲁巴斯",
+   "en": "Cotrubas\",\"Ileana(罗马尼亚)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "Kibana平台",
+   "en": "Kibana platform",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

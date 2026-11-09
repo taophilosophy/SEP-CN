@@ -1,0 +1,40 @@
+{
+ "key": "idola",
+ "term": "idola",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:56:27+00:00",
+ "status": "ok",
+ "note": "variant=idola; 审定公布名词库=0; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "无人岛",
+   "en": "Isola disabitata\",\"L’",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "偶像崇拜",
+   "en": "idol worship",
+   "code": "4.0297",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "偶像崇拜",
+   "en": "idolatry",
+   "code": "3.9.1.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教信仰现象"
+  },
+  {
+   "cn": "偶像崇拜",
+   "en": "idolatry",
+   "code": "3.16.6.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_青少年研究_青年文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

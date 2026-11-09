@@ -1,0 +1,348 @@
+{
+ "key": "illumination (model of abstraction)",
+ "term": "illumination (model of abstraction)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:59:28+00:00",
+ "status": "ok",
+ "note": "variant=illumination (model of abstraction); 审定公布名词库=10000; 海峡两岸名词对照库=8476; 其他来源数据库=1986; 预公布名词数据库=2867; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "抽象模型",
+   "en": "abstraction model",
+   "code": "06.181",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_模型与假说"
+  },
+  {
+   "cn": "光照模型",
+   "en": "illumination model",
+   "code": "11.0686",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "全局光照模型",
+   "en": "global illumination model",
+   "code": "11.0716",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "局部光照模型",
+   "en": "local illumination model",
+   "code": "11.0715",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "抽象模型论",
+   "en": "abstract model theory",
+   "code": "02.0118",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction,abstraction",
+   "code": "03.0227",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_管理信息系统"
+  },
+  {
+   "cn": "摘要",
+   "en": "abstraction",
+   "code": "01.02.047",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_综论_编辑基础"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "code": "06.0339",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "code": "02.1154",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_有机合成和有机反应"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "code": "02.626",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "code": "02.063",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_技术与应用"
+  },
+  {
+   "cn": "抽象[化]",
+   "en": "abstraction",
+   "code": "02.0127",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
+  {
+   "cn": "光照模型",
+   "en": "illumination model",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "局部光照模型",
+   "en": "local illumination model\",\"local light model",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "整体光照模型",
+   "en": "global illumination model\",\"global light model",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "抽象层次",
+   "en": "level of abstraction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "地面照度",
+   "en": "illuminance of ground",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "自动文摘",
+   "en": "automatic abstract\",\"automatic abstracting",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "内攫取[反应]",
+   "en": "internal abstraction",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "抽象程度",
+   "en": "abstraction level",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "抽象数据",
+   "en": "abstract data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "科勒照明",
+   "en": "Köhler illumination",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词袋模型",
+   "en": "Bag-of-words model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词袋模型",
+   "en": "bag-of-words model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "共享经济业务模式",
+   "en": "business model of sharing economy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "劳模精神",
+   "en": "the spirit of model workers",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "网状模型",
+   "en": "Database model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "关系模型",
+   "en": "Relational model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "瀑布模型",
+   "en": "Waterfall Model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "模型论",
+   "en": "Model theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "麦克斯韦模型",
+   "en": "Maxwell model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "标准模型",
+   "en": "Standard Model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "照度",
+   "en": "illuminance",
+   "code": "6.1.15.5.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "照度",
+   "en": "illuminance",
+   "code": "9.2.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生"
+  },
+  {
+   "cn": "抽象社会",
+   "en": "abstract society",
+   "code": "2.1.2.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会形式"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "code": "01.0094",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "抽象的个人",
+   "en": "abstract individuall",
+   "code": "01.0136",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "抽象劳动",
+   "en": "abstract labor",
+   "code": "02.0046",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "抽象民主",
+   "en": "abstract democracy",
+   "code": "03.0529",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "照明灯布置",
+   "en": "arrangement of illuminating lamp",
+   "code": "9.2.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "code": "2.5.5.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "评价模型",
+   "en": "model of evaluation",
+   "code": "5.6.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "成瘾模型",
+   "en": "model of addition",
+   "code": "15.1.8",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_危害健康行为经济学_危害健康行为"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "code": "5.2.8",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

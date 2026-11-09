@@ -1,0 +1,89 @@
+{
+ "key": "igbo",
+ "term": "Igbo",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:56:27+00:00",
+ "status": "ok",
+ "note": "variant=Igbo; 审定公布名词库=7; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "倾斜地球同步轨道",
+   "en": "inclined geosynchronous orbit,IGSO",
+   "code": "02.520",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "绝缘栅双极型晶体管",
+   "en": "insulated gate bipolar transistor,IGBT",
+   "code": "21.248",
+   "standard": "电力名词",
+   "subject": "电力_高压直流输电"
+  },
+  {
+   "cn": "国际地圈-生物圈计划",
+   "en": "International Geosphere-Biosphere Programme,IGBP",
+   "code": "09.113",
+   "standard": "生态学名词",
+   "subject": "生态学_全球生态学"
+  },
+  {
+   "cn": "绝缘栅双极晶体管",
+   "en": "insulated gate bipolar transistor,IGBT",
+   "code": "15.126",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电力电子技术"
+  },
+  {
+   "cn": "绝缘栅双极型晶体管触发",
+   "en": "IGBT triggering",
+   "code": "21.266",
+   "standard": "电力名词",
+   "subject": "电力_高压直流输电"
+  },
+  {
+   "cn": "免疫球蛋白结合蛋白质",
+   "en": "immunoglobulin binding protein;IGBP",
+   "code": "2.0323",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质"
+  },
+  {
+   "cn": "绝缘栅双极型晶体管-二极管对",
+   "en": "IG-BT-diode pair,IGBT-D",
+   "code": "21.250",
+   "standard": "电力名词",
+   "subject": "电力_高压直流输电"
+  },
+  {
+   "cn": "国际地圈生物圈计划",
+   "en": "International Geosphere-Biosphere Programme\",\"IGBP",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "国际地圈-生物圈计划",
+   "en": "International Geosphere-Biosphere Programme\",\"IGBP",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "国际地圈-生物圈计划",
+   "en": "International Geosphere-Biosphere Programme\",\"IGBP",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "国际生物海洋学协会",
+   "en": "International Association of Biological Oceanography\",\"IABO",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

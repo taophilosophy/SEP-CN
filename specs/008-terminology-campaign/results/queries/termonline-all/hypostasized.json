@@ -1,0 +1,26 @@
+{
+ "key": "hypostasized",
+ "term": "hypostasized",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:48:57+00:00",
+ "status": "ok",
+ "note": "variant=hypostasized; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "承珠盘",
+   "en": "hypostase",
+   "code": "08.0174",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生殖与发育生物学"
+  },
+  {
+   "cn": "承珠盘",
+   "en": "hypostase",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

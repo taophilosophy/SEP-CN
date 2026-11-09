@@ -1,0 +1,348 @@
+{
+ "key": "ideal philosophy",
+ "term": "Ideal Philosophy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:53:27+00:00",
+ "status": "ok",
+ "note": "variant=Ideal Philosophy; 审定公布名词库=391; 海峡两岸名词对照库=82; 其他来源数据库=22; 预公布名词数据库=33; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "code": "1.083",
+   "standard": "行为医学名词",
+   "subject": "行为医学_总论_行为决定健康"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "code": "02.0199",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "code": "04.0935",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_交换环"
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "code": "03.224",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_认识论"
+  },
+  {
+   "cn": "机械论哲学",
+   "en": "mechanical philosophy",
+   "code": "03.032",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "系统哲学",
+   "en": "systems philosophy",
+   "code": "03.777",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "政治哲学",
+   "en": "political philosophy",
+   "code": "03.813",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "社会哲学",
+   "en": "social philosophy",
+   "code": "03.814",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "编辑思想",
+   "en": "editorial philosophy",
+   "code": "01.02.006",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_综论_编辑基础"
+  },
+  {
+   "cn": "HELP哲学观",
+   "en": "HELP philosophy",
+   "code": "06.064",
+   "standard": "运动医学名词",
+   "subject": "运动医学_医务监督_体适能"
+  },
+  {
+   "cn": "信息哲学",
+   "en": "information philosophy",
+   "code": "01.179",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_情报学"
+  },
+  {
+   "cn": "图书馆哲学",
+   "en": "library philosophy",
+   "code": "01.120",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学"
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "理想板",
+   "en": "ideal plate\",\"ideal tray",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "地理学哲学",
+   "en": "geographical philosophy",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "政治哲学",
+   "en": "political philosophy",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "自然环境保护哲学",
+   "en": "conservationist philosophy",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "理想品种",
+   "en": "ideal variety",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "理想流体",
+   "en": "ideal fluid",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "理想气候",
+   "en": "ideal climate",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "理想循环",
+   "en": "ideal cycle",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "理想流动",
+   "en": "ideal flow",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "理想混合物",
+   "en": "ideal mixture",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "理想反应器",
+   "en": "ideal reactor",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "数据哲学",
+   "en": "Data Philosophy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "治理理念",
+   "en": "governance philosophy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "单环",
+   "en": "Zero ideal",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "科学哲学",
+   "en": "Philosophy of science",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "技术哲学",
+   "en": "philosophy of technology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主理想整环",
+   "en": "principal ideal domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "应然数权",
+   "en": "ideal data rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "理想跑动线路",
+   "en": "ideal line of running",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "“真、实、亲、诚”理念",
+   "en": "the philosophy of “true, practicability,",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "生态文明理念",
+   "en": "the philosophy of ecological civilization",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "以人民为中心的发展思想",
+   "en": "the people-centered philosophy of development",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "“亲、诚、惠、容”理念",
+   "en": "the philosophy of “amity, honesty, mutual benefit, and inclusiveness”",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "哲学",
+   "en": "philosophy",
+   "code": "01.0001",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "唯心主义",
+   "en": "idealism",
+   "code": "01.0004",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会哲学",
+   "en": "social philosophy",
+   "code": "2.1.7.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会意识"
+  },
+  {
+   "cn": "马克思主义哲学",
+   "en": "Marxist philosophy",
+   "code": "01.0002",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "思辩哲学",
+   "en": "speculative philosophy",
+   "code": "01.0102",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "实践哲学",
+   "en": "practical philosophy",
+   "code": "05.0009",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "无调哲学",
+   "en": "atonal philosophy",
+   "code": "05.0030",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "星丛哲学",
+   "en": "constellation philosophy",
+   "code": "05.0031",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "医学哲学",
+   "en": "medical philosophy",
+   "code": "1.1740000000000002",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科"
+  },
+  {
+   "cn": "道德哲学",
+   "en": "moral philosophy",
+   "code": "1.0070000000000001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "道德理想",
+   "en": "moral ideal",
+   "code": "1.02",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "职业理想",
+   "en": "professional ideal",
+   "code": "1.045",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

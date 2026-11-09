@@ -1,0 +1,47 @@
+{
+ "key": "idempotent",
+ "term": "idempotent",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:56:27+00:00",
+ "status": "ok",
+ "note": "variant=idempotent; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "幂等元",
+   "en": "idempotent element",
+   "code": "04.1285",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "幂等律",
+   "en": "idempotent law",
+   "code": "03.0237",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_序·格·一般数学系统"
+  },
+  {
+   "cn": "本原幂等元",
+   "en": "primitive idempotent element",
+   "code": "04.1286",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "主幂等元",
+   "en": "principal idempotent element",
+   "code": "04.1287",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "幂等矩阵",
+   "en": "idenpotent matrix",
+   "code": "04.0619",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_线性代数"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
