@@ -2,7 +2,7 @@
   "slug": "kukai",
   "kind": "retranslate",
   "zh_doc": "k/kukai.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:36Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "K-main-20261110",
+      "at": "2026-11-09T20:24:37Z",
+      "evidence": "113 段账本全填（段72-113 本会话补译 42 段），lq check 守恒全过：source 113:113 逐字符一致、脚注键与 defs 计数硬门 0 残余；compose 成文 k/kukai.md 22313 汉字、H2 8/H3 14/H4 10、defs 49"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "K-main-20261110",
+      "at": "2026-11-09T20:27:33Z",
+      "evidence": "对照核销：源/译标题 26:26 逐条对应（1-4 章 + 3.1-3.12 及四个四级节），defs 49:49、文内标记 abe-1999/gardiner-2008 各就位、伪标记 key 照录；十住心十个传统译名各现 1 次（异生昏缠心…秘密庄严心）；书名/经题与罗马字照录（《秘密曼荼罗十住心论》《秘藏宝钥》《即身成佛义》《声字实相义》《吽字义》）；四曼荼罗、印契/真言/曼荼罗三媒介、自他力、入我我入等术语逐项核对源文；京都学派七家译名与日文著作题名对照"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "K-main-20261110",
+      "at": "2026-11-09T20:29:07Z",
+      "evidence": "prose 实修 95 处（三轮 SUBS：长句拆分/de-chain/弱动词/被字/as-one，62+19+14），告警 81→14；残余 14 条按 ADR-0020 豁免留痕：直引（《华严经》引句 line63）、术语内含（三密/三媒介平行定义、本不生、宇宙文本）、书名内结构（大悲胎藏所生之曼荼罗）、经题与罗马字照录；check_style 0 issue（体例修正器处理 22 段：角引号→弯引号、CJK 斜体→加粗、加粗两侧空格）；check_academic --strict 硬错误 0；check_math 0 公式 0 缺失"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "K-main-20261110",
+      "at": "2026-11-09T20:30:44Z",
+      "evidence": "先登后用：术语 43 行（四种曼荼罗四种、十住心十名、加持/入我我入/三密/印契/观想/陀罗尼/有相无相/唯识/阿赖耶识/判教/法界宫/各宗名）+ 人名 11 行（最澄/一行/淳和天皇/上田闲照/梅原猛/柳田谦十郎/汤浅泰雄/井筒俊彦/玉城康四郎/中泽新一/Kelley L. Ross），azsort 重排守恒（4045:4045、3006:3006），check_terms 硬错误 0（现存 2 冲突 Nyāya/vaiśeṣika 属 early-modern-india 在途批次，非本条）；四检复跑：style 0、academic 0、prose 残余 14 全豁免、math 0；check_all 7 项中 SUMMARY/术语两项失败均由并行会话在途件（j/justice-moral-psych H1 不符、early-modern-india 术语冲突）引起，与本条无关"
     }
   ],
   "blockers": [],
