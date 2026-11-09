@@ -171,74 +171,98 @@ segments:
     kind: body
     source: |-
       ## 3. Physics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 物理学
+    step2: |-
+      ## 3 物理学
   - id: 22
     kind: body
     source: |-
       Fakhr al-Dīn’s treatment of the principles of physics provides an illuminating example of his philosophical method. In his various *summae* he addresses the same set of issues treated in Ibn Sīnā’s physics, which are ultimately those already addressed by Aristotle’s *Physics*. Thus we get considerations of body, motion, time, place, and void. Yet ideas from the *kalām* tradition are brought into the mix too, and sometimes allowed to prevail. Thus he usually upholds the atomism shared by both the Muʿtazilite and Ashʿarite schools of *kalām* against the continuism of Ibn Sīnā. In other cases, Fakhr al-Dīn seems to be following the lead of Abū Bakr al-Rāzī (who was himself an atomist), as he embraces a “Platonic” understanding of time and place, according to which these are independent principles rather than measurements and limits of bodies and their motions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      法赫尔丁对物理学原理的处理，为他哲学方法提供了一个很好的例子。在他的各部《大全》中，他处理的是伊本·西那物理学中的同一组问题——这些问题最终也是亚里士多德《物理学》已处理过的。于是我们看到他讨论物体、运动、时间、地点与虚空。但凯拉姆传统的观念也掺入其中，有时还占了上风。例如，他通常坚持穆阿太齐赖派与艾什尔里派凯拉姆共有的原子论，以及对伊本·西那的连续论。在另一些情形中，法赫尔丁似乎在追随阿布·伯克尔·拉齐（他本人是原子论者）的思路，接受一种“柏拉图式”的时间与地点观：时间与地点是独立的本原，而不是物体及其运动的度量与界限。
+    step2: |-
+      法赫尔丁对物理学原理的处理，是说明其哲学方法的一个好例子。在他的各部《大全》里，他处理与伊本·西那物理学相同的议题，而这些议题最终也是亚里士多德《物理学》处理过的：物体、运动、时间、地点、虚空。但凯拉姆传统的观念也掺入其中，有时还占了上风。例如，他通常坚持穆阿太齐赖派与艾什尔里派凯拉姆共有的原子论，以及对伊本·西那的连续论。在另一些情形中，他似乎在追随阿布·伯克尔·拉齐（他本人也是原子论者），接受一种“柏拉图式”的时间与地点观：时间与地点是独立的本原，而非物体及其运动的度量与界限。
   - id: 23
     kind: body
     source: |-
       The fundamental distinction in *kalām* physics is that between the atomic substance (*jawhar*) or “indivisible part”, on the one hand, and the accidental properties (*aʿrāḍ*) that belong to these atoms, on the other hand (Dhanani 1994, Sabra 2006)[^dhanani-1994][^sabra-2006]. As far back as the initial reception of Greek philosophy into Arabic, *falāsifa* like al-Kindī (in a lost work) had rejected atomism in favor of Aristotelian continuism. This is the view that every part of every body, no matter how small, can in principle be divided into yet smaller sub-parts. Ibn Sīnā was also a strong opponent of atomism (Lettinck 1988, McGinnis 2013, Dhanani 2015)[^dhanani-2015][^lettinck-1988][^mcginnis-2013], and his arguments provoked discussion in a number of twelfth century authors (see, e.g., McGinnis 2019)[^mcginnis-2019]. Fakhr al-Dīn is thus joining a long-running debate when he addresses the cogency of atomism. His statements on the question present a typically confusing picture. He seems to reject atomism in his “philosophical” (*falsafī*, *ḥikmī*) works, only to accept it in his *kalām* works (Zarkān 1963: 67–98)[^zarkān-1963]. However his late *summa*, the *Maṭālib*, may show that he came to embrace *kalām* atomism as his own considered view (Dhanani 2015; see also Setia 2004 and 2006, and Baffioni 1982: 211–75; for his opposition to hylomorphism see Ibrahim 2020)[^baffioni-1982][^dhanani-2015][^ibrahim-2020][^setia-2004][^setia-2006].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      凯拉姆物理学的基本区分，是原子实体（jawhar）或“不可分部分”与属于这些原子的偶性（aʿrāḍ）之间的区分（Dhanani 1994, Sabra 2006）[^dhanani-1994][^sabra-2006]。早在希腊哲学传入阿拉伯之初，金迪等法拉萨法就已拒斥原子论，转向亚里士多德式连续论。连续论认为，每一个物体的每一部分，无论多小，原则上都可再分为更小的子部分。伊本·西那也是原子论的坚决反对者（Lettinck 1988, McGinnis 2013, Dhanani 2015）[^dhanani-2015][^lettinck-1988][^mcginnis-2013]，其论证引发十二世纪若干作者的讨论（见如 McGinnis 2019）[^mcginnis-2019]。因此，法赫尔丁讨论原子论是否成立，是加入一场旷日持久的辩论。他在这个问题上的陈述呈现出典型的混乱图景：他似乎在其“哲学性”（falsafī、ḥikmī）著作中拒斥原子论，却在其凯拉姆著作中接受它（Zarkān 1963: 67–98）[^zarkān-1963]。不过，他晚年的《大全》即《论题》（Maṭālib），也许表明他最终把凯拉姆原子论接受为自己深思熟虑的观点（Dhanani 2015；另见 Setia 2004 与 2006，Baffioni 1982: 211–75；关于他对质料形式论的反对，见 Ibrahim 2020）[^baffioni-1982][^dhanani-2015][^ibrahim-2020][^setia-2004][^setia-2006]。
+    step2: |-
+      凯拉姆物理学的基本区分，是原子实体（*jawhar*）或“不可分部分”与附着于这些原子的偶性（*aʿrāḍ*）之别（Dhanani 1994、Sabra 2006）[^dhanani-1994][^sabra-2006]。早在希腊哲学初入阿拉伯之际，金迪等法拉萨法就已拒斥原子论，转向亚里士多德式连续论：每个物体的每一部分，无论多小，原则上都可再分为更小的子部分。伊本·西那也坚决反对原子论（Lettinck 1988、McGinnis 2013、Dhanani 2015）[^dhanani-2015][^lettinck-1988][^mcginnis-2013]，其论证引发十二世纪若干作者的讨论（见如 McGinnis 2019）[^mcginnis-2019]。法赫尔丁讨论原子论是否成立，是加入一场旷日持久的辩论，而他在此问题上的陈述呈现出典型的混乱图景：在其“哲学性”（*falsafī*、*ḥikmī*）著作中，他似乎拒斥原子论，却在其凯拉姆著作中接受它（Zarkān 1963: 67–98）[^zarkān-1963]。不过，晚年《大全》即《至高论题》（*Maṭālib*）也许表明，他最终把凯拉姆原子论当作自己深思熟虑的观点（Dhanani 2015；另见 Setia 2004 与 2006，Baffioni 1982: 211–75；关于他反对质料形式论，见 Ibrahim 2020）[^baffioni-1982][^dhanani-2015][^ibrahim-2020][^setia-2004][^setia-2006]。
   - id: 24
     kind: body
     source: |-
       As a decisive consideration in favor of atomism he here states that, if continuism were true, each body would have an infinity of parts, so that a mustard seed could be “stretched” to coincide with the whole universe (*Maṭālib* vol.6, 71; see Dhanani 2015: 102 for the passage)[^dhanani-2015]. Another atomist argument is that if a true sphere were to meet a true surface, it would make contact at an indivisible point. We can further argue as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为支持原子论的决定性考虑，他在这里提出：如果连续论为真，每个物体都会有无限多的部分，于是一粒芥子就能被“拉伸”到与整个宇宙重合（《至高论题》卷 6，71；该段落见 Dhanani 2015: 102）[^dhanani-2015]。另一个原子论论证是：如果一个真正的球体遇到一个真正的平面，它会在一个不可分的点上接触。我们还可以进一步论证：
+    step2: |-
+      作为支持原子论的决定性理由，他在这里提出：连续论若真，每个物体便有无限多的部分，于是一粒芥子也能被“拉伸”得与整个宇宙相合（《至高论题》卷 6，71；原文段落见 Dhanani 2015: 102）[^dhanani-2015]。另一个原子论论证是：真正的球体若遇真正的平面，将在不可分的一点上接触。还可以进一步这样论证：
   - id: 25
     kind: body
     source: |-
       > Once it is established that the locus of contact is something indivisible, the existence of the individual atom must be acknowledged. For if we roll a sphere in a full circle on a plane surface, there can be no doubt that as soon as one point of contact ceases, contact is established with another (*Maṭālib* vol.6, 48–9).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一旦确定了接触的所在是不可分的，个别原子的存在就必须被承认。因为，如果我们在平面上把一个球滚过整圈，毫无疑问，一个接触点刚一结束，另一个接触就建立起来（《至高论题》卷 6，48–9）。
+    step2: |-
+      > 一旦确定接触所在之处是不可分的，个别原子的存在便必须承认。因为，让一个球在平面上滚过整圈，毫无疑问，一个接触点刚一结束，另一处接触便建立起来（《至高论题》卷 6，48–9）。
   - id: 26
     kind: body
     source: |-
       As this argument shows, the atoms under consideration here are akin to geometrical points, rather than the very small, extended but indivisible bodies proposed in ancient Greek atomism and by the earlier Abū Bakr al-Rāzī. This itself an inheritance from the *kalām* tradition. Geometry was also used by some to rebut atomism, so in both the *Maṭālib* and a separate treatise dedicated to this issue (Altaş 2015)[^altaş-2015], Fakhr al-Dīn sets out geometrical arguments against atomism and offers counter-refutations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如这一论证所示，这里讨论的原子类似几何点，而不是古希腊原子论与较早的阿布·伯克尔·拉齐所设想的极小、有广延但不可分的物体。这本身就是凯拉姆传统的遗产。几何也被一些人用来反驳原子论，因此，在《至高论题》和一部专门讨论此问题的独立论著（Altaş 2015）[^altaş-2015]中，法赫尔丁提出反对原子论的几何论证，并给出反反驳。
+    step2: |-
+      如这一论证所示，这里讨论的原子类似几何点，而非古希腊原子论、也非较早的阿布·伯克尔·拉齐所设想的极小而有广延但不可分的物体。这本身即凯拉姆传统的遗产。几何也被一些人用来反驳原子论；因此，在《至高论题》与一部专论此题的独立论著（Altaş 2015）[^altaş-2015]中，法赫尔丁摆出反对原子论的几何论证，并给出反反驳。
   - id: 27
     kind: body
     source: |-
       If he is indeed an atomist, it would make sense that he should believe in the possibility of void, since in both classical and *kalām* atomism these two doctrines are usually found together. Abū Bakr al-Rāzī and Abū l-Barakāt al-Baghdādī were also proponents of the void, and both were influential figures for Fakhr al-Dīn. On this topic, he seems to be fairly consistent in upholding the possibility of void against Aristotelian and Avicennan arguments for its impossibility (Adamson 2018a)[^adamson-2018a]. For example, he rejects the Aristotelian argument that, if the speed of motion is inversely proportional to the density of the medium, then motion in a void would be infinitely fast:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果他确实是原子论者，那么他相信虚空的可能性就有道理，因为无论在古典原子论还是凯拉姆原子论中，这两种学说通常相伴出现。阿布·伯克尔·拉齐与阿布·巴拉卡特·巴格达迪也都主张虚空，两人对法赫尔丁都有影响。在这个问题上，他在坚持虚空的可能性、驳斥亚里士多德与阿维森纳的否定论证上，似乎相当一致（Adamson 2018a）[^adamson-2018a]。例如，他拒绝亚里士多德式论证：如果运动速度与介质密度成反比，那么虚空中的运动将无限快：
+    step2: |-
+      他若真是原子论者，便有理由相信虚空，因为无论古典原子论还是凯拉姆原子论，这两说通常相伴而行。阿布·伯克尔·拉齐与阿布·巴拉卡特·巴格达迪也都主张虚空，且两人都影响过法赫尔丁。在此问题上，他坚持虚空的可能性、驳斥亚里士多德与阿维森纳的否定论证，似乎相当一致（Adamson 2018a）[^adamson-2018a]。例如，他拒绝那条亚里士多德式论证——运动速度若与介质密度成反比，虚空中的运动便无限快：
   - id: 28
     kind: body
     source: |-
       > If we assume that part of the [required] time is to accommodate the motion in itself, and part of it to accommodate the hindrance, then the motion in pure void will take place in that amount of time that is appropriate to the motion as it is in itself. Motion occurring in a plenum, meanwhile, will occur in that amount of time plus a further amount of time, as rendered appropriate by whatever is in the interval that offers [175] hindrance. So it is established that the conclusion they sought to force [on the proponent of void, sc. that motion in a void would be infinitely fast given the total lack of resistance] does not follow (*Maṭālib*, vol.5, 174.19–175.1).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果我们假定[所需]时间的一部分用于运动自身，另一部分用于阻抗，那么纯虚空中的运动，就会在与其自身之运动相宜的那段时间内完成。而在充满介质中的运动，则要再加上一段时间，即由区间内提供[175]阻抗之物所宜的时间。由此确定，他们强行要得出[给虚空主张者的]结论——即虚空中的运动因全无阻抗而无限快——并不成立（《至高论题》卷 5，174.19–175.1）。
+    step2: |-
+      > 若我们假定[所需]时间的一部分用于运动本身，另一部分用于阻抗，那么纯虚空中的运动，便在与运动自身相宜的那段时间内完成；而充满介质中的运动，则须再添一段时间，即由区间内[175]提供阻抗之物所宜的时间。可见他们硬要强加给虚空主张者的结论——虚空中的运动因全无阻抗而无限快——并不成立（《至高论题》卷 5，174.19–175.1）。
   - id: 29
     kind: body
     source: |-
       In other words, the density of the medium only slows the intrinsic speed of the motion that it would have in a vaccuum, which is finite.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      换言之，介质的密度只是减缓运动在真空中本有的内在速度，而那是有限的。
+    step2: |-
+      换言之，介质密度所减缓的，只是运动在真空中本有的速度——那速度本就有限。
   - id: 30
     kind: body
     source: |-
       Void is defined either as a case in which two bodies fail to be in contact, with no body between them (*Arbaʿīn* vol.2, 32) or as a space that has nothing placed within it (*Maṭālib* vol.5, 155). Physical arguments provide evidence that void is in fact not just possible but actually occurs, as when two flat surfaces are pulled apart: it will take some time, however minimal, until air rushes in to fill the empty space (*Arbaʿīn* vol.2, 35). The second definition of void just mentioned brings us to Fakhr al-Dīn’s notion of space or place, and already suggests his view that place is not dependent on bodies, as Ibn Sīnā had claimed (Adamson 2017)[^adamson-2017]. For Ibn Sīnā, following Aristotle, place is the inner boundary of a containing body, for example the interior surface of a jug that surrounds the water placed in the jug (Lammer 2018: §5.3)[^lammer-2018]. Fakhr al-Dīn subjects this conception to a barrage of criticisms, for example that a jewel inside a bag would remain in the same “place” even as it is being transported between cities (*Maṭālib* vol.5, 147). Instead, place is for him indeed “space” (*faḍāʾ*, *ḥayyiz*), which is independent of bodies and may be either occupied by a body or not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虚空或者定义为两个物体不相接触且中间无物（《四十问》卷 2，32），或者定义为其中没有放置任何东西的空间（《至高论题》卷 5，155）。物理论证提供的证据表明，虚空不仅可能，而且实际发生：例如把两个平面拉开时，要过一段时间——无论多么短暂——空气才会冲进来填满空出的空间（《四十问》卷 2，35）。刚才提到的虚空第二定义，把我们引到法赫尔丁关于空间或地点的概念，且已经暗示他的观点：地点不依赖于物体——这与伊本·西那的主张相反（Adamson 2017）[^adamson-2017]。对伊本·西那（追随亚里士多德）而言，地点是包容物体的内边界，例如包围壶中之水的壶的内表面（Lammer 2018: §5.3）[^lammer-2018]。法赫尔丁对这一构想加以一连串批评，例如：袋中宝石在城与城之间运送时，将始终处于同一“地点”（《至高论题》卷 5，147）。对他而言，地点其实是“空间”（faḍāʾ、ḥayyiz），独立于物体，可被物体占据，也可不被占据。
+    step2: |-
+      虚空，或定义为两物不相接触而中间无物（《四十问》卷 2，32），或定义为其中未放置任何东西的空间（《至高论题》卷 5，155）。物理论证表明，虚空不但可能，而且实际发生：把两个平面拉开时，空气要过一段时间——再短也要时间——才冲进来填满空出的空间（《四十问》卷 2，35）。刚才的第二条定义，把我们引到法赫尔丁的空间或地点观，并已暗示他的立场：地点不依赖于物体——正与伊本·西那相反（Adamson 2017）[^adamson-2017]。伊本·西那追随亚里士多德，认为地点是包容物体的内边界，例如围住壶中之水的壶内表面（Lammer 2018: §5.3）[^lammer-2018]。法赫尔丁对这一构想加以连番批评，例如：袋中宝石在城与城之间运送，始终处于同一“地点”（《至高论题》卷 5，147）。在他看来，地点其实是“空间”（*faḍāʾ*、*ḥayyiz*），独立于物体，可被占据，也可空着。
   - id: 31
     kind: body
     source: |-
       We find a parallel between this idea about space and his account of time (Setia 2008, Adamson 2018b, Adamson & Lammer 2020)[^adamson-2018b][^adamson-2020][^setia-2008]. For Ibn Sīnā time is a measure of motion (ʿAbd al-Mutaʿāl 2003, McGinnis 2003 and 2008)[^abd-2003][^mcginnis-2003][^mcginnis-2008]. In the first instance it is the measure of the motion of the outermost heaven, since this is the fastest motion in the cosmos, which accounts for the apparent diurnal rotation of the fixed stars around the Earth. This, for Fakhr al-Dīn, is the “peripatetic” account of time. In his *Maṭālib* he refutes it and also a variant of the view found in Abū l-Barakāt, according to which time is the measure of *existence* rather than motion. Fakhr al-Dīn does at least agree that time is real. To establish this he cites an old *kalām* idea that time offers a coordination between independent events (*Mabāḥith* vol.1, 761; *Maṭālib* vol.5, 47), which is why it is possible for me to arrange to meet with you tomorrow (one event) when the sun rises (another event). But time’s existence is not supervenient on motions or cases of existence. Were that the case, then we would have multiple, simultaneous times for the various motions, which would need a superordinate time to coordinate them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于空间的这一想法，与他对时间的论述形成平行（Setia 2008、Adamson 2018b、Adamson & Lammer 2020）[^adamson-2018b][^adamson-2020][^setia-2008]。对伊本·西那而言，时间是运动的度量（ʿAbd al-Mutaʿāl 2003、McGinnis 2003 与 2008）[^abd-2003][^mcginnis-2003][^mcginnis-2008]。首先，它是最外层天体之运动的度量，因为那是宇宙中最快的运动，正是它解释了恒星围绕地球的视周日旋转。在法赫尔丁看来，这是“逍遥学派”的时间观。在《至高论题》中他反驳了这一观点，以及阿布·巴拉卡特的变体——按后者，时间是存在的度量而非运动的度量。法赫尔丁至少同意时间是实在的。为确立这一点，他引用凯拉姆旧说：时间使各自独立的事件得以协调（《东方探究》卷 1，761；《至高论题》卷 5，47）。正因为此，我才能约定明天太阳升起时（另一事件）与你会面（一个事件）。但时间的存在并不随附于运动或存在之事。若是那样，各种运动就会各有多个同时的时间，而这些时间又需要一个更上位的时间来协调。
+    step2: |-
+      这一空间观，与他的时间论互为平行（Setia 2008、Adamson 2018b、Adamson & Lammer 2020）[^adamson-2018b][^adamson-2020][^setia-2008]。对伊本·西那而言，时间是运动的度量（ʿAbd al-Mutaʿāl 2003、McGinnis 2003 与 2008）[^abd-2003][^mcginnis-2003][^mcginnis-2008]：首先是最外层天体之运动的度量，因为那是宇宙中最快的运动，恒星绕地的视周日旋转便由它解释。法赫尔丁视之为“逍遥学派”的时间观，在《至高论题》中加以反驳，连同阿布·巴拉卡特的变体一并反驳——后者以时间为存在的度量而非运动的度量。法赫尔丁至少同意时间是实在的。为确立这点，他援引凯拉姆旧说：时间使彼此独立的事件得以协调（《东方探究》卷 1，761；《至高论题》卷 5，47）。正因如此，我才能约定明日与你会面（一事件），就在太阳升起之时（另一事件）。但时间的存在并不随附于运动或存在之事；若随附，各种运动便各有多重同时的时间，而这些时间又须一个更上位的时间来协调。
   - id: 32
     kind: body
     source: |-
       Fakhr al-Dīn’s discussions of time give us a nice example of how his views developed, even while circling around the same set of arguments (Adamson & Lammer 2020)[^adamson-2020]. In the *Mabāḥith* he expresses an an agnostic point of view:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      法赫尔丁关于时间的讨论，为他观点的演变提供了一个好例子——尽管他始终围绕同一组论证打转（Adamson & Lammer 2020）[^adamson-2020]。在《东方探究》中他表达一种不可知论立场：
+    step2: |-
+      法赫尔丁对时间的讨论，是他观点演变的好例子——尽管始终围绕同一组论证打转（Adamson & Lammer 2020）[^adamson-2020]。在《东方探究》中，他持一种不可知论的立场：
   - id: 33
     kind: body
     source: |-

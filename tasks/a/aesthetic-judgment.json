@@ -2,7 +2,7 @@
   "slug": "aesthetic-judgment",
   "kind": "retranslate",
   "zh_doc": "a/aesthetic-judgment.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "A4-main-20261109",
       "at": "2026-11-09T10:35:24Z",
       "evidence": "复审（逐句回核原文与逻辑）：全文 321 行复核，论证链连贯——§1 主观性→规范性→大问题、§2 四特征与正确性优先、§3 无利害性强弱两版及尼采之争、§4 层级化方案与崇高；边界情形（Levinson 的 starkly grim、表象属性、抽象对象审美属性、Mothersill 第二论题）与源文一致；修正候选 1 处仅涉源文疑误（段66 加译注，不改原文）；Critical 0 / Major 0 / Minor 1"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T11:22:45Z",
+      "evidence": "终审：冷置后回读——aesthetic-judgment 于 r2 后转译 al-din-al-razi 账本 24 段（约 3 万字符源文）再回首，间隔充分，满足冷置条款；成品 a/aesthetic-judgment.md 32,795 字符 321 行；四检复跑全绿（style 0 / lint 0 / academic --strict OK / summary HARD 0 / math 0）；lq check 112 段守恒 HARD=0；prose 仅 2 条引文豁免；check_all 七项全绿；验收签字：A4-main-20261109"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T11:23:48Z",
+      "evidence": "收口：六道三审全过，check_all 七项全绿；成品 32,795 字符 321 行；账本 112 段守恒 HARD=0；术语 6 条、人名 25 在册；Critical 0/Major 0/Minor 1（源文 interesse 疑误，译注留痕）"
     }
   ],
   "blockers": [],
