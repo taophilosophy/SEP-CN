@@ -107,32 +107,42 @@ segments:
     kind: body
     source: |-
       From a contemporary point of view, Newton’s 1672 paper exhibits an intriguing blend of experimental evidence and philosophical argumentation. The latter hinges on Newton’s interpretation of the concept of a property or a quality, as the following passage, which follows the “Doctrine” expressed in thirteen propositions, tellingly reveals:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从当代的观点看，牛顿 1672 年的论文呈现出一种引人入胜的混合：实验证据与哲学论证兼而有之。后者取决于牛顿对性质或品性这一概念的解释，下面这段紧接十三个命题所表述的“学说”之后的文字，颇有启发性地揭示了这一点：
+    step2: |-
+      以当代的眼光看，牛顿这篇 1672 年的论文是实验证据与哲学论证的有趣混合。后者的关键，在于牛顿如何解释“性质”（property）或“品性”（quality）这一概念——紧接十三条命题所述“学说”之后的这段话，恰好把这一点显露出来：
   - id: 14
     kind: body
     source: |-
       > These things being so, it can be no longer disputed, whether there be colours in the dark, nor whether they be the qualities of the objects we see, no nor perhaps, whether Light be a Body. For, since Colours are the *qualities* of Light, having its Rays for their entire and immediate subject, how can we think those Rays *qualities* also, unless one quality may be the subject of and sustain another; which in effect is to call it *substance*. We should not know Bodies for substances, were it not for their sensible qualities, and the Principal of those being now found due to something else, we have as good reason to believe that to be a substance also. (Newton 1959–, vol. 1: 100)[^newton-1959]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 既然如此，则黑暗中是否有颜色，便不再可争；这些颜色是否我们所见的物体的性质，亦然；或许连光是否一个物体，也不再可争。因为，颜色既是光的*性质*，以光的射线为其全部而直接的主体，我们又怎能认为那些射线也是*性质*呢——除非一种性质可以成为另一性质的主体并承载另一性质；而这实际上就是称它为*实体*。若非凭借可感性质，我们便不会知道物体是实体；而既然这些性质的首要承载者如今被认定当归于别的东西，我们便有同样充分的理由相信那东西也是实体。（Newton 1959–，第 1 卷：100）[^newton-1959]
+    step2: |-
+      > 事情既然如此，则黑暗中究竟有没有颜色，便无可再争；这些颜色究竟是不是我们所见的物体的性质，亦无可再争；或许连“光是否一个物体”，也无可再争。因为颜色既然是光的*性质*，以光的射线为它全部而直接的主体，我们又怎能把这些射线也当作*性质*呢？除非一种性质可以充当另一性质的主体、承托另一性质——那实际上就是称它为*实体*了。倘若没有可感性质，我们本不会知道物体是实体；而现在，这些性质的首要承载者既然被发现当归于别的东西，我们便有同样充分的理由相信，那东西也是实体。（Newton 1959–，第 1 卷：100）[^newton-1959]
   - id: 15
     kind: body
     source: |-
       Newton seems here to be arguing as follows: since rays of light have colors as basic features, we should regard these colors as qualities or properties of the rays (despite the fact that these properties are imperceptible under any ordinary circumstance); but doing so requires us to think of the rays as bearers of qualities, which is to say, as substances in their own right. And if rays of light are substances, this means that we cannot also think of them as qualities or properties of anything else. This last point follows from a widely accepted notion of a substance at the time, one easily found in Descartes[^note-7], viz., that substances are those items that can exist independently of other items (whether they can exist independently even of God is a further question that we can ignore here). And if we cannot think of rays of light as properties or qualities, then they are not waves, for waves are features of some medium—think of waves on the surface of a lake. Newton concludes: light is a stream of particles (he does use the word ‘perhaps’ to hedge a bit here). Clearly, philosophical argumentation is a significant aspect of Newton’s reasoning in this paper, as are various philosophical concepts. It is intriguing to ponder the question, what overall conception of “sensible qualities” does Newton presuppose in this piece? If a ray of sunlight passes through my window, the fact that it appears white to me does not undermine Newton’s view (or so he thinks) that the ray actually contains a series of colors as its “qualities”. Are these qualities “sensible” if their presence can be detected only through the use of one or more prisms but never through the inspection of the sunlight through ordinary means (unaided perception, glasses, a magnifying glass, etc.)? These are apt to strike us as canonical philosophical problems.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿在这里似乎是这样论证的：既然光线以颜色为基本特征，我们就应当把这些颜色视为光线的性质或属性（尽管这些属性在任何寻常情形下都不可感知）；但这样做就要求我们把光线设想为性质的承载者，也就是说，把它们设想为本身自成一类的实体。而如果光线是实体，这就意味着我们不能同时把它们设想为任何别的东西的性质或属性。最后这一点源自当时广为接受的一种实体观念，在笛卡尔那里很容易找到[^note-7]，即：实体是那些可以独立于其他东西而存在的东西（它们能否甚至独立于上帝而存在，是另一个我们可以在此忽略的问题）。而如果我们不能把光线设想为属性或性质，那么它们就不是波，因为波是某种介质的特征——想想湖面上的波浪。牛顿的结论是：光是粒子流（他在这里确实用了“或许”一词稍作保留）。显然，哲学论证是牛顿这篇论文推理的一个重要方面，各种哲学概念亦然。一个引人深思的问题是：牛顿在这篇文字中预设了怎样一种关于“可感性质”的总观念？如果一束阳光穿过我的窗户，它在我看来呈白色，这并不削弱牛顿的观点（至少他这么认为）：这束光实际上把一系列颜色作为其“性质”包含在内。如果这些性质的存在只能借一个或多个棱镜才能探测到，而永远无法通过寻常手段（不借助仪器的知觉、眼镜、放大镜等）检视阳光而探得，它们还算“可感”的吗？这些问题很容易被我们视为典型的哲学问题。
+    step2: |-
+      牛顿在这里的论证似乎是这样的：光线既以颜色为基本特征，这些颜色就该看作光线的性质或属性（尽管在任何寻常情形下都感知不到）；可这样一来，就得把光线想成性质的承载者，也就是自成一类的实体。而光线若是实体，便不能同时又看作别的东西的性质或属性。末一点出自当时通行的实体观——在笛卡尔那里俯拾即是[^note-7]：实体者，能够脱离其他东西而独立存在者也（至于能否连上帝也脱离，那是另一个问题，此处不谈）。反过来说，光线既然不能看作属性或性质，那它就不是波——波是某种介质的形态，湖面的波浪可为譬。牛顿由此断定：光是粒子流（此处他确实用了“或许”二字，稍作保留）。可见，哲学论证是这篇论文推理的一大关节，各种哲学概念亦然。值得琢磨的是：牛顿在文中预设的“可感性质”总观念究竟是什么？一束阳光穿过我的窗户，在我看来呈白色，这并不动摇牛顿的看法（他自以为如此）：光实际上把一系列颜色作为其“性质”含在里面。可是，若这些性质只能借一面或多面棱镜探得，永远无法凭寻常手段（肉眼、眼镜、放大镜等）观察阳光而检出，它们还算“可感”吗？这类问题，很容易被我们视为典型的哲学难题。
   - id: 16
     kind: body
     source: |-
       Newton’s line of argument quoted above became one of the centerpieces of the debate that his paper generated. In some parts of his paper, when Newton wrote of the “rays” of light, he had evidently intended to remain neutral on the question of whether the rays are particles or waves (this is reminiscent of the ancient Greek practice of avoiding physical discussions of visual rays). But then towards the paper’s end, Newton added his new line of argument, which employed some philosophical analysis together with some experimental evidence to support the conclusion that rays of light cannot be waves after all. Newton’s critics pounced. This led to the first problem he encountered in response to his paper: what he calls his “theory” of light and colors was not merely rejected, but rather immediately misunderstood, at least from his own perspective. Just days after Newton’s paper was read at the Royal Society, Robert Hooke responded with a detailed letter to Oldenburg. In the first few sentences, Hooke indicates that from his point of view, Newton’s “Hypothesis of saving the phenomena of colours” essentially involves the contention that rays of light are particulate, rather than wavelike.[^note-8] Hooke argues, in contrast, that light “is nothing but a pulse or motion propagated through an homogeneous, uniform and transparent medium;” that is, he argues that light is indeed wavelike. He makes it perfectly clear, moreover, that his hypothesis—the name did not carry a negative connotation in his work—can save the phenomena of colors just as well as Newton’s, which is to say, his hypothesis is compatible with the experimental evidence Newton had gathered. Evidently, the line of argument in the passage quoted above caught Hooke’s eye. Among philosophers, he was not alone. In a letter to Huygens explaining Newton’s theory of light, Leibniz writes that Newton takes light to be a “body” propelled from the sun to the earth which, according to Leibniz, Newton takes to explain both the differential refrangibility of rays of light and the phenomena of colors.[^note-9] Since Newton had employed the concepts of substance, quality and sensible quality when concluding in his paper that light is (presumably) particulate, we are apt to regard the paper as contributing to important discussions within philosophy. After the extensive correspondence, and controversy, generated in response to Newton’s early optical views and experiments, he often threatened to avoid engaging in mathematical and philosophical disputes altogether. He insisted to friends and colleagues that he found intellectual controversy unbearable. But he never followed through with his threat to disengage from discussions in natural philosophy, sending many important letters throughout his long intellectual career.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上面引述的牛顿这条论证路线，成了他那篇论文所引发论战的中心议题之一。在论文的某些部分，牛顿写到光的“射线”时，显然有意在射线究竟是粒子还是波这个问题上保持中立（这令人想起古希腊人避免对视觉光线作物理讨论的做法）。但到了论文末尾，牛顿补入了他的新论证路线，这条路线借助一些哲学分析以及一些实验证据，来支持“光线终究不可能是波”这一结论。牛顿的批评者们立刻扑了上来。这引出了他因这篇论文而遭遇的第一个问题：他所谓的关于光与颜色的“理论”不仅被拒绝，而且立即被误解——至少从他的角度看是如此。牛顿的论文在皇家学会宣读后仅仅几天，罗伯特·胡克就写了一封详细的信给奥尔登伯格作答。在开头几句里，胡克表明：在他看来，牛顿那套“拯救颜色现象的假设”实质上主张光线是粒子性的，而非波状的。[^note-8] 胡克则论证说，光“不过是借一种同质、均匀而透明的介质传播的脉冲或运动”；也就是说，他主张光确实是波状的。而且他讲得很清楚：他的假设——这个名称在他的工作中并无贬义——能够像牛顿的假设一样好地拯救颜色现象，也就是说，他的假设与牛顿所收集的实验证据相容。显然，上述引文中的论证路线引起了胡克的注意。在哲学家中，他并非孤例。在给惠更斯解释牛顿光说的一封信中，莱布尼茨写道：牛顿把光视为一种从太阳被推送到地球的“物体”，而据莱布尼茨说，牛顿认为这既能解释光线在折射程度上的差异，也能解释颜色现象。[^note-9] 既然牛顿在论文中得出“光（大概）是粒子性的”这一结论时动用了实体、性质与可感性质等概念，我们便容易把这篇论文看作对哲学内部重要讨论的贡献。在回应牛顿早期光学观点与实验所产生的大量通信与论战之后，他常常威胁说干脆不再参与数学和哲学的争论。他向朋友与同行坚称，他觉得智识论争难以忍受。但他从未真正兑现脱离自然哲学讨论的威胁，在其漫长的智识生涯中寄出了许多重要的书信。
+    step2: |-
+      上文引的那条论证，成了这篇论文所掀论战的台柱之一。在论文某些段落里，牛顿提到光的“射线”时，显然有意在“射线是粒子还是波”这一问题上不置可否（这让人想起古希腊人回避对视觉光线作物理讨论的旧习）。可到了文末，牛顿又添上他的新论证：借几分哲学分析、几分实验证据，撑起“光线归根到底不可能是波”的结论。批评者立刻扑了上来。于是他因为这篇论文碰上了头一桩麻烦：他所谓的关于光与颜色的“理论”，不仅遭到拒斥，而且当即被误解——至少在他自己看来如此。牛顿的论文在皇家学会宣读不过数日，罗伯特·胡克便写了一封长信给奥尔登伯格。开篇几句，胡克就表明：依他之见，牛顿那套“拯救颜色现象的假设”，实质上就是主张光线为微粒而非波状。[^note-8] 胡克反过来说，光“不过是借一种同质、均匀且透明的介质传播的脉冲或运动”，也就是坚持光是波状的。他还讲得极明白：他的假设——此名在其著作中并无贬义——照样能拯救颜色现象，不输于牛顿的假设，换言之，与牛顿所收集的实验证据同样相容。可见上文那段论证，确实引起了胡克的注意。哲学家中，他并非孤例。莱布尼茨在给惠更斯解说牛顿光说的信里写道：牛顿把光看成一种自太阳推送至地球的“物体”，而据莱布尼茨的理解，牛顿用它同时解释光线折射程度的差异与颜色现象。[^note-9] 牛顿既是在动用实体、性质、可感性质这些概念之后才断定光（大概）为微粒的，我们自然容易把这篇文章看作对哲学内部重要讨论的一份贡献。牛顿早期光学观点与实验招来的大量通信与论战之后，他时常扬言要彻底退出数学与哲学的争端，向朋友同行坚称智识论争令他难以忍受；然而他从未真正兑现脱离自然哲学讨论的威胁，漫长一生中照旧寄出许多重要书信。
   - id: 17
     kind: body
     source: |-
       ## 3. Newton’s relation to Cartesianism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 牛顿与笛卡尔主义的关系
+    step2: |-
+      ## 3 牛顿与笛卡尔主义的关系
   - id: 18
     kind: body
     source: |-
