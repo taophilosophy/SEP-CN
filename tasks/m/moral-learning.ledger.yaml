@@ -172,116 +172,154 @@ segments:
     kind: body
     source: |-
       #### 1.2.1 Intentional agents
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 1.2.1 Intentional agents
+    step2: |-
+      #### 1.2.1 意向行动者
   - id: 21
     kind: body
     source: |-
       The ability to understand intentions is an important prerequisite for intent-based moral judgment. The cognitive capacities that allow us to represent intentions and goals first emerge in infancy. Within the first six months of life infants reliably distinguish agents from inanimate objects based on perceptual cues (Rakison & Poulin-Doubois 2001)[^rakison-2001]. Shortly thereafter, infants make two further distinctions that are relevant for understanding intentional agency: The first is that infants expect the *causes* of animate motion – unlike the motion of inanimate objects – to be internal to an agent (in particular, the motions do not require being initiated from the outside, Premack 1990; Saxe, Tzelnic, & Carey 2007)[^premack-1990]. The second is that infants expect the *consequences* of agents’ actions – unlike the consequences of inanimate object motion – to be determined by an agents’ intentions and goals rather than by predictable physical laws such as force and direction (Woodward 1998; Gergely & Csibra 2003)[^gergely-2003][^woodward-1998]. By 9 to 10 months of age, infants interpret agents’ behaviors with respect to goals even when agents fail to achieve those goals, which gives further evidence of a focus on intent rather than outcomes when encoding human actions (Brandone & Wellman 2009)[^brandone-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理解意图的能力，是基于意图的道德判断的重要前提。使我们能够表征意图与目标的认知能力，最先出现于婴儿期。在生命最初六个月里，婴儿就能依据知觉线索可靠地把行动者与无生命物体区分开（Rakison & Poulin-Doubois 2001）[^rakison-2001]。此后不久，婴儿又作出两种与理解意向行动相关的区分。第一，婴儿预期有生命运动的*原因*——与无生命物体的运动不同——内在于行动者（特别是，这些运动不需要由外部启动，Premack 1990; Saxe, Tzelnic, & Carey 2007）[^premack-1990]。第二，婴儿预期行动者行动的*后果*——与无生命物体运动的后果不同——由行动者的意图与目标决定，而不是由力与方向之类可预测的物理定律决定（Woodward 1998; Gergely & Csibra 2003）[^gergely-2003][^woodward-1998]。到 9 至 10 个月大，即使行动者未能实现目标，婴儿也会就其目标来解释行动者的行为，这进一步证明婴儿编码人类行动时关注的是意图而非结果（Brandone & Wellman 2009）[^brandone-2009]。
+    step2: |-
+      要看懂基于意图的道德判断，先得能读懂意图。表征意图与目标的能力，婴儿期就有了。生命最初六个月，婴儿已能凭知觉线索可靠地把行动者与无生命物体分开（Rakison & Poulin-Doubois 2001）[^rakison-2001]。再往后，婴儿又作出两项区分，都与理解意向行动有关。其一，有生命之物的运动，其*原因*被预期为内在于行动者，不像无生命物体那样需要外力启动（Premack 1990; Saxe, Tzelnic, & Carey 2007）[^premack-1990]。其二，行动者行动的*后果*，被预期为由其意图与目标决定，而不是像无生命物体那样由力、方向这类可预测的物理定律决定（Woodward 1998; Gergely & Csibra 2003）[^gergely-2003][^woodward-1998]。九到十个月，即使行动者没达到目标，婴儿也照着目标去解释其行为——可见编码人类行动时，婴儿盯的是意图，不是结果（Brandone & Wellman 2009）[^brandone-2009]。
   - id: 22
     kind: body
     source: |-
       #### 1.2.2 Social goals
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 1.2.2 Social goals
+    step2: |-
+      #### 1.2.2 社会目标
   - id: 23
     kind: body
     source: |-
       Understanding moral norms involves considering the positive (helpful) and negative (harmful) consequences of actions to others. Our moral judgments, in turn, often depend on evaluations of intentions to harm or help others. A seminal study by Hamlin et al. (2007) showed some capacity to represent social goals in pre-verbal infants 6 to 10 months of age. Hamlin and colleagues habituated infants to two displays – one agent (a circle shape with eyes) “helps” another agent achieve the goal of climbing a hill, and one agent who “hinders” the same agent in achieving the same goal (see also Kuhlmeier et al. 2003; Premack & Premack 1997)[^kuhlmeier-2003][^premack-1997]. Infants’ patterns of dishabituation suggest they encode pro- and anti-social intentions and use them to guide expectations: they expect the climber to approach the helper and avoid the hinderer. Infants’ own behavior (selective reaching to helpful, harmful, or neutral agents) suggests they approach helpers and actively avoid hinderers. Follow-up studies have found expectations about social goals, and resulting preferences for socially helpful over harmful individuals, using a variety of methods and at a range of ages within the first two years of life (for a review see Hamlin 2013)[^hamlin-2013].[^note-1]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理解道德规范，涉及考虑行动对他人的正面（有益）与负面（有害）后果。反过来，我们的道德判断也往往取决于对伤害或帮助他人之意图的评价。Hamlin 等（2007）的一项开创性研究表明，6 至 10 个月大的前语言婴儿已具备某种表征社会目标的能力。Hamlin 与同事让婴儿习惯化于两个显示：一个行动者（带眼睛的圆形）帮助另一个行动者实现爬上山坡的目标，另一个行动者则阻碍同一行动者实现同一目标（另见 Kuhlmeier et al. 2003; Premack & Premack 1997）[^kuhlmeier-2003][^premack-1997]。婴儿的去习惯化模式表明，他们编码了亲社会与反社会意图，并据此形成预期：预期爬山者会接近帮助者、避开阻碍者。婴儿自己的行为（选择性地伸手去够有帮助、有害或中立的行动者）表明，他们接近帮助者、主动避开阻碍者。后续研究采用多种方法、覆盖生命头两年多个年龄段，都发现了关于社会目标的预期，以及由此产生的对社会有益者胜于有害者的偏好（综述见 Hamlin 2013）[^hamlin-2013]。[^note-1]
+    step2: |-
+      理解道德规范，得看行动给他人带来的是好是坏。反过来，我们的道德判断也常取决于怎么评价伤害或帮助他人的意图。Hamlin 等（2007）做过一项开创性研究，显示六到十个月的前语言婴儿已有某种表征社会目标的本事。做法是先让婴儿习惯两个场景：一个行动者（带眼睛的圆形）帮另一个行动者爬上山坡，另一个行动者则百般阻挠（另见 Kuhlmeier et al. 2003; Premack & Premack 1997）[^kuhlmeier-2003][^premack-1997]。婴儿的去习惯化模式表明，他们区分了亲社会与反社会意图，并据此预判：爬坡的会凑近帮忙的，躲开挡道的。婴儿自己的选择（伸手够有帮助的、有害的或中立的行动者）也表明，他们愿意接近帮忙的、主动避开挡道的。后来用不同方法、覆盖头两年各个年龄段的研究，都发现婴儿对社会目标有预期，并由此更偏爱有益者而非有害者（综述见 Hamlin 2013）[^hamlin-2013]。[^note-1]
   - id: 24
     kind: body
     source: |-
       Beyond studies of physical harm (and helpfulness), additional work shows that infants have expectations that agents should distribute resources equally (for example, splitting items of food or toys in half as they distribute between two people: see Sommerville 2018)[^sommerville-2018]. By 15 months, infants prefer agents who intend to help but accidentally harm due to holding a false belief over agents who intend to harm but accidentally help (Woo & Spelke 2023)[^woo-2023]. These results suggest that, by the second year of life, infants’ expectations about social goals – similar to expectations about object-directed goals – are tied to intentions of agents regardless of outcomes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在身体伤害（与帮助）研究之外，还有工作表明，婴儿预期行动者应平均分配资源（例如两人分食物或玩具时对半分：见 Sommerville 2018）[^sommerville-2018]。到 15 个月大，婴儿更喜欢那些因持有错误信念而本想帮助却不慎造成伤害的行动者，而不是那些本想伤害却不慎帮了忙的行动者（Woo & Spelke 2023）[^woo-2023]。这些结果表明，到生命的第二年，婴儿关于社会目标的预期——与关于物体导向目标的预期相似——系于行动者的意图，而不论结果。
+    step2: |-
+      身体伤害（与帮助）之外，还有研究表明：婴儿预期行动者该把资源分匀（两人分食物或玩具，要对半分：见 Sommerville 2018）[^sommerville-2018]。十五个月大时，婴儿更喜欢“本想帮忙、却因误信而失手伤到人”的行动者，而不是“本想害人、却失手帮了忙”的行动者（Woo & Spelke 2023）[^woo-2023]。可见到第二年，婴儿对社会目标的预期——跟对物体导向目标的预期一样——系于意图，不看结果。
   - id: 25
     kind: body
     source: |-
       #### 1.2.3 Deontic Rules
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 1.2.3 Deontic Rules
+    step2: |-
+      #### 1.2.3 道义规则
   - id: 26
     kind: body
     source: |-
       By 3 years old, children show a striking facility with picking up deontic rules (see e.g., Cummins 1996; Harris & Núñez 1996)[^cummins-1996][^harris-1996]. In a representative task by Harris and Núñez, children were presented with a rule that was clearly arbitrary: “One day Carol wants to do some painting. Her Mum says if she does some painting she should put her helmet on” (1996, 1581). Children were shown four pictures: two pictures depicted Carol painting, one with and one without a helmet; in the other two pictures, Carol is not painting, but in one of these pictures she has a helmet on. Children were asked, “Show me the picture where Carol is being naughty and not doing what her Mum told her?” Despite the fact that the rule was unfamiliar and arbitrary, 3- and 4-year old children tend to get the right answer. They can also identify the relevant feature; when asked “What is Carol doing in that picture which is naughty?” (1581), children tend to invoke the helmet.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到 3 岁，儿童在掌握道义规则方面表现出惊人的能力（见如 Cummins 1996; Harris & Núñez 1996）[^cummins-1996][^harris-1996]。在 Harris 与 Núñez 的一个代表性任务中，儿童听到一条明显任意的规则：“有一天 Carol 想画画。她妈妈说，如果她画画，就该戴上头盔”（1996, 1581）。给儿童看四幅图：两幅画 Carol 在画画，一幅戴头盔、一幅不戴；另两幅中 Carol 没画画，其中一幅她戴着头盔。问儿童：“指给我看，哪幅图里 Carol 不听话、没照妈妈说的做？”尽管规则陌生而任意，3 岁与 4 岁儿童大多能答对。他们也能指出相关特征：问“那幅图里 Carol 在做什么不听话的事？”（1581）时，儿童往往会提到头盔。
+    step2: |-
+      三岁孩子掌握道义规则的本事很惊人（见如 Cummins 1996; Harris & Núñez 1996）[^cummins-1996][^harris-1996]。Harris 与 Núñez 有个代表性任务：给儿童一条明显任意的规则——“有一天 Carol 想画画。妈妈说，她要是画画，就得戴上头盔”（1996, 1581）。然后看四幅图：两幅画着 Carol 画画，一幅戴头盔，一幅没戴；另两幅里 Carol 没画画，其中一幅她戴着头盔。接着问：“指给我看，哪幅图里 Carol 不听话、没照妈妈说的做？”规则既陌生又任意，三四岁的孩子却大多答对。他们还能点出关键特征：问“那幅图里 Carol 干什么不听话的事了？”（1581），孩子多半会说头盔。
   - id: 27
     kind: body
     source: |-
       This facility with deontic rules is contrasted with the great difficulty posed by indicative conditionals. Harris & Núñez paired deontic conditional cases like the helmet case with parallel indicative conditional cases. In the indicative case for the helmet scenario, the experimenter says, “One day Carol wants to do some painting. Carol says that if she does some painting she always puts her helmet on” (1996, 1585). Subjects were shown the usual array of pictures and in the indicative case were asked, “Show me the picture where Carol is doing something different and not doing what she said” (1585). Both 3-year-olds and 4-year-olds did much worse with these kinds of questions than with the parallel deontic questions (see also Cummins 1996)[^cummins-1996]. Despite the close similarity between deontic and indicative conditionals, young children were much better at evaluating whether deontic conditionals were met than whether indicative conditionals were true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种掌握道义规则的能力，与直陈条件句造成的巨大困难形成对照。Harris 与 Núñez 把头盔案例这类道义条件句，与平行的直陈条件句配对。头盔情境的直陈版本是，实验者说：“有一天 Carol 想画画。Carol 说，如果她画画，她总是戴上头盔”（1996, 1585）。给被试看同样的图片组，直陈版本问：“指给我看，哪幅图里 Carol 做了不一样的事、没照她自己说的做”（1585）。3 岁与 4 岁儿童在这类问题上的表现，远逊于对应的道义问题（另见 Cummins 1996）[^cummins-1996]。尽管道义条件句与直陈条件句极为相似，幼儿在评价道义条件句是否得到满足上，比在评价直陈条件句是否为真上强得多。
+    step2: |-
+      可一换成直陈条件句，这份本事就没了。Harris 与 Núñez 把头盔那类道义条件句，配上平行的直陈条件句。直陈版里，实验者说：“有一天 Carol 想画画。Carol 说，她要是画画，就总是戴头盔”（1996, 1585）。图片照旧，问题改为：“指给我看，哪幅图里 Carol 做了不一样的事、没照她自己说的做”（1585）。三四岁孩子答这类题，远不如答道义题（另见 Cummins 1996）[^cummins-1996]。道义条件句与直陈条件句明明很像，幼儿却更擅长判断“道义条件是否被遵守”，而不是“直陈条件是否为真”。
   - id: 28
     kind: body
     source: |-
       Not only do 3-year-olds readily pick up on rules, but they also assume that rules and norms *ought* to be followed. This is seen in the increase around the third birthday in children’s motivation to follow all sorts of arbitrary actions demonstrated by adults, and their assumptions that such actions are social conventions or norms (see section 1.2.5 below). Most convincingly, 3-year-olds will act as norm *enforcers*, and will protest when others violate rules. This phenomenon of normative protest was first demonstrated by Rakoczy et al. (2008). In their study, 2- and 3-year-old children learned how to play a game with a simple rule. Children then saw a puppet state their intentions to play the game, but instead perform an action that violated the game rule. Three-year-olds protested the puppet’s action, often accompanying their protest with deontic language (“it doesn’t go like that”, “that’s not how we do it”). Two-year-olds sometimes protested, but without deontic language.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      3 岁儿童不仅容易接受规则，还假定规则与规范*应当*被遵守。这表现在：快到 3 岁时，儿童追随成人示范的各种任意动作的动机增强，并假定这类动作是社会习俗或规范（见下文 1.2.5 节）。最有说服力的是，3 岁儿童会充当规范的*执行者*，在他人违反规则时提出抗议。这种规范性抗议现象最早由 Rakoczy 等（2008）展示。研究中，2 岁与 3 岁儿童学会一个规则简单的游戏。随后儿童看到木偶说出要玩这个游戏的意图，却做出违反游戏规则的动作。3 岁儿童抗议木偶的动作，抗议时常用道义语言（“不是这样玩的”“我们不这么做”）。2 岁儿童有时也抗议，但不用道义语言。
+    step2: |-
+      三岁孩子不只是容易学会规则，还认定规则与规范*应当*遵守。快三岁时，他们模仿成人示范的种种任意动作的劲头明显上来，并认定这类动作属于社会习俗或规范（见下文 1.2.5 节）。最有说服力的是，三岁孩子会当规范*执行者*，别人犯规就抗议。Rakoczy 等（2008）最早演示了这种规范性抗议：二岁与三岁孩子先学会一个规则简单的游戏，随后看到一个木偶声称要玩游戏，做的动作却违反规则。三岁孩子当即抗议，还常带着道义口吻（“不是这样玩的”“我们不这么做”）。两岁孩子有时也抗议，但不带道义语言。
   - id: 29
     kind: body
     source: |-
       Three-year-olds’ normative understanding, as measured by protest behaviors, integrates consideration of circumstances in which others might *not* have to follow rules. For example, children do not protest if the agent states that they are choosing to opt out of the game (Racoczy et al. 2008), or if the agent is unable to follow the norm due to a physical constraint (Josephs et al. 2016)[^josephs-2016]. If the agent is a member of a different social group (out-group), children protest the agent’s violations of moral norms (harmful actions) but not conventional norms (game rules) (Schmidt et al. 2011)[^schmidt-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以抗议行为衡量，3 岁儿童的规范理解还综合了对他人可能*不必*遵守规则之情境的考虑。例如，如果行动者声明自己选择退出游戏（Racoczy et al. 2008），或因身体限制而无法遵守规范（Josephs et al. 2016）[^josephs-2016]，儿童就不抗议。如果行动者属于另一个社会群体（外群体），儿童会抗议其违反道德规范（伤害行为），但不抗议其违反习俗规范（游戏规则）（Schmidt et al. 2011）[^schmidt-2011]。
+    step2: |-
+      从抗议行为看，三岁孩子的规范理解还顾得上“别人未必非得守规矩”的情形。行动者说一声自己退出游戏（Racoczy et al. 2008），或者因身体限制守不了规范（Josephs et al. 2016）[^josephs-2016]，孩子就不抗议。行动者若是外群体成员，孩子会抗议他违反道德规范（伤害行为），却不抗议他违反习俗规范（游戏规则）（Schmidt et al. 2011）[^schmidt-2011]。
   - id: 30
     kind: body
     source: |-
       #### 1.2.4 Social Groups
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 1.2.4 Social Groups
+    step2: |-
+      #### 1.2.4 社会群体
   - id: 31
     kind: body
     source: |-
       Social groups share systems of norms, practices, beliefs, and attitudes that help regulate cooperation among group members (Chudek & Henrich 2011; Tomasello 2019)[^chudek-2011][^tomasello-2019]. The understanding of social groups, and a sense of one’s own group identity or belonging to a group, have been theorized to serve as a motivation for individuals to conform with social and moral norms (see SEP entry “Social Norms”). As a potential starting state for social group cognition, infants have been shown to demonstrate homophily – a tendency to prefer similar others – based on exposure to and familiarity with facial features or languages (Kelly et al. 2005; Bar Haim et al. 2006; Kinzler et al. 2007)[^kelly-2005][^kinzler-2007]. Infants also have expectations of homophily in other agents: they expect, for example, for agents who are similar to each other to like each other, to share food preferences, and to act in similar ways (Liberman et al. 2021)[^liberman-2021]. Homophily has early implications for social learning. Infants prefer to eat new foods when those foods are eaten by someone who speaks the same language (Shutts et al. 2009)[^shutts-2009]; infants also preferentially imitate members of their social group (Over & Carpenter 2012)[^over-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      社会群体共享规范、实践、信念与态度体系，这些体系有助于调节群体成员之间的合作（Chudek & Henrich 2011; Tomasello 2019）[^chudek-2011][^tomasello-2019]。有理论认为，对社会群体的理解以及对自己群体身份或群体归属的意识，可以作为个体遵从社会与道德规范的动机（见 SEP 词条“社会规范”）。作为社会群体认知的一种可能起始状态，婴儿已被证明会表现出同质性偏好——一种偏爱相似他者的倾向——其基础是接触与熟悉面部特征或语言（Kelly et al. 2005; Bar Haim et al. 2006; Kinzler et al. 2007）[^kelly-2005][^kinzler-2007]。婴儿也预期其他行动者具有同质性偏好：例如，他们预期彼此相似的行动者会相互喜欢、共享食物偏好、并以相似方式行动（Liberman et al. 2021）[^liberman-2021]。同质性偏好对社会学习有早期影响。婴儿更愿意吃某种新食物，如果吃它的人说同一种语言（Shutts et al. 2009）[^shutts-2009]；婴儿也更愿意模仿自己社会群体的成员（Over & Carpenter 2012）[^over-2012]。
+    step2: |-
+      社会群体共享一套规范、实践、信念与态度，用来调节成员间的合作（Chudek & Henrich 2011; Tomasello 2019）[^chudek-2011][^tomasello-2019]。有理论认为，理解社会群体、知道自己属于哪个群体，能促使个体遵从社会与道德规范（见 SEP 词条“社会规范”）。作为社会群体认知的可能起点，婴儿已显出同质性偏好——偏爱跟自己相似的人——依据是面孔特征或语言的接触与熟悉（Kelly et al. 2005; Bar Haim et al. 2006; Kinzler et al. 2007）[^kelly-2005][^kinzler-2007]。婴儿也会预期别人如此：彼此相像的行动者应当互相喜欢、口味相近、行事相似（Liberman et al. 2021）[^liberman-2021]。这种偏好很早就影响社会学习：一种新食物，若由说同种语言的人来吃，婴儿就更愿尝（Shutts et al. 2009）[^shutts-2009]；婴儿也更爱模仿本群体成员（Over & Carpenter 2012）[^over-2012]。
   - id: 32
     kind: body
     source: |-
       As further evidence that social group cognitions emerge early, identification with social “ingroups” – and deidentification with social “outgroups” – can be induced in preschool age children using experimental “minimal groups” paradigms in the lab (Dunham et al. 2011)[^dunham-2011]. Moreover, even minimal group affiliations can lead children to view their own group members as having more positive characteristics, as more trustworthy, and as more deserving of fair and moral treatment than outgroups (McAuliffe & Dunham 2016)[^mcauliffe-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为社会群体认知早期出现的进一步证据，学前儿童在实验室里用实验性“最小群体”范式，就能被诱导出对社会“内群体”的认同——以及对“外群体”的去认同（Dunham et al. 2011）[^dunham-2011]。此外，即便只是最小群体归属，也能让儿童觉得本群体成员具有更多正面特征、更值得信任、更有资格获得公平与道德对待（McAuliffe & Dunham 2016）[^mcauliffe-2016]。
+    step2: |-
+      还有证据表明社会群体认知出现得早：在实验室里用“最小群体”范式，就能让学前儿童认同“内群体”、疏离“外群体”（Dunham et al. 2011）[^dunham-2011]。而且，哪怕只是这种最小的群体归属，也足以让儿童觉得本群体成员人品更好、更可信、更该受到公平与道德的对待（McAuliffe & Dunham 2016）[^mcauliffe-2016]。
   - id: 33
     kind: body
     source: |-
       Preschoolers show an early tendency to link social group affiliation to normative and moral behavior. Roberts and colleagues (2017) taught preschoolers about two novel social groups (a group of “Hibbles” and a group of “Glerks”) and described the behavior of one of the groups in generic terms (e.g. “Hibbles eat yellow berries”). Children as young as 4 took these descriptions of the behavior as suggestive of prescriptive norms that distinguished the groups from each other and evaluated non-conforming group members negatively (e.g. Hibbles *should* eat yellow berries). Social group information also influences preschoolers’ moral judgments. Rhodes & Chalik (2013) introduced 3- to 9-year-olds to two novel categories (“Flurps” and “Zazzes”). Children as young as 3 years old judged harm to be impermissible independent of any extrinsic rules *only* when the harm was inflicted by one group member on another. The authors suggest “social categories as marking patterns of intrinsic interpersonal obligations” (2013, 1003) that extend beyond conventions and rules.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      学前儿童很早就把社会群体归属与规范行为、道德行为联系起来。Roberts 等（2017）教学前儿童认识两个新群体（“Hibbles”群体与“Glerks”群体），并用泛化措辞描述其中一个群体的行为（如“Hibbles 吃黄浆果”）。年仅 4 岁的儿童就把这些行为描述当作能区分两群体的规范性规定，并对不符合的成员作负面评价（如认为 Hibbles *应当*吃黄浆果）。社会群体信息也影响学前儿童的道德判断。Rhodes & Chalik（2013）向 3 至 9 岁儿童介绍两个新类别（“Flurps”与“Zazzes”）。年仅 3 岁的儿童判定，只有当伤害发生在一个群体成员对另一成员之间时，伤害才在没有任何外在规则的情况下也不被允许。作者提出，“社会类别标示着内在人际义务的模式”（2013, 1003），这些义务超出习俗与规则。
+    step2: |-
+      学前儿童很早便把群体归属同规范行为、道德行为挂钩。Roberts 等（2017）教孩子认识两个新群体（“Hibbles”与“Glerks”），并用泛泛的说法描述其中一个群体的行为（如“Hibbles 吃黄浆果”）。四岁的孩子就把这类描述当成区分两群体的规范要求，对不合者评价很低（觉得 Hibbles *应当*吃黄浆果）。群体信息也影响学前儿童的道德判断。Rhodes & Chalik（2013）给三到九岁孩子介绍两个新类别（“Flurps”与“Zazzes”）。三岁孩子就判定：即使没有任何外在规则，伤害也不被允许——但*仅*当伤害发生在本群体成员之间时。作者说，“社会类别标示着内在人际义务的模式”（2013, 1003），这种义务超出习俗与规则。
   - id: 34
     kind: body
     source: |-
       #### 1.2.5 Early social (moral) behavior
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 1.2.5 Early social (moral) behavior
+    step2: |-
+      #### 1.2.5 早期社会（道德）行为
   - id: 35
     kind: body
     source: |-
       The previous sections review the ways in which infants interpret their social world from the beginning of life, setting the stage for moral learning that is based on observations of others’ behavior. But infants also learn by doing; they act and make decisions. Their decisions can result from observations of others (imitation), can be motivated by their nascent conceptions of what is helpful or fair (prosocial motives), and/or can be motivated by what they think one ought to do (normative motives). Moral agency and moral learning are in a cycle of feedback: young moral learners’ actions and decisions result from their current state of moral knowledge and self-regulatory skill. In turn, their actions are subject to corrective feedback and guidance from their moral teachers (peers, older peers, adults), resulting in further learning.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      前面几节回顾了婴儿从生命之初解释社会世界的方式，这为以观察他人行为为基础的道德学习搭好了台。但婴儿也边做边学：他们行动、作决定。他们的决定可能来自对他人行为的观察（模仿），可能由他们初步的帮助或公平观念驱动（亲社会动机），也可能由他们认为人应当做什么驱动（规范动机）。道德能动性与道德学习处于反馈循环中：年幼道德学习者的行动与决定，源于他们当前的道德知识状态与自我调节技能；反过来，他们的行动又受道德教师（同伴、年长同伴、成人）的纠正性反馈与引导，从而带来进一步的学习。
+    step2: |-
+      前几节讲的是婴儿如何从一开始就解读社会世界，这为“看别人怎么做”的道德学习铺了路。但婴儿也边做边学：会行动，也会选择。选择可能来自观察他人（模仿），可能出于初萌的帮助或公平观念（亲社会动机），也可能出于“人应当如何”的想法（规范动机）。道德能动性与道德学习互为循环：孩子的行动与选择，出自他当下的道德知识与自我调节本领；反过来，这些行动又受道德教师（同伴、大孩子、成人）的纠正与指点，于是学得更多。
   - id: 36
     kind: body
     source: |-
       The earliest prosocial behaviors emerge in concert with emotional and cognitive developments discussed above. Notably, the capacity to understand intentions combines with empathic concern to inform early prosocial behavior, especially helping, comforting, and sharing (Paulus 2014)[^paulus-2014]. For example, toddlers will go out of their way to remove obstacles or obtain out-of-reach objects if such actions help another person accomplish their goals (Dunfield et al. 2011; Warneken & Tomasello 2006; Svetlova et al. 2010)[^dunfield-2011][^svetlova-2010][^warneken-2006]. The understandings of fairness (equitable resource allocation) which emerge in the second year of life correlate with infants’ own sharing behavior: infants who themselves share expect others to share. These and other examples suggest early ties between moral cognition and prosocial action.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最早的亲社会行为，与上文讨论的情感与认知发展一同出现。值得注意的是，理解意图的能力与共情关切结合，共同塑造早期亲社会行为，尤其是帮助、安慰与分享（Paulus 2014）[^paulus-2014]。例如，如果某举动能帮别人达成目标，幼儿会特意去移开障碍，或取来够不着的东西（Dunfield et al. 2011; Warneken & Tomasello 2006; Svetlova et al. 2010）[^dunfield-2011][^svetlova-2010][^warneken-2006]。生命第二年出现的公平理解（资源均分），与婴儿自己的分享行为相关：自己愿意分享的婴儿，也预期别人分享。这些例子以及其他例子表明，道德认知与亲社会行动之间早有联系。
+    step2: |-
+      最早的亲社会行为，跟前面说的情感、认知发展一块儿冒出来。看得出，理解意图的本事与共情关切一联手，就成了早期亲社会行为的推手，尤其是帮助、安慰与分享（Paulus 2014）[^paulus-2014]。比如，只要某个举动能帮别人达成目标，幼儿会特意绕过去挪开障碍、取来够不着的东西（Dunfield et al. 2011; Warneken & Tomasello 2006; Svetlova et al. 2010）[^dunfield-2011][^svetlova-2010][^warneken-2006]。第二年出现的公平观念（资源均分），跟婴儿自己的分享行为对得上：肯分享的孩子，也指望别人分享。这类例子说明，道德认知与亲社会行动很早就牵上了手。
   - id: 37
     kind: body
     source: |-
       Understanding intentional agency also allows for social learning through imitation. Infants in the second year of life are motivated to imitate what they perceive to be the intentions of a demonstrator, rather than an exact copy of their body movements (Melzoff 1995; Carpenter et al. 1998)[^carpenter-1998], and they imitate what they infer to be a demonstrator’s goal even if the attempt is unsuccessful (Melzoff 1995; Gergeley et al. 2002).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理解意向行动，还使通过模仿进行的社会学习成为可能。生命第二年的婴儿，动机在于模仿他们所理解的示范者意图，而不是精确复制其身体动作（Melzoff 1995; Carpenter et al. 1998）[^carpenter-1998]；即便示范者的尝试未成功，他们也会模仿所推断的示范者目标（Melzoff 1995; Gergeley et al. 2002）。
+    step2: |-
+      读懂意向行动，还打开了靠模仿学习的大门。第二年的婴儿，模仿的是他理解的示范者意图，而不是照搬人家的身体动作（Melzoff 1995; Carpenter et al. 1998）[^carpenter-1998]；哪怕示范者没做成，婴儿也会照自己推断的目标去模仿（Melzoff 1995; Gergeley et al. 2002）。
   - id: 38
     kind: body
     source: |-
       Importantly for moral learning, by age 3 children assume that adults have *pedagogical goals* when they act intentionally (Bonawitz et al. 2011)[^bonawitz-2011]. The result is the phenomenon of “overimitation” – or a tendency to imitate arbitrary sequences of actions that have no instrumental value (Lyons et al. 2007)[^lyons-2007]. Studies have shown that by 3 years of age children infer that adults who intentionally perform instrumentally irrelevant actions are in fact intending to teach something socially relevant, and thus children will imitate these actions as a form of norm learning (Kenward et al. 2011)[^kenward-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对道德学习重要的是，到 3 岁，儿童假定成人有意行动时抱有*教学意图*（Bonawitz et al. 2011）[^bonawitz-2011]。其结果就是“过度模仿”现象——倾向于模仿没有工具价值的任意动作序列（Lyons et al. 2007）[^lyons-2007]。研究表明，到 3 岁，儿童推断有意做出与工具目的无关动作的成人，其实想教某种社会相关的东西，因此儿童会模仿这些动作，作为规范学习的一种形式（Kenward et al. 2011）[^kenward-2011]。
+    step2: |-
+      对道德学习要紧的是：三岁孩子假定，成人有意做某个动作时，怀的是*教学意图*（Bonawitz et al. 2011）[^bonawitz-2011]。于是就有了“过度模仿”：孩子会照抄一串毫无工具用途的任意动作（Lyons et al. 2007）[^lyons-2007]。研究发现，三岁孩子会推断：成人有意做这些与目的无关的动作，其实是想教点社会性的东西；因此孩子照做，当作规范学习（Kenward et al. 2011）[^kenward-2011]。
   - id: 39
     kind: body
     source: |-
