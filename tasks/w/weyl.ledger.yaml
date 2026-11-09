@@ -1876,171 +1876,249 @@ segments:
     kind: body
     source: |-
       A metric manifold is a manifold on which a distance function $f : M \times M \rightarrow \mathbb{R}$ is defined. Such a distance function must satisfy the following minimal conditions: for all $p, q, r \in M$,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      度量流形是定义了一个距离函数 $f : M \times M \rightarrow \mathbb{R}$ 的流形。这样的距离函数必须满足下列最低条件：对一切 $p, q, r \in M$，
+    step2: |-
+      度量流形者，乃定义了距离函数 $f : M \times M \rightarrow \mathbb{R}$ 的流形。此距离函数须满足以下最低条件：对一切 $p, q, r \in M$，
   - id: 212
     kind: body
     source: |-
       1. $f(p, q) \ge 0$, and if $f(p,q) = 0$, then $p = q$,
       2. $f(p, q) = f(q,p)$, (symmetry)
       3. $f(p, q) + f(q,r) \ge f(p,r)$ (triangle inequality).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $f(p, q) \ge 0$，且若 $f(p,q) = 0$，则 $p = q$，
+      2. $f(p, q) = f(q,p)$，（对称性）
+      3. $f(p, q) + f(q,r) \ge f(p,r)$（三角不等式）。
+    step2: |-
+      1. $f(p, q) \ge 0$，且若 $f(p,q) = 0$，则 $p = q$；
+      2. $f(p, q) = f(q,p)$（对称性）；
+      3. $f(p, q) + f(q,r) \ge f(p,r)$（三角不等式）。
   - id: 213
     kind: body
     source: |-
       In his famous inaugural lecture at Göttingen, entitled *Über die Hypothesen, welche der Geometrie zu* *Grunde liegen* (*About the hypotheses which lie at the basis of geometry*), Riemann (1854) examined how metric relations can be determined on a continuous manifold; that is, what specific form $f : M \times M \rightarrow \mathbb{R}$ should have. Consider the coordinates $x^{i}(p)$ and $x^{i} (p) + dx^{i} (p)$ of two neighboring points $p, q \in M$. The measure of the distance $ds = f(p,q)$ must be some function $F_{p}$ at $p$ of the differential increments $dx^{i}(p)$; that is,
 
       $$\tag{22} ds = F_{p}(dx^{1}(p), \ldots ,dx^{n}(p)). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其著名的哥廷根就职演讲《论几何学基础所依据的假设》（*Über die Hypothesen, welche der Geometrie zu* *Grunde liegen*，即 *About the hypotheses which lie at the basis of geometry*）中，黎曼（1854）考察了度量关系如何在连续流形上被确定；也就是说，$f : M \times M \rightarrow \mathbb{R}$ 应当具有何种具体形式。考虑两个相邻点 $p, q \in M$ 的坐标 $x^{i}(p)$ 与 $x^{i} (p) + dx^{i} (p)$。距离的度量 $ds = f(p,q)$ 必定是微分增量 $dx^{i}(p)$ 在 $p$ 处的某个函数 $F_{p}$；亦即
+
+      $$\tag{22} ds = F_{p}(dx^{1}(p), \ldots ,dx^{n}(p)). $$
+    step2: |-
+      黎曼（1854）在其哥廷根就职讲演《论几何学基础所依据的假设》（*Über die Hypothesen, welche der Geometrie zu* *Grunde liegen*，即 *About the hypotheses which lie at the basis of geometry*）中，考察度量关系如何在连续流形上被确定，即 $f : M \times M \rightarrow \mathbb{R}$ 当具何种具体形式。设相邻两点 $p, q \in M$ 之坐标为 $x^{i}(p)$ 与 $x^{i} (p) + dx^{i} (p)$。距离之度量 $ds = f(p,q)$ 必为微分增量 $dx^{i}(p)$ 在 $p$ 处之某函数 $F_{p}$；即
+
+      $$\tag{22} ds = F_{p}(dx^{1}(p), \ldots ,dx^{n}(p)). $$
   - id: 214
     kind: body
     source: |-
       Riemann states that $F_{p}$ should satisfy the following requirements:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      黎曼陈述说，$F_{p}$ 应当满足下列要求：
+    step2: |-
+      黎曼称 $F_{p}$ 当满足以下要求：
   - id: 215
     kind: body
     source: |-
       **Functional Homogeneity:** If $\lambda \gt 0$ and $ds = F_{p}(dx(p))$, then
 
       $$\tag{23} \lambda ds = \lambda F_{p}(dx(p)) = F_{p}(\lambda dx(p)). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **函数齐性：** 若 $\lambda \gt 0$ 且 $ds = F_{p}(dx(p))$，则
+
+      $$\tag{23} \lambda ds = \lambda F_{p}(dx(p)) = F_{p}(\lambda dx(p)). $$
+    step2: |-
+      **函数齐性：** 若 $\lambda \gt 0$ 而 $ds = F_{p}(dx(p))$，则
+
+      $$\tag{23} \lambda ds = \lambda F_{p}(dx(p)) = F_{p}(\lambda dx(p)). $$
   - id: 216
     kind: body
     source: |-
       **Sign Invariance:** A change in sign of the differentials should leave the value of $ds$ invariant.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **符号不变性：** 微分的符号改变应当使 $ds$ 的值保持不变。
+    step2: |-
+      **符号不变性：** 微分变号，而 $ds$ 之值不变。
   - id: 217
     kind: body
     source: |-
       Sign invariance is satisfied by every positive homogeneous function of degree $2m$ $(m = 1, 2, 3, \ldots)$. In the simple case $m = 1$, and the length element $ds$ is the square root of a homogeneous function of second degree, which can be expressed in the standard form
 
       $$\tag{24} ds = \left[ \sum_{i=1}^n (dx^{\,i}(p))^{2} \right]^{\bfrac{1}{2}}. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      符号不变性为每一个 $2m$ 次正齐性函数所满足（$m = 1, 2, 3, \ldots$）。在 $m = 1$ 这一简单情形下，线元 $ds$ 是一个二次齐性函数的平方根，它可以被表述为标准形式
+
+      $$\tag{24} ds = \left[ \sum_{i=1}^n (dx^{\,i}(p))^{2} \right]^{\bfrac{1}{2}}. $$
+    step2: |-
+      凡 $2m$ 次正齐性函数（$m = 1, 2, 3, \ldots$）皆满足符号不变性。就 $m = 1$ 这一简单情形而言，线元 $ds$ 乃某二次齐性函数之平方根，可表为标准形
+
+      $$\tag{24} ds = \left[ \sum_{i=1}^n (dx^{\,i}(p))^{2} \right]^{\bfrac{1}{2}}. $$
   - id: 218
     kind: body
     source: |-
       That is, at each point of $M$ there exists a coordinate system (defined up to an element of the orthogonal group $O(n)$ in which the square root of the homogeneous function of second degree can be expressed in the above standard form. Riemann’s well-known general expression for the measure of length at $p \in M$ with respect to an arbitrary coordinate system is given by
 
       $$\tag{25} ds^{2} = g_{ij}(x(p))dx^{i}(p)dx^{\,j}(p), $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也就是说，在 $M$ 的每一点都存在一个坐标系（在正交群 $O(n)$ 的一个元素的意义上确定），在其中该二次齐性函数的平方根可以被表述为上述标准形式。黎曼关于 $p \in M$ 处长度度量相对于任意坐标系的著名一般表达式由下式给出
+
+      $$\tag{25} ds^{2} = g_{ij}(x(p))dx^{i}(p)dx^{\,j}(p), $$
+    step2: |-
+      即是说，于 $M$ 之每一点皆存在一坐标系（在正交群 $O(n)$ 之一元素的意义上确定），其中该二次齐性函数之平方根可表为上述标准形。黎曼关于 $p \in M$ 处长度度量相对于任意坐标系的一般表达式，即
+
+      $$\tag{25} ds^{2} = g_{ij}(x(p))dx^{i}(p)dx^{\,j}(p), $$
   - id: 219
     kind: body
     source: |-
       where the components of the metric tensor satisfy the symmetry condition $g_{ij} = g_{ji}$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中度规张量的分量满足对称条件 $g_{ij} = g_{ji}$。
+    step2: |-
+      式中度规张量之分量满足对称条件 $g_{ij} = g_{ji}$。
   - id: 220
     kind: body
     source: |-
       The assumption that $ds^{2} = F^{2}_{p}$ is a quadratic differential form is not only the simplest one, but also the preferred one for other important reasons. Riemann himself was well aware of other possibilities; for example, the possibility that $ds$ could be the 4th root of a homogeneous polynomial of 4th order in the differentials. But Riemann restricted himself to the special case $m = 1$ because he was pressed for time and because he wanted to give specific geometric interpretations of his results. As Weyl points out Riemann’s own answer to the space problem is inadequate since Riemann’s mathematical justification for the restriction to the Pythagorean case are not very compelling. The first satisfactory justification of the Pythagorean form of the Riemannian metric, although limited in scope because it presupposed the full homogeneity of Euclidean space, was provided by the investigations of Hermann von Helmholtz. Helmholtz diverged from Riemann’s analytic approach and made use merely of the fundamental concept of geometry, namely, the concept of *congruent mapping*, and characterized the geometric structure of space by requiring of space the full homogeneity of Euclidean space. His analysis was thereby restricted to the cases of constant positive, zero, or negative curvature. Abstracting from our experience of the movement of rigid bodies, Helmholtz was able to mathematically derive Riemann’s distance formula from a number of axioms about rigid body motion in space. Helmholtz (1868) argued that Riemann’s hypothesis that the metric structure of space is determined locally by a quadratic differential form, is really a consequence of the facts (*Tatsachen*) of rigid-body motion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假定 $ds^{2} = F^{2}_{p}$ 是一个二次微分形式，这不仅是最简单的假定，而且出于其他重要理由也是最可取的。黎曼本人深知还有别的可能性；例如，$ds$ 可以是微分的一个四次齐次多项式的四次方根。但黎曼把自己限于 $m = 1$ 这一特例，因为他时间紧迫，而且他想为自己的结果给出具体的几何解释。正如外尔所指出的，黎曼本人对空间问题的回答并不充分，因为黎曼为限制于毕达哥拉斯情形所作的数学辩护并不很有说服力。对黎曼度规之毕达哥拉斯形式的第一个令人满意的辩护，是由赫尔曼·冯·赫尔姆霍兹的研究提供的——尽管其范围有限，因为它预设了欧几里得空间的完全齐性。赫尔姆霍兹偏离了黎曼的分析进路，而仅仅利用几何学的基本概念，即*全等映射*的概念，并通过要求空间具有欧几里得空间的完全齐性来刻画空间的几何结构。他的分析因而被限制在常正曲率、零曲率或常负曲率的情形。从我们对刚体运动的经验中抽象出来，赫尔姆霍兹得以从若干关于空间中刚体运动的公理出发，数学地导出黎曼的距离公式。赫尔姆霍兹（1868）论证说，黎曼关于空间度量结构由二次微分形式局部决定的假设，实际上是刚体运动的种种事实（*Tatsachen*）的一个推论。
+    step2: |-
+      假定 $ds^{2} = F^{2}_{p}$ 为二次微分形式，不但最为简单，且出于其他重要理由亦最可取。黎曼本人深知尚有他说：例如 $ds$ 可为微分之四次齐次多项式的四次方根。然他自限于 $m = 1$ 之特例，一因时间迫促，一因其欲为所得结果给出具体的几何解释。如外尔所指出，黎曼本人对空间问题之答案并不充分——其为限制于毕达哥拉斯情形所作之数学辩护，说服力甚弱。对黎曼度规之毕达哥拉斯形式的第一个令人满意的辩护，出于赫尔曼·冯·赫尔姆霍兹的研究；然其范围有限，盖预设了欧氏空间之完全齐性。赫尔姆霍兹不循黎曼之分析进路，而仅用几何学之基本概念即*全等映射*，并以要求空间具欧氏空间之完全齐性来刻画空间之几何结构，其分析遂限于常正、零、常负三种曲率。赫尔姆霍兹自吾人关于刚体运动之经验抽象而出，得以从若干关于空间刚体运动之公理，数学地导出黎曼之距离公式。赫尔姆霍兹（1868）论曰：黎曼“空间度量结构由二次微分形式局部决定”之假设，实乃刚体运动之诸事实（*Tatsachen*）之推论。
   - id: 221
     kind: body
     source: |-
       Considering the general case of $n$ dimensions, and using Lie groups and Lie algebras, Sophus Lie, (Lie (1886/1935, 1890a,b)), later developed and improved Helmholtz’s justification. However, the Helmholtz-Lie treatment of, and solution to, the problem of space, lost its relevance with the arrival of Einstein’s theory of general relativity. As Weyl (1922b) points out, instead of a three-dimensional continuum we must now consider a four-dimensional continuum, the metric of which is not *positive definite* but is given instead by an *indefinite* quadratic form. In addition, Helmholtz’s presupposition of metric homogeneity no longer holds, since we are now dealing with an inhomogeneous metric field that causally depends on the distribution of matter. Consequently, Weyl provided a reformulation of the space problem that is compatible with the causal and metric structures postulated by the theory of general relativity. But Weyl went further. Such a reformulation should not only incorporate Riemann’s *infinitesimal* standpoint, as required by Einstein’s general theory, it should also cohere with Weyl’s requirements of a **pure***infinitesimal geometry* developed earlier in the context of Weyl’s construction of a unified field theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑到 $n$ 维的一般情形，并运用李群与李代数，索福斯·李（Lie (1886/1935, 1890a,b)）后来发展并改进了赫尔姆霍兹的辩护。然而，赫尔姆霍兹—李对空间问题的处理与解决，随着爱因斯坦广义相对论的到来而失去了其相关性。正如外尔（1922b）所指出的，我们现在必须考虑的不再是一个三维连续统，而是一个四维连续统，其度规不是*正定的*，而是由一种*不定的*二次型给出的。此外，赫尔姆霍兹关于度量齐性的预设不再成立，因为我们此时面对的是一个非齐性的度规场，它因果地依赖于物质的分布。因此，外尔对空间问题提供了一个重新表述，它与广义相对论所设定的因果结构与度量结构相容。但外尔走得还要远。这样一种重新表述不仅应当纳入黎曼的*无穷小*立场（这是爱因斯坦广义相对论所要求的），还应当与外尔早先在构造统一场论的语境中发展出的**纯粹的***无穷小几何*的要求相一致。
+    step2: |-
+      虑及 $n$ 维之一般情形，索福斯·李（Lie (1886/1935, 1890a,b)）复以李群李代数发展并改进赫尔姆霍兹之辩护。然赫尔姆霍兹—李对空间问题之处理与解决，随爱因斯坦广义相对论之兴而失其切要。如外尔（1922b）所指出：今所当虑者非三维连续统，而为四维连续统，其度规非*正定*，乃由*不定*二次型给出。且赫尔姆霍兹度量齐性之预设已不复成立——今所对者乃一非齐性度规场，因果地系于物质之分布。职是之故，外尔为空间问题另立一表述，以与广义相对论所设的因果结构与度量结构相合。然外尔所至犹不止此：此表述不惟当纳入黎曼的*无穷小*立场（广义相对论所要求者），亦当与外尔早先于构造统一场论之语境中提出的**纯粹的***无穷小几何*之要求相契合。
   - id: 222
     kind: body
     source: |-
       More precisely, Weyl generalized the so-called *Riemann-Helmholtz-Lie* problem of space in two ways: First, he allowed for *indefinite metrics* in order to encompass the general theory of relativity. Secondly, he considered metrics with variable gauge $\lambda(x(p))$ together with an associated *length connection*, in order to obtain a *purely* infinitesimal geometry. Thus each member of a general class of geometries under consideration is locally determined relative to a choice of variable gauge by two structural fields (Strukturfelder): (1) a possibly indefinite *Finsler* metric field[^note-57] $F_{p}(dx)$, and (2) a *length connection* that is determined by a 1-form field $\theta_{i}dx^{i}$. Weyl’s task was to prove:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更确切地说，外尔以两种方式推广了所谓的*黎曼—赫尔姆霍兹—李*空间问题：第一，他容许*不定度规*，以囊括广义相对论；第二，他考虑带有可变规范 $\lambda(x(p))$ 的度规以及与之相联系的*长度联络*，以获得一种*纯粹*无穷小的几何。于是，所考虑的一般几何类中的每一个成员，都在相对于某个可变规范选择的意义上，由两个结构场（Strukturfelder）局部地确定：(1) 一个可能不定的*芬斯勒*度规场[^note-57] $F_{p}(dx)$，以及 (2) 一个由一形式场 $\theta_{i}dx^{i}$ 确定的*长度联络*。外尔的任务在于证明：
+    step2: |-
+      更确切地说，外尔以二途推广所谓*黎曼—赫尔姆霍兹—李*空间问题：其一，容许*不定度规*，以涵盖广义相对论；其二，考虑带可变规范 $\lambda(x(p))$ 的度规并辅以相应之*长度联络*，以求一种*纯粹*无穷小几何。如是，所论一般几何类之每一成员，相对于某一可变规范之选择，皆由两个结构场（Strukturfelder）局部确定：(1) 或为不定的*芬斯勒*度规场[^note-57] $F_{p}(dx)$，(2) 由一形式场 $\theta_{i}dx^{i}$ 所定之*长度联络*。外尔之任务在于证明：
   - id: 223
     kind: body
     source: |-
       > If the geometry satisfies the *Postulate of Freedom*, (the nature of space imposes no restrictions on admissible metrical relations), and determines a unique, symmetric, linear connection $\Gamma$, then the Finsler metric field $F_{p}(dx)$ must be a Riemannian metric field of some signature.[^note-58]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 若该几何满足*自由公设*（空间的性态不对可容许的度量关系施加任何限制），并确定一个唯一的、对称的线性联络 $\Gamma$，那么芬斯勒度规场 $F_{p}(dx)$ 必定是某种符号差的黎曼度规场。[^note-58]
+    step2: |-
+      > 若此几何满足*自由公设*（空间之性态对可容许的度量关系不施加任何限制），并确定唯一的、对称的线性联络 $\Gamma$，则芬斯勒度规场 $F_{p}(dx)$ 必为具某种符号差的黎曼度规场。[^note-58]
   - id: 224
     kind: body
     source: |-
       In a Riemannian space the concept of parallel displacement is defined by two conditions:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在黎曼空间中，平行位移的概念由两个条件定义：
+    step2: |-
+      黎曼空间中，平行位移之概念由两个条件界定：
   - id: 225
     kind: body
     source: |-
       1. The components of a vector remain unchanged during an infinitesimal parallel displacement in a suitably chosen coordinate system (geodesic coordinate).[^note-59] This condition is satisfied if $$\begin{matrix} dv^{\,i}_{p} = - \Gamma^{i}_{jk} v^{\,j}_{p} dx^{k}_{p} & \text{and} & \Gamma^{i}_{jk} = \Gamma^{i}_{kj}\,. \end{matrix}$$
       2. The length of a vector remains unchanged during an infinitesimal parallel displacement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 在一个适当选定的坐标系（测地坐标系）中，向量的分量在无穷小平行位移期间保持不变。[^note-59] 只要 $$\begin{matrix} dv^{\,i}_{p} = - \Gamma^{i}_{jk} v^{\,j}_{p} dx^{k}_{p} & \text{and} & \Gamma^{i}_{jk} = \Gamma^{i}_{kj}\,. \end{matrix}$$ 该条件即得到满足。
+      2. 向量的长度在无穷小平行位移期间保持不变。
+    step2: |-
+      1. 于适当选定之坐标系（测地坐标系）中，向量之分量在无穷小平行位移时不改。[^note-59] 此条件为 $$\begin{matrix} dv^{\,i}_{p} = - \Gamma^{i}_{jk} v^{\,j}_{p} dx^{k}_{p} & \text{and} & \Gamma^{i}_{jk} = \Gamma^{i}_{kj}\,. \end{matrix}$$ 所满足。
+      2. 向量之长度在无穷小平行位移时不变。
   - id: 226
     kind: body
     source: |-
       It follows from these conditions that a Riemannian space possesses a definite symmetric linear connection—a symmetric linear *metric* connection[^note-60]—which is uniquely determined by the Pythagorean-Riemannian metric. Weyl calls this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由这些条件可推出：黎曼空间具有一个确定的对称线性联络——一个对称线性的*度量*联络[^note-60]——它由毕达哥拉斯—黎曼度规唯一确定。外尔称之为：
+    step2: |-
+      由是可知：黎曼空间具一确定的对称线性联络——对称线性之*度量*联络[^note-60]——由毕达哥拉斯—黎曼度规唯一确定。外尔名之曰：
   - id: 227
     kind: body
     source: |-
       **The Fundamental Postulate of Riemannian Geometry:** Among the *possible* systems of parallel displacements of a vector to infinitely near points, that is among the *possible*sets of symmetric linear connection coefficients, there exists one and only one set, and hence one and only one system of parallel displacement, which is *length preserving*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **黎曼几何的基本公设：** 在把向量平行位移到无穷接近点的*可能*系统之中，也就是在诸组对称线性联络系数的*可能*集合之中，存在且仅存在一组，因而存在且仅存在一个*保长的*平行位移系统。
+    step2: |-
+      **黎曼几何之基本公设：** 在将向量平行位移至无穷邻近点的*可能*系统之中，即在诸组对称线性联络系数之*可能*集合之中，有且仅有一组，因而有且仅有一个平行位移系统，是*保长的*。
   - id: 228
     kind: body
     source: |-
       In his lectures[^note-61] on the mathematical analysis of the problem of space delivered in 1922 at Barcelona and Madrid, Weyl sketched a proof demonstrating that the following is also true:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在他 1922 年于巴塞罗那与马德里所作的关于空间问题之数学分析的讲座中[^note-61]，外尔勾勒了一个证明，表明下述命题同样成立：
+    step2: |-
+      外尔 1922 年于巴塞罗那与马德里讲演空间问题之数学分析[^note-61]，其中勾画一证，以明下述命题亦成立：
   - id: 229
     kind: body
     source: |-
       **Uniqueness of the Pythagorean-Riemannian Metric:** Among all the possible infinitesimal metrics that can be put on a differentiable manifold, the Pythagorean-Riemannian metric is the only type of metric that uniquely determines a symmetric linear connection.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **毕达哥拉斯—黎曼度规的唯一性：** 在一切可以赋予可微流形的可能无穷小度规之中，毕达哥拉斯—黎曼度规是唯一能唯一确定一个对称线性联络的度规类型。
+    step2: |-
+      **毕达哥拉斯—黎曼度规之唯一性：** 凡可赋予可微流形之无穷小度规，其中唯毕达哥拉斯—黎曼度规能唯一确定一对称线性联络。
   - id: 230
     kind: body
     source: |-
       Weyl begins his proof with two natural assumptions. First, the *nature* of the metric should be coordinate independent. If $ds$ is given by an expression $F_{p}(dx^{1}, \ldots ,dx^{n})$ with respect to a given system of coordinates, then with respect to another system of coordinates, $ds$ is given by a function that is related to $F_{p}(dx^{1}, \ldots ,dx^{n})$ by a linear, homogeneous transformation of its arguments $dx^{i}$. Second, it is reasonable to assume that the *nature* of the metric is the same everywhere, in the sense that at every point of the manifold, and with respect to every coordinate system for a neighborhood of the point in question, $ds$ is represented by an element of the equivalence class $[F]$ of functions generated by any one such function, say $F_{p}(dx^{1}, \ldots ,dx^{n})$, by all linear, homogeneous transformations of its arguments $dx^{i}$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔以两个自然的假定开始他的证明。第一，度规的*本性*应当与坐标无关。若 $ds$ 相对于某一给定坐标系由表达式 $F_{p}(dx^{1}, \ldots ,dx^{n})$ 给出，那么相对于另一坐标系，$ds$ 便由一个函数给出，该函数与 $F_{p}(dx^{1}, \ldots ,dx^{n})$ 通过其变元 $dx^{i}$ 的一个线性齐性变换相联系。第二，合理的假定是：度规的*本性*处处相同——其意义是，在流形的每一点，且相对于该点邻域的每一个坐标系，$ds$ 都由等价类 $[F]$ 中的一个元素来表示，而这个等价类是由任一个这样的函数（比如 $F_{p}(dx^{1}, \ldots ,dx^{n})$）通过其变元 $dx^{i}$ 的一切线性齐性变换所生成的。
+    step2: |-
+      外尔之证明，始于两个自然假定。其一，度规之*本性*当与坐标无涉：若 $ds$ 相对于某坐标系由 $F_{p}(dx^{1}, \ldots ,dx^{n})$ 给出，则相对于另一坐标系，$ds$ 由一函数给出，而此函数与 $F_{p}(dx^{1}, \ldots ,dx^{n})$ 以其变元 $dx^{i}$ 之线性齐性变换相联系。其二，可合理假定度规之*本性*处处相同——意即：于流形之每一点，且相对于该点邻域之每一坐标系，$ds$ 皆由等价类 $[F]$ 之一元素表出，而此等价类乃由任一如是函数（如 $F_{p}(dx^{1}, \ldots ,dx^{n})$）经其变元 $dx^{i}$ 之一切线性齐性变换所生成。
   - id: 231
     kind: body
     source: |-
       For the case in which $F_{p}$ is Pythagorean in form, namely the square root of a positive-definite quadratic form, there exists just one possible equivalence class [$F$], because every function that is the square root of a positive-definite quadratic form can be transformed to the standard expression
 
       $$\tag{26} F = \left[(dx^{1})^{2} + \cdots + (dx^{n})^{2}\right]^{\bfrac{1}{2}} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于 $F_{p}$ 呈毕达哥拉斯形式、即正定二次型之平方根的情形，只存在一个可能的等价类 [$F$]，因为每一个作为正定二次型平方根的函数，都可以通过一个线性齐性变换化为标准表达式
+
+      $$\tag{26} F = \left[(dx^{1})^{2} + \cdots + (dx^{n})^{2}\right]^{\bfrac{1}{2}} $$
+    step2: |-
+      若 $F_{p}$ 呈毕达哥拉斯形式，即正定二次型之平方根，则只存在一个可能的等价类 [$F$]——盖凡为正定二次型之平方根者，皆可经线性齐性变换化为标准式
+
+      $$\tag{26} F = \left[(dx^{1})^{2} + \cdots + (dx^{n})^{2}\right]^{\bfrac{1}{2}} $$
   - id: 232
     kind: body
     source: |-
       by means of a linear, homogeneous transformation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      通过一个线性齐性变换化得。
+    step2: |-
+      皆可经线性齐性变换而得。
   - id: 233
     kind: body
     source: |-
       To every possible equivalence class [$F$] of homogeneous functions, there corresponds a *type* of metrical space. The Pythagorean-Riemannian space, for which $F^{2}_{p} = (dx^{1})^{2} + \cdots + (dx^{n})^{2}$, is one among several types of possible metrical spaces. The problem, therefore, is to single out the equivalence class $[F]$, where $F$ corresponds to $F^{2}_{p} = (dx^{1})^{2} + \cdots + (dx^{n})^{2}$, from the other possibilities, and to provide arguments for this preference.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      每一个可能的齐性函数等价类 [$F$] 都对应着一种*类型*的度量空间。毕达哥拉斯—黎曼空间（其中 $F^{2}_{p} = (dx^{1})^{2} + \cdots + (dx^{n})^{2}$）是若干可能度量空间类型之一。因此，问题在于：把这个对应着 $F^{2}_{p} = (dx^{1})^{2} + \cdots + (dx^{n})^{2}$ 的等价类 $[F]$ 从其他可能性中挑出来，并为这种偏好提供论证。
+    step2: |-
+      凡可能的齐性函数等价类 [$F$]，皆相应于一种*类型*的度量空间。毕达哥拉斯—黎曼空间（其中 $F^{2}_{p} = (dx^{1})^{2} + \cdots + (dx^{n})^{2}$）乃若干可能度量空间类型之一。故问题在于：自其余可能者中挑出相应于 $F^{2}_{p} = (dx^{1})^{2} + \cdots + (dx^{n})^{2}$ 的等价类 $[F]$（此处 $F$ 即给出该式者），并为此偏择提供理据。
   - id: 234
     kind: body
     source: |-
       By the term ‘metric’ Weyl means *any*infinitesimal *distance function* $F_{p} \in [F]$, where the equivalence class $[F]$ represents a *type* of metric structure or metric field. Any such type of metric field structure has a microsymmetry group $G_{p}$ at each $p \in M$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔用“度规”一词指*任何*无穷小*距离函数* $F_{p} \in [F]$，其中等价类 $[F]$ 代表着一种*类型*的度量结构或度量场。任何这样一种度量场结构类型，在每一点 $p \in M$ 处都有一个微对称群 $G_{p}$。
+    step2: |-
+      外尔所谓“度规”，指*任何*无穷小*距离函数* $F_{p} \in [F]$，而等价类 $[F]$ 代表度量结构或度量场之一*类型*。凡此种度量场结构类型，于每一点 $p \in M$ 皆有一微对称群 $G_{p}$。
   - id: 235
     kind: body
     source: |-
       **Definition 4.1 (Microsymmetry Group)** A microsymmetry of a structural field (Strukturfeld) at a point $p \in M$ is a local diffeomorphism that takes $p \in M$ into $p$ and preserves the structural field at $p \in M$. The microsymmetry group of a field at $p \in M$ is the group of its microsymmetries at $p \in M$ under the operation of composition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **定义 4.1（微对称群）** 结构场（Strukturfeld）在点 $p \in M$ 处的一个微对称，是把 $p \in M$ 映入 $p$、并保持 $p \in M$ 处结构场的局部微分同胚。一个场在 $p \in M$ 处的微对称群，是其在 $p \in M$ 处的诸微对称在合成运算下构成的群。
+    step2: |-
+      **定义 4.1（微对称群）** 结构场（Strukturfeld）在点 $p \in M$ 处的微对称，乃把 $p \in M$ 映为 $p$、且保持 $p \in M$ 处结构场的局部微分同胚。一个场在 $p \in M$ 处的微对称群，即其在 $p \in M$ 处的诸微对称在合成之下所成之群。
   - id: 236
     kind: body
     source: |-
       A microsymmetry group $G_{p}$, at $p \in M$, of a metric structure, is a set of invertible, linear maps of the tangent space $T(M_{p})$ onto itself, which preserve the infinitesimal distance function at $p \in M$. For every $p \in M, G_{p}$ is isomorphic to one and the same abstract group.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      度量结构在 $p \in M$ 处的微对称群 $G_{p}$，是切空间 $T(M_{p})$ 到自身的一族可逆线性映射，它们保持 $p \in M$ 处的无穷小距离函数。对每个 $p \in M$，$G_{p}$ 都与同一个抽象群同构。
+    step2: |-
+      度量结构在 $p \in M$ 处之微对称群 $G_{p}$，乃切空间 $T(M_{p})$ 到自身的一族可逆线性映射，其保持 $p \in M$ 处之无穷小距离函数。对每一 $p \in M, G_{p}$ 皆同构于同一抽象群。
   - id: 237
     kind: body
     source: |-
