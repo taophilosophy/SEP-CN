@@ -26,7 +26,7 @@
 ## 会话开工五分钟
 
 0. **方向确认**：按 `rules/08-intent-first.md` 用一句话复述用户到底要什么，写清目标/非目标与验收判据；含糊先问不猜，禁止猜着做；
-1. `git log --oneline -5` + `git status`——核对基点；本仓库多会话并行，**推送前先 `git pull --rebase`**（并行会话 push 竞态会孤儿化对方提交，见 `rules/06-governance.md`）；
+1. `git log --oneline -5` + `git status`——核对基点；本仓库多会话+双机并行（M1 本机 `C:\Users\ykla\Documents\SEP-CN` / M2 `D:\SEP-CN`，ADR-0026），开工先 `git pull --rebase`，**推送前先 `git pull --rebase`**（并行会话 push 竞态会孤儿化对方提交，见 `rules/06-governance.md`）；
 2. 通读 `rules/README.md` 的“规则地图”与“快速判例”；
 3. 跑门禁：`python tools/check_all.py`（一键全量：六项门禁 + 单元测试，共 7 项，并行约 6 秒，应全绿）；
 4. 查进度与任务：`PROGRESS.md`、`python tools/task_ops.py show <slug>`；
@@ -35,7 +35,7 @@
 ## 当前阶段与主战场（2026-10-27）
 
 基础设施已全部就绪：结构定型（ADR-0009）、抓取完整性收敛（fetch_audit 不动点）、管线无矛盾（八项职责权属契约化）、门禁全绿、学术规范挂钩实拦、G5 里程碑 tag `v2026.10.27-目录重建定型`。**主战场**：① 首轮真实翻译（正式词条 1879，done 1；abduction 任务已就绪，走完整三审三校验证工作流）；② 上游增量 intake（首轮 74 条已清零，见 `specs/004` D3；新漂移按存档季流程建任务：译名登记 → apply-add）；③ 更新流程例行化（存档季 `fetch_catalog` + `compare`，漂移自动进 update 任务）。**计数一律以 `PROGRESS.md`（生成物）与 `specs/004` 登记表为准，本文件不复制数字**。
-**多会话分批执行**：交接开工卡见 `specs/005-translation-campaign/session-handoff.md`——开工三件事（status/next/claim）、各阶段标准作业、纪律与验收，新会话拿卡即独立开工。
+**多会话分批执行**：交接开工卡见 `specs/005-translation-campaign/session-handoff.md`——开工三件事（status/next/claim）、各阶段标准作业、纪律与验收，新会话拿卡即独立开工。**双机并行**：M1 本机 `C:\Users\ykla\Documents\SEP-CN` 与 M2 `D:\SEP-CN` 各持独立克隆，只经 `origin/main` 同步；协议见 `rules/06-governance.md` §多机并行与 ADR-0026。
 
 ## 硬约束速览
 
@@ -43,7 +43,7 @@
 * **零信任**：既有中文译文一律不作底稿或修改依据；可疑处回原始 HTML（`en/` 原始抓取、`yuanwen/` 转换镜像，均不入库）核对；一切成品可回溯到英文源版本钉（pubinfo + 存档版名 + SHA-256）。
 * **单一事实源**：结构看 `SUMMARY.md`，术语看 `yi-zhe-shuo-ming.md`，人名看 `ren-ming-biao.md`（ADR-0012），版本看 `baseline/`，任务状态看 `tasks/`；两处不一致时修弱势方。
 * **流程先行**：动笔前先有任务记录（`tasks/`）；先登记术语后使用；每步留 `evidence` 凭证。
-* **提交纪律**：高频小步提交，中文一行信息；只提交相关文件；直接提交 main；未经用户要求不 push、不 force；**推送前先 pull --rebase**（并行会话竞态，见 `rules/06-governance.md`）。
+* **提交纪律**：高频小步提交，中文一行信息；只提交相关文件；直接提交 main；未经用户要求不 push、不 force；**推送前先 pull --rebase**（并行会话竞态，见 `rules/06-governance.md`）。双机 push 只有三个检查点：批次认领／`campaign.py advance`／条目 done 收口（ADR-0026）。
 * **抓取礼貌**：相邻 HTTP 请求 ≥5 秒；4xx/5xx/超时退避重试并记录，禁止静默跳过。
 * **抓取完整性**：词条包内被引用资产必须齐备——`tools/fetch_audit.py`（引用闭包迭代至不动点，缺件自动补抓，404=缺省件登记）。
 * **更新流程**：`fetch_catalog` 检测漂移 → `compare.py <slug>` 产出持久变更文件 → `task_ops.py` update 任务（evidence 以 `changes:` 开头）→ 三校走变更段。

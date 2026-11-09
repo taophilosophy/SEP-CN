@@ -41,6 +41,15 @@
 5. **不抢改他人正在写的文件**：发现非本人改动先读再动，禁止用 `git checkout --` / `reset --hard` 清理他人未提交工作。
 6. **`script/` 为个人草稿区** （gitignore），一次性脚本与临时日志放这里；沉淀为正式工具的脚本移入 `tools/` 并登记 README；`script/tmp/` 临时文件用 `tools/clean.py` 定期清理。
 
+### 多机并行（2026-11-09 起，ADR-0026）
+
+* 两台机各持**独立克隆**：M1 `C:\Users\ykla\Documents\SEP-CN`（DESKTOP-RLOEIG9）、M2 `D:\SEP-CN`（Desktop-m5p610n）。**唯一同步面是 `origin/main`**，不以对方工作树为真值；共享克隆时代结束。
+* 开工先对齐：`git fetch && git status -sb && git pull --rebase origin main`，落后不干活。
+* push 只有三个检查点：批次认领（抢锁）／`campaign.py advance`／条目 done 收口。认领即推，别攒；其余微提交留本地。
+* 会话 ID 加机器前缀 `m1-` / `m2-`；批次交接用 `campaign.py release <批> --note`，接手方重新 claim。
+* **生成物冲突不手工解**：`PROGRESS.md` 任取一侧后 `tools/progress.py` 重生成；`SUMMARY.md` 取并集后 `check_summary.py`；账本 rebase 后重放 `campaign.py advance`（幂等）；术语表／人名表／词汇表追加式书写，冲突取并集后 `check_terms.py`。
+* 两机尽量不同时开工同一字母批，压低 `SUMMARY.md` 与登记册的文本冲突面；本地相（`en/`、`yuanwen/`、`script/`、`state/`、`.secrets/`）各机自持，不入库不共享。
+
 ## 质量门与完成定义
 
 * **一键全量复核**：`python tools/check_all.py`（六项门禁：结构/分类/单体/垃圾/术语/学术规范 + 管线单元测试；`--all` 另加基线审计与英文镜像复核，共九项）——收工前与推审前必跑。

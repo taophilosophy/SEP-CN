@@ -57,3 +57,4 @@
 | [0023](0023-根目录白名单与散件归置.md) | 根目录白名单与散件归置（check_junk 双向核对，散件归 script/state/specs bin） | accepted |
 | [0024](0024-标题同步改本地门禁与CI只读校验.md) | 标题同步改本地门禁与 CI 只读校验（sync-headers 不再写回 main、H1↔SUMMARY 硬门禁、11 条标题收口） | accepted |
 | [0025](0025-disability译名按域分用.md) | disability 译名按域分用（概念/标题用「残疾」，卫生经济语境用「失能」） | accepted |
+| [0026](0026-双机双克隆工作区.md) | 双机双克隆工作区（本机迁入 C 盘、M2 保留 D:、origin 唯一同步面） | accepted |

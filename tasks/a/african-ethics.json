@@ -2,7 +2,7 @@
   "slug": "african-ethics",
   "kind": "retranslate",
   "zh_doc": "a/african-ethics.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "A4-main-20261109",
       "at": "2026-11-09T08:39:36Z",
       "evidence": "初审（对照原文自审）：118 段逐段身份一致（lq check）；自动化对账——年份集合逐段全等（0 差异）、引文页码全等（0 差异）、脚注键守恒；斜体差异 27 段逐项核销为「源 <em> → 中文粗体（rules/02）或书名号（Nicomachean Ethics→《尼各马可伦理学》）」，无遗漏；阿肯/埃维/约鲁巴/伊博/绍纳/南索托语原文 9 组照录；引用组 Opoku 1978:152、Wiredu 1983:13、Busia 1954:205、Maquet 1954:184、Molema 1920:116、Kaunda 1966:32、Campbell 1922:45、McVeigh 1974:84、Krige 1954:78、Gbadegesin 1991:27,79 逐一在文在册；Critical 0 / Major 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T08:40:19Z",
+      "evidence": "复审（逐句回核原文与逻辑）：通读全文 302 行并对照 yuanwen 逐节核验论证链——§5 宗教基础（非启示宗教→道德自律）、§6 人性与兄弟情谊（三条阿肯格言链）、§7 公共善（连体鳄鱼母题）、§8 社会性伦理（五条互助格言）、§9 义务而非权利（超义务批判）逻辑连贯，转承无断裂；修正候选 1 处已在 s2 处理（段113 重复增译）；段236 重复引用块经核为源文自有（源注 section 6 above），保留；源文拼写 Gbadagesin 照录留痕；Critical 0 / Major 0 / Minor 1（源文笔误照录）"
     }
   ],
   "blockers": [],
