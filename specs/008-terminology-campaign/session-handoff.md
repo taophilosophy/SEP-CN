@@ -112,3 +112,31 @@ A 档（通用哲学术语）直裁登记，B 档（存疑）走查证，C 档�
 | 2026-11-08 | TL-main-20261108d（接管 c） | 同范围续作：净队列 offset 24–63 共 5 批 40 词；84 条不一致全数判读留档（零主译变更）；重复行合并 7 组（Philip/Clement/Schiller/Schleiermacher/Maritain/ʿAyn al-Quḍāt/nominalism/Epistemic Closure）+ social contract 冲突归一，词汇表滞后归零；Conventuals 撤维基引证；012 原文列 +36 行（拉丁 18/日 11/朝鲜 4/阿语 3） | 本批完成；接力 offset 64。**门禁实况**：check_terms 硬错误 0、滞后 0；check_all 的 SUMMARY 结构审计红（220 条 orphan 全为元文档目录 .zcode/.specify/rules/fang-fa-lun 等，非术语资产，属仓库级卫生项） |
 | 2026-11-08 | TL-main-20261108e（接管 d） | 同范围续作：净队列自 offset 64 续跑（%TEMP%/tl-drive.json 余 3126）；修复并行会话锚点事故（ren-ming-biao Joyce 行恢复）；012 原文列回填穿插（阿拉伯/波斯~120、藏文~35、梵语~12、希腊~7，逐词外源页显式配对）；不一致裁定 + ci-hui-biao 同步 | 进行中 |
 | 2026-11-09 | TL-az-20261109 | ① 两登记册 A–Z 分节定型（`tools/registry_azsort.py`，守恒门+幂等，提交 `2f3b394d`）+ 词汇表 Paradox of Suspense 补亦作解冲突；② 术语侧未查证队列按 A–Z 重建（3068 项，`tl_browser_batch --emit --table term --unverified`）；③ 爬取程序化：`tools/tl_crawler.py`（浏览器只承载登录态，请求由程序发，无点击）；④ 机制更正：会话窗口靠「每批前导航搜索页」激活，批间 4 分钟冷却降级为降级退避 | 手工批 offset 0–27 已 ingest（26 份）；余下由爬虫按 `state/tl-crawl-state.json` 续跑 |
+
+## 爬虫长跑作业（2026-11-09 起）
+
+**登录态**：爬虫用独立 profile `state/tl-profile`（gitignored）。已从面板浏览器分区
+（`%APPDATA%/ZCode/session/Partitions/zcode-embedded-browser`）整目录导入（路径 A，零解密），
+JWT 139 字符验证可用。会话失效时重跑导入即可：
+
+    python script/tl_session_import_20261109.py
+
+（`script/` 为本地草稿不入库；脚本只复制 profile 目录，必要时回退解密 cookie，从不打印密钥。）
+
+**跑批**（断点续跑，状态 `state/tl-crawl-state.json`）：
+
+    python -u tools/tl_crawler.py --crawl --queue %TEMP%/az-term.json --batches 400 \
+      --no-warm --interval 12 --batch-gap 20 --out-dir %TEMP%
+    python -u script/tl_ingest_watch.py     # 另开一个：每 90 秒把新批次 --ingest
+
+**限流口径（2026-11-09 校准实测）**：预算约 **18 请求/5 分钟**，第 19 次起降级（3 库全 0），
+60 秒后恢复。稳态约 2–3 词/分钟。整页激活本身要烧十个左右请求，**常态勿每批激活**
+（`--no-warm`），只在降级后激活一次；降级词不落凭证、留待下轮 `--unverified` 重查
+（error 不计已查证）。
+
+**队列重建**（登记册持续增长，重跑即含新行）：
+
+    python tools/tl_browser_batch.py --emit --table term --unverified --out %TEMP%/az-term.json
+
+**验收**：`python tools/term_audit.py` 四态；凭证落
+`specs/008-terminology-campaign/results/queries/termonline-all/`，每 4–5 批 `git add` 提交。
