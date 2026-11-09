@@ -1,0 +1,47 @@
+{
+ "key": "civitas",
+ "term": "civitas",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:55:58+00:00",
+ "status": "ok",
+ "note": "variant=civitas; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "莱维-齐维塔张量",
+   "en": "Levi-Civita tensor",
+   "code": "06.0309",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "列维-奇维塔联络",
+   "en": "Levi-Civita connection",
+   "code": "08.1015",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分几何学"
+  },
+  {
+   "cn": "莱维-齐维塔平移",
+   "en": "Levi-Civita parallel displacement",
+   "code": "06.0254",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "急性坏死溃疡性龈炎",
+   "en": "acute necrotizing ulcerative gin- givitis",
+   "code": "04.089",
+   "standard": "医学名词 第二分册",
+   "subject": "医学_口腔医学_口腔病理学"
+  },
+  {
+   "cn": "圣城",
+   "en": "Sancta Civitas",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

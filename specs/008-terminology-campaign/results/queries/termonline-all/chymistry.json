@@ -1,0 +1,264 @@
+{
+ "key": "chymistry",
+ "term": "chymistry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:52:58+00:00",
+ "status": "ok",
+ "note": "variant=chymistry; 审定公布名词库=171; 海峡两岸名词对照库=93; 其他来源数据库=11; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "药物化学",
+   "en": "pharmaceutical chemistry,medicinal chemistry",
+   "code": "01.009",
+   "standard": "药学名词",
+   "subject": "药学_总论"
+  },
+  {
+   "cn": "高分子化学",
+   "en": "polymer chemistry,macromolecular chemistry",
+   "code": "01.0153",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础"
+  },
+  {
+   "cn": "天体化学",
+   "en": "celestial chemistry",
+   "code": "13.01.009",
+   "standard": "地质学名词",
+   "subject": "地质学_地球化学_总论"
+  },
+  {
+   "cn": "矿物化学",
+   "en": "mineral chemistry",
+   "code": "13.05.021",
+   "standard": "地质学名词",
+   "subject": "地质学_地球化学_实验地球化学"
+  },
+  {
+   "cn": "晶体化学",
+   "en": "crystal chemistry",
+   "code": "02.00.004",
+   "standard": "地质学名词",
+   "subject": "地质学_结晶学"
+  },
+  {
+   "cn": "土壤化学",
+   "en": "soil chemistry",
+   "code": "09.077",
+   "standard": "农学名词",
+   "subject": "土壤肥料_土壤学"
+  },
+  {
+   "cn": "化学诊断",
+   "en": "chemistry diagnosis",
+   "code": "09.253",
+   "standard": "农学名词",
+   "subject": "土壤肥料_植物营养学"
+  },
+  {
+   "cn": "理论化学",
+   "en": "theoretical chemistry",
+   "code": "02.047",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟"
+  },
+  {
+   "cn": "量子化学",
+   "en": "quantum chemistry",
+   "code": "02.048",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟"
+  },
+  {
+   "cn": "计算化学",
+   "en": "computational chemistry",
+   "code": "02.049",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟"
+  },
+  {
+   "cn": "前生命化学",
+   "en": "prebiotic chemistry",
+   "code": "1.0003",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "生物有机化学",
+   "en": "bioorganic chemistry",
+   "code": "1.001",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "高分子化学",
+   "en": "macromolecular chemistry\",\"polymer chemistry",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "药物化学",
+   "en": "medicinal chemistry （=pharmaceutical chemistry）",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "大气化学",
+   "en": "atmospheric chemistry",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "对流层化学",
+   "en": "tropospheric chemistry",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "降水化学",
+   "en": "precipitation chemistry",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "平流层化学",
+   "en": "stratospheric chemistry",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "云[水]化学",
+   "en": "cloud chemistry",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "工业化学",
+   "en": "industrial chemistry",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "应用化学",
+   "en": "applied chemistry",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "表面化学",
+   "en": "surface chemistry",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "辐射化学",
+   "en": "radiation chemistry",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "核化学",
+   "en": "nuclear chemistry",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "高分子化学",
+   "en": "Polymer chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "s区元素",
+   "en": "Reactivity (chemistry)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子化学",
+   "en": "Quantum chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理化学",
+   "en": "Physical chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "点击化学",
+   "en": "Click chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "湿化学",
+   "en": "Wet chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "油田化学",
+   "en": "Oilfield chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "辐射化学",
+   "en": "Radiation chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "核化学",
+   "en": "Nuclear chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "包合物",
+   "en": "Host–guest chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "纳米化学",
+   "en": "Degrees of freedom (physics and chemistry)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "战时水质理化检验",
+   "en": "detection of water quality for physics and chemistry in wartime",
+   "code": "2.1.6.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事环境卫生_战时饮水卫生"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
