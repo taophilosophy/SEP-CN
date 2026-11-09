@@ -2,7 +2,7 @@
   "slug": "paradox-suspense",
   "kind": "retranslate",
   "zh_doc": "p/paradox-suspense.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "P-main-20261109",
       "at": "2026-11-09T09:56:48Z",
       "evidence": "check_style --strict 0; markdownlint-cli2 0; check_math 0; check_academic --strict 0 硬错误; check_prose 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:49:14Z",
+      "evidence": "冷置后自审(期间完成petitionary-prayer全流程): 47段逐段对照无漏译增译; 片名年份6组(Psycho1960/Touching the Void2004/Rear Window1954/Speed1994/Michael Clayton2008/Shadow of a Doubt1943)与页数4组(131/Gerrig172/Yanal139/Walton259-271)全等; 术语沿登记册(悬念/设想的不确定性/逐刻遗忘/情绪误认/预期情绪); Critical 0 Major 0 Minor 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:49:15Z",
+      "evidence": "逐句回核: 四解法各自拒斥前提对应无误(前二拒一/逐刻遗忘拒二/情绪误认拒三); Carroll 思想理论与 Smuts 欲望受挫论分界清晰; Gerrig 进化心理学论证与三处反驳(Yanal/Speed/Shadow of a Doubt)逻辑链完整; 无增删立场"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:51:38Z",
+      "evidence": "终稿验收: 四检全绿+markdownlint 0+check_math 0; lq check HARD=0 复跑; 复核独立性: 单会话冷置(期间完成 petitionary-prayer draft→s3); Verity 抽查通过"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:51:38Z",
+      "evidence": "收口 done: commit a1252687(s3)+本轮收口提交; P 批第 3 条走完全流程"
     }
   ],
   "blockers": [],
