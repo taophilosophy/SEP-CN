@@ -2,7 +2,7 @@
   "slug": "han-dynasty",
   "kind": "retranslate",
   "zh_doc": "h/han-dynasty.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:53:47Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "H-main-20261110",
+      "at": "2026-11-09T20:11:01Z",
+      "evidence": "账本 105 段（body 104+oir 1）step1/step2 两步反思全部填写；lq check 守恒门通过（仅斜体转书名号/中文粗体 SOFT 留痕）；prose 实修 50 处（51→3，余 3 全在引文块内）；术语 59 行、人名 39 行登记并 azsort 重排"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "H-main-20261110",
+      "at": "2026-11-09T20:23:56Z",
+      "evidence": "s1 对照核销：105 段逐段落位（粗体空格归一）全中；脚注 marker 源/文 28:28 键集全等；defs 78:78；正文区直引号/单引号/直角引号 0 残留；书目照录 78 条与源一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "H-main-20261110",
+      "at": "2026-11-09T20:23:56Z",
+      "evidence": "s2 通读与 prose 实修：告警 51→3，实修 50 处（长句拆分 11、de-chain 35、弱动词 3、被动 2 中的叙述句全部改写，两波 SUBS 逐条唯一命中）；余 3 处均引文块内（《新语》引文 de-chain、《论衡》28.1 引文 de-chain、《女诫》序引文被动），按 ADR-0020 豁免留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "H-main-20261110",
+      "at": "2026-11-09T20:53:31Z",
+      "evidence": "s3 体例终校：check_style 0 issue（bold-spacing 8 处实修后复零）、check_prose 3 条全在引文块（ADR-0020 豁免）、check_math 0/0、check_academic --strict 无硬错误、check_terms 定点核销无缺译（余 Nyāya/vaiśeṣika 两条为他批存量冲突）、登记册行已在 HEAD（术语 59 行、人名 39 行）"
     }
   ],
   "blockers": [],
