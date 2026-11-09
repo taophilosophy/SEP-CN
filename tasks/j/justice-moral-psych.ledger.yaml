@@ -1127,62 +1127,82 @@ segments:
     kind: body
     source: |-
       I would be tempted to buy stolen property if I were financially tight.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果手头紧，我会想要买赃物。
+    step2: |-
+      手头紧的时候，我会动心去买赃物。
   - id: 125
     kind: body
     source: |-
       **60.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **60.**
+    step2: |-
+      **60.**
   - id: 126
     kind: body
     source: |-
       I would never accept a bribe, even if it were very large.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即使贿赂数额非常大，我也绝不会接受。
+    step2: |-
+      哪怕一笔贿赂数目极大，我也绝不会接受。
   - id: 127
     kind: body
     source: |-
       **84.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **84.**
+    step2: |-
+      **84.**
   - id: 128
     kind: body
     source: |-
       I’d be tempted to use counterfeit money, if I were sure I could get away with it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我确信能蒙混过关，我会动心去用假币。
+    step2: |-
+      如果我确信能蒙混过关，我会动心去使用假币。
   - id: 129
     kind: body
     source: |-
       Now one might wonder about whether these are really best understood as *fairness* items. They might seem to relate at the conceptual level more to honesty than to justice. But let’s leave that terminological point to one side.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在有人可能会问：这些题目真的最宜理解为*公平*题目吗？在概念层面，它们似乎更多与诚实而非正义相关。但我们先把这一术语问题搁在一边。
+    step2: |-
+      有人也许要问：这些题目真的最宜理解为**公平**题吗？从概念上看，它们似乎更关乎诚实，而不是正义。不过这个术语问题先搁一边。
   - id: 130
     kind: body
     source: |-
       For it turns out that significant statistical relationships have been found with behavior in bargaining games (for a review, see Zhao and Smillie 2015)[^zhao-2015]. In the same meta-analysis, for instance, the sample weighted average correlation was $r_{wa} = .24$ between dictator allocation amount and honesty-humility (291). Another meta-analysis reported a correlation of $r_{wa} = .29$ (Hilbig et al. 2015: 92)[^hilbig-2015]. So too was there a negative correlation between HEXACO agreeableness and rejecting offers in ultimatum games ($r_{wa}= -.16$) (Zhao and Smillie 2015: 288)[^zhao-2015]. Furthermore, one study found that of those who were high in honesty-humility, 64.4% chose the 50/50 allocation in the dictator game, while only 34.6% did who were low on this dimension (Hilbig et al. 2015: 92)[^hilbig-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因为结果表明，它们与讨价还价博弈中的行为之间存在显著的统计关系（综述见 Zhao and Smillie 2015）[^zhao-2015]。例如，在同一项元分析中，独裁者分配额与诚实-谦逊之间的样本加权平均相关系数为 $r_{wa} = .24$（291）。另一项元分析报告的相关系数为 $r_{wa} = .29$（Hilbig et al. 2015: 92）[^hilbig-2015]。HEXACO 宜人性与最后通牒博弈中拒绝出价之间也有负相关（$r_{wa}= -.16$）（Zhao and Smillie 2015: 288）[^zhao-2015]。此外，一项研究发现，在诚实-谦逊上得分高的人中，64.4% 在独裁者博弈中选择了 50/50 分配，而这一维度得分低的人里只有 34.6% 这么做（Hilbig et al. 2015: 92）[^hilbig-2015]。
+    step2: |-
+      因为事实证明，它们与讨价还价博弈中的行为存在显著的统计关联（综述见 Zhao and Smillie 2015）[^zhao-2015]。例如在同一项元分析里，独裁者分配额与诚实-谦逊之间的样本加权平均相关系数为 $r_{wa} = .24$（291）；另一项元分析报告的相关系数是 $r_{wa} = .29$（Hilbig et al. 2015: 92）[^hilbig-2015]。HEXACO 宜人性与最后通牒博弈中拒绝出价之间同样呈负相关（$r_{wa}= -.16$）（Zhao and Smillie 2015: 288）[^zhao-2015]。还有一项研究发现：诚实-谦逊高的人当中，64.4% 在独裁者博弈里选择了 50/50 分配；这一维度低的人里只有 34.6% 这么做（Hilbig et al. 2015: 92）[^hilbig-2015]。
   - id: 131
     kind: body
     source: |-
       Benjamin Hilbig and Ingo Zettler (2009) provide a nice experimental demonstration of this relationship. Participants completed the HEXACO-PI and played a dictator game and an ultimatum game with an initial allocation of 100 points for each game. As expected, those who were higher in honesty-humility gave fewer points to themselves in both games (518). More interesting was the consistency in allocations *between* the two games. Those lowest in honesty-humility allocated an almost equal amount of points to themselves and the other person in the ultimatum game. But in the dictator game, where there was no threat of rejection by the other person, the average allocation for participants to keep was almost 80 points. By way of contrast, those highest in honesty-humility showed no significant difference in their allocations in the two games. In other words, they were consistently fair, whereas the other group of participants was only being fair when it was to their advantage (518–519).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Benjamin Hilbig 与 Ingo Zettler（2009）对这一关系做了一个漂亮的实验演示。参与者完成 HEXACO-PI，并玩一个独裁者博弈与一个最后通牒博弈，每个博弈的初始分配都是 100 点。如所预期，诚实-谦逊较高的人在两个博弈中都给自己留下更少的点数（518）。更有趣的是两个博弈*之间*分配的一致性。诚实-谦逊最低的人在最后通牒博弈中给自己与对方的点数几乎相等。但在独裁者博弈中，由于没有对方拒绝的威胁，参与者平均给自己留下的点数将近 80 点。相比之下，诚实-谦逊最高的人在两个博弈中的分配没有显著差异。换言之，他们前后一致地公平，而另一组参与者只在公平对自己有利时才公平（518–519）。
+    step2: |-
+      Benjamin Hilbig 与 Ingo Zettler（2009）为这一关系提供了一个漂亮的实验演示。参与者先做 HEXACO-PI，再分别玩独裁者博弈和最后通牒博弈，每个博弈的初始分配都是 100 点。如所预期，诚实-谦逊较高的人在两个博弈里都给自己留得更少（518）。更有意思的是两个博弈**之间**分配上的一致性：诚实-谦逊最低的人在最后通牒博弈里分给自己的点数与对方几乎相等；可到了没有拒付威胁的独裁者博弈，他们平均给自己留下将近 80 点。相反，诚实-谦逊最高的人在两个博弈中的分配没有显著差别。换句话说，他们始终公平；另一组参与者只在公平对自己有利时才公平（518–519）。
   - id: 132
     kind: body
     source: |-
       Kun Zhao and his colleagues (2016) used Big Five and HEXACO personality measures for participants playing a variety of dictator games, and found as expected that Big Five agreeableness and honesty-humility both predicted higher monetary payoffs for the participant’s partner. Interestingly, it was the politeness facet of Big Five agreeableness that predicted the allocations, and not the compassion facet. Also interesting were the results from the generosity games that Zhao had participants play as well. Here participants knew that their own payoff was going to be $5 no matter what, and they only got to choose how much their partner would receive (ranging from $0 to $10). It turned out that HEXACO agreeableness and not honesty-humility that predicted generous allocations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Kun Zhao 及其同事（2016）用大五与 HEXACO 人格测量，考察了玩多种独裁者博弈的参与者，并如所预期发现：大五宜人性与诚实-谦逊都预测参与者伙伴获得更高的金钱收益。有趣的是，预测分配的是大五宜人性中的“礼貌”层面，而不是“同情”层面。同样有趣的是 Zhao 也让参与者玩的慷慨博弈的结果。在这里，参与者知道自己所得无论怎样都是 5 美元，他们只能选择伙伴得到多少（从 0 到 10 美元）。结果表明，预测慷慨分配的是 HEXACO 宜人性，而不是诚实-谦逊。
+    step2: |-
+      Kun Zhao 及其同事（2016）用大五与 HEXACO 量表考察了参与多种独裁者博弈的人，结果不出所料：大五宜人性与诚实-谦逊都预测参与者的伙伴能拿到更多钱。有意思的是，起预测作用的是大五宜人性中的“礼貌”层面，而非“同情”层面。Zhao 让参与者玩的慷慨博弈也有有趣的发现。这类博弈里，参与者知道自己无论怎样都能拿到 5 美元，只能决定伙伴拿多少（0 到 10 美元）。结果显示，预测慷慨分配的是 HEXACO 宜人性，而不是诚实-谦逊。
   - id: 133
     kind: body
     source: |-
       *Justice Sensitivity*. A relatively new and particularly exciting development in personality psychology has been the study of what is being called “justice sensitivity”. The basic idea is that individuals differ in general on this trait, which can be understood at its heart as a motive for justice (Stavrova and Schlösser 2015: 3)[^stavrova-2015]. After several refinements, consensus seems to be emerging around four facets for this trait (Schmitt et al. 2010; Stavrova and Schlösser 2015)[^schmitt-2010][^stavrova-2015]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *正义敏感性*。人格心理学中一个相对较新、尤其令人兴奋的发展，是所谓“正义敏感性”的研究。基本想法是：个体在这一特质上普遍存在差异，其核心可以理解为一种正义动机（Stavrova and Schlösser 2015: 3）[^stavrova-2015]。经过几次改进，共识似乎正围绕这一特质的四个层面形成（Schmitt et al. 2010; Stavrova and Schlösser 2015）[^schmitt-2010][^stavrova-2015]：
+    step2: |-
+      **正义敏感性**。人格心理学里一个相对较新、也格外令人兴奋的方向，是所谓“正义敏感性”研究。基本想法是：个体在这一特质上普遍存在差异，而它的核心可以理解为一种正义动机（Stavrova and Schlösser 2015: 3）[^stavrova-2015]。经过几轮改进，共识似乎正围绕这一特质的四个层面形成（Schmitt et al. 2010; Stavrova and Schlösser 2015）[^schmitt-2010][^stavrova-2015]：
   - id: 134
     kind: body
     source: |-
