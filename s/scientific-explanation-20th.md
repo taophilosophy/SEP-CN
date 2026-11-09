@@ -132,7 +132,11 @@
 
 此后解释文献的很大一部分，动机正在于捕捉 (4)(5) 这类例子遗漏的因果或解释相关性，且通常不越上述经验主义限制。萨蒙（Wesley Salmon）的统计相关性（*SR*）模型（Salmon 1971a）[^salmon-1971a] 是极有影响的一次尝试，以统计相关性、条件依赖关系刻画这些特征。给定某个类或总体 $A$：属性 $C$ 对另一属性 $B$ **统计相关**，当且仅当 $P(B\mid A.C) \ne P(B\mid A)$——即在 $A$ 与 $C$ 之下 $B$ 的概率，不同于仅在 $A$ 之下 $B$ 的概率。至于 *SR* 模型，其直觉是：统计相关者具解释性，统计不相关者则否；有关此类关系的信息亦然。换言之，“属性对被解释项有影响”一语，即以统计相关性关系阐释。
 
+举例来说，设避孕药例 (5) 的原初总体 *T* 兼含两性。于是
+
 $$\begin{align} P(\text{Pregnancy} \mid T.&\text{Male.Takes birth control pills})\\ & {} = P(\text{Pregnancy} \mid T.\text{Male})\\ & {} = 0 \end{align} $$
+
+反之
 
 $$ \begin{align} P(\text{Pregnancy} \mid T.&\text{Female.Takes birth control pills})\\ &{} \ne P(\text{Pregnancy} \mid T.\text{Female}) \end{align} $$
 
@@ -149,6 +153,8 @@ $$ \begin{align} P(\text{Pregnancy} \mid T.&\text{Female.Takes birth control pil
 举萨蒙一例：欲为患链球菌感染（= *S*）的 *x* 何以快速康复（= *Q*）构造 *SR* 解释。令 $T(-T)$ 视 *x* 是否受青霉素治疗而定，$R(-R)$ 视是否携带抗青霉素株而定。为论证计，设无其他因素与快速康复相关。属性组合有四：$T.R,$ $-T.R,$ $T.{-R},$ ${-T}.{-R},$ 并假定 $$ \begin{align} P(Q\mid S.T.R) & = P(Q\mid S.{-T}.R)\\ & = P(Q\mid S.{-T}.{-R})\\ & \ne P(Q\mid S.{T}.{-R})\\ \end{align} $$
 
 即：给定患链球菌，携带抗药株者快速康复的概率相同——无论治与不治；未受治疗者亦然。相比之下，患链球菌、受治且不带抗药株者，康复概率不同（大概更高）。
+
+在此情形中
 
 $$[S.(T.R \lor {-T}.R \lor {-R}.{-T})], [S.T.{-R}]$$
 

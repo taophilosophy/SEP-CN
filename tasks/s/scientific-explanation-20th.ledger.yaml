@@ -534,8 +534,12 @@ segments:
 
       $$\begin{align} P(\text{Pregnancy} \mid T.&\text{Male.Takes birth control pills})\\ & {} = P(\text{Pregnancy} \mid T.\text{Male})\\ & {} = 0 \end{align} $$
     step1: |-
+      举例来说，设避孕药例子 (5) 中的原初总体 *T* 兼含两性。于是
+
       $$\begin{align} P(\text{Pregnancy} \mid T.&\text{Male.Takes birth control pills})\\ & {} = P(\text{Pregnancy} \mid T.\text{Male})\\ & {} = 0 \end{align} $$
     step2: |-
+      举例来说，设避孕药例 (5) 的原初总体 *T* 兼含两性。于是
+
       $$\begin{align} P(\text{Pregnancy} \mid T.&\text{Male.Takes birth control pills})\\ & {} = P(\text{Pregnancy} \mid T.\text{Male})\\ & {} = 0 \end{align} $$
   - id: 67
     kind: body
@@ -544,8 +548,12 @@ segments:
 
       $$ \begin{align} P(\text{Pregnancy} \mid T.&\text{Female.Takes birth control pills})\\ &{} \ne P(\text{Pregnancy} \mid T.\text{Female}) \end{align} $$
     step1: |-
+      而
+
       $$ \begin{align} P(\text{Pregnancy} \mid T.&\text{Female.Takes birth control pills})\\ &{} \ne P(\text{Pregnancy} \mid T.\text{Female}) \end{align} $$
     step2: |-
+      反之
+
       $$ \begin{align} P(\text{Pregnancy} \mid T.&\text{Female.Takes birth control pills})\\ &{} \ne P(\text{Pregnancy} \mid T.\text{Female}) \end{align} $$
   - id: 68
     kind: body
@@ -612,8 +620,12 @@ segments:
 
       $$[S.(T.R \lor {-T}.R \lor {-R}.{-T})], [S.T.{-R}]$$
     step1: |-
+      在此情形中
+
       $$[S.(T.R \lor {-T}.R \lor {-R}.{-T})], [S.T.{-R}]$$
     step2: |-
+      在此情形中
+
       $$[S.(T.R \lor {-T}.R \lor {-R}.{-T})], [S.T.{-R}]$$
   - id: 75
     kind: body

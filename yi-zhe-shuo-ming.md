@@ -4242,3 +4242,21 @@
 | double prevention | — | 双重阻止 | 首译（scientific-explanation-20th） | 本库首译（Schaffer 2000）；凭证 2026-11-10 | 2026-11-10 |
 | projectable predicate | — | 可投射谓词 | 首译（scientific-explanation-20th） | 学界通行（Goodman 1955）；凭证 2026-11-10 | 2026-11-10 |
 | conserved quantity | — | 守恒量 | scientific-explanation-20th | 学界通行（物理学既有译名；Dowe 2000 守恒过程理论）；凭证 2026-11-10 | 2026-11-10 |
+| paradox of tragedy | — | 悲剧悖论 | paradox-of-tragedy | 学界惯例（Hume《论悲剧》研究通行；词条题名）；凭证 2026-11-10 | 2026-11-10 |
+| valence | — | 效价 | paradox-of-tragedy | 学界惯例（心理学情绪研究通行：正/负效价；与 bivalence 二值无关）；凭证 2026-11-10 | 2026-11-10 |
+| hedonic | — | 享乐的 | paradox-of-tragedy | 学界惯例（hedonic compensation 享乐补偿；hedonic charge 享乐电荷）；凭证 2026-11-10 | 2026-11-10 |
+| compensatory | — | 补偿式 | paradox-of-tragedy | 学界惯例（补偿式解答）；凭证 2026-11-10 | 2026-11-10 |
+| conversionary | — | 转化式 | paradox-of-tragedy | 学界惯例（转化式解释）；凭证 2026-11-10 | 2026-11-10 |
+| revisionary | — | 修正式 | paradox-of-tragedy | 学界惯例（修正式解答）；凭证 2026-11-10 | 2026-11-10 |
+| quasi-emotion | — | 准情绪 | paradox-of-tragedy | 学界惯例（Walton 虚构理论通行译法）；凭证 2026-11-10 | 2026-11-10 |
+| appreciation condition | — | 欣赏条件 | paradox-of-tragedy | 本词条首译（悖论三条件之一）；凭证 2026-11-10 | 2026-11-10 |
+| coordination condition | — | 协调条件 | paradox-of-tragedy | 本词条首译（悖论三条件之一）；凭证 2026-11-10 | 2026-11-10 |
+| response condition | — | 反应条件 | paradox-of-tragedy | 本词条首译（悖论三条件之一）；凭证 2026-11-10 | 2026-11-10 |
+| pro tanto | pro tanto | 就某一方面而言（pro tanto） | paradox-of-tragedy | 学界惯例（拉丁判词，随文括注原词）；凭证 2026-11-10 | 2026-11-10 |
+| benign masochism | — | 良性受虐 | paradox-of-tragedy | 学界惯例（Rozin 研究通行译法）；凭证 2026-11-10 | 2026-11-10 |
+| hedonic reversal | — | 快乐逆转 | paradox-of-tragedy | 学界惯例（Rozin 研究通行译法）；凭证 2026-11-10 | 2026-11-10 |
+| acedia | — | 灵性倦怠 | paradox-of-tragedy | 学界惯例（中世纪灵修术语；亦作“怠惰”备查）；凭证 2026-11-10 | 2026-11-10 |
+| threnody | — | 挽歌 | paradox-of-tragedy | 学界惯例（诗体/音乐通行）；凭证 2026-11-10 | 2026-11-10 |
+| formal object | — | 形式对象 | paradox-of-tragedy | 学界惯例（经院—现象学传统）；凭证 2026-11-10 | 2026-11-10 |
+| catharsis | — | 宣泄 | paradox-of-tragedy | 学界惯例（亚里士多德《诗学》通行）；凭证 2026-11-10 | 2026-11-10 |
+| content-given-form | — | 被赋予形式的内容 | paradox-of-tragedy | 本词条首译（Lamarque 内容—形式论）；凭证 2026-11-10 | 2026-11-10 |

@@ -2,7 +2,7 @@
   "slug": "scientific-explanation-20th",
   "kind": "retranslate",
   "zh_doc": "s/scientific-explanation-20th.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "S-trans-20261110",
       "at": "2026-11-09T22:39:00Z",
       "evidence": "s3：三校通过。`script/s_gate.py scientific-explanation-20th` 七项全绿（ledger-check / style / academic / prose / math / summary / terms）；`check_terms --docs` 硬错误 0（余 1 条 Helmholtz 告警为文献区误配，词汇表滞后 4 属全局）；结构：H1 1（SUMMARY 定名「20 世纪的科学解释理论」）、H2 12（含模板补出的 脚注/参考文献/相关词条/学术工具）、H3 20、脚注定义 75（16 注 + 59 文献键）；数学 $$ 14 与源文同；相关词条 1 条未匹配（logical positivism 无 SUMMARY 条目，保留英文）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T23:37:07Z",
+      "evidence": "r1（S-rev-20261109，独立复读）：结构核——H2 7/H3 20 与源一一对应，$$ 数学块 14 对全同，脚注键 [^note-1..16]＋59 文献键全有定义；残留英文检测 39 处命中全部为文献区照录行，正文无未译英文。发现缺陷 3 处（真问题）：段 66 漏译整句「As an illustration, suppose … includes both sexes. Then」、段 67 漏译连词 while、段 74 漏译 In this case——均为展示公式前的引导语，呈现为公式裸出无上下文。另记录 4 项已知偏差（可接受）：编者按原文 [*Editor's Note: …*] 因含 URL 无法转粗体，改用引文块（先例 h/halevi.md）；相关词条 logical positivism 无 SUMMARY 条目保留英文；模板说明行 [^key] 系 compose 生成物；* 计数若干漂移（斜体→书名号）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T23:37:07Z",
+      "evidence": "r2（S-rev-20261109，实修）：段 66/67/74 补译引导语（「举例来说，设避孕药例 (5) 的原初总体 *T* 兼含两性。于是」「反之」「在此情形中」），公式部分自源文逐字节复用（math identical 校验 src==t1==t2）；比率审计（汉字/英文词）逐段复查无其他漏译（最低段皆为纯标注段/文献段，与设计一致）；修后七项门禁全绿、prose 0。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T23:37:08Z",
+      "evidence": "r3（S-rev-20261109，复验）：`lq.py check` 硬错 0、守恒 177 段通过；`s_gate.py` 七项全绿（ledger-check/style/academic/prose/math/summary/terms）；check_terms --docs 硬错误 0（余 Helmholtz 一条为文献区误配告警、词汇表滞后 4 为全局口径）；术语 34 条已入 yi-zhe-shuo-ming.md、人名 6 条已入 ren-ming-biao.md（A–Z 排序守恒 3121 行）；人名体例与库一致（萨蒙（Wesley Salmon）、范·弗拉森、卡尔·亨佩尔、菲利普·基切尔）。判 done。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T23:37:08Z",
+      "evidence": "r3（S-rev-20261109，复验）：`lq.py check` 硬错 0、守恒 177 段通过；`s_gate.py` 七项全绿（ledger-check/style/academic/prose/math/summary/terms）；check_terms --docs 硬错误 0（余 Helmholtz 一条为文献区误配告警、词汇表滞后 4 为全局口径）；术语 34 条已入 yi-zhe-shuo-ming.md、人名 6 条已入 ren-ming-biao.md（A–Z 排序守恒 3121 行）；人名体例与库一致（萨蒙（Wesley Salmon）、范·弗拉森、卡尔·亨佩尔、菲利普·基切尔）。判 done。"
     }
   ],
   "blockers": [],

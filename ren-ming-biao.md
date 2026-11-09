@@ -417,6 +417,7 @@
 | Brueckner, Anthony | — | 安东尼·布鲁克纳 | — | — | closure-epistemic | 学界通行音译（怀疑论与先验论证）；凭证 2026-11-08 | 2026-11-08 |
 | Bruegel, Pieter | — | 彼得·勃鲁盖尔 | — | — | ingarden | 艺术史通行汉译（《伊卡洛斯的坠落》）；凭证 2026-11-08 | 2026-11-08 |
 | Bruguière, Jane de | Jane de Bruguière | 简·德·布吕吉埃 | — | — | bayle | 培尔之母，学界通行音译 | 2026-11-08 |
+| Buchanan, James M. | — | 詹姆斯·布坎南 | 美国 | 1919–2013 | contractarianism | 学界通行汉译（公共选择学派经济学家，诺奖得主；与 Allen Buchanan 艾伦·布坎南区分）；凭证 2026-11-10 | 2026-11-09 |
 | Brumberg-Chaumont, Julie | — | Julie Brumberg-Chaumont（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（离散词项研究） | 2026-11-09 |
 | Brutus, Marcus Junius | — | 布鲁图斯 | — | —；godwin | godwin | 学界通行汉译（罗马共和国政治家） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | Buber, Martin | — | 马丁·布伯 | 奥地利生，以色列 | 1878–1965 | scholem | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -2092,6 +2093,7 @@
 | Nagel, Thomas | — | 托马斯·内格尔 | — | — | ethics-deontological | 学界通行汉译（《本然的观点》作者） | 2026-11-04 |
 | Nahmanides | — | 纳赫马尼德 | — | — | albo-joseph | 犹太思想史通行（摩西·本·纳赫曼） | 2026-11-07 |
 | Namdev | — | 纳姆德夫 | 印度 | 约 1270–1350 | sikh-philosophy | 学界通行（马拉地虔信诗人，GG 收录） | 2026-11-09 |
+| Narveson, Jan | — | 简·纳维森 | 加拿大 | 1936– | contractarianism | 学界通行汉译（自由至上主义与契约主义，The Libertarian Idea 作者）；凭证 2026-11-10 | 2026-11-09 |
 | Nancy Cartwright | — | 南希·卡特赖特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Nanyue Huairang | — | 南岳怀让 | — | — | buddhism-chan | 佛学界通行汉译（马祖之师） | 2026-11-05 |
 | Nardin, Terry | Terry Nardin | 特里·纳丁 | — | — | oakeshott | 体例：现当代学者作者署名保留原文（ADR-0022）；凭证 2026-11-07 | 2026-11-07 |
@@ -3281,3 +3283,7 @@
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。
+| Warhol, Andy | — | 安迪·沃霍尔 | 美国 | 1928–1987 | paradox-of-tragedy | 学界通行汉译（波普艺术家）；凭证 2026-11-10 | 2026-11-10 |
+| Tate, Nahum | — | 纳胡姆·泰特 | 英国 | 1652–1715 | paradox-of-tragedy | 通行音译（《李尔王》改写本作者）；凭证 2026-11-10 | 2026-11-10 |
+| Dickens, Charles | Charles Dickens | 查尔斯·狄更斯（狄更斯） | 英国 | 1812–1870 | paradox-of-tragedy | 学界千年通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| Cordelia | — | 考狄利娅 | 非历史人物（《李尔王》人物） | 不适用 | paradox-of-tragedy | 莎士比亚剧中人物通行汉译；凭证 2026-11-10 | 2026-11-10 |

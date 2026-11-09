@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 19:44（UTC）
+生成时间：2026-11-09 23:45（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1171|
+|已建任务|1173|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|262|
-|在途（drafted 起、done 前）|231|
+|已完成（done）|265|
+|在途（drafted 起、done 前）|230|
 |阻塞|0|
 
 ## 任务状态分布
@@ -24,11 +24,11 @@
 |---|---|
 |pending|678|
 |cleared|153|
-|drafted|4|
+|drafted|3|
 |s3_checked|70|
 |r1_reviewed|3|
 |r2_reviewed|1|
-|done|262|
+|done|265|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -36,7 +36,7 @@
 |---|---|---|---|---|
 |A|160|160|160|57|
 |B|62|62|62|15|
-|C|172|172|172|8|
+|C|172|172|172|9|
 |D|92|92|92|12|
 |E|99|99|99|19|
 |F|96|96|96|1|
@@ -45,14 +45,14 @@
 |I|75|75|75|22|
 |J|38|38|38|9|
 |K|36|36|36|21|
-|L|144|144|26|25|
+|L|144|144|28|26|
 |M|139|139|14|6|
 |N|50|50|7|4|
 |O|21|21|11|8|
 |P|165|165|11|6|
 |Q|34|34|34|1|
 |R|85|85|85|9|
-|S|161|161|18|15|
+|S|161|161|18|16|
 |T|71|71|7|3|
 |U|4|4|0|0|
 |V|15|15|0|0|
@@ -92,7 +92,7 @@
 |bentham|retranslate|cleared|task_ops 2026-11-01|
 |berkeley|retranslate|cleared|task_ops 2026-11-01|
 |berlin|retranslate|cleared|task_ops 2026-11-01|
-|bessarion|retranslate|drafted|? 2026-11-01|
+|bessarion|retranslate|s3_checked|B-main-20261109c 2026-11-09|
 |biodiversity|retranslate|cleared|task_ops 2026-11-01|
 |bioethics-latin-america|retranslate|cleared|task_ops 2026-11-01|
 |biology-developmental|retranslate|cleared|task_ops 2026-11-01|
@@ -139,7 +139,6 @@
 |chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |closure-epistemic|retranslate|s3_checked|C-main-20261108c 2026-11-08|
-|cognitive-science|retranslate|s3_checked|主代理 2026-11-01|
 |collingwood-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |colonialism|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |computability|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -269,7 +268,8 @@
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|logic-infinitary|retranslate|s3_checked|L-main-20261109c 2026-11-09|
+|logic-dynamic|retranslate|s3_checked|L-main-20261109c 2026-11-09|
+|logic-linear|retranslate|cleared|task_ops 2026-11-09|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
@@ -285,7 +285,6 @@
 |quine-nf|retranslate|cleared|task_ops 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|
-|scientific-explanation-20th|retranslate|cleared|task_ops 2026-11-09|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
