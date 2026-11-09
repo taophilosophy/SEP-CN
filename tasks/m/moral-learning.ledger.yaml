@@ -628,140 +628,186 @@ segments:
     kind: body
     source: |-
       Cushman characterizes the distinction between value representations as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Cushman 如此刻画两类价值表征之间的区别：
+    step2: |-
+      Cushman 把两类价值表征的区别讲得很清楚：
   - id: 78
     kind: body
     source: |-
       > the functional role of value representation in a model-free system is to select actions without any knowledge of their actual consequences, whereas the functional role of value representation in a model-based system is to select actions precisely in virtue of their expected consequences. (2013, 279)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > the functional role of value representation in a model-free system is to select actions without any knowledge of their actual consequences, whereas the functional role of value representation in a model-based system is to select actions precisely in virtue of their expected consequences. (2013, 279)
+    step2: |-
+      > 在无模型系统中，价值表征的功能作用是择取行动，而无需知道行动的实际后果；而在基于模型的系统中，价值表征的功能作用恰恰是依据行动的预期后果来择取行动。（2013, 279）
   - id: 79
     kind: body
     source: |-
       According to Cushman, when presented with *Footbridge*, we rebel against pushing the man because our model-free system has assigned a negative value to the action-type *pushing*. Why do we assign this negative value? At least part of the reason, Cushman suggests, derives from model-free reinforcement learning – pushing is associated with a negative value-representation because pushing typically led to aversive outcomes (e.g., harm to victim) (2013, 282). Again, as with habit learning generally, the verdict is not thought through in terms of consequences but just in terms of the attraction or aversion to the action itself.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按 Cushman 的看法，面对*天桥*案例时，我们抗拒推人，是因为我们的无模型系统已给*推*这一行动类型赋予了负价值。我们为什么赋予它负价值？Cushman 提出，至少部分原因来自无模型强化学习——推与负价值表征相连，因为推通常导致厌恶后果（如伤害受害者）（2013, 282）。同样，与一般的习惯学习一样，裁决不是通过后果想出来的，而只是就行动本身的好恶而言。
+    step2: |-
+      照 Cushman 说，碰上*天桥*案，我们心里抗拒推人，是因为无模型系统早给“推”这个行动类型记了一笔负分。负分哪来的？他说至少有一部分来自无模型强化学习：“推”通常招来苦果（伤到人），于是与负价值表征挂上了钩（2013, 282）。跟一般习惯学习一样，裁决不是掂量后果掂出来的，而是单纯对动作本身的好恶。
   - id: 80
     kind: body
     source: |-
       Is it true that pushing itself is aversive in a way that goes beyond the foreseen bad consequences? It seems so. In a series of studies, Cushman found that participants showed negative reactions to performing actions typically associated with harm, but in which the harm clearly will not occur (Cushman et al. 2012). For example, participants were asked to use a rock to smash a manifestly fake hand; in a control condition, participants were told to use a rock to crack a nut. Even though participants knew the hand wasn’t real, they showed greater physiological distress response when striking the fake hand compared to the nut. This demonstrates that humans naturally recoil from actions that usually hurt others, even when they know those specific actions won’t cause any real harm (Cushman 2013, 286)[^cushman-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      推本身是否真的令人厌恶，且这种厌恶超出对预见坏后果的回避？看来如此。Cushman 在一系列研究中发现，参与者对执行通常与伤害相关的动作表现出负面反应，尽管伤害显然不会发生（Cushman et al. 2012）。例如，参与者被要求用石头砸一只明显是假的手；在控制条件中，参与者被要求用石头敲开坚果。尽管参与者知道那只手不是真的，与敲坚果相比，砸假手时表现出更强的生理痛苦反应。这表明，人类会本能地退缩于通常伤害他人的动作，即便知道那些具体动作不会造成任何真实伤害（Cushman 2013, 286）[^cushman-2013]。
+    step2: |-
+      单是“推”这个动作，是否本身就让人难受，而不只是怕坏后果？看来是。Cushman 的一系列研究发现，人对“通常跟伤害相连”的动作会有负面反应，哪怕明知这次不会伤人（Cushman et al. 2012）。比如，让参与者拿石头砸一只一看就假的手；对照组则拿石头敲坚果。明知那手是假的，砸假手时的生理痛苦反应仍强于敲坚果。可见人会本能地缩手于惯常害人的动作，哪怕明知这一回伤不着谁（Cushman 2013, 286）[^cushman-2013]。
   - id: 81
     kind: body
     source: |-
       ### 4.3 Beyond associationism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 Beyond associationism
+    step2: |-
+      ### 4.3 超越联想主义
   - id: 82
     kind: body
     source: |-
       Associative learning plausibly does play an important role in moral reactions. Classical conditioning likely makes certain thoughts aversive because of the association with primitive triggers of distress. Thinking of someone pointing a gun at another is distressing, though guns are not unconditioned stimuli for distress. Rather, we have learned to associate guns with harmful actions that naturally trigger our empathic responses. Classical conditioning can explain how thoughts of guns get linked with these natural (unconditioned) responses of distress. Similarly, model-free reinforcement learning likely makes certain actions intrinsically aversive. Hitting a person with a rock causes distressing reactions in the victim. This can lead us to attach negative value representations to the act of hitting itself. Thus, we find it difficult to perform such actions even if we know that the typical bad consequence won’t follow.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      联想学习很可能确实在道德反应中扮演重要角色。经典条件作用很可能使某些思想变得厌恶，因为它们与痛苦的原初触发物相关联。想到有人拿枪指着另一个人，会令人痛苦，尽管枪并不是痛苦的无条件刺激。相反，我们已学会把枪与那些自然会触发我们共情反应的有害动作联系起来。经典条件作用可以解释关于枪的思想如何与这些自然的（无条件的）痛苦反应联系起来。同样，无模型强化学习很可能使某些动作本身就带有厌恶性。用石头打人会在受害者身上引起痛苦反应。这可能使我们对击打动作本身附上负价值表征。因此，即便知道通常的坏后果不会发生，我们也难以执行这类动作。
+    step2: |-
+      联想学习在道德反应里很可能挑大梁。经典条件作用大概会让某些念头带上厌恶，因为它们跟痛苦的原初触发物连在一起。想到有人拿枪指着别人，心里就发紧——枪本身可不是痛苦的无条件刺激；是我们在后天的学习中，把枪跟那些天生会勾起共情反应的害人动作连了起来。经典条件作用正好解释：关于枪的念头，怎么同这些天然的（无条件）痛苦反应接上。同样，无模型强化学习大概会让某些动作本身带上厌恶。拿石头砸人，受害者会痛苦；这便使我们对“砸”这个动作本身也加上负价值表征。于是，明明知道这回不会出坏结果，动起手来还是别扭。
   - id: 83
     kind: body
     source: |-
       Although associative learning plausibly plays a key role in what thoughts and actions we find aversive, it’s less plausible that this suffices to explain moral judgment. One reason is that to judge something to be wrong is not the same as registering that thing as aversive. People who spank their children often find it aversive to do so, without thinking it wrong to do so. And many moral judgments concern the wrongness, not the aversiveness, of an action. In Cushman’s experiments, participants found it aversive to hit the fake hand with the rock, but they probably didn’t regard it as morally wrong. Thus, aversion isn’t sufficient for a wrongness judgment. Neither is an aversive experience necessary for a wrongness judgment. I can judge it to be wrong to cheat on one’s income taxes without working up any substantial distress response.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管联想学习很可能在我们觉得哪些思想与动作令人厌恶上起关键作用，但说它足以解释道德判断，则不那么可信。一个理由是：判断某事错误，并不等同于把它登记为令人厌恶。打孩子的父母往往觉得打起来难受，却并不认为这样做是错的。许多道德判断关乎行动的错误性，而不是其厌恶性。在 Cushman 的实验中，参与者觉得用石头砸假手令人厌恶，但大概并不认为这在道德上是错的。因此，厌恶不足以构成错误性判断；厌恶体验对错误性判断也并非必要。我可以判断在所得税上作弊是错的，而并不激起任何实质性的痛苦反应。
+    step2: |-
+      联想学习多半能左右我们厌恶哪些念头、哪些动作，可要说它足以解释道德判断，就悬了。一条理由：判定某事为错，不等于把它记成“恶心”。打孩子的父母常觉得打起来难受，却不认为打孩子是错的；许多道德判断说的是对错，不是好恶。Cushman 的实验里，参与者砸假手时觉得难受，但大概不会说这“道德上错了”。可见厌恶不足以构成错误判断；反过来，作错误判断也不必先有厌恶。我判定逃税是错的，并不需要心里先翻江倒海。
   - id: 84
     kind: body
     source: |-
       In order to explain moral judgments, more sophisticated representations seem to be demanded, representations that encode rules (e.g., Mikhail 2011; Nichols 2004 and 2021; Nichols & Mallon 2008)[^mikhail-2011][^nichols-2004][^nichols-2021]. However, once we allow such complex representations, we then face a new kind of question about moral learning – how do we learn complex moral representations? One answer is that a substantial portion of the moral system depends on a special-purpose learning system for morality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了解释道德判断，似乎需要更复杂的表征，即编码规则的表征（如 Mikhail 2011; Nichols 2004 and 2021; Nichols & Mallon 2008）[^mikhail-2011][^nichols-2004][^nichols-2021]。然而，一旦允许这类复杂表征，我们便面对关于道德学习的新问题：我们如何学习复杂的道德表征？一个答案是：道德系统的相当一部分依赖一个专司道德的专用学习系统。
+    step2: |-
+      要解释道德判断，看来得请出更复杂的表征——能把规则编进去的那种（如 Mikhail 2011; Nichols 2004 and 2021; Nichols & Mallon 2008）[^mikhail-2011][^nichols-2004][^nichols-2021]。可一旦承认这类表征，新问题就来了：复杂的道德表征是怎么学来的？一种回答是：道德系统的一大块，靠的是一套专管道德的专用学习系统。
   - id: 85
     kind: body
     source: |-
       ## 5. Nativism and moral learning
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. Nativism and moral learning
+    step2: |-
+      ## 5 先天论与道德学习
   - id: 86
     kind: body
     source: |-
       ### 5.1 The linguistic analogy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 The linguistic analogy
+    step2: |-
+      ### 5.1 语言类比
   - id: 87
     kind: body
     source: |-
       It seems that moral judgment involves complex representations that go beyond what can be acquired through associative learning processes. A prevailing systematic account of how we acquire complex moral representations is that of nativist views that are inspired by Chomskyan linguistics. On the Chomskyan view, the acquisition of grammar depends on a domain-specific learning device: a Language Acquisition Device. Similarly, according to the analogy, the acquisition of morality depends on a domain-specific learning device: a Morality Acquisition Device (Dwyer 1999 and 2006; Harman 1999; Levine et al. 2018; Mikhail 2011 and 2022)[^harman-1999][^levine-2018][^mikhail-2011][^mikhail-2022]. According to Chomskyans, the actual grammatical knowledge that a child attains depends on innate domain-specific processes that constrain the kinds of languages that humans can acquire. The point is not simply that the Language Acquisition Device is a distinct mechanism. Rather, the Chomskyan proposal is that different acquisition devices run different programs: the program for learning to perceive faces is supposed to be quite different from the device for acquiring a grammar.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      道德判断似乎涉及复杂表征，超出联想学习过程所能获得的范围。一种流行的系统说明——我们如何获得复杂的道德表征——是受乔姆斯基语言学启发的先天论观点。按乔姆斯基的看法，语法的获得依赖一种领域特殊的学习装置：语言获得装置。同理，按这一类比，道德的获得依赖一种领域特殊的学习装置：道德获得装置（Dwyer 1999 and 2006; Harman 1999; Levine et al. 2018; Mikhail 2011 and 2022）[^harman-1999][^levine-2018][^mikhail-2011][^mikhail-2022]。按乔姆斯基派的看法，儿童实际获得的语法知识，取决于先天领域特殊过程，这些过程约束人类能够习得哪些语言。要点不只是语言获得装置是一种独特机制；乔姆斯基的提法更在于：不同获得装置运行不同程序——学习认面孔的程序，与获得语法的装置，应当相当不同。
+    step2: |-
+      道德判断似乎牵扯到复杂表征，联想学习那套过程凑不出来。要系统说明人怎么获得复杂的道德表征，流行的一种思路是借乔姆斯基语言学的先天论。乔姆斯基认为，语法的获得靠一种领域特殊的装置：语言获得装置。照此类比，道德的获得也靠一种领域特殊的装置：道德获得装置（Dwyer 1999 and 2006; Harman 1999; Levine et al. 2018; Mikhail 2011 and 2022）[^harman-1999][^levine-2018][^mikhail-2011][^mikhail-2022]。乔姆斯基派说，孩子实际获得的语法知识，取决于先天的领域特殊过程，这些过程限定了人可能学会哪些语言。要点不只在“语言获得装置是套独特机制”；更在于不同装置跑不同程序——学认面孔的程序，跟学语法的装置，理应差得很远。
   - id: 88
     kind: body
     source: |-
       The core argument in favor of an innate language-acquisition device is a Poverty of the Stimulus argument. The argument maintains that the evidence available to the learner is not sufficient for domain-general learning (e.g. associative or statistical learning) to yield the mature state of grammatical knowledge from the starting state. Moral Chomskyans advance a parallel Poverty of the Stimulus argument for moral knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      支持先天语言获得装置的核心论证，是刺激贫乏论证。该论证主张，学习者可得的证据不足以让领域一般学习（如联想学习或统计学习）从起始状态达到成熟的语法知识状态。道德乔姆斯基派为道德知识提出一个平行的刺激贫乏论证。
+    step2: |-
+      支持先天语言获得装置的核心论证，是刺激贫乏论证：学习者手头的证据不够，领域一般的学习（联想、统计之类）凭它，从起始状态走不到成熟的语法知识。道德上的乔姆斯基派照方抓药，为道德知识也提了一个刺激贫乏论证。
   - id: 89
     kind: body
     source: |-
       According to the linguistic analogy, just as the acquisition of complex linguistic structures depends on a domain-specific language-acquisition device, so too the acquisition of the complex moral structures depends on a domain-specific morality-acquisition device. As Dwyer puts the view:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按语言类比，正如复杂语言结构的获得依赖领域特殊的语言获得装置，复杂道德结构的获得也依赖领域特殊的道德获得装置。正如 Dwyer 所表述的：
+    step2: |-
+      照语言类比说：复杂语言结构的获得靠领域特殊的语言获得装置，复杂道德结构的获得则靠领域特殊的道德获得装置。Dwyer 的说法是：
   - id: 90
     kind: body
     source: |-
       > The child’s mindbrain contains (at some level of abstraction) a *morality acquisition device* (or *moral faculty*) that makes possible the acquisition of all and only humanly possible moralities. The moral faculty is characterized in terms of a set of rules, principles, and constraints (universal moral grammar) that determine what aspects of her environment a child needs to pay attention to, and, together with what she hears and sees around her, determines her mature moral competence, which we can call her I-morality, or moral idiolect. (Dwyer 2006, 242)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > The child’s mindbrain contains (at some level of abstraction) a *morality acquisition device* (or *moral faculty*) that makes possible the acquisition of all and only humanly possible moralities. The moral faculty is characterized in terms of a set of rules, principles, and constraints (universal moral grammar) that determine what aspects of her environment a child needs to pay attention to, and, together with what she hears and sees around her, determines her mature moral competence, which we can call her I-morality, or moral idiolect. (Dwyer 2006, 242)
+    step2: |-
+      > 儿童的“心智大脑”里（在某种抽象层次上）含有一个*道德获得装置*（或*道德官能*），它使获得一切、且仅限人类可能的道德成为可能。道德官能以一套规则、原则与约束（普遍道德语法）来刻画；这套东西决定儿童需要注意环境中的哪些方面，并与她周遭的所见所闻一道，决定她成熟的道德能力——我们可以称之为她的“内化道德”（I-morality），或道德个人方言。（Dwyer 2006, 242）
   - id: 91
     kind: body
     source: |-
       Similarly, Mikhail proposes that we possess
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类似地，Mikhail 提出我们拥有
+    step2: |-
+      同样，Mikhail 提出我们拥有
   - id: 92
     kind: body
     source: |-
       > a “Universal Moral Grammar” (UMG) analogous to the linguist’s notion of Universal Grammar (UG), that is, an innate … morality acquisition device that maps the child’s early experience into the system of principles that constitutes the mature state of her moral competence. (Mikhail 2008, 355; 2011, 90)[^mikhail-2008]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > a “Universal Moral Grammar” (UMG) analogous to the linguist’s notion of Universal Grammar (UG), that is, an innate … morality acquisition device that maps the child’s early experience into the system of principles that constitutes the mature state of her moral competence. (Mikhail 2008, 355; 2011, 90)[^mikhail-2008]
+    step2: |-
+      > 一套“普遍道德语法”（UMG），类比于语言学家的“普遍语法”（UG）概念，即一种先天的……道德获得装置，它把儿童的早期经验映射为构成其成熟道德能力状态的原则系统。（Mikhail 2008, 355; 2011, 90）[^mikhail-2008]
   - id: 93
     kind: body
     source: |-
       The morality-acquisition device is, of course, different from the language-acquisition device, and both are different from any domain-general learning device like associationism (section 4) or statistical inference (see below, section 6).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      道德获得装置当然不同于语言获得装置，而两者都与联想主义（第 4 节）或统计推断（见下文第 6 节）之类领域一般学习装置不同。
+    step2: |-
+      道德获得装置当然不同于语言获得装置；而这两者，又都不同于联想主义（第 4 节）或统计推断（见下文第 6 节）这类领域一般的学习装置。
   - id: 94
     kind: body
     source: |-
       An innate morality-acquisition device has been posited to explain several aspects of moral cognition (see, e.g., Dwyer et al. 2009; Mikhail 2011; Mahlmann 2023)[^mahlmann-2023][^mikhail-2011]. But perhaps the most detailed accounts have applied to the moral/conventional distinction and the content of moral rules.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      提出先天道德获得装置，是为了解释道德认知的若干方面（见如 Dwyer et al. 2009; Mikhail 2011; Mahlmann 2023）[^mahlmann-2023][^mikhail-2011]。但最详细的说明，也许应用于道德/习俗区分与道德规则的内容。
+    step2: |-
+      提出先天道德获得装置，为的是解释道德认知的几个方面（见如 Dwyer et al. 2009; Mikhail 2011; Mahlmann 2023）[^mahlmann-2023][^mikhail-2011]。其中讲得最细的，大概是道德/习俗区分与道德规则的内容。
   - id: 95
     kind: body
     source: |-
       Dwyer takes early appreciation of the moral/conventional distinction as a central competence that depends on a learning device specific to morality. She writes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Dwyer 把对道德/习俗区分的早期领会看作核心能力，它依赖一种专属于道德的学习装置。她写道：
+    step2: |-
+      Dwyer 把儿童早期就能领会道德/习俗区分，看作一项核心能力，靠的是专属于道德的学习装置。她写道：
   - id: 96
     kind: body
     source: |-
       > [T]he recognition of a distinction between moral and conventional domains, and the belief that moral considerations are imbued with special force and authority appear to be universal features of human life (Song, Smetana, and Kim 1987; Turiel 1983)[^turiel-1983]. (Dwyer 1999, 169–170)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [T]he recognition of a distinction between moral and conventional domains, and the belief that moral considerations are imbued with special force and authority appear to be universal features of human life (Song, Smetana, and Kim 1987; Turiel 1983)[^turiel-1983]. (Dwyer 1999, 169–170)
+    step2: |-
+      > 承认道德领域与习俗领域之间存在区分，并相信道德考虑带有特殊的力量与权威，看来是人类生活的普遍特征（Song, Smetana, and Kim 1987; Turiel 1983）[^turiel-1983]。（Dwyer 1999, 169–170）
   - id: 97
     kind: body
     source: |-
       Similarly, in a later treatment of moral nativism, she writes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类似地，在后来关于道德先天论的一篇论述中，她写道：
+    step2: |-
+      后来论道德先天论时，她又写道：
   - id: 98
     kind: body
     source: |-
       > Three- to four-year-olds understand that moral rules differ from conventional rules in terms of two main criteria: the former have force that is independent of any particular authority (e.g., God, parents, social custom) and are closely tied up with considerations of harm and injury (see Nucci 2001; Turiel 1983, 1998)[^nucci-2001][^turiel-1983]. (Dwyer 2006, 237)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > Three- to four-year-olds understand that moral rules differ from conventional rules in terms of two main criteria: the former have force that is independent of any particular authority (e.g., God, parents, social custom) and are closely tied up with considerations of harm and injury (see Nucci 2001; Turiel 1983, 1998)[^nucci-2001][^turiel-1983]. (Dwyer 2006, 237)
+    step2: |-
+      > 三到四岁的孩子懂得，道德规则与习俗规则之別在于两项主要标准：前者的效力独立于任何特定权威（如上帝、父母、社会习俗），并与伤害、损伤的考虑紧密相关（见 Nucci 2001; Turiel 1983, 1998）[^nucci-2001][^turiel-1983]。（Dwyer 2006, 237）
   - id: 99
     kind: body
     source: |-
       Thus, Dwyer maintains that a key feature of what is acquired is the recognition that moral rules, unlike conventional rules, are authority-independent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，Dwyer 主张，所获得之物的一个关键特征，是认识到道德规则与习俗规则不同，不依赖权威。
+    step2: |-
+      所以 Dwyer 主张，孩子学到的一个关键点，就是明白道德规则与习俗规则不同：前者不依赖权威。
   - id: 100
     kind: body
     source: |-
