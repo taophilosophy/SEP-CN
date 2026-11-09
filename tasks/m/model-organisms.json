@@ -2,7 +2,7 @@
   "slug": "model-organisms",
   "kind": "retranslate",
   "zh_doc": "m/model-organisms.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-08T18:53:55Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "M-main-20261109",
+      "at": "2026-11-09T00:17:02Z",
+      "evidence": "账本 104/104 段双版落盘（batch1-8，commit b0534ebb..本批），lq.py check 守恒通过（SOFT 均为机械段与斜体转书名号正常项）；compose --write 写回 m/model-organisms.md（48413 字符）；italic_to_bold_cjk 转 2 行 + 表格 CJK 斜体 11 处改粗；四检：check_style 0 issue、check_math 0 公式无缺失、check_summary H1 0 偏差、check_academic --strict 无硬错误。"
     }
   ],
   "blockers": [],

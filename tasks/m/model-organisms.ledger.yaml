@@ -855,20 +855,26 @@ segments:
     kind: body
     source: |-
       Animal welfare considerations have a significant impact on model organism research because the most popular model organisms, mice and rats, are vertebrates and so are subject to calls for reduction and replacement. Additionally, efforts to close the translational gap between, for instance, mice, as models, and humans, as targets, has led to efforts to “humanize” mice (Davies 2012, Hyun 2019)[^davies-2012][^hyun-2019]. In these mouse model systems, a mouse bred to have a suppressed immune system has human cells or tissues introduced into their own tissues producing a human-mouse chimera (Stripecke et al. 2020)[^stripecke-2020]. These humanized mice are then used to study features of the immune system, metabolism, and/or pathologies, such as cancer (Stripecke et al. 2020, Green 2024)[^green-2024][^stripecke-2020]. The most controversial type of human-animal chimera, however, are human-animal neurological chimeras, such as those created when human glial progenitor cells were transplanted into neonatal mice and allowed to develop (Hyun 2019)[^hyun-2019]. From the standpoint of making an inference from model organism to its target, humanized mice can allow for more accurate comparisons based on shared features created through the process of humanization (Maugeri and Blasimme 2011)[^maugeri-2011]. However, these epistemic advantages trade-off against new ethical concerns. The chief ethical concern with these kinds of chimeras is that they would begin to have characteristics, including cognitive traits, that we consider to be important to moral status (Hyun 2019, Streiffer 2005, on the moral status of animals see Gruen and Monsó 2024)[^gruen-2024][^hyun-2019][^streiffer-2005]. An even stronger case for replacement then could be made for neurological chimeras.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      动物福利的考量对模式生物研究有重大影响，因为最受欢迎的模式生物小鼠与大鼠都是脊椎动物，因而要受减少与替代之呼吁的约束。此外，弥合例如作为模型的小鼠与作为目标的人类之间转化鸿沟的努力，已导致对小鼠加以“人化”的种种尝试（Davies 2012, Hyun 2019）[^davies-2012][^hyun-2019]。在这些小鼠模型系统中，一只被繁育成免疫系统受抑制的小鼠，其自身组织中被引入人类细胞或组织，从而产生人—鼠嵌合体（Stripecke et al. 2020）[^stripecke-2020]。这些“人化小鼠”随后被用于研究免疫系统、代谢和/或病理（例如癌症）的特征（Stripecke et al. 2020, Green 2024）[^green-2024][^stripecke-2020]。然而，最具争议的人—动物嵌合体类型是人—动物神经嵌合体，例如把人类胶质祖细胞移植进新生小鼠并任其发育所造出的那种（Hyun 2019）[^hyun-2019]。从由模式生物向其目标作出推断的立场看，人化小鼠可以使人依据人化过程所造出的共享特征作出更准确的比较（Maugeri and Blasimme 2011）[^maugeri-2011]。然而，这些认知上的好处要以新的伦理关切为代价。这类嵌合体最主要的伦理关切在于：它们会开始具有我们视为对道德地位重要的特征，包括认知性状（Hyun 2019, Streiffer 2005，关于动物的道德地位见 Gruen and Monsó 2024）[^gruen-2024][^hyun-2019][^streiffer-2005]。那么，对神经嵌合体而言，替代的理由就可以提得更强。
+    step2: |-
+      动物福利的考量对模式生物研究影响很大：最常用的模式生物小鼠与大鼠都是脊椎动物，自然逃不掉减少与替代的呼声。再者，为了弥合“作为模型的小鼠”与“作为目标的人类”之间的转化鸿沟，人们又试着把小鼠“人化”（Davies 2012, Hyun 2019）[^davies-2012][^hyun-2019]。在这类小鼠模型系统中，先繁育出免疫系统受抑制的小鼠，再把人类细胞或组织植入其自身组织，造出人—鼠嵌合体（Stripecke et al. 2020）[^stripecke-2020]。这些“人化小鼠”随后用来研究免疫系统、代谢，以及癌症之类的病理（Stripecke et al. 2020, Green 2024）[^green-2024][^stripecke-2020]。争议最大的，当属人—动物神经嵌合体，比如把人类胶质祖细胞移植进新生小鼠、任其发育所造出的那种（Hyun 2019）[^hyun-2019]。就“由模式生物推断其目标”而言，人化小鼠确实能凭人化过程造出的共享特征作出更准确的比较（Maugeri and Blasimme 2011）[^maugeri-2011]。可这些认知上的便宜，是拿新的伦理关切换来的。这类嵌合体最要紧的伦理关切是：它们会开始具有我们视为关乎道德地位的特征，认知性状也在其中（Hyun 2019, Streiffer 2005，关于动物的道德地位见 Gruen and Monsó 2024）[^gruen-2024][^hyun-2019][^streiffer-2005]。如此说来，对神经嵌合体，替代的理由还能提得更硬。
   - id: 100
     kind: body
     source: |-
       The goal of replacing animal models may be admired and even mandated, but the successful replacement of animal models by non-animal models has also created a paradox. In the words of Hunter, “The paradox of model organisms seems to be that the need for them will only diminish once most of the fundamental mechanisms of biology have been solved to allow the greater use of both human tissue cultures and in silico methods for drug discovery. To reach that point, however, requires the extensive use of model organisms” (Hunter 2008, 719)[^hunter-2008]. Put another way, we are far from having enough knowledge of fundamental biological systems to be able to fully implement that knowledge into computer models and simulations. To get that necessary knowledge will require much more animal based research, so the goal of animal replacement may be laudable, but will not be fully realized in the near future.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      替代动物模型的目标也许令人钦佩，甚至被规定为必需，但以非动物模型成功替代动物模型也造成了一个悖论。用 Hunter 的话说，“模式生物的悖论似乎在于：只有生物学的多数基本机制被解决，从而得以更多地使用人类组织培养与计算机模拟方法来做药物发现时，对它们的需要才会减少。然而，要达到那一步，却要求大量使用模式生物”（Hunter 2008, 719）[^hunter-2008]。换一种说法，我们对基本生物系统的了解还远远不够，无法把那些知识充分实现进计算机模型与模拟。要获得那种必要的知识，就需要多得多的基于动物的研究，因此替代动物的目标也许值得称道，却不会在不久的将来完全实现。
+    step2: |-
+      替代动物模型，这目标或可钦佩，甚至被当作硬性要求；可非动物模型一旦真的替代成功，反倒生出一个悖论。Hunter 说得好：“模式生物的悖论似乎是：只有生物学的基本机制大多被解决，从而得以更广泛地用人类组织培养和计算机模拟来做药物发现时，对模式生物的需要才会减少。可要走到那一步，偏偏又得大量使用模式生物”（Hunter 2008, 719）[^hunter-2008]。换个说法，我们对基本生物系统的了解还差得远，没法把这些知识充分落进计算机模型与模拟。要攒够那份必要的知识，还得做多得多的动物研究；所以替代动物这目标固然可嘉，短期内却实现不了。
   - id: 101
     kind: oir
     source: |-
       ### Cited Resources
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 引用资源
+    step2: |-
+      ### 引用资源
   - id: 102
     kind: oir
     source: |-
@@ -879,14 +885,30 @@ segments:
       - National Institutes of Health, 2000b, “[Currently Funded Activities and Resources Responsive to the Non-Mammalian Models Workshop Recommendations, February 1999](https://web.archive.org/web/20000818150329/http://www.nih.gov/science/models/activities/)”, August 18, 2000.
       - National Institutes of Health, 2009, “[Model Organisms for Biomedical Research](https://web.archive.org/web/20000815070936/http://www.nih.gov/science/models/)”, August 30, 2009.
       - Rorot, Wiktor, 2025, “[Looking for Keys in Model Organisms: Interpreting and Keying-up in Basal Cognition](https://philsci-archive.pitt.edu/27054/)”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Lauer, Michael, 2016, “[Model Organisms, Part 3: A Look at All RPGs for Six Models](https://web.archive.org/web/20161220025927/https://nexus.od.nih.gov/all/2016/08/24/model-organisms-part-3-a-look-at-all-rpgs-for-six-models/)”, *Open Mike Blog*, August 24, 2016.
+      - Lindsey, Jack, Samuel A. Ocko, Surya Ganguli, and Stephane Deny, 2019, “[A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](https://doi.org/10.48550/arXiv.1901.0094)”, arXiv:1901.00945
+      - Millière, Raphaël and Cameron Buckner, 2024, “[A Philosophical Introduction to Language Models – Part II: The Way Forward](https://doi.org/10.48550/arXiv.2405.03207)”, arXiv:2405.03207
+      - National Institutes of Health, 2000a, “[Model Organisms for Biomedical Research](https://web.archive.org/web/20000815070936/http://www.nih.gov/science/models/)”, February 1, 2000.
+      - National Institutes of Health, 2000b, “[Currently Funded Activities and Resources Responsive to the Non-Mammalian Models Workshop Recommendations, February 1999](https://web.archive.org/web/20000818150329/http://www.nih.gov/science/models/activities/)”, August 18, 2000.
+      - National Institutes of Health, 2009, “[Model Organisms for Biomedical Research](https://web.archive.org/web/20000815070936/http://www.nih.gov/science/models/)”, August 30, 2009.
+      - Rorot, Wiktor, 2025, “[Looking for Keys in Model Organisms: Interpreting and Keying-up in Basal Cognition](https://philsci-archive.pitt.edu/27054/)”.
+    step2: |-
+      - Lauer, Michael, 2016, “[Model Organisms, Part 3: A Look at All RPGs for Six Models](https://web.archive.org/web/20161220025927/https://nexus.od.nih.gov/all/2016/08/24/model-organisms-part-3-a-look-at-all-rpgs-for-six-models/)”, *Open Mike Blog*, August 24, 2016.
+      - Lindsey, Jack, Samuel A. Ocko, Surya Ganguli, and Stephane Deny, 2019, “[A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](https://doi.org/10.48550/arXiv.1901.0094)”, arXiv:1901.00945
+      - Millière, Raphaël and Cameron Buckner, 2024, “[A Philosophical Introduction to Language Models – Part II: The Way Forward](https://doi.org/10.48550/arXiv.2405.03207)”, arXiv:2405.03207
+      - National Institutes of Health, 2000a, “[Model Organisms for Biomedical Research](https://web.archive.org/web/20000815070936/http://www.nih.gov/science/models/)”, February 1, 2000.
+      - National Institutes of Health, 2000b, “[Currently Funded Activities and Resources Responsive to the Non-Mammalian Models Workshop Recommendations, February 1999](https://web.archive.org/web/20000818150329/http://www.nih.gov/science/models/activities/)”, August 18, 2000.
+      - National Institutes of Health, 2009, “[Model Organisms for Biomedical Research](https://web.archive.org/web/20000815070936/http://www.nih.gov/science/models/)”, August 30, 2009.
+      - Rorot, Wiktor, 2025, “[Looking for Keys in Model Organisms: Interpreting and Keying-up in Basal Cognition](https://philsci-archive.pitt.edu/27054/)”.
   - id: 103
     kind: oir
     source: |-
       ### Other Resources
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 其他资源
+    step2: |-
+      ### 其他资源
   - id: 104
     kind: oir
     source: |-
@@ -900,5 +922,25 @@ segments:
       - [Saccharomyces Genome Database (SGD)](https://www.yeastgenome.org/)
       - [The Arabidopsis Information Resource (TAIR)](https://www.arabidopsis.org/)
       - [Worm Atlas](http://www.wormatlas.org/)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [模式生物](https://public.csr.nih.gov/FAQs/ReviewersFAQs/ModelOrganisms)，审稿人常见问题，美国国立卫生研究院科学研究评审中心
+      - [模式生物共享政策](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/other/model-organism)，政策与合规（NIH）
+      - [模式生物的自然史](https://elifesciences.org/collections/8de90445/the-natural-history-of-model-organisms)，Ian Baldwin 等编（eLife 专题集）
+      - [何谓小鼠模型？](https://www.jax.org/why-the-mouse/model)（杰克逊实验室）
+      - 生物数据库：
+      - [Flybase](https://flybase.org/)
+      - [大鼠基因组数据库](https://rgd.mcw.edu/)
+      - [酿酒酵母基因组数据库（SGD）](https://www.yeastgenome.org/)
+      - [拟南芥信息资源（TAIR）](https://www.arabidopsis.org/)
+      - [线虫图谱](http://www.wormatlas.org/)
+    step2: |-
+      - [模式生物](https://public.csr.nih.gov/FAQs/ReviewersFAQs/ModelOrganisms)，审稿人常见问题，美国国立卫生研究院科学研究评审中心
+      - [模式生物共享政策](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/other/model-organism)，政策与合规（NIH）
+      - [模式生物的自然史](https://elifesciences.org/collections/8de90445/the-natural-history-of-model-organisms)，Ian Baldwin 等编（eLife 专题集）
+      - [何谓小鼠模型？](https://www.jax.org/why-the-mouse/model)（杰克逊实验室）
+      - 生物数据库：
+      - [Flybase](https://flybase.org/)
+      - [大鼠基因组数据库](https://rgd.mcw.edu/)
+      - [酿酒酵母基因组数据库（SGD）](https://www.yeastgenome.org/)
+      - [拟南芥信息资源（TAIR）](https://www.arabidopsis.org/)
+      - [线虫图谱](http://www.wormatlas.org/)
