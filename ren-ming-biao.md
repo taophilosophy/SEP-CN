@@ -216,6 +216,7 @@
 
 ## B
 
+| Baba Deep Singh | — | 巴巴·迪普·辛格 | 印度（旁遮普） | 1682–1757 | sikh-philosophy | 本库首译（智识传承开创者之一） | 2026-11-09 |
 | Babbage, Charles | — | 查尔斯·巴贝奇 | — | — | william-jevons | 学界千年通行译名（第九部布里奇沃特论丛作者） | 2026-11-07 |
 | Baceski, Tina | — | 巴切斯基 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
 | Bachman, James | — | Bachman（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
@@ -297,6 +298,9 @@
 | Bessarion | — | 贝萨里翁 | — | — | neoplatonism | 学界通行汉译（15 世纪希腊学者、枢机） | 2026-11-07 |
 | Betegh, Gábor | Gábor Betegh | 贝特格 | — | — | democritus | 音译（古希腊哲学史学者，匈牙利人名） | 2026-11-06 |
 | Bettina Brentano-von Arnim | — | 贝蒂娜·布伦塔诺-冯·阿尼姆 | — | — | bauer | 学界通行汉译（德意志浪漫派作家） | 2026-11-08 |
+| Bhai Gurdas | — | 巴伊·古尔达斯 | 印度（旁遮普） | 1540–1630 | sikh-philosophy | 本库首译（早期锡克作者，GG 首抄本书记；旁遮普音自拟） | 2026-11-09 |
+| Bhai Mani Singh | — | 巴伊·马尼·辛格 | 印度（旁遮普） | 1644–1738 | sikh-philosophy | 本库首译（智识传承开创者之一） | 2026-11-09 |
+| Bhai Vir Singh | — | 巴伊·维尔·辛格 | 印度（旁遮普） | 1872–1957 | sikh-philosophy | 本库首译（锡克现代文学奠基者；旁遮普音自拟） | 2026-11-09 |
 | Bhāsarvajña | भासर्वज्ञ | 跋沙罗婆吉那 | — | — | jayaraasi | 梵音自拟（正理派论师） | 2026-11-07 |
 | Bhāviveka | — | 清辨 | — | — | gorampa | 中观自续派论师通行汉译 | 2026-11-09 |
 | Biale, David | — | 戴维·比亚莱 | 美国 | 1949–2024 | scholem | 学界通行汉译（朔勒姆研究）；凭证 2026-11-08 | 2026-11-08 |
@@ -799,6 +803,7 @@
 | Erdős, Paul | Paul Erdős | 保罗·埃尔德什 | — | — | boolalg-math | 数学界规范译名（《数学名词》）；r2 改定，初译厄多斯 | 2026-11-06 |
 | Erich Przywara | — | 埃里希·普日瓦拉 | — | — | landmann-kalischer | 汉语神学界通行音译（耶稣会士哲学家） | 2026-11-04 |
 | Ernest Sosa | — | 欧内斯特·索萨 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Ernest Trumpp | — | 欧内斯特·特鲁姆普 | 德国 | 1828–1885 | sikh-philosophy | 学界通行（德国传教士、印度学家，1877 年《阿迪·格兰特》部分英译） | 2026-11-09 |
 | Ernst Cassirer | — | 恩斯特·卡西尔 | — | — | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Ernst Christoph Graf von Manteuffel | — | 恩斯特·克里斯托夫·冯·曼托伊费尔伯爵 | — | — | 18thGerman-preKant | 学界通行汉译（萨克森贵族，沃尔夫派护法人）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Ernst Mayr | — | 恩斯特·迈尔 | — | — | 语料回收（全目录） | 审定“迈尔”在案（生物学）；凭证 2026-11-01 | 2026-11-01 |
@@ -1014,6 +1019,7 @@
 | Ghiselin, Michael | — | Michael Ghiselin（现代学者，保留英文） | — | — | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Giambrone, Steve | — | Steve Giambrone | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Gianfrancesco Pico della Mirandola | — | 贾恩弗朗切斯科·皮科·德拉·米兰多拉 | — | — | nicole-oresme | 学界通行汉译（乔瓦尼·皮科之侄，与“乔瓦尼·皮科·德拉·米兰多拉”异人）；凭证 2026-11-08 | 2026-11-08 |
+| Giani Badan Singh | — | 智识者巴丹·辛格 | 印度（旁遮普） | 19 世纪 | sikh-philosophy | 本库首译（《法里德科特注》主持者） | 2026-11-09 |
 | Gibieuf, Guillaume | — | 纪尧姆·吉比厄夫 | — | — | descartes-ideas | 学界惯例（笛卡尔通信者/神学家，通行音译） | 2026-11-05 |
 | Gibson, James J. | — | 詹姆斯·吉布森 | — | — | bodily-awareness | 学界通行汉译（生态光学创始人）；凭证 2026-11-07 | 2026-11-07 |
 | Gilbert of Poitiers | — | 普瓦捷的吉尔伯特 | 法国／经院神学 | c. 1080–1154 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -1090,6 +1096,11 @@
 | Guifeng Zongmi | — | 圭峰宗密 | — | — | buddhism-chan | 佛学界通行汉译（华严/荷泽宗） | 2026-11-05 |
 | Gundissalinus, Dominic | — | 多米尼克·贡迪萨尔维 | — | — | binarium | 中世纪哲学通行（亦作 Gundisalvi，托莱多翻译家）；凭证 2026-11-08 | 2026-11-08 |
 | Gunkel, Hermann | — | 赫尔曼·贡克尔 | 德国 | 1862–1932 | scholem | 学界通行汉译（宗教史学派）；凭证 2026-11-08 | 2026-11-08 |
+| Guru Amar Das | — | 阿马尔达斯古鲁 | 印度（旁遮普） | 1479–1574 | sikh-philosophy | 本库首译（第三位古鲁；旁遮普音自拟） | 2026-11-09 |
+| Guru Angad | — | 安格德古鲁 | 印度（旁遮普） | 1504–1552 | sikh-philosophy | 本库首译（第二位古鲁；旁遮普音自拟） | 2026-11-09 |
+| Guru Arjan | — | 阿尔詹古鲁 | 印度（旁遮普） | 1563–1606 | sikh-philosophy | 本库首译（第五位古鲁，1604 编定 GG；旁遮普音自拟） | 2026-11-09 |
+| Guru Gobind Singh | — | 戈宾德·辛格古鲁 | 印度（旁遮普） | 1666–1708 | sikh-philosophy | 学界通行（第十位古鲁；旁遮普音自拟） | 2026-11-09 |
+| Guru Nanak | — | 那纳克古鲁 | 印度（旁遮普） | 1469–1539 | sikh-philosophy | 学界通行（锡克教创立者；旁遮普音自拟，亦作古鲁·那纳克） | 2026-11-09 |
 | Gustav Noske | — | 古斯塔夫·诺斯克 | — | — | luxemburg | 学界通行汉译（社民党国防部长）；待 specs/008 审定库复核 | 2026-11-03 |
 | Guthrie, E.R. | — | E.R.格思里 | — | — | behaviorism | 学界通行汉译（邻近学习理论） | 2026-11-05 |
 | Gutschoven, Gerard van | — | 赫拉德·范·古茨霍芬 | — | — | la-forge | 学界惯例音译（鲁汶解剖学家，笛卡儿《论人》插图作者之一）；凭证 2026-11-09 | 2026-11-09 |
@@ -1359,6 +1370,7 @@
 | Jacques Rohault | — | 雅克·罗奥 | — | — | legrand | 学界通行汉译（笛卡尔派物理学家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Jacquier | 雅基耶 | 语料回收（全目录） | 学界惯例（《原理》耶稣会版编者；通行音译）；凭证 2026-11-09 | 2026-11-09 |
 | Jaegwon Kim | — | 金在权 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Jaidev | — | 贾伊德夫 | 印度 | 约 12 世纪 | sikh-philosophy | 学界通行（《牧童歌》作者，GG 收录） | 2026-11-09 |
 | Jaimini | — | 阇弥尼 | — | — | kumaarila | 印度哲学史学界通行（《弥曼差经》作者） | 2026-11-05 |
 | Jakob Thomasius | — | 雅各布·托马修斯 | — | — | 18thGerman-preKant | 学界通行汉译（老托马修斯，莱比锡法学家兼哲学家）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Jamāli | जामालि | 阇摩利 | 古印度／耆那教 | — | jaina-philosophy | 梵音自拟（《世尊教说》中问难的弟子） | 2026-11-08 |
@@ -1499,9 +1511,11 @@
 ## K
 
 | K. Ladin | — | K. 拉丁 | — | — | justice-healthcareaccess | 学界惯例（生物伦理通行译法） | 2026-11-02 |
+| Kabir | — | 卡比尔 | 印度 | 约 1440–1518 | sikh-philosophy | 学界通行汉译（印度虔信诗人，GG 收录） | 2026-11-09 |
 | Kada Arimaro | — | 荷田在满 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Kada no Azumamaro | — | 荷田春满 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Kaegi, Dominic | — | Dominic Kaegi（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（KJG 卷次编者）；凭证 2026-11-09 | 2026-11-09 |
+| Kahn Singh Nabha | — | 卡恩·辛格·纳巴 | 印度（旁遮普） | 1861–1938 | sikh-philosophy | 本库首译（《古鲁词汇大词典》作者；旁遮普音自拟） | 2026-11-09 |
 | Kalicki, Jan | — | Jan Kalicki | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Kafka, Franz | — | 弗朗茨·卡夫卡 | 奥匈帝国（布拉格） | 1883–1924 | scholem | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Kahane, Guy | — | 盖伊·卡哈内 | 英国 | — | disability | 学界惯例音译（残疾的福利主义定义进路，与 Savulescu 合著；正文首现括注）；凭证 2026-11-09 | 2026-11-09 |
@@ -1532,6 +1546,7 @@
 | Katz, Jerrold | — | 杰瑞·卡茨 | — | —；tarski-truth | tarski-truth | 学界通行汉译（语言哲学家，《语义理论的结构》合著者） | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Katz, Leo | — | 利奥·卡茨 | — | — | ethics-deontological | 学界惯例（lawphil-theory 同款；"avoision"生造者） | 2026-11-04 |
 | Kaunda, Kenneth | — | 肯尼斯·卡翁达 | 赞比亚 | 1924–2021 | african-ethics | 学界通行音译（赞比亚首任总统）；凭证 2026-11-09 | 2026-11-09 |
+| Kavi Santokh Singh | — | 卡维·桑托克·辛格 | 印度（旁遮普） | 1787–1846 | sikh-philosophy | 本库首译（尼尔马拉派诗人学者） | 2026-11-09 |
 | Kaye, Richard | — | Kaye | 1960– | 无通行汉名，保留英文原名；凭证 2026-11-09 | quine-nf | 英国 | 2026-11-09 |
 | Keichū | 契沖 | 契沖 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Keill, John | — | 约翰·凯尔 | — | — | emilie-du-chatelet | 学界惯例（牛顿派数学家，通行音译） | 2026-11-04 |
@@ -1984,6 +1999,7 @@
 | Nagel, Ernest | — | 欧内斯特·内格尔 | — | — | biology-philosophy | 学界通行汉译（《科学的结构》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Nagel, Thomas | — | 托马斯·内格尔 | — | — | ethics-deontological | 学界通行汉译（《本然的观点》作者） | 2026-11-04 |
 | Nahmanides | — | 纳赫马尼德 | — | — | albo-joseph | 犹太思想史通行（摩西·本·纳赫曼） | 2026-11-07 |
+| Namdev | — | 纳姆德夫 | 印度 | 约 1270–1350 | sikh-philosophy | 学界通行（马拉地虔信诗人，GG 收录） | 2026-11-09 |
 | Nancy Cartwright | — | 南希·卡特赖特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Nanyue Huairang | — | 南岳怀让 | — | — | buddhism-chan | 佛学界通行汉译（马祖之师） | 2026-11-05 |
 | Nardin, Terry | Terry Nardin | 特里·纳丁 | — | — | oakeshott | 体例：现当代学者作者署名保留原文（ADR-0022）；凭证 2026-11-07 | 2026-11-07 |
@@ -2095,6 +2111,8 @@
 | Pak Chiwon | — | 朴趾源 | — | — | korean-philosophy | 汉文传统写法（北学派，燕岩） | 2026-11-05 |
 | Pak Sedang | 朴世堂 | 朴世堂 | 1629–1703 | — | korean-confucianism | 汉文传统写法（朝鲜性理学者，号西溪） | 2026-11-08 |
 | Palamedes | — | 帕拉墨得斯 | 希腊神话 | — | zeno-elea | 学界通行汉译（希腊神话英雄，雄辩术发明者；《斐德罗篇》以“爱利亚的帕拉墨得斯”称芝诺）；凭证 2026-11-09 | 2026-11-09 |
+| Pandit Gulab Singh | — | 潘迪特·古拉布·辛格 | 印度（旁遮普） | 18 世纪 | sikh-philosophy | 本库首译（尼尔马拉派学者，《解脱之道》作者） | 2026-11-09 |
+| Pandit Tara Singh Narotam | — | 潘迪特·塔拉·辛格·纳罗塔姆 | 印度（旁遮普） | 1822–1891 | sikh-philosophy | 本库首译（尼尔马拉派学者，《古鲁教法决断海》作者） | 2026-11-09 |
 | Pankenier, David W. | — | 班大伟 | — | — | chinese-phil-science | 学界通行（汉名班大伟，中国考古天文学）；凭证 2026-11-07 | 2026-11-07 |
 | Pap, Endre | — | Pap | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Pantacleia | — | 潘塔克莱娅 | — | — | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家）；凭证 2026-11-07 | 2026-11-07 |
@@ -2404,6 +2422,7 @@
 | Sa'id al-Andalusi | Sa'id al-Andalusi | 萨伊德·安达卢西 | — | — | israeli | 阿拉伯科学史通行汉译 | 2026-11-06 |
 | Saadya Gaon | — | 萨阿迪亚·加昂（Saadya ben Joseph al-Fayyumi） | — | — | israeli | 犹太哲学研究通行汉译 | 2026-11-06 |
 | Sabziwārī, Ḥājj Mullā Hādī | — | 萨布扎瓦里 | — | — | arabic-islamic-mysticism | 德黑兰学派通行音译 | 2026-11-07 |
+| Sadhu Anandghan | — | 沙杜·阿南德甘 | 印度 | 18 世纪 | sikh-philosophy | 本库首译（乌达西派注疏家，ṭīkā 作者） | 2026-11-09 |
 | Sagi, Gil | — | Gil Sagi | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Sabʿīn, Ibn | — | 伊本·萨宾 | — | — | arabic-islamic-mysticism | 西班牙苏非哲学通行音译 | 2026-11-07 |
 | Sade, Marquis de | — | 萨德 | — | — | erotic-art | 学界通行（萨德侯爵） | 2026-11-08 |
@@ -2505,6 +2524,7 @@
 | Sharpe, Johannes | — | 约翰·夏普 | — | — | alyngton | SUMMARY 定名沿用（牛津实在论者） | 2026-11-06 |
 | Shatz, David | — | 大卫·沙茨 | — | — | closure-epistemic | 学界通行音译（诺齐克知识论批评）；凭证 2026-11-08 | 2026-11-08 |
 | Shaun Nichols | — | 肖恩·尼科尔斯 | — | — | 语料回收（全目录） | 学界惯例（实验哲学/道德心理）；凭证 2026-11-01 | 2026-11-01 |
+| Sheikh Farid | — | 谢赫·法里德 | 印度（旁遮普） | 约 1173–1266 | sikh-philosophy | 学界通行（苏非诗人，GG 收录） | 2026-11-09 |
 | Sher, Gila | — | Sher | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Sheffer, Henry Maurice | — | 亨利·谢弗 | — | — | langer | 学界惯例（逻辑史通行汉译）；凭证 2026-11-08 | 2026-11-08 |
 | Shelley, Percy Bysshe | — | 珀西·比希·雪莱 | — | — | environmental-aesthetics | 千年通行 | 2026-11-08 |
@@ -2589,6 +2609,7 @@
 | Spittler, Ludwig Timotheus | — | L. T. 施皮特勒 | 德国／哥廷根史家 | — | august-rehberg | 学界通行音译；仅注内出现，生卒待核；凭证 2026-11-08 | 2026-11-08 |
 | Spivak, Gayatri Chakravorty | — | 佳亚特里·斯皮瓦克 | — | — | colonialism | 学界通行汉译（中译文献通译）；凭证 2026-11-07 | 2026-11-07 |
 | Sprenger, Jacob | — | 雅各布·施普伦格 | — | — | gianfrancesco-pico | 学界通行音译（《女巫之锤》合著者） | 2026-11-09 |
+| Sri Chand | — | 室利·昌德 | 印度（旁遮普） | 1494–1629 | sikh-philosophy | 本库首译（那纳克长子，乌达西派创立者） | 2026-11-09 |
 | Śrīgupta | श्रीगुप्त | 室利笈多 | 孟加拉／佛教中观 | fl. 7th c. | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Śrīharṣa | श्रीहर्ष | 室利诃奢 | 印度（孟加拉／摩揭陀一带）／不二论唯识 | c. 12th c. | knowledge-analysis | 沿用词汇表定名（12 世纪正理派论师；sriharsa 词条会话 2026-11-05 裁定） | 2026-11-05 |
 | Stahl | — | 施塔尔 | — | — | bauer | 学界通行音译（保守派法学家 F.J. Stahl） | 2026-11-08 |
@@ -3092,6 +3113,8 @@
 | Cebes | Κέβης | 齐贝斯 | 非历史人物（柏拉图对话人物，底比斯人） | 不适用 | ancient-soul | 学界通行 | 2026-11-09 |
 | Simmias | Σιμμίας | 西米亚斯 | 非历史人物（柏拉图对话人物，底比斯人） | 不适用 | ancient-soul | 学界通行 | 2026-11-09 |
 | Glaucon | Γλαύκων | 格劳孔 | 雅典／柏拉图对话人物（柏拉图之兄） | c. 445–? BCE | ancient-soul | 学界通行 | 2026-11-09 |
+| Thrasymachus | Θρασύμαχος | 色拉叙马霍斯 | 迦克墩／智术师 | fl. 5th c. BCE | ancient-soul | 学界通行 | 2026-11-09 |
+| Adeimantus | Ἀδείμαντος | 阿德曼托斯 | 雅典／柏拉图对话人物（柏拉图之兄） | c. 432–? BCE | ancient-soul | 学界通行 | 2026-11-09 |
 ```
 
 新增一行即完成登记；若译法变更，保留旧译法并另起一行注明"已废弃，见新行"。「依据」必填，档位同 yi-zhe-shuo-ming.md；**不得引维基百科**（ADR-0012）。无法确定习惯译法的，保留英文原名并登记，不得臆造译名。
