@@ -489,7 +489,7 @@ segments:
 
       $$ f(x) = \text{min}(x-1,0) + \text{max}(0,x-2) + r. $$
     step2: |-
-      许多经典有效的陈述都有弱反例，其构造往往循上例模式。例如「介值定理并非直觉主义有效」的论证如下：取 $[−1,1]$ 中的实数 $r$，使 $(r\leq 0 \vee 0 \lt r)$ 尚未判定（如上例）；在 $[0,3]$ 上定义一致连续函数 $f$：
+      许多经典有效的陈述都有弱反例，其构造往往循上例模式。例如「介值定理并非直觉主义有效」的论证如下：取 [−1,1] 中的实数 $r$，使 $(r\leq 0 \vee 0 \lt r)$ 尚未判定（如上例）；在 $[0,3]$ 上定义一致连续函数 $f$：
 
       $$ f(x) = \text{min}(x-1,0) + \text{max}(0,x-2) + r. $$
   - id: 53
@@ -499,7 +499,7 @@ segments:
     step1: |-
       显然 $f(0) = -1 +r$ 且 $f(3) = 1 + r$，因此 $f$ 在 [0,3] 中某点 $x$ 处取值 0。若能确定这样的 $x$，则或者 $1 \leq x$，或者 $x \leq 2$。由于 $f$ 在 $[1,2]$ 上等于 $r$，在第一种情形有 $r \leq 0$，在第二种情形有 $0\leq r$，这与陈述 $(r\leq 0 \vee 0 \leq r)$ 的不可判定性相矛盾。
     step2: |-
-      显见 $f(0) = -1 +r$、$f(3) = 1 + r$，故 $f$ 在 $[0,3]$ 某点 $x$ 取值 0。若能定出此 $x$，则或 $1 \leq x$，或 $x \leq 2$。而 $f$ 在 $[1,2]$ 上恒等于 $r$：第一种情形得 $r \leq 0$，第二种情形得 $0\leq r$，皆与 $(r\leq 0 \vee 0 \leq r)$ 之不可判定相矛盾。
+      显见 $f(0) = -1 +r$、$f(3) = 1 + r$，故 $f$ 在 [0,3] 某点 $x$ 取值 0。若能定出此 $x$，则或 $1 \leq x$，或 $x \leq 2$。而 $f$ 在 $[1,2]$ 上恒等于 $r$：第一种情形得 $r \leq 0$，第二种情形得 $0\leq r$，皆与 $(r\leq 0 \vee 0 \leq r)$ 之不可判定相矛盾。
   - id: 54
     kind: body
     source: |-
@@ -591,7 +591,7 @@ segments:
     step1: |-
       这里 $n$ 与 $m$ 取值为自然数，$\alpha$ 与 $\beta$ 取值为选择序列，$\beta\in\alpha(\overline{m})$ 意为 $\alpha$ 与 $\beta$ 的前 $m$ 个元素相同。尽管迄今为止从未给出对任意选择序列的多数连续性公理的完全令人满意的辩护——布劳威尔本人也没有——但当限制在无规律序列类上时，支持弱连续性公理有效性的论证如下。直觉主义者何时能确立形式为 $\forall\alpha\exists n A(\alpha,n)$ 的陈述？就无规律序列概念的本性而言，使 $A(\alpha,n)$ 成立的那个数 $n$ 的选择，必须在 $\alpha$ 仅有有限初始片段已知之后作出。因为我们不知道 $\alpha$ 将如何随时间推进，所以必须把 $n$ 的选择基于我们想确定 $n$ 的那个时点已知的 $\alpha$ 初始片段。这意味着：对每个与 $\alpha$ 有相同初始片段的无规律序列 $\beta$，$A(\beta,n)$ 也成立。
     step2: |-
-      其中 $n,m$ 遍涉自然数，$\alpha,\beta$ 遍涉选择序列；$\beta\in\alpha(\overline{m})$ 谓 $\alpha$ 与 $\beta$ 的前 $m$ 个元素相同。迄今对任意选择序列的多数连续性公理，尚未有完全令人满意的辩护（布劳威尔本人亦然）；但若限于无规律序列类，支持弱连续性公理的论证如下：直觉主义者何时能确立 $\forall\alpha\exists n A(\alpha,n)$？依无规律序列概念之本性，使 $A(\alpha,n)$ 成立的那个 $n$，其择定必在 $\alpha$ 仅有有限初始片段已知之后作出——因为我们不知 $\alpha$ 往后如何推进，只能以「欲确定 $n$ 之时」已知的初始片段为据。这意味着：凡与 $\alpha$ 共享该初始片段的无规律序列 $\beta$，$A(\beta,n)$ 亦成立。
+      其中 $n$ 与 $m$ 遍涉自然数，$\alpha$ 与 $\beta$ 遍涉选择序列；$\beta\in\alpha(\overline{m})$ 谓 $\alpha$ 与 $\beta$ 的前 $m$ 个元素相同。迄今对任意选择序列的多数连续性公理，尚未有完全令人满意的辩护（布劳威尔本人亦然）；但若限于无规律序列类，支持弱连续性公理的论证如下：直觉主义者何时能确立 $\forall\alpha\exists n A(\alpha,n)$？依无规律序列概念之本性，使 $A(\alpha,n)$ 成立的那个数 $n$，其择定必在 $\alpha$ 仅有有限初始片段已知之后作出——因为我们不知 $\alpha$ 往后如何推进，只能以「欲确定 $n$ 之时」已知的 $\alpha$ 初始片段为依据，来固定 $n$。这意味着：凡与 $\alpha$ 共享该初始片段的无规律序列 $\beta$，$A(\beta,n)$ 亦成立。
   - id: 64
     kind: body
     source: |-
@@ -611,7 +611,7 @@ segments:
 
       $$ \forall\alpha\exists m\forall\beta\in\alpha(\overline{m})\Phi(\alpha)=\Phi(\beta). $$
     step2: |-
-      弱连续性尚未穷尽直觉主义者对连续统的直觉：既有弱连续性公理，则似乎可以合理地假定，那个使 $\forall\beta\in\alpha(\overline{m})A(\beta,n)$ 成立的数 $m$，其选择可以显式给出。于是 $\forall\alpha\exists n A(\alpha,n)$ 蕴含存在连续泛函 $\Phi$：对每个 $\alpha$，它给出确定 $\alpha$ 长度的 $m$，$n$ 即据此择定。更形式地，令 $\mathcal{CF}$ 为连续泛函之类，此类泛函把自然数指派给无限序列，即满足
+      弱连续性尚未穷尽直觉主义者对连续统的直觉：既有弱连续性公理，则似乎可以合理地假定，那个使 $\forall\beta\in\alpha(\overline{m})A(\beta,n)$ 成立的数 $m$，其选择可以显式给出。于是 $\forall\alpha\exists n A(\alpha,n)$ 蕴含存在连续泛函 $\Phi$：对每个 $\alpha$，它给出确定 $\alpha$ 长度的 $m$，$n$ 即据此择定。更形式地，令 $\mathcal{CF}$ 为连续泛函 $\Phi$ 之类，此类泛函把自然数指派给无限序列，即满足
 
       $$ \forall\alpha\exists m\forall\beta\in\alpha(\overline{m})\Phi(\alpha)=\Phi(\beta). $$
   - id: 66
