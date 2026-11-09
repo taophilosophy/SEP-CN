@@ -235,38 +235,50 @@ segments:
     kind: body
     source: |-
       Given the complex causal pathways and heterogeneity of cancer, perhaps it is not surprising that, as Bertolaso (2016) argues, the history of attempts to define cancer have floundered. Either cancer is defined so vaguely as to include non-pathological states, or so narrowly as to rule out cases that might otherwise be included. Among the many definitions she canvases are: “abnormal proliferation,” “unregulated growth,” “a disease of cell differentiation rather than multiplication,” “the result of destruction of tissue architecture,” “a systems biology disease,” “blocked ontogeny,” a disease of “suppressed (sic) immune function,” a “metabolic” and “genomic” disease. Such a variety of definitions is due to the fact that cancer has many causes, and involves many different types of dysregulation, at a variety of temporal and spatial scales. Suffice it to say, it is no small challenge to identify defining features of cancer, let alone arriving at a unified “theory” of disease etiology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于癌症复杂的因果通路和异质性，Bertolaso（2016）论证说，定义癌症的尝试史屡屡受挫，这也许并不令人意外。要么癌症定义得过于含糊，以致把非病理状态也包括进来；要么定义得过于狭窄，以致排除了本来可能应当包括的病例。她梳理的众多定义中有：“异常增殖”、“不受调控的生长”、“一种细胞分化而非细胞增殖的疾病”、“组织结构遭到破坏的结果”、“一种系统生物学疾病”、“发育受阻”、一种“免疫功能被抑制（原文如此）”的疾病、一种“代谢”病和一种“基因组”病。定义如此多样，原因在于癌症有许多成因，涉及许多不同类型的失调，横跨各种各样的时间和空间尺度。不必多说，要确定癌症的定义性特征绝非易事，更不用说得出关于疾病病因学的统一“理论”了。
+    step2: |-
+      癌症的因果通路复杂，又高度异质，所以 Bertolaso（2016）说定义癌症的尝试史屡屡碰壁，也许并不意外。癌症的定义要么含糊到把非病理状态也算进来，要么狭窄到把本该算进来的病例挡在外面。她梳理过的定义有一大串：“异常增殖”、“不受调控的生长”、“一种细胞分化而非细胞增殖的疾病”、“组织结构遭到破坏的结果”、“一种系统生物学疾病”、“发育受阻”、一种“免疫功能被抑制（原文如此）”的疾病、“代谢”病、“基因组”病。定义之所以这么杂，是因为癌症成因多，涉及许多不同类型的失调，横跨各种时间和空间尺度。不用多说，要定出癌症的定义性特征就不是小事，更不用说搞出一套关于疾病病因学的统一“理论”。
   - id: 30
     kind: body
     source: |-
       One might well ask, however, whether the lack of a unified theory of cancer is a cause for concern. Is this a sign of immature science? Kincaid has argued to the contrary (2008), “biomedical science can make significant progress without precise definitions of disease, without full-fledged theories of disease and of normal biological functioning, and without disease entities being natural kinds” (p. 368). Kincaid argues that “There is no clear definition of what constitutes a cancerous cell in terms of necessary and sufficient conditions. However, no one thinks that cancer research should stop until we get this definition settled, or that creating linguistic uniformity is important for understanding the science. The science certainly makes progress nonetheless… Likewise, there is no parsimonious theory of the disease and the normal functioning from which it is a deviation. Instead, we have piecemeal causal explanations” (p. 373). Kincaid is correct. Arguably, given the context-dependence or local constraints on cancer causation, (and perhaps also, diseases more generally) piecemeal reductive explanations are often the best we can do (Schaffner, 2006).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，人们很可以问：癌症缺乏统一理论，是不是值得担心的事？这是不是科学不成熟的迹象？Kincaid（2008）持相反看法，“生物医学科学可以在没有精确的疾病定义、没有关于疾病和正常生物功能的完备理论、也没有把疾病实体当作自然种类的情况下取得重大进展”（第 368 页）。Kincaid 论证说，“关于什么构成癌细胞，并没有以必要且充分条件表述的清楚定义。然而，没有人认为，在这个定义定下来之前癌症研究就该停下，或者认为创造语言上的一致对理解这门科学很重要。科学无疑仍在取得进展……同样，也没有关于疾病以及它所偏离的正常功能的简约理论。相反，我们有的是零碎的因果解释”（第 373 页）。Kincaid 说得对。可以说，鉴于癌症因果的语境依赖性或局部约束（也许对整个疾病领域也是如此），零碎的还原论解释往往是我们所能做到的最好的解释（Schaffner, 2006）。
+    step2: |-
+      不过，人们很可以问：癌症没有统一理论，是不是值得担心？这是不是科学还不成熟的迹象？Kincaid（2008）的看法相反：“生物医学科学可以在没有精确疾病定义、没有关于疾病和正常生物功能的完备理论、也没有把疾病实体当作自然种类的条件下，取得重大进展”（第 368 页）。Kincaid 说：“关于什么构成癌细胞，并没有用必要且充分条件表述的清楚定义。可是，没有人认为在这个定义定下来之前癌症研究就该停下，也没有人认为，制造语言上的一致对理解这门科学很重要。科学无疑照旧在进展……同样，也没有一套关于疾病以及它所偏离的正常功能的简约理论。我们有的是零碎的因果解释”（第 373 页）。Kincaid 说得对。可以说，癌症因果受语境约束、受局部条件约束（也许整个疾病领域都如此），所以零碎的还原论解释往往已经是能做到的最好解释（Schaffner, 2006）。
   - id: 31
     kind: body
     source: |-
       The question of what function such a unified theory might serve is a matter of some debate. A particular source of contention surrounds the merits of the research program unified by a search for genetic mechanisms associated with cancer cell behavior (Strauss, et. al., 2021). This research program has received many different names: the “oncogene paradigm,” (Bishop 1995; Morange 1997)[^bishop-1995][^morange-1997] “vision,” (Morange 1997)[^morange-1997], “theory,” or “paradigm,” (Sonnenschein & Soto 2008; Soto and Sonnenschein, 2004, 2005)[^sonnenschein-2008][^soto-2008], “model” (Temin 1974; Vogelstein & Kinzler 1993)[^temin-1974][^vogelstein-1993], “theory-method package” (Fujimura 1987, 1992)[^fujimura-1987], and “framework” (Blasimme, et al. 2013). Some contend that focus on genetic mechanisms is a “failed” paradigm, or a “degenerating” (as opposed to “progressive”) research program. Resolving such debates seems to require first that we have some measure of progress – hardly a straightforward matter, given the variety of goals of a scientific research program, and their transformations, over time. While some see the central goal of research as the generation of true theories, others focus on the generation of novel experimental traditions, the generation of fruitful lines of inquiry, the generation of local (as opposed to general) explanations of particular patterns or processes, or useful ways of classifying data. A more modest way of framing the question surrounding the “oncogene” paradigm’s failure or success might be to focus on how commitment to this “explanatory framework” has been useful in some ways, less so in others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种统一理论能起什么作用，是个有争议的问题。争论的一个具体来源，围绕着一个以寻找与癌细胞行为相关的遗传机制为纽带的研究纲领的价值（Strauss, et. al., 2021）。这个研究纲领有过许多不同的名称：“癌基因范式”（Bishop 1995; Morange 1997）[^bishop-1995][^morange-1997]、“愿景”（Morange 1997）[^morange-1997]、“理论”或“范式”（Sonnenschein & Soto 2008; Soto and Sonnenschein, 2004, 2005）[^sonnenschein-2008][^soto-2008]、“模型”（Temin 1974; Vogelstein & Kinzler 1993）[^temin-1974][^vogelstein-1993]、“理论—方法组合”（Fujimura 1987, 1992）[^fujimura-1987]，以及“框架”（Blasimme, et al. 2013）。有些人主张，聚焦遗传机制是一个“失败”的范式，或者是一个“退化”的（相对于“进步”的）研究纲领。要解决这类争论，似乎首先得有一些衡量进步的尺度——鉴于科学研究纲领的目标多种多样、而且随时间转变，这绝非简单之事。有些人把研究的中心目标看作生成真的理论，另一些人则着眼于生成新的实验传统、生成富有成果的探究路线、生成对特定模式或过程的局部（相对于一般）解释，或者生成有用的数据分类方式。要更审慎地框定“癌基因”范式失败还是成功的问题，也许可以着眼于：对这一“解释框架”的承诺在哪些方面有用、在哪些方面不那么有用。
+    step2: |-
+      这样一套统一理论能派什么用场，本身就有争议。争论的一个焦点，是那个以寻找与癌细胞行为相关的遗传机制为纽带的研究纲领有多大价值（Strauss 等，2021）。这个纲领有过许多名字：“癌基因范式”（Bishop 1995; Morange 1997）[^bishop-1995][^morange-1997]、“愿景”（Morange 1997）[^morange-1997]、“理论”或“范式”（Sonnenschein & Soto 2008; Soto and Sonnenschein, 2004, 2005）[^sonnenschein-2008][^soto-2008]、“模型”（Temin 1974; Vogelstein & Kinzler 1993）[^temin-1974][^vogelstein-1993]、“理论—方法打包”（Fujimura 1987, 1992）[^fujimura-1987]，还有“框架”（Blasimme 等，2013）。有人认为，盯着遗传机制是个“失败”的范式，或者是一个“退化”的（而非“进步”的）研究纲领。要了结这类争论，似乎首先得有一把衡量进步的尺子；可科研纲领的目标五花八门、还会随时间变化，这绝非简单的事。有人把科研的中心目标定为产出真理论，有人则看重产出新的实验传统、产出有前途的探究路线、产出对特定模式或过程的局部（而非一般）解释，或者产出好用的数据分类办法。要把“癌基因”范式是成是败的问题问得更稳妥，也许可以看：抱住这个“解释框架”在哪些方面管用，在哪些方面不那么管用。
   - id: 32
     kind: body
     source: |-
       For instance, Blasimme, et al. (2013) characterize the search for oncogenes as an “explanatory framework”: “causal patterns, schemata (in the sense of Darden 2002), intuitions, hypotheses, evidential standards and various bits of evidence and data coming from different experimental settings and instrumental devices,” which “establish selective and local criteria of causal relevance that drive the search for, characterization and use of biological mechanisms.” Rather than consisting of sets of laws or general principles, such frameworks help generate strategies in the search for causes, and narrow the field of inquiry. Blassime, et al. argue that “explanatory frameworks allow for changes of scientific perspective on the causal relevance of mechanisms without necessarily fully replacing previous explanatory frameworks” (p. 375). Explanatory frameworks, in other words, can “coexist” or be “gradually displaced,” rather than stand in mutually exclusive relations with one another. As new questions arose, and new information was discovered, this explanatory framework became elaborated. Depending upon how permissive or restrictive our characterization of this framework, it need not be viewed as at odds with, for instance, attention to other causal factors in cancer, as discussed below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，Blasimme 等（2013）把对癌基因的寻找刻画为一个“解释框架”：“因果模式、图式（Darden 2002 意义上的）、直觉、假说、证据标准，以及来自不同实验情境和仪器装置的种种证据与数据”，它们“确立起选择性的、局部的因果相关性标准，推动对生物机制的寻找、刻画和使用”。这类框架不是由规律或一般原理的集合构成，而是帮助生成寻找原因的策略，并缩小探究范围。Blasimme 等论证说，“解释框架允许科学对机制因果相关性的看法发生改变，而不必完全替换先前的解释框架”（第 375 页）。换句话说，解释框架可以“共存”或被“逐渐取代”，而不是彼此处于互斥关系。随着新问题出现、新信息被发现，这一解释框架变得精细。取决于我们对这一框架的刻画有多宽松或多严格，它不必被看作与下文讨论的对癌症中其他因果因素的关注相冲突。
+    step2: |-
+      例如，Blasimme 等（2013）把对癌基因的寻找说成一个“解释框架”：“因果模式、图式（Darden 2002 意义上的）、直觉、假说、证据标准，以及来自不同实验情境和仪器装置的种种证据与数据”；这些东西“立起选择性的、局部的因果相关性标准，推动人们去寻找、刻画和使用生物机制”。这类框架不是一堆规律或一般原理，而是帮着生成找原因的策略，把探究范围收窄。Blasimme 等认为，“解释框架允许科学对机制的因果相关性换个看法，而不必把先前的解释框架整个换掉”（第 375 页）。换句话说，解释框架可以“共存”，也可以被“逐渐取代”，不必彼此互斥。新问题冒出来，新信息被挖出来，这个解释框架就越长越细。看我们把它刻画得多宽松或多严格，它不必与下面对癌症中其他因果因素的关注相冲突。
   - id: 33
     kind: body
     source: |-
       ## 2. Explaining Cancer: Theories, Models and Mechanisms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 解释癌症：理论、模型与机制
+    step2: |-
+      ## 2 解释癌症：理论、模型与机制
   - id: 34
     kind: body
     source: |-
       What does it mean to explain cancer? The question is ambiguous, and fraught. For, by “cancer” one could have several targets of explanation in mind: the general process of transformation of a cell into a “cancer cell,” a very general characterization of the process of carcinogenesis as a whole, the process of invasion and metastasis in solid tumors in particular, the emergence and roles of intratumor heterogeneity, differential rates of incidence of different cancer types, patterns of cancer incidence or mortality in different environments, socioeconomic groups, races, ages, or sexes. Each of these explanatory targets arguably calls for quite different *kinds* of explanation, and not merely different explanatory information. The fact that these explanations are different in kind may (in part) explain why there appears to be such a variety of views amongst philosophers concerning the aim and character of explanation in cancer research, drawing upon a long history of debate among philosophers of biology concerning norms of explanation (See the entries on 20th century theories of scientific explanation and philosophy of systems and synthetic biology). Perhaps not surprisingly, also, there is also a history of dispute amongst cancer scientists about competing research agendas and norms of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      解释癌症意味着什么？这个问题有歧义，也令人忧虑。因为说到“癌症”，人们心里可能有几个不同的解释目标：一个细胞转化为“癌细胞”的一般过程；癌变整个过程的一种非常一般的刻画；尤其是实体瘤中的侵袭与转移过程；肿瘤内异质性的出现与作用；不同癌症类型发病率的差异；不同环境、社会经济群体、种族、年龄或性别中癌症发病率或死亡率的模式。这些解释目标中的每一个，按理说都要求相当不同的*解释种类*，而不只是不同的解释信息。这些解释在种类上不同这一事实，也许（部分地）解释了为什么在癌症研究中解释的目标和特征问题上，哲学家之间似乎有如此多样的看法——这借用了生物学哲学家之间关于解释规范的长期争论史（见“20 世纪的科学解释理论”与“系统与合成生物哲学”词条）。同样也许并不令人意外的是，癌症科学家之间也有关于相互竞争的研究议程和解释规范的争论史。
+    step2: |-
+      解释癌症是什么意思？这个问题既含糊，又让人犯难。因为一说到“癌症”，人们心里可能有好几个不同的解释目标：一个细胞变成“癌细胞”的一般过程；癌变整个过程的一个很一般的刻画；特别是实体瘤里的侵袭与转移过程；肿瘤内异质性怎么出现、起什么作用；不同癌症类型发病率为何不同；不同环境、社会经济群体、种族、年龄或性别中癌症发病率或死亡率的模式。这些解释目标，按理说各自要求相当不同的*解释种类*，而不只是不同的解释信息。这些解释在种类上不同，也许（部分）说明了：在癌症研究里解释的目标和性质是什么，哲学家为何看法如此多样——这背后是生物学哲学家关于解释规范的长期争论（见“20 世纪的科学解释理论”与“系统与合成生物哲学”词条）。同样不奇怪的是，癌症科学家之间也一直为研究议程和解释规范争论不休。
   - id: 35
     kind: body
     source: |-
