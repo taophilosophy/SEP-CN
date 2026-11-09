@@ -1,0 +1,50 @@
+{
+  "slug": "peter-spain",
+  "kind": "retranslate",
+  "zh_doc": "p/peter-spain.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T12:10:18Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T13:07:46Z",
+      "evidence": "账本50段双版(parts/p1..p5); lq check HARD=0(SOFT: 机械段1+斜体转书名若干); compose --write 17982字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T13:07:46Z",
+      "evidence": "脚注键29枚全等; 年代核销(1225/1235/1240/1250/Priscianus minor等)全等; 书名译名沿登记册(《逻辑纲要》《助范畴词》《大谬误》); 相关词条核对(SUMMARY 行全对应); 残留外文碎片0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T13:07:46Z",
+      "evidence": "check_prose 10告警实修清零(de-chain6/passive4/long1,豁免0); style curly-quotes 1处修复(拉丁书名内直引号改弯引号)"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T13:07:47Z",
+      "evidence": "check_style --strict 0; markdownlint-cli2 0; check_math 0; check_academic --strict 0 硬错误"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T12:10:18Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 14, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "f169add9bcfda5ad21df5e1f7893ad1d847da311dde640deca8049e86ff10891"
+  }
+}
