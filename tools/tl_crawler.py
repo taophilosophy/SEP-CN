@@ -159,7 +159,7 @@ class Crawler:
         return {'term': term, 'status': status, 'dbs': dbs, 'error': err}
 
     # ---- 批次循环 ----
-    def run_batch(self, items, out_path, retries=3):
+    def run_batch(self, items, out_path, retries=2):
         token = self.token()
         if not token:
             raise SystemExit('未检测到登录令牌：先跑 --login 人工登录')
@@ -174,7 +174,7 @@ class Crawler:
                     break
                 self.degraded_streak += 1
                 if self.degraded_streak >= 2:
-                    wait = 90 if attempt == 1 else 300
+                    wait = 60
                     print('  [降级] 第 %d 次，重新激活并冷却 %ds' % (attempt, wait), flush=True)
                     self.cool_until = time.time() + wait
                     self._cool()

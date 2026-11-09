@@ -978,8 +978,10 @@ segments:
     kind: body
     source: |-
       Let us call a cardinal κ *compact* (resp. *weakly compact*) if the language L(κ,κ) is κ-compact (resp. weakly κ-compact). Then we have the following results:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们称基数 κ 为 *紧致的*（相应地，*弱紧致的*），如果语言 L(κ,κ) 是 κ-紧致的（相应地，弱 κ-紧致的）。于是有如下结果：
+    step2: |-
+      称基数 κ *紧致*（相应：*弱紧致*），如果语言 L(κ,κ) 是 κ-紧致（相应：弱 κ-紧致）的。于是有：
   - id: 112
     kind: body
     source: |-
@@ -990,14 +992,30 @@ segments:
       > (3.3) Suppose κ is inaccessible. Then κ is *weakly compact*  ⇔  L(κ,ω) is *weakly* κ-*compact*. Also, Also κ is weakly compact ⇒ *there is a set of* κ *inaccessibles before* κ. Thus a weakly compact inaccessible cardinal is exceedingly large; in particular it cannot be the first, second, …, *nᵗʰ*, … inaccessible.
       >
       > (3.4) κ *is compact* ⇒ κ *is inaccessible*. (But, by the result immediately above, the converse fails.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (3.1) ℵ₀ *是紧致的*。当然，这只是表达一阶语言紧致性定理的简洁方式。
+      >
+      > (3.2) κ *弱紧致* ⇒ L(κ,ω) *弱* κ-*紧致* ⇒ κ *弱不可达*。因此，（与集合论通常公理一道）可以一致地假定：没有 κ ≥ ω₁ 的语言 L(κ,ω) 是弱 κ-紧致的，更不用说弱 κ-完全的。
+      >
+      > (3.3) 设 κ 不可达。则 κ *弱紧致*  ⇔  L(κ,ω) *弱* κ-*紧致*。并且，κ 弱紧致 ⇒ *在* κ *之前存在一集* κ *个不可达基数*。于是，弱紧致的不可达基数极大；特别是，它不可能是第一个、第二个、…、第 *n* 个、… 不可达基数。
+      >
+      > (3.4) κ *紧致* ⇒ κ *不可达*。（但由上述结果，逆命题不成立。）
+    step2: |-
+      > (3.1) ℵ₀ *是紧致的*。当然，这只是表达一阶语言紧致性定理的简洁方式。
+      >
+      > (3.2) κ *弱紧致* ⇒ L(κ,ω) *弱* κ-*紧致* ⇒ κ *弱不可达*。因此（与集合论通常公理一道）可以一致地假定：没有 κ ≥ ω₁ 的语言 L(κ,ω) 是弱 κ-紧致的，更不用说弱 κ-完全。
+      >
+      > (3.3) 设 κ 不可达。则 κ *弱紧致*  ⇔  L(κ,ω) *弱* κ-*紧致*。并且，κ 弱紧致 ⇒ *在* κ *之前存在一集* κ *个不可达基数*。于是，弱紧致的不可达基数极大；特别是，它不可能是第一个、第二个、…、第 *n* 个、… 不可达基数。
+      >
+      > (3.4) κ *紧致* ⇒ κ *不可达*。（但由上述结果，逆命题不成立。）
   - id: 113
     kind: body
     source: |-
       Let Constr stand for Gödel's axiom of constructibility; recall that Constr is consistent with the usual axioms of set theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设 Constr 代表哥德尔的可构成性公理；回忆 Constr 与集合论的通常公理一致。
+    step2: |-
+      设 Constr 代表哥德尔的可构成性公理；记得它与集合论通常公理一致。
   - id: 114
     kind: body
     source: |-
@@ -1006,20 +1024,34 @@ segments:
       > (3.6) *Assume* Constr *and let* κ *be inaccessible. Then* κ *is weakly compact* ⇔ L(ω₁,ω) *is weakly* κ-*compact for all* L.
       >
       > (3.7) *If* Constr *holds, then there are no cardinals* κ *for which* L(ω₁,ω) *is compact*. Accordingly, it is consistent with the usual axioms of set theory to suppose that there is no cardinal κ such that all languages L(ω₁,ω) are κ-complete. This result is to be contrasted with the fact that *all* first-order languages are ω-complete.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (3.5) *若* Constr *成立，则不存在紧致基数*。
+      >
+      > (3.6) *假定* Constr *并设* κ *不可达。则* κ *弱紧致* ⇔ L(ω₁,ω) *对所有* L *都是弱* κ-*紧致的*。
+      >
+      > (3.7) *若* Constr *成立，则不存在基数* κ *使* L(ω₁,ω) *是紧致的*。因此，与集合论通常公理一致地，可以设想没有基数 κ 使所有语言 L(ω₁,ω) 都 κ-完全。这个结果要与下述事实对照：*所有* 一阶语言都是 ω-完全的。
+    step2: |-
+      > (3.5) *若* Constr *成立，则不存在紧致基数*。
+      >
+      > (3.6) *假定* Constr *并设* κ *不可达。则* κ *弱紧致* ⇔ L(ω₁,ω) *对所有* L *都是弱* κ-*紧致的*。
+      >
+      > (3.7) *若* Constr *成立，则不存在基数* κ *使* L(ω₁,ω) *紧致*。因此，与集合论通常公理一致地，可以设想没有基数 κ 使所有语言 L(ω₁,ω) 都 κ-完全。这与下述事实恰成对照：*所有* 一阶语言都是 ω-完全的。
   - id: 115
     kind: body
     source: |-
       The import of these results is that the compactness theorem fails very badly for most languages L(κ,λ) with κ ≥ ω₁.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些结果的含义是：对大多数 κ ≥ ω₁ 的语言 L(κ,λ)，紧致性定理失败得非常厉害。
+    step2: |-
+      这些结果说明：对多数 κ ≥ ω₁ 的语言 L(κ,λ)，紧致性定理败得很惨。
   - id: 116
     kind: body
     source: |-
       Some historical remarks are in order here. In the 1930s mathematicians investigated various versions of the so-called *measure problem* for sets, a problem which arose in connection with the theory of Lebesgue measure on the continuum. In particular, the following very simple notion of measure was formulated. If *X* is a set, a (countably additive two-valued nontrivial) *measure* on *X* is a map μ on the power set P*X* to the set {0, 1} satisfying:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里应当作一些历史评论。1930 年代，数学家研究了集合的所谓 *测度问题* 的各种版本，这个问题与连续统上的 Lebesgue 测度论有关。特别是，人们表述了下面这个非常简单的测度概念。若 *X* 是集合，*X* 上的（可数可加二值非平凡）*测度* 是幂集 P*X* 到集合 {0, 1} 的映射 μ，满足：
+    step2: |-
+      这里该作点历史说明。1930 年代，数学家研究过集合的所谓 *测度问题* 的各种版本，它跟连续统上的 Lebesgue 测度论有关。特别是提出了下面这个很简单的测度概念。若 *X* 是集合，*X* 上的（可数可加、二值、非平凡）*测度* 是幂集 P*X* 到 {0, 1} 的映射 μ，满足：
   - id: 117
     kind: body
     source: |-
@@ -1028,87 +1060,125 @@ segments:
       > (b) μ({*x*}) = μ(∅) = 0 for all *x* ∈*X*, and
       >
       > (c) if *A* is any countable family of mutually disjoint subsets of *X*, then μ(∪*A*) = ∑{μ(*Y*) : *Y* ∈ *A*}.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (a) μ(*X*) = 1,
+      >
+      > (b) μ({*x*}) = μ(∅) = 0，对所有 *x* ∈*X*，并且
+      >
+      > (c) 若 *A* 是 *X* 的任意可数族两两不交子集，则 μ(∪*A*) = ∑{μ(*Y*) : *Y* ∈ *A*}。
+    step2: |-
+      > (a) μ(*X*) = 1,
+      >
+      > (b) μ({*x*}) = μ(∅) = 0，对所有 *x* ∈*X*，并且
+      >
+      > (c) 若 *A* 是 *X* 的任意可数族两两不交子集，则 μ(∪*A*) = ∑{μ(*Y*) : *Y* ∈ *A*}。
   - id: 118
     kind: body
     source: |-
       Obviously, whether a given set supports such a measure depends only on its cardinality, so it is natural to define a cardinal κ to be *measurable* if all sets of cardinality κ support a measure of this sort. It was quickly realized that a measurable cardinal must be inaccessible, but the falsity of the converse was not established until the 1960s when Tarski showed that measurable cardinals are weakly compact and his student Hanf showed that the first, second, etc. inaccessibles are not weakly compact (cf. (3.3)). Although the conclusion that measurable cardinals must be monstrously large is now normally proved without making the detour through weak compactness and infinitary languages, the fact remains that these ideas were used to establish the result in the first instance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显然，给定集合是否支持这样的测度只取决于其基数，所以自然把基数 κ 定义为 *可测的*，如果所有基数为 κ 的集合都支持这种测度。人们很快认识到，可测基数必定不可达；但直到 1960 年代 Tarski 表明可测基数是弱紧致的、其学生 Hanf 表明第一、第二等不可达基数不是弱紧致的（参看 (3.3)），才确立逆命题为假。虽然“可测基数必定极大”这一结论如今通常无需绕道弱紧致性与无穷语言即可证明，但事实仍是：这些想法最初被用来确立该结果。
+    step2: |-
+      显然，一个集合是否支持这样的测度，只取决于它的基数。于是自然把基数 κ 叫 *可测的*，如果所有基数为 κ 的集合都支持这种测度。人们很快认识到，可测基数必定不可达；但直到 1960 年代，Tarski 证明可测基数弱紧致、其学生 Hanf 证明第一、第二等不可达基数不弱紧致（参看 (3.3)），“逆命题为假”才被确立。如今通常不必绕道弱紧致性与无穷语言就能证明“可测基数极大”，但事实仍是：这些想法最初正是用来确立该结果的。
   - id: 119
     kind: body
     source: |-
       ## 4. Incompleteness of Infinite-Quantifier Languages
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 无穷量词语言的不完全性
+    step2: |-
+      ## 4 无穷量词语言的不完全性
   - id: 120
     kind: body
     source: |-
       Probably the most important result about first-order languages is the *Gödel completeness theorem* which of course says that the set of all valid formulas of any first-order language L can be generated from a simple set of axioms by means of a few straightforward rules of inference. A major consequence of this theorem is that, if the formulas of L are coded as natural numbers in some constructive way, then the set of (codes of) valid sentences is *recursively enumerable*. Thus, the completeness of a first-order language implies that the set of its valid sentences is *definable* in a particularly simple way. It would accordingly seem reasonable, given an *arbitrary* language L, to turn this implication around and suggest that, if the set of valid L-sentences is *not* definable in some simple fashion, then *no* meaningful completeness result can be established for L, or, as we shall say, that L is *incomplete*. In this section we are going to employ this suggestion in sketching a proof that “most” *infinite quantifier* languages are incomplete in this sense.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于一阶语言，也许最重要的结果是 *哥德尔完全性定理*，它当然说：任何一阶语言 L 的所有有效公式之集，可以由一小组公理经少数几条直接了当的推理规则生成。这个定理的一个主要推论是：若 L 的公式以某种构造性方式编码为自然数，则（有效句子的编码）集是 *递归可枚举的*。于是，一阶语言的完全性蕴涵：其有效句子之集以一种特别简单的方式 *可定义*。因此，给定 *任意* 语言 L，把这个蕴涵倒过来似乎是合理的：若有效 L-句子之集不能以某种简单方式定义，则 *不能* 为 L 建立任何有意义的完全性结果；或者如我们所说，L 是 *不完全的*。本节将利用这一建议，勾画一个证明：大多数 *无穷量词* 语言在这种意义上不完全。
+    step2: |-
+      一阶语言最重要的结果，大概是 *哥德尔完全性定理*：任何一阶语言 L 的所有有效公式，都能由一小组公理、经几条直截了当的推理规则生成。它有个主要推论：若 L 的公式以某种构造性方式编码成自然数，则（有效句子的编码）集 *递归可枚举*。也就是说，一阶语言的完全性蕴涵：其有效句子之集以特别简单的方式 *可定义*。于是，给定 *任意* 语言 L，不妨把这个蕴涵倒过来：若有效 L-句子之集不能用某种简单方式定义，就不能为 L 建立任何有意义的完全性结果——或者如我们所说，L 是 *不完全的*。本节就用这个思路，勾画一个证明：多数 *无穷量词* 语言都这样不完全。
   - id: 121
     kind: body
     source: |-
       Let us first introduce the formal notion of *definability* as follows. If L is a language, *A* an L-structure, and *X* a subset of the domain *A* of *A*, we say that *X* is *definable in* *A* by a formula φ(*x, y*₁,…,*yₙ*) of L if there is a sequence *a*₁,…,*aₙ* of elements of *A* such that *X* is the subset of all elements *x* ∈ *A* for which φ(*x, a*₁,…,*aₙ*) holds in *A*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      先引入 *可定义性* 的形式概念。若 L 是语言，*A* 是 L-结构，*X* 是 *A* 的域 *A* 的子集，我们说 *X* 在 *A* 中由 L 的公式 φ(*x, y*₁,…,*yₙ*) *可定义*，如果存在 *A* 中元素序列 *a*₁,…,*aₙ*，使 *X* 是满足“φ(*x, a*₁,…,*aₙ*) 在 *A* 中成立”的所有 *x* ∈ *A* 构成的子集。
+    step2: |-
+      先引入 *可定义性* 的形式概念。设 L 是语言，*A* 是 L-结构，*X* 是 *A* 的域 *A* 的子集。称 *X* 在 *A* 中由 L 的公式 φ(*x, y*₁,…,*yₙ*) *可定义*，如果存在 *A* 中元素序列 *a*₁,…,*aₙ*，使 *X* 恰由所有满足“φ(*x, a*₁,…,*aₙ*) 在 *A* 中成立”的 *x* ∈ *A* 组成。
   - id: 122
     kind: body
     source: |-
       Now write *Val*(L) for the set of all the *valid* L-sentences, i.e., those that hold in every L-structure. In order to assign a meaning to the statement “*Val*(L) is definable”, we have to specify
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在把 L 的所有 *有效* 句子之集记作 *Val*(L)。为给“*Val*(L) 可定义”这一陈述赋予意义，我们必须指定
+    step2: |-
+      把 L 的所有 *有效* 句子之集记作 *Val*(L)。要给“*Val*(L) 可定义”这句话赋予意义，必须先指定
   - id: 123
     kind: body
     source: |-
       1. a structure *C*(L)—the *coding structure* for L;
       2. a particular one-one map—the *coding map*—of the set of formulas of L into the domain of *C*(L).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 一个结构 *C*(L)——L 的 *编码结构*；
+      2. 一个特定的一一映射——*编码映射*——从 L 的公式集到 *C*(L) 的域。
+    step2: |-
+      1. 一个结构 *C*(L)——L 的 *编码结构*；
+      2. 一个特定的一一映射——*编码映射*——从 L 的公式集到 *C*(L) 的域。
   - id: 124
     kind: body
     source: |-
       Then, if we identify *Val*(L) with its image in *C*(L) under the coding map, we shall interpret the statement “*Val*(L) is definable” as the statement “*Val*(L), regarded as a subset of the domain of *C*(L), is definable in *C*(L) by a formula of L.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，若我们把 *Val*(L) 与它在编码映射下于 *C*(L) 中的像等同，就把“*Val*(L) 可定义”解释为：“*Val*(L) 作为 *C*(L) 的域的子集，在 *C*(L) 中由 L 的公式可定义。”
+    step2: |-
+      于是，若把 *Val*(L) 与它在编码映射下于 *C*(L) 中的像等同，“*Val*(L) 可定义”就解释为：“*Val*(L) 作为 *C*(L) 的域的子集，在 *C*(L) 中由 L 的公式可定义。”
   - id: 125
     kind: body
     source: |-
       For example, when L is the first-order language L of arithmetic, Gödel originally used as coding structure the standard model of arithmetic ℕ and as coding map the well-known function obtained from the prime factorization theorem for natural numbers. The recursive enumerability of *Val*(L) then means simply that the set of codes (“Gödel numbers”) of members of *Val*(L) is definable in ℕ by an L-formula of the form ∃*y*φ(*x, y*), where φ(*x, y*) is a recursive formula.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，当 L 是算术的一阶语言 L 时，哥德尔最初以算术标准模型 ℕ 为编码结构，以由自然数素因子分解定理得到的著名函数为编码映射。于是 *Val*(L) 的递归可枚举性只意味着：*Val*(L) 成员的编码（“哥德尔数”）之集，在 ℕ 中由形如 ∃*y*φ(*x, y*) 的 L-公式可定义，其中 φ(*x, y*) 是递归公式。
+    step2: |-
+      例如，当 L 是算术的一阶语言时，哥德尔最初拿算术标准模型 ℕ 当编码结构，拿由自然数素因子分解定理得到的著名函数当编码映射。于是 *Val*(L) 递归可枚举，只意味着：*Val*(L) 成员的编码（“哥德尔数”）之集，在 ℕ 中能由形如 ∃*y*φ(*x, y*) 的 L-公式定义，其中 φ(*x, y*) 是递归公式。
   - id: 126
     kind: body
     source: |-
       Another, equivalent, coding structure for the first-order language of arithmetic is the structure[^note-5] ⟨*H*(ω), ∈ ⨡ *H*(ω)⟩ of *hereditarily finite sets*, where a set *x* is *hereditarily finite* if *x*, its members, its members of members, etc., are all finite. This coding structure takes account of the fact that first-order formulas are naturally regarded as finite sets.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      算术一阶语言的另一种等价编码结构，是 *遗传有穷集合* 的结构[^note-5] ⟨*H*(ω), ∈ ⨡ *H*(ω)⟩，其中集合 *x* 是 *遗传有穷的*，如果 *x*、其成员、其成员的成员等等都是又穷的。这种编码结构顾及了如下事实：一阶公式被自然地看作有穷集合。
+    step2: |-
+      算术一阶语言的另一种等价编码结构，是 *遗传有穷集合* 的结构[^note-5] ⟨*H*(ω), ∈ ⨡ *H*(ω)⟩；集合 *x* 叫 *遗传有穷的*，如果 *x*、其成员、其成员的成员……都是又穷的。这种编码结构照顾到一点：一阶公式天然被看作有穷集合。
   - id: 127
     kind: body
     source: |-
       Turning now to the case in which L is an infinitary language L(κ,λ), what would be a suitable coding structure in this case? We remarked at the beginning that infinitary languages were suggested by the possibility of thinking of formulas as set-theoretical objects, so let us try to obtain our coding structure by thinking about what kind of set-theoretical objects we should take infinitary formulas to be. Given the fact that, for each φ∈Form(κ,λ), φ and its subformulas, subsubformulas, etc., are all of length < κ,[^note-6] a moment's reflection reveals that formulas of L(κ,λ) “correspond” to sets *x hereditarily of cardinality* < κ in the sense that *x*, its members, its members of members, etc., are all of cardinality < κ. The collection of all such sets is written *H*(κ). *H*(ω) is the collection of *hereditarily finite* sets introduced above, and *H*(ω₁) that of all *hereditarily countable* sets.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在转到 L 是无穷语言 L(κ,λ) 的情形：这时什么是合适的编码结构？我们在开头说过，无穷语言是由“把公式看作集合论对象”的可能性所提示的，所以让我们通过思考无穷公式应当被当作何种集合论对象，来获得编码结构。既然对每个 φ∈Form(κ,λ)，φ 及其子公式、子子公式等等长度都 < κ[^note-6]，稍加思索便知：L(κ,λ) 的公式“对应”于 *遗传基数* < κ 的集合 *x*，即 *x*、其成员、其成员的成员等等基数都 < κ。所有这类集合的总体记作 *H*(κ)。*H*(ω) 就是上面引入的 *遗传有穷* 集合总体，*H*(ω₁) 则是所有 *遗传可数* 集合的总体。
+    step2: |-
+      现在转到 L 是无穷语言 L(κ,λ) 的情形：合适的编码结构是什么？开头说过，无穷语言源于“把公式当作集合论对象”的想法。那就想想无穷公式该是哪种集合论对象。既然对每个 φ∈Form(κ,λ)，φ 及其子公式、子子公式……长度都 < κ[^note-6]，稍想便知：L(κ,λ) 的公式“对应”于 *遗传基数* < κ 的集合 *x*——即 *x*、其成员、其成员的成员……基数都 < κ。这类集合的总体记作 *H*(κ)。*H*(ω) 就是前面说的 *遗传有穷* 集合总体，*H*(ω₁) 则是全体 *遗传可数* 集合。
   - id: 128
     kind: body
     source: |-
       For simplicity let us suppose that the only extralogical symbol of the base language L is the binary predicate symbol ∈ (the discussion is easily extended to the case in which L contains additional extralogical symbols). Guided by the remarks above, as coding structure for L(κ,λ) we take the structure,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为简单起见，设基础语言 L 唯一的非逻辑符号是二元谓词符号 ∈（讨论容易推广到 L 含额外非逻辑符号的情形）。受上述评论引导，我们取如下结构作为 L(κ,λ) 的编码结构：
+    step2: |-
+      为简单起见，设基础语言 L 的唯一非逻辑符号是二元谓词符号 ∈（讨论很容易推广到含额外非逻辑符号的情形）。循上述思路，取下面这个结构作为 L(κ,λ) 的编码结构：
   - id: 129
     kind: body
     source: |-
       > H(κ) =*_{df}* ⟨*H*(κ), ∈ ⨡ *H*(κ)⟩.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > H(κ) =*_{df}* ⟨*H*(κ), ∈ ⨡ *H*(κ)⟩.
+    step2: |-
+      > H(κ) =*_{df}* ⟨*H*(κ), ∈ ⨡ *H*(κ)⟩.
   - id: 130
     kind: body
     source: |-
       Now we can define the coding map of Form(κ,λ) into H(κ). First, to each basic symbol *s* of L(κ,λ) we assign a code object ^{⌈}*s*^{⌉} ∈ *H*(κ) as follows. Let {*v*_{ξ}: ξ < κ} be an enumeration of the individual variables of L(κ,λ).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在可以定义 Form(κ,λ) 到 H(κ) 的编码映射。首先，给 L(κ,λ) 的每个基本符号 *s* 指定一个编码对象 ^{⌈}*s*^{⌉} ∈ *H*(κ) 如下。设 {*v*_{ξ}: ξ < κ} 是 L(κ,λ) 个体变元的一个枚举。
+    step2: |-
+      现在可以定义 Form(κ,λ) 到 H(κ) 的编码映射。首先给 L(κ,λ) 的每个基本符号 *s* 指定编码对象 ^{⌈}*s*^{⌉} ∈ *H*(κ) 如下。设 {*v*_{ξ}: ξ < κ} 枚举 L(κ,λ) 的个体变元。
   - id: 131
     kind: body
     source: |-
@@ -1121,28 +1191,56 @@ segments:
       > | ∈ | 5 | ^{⌈} ∈ ^{⌉} |
       > | = | 6 | ^{⌈}=^{⌉} |
       > | *v*_{ξ} | ⟨0,ξ⟩ | ^{⌈}*v*_{ξ}^{⌉} |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > | 符号 | 编码对象 | 记号 |
+      > | --- | --- | --- |
+      > | ¬ | 1 | ^{⌈}¬^{⌉} |
+      > | ∧ | 2 | ^{⌈}∧^{⌉} |
+      > | ∧ | 3 | ^{⌈}∧^{⌉} |
+      > | ∃ | 4 | ^{⌈}∃^{⌉} |
+      > | ∈ | 5 | ^{⌈} ∈ ^{⌉} |
+      > | = | 6 | ^{⌈}=^{⌉} |
+      > | *v*_{ξ} | ⟨0,ξ⟩ | ^{⌈}*v*_{ξ}^{⌉} |
+    step2: |-
+      > | 符号 | 编码对象 | 记号 |
+      > | --- | --- | --- |
+      > | ¬ | 1 | ^{⌈}¬^{⌉} |
+      > | ∧ | 2 | ^{⌈}∧^{⌉} |
+      > | ∧ | 3 | ^{⌈}∧^{⌉} |
+      > | ∃ | 4 | ^{⌈}∃^{⌉} |
+      > | ∈ | 5 | ^{⌈} ∈ ^{⌉} |
+      > | = | 6 | ^{⌈}=^{⌉} |
+      > | *v*_{ξ} | ⟨0,ξ⟩ | ^{⌈}*v*_{ξ}^{⌉} |
   - id: 132
     kind: body
     source: |-
       Then, to each φ ∈ Form(κ,λ) we assign the code object ^{⌈}φ^{⌉} recursively as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然后，递归地给每个 φ ∈ Form(κ,λ) 指定编码对象 ^{⌈}φ^{⌉}：
+    step2: |-
+      然后递归地给每个 φ ∈ Form(κ,λ) 指定编码对象 ^{⌈}φ^{⌉}：
   - id: 133
     kind: body
     source: |-
       > ^{⌈}*v*_{ξ} = *v*_{η}^{⌉}  =*_{df}*  ⟨^{⌈}*v*_{ξ}^{⌉}, ^{⌈}=^{⌉}, ^{⌈}*v*_{η}^{⌉}⟩,
       >
       > ^{⌈}*v*_{ξ} ∈ *v*_{η}^{⌉}  =*_{df}*  ⟨^{⌈}*v*_{ξ}^{⌉}, ^{⌈}∈^{⌉}, ^{⌈}*v*_{η}^{⌉}⟩;
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ^{⌈}*v*_{ξ} = *v*_{η}^{⌉}  =*_{df}*  ⟨^{⌈}*v*_{ξ}^{⌉}, ^{⌈}=^{⌉}, ^{⌈}*v*_{η}^{⌉}⟩,
+      >
+      > ^{⌈}*v*_{ξ} ∈ *v*_{η}^{⌉}  =*_{df}*  ⟨^{⌈}*v*_{ξ}^{⌉}, ^{⌈}∈^{⌉}, ^{⌈}*v*_{η}^{⌉}⟩;
+    step2: |-
+      > ^{⌈}*v*_{ξ} = *v*_{η}^{⌉}  =*_{df}*  ⟨^{⌈}*v*_{ξ}^{⌉}, ^{⌈}=^{⌉}, ^{⌈}*v*_{η}^{⌉}⟩,
+      >
+      > ^{⌈}*v*_{ξ} ∈ *v*_{η}^{⌉}  =*_{df}*  ⟨^{⌈}*v*_{ξ}^{⌉}, ^{⌈}∈^{⌉}, ^{⌈}*v*_{η}^{⌉}⟩;
   - id: 134
     kind: body
     source: |-
       for φ, ψ ∈ Form(κ,λ),
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对 φ, ψ ∈ Form(κ,λ)，
+    step2: |-
+      对 φ, ψ ∈ Form(κ,λ)：
   - id: 135
     kind: body
     source: |-
@@ -1151,82 +1249,120 @@ segments:
       > ^{⌈}¬φ^{⌉}  =*_{df}*  ⟨^{⌈}¬^{⌉}, ^{⌈}φ^{⌉}⟩
       >
       > ^{⌈}∃*X*φ^{⌉}  =*_{df}*  ⟨^{⌈}∃^{⌉}, {^{⌈}*x*^{⌉}: *x* ∈ *X*}, ^{⌈}φ^{⌉}⟩;
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ^{⌈}φ ∧ ψ^{⌉}  =*_{df}*  ⟨^{⌈}φ^{⌉}, ^{⌈}∧^{⌉}, ^{⌈}ψ^{⌉}⟩
+      >
+      > ^{⌈}¬φ^{⌉}  =*_{df}*  ⟨^{⌈}¬^{⌉}, ^{⌈}φ^{⌉}⟩
+      >
+      > ^{⌈}∃*X*φ^{⌉}  =*_{df}*  ⟨^{⌈}∃^{⌉}, {^{⌈}*x*^{⌉}: *x* ∈ *X*}, ^{⌈}φ^{⌉}⟩;
+    step2: |-
+      > ^{⌈}φ ∧ ψ^{⌉}  =*_{df}*  ⟨^{⌈}φ^{⌉}, ^{⌈}∧^{⌉}, ^{⌈}ψ^{⌉}⟩
+      >
+      > ^{⌈}¬φ^{⌉}  =*_{df}*  ⟨^{⌈}¬^{⌉}, ^{⌈}φ^{⌉}⟩
+      >
+      > ^{⌈}∃*X*φ^{⌉}  =*_{df}*  ⟨^{⌈}∃^{⌉}, {^{⌈}*x*^{⌉}: *x* ∈ *X*}, ^{⌈}φ^{⌉}⟩;
   - id: 136
     kind: body
     source: |-
       and finally if Φ ⊆ Form(κ,λ) with |Φ| < κ,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，若 Φ ⊆ Form(κ,λ) 且 |Φ| < κ，
+    step2: |-
+      最后，若 Φ ⊆ Form(κ,λ) 且 |Φ| < κ，则
   - id: 137
     kind: body
     source: |-
       > ^{⌈}∧Φ^{⌉}  =*_{df}*  ⟨^{⌈}∧^{⌉}, {^{⌈}φ^{⌉}: φ ∈ Φ}⟩.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ^{⌈}∧Φ^{⌉}  =*_{df}*  ⟨^{⌈}∧^{⌉}, {^{⌈}φ^{⌉}: φ ∈ Φ}⟩.
+    step2: |-
+      > ^{⌈}∧Φ^{⌉}  =*_{df}*  ⟨^{⌈}∧^{⌉}, {^{⌈}φ^{⌉}: φ ∈ Φ}⟩.
   - id: 138
     kind: body
     source: |-
       The map φ ↦ ^{⌈}φ^{⌉} from Form(κ,λ) into *H*(κ) is easily seen to be one-one and is the required coding map. Accordingly, we agree to identify *Val*(L(κ,λ)) with its image in *H*(κ) under this coding map.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从 Form(κ,λ) 到 *H*(κ) 的映射 φ ↦ ^{⌈}φ^{⌉} 容易看出是一一的，正是所需的编码映射。因此，我们约定把 *Val*(L(κ,λ)) 与它在该编码映射下于 *H*(κ) 中的像等同。
+    step2: |-
+      映射 φ ↦ ^{⌈}φ^{⌉} 从 Form(κ,λ) 到 *H*(κ)，容易看出是一一的，正是所需编码映射。因此约定：把 *Val*(L(κ,λ)) 与它在该编码映射下于 *H*(κ) 中的像等同。
   - id: 139
     kind: body
     source: |-
       When is *Val*(L(κ,λ)) a *definable* subset of H(κ)? In order to answer this question we require the following definitions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Val*(L(κ,λ)) 何时是 H(κ) 的 *可定义* 子集？为回答这个问题，我们需要如下定义。
+    step2: |-
+      *Val*(L(κ,λ)) 何时是 H(κ) 的 *可定义* 子集？要回答，需先给定义。
   - id: 140
     kind: body
     source: |-
       An L-formula is called a Δ₀-*formula* if it is equivalent to a formula in which all quantifiers are of the form ∀*x*∈*y* or ∃*x*∈*y* (i.e., ∀*x*(*x*∈*y* → …) or ∃*x*(*x*∈*y* ∧ …)). An L-formula is a Σ₁-*formula* if it is equivalent to one which can be built up from atomic formulas and their negations using only the logical operators ∧, ∨, ∀*x*∈*y*, ∃*x*. A subset *X* of a set *A* is said to be Δ₀ (resp. Σ₁) *on A* if it is definable in the structure ⟨*A*, ∈ ⨡ *A*⟩ by a Δ₀- (resp. Σ₁-) formula of L.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      L-公式称为 Δ₀-*公式*，如果它等价于一个所有量词都为 ∀*x*∈*y* 或 ∃*x*∈*y* 形式的公式（即 ∀*x*(*x*∈*y* → …) 或 ∃*x*(*x*∈*y* ∧ …)）。L-公式称为 Σ₁-*公式*，如果它等价于一个只能由原子公式及其否定、使用逻辑算子 ∧, ∨, ∀*x*∈*y*, ∃*x* 构造出来的公式。集合 *A* 的子集 *X* 称为在 *A* 上 Δ₀（相应地 Σ₁）的，如果它在结构 ⟨*A*, ∈ ⨡ *A*⟩ 中由 L 的 Δ₀-（相应地 Σ₁-）公式可定义。
+    step2: |-
+      L-公式叫 Δ₀-*公式*，如果它等价于一个量词全为 ∀*x*∈*y* 或 ∃*x*∈*y* 形式的公式（即 ∀*x*(*x*∈*y* → …) 或 ∃*x*(*x*∈*y* ∧ …)）。L-公式叫 Σ₁-*公式*，如果它等价于一个只由原子公式及其否定、仅用逻辑算子 ∧, ∨, ∀*x*∈*y*, ∃*x* 构造的公式。集合 *A* 的子集 *X* 叫在 *A* 上 Δ₀（相应 Σ₁）的，如果它在结构 ⟨*A*, ∈ ⨡ *A*⟩ 中由 L 的 Δ₀-（相应 Σ₁-）公式可定义。
   - id: 141
     kind: body
     source: |-
       For example, if we identify the set of natural numbers with the set *H*(ω) of hereditarily finite sets in the usual way, then for each *X* ⊆ *H*(ω) we have:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，若按通常方式把自然数集与遗传有穷集合集 *H*(ω) 等同，则对每个 *X* ⊆ *H*(ω) 有：
+    step2: |-
+      例如，按通常方式把自然数集与遗传有穷集合 *H*(ω) 等同，则对每个 *X* ⊆ *H*(ω) 有：
   - id: 142
     kind: body
     source: |-
       > *X* is Δ₀ on *H*(ω) ⇔ *X* is recursive
       >
       > *X* is Σ₁ on *H*(ω) ⇔ *X* is recursively enumerable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *X* 在 *H*(ω) 上 Δ₀ ⇔ *X* 递归
+      >
+      > *X* 在 *H*(ω) 上 Σ₁ ⇔ *X* 递归可枚举。
+    step2: |-
+      > *X* 在 *H*(ω) 上 Δ₀ ⇔ *X* 递归
+      >
+      > *X* 在 *H*(ω) 上 Σ₁ ⇔ *X* 递归可枚举。
   - id: 143
     kind: body
     source: |-
       Thus the notions of Δ₀- and Σ₁-set may be regarded as generalizations of the notions of *recursive* and *recursively enumerable* set, respectively.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，Δ₀-集与 Σ₁-集概念可以分别看作 *递归* 集与 *递归可枚举* 集概念的推广。
+    step2: |-
+      因此，Δ₀-集与 Σ₁-集概念可分别看作 *递归* 集与 *递归可枚举* 集概念的推广。
   - id: 144
     kind: body
     source: |-
       The completeness theorem for L implies that *Val*(L) — regarded as a subset of *H*(ω) — is recursively enumerable, and hence Σ₁ on *H*(ω). Similarly, the completeness theorem for L(ω₁,ω) (see §2) implies that *Val*(L(ω₁,ω)) — regarded as a subset of *H*(ω₁) — is Σ₁ on *H*(ω₁). However, this pleasant state of affairs collapses completely as soon as L(ω₁,ω₁) is reached. For one can prove
-    step1: TBD
-    step2: TBD
+    step1: |-
+      L 的完全性定理蕴涵：*Val*(L)——看作 *H*(ω) 的子集——递归可枚举，从而是 *H*(ω) 上 Σ₁ 的。类似地，L(ω₁,ω) 的完全性定理（见第 2 节）蕴涵：*Val*(L(ω₁,ω))——看作 *H*(ω₁) 的子集——是 *H*(ω₁) 上 Σ₁ 的。然而，一旦到达 L(ω₁,ω₁)，这幅美好图景就彻底崩溃。因为可以证明
+    step2: |-
+      L 的完全性定理蕴涵：*Val*(L)（看作 *H*(ω) 的子集）递归可枚举，从而是 *H*(ω) 上 Σ₁ 的。类似地，L(ω₁,ω) 的完全性定理（见第 2 节）蕴涵：*Val*(L(ω₁,ω))（看作 *H*(ω₁) 的子集）是 *H*(ω₁) 上 Σ₁ 的。可一到 L(ω₁,ω₁)，这幅好景就彻底崩了。因为可以证明
   - id: 145
     kind: body
     source: |-
       > Scott's Undefinability Theorem for L(ω₁,ω₁). *Val*(L(ω₁,ω₁)) *is not definable in* H(ω₁) *even by an* L(ω₁,ω₁)-*formula*; *hence* a fortiori *Val*(L(ω₁,ω₁)) *is not* Σ₁ *on* *H*(ω₁).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > Scott 关于 L(ω₁,ω₁) 的不可定义性定理。*Val*(L(ω₁,ω₁)) *在* H(ω₁) *中即使由* L(ω₁,ω₁)-*公式也不可定义*；*因此更不用说* *Val*(L(ω₁,ω₁)) *不是* *H*(ω₁) *上 Σ₁ 的*。
+    step2: |-
+      > Scott 关于 L(ω₁,ω₁) 的不可定义性定理。*Val*(L(ω₁,ω₁)) *在* H(ω₁) *中即使由* L(ω₁,ω₁)-*公式也不可定义*；*因此更不用说* *Val*(L(ω₁,ω₁)) *不是* *H*(ω₁) *上 Σ₁ 的*。
   - id: 146
     kind: body
     source: |-
       This theorem is proved in much the same way as the well-known result that the set of (codes of) valid sentences of the second-order language of arithemetic L² is not second-order definable in its coding structure ℕ. To get this latter result, one first observes that ℕ is characterized by a single L²-sentence, and then shows that, if the result were false, then “truth in ℕ” for L²-sentences would be definable by an L²-formula, thereby violating Tarski's theorem on the undefinability of truth.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个定理的证明方式，与下述著名结果大体相同：算术二阶语言 L² 的有效句子（编码）集，在其编码结构 ℕ 中不是二阶可定义的。为得到后一结果，先观察到 ℕ 由单个 L²-句子刻画，然后表明：若该结果不成立，则 L²-句子“在 ℕ 中为真”就由 L²-公式可定义，从而违反 Tarski 关于真不可定义的定理。
+    step2: |-
+      这个定理的证法，与下面这个著名结果大体相同：算术二阶语言 L² 的有效句子（编码）集，在其编码结构 ℕ 中不是二阶可定义的。要得后一结果，先注意 ℕ 由单个 L²-句子刻画；再说明：若结果不成立，L²-句子的“在 ℕ 中为真”便由 L²-公式可定义，从而违反 Tarski 的真不可定义定理。
   - id: 147
     kind: body
     source: |-
       Accordingly, to prove Scott's undefinability theorem along the above lines, one needs to establish:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，沿上述路线证明 Scott 不可定义性定理，需要确立：
+    step2: |-
+      所以，沿这条路线证 Scott 不可定义性定理，需要先确立：
   - id: 148
     kind: body
     source: |-
@@ -1235,20 +1371,34 @@ segments:
       > (4.2) *Undefinability of truth for* L(ω₁,ω₁)-*sentences* *in the coding structure*: there is no L(ω₁,ω₁)-formula φ(*v*₀) such that, for all L(ω₁, ω₁)-sentences σ, H(ω₁) ⊨ σ↔φ(^{⌈}σ^{⌉}).
       >
       > (4.3) *There is a term* *t*(*v*₀, *v*₁) *of* L(ω₁,ω₁) *such that, for each pair of sentences* σ, τ *of* L(ω₁,ω₁), H(ω₁)  ⊨  [*t*(^{⌈}σ^{⌉},^{⌈}τ^{⌉}) = ^{⌈}σ → τ^{⌉}].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (4.1) *编码结构* H(ω₁) *在* L(ω₁,ω₁) *中的可刻画性*：存在 L(ω₁,ω₁)-句子 τ₀，使得对所有 L-结构 *A*，*A* ⊨ τ₀  ⇔  *A* ≅ H(ω₁)。
+      >
+      > (4.2) L(ω₁,ω₁)-*句子在编码结构中的真不可定义性*：不存在 L(ω₁,ω₁)-公式 φ(*v*₀)，使得对所有 L(ω₁, ω₁)-句子 σ，H(ω₁) ⊨ σ↔φ(^{⌈}σ^{⌉})。
+      >
+      > (4.3) *存在* L(ω₁,ω₁) *的项* *t*(*v*₀, *v*₁)，*使得对每对* L(ω₁,ω₁) *句子* σ, τ，H(ω₁)  ⊨  [*t*(^{⌈}σ^{⌉},^{⌈}τ^{⌉}) = ^{⌈}σ → τ^{⌉}]。
+    step2: |-
+      > (4.1) *编码结构* H(ω₁) *在* L(ω₁,ω₁) *中的可刻画性*：存在 L(ω₁,ω₁)-句子 τ₀，使得对所有 L-结构 *A*，*A* ⊨ τ₀  ⇔  *A* ≅ H(ω₁)。
+      >
+      > (4.2) L(ω₁,ω₁)-*句子在编码结构中的真不可定义性*：不存在 L(ω₁,ω₁)-公式 φ(*v*₀)，使得对所有 L(ω₁, ω₁)-句子 σ，H(ω₁) ⊨ σ↔φ(^{⌈}σ^{⌉})。
+      >
+      > (4.3) *存在* L(ω₁,ω₁) *的项* *t*(*v*₀, *v*₁)，*使得对每对* L(ω₁,ω₁) *句子* σ, τ，H(ω₁)  ⊨  [*t*(^{⌈}σ^{⌉},^{⌈}τ^{⌉}) = ^{⌈}σ → τ^{⌉}]。
   - id: 149
     kind: body
     source: |-
       (4.1) is proved by analyzing the set-theoretic definition of H(ω₁) and showing that it can be “internally” formulated in L(ω₁,ω₁). (4.2) is established in much the same way as Tarski's theorem on the undefinability of truth for first- or second-order languages. (4.3) is obtained by formalizing the definition of the coding map σ ↦ ^{⌈}σ^{⌉} in L(ω₁,ω₁).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (4.1) 通过分析 H(ω₁) 的集合论定义、表明它可以在 L(ω₁,ω₁) 中“内部地”表述而得到证明。(4.2) 的建立方式与 Tarski 关于一阶或二阶语言真不可定义的定理大体相同。(4.3) 通过把编码映射 σ ↦ ^{⌈}σ^{⌉} 的定义在 L(ω₁,ω₁) 中形式化而得到。
+    step2: |-
+      (4.1) 靠分析 H(ω₁) 的集合论定义、说明它能在 L(ω₁,ω₁) 中“内部”表述来证。(4.2) 的建立方式，与 Tarski 关于一阶或二阶语言真不可定义的定理大体相同。(4.3) 则把编码映射 σ ↦ ^{⌈}σ^{⌉} 的定义在 L(ω₁,ω₁) 中形式化。
   - id: 150
     kind: body
     source: |-
       Armed with these facts, we can obtain Scott's undefinability theorem in the following way. Suppose it were false; then there would be an L(ω₁,ω₁)-formula θ(*v*₀) such that, for all L(ω₁,ω₁)-sentences σ,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有了这些事实，我们可以这样得到 Scott 不可定义性定理。假设它不成立；那么存在 L(ω₁,ω₁)-公式 θ(*v*₀)，使得对所有 L(ω₁,ω₁)-句子 σ，
+    step2: |-
+      有了这些，就能这样得到 Scott 不可定义性定理。假设它不成立，则存在 L(ω₁,ω₁)-公式 θ(*v*₀)，使得对所有 L(ω₁,ω₁)-句子 σ，
   - id: 151
     kind: body
     source: |-

@@ -1,0 +1,61 @@
+{
+ "key": "corroboration",
+ "term": "corroboration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T16:12:33+00:00",
+ "status": "ok",
+ "note": "variant=corroboration; 审定公布名词库=3; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "确证",
+   "en": "corroboration",
+   "code": "03.152",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "超量确证",
+   "en": "excessive corroboration",
+   "code": "03.153",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "碳硼化[反应]",
+   "en": "carboboration",
+   "code": "02.1476",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_金属有机化学"
+  },
+  {
+   "cn": "确证",
+   "en": "corroborate",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "碳硼化[反应]",
+   "en": "carboboration",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "确证",
+   "en": "corroboration",
+   "code": "03.152",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "超量确证",
+   "en": "excessive corroboration",
+   "code": "03.153",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

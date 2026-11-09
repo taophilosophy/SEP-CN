@@ -11799,7 +11799,7 @@
     },
     {
       "slug": "basing-epistemic",
-      "fetched_at": "2026-10-26T20:34:46Z",
+      "fetched_at": "2026-11-09T16:56:06Z",
       "source_url": "https://plato.stanford.edu/entries/basing-epistemic/",
       "title": "The Epistemic Basing Relation",
       "authors": [
@@ -11869,7 +11869,7 @@
         "md": "yuanwen/b/basing-epistemic.md",
         "sha256": "3fe5c7858e20c7015434e535af2d8c0309506bb7e916c99d2fd0be214837d053",
         "source_sha256": "568a8aadbd574312637b9413e9fc1a7b8c29dbee6f4945f97085f55fd63a7682",
-        "converted_at": "2026-10-30T19:20:52Z",
+        "converted_at": "2026-11-09T17:00:30Z",
         "cite_markers": 17,
         "cite_defs": 64,
         "supplements": [],
@@ -11879,7 +11879,7 @@
     },
     {
       "slug": "baudrillard",
-      "fetched_at": "2026-10-26T20:34:47Z",
+      "fetched_at": "2026-11-09T16:56:13Z",
       "source_url": "https://plato.stanford.edu/entries/baudrillard/",
       "title": "Jean Baudrillard",
       "authors": [
@@ -11957,7 +11957,7 @@
         "md": "yuanwen/b/baudrillard.md",
         "sha256": "a55a1d0f4e43b7d0a495589bee7eec3f7fcdade3fda550209fcea24fea018b66",
         "source_sha256": "3524146fcef1acb42c4851f09108b1a275830a02928829cf50b1f3b9cf2ffa29",
-        "converted_at": "2026-10-30T19:20:52Z",
+        "converted_at": "2026-11-09T17:00:30Z",
         "cite_markers": 0,
         "cite_defs": 31,
         "supplements": [],
@@ -11967,7 +11967,7 @@
     },
     {
       "slug": "bauer",
-      "fetched_at": "2026-10-26T20:34:48Z",
+      "fetched_at": "2026-11-09T16:57:03Z",
       "source_url": "https://plato.stanford.edu/entries/bauer/",
       "title": "Bruno Bauer",
       "authors": [
@@ -12036,7 +12036,7 @@
         "md": "yuanwen/b/bauer.md",
         "sha256": "ce0e9ffdabd8951b72b1c8f6393a707645fc7fe4f898ede41af738ae249befe7",
         "source_sha256": "815720465f6c483b5f7bc487f5513659400c9f4b85835f717fbb89cf3ecf6282",
-        "converted_at": "2026-10-30T19:20:52Z",
+        "converted_at": "2026-11-09T17:00:30Z",
         "cite_markers": 17,
         "cite_defs": 106,
         "supplements": [],
@@ -12046,7 +12046,7 @@
     },
     {
       "slug": "bayes-theorem",
-      "fetched_at": "2026-10-26T16:23:59Z",
+      "fetched_at": "2026-11-09T16:58:18Z",
       "source_url": "https://plato.stanford.edu/entries/bayes-theorem/",
       "title": "Bayes’ Theorem",
       "authors": [
@@ -12057,6 +12057,7 @@
         "substantive_revision": "Sep 30, 2003"
       },
       "in_article_markers": true,
+      "zh_doc": "b/bayes-theorem.md",
       "archinfo": {
         "latest_edition": "Fall 2021",
         "latest_change_type": "minor correction",
@@ -12107,7 +12108,7 @@
         "md": "yuanwen/b/bayes-theorem.md",
         "sha256": "1ca4f497b0be78d568f35cf42854c3ac5fc23f64b6be9d23fbeee02a7d749ff2",
         "source_sha256": "97f4b4e84ee2e7e1ecaa5b53acc0cb11c1c3b848a11bc79a8f49bb8a29724328",
-        "converted_at": "2026-10-30T19:20:52Z",
+        "converted_at": "2026-11-09T17:00:31Z",
         "cite_markers": 26,
         "cite_defs": 38,
         "supplements": [
@@ -12115,12 +12116,11 @@
         ],
         "images": [],
         "notes": 22
-      },
-      "zh_doc": "b/bayes-theorem.md"
+      }
     },
     {
       "slug": "bayle",
-      "fetched_at": "2026-10-26T20:34:49Z",
+      "fetched_at": "2026-11-09T16:58:23Z",
       "source_url": "https://plato.stanford.edu/entries/bayle/",
       "title": "Pierre Bayle",
       "authors": [
@@ -12184,7 +12184,7 @@
         "md": "yuanwen/b/bayle.md",
         "sha256": "b8038c4117ff21ee539db8f46b8470d10a7b299a7e2e929edb2fa9a999b95fed",
         "source_sha256": "6b498bdd21b1c1d22db9f85e26582846642dc3a35a03656ed6f1efeaf04a479d",
-        "converted_at": "2026-10-30T19:20:52Z",
+        "converted_at": "2026-11-09T17:00:31Z",
         "cite_markers": 10,
         "cite_defs": 48,
         "supplements": [],
@@ -12194,7 +12194,7 @@
     },
     {
       "slug": "beardsley-aesthetics",
-      "fetched_at": "2026-10-26T20:34:49Z",
+      "fetched_at": "2026-11-09T16:58:26Z",
       "source_url": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
       "title": "Beardsley’s Aesthetics",
       "authors": [
@@ -12246,7 +12246,7 @@
         "md": "yuanwen/b/beardsley-aesthetics.md",
         "sha256": "3480f6e7c19d0d96798d661d290a35a7ba163aeec4e8797e37f414e800a864ac",
         "source_sha256": "8b498e949dd6e17d62f15a683472be858e7c1aa04a98a123254127e148a32756",
-        "converted_at": "2026-10-30T19:20:52Z",
+        "converted_at": "2026-11-09T17:00:31Z",
         "cite_markers": 4,
         "cite_defs": 43,
         "supplements": [],
@@ -12256,7 +12256,7 @@
     },
     {
       "slug": "beauty",
-      "fetched_at": "2026-10-26T20:34:50Z",
+      "fetched_at": "2026-11-09T16:58:42Z",
       "source_url": "https://plato.stanford.edu/entries/beauty/",
       "title": "Beauty",
       "authors": [
@@ -12320,7 +12320,7 @@
         "md": "yuanwen/b/beauty.md",
         "sha256": "bebde1d3fde8766f2803983320a5681eaa52e5e8c4e4ab196ec63b42c201546e",
         "source_sha256": "254e8f80fcec8b2f1ab4b8b622fd54e23b144f5403d9bb0422a56983cb3d19d8",
-        "converted_at": "2026-10-30T19:20:52Z",
+        "converted_at": "2026-11-09T17:00:31Z",
         "cite_markers": 55,
         "cite_defs": 81,
         "supplements": [],
@@ -12330,7 +12330,7 @@
     },
     {
       "slug": "beauvoir",
-      "fetched_at": "2026-10-26T20:34:50Z",
+      "fetched_at": "2026-11-09T16:58:44Z",
       "source_url": "https://plato.stanford.edu/entries/beauvoir/",
       "title": "Simone de Beauvoir",
       "authors": [
@@ -12427,7 +12427,7 @@
         "md": "yuanwen/b/beauvoir.md",
         "sha256": "eb8ea4fde2af607a9b10437474a65b1d26fe89ff0a1c2f83243143ff1d8e9017",
         "source_sha256": "d10d67e2a4b97526d4b8d043718cee37500628dec0804521e100ea6fbea856c6",
-        "converted_at": "2026-10-30T19:20:52Z",
+        "converted_at": "2026-11-09T17:00:31Z",
         "cite_markers": 63,
         "cite_defs": 236,
         "supplements": [],
@@ -12437,7 +12437,7 @@
     },
     {
       "slug": "behaviorism",
-      "fetched_at": "2026-10-26T20:34:50Z",
+      "fetched_at": "2026-11-09T16:58:49Z",
       "source_url": "https://plato.stanford.edu/entries/behaviorism/",
       "title": "Behaviorism",
       "authors": [
@@ -12521,7 +12521,7 @@
         "md": "yuanwen/b/behaviorism.md",
         "sha256": "c3a1ea353865c7ac3fdb6641d578eeddbed0522da5acf7988b7b85f2f94d1326",
         "source_sha256": "0afe8ebb9ad8ab47d7ad007fd2a9993a0c3de1401b6cfcf4aac3d269c7598759",
-        "converted_at": "2026-10-30T19:20:53Z",
+        "converted_at": "2026-11-09T17:00:31Z",
         "cite_markers": 59,
         "cite_defs": 82,
         "supplements": [],
@@ -12531,7 +12531,7 @@
     },
     {
       "slug": "belief",
-      "fetched_at": "2026-10-27T17:59:32Z",
+      "fetched_at": "2026-11-09T16:58:53Z",
       "source_url": "https://plato.stanford.edu/entries/belief/",
       "title": "Belief",
       "authors": [
@@ -12611,7 +12611,7 @@
         "md": "yuanwen/b/belief.md",
         "sha256": "a15c8aafbf4af070e29b8c22af13c80865c58d850f24a0cb2b909b64a1a5b0eb",
         "source_sha256": "995d45e87ac44f6af075f171b4ce6c409449b0d042b5d56fee35591e8a3775c9",
-        "converted_at": "2026-10-30T19:20:53Z",
+        "converted_at": "2026-11-09T17:00:31Z",
         "cite_markers": 115,
         "cite_defs": 181,
         "supplements": [],
@@ -12621,7 +12621,7 @@
     },
     {
       "slug": "belief-merging",
-      "fetched_at": "2026-10-26T20:34:51Z",
+      "fetched_at": "2026-11-09T16:59:03Z",
       "source_url": "https://plato.stanford.edu/entries/belief-merging/",
       "title": "Belief Merging and Judgment Aggregation",
       "authors": [
@@ -12664,6 +12664,12 @@
           "sha256": "d6be6430d4af2ee9bce950456acd3aa16e2de6c625817b02641bf47ed6148e91",
           "bytes": 14612,
           "kind": "notes"
+        },
+        {
+          "path": "en/belief-merging/local.js",
+          "sha256": "950e0fa6353fa0e481e5cf369fa733ca8b56bdd633808e149a220821f9fbdc35",
+          "bytes": 201,
+          "kind": "script"
         }
       ],
       "missing": [],
@@ -12671,7 +12677,7 @@
         "md": "yuanwen/b/belief-merging.md",
         "sha256": "e27fc0013b54bada84e28f25e8d532bf094d14b43bce46f0ab554f72d16d9246",
         "source_sha256": "494d5518f0416f74baa722ecee0c022e2b0a5ba5b13076d7c007937e60d09990",
-        "converted_at": "2026-10-30T19:20:53Z",
+        "converted_at": "2026-11-09T17:00:31Z",
         "cite_markers": 115,
         "cite_defs": 100,
         "supplements": [],
@@ -12681,7 +12687,7 @@
     },
     {
       "slug": "bell-theorem",
-      "fetched_at": "2026-10-26T19:06:02Z",
+      "fetched_at": "2026-11-09T16:59:09Z",
       "source_url": "https://plato.stanford.edu/entries/bell-theorem/",
       "title": "Bell’s Theorem",
       "authors": [
@@ -12774,6 +12780,12 @@
           "sha256": "0cc78f475514b9024ef8a2b97022cc02e7c66aaec21c9c76fbba80b370b857d1",
           "bytes": 21100,
           "kind": "image"
+        },
+        {
+          "path": "en/bell-theorem/local.js",
+          "sha256": "8f274138f8b990d2c3defbf87dabc1583de24a1ca94aa3cbea5dd1f4eb11beb4",
+          "bytes": 206,
+          "kind": "script"
         }
       ],
       "missing": [],
@@ -12781,7 +12793,7 @@
         "md": "yuanwen/b/bell-theorem.md",
         "sha256": "a0e051b6e1e665203c0152e72f3581dc08507af614f0582007071daed363bffd",
         "source_sha256": "48cb0b0c3d0031ccfc450a0e51be7bcef3960760bb9a1e4de5a5c187639a376f",
-        "converted_at": "2026-10-30T19:20:53Z",
+        "converted_at": "2026-11-09T17:00:32Z",
         "cite_markers": 94,
         "cite_defs": 214,
         "supplements": [],
@@ -12794,7 +12806,7 @@
     },
     {
       "slug": "benjamin",
-      "fetched_at": "2026-10-26T20:34:52Z",
+      "fetched_at": "2026-11-09T16:59:26Z",
       "source_url": "https://plato.stanford.edu/entries/benjamin/",
       "title": "Walter Benjamin",
       "authors": [
@@ -12808,9 +12820,13 @@
       "in_article_markers": true,
       "zh_doc": "b/benjamin.md",
       "archinfo": {
-        "latest_edition": "Fall 2026",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2026",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Spring 2026",
             "change_type": "substantive content change"
@@ -12845,7 +12861,7 @@
           }
         ]
       },
-      "archive_edition": "Fall 2026",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/benjamin/index.html",
@@ -12859,7 +12875,7 @@
         "md": "yuanwen/b/benjamin.md",
         "sha256": "f737bb0174b3ef33a08938a90ae85a75815b3650bb30a87f6af21bdb078178f6",
         "source_sha256": "dbfebae6c02e6a77f79ea2d64be7b29b38a31c1b18ed6f8ad6b0666e16a3e7a0",
-        "converted_at": "2026-10-30T19:20:53Z",
+        "converted_at": "2026-11-09T17:00:32Z",
         "cite_markers": 67,
         "cite_defs": 125,
         "supplements": [],
@@ -12869,7 +12885,7 @@
     },
     {
       "slug": "bentham",
-      "fetched_at": "2026-10-26T20:34:52Z",
+      "fetched_at": "2026-11-09T16:59:30Z",
       "source_url": "https://plato.stanford.edu/entries/bentham/",
       "title": "Jeremy Bentham",
       "authors": [
@@ -12945,7 +12961,7 @@
         "md": "yuanwen/b/bentham.md",
         "sha256": "e8cd6831a081acacc0ef9dc8b9dbbd4875827866d00dbdc52890999a1ba52d1a",
         "source_sha256": "bb43254959bd063d23c12725165e6afdd0c1c1878e39af8ec0f942a129c93ac2",
-        "converted_at": "2026-10-30T19:20:53Z",
+        "converted_at": "2026-11-09T17:00:32Z",
         "cite_markers": 80,
         "cite_defs": 121,
         "supplements": [],
@@ -12955,7 +12971,7 @@
     },
     {
       "slug": "bergson",
-      "fetched_at": "2026-10-26T20:34:52Z",
+      "fetched_at": "2026-11-09T16:59:37Z",
       "source_url": "https://plato.stanford.edu/entries/bergson/",
       "title": "Henri Bergson",
       "authors": [
@@ -13056,7 +13072,7 @@
         "md": "yuanwen/b/bergson.md",
         "sha256": "ccc026481093221f51da2b916c7d5468d2d7398dc8664c66f6efd713b7730dca",
         "source_sha256": "bd58aa97987ed673e1b6ab0d0fb444e3d9d25dcb2f3e0df8eee15265a218af5c",
-        "converted_at": "2026-10-30T19:20:53Z",
+        "converted_at": "2026-11-09T17:00:32Z",
         "cite_markers": 17,
         "cite_defs": 99,
         "supplements": [],
@@ -13066,7 +13082,7 @@
     },
     {
       "slug": "berkeley",
-      "fetched_at": "2026-10-26T20:34:52Z",
+      "fetched_at": "2026-11-09T16:59:43Z",
       "source_url": "https://plato.stanford.edu/entries/berkeley/",
       "title": "George Berkeley",
       "authors": [
@@ -13153,7 +13169,7 @@
         "md": "yuanwen/b/berkeley.md",
         "sha256": "7fb1981f2ddf64ddef58f2c5671f1a4bab9e257f790badfd1ef9e01f8619315a",
         "source_sha256": "4ac4dc45f55ed75a232f22b4cb25b9e1a053b1e044da37342f42aa5c43bd2063",
-        "converted_at": "2026-10-30T19:20:54Z",
+        "converted_at": "2026-11-09T17:00:32Z",
         "cite_markers": 36,
         "cite_defs": 109,
         "supplements": [
@@ -13166,7 +13182,7 @@
     },
     {
       "slug": "berlin",
-      "fetched_at": "2026-10-26T20:34:52Z",
+      "fetched_at": "2026-11-09T16:59:58Z",
       "source_url": "https://plato.stanford.edu/entries/berlin/",
       "title": "Isaiah Berlin",
       "authors": [
@@ -13180,9 +13196,13 @@
       "in_article_markers": true,
       "zh_doc": "b/berlin.md",
       "archinfo": {
-        "latest_edition": "Winter 2023",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Winter 2023",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Summer 2023",
             "change_type": "minor correction"
@@ -13309,7 +13329,7 @@
           }
         ]
       },
-      "archive_edition": "Winter 2023",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/berlin/index.html",
@@ -13335,7 +13355,7 @@
         "md": "yuanwen/b/berlin.md",
         "sha256": "69b9f469f3bd5feee14c7977a8b9cd8968324e4f48d894f63be1c947284ec144",
         "source_sha256": "4ca8b1843f14fbfd90fd74579c636b3dc7255a192660ddab232e22ea11ff2f2d",
-        "converted_at": "2026-10-30T19:20:54Z",
+        "converted_at": "2026-11-09T17:00:32Z",
         "cite_markers": 56,
         "cite_defs": 146,
         "supplements": [],
@@ -13386,11 +13406,22 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/b/bessarion.md",
+        "sha256": "1ef4db86283bc89276601918df5dea7bf58705d2661d54e26605ba217e85f27a",
+        "source_sha256": "68e2e19b0ec0a5a5edc6911789504b5087e13067d39ecb485b4c0eb5a26ef7fa",
+        "converted_at": "2026-11-09T16:52:20Z",
+        "cite_markers": 1,
+        "cite_defs": 91,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "binarium",
-      "fetched_at": "2026-10-26T20:34:52Z",
+      "fetched_at": "2026-11-09T17:00:14Z",
       "source_url": "https://plato.stanford.edu/entries/binarium/",
       "title": "Binarium Famosissimum",
       "authors": [
@@ -13436,7 +13467,7 @@
         "md": "yuanwen/b/binarium.md",
         "sha256": "38db5b2277824af8a06e680a163de12c0291e8044b2ab5bcc25c5e6c1b35b0cc",
         "source_sha256": "c0494a7ba7c25f8e00253afee0db1d802dea16a49eb2cb4c64605b807506505d",
-        "converted_at": "2026-10-30T19:20:54Z",
+        "converted_at": "2026-11-09T17:00:33Z",
         "cite_markers": 0,
         "cite_defs": 19,
         "supplements": [],
@@ -13524,7 +13555,7 @@
         "md": "yuanwen/b/biodiversity.md",
         "sha256": "70561e471dbea91f595ee2f138773267cf0718195ee132f30aa1634a763809cb",
         "source_sha256": "bfa6e7abcfa7adb3de5b26670dab182e031d5f0ca48be1d77847d6d04a19a5b6",
-        "converted_at": "2026-10-30T19:20:54Z",
+        "converted_at": "2026-11-09T17:00:39Z",
         "cite_markers": 102,
         "cite_defs": 121,
         "supplements": [
@@ -13578,7 +13609,7 @@
         "md": "yuanwen/b/bioethics-latin-america.md",
         "sha256": "7ddb8fcf1205b573bee2285a3581a6a817401b6744e77a489f34db02d4375389",
         "source_sha256": "237b163d387af8dbd400f7824f9f233baaaf291eae047085f486ffffb47b718d",
-        "converted_at": "2026-10-30T19:20:54Z",
+        "converted_at": "2026-11-09T17:00:33Z",
         "cite_markers": 144,
         "cite_defs": 173,
         "supplements": [],
@@ -13703,7 +13734,7 @@
         "md": "yuanwen/b/biology-developmental.md",
         "sha256": "b40b917d040370944615478ca3186ac17da91cca1f7acb7c18b63847fb4b6ea2",
         "source_sha256": "9b465ecb9ee61603fa951e47e50154d483717df441a4ec21df8d8f03c7ac2cb0",
-        "converted_at": "2026-10-30T19:20:54Z",
+        "converted_at": "2026-11-09T17:00:33Z",
         "cite_markers": 261,
         "cite_defs": 194,
         "supplements": [
@@ -13794,7 +13825,7 @@
         "md": "yuanwen/b/biology-experiment.md",
         "sha256": "913f75702932f5bdf2cc0083682e10bbf71bf7297a20b5664995793e76ae96d0",
         "source_sha256": "5fc4fceb9f0ecca971c0ca2274eeea1b3940f30170067fa8a66147bbbd9809f9",
-        "converted_at": "2026-10-30T19:20:55Z",
+        "converted_at": "2026-11-09T17:00:33Z",
         "cite_markers": 90,
         "cite_defs": 110,
         "supplements": [],
@@ -13952,7 +13983,7 @@
         "md": "yuanwen/b/biology-individual.md",
         "sha256": "1270c70f5ad5bdba3600caf80bed3a06d3c13347dc00eaf241698c45fb630f6d",
         "source_sha256": "ca3ba9a1c307c69656914fe521f84ab415def50fc19e082f936faa66e720d1bb",
-        "converted_at": "2026-10-30T19:20:55Z",
+        "converted_at": "2026-11-09T17:00:33Z",
         "cite_markers": 250,
         "cite_defs": 206,
         "supplements": [
@@ -14048,7 +14079,7 @@
         "md": "yuanwen/b/biology-philosophy.md",
         "sha256": "3be088cb233657a3eadf414335c609349bb21a1d07557fef06b824c5b8311874",
         "source_sha256": "d0cb854a374db7230d7ccfef0c01ec46feb7de7c58d13c985814a52204966210",
-        "converted_at": "2026-10-30T19:20:55Z",
+        "converted_at": "2026-11-09T17:00:33Z",
         "cite_markers": 250,
         "cite_defs": 267,
         "supplements": [],
@@ -14099,7 +14130,7 @@
         "md": "yuanwen/b/biomedicine.md",
         "sha256": "19cc5634fdc388bd9a9c6935464df80a727861a0ebfef84d0161e8d45b8df6ec",
         "source_sha256": "4fece86f983a77664ceee1861262017d70542f378ba4cf6bd790b1f7bb97c609",
-        "converted_at": "2026-10-30T19:20:55Z",
+        "converted_at": "2026-11-09T17:00:34Z",
         "cite_markers": 17,
         "cite_defs": 179,
         "supplements": [],
@@ -14168,7 +14199,7 @@
         "md": "yuanwen/b/black-reparations.md",
         "sha256": "3eb57f19fdcfc2694b52df71a15e3c7eec94ff7b5e82b15cbe136f425b75fb12",
         "source_sha256": "30f4bd6e95279a7ada95176a5f587ecf781d2c01e7ac7ba640d667db196f3dd3",
-        "converted_at": "2026-10-30T19:20:55Z",
+        "converted_at": "2026-11-09T17:00:39Z",
         "cite_markers": 55,
         "cite_defs": 67,
         "supplements": [],
@@ -14231,7 +14262,7 @@
         "md": "yuanwen/b/blame.md",
         "sha256": "47239a61f1f1a6ea1fb45f7647655d351af7e9cd7254e3a95e71deca06ab8297",
         "source_sha256": "72948a8185228a62021105140876e3cf5dafdaa1f8e6235e21e04d353a082844",
-        "converted_at": "2026-10-30T19:20:55Z",
+        "converted_at": "2026-11-09T17:00:34Z",
         "cite_markers": 115,
         "cite_defs": 144,
         "supplements": [],
@@ -14283,7 +14314,7 @@
         "md": "yuanwen/b/bloch.md",
         "sha256": "a3a60c90a8483ac66160830dfa13344bd0deb892463d72a4812ccbe9b488849e",
         "source_sha256": "903ca345a7e3e4499ab83a7f40434ceb84fa7c40de44646e6a3a988328a17efa",
-        "converted_at": "2026-10-30T19:20:56Z",
+        "converted_at": "2026-11-09T17:00:34Z",
         "cite_markers": 78,
         "cite_defs": 106,
         "supplements": [],
@@ -14353,7 +14384,7 @@
         "md": "yuanwen/b/bodily-awareness.md",
         "sha256": "7084da31ce77477da0bd05ae033b63f64b51544a123a523d74fba0cbfb0d7800",
         "source_sha256": "cef80871a70d2a7a349c5d4265235f5a4961776b65a84327852102f0b70978bb",
-        "converted_at": "2026-10-30T19:20:56Z",
+        "converted_at": "2026-11-09T17:00:34Z",
         "cite_markers": 242,
         "cite_defs": 207,
         "supplements": [],
@@ -14445,7 +14476,7 @@
         "md": "yuanwen/b/bodin.md",
         "sha256": "0de6d864da0a3224f91c98fe02ab38ad87ed149e0e6f4f64cb421bff3611e129",
         "source_sha256": "fa84e43061f506efbba8007e0c5f35c3cc12170223e3056f60fc5c16146a4a61",
-        "converted_at": "2026-10-30T19:20:56Z",
+        "converted_at": "2026-11-09T17:00:34Z",
         "cite_markers": 23,
         "cite_defs": 298,
         "supplements": [],
@@ -14515,7 +14546,7 @@
         "md": "yuanwen/b/boethius.md",
         "sha256": "6175adc83eed10a5a5e07288c606de7cdb3fd65014f636371987559ee8f5e6bc",
         "source_sha256": "2c5dff089dded604fa0c9d78229f8297a458c21906d4ef0e17e8880ede15eeea",
-        "converted_at": "2026-10-30T19:20:56Z",
+        "converted_at": "2026-11-09T17:00:34Z",
         "cite_markers": 17,
         "cite_defs": 85,
         "supplements": [],
@@ -14556,7 +14587,7 @@
         "md": "yuanwen/b/boethius-dacia.md",
         "sha256": "643a8c75434c81a7d0914f74b59139d0033f3f06562cd81b95a4dd81cd7ebaaf",
         "source_sha256": "7d430eae0fd463be73d99176cc9091e8a925ecdc43ecba268cd2d0bda86edbc2",
-        "converted_at": "2026-10-30T19:20:56Z",
+        "converted_at": "2026-11-09T17:00:35Z",
         "cite_markers": 40,
         "cite_defs": 61,
         "supplements": [],
@@ -14631,7 +14662,7 @@
         "md": "yuanwen/b/bohr-correspondence.md",
         "sha256": "218415dea7085197c511f88bfa0cc67d6041d6f756ebe468401c891eafc658ad",
         "source_sha256": "310c74ea24d63c6663cceff2854455010f82b1f89450c9c2ee091cd24010ae58",
-        "converted_at": "2026-10-30T19:20:56Z",
+        "converted_at": "2026-11-09T17:00:35Z",
         "cite_markers": 46,
         "cite_defs": 39,
         "supplements": [],
@@ -14705,7 +14736,7 @@
         "md": "yuanwen/b/bolzano.md",
         "sha256": "0a43a554f1e353af7697cf42c2e6993c5211cddd639f5e22af3d657340dad268",
         "source_sha256": "db5a7b9c9959637818a26ef7d615911be5356c55dcac6250ec8dc0c31053e951",
-        "converted_at": "2026-10-30T19:20:56Z",
+        "converted_at": "2026-11-09T17:00:35Z",
         "cite_markers": 17,
         "cite_defs": 66,
         "supplements": [],
@@ -14792,7 +14823,7 @@
         "md": "yuanwen/b/bolzano-logic.md",
         "sha256": "83d71a66c4e048a82722fa966ea00599422151dc89a65b374b1e8b13622c2178",
         "source_sha256": "195bea71539c62f3e3f5013a76040561d03a4bb09eef967212d8911a32f9723d",
-        "converted_at": "2026-10-30T19:20:57Z",
+        "converted_at": "2026-11-09T17:00:35Z",
         "cite_markers": 18,
         "cite_defs": 175,
         "supplements": [],
@@ -14870,7 +14901,7 @@
         "md": "yuanwen/b/bonaventure.md",
         "sha256": "1fd952e927963026cd983f4cfc90011985951c1701a060be34e0d13b8d67d2f6",
         "source_sha256": "22eebd61805d4798d27b4fd4360766da93405eb630a3aa8848302c53bd2a10c0",
-        "converted_at": "2026-10-30T19:20:57Z",
+        "converted_at": "2026-11-09T17:00:35Z",
         "cite_markers": 34,
         "cite_defs": 132,
         "supplements": [],
@@ -14940,7 +14971,7 @@
         "md": "yuanwen/b/boolalg-math.md",
         "sha256": "b0978f70dd6923f82a3791723625b373ec62d3306194665a391c21114ce1fccd",
         "source_sha256": "28c221d1ed3aaa2ed849ebbfa95ead2c145a715fb89df5c803ef162ed2b886f3",
-        "converted_at": "2026-10-30T19:20:57Z",
+        "converted_at": "2026-11-09T17:00:35Z",
         "cite_markers": 0,
         "cite_defs": 5,
         "supplements": [],
@@ -15017,7 +15048,7 @@
         "md": "yuanwen/b/boole.md",
         "sha256": "3c0e5c48344a211e7e3cde2bbacd7c3aa5d535c3cd2ba23e9c2b34b15ed1ce5b",
         "source_sha256": "1caa5b05f646959ac66f23e55a840c7f95dfb9fd0d613aa41dcb8b2844c53711",
-        "converted_at": "2026-10-30T19:20:57Z",
+        "converted_at": "2026-11-09T17:00:35Z",
         "cite_markers": 1,
         "cite_defs": 48,
         "supplements": [
@@ -15101,7 +15132,7 @@
         "md": "yuanwen/b/bosanquet.md",
         "sha256": "2b95f92a65ca35a3b998dcc6b54caa574233514d6c7660535aed51398d311b07",
         "source_sha256": "3b78c5b8ec9fa2490a6b68415685715814b8a9871fc4edcdcadf7886af6d4319",
-        "converted_at": "2026-10-30T19:20:57Z",
+        "converted_at": "2026-11-09T17:00:36Z",
         "cite_markers": 50,
         "cite_defs": 181,
         "supplements": [],
@@ -15183,7 +15214,7 @@
         "md": "yuanwen/b/boundary.md",
         "sha256": "63e9ac5afd34cd6af95889da4ceb7e3e1d528e4686c7cde140d8b211d442964a",
         "source_sha256": "1790a5b8a622b37c68afa60e70bc087e0c407ab78f17f994ba606b422cefa9cb",
-        "converted_at": "2026-10-30T19:20:57Z",
+        "converted_at": "2026-11-09T17:00:36Z",
         "cite_markers": 226,
         "cite_defs": 376,
         "supplements": [],
@@ -15271,7 +15302,7 @@
         "md": "yuanwen/b/bounded-rationality.md",
         "sha256": "ef4b1c9e8583f79f3085a4bd00fad41ef854d45fa49502f246e8240cf45005c8",
         "source_sha256": "f263e28ce9fa848c64de6f708a95677bfc191566ff10968246449de9ee31d8b3",
-        "converted_at": "2026-10-30T19:20:58Z",
+        "converted_at": "2026-11-09T17:00:36Z",
         "cite_markers": 256,
         "cite_defs": 278,
         "supplements": [
@@ -15373,7 +15404,7 @@
         "md": "yuanwen/b/boyle.md",
         "sha256": "0880bc48f98888142089eb420aaa37531c5687b08d4a07b9ed5299f0dd296078",
         "source_sha256": "0b49408849ac57d2c6f859a407b5fabc6fdd6783321e11d59d9f4acab9058ed6",
-        "converted_at": "2026-10-30T19:20:58Z",
+        "converted_at": "2026-11-09T17:00:36Z",
         "cite_markers": 59,
         "cite_defs": 127,
         "supplements": [],
@@ -15474,7 +15505,7 @@
         "md": "yuanwen/b/bradley.md",
         "sha256": "36c1e8bebfe24c08ac31003d7d757820fb9cd7398e2e1abd297975ebc1ca131e",
         "source_sha256": "6aef9ec200d3be9c1f8f957bbb2ec7c4d0a2e4519714a91d395a67fd72c2f657",
-        "converted_at": "2026-10-30T19:20:58Z",
+        "converted_at": "2026-11-09T17:00:36Z",
         "cite_markers": 0,
         "cite_defs": 54,
         "supplements": [],
@@ -15524,7 +15555,7 @@
         "md": "yuanwen/b/bradley-moral.md",
         "sha256": "ffb45e31ff82d85ef8ff55bf32ab5f07f095581665010f99beb2d7c0972a6deb",
         "source_sha256": "de8109094ef2aa30a7fba6c1f0adb18c968cf707ade43b57dc573b5ab974e66e",
-        "converted_at": "2026-10-30T19:20:58Z",
+        "converted_at": "2026-11-09T17:00:37Z",
         "cite_markers": 70,
         "cite_defs": 84,
         "supplements": [],
@@ -15580,7 +15611,7 @@
         "md": "yuanwen/b/bradley-regress.md",
         "sha256": "e852ea12d9da178939acd1407d933e8ee55daf42850c4ebc396f9ae3520ecec7",
         "source_sha256": "7b105240a3ca3f2d13895d6d9d32cc232e1190b1e86938f2c13a0150ff6973fd",
-        "converted_at": "2026-10-30T19:20:58Z",
+        "converted_at": "2026-11-09T17:00:37Z",
         "cite_markers": 50,
         "cite_defs": 62,
         "supplements": [],
@@ -15741,7 +15772,7 @@
         "md": "yuanwen/b/branching-time.md",
         "sha256": "5ac422bcc90bdab0b1704192b6b0d8a53b119f4a660cf4d5be7bc22186fae7a6",
         "source_sha256": "80f34b80ceca75e14550039a7e92daaaa5ca962fc4d119d4c2bc071cabc6ead9",
-        "converted_at": "2026-10-30T19:20:58Z",
+        "converted_at": "2026-11-09T17:00:37Z",
         "cite_markers": 157,
         "cite_defs": 136,
         "supplements": [
@@ -15855,7 +15886,7 @@
         "md": "yuanwen/b/brentano.md",
         "sha256": "b50af7708f32b912165101e4aa65e1901c72b77e56d04f61da621fcc976e97f4",
         "source_sha256": "7b5066f431d73e1652bc1cba933b9ffd010b861a96e6728324ea488571225c0b",
-        "converted_at": "2026-10-30T19:20:58Z",
+        "converted_at": "2026-11-09T17:00:37Z",
         "cite_markers": 25,
         "cite_defs": 116,
         "supplements": [],
@@ -15936,7 +15967,7 @@
         "md": "yuanwen/b/brentano-judgement.md",
         "sha256": "02572b38d703af82637f94fc585145cc552362f341c66c3813d6da40e6f63e22",
         "source_sha256": "b026fe2d639edb7ea98544eb448a637f292105c61bc8c880da23acde13e07905",
-        "converted_at": "2026-10-30T19:20:58Z",
+        "converted_at": "2026-11-09T17:00:37Z",
         "cite_markers": 13,
         "cite_defs": 74,
         "supplements": [],
@@ -16004,7 +16035,7 @@
         "md": "yuanwen/b/broad.md",
         "sha256": "02d000b9a9ea153ddef0dc8fea1530ed9650c4a0a29f032be5b79edfe19a4912",
         "source_sha256": "314c5583e93e67ddf7ec1d82acbfa5458bc076c531e86b55d0172495c72dd9b3",
-        "converted_at": "2026-10-30T19:20:59Z",
+        "converted_at": "2026-11-09T17:00:37Z",
         "cite_markers": 2,
         "cite_defs": 50,
         "supplements": [],
@@ -16086,7 +16117,7 @@
         "md": "yuanwen/b/brouwer.md",
         "sha256": "3049f0e25e75e77e75f06b5ff9bdd7dfd9620dec66b6f7b565629ef5ab4bc036",
         "source_sha256": "8f8d656962d2744a0d7a6b37548e68f59253f13fe6bc3ed9063eca082319e3d1",
-        "converted_at": "2026-10-30T19:20:59Z",
+        "converted_at": "2026-11-09T17:00:37Z",
         "cite_markers": 0,
         "cite_defs": 85,
         "supplements": [
@@ -16199,7 +16230,7 @@
         "md": "yuanwen/b/bruno.md",
         "sha256": "b194a5317d471091db3885779d3cb9eb88ac0efc4d0d37c422dcbba4cca36756",
         "source_sha256": "083addfa20fa1c64ba972a4047da7bccde92682fe0aa83997998ffea7fb10eec",
-        "converted_at": "2026-10-30T19:20:59Z",
+        "converted_at": "2026-11-09T17:00:38Z",
         "cite_markers": 68,
         "cite_defs": 105,
         "supplements": [
@@ -16283,7 +16314,7 @@
         "md": "yuanwen/b/buber.md",
         "sha256": "55afb237867a1a237d45c9295eb8fff69b80ce8c0812d157680f53fc4c2a9f37",
         "source_sha256": "8dd8c10d08ef6ed66f4d7db7f9df6f4a44a8ada0c9c56ea4b7a3c68cfb61858a",
-        "converted_at": "2026-10-30T19:20:59Z",
+        "converted_at": "2026-11-09T17:00:38Z",
         "cite_markers": 54,
         "cite_defs": 144,
         "supplements": [],
@@ -16345,7 +16376,7 @@
         "md": "yuanwen/b/buddha.md",
         "sha256": "b23eb36da9edf6d31dce1a71d58032a0f488e63f2bcc991ace7b4d8a1769b066",
         "source_sha256": "e9441b9f58d33870b2061973086fa9a71976d1318afec63792d88f6c29de28c8",
-        "converted_at": "2026-10-30T19:20:59Z",
+        "converted_at": "2026-11-09T17:00:38Z",
         "cite_markers": 7,
         "cite_defs": 16,
         "supplements": [],
@@ -16399,7 +16430,7 @@
         "md": "yuanwen/b/buddhism-chan.md",
         "sha256": "e48277e867046639891f523856ca8a09f3a77f7f742dec539c61f84bc71a3d8d",
         "source_sha256": "30acddaf0c906aa7b5a895f0c95064b86b741c81691b7e5f09074af2a196846b",
-        "converted_at": "2026-10-30T19:20:59Z",
+        "converted_at": "2026-11-09T17:00:39Z",
         "cite_markers": 9,
         "cite_defs": 30,
         "supplements": [],
@@ -16446,7 +16477,7 @@
         "md": "yuanwen/b/buddhism-huayan.md",
         "sha256": "c1fc4e34fdc338bddad6c36bd76b63bf7837e03af750ade64db1d32ae1d3b09c",
         "source_sha256": "8ab8d2eb4dea7515083caada2cf34a62f8c213cb6cc3af30f1fd1ebd0ffe06a0",
-        "converted_at": "2026-10-30T19:20:59Z",
+        "converted_at": "2026-11-09T17:00:39Z",
         "cite_markers": 11,
         "cite_defs": 72,
         "supplements": [],
@@ -16536,7 +16567,7 @@
         "md": "yuanwen/b/buddhism-tiantai.md",
         "sha256": "bcbb0accd2a32ba35dc3a1572d6d49b590826d57f167380e3dba1e874df946bb",
         "source_sha256": "546a1a23ebfcda2990e2b75a06fcf416c4c9b4256adba5482bca11a6fcc9fcce",
-        "converted_at": "2026-10-30T19:21:00Z",
+        "converted_at": "2026-11-09T17:00:39Z",
         "cite_markers": 2,
         "cite_defs": 53,
         "supplements": [
@@ -16622,7 +16653,7 @@
         "md": "yuanwen/b/buridan.md",
         "sha256": "dbee87f9a337f0859ef297a65b3334033d558d1051f67d73c5b2c79a8953023b",
         "source_sha256": "cb367d65a64cb0f0bf75b4960c5f7595d39a4b93c369f534575f03e35bc40eb6",
-        "converted_at": "2026-10-30T19:21:00Z",
+        "converted_at": "2026-11-09T17:00:38Z",
         "cite_markers": 25,
         "cite_defs": 105,
         "supplements": [],
@@ -16702,7 +16733,7 @@
         "md": "yuanwen/b/burke.md",
         "sha256": "a3ffaa142459698bd7fc2359a163730180e27677c30c4fba079262da3bc5d28b",
         "source_sha256": "fb42465a26d85e43c8c01df820e1a2d0dc48457763281b01d528dccb7f2bcd30",
-        "converted_at": "2026-10-30T19:21:00Z",
+        "converted_at": "2026-11-09T17:00:38Z",
         "cite_markers": 10,
         "cite_defs": 36,
         "supplements": [],
@@ -16768,7 +16799,7 @@
         "md": "yuanwen/b/burley.md",
         "sha256": "ab835b86318e2e5e9de383e5cd01d79abc5caf4e5e0334dacf7c6414e9d95f71",
         "source_sha256": "b672c795151454dd13473980a63f1b30c559c48483076543a1cc1869dd36b0b9",
-        "converted_at": "2026-10-30T19:21:00Z",
+        "converted_at": "2026-11-09T17:00:38Z",
         "cite_markers": 0,
         "cite_defs": 82,
         "supplements": [],
@@ -16826,7 +16857,7 @@
         "md": "yuanwen/b/butler-moral.md",
         "sha256": "224c2cab89e7783f20597c02f2da309ae2520453cb49d57565456bda59720576",
         "source_sha256": "1f2fb8be74c7fe06db380b57fc79c69a200d99fc3f10e9f5be27029d80327b5d",
-        "converted_at": "2026-10-30T19:21:00Z",
+        "converted_at": "2026-11-09T17:00:38Z",
         "cite_markers": 29,
         "cite_defs": 42,
         "supplements": [],
@@ -16881,7 +16912,7 @@
         "md": "yuanwen/b/byzantine-philosophy.md",
         "sha256": "14180ac7318a72d91e454fbeafd9c0de373098f3fdb4179a54508cb831ba7cb4",
         "source_sha256": "2224968891ee463562112a2a077d102afe6a8c9150a4872bba15e4ad081cd875",
-        "converted_at": "2026-10-30T19:21:00Z",
+        "converted_at": "2026-11-09T17:00:39Z",
         "cite_markers": 8,
         "cite_defs": 207,
         "supplements": [],
@@ -151785,5 +151816,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-09T16:28:18Z"
+  "updated_at": "2026-11-09T17:00:39Z"
 }
