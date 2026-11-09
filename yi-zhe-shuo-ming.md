@@ -3252,7 +3252,7 @@
 | semantic compactness | — | 语义紧致性 | logic-provability | 模型论通行 | 2026-11-05 |
 | semantic conception of truth | — | 真理的语义观 | tarski-truth | 塔尔斯基用语通行译法 | 2026-11-09 |
 | semantic information | — | 语义信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
-| semblance | — | 外观 | langer 首译 | 朗格研究通行（《情感与形式》汉译；席勒 Schein 语境）；凭证 2026-11-08 | 2026-11-08 |
+| semblance | — | 外观（朗格《情感与形式》语境）；假象（阿多诺 Schein 语境，《美学理论》《启蒙辩证法》中译通行） | langer 首译；adorno 并入 | 朗格研究通行（《情感与形式》汉译；席勒 Schein 语境）；凭证 2026-11-08；2026-11-10 合并同键语境变体（adorno Schein=假象） | 2026-11-08 |
 | semilattice semantics | — | 半格语义 | logic-relevance | Urquhart 1972 术语直译；凭证 2026-11-09 | 2026-11-09 |
 | seminal principles | — | 种子原理 | locke-on-medicine | 赫尔蒙特研究通行（semina） | 2026-11-05 |
 | sensationalism | — | 感觉主义 | antonio-rosmini | 近代认识论通行（与 sensism 感觉论区别） | 2026-11-07 |
