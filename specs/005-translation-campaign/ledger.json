@@ -38,15 +38,15 @@
   },
   "e": {
    "phase": "translate",
-   "claimed_by": "EF-main-20261109",
-   "claimed_at": "2026-11-08T20:41:07Z",
+   "claimed_by": "EF-main2-20261109",
+   "claimed_at": "2026-11-09T00:36:16Z",
    "note": "对账（2026-11-08 EH-main-20261108b 正序接管）：99=d19/在途0/未动工80（pending 80）；英文词数 1,568,038，done 181,650（11.6%）。本会话正序收口 environmental-aesthetics（18,426 词）、erotic-art（12,517 词）两条，均九步齐、四检绿、账本守恒；下一条 experimental-aesthetics（17,480 词）。done 12 条 NO_LEDGER 存量不补造（ADR-0021 债）；4 条半截旧账本正文完整、禁 compose。",
    "advanced_at": "2026-11-08T02:53:16Z"
   },
   "f": {
    "phase": "translate",
-   "claimed_by": "EF-main-20261109",
-   "claimed_at": "2026-11-08T20:41:07Z",
+   "claimed_by": "EF-main2-20261109",
+   "claimed_at": "2026-11-09T00:36:16Z",
    "note": "对账（2026-11-08 正序接管）：96=d1（film，账本 77/77 守恒）/在途0/未动工95，其中 frame-problem 为空骨架（账本 0/40，需立账后开译，禁 compose）；英文词数 1,430,133，done 7,483（0.5%）。正序第二轮按 SUMMARY 队列开译。",
    "advanced_at": "2026-11-08T02:53:16Z"
   },
@@ -80,8 +80,8 @@
   },
   "k": {
    "phase": "translate",
-   "claimed_by": "K-main-20261109",
-   "claimed_at": "2026-11-08T20:44:41Z",
+   "claimed_by": "K-main-20261109b",
+   "claimed_at": "2026-11-09T00:13:26Z",
    "note": "2026-11-08 K 批接管（K-main-20261108b，用户指令：现在负责翻译 K，主会话直译不用子代理）：三源对账 done 21/36、s3_checked 1（korean-confucianism，本会话 s1-s3 完成：s1 定点修 16 处含 seg89 漏译三句、seg107 丁/郑氏兄弟、seg123《牧民心书》等；s2 prose 70→57（实修 21、余按学术长句/术语枚举/引文豁免）、s3 五维对账 defs 93:93·markers 94:94·H2 11:11·H3 8:8、四检全绿；人名登记补 24 行；r1-r3 归评审线 R-main-20261108）、cleared 14（源 31.6 万词，体量升序：kant-judgment → kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school）。已纠正：kochen-specker 段101 标题粘连与段126/130/132 source 截断（HARD 清零）、kant-mathematics 半账留痕。在途接力：kant-judgment。｜冲突让出（2026-11-09，K-main-20261109）：kant-judgment 账本段76-82 在本会话开工核查期间（04:52-04:53）被另一活跃会话实时填入（untracked 在途件），判定上一 K 会话仍在线推进该条；本会话按用户预案自动顺延，转译下 5 条（体量升序）：kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime。kant-judgment 连同其 76-82 段成果全部归他会话，本会话对该文件零写入。",
    "advanced_at": "2026-11-08T15:29:02Z"
   },
@@ -171,8 +171,8 @@
   },
   "x": {
    "phase": "translate",
-   "claimed_by": "TZ-CN-20261109",
-   "claimed_at": "2026-11-08T17:41:17Z",
+   "claimed_by": "X-main-20261109",
+   "claimed_at": "2026-11-09T00:13:26Z",
    "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：3 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:12Z"
   },
@@ -185,11 +185,11 @@
   },
   "z": {
    "phase": "translate",
-   "claimed_by": "TZ-CN-20261109",
-   "claimed_at": "2026-11-08T17:41:17Z",
+   "claimed_by": "Z-main-20261109",
+   "claimed_at": "2026-11-08T22:32:29Z",
    "note": "收编自干执行2（2026-10-27 挂认领 9 天 0 进度，用户裁定收编），RZ-main-20261104 接手；对账补记（2026-11-06）：6 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-09T04:55:00Z"
+ "updated_at": "2026-11-09T00:36:16Z"
 }
