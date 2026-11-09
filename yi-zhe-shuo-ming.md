@@ -3176,7 +3176,6 @@
 | unconditional security | — | 无条件安全 | qt-entangle | 密码学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | teleportation | — | 隐形传态 | qt-entangle | 审定名词库（termonline·物理学名词）；凭证 2026-11-09 | 2026-11-09 |
 | unitary complex (Einheitskomplex) | — | 统一的复合体 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09 | 2026-11-09 |
-| Erklären | Erklären | 说明 | jaspers 首译 | 学界通行（狄尔泰方法论二分「理解/说明」；与 Verstehen 理解对举）；凭证 2026-11-09 | 2026-11-09 |
 | von Neumann entropy | — | 冯·诺依曼熵 | qt-entangle | 学界通行译名（量子信息文献）；凭证 2026-11-09 | 2026-11-09 |
 | Verstehen | Verstehen | 理解 | jaspers 首译 | 学界通行（狄尔泰解释学「理解/说明」二分；中文狄尔泰研究通译）；凭证 2026-11-09 | 2026-11-09 |
 | Existenz | Existenz | 生存 | jaspers 首译 | 学界通行（雅斯贝尔斯生存哲学核心概念；与 Dasein 此在分义）；凭证 2026-11-09 | 2026-11-09 |
