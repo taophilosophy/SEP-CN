@@ -124,6 +124,20 @@
 | aggregation rule | — | 聚合规则 | jury-theorems | 学界惯例（社会选择理论通行）；凭据 2026-11-02 | 2026-11-02 |
 | agnosticism | — | 不可知论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | agreeableness | — | 宜人性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| Swampman | — | 沼泽人 | davidson 首译 | 戴维森思想实验通行；凭证 2026-11-10 | 2026-11-10 |
+| T-sentence | — | T 句 | davidson 首译 | 塔尔斯基真理理论通行（与 Convention T 约定 T 相承）；凭证 2026-11-10 | 2026-11-10 |
+| anomalism of the mental | — | 心理的变异性 | davidson 首译 | 与变异一元论（anomalous monism，termonline 定名 2026-10-27）同族取“变异”形；凭证 2026-11-10 | 2026-11-10 |
+| conceptual relativism | — | 概念相对主义 | davidson 首译 | Davidson/蒯因研究文献通行；凭证 2026-11-10 | 2026-11-10 |
+| conceptual scheme | — | 概念图式 | davidson 首译 | 蒯因/戴维森研究通行（“图式”承康德 Schema 译名）；凭证 2026-11-10 | 2026-11-10 |
+| holding true | — | 视为真 | davidson 首译 | 戴维森语义学通行；凭证 2026-11-10 | 2026-11-10 |
+| holism | — | 整体论 | davidson 首译 | 蒯因/戴维森研究通行（与 meaning holism 意义整体论相承）；凭证 2026-11-10 | 2026-11-10 |
+| indeterminacy of translation | — | 翻译的非确定性 | davidson 首译 | 与 indeterminacy 非确定性（既有行 2026-11-08）同族分列；蒯因通行；凭证 2026-11-10 | 2026-11-10 |
+| omniscient interpreter | — | 全知解释者 | davidson 首译 | 戴维森认识论通行（omniscient 全知既有行同根）；凭证 2026-11-10 | 2026-11-10 |
+| primary reason | — | 首要理由 | davidson 首译 | 戴维森行动理论通行；凭证 2026-11-10 | 2026-11-10 |
+| principle of charity | — | 慈善原则 | davidson 首译 | 戴维森/蒯因解释论通行（亦作“宽容原则”）；凭证 2026-11-10 | 2026-11-10 |
+| pro-attitude | — | 肯定态度 | davidson 首译 | 戴维森行动理论通行；凭证 2026-11-10 | 2026-11-10 |
+| radical interpretation | — | 彻底解释 | davidson 首译 | 戴维森语言哲学通行；凭证 2026-11-10 | 2026-11-10 |
+| triangulation | — | 三角测量 | davidson 首译 | 戴维森后期哲学通行（测绘隐喻术语）；凭证 2026-11-10 | 2026-11-10 |
 | āhāryāropa | आहार्यारोप | 假想赋予 | early-modern-india | 正理思择义译（counterfactual supposition；āropa 之限定形）；凭证 2026-11-10 | 2026-11-10 |
 | ahiṃsā | अहिंसा | 不害（非暴力） | jaina-philosophy | 学界千年通行（印度宗教共同术语） | 2026-11-08 |
 | ahimsa | — | 不害 | colonialism | 印度哲学通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -2655,7 +2669,7 @@
 | numerical identity | — | 数值同一（亦作“数的同一性”） | 首译（stem-cells） | 学界惯例（形而上学同一性文献通行）；凭证 2026-11-09 | 2026-11-09 |
 | numerical unity | unitas numeralis | 数值统一性 | 首译（sharpe） | 经院哲学通行（numerical 数值/数目义，与 specific unity 种的统一性对举）；凭证 2026-11-09 | 2026-11-09 |
 | numinous | — | 努秘（奥托 das Heilige 语境） | 首现（emotion-Christian-tradition） | 学界惯例（汉语宗教学界通行（《论“神圣”》译本））；凭证 2026-11-04 | 2026-11-04 |
-| Nyāya | न्याय | 正理（派） | early-modern-india 首译 | 千年通行（正理派；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
+| Nyāya | न्याय | 正理派 | early-modern-india 首译 | 千年通行（正理派；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
 | Nyāya-sūtra | न्यायसूत्र | 《逻辑经》 | early-modern-india | 本库家法（jaina-philosophy 先例；简称 NS 沿用）；凭证 2026-11-10 | 2026-11-10 |
 
 ## O
@@ -4224,7 +4238,7 @@
 | vagueness | — | 模糊性 | 首现（imprecise-probabilities） | 学界惯例（语言哲学与认识论通行）；凭证 2026-11-08 | 2026-11-08 |
 | Vaibhāṣika | वैभाषिक | 毗婆沙宗 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
 | vainglory | — | 虚荣 | hobbes-moral 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
-| vaiśeṣika | वैशेषिक | 胜论（派） | early-modern-india 首译 | 千年通行汉译（胜宗；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
+| vaiśeṣika | वैशेषिक | 胜论派 | early-modern-india 首译 | 千年通行汉译（胜宗；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
 | Vaiśeṣika-sūtra | — | 《胜论经》 | early-modern-india | 学界通行（承「胜论」派名；简称 VS）；凭证 2026-11-10 | 2026-11-10 |
 | vajra | 金剛杵 | 金刚（杵） | kukai | 佛学界传统译名 | 2026-11-09 |
 | Vajrasattva / Kongō-satta | 金剛薩埵 | 金刚萨埵 | kukai | 佛学界千年传统译名 | 2026-11-09 |
