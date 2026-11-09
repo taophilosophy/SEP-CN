@@ -2,7 +2,7 @@
   "slug": "gersonides",
   "kind": "retranslate",
   "zh_doc": "g/gersonides.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T21:52:37Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "g-beta-G-main-20261109",
+      "at": "2026-11-08T20:02:45Z",
+      "evidence": "账本 47/47 段双版齐（step1 忠实/step2 优化，逐段互异，无机械重复段）；lq check HARD=0，SOFT 20 条全为斜体书名转书名号导致的 * 计数差，逐条判读无漏译；compose 写回 21092 字符；g_fix_h1 非 dry 复核 H1=SUMMARY 正名；check_style issues=0、check_math missing=0/unbalanced=0、check_academic --strict OK；g_check H1 子检因 g_fix_h1 --dry 恒输出 old/new 的工具缺陷误报（gelukpa 同样复现），已报 Lead。账本提交 bc10aa64。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "g-beta-G-main-20261109",
+      "at": "2026-11-08T21:15:31Z",
+      "evidence": "s1 逐节核销（对照账本 step1 与 yuanwen 英文源）：节标题 7=7 且编号一一对应；脚注键集合 52=52 全等（en-zh 差集为空）；正文脚注标记 9=9 逐项相同；年份集合 56=56 缺 0 多 0；数字集合缺 1，仅 en「14th century」译作「十四世纪」属正常译法，非漏译。修补 9 处：①「哪怕只是为了反驳」→「批评」；②［质料理智］与能动理智结合之时，即是不朽之时→结合时便是不朽的；③「法则、秩序与正位」→「正当」；④特定正位（*panim*）→特定面位；⑤体质完善／不完善→天生完善／不完善（constitutionally 二处）；⑥「对上帝所造、所因之物的观察」→「通过上帝所创造、所推动的存在者而获得」；⑦「彻底一贯」→「一贯到底」；⑧哈-科恩→哈科恩；⑨「至少在某些程度上」→「在某种程度上」。源文异常 2 处留痕（照源文译，不擅改）：①thou va-vohu（疑为 tohu va-vohu 之误）；②*sapiens dominabitur astris*［the wise man will be ruled by the stars］括注与拉丁文义相反（拉丁文意为「智者将支配星辰」）。译名混形已知：ren-ming-biao/israeli 行作「格森尼德」，本条目从 SUMMARY 主形「吉尔松尼德」，已提请 Lead 统一裁定。g_check 复跑全绿（style 0／math 0／academic --strict OK／H1=SUMMARY）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "g-beta-G-main-20261109",
+      "at": "2026-11-08T23:41:18Z",
+      "evidence": "s2 prose 16→0（tools/check_prose.py g/gersonides.md 复跑告警 0，无豁免残留）：de-chain 8 条改写（①自己的观察当作检验体系的最终标准→自身观察视为检验体系的最终标准；②引文「从托勒密到今天…只有我们自己的观察例外」→「从托勒密至今，我们在前辈中找不到任何有助于这项研究的观察，唯有自己的观察例外」；③先知所接受的…他的知识→先知接受的并非…其知识；④想象官能所接受的→所接受者；⑤每个推动者只把握自己所推动的天体所衍出的秩序→自身所推动天体衍出的秩序；⑥Langermann 强调吉尔松尼德占星术的目的论性格它最大的长处→看重的正是…最大长处在于；⑦宇宙中的「法则、秩序与正当」意味着有一个安排万物本性的理智在→宇宙自有法则、秩序与正当，其中必有一个理智在安排万物本性；⑧诸天中可见的理性秩序就只能是偶然的结果→便全凭偶然而来）；long-sentence 5 条拆分或瘦身（V.1.3 引文、*Wars* I.8 亚历山大引文缩短、II.6 能动理智引文压缩、段 11 宗教权威句减「彼此」「人的」「在」、伦理观段长句断为二句）；weak-verb 2 条（神学则作出牺牲→神学只好让步；一一加以否定→逐一否定）；passive-bei 1 条（被决定、被安排→得到决定与安排）。不动事实、不减信息，年份 56=56 与脚注键 52=52 复验不变；g_check 全绿。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "g-beta-G-main-20261109",
+      "at": "2026-11-09T02:18:07Z",
+      "evidence": "s3 体例终检：script/g_check.py g gersonides 全绿（check_style issues=0；check_math formulas=0 missing=[] unbalanced=[]；check_academic --strict OK；H1=SUMMARY『吉尔松尼德 Gersonides (Tamar Rudavsky)』）；tools/check_prose.py 复跑告警 0（s2 已清，无豁免）；参考文献照录核对：脚注定义区 51=51 条、缺 0 多 0、顺序逐条一致（对照 yuanwen/g/gersonides.md）；正文脚注标记 9 与源逐项相同、脚注键集合 52=52 全等；相关词条 6=6 与源一一对应。check_terms --docs 告警逐类说明：①『正文缺登记译法』107 处——均为登记册『出处』列记到 gersonides 的旧语料词（sovereignty、body politic、corpus mysticum 等），本轮全量重译后正文不再使用，属预期告警非本稿缺陷；②『非英语术语缺原文』180 条、『人名缺籍属/生卒』2414 条为登记册全局存量告警，与本稿无关；③新登 22 术语 + 8 人名已由 Lead 入库（出处 gersonides，2026-11-09），正文用词与之对齐（『无中生有』已改为登记册主形『无中创世』）。al-Bitruji 保留英文原名（汉译未统一，待审定）。译名混形已知：ren-ming-biao/israeli 行作『格森尼德』，本条目从 SUMMARY 主形『吉尔松尼德』，已提请 Lead 统一裁定；相关词条行『阿芙罗蒂西亚的亚历山大』（SUMMARY 管线名）与正文登记册主形『阿弗罗狄西亚的亚历山大』并存，按 rules/03 不自行改写，一并提请统一。"
     }
   ],
   "blockers": [],
