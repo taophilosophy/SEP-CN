@@ -1,0 +1,22 @@
+{
+  "slug": "logic-hybrid",
+  "kind": "retranslate",
+  "zh_doc": "l/logic-hybrid.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T01:44:47Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T01:44:47Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 22, 2021",
+    "archive_edition": "Summer 2024",
+    "sha256": "bf7046faf0c93fb29504c72a6bbe1d3f8cde86929f522e154a1ac74b151de6be"
+  }
+}
