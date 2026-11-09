@@ -1646,164 +1646,232 @@ segments:
       Weyl (1923a, 124–125) shows that the conformal structure supplemented with the structure of a *length connection* or *gauge field* $A_{j}(x)$ singles out a unique connection from the equivalence class $K = [\Gamma]$ of conformally equivalent connections.[^note-49] This unique connection, which is called the *Weyl connection*, is given by
 
       $$\begin{align} \Gamma^{\,i}_{jk} &= \frac{1}{2}g^{ir}(g_{rj,k} + g_{kr,j} - g_{jk,r}) +\frac{1}{2} g^{ir}(g_{rj}A_{k} + g_{kr}A_{j} - g_{jk}A_{r}) \\ \tag{19} &= \frac{1}{2}g^{ir}(g_{rj,k} + g_{kr,j} - g_{jk,r}) +\frac{1}{2}(\delta^{\,i}_j A_{k} + \delta^{\,i}_k A_{j} - g_{jk}g^{ir}A_{r}), \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔（1923a, 124–125）表明，保形结构若补充以*长度联络*或*规范场* $A_{j}(x)$ 的结构，便可从保形等价联络的等价类 $K = [\Gamma]$ 中挑出唯一的一个联络。[^note-49] 这个唯一的联络称为*外尔联络*，由下式给出
+
+      $$\begin{align} \Gamma^{\,i}_{jk} &= \frac{1}{2}g^{ir}(g_{rj,k} + g_{kr,j} - g_{jk,r}) +\frac{1}{2} g^{ir}(g_{rj}A_{k} + g_{kr}A_{j} - g_{jk}A_{r}) \\ \tag{19} &= \frac{1}{2}g^{ir}(g_{rj,k} + g_{kr,j} - g_{jk,r}) +\frac{1}{2}(\delta^{\,i}_j A_{k} + \delta^{\,i}_k A_{j} - g_{jk}g^{ir}A_{r}), \end{align}$$
+    step2: |-
+      外尔（1923a, 124–125）表明：保形结构若再辅以*长度联络*即*规范场* $A_{j}(x)$ 这一结构，便能自保形等价联络之等价类 $K = [\Gamma]$ 中挑出唯一的联络。[^note-49] 此唯一联络称*外尔联络*，其式为
+
+      $$\begin{align} \Gamma^{\,i}_{jk} &= \frac{1}{2}g^{ir}(g_{rj,k} + g_{kr,j} - g_{jk,r}) +\frac{1}{2} g^{ir}(g_{rj}A_{k} + g_{kr}A_{j} - g_{jk}A_{r}) \\ \tag{19} &= \frac{1}{2}g^{ir}(g_{rj,k} + g_{kr,j} - g_{jk,r}) +\frac{1}{2}(\delta^{\,i}_j A_{k} + \delta^{\,i}_k A_{j} - g_{jk}g^{ir}A_{r}), \end{align}$$
   - id: 186
     kind: body
     source: |-
       which is analogous to (14). The first term of the Weyl connection is identical to the metric connection (9) of Riemannian geometry, whereas the second term represents what is new in a Weyl geometry. The Weyl connection is invariant under the gauge transformation
 
       $$\begin{align} \overline{g}_{ij}(x) &= e^{\theta(x)}g_{ij}(x) \\ \tag{20} \overline{A}_j(x) &= A_j(x) - \partial_j \theta(x), \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      它与 (14) 类似。外尔联络的第一项与黎曼几何的度规联络 (9) 完全相同，而第二项则代表外尔几何中新增的内容。外尔联络在如下规范变换下不变
+
+      $$\begin{align} \overline{g}_{ij}(x) &= e^{\theta(x)}g_{ij}(x) \\ \tag{20} \overline{A}_j(x) &= A_j(x) - \partial_j \theta(x), \end{align}$$
+    step2: |-
+      该式与 (14) 相类。外尔联络之首项与黎曼几何的度规联络 (9) 全同，其次项则代表外尔几何中新增之物。外尔联络在下列规范变换下不变
+
+      $$\begin{align} \overline{g}_{ij}(x) &= e^{\theta(x)}g_{ij}(x) \\ \tag{20} \overline{A}_j(x) &= A_j(x) - \partial_j \theta(x), \end{align}$$
   - id: 187
     kind: body
     source: |-
       where the gauge function is $\lambda(x) = e^{\theta(x)}$. Thus, a conformal structure plus *length connection* or *gauge field* $A_{j}(x)$ determines a *Weyl geometry*equipped with a unique *Weyl connection*. Therefore, the fundamental principle of infinitesimal geometry also holds in a Weyl geometry; that is, the metric structure of a Weyl geometry determines a unique affine connection, namely, the Weyl connection.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中规范函数为 $\lambda(x) = e^{\theta(x)}$。这样，保形结构加上*长度联络*或*规范场* $A_{j}(x)$ 便确定了一个配备唯一*外尔联络*的*外尔几何*。因此，无穷小几何的基本原理在外尔几何中也成立；也就是说，外尔几何的度量结构确定唯一的仿射联络，即外尔联络。
+    step2: |-
+      式中规范函数为 $\lambda(x) = e^{\theta(x)}$。如是，保形结构加上*长度联络*即*规范场* $A_{j}(x)$，便确定一个配有唯一*外尔联络*的*外尔几何*。故无穷小几何之基本原理于外尔几何中亦成立：外尔几何的度量结构确定唯一的仿射联络，即外尔联络。
   - id: 188
     kind: body
     source: |-
       In Weyl’s physical interpretation of his purely infinitesimal metric geometry (Weyl geometry), the gauge field $A_{j}(x)$ is identified with the electromagnetic four potential, and the electromagnetic field tensor is given by
 
       $$\tag{21} F_{jk}(x) = \partial_{j} A_{k}(x) - \partial_{k} A_{j}(x). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在外尔对其纯粹无穷小度量几何（外尔几何）的物理解释中，规范场 $A_{j}(x)$ 被等同于电磁四维势，而电磁场张量由下式给出
+
+      $$\tag{21} F_{jk}(x) = \partial_{j} A_{k}(x) - \partial_{k} A_{j}(x). $$
+    step2: |-
+      在外尔对纯粹无穷小度量几何（外尔几何）的物理解释中，规范场 $A_{j}(x)$ 被认作电磁四势，电磁场张量则为
+
+      $$\tag{21} F_{jk}(x) = \partial_{j} A_{k}(x) - \partial_{k} A_{j}(x). $$
   - id: 189
     kind: body
     source: |-
       A spacetime that is formally characterizable as a Weyl geometry, would not only have a *curvature of direction* (*Richtungskrümmung*) but would also have a *curvature of length* (*Streckenkrümmung*). Because of the latter property the formal characterization of the congruent displacement of length would be non-integrable, that is, path-dependent, in a Weyl geometry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个形式上可刻画为外尔几何的时空，将不仅有*方向的曲率*（*Richtungskrümmung*），还会有*长度的曲率*（*Streckenkrümmung*）。由于后一性质，长度的全等位移在外尔几何中的形式刻画将不是可积的，即与路径相关。
+    step2: |-
+      形式上可刻画为外尔几何的时空，将不但有*方向的曲率*（*Richtungskrümmung*），且有*长度的曲率*（*Streckenkrümmung*）。职是之故，长度的全等位移在外尔几何中的形式刻画不可积，即与路径相关。
   - id: 190
     kind: body
     source: |-
       *Figure 6:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 6：*
+    step2: |-
+      *图 6：*
   - id: 191
     kind: body
     source: |-
       ![figure](../assets/weyl/fig6.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![外尔几何中沿不同路径的长度变化](../yuanwen/assets/weyl/fig6.png)
+    step2: |-
+      ![外尔几何中沿不同路径的平行输运](../yuanwen/assets/weyl/fig6.png)
   - id: 192
     kind: body
     source: |-
       Figure 6: In a Weyl geometry parallel displacement of a vector along different paths not only changes its direction but also its length
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 6：在外尔几何中，向量沿不同路径的平行位移不仅改变其方向，也改变其长度
+    step2: |-
+      图 6：外尔几何中，向量沿不同路径平行位移，不但方向改变，长度亦变
   - id: 193
     kind: body
     source: |-
       Suppose physical spacetime corresponds to a Weyl geometry. Then two identical clocks $A$ and $B$ at an event $p$ with a common unit of time, that is, a timelike vector of given length $l_{p}$, which are separated and moved along different world lines to an event $q$, will not only differ with respect to the elapsed time (first clock effect (i.e., relativistic effect)), but in general the clocks will differ with respect to their common unit of time (rate of ticking) at $q$ (second clock effect). That is, congruent time displacement in a Weyl geometry is such that two congruent time intervals at $p$ will not in general be congruent at $q$, when congruently displaced in parallel along different world lines from $p$ to $q$, that is, $l^{A}_{q} \ne l^{B}_{q}$. This means that a twin who travels to a distant star and then returns to earth would not only discover that the other twin on earth had aged much more, but also that all the clocks on earth tick at a different rate. Hence, in the presence of a non-vanishing electromagnetic field $F_{jk}(x)$ the clock rates will not in general be the same; that is, there will be a second clock effect in addition to the relativistic effect (first clock effect). Thus, $l^{A}_{q} = l^{B}_{q}$ if and only if the curl of $A_{j}(x)$ vanishes, that is, if and only if the electromagnetic field tensor $F_{jk}(x)$ vanishes, namely,
 
       $$ F_{jk}(x) = \partial_{j} A_{k}(x) - \partial_{k} A_{j}(x) = 0. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假设物理时空对应于一种外尔几何。那么在事件 $p$ 处有共同时间单位（即具有给定长度 $l_{p}$ 的类时向量）的两只相同时钟 $A$ 与 $B$，若被分开并沿不同的世界线移动到事件 $q$，它们不仅会在所历时间上不同（第一钟效，即相对论效应），而且一般而言，两只时钟在 $q$ 处的共同时间单位（走时率）也会不同（第二钟效）。也就是说，外尔几何中的全等时间位移是这样的：$p$ 处的两个全等时间间隔，若沿不同世界线从 $p$ 到 $q$ 平行地作全等位移，到 $q$ 处一般而言不再全等，即 $l^{A}_{q} \ne l^{B}_{q}$。这意味着，一个旅行到遥远恒星再返回地球的双生子，不仅会发现地球上的另一个双生子老了许多，还会发现地球上所有时钟的走时率都不同。因此，在存在非零电磁场 $F_{jk}(x)$ 时，钟率一般而言不会相同；也就是说，除相对论效应（第一钟效）之外，还将有第二钟效。于是，$l^{A}_{q} = l^{B}_{q}$ 当且仅当 $A_{j}(x)$ 的旋度为零，即当且仅当电磁场张量 $F_{jk}(x)$ 为零，亦即
+
+      $$ F_{jk}(x) = \partial_{j} A_{k}(x) - \partial_{k} A_{j}(x) = 0. $$
+    step2: |-
+      设物理时空相应于某一外尔几何。则事件 $p$ 处两只相同时钟 $A$ 与 $B$（共有同一时间单位，即有给定长度 $l_{p}$ 的类时向量），若被分离并沿不同世界线移至事件 $q$，则不惟在所历时间上有别（第一钟效，即相对论效应），一般地说，二者在 $q$ 处之共同时间单位（走时率）亦将有别（第二钟效）。即是说，外尔几何中的全等时间位移如此：$p$ 处两个全等时间间隔，若沿不同世界线自 $p$ 至 $q$ 平行地作全等位移，在 $q$ 处一般不复全等，即 $l^{A}_{q} \ne l^{B}_{q}$。这意味着：远游恒星而后返回地球的双生子，不但会发现留在地球上的兄弟老去许多，且会发现地球上一切时钟的走时率皆异。故当非零电磁场 $F_{jk}(x)$ 在场时，钟率一般不相若；亦即除相对论效应（第一钟效）之外，尚有第二钟效。于是 $l^{A}_{q} = l^{B}_{q}$ 当且仅当 $A_{j}(x)$ 之旋度消失，亦即当且仅当电磁场张量 $F_{jk}(x)$ 消失，即
+
+      $$ F_{jk}(x) = \partial_{j} A_{k}(x) - \partial_{k} A_{j}(x) = 0. $$
   - id: 194
     kind: body
     source: |-
       In that case the second term of the Weyl connection vanishes and (19) reduces to the metric connection (9) of Riemannian geometry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这种情况下，外尔联络的第二项消失，(19) 化归为黎曼几何的度规联络 (9)。
+    step2: |-
+      此情形下，外尔联络之次项消失，(19) 遂化归为黎曼几何的度规联络 (9)。
   - id: 195
     kind: body
     source: |-
       In a Weyl geometry there are no ideal absolute “meter sticks” or “clocks”. For example, the rate at which any clock measures time is a function of its history. However, as Einstein pointed out in a *Nachtrag* (addendum) to Weyl (1918a), it is precisely this situation which suggests that Weyl’s geometry conflicts with experience. In Weyl’s geometry, the frequency of the spectral lines of atomic clocks would depend on the location and past histories of the atoms. But experience indicates otherwise. The spectral lines are well-defined and sharp; they appear to be independent of an atom’s history. Atomic clocks define units of time, and experience shows they are integrably transported. Thus, if we assume that the atomic time and the gravitational standard time are identical, and that the gravitational standard time is determined by the Weyl geometry, then the electromagnetic field tensor is zero. But if that is the case, then a Weyl geometry reduces to the standard Riemannian geometry that underlies general relativity, since the vanishing of Weyl’s *Streckenkrümmung*(*length curvature*) is necessary and sufficient for the existence of a Riemannian metric $g_{ij}$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在外尔几何中，没有理想的绝对“米尺”或“时钟”。例如，任何时钟度量时间的速率都是其历史的函数。然而，正如爱因斯坦在外尔（1918a）的一则*补记*（*Nachtrag*）中所指出的，恰恰是这一情形提示：外尔的几何与经验相冲突。在外尔几何中，原子钟谱线的频率将取决于原子的位置与过去的历史。但经验所表明的并非如此。谱线是良定义的、锐利的；它们似乎与原子的历史无关。原子钟定义了时间单位，而经验表明它们是被可积地输运的。因此，如果我们假定原子时与引力标准时是同一的，而引力标准时又由外尔几何所确定，那么电磁场张量便为零。但若如此，外尔几何便化归为广义相对论所依据的标准黎曼几何，因为外尔*Streckenkrümmung*（*长度曲率*）的消失，是黎曼度规 $g_{ij}$ 存在的一个充分必要条件。
+    step2: |-
+      外尔几何中并无理想的绝对“米尺”或“时钟”。例如，任何时钟计时之速率，皆为其历史之函数。然正如爱因斯坦在外尔（1918a）的*补记*（*Nachtrag*）中所指出，恰恰是此种情形提示：外尔几何与经验相牾。依外尔几何，原子钟谱线的频率将系于原子的位置与其既往历史；而经验所示者不然。谱线良定义而锐利，似与原子之历史无涉。原子钟定义时间单位，经验表明其输运可积。故若假定原子时与引力标准时为一，而引力标准时又由外尔几何所定，则电磁场张量必为零；果如此，外尔几何便化归为广义相对论所本的标准黎曼几何——因外尔*Streckenkrümmung*（*长度曲率*）之消失，乃黎曼度规 $g_{ij}$ 存在之充要条件。
   - id: 196
     kind: body
     source: |-
       When quantum theory was developed a few years later it became clear that Weyl’s theory was in conflict with experience in an even more fundamental way since there is a direct relation between clock rates and masses of particles in quantum theory. A particle with a certain rest mass $m$ possesses a natural frequency which is a function of its rest mass, the speed of light $c$, and Planck’s constant $h$. This means that in a Weyl geometry not only clocks would depend on their histories but also the masses of particles. For example, if two protons have different histories then they would also have different masses in a Weyl geometry. But this violates the quantum mechanical principle that particles of the same kind—in this case, protons—have to be exactly identical.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      几年后量子理论发展起来，情况变得清楚：外尔的理论与经验相冲突的方式还要更为根本，因为在量子理论中，钟率与粒子质量之间有直接关系。具有一定静质量 $m$ 的粒子拥有一个自然频率，它是其静质量、光速 $c$ 与普朗克常数 $h$ 的函数。这意味着，在外尔几何中，不仅时钟会依赖于其历史，粒子的质量也会如此。例如，若两个质子有不同的历史，它们在外尔几何中也会具有不同的质量。但这违反了量子力学的一条原理：同类的粒子——在此情形下即质子——必须完全同一。
+    step2: |-
+      数年之后量子理论兴起，情形愈明：外尔理论与经验相牾，且其相牾更为根本——因在量子理论中，钟率与粒子质量直接相关。静质量为 $m$ 的粒子自有其固有频率，此频率为其静质量、光速 $c$ 与普朗克常数 $h$ 之函数。是故在外尔几何中，不惟时钟系于其历史，粒子质量亦然。例如两个质子若历史不同，其在外尔几何中质量亦将不同。然而此说违于量子力学之一条原理：同类粒子——此处即质子——必须完全同一。
   - id: 197
     kind: body
     source: |-
       However, in 1918 it was still possible for Weyl to defend his theory in the following way. In response to Einstein’s criticism Weyl noted that atoms, clocks and meter sticks are complex objects whose real behavior in arbitrary gravitational and electromagnetic fields can only be inferred from a dynamical theory of matter. Since no detailed and reliable dynamical models were available at that time, Weyl could argue that there is no reason to assume that, for example, clock rates are correctly modelled by the length of a timelike vector. Weyl (1919a, 67) said:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而在 1918 年，外尔仍可以如下方式为他的理论辩护。针对爱因斯坦的批评，外尔指出：原子、时钟与米尺都是复杂的对象，它们在任意引力场与电磁场中的真实行为，只能从一种关于物质的动力学理论中推知。由于当时尚无详尽而可靠的动力学模型，外尔便可辩称：没有理由假定（例如）钟率可由类时向量的长度正确地建模。外尔（1919a, 67）说：
+    step2: |-
+      然在 1918 年，外尔尚可如是自辩。针对爱因斯坦之批评，他指出：原子、时钟与米尺皆为复杂对象，其在任意引力场与电磁场中的真实行为，只能自一种物质动力学理论推知。彼时既无详尽可靠之动力学模型，外尔便可辩称：并无理由假定（例如）钟率已由类时向量之长度正确建模。外尔（1919a, 67）云：
   - id: 198
     kind: body
     source: |-
       > At first glance it might be surprising that according to the purely close-action geometry, length transfer is non-integrable in the presence of an electromagnetic field. Does this not clearly contradict the behaviour of rigid bodies and clocks? The behaviour of these measurement instruments, however, is a physical process whose course is determined by natural laws and as such has nothing to do with the ideal process of ‘congruent displacement of spacetime distance’ that we employ in the mathematical construction of the spacetime geometry. The connection between the metric field and the behaviour of rigid rods and clocks is already very unclear in the theory of Special Relativity if one does not restrict oneself to quasi-stationary motion. Although these instruments play an indispensable role in praxis as indicators of the metric field, (for this purpose, simpler processes would be preferable, for example, the propagation of light waves), it is clearly incorrect to *define* the metric field through the data that are directly obtained from these instruments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 初看之下，按纯粹近距作用几何，长度转移在电磁场在场时不可积，或许令人惊讶。这难道不明显地与刚体与时钟的行为相矛盾吗？然而这些测量仪器的行为乃是一个物理过程，其进程由自然定律所决定，因而与我们用以在时空几何的数学建构中所采用的“时空距离的全等位移”这一理想过程无涉。在狭义相对论中，若不把自身限于准稳态运动，度规场与刚尺及时钟行为之间的联系本已十分不明。尽管这些仪器在实践中作为度规场的指示器起着不可或缺的作用（就此目的而言，更简单的过程反而更可取，例如光波的传播），但通过这些仪器直接获得的数据来*定义*度规场，显然是不正确的。
+    step2: |-
+      > 乍看之下，依纯粹近距作用几何，电磁场在场时长度转移不可积，或不免令人诧异：此岂非显然与刚体及时钟之行为相牾？然此类测量仪器之行为乃一物理过程，其进程为自然定律所定，故与我们在时空几何之数学建构中所用的“时空距离之全等位移”这一理想过程无涉。即在狭义相对论中，若不限于准稳态运动，度规场与刚尺、时钟行为之联系已甚不明。此类仪器在实践中固为度规场之指示者，不可或缺（就此目的而言，反倒是更简单的过程更为可取，例如光波之传播）；然径以得自此类仪器之数据来*定义*度规场，显然未当。
   - id: 199
     kind: body
     source: |-
       Weyl elaborated this idea by suggesting that the dynamical nature of such time keeping systems was such that they continually *adapt* to the spacetime structure in such a way that their rates remain constant. He distinguished between quantities that remain constant as a consequence of such *dynamical adjustment*, and quantities that remain constant by *persistence* because they are isolated and undisturbed. He argued that all quantities that maintain a perfect constancy probably do so as a result of *dynamical adjustment*. Weyl (1921a, 261) expressed these ideas in the following way:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔通过提出如下看法来阐发这一想法：这类计时系统的动力学本性使它们不断地*适应*时空结构，从而使其速率保持恒定。他区分了两类量：一类是因这种*动力学调整*而保持恒定的量，另一类是因其孤立而不受扰动、凭*持存*而保持恒定的量。他论证说，一切保持着完美恒定性的量，大概都是*动力学调整*的结果。外尔（1921a, 261）以下述方式表达了这些想法：
+    step2: |-
+      外尔借此想法进一步申说：此类计时系统之动力学本性，使其不断*适应*时空结构，从而速率恒常。他区分两类量：一因此种*动力学调整*而恒常，一因孤立无扰、凭*持存*而恒常。他论证道：凡保持完美恒常性者，大抵皆*动力学调整*之结果。外尔（1921a, 261）如是表达：
   - id: 200
     kind: body
     source: |-
       > What is the cause of this discrepancy between the idea of congruent transfer and the behaviour of measuring-rods and clocks? I differentiate between the determination of a magnitude in Nature by “persistence” (*Beharrung*) and by “adjustment” (*Einstellung*). I shall make the difference clear by the following illustration: We can give to the axis of a rotating top any arbitrary direction in space. This arbitrary original direction then determines for all time the direction of the axis of the top when left to itself, by means of a *tendency of persistence* which operates from moment to moment; the axis experiences at every instant a parallel displacement. The exact opposite is the case for a magnetic needle in a magnetic field. Its direction is determined at each instant independently of the condition of the system at other instants by the fact that, in virtue of its constitution, the system *adjusts*itself in an unequivocally determined manner to the field in which it is situated. *A priori* we have no ground for assuming as integrable a transfer which results purely from the tendency of persistence. …Thus, although, for example, Maxwell’s equations demand the conservational equation $de\,/\,dt =0$ for the charge $e$ of an electron, we are unable to understand from this fact why an electron, even after an indefinitely long time, always possesses an unaltered charge, and why the same charge $e$ is associated with all electrons. This circumstance shows that the charge is not determined by persistence, but by adjustment, and that there can exist only *one* state of equilibrium of the negative electricity, to which the corpuscle adjusts itself afresh at every instant. For the same reason we can conclude the same thing for the spectral lines of atoms. The one thing common to atoms emitting the same frequency is their constitution, and not the agreement of their frequencies on the occasion of an encounter in the distant past. Similarly, the length of a measuring-rod is obviously determined by adjustment, for I could not give *this* measuring-rod in *this* field-position any other length arbitrarily (say double or treble length) in place of the length which it now possesses, in the manner in which I can at will pre-determine its direction. The theoretical possibility of a determination of length by adjustment is given as a consequence of the *world-curvature*, which arises from the metrical field according to a complicated mathematical law. As a result of its constitution, the measuring-rod assumes a length which possesses this or that value, *in relation to the radius of curvature of the field*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 全等转移的观念与量尺及时钟的行为之间何以有此差池？我区分自然中一个量值的两种确定方式：凭“持存”（*Beharrung*）与凭“调整”（*Einstellung*）。以下列比喻明之：我们可以给一个旋转陀螺的轴在空间中指定任意方向。这一任意的最初方向，此后便凭借一种时时运作的*持存倾向*，永远决定着陀螺在不受干预时其轴的方向；轴在每一瞬间都经历一次平行位移。磁场中的磁针则恰恰相反。它的方向在每一瞬间都独立于系统在其他瞬间的状况而被确定，因为凭其构造，该系统以唯一确定的方式*调整*自身以适应其所处的场。*先天地*，我们并无根据把纯粹由持存倾向而来的转移假定为可积的。……因此，例如麦克斯韦方程虽然要求电子的电荷 $e$ 满足守恒方程 $de\,/\,dt =0$，我们却无法由此理解：何以一个电子即便经过无限长的时间也总具有不变的电荷，何以同一电荷 $e$ 与所有电子相联系。这一情形表明，电荷不是由持存、而是由调整所确定的，并且负电只有*一种*平衡状态，微粒在每一瞬间都重新调整自身以适应它。同理，我们也可对原子的谱线下同样的结论。发出同一频率的原子所共有的一件事，是它们的构造，而不是它们在过去某次相遇时频率的一致。同样，量尺的长度显然由调整所确定，因为我并不能像任意预定其方向那样，把*这支*量尺在*这个*场位置上的长度任意改成别的（比如加倍或三倍）。凭调整确定长度的理论可能性，是作为*世界曲率*的一个后果而给出的，而世界曲率依一条复杂的数学定律从度量场中产生。凭其构造，量尺取得一个具有如此这般值的长度，*相对于场的曲率半径*而言。
+    step2: |-
+      > 全等转移之观念与量尺、时钟之行为，何以有此种差池？我将自然中量值之确定分为二途：一曰“持存”（*Beharrung*），一曰“调整”（*Einstellung*）。试以喻明之：旋转陀螺之轴，可于空间中任指一方向。此最初任意之方向，此后即凭一种时时运作之*持存倾向*，永定其不受干预时之轴向；轴于每一瞬间皆经历一次平行位移。磁场中之磁针则适相反：其方向于每一瞬间独立于系统他时之状况而确定，盖以其构造，此系统以唯一确定之方式*调整*自身以适其所处之场。*先天言之*，吾人并无理由将纯由持存倾向而来之转移假定为可积。……是故，例如麦克斯韦方程虽要求电子之电荷 $e$ 满足守恒方程 $de\,/\,dt =0$，吾人仍无从由此解悟：何以一电子虽历无限长久之时间而电荷恒不变，何以同一电荷 $e$ 系于一切电子。此情表明：电荷非由持存、而由调整所定；且负电只有*一种*平衡状态，微粒于每一瞬间皆重新调整自身以适之。同理，原子谱线亦可得同一结论。发同一频率之诸原子所共有者，乃其构造，而非其往昔相遇之际频率之一致。同样，量尺之长度显然由调整而定：盖吾人不能如任意预定其方向那样，把*此*量尺在*此*场位置之长度任意易以他值（比如倍之、三之）。凭调整以定长度之理论可能性，乃*世界曲率*之一后果，而世界曲率依一复杂数学定律自度量场而生。量尺凭其构造而取得如是之长度，*相对于场之曲率半径*而言。
   - id: 201
     kind: body
     source: |-
       Weyl’s response to Einstein’s criticism that a Weyl geometry conflicts with experience, took advantage of the fact that the underlying dynamical laws of matter which govern clocks and rigid rods, were not known at that time. Weyl could thus argue that it is at least *theoretically* possible that there exists an underlying dynamics of matter, such that a Weyl geometry, according to which length transfer is non-integrable, nonetheless coheres with *observable* experience, according to which length transfer *appears* to be integrable. However, as was clearly pointed out by Wolfgang Pauli, Weyl’s plausible defence comes at a cost.[^note-50] Pauli (1921/1958, 196) argued that Weyl’s defence of his theory deprives it of its inherent convincing power from a physical point of view.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔对爱因斯坦批评（即外尔几何与经验相冲突）的回应，利用了这样一个事实：当时尚不知道支配时钟与刚尺的物质基本动力学定律。因此外尔可以论证：至少*在理论上*可能存在一种物质的底层动力学，使得一种长度转移不可积的外尔几何，仍然与长度转移*显得*可积的*可观察*经验相协调。然而，正如沃尔夫冈·泡利明确指出的，外尔这一看似合理的辩护是有代价的。[^note-50] 泡利（1921/1958, 196）论证说，外尔为其理论所作的辩护，使该理论从物理观点看失去了其内在的说服力。
+    step2: |-
+      外尔回应爱因斯坦“外尔几何与经验相牾”之批评，所恃者乃一事实：彼时支配时钟与刚尺的物质基本动力学定律尚未知晓。故外尔可辩称：至少*在理论上*可能存在某种物质底层动力学，使长度转移不可积的外尔几何，仍与长度转移*看似*可积的*可观察*经验相合。然如沃尔夫冈·泡利所明言，外尔此辩虽似有理，却有代价。[^note-50] 泡利（1921/1958, 196）论曰：外尔为其理论所作之辩护，使该理论自物理学观点观之，失其固有之说服力。
   - id: 202
     kind: body
     source: |-
       > Weyl’s present attitude to this problem is the following: *The ideal process of the congruent transference of world lengths … has nothing to do with the real behaviour of measuring rods and clocks; the metric field must not be defined by means of information taken from these measuring instruments.* In this case the quantities $g_{ik}$ and $\varphi_{i}$ are, be definition, no longer observable, in contrast to the line elements of Einstein’s theory. This relinquishment seems to have very serious consequences. While there now no longer exists a direct contradiction with experiment, the theory appears nevertheless to have been robbed of its inherent convincing power, from a physical point of view. For instance, the connexion between electromagnetism and world metric is not now essentially physical, but purely formal. For there is no longer an immediate connection between the electromagnetic phenomena and the behaviour of measuring rods and clocks. There is only an interrelation between the former and the ideal process which is mathematically defined as congruent transference of vectors. Besides, there exists only formal, and not physical, evidence for a connection between world metric and electricity.[^note-51]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 外尔目前对此问题的态度如下：*世界长度的全等转移这一理想过程……与量尺及时钟的真实行为无涉；度规场必不可凭取自这些测量仪器的信息来定义。*在此情形下，量 $g_{ik}$ 与 $\varphi_{i}$ 按定义不再是可观察的，这与爱因斯坦理论中的线元形成对照。这一放弃似乎有非常严重的后果。虽然此时不再与实验有直接矛盾，但从物理观点看，该理论似乎毕竟已被剥夺了其内在的说服力。例如，电磁学与世界度规之间的联系此时在本质上不再是物理的，而纯然是形式的。因为电磁现象与量尺及时钟的行为之间不再有直接联系。存在的只是前者与那个在数学上被定义为向量的全等转移的理想过程之间的相互关系。此外，关于世界度规与电之间的联系，只有形式的、而非物理的证据。[^note-51]
+    step2: |-
+      > 外尔于此事之现见如下：*世界长度全等转移之理想过程……与量尺、时钟之真实行为无涉；度规场必不可凭取自此类测量仪器之信息而定义。*如是，量 $g_{ik}$ 与 $\varphi_{i}$ 按定义不复可观察，与爱因斯坦理论之线元适成对照。此一舍弃似有极严重之后果：虽已不复与实验直接相牾，然自物理学观点观之，理论毕竟似已失其固有之说服力。例如，电磁学与世界度规之联系，此时本质上已非物理的，而纯为形式的；盖电磁现象与量尺、时钟之行为间已无直接联系，所存者唯前者与那个在数学上被定义为向量全等转移之理想过程间的相互关系。此外，世界度规与电之联系，亦唯有形式的、而非物理的证据。[^note-51]
   - id: 203
     kind: body
     source: |-
       Pauli concluded his critical assessment of Weyl’s theory with the following statement:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      泡利以下述陈述结束了他对外尔理论的批判性评估：
+    step2: |-
+      泡利对其理论之批判性评估，以下述语句作结：
   - id: 204
     kind: body
     source: |-
       > *Summarizing, we can say that Weyl’s theory has not succeeded in getting any nearer to solving the problem of the structure of matter.* As will be argued in more detail … there is, on the contrary, something to be said for the view that a solution of this problem cannot at all be found in this way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *总而言之，我们可以说，外尔的理论并未成功地在解决物质结构问题上更接近一步。*正如后文将更详细论证的那样……恰恰相反，倒是有理由认为，这一问题的解决根本不可能循此途径找到。
+    step2: |-
+      > *总而论之，外尔之理论于解决物质结构问题上，未得更近一步。*下文将详论……恰恰相反，倒有理由以为，此问题之解决决不能由此途而得。
   - id: 205
     kind: body
     source: |-
       It should be noted, however, that Weyl’s defence of his theory implicitly addresses an important methodological consideration concerning the relation between theory and evidence. As Pauli puts it above, according to Weyl “*the metric field must not be defined by means of information taken from these measuring* *instruments* [rigid rods and ideal clocks]”. That is, Weyl rejects Einstein’s *operational* standpoint which gives *operational significance* to the metric field in terms of the *observable* behaviour of ideal rigid rods and ideal clocks.[^note-52] Unlike light propagation and freely falling (spherically symmetric, neutral) particles, rigid rods and ideal clocks are relativistically ill defined probative systems, and are thus unsuitable for the determination of the inherent structures of spacetime postulated by the theory of relativity. Weyl (1918a) clearly recognized this when he said in response to Einstein’s critique “because of the problematic behaviour of yardsticks and clocks I have in my book *Space-Time-Matter* restricted myself for the specific measurement of the $g_{ik}$, exclusively to the observation of the arrival of light signals.” It is interesting to note parenthetically that in the first edition of his book Weyl thought that it was possible to have an intrinsic method of comparing the lengths of arbitrary spacetime intervals with an interval between two fiducial spacetime events, by using light signals only. It was Lorentz who pointed out to Weyl that not only the world lines of light rays but also the world lines of material bodies are required for an intrinsic method of comparing lengths. Not only did Weyl correct this mistake in subsequent editions, but already in 1921, Weyl (1921c) discovered the causal-inertial method for determining the spacetime metric (see §4.3) by proving an important theorem that shows that the spacetime metric is already fully determined by the inertial and causal structure of spacetime. Weyl (1949a, 103) remarks “… therefore mensuration need not depend on clocks and rigid bodies but … light signals and mass points moving under the influence of inertia alone will suffice.” It is clear that Weyl regarded the use of clocks and rigid rods as an undesirable makeshift within the context of the special and general theory. Since neither spatial nor temporal intervals are invariants of spacetime, the invariant spacetime interval $ds$ cannot be directly ascertained by means of standard clocks and rigid rods. In addition, the latter presuppose quantum theoretical principles for their justification and therefore lie outside the relativistic framework because the laws which govern their physical processes are not known.[^note-53]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而应当注意，外尔为其理论所作的辩护，隐含地涉及一个关于理论与证据之关系的重要方法论考量。正如泡利在上文中所说，按照外尔，“*度规场必不可凭取自这些测量* *仪器的信息来定义*”［刚尺与理想时钟］。也就是说，外尔拒斥爱因斯坦的*操作论*立场——该立场以理想刚尺与理想时钟的*可观察*行为来赋予度规场*操作意义*。[^note-52] 与光的传播和自由落体（球对称、中性）粒子不同，刚尺与理想时钟在相对论中是定义不良的检验系统，因而并不适合用来确定相对论所设定的时空固有结构。外尔（1918a）在回应爱因斯坦的批评时清楚地认识到这一点，他说：“由于码尺与时钟的成问题的行为，我在我的《空间—时间—物质》一书中，把对 $g_{ik}$ 的具体测量完全限于对光信号到达的观察。”顺带一提，有趣的是：在其书的第一版中，外尔认为有可能只用光信号便获得一种内蕴的方法，以比较任意时空间隔的长度与两个基准时空事件之间的间隔。正是洛伦兹向外尔指出，内蕴地比较长度的方法不仅需要光线的世界线，也需要物质体的世界线。外尔不仅在后续版本中改正了这一错误，而且早在 1921 年，外尔（1921c）就通过证明一条重要定理而发现了确定时空度规的因果—惯性方法（见 §4.3）——该定理表明，时空度规已由时空的惯性结构与因果结构完全确定。外尔（1949a, 103）评论道：“……因此测量不必依赖时钟与刚体，而……光信号与仅在惯性影响下运动的质点便已足够。”显然，外尔把时钟与刚尺的使用视为狭义与广义理论语境中一种不可取的权宜之计。由于空间间隔与时间间隔都不是时空的不变量，不变的时空间隔 $ds$ 无法借标准时钟与刚尺直接确定。此外，后者要为自己的正当性预设量子理论原理，因而处于相对论框架之外，因为支配其物理过程的定律尚不为人所知。[^note-53]
+    step2: |-
+      然而须注意：外尔之辩护隐含地触及一个关于理论与证据之关系的重要方法论考量。如泡利上引，依外尔之说，“*度规场必不可凭取自此类测量* *仪器之信息而定义*”［刚尺与理想时钟］。即是说，外尔拒斥爱因斯坦的*操作论*立场——该立场以理想刚尺与理想时钟之*可观察*行为赋予度规场*操作意义*。[^note-52] 刚尺与理想时钟不同于光之传播与自由落体（球对称、中性）粒子：其在相对论中乃定义不良的检验系统，因而不宜用以确定相对论所设的时空固有结构。外尔（1918a）回应爱因斯坦之批评时已明见及此：“因码尺与时钟之行为成问题，我在《空间—时间—物质》一书中，把对 $g_{ik}$ 的具体测量完全限于对光信号到达之观察。”顺带一提，颇有趣味者：该书初版中，外尔以为或可只用光信号，便得一种内蕴方法，以比较任意时空间隔之长度与两个基准时空事件之间隔。后经洛伦兹指出：内蕴地比较长度，不惟需光线之世界线，亦需物质体之世界线。外尔不惟于后续版本改正此误，且早在 1921 年即以外尔（1921c）证明一条重要定理而发现确定时空度规的因果—惯性方法（见 §4.3）——该定理表明，时空度规已由时空之惯性结构与因果结构完全确定。外尔（1949a, 103）云：“……是故测量不必赖于时钟与刚体……光信号与仅在惯性支配下运动之质点便已足矣。”显然，外尔视时钟与刚尺为狭义、广义理论语境中不得已之权宜。空间间隔与时间间隔既皆非时空之不变量，不变时空间隔 $ds$ 便无从借标准时钟与刚尺直接测定。且后者之正当性须预设量子理论原理，故在相对论框架之外——盖支配其物理过程之定律尚不可知。[^note-53]
   - id: 206
     kind: body
     source: |-
       Weyl (1929c, 233) abandoned his unified field theory only with the advent of the quantum theory of the electron. He did so because in that theory a different kind of gauge invariance associated with Dirac’s theory of the electron was discovered, which more adequately accounted for the conservation of electric charge. Weyl’s contributions to quantum mechanics, and his construction of a new principle of gauge invariance, are discussed in §4.5.3.[^note-54]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔（1929c, 233）直到电子量子理论出现之后才放弃他的统一场理论。他之所以如此，是因为在该理论中发现了与狄拉克电子理论相联系的一种不同的规范不变性，它能更恰当地说明电荷守恒。外尔对量子力学的贡献，以及他对规范不变性新原理的构造，在 §4.5.3 中讨论。[^note-54]
+    step2: |-
+      外尔（1929c, 233）直至电子量子理论兴起，方放弃其统一场论。其所以然者，盖该理论中发现了与狄拉克电子理论相系之另一种规范不变性，于电荷守恒之说明更为恰当。外尔于量子力学之贡献，及其规范不变性新原理之构造，详见 §4.5.3。[^note-54]
   - id: 207
     kind: body
     source: |-
       Weyl’s unified field theory was revived by Dirac (1973) in a slightly modified form, which incorporated a real scalar field $\beta(x)$. Dirac also argued that the time intervals measured by atomic clocks need not be identified with the lengths of timelike vectors in the Weyl geometry.[^note-55]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔的统一场理论由狄拉克（1973）以略有修改的形式加以复兴，其中纳入了一个实标量场 $\beta(x)$。狄拉克还论证说，原子钟所测的时间间隔不必等同于外尔几何中类时向量的长度。[^note-55]
+    step2: |-
+      外尔之统一场论，经狄拉克（1973）以略加修改之形式复兴，其中纳入一实标量场 $\beta(x)$。狄拉克并论曰：原子钟所测之时间间隔，不必等同于外尔几何中类时向量之长度。[^note-55]
   - id: 208
     kind: body
     source: |-
       ### 4.2 The Riemann-Helmholtz-Lie Problem of Space
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 黎曼—赫尔姆霍兹—李的空间问题
+    step2: |-
+      ### 4.2 黎曼—赫尔姆霍兹—李的空间问题
   - id: 209
     kind: body
     source: |-
       Prior to the works of Gauss, Grassmann and Riemann, the study of geometry tended to emphasize the employment of empirical intuitions and images of the three dimensional physical space. Physical space was thought of as having definite metrical attributes. The task of the geometer was to take physical mensuration devices in that space and work with them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在高斯、格拉斯曼与黎曼的工作之前，几何学研究倾向于强调对三维物理空间的经验直观与想象之运用。物理空间被认为具有确定的度量属性。几何学家的任务是取用该空间中的物理测量装置，并据以行事。
+    step2: |-
+      高斯、格拉斯曼与黎曼之前，几何学研究多措意于对三维物理空间的经验直观与意象之运用。物理空间被设想为具有确定的度量属性；几何学家之职分，即取用该空间中的物理测量装置而据以施为。
   - id: 210
     kind: body
     source: |-
       Under the influence of Gauss and Grassmann, Riemann’s great philosophical contribution consisted in the demonstration that, unlike the case of a discrete manifold, where the determination of a set necessarily implies the determination of its quantity or cardinal number, in the case of a continuous manifold, the concept of such a manifold and of its continuity properties, can be separated form its metrical structure. Using modern terminology, Riemann separated a manifold’s local differential topological structure from its metrical structure. Thus Riemann’s separation thesis gave rise to the *space problem*, or as Weyl called it, *das Raumproblem*: how can metric relations be determined on a continuous manifold $M$?[^note-56]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在高斯与格拉斯曼的影响下，黎曼的伟大哲学贡献在于表明：不同于离散流形的情形（在那里，一个集合的确定必然蕴含其数量或基数的确定），在连续流形的情形下，这种流形及其连续性性质的概念，可以同它的度量结构分离开来。用现代术语说，黎曼把一个流形的局部微分拓扑结构同它的度量结构分离开来。于是，黎曼的分离论题引出了*空间问题*，或如外尔所称，*das Raumproblem*：度量关系如何在连续流形 $M$ 上被确定？[^note-56]
+    step2: |-
+      受高斯与格拉斯曼之影响，黎曼的伟大哲学贡献在于表明：离散流形中，一集合之确定必然蕴含其量即基数之确定；而连续流形则不然——此种流形及其连续性之概念，可与它的度量结构相分离。以现代术语言之，黎曼把一个流形的局部微分拓扑结构与其度量结构分开。由是，黎曼的分离论题引出*空间问题*，亦即外尔所称*das Raumproblem*：度量关系如何在连续流形 $M$ 上被确定？[^note-56]
   - id: 211
     kind: body
     source: |-
