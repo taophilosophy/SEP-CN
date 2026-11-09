@@ -1,0 +1,348 @@
+{
+ "key": "in vitro fertilization (ivf)",
+ "term": "in vitro fertilization (IVF)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T23:09:58+00:00",
+ "status": "ok",
+ "note": "variant=in vitro fertilization (IVF); 审定公布名词库=4283; 海峡两岸名词对照库=759; 其他来源数据库=436; 预公布名词数据库=610; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization,IVF",
+   "code": "05.436",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_繁殖_胚胎移植"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization,IVF",
+   "code": "20.122",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_绪论"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization,IVF",
+   "code": "04.377",
+   "standard": "遗传学名词",
+   "subject": "遗传学_细胞遗传学"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization;IVF",
+   "code": "07.250",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization",
+   "code": "6.03",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_辅助生殖技术"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization",
+   "code": "2.161",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization",
+   "code": "4.0181",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_受精"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization",
+   "code": "10.04",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞培养与细胞工程"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization",
+   "code": "01.346",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_妇产科学"
+  },
+  {
+   "cn": "体外受精-胚胎移植",
+   "en": "in vitro fertilization-embryo transfer;IVF-ET",
+   "code": "14.047",
+   "standard": "男科及性医学名词",
+   "subject": "男科及性医学_男性不育与辅助生殖"
+  },
+  {
+   "cn": "体外受精-胚胎移植",
+   "en": "in vitro fertilization-embryo transfer;IVF-ET",
+   "code": "6.024",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_辅助生殖技术"
+  },
+  {
+   "cn": "体外受精胚胎移植术",
+   "en": "in vitro fertilization and embryo transfer,IVF-ET",
+   "code": "07.015",
+   "standard": "计划生育名词",
+   "subject": "计划生育_辅助生殖技术"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization\",\"IVF",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization\",\"IVF\",\"external fertilization",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "体外受精",
+   "en": "in vitro fertilization",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "离体（=体外）",
+   "en": "in vitro",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "体外，离体",
+   "en": "in vitro",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "离体（=体外）",
+   "en": "in vitro",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "体外，离体",
+   "en": "in vitro",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "体外",
+   "en": "in vitro",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "体外",
+   "en": "in vitro",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "体外",
+   "en": "in vitro",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "体外",
+   "en": "in vitro",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "体外，离体",
+   "en": "in vitro",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "双受精",
+   "en": "Double fertilization",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "氮肥",
+   "en": "nitrogen fertilizer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "土壤肥力",
+   "en": "Soil fertility",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "IP隧道",
+   "en": "4in6（4in6",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "少子化",
+   "en": "Sub-replacement fertility",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "界内!",
+   "en": "In!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "早转",
+   "en": "in",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "称体重",
+   "en": "weigh in\",\"weighing-in",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "延长局",
+   "en": "additional inning\",\"extra inning",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "收紧",
+   "en": "haul\",\"pull in\",\"haul in\",\"take in",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "扇入",
+   "en": "fan-in",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "插件",
+   "en": "plug-in",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "体外受精胚胎移植",
+   "en": "in vitro fertilization and embryo transfer, IVF-ET",
+   "code": "5.7.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_辅助生殖技术"
+  },
+  {
+   "cn": "体外个人监测",
+   "en": "personal monitoring in vitro",
+   "code": "5.4.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型"
+  },
+  {
+   "cn": "体外-体内外推法",
+   "en": "in vitro to in vivo extrapolation, IVIVE",
+   "code": "1.4.3.28",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "体外肺部放射性活度测量",
+   "en": "measurement of activity in lung in vitro",
+   "code": "6.3.4.34",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "活检组织放射性活度测量",
+   "en": "measurement of activity in tissue in vitro",
+   "code": "6.3.4.40",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "生育水平",
+   "en": "fertility level",
+   "code": "4.5.2.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_育龄妇女"
+  },
+  {
+   "cn": "生育调节",
+   "en": "fertility regulation",
+   "code": "5",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节"
+  },
+  {
+   "cn": "生育神",
+   "en": "fertility gods",
+   "code": "4.0282",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "一般生育率",
+   "en": "general fertility rate",
+   "code": "4.5.1.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_出生"
+  },
+  {
+   "cn": "总和生育率",
+   "en": "total fertility rate",
+   "code": "4.5.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_出生"
+  },
+  {
+   "cn": "终身生育率",
+   "en": "lifetime fertility rate",
+   "code": "4.5.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_出生"
+  },
+  {
+   "cn": "更替水平生育率",
+   "en": "replacement level fertility",
+   "code": "4.5.2.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_育龄妇女"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

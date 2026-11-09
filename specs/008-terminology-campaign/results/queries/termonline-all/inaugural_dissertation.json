@@ -1,0 +1,68 @@
+{
+ "key": "inaugural dissertation",
+ "term": "Inaugural Dissertation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T23:09:58+00:00",
+ "status": "ok",
+ "note": "variant=Inaugural Dissertation; 审定公布名词库=8; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "创刊",
+   "en": "inauguration",
+   "code": "02.08.161",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "博士学位论文",
+   "en": "PhD dissertation,doctoral dissertation,doctor's dissertation",
+   "code": "03.187",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "学位论文",
+   "en": "thesis,dissertation",
+   "code": "03.185",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "创刊词",
+   "en": "inaugural statement",
+   "code": "02.08.081",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "创刊号",
+   "en": "inaugural issue ",
+   "code": "07.03.029",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "论文博士学位",
+   "en": "dissertation doctor",
+   "code": "08.242",
+   "standard": "教育学名词",
+   "subject": "教育学_高等教育_学位与研究生教育"
+  },
+  {
+   "cn": "学位论文",
+   "en": "degree dissertation",
+   "code": "08.184",
+   "standard": "教育学名词",
+   "subject": "教育学_高等教育_高校招生与培养"
+  },
+  {
+   "cn": "创刊评论",
+   "en": "inauguration review",
+   "code": "02.07.099",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_阅读与评论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "incentive sensitivity",
+ "term": "incentive sensitivity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T23:09:58+00:00",
+ "status": "ok",
+ "note": "variant=incentive sensitivity; 审定公布名词库=659; 海峡两岸名词对照库=218; 其他来源数据库=14; 预公布名词数据库=24; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "诱因",
+   "en": "incentive",
+   "code": "08.068",
+   "standard": "心理学名词",
+   "subject": "心理学_人格心理学"
+  },
+  {
+   "cn": "内心",
+   "en": "incenter",
+   "code": "08.0056",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "激励理论",
+   "en": "incentive theory",
+   "code": "20.031",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_公共关系_理论与学派"
+  },
+  {
+   "cn": "税收优惠",
+   "en": "tax incentive",
+   "code": "11.121",
+   "standard": "经济学名词",
+   "subject": "经济学_财政与税收经济学"
+  },
+  {
+   "cn": "股权激励",
+   "en": "equity incentive",
+   "code": "15.081",
+   "standard": "经济学名词",
+   "subject": "经济学_经济体制改革"
+  },
+  {
+   "cn": "激励相容",
+   "en": "incentive compatible",
+   "code": "02.0871",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_算法设计与分析"
+  },
+  {
+   "cn": "选择性激励",
+   "en": "selective incentive",
+   "code": "11.0130",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_基本概念"
+  },
+  {
+   "cn": "激励机制",
+   "en": "incentive mechanism",
+   "code": "01.1020",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_企业理论"
+  },
+  {
+   "cn": "激励工资",
+   "en": "incentive pay",
+   "code": "04.0712",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_薪酬管理"
+  },
+  {
+   "cn": "激励代理",
+   "en": "incentive agency",
+   "code": "07.0233",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_原理"
+  },
+  {
+   "cn": "激励契约",
+   "en": "incentive contract",
+   "code": "01.1023",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_企业理论"
+  },
+  {
+   "cn": "奖励计划",
+   "en": "incentive plan",
+   "code": "04.0676",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_薪酬管理"
+  },
+  {
+   "cn": "诱因敏感化理论",
+   "en": "incentive sensitization theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "诱因",
+   "en": "incentive",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "诱因显著性",
+   "en": "incentive salience",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "奖励性薪酬",
+   "en": "incentive compensation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "激励模型",
+   "en": "incentive model",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "正诱因",
+   "en": "positive incentive",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "诱因论",
+   "en": "incentive theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "诱因性动机",
+   "en": "incentive motivation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "财政刺激",
+   "en": "fiscal incentive",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "奖励性减税",
+   "en": "incentive reduction",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "市场刺激",
+   "en": "market incentive",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投资激励",
+   "en": "investment incentive",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "敏感数据",
+   "en": "sensitive data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "金融监管差异化激励机制",
+   "en": "differential incentive mechanism for financial supervision",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "时间敏感网络",
+   "en": "time-sensitive networking (TSN)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国防敏感信息",
+   "en": "national defense sensitive information",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "敏感信息全生命周期管理",
+   "en": "full-lifecycle management of sensitive information",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "敏感数据隔离交互层",
+   "en": "sensitive data isolation and interaction layer",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子重力探测灵敏度世界纪录",
+   "en": "world record for quantum gravity detection sensitivity",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "集约文化",
+   "en": "intensive culture",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "家庭农场",
+   "en": "Intensive animal farming",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "重症监护室",
+   "en": "intensive care unit",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据密集型科学",
+   "en": "Data-Intensive Science",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "贸易服务集约",
+   "en": "intensive trade service",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "code": "5.1.1.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量"
+  },
+  {
+   "cn": "激励相容约束",
+   "en": "incentive compatibility constraint",
+   "code": "10.1.3.1.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务购买"
+  },
+  {
+   "cn": "增敏剂",
+   "en": "sensitizer",
+   "code": "3.4.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "医生经济激励",
+   "en": "material incentive to physician",
+   "code": "14.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医生行为"
+  },
+  {
+   "cn": "医生非经济激励",
+   "en": "immaterial incentive to physician",
+   "code": "14.1.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医生行为"
+  },
+  {
+   "cn": "敏感性检验",
+   "en": "sensitivity testing",
+   "code": "2.1.4.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "光敏性",
+   "en": "light sensitivity",
+   "code": "5.1.3.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理"
+  },
+  {
+   "cn": "敏感",
+   "en": "immunity sensitivity",
+   "code": "3.4.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "亚硫酸盐敏感",
+   "en": "sulfite sensitivity",
+   "code": "3.5.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_其他食源性疾病"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "code": "1.4.5.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "致敏",
+   "en": "sensitization, priming",
+   "code": "1.3.1.20",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫应答"
+  },
+  {
+   "cn": "敏感人群",
+   "en": "sensitive population",
+   "code": "1.4.4.129",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

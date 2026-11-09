@@ -1,0 +1,383 @@
+{
+ "key": "incipit/desinit",
+ "term": "incipit / desinit",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T23:09:58+00:00",
+ "status": "ok",
+ "note": "variant=incipit; 审定公布名词库=23; 海峡两岸名词对照库=11; 其他来源数据库=1; 预公布名词数据库=1; variant=desinit; 审定公布名词库=98; 海峡两岸名词对照库=42; 其他来源数据库=1; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "禁止重合",
+   "en": "inhibit reclosing",
+   "code": "05.242",
+   "standard": "电力名词",
+   "subject": "电力_继电保护与自动化"
+  },
+  {
+   "cn": "初熔",
+   "en": "incipient melting",
+   "code": "05.0401",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_热学、热力学"
+  },
+  {
+   "cn": "初铁磁性",
+   "en": "incipient ferromagnetism",
+   "code": "08.1879",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_固体及其性质"
+  },
+  {
+   "cn": "起始流化态",
+   "en": "incipient fluidization",
+   "code": "04.0234",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_化学反应工程"
+  },
+  {
+   "cn": "禁止信号",
+   "en": "inhibit signal",
+   "code": "04.0305",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机逻辑部件"
+  },
+  {
+   "cn": "禁止脉冲",
+   "en": "inhibit pulse",
+   "code": "04.0304",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机逻辑部件"
+  },
+  {
+   "cn": "禁止电路",
+   "en": "inhibit circuit",
+   "code": "04.0068",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机集成电路"
+  },
+  {
+   "cn": "初期腐朽",
+   "en": "incipient decay",
+   "code": "07.086",
+   "standard": "林学名词",
+   "subject": "林学_森林保护_森林病理"
+  },
+  {
+   "cn": "初熔",
+   "en": "incipient melting",
+   "code": "02.0839",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_金属材料_特殊用途金属材料_高温合金"
+  },
+  {
+   "cn": "雏形种",
+   "en": "incipient species",
+   "code": "01.0044",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "端始种",
+   "en": "incipient species",
+   "code": "02.083",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "起动流速",
+   "en": "incipient velocity",
+   "code": "03.179",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_水力学、河流动力学、海岸动力学_河流动力学（水利）"
+  },
+  {
+   "cn": "初始质壁分离",
+   "en": "incipient plasmolysis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "初萎",
+   "en": "incipient wilting",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "起始流化态",
+   "en": "incipient fluidization",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "初熔",
+   "en": "incipient melting",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "端始种,雏形种",
+   "en": "incipient species",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "禁[止]门",
+   "en": "inhibit gate",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "禁止电路",
+   "en": "inhibit circuit",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "禁止脉冲",
+   "en": "inhibit pulse",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "禁止信号",
+   "en": "inhibit signal",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "端始种",
+   "en": "incipient species",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "起始流化速度",
+   "en": "incipient fluidizing velocity",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "初发症状",
+   "en": "incipient symptoms",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_病理症状"
+  },
+  {
+   "cn": "保护性抑制",
+   "en": "protective inhibit",
+   "code": "8.1.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征"
+  },
+  {
+   "cn": "有定",
+   "en": "definite",
+   "code": "04.098",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "树脂体",
+   "en": "resinite",
+   "code": "02.070",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_煤田地质与勘探_煤岩"
+  },
+  {
+   "cn": "树脂体",
+   "en": "resinite",
+   "code": "02.0351",
+   "standard": "石油名词",
+   "subject": "石油_油气地质勘探_油气成因"
+  },
+  {
+   "cn": "树脂体",
+   "en": "resinite",
+   "code": "07.413",
+   "standard": "地质学名词",
+   "subject": "地质学_矿床地质学"
+  },
+  {
+   "cn": "氧亏",
+   "en": "oxygen deficit,saturation deficit",
+   "code": "04.245",
+   "standard": "水产名词",
+   "subject": "水产_水产养殖学"
+  },
+  {
+   "cn": "定解条件",
+   "en": "definite condition",
+   "code": "16.05.112",
+   "standard": "地质学名词",
+   "subject": "地质学_水文地质学_水文地质调查"
+  },
+  {
+   "cn": "非充分灌溉",
+   "en": "deficit irrigation",
+   "code": "12.090",
+   "standard": "农学名词",
+   "subject": "农业水利_农田灌溉"
+  },
+  {
+   "cn": "贸易逆差",
+   "en": "trade deficit",
+   "code": "19.149",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业市场与贸易"
+  },
+  {
+   "cn": "杂质赤字",
+   "en": "impurities deficit",
+   "code": "04.150",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程综合"
+  },
+  {
+   "cn": "警觉性下降",
+   "en": "vigilance deficit",
+   "code": "4.06",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠疾病诊断学_症状与体征"
+  },
+  {
+   "cn": "生态赤字",
+   "en": "ecological deficit ",
+   "code": "3.0216",
+   "standard": "草学名词",
+   "subject": "草学_草地资源与利用"
+  },
+  {
+   "cn": "滑动量亏空",
+   "en": "slip deficit",
+   "code": "01.2244",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "定界符",
+   "en": "delimiter\",\"delimit",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "水分亏缺",
+   "en": "water deficit",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "有限花序",
+   "en": "definite inflorescence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "饱和差",
+   "en": "saturation deficit",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "正式命名",
+   "en": "definite designation",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "饱和差",
+   "en": "saturation deficit",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "赤字财政",
+   "en": "deficit financing",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "赤字预算",
+   "en": "deficit budget",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "根本性逆差",
+   "en": "fundamental deficit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "国际收支赤字",
+   "en": "payments deficit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贸易逆差",
+   "en": "trade deficit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "逆差",
+   "en": "deficit balance",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "正定矩阵",
+   "en": "positive-definite matrix",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "产前诊断确诊率",
+   "en": "prenatal definite diagnosis rate",
+   "code": "2.9.7.22",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "code": "6.3.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "code": "7.3.2.3.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
