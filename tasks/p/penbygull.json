@@ -2,7 +2,7 @@
   "slug": "penbygull",
   "kind": "retranslate",
   "zh_doc": "p/penbygull.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-09T08:15:55Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T08:59:13Z",
+      "evidence": "账本26段双版(script/parts/p-penbygull-p1..p4.yaml); lq check HARD=0(SOFT 18: 标题/oir机械段5+斜体转书名号13); compose --write 10122字符; italic_to_bold_cjk 6行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T08:59:13Z",
+      "evidence": "逐节对照核销: 引注38组(页码/章号/年份)全等; 人名17项核对(Avicenna=阿维森纳裸名, 沿alyngton); 残留外文碎片检查0; 术语与登记册一致(谓述/共相/此性/形式区分/远距离内属)"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T08:59:13Z",
+      "evidence": "check_prose 18告警全部实修清零(弱动词1/长句7/的链10, 豁免0); 拆引注长句独立成句; 消欧化"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T09:07:49Z",
+      "evidence": "check_style --strict 0 issue(bold-spacing 2处修复); markdownlint-cli2 仓库配置 0 error; check_math 0; check_academic --strict 0 硬错误; check_prose 0"
     }
   ],
   "blockers": [],
