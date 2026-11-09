@@ -1,0 +1,348 @@
+{
+ "key": "accessible pointed graph",
+ "term": "accessible pointed graph",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T11:20:07+00:00",
+ "status": "ok",
+ "note": "variant=accessible pointed graph; 审定公布名词库=2826; 海峡两岸名词对照库=987; 其他来源数据库=237; 预公布名词数据库=48; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "点图",
+   "en": "point graph",
+   "code": "05.289",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "接入点",
+   "en": "access point",
+   "code": "09.0053",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_协议体系与组成结构"
+  },
+  {
+   "cn": "检索点",
+   "en": "access point",
+   "code": "03.0434",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_图书情报档案领域"
+  },
+  {
+   "cn": "检索点",
+   "en": "point of access,access point",
+   "code": "05.009",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_一般概念"
+  },
+  {
+   "cn": "割点图",
+   "en": "cut point graph",
+   "code": "03.0111",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_图论"
+  },
+  {
+   "cn": "排检项",
+   "en": "access points area",
+   "code": "04.585",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "非控制检索点",
+   "en": "uncontrolled access point",
+   "code": "04.635",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "社区接入点",
+   "en": "community access point",
+   "code": "01.041",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_一般概念"
+  },
+  {
+   "cn": "公共接入点",
+   "en": "public access point",
+   "code": "01.040",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_一般概念"
+  },
+  {
+   "cn": "受控检索点",
+   "en": "controlled access point",
+   "code": "04.634",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "code": "01.090",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_通论"
+  },
+  {
+   "cn": "算图",
+   "en": "graph",
+   "code": "03.0186",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_一般名词"
+  },
+  {
+   "cn": "点图",
+   "en": "point graph",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "接入点",
+   "en": "access point",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "服务访问点，服务接入点",
+   "en": "service access point\",\"SAP",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "可达性,可存取性",
+   "en": "accessibility",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "存取，访问",
+   "en": "access",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "可访问性，可存取性",
+   "en": "accessibility",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "访问，存取",
+   "en": "access",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "接入",
+   "en": "access",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "入口",
+   "en": "access",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "互联网骨干直联点",
+   "en": "Internet backbone direct access point",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络理论",
+   "en": "Directed graph",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "图数据库",
+   "en": "graph database",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分子式",
+   "en": "Molecular graph",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "简单图",
+   "en": "simple graph",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "标签图",
+   "en": "labeled graph",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "图存储",
+   "en": "graph storage",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "图模型",
+   "en": "graph model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "技术可及性",
+   "en": "technical accessibility",
+   "code": "1.4.1.4.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学_健康公平"
+  },
+  {
+   "cn": "地理可及性",
+   "en": "geographic accessibility",
+   "code": "1.4.1.4.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学_健康公平"
+  },
+  {
+   "cn": "准入规制",
+   "en": "access regulation",
+   "code": "6.4.2.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用"
+  },
+  {
+   "cn": "经济可及性",
+   "en": "economical accessibility",
+   "code": "8.7.2",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "地理可及性",
+   "en": "geographical accessibility",
+   "code": "8.7.1",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "曲棍球杆图",
+   "en": "hockey stick graph",
+   "code": "3.14.5.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "卫生服务可及性",
+   "en": "health service accessibility",
+   "code": "8.7",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "设施获得权",
+   "en": "facility access right",
+   "code": "4.01",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "采样点",
+   "en": "sampling point",
+   "code": "1.5.20",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "code": "6.4.4.40",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "预警中心",
+   "en": "warning point",
+   "code": "7.2.2.21",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "点弹性",
+   "en": "point elasticity",
+   "code": "4.3.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务需求_卫生服务需求弹性"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

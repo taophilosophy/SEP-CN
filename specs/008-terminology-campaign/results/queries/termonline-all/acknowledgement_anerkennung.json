@@ -1,0 +1,201 @@
+{
+ "key": "acknowledgement (anerkennung)",
+ "term": "acknowledgement (Anerkennung)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T11:20:07+00:00",
+ "status": "ok",
+ "note": "variant=acknowledgement (Anerkennung); 审定公布名词库=16; 海峡两岸名词对照库=13; 其他来源数据库=3; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "收妥",
+   "en": "acknowledge",
+   "code": "14.0027",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_水上通信"
+  },
+  {
+   "cn": "肯定应答",
+   "en": "acknowledgement,ACK",
+   "code": "09.0281",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_有线网络"
+  },
+  {
+   "cn": "确认",
+   "en": "acknowledgement,ACK",
+   "code": "21.145",
+   "standard": "电子学名词",
+   "subject": "电子学_通信"
+  },
+  {
+   "cn": "肯定认可",
+   "en": "positive acknowledgement",
+   "code": "06.047",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "否定认可",
+   "en": "negative acknowledgement",
+   "code": "06.048",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "警惕手柄",
+   "en": "acknowledgment lever",
+   "code": "08.0425",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道信号"
+  },
+  {
+   "cn": "警惕按钮",
+   "en": "acknowledgment button",
+   "code": "08.0426",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道信号"
+  },
+  {
+   "cn": "确认",
+   "en": "acknowledge,ACK",
+   "code": "07.0808",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道通信"
+  },
+  {
+   "cn": "应答信号",
+   "en": "acknowledge signal",
+   "code": "15.1062",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_轮机管理"
+  },
+  {
+   "cn": "报价回执",
+   "en": "bidder’s acknowledgement",
+   "code": "04.619",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_工程采购"
+  },
+  {
+   "cn": "否定应答",
+   "en": "non-acknowledgement,NAK",
+   "code": "09.0280",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_有线网络"
+  },
+  {
+   "cn": "否认",
+   "en": "negative acknowledgement,NAK",
+   "code": "21.146",
+   "standard": "电子学名词",
+   "subject": "电子学_通信"
+  },
+  {
+   "cn": "收妥",
+   "en": "acknowledge",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "确认比特，确认位",
+   "en": "acknowledgement bit",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "确认帧",
+   "en": "acknowledgement frame",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "遇险收妥承认",
+   "en": "distress acknowledgement",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "确认收妥",
+   "en": "acknowledge receipt",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "应答信号",
+   "en": "acknowledge signal",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "确认",
+   "en": "acknowledgement，ACK\",\"validation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "接受订单",
+   "en": "acknowledgement of order",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "收款回执",
+   "en": "acknowledgement of receipt",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "否认",
+   "en": "negative acknowledgement，NAK",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "初始地址确认信息",
+   "en": "initial address acknowledgement message",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "确认遇险报警收妥",
+   "en": "acknowledgement of distress alert",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "判刺中",
+   "en": "acknowledge a hit",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "爱而知其恶，憎而知其善",
+   "en": "In Love, Acknowledge Faults; in Hatred, Recognize Virtues.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

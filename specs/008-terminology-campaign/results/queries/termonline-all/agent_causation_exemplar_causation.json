@@ -1,0 +1,432 @@
+{
+ "key": "agent causation / exemplar causation",
+ "term": "agent causation / exemplar causation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T12:41:26+00:00",
+ "status": "ok",
+ "note": "variant=agent causation; 审定公布名词库=881; 海峡两岸名词对照库=346; 其他来源数据库=18; 预公布名词数据库=88; variant=exemplar causation; 审定公布名词库=26; 海峡两岸名词对照库=11; 其他来源数据库=12; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "code": "03.710",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "上向因果关系",
+   "en": "upward causation",
+   "code": "03.711",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causal relation; causation",
+   "code": "03.213",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_认识论"
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "code": "01.0086",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "code": "02.581",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "code": "02.589",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation",
+   "code": "12.067",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射流行病学_危险指标"
+  },
+  {
+   "cn": "因果性事实",
+   "en": "the fact of causation",
+   "code": "06.034",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "循环累积因果关系理论",
+   "en": "circular and cumulative causation",
+   "code": "08.071",
+   "standard": "经济学名词",
+   "subject": "经济学_区域经济学"
+  },
+  {
+   "cn": "事故因果［连锁］论",
+   "en": "accident causation sequence theory",
+   "code": "02.093",
+   "standard": "化工名词（四）安全·环保·可持续发展",
+   "subject": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护"
+  },
+  {
+   "cn": "行动者",
+   "en": "agent",
+   "code": "03.698",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "code": "11.045",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_生态工业系统工程"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "因果链",
+   "en": "chains of causation",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "远因,终极导因,最终原因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "近因，引信导因",
+   "en": "proximate cause\",\"proximate causation",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "远因，终极导因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "发泡剂",
+   "en": "blowing agent\",\"foam agent\",\"inflating agent",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "地理因果律",
+   "en": "rule of causation in geography",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "络合剂",
+   "en": "complex agent\",\"complexing agent",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "脱模剂",
+   "en": "mold-release agent\",\"parting agent\",\"release agent\",\"stripping agent",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "用户代理",
+   "en": "user agent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "膨松剂",
+   "en": "Leavening agent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "离散剂",
+   "en": "chaotropic agent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗心律失常药",
+   "en": "Antiarrhythmic agents",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基于智能体的建模",
+   "en": "agent-based modeling (ABM)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "警告",
+   "en": "caution",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "告诫",
+   "en": "caution",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "黄牌警告",
+   "en": "caution",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "口头警告",
+   "en": "admonition\",\"caution",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "警告",
+   "en": "caution\",\"warning",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "数据监护",
+   "en": "data curation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "code": "4.4.3.16",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "code": "4.0569999999999995",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "抗寄生虫剂",
+   "en": "antiparasitic agent",
+   "code": "2.2.2.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  },
+  {
+   "cn": "食用胶",
+   "en": "gelatinizing agent",
+   "code": "5.17.27",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_糖果"
+  },
+  {
+   "cn": "灭菌剂",
+   "en": "sterilizing agent",
+   "code": "3.1.1.11",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "抗菌剂",
+   "en": "antibacterial agent",
+   "code": "3.1.13.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "抑菌剂",
+   "en": "bacteriostatic agent",
+   "code": "3.1.14",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "清洁剂",
+   "en": "cleaning agent",
+   "code": "3.2.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒相关用品"
+  },
+  {
+   "cn": "崩解剂",
+   "en": "disintegrating agent",
+   "code": "6.1.14.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "抗泡沫剂",
+   "en": "antifoam agent",
+   "code": "6.2.27.22",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexing agent",
+   "code": "6.3.3.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内污染医学处理"
+  },
+  {
+   "cn": "螯合剂",
+   "en": "chelating agent",
+   "code": "6.3.3.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内污染医学处理"
+  },
+  {
+   "cn": "范例",
+   "en": "exemplar",
+   "code": "03.178",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "code": "03.710",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "上向因果关系",
+   "en": "upward causation",
+   "code": "03.711",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causal relation; causation",
+   "code": "03.213",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_认识论"
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "code": "01.0086",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "code": "02.581",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "code": "02.589",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation",
+   "code": "12.067",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射流行病学_危险指标"
+  },
+  {
+   "cn": "因果性事实",
+   "en": "the fact of causation",
+   "code": "06.034",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "循环累积因果关系理论",
+   "en": "circular and cumulative causation",
+   "code": "08.071",
+   "standard": "经济学名词",
+   "subject": "经济学_区域经济学"
+  },
+  {
+   "cn": "事故因果［连锁］论",
+   "en": "accident causation sequence theory",
+   "code": "02.093",
+   "standard": "化工名词（四）安全·环保·可持续发展",
+   "subject": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护"
+  },
+  {
+   "cn": "地理因果律",
+   "en": "rule of causation in geography",
+   "code": "01.026",
+   "standard": "地理学名词",
+   "subject": "地理学_地理学总论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

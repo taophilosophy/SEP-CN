@@ -339,3 +339,42 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 * `--provider termonline-standard --force`：abstractive cognition、intuitive cognition、divine ideas、excommunication、imposition、perfection、positive law、schema、species、truth-maker、via moderna（ok 9 / empty 2）+ Boyle、Melissus、Bismarck、Mulla Sadra、Hintikka、Bridgman、Eustachius（全 empty）。
 * 结论：GB 标准库对哲学词/人名基本查无（仅 schema=图式、species=种 有标准佐证），印证「标准库不作哲学否定证据」；审定库（termonline-all）需 token，本会话无 token，相关行依据维持既有凭证并如实标注。
 * 门禁：`check_all` 7/7 全绿；`check_terms` 硬错误 0、滞后 0；原文缺 175、人名缺籍属/生卒 2352（生成物）。
+
+## 2026-11-09 A–Z 分节定型与爬取程序化（TL-az-20261109）
+
+### 一、两登记册 A–Z 分节（用户裁定：「只针对术语表、人名表」「各自单文件内 A–Z 分节」）
+
+* 新工具 `tools/registry_azsort.py`：数据行按首字母分节重排（`## A`…`## Z` + 末节 `## #`），
+  只重排行序、不改行内容；纪律=守恒门（数据行字节多重集相等，残余≠0 拒绝写回）、幂等
+  （`<!-- az-sort:v1 -->` 标记，重跑逐字节相同）、原子写、默认要求工作区干净。
+* 分节键：首列键剥离前置装饰符（《》、引号、括号、ʿ/ʾ）与变音符后的首个拉丁字母；
+  希腊字母按转写首字母归档（ω→O、ε→E）；汉字/阿拉伯文/数字起首归 `#`。
+* 结构副产物：人名表「登记格式说明」「待裁定」之后追加的 1189 行归位字母节；说明段文字原位保留；
+  术语表 4 行历史表头/分隔行移除；术语表首次获得 H1 与体例说明。
+* 首跑 3526+2802 行，周界 0；随后并行会话新增 57+43 行再跑一次，周界仍 0。提交 `2f3b394d`。
+* 顺带解冲突：词汇表 `Paradox of Suspense` 补「亦作悬念悖论」（登记册正文形），`check_terms` 硬错误 0。
+* 潜伏缺陷记录：术语表 `| term | — | 词项 | …` 一行首列撞 `HEADER_WORDS`，长期被解析器漏认
+  （审计口径 3509 行，实际数据行 3510）；重排保留该行，但未改 `check_terms.is_data_row` 语义。
+
+### 二、爬取程序化：`tools/tl_crawler.py`（用户裁定：「编写爬虫而不是模拟点击」）
+
+* 分工：浏览器只承载登录态（persistent context + `state/tl-profile`），**请求全部由程序经
+  `context.request` 发出**，无任何点击；`tl_browser_batch.py --ingest` 仍是唯一落凭证入口
+  （批次 schema 不变）。
+* 登录：`--login` 打开可见窗口人工登录一次（等待令牌最多 `--login-wait` 秒），profile 复用，
+  之后 `--crawl` 可无头长跑；令牌每批从页面 localStorage 解密刷新。
+* 节奏与容错：批内默认为 8s（硬约束 ≥5s）、批间 20s；连续 2 次降级 → 重新激活 + 退避 60s→300s，
+  同词最多 3 试；降级绝不落盘为「查无」。
+* 断点：`state/tl-crawl-state.json` 记 `next_offset`，`--start` 可覆盖。
+
+### 三、会话激活机制再确认（推翻「4 分钟批间冷却」的常态性）
+
+* 未激活时 `allSearch` 只回 3 库且全 0（降级）；`goto search?searchText=…` 让应用自己发一次检索后，
+  同一令牌立刻 4 库齐全（408/106/18/31）。
+* 实测两批连续 12 个请求（批内 10s、批间仅数十秒）全部 ok：**瓶颈是激活，不是限流窗口**。
+* 结论：4 分钟冷却降级为「降级后的退避手段」；常态节奏=每批前激活 + 批内 ≥5s。
+
+### 四、本批凭证（手工通道，offset 0–27）
+
+* `Abhidharma` 真查无（4 库 0）；其余 26 项 ok，已 `--ingest` 落库（termonline-all）。
+* 首次整批 8 词全降级（未激活）→ 全部作废未入库，符合「降级不落凭证」要求。

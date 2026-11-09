@@ -1,0 +1,306 @@
+{
+ "key": "admissible semantics",
+ "term": "admissible semantics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T11:20:07+00:00",
+ "status": "ok",
+ "note": "variant=admissible semantics; 审定公布名词库=222; 海峡两岸名词对照库=64; 其他来源数据库=21; 预公布名词数据库=6; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "进入许可",
+   "en": "admission",
+   "code": "03.0213",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_工程项目管理"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "code": "6.206",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_模式与方法"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "code": "05.0005",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "code": "08.0484",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "code": "02.0016",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "code": "05.001",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_语义学与语义理论"
+  },
+  {
+   "cn": "容许差距",
+   "en": "admissible deviation ",
+   "code": "4.012",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_草种子学"
+  },
+  {
+   "cn": "容许误差",
+   "en": "admissible error",
+   "code": "01.0240",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "容许结构",
+   "en": "admissible structure",
+   "code": "02.0116",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "容许集",
+   "en": "admissible set",
+   "code": "02.0248",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "容许子群",
+   "en": "admissible subgroup",
+   "code": "04.1782",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "容许映射",
+   "en": "admissible mapping",
+   "code": "04.1239",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数几何学"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "容许误差",
+   "en": "admissible error",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "容许粗糙度",
+   "en": "admissible roughness",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "货物暂准通关证制度",
+   "en": "admission temporary",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "临时批准免税进口",
+   "en": "temporary admission",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "内进汽",
+   "en": "inside admission",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "外进汽",
+   "en": "outside admission",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "生成语义学",
+   "en": "generative semantics",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "准入控制",
+   "en": "admission control",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "指称语义",
+   "en": "Denotational semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "普通语义学",
+   "en": "general semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "框架语义学",
+   "en": "frame semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义角色",
+   "en": "Semantic roles",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义网络",
+   "en": "Semantic Network",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义网",
+   "en": "Semantic Web",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义模型",
+   "en": "semantic model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "准入控制",
+   "en": "admission control",
+   "code": "7.3.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务要素市场_医学教育人才市场"
+  },
+  {
+   "cn": "住院率",
+   "en": "admission rate",
+   "code": "3.7.11.14",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "code": "03.184",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "code": "1.2.4.47",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "code": "1.2.5.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "code": "5.0195",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

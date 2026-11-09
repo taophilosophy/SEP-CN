@@ -16,7 +16,7 @@
 
 | 资产 | 状态 |
 | ---- | ---- |
-| 登记册两表 | yi-zhe-shuo-ming.md ~475 行 + ren-ming-biao.md ~73 行（多语种战役累计落册 ~210 行） |
+| 登记册两表 | `yi-zhe-shuo-ming.md`（术语，A–Z 分节；数据行 3583）+ `ren-ming-biao.md`（人名，A–Z 分节；数据行 2845）；2026-11-09 起按字母节排列，新行入库后跑 `python tools/registry_azsort.py --apply` 归位（幂等） |
 | 候选池 | 75594 条：已裁定 ~1130（published ~330 / held 28 / rejected ~770）、new 余量=中低频长尾（随词条翻译核定，不再整批跑） |
 | 提取器 | term_harvest 多语种版（topic/六种原文文字/foreign 重分类），动态增量：词条入库后 `--refresh` 或按字母批次补提 |
 | 查证通道 | 审定库浏览器通道主力（S.O.P. 见 contracts/browser-channel.md）+ standard/youdao 辅助档；**激活机制=搜索页导航**（首页 reload 不激活） |
@@ -111,3 +111,4 @@ A 档（通用哲学术语）直裁登记，B 档（存疑）走查证，C 档�
 | 2026-11-08 | TL-main-20261108c（接管 b） | 自 offset 24 续跑净队列（余 3166）；74 条不一致裁定 + Conventuals 维基行修正 + ci-hui-biao 同步 + 012 原文列回填穿插；每 4–5 批提交凭证 | 进行中（改判：offset 24 起由下行接管） |
 | 2026-11-08 | TL-main-20261108d（接管 c） | 同范围续作：净队列 offset 24–63 共 5 批 40 词；84 条不一致全数判读留档（零主译变更）；重复行合并 7 组（Philip/Clement/Schiller/Schleiermacher/Maritain/ʿAyn al-Quḍāt/nominalism/Epistemic Closure）+ social contract 冲突归一，词汇表滞后归零；Conventuals 撤维基引证；012 原文列 +36 行（拉丁 18/日 11/朝鲜 4/阿语 3） | 本批完成；接力 offset 64。**门禁实况**：check_terms 硬错误 0、滞后 0；check_all 的 SUMMARY 结构审计红（220 条 orphan 全为元文档目录 .zcode/.specify/rules/fang-fa-lun 等，非术语资产，属仓库级卫生项） |
 | 2026-11-08 | TL-main-20261108e（接管 d） | 同范围续作：净队列自 offset 64 续跑（%TEMP%/tl-drive.json 余 3126）；修复并行会话锚点事故（ren-ming-biao Joyce 行恢复）；012 原文列回填穿插（阿拉伯/波斯~120、藏文~35、梵语~12、希腊~7，逐词外源页显式配对）；不一致裁定 + ci-hui-biao 同步 | 进行中 |
+| 2026-11-09 | TL-az-20261109 | ① 两登记册 A–Z 分节定型（`tools/registry_azsort.py`，守恒门+幂等，提交 `2f3b394d`）+ 词汇表 Paradox of Suspense 补亦作解冲突；② 术语侧未查证队列按 A–Z 重建（3068 项，`tl_browser_batch --emit --table term --unverified`）；③ 爬取程序化：`tools/tl_crawler.py`（浏览器只承载登录态，请求由程序发，无点击）；④ 机制更正：会话窗口靠「每批前导航搜索页」激活，批间 4 分钟冷却降级为降级退避 | 手工批 offset 0–27 已 ingest（26 份）；余下由爬虫按 `state/tl-crawl-state.json` 续跑 |

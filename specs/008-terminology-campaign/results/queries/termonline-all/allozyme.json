@@ -1,0 +1,180 @@
+{
+ "key": "allozyme",
+ "term": "allozyme",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T12:42:57+00:00",
+ "status": "ok",
+ "note": "variant=allozyme; 审定公布名词库=16; 海峡两岸名词对照库=17; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "等位基因酶",
+   "en": "allozyme",
+   "code": "3.073",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_酶_核酶及其他_易位酶"
+  },
+  {
+   "cn": "等位酶",
+   "en": "allozyme",
+   "code": "12.019",
+   "standard": "生态学名词",
+   "subject": "生态学_分子生态学"
+  },
+  {
+   "cn": "配模[标本]",
+   "en": "allotype",
+   "code": "2.0132",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "同种异型",
+   "en": "allotype",
+   "code": "09.103",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞免疫"
+  },
+  {
+   "cn": "同种异型",
+   "en": "allotype",
+   "code": "2.234",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "配模",
+   "en": "allotype",
+   "code": "02.115",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "[同种]异型",
+   "en": "allotype",
+   "code": "02.160",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_免疫学"
+  },
+  {
+   "cn": "他型",
+   "en": "allotype",
+   "code": "04.043",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学"
+  },
+  {
+   "cn": "异染色体",
+   "en": "allosome,heterochromosome",
+   "code": "03.737",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育临床_优生优育"
+  },
+  {
+   "cn": "异染色体",
+   "en": "heterochromosome,allosome",
+   "code": "07.010",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞遗传"
+  },
+  {
+   "cn": "异染色体",
+   "en": "allosome,heterochromosome",
+   "code": "04.023",
+   "standard": "遗传学名词",
+   "subject": "遗传学_细胞遗传学"
+  },
+  {
+   "cn": "异染色体",
+   "en": "heterochromosome;allosome",
+   "code": "2.255",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "等位酶",
+   "en": "allozyme",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "等位基因酶",
+   "en": "allozyme",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "等位酶",
+   "en": "allozyme",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "等位基因酶",
+   "en": "allozyme",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "等位[基因]酶,同种异型酶",
+   "en": "alloenzyme\",\"allozyme",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "等位酶电泳",
+   "en": "allozyme electrophoresis",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "[同种]异型",
+   "en": "allotype",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "同种异型",
+   "en": "allotype",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "同种异型",
+   "en": "allotype",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "配模标本",
+   "en": "allotype",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "配模",
+   "en": "allotype",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "异染色体",
+   "en": "allosome\",\"heterochromosome",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

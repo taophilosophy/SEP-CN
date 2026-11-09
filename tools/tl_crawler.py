@@ -91,6 +91,15 @@ class Crawler:
             self.ctx = self._pw.chromium.launch_persistent_context(PROFILE, **kwargs)
         self.page = self.ctx.pages[0] if self.ctx.pages else self.ctx.new_page()
         self.degraded_streak = 0
+        self.cool_until = 0.0
+
+    def _cool(self):
+        """全局冷却：限流命中后统一等待，而不是每个词各罚一轮。"""
+        left = self.cool_until - time.time()
+        if left > 0:
+            print('  [冷却] 等待 %.0fs（全局）' % left, flush=True)
+            time.sleep(left)
+            self.cool_until = 0.0
 
     def close(self):
         try:
@@ -156,6 +165,7 @@ class Crawler:
             raise SystemExit('未检测到登录令牌：先跑 --login 人工登录')
         out = []
         for it in items:
+            self._cool()
             r = None
             for attempt in range(1, retries + 1):
                 r = self.query(it['display'], token)
@@ -164,11 +174,12 @@ class Crawler:
                     break
                 self.degraded_streak += 1
                 if self.degraded_streak >= 2:
-                    wait = 60 if attempt == 1 else 300
-                    print('  [降级] 第 %d 次，重新激活并冷却 %ds' % (attempt, wait))
+                    wait = 90 if attempt == 1 else 300
+                    print('  [降级] 第 %d 次，重新激活并冷却 %ds' % (attempt, wait), flush=True)
+                    self.cool_until = time.time() + wait
+                    self._cool()
                     self.warm('logic', extra_wait=8000)
                     token = self.token() or token
-                    time.sleep(wait)
                 time.sleep(self.interval)
             r['row_key'] = it['row_key']
             out.append(r)
@@ -176,8 +187,10 @@ class Crawler:
                                        '/'.join(str(d['total']) for d in r['dbs'])
                                        or '-'))
             time.sleep(self.interval)
-        with open(out_path, 'w', encoding='utf-8', newline='\n') as f:
+        tmp = out_path + '.tmp'
+        with open(tmp, 'w', encoding='utf-8', newline='\n') as f:
             json.dump({'results': out}, f, ensure_ascii=False, indent=1)
+        os.replace(tmp, out_path)
         return out
 
 
@@ -216,12 +229,20 @@ def main(argv=None):
     ap.add_argument('--batch-gap', type=float, default=20.0, help='批间秒数')
     ap.add_argument('--headed', action='store_true', help='有头模式（默认无头）')
     ap.add_argument('--no-warm', action='store_true', help='跳过每批激活')
+    ap.add_argument('--calibrate', type=int, default=0, metavar='N',
+                    help='限流校准：以固定词连发 N 次，报告第几次开始降级')
     args = ap.parse_args(argv)
 
     if args.login:
         c = Crawler(headless=False)
         try:
             c.page.goto(WARM.format(q='logic'), wait_until='domcontentloaded')
+            try:
+                c.page.bring_to_front()
+            except Exception:
+                pass
+            print('已打开术语在线登录窗口（%s）——请在该窗口内完成登录。' % WARM.format(q='logic'),
+                  flush=True)
             c.page.wait_for_timeout(3000)
             deadline = time.time() + args.login_wait
             tok = c.token()
@@ -240,15 +261,39 @@ def main(argv=None):
     if args.probe:
         c = Crawler(headless=not args.headed)
         try:
+            c.warm('logic', extra_wait=4000)
             tok = c.token()
             if not tok:
-                print('无登录令牌：先 --login')
+                print('无登录令牌：先 --login（或跑 script/tl_session_import_20261109.py 导入）')
                 return 2
             c.warm('logic', extra_wait=8000)
             tok = c.token() or tok
             r = c.query(args.probe, tok)
             print(json.dumps(r, ensure_ascii=False, indent=1)[:1500])
             return 0 if r['status'] != 'error' else 1
+        finally:
+            c.close()
+
+    if args.calibrate:
+        c = Crawler(headless=not args.headed, interval=args.interval)
+        try:
+            c.warm('logic', extra_wait=8000)
+            tok = c.token()
+            if not tok:
+                print('无登录令牌')
+                return 2
+            ok_n = 0
+            for i in range(args.calibrate):
+                r = c.query('knowledge', tok)
+                print('  #%02d %s %s' % (i + 1, r['status'],
+                                         '/'.join(str(d['total']) for d in r['dbs'])), flush=True)
+                if r['status'] == 'error':
+                    print('第 %d 次请求起降级（窗口预算≈%d）' % (i + 1, ok_n), flush=True)
+                    return 0
+                ok_n += 1
+                time.sleep(args.interval)
+            print('连发 %d 次未降级（预算≥%d）' % (args.calibrate, ok_n), flush=True)
+            return 0
         finally:
             c.close()
 
@@ -263,7 +308,9 @@ def main(argv=None):
                     batch_gap=args.batch_gap)
         try:
             if not c.token():
-                print('无登录令牌：先 --login')
+                c.warm('logic', extra_wait=4000)
+            if not c.token():
+                print('无登录令牌：先 --login（或跑 script/tl_session_import_20261109.py 导入）')
                 return 2
             for b in range(args.batches):
                 chunk = items[offset:offset + args.size]
