@@ -507,110 +507,146 @@ segments:
     kind: body
     source: |-
       ## 3. The SR Model
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 *SR* 模型
+    step2: |-
+      ## 3 *SR* 模型
   - id: 64
     kind: body
     source: |-
       ### 3.1 The Basic Idea
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 基本观念
+    step2: |-
+      ### 3.1 基本观念
   - id: 65
     kind: body
     source: |-
       Much of the subsequent literature on explanation has been motivated by attempts to capture the features of causal or explanatory relevance that appear to be left out of examples like (4) and (5), typically within the empiricist constraints described above. Wesley Salmon’s statistical relevance (or *SR*) model (Salmon 1971a)[^salmon-1971a] is a very influential attempt to capture these features in terms of the notion of statistical relevance or conditional dependence relationships. Given some class or population $A$, an attribute $C$ will be *statistically relevant* to another attribute $B$ if and only if $P(B\mid A.C) \ne P(B\mid A)$—that is, if and only if the probability of $B$ conditional on $A$ and $C$ is different from the probability of $B$ conditional on $A$ alone. The intuition underlying the *SR* model is that statistically relevant properties (or information about statistically relevant relationships) are explanatory and statistically irrelevant properties are not. In other words, the notion of a property making a difference for an explanandum is unpacked in terms of statistical relevance relationships.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此后解释文献的很大一部分，其动机是试图捕捉 (4)(5) 这类例子所遗漏的因果或解释相关性特征，且通常是在上述经验主义限制之内。韦斯利·萨蒙的统计相关性（*SR*）模型（Salmon 1971a）[^salmon-1971a] 是极有影响的一次尝试，它用统计相关性或条件依赖关系来刻画这些特征。给定某个类或总体 $A$，属性 $C$ 对另一属性 $B$ *统计相关*，当且仅当 $P(B\mid A.C) \ne P(B\mid A)$——也就是说，当且仅当在 $A$ 与 $C$ 条件下 $B$ 的概率不同于仅在 $A$ 条件下 $B$ 的概率。*SR* 模型底层的直觉是：统计相关的属性（或关于统计相关关系的信息）是解释性的，统计不相关的属性则否。换言之，“某属性对被解释项有影响”这一观念，用统计相关性关系来阐释。
+    step2: |-
+      此后解释文献的很大一部分，动机正在于捕捉 (4)(5) 这类例子遗漏的因果或解释相关性，且通常不越上述经验主义限制。韦斯利·萨蒙的统计相关性（*SR*）模型（Salmon 1971a）[^salmon-1971a] 是极有影响的一次尝试，以统计相关性、条件依赖关系刻画这些特征。给定某个类或总体 $A$：属性 $C$ 对另一属性 $B$ *统计相关*，当且仅当 $P(B\mid A.C) \ne P(B\mid A)$——即在 $A$ 与 $C$ 之下 $B$ 的概率，不同于仅在 $A$ 之下 $B$ 的概率。*SR* 模型的直觉是：统计相关的属性（或此类关系的信息）具解释性，统计不相关者则否。换言之，“属性对被解释项有影响”一语，即以统计相关性关系阐释。
   - id: 66
     kind: body
     source: |-
       As an illustration, suppose that in the birth control pills example (5) the original population *T* includes both sexes. Then
 
       $$\begin{align} P(\text{Pregnancy} \mid T.&\text{Male.Takes birth control pills})\\ & {} = P(\text{Pregnancy} \mid T.\text{Male})\\ & {} = 0 \end{align} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $$\begin{align} P(\text{Pregnancy} \mid T.&\text{Male.Takes birth control pills})\\ & {} = P(\text{Pregnancy} \mid T.\text{Male})\\ & {} = 0 \end{align} $$
+    step2: |-
+      $$\begin{align} P(\text{Pregnancy} \mid T.&\text{Male.Takes birth control pills})\\ & {} = P(\text{Pregnancy} \mid T.\text{Male})\\ & {} = 0 \end{align} $$
   - id: 67
     kind: body
     source: |-
       while
 
       $$ \begin{align} P(\text{Pregnancy} \mid T.&\text{Female.Takes birth control pills})\\ &{} \ne P(\text{Pregnancy} \mid T.\text{Female}) \end{align} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $$ \begin{align} P(\text{Pregnancy} \mid T.&\text{Female.Takes birth control pills})\\ &{} \ne P(\text{Pregnancy} \mid T.\text{Female}) \end{align} $$
+    step2: |-
+      $$ \begin{align} P(\text{Pregnancy} \mid T.&\text{Female.Takes birth control pills})\\ &{} \ne P(\text{Pregnancy} \mid T.\text{Female}) \end{align} $$
   - id: 68
     kind: body
     source: |-
       assuming that not all women in the population take birth control pills. In other words, if you are a male in this population, taking birth control pills is statistically irrelevant to whether you become pregnant, while if you are a female it is relevant. Thus taking birth control pills is explanatorily irrelevant to pregnancy among males but not among females.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假定该总体中并非所有女性都服用避孕药。换言之，若你是这一总体中的男性，服用避孕药与你是否怀孕统计不相关；而若你是女性，则相关。因此，服用避孕药对男性怀孕是解释上不相关的，对女性则否。
+    step2: |-
+      假定总体中并非所有女性都服避孕药。于是：男性服避孕药，与其是否怀孕统计不相关；女性则相关。故服避孕药对男性之怀孕解释上不相关，对女性则相关。
   - id: 69
     kind: body
     source: |-
       To characterize the *SR* model more precisely we need the notion of a *homogenous partition.* A homogenous partition of $A$ is a set of subclasses or cells $C_i$ of $A$ that are mutually exclusive and exhaustive, where $P(B\mid A.C_i) \ne P(B\mid A.C_j)$ for all $C_i \ne C_j$ and where no further statistically relevant partition of any of the cells $A$, $C_i$ can be made with respect to $B$—that is, there are no additional attributes $D_k$ in $A$ such that
 
       $$P(B\mid A.C_i) \ne P(B\mid A.C_i.D_k).$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要更精确地刻画 *SR* 模型，需要*齐一划分*这一概念。$A$ 的一个齐一划分是 $A$ 的一组互斥且穷尽的子类或单元 $C_i$，对所有 $C_i \ne C_j$ 满足 $P(B\mid A.C_i) \ne P(B\mid A.C_j)$，且就 $B$ 而言，不能再对单元 $A$、$C_i$ 中的任何一个作出统计相关的进一步划分——也就是说，$A$ 中不存在额外的属性 $D_k$ 使得 $$P(B\mid A.C_i) \ne P(B\mid A.C_i.D_k).$$
+    step2: |-
+      更精确地刻画 *SR* 模型，需要*齐一划分*概念。$A$ 的齐一划分是 $A$ 的一组互斥且穷尽的子类或单元 $C_i$：对所有 $C_i \ne C_j$，$P(B\mid A.C_i) \ne P(B\mid A.C_j)$；且就 $B$ 而言，单元 $A$、$C_i$ 中任何一个都不能再作统计相关的进一步划分——即 $A$ 中不存在额外属性 $D_k$ 使 $$P(B\mid A.C_i) \ne P(B\mid A.C_i.D_k).$$
   - id: 70
     kind: body
     source: |-
       On the *SR* model, an explanation of why some member *x* of the class characterized by attribute $A$ has attribute $B$ consists of the following information:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按 *SR* 模型，对由属性 $A$ 所刻画的类中某个成员 *x* 为何有属性 $B$ 的解释，由如下信息构成：
+    step2: |-
+      按 *SR* 模型，解释属性 $A$ 所刻画之类中的成员 *x* 为何有属性 $B$，由如下信息构成：
   - id: 71
     kind: body
     source: |-
       1. The prior probability of $B$ within $A$: $P(B\mid A) = p$.
       2. A homogeneous partition of *A* with respect to *B*, ($A.C_1,\ldots ,A.C_n)$, together with the probability of *B* within each cell of the partition: $P(B\mid A.C_i) = p_i$ and
       3. The cell of the partition to which *x* belongs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $B$ 在 $A$ 中的先验概率：$P(B\mid A) = p$。
+      2. *A* 关于 *B* 的一个齐一划分 ($A.C_1,\ldots ,A.C_n)$，连同划分各单元内 *B* 的概率：$P(B\mid A.C_i) = p_i$，以及
+      3. 划分中 *x* 所属的单元。
+    step2: |-
+      1. $B$ 在 $A$ 中的先验概率：$P(B\mid A) = p$。
+      2. *A* 关于 *B* 的齐一划分 ($A.C_1,\ldots ,A.C_n)$，连同各单元内 *B* 的概率：$P(B\mid A.C_i) = p_i$；以及
+      3. *x* 所属的划分单元。
   - id: 72
     kind: body
     source: |-
       To employ one of Salmon’s examples, suppose we want to construct an *SR* explanation of why *x* who has a strep infection = *S*, recovers quickly = *Q*. Let $T(-T)$ according to whether *x* is (is not) treated with penicillin, and $R(-R)$ = according to whether *x* has a penicillin-resistant strain. Assume for the sake of argument that no other factors are relevant to quick recovery. There are four possible combinations of these properties: $T.R,$ $-T.R,$ $T.{-R},$ ${-T}.{-R},$ but let us assume that
 
       $$ \begin{align} P(Q\mid S.T.R) & = P(Q\mid S.{-T}.R)\\ & = P(Q\mid S.{-T}.{-R})\\ & \ne P(Q\mid S.{T}.{-R})\\ \end{align} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用萨蒙的一个例子：设要为患链球菌感染（= *S*）的 *x* 为何快速康复（= *Q*）构造一个 *SR* 解释。令 $T(-T)$ 视 *x* 是否（否）以青霉素治疗而定，$R(-R)$ = 视 *x* 是否携带抗青霉素株而定。为论证计，假定没有其他因素与快速康复相关。这些属性有四种可能组合：$T.R,$ $-T.R,$ $T.{-R},$ ${-T}.{-R},$ 但让我们假定 $$ \begin{align} P(Q\mid S.T.R) & = P(Q\mid S.{-T}.R)\\ & = P(Q\mid S.{-T}.{-R})\\ & \ne P(Q\mid S.{T}.{-R})\\ \end{align} $$
+    step2: |-
+      举萨蒙一例：欲为患链球菌感染（= *S*）的 *x* 何以快速康复（= *Q*）构造 *SR* 解释。令 $T(-T)$ 视 *x* 是否受青霉素治疗而定，$R(-R)$ 视是否携带抗青霉素株而定。为论证计，设无其他因素与快速康复相关。属性组合有四：$T.R,$ $-T.R,$ $T.{-R},$ ${-T}.{-R},$ 并假定 $$ \begin{align} P(Q\mid S.T.R) & = P(Q\mid S.{-T}.R)\\ & = P(Q\mid S.{-T}.{-R})\\ & \ne P(Q\mid S.{T}.{-R})\\ \end{align} $$
   - id: 73
     kind: body
     source: |-
       That is, the probability of quick recovery, given that one has strep, is the same for those who have the resistant strain regardless of whether or not they are treated and also the same for those who have not been treated. By contrast, the probability of recovery is different (presumably greater) among those with strep who have been treated and do not have the resistant strain.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也就是说，给定患链球菌，快速康复的概率对携带抗药株者而言相同，无论其是否接受治疗；对未接受治疗者而言亦同。相比之下，患链球菌、接受治疗且不携带抗药株者的康复概率不同（大概更高）。
+    step2: |-
+      即：给定患链球菌，携带抗药株者快速康复的概率相同——无论治与不治；未受治疗者亦然。相比之下，患链球菌、受治且不带抗药株者，康复概率不同（大概更高）。
   - id: 74
     kind: body
     source: |-
       In this case
 
       $$[S.(T.R \lor {-T}.R \lor {-R}.{-T})], [S.T.{-R}]$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $$[S.(T.R \lor {-T}.R \lor {-R}.{-T})], [S.T.{-R}]$$
+    step2: |-
+      $$[S.(T.R \lor {-T}.R \lor {-R}.{-T})], [S.T.{-R}]$$
   - id: 75
     kind: body
     source: |-
       is a homogenous partition of *S* with respect to *Q*. The *SR* explanation of *x*’s recovery will consist of a statement of the probability of quick recovery among all those with strep ((i) above), a statement of the probability of recovery in each of the two cells of the above partition ((ii) above), and the cell to which *x* belongs, which is $S.T.R$ ((iii) above). Intuitively, the idea is that this information tells us about the relevance of each of the possible combinations of the properties *T* and *R* to quick recovery among those with strep and is explanatory for just this reason.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是 *S* 关于 *Q* 的一个齐一划分。对 *x* 康复的 *SR* 解释将包括：陈述所有链球菌感染者中快速康复的概率（上文 (i)）、陈述上述划分两个单元中各自的康复概率（上文 (ii)），以及 *x* 所属的单元，即 $S.T.R$（上文 (iii)）。直觉上说，其想法是：这些信息告诉我们属性 *T* 与 *R* 的各种可能组合对链球菌感染者快速康复的相关性，且正因此而是解释性的。
+    step2: |-
+      是 *S* 关于 *Q* 的一个齐一划分。对 *x* 康复的 *SR* 解释包括：全体链球菌感染者快速康复的概率（上文 (i)）、上述两单元各自的康复概率（上文 (ii)），以及 *x* 所属单元 $S.T.R$（上文 (iii)）。直觉上：这些信息道出 *T* 与 *R* 的各种组合对链球菌感染者快速康复的相关性，解释性正在于此。
   - id: 76
     kind: body
     source: |-
       ### 3.2 The SR Model and Low Probability Events
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 *SR* 模型与低概率事件
+    step2: |-
+      ### 3.2 *SR* 模型与低概率事件
   - id: 77
     kind: body
     source: |-
       The *SR* model has a number of distinctive features that have generated substantial discussion. First, note that according to the *SR* model, and in contrast to the *DN/IS* model, an explanation is *not* an argument—either in the sense of a deductively valid argument in which the explanandum follows as a conclusion from the explanans or in the sense of a so-called inductive argument in which the explanandum follows with high probability from the explanans, as in the case of *IS* explanation. Instead, an explanation is an assembly of information that is statistically relevant to an explanandum. Salmon argues (and takes the birth control example (5) to illustrate) that the criteria that a good argument must satisfy (e.g., criteria that insure deductive soundness or some inductive analogue) are simply different from those a good explanation must satisfy. Among other things, as Salmon puts it, “irrelevancies [are] harmless in arguments but fatal in explanations” (1989: 102). As explained above, in associating successful explanation with the provision of information about statistical relevance relationships, the *SR* model attempts to accommodate this observation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *SR* 模型有若干独特特征，引发大量讨论。首先注意：按 *SR* 模型——与 *DN/IS* 模型相反——解释*不是*论证：既不是被解释项作为结论从解释项演绎推出的演绎有效论证，也不是像 *IS* 解释那样被解释项以高概率随解释项而来的所谓归纳论证。相反，解释是对统计相关于某被解释项的信息的汇集。萨蒙论证（并以避孕药例子 (5) 为例证）：好论证须满足的标准（如确保演绎可靠性或某种归纳类比的标准）与好解释须满足的标准截然不同。其中，如萨蒙所言：“不相关之物在论证中无害，在解释中却是致命的”（1989: 102）。如上所述，*SR* 模型把成功解释与提供统计相关性关系的信息联系起来，正是要容纳这一观察。
+    step2: |-
+      *SR* 模型有若干鲜明特征，引发大量讨论。首先注意：按 *SR* 模型——与 *DN/IS* 相反——解释*不是*论证：既非被解释项作结论、自解释项演绎推出之有效论证，亦非 *IS* 式归纳论证（被解释项以高概率随解释项而来）。解释毋宁是统计相关于被解释项的信息之汇集。萨蒙论证（并举避孕药例 (5) 为证）：好论证之标准（如保演绎可靠或其归纳类比者）与好解释之标准截然两途。其中如萨蒙所言：“不相关之物在论证中无害，在解释中却是致命的”（1989: 102）。如上所述，*SR* 模型把成功解释系于提供统计相关性信息，正是要容纳这一观察。
   - id: 78
     kind: body
     source: |-
       A second, closely related point is that the *SR* model departs from the *IS* model in abandoning the idea that a statistical explanation of an outcome must provide information from which it follows the outcome occurred with high probability. As the reader may check, the statement of the *SR* model above imposes no such high probability requirement; instead, even very unlikely outcomes will be explained as long as the criteria for *SR* explanation are met. Suppose that, in the above example, the probability of quick recovery from strep, given treatment and the presence of a non-resistant strain, is rather low (e.g., 0.2). Nonetheless, if the criteria (i)–(iii) above—a homogeneous partition with correct probability values for each cell in the partition—are satisfied, we may use this information to explain why *x*, who had a non-resistant strain of strep and was treated, recovered quickly. Indeed, according to the *SR* model, we may explain why some *x* which is *A* is *B*, even if the conditional probability of *B* given *A* and the cell $C_i$ to which *x* belongs $(p_i = P(B\mid A.C_i))$ is *less* than the prior probability $(p = P(B\mid A))$ of *B* in *A*. For example, if the prior probability of quick recovery among all those with any form of strep is 0.5 and the probability of quick recovery of those with a resistant strain who are untreated is 0.1, we may nonetheless explain why *y*, who meets these last conditions $({-T}.R),$ recovered quickly (assuming he did) by citing the cell to which he belongs, the probability of recovery given that he falls in this cell, and the other sort of information described above. More generally, what matters on the *SR* model is not whether the value of the probability of the explanandum-outcome is high or low (or even high or low in comparison with its prior probability) but rather whether the putative explanans cites all and only statistically relevant factors and whether the probabilities it invokes are correct. One consequence of this, which Salmon endorses while acknowledging that many will regard it as unintuitive, is that on the *SR* model, the same explanans *E* may explain both an explanandum *M* and explananda that are inconsistent with *M*, such as $-M$. For example, the same explanans will explain both why a subject with strep and certain other properties (e.g., *T* and $-R$) recovers quickly, if he does, and also why he does not recover if he does not. By contrast, on the *DN* or *IS* models, if *E* explains *M,* *E* cannot also explain $-M$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二个紧密相关的要点是：*SR* 模型放弃了这一想法——对一个结果的统计解释必须提供由之可推出该结果以高概率发生的信息——从而偏离 *IS* 模型。读者可以核验：上述 *SR* 模型的陈述没有施加这种高概率要求；相反，只要满足 *SR* 解释的标准，即便极不可能的结果也会得到解释。假定在上例中，给定治疗且存在非抗药株时链球菌快速康复的概率相当低（如 0.2）。即便如此，若上述标准 (i)–(iii)——各单元概率值正确的齐一划分——得到满足，我们仍可用这些信息解释：为何患非抗药株链球菌且接受治疗的 *x* 快速康复了。确实，按 *SR* 模型，我们可以解释某个为 *A* 的 *x* 为何是 *B*，即使给定 *A* 与 *x* 所属单元 $C_i$ 时 *B* 的条件概率 $(p_i = P(B\mid A.C_i))$ *小于* *B* 在 *A* 中的先验概率 $(p = P(B\mid A))$。例如，若所有链球菌感染者快速康复的先验概率为 0.5，而患抗药株且未治疗者快速康复的概率为 0.1，我们仍可解释为何满足最后这些条件 $({-T}.R),$ 的 *y* 快速康复了（假定他确实康复了）：引述他所属的单元、给定他落入该单元时的康复概率，以及上文描述的其他信息。更一般地说，按 *SR* 模型，要紧的不是被解释项结果的概率值高或低（甚至相对于其先验概率的高或低），而是所谓的解释项是否引述了全部且仅统计相关的因素，以及它所援引的概率是否正确。这一点的后果之一——萨蒙认可它，同时承认许多人会视之为反直觉——是：按 *SR* 模型，同一解释项 *E* 可以既解释被解释项 *M*，也解释与 *M* 不一致的被解释项，如 $-M$。例如，同一解释项将既解释患链球菌且具某些其他属性（如 *T* 与 $-R$）的受试者为何（若他确实如此）快速康复，也解释他为何（若他确实未康复）不康复。相反，按 *DN* 或 *IS* 模型，若 *E* 解释 *M*，*E* 便不能也解释 $-M$。
+    step2: |-
+      第二点与之紧密相关：*SR* 模型放弃了“统计解释必须提供可推出结果以高概率发生之信息”的想法，从而有别于 *IS* 模型。读者可自核：上述 *SR* 陈述并无高概率要求；只要满足 *SR* 解释标准，再不可能的结果也得到解释。设上例中，受治且非抗药株条件下链球菌快速康复的概率很低（如 0.2）；只要标准 (i)–(iii)——各单元概率值正确的齐一划分——满足，我们仍可解释：患非抗药株且受治的 *x* 何以快速康复。确实，按 *SR* 模型，可解释 *A* 之 *x* 何以是 *B*，即便给定 *A* 与 *x* 所属单元 $C_i$ 时 *B* 的条件概率 $(p_i = P(B\mid A.C_i))$ *低于* *B* 在 *A* 中的先验概率 $(p = P(B\mid A))$。例如：全体链球菌感染者快速康复的先验概率为 0.5，抗药株未治者快速康复的概率为 0.1；我们仍可解释满足 $({-T}.R),$ 诸条件的 *y*（假定他康复了）何以快速康复——引述其所属单元、落入该单元条件下的康复概率，以及上述其他信息。更一般地说，按 *SR* 模型，要紧的不是被解释项结果的概率高低（乃至相对于先验概率的高低），而是所谓解释项是否引述了全部且仅统计相关的因素、所援引的概率是否正确。其后果之一（萨蒙认可，亦承认许多人视为反直觉）：同一解释项 *E* 可既解释被解释项 *M*，又解释与 *M* 不一致者如 $-M$。例如，同一解释项既解释患链球菌且具其他属性（如 *T* 与 $-R$）的受试者何以（若确实如此）快速康复，也解释其何以（若确实不然）不康复。相反，按 *DN* 或 *IS*，若 *E* 解释 *M*，*E* 便不能又解释 $-M$。
   - id: 79
     kind: body
     source: |-
