@@ -1378,176 +1378,268 @@ segments:
       Moreover, the angle between two vectors $v_{p}$ and $w_{p}$ at $p\in M$ is given by
 
       $$\tag{11} \cos \theta = \frac{g_{ij}(x(p))v^{\,i}_p w^{\,j}_p}{\lvert v_p \rvert \lvert w_p \rvert}. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，$p\in M$ 处两个向量 $v_{p}$ 与 $w_{p}$ 之间的夹角由下式给出
+
+      $$\tag{11} \cos \theta = \frac{g_{ij}(x(p))v^{\,i}_p w^{\,j}_p}{\lvert v_p \rvert \lvert w_p \rvert}. $$
+    step2: |-
+      再者，$p\in M$ 处两向量 $v_{p}$ 与 $w_{p}$ 之夹角为
+
+      $$\tag{11} \cos \theta = \frac{g_{ij}(x(p))v^{\,i}_p w^{\,j}_p}{\lvert v_p \rvert \lvert w_p \rvert}. $$
   - id: 160
     kind: body
     source: |-
       While in Riemannian geometry the parallel transport of length is *path independent*, that is, it is possible to compare the lengths of any two vectors, even if they are located at two finitely different points, a vector suffers a *path-dependent* change in *direction* under parallel transport; that is, it is not possible to define the angle between two vectors, located at different points, in a path-independent way. Consequently, the angle between two vectors at a given point is invariant under parallel transport if and only if both vectors are transported *along the same path*. In particular, a vector which is carried around a closed circuit by a continual parallel displacement back to the starting point, will have the same length, but will not in general return to its initial direction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在黎曼几何中，长度的平行输运是*与路径无关的*，也就是说，即便两个向量位于两个有限地不同的点，也可以比较它们的长度；然而向量在平行输运下会经历*与路径相关的*方向变化，也就是说，不可能以与路径无关的方式定义位于不同点处的两个向量之间的夹角。因此，给定点处两个向量之间的夹角在平行输运下保持不变，当且仅当两个向量是*沿同一路径*被输运的。特别是，一个向量若经连续平行位移绕闭合回路回到起点，其长度将不变，但一般而言不会回到其初始方向。
+    step2: |-
+      黎曼几何中，长度的平行输运*与路径无关*：即使两向量分处有限距离的两点，其长度亦可相较。然而向量在平行输运下所经历的*方向*变化却*与路径相关*，即位于不同点的两向量之夹角无法以与路径无关的方式定义。故一点处两向量之夹角在平行输运下不变，当且仅当二者*沿同一路径*输运。尤须注意：向量若经连续平行位移绕闭合回路回到起点，其长度虽不变，方向则一般不复原。
   - id: 161
     kind: body
     source: |-
       *Figure 5:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 5：*
+    step2: |-
+      *图 5：*
   - id: 162
     kind: body
     source: |-
       ![figure](../assets/weyl/fig5.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![绕测地三角形一周的平行输运](../yuanwen/assets/weyl/fig5.png)
+    step2: |-
+      ![绕测地三角形一周的平行输运](../yuanwen/assets/weyl/fig5.png)
   - id: 163
     kind: body
     source: |-
       Figure 5: The parallel transport of a vector by a two-dimensional creature, from $A \rightarrow B \rightarrow C \rightarrow A$ around a geodesic triangle on a two-dimensional surface $S^{2}$, ends up pointing in a different direction upon returning to $A$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 5：一个二维生物把向量沿二维曲面 $S^{2}$ 上的测地三角形从 $A \rightarrow B \rightarrow C \rightarrow A$ 平行输运，回到 $A$ 时其指向已与初始不同。
+    step2: |-
+      图 5：二维生物使向量沿二维曲面 $S^{2}$ 上的测地三角形 $A \rightarrow B \rightarrow C \rightarrow A$ 平行输运，返回 $A$ 处时其指向已异于初始。
   - id: 164
     kind: body
     source: |-
       For a closed loop which circumscribes an infinitesimally small portion of space, the rotation of the vector per unit area constitutes the measure of the local curvature of space. Consequently, whether or not finite parallel displacement of direction is *integrable*, that is, path-independent, depends on whether or not the curvature tensor vanishes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于一个环绕着无穷小空间部分的闭合回路，向量每单位面积的旋转构成了空间局部曲率的度量。因此，方向的有限平行位移是否*可积*（即是否与路径无关），取决于曲率张量是否为零。
+    step2: |-
+      若闭合回路所环绕者为空间的无穷小部分，则向量每单位面积的转动即度量空间之局部曲率。于是，方向的有限平行位移是否*可积*（即与路径无关），端视曲率张量是否消失。
   - id: 165
     kind: body
     source: |-
       According to Weyl, Riemannian geometry, is not a pure or genuine *infinitesimal* differential (metric) geometry, since it permits the comparison of length at a finite distance. In his seminal 1918 paper entitled *Gravitation und Elektrizität* (*Gravitation and Electricity*) Weyl (1918a) says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照外尔，黎曼几何并不是一种纯粹或真正的*无穷小*微分（度量）几何，因为它容许在有限距离上比较长度。在他 1918 年那篇题为《引力与电》（*Gravitation und Elektrizität*，即 *Gravitation and Electricity*）的开创性论文中，外尔（1918a）说：
+    step2: |-
+      外尔认为，黎曼几何并非纯粹或本真的*无穷小*微分（度量）几何，因它容许在有限距离上比较长度。其 1918 年开山之作《引力与电》（*Gravitation und Elektrizität*，即 *Gravitation and Electricity*）有言：
   - id: 166
     kind: body
     source: |-
       > However, in the Riemannian geometry described above, there remains a last distant-geometric [ferngeometrisches] element—without any sound reason, as far as I can see; the only cause of this appears to be the development of Riemannian geometry from the theory of surfaces. The metric permits the comparison of length of two vectors not only at the same point, but also at any arbitrarily separated points. *A true near-geometry (Nahegeometrie), however, may recognize only a principle of transferring a length at a point to an infinitesimal neighbouring point*, and then it is no more reasonable to assume that the transfer of length from a point to a finitely distant point is integrable, then it was to assume that the transfer of direction is integrable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 然而，在上述黎曼几何中，仍残留着最后一个远距几何的［ferngeometrisches］要素——在我看来，这并无任何可靠的理据；其唯一缘由似乎是黎曼几何乃从曲面理论发展而来。度规不仅容许比较同一点处两个向量的长度，也容许比较任意相隔两点处的长度。*然而，一种真正的近距几何（Nahegeometrie）只可承认把一点处的长度转移到无穷小邻近点的原理*，而既然如此，假定长度从一点到有限远距离点的转移可积，就并不比假定方向的转移可积更为合理。
+    step2: |-
+      > 然而上述黎曼几何中，仍残留着最后一个远距几何（ferngeometrisches）要素——依我之见，此毫无可靠理据；其唯一根源，似乎是黎曼几何自曲面理论发展而来。度规不仅允许比较同一点处两向量之长度，亦允许比较任意相隔两点者。*而真正的近距几何（Nahegeometrie）只能承认这样一条原理：把一点处的长度转移至无穷小邻近点*；既然如此，假定长度自一点向有限远处之转移可积，其合理性并不更甚于假定方向的转移可积。
   - id: 167
     kind: body
     source: |-
       Weyl wanted a metric geometry which would not permit *distance comparison of length* between two vectors located at finitely different points. In a *pure infinitesimal geometry*, Weyl argued, if attention is restricted to a single point of the manifold, then some standard of length or *gauge* must be chosen arbitrarily before the lengths of vectors can be determined. Therefore, all that is intrinsic to the notion of a pure infinitesimal metric differential geometry is the ability to determine the *ratios of the lengths* of any two vectors and the angle between any two vectors, *at a point*. And because we can determine the angle between any two vectors at a point, such a pure *infinitesimal* metric manifold must have at least a *conformal* structure $C$.[^note-47]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔所要的是一种不允许在位于有限地不同点的两个向量之间作*长度距离比较*的度量几何。外尔论证道，在一种*纯粹无穷小的几何*中，若把注意力限于流形的单个点，那么在能够确定向量长度之前，必须任意选定某种长度标准或*规范*。因此，纯粹无穷小度量微分几何这一概念所固有的一切，就是*在一点处*确定任意两个向量之*长度之比*以及任意两个向量之间夹角的能力。而由于我们能够确定一点处任意两个向量之间的夹角，这样一种纯粹的*无穷小*度量流形必定至少具有*保形*结构 $C$。[^note-47]
+    step2: |-
+      外尔所要求的度量几何，不容许对分处有限距离的两向量作*长度上的距离比较*。他论证道：在*纯粹无穷小几何*中，若把视线限于流形之一点，则在确定向量长度之前，须先任意选定某种长度标准即*规范*。故纯粹无穷小度量微分几何所固有者，无非*在一点处*确定任两向量之*长度之比*与任两向量间夹角的能力。既能在一点处确定任两向量之夹角，此种纯粹的*无穷小*度量流形便必至少具*保形*结构 $C$。[^note-47]
   - id: 168
     kind: body
     source: |-
       The defining characteristic of a conformal spacetime structure is given by the equation
 
       $$\tag{12} 0 = ds^2 = g_{ij}(x(p))dx^i dx^{\,j}, $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      保形时空结构的界定性特征由下述方程给出
+
+      $$\tag{12} 0 = ds^2 = g_{ij}(x(p))dx^i dx^{\,j}, $$
+    step2: |-
+      保形时空结构之界定性特征，由下式给出
+
+      $$\tag{12} 0 = ds^2 = g_{ij}(x(p))dx^i dx^{\,j}, $$
   - id: 169
     kind: body
     source: |-
       which determines the light cone at $p$. A gauge transformation of the metric is a map
 
       $$ g_{ij}(x(p)) \rightarrow \lambda(x(p))g_{ij}(x(p)) = \overline{g}_{ij}(x(p)), $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      该方程确定 $p$ 处的光锥。度规的规范变换是一个映射
+
+      $$ g_{ij}(x(p)) \rightarrow \lambda(x(p))g_{ij}(x(p)) = \overline{g}_{ij}(x(p)), $$
+    step2: |-
+      此式确定 $p$ 处之光锥。度规的规范变换乃一映射
+
+      $$ g_{ij}(x(p)) \rightarrow \lambda(x(p))g_{ij}(x(p)) = \overline{g}_{ij}(x(p)), $$
   - id: 170
     kind: body
     source: |-
       which preserves the metric up to a positive and smooth but otherwise arbitrary scalar factor or gauge function $\lambda(x(p))$. In the case of a pseudo-Riemannian structure such a gauge transformation leaves the light cones unaltered. The angle between two vectors at $p$ is given by (11). Clearly, the gauge transformation $\overline{g}_{ij}(x(p)) = \lambda(x(p))g_{ij}(x(p))$ is angle preserving, that is, conformal. Two metrics which are related by a conformal gauge transformation are called *conformally equivalent.* A conformal structure does not determine the length of any one vector at a point. Only the relative lengths, the ratio of lengths, of any two vectors $\bfrac{\lvert v_p \rvert}{\lvert w_p \rvert}$ is determined.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      它把度规保持到一个正的、光滑的、此外任意的标量因子或规范函数 $\lambda(x(p))$ 的倍数之内。在伪黎曼结构的情形下，这样的规范变换不改变光锥。$p$ 处两个向量之间的夹角由 (11) 给出。显然，规范变换 $\overline{g}_{ij}(x(p)) = \lambda(x(p))g_{ij}(x(p))$ 保持夹角不变，因而是保形的。由保形规范变换相联系的两个度规称为*保形等价的*。保形结构并不确定一点处任何单个向量的长度，唯确定任意两个向量的相对长度、即长度之比 $\bfrac{\lvert v_p \rvert}{\lvert w_p \rvert}$。
+    step2: |-
+      它把度规保持到一个正的、光滑的、余皆任意的标量因子即规范函数 $\lambda(x(p))$ 的倍数之内。伪黎曼结构下，此种规范变换不改光锥。$p$ 处两向量之夹角由 (11) 给出。显然，规范变换 $\overline{g}_{ij}(x(p)) = \lambda(x(p))g_{ij}(x(p))$ 保角不变，故为保形的。经由保形规范变换相联系的两个度规，称为*保形等价的*。保形结构不确定一点处任一单个向量之长度，所确定者唯任两向量之相对长度即长度之比 $\bfrac{\lvert v_p \rvert}{\lvert w_p \rvert}$。
   - id: 171
     kind: body
     source: |-
       Weyl exploited these features of the conformal structure, and suggested that given a conformal structure, a *gauge* could be chosen at each point in a smooth but otherwise arbitrary manner, such that the metric (8) at any point of the manifold is conventional or undetermined to the extent that the metric
 
       $$\tag{13} d\overline{s}^2 = \lambda(x(p))g_{ij}(x(p))dx^{i}dx^{\,j} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔利用保形结构的这些特征，提出：给定一个保形结构，可以在每一点以一种光滑而余皆任意的方式选定一个*规范*，使得流形任一点处的度规 (8) 成为约定的或未定的，其程度以至于如下度规
+
+      $$\tag{13} d\overline{s}^2 = \lambda(x(p))g_{ij}(x(p))dx^{i}dx^{\,j} $$
+    step2: |-
+      外尔利用保形结构的这些特性，提出：给定保形结构后，可在每一点以光滑而余皆任意的方式选定*规范*，从而使流形任一点处的度规 (8) 成为约定的、未确定的——其程度至于下列度规
+
+      $$\tag{13} d\overline{s}^2 = \lambda(x(p))g_{ij}(x(p))dx^{i}dx^{\,j} $$
   - id: 172
     kind: body
     source: |-
       is equally valid.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同等有效。
+    step2: |-
+      亦同等有效。
   - id: 173
     kind: body
     source: |-
       However, a conformal structure by itself does not determine a unique symmetric linear connection; it only determines an equivalence class of conformally equivalent connections $K = [\Gamma]$, namely, connections which preserve the conformal structure $C$ during parallel transport. The difference between any two conformally equivalent symmetric linear connections $\overline{\Gamma}^{\,i}_{jk}$, $\Gamma^i_{jk} \in [\Gamma]$ is given by
 
       $$\tag{14} \overline{\Gamma}^{\,i}_{jk} - \Gamma^i_{jk} = \frac{1}{2}(\delta^{\,i}_j \theta_k + \delta^{\,i}_k \theta_j - g_{jk}g^{ir}\theta_{r}), $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，仅凭保形结构并不确定唯一的对称线性联络；它只确定保形等价联络的等价类 $K = [\Gamma]$，即在平行输运中保持保形结构 $C$ 的那些联络。任意两个保形等价的对称线性联络 $\overline{\Gamma}^{\,i}_{jk}$、$\Gamma^i_{jk} \in [\Gamma]$ 之间的差别由下式给出
+
+      $$\tag{14} \overline{\Gamma}^{\,i}_{jk} - \Gamma^i_{jk} = \frac{1}{2}(\delta^{\,i}_j \theta_k + \delta^{\,i}_k \theta_j - g_{jk}g^{ir}\theta_{r}), $$
+    step2: |-
+      然而保形结构本身并不确定唯一的对称线性联络，只确定保形等价联络之等价类 $K = [\Gamma]$，即在平行输运中保持保形结构 $C$ 的联络。任两个保形等价的对称线性联络 $\overline{\Gamma}^{\,i}_{jk}$、$\Gamma^i_{jk} \in [\Gamma]$ 之差，由下式给出
+
+      $$\tag{14} \overline{\Gamma}^{\,i}_{jk} - \Gamma^i_{jk} = \frac{1}{2}(\delta^{\,i}_j \theta_k + \delta^{\,i}_k \theta_j - g_{jk}g^{ir}\theta_{r}), $$
   - id: 174
     kind: body
     source: |-
       where
 
       $$\tag{15} \theta_{j}(x(p))dx^{\,j} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中
+
+      $$\tag{15} \theta_{j}(x(p))dx^{\,j} $$
+    step2: |-
+      式中
+
+      $$\tag{15} \theta_{j}(x(p))dx^{\,j} $$
   - id: 175
     kind: body
     source: |-
       is an arbitrary one-form field.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是任意的一形式场。
+    step2: |-
+      为任意一形式场。
   - id: 176
     kind: body
     source: |-
       Since the conformal structure determines only an equivalence class of conformally equivalent symmetric linear connections $K = [\Gamma]$, the affine connection in this type of geometry is not uniquely determined, and the parallel transport of vectors is not generally well defined. Moreover, the ratio of the lengths of two vectors located at different points is not determined even in a path-dependent way. According to Weyl, it is a fundamental principle of infinitesimal geometry that the metric structure on a manifold $M$ determines a unique affine structure on $M$. As was pointed out earlier, this principle is satisfied in Riemannian geometry where the metric determines a unique symmetric linear connection, namely, the metric connection according to (9). Evidently this fundamental principle of infinitesimal geometry is not satisfied for a structure which is merely a conformal structure, since the conformal structure only determines an equivalence class of conformally equivalent symmetric connections. Weyl showed that besides the conformal structure an additional structure is required in order to determine a unique symmetric linear connection from the equivalence class $K = [\Gamma]$ of conformally equivalent symmetric linear connections. Weyl showed that this additional structure is provided by the *length connection* or *gauge field* $A_{j}$ that governs the *congruent displacement of lengths*. Weyl called this additional structure the “metric connection” on a manifold; however, we shall use the term “length connection” instead, in order to avoid confusion with the modern usage of the term “metric connection”, which today denotes the symmetric linear connection that is uniquely determined by a Riemannian metric tensor according to (9).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于保形结构只确定保形等价的对称线性联络的等价类 $K = [\Gamma]$，此类几何中的仿射联络并非唯一确定，向量的平行输运一般而言也未被良定义。此外，位于不同点的两个向量的长度之比，既便是以与路径相关的方式，也未被确定。按照外尔，无穷小几何的一条基本原理是：流形 $M$ 上的度量结构确定 $M$ 上唯一的仿射结构。如前所述，黎曼几何满足这条原理：其中的度规确定唯一的对称线性联络，即依 (9) 的度规联络。显然，对于仅仅是保形结构的结构，这条无穷小几何的基本原理并不满足，因为保形结构只确定保形等价的对称联络的等价类。外尔表明，除保形结构之外，还需一种附加结构，才能从保形等价的对称线性联络的等价类 $K = [\Gamma]$ 中确定唯一的对称线性联络。外尔表明，这一附加结构由支配*长度的全等位移*的*长度联络*或*规范场* $A_{j}$ 提供。外尔把这一附加结构称为流形上的“度量联络”；然而我们宁可改用“长度联络”一词，以免与现代用法中的“度规联络”相混——后者今天指依 (9) 由黎曼度规张量唯一确定的对称线性联络。
+    step2: |-
+      保形结构既只确定保形等价对称线性联络之等价类 $K = [\Gamma]$，此类几何中的仿射联络便非唯一确定，向量的平行输运一般亦未良定义；分处不同点的两向量之长度比，即使以与路径相关的方式，也未被确定。依外尔之见，无穷小几何有一条基本原理：流形 $M$ 上的度量结构确定 $M$ 上唯一的仿射结构。如前所述，黎曼几何满足此原理——其度规确定唯一的对称线性联络，即依 (9) 的度规联络。显然，若结构仅仅是保形结构，此基本原理便不满足，因保形结构只确定保形等价对称联络之等价类。外尔表明：除保形结构外，尚须一附加结构，方能自等价类 $K = [\Gamma]$ 中定出唯一的对称线性联络；此附加结构即支配*长度全等位移*的*长度联络*或*规范场* $A_{j}$。外尔称此附加结构为流形上的“度量联络”；然本书改用“长度联络”一语，以免与现代所谓“度规联络”相混——后者今指依 (9) 由黎曼度规张量唯一确定的对称线性联络。
   - id: 177
     kind: body
     source: |-
       **Weyl’s Length Connection:** A point $p$ is *length connected* with its infinitesimal neighborhood, if and only if for every length at $p$, there is determined at every point $q$ infinitesimally close to $p$ a length to which the length at $p$ gives rise when it is *congruently* displaced from $p$ to $q$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **外尔的长度联络：** 一点 $p$ 与其无穷小邻域*长度相联络*，当且仅当对于 $p$ 处的每一长度，在与 $p$ 无穷接近的每一点 $q$ 处都确定一个长度，$p$ 处的长度自 $p$ 到 $q$ *全等地*位移时所产生者即此长度。
+    step2: |-
+      **外尔的长度联络：** 一点 $p$ 与其无穷小邻域成*长度联络*，当且仅当对 $p$ 处每一长度，在与 $p$ 无穷接近的每一点 $q$ 处皆有一长度与之相应——$p$ 处之长度自 $p$ *全等地*位移至 $q$ 时所生者。
   - id: 178
     kind: body
     source: |-
       This definition merely says that a manifold is “length connected” if it admits the process of infinitesimal congruent displacement of length. The only condition imposed on the concept of congruent displacement of length is the following:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一定义只是说：一个流形若容许长度的无穷小全等位移这一过程，便是“长度相联络的”。对长度的全等位移这一概念所施加的唯一条件如下：
+    step2: |-
+      此定义不过是说：流形若容许长度的无穷小全等位移，便为“长度联络的”。对长度全等位移之说所加的唯一条件如下：
   - id: 179
     kind: body
     source: |-
       **Congruent Displacement of Length:** With respect to a choice of gauge for a neighborhood of $p$, the transport of a length $l_{p}$ at $p$ to an infinitesimally neighboring point $q$ constitutes a *congruent* displacement if and only if there exists a choice of gauge for the neighborhood of $p$ relative to which the transported length $\overline{l}_{q}$ has the same value as $\overline{l}_{p}$; that is
 
       $$\tag{16} \overline{l}_q - \overline{l}_p = d\overline{l}_p = 0. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **长度的全等位移：** 相对于为 $p$ 的邻域所作的一种规范选择，把 $p$ 处的长度 $l_{p}$ 输运到无穷邻近点 $q$，构成一种*全等的*位移，当且仅当存在一种对 $p$ 邻域的规范选择，相对于它，被输运的长度 $\overline{l}_{q}$ 与 $\overline{l}_{p}$ 具有相同的值；亦即
+
+      $$\tag{16} \overline{l}_q - \overline{l}_p = d\overline{l}_p = 0. $$
+    step2: |-
+      **长度的全等位移：** 相对于为 $p$ 邻域所作的某一规范选择，把 $p$ 处长度 $l_{p}$ 输运至无穷邻近点 $q$，构成*全等的*位移，当且仅当存在对 $p$ 邻域的某种规范选择，相对于它，所输运之长度 $\overline{l}_{q}$ 与 $\overline{l}_{p}$ 等值；即
+
+      $$\tag{16} \overline{l}_q - \overline{l}_p = d\overline{l}_p = 0. $$
   - id: 180
     kind: body
     source: |-
       Weyl called such a gauge at $p$ a *geodesic gauge* at $p$.[^note-48] Weyl’s proof of the following theorem closely parallels the proof of theorem A.3 in [the supplement on Weyl’s metric independent construction of the affine connection.](weyl.supplement.md)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔把 $p$ 处的这样一种规范称为 $p$ 处的*测地规范*。[^note-48] 外尔对下述定理的证明，与[关于外尔仿射联络之度规无关构造的补充材料](weyl.supplement.md)中定理 A.3 的证明如出一辙。
+    step2: |-
+      外尔称 $p$ 处此种规范为 $p$ 处之*测地规范*。[^note-48] 其下定理之证明，与[外尔仿射联络度规无关构造补充材料](weyl.supplement.md)中定理 A.3 之证明几无二致。
   - id: 181
     kind: body
     source: |-
       **Theorem 4.1:** If for every point $p$ in a neighborhood $U$ of $M$, there exists a choice of gauge such that the change in an arbitrary length at $p$ under congruent displacement to an infinitesimally near point $q$ is given by
 
       $$\tag{17} d\overline{l}_p = 0, $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **定理 4.1：** 若对 $M$ 的邻域 $U$ 中每一点 $p$，都存在一种规范选择，使得 $p$ 处任意长度在全等位移到无穷接近点 $q$ 时的变化由下式给出
+
+      $$\tag{17} d\overline{l}_p = 0, $$
+    step2: |-
+      **定理 4.1：** 若对 $M$ 之邻域 $U$ 中每一点 $p$，皆存在一种规范选择，使 $p$ 处任一长度在全等位移至无穷邻近点 $q$ 时的变化为
+
+      $$\tag{17} d\overline{l}_p = 0, $$
   - id: 182
     kind: body
     source: |-
       then locally with respect to any other choice of gauge,
 
       $$\tag{18} dl = -lA_j(x(p))dx^{\,j}, $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么相对于任何其他规范选择，局部地有
+
+      $$\tag{18} dl = -lA_j(x(p))dx^{\,j}, $$
+    step2: |-
+      则相对于任何其他规范选择，局部地有
+
+      $$\tag{18} dl = -lA_j(x(p))dx^{\,j}, $$
   - id: 183
     kind: body
     source: |-
       and conversely.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反之亦然。
+    step2: |-
+      反之亦成立。
   - id: 184
     kind: body
     source: |-
       Making use of
 
       $$\begin{align} dv^{\,i}_p &= -\Gamma^i_{jk}(x(p))v^{\,j}_pdx^k \\ l_p &= g_{ij}(x(p))v^{\,i}_p v^{\,j}_p \\ dl_p &= -l_p A_j x(p)dx^{\,j}, \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      利用
+
+      $$\begin{align} dv^{\,i}_p &= -\Gamma^i_{jk}(x(p))v^{\,j}_pdx^k \\ l_p &= g_{ij}(x(p))v^{\,i}_p v^{\,j}_p \\ dl_p &= -l_p A_j x(p)dx^{\,j}, \end{align}$$
+    step2: |-
+      利用
+
+      $$\begin{align} dv^{\,i}_p &= -\Gamma^i_{jk}(x(p))v^{\,j}_pdx^k \\ l_p &= g_{ij}(x(p))v^{\,i}_p v^{\,j}_p \\ dl_p &= -l_p A_j x(p)dx^{\,j}, \end{align}$$
   - id: 185
     kind: body
     source: |-
