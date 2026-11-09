@@ -771,198 +771,266 @@ segments:
     kind: body
     source: |-
       The most important figure in German-speaking Europe to react in depth to Newton’s ideas was surely Immanuel Kant. As a young man, Kant was influenced by Euler’s argument (Friedman 1992: 16–17)[^friedman-1992] in the 1748 piece.[^note-26] Kant began grappling with Newtonian ideas at the very beginning of his career—he discussed the inverse-square law in his first publication (Kant 1747: § 10)[^kant-1747]—and they would remain central both to his magnum opus, the *Critique of Pure Reason* (Kant 1787 [1992])[^kant-1787][^kant-1787-2] and to his *Metaphysical Foundations of Natural Science* (1786 [2002]). In the so-called pre-critical period, Kant diverged sharply from the approach toward natural philosophy defended by many Leibnizians in German-speaking Europe by deciding to accept the Newtonian theory of universal gravity, along with corresponding aspects of the Newtonian conception of matter, as a starting point for philosophical theorizing (Friedman 2012: 485–6)[^friedman-2012]. He makes this explicit already in 1763, in *The Only Possible Argument*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德语欧洲对牛顿观念作出深入反应的最重要人物，无疑是伊曼努尔·康德。康德年轻时受到欧拉在 1748 年那篇论文中论证的影响（Friedman 1992: 16–17）[^friedman-1992]。[^note-26] 康德在事业之初便开始应对牛顿式观念——他在第一部出版物中讨论了平方反比定律（Kant 1747: § 10）[^kant-1747]——这些观念此后一直是其巨著《纯粹理性批判》（Kant 1787 [1992]）[^kant-1787][^kant-1787-2] 与《自然科学之形而上学基础》（1786 [2002]）的核心。在所谓前批判期，康德决定接受牛顿的万有引力理论以及牛顿物质观中相应的方面作为哲学理论化的出发点，从而与德语欧洲许多莱布尼茨派所捍卫的自然哲学进路分道扬镳（Friedman 2012: 485–6）[^friedman-2012]。他在 1763 年的《论上帝存在之唯一可能论证》中已明确说明了这一点：
+    step2: |-
+      德语世界中对牛顿观念作出最深回应的人物，无疑是伊曼努尔·康德。青年康德曾受欧拉 1748 年那篇文章的论证影响（Friedman 1992: 16–17）[^friedman-1992]。[^note-26] 康德一出道便与牛顿的观念打交道——他在处女作里就讨论了平方反比定律（Kant 1747: § 10）[^kant-1747]——此后这些观念始终居于其巨著《纯粹理性批判》（Kant 1787 [1992]）[^kant-1787][^kant-1787-2] 和《自然科学之形而上学基础》（1786 [2002]）的中心。在所谓前批判时期，康德与德语世界许多莱布尼茨派所维护的自然哲学路线分道扬镳：他决定把牛顿的万有引力理论、连同牛顿物质观中相应的部分，当作哲学思考的出发点（Friedman 2012: 485–6）[^friedman-2012]。1763 年的《论上帝存在之唯一可能的论证》已把这一点讲明：
   - id: 97
     kind: body
     source: |-
       > I will attempt to provide an explanation of the origin of the world system according to the general laws of mechanics, not an explanation of the entire natural order, but only of the great masses of matter and their orbits, which constitute the most crudest foundation of nature … I will presuppose the universal gravitation of matter according to *Newton* or his followers in this project. If there are any who believe that through a definition of metaphysics formulated according to their own taste they can annihilate the conclusions established by men of perspicacity on the basis of observation and by means of mathematical inference—if there are such persons, they can skip the following propositions as something which has only a remote bearing on the main aim of this essay. (Kant 1763: AK 2: 139)[^kant-1763]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我将尝试按力学的一般定律说明世界系统的起源，不是解释整个自然秩序，而只解释巨大的物质团块及其轨道，它们构成自然最粗陋的基础……在这个计划中，我将预设按 *牛顿* 或其追随者所理解的物质普遍引力。若有人认为，凭一种按自己口味制定的形而上学定义，就能取消明敏之士依据观察并通过数学推理所确立的结论——若有这样的人，他们尽可跳过以下命题，因为这些命题与本篇主旨只有遥远的关联。（Kant 1763: AK 2: 139）[^kant-1763]
+    step2: |-
+      > 我将尝试依力学的一般定律说明世界系统的起源；所解释的不是整个自然秩序，而只是巨大的物质团块及其轨道——它们构成自然最粗陋的基底……在这项工作中，我将预设 *牛顿* 或其追随者所主张的物质普遍引力。倘若有人以为，凭一种按自家口味制定的形而上学定义，就能抹掉明眼人依观察、借数学推理所确立的结论——果真有这样的人，尽可跳过以下命题：它们与本篇主旨只有遥远的关联。（Kant 1763: AK 2: 139）[^kant-1763]
   - id: 98
     kind: body
     source: |-
       A rare case of Kantian irony, it seems. Already in this early text, Kant has clearly broken with his predecessors both in England and on the Continent, who insisted on disputing Newton’s theory of universal gravity, either on metaphysical or theological grounds. Instead, Kant’s work will be predicated on that theory. But Kant never became an orthodox Newtonian, any more than an orthodox Leibnizian (or Wolffian). This is evident from the radically different fates of two classic Newtonian concepts within the Kantian system: the idea that the theory of universal gravity shows that gravity is a feature of material bodies, along with the related concept of action at a distance, on the one hand; and absolute space, on the other. The quotation from 1763 above indicates that Kant was willing to endorse Newton’s theory of universal gravity, despite the many objections raised against it by his Leibnizian predecessors. Indeed, he was also willing to accept the most radical interpretation of that theory, one according to which every material body in the world should be understood as bearing a feature called gravity, one that involves that body in actions at a distance on all other such bodies. As Kant puts it dramatically in Proposition 7 of the second chapter of *Metaphysical Foundations of Natural Science*: “The attraction essential to all matter is an immediate action of matter on other matter through empty space” (Kant 1786 [2002: 223]; AK 4: 512)[^kant-1786][^kant-1786-2]. This view is radical in two senses: first, it involves the highly controversial claim that gravity is essential to matter, which indicates that a body lacking gravitational interactions would potentially fail to count as a material entity at all (much as an earlier generation of philosophers would conceive of extension as essential to matter); and second, it also involves the debated idea that material bodies act at a distance on one another. One can conceivably endorse the latter without endorsing the former, contending, e.g., that although material bodies in the actual world act at a distance on one another, perhaps because of a divine plan, it is perfectly *possible* for material bodies to fail to do so under distinct worldly conditions (i.e., there may be possible worlds in which material bodies lack gravity altogether). That is, the endorsement of action at a distance does not entail the endorsement of the essentiality claim. Both ideas are controversial, and Kant strongly endorses them both. This placed him in a rather select group of radical Newtonians (Friedman 1992: 1 note 2)[^friedman-1992]. Kant himself understood that Newton may not have endorsed these controversial views, arguing that he was inconsistent on this score (see Remark 2 to Proposition 7 of chapter 2, AK 4: 514–16; Friedman 2012: 203–21)[^friedman-2012]. And yet Kant strongly resisted the other most controversial Newtonian idea, absolute space, along with the related idea of absolute motion (Friedman 2012: 35–42)[^friedman-2012]. In the *Critique of Pure Reason*, for instance, Kant expressed a basically Leibnizian sympathy by arguing that there are fundamental metaphysical (and perhaps epistemic) difficulties with thinking of space and time as existing independently of all objects and all possible relations among them as “actual entities ”(*wirkliche Wesen*—A23/B37) in their own right. He does so in a passage that (perhaps confusingly) characterizes the Leibnizians as also defending a kind of realism about space, but we can focus solely on his criticism of the Newtonians:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看来这是康德式反讽的罕见一例。在这部早期文本中，康德已明确与英格兰和欧洲大陆的前辈决裂；他们坚持从形而上学或神学理由上质疑牛顿的万有引力理论。相反，康德的工作将以该理论为前提。但康德从未成为正统的牛顿派，也从未成为正统的莱布尼茨派（或沃尔夫派）。这一点从两个经典牛顿概念在康德体系内截然不同的命运便可见出：一方面是万有引力理论表明引力是物质物体之特征的观念，连同相关的超距作用概念；另一方面是绝对空间。上引 1763 年的话表明，尽管莱布尼茨派前辈对该理论提出了许多反对，康德仍愿意认可牛顿的万有引力理论。事实上，他还愿意接受该理论最激进的解释：按此解释，世界上每一物质物体都应被理解为带有一种称为引力的特征，而这一特征使该物体对一切其他此类物体发生远距作用。正如康德在《自然科学之形而上学基础》第二章命题 7 中戏剧性地表述的：“一切物质所本质具有的吸引，是物质通过虚空对别的物质的直接作用”（Kant 1786 [2002: 223]；AK 4: 512）[^kant-1786][^kant-1786-2]。这一观点在两种意义上是激进的：第一，它包含引力对物质具有本质性这一极具争议的主张，这意味着一个缺乏引力相互作用的物体可能根本算不上物质实体（正如上一代哲学家会把广延设想为物质的本质）；第二，它还包含物质物体彼此远距作用这一有争议的想法。人们可以设想认可后者而不认可前者，例如主张：尽管现实世界中的物质物体彼此远距作用（或许是出于神的计划），但在不同的世界条件下，物质物体完全*可能*不这样做（也就是说，可能存在物质物体全然缺乏引力的可能世界）。也就是说，认可超距作用并不蕴涵认可本质性主张。两个想法都有争议，而康德对两者都强力认可。这使他跻身于一个相当精粹的激进牛顿派群体（Friedman 1992: 1 note 2）[^friedman-1992]。康德本人明白，牛顿或许并不认可这些有争议的观点，并论证牛顿在这一点上前后不一（见第二章命题 7 的附释 2，AK 4: 514–16；Friedman 2012: 203–21）[^friedman-2012]。然而，康德又强力抵制另一个最具争议的牛顿式观念——绝对空间，连同相关的绝对运动观念（Friedman 2012: 35–42）[^friedman-2012]。例如，在《纯粹理性批判》中，康德表达了一种本质上是莱布尼茨式的同情，论证说：把空间与时间设想为独立于一切对象及其一切可能关系、本身即为“现实存在者”（*wirkliche Wesen*——A23/B37）而存在，会产生根本的形而上学（或许还有认识论）困难。他是在一段（或许令人困惑地）把莱布尼茨派也刻画为在捍卫某种关于空间的实在论的文字中这样做的；但我们可以只关注他对牛顿派的批评：
+    step2: |-
+      这似乎是康德少有的反讽。在这部早期著作里，康德已明确与英、欧两地的前辈分道扬镳：那些人执意从形而上学或神学的立场去质疑牛顿的万有引力理论。康德的做法反其道而行：以该理论为立论前提。然而康德从未成为正统的牛顿派，也从未成为正统的莱布尼茨派（或沃尔夫派）。两个经典牛顿概念在康德体系中的命运截然不同，由此可见一斑：一方是“万有引力理论表明引力乃物质物体之特征”的观念及相关联的超距作用；另一方是绝对空间。上引 1763 年那段话表明：尽管莱布尼茨派前辈对牛顿万有引力理论提出过种种反对，康德仍愿予以认可。他甚至愿意接受对该理论最激进的一种解释：世上每一物质物体都带有一种叫作“引力”的特征，而这一特征使它与其他一切物质物体发生远距作用。康德在《自然科学之形而上学基础》第二章命题 7 中的说法颇为醒目：“一切物质所固有的吸引，是物质经由虚空对其他物质的直接作用”（Kant 1786 [2002: 223]；AK 4: 512）[^kant-1786][^kant-1786-2]。这观点在两层意义上都算激进：其一，它主张引力对物质是本质的，极具争议——照此，一个没有引力作用的物体恐怕根本算不上物质实体（犹如上一代哲学家把广延视为物质本质）；其二，它主张物质物体彼此远距作用，同样聚讼纷纭。完全可以只认后者而不认前者：比如说，现实世界中的物质物体彼此远距作用（或许出于神意安排），但在别的世界条件下，物质物体完全*可能*不如此（即：可能存在根本无引力的物质物体的可能世界）。换言之，承认超距作用并不蕴涵承认“引力是本质”。两个想法都争议不小，康德却两者都力挺，遂跻身少数激进牛顿派之列（Friedman 1992: 1 note 2）[^friedman-1992]。康德自己也清楚，牛顿未必认可这些有争议的看法，还论证牛顿在此处自相矛盾（见第二章命题 7 附释二，AK 4: 514–16；Friedman 2012: 203–21）[^friedman-2012]。可是，对另一个争议最大的牛顿式观念——绝对空间及其相关的绝对运动——康德却坚决抵制（Friedman 2012: 35–42）[^friedman-2012]。例如《纯粹理性批判》中，康德流露出大体上是莱布尼茨式的同调：把空间和时间设想为独立于一切对象及其一切可能关系、本身即是“现实存在者”（*wirkliche Wesen*——A23/B37），会带来根本性的形而上学困难（或许还有认识论困难）。那段文字（或许令人困惑地）把莱布尼茨派也说成在维护某种空间实在论；不过我们只需看他如何批评牛顿派：
   - id: 99
     kind: body
     source: |-
       > Those, however, who assert the absolute reality of space and time, whether they assume it to be subsisting or only inhering, must themselves come into conflict with the principles of experience. For if they decide in favor of the first (which is generally the position of the mathematical investigators of nature), then they must assume two eternal and infinite self-subsisting non-entities (space and time), which exist (yet without there being anything real) only in order to comprehend everything real within themselves. (A39/B56)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 然而，那些主张空间与时间有绝对实在性的人，无论假定它们是自存的还是仅依存性的，本身都必定与经验的原则相冲突。因为若他们选择前者（这通常是自然的数学研究者的立场），他们就必须假定两个永恒而无限、自存的非存在者（空间与时间），它们存在（却没有任何实在之物）只是为了把一切实在之物包容在自身之内。（A39/B56）
+    step2: |-
+      > 可是，凡主张空间与时间具有绝对实在性的人——不论认为它们是自存的，还是只认为它们依存于事物——都必然与经验的原则相冲突。因为倘若他们取前一说法（自然的数学研究者多半如此），就得假定两个永恒而无限、自存的“非存在者”，即空间与时间；它们存在着（却无任何实在之物），只是为了把一切实在之物囊括于自身。（A39/B56）
   - id: 100
     kind: body
     source: |-
       If one regards space (like time) as existing independently of all objects and all possible relations, and yet one admits that space is causally inert and imperceptible, as one presumably must in the late eighteenth century, then one is committed to the idea that there is a kind of infinite and eternal non-entity in the world. Space is a kind of non-entity, Kant suggests, because on the one hand it is said to exist independently of everything else, and yet on the other hand, it is said to be causally inert and imperceptible, which would distinguish it from every other sort of thing that exists. Kant simply cannot stomach this metaphysically preposterous notion. It is therefore incumbent upon him to develop a theory of space (and of motion) that meets at least two distinct criteria: (1) it coheres with his understanding of the theory of universal gravity, and of what he regards as its implication, viz. that gravity is an essential feature of material bodies; and, (2) it avoids the metaphysically problematic aspects of Newtonian absolute space. Kant tackles precisely these tasks in the *Metaphysical Foundations*, which was published in between the appearance of the first and second edition of the *Critique*, arguing that we can regard absolute space as a kind of idea of reason, an ideal that we approach asymptotically in our theorizing about motion. Absolute space is therefore nothing more than a kind of ideal within our philosophy, and no longer a harmful aspect of our ontology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若人们把空间（同时间一样）视为独立于一切对象与一切可能关系而存在，却又承认空间在因果上惰性且不可知觉——在十八世纪晚期想必必须如此——那就承诺了世界上有一种永恒而无限的非存在者。康德暗示，空间是一种非存在者，因为一方面据说它独立于其他一切而存在，另一方面又说它在因果上惰性且不可知觉，而这就把它与一切其他存在之物区别开来。康德根本不能容忍这一在形而上学上荒谬的观念。因此，他有责任发展出一种至少满足两项不同标准的空间（与运动）理论：（1）它与他关于万有引力理论的理解、以及他视之为该理论蕴涵的东西（即引力是物质物体的本质特征）相一致；（2）它避免牛顿绝对空间在形而上学上成问题的方面。康德正是在《自然科学之形而上学基础》中处理这些任务；该书出版于《批判》第一版与第二版之间，他论证我们可以把绝对空间视为一种理性理念，一个我们在关于运动的理论化中渐近趋近的理想。因此，绝对空间不过是我们的哲学内部的一种理想，不再是本体论中一个有害的方面。
+    step2: |-
+      若把空间（如同时间）看作独立于一切对象与一切可能关系而存在，却又承认它在因果上无所作为、也无法知觉（十八世纪晚期恐怕只能如此），那就等于承认世上存在着一种永恒而无限的非存在者。康德暗示空间是非存在者，理由在于：一方面它据说独立于其他一切而存在，另一方面它又被说成在因果上无所作为、不可知觉——凡存在之物，唯它如此。这样形而上学上荒谬的观念，康德无论如何不能接受。于是他必须提出一套空间（以及运动）理论，至少满足两项标准：（1）与他所理解的万有引力理论及其（在他看来）蕴涵——引力乃物质物体的本质特征——相合；（2）避开牛顿绝对空间在形而上学上的麻烦之处。康德在《自然科学之形而上学基础》中正是处理这些任务；该书刊行于《批判》第一版与第二版之间，他主张可把绝对空间看作一种理性理念——一个我们在运动研究中渐近趋近的理想。这样，绝对空间在我们的哲学里只是一种理想，不再是本体论中一处有害的成分。
   - id: 101
     kind: body
     source: |-
       Newton’s influence on the development of philosophy did not end with the close of the eighteenth century. Most obviously, the concepts of absolute space and absolute motion continued to play fundamental roles in philosophical theorizing about space and motion more generally for the next two centuries, and they remain fundamental to discussions today (DiSalle 2006)[^disalle-2006]. Newton has also had a deep and lasting influence on numerous other topics in what we now call the philosophy of science, including the status of our knowledge of natural phenomena, the best ideas about scientific methodology, the status of the laws of nature, and much else besides (McMullin 2001 and Smith 2001)[^mcmullin-2001][^smith-2001]. It is no exaggeration to say that Newton has a permanent place in the history of modern philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿对哲学发展的影响并未随十八世纪的结束而终结。最明显的是，绝对空间与绝对运动的概念在此后两个世纪关于空间与运动的更一般哲学理论化中继续扮演根本角色，它们在今天仍是讨论的基础（DiSalle 2006）[^disalle-2006]。牛顿还对我们今天称为科学哲学的许多其他论题有深刻而持久的影响，包括我们关于自然现象的知识的地位、关于科学方法论的最佳观念、自然定律的地位，以及其他许多问题（McMullin 2001 and Smith 2001）[^mcmullin-2001][^smith-2001]。可以毫不夸张地说，牛顿在近代哲学史上占有永久的位置。
+    step2: |-
+      牛顿对哲学演进的影响，并未随十八世纪的终结而中止。最明显的是，绝对空间、绝对运动这两个概念，在此后两个世纪关于时空与运动的哲学研究中始终居于根本地位，至今仍是讨论的基础（DiSalle 2006）[^disalle-2006]。在今日所谓科学哲学的诸多论题上，牛顿的影响也同样深刻而久远——从我们对自然现象之知识的地位，到科学方法论的最佳构想，再到自然定律的地位，等等（McMullin 2001 and Smith 2001）[^mcmullin-2001][^smith-2001]。毫不夸张地说，牛顿在近代哲学史上占有一个永久的位置。
   - id: 102
     kind: oir
     source: |-
       - [The Newton Project](http://www.newtonproject.sussex.ac.uk/)
       - [Who Was Isaac Newton?](https://www.newton.ac.uk/about/isaac-newton/), webpage at the Isaac Newton Institute for Mathematical Sciences
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [牛顿项目](http://www.newtonproject.sussex.ac.uk/)
+      - [艾萨克·牛顿是谁？](https://www.newton.ac.uk/about/isaac-newton/)，艾萨克·牛顿数学科学研究所网页
+    step2: |-
+      - [牛顿项目](http://www.newtonproject.sussex.ac.uk/)
+      - [艾萨克·牛顿是谁？](https://www.newton.ac.uk/about/isaac-newton/)，艾萨克·牛顿数学科学研究所网页
   - id: 103
     kind: note
     source: |-
       [^note-1]: Whewell was responding to Samuel Taylor Coleridge’s plea that the members of the British Association stop calling themselves “natural philosophers,” for the scope of their research had narrowed considerably in recent years. For details, see Snyder 2011: 1–7. The first time that “scientist” was used in print was a year later, when Whewell—in an anonymous review—discussed the outcome of the British Association meeting in his review of Mary Somerville’s book, *On the Connexion of the Physical Sciences*—Whewell 1834: 59. The word ‘science,’ which derives from the Latin term ‘scientia’ (meaning, roughly, knowledge), has been in continuous use in numerous contexts since the fourteenth century, but it did not obtain its modern meaning until the mid-to-late nineteenth century. Thus the new meaning of ‘science,’ referring to the natural sciences specifically, arose roughly at the time that the word ‘scientist’ was coined (the Oxford English Dictionary has the new meaning of ‘science’ first appearing in 1867).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 惠威尔是在回应塞缪尔·泰勒·柯尔律治的请求：柯尔律治请求英国协会的成员不要再自称“自然哲学家”，因为近年来他们研究的范围已大为收窄。详情见 Snyder 2011: 1–7。“科学家”（scientist）一词首次见于印刷品是在一年之后：惠威尔在一篇匿名评论中讨论英国协会会议的结果，评论的是玛丽·萨默维尔的《论物理科学的联系》一书——Whewell 1834: 59。“科学”（science）一词源自拉丁语“scientia”（大意为知识），自十四世纪以来一直在众多语境中持续使用，但直到十九世纪中后期才获得其现代含义。因此，“科学”指专门的自然科学这一新义，大致产生于“科学家”一词被铸造的同一时期（《牛津英语词典》记载“科学”的新义最早出现于 1867 年）。
+    step2: |-
+      [^note-1]: 惠威尔此语，是在回应塞缪尔·泰勒·柯尔律治的请求：柯尔律治请英国协会的成员别再自称“自然哲学家”，因为近年他们的研究范围已大为收窄。详情见 Snyder 2011: 1–7。“科学家”（scientist）一词首次见于印本是在一年之后：惠威尔以匿名评论讨论英国协会会议的成果，评的是玛丽·萨默维尔的《论物理科学的联系》——Whewell 1834: 59。“科学”（science）一语源自拉丁文“scientia”（大意为知识），十四世纪以来在众多语境中沿用不绝，但直到十九世纪中后期才获得现代含义。所以，“科学”专指自然科学的这一新义，大约与“科学家”一词的铸造同时出现（《牛津英语词典》所记“科学”新义最早出现于 1867 年）。
   - id: 104
     kind: note
     source: |-
       [^note-2]: Two recent studies of the discipline of natural philosophy are French and Cunningham 1996 and Grant 2007. For an influential interpretation of Newton’s work in natural philosophy, see Stein 2002; see also Domski 2010, Ducheyne 2012, and Janiak 2008.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 关于自然哲学这一学科的两项晚近研究，见 French and Cunningham 1996 与 Grant 2007。关于牛顿自然哲学工作的一种有影响的解释，见 Stein 2002；另见 Domski 2010、Ducheyne 2012 与 Janiak 2008。
+    step2: |-
+      [^note-2]: 晚近关于自然哲学这一学科的两项研究，见 French and Cunningham 1996、Grant 2007。牛顿自然哲学工作的一种有影响解释，见 Stein 2002；另见 Domski 2010、Ducheyne 2012、Janiak 2008。
   - id: 105
     kind: note
     source: |-
       [^note-3]: This approach to understanding Newton’s work remains controversial among both philosophers and historians of science: for instance, see the strong criticisms of the approach in Cohen and Smith 2002: 1–4, 19, and see also Rutherford’s remarks (2006: 12–14).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 这种理解牛顿工作的进路在哲学家与科学史家之间仍有争议：例如，见 Cohen and Smith 2002: 1–4, 19 中对这一进路的强烈批评，另见 Rutherford 的评论（2006: 12–14）。
+    step2: |-
+      [^note-3]: 这一理解牛顿工作的进路，在哲学家与科学史家之间仍有争议：例如 Cohen and Smith 2002: 1–4, 19 对之批评甚烈，另见 Rutherford 的评论（2006: 12–14）。
   - id: 106
     kind: note
     source: |-
       [^note-4]: For recent accounts, see Domski 2012, which contains details of Newton’s connections to figures such as Descartes, Spinoza, Wolff and Kant. For a broader perspective on Newton’s influence on the eighteenth century, see Snobelen 2009. Cohen 1956 provides a classic account of the fate of the Newtonian method in America, focusing on Benjamin Franklin’s work on electricity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 晚近论述见 Domski 2012，其中详载牛顿与笛卡尔、斯宾诺莎、沃尔夫、康德等人物的联系。关于牛顿对十八世纪影响的更宽视野，见 Snobelen 2009。Cohen 1956 提供了牛顿方法在美洲之命运的经典论述，聚焦于本杰明·富兰克林的电学研究。
+    step2: |-
+      [^note-4]: 晚近论述见 Domski 2012，其中详载牛顿与笛卡尔、斯宾诺莎、沃尔夫、康德等人的联系。若要看牛顿对十八世纪影响的更宽视野，可参 Snobelen 2009。Cohen 1956 是论述牛顿方法在美洲之命运的经典之作，聚焦于本杰明·富兰克林的电学研究。
   - id: 107
     kind: note
     source: |-
       [^note-5]: Surprisingly, Kant declared that Rousseau was “the Newton of the mind”—for discussion, see Neiman 1994, 193-96.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: 出人意料的是，康德宣称卢梭是“心灵领域的牛顿”——讨论见 Neiman 1994, 193–96。
+    step2: |-
+      [^note-5]: 出乎意料的是，康德宣称卢梭是“心灵领域的牛顿”——讨论见 Neiman 1994, 193–96。
   - id: 108
     kind: note
     source: |-
       [^note-6]: A proposition expressing a matter of fact cannot be known to be true without appeal to experience because, unlike in the case of “relations of ideas,” the negation of the proposition is not contradictory. For discussion of Hume’s relation to Newton, with citations to the voluminous literature on that topic, see De Pierris 2012, and cf. Schliesser 2007, for a different approach.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: 表达事实的命题若不相援于经验，就无法被知道为真，因为与“观念的关系”的情形不同，该命题的否定并不矛盾。关于休谟与牛顿关系的讨论，并附关于该题目大量文献的引证，见 De Pierris 2012；另参 Schliesser 2007，其进路不同。
+    step2: |-
+      [^note-6]: 表达事实的命题，若不援引经验，就无法知其真；因为与“观念的关系”不同，这类命题的否定并不矛盾。休谟与牛顿之关系的讨论（附该题目大量文献的引证），见 De Pierris 2012；另参 Schliesser 2007，其进路有别。
   - id: 109
     kind: note
     source: |-
       [^note-7]: Newton would have been familiar with the discussion of substances in Descartes, *Principles of Philosophy*, part I: §§51–53, and with the discussion in the second replies (AT VII: 161). Newton owned the 1656 Elzevier (Amsterdam) volume *Renati Des-Cartes Opera Philosophica Editio Tertia*, which contained the *Meditations* and all the objections and replies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 牛顿应当熟悉笛卡尔《哲学原理》第一部分 §§51–53 关于实体的讨论，以及《第二组答辩》中的讨论（AT VII: 161）。牛顿藏有 1656 年埃尔泽维尔（阿姆斯特丹）版《笛卡尔哲学全集第三版》（*Renati Des-Cartes Opera Philosophica Editio Tertia*），其中包含《沉思集》及全部诘难与答辩。
+    step2: |-
+      [^note-7]: 牛顿应熟悉笛卡尔《哲学原理》第一部分 §§51–53 论实体之处，以及《第二组答辩》中的相关讨论（AT VII: 161）。他藏有 1656 年阿姆斯特丹埃尔泽维尔版《笛卡尔哲学全集第三版》（*Renati Des-Cartes Opera Philosophica Editio Tertia*），内收《沉思集》及全部诘难与答辩。
   - id: 110
     kind: note
     source: |-
       [^note-8]: See Hooke to Oldenburg, 15 Feb. 1671/2, Newton 1959–, vol. 1: 113. In recounting Newton’s theory, Hooke does mention the points about refrangibility and heterogeneity, but he thinks that Newton’s “first proposition” is “that light is a body” and that differently colored rays of light are in fact “several sorts of bodies.” I take this to represent Hooke’s interpretation of how Newton can account for the data with the theory that light consists of particles. As Newton knew, Hooke had already articulated his own theory of colors and of light’s nature as a wave in Observations IX and X in his *Micrographia* (Hooke 1665)[^hooke-1665].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: 见胡克致奥尔登堡，1671/2 年 2 月 15 日，Newton 1959–, vol. 1: 113。在转述牛顿的理论时，胡克确实提到了折射率与异质性两点，但他认为牛顿的“第一命题”是“光是一种物体”，而且不同颜色的光线实际上是“好几种物体”。我认为这代表了胡克对牛顿如何用光由微粒构成的理论来解释数据的理解。正如牛顿所知，胡克已在其《显微图志》的观察九与观察十中阐明了他自己的颜色理论以及光作为波的本性（Hooke 1665）[^hooke-1665]。
+    step2: |-
+      [^note-8]: 见胡克致奥尔登堡，1671/2 年 2 月 15 日，Newton 1959–, vol. 1: 113。胡克转述牛顿理论时，确实提到折射率与异质性两点，但他认为牛顿的“第一命题”是“光是一种物体”，而不同颜色的光线实际上是“好几种物体”。我以此代表胡克的理解：牛顿如何凭光由微粒构成的理论说明这些数据。据牛顿所知，胡克已在《显微图志》观察九与观察十中阐明自己的颜色理论，以及光作为波的本性（Hooke 1665）[^hooke-1665]。
   - id: 111
     kind: note
     source: |-
       [^note-9]: See Huygens 1888–1950, vol. 10: 602. Ignatius Pardies, another of Newton’s interlocutors, similarly found it difficult to differentiate the claim about the corporeal nature of light from Newton’s ideas concerning refrangibility and heterogeneity. See his two letters to the Royal Society concerning Newton’s work, both of which are reprinted in Newton 1978; cf. the discussion of Pardies in Sabra 1981: 264–7. Like Newton, Pardies was especially interested in the Cartesian theory of motion—see Pardies 1670, which Newton had in his personal library (Harrison 1978: 210)[^harrison-1978]—which may have influenced his views in optics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: 见 Huygens 1888–1950, vol. 10: 602。牛顿的另一位对话者伊尼亚斯·帕迪斯同样感到难以把关于光之有形本性的主张与牛顿关于折射率和异质性的观念区分开来。见他致皇家学会论牛顿工作的两封信，两信均重印于 Newton 1978；参 Sabra 1981: 264–7 关于帕迪斯的讨论。与牛顿一样，帕迪斯对笛卡尔的运动理论尤感兴趣——见 Pardies 1670，牛顿私人藏书中有此书（Harrison 1978: 210）[^harrison-1978]——这或许影响了他的光学观点。
+    step2: |-
+      [^note-9]: 见 Huygens 1888–1950, vol. 10: 602。牛顿的另一位对话者伊尼亚斯·帕迪斯同样难以把“光具形体”之说与牛顿关于折射率、异质性的观念区分开来。见他致皇家学会论牛顿工作的两封信，均重印于 Newton 1978；参 Sabra 1981: 264–7 论帕迪斯处。帕迪斯与牛顿一样，对笛卡尔的运动理论兴味尤浓——见 Pardies 1670，此书在牛顿私人藏书中（Harrison 1978: 210）[^harrison-1978]——这或许影响了他的光学见解。
   - id: 112
     kind: note
     source: |-
       [^note-10]: In his library, Newton had a 1656 Amsterdam edition of Descartes’ *Principles*, along with a 1664 London edition of the *Meditations* (Harrison 1978)[^harrison-1978]. On Newton’s relation to Descartes and to Cartesianism, see the classic treatment in the chapter “Newton and Descartes” in Koyré 1965, and cf. Stein 2002.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-10]: 牛顿藏书中有一部 1656 年阿姆斯特丹版笛卡尔《哲学原理》，以及一部 1664 年伦敦版《沉思集》（Harrison 1978）[^harrison-1978]。关于牛顿与笛卡尔及笛卡尔主义的关系，见 Koyré 1965 中“牛顿与笛卡尔”一章的经典处理，另参 Stein 2002。
+    step2: |-
+      [^note-10]: 牛顿藏书中有 1656 年阿姆斯特丹版笛卡尔《哲学原理》，以及 1664 年伦敦版《沉思集》（Harrison 1978）[^harrison-1978]。牛顿与笛卡尔及笛卡尔主义的关系，见 Koyré 1965 中“牛顿与笛卡尔”一章的经典论述；另参 Stein 2002。
   - id: 113
     kind: note
     source: |-
       [^note-11]: The text first appeared, in a transcription of the original Latin and an English translation, in Newton 1962, edited by the Halls. In the Halls’ judgment, the text is juvenile and probably originates in the period from 1664 to 1668. In an influential interpretation, Betty Jo Teeter Dobbs contends, in contrast, that the work is mature and was written in late 1684 or early 1685, while Newton was preparing the first edition of the *Principia*—see Dobbs 1991: 141–6, where she also reviews various alternative opinions on the matter. In a recent essay, Ruffner (2012) raises important doubts concerning earlier interpretations, concluding that the text must have been written before Halley’s famous visit to Newton in 1684.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-11]: 该文本首次问世，见于 Newton 1962 中由霍尔夫妇编订的拉丁原文转写与英译。据霍尔夫妇判断，该文本尚属少作，大约作于 1664 至 1668 年之间。而在一种有影响的解释中，贝蒂·乔·蒂特·多布斯则相反地主张，该作品已经成熟，写于 1684 年末或 1685 年初，即牛顿筹备《原理》第一版之时——见 Dobbs 1991: 141–6，她在此也评述了关于此事的各种不同意见。在晚近一篇论文中，Ruffner（2012）对早先的解释提出了重要疑问，结论是该文本必写于 1684 年哈雷著名造访牛顿之前。
+    step2: |-
+      [^note-11]: 该文本初见于 Newton 1962，由霍尔夫妇编订，含拉丁原文转写与英译。霍尔夫妇判断：此乃少作，约作于 1664 至 1668 年间。贝蒂·乔·蒂特·多布斯则持相反之论，颇具影响：她主张该作品已属成熟，写于 1684 年末或 1685 年初，正当牛顿筹备《原理》第一版之时——见 Dobbs 1991: 141–6，其中也评述了此事的各种异说。晚近一篇论文中，Ruffner（2012）对早先诸解提出重要疑问，结论是该文本必作于 1684 年哈雷著名造访牛顿之前。
   - id: 114
     kind: note
     source: |-
       [^note-12]: Stein presents this interpretation of Newton’s *Principia* in his classic essay, Stein 1970, which was originally a lecture given in 1967.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-12]: 斯坦在其经典论文 Stein 1970 中提出了对牛顿《原理》的这一解释；该文原是 1967 年的一次讲演。
+    step2: |-
+      [^note-12]: 斯坦对牛顿《原理》的这一解释，见其经典论文 Stein 1970；该文原是 1967 年的一次讲演。
   - id: 115
     kind: note
     source: |-
       [^note-13]: For details of More’s views, see the classic paper Gabbey 1982; for details on the Cartesian context, see the discussion in Reid 2008; and, for further discussion of the Descartes-More correspondence and its possible influence on Newton, see Janiak 2010.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-13]: 莫尔观点的详情见经典论文 Gabbey 1982；笛卡尔语境的详情见 Reid 2008 中的讨论；关于笛卡尔—莫尔通信及其对牛顿可能的影响的进一步讨论，见 Janiak 2010。
+    step2: |-
+      [^note-13]: 莫尔观点的详情，见经典论文 Gabbey 1982；笛卡尔语境的详情，见 Reid 2008 中的讨论；笛卡尔—莫尔通信及其对牛顿可能影响的进一步讨论，见 Janiak 2010。
   - id: 116
     kind: note
     source: |-
       [^note-14]: This may mean that for Newton, two substances can be co-located: for discussion, see two recent papers by Hylarie Kochiras: Kochiras 2009 and 2011.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-14]: 这可能意味着，在牛顿看来，两个实体可以共处同一位置：讨论见 Hylarie Kochiras 的两篇晚近论文：Kochiras 2009 与 2011。
+    step2: |-
+      [^note-14]: 这或许意味着，在牛顿看来两个实体可以共处一位：讨论见 Hylarie Kochiras 的两篇晚近论文，Kochiras 2009 与 2011。
   - id: 117
     kind: note
     source: |-
       [^note-15]: In the Scholium, he notes explicitly that absolute space is not perceptible (Newton 1999: 414)[^newton-1999], and in corollary five to the laws of motion (Newton 1999: 423)[^newton-1999], he indicates that a system of bodies—for instance, on a ship’s deck—will have the same motions among themselves whether the whole system is moving uniformly or is at rest. Hence he was perfectly aware that true motion is difficult to detect if it is absolute motion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-15]: 在附注中，他明确指出绝对空间不可知觉（Newton 1999: 414）[^newton-1999]；在运动定律的推论五中（Newton 1999: 423）[^newton-1999]，他指出，一个物体系统——例如在船甲板上的系统——无论整个系统作匀速运动还是静止，其内部各物体的相对运动都相同。因此，他完全清楚：若真实运动是绝对运动，就难以察觉。
+    step2: |-
+      [^note-15]: 他在附注中明言绝对空间不可知觉（Newton 1999: 414）[^newton-1999]；在运动定律推论五中（Newton 1999: 423）[^newton-1999]又指出：一个物体系统（比如船甲板上的系统），无论整体作匀速运动还是静止，系统内部诸物的相对运动都一样。可见他十分清楚：真实运动若即绝对运动，便难以察觉。
   - id: 118
     kind: note
     source: |-
       [^note-16]: Even in Newton’s home university, Cambridge, and alma mater, Trinity College, his works and ideas did not displace those of the Cartesians within the standard curriculum until roughly 1700; indeed, Cartesianism was so popular that the Vice-Chancellor of Cambridge University, Edmund Boldero, decreed in November 1688 that undergraduates could no longer base their disputations on Descartes, but had to use Aristotle instead—see Gascoigne 1985: 54–5 and 143–45.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-16]: 即便在牛顿的母校剑桥大学及其三一学院，他的著作与观念直到大约 1700 年才在标准课程中取代笛卡尔派；事实上，笛卡尔主义如此流行，以至剑桥大学副校长埃德蒙·博尔德罗于 1688 年 11 月下令，本科生不得再以笛卡尔为辩论依据，而必须改用亚里士多德——见 Gascoigne 1985: 54–5 与 143–45。
+    step2: |-
+      [^note-16]: 即便在牛顿的母校剑桥大学与三一学院，他的著作与观念也要到 1700 年前后才在标准课程中取代笛卡尔派；笛卡尔主义之盛，竟使剑桥大学副校长埃德蒙·博尔德罗于 1688 年 11 月下令：本科生不得再据笛卡尔立论，须改用亚里士多德——见 Gascoigne 1985: 54–5、143–45。
   - id: 119
     kind: note
     source: |-
       [^note-17]: Although astronomers for centuries had thought that the planetary orbits must be circular, for various important reasons, in the early seventeenth century Kepler had argued that they are in fact elliptical (although this is consistent with the idea, which became important in later contexts, that the orbits are *nearly* circular). This innovation proved to be crucial for later work in celestial mechanics. Ellipses are figures in which a straight line from the center to any arbitrary point on the surface does not describe a single radius that is equal in length to all other radii.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-17]: 尽管天文学家数世纪以来一直认为行星轨道必定是圆形的，但出于若干重要理由，开普勒在十七世纪初主张它们实际上是椭圆形的（尽管这也与“轨道*近乎*圆形”这一后来变得重要的想法相容）。这一革新对后来的天体力学工作至关重要。椭圆是这样一种图形：从中心到曲线上任一点的直线，并不构成一条与其余一切半径等长的单一半径。
+    step2: |-
+      [^note-17]: 数百年来，天文学家都以为行星轨道必为圆形；但从十七世纪初起，开普勒出于若干重要理由主张轨道实为椭圆（这与“轨道*近乎*圆形”的想法并不冲突，后者在后来变得重要）。这一革新对日后的天体力学至关重要。椭圆之为图形：自中心向曲线上任一点所作的直线，并不构成一条与其余一切半径等长的单一半径。
   - id: 120
     kind: note
     source: |-
       [^note-18]: See the “*Lectiones opticae*” of 1670 in Newton 1984, vol. 1: 86–7.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-18]: 见 Newton 1984, vol. 1: 86–7 所收 1670 年《光学讲义》（*Lectiones opticae*）。
+    step2: |-
+      [^note-18]: 见 Newton 1984, vol. 1: 86–7 所收 1670 年《光学讲义》（*Lectiones opticae*）。
   - id: 121
     kind: note
     source: |-
       [^note-19]: We owe this translation of the phrase to Alexandre Koyré, who first noted that Newton uses the word “feign” in a parallel discussion in English in 1957: 229 and 299 n. 12.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-19]: 这一短语的译法出自亚历山大·科伊雷；他最早指出，牛顿在一段平行的英文讨论中使用了“feign”（虚构）一词，见 1957: 229 与 299 页注 12。
+    step2: |-
+      [^note-19]: 这一短语的译法得自亚历山大·科伊雷；他最早指出牛顿在一段平行英文讨论中用了“feign”（虚构）一词，见 1957: 229、299 页注 12。
   - id: 122
     kind: note
     source: |-
       [^note-20]: For an influential discussion of the development in Newton’s conception of hypotheses over time, see Cohen 1966; see also the discussion in Ducheyne 2012: 58*ff*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-20]: 关于牛顿假说概念之演变的一种有影响的讨论，见 Cohen 1966；另见 Ducheyne 2012: 58*ff*。
+    step2: |-
+      [^note-20]: 牛顿假说概念之演变，其有影响的讨论见 Cohen 1966；另见 Ducheyne 2012: 58*ff*。
   - id: 123
     kind: note
     source: |-
       [^note-21]: See the *Tentamen* in Leibniz 1849, vol. 6: 149, and also Bertoloni Meli 1993: 128–9.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-21]: 见 Leibniz 1849, vol. 6: 149 中的《试探》（*Tentamen*），另见 Bertoloni Meli 1993: 128–9。
+    step2: |-
+      [^note-21]: 见 Leibniz 1849, vol. 6: 149 所收《试探》（*Tentamen*）；另见 Bertoloni Meli 1993: 128–9。
   - id: 124
     kind: note
     source: |-
       [^note-22]: Despite its importance, scholars still struggle with the proper characterization of the mechanical philosophy—see Garber and Roux 2012 for a recent series of papers on this topic. McGuire’s classic paper (1972) indicates the complexities in mechanist thinking in the seventeenth century. The *locus classicus*for contemporary discussions of mechanical thinking in modern philosophy is Marie Boas 1952. As for Newton, some deny that he accepted the mechanical philosophy (Janiak 2008)[^janiak-2008], but others argue that if properly characterized, Newton should be understood as a mechanist (Machamer, McGuire, & Kochiras 2012).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-22]: 尽管机械哲学很重要，学者们至今仍在为如何恰当刻画它而费力——见 Garber and Roux 2012 关于这一题目的晚近系列论文。麦圭尔的经典论文（1972）显示了十七世纪机械论思想的复杂性。近代哲学中机械论思想之当代讨论的*经典出处*（*locus classicus*）是 Marie Boas 1952。至于牛顿，有人否认他接受机械哲学（Janiak 2008）[^janiak-2008]，但另一些人论证，若恰当刻画，牛顿应被理解为机械论者（Machamer, McGuire, & Kochiras 2012）。
+    step2: |-
+      [^note-22]: 机械哲学虽重要，如何恰当刻画它却仍令学者为难——见 Garber and Roux 2012 论此题的一组晚近论文。麦圭尔的经典论文（1972）可见十七世纪机械论思想的复杂。近代哲学中机械论思想之当代讨论的*经典出处*（locus classicus）为 Marie Boas 1952。至于牛顿，有人否认他接受机械哲学（Janiak 2008）[^janiak-2008]，也有人主张：若刻画得当，牛顿应当算作机械论者（Machamer, McGuire, & Kochiras 2012）。
   - id: 125
     kind: note
     source: |-
       [^note-23]: This is Newton’s potentially confusing way of referring to the mass—specifically, what we would call the inertial mass—of a body. See Definition Three in the *Principia* (Newton 1999: 404–5)[^newton-1999].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-23]: 这是牛顿可能令人困惑地指称物体质量——具体说，我们今天会称为惯性质量的东西——的方式。见《原理》中的定义三（Newton 1999: 404–5）[^newton-1999]。
+    step2: |-
+      [^note-23]: 这是牛顿指称物体质量（具体说，即今所谓惯性质量）时容易令人困惑的一种说法。见《原理》定义三（Newton 1999: 404–5）[^newton-1999]。
   - id: 126
     kind: note
     source: |-
       [^note-24]: By his “readers” here, Newton apparently means the readers of the *Principia*, which had been published six years earlier, rather than Bentley, who would have been the “reader” of this letter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-24]: 牛顿此处所说的“读者”，显然是指出版于六年前的《原理》的读者，而不是本特利——本特利才是这封信的“读者”。
+    step2: |-
+      [^note-24]: 牛顿此处所谓“读者”，显然指六年前出版的《原理》的读者，而非本特利——本特利才是这封信的收信人。
   - id: 127
     kind: note
     source: |-
       [^note-25]: One of the most influential accounts is in Henry 1994. In recent years there has been a robust debate about the correspondence with Bentley in particular, and about Newton’s attitude toward action at a distance in general, with many interpreters criticizing the account in Janiak 2008, according to which Newton rejects the possibility of action at a distance. See, e.g., Ducheyne 2011, Henry 2011, and Schliesser 2011. Cf. Janiak’s reply to their criticisms in 2013, and Henry’s retort in 2014.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-25]: 最有影响的论述之一见 Henry 1994。近年来，关于尤其与本特利的通信、以及一般地牛顿对超距作用的态度，出现了激烈争论；许多解释者批评 Janiak 2008 的论述，该论述认为牛顿拒斥超距作用的可能。例见 Ducheyne 2011、Henry 2011 与 Schliesser 2011。参 Janiak 2013 对其批评的答复，以及 Henry 2014 的反驳。
+    step2: |-
+      [^note-25]: 最具影响的论述之一见 Henry 1994。近年围绕（尤其是）与本特利的通信以及牛顿对超距作用的一般态度，争论激烈；不少解释者批评 Janiak 2008 的说法，即牛顿拒斥超距作用的可能。例见 Ducheyne 2011、Henry 2011、Schliesser 2011。参 Janiak 2013 对诸批评的答复，以及 Henry 2014 的反驳。
   - id: 128
     kind: note
     source: |-
       [^note-26]: This view has been a central aspect of twentieth-century scholarship on Kant, and seems to be a common theme across various interpretive traditions. For instance, despite their obvious philosophical and fundamental political differences (Friedman 2000)[^friedman-2000], both Cassirer and Heidegger highlight Newton’s influence on Kant’s critical philosophy in particular (Cassirer 1911: vol. 2: 600 and Heidegger 1962: 52–63, 65–6, 68–71)[^cassirer-1911][^heidegger-1962].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-26]: 这一看法是二十世纪康德研究的一个核心方面，并且看来是各解释传统共同的主题。例如，尽管卡西尔与海德格尔在哲学上有明显分歧、在基本政治立场上也有根本差异（Friedman 2000）[^friedman-2000]，两人都特别强调牛顿对康德批判哲学的影响（Cassirer 1911: vol. 2: 600 与 Heidegger 1962: 52–63, 65–6, 68–71）[^cassirer-1911][^heidegger-1962]。
+    step2: |-
+      [^note-26]: 这一看法是二十世纪康德研究的一大关节，且似为各解释传统共有的主题。例如，卡西尔与海德格尔在哲学上固然分歧明显，基本政治立场亦相去甚远（Friedman 2000）[^friedman-2000]，却都特别强调牛顿对康德批判哲学的影响（Cassirer 1911: vol. 2: 600 与 Heidegger 1962: 52–63, 65–6, 68–71）[^cassirer-1911][^heidegger-1962]。
