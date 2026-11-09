@@ -224,6 +224,7 @@
 | dialectical question | — | 论辩问题 | diodorus-cronus | 学界通行（问答式论辩中的待答问题）；凭证 2026-11-07 | 2026-11-07 |
 | accessibility relation | — | 可及关系 | logic-hybrid | 模态逻辑通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Magna Graecia | — | 大希腊 | zeno-elea | 学界千年通行（南意大利希腊殖民区通名）；凭证 2026-11-09 | 2026-11-09 |
+| apologetics | — | 护教学 | gianfrancesco-pico | 基督教研究通行；正文用「基督教护教学」「护教意图」 | 2026-11-09 |
 | antinomy | — | 二律背反 | zeno-elea | 学界通行（antinomy 通译；芝诺对立论证与康德语境同词）；凭证 2026-11-09 | 2026-11-09 |
 | bootstrapping | — | 自我拔擢 | god-necessary-being | 学界通行意象译法（揪自己鞋带把自己提起）；Leftow 1990 论域 | 2026-11-09 |
 | bounded fragment | — | 有界片段 | logic-hybrid | 学界通行（bounded fragment，Areces 等）；凭证 2026-11-09 | 2026-11-09 |
@@ -1731,6 +1732,7 @@
 | cognitive science | — | 认知科学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/cognitive-science））；凭证 2026-11-04 | 2026-11-04 |
 | cloning | — | 克隆 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/cloning））；凭证 2026-11-04 | 2026-11-04 |
 | civic humanism | — | 公民人文主义 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/humanism-civic））；凭证 2026-11-04 | 2026-11-04 |
+| Gymnosophists | — | 裸形智者 | gianfrancesco-pico | 希腊文术语通行汉译（印度苦行者） | 2026-11-09 |
 | Chinese medicine | — | 中医 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/chinese-phil-medicine））；凭证 2026-11-04 | 2026-11-04 |
 | certainty | — | 确定性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/certainty））；凭证 2026-11-04 | 2026-11-04 |
 | cognitio | cognitio | 认知（经院拉丁术语） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
@@ -1855,6 +1857,7 @@
 | magokoro | 真心 | 真心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | karagokoro | 漢意（からごころ） | 汉意 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | mikunigokoro | — | 御国心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| chiromancy | — | 手相术 | gianfrancesco-pico | 西洋占术史通行 | 2026-11-09 |
 | Yamato gokoro / damashii | — | 大和心/大和魂 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | kannagara | 随神 | 随神而行 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | makoto no shintō | — | 真神道 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
@@ -1887,6 +1890,7 @@
 | Summaries of epistemology（tshad ma'i bsdus pa） | — | 量论撮要（tshad ma'i bsdus pa） | epistemology-language-tibetan | 直译+括注（bsdus pa=集要） | 2026-11-04 |
 | Collected topics（bsdus grwa） | བསྡུས་གྲྭ་ | 摄类学（bsdus grwa） | epistemology-language-tibetan | 藏传佛教院教育通译 | 2026-11-04 |
 | Treasure of Reasoning（Tshad ma rigs gter） | — | 《量理宝藏》 | epistemology-language-tibetan | 佛学界通行（萨迦班智达著作） | 2026-11-04 |
+| demon (daemon) | — | 恶魔 | gianfrancesco-pico | 学界通行；源文 daemon／demonic 同根，正文作「恶魔的」 | 2026-11-09 |
 | Pramāṇaviniścaya | प्रमाणविनिश्चय | 《量抉择论》 | epistemology-language-tibetan | 因明学通行 | 2026-11-04 |
 | non-ascertaining perception（snang la ma nges pa） | — | 显而未定识 | epistemology-language-tibetan | 藏传量论通行（七种心识之一） | 2026-11-04 |
 | post-knowledge cognition（bcad shes） | — | 已决识（bcad shes） | epistemology-language-tibetan | 藏传量论通行 | 2026-11-04 |
@@ -1905,6 +1909,7 @@
 | representationalist | — | 表象论的 | epistemology-language-tibetan | 哲学通译 | 2026-11-04 |
 | external-realist | — | 外境实在论的 | epistemology-language-tibetan | 量论文献通行 | 2026-11-04 |
 | Donation of Constantine | — | 君士坦丁的赠礼 | lorenzo-valla | 学界通行汉译（伪伊西多尔教令集文献，瓦拉辨伪；亦作“君士坦丁赠礼”备查）；待 specs/008 审定库复核 | 2026-11-04 |
+| doctrina gentium | — | 异教教义 | gianfrancesco-pico | 源文自设术语（「世间世俗的哲学」），正文保留拉丁原词并括注 | 2026-11-09 |
 | Tree of Porphyry | — | 波菲利之树 | lorenzo-valla | 逻辑学教科书通行 | 2026-11-04 |
 | terminism | — | 词项主义 | lorenzo-valla | 中世纪逻辑史学界通行（奥卡姆派语义学） | 2026-11-04 |
 | enthymeme | — | 省略三段论 | lorenzo-valla | 亚里士多德修辞学通行译名 | 2026-11-04 |
@@ -2166,13 +2171,16 @@
 | Sabellianism | — | 撒伯里乌主义 | john-italos | 教父学通行汉译（Sabellius 模态论） | 2026-11-06 |
 | tritheism | — | 三神论 | john-italos | 教父学通行汉译（τριθεΐα） | 2026-11-06 |
 | emanation | — | 流溢 | israeli | 新柏拉图主义研究通行 | 2026-11-06 |
+| magic | — | 魔法 | gianfrancesco-pico | 与 witchcraft 巫术分立（源文 magic 指仪式性法术实践） | 2026-11-09 |
 | intellection | — | 理智活动 | israeli | 阿拉伯-犹太哲学研究通行 | 2026-11-06 |
 | quiddity | — | 本质（quiddity，阿拉伯语 māhiyya） | israeli | 中世纪哲学通行 | 2026-11-06 |
 | negative theology | — | 否定神学 | israeli | 宗教哲学通行 | 2026-11-06 |
+| haruspicy | — | 肠卜术 | gianfrancesco-pico | 古代占卜史通行（亦作「脏卜术」） | 2026-11-09 |
 | akrasia | — | 意志薄弱（akrasia） | israeli | 希腊哲学通行 | 2026-11-06 |
 | vital spirit | — | 生命精气 | israeli | 中世纪医学与哲学通行 | 2026-11-06 |
 | isomorphism class | — | 同构类 | quine-nf | 范畴论/模型论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | modus considerandi | — | 考虑方式（保留拉丁） | zabarella | 学界惯例（同上）；凭证 2026-11-09 | 2026-11-09 |
+| natural religion | — | 自然宗教 | gianfrancesco-pico | 宗教哲学通行（费奇诺《论基督教》） | 2026-11-09 |
 | four kinds of inquiry | — | 四类探究 | israeli | 亚里士多德《后分析篇》研究通行 | 2026-11-06 |
 | schema | — | 图式 | schema | 审定名词库（termonline-all·行为医学名词/心理学名词作“图式”，2026-11-06 审计凭证）；逻辑学通名同形 | 2026-11-06 |
 | scheme | — | 图式（英文 scheme，与 schema 同指；正文保留原词括注） | schema | 学界惯例（塔尔斯基语境 scheme／schema 同义） | 2026-11-06 |
@@ -2197,10 +2205,13 @@
 | classical negation | — | 经典否定 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
 | declarative sentence | — | 陈述句 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
 | first-order formula | — | 一阶公式 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
+| mortalism | — | 灵魂有死论 | gianfrancesco-pico | 文艺复兴亚里士多德主义研究通行（Pomponazzi 之争） | 2026-11-09 |
 | induction principle | — | 归纳原则 | schema | 学界惯例（数学基础通行；亦作“归纳原理”） | 2026-11-06 |
 | second-order axiom | — | 二阶公理 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
 | propositional function | — | 命题函项 | schema | 学界惯例（罗素《数理哲学导论》中译通行） | 2026-11-06 |
 | string | — | 字符串 | schema | 学界惯例（计算机与数理逻辑通行） | 2026-11-06 |
+| piagnoni | — | 痛哭者 | gianfrancesco-pico | 萨伏那洛拉派自称，正文保留意大利原词并括注（学界亦作「悲叹派」） | 2026-11-09 |
+| pia philosophia | — | 虔敬哲学 | gianfrancesco-pico | 佛罗伦萨人文主义（费奇诺）术语，正文保留拉丁原词并括注 | 2026-11-09 |
 | intensional entity | — | 内涵性实体 | schema | 学界惯例（逻辑哲学通行） | 2026-11-06 |
 | relation noun | — | 关系名词 | schema | 学界惯例（语法学通行） | 2026-11-06 |
 | proper name | — | 专名 | schema | 学界惯例（语言哲学通行） | 2026-11-06 |
@@ -2266,6 +2277,7 @@
 | inertial frame | — | 惯性系 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | inertial observer | — | 惯性观察者 | spacetime-convensimul | 构词直译 | 2026-11-06 |
 | frame of reference | — | 参照系 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| geomancy | — | 土占术 | gianfrancesco-pico | 西洋占术史通行（与地理学 geomancy 异） | 2026-11-09 |
 | equivalence relation | — | 等价关系 | spacetime-convensimul | 学界惯例（数学通行） | 2026-11-06 |
 | public key cryptography | — | 公钥密码学 | qt-entangle | 密码学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | predicative component | — | 述谓成分 | reinach | 学界惯例（逻辑学与本体论通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -2710,7 +2722,7 @@
 | principles of number | — | 数的原则 | 首现（william-jevons） | 构词直译（Jevons 数之哲学）；凭证 2026-11-07 | 2026-11-07 |
 | Subaltern Studies | — | 庶民研究（subaltern 庶民） | colonialism | 学界通行（《庶民研究》丛刊引介）；凭证 2026-11-07 | 2026-11-07 |
 | civilizing mission | — | 文明使命 | colonialism | 学界通行译名（mission civilisatrice 引介文献）；凭证 2026-11-07 | 2026-11-07 |
-| Law of Nations | — | 万民法 | colonialism | 学界通行（Victoria ius gentium 传统译名）；凭证 2026-11-07 | 2026-11-07 |
+| law of nations | — | 万民法 | colonialism；cosmopolitanism 首译 | 学界通行（格劳秀斯—普芬多夫传统 ius gentium，亦见 Victoria 传统译名）；凭证 2026-11-07、2026-11-09 | 2026-11-09 |
 | ratiocinari | — | 理性推论 | 首现（telesio） | 学界惯例（拉丁推论术语；正文作「作理性结论的能力」）；凭证 2026-11-08 | 2026-11-08 |
 | terra nullius | — | 无主地 | colonialism | 学界通行拉丁语译名；凭证 2026-11-07 | 2026-11-07 |
 | stadial theory | — | 阶段论（四阶段理论） | colonialism | 学界通行（苏格兰启蒙 historiography 引介）；凭证 2026-11-07 | 2026-11-07 |
@@ -3019,6 +3031,7 @@
 | non-naturalism | — | 非自然主义 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
 | state of affairs | — | 事态 | reinach | 同上；单数形不另立译名（同词条内锁定主形）；凭证 2026-11-09 | 2026-11-09 |
 | spontaneous acts | — | 自发行为 | reinach | 学界惯例（spontane Akte 研究文献）；凭证 2026-11-09 | 2026-11-09 |
+| theory of rays | — | 光线说 | gianfrancesco-pico | 肯迪—费奇诺脉络通行（辐射论）；正文交代「术士体内发出光线」 | 2026-11-09 |
 | moral property | — | 道德属性 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
 | tropes | — | 特罗普 | reinach | 学界惯例（分析形而上学音译；亦作「殊质」）；首现括注原文；凭证 2026-11-09 | 2026-11-09 |
 | theory of deduction (Schlußlehre) | — | 推论学说 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09 | 2026-11-09 |
@@ -3310,6 +3323,19 @@
 | covenant | — | 信约 | hobbes-moral 首译 | 学界通行（霍布斯《利维坦》中译惯例）；凭证 2026-11-09 | 2026-11-09 |
 | diffidence | — | 猜忌 | hobbes-moral 首译 | 学界通行（霍布斯「竞争、猜忌、虚荣」三因之一）；凭证 2026-11-09 | 2026-11-09 |
 | vainglory | — | 虚荣 | hobbes-moral 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| flux | — | 流变 | heraclitus 首译 | 学界通行（赫拉克利特研究通行译法）；凭证 2026-11-09 | 2026-11-09 |
+| universal flux | — | 普遍流变 | heraclitus 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| unity of opposites | — | 对立统一 | heraclitus 首译 | 学界通行（亦作「对立面的统一」）；凭证 2026-11-09 | 2026-11-09 |
+| coincidence of opposites | — | 对立面的相合 | heraclitus 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| material monism | — | 物质一元论 | heraclitus 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| material monist | — | 物质一元论者 | heraclitus 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| pluralist | — | 多元论者 | heraclitus 首译 | 学界通行（与 monist 一元论者对举）；凭证 2026-11-09 | 2026-11-09 |
+| process philosophy | — | 过程哲学 | heraclitus 首译 | 学界通行（Whitehead 谱系）；凭证 2026-11-09 | 2026-11-09 |
+| kosmos | kosmos | 世界秩序（宇宙） | heraclitus 首译 | 学界通行（B30 语；正文按语境用「世界秩序」或「宇宙秩序」）；凭证 2026-11-09 | 2026-11-09 |
+| polumathiê | polumathiê | 博闻多识 | heraclitus 首译 | 学界通行（赫拉克利特 B40 语）；凭证 2026-11-09 | 2026-11-09 |
+| prêstêr | prêstêr | 火旋 | heraclitus 首译 | 学界通行（B31 气象现象；一种带火带风的暴风）；凭证 2026-11-09 | 2026-11-09 |
+| river fragments | — | 河流残篇 | heraclitus 首译 | 学界通行（B12/B49a/B91[a] 通行称谓）；凭证 2026-11-09 | 2026-11-09 |
+| sub specie aeternitatis | sub specie aeternitatis | 永恒之相 | heraclitus 首译 | 学界通行（拉丁语，斯宾诺莎用语）；凭证 2026-11-09 | 2026-11-09 |
 | zodiac (galgal hamazalot) | — | 黄道 | gersonides | 学界通行；源文括注希伯来原词 *galgal hamazalot* | 2026-11-09 |
 | predicables | — | 谓词（五谓词，praedicabilia） | william-sherwood 补登 | 中世纪逻辑通行（与 predicate 谓项分列；波爱修斯五谓） | 2026-11-09 |
 | omniscient | — | 全知的（omniscience=全知） | omniscience | 登记册既有 omniscience 全知行，按同词根取形容词形；凭证 2026-11-09 | 2026-11-09 |
@@ -3412,3 +3438,42 @@
 | panhellenism | — | 泛希腊主义 | 首译（cosmopolitanism） | 学界通行（希腊史）；凭证 2026-11-09 | 2026-11-09 |
 | anti-cosmopolitan | — | 反世界主义（的） | 首译（cosmopolitanism） | 本条术语（与 uncosmopolitan 非世界主义区分使用）；凭证 2026-11-09 | 2026-11-09 |
 | uncosmopolitan | — | 非世界主义（的） | 首译（cosmopolitanism） | 本条术语（作者刻意弱于 anti-cosmopolitan）；凭证 2026-11-09 | 2026-11-09 |
+| laws of reason | — | 理性律法 | 首译（saadya） | 学界通行（萨阿迪亚研究文献，与“启示律法”对举；源文 ‘aqliyyât 出自 ‘aql 智性）；凭证 2026-11-09 | 2026-11-09 |
+| laws of revelation | — | 启示律法 | 首译（saadya） | 学界通行（与“理性律法”对举；源文 sam‘iyyât 字面“被听见者”）；凭证 2026-11-09 | 2026-11-09 |
+| al-kabar | — | 传统（传闻） | 首译（saadya） | 萨阿迪亚术语音译义（阿拉伯语“传闻、传述”；伊本·提本译 haggadah）；正文行文用“传闻”，未造阿拉伯字母形；凭证 2026-11-09 | 2026-11-09 |
+| reliable tradition | — | 可靠传统 | 首译（saadya） | 犹太哲学研究通行（al-kabar as-sâdiq 可靠传闻）；凭证 2026-11-09 | 2026-11-09 |
+| created word | — | 受造之言 | 首译（saadya） | 犹太哲学研究通行（Saadya 预言学说 created word／divine “created” speech）；凭证 2026-11-09 | 2026-11-09 |
+| created glory | — | 受造荣耀 | 首译（saadya） | 犹太哲学研究通行（created glory，与“受造之言”并为预言之两要素）；凭证 2026-11-09 | 2026-11-09 |
+| second air | — | 第二气 | 首译（saadya） | 萨阿迪亚《创世之书注疏》术语（air 之第二种，受造荣耀别名；亦作“第二种气”）；凭证 2026-11-09 | 2026-11-09 |
+| prooftext | — | 经文引证 | 首译（saadya） | 圣经学与犹太思想研究通行（proof text 引经为证）；凭证 2026-11-09 | 2026-11-09 |
+| illuminationist | — | 照明论 | 首译（saadya） | 伊斯兰哲学通行（ishrāqī 照明哲学一路；与既有“光照说 illumination”行分立，勿混）；凭证 2026-11-09 | 2026-11-09 |
+| natural law ethics | — | 自然法伦理学 | 首译（saadya） | 伦理学通行（与“神命论”对举）；凭证 2026-11-09 | 2026-11-09 |
+| virtue theory | — | 德性论 | 首译（saadya） | 伦理学通行（virtue theory／德性伦理学）；凭证 2026-11-09 | 2026-11-09 |
+| hypostasized | — | 实体化 | 首译（saadya） | 神哲学通行（hypostasize 使成实体；与既有 hypostasis 行“位格／本体”相关而异用）；凭证 2026-11-09 | 2026-11-09 |
+| createdness | — | 受造性 | 首译（saadya） | 神哲学通行（createdness of the world 世界之受造性）；凭证 2026-11-09 | 2026-11-09 |
+| Karaite | — | 卡拉派 | 首译（saadya） | 犹太教史通行（Karaism 卡拉派，否认口传律法之约束力）；凭证 2026-11-09 | 2026-11-09 |
+| Sura Academy | — | 苏拉学院 | 首译（saadya） | 犹太教史通行（Sura 苏拉，巴比伦 geonim 时期经学院）；凭证 2026-11-09 | 2026-11-09 |
+| Sabbath | — | 安息日 | 首译（saadya） | 犹太教通行（Shabbat）；凭证 2026-11-09 | 2026-11-09 |
+| resurrection | — | 复活 | 首译（saadya） | 犹太教与基督教神学通行（techiyat ha-metim）；凭证 2026-11-09 | 2026-11-09 |
+| Babylonian Talmud | — | 《巴比伦塔木德》 | 首译（saadya） | 犹太教经典通行（与既有 Talmud 塔木德行相承）；凭证 2026-11-09 | 2026-11-09 |
+| Isaiah | — | 《以赛亚书》 | 首译（saadya） | 圣经书卷通行汉译；凭证 2026-11-09 | 2026-11-09 |
+| Zechariah | — | 《撒迦利亚书》 | 首译（saadya） | 圣经书卷通行汉译；凭证 2026-11-09 | 2026-11-09 |
+| Book of Doctrines and Beliefs | — | 《教义与信仰之书》 | 首译（saadya） | 学界通行（Saadya, Kitâb al-Amânât wal-'I‘tiqâdât 书名汉译；正文简称《阿玛纳特》）；凭证 2026-11-09 | 2026-11-09 |
+| varietas / falsitas | — | 多样性／虚假性 | gianfrancesco-pico | 源文拉丁对举，正文保留拉丁原词并括注；Gianfrancesco 论证核心 | 2026-11-09 |
+| superstition | — | 迷信 | gianfrancesco-pico | 通行 | 2026-11-09 |
+| Commentary on the Book of Creation | — | 《创世之书注疏》 | 首译（saadya） | 学界通行（Saadya, Tafsîr Kitâb al-Mabâdî 书名汉译）；凭证 2026-11-09 | 2026-11-09 |
+| world citizenship | — | 世界公民身份 | 首译（cosmopolitanism） | 学界通行（与 world citizen 世界公民同族，本条作制度/身份义）；凭证 2026-11-09 | 2026-11-09 |
+| perpetual peace | — | 永久和平 | 首译（cosmopolitanism） | 学界通行（康德《永久和平论》通行译名）；凭证 2026-11-09 | 2026-11-09 |
+| league of nations | — | 国联（诸国联盟） | 首译（cosmopolitanism） | 康德术语学界通行（Völkerbund，非 20 世纪国际联盟）；凭证 2026-11-09 | 2026-11-09 |
+| witchcraft | — | 巫术 | gianfrancesco-pico | 学界通行；与 sorcery 同译，源文二词并用 | 2026-11-09 |
+| republic of letters | — | 文人共和国 | 首译（cosmopolitanism） | 学界通行（Enlightenment 研究通用）；凭证 2026-11-09 | 2026-11-09 |
+| moral personhood | — | 道德人格 | 首译（african-ethics） | 学界惯例（非洲伦理学与人格理论通行译法）；凭证 2026-11-09 | 2026-11-09 |
+| communitarianism | — | 共同体主义 | 首译（african-ethics） | 学界通行（亦作“社群主义”；本库取共同体主义以别于“共同体”形态描述）；凭证 2026-11-09 | 2026-11-09 |
+| supererogation | — | 超义务 | 首译（african-ethics） | 伦理学界通行（supererogatory 超义务的；与“分外之事”同义）；凭证 2026-11-09 | 2026-11-09 |
+| moral neutrality | — | 道德中性 | 首译（african-ethics） | 学界惯例（道德哲学通行）；凭证 2026-11-09 | 2026-11-09 |
+| Akan | — | 阿肯语 | 首译（african-ethics） | 民族语言通行音译（加纳 Akan；人作“阿肯人”）；凭证 2026-11-09 | 2026-11-09 |
+| Ewe | — | 埃维语 | 首译（african-ethics） | 民族语言通行音译（加纳/多哥 Ewe）；凭证 2026-11-09 | 2026-11-09 |
+| Yoruba | — | 约鲁巴语 | 首译（african-ethics） | 民族语言通行音译（尼日利亚 Yoruba；人作“约鲁巴人”）；凭证 2026-11-09 | 2026-11-09 |
+| Igbo | — | 伊博语 | 首译（african-ethics） | 民族语言通行音译（尼日利亚 Igbo）；凭证 2026-11-09 | 2026-11-09 |
+| Shona | — | 绍纳语 | 首译（african-ethics） | 民族语言通行音译（津巴布韦 Shona）；凭证 2026-11-09 | 2026-11-09 |
+| South Sotho | — | 南索托语 | 首译（african-ethics） | 民族语言通行音译（莱索托/南非 Sotho）；凭证 2026-11-09 | 2026-11-09 |
