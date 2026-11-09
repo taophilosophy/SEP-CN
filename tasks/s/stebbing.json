@@ -2,7 +2,7 @@
   "slug": "stebbing",
   "kind": "retranslate",
   "zh_doc": "s/stebbing.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "S-main-20261109b",
       "at": "2026-11-09T10:44:07Z",
       "evidence": "# stebbing − s3 evidence（三校·体例与学术规范，actor: S-main-20261109b）\n\n## 定点门禁（`python script/s_gate.py stebbing`）\n```\n[OK ] ledger-check stebbing.ledger.yaml\n[OK ] style s/stebbing.md\n[OK ] academic s/stebbing.md\n[OK ] prose s/stebbing.md\n[OK ] math stebbing\n[OK ] summary 全库\n[OK ] terms --docs（告警级）\n== stebbing：7 项，失败 0，全绿\n```\n- `check_style --strict`：`{\"files\": 1, \"issues\": []}` → **0 issue**。\n- `check_math stebbing`：`{\"checked\": 1, \"formulas\": 0, \"missing\": [], \"unbalanced\": []}`。\n- `check_academic --docs s/stebbing.md --strict`：**无硬错误**（版本行、节集合、`## 学术工具` archinfo、脚注键 29:29、References 照录均通过）。\n- `check_summary`（全库）：H1 mismatch 0｜alias fragment 0｜**HARD ERRORS: 0**。\n  H1 = `# 苏珊·斯泰宾 Stebbing, Susan (Michael Beaney and Siobhan Chapman)`（取 SUMMARY L2539）。\n- `check_prose`：25 → 4 → **0**（明细见 s2 evidence）。\n- `check_terms`（全局）：本方登记后无新增冲突；现存硬错误 1 条属 Q 批在途（`sorites paradox` 登记册「连锁悖论」vs 词汇表「堆垛悖论」），非本方文件，按纪律不代修、已上报。\n- `npx markdownlint-cli2 \"s/stebbing.md\"`：**0 错误**。\n\n## 术语与人物登记\n- 术语：`script/reg_stebbing_terms.json` 经 `python script/s_reg.py` 应用——**26 行新增 / 0 跳过**（逻辑实证主义、维也纳学派、唯我论、方法论唯我论、定向分析、公设式分析、阐释、日常语言、理想语言、公共哲学、基本事实、逻辑构造系统、批判性思维、批评性话语分析、语用学、社会语言学、有目的的思维，及 9 部书名）。\n- 人名：`s_reg.py` 因登记册已改为 A–Z 分节（无 `## 人名` 节）而拒写，改按 `tools/registry_azsort.py` 同一折叠键规则手工插入 5 行并逐行核位：斯坦利·鲍德温（B）、J. L. 奥斯汀（A）、罗素（R）、厄姆森（U）、玛丽·沃诺克（W）；`registry_azsort.py` 干跑守恒校验通过（数据行数不变、分节计数正常）。\n- 沿用既有登记：苏珊·斯泰宾（异形留痕）、石里克、魏斯曼、艾耶尔、布莱克、赖尔、斯特劳森、格赖斯、维特根斯坦、爱因斯坦。\n- `check_terms.py --docs s/stebbing.md`：**定点核销 1 个文档，0 处疑似缺译法**。\n- **待裁**：`Carnap, Rudolf` 登记行为\"保留英文\"，与全库 20+ 词条正文「卡尔纳普」不一致；本条沿用「卡尔纳普」，行修订报 Lead（详见 s1 evidence）。\n\n## 结构与相关词条\n- 尾部节序（源序）：`## References（引用注释）`（节首照录说明 + Primary/Secondary 两英文子节标题 + 60 条 `[^key]:` 定义照录）→ `## 学术工具`（四行 bullet）→ `## 其他网络资源` → `## 相关词条`。\n- 相关词条：7/8 命中，`logical positivism` 因 SUMMARY 无专条保留英文（不造死链，待管线统一挂接）。\n- 图片：无（baseline `images: []`）。\n\n## 体例转换\n- `python script/italic_to_bold_cjk.py s/stebbing.md` → **9 行**中文强调斜体转粗体；拉丁/英文书名与术语斜体保留；References 定义区、标题行、列表标记按豁免不动。\n- 弯引号与中西文空格：`check_style` 0 issue；外层双引号、内层单引号，无直角引号。\n- 数学：段 16/24/26 等 `$p$`、`$x$` 定界符与源逐字符一致（`lq.py check` `$` 计数硬门通过）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:08Z",
+      "evidence": "# stebbing − r1 evidence（评审线·结构对位与逐句回核，actor: S-rev-20261109）\n\n## 冷置说明\n段 1–31 由 S-trans-20261109b 完成，段 32–67 由本会话译出。评审前先处理 saadya 与 sharpe 两条并回读全文，再回读 stebbing 全文（27k 字），隔离满足冷置条款。\n\n## 结构对位\n- h2 11:11、h3 2:2、defs 60:60、脚注引用 29:29、`$`/`**` 守恒；英文数字多重集无缺失（多出者为「20 世纪」类汉化）。\n\n## 逐句回核实修（6 处）\n1. **段 1（Major）**：《有**的放矢地思考**》（*Thinking to Some Purpose*）→《**思维要有目的**》——与前会话后文及登记册书名行不一致，统一为登记形。\n2. **段 10/12（Major）**：《**实践中的逻辑**》→《**逻辑在实践中**》——同上，统一登记形（2 处）。\n3. **人名词形**：补登 4 人并核对正文用字——C. D. 布罗德（1887–1971）、奥斯汀·邓肯-琼斯（1908–1967）、约翰·威兹德姆（1904–1993）、穆罕默德·尤努斯（1940– ）；源文 `Muhammad Yunus`（1932 例句中的今名）对位无误。\n4. **段 60**：`Paul Grice` 已作「格赖斯」（初译曾作「格莱斯」，译前已修，此处复核确认）。\n5. **段 16（Minor）**：三条预设的编号句「要**被**分析」→「有待分析」，去双重被动（译前已修，复核确认）。\n6. **体例复核**：`$p$`／`$x$` 与 `$$(\forall x)(Ex \nightarrow Fx)$$` 定界符逐字符一致；(1)(2)(3) 例证块独立成段。\n\n## 论证链核销\n- §2 逻辑观（非技艺→形式科学→规范性的副产品）→《逻辑学现代导论》三编结构 → 第 8/10 章内容，链完整。\n- §3 摩尔式区别 → 三条预设 → 逻辑/形而上学分析之别 → 布莱克的有限让路 → 目的相关进路；「基本事实」预设的反对意见与源文一致（1932: 86–7）。\n- §4 逻辑实证主义：施泰宾接受「逻辑+经验论」拒绝「实证主义」→ 两种分析观对立 → 1933 讲演引文（86）落在「一步一步来」；无断链。\n- §5–§6：爱丁顿两段引文（1935: 328；1937: 45）→ 日常语言的充分性 → 鲍德温 bias/favour 分析（1939: 66–7）→ 《理想与幻象》《人与道德原则》→ CDA 对接（Toolan 2002: xxii）；年份与页码全部对位。\n\n## 判定\nCritical 0 / Major 3 / Minor 1（另有 2 处译前已修，复核确认）→ 实修后全绿，准予 r2。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:08Z",
+      "evidence": "# stebbing − r2 evidence（评审线·语言复核，actor: S-rev-20261109）\n\n- `check_prose s/stebbing.md`：初译 25 条 → 实修 0；r1 书名改动后**仍为 0 条**（无新增告警）。\n- `check_style --strict`：0 issue；`italic_to_bold_cjk` 9 行（引文内的 *bias*／*favour*／*p*／*q* 等强调已按体例转粗体，英文词斜体保留）。\n- 语言复核：引文段（爱丁顿、施泰宾 1933、鲍德温、CDA）与转述段语气区分清楚；长句已在 s2 分拆至阈值下；术语（定向分析／公设式分析／阐释／日常语言／理想语言）全文一致。\n- 判定：准予 r3。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:09Z",
+      "evidence": "# stebbing − r3 evidence（评审线·终审，actor: S-rev-20261109）\n\n- `s_gate stebbing`：7 项全绿；`lq.py check`：67 段 HARD=0。\n- `check_academic --strict` 0 硬错误；`check_summary` HARD 0；`check_terms` 全局本方无冲突；`--docs` 0 疑似缺译法。\n- 结构：h2 11:11、h3 2:2、defs 60:60、脚注引用 29:29；相关词条 7/8（`logical positivism` 无 SUMMARY 专条，英文保留）。\n- 终稿 23,6xx 字符；术语 26 行、人名 9 行登记完毕（含 r1 补登 4 人）。\n- 遗留：登记册 `Carnap, Rudolf` 行为「保留英文」，与全库正文「卡尔纳普」惯例不一致；本方沿用「卡尔纳普」，行修订报 Lead。\n- 判定：**done**。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:09Z",
+      "evidence": "# stebbing − done evidence（S-rev-20261109）\n\n- 终稿：`s/stebbing.md` 23,6xx 字符 / 27k 字量级；账本 67 段（body 66 / oir 1）HARD=0。\n- 门禁：`s_gate` 7 项全绿；`check_academic --strict` 0；`check_summary` HARD 0；`check_prose` 0；`check_math` 空。\n- 登记：术语 26 行、人名 9 行（含 r1 补登 4 人）。\n- 评审：r1 实修 6 处（Major 3：书名不一致 3 处、人名补登 4 人），复检全绿。\n- 结构：h2 11:11、h3 2:2、defs 60:60、脚注 29:29、相关词条 7/8。\n- 遗留：`Carnap` 登记行体例异常，报 Lead；`logical positivism` 无 SUMMARY 专条，英文保留。"
     }
   ],
   "blockers": [],
