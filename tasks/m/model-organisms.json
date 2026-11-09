@@ -2,7 +2,7 @@
   "slug": "model-organisms",
   "kind": "retranslate",
   "zh_doc": "m/model-organisms.md",
-  "state": "s1_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,20 @@
       "actor": "M-main-20261109",
       "at": "2026-11-09T02:20:21Z",
       "evidence": "s1 逐段核销（104/104）：①结构全等——脚注 marker 266/unique 108/defs 107、标题 25 与 yuanwen 逐项一致；②相关词条 7/7 对 SUMMARY 核对，compose NOTE 未匹配项 1 处手工修正（genetics: genotype/phenotype distinction → 基因型/表现型的区别，据 §6.5 陷阱2 规程）；③数字核销 script/mo_s1_numbers.py 逐段比对年份/百分比，唯一差异为源文自身笔误 In a 2106 news post（Lauer 2016 博文，引注年份 2016），已按零信任加译注保留痕迹；④拉丁词元核销，译文全部拉丁词元可回溯源文（DNN/LLM/CNN 单复数、impute 术语括注、zh 图片路径）；⑤笔误修正 2 处（至起码→起码）；四检全绿。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "M-main-20261109",
+      "at": "2026-11-09T05:22:16Z",
+      "evidence": "s2 语言层修订：check_prose 47 条 → 9 条（script/mo_s2_fix1.py 清 weak-verb 7/passive-bei 3/plural-men 1；mo_s2_fix2.py 28 处长句拆分与「的」链化解；mo_s2_fix3.py 6 处）；余 9 条按 ADR-0020 逐条豁免留痕（行 79/89/111 为直接引语内部原文长句，行 93/99/101/109/203 为引语或术语列举内部的 de-chain 密度，改写即损忠实），豁免理由记入 specs/005-translation-campaign/qa-findings-2026-11-08-m-audit.md §7.6。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "M-main-20261109",
+      "at": "2026-11-09T06:47:24Z",
+      "evidence": "s3 体例三校：check_style 0 issue（含引号/空格/标记）；markdownlint 本文件 0 error（script/mo_s3_lint.py 修 MD004 列表符号 17 行、MD060 表格 compact 24 行）；MD060 与 check_style bold-spacing 在「**紧贴管道」处口径冲突，按体例门禁优先把表格标签 11 行改纯文本（script/mo_s3_tableplain.py），两门禁同时归零；check_math 0 公式无缺失/失衡；check_summary H1 0 偏差；check_academic --strict 无硬错误。体例四检全绿，交 R-main 评审线走 r1–r3。"
     }
   ],
   "blockers": [],
