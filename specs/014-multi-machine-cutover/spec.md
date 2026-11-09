@@ -14,8 +14,9 @@
 | 全量门禁耗时（SMB） | `check_all.py` 27 s（AGENTS.md 记录的本地基线 ~6 s） |
 | 最长跟踪路径 | 138 字符（`specs/008-.../results/queries/termonline-all/...json`） |
 | 绝对路径耦合 | 0（tools/specs/rules 无 `D:\SEP-CN`、无 `Desktop-m5p610n` 引用） |
-| 本机 | `DESKTOP-RLOEIG9`；C 盘余量 812 GB；`Documents` 未被 OneDrive 重定向（OneDrive 根在 `C:\Users\ykla\OneDrive`） |
-| 另一台机 | `Desktop-m5p610n`，`D:\SEP-CN` 即其本地克隆 |
+| 本机 | `DESKTOP-RLOEIG9`，**192.168.5.6**；C 盘余量 812 GB；`Documents` 未被 OneDrive 重定向（OneDrive 根在 `C:\Users\ykla\OneDrive`） |
+| 另一台机 | `Desktop-m5p610n`，**192.168.5.4**，`D:\SEP-CN` 即其本地克隆 |
+| git 作者 | 两机同为 `ykla <yklaxds@gmail.com>` —— **提交作者无法区分机器** |
 | origin | `taophilosophy/SEP-CN`（**private**），唯一异地副本 |
 
 ## 目标
@@ -38,7 +39,7 @@
 * **同步面唯一**：`origin/main`。两机都不以对方工作树为真值。
 * **push 节奏 = 三个检查点**（这是「仅必要的才 push」的可执行定义）：① 批次认领（抢锁）② 阶段推进（`campaign.py advance`）③ 条目 done 收口。其余微提交留本地。
 * **生成物冲突不手工解**：`PROGRESS.md` 冲突任取一侧后 `python tools/progress.py` 重生成；`SUMMARY.md` 取并集后 `check_summary.py`。
-* **会话 ID 加机器前缀**：`m1-…` / `m2-…`，`campaign.py status` 一眼可辨归属。
+* **机器身份以 IP 区分**（两机 git 用户名同为 `ykla`，作者名不可辨）：M1 `192.168.5.6` → 标签 `pc6`，M2 `192.168.5.4` → 标签 `pc4`。标签存于各克隆**本地配置** `git config --local ykla.machine`（不入库、不随克隆走），会话 ID 前缀取该标签（如 `pc6-c-s3-20261109`），`campaign.py status` 一眼可辨归属。DHCP 变更时以当场 `ipconfig` 为准并回写本文。
 * **记忆按路径键**：现有键 `sep-cn-33d65d943eb3eb8a` 是路径派生，迁移后新路径产生**空记忆项目**，必须人工搬运（runbook §5）。
 
 ## 职责分工
@@ -56,7 +57,7 @@ git pull --rebase origin main
 python tools/campaign.py status
 
 # 认领（抢锁后立即推，别攒）
-python tools/campaign.py claim <批> --session m1-<场景>-<日期>
+python tools/campaign.py claim <批> --session pc6-<场景>-<日期>
 git add specs/005-translation-campaign/ledger.json && git commit -m "…"
 git push
 

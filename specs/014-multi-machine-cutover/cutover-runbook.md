@@ -9,6 +9,7 @@
 
 ```bash
 cd /d/SEP-CN
+ipconfig | grep -a "IPv4" | head -1     # 本机应为 192.168.5.6（M1）；M2 为 192.168.5.4
 git log --oneline -3
 git status --porcelain | wc -l          # 必须为 0：本机在途工作先自行提交并 push
 git fetch origin && git status -sb      # 记录基点：HEAD 与 origin/main 的关系
@@ -28,6 +29,7 @@ git config user.name  ykla
 git config user.email yklaxds@gmail.com
 git config core.ignorecase true
 git config core.longpaths false          # 最长路径 178 < 260，无需开启
+git config --local ykla.machine pc6      # 机器标签：M1 = 192.168.5.6（M2 为 pc4 / 192.168.5.4）
 ```
 
 验收：
@@ -116,6 +118,7 @@ git tag batch/cutover-20261109 && git push origin batch/cutover-20261109
 D: 侧（Desktop-m5p610n）：
 
 * 原克隆保持不动，按双机协议继续（开工 pull、认领即 push）。
+* **首次开工前设一次机器标签**：`git config --local ykla.machine pc4`（本地配置，不随克隆传递）。
 * `SEP-CN-headcheck` worktree 由该机自行决定去留（与 M1 无关）。
 
 ## 7. 记录（5 分钟）
