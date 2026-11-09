@@ -203,74 +203,98 @@ segments:
     kind: body
     source: |-
       ## 4. Critical Social Theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 批判社会理论
+    step2: |-
+      ## 4 批判社会理论
   - id: 26
     kind: body
     source: |-
       *Dialectic of Enlightenment* presupposes a critical social theory indebted to Karl Marx and Max Weber. Adorno reads Marx as a Hegelian materialist whose critique of capitalism unavoidably includes a critique of the ideologies that capitalism sustains and requires. The most important of these is what Marx called “the fetishism of commodities”: “The social character of activity as well as the social form of the product, and the share of individuals in production here appear as something alien and objective”; “a definite social relation between men assumes the phantasmagoric form of a relation between things” (quoted in Rose 2024, 33)[^rose-2024]. Marx aimed his critique of commodity fetishism against bourgeois social scientists who simply describe the capitalist economy as though it were a natural reality but, in so doing, simultaneously misdescribe it and prescribe a false social vision. According to Marx, bourgeois economists necessarily ignore the exploitation intrinsic to capitalist production. They fail to understand that capitalist production, for all its surface “formal freedom” and “equality in exchange,” must extract surplus value from the coerced labor of the working class. Like ordinary producers and consumers under capitalist conditions, bourgeois economists treat the commodity as a fetish. They treat it as if it were a positively given, neutral object, with an inherent value, that directly relates to other commodities, in independence from the human interactions that actually sustain all commodities. Marx, by contrast, argues that whatever makes a product a commodity goes back to human needs, desires, and practices. The commodity would not have “use value” if it did not satisfy human wants and needs; it would not have “exchange value” if no one wished to exchange it for something else. And its exchange value could not be calculated if the commodity did not share with other commodities a “value” created by the expenditure of human labor power and measured by the socially necessary labor time that is abstracted from the average concrete labor needed to produce commodities of various sorts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《启蒙辩证法》预设了一种得自卡尔·马克思（Karl Marx）与马克斯·韦伯（Max Weber）的批判社会理论。阿多诺把马克思读作一个黑格尔式的唯物主义者：马克思对资本主义的批判，必然同时包含对资本主义所支撑、所要求的诸意识形态的批判。其中最重要的是马克思所谓的“商品拜物教”：“活动的社会性以及产品的社会形式，还有个人在生产中的份额，在这里显现为某种异己的、客观的东西”；“人与人之间确定的社会关系，采取了物与物之间关系的幻象形式”（转引自 Rose 2024, 33）[^rose-2024]。马克思把对商品拜物教的批判对准那些市民社会科学家的做法：他们把资本主义经济径直描述得仿佛一个自然实在，可与此同时，他们既在误述它，又在开列一幅虚假的社会图景。照马克思的说法，市民经济学家必然无视资本主义生产所固有的剥削。他们不明白：资本主义生产尽管表面上“形式自由”、“交换中平等”，却必须从工人阶级被强制的劳动中榨取剩余价值。同资本主义条件下的普通生产者与消费者一样，市民经济学家把商品当作拜物：把它当作一个被积极给予的、中性的对象，仿佛它自带内在价值、直接与其他商品发生关系，而独立于实际维系着一切商品的人与人的互动。马克思则相反地论证：使一个产品成为商品的 whatever，都回溯到人的需要、欲望与实践。商品若不满足人的所欲与所需，就不会有“使用价值”；若无人愿意用它交换别的东西，它就不会有“交换价值”。而它的交换价值之所以能够计算，是因为商品与其他商品共有一种“价值”——这种价值由人类劳动力的耗费所创造，由社会必要劳动时间来度量，而社会必要劳动时间正是从生产各类商品所需的平均具体劳动中抽象出来的。
+    step2: |-
+      《启蒙辩证法》预设了一种批判社会理论，其思想资源来自卡尔·马克思（Karl Marx）与马克斯·韦伯（Max Weber）。在阿多诺笔下，马克思是一位黑格尔式的唯物主义者：他对资本主义的批判，必然同时是对资本主义所支撑、所要求的诸意识形态的批判。其中最重要的，是马克思所谓的“商品拜物教”：“活动的社会性以及产品的社会形式，还有个人在生产中的份额，在这里显现为某种异己的、客观的东西”；“人与人之间确定的社会关系，采取了物与物之间关系的幻象形式”（转引自 Rose 2024, 33）[^rose-2024]。马克思把这一批判对准市民社会科学家：他们把资本主义经济描述得仿佛一件自然实在，可这样做的同时，他们既在误述它，又在兜售一幅虚假的社会图景。照马克思的说法，市民经济学家必然看不见资本主义生产固有的剥削。他们不明白：资本主义生产尽管表面上“形式自由”、“交换中平等”，却必须从工人阶级被强制的劳动中榨取剩余价值。同资本主义条件下的普通生产者与消费者一样，市民经济学家把商品当作拜物：当作一个被给予的、中性的对象，仿佛它自带内在价值、直接与其他商品相勾连，而独立于实际维系着一切商品的人与人的互动。马克思的看法恰恰相反：凡使一个产品成为商品的东西，都回溯到人的需要、欲望与实践。商品若不满足人的所欲与所需，便不会有“使用价值”；若无人愿意拿它换别的东西，便不会有“交换价值”。而交换价值之所以可以计算，是因为商品与其他商品共享一种“价值”——它由人类劳动力的耗费创造，由社会必要劳动时间度量，而社会必要劳动时间又是从生产各类商品所需的平均具体劳动中抽象出来的。
   - id: 27
     kind: body
     source: |-
       Adorno’s social theory attempts to make Marx’s central insights applicable to “late capitalism.” Although in agreement with Marx’s analysis of the commodity, Adorno thinks his critique of commodity fetishism does not go far enough. Significant changes have occurred in the structure of capitalism since Marx’s time, which require revisions on a number of topics: the dialectic between forces of production and relations of production; the relationship between state and economy; the sociology of classes and class consciousness; the nature and function of ideology; and the role of expert cultures, such as modern art and social theory, in criticizing capitalism and calling for the transformation of society as a whole.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      阿多诺的社会理论试图使马克思的核心洞见适用于“晚期资本主义”。他虽赞同马克思对商品的分析，却认为马克思对商品拜物教的批判还不够彻底。马克思的时代以来，资本主义的结构发生了重大变化，需要在若干论题上作出修正：生产力与生产关系之间的辩证法；国家与经济的关系；阶级与阶级意识的社会学；意识形态的性质与功能；以及诸专家文化——如现代艺术与社会理论——在批判资本主义、呼吁整个社会转型方面所扮演的角色。
+    step2: |-
+      阿多诺的社会理论，是要让马克思的核心洞见适用于“晚期资本主义”。他赞同马克思对商品的分析，却认为其商品拜物教批判还不够彻底。马克思的时代以来，资本主义的结构已然大变，有若干论题必须修正：生产力与生产关系之间的辩证法；国家与经济的关系；阶级与阶级意识的社会学；意识形态的性质与功能；以及诸专家文化——比如现代艺术与社会理论——在批判资本主义、呼吁整个社会转型时的角色。
   - id: 28
     kind: body
     source: |-
       The primary clues to these revisions come from a theory of reification proposed by the Hungarian philosopher Georg Lukács in the 1920s and from interdisciplinary projects and debates conducted by members of the Institute for Social Research in the 1930s and 1940s. Building on Max Weber’s theory of rationalization, Lukács argues that the capitalist economy is no longer one sector of society alongside others. Rather, commodity exchange has become the central organizing principle for all sectors of society. This allows commodity fetishism to permeate all social institutions (e.g., economic, legal, political, cultural, etc.) as well as all academic disciplines, including philosophy. “Reification” refers to the historical situation when the commodity form “becomes the universal category of society as a whole” such that “a man’s [sic] own activity, his own labor becomes something objective and independent of him, something that controls him by virtue of an autonomy alien to man” (Lukács 1971, 86, 87)[^lukács-1971].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些修正的主要线索，来自匈牙利哲学家格奥尔格·卢卡奇（Georg Lukács）1920 年代提出的一种物化理论，也来自社会研究所成员在 1930 与 1940 年代开展的跨学科项目与辩论。卢卡奇立足马克斯·韦伯的理性化理论论证：资本主义经济不再是与其他部门并立的诸多社会部门之一；毋宁说，商品交换已成为社会一切部门的核心组织原则。这使得商品拜物教得以渗透一切社会建制（经济的、法律的、政治的、文化的等等），也渗透一切学科，包括哲学。“物化”指的是这样一种历史处境：商品形式“成为整个社会的普遍范畴”，以至于“一个人[sic]自身的活动、他自己的劳动变成了某种客观的、独立于他的东西，凭借一种异于人的自主性来控制他”（Lukács 1971, 86, 87）[^lukács-1971]。
+    step2: |-
+      这些修正的主要线索有二。其一，是匈牙利哲学家格奥尔格·卢卡奇（Georg Lukács）1920 年代提出的物化理论；其二，是社会研究所成员在 1930 与 1940 年代开展的跨学科项目与辩论。卢卡奇立足马克斯·韦伯的理性化理论论证：资本主义经济不再是与其他部门并立的诸多社会部门之一；毋宁说，商品交换已成为社会一切部门的核心组织原则。于是商品拜物教得以渗透一切社会建制——经济的、法律的、政治的、文化的等等——也渗透一切学科，哲学在内。“物化”指的是这样一种历史处境：商品形式“成为整个社会的普遍范畴”，以至于“一个人[sic]自身的活动、他自己的劳动变成了某种客观的、独立于他的东西，凭借一种异于人的自主性来控制他”（Lukács 1971, 86, 87）[^lukács-1971]。
   - id: 29
     kind: body
     source: |-
       Initially Adorno shared this concern, even though he never had Lukács’s confidence that the revolutionary working class could overcome reification. Later Adorno called the reification of consciousness an “epiphenomenon”: what a critical social theory really needs to address is why hunger, poverty, and other forms of human suffering persist despite the technological and scientific potential to mitigate them or to eliminate them altogether. The root cause, Adorno says, lies in how capitalist relations of production have come to dominate society as a whole, leading to extreme, albeit often invisible, concentrations of wealth and power (1966a [1973, 189–92]). Society has come to be organized around the production of exchange values for the sake of producing exchange values, which, of course, always already requires a silent appropriation of surplus value. Adorno refers to this nexus of production and power as the “principle of exchange” (*Tauschprinzip*); society where this nexus prevails is an “exchange society” (*Tauschgesellschaft*). Adorno’s diagnosis of the exchange society has three levels: politico-economic, cultural, and social-psychological.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      起初，阿多诺与卢卡奇共享这一关切，尽管他从未像卢卡奇那样相信革命的工人阶级能够克服物化。后来，阿多诺把意识的物化称作一个“副现象”：批判社会理论真正需要回答的，是为什么饥饿、贫困与其他形式的人类苦难，在技术与社会有潜力缓解乃至彻底消除它们的情况下依然持续。阿多诺说，根源在于资本主义生产关系支配了整个社会的方式，这导致了财富与权力极端——尽管常常不可见——的集中（1966a [1973, 189–92]）。社会已经围绕为生产交换价值而生产交换价值组织起来；这当然总是已经要求对剩余价值的无声占有。阿多诺把这一生产与权力的联结称为“交换原则”（*Tauschprinzip*）；这一联结占支配地位的社会即是“交换社会”（*Tauschgesellschaft*）。阿多诺对交换社会的诊断分三个层面：政治经济的、文化的、社会心理的。
+    step2: |-
+      起初，阿多诺与卢卡奇共享这一关切，只是他从不曾像卢卡奇那样，相信革命的工人阶级能克服物化。后来，阿多诺把意识的物化称作“副现象”：批判社会理论真正要回答的是，为什么饥饿、贫困与其他形式的人类苦难，在技术与科学已有潜力缓解乃至彻底消除它们的情况下，依然持续。阿多诺说，根源在于资本主义生产关系支配整个社会的方式：它带来财富与权力极端的集中——尽管常常不可见（1966a [1973, 189–92]）。社会已经围绕“为生产交换价值而生产交换价值”组织起来；这当然总是已经要求对剩余价值的无声占有。阿多诺把这一生产与权力的联结称作“交换原则”（*Tauschprinzip*）；这一联结占支配地位的社会，就是“交换社会”（*Tauschgesellschaft*）。他对交换社会的诊断分三层：政治经济层、文化层、社会心理层。
   - id: 30
     kind: body
     source: |-
       ### 4.1 Political Economy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 政治经济学
+    step2: |-
+      ### 4.1 政治经济学
   - id: 31
     kind: body
     source: |-
       Adorno’s writings are premised on the claim that the liberal or free market capitalism characteristic of the 19ᵗʰ century has been superseded by “late” or “monopoly” capitalism – a tendency beginning with the global financial crisis of 1873, when industries and utilities consolidated into trusts, monopolies, and cartels –, and eventually “state capitalism,” as the economic “base” became increasingly coordinated with the state. The theory of “administered” or “state capitalism” was developed in a series of articles by Friedrich Pollock, an economist and Institute member who was supposed to contribute a chapter to *Dialectic of Enlightenment* but never did (Wiggershaus 1994, 313–19)[^wiggershaus-1994]. Pollock argued that during the inter-war years in fascist Germany, the Soviet Union, and welfare-state USA, planning and regulation by the state sought to administer production, distribution, and consumption, resulting in increasingly rationalized and bureaucratized political, economic, social and cultural spheres of society, and the emergence of the social category of the “mass” subject.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      阿多诺的著述以下述论断为前提：19ᵗʰ 世纪特有的自由放任的或自由市场的资本主义，已被“晚期”或“垄断”资本主义取代——这一趋势始于 1873 年的全球金融危机，当时各产业与公用事业整合为托拉斯、垄断组织与卡特尔——并最终走向“国家资本主义”，经济“基础”与国家的协调日益加深。“受管理的”或“国家的”资本主义理论，由经济学家、研究所成员弗里德里希·波洛克（Friedrich Pollock）在一系列论文中发展；他原应给《启蒙辩证法》贡献一章，却始终未曾写出（Wiggershaus 1994, 313–19）[^wiggershaus-1994]。波洛克论证：战间期的法西斯德国、苏联与福利国家美国，都由国家出面试图统筹管理生产、分配与消费，结果是政治、经济、社会与文化的诸领域日益理性化与官僚化，并出现了“大众”主体这一社会范畴。
+    step2: |-
+      阿多诺的著述立基于这样一个论断：19ᵗʰ 世纪特有的自由放任的、自由市场的资本主义，已被“晚期”或“垄断”资本主义取代——这一趋势始于 1873 年的全球金融危机，彼时各产业与公用事业整合为托拉斯、垄断组织与卡特尔——并最终走向“国家资本主义”，经济“基础”与国家的协调日益加深。“受管理的”或“国家的”资本主义理论，出自经济学家、研究所成员弗里德里希·波洛克（Friedrich Pollock）的一系列论文；他原应给《启蒙辩证法》贡献一章，却始终没有写出（Wiggershaus 1994, 313–19）[^wiggershaus-1994]。波洛克的论证是：战间期的法西斯德国、苏联与福利国家美国，国家都出面统筹生产、分配与消费；结果是政治、经济、社会、文化诸领域日趋理性化与官僚化，也催生了“大众”主体这一社会范畴。
   - id: 32
     kind: body
     source: |-
       While during the liberal stage of capitalism, the proletariat existed “half outside” society and thus for Lukács possessed the potential of class consciousness and revolutionary activity as the “subject of history,” in late capitalism society had become “totally integrated” and “societized” (*vergesellschaftet*, a concept from Weber), either in a totalitarian or democratic form (Adorno 1966b [1969]). Because “material production, distribution, consumption are administered jointly… The totality of the processes of mediation, which amounts in reality to the principle of exchange, has produced a second, deceptive immediacy. This enables people to ignore the evidence of their own eyes and forget the difference and conflict or repress it from consciousness … No overall social subject exists” (Adorno 1969a **[**2003, 124, trans. mod.]). The “integration” of society (e.g., the “safety net” in welfare-state democracies integrates the proletariat) eliminates the possibility of external or “transcendent” social critique, thus “immanent criticism” or “determinate negation” becomes Adorno’s primary method: “It is no longer possible to adopt a vantage point outside the mechanism that would enable us to give the horror a name; one can tackle it only where it is inconsistent with itself” (ibid., trans. mod.). While Pollock claimed that state capitalism effectively neutralized class conflict and softened economic crises, in the 1940s Adorno criticized him for inadequately appreciating that not only did society remain antagonistic, but that class division (based who does and does not own the means of production) and the asymmetries in political power had intensified in late capitalism, though accompanied by intensified ideological veiling that Adorno associates with fascism: “The latest phase of class society is dominated by monopolies; it tends toward fascism, the form of political organization worthy of it. While it vindicates the doctrine of class struggle with its concentration and centralization, extreme power and extreme impotence directly confronting one another in total contradiction, it makes people forget the actual existence of hostile classes … The total organization of society by big business and its ubiquitous technology has taken such utter possession of the world and the imagination that even to conceive of the idea that things might be otherwise calls for an almost hopeless effort” (Adorno 1942a [2003a, 96]; Cook 1998)[^cook-1998]. Furthermore, no appeal to basic invariant human needs (as in orthodox Marxism) can be made because needs are thoroughly societally mediated: nature and history are inextricably intertwined (Adorno 1942b [2017]). These features of integrated society under state capitalism tend to thwart the emergence of a proletarian class consciousness (Hammer 2005, 54–65; Braunstein 2023)[^braunstein-2023][^hammer-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在资本主义的自由阶段，无产阶级“半在外”地存在于社会之中，因而在卢卡奇看来握有阶级意识与革命活动的潜能，堪称“历史的主体”；而到了晚期资本主义，社会已经“彻底整合”并“社会化”（*vergesellschaftet*，来自韦伯的概念），或以极权的形式，或以民主的形式（Adorno 1966b [1969]）。由于“物质的生产、分配与消费被联合管理……诸中介过程的总体——它实际上就等于交换原则——生产出一种第二重的、欺骗性的直接性。这使人能够无视自己眼前的证据，忘记差别与冲突，或把它们从意识中压抑出去……不存在任何总体的社会主体”（Adorno 1969a **[**2003, 124, trans. mod.）。社会的“整合”（例如福利制民主国家的“安全网”整合了无产阶级）排除了外在的或“超越的”社会批判的可能，于是“内在批判”或“规定的否定”成为阿多诺的首要方法：“已不可能站在机制之外找到一个立足点，好为恐怖命名；人们只能就它与自身不一致之处着手对付它”（同上，trans. mod.）。波洛克声称国家资本主义实际上中和了阶级冲突、缓和了经济危机；1940 年代，阿多诺批评他对下述情况估计不足：社会不仅依然对立，而且阶级划分（以是否占有生产资料为准）与政治权力的不对称在晚期资本主义中愈演愈烈，只是伴随着愈发加重的意识形态遮蔽——阿多诺把这种遮蔽与法西斯主义联系起来：“阶级社会的最新阶段由垄断支配；它趋向法西斯主义，即与它相称的政治组织形式。它以其集中与集中化印证阶级斗争学说，使极端的权力与极端的无能处于全然对立的正面对峙，又使人们忘记敌对阶级的实际存在……大企业及其无处不在的技术对世界与想象的总体组织，已经如此彻底地占有世界与想象，以至于连‘事情可能是另一个样子’这一念头，都需要近乎无望的努力才能设想”（Adorno 1942a [2003a, 96]；Cook 1998）[^cook-1998]。此外，也不能再诉诸基本而恒定的人类需要（如正统马克思主义那样），因为需要已被社会彻底中介：自然与历史难解难分（Adorno 1942b [2017]）。国家资本主义之下这个整合社会的这些特征，往往挫败无产阶级阶级意识的萌生（Hammer 2005, 54–65；Braunstein 2023）[^braunstein-2023][^hammer-2005]。
+    step2: |-
+      在资本主义的自由阶段，无产阶级“半在外”地存在于社会之中，因而在卢卡奇看来握有阶级意识与革命活动的潜能，堪称“历史的主体”；到了晚期资本主义，社会却已“彻底整合”并“社会化”（*vergesellschaftet*，来自韦伯的概念），或取极权形式，或取民主形式（Adorno 1966b [1969]）。既然“物质的生产、分配与消费被联合管理……诸中介过程的总体——它实际上就等于交换原则——生产出一种第二重的、欺骗性的直接性。这使人能够无视自己眼前的证据，忘记差别与冲突，或把它们从意识中压抑出去……不存在任何总体的社会主体”（Adorno 1969a **[**2003, 124, trans. mod.）。社会的“整合”（例如福利制民主国家的“安全网”把无产阶级整合进来）排除了外在的、或“超越的”社会批判的可能；“内在批判”或“规定的否定”于是成为阿多诺的首要方法：“已不可能站在机制之外找到一个立足点，好为恐怖命名；人们只能就它与自身不一致之处着手对付它”（同上，trans. mod.）。波洛克声称，国家资本主义实际上中和了阶级冲突、缓和了经济危机。1940 年代，阿多诺批评他对下述情况估计不足：社会不仅依然对立，而且阶级划分（以是否占有生产资料为准）与政治权力的不对称在晚期资本主义愈演愈烈，只是伴随着愈发加重的意识形态遮蔽——阿多诺把这种遮蔽与法西斯主义联系起来：“阶级社会的最新阶段由垄断支配；它趋向法西斯主义，即与它相称的政治组织形式。它以其集中与集中化印证阶级斗争学说，使极端的权力与极端的无能处于全然对立的正面对峙，又使人们忘记敌对阶级的实际存在……大企业及其无处不在的技术对世界与想象的总体组织，已经如此彻底地占有世界与想象，以至于连‘事情可能是另一个样子’这一念头，都需要近乎无望的努力才能设想”（Adorno 1942a [2003a, 96]；Cook 1998）[^cook-1998]。此外，不能再像正统马克思主义那样诉诸基本而恒定的人类需要：需要已被社会彻底中介，自然与历史难解难分（Adorno 1942b [2017]）。国家资本主义之下这个整合社会的这些特征，往往挫败无产阶级阶级意识的萌生（Hammer 2005, 54–65；Braunstein 2023）[^braunstein-2023][^hammer-2005]。
   - id: 33
     kind: body
     source: |-
       ### 4.2 Culture
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 文化
+    step2: |-
+      ### 4.2 文化
   - id: 34
     kind: body
     source: |-
       The theory that the social totality is integrated includes one of early Frankfurt School’s most influential concepts, that of the “culture industry.” Orthodox Marxism held that culture, as part of the superstructure, is in some way determined by and reflects the economic base (e.g., relations of production). While ‘authentic’ modernist artworks show relatively greater autonomy from society, individually requiring cognitively exacting and affectively nuanced interpretation of their meaning (see section “Aesthetic Theory”), “Film, radio, and magazines form a system. Each branch is unanimous within itself and all are unanimous together” (1947 [2002, 94]). Produced for the masses, such products interchangeably follow the general logic of the commodity-form under late capitalism: they are planned to produce certain effects (titillation, distraction, excitement) devoid of larger significance, for their use-value has been replaced by their exchange value.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      社会总体被整合的理论，包含了早期法兰克福学派最有影响的概念之一：“文化工业”。正统马克思主义认为，文化作为上层建筑的一部分，以某种方式被经济基础（例如生产关系）决定并反映。虽然“本真的”现代主义艺术品对社会保有相对更大的自主性，各自要求认知上费力、情感上细腻的意义解读（见“美学理论”一节），但“电影、广播与杂志构成一个系统。每一分支在其内部全体一致，所有分支合起来也全体一致”（1947 [2002, 94]）。这类产品为大众而生产， interchangeable 地遵循晚期资本主义商品形式的一般逻辑：它们被计划用来制造某些效果（挑逗、消遣、刺激），而没有任何更大的意义，因为其使用价值已被交换价值取代。
+    step2: |-
+      社会总体被整合的理论，收纳了早期法兰克福学派最有影响的概念之一：“文化工业”。正统马克思主义认为，文化作为上层建筑的一部分，总以某种方式被经济基础（例如生产关系）决定并反映。诚然，“本真的”现代主义艺术品对社会保有相对更大的自主性，每一件都要求认知上费力、情感上细腻的意义解读（见“美学理论”一节）；可是“电影、广播与杂志构成一个系统。每一分支在其内部全体一致，所有分支合起来也全体一致”（1947 [2002, 94]）。这类产品为大众而生产，彼此可互换地遵循晚期资本主义商品形式的一般逻辑：计划好去制造某些效果（挑逗、消遣、刺激），不带任何更大的意义，因为其使用价值已被交换价值取代。
   - id: 35
     kind: body
     source: |-
       “Culture industry,” in stark contrast from spontaneously produced “popular” or “folk” art, primarily refers to how forms of entertainment function in mass society (1967a [1991, 100ff].): how they are rationalized and standardized in production, distribution, and consumption, according to the “cycle of manipulation and retroactive need” (1947 [2002, 95]). Because mass cultural products function as commodities, they duplicate and reinforce empirical social reality, they pursue “the idolization of the existing order” (ibid., xix): “On all sides, the borderline between culture and empirical reality becomes more and more indistinct” (1942c [1991, 61]). Under liberal capitalism there was a gap between socio-economic reality within which immanent ideology critique could be pursued. Now, cultural products simply duplicate reality, a kind of integration of ideology into the social totality, and there is less and less opportunity for straightforward immanent critique.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “文化工业”与自发生产的“流行”或“民间”艺术判然有别，主要指诸娱乐形式在大众社会中的运作方式（1967a [1991, 100ff].）：它们如何在生产、分配与消费中被理性化、被标准化，依循“操纵与回溯性需要的循环”（1947 [2002, 95]）。因为大众文化产品作为商品发挥作用，它们复制并强化经验的社会现实，追求“对现存秩序的偶像化”（同上，xix）：“四面八方，文化与经验实在之间的边界变得越来越模糊”（1942c [1991, 61]）。在自由资本主义之下，社会-经济现实之间存在间隙，内在的意识形态批判可以在此间隙中展开。如今，文化产品干脆复制现实——这是一种意识形态向社会总体的整合——直截了当的内在批判的机会越来越少。
+    step2: |-
+      “文化工业”与自发生产的“流行”或“民间”艺术判然有别；它主要指诸娱乐形式在大众社会中的运作方式（1967a [1991, 100ff].）：如何在生产、分配与消费中被理性化、被标准化，依循“操纵与回溯性需要的循环”（1947 [2002, 95]）。大众文化产品既作为商品发挥作用，便复制并强化经验的社会现实，追求“对现存秩序的偶像化”（同上，xix）：“四面八方，文化与经验实在之间的边界变得越来越模糊”（1942c [1991, 61]）。在自由资本主义之下，社会-经济现实中尚有间隙，内在的意识形态批判可在其中展开。如今，文化产品干脆复制现实——这等于把意识形态整合进社会总体——直截了当的内在批判，机会越来越少。
   - id: 36
     kind: body
     source: |-
       In the first essay Adorno wrote in the USA, “On the Fetish Character in Music and the Regression of Listening,” he develops the idea of fetish, from Marx’s commodity fetishism, in light of the workings of radio music and music recordings, which he studied while working for Paul Lazarsfeld and the Princeton Radio Project. The “fetish character” Adorno emphasized comprised the fact that hit songs are evaluated based on the profit they bring as much as the quality of the song, and the fact that consumers listen “regressively,” that is, passively to discrete sensory effects without active intellectual engagement with the product as a complex whole (1938 [1991, 32–3]). Nor is it simply a matter of culturally produced ideological blindness requiring consciousness-raising, as in the earlier stage of capitalism; consumers see through the deception but self-preservation leads them to reify themselves to better adapt to the social totality anyways. In this way too the culture industry “impedes the development of autonomous, independent individuals who judge and decide consciously for themselves” (1967a [1991,104–6]; cf. 1947 [2002, 135–6]). Subsequent commentators have sought to elaborate the cognitive and psychological complexities at work in Adorno’s account of consumers’ reception and in light of arguably changed cultural conditions (Cook 1996; Gunster 2000)[^cook-1996]. Thanks to these complexities, Horkheimer and Adorno see fleeting possibilities for resistence within the integration of culture, for instance in an archaic layer of “stubbornly purposeless” activities such as the carnivalesque energy of the circus and the absurdity in writings by authors like Mark Twain (1947 [2002, 113–114]), in inchoate gestures of self-determination in choosing among the pseudo-individualized options (Mariotti 2016)[^mariotti-2016], and in montage and other techniques of discontinuity in avant-garde film (Hansen 2012; De la Fuente 2021)[^hansen-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在阿多诺于美国写的第一篇论文《论音乐中的拜物特性与听觉的退化》中，他立足广播音乐与音乐唱片的运作——他为保罗·拉扎斯菲尔德（Paul Lazarsfeld）与普林斯顿广播研究项目工作期间对之有所研究——发展了来自马克思商品拜物教的拜物观念。阿多诺强调的“拜物特性”包含两点：流行金曲的评价既看歌曲质量、也看其带来的利润；消费者的聆听是“退行性的”，即被动地听取离散的感官效果，而不主动地以智识投入去把握作为复杂整体的产品（1938 [1991, 32–3]）。这也不单纯是文化制造的意识形态盲目、有待意识提升的问题——资本主义早期阶段是那样；消费者看穿了欺骗，但自我保存促使他们把自己物化，以便更好地适应社会总体。在这层意义上，文化工业同样“阻碍自主而独立的个体的发展，这类个体能有意识地自行判断与决定”（1967a [1991,104–6]；参看 1947 [2002, 135–6]）。后来的评论者着手阐发阿多诺关于消费者接受之说明中的认知与心理复杂性，并参照已 arguably 变化的文化条件（Cook 1996；Gunster 2000）[^cook-1996]。多亏这些复杂性，霍克海默与阿多诺在文化的整合之内看到转瞬即逝的抵抗可能：例如“顽固地无目的”活动的古老层次——马戏团狂欢式的能量、马克·吐温一类作者笔下的荒诞（1947 [2002, 113–114]）；在伪个体化的诸选项之间作选择时未成形的自决姿态（Mariotti 2016）[^mariotti-2016]；以及先锋电影中的蒙太奇与其他不连续技巧（Hansen 2012；De la Fuente 2021）[^hansen-2012]。
+    step2: |-
+      阿多诺在美国写的第一篇论文，是《论音乐中的拜物特性与听觉的退化》。他在这篇文章里发展了来自马克思商品拜物教的拜物观念，所依据的是广播音乐与音乐唱片的运作——他为保罗·拉扎斯菲尔德（Paul Lazarsfeld）与普林斯顿广播研究项目工作期间，对之有切身研究。他强调的“拜物特性”包含两点：其一，流行金曲的评价既看歌曲质量，也看其带来的利润；其二，消费者的聆听是“退行性的”——被动地听取离散的感官效果，而不主动地以智识投入去把握作为复杂整体的产品（1938 [1991, 32–3]）。这也不单纯是文化制造的意识形态盲目、有待意识提升的问题——资本主义早期阶段才如此；消费者看穿了欺骗，但自我保存促使他们把自己物化，以便更好地适应社会总体。在这层意义上，文化工业同样“阻碍自主而独立的个体的发展，这类个体能有意识地自行判断与决定”（1967a [1991,104–6]；参看 1947 [2002, 135–6]）。后来的评论者着手阐发阿多诺关于消费者接受之说明中的认知与心理复杂性，并参照已经发生——无论是否有争议——变化的文化条件（Cook 1996；Gunster 2000）[^cook-1996]。多亏这些复杂性，霍克海默与阿多诺在文化的整合之内看到转瞬即逝的抵抗可能：其一，“顽固地无目的”活动的古老层次——马戏团狂欢式的能量、马克·吐温一类作者笔下的荒诞（1947 [2002, 113–114]）；其二，在伪个体化的诸选项之间作选择时未成形的自决姿态（Mariotti 2016）[^mariotti-2016]；其三，先锋电影中的蒙太奇与其他不连续技巧（Hansen 2012；De la Fuente 2021）[^hansen-2012]。
   - id: 37
     kind: body
     source: |-
