@@ -2,8 +2,16 @@
   "slug": "music",
   "kind": "retranslate",
   "zh_doc": "m/music.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T09:32:41Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:10Z",
   "version_pin": {

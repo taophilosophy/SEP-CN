@@ -2,7 +2,7 @@
   "slug": "cosmopolitanism",
   "kind": "retranslate",
   "zh_doc": "c/cosmopolitanism.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,13 @@
       "actor": "C-main-20261109b",
       "at": "2026-11-09T09:02:55Z",
       "evidence": "账本 71 段双版齐（body 70+oir 1，HARD=0，SOFT 仅斜体→书名号与 5 个机械段）；compose 35,189 字符；接手前 28 段 step2 文言体已按 rules/02 白话标尺全数重写（同 J 批 justus-lipsius 先例），引号 250 处「」→“”归一（conv_quotes 前置门：配对+去引号后逐字符身份一致）；四检 style 0/math 0 缺/academic 0 硬，prose 56 条待 s2"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T09:32:21Z",
+      "evidence": "回源逐节核销 71 段/3 节 10 小节：节集合与编号 7:7（h2）、10:10（h3）全等；脚注键 118:118 逐键一致、定义区齐；参考文献 118 条照录（无中国文献，ADR-0011 不触发）；pubinfo 逐字对照一致。问题分级：Critical 0、Major 0、Minor 10（world ‘cosmopolitan’ 词性归位、clustered around 误读‘身边’、paternalism 主形家长主义、historically uninformed 直译硬、de-chain 主语断裂 2、括号引语嵌套 1 等，逐处手改）。相关词条 3 项英文残留（Chrysippus/Cynics/Diogenes of Sinope）回 SUMMARY 核对无对应条目，按模板 §6.5 保留中文译名待挂链；无年份作者括注（Nielsen, Cabrera）（Pogge）按引用组照录。源页缺陷 1：第 60 段 (c) 括号源文未闭合，译文补全留痕。四检 style 0 / math 0 / academic 0 硬 / terms 0 硬"
     }
   ],
   "blockers": [],
