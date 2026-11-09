@@ -2,7 +2,7 @@
   "slug": "ingarden",
   "kind": "retranslate",
   "zh_doc": "i/ingarden.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "I-main-20261108",
       "at": "2026-11-08T14:15:39Z",
       "evidence": "三校全绿：style 0 / academic 硬 0 / render 0 / summary HARD 0 / math 0，五项结构对账通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T23:57:06Z",
+      "evidence": "r1 初审：通读成稿 228 行；实修 2 处——《语言的文学作品》→《语言的艺术作品》（Das sprachliche Kunstwerk）、删源端空分类标题 4 个（Select Works/Other Works Cited；kierkegaard 先例，节差 4 留痕）；版本行 2026-06-11 对源 pubinfo 核销"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T23:57:06Z",
+      "evidence": "r2 复审：§2.2 四种依赖环节（偶存/派生/不可分离/他律）与四种存在方式、§3.1 四层结构逐句回核；建筑作品双重奠基段与源文对位；marker 17:17、defs 77:77"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T23:57:07Z",
+      "evidence": "r3 终审：四项定点绿（style 0／academic 硬 0／prose 0／math 0）+ 对账（marker 17:17、defs 77:77、年份差 1 为版本行、节差 4 为源端空标题不镜像）；人名柏格森补登；冷置回读签字"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T23:57:07Z",
+      "evidence": "I 批 s3 存量收口：55 段守恒、成稿 49668 字符、六道留痕齐备；done"
     }
   ],
   "blockers": [],
