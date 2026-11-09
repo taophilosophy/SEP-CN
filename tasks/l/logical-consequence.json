@@ -2,7 +2,7 @@
   "slug": "logical-consequence",
   "kind": "retranslate",
   "zh_doc": "l/logical-consequence.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-09T12:42:07Z",
       "evidence": "术语 38 行、人名 23 行登记（逻辑后承/形式性/规范证明/挤压论证/簇概念等；与既有 4 术语、8 人名并行合并）；check_terms 硬错误 0、冲突 0，6 告警逐条裁定（强调标记分隔登记主形 5、置换不变性省「性」1）；style 0；check_math 缺失 0（unbalanced 1 为源 HTML 未闭合定界符告警，非译文缺失）；academic --strict 0；check_summary H1 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T13:12:28Z",
+      "evidence": "对照 yuanwen 逐节核销：编号节 5 全序、h3 3 节对位、脚注 71 键闭环、引用 36 键、$ 242=242、公式 121 条 0 缺失；问题分级 Critical 0/Major 0/Minor 1（prose 引语内 de-chain，已判定豁免）；标题「逻辑蕴含」误译已在 s1 纠正为「逻辑后承」并同步 SUMMARY/mu-lu-s/别名行"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T13:12:28Z",
+      "evidence": "逐句回核 80 段：术语漂移 0（逻辑后承/形式性/规范证明/挤压论证/簇概念/结构规则）；年份与人名（Tarski 1935/1936、Prior 1960、Kreisel 1967、Etchemendy 1990、Carnap 1943）逐处核对；check_prose 1 引语豁免、check_terms 硬错误 0；顺手修复登记册他人遗留重复行 Plotinus（合并 2187/3042，已在提交说明留痕）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T13:12:29Z",
+      "evidence": "冷置后回读（中间完成 lvov-warsaw 段 1–20 实质译写）；结构终验：5 编号节 + 3 小节省略/对位、尾节齐备有序；H1 与 SUMMARY 新行逐字一致；四检全绿：style 0、prose 1 豁免、math 缺失 0、academic --strict 0、check_terms 硬错误 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T13:12:30Z",
+      "evidence": "r1–r3 全过，冷置条款满足；验收判据全部通过"
     }
   ],
   "blockers": [],
