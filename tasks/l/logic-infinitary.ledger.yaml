@@ -640,129 +640,173 @@ segments:
     kind: body
     source: |-
       > Craig Interpolation Theorem: If σ,τ ∈ Sent(ω₁,ω) are such that ⊨ σ → τ, then there is θ ∈ Sent(ω₁,ω) such that ⊨ σ → θ and ⊨ θ → τ, and each extralogical symbol occurring in θ occurs in both σ and τ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > Craig 插值定理：若 σ,τ ∈ Sent(ω₁,ω) 满足 ⊨ σ → τ，则存在 θ ∈ Sent(ω₁,ω)，使 ⊨ σ → θ 且 ⊨ θ → τ，并且 θ 中出现的每个非逻辑符号都在 σ 与 τ 中出现。
+    step2: |-
+      > Craig 插值定理：若 σ,τ ∈ Sent(ω₁,ω) 满足 ⊨ σ → τ，则存在 θ ∈ Sent(ω₁,ω)，使 ⊨ σ → θ、⊨ θ → τ，且 θ 中出现的每个非逻辑符号都在 σ 与 τ 中出现。
   - id: 72
     kind: body
     source: |-
       The proof is a reasonably straightforward extension of the first-order case.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      证明是一阶情形的合理直接推广。
+    step2: |-
+      证明是一阶情形的合理直接推广。
   - id: 73
     kind: body
     source: |-
       Finally, we mention one further result which generalizes nicely to L(ω₁,ω) but to no other infinitary language. It is well known that, if *A* is any finite L-structure with only finitely many relations, there is an L-sentence σ characterizing *A* up to isomorphism. For L(ω₁,ω) we have the following generalization known as
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，我们提一个可漂亮地推广到 L(ω₁,ω)、但不能推广到其他任何无穷语言的结果。众所周知，若 *A* 是任何只有有穷多个关系的又穷 L-结构，则存在一个在同构意义上刻画 *A* 的 L-句子 σ。对 L(ω₁,ω)，我们有如下推广，称为
+    step2: |-
+      最后再提一个能漂亮地推广到 L(ω₁,ω)、却推不到其他任何无穷语言的结果。众所周知，若 *A* 是只有有穷多个关系的有穷 L-结构，就存在 L-句子 σ 在同构意义上刻画 *A*。对 L(ω₁,ω) 有下述推广，称为
   - id: 74
     kind: body
     source: |-
       > Scott's Isomorphism Theorem. If *A* is a countable L-structure with only countably many relations, then there is an L(ω₁,ω)-sentence whose class of countable models coincides with the class of L-structures isomorphic with *A*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > Scott 同构定理。若 *A* 是只有可数多个关系的可数 L-结构，则存在一个 L(ω₁,ω)-句子，其可数模型类恰好是与 *A* 同构的 L-结构类。
+    step2: |-
+      > Scott 同构定理。若 *A* 是只有可数多个关系的可数 L-结构，则存在 L(ω₁,ω)-句子，其可数模型类恰好是与 *A* 同构的 L-结构类。
   - id: 75
     kind: body
     source: |-
       The restriction to *countable* structures is essential because countability cannot in general be expressed by an L(ω₁,ω)-sentence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      限制在 *可数* 结构上是本质性的，因为可数性一般不能由 L(ω₁,ω)-句子表达。
+    step2: |-
+      限制在 *可数* 结构上是本质性的：可数性一般无法用 L(ω₁,ω)-句子表达。
   - id: 76
     kind: body
     source: |-
       The language L(∞,ω) may also be counted as a finite-quantifier language. The concept of equivalence of structures with respect to this language is of especial significance: we call two (similar) structures *A* and *B* (∞,ω)-*equivalent*, written *A* ≡_{∞ω} *B*, if the same sentences of L(∞,ω) hold in both *A* and *B*. This relation can, first of all, be characterized in terms of the notion of partial isomorphism. A *partial isomorphism* between *A* and *B* is a nonempty family *P* of maps such that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      语言 L(∞,ω) 也可算作有穷量词语言。相对于这种语言的结构等价概念特别重要：若两个（相似的）结构 *A* 与 *B* 中成立相同的 L(∞,ω) 句子，我们称它们 (∞,ω)-*等价*，记作 *A* ≡_{∞ω} *B*。这个关系首先可以用部分同构概念来刻画。*A* 与 *B* 之间的 *部分同构* 是一个非空映射族 *P*，使得：
+    step2: |-
+      语言 L(∞,ω) 也可算有穷量词语言。相对于它的结构等价概念格外重要：若两个（相似）结构 *A*、*B* 中成立的 L(∞,ω) 句子完全相同，就称它们 (∞,ω)-*等价*，记作 *A* ≡_{∞ω} *B*。这个关系首先可用部分同构来刻画。*A* 与 *B* 间的 *部分同构*，是一个非空映射族 *P*，满足：
   - id: 77
     kind: body
     source: |-
       - For each *p* ∈ *P*, dom(*p*) is a substructure of *A*, ran(*p*) is a substructure of B, and *p* is an isomorphism of its domain onto its range; and
       - If *p* ∈ *P*, *a* ∈ *A*, *b* ∈ *B*, then there exist *r*, *s* ∈ *P* both extending *p* such that *a* ∈ dom(*r*), *b* ∈ ran(*s*) (“back and forth” property).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 对每个 *p* ∈ *P*，dom(*p*) 是 *A* 的子结构，ran(*p*) 是 B 的子结构，且 *p* 是其定义域到值域的同构；并且
+      - 若 *p* ∈ *P*，*a* ∈ *A*，*b* ∈ *B*，则存在都扩张 *p* 的 *r*, *s* ∈ *P*，使得 *a* ∈ dom(*r*)，*b* ∈ ran(*s*)（“来回”性质）。
+    step2: |-
+      - 对每个 *p* ∈ *P*，dom(*p*) 是 *A* 的子结构，ran(*p*) 是 B 的子结构，且 *p* 是其定义域到值域的同构；
+      - 若 *p* ∈ *P*，*a* ∈ *A*，*b* ∈ *B*，则存在都扩张 *p* 的 *r*, *s* ∈ *P*，使 *a* ∈ dom(*r*)、*b* ∈ ran(*s*)（“来回”性质）。
   - id: 78
     kind: body
     source: |-
       If a partial isomorphism exists between *A* and *B*, we say that *A* and *B* are partially isomorphic and write *A* ≅_{*p*} B. We then have
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *A* 与 *B* 之间存在部分同构，我们说 *A* 与 *B* 部分同构，记作 *A* ≅_{*p*} B。于是有
+    step2: |-
+      若 *A* 与 *B* 间存在部分同构，就说它们部分同构，记作 *A* ≅_{*p*} B。于是有
   - id: 79
     kind: body
     source: |-
       > Karp's Partial Isomorphism Theorem. For any similar structures *A*, *B*, *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*p*} *B*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > Karp 部分同构定理。对任何相似结构 *A*, *B*，*A* ≡_{∞ω} *B* ⇔ *A* ≅_{*p*} *B*。
+    step2: |-
+      > Karp 部分同构定理。对任何相似结构 *A*, *B*，*A* ≡_{∞ω} *B* ⇔ *A* ≅_{*p*} *B*。
   - id: 80
     kind: body
     source: |-
       There is also a version of Scott's isomorphism theorem for L(∞,ω), namely,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对 L(∞,ω) 也有 Scott 同构定理的一个版本，即
+    step2: |-
+      L(∞,ω) 也有 Scott 同构定理的一个版本：
   - id: 81
     kind: body
     source: |-
       > (2.2) Given any structure *A*, there is an L(∞,ω)-sentence σ such that, for all structures *B*, *A* ≅_{*p*} *B* ⇔ *B* ⊨ σ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (2.2) 给定任何结构 *A*，存在 L(∞,ω)-句子 σ，使得对所有结构 *B*，*A* ≅_{*p*} *B* ⇔ *B* ⊨ σ。
+    step2: |-
+      > (2.2) 给定任何结构 *A*，存在 L(∞,ω)-句子 σ，使得对所有结构 *B*，*A* ≅_{*p*} *B* ⇔ *B* ⊨ σ。
   - id: 82
     kind: body
     source: |-
       Partial isomorphism and (∞,ω)-equivalence are related to the notion of *Boolean isomorphism*. To define this we need to introduce the idea of a Boolean-valued model of set theory. Given a complete Boolean algebra *B*, the *universe* *V*^{(*B*)} *of B-valued sets*, also known as the *B-extension of the universe V of sets*, is obtained by first defining, recursively on α,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      部分同构与 (∞,ω)-等价同 *布尔同构* 概念相关。为定义它，需要引入集合论的布尔值模型。给定完全布尔代数 *B*，*B*-值集合的 *全域* *V*^{(*B*)}（也称为 *集合全域 V 的 B-扩张*）的构造，先按 α 递归定义
+    step2: |-
+      部分同构与 (∞,ω)-等价还同 *布尔同构* 有关。为此要引入集合论的布尔值模型。给定完全布尔代数 *B*，*B*-值集合的 *全域* *V*^{(*B*)}（也叫 *集合全域 V 的 B-扩张*）这样构造：先按 α 递归定义
   - id: 83
     kind: body
     source: |-
       > *V*_{α}^{(*B*)} = {*x*: *x* is a function ∧ range(*x*) ⊆ *B* ∧ ∃ξ<α[domain(*x*) ⊆ *V*_{ξ}^{(*B*)}]}
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *V*_{α}^{(*B*)} = {*x*: *x* is a function ∧ range(*x*) ⊆ *B* ∧ ∃ξ<α[domain(*x*) ⊆ *V*_{ξ}^{(*B*)}]}
+    step2: |-
+      > *V*_{α}^{(*B*)} = {*x*: *x* is a function ∧ range(*x*) ⊆ *B* ∧ ∃ξ<α[domain(*x*) ⊆ *V*_{ξ}^{(*B*)}]}
   - id: 84
     kind: body
     source: |-
       and then setting
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然后令
+    step2: |-
+      然后令
   - id: 85
     kind: body
     source: |-
       > *V*^{(*B*)} = {*x*: ∃α(*x* ∈ *V*_{α}^{(*B*)})}.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *V*^{(*B*)} = {*x*: ∃α(*x* ∈ *V*_{α}^{(*B*)})}.
+    step2: |-
+      > *V*^{(*B*)} = {*x*: ∃α(*x* ∈ *V*_{α}^{(*B*)})}.
   - id: 86
     kind: body
     source: |-
       Members of *V*^{(*B*)} are called *B-valued sets*. It is now easily seen that a *B*-valued set is precisely a *B*-valued function with domain a set of *B*-valued sets. Now let L be the first-order language of set theory and let L^{(*B*)} be the language obtained by adding to L a name for each element of *V*^{(*B*)} (we shall use the same symbol for the element and its name). One can now construct a mapping [·]^{(*B*)} of the (sentences of the) language L^{(*B*)} into *B*: for each sentence σ of L^{(*B*)}, the element [σ]^{(*B*)} of *B* is the “Boolean truth value” of σ in *V*^{(*B*)}. This mapping [·]^{(*B*)} is defined so as to send all the theorems of Zermelo-Fraenkel set theory to the top element 1 of *B*, i.e., to “truth”; accordingly, *V*^{(*B*)} may be thought of as a *Boolean-valued model of set theory*. In general, if [σ]^{(*B*)} = 1, we say that σ is *valid* in *V*^{(*B*)}, and write *V*^{(*B*)} ⊨ σ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *V*^{(*B*)} 的成员称为 *B*-值集合。现在容易看出，*B*-值集合恰好是定义域为 *B*-值集合之集的 *B*-值函数。设 L 是集合论的一阶语言，L^{(*B*)} 是在 L 上为 *V*^{(*B*)} 的每个元素添加一个名称所得的语言（元素与其名称用同一符号）。现在可以构造 L^{(*B*)}（的句子）到 *B* 的映射 [·]^{(*B*)}：对 L^{(*B*)} 的每个句子 σ，*B* 的元素 [σ]^{(*B*)} 是 σ 在 *V*^{(*B*)} 中的“布尔真值”。这个映射 [·]^{(*B*)} 的定义，使策梅洛–弗兰克尔集合论的所有定理都送到 *B* 的顶元 1，即“真”；于是 *V*^{(*B*)} 可以看作集合论的 *布尔值模型*。一般地，若 [σ]^{(*B*)} = 1，我们说 σ 在 *V*^{(*B*)} 中 *有效*，记作 *V*^{(*B*)} ⊨ σ。
+    step2: |-
+      *V*^{(*B*)} 的成员叫 *B*-值集合。现在容易看出，*B*-值集合恰好是定义域为 *B*-值集合之集的 *B*-值函数。设 L 是集合论的一阶语言，L^{(*B*)} 是在 L 上为 *V*^{(*B*)} 的每个元素加一个名称所得的语言（元素与其名称用同一符号）。于是可构造 L^{(*B*)}（句子）到 *B* 的映射 [·]^{(*B*)}：对 L^{(*B*)} 的每个句子 σ，*B* 中元素 [σ]^{(*B*)} 就是 σ 在 *V*^{(*B*)} 中的“布尔真值”。这个映射把策梅洛–弗兰克尔集合论的一切定理都送到 *B* 的顶元 1，即“真”；因此 *V*^{(*B*)} 可看作集合论的 *布尔值模型*。一般地，若 [σ]^{(*B*)} = 1，就说 σ 在 *V*^{(*B*)} 中 *有效*，记作 *V*^{(*B*)} ⊨ σ。
   - id: 87
     kind: body
     source: |-
       Now each *x* ∈ *V* has a canonical representative *x* in *V*^{(*B*)}, satisfying
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在每个 *x* ∈ *V* 在 *V*^{(*B*)} 中都有一个典范代表 *x*，满足
+    step2: |-
+      现在每个 *x* ∈ *V* 在 *V*^{(*B*)} 中都有典范代表 *x*，满足
   - id: 88
     kind: body
     source: |-
       > *x* = *y* iff *V*^{(*B*)} ⊨ *x* = *y* *x* ∈ *y* iff *V*^{(*B*)} ⊨ *x* ∈ *y*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *x* = *y* iff *V*^{(*B*)} ⊨ *x* = *y* *x* ∈ *y* iff *V*^{(*B*)} ⊨ *x* ∈ *y*
+    step2: |-
+      > *x* = *y* iff *V*^{(*B*)} ⊨ *x* = *y* *x* ∈ *y* iff *V*^{(*B*)} ⊨ *x* ∈ *y*
   - id: 89
     kind: body
     source: |-
       We say that two similar structures *A*, *B* are Boolean isomorphic, written *A* ≅_{*b*} *B*, if, for some complete Boolean algebra *B*, we have *V*^{(*B*)} ⊨ *A* ≅ *B*, that is, if there is a Boolean extension of the universe of sets in which the canonical representatives of *A* and *B* are isomorphic with Boolean value 1. It can then be shown that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们说两个相似结构 *A*, *B* 布尔同构，记作 *A* ≅_{*b*} B，如果对某个完全布尔代数 *B*，有 *V*^{(*B*)} ⊨ *A* ≅ *B*；也就是说，如果存在集合全域的一个布尔扩张，其中 *A* 与 *B* 的典范代表以布尔值 1 同构。于是可以证明：
+    step2: |-
+      称两个相似结构 *A*、*B* 布尔同构，记作 *A* ≅_{*b*} B，如果对某个完全布尔代数 *B* 有 *V*^{(*B*)} ⊨ *A* ≅ *B*——也就是说，集合全域的某个布尔扩张里，*A* 与 *B* 的典范代表以布尔值 1 同构。于是可以证明：
   - id: 90
     kind: body
     source: |-
       > (2.3) *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*b*} *B*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (2.3) *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*b*} *B*。
+    step2: |-
+      > (2.3) *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*b*} *B*。
   - id: 91
     kind: body
     source: |-
       This result can be strengthened through category-theoretic formulation. For this we require the concept of a(n) (elementary) *topos*. To introduce this concept, we start with the familiary category of Set of sets and mappings. Set has the following key properties:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个结果可以通过范畴论表述而加强。为此我们需要（初等）*拓扑斯* 概念。为引入这个概念，从熟知的集合与映射范畴 Set 开始。Set 有以下关键性质：
+    step2: |-
+      这个结果可以借范畴论表述而得到加强。为此需要（初等）*拓扑斯* 概念。先从熟知的集合与映射范畴 Set 说起，Set 有以下关键性质：
   - id: 92
     kind: body
     source: |-
@@ -770,118 +814,166 @@ segments:
       2. Any pair of objects *X*,Y has a Cartesian product *X* × *Y*.
       3. for any pair of objects one can form the “exponential” object *Y*^{*X*} of all maps from *X* → *Y*.
       4. There is a “truth-value” object Ω such that for each object *X* there is a natural correspondence between subobjects (subsets) of *X* and maps *X* → Ω. (For Ω we may take the set 2 = {0,1}; maps *X* → Ω are then *characteristic functions* on *X*.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 有一个“终端”对象 1，使得对任何对象 *X*，存在唯一映射 *X* → 1（1 可取任何单元素集，特别是 {0}）。
+      2. 任何一对对象 *X*,Y 都有笛卡尔积 *X* × *Y*。
+      3. 对任何一对对象，可以构造所有从 *X* → *Y* 的映射构成的“指数”对象 *Y*^{*X*}。
+      4. 有一个“真值”对象 Ω，使得对每个对象 *X*，*X* 的子对象（子集）与映射 *X* → Ω 之间存在自然对应。（Ω 可取集合 2 = {0,1}；此时映射 *X* → Ω 就是 *X* 上的 *特征函数*。）
+    step2: |-
+      1. 有“终端”对象 1：对任何对象 *X*，存在唯一映射 *X* → 1（1 可取任一单元素集，特别是 {0}）。
+      2. 任何一对对象 *X*,Y 都有笛卡尔积 *X* × *Y*。
+      3. 对任何一对对象，可构造所有从 *X* → *Y* 的映射组成的“指数”对象 *Y*^{*X*}。
+      4. 有“真值”对象 Ω：对每个对象 *X*，*X* 的子对象（子集）与映射 *X* → Ω 之间自然对应。（Ω 可取集合 2 = {0,1}；此时映射 *X* → Ω 就是 *X* 上的 *特征函数*。）
   - id: 93
     kind: body
     source: |-
       All four of these conditions can be formulated in category-theoretic language — a category satisfying them is called a *topos*. The category Set is a topos; so also are (i) the category Set^{(*B*)} of Boolean-valued sets and mappings in any Boolean extension *V*^{(*B*)} of the universe of sets; (ii) the category of sheaves of sets on a topological space; (iii) the category of all diagrams of maps of sets
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这四个条件都可以用范畴论语言表述——满足它们的范畴称为 *拓扑斯*。范畴 Set 是一个拓扑斯；(i) 任何布尔扩张 *V*^{(*B*)} 中布尔值集合与映射的范畴 Set^{(*B*)}；(ii) 拓扑空间上集合层范畴；(iii) 所有集合映射图
+    step2: |-
+      这四个条件都能用范畴论语言表述；满足它们的范畴叫 *拓扑斯*。Set 是拓扑斯；下面这些也是：(i) 任何布尔扩张 *V*^{(*B*)} 中布尔值集合与映射的范畴 Set^{(*B*)}；(ii) 拓扑空间上的集合层范畴；(iii) 所有集合映射图
   - id: 94
     kind: body
     source: |-
       > *X*₀ → *X*₁ → *X*₂ → …
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *X*₀ → *X*₁ → *X*₂ → …
+    step2: |-
+      > *X*₀ → *X*₁ → *X*₂ → …
   - id: 95
     kind: body
     source: |-
       The objects of each of these categories may be regarded as sets which are *varying* in some manner: in case (i) over a *Boolean algebra*; in case (ii) over a topological *space*; in case (iii) over (discrete) time. A topos may be conceived, then, as a universe of “variable” sets. The familiar category Set is the special limiting case of a topos in which the “variation” of the objects has been reduced to zero.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      的范畴。这些范畴的对象都可看作以某种方式 *变化* 的集合：情形 (i) 中在 *布尔代数* 上变化；情形 (ii) 中在拓扑 *空间* 上变化；情形 (iii) 中在（离散）时间上变化。于是，拓扑斯可以设想为“可变”集合的全域。熟知的范畴 Set 是拓扑斯的特殊极限情形，其中对象的“变化”降为零。
+    step2: |-
+      的范畴。这些范畴的对象都可看作以某种方式 *变化* 的集合：情形 (i) 在 *布尔代数* 上变化；情形 (ii) 在拓扑 *空间* 上变化；情形 (iii) 在（离散）时间上变化。于是拓扑斯可以设想为“可变”集合的全域；熟知的 Set 是它的特殊极限情形——对象“变化”降为零。
   - id: 96
     kind: body
     source: |-
       Just as in set theory, “logical operators” can be defined on the truth-value object in any topos. These are maps ¬: Ω → Ω; ∧, ∨, ⇒: Ω × Ω → Ω corresponding to the logical operations of negation, conjunction, disjunction and implication. With these operations, Ω becomes a Heyting algebra, thus embodying in general the laws not of classical but of intutionistic logic. In this sense intuitionistic logic is “internalized” in a topos: intuitionistic logic is the logic of variable sets. (Of course, classical logic is internalized in certain toposes, for instance Set and Set^{(*B*)} for any complete Boolean algebra *B*.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      和集合论中一样，任何拓扑斯的真值对象上都可以定义“逻辑算子”。它们是映射 ¬: Ω → Ω；∧, ∨, ⇒: Ω × Ω → Ω，分别对应否定、合取、析取与蕴涵这些逻辑运算。有了这些运算，Ω 成为 Heyting 代数，从而一般体现的不是经典逻辑规律，而是直觉主义逻辑规律。在这个意义上，直觉主义逻辑在拓扑斯中被“内化”：直觉主义逻辑就是可变集合的逻辑。（当然，经典逻辑也在某些拓扑斯中被内化，例如 Set，以及任何完全布尔代数 *B* 的 Set^{(*B*)}。）
+    step2: |-
+      和集合论里一样，任何拓扑斯的真值对象上都能定义“逻辑算子”：映射 ¬: Ω → Ω；∧, ∨, ⇒: Ω × Ω → Ω，分别对应否定、合取、析取、蕴涵。有了这些运算，Ω 成为 Heyting 代数，一般体现的不是经典逻辑规律，而是直觉主义逻辑规律。在这个意义上，直觉主义逻辑被“内化”进拓扑斯：直觉主义逻辑就是可变集合的逻辑。（当然，经典逻辑也在某些拓扑斯里被内化，例如 Set，以及任何完全布尔代数 *B* 的 Set^{(*B*)}。）
   - id: 97
     kind: body
     source: |-
       Any topos may be conceived as possible “universe of discourse” in which mathematical assertions may be interpreted and mathematical constructions may be performed. Mathematical assertions are rendered interpretable in a topos E by expression within E's *internal language* — a type-theoretic version of the usual language of set theory. In a manner analogous to Boolean-valued validity, one can introduce an appropriate notion of validity in E of a sentence σ of its internal language. Again, we write E ⊨ σ for “σ is valid in E”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      任何拓扑斯都可设想为可能的“论域”，数学断言可在其中解释，数学构造可在其中进行。数学断言通过在其 *内部语言*（通常集合论语言的类型论版本）中表达，而在拓扑斯 E 中获得可解释性。以类似于布尔值有效性的方式，可以引入内部语言句子 σ 在 E 中有效的适当概念。我们同样写 E ⊨ σ 表示“σ 在 E 中有效”。
+    step2: |-
+      任何拓扑斯都可设想为可能的“论域”，数学断言能在其中解释，数学构造能在其中进行。数学断言在拓扑斯 E 中，借其 *内部语言*（通常集合论语言的类型论版本）表达而获得解释。仿照布尔值有效性，可以引入内部语言句子 σ 在 E 中有效的适当概念；同样写 E ⊨ σ 表示“σ 在 E 中有效”。
   - id: 98
     kind: body
     source: |-
       A topos E is said to be *full* if, for any set *I*, the *I*-fold copower[^note-3] ∐_{*I*}1 of its terminal object exists in E. ∐_{*I*}1 may be thought of as the canonical representative in E of the set *I*; accordingly, we write it simply as *I*. (In *V*^{(*B*)} this coincides with *I* as previously defined.) All the toposes mentioned above are full.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拓扑斯 E 称为 *满的*，如果对任何集合 *I*，其终端对象的 *I*-重余积[^note-3] ∐_{*I*}1 在 E 中存在。∐_{*I*}1 可看作集合 *I* 在 E 中的典范代表；因此我们简单地把它写作 *I*。（在 *V*^{(*B*)} 中，这与先前定义的 *I* 一致。）上述所有拓扑斯都是满的。
+    step2: |-
+      拓扑斯 E 叫 *满的*，如果对任何集合 *I*，其终端对象的 *I*-重余积[^note-3] ∐_{*I*}1 在 E* 中存在。∐_{*I*}1 可看作集合 *I* 在 E 中的典范代表，所以直接写作 *I*。（在 *V*^{(*B*)} 中，这与先前定义的 *I* 一致。）上面提到的拓扑斯都是满的。
   - id: 99
     kind: body
     source: |-
       Now let E be a full topos. If *A* = (*A*, *R*, …) is a structure, write *A* for (*A*, *R*, …). Two structures *A* and *B* are said to be *topos isomorphic*, written *A* ≅_{*t*} *B*, if, for some topos E defined over the category of sets, we have E ⊨ *A* ≅ *B*. In other words two structures are topos isomorphic if their canonical representatives are isomorphic in the internal language of some topos. It can then be shown that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在设 E 是满拓扑斯。若 *A* = (*A*, *R*, …) 是结构，写作 *A* 表示 (*A*, *R*, …)。两个结构 *A* 与 *B* 称为 *拓扑斯同构*，记作 *A* ≅_{*t*} B，如果对某个定义在集合范畴上的拓扑斯 E，有 E ⊨ *A* ≅ *B*。换句话说，两个结构拓扑斯同构，如果它们的典范代表在某个拓扑斯的内部语言中同构。于是可以证明
+    step2: |-
+      设 E 是满拓扑斯。若 *A* = (*A*, *R*, …) 是结构，就写作 *A* 表示 (*A*, *R*, …)。两个结构 *A*、*B* 叫 *拓扑斯同构*，记作 *A* ≅_{*t*} B，如果对某个定义在集合范畴上的拓扑斯 E 有 E ⊨ *A* ≅ *B*。换句话说，两个结构拓扑斯同构，是指它们的典范代表在某个拓扑斯的内部语言里同构。于是可以证明
   - id: 100
     kind: body
     source: |-
       > (2.4) *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*t*} *B*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (2.4) *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*t*} *B*。
+    step2: |-
+      > (2.4) *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*t*} *B*。
   - id: 101
     kind: body
     source: |-
       Accordingly (∞,ω)-equivalence may be regarded as isomorphism in the extremely general context of universes of “variable” sets. In this respect (∞,ω)-equivalence is an “invariant” notion of isomorphism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，(∞,ω)-等价可以看作“可变”集合全域这一极其一般的语境中的同构。在这个意义上，(∞,ω)-等价是一种“不变”的同构概念。
+    step2: |-
+      因此，(∞,ω)-等价可以看作“可变”集合全域这一极其一般的语境中的同构。在这个意义上，(∞,ω)-等价是一种“不变”的同构概念。
   - id: 102
     kind: body
     source: |-
       ## 3. The Compactness Property
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 紧致性
+    step2: |-
+      ## 3 紧致性
   - id: 103
     kind: body
     source: |-
       As we have seen, the compactness theorem in its usual form fails for all infinitary languages. Nevertheless, it is of some interest to determine whether infinitary languages satisfy some suitably modified version of the theorem. This so-called *compactness problem* turns out to have a natural connection with purely set-theoretic questions involving “large” cardinal numbers.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如我们所知，通常形式的紧致性定理对所有无穷语言都失效。尽管如此，确定无穷语言是否满足该定理的某个适当修改版本仍有意义。这个所谓的 *紧致性问题*，结果与涉及“大”基数的纯集合论问题有自然联系。
+    step2: |-
+      如前所述，通常形式的紧致性定理对所有无穷语言都失效。不过，无穷语言是否满足该定理的某个适当修改版，仍值得一问。这个 *紧致性问题* 恰好与涉及“大”基数的纯集合论问题有自然联系。
   - id: 104
     kind: body
     source: |-
       We construct the following definition. Let κ be an infinite cardinal. A language L is said to be κ-*compact* (resp. *weakly* κ*-compact*) if whenever Δ is a set of L-sentences (resp. a set of L-sentences of cardinality ≤ κ) and each subset of Δ of cardinality < κ has a model, so does Δ. Notice that the usual compactness theorem for L is precisely the assertion that L is ω-compact. One reason for according significance to the κ-compactness property is the following. Call L κ-*complete* (resp. *weakly* κ-*complete*) if there is a deductive system *P* for L with deductions of length < κ such that, if Δ is a *P*-consistent[^note-4] set of L-sentences (resp. such that |Δ| ≤ κ), then Δ has a model. Observe that such a *P* will be adequate for deductions from arbitrary sets of premises (of cardinality ≤ κ) in the sense of §2. It is easily seen that if L is κ-complete or weakly κ-complete, then L is κ-compact or weakly κ-compact. Thus, if we can show that a given language is *not* (weakly) κ-compact, then there can be no deductive system for it with deductions of length < κ adequate for deductions from arbitrary sets of premises (of cardinality ≤ κ).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们构造如下定义。设 κ 是无穷基数。语言 L 称为 κ-*紧致的*（相应地，*弱* κ-*紧致的*），如果只要 Δ 是 L-句子集（相应地，基数 ≤ κ 的 L-句子集）且 Δ 的每个基数 < κ 的子集都有模型，Δ 就有模型。注意 L 的通常紧致性定理正是断言 L 是 ω-紧致的。赋予 κ-紧致性以意义的一个理由如下。称 L 是 κ-*完全的*（相应地，*弱* κ-*完全的*），如果存在 L 的演绎系统 *P*，其演绎长度 < κ，使得：若 Δ 是 *P*-一致的[^note-4] L-句子集（相应地，且 |Δ| ≤ κ），则 Δ 有模型。注意这样的 *P* 将足以按第 2 节的意义从任意（基数 ≤ κ 的）前提集作演绎。容易看出，若 L 是 κ-完全的或弱 κ-完全的，则 L 是 κ-紧致的或弱 κ-紧致的。于是，若能证明给定语言 *不是*（弱）κ-紧致的，则不可能有演绎长度 < κ、足以从任意（基数 ≤ κ 的）前提集作演绎的演绎系统。
+    step2: |-
+      定义如下。设 κ 为无穷基数。语言 L 叫 κ-*紧致的*（相应地 *弱* κ-*紧致的*），如果只要 Δ 是 L-句子集（相应：基数 ≤ κ 的 L-句子集）且 Δ 的每个基数 < κ 的子集都有模型，Δ 就有模型。注意 L 的通常紧致性定理，正是说 L 是 ω-紧致的。给 κ-紧致性一个意义，理由如下。称 L 为 κ-*完全的*（相应：*弱* κ-*完全的*），如果存在 L 的演绎系统 *P*，演绎长度 < κ，使得：若 Δ 是 *P*-一致[^note-4]的 L-句子集（相应：且 |Δ| ≤ κ），则 Δ 有模型。这样的 *P* 足以按第 2 节的意义从任意（基数 ≤ κ 的）前提集作演绎。容易看出，L 若 κ-完全或弱 κ-完全，就 κ-紧致或弱 κ-紧致。所以，若能证明某语言 *不是*（弱）κ-紧致的，就不可能有演绎长度 < κ、足以从任意（基数 ≤ κ 的）前提集出发作演绎的演绎系统。
   - id: 105
     kind: body
     source: |-
       It turns out, in fact, that most languages L(κ,λ) fail to be even weakly κ-compact, and, for those that are, κ must be an exceedingly *large* cardinal. We shall need some definitions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，大多数语言 L(κ,λ) 甚至不是弱 κ-紧致的；而对那些是的语言，κ 必须是极大的 *大* 基数。我们需要一些定义。
+    step2: |-
+      事实上，多数语言 L(κ,λ) 连弱 κ-紧致都不是；而那些是的，κ 必须是极大的 *大* 基数。先给几个定义。
   - id: 106
     kind: body
     source: |-
       An infinite cardinal κ is said to be *weakly inaccessible* if
-    step1: TBD
-    step2: TBD
+    step1: |-
+      无穷基数 κ 称为 *弱不可达的*，如果
+    step2: |-
+      无穷基数 κ 叫 *弱不可达的*，如果
   - id: 107
     kind: body
     source: |-
       > (a) λ < κ → λ⁺ < κ, (where λ⁺ denotes the cardinal successor of λ), and
       >
       > (b) | *I* | < κ and λ*ᵢ* < κ (for all *i* ∈ *I*) ⇒ ∑_{*i*∈*I*} λ_{*i*} < κ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (a) λ < κ → λ⁺ < κ（其中 λ⁺ 表示 λ 的基数后继），并且
+      >
+      > (b) | *I* | < κ 且 λ*ᵢ* < κ（对所有 *i* ∈ *I*） ⇒ ∑_{*i*∈*I*} λ_{*i*} < κ。
+    step2: |-
+      > (a) λ < κ → λ⁺ < κ（其中 λ⁺ 表示 λ 的基数后继），并且
+      >
+      > (b) | *I* | < κ 且 λ*ᵢ* < κ（对所有 *i* ∈ *I*） ⇒ ∑_{*i*∈*I*} λ_{*i*} < κ。
   - id: 108
     kind: body
     source: |-
       If in addition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果再满足
+    step2: |-
+      若再满足
   - id: 109
     kind: body
     source: |-
       > (c) λ < κ ⇒ 2^{λ} < κ,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (c) λ < κ ⇒ 2^{λ} < κ,
+    step2: |-
+      > (c) λ < κ ⇒ 2^{λ} < κ,
   - id: 110
     kind: body
     source: |-
       then κ is said to be (*strongly*)*inaccessible*. Since ℵ₀ is inaccessible, it is normal practice to confine attention to those inaccessible, or weakly inaccessible, cardinals that exceed ℵ₀. Accordingly, inaccessible or weakly inaccessible cardinals will always be taken to be *uncountable*. It is clear that such cardinals—if they exist—must be extremely large; and indeed the Gödel incompleteness theorem implies that the existence of even weakly inaccessible cardinals cannot be proved from the usual axioms of set theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      则称 κ 为（*强*）*不可达的*。由于 ℵ₀ 不可达，通常只关注超过 ℵ₀ 的不可达或弱不可达基数。因此，不可达或弱不可达基数总被看作 *不可数的*。显然，这类基数——如果存在——必定极大；而且哥德尔不完全性定理确实蕴涵，连弱不可达基数的存在都不能从集合论的通常公理证明。
+    step2: |-
+      则称 κ 为（*强*）*不可达的*。ℵ₀ 本身不可达，所以通常只关注超过 ℵ₀ 的不可达或弱不可达基数；因此，不可达或弱不可达基数总被当作 *不可数的*。显然，这类基数若存在，必定极大；而且哥德尔不完全性定理确实蕴涵：连弱不可达基数的存在，都不能从集合论通常公理证明。
   - id: 111
     kind: body
     source: |-

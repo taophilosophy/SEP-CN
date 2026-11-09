@@ -2,7 +2,7 @@
   "slug": "william-jevons",
   "kind": "retranslate",
   "zh_doc": "w/william-jevons.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "REV-main-20261109",
       "at": "2026-11-09T14:45:35Z",
       "evidence": "r2 逐句回核（新问题）：补实修 2——§2 三律命名源文自身混用（列表 Law of Duality 对偶律/正文 law of the excluded middle 排中律）维持照录并在 evidence 留痕不擅改；§3 换质位例证公式 b = ABb ·|· ab 与对偶律推演复核无误。连接词/模态复核（least squares 两处出现、fictitious mean 与 mean 分级、Unitarianism 一神论派）无漂移；prose 0、style 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T15:05:28Z",
+      "evidence": "r3 冷置回读（隔 telesio 全条 r1）：终读无新增问题；markdownlint 本文件 0 error；check_all 7/7 全绿；验收签字"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T15:05:28Z",
+      "evidence": "r1–r3 全过（r1 体例 2 类 9 处、零内容误译；r2 留痕 1+复核；r3 无新增），四检绿、check_all 7/7、lint 0；冷置条款满足（r2→r3 间完成 telesio r1）"
     }
   ],
   "blockers": [],

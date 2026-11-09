@@ -1,0 +1,40 @@
+{
+ "key": "cofinality",
+ "term": "cofinality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T15:06:28+00:00",
+ "status": "ok",
+ "note": "variant=cofinality; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "共尾性",
+   "en": "cofinality",
+   "code": "02.0200",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_集合论"
+  },
+  {
+   "cn": "共尾子集",
+   "en": "cofinal subset",
+   "code": "02.0201",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_集合论"
+  },
+  {
+   "cn": "共尾保积函子",
+   "en": "cofinal product-preserving functor",
+   "code": "04.1731",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数K理论"
+  },
+  {
+   "cn": "目的论",
+   "en": "finality",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

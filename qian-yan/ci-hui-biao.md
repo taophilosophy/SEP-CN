@@ -1314,7 +1314,7 @@
 |Thomas Aquinas|托马斯·阿奎那|中世纪通行汉译|
 |Thomas of Erfurt|埃尔福特的托马斯||
 |Thought Experiments|思想实验||
-|Thrasymachus|塞拉西马柯|《理想国》商务译本作“色拉叙马霍斯”|
+|Thrasymachus|色拉叙马霍斯|登记册主形；亦作“塞拉西马柯”；2026-11-09 对齐人名表|
 |Timaeus|蒂迈欧||
 |Time|时间||
 |Time Machines|时间机器||
