@@ -1,0 +1,791 @@
+version: 1
+slug: sikh-philosophy
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Sikh philosophy is generally considered to be a distinct tradition of thought-practice indigenous to South Asia that emerged in the fifteenth century from the writings of one of India’s major spiritual figures, Guru Nanak, better known as the founder of the spiritual path known as *sikhī* (lit. the path of learning) or ‘Sikh*ism*’ as it is designated in the modern knowledge system. While not incorrect, such appeals to South Asian indigeneity belie the fact that Sikh philosophy is a composite term first appearing in the context of colonial encounters and through subsequent interactions between categories and concepts of Sikh and Western thought (Mandair 2022: 14)[^mandair-2022]. More specifically, Sikh philosophy emerged as a consequence of, and in relation to, the translation and reconfiguration of a foundational term in Nanak’s teaching, namely, *gurmat* (lit. the logic or teaching of the Guru) into the European knowledge system. It is therefore more helpful to think of Sikh philosophy as an ‘assemblage’ rather than a strictly indigenous thought-form.[^note-1]
+    step1: |-
+      锡克哲学通常被视为南亚本土的一种独特思想—实践传统，它于 15 世纪从那纳克古鲁（Guru Nanak）的著述中兴起；那纳克是印度重要精神人物之一，更以 *sikhī*（字面义：学习之道）这一精神道路的创立者而知名——在现代知识体系中，这条道路被称作“锡克教”（Sikh*ism*）。这种对南亚本土性的诉求虽不算错，却掩盖了一个事实：锡克哲学是一个复合术语，最早出现于殖民相遇的语境，并在此后锡克思想与西方思想的范畴与概念之间的互动中形成（Mandair 2022: 14）[^mandair-2022]。更具体地说，锡克哲学的产生，源于那纳克教说中的一个奠基性术语——*gurmat*（字面义：古鲁的逻辑或教说）——被译入并重构进欧洲知识体系，且与之相关。因此，把锡克哲学理解为一种“装配体”（assemblage），比理解为严格本土的思想形态更有帮助。[^note-1]
+    step2: |-
+      锡克哲学通常被视为南亚本土的一种独特思想—实践传统，15 世纪从那纳克古鲁（Guru Nanak）的著述中兴起。那纳克是印度重要的精神人物，更以创立 *sikhī*（字面义：学习之道）这一精神道路闻名——现代知识体系称之为“锡克教”（Sikh*ism*）。这种“南亚本土”之说并不算错，却掩盖了一件事：锡克哲学是个复合术语，最早出现于殖民相遇的语境，此后又在锡克思想与西方思想的范畴、概念互动中形成（Mandair 2022: 14）[^mandair-2022]。更具体说，它是那纳克教说中的奠基术语 *gurmat*（字面义：古鲁的逻辑或教说）被译入欧洲知识体系并受其重构的结果。因此，与其把锡克哲学看作严格本土的思想形态，不如把它理解为一种“装配体”（assemblage）。[^note-1]
+  - id: 2
+    kind: body
+    source: |-
+      The fact that the colonial knowledge system initially categorised terms such as *gurmat* or *sikhī* as religion or religious (hence Sikhism), implying that they were lacking in philosophical thought, can be attributed to a combination of secular statecraft and colonial epistemic technology deployed in the governance of colonised populations. An important consequence of classifying *gurmat* as ‘strictly religious’ (McLeod 1998: 12)[^mcleod-1998] was that it legitimated the transfer of political and “epistemic sovereignty” (Hallaq 2018: 98)[^hallaq-2018] from the Sikh lifeworld to the modern Western knowledge system as indigenous categories *sikhī* and *gurmat* were now placed into a colonial cartography of ‘world religions’ whose underpinning logic was characterized by a transcendental metaphysics peculiar to both Christian theology and secular humanist philosophy (Masuzawa 2005; Mandair 2006)[^mandair-2006].
+    step1: |-
+      殖民知识体系最初把 *gurmat* 或 *sikhī* 这类术语归为“宗教”或“宗教性的”（故有 Sikhism 之称），暗示它们缺乏哲学思想；这可以归因于治理被殖民人口时并用的世俗治国术与殖民认识技术。把 *gurmat* 归为“严格宗教性的”（McLeod 1998: 12）[^mcleod-1998] 有一个重要后果：它使政治主权与“认识主权”（Hallaq 2018: 98）[^hallaq-2018] 从锡克生活世界转移到现代西方知识体系，因为本土范畴 *sikhī* 与 *gurmat* 此时被安置进“世界宗教”的殖民地图，而这张地图的底层逻辑以基督教神学与世俗人文主义哲学所特有的超越形而上学为特征（Masuzawa 2005; Mandair 2006）[^mandair-2006]。
+    step2: |-
+      殖民知识体系起初把 *gurmat*、*sikhī* 这类术语归入“宗教”或“宗教性的”（故有 Sikhism 之名），暗示其中缺乏哲学思想。这要归因于治理被殖民人口时并用的世俗治国术与殖民认识技术。把 *gurmat* 定为“严格宗教性的”（McLeod 1998: 12）[^mcleod-1998]，有个重要后果：政治主权与“认识主权”（Hallaq 2018: 98）[^hallaq-2018] 由此从锡克生活世界转入现代西方知识体系——本土范畴 *sikhī* 与 *gurmat* 被安置进“世界宗教”的殖民地图，而这张地图的底层逻辑，以基督教神学与世俗人文主义哲学所特有的超越形而上学为特征（Masuzawa 2005; Mandair 2006）[^mandair-2006]。
+  - id: 3
+    kind: body
+    source: |-
+      Although Sikh elites internalised this classification of ‘gurmat as religion’ during the late nineteenth and early twentieth centuries, their interpretive efforts nevertheless managed to keep alive indigenous traditions of reflective thought-praxis, such as *gurmat vichār* (lit. contemplative reflection on the concepts and practice of the Guru’s teaching) *gurbanī vichār* (contemplative reflection on the utterances of the Guru), as well as mnemo-praxial techniques such as *nām simaran* (practice of meditating on the primordial vibration or *nām*). By the early decades of the twentieth century Sikh scholars began to recontextualize interpretations of the key Sikh concepts and contemplative practices in relation to the framework of European philosophy. As a result, the two distinct knowledge formations – the Indic ‘gurmat’ and European ‘philosophy’ – were synthesized into a new intellectual discourse known as ‘Sikh Philosophy’ (also referred to as ‘Philosophy of Sikhism’) with a rich and variegated body of literature composed in various languages: English, modern standard Punjabi, pre-modern or classical Punjabi, Persian and Brij.
+    step1: |-
+      尽管锡克精英在 19 世纪末 20 世纪初内化了“gurmat 即宗教”这一分类，他们的阐释努力仍设法延续了本土的反思性思想—实践传统，如 *gurmat vichār*（字面义：对古鲁教说之概念与实践的沉思反思）、*gurbanī vichār*（对古鲁言辞的沉思反思），以及 *nām simaran*（对原初振动即 *nām* 的冥想修习）一类记忆—实践技术。到 20 世纪最初几十年，锡克学者开始参照欧洲哲学框架，重新语境化对锡克核心概念与沉思修习的阐释。结果，两种不同的知识构成——印度的“gurmat”与欧洲的“哲学”——综合为一种新的智识话语，即“锡克哲学”（亦称“锡克教哲学”），其文献丰富多样，以英语、现代标准旁遮普语、前现代或古典旁遮普语、波斯语与布拉吉语等多种语言写成。
+    step2: |-
+      锡克精英在 19 世纪末 20 世纪初虽内化了“gurmat 即宗教”的分类，其阐释努力却仍让本土的反思性思想—实践传统活了下来：*gurmat vichār*（对古鲁教说之概念与实践的沉思反思）、*gurbanī vichār*（对古鲁言辞的沉思反思），以及 *nām simaran*（对原初振动 *nām* 的冥想修习）这类记忆—实践技术皆是。到 20 世纪最初几十年，锡克学者开始参照欧洲哲学框架，重新阐释锡克核心概念与沉思修习。两种知识构成——印度“gurmat”与欧洲“哲学”——于是综合为一种新话语，即“锡克哲学”（亦称“锡克教哲学”），其文献丰富，以英语、现代标准旁遮普语、前现代（古典）旁遮普语、波斯语与布拉吉语写成。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. Primary Sources & Literature
+    step1: |-
+      ## 1 原始资料与文献
+    step2: |-
+      ## 1 原始资料与文献
+  - id: 5
+    kind: body
+    source: |-
+      This section outlines the development of Sikh philosophy from Indic sources, the streams of exegetical literature, to the formation of ‘Sikh Philosophy’ as a field of modern knowledge linked to broader fields such as world philosophies, global philosophies of religion, and the more specialised field of Sikh studies. What remains relatively constant in the passage from premodern sources and their translations into modern Sikh philosophy is the axial concept *gurmat*, which connects past to present knowledge formations, and also provides a cohesiveness to Sikh thought and practice from the sixteenth century to the modern period. Despite its centrality to Sikh thought, however, recent interpretations of *gurmat* have tended to conflate the meaning and function of *gurmat* with ‘doctrine’ conceived in a broadly Christian theological sense. One scholar, for example, argues that the term *gurmat* connotes “the Gurus’ view or doctrine that is at the same time a living practice among Sikhs” (Pashaura Singh 2014: 225). Though seemingly innocuous, the conflation of *gurmat* with ‘doctrine’ is not only indicative of a shift from earlier renderings of *gurmat*, it also has implications for the range and function of Sikh philosophy. This point can be illustrated by tracking how *gurmat* was understood in the late nineteenth and early twentieth centuries, for example, in the work of philosopher-theologians such as Kahn Singh Nabha, whose authoritative work Gurśabad Ratnākar Mahānkōsh defines *gurmat* in various ways:
+    step1: |-
+      本节勾勒锡克哲学的发展：从印度来源、注释文献诸流，到“锡克哲学”作为一个现代知识领域的形成——它与世界哲学、全球宗教哲学等更广领域以及更专门的锡克研究相连。从前现代资料及其译入现代锡克哲学的过程中，相对恒定的轴心概念是 *gurmat*；它连接古今知识构成，也赋予 16 世纪至现代的锡克思想与实践以连贯性。然而，尽管 *gurmat* 对锡克思想具有中心地位，晚近对它的阐释却往往把 *gurmat* 的含义与功能同广义基督教神学意义上的“教义”（doctrine）混为一谈。例如有学者论证，*gurmat* 一词意指“古鲁们的观点或教义，而它同时是锡克人中间的活实践”（Pashaura Singh 2014: 225）。此说看似无害，但把 *gurmat* 与“教义”混同，不仅表明其译法与早先不同，也影响锡克哲学的范围与功能。要说明这一点，可以追踪 19 世纪末 20 世纪初 *gurmat* 如何被理解——例如哲学家—神学家卡恩·辛格·纳巴（Kahn Singh Nabha）的权威著作《古鲁圣言宝库》（Gurśabad Ratnākar Mahānkōsh），其中对 *gurmat* 有多种界定：
+    step2: |-
+      本节勾勒锡克哲学的来路：从印度来源、注释文献诸流，到“锡克哲学”成为现代知识领域——它与世界哲学、全球宗教哲学及更专门的锡克研究相连。从前现代资料到其译入现代锡克哲学，贯穿始终的轴心概念是 *gurmat*：它连接古今知识构成，也使 16 世纪以来的锡克思想与实践保持连贯。然而，尽管 *gurmat* 居于锡克思想的核心，晚近阐释却常把它的含义与功能同广义基督教神学意义上的“教义”混为一谈。例如有学者认为，*gurmat* 意指“古鲁们的观点或教义，而它同时是锡克人中间的活实践”（Pashaura Singh 2014: 225）。此说看似无害，实则既显示译法已不同于早先，也牵动锡克哲学的范围与功能。要看清这一点，可追踪 19 世纪末 20 世纪初人怎样理解 *gurmat*——例如哲学家兼神学家卡恩·辛格·纳巴（Kahn Singh Nabha）的权威之作《古鲁圣言宝库》（Gurśabad Ratnākar Mahānkōsh），其中对 *gurmat* 有多种界定：
+  - id: 6
+    kind: body
+    source: |-
+      - “*satguru* *da siddhānt*” - the right outcome of the *satguru*’s instruction;
+      - *“guru da thapiā dharam da niyam”* – the established/foundational principle of the Guru’s teaching. (Nabha 1981: 418)[^nabha-1981]
+    step1: |-
+      - “*satguru* *da siddhānt*”——*satguru* 教导的正确结论；
+      - *“guru da thapiā dharam da niyam”*——古鲁教说的既定／奠基性原则。（Nabha 1981: 418）[^nabha-1981]
+    step2: |-
+      - “*satguru* *da siddhānt*”：*satguru* 教导的正确结论；
+      - *“guru da thapiā dharam da niyam”*：古鲁教说的既定原则、奠基性原则。（Nabha 1981: 418）[^nabha-1981]
+  - id: 7
+    kind: body
+    source: |-
+      The key term in these explanations is *satguru*, which, in the broader context of Indian thought, simply refers to any preceptor capable to delivering higher spiritual instruction: *utam updēsh dein valā achāryā* (Nabha 1931: 146). In the context of Sikh thought, however, *satguru* refers more specifically to the authority of Guru Nanak himself. As Nabha states, *satguru* is “Sri Guru Nanak Dev” (Nabha 1931: 146) and further emphasises the function of *satguru* in relation to *gurmat* by highlighting the relationship between mind, self, and individuation:
+    step1: |-
+      这些解释中的关键术语是 *satguru*。在印度思想的更广语境中，它泛指任何能给予更高精神教导的师者：*utam updēsh dein valā achāryā*（Nabha 1931: 146）。但在锡克思想的语境中，*satguru* 更具体地指那纳克古鲁本人的权威。如纳巴所说，*satguru* 就是“室利·古鲁·那纳克·德夫”（Nabha 1931: 146）；他并通过凸显心、自我与个体化之间的关系，进一步强调 *satguru* 相对于 *gurmat* 的功能：
+    step2: |-
+      这些解释的关键术语是 *satguru*。在印度思想的更大语境里，它泛指任何能给予更高精神教导的师者：*utam updēsh dein valā achāryā*（Nabha 1931: 146）。但在锡克思想中，*satguru* 更具体指那纳克古鲁本人的权威。纳巴说，*satguru* 即“室利·古鲁·那纳克·德夫”（Nabha 1931: 146）；他又借心、自我与个体化三者的关系，进一步点明 *satguru* 对 *gurmat* 的作用：
+  - id: 8
+    kind: body
+    source: |-
+      > *gurmat(i)*:
+      >
+      > - *satguru dī nassīhat* - the counsel/instruction of the *satguru*
+      > - *gurmat(i) mn nijh-ghar vasiā -* the teaching through which mind/self comes to reside in its ground-state (true home) (Nabha 1981: 418)[^nabha-1981]
+    step1: |-
+      > *gurmat(i)*：
+      >
+      > - *satguru dī nassīhat*——*satguru* 的劝诫／教导
+      > - *gurmat(i) mn nijh-ghar vasiā*——借之而使心／自我安住于其本然状态（真正的家）的教说（Nabha 1981: 418）[^nabha-1981]
+    step2: |-
+      > *gurmat(i)*：
+      >
+      > - *satguru dī nassīhat*：*satguru* 的劝诫、教导
+      > - *gurmat(i) mn nijh-ghar vasiā*：借之使心／自我安住于本然状态（真正的家）的教说（Nabha 1981: 418）[^nabha-1981]
+  - id: 9
+    kind: body
+    source: |-
+      Elsewhere, Kahn Singh Nabha traces the etymology of the two terms comprising *gurmat*, namely *gur(u)* and *mat(i)* (Nabha 1981: see p. 945 and p. 415)[^nabha-1981].[^note-2] The centrality of mind/self/individuation to the nature of *gurmat* is underscored in one of Nanak’s own compositions, the *Siddh Gōst(i)* (or “Dialogue With the Siddhas”), where he emphatically points to the source of his authority. In this dialogue, Nanak is being questioned by the Siddhas, the great spiritual adepts of the time. At one point in the conversation, the Siddhas pointedly ask Nanak about the source of his authority to teach: “Tell us, Nanak, who is your Guru, of whom are you the disciple?”. To which Nanak provides an equally pointed reply: “*Śabad* is Guru, that consciousness attuned to it is the disciple” (Siddh Gōst(i): SGGS. pp 938-46).
+    step1: |-
+      在别处，卡恩·辛格·纳巴追溯了构成 *gurmat* 的两个词——*gur(u)* 与 *mat(i)*——的词源（Nabha 1981: 见第 945 页与第 415 页）[^nabha-1981]。[^note-2] 心／自我／个体化对 *gurmat* 之本性的中心地位，在那纳克本人的一篇作品《悉陀问答》（*Siddh Gōst(i)*）中得到凸显；他在其中着重指出自己权威的来源。在这篇对话中，悉陀——当时伟大的精神成就者——向那纳克发问。谈话中，悉陀们尖锐地问那纳克其教导权威的来源：“告诉我们，那纳克，你的古鲁是谁，你又是谁的弟子？”那纳克给出同样尖锐的回答：“*Śabad* 是古鲁，与它相契的觉知是弟子。”（Siddh Gōst(i): SGGS. pp 938-46）
+    step2: |-
+      别处，卡恩·辛格·纳巴还追溯了 *gurmat* 一词两个构件的词源，即 *gur(u)* 与 *mat(i)*（Nabha 1981: 见第 945、415 页）[^nabha-1981]。[^note-2] 心、自我、个体化对 *gurmat* 之本性何等要紧，那纳克本人的《悉陀问答》（*Siddh Gōst(i)*）可作印证：他在其中着力点明自己权威的来源。对话里，当时的大成就者悉陀们向那纳克发问，且问得尖锐：“告诉我们，那纳克，你的古鲁是谁？你又是谁的弟子？”那纳克的回答同样尖锐：“*Śabad* 是古鲁，与它相契的觉知便是弟子。”（Siddh Gōst(i): SGGS. pp 938-46）
+  - id: 10
+    kind: body
+    source: |-
+      As articulated below, this principle of *śabad-as-guru* or simply *śabad-guru* is repeatedly stressed throughout the primary sources to the extent that it becomes synonymous with the meaning and end of *gurmat* itself. It is in this sense that the core of the discourse of *gurmat –* its *siddhāntic* nature *- is* the theory, practice, and technique of *śabad* as a tool for overcoming a debased self-nature and transitioning towards an elevated self. From this perspective, the nature of *gurmat* can be more usefully envisaged as a paradoxical anti-doctrinal doctrine[^note-3], whose meaning incorporates, but is not limited to: the Guru’s instruction, the wisdom of the Guru, the Gurus’ system or logic; the Gurus’ philosophy of life as a whole; the teachings of the Guru. Only as an anti-doctrinal doctrine can *gurmat* be considered an ordering category that serves to both differentiate and connect Nanak’s system of thought-practice from other major systems extant at the time, including but not limited to the Hindu *śāstras*, Buddhism, Islamic thought (especially Sufism), Kashmir Śaivism, the system of Gorakhnath and Vaishnavism. As is evident from the literature, an inevitable implication of Nanak’s establishment of *gurmat* as theory-practice and his investing supreme authority in the principle of *śabad-guru*, is that it was contested particularly by groups and systems that regarded Veda as the supreme authority. As we see below, these contestations continued well into the modern period and are alive and well today.
+    step1: |-
+      如下文所述，*śabad-as-guru*（或径称 *śabad-guru*）这一原则在原始资料中被反复强调，以致与 *gurmat* 自身的含义与目的同义。正是在这个意义上，*gurmat* 话语的核心——其 *siddhāntic* 本性——就是 *śabad* 的理论、实践与技术，即用以克服卑下的自我本性、转向更高自我的工具。由此看，*gurmat* 的本性更宜设想为一种悖论性的反教义之教义[^note-3]：其含义包含但不限于：古鲁的教导、古鲁的智慧、古鲁们的体系或逻辑、古鲁们整全的生活哲学、古鲁的教说。唯有作为反教义的教义，*gurmat* 才可视为一个排序范畴：它既把那纳克的思想—实践体系与当时其他主要体系区分开来，又把它们联系起来——这些体系包括但不限于印度教 *śāstras*、佛教、伊斯兰思想（尤其是苏非主义）、克什米尔湿婆派、戈拉克纳特体系与毗湿奴派。从文献可见，那纳克把 *gurmat* 立为理论—实践、并把最高权威赋予 *śabad-guru* 原则，其不可避免的一个后果是：它尤其遭到那些以吠陀为最高权威的群体与体系的争辩。如下文所示，这些争辩一直延续到现代，至今仍活跃。
+    step2: |-
+      如下文所述，*śabad-as-guru*（或径称 *śabad-guru*）这一原则在原始资料中屡屡被强调，几与 *gurmat* 本身的含义和目的同义。也正是在此意义上，*gurmat* 话语的核心——其 *siddhāntic* 本性——就是 *śabad* 的理论、实践与技术：以之克服卑下的自我本性，转向更高的自我。由此看，*gurmat* 的本性更宜设想为一种悖论性的“反教义之教义”[^note-3]，其含义包含而不限于：古鲁的教导、古鲁的智慧、古鲁们的体系或逻辑、古鲁们整全的生活哲学、古鲁的教说。唯有作为反教义的教义，*gurmat* 才可视为一个排序范畴：它既把那纳克的思想—实践体系与其他主要体系区分开来，又与之相连——这些体系包括而不限于印度教 *śāstras*、佛教、伊斯兰思想（尤其苏非主义）、克什米尔湿婆派、戈拉克纳特体系与毗湿奴派。文献可见，那纳克把 *gurmat* 立为理论—实践，又把最高权威赋予 *śabad-guru* 原则，一个不可避免的后果是：它尤其招致以吠陀为最高权威的群体与体系的争辩。如下文所示，这些争辩延续到现代，至今仍活跃。
+  - id: 11
+    kind: body
+    source: |-
+      ### 1.1 Premodern Sources
+    step1: |-
+      ### 1.1 前现代资料
+    step2: |-
+      ### 1.1 前现代资料
+  - id: 12
+    kind: body
+    source: |-
+      #### 1.1.1 *Guru Granth Sahib*
+    step1: |-
+      #### 1.1.1 《古鲁·格兰特·萨希卜》
+    step2: |-
+      #### 1.1.1 《古鲁·格兰特·萨希卜》
+  - id: 13
+    kind: body
+    source: |-
+      The principal source of inspiration for Sikh philosophers and theologians is the Guru Granth Sahib, or as it is commonly referred to by Sikhs, the Sri Guru Granth Sahib (SGGS). This is the body of Sikh scripture compiled and canonised by Nanak’s fifth successor, Guru Arjan, in 1604.[^note-4] A large volume of 1431 pages whose various sections are aesthetically organised under musical measures (or *raga*), the SGGS includes compositions by Hindu and Muslim mystics, including Jaidev, Nāmdev, Kabir, and Sheikh Farid. The foundational nature of the SGGS for Sikh thought and practice is reflected in the appellations *gurbanī* (lit. utterance of the Guru) or *dhur-ki-bāṇī*. Often translated as ‘revealed’ *dhur-ki-bāṇī can* be more usefully rendered as utterances from the far-side, a reference to the widely held belief that these compositions are not mere literature or poetry but come from beyond the limit of human imaginary through deep spiritual experience.
+    step1: |-
+      锡克哲学家与神学家的首要灵感来源是《古鲁·格兰特·萨希卜》——锡克人通常称之为《室利·古鲁·格兰特·萨希卜》（SGGS）。这是由那纳克的第五位继承者阿尔詹古鲁于 1604 年编纂并定为正典的锡克圣典。[^note-4] 这部 1431 页的大书，各部分按音乐调式（*raga*）作美学编排，其中收录了印度教与伊斯兰教神秘主义者的作品，包括贾伊德夫、纳姆德夫、卡比尔与谢赫·法里德。SGGS 对锡克思想与实践的奠基性，体现在 *gurbanī*（字面义：古鲁的言辞）或 *dhur-ki-bāṇī* 这些称谓上。*dhur-ki-bāṇī* 常译作“启示的”，但更确切的译法是“来自彼岸的言辞”——这指向一种广泛持有的信念：这些作品并非单纯的文学或诗歌，而是经由深层精神体验、出自人类想象界限之外。
+    step2: |-
+      锡克哲学家与神学家的首要灵感来源，是《古鲁·格兰特·萨希卜》，锡克人通常称之为《室利·古鲁·格兰特·萨希卜》（SGGS）。这部锡克圣典由那纳克的第五位继承者阿尔詹古鲁于 1604 年编纂并定为正典。[^note-4] 全书 1431 页，各部分按音乐调式（*raga*）作美学编排，收录了印度教与伊斯兰教神秘主义者的作品，包括贾伊德夫、纳姆德夫、卡比尔与谢赫·法里德。SGGS 对锡克思想与实践的奠基性，见于 *gurbanī*（字面义：古鲁的言辞）或 *dhur-ki-bāṇī* 这些称谓。*dhur-ki-bāṇī* 常译作“启示的”，其实更宜译作“来自彼岸的言辞”：此说指向一种广泛信念——这些作品并非单纯的文学或诗歌，而是出自人类想象界限之外，得自深层精神体验。
+  - id: 14
+    kind: body
+    source: |-
+      #### 1.1.2 *Kabit and Swayyas of Bhai Gurdas*
+    step1: |-
+      #### 1.1.2 巴伊·古尔达斯的《卡比特》与《斯瓦亚》
+    step2: |-
+      #### 1.1.2 巴伊·古尔达斯的《卡比特》与《斯瓦亚》
+  - id: 15
+    kind: body
+    source: |-
+      Although the absolute primacy of *gurbanī* is attested to by almost all contributing authors to the SGGS, the notion itself is canonised in the writings of Bhai Gurdas (1540-1630 AD), the scribe responsible for producing the first physical copy of the SGGS under the close guidance of Guru Arjan. Bhai Gurdas was a key member of the early Sikh community. His own poetic compositions include the *Vārān, Kabits* and *Swayyas*, which represent the first, and arguably, most authoritative commentary on the SGGS. Composed in lucid style, his main purpose was to interpret the key teachings of the house of Nanak for the early Sikh community. In addition to providing commentary, his compositions develop the first philosophical and theological expositions of Nanak’s key ideas, forging them into a loose but relatively systematic doctrinal interpretation of *gurmat*, which was essential for establishing the patterns of Sikh thought-practice. As a result, Bhai Gurdas’ works are regarded as a key or *kunji* for unlocking the deeper insights of the SGGS and is therefore treated as a primary literature for research in Sikh philosophy (Gill 2016; Grewal 2023: 61-72)[^gill-2016][^grewal-2023].
+    step1: |-
+      尽管 *gurbanī* 的绝对首要性几乎得到 SGGS 所有作者的印证，这一观念本身却是在巴伊·古尔达斯（Bhai Gurdas，公元 1540–1630）的著作中被正典化的。古尔达斯是在阿尔詹古鲁密切指导下制作 SGGS 第一部实体抄本的书记。他是早期锡克社群的关键成员。他自己的诗作包括《瓦兰》《卡比特》与《斯瓦亚》，它们是对 SGGS 最早、也堪称最具权威的注释。其作风格清朗，主要目的是为早期锡克社群阐释那纳克之家的核心教说。除注释之外，他的作品还对那纳克的核心观念作了最早的哲学与神学阐发，把它们熔铸为对 *gurmat* 的一种松散却相对系统的教义解释——这对确立锡克思想—实践的范式至关重要。因此，巴伊·古尔达斯的作品被视为开启 SGGS 深层洞见的钥匙（*kunji*），也被当作锡克哲学研究的一手文献（Gill 2016; Grewal 2023: 61-72）[^gill-2016][^grewal-2023]。
+    step2: |-
+      尽管 SGGS 几乎所有作者都印证了 *gurbanī* 的绝对首要性，这一观念却是在巴伊·古尔达斯（Bhai Gurdas，1540–1630）的著作中被正典化的。古尔达斯正是奉阿尔詹古鲁之命、在其密切指导下制作 SGGS 第一部实体抄本的书记，也是早期锡克社群的关键成员。他的诗作包括《瓦兰》《卡比特》《斯瓦亚》，是对 SGGS 最早、也可谓最具权威的注释。其文风清朗，主旨是为早期锡克社群阐释那纳克之家的核心教说。除注释外，他还最早对那纳克的核心观念作了哲学与神学阐发，把这些观念熔铸为对 *gurmat* 的一种松散却相对系统的教义解释——确立锡克思想—实践范式，此点至关重要。因此，巴伊·古尔达斯之作被视为开启 SGGS 深层洞见的钥匙（*kunji*），也是锡克哲学研究的一手文献（Gill 2016; Grewal 2023: 61-72）[^gill-2016][^grewal-2023]。
+  - id: 16
+    kind: body
+    source: |-
+      #### 1.1.3 *Janamsākhī*
+    step1: |-
+      #### 1.1.3 生平传（*Janamsākhī*）
+    step2: |-
+      #### 1.1.3 生平传（*Janamsākhī*）
+  - id: 17
+    kind: body
+    source: |-
+      This is a narratological genre depicting the lives of Sikh Gurus, especially Nanak. The earliest *janamsākhī* texts can be dated to around 1658 and different cycles evolved into the mid-seventeenth century. As a genre it is more commonly associated with devotional piety than philosophical thought because of its hagiographical style. However, recent research on this genre shows that this view requires rectification as the *janamsākhī* weave in verses from *gurbanī* into their life-narratives, the aim being to harness emotion and affect to extract moral concepts of *gurmat* in order to contextualize them within human life (Grewal 2023: 68)[^grewal-2023]. In this way, *janamsākhī* also provide important clues about the motivational impulses behind Nanak’s engagement with the world and the nature of self-transformation that is central to his writings.
+    step1: |-
+      这是一种叙述体文类，记述锡克古鲁（尤其是那纳克）的生平。最早的 *janamsākhī* 文本可定年至 1658 年前后，不同的传本系列一直演变到 17 世纪中叶。由于带有圣徒传风格，这一文类通常更多与虔敬信仰而非哲学思想相联系。然而，晚近对这一文类的研究表明，此看法需要修正：*janamsākhī* 把 *gurbanī* 的诗句织入生平叙事，意在借情感与感发来提取 *gurmat* 的道德概念，使之在人类生活中获得语境（Grewal 2023: 68）[^grewal-2023]。由此，*janamsākhī* 也为理解那纳克介入世界的动机冲动、以及其著述核心的自我转化之性质，提供了重要线索。
+    step2: |-
+      这一文类以叙事体记述锡克古鲁（尤其那纳克）的生平。最早的 *janamsākhī* 可定年至 1658 年前后，各传本系列演变至 17 世纪中叶。因带圣徒传色彩，它通常更多与虔敬信仰相连，而非哲学思想。但晚近研究表明此说须修正：*janamsākhī* 把 *gurbanī* 的诗句织入生平叙事，意在借情感与感发提取 *gurmat* 的道德概念，使之落回人类生活的语境（Grewal 2023: 68）[^grewal-2023]。由此，*janamsākhī* 也为理解那纳克介入世界的动机，以及其著述核心的自我转化，提供了重要线索。
+  - id: 18
+    kind: body
+    source: |-
+      #### 1.1.4 *Dasam Granth*
+    step1: |-
+      #### 1.1.4 《达萨姆·格兰特》
+    step2: |-
+      #### 1.1.4 《达萨姆·格兰特》
+  - id: 19
+    kind: body
+    source: |-
+      The Dasam Granth (DG - lit. the ‘Text of the Tenth Guru’) occupies an important, though not uncontested, place in Sikh literature. The DG is a composite text, important parts of which are the work of the tenth Sikh Guru, Gobind Singh. Much of the scholarly discourse around this particular text has tried to grapple with the question of ethical violence, warfare and social justice, which is a more explicit theme in the DG than the SGGS. The discourse, however, has been unhelpfully framed by the question as to whether there was a “change in the dominant philosophy of the Panth” from Nanak-1 to Nanak-10 (Guru Gobind Singh) given that the latter was overtly involved in warfare and the survival of the Sikh community. A more helpful way to see the relationship between the DG and SGGS, or between Nanak and Gobind Singh, is to view the DG as actualising what was potential in the SGGS. In other words, while the dominant philosophy of *gurmat* remained essentially unchanged, what did change were the actual circumstances on the ground, necessitating different, more pragmatic choices of action.
+    step1: |-
+      《达萨姆·格兰特》（DG，字面义：“第十位古鲁之书”）在锡克文献中占有一个重要——尽管并非无争议——的位置。DG 是一部合成文本，其中重要部分出自第十位锡克古鲁戈宾德·辛格之手。围绕此文本的学术话语，大多试图处理伦理暴力、战争与社会正义问题——这些主题在 DG 中比在 SGGS 中更为显豁。然而，这一话语常被一个无益的问题所框定：既然那纳克十世（戈宾德·辛格古鲁）公然参与战争、并为锡克社群的存续而战，那么从“那纳克一世”到“那纳克十世”，*Panth* 的主导哲学是否发生了“变化”？看待 DG 与 SGGS（或那纳克与戈宾德·辛格）关系的更有益方式，是把 DG 视为对 SGGS 中潜能者的实现。换言之，*gurmat* 的主导哲学本质上未变，变化的是现实处境，而处境要求作出不同、更为务实的行为选择。
+    step2: |-
+      《达萨姆·格兰特》（DG，字面义“第十位古鲁之书”）在锡克文献中的地位重要，却并非无争议。DG 是合成文本，重要部分出自第十位锡克古鲁戈宾德·辛格之手。围绕它的学术话语，大多在应付伦理暴力、战争与社会正义诸问题——这些主题在 DG 中比在 SGGS 中更显豁。然而，这一话语常被一个无益的问题框住：既然那纳克十世（戈宾德·辛格古鲁）公然投入战争、为锡克社群存续而战，那么从“那纳克一世”到“那纳克十世”，*Panth* 的主导哲学是否“变”了？要看 DG 与 SGGS（或那纳克与戈宾德·辛格）的关系，更有益的方式是把 DG 视为对 SGGS 中潜能之物的实现。换言之，*gurmat* 的主导哲学本质未变，变的是现实处境——处境要求作出不同、更务实的选择。
+  - id: 20
+    kind: body
+    source: |-
+      #### 1.1.5 *Udāsī* and *Nirmala Pṛnālis*
+    step1: |-
+      #### 1.1.5 乌达西与尼尔马拉两系（*Udāsī* 与 *Nirmala Pṛnālis*）
+    step2: |-
+      #### 1.1.5 乌达西与尼尔马拉两系（*Udāsī* 与 *Nirmala Pṛnālis*）
+  - id: 21
+    kind: body
+    source: |-
+      Custodianship of philosophical exegesis and ecclesiastic affairs fell to Udāsī and Nirmala sects.[^note-5] Because of their intellectual proximity to the orthodox Hindu *Śāstras* or schools of philosophy, these sects are also referred to as *Śāstric prnalis* (Taran Singh 1980: 93-118)[^singh-1980]. The Udāsī school is associated with the sect of itinerant ascetics founded by Sri Chand, the elder of Nanak’s two sons. Although much of the discourse of this school is limited to oral exegesis, an early written record of this school of thought can be found in Sadhu Anandghan’s *ṭīkā* (exegetical commentary) on compositions by the Sikh Gurus. Most likely composed between 1795 and 1802, when Anandghan was receiving his training at Kashi (Varanasi), the center of Hindu orthodoxy, the tenor of these *ṭīkās* reflects a desire to integrate *sikhī* into the broader Hindu fold by implementing a reductive technique that frames Nanak’s teachings (*gurmat*) as a variant of *sanātana dharma*, a form of orthodox Hinduism that gravitates around a belief in ‘eternal law’ specified by the Veda. This *sanātanist* mode of reduction became a common feature of commentaries in the nineteenth century, carrying on into the work of the Nirmala school.
+    step1: |-
+      哲学注疏与教会事务的守护之责，落在乌达西派与尼尔马拉派肩上。[^note-5] 由于它们在思想上接近正统印度教 *Śāstras* 或哲学诸派，这两派也被称为 *Śāstric prnalis*（Taran Singh 1980: 93-118）[^singh-1980]。乌达西派与室利·昌德所创的游方苦修派相关；昌德是那纳克两个儿子中的长子。尽管该派话语大多限于口头注疏，其早期书面记录可见于沙杜·阿南德甘（Sadhu Anandghan）对锡克古鲁作品的 *ṭīkā*（注疏）。这些 *ṭīkā* 很可能作于 1795 至 1802 年间——当时阿南德甘正在印度教正统中心迦尸（瓦拉纳西）受训。其基调反映出一种愿望：通过一种化约手法把 *sikhī* 纳入更广的印度教怀抱，即把那纳克的教说（*gurmat*）框定为 *sanātana dharma* 的一个变体——后者是正统印度教的一种形态，围绕对吠陀所规定的“永恒之法”的信仰。这种 *sanātanist*（永恒法本位）的化约方式，成为 19 世纪注疏的常见特征，并延续到尼尔马拉派的工作中。
+    step2: |-
+      哲学注疏与教会事务的守护之责，落在乌达西派与尼尔马拉派肩上。[^note-5] 因其思想接近正统印度教 *Śāstras* 或哲学诸派，这两派又称 *Śāstric prnalis*（Taran Singh 1980: 93-118）[^singh-1980]。乌达西派与室利·昌德所创的游方苦修派相系——昌德是那纳克两子中的长子。该派话语大多限于口头注疏，其早期书面记录见沙杜·阿南德甘（Sadhu Anandghan）为锡克古鲁作品所作 *ṭīkā*（注疏）。这些 *ṭīkā* 很可能作于 1795–1802 年间，其时阿南德甘正在印度教正统中心迦尸（瓦拉纳西）受训。其基调透出一种愿望：以化约手法把 *sikhī* 纳入更广的印度教怀抱，即把那纳克教说（*gurmat*）框定为 *sanātana dharma* 的变体——后者是正统印度教的一种形态，围绕吠陀所定“永恒之法”的信仰。这种 *sanātanist*（永恒法本位）化约，成了 19 世纪注疏的常见特征，并延续到尼尔马拉派。
+  - id: 22
+    kind: body
+    source: |-
+      Unlike the itinerant Udāsīs, the Nirmala school not only produced a significant literature centred around philosophical commentaries on the central Sikh scriptures, but they also established centres of higher learning (*akhāṛās*) across North India. Nirmala scholars were by and large well-grounded in Indian philosophy, especially in Advaita Vedānta, which was deployed not only as a theoretical frame for their religio-philosophical discourses (*goṣtī*) and oral exegeses (*viākhiā)*, but as a device for bringing Sikh concepts in line with classical Indian philosophy. Important Nirmala scholars include Pandit Gulab Singh whose main works include *Mōkh Panth* (1778 – ‘Path of Liberation’), which is a comparative study of *gurmat* concepts in relation to Yoga, Nyāya, Mīmāmsā and Vedānta. Another of his works is *Bhāvarasamrit* (1778 – ‘Nature of Immortality’), a treatise on detachment and the nature of reality. Arguably, the best-known Nirmala scholar of the early nineteenth century was Kavi Santokh Singh, best known for treatises such as *Gurpartap Suraj* and *Guru Nanak Prakash* (1823). He also composed the influential commentary *Garbganjani Tīkā (A Commentary to Humble Pride)*, as a riposte to Anandghan’s earlier work. By the late nineteenth century, Nirmalā scholars were regularly producing works of an explicitly philosophical nature but with a more doctrinal bent. A good example is Pandit Tara Singh Narotam’s treatise *Sri Gurmat Nirnai Sāgar* (1877 – “A Treatise on the Nature of Gurmat”). Written at a time of heightened political tensions between Hindus, Muslims and Sikhs under British rule, the title *Gurmat Nirnai Sāgar* indicates efforts to reposition the term *gurmat* in philosophical and religious disputes between various Sikh schools of interpretation and even more so in helping to demarcate and solidify socio-political boundaries between Sikhs and Hindus. Narotam’s treatise was a major attempt to expand the fundamental concepts of the Sikh Gurus (*gurmat*), albeit from the traditional Indian non-dualistic standpoint.
+    step1: |-
+      与游方的乌达西派不同，尼尔马拉派不仅围绕锡克核心圣典的哲学注疏生产了大量文献，还在北印度各地建立了高等学府（*akhāṛās*）。尼尔马拉学者大多精通印度哲学，尤其是不二吠檀多；后者不仅被用作其宗教—哲学论辩（*goṣtī*）与口头注疏（*viākhiā*）的理论框架，也被用作使锡克概念与古典印度哲学相衔接的手段。重要的尼尔马拉学者包括潘迪特·古拉布·辛格，其主要著作有《解脱之道》（*Mōkh Panth*，1778），是对 *gurmat* 概念与瑜伽、正理、弥曼差及吠檀多所作的比较研究；另一部是《不死性之本性》（*Bhāvarasamrit*，1778），论离执与实在之本性。19 世纪初最著名的尼尔马拉学者，大概要数诗人桑托克·辛格（Kavi Santokh Singh），以《古鲁荣耀之日》（*Gurpartap Suraj*）与《那纳克古鲁之光》（*Guru Nanak Prakash*，1823）等著作知名。他还撰有颇具影响的注疏《降伏我慢注》（*Garbganjani Tīkā*），以回应阿南德甘早先之作。到 19 世纪末，尼尔马拉学者经常写出明确具有哲学性质的著作，但教义色彩更浓。佳例是潘迪特·塔拉·辛格·纳罗塔姆的《古鲁教法决断海》（*Sri Gurmat Nirnai Sāgar*，1877——“论古鲁教法之本性”）。此书作于英国统治下印度教徒、穆斯林与锡克人之间政治张力加剧之时，书名本身即表明其努力：在锡克各阐释学派之间的哲学与宗教争论中重新定位 *gurmat* 一词，更在于帮助划定并巩固锡克人与印度教徒之间的社会—政治边界。纳罗塔姆的著作，是从传统印度不二论立场出发扩展锡克古鲁基本概念（*gurmat*）的一次重大尝试。
+    step2: |-
+      与游方的乌达西派不同，尼尔马拉派不仅围绕锡克核心圣典的哲学注疏产出大量文献，还在北印度各地设立高等学府（*akhāṛās*）。尼尔马拉学者大多深通印度哲学，尤精不二吠檀多：它既是其宗教—哲学论辩（*goṣtī*）与口头注疏（*viākhiā*）的理论框架，也是让锡克概念与古典印度哲学接轨的手段。重要学者有潘迪特·古拉布·辛格，其《解脱之道》（*Mōkh Panth*，1778）比较研究 *gurmat* 概念与瑜伽、正理、弥曼差、吠檀多；《不死性之本性》（*Bhāvarasamrit*，1778）则论离执与实在之本性。19 世纪初最知名的尼尔马拉学者，大约是诗人桑托克·辛格（Kavi Santokh Singh），以《古鲁荣耀之日》（*Gurpartap Suraj*）、《那纳克古鲁之光》（*Guru Nanak Prakash*，1823）等作著称。他还撰有影响颇大的《降伏我慢注》（*Garbganjani Tīkā*），回应阿南德甘早先之作。至 19 世纪末，尼尔马拉学者常写明确具有哲学性质的著作，但教义色彩更重。佳例是潘迪特·塔拉·辛格·纳罗塔姆的《古鲁教法决断海》（*Sri Gurmat Nirnai Sāgar*，1877，即“论古鲁教法之本性”）。此书作于英治下印度教徒、穆斯林与锡克人政治张力加剧之际，书名本身即见其用心：在各锡克阐释学派的哲学与宗教争论中重新定位 *gurmat*，更在于帮助划定并巩固锡克人与印度教徒的社会—政治边界。纳罗塔姆此书，是从传统印度不二论立场扩展锡克古鲁基本概念（*gurmat*）的一次重大尝试。
+  - id: 23
+    kind: body
+    source: |-
+      #### 1.1.6 *Giānī Prnāli*
+    step1: |-
+      #### 1.1.6 智识传承（*Giānī Prnāli*）
+    step2: |-
+      #### 1.1.6 智识传承（*Giānī Prnāli*）
+  - id: 24
+    kind: body
+    source: |-
+      The importance of the Giānī *prnālī* (also known as the Giani *Sampardai*) is that its authors and their scholarship not only imbibed premodern and modern influences, but equally complicated the premodern/modern distinction. The term *giānī* is a Punjabi derivation of the Sanskrit *jñāna* or *jñāna mārg* or path of high learning or deep wisdom. The Giānī *prnālī* originated with Bhāī Mani Singh and Babā Deep Singh, both of whom were under the tutelage of the tenth Sikh Guru, Gobind Singh, during his stay at Damdamā Sahib (Taran Singh 1996: 77)[^singh-1996]. Mani Singh later founded a *taksāl* or centre of higher learning, where he developed the art of *kathā* – the delivery of oral discourses expounding the teachings of the Sikh Gurus based on close exegesis of a given *śabad* or verse from the Guru Granth Sahib. *Kathā* is now regarded as integral to the practice of *gurmat* and is specifically tied to the Giānī school. Baba Deep Singh remained at Damdamā, where he founded a similar *taksāl*. Both of these institutions gave rise to influential lineages of scriptural scholarship and oral discourse, which in turn were instrumental for disseminating the philosophical aspects of *gurmat*. A very particular form of their expertise consisted in combining philosophical explanations of the Guru Granth Sahib with biographical narratives (*sākhīan*) of the Sikh Gurus. Examples of scholarship that weave expertise in metaphysical philosophy with the art of storytelling can be found in works such as *Sikhan dī Bhāgat Mālā* and *Giān Ratnāvalī* (Bhāī Mani Singh), *Prayai Guru Granth Sahib* (Bhāī Chandā Singh), *Sri Guru Granth Kōsh* (Bhai Hazarā Singh), *Gurbāṇī Vyākaran* (Bhai Bhagvan Singh), *Tawārikh Guru Khālsā* and *Giān Prabōdh* (Giānī Giān Singh).
+    step1: |-
+      智识传承（*Giānī prnālī*，亦称 Giani *Sampardai*）的重要性在于：其作者与学术不仅吸纳了前现代与现代的影响，也把前现代／现代的区分本身复杂化了。*giānī* 一词是梵语 *jñāna*（或 *jñāna mārg*，即高深学问或深邃智慧之道）的旁遮普语派生。智识传承始于巴伊·马尼·辛格与巴巴·迪普·辛格，二人都在第十位锡克古鲁戈宾德·辛格驻于达姆达马·萨希卜期间受其教导（Taran Singh 1996: 77）[^singh-1996]。马尼·辛格后来创建了一所 *taksāl*（高等学府），在那里发展出 *kathā* 的技艺——即基于对《古鲁·格兰特·萨希卜》中某一 *śabad* 或诗节的细致注疏，口头讲说锡克古鲁的教说。*kathā* 如今被视为 *gurmat* 实践的组成部分，且与智识派特别相关。巴巴·迪普·辛格留在达姆达马，也创建了一所类似的 *taksāl*。这两所机构催生了颇有影响的圣典学术与口头讲说谱系，这些谱系又反过来推动了 *gurmat* 哲学面向的传播。其专长的一种很特别的形式，是把对《古鲁·格兰特·萨希卜》的哲学解释同锡克古鲁的生平叙事（*sākhīan*）结合起来。把形而上学哲学专长与叙事技艺交织在一起的学术范例，可见于以下著作：《锡克虔信花环》（*Sikhan dī Bhāgat Mālā*）与《智慧宝串》（*Giān Ratnāvalī*，巴伊·马尼·辛格）、《普拉亚伊古鲁·格兰特·萨希卜》（*Prayai Guru Granth Sahib*，巴伊·昌达·辛格）、《室利·古鲁·格兰特词典》（*Sri Guru Granth Kōsh*，巴伊·哈扎拉·辛格）、《古鲁之言语法》（*Gurbāṇī Vyākaran*，巴伊·巴格万·辛格）、《卡尔萨古鲁史》（*Tawārikh Guru Khālsā*）与《智慧启明》（*Giān Prabōdh*，智识者吉安·辛格）。
+    step2: |-
+      智识传承（*Giānī prnālī*，亦称 Giani *Sampardai*）之重要，在于其作者与学术既吸纳前现代与现代影响，又把前现代／现代的区分本身弄复杂了。*giānī* 是梵语 *jñāna*（或 *jñāna mārg*，高深学问或深邃智慧之道）的旁遮普语派生词。此系始于巴伊·马尼·辛格与巴巴·迪普·辛格，二人均在第十位锡克古鲁戈宾德·辛格驻于达姆达马·萨希卜期间从其受教（Taran Singh 1996: 77）[^singh-1996]。马尼·辛格后来创建 *taksāl*（高等学府），在那里发展出 *kathā* 之艺：就《古鲁·格兰特·萨希卜》某一 *śabad* 或诗节细加注疏，口头讲说锡克古鲁的教说。*kathā* 今被视为 *gurmat* 实践的组成部分，与智识派尤为相关。巴巴·迪普·辛格则留在达姆达马，另建一所同类 *taksāl*。两所机构各催生有影响的圣典学术与口头讲说谱系，转而推动了 *gurmat* 哲学面向的传播。其专长有一种很特别的形式：把对《古鲁·格兰特·萨希卜》的哲学解释同锡克古鲁的生平叙事（*sākhīan*）结合。兼擅形而上学哲学与叙事之艺的学术范例，可见《锡克虔信花环》（*Sikhan dī Bhāgat Mālā*）、《智慧宝串》（*Giān Ratnāvalī*，巴伊·马尼·辛格）、《普拉亚伊古鲁·格兰特·萨希卜》（*Prayai Guru Granth Sahib*，巴伊·昌达·辛格）、《室利·古鲁·格兰特词典》（*Sri Guru Granth Kōsh*，巴伊·哈扎拉·辛格）、《古鲁之言语法》（*Gurbāṇī Vyākaran*，巴伊·巴格万·辛格）、《卡尔萨古鲁史》（*Tawārikh Guru Khālsā*）、《智慧启明》（*Giān Prabōdh*，智识者吉安·辛格）。
+  - id: 25
+    kind: body
+    source: |-
+      By the close of the nineteenth century, a notable shift is discernible in the scholarly output of the Giānī *prnālī* with the production of complete or partially complete commentaries on central Sikh texts. One reason for this was the contentious framings of Sikh thought by Christian missionaries and Indologists such as Ernest Trumpp, who published the first partial translation of the Adi Granth in 1877. Commissioned by the British administration, Trumpp’s translation was accompanied by a major preface which sketched Sikh philosophical and theological concepts in a manner that undermined the distinctness of the *gurmat* system (Trumpp 1877).
+    step1: |-
+      到 19 世纪末，智识传承的学术产出出现明显转向：开始生产对锡克核心文本的完整或部分完整注疏。原因之一，是基督教传教士与印度学家（如欧内斯特·特鲁姆普）对锡克思想所作的争议性框定——特鲁姆普于 1877 年出版了《阿迪·格兰特》的第一部部分译本。该译本受英国当局委托，附有一篇长序，以贬损 *gurmat* 体系之独特性的方式勾勒锡克哲学与神学概念（Trumpp 1877）。
+    step2: |-
+      至 19 世纪末，智识传承的学术产出明显转向：开始生产对锡克核心文本的完整或部分完整注疏。原因之一，是基督教传教士与印度学家对锡克思想的争议性框定——欧内斯特·特鲁姆普 1877 年即出版了《阿迪·格兰特》的第一部部分译本。此译本受英国当局委托，附有长序，其勾勒锡克哲学与神学概念的方式，贬损了 *gurmat* 体系的独特性（Trumpp 1877）。
+  - id: 26
+    kind: body
+    source: |-
+      In an era of rising nationalist sentiment between the major communities of Punjab (Hindu, Muslim, Sikh) Trumpp’s ‘Sketch’ polarized readers and sparked a series of rebuttals of Western interpretations in the form of philosophical-theological commentaries. The first attempted rebuttal was the *Farīdkōt Tīkā* written by multiple authors belonging to different Sikh schools of interpretation, but under the overall charge of the Nirmala scholar Giānī Badan Singh. Although the *Farīdkōt Tīkā* project was undertaken as a response to Trumpp’s English translation and introduction to the teachings of the Sikh Gurus, it did not have the intended impact for several reasons (Mandair 2022: 31-33)[^mandair-2022]. First, the lateness of its publication in 1905 ensured that the *Farīdkōt Tīkā* was superseded and made irrelevant by the modernist literature of the Lahore Singh Sabhā. Second, its idiom emulated Braj literature, rendering it inaccessible to a wider Sikh readership. More importantly, however, it continued the trend within Nirmala schools of self-consciously framing the hermeneutics of the *Farīdkōt Tīkā* within the Hindu orthodox tradition of *sanātana dharma* whose Vedic-Brahmanical heritage of exegesis was governed by the theological paradigm of “eternal Sanskrit” (Deshpande 1993: 53-73). This appropriation of *gurmat* into the Vedic-Brahmanic paradigm was vigorously contested especially by modernist Sikh thinkers.
+    step1: |-
+      在旁遮普诸大社群（印度教、穆斯林、锡克）民族主义情绪高涨的年代，特鲁姆普的“概述”使读者两极分化，并引发一系列以哲学—神学注疏形式出现的对西方解释的反驳。第一次尝试性反驳是《法里德科特注》，由分属不同锡克阐释学派的作者们合写，而在尼尔马拉学者智识者巴丹·辛格总其成。尽管《法里德科特注》项目是作为对特鲁姆普英译及其对锡克古鲁教说导论之回应而展开的，它却没有达到预期影响，原因有几（Mandair 2022: 31-33）[^mandair-2022]。第一，1905 年方才问世，时已太迟，拉合尔辛格大会的现代主义文献使它过时且无关紧要。第二，其语体仿效布拉吉文学，广大锡克读者难以接近。更重要的是，它延续了尼尔马拉诸派的倾向：自觉地把《法里德科特注》的解释学纳入 *sanātana dharma* 的印度教正统传统之内，而后者的吠陀—婆罗门注疏遗产，受“永恒梵语”的神学范式支配（Deshpande 1993: 53-73）。把 *gurmat* 收编进吠陀—婆罗门范式的做法，尤其遭到现代主义锡克思想家的激烈反驳。
+    step2: |-
+      在旁遮普诸大社群（印度教徒、穆斯林、锡克人）民族主义情绪高涨的年代，特鲁姆普的“概述”使读者两极分化，并激起一系列以哲学—神学注疏形式反击西方解释的著作。第一次尝试性反驳是《法里德科特注》，作者分属不同锡克阐释学派，总其成者是尼尔马拉学者智识者巴丹·辛格。此番反驳虽针对特鲁姆普的英译与他对锡克古鲁教说的导论，却未能收到预期效果，原因有几（Mandair 2022: 31-33）[^mandair-2022]。其一，1905 年方才出版，时已太迟，拉合尔辛格大会的现代主义文献令它过时而无足轻重。其二，其语体仿效布拉吉文学，广大锡克读者难以接近。更关键的是，它延续了尼尔马拉诸派的倾向：自觉把《法里德科特注》的解释学放进 *sanātana dharma* 的印度教正统传统之内，而那套吠陀—婆罗门注疏遗产受“永恒梵语”神学范式支配（Deshpande 1993: 53-73）。把 *gurmat* 收编进吠陀—婆罗门范式，尤其遭到现代主义锡克思想家的激烈反驳。
+  - id: 27
+    kind: body
+    source: |-
+      By the end of the nineteenth century, these contestations reached new levels of theological, philosophical and socio-political complexity, driven in part by the rise of a radically new interpretive paradigm based on the encounter between modern Western thought and existing schools of Sikh thought-practice. It is this peculiarly modern encounter which led to the emergence of the assemblage ‘Sikh Philosophy’. To understand how this happened, we need to look at the Singh Sabha *prnālī*, the school of interpretation which has dominated Sikh thought since the colonial period, ironically through its inadvertent alliance with religio-secular regimes of translation.
+    step1: |-
+      到 19 世纪末，这些争辩在神学、哲学与社会—政治层面达到新的复杂程度；其部分推动力，是一个全新的解释范式的兴起——它基于现代西方思想与既有锡克思想—实践诸派之间的相遇。正是这一特有的现代相遇，催生了“锡克哲学”这一装配体。要理解这如何发生，须考察辛格大会传承（Singh Sabha *prnālī*）——殖民时期以来主导锡克思想的阐释学派；吊诡的是，它是通过同宗教—世俗翻译体制的不经意结盟而获得这一地位的。
+    step2: |-
+      至 19 世纪末，这些争辩在神学、哲学与社会—政治层面复杂到新的程度；部分推动力是一个全新解释范式的兴起——它出自现代西方思想与既有锡克思想—实践诸派的相遇。正是这场特有的现代相遇，催生了“锡克哲学”这一装配体。要理解其由来，须考察辛格大会传承（Singh Sabha *prnālī*）——殖民时期以来主导锡克思想的阐释学派。吊诡的是，它得以如此，靠的恰是与宗教—世俗翻译体制的不经意结盟。
+  - id: 28
+    kind: body
+    source: |-
+      ### 1.2 Modern Sources
+    step1: |-
+      ### 1.2 现代资料
+    step2: |-
+      ### 1.2 现代资料
+  - id: 29
+    kind: body
+    source: |-
+      #### 1.2.1 Singh Sabha *prnālī*
+    step1: |-
+      #### 1.2.1 辛格大会传承（Singh Sabha *prnālī*）
+    step2: |-
+      #### 1.2.1 辛格大会传承（Singh Sabha *prnālī*）
+  - id: 30
+    kind: body
+    source: |-
+      Before it became a school of Sikh thought in its own right, the Singh Sabha started out as a social and religious reform movement with clear political undertones. Philosophically, its aim was to foreground the conceptual idiom of *gurmat* as a tool for resisting the more influential spheres of Christian, Hindu and Muslim intellectual thought. At the same time Singh Sabha thought needed to remain open to engagement with modern Western modes of critical reasoning and philosophical speculation. This approach is demonstrated in some of the early works composed by Singh Sabha intellectuals such as Kahn Singh Nabhā, Bhāī Vīr Singh and Teja Singh. In the 1890s, Kahn Singh Nabha published two important works, *Gurmat Prabhakar* (*Gurmat as Enlightenment*) and *Gurmat Suddhakar* (Essence of *Gurmat*), both of which listed key concepts of the Sikh Gurus arranged in alphabetical order and supported by a litany of scriptural quotations. In 1931, Nabha produced his monumental *Gurshabad Ratnakar Mahānkōsh* (Great Dictionary of the Guru’s Lexicon), which continues to be an indispensable work for research into Sikh philosophy and theology.
+    step1: |-
+      在成为一门自主的锡克思想学派之前，辛格大会起初是一场带有明显政治底色的社会与宗教改革运动。哲学上，它的目标是凸显 *gurmat* 的概念语言，以之作为抵抗更有影响力的基督教、印度教与穆斯林思想领域的工具。同时，辛格大会思想又须保持开放，与现代西方的批判推理与哲学思辨方式对话。这一进路见于辛格大会知识分子的早期著作，如卡恩·辛格·纳巴、巴伊·维尔·辛格与特贾·辛格。1890 年代，卡恩·辛格·纳巴出版两部重要著作：《古鲁教法启蒙》（*Gurmat Prabhakar*）与《古鲁教法精粹》（*Gurmat Suddhakar*）；两书皆按字母顺序列出锡克古鲁的核心概念，并配以大量经文引证。1931 年，纳巴完成其巨著《古鲁词汇大词典》（*Gurshabad Ratnakar Mahānkōsh*），至今仍是锡克哲学与神学研究不可或缺之作。
+    step2: |-
+      在成为自主的锡克思想学派之前，辛格大会起初是一场社会与宗教改革运动，带有明显的政治底色。哲学上，它要把 *gurmat* 的概念语言推到前台，作为抵抗势力更大的基督教、印度教与穆斯林思想领域的工具；同时又须向现代西方的批判推理与哲学思辨保持开放。这一进路可见于辛格大会知识分子的早期著作，如卡恩·辛格·纳巴、巴伊·维尔·辛格、特贾·辛格。1890 年代，卡恩·辛格·纳巴出版两部要著：《古鲁教法启蒙》（*Gurmat Prabhakar*）与《古鲁教法精粹》（*Gurmat Suddhakar*）——两书皆按字母序列出锡克古鲁的核心概念，辅以连串经文引证。1931 年，纳巴又成巨著《古鲁词汇大词典》（*Gurshabad Ratnakar Mahānkōsh*），至今仍是锡克哲学与神学研究不可或缺之书。
+  - id: 31
+    kind: body
+    source: |-
+      The late 1920s and 30s were fruitful decades for Sikh philosophical exegesis with the production of works such as Bhai Vir Singh’s seven volume *Santhya Sri Guru Granth Sahib*, and his *Guru Nanak Chamaṭkār* (Radiance of Guru Nanak); Teja Singh’s four volume *Shabadarth Sri Guru Granth Sahib*, Sahib Singh’s ten volume *Sri Guru Granth Sahib Darpan*, and Jodh Singh’s *Gurmati Nirnai* (Treatise on the Guru’s Philosophy). Almost all of these works are concerned primarily with establishing the doctrinal integrity of Sikh concepts rather than producing a systematic philosophy. In this sense, they mark a successful culmination of fifty years of interpretative activity in the idiom of modern Punjabi that effectively defined the nature of the early Singh Sabha *prnālī*.
+    step1: |-
+      1920 年代末与 1930 年代是锡克哲学注疏的多产年代，代表性著作有：巴伊·维尔·辛格的七卷本《圣典正读：室利·古鲁·格兰特·萨希卜》（*Santhya Sri Guru Granth Sahib*）及其《那纳克古鲁光辉》（*Guru Nanak Chamaṭkār*）；特贾·辛格的四卷本《室利·古鲁·格兰特·萨希卜词义》（*Shabadarth Sri Guru Granth Sahib*）；萨希布·辛格的十卷本《室利·古鲁·格兰特·萨希卜明镜》（*Sri Guru Granth Sahib Darpan*）；以及乔德·辛格的《古鲁教法决断》（*Gurmati Nirnai*）。这些著作几乎都以确立锡克概念的教义完整性为首要关切，而非构建系统哲学。就此而言，它们标志着五十年现代旁遮普语阐释活动的成功顶点——正是这种阐释活动，界定了早期辛格大会传承的性质。
+    step2: |-
+      1920 年代末与 1930 年代是锡克哲学注疏的多产期，要著有：巴伊·维尔·辛格七卷本《圣典正读：室利·古鲁·格兰特·萨希卜》（*Santhya Sri Guru Granth Sahib*）及《那纳克古鲁光辉》（*Guru Nanak Chamaṭkār*）；特贾·辛格四卷本《室利·古鲁·格兰特·萨希卜词义》（*Shabadarth Sri Guru Granth Sahib*）；萨希布·辛格十卷本《室利·古鲁·格兰特·萨希卜明镜》（*Sri Guru Granth Sahib Darpan*）；乔德·辛格《古鲁教法决断》（*Gurmati Nirnai*）。这些著作几乎都以确立锡克概念的教义完整性为首要关切，而非构建系统哲学。就此而言，它们是五十年现代旁遮普语阐释活动的成功顶点——正是这种阐释活动，界定了早期辛格大会传承的性质。
+  - id: 32
+    kind: body
+    source: |-
+      The notable exception is Jodh Singh’s *Gurmati Nirnai*, which because of its succinctness (single volume as opposed to the multi-volume nature of other Singh Sabha works), its conceptual and schematic organization (other Singh Sabha works were straightforward textual exegeses) and its accessible style (it reads like a transcript of public lectures), can be regarded as the prototype for properly philosophical works on Sikh philosophy that would appear later in the twentieth century. One of the striking things about *Gurmati Nirnai* is its broad schematic arrangement which appears simply to have transplanted the Kantian ontotheological schema of God-World-Man for organizing the main chapters in the following way: (Chapter 1) God (*akāl purakh*), (Chapter 2) World (*sristī rachnā*), (Chapter 3) Man (*manukh*), (Chapter 4) the Guru (*Guru*)…… (Chapter 9) Word (*śabad*)… (Bhai Jodh Singh 1932)[^singh-1932][^singh-1932-2]. The first chapter is essentially an extended argument for the need to comprehend the existence of God in terms of a static immutable One. The crux of his argument is to demonstrate the transcendental nature of the One, which allows him not only to reproduce an intellectual separation between God/World/Man in the early chapters but, by the time he comes to discuss the nature of community in chapter 14, to use ontological separation as a basis for establishing an epistemological distinction between Sikh and non-Sikh world-views (Mandair 2022, 38)[^mandair-2022]. In many ways, *Gurmat Nirnai* was the bridge to the next generation of Sikh thinkers, particularly those writing in English, and more specifically those scholars who used its readily accessible schema to materialize a ‘Sikh Philosophy’ based on a modernized interpretation of *gurmat*. It was, in other words, the bridge that created the appearance of a faithful and unhindered passage of meaning akin to what Talal Asad calls a “secular translation” (Asad 2018)[^asad-2018] from *gurmat* to ‘Sikh Philosophy’, giving the impression that the two are exactly the same.
+    step1: |-
+      显著的例外是乔德·辛格的《古鲁教法决断》：它篇幅精炼（单卷本，不同于辛格大会其他多卷本著作）、概念与图式化组织（其他著作是直接的文本注疏）、文风平易（读起来像公开讲演的记录），因此可视为 20 世纪后半叶出现的锡克哲学的真正哲学著作之原型。《古鲁教法决断》引人注目之处，是其宽泛的图式安排：它似乎径直移植了康德式的“上帝—世界—人”存在神论图式来组织主要章节：（第 1 章）上帝（*akāl purakh*）、（第 2 章）世界（*sristī rachnā*）、（第 3 章）人（*manukh*）、（第 4 章）古鲁（*Guru*）……（第 9 章）圣言（*śabad*）……（巴伊·乔德·辛格 1932）[^singh-1932][^singh-1932-2]。第一章实质上是一个扩展论证，主张必须把上帝的存在理解为一个静止不变的“太一”。其论证的关键，在于证明太一的超越本性：这使他不但在前几章复制了上帝／世界／人的智识分离，而且到第 14 章讨论共同体本性时，能把本体论分离用作确立锡克与非锡克世界观之认识论区分的基础（Mandair 2022, 38）[^mandair-2022]。在许多方面，《古鲁教法决断》是通向下一代锡克思想家的桥梁，尤其是用英文写作的那些人——更确切说，是那些利用其平易图式、把以现代化方式阐释的 *gurmat* 落实为“锡克哲学”的学者。换句话说，正是这座桥，制造了从 *gurmat* 到“锡克哲学”的意义忠实而畅通的通道之表象，近乎塔拉勒·阿萨德所谓“世俗翻译”（Asad 2018）[^asad-2018]——给人的印象是：二者全然相同。
+    step2: |-
+      显著的例外是乔德·辛格的《古鲁教法决断》。它篇幅精炼（单卷本，不同于辛格大会其他多卷之作）、组织概念化、图式化（其余著作是直接的文本注疏）、文风平易（读来如公开讲演的记录），故可视为 20 世纪后半叶陆续出现的、真正哲学性的锡克哲学著作之原型。《古鲁教法决断》最惹眼的是其宽泛的图式安排：它似乎径直移植了康德式“上帝—世界—人”的存在神论图式来安排主要章节：（第 1 章）上帝（*akāl purakh*）、（第 2 章）世界（*sristī rachnā*）、（第 3 章）人（*manukh*）、（第 4 章）古鲁（*Guru*）……（第 9 章）圣言（*śabad*）……（巴伊·乔德·辛格 1932）[^singh-1932][^singh-1932-2]。第一章实质是一个扩展论证：必须把上帝的存在理解为一个静止不变的“太一”。论证的枢纽，在于证明太一的超越性——这使他不但在前几章复制了上帝／世界／人的智识分离，到第 14 章讨论共同体本性时，还能把本体论分离用作确立“锡克世界观／非锡克世界观”认识论区分的基础（Mandair 2022, 38）[^mandair-2022]。在许多方面，《古鲁教法决断》是通向下一代锡克思想家的桥梁，尤其对用英文写作的人——更确切说，对那些借其平易图式、把现代化阐释的 *gurmat* 落实为“锡克哲学”的学者而言。换句话说，正是这座桥制造了一种表象：从 *gurmat* 到“锡克哲学”的意义通行无阻、忠实可靠，一如塔拉勒·阿萨德所谓“世俗翻译”（Asad 2018）[^asad-2018]——仿佛二者全然相同。
+  - id: 33
+    kind: body
+    source: |-
+      Arguably the first sustained and systematic work of modern Sikh philosophy is Sher Singh’s *Philosophy of Sikhism* (Sher Singh 1944)[^singh-1944]. Sher Singh’s book is also the first to bring Sikh ideas into a comparative framework (Sher Singh 1944)[^singh-1944]. Writing in the mid- to late 1930’s the author is acutely aware of breaking new ground as can be noted in his somewhat nervous attempt to justify the use of “philosophy” in the title of his book: “What justifies the title of my work is the angle, the viewpoint, from which I have approached Sikhism” (Sher Singh: i). This new perspective, he argues, is one based on “rational conviction” and “impassionate criticism” which alone can succeed “in exercising a rational check on biased opinions issuing from …. [t]he fact of my being a Sikh by birth” (Sher Singh: i). Equally noteworthy in this preface is Sher Singh’s apology for “indulging in comparisons between concepts held by the Guru and those held by some Western thinkers” (Sher Singh: i). “I realize” he goes on “that this was not very necessary and could be safely avoided. I have done so in the hope that *such a comparison may render an Eastern concept more intelligible* to the Western or non-Sikh reader” (Sher Singh: i, *emphasis mine*).
+    step1: |-
+      现代锡克哲学第一部有持续性、成系统的著作，可以说是谢尔·辛格的《锡克教哲学》（Sher Singh 1944）[^singh-1944]。该书也首次把锡克观念置入比较框架（Sher Singh 1944）[^singh-1944]。作者写作于 1930 年代中后期，清楚地意识到自己在开垦新地；这一点可以从他略带不安地为书名中“哲学”一词辩护的尝试中看出：“为我这部书之题名辩护的，是我进入锡克教的角度、视点”（Sher Singh: i）。他论证说，这一新视角基于“理性信念”与“不动情的批评”；唯有它们才能“对出于……〔t〕我生而为锡克人这一事实的偏颇意见，施加理性的检核”（Sher Singh: i）。序言中同样值得注意的是谢尔·辛格对“把古鲁们所持概念与某些西方思想家所持概念相比较”的辩解（Sher Singh: i）。“我意识到，”他接着说，“这并非十分必要，本可稳妥地避免。我这样做，是希望*这种比较或可使东方概念对西方或非锡克读者更为易解*”（Sher Singh: i，*着重为我所加*）。
+    step2: |-
+      现代锡克哲学第一部有持续性、成系统的著作，可以说是谢尔·辛格的《锡克教哲学》（Sher Singh 1944）[^singh-1944]。此书也首次把锡克观念放进比较框架（Sher Singh 1944）[^singh-1944]。作者动笔于 1930 年代中后期，自觉是在开垦新地；他略带不安地为书名中的“哲学”一词辩护，即可为证：“为我这部书题名辩护的，是我进入锡克教的角度、视点”（Sher Singh: i）。他论证道，这一新视角立于“理性信念”与“不动情的批评”之上；唯有它们才能“对出于……〔t〕我生而为锡克人这一事实的偏颇意见施加理性检核”（Sher Singh: i）。序言中同样值得留意的是，他为“把古鲁们所持概念与某些西方思想家所持概念相比较”作了辩解（Sher Singh: i）。“我意识到，”他接着说，“这并非十分必要，本可稳妥地避免。我这样做，是希望*这种比较或可使东方概念对西方或非锡克读者更为易解*”（Sher Singh: i，*着重为我所加*）。
+  - id: 34
+    kind: body
+    source: |-
+      After the 1960s, there were sporadic attempts to rearticulate the discourse of Sikh philosophy. This can be seen in works such as Ishar Singh’s *Philosophy of Guru Nanak* (1978), Daljeet Singh’s *The Sikh Ideology* (1979) or Sohan Singh’s *The Seeker’s Path*.
+    step1: |-
+      1960 年代之后，陆续有人尝试重新表述锡克哲学话语，如伊沙尔·辛格的《那纳克古鲁哲学》（1978）、达尔吉特·辛格的《锡克意识形态》（1979）或索汉·辛格的《求道者之路》。
+    step2: |-
+      1960 年代之后，仍有人断续尝试重新表述锡克哲学话语：伊沙尔·辛格《那纳克古鲁哲学》（1978）、达尔吉特·辛格《锡克意识形态》（1979）、索汉·辛格《求道者之路》皆属此列。
+  - id: 35
+    kind: body
+    source: |-
+      #### 1.2.2 New Wave
+    step1: |-
+      #### 1.2.2 新浪潮
+    step2: |-
+      #### 1.2.2 新浪潮
+  - id: 36
+    kind: body
+    source: |-
+      It is only in the 1980s and 1990s that a new wave of publications with an overtly philosophical orientation begin to emerge. English language works exemplifying this new approach include Avtar Singh’s *Ethics of the Sikhs* (1983), Gurnām Kaur’s *Reason and Revelation* (1990), Nirbhai Singh’s *Philosophy of Sikhīsm* (1990), Himat Singh’s *Philosophical Conception of Śabad* (1985), Jasbir Singh Ahluwalia’s *Sovereignty of the Sikh Doctrine* (1983/2005), and Nikky Guninder Kaur Singh’s *Physics and Metaphysics of the Guru Granth Sahib* (1987). Notable Punjabi language works focusing on Sikh thought include Harinder Singh Mahboob’s *Sahaje Rachio Khālsā* (1988) and Jasbir Singh Ahluwalia’s *Sikh Falsafe dī Bhumikā* (Preface to a Sikh Philosophy) and his *Sikh Chintan: Darśanak ate Sansthāmik Vikās* (Sikh Thought: Philosophical Vision and Systematic Development).[^note-6] Also important here are the works of the Sikh postmodernist thinker and literary critic Gurbhagat Singh, notably his *Vishwa Chintan ate Punjabi Sahit* (World Thought and Punjabi Literature), *Sikhīsm and Postmodern Thought* and *Western Poetics and Eastern Thought*, the title of which playfully reverses the Indian philosopher Sarvapalli Radhakrishan’s classic text: *Eastern Religions and Western Thought*. Recent additions to this list include *Sikh Philosophy: Exploring Gurmat Concepts in a Decolonizing Age* (Mandair: 2022)[^mandair-2022], and *Guru Nanak’s Transcendent Aesthetics* (2024) by Nikky Guninder Kaur Singh.
+    step1: |-
+      直到 1980 与 1990 年代，一批具有鲜明哲学取向的新出版物才出现。体现这一新进路的英文著作包括：阿夫塔尔·辛格《锡克教伦理学》（1983）、古尔南·考尔《理性与启示》（1990）、尼尔拜·辛格《锡克教哲学》（1990）、希马特·辛格《Śabad 的哲学构想》（1985）、贾斯比尔·辛格·阿卢瓦利亚《锡克教义的主权》（1983/2005），以及尼基·古尼德尔·考尔·辛格《古鲁·格兰特·萨希卜的物理学与形而上学》（1987）。以旁遮普语写作、聚焦锡克思想的要著，有哈林德尔·辛格·马布布的《本然成就卡尔萨》（*Sahaje Rachio Khālsā*，1988），贾斯比尔·辛格·阿卢瓦利亚的《锡克哲学序论》（*Sikh Falsafe dī Bhumikā*）与《锡克思想：哲学愿景与系统发展》（*Sikh Chintan: Darśanak ate Sansthāmik Vikās*）。[^note-6] 同样重要的是锡克后现代思想家、文学批评家古尔巴加特·辛格的著作，尤其是《世界思想与旁遮普文学》（*Vishwa Chintan ate Punjabi Sahit*）、《锡克教与后现代思想》与《西方诗学与东方思想》——最后这部书名戏仿印度哲学家萨尔瓦帕利·拉德哈克里希南的名著《东方宗教与西方思想》。这一清单的近作有：《锡克哲学：去殖民时代的古鲁教法概念探析》（Mandair 2022）[^mandair-2022]，与尼基·古尼德尔·考尔·辛格的《那纳克古鲁的超越美学》（2024）。
+    step2: |-
+      直到 1980 与 1990 年代，一批哲学取向鲜明的新出版物才渐次出现。体现这一新进路的英文著作有：阿夫塔尔·辛格《锡克教伦理学》（1983）、古尔南·考尔《理性与启示》（1990）、尼尔拜·辛格《锡克教哲学》（1990）、希马特·辛格《*Śabad* 的哲学构想》（1985）、贾斯比尔·辛格·阿卢瓦利亚《锡克教义的主权》（1983/2005）、尼基·古尼德尔·考尔·辛格《古鲁·格兰特·萨希卜的物理学与形而上学》（1987）。以旁遮普语写作、聚焦锡克思想的要著有：哈林德尔·辛格·马布布《本然成就卡尔萨》（*Sahaje Rachio Khālsā*，1988）；贾斯比尔·辛格·阿卢瓦利亚《锡克哲学序论》（*Sikh Falsafe dī Bhumikā*）、《锡克思想：哲学愿景与系统发展》（*Sikh Chintan: Darśanak ate Sansthāmik Vikās*）。[^note-6] 同样要紧的是锡克后现代思想家兼文学批评家古尔巴加特·辛格的著作，尤其《世界思想与旁遮普文学》（*Vishwa Chintan ate Punjabi Sahit*）、《锡克教与后现代思想》、《西方诗学与东方思想》——末一种书名戏仿印度哲学家萨尔瓦帕利·拉德哈克里希南的名著《东方宗教与西方思想》。近年又添两种：《锡克哲学：去殖民时代的古鲁教法概念探析》（Mandair 2022）[^mandair-2022]，与尼基·古尼德尔·考尔·辛格《那纳克古鲁的超越美学》（2024）。
+  - id: 37
+    kind: body
+    source: |-
+      ## 2. Metaphysics and Key Concepts
+    step1: |-
+      ## 2 形而上学与核心概念
+    step2: |-
+      ## 2 形而上学与核心概念
+  - id: 38
+    kind: body
+    source: |-
+      ### 2.1 Oneness
+    step1: |-
+      ### 2.1 太一
+    step2: |-
+      ### 2.1 太一
+  - id: 39
+    kind: body
+    source: |-
+      Almost all commentaries on *gurmat* and modern works on Sikh thought tend to agree that the cornerstone of Sikh philosophy is a conceptual practice of oneness indicated by the symbol ੴ (*ik oankār*) which stands at the beginning of Sikh scripture, is repeatedly invoked in the canonical texts, and is treated as a mnemo-praxical sermon by all Sikhs.[^note-7] The broad sense of ੴ (*ik oankār*) emerging from these commentaries can be summarized as: One (*ik*), whose fundamental resonant vibration (*oan-kār*) expresses itself in the same way in being and beings, sustaining the ongoing creative process; this resonant oneness thereby expresses the true nature of reality (*satnām*). Based on this definition it is possible to trace a metaphysics whose broad contours can be summarized in the statement that oneness is *absolute -* about which there is broad agreement amongst Sikh philosophers, although what they mean by absolute is described in different ways. For example, Nirbhai Singh uses the term ‘absolute’ to emphasize the “metaphysical necessity for Guru Nanak to develop a dynamic system which could restore the reality of action in historical time” (Nirbhai Singh: p. 65). Himat Singh deploys the term “Trans-Aesthetic” to shift discussion of the absolute nature of oneness towards the vibrational ontology of *śabad* (Himat Singh 1985: 21)[^singh-1985]. Likewise Nikky Singh speaks of Guru Nanak’s transcendental aesthetic to depict a oneness that is simultaneously sensuous and non-sensuous, corporeal and incorporeal (Nikky Singh 2025).
+    step1: |-
+      几乎所有对 *gurmat* 的注疏与现代锡克思想著作都倾向于同意：锡克哲学的基石是一种以符号 ੴ（*ik oankār*）标示的太一概念实践；该符号立于锡克圣典开篇，在正典文本中屡被召唤，并被所有锡克人视为一种记忆—实践式的布道。[^note-7] 从这些注疏中浮现的 ੴ（*ik oankār*）之广义，可概括为：太一（*ik*），其根本的共振振动（*oan-kār*）以同一方式在存在与存在者中显发，维系着进行中的创造过程；这一共振的太一由此显发实在的本真之名（*satnām*）。基于此定义，可以勾勒一种形而上学，其大致轮廓可概括为：太一是*绝对的*——对此锡克哲学家有广泛共识，尽管他们对“绝对”的表述各有不同。例如，尼尔拜·辛格用“绝对”一词强调“形而上学的必然性：那纳克古鲁必须发展出一个动态体系，以在历史时间中恢复行动的实在性”（Nirbhai Singh: p. 65）。希马特·辛格则用“超美学”一词，把关于太一之绝对性的讨论转向 *śabad* 的振动存在论（Himat Singh 1985: 21）[^singh-1985]。同样，尼基·辛格谈“那纳克古鲁的超越美学”，以刻画一种同时是感性的与非感性的、有身的与无身的太一（Nikky Singh 2025）。
+    step2: |-
+      几乎一切 *gurmat* 注疏与现代锡克思想著作都倾向于同意：锡克哲学的基石，是一种以符号 ੴ（*ik oankār*）标示的太一概念实践。此符号立于锡克圣典开篇，在正典文本中屡被召唤，所有锡克人都把它当作一种记忆—实践式的布道。[^note-7] 从这些注疏中浮现的 ੴ（*ik oankār*）广义如下：太一（*ik*）的根本共振振动（*oan-kār*），以同一方式在存在与存在者中显发，维系着持续进行的创造过程；这一共振的太一，由此显发实在的本真之名（*satnām*）。据此可勾勒一种形而上学，其大致轮廓是：太一是*绝对的*——锡克哲学家于此有广泛共识，只是“绝对”所指，各家表述不一。例如尼尔拜·辛格用“绝对”强调“形而上学的必然性：那纳克古鲁必须发展出一个动态体系，以在历史时间中恢复行动的实在性”（Nirbhai Singh: p. 65）；希马特·辛格用“超美学”把太一之绝对性的讨论转向 *śabad* 的振动存在论（Himat Singh 1985: 21）[^singh-1985]；尼基·辛格则谈“那纳克古鲁的超越美学”，刻画一种同时感性而非感性、有身而无身的太一（Nikky Singh 2025）。
+  - id: 40
+    kind: body
+    source: |-
+      Descriptive variations notwithstanding, contemporary Sikh philosophers seem to agree on the following implications of Nanak’s notion of oneness. First, that this oneness does not brook oppositions or dualisms such as one/many, matter/consciousness, form/formlessness, time/timelessness, conditioned/unconditioned, transcendence/immanence, corporeal/incorporeal, finite/infinite, dark/light, good/evil, to name but a few. Second, it follows that this oneness cannot be represented; to represent it is to enter into dualism. To comply with this imperative logic of non-oppositional oneness, Nanak resorts to the language of aesthetics.[^note-8] Indeed, all of Nanak’s compositions and those of his successor Gurus are expressed in poetic form set to musical measures.
+    step1: |-
+      尽管表述各异，当代锡克哲学家对那纳克太一概念的以下含义似乎有共识。第一，这一太一不容对立或二元，如一／多、物质／意识、形／无形、时间／无时间、有条件／无条件、超越／内在、有身／无身、有限／无限、暗／明、善／恶，仅举其要。第二，由此推出：太一不可表象；表象它即是进入二元。为遵循这种非对立太一的命令式逻辑，那纳克诉诸美学的语言。[^note-8] 事实上，那纳克及其继承古鲁的全部作品，都以配乐调式的诗体写成。
+    step2: |-
+      表述虽异，当代锡克哲学家对那纳克太一概念似有如下共识。其一，这一太一不容对立或二元：一／多、物质／意识、形／无形、时间／无时间、有条件／无条件、超越／内在、有身／无身、有限／无限、暗／明、善／恶，仅举其要。其二，由此可知太一不可表象——表象它即堕入二元。为遵循这种非对立太一的命令式逻辑，那纳克诉诸美学的语言。[^note-8] 事实上，那纳克及其继承古鲁的全部作品，都以配乐调式的诗体写成。
+  - id: 41
+    kind: body
+    source: |-
+      ### 2.2 Time and Aesthetics
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      Aesthetics in Sikh philosophy therefore, has less to do with a theory of form or beauty than with sensibility, that is, the degree of sensitivity of an individual to experiencing subject and object, self and world, immediately and as a fundamental unity. For Sher Singh, this fundamental unity is a “feeling-state” which Guru Nanak describes as “*vismād*” or the “aesthetic feeling of wonder” experienced directly as an “enjoyment” of an “indescribable intensity” that can only be tasted (*suād*). Nikky Singh also emphasises taste as a central component to aesthetic in Sikh philosophy (Nikky Singh: 2025). For Himat Singh, this fundamental unity central to the aesthetic is encapsulated by the term *śabad*, which in its explanatory function acts a “trans-aesthetic” principle (Himat Singh: 1985: 203-22; 2025: 15-29)[^singh-1985]. All three of these thinkers appear to agree, however, that aesthetics describes a sensibility in which “the experiencer and experienced is one linked unity” (Sher Singh: 238). It comes back to a oneness that is not quantifiable, but is qualitative, a state of being in which multiplicity is always already fused with oneness from the outset. This non-oppositional logic of the one-many (*ek-anek*) is the axial principle underpinning all existence and non-existence, all matter and consciousness, and therefore all life, in such a way that matter and consciousness are part of a continuum of oneness. Oneness incorporates both simultaneously. To say ‘simultaneously’ suggests a mode of time specific to non-oppositional logic required to experience oneness. It suggests that the difference between the one and the many is not only the same as its identity, but that coexistence of opposites, that is, coexistence of differences, is logically consistent only if we assume that the nature of time is not identical to itself. Which is to say that time cannot be reduced to the passage of identical moments, which, in Sikh philosophy, is ordinary or everyday, or time as it is constructed by the human mind – *kāl* (Nirbhai Singh 1990: 113-114; Mandair 2022: 57-59)[^mandair-2022][^singh-1990]. Rather, the true nature of time is more complicated and more usefully considered as an internal proliferation of difference. Time is a constantly ongoing self-differentiation. According to *gurmat*, this infinitely expansive, measureless time, which is untimely in its essence, is referred to as *akāl* (Nirbhai Singh 113-114; Mandair 2022: 55-59, 136-37)[^mandair-2022].
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Modernist scholarship in Sikh studies has tended to translate *akāl* in theological terms as a divine attribute: immortality, eternity, immutability (see McLeod 1968: Ch. 5; Jodh Singh 1969)[^mcleod-1968][^singh-1969]. As argued elsewhere, theological interpretations by and large followed trends in Christian thought in reducing *akāl* (infinite, immeasurable, timeless time) to *kāl* (chronological, spatialized, human time). *Akāl* is therefore not an objectifiable mode of time, but an experiential awareness of oneness in which there is no oppositionality, no enmity, no distance between self and other, subject and object. From this perspective, reality is one and many at the same time, and can be ‘known’ only intuitively or affectively.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Two important questions arise here. First, if the true nature of reality is oneness, and if the nature of this oneness is infinitely expansive, unchanging, measureless, etc., why are we not aware of this oneness during the course of daily life? What prevents us from realising this in the world that we live in, or in the social contexts we inhabit? (Mandair 2022: 80)[^mandair-2022]
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      ### 2.3 Self and Individuation
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      The answer, according to Nanak, lies in the way that our ego has been structured and conditioned by society since birth, but especially since the acquisition of language.[^note-9] This social-symbolic conditioning limits the function and potential of the ego by impelling it to separate itself from itself, through a mode of individuation that takes identity as the condition for difference. In other words, its sense of reality begins with self-affirmation (*haumai*: lit. I am myself) that fundamentally denies its own otherness. The functionality of *haumai* has been understood in various ways in recent works of Sikh philosophy. Nirbhai Singh interprets *haumai* negatively as the “evil of individuation” (Nirbhai Singh 1990: 158)[^singh-1990]. In Gurnam Kaur’s treatment, *haumai* stems from the disease or a poison stemming ultimately from ignorance. However, Sher Singh reads *haumai* as the “cause of our personal individuality”, yet the individual self is no more than a “temporary partition caused by our individualism” (Sher Singh 1944: 227-229)[^singh-1944]. As a “partitioning element” *haumai* may be a disease, an obstacle to the yearning within us to become one with *nām*, but at the same time, Sher Singh also highlights Nanak’s own refusal to denounce *haumai* as simply negative. For Nanak, the cure to *haumai* lies within *haumai* itself, suggesting that individuation is a more complex process in which self-making has be balanced with self-unmaking. A more helpful way to think about the mechanism of individuation proper to *haumai* is to regard it as a psychic entity that becomes stuck in a recursive feedback loop that generates self-sameness or identity shorn of difference. From within the limited *kāl*-centric time-frame that we inhabit, we are conditioned in such a way as to create a split within the field of consciousness by jettisoning what we deem to be not-self or other. This conventional form of individuation (*manmukh* = mind-facing individuality), which we believe constitutes normality, can interact with the world, with other selves, only via the split or oppositional binary. From here on, what the conventional self understands as oneness is actually a form of individuation based on a drive toward self-identity.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      Thus far, Sikh philosophy’s analysis of the ego/self gives the impression of being not too far removed from the humanism that underpins Freudian, Lacanian, and Kleinian forms of Western psychology. Where it differs is in its relative attribution of value to ego and non-ego. In Western psychology, a strong and stable ego is valued, and through this valuation non-ego is devalued and effectively banished from waking-state consciousness that we regard as ‘reality’. In contradistinction, Sikh philosophy, as we read below, values the relation between ego and non-ego. Reality disappears when we separate ego and non-ego; it opens up when we relate them.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      This brings us to the second question. How is oneness to be realised, brought into effect? (SGGS: Japji 1; Avtar Singh 1983)[^singh-1983] Here, Sikh philosophy departs even more radically from humanism. According to Sikh philosophy, the conventional ego needs to be radically transformed. Like other spiritual traditions *gurmat* talks about transforming the conventional self-conscious ego by annihilating it and replacing it with a different psychic structure. References to killing the ego are not merely metaphorical. They refer to the self-effort required to tap into a reservoir of force immanent within life, tapping which it becomes possible to transform conventional processes of ego formation (*haumai*), not by literally killing the ego, but by re-orienting the desire that makes it crave for the contracted egocentric state of consciousness, which society has conditioned us to desire in the first place (see McLeod 1968: Ch. 7; Nikky Singh 2005)[^mcleod-1968][^singh-2005]. This ordinary, socially conditioned state is called *manmukh*. Terms such as ‘annihilation’ or ‘killing’ thus refer to the self-overcoming required to break our attachment to convention. And this self-overcoming is required to shift the axis of desire toward the aspect of the psyche that society forced it to split off and ultimately repress, namely, the non-ego, the outside world, the other, or the infinitely expanded reality of oneness.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      ### 2.4 *Śabad* and *Nām*
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      In Sikh philosophy, the clearest indication of this psychic transformation of desire is registered through new and creative modes of aesthetic symbolization expressed variously through language and poetics, music, dance and thought. The agent of this transformation is *śabad*, which literally means ‘word’ or ‘language’, but, in the context of Sikh philosophy, refers to any and all kinds of resonant vibration (Himat Singh 1985)[^singh-1985]. According to Himat Singh, vibration or resonance refers to the work done by *śabad* to enfold the experience in vitality and the expression-in-vitality”. In other words *śabad* provides an ontology of vibration that enables the self to simultaneously *experience* the “thing-in-action” and at the same time enables expressivity in, and connectivity to, the world, to other selves, beginning with a re-linking of the self to its own self (or individuation). For Himat Singh *śabad* is a “trans-aesthetic” tool par excellence which closes the split introduced by conventional social symbolization. Though rarely considered in this way, the idea of resonant vibration offers insight into the practical ends of Sikh thought, namely, the achievement of liberation in the stream of life (*jivanmukti*), which in fact is simply a way of saying that the event of ego transformation described above liberates the self not from the self, or from the world, but rather liberates it to make new and more creative connections to the world (Himat Singh 1985)[^singh-1985]. The key point to remember here is that *śabad* exerts an impersonal, unmediated agency, one that does not arise from a humanly engendered mediation, but rather arises spontaneously when individuals follow the imperative (*hukam*) within all existence and all non-existence and in all life. The imperative (*hukam*) can be tapped when the self dies to the word, in other words, sacrifices itself to the word.
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      Such references to sacrifice, surrender, and dying are not mere metaphors. In fact, they have a practical counterpart in the performative meditative mnemo-praxis called *nām simaran*, a form of mindful practice that Sikhs are encouraged to imbibe into their daily lives. Although *nām simaran* is often literally translated as remembering or recalling *nām* by repeating the ‘Names of God’, there is a wider sense in which it refers to any process that helps transform the mind’s negative repetition-compulsions into a positive mode of repetition which enables it to actualise (or channel) *nām* within and through the body–mind complex. In Sikh philosophy, the favoured techniques of simaran include vocalised rhythmic repetition and especially singing to the accompaniment of prescribed musical measures (*ragas*). The term *nām* refers to the vibration that underpins the eternal oneness of all existence and non-existence. If this vibration-resonance is indicative of process or becoming exemplified by the opening of subjectivity to the world, the very same process is objectified by theology, which solidifies *nām* into the Name of an eminent deity, e.g. ‘God (Mandair 2022: 52-58)[^mandair-2022]. The meditative mnemo-praxis of *nām simaran* works against this objectifying tendency by symbolically performing a death of the self in the very act of recalling or remembering *nām*. Through this mindful technique, one simultaneously surrenders, annihilates, and converts *haumai* (or individuation as self-attachment) into individuation as other-attachment.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      ### 2.5 Self-Transformation
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Ultimately, if the purpose of *nām simaran* is to open the self to the other, to the world, the process itself, as well as its effects, takes place not in some otherworldly, supernatural realm, but in the time of this world. However, the temporality of such transformations cannot be reduced to secular time, which would still be in some sense ‘transcendental’ (in the Kantian/Hegelian sense). Rather, this temporality is immanent within sequential time. It penetrates and pervades ordinary time (*kāl*) and the ordinary self. To access it, however, the everyday sense of time and self has to be broken. This breaking requires a real and symbolic performance which connects self-death at the very moment that the self is generated. This self-death spontaneously breaks attachment toward sequential time-consciousness (*kāl*) and opens the self into an expanded, measureless time-consciousness (*akāl*). The ideal here is to achieve a balance (*sahaj*) between killing and regenerating the self, between living and dying, and weave this balance into the fabric of the self. The self that emerges out of such transformation can no longer see itself as an objectifiable entity separated from other entities, selves, and worlds. As a form of individuation that liberates in the stream of one’s life (*jivanmukti*), it is simultaneously form and formless, ego and non-ego, self and other. A clue to its ontological status can be seen in terms such as *anhad nād* or *anhad śabad* – uncaused, unpulsed or sourceless vibration, which is a reference to pure relation.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      The most evident mark of this relational-self is the change in its mode of expression. It expresses itself only through the form of affective activity: poetics, melody, rhythm, as well as thought that is not shorn of sensation, all of which seem to be the best ways of expressing the paradoxical nature of its state: the self is neither thing nor no-thing. Its state of existence is between thingness and no-thingness, namely pure resonance, pure vibration (*anhad śabad*, *anhad nād*), or more accurately, uncaused resonance, unpulsed resonance, spontaneous/effortless resonance. All these references to vibration or resonance are ways of describing the nature of the self as pure relation. The self is basically a focal point of resonant force or intensity that enables it to create new connections, intersections, and relations between all things in the world. As a point of resonance, it signifies a fundamental opening of the self to the outside, it’s others, to the world, such that the duality of self (here, near) and world (there/far) is merged into the all-pervasive and ever-constant resonance that is *nām*. Alternatively stated, *nām* signifies fundamental tone or vibration of reality, the resonance that connects everything that exists and expresses the true nature of reality. The implication is that it is possible to associate entities, selves, people, societies, cultures through their differences; though beings are many and varied, they are internally connected through *nām* and therefore participate in a fundamental identity or oneness. From this perspective, difference is not a mode of separation, but paradoxically, a mode of connection that derives its force or intensity from the impulse within creation itself.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      ## 3. Epistemology (*giān*)
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      4.1 Sources of *giān*: In the *gurmat* system, the function of epistemology is encompassed by the term *giān*, a Punjabi cognate of the Sanskrit term *jñāna*. *Giān* signifies not only the nature of knowledge, its direct or mediated attainment through intuition (*anubhāva* or *anubhau prakash*) and perception/reasoning respectively, but equally its modes of operation vis-à-vis practice/discipline, thought and faculties (Sher Singh 1944: 152)[^singh-1944]. Between direct unmediated knowledge attained through intuition and referred to as *tat giān* (pure knowing), and mediated knowledge (*partakh giān*) gained through perception and intellect, there is no strict hierarchy or qualitative difference (Nirbhai Singh 1990: 169)[^singh-1990]. Any distinction between them lies in the variable attunements towards the fundamental vibration of reality (*nām*) characterised by a state of absolute unity. While some individuals have innate focus (*dhiān*) finely tuned towards attaining *gian* directly, also referred to as *giān dhiān*[^note-10] , the vast majority of individuals must learn to sharpen and perfect their faculties of sense perception and intellection (*vichār*) until perception/senses and the subject become one with the object of knowledge (*giān vichār*).[^note-11] In this way, the epistemology of *gurmat* does not distinguish qualitatively between different sources (*pramāṇas*) of knowledge as does Indian philosophy. That said, Sikh philosophers unanimously agree that the principal source of valid knowledge – the one that innervates others – is *śabad* (Balbir Singh 1972: 27)[^singh-1972].
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      In *gurmat* philosophy, *śabad* possesses corporeal and incorporeal aspects. As corporeal, *śabad* (lit. word, sound, language = *nād* or *dhun*) serves as a tool for linguistic communication and provides mediated knowledge (Tatlay 1998: Vol. 2 13-16)[^tatlay-1998]. Thus, the *giān* of a manifest object is acquired through written letters (*akhar*) or through sounds and speech (*nād*), which are brought together to constitute meaningful statements (*kathani*), which in turn transmit *giān*. The corporeal aspect of *śabad* or *nād* is formed and transmitted in pulsed or linear time (*kāl*) and provides knowledge that is known discursively and discerned through conventional forms of reasoning such as *aql, siāṇap, sōch, vichār, khōj, bādi* (Kaur 1990: 83-95)[^kaur-1990].
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      However, the more important aspect of *śabad* is vested in its incorporeal or vibrational aspect. Through different techniques and stages of meditative practice *śabad* is internalized and transformed into its incorporeal aspect, referred to in *gurbanī* as *anhad śabad* or *anhad nād*. The qualifying term *anhad* refers to unpulsed word/sound/vibration that cannot be measured because its vibrational frequency goes beyond the limits of conventional linear time and rational comprehension (Tatlay 1998: 183)[^tatlay-1998]. The transition from the corporeal, pulsed, limited (*hadh*) to incorporeal, unpulsed, unlimited (*anhad*) takes place through an internal event, a process which ruptures the boundaries or limits of the ego, also referred to as the killing of ego (*haumai māraṇā*) or simply ego-death.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      The effects of this event are twofold without there being any opposition between them. On the one hand, the effects take place at the level of the psychic corresponding to the transformation of the mind from a *manmukh* state to the *gurmukh* state. To recall what was stated earlier, the *manmukh* state of mind is characterised by a fundamentally dualistic mode of individuation, resulting in an individual whose core thinking and actions are motivated by ego-preservation and the maintenance of conventional societal boundaries. By contrast, the *gurmukh* state of mind gives rise to a mode of individuation that has not only attained a level of equilibrium or harmony (*sahaj*) between ego-loss and ego-formation, resulting in a praxis of living that is fundamentally relational and spontaneously attuned to *nām*. The *gurmukh* state results in a mode of knowing-being best described as onto-epistemological, which takes place, *on the other hand*, in the realm of time and temporality. Indeed, the rupture of the ego shatters all measure of time, thereby opening up or expanding temporality into a measureless formless time known as *akāl*. Nominally, therefore, there are two modes of time: *kāl* and *akāl*, which can be accessed linguistically via *śabad* and *anhad śabad*, respectively, and correspond psychically to *manmukh* and *gurmukh* states.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Many of the philosophical commentaries composed in the twentieth century tended to treat concepts such as *kāl/akāl, śabad/anhad śabad, manmukh/gurmukh* as binaries, thereby introducing oppositions into what are essentially non-oppositional, co-imbricated categories. This tendency was exaggerated in English translations, which made it difficult for scholars to differentiate rigorously between theological-religious and philosophical idioms. For example, *anhad sabad* is frequently translated as ‘revealed word’, ‘ineffable Word’, or ‘sacred sound’, all of which create an ontotheological distinction between their status as worldly/non-āworldly. Far from signifying the other-worldly or supernatural, *anhad śabad* is more helpfully considered as an aesthetic category (corresponding to the vibrational mode) that facilitates heightening of the body’s sensorial apparatus, making it capable of perceiving an expanded experience of reality (Nikky Singh 2024; Mandair 2023)[^mandair-2023][^singh-2024]. The work of *anhad śabad* is almost entirely sensorial, and becomes realized though the progressive synthesis of experience from raw perception, through concept-creation, moving eventually into affect. In this sense, *anhad śabad* has a referent to which it signifies: *nām*, which is the unpulsed vibration of reality (Himat Singh 1985)[^singh-1985].
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      Recalling that *gurmat* is equally praxical and conceptual, each of these modes of transformation (semiotically from pulsed to unpulsed word, psychically from *manmukh* to *gurmukh*, or temporally from *kāl* to *akāl*) corresponds to an understanding of *giān* as a processual unfolding from a mediated, objectifiable knowledge of things, propositions, concepts, to an immediate, direct knowledge in which one’s senses are fully attuned (*surati*) to the ontological ground state referred to as *nām*. *Giān* is therefore a steady process of sensory perfection which ends in a state of consciousness marked by relationality. In short, the epistemic process begins when the individual consciousness has shifted from a self-centric dualism to a non-oppositional relational being-in-the-world.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      ### 3.2 *Gian* – Modes of Operation
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      If *giān* is a process for perfecting knowledge rather than a faculty in itself, this raises the question as to how knowledge is actually synthesised during the development process. What are the components of *giān* as a system for synthesising the contents of knowledge? Scholars have discerned three different modes of operation encompassed by *giān*: (i) Praxis; (ii) Cognition/Perception; (iii) Thought. Strictly speaking, however, these processes are part of a single overall process.
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      #### 3.2.1 Praxis
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      As a practice, *giān* is centred around processes that interiorize the contents of empirical cognition produced through encounters with the world around us. Some essential parameters of *giān* are elaborated in Nanak’s most important composition, the Japji, whose repetition constitutes a cornerstone of Sikh praxis (SGGS: p.1). A literal translation of Japji is “The Meditation” signifying a memorializing technique in which words enunciated externally are simultaneously interiorized into spontaneous or intuitive memory.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      #### 3.2.2 Cognition/Perception
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      According to Stanzas 6-7 of Japji, the contents of empirical cognition are initially collected by the sensory faculties before being synthesised by the interiorizing faculties that comprise the mind (or *mn*). In Japji, the interiorizing process is treated as three-fold, beginning with *vēkhaṇā* (visual perception), *sunṇaṇā* (lit. listening or auditory perception), and *munaṇa* (initial process of interiorizing the contents of sensory perception into contemplative thought or concepts), ending with *dhyāna* (meditative-intuitive state of embodied knowing) (Kaur 1990: 130-142)[^kaur-1990].
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      #### 3.2.3 Contemplative Thought (*dhyān*)
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      Mediating the ‘transition’ from cognition and perception (*vekhaṇa/suṇananā*) to interiorizing/minding (*munnai*) is *vichār*, which ordinarily means to think, to reflect, to ponder, to contemplate, to rationalise. According to Gurnam Kaur *vichār* is a mode of rationalisation with broad functionality starting with mundane reasoning (*soch*), hair-splitting forms of discursive reasoning (*tark, bādi)*, leading to a deeper internal searching (*khoji*), and culminating in the attainment of practical wisdom (*aql, siānap*) (Kaur 1990: 103-112)[^kaur-1990]. These various modes of reasoning - *sōch, bādi, tark, khoji, aql, siāṇap* – are co-imbricated with *vichār* but remain at the level of *manmukh* individuality limited by ego, indicating that *vichār* itself represents a progressive continuum in which thought goes through degrees of refinement as one learns to discriminate and judge at increasingly deeper levels. The highest level of discriminative thinking and judgement happens when *vichār* becomes *bibēk vichār* or ‘awakened reasoning’[^note-12] - a level of thought where the mind discerns things without falling back into corrupting dualisms (*kubuddhi*).[^note-13] For the final stage in the synthesis of knowledge, Nanak uses the term *dhyān*, which can be described as meditative focus in which being and knowing enter into an intuitive unity. Elsewhere in his writings, Nanak likens *dhyān* to the ripening or flowering of knowledge.[^note-14] The floral metaphor points to the higher awareness of the *gurmukh* state, where the process of psychic individuation flowers into a state of perfection.
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      In light of the above, it is more helpful to understand *giān* as an onto-epistemology rather than epistemology in the strict sense, which is oriented towards objectivity of knowledge (Himat Singh 1985: 3-9)[^singh-1985]. *Giān* is a subjective process that mediates between individual consciousness and the world, ironically by rupturing the limits of the individual ego. The essential tool that enables this process is *śabad*. The question that arises here is how consciousness interacts with materiality? How does consciousness become contracted prior to undergoing expansion? Nanak directly attributes this role to three main faculties: *matt(i)* (practical wisdom), *mn* (mind/memory) and *buddhī* (intellect) (SGGS: Japji: Pauri 36-7).
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      ### 3.4 *Giān* – Faculties
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      #### 3.4.1 *matt(i)*
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      In *Gursabad Ratnakar Mahan Kosh*, Kahn Singh Nabha explicates the meaning of *matt(i)* as an operation of mind encompassing several overlapping functions. In the broadest sense *matt(i)* refers to a practice and logic encompassing four other essential faculties: *mn*, *buddhī*, *chitt* and *ahamkār* (Nabha 1931: 34, 944). *Mn* is the faculty for concept creation (*sankalp*) and making determinate choices (*vikalap*). The term *buddhi* refers to the faculty of reflection or thought. *Chitt* is a faculty of memory that synthesizes past/present/future. *Ahamkār* is individuation of the type where the self learns to distinguish between itself and other entities (Nabha 1981: 34)[^nabha-1981]. According to Nabha, *matt(i)* is identifiable with *ahamkār*, which involves the process of synthesising the other three into a unified function of individuation and self-making. *Matt(i)* in this sense is essentially linked to practice and the development of technique(s) for self-making by receiving and processing empirical knowledge of one’s milieu through the sense organs (*giān indriān*). By itself *matt(i)* is an unstable faculty that requires shaping through the filters of linguistic, social and cultural conventions which help channel sensory information into pure ego production (*haumai / ahamkāra*). This view finds support in the final section of Japji, where Nanak compares the function of *mat(i)* to an anvil (*ahruṇ*) for fashioning the self with the practical tools of wisdom (*vedu hathiār*) (SGGS: Japji: Pauri 38 8). The tool that actually sculpts the self is *śabad* which works by mediating the contact between consciousness and the external world in a way that avoids the extremes of detachment and attachment to the world.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      #### 3.4.2 *Mn* (Mind/Memory)
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      An ubiquitous term in the *gurmat* lexicon, *mn* refers to the totality of psychic experience before being split in the process of encountering the world. *Mn* is an ‘organ’ that generates duality even as it projects the appearance of unity via personalized self-imagery. *Mn* can be described as an evolute (*jiu*) of five gross elements (*panj tatt*) (Nirbhai Singh 1990)[^singh-1990]. As such *mn* is a dynamic energy (*shakti*) with two opposing tendencies: *dhatu* and *liv*. The *dhatu* tendency attaches mind to materiality, whereas the *liv* tendency orients towards oneness. In practice *mn* fluctuates between these two tendencies giving rise to qualitatively different but overlapping forms of individuation: *manmukh* or ego-mind possessing a reflective dualizing consciousness, and *gurmukh* or non-egoic, non-oppositional consciousness (SGGS: M3 955).
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      Nānak depicts the *dhatu* aspect of *mn* in various ways: *mn-chanchal* lit. clever mind that calculates and discriminates for personal gain; *mn-bhoola*: forgetful or amnesiac mind; *mn-ārshī* mind like a mirror of the world; *mn-mughad*: dull, stupid mind; *mn-maighal*: wavering, unreliable mind; *mn-khutar*: handicapped mind; *mn-pardesī*: mind estranged from its home or mind in its everyday sense of a self that conforms to everyday conventions of which the most pervasive is socially sanctioned language use (*manmukh* speech or simply ego-speech) that generates self-centredness (*haumai*) (Tatlay 1998: Vol. 6 26-35)[^tatlay-1998]. Ever restless, ego-mind is likened to a dull-witted elephant roaming aimlessly through the jungle, constantly seduced by the charms of various plants (representing the social world), always under pressure from death, never able to find its way home. It is afflicted by a chronic sickness the disease of self-attachment (I am myself – *haumai*), and poisons its relations to the world, to things and persons. This aspect of mind that plots, calculates, measures, manipulates, flares up in anger and wallows in negative emotion (Shackle and Mandair 2005: Sect. 4.3, 4.5)[^shackle-2005]. Ego-mind is described as a stranger to itself, always estranged from its true home or natural state. It asserts its existence on the basis of an individuation that fragments and fixes experience by positing an absolute correspondence between its belief in its oneness and its own-ness (its permanence as an I), which itself stems from self-attachment. This correspondence between I-ness and 1-ness, which reproduces itself as an identity, sets the self in opposition to all that is not itself, including, firstly, its own self-difference (I as not-I). Nānak likens this mode of self-relating to delusion (*bharam*) (Tatlay 1998: Vol.5 429-30)[^tatlay-1998]. In short ego-mind is a superficial self that merely conforms to the pressures of socially sanctioned language and a conventional social imaginary.
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      A similar depiction of *mn* as an organ that splits reality into two can be found in the following verse by other contributors to *gurbanī*. For example, Kabir writes *ēhu mn shaktī ēhu mn siu*: this very mind, is both force (*shaktī*) and self-luminosity (*siu*); this very mind subsists in sensory forms (*ehu mn panch tat kō jīu*); attuned to cosmic unity, this very mind resides as no-mind (*ēhu mn le jau unmn rahai*)) (SGGS: Kabir 342). From this state of unity (where *mn* and *un-mn* are the same) this very mind can account for the three worlds (*tau tinī lōk kī bātu kahai*). In other words, the central attribute of mind or consciousness in its natural state, when it is at ‘home’ with itself, is unity. Echoing this view, Guru Amardas, the third ‘Nānak’, writes, in its natural state mind is self-enlightened or self-luminous, it exists between life and death (*eha shaktī sivai ghar āvai, jivdia mari rahai:*) (SGGS: Malar M3 1257). The key characteristic of mind as self-luminous, self-enlightened is also highlighted in the *mūl mantar*, where Nānak uses the word *saibhang* (self-enlightened/self-surveying/self-enjoying). It refers to a state in which mind is directly conscious of itself – hence self-luminous. It needs no mediation; it is not split from itself. Mind possesses itself absolutely and subsists in a state of absolute unity – a unity that is not mediated by an externalising agency such as ego which serves to merely reflect the light. This primordial state mind can be described as immediacy; it has a child-like tendency to merge into a state of oneness in which all anxieties are removed (*gurprasādi ekō jānai cukai moh andesā*) (SGGS: M3 1252).
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      Nanak contrasts the immediacy of this form of consciousness with a very different state of mind, which exists as a purely reflective consciousness, always through mediation of an external agent. This mind is like a bird that constantly flies from its ethereal home (*pankhi akasi*), is subject to delusions (*māyā*), exists in a state of doubt (*bharam*), and becomes unstable (*dhaiā*): *mn mayā mn dhaiā mn pankhi akāsi* (SGGS: M1 1330). In short this is a mind that constantly separates from itself, never possesses itself, never undergoes ‘self-enjoyment’ in its ground-state (*ghar*).
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      Elsewhere in the same texts, Guru Angad (the second ‘Nanak’) comments that to attain its primal state of immediacy, the *mn* must get its energy from within itself, not from outside. Mind, in other words, is self-enlightened; it shines from within and cannot derive its radiance from an external source. In further references, Nanak describes this non-reflective or pure mind as: *mn bairagi* (self-detached mind) or *ghar vasai* (resides in its own home); *mn nirmal* (pure, unsullied mind); *mn churai* …. *mn piara kartar* ……… *mn tu jōt sarūp hai* (celestial mind); or simply beloved mind (*mn har*) (Tatlay 1998: Vol. 6 29-36)[^tatlay-1998]. For this state of mind, Nanak uses imagery overflowing with the emotional intensity of lovers separated from each other in time and place, pining for each other’s embrace. This aspect of the mind is referred to as a state in which lover and beloved, self and other, I and not-I are separated even as they touch and fuse together. Even in the lovers’ tightest embrace, they are forever separating – an allusion to the effect of time, so that one needs to constantly repeat the gesture of fusion-love over and over again to stave off the separating effect of time. Nanak’s term for this aspect of time is *birhā* – a state that is simultaneously painful and blissful, in which separation and union occur at the same time and are felt as the same (Tatlay 1998: Vol. 6 365-7)[^tatlay-1998]. To speak of this paradoxical state, Nanak invokes the intensely painful longing of two lovers pining to be reunited. Though fused as one, yet even in this joined state, their union is tinged with the anticipation of imminent separation (SGGS: 1256). Unlike ego-mind, the mind in the state of *birhā* is described as an immediate and intense experience as opposed to the mediated, reflective and therefore hollow experience of ego-mind. As the references to lover/Beloved illustrate, the immediacy of this experience arises from being in direct touch with feelings experienced as unique each time (pain, pleasure, agony, joy, sadness, bliss). Feelings associated with the lovers’ embrace or separation are never experienced as the same again. Hence the intensity of pain and joy….. What is felt, or how the mind is affected, is a qualitative change that cannot be measured except through one’s aesthetic sensibility. This is why it can only be felt as an intensity but never quantitatively fixed and calculated, because the element in which it takes place is time and life itself. What is slipping away is life as/and time, the time of one’s life, which is my beloved life (*mn jindaṛī*) … As Farid states:
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      > All try to describe *birhā*, but your state, o *birhā*, is sovereign!
+      >
+      > O Farīd, that body in which *birhā* does not arise is barren and desolate. (SGGS: 1379)
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      #### 3.4.3 *Buddhī*
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      If *mn* is the faculty that receives sensory-impressions and organises them into percepts and concepts, *buddhī* works through the interiorizing function (*antahkaran*) (Nabha 1931: 113, 948) to determine the nature of percepts and concepts, categorising them, and ultimately, welding them into concepts. The role of *buddhī* “is to bring about certainty and definitiveness in knowledge. Definitive apprehension might spur action. Thus it is *buddhī* which resolves to act and then guides the ensuing action” (Neki 1986 Vol. 1: 405)[^neki-1986]. Thus, *buddhī* corresponds to the higher, non-reflective aspect of *mn*, which judges, discriminates and discerns contents presented to *mn* in the form of concepts (*sankalap*) which are then deployed by the self for practical purposes that might include, for example, carrying out an activity, or thinking in general. In this way, *buddhi* effectively determines the individual’s conceptual world view, the nature of a person’s thought, speech and actions. Responsible for the self’s day-to-day functioning, *buddhi* can develop different orientations. On the one hand, it can develop into ego-centric thought and action (*hau-buddhi*), leading to the *manmukh* state.[^note-15] On the other hand, if it can become attuned to *śabdic* rhythms and *nām* vibration, *buddhi* can transform or evolve into enlightened self-awareness, also known as *bibek buddhi*.[^note-16] To realise this transformation, however, *buddhi* has to struggle with the so-called five demons (*panj dutt*) which steal the individual’s mental well-being. Kabir further emphasises that *buddhi* undergoes a climactic transformation into a self-luminous mode of knowing-being (*suddhi*), which translates literally as perfection or becoming pure.[^note-17] This transformation describes the process whereby the self returns to its ground-state, a natural and spontaneous psychic state called *sahaj avasth*ā, where the unity of *giān* can be realised (Nirbhai Singh 1990: 186)[^singh-1990].
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      ## 4. Ethics
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      For guidance on ethics and morals, Sikhs look to a variety of sources which fall into several different categories: scripture, hagiographical literature (*janāmsakhi*) and codes of conduct (*rahit maryada*). While scriptural teachings in texts such as the Guru Granth Sahib and the Dasam Granth tend towards a universal messaging and guidance, the *janamsakhi* and Rahit literature address a specific community and cultural framework. The Rahit literature, for example, provides basic life-rules, organisational duties or codes of conduct for how a Sikh ought to live. Its moral teaching can be traced to the sixteenth century writings of Bhai Gurdas, who provided the earliest interpretation of the Nanakian system, translating it into the very basic codes of living that helped guide and consolidate the early Sikh community (see Gill 2016; Darshan Singh 1986)[^gill-2016][^singh-1986]. The Rahit texts were reformulated into a formal document first published in 1954 called the *Sikh Rahit Maryada* (SRM or Sikh Code of Conduct).
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      Although the code outlined in the *SRM* continues to strongly influence the conduct of Sikhs, its limitations are becoming all too evident. The conceptual framing of the *SRM* belongs to the colonial period, where the preservation of religious identities took precedence over other considerations. This conceptual framing is proving to be increasingly inadequate for contemporary life in the major metropolises of India and in the Western diasporas where Punjabi tradition and lifestyle directly encounter post-secular politics, technology, environmental concerns and pluralism on a scale not seen before. To provide answers befitting the increasingly complex ethical dilemmas and social contexts from which they arise, Sikhs are beginning to bypass the SRM and engage directly with primary source literatures, especially the Guru Granth Sahib, in an effort to ascertain whether there is a ‘pluriversal’ touchstone for morals and morality.
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      Texts such as the Guru Granth Sahib, however, present a different kind of challenge with their lack of a rigid ideological framework and categorical imperatives. But this does not necessarily mean the absence of a system of moral thinking in the teachings of the Sikh Gurus (*gurmat*). According to the ethicist Avtar Singh, Nanak identifies a moral standard in relation to a self-realised person (*sachiārā*), someone who has struggled to remain faithful to the truth of an experience of oneness whose manifestation is egoloss, and to one who acts and lives in accordance with the sovereign imperative (*hukam rajai chalana*) that is ontologically before any social law (Avtar Singh 1983)[^singh-1983]. The touchstone for morality is not grounded (contra the *SRM*) in a belief system or a standpoint. Rather, it is better understood as a general principle or sovereign imperative (*hukam*) which enjoins that whatever the duties or discipline entailed by one’s station (*rajai/raza*), these ought to be performed in such a way that in each act performed or duty fulfilled, one imbibe the sovereign imperative (*hukam*) inscribed into life itself, indeed into all existence (SGGS: 1). Because *hukam* is immanent within life (*hukmai andar sab koe, bahar hukam na koe* – SGGS: 1), it replaces the need for a transcendental ground, be that a deity or otherwise. In other words, because of the immanence of *hukam*, life is revalued for itself and not as a supplement to the divine. Life itself is sovereign and cannot be captured within metaphysical distinctions such as sacred versus profane, sacred versus secular and so on.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      Inscribed into all life, *hukam* is the imperative to negate the ego, which says ‘I am’. If left untended, the sense of ‘I am’-ness becomes a disease engendered by the five propensities also referred to as the ‘five enemies’ or ‘five thieves’: (i) *kām* (concupiscence, lust or simply craving), (ii) *krōdh* (anger or wrath), (iii) *lōbh* (covetousness or the desire to possess what belongs to others), (iv) *mōh* (attachment or delusion) and (v) *ahankār* (egotistical pride) (Avtar Singh 1983: 53)[^singh-1983]. These ‘five enemies’ are psychic propensities of the self that either attract the person towards something (for example, an object or an action) or repel the person away from what is wholesome. They are not biological or primitive urges or instincts but learned dispositions or habitual frames of mind that can take on a life of their own. If left unchecked, these propensities keep the individual in a state of restlessness (Jodh Singh 1932: 250-64)[^singh-1932][^singh-1932-2].
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      However, as Guru Nanak reminds us in the first stanzas of his Japji, the ‘five enemies’ cannot be controlled through ascetic practices, ritual cleansing or by reflection alone. Rather, they must be regulated by inculcating and actively practising virtues such as wisdom (*giān*), truthfulness (*sach*), justice (*niaon*), temperance (*sanjam*), courage (*niḍar*), humility (*garībī, nimarta*) and contentment (*santōkh*) (Avtar Singh 1983: 53-7)[^singh-1983]. Those who actively appropriate such virtues are able to inscribe *hukam* into their very being as egoloss. They actively resist saying ‘I am’ and instead balance this egotistical propensity by being able to say ‘I am not’, and thereby elevate themselves beyond the self-willed rationalist morality of societal norms (*manmukh*). Appropriating *hukam* (the sovereign imperative that resists being rationalised into a system of knowledge) forces the individual to think and act almost like an aesthete or artist. Such a person who is freed and empowered to challenge existing values, freed to create new values rather than blindly following social rules, is known as *gurmukh*.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      Clearly, Guru Nanak’s moral standard of egoloss, the *gurmukh*, takes us beyond socially sanctioned oppositional norms such as good versus evil, wrong versus right and violence versus peace. It questions the very frameworks in which we operate, even as it allows us to make deliberate, conscious choices in both mundane challenges of everyday life and the more extraordinary quandaries that face human beings today. Consequently, the Gurus’ teachings are entirely practical and applicable to all life situations, actual or possible. They allow the person to determine how best to live from day to day in an ever-changing world.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: note
+    source: |-
+      [^note-1]: This seems to be implicit in the work of the first generation of modern Sikh philosophers who attempted to articulate the universal aspects of Sikh thought. The latter notion is reflected in the assumption held by contemporary Sikh thinkers that ‘Sikh philosophy’ can be equated with the intentions of Guru Nanak and his successors, which were codified as Gurbani (li. the utterances of the Guru). While this notion may have a certain appeal, it is also problematic for two reasons. First, it assumes that the category of ‘philosophy’ is trans-historical and trans-cultural. Second, it assumes that the categories of ‘*gurmat*’ and ‘philosophy’ are grounded on rationality and therefore basically equivalent and seamlessly translatable. This view is strongly opposed by many Sikh thinkers and practitioners who consider *gurbani* as *dhur ki bani* (loosely translatable as ‘revealed’) and irreducible to ‘philosophy’ which is a second order activity of mind. Accordingly, Sikh philosophy is also a second order activity reliant on *gurbani* as the primary inspiration for its thinking.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: note
+    source: |-
+      [^note-2]: See Mahankosh (p. 945) where Kahn Singh Nabha traces the etymology of *gurmat(i)* as follows:
+
+      > **mat(i)**
+      >
+      > - *āhamkār* = forms of individuation (‘I-making)
+      > - *antahkaran* = faculty for processing raw sensuous data of perception by interiorizing it
+      > - *mat(i)* has four essential faculties – *mn*, *buddhī*, *chit* and *āhamkār* – but is identifiable with the fourth part *āhamkār*
+      > - *mn*: faculty for concept creation (*sankālap*) and making determinate choices (*vikālap*)
+      > - *buddhī*: faculty of reflection or thinking
+      > - *chit*: faculty of memory (synthesizing of past/present/future)
+      > - *āhamkār*: individuation of the type where the self learns to distinguish between itself and other things or entities
+      > - *mati* is identifiable with the fourth faculty (*āhamkār*) insofar as *āhamkār* involves the process of synthesizing the other three into a single faculty of individuation or self-making
+      >
+      > **gur(u)**
+      >
+      > - **t**he principle that is causative of effort/elevation/self-death
+      > - from the root *gṛh* to swallow or take in
+      > - hence one who ingests a learner/devotee’s state of unenlightenment/ darkness, thereby enabling the devotee to directly realize the essential wisdom
+      > - a spiritual preceptor with gravitas capable of divulging instruction
+      > - preceptor of *mat(i)* capable of reaching the deepest part of the learner’s mind (thought/desires/speech formation)
+      > - divine instructor of the gods (Bṛhaspatī/Devgurū)
+      > - *antahkaran* or *mn*
+      > - the kind of individuation proper to a Guru
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: note
+    source: |-
+      [^note-3]: My use of the term ‘anti-doctrinal doctrine’ serves to complicate the facile rendering of the category of *gurmat* both as ‘doctrine’ and as equivalent to ‘Sikh philosophy’. Two points need to be noted here. First, neither *gurmat* nor ‘Sikh philosophy’ are reducible to doctrine as such, particularly if doctrine is conceived either in the theological or secular humanist sense. As argued in sections 2 and 3, the underpinning logic of *gurmat* is dynamic with a proclivity for adapting to different milieus rather than being a static once-and-for-all worldview. This dynamic and adaptive tendency of *gurmat* stems from the fact that it nature is *siddhant(ic)* which, in the Sikh context, refers to a logic, teaching or way of life that simultaneously encompasses the ability to experiment with practical techniques according to different milieus, and a conceptuality that combines different forms of reasoning with intuition . Thus, while it may be the case that at certain periods in certain periods and historical contexts *gurmat* gives the impression of ‘orthodoxy’, or ‘doctrine’ (see section-2 below), because the underpinning logic of *gurmat* is geared towards creative individuation deriving from the vibrational-rhythmic ontology of *śabad*/*nām* which in turn enables Sikh thinkers and practitioners to synthesize new and productive connections within changing contexts. From this perspective, and as outlined in section-3, the modern category ‘Sikh philosophy’ cannot be reduced to doctrine or to ideology because its core impulse derives from the vibrational ontology of *śabad* and *nām* rather than a static worldview.
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: note
+    source: |-
+      [^note-4]: All references to the Guru Granth Sahib will be cited as: *Sri Guru Granth Sahib* (*SGGS*), followed by the page number. This is based on the standard paginated text of 1431 pages.
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: note
+    source: |-
+      [^note-5]: The Udasi and Nirmala schools are recognized as important precursors of the emergence of modern Sikh philosophy. Overviews of the schools can be found in entries in *The Encyclopedia of Sikhism* on “Nirmala” by Shamsher Singh Ashok (1997) and on “Udasi” by Madanjit Kaur (1998).
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: note
+    source: |-
+      [^note-6]: Works on Sikh philosophy published in Punjabi language during the 1980s were written in the shadow of a Sikh militant insurgency against the Indian State, which had a chilling effect on explorations of internal pluralism. *Sahaje Rachio Khalsa* and *Sikh Falsafe di Bhumika* reflect this trend towards identitarian frameworks.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: note
+    source: |-
+      [^note-7]: Variations of this basic understanding are reflected in commentaries such as: Kabbit and Svayyas of Bhai Gurdas; Teja Singh’s *Shabadarth Sri Guru Granth* (1932); Jodh Singh’s *Gurmat Nirnai* (1932); Bhai Vir Singh’s *Santhya Sri Guru Granth Sahib Bhai*; Sher Singh’s *Sri Guru Granth Sahib Darpan.* *Philosophy of Sikhism* Sher Singh 1944. And his *Gurmat Darshan* (1954);
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: note
+    source: |-
+      [^note-8]: Himat Singh also uses the expression “meta-Metaphysics” to describe an ‘immanent’ metaphysics grounded in aesthetics as the basis of thinking (*Śabda Philosophy*: 1985). More recently he has reinvoked the term “Trans-Aesthetic” which refers to the unity of experience and reasoning. Nikky Guninder Kaur Singh uses the term “Transcendent Aesthetics” to describe Guru Nanak’s metaphysics. Both scholars gesture towards the same idea, namely, the priority of aesthetics in Sikh philosophy.
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: note
+    source: |-
+      [^note-9]: SGGS. Rag Asa. M1. P. 466.
+
+      > *hau vich aya hau vich gaia*
+      >
+      > *hau vich jamia hau vich mua*
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: note
+    source: |-
+      [^note-10]: SGGS. M1. p. 223:
+
+      > *ek sabad ik bhikhia mangai*
+      >
+      > *gianu dhianu jugati sachu jagai*
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: note
+    source: |-
+      [^note-11]: SGGS. M1 p. 228
+
+      > *kirat paia ardh uradhi binu gian bichara*
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: note
+    source: |-
+      [^note-12]: SGGS p. 1276. Malar M3:
+
+      > *acaru carai bibek buddhi pae purkhai purkhu miilai*
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: note
+    source: |-
+      [^note-13]: SGGS. Ramkali. M1 p. 944.
+
+      > *kubuddhi mitai gur sabadu bicari*
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: note
+    source: |-
+      [^note-14]: SGGS p.147:
+
+      > *Nanak guru santokh rukhu dharamu phulu phalu gian.*
+      >
+      > *ras rasia haria sada pakai karam dhia*n.
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: note
+    source: |-
+      [^note-15]: SGGS Asa M. 3. p. 441: *antari agian hau buddhi hai saci sabadi malu kholu,…*.
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: note
+    source: |-
+      [^note-16]: SGGS Malar M. 3. p. 1276: *acaru carai bibek buddhi pai purkhai purukh milai*.
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: note
+    source: |-
+      [^note-17]: SGGS *Gauri* Kabir p.339: *kahe Kabir buddhi hari lai meri buddhi badali suddhi pai*.
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: note
+    source: |-
+      [^note-nd]: **Note**: On citing the Sri Guru Granth Sahib (SGGS):
+    step1: TBD
+    step2: TBD
