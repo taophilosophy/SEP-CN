@@ -120,3 +120,36 @@
 * **s3 体例三校通过（任务 state=s3_checked，commit `1c997490`）**：check_style 0 issue；markdownlint 本文件 0 error（`script/mo_s3_lint.py` 修 MD004 列表符号 17 行、MD060 表格 compact 24 行）；**口径冲突处置**——MD060（管道内侧不留空格）与 check_style bold-spacing（`**` 两侧需空格）在「表格内粗体紧贴管道」处互斥，按体例门禁优先把表格标签 11 行改纯文本（`script/mo_s3_tableplain.py`），两门禁同时归零，源文斜体标签的强调在表格内降级为纯文本（正文强调不受影响）；check_math 0、check_summary H1 0、check_academic --strict 无硬错误。
 * **状态**：model-organisms 交 R-main 评审线走 r1–r3；本会话不推进评审步。
 * **跨会话观察（非 M 批问题）**：本轮收尾 `check_all` 出现术语一致性 1 项失败——`yi-zhe-shuo-ming.md` 第 2725/3468 行「Law of Nations / law of nations → 万民法」两行重复（分别由 colonialism 与 cosmopolitanism 首译登记），另人名表 Samuel Ibn Tibbon 一处拼法冲突；均为并行会话并发追加所致，按纪律不由本会话改他批行，留待其归属会话或治理会话裁定。
+
+## 8. 接管复算与实作（2026-11-09 17:0x UTC+8，M-main-20261109b）
+
+**指令**：用户「你现在负责接手 M 条目的所有翻译」。以新身份 `M-main-20261109b` 接管（`campaign.py claim m --force`），不引用旧记录、重新复算。
+
+### 8.1 复算（`script/m_audit_20261109.py` + `task_ops.py show`）
+
+| 项 | 数值 | 依据 |
+| --- | --- | --- |
+| 正式词条 | 139 | SUMMARY m/ 190 行 = 正式 139 + 别名/占位 51 |
+| 基线 / 镜像 | 139/139 | `baseline/entries.json`、`yuanwen/m/` |
+| 成稿（>1 行） | 10 | 账本均满段 |
+| done | 6 | marsilius-inghen、mathematics-inconsistent、modesty-humility、molyneux-problem、montesquieu、moral-responsibility-empirical |
+| s3_checked（评审线） | 3 | mandeville、model-organisms、moral-demands-permissions（R-main 评审线，本会话不推进 r1–r3） |
+| drafted | 1 | marsilius-padua |
+| pending | 4 | music、moral-learning、montessori-maria、mathematical-practice |
+| 未建任务 | 125 | 139 − 14 |
+| **待译主线** | **129** | 139 − done 6 − 评审线 3 − drafted 1 |
+
+五方对账零偏差；结构三检（H1↔SUMMARY、基线/镜像覆盖、version_pin）零缺陷。
+
+### 8.2 marsilius-padua 收口（drafted → s3_checked）
+
+* **s1**：结构全等——h2 12:12、h3 12:12、脚注定义 104:104、正文 `[^key]` 168:168、引块 5:5、DP 页码引 57:57、年份集合零差（`script/s1_mp_check.py`）；biblio_audit flagged=0。修订 8 处：相关词条末项经 `en/` 原始 HTML 实证为源页漏管道符致 medieval-political 与 augustine 并作一条，拆回「中世纪政治哲学 | 希波的奥古斯丁」；「第一部」→「第一编」3 处；Costa 引语补源文 probably「或许是」；§6.2 标题直角引号改弯引号；quaestio 与 natural slavery 用登记形（经院论辩／自然奴隶制，后者按源文把第二处 slaves 改「奴隶」）；现代学者无通行汉名者按 ADR-0022 留英文（Courtenay、Lambertini）。术语补登 3 行（集体明智／公会议主义／王权法）。源页 §6 第五小节编号重号（两处 6.4），译文按显然意图排 6.5、内容未改，凭证见任务 JSON。
+* **s2**：check_prose 31 → 10，余 10 条均引文内部照录（Brett 译本引语与带引号术语），ADR-0020 逐条豁免留痕；实修 21 处（长句拆分 6、的链化解 5、弱动词 4、冠词 1、其他 5）。
+* **s3**：check_style 0 issue、markdownlint 本文件 0 error、check_math 0、check_summary H1 0、check_academic --strict OK；check_terms 4 条告警逐条裁定（Averroist 形容词用法、Guelph 未出现、pars principans 以 government 行文、subjective 为引号内形容词）。
+* 状态 s3_checked，交 R-main 评审线（session-handoff §6）；commits：`c9e2d5fe`（s1）、`3608b9fe`（s2）、`a3b749ab`（s3）。
+
+### 8.3 作业序
+
+1. 4 条 pending 按源文体量升序：music（108 KB）→ moral-learning（111 KB）→ montessori-maria（125 KB）→ mathematical-practice（154 KB）。
+2. 125 条未建任务按 SUMMARY 序 `task_ops.py create --kind retranslate` 逐条推进。
+3. 断点一律以 `campaign.py status`、`task_ops.py show <slug>` 现查；并行会话抢提交时按 pathspec 提交、共享登记册按行键选择性暂存。
