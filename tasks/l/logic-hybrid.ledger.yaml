@@ -395,116 +395,154 @@ segments:
     kind: body
     source: |-
       The history of hybrid logic goes back to Arthur N. Prior’s hybrid tense logic, which is a hybridized version of ordinary tense logic. With the aim of investigating this further, we shall give a formal definition of hybrid tense logic. The language of hybrid tense logic is simply the language of hybrid logic defined above except that there are two modal operators, namely $\mathtt{G}$ and $\mathtt{H}$, instead of the single modal operator $\mathtt{\Box}$. The two new modal operators are called *tense operators*. The semantics of hybrid tense logic is the semantics of hybrid logic, cf. earlier, with the clause for $\mathtt{\Box}$ replaced by clauses for the tense operators $\mathtt{G}$ and $\mathtt{H}$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      混合逻辑的历史可追溯到 Arthur N. Prior 的混合时态逻辑，它是普通时态逻辑的混合化版本。为进一步考察这一点，我们给出混合时态逻辑的形式定义。混合时态逻辑的语言就是上述混合逻辑的语言，只是有两个模态算子 $\mathtt{G}$ 与 $\mathtt{H}$，而非单一模态算子 $\mathtt{\Box}$。这两个新模态算子称为 *时态算子*。混合时态逻辑的语义即混合逻辑的语义（参前），只是把 $\mathtt{\Box}$ 的条款替换为时态算子 $\mathtt{G}$ 与 $\mathtt{H}$ 的条款。
+    step2: |-
+      混合逻辑的历史可上溯至 Arthur N. Prior 的混合时态逻辑，即普通时态逻辑的混合化版本。为深入考察，先给出混合时态逻辑的形式定义。其语言同上述混合逻辑，只是以两个模态算子 $\mathtt{G}$、$\mathtt{H}$ 取代单一模态算子 $\mathtt{\Box}$；这两个新算子称 *时态算子*。语义沿用混合逻辑（见前），只将 $\mathtt{\Box}$ 的条款换成 $\mathtt{G}$、$\mathtt{H}$ 的条款。
   - id: 45
     kind: body
     source: |-
       > $M, g, w \vDash \mathtt{G \phi}$ iff for any element $v$ of $W$ such that $wRv$, it is the case that $M, g, v \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{H \phi}$ iff for any element $v$ of $W$ such that $vRw$, it is the case that $M, g, v \vDash \mathtt{\phi}$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $M, g, w \vDash \mathtt{G \phi}$ 当且仅当对 $W$ 中任一满足 $wRv$ 的元素 $v$，都有 $M, g, v \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{H \phi}$ 当且仅当对 $W$ 中任一满足 $vRw$ 的元素 $v$，都有 $M, g, v \vDash \mathtt{\phi}$
+    step2: |-
+      > $M, g, w \vDash \mathtt{G \phi}$ 当且仅当对 $W$ 中一切满足 $wRv$ 的 $v$，均有 $M, g, v \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{H \phi}$ 当且仅当对 $W$ 中一切满足 $vRw$ 的 $v$，均有 $M, g, v \vDash \mathtt{\phi}$
   - id: 46
     kind: body
     source: |-
       Thus, there are now two modal operators, namely one that “looks forwards” along the accessibility relation and one that “looks backwards”. In tense logic the elements of the set $W$ are called *moments* or *instants* and the relation $R$ is called the *earlier-later relation*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是现在有两个模态算子：一个沿可及关系“向前看”，一个“向后看”。在时态逻辑中，集合 $W$ 的元素称为 *时刻* 或 *瞬间*，关系 $R$ 称为 *先后关系*。
+    step2: |-
+      于是有了两个模态算子：一沿可及关系“向前看”，一“向后看”。在时态逻辑中，$W$ 的元素称 *时刻* 或 *瞬间*，关系 $R$ 称 *先后关系*。
   - id: 47
     kind: body
     source: |-
       Of course, it is straightforward to modify the translations $\mathrm{ST}_a$ and $\mathrm{HT}$ above such that translations are obtained between hybrid tense logic (including the $\mathtt{\forall}$ binder) and first-order logic with equality. The first-order logic under consideration is what Prior called *first-order earlier-later logic*. Given the translations, it follows that Prior’s first-order earlier-later logic has the same expressive power as hybrid tense logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，容易修改上述翻译 $\mathrm{ST}_a$ 与 $\mathrm{HT}$，从而得到混合时态逻辑（含 $\mathtt{\forall}$ 约束子）与带等词一阶逻辑之间的翻译。所考虑的一阶逻辑即 Prior 所谓 *一阶先后逻辑*。由这些翻译可知，Prior 的一阶先后逻辑与混合时态逻辑表达力相同。
+    step2: |-
+      当然，只需稍改上述 $\mathrm{ST}_a$ 与 $\mathrm{HT}$，便可得混合时态逻辑（含 $\mathtt{\forall}$ 约束子）与带等词一阶逻辑间的翻译。所论一阶逻辑，即 Prior 所称 *一阶先后逻辑*。据这些翻译，Prior 的一阶先后逻辑与混合时态逻辑表达力相当。
   - id: 48
     kind: body
     source: |-
       Now, Prior introduced hybrid tense logic in connection with what he called four grades of tense-logical involvement. The motivation for his four grades of tense-logical involvement was philosophical. The four grades were presented in the book Prior (1968), Chapter XI (also Chapter XI in the new edition Prior (2003)). Moreover, see Prior (1967), Chapter V.6 and Appendix B.3-4. For a more general discussion, see the posthumously published book Prior and Fine (1977). The stages progress from what can be regarded as pure first-order earlier-later logic to what can be regarded as pure tense logic; the goal being to be able to consider the tense logic of the fourth stage as encompassing the earlier-later logic of the first stage. In other words, the goal was to be able to translate the first-order logic of the earlier-later relation into tense logic. It was with this goal in mind Prior introduced so-called instant-propositions:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，Prior 是把混合时态逻辑与他所谓时态逻辑卷入的四个等级联系起来引入的。这四个等级的动机是哲学性的。四等级见于 Prior (1968) 一书第十一章（新版 Prior (2003) 亦为第十一章）。另见 Prior (1967) 第五章第 6 节与附录 B.3-4。更一般的讨论见其遗著 Prior and Fine (1977)。这些阶段从可视为纯粹一阶先后逻辑者，进展到可视为纯粹时态逻辑者；目标是能把第四阶段的时态逻辑视为涵盖第一阶段先后逻辑。换言之，目标是能把先后关系的一阶逻辑翻译为时态逻辑。正是怀着这一目标，Prior 引入了所谓瞬间命题：
+    step2: |-
+      Prior 引入混合时态逻辑，是与他所谓时态逻辑卷入的四个等级相联系的；四等级的动机是哲学性的。四等级见 Prior (1968) 第十一章（新版 Prior (2003) 亦为第十一章），另见 Prior (1967) 第五章第 6 节与附录 B.3-4；更一般的讨论见遗著 Prior and Fine (1977)。诸阶段由可视为纯粹一阶先后逻辑者，推进到可视为纯粹时态逻辑者，目标在于使第四阶段的时态逻辑涵盖第一阶段的先后逻辑。换言之，目标是把先后关系的一阶逻辑译为时态逻辑。正为此，Prior 引入所谓瞬间命题：
   - id: 49
     kind: body
     source: |-
       > What I shall call the third grade of tense-logical involvement consists in treating the instant-variables $a, b, c$, etc. as also representing propositions. (Prior 2003, p. 124)[^prior-2003]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我所谓的时态逻辑卷入第三等级，在于把瞬间变元 $a, b, c$ 等也视为代表命题。（Prior 2003, p. 124）[^prior-2003]
+    step2: |-
+      > 我所谓的时态逻辑卷入第三等级，在于把瞬间变元 $a, b, c$ 等也视为代表命题。（Prior 2003, p. 124）[^prior-2003]
   - id: 50
     kind: body
     source: |-
       In the context of modal logic, Prior called such propositions possible-world-propositions. Of course, this is what we here call nominals. Prior also introduced the binder $\mathtt{\forall}$ and what we here call satisfaction operators (he used the notation $\mathtt{T(a, \phi)}$ instead of $\mathtt{@_a \phi}$ for satisfaction operators). In fact, Prior’s third grade tense logic is identical to the hybrid tense logic as defined above. The $\mathtt{\downarrow}$ binder was introduced much later. Thus, Prior obtained the expressive power of his first-order earlier-later logic by adding to ordinary tense logic further expressive power in the form of nominals, satisfaction operators, and the binder $\mathtt{\forall}$. So from a technical point of view he clearly reached his goal.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在模态逻辑语境中，Prior 称这类命题为可能世界命题。当然，这就是我们这里所说的名项。Prior 还引入了约束子 $\mathtt{\forall}$ 以及我们这里所说的满足算子（对满足算子，他用记号 $\mathtt{T(a, \phi)}$ 而非 $\mathtt{@_a \phi}$）。事实上，Prior 的第三等级时态逻辑与上述定义的混合时态逻辑相同。$\mathtt{\downarrow}$ 约束子很久以后才被引入。因此，Prior 通过给普通时态逻辑加入名项、满足算子与 $\mathtt{\forall}$ 约束子这种表达力，获得了他的一阶先后逻辑的表达力。所以从技术上看，他显然达到了目标。
+    step2: |-
+      在模态逻辑语境中，Prior 称这类命题为可能世界命题——这正是我们所说的名项。Prior 还引入 $\mathtt{\forall}$ 约束子及我们所说的满足算子（满足算子他记作 $\mathtt{T(a, \phi)}$，而非 $\mathtt{@_a \phi}$）。其实，Prior 的第三等级时态逻辑与上述混合时态逻辑并无二致；$\mathtt{\downarrow}$ 约束子则是很久以后才出现的。可见 Prior 通过给普通时态逻辑添入名项、满足算子与 $\mathtt{\forall}$ 约束子，取得了他的一阶先后逻辑的表达力；从技术上说，他显然已达标。
   - id: 51
     kind: body
     source: |-
       However, from a philosophical point of view it has been debated whether or not the ontological import of his third grade tense logic is the same as the ontological import of the first-order earlier-later logic. For example, the $\mathtt{\forall}$ binder is by some authors considered a direct analogy to the first-order $\mathtt{\forall}$ quantifier, and therefore suspect; see for example the paper Sylvan (1996) in the collection Copeland (1996). See Braüner (2002) for a discussion of Prior’s fourth grade tense logic. See also Øhrstrøm and Hasle (1993), Øhrstrøm and Hasle (2006), Müller (2007), and Blackburn (2006). Finally, see the discussion of Prior’s four grades in Chapter 1 of Braüner (2011a).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而从哲学上看，人们一直在争论：其第三等级时态逻辑的本体论意涵是否与一阶先后逻辑的本体论意涵相同。例如，一些作者认为 $\mathtt{\forall}$ 约束子直接类比于一阶 $\mathtt{\forall}$ 量词，因而可疑；参见 Copeland (1996) 文集中的 Sylvan (1996)。关于 Prior 第四等级时态逻辑的讨论，见 Braüner (2002)。另见 Øhrstrøm and Hasle (1993)、Øhrstrøm and Hasle (2006)、Müller (2007) 与 Blackburn (2006)。最后，关于 Prior 四等级的讨论见 Braüner (2011a) 第 1 章。
+    step2: |-
+      然而从哲学上看，第三等级时态逻辑的本体论意涵是否同于一阶先后逻辑的本体论意涵，历来有争议。例如，有些作者视 $\mathtt{\forall}$ 约束子为直接类比一阶 $\mathtt{\forall}$ 量词，因而心存疑虑；参见 Copeland (1996) 文集中 Sylvan (1996)。Prior 第四等级时态逻辑的讨论见 Braüner (2002)；另见 Øhrstrøm and Hasle (1993)、Øhrstrøm and Hasle (2006)、Müller (2007)、Blackburn (2006)。四等级的讨论则见 Braüner (2011a) 第 1 章。
   - id: 52
     kind: body
     source: |-
       The paper Hasle (2020) points out traces of hybrid-logical ideas in Prior’s works before the publication of Prior (1967) and Prior (1968) (new edition Prior (2003)). The above mentioned paper Øhrstrøm and Hasle (2006) gives a detailed account of Prior’s logical work. For a comprehensive account of Prior’s life and work, see the book Øhrstrøm and Hasle (1995). The paper Hasle and Øhrstrøm (2016) describes Prior’s methodological approach, in particular, his view on formalisation and the role of symbolic logic in conceptual studies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Hasle (2020) 指出 Prior (1967) 与 Prior (1968)（新版 Prior (2003)）出版之前 Prior 著作中已有混合逻辑观念的痕迹。上述 Øhrstrøm and Hasle (2006) 详述了 Prior 的逻辑工作。Prior 生平与著作的全面论述见 Øhrstrøm and Hasle (1995) 一书。Hasle and Øhrstrøm (2016) 描述了 Prior 的方法论进路，尤其是他对形式化以及符号逻辑在概念研究中作用的看法。
+    step2: |-
+      Hasle (2020) 指出，在 Prior (1967)、Prior (1968)（新版 Prior (2003)）问世之前，Prior 著作中已见混合逻辑观念的痕迹。前述 Øhrstrøm and Hasle (2006) 详述 Prior 的逻辑工作；其生平与著述的全面论述见 Øhrstrøm and Hasle (1995)。Hasle and Øhrstrøm (2016) 则描述 Prior 的方法论进路，尤其是他对形式化及符号逻辑在概念研究中作用的看法。
   - id: 53
     kind: body
     source: |-
       ## 5. The development of hybrid logic since Prior
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 Prior 以来混合逻辑的发展
+    step2: |-
+      ## 5 Prior 以来混合逻辑的发展
   - id: 54
     kind: body
     source: |-
       The first completely rigorous definition of hybrid logic was given in Bull (1970), which appeared in a special issue of the journal *Theoria* in memory of Prior. Bull introduces a third sort of propositional symbols where a propositional symbol is assumed to be true exactly at one branch (“course of events”) in a branching time model. This idea of sorting propositional symbols according to restrictions on their interpretations has been developed further by a number of authors, see Section 5 of the paper Blackburn and Tzakova (1999) and also Blackburn and Goranko (2001).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      混合逻辑的第一个完全严格的定义见于 Bull (1970)，该文发表于纪念 Prior 的《Theoria》杂志专号。Bull 引入第三类命题符号，其中命题符号被假定恰在分支时间模型的一个分支（“事件进程”）上为真。这种按解释限制对命题符号分类的想法，已由多位作者进一步发展，见 Blackburn and Tzakova (1999) 第 5 节以及 Blackburn and Goranko (2001)。
+    step2: |-
+      混合逻辑的第一个完全严格定义出自 Bull (1970)，刊于纪念 Prior 的《Theoria》专号。Bull 引入第三类命题符号：它被假定恰在分支时间模型的某一分支（“事件进程”）上为真。这种依解释限制为命题符号分类的想法，后经多位作者发展，见 Blackburn and Tzakova (1999) 第 5 节及 Blackburn and Goranko (2001)。
   - id: 55
     kind: body
     source: |-
       The hybrid logical approach originally invented by Prior in the late 1960s was reinvented in the 1980s by Solomon Passy and Tinko Tinchev from Bulgaria, see Passy and Tinchev (1985) as well as Passy and Tinchev (1991). Rather than ordinary modal logic, this work took place in connection with the much more expressive Propositional Dynamic Logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Prior 在 20 世纪 60 年代末最初发明的混合逻辑进路，在 80 年代由保加利亚的 Solomon Passy 与 Tinko Tinchev 重新发明，见 Passy and Tinchev (1985) 及 Passy and Tinchev (1991)。这项工作不是围绕普通模态逻辑，而是围绕表达力强得多的命题动态逻辑展开的。
+    step2: |-
+      Prior 于 20 世纪 60 年代末首创的混合逻辑进路，80 年代由保加利亚的 Solomon Passy 与 Tinko Tinchev 重新发明，见 Passy and Tinchev (1985)、(1991)。这项工作并非依托普通模态逻辑，而是依托表达力强得多的命题动态逻辑。
   - id: 56
     kind: body
     source: |-
       A major contribution in the 1990s was the introduction of the $\mathtt{\downarrow}$ binder. An early version of the downarrow binder was introduced by Valentin Goranko in the papers Goranko (1994) and Goranko (1996). The version of the present paper was introduced in Blackburn and Seligman (1995). Since then, hybrid logic with the $\mathtt{\downarrow}$ binder has been extensively studied, see for example the paper Areces, Blackburn, and Marx (2001) on model-theoretic aspects of this logic. A comprehensive study of the model-theory of hybrid logic is the PhD thesis of ten Cate (2004). The paper Areces, Fervari, Hoffmann, and Martel (2018) considers the relationship between strong hybrid logics with the $\mathtt{\downarrow}$ binder and what are called relation-changing modal logics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      90 年代的一大贡献是 $\mathtt{\downarrow}$ 约束子的引入。下箭头约束子的早期版本由 Valentin Goranko 在 Goranko (1994) 与 Goranko (1996) 中引入。本文所述版本由 Blackburn and Seligman (1995) 引入。此后，带 $\mathtt{\downarrow}$ 约束子的混合逻辑得到广泛研究，例如 Areces, Blackburn, and Marx (2001) 关于该逻辑模型论方面的论文。ten Cate (2004) 的博士论文是对混合逻辑模型论的全面研究。Areces, Fervari, Hoffmann, and Martel (2018) 考察了带 $\mathtt{\downarrow}$ 约束子的强混合逻辑与所谓变关系模态逻辑之间的关系。
+    step2: |-
+      90 年代的一大贡献，是 $\mathtt{\downarrow}$ 约束子的引入。下箭头约束子的早期版本见于 Valentin Goranko 的 Goranko (1994)、(1996)；本文所用版本则由 Blackburn and Seligman (1995) 引入。此后，带 $\mathtt{\downarrow}$ 约束子的混合逻辑研究蔚然成风，例如 Areces, Blackburn, and Marx (2001) 论其模型论。混合逻辑模型论的全面研究，见 ten Cate (2004) 的博士论文。Areces, Fervari, Hoffmann, and Martel (2018) 则考察带 $\mathtt{\downarrow}$ 约束子的强混合逻辑与所谓变关系模态逻辑的关系。
   - id: 57
     kind: body
     source: |-
       Also the weaker hybrid logic obtained by omitting both of the binders $\mathtt{\downarrow}$ and $\mathtt{\forall}$ has been the subject of extensive exploration. It turns out that this binder-free logic and a number of variants of it are decidable. In the paper Areces, Blackburn, and Marx (1999), a number of complexity results are given for hybrid modal and tense logics over various classes of frames, for example arbitrary, transitive, linear, and branching. It is remarkable that the satisfiability problem of the binder-free hybrid logic over arbitrary frames is decidable in PSPACE, which is the same as the complexity of deciding satisfiability in ordinary modal logic. Thus, hybridizing ordinary modal logic gives more expressive power, but the complexity stays the same. Some work has been carried out on simulating nominals inside modal logic, see Kracht and Wolter (1997).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同时省略 $\mathtt{\downarrow}$ 与 $\mathtt{\forall}$ 两个约束子所得的较弱混合逻辑，也得到广泛探讨。结果表明，这种无约束子逻辑及其若干变体是可判定的。Areces, Blackburn, and Marx (1999) 给出了混合模态逻辑与时态逻辑在各种框架类（如任意、传递、线性、分支）上的一些复杂性结果。值得注意的是，无约束子混合逻辑在任意框架上的可满足性问题可在 PSPACE 内判定，这与普通模态逻辑可满足性判定的复杂性相同。因此，混合化普通模态逻辑虽增强表达力，复杂性却保持不变。已有一些工作研究在模态逻辑内部模拟名项，见 Kracht and Wolter (1997)。
+    step2: |-
+      同时省去 $\mathtt{\downarrow}$、$\mathtt{\forall}$ 两个约束子所得的较弱混合逻辑，也得到广泛探究。结果表明，此无约束子逻辑及其若干变体皆可判定。Areces, Blackburn, and Marx (1999) 就混合模态逻辑与时态逻辑在各种框架类（任意、传递、线性、分支等）上给出若干复杂性结果。值得注意的是，无约束子混合逻辑在任意框架上的可满足性问题可在 PSPACE 内判定，与普通模态逻辑可满足性判定的复杂性相同。可见混合化虽增强了表达力，复杂性却不变。在模态逻辑内部模拟名项的工作，可见 Kracht and Wolter (1997)。
   - id: 58
     kind: body
     source: |-
       Any ordinary modal formula expresses a monadic second-order property on frames, and it is well-known that for some modal formulas, including what are called Sahlqvist formulas, the second-order property is equivalent to a first-order property. In the paper Goranko and Vakarelov (2006) this is shown to hold also for a class of hybrid-logical formulas, including nominals. Several algorithms exists for calculating first-order equivalents of ordinary modal formulas. One such algorithm, SQEMA, is in the paper Conradie, Goranko, and Vakarelov (2006) extended to encompass the hybrid-logical formulas considered in Goranko and Vakarelov (2006).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      任何普通模态公式都在框架上表达一个一元二阶性质；众所周知，对某些模态公式（包括所谓 Sahlqvist 公式），该二阶性质等价于一阶性质。Goranko and Vakarelov (2006) 表明，这对包括名项在内的一类混合逻辑公式也成立。计算普通模态公式一阶等价式已有若干算法。其中一种算法 SQEMA，在 Conradie, Goranko, and Vakarelov (2006) 中被扩展以涵盖 Goranko and Vakarelov (2006) 所考虑的混合逻辑公式。
+    step2: |-
+      任何普通模态公式都在框架上表达一个一元二阶性质；众所周知，对某些模态公式（含所谓 Sahlqvist 公式），该二阶性质等价于某个一阶性质。Goranko and Vakarelov (2006) 表明，这对包括名项在内的一类混合逻辑公式同样成立。计算普通模态公式一阶等价式的算法已有数种，其一为 SQEMA，Conradie, Goranko, and Vakarelov (2006) 将其扩展至 Goranko and Vakarelov (2006) 所论混合逻辑公式。
   - id: 59
     kind: body
     source: |-
       As described in the previous section, Prior introduced hybrid tense logic to deal with a particular issue in the philosophy of time, but in Prior (1968), Chapter XIV (also Chapter XIV in the new edition Prior (2003)), he also showed that hybrid tense logic can replace a two-dimensional temporal logic introduced by Hans Kamp in unpublished material circulated in 1967, and later included in Kamp (1971). The dimension is simply the number of instants a formula is evaluated relative to, so adding hybrid-logical machinery enables two dimensions to be replaced by one. This work has recently been followed up in a number of papers by Blackburn and Jørgensen, see Blackburn and Jørgensen (2016a) for an overview. We now give a brief sketch of this line of work, adapted to the terminology of the present entry. The version of hybrid logic in question has a designated nominal $\mathtt{now}$ and each model comes with a designated time $ t_0 $ such that i) any stand-alone formula is evaluated relative to $ t_0 $ and ii) the nominal $\mathtt{now}$ refers to $ t_0 $. More formally, we adopt the convention that $(M,t_0), g \vDash \mathtt{\phi}$ means $M, g, t_0 \vDash \mathtt{\phi}$ and we only consider assignments $g$ where $g(\mathtt{now})=t_0$. Note that the nominal $\mathtt{now}$, considered as a stand-alone formula, is valid in this semantics, but this is not the case for any other nominal. This new notion of validity is by Blackburn and Jørgensen called *contextual validity*. The paper Blackburn and Jørgensen (2013) gives an axiom system which is complete wrt. this notion of contextual validity. The paper Blackburn and Jørgensen (2012) gives a complete tableau system, but the semantics of this paper is in line with Kamp’s original two-dimensional semantics. Both papers also consider further indexicals like $\mathtt{yesterday}$, $\mathtt{today}$ and $\mathtt{tomorrow}$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上一节所述，Prior 引入混合时态逻辑是为了处理时间哲学中的一个特定问题；但在 Prior (1968) 第十四章（新版 Prior (2003) 亦为第十四章）中，他还表明混合时态逻辑可以取代 Hans Kamp 于 1967 年未刊材料中提出、后收入 Kamp (1971) 的二维时态逻辑。维度就是公式求值所相对的时刻数目，因此加入混合逻辑机制可使两个维度化约为一个。这项工作近来由 Blackburn 与 Jørgensen 在一系列论文中跟进，概述见 Blackburn and Jørgensen (2016a)。现在我们按本词条术语简述这一研究方向。所论混合逻辑版本有一个指派名项 $\mathtt{now}$，每个模型带有一个指派时间 $ t_0 $，使得 i) 任何独立公式都相对于 $ t_0 $ 求值，ii) 名项 $\mathtt{now}$ 指称 $ t_0 $。更形式地说，我们采用约定：$(M,t_0), g \vDash \mathtt{\phi}$ 表示 $M, g, t_0 \vDash \mathtt{\phi}$，且只考虑满足 $g(\mathtt{now})=t_0$ 的指派 $g$。注意，名项 $\mathtt{now}$ 作为独立公式在此语义中有效，而其他名项则不然。Blackburn 与 Jørgensen 称这种新的有效性概念为 *语境有效性*。Blackburn and Jørgensen (2013) 给出了关于该语境有效性概念完全的 axiom system。Blackburn and Jørgensen (2012) 给出了完全的表列系统，但该文语义与 Kamp 原初二维语义一致。两文还考察了 $\mathtt{yesterday}$、$\mathtt{today}$、$\mathtt{tomorrow}$ 等进一步索引词。
+    step2: |-
+      如上一节所述，Prior 引入混合时态逻辑，本为处理时间哲学中的一个特定问题；但 Prior (1968) 第十四章（新版 Prior (2003) 亦为第十四章）又表明，混合时态逻辑可取代 Hans Kamp 于 1967 年未刊稿中提出、后收入 Kamp (1971) 的二维时态逻辑。所谓维度，即公式求值所相对的时刻数目；加入混合逻辑机制，便可使二维化为一维。此线工作近由 Blackburn 与 Jørgensen 在一系列论文中推进，概述见 Blackburn and Jørgensen (2016a)。今按本词条术语略述其要。所论混合逻辑版本设一个指派名项 $\mathtt{now}$，每个模型各带一指派时间 $ t_0 $，使得 i) 任何独立公式皆相对于 $ t_0 $ 求值，ii) 名项 $\mathtt{now}$ 指称 $ t_0 $。更形式地说，约定 $(M,t_0), g \vDash \mathtt{\phi}$ 意即 $M, g, t_0 \vDash \mathtt{\phi}$，且只考虑 $g(\mathtt{now})=t_0$ 的指派 $g$。注意，名项 $\mathtt{now}$ 作为独立公式在此语义中有效，其他名项则不然。Blackburn 与 Jørgensen 称此新的有效性概念为 *语境有效性*；Blackburn and Jørgensen (2013) 给出关于该概念完全的公理系统，Blackburn and Jørgensen (2012) 则给出完全的表列系统，唯其语义与 Kamp 原初二维语义一致。两文还论及 $\mathtt{yesterday}$、$\mathtt{today}$、$\mathtt{tomorrow}$ 等索引词。
   - id: 60
     kind: body
     source: |-
       The paper Blackburn and Jørgensen (2016b) uses hybrid tense logic to combine ideas of Prior with those of Hans Reichenbach on how to represent natural language tenses. Prior preferred the well-known tense operators described above, whereas Reichenbach preferred temporal references, that is, references to specific times, Reichenbach (1947). It turns out that the two approaches can be combined, which was not the route taken by Prior himself––see the account given in Blackburn and Jørgensen (2016b),
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Blackburn and Jørgensen (2016b) 用混合时态逻辑结合 Prior 与 Hans Reichenbach 关于如何表示自然语言时态的想法。Prior 偏好上述著名时态算子，而 Reichenbach 偏好时间指称，即对特定时间的指称，Reichenbach (1947)。结果表明两种进路可以结合，而 Prior 本人并未走这条路——见 Blackburn and Jørgensen (2016b) 的论述，
+    step2: |-
+      Blackburn and Jørgensen (2016b) 以混合时态逻辑糅合 Prior 与 Hans Reichenbach 关于自然语言时态表示的想法。Prior 偏爱上述时态算子，Reichenbach 则偏爱时间指称，即对特定时间的指称（Reichenbach 1947）。两种进路原来可以结合，唯 Prior 本人未取此途——详见 Blackburn and Jørgensen (2016b) 的论述，
   - id: 61
     kind: body
     source: |-
       Hybrid-logical notions have been applied in many different places, for example, the paper Areces and Fervari (2021) adds hybrid operators to XPath, which is a widely used query language for XML, a markup language for describing digital text. Hybrid-logical has also been used to add expressive power to specification logics to capture certain properties of computational systems, see Neves, Madeira, Martins, Barbosa (2016). It should, moreover, be mentioned that logics similar to hybrid logics play a central role within the area of description logic, which is a family of logics used for knowledge representation in Artificial Intelligence, see the paper Blackburn and Tzakova (1998) and Carlos Areces’ PhD thesis (2000).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      混合逻辑概念已在许多领域得到应用。例如，Areces and Fervari (2021) 把混合算子加入 XPath——一种广泛用于 XML 的查询语言，而 XML 是描述数字文本的标记语言。混合逻辑也被用来增强规约逻辑的表达力，以刻画计算系统的某些性质，见 Neves, Madeira, Martins, Barbosa (2016)。此外还应提到，类似混合逻辑的逻辑在描述逻辑领域居核心地位，而描述逻辑是人工智能中用于知识表示的一族逻辑，见 Blackburn and Tzakova (1998) 与 Carlos Areces 的博士论文 (2000)。
+    step2: |-
+      混合逻辑概念应用甚广。例如，Areces and Fervari (2021) 把混合算子加入 XPath——这是广泛用于 XML 的查询语言，而 XML 是描述数字文本的标记语言。混合逻辑也被用来增强规约逻辑的表达力，以刻画计算系统的某些性质，见 Neves, Madeira, Martins, Barbosa (2016)。此外，类似混合逻辑的逻辑在描述逻辑中居核心地位；描述逻辑是人工智能中用于知识表示的一族逻辑，见 Blackburn and Tzakova (1998) 及 Carlos Areces 的博士论文 (2000)。
   - id: 62
     kind: body
     source: |-
       ## 6. Axioms for hybrid logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 混合逻辑的公理
+    step2: |-
+      ## 6 混合逻辑的公理
   - id: 63
     kind: body
     source: |-
