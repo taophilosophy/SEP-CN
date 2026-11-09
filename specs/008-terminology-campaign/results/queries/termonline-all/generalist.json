@@ -1,0 +1,166 @@
+{
+ "key": "generalist",
+ "term": "generalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T21:42:53+00:00",
+ "status": "ok",
+ "note": "variant=generalist; 审定公布名词库=17; 海峡两岸名词对照库=7; 其他来源数据库=0; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "泛化种",
+   "en": "generalist",
+   "code": "07.112",
+   "standard": "生态学名词",
+   "subject": "生态学_生态系统生态学"
+  },
+  {
+   "cn": "广幅种",
+   "en": "eurytopic species,generalist species",
+   "code": "02.0085",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "联邦党人",
+   "en": "Federalist",
+   "code": "03.0036",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "反联邦党人",
+   "en": "Anti-Federalist",
+   "code": "03.0037",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "大花美人蕉",
+   "en": "canna; Canna × generalis L.H.Bailey",
+   "code": "05.447",
+   "standard": "农学名词",
+   "subject": "园艺作物_花卉作物"
+  },
+  {
+   "cn": "卫生局长报告",
+   "en": "Surgeon General's Report",
+   "code": "6.132",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "普惠制",
+   "en": "generalize system of preference",
+   "code": "13.063",
+   "standard": "经济学名词",
+   "subject": "经济学_国际贸易"
+  },
+  {
+   "cn": "散号将军",
+   "en": "san hao jiang jun;duty-free generals;sinecured generals",
+   "code": "4.165",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_魏晋南北朝_政治_官员管理"
+  },
+  {
+   "cn": "四十四将军叛乱",
+   "en": "Revolt of 44 Generals",
+   "code": "04.0624",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_墨西哥、中美洲"
+  },
+  {
+   "cn": "宁古塔副都统衙门档案",
+   "en": "archives of Ningguta Deputy General’s Yamen",
+   "code": "08.01.053",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_中国古代档案"
+  },
+  {
+   "cn": "珲春协领衙门档案",
+   "en": "archives of Hunchun Deputy General’s Yamen",
+   "code": "08.01.054",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_中国古代档案"
+  },
+  {
+   "cn": "阿勒楚喀副都统衙门档案",
+   "en": "archives of Alechuka Deputy General’s Yamen",
+   "code": "08.01.055",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_中国古代档案"
+  },
+  {
+   "cn": "泛化种,广幅种",
+   "en": "generalist",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "广适者",
+   "en": "generalist",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "广适应者",
+   "en": "generalist",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "广食性者",
+   "en": "food generalist",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "广幅种，广适种",
+   "en": "eurytopic species\",\"generalist species",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "广适种（=广幅种）",
+   "en": "eurytopic species\",\"generalist species",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "领域一般性",
+   "en": "domain generality",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "民主集中派",
+   "en": "democratic centralist",
+   "code": "04.0359",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_列宁斯大林时期"
+  },
+  {
+   "cn": "个别与一般",
+   "en": "generality and particularity",
+   "code": "01.0044",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "中央集中解决法的计划经济模式",
+   "en": "model of planned economy with centralist scheme",
+   "code": "05.0184",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
