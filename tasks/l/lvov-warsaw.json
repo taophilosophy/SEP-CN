@@ -1,0 +1,22 @@
+{
+  "slug": "lvov-warsaw",
+  "kind": "retranslate",
+  "zh_doc": "l/lvov-warsaw.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T12:46:28Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T12:46:28Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 30, 2023",
+    "archive_edition": "Winter 2023",
+    "sha256": "7a308fa1be005d1c552414cedfbc19fef55c7c056469904395a3e3b0e95cdad4"
+  }
+}
