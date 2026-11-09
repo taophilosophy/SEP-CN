@@ -15,6 +15,8 @@
 
 ## A
 
+## A
+
 | A.J. Ayer | — | 艾耶尔 | — | — | religious-experience | 学界通行汉译（《语言、真理与逻辑》） | 2026-11-05 |
 | Aas, Sean | — | Sean Aas（现代学者，保留英文） | — | — | disability | ADR-0022：无通行汉名者保留英文（本词条合著者）；凭证 2026-11-09 | 2026-11-09 |
 | Abelard Peter | — | 彼得·阿伯拉尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -374,6 +376,7 @@
 | Booker T. Washington | — | 布克·托·华盛顿 | — | — | alexander-crummell | 学界通行汉译 | 2026-11-07 |
 | Boorse, Christopher | — | 克里斯托弗·伯尔斯 | 美国 | — | disability | 学界惯例音译（生物医学“正常功能”与自然主义健康理论代表；正文首现括注）；凭证 2026-11-09 | 2026-11-09 |
 | Bordin | — | 博尔丹 | — | — | descartes-works | 音译（《沉思集》较晚版诘难人） | 2026-11-06 |
+| Borel, Émile | — | 埃米尔·博雷尔 | 法国 | 1871–1956 | intuitionism | 学界通行汉译（博雷尔层级）；凭证 2026-11-10 | 2026-11-10 |
 | Born, Max | — | 马克斯·玻恩 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Borrows, John | — | 约翰·博罗斯 | — | — | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
 | Borthwick, Richard | — | Richard Borthwick（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
@@ -1680,6 +1683,7 @@
 | Kroon, Fred | — | Fred Kroon（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Kropotkin, Peter | — | 克鲁泡特金 | — | —；godwin | godwin | 学界通行汉译（无政府主义者） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | Kṛṣṇa | कृष्ण | 黑天 | 古印度／史诗传统 | — | jaina-philosophy | 学界千年通行汉译（《摩诃婆罗多》人物） | 2026-11-08 |
+| Kruskal, Joseph B. | — | 克鲁斯卡尔 | 美国 | 1928–2010 | intuitionism | 学界通行音译（克鲁斯卡尔定理）；凭证 2026-11-10 | 2026-11-10 |
 | Kuiji | — | 窥基 | — | — | korean-philosophy | 佛学界千年传统译名（玄奘弟子，唯识宗二祖） | 2026-11-05 |
 | Kūkai | 空海 | 空海 | 日本 | 774–835 | kukai | 学界千年通行汉写（真言宗开祖；日本佛教史通称） | 2026-11-09 |
 | Kuki Shūzō | 九鬼周造 | 九鬼周造 | — | — | japanese-aesthetics | 学界惯例（日本哲学史通行汉名） | 2026-11-02 |
@@ -1734,6 +1738,7 @@
 | Le Page, John | John le Page | 约翰·勒佩奇 | — | 13 世纪 | william-sherwood | 学界通行音译（13 世纪词项主义逻辑学家）；凭证 2026-11-09 | 2026-11-09 |
 | Le Roy, Édouard | Édouard Le Roy | 爱德华·勒鲁瓦 | — | — | duhem | 学界惯例（法国实用主义者，通行音译） | 2026-11-05 |
 | Le Seur | 勒瑟尔 | 语料回收（全目录） | 学界惯例（《原理》耶稣会版编者；通行音译）；凭证 2026-11-09 | 2026-11-09 |
+| Lebesgue, Henri | — | 亨利·勒贝格 | 法国 | 1875–1941 | intuitionism | 学界通行汉译（勒贝格测度）；凭证 2026-11-10 | 2026-11-10 |
 | Lee, Daniel | — | 丹尼尔·李 | — | — | sovereignty | 构词直译（政治理论家，无通行定译）；凭证 2026-11-07 | 2026-11-07 |
 | Lee, Kibeom | — | Kibeom Lee（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（HEXACO 模型提出者）；凭证 2026-11-10 | 2026-11-10 |
 | Lefèvre d'Étaples, Jacques | Jacques Lefèvre d'Étaples | 雅克·勒费弗尔·戴塔普尔 | — | — | agrippa-nettesheim | 学界惯例（法国文艺复兴研究通行汉译） | 2026-11-06 |
@@ -2969,6 +2974,7 @@
 
 | W. E. B. Du Bois | — | 杜波依斯 | — | — | alexander-crummell | 学界通行汉译（叙述处首现括注 W. E. B. Du Bois） | 2026-11-07 |
 | W.D. Ross | — | W.D.罗斯 | — | — | justice-virtue | 学界通行汉译（伦理学史，《正当与善》）；凭证 2026-11-02 | 2026-11-02 |
+| Waerden, Bartel Leendert van der | — | 范德瓦尔登 | 荷兰 | 1903–1996 | intuitionism | 学界通行汉译（范德瓦尔登定理）；凭证 2026-11-10 | 2026-11-10 |
 | Wagener | — | 瓦格纳 | — | — | bauer | 学界通行音译（《国家与社会辞典》主编 F.W.H. Wagener，与作曲家 Wagner 异人） | 2026-11-08 |
 | Wahl, Jean | — | 让·瓦尔 | — | — | bergson | 法国哲学家，第七版编者；学界通行音译 | 2026-11-08 |
 | Wainwright, William | — | 威廉·温赖特 | 美国 | — | omniscience | 学界惯例音译；凭证 2026-11-09 | 2026-11-09 |

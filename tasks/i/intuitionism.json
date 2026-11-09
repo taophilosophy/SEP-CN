@@ -2,7 +2,7 @@
   "slug": "intuitionism",
   "kind": "retranslate",
   "zh_doc": "i/intuitionism.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "I-main-20261110",
       "at": "2026-11-09T18:52:02Z",
       "evidence": "三校（体例）check_style --docs --strict 0 issue（角引号 18 对→弯引号、CJK 斜体 19 处→加粗含空格补齐）；check_academic --strict 无硬错误；check_math 294 公式 missing 0；术语登记 47 条、人名 23 条并 registry_azsort 归位"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T19:44:23Z",
+      "evidence": "r1 初审：通读成稿 474 行全文逐节对照 yuanwen/i/intuitionism.md；实修 1 处误植（§2.2 KS 段「天然数序列」→「自然数序列」，源 natural numbers）；叙述汉名补登 4 行（范德瓦尔登/克鲁斯卡尔/博雷尔/勒贝格）；术语抽查 无规律序列/合规律的/创造主体/棒·扇/邻域函数 与 §3–§5 用词一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T19:44:23Z",
+      "evidence": "r2 复审（逐句回核）：§2.2 创造主体、§5.4 CS1–CS3 与 KS、§6.2 维特根斯坦引文与 Marion 转述逐句对照源文；公式 294 条 missing 0 unbalanced 0；defs 照录区逐键 72:72；引文键与年份照录核销"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T19:44:24Z",
+      "evidence": "r3 终审：定点四项绿（style 0 / academic 硬 0 / prose 1 条为直引块豁免留痕 / math 0）+ 对账五项全等（段落 191:191、节 34:34、marker 48:48、defs 72:72、货币符号 650:650）+ check_terms 绿（本批术语 47 行、人名 27 行入库）；check_all 两红系并行会话在途（j/justice-moral-psych H1 未联动、early-modern-india 登记冲突与 han-dynasty Lüshi 同译异键重复），非本词条项；冷置回读后签字"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T19:44:25Z",
+      "evidence": "I 批倒序 #69 收口：账本 154 段守恒、成稿 37144 字符、六道留痕齐备；done"
     }
   ],
   "blockers": [],
