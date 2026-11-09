@@ -1,0 +1,22 @@
+{
+  "slug": "logic-infinitary",
+  "kind": "retranslate",
+  "zh_doc": "l/logic-infinitary.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T14:18:35Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T14:18:35Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 6, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "f28c5568028a79b4b1387a75448478eaeec4ea976272b034dbfaedce42797473"
+  }
+}
