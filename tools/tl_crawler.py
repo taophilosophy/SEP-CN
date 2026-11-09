@@ -187,6 +187,21 @@ class Crawler:
                                        '/'.join(str(d['total']) for d in r['dbs'])
                                        or '-'))
             time.sleep(self.interval)
+        # 批末补跑：一批里 status=error 的多半是会话短暂失效的连带失败，重激活后各补一次
+        errs = [(i, r) for i, r in enumerate(out) if r['status'] == 'error']
+        if errs:
+            print('  [补跑] %d 个 error 词，批末重启会话后重试' % len(errs), flush=True)
+            self.warm('logic', extra_wait=8000)
+            token = self.token() or token
+            for i, old in errs:
+                r = self.query(old['term'], token)
+                if r['status'] != 'error':
+                    r['row_key'] = old['row_key']
+                    out[i] = r
+                    print('  %-42s %-5s %s（补跑）' % (old['term'][:42], r['status'],
+                                                     '/'.join(str(d['total']) for d in r['dbs'])),
+                          flush=True)
+                time.sleep(self.interval)
         tmp = out_path + '.tmp'
         with open(tmp, 'w', encoding='utf-8', newline='\n') as f:
             json.dump({'results': out}, f, ensure_ascii=False, indent=1)
