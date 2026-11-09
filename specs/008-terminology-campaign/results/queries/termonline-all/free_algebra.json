@@ -1,0 +1,348 @@
+{
+ "key": "free algebra",
+ "term": "free algebra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T21:29:22+00:00",
+ "status": "ok",
+ "note": "variant=free algebra; 审定公布名词库=1871; 海峡两岸名词对照库=571; 其他来源数据库=117; 预公布名词数据库=55; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "自由代数",
+   "en": "free algebra",
+   "code": "04.1446",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "自由泛代数",
+   "en": "free universal algebra",
+   "code": "03.0358",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_泛代数"
+  },
+  {
+   "cn": "自由李代数",
+   "en": "free Lie algebra",
+   "code": "04.1524",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "代数学",
+   "en": "algebra",
+   "code": "04.0388",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "代数",
+   "en": "algebras",
+   "code": "04.1472",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "代数的李代数",
+   "en": "algebraic Lie algebra",
+   "code": "04.1993",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数群"
+  },
+  {
+   "cn": "代数的",
+   "en": "algebraic",
+   "code": "04.0397",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "中心代数",
+   "en": "central algebra,normal algebra",
+   "code": "04.1431",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "code": "04.136",
+   "standard": "测绘学名词",
+   "subject": "测绘学_地图学"
+  },
+  {
+   "cn": "流代数",
+   "en": "current algebra",
+   "code": "09.1316",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "算符代数",
+   "en": "operator algebra",
+   "code": "09.1379",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "效应代数",
+   "en": "effect algebra",
+   "code": "12.0066",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "地理代数",
+   "en": "geo-algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "程序代数",
+   "en": "program algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数模型",
+   "en": "algebraic model",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "代数规约",
+   "en": "algebraic specification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数简化",
+   "en": "algebraic simplification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数逻辑",
+   "en": "algebraic logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数码",
+   "en": "algebraic code",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数语言",
+   "en": "algebraic language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性代数",
+   "en": "linear algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "外代数",
+   "en": "Exterior algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微分代数",
+   "en": "Differential algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表面",
+   "en": "algebraic surface",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "罚球",
+   "en": "free shot\",\"free throw",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "自由使用",
+   "en": "free use",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由意志",
+   "en": "Free will",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "游离棉酚",
+   "en": "free gossypol",
+   "code": "5.10.4.11",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_食用油脂"
+  },
+  {
+   "cn": "游离碘",
+   "en": "free iodine",
+   "code": "2.1.6.2.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "游离氨",
+   "en": "free ammonia",
+   "code": "2.1.12.12",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "自由电子",
+   "en": "free electron",
+   "code": "3.1.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_核物理基本概念"
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "code": "4.1.1.1.27",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "code": "1.2.2.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则"
+  },
+  {
+   "cn": "自由贸易",
+   "en": "free trade",
+   "code": "02.0176",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "自由竞争",
+   "en": "free competition",
+   "code": "02.0182",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "自由劳动",
+   "en": "free labor",
+   "code": "03.0238",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "code": "03.0239",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "自由农",
+   "en": "free peasants",
+   "code": "03.0240",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "搭便车",
+   "en": "free-riding ",
+   "code": "6.3.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

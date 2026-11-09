@@ -1,0 +1,26 @@
+{
+ "key": "foreknowledge",
+ "term": "foreknowledge",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T21:18:52+00:00",
+ "status": "ok",
+ "note": "variant=foreknowledge; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "核心知识",
+   "en": "core knowledge",
+   "code": "10.0408",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_科技管理与技术创新_知识管理"
+  },
+  {
+   "cn": "前识",
+   "en": "Foreknowledge / Prophecy",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

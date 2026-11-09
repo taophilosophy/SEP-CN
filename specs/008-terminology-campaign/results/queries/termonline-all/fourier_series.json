@@ -1,0 +1,348 @@
+{
+ "key": "fourier series",
+ "term": "Fourier series",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T21:24:52+00:00",
+ "status": "ok",
+ "note": "variant=Fourier series; 审定公布名词库=1644; 海峡两岸名词对照库=727; 其他来源数据库=134; 预公布名词数据库=52; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "傅里叶序列",
+   "en": "Fourier series",
+   "code": "01.2601",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震信号处理"
+  },
+  {
+   "cn": "傅里叶级数",
+   "en": "Fourier series",
+   "code": "01.358",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "傅里叶级数",
+   "en": "Fourier series",
+   "code": "01.038",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "傅里叶级数",
+   "en": "Fourier series",
+   "code": "05.0276",
+   "standard": "数学名词",
+   "subject": "数学_分析学_分析学基础·实分析"
+  },
+  {
+   "cn": "复傅里叶序列",
+   "en": "complex Fourier series",
+   "code": "01.2608",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震信号处理"
+  },
+  {
+   "cn": "多重傅里叶级数",
+   "en": "multiple Fourier series",
+   "code": "05.0290",
+   "standard": "数学名词",
+   "subject": "数学_分析学_分析学基础·实分析"
+  },
+  {
+   "cn": "傅里叶-贝塞尔级数",
+   "en": "Fourier-Bessel series",
+   "code": "06.0709",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_特殊函数"
+  },
+  {
+   "cn": "统",
+   "en": "series",
+   "code": "07.01.076",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学与地层学_总论"
+  },
+  {
+   "cn": "丛编",
+   "en": "series",
+   "code": "04.03.021",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "丛书",
+   "en": "series",
+   "code": "03.124",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "系",
+   "en": "series",
+   "code": "02.0043",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "级数",
+   "en": "series",
+   "code": "05.0230",
+   "standard": "数学名词",
+   "subject": "数学_分析学_分析学基础·实分析"
+  },
+  {
+   "cn": "傅里叶级数",
+   "en": "Fourier series",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "傅里叶级数",
+   "en": "Fourier series",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "离散傅里叶级数",
+   "en": "discrete Fourier series\",\"DFS",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "系",
+   "en": "series",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "级数",
+   "en": "series",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "序列",
+   "en": "series",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "统",
+   "en": "series",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "组",
+   "en": "series",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "傅里叶变换",
+   "en": "Fourier transform",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "傅里叶分析",
+   "en": "Fourier analysis",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "傅里叶积分",
+   "en": "Fourier integral",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "傅里叶系数",
+   "en": "Fourier coefficients",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "傅里叶级数",
+   "en": "Fourier series",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "级数",
+   "en": "Series",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "连续出拳",
+   "en": "series",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "串",
+   "en": "series",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "系列赛",
+   "en": "series",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "洛朗级数",
+   "en": "Laurent series",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "调和级数",
+   "en": "Harmonic series",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "泰勒级数",
+   "en": "Taylor series",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "互调失真",
+   "en": "Volterra series",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "技巧组合",
+   "en": "acrobatic series",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "离散傅里叶变换",
+   "en": "Discrete Fourier Transform",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "快速傅里叶变换",
+   "en": "Fast Fourier Transform, FFT",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "铀系",
+   "en": "uranium series",
+   "code": "2.4.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射来源及其应用"
+  },
+  {
+   "cn": "钍系",
+   "en": "thorium series",
+   "code": "2.4.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射来源及其应用"
+  },
+  {
+   "cn": "锕系",
+   "en": "actinium series",
+   "code": "2.4.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射来源及其应用"
+  },
+  {
+   "cn": "民俗系列",
+   "en": "folklore series",
+   "code": "4.0456",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_分支学科与研究领域"
+  },
+  {
+   "cn": "时间序列分析",
+   "en": "time-series analysis",
+   "code": "1.2.5.148",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "A类毒剂",
+   "en": "A-series agent",
+   "code": "10.5.5.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "V类毒剂",
+   "en": "V-series agent",
+   "code": "10.5.5.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "时间系列设计",
+   "en": "time series design",
+   "code": "17.1.4.8",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队健康教育与健康促进_军队健康教育"
+  },
+  {
+   "cn": "G类毒剂",
+   "en": "G-series agent",
+   "code": "10.5.5.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "民族问题五种丛书",
+   "en": "five series on ethnic issues",
+   "code": "1.0418",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "酸味剂",
+   "en": "sourer",
+   "code": "5.14.34",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_调味品"
+  },
+  {
+   "cn": "既往吸烟者",
+   "en": "former smoker",
+   "code": "3.3.2.3.1.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
