@@ -11,6 +11,7 @@
 
 | A.J. Ayer | — | 艾耶尔 | — | — | religious-experience | 学界通行汉译（《语言、真理与逻辑》） | 2026-11-05 |
 | Aas, Sean | — | Sean Aas（现代学者，保留英文） | — | — | disability | ADR-0022：无通行汉名者保留英文（本词条合著者）；凭证 2026-11-09 | 2026-11-09 |
+| Achinstein, Peter | — | 彼得·阿钦斯坦 | 美国 | 1935– | scientific-explanation-20th | 学界通行（科学哲学家，语用解释论）；凭证 2026-11-10 | 2026-11-10 |
 | Abelard Peter | — | 彼得·阿伯拉尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Ablondi, Fred | — | Fred Ablondi（现代学者，保留英文） | — | — | cordemoy | ADR-0022：无通行汉名者保留英文（科尔德穆瓦研究专著作者，本词条作者）；凭证 2026-11-09 | 2026-11-09 |
 | Abner of Burgos | — | 布尔戈斯的阿布内尔 | — | — | crescas | 学界通行中译（14 世纪叛教者，亦名 Alfonso de Valladolid）；凭证 2026-11-08 | 2026-11-08 |
@@ -397,6 +398,7 @@
 | Broad, C. D. | — | C. D. 布罗德 | 英国 | 1887–1971 | stebbing | 学界通行（分析哲学家，一般保留缩写；全名 Charlie Dunbar Broad） | 2026-11-09 |
 | Brock, Dan | — | 丹·布罗克 | — | — | disability-care-rationing | 学界通行汉译（生物伦理，CEA 与失能配给论争核心作者）；首现括注；凭证 2026-11-08 | 2026-11-08 |
 | Brom, Luco Johan van den | — | Luco Johan van den Brom（现代学者，保留英文） | — | — | omnipresence | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
+| Bromberger, Sylvan | — | 西尔万·布罗姆伯格 | 美国 | 1923–2013 | scientific-explanation-20th | 本库首译（MIT；问句逻辑于语用解释论有先导之功）；凭证 2026-11-10 | 2026-11-10 |
 | Brooke, Lord (Robert Greville) | Lord Brooke | 布鲁克勋爵 | 英国 | 1607–1643 | cambridge-platonists | 学界通行音译（议会派领袖，斯特里的庇护人）；凭证 2026-11-09 | 2026-11-09 |
 | Brooks, Rodney | — | 罗德尼·布鲁克斯 | — | — | bodily-awareness | 学界通行汉译（具身人工智能研究者）；凭证 2026-11-07 | 2026-11-07 |
 | Broome, John | — | 约翰·布鲁姆 | — | — | ethics-deontological | 学界通行汉译（《权衡生死》作者） | 2026-11-04 |
@@ -943,6 +945,7 @@
 | French, Sally | — | 萨莉·弗伦奇 | — | — | disability | 学界惯例音译（与 John Swain 合提残疾肯定性模型）；凭证 2026-11-09 | 2026-11-09 |
 | Freud | — | 弗洛伊德 | — | — | 首现（xenophanes） | 学界通行汉译（精神分析）；凭证 2026-11-07 | 2026-11-07 |
 | Friedman, Harvey | — | Harvey Friedman | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Friedman, Michael | — | 迈克尔·弗里德曼 | 美国 | 1947– | scientific-explanation-20th | 学界通行（科学哲学家，统一论解释；勿混经济学家 Milton Friedman）；凭证 2026-11-10 | 2026-11-10 |
 | Friedman, Milton | — | 米尔顿·弗里德曼 | 美国 | 1912–2006 | cosmopolitanism | 学界通行汉译（经济学家）；凭证 2026-11-09 | 2026-11-09 |
 | Friedmann, Alexander | — | 亚历山大·弗里德曼 | — | — | cosmology-30s | 学界通行音译（弗里德曼宇宙模型）；凭证 2026-11-08 | 2026-11-08 |
 | Friedrich Adolf Trendelenburg | — | 弗里德里希·阿道夫·特伦德伦堡 | — | — | leibniz-logic-influence | 学界通行汉译（新亚里士多德主义者）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -1279,6 +1282,7 @@
 | Hisdal, Ellen | — | Hisdal | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Hirata Kanetane | — | 平田铉胤 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Hirsch, Emil | — | 埃米尔·赫希 | — | — | albo-joseph | JewishEncyclopedia.com 条目作者音译 | 2026-11-07 |
+| Hitchcock, Christopher | — | 克里斯托弗·希区柯克 | 美国 | 1964– | scientific-explanation-20th | 本库首译（科学哲学家；勿混同名电影导演 Alfred Hitchcock）；凭证 2026-11-10 | 2026-11-10 |
 | Hiż, Henryk | — | Henryk Hiż | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Hoare, C. A. R. | — | C. A. R. Hoare | — | — | logic-dynamic | 无通行汉名，保留英文原名（Hoare 演算提出者）；凭证 2026-11-10 | 2026-11-09 |
 | Hirsch, Samson Raphael | — | 参孙·拉斐尔·希尔施 | 德国 | 1808–1888 | scholem | 学界通行汉译（新正统派）；凭证 2026-11-08 | 2026-11-08 |
@@ -2578,6 +2582,7 @@
 | Schwarzschild, Karl | — | 史瓦西 | — | — | 语料回收（lakatos 首译） | 物理学界通行汉译（德国天文学家，史瓦西度规）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Schweid, Eliezer | — | 埃利泽·施魏德 | 以色列 | 1929–2022 | scholem | 希伯来名音译；凭证 2026-11-08 | 2026-11-08 |
 | Scotus, John Duns | — | 约翰·邓斯·司各脱 | — | — | albert-great | 学界通行汉译（精细博士） | 2026-11-06 |
+| Scriven, Michael | — | 迈克尔·斯克里文 | 英国／美国 | 1928–2023 | scientific-explanation-20th | 学界通行（科学哲学家，单称因果解释）；凭证 2026-11-10 | 2026-11-10 |
 | Searle, John | — | 约翰·塞尔 | 美国／语言哲学与心灵哲学 | 1932– | reinach | 学界千年通行汉译（言语行为理论）；凭证 2026-11-09 | 2026-11-09 |
 | Segerberg, Krister | — | Krister Segerberg | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Sedgwick, Adam | — | 亚当·塞奇威克 | — | — | origin-descent | 学界惯例（剑桥地质学家）；凭证 2026-11-07 | 2026-11-07 |
@@ -3070,6 +3075,7 @@
 | Wŏn’gwang | 圓光 | 圆光 | — | — | korean-buddhism | 汉文传统写法（源文汉字 圓光；新罗僧，摄论宗） | 2026-11-05 |
 | Woodger, J. H. | — | J. H. Woodger（现代学者，保留英文） | — | — | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Woodruff, Paul | — | 保罗·伍德拉夫 | — | — | binarium | 学界惯例（古典哲学家，音译）；凭证 2026-11-08 | 2026-11-08 |
+| Woodward, James | — | 詹姆斯·伍德沃德 | 美国 | 1946– | scientific-explanation-20th | 本库首译（解释的因果／操控论）；凭证 2026-11-10 | 2026-11-10 |
 | Wooldridge, Michael | — | 迈克尔·伍尔德里奇 | — | — | social-procedures | 学界通行汉译（多智能体系统）；凭证 2026-11-07 | 2026-11-07 |
 | Wundheiler, Aleksander | — | Aleksander Wundheiler | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Woolf, Virginia | — | 弗吉尼亚·伍尔夫 | — | — | ingarden | 文学通行汉译（《海浪》）；凭证 2026-11-08 | 2026-11-08 |
