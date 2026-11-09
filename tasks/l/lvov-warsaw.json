@@ -2,7 +2,7 @@
   "slug": "lvov-warsaw",
   "kind": "retranslate",
   "zh_doc": "l/lvov-warsaw.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-09T12:46:28Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T14:04:51Z",
+      "evidence": "账本 86 段（body 84/oir 1/ack 1）双版全填；lq.py check HARD=0（10 处 SOFT 为标题/引块/oir 机械段）；compose 26966 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T14:04:51Z",
+      "evidence": "结构对账：编号节 6=6、h3 11（源 12，致谢按模板降为 h2）、h4 5=5、脚注 76=76 逐键全等、引块与 oir 对位、$ 0；年份人名逐处核对（1866–1938、1895、1918、1939、1945、Tarski 1933/1936、Prior 1960 等）；H1「华沙学派」与 SUMMARY 第 1600 行一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T14:04:51Z",
+      "evidence": "反欧化 prose 12→0（de-chain 9、long-sentence 1、as-one 1 实修）；style bold-spacing 1 处修；$ 0、脚注键不变"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T14:04:52Z",
+      "evidence": "术语 25 行、人名 34 行经 reg_tool 入库（利沃夫—华沙学派/物化论/伪名/原理论/分体论/激进约定论/语义认识论等；与既有 10 术语、6 人名并行合并）；check_terms 硬错误 0、冲突 0，1 告警裁定；style 0；math 缺失 0；academic --strict 0；check_summary H1 0"
     }
   ],
   "blockers": [],
