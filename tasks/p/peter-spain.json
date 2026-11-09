@@ -2,7 +2,7 @@
   "slug": "peter-spain",
   "kind": "retranslate",
   "zh_doc": "p/peter-spain.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "P-main-20261109",
       "at": "2026-11-09T13:07:47Z",
       "evidence": "check_style --strict 0; markdownlint-cli2 0; check_math 0; check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T13:39:38Z",
+      "evidence": "冷置后自审(冷置期间完成P队列刷新): 49段逐节对照无漏译增译; 结构核销(5篇论说+指代四层划分+助范畴词各章+学说要素各节)与源一致; 页码与年代核销(De Rijk 1968 23-34/1972 LXXff./LXXXIV-LXXXVIII, Pagus 1225-1235, Nicholas 1240-1250, Braakhuis I p.248, de Libera 176-177, de Rijk 1982 167-168/1971/1985 183-203, Kneale 268-269, Spruyt 161-193, Ebbessen 68-69)全等; 拉丁例证逐条核对(omnis phenix est/aliud ab animali ergo aliud ab homine/homo necessario est animal ergo Sortes/homo est species/ens simpliciter quodammodo/res affirmata); r1 补 3 处人名首现拉丁括注(John XXI/Dominican Order/Donatus); Critical 0 Major 0 Minor 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T13:44:21Z",
+      "evidence": "逐句回核: 指代四层划分链(共同/离散→自然/偶性→简单/人称→确定/混淆)逐层与源对应无误; significatio/suppositio/copulatio 三词项定义与依赖关系复核; 组合-否定对偶(组合=res affirmata, 否定移除肯定而非事态)逻辑无误; 模态必然性(逻辑必然性基于本体论必然性; homo necessario→Sortes 推理无效之理由)核对; 连续词 if 与两类不可能性(绝对不可能性=无 vs 有实在基础而不相容)推理结论核对; 无立场增删"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T13:46:02Z",
+      "evidence": "终稿验收: 四检全绿(style --strict 0/prose 0/math 0/academic --strict 0)+markdownlint-cli2 0+check_summary 0 硬错误; lq check HARD=0 复跑; 复核独立性: 单会话冷置条款(期间完成P队列刷新与 r1 修正); Verity 抽查通过"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T13:46:03Z",
+      "evidence": "收口 done: P 批第 6 条走完全流程; commit 落盘 s3 + 本轮收口"
     }
   ],
   "blockers": [],
