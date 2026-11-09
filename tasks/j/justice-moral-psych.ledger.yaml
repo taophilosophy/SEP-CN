@@ -1207,50 +1207,66 @@ segments:
     kind: body
     source: |-
       JS_{Victim}: Sensitivity to becoming a victim of injustice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      JS_{Victim}（受害者）：对成为不公受害者的敏感性。
+    step2: |-
+      JS_{Victim}（受害者）：对成为不公受害者的敏感性。
   - id: 135
     kind: body
     source: |-
       JS_{Observer}: Sensitivity to witnessing injustice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      JS_{Observer}（旁观者）：对目睹不公的敏感性。
+    step2: |-
+      JS_{Observer}（旁观者）：对目睹不公的敏感性。
   - id: 136
     kind: body
     source: |-
       JS_{Beneficiary}: Sensitivity to passively benefiting from injustice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      JS_{Beneficiary}（受益者）：对被动从不公中获益的敏感性。
+    step2: |-
+      JS_{Beneficiary}（受益者）：对被动从不公中获益的敏感性。
   - id: 137
     kind: body
     source: |-
       JS_{Perpetrator}: Sensitivity to actively committing injustice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      JS_{Perpetrator}（施害者）：对主动施行不公的敏感性。
+    step2: |-
+      JS_{Perpetrator}（施害者）：对主动施行不公的敏感性。
   - id: 138
     kind: body
     source: |-
       (Stavrova and Schlösser 2015: 3)[^stavrova-2015]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （Stavrova and Schlösser 2015: 3）[^stavrova-2015]
+    step2: |-
+      （Stavrova and Schlösser 2015: 3）[^stavrova-2015]
   - id: 139
     kind: body
     source: |-
       Three of these—observer, beneficiary, and perpetrator sensitivity—are other-focused aspects of justice sensitivity, whereas victim sensitivity is self-focused on one’s being treated fairly (Stavrova and Schlösser 2015: 3; Schlösser et al. 2018: 76–77)[^schlösser-2018][^stavrova-2015]. This makes a difference statistically. For instance, victim sensitivity tends to correlate with anti-social personality traits—such as Machiavellianism—in a way that the first three do not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中三个——旁观者、受益者与施害者敏感性——是正义敏感性中以他人为焦点的方面，而受害者敏感性则以自我为焦点，关注自己是否受到公平对待（Stavrova and Schlösser 2015: 3; Schlösser et al. 2018: 76–77）[^schlösser-2018][^stavrova-2015]。这在统计上有差别。例如，受害者敏感性往往与反社会人格特质——如马基雅维利主义——相关，而前三个则不然。
+    step2: |-
+      其中三个——旁观者、受益者、施害者敏感性——是正义敏感性中指向他人的方面；受害者敏感性则指向自己，关注自己是否受到公平对待（Stavrova and Schlösser 2015: 3; Schlösser et al. 2018: 76–77）[^schlösser-2018][^stavrova-2015]。这在统计上会造成差别。例如，受害者敏感性往往与反社会人格特质——比如马基雅维利主义——相关，而前三者则不然。
   - id: 140
     kind: body
     source: |-
       But all four of these facets are indeed statistically related to each other, and at the same time are distinguishable pieces of a stable trait of justice sensitivity. While they do correlate with other personality traits such as the Big Five, the correlations are typically on the low side, which can be taken as evidence that justice sensitivity itself is a distinct trait (for a review, see Schmitt et al. 2010)[^schmitt-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但这四个层面在统计上确实彼此相关，同时又是一个稳定的正义敏感性特质中可以区分的部分。它们虽然与其他人格特质（如大五）相关，但相关通常偏低，这可以看作正义敏感性本身是一个独立特质的证据（综述见 Schmitt et al. 2010）[^schmitt-2010]。
+    step2: |-
+      不过这四个层面在统计上确实彼此相关，同时又是一个稳定的正义敏感性特质中彼此可分的部分。它们虽与其他人格特质（比如大五）相关，但相关通常偏低——这可以当作正义敏感性本身是一种独立特质的证据（综述见 Schmitt et al. 2010）[^schmitt-2010]。
   - id: 141
     kind: body
     source: |-
       A well validated measure of justice sensitivity has been developed by Manfred Schmitt and his colleagues, with 10 items for each of the four facets (Schmitt et al. 2010)[^schmitt-2010]. For instance, here are the items for beneficiary sensitivity:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Manfred Schmitt 及其同事发展出一套经过良好验证的正义敏感性测量工具，四个层面各 10 道题（Schmitt et al. 2010）[^schmitt-2010]。例如，以下是受益者敏感性的题目：
+    step2: |-
+      Manfred Schmitt 及其同事开发了一套经过充分验证的正义敏感性量表，四个层面各有 10 道题（Schmitt et al. 2010）[^schmitt-2010]。例如，受益者敏感性涉及的是这些题目：
   - id: 142
     kind: body
     source: |-
@@ -1265,20 +1281,46 @@ segments:
       - It bothers me when someone tolerates things with me that other people are being criticized for.
       - I feel guilty when I receive better treatment than others.
       - (Schmitt et al. 2010: 234)[^schmitt-2010]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 当我得到别人本应得到的东西时，我会感到不安。
+      - 当我得到别人挣来的奖赏时，我会良心不安。
+      - 我难以坦然接受单方面从他人处获利。
+      - 别人不得不收拾我的粗心时，我要很久才能忘记。
+      - 当我比别人有更多发展技能的机会时，我会感到不安。
+      - 当我无缘无故境况好于他人时，我会感到内疚。
+      - 对我来说轻而易举的事，别人却要辛苦努力，这让我不舒服。
+      - 我会久久纠结于自己无缘无故受到比别人更好的对待。
+      - 别人正因某事受批评，而有人却容忍我那样做，这让我不安。
+      - 当我受到比别人更好的待遇时，我会感到内疚。
+      - （Schmitt et al. 2010: 234）[^schmitt-2010]
+    step2: |-
+      - 当我得到别人本应得到的东西时，我会感到不安。
+      - 当我得到别人挣来的奖赏时，我会良心不安。
+      - 我难以坦然接受单方面从他人处获利。
+      - 别人不得不收拾我的粗心时，我要很久才能忘记。
+      - 当我比别人有更多发展技能的机会时，我会感到不安。
+      - 当我无缘无故境况好于他人时，我会感到内疚。
+      - 对我来说轻而易举的事，别人却要辛苦努力，这让我不舒服。
+      - 我会久久纠结于自己无缘无故受到比别人更好的对待。
+      - 别人正因某事受批评，而有人却容忍我那样做，这让我不安。
+      - 当我受到比别人更好的待遇时，我会感到内疚。
+      - （Schmitt et al. 2010: 234）[^schmitt-2010]
   - id: 143
     kind: body
     source: |-
       Participants complete these items using a scale which ranges from 0 (not at all) to 5 (exactly).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      参与者用 0（完全不符）到 5（完全符合）的量表完成这些题目。
+    step2: |-
+      参与者按 0（完全不符合）到 5（完全符合）的量表作答。
   - id: 144
     kind: body
     source: |-
       Using this measure of justice sensitivity, some interesting work is being done. For instance, Gollwitzer and his colleagues (2005) examined the willingness of West Germans to contribute to East Germany to help improve living conditions, as there is a large disparity even years after the wall came down. Some particular proposals included an automatic deduction from the salaries of West Germans that would be used for job creation in East Germany, and the implementation of affirmative action hiring policies which would favor East over West Germans for new positions. It turned out that beneficiary sensitivity, for instance, was found to predict solidarity with East Germans, whereas victim sensitivity did not (Gollwitzer et al. 2005: 191)[^gollwitzer-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      利用这套正义敏感性测量，人们正在做一些有趣的工作。例如，Gollwitzer 及其同事（2005）考察了西德人援助东德改善生活条件的意愿，因为即便在柏林墙倒塌多年之后，两地仍存在巨大差距。一些具体提案包括：从西德人的薪水中自动扣款，用于在东德创造就业；以及实施赞助性招聘政策，在新增职位上优先录用东德人而非西德人。结果表明，例如受益者敏感性能够预测对东德人的团结意愿，而受害者敏感性则不能（Gollwitzer et al. 2005: 191）[^gollwitzer-2005]。
+    step2: |-
+      有了这套正义敏感性测量，一些有趣的研究正在展开。例如，Gollwitzer 及其同事（2005）考察了西德人援助东德、帮助改善生活条件的意愿——毕竟柏林墙倒塌多年之后，两地差距仍然巨大。具体提案包括：从西德人的工资中自动扣款，用来在东德创造就业；以及实行平权行动式的招聘政策，新增职位优先录用东德人。结果显示，比如受益者敏感性可以预测对东德人的团结意愿，受害者敏感性却不能（Gollwitzer et al. 2005: 191）[^gollwitzer-2005]。
   - id: 145
     kind: body
     source: |-
