@@ -231,7 +231,7 @@ outline: [1, 6]
 * [文艺复兴时期的自然哲学 in the Renaissance (Eva Del Soldato)](n/natphil-ren.md)
 * [尼古拉·哥白尼 Copernicus, Nicolaus (Sheila Rabin)](c/copernicus.md)
 * [乔尔丹诺·布鲁诺 Bruno, Giordano (Dilwyn Knox)](b/bruno.md)
-* [贝尔纳迪诺·特勒肖 Telesio, Bernardino (Michaela Boenke)](t/telesio.md)
+* [贝尔纳迪诺·特莱西奥 Telesio, Bernardino (Michaela Boenke)](t/telesio.md)
 * [吉罗拉莫·卡尔达诺 Girolamo [Geronimo] Cardano (Guido Giglioni and Jonathan Regier)](c/cardano.md)
 * [约翰内斯·开普勒 Kepler, Johannes (Daniel A. Di Liscia)](k/kepler.md)
 * [马丁·路德 Luther, Martin (Robert Stern and Volker Leppin)](l/luther.md)

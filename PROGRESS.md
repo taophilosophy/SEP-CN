@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 14:41（UTC）
+生成时间：2026-11-09 15:04（UTC）
 
 ## 总览
 
@@ -14,7 +14,7 @@
 |已建英文基线|1879|
 |已建任务|1171|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|255|
+|已完成（done）|256|
 |在途（drafted 起、done 前）|234|
 |阻塞|0|
 
@@ -22,13 +22,13 @@
 
 |状态|数量|
 |---|---|
-|pending|682|
-|cleared|153|
+|pending|681|
+|cleared|154|
 |drafted|5|
-|s3_checked|71|
+|s3_checked|69|
 |r1_reviewed|4|
-|r2_reviewed|1|
-|done|255|
+|r2_reviewed|2|
+|done|256|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -52,7 +52,7 @@
 |P|165|165|11|6|
 |Q|34|34|34|1|
 |R|85|85|85|9|
-|S|161|161|18|14|
+|S|161|161|18|15|
 |T|71|71|7|2|
 |U|4|4|0|0|
 |V|15|15|0|0|
@@ -276,6 +276,7 @@
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
+|montessori-maria|retranslate|cleared|task_ops 2026-11-09|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
@@ -286,12 +287,11 @@
 |quine-nf|retranslate|cleared|task_ops 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|
-|sikh-philosophy|retranslate|s3_checked|S-main-20261109b 2026-11-09|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
-|telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
+|telesio|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
-|william-jevons|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
+|william-jevons|retranslate|r2_reviewed|REV-main-20261109 2026-11-09|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
 |zabarella|retranslate|s3_checked|Z2-main-20261109 2026-11-08|
 |zeno-elea|retranslate|cleared|task_ops 2026-11-08|

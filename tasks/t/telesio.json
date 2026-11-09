@@ -2,7 +2,7 @@
   "slug": "telesio",
   "kind": "retranslate",
   "zh_doc": "t/telesio.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "TZ-main-20261107",
       "at": "2026-11-07T20:30:02Z",
       "evidence": "体例校：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_terms 硬错误 0（hegemonikon 同键异译依先登优先并入既有行；Thoreau 词汇表异形对齐登记册）、check_all 七项全绿；术语 16 行/人名 13 行入册。单会话作业冷置后走复审波 r1-r3"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T15:01:40Z",
+      "evidence": "r1 回源逐节核销（导语+7 节全对照，无 Critical/Major/漏译）：实修 3 类——词条名归一（人名表正形「特莱西奥」，H1/SUMMARY/mu-lu-s/ci-hui-biao 四处同步，特勒肖为 TZ 批遗留归一项）；三处拉丁书名由方括号改斜体（De iis…/De colorum…/De mari）；其他网络资源列表 dash→asterisk（MD004×2）。探针 NUM ∅；ENRES 1 为 References 拉丁书名照录；BLOCK +1 为 zh 引块分段。四检：style 0/academic 0 硬/math 0/prose 6 全在引文块内（DRN 卷五两引与感官知觉引语），逐条豁免"
     }
   ],
   "blockers": [],

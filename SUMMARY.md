@@ -2584,7 +2584,7 @@
   * [上帝存在的目的论论证 teleological arguments for God’s existence (Del Ratzsch and Jeffrey Koperski)](t/teleological-arguments.md)
   * [生物学中的目的论观念 teleological notions in biology (Colin Allen and Jacob Neal)](t/teleology-biology.md)
   * [\*心理内容的目的论——见心理内容：心理内容的目的论 teleological theories of mental content — see mental content: teleological theories of](c/content-teleological.md)
-* [贝尔纳迪诺·特勒肖 Telesio, Bernardino (Michaela Boenke)](t/telesio.md)
+* [贝尔纳迪诺·特莱西奥 Telesio, Bernardino (Michaela Boenke)](t/telesio.md)
 * [\*时间意识——见意识：时间意识 temporal consciousness — see consciousness: temporal](c/consciousness-temporal.md)
 * [时间部分 temporal parts (Katherine Hawley)](t/temporal-parts.md)
 * [时态与体态 tense and aspect (Friedrich Hamm and Oliver Bott)](t/tense-aspect.md)

@@ -2,7 +2,7 @@
   "slug": "william-jevons",
   "kind": "retranslate",
   "zh_doc": "w/william-jevons.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "REV-main-20261109",
       "at": "2026-11-09T14:39:32Z",
       "evidence": "r1 回源逐节核销（导语+7 节全对照）：正文零 Critical/Major/漏译——探针 NUM 19/20 为 19th/20th century→十九/二十世纪体例、1860 为 early 1860s→六十年代初；ENRES 4 为 References 书名照录。实修 2 处体例——H1 下空行（MD022）、推理形式列表 dash→asterisk×7（MD004）。四检：style 0/academic 0 硬/math 0/prose 0；lint 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T14:45:35Z",
+      "evidence": "r2 逐句回核（新问题）：补实修 2——§2 三律命名源文自身混用（列表 Law of Duality 对偶律/正文 law of the excluded middle 排中律）维持照录并在 evidence 留痕不擅改；§3 换质位例证公式 b = ABb ·|· ab 与对偶律推演复核无误。连接词/模态复核（least squares 两处出现、fictitious mean 与 mean 分级、Unitarianism 一神论派）无漂移；prose 0、style 0"
     }
   ],
   "blockers": [],

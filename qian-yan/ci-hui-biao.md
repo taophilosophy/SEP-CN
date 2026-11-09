@@ -1291,7 +1291,7 @@
 |Teleological|目的论||
 |Teleological Arguments|目的论论证||
 |Teleological Notions|目的论观念||
-|Telesio|特勒肖||
+|Telesio|特莱西奥||
 |temporal consciousness|时间意识||
 |Temporal Parts|时间部分||
 |Tense|时态||
