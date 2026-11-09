@@ -269,32 +269,42 @@ segments:
     kind: body
     source: |-
       > whereas the dictator game evokes a true concern for fairness, allocators in the ultimatum game only appear to behave fairly…. (2000: 19; for a review of results in dictator games, see Camerer 2003; Murnighan and Wang 2016)[^camerer-2003][^murnighan-2016]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 而独裁者博弈唤起的是对公平的真实关切，最后通牒博弈中的分配者则只是显得行为公平……（2000: 19；独裁者博弈结果的综述，见 Camerer 2003; Murnighan and Wang 2016）[^camerer-2003][^murnighan-2016]
+    step2: |-
+      > 而独裁者博弈唤起的是对公平的真切关切，最后通牒博弈里的分配者却只是“显得”公平……（2000: 19；独裁者博弈结果的综述见 Camerer 2003; Murnighan and Wang 2016）[^camerer-2003][^murnighan-2016]
   - id: 32
     kind: body
     source: |-
       Overall, according to one review of the literature, giving in dictator games amounted to roughly 15–20% of what a participant received in the first place (Camerer 2003: 57–58)[^camerer-2003]. Another 2011 meta-analysis found an average of 28.35% allocated (Engel 2011)[^engel-2011], and a recent 2022 meta-analysis found an average of 29.65% (Umer et al. 2022)[^umer-2022].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总体而言，根据一篇文献综述，独裁者博弈中的给予大约相当于参与者最初所得金额的 15–20%（Camerer 2003: 57–58）[^camerer-2003]。另一项 2011 年的元分析发现平均分配了 28.35%（Engel 2011）[^engel-2011]，而最近一项 2022 年的元分析发现平均为 29.65%（Umer et al. 2022）[^umer-2022]。
+    step2: |-
+      总体来看，据一篇文献综述，独裁者博弈中的给予约占参与者最初所得金额的 15–20%（Camerer 2003: 57–58）[^camerer-2003]。另一项 2011 年的元分析给出的平均分给比例是 28.35%（Engel 2011）[^engel-2011]，最近一项 2022 年的元分析则是 29.65%（Umer et al. 2022）[^umer-2022]。
   - id: 33
     kind: body
     source: |-
       All these are less than fair, but more than completely self-interested.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所有这些都不及公平，但又不止于完全自利。
+    step2: |-
+      这些数字都谈不上公平，却又远不止于彻底的自利。
   - id: 34
     kind: body
     source: |-
       As a quick aside, it is worth noting the implicit assumption in much of this literature that a 50/50 split is the fair distribution, whereas keeping most of the money for oneself would be considered unfair. Philosophically this might be a contested matter, and there could also be some variability in terms of which cultures tend to accept this assumption more so than others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      顺带一提，值得注意的是，这一文献的许多部分都隐含着一个假设：50/50 平分是公平的分配，而把大部分钱留给自己会被视为不公平。在哲学上，这可能是个有争议的问题；而且不同文化对这一假设的接受程度也可能存在差异。
+    step2: |-
+      顺便一提，这份文献的许多地方都隐含一个假设：50/50 平分才算公平分配，把大部分钱留给自己则算不公。这在哲学上大概是有争议的；不同文化接受这一假设的程度，也可能有高有低。
   - id: 35
     kind: body
     source: |-
       If the same trend holds that we saw in the previous section, then we know to expect that alternative egoistic stories about motivation in dictator games will have emerged as a result of more recent results challenging the fairness motivational hypothesis. Here are three examples of such results:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果上一节看到的趋势依然成立，那么我们可以预期：随着近期结果对公平动机假说的挑战，关于独裁者博弈动机的另一些利己故事也会浮现出来。以下是这类结果的三个例子：
+    step2: |-
+      若上一节的趋势在此同样成立，那么可以预期：近期挑战公平动机假说的结果，会催生出关于独裁者博弈动机的另一些利己故事。这类结果有三个例子：
   - id: 36
     kind: body
     source: |-
@@ -314,26 +324,64 @@ segments:
       > c. Jason Dana and his colleagues (2006) had dictators make their allocation decision using $10. They were told that recipients would be informed about what the dictator knew when making his choice. But before recipients actually were told anything, dictators were given another choice. They could keep $9 for themselves, $0 would go to the recipient, and crucially, the recipient would not learn anything about the dictator game at all. This exit option would thereby allow dictators to keep a large payoff while also knowing that they had not disappointed the recipient. And the dictator would not have to worry about appearing selfish by keeping most of the money (Dana et al. 2006: 196)[^dana-2006]. Eleven out of 40 dictators (28%) ended up taking this exit option, with 2 of them initially planning to keep the $10 (2006: 197). The remaining 9 participants had planned on giving some money to the recipient, and now did not have to.
       >
       > 28%, while an interesting result, is still not that large. The majority of participants both did not exit and gave some of the $10 to the recipient. However, in a second study, Dana did two things. First he replicated the results of his first study, and this time 43% exited (2006: 199). But in a new condition, dictators were told at the very beginning that recipients would be oblivious to the dictator game—they would just receive a note that said, “Thank you for your time today. An additional payment of $__ is attached to this note” (2006: 198; Dana did not explain what would happen if the amount was $0). Thus dictators knew that they could make any offer they wanted to without worrying about how it would be viewed by the receiver. So they chose their allocation, and then were given the $9 exit option. And here is the interesting result. Now only 4% of participants took the exit option, and 54% chose to give $0 and to not exit (2006: 199; see also Dana et al. 2007 for additional related studies)[^dana-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > a. Avner Ben-Ner 与 Amit Kramer（2011）让参与者了解其伙伴的一些描述性信息，伙伴由此落入四类之一：亲属、合作者、中性者或竞争者。在最初分配给他们 10 美元的情况下，参与者给伙伴的平均金额如下：亲属 4.91 美元，合作者 3.40 美元，中性者 2.49 美元，竞争者 1.99 美元。只有在亲属情形下，我们才看到平均意义上的纯粹公平分配。
+      >
+      > b. 在 John List 那项有影响力的研究（2007）的基线条件中，独裁者博弈设定中的两个人都一开始拿到 5 美元。然后独裁者又拿到 5 美元，并有机会把 0 美元到全部 5 美元之间的任意金额分配给对方。另外三个条件各有有趣的花样。在“拿取（1 美元）”条件下，设定相同，也包括分配钱的机会，但现在另有一个从对方那里拿 1 美元的选项。顾名思义，“拿取（5 美元）”条件允许从对方拿走至多 5 美元（或分配 5 美元，或不拿不分）。最后，在“挣得”条件下，一切与“拿取（5 美元）”相同，只是独裁者事先通过完成一项 30 分钟的任务挣得了这 10 美元。结果如下（List 2007: 487）[^list-2007]：
+      >
+      > |   | 给出正数金额 | 平均出价 |
+      > | --- | --- | --- |
+      > | 基线 | 71% | 1.33 美元 |
+      > | 拿取（1 美元） | 35% | 0.33 美元 |
+      > | 拿取（5 美元） | 10% | −2.48 美元 |
+      > | 挣得 | 6% | −1.00 美元 |
+      >
+      > 引人注目的是，当有机会从陌生人那里拿钱时，独裁者给陌生人的钱会更不频繁，平均分配额也更小。而且，如果他们觉得自己是挣得了这笔钱，而不只是实验者给的，那么几乎没有一个独裁者愿意把钱分出去，反而更倾向于拿取而非给予（关于另一项有影响力的“拿取”研究，见 Bardsley 2008；关于 List 2007 的重复研究以及把受赠者换为慈善机构而非匿名伙伴的扩展，见 Livingston and Rasulmukhamedov 2023）[^bardsley-2008][^list-2007][^livingston-2023]。
+      >
+      > c. Jason Dana 及其同事（2006）让独裁者用 10 美元做分配决定。他们被告知，受赠者会知道独裁者做选择时了解什么。但在受赠者真正被告知任何事情之前，独裁者又得到了另一个选择。他们可以自己留 9 美元，0 美元给受赠者，而关键是，受赠者根本不会知道独裁者博弈的任何情况。这个退出选项于是可以让独裁者保住大笔收益，同时知道自己并没有让受赠者失望，也不必担心因为留下大部分钱而显得自私（Dana et al. 2006: 196）[^dana-2006]。40 名独裁者中有 11 人（28%）最终选了这个退出选项，其中 2 人原本打算留下全部 10 美元（2006: 197）。其余 9 名参与者原本打算给受赠者一些钱，现在则不必给了。
+      >
+      > 28% 虽然是个有趣的结果，但仍然不算很大。多数参与者既没有退出，也把 10 美元中的一部分给了受赠者。不过，在第二项研究中，Dana 做了两件事。首先他重复了第一项研究的结果，这次 43% 的人退出（2006: 199）。但在一个新条件中，独裁者一开始就被告知，受赠者完全不知道独裁者博弈的存在——他们只会收到一张便条，上面写着：“感谢您今天拨冗参与。本便条附有额外报酬 美元__”（2006: 198；Dana 没有说明金额为 0 美元时会怎样）。于是独裁者知道自己可以随意出价，不必担心接收者怎么看。他们选定了分配额，然后才得到 9 美元的退出选项。有趣的结果来了：这次只有 4% 的参与者选了退出选项，54% 选择给 0 美元且不退出（2006: 199；另见 Dana et al. 2007 的相关研究）[^dana-2007]。
+    step2: |-
+      > a. Avner Ben-Ner 与 Amit Kramer（2011）让参与者先了解伙伴的一些描述性信息，伙伴因此落入四类之一：亲属、合作者、中性者、竞争者。最初分给参与者 10 美元，他们给伙伴的平均金额是：亲属 4.91 美元，合作者 3.40 美元，中性者 2.49 美元，竞争者 1.99 美元。只有亲属这一档，平均来看才算纯粹的公平分配。
+      >
+      > b. John List 那项有名研究（2007）的基线条件里，独裁者博弈的两个人都先拿 5 美元。随后独裁者又拿到 5 美元，并有机会把 0 到 5 美元之间的任意金额分给对方。另外三个条件各有一个有趣的花样。“拿取（1 美元）”条件的设定相同，同样可以分钱，只是多了一个从对方那里拿 1 美元的选项。“拿取（5 美元）”条件顾名思义，允许从对方拿走最多 5 美元（也可以分配 5 美元，或者不拿不分）。最后是“挣得”条件：一切与“拿取（5 美元）”相同，只不过独裁者事先做了 30 分钟的任务，才挣到这 10 美元。结果如下（List 2007: 487）[^list-2007]：
+      >
+      > |   | 给出正数金额 | 平均出价 |
+      > | --- | --- | --- |
+      > | 基线 | 71% | 1.33 美元 |
+      > | 拿取（1 美元） | 35% | 0.33 美元 |
+      > | 拿取（5 美元） | 10% | −2.48 美元 |
+      > | 挣得 | 6% | −1.00 美元 |
+      >
+      > 引人注目的是，一旦有机会从陌生人那里拿钱，独裁者给陌生人的钱就更少了，平均分配额也更低。而且，如果他们觉得自己是挣到了这笔钱，而不只是实验者白给的，那么几乎没人愿意把钱分出去，反而更想拿取、不想给予（另一项有影响的“拿取”研究见 Bardsley 2008；List 2007 的重复研究、以及把受赠者换成慈善机构而非匿名伙伴的扩展，见 Livingston and Rasulmukhamedov 2023）[^bardsley-2008][^list-2007][^livingston-2023]。
+      >
+      > c. Jason Dana 及其同事（2006）让独裁者用 10 美元做分配决定。他们被告知：受赠者会知道独裁者做决定时了解些什么。可在受赠者真正得知任何消息之前，独裁者又面临另一个选择：自己留 9 美元，受赠者得 0 美元，而关键是，受赠者对这场独裁者博弈一无所知。有了这个退出选项，独裁者既能保住大笔所得，又能确信自己没有让受赠者失望，还不用担心留下大部分钱会显得自私（Dana et al. 2006: 196）[^dana-2006]。40 名独裁者中有 11 人（28%）最终选了退出选项，其中 2 人原本打算独吞 10 美元（2006: 197）；余下 9 人本想给受赠者一些钱，现在不必给了。
+      >
+      > 28% 虽然有趣，毕竟不算高；多数参与者既没有退出，也把 10 美元的一部分给了受赠者。不过 Dana 在第二项研究中做了两件事。先重复了第一项研究，这次 43% 的人退出（2006: 199）。然后加了一个新条件：独裁者一开始就得知，受赠者根本不知道有独裁者博弈这回事——他们只会收到一张便条，上面写着“感谢您今天拨冗。本便条附有额外报酬（$__）”（2006: 198；Dana 没有交代金额为 0 时怎么办）。于是独裁者明白，自己可以随心出价，不必顾虑对方怎么想。他们先定下分配额，随后才被告知 9 美元的退出选项。有趣的结果来了：这次只有 4% 的人选退出，54% 选择给 0 美元且不退出（2006: 199；相关研究另见 Dana et al. 2007）[^dana-2007]。
   - id: 37
     kind: body
     source: |-
       As with ultimatum games, a diverse array of more sophisticated egoistic motivational explanations have been proposed to account for the behavior of dictators. Here are examples of a few of them:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与最后通牒博弈一样，人们提出了形形色色的更精致的利己动机说明，来解释独裁者的行为。以下是其中几个例子：
+    step2: |-
+      与最后通牒博弈的情形一样，为了解释独裁者的行为，人们提出了各式各样更精致的利己动机说明。举几个例子：
   - id: 38
     kind: body
     source: |-
       A desire to feel good by giving.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种通过给予来感觉良好的愿望。
+    step2: |-
+      想通过给予让自己感觉良好。
   - id: 39
     kind: body
     source: |-
       A desire to not appear selfish, or to appear to be fair.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种不想显得自私、或想显得公平的愿望。
+    step2: |-
+      不愿显得自私，或者想显得公平。
   - id: 40
     kind: body
     source: |-
