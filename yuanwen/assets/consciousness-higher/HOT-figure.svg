@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="525"
+   height="555"
+   viewBox="0 0 525 555"
+   sodipodi:docname="HOT-figure.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+    <color-profile
+       inkscape:label="sRGB IEC61966-2.1"
+       name="sRGB IEC61966-2.1"
+       xlink:href="data:application/vnd.iccprofile;base64,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"
+       id="color-profile2" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.86600923"
+     inkscape:cx="302.53719"
+     inkscape:cy="287.52581"
+     inkscape:window-width="1512"
+     inkscape:window-height="869"
+     inkscape:window-x="43"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="1.088538e-07"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="525"
+       height="555"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1"
+     transform="translate(-60.099245,-102.13349)">
+    <path
+       id="path50"
+       d="M 60.099958,170.42778 585.09851,169.60503"
+       style="fill:none;stroke:#000000;stroke-width:0.910572;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       clip-path="url(#clipPath51)" />
+    <text
+       id="text70"
+       xml:space="preserve"
+       clip-path="url(#clipPath71)"
+       x="416.12051"
+       y="157.75099"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.32"><tspan
+         id="tspan70"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.32"
+         x="416.12051"
+         y="157.75099">Introspection</tspan></text>
+    <path
+       id="path73"
+       d="m 147.59495,102.13349 -1.5e-4,555"
+       style="fill:none;stroke:#000000;stroke-width:0.999963;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       clip-path="url(#clipPath74)" />
+    <path
+       id="path75"
+       d="m 366.45743,102.13349 1.3e-4,555"
+       style="fill:none;stroke:#000000;stroke-width:0.999978;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       clip-path="url(#clipPath76)" />
+    <text
+       id="text78"
+       xml:space="preserve"
+       clip-path="url(#clipPath79)"
+       x="73.480392"
+       y="218.91432"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.32"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="73.480392"
+         y="218.91432">Third</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="73.480392"
+         y="242.2477">Order</tspan></text>
+    <text
+       id="text118"
+       xml:space="preserve"
+       clip-path="url(#clipPath119)"
+       x="164.765"
+       y="585.11298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.32"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         x="164.765"
+         y="585.11298">One’s conscious attention </tspan><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="164.765"
+         y="608.44635">is directed at the </tspan><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         x="164.765"
+         y="631.77972">outer world.</tspan></text>
+    <text
+       id="text6"
+       xml:space="preserve"
+       clip-path="url(#clipPath79)"
+       x="74.475456"
+       y="338.59308"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.32"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         x="74.475456"
+         y="338.59308">Second</tspan><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="74.475456"
+         y="361.92645">Order</tspan></text>
+    <text
+       id="text8"
+       xml:space="preserve"
+       clip-path="url(#clipPath79)"
+       x="74.475456"
+       y="474.80688"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.32"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="74.475456"
+         y="474.80688">First</tspan><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="74.475456"
+         y="498.14026">Order</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+       x="256.93634"
+       y="135.96538"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="256.93634"
+         y="135.96538">World-Directed</tspan><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="256.93634"
+         y="159.29875">Conscious Mental State</tspan></text>
+    <text
+       id="text30"
+       xml:space="preserve"
+       clip-path="url(#clipPath119)"
+       x="384.16861"
+       y="585.11298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre-wrap;shape-inside:url(#rect15);display:inline;stroke-width:0.32"><tspan
+         x="373.85352"
+         y="586.4752"
+         id="tspan19">One’s conscious attention <tspan
+   dx="4.6666718"
+   id="tspan10" /></tspan><tspan
+         x="373.85352"
+         y="609.80858"
+         id="tspan28">is directed at one's <tspan
+   dx="4.6666718"
+   id="tspan20" /></tspan><tspan
+         x="373.85352"
+         y="633.14195"
+         id="tspan29">own mental state</tspan></text>
+    <g
+       id="g40"
+       transform="translate(-6.9653702,-13.173086)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre-wrap;shape-inside:url(#path33);display:inline"
+         x="253.95119"
+         y="353.88242"
+         id="text13"><tspan
+           x="213.19783"
+           y="357.40098"
+           id="tspan30">Unconscious </tspan><tspan
+           x="242.23239"
+           y="380.73436"
+           id="tspan31">HOT</tspan></text>
+      <path
+         style="fill:none;stroke:none;stroke-miterlimit:0"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-14.925825"
+         inkscape:original="M 196.12305 332.87109 L 196.12305 394.79492 L 326.70508 394.79492 L 326.70508 332.87109 L 196.12305 332.87109 z "
+         xlink:href="#rect32"
+         id="path32"
+         inkscape:href="#rect32"
+         d="m 211.04883,347.79687 v 32.07227 H 311.7793 v -32.07227 z" />
+      <path
+         style="fill:none;stroke:none;stroke-width:2.8;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-7.960443"
+         inkscape:original="M 196.12305 332.87109 L 196.12305 394.79492 L 326.70508 394.79492 L 326.70508 332.87109 L 196.12305 332.87109 z "
+         xlink:href="#rect32"
+         id="path33"
+         inkscape:href="#rect32"
+         d="m 204.08398,340.83203 v 46.00195 h 114.66016 v -46.00195 z" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.56998;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="rect32"
+         width="130.58224"
+         height="61.923439"
+         x="196.12296"
+         y="332.87131" />
+    </g>
+    <g
+       id="g39"
+       transform="translate(0,-27.212629)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="252.95612"
+         y="497.17038"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           x="252.95612"
+           y="497.17038">World-Directed</tspan><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           x="252.95612"
+           y="520.50378">Conscious Mental</tspan><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           x="252.95612"
+           y="543.83716">State</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.39743;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="rect38"
+         width="148.66579"
+         height="83.987206"
+         x="180.11581"
+         y="473.08777" />
+    </g>
+    <g
+       id="g35"
+       transform="translate(206.99567,-139.43628)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre-wrap;shape-inside:url(#path35);display:inline"
+         x="253.95119"
+         y="353.88242"
+         id="text33"><tspan
+           x="213.19783"
+           y="357.40098"
+           id="tspan32">Unconscious </tspan><tspan
+           x="242.23239"
+           y="380.73436"
+           id="tspan33">HOT</tspan></text>
+      <path
+         style="fill:none;stroke:none;stroke-miterlimit:0"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-14.925825"
+         inkscape:original="M 196.12305 332.87109 L 196.12305 394.79492 L 326.70508 394.79492 L 326.70508 332.87109 L 196.12305 332.87109 z "
+         xlink:href="#rect32"
+         id="path34"
+         inkscape:href="#rect32"
+         d="m 211.04883,347.79687 v 32.07227 H 311.7793 v -32.07227 z" />
+      <path
+         style="fill:none;stroke:none;stroke-width:2.8;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="-7.960443"
+         inkscape:original="M 196.12305 332.87109 L 196.12305 394.79492 L 326.70508 394.79492 L 326.70508 332.87109 L 196.12305 332.87109 z "
+         xlink:href="#rect32"
+         id="path35"
+         inkscape:href="#rect32"
+         d="m 204.08398,340.83203 v 46.00195 h 114.66016 v -46.00195 z" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.56998;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="rect35"
+         width="130.58224"
+         height="61.923439"
+         x="196.12296"
+         y="332.87131" />
+    </g>
+    <g
+       id="g37"
+       transform="translate(212.05004,-13.173086)">
+      <g
+         id="g38">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre-wrap;shape-inside:url(#path37);display:inline"
+           x="253.95119"
+           y="353.88242"
+           id="text35"><tspan
+             x="222.52207"
+             y="357.40098"
+             id="tspan34">Conscious </tspan><tspan
+             x="242.23239"
+             y="380.73436"
+             id="tspan35">HOT</tspan></text>
+        <path
+           style="fill:none;stroke:none;stroke-miterlimit:0"
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="-14.925825"
+           inkscape:original="M 196.12305 332.87109 L 196.12305 394.79492 L 326.70508 394.79492 L 326.70508 332.87109 L 196.12305 332.87109 z "
+           xlink:href="#rect32"
+           id="path36"
+           inkscape:href="#rect32"
+           d="m 211.04883,347.79687 v 32.07227 H 311.7793 v -32.07227 z" />
+        <path
+           style="fill:none;stroke:none;stroke-width:2.8;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="-7.960443"
+           inkscape:original="M 196.12305 332.87109 L 196.12305 394.79492 L 326.70508 394.79492 L 326.70508 332.87109 L 196.12305 332.87109 z "
+           xlink:href="#rect32"
+           id="path37"
+           inkscape:href="#rect32"
+           d="m 204.08398,340.83203 v 46.00195 h 114.66016 v -46.00195 z" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:2.56998;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           id="rect37"
+           width="130.58224"
+           height="61.923439"
+           x="196.12296"
+           y="332.87131" />
+      </g>
+    </g>
+    <g
+       id="g42"
+       transform="translate(213.96104,-27.212629)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+         x="252.95612"
+         y="497.17038"
+         id="text42"><tspan
+           sodipodi:role="line"
+           id="tspan40"
+           x="252.95612"
+           y="497.17038">World-Directed</tspan><tspan
+           sodipodi:role="line"
+           id="tspan41"
+           x="252.95612"
+           y="520.50378">Conscious Mental</tspan><tspan
+           sodipodi:role="line"
+           id="tspan42"
+           x="252.95612"
+           y="543.83716">State</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.39743;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="rect42"
+         width="148.66579"
+         height="83.987206"
+         x="180.11581"
+         y="473.08777" />
+    </g>
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#DartArrow);stop-color:#000000;stop-opacity:1"
+       d="m 467.55877,255.30894 v 48.28968"
+       id="path42"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#DartArrow);stop-color:#000000;stop-opacity:1"
+       d="m 469.26072,382.10418 v 48.28968"
+       id="path43"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#DartArrow);stop-color:#000000;stop-opacity:1"
+       d="m 254.44871,382.95515 v 48.28968"
+       id="path44"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="rect15"
+       style="fill:none;stroke:none;stroke-width:1.00446;stroke-miterlimit:0"
+       d="m 373.85331,569.90669 h 210.74371 v 92.37357 H 373.85331 Z" />
+  </g>
+</svg>
