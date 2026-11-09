@@ -201,7 +201,7 @@
 2. **术语裁定**：FDE 不臆造汉译，正文保留 “FDE（First Degree Entailment）”；relevant entailment 与 relevant implication 分列，前者作“相干衍推”；sorites paradox 主形按登记册/词汇表定为“堆垛悖论”（“连锁悖论”为亦作），修掉登记册新行与词汇表冲突 1 处；sequent calculus 照登记册主形“矢列演算”（非“相继式演算”）。
 3. **误报留痕**：`check_math` 的 unbalanced 12 项均为表格内数字开头公式（如 `$1,2, \rightarrow$ E`、`$10^{100}$`）触发货币启发式；`.vitepress/math-plugin.mjs` 的 `protectMath` 分支 A 实测正常保护，渲染无碍（`script/tmp/test-math-protect.mjs` 验证）。
 4. **并行收编**：logic-relevance 成稿与账本被并行会话 `7630b143`（“暂存”）宽范围 `git add` 收编；内容核对为本会话最终版，按并行纪律不改写他人提交，仅在此留痕。
-5. **四检口径**：locic-relevance / logic-fuzzy 均 style 0、prose 0、math 缺失 0、academic --strict 0、check_terms 硬错误 0；langer prose 4、la-forge prose 10 全在引文块与朗格原话枚举内，ADR-0020 豁免留痕。
+5. **四检口径**：logic-relevance / logic-fuzzy 均 style 0、prose 0、math 缺失 0、academic --strict 0、check_terms 硬错误 0；langer prose 4、la-forge prose 10 全在引文块与朗格原话枚举内，ADR-0020 豁免留痕。
 6. **登记**：logic-relevance 术语 46 + 人名 37；logic-fuzzy 术语 44 + 人名 46（含并行合并 3 术语、2 人名）。
 
 **断点**：L 批 done 23/144（本轮 +5），在途 0，未建任务 121；下一目标按源词数升序 `logical-consequence`（8,856 词）。PROGRESS.md 未重生成（工作区含他会话未提交任务，`progress.py` 会误收他人在途态）。

@@ -87,9 +87,9 @@
   },
   "l": {
    "phase": "translate",
-   "claimed_by": "L-main-20261109b",
+   "claimed_by": "L-main-20261109c",
    "claimed_at": "2026-11-08T02:45:53Z",
-   "note": "2026-11-08 复账同步（LMN-main-20261108b）：五方复算账实零偏差；done 18/144，pending 1（langer），未建 125；本线续译未建词条，r1-r3 归 R-main-20261108 评审线；2026-11-09 接管复账（L-main-20261109，主会话直译不用子代理）：五方复算 144=done 18/在途 1（langer，状态滞后件已收编并推进至 r1）/pending 0/未建 125（剩余源文 2,013,089 词）；langer 纠正详 qa-findings §8（s1 脚注 216=216 逐键、s2 prose 72→4、s3 术语 9+人名 25 登记）；登记行被 ef67405e/5dbc8cc2 并行收编留痕；本线续译未建词条按源文词数升序（首条 la-forge 7,851 词），r2-r3 仍归评审线口径不变；2026-11-09 本会话复账（L-main-20261109b，主会话直译不用子代理）：144=成稿 19（done 18+langer r1_reviewed）/pending 0/未建 124；la-forge 已由 pending 转 s3_checked（账本 82 段、四检绿、术语 14+人名 8 登记，r1-r3 归评审线），未建 125→124，剩余源文约 200.5 万词；PROGRESS.md 未重生成：工作区含他会话未提交 tasks/q(34)、tasks/r(85) 等 untracked 任务，重生成会误收他人在途态，L 行变更（已建任务 19→20）留待其提交后统一生成；续译收口（2026-11-09）：la-forge、logic-hybrid 均至 s3_checked（账本 82+81 段、术语 14+20 登记；成稿 21/在途 3/未建 123），下一目标 logic-relevance（8,512 词）",
+   "note": "2026-11-08 复账同步（LMN-main-20261108b）：五方复算账实零偏差；done 18/144，pending 1（langer），未建 125；本线续译未建词条，r1-r3 归 R-main-20261108 评审线；2026-11-09 接管复账（L-main-20261109，主会话直译不用子代理）：五方复算 144=done 18/在途 1（langer，状态滞后件已收编并推进至 r1）/pending 0/未建 125（剩余源文 2,013,089 词）；langer 纠正详 qa-findings §8（s1 脚注 216=216 逐键、s2 prose 72→4、s3 术语 9+人名 25 登记）；登记行被 ef67405e/5dbc8cc2 并行收编留痕；本线续译未建词条按源文词数升序（首条 la-forge 7,851 词），r2-r3 仍归评审线口径不变；2026-11-09 本会话复账（L-main-20261109b，主会话直译不用子代理）：144=成稿 19（done 18+langer r1_reviewed）/pending 0/未建 124；la-forge 已由 pending 转 s3_checked（账本 82 段、四检绿、术语 14+人名 8 登记，r1-r3 归评审线），未建 125→124，剩余源文约 200.5 万词；PROGRESS.md 未重生成：工作区含他会话未提交 tasks/q(34)、tasks/r(85) 等 untracked 任务，重生成会误收他人在途态，L 行变更（已建任务 19→20）留待其提交后统一生成；续译收口（2026-11-09）：la-forge、logic-hybrid 均至 s3_checked（账本 82+81 段、术语 14+20 登记；成稿 21/在途 3/未建 123），下一目标 logic-relevance（8,512 词）；2026-11-09 接管（L-main-20261109c，用户裁定全包到 done）：续译 logic-relevance TBD 76 段并将其余 22 段改写白话、新译 logic-fuzzy 全条，两条冷置后 r1–r3→done；存量 langer r2–r3、la-forge/logic-hybrid r1–r3 一并收口；L 批 done 23/144、在途 0、未建任务 121，下一目标 logical-consequence（8,856 词）；术语/人名登记、术语裁定与并行收编留痕详 qa-findings §11",
    "advanced_at": "2026-11-06T23:54:21Z"
   },
   "m": {
