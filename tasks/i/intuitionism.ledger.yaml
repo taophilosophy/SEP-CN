@@ -768,168 +768,240 @@ segments:
     kind: body
     source: |-
       The most famous consequence of the bar theorem is the fan theorem, which suffices to prove the aforementioned theorem on uniform continuity, and which will be treated first. Both the fan and the bar theorem allow the intuitionist to use induction along certain well-founded sets of objects called spreads. A *spread* is the intuitionistic analogue of a set, and captures the idea of infinite objects as ever growing and never finished. A spread is essentially a countably branching tree labelled with natural numbers or other finite objects and containing only infinite paths.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      棒定理最著名的推论是扇定理，它足以证明上述关于一致连续的定理，将首先讨论。扇定理与棒定理都使直觉主义者能够沿某些称为展形的良基对象集合作归纳。*展形*是集合的直觉主义类似物，捕捉了无限对象不断生长、永不完结的想法。展形本质上是一棵可数分叉的树，以自然数或其他有限对象标记，且只包含无限路径。
+    step2: |-
+      棒定理最著称的推论是扇定理——它足以证明上举一致连续性定理，下文先论之。扇定理与棒定理都使直觉主义者得以沿某些良基对象集（所谓展形）作归纳。*展形*是集合的直觉主义对应物，体现「无限对象不断生长、永不完结」之想法：本质上是一棵可数分叉的树，以自然数或其他有限对象为标记，且只含无限路径。
   - id: 82
     kind: body
     source: |-
       A *fan* is a finitely branching spread, and the fan principle expresses a form of compactness that is classically equivalent to König’s lemma, the classical proof of which is unacceptable from the intuitionistic point of view. The principle states that for every fan $T$ in which every branch at some point satisfies a property $A$, there is a uniform bound on the depth at which this property is met. Such a property is called a *bar* for $T$.
 
       $$\tag{\({\bf FAN}\)} \forall \alpha \in T\exists n A(\alpha(\overline{n})) \rightarrow \exists m \forall \alpha \in T \exists n \leq m A(\alpha(\overline{n})). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *扇*是有限分叉的展形，扇原则表达一种紧性，它在经典上等价于柯尼希引理，而后者的经典证明从直觉主义观点看不可接受。该原则说：对每个扇 $T$，若其中每条分支在某处满足性质 $A$，则存在一个一致界，限定该性质被满足的深度。这样的性质称为 $T$ 的*棒*。
+
+      $$\tag{\({\bf FAN}\)} \forall \alpha \in T\exists n A(\alpha(\overline{n})) \rightarrow \exists m \forall \alpha \in T \exists n \leq m A(\alpha(\overline{n})). $$
+    step2: |-
+      *扇*即有限分叉的展形。扇原则表达一种紧性，经典上等价于柯尼希引理——而后者的经典证明在直觉主义看来不可接受。该原则谓：对任一扇 $T$，若其每条分支在某处满足某性质 $A$，则诸分支满足该性质的深度有一致上界。此性质即 $T$ 的*棒*。
+
+      $$\tag{\({\bf FAN}\)} \forall \alpha \in T\exists n A(\alpha(\overline{n})) \rightarrow \exists m \forall \alpha \in T \exists n \leq m A(\alpha(\overline{n})). $$
   - id: 83
     kind: body
     source: |-
       Here $\alpha \in T$ means that $\alpha$ is a branch of $T$. The principle **FAN** suffices to prove the theorem mentioned above:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里 $\alpha \in T$ 意为 $\alpha$ 是 $T$ 的一条分支。原则 **FAN** 足以证明上述定理：
+    step2: |-
+      其中 $\alpha \in T$ 谓 $\alpha$ 为 $T$ 的一条分支。原则 **FAN** 足以证明上举定理：
   - id: 84
     kind: body
     source: |-
       > **Theorem** (**FAN**) Every continuous real function on a closed interval is uniformly continuous.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **定理**（**FAN**）闭区间上的每个连续实函数都一致连续。
+    step2: |-
+      > **定理**（**FAN**）闭区间上一切连续实函数皆一致连续。
   - id: 85
     kind: body
     source: |-
       Brouwer’s justification for the fan theorem is his bar principle for the universal spread:
 
       $$\tag{\({\bf BI}\)} \begin{align} & [\forall\alpha\forall n \big( A(\alpha(\overline{n})) \vee \neg A(\alpha(\overline{n})) \big) \wedge \forall\alpha\exists n A(\alpha(\overline{n}))\ \wedge\\ &\quad \forall\alpha\forall n \big( A(\alpha(\overline{n})) \rightarrow B(\alpha(\overline{n})) \big)\ \wedge \\ &\quad \forall\alpha\forall n \big( \forall mB(\alpha(\overline{n})\cdot m) \rightarrow B(\alpha(\overline{n})) \big)] \rightarrow B(\varepsilon). \end{align} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布劳威尔对扇定理的辩护，是他关于全展形的棒原则：
+
+      $$\tag{\({\bf BI}\)} \begin{align} & [\forall\alpha\forall n \big( A(\alpha(\overline{n})) \vee \neg A(\alpha(\overline{n})) \big) \wedge \forall\alpha\exists n A(\alpha(\overline{n}))\ \wedge\\ &\quad \forall\alpha\forall n \big( A(\alpha(\overline{n})) \rightarrow B(\alpha(\overline{n})) \big)\ \wedge \\ &\quad \forall\alpha\forall n \big( \forall mB(\alpha(\overline{n})\cdot m) \rightarrow B(\alpha(\overline{n})) \big)] \rightarrow B(\varepsilon). \end{align} $$
+    step2: |-
+      布劳威尔为扇定理所作的辩护，是他关于全展形的棒原则：
+
+      $$\tag{\({\bf BI}\)} \begin{align} & [\forall\alpha\forall n \big( A(\alpha(\overline{n})) \vee \neg A(\alpha(\overline{n})) \big) \wedge \forall\alpha\exists n A(\alpha(\overline{n}))\ \wedge\\ &\quad \forall\alpha\forall n \big( A(\alpha(\overline{n})) \rightarrow B(\alpha(\overline{n})) \big)\ \wedge \\ &\quad \forall\alpha\forall n \big( \forall mB(\alpha(\overline{n})\cdot m) \rightarrow B(\alpha(\overline{n})) \big)] \rightarrow B(\varepsilon). \end{align} $$
   - id: 86
     kind: body
     source: |-
       Here $\varepsilon$ stands for the empty sequence, $\cdot$ for concatenation, **BI** for Bar Induction, and the subscript **D** refers to the decidability of the predicate $A$. The bar principle provides intuitionism with an induction principle for trees; it expresses a well-foundedness principle for spreads with respect to decidable properties. Extensions of this principle in which the decidability requirement is weakened can be extracted from Brouwer’s work but will be omitted here. Continuity and the bar principle are sometimes captured in one axiom called the *bar continuity axiom*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里 $\varepsilon$ 表示空序列，$\cdot$ 表示连接，**BI** 表示棒归纳（Bar Induction），下标 **D** 指谓词 $A$ 的可判定性。棒原则为直觉主义提供了树的归纳原则；它表达展形相对于可判定性质的良基性原则。削弱可判定性要求的各种扩展可以从布劳威尔的工作中提取，但此处从略。连续性与棒原则有时被统摄为一条公理，称为*棒连续性公理*。
+    step2: |-
+      其中 $\varepsilon$ 表空序列，$\cdot$ 表连接，**BI** 表棒归纳（Bar Induction），下标 **D** 指谓词 $A$ 之可判定性。棒原则为直觉主义提供树的归纳原则，表达展形相对于可判定性质的良基性。若削弱可判定性要求，可得各种扩展；这些扩展可从布劳威尔著作中析出，此处从略。连续性与棒原则有时合为一条公理，称*棒连续性公理*。
   - id: 87
     kind: body
     source: |-
       There is a close connection between the bar principle and the neighborhood functions mentioned in the section on continuity axioms. Let $\mathcal{IK}$ be the inductively defined class of neighborhood functions, consisting of all constant non-zero sequences $\lambda m.n+1$, and such that if $f(0)=0$ and $\lambda m.f(x\cdot m)\in \mathcal{IK}$ for all $x$, then $f \in \mathcal{IK}$. The statement $\mathcal{K}=\mathcal{IK}$, that is, the statement that the neighborhood functions can be generated inductively, is equivalent to **BI_{D}**.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      棒原则与连续性公理一节提到的邻域函数之间有密切联系。设 $\mathcal{IK}$ 为归纳定义的邻域函数类，它由所有非零常序列 $\lambda m.n+1$ 组成，并且：若 $f(0)=0$ 且对所有 $x$ 有 $\lambda m.f(x\cdot m)\in \mathcal{IK}$，则 $f \in \mathcal{IK}$。陈述 $\mathcal{K}=\mathcal{IK}$，即邻域函数可以归纳生成这一陈述，等价于 **BI_{D}**。
+    step2: |-
+      棒原则与连续性公理一节所述邻域函数关系密切。令 $\mathcal{IK}$ 为归纳定义的邻域函数之类：含一切非零常序列 $\lambda m.n+1$，且若 $f(0)=0$ 并对一切 $x$ 有 $\lambda m.f(x\cdot m)\in \mathcal{IK}$，则 $f \in \mathcal{IK}$。陈述 $\mathcal{K}=\mathcal{IK}$——即邻域函数可归纳生成——等价于 **BI_{D}**。
   - id: 88
     kind: body
     source: |-
       Brouwer’s proof of the bar theorem is remarkable in that it uses well-ordering properties of *hypothetical* proofs. It is based on the assumption that any proof that a property *A* on sequences is a bar can be decomposed into a *canonical proof* that is well-ordered. Although it is classically valid, Brouwer’s proof of the principle shows that the reason for accepting it as a valid principle in intuitionism differs fundamentally from the argument supporting its acceptability in classical mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布劳威尔对棒定理的证明之所以值得注意，在于它使用了*假设性*证明的良序性质。它基于这样的假定：任何表明序列上的性质 *A* 是棒的证明，都可分解为一个良序的*典范证明*。尽管该证明在经典上有效，布劳威尔对该原则的证明表明：在直觉主义中接受它为有效原则的理由，与支持其在经典数学中可接受性的论证有根本区别。
+    step2: |-
+      布劳威尔对棒定理的证明之所以可观，在于它援用了*假设性*证明的良序性质：其假定是，任何表明「序列上的性质 *A* 构成棒」的证明，都可分解为一个良序的*典范证明*。此证明虽经典上有效，却表明：在直觉主义中接受该原则为有效的理由，与经典数学中支持其可接受性的论证根本不同。
   - id: 89
     kind: body
     source: |-
       ### 3.7 Choice axioms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.7 选择公理
+    step2: |-
+      ### 3.7 选择公理
   - id: 90
     kind: body
     source: |-
       The axiom of choice in its full form is unacceptable from a constructive point of view, at least in the presence of certain other central axioms of set theory, such as extensionality (Diaconescu 1975)[^diaconescu-1975]. For let $A$ be a statement that is not known to be true or false. Then membership of the following two sets is undecidable.
 
       $$ \begin{align} X &= \{ x \in \{0,1\} \mid x=0 \vee (x=1 \wedge A) \} \\ Y &= \{ y \in \{0,1\} \mid y=1 \vee (y=0 \wedge A) \} \end{align} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      选择公理的完整形式从构造性观点看不可接受，至少在有集合论某些其他核心公理（如外延性）在场时如此（Diaconescu 1975）[^diaconescu-1975]。因为设 $A$ 是一个未知为真或假的陈述。则下列两个集合的成员关系不可判定。
+
+      $$ \begin{align} X &= \{ x \in \{0,1\} \mid x=0 \vee (x=1 \wedge A) \} \\ Y &= \{ y \in \{0,1\} \mid y=1 \vee (y=0 \wedge A) \} \end{align} $$
+    step2: |-
+      选择公理的完整形式，从构造性观点看不可接受——至少当集合论另有外延性等核心公理在场时如此（Diaconescu 1975）[^diaconescu-1975]。设 $A$ 为真伪未知之陈述，则下列两集合之成员关系不可判定：
+
+      $$ \begin{align} X &= \{ x \in \{0,1\} \mid x=0 \vee (x=1 \wedge A) \} \\ Y &= \{ y \in \{0,1\} \mid y=1 \vee (y=0 \wedge A) \} \end{align} $$
   - id: 91
     kind: body
     source: |-
       The existence of a choice function $f:\{X,Y\} \rightarrow \{0,1\}$ choosing an element from $X$ and $Y$ would imply $(A \vee \neg A)$. For if $f(X)\neq f(Y)$, it follows that $X\neq Y$, and hence $\neg A$, whereas $f(X)=f(Y)$ implies $A$. Therefore a choice function for $\{X,Y\}$ cannot exist.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若存在选择函数 $f:\{X,Y\} \rightarrow \{0,1\}$，从 $X$ 与 $Y$ 中各选一个元素，则蕴含 $(A \vee \neg A)$。因为若 $f(X)\neq f(Y)$，则 $X\neq Y$，从而 $\neg A$；而 $f(X)=f(Y)$ 蕴含 $A$。因此 $\{X,Y\}$ 的选择函数不可能存在。
+    step2: |-
+      若有选择函数 $f:\{X,Y\} \rightarrow \{0,1\}$ 分别从 $X$、$Y$ 中各取一元素，则蕴含 $(A \vee \neg A)$：盖若 $f(X)\neq f(Y)$，则 $X\neq Y$，故 $\neg A$；若 $f(X)=f(Y)$，则 $A$。故 $\{X,Y\}$ 之选择函数不可能存在。
   - id: 92
     kind: body
     source: |-
       There are, however, certain restrictions of the axiom that are acceptable for the intuitionist, for example the *axiom of countable choice*, also accepted as a legitimate principle by the semi-intuitionists to be discussed below:
 
       $$\tag{\({\bf AC\mbox{-}N}\)} \forall R \subseteq \mathbb{N} \times \mathbb{N} \big( \forall m\exists n\, mRn \rightarrow \exists \alpha \in \mathbb{N}^\mathbb{N} \forall m\, mR\alpha(m) \big). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，该公理有某些限制形式是直觉主义者可以接受的，例如*可数选择公理*——下文将要讨论的半直觉主义者也把它当作合法原则接受：
+
+      $$\tag{\({\bf AC\mbox{-}N}\)} \forall R \subseteq \mathbb{N} \times \mathbb{N} \big( \forall m\exists n\, mRn \rightarrow \exists \alpha \in \mathbb{N}^\mathbb{N} \forall m\, mR\alpha(m) \big). $$
+    step2: |-
+      不过该公理有些受限形式为直觉主义者所接受，*可数选择公理*即其一——后文将论的半直觉主义者亦视之为合法原则：
+
+      $$\tag{\({\bf AC\mbox{-}N}\)} \forall R \subseteq \mathbb{N} \times \mathbb{N} \big( \forall m\exists n\, mRn \rightarrow \exists \alpha \in \mathbb{N}^\mathbb{N} \forall m\, mR\alpha(m) \big). $$
   - id: 93
     kind: body
     source: |-
       This scheme may be justified as follows. A proof of the premise should provide a method that given $m$ provides a number $n$ such that $mRn$. Thus the function $\alpha$ on the natural numbers $\mathbb{N}$ can be constructed step-by-step: first an element $m_0$ is chosen such that $0Rm_0$, which will be the value of $\alpha(0)$. Then an element $m_1$ is chosen such that $1Rm_1$, which will be the value of $\alpha(1)$, and so on.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一图式可如下辩护。前提的证明应提供一种方法：给定 $m$，给出一个数 $n$ 使 $mRn$。于是自然数 $\mathbb{N}$ 上的函数 $\alpha$ 可以逐步构造：先选一个元素 $m_0$ 使 $0Rm_0$，它将成为 $\alpha(0)$ 的值；再选一个元素 $m_1$ 使 $1Rm_1$，它将成为 $\alpha(1)$ 的值，如此继续。
+    step2: |-
+      此图式可辩护如下：前提之证明应提供一方法，给出 $m$ 即得一数 $n$ 使 $mRn$。于是自然数 $\mathbb{N}$ 上的函数 $\alpha$ 可逐步构造：先取元素 $m_0$ 使 $0Rm_0$，作为 $\alpha(0)$ 之值；再取元素 $m_1$ 使 $1Rm_1$，作为 $\alpha(1)$ 之值；余类推。
   - id: 94
     kind: body
     source: |-
       Several other choice axioms can be justified in a similar way. Only one more will be mentioned here, the axiom of dependent choice:
 
       $$\tag{\({\bf DC\mbox{-}N}\)} \begin{align} \forall R \subseteq \mathbb{N} \times \mathbb{N} \big( \forall m\exists n\, mRn \rightarrow& \forall k \exists \alpha \in \mathbb{N}^\mathbb{N} \big( \alpha(0)=k\ \wedge\\ & \forall i\geq 0\, \alpha(i)R\alpha(i+1) \big) \big). \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若干其他选择公理可以用类似方式辩护。这里只再提一个：依赖选择公理：
+
+      $$\tag{\({\bf DC\mbox{-}N}\)} \begin{align} \forall R \subseteq \mathbb{N} \times \mathbb{N} \big( \forall m\exists n\, mRn \rightarrow& \forall k \exists \alpha \in \mathbb{N}^\mathbb{N} \big( \alpha(0)=k\ \wedge\\ & \forall i\geq 0\, \alpha(i)R\alpha(i+1) \big) \big). \end{align}$$
+    step2: |-
+      另有若干选择公理可循类似方式辩护。此处仅再举一例：依赖选择公理：
+
+      $$\tag{\({\bf DC\mbox{-}N}\)} \begin{align} \forall R \subseteq \mathbb{N} \times \mathbb{N} \big( \forall m\exists n\, mRn \rightarrow& \forall k \exists \alpha \in \mathbb{N}^\mathbb{N} \big( \alpha(0)=k\ \wedge\\ & \forall i\geq 0\, \alpha(i)R\alpha(i+1) \big) \big). \end{align}$$
   - id: 95
     kind: body
     source: |-
       Also in classical mathematics the choice axioms are treated with care, and it is often explicitly mentioned how much choice is needed in a proof. Since the axiom of dependent choice is consistent with an important axiom in classical set theory (the axiom of determinacy) while the full axiom of choice is not, special attention is payed to this axiom and in general one tries to reduce the amount of choice in a proof, if choice is present at all, to dependent choice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在经典数学中，选择公理也被谨慎对待，人们常明确指出一个证明需要多少选择。由于依赖选择公理与经典集合论中一条重要公理（决定性公理）相容，而完整的选择公理则不然，人们特别关注这条公理，并一般设法把证明中的选择（若确有选择）缩减为依赖选择。
+    step2: |-
+      经典数学对待选择公理亦颇谨慎，常明言一证明需用多少选择。因依赖选择公理与经典集合论的一条重要公理（决定性公理）相容，而完整选择公理则不然，故这条公理尤受关注；一般做法是：若证明中用到选择，则设法将其缩减为依赖选择。
   - id: 96
     kind: body
     source: |-
       ### 3.8 Descriptive set theory, topology, and topos theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.8 描述集合论、拓扑与拓扑斯理论
+    step2: |-
+      ### 3.8 描述集合论、拓扑与拓扑斯理论
   - id: 97
     kind: body
     source: |-
       Brouwer was not alone in his doubts concerning certain classical forms of reasoning. This is particularly visible in descriptive set theory, which emerged as a reaction to the highly nonconstructive notions occurring in Cantorian set theory. The founding fathers of the field, including Émile Borel and Henri Lebesgue as two of the main figures, were called *semi-intuitionists*, and their constructive treatment of the continuum led to the definition of the Borel hierarchy. From their point of view a notion like the set of all sets of real numbers is meaningless, and therefore has to be replaced by a hierarchy of subsets that do have a clear description.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布劳威尔对某些经典推理形式的怀疑并非孤例。这在描述集合论中尤为明显，该学科正是作为对康托尔集合论中高度非构造性概念的反应而兴起的。该领域的奠基者——其中包括埃米尔·博雷尔与亨利·勒贝格这两位主要人物——被称为*半直觉主义者*，他们对连续统的构造性处理导致了博雷尔层级的定义。在他们看来，「所有实数集合构成的集合」这样的概念没有意义，因而必须以有清晰描述的子集层级取而代之。
+    step2: |-
+      对某些经典推理形式心存疑虑者，布劳威尔并非孤例。描述集合论即为显证：它正是对康托尔集合论中高度非构造性概念的反应。该领域诸奠基人——埃米尔·博雷尔、亨利·勒贝格为其要——被称为*半直觉主义者*；他们对连续统作构造性处理，由此引出博雷尔层级之定义。在他们看来，「一切实数集之集」这类概念毫无意义，须以有清晰描述的子集层级取而代之。
   - id: 98
     kind: body
     source: |-
       In Veldman 1999, an intuitionistic equivalent of the notion of Borel set is formulated, and it is shown that classically equivalent definitions of the Borel sets give rise to a variety of intuitionistically distinct classes, a situation that often occurs in intuitionism. For the intuitionistic Borel sets an analogue of the Borel Hierarchy Theorem is intuitionistically valid. The proof of this fact makes essential use of the continuity axioms discussed above and thereby shows how classical mathematics can guide the search for intuitionistic analogues that, however, have to be proved in a completely different way, sometimes using principles unacceptable from a classical point of view.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 Veldman 1999 中，表述了博雷尔集合概念的直觉主义等价物，并表明：博雷尔集合的经典等价定义会产生多种直觉主义上彼此不同的类——这种情形在直觉主义中常出现。对直觉主义博雷尔集合而言，博雷尔层级定理的类似物在直觉主义上有效。该事实的证明本质地使用了上文讨论的连续性公理，从而表明经典数学如何能引导寻找直觉主义类似物——然而这些类似物必须以完全不同的方式证明，有时还要使用从经典观点看不可接受的原则。
+    step2: |-
+      Veldman 1999 表述了博雷尔集合概念的直觉主义对应物，并表明：博雷尔集合的若干经典等价定义，会给出多种直觉主义上彼此相异的类——这在直觉主义中屡见不鲜。对直觉主义博雷尔集合而言，博雷尔层级定理的对应命题在直觉主义上成立。其证明本质地用到上文的连续性公理，从而显示经典数学如何引导我们寻找直觉主义对应物；只是这些对应物须以全然不同的方式证明，有时还得借助经典观点不容的原则。
   - id: 99
     kind: body
     source: |-
       Another approach to the study of subsets of the continuum, or of a topological space in general, has appeared through the development of formal or abstract topology (Fourman 1982, Martin-Löf 1970, Sambin 1987)[^fourman-1982][^martin-löf-1970][^sambin-1987]. In this constructive topology the role of open sets and points is reversed; in classical topology an open set is defined as a certain set of points, in the constructive case open sets are the fundamental notion and points are defined in terms of them. Therefore this approach is sometimes referred to as point-free topology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      研究连续统（或一般拓扑空间）子集的另一条进路，随着形式拓扑或抽象拓扑的发展而出现（Fourman 1982, Martin-Löf 1970, Sambin 1987）[^fourman-1982][^martin-löf-1970][^sambin-1987]。在这种构造性拓扑中，开集与点的角色被颠倒：在经典拓扑中，开集被定义为某种点集；在构造性情形中，开集是基本概念，点则借开集来定义。因此这条进路有时被称为无点拓扑。
+    step2: |-
+      研究连续统（或一般拓扑空间）子集，尚有形式拓扑、抽象拓扑一途（Fourman 1982, Martin-Löf 1970, Sambin 1987）[^fourman-1982][^martin-löf-1970][^sambin-1987]。此构造性拓扑把开集与点的角色颠倒过来：经典拓扑以某种点集定义开集，构造性拓扑则以开集为基本概念、由之定义点。故此法或称无点拓扑。
   - id: 100
     kind: body
     source: |-
       Intuitionistic functional analysis has been developed far and wide by many after Brouwer, but since most approaches are not strictly intuitionistic but also constructive in the wider sense, this research will not be addressed any further here.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直觉主义泛函分析在布劳威尔之后由许多人广泛发展，但既然多数进路并非严格直觉主义、而是在更宽泛意义上构造性的，此处不再进一步讨论这项研究。
+    step2: |-
+      布劳威尔之后，直觉主义泛函分析由众人多方发展；惟多数进路并非严格直觉主义的，而属更宽泛意义上的构造性，故此处不再申论。
   - id: 101
     kind: body
     source: |-
       ## 4. Constructivism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 构造主义
+    step2: |-
+      ## 4 构造主义
   - id: 102
     kind: body
     source: |-
       Intuitionism shares a core part with most other forms of constructivism. Constructivism in general is concerned with constructive mathematical objects and reasoning. From constructive proofs one can, at least in principle, extract algorithms that compute the elements and simulate the constructions whose existence is established in the proof. Most forms of constructivism are compatible with classical mathematics, as they are in general based on a stricter interpretation of the quantifiers and the connectives and the constructions that are allowed, while no additional assumptions are made. The logic accepted by almost all constructive communities is the same, namely intuitionistic logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直觉主义与多数其他构造主义形式共享一个核心部分。一般说来，构造主义关注构造性的数学对象与推理。从构造性证明中，至少原则上可以提取算法，用以计算其中的元素并模拟证明所确立存在的构造。多数构造主义形式与经典数学相容，因为它们一般基于对量词、联结词以及所允许构造的更严格解释，而未作出额外假定。几乎所有构造性共同体所接受的逻辑都相同，即直觉主义逻辑。
+    step2: |-
+      直觉主义与多数其他构造主义形式共有一个核心。构造主义大体关注构造性的数学对象与推理：由构造性证明，至少原则上可提取算法，以计算其中的元素、模拟证明所确立存在的构造。多数构造主义形式与经典数学相容——它们一般只是对量词、联结词及所许构造作更严格的解释，并不另添假定。几乎所有构造性共同体所接受的逻辑皆同，即直觉主义逻辑。
   - id: 103
     kind: body
     source: |-
       Many existential theorems in classical mathematics have a constructive analogue in which the existential statement is replaced by a statement about approximations. We saw an example of this, the intermediate value theorem, in the section on weak counterexamples above. Large parts of mathematics can be recovered constructively in a similar way. The reason not to treat them any further here is that the focus in this entry is on those aspects of intuitionism that set it apart from other constructive branches of mathematics. For a thorough treatment of constructivism the reader is referred to the corresponding entry in this encyclopedia.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经典数学中许多存在性定理都有构造性类似物：其中存在性陈述被替换为关于逼近的陈述。上文弱反例一节已见一例，即介值定理。数学的很大部分可以类似方式构造性地恢复。此处不再进一步处理它们，原因在于本词条的焦点是直觉主义使之有别于其他构造性数学分支的那些方面。关于构造主义的详尽处理，读者可参阅本百科全书中相应的词条。
+    step2: |-
+      经典数学中许多存在性定理都有构造性对应物：把存在性陈述换成关于逼近的陈述。上文弱反例一节所举介值定理即其一例。数学的大部分皆可以类似方式作构造性重获。此处不再深论，盖本词条着重直觉主义区别于其他构造性数学分支之处；构造主义的系统处理，读者可参阅本百科全书相应词条。
   - id: 104
     kind: body
     source: |-
       ## 5. Meta-mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 元数学
+    step2: |-
+      ## 5 元数学
   - id: 105
     kind: body
     source: |-
       Although Brouwer developed his mathematics in a precise and fundamental way, formalization in the sense as we know it today was only carried out later by others. Indeed, according to Brouwer’s view that mathematics unfolds itself internally, formalization, although not unacceptable, is unnecessary. Others after him thought otherwise, and the formalization of intuitionistic mathematics and the study of its meta-mathematical properties, in particular of arithmetic and analysis, have attracted many researchers. The formalization of intuitionistic logic on which all formalizations are based has already been treated above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管布劳威尔以精确而根本的方式发展了他的数学，我们今天所知意义上的形式化却是后来由他人完成的。确实，按照布劳威尔「数学在内部自行展开」的观点，形式化虽不可接受、却并非必需。他之后的另一些人看法不同，直觉主义数学的形式化以及对它的元数学性质（尤其是算术与分析）的研究，吸引了许多研究者。一切形式化所依据的直觉主义逻辑的形式化，已在上文处理。
+    step2: |-
+      布劳威尔发展其数学，方式精确而根本；然而今日所谓形式化，实由后人完成。依布劳威尔之见，数学在内部自行展开，形式化虽非不可接受，却属多余。后人之见则异，于是直觉主义数学的形式化、及其元数学性质（尤以算术与分析为要）之研究，吸引众多研究者。一切形式化所本的直觉主义逻辑之形式化，上文已论。
   - id: 106
     kind: body
     source: |-
       ### 5.1 Arithmetic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 算术
+    step2: |-
+      ### 5.1 算术
   - id: 107
     kind: body
     source: |-
