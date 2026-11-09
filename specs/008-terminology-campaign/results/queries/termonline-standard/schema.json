@@ -1,0 +1,152 @@
+{
+ "key": "schema",
+ "term": "schema",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-08T18:23:45+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=38",
+ "hits": [
+  {
+   "cn": "数据模式",
+   "en": "schema",
+   "code": "GB/T 51447—2021",
+   "standard": "建筑信息模型存储标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "code": "GB/T 18219—2008",
+   "standard": "信息技术 数据管理参考模型",
+   "subject": "其它"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "code": "GB/T 42986.1—2023",
+   "standard": "地理信息 本体 第1部分：框架",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "code": "GB/T 42131—2022",
+   "standard": "人工智能 知识图谱技术框架 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "资源模式",
+   "en": "schema",
+   "code": "GB/T 37978—2019",
+   "standard": "信息技术 存储管理应用盘阵列存储管理接口",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "code": "GB/T 33188.1—2016",
+   "standard": "地理信息 参考模型 第1部分:基础",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "code": "GB/T 30169—2013",
+   "standard": "地理信息  基于网络的要素服务",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "code": "GB/T 5271.17—2010",
+   "standard": "信息技术 词汇 第17部分：数据库",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "code": "GB/T 17798—2007",
+   "standard": "地理空间数据交换格式 ",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "code": "GB/T 19667.1—2005",
+   "standard": "基于XML的电子公文格式规范  第1部分:总则",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "XML schema／schema",
+   "en": "",
+   "code": "GB/T 21025—2007",
+   "standard": "XML使用指南",
+   "subject": "其它"
+  },
+  {
+   "cn": "XML模型",
+   "en": "XML schema/Schema",
+   "code": "GB/T 33476.1—2016",
+   "standard": "党政机关电子公文格式规范 第1部分:公文结构",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "源模式",
+   "en": "source schema",
+   "code": "GB/T 18219—2008",
+   "standard": "信息技术 数据管理参考模型",
+   "subject": "其它"
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "code": "GB/T 42986.1—2023",
+   "standard": "地理信息 本体 第1部分：框架",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "code": "GB/T 42986.1—2023",
+   "standard": "地理信息 本体 第1部分：框架",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "code": "GB/T 41472.2—2022",
+   "standard": "地理信息 本体 第2部分：网络本体 语言（OWL）本体开发规则",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "code": "GB/T 41472.2—2022",
+   "standard": "地理信息 本体 第2部分：网络本体 语言（OWL）本体开发规则",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "code": "GB/T 41448—2022",
+   "standard": "地理信息 观测与测量",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "XML模式",
+   "en": "XML schema",
+   "code": "GB/T 40419—2021",
+   "standard": "健康信息学 基因组序列变异置标语言（GSVML）",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "code": "GB/T 41224—2021",
+   "standard": "土壤质量 土壤相关数据的数字交换",
+   "subject": "环保、保健和安全"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 3, \"2022\": 4, \"2021\": 3, \"2020\": 1, \"2019\": 1, \"2016\": 6, \"2013\": 2, \"2011\": 1, \"2010\": 9, \"2007\": 1, \"2005\": 1, \"2003\": 1, \"2001\": 1, \"暂无年份\": 4}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 9, \"环保、保健和安全\": 2, \"机械制造\": 1, \"数学、自然科学\": 12, \"其它\": 4, \"信息技术、办公机械\": 10}, \"typeStats\": {\"7\": 38}, \"totalRecords\": 38, \"tmWordList\": [{\"id\": \"25ce16ec533b4ff99629b5cd3d9bbd53\", \"databaseId\": null, \"standardId\": \"b9fcdf6cf9ad437dae085cc3f80a7fe5\", \"standardCode\": \"GB/T 51447—2021\", \"standardName\": \"建筑信息模型存储标准\", \"standardEnName\": \"Standard for storage of building information model\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.42\", \"cnName\": \"数据模式\", \"enName\": \"schema\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 189197, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"数据模式\", \"cnNameSearch\": \"数据模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"建筑信息模型数据的结构、属性、联系和约束的描述。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"425deeed013241f39b06f01630183b05\", \"databaseId\": null, \"standardId\": \"d928ac6b4a564ac7bb037c29e1e60c3b\", \"standardCode\": \"GB/T 18219—2008\", \"standardName\": \"信息技术 数据管理参考模型\", \"standardEnName\": \"Information technology-Reference model of data management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.59\", \"cnName\": \"模式\", \"enName\": \"schema\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 213649, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"模式\", \"cnNameSearch\": \"模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对用于构造及维护数据库的内容、结构和约束的描述。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ff3da9668d94460599a7551b25512c3d\", \"databaseId\": null, \"standardId\": \"897b5404883a468ebcd31507a5fd37fa\", \"standardCode\": \"GB/T 42986.1—2023\", \"standardName\": \"地理信息 本体 第1部分：框架\", \"standardEnName\": \"Geographic information—Ontology—Part 1: Framework\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.12\", \"cnName\": \"模式\", \"enName\": \"schema\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2023-09-07\", \"ics\": \"07.040\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 144611, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"模式\", \"cnNameSearch\": \"模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"模型的形式化描述。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 33188.1—2016\", \"sourceCode\": \"4.1.34\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b1f47c99b0e04ea396f987f21d5f3794\", \"databaseId\": null, \"standardId\": \"870455b0205c4b66850e43c71d0f2dd7\", \"standardCode\": \"GB/T 42131—2022\", \"standardName\": \"人工智能 知识图谱技术框架 \", \"standardEnName\": \"Artificial intelligence—Technical framework of knowledge graph\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.9\", \"cnName\": \"图式\", \"enName\": \"schema\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"ICS 35.020\", \"ccs\": \"CCS L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 142711, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"图式\", \"cnNameSearch\": \"图式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"本体模型的规范化表达。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 5271.28—2001\", \"sourceCode\": \"28.02.07\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e18df841fac8448db3c9b52a0b060db7\", \"databaseId\": null, \"standardId\": \"bb715d8f1c7b45c5910523666990785b\", \"standardCode\": \"GB/T 37978—2019\", \"standardName\": \"信息技术 存储管理应用盘阵列存储管理接口\", \"standardEnName\": \"Information technology-Application of storage management-Storage management interface of disk array\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.1.6\", \"cnName\": \"资源模式\", \"enName\": \"schema\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-03-01\", \"ics\": \"35.20035\", \"ccs\": \"L65\", \"parentTermId\": null, \"titleId\": null, \"oid\": 190054, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"资源模式\", \"cnNameSearch\": \"资源模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种符合元模型的形式化语言表达。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"de65c4afb5a14869a25a6e43d59f9b08\", \"databaseId\": null, \"standardId\": \"4106588155644d46868f832f0e4d26d9\", \"standardCode\": \"GB/T 33188.1—2016\", \"standardName\": \"地理信息 参考模型 第1部分:基础\", \"standardEnName\": \"Geographic information—Reference model—Part 1: Fundamentals\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.1.34\", \"cnName\": \"模式\", \"enName\": \"schema\", \"publishTime\": \"2016-10-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-02-01\", \"ics\": \"07.040;35.240.70\", \"ccs\": \"A75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 69048, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"模式\", \"cnNameSearch\": \"模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"模型的形式化描述。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a4a80bfadfb84e1a9f9b09abeaa44d7e\", \"databaseId\": null, \"standardId\": \"e1badbb7113c4879a2fde7b928571a34\", \"standardCode\": \"GB/T 30169—2013\", \"standardName\": \"地理信息  基于网络的要素服务\", \"standardEnName\": \"Geographic information―Web feature service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.26\", \"cnName\": \"模式\", \"enName\": \"schema\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-04-20\", \"ics\": \"35.240.703\", \"ccs\": \"A75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221086, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"模式\", \"cnNameSearch\": \"模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"模型的形式化描述。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>通常，模式是对象的特征和与其他对象关系的抽象表示。XML模式代表XML对象(例如，文档或文档的一部分)的属性(4.1）与元素(4.6）之间的关系。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"GB/T 25597—2010\", \"sourceCode\": \"4.11\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3d297e3378e346f88ac70d08ad396b0a\", \"databaseId\": null, \"standardId\": \"dca4f6bb43ae4d65877e88ba063ead8b\", \"standardCode\": \"GB/T 5271.17—2010\", \"standardName\": \"信息技术 词汇 第17部分：数据库\", \"standardEnName\": \"Information technology—Vocabulary—Part: 17: Databases\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"17.01.02\", \"cnName\": \"模式\", \"enName\": \"schema\", \"publishTime\": \"2010-12-01\", \"publishYear\": \"2010\", \"implementTime\": \"2011-04-01\", \"ics\": \"01.040.35；35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216480, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"模式\", \"cnNameSearch\": \"模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"属于考虑的特定级的数据库结构的完整描述。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bd284e1bb0e141dcac827ed1abdf1a5a\", \"databaseId\": null, \"standardId\": \"46b7a08aa25d40618fcd253c3bf8282a\", \"standardCode\": \"GB/T 17798—2007\", \"standardName\": \"地理空间数据交换格式 \", \"standardEnName\": \"Geospatial data transfer format\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.3\", \"cnName\": \"模式\", \"enName\": \"schema\", \"publishTime\": \"2007-08-30\", \"publishYear\": \"2007\", \"implementTime\": \"2007-12-01\", \"ics\": \"07.040\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 74111, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"模式\", \"cnNameSearch\": \"模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"模型的形式化描述。[ISO19101]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"573096ebffa3413c83a628f3f4a1a957\", \"databaseId\": null, \"standardId\": \"198dda7af386485ab8c2f193b0b20902\", \"standardCode\": \"GB/T 19667.1—2005\", \"standardName\": \"基于XML的电子公文格式规范  第1部分:总则\", \"standardEnName\": \"Specification for the structure of electronic official document based on XML——Part 1:General principles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.6\", \"cnName\": \"模式\", \"enName\": \"schema\", \"publishTime\": \"2005-02-18\", \"publishYear\": \"2005\", \"implementTime\": \"2005-05-01\", \"ics\": \"35.240.20\", \"ccs\": \"L76\", \"parentTermId\": null, \"titleId\": null, \"oid\": 25409, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"模式\", \"cnNameSearch\": \"模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"schema\", \"wordSearch\": \"schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种以含有逻辑约束规则的式样为基础的结构化模式语言。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bf3f85de760e4105878efa4796f253ed\", \"databaseId\": null, \"standardId\": \"d225cbdce89a464b91c47748938ec81d\", \"standardCode\": \"GB/T 21025—2007\", \"standardName\": \"XML使用指南\", \"standardEnName\": \"XML user's guide\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.8\", \"cnName\": \"XML schema／schema\", \"enName\": \"\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 209493, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"XML schema／schema\", \"cnNameSearch\": \"XML schema／schema\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种用于限定文档结构（如元素的顺序、出现次数、属性等）的机制，用于描述一类实例文档的结构。解析器可以根据schema来验证文档，本指导性技术文件中，用小写字母开头的schema统称这一概念，其中也包括DTD。用大写字母开头的Schema特指W3C制定的Schema标准（REC-xmlschema-0-20010502Part 0~2)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"61daac11e2fe41f2b30992efb851cd58\", \"databaseId\": null, \"standardId\": \"566de237aa174551b58df0d387cccbb2\", \"standardCode\": \"GB/T 33476.1—2016\", \"standardName\": \"党政机关电子公文格式规范 第1部分:公文结构\", \"standardEnName\": \"Format specification for electronic official document of Party and government organs—Part1:Official document structure\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.2\", \"cnName\": \"XML模型\", \"enName\": \"XML schema/Schema\", \"publishTime\": \"2016-12-30\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"35.240.3035\", \"ccs\": \"L76\", \"parentTermId\": null, \"titleId\": null, \"oid\": 88913, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"XML模型\", \"cnNameSearch\": \"XML模型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"XML schema/Schema\", \"wordSearch\": \"XML schema/Schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种用于限定文档结构(如元素的顺序、出现次数、属性等)的机制,用于描述一类实例文档的结构。 \", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/Z 21025—2007\", \"sourceCode\": \"3.8\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"16b9838813314efebee30c02f265fd8e\", \"databaseId\": null, \"standardId\": \"d928ac6b4a564ac7bb037c29e1e60c3b\", \"standardCode\": \"GB/T 18219—2008\", \"standardName\": \"信息技术 数据管理参考模型\", \"standardEnName\": \"Information technology-Reference model of data management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.64\", \"cnName\": \"源模式\", \"enName\": \"source schema\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 213653, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"源模式\", \"cnNameSearch\": \"源模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"source schema\", \"wordSearch\": \"source schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在变换成一个模式之前的一个或一组数据定义。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9df60307de144491a8efbb967021a3cf\", \"databaseId\": null, \"standardId\": \"897b5404883a468ebcd31507a5fd37fa\", \"standardCode\": \"GB/T 42986.1—2023\", \"standardName\": \"地理信息 本体 第1部分：框架\", \"standardEnName\": \"Geographic information—Ontology—Part 1: Framework\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.1\", \"cnName\": \"应用模式\", \"enName\": \"application schema\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2023-09-07\", \"ics\": \"07.040\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 144615, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"应用模式\", \"cnNameSearch\": \"应用模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"application schema\", \"wordSearch\": \"application schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个或多个应用所需数据的概念模式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 33188.1—2016\", \"sourceCode\": \"4.1.2\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"aaf71ac87f464659ab5715f2a0de50be\", \"databaseId\": null, \"standardId\": \"897b5404883a468ebcd31507a5fd37fa\", \"standardCode\": \"GB/T 42986.1—2023\", \"standardName\": \"地理信息 本体 第1部分：框架\", \"standardEnName\": \"Geographic information—Ontology—Part 1: Framework\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.3\", \"cnName\": \"概念模式\", \"enName\": \"conceptual schema\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2023-09-07\", \"ics\": \"07.040\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 144620, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"概念模式\", \"cnNameSearch\": \"概念模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"conceptual schema\", \"wordSearch\": \"conceptual schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"概念模型的形式化描述。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 33188.1—2016\", \"sourceCode\": \"4.1.6\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9b9ee118d5224f6b9fe806e1eee6e814\", \"databaseId\": null, \"standardId\": \"a5bfc278d23c41d3b6cb02708f9b6dd2\", \"standardCode\": \"GB/T 41472.2—2022\", \"standardName\": \"地理信息 本体 第2部分：网络本体 语言（OWL）本体开发规则\", \"standardEnName\": \"Geographic information—Ontology—Part 2:Rules for developingontologies in the Web Ontology Language(OWL)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.1.5\", \"cnName\": \"应用模式\", \"enName\": \"application schema\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"ICS 07.040 \", \"ccs\": \"CCS A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169812, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"应用模式\", \"cnNameSearch\": \"应用模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"application schema\", \"wordSearch\": \"application schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个或多个应用所需的数据的概念模式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"ISO 19101:2014\", \"sourceCode\": \"4.1.2\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8e3c5c1626f64f40bd14944bf7e9d925\", \"databaseId\": null, \"standardId\": \"a5bfc278d23c41d3b6cb02708f9b6dd2\", \"standardCode\": \"GB/T 41472.2—2022\", \"standardName\": \"地理信息 本体 第2部分：网络本体 语言（OWL）本体开发规则\", \"standardEnName\": \"Geographic information—Ontology—Part 2:Rules for developingontologies in the Web Ontology Language(OWL)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.1.14\", \"cnName\": \"概念模式\", \"enName\": \"conceptual schema\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"ICS 07.040 \", \"ccs\": \"CCS A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169829, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"概念模式\", \"cnNameSearch\": \"概念模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"conceptual schema\", \"wordSearch\": \"conceptual schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"概念模型的规范化描述。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"ISO 19101-1:2014\", \"sourceCode\": \"4.1.6\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a6b8c4dcd44744d68f04a1cee7977c16\", \"databaseId\": null, \"standardId\": \"b4b2ef8b3ac949ae8fcac75fcd795108\", \"standardCode\": \"GB/T 41448—2022\", \"standardName\": \"地理信息 观测与测量\", \"standardEnName\": \"Geographic information—Observations and measurements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.1\", \"cnName\": \"应用模式\", \"enName\": \"application schema\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"ICS 07.040 \", \"ccs\": \"CCS A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184389, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"应用模式\", \"cnNameSearch\": \"应用模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"application schema\", \"wordSearch\": \"application schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个或多个应用所需数据的概念模式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"ISO 19101:2002\", \"sourceCode\": \"4.2\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8752b39085ba44fe9ad1d29ddb59037f\", \"databaseId\": null, \"standardId\": \"0884848e149247a2aa042e44f1d3cf50\", \"standardCode\": \"GB/T 40419—2021\", \"standardName\": \"健康信息学 基因组序列变异置标语言（GSVML）\", \"standardEnName\": \"Health informatics—Genomic Sequence Variation Markup Language (GSVML)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.27\", \"cnName\": \"XML模式\", \"enName\": \"XML schema\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"ICS 35.240.80\", \"ccs\": \"CCS C 07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8178, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"XML模式\", \"cnNameSearch\": \"XML模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"XML schema\", \"wordSearch\": \"XML schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对 XML 文档的结构进行描述并对内容进行约束的语言。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"97675fd54ca74467b2c0028ed88e9f80\", \"databaseId\": null, \"standardId\": \"259fbca3054344a6b7efd7f820ddd376\", \"standardCode\": \"GB/T 41224—2021\", \"standardName\": \"土壤质量 土壤相关数据的数字交换\", \"standardEnName\": \"Soil quality—Digital exchange of soil—related data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.3\", \"cnName\": \"应用模式\", \"enName\": \"application schema\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"13.080.01\", \"ccs\": \"B 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 35037, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"应用模式\", \"cnNameSearch\": \"应用模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"application schema\", \"wordSearch\": \"application schema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个或多个应用中所要求的数据概念模式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"ISO 19101\", \"sourceCode\": \"\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1794162225310}"
+}

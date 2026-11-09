@@ -1,0 +1,117 @@
+{
+ "key": "via moderna",
+ "term": "via moderna",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-08T18:24:00+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=15",
+ "hits": [
+  {
+   "cn": "通孔金属化",
+   "en": "via metallization",
+   "code": "GB 51333 —2018",
+   "standard": "厚膜陶瓷基板生产工厂设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "后通孔",
+   "en": "via-last",
+   "code": "GB/T 43510—2023",
+   "standard": "集成电路 TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "中通孔",
+   "en": "via-middle",
+   "code": "GB/T 43510—2023",
+   "standard": "集成电路 TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "先通孔",
+   "en": "via-first",
+   "code": "GB/T 43510—2023",
+   "standard": "集成电路 TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "先通孔",
+   "en": "via-first",
+   "code": "GB/Z 43510—2023",
+   "standard": "集成电路TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "后通孔",
+   "en": "via-last",
+   "code": "GB/Z 43510—2023",
+   "standard": "集成电路TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "中通孔",
+   "en": "via-middle",
+   "code": "GB/Z 43510—2023",
+   "standard": "集成电路TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "通孔",
+   "en": "through silicon via",
+   "code": "GB 51122—2015",
+   "standard": "集成电路封装测试厂设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "硅通子",
+   "en": "through-silicon via",
+   "code": "GB/T 43510—2023",
+   "standard": "集成电路 TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "硅通子",
+   "en": "through-silicon via",
+   "code": "GB/Z 43510—2023",
+   "standard": "集成电路TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "硅通孔",
+   "en": "through-silicon via",
+   "code": "GB/T 26111—2023",
+   "standard": "微机电系统(MEMS)技术 术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "化学插层剥离",
+   "en": "exfoliation via chemical intercalation",
+   "code": "GB/Z 38062—2019",
+   "standard": "纳米技术 石墨烯材料比表面积的测试亚甲基蓝吸附法",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "生物质气化制取二甲醚",
+   "en": "dimethyl ether production via biomass gasification",
+   "code": "GB/T 31741—2015",
+   "standard": "林业生物质能源名词术语",
+   "subject": null
+  },
+  {
+   "cn": "NTRIP 协议",
+   "en": "networked transport of RTCM via internet protocol",
+   "code": "GB/T 39611—2020",
+   "standard": "卫星导航定位基准站术语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "电机减速器型辊道",
+   "en": "roll table with motor connected to roll via reducer",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 9, \"2020\": 1, \"2019\": 1, \"2016\": 1, \"2015\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"电子学\": 9, \"数学、自然科学\": 1, \"化工技术\": 1, \"冶金\": 1, \"其它\": 2}, \"typeStats\": {\"7\": 15}, \"totalRecords\": 15, \"tmWordList\": [{\"id\": \"51be6d95a6e0435d87f2d682d94fc81b\", \"databaseId\": null, \"standardId\": \"1dea6a8c72384d91b9638f1834fda0ba\", \"standardCode\": \"GB 51333 —2018\", \"standardName\": \"厚膜陶瓷基板生产工厂设计标准\", \"standardEnName\": \"Design standard for thick-film ceramic substrate manufactory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.4 \", \"cnName\": \"通孔金属化\", \"enName\": \"via metallization\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 28436, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"通孔金属化\", \"cnNameSearch\": \"通孔金属化\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"via metallization\", \"wordSearch\": \"via metallization\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过陶瓷基板孔壁表面涂覆或孔内填充导体浆料，使基板正反两面连通的工艺。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"efc66497d71b4aaba0c802aac31b98c9\", \"databaseId\": null, \"standardId\": \"08c8c2cb1e23420eb33100fb3d01560b\", \"standardCode\": \"GB/T 43510—2023\", \"standardName\": \"集成电路 TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.7\", \"cnName\": \"后通孔\", \"enName\": \"via-last\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8326, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"后通孔\", \"cnNameSearch\": \"后通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"via-last\", \"wordSearch\": \"via-last\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"先完成有源芯片和有源芯片片内互连层，最后制作TSV，即TSV在BEOL后制作。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"639be43b38ff456bb293ba5a7d51cb53\", \"databaseId\": null, \"standardId\": \"08c8c2cb1e23420eb33100fb3d01560b\", \"standardCode\": \"GB/T 43510—2023\", \"standardName\": \"集成电路 TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.6\", \"cnName\": \"中通孔\", \"enName\": \"via-middle\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8328, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中通孔\", \"cnNameSearch\": \"中通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"via-middle\", \"wordSearch\": \"via-middle\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"先做有源器件，然后制作TSV，最后进行片内互连工艺，即TSV在FEOL后，晶圆后道工序(BEOL)前制作。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>“中通孔”工艺有时被认为是“先通孔\\\"工艺的一部分。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"18a8e1204950484c97bee9f3fb5f500e\", \"databaseId\": null, \"standardId\": \"08c8c2cb1e23420eb33100fb3d01560b\", \"standardCode\": \"GB/T 43510—2023\", \"standardName\": \"集成电路 TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.5\", \"cnName\": \"先通孔\", \"enName\": \"via-first\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8329, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"先通孔\", \"cnNameSearch\": \"先通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"via-first\", \"wordSearch\": \"via-first\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"先完成TSV的制作，再做有源芯片及互连，即TSV在晶圆前道工序（FEOL）之前制作。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0559e1ee076745679cff3120a8211b84\", \"databaseId\": null, \"standardId\": \"777c700a7c3e44b8853ffafee89495f9\", \"standardCode\": \"GB/Z 43510—2023\", \"standardName\": \"集成电路TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.5\", \"cnName\": \"先通孔\", \"enName\": \"via-first\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.20031\", \"ccs\": \"L55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123136, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"先通孔\", \"cnNameSearch\": \"先通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"via-first\", \"wordSearch\": \"via-first\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"先完成TSV的制作，再做有源芯片及互连，即TSV在晶圆前道工序（FEOL)之前制作。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"db05582333324ed089d0bbf9c7c023ac\", \"databaseId\": null, \"standardId\": \"777c700a7c3e44b8853ffafee89495f9\", \"standardCode\": \"GB/Z 43510—2023\", \"standardName\": \"集成电路TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.7\", \"cnName\": \"后通孔\", \"enName\": \"via-last\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.20031\", \"ccs\": \"L55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123137, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"后通孔\", \"cnNameSearch\": \"后通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"via-last\", \"wordSearch\": \"via-last\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"先完成有源芯片和有源芯片片内互连层，最后制作TSV，即TSV在BEOL后制作。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"40e70901d17a4828ae30498cac88f6eb\", \"databaseId\": null, \"standardId\": \"777c700a7c3e44b8853ffafee89495f9\", \"standardCode\": \"GB/Z 43510—2023\", \"standardName\": \"集成电路TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.6\", \"cnName\": \"中通孔\", \"enName\": \"via-middle\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.20031\", \"ccs\": \"L55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123138, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中通孔\", \"cnNameSearch\": \"中通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"via-middle\", \"wordSearch\": \"via-middle\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"先做有源器件，然后制作TSV，最后进行片内互连工艺，即TSV在FEOL后，晶圆后道工序(BEOL)前制作。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>\\\"中通孔”工艺有时被认为是“先通孔”工艺的一部分。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4d48291edbf44455a0645d8d7b482a78\", \"databaseId\": null, \"standardId\": \"362df3ac10984898b84e7e0bad64859b\", \"standardCode\": \"GB 51122—2015\", \"standardName\": \"集成电路封装测试厂设计规范\", \"standardEnName\": \"Code for design of integrated circuit assembly and test factory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.11\", \"cnName\": \"通孔\", \"enName\": \"through silicon via\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 59923, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"通孔\", \"cnNameSearch\": \"通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"through silicon via\", \"wordSearch\": \"through silicon via\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用深层等离子刻蚀、激光加工或湿法刻蚀等方式在芯片和芯片之间、晶圆和晶圆之间制作垂直导通。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c04978c4d70a4d52bf16e3c140137f74\", \"databaseId\": null, \"standardId\": \"08c8c2cb1e23420eb33100fb3d01560b\", \"standardCode\": \"GB/T 43510—2023\", \"standardName\": \"集成电路 TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.4\", \"cnName\": \"硅通子\", \"enName\": \"through-silicon via\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8330, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"硅通子\", \"cnNameSearch\": \"硅通子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"through-silicon via\", \"wordSearch\": \"through-silicon via\"}, {\"languageType\": 1, \"word\": \"TSV\", \"wordSearch\": \"TSV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"贯穿硅晶圆或芯片的垂直互连通路。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8144980b48294f83b3d67c99342162b4\", \"databaseId\": null, \"standardId\": \"777c700a7c3e44b8853ffafee89495f9\", \"standardCode\": \"GB/Z 43510—2023\", \"standardName\": \"集成电路TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.4\", \"cnName\": \"硅通子\", \"enName\": \"through-silicon via\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.20031\", \"ccs\": \"L55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123140, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"硅通子\", \"cnNameSearch\": \"硅通子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"through-silicon via\", \"wordSearch\": \"through-silicon via\"}, {\"languageType\": 1, \"word\": \"TSV\", \"wordSearch\": \"TSV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"贯穿硅晶圆或芯片的垂直互连通路。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9d7b1af9d415492aadd863bcdd4b25c2\", \"databaseId\": null, \"standardId\": \"c0702341a2e04497aa1a328bfd751e91\", \"standardCode\": \"GB/T 26111—2023\", \"standardName\": \"微机电系统(MEMS)技术 术语\", \"standardEnName\": \"Micro-electromechanical system technology-Terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.6.11\", \"cnName\": \"硅通孔\", \"enName\": \"through-silicon via\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-09-01\", \"ics\": \"ICS 31.080.99\", \"ccs\": \"CCS L 59\", \"parentTermId\": null, \"titleId\": null, \"oid\": 193666, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"硅通孔\", \"cnNameSearch\": \"硅通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"through-silicon via\", \"wordSearch\": \"through-silicon via\"}, {\"languageType\": 1, \"word\": \"TSV\", \"wordSearch\": \"TSV\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"硅衬底的上、下两个表面之间垂直穿透的电互连。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>主要用于半导体器件的三维堆叠封装。在MEMS领域,硅通孔被应用于晶圆级封装技术。一些硅通孔由通孔、绝缘体和电极材料组成。焊料、铜、掺杂多晶硅等用作电极材料。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"39b5e92b95f64985af78b3d1e7371dd3\", \"databaseId\": null, \"standardId\": \"75773f8bbaa1458f9c22f0529f2d0628\", \"standardCode\": \"GB/Z 38062—2019\", \"standardName\": \"纳米技术 石墨烯材料比表面积的测试亚甲基蓝吸附法\", \"standardEnName\": \"Nanotechnologies—Determination of specific surface area of graphene materials—Methylene blue adsorption method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.3\", \"cnName\": \"化学插层剥离\", \"enName\": \"exfoliation via chemical intercalation\", \"publishTime\": \"2019-10-18\", \"publishYear\": \"2019\", \"implementTime\": \"2020-09-01\", \"ics\": \"71.04071\", \"ccs\": \"A20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 119108, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"化学插层剥离\", \"cnNameSearch\": \"化学插层剥离\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"exfoliation via chemical intercalation\", \"wordSearch\": \"exfoliation via chemical intercalation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": \"二维材料\", \"definition\": \"通过在更厚的层状材料的层间插人化学物质和单元，然后浸人到液体中，利用机械能或热能来制备单层或少层二维材料的方法。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T30544.13—2018\", \"sourceCode\": \"3.2.1.13\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"139469e3cb4f49abb69a358bf9e5ee5a\", \"databaseId\": null, \"standardId\": \"5e7b8ba34b8c45af9f5f64fa188e2e93\", \"standardCode\": \"GB/T 31741—2015\", \"standardName\": \"林业生物质能源名词术语\", \"standardEnName\": \"Terminology and glossary of forestry biomass energy\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": null, \"termCode\": \"2.3.31\", \"cnName\": \"生物质气化制取二甲醚\", \"enName\": \"dimethyl ether production via biomass gasification\", \"publishTime\": \"2015-07-03\", \"publishYear\": \"2015\", \"implementTime\": \"2015-11-02\", \"ics\": \"2727\", \"ccs\": \"F13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95089, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物质气化制取二甲醚\", \"cnNameSearch\": \"生物质气化制取二甲醚\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dimethyl ether production via biomass gasification\", \"wordSearch\": \"dimethyl ether production via biomass gasification\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将生物质气化所得原料气在反应器中进行甲醇合成、脱水反应，生成甲醇和二甲醚混合物，经蒸馏分离得到二甲醚的工艺过程。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"35907d513eb24952bf5bb69d01939941\", \"databaseId\": null, \"standardId\": \"c53ceaa8f90e4821a4bb6890d035b65b\", \"standardCode\": \"GB/T 39611—2020\", \"standardName\": \"卫星导航定位基准站术语\", \"standardEnName\": \"Terms for global navigation satellite system reference station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.2\", \"cnName\": \"NTRIP 协议\", \"enName\": \"networked transport of RTCM via internet protocol\", \"publishTime\": \"2020-12-14\", \"publishYear\": \"2020\", \"implementTime\": \"2020-12-14\", \"ics\": \"ICS 07.040\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 198265, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"NTRIP 协议\", \"cnNameSearch\": \"NTRIP 协议\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"networked transport of RTCM via internet protocol\", \"wordSearch\": \"networked transport of RTCM via internet protocol\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种互联网 RTCM 数据传输协议，用于通过专用通信网络传输 GNSS 数据流及差分数据信息。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dd98c94961534d2ca4968b1ab812c4af\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"9.5.17.2\", \"cnName\": \"电机减速器型辊道\", \"enName\": \"roll table with motor connected to roll via reducer\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51596, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"电机减速器型辊道\", \"cnNameSearch\": \"电机减速器型辊道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"roll table with motor connected to roll via reducer\", \"wordSearch\": \"roll table with motor connected to roll via reducer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"电机和辊子通过减速器联接的辊道。电机和减速器也可以直接装在辊子上。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794162240324}"
+}

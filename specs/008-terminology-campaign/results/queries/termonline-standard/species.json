@@ -1,0 +1,152 @@
+{
+ "key": "species",
+ "term": "species",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-08T18:23:50+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=52",
+ "hits": [
+  {
+   "cn": "种",
+   "en": "species",
+   "code": "GB/T 43271—2023",
+   "standard": "木材鉴定 DNA条形码方法",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "code": "GB/T 15628.1—2021",
+   "standard": "中国动物分类代码 第1部分：脊椎动物",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "形态",
+   "en": "species",
+   "code": "GB/T 4960.8—2008",
+   "standard": "核科学技术术语  第8部分：放射性废物管理",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "种概念",
+   "en": "species",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "本地种",
+   "en": "indigenous species",
+   "code": "GB/T 31721—2015",
+   "standard": "病媒生物控制术语与分类",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "化学形态",
+   "en": "chemical species",
+   "code": "GB/T 43968—2024",
+   "standard": "高效液相色谱-原子荧光光谱仪联用分析方法通则",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "菜用型栗子",
+   "en": "stewing species",
+   "code": "GB/T 22346—2023",
+   "standard": "栗产品质量等级",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "加工型栗子",
+   "en": "processing species",
+   "code": "GB/T 22346—2023",
+   "standard": "栗产品质量等级",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "蛋白质种类",
+   "en": "protein species",
+   "code": "GB/T 42080.2—2022",
+   "standard": "分子体外诊断检验 冷冻组织检验前过程的规范 第2部分：分离蛋白质 ",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "蛋白质种类",
+   "en": "protein species",
+   "code": "GB/T 42216.2—2022",
+   "standard": "分子体外诊断检验 福尔马林固定及石蜡包埋组织检验前过程的规范 第2部分：分离蛋白质",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "建群种",
+   "en": "constructive species",
+   "code": "GB/T 40451—2021",
+   "standard": "草原与牧草术语 ",
+   "subject": "农业"
+  },
+  {
+   "cn": "旗舰种",
+   "en": "flagship species",
+   "code": "GB/T 39737—2021",
+   "standard": "国家公园设立规范",
+   "subject": "农业"
+  },
+  {
+   "cn": "伞护种",
+   "en": "umbrella species",
+   "code": "GB/T 39737—2021",
+   "standard": "国家公园设立规范",
+   "subject": "农业"
+  },
+  {
+   "cn": "优良竹种",
+   "en": "elitebamboo species",
+   "code": "GB/T 32770—2016",
+   "standard": "竹子名词术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "入侵种",
+   "en": "invasive species",
+   "code": "GB/T 31721—2015",
+   "standard": "病媒生物控制术语与分类",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "外来种",
+   "en": "exotic species",
+   "code": "GB/T 31721—2015",
+   "standard": "病媒生物控制术语与分类",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "地方种",
+   "en": "endemic species",
+   "code": "GB/T 31721—2015",
+   "standard": "病媒生物控制术语与分类",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "优势种",
+   "en": "dominant species",
+   "code": "GB/T 31721—2015",
+   "standard": "病媒生物控制术语与分类",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "近缘种",
+   "en": "relative species",
+   "code": "GB/T 31799—2015",
+   "standard": "银毛龙葵检疫鉴定方法",
+   "subject": "农业"
+  },
+  {
+   "cn": "树种组",
+   "en": "species group",
+   "code": "GB/T 26423—2010",
+   "standard": "森林资源术语",
+   "subject": "农业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 2, \"2023\": 6, \"2022\": 3, \"2021\": 7, \"2020\": 1, \"2019\": 1, \"2016\": 1, \"2015\": 6, \"2011\": 7, \"2009\": 1, \"2008\": 3, \"2007\": 4, \"2001\": 3, \"1993\": 1, \"暂无年份\": 6}, \"sourceStats\": {\"食品技术\": 3, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 2, \"环保、保健和安全\": 1, \"木材技术\": 1, \"数学、自然科学\": 7, \"医药卫生技术\": 7, \"化工技术\": 1, \"农业\": 22, \"其它\": 7}, \"typeStats\": {\"7\": 52}, \"totalRecords\": 52, \"tmWordList\": [{\"id\": \"0a9c0571b6434a2baa8790bba6b377f3\", \"databaseId\": null, \"standardId\": \"55f909fac71b49de84978dab41a603b4\", \"standardCode\": \"GB/T 43271—2023\", \"standardName\": \"木材鉴定 DNA条形码方法\", \"standardEnName\": \"Wood identification—DNA barcoding method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.3\", \"cnName\": \"种\", \"enName\": \"species\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2023-11-27\", \"ics\": \"79.010\", \"ccs\": \"B 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 88589, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"种\", \"cnNameSearch\": \"种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"species\", \"wordSearch\": \"species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有相同的形态学、生理学特征和一定自然分布区的生物群，为分类学基本单位。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"54b7153bc32b4b50b6e9a89e7c3eaf5f\", \"databaseId\": null, \"standardId\": \"9eaaae7726be46b388df7f921518b1e0\", \"standardCode\": \"GB/T 15628.1—2021\", \"standardName\": \"中国动物分类代码 第1部分：脊椎动物\", \"standardEnName\": \"Classification codes of China fauna—Part 1: Vertebrates\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.1\", \"cnName\": \"物种\", \"enName\": \"species\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"07.08007\", \"ccs\": \"A24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 164159, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"物种\", \"cnNameSearch\": \"物种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"species\", \"wordSearch\": \"species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"生物的基本分类单元，即具有统一且稳定的形态和生理特征以及占有一定自然分布区的生物类群，\\n能自相繁殖而对其他类群呈现生殖隔离，是生物的繁殖、遗传和进化单元。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"通常简称为“种”。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4d73aaa4396f4e51a0b8e3f8b44228b4\", \"databaseId\": null, \"standardId\": \"719bc4613e204aaaacc9f0c11bd3a96e\", \"standardCode\": \"GB/T 4960.8—2008\", \"standardName\": \"核科学技术术语  第8部分：放射性废物管理\", \"standardEnName\": \"Glossary of term: nuclear science and technology — Part 8：Radioactive waste management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"2.12\", \"cnName\": \"形态\", \"enName\": \"species\", \"publishTime\": \"2008-03-24\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"27.120.01\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114242, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形态\", \"cnNameSearch\": \"形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"species\", \"wordSearch\": \"species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": \"化学\", \"definition\": \"特定条件(pH、Eh、配位体、离子强度等)下,元素(包括放射性核素)的化学形式、价态和性质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c542859c0e244c12adbff359e823a5a7\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.4.2.2.4.11\", \"cnName\": \"种概念\", \"enName\": \"species\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220326, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"种概念\", \"cnNameSearch\": \"种概念\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"species\", \"wordSearch\": \"species\"}, {\"languageType\": 1, \"word\": \"specific concept\", \"wordSearch\": \"specific concept\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在属种关系中的下位概念。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>在词典编纂学和词汇学中,一般倾向于用特定概念这个术语。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b43a04baa57c4433b9243e20a338eb63\", \"databaseId\": null, \"standardId\": \"144b85ad96c54473937cef7bd7d51d42\", \"standardCode\": \"GB/T 31721—2015\", \"standardName\": \"病媒生物控制术语与分类\", \"standardEnName\": \"Vector control terms and classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"2.2.1.20\", \"cnName\": \"本地种\", \"enName\": \"indigenous species\", \"publishTime\": \"2015-06-02\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"11.020\", \"ccs\": \"C05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19379, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"本地种\", \"cnNameSearch\": \"本地种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"indigenous species\", \"wordSearch\": \"indigenous species\"}, {\"languageType\": 1, \"word\": \"native species\", \"wordSearch\": \"native species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"原产于当地的病媒昆虫种类。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"68c9947004224dccb4d1ab69d94d20ca\", \"databaseId\": null, \"standardId\": \"a5b3b44621ff4226b9d0b1e91222e579\", \"standardCode\": \"GB/T 43968—2024\", \"standardName\": \"高效液相色谱-原子荧光光谱仪联用分析方法通则\", \"standardEnName\": \"General rules for high performance liquid chromatography-atomic fluorescence spectrometry analysis method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.1\", \"cnName\": \"化学形态\", \"enName\": \"chemical species\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"71.040\", \"ccs\": \"N53\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169786, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"化学形态\", \"cnNameSearch\": \"化学形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chemical species\", \"wordSearch\": \"chemical species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"一种化学元素的特定形式，定义为同位素组成、电子或氧化状态和(或)络合物或分子结构。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e717f46d3530405b9258a43a25196409\", \"databaseId\": null, \"standardId\": \"235d3a9cd9ca4cea9d5c9ff2728be5c3\", \"standardCode\": \"GB/T 22346—2023\", \"standardName\": \"栗产品质量等级\", \"standardEnName\": \"Quality grade of chestnut\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.3\", \"cnName\": \"菜用型栗子\", \"enName\": \"stewing species\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-10-01\", \"ics\": \"67.080\", \"ccs\": \"B 66\", \"parentTermId\": null, \"titleId\": null, \"oid\": 33914, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"菜用型栗子\", \"cnNameSearch\": \"菜用型栗子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"stewing species\", \"wordSearch\": \"stewing species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"适合用于作为菜肴食用的栗品种。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>一般具有肉质偏粗梗、含水量较高、含糖量较低的特点。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"59c225f425aa4371b1f015b2d24d59b2\", \"databaseId\": null, \"standardId\": \"235d3a9cd9ca4cea9d5c9ff2728be5c3\", \"standardCode\": \"GB/T 22346—2023\", \"standardName\": \"栗产品质量等级\", \"standardEnName\": \"Quality grade of chestnut\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.4\", \"cnName\": \"加工型栗子\", \"enName\": \"processing species\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-10-01\", \"ics\": \"67.080\", \"ccs\": \"B 66\", \"parentTermId\": null, \"titleId\": null, \"oid\": 33917, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"加工型栗子\", \"cnNameSearch\": \"加工型栗子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"processing species\", \"wordSearch\": \"processing species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"适合用于加工为栗果罐头、栗果仁休闲食品、栗粉等产品的栗品种。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>一般具有栗果较大、加工破碎率低的特点。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8f49dc64d6624f32bec652b3b45c2354\", \"databaseId\": null, \"standardId\": \"1d40c383c6b84fc6ab0f1d7d71fea741\", \"standardCode\": \"GB/T 42080.2—2022\", \"standardName\": \"分子体外诊断检验 冷冻组织检验前过程的规范 第2部分：分离蛋白质 \", \"standardEnName\": \"Molecular in vitro diagnostic examinations—Specifications for pre-examination processes for frozen tissue—Part 2 : Isolated proteins \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.14\", \"cnName\": \"蛋白质种类\", \"enName\": \"protein species\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"ICS 11.100.10\", \"ccs\": \"CCS C 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 27891, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"蛋白质种类\", \"cnNameSearch\": \"蛋白质种类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"protein species\", \"wordSearch\": \"protein species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"与高效双向凝胶电泳图谱上的一个点对应的具有明确化学定义的蛋白质的数量。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>该定义来源于参考文献[6]。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"39f4518a056540279b54ea058f5337b4\", \"databaseId\": null, \"standardId\": \"6ef9c19a41a34343a54ec17dca061495\", \"standardCode\": \"GB/T 42216.2—2022\", \"standardName\": \"分子体外诊断检验 福尔马林固定及石蜡包埋组织检验前过程的规范 第2部分：分离蛋白质\", \"standardEnName\": \"Molecular in vitro diagnostic examinations—Specifications for pre-examination processes for formalin—fixed and paraffin—embedded(FFPE) tissue—Part 2:Isolated proteins\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.16\", \"cnName\": \"蛋白质种类\", \"enName\": \"protein species\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"11.100.10\", \"ccs\": \"C 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 112671, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"蛋白质种类\", \"cnNameSearch\": \"蛋白质种类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"protein species\", \"wordSearch\": \"protein species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在高性能双向凝胶电泳图谱上与一个点对应的具有明确化学定义的蛋白质的数量。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>该定义来源于参考文献[7]。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c61cee82f6814947a77981eb2e5bb9af\", \"databaseId\": null, \"standardId\": \"116bd80bde064ff1b663975c097a8d06\", \"standardCode\": \"GB/T 40451—2021\", \"standardName\": \"草原与牧草术语 \", \"standardEnName\": \"Terms for grassland and forage\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.3.10\", \"cnName\": \"建群种\", \"enName\": \"constructive species\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"ICS 65.020.01\", \"ccs\": \"B 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15989, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"建群种\", \"cnNameSearch\": \"建群种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"constructive species\", \"wordSearch\": \"constructive species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"决定群落的结构与特征，在群落中处于优势层的优势种，对生境有一定塑造作用。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c48f47b0448b4e13a96666ccbfd942dc\", \"databaseId\": null, \"standardId\": \"e938a3a3f3254cd78d007d525f748440\", \"standardCode\": \"GB/T 39737—2021\", \"standardName\": \"国家公园设立规范\", \"standardEnName\": \"Specification for national park establishment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.6\", \"cnName\": \"旗舰种\", \"enName\": \"flagship species\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"ICS 65.020\", \"ccs\": \"CCS B 65\", \"parentTermId\": null, \"titleId\": null, \"oid\": 229231, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"旗舰种\", \"cnNameSearch\": \"旗舰种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"flagship species\", \"wordSearch\": \"flagship species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"地区生态维护的代表性，标志性濒危物种，对公众具有极高吸引力和感染力，通过该物种的保护可以促进社会对生物多样性保护的关注。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5abcc9d5860044dea1e84fb4fefcf896\", \"databaseId\": null, \"standardId\": \"e938a3a3f3254cd78d007d525f748440\", \"standardCode\": \"GB/T 39737—2021\", \"standardName\": \"国家公园设立规范\", \"standardEnName\": \"Specification for national park establishment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.5\", \"cnName\": \"伞护种\", \"enName\": \"umbrella species\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"ICS 65.020\", \"ccs\": \"CCS B 65\", \"parentTermId\": null, \"titleId\": null, \"oid\": 229233, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"伞护种\", \"cnNameSearch\": \"伞护种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"umbrella species\", \"wordSearch\": \"umbrella species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"能涵盖或综合众多其他物种的生境需求、在保护该物种的同时可以促进更多物种及栖息地保护的目标物种。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7eba3bdd9e31469dbb49bf0eb0932b7b\", \"databaseId\": null, \"standardId\": \"3c3cd3622c3a4274aeb52b5adc18a24c\", \"standardCode\": \"GB/T 32770—2016\", \"standardName\": \"竹子名词术语\", \"standardEnName\": \"Bamboo terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.7\", \"cnName\": \"优良竹种\", \"enName\": \"elitebamboo species\", \"publishTime\": \"2016-06-14\", \"publishYear\": \"2016\", \"implementTime\": \"2017-01-01\", \"ics\": \"01.040.65\", \"ccs\": \"B60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65510, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"优良竹种\", \"cnNameSearch\": \"优良竹种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"elitebamboo species\", \"wordSearch\": \"elitebamboo species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"有优良经济性状或在生物、生态学等领域具有优良性状的竹种。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0914cb135f9f423e85b5b37a88246349\", \"databaseId\": null, \"standardId\": \"144b85ad96c54473937cef7bd7d51d42\", \"standardCode\": \"GB/T 31721—2015\", \"standardName\": \"病媒生物控制术语与分类\", \"standardEnName\": \"Vector control terms and classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"2.2.1.22\", \"cnName\": \"入侵种\", \"enName\": \"invasive species\", \"publishTime\": \"2015-06-02\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"11.020\", \"ccs\": \"C05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19312, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"入侵种\", \"cnNameSearch\": \"入侵种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"invasive species\", \"wordSearch\": \"invasive species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由外地侵入或迁入的病媒昆虫种类。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"73ed05a483c54a648d4ca0d05cad9292\", \"databaseId\": null, \"standardId\": \"144b85ad96c54473937cef7bd7d51d42\", \"standardCode\": \"GB/T 31721—2015\", \"standardName\": \"病媒生物控制术语与分类\", \"standardEnName\": \"Vector control terms and classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"2.2.1.21\", \"cnName\": \"外来种\", \"enName\": \"exotic species\", \"publishTime\": \"2015-06-02\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"11.020\", \"ccs\": \"C05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19359, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"外来种\", \"cnNameSearch\": \"外来种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"exotic species\", \"wordSearch\": \"exotic species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"非本地原有的病媒昆虫种类。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"044ba9ea188e41868316d7c8fc5f1bed\", \"databaseId\": null, \"standardId\": \"144b85ad96c54473937cef7bd7d51d42\", \"standardCode\": \"GB/T 31721—2015\", \"standardName\": \"病媒生物控制术语与分类\", \"standardEnName\": \"Vector control terms and classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"2.2.1.19\", \"cnName\": \"地方种\", \"enName\": \"endemic species\", \"publishTime\": \"2015-06-02\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"11.020\", \"ccs\": \"C05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19395, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地方种\", \"cnNameSearch\": \"地方种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"endemic species\", \"wordSearch\": \"endemic species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"仅分布于某一地区的病媒昆虫种类。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9136dda565714893a6e1b9abd0130b1d\", \"databaseId\": null, \"standardId\": \"144b85ad96c54473937cef7bd7d51d42\", \"standardCode\": \"GB/T 31721—2015\", \"standardName\": \"病媒生物控制术语与分类\", \"standardEnName\": \"Vector control terms and classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"2.2.1.18\", \"cnName\": \"优势种\", \"enName\": \"dominant species\", \"publishTime\": \"2015-06-02\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"11.020\", \"ccs\": \"C05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19459, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"优势种\", \"cnNameSearch\": \"优势种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dominant species\", \"wordSearch\": \"dominant species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在一群落中数量最多或生物量最大的病媒昆虫种类。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e649150feda043309337524db4404d5a\", \"databaseId\": null, \"standardId\": \"4cfc1d967d7a4846bc21462e874f8e11\", \"standardCode\": \"GB/T 31799—2015\", \"standardName\": \"银毛龙葵检疫鉴定方法\", \"standardEnName\": \"Detection and identification of Solanum elaeagnifolium Cav.\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.5\", \"cnName\": \"近缘种\", \"enName\": \"relative species\", \"publishTime\": \"2015-07-03\", \"publishYear\": \"2015\", \"implementTime\": \"2015-11-27\", \"ics\": \"65.020.01\", \"ccs\": \"B16\", \"parentTermId\": null, \"titleId\": null, \"oid\": 80349, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"近缘种\", \"cnNameSearch\": \"近缘种\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"relative species\", \"wordSearch\": \"relative species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"一群亲缘关系相近的物种。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c444340e6cc040bcb719b2a7badd87e1\", \"databaseId\": null, \"standardId\": \"307e069144ca4a9ba2e57c45d7acb207\", \"standardCode\": \"GB/T 26423—2010\", \"standardName\": \"森林资源术语\", \"standardEnName\": \"Terminology of forest resources\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"6.7\", \"cnName\": \"树种组\", \"enName\": \"species group\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-06-01\", \"ics\": \"65.020.01\", \"ccs\": \"B60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51234, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"树种组\", \"cnNameSearch\": \"树种组\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"species group\", \"wordSearch\": \"species group\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在森林资源调查中,为统计汇总方便,而将生物学特征和生态学特点相似的树种归类合并而成的一类树种。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 3}}, \"timestamp\": 1794162230309}"
+}

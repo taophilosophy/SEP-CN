@@ -1,0 +1,124 @@
+{
+ "key": "truth-maker",
+ "term": "truth-maker",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-08T18:23:55+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=16",
+ "hits": [
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "code": "GB/T 5271.2—1988",
+   "standard": "数据处理词汇  02部分  算术和逻辑运算",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "发泡器",
+   "en": "foam maker",
+   "code": "GB 5107—2015",
+   "standard": "煤炭矿井设计防火规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "造雪机",
+   "en": "snow maker",
+   "code": "GB/T 42378—2023",
+   "standard": "大众滑雪运动项目基础术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "面条机",
+   "en": "pasta maker",
+   "code": "GB/T 30785—2014",
+   "standard": "食品加工设备术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "咖啡机",
+   "en": "coffee maker",
+   "code": "GB/T 30785—2014",
+   "standard": "食品加工设备术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "内装式制冰机",
+   "en": "incorporatedice-maker",
+   "code": "GB 4706.13—2014",
+   "standard": "家用和类似用途电器的安全制冷器具、冰淇淋机和制冰机的特殊要求",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "制冰机",
+   "en": "ice-maker",
+   "code": "GB 4706.13—2014",
+   "standard": "家用和类似用途电器的安全制冷器具、冰淇淋机和制冰机的特殊要求",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "燃气操作工",
+   "en": "gas maker",
+   "code": "GB/T 9987—2011",
+   "standard": "玻璃瓶罐制造术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "制版机",
+   "en": "plate maker",
+   "code": "GB/T 6159.6—2003",
+   "standard": "缩微摄影技术  词汇  第 6 部分: 设备",
+   "subject": "成像技术"
+  },
+  {
+   "cn": "制章者",
+   "en": "electronic seal maker",
+   "code": "GB/T 38540—2020",
+   "standard": "信息安全技术 安全电子签章密码技术规范",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "上垛机",
+   "en": "seed cotton stack maker",
+   "code": "GB/T 32139—2015",
+   "standard": "棉花加工术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "真值维护系统",
+   "en": "truth maintenance system",
+   "code": "GB/T 5271.28—2001",
+   "standard": "信息技术  词汇  第28部分:人工智能  基本概念与专家系统",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "智慧城市安全决策者",
+   "en": "smart city security decision maker",
+   "code": "GB/T 37971—2019",
+   "standard": "信息安全技术 智慧城市安全体系框架",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "制冰机的正常工作",
+   "en": "normal operation of an ice-maker",
+   "code": "GB 4706.13—2014",
+   "standard": "家用和类似用途电器的安全制冷器具、冰淇淋机和制冰机的特殊要求",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "真值表(表示数字变量间的关系)",
+   "en": "truth table(for a relation between digital variables)",
+   "code": "GB/T 17574—1998",
+   "standard": "半导体器件集成电路第2部分:数字集成电路",
+   "subject": "电子学"
+  },
+  {
+   "cn": "真值表（用于数字变量间的关系）",
+   "en": "truth table (for a relation between digital variables)",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2020\": 1, \"2019\": 1, \"2015\": 1, \"2014\": 5, \"2011\": 1, \"2003\": 1, \"2001\": 1, \"1998\": 1, \"1988\": 2, \"暂无年份\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 5, \"电子学\": 2, \"环保、保健和安全\": 3, \"成像技术\": 1, \"其它\": 1, \"信息技术、办公机械\": 4}, \"typeStats\": {\"7\": 16}, \"totalRecords\": 16, \"tmWordList\": [{\"id\": \"5e15c2cc41b84de5ab62307338057e63\", \"databaseId\": null, \"standardId\": \"e2b12b34d4f64d819bc2f63c2d2e37ce\", \"standardCode\": \"GB/T 5271.2—1988\", \"standardName\": \"数据处理词汇  02部分  算术和逻辑运算\", \"standardEnName\": \"Data processing——Vocabulary——Section 02:Arithmetic and logic operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"02.12.03\", \"cnName\": \"真值表\", \"enName\": \"truth table\", \"publishTime\": \"1988-12-10\", \"publishYear\": \"1988\", \"implementTime\": \"1989-07-01\", \"ics\": \"35.02035\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221682, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"真值表\", \"cnNameSearch\": \"真值表\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"truth table\", \"wordSearch\": \"truth table\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"逻辑运算的运算表。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"18b1c340c5864b15b2bdf6f4b5abac67\", \"databaseId\": null, \"standardId\": \"b0a56e11ccc64c7dae3b0f18263e0c8b\", \"standardCode\": \"GB 5107—2015\", \"standardName\": \"煤炭矿井设计防火规范\", \"standardEnName\": \"Code for design of prevention of mine fire in coal mines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.17\", \"cnName\": \"发泡器\", \"enName\": \"foam maker\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182061, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"发泡器\", \"cnNameSearch\": \"发泡器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"foam maker\", \"wordSearch\": \"foam maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将引入气源和含发泡剂的浆液充分混合而发泡的装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"03e9646d86d342d1b7313c66da285dd4\", \"databaseId\": null, \"standardId\": \"7b9b6de8d35042089a97dcfdc9c945c4\", \"standardCode\": \"GB/T 42378—2023\", \"standardName\": \"大众滑雪运动项目基础术语\", \"standardEnName\": \"Basic vocabulary for popular snow sports\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"5.3.3\", \"cnName\": \"造雪机\", \"enName\": \"snow maker\", \"publishTime\": \"2023-07-18\", \"publishYear\": \"2023\", \"implementTime\": \"2024-02-01\", \"ics\": \"01.040.97\", \"ccs\": \"Y 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 132023, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"造雪机\", \"cnNameSearch\": \"造雪机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"snow maker\", \"wordSearch\": \"snow maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在造雪系统终端，利用自然或人工冷环境，将高压水雾化制作成雪的设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"411a41818dd84f259b30bc3cfb61990a\", \"databaseId\": null, \"standardId\": \"227921b65844427bb66a165a60b4025f\", \"standardCode\": \"GB/T 30785—2014\", \"standardName\": \"食品加工设备术语\", \"standardEnName\": \"Glossary of food equipment terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.127\", \"cnName\": \"面条机\", \"enName\": \"pasta maker\", \"publishTime\": \"2014-07-08\", \"publishYear\": \"2014\", \"implementTime\": \"2014-12-01\", \"ics\": \"01.040.970\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 33075, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"面条机\", \"cnNameSearch\": \"面条机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pasta maker\", \"wordSearch\": \"pasta maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将生面团挤、压或成形为面条的设备。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"004c9831c5d249a0802d1506c61b1cc0\", \"databaseId\": null, \"standardId\": \"227921b65844427bb66a165a60b4025f\", \"standardCode\": \"GB/T 30785—2014\", \"standardName\": \"食品加工设备术语\", \"standardEnName\": \"Glossary of food equipment terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.27\", \"cnName\": \"咖啡机\", \"enName\": \"coffee maker\", \"publishTime\": \"2014-07-08\", \"publishYear\": \"2014\", \"implementTime\": \"2014-12-01\", \"ics\": \"01.040.970\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 33219, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"咖啡机\", \"cnNameSearch\": \"咖啡机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"coffee maker\", \"wordSearch\": \"coffee maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用于制作咖啡或类似热饮料的设备。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"caf73b4411564a86a83ff7e8af0b7822\", \"databaseId\": null, \"standardId\": \"c98bee5816914cee814afebca6968ba3\", \"standardCode\": \"GB 4706.13—2014\", \"standardName\": \"家用和类似用途电器的安全制冷器具、冰淇淋机和制冰机的特殊要求\", \"standardEnName\": \"Household and similar electrical appliances—Safety—Particular requirements for refrigerating appliances, ice-cream appliances and ice-makers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.104\", \"cnName\": \"内装式制冰机\", \"enName\": \"incorporatedice-maker\", \"publishTime\": \"2014-12-05\", \"publishYear\": \"2014\", \"implementTime\": \"2016-01-01\", \"ics\": \"13.12013\", \"ccs\": \"Y61\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202577, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内装式制冰机\", \"cnNameSearch\": \"内装式制冰机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"incorporatedice-maker\", \"wordSearch\": \"incorporatedice-maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"专门设计装人冷冻食品储藏室中，并没有独立冻水装置的制冰机。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"82e118aaee29483db1d4d2e24e08e5cd\", \"databaseId\": null, \"standardId\": \"c98bee5816914cee814afebca6968ba3\", \"standardCode\": \"GB 4706.13—2014\", \"standardName\": \"家用和类似用途电器的安全制冷器具、冰淇淋机和制冰机的特殊要求\", \"standardEnName\": \"Household and similar electrical appliances—Safety—Particular requirements for refrigerating appliances, ice-cream appliances and ice-makers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.103\", \"cnName\": \"制冰机\", \"enName\": \"ice-maker\", \"publishTime\": \"2014-12-05\", \"publishYear\": \"2014\", \"implementTime\": \"2016-01-01\", \"ics\": \"13.12013\", \"ccs\": \"Y61\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202592, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"制冰机\", \"cnNameSearch\": \"制冰机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ice-maker\", \"wordSearch\": \"ice-maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过消耗电能的装置使水冻结成冰并具有储冰间室的器具。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1df0ccc8b19f42a987da85a5d85b2df3\", \"databaseId\": null, \"standardId\": \"c533597bb6b5405e8d2ab8e1854db367\", \"standardCode\": \"GB/T 9987—2011\", \"standardName\": \"玻璃瓶罐制造术语\", \"standardEnName\": \"Glass contains—Manufacture—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.8.12\", \"cnName\": \"燃气操作工\", \"enName\": \"gas maker\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-09-01\", \"ics\": \"01.040.81；81.040.01\", \"ccs\": \"Y 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 197341, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"燃气操作工\", \"cnNameSearch\": \"燃气操作工\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"gas maker\", \"wordSearch\": \"gas maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"负责发生炉煤气工厂的工人,为窑炉提供燃气。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"690a8d60c9bf4cd1b76ea5d19972488b\", \"databaseId\": null, \"standardId\": \"052509871de64eba936750960355b3c2\", \"standardCode\": \"GB/T 6159.6—2003\", \"standardName\": \"缩微摄影技术  词汇  第 6 部分: 设备\", \"standardEnName\": \"Micrographics—Vocabulary—Part 6: Equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"成像技术\", \"termCode\": \"3.7.17\", \"cnName\": \"制版机\", \"enName\": \"plate maker\", \"publishTime\": \"2003-05-14\", \"publishYear\": \"2003\", \"implementTime\": \"2003-12-01\", \"ics\": \"37.080\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 3823, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"制版机\", \"cnNameSearch\": \"制版机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"plate maker\", \"wordSearch\": \"plate maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由<strong>缩微品（01）</strong>或其他信息源制作胶印版的装置\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7b8ae7f4014b44d8bc6c3e585956466b\", \"databaseId\": null, \"standardId\": \"c3254e5c86ec40599fb784e3d0c604b0\", \"standardCode\": \"GB/T 38540—2020\", \"standardName\": \"信息安全技术 安全电子签章密码技术规范\", \"standardEnName\": \"Information security technology-Technical specification secure electronic seal signature cryptography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.6\", \"cnName\": \"制章者\", \"enName\": \"electronic seal maker\", \"publishTime\": \"2020-03-06\", \"publishYear\": \"2020\", \"implementTime\": \"2020-10-01\", \"ics\": \"35.04035\", \"ccs\": \"L80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 196087, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"制章者\", \"cnNameSearch\": \"制章者\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"electronic seal maker\", \"wordSearch\": \"electronic seal maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"电子印章系统中具有电子印章制作和管理权限的机构。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>电子印章中的图像和相关信息应经制章者进行数字签名，电子印章中的制章者证书应是该机构的单位证书。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"24ce98a74ba64248900a919866585257\", \"databaseId\": null, \"standardId\": \"019e0025565749aa9bc561bb78c44b68\", \"standardCode\": \"GB/T 32139—2015\", \"standardName\": \"棉花加工术语\", \"standardEnName\": \"Terms of cotton processing\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1.8.1\", \"cnName\": \"上垛机\", \"enName\": \"seed cotton stack maker\", \"publishTime\": \"2015-10-09\", \"publishYear\": \"2015\", \"implementTime\": \"2016-05-01\", \"ics\": \"01.040.65\", \"ccs\": \"P85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 1067, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"上垛机\", \"cnNameSearch\": \"上垛机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"seed cotton stack maker\", \"wordSearch\": \"seed cotton stack maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将籽棉输送或吊运到棉垛上的机械。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c0130ffa62314763982c8945baae8d85\", \"databaseId\": null, \"standardId\": \"e736cc0658684d5288e44a7eeb228afc\", \"standardCode\": \"GB/T 5271.28—2001\", \"standardName\": \"信息技术  词汇  第28部分:人工智能  基本概念与专家系统\", \"standardEnName\": \"Information technology——Vocabulary——Part 28:Artificial intelligence——Basic concepts and expert system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"28.04.12\", \"cnName\": \"真值维护系统\", \"enName\": \"truth maintenance system\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228340, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"真值维护系统\", \"cnNameSearch\": \"真值维护系统\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"truth maintenance system\", \"wordSearch\": \"truth maintenance system\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"TMS(缩略语）\", \"cnNameSearch\": \"TMS(缩略语）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"TMS(abbreviation)\", \"wordSearch\": \"TMS(abbreviation)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种基于知识的系统，通过根据各信念之间的依赖性来维护知识库的真值。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>真值维护主要是删除导致矛盾的知识项。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"007ba65316a1466e8ea2fece0cf1ded3\", \"databaseId\": null, \"standardId\": \"ebbe0c5f81364b92997f841c1d5325fe\", \"standardCode\": \"GB/T 37971—2019\", \"standardName\": \"信息安全技术 智慧城市安全体系框架\", \"standardEnName\": \"Information security technology—Framework of smart city security system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.4  \", \"cnName\": \"智慧城市安全决策者\", \"enName\": \"smart city security decision maker\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-03-01\", \"ics\": \"35.04035\", \"ccs\": \"L80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 230648, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"智慧城市安全决策者\", \"cnNameSearch\": \"智慧城市安全决策者\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"smart city security decision maker\", \"wordSearch\": \"smart city security decision maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"负责智慧城市安全战略规划和关键策略决策的实体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7f8b4baf79524e01aa9f332e51197ee4\", \"databaseId\": null, \"standardId\": \"c98bee5816914cee814afebca6968ba3\", \"standardCode\": \"GB 4706.13—2014\", \"standardName\": \"家用和类似用途电器的安全制冷器具、冰淇淋机和制冰机的特殊要求\", \"standardEnName\": \"Household and similar electrical appliances—Safety—Particular requirements for refrigerating appliances, ice-cream appliances and ice-makers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.1.9.102  \", \"cnName\": \"制冰机的正常工作\", \"enName\": \"normal operation of an ice-maker\", \"publishTime\": \"2014-12-05\", \"publishYear\": \"2014\", \"implementTime\": \"2016-01-01\", \"ics\": \"13.12013\", \"ccs\": \"Y61\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202586, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"制冰机的正常工作\", \"cnNameSearch\": \"制冰机的正常工作\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"normal operation of an ice-maker\", \"wordSearch\": \"normal operation of an ice-maker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在5.7规定的环境温度下工作,供水的温度为15 ℃±2 ℃。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3be1e330ca21469aa20f445dcefc6007\", \"databaseId\": null, \"standardId\": \"463f446ad8df40c5acc15e4423a903bc\", \"standardCode\": \"GB/T 17574—1998\", \"standardName\": \"半导体器件集成电路第2部分:数字集成电路\", \"standardEnName\": \"Semiconductor devicesIntegrated circuitsPart 2:Digital integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"1.2.4  \", \"cnName\": \"真值表(表示数字变量间的关系)\", \"enName\": \"truth table(for a relation between digital variables)\", \"publishTime\": \"1998-11-17\", \"publishYear\": \"1998\", \"implementTime\": \"1999-06-01\", \"ics\": \"ICS 31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 73820, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"真值表(表示数字变量间的关系)\", \"cnNameSearch\": \"真值表(表示数字变量间的关系)\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"truth table(for a relation between digital variables)\", \"wordSearch\": \"truth table(for a relation between digital variables)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用表格来表示一个或多个数字自变量与一个或多个数字因变量之间的逻辑关系。即对于数字自变量值的每种可能的组合,给出相对应的数字因变量值的表示方法。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>将“功能表”和“真值表”区别开来是必要的,因为同一个数字电路可依据数字自变量对数字电参量赋值的任意选择,可以完成几种不同的逻辑操作。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e1717f3cf8fd474c8f9e72c7a3d670a3\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"2.1.1.10\", \"cnName\": \"真值表（用于数字变量间的关系）\", \"enName\": \"truth table (for a relation between digital variables)\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184947, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"真值表（用于数字变量间的关系）\", \"cnNameSearch\": \"真值表（用于数字变量间的关系）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"truth table (for a relation between digital variables)\", \"wordSearch\": \"truth table (for a relation between digital variables)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"一种用表格的形式给出一个或多个数字自变量与一个或多个数字因变量之间的逻辑关系；即对于数字自变量值的各种可能组合，能给出相对应的数字因变量值的表示方法。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>需要区分“功能表”与“真值表”，因为同一个数字电路可依据对数字电参量值任意选择的数字变量值完成几种不同的逻辑操作。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794162235294}"
+}

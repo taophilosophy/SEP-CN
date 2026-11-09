@@ -39,3 +39,19 @@
 **纪律**：籍属取「地区／民族＋领域」而非单一国籍（古典人物国籍难断）；年代一律拉丁数字，与「原文」列分离。
 
 **遗留**：队列 1586 条（主要为欧美近现代人物与日韩人名）。日／韩／藏人名的出生地与年代须逐条核页，不得据记忆填。
+
+## 2026-11-09 反向校对批（同人异形合并 8 组 + 同姓异人注 3 处）
+
+**指令**：用户「人名表再反向校对……必须联网核查，禁止虚构或推断」。
+
+**方法**：新工具 `script/rev_classify_20261109.py`——取「同一中文译法 ↔ 多个不同原文键」组，按词元集合（NFD 折叠、去逗号、casefold）判「同人异形」与「疑似异人同译」：65 组同人异形、27 组待核。
+
+**处置**
+
+1. **同人异形合并 8 组**（主形按 SUMMARY 定名/语料/首登记，别名入「亦作」，出处并双来源）：
+   `Mullā Ṣadrā`（SUMMARY 穆拉·萨德拉 ← 毛拉·萨德拉）、`al-Nayrīzī`（奈里齐 ← 纳里齐）、`Boyle, Robert`（SUMMARY 罗伯特·波义耳 ← 玻意耳）、`Eustachius a Sancto Paulo`（尤斯塔修斯 ← 欧斯塔基乌斯）、`Heinrich Scholz`（SUMMARY 海因里希·肖尔兹 ← 肖尔茨）、`Hintikka, Jaakko`（欣蒂卡 ← 保留英文形；并修年代列串位 `—；tarski-truth`）、`Melissus`（麦里梭 ← 墨利索斯）、`Otto von Bismarck`（全名 ← 俾斯麦）。
+2. **同姓异人注 3 处**（不合并，互指以免读者混淆）：Bruce Bridgeman ↔ Percy Bridgman（皆译“布里奇曼”）、Davidson, Maria ↔ Davidson, Donald（皆译“戴维森”）、Robert Brandon（生物学哲学）↔ Robert Brandom（推论主义，**拼写不同、确为两人**，非笔误）。
+3. **待核留队 2 处**：`Vidyānanda Pātrakesarisvāmin` 与 `Vidyānandin` 同译“毗提耶难陀”，登记行称“同一人异写”，学界另说为两人，须外源页核实后再定（本批未改）。
+4. 65 组「姓, 名 ↔ 名 姓」双形式**保留**（键分别匹配书目形与正文形，属登记册设计内别名链，relation 审计 2026-10-31 已定「良性同义形」）。
+
+**联网核查**：termonline-standard 对 al-Nayrīzī／Boyle／Melissus／Bismarck／Mulla Sadra／Hintikka／Bridgman／Eustachius 全部查无（人名不在标准库），故主形判定走 SUMMARY 定名与语料用形两档，逐条在案。

@@ -1,0 +1,26 @@
+{
+ "key": "imposition",
+ "term": "imposition",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-08T18:23:25+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "拼大版",
+   "en": "imposition",
+   "code": "GB/T 9851.9—2017",
+   "standard": "印刷技术术语 第9部分:书刊印刷术语",
+   "subject": "成像技术"
+  },
+  {
+   "cn": "拼大版",
+   "en": "imposition",
+   "code": "GB/T 9851.2—2008",
+   "standard": "印刷技术术语  第2部分: 印前术语",
+   "subject": "成像技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2017\": 1, \"2008\": 1}, \"sourceStats\": {\"成像技术\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"a6ec4a972b284704b0c48cd5a5f6b956\", \"databaseId\": null, \"standardId\": \"7dba3a832fc044cf84a36aadd227f5f0\", \"standardCode\": \"GB/T 9851.9—2017\", \"standardName\": \"印刷技术术语 第9部分:书刊印刷术语\", \"standardEnName\": \"Terminology of graphic technology—Part9:Terms for book and periodical printing\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"成像技术\", \"termCode\": \"3.6\", \"cnName\": \"拼大版\", \"enName\": \"imposition\", \"publishTime\": \"2017-12-29\", \"publishYear\": \"2017\", \"implementTime\": \"2018-07-01\", \"ics\": \"37.100.0137\", \"ccs\": \"A17\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133829, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"拼大版\", \"cnNameSearch\": \"拼大版\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"imposition\", \"wordSearch\": \"imposition\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按印版幅面或印后加工的要求，进行多页面或多联图案组合的处理方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 9851.2—2008\", \"sourceCode\": \"4.19\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9553aad2de194ade9ca7530fa5ee8f93\", \"databaseId\": null, \"standardId\": \"023f40f83f4f4f1f8aca99e5f7c73bd7\", \"standardCode\": \"GB/T 9851.2—2008\", \"standardName\": \"印刷技术术语  第2部分: 印前术语\", \"standardEnName\": \"Terminology of graphic technology - Part 2: Terms for prepress\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"成像技术\", \"termCode\": \"4.19\", \"cnName\": \"拼大版\", \"enName\": \"imposition\", \"publishTime\": \"2008-07-02\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"37.100.01\", \"ccs\": \"A17\", \"parentTermId\": null, \"titleId\": null, \"oid\": 1677, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"拼大版\", \"cnNameSearch\": \"拼大版\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"imposition\", \"wordSearch\": \"imposition\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"按印版幅面和印后加工的要求,进行多页面或多联图案组合的处理方法。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794162205519}"
+}

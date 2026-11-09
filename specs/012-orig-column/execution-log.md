@@ -117,3 +117,28 @@
 
 1. `rules/03-terminology.md` 第 34 行「登记格式（两登记册统一，五列）」待改为六列并说明原文列（阶段 4 与条文开关同批落地，或提前单独改条文）。
 2. 并行会话若按五列写表将致列错位——检查器有 `>6 列` 告警兜底，交接卡已列纪律。
+
+## 2026-11-09 拉丁原拼写批（15 行，证据＝语料共现）
+
+**方法**：`script/orig_latin_batch_20261109.py`——对「姓, 名」倒置的欧洲拉丁字母人名，构造自然序候选形式，在 `yuanwen/` 镜像与 A–Z 词条正文中检索**逐字共现**，命中方填；未命中留 `—`。
+
+| 键 | 原文 | 证据（首三处） |
+| ---- | ---- | ---- |
+| Biard, Joël | Joël Biard | yuanwen/a/al-farabi-logic.md 等 |
+| Bühler, Karl | Karl Bühler | yuanwen/f/feigl.md 等 |
+| Delacroix, Eugène | Eugène Delacroix | yuanwen/m/mental-imagery.md |
+| Hoernlé, Agnes Winifred | Agnes Winifred Hoernlé | yuanwen/l/langer.md; l/langer.md |
+| Malraux, André | André Malraux | yuanwen/a/aesthetics-existentialist.md 等 |
+| Möser, Justus | Justus Möser | yuanwen/a/august-rehberg.md |
+| Müller, Adam | Adam Müller | yuanwen/a/august-rehberg.md; yuanwen/h/hamann.md |
+| Schlözer, August Ludwig von | A.L. Schlözer | yuanwen/a/august-rehberg.md（源文作缩写形，照录） |
+| Melon, Jean-François | Jean-François Melon | yuanwen/e/economics-early-modern.md 等 |
+| Köhler, Wolfgang | Wolfgang Köhler | yuanwen/e/ehrenfels.md 等 |
+| Viète, François | François Viète | yuanwen/d/descartes-mathematics.md 等 |
+| Hoernlé, R.F.A. | R.F.A. Hoernlé | yuanwen/b/bosanquet.md; yuanwen/l/langer.md |
+| Thomsen Thörnqvist, Christina | Christina Thomsen Thörnqvist | yuanwen/s/simon-faversham.md |
+| LeMaître, Georges | Georges LeMaître | yuanwen/c/cosmology-30s.md |
+| Lao Tzu | 老子 | yuanwen/c/chinese-legalism.md 等（汉字正形） |
+
+* `Cinque (Joseph Cinqué)` 未填：语料仅见姓「Cinque」，全名「Joseph Cinqué」只见于键内括注——按「键列本体」档可采，但本批从严留待外源页核（记留队）。
+* 告警 179 → 175（同期并行会话亦在补行，净额以 `check_terms` 输出为准）。

@@ -292,3 +292,50 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 * 日文 11 行（逐条页内配对）：精舎(祇園精舎)、床の間、媚態（kotobank 大辞泉「び‐たい」）、意地、渋み（Wiktionary 渋い 条同族名词）、派手、地味、漢意（本居宣長条概念栏）、鬼神（kotobank「鬼神（読み）キジン」）、日本人論、大教宣布運動（ja.wikipedia 大教宣布）。
 * 朝鲜 4 行（登记册既有注记）：真興王、김일엽（金一葉）、成渾（牛溪）、韓元震。**首稿曾据汉字推谚文（진흥왕 等），自查违规已回退**——谚文仅保留注记已有者（김일엽），重申 012「禁转写推演」红线。
 * 留队 174 行：阿拉伯/波斯（约 120）、藏文 Wylie（约 35）、梵语（约 12）、希腊（约 7），均需逐词外源页配对，不得映射补齐。
+
+## 2026-11-09 接管批（TL-main-20261109）：复核既有译名 + 同键异译合并 + 反向校对 + 依据链核验
+
+**起点**：`check_terms` 硬错误 12（并行会话重复追加 10 行人名 + 2 行术语）、词汇表滞后 1（truth-maker）；术语在线匿名 `standardSearch` 实测可用（abduction/波义耳等返回 200）。
+
+### 一、同键异译合并（19 组 → 0 组，主形按语料多数/SUMMARY 定名/审定口径）
+
+| 键 | 合并为 | 判定依据 |
+| ---- | ---- | ---- |
+| abstractive cognition | 抽象认知（亦作“抽象认识”） | 语料 24 处/3 篇 vs 13 处/2 篇 |
+| intuitive cognition | 直观认知（亦作“直观认识”） | 语料 47 处/4 篇 vs 20 处/7 篇 |
+| divine ideas | 神圣理念（亦作“神圣观念”） | 神哲学通行；john-norris 用“观念”记涟漪待三校 |
+| excommunication | 绝罚（亦作“开除教籍”） | 原行已含亦作，合并 marsilius-padua 出处 |
+| positive law | 实在法（亦作“实定法”） | 语料 17 处/5 篇 vs 3 处/1 篇 |
+| truth-maker | 真值制造者（亦作“真理制造者”） | 与 truthmaker theory 真值制造理论 同族；词汇表同步后滞后 0 |
+| via moderna | 现代路线（亦作“近代之路”） | 两形各 1 篇，取字面直译 |
+| imposition | 命名（词项施加；亦作“设定”） | 同一 impositio 概念两译，合并 |
+| perfection | `perfection (Vollkommenheit)` 完善／`perfection (perfectio)` 完满性 | 沃尔夫—鲍姆嘉通 vs 笛卡尔—经院，**键加括注分义** |
+| schêma | `schêma (Kant)` 图型（亦作“图式”） | 与英文 `schema` 行（GB 标准库 schema=图式）分列 |
+| species | `species` 种／`species（经院认识论）` 种相 | telesio 行并入 crathorn 行（同义） |
+| doxographical tradition / doxography | `doxographical tradition` 学说史传统 | 与 `doxography` 学说汇编 拆键 |
+| ether; caloric | `ether` 以太／`caloric` 热质 | 合键拆分 |
+| innate knowledge | 天赋知识 | 与 a priori knowledge 先天知识 分义（反校撤“先天知识”别形） |
+| sophrosune | 节制（亦作“自制”“适度”） | 撤“明智”别形（与 phronesis 明智 撞车且语义不符） |
+
+### 二、人名表同人异形合并（8 组）与同姓异人注记（3 处）
+
+* 合并（主形按 SUMMARY 定名/语料/首登记）：`Mullā Ṣadrā`→穆拉·萨德拉（亦作“毛拉·萨德拉”）、`al-Nayrīzī`→奈里齐（亦作“纳里齐”）、`Boyle, Robert`→罗伯特·波义耳（亦作“玻意耳”，SUMMARY 定名）、`Eustachius a Sancto Paulo`→尤斯塔修斯（圣保罗的；亦作“欧斯塔基乌斯”）、`Heinrich Scholz`→海因里希·肖尔兹（亦作“肖尔茨”，SUMMARY 定名）、`Hintikka, Jaakko`→欣蒂卡（亦作 Hintikka，并修正年代列串位）、`Melissus`→麦里梭（亦作“墨利索斯”）、`Otto von Bismarck`→奥托·冯·俾斯麦（亦作“俾斯麦”）。
+* 同姓异人注（不合并）：Bruce Bridgeman ↔ Percy Bridgman（均作“布里奇曼”）；Davidson, Maria ↔ Davidson, Donald（均作“戴维森”）；Robert Brandon（生物学哲学）↔ Robert Brandom（推论主义）——三者均为不同人，注记互指。
+
+### 三、依据链核验（新工具，只报告）`script/evidence_audit3_20261109.py`
+
+* 口径：只看凭证中「英文同词命中」，比对登记译法；四类异常 A 声称一致无有效命中 / B 声称一致译法不合 / C 声称查无却有异域同名 / D 凭证缺失。
+* 结果：A=31、B=12、C=64、D=340、正常=564；清单 `results/evidence-anomalies-2026-11-09.tsv`。
+* B/C 抽样均属既有裁定的跨域同名（aretê→刃脊、epoché→历元、connectionism→连接机制、mechanism→机构/机理 等），保留现译；D 多为键改名/浏览器通道凭证命名差异所致，留待对账批。
+* 审计重跑：`term_audit` 5277 行 → 一致 261 / 不一致 104 / 查无 557 / 未查证 4355 / 维基 1（该 1 条为行内“已撤除维基引证”自述，误报）；104 条逐条复核无新真错，维持保留裁定。
+
+### 四、并行会话数据事故拦截
+
+* 并行合并脚本把 slug 写入「译法」列（7 行：Axiom of Choice、positive law、natural deduction、knowledge first、truth-maker、principle of bivalence、extension）→ `script/fix_slug_pollution_20261109.py` 修复（slug 移回「出处」、日期列复原），`check_terms` 滞后 2→0。
+* 教训重申：合并脚本的列位映射必须小样验证；`cells[2]` 与 `cells[3]` 混淆是第二次出现。
+
+### 五、术语在线查证（联网，>5s 节流，凭证入库）
+
+* `--provider termonline-standard --force`：abstractive cognition、intuitive cognition、divine ideas、excommunication、imposition、perfection、positive law、schema、species、truth-maker、via moderna（ok 9 / empty 2）+ Boyle、Melissus、Bismarck、Mulla Sadra、Hintikka、Bridgman、Eustachius（全 empty）。
+* 结论：GB 标准库对哲学词/人名基本查无（仅 schema=图式、species=种 有标准佐证），印证「标准库不作哲学否定证据」；审定库（termonline-all）需 token，本会话无 token，相关行依据维持既有凭证并如实标注。
+* 门禁：`check_all` 7/7 全绿；`check_terms` 硬错误 0、滞后 0；原文缺 175、人名缺籍属/生卒 2352（生成物）。
