@@ -2,7 +2,7 @@
   "slug": "davidson",
   "kind": "retranslate",
   "zh_doc": "d/davidson.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T05:21:41Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "D-main-20261110",
+      "at": "2026-11-09T23:29:57Z",
+      "evidence": "lq 账本 64 段填充完成（step1/step2 反思两步全异文，6 批 build 脚本落盘），守恒门通过（source 逐字符一致、marker/defs/$/** 硬门全绿、* 斜体溶解软旗 10 段留痕），compose 写回 16705 汉字正文（body 63 段+oir 1 段、书目 defs 90 条照录、References 现代制契约注记节保留）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "D-main-20261110",
+      "at": "2026-11-09T23:29:57Z",
+      "evidence": "对照核销：marker 8:8 顺序全等、defs 90:90 键集全等、节数 24:24、相关词条 15 条逐一对照 SUMMARY 定名无误（变异一元论/蒯因/塔尔斯基等按登记册）、Shnee 例句嵌套直引号 2 处修复、T 约定→约定 T 回改对齐既有登记行（5 处）、深怀特海病句实修"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "D-main-20261110",
+      "at": "2026-11-09T23:34:03Z",
+      "evidence": "check_prose --strict 89 条全实修清零（三轮 96 处外科替换：长句 45 拆分、的链 30 消解、被动 7 重组、弱动词 7 实改，逐条断言唯一命中，无豁免）；check_style --strict 清零（嵌套弯单引号 2 处去除）；check_academic --strict 无硬错误；check_math 无缺失无失衡；check_bold_collapse 家法无 ** 新增（源文无粗体，译文守恒）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "D-main-20261110",
+      "at": "2026-11-09T23:34:04Z",
+      "evidence": "三校收口：四检全绿（style/prose/academic/math），五项对账全过（marker 8:8 顺序全等、defs 90:90 键集全等、节数 24:24、年份 token 136/126 在带、汉字 16705）；术语补登 14 行（anomalism of the mental 心理的变异性/radical interpretation 彻底解释/principle of charity 慈善原则/triangulation 三角测量/holism 整体论/Swampman 沼泽人/omniscient interpreter 全知解释者/primary reason 首要理由/pro-attitude 肯定态度/holding true 视为真/conceptual scheme 概念图式/conceptual relativism 概念相对主义/indeterminacy of translation 翻译的非确定性/T-sentence T 句）与人名 5 行（伽达默尔/怀特海/卡特赖特/米德/詹姆斯·乔伊斯，Tolstoy 沿用既有行未重登）；check_terms 硬错误 0"
     }
   ],
   "blockers": [],

@@ -355,127 +355,173 @@ segments:
     kind: body
     source: |-
       ## 4. Knowledge and Belief
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. Knowledge and Belief
+    step2: |-
+      ## 4 知识与信念
   - id: 45
     kind: body
     source: |-
       ### 4.1 ‘Three Varieties of Knowledge’
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 ‘Three Varieties of Knowledge’
+    step2: |-
+      ### 4.1 《知识的三种类型》
   - id: 46
     kind: body
     source: |-
       In Davidson’s work the question ‘what is meaning?’ is replaced by the question ‘What would a speaker need to know to understand the utterances of another?’ The result is an account that treats the theory of meaning as necessarily part of a much broader theory of interpretation and, indeed, of a much broader approach to the mental as such. This account is holistic inasmuch as it requires that any adequate theory must address linguistic and non-linguistic behaviour in its entirety. As we have already seen, this means that a theory of interpretation must adopt a compositional approach to the analysis of meaning; it must recognise the interconnected character of attitudes and of attitudes and behaviour; and it must also attribute attitudes and interpret behaviour in a way constrained by normative principles of rationality. Rationality is not, however, the only principle on which Davidson’s account of radical interpretation depends. It involves, in fact, a marriage of both holistic and ‘externalist’ considerations: considerations concerning the dependence of attitudinal content on the rational connections between attitudes (‘holism’) and concerning the dependence of such content on the causal connections between attitudes and objects in the world (‘externalism’). Indeed, this marriage is evident, as we saw earlier, in the principle of charity itself and its combination of considerations of both ‘coherence’ and ‘correspondence’. Davidson holds, in fact, that attitudes can be attributed, and so attitudinal content determined, only on the basis of a triangular structure that requires interaction between at least two creatures as well as interaction between each creature and a set of common objects in the world.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在戴维森的著作中，“意义是什么？”这一问题被“说话者需要知道什么才能理解他人的话语？”所取代。其结果是一种把意义理论处理为更广的解释理论——实际上是更广的心理进路——之必要部分的说明。这一说明是整体论的，因为它要求任何充分的理论都必须就语言与非语言行为的整体立论。如前所见，这意味着解释理论必须对意义的分析采取组合性进路；必须承认态度之间以及态度与行为之间的互联品格；还必须以受理性之规范原则约束的方式归属态度、解释行为。然而，理性并不是戴维森彻底解释说明所依赖的唯一原则。它事实上是整体论与“外在主义”考量的联姻：既涉及态度内容对诸态度间理性联结的依赖（“整体论”），也涉及这种内容对态度与世间对象间因果联结的依赖（“外在主义”）。确实，正如我们先前所见，这一联姻显见于慈善原则本身及其对“融贯”与“符合”两种考量的结合。事实上，戴维森主张：态度之可归属、态度内容之可确定，只有在一个三角结构的基础上才可能，这一结构要求至少两个受造物之间的交互，以及每个受造物与世界中一组共同对象之间的交互。
+    step2: |-
+      在戴维森那里，“意义是什么？”一问被替换为：“说话者需要知道什么，方能理解他人的话语？”其结果是一种把意义理论处理为更广的解释理论——实言之，更广的心理进路——之必然部分的说明。此说明之为整体论的，在于它要求任何充分的理论必须就语言与非语言行为之全体立论。如前所见，这意味着解释理论必须对意义分析采取组合性进路；必须承认态度之间、态度与行为之间的互联品格；还必须以受理性之规范原则约束的方式归属态度、解释行为。然而，理性并非戴维森彻底解释说明所倚赖的唯一原则。此说明实为整体论与“外在主义”考量之联姻：既关涉态度内容对诸态度间理性联结的依赖（“整体论”），也关涉该内容对态度与世间对象间因果联结的依赖（“外在主义”）。诚如前文所见，此联姻显见于慈善原则本身——它把“融贯”与“符合”两种考量合于一炉。戴维森实又主张：态度之可归属、态度内容之可确定，唯在一个三角结构的基础上方为可能；此结构既要求至少两个受造物之间的交互，也要求每个受造物与世界中一组共同对象的交互。
   - id: 47
     kind: body
     source: |-
       Identifying the content of attitudes is a matter of identifying the objects of those attitudes, and, in the most basic cases, the objects of attitudes are identical with the causes of those same attitudes (as the cause of my belief that there is a bird outside my window is the bird outside my window). Identifying beliefs involves a process analogous to that of ‘triangulation’ (as employed in topographical surveying and in the fixing of location) whereby the position of an object (or some location or topographical feature) is determined by taking a line from each of two already known locations to the object in question – the intersection of the lines fixes the position of the object (this idea first appears in ‘Rational Animals [1982]). Similarly, the objects of propositional attitudes are fixed by looking to find objects that are the common causes, and so the common objects, of the attitudes of two or more speakers who can observe and respond to one another’s behaviour. In ‘Three Varieties of Knowledge’, Davidson develops the idea of triangulation as a means to elaborate the three-way conceptual interdependence that he argues obtains between knowledge of oneself, knowledge of others and knowledge of the world. Just as knowledge of language cannot be separated from our more general knowledge of the world, so Davidson argues that knowledge of oneself, knowledge of other persons and knowledge of a common, ‘objective’ world form an interdependent set of concepts no one of which is possible in the absence of the others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      确认态度的内容就是确认这些态度的对象，而在最基本的情形中，态度的对象与那些态度的原因是同一的（正如“我窗外有鸟”这一信念的原因就是我窗外的那只鸟）。确认信念涉及一个类似于“三角测量”（如在地形测量与定位中所用的）的过程：从一个已知的地点向所论对象各引一条线，由两条线的交点确定对象（或某地点、某地形特征）的位置（这一观念初见于《理性动物》[1982]）。类似地，命题态度的对象是如下确定的：寻找作为两个或多个能够观察并回应彼此行为的说话者之态度的共同原因的对象——从而这些对象也是共同的态度对象。在《知识的三种类型》中，戴维森发展了三角测量观念，以阐明他所论证的三向概念相互依赖：自我知识、他人知识与世界知识之间的相互依赖。正如语言知识不能与我们关于世界的更一般知识相分离，戴维森主张，自我知识、他人知识与一个共同的“客观”世界的知识构成一组相互依赖的概念，其中任何一个在其余缺位时都不可能。
+    step2: |-
+      确认态度的内容，就是确认这些态度的对象；而在最基本的情形里，态度的对象与那些态度的原因同一（正如“我窗外有鸟”这一信念的原因，就是我窗外那只鸟）。确认信念涉及一个类似于“三角测量”的过程（地形测量与定位中用的正是此法）：从两个已知地点各向所论对象引一条线，由两线之交点确定对象（或某地点、某地形特征）的位置（此观念初见于《理性动物》[1982]）。类似地，命题态度的对象这样确定：寻找这样一些对象，它们是两个或多个能彼此观察并回应对方行为的说话者之态度的共同原因，从而也是共同的态度对象。在《知识的三种类型》中，戴维森发展三角测量观念，借以阐明他所说的三向概念相互依赖：自我知识、他人知识与世界知识彼此依赖。正如语言知识无法同我们关于世界的更一般知识相分离，戴维森主张：自我知识、他人知识与一个共同的“客观”世界的知识构成一组互倚的概念，任何一者于其余缺位时皆不可能。
   - id: 48
     kind: body
     source: |-
       The idea of triangulation has important implications that go far beyond questions of knowledge alone, and the idea is one of the most important and enduring, but also controversial elements in Davidson’s later thinking (see Myers and Verheggen, 2016). Moreover, although the idea may appear at first sight to be intended purely as a metaphor, the structure of triangulation seems actually to direct attention to the way in which knowledge, action, and content are fundamentally dependent on the genuinely embodied and located character of speakers and agents. As Davidson presents matters, it is only through their concrete engagement in the world, in relation both to objects and to other speakers or agents, that a putative speaker or agent can be capable of genuine speaking or agency; only then can they speak, act, *or think*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      三角测量观念所蕴含的重要东西远远超出单纯的知识问题，而且这一观念是戴维森后期思想中最重要、最持久——但也最具争议——的要素之一（见 Myers and Verheggen, 2016）。此外，尽管这一观念初看似乎纯然是作为一种隐喻提出的，三角测量的结构实际上似乎把注意力引向这样一个方面：知识、行动与内容在根本上依赖于说话者与行动者真实的具身性与所处位置。按戴维森的表述，一个被认定的说话者或行动者只有通过其在世界中的具体介入——既与对象相关、又与其他说话者或行动者相关——才能拥有真正的言说或施动能力；唯有如此，他们才能言说、行动，或思想。
+    step2: |-
+      三角测量观念的意涵远出单纯的知识问题之外；这一观念是戴维森后期思想中最重要、最持久——却也最富争议——的要素之一（见 Myers and Verheggen, 2016）。再者，此观念初看似乎纯为一喻，而三角测量的结构实则把注意力引向这一点：知识、行动与内容在根本上依赖说话者与行动者真实的具身性与定位。照戴维森的表述，一个被认定的说话者或行动者，唯有通过其在世界中的具体介入——既对对象、又对其他说话者或行动者——方能拥有真正的言说或施动能力；唯有此时，他们才能言说、行动，或思想。
   - id: 49
     kind: body
     source: |-
       The emphasis on the holistic and externalist character of knowledge and of content that is so central to triangulation is also expressed in Davidson’s well-known ‘Swampman’ example (in ‘Knowing One’s own Mind’, Davidson 1987: 443–4) Here we are asked to imagine a situation in which a lightning strike in a swamp reduces Davidson’s body to its basic elements, while simultaneously transforming a nearby dead tree into an exact replica of him. Although the resulting ‘Swampman’ behaves exactly like the original author of ‘Radical Interpretation’, Davidson denies that the ‘Swampman’ could properly be said to have thoughts or its words have meaning – and the reason is simply that the Swampman would lack the sort of causal history that is required in order to establish the right connections between itself, others and the world that underpin the attribution of thought and meaning. For all its notoriety, however, the Swampman example is not elaborated upon by Davidson, and the example has a very limited usefulness. In this respect, the attention Swampman has generated is quite disproportionate to his extremely brief appearance in Davidson’s writing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对知识与内容之整体论与外在主义品格的强调——这对三角测量如此核心——也表达在戴维森著名的“沼泽人”（Swampman）例子中（见《认识自己的心灵》，Davidson 1987: 443–4）。在此我们被要求设想这样一个情形：一道闪电击中沼泽，把戴维森的身体化为其基本元素，同时把近旁一棵枯树转变为他的精确复制品。虽然所得的“沼泽人”表现得与《彻底解释》的原作者一模一样，戴维森却否认“沼泽人”可以被恰当地说成拥有思想、其语词拥有意义——理由很简单：沼泽人缺乏那种为建立其自身、他人与世界之间的正确联结所必需的因果历史，而对思想与意义的归属正以这些联结为基础。然而，尽管臭名昭著，沼泽人例子并未被戴维森展开，这个例子的用处也非常有限。就此而言，沼泽人引起的关注，与它在戴维森写作中的极短暂出场全然不成比例。
+    step2: |-
+      对知识与内容之整体论与外在主义品格的强调——此点对三角测量至关重要——也表达于戴维森那著名的“沼泽人”（Swampman）例子（见《认识自己的心灵》，Davidson 1987: 443–4）。我们在此被请去设想这样一个情形：一道闪电劈中沼泽，把戴维森的身体还原为其基本元素，同时把近旁一棵枯树变为他的精确复本。纵然这个“沼泽人”行止与《彻底解释》的原作者一般无二，戴维森却否认可以恰当地说“沼泽人”拥有思想、其语词拥有意义——理由至简：沼泽人缺乏那样一种因果历史，而要建立其自身、他人与世界之间的恰当联结——思想与意义之归属所系于其上的联结——这种历史必不可少。然而，沼泽人例子虽然声名远播，戴维森却未曾对它多加铺陈；此例的用处也极为有限。就此而言，沼泽人招致的关注，同它在戴维森笔下那极短暂的一现全然不成比例。
   - id: 50
     kind: body
     source: |-
       ### 4.2 Against Relativism and Scepticism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 Against Relativism and Scepticism
+    step2: |-
+      ### 4.2 反对相对主义与怀疑论
   - id: 51
     kind: body
     source: |-
       Although it is not simply an epistemological notion, the way Davidson presents the idea of triangulation tends to be such as to bring its epistemological implications to the fore. This is especially true of the way Davidson develops the idea in ‘Three Varieties of Knowledge’. Since our knowledge of our own minds is not independent of our knowledge of the world nor of our knowledge of others, so we cannot treat self-knowledge as a matter of our having access to some set of private ‘mental’ objects. Our knowledge of ourselves arises only in relation to our involvement with others and with respect to a publicly accessible world – as well as a history of such involvement (this is indeed part of the point of the Swampman example). Even so, we retain a certain authority over our own attitudes and utterances simply in virtue of the fact that those attitudes and utterances are indeed our own (see ‘First-Person Authority’, [1984]). Moreover, because our knowledge of the world is inseparable from other forms of knowledge, global epistemological scepticism (the view that all or most of our beliefs about the world could be false) turns out to be committed to much more than is usually supposed. Should it indeed turn out that our beliefs about the world were all, or for the most part, false, then this would not only imply the falsity of most of our beliefs about others, but it would also have the peculiar consequence of making false most of our beliefs about ourselves – including the supposition that we do indeed hold those particular false beliefs. Although this may fall short of demonstrating the falsity of such scepticism, it surely demonstrates it to be deeply problematic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      三角测量观念虽然不单纯是一个认识论概念，但戴维森提出这一观念的方式往往使其认识论含义凸显出来。戴维森在《知识的三种类型》中发展这一观念的方式尤其如此。既然我们对自己心灵的知识既不独立于我们关于世界的知识，也不独立于我们关于他人的知识，我们就不能把自我知识当作是我们通达某组私人“心理”对象这回事。我们关于自己的知识，只有联系于我们与他人的纠葛、相对于一个公共可及的世界——以及这种纠葛的历史——才会产生（这确实是沼泽人例子的部分要旨）。尽管如此，我们对自己的态度与话语仍然保有一定的权威，仅仅因为这些态度与话语确实是我们自己的（见《第一人称权威》[1984]）。此外，由于我们关于世界的知识与其他形式的知识不可分离，全球认识论怀疑论（即认为我们关于世界的全部或大部分信念都可能为假的观点）结果被证明比通常所设想的承诺了更多得多东西。假如我们关于世界的信念确实全部或大部分为假，那么这不仅蕴含我们关于他人之大多数信念为假，还会带来一个奇特的后果：使我们关于自己的大多数信念为假——包括我们确实持有那些特定假信念这一假定。虽然这或许不足以证明这类怀疑论为假，但它肯定表明这种怀疑论深有问题。
+    step2: |-
+      三角测量观念虽非单纯的认识论概念，戴维森提出它的方式却每每使其认识论含义凸显于前。戴维森在《知识的三种类型》中展开此观念的方式尤为如此。既然我们对自己心灵的知识既不独立于我们关于世界的知识、也不独立于我们关于他人的知识，我们便不能把自我知识当作通达某组私人“心理”对象之事。我们关于自己的知识，唯有联系于我们同他人的纠葛、相对于一个公共可及的世界——连同此种纠葛的历史——方能生出（此确为沼泽人例子的部分要旨）。尽管如此，我们对自己的态度与话语仍保有一定的权威，而这仅仅因为那些态度与话语确然是我们自己的（见《第一人称权威》[1984]）。再者，我们关于世界的知识既与其他形式的知识不可分，全局认识论怀疑论（即认为我们关于世界的全部或大部分信念皆可能为假之说）便被证明其所承诺者远逾常人设想。倘若我们关于世界的信念果真全部或大部分为假，那么这不仅蕴含我们关于他人之大多数信念为假，还将引出一个奇特的后果：令我们关于自己的大多数信念为假——包括“我们确然持有那些特定假信念”这一假定。此虽或不足以证明这类怀疑论为假，却足以表明它深成问题。
   - id: 52
     kind: body
     source: |-
       The way in which the Davidsonian rejection of scepticism does indeed derive quite directly from Davidson’s adoption of a holistic, externalist approach to knowledge, and to attitudinal content in general, has sometimes been obscured by Davidson’s presentation of his argument against scepticism through the employment (for the first time in ‘Thought and Talk’[1975]) of the rather problematic notion of an ‘omniscient interpreter’ (the idea echoes one deployed by Wilfrid Sellars in an essay with which Davidson was certainly familiar [Sellars, 1948]). Such an interpreter would attribute beliefs to others and assign meanings to their utterances but would nevertheless do so on the basis of her own (true) beliefs. The omniscient interpreter would therefore have to find a large amount of agreement between her own beliefs and the beliefs of those she interprets, and what was agreed would also, by hypothesis, be true. Like the Swampman example, however, the omniscient interpreter example has given rise to a number of complications and misunderstandings (so much so that Davidson has expressed regret at ever having deployed those examples in the first place), and although the omniscient interpreter appears at several places in Davidson’s writings, the idea disappears from his later discussions, and does not play a crucial role in his thinking.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      戴维森对怀疑论的拒斥确实相当直接地源于他对知识的整体论与外在主义进路（以及对态度内容一般的这种进路）的采纳；这一点有时被如下事实遮蔽：戴维森借“全知解释者”这一颇有问题的观念（在《思想与谈话》[1975]中首次使用；这一观念与 Wilfrid Sellars 在一篇戴维森肯定熟悉的文章[Sellars, 1948]中所用的观念相呼应）来提出他反对怀疑论的论证。这样一个解释者会把信念归属给他人、为其话语指派意义，但却是基于她自己的（真）信念来这样做。因此，全知解释者必须在她自己的信念与她所解释者的信念之间发现大量一致，而按假设，所一致的东西也都会是真的。然而，正如沼泽人例子一样，全知解释者的例子也引出了不少复杂与误解（以至于戴维森表示后悔当初使用这些例子）；虽然全知解释者在戴维森著作的多处出现，这一观念在他后来的讨论中消失了，在他的思想中也不扮演关键角色。
+    step2: |-
+      戴维森对怀疑论的拒斥，确实相当直接地出自他对知识、从而对态度内容一般所采的整体论与外在主义进路；但这一点时或被遮蔽，因为戴维森是借“全知解释者”这个颇成问题的观念（首见于《思想与谈话》[1975]；其构想与 Wilfrid Sellars 一篇戴维森必曾寓目的文章[Sellars, 1948]中所用者相呼应）来提出他反对怀疑论的论证。这样一个解释者会把信念归属给他人、为其话语指派意义，然其所依凭者却是她自己的（真）信念。故全知解释者必须在自己与她所解释者的信念之间觅得大量一致；而按假设，所一致者亦皆为真。然而，一如沼泽人之例，全知解释者之例也引出诸多纠缠与误解（以至于戴维森自悔当初竟动用这些例子）；尽管全知解释者数见于戴维森的著述，此观念在其后期讨论中已然消失，在其思想中亦无关键地位。
   - id: 53
     kind: body
     source: |-
       A feature of both the triangulation argument, and the Davidsonian account of radical interpretation, is that the attribution of attitudes must always proceed in tandem with the interpretation of utterances – identifying content, whether of utterances or of attitudes, is indeed a single project. An inability to interpret utterances (that is, an inability to assign meanings to instances of putative linguistic behaviour) will thereby imply an inability to attribute attitudes (and vice versa). A creature that we cannot interpret as capable of meaningful speech will thus also be a creature that we cannot interpret as capable of possessing contentful attitudes. Such considerations lead Davidson to deny that non-linguistic animals are capable of thought – where thought involves the possession of propositional attitudes such as beliefs or desires (see especially ‘Thought and Talk’). This does not mean that such animals have no mental life at all, nor does it mean that we cannot usefully use mental concepts in explaining and predicting the behaviour of such creatures. What it does mean, however, is that the extent to which we can think of such creatures as having attitudes and a mental life like our own is measured by the extent to which we can assign determinate propositional content to the attitudes we would ascribe to those creatures. A further consequence of this view is that the idea of an untranslatable language – an notion often found in association with the thesis of conceptual relativism – cannot be given any coherent formulation (Davidson’s argument here is suggestive, as Davidson notes, of a form of transcendental argumentation; see Davidson, 2001b: 72; but also Davidson, in Hahn, 1999: 342–4). Inability to translate counts as evidence, not of the existence of an untranslatable language, but of the absence of a language of any sort (see ‘On the Very Idea of a Conceptual Scheme’ [1974])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      三角测量论证与戴维森的彻底解释说明都有一个特点：态度的归属必须始终与话语的解释并驾齐驱——确认内容（无论是话语的内容还是态度的内容）确实是一项单一的事业。不能解释话语（即不能为推定的语言行为实例指派意义）将因此蕴含不能归属态度（反之亦然）。于是，一个我们不能解释为能够进行有意义言说的受造物，也就是一个我们不能解释为能够拥有有内容的态度的受造物。这类考虑使戴维森否认非语言的动物能够思想——这里的思想指拥有信念或欲望等命题态度（尤见《思想与谈话》）。这并不意味着这类动物完全没有心理生活，也不意味着我们不能在解释与预测这类生物的行为时有效地使用心理概念。然而它确实意味着：我们能在多大程度上把这些生物看作拥有与我们相像的态度与心理生活，是以我们能在多大程度上为我们将归属于那些生物的态度指派确定的命题内容来衡量的。这一观点的又一个后果是：不可翻译语言的想法——一个常与概念相对主义论题相连的想法——无法得到任何融贯的表述（正如戴维森所指出的，他在此的论证令人想到某种先验论证的形式；见 Davidson, 2001b: 72；另见 Davidson, in Hahn, 1999: 342–4）。不能翻译，其所证明的不是存在一种不可翻译的语言，而是根本没有任何语言（见《论概念图式这一观念本身》[1974]）
+    step2: |-
+      三角测量论证与戴维森的彻底解释说明共有一项特征：态度的归属必须始终与话语的解释并辔而行——确认内容（无论话语的内容抑或态度的内容）实为单一之事业。既不能解释话语（即不能为推定的语言行为实例指派意义），便随之不能归属态度（反之亦然）。于是，一个我们无法解释为能作有意义言说的受造物，也就是一个我们无法解释为能怀有具内容态度的受造物。此类考量使戴维森否认非语言的动物能思想——此处思想指拥有信念或欲望等命题态度（尤见《思想与谈话》）。这并非说此类动物全无心理生活，亦非说我们不能有效地借心理概念来解释与预测它们的行为；而是说：我们能把这些生物设想为拥有与我们相仿的态度与心理生活到何种程度，即以我们能对归于它们的态度指派何种确定的命题内容为度量。此说的又一后果是：不可翻译语言的想法——一个常与概念相对主义论题相系的想法——无法获得任何融贯的表述（戴维森自道，其论证于此令人想见某种先验论证之形式；见 Davidson, 2001b: 72；另见 Davidson, in Hahn, 1999: 342–4）。不可翻译，其所为证者，非有一不可翻译之语言存焉，乃根本无任何语言之谓也（见《论概念图式这一观念本身》[1974]）
   - id: 54
     kind: body
     source: |-
       ### 4.3 The ‘Third Dogma’ of Empiricism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 The ‘Third Dogma’ of Empiricism
+    step2: |-
+      ### 4.3 经验主义的“第三教条”
   - id: 55
     kind: body
     source: |-
       Davidson’s rejection of the idea of an untranslatable language (and the associated idea, also common to many forms of conceptual relativism, of a radically different, and so ‘incommensurable’ system of belief) is part of a more general argument that he advances (notably in ‘On the Very Idea of a Conceptual Scheme’) against the so-called ‘third dogma’ of empiricism. The first two dogmas are those famously identified by Quine in ‘Two Dogmas of Empiricism’ (first published in the *Philosophical Review*, in 1951). The first is that of reductionism (the idea that, for any meaningful statement, it can be recast in the language of pure sensory experience, or, at least, in terms of a set of confirmatory instances), while the second is the analytic-synthetic distinction (the idea that, with respect to all meaningful statements, one can distinguish between statements that are true in virtue of their meaning and those that are true in virtue of both their meanings and some fact or facts about the world). The rejection of both these dogmas can be seen as an important element throughout Davidson’s thinking. The third dogma, which Davidson claims can still be discerned in Quine’s work (and so can survive the rejection even of the analytic-synthetic distinction), consists in the idea that one can distinguish within knowledge or experience between a conceptual component (the ‘conceptual scheme’) and an empirical component (the ‘empirical content’) – the former is often taken to derive from language and the later from experience, nature or some form of ‘sensory input’. While there are difficulties in even arriving at a clear formulation of this distinction (particularly so far as the nature of the relation between the two components is concerned), such a distinction depends on being able to distinguish, at some basic level, between a ‘subjective’ contribution to knowledge that comes from us and an ‘objective’ contribution that comes from the world. What the Davidsonian account of knowledge and interpretation demonstrates, however, is that no such distinction can be drawn. Attitudes are already interconnected with objects and events in the world (causally, semantically and epistemically), whilst knowledge of self and others already presupposes knowledge of the world. The very idea of a conceptual scheme is thus rejected by Davidson along with the idea of any strong form of conceptual relativism. To possess attitudes and be capable of speech is already to be capable of interpreting others and to be open to interpretation by them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      戴维森拒绝不可翻译语言的想法（以及与之相伴、也为许多形式的概念相对主义所共有的想法：一个截然不同从而“不可通约”的信念系统），这是他所提出的一个更一般论证（尤其是在《论概念图式这一观念本身》中）的一部分，此论证针对所谓经验主义的“第三教条”。前两个教条是蒯因在《经验主义的两个教条》（1951 年初刊于《哲学评论》）中著名地指认的。第一个是还原论（认为任何有意义的陈述都可以改写为纯感觉经验的语言，或至少改写为一组确证实例），第二个是分析-综合区分（认为就一切有意义的陈述而言，可以区分凭意义为真的陈述与凭意义及世界的某个或某些事实为真的陈述）。对这两个教条的拒斥可以看作贯穿戴维森思想的一个重要因素。第三教条——戴维森声称它在蒯因的著作中仍可辨识（因而甚至能在分析-综合区分被拒斥之后幸存）——在于这样一种想法：可以在知识或经验之内区分一个概念性的成分（“概念图式”）与一个经验性的成分（“经验内容”）——前者常被认为源自语言，后者源自经验、自然或某种形式的“感觉输入”。尽管要得到这一区分的清晰表述都有困难（尤其就两个成分之间关系的性质而言），这样一种区分却依赖于能够在某个基本层面上区分：来自我们的对知识的“主观”贡献与来自世界的“客观”贡献。然而，戴维森关于知识与解释的说明所表明的是：这样的区分无从作出。态度已经与世间对象和事件互联（因果地、语义地与认识地），而自我知识与他人知识已经预设了世界知识。因此，戴维森连同任何强形式的概念相对主义观念一起，拒绝了概念图式这一观念本身。拥有态度并且能够言说，就已经能够解释他人并向他人的解释开放。
+    step2: |-
+      戴维森拒绝不可翻译语言的想法（连同与之相伴、亦为许多形式的概念相对主义所共有的想法：一个截然不同从而“不可通约”的信念系统），此拒斥是他所提出的一个更一般论证的组成部分（尤见《论概念图式这一观念本身》），所对者即所谓经验主义的“第三教条”。前两个教条，是蒯因在《经验主义的两个教条》（1951 年初刊于《哲学评论》[*Philosophical Review*]）中的著名指认。其一为还原论（谓任何有意义的陈述皆可改写为纯感觉经验之语言，或至少改写为一组确证实例）；其二为分析-综合之分（谓就一切有意义的陈述，可区分凭意义为真者与凭意义兼世界之某事实或诸事实为真者）。对这两个教条的拒斥，可视为贯穿戴维森思想的一条要线。至于第三教条——戴维森声称它于蒯因著作中仍可辨识（故而竟能于分析-综合之分遭拒之后犹存）——则在这样一种想法：可在知识或经验之内划出一个概念性的成分（“概念图式”）与一个经验性的成分（“经验内容”）——前者每每被认为出自语言，后者出自经验、自然或某种形式的“感觉输入”。且不论给这一区分一个清晰表述已然困难（两成分之间关系之性质尤甚），这样的区分还有赖于在某个基本层面上分开两种贡献：来自我们的对知识之“主观”贡献，与来自世界的“客观”贡献。然而戴维森关于知识与解释的说明所昭示者正是：这样的区分无从划出。态度早已与世间对象、事件互联（因果地、语义地与认识地），而自我知识与他人知识早已预设世界知识。于是，戴维森把概念图式这一观念本身，连同任何强形式的概念相对主义，一并拒之门外。拥有态度而能言说，便已能解释他人，亦向他人的解释敞开。
   - id: 56
     kind: body
     source: |-
       ### 4.4 Truth, Predication, and Realism/Anti-Realism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4 Truth, Predication, and Realism/Anti-Realism
+    step2: |-
+      ### 4.4 真理、谓述与实在论／反实在论
   - id: 57
     kind: body
     source: |-
       Davidson emphasizes the holistic character of the mental (both in terms of the interdependence that obtains between various forms of knowledge as well as the interconnected character of attitudes and of attitudes and behaviour). He has, at times, also referred to his position as involving a ‘coherence’ theory of truth and of knowledge (in ‘A Coherence Theory of Truth and Knowledge’ [1983]). Nevertheless, Davidson is not a coherentist, in any standard sense, about either truth or knowledge. Nor, for all that he adopts a Tarskian approach to meaning, does he espouse a correspondence theory of truth (in fact, he denies that a Tarskian truth theory is a correspondence theory in any conventional sense). In general, Davidson eschews the attempt to provide an account of the nature of truth, maintaining that truth is a central concept that cannot be reduced to or replaced by any other notion (see [Davidson 1990a] and [Davidson 2005b]). Since he takes truth to belong to sentences or statements, and not to ‘propositions’ in any philosophically significant sense (in *Truth and Predication* [2005b], he is particularly emphatic in rejecting the idea of the proposition as a theoretical or explanatory concept), Davidson denies that truths can be understood as timeless or eternal (or at least they are no more so than are languages or sentences themselves). The only way of defining truth, as Davidson sees it, is by means of a Tarskian truth theory and such a theory is not a definition of truth in any unqualified sense, but only a definition of the truth predicate as it applies within a particular language.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      戴维森强调心理的整体论品格（既就各种知识形式之间的相互依赖而言，也就态度之间、态度与行为之间的互联品格而言）。他也一度把自己的立场称作包含一种关于真理与知识的“融贯”论（在《真理与知识的融贯论》[1983]中）。然而，无论就真理还是知识而言，戴维森都不是任何标准意义上的融贯论者。而且，尽管他采用塔尔斯基式的意义进路，他也不拥护符合论的真理观（事实上，他否认塔尔斯基式真理理论是任何通常意义上的符合论）。总体而言，戴维森回避对真理之性质给出说明的企图，坚持认为真理是一个核心概念，不能被还原为任何其他概念，也不能被任何其他概念取代（见 [Davidson 1990a] 与 [Davidson 2005b]）。既然他把真理归属于语句或陈述，而不归属于任何哲学上有重要意义的“命题”（在《真理与谓述》[2005b]中，他特别强调拒绝把命题当作理论性或解释性概念的想法），戴维森便否认真理可以被理解为无时间的或永恒的（或者至少，真理并不比语言或语句本身更是如此）。照戴维森的看法，定义真理的唯一途径是塔尔斯基式真理理论，而这样的理论并不是任何无条件意义上的真理定义，只是真谓词在特定语言中如何适用的定义。
+    step2: |-
+      戴维森强调心理的整体论品格（既指诸知识形式之间的相互依赖，也指态度之间、态度与行为之间的互联）。他亦曾一度称其立场含有一套关于真理与知识的“融贯”论（见《真理与知识的融贯论》[1983]）。尽管如此，无论就真理还是知识，戴维森都不是任何标准意义上的融贯论者。他虽采塔尔斯基式的意义进路，却也不拥符合论的真理观（实则他否认塔尔斯基式真理理论是任何通常意义上的符合论）。大体而论，戴维森回避为真理之性质提供说明的企图，坚执真理乃一核心概念，既不可还原为任何其他概念，也不可为其所取代（见 [Davidson 1990a] 与 [Davidson 2005b]）。他既以真理属之于语句或陈述、而非属之于任何哲学上要紧意义的“命题”（在《真理与谓述》（*Truth and Predication*）[2005b]中，他尤着力拒斥把命题当作理论性或解释性概念的念头），便否认真理可被理解为无时间的或永恒的（或者至少：真理并不比语言或语句本身更无时间）。照戴维森之见，定义真理的唯一门径是塔尔斯基式真理理论，而这样的理论并非任何无条件意义下的真理定义，只是真谓词于特定语言中之适用的定义。
   - id: 58
     kind: body
     source: |-
       Davidson’s employment of the notion of coherence is best viewed, not as a way of understanding truth, but rather as reflecting his commitment to the fundamentally rational and holistic character of the mind. It also connects with Davidson’s rejection of those forms of epistemological foundationalism that would attempt to ground knowledge or belief in the sensory causes of belief – beliefs, as one might expect given Davidson’s holistic approach, can find evidential support only in other beliefs. Similarly, Davidson’s sometime employment of the notion of correspondence is best understood, not as providing, any direct elucidation of the nature of truth, but rather as deriving from his externalist commitment to the idea that the content of belief is dependent upon the worldly causes of belief. In ‘True to the Facts’ (1969b) Davidson does defend what he there presents as a form of correspondence theory of truth. However, not only does Davidson later relinquish the claim that his is a ‘correspondence’ view of truth (this is already evident in ‘The Structure and Content of Truth’ [1990a], much of the material from which was later incorporated into *Truth and Predication* [2005b]), but the account set out in ‘True to the Facts’ is, in any case, far removed from what is usually taken to be involved in any correspondence theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      戴维森对融贯概念的运用，最好不被看作一种理解真理的方式，而应被看作反映了他对心灵之根本理性性与整体论品格的坚持。它也与戴维森对某些形式的认识论基础主义的拒斥相关——那些基础主义试图把知识或信念奠基于信念的感觉原因之上；正如人们从戴维森的整体论进路可以预期的，信念只能在别的信念中找到证据支持。类似地，戴维森有时对符合概念的运用，最好也不被理解为直接阐明真理之性质，而应被理解为源自他的外在主义承诺：信念的内容依赖于信念的世间原因。在《忠于事实》（1969b）中，戴维森确实为他当时呈现为一种符合论真理观的观点作了辩护。然而，戴维森后来不仅放弃了自称持有“符合”真理观的主张（这在《真理的结构与内容》[1990a]中已很明显，其中大量材料后来被收入《真理与谓述》[2005b]），而且《忠于事实》所给出的说明，无论如何，也与通常被认为属于任何符合论的东西相去甚远。
+    step2: |-
+      戴维森对融贯概念的运用，最好不视为理解真理的一途，而应视为反映他对心灵之根本理性性与整体论品格的坚执。此点亦与戴维森对某些认识论基础主义形式的拒斥相连——那些基础主义想把知识或信念奠基于信念的感觉原因之上；而一如人们从戴维森的整体论进路所可预期，信念只能在别的信念中觅得证据支持。类似地，戴维森偶尔对符合概念的运用，最好也不解作对真理之性质的直接阐明，而应解作源自其外在主义承诺：信念的内容依赖于信念的世间原因。在《忠于事实》（1969b）中，戴维森确曾为他彼时所呈现的一种符合论真理观辩护。然而，戴维森后来非但放弃了自称持“符合”真理观的说法（此点在《真理的结构与内容》[1990a]中已然显明——其中大量材料后来收入《真理与谓述》[2005b]），而且《忠于事实》所陈的说明，无论如何也与通常归于任何符合论名下的东西相去甚远。
   - id: 59
     kind: body
     source: |-
       The strategy that Davidson employs in relation to the concept of truth reflects a more general approach that runs throughout his thinking. Rather than trying to reduce key concepts, like truth, to something else, his tendency is to retain the primitive character of those concepts and instead to look to how they are worked out within the larger structure to which they belong (in this respect, Davidson is a moderate ‘deflationist’ about most of his key concepts). The strategy Davidson adopts in respect of truth is therefore much the same strategy as that which he adopts with respect to meaning (which should not surprise us given the role Tarski plays): meaning belongs primarily to sentences, it is not reducible to any other notion, and it is explicated only by reference to a larger linguistic structure. Moreover, this strategy is also one Davidson applies to the topic that occupies a large part of his last work – his inquiry into the problem of the problem of predication or of the unity of the proposition (2005b). How are we to elucidate the relation between a subject and that which is predicated of it in a standard predicative sentence such as ‘Socrates is mortal’? The problem, like the problem that arises when one tries to use the truth predicate reflexively, is that any attempt to explicate the predicative relation seems to give rise to circularity or regress. Davidson’s solution is to deny that predication can be explained by resort to any prior notion of propositionality. Instead, Davidson takes predication as basic, irreducible, and able to be explicated only through the sort of structure that is revealed by a Tarski-style theory of meaning.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      戴维森处理真理概念所用的策略，反映出一条贯穿其思想的更一般进路。与其试图把真理这类关键概念还原为别的东西，他的倾向是保留这些概念的原始品格，转而考察它们在其所属的更大结构中如何得到落实（就此而言，戴维森对其大多数关键概念是一位温和的“紧缩论者”）。因此，戴维森处理真理的策略与他处理意义的策略大体相同（考虑到塔尔斯基所扮演的角色，这不足为奇）：意义首先属于语句，它不可还原为任何其他概念，只有参照更大的语言结构才能得到阐明。此外，这一策略也是戴维森用于占用其后期工作大部的那个主题的策略——他对谓述问题或命题统一性问题的探究（2005b）。在一个标准谓述句如“苏格拉底会死”中，我们如何阐明主词与谓述于其上者之间的关系？这个问题，正如试图反思性地使用真谓词时出现的问题一样，在于任何阐明谓述关系的企图似乎都会导致循环或倒退。戴维森的解决办法是否认谓述可以借助任何先行的命题性概念得到解释。相反，戴维森把谓述当作基本的、不可还原的，只有通过塔尔斯基式意义理论所揭示的那类结构才能得到阐明。
+    step2: |-
+      戴维森处理真理概念的策略，折射出一条贯穿其思想的更一般进路。与其把真理这类关键概念还原为别物，他宁可保留这些概念的原始品格，转而考察它们在其所属的更大结构中如何得以落实（就此而言，戴维森对其多数关键概念是位温和的“紧缩论者”）。故戴维森处理真理的策略，与他处理意义的策略大致同揆（念及塔尔斯基所扮演的角色，此不足怪）：意义首先属于语句，不可还原为任何其他概念，唯有参照更大的语言结构方能阐明。进而，戴维森把这一策略同样用于占其晚期工作之大宗的主题——谓述问题或命题统一性问题的探究（2005b）。在一个标准谓述句如“苏格拉底会死”中，我们要如何阐明主词与谓之于其上者之间的关系？此问题一如反思地使用真谓词时所生之问题：任何阐明谓述关系的企图似乎都堕入循环或倒退。戴维森的解法是拒绝谓述可借任何先行的命题性概念得到解释。相反，他视谓述为基本的、不可还原的，唯能借塔尔斯基式意义理论所揭示的那类结构加以阐明。
   - id: 60
     kind: body
     source: |-
       The question of truth lies at the heart of the realist/anti-realist controversy that was once a major concern of many Anglo-American philosophers. Despite his insistence on the indispensability of an irreducibly basic concept of objective truth, and his rejection of both sceptical and relativist positions, Davidson has been variously assimilated, at different times and by different critics, to both the realist and the anti-realist camps. Yet realism and anti-realism are equally unsatisfactory from a Davidsonian point of view, since neither is compatible with the holistic and externalist character of knowledge and belief. Realism makes truth inaccessible (inasmuch as it admits the sceptical possibility that even our best-confirmed theories about the world could all be false), while anti-realism makes truth too epistemic (inasmuch as it rejects the idea of truth as objective). In this respect, and as he himself makes clear (see 1990a, 2005b), Davidson does not merely reject the specific premises that underlie the realist and anti-realist positions but views the very dispute between them as essentially misconceived. This reflects a characteristic feature of Davidson’s thinking in general (and not just as it relates to realism and anti-realism), namely its resistance to any simple classification using the standard philosophical categories of the day.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      真理问题位于实在论／反实在论争论的中心，这场争论曾一度是许多英美哲学家的主要关切。尽管戴维森坚持客观真理这一不可还原的基本概念之不可或缺，并既拒斥怀疑论立场也拒斥相对主义立场，不同的批评者却在不同时期把他分别归入实在论与反实在论两个阵营。然而，从戴维森式的观点看，实在论与反实在论同样不能令人满意，因为两者都与知识与信念的整体论、外在主义品格不相容。实在论使真理不可通达（因为它承认这样一种怀疑论可能：甚至我们关于世界的得到最好确证的理论也可能全为假），反实在论则使真理过于认识论化（因为它拒绝把真理当作客观的观念）。就此而言，正如他本人明确指出的（见 1990a, 2005b），戴维森不只是拒绝实在论与反实在论立场各自的基础前提，而且把它们之间的争执本身看作根本误解。这折射出戴维森思想的一个总体特征（不仅限于与实在论和反实在论相关的方面）：拒斥用当代标准哲学范畴作的任何简单归类。
+    step2: |-
+      真理问题居于实在论／反实在论论争之心，这场论争曾一度为许多英美哲学家的主要关切。戴维森既坚执客观真理这一不可还原的基本概念不可或缺，又并拒怀疑论与相对主义两种立场；然而在不同的时期、由不同的批评者，他被时而归入实在论阵营，时而归入反实在论阵营。可从戴维森式的观点看，实在论与反实在论同样难乎为怀，因为两者皆与知识与信念之整体论、外在主义品格不相容。实在论令真理不可通达（它容许那样的怀疑论可能：甚至我们关于世界之得到最佳确证的理论亦可尽假）；反实在论则令真理过于认识论化（它拒绝把真理当作客观的观念）。就此而言，正如他本人明言（见 1990a, 2005b），戴维森非但拒绝实在论与反实在论两立场各自的基础前提，更把它们之间的争执本身看作根本误解。这折射出戴维森思想的一个总体特征（不限于其实在与反实在论相关的方面）：抗拒以当代标准哲学范畴作任何简单归类。
   - id: 61
     kind: body
     source: |-
       ## 5. Philosophical Contexts and Connections
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. Philosophical Contexts and Connections
+    step2: |-
+      ## 5 哲学语境与关联
   - id: 62
     kind: body
     source: |-
       Whilst Davidson’s work was at the centre of many analytic discussions during the 1970s and 1980s, it was also increasingly juxtaposed, from the mid-1980s onwards, with ideas and approaches from outside of the analytic mainstream –­ often to his own bemusement. “What am I doing here?” asks Davidson in his catalogue essay for the 1992 Robert Morris exhibition. “Blind Time Drawings IV: Drawing with Davidson”, and he goes on: “Nothing has surprised me more than to discover myself anthologized in books with titles such as *Post-Analytic Philosophy* or *After Philosophy*” (Davidson, 160; see Rajchman and West, 1985; Baynes, Bohman, McCarthy, 1987; Dasenbrock, 1993).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管戴维森的工作在二十世纪七八十年代居于许多分析讨论的中心，从八十年代中期起，他的工作也越来越多地被与分析主流之外的思想与进路并置——这常令他自己也感到困惑。“我在这里做什么？”戴维森在他为 1992 年罗伯特·莫里斯画展所写的图录文章《盲时画作之四：与戴维森一起作画》中如此发问，他接着说：“没有什么比发现自己被收入《后分析哲学》(*Post-Analytic Philosophy*)或《哲学之后》(*After Philosophy*)这类书名的文集更让我吃惊的了”（Davidson, 160；见 Rajchman and West, 1985; Baynes, Bohman, McCarthy, 1987; Dasenbrock, 1993）。
+    step2: |-
+      戴维森的工作虽在二十世纪七八十年代居于诸多分析讨论的中心，但自八十年代中期以降，也愈来愈多同分析主流之外的思想与进路并置一处——这每每令其本人亦感错愕。“我在这里做什么？”戴维森在为 1992 年 Robert Morris 画展所撰图录文章《盲时画作之四：与戴维森一起作画》（“Blind Time Drawings IV: Drawing with Davidson”）中如此自问，继而说道：“没有什么比发现自己被选入《后分析哲学》(*Post-Analytic Philosophy*)或《哲学之后》(*After Philosophy*)一类标题的文集更令我惊讶的了”（Davidson, 160；见 Rajchman and West, 1985; Baynes, Bohman, McCarthy, 1987; Dasenbrock, 1993）。
   - id: 63
     kind: body
     source: |-
       Part of the reason for this juxtaposition, as Davidson himself surmised, was to do with his “rejection of subjectivist theories of epistemology and meaning” and his affirmation of the view that “thought itself is essentially social” (Davidson, 160). Davidson’s work, alongside that of figures such as Dewey and Heidegger, was thus explicitly drawn upon by Richard Rorty in the elaboration of his own brand of pragmatist anti-representationalism (see Rorty, 1991, i). And although Davidson did not regard himself as a pragmatist (again reflecting his resistance to easy categorisation as well as his rejection of pragmatist theories of truth), he did acknowledge convergences between his work and that of figures within the pragmatist tradition, including C.I. Lewis and G.H. Mead. Hans-Georg Gadamer appeared to feel a sense of affinity with Davidson, recommending Davidson for the Hegel Prize in 1989, writing to him in the years after, and asking Davidson to contribute to his volume in the Library of Living Philosophers (see Davidson, 2005: 261–276; Gadamer, 1997) ­– although this did not prevent the two from misreading each other in crucial ways. Davidson’s interest in psychoanalysis, partly due to the influence of Marcia Cavell, can be seen in some of his writings on irrationality and weakness of the will, and the connections between aspects of Davidsonian and Freudian thinking are explored by Cavell herself (see Cavell, 1993). Various writers have taken up connections between the work of Davidson and that of Gadamer (see e.g. essays by Braver, Dostal, Fultner, Vessey, and Malpas, in Malpas, 2011: 147–190 & 219–279; see also Keane, 2021), as well as between Davidson and Heidegger (e.g. Malpas, 1992, 2012: 199–224; Wrathall, 1999; Nulty 2006; Okrent, in Malpas, 2011: 87–112)[^nulty-2006], and Davidson and Derrida (e.g. Dasenbrock, 1993; Wheeler, 2000; Wheeler in Malpas, 2011: 29–42). The role of a form of transcendental argumentation in Davidson has also been a focus for several discussions (see e.g. Maker, 1993; Carpenter, 2003), and has sometimes figured in broader explorations of connections between Davidson and Kant (see e.g. Goldberg 2015, also Fennell, 2010, and, in relation to the question of idealism, Haddock, 2011)[^goldberg-2015]. Davidson himself acknowledged the important influence of Wittgenstein in his work (on connections between the two see Verheggen, 2017; also Stoutland, in Malpas, 2011: 297–324) as well as exploring parallels between aspects of his thinking and that of various figures within the history of philosophy, most notably, Spinoza (Davidson, 2005: 295–313; see also Van der Burg, 2007) and Plato (2005: 223–260), as well as Aristotle (Davidson, 2005: 277–294) and Hume (Davidson, 2001: 277–290), and, if very briefly, Kant (Davidson, 2001: 207). Davidson’s early studies in the history of philosophy, undertaken, at Harvard, under the influence of A. N. Whitehead, and literature (Davidson retained an abiding interest in the work of James Joyce, see Davidson, 2005: 143–157; also Dasenbrock, 2002) provide an important if largely hidden background throughout his mature thinking.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种并置的部分原因，正如戴维森自己揣度的，与他“拒绝认识论与意义的主观主义理论”以及他肯定“思想本身本质上是社会性的”这一观点有关（Davidson, 160）。因此，Richard Rorty 在阐发他自己的实用主义反表象主义时，明确汲取了戴维森的著作，以及杜威、海德格尔等人的著作（见 Rorty, 1991, i）。虽然戴维森并不自视为实用主义者（这同样反映了他抗拒简单归类，以及他对实用主义真理理论的拒斥），但他确实承认自己的工作与实用主义传统中人物——包括 C.I. 刘易斯与 G.H. 米德——的工作之间存在合流。汉斯-格奥尔格·伽达默尔似乎对戴维森怀有亲近之感：他在 1989 年推荐戴维森获黑格尔奖，其后数年一直与戴维森通信，并请戴维森为《在世哲学家文库》中他那一卷撰稿（见 Davidson, 2005: 261–276; Gadamer, 1997）——不过这并未阻止两人在关键处彼此误读。戴维森对精神分析的兴趣（部分源于 Marcia Cavell 的影响）可见于他关于非理性与意志薄弱的一些文字；戴维森思想与弗洛伊德思想诸方面的关联，Cavell 本人亦有探讨（见 Cavell, 1993）。多位作者探讨了戴维森与伽达默尔著作之间的关联（例如见 Braver、Dostal、Fultner、Vessey 与 Malpas 的文章，载 Malpas, 2011: 147–190 及 219–279；另见 Keane, 2021），戴维森与海德格尔之间的关联（例如 Malpas, 1992, 2012: 199–224; Wrathall, 1999; Nulty 2006; Okrent, in Malpas, 2011: 87–112）[^nulty-2006]，以及戴维森与德里达之间的关联（例如 Dasenbrock, 1993; Wheeler, 2000; Wheeler in Malpas, 2011: 29–42）。一种先验论证形式在戴维森那里的角色，也是若干讨论的焦点（例如见 Maker, 1993; Carpenter, 2003），有时还出现在关于戴维森与康德之关联的更宽探索中（例如见 Goldberg 2015，亦见 Fennell, 2010，以及就观念论问题而言的 Haddock, 2011）[^goldberg-2015]。戴维森本人承认维特根斯坦对其工作的重要影响（关于两者的关联见 Verheggen, 2017；另见 Stoutland, in Malpas, 2011: 297–324），他也探索过自己思想的诸方面与哲学史上多位人物思想的平行之处：最著名的是斯宾诺莎（Davidson, 2005: 295–313；另见 Van der Burg, 2007）与柏拉图（2005: 223–260），还有亚里士多德（Davidson, 2005: 277–294）与休谟（Davidson, 2001: 277–290），以及（虽极简略）康德（Davidson, 2001: 207）。戴维森早年在哈佛——在 A. N. 怀特海的影响下——所受的哲学史与文学教育（戴维森对 James Joyce 的著作保持持久的兴趣，见 Davidson, 2005: 143–157；另见 Dasenbrock, 2002），为其成熟思想提供了一层重要却大体隐而不显的背景。
+    step2: |-
+      此种并置，其部分缘由——正如戴维森自己所推想——在于他“拒斥认识论与意义的主观主义理论”，并肯定“思想本身在本质上是社会性的”这一观点（Davidson, 160）。于是，Richard Rorty 在阐发其独门的实用主义反表象主义时，明确汲取了戴维森的著作，以及杜威与海德格尔诸家的著作（见 Rorty, 1991, i）。戴维森虽不自视为实用主义者（这再次映照出他对轻易归类的抗拒，以及他对实用主义真理理论的拒斥），却确实承认其工作同实用主义传统人物——包括 C.I. 刘易斯与 G.H. 米德——的工作之间有合流之处。汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer）对戴维森似怀亲近之感：他于 1989 年提名戴维森获黑格尔奖，其后数年与戴维森鱼雁往还，并请戴维森为《在世哲学家文库》中他主编的一卷撰稿（见 Davidson, 2005: 261–276; Gadamer, 1997）——虽然这并未阻止两人在关节处彼此误读。戴维森对精神分析的兴趣（部分得自 Marcia Cavell 的影响）见于他论非理性与意志薄弱的若干文字；戴维森思想与弗洛伊德思想诸方面之关联，Cavell 本人亦有探究（见 Cavell, 1993）。多位作者拾取了戴维森与伽达默尔著作之间的关联（例如见 Braver、Dostal、Fultner、Vessey 与 Malpas 诸文，载 Malpas, 2011: 147–190 及 219–279；另见 Keane, 2021），戴维森与海德格尔之间的关联（例如 Malpas, 1992, 2012: 199–224; Wrathall, 1999; Nulty 2006; Okrent, in Malpas, 2011: 87–112）[^nulty-2006]，以及戴维森与德里达之间的关联（例如 Dasenbrock, 1993; Wheeler, 2000; Wheeler in Malpas, 2011: 29–42）。某种先验论证形式在戴维森思想中的角色，亦是数场讨论的焦点（例如见 Maker, 1993; Carpenter, 2003），且时或见于对戴维森与康德之关联的更宽探索（例如见 Goldberg 2015，亦见 Fennell, 2010，以及就观念论问题而言的 Haddock, 2011）[^goldberg-2015]。戴维森本人承认维特根斯坦对其工作影响甚巨（关于二者的关联见 Verheggen, 2017；另见 Stoutland, in Malpas, 2011: 297–324）；他也探究过自己思想诸方面同哲学史上诸家思想的平行：最著者如斯宾诺莎（Davidson, 2005: 295–313；另见 Van der Burg, 2007）与柏拉图（2005: 223–260），尚有亚里士多德（Davidson, 2005: 277–294）与休谟（Davidson, 2001: 277–290），以及（虽仅一笔带过）康德（Davidson, 2001: 207）。戴维森早年在哈佛——怀特海（A. N. Whitehead）影响之下——所受的哲学史与文学熏习（他终其一生对 James Joyce 的作品保有持久的兴味，见 Davidson, 2005: 143–157；另见 Dasenbrock, 2002），为其成熟思想提供了一层重要而大体隐没不彰的底色。
   - id: 64
     kind: oir
     source: |-
       - Marc A. Joseph, ‘[Donald Davidson: Philosophy of Language](https://iep.utm.edu/donald-davidson-language/)’, *Internet Encyclopedia of Philosophy*, U. Tennessee/Martin.
       - Vladimir Kalugin, ‘[Donald Davidson: Mind and Action](https://iep.utm.edu/donald-davidson-mind-action/)’, *Internet Encyclopedia of Philosophy*, U. Tennessee/Martin.
       - Mark Silcox, ‘[Donald Davidson: Anomalous Monism](https://iep.utm.edu/donald-davidson-anomalous-monism/)’, *Internet Encyclopedia of Philosophy*, U. Tennessee/Martin.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Marc A. Joseph，[Donald Davidson：语言哲学](https://iep.utm.edu/donald-davidson-language/)，*Internet Encyclopedia of Philosophy*，田纳西大学马丁分校。
+      - Vladimir Kalugin，[Donald Davidson：心灵与行动](https://iep.utm.edu/donald-davidson-mind-action/)，*Internet Encyclopedia of Philosophy*，田纳西大学马丁分校。
+      - Mark Silcox，[Donald Davidson：变异一元论](https://iep.utm.edu/donald-davidson-anomalous-monism/)，*Internet Encyclopedia of Philosophy*，田纳西大学马丁分校。
+    step2: |-
+      - [Donald Davidson：语言哲学](https://iep.utm.edu/donald-davidson-language/)，Marc A. Joseph 撰，*Internet Encyclopedia of Philosophy*（互联网哲学百科全书），田纳西大学马丁分校。
+      - [Donald Davidson：心灵与行动](https://iep.utm.edu/donald-davidson-mind-action/)，Vladimir Kalugin 撰，*Internet Encyclopedia of Philosophy*（互联网哲学百科全书），田纳西大学马丁分校。
+      - [Donald Davidson：变异一元论](https://iep.utm.edu/donald-davidson-anomalous-monism/)，Mark Silcox 撰，*Internet Encyclopedia of Philosophy*（互联网哲学百科全书），田纳西大学马丁分校。
