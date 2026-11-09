@@ -2,7 +2,7 @@
   "slug": "stem-cells",
   "kind": "retranslate",
   "zh_doc": "s/stem-cells.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "S-trans-20261109a",
       "at": "2026-11-09T05:47:41Z",
       "evidence": "s3（三校，体例与登记）：`python script/s_gate.py stem-cells` 七项全绿（失败 0）。\n\n一、体例与格式\n- `tools/check_style.py s/stem-cells.md --strict`：0 issue（curly-quotes／bold-spacing／cjk-spacing／no-html／no-text-fence／no-asciiart／italic-cjk 全过）。\n- `tools/check_math.py stem-cells`：formulas 0，missing []，unbalanced []。\n- `tools/check_summary.py`：HARD ERRORS 0（H1 mismatch 0、alias fragment 0）。H1 取 SUMMARY 主行（第 881 行），未取别名行；同 slug 别名行（第 2541 行“——见生物医学伦理学…”）按 lq.py summary_title 规则排除。\n- 版本事实行与 baseline 一致：`*首次发表于 2008 年 4 月 25 日；2018 年 12 月 19 日实质修订。*`。\n- 斜体→粗体转换（`script/italic_to_bold_cjk.py`）：0 行（正文无中文强调斜体；源文斜体全部为拉丁术语 *in vitro*／*in utero*／*et al.*／*Homo sapiens*，按 rules/02 保留）。\n- 正文 `**` 计数 0（与源文同构，未擅自加粗）；脚注键逐段与源相等（lq.py check HARD=0 已证）。\n\n二、学术规范\n- `tools/check_academic.py --docs s/stem-cells.md --strict`：无硬错误（在途豁免 1，done 前转全量把关）。pubinfo／结构／脚注配对／文献照录说明均过。\n\n三、术语与人名登记（先登记后使用；单一事实源）\n- rowspec：`script/reg_stem-cells.json`（主批）＋`script/reg_stem-cells_b.json`（补 1 行）；经 `python script/s_reg.py` 应用（文件锁、幂等去重、六列/八列体例、原子写、写后复读校验通过）。\n- 术语登记 43 行：human embryonic stem cell (HESC) 人类胚胎干细胞、trophoblast 滋养层、inner cell mass 内细胞团、stem cell line 干细胞系、self-renewal 自我更新、cell differentiation 细胞分化、zygote 受精卵、monozygotic twinning 同卵孪生、numerical identity 数值同一、transitivity 传递性、individuation 个体化、right to life 生命权、social utility 社会效用、metaphysical guilt 形而上学罪责、moral taint 道德污点、epigenetic primordia 表观遗传原基、rational nature 理性本性、active disposition 主动倾向、intrinsic power 内在力量、spare embryos 剩余胚胎、in vitro fertilization (IVF) 体外受精、gamete 配子、stem cell bank 干细胞库、HLA types HLA 型、preimplantation genetic diagnosis (PGD) 植入前遗传学诊断、organoid 类器官、cerebral organoid 脑类器官、gastruloid 类原肠胚、gastrulation 原肠胚形成、synthetic embryo 合成胚胎、body plan 体型蓝图、afferent stimulation 传入刺激、phenomenal consciousness 现象意识、microcephaly 小头畸形、Zika virus 寨卡病毒、doctrine of double effect 双重效应原则、giftedness of life 生命的馈赠性、reproductive cloning 生殖性克隆、non-consequentialism 非后果主义、immune recognition 免疫识别、assisted reproductive technology 辅助生殖技术、egg donor 卵子捐赠者、chimera（生物医学语境）嵌合体。\n- 同键异义处置：既有键 `chimera` 已用于希腊神话义（客迈拉，中世纪逻辑例证），生物医学义另立编者括注键 `chimera（生物医学语境）`→嵌合体（与 SUMMARY 的 chimeras, human/non-human 人类/非人类嵌合体一致），不改既有行。\n- 人名登记 1 行：Sandel, Michael → 迈克尔·桑德尔（美国，1953–）。其余正文人名沿用既有登记（帕菲特／卡夫卡／奥威尔／德沃金）。\n- `tools/check_terms.py`：全局硬错误 0；本方 43 行经 `--docs s/stem-cells.md` 核销，无一条“正文缺登记译法”。\n\n四、相关词条（6 条，逐条对 SUMMARY 主行核对，无同题误配）\nabortion, ethics of→堕胎的伦理学；cloning→克隆；double effect, doctrine of→双重效应原则；ethics, biomedical: chimeras, human/non-human→人类/非人类嵌合体；parenthood and procreation→为人父母和生育；systems and synthetic biology, philosophy of→系统与合成生物哲学。未匹配 0 条（不造死链，站内链接待管线挂接，已按成例留译注）。\n\n五、语言（续 s2）\n`tools/check_prose.py s/stem-cells.md`：余 1 告警，为段 40 桑德尔直引内部“的”三连，已按 ADR-0020 在 s2 证据逐条豁免留痕。\n\n六、待留痕的工具现象（报 Lead）\n`check_terms.py --docs` 对本词条报 108 条“正文缺登记译法”，全部与本词条无关（主权／君权等政治学词域）。根因是工具匹配缺陷：登记册中 `first_seen` 形如 `s/sovereignty 首译（标题词）` 的行，按 `/` 切分得到单字母 token `s`，而命中判据 `d.endswith('%s.md' % s)` 对一切以 `s.md` 结尾的文档恒真，故全库该类行都被计入。本方 43 行无一条落入该告警。不作工具改动，报 Lead 处置。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:31:50Z",
+      "evidence": "# stem-cells − r1 evidence（评审线·结构对位与逐句回核，actor: S-rev-20261109）\n\n## 冷置说明\n本条由 S-trans 会话 2026-11-09 凌晨译毕（s3_checked 已存）；本会话晚间接手 S 批，先完成 saadya／sharpe／stebbing 三条翻译与评审后再回读本条，隔离 ≥3 条词条，满足冷置条款。\n\n## 结构对位（vs `yuanwen/s/stem-cells.md` 48 段）\n- h2 9:9、h3 5:5、`[^key]:` 定义 56:56、脚注引用 55:55、`$`/`**` 守恒。\n- 数字多重集：仅 `14–15`（源文页码/天数区间）在译侧写作「14—15」致多重集拆项，属标点体例，已在 r1 统一为「14–15」。\n\n## 逐句回核实修（6 处）\n1. **段 4（Minor）**：「14—15 天」→「14–15 天」——区间号统一（全库体例用 en dash）。\n2. **段 19（Major）**：`Dworkin l992, 84` → `Dworkin 1992, 84`——**源文误植小写 l**，参考文献区 `[^dworkin-1992]` 可证年份为 1992。\n3. **段 19（Major）**：`Devander 2005` → `Devolder 2005`——**源文误植**，文末键 `[^devolder-2005]` 与正文他处 `Devolder & Harris 2007` 可证。\n4. **段 4（Minor）**：「创造人与非人嵌合体」→「创造人类与非人类嵌合体」。\n5. **段 4（Minor）**：「克隆与人与非人嵌合体」→「克隆与人类／非人类嵌合体」（与相关词条名「人类/非人类嵌合体」一致）。\n6. **段 40（Minor）**：Sandel 引语「我们设计的对象、我们意志的产物、我们野心的工具」三连「的」→「我们设计、意志与野心的造物」，去 de-chain 且保三项并列义。\n\n## 论证链核销\n- §1.1 人从何时开始存在：受精卵说 → 同卵孪生反例（传递性论证）→「分裂不取消人性」的回应（帕菲特分裂思想实验）→ 同质细胞团说（第 16 天）→ 经验层面反驳（滋养层/内细胞团分化）；链条完整，年份 14–15 天／16 天对位。\n- §1.2 道德地位：物种成员说 → 高阶心智能力说（Kuhse/Singer、Tooley、Warren）→ 婴儿难题（Marquis、McMahan）→ 两种能力之辨（George & Gomez-Lobo）→ 潜能论证及其克隆反例（Sagan & Singer）→ 主动倾向说（Lee & George）→ 内在价值说（Dworkin）→ 注定毁灭胚胎两说；每处引注键与文末定义一一对应。\n- §2 共谋：因果责任 → 需求结构（Siegel 2004）→ 未来需求论（USCCB 2001）及其两难 → 象征性共谋（Burtchaell/May）→ 形而上学罪责。\n- §3–§5：为研究造胚、干细胞来源配子（PGD 选择）、类器官/类原肠胚/合成胚胎；相关词条与 1.1/1.2 的交叉引用（「还记得上文 1.1 节……」）指向正确。\n- 引文与数字：`in vitro` 第 5 天 200–250 细胞、30–34 细胞、16 天、四基因重编程、Sandel 2004, 56、Dworkin 1992, 84 等全部对位。\n\n## 判定\nCritical 0 / Major 2（两处源文误植年份与人名，按义校对） / Minor 4 → 实修后全绿，准予 r2。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:31:50Z",
+      "evidence": "# stem-cells − r2 evidence（评审线·语言复核，actor: S-rev-20261109）\n\n- `check_prose s/stem-cells.md`：r1 前 0 条；r1 改后出现 1 条 de-chain（Sandel 引语），已改写清除 → **0 条**。\n- `check_style --strict`：0 issue；本词条原文强调以 **粗体** 呈现（italic_to_bold 转换行数 0，说明成稿无中文斜体强调）。\n- 语言复核：伦理学术语（道德地位／生命权／潜能／共谋／双重效应／类器官／类原肠胚）全文一致；引文与转述分层清楚；长句均在阈值内。\n- 判定：准予 r3。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:31:50Z",
+      "evidence": "# stem-cells − r3 evidence（评审线·终审，actor: S-rev-20261109）\n\n- `s_gate stem-cells`：7 项全绿；`lq.py check`：48 段 HARD=0。\n- `check_academic --strict` 0 硬错误；`check_summary` HARD 0；`check_terms` 无本方冲突；`--docs` 0 疑似缺译法。\n- 结构：h2 9:9、h3 5:5、defs 56:56、脚注引用 55:55；相关词条 6 项全命中（堕胎的伦理学｜克隆｜双重效应原则｜人类/非人类嵌合体｜为人父母和生育｜系统与合成生物哲学）。\n- 终稿 21,602 字符 / 183 行；无补充材料。\n- 判定：**done**。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:32:50Z",
+      "evidence": "# stem-cells − done evidence（S-rev-20261109）\n\n- 终稿：`s/stem-cells.md` 21,602 字符 / 183 行；账本 48 段 HARD=0。\n- 门禁：`s_gate` 7 项全绿；`check_academic --strict` 0；`check_summary` HARD 0；`check_prose` 0；`check_math` 空。\n- 评审：r1 实修 6 处（Major 2：源文误植 l992→1992、Devander→Devolder），复检全绿。\n- 结构：h2 9:9、h3 5:5、defs 56:56、脚注 55:55、相关词条 6/6。"
     }
   ],
   "blockers": [],
