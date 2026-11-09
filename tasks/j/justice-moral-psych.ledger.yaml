@@ -1027,14 +1027,18 @@ segments:
     kind: body
     source: |-
       The idea, then, is that in a typical group there will be people who differ in their ratings on each of these five dimensions. Some, for instance, might be high on extraversion, which can be interpreted as involving an energetic approach towards social interaction manifested in, for instance, the behavior of attending more parties and introducing themselves to strangers (John et al. 2008: 120)[^john-2008]. Others might be quite introverted instead.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么，这个想法是：在一个典型的群体中，人们在这五个维度上的评分各有不同。例如，有些人可能在外向性上得分高，这可以解释为对社会互动采取精力充沛的进路，表现为更常参加聚会、向陌生人自我介绍等行为（John et al. 2008: 120）[^john-2008]。另一些人则可能相当内向。
+    step2: |-
+      这个思路是：一个典型群体里，人们在这五个维度上的评分各不相同。比如，有人在外向性上得分高，可以理解为对社会互动采取精力充沛的态度，表现为更爱参加聚会、主动向陌生人作自我介绍之类（John et al. 2008: 120）[^john-2008]；另一些人则可能相当内向。
   - id: 114
     kind: body
     source: |-
       Advocates of this approach typically have hierarchical models of personality traits in mind, where the Big Five are subdivided into different “facets” that are less broad and so are claimed to have increased accuracy (for details, see Paunonen 1998)[^paunonen-1998]. To cite one example, here are the 30 facets from Robert McCrae and Paul Costa’s version of the Five-Factor Model (Costa and McCrae 1995: 28)[^costa-1995]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一进路的拥护者通常心中想的是人格特质的层级模型：大五被细分为不同的“层面”，范围较窄，据称准确性更高（细节见 Paunonen 1998）[^paunonen-1998]。举一个例子，以下是 Robert McCrae 与 Paul Costa 版本的五因素模型中的 30 个层面（Costa and McCrae 1995: 28）[^costa-1995]：
+    step2: |-
+      这一进路的支持者通常设想的是人格特质的层级模型：大五再细分为一个个范围较窄的“层面”，据称准确度更高（细节见 Paunonen 1998）[^paunonen-1998]。举一例，下面是 Robert McCrae 与 Paul Costa 版本五因素模型的 30 个层面（Costa and McCrae 1995: 28）[^costa-1995]：
   - id: 115
     kind: body
     source: |-
@@ -1043,56 +1047,82 @@ segments:
       - Openness to Experience: Fantasy, Aesthetics, Feelings, Actions, Ideas, Values
       - Agreeableness: Trust, Straightforwardness, Altruism, Compliance, Modesty, Tender-Mindedness
       - Conscientiousness: Competence, Order, Dutifulness, Achievement Striving, Self-Discipline, Deliberation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 神经质：焦虑、愤怒敌意、抑郁、自我意识、冲动性、脆弱性
+      - 外向性：热情、乐群性、支配性、活跃性、寻求兴奋、正性情绪
+      - 经验开放性：幻想、审美、情感、行动、观念、价值
+      - 宜人性：信任、直率、利他、顺从、谦逊、心软
+      - 尽责性：胜任、条理、尽职、成就追求、自律、审慎
+    step2: |-
+      - 神经质：焦虑、愤怒敌意、抑郁、自我意识、冲动性、脆弱性
+      - 外向性：热情、乐群性、支配性、活跃性、寻求兴奋、正性情绪
+      - 经验开放性：幻想、审美、情感、行动、观念、价值
+      - 宜人性：信任、直率、利他、顺从、谦逊、心软
+      - 尽责性：胜任、条理、尽职、成就追求、自律、审慎
   - id: 116
     kind: body
     source: |-
       In their 240 item survey instrument, the NEO-PI-R, 8 items are designed to measure each of these facets. For instance, “I keep my belongings neat and clean” and “I like to keep everything in its place so I know just where it is” are two items for the consciousness facet of order (Costa and McCrae 1992: 73)[^costa-1992].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在他们 240 题的问卷工具 NEO-PI-R 中，每个层面设计 8 道题来测量。例如，“我保持自己的物品整洁干净”与“我喜欢把每样东西都放在固定位置，这样我就知道它在哪儿”是尽责性中“秩序”层面的两道题（Costa and McCrae 1992: 73）[^costa-1992]。
+    step2: |-
+      他们这套 240 题的问卷工具 NEO-PI-R，为每个层面各设计了 8 道题。例如，“我把自己的物品收拾得整整齐齐”“我喜欢每样东西都放在固定位置，这样我随时知道它在哪儿”，就是尽责性“秩序”层面下的两道题（Costa and McCrae 1992: 73）[^costa-1992]。
   - id: 117
     kind: body
     source: |-
       It is noteworthy that there is nothing on the list of Big Five traits or their facets that seems directly related to justice. But in recent years connections have been established between performance on economic games and the Big Five (for a review, see Zhao and Smillie 2015)[^zhao-2015]. The most pronounced finding among the Big Five traits is that higher agreeableness is correlated with higher allocations to the recipient in a dictator game. In one meta-analysis, the sample weighted average correlation was $r_{wa} = .18$. A negative correlation of $r_{wa} = -.10$ was also found for rejecting fewer offers in ultimatum games (Zhao and Smillie 2015: 288)[^zhao-2015]. Conscientiousness has also been linked to lower allocations in dictator games (Ben-Ner et al. 2004)[^ben-ner-2004]. Studies on the other Big Five traits have been more inconsistent in their results, and are also few and far between (see also Ben-Ner and Kramer 2011)[^ben-ner-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得注意的是，大五特质或其层面的清单上，没有任何东西看起来与正义直接相关。但近年来，经济博弈中的表现与大五之间已建立起联系（综述见 Zhao and Smillie 2015）[^zhao-2015]。大五特质中最显著的发现是：宜人性越高，独裁者博弈中给受赠者的分配越高。在一项元分析中，样本加权平均相关系数为 $r_{wa} = .18$。在最后通牒博弈中拒绝更少出价方面，也发现了 $r_{wa} = -.10$ 的负相关（Zhao and Smillie 2015: 288）[^zhao-2015]。尽责性也与独裁者博弈中更低的分配额相关（Ben-Ner et al. 2004）[^ben-ner-2004]。关于其他大五特质的研究结果更不一致，而且相当零散（另见 Ben-Ner and Kramer 2011）[^ben-ner-2011]。
+    step2: |-
+      值得注意的是，大五特质及其层面的清单上，似乎没有哪一项与正义直接相关。但近几年，经济博弈中的表现与大五之间已经建立起联系（综述见 Zhao and Smillie 2015）[^zhao-2015]。大五诸特质中最醒目的发现是：宜人性越高，独裁者博弈中给受赠者的分配越多。一项元分析给出的样本加权平均相关系数为 $r_{wa} = .18$；在最后通牒博弈中拒绝更少出价方面，则出现 $r_{wa} = -.10$ 的负相关（Zhao and Smillie 2015: 288）[^zhao-2015]。尽责性也被联系到独裁者博弈中更低的分配额（Ben-Ner et al. 2004）[^ben-ner-2004]。其余大五特质的研究结果更不一致，研究本身也零零星星（另见 Ben-Ner and Kramer 2011）[^ben-ner-2011]。
   - id: 118
     kind: body
     source: |-
       *The HEXACO*. Michael Ashton and Kibeom Lee have proposed a six-factor model of personality (Ashton & Lee 2001, 2005 and Lee & Ashton 2004)[^ashton-2001][^lee-2004]. Five of the factors carry over with minor modifications from the Big Five taxonomy. The key addition is a sixth factor which they call honesty-humility, and which they describe this way:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *HEXACO*。Michael Ashton 与 Kibeom Lee 提出了一个六因素人格模型（Ashton & Lee 2001, 2005 与 Lee & Ashton 2004）[^ashton-2001][^lee-2004]。其中五个因素经小幅修改后承自大五分类法。关键的增补是第六个因素，他们称之为诚实-谦逊，并这样描述它：
+    step2: |-
+      **HEXACO**。Michael Ashton 与 Kibeom Lee 提出了六因素人格模型（Ashton & Lee 2001, 2005；Lee & Ashton 2004）[^ashton-2001][^lee-2004]。其中五个因素经小幅修改后沿用大五分类法，关键的增补是第六个因素——他们称之为诚实-谦逊，并作了如下描述：
   - id: 119
     kind: body
     source: |-
       > Persons with very high scores on the Honesty-Humility scale avoid manipulating others for personal gain, feel little temptation to break rules, are uninterested in lavish wealth and luxuries, and feel no special entitlement to elevated social status. Conversely, persons with very low scores on this scale will flatter others to get what they want, are inclined to break rules for personal profit, are motivated by material gain, and feel a strong sense of self-importance. (Lee & Ashton 2015, Other Internet Resources).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在诚实-谦逊量表上得分很高的人，避免为私利操纵他人，几乎不觉得有违反规则的诱惑，对奢华财富与奢侈品不感兴趣，也不觉得自己对社会地位的提升享有特殊资格。反过来，在这一量表上得分很低的人，会为了得到想要的东西而奉承他人，倾向于为个人利益违反规则，受物质收益驱动，并且有很强的自我重要感。（Lee & Ashton 2015, Other Internet Resources）
+    step2: |-
+      > 诚实-谦逊得分很高的人，不会为私利去操纵别人，也很少受违反规则的诱惑；他们对奢华财富与奢侈品毫无兴趣，也不觉得自己理应享有高人一等的社会地位。反过来，得分很低的人则会奉承他人以得到想要的东西，倾向为个人好处而犯规，受物质利益驱动，自我重要感极强。（Lee & Ashton 2015, Other Internet Resources）
   - id: 120
     kind: body
     source: |-
       Honesty-humility in turn has four facets: sincerity, fairness, greed avoidance, and modesty. Most relevant for our purposes is naturally the fairness facet. As part of the 100-item HEXACO-PI-R inventory, the following are the items which are labeled under fairness:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诚实-谦逊又有四个层面：真诚、公平、厌贪与谦逊。对我们而言最相关的自然是公平层面。在 100 题的 HEXACO-PI-R 问卷中，以下是标在公平名下的题目：
+    step2: |-
+      诚实-谦逊之下有四个层面：真诚、公平、厌贪、谦逊。与本文最相关的自然是公平这个层面。100 题的 HEXACO-PI-R 问卷中，归在“公平”名下的题目如下：
   - id: 121
     kind: body
     source: |-
       **12.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **12.**
+    step2: |-
+      **12.**
   - id: 122
     kind: body
     source: |-
       If I knew that I could never get caught, I would be willing to steal a million dollars.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我知道自己永远不会被抓到，我愿意去偷一百万美元。
+    step2: |-
+      要是我知道自己绝不会被抓，我会愿意去偷一百万美元。
   - id: 123
     kind: body
     source: |-
       **36.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **36.**
+    step2: |-
+      **36.**
   - id: 124
     kind: body
     source: |-
