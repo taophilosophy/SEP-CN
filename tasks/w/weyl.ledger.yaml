@@ -2123,158 +2123,210 @@ segments:
     kind: body
     source: |-
       For a Riemannian type of metric structure the congruent linear maps of the tangent space T$(M_{p})$ onto itself form a group $G_{p}$ which is isomorphic to the orthogonal group $O(n)$. The Pythagorean-Riemannian metric at $p$ is therefore determined through the concrete realization of the *orthogonal* group at $p$ which leaves the fundamental quadratic differential form at $p$ invariant. Thus the Pythagorean-Riemannian *type* of metric is characterized by the abstract microsymmetry group $O(n)$. For a metric which is not of the Pythagorean-Riemannian metric type, the abstract microsymmetry group $G_{p}$ will be different from $O(n)$ and will be some other subgroup of $GL(n)$. At each point of the manifold the microsymmetry group will be a concrete realization of this subgroup of $GL(n)$. Weyl now states what he calls
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于黎曼型的度量结构，切空间 T$(M_{p})$ 到自身的全等线性映射构成一个同构于正交群 $O(n)$ 的群 $G_{p}$。因此，$p$ 处的毕达哥拉斯—黎曼度规，是通过*正交*群在 $p$ 处的具体实现——即保持 $p$ 处基本二次微分形式不变者——而被确定的。于是，毕达哥拉斯—黎曼的度量*类型*，由抽象微对称群 $O(n)$ 所刻画。对于并非毕达哥拉斯—黎曼度量类型的度量，抽象微对称群 $G_{p}$ 将不同于 $O(n)$，而是 $GL(n)$ 的某个别的子群。在流形的每一点，微对称群都将是 $GL(n)$ 这一子群的一个具体实现。外尔由此陈述他所称的
+    step2: |-
+      就黎曼型度量结构而言，切空间 T$(M_{p})$ 到自身的全等线性映射成一集团 $G_{p}$，同构于正交群 $O(n)$。故 $p$ 处之毕达哥拉斯—黎曼度规，系通过*正交*群在 $p$ 处的具体实现（即保持 $p$ 处基本二次微分形式不变者）而确定。于是，毕达哥拉斯—黎曼之度量*类型*，以抽象微对称群 $O(n)$ 为标志。若度量非毕达哥拉斯—黎曼类型，则抽象微对称群 $G_{p}$ 异于 $O(n)$，而为 $GL(n)$ 之某一他子群；于流形每一点，微对称群皆为此 $GL(n)$ 子群之具体实现。外尔乃陈述其所称之
   - id: 238
     kind: body
     source: |-
       **The Postulate of Freedom:** If only the *nature* (of whatever type) of the metric is specified, that is, if only the corresponding abstract microsymmetry group $G_{p}$ is specified, and the metric in question is otherwise left arbitrary, then the *mutual orientations* of the corresponding microsymmetry groups at different points are also left arbitrary.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **自由公设：** 如果只指定度规的*本性*（无论何种类型），也就是只指定相应的抽象微对称群 $G_{p}$，而所论度规在其他方面留作任意，那么相应微对称群在不同点处的*相互定向*也留作任意。
+    step2: |-
+      **自由公设：** 若仅指定度规之*本性*（不问其为何种类型），即仅指定相应之抽象微对称群 $G_{p}$，而所论度规余皆任之，则相应微对称群于不同点处之*相互定向*亦任之。
   - id: 239
     kind: body
     source: |-
       Weyl emphasizes that the *Postulate of Freedom* provides the general framework for a concise formulation of
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔强调，*自由公设*为简洁地表述下述命题提供了总的框架：
+    step2: |-
+      外尔强调：*自由公设*为如下命题之简洁表述提供了总框架：
   - id: 240
     kind: body
     source: |-
       **The Hypothesis of Dynamical Geometry:** Whatever the nature or type of the metric may be—provided it is the same everywhere—the variations in the *mutual orientations* of the concrete microsymmetry groups from point to point are causally determined by the material content that fills space.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **动力学几何假设：** 无论度规的本性或类型如何——只要处处相同——具体微对称群的*相互定向*在点与点之间的变化，都由充盈空间的物质内容因果地决定。
+    step2: |-
+      **动力学几何之假设：** 度规之本性或类型无论如何——但须处处相同——具体微对称群之*相互定向*自点至点的变化，皆由充盈空间之物质内容因果地决定。
   - id: 241
     kind: body
     source: |-
       In contrast with Helmholtz’s analysis, which presupposes the homogeneity of space, the *Postulate of Freedom* allows for the possibility of replacing Helmholtz’s homogeneity requirement with the possibility of subjecting the metric field to arbitrary, infinitesimal change. *To assert this dynamical possibility does not require that the nature of the metric be specified*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与预设空间齐性的赫尔姆霍兹分析相对照，*自由公设*容许以度规场可受任意无穷小变化这一可能性，来取代赫尔姆霍兹的齐性要求。*断定这一动力学可能性，并不要求指定度规的本性*。
+    step2: |-
+      赫尔姆霍兹之分析预设空间齐性；*自由公设*则另辟可能：以度规场可受任意无穷小变化来取代齐性要求。*承认此种动力学可能性，无须指定度规之本性*。
   - id: 242
     kind: body
     source: |-
       Next, Weyl points out that what has been provided so far is merely an explication of the concepts *metric*, *length* *connection* and *symmetric linear connection*. Some claim which goes beyond conceptual analysis has to be made, according to Weyl, in order to prove that among the various types of possible metrical structures that can be put on a differentiable manifold representing physical space, the Pythagorean-Riemannian form is unique. Weyl suggests the following hypothesis:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      接下来，外尔指出，迄今所提供的仅仅是*度规*、*长度联络*与*对称线性联络*这些概念的阐明。按外尔之说，为了证明在一切可以赋予代表物理空间的可微流形的可能度量结构类型中，毕达哥拉斯—黎曼形式是唯一的，就必须作出某种超出概念分析的主张。外尔提出如下假设：
+    step2: |-
+      外尔继而指出：上文所陈，不过是对*度规*、*长度联络*、*对称线性联络*诸概念之阐明。依其说，欲证在可赋予“代表物理空间的可微流形”的种种可能度量结构类型中毕达哥拉斯—黎曼形式为唯一，尚须作出超乎概念分析之主张。于是他提出如下假设：
   - id: 243
     kind: body
     source: |-
       **Weyl’s Hypothesis:** Whatever determination the essentially free length connection at some point $p$ of the manifold may realize with the points in its infinitesimal neighborhood, there always exists among the possible systems of parallel displacements of the tangent space $T(M_{p})$, one and only one, which is at the same time a system of infinitesimal *congruent transport*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **外尔的假设：** 无论流形某点 $p$ 处那个本质上游离的长度联络与其无穷小邻域中的诸点可能实现何种确定，切空间 $T(M_{p})$ 的诸可能平行位移系统之中，总存在且仅存在一个系统，它同时是无穷小*全等输运*的系统。
+    step2: |-
+      **外尔之假设：** 流形某点 $p$ 处那本质上游离的长度联络，无论其与其无穷小邻域诸点实现何种确定，切空间 $T(M_{p})$ 之诸可能平行位移系统中，总有且仅有一个，同时为无穷小*全等输运*之系统。
   - id: 244
     kind: body
     source: |-
       Weyl shows that this hypothesis does in fact single out metrics of the Pythagorean-Riemannian type by proving the following theorem:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔表明，这一假设确实把毕达哥拉斯—黎曼型的度规挑了出来，其方法是证明下述定理：
+    step2: |-
+      外尔证明下述定理，以明此假设确能挑出毕达哥拉斯—黎曼型度规：
   - id: 245
     kind: body
     source: |-
       **Theorem 4.2** If a specific length connection is such that it determines a unique symmetric linear connection, then the metric must be of the Pythagorean-Riemannian form (for some signature).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **定理 4.2** 如果一个具体的长度联络使得它确定一个唯一的对称线性联络，那么该度规必定是（某种符号差的）毕达哥拉斯—黎曼形式。
+    step2: |-
+      **定理 4.2** 若某具体长度联络能确定一唯一的对称线性联络，则该度规必为（具某种符号差的）毕达哥拉斯—黎曼形式。
   - id: 246
     kind: body
     source: |-
       Thus the *Postulate of Freedom* and *Weyl’s Hypothesis* together entail the existence, at each $p \in M$, of a non-degenerate quadratic form that is unique up to a choice of gauge at $p \in M$, and that is invariant under the action of the microsymmetry group $G_{p}$ that is isomorphic to an orthogonal group of some signature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，*自由公设*与*外尔的假设*合起来便蕴含：在每个 $p \in M$ 处，存在一个在 $p \in M$ 处规范选择意义下唯一的非退化二次型，它在同构于某种符号差正交群的微对称群 $G_{p}$ 的作用下不变。
+    step2: |-
+      由是，*自由公设*与*外尔之假设*合并推出：每一 $p \in M$ 处皆有一非退化二次型，其在 $p \in M$ 处规范选择之下唯一，且在同构于某符号差正交群之微对称群 $G_{p}$ 的作用下不变。
   - id: 247
     kind: body
     source: |-
       This formulation suggests, according to Weyl, an intuitive contrast between Euclidean ‘distance-geometry’ and the ‘*near*-geometry’ (*Nahegeometrie*) or ‘*field*-geometry’ of Riemann. Weyl (1949a, 88) compared Euclidean ‘distance-geometry’ to a crystal “built up from uniform unchangeable atoms in the rigid and unchangeable arrangement of a lattice”, and the latter [Riemannian *field-geometry*] to a liquid, “consisting of the same indiscernible unchangeable atoms, whose arrangement and orientation, however, are mobile and yielding to forces acting upon them.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照外尔，这一表述提示了欧几里得“距离几何”与黎曼的“*近距*几何”（*Nahegeometrie*）即“*场*几何”之间的一种直观对照。外尔（1949a, 88）把欧几里得“距离几何”比作晶体——“由均一不变的原子以晶格的刚硬不变排列构筑而成”，而把后者［黎曼的*场几何*］比作液体——“由同样的不可分辨、不可变的原子构成，然而其排列与取向是可动的，并屈从于作用于其上的力。”
+    step2: |-
+      依外尔之见，此种表述提示欧氏“距离几何”与黎曼“*近距*几何”（*Nahegeometrie*）即“*场*几何”之间的一重直观对照。外尔（1949a, 88）以晶体喻欧氏“距离几何”——“由均一不变之原子依晶格之刚硬不变排列构筑而成”；而以液体喻后者［黎曼*场几何*］——“由同样不可分辨、不可变之原子构成，然其排列与取向可动，且屈从于加于其上之力。”
   - id: 248
     kind: body
     source: |-
       The *nature* of the metric field, that is the *nature*of the metric everywhere, is the same and is, therefore, absolutely determined. It reflects according to Weyl, the *a priori* structure of space or spacetime. In contrast, what is *posteriori*, that is, accidental and capable of continuous change being causally dependent on the material content that fills space, are the mutual *orientations* of the metrics at different points. Hence, the demarcation between the $a$ *priori* and the *a posteriori* has shifted, according to Weyl: Euclidean geometry is still preserved for the infinitesimal neighborhood of any given point, but the coordinate system in which the metrical law assumes the standard form $ds^{2} =\sum^{n}_{i=1}(dx^{i})^{2}$ is in general different from place to place.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      度量场的*本性*，即度规处处相同的那种*本性*，是同一的，因而是绝对被确定的。按外尔之说，它反映着空间或时空的*先验*结构。相反，属*后验*者——即偶然的、能够连续变化、并因果地依赖于充盈空间的物质内容者——是度规在不同点处的相互*定向*。因此，按外尔之说，$a$ *priori* 与 *a posteriori* 之间的分界已经移动：欧几里得几何对于任一给定点的无穷小邻域仍然保持，但其中度量定律取标准形式 $ds^{2} =\sum^{n}_{i=1}(dx^{i})^{2}$ 的坐标系，一般而言处处不同。
+    step2: |-
+      度量场之*本性*——即度规处处相同的那种*本性*——为一，故绝对确定。依外尔，它反映空间或时空的*先验*结构。反是，属*后验*者，即偶然而可变、因果地系于充盈空间之物质内容者，乃度规于不同点处之相互*定向*。故依外尔之说，$a$ *priori* 与 *a posteriori* 之界限已移：欧氏几何于任一给定点之无穷小邻域仍得保全，然其中度量定律取标准形 $ds^{2} =\sum^{n}_{i=1}(dx^{i})^{2}$ 之坐标系，一般地随处而异。
   - id: 249
     kind: body
     source: |-
       Weyl’s *a priori* and *a posteriori* distinction must not be confused with Kant’s distinction. Weyl (1949a, 134) remarks: “In the case of physical space it is possible to counterdistinguish aprioristic and aposterioristic features in a certain objective sense without, like Kant, referring to their cognitive source or their cognitive character.” Weyl makes the same remark in (Weyl, 1922b, 266).[^note-62] See also the discussion in §4.5.8.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔的*先验*与*后验*之分，不可与康德的分辨相混。外尔（1949a, 134）评论道：“在物理空间的情形下，有可能在某种客观意义上区分先验的与后验的特征，而不像康德那样诉诸其认知来源或其认知品格。”外尔在（Weyl, 1922b, 266）中作了同样的评论。[^note-62] 另见 §4.5.8 的讨论。
+    step2: |-
+      外尔之*先验*、*后验*之分，不可与康德之分相混。外尔（1949a, 134）云：“就物理空间而言，可在某种客观意义上区分先验的与后验的特征，而不必如康德那样诉诸其认知来源或认知品格。”同一评语亦见（Weyl, 1922b, 266）。[^note-62] 另参 §4.5.8。
   - id: 250
     kind: body
     source: |-
       In the context of his group-theoretical analysis, Weyl (1922b, p. 266) makes the following interesting and important statement:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其群论分析的语境中，外尔（1922b, p. 266）作出如下有趣而重要的陈述：
+    step2: |-
+      外尔于其群论分析之语境中（1922b, p. 266）有如下有趣而重要之陈述：
   - id: 251
     kind: body
     source: |-
       > I remark from an epistemological point of view: it is not correct to say that space or the world [spacetime] is in itself, prior to any material content, merely a formless continuous manifold in the sense of analysis situs; the *nature* of the metric [its infinitesimal Pythagorean-Riemannian character] is characteristic of space in itself, only the mutual orientation of the metrics at the various points is contingent, a posteriori and dependent on the material content.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我从认识论的观点指出：说空间或世界[时空]在其自身、在任何物质内容之先，仅仅是位置分析意义上的无形连续统，这是不正确的；度规的*本性*［其无穷小的毕达哥拉斯—黎曼品格］是空间自身的特征，唯有诸点处度规的相互定向才是偶然的、后验的、依赖于物质内容的。
+    step2: |-
+      > 我自认识论观点指出：谓空间或世界[时空]在其自身、先于任何物质内容，仅为位置分析意义上之无形连续统，此说未当；度规之*本性*［其无穷小之毕达哥拉斯—黎曼品格］乃空间自身之特征，唯诸点处度规之相互定向为偶然、为后验、为系于物质内容者。
   - id: 252
     kind: body
     source: |-
       Within the context of general relativity, empty spacetime is impossible, if ‘empty’ is understood to mean not merely empty of all *matter* but also empty of all *fields*. At another place, Weyl (1949a, Engl. edn, 172) says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在广义相对论的语境中，空无的时空是不可能的——如果“空无”被理解为不仅没有任何*物质*，而且也没有任何*场*。在另一处，外尔（1949a, 英文版, 172）说：
+    step2: |-
+      广义相对论语境中，空无之时空不可能——倘“空无”解为不但无一切*物质*，亦无一切*场*。外尔（1949a, 英文版, 172）又云：
   - id: 253
     kind: body
     source: |-
       > Geometry unites organically with the field theory; space is not opposed to things (as it is in substance theory) like an empty vessel into which they are placed and which endows them with far-geometrical relationships. No empty space exists here; the assumption that the field omits a portion of the space is absurd.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 几何学与场论有机地结合在一起；空间并非像在实体论中那样，作为一只空容器与物相对立——物被置入其中，而容器赋予它们远距几何的关系。这里不存在空的空间；认为场遗漏了空间的一部分，这种假定是荒谬的。
+    step2: |-
+      > 几何学与场论有机地合为一体；空间不复如在实体论中那样，作为空器皿与物相对而立——物置于其中，而器皿赋之以远距几何之关系。此处无有空的空间；谓场遗漏空间之一部分，其说荒谬。
   - id: 254
     kind: body
     source: |-
       According to Weyl, the metric field does not cease to exist in a world devoid of matter but is in a state of rest: As a *rest* field it would possess the property of *metric homogeneity*; the mutual *orientations* of the *orthogonal* groups characterizing the Pythagorean-Riemannian nature of the metric everywhere would not differ from point to point. *This means that in a matter-empty universe the metric is fixed. Consequently, the set of congruence relations on spacetime is uniquely determined.* Since the metric uniquely determines the symmetric linear connection, the homogeneous *metric* field (rest field) determines an *integrable* affine structure. Therefore, a flat Minkowski spacetime consistent with the complete absence of matter is endowed with an *integrable connection* and thus determines all (hypothetical) free motions. According to Weyl, there exists in the absence of matter a homogeneous metric field, a structural field (*Strukturfeld*), which has the character of a *rest* field, and which constitutes an all pervasive background that cannot be eliminated. The structure of this *rest* field determines the *extension* of the spacetime congruence relations and determines Lorentz invariance. The *rest* field possesses no net energy and makes no contribution to curvature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照外尔，在一个没有物质的世界中，度量场并不停止存在，而是处于静止状态：作为一个*静止*场，它将具有*度量齐性*的性质；刻画度规处处毕达哥拉斯—黎曼本性的诸*正交*群的相互*定向*，将不随点而不同。*这意味着，在一个无物质的宇宙中，度规是固定的。因而，时空上的全等关系集合被唯一确定。*由于度规唯一确定对称线性联络，齐性的*度量*场（静止场）便确定了一个*可积的*仿射结构。因此，一个与物质之完全阙如相容的平坦闵可夫斯基时空，被赋予一个*可积联络*，从而确定一切（假想的）自由运动。按外尔之说，在无物质时存在一个齐性的度量场、一个结构场（*Strukturfeld*），它具有*静止*场的品格，并构成一个无法消除的、弥漫一切的背景。这个*静止*场的结构确定时空全等关系的*外延*，并确定洛伦兹不变性。*静止*场没有净能量，也不对曲率作出贡献。
+    step2: |-
+      依外尔，无物质之世界中，度量场并不消逝，而处于静止状态：作为*静止*场，它具有*度量齐性*——刻画度规处处毕达哥拉斯—黎曼本性之诸*正交*群，其相互*定向*不随点而异。*是故，无物质之宇宙中，度规固定；由是，时空上之全等关系集合被唯一确定。*度规既唯一确定对称线性联络，齐性之*度量*场（静止场）便确定一*可积*仿射结构。故与物质全无相容之平坦闵可夫斯基时空，被赋予*可积联络*，从而确定一切（假想之）自由运动。依外尔，无物质时有一齐性度量场、一结构场（*Strukturfeld*），具*静止*场之品格，构成不可消除、弥漫一切的背景。此*静止*场之结构，确定时空全等关系之*广延*，并确定洛伦兹不变性。*静止*场无净能量，于曲率无所贡献。
   - id: 255
     kind: body
     source: |-
       The contrast with Helmholtz and Lie is this: both of them require homogeneity and isotropy for physical space. From a general Riemannian standpoint, the latter characteristics are valid only for a matter-empty universe. Such a universe is flat and Euclidean, whereas a universe that contains matter is *inhomogeneous, anisotropic and of variable curvature*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与赫尔姆霍兹和李的对照在于：他们二人都要求物理空间具有齐性与各向同性。从一般的黎曼立场看，后一特征只对无物质的宇宙成立。这样的宇宙是平坦而欧几里得的，而一个包含物质的宇宙则是*非齐性、各向异性且曲率可变的*。
+    step2: |-
+      与赫尔姆霍兹、李之对照在此：二人皆要求物理空间齐性且各向同性。自一般黎曼立场观之，后一特征唯于无物质之宇宙成立。此种宇宙平坦而欧氏；而含物质之宇宙则*非齐性、各向异性，且曲率可变*。
   - id: 256
     kind: body
     source: |-
       It is important to note here that the validity of Weyl’s assertion that the metric field does not cease to exist but is in a state of rest, has its source in the mathematical fact that the metric field is a $G$-structure. A $G$-structure may be flat or non-flat; but a $G$-structure can never vanish. Consequently, geometric fields characterizable as $G$-structures, such as the projective, conformal, affine and metric structures, do not vanish.[^note-63]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此处重要的是注意：外尔关于度量场不停止存在而处于静止状态这一断言，其效力来源于一个数学事实——度量场是一个 $G$-结构。一个 $G$-结构可以是平坦的或非平坦的；但一个 $G$-结构绝不会消失。因此，可刻画为 $G$-结构的几何场——诸如射影结构、保形结构、仿射结构与度量结构——都不会消失。[^note-63]
+    step2: |-
+      此处须注意：外尔“度量场不消逝而处静止”之断言，其效力源于一数学事实——度量场乃一 $G$-结构。$G$-结构可平坦可非平坦，然一 $G$-结构绝不能消失。故凡可刻画为 $G$-结构之几何场——射影、保形、仿射、度量诸结构——皆不消失。[^note-63]
   - id: 257
     kind: body
     source: |-
       ### 4.3 Weyl’s Causal-Inertial Method for determining the Spacetime Metric
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 外尔确定时空度规的因果—惯性方法
+    step2: |-
+      ### 4.3 外尔确定时空度规之因果—惯性方法
   - id: 258
     kind: body
     source: |-
       #### 4.3.1 Weyl’s Field Ontology of Spacetime Geometry
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.3.1 外尔的时空几何场本体论
+    step2: |-
+      #### 4.3.1 外尔之时空几何场本体论
   - id: 259
     kind: body
     source: |-
       Riemann searched for the most general type of an $n$-dimensional manifold. On this manifold, Euclidean geometry turns out to be a special case resulting from a certain form of the metric. Weyl takes this general structure, the manifold structure, which has certain continuity and order properties, as basic, but leaves the determination of the other geometrical structures, such as the projective, conformal, affine and metric structures, open. The metrical axioms are no longer dictated, as they were for Kant, by pure intuition. According to Weyl (1949a, 87), for Riemann the metric is not, as it was for Kant, “part of the static homogeneous form of phenomena, but of their ever changing material content”. Weyl (1931a, 338) says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      黎曼寻找的是 $n$ 维流形的最一般类型。在此流形上，欧几里得几何被证明是度规的某种形式所导致的一个特例。外尔把这一般结构，即具有某些连续性与秩序性质的流形结构，作为基本的，而把其他几何结构——诸如射影、保形、仿射与度量结构——的确定留作开放。度量公理不再像对康德那样由纯粹直观所规定。按外尔（1949a, 87）之说，对黎曼而言，度规不像对康德那样是“现象之静态齐性形式的一部分，而是其不断变化的物质内容的一部分”。外尔（1931a, 338）说：
+    step2: |-
+      黎曼所求者，乃 $n$ 维流形之最一般类型。在此流形上，欧氏几何被证明为度规之某种形式所致的特例。外尔以此一般结构（具某些连续性与秩序性质之流形结构）为基本，而将其余几何结构——射影、保形、仿射、度量——之确定留而未决。度量公理不复如对康德那样由纯粹直观所规定。依外尔（1949a, 87）之说，于黎曼而言，度规非如对康德那样“属于现象之静态齐性形式，而属于其不断变化之物质内容”。外尔（1931a, 338）云：
   - id: 260
     kind: body
     source: |-
       > We differentiate now between the amorphous continuum and its metrical structure. The first has retained its *a priori* character,[^note-64] … whereas the structural field [Strukturfeld] is completely subjected to the power-play of the world; being a real entity, Einstein prefers to call it the ether.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们此时区分无定形的连续统与其度量结构。前者保留了其*先验*品格[^note-64]……而结构场［Strukturfeld］则完全屈从于世界的力之游戏；作为一个实在的实体，爱因斯坦更愿意称之为以太。
+    step2: |-
+      > 吾人今区分无定形之连续统与其度量结构。前者仍保其*先验*品格[^note-64]……而结构场［Strukturfeld］则全屈于世界力之嬉戏；此乃实在之实体，爱因斯坦宁称之为以太。
   - id: 261
     kind: body
     source: |-
       There is no indication in Riemann’s work on gravitation and electromagnetism that would indicate that he anticipated the conceptual revolution underlying Einstein’s theory. However, Weyl’s interpretation of Riemann’s work suggests that Riemann foresaw something like its possibility in the following sense:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      黎曼关于引力与电磁学的工作中，没有任何迹象表明他预见到了爱因斯坦理论背后的概念革命。然而，外尔对黎曼工作的解释提示：黎曼在下述意义上预见了类似的可能性：
+    step2: |-
+      黎曼论引力与电磁学之作，未见其预见爱因斯坦理论背后之概念革命之迹。然外尔对黎曼工作之解释提示：黎曼曾于下述意义上预见其可能：
   - id: 262
     kind: body
     source: |-
       > By formally separating the post-topological structures such as the affine, projective, conformal and metric structures from the manifold, so that these structures are no longer rigidly tied to it, Riemann deprived them of their formal geometric rigidity and, on the basis of his infinitesimal geometric standpoint or “near-geometry”, allowed for the possibility of interpreting them as mathematical representations of flexible, dynamical physical structural fields [Strukturfelder] on the manifold of spacetime, geometrical fields that reciprocally interact with matter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 通过把诸如仿射、射影、保形与度量这类后拓扑结构从流形中形式地分离出来，使这些结构不再与流形刚性相系，黎曼便剥夺了它们形式上的几何刚性，并以其无穷小几何立场即“近距几何”为基础，容许了把它们解释为时空流形上灵活的、动力学的物理结构场［Strukturfelder］——与物质相互作用的几何场——之数学表示的可能性。
+    step2: |-
+      > 黎曼把仿射、射影、保形、度量诸后拓扑结构自流形形式地分离，使此类结构不复与之刚性相系，遂褫夺其形式上的几何刚性；并本其无穷小几何之立场即“近距几何”，容许将之解释为时空流形上灵活而动力学性的物理结构场［Strukturfelder］——即与物质相互交感之几何场——之数学表示。
   - id: 263
     kind: body
     source: |-
