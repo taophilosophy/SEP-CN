@@ -10,6 +10,9 @@ bad() { printf '[BAD] %s\n' "$1"; fail=$((fail+1)); }
 [ -d .git ] || { echo "请在仓库根目录运行"; exit 2; }
 [ -f tools/check_all.py ] || { echo "不是 SEP-CN 仓库根目录"; exit 2; }
 
+# 刚 clone 完 index 未刷新，直接数 git status 会把 racy-git 误报成几十项脏
+git update-index --refresh >/dev/null 2>&1 || true
+
 # 1. 与 origin/main 的关系
 git fetch --quiet origin 2>/dev/null || bad "git fetch 失败（网络/凭据）"
 behind=$(git rev-list --count HEAD..origin/main 2>/dev/null || echo x)
