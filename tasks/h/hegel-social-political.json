@@ -2,7 +2,7 @@
   "slug": "hegel-social-political",
   "kind": "retranslate",
   "zh_doc": "h/hegel-social-political.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T13:05:41Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "H-main-20261110",
+      "at": "2026-11-09T23:28:06Z",
+      "evidence": "账本 96 段（body 95+oir 1）双版全填；lq check 守恒门通过；compose 25780 字符；术语 11 行、人名 7 行登记（azsort 守恒重排）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "H-main-20261110",
+      "at": "2026-11-09T23:32:12Z",
+      "evidence": "s1 对照核销：96 段逐段落位全中；脚注 marker 源/文 61:61 键集全等；书目照录 71 条齐；正文直引号 0（54 行 ASCII 引号已转中文弯引号）；*PR*/*SL*/*LNR* 等缩写与斜体拉丁术语照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "H-main-20261110",
+      "at": "2026-11-09T23:32:12Z",
+      "evidence": "s2 prose 实修：告警 31→1（长句 4、弱动词 3、被动 1 全改；de-chain 23 条实修 22 条，余 1 条在《逻辑学》引文块内按 ADR-0020 豁免）；唯一残余为引文 de-chain 留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "H-main-20261110",
+      "at": "2026-11-09T23:32:13Z",
+      "evidence": "s3 体例终校：check_style 0 issue（bold-spacing 5 处、italic-cjk 1 处 *合法*→**合法** 已修）、check_prose 1 条引文豁免、check_math 0/0、check_academic --strict 无硬错误、check_terms 硬错误 0"
     }
   ],
   "blockers": [],
