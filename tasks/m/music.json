@@ -2,7 +2,7 @@
   "slug": "music",
   "kind": "retranslate",
   "zh_doc": "m/music.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-09T09:32:41Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T11:50:14Z",
+      "evidence": "draft 初译（主会话直译，无子代理）：lq.py init 92 段（body 91 + oir 1，biblio 照录 232 条），8 批双版落盘（script/mu_b1..b8.py）：段 1-14 导语与 §1、15-26 §2 本体论、27-36 2.2 与本真演奏/摇滚爵士、37-50 §3 情感表现力、51-64 3.2 与 §4 开篇、65-76 4.1/4.2、77-88 5.1 艺术价值、89-92 5.2 与 OIR。lq.py check 守恒 HARD=0（92 段）；compose --write 成稿 59,509 字符 + italic_to_bold_cjk 转 28 行；术语先登记 22 行、人名补登 Tolstoy。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T11:50:14Z",
+      "evidence": "s1 一校：结构全等——h2 9:9、h3 10:10、脚注定义 232:232、正文 [^key] 179:179、年份集合零差、4′33″ 4:4（script/s1_mu_check.py）；H1 与 SUMMARY 1841 行一致；biblio_audit flagged=0。修订三组：① 相关词条 2 处 compose 未匹配项——源页漏管道符把「history of Western philosophy of music:antiquity to1800」粘连、把末尾三条「types and tokens」「value: intrinsic vs. extrinsic」「Xunzi」并作一行，对 en/ HTML 与 SUMMARY 实证后拆回「西方音乐哲学史：古代至 1800」「类型与个例 | 内在价值与外在价值 | 荀子」；② 人名按登记册主形（ADR-0022）：Kivy→彼得·基维、Levinson→杰罗尔德·莱文森、Scruton→罗杰·斯克鲁顿、Stephen Davies→斯蒂芬·戴维斯、David Davies→大卫·戴维斯、Kendall Walton→肯德尔·沃尔顿、Collingwood→柯林武德、Sartre→萨特、Tolstoy→托尔斯泰、Dewey→杜威（首现括注原文；引用组及登记册无行学者保留英文），人名表补登 Tolstoy；③ 术语用登记形（纯音乐、组织化的声音、调性、表现力、基础主义之争、本真演奏、纯声音/音色声音/乐器论者、高阶类型、历史个体、绝对/标题音乐、唤起/表现/相似/轮廓/人格论），登记册补登 22 行。compose 与账本归一（除 NOTE 行与相关词条手工核销行）。"
     }
   ],
   "blockers": [],
