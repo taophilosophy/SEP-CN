@@ -1,0 +1,54 @@
+{
+ "key": "guelph",
+ "term": "Guelph",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:06:55+00:00",
+ "status": "ok",
+ "note": "variant=Guelph; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "归尔夫党",
+   "en": "Guelfi",
+   "code": "02.0610",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "冲沟",
+   "en": "coombe,gulch",
+   "code": "14.046",
+   "standard": "土木工程名词",
+   "subject": "土木工程_土木工程勘察与测量_不良地质现象"
+  },
+  {
+   "cn": "冲沟侵蚀",
+   "en": "gulch erosion",
+   "code": "14.015",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_水利水土保持_水土流失（水利）"
+  },
+  {
+   "cn": "补气阀",
+   "en": "gulp valve",
+   "code": "24.0838",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_发动机排放_净化系统和装置"
+  },
+  {
+   "cn": "吞咽",
+   "en": "gulp",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "峡谷",
+   "en": "gorge\",\"gulch",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

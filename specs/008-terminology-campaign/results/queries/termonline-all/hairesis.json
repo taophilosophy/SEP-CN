@@ -1,0 +1,54 @@
+{
+ "key": "hairesis",
+ "term": "hairesis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:11:25+00:00",
+ "status": "ok",
+ "note": "variant=hairesis; 审定公布名词库=6; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "轻瘫",
+   "en": "paresis",
+   "code": "07.098",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_神经病学"
+  },
+  {
+   "cn": "产后瘫痪",
+   "en": "parturient paresis",
+   "code": "01.097",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医产科学"
+  },
+  {
+   "cn": "半规管轻瘫",
+   "en": "canal paresis",
+   "code": "02.044",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_耳鼻喉科学"
+  },
+  {
+   "cn": "半规管轻瘫",
+   "en": "canal paresis;CP",
+   "code": "1.8.1.4",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "耳科_眩晕疾病"
+  },
+  {
+   "cn": "麻痹性痴呆",
+   "en": "general paresis of insane",
+   "code": "03.090",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_分子生物学与病理学"
+  },
+  {
+   "cn": "麻痹性痴呆",
+   "en": "general paresis of insane,GPI",
+   "code": "08.167",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_精神病学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

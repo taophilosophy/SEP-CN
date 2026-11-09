@@ -1,0 +1,54 @@
+{
+ "key": "haboku",
+ "term": "haboku",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:11:25+00:00",
+ "status": "ok",
+ "note": "variant=haboku; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "华族",
+   "en": "Kazoku",
+   "code": "04.0061",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚"
+  },
+  {
+   "cn": "海口组",
+   "en": "Haikou Formation",
+   "code": "07.04.426",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学与地层学_岩石地层学"
+  },
+  {
+   "cn": "王好古",
+   "en": "Wang Haogu",
+   "code": "02.141",
+   "standard": "中医药学名词",
+   "subject": "中医药学_医史文献_医家"
+  },
+  {
+   "cn": "停泊发电机组",
+   "en": "habor generating set",
+   "code": "07.057",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶电气"
+  },
+  {
+   "cn": "哈布尘暴",
+   "en": "haboob",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "取消比赛资格",
+   "en": "disqualify\",\"disqualification\",\"hansoku-make",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

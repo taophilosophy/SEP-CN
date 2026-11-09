@@ -1,0 +1,40 @@
+{
+ "key": "hade",
+ "term": "hadé",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:11:25+00:00",
+ "status": "ok",
+ "note": "variant=hadé; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "医院焦虑抑郁量表",
+   "en": "Hospital Anxiety and Depression Scale,HADS",
+   "code": "05.019",
+   "standard": "精神医学名词",
+   "subject": "精神医学_常用量表"
+  },
+  {
+   "cn": "帕德逼近式",
+   "en": "Padé approximant",
+   "code": "05.0690",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "阴生植物",
+   "en": "skiophyte,hade plant",
+   "code": "01.0143",
+   "standard": "植物学名词",
+   "subject": "植物学_总论"
+  },
+  {
+   "cn": "童生",
+   "en": "tong sheng;students who had not yet sat for the first level of examinations;junior student",
+   "code": "8.244",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_明清_政治_官员管理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
