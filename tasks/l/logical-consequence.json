@@ -1,0 +1,50 @@
+{
+  "slug": "logical-consequence",
+  "kind": "retranslate",
+  "zh_doc": "l/logical-consequence.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T11:40:08Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T12:42:05Z",
+      "evidence": "账本 80 段（body 78/oir 1/note 1）双版全填；lq.py check HARD=0（6 处 SOFT 为标题/列表/oir 机械段）；compose 25648 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T12:42:06Z",
+      "evidence": "结构对账：编号节 5=5、h3 3=3、脚注 71=71 逐键全等、引用 36=36、$ 242=242、相关词条全映射；标题纠错：SUMMARY/mu-lu-s/H1 的「逻辑蕴含」改为「逻辑后承」（consequence 与蕴含分列，正文与登记册一致），别名行同步；年份文献核对（Tarski 1935/1936、Prior 1960、Kreisel 1967、Etchemendy 1990 等）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T12:42:06Z",
+      "evidence": "反欧化 prose 10→1（de-chain 5、long-sentence 2、weak-verb 1 实修）；余 1 项在论证 (4) 的引语「Greg 的母亲的兄弟的儿子」内，ADR-0020 豁免留痕；style 0、$ 242 不变"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T12:42:07Z",
+      "evidence": "术语 38 行、人名 23 行登记（逻辑后承/形式性/规范证明/挤压论证/簇概念等；与既有 4 术语、8 人名并行合并）；check_terms 硬错误 0、冲突 0，6 告警逐条裁定（强调标记分隔登记主形 5、置换不变性省「性」1）；style 0；check_math 缺失 0（unbalanced 1 为源 HTML 未闭合定界符告警，非译文缺失）；academic --strict 0；check_summary H1 0"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T11:40:08Z",
+  "version_pin": {
+    "pubinfo_date": "May 17, 2024",
+    "archive_edition": "Spring 2026",
+    "sha256": "c122ae54b4a676ed2bb66d2ed541f8868431fabc2db5e919f211bb32b0d0e990"
+  }
+}

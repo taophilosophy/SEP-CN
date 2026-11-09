@@ -1060,7 +1060,7 @@ outline: [1, 6]
 * [归纳逻辑 inductive (James Hawthorne)](l/logic-inductive.md)
 * [非形式逻辑 informal (Leo Groarke)](l/logic-informal.md)
 * [逻辑的规范地位 logic, normative status of (Florian Steinberger)](l/logic-normative.md)
-* [逻辑蕴含 logical consequence (Jc Beall, Greg Restall, and Gil Sagi)](l/logical-consequence.md)
+* [逻辑后承 logical consequence (Jc Beall, Greg Restall, and Gil Sagi)](l/logical-consequence.md)
 * [悖论与现代逻辑 and contemporary logic (Andrea Cantini and Riccardo Bruni)](p/paradoxes-contemporary-logic.md)
   * [类比与类比推理 analogy and analogical reasoning (Paul Bartha)](r/reasoning-analogy.md)
   * [论证与论辩 argument and argumentation (Catarina Dutilh Novaes)](a/argument.md)

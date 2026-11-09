@@ -1,0 +1,652 @@
+version: 1
+slug: logical-consequence
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      A good argument is one whose conclusions follow from its premises; its conclusions are *consequences* of, or *entailed by*, its premises. But in what sense do conclusions *follow from* premises? What is it for a conclusion to be a *consequence of*, or *entailed by*, premises? Those questions, in many respects, are at the heart of logic (as a philosophical discipline). In this entry we'll primarily talk in terms of conclusions *following from* or being a *consequence of* premises, since *entailment* is sometimes used elsewhere in philosophy and logic in a different or stronger sense.
+    step1: |-
+      一个好论证，其结论能从前提得出；结论是前提的 *后承*，或者说前提 *蕴涵* 结论。但结论在何种意义上 *从前提得出*？说结论是前提的 *后承*、被前提 *蕴涵*，究竟是什么意思？这些问题在很多方面是逻辑学（作为哲学学科）的核心。本词条主要谈结论 *从前提得出* 或是前提的 *后承*，因为 *蕴涵*（entailment）在哲学与逻辑的其他场合有时用于不同或更强的意义。
+    step2: |-
+      好论证，就是结论能从前提得出的论证；结论是前提的 *后承*，或被前提所 *蕴涵*。可“从前提得出”到底是什么意思？说结论是前提的 *后承*、被前提 *蕴涵*，又是什么意思？这些问题在许多方面都是逻辑学（作为一门哲学学科）的核心。本词条主要用“结论 *从前提得出*”“是前提的 *后承*”来谈，因为 *蕴涵*（entailment）一词在哲学与逻辑的其他场合，有时另有含义或含义更强。
+  - id: 2
+    kind: body
+    source: |-
+      Consider the following argument:
+    step1: |-
+      考虑下面这个论证：
+    step2: |-
+      看下面这个论证：
+  - id: 3
+    kind: body
+    source: |-
+      1. If we charge high fees for university, only the rich will enroll. We charge high fees for university. Therefore, only the rich will enroll.
+    step1: |-
+      1. 如果大学收费高昂，只有富人会入学。大学收费高昂。所以，只有富人会入学。
+    step2: |-
+      1. 如果大学收费高昂，只有富人会入学。大学收费高昂。所以，只有富人会入学。
+  - id: 4
+    kind: body
+    source: |-
+      There are many different things one can say about this argument, but many agree that if we do not equivocate (if the terms mean the same thing in the premises and the conclusion) then the argument is *valid*, that is, the conclusion follows deductively from the premises. This does not mean that the conclusion is true. Perhaps the premises are not true. However, if the premises are true, then the conclusion is also true, as a matter of logic. This entry is about the relation between premises and conclusions in valid arguments.
+    step1: |-
+      关于这个论证可以说的有很多，但许多人同意：只要我们不含混其词（前提与结论中的词项意义相同），这个论证就是 *有效的*，也就是说，结论从前提演绎地得出。这并不意味着结论为真。前提也许不为真。但只要前提为真，结论就也为真，这是逻辑上的事。本词条讨论有效论证中前提与结论之间的关系。
+    step2: |-
+      这个论证可说的很多，但多数人同意：只要不含混其词（前提和结论里词项意义相同），这个论证就 *有效*——结论演绎地从前提得出。这不等于说结论为真；前提可能不真。但只要前提为真，结论就也为真，这是凭逻辑保证的。本词条谈的，就是有效论证里前提与结论的关系。
+  - id: 5
+    kind: body
+    source: |-
+      Contemporary analyses of the concept of consequence—of the *follows from* relation—take it to be both *necessary* and *formal*, with such answers often being explicated via *proofs* or *models* (or, in some cases, both). Our aim in this article is to provide a brief characterisation of some of the notions that play a central role in contemporary accounts of logical consequence.
+    step1: |-
+      对后承概念——即“从……得出”关系——的当代分析认为，这种关系既是 *必然的* 又是 *形式的*，这些回答常通过 *证明* 或 *模型*（有时两者兼用）来说明。本文旨在简要刻画在当代逻辑后承理论中起核心作用的一些概念。
+    step2: |-
+      当代对后承概念（“从……得出”这一关系）的分析，把它同时视为 *必然的* 和 *形式的*；相关回答常借 *证明* 或 *模型*（有时兼用二者）来阐明。本文的目的是简要刻画当代逻辑后承理论中的几个核心概念。
+  - id: 6
+    kind: body
+    source: |-
+      We should note that we only highlight a few of the *philosophical* aspects of logical consequence, leaving out almost all technical details, and also leaving out a large number of philosophical debates about the topic. Our rationale for doing as much is that one will get the technical details, and the particular philosophical issues that motivated them, from looking at *specific logics*—specific theories of logical consequence (e.g., relevant logics, substructural logics, non-monotonic logics, dynamic logics, modal logics, theories of quantification, and so on). (Moreover, debates about almost any feature of language—structure versus form of sentences, propositions, context sensitivity, meaning, even truth—are relevant to debates about logical consequence, making an exhaustive discussion practically impossible.) Our aim here is simply to touch on a few of the very basic issues that are central to logical consequence.
+    step1: |-
+      应当说明，我们只突出逻辑后承的少数 *哲学* 方面，几乎略去一切技术细节，也略去大量关于该主题的哲学争论。这样做的理由是：技术细节以及促生这些细节的具体哲学问题，可以从考察 *具体的逻辑*——具体的逻辑后承理论（如相干逻辑、子结构逻辑、非单调逻辑、动态逻辑、模态逻辑、量化理论等）——中学到。（此外，关于语言的几乎所有特征的争论——句子的结构与形式、命题、语境敏感性、意义、甚至真——都同逻辑后承的争论相关，使穷尽的讨论实际上不可能。）我们的目的只是触及逻辑后承的核心问题中少数最基本的问题。
+    step2: |-
+      要说明的是，这里只挑逻辑后承的少数 *哲学* 问题来谈，技术细节几乎全部略去，哲学争论也只留了一角。理由是：技术细节及其背后的哲学动机，从考察 *具体逻辑*——具体的后承理论，比如相干逻辑、子结构逻辑、非单调逻辑、动态逻辑、模态逻辑、量化理论等——中能学得更透。（再说，凡涉及语言特征的争论——句子的结构与形式、命题、语境敏感性、意义，甚至真——都牵连逻辑后承的争论，想面面俱到实际做不到。）这里只打算碰到几个最基本的问题。
+  - id: 7
+    kind: body
+    source: |-
+      ## 1. Deductive and Inductive Consequence
+    step1: |-
+      ## 1. 演绎后承与归纳后承
+    step2: |-
+      ## 1 演绎后承与归纳后承
+  - id: 8
+    kind: body
+    source: |-
+      Some arguments are such that the (joint) truth of the premises is *necessarily sufficient* for the truth of the conclusions. In the sense of *logical consequence* central to the current tradition, such “necessary sufficiency” distinguishes deductive validity from *inductive* validity. In inductively valid arguments, the (joint) truth of the premises is *very likely (but not necessarily) sufficient* for the truth of the conclusion. An inductively valid argument is such that, as it is often put, its premises make its conclusion more likely or more reasonable (even though the conclusion may well be untrue given the joint truth of the premises). The argument
+    step1: |-
+      有些论证，其前提的（联合）真 *必然足以* 保证结论为真。按当前传统所重的 *逻辑后承* 观念，这种“必然的充分性”把演绎有效性与归纳有效性区分开来。在归纳有效的论证中，前提的（联合）真 *很可能（但未必必然）足以* 保证结论为真。归纳有效论证的特点，用常说的话讲，是其前提使其结论更有可能或更合理（即便前提全真时结论仍可能不真）。论证
+    step2: |-
+      有些论证，前提（合在一起）为真就 *必然足以* 保证结论为真。按眼下传统里最核心的 *逻辑后承* 观念，“必然的充分性”正是演绎有效与归纳有效之分。归纳有效的论证，前提（合在一起）为真 *很可能（但并非必然）足以* 保证结论为真；用常说的话说，前提使结论更可能、更有理由成立（即使前提全真，结论仍可能不真）。比如论证
+  - id: 9
+    kind: body
+    source: |-
+      1. All swans observed so far have been white. Smoothy is a swan. Therefore, Smoothy is white.
+    step1: |-
+      1. 迄今观察到的天鹅都是白的。Smoothy 是一只天鹅。所以，Smoothy 是白的。
+    step2: |-
+      1. 迄今观察到的天鹅都是白的。Smoothy 是一只天鹅。所以，Smoothy 是白的。
+  - id: 10
+    kind: body
+    source: |-
+      is not deductively valid because the premises are not necessarily sufficient for the conclusion. Smoothy may well be a black swan.
+    step1: |-
+      这个论证不是演绎有效的，因为前提对结论并非必然充分。Smoothy 很可能是只黑天鹅。
+    step2: |-
+      这个论证演绎上不有效：前提对结论并非必然充分——Smoothy 完全可能是只黑天鹅。
+  - id: 11
+    kind: body
+    source: |-
+      Distinctions can be drawn between different inductive arguments. Some inductive arguments seem quite reasonable, and others are less so. There are many different ways to attempt to analyse inductive consequence. We might consider the degree to which the premises make the conclusion *more likely* (a probabilistic reading), or we might check whether the most *normal* circumstances in which the premises are true render the conclusion true as well. (This leads to some kinds of default or non-monotonic inference.) The field of inductive consequence is difficult and important, but we shall leave that topic here and focus on *deductive* validity.
+    step1: |-
+      归纳论证之间可以作出区分。有些归纳论证看起来相当合理，另一些则不然。分析归纳后承有许多不同途径。我们可以考虑前提使结论 *更有可能* 的程度（一种概率解读），也可以检验使前提为真的最 *正常* 情境是否同时使结论为真。（这通向某些默认推理或非单调推理。）归纳后承这个领域既困难又重要，但我们在此放下这个主题，聚焦 *演绎* 有效性。
+    step2: |-
+      归纳论证彼此有别：有的看着相当合理，有的差些。分析归纳后承的途径很多。可以看前提把结论弄得 *多可能*（概率式读法），也可以看让前提为真的最 *正常* 情境是否也使结论为真（这就通向某些默认推理或非单调推理）。归纳后承领域既难又重要，但这里放下不谈，专讲 *演绎* 有效性。
+  - id: 12
+    kind: body
+    source: |-
+      (See the entries on inductive logic and non-monotonic logic for more information on these topics.)
+    step1: |-
+      （关于这些主题的更多信息，见归纳逻辑与非单调逻辑词条。）
+    step2: |-
+      （更多内容见“归纳逻辑”与“非单调逻辑”词条。）
+  - id: 13
+    kind: body
+    source: |-
+      The constraint of *necessity* is not sufficient to settle the notion of deductive validity, for the notion of *necessity* may also be fleshed out in a number of ways. To say that a conclusion necessarily follows from the premises is to say that the argument is somehow *exceptionless*, but there are many different ways to make that idea precise.
+    step1: |-
+      *必然性* 这一约束不足以确定演绎有效性概念，因为 *必然性* 本身也可以以多种方式充实。说结论必然从前提得出，是说论证在某种意义上 *无例外*，但把这个想法弄精确的方式很多。
+    step2: |-
+      只有 *必然性* 这一约束，还定不下演绎有效性概念——*必然性* 本身可以充实出好几种讲法。说结论必然从前提得出，是说论证在某种意义上 *没有例外*；可把这个想法做精确的办法不止一种。
+  - id: 14
+    kind: body
+    source: |-
+      A first stab at the notion might use what we now call metaphysical necessity. Perhaps an argument is valid if it is *(metaphysically) impossible* for the premises to be true and the conclusion to be untrue, valid if—holding fixed the interpretations of premises and conclusion—in every possible world in which the premises hold, so does the conclusion. This constraint is plausibly thought to be a necessary condition for logical consequence (if it *could be* that the premises are true and the conclusion isn’t, then there is no doubt that the conclusion does not follow from the premises); however, on most accounts of logical consequence, it is not a sufficient condition for validity. Many admit the existence of *a posteriori* necessities, such as the claim that water is H$_2$O. If that claim is necessary, then the argument:
+    step1: |-
+      对这个概念的第一次尝试，可以用我们今天所谓的形而上学必然性。也许可以说：如果前提为真而结论不真是 *（形而上学上）不可能的*，论证就有效——即在固定前提与结论的解释时，凡前提成立的可能世界，结论也成立。这个约束被合理地认为是逻辑后承的必要条件（如果 *可能* 前提真而结论不真，那么毫无疑问结论不从前提得出）；然而按大多数逻辑后承理论，它不是有效性的充分条件。许多人承认有 *后验* 必然真理，比如“水是 H$_2$O”。如果该主张是必然的，那么论证：
+    step2: |-
+      第一条路子，可以用今天所谓的形而上学必然性。也许可以这样说：若“前提真而结论不真” *（在形而上学上）不可能*，论证即有效——也就是说，固定前提与结论的解释之后，凡前提成立的可能世界，结论都成立。这条约束被合理地当作逻辑后承的必要条件（若 *可能* 前提真而结论不真，结论当然不从前提得出）；但按多数后承理论，它不是充分条件。许多人承认存在 *后验* 必然真理，如“水是 H$_2$O”。若这话必然，则论证：
+  - id: 15
+    kind: body
+    source: |-
+      1. $x$ is water. Therefore, $x$ is H$_2$O.
+    step1: |-
+      1. $x$ 是水。所以，$x$ 是 H$_2$O。
+    step2: |-
+      1. $x$ 是水。所以，$x$ 是 H$_2$O。
+  - id: 16
+    kind: body
+    source: |-
+      is necessarily truth preserving, but it seems a long way from being deductively valid. It was a genuine discovery that water is H$_2$O, one that required significant empirical investigation. While there may be genuine discoveries of valid arguments that we had not previously recognised as such, it is another thing entirely to think that these discoveries require empirical investigation.
+    step1: |-
+      它必然保真，但看起来离演绎有效还差得很远。“水是 H$_2$O”是一个真正的发现，需要大量经验研究。虽然可能真有我们以前未识别出的有效论证的真正发现，但认为这类发现需要经验研究，就完全是另一回事了。
+    step2: |-
+      它必然保真，却离演绎有效差得很远。“水是 H$_2$O”是真发现，靠大量经验研究得来。有效的论证也可能被我们真正“发现”（从前没认出来），但要说这类发现也得靠经验研究，就是另一码事了。
+  - id: 17
+    kind: body
+    source: |-
+      An alternative line on the requisite sort of *necessity* turns to *conceptual necessity*. On this line, the conclusion of (3) is not a consequence of its premise given that it is not a conceptual truth that water is H$_2$O. The concept *water* and the concept $H_2O$ happen to pick out the same property, but this agreement is determined partially by the world.
+    step1: |-
+      关于所需 *必然性* 的另一条路线转向 *概念必然性*。按这条路线，(3) 的结论不是其前提的后承，因为“水是 H$_2$O”不是概念真理。概念 *水* 与概念 $H_2O$ 恰好挑出同一属性，但这种一致部分由世界决定。
+    step2: |-
+      另一条路线转向 *概念必然性*。按此说，(3) 的结论不是前提的后承：“水是 H$_2$O”并非概念真理。概念 *水* 和概念 $H_2O$ 碰巧指称同一属性，但这种巧合部分取决于世界。
+  - id: 18
+    kind: body
+    source: |-
+      A similar picture of logic takes consequence to be a matter of what is *analytically* true, and it is not an analytic truth that water is H$_2$O. The word “water” and the formula “H$_2$O” agree in extension (and necessarily so) but they do not agree in *meaning*.
+    step1: |-
+      对逻辑的一种类似看法，把后承看作 *分析地* 为真的事情；而“水是 H$_2$O”不是分析真理。“水”一词与公式“H$_2$O”在外延上一致（且必然如此），但在 *意义* 上不一致。
+    step2: |-
+      与之相近的一种逻辑观，把后承归结为 *分析地* 为真的东西；而“水是 H$_2$O”不是分析真理。“水”这个词和公式“H$_2$O”外延相同（且必然相同），但 *意义* 不同。
+  - id: 19
+    kind: body
+    source: |-
+      If metaphysical necessity is too coarse a notion to determine logical consequence (since it may be taken to render too many arguments deductively valid), an appeal to conceptual or analytic necessity might seem to be a better route. The trouble, as Quine argued, is that the distinction between analytic and synthetic (and similarly, conceptual and non-conceptual) truths is not as straightforward as we might have thought in the beginning of the 20th Century. (See the entry on the analytic/synthetic distinction.) Furthermore many arguments seem to be truth-preserving on the basis of analysis alone:
+    step1: |-
+      如果形而上学必然性太粗糙，不足以确定逻辑后承（因为它可能使过多论证成为演绎有效），那么诉诸概念必然性或分析必然性似乎是好路子。麻烦在于，正如 Quine 所论，分析真理与综合真理（概念真理与非概念真理亦然）的区分并不像 20 世纪初我们以为的那样直截了当。（见关于分析/综合区分的词条。）而且许多论证仅凭分析就保真：
+    step2: |-
+      若嫌形而上学必然性太粗，定不下逻辑后承（它可能把太多论证都算成演绎有效），诉诸概念或分析必然性似乎更好。麻烦是，正如 Quine 所论：分析与综合（概念与非概念亦然）之分，并不像 20 世纪初人们以为的那么干脆。（见“分析/综合区分”词条。）何况许多论证单凭分析就保真：
+  - id: 20
+    kind: body
+    source: |-
+      1. Peter is Greg’s mother’s brother’s son. Therefore, Peter is Greg’s cousin.
+    step1: |-
+      1. Peter 是 Greg 的母亲的兄弟的儿子。所以，Peter 是 Greg 的表亲。
+    step2: |-
+      1. Peter 是 Greg 的母亲的兄弟的儿子。所以，Peter 是 Greg 的表亲。
+  - id: 21
+    kind: body
+    source: |-
+      One can understand that the conclusion follows from the premises, on the basis of one’s understanding of the concepts involved. One need not know anything about the identity of Peter, Greg’s cousin. Still, many have thought that (4) is not deductively valid, despite its credentials as truth-preserving on analytic or conceptual grounds. It is not quite as general as it could be because it is not as *formal* as it could be. The argument succeeds only because of the particular details of family concepts involved.
+    step1: |-
+      依据对所涉概念的理解，就能明白结论从前提得出。无须知道 Peter 或 Greg 的表亲的任何身份信息。尽管如此，许多人仍认为 (4) 不是演绎有效的，尽管它凭分析或概念理由保真。它不如可能的那么一般，因为它不够 *形式*。这个论证成立，只因所涉家族概念的特定细节。
+    step2: |-
+      只要懂这些概念，就能看出结论从前提得出；无须知道 Peter 或 Greg 的表亲是谁。尽管如此，许多人还是不认 (4) 为演绎有效，哪怕它靠分析或概念理由保真。它的毛病是不够 *形式*、不够普遍：论证能成立，全靠“母亲”“兄弟”“儿子”“表亲”这些家族概念的具体细节。
+  - id: 22
+    kind: body
+    source: |-
+      A further possibility for carving out the distinctive notion of *necessity* grounding logical consequence is the notion of *apriority*. Deductively valid arguments, whatever they are, can be known to be so without recourse to experience, so they must be knowable *a priori*. A constraint of apriority certainly seems to rule argument (3) out as deductively valid, and rightly so. However, it will not do to rule out argument (4). If we take arguments like (4) to turn not on matters of deductive validity but something else, such as an *a priori* knowable definition, then we must look elsewhere for a characterisation of logical consequence.
+    step1: |-
+      划定逻辑后承的 *必然性* 的另一种可能，是 *先验性*。演绎有效的论证，无论是什么，都能不诉诸经验而知其为有效，所以必须 *先验地* 可知。先验性约束当然合理地排除论证 (3)，排除得对。但它排除不了论证 (4)。如果我们认为像 (4) 这样的论证所关的不是演绎有效性而是别的东西，比如 *先验* 可知的定义，那么就得另找逻辑后承的刻画。
+    step2: |-
+      还有一种刻画 *必然性* 的办法，是诉诸 *先验性*。演绎有效的论证，不管长什么样，都能不经经验而知其有效，也就是 *先验* 可知。这条约束当然能合理地把 (3) 挡在演绎有效之外——排得对。可它挡不住 (4)。若认为 (4) 这类论证涉及的并非演绎有效性，而是别的什么，比如 *先验* 可知的定义，那就得另找刻画逻辑后承的路子。
+  - id: 23
+    kind: body
+    source: |-
+      ## 2. Formal and Material Consequence
+    step1: |-
+      ## 2. 形式后承与实质后承
+    step2: |-
+      ## 2 形式后承与实质后承
+  - id: 24
+    kind: body
+    source: |-
+      The strongest and most widespread proposal for finding a narrower criterion for logical consequence is the appeal to *formality*. The step in (4) from “Peter is Greg’s mother’s brother’s son” to “Peter is my cousin” is a *material* consequence and not a formal one, because to make the step from the premise to the conclusion we need more than the *structure* or *form* of the claims involved: we need to understand their *contents* too.
+    step1: |-
+      为逻辑后承寻找更窄判据的最强、最普遍的提案，是诉诸 *形式性*。(4) 中从“Peter 是 Greg 的母亲的兄弟的儿子”到“Peter 是我的表亲”的一步是 *实质* 后承而非形式后承，因为要从前提走到结论，光靠所涉主张的 *结构* 或 *形式* 不够：还得理解它们的 *内容*。
+    step2: |-
+      给逻辑后承找更窄判据的最强、最通行方案，是诉诸 *形式性*。(4) 里从“Peter 是 Greg 的母亲的兄弟的儿子”到“Peter 是我的表亲”那一步是 *实质* 后承，不是形式后承：光靠主张的 *结构* 或 *形式* 走不到结论，还得懂它们的 *内容*。
+  - id: 25
+    kind: body
+    source: |-
+      What could the distinction between *form* and *content* mean? We mean to say that consequence is formal if it depends on the *form* and not the *substance* of the claims involved. But how is that to be understood? We will give at most a sketch, which, again, can be filled out in a number of ways.
+    step1: |-
+      *形式* 与 *内容* 的区分可以是什么意思？我们是想说：如果后承取决于所涉主张的 *形式* 而非 *实质*，它就是形式的。但这该怎么理解？我们至多给出一个梗概，它同样可以用多种方式充实。
+    step2: |-
+      *形式* 与 *内容* 之分到底指什么？我们想说的是：后承若只取决于主张的 *形式* 而非 *实质*，便是形式的。可这又怎么理解？这里只能勾个轮廓，往深处充实同样有多种办法。
+  - id: 26
+    kind: body
+    source: |-
+      The obvious first step is to notice that all presentations of the *rules* of logical consequence rely on schemes. Aristotle’s syllogistic is a proud example.
+    step1: |-
+      显而易见的第一步，是注意到逻辑后承 *规则* 的一切表述都依赖图式。亚里士多德的三段论是光荣的例子。
+    step2: |-
+      头一步显而易见：逻辑后承 *规则* 的各种表述都靠图式。亚里士多德的三段论就是现成的光荣例子。
+  - id: 27
+    kind: body
+    source: |-
+      F*e*r*io*: No $F$ is $G$. Some $H$ is $G$. Therefore some $H$ is not $F$.
+    step1: |-
+      F*e*r*io*：没有 $F$ 是 $G$。有的 $H$ 是 $G$。所以有的 $H$ 不是 $F$。
+    step2: |-
+      F*e*r*io*：没有 $F$ 是 $G$。有的 $H$ 是 $G$。所以有的 $H$ 不是 $F$。
+  - id: 28
+    kind: body
+    source: |-
+      Inference schemes, like the one above, display the structure of valid arguments. Perhaps to say that an argument is formally valid is to say that it falls under some general scheme of which every instance is valid, such as F*e*r*io*.
+    step1: |-
+      像上面那样的推理图式展示有效论证的结构。也许，说一个论证形式有效，就是说它落入某个一般图式，该图式的每个实例都有效，比如 F*e*r*io*。
+    step2: |-
+      上面这样的推理图式，展示的是有效论证的结构。说论证形式有效，也许就是说：它落入某个一般图式，而这个图式的每个实例都有效——F*e*r*io* 就是一例。
+  - id: 29
+    kind: body
+    source: |-
+      That, too, is an incomplete specification of formality. The material argument (4) is an instance of:
+    step1: |-
+      这对形式性的刻画同样不完整。实质论证 (4) 是下面这个的实例：
+    step2: |-
+      但这样刻画形式性仍不完备。实质论证 (4) 其实是下面图式的实例：
+  - id: 30
+    kind: body
+    source: |-
+      1. $x$ is $y$’s mother’s brother’s son. Therefore, $x$ is $y$’s cousin.
+    step1: |-
+      1. $x$ 是 $y$ 的母亲的兄弟的儿子。所以，$x$ 是 $y$ 的表亲。
+    step2: |-
+      1. $x$ 是 $y$ 的母亲的兄弟的儿子。所以，$x$ 是 $y$ 的表亲。
+  - id: 31
+    kind: body
+    source: |-
+      every instance of which is valid. We must say more to explain why some schemes count as properly formal (and hence a sufficient ground for logical consequence) and others do not. A general answer will articulate the notion of logical form, which is an important issue in its own right (involving the notion of logical constants, among other things). Instead of exploring the details of different candidates for logical form, we will mention different proposals about the *point* of the exercise.
+    step1: |-
+      这个图式的每个实例都有效。但我们还得说更多，以解释为什么有些图式算作真正形式的（从而足以成为逻辑后承的根据），另一些不算。一般的回答要阐明逻辑形式的概念，这本身是个重要问题（其中涉及逻辑常项等概念）。与其细究逻辑形式的各个候选方案，我们不如谈谈这项工作的 *目的* 的不同提案。
+    step2: |-
+      这个图式的每个实例都有效。但要说清为什么有的图式算真正形式的（从而足以支撑逻辑后承），有的不算，还得讲更多。一般的答案要阐明“逻辑形式”这个概念——它本身就是个大问题（牵涉逻辑常项等）。我们不去细抠逻辑形式的各家候选，而改谈这项工作的 *目的* 何在。
+  - id: 32
+    kind: body
+    source: |-
+      What is the point in demanding that validity be underwritten by a notion of logical form? There are at least three distinct proposals for the required notion of formality, and each provides a different kind of answer to that question.
+    step1: |-
+      要求有效性由逻辑形式概念支撑，图的什么？对所需形式性概念，至少有三种不同提案，每种对那个问题给出不同的回答。
+    step2: |-
+      要求有效性由逻辑形式撑着，图的是什么？所需的形式性概念至少有三种不同提案，每种对此给出不同回答。
+  - id: 33
+    kind: body
+    source: |-
+      We might take the formal rules of logic to be totally *neutral* with respect to particular features of *objects*. Laws of logic, on this view, must abstract away from particular features of objects. Logic is formal in that it is totally *general*. One way to characterise what counts as a totally *general notion* is by way of permutations. Tarski proposed (1986) that an operation or predicate on a domain counted as general (or logical) if it was invariant under permutations of objects. (A permutation of a collection of objects assigns for each object a unique object in that collection, such that no object is assigned more than once. A permutation of $\{a, b, c, d\}$ might, for example, assign $b$ to $a, d$ to $b, c$ to $c$ and $a$ to $d$.) A $2$-place predicate $R$ is invariant under permutation if for any permutation $p$, whenever $Rxy$ holds, $Rp(x)p(y)$ holds too. You can see that the *identity* relation is permutation invariant—if $x = y$ then $p(x) = p(y)$—but the *mother-of* relation is not. We may have permutations $p$ such that even though $x$ is the mother of $y$, $p(x)$ is not the mother of $p(y)$. We may use permutation to characterise logicality for more than predicates too: we may say that a one-place sentential connective ‘$\bullet$’ is permutation invariant if and only if, for all $A$, $p(\bullet A)$ is true if and only if $\bullet p(A)$ is true. Defining this rigorously requires establishing how permutations operate on sentences, and this takes us beyond the scope of this article. Suffice to say, an operation such as negation passes the test of invariance, but an operation such as ‘JC believes that’ fails.
+    step1: |-
+      我们也许可以把逻辑的形式规则看作对 *对象* 的特定特征完全 *中立*。按这种看法，逻辑规律必须从对象的特定特征中抽象出来。逻辑是形式的，因为它完全 *一般*。刻画什么算作完全 *一般的概念* 的一种方式，是借助置换。Tarski（1986）提出，一个域上的运算或谓词若在对象的置换下不变，就算作一般的（或逻辑的）。（一个对象集合的置换，给每个对象指定该集合中一个唯一对象，且没有对象被指定多于一次。例如，对 $\{a, b, c, d\}$ 的一个置换可以把 $b$ 指定给 $a, d$ 指定给 $b, c$ 指定给 $c$、把 $a$ 指定给 $d$。）一个 $2$ 元谓词 $R$ 在置换下不变，如果对任何置换 $p$，只要 $Rxy$ 成立，$Rp(x)p(y)$ 也成立。你可以看出，*同一* 关系是置换不变的——如果 $x = y$，则 $p(x) = p(y)$——但 *……的母亲* 关系不是。可能存在这样的置换 $p$：尽管 $x$ 是 $y$ 的母亲，$p(x)$ 却不是 $p(y)$ 的母亲。我们也可以用置换来刻画不止谓词的逻辑性：可以说，一元语句联结词“$\bullet$”是置换不变的，当且仅当对所有 $A$，$p(\bullet A)$ 为真当且仅当 $\bullet p(A)$ 为真。要严格定义这一点，需要确定置换如何作用于句子，这超出了本文范围。只要说：否定这样的运算通过不变性检验，而“JC 相信”这样的运算不通过。
+    step2: |-
+      一种看法是：逻辑的形式规则对 *对象* 的具体特征完全 *中立*。按此说，逻辑规律必须从对象的具体特征中抽象出来；逻辑之所以是形式的，就因为它完全 *一般*。要刻画什么叫完全 *一般* 的概念，一个办法是借置换。Tarski（1986）提出：一个域上的运算或谓词，若在对象置换下不变，就算一般的（或逻辑的）。（集合中对象的置换，给每个对象指派该集合里唯一一个对象，且没有对象被指派两次。比如 $\{a, b, c, d\}$ 的一个置换，可以把 $b$ 指定给 $a, d$ 指定给 $b, c$ 指定给 $c$、把 $a$ 指定给 $d$。）$2$ 元谓词 $R$ 置换不变，是指对任何置换 $p$，凡 $Rxy$ 成立，$Rp(x)p(y)$ 也成立。看得出来，*同一* 关系置换不变——若 $x = y$，则 $p(x) = p(y)$——但 *……的母亲* 关系不是：可能存在置换 $p$，使 $x$ 是 $y$ 的母亲，$p(x)$ 却不是 $p(y)$ 的母亲。置换还能用来刻画谓词之外的逻辑性：说一元语句联结词“$\bullet$”置换不变，当且仅当对所有 $A$，$p(\bullet A)$ 为真当且仅当 $\bullet p(A)$ 为真。要严格定义这一点，得先说明置换如何作用于句子，这超出本文范围。只说一句：否定这类运算能通过不变性检验，“JC 相信”这类运算通不过。
+  - id: 34
+    kind: body
+    source: |-
+      A closely related analysis for formality is that formal rules are totally *abstract*. They abstract away from the semantic *content* of thoughts or claims, to leave only semantic structure. The terms ‘mother’ and ‘cousin’ enter essentially into argument (5). On this view, expressions such as propositional connectives and quantifiers do not add new semantic content to expressions, but instead add only ways to combine and structure semantic content. Expressions like ‘mother’ and ‘cousin’, by contrast, add new semantic content.
+    step1: |-
+      一个密切相关的形式性分析是：形式规则完全 *抽象*。它们从思想或主张的语义 *内容* 中抽象出来，只留下语义结构。“母亲”和“表亲”这些词项本质地进入论证 (5)。按这种看法，命题联结词和量词之类的表达式不给表达式增添新的语义内容，只增添组合与组织语义内容的方式。相比之下，“母亲”“表亲”这类表达式增添新的语义内容。
+    step2: |-
+      另一种密切相关的形式性分析是：形式规则完全 *抽象*，从思想或主张的语义 *内容* 中抽走，只留下语义结构。“母亲”“表亲”这些词项是本质地进入论证 (5) 的。按此说，命题联结词、量词这类表达式不增添新的语义内容，只增添组合、组织语义内容的方式；“母亲”“表亲”这类表达式则增添新内容。
+  - id: 35
+    kind: body
+    source: |-
+      Another way to draw the distinction (or to perhaps to draw a different distinction) is to take the formal rules of logic to be *constitutitive norms* for thought, regardless of its subject matter. It is plausible to hold that no matter what we think about, it makes sense to conjoin, disjoin and negate our thoughts to make new thoughts. It might also make sense to quantify. The behaviour, then, of logical vocabulary may be used to structure and regulate *any* kind of theory, and the norms governing logical vocabulary apply totally universally. The norms of valid argument, on this picture, are those norms that apply to thought irrespective of the particular content of that thought.[^note-1]
+    step1: |-
+      另一种作出区分（或作出另一种区分）的方式，是把逻辑的形式规则看作思想的 *构成性规范*，不论其主题是什么。可以合理认为，无论我们思考什么，把思想合取、析取、否定以造出新思想，都是有意义的；量化可能也有意义。于是，逻辑词汇的行为可以用来组织和调节 *任何* 理论，支配逻辑词汇的规范完全普遍适用。按这幅图景，有效论证的规范，就是不论思想的具体内容如何都适用于思想的规范。[^note-1]
+    step2: |-
+      还有一种分法（也许分的是另一件事）：把逻辑的形式规则看作思想的 *构成性规范*，不管思想关于什么。无论我们想的是什么，把思想合取、析取、否定，造出新思想，都说得通；量化大概也说得通。于是逻辑词汇的行为能用来组织和调节 *任何* 理论，支配逻辑词汇的规范普遍适用。按这幅图景，有效论证的规范，就是不管思想具体内容如何都管用的规范。[^note-1]
+  - id: 36
+    kind: body
+    source: |-
+      ## 3. Mathematical Tools: Models and Proofs
+    step1: |-
+      ## 3. 数学工具：模型与证明
+    step2: |-
+      ## 3 数学工具：模型与证明
+  - id: 37
+    kind: body
+    source: |-
+      Twentieth Century *technical* work on the notion of logical consequence has centered on two different mathematical tools, proof theory and model theory. Each of these can be seen as explicating different aspects of the concept of logical consequence, backed by different philosophical perspectives.
+    step1: |-
+      20 世纪关于逻辑后承概念的 *技术* 工作，集中在两种不同的数学工具上：证明论与模型论。二者都可看作对逻辑后承概念不同方面的阐明，背后各有不同的哲学视角。
+    step2: |-
+      20 世纪围绕逻辑后承的 *技术* 工作，集中在两件数学工具上：证明论与模型论。两者各自阐明后承概念的不同侧面，背后也各有哲学立场。
+  - id: 38
+    kind: body
+    source: |-
+      ### 3.1 The model-theoretic account of logical consequence
+    step1: |-
+      ### 3.1 逻辑后承的模型论说明
+    step2: |-
+      ### 3.1 逻辑后承的模型论说明
+  - id: 39
+    kind: body
+    source: |-
+      We have characterized logical consequence as *necessary truth preservation in virtue of form*. This idea can be explicated formally. One can use mathematical structures to account for the range of possibilities over which truth needs to be preserved. The formality of logical consequence can be explicated formally by giving a special role to the logical vocabulary, taken as constituting the forms of sentences. Let us see how model theory attends to both these tasks.
+    step1: |-
+      我们把逻辑后承刻画为 *凭形式而必然保真*。这个想法可以形式地阐明。人们可以用数学结构来说明需要保真的可能范围。逻辑后承的形式性可以这样形式地阐明：给逻辑词汇一个特殊角色，把它看作构成句子的形式。下面看看模型论如何兼顾这两项任务。
+    step2: |-
+      我们把逻辑后承刻画为 *凭形式而必然保真*。这个想法可以形式地讲清楚：用数学结构来涵盖需要保真的种种可能性；再给逻辑词汇一个特殊地位，把它当作句子形式的构成成分，从而形式地说明后承的形式性。下面看模型论怎样同时应付这两件事。
+  - id: 40
+    kind: body
+    source: |-
+      The *model-centered approach* to logical consequence takes the validity of an argument to be *absence of counterexample*. A *counterexample* to an argument is, in general, some way of manifesting the manner in which the premises of the argument *fail* to lead to a conclusion. One way to do this is to provide an argument of the same form for which the premises are clearly true and the conclusion is clearly false. Another way to do this is to provide a *circumstance* in which the premises are true and the conclusion is false. In the contemporary literature, the intuitive idea of a counterexample is developed into a theory of *models*.
+    step1: |-
+      逻辑后承的 *以模型为中心的进路* 把论证的有效性看作 *没有反例*。一般地说，论证的 *反例* 是显示该论证的前提 *未能* 推出结论的某种方式。一种做法是给出同形式的论证，其前提明显真而结论明显假。另一种做法是给出一种 *境况*，其中前提真而结论假。在当代文献中，反例的直观想法被发展成 *模型* 理论。
+    step2: |-
+      逻辑后承的 *以模型为中心的进路*，把论证有效看作 *没有反例*。一般说，论证的 *反例* 就是显示前提 *推不出* 结论的某种方式。可以给出同形式、前提明显真而结论明显假的论证；也可以给出一种 *境况*，其中前提真、结论假。当代文献把反例这个直观想法发展成了 *模型* 理论。
+  - id: 41
+    kind: body
+    source: |-
+      The exact structure of a model will depend on the kind of language at hand (extensional/intensional, first/higher-order, etc.). A model for an extensional first order language consists of a non-empty set which constitutes the *domain*, and an *interpretation function*, which assigns to each nonlogical term an extension over the domain—any extension agreeing with its semantic type (individual constants are assigned elements of the domain, function symbols are assigned functions from the domain to itself, one-place first-order predicates are assigned subsets of the domain, etc.).
+    step1: |-
+      模型的确切结构取决于手头的语言种类（外延/内涵、一阶/高阶等）。外延一阶语言的模型由一个构成 *域* 的非空集合，以及一个 *解释函数* 组成；解释函数给每个非逻辑词项指定域上的一个外延——任何与其语义类型相符的外延（个体常项被指定为域中元素，函数符号被指定为从域到自身的函数，一元一阶谓词被指定为域的子集，等等）。
+    step2: |-
+      模型的具体结构取决于语言的种类（外延/内涵、一阶/高阶等）。外延一阶语言的模型包括一个非空集合，即 *域*；还包括一个 *解释函数*，给每个非逻辑词项指定域上的一个外延——只要与其语义类型相符即可（个体常项指派域中元素，函数符号指派域到自身的函数，一元一阶谓词指派域的子集，等等）。
+  - id: 42
+    kind: body
+    source: |-
+      The contemporary model-theoretic definition of logical consequence traces back to Tarski (1936). It builds on the definition of *truth in a model* given by Tarski in (1935). Tarski defines a *true sentence in a model* recursively, by giving truth (or satisfaction) conditions on the logical vocabulary. A conjunction, for example, is true in a model if and only if both conjuncts are true in that model. A universally quantified sentence $\forall xFx$ is true in a model if and only if each instance is true in the model. (Or, on the Tarskian account of satisfaction, if and only if the open sentence $Fx$ is satisfied by every object in the domain of the model. For detail on how this is accomplished, see the entry on Tarski’s truth definitions.) Now we can define logical consequence as preservation of truth over models: an argument is valid if in any *model* in which the premises are true (or in any *interpretation* of the premises according to which they are true), the conclusion is true too.
+    step1: |-
+      当代模型论对逻辑后承的定义可追溯到 Tarski（1936）。它建立在 Tarski（1935）给出的 *模型中的真* 定义之上。Tarski 通过对逻辑词汇给出真（或满足）条件，递归地定义 *模型中的真句子*。例如，一个合取在模型中为真，当且仅当两个合取项在该模型中都为真。全称量化句 $\forall xFx$ 在模型中为真，当且仅当其每个实例在模型中为真。（或者，按 Tarski 的满足说明，当且仅当开公式 $Fx$ 被模型中域的所有对象满足。关于其实现细节，见 Tarski 真定义词条。）现在可以把逻辑后承定义为模型上的保真：一个论证有效，如果在任何使前提为真的 *模型* 中（或按任何使前提为真的 *解释*），结论也为真。
+    step2: |-
+      当代模型论的后承定义可追溯到 Tarski（1936），它建立在 Tarski（1935）的 *模型中的真* 定义上。Tarski 给逻辑词汇规定真（或满足）条件，递归地定义 *模型中的真句子*：比如合取在模型中为真，当且仅当两个合取项在该模型中都真；全称量化句 $\forall xFx$ 在模型中为真，当且仅当其每个实例在模型中为真（按 Tarski 的满足说明，则是开公式 $Fx$ 被模型中域的所有对象满足；细节见“Tarski 真定义”词条）。于是，逻辑后承可定义为模型上的保真：在任何使前提为真的 *模型* 中（或按任何使前提为真的 *解释*），结论也为真，论证就有效。
+  - id: 43
+    kind: body
+    source: |-
+      The model-theoretic definition is one of the most successful mathematical explications of a philosophical concept to date. It promises to capture both the necessity of logical consequence—by looking at truth over all models, and the formality of logical consequence—by varying the interpretations of the nonlogical vocabulary across models: an argument is valid no matter what the nonlogical vocabulary means. Yet, models are just sets, which are merely mathematical objects. How do they account for the range of possibilities, or circumstances required? John Etchemendy (1990) offers two perspectives for understanding models. On the *representational approach*, each model is taken to represent a possible world. If an argument preserves truth over models, we are then guaranteed that it preserves truth over possible worlds, and if we accept the identification of necessity with truth in all possible worlds, we have the necessary truth preservation of logical consequence. The problem with this approach is that it identifies logical consequence with metaphysical consequence, and it gives no account of the formality of logical consequence. On the representational approach, there is no basis for a distinction between the logical and the nonlogical vocabulary, and there is no explanation of why the interpretations of the nonlogical vocabulary are maximally varied. The second perspective on models is afforded by the *interpretational approach*, by which each model assigns extensions to the nonlogical vocabulary from the actual world: what varies between models is not the world depicted but the meaning of the terms. Here, the worry is that necessity isn’t captured. For instance, on the usual division of the vocabulary into logical and nonlogical, identity is considered a logical term, and can be used to form statements about the cardinality of the domain (e.g., ‘‘there are at least two things’’) which are true under every reinterpretation, but perhaps are not necessarily true. On this approach, there is no basis for considering models with domains other than the universe of what actually exists, and specifically, there is no explanation of model theory’s use of domains of different sizes. Each approach, as described here, is flawed with respect to our analysis of logical consequence as necessary and formal. The interpretational approach, by looking only at the actual world fails to account for necessity, and the representational approach fails to account for formality (for details, see Etchemendy 1990, Sher 1996, and Shapiro 1998, and for refinements see Etchemendy 2008)[^etchemendy-1990][^etchemendy-2008][^shapiro-1998][^sher-1996]. A possible response to Etchemendy would be to blend the representational and the interpretational perspectives, viewing each model as representing a possible world under a re-interpretation of the nonlogical vocabulary (Shapiro 1998, see also Sher 1996 and Hanson 1997 for alternative responses)[^hanson-1997][^shapiro-1998][^sher-1996].
+    step1: |-
+      模型论定义是迄今对哲学概念最成功的数学阐明之一。它有望同时抓住逻辑后承的必然性——通过考察所有模型中的真，以及逻辑后承的形式性——通过在各模型间改变非逻辑词汇的解释：无论非逻辑词汇是什么意思，论证都有效。然而，模型只是集合，只是数学对象。它们如何说明所需的那一范围的可能性或境况？John Etchemendy（1990）为理解模型提供了两种视角。按 *表象进路*，每个模型被看作表象一个可能世界。如果论证在模型上保真，那么我们就得到保证：它在可能世界上保真；如果我们接受把必然性等同于在所有可能世界中为真，就得到了逻辑后承的必然保真。这种进路的问题在于，它把逻辑后承等同于形而上学后承，而且没有说明逻辑后承的形式性。按表象进路，没有根据区分逻辑词汇与非逻辑词汇，也没有解释为什么非逻辑词汇的解释要被最大限度地变化。第二种视角是 *解释进路*：每个模型从现实世界给非逻辑词汇指定外延；模型之间变化的不是所描绘的世界，而是词项的意义。这里的担忧是，必然性没被抓住。例如，按通常把词汇分为逻辑词汇与非逻辑词汇的做法，同一性被视为逻辑词项，可用来构成关于域之基数的陈述（如“至少有两个东西”），这些陈述在每种重新解释下都为真，但也许并非必然为真。按这种进路，没有根据考虑域不同于实际存在之总体的模型，特别是，没有解释模型论为何使用不同大小的域。如上所述，两种进路就我们把逻辑后承分析为必然且形式而言都有缺陷。解释进路只看现实世界，说明不了必然性；表象进路说明不了形式性（细节见 Etchemendy 1990、Sher 1996、Shapiro 1998；改进见 Etchemendy 2008）[^etchemendy-1990][^etchemendy-2008][^shapiro-1998][^sher-1996]。对 Etchemendy 的一种可能回应，是把表象进路与解释进路融合起来，把每个模型看作在非逻辑词汇重新解释下表象一个可能世界（Shapiro 1998；其他回应见 Sher 1996、Hanson 1997）[^hanson-1997][^shapiro-1998][^sher-1996]。
+    step2: |-
+      模型论定义是迄今对哲学概念最成功的数学阐明之一。它似乎既能抓住后承的必然性（看所有模型中的真），又能抓住形式性（在各模型间改变非逻辑词汇的解释：非逻辑词汇无论什么意思，论证都有效）。可模型只是集合，只是数学对象，它们凭什么说明所需的那一范围可能性或境况？John Etchemendy（1990）提出两种理解模型的视角。按 *表象进路*，每个模型表象一个可能世界；论证若在模型上保真，就保证在可能世界上保真，再把必然性等同于在所有可能世界中为真，便得到后承的必然保真。问题是：这把逻辑后承等同于形而上学后承，也没说明形式性——按表象进路，逻辑词汇与非逻辑词汇无从区分，也解释不了为什么非逻辑词汇的解释要被尽量变化。另一视角是 *解释进路*：每个模型都从现实世界给非逻辑词汇指定外延，模型之间变的是词项意义，不是所描绘的世界。这里担心的是必然性没被抓住。比如按通常的逻辑/非逻辑词汇之分，同一性是逻辑词项，能构成关于域之基数的陈述（如“至少有两个东西”），这些陈述在每种重新解释下都真，却未必必然真。按这种进路，也没有根据去考虑域不同于实际存在总体的模型，尤其解释不了模型论为何使用不同大小的域。照上面的描述，两种进路在我们“必然且形式”的分析下各有缺陷：解释进路只盯现实世界，说明不了必然性；表象进路说明不了形式性（细节见 Etchemendy 1990、Sher 1996、Shapiro 1998；改进见 Etchemendy 2008）[^etchemendy-1990][^etchemendy-2008][^shapiro-1998][^sher-1996]。对 Etchemendy 的一种可能回应，是把两种视角融合：每个模型都在非逻辑词汇重新解释之下表象一个可能世界（Shapiro 1998；其他回应见 Sher 1996、Hanson 1997）[^hanson-1997][^shapiro-1998][^sher-1996]。
+  - id: 44
+    kind: body
+    source: |-
+      One of the main challenges set by the model-theoretic definition of logical consequence is to distinguish between the logical and the nonlogical vocabulary. The logical vocabulary is defined in all models by the recursive clauses (such as those mentioned above for conjunction and the universal quantifier), and in that sense its meaning is fixed. The choice of the logical vocabulary determines the class of models considered when evaluating validity, and thus it determines the class of the logically valid arguments. Now, while each formal language is typically defined with a choice of a logical vocabulary, one can ask for a more principled characterization of logical vocabulary. Tarski left the question of a principled distinction open in his 1936, and only gave the lines of a relativistic stance, by which different choices of the logical vocabulary may be admissible. Others have proposed criteria for logicality, demanding that logical constants be appropriately formal, general or topic neutral (for references and details, see the entry on logical constants). Note that a choice of the logical vocabulary is a special case of setting constraints on the class of models to be used. It has been suggested that the focus on criteria for the logical vocabulary misses this point, and that more generally the question is which *semantic constraints* should be adopted, limiting the *admissible models* for a language (Sagi 2014a, Zinke 2017)[^sagi-2014a].
+    step1: |-
+      模型论定义提出的主要挑战之一，是区分逻辑词汇与非逻辑词汇。逻辑词汇在所有模型中由递归子句定义（如上文对合取与全称量词的子句），在这个意义上其意义是固定的。逻辑词汇的选择决定评价有效性时所考虑的模型类，从而决定逻辑有效论证的类。虽然每种形式语言通常都带着某种逻辑词汇的选择来定义，人们仍可要求对逻辑词汇作更有原则的刻画。Tarski 在 1936 年文中留下这个原则性区分问题，只给出相对主义立场的线索：逻辑词汇的不同选择都可允许。另一些人提出逻辑性判据，要求逻辑常项适当地形式、一般或中立于主题（参考文献与细节见逻辑常项词条）。注意，选择逻辑词汇是给所用模型类设定约束的特例。有人指出，只盯逻辑词汇判据会错过这一点；更一般的问题应当是采用哪些 *语义约束* 来限制语言的 *可容许模型*（Sagi 2014a, Zinke 2017）[^sagi-2014a]。
+    step2: |-
+      模型论定义的一大挑战，是区分逻辑词汇与非逻辑词汇。逻辑词汇在所有模型里由递归子句定义（如前文对合取、全称量词的处理），在这个意义上意义固定。选哪些逻辑词汇，就决定了评价有效性时考察哪一类模型，从而决定哪些论证逻辑有效。每种形式语言通常都带着某种逻辑词汇的选择，但人们仍可要求对逻辑词汇作更有原则的刻画。Tarski 1936 年把这问题搁下了，只给了相对主义立场的线索：逻辑词汇的不同选择都可允许。另一些人提出逻辑性判据，要求逻辑常项适当地形式、一般或中立于主题（文献与细节见“逻辑常项”词条）。要注意，选逻辑词汇只是给模型类加约束的特例；有人指出，只盯逻辑词汇判据会漏掉这一点，更一般的问题是采用哪些 *语义约束* 来限制语言的 *可容许模型*（Sagi 2014a, Zinke 2017）[^sagi-2014a]。
+  - id: 45
+    kind: body
+    source: |-
+      Another challenge faced by the model-theoretic account is due to the limitations of its set-theoretic basis. Recall that models are sets. The worry is that truth-preservation over models might not guarantee necessary truth preservation—moreover, it might not even guarantee material truth preservation (truth preservation in the actual world). The reason is that each model domain is a set, but the actual world presumably contains all sets, and as a collection which includes all sets is too ‘‘large’’ to be a set (it constitutes a *proper class*), the actual world is not accounted for by any model (see Shapiro 1987)[^shapiro-1987].
+    step1: |-
+      模型论说明面临的另一挑战，来自其集合论基础的局限。回想模型是集合。担忧是：模型上的保真未必保证必然保真——而且甚至未必保证实质保真（现实世界中的保真）。原因是每个模型域都是集合，而现实世界大概包含所有集合；包含所有集合的总体“太大”，不能成为集合（它构成 *真类*），所以现实世界不被任何模型说明（见 Shapiro 1987）[^shapiro-1987]。
+    step2: |-
+      模型论说明还有一重困难：它的集合论基础有限。模型是集合，而模型上的保真未必保证必然保真，甚至未必保证实质保真（现实世界里的保真）。因为每个模型域都是集合，可现实世界大概包含所有集合；把所有集合收在一起的总体“太大”，不是集合（它是 *真类*），所以现实世界不被任何模型说明（见 Shapiro 1987）[^shapiro-1987]。
+  - id: 46
+    kind: body
+    source: |-
+      One way of dealing with this worry is to employ external means, such as proof theory, in support of the model-theoretic definition. This is done by Georg Kreisel in his “squeezing argument”, which we present in section 3.3. Kreisel’s argument crucially depends on the language in question having a sound and complete proof system. Another option is to use set-theoretic reflection principles. Generally speaking, reflection principles state that whatever is true of the universe of sets, is already true in an initial segment thereof (which is always a set). If reflection principles are accepted, then at least as concerns the relevant language, one can argue that an argument is valid if and only if there is no counter set-model (see Kreisel 1967, Shapiro 1987, Kennedy & Väänänen 2017)[^kennedy-2017][^kreisel-1967][^shapiro-1987].
+    step1: |-
+      处理这一担忧的一种方式，是采用外部手段，如证明论，来支持模型论定义。Georg Kreisel 的“挤压论证”就是这么做的，我们在 3.3 节介绍。Kreisel 的论证关键依赖于所涉语言有可靠且完全的证明系统。另一种选择是使用集合论反射原则。一般地说，反射原则断言：凡对集合宇宙为真的，在某个初始段（它总是集合）中已经为真。如果接受反射原则，那么至少就相关语言而言，可以论证：一个论证有效，当且仅当不存在反例集合模型（见 Kreisel 1967、Shapiro 1987、Kennedy & Väänänen 2017）[^kennedy-2017][^kreisel-1967][^shapiro-1987]。
+    step2: |-
+      一种应对办法是借外部手段，比如证明论，来支撑模型论定义——Georg Kreisel 的“挤压论证”就是这么做的，见 3.3 节。该论证的关键，是所涉语言要有可靠且完全的证明系统。另一条路是用集合论反射原则：粗略说，凡对集合宇宙为真的，在它的某个初始段（总是一个集合）里已经为真。若接受反射原则，至少对相关语言可以论证：论证有效，当且仅当不存在反例集合模型（见 Kreisel 1967、Shapiro 1987、Kennedy & Väänänen 2017）[^kennedy-2017][^kreisel-1967][^shapiro-1987]。
+  - id: 47
+    kind: body
+    source: |-
+      Finally, the explanation of logical consequence in terms of truth in models is typically preferred by “Realists”, who take truth of sentences to be independent of what can be known. Explaining logical consequence in terms of truth in models is rather close to explaining logical consequence in terms of *truth*, and the analysis of truth-in-a-model is sometimes taken to be an explication of truth in terms of correspondence, a typically Realist notion. Some, however, view logical consequence as having an indispensable epistemic component, having to do with the way we establish the conclusion on the basis of the premises. “Anti-realists”, who eschew taking truth (or at least, correspondence-truth) as an explanatory notion, will typically prefer explaining logical consequence in terms of *proof*—to which we turn next.
+    step1: |-
+      最后，用模型中的真来解释逻辑后承，通常为“实在论者”所偏爱，他们认为句子的真独立于我们能知道什么。用模型中的真解释逻辑后承，与用 *真* 解释逻辑后承相当接近，而模型中的真之分析有时被看作对符合论意义上的真的阐明，而符合论是典型的实在论概念。然而有些人认为逻辑后承有不可或缺的认识成分，与我们如何依据前提确立结论有关。“反实在论者”不愿把真（或至少符合论的真）当作解释性概念，通常更愿意用 *证明* 来解释逻辑后承——接下来就谈这个。
+    step2: |-
+      最后，用模型中的真来解释后承，通常是“实在论者”的口味——他们认为句子真不真，与我们能知道什么无关。用模型中的真解释后承，离用 *真* 解释后承很近；而“模型中的真”有时被当作符合论意义的真的阐明，符合论正是典型的实在论概念。但也有人认为，逻辑后承有不可或缺的认识成分，牵涉我们如何依据前提确立结论。“反实在论者”不肯把真（至少符合论的真）当作解释概念，通常更愿意用 *证明* 来解释后承——下面就说这个。
+  - id: 48
+    kind: body
+    source: |-
+      ### 3.2 The proof-theoretic account of logical consequence
+    step1: |-
+      ### 3.2 逻辑后承的证明论说明
+    step2: |-
+      ### 3.2 逻辑后承的证明论说明
+  - id: 49
+    kind: body
+    source: |-
+      On the *proof-centered approach* to logical consequence, the validity of an argument amounts to there being a *proof* of the conclusions from the premises. Exactly what proofs *are* is a big issue but the idea is fairly plain (at least if you have been exposed to some proof system or other). Proofs are made up of small steps, the primitive inference principles of the proof system. The 20th Century has seen very many different kinds of proof systems, from so-called Hilbert proofs, with simple rules and complex axioms, to natural deduction systems, with few (or even no) axioms and very many rules.
+    step1: |-
+      按逻辑后承的 *以证明为中心的进路*，论证有效就在于存在从前提推出结论的 *证明*。证明究竟 *是什么* 是个大问题，但想法相当朴素（至少你接触过某种证明系统）。证明由小步组成，即证明系统的原始推理原则。20 世纪出现了非常多不同种类的证明系统，从规则简单、公理复杂的所谓希尔伯特证明，到公理很少（甚至没有）而规则极多的自然演绎系统。
+    step2: |-
+      按 *以证明为中心的进路*，论证有效，就在于存在从前提到结论的 *证明*。证明究竟 *是什么* 是大问题，但想法很朴素（只要你接触过某种证明系统）。证明由一小步一小步组成，即证明系统的原始推理原则。20 世纪涌现了名目繁多的证明系统：从规则简单、公理复杂的所谓希尔伯特证明，到公理很少（甚至没有）、规则一大堆的自然演绎系统。
+  - id: 50
+    kind: body
+    source: |-
+      The proof-centered approach highlights epistemic aspects of logical consequence. A proof does not merely attest to the validity of the argument: it provides the steps by which we can establish this validity. And so, if a reasoner has grounds for the premises of an argument, and they infer the conclusion via a series of applications of valid inference rules, they thereby obtain grounds for the conclusion (see Prawitz 2012)[^prawitz-2012]. One can go further and subscribe to *inferentialism*, the view by which the meaning of expressions is determined by their role in inference. The idea is that our use of a linguistic expression is regulated by rules, and mastering the rules suffices for understanding the expression. This gives us a preliminary restriction on what semantic values of expressions can be: they cannot make any distinctions not accounted for by the rules. One can then go even further, and reject any kind of meaning that goes beyond the rules—adopting the later Wittgensteinian slogan “meaning is use”. This view is favored by anti-realists about meaning, since meaning on this view is fully explained by what is knowable.
+    step1: |-
+      以证明为中心的进路凸显逻辑后承的认识方面。证明不只是证明论证有效：它提供我们据以确立有效性的步骤。于是，如果推理者对论证的前提有根据，并通过一系列有效推理规则的应用推出结论，他们就由此获得结论的根据（见 Prawitz 2012）[^prawitz-2012]。还可以更进一步，接受 *推理主义*：表达式的意义由其推理角色决定。其想法是，我们对语言表达式的使用受规则调节，掌握规则就足以理解该表达式。这给表达式的语义值加了一个初步限制：它们不能作出规则未说明的任何区分。还可以再进一步，拒斥一切超出规则的意义——采纳后期维特根斯坦的口号“意义即用法”。这种看法受意义反实在论者青睐，因为按此说意义完全由可知道的东西解释。
+    step2: |-
+      以证明为中心的进路，突出后承的认识面。证明不只是在担保论证有效，它还给出我们据以确立有效性的步骤。所以，推理者若对前提有根据，又通过一串有效推理规则推出结论，就由此得到了结论的根据（见 Prawitz 2012）[^prawitz-2012]。还可以再进一层，接受 *推理主义*：表达式意义由其在推理中的角色决定。我们对语言表达式的使用受规则调节，掌握规则就足以理解表达式。这就先给语义值划了条线：语义值不能作出规则未说明的区分。再进一步，还可以拒斥一切超出规则的意义，采纳后期维特根斯坦的口号“意义即用法”。意义反实在论者偏爱这种看法，因为在这里意义完全由可知的东西解释。
+  - id: 51
+    kind: body
+    source: |-
+      The condition of necessity on logical consequence obtains a new interpretation in the proof-centered approach. The condition can be reformulated thus: in a valid argument, the truth of the conclusion follows from the truth of the premises by necessity of thought (Prawitz 2005)[^prawitz-2005]. Let us parse this formulation. *Truth* is understood *constructively*: sentences are true in virtue of *potential evidence* for them, and the facts described by true sentences are thus conceived as constructed in terms of potential evidence. (Note that one can completely forgo reference to truth, and instead speak of assertibility or acceptance of sentences.) Now, the necessity of thought by which an argument is valid is explained by the meaning of the terms involved, which compels us to accept the truth of the conclusion given the truth of the premises. Meanings of expressions, in turn, are understood through the rules governing their use: the usual *truth conditions* give their way to *proof conditions* of formulas containing an expression.
+    step1: |-
+      逻辑后承的必然性条件在以证明为中心的进路中获得新解释。该条件可改述为：在有效论证中，结论的真凭思想的必然性从前提的真得出（Prawitz 2005）[^prawitz-2005]。让我们解析这个表述。*真* 被 *构造性地* 理解：句子凭其 *潜在证据* 而为真，真句子所描述的事实因而被设想为按潜在证据构造出来的。（注意，可以完全不用真，而谈句子的可断言性或可接受性。）于是，论证借以有效的思想必然性，由所涉词项的意义来解释，这种意义迫使我们在前提为真时接受结论为真。表达式的意义又通过支配其使用的规则来理解：含有某表达式的公式的通常 *真值条件*，让位于 *证明条件*。
+    step2: |-
+      在证明中心进路里，后承的必然性条件有了新读法，可以改述为：有效论证中，结论的真凭思想的必然性从前提的真得出（Prawitz 2005）[^prawitz-2005]。解析一下：*真* 作 *构造性* 理解——句子凭其 *潜在证据* 为真，真句子描述的事实也按潜在证据设想为构造出来的。（也可以完全绕开真，改谈句子的可断言性或可接受性。）论证借以有效的思想必然性，由所涉词项的意义解释：前提真，意义就逼着我们接受结论真。表达式的意义又靠支配其使用的规则来理解：含该表达式的公式，其通常的 *真值条件* 让位给 *证明条件*。
+  - id: 52
+    kind: body
+    source: |-
+      One can thus provide a *proof-theoretic semantics* for a language (Schroeder-Heister 1991)[^schroeder-heister-1991]. When presenting his system of natural deduction, Gentzen remarked that the introduction rules for the logical expressions represent their “definitions,” and the elimination rules are consequences of those definitions (Gentzen 1933). For example, the introduction rule for conjunction dictates that a conjunction $A \amp B$ may be inferred from both conjuncts $A$ and $B$, and this rule captures the meaning of the connective. Conversely, the elimination rule for conjunction says that from $A \amp B$ one may infer both $A$ and $B$. The universal quantifier rules tell us that from the universally quantified claim $\forall xFx$ we can infer any instance $Fa$, and we can infer $\forall xFx$ from the instance $Fa$, provided that no other assumption has been made involving the name $a$. Under certain requirements, one can show that the elimination rule is validated by the introduction rule.
+    step1: |-
+      因此可以为语言提供 *证明论语义*（Schroeder-Heister 1991）[^schroeder-heister-1991]。Gentzen 在呈现其自然演绎系统时指出，逻辑表达式的引入规则代表它们的“定义”，消去规则是这些定义的后果（Gentzen 1933）。例如，合取的引入规则规定，合取 $A \amp B$ 可以从两个合取项 $A$ 与 $B$ 推出，这条规则抓住了该联结词的意义。反过来，合取的消去规则说，从 $A \amp B$ 可以推出 $A$ 与 $B$。全称量词规则告诉我们，从全称量化主张 $\forall xFx$ 可以推出任何实例 $Fa$，也可以从实例 $Fa$ 推出 $\forall xFx$，只要没有其他涉及名称 $a$ 的假定被作出。在一定要求下，可以证明消去规则得到引入规则的认可。
+    step2: |-
+      这样就能给语言配上 *证明论语义*（Schroeder-Heister 1991）[^schroeder-heister-1991]。Gentzen 呈现自然演绎系统时说过：逻辑表达式的引入规则代表其“定义”，消去规则是这些定义的后果（Gentzen 1933）。比如合取的引入规则规定，合取 $A \amp B$ 可从两个合取项 $A$、$B$ 推出，这条规则抓住了联结词的意义；消去规则反过来说，从 $A \amp B$ 可推出 $A$ 与 $B$。全称量词规则说：从 $\forall xFx$ 可推出任何实例 $Fa$；只要没有其他涉及名称 $a$ 的假定，也可从实例 $Fa$ 推出 $\forall xFx$。在一定条件下可以证明，消去规则得到引入规则的认可。
+  - id: 53
+    kind: body
+    source: |-
+      One of the main challenges for the proof-centered approach is that of distinguishing between rules that are genuinely meaning-determining and those that are not. Some rules for connectives, if added to a system, would lead to triviality. Prior (1960) offered the following rules for a connective “$\tonk$”. Its introduction rule says that from $A$ one can infer $A \tonk B$, and its elimination rule says that from $A \tonk B$ one can infer $B$. With the introduction of these rules, the system becomes trivial so long as at least one thing is provable, since from any assumption $A$ one can derive any conclusion $B$. Some constraints have to posed on inference rules, and much of subsequent literature has been concerned with these constraints (Belnap 1962, Dummett 1991, Prawitz 1974)[^dummett-1991][^belnap-1962][^prawitz-1974].
+    step1: |-
+      以证明为中心的进路面临的主要挑战之一，是区分真正决定意义的规则与不决定意义的规则。某些联结词规则若加入系统，会导致平凡性。Prior（1960）为一个联结词“$\tonk$”提出如下规则。其引入规则说，从 $A$ 可以推出 $A \tonk B$；其消去规则说，从 $A \tonk B$ 可以推出 $B$。加入这些规则后，只要至少有一件事可证明，系统就变得平凡，因为从任何假定 $A$ 都能推出任何结论 $B$。必须对推理规则施加某些约束，后续文献很大一部分都在讨论这些约束（Belnap 1962, Dummett 1991, Prawitz 1974）[^dummett-1991][^belnap-1962][^prawitz-1974]。
+    step2: |-
+      以证明为中心的进路，主要难题之一是分清哪些规则真正决定意义、哪些不。有些联结词规则一旦加入系统，系统就会平凡。Prior（1960）给联结词“$\tonk$”设了两条规则：引入规则说，从 $A$ 可推出 $A \tonk B$；消去规则说，从 $A \tonk B$ 可推出 $B$。加入这两条后，只要系统里至少能证一件事，就会平凡——因为从任何假定 $A$ 都能推出任何结论 $B$。所以必须给推理规则加约束，后来的文献很大一部分就在讨论这些约束（Belnap 1962, Dummett 1991, Prawitz 1974）[^dummett-1991][^belnap-1962][^prawitz-1974]。
+  - id: 54
+    kind: body
+    source: |-
+      To render the notions of proof and validity more systematized, Prawitz has introduced the notion of a *canonical proof*. A sentence might be proved in several different ways, but it is the direct, or canonical proof that is constitutive of its meaning. A canonical proof is a proof whose last step is an application of an introduction rule, and its immediate subproofs are canonical (unless they have free variables or undischarged assumptions—for details see Prawitz 2005)[^prawitz-2005]. A canonical proof is conceived as giving direct evidence for the sentence proved, as it establishes the truth of the sentence by the rule constitutive of the meaning of its connectives. For more on canonical proofs and the ways other proofs can be reduced to them, see the entry on proof-theoretic semantics.
+    step1: |-
+      为使证明与有效性概念更系统化，Prawitz 引入了 *规范证明* 概念。一个句子可以有好几种不同证法，但直接证法即规范证明，才构成其意义。规范证明是最后一步为引入规则之应用的证明，且其直接子证明也是规范的（除非它们有自由变元或未解除的假定——细节见 Prawitz 2005）[^prawitz-2005]。规范证被认为给所证句子提供了直接证据，因为它凭构成其联结词意义的规则确立了句子的真。关于规范证明以及其他证明如何归约为规范证明的更多内容，见证明论语义词条。
+    step2: |-
+      为把证明与有效性讲得更系统，Prawitz 引入 *规范证明*。一个句子可以有多种证法，但直接证法即规范证明，才构成它的意义。规范证明的最后一步是引入规则的应用，且其直接子证明也规范（除非含自由变元或未解除的假定——细节见 Prawitz 2005）[^prawitz-2005]。规范证被视为给所证句子提供了直接证据：它凭构成联结词意义的规则确立句子为真。规范证明以及其他证明如何归约为它，见“证明论语义”词条。
+  - id: 55
+    kind: body
+    source: |-
+      We have indicated how the condition of necessity can be interpreted in the proof-centered approach. The condition of formality can be accounted for as well. Note that on the present perspective as well, there is a division of the vocabulary into logical and nonlogical. This division can be used to define *substitutions* of an argument. A substitution of an argument is an argument obtained from the original one by replacing the nonlogical terms with terms of the same syntactic category in a uniform manner. A definition of validity that respects the condition of formality will entail that an argument is valid if and only if all its substitutions are valid, and in the present context, this is a requirement that there is a proof of all its substitutions. This condition is satisfied in any proof system where rules are given only for the logical vocabulary. Of course, in the proof-centered approach as well, there is a question of distinguishing the logical vocabulary (see the entry on logical constants).
+    step1: |-
+      我们已经说明，在证明中心进路中，必然性条件如何解释。形式性条件也能得到说明。注意，在目前视角下，词汇同样分为逻辑词汇与非逻辑词汇。这一区分可用来定义论证的 *代入*。论证的代入，是从原论证出发，以统一方式把非逻辑词项替换为同句法范畴的词项所得的论证。尊重形式性条件的有效性定义将蕴涵：一个论证有效，当且仅当其所有代入都有效；在目前语境中，这就是要求其所有代入都有证明。任何只为逻辑词汇给出规则的证明系统都满足这一条件。当然，在证明中心进路中，同样存在区分逻辑词汇的问题（见逻辑常项词条）。
+    step2: |-
+      上面说了必然性条件在证明中心进路里怎么解释，形式性条件也能交代。注意，这个视角下词汇照样分逻辑与非逻辑。用这个区分可以定义论证的 *代入*：把非逻辑词项统一换成同句法范畴的词项，所得论证就是原论证的代入。尊重形式性的有效性定义会蕴涵：论证有效，当且仅当其所有代入都有效；在这里，就是要求所有代入都有证明。只给逻辑词汇设规则的证明系统，都满足这一点。当然，证明中心进路同样要面对区分逻辑词汇的问题（见“逻辑常项”词条）。
+  - id: 56
+    kind: body
+    source: |-
+      Finally, it should be noted that a proof theoretic semantics can be given for classical logic as well as a variety of non-classical logics. However, due to the epistemic anti-realist attitude that lies at the basis of the proof-centered approach, its proponents have typically advocated intuitionistic logic (see Dummett 1991)[^dummett-1991].
+    step1: |-
+      最后应当注意，证明论语义既可以给经典逻辑，也可以给各种非经典逻辑。然而，由于证明中心进路背后的认识论反实在论态度，其倡导者通常主张直觉主义逻辑（见 Dummett 1991）[^dummett-1991]。
+    step2: |-
+      最后要说，证明论语义不光能给经典逻辑，也能给各种非经典逻辑。不过，鉴于证明中心进路底下的认识论反实在论态度，其倡导者通常主张直觉主义逻辑（见 Dummett 1991）[^dummett-1991]。
+  - id: 57
+    kind: body
+    source: |-
+      For more on the proof-centered perspective and on proof-theoretic semantics, see the entry on proof-theoretic semantics.
+    step1: |-
+      关于证明中心视角与证明论语义的更多内容，见证明论语义词条。
+    step2: |-
+      证明中心视角与证明论语义的更多内容，见“证明论语义”词条。
+  - id: 58
+    kind: body
+    source: |-
+      ### 3.3 Between models and proofs
+    step1: |-
+      ### 3.3 模型与证明之间
+    step2: |-
+      ### 3.3 模型与证明之间
+  - id: 59
+    kind: body
+    source: |-
+      The proof-theoretic and model-theoretic perspectives have been considered as providing rival accounts of logical consequence. However, one can also view “logical consequence” and “validity” as expressing *cluster concepts*: “A number of different, closely related notions go by those names. They invoke matters of modality, meaning, effectiveness, justification, rationality, and form” (Shapiro 2014)[^shapiro-2014]. One can also note that the division between the model-theoretic and the proof-theoretic perspectives is a modern one, and it was only made possible when tools for metamathematical investigations were developed. Frege’s *Begriffsschrift*, for instance, which predates the development of those tools, is formulated as an axiomatic proof system, but the meanings of the connectives are given via truth conditions.
+    step1: |-
+      人们曾把证明论视角与模型论视角看作对逻辑后承的竞争性说明。然而，也可以把“逻辑后承”与“有效性”视为表达 *簇概念*：“若干不同而密切相关的概念都用这些名称。它们涉及模态、意义、有效性（effectiveness）、辩护、理性与形式等事项”（Shapiro 2014）[^shapiro-2014]。还可以指出，模型论视角与证明论视角的分野是现代的，只有在元数学研究工具发展出来后才可能。比如 Frege 的 *Begriffsschrift* 早于这些工具，写成公理证明系统的形式，但联结词的意义是通过真值条件给出的。
+    step2: |-
+      过去人们把证明论视角与模型论视角看作关于后承的竞争对手。其实也可以把“逻辑后承”和“有效性”看作 *簇概念*：“若干不同而密切相关的概念共用这些名称；它们牵涉模态、意义、有效性、辩护、理性与形式”（Shapiro 2014）[^shapiro-2014]。还值得一提：模型论与证明论之分是现代的，得等元数学研究工具发展出来才可能有。比如 Frege 的 *Begriffsschrift* 早于这些工具，写成公理证明系统的样子，可联结词的意义却是用真值条件给的。
+  - id: 60
+    kind: body
+    source: |-
+      Once there are two different analyses of a relation of logical consequence, one can ask about possible interactions, and we’ll do that next. One can also ask what general features such a relation has independently of its analysis as proof-theoretic or model-theoretic. One way of answering this question goes back to Tarski, who introduced the notion of consequence operations. For our purposes, we note only some features of such operations. Let $Cn(X)$ be the consequences of $X$. (One can think of the operator $Cn$ as deriving from a prior consequence relation which, when taking $X$ as ‘input (or premise)’ set, tells you what follows from $X$. But one can also see the ‘process’ in reverse, and a key insight is that consequence relations and corresponding operations are, in effect, interdefinable. See the entry on algebraic propositional logic for details.) Among some of the minimal conditions one might impose on a consequence relation are the following two (from Tarski):
+    step1: |-
+      一旦有了逻辑后承关系的两种不同分析，就可以问它们可能如何相互作用，下面就来谈。也可以问，这种关系在证明论或模型论分析之外还有什么一般特征。回答这个问题的一种方式可追溯到 Tarski，他引入了后承算子概念。就我们的目的而言，只注意这类算子的某些特征。设 $Cn(X)$ 为 $X$ 的后承。（可以把算子 $Cn$ 看作来自先行的后承关系：把 $X$ 当作“输入（或前提）”集时，它告诉你从 $X$ 能推出什么。但也可以反过来看这个“过程”，一个关键洞见是：后承关系与相应算子实际上可以相互定义。细节见代数命题逻辑词条。）人们可能施加于后承关系的最小条件中，有以下两条（来自 Tarski）：
+    step2: |-
+      有了后承关系的两种分析，就可以问它们如何互动——下面再说。也可以问：抛开证明论或模型论的分析，这种关系本身有什么一般特征？回答之一可追溯到 Tarski，他引入后承算子。这里只看这类算子的几个特征。设 $Cn(X)$ 为 $X$ 的后承。（可以把算子 $Cn$ 看成来自先在的后承关系：把 $X$ 作为“输入（或前提）”集，它告诉你从 $X$ 能推出什么。也可以倒过来看这个“过程”；一个关键洞见是，后承关系与相应算子实际上可相互定义。细节见“代数命题逻辑”词条。）对后承关系可以施加的最小条件，至少有下面两条（出自 Tarski）：
+  - id: 61
+    kind: body
+    source: |-
+      1. $X$ is a subset of $Cn(X)$.
+      2. $Cn(Cn(X)) = Cn(X)$.
+    step1: |-
+      1. $X$ 是 $Cn(X)$ 的子集。
+      2. $Cn(Cn(X)) = Cn(X)$。
+    step2: |-
+      1. $X$ 是 $Cn(X)$ 的子集。
+      2. $Cn(Cn(X)) = Cn(X)$。
+  - id: 62
+    kind: body
+    source: |-
+      If you think of $X$ as a set of claims, then the first condition tells you that the consequences of a set of claims includes the claims themselves. The second condition demands that the consequences of $X$ just are the consequences of the consequences of $X$. Both of these conditions can be motivated from reflection on the model-theoretic and proof-theoretic approaches; and there are other such conditions too. (For a general discussion, see the entry on algebraic propositional logic.) But as with many foundation issues (e.g., ‘what are the essential features of consequence relations in general?’), even such minimal conditions are contentious in philosophical logic and the philosophy of logic. For example, some might take condition (2) to be objectionable on the grounds that, for reasons of vagueness (or more), important consequence relations over natural languages (however formalized) are not generally transitive in ways reflected in (2). (See Tennant 1994, Cobreros et al 2012, and Ripley 2013, for philosophical motivations against transitive consequence.)[^cobreros-2012][^ripley-2013][^tennant-1994] But we leave these issues for more advanced discussion.
+    step1: |-
+      如果把 $X$ 想成一组主张，那么第一条告诉你：一组主张的后承包含这些主张本身。第二条要求：$X$ 的后承就是 $X$ 的后承的后承。这两条都可从对模型论与证明论进路的反思中得到动机；此外还有别的条件。（一般讨论见代数命题逻辑词条。）但正如许多基础问题（如“后承关系一般有哪些本质特征？”），即便这些最小条件在哲学逻辑与逻辑哲学中也有争议。例如，有人可能反对条件 (2)，理由是：由于模糊性（或更多原因），自然语言（无论如何形式化）上的重要后承关系一般并不以 (2) 所反映的方式传递。（关于反对传递性后承的哲学动机，见 Tennant 1994、Cobreros et al 2012、Ripley 2013。）[^cobreros-2012][^ripley-2013][^tennant-1994] 但我们把这些留待更高级的讨论。
+    step2: |-
+      把 $X$ 想成一组主张，第一条就是说：一组主张的后承包含这些主张本身。第二条要求：$X$ 的后承就是 $X$ 的后承之后承。这两条都能从模型论、证明论进路的反思中找到理由，此外还有别的条件。（一般讨论见“代数命题逻辑”词条。）但和许多基础问题（如“后承关系一般有哪些本质特征”）一样，这些最小条件在哲学逻辑和逻辑哲学里也有争议。比如有人反对 (2)，理由是：由于模糊性（或别的缘故），自然语言（不管怎么形式化）上的重要后承关系一般并不以 (2) 反映的方式传递。（反对传递性后承的哲学动机，见 Tennant 1994、Cobreros et al 2012、Ripley 2013。）[^cobreros-2012][^ripley-2013][^tennant-1994] 这些就留待更深入的讨论了。
+  - id: 63
+    kind: body
+    source: |-
+      While the philosophical divide between Realists and Anti-realists remains vast, proof-centered and model-centered accounts of consequence have been united (at least with respect to extension) in many cases. The great soundness and completeness theorems for different proof systems (or, from the other angle, for different model-theoretic semantics) show that, in an important sense, the two approaches often coincide, at least in extension. A proof system is *sound* with respect to a model-theoretic semantics if every argument that has a proof in the system is model-theoretically valid. A proof system is *complete* with respect to a model-theoretic semantics if every model-theoretically valid argument has a proof in the system. While soundness is a principal condition on any proof system worth its name, completeness cannot always be expected. Admittedly, these definitions are biased towards the model-theoretic perspective: the model-theoretic semantic sets the standard to what is “sound” and “complete”. Leaving terminological issues aside, if a proof system is both sound and complete with respect to a model-theoretic semantics (as, significantly, in the case of first order predicate logic), then the proof system and the model-theoretic semantics agree on which arguments are valid.
+    step1: |-
+      尽管实在论者与反实在论者的哲学鸿沟仍然巨大，后承的证明中心说明与模型中心说明在许多情形下已经统一起来（至少就外延而言）。不同证明系统（或从另一角度看，不同模型论语义）的重大可靠性与完全性定理表明，在重要意义上，两种进路常常重合，至少外延上重合。一个证明系统相对于一种模型论语义是 *可靠的*，如果系统中所有有证明的论证都是模型论有效的。一个证明系统相对于一种模型论语义是 *完全的*，如果所有模型论有效的论证在系统中都有证明。可靠性是任何名副其实的证明系统的主要条件，完全性则不能总指望。诚然，这些定义偏向模型论视角：是模型论语义设定了“可靠”与“完全”的标准。撇开术语问题不谈，如果一个证明系统相对于一种模型论语义既可靠又完全（一阶谓词逻辑就是重要例子），那么该证明系统与该模型论语义在哪些论证有效上是一致的。
+    step2: |-
+      尽管实在论与反实在论的哲学鸿沟仍深，后承的证明中心说明与模型中心说明在许多情形下已经合流（至少外延上合流）。不同证明系统（换个角度说，不同模型论语义）的可靠性与完全性大定理表明：在重要意义上，两种进路常常重合，至少外延重合。证明系统相对于某种模型论语义 *可靠*，是指系统里能证明的论证都是模型论有效的；*完全*，是指所有模型论有效的论证在系统里都有证明。可靠性是任何像样的证明系统都得有的条件，完全性却不能总指望。这些定义当然偏向模型论：是模型论语义定了“可靠”“完全”的标准。撇开术语不谈，一个证明系统若相对于某种模型论语义既可靠又完全（一阶谓词逻辑就是显例），那么它与该语义在“哪些论证有效”上就一致。
+  - id: 64
+    kind: body
+    source: |-
+      Completeness results can also support the adequacy of the model-theoretic account, as in Kreisel’s “squeezing argument”. We have noted a weakness of the model-theoretic account: all models are sets, and so it might be that no model represents the actual world. Kreisel has shown that if we have a proof system that is “intuitively sound” and is complete with respect to the model-theoretic semantics, we won’t be missing any models: every intuitively valid argument will have a counter-model. Let $L$ be a first order language. Let $Val$ denote the set of intuitively valid arguments in $L$. Kreisel takes intuitive validity to be preservation of truth across all structures (whether sets or not). His analysis privileges the modal analysis of logical consequence—but note that the weakness we are addressing is that considering set-theoretic structures might not be enough. Let $V$ denote the set of model-theoretic validities in $L$: arguments that preserve truth over models. Let $D$ be the set of deductively valid arguments, by some accepted proof system for first order logic. Now, any such proof system is “intuitively sound”, meaning that what is deductively valid by the system is intuitively valid. This gives us $D \subseteq Val$. And obviously, by the definitions we’ve given, $Val \subseteq V$, since an argument that preserves truth over all structures will preserve truth over set-structures.
+    step1: |-
+      完全性结果也可以支持模型论说明的适当性，Kreisel 的“挤压论证”就是一例。我们已指出模型论说明的一个弱点：所有模型都是集合，因此可能没有模型表象现实世界。Kreisel 表明，如果我们有一个“直观上可靠”且相对于模型论语义完全的证明系统，就不会漏掉任何模型：每个直观有效的论证都会有反模型。设 $L$ 是一阶语言。设 $Val$ 表示 $L$ 中直观有效论证的集合。Kreisel 把直观有效性看作在所有结构（无论是不是集合）上保真。他的分析偏向逻辑后承的模态分析——但请注意，我们要处理的弱点是：只考虑集合论结构可能不够。设 $V$ 表示 $L$ 中模型论有效性的集合：在模型上保真的论证。设 $D$ 是按某个公认的一阶逻辑证明系统演绎有效的论证集合。现在，任何这样的证明系统都是“直观上可靠的”，意思是系统中演绎有效的论证直观上有效。这给出 $D \subseteq Val$。而且显然，按我们给出的定义，$Val \subseteq V$，因为对所有结构保真的论证也会对集合结构保真。
+    step2: |-
+      完全性结果也能支持模型论说明的适当性，Kreisel 的“挤压论证”即是一例。前面说过模型论说明的弱点：模型都是集合，可能没有模型表象现实世界。Kreisel 表明：若有一个“直观可靠”且相对于模型论语义完全的证明系统，我们就不会漏掉任何模型——每个直观有效的论证都会有反模型。设 $L$ 为一阶语言，$Val$ 表示 $L$ 中直观有效论证的集合。Kreisel 把直观有效性理解为在所有结构（不论是不是集合）上保真；他的分析偏向后承的模态分析——但要注意，我们要处理的弱点正是：只看集合论结构可能不够。设 $V$ 表示 $L$ 中模型论有效性的集合，即在模型上保真的论证；$D$ 表示按某个公认一阶逻辑证明系统演绎有效的论证集合。任何这样的证明系统都“直观可靠”，即系统里演绎有效的论证直观上有效，于是 $D \subseteq Val$。而按定义显然 $Val \subseteq V$：对所有结构保真，自然对集合结构也保真。
+  - id: 65
+    kind: body
+    source: |-
+      By the completeness result for first order logic, we have: $V$ ⊆ $D$. Putting the three inclusions together (the “squeeze”), we get that all three sets must be equal, and in particular: $V = Val$. In this way, we’ve proven that if there is some structure that is a counterexample to a first order argument, then there is a set-theoretic one.
+    step1: |-
+      由一阶逻辑的完全性结果，我们有：$V$ ⊆ $D$。把三个包含关系放在一起（“挤压”），就得到三个集合必然相等，特别是：$V = Val$。这样我们就证明了：如果某个结构是一阶论证的反例，那么就存在一个集合论的反例。
+    step2: |-
+      由一阶逻辑的完全性结果，有 $V$ ⊆ $D$。把三个包含关系合起来（“挤压”），三个集合就必然相等，特别是 $V = Val$。这就证明了：若某个结构是一阶论证的反例，则存在一个集合论的反例。
+  - id: 66
+    kind: body
+    source: |-
+      Another arena for the interaction between the proof-theoretic and the model-theoretic perspectives has to do with the definition of the logical vocabulary. For example, one can hold a “moderate” inferentialist view which defines the meanings of logical connectives through their semantics (i.e. truth conditions) but demands that the meaning of a connective be determined by inference rules. Carnap has famously shown that the classical inference rules allow non-standard interpretations of the logical expressions (Carnap 1943)[^carnap-1943]. Much recent work in the field has been devoted to the exact nature and extent of Carnap’s categoricity problem (Raatikainen 2008, Murzi and Hjortland 2009, Woods 2012, Garson 2013, Peregrin 2014, Bonnay and Westerståhl 2016. See also the entry on sentence connectives in formal logic)[^bonnay-2016][^garson-2013][^murzi-2009][^peregrin-2014][^raatikainen-2008][^woods-2012].
+    step1: |-
+      证明论视角与模型论视角相互作用的另一个舞台，与逻辑词汇的定义有关。例如，可以持一种“温和”推理主义观点：通过语义（即真值条件）定义逻辑联结词的意义，但要求联结词的意义由推理规则决定。Carnap 著名地表明，经典推理规则允许对逻辑表达式作非标准解释（Carnap 1943）[^carnap-1943]。该领域晚近许多工作都在讨论 Carnap 范畴性问题的确切性质与范围（Raatikainen 2008, Murzi and Hjortland 2009, Woods 2012, Garson 2013, Peregrin 2014, Bonnay and Westerståhl 2016。另见形式逻辑中的句子联结词词条）[^bonnay-2016][^garson-2013][^murzi-2009][^peregrin-2014][^raatikainen-2008][^woods-2012]。
+    step2: |-
+      证明论与模型论互动的另一处，是逻辑词汇的定义。比如可以持“温和”推理主义：用语义（即真值条件）定义逻辑联结词的意义，但要求联结词意义由推理规则决定。Carnap 有个著名结果：经典推理规则允许对逻辑表达式作非标准解释（Carnap 1943）[^carnap-1943]。晚近许多工作都在追究 Carnap 范畴性问题的性质与范围（Raatikainen 2008, Murzi and Hjortland 2009, Woods 2012, Garson 2013, Peregrin 2014, Bonnay and Westerståhl 2016；另见“形式逻辑中的句子联结词”词条）[^bonnay-2016][^garson-2013][^murzi-2009][^peregrin-2014][^raatikainen-2008][^woods-2012]。
+  - id: 67
+    kind: body
+    source: |-
+      Finally, we should note that while model theory and proof theory are the most prominent contenders for the explication of logical consequence, there are alternative frameworks for formal semantics such as algebraic semantics, game-theoretic semantics and dynamic semantics (see Wansig 2000).
+    step1: |-
+      最后应当注意，虽然模型论与证明论是阐明逻辑后承最突出的竞争者，形式语义还有其他框架，如代数语义、博弈论语义与动态语义（见 Wansig 2000）。
+    step2: |-
+      最后要说，阐明逻辑后承最突出的候选虽然是模型论与证明论，但形式语义还有别的框架，比如代数语义、博弈论语义、动态语义（见 Wansig 2000）。
+  - id: 68
+    kind: body
+    source: |-
+      ## 4. Premises and Conclusions
+    step1: |-
+      ## 4. 前提与结论
+    step2: |-
+      ## 4 前提与结论
+  - id: 69
+    kind: body
+    source: |-
+      There has also been dissent, even in Aristotle’s day, as to the “shape” of logical consequence. In particular, there is no settled consensus on the number of premises or conclusions appropriate to “tie together” the consequence relation.
+    step1: |-
+      即便在亚里士多德时代，关于逻辑后承的“形状”也有异议。特别是，对于用多少前提或多少结论来“系住”后承关系才算合适，并没有定论。
+    step2: |-
+      即便在亚里士多德时代，逻辑后承的“形状”也有异议。用几个前提、几个结论来“系住”后承关系才算合适，至今没有定论。
+  - id: 70
+    kind: body
+    source: |-
+      In Aristotle’s syllogistic, a syllogism relates two or more premises and a single conclusion. In fact, Aristotle focuses on arguments with exactly two premises (the major premise and the minor premise), but nothing in his definition forbids arguments with three or more premises. Surely, such arguments should be permitted: if, for example, we have one syllogism from two premises $A$ and $B$ to a conclusion $C$, and we have another from the premises $C$ and $D$ to the conclusion $E$, then in some sense, the longer argument from premises $A, B$ and $D$ to conclusion $E$ is a good one. It is found by chaining together the two smaller arguments. If the two original arguments are formally valid, then so too is the longer argument from three premises. On the other hand, on a common reading of Aristotle’s definition of syllogism, *one*-premise arguments are ruled out—but this seems arbitrary, as even Aristotle’s own “conversion” inferences are thus excluded.
+    step1: |-
+      在亚里士多德的三段论中，一个三段论联结两个或更多前提与一个结论。事实上，亚里士多德关注恰好有两个前提（大前提与小前提）的论证，但他的定义并不禁止三个或更多前提的论证。当然应当允许这类论证：例如，若我们有一个从前提 $A$ 与 $B$ 到结论 $C$ 的三段论，又有一个从前提 $C$ 与 $D$ 到结论 $E$ 的三段论，那么在某种意义上，从前提 $A, B$ 与 $D$ 到结论 $E$ 的更长论证也是好论证。它由两个较小论证链接而成。如果原来两个论证形式有效，那么从三个前提出发的更长论证也形式有效。另一方面，按对亚里士多德三段论定义的常见解读，*单* 前提论证被排除——这似乎武断，因为连亚里士多德自己的“换位”推理也因此被排除。
+    step2: |-
+      亚里士多德的三段论，把两个或更多前提与一个结论联在一起。他实际上关注恰好两个前提（大前提、小前提）的论证，但定义并不禁止三个以上前提。这类论证当然该允许：比如有从 $A$、$B$ 到 $C$ 的三段论，又有从 $C$、$D$ 到 $E$ 的三段论，那么从 $A, B$ 与 $D$ 到 $E$ 的更长的论证，某种意义上也是好论证——它是两个小论证串起来的。原来两个论证形式有效，从三个前提出发的长论证也形式有效。另一方面，按常见的解读，亚里士多德的三段论定义把 *单* 前提论证排除在外——这未免武断，因为连他自己的“换位”推理也会被排除。
+  - id: 71
+    kind: body
+    source: |-
+      For such reasons, many have taken the relation of logical consequence to pair an arbitrary (possibly infinite) *collection* of premises with a single conclusion. This account has the added virtue of having the special case of an empty collection of premises. Arguments to a conclusion from no premises whatsoever are those in which the conclusion is true by logic alone. Such “conclusions” are *logical truths* (sometimes *tautologies*) or, on the proof-centered approach, *theorems*.
+    step1: |-
+      由于这些理由，许多人把逻辑后承关系看作把任意（可能无限的）前提 *集合* 与单个结论配对。这种说明还有一个优点：它把空前提集作为特例包含进来。从无任何前提推出结论的论证，就是结论仅凭逻辑为真的论证。这样的“结论”是 *逻辑真理*（有时称 *重言式*），或者按证明中心进路，是 *定理*。
+    step2: |-
+      因此，许多人把逻辑后承关系看作把任意（可能无限的）前提 *集合* 与单个结论配对。这样做还有个好处：把空前提集作为特例收进来。没有任何前提却推出结论的论证，就是结论仅凭逻辑为真。这样的“结论”是 *逻辑真理*（有时叫 *重言式*），按证明中心进路说明是 *定理*。
+  - id: 72
+    kind: body
+    source: |-
+      Perhaps there is a reason to allow the notion of logical consequence to apply even more broadly. In Gentzen’s proof theory for classical logic, a notion of consequence is defined to hold between multiple premises and multiple conclusions. The argument from a set $X$ of premises to a set $Y$ of conclusions is valid if the truth of every member of $X$ guarantees (in the relevant sense) the truth of some member of $Y$. There is no doubt that this is formally perspicuous, but the philosophical applicability of the multiple premise—multiple conclusion sense of logical consequence remains an open philosophical issue. In particular, those anti-Realists who take logical consequence to be defined in terms of *proof* (such as Michael Dummett) reject a multiple conclusion analysis of logical consequence. For an Anti-realist, who takes good inference to be characterised by the way *warrant* is transmitted from premise to conclusion, it seems that a multiple conclusion analysis of logical consequence is out of the question. In a multiple conclusion argument from $A$ to $B, C$, any warrant we have for $A$ does not necessarily transmit to $B$ or $C$: the only conclusion we are warranted to draw is the disjunction $B$ *or* $C$, so it seems for an analysis of consequence in terms of warrant we need to understand some logical vocabulary (in this case, disjunction) in order to understand the consequence relation. This is unacceptable if we hope to use logical consequence as a tool to *define* that logical vocabulary. No such problems appear to arise in a single conclusion setting. (However, see Restall (2005) for a defence of multiple conclusion consequence for Anti-realists; and see Beall (2011) for a defence of certain sub-classical multiple-conclusion logics in the service of non-classical solutions to paradox.)
+    step1: |-
+      也许还有理由让逻辑后承概念适用得更广。在 Gentzen 为经典逻辑建立的证明论中，后承概念被定义在多个前提与多个结论之间。从前提集 $X$ 到结论集 $Y$ 的论证有效，如果 $X$ 中每个成员为真都保证（在相关意义上）$Y$ 中某个成员为真。这无疑形式上清晰，但多前提—多结论意义上的逻辑后承是否具有哲学适用性，仍是未决的哲学问题。特别是，那些按 *证明* 定义逻辑后承的反实在论者（如 Michael Dummett）拒斥多结论分析。对反实在论者来说，好推理的特征是 *辩护*（warrant）从前提传递到结论；多结论分析似乎无从谈起。在从 $A$ 到 $B, C$ 的多结论论证中，我们对 $A$ 的任何辩护都不必然传递到 $B$ 或 $C$：我们有权得出的唯一结论是析取 $B$ *或* $C$。所以，若要用辩护来分析后承，似乎就得先理解某些逻辑词汇（此处是析取）才能理解后承关系。如果我们想用逻辑后承来 *定义* 那些逻辑词汇，这就不可接受。单结论设定似乎没有这类麻烦。（不过，反实在论者可为多结论后承辩护，见 Restall 2005；关于用某些次经典多结论逻辑服务于悖论的非经典解，见 Beall 2011。）
+    step2: |-
+      也许还有理由把后承概念用得更广。Gentzen 为经典逻辑建立的证明论，把后承定义在多个前提与多个结论之间：从前提集 $X$ 到结论集 $Y$ 的论证有效，如果 $X$ 里每个成员为真都保证（在相关意义上）$Y$ 里某个成员为真。这形式上无疑清晰，但多前提—多结论意义上的后承有没有哲学适用性，仍是悬案。尤其是那些用 *证明* 定义后承的反实在论者（如 Michael Dummett），拒斥多结论分析。对反实在论者来说，好推理的特征是 *辩护*（warrant）从前提传到结论；多结论分析似乎根本行不通。从 $A$ 到 $B, C$ 的多结论论证里，对 $A$ 的辩护未必传到 $B$ 或 $C$：我们有权得出的唯一结论是析取 $B$ *或* $C$。可见要用辩护分析后承，似乎得先懂某些逻辑词汇（这里是析取），才能懂后承关系。若想用后承来 *定义* 那些逻辑词汇，这不可接受。单结论设定似乎没这麻烦。（不过反实在论者也可为多结论后承辩护，见 Restall 2005；用某些次经典多结论逻辑服务悖论的非经典解，见 Beall 2011。）
+  - id: 73
+    kind: body
+    source: |-
+      Another line along which the notion has been broadened (or along which some have sought to broaden it) involves recent work on substructural logic. The proposal here is that we may consider doing without some of the standard rules governing the way that premises (or conclusions) of an argument may be combined. Structural rules deal with the *shape* or *structure* of an argument in the sense of the way that the premises and conclusions are collected together, and not the way that those statements are constructed. The structural rule of *weakening* for example, states that if an argument from some collection of premises $X$ to a conclusion $C$ is valid, then the argument from $X$ together with another premise $A$ to the conclusion $C$ is also valid. This rule has seemed problematic to some (chiefly on the grounds that the extra premise $A$ need not be used in the derivation of the conclusion $C$ and hence, that $C$ does not follow *from* the premises $X,A$ in the appropriate sense). *Relevant logics* are designed to respect this thought, and do without the structural rule of weakening. (For the proof-theoretic picture, see Negri and von Plato (2001).)
+    step1: |-
+      概念被拓宽（或有人试图拓宽）的另一条线，涉及晚近的子结构逻辑工作。此处的提议是：也许可以考虑不要某些支配论证前提（或结论）组合方式的标准规则。结构规则处理论证的 *形状* 或 *结构*，即前提与结论如何收拢在一起，而非这些陈述如何构造。例如，*弱化* 结构规则说：如果从某前提集 $X$ 到结论 $C$ 的论证有效，那么从 $X$ 加上另一前提 $A$ 到结论 $C$ 的论证也有效。这条规则在有些人看来有问题（主要理由是：额外前提 $A$ 不必在结论 $C$ 的推导中被使用，因而 $C$ 并不在适当意义上 *从* 前提 $X,A$ 得出）。*相干逻辑* 正是为尊重这一想法而设计，不要弱化结构规则。（证明论图景见 Negri and von Plato (2001)。）
+    step2: |-
+      拓宽后承概念的另一条线，与晚近的子结构逻辑有关。提议是：也许可以不要某些支配前提（或结论）如何组合的标准规则。结构规则管的是论证的 *形状* 或 *结构*——前提和结论怎么收在一起，而不是这些陈述怎么构造。比如 *弱化* 规则说：从前提集 $X$ 到结论 $C$ 的论证若有效，那么从 $X$ 再加一个前提 $A$ 到 $C$ 的论证也有效。有人觉得这条有问题，主要理由是：多出来的前提 $A$ 不必在推出 $C$ 时派上用场，所以 $C$ 并不在适当意义上 *从* 前提 $X,A$ 得出。*相干逻辑* 就是为尊重这个想法而设计的，去掉了弱化规则。（证明论方面的图景见 Negri and von Plato (2001)。）
+  - id: 74
+    kind: body
+    source: |-
+      Other structural rules are also a called into question. Another possible application of substructural logic is found in the analysis of paradoxes such as Curry’s paradox. A crucial move in the reasoning in Curry’s paradox and other paradoxes like it seems to require the step reducing two applications of an assumption to a single one (which is then discharged). According to some, this step is problematic, and so, they must distinguish an argument from $A$ to $B$ and an argument from $A, A$ to $B$. The rule of *contraction* is rejected.
+    step1: |-
+      其他结构规则也受到质疑。子结构逻辑的另一种可能应用，见于对柯里悖论这类悖论的分析。柯里悖论及类似悖论的推理中，一个关键步骤似乎要求把某个假定的两次应用化为一次（然后解除该假定）。有人认为这一步有问题，因此必须区分从 $A$ 到 $B$ 的论证与从 $A, A$ 到 $B$ 的论证。*收缩* 规则被拒斥。
+    step2: |-
+      其他结构规则也受到质疑。子结构逻辑还可能用在柯里悖论一类悖论的分析上。柯里悖论及类似推理有个关键步骤，似乎要把某个假定的两次使用并成一次（再解除该假定）。有人认为这步有问题，于是必须区分从 $A$ 到 $B$ 的论证与从 $A, A$ 到 $B$ 的论证，*收缩* 规则由此被拒斥。
+  - id: 75
+    kind: body
+    source: |-
+      In yet other examples, the *order* in which premises are used is important and an argument from $A, B$ to $C$ is to be distinguished from an argument from $B, A$ to $C$. (For more details, consult the entry on substructural logics.) There is no doubt that the formal systems of substructural logics are elegant and interesting, but the case for the philosophical importance and applicability of substructural logics is not closed.
+    step1: |-
+      还有些例子中，前提被使用的 *顺序* 很重要，从 $A, B$ 到 $C$ 的论证要与从 $B, A$ 到 $C$ 的论证区分开。（更多细节见子结构逻辑词条。）子结构逻辑的形式系统无疑优雅有趣，但子结构逻辑的哲学重要性与适用性之争尚未了结。
+    step2: |-
+      还有些例子，前提的使用 *顺序* 要紧，从 $A, B$ 到 $C$ 的论证得和从 $B, A$ 到 $C$ 的论证分开。（细节见“子结构逻辑”词条。）子结构逻辑的形式系统无疑优雅有趣，但其哲学重要性与适用性的争论还没有定论。
+  - id: 76
+    kind: body
+    source: |-
+      ## 5. One or Many?
+    step1: |-
+      ## 5. 一种还是多种？
+    step2: |-
+      ## 5 一种还是多种？
+  - id: 77
+    kind: body
+    source: |-
+      We have touched only on a few central aspects of the notion of logical consequence, leaving further issues, debates and, in particular, details to emerge from particular accounts (accounts that are well-represented in this encyclopedia). But even a quick glance at the *related links* section (below) will attest to a fairly large number of different logical theories, different accounts of what (logically) follows from what. And that observation raises a question with which we will close: Is there one notion of logical consequence that is the target of all such theories, or are there many?
+    step1: |-
+      我们只触及逻辑后承概念的少数核心方面，把进一步的问题、争论，特别是细节，留给各种具体说明（本百科对此有充分呈现）。但只要看一眼下面的 *相关词条* 部分，就能看到相当多的不同逻辑理论，即关于什么（在逻辑上）从什么得出的不同说明。这一观察引出我们收尾的问题：是否存在一个为所有这些理论所共指的逻辑后承概念，还是有许多个？
+    step2: |-
+      这里只碰到后承概念的几个核心方面，其余问题、争论尤其是细节，留给各种具体说明（本百科里都有）。可只要看一眼下面的 *相关词条*，就会发现关于“什么从什么（逻辑地）得出”的理论多得惊人。由此引出收尾的问题：所有这些理论瞄准的是同一个逻辑后承概念，还是有许多个？
+  - id: 78
+    kind: body
+    source: |-
+      We all agree that there are many different formal techniques for studying logical consequence, and very many different formal systems that each propose different relations of logical consequence. But given a particular argument, is the question as to whether it is deductively valid an all-or-nothing affair? The orthodoxy, logical *monism*, answers affirmatively. There is one relation of deductive consequence, and different formal systems do a better or worse job of modelling that relation. (See, for example, Priest 1999 for a defence of monism.)[^priest-1999] The logical *contextualist* or *relativist* says that the validity of an argument depends on the subject matter or the frame of reference or some other context of evaluation. (For example, a use of the law of the excluded middle might be valid in a classical mathematics textbook, but not in an intuitionistic mathematics textbook, or in a context where we reason about fiction or vague matters.) The logical *pluralist*, on the other hand, says that of one and the same argument, in one and the same context, there are sometimes different things one should say with respect to its validity. For example, perhaps one ought say that the argument from a contradictory collection of premises to an unrelated conclusion is *valid* in the sense that in virtue of its form it is not the case that the premises are true an the conclusion untrue (so it is valid in one precise sense) but that nonetheless, in another sense the form of the argument does not ensure that the truth of the premises *leads to* the truth of the conclusion. The monist or the contextualist holds that in the case of the one argument a single answer must be found for the question of its validity. The pluralist denies this. The pluralist holds that the notion of logical consequence itself may be made more precise in more than one way, just as the original idea of a “good argument” bifurcates into deductive and inductive validity (see Beall and Restall 2000 for a defence of pluralism)[^restall-2000][^beall-2000].
+    step1: |-
+      我们都同意，研究逻辑后承的形式技术有很多，提出不同逻辑后承关系的形式系统也非常多。但给定一个特定论证，它是否演绎有效的问题是不是全有或全无的事？正统观点即逻辑 *一元论* 作肯定回答。存在一种演绎后承关系，不同形式系统对它的建模有好有坏。（例如，见 Priest 1999 为二元论的辩护。）[^priest-1999] 逻辑 *语境论者* 或 *相对主义者* 说，论证的有效性取决于主题、参照框架或其他评价语境。（例如，排中律的某次使用在经典数学教科书里可能有效，在直觉主义数学教科书里则不然，或在我们就虚构或模糊事项推理的语境里不然。）另一方面，逻辑 *多元论者* 说，对同一个论证、在同一语境中，关于其有效性有时可以有不同的说法。例如，也许我们既应当说，从矛盾前提集到不相干结论的论证是 *有效的*——凭其形式，前提真而结论不真是不会发生的（所以在一种精确意义上是有效的），但又应当说，在另一种意义上，该论证的形式并不保证前提的真 *引出* 结论的真。一元论者或语境论者认为，对同一个论证的有效性问题必须给出单一答案。多元论者否认这一点。多元论者认为，逻辑后承概念本身可以用不止一种方式弄精确，正如原初的“好论证”想法分叉为演绎有效与归纳有效（为多元论辩护见 Beall and Restall 2000）[^restall-2000][^beall-2000]。
+    step2: |-
+      大家都同意：研究后承的形式技术很多，提出不同后承关系的形式系统也极多。可给定一个具体论证，它是否演绎有效，是不是全有或全无？正统观点叫逻辑 *一元论*，答“是”：只有一种演绎后承关系，不同形式系统对它的建模有好有坏。（例如 Priest 1999 为二元论辩护。）[^priest-1999] 逻辑 *语境论者* 或 *相对主义者* 说，论证有效与否取决于主题、参照框架或其他评价语境。（比如排中律的某次使用，在经典数学教科书里有效，在直觉主义数学教科书里就未必，在讨论虚构或模糊事项的语境里也未必。）逻辑 *多元论者* 则说，对同一个论证、同一个语境，关于有效性有时可以有不止一种恰当说法。例如，从矛盾前提集到不相干结论的论证，也许既该说它 *有效*——凭其形式，前提真而结论不真不会发生（所以按一种精确意义有效）——又该说，按另一种意义，其形式并不保证前提的真 *引出* 结论的真。一元论者或语境论者认为，同一个论证的有效性必须有个单一答案；多元论者不认。多元论者认为，后承概念本身可以用不止一种方式精确化，正如“好论证”原初的想法分成了演绎有效与归纳有效（为多元论辩护见 Beall and Restall 2000）[^restall-2000][^beall-2000]。
+  - id: 79
+    kind: oir
+    source: |-
+      - MacFarlane, John, 2000, [*What Does it Mean to Say that Logic is Formal?*](http://johnmacfarlane.net/dissertation.pdf), Ph. D. Dissertation, Philosophy Department, University of Pittsburgh.
+    step1: |-
+      - MacFarlane, John, 2000, [*What Does it Mean to Say that Logic is Formal?*](http://johnmacfarlane.net/dissertation.pdf), Ph. D. Dissertation, Philosophy Department, University of Pittsburgh.
+    step2: |-
+      - MacFarlane, John, 2000, [*What Does it Mean to Say that Logic is Formal?*](http://johnmacfarlane.net/dissertation.pdf), Ph. D. Dissertation, Philosophy Department, University of Pittsburgh.
+  - id: 80
+    kind: note
+    source: |-
+      [^note-1]: The foregoing section owes much to the work of John MacFarlane in his thesis MacFarlane 2000 (Other Internet Resources). MacFarlane distinguished the three kinds of formality at which we have merely waved at here, and he provides a detailed discussion of the notions, making many distinctions over which we have passed.
+    step1: |-
+      [^note-1]: 上一节多得益于 John MacFarlane 在其论文 MacFarlane 2000（其他网络资源）中的工作。MacFarlane 区分了我们在此只约略提及的三种形式性，并对这些概念作了详细讨论，作出许多我们一带而过的区分。
+    step2: |-
+      [^note-1]: 上一节多得益于 John MacFarlane 的论文 MacFarlane 2000（其他网络资源）。他区分了我们这里只约略提及的三种形式性，并对这些概念详加讨论，作出许多我们一带而过的区分。
