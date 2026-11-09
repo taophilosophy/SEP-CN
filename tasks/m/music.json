@@ -2,7 +2,7 @@
   "slug": "music",
   "kind": "retranslate",
   "zh_doc": "m/music.md",
-  "state": "s1_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,20 @@
       "actor": "M-main-20261109b",
       "at": "2026-11-09T11:50:14Z",
       "evidence": "s1 一校：结构全等——h2 9:9、h3 10:10、脚注定义 232:232、正文 [^key] 179:179、年份集合零差、4′33″ 4:4（script/s1_mu_check.py）；H1 与 SUMMARY 1841 行一致；biblio_audit flagged=0。修订三组：① 相关词条 2 处 compose 未匹配项——源页漏管道符把「history of Western philosophy of music:antiquity to1800」粘连、把末尾三条「types and tokens」「value: intrinsic vs. extrinsic」「Xunzi」并作一行，对 en/ HTML 与 SUMMARY 实证后拆回「西方音乐哲学史：古代至 1800」「类型与个例 | 内在价值与外在价值 | 荀子」；② 人名按登记册主形（ADR-0022）：Kivy→彼得·基维、Levinson→杰罗尔德·莱文森、Scruton→罗杰·斯克鲁顿、Stephen Davies→斯蒂芬·戴维斯、David Davies→大卫·戴维斯、Kendall Walton→肯德尔·沃尔顿、Collingwood→柯林武德、Sartre→萨特、Tolstoy→托尔斯泰、Dewey→杜威（首现括注原文；引用组及登记册无行学者保留英文），人名表补登 Tolstoy；③ 术语用登记形（纯音乐、组织化的声音、调性、表现力、基础主义之争、本真演奏、纯声音/音色声音/乐器论者、高阶类型、历史个体、绝对/标题音乐、唤起/表现/相似/轮廓/人格论），登记册补登 22 行。compose 与账本归一（除 NOTE 行与相关词条手工核销行）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T12:43:36Z",
+      "evidence": "s2 二校（语言层）：check_prose 33 → 20。实修 23 处（账本 step2 与成稿同步，recompose 归一）：长句拆分 3（形式主义/语境主义一段、拼接主义一段、想象表达一段）；被动句改主动 3（被诠释→得到诠释、被吓一跳→吓你一跳、被唤起情感改写）；“的”链化解 9（相似条件句、约定论/形式主义句、唤起论定义句、两种回应的戏份、情感本性句、作品内容句、空间语汇句、逐刻体验句、表现力权重句）；弱动词/冠词/衔接 8。剩余 20 条逐条裁定：3 条 weak-verb 系词形误报（“葬礼进行曲”含“进行”）；1 条 long-sentence 为破折号插入的想象结构（拆则损逻辑）；16 条 de-chain 落在引语与术语密集句（“欣赏音乐之美（连同它那独特的表现个性）”、“想象”“不”等强调术语、虚构反应理论长定语），改写即伤忠实——按 ADR-0020 豁免留痕。复核：lq.py check 92 段 HARD=0；compose 与成稿归一（除相关词条手工核销行）；check_style 0 issue。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T12:43:37Z",
+      "evidence": "s3 三校（体例）：check_style 0 issue；markdownlint-cli2 本文件 0 error；check_math missing/unbalanced 0；check_summary H1 0（与 SUMMARY 1841 行逐字符一致）；check_academic --strict OK（版本钉 Oct 30 2023 与 pubinfo 一致；脚注定义 232 与正文引用 179 对应，文献条目逐条照录 yuanwen，无幻觉引文；相关词条 22 条对 SUMMARY 逐字符核对）。check_terms 14 条告警逐条裁定：① 绝对音乐——正文以“纯”音乐或“绝对”音乐并列引号形出现，字面串未命中，属等价；② program music 标题音乐、③ persona theory 人格论——本词条未用（persona 行系本次误登，已从登记册撤回）；④ Tolstoy 登记形对齐正文通行简称「托尔斯泰」；⑤ 其余 alienation contract/circumstances of justice/contractarian/contractualism/Lockean proviso/minimax relative concession/tuistic/Condillac/Pateman 共 9 条系他集群登记行的首现字段串扰（本词条无契约论与相关人名内容），非本词条缺译。状态 s3_checked，交 R-main 评审线走 r1–r3。"
     }
   ],
   "blockers": [],
