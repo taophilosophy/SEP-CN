@@ -563,17 +563,23 @@ segments:
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
   - id: 71
     kind: note
     source: |-
       [^note-1]: All references to the *Amânât* are to Alexander Altmann's translation as found in Three Jewish Philosophers, edited by Hans Lewy, Alexander Altmann and Isaak Heinemann (New York: Atheneum, 1985). This version of Altmann's translation of Saadya's *Amânât* is currently also available in a volume by Hackett Publishing Company.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 凡引《阿玛纳特》之处，均据 Alexander Altmann 的译本，见 *Three Jewish Philosophers*, Hans Lewy、Alexander Altmann 与 Isaak Heinemann 编（New York: Atheneum, 1985）。Altmann 这一《阿玛纳特》译本目前也见于 Hackett Publishing Company 出版的一个单行本。
+    step2: |-
+      [^note-1]: 凡引《阿玛纳特》之处，均据 Alexander Altmann 的译本，见 *Three Jewish Philosophers*，Hans Lewy、Alexander Altmann 与 Isaak Heinemann 编（New York: Atheneum, 1985）。Altmann 这一《阿玛纳特》译本目前也见于 Hackett Publishing Company 出版的单行本。
   - id: 72
     kind: note
     source: |-
       [^note-2]: See A. Altmann, “Saadya's Theory of Revelation: Its Origin and Background,” in Studies in Religious Philosophy and Mysticism by Alexander Altmann (Ithaca: Cornell University Press, 1969).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 参见 A. Altmann, “Saadya's Theory of Revelation: Its Origin and Background,” 载 Alexander Altmann 的 *Studies in Religious Philosophy and Mysticism*（Ithaca: Cornell University Press, 1969）。
+    step2: |-
+      [^note-2]: 参见 A. Altmann, “Saadya's Theory of Revelation: Its Origin and Background,” 载 Alexander Altmann, *Studies in Religious Philosophy and Mysticism*（Ithaca: Cornell University Press, 1969）。
