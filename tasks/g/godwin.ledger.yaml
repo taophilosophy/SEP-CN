@@ -211,146 +211,194 @@ segments:
     kind: body
     source: |-
       > In the first fervour of enthusiasm I entertained the vain imagination of “hewing a stone from rock” which by its inherent energy and weight should overbear and annihilate all opposition, and place the principles of politics on an unmoveable basis. (*CNM* I, 49)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在最初那股热忱中，我怀着一个虚妄的想象，想要“从岩石中凿出一块石头”，凭其内在的力量与重量压倒并消灭一切反对，把政治的原则安放在不可动摇的基础之上。（*CNM* I, 49）
+    step2: |-
+      > 起初那股热忱里，我抱着一个虚妄的念头，要“从岩石中凿出一块石头”，让它凭自身的力量与重量压垮一切、扫灭一切反对，把政治原则安放在不可动摇的基础上。（*CNM* I, 49）
   - id: 27
     kind: body
     source: |-
       The discarded first draft centres on the work of Montesquieu and Raynal, while the published work abandons the expository mode and develops its own independent line of argument. Godwin begins by defending the importance of political inquiry and refuting claims that moral and political phenomena are a function of climate, national character or luxury. He argues that character is a function of experience and that the type of government under which people live has an overwhelming impact upon their experience—bad government produces wretched men and women. Although he is initially prepared to endorse the *philosophe* and republican view that government can have a positive impact on the development of virtue, this view is soon set aside in favour of the argument that moral and political improvement flows from progress in our understanding of moral and political truth—a process to which there is no limit.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      被弃置的初稿以孟德斯鸠与雷纳尔的著作为中心，而出版成书的那部作品放弃了阐述式的写法，发展出自己独立的论证路线。戈德温先为政治探究的重要性辩护，并驳斥道德与政治现象取决于气候、民族性格或奢侈之说。他主张性格是经验的函数，而人们所处的政府类型对其经验有压倒性的影响——坏的政府造出悲惨的男男女女。他起初愿意赞同*philosophe* 与共和派的看法，即政府能对德性的发展产生积极作用，但这一看法很快被搁置，转而主张：道德与政治的进步源自我们对道德与政治真理之理解的进展——这一过程没有止境。
+    step2: |-
+      被弃置的初稿以孟德斯鸠与雷纳尔为中心，成书却放弃了阐述式写法，另行发展独立的论证路线。戈德温先为政治探究的重要性辩护，驳斥道德与政治现象取决于气候、民族性格或奢侈的说法。他主张性格是经验的函数，而人们生活在何种政府之下，对其经验有压倒性的影响：坏政府造出悲惨的男男女女。他起初愿意赞同*philosophe* 与共和派的看法——政府能积极促进德性；但很快就把它搁在一旁，转而主张道德与政治的进步源自我们对道德、政治真理之理解的进展，而这一过程没有止境。
   - id: 28
     kind: body
     source: |-
       Book Two examines the basic principles of human society, equality, rights, justice, and private judgment. Godwin follows Paine’s view in *Common Sense*, that “society is in every state a blessing…government even in its best state is but a necessary evil” (*PPW* III, 48), by seeing society as antecedent to government with its principles setting the bounds of its legitimacy. The basic moral principle is that of justice:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二卷考察人类社会的基本原则：平等、权利、正义与私人判断。戈德温随潘恩在《常识》中的看法，即“社会在任何状态下都是一种福佑……政府即便在最好的状态下也不过是一种必要的恶”（*PPW* III, 48），把社会看作先于政府，社会的原则为政府的合法性划定界限。基本的道德原则是正义：
+    step2: |-
+      第二卷考察人类社会的基本原则：平等、权利、正义与私人判断。潘恩在《常识》里说“社会在任何状态下都是一种福佑……政府即便在最好的状态下也不过是一种必要的恶”（*PPW* III, 48）；戈德温随之把社会看作先于政府，社会原则为政府合法性划定边界。基本道德原则是正义：
   - id: 29
     kind: body
     source: |-
       > If justice have any meaning, it is just that I should contribute everything in my power to the benefit of the whole. (*PPW* III, 49)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果正义还有什么意义，那就是：我应当竭尽所能，为整体的利益作贡献。（*PPW* III, 49）
+    step2: |-
+      > 正义若还有任何意义，那便是：我应当倾我所能，增进整体的利益。（*PPW* III, 49）
   - id: 30
     kind: body
     source: |-
       This principle is filled out by two further principles. The first, equality, is used to establish that we are beings of the same nature, susceptible of the same pleasures and pains, and equally endowed with the capacity for reason. This is to endorse the *philosophe* principle that birth and rank must not affect the way people are treated—
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一原则由两条进一步的原则充实。第一条是平等，用来确立我们是本性相同的存在者，能感受同样的快乐与痛苦，并且同样被赋予理性能力。这即是认可*philosophe* 的原则：出身与等级不得影响人们受对待的方式——
+    step2: |-
+      这一原则由另两条原则充实。第一条是平等：它用来确立我们本性相同，能感受同样的快乐与痛苦，也同样被赋予理性能力。这等于认可*philosophe* 的原则：出身与等级不得影响人受对待的方式——
   - id: 31
     kind: body
     source: |-
       > the thing really to be desired is the removing as much as possible arbitrary distinctions, and leaving to talents and virtue the field of exertion unimpaired (*PPW* III, 65).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 真正可欲之事，是尽可能消除任意的区分，把施展的天地完整地留给才能与德性（*PPW* III, 65）。
+    step2: |-
+      > 真正值得追求的，是尽量消除那些任意的区分，把用武之地完整地留给才能与德性（*PPW* III, 65）。
   - id: 32
     kind: body
     source: |-
       But he also believes (as in the Fénelon case) that some have a higher moral value than others. This judgment seems rigorously consequentialist, in that we value them more if and only if they contribute more to the general good (a position in line with Godwin’s rejection in Book Seven of all desert-based accounts of punishment). Tensions are introduced into his account, however, by the emphasis he places on intention in assessing a person’s action—
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但他也相信（如费奈隆一例所示），有些人的道德价值高于别人。这一判断看来是严格后果主义的：我们更看重他们，当且仅当他们对普遍善贡献更多（这一立场与戈德温在第七卷中对一切以应得为基础的惩罚学说的拒斥相一致）。然而，他的说明里也引入了张力，因为他强调在评价一个人的行动时要看意图——
+    step2: |-
+      但他同时相信（费奈隆一例即是），有些人的道德价值高于另一些人。这一判断看来严格属于后果主义：我们更看重他们，当且仅当他们对普遍善贡献更多（这与戈德温在第七卷拒斥一切以应得为据的惩罚学说相一致）。不过他的说明里也有张力：评价一个人的行动时，他看重意图——
   - id: 33
     kind: body
     source: |-
       > It is in the disposition and view of the mind, and not in the good which may accidentally and inintentionally result, that virtue consists. (*PPW* III, 193)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 德性在于心灵的倾向与看法，而不在于可能偶然地、非意图地产生的好处。（*PPW* III, 193）
+    step2: |-
+      > 德性在于心灵的倾向与识见，而不在于可能偶然地、非本意地产生的好处。（*PPW* III, 193）
   - id: 34
     kind: body
     source: |-
       and by his characterisation of the ideal agent as someone devoted to a life of benevolence and virtue. In both instances he appeals to an agent-centred account of virtue, more than to a consequentialist account, and in doing so acknowledges a form of moral worth that is not wholly reducible to consequentialist considerations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也因为他把理想的行为者刻画为献身于仁慈与德性之人。在这两处，他诉诸的是以行为者为中心的德性说明，而不是后果主义的说明；这样做，也就承认了一种不能完全化约为后果主义考量的道德价值。
+    step2: |-
+      也因为他把理想的行为者描绘成献身仁慈与德性之人。这两处他所诉诸的，都是以行为者为中心的德性说明，而非后果主义说明；也就等于承认了一种无法完全化约为后果主义考量的道德价值。
   - id: 35
     kind: body
     source: |-
       The second principle to which he appeals, the doctrine of private judgment, is advanced as the logical complement to the principle of justice:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他所诉诸的第二条原则是私人判断学说，它被提出来作为正义原则的逻辑补充：
+    step2: |-
+      他诉诸的第二条原则是私人判断学说，提出它，是为正义原则作逻辑上的补足：
   - id: 36
     kind: body
     source: |-
       > to a rational being there is but one rule of conduct, justice, and one mode of ascertaining that rule, the exercise of his understanding. (*PPW*, III, 72).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 对一个理性存在者来说，行为的规则只有一条，即正义；确定这条规则的方式也只有一个，即运用他的理解力。（*PPW*, III, 72）。
+    step2: |-
+      > 对理性存在者而言，行为规则只有一条，就是正义；确认这条规则的方式也只有一个，就是运用自己的理解力。（*PPW*, III, 72）。
   - id: 37
     kind: body
     source: |-
       Here again, although Godwin appeals in part to consequentialist considerations to ground a duty to private judgment, it also plays an integral part on his conception of what it is to be a fully rational agent. When combined with the principle of equality, the principle of private judgment issues in a basic constraint on certain types of consequentialist intervention—each person acts morally only in so far as each acts wholly on the dictates of his or her private judgment. To effect real improvement we must work by appealing to the rational capacities of each of our fellow citizens.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里同样如此：戈德温固然部分地借后果主义考量来为私人判断的义务奠基，但私人判断在他的构想中也占着一个内在的部分，即何为充分理性的行为者。与平等原则结合起来，私人判断原则便对某些类型的后果主义干预构成基本约束——每个人只有在完全依照自己私人判断的指令行事时，才是在道德地行动。要实现真正的改善，我们必须诉诸每一位同胞公民的理性能力。
+    step2: |-
+      这里也一样：戈德温固然部分借后果主义考量为私人判断的义务奠基，但私人判断在他关于“何为充分理性的行为者”的构想中也占着内在的一席。与平等原则合起来，私人判断原则就对某些类型的后果主义干预构成基本约束：一个人只有完全依自己私人判断的指令行事，才算在道德地行动。而要促成真正的改善，我们就必须诉诸每一位同胞的理性能力。
   - id: 38
     kind: body
     source: |-
       Book Three and the first part of Book Four develop Godwin’s case against existing theories of government, in each case making his case by drawing on his opening argument that there is no intrinsic limit on the development of human understanding and enlightenment. The philosophical underpinning for this argument is given in the second half of Book Four where Godwin examines the character of truth and its relationship to virtue and goes on to discuss arguments relating to freedom of the will, the doctrine of philosophical necessity, and the character of moral motivation. He shows that men are capable of recognising truth, and that, because mind acts as a real cause, they will act on it when they perceive it clearly. Nothing beyond the perception of truth is required to motivate our compliance with moral principles. It is this which justifies the description of Godwin’s position as “rationalist”, and it is on this point—the motivating power of reason—that later editions show a degree of retraction. One possible source for the position is Richard Price’s *Review of the Principal Questions of Morals* (1756), but it is noteworthy that Godwin himself later identified this “error” as a function of his Sandemanianism. In *Political Justice*, however, Godwin builds his argument on necessarian foundations laid by David Hartley and Joseph Priestley, albeit he develops their position by insisting that mind is the medium within which sensations, desires, passions and beliefs contend—so that we should understand the conflict between passion and reason as one of contending opinions. Such contention can be assessed impartially by the mind which will assess the true value of each claim and act on the judgment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三卷与第四卷前半部分展开戈德温对既有政府理论的批驳，每一处都借他开篇的论证立论：人类理解与启蒙的发展没有内在限度。这一论证的哲学支撑见于第四卷后半部分：戈德温在那里考察真理的性质及其与德性的关系，进而讨论与意志自由、哲学必然性学说以及道德动机性质有关的论证。他表明，人有能力认识真理；又因为心灵是真实的原因，人一旦清楚地知觉到真理，就会依之行动。要促使我们遵从道德原则，除了知觉真理之外别无所需。正因如此，戈德温的立场才被描述为“理性主义的”；也正是在这一点上——理性的动机力量——后来的版本显出某种退缩。这一立场的一个可能来源是 Richard Price 的《道德主要问题评论》（*Review of the Principal Questions of Morals*，1756）；但值得注意的是，戈德温本人后来把这个“错误”归因于他的 Sandeman 主义。不过在《政治正义论》中，戈德温把论证建立在 David Hartley 与 Joseph Priestley 奠立的必然论基础之上，只是他发展他们的立场时坚持：心灵是感觉、欲望、情感与信念在其中相互争竞的媒介——因此我们应当把情感与理性之间的冲突，理解为诸种意见的争竞。这种争竞可以由心灵不偏不倚地评估：心灵会评估每一主张的真实价值，并依判断行事。
+    step2: |-
+      第三卷与第四卷前半，展开戈德温对既有政府理论的批驳；每一处都借他开篇的论证立论：人类理解与启蒙的发展没有内在限度。这一论证的哲学支撑在第四卷后半：戈德温考察真理的性质及其与德性的关系，进而讨论意志自由、哲学必然性学说与道德动机的性质。他表明，人有能力认识真理；而心灵是真实的原因，所以人一旦清楚知觉到真理，就会依之行动。要促使我们遵从道德原则，除知觉真理之外别无所需。正因如此，戈德温的立场才被称为“理性主义的”；也正是在这一点上——理性的动机力量——后来的版本显出几分退缩。这一立场的一个可能来源，是 Richard Price 的《道德主要问题评论》（*Review of the Principal Questions of Morals*，1756）；但值得注意的是，戈德温本人后来把这个“错误”归因于他的 Sandeman 主义。不过在《政治正义论》里，他把论证建立在 David Hartley 与 Joseph Priestley 奠立的必然论基础上，只是在发展他们的立场时坚持：心灵是感觉、欲望、情感与信念相互争竞的媒介——所以我们应当把情感与理性的冲突，理解为诸种意见的相争。这种相争可由心灵不偏不倚地评估：心灵会估量每一主张的真实价值，并依判断行事。
   - id: 39
     kind: body
     source: |-
       Books Five to Eight apply the principles of justice, equality and private judgment in a critical examination of the institutions of government, issues of toleration and freedom of speech, theories of law and punishment, and, finally, the institution of property. In each case, government and its institutions are shown to constrain the development of our capacity to live wholly in accordance with the full and free exercise of private judgment. In the final book Godwin sketches his positive vision of the egalitarian society of the future, one which, having dispensed with all forms of organised co-operation, including orchestras and marriage, so as to ensure the fullest independence to each persons’ judgment, will gradually witness the development of the powers of mind to the point that they gain ascendancy over physiological process allowing life to be prolonged indefinitely.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第五至第八卷把正义、平等与私人判断的原则，用于批判性地考察政府建制、宽容与言论自由问题、法律与惩罚理论，最后是财产制度。每一处都表明，政府及其建制限制了我们依私人判断的充分而自由的运用去生活的能力之发展。在最后一卷，戈德温勾勒了他对未来平等社会的正面构想：那个社会废除了包括管弦乐团与婚姻在内的一切有组织的合作形式，以确保每个人判断的最大独立，从而将逐渐见证心灵力量的发展，直至其凌驾于生理过程之上，使生命得以无限延长。
+    step2: |-
+      第五至第八卷把正义、平等与私人判断三原则，用于批判性地考察政府建制、宽容与言论自由、法律与惩罚理论，最后是财产制度。每一处都表明：政府及其建制限制了我们依私人判断的充分自由运用去生活这一能力的发展。最后一卷，戈德温勾勒出他对未来平等社会的正面构想——那个社会废除了管弦乐团、婚姻等一切有组织的合作形式，以确保每个人判断的最大独立，并将渐渐见证心灵力量的发展：直至凌驾于生理过程之上，使生命得以无限延长。
   - id: 40
     kind: body
     source: |-
       In 1800 Godwin wrote:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1800 年，戈德温写道：
+    step2: |-
+      1800 年戈德温写道：
   - id: 41
     kind: body
     source: |-
       > The Enquiry concerning Political Justice I apprehend to be blemished principally by three errors. 1. Stoicism, or an inattention to the principle, that pleasure and pain are the only bases upon which morality can exist. 2. Sandemanianism, or an inattention to the principle that feeling, and not judgment, is the source of human actions. 3. The unqualified condemnation of the private affections. It will easily be seen how strongly these errors are connected with the Calvinist system, which had been so deeply wrought into my mind in early life, as to enable these errors long to survive the general system of religious opinions of which they formed a part…The first of these errors…has been corrected with some care in the subsequent edition of Political Justice. The second and third owe their destruction to a perusal of Hume’s *Treatise of Human Nature* in the following edition. (*CNM*, I, 54)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 《政治正义论探究》我以为主要有三处错误。一、斯多亚主义，即不注意这一原则：快乐与痛苦是道德赖以存在的唯一基础。二、Sandeman 主义，即不注意这一原则：情感而非判断才是人类行动的源泉。三、对私人情感的毫无保留的谴责。很容易看出，这些错误与加尔文主义体系联系何等紧密——那套体系早年深深铸入我的心灵，以致这些错误在它们所属的整个宗教意见体系早已消失之后，还能长久存活……其中第一个错误……此后《政治正义论》的新版已相当用心地作了纠正。第二个与第三个，则因下一版中读了休谟《人性论》而得以破除。（*CNM*, I, 54）
+    step2: |-
+      > 《政治正义论探究》我以为主要有三处毛病。一、斯多亚主义，即不注意“快乐与痛苦是道德赖以存在的唯一基础”这条原则。二、Sandeman 主义，即不注意“情感而非判断才是人类行动的源泉”这条原则。三、对私人情感的毫无保留的谴责。不难看出，这些错误与加尔文主义体系何等紧密——那套体系早年深深铸进我的心灵，以致这些错误在它们所属的整个宗教意见体系消散之后还能长久存活……第一个错误……此后《政治正义论》新版已颇用心地纠正。第二、第三个，则因下一版读了休谟《人性论》而破除。（*CNM*, I, 54）
   - id: 42
     kind: body
     source: |-
       This account is a fair characterisation of the changes which Godwin made in the second and third editions. Sentiment and feeling are given a much more powerful role, no longer to be expunged by the power of truth; the private affections are allowed to play a part in moral reasoning; and a more consistently utilitarian language is deployed throughout the work. As a consequence, the rationalism which marked the first edition becomes muted and, while the belief in progress is maintained, the more utopian flights of the first edition are omitted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一自述是对戈德温在第二版与第三版中所作改动的公允概括。情感与感情被赋予了强大得多的作用，不再要靠真理的力量去清除；私人情感获准在道德推理中占一席之地；全书也改用一种更为一贯的功利主义语言。结果是，第一版那种理性主义色彩变得淡薄；对进步的信念虽仍保持，第一版中较为乌托邦的飞跃则被删去。
+    step2: |-
+      这段自述相当公允地概括了戈德温在第二、三版中的改动。情感与感情被赋予大得多的作用，不再需靠真理之力清除；私人情感获准进入道德推理；全书也改用更为一贯的功利主义语汇。于是第一版那种理性主义色彩变淡；对进步的信念仍存，第一版里较为乌托邦的飞跃却删去了。
   - id: 43
     kind: body
     source: |-
       ## 4. Moral Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 道德哲学
+    step2: |-
+      ## 4 道德哲学
   - id: 44
     kind: body
     source: |-
       One of the most powerful attacks on Godwin was that made in Dr. Samuel Parr’s “Spital Sermon” of 1800. It was Godwin’s advocacy of universal benevolence against which Parr directed his energies, centring his attack on Godwin’s early dismissal of family feeling, gratitude and various natural sentiments. For Godwin, these are passions unconstrained by judgment, and so should not play a role in determining how we should act. He exemplifies his case in what has come to be known as the “Famous Fire Cause”, in which the reader is asked to imagine being able to save only one of two people in a fire, one of whom is the Archbishop Fénelon, a benefactor to the whole human race, the other of whom is the reader’s parent (mother in the first edition, father thereafter!). Godwin’s view is that justice demands that we act impartially for the greater good, which means saving Fénelon. He never abandoned this case, nor the view that it is our duty to act to bring about the greatest good. Just as a judge should not be influenced by familial or private concerns in his judgment, so too is the moral agent bound to judge impartially. In replying to Parr, Godwin expresses regret that he had not appealed to the still more persuasive case of Brutus executing his two sons—a striking example, and a republican commonplace about justice trumping paternal duties. As Godwin says, saving someone just because they are a relation seems bizarre without some additional judgment about their moral worth: a parent who is foolish or evil cannot have an over-riding claim on us against the moral deserts of all other members of the human race. That position, Godwin retains. Moreover, in his *Reply to Parr*, he insists that these extraordinary cases are unlikely to shake the domestic affections in the ordinary intercourse of life. However, from the later editions and other works, it becomes clear that he will admit, in the more normal course of events, a much more substantial role to be played by our natural affections and attachments. They provide us both with information about how best we might benefit others, and a basic moral motivation which can be relied on in normal cases and which can be generalised beyond the narrow domestic sphere (a position much indebted to Adam Smith’s *Theory of Moral Sentiments*). These changes are significant: it leaves us a less rationalist, more philosophically robust, account of moral motivation and its relationship to the principle of utility, and it does much to moderate the utopianism of the first edition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对戈德温最有力的攻击之一，出自 Samuel Parr 博士 1800 年的“医院布道”。Parr 攻击的靶子是戈德温对普遍仁爱的鼓吹，火力集中于戈德温早年对家庭情感、感恩以及种种自然情感的贬斥。在戈德温看来，这些情感是不受判断约束的激情，因此不应在决定我们该如何行动时起作用。他以后来被称为“著名的火灾案例”的情形为例：读者被要求设想，在一场火灾中只能救出两人中的一个，一位是对全人类都有恩惠的费奈隆大主教，另一位是读者的父母（第一版作母亲，此后各版作父亲！）。戈德温的看法是，正义要求我们为更大的善而不偏不倚地行动，也就是说，救费奈隆。他从未放弃这个案例，也从未放弃“我们有义务为促成最大的善而行动”这一看法。正如法官在判决时不应受家庭或私人考虑的左右，道德行为者也必须不偏不倚地判断。在答复 Parr 时，戈德温表示遗憾：他当初没有举布鲁图斯处死两个儿子这一更有说服力的例子——那是个醒目的例子，也是共和派关于正义高于父职的老生常谈。正如戈德温所说，仅仅因为某人是亲属就去救他，若不附上关于其道德价值的某种判断，就显得古怪：一个愚蠢或邪恶的父辈，不能凭着人类其他成员的道德应得，对我们拥有凌驾性的要求权。这一立场，戈德温保留了。此外，他在《答 Parr》中坚持认为，这些非常情形不太可能动摇日常交往中的家庭情感。然而，从后来的各版与其他著作可以看到，他显然会承认：在更为常规的情形中，我们的自然情感与依恋可以起大得多的作用。它们既为我们提供如何最好地造福他人的信息，也提供一种在常规情形下可依赖、并可推广到狭小家庭领域之外的基本道德动机（这一立场多得益于亚当·斯密的《道德情操论》）。这些改动意义重大：它留给我们的，是一种不那么理性主义、却在哲学上更为稳健的道德动机说明，以及这一说明与效用原则之关系的说明；它也大大缓和了第一版的乌托邦色彩。
+    step2: |-
+      对戈德温最有力的一击，来自 Samuel Parr 博士 1800 年的“医院布道”。Parr 针对的是戈德温对普遍仁爱的鼓吹，火力集中在戈德温早年对家庭情感、感恩与种种自然情感的贬斥。在戈德温看来，这些都是不受判断约束的激情，不该在决定我们如何行动时起作用。他以后来所称的“著名的火灾案例”为例：设想一场火灾中只能救出两人之一，一位是对全人类有恩的费奈隆大主教，另一位是读者的父母（第一版作母亲，此后各版作父亲！）。戈德温认为，正义要求我们为更大的善而不偏不倚地行动，也就是救费奈隆。这个案例他从未放弃，“我们有义务为促成最大的善而行动”这一看法也从未放弃。法官断案不应受家庭或私人考虑左右，道德行为者同样必须不偏不倚地判断。答复 Parr 时，戈德温表示遗憾：当初没有举布鲁图斯处死两个儿子这一更有说服力的例子——那例子醒目，也是共和派关于正义高于父职的老生常谈。正如他所说，仅因某人是亲属便去救他，若不附上关于其道德价值的判断，就显得古怪：一个愚蠢或邪恶的父辈，不能凭人类其他成员的道德应得，对我们拥有凌驾性的要求权。这一立场，戈德温保留了。此外，他在《答 Parr》中坚持认为，这类非常情形不太会动摇日常交往中的家庭情感。然而从后来的版本与其他著作可以看出，他显然承认：在更常规的情形里，自然情感与依恋可以起大得多的作用。它们既提供如何最好地造福他人的信息，也提供一种在常规情形下可依赖、并可推及狭小家庭领域之外的基本道德动机（这一立场多得自亚当·斯密《道德情操论》）。这些改动意义重大：它留给我们的，是一种不那么理性主义、哲学上却更稳健的道德动机说明，以及这一说明同效用原则之关系的说明；它也大大缓和了第一版的乌托邦气息。
   - id: 45
     kind: body
     source: |-
       The impact of these changes on Godwin’s over-all position is more difficult to assess. What we see in the changes is a consistent shift away from the rationalist account of moral motivation which marked the first edition to a position which is much more sceptical about the power of reason. This scepticism inevitably moderates Godwin’s belief in perfectibility, since it becomes more difficult to argue for convergence on principles of morality and the progressive development of knowledge. It also inevitably undermines Godwin’s faith in the triumph of mind over physiological processes. That said, neither the doctrine of private judgment nor the principle of utility depend on his earlier rationalism. The former is defended by Godwin on the grounds that only free action has moral value, and that the fullest possible exercise of private judgment is required for one’s actions to be free—further evidence of Godwin’s attempt to provide an agent-centred account of virtue alongside his consequentialism. With this commitment private judgment remains defensible even if there is a low probability that its exercise will produce true beliefs, so long as no other better method of tracking truth is available (which also becomes proportionately less likely as one’s scepticism increases). The defence might require that cognitive status be attributed to moral judgments, but it might also be possible to sustain the argument for private judgment independent of the issue of ethical objectivity. The utility principle might seem to call for an ability to make sound ethical judgments in complex situations but, again, if we are sceptical about people’s ability to judge well, this does not entail (and seems to deny) that there is a better way of judging. On both counts then, Godwin’s central principles remain intact despite the changes he makes to the account of moral motivation and judgment. Moreover, Godwin’s view of man’s progressive character might be defended by placing greater weight on eliminating the baleful effects of the social and political institutions of the European aristocracies than on the epistemological dimensions of the account.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些改动对戈德温整体立场的影响较难评估。我们从改动中看到的，是一种一贯的转移：从第一版那种理性主义的道德动机说明，转向一种对理性力量远为怀疑的立场。这种怀疑必然缓和了戈德温对可完善性的信念，因为要论证道德原则上的趋同与知识的渐进发展，已变得更为困难。它也必然削弱了戈德温对心灵战胜生理过程的信心。话虽如此，私人判断学说与效用原则都不依赖他早年的理性主义。前者之被辩护，理由在于：只有自由的行为才有道德价值，而要使行为自由，就必须尽可能充分地运用私人判断——这又一次证明戈德温试图在后果主义之外提供一种以行为者为中心的德性说明。有了这一承诺，即便运用私人判断产生真信念的概率很低，只要没有别的更好的追踪真理的方法可用（而随着怀疑加深，这种可用性也相应降低），私人判断仍可辩护。这一辩护或许要求把认知地位赋予道德判断，但也可能无需倚靠伦理客观性问题而独立支撑私人判断的论证。效用原则似乎要求一种在复杂情境中作出健全伦理判断的能力，但同样，如果我们怀疑人们能否判断得当，这并不蕴含（反倒似乎否认）存在更好的判断方式。于是，尽管戈德温对道德动机与判断的说明有所改动，他的核心原则在这两方面都完好无损。此外，戈德温关于人具有进步本性的看法，也许可以这样辩护：把更大的分量放在消除欧洲贵族制社会政治建制之有害影响上，而不是放在这一说明的认识论维度上。
+    step2: |-
+      这些改动对戈德温整体立场的影响较难评估。改动中可见一种一贯的移动：从第一版那种理性主义的道德动机说明，转向对理性力量远为怀疑的立场。这种怀疑必然缓和了他对可完善性的信念——要论证道德原则上趋于一致、知识渐进发展，已更为困难；也必然削弱了他对心灵战胜生理过程的信心。话虽如此，私人判断学说与效用原则都不依赖他早年的理性主义。前者之所以站得住，是因为只有自由行动才有道德价值，而行动要自由，就须尽可能充分地运用私人判断——这又一次见出戈德温想在后果主义之外提供一种以行为者为中心的德性说明。有了这一承诺，即便运用私人判断得出真信念的概率很低，只要没有更好的追踪真理之法可用（而怀疑越深，这种可用性也越低），私人判断仍可辩护。这一辩护或许要把认知地位赋予道德判断，但也可能不必倚靠伦理客观性问题，独立支撑私人判断的论证。效用原则似乎要求一种在复杂情境中作出健全伦理判断的能力；同样，若我们怀疑人们能否判断得当，这并不蕴含（反倒似乎否认）存在更好的判断方式。于是，尽管戈德温对道德动机与判断的说明有所更动，他的核心原则在这两方面都完好无恙。再者，他关于人具有进步本性的看法，或许也可这样辩护：把更多分量放在消除欧洲贵族制社会政治建制之有害影响上，而非放在这套说明的认识论维度上。
   - id: 46
     kind: body
     source: |-
       However, Godwin’s endorsement of both the principle of utility as the sole guide to moral duty and the principle of private judgment as a block on the interference of others, is not without tensions. His consistent doctrine is a combination of these two principles: that it is each individual’s duty to produce as much happiness in the world as he is able, and that each person must be guided in acting by the exercise of his private judgment, albeit informed by public discussion. If the resulting doctrine is utilitarian it is a highly distinctive form: it is act-utilitarian in that it discounts reliance on rules (although see Barry’s suggestion that his act- utilitarianism gives way to motive utilitarianism, *Justice as Impartiality* 224; and see Godwin’s invocation of sincerity as a partial rule constraint in the first edition, *PPW* III, 135–42); it is ideal, in that it acknowledges major qualitative differences in the pleasures; and it is indirect, in that we can only promote over-all utility by improving the understanding of our fellow human beings. More troubling to the view that this none the less amounts to utilitarianism is Godwin’s insistence on private judgment as a basic constraint, and his associated characterisation of the fully moral agent in terms of the fullest possible development of the individual’s intellectual powers and potential. Indeed, Godwin’s account of pleasure, in terms of the development of intellect and the exercise of its powers, means that the position looks more like perfectionism than it does a form of hedonistic utilitarianism (what is valued is the ideal as much as the pleasures which are integral to it). Furthermore, it suggests that no distinction can be drawn between the means that we adopt to promote the general good and the character of the general good itself. That is, what promotes the general good is the development of human intellect, but the general good just is the development of the human intellect. If that is true, Godwin’s account cannot be utilitarian because it cannot be consequentialist (because it cannot separate the means to the end from the end which is sought).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，戈德温既认可效用原则为道德义务的唯一向导，又认可私人判断原则为对他人干涉的屏障，这并非没有张力。他一贯的学说是这两条原则的结合：每个人都有义务在世上产生尽可能多的幸福；每个人行动时又必须依私人判断行事，尽管这判断须经公共讨论启导。由此得到的学说若算功利主义，也是一种极独特的形式：它是行为功利主义的，因为它不倚重规则（不过可参 Barry 的建议，说他的行为功利主义让位于动机功利主义，《作为不偏不倚的正义》224；也可参戈德温在第一版中援引真诚作为部分规则约束，*PPW* III, 135–42）；它是理想的，因为它承认快乐有重大的质的差异；它是间接的，因为我们只能通过改善同胞的理解力来促进总体效用。更令“这仍算是功利主义”一说为难的，是戈德温坚持私人判断为基本约束，以及他相应地把充分道德的行为者刻画为个人智力与潜能的最大可能发展。事实上，戈德温以智力的发展及其力量的运用来解说快乐，这就使他的立场更像至善论，而不像某种快乐主义功利主义（被看重的既有理想，也有作为其内在部分的快乐）。再者，这还意味着，我们为促进普遍善所采用的手段与普遍善本身的性质之间，无法划出区分。也就是说，促进普遍善的是人类智力的发展；而普遍善恰恰就是人类智力的发展。若果真如此，戈德温的说明就不可能是功利主义的，因为它不可能是后果主义的（因为它无法把达到目的的手段与所寻求的目的分开）。
+    step2: |-
+      然而，戈德温既认效用原则为道德义务的唯一向导，又认私人判断原则为抵御他人干涉的屏障，二者并非没有张力。他一贯的学说是这两条原则的结合：人人都有义务在世上造就尽可能多的幸福；人人行动又必须依自己的私人判断，尽管这判断须经公共讨论启导。由此得出的学说若算功利主义，也是极独特的一种：它是行为功利主义的，因为不倚重规则（不过可参 Barry 的意见，说他的行为功利主义让位于动机功利主义，《作为不偏不倚的正义》224；也可参戈德温在第一版中援引真诚作为部分规则约束，*PPW* III, 135–42）；它是理想的，因为承认快乐有重大的质的差异；它是间接的，因为我们只能靠改善同胞的理解力来促进总体效用。更让“这仍算功利主义”为难的，是戈德温坚持私人判断为基本约束，以及他相应地把充分道德的行为者界说为个人智力与潜能的最大可能发展。其实，戈德温以智力发展及其力量运用来解说快乐，这就使他的立场更像至善论，而不像某种快乐主义功利主义（被看重的既有理想，也有作为其内在部分的快乐）。再者，这还意味着：我们为促进普遍善所用的手段，与普遍善本身的性质之间，划不出区分。也就是说，促进普遍善的是人类智力的发展，而普遍善恰恰就是人类智力的发展。若果真如此，戈德温的说明便不可能是功利主义的，因为它不可能是后果主义的——它无法把达到目的的手段与所寻求的目的分开。
   - id: 47
     kind: body
     source: |-
       Such issues of interpretation remain very much in dispute in studies of Godwin (compare Clarke 1977 with Philp 1986 and Lamb 2009a)[^clark-1977][^lamb-2009a][^philp-1986], being complicated by issues concerning the weight to be given to the different editions of *Political Justice* and Godwin’s later writings. However, even if a utilitarian reading of Godwin is accepted, it remains the case that the doctrine is strictly a precept of individual moral judgment. Because of his broader views as to the corrupting influence of government, there can be no extension of the principle to politics. Each of us must judge as best we can how to advance the good of all, but every person is owed a respect for their private judgment which precludes us from exercising authority over them. By invoking this constraint, Godwin delivers utilitarianism from the more statist approaches of Bentham and later utilitarians. It also ensures that the doctrine retains a fundamentally egalitarian form. The constraint also supports the view that Godwin reached his philosophical position less through the *philosophes*, than by secularising Dissenting arguments for the sanctity of private judgment and generalising their application to every mode of human activity. This commitment also provides support for a reading of Godwin’s position which sees it as concerned with individual moral perfectibility, couched in the language of utility, rather than as strictly utilitarian.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这类解释问题在戈德温研究中至今争论不休（比较 Clarke 1977 与 Philp 1986、Lamb 2009a）[^clark-1977][^lamb-2009a][^philp-1986]，《政治正义论》各版与戈德温后期著作何者更当倚重的问题，又使争论更为复杂。然而，即便接受对戈德温的功利主义解读，情况仍然是：这一学说严格说来只是个人道德判断的规诫。由于他对政府腐蚀性影响持有更宽广的看法，这条原则无法延伸至政治。我们每个人都须尽力判断如何增进全体之善，但每个人都应就其私人判断受到尊重，这使我们不得对他们行使权威。借助这一约束，戈德温使功利主义摆脱了边沁及后世功利主义者较为国家主义的取向。这也确保该学说保持根本上的平等主义形式。这一约束还支持这样一种看法：戈德温之所以达到其哲学立场，与其说通过*philosophes*，不如说是把不从国教派关于私人判断神圣性的论证世俗化，并把它们的应用推广到人类活动的一切方式。这一承诺也支持另一种解读：戈德温的立场关切的是个人道德的完善，只是借用了效用的语言，而非严格意义上的功利主义。
+    step2: |-
+      这类解释问题在戈德温研究中至今聚讼（比较 Clarke 1977 与 Philp 1986、Lamb 2009a）[^clark-1977][^lamb-2009a][^philp-1986]，《政治正义论》各版与后期著作何者更当倚重，又使争论更复杂。然而即便接受功利主义解读，这一学说严格说来仍只是个人道德判断的规诫。由于他对政府腐蚀性影响有更宽广的看法，这条原则无法延伸到政治。人人须尽力判断如何增进全体之善，但每个人的私人判断都应受到尊重，这使我们不得对他们行使权威。借这一约束，戈德温使功利主义摆脱了边沁及后世功利主义者较为国家主义的取向，也确保该学说保持根本上的平等主义形式。这一约束还支持另一种看法：戈德温之所以形成其哲学立场，与其说经由*philosophes*，不如说是把不从国教派关于私人判断神圣性的论证世俗化，并把它们的应用推及人类活动的一切方式。由此也支持这样一种解读：戈德温关切的乃是个人道德的完善，只是借用了效用的语言，而非严格意义上的功利主义。
   - id: 48
     kind: body
     source: |-
       ## 5. A Philosophy of History
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 历史哲学
+    step2: |-
+      ## 5 历史哲学
   - id: 49
     kind: body
     source: |-
       *Political Justice* condemns all government interference with individual judgment. Godwin claims that over time history has seen gradual progress as knowledge has developed and has spread and as men and women have liberated themselves from their political chains and their subordination to the fraud and imposture of monarchical and aristocratic government and established religion. His optimistic belief in the impotence of government against advancing opinion (which partly glosses and extends Hume’s comment that all government is founded on opinion) is balanced by some sociologically perceptive comments on the baleful influence that certain types of political power have on those who exercise it or are subject to it. These insights are also explored in The *Enquirer*, but it is in Godwin’s later novels, from *Caleb Williams* (1794) onward, that it is given its fullest rein. As Godwin indicates in his unpublished essay, “On History and Literature” (1798) (*PPW* V, 290–301), literature can be used to show how the cultures and institutions into which we are born come inexorable to shape our lives, leading us to act in ways which destroy our chances of happiness. The six mature novels effectively follow through the critical enterprise launched in *Political Justice* by their narrative histories of men who are brought to grief by the aristocratic and inegalitarian principles of their societies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《政治正义论》谴责一切政府对个人判断的干涉。戈德温主张，历史长河中确有渐进的进步：知识在发展、在传播，男男女女从政治锁链中、从对君主制与贵族制政府及国教的欺诈与冒充的屈从中解放出来。他乐观地相信，政府无力对抗日益前行的意见（这一看法多少是在诠释并扩展休谟“一切政府都建立在意见之上”的评断）；与此相平衡的，是一些颇具社会学洞见的评论：某些类型的政治权力对其行使者或受其支配者有何等有害的影响。这些洞见在《探索者》中也有探讨，但直到《凯莱布·威廉斯》（1794）以后的后期小说，才得到最充分的施展。正如戈德温在其未刊论文《论历史与文学》（1798）（*PPW* V, 290–301）中所指出的，文学可以用来说明：我们生于其中的文化与建制如何不可阻挡地塑造我们的生活，引我们以毁灭自身幸福机会的方式行动。六部成熟小说通过叙述那些被其社会的贵族制与不平等原则引向毁灭的人的历史，实际上贯彻了《政治正义论》所发起的批判事业。
+    step2: |-
+      《政治正义论》谴责一切政府对个人判断的干涉。戈德温主张，历史长河中确有渐进的进步：知识在发展、在传播，男男女女挣脱政治锁链，也不再屈从于君主制、贵族制政府与国教的欺诈与冒充。他乐观地相信政府无力对抗日益前行的意见（这多少是在诠释并扩展休谟“一切政府都建立在意见之上”的评断）；与之相平衡的，是一些颇具社会学洞见的评论：某些类型的政治权力，对其行使者或受其支配者影响极坏。这些洞见在《探索者》中亦有探讨，但要到《凯莱布·威廉斯》（1794）以后的后期小说，才施展得最充分。戈德温在那篇未刊论文《论历史与文学》（1798）（*PPW* V, 290–301）里指出，文学可用以说明：我们生于其中的文化与建制如何不可阻挡地塑造我们的生活，引我们以毁掉自身幸福机会的方式行动。六部成熟小说叙述的那些人，都是被其社会的贵族制与不平等原则引向毁灭的；这些叙述实际上贯彻了《政治正义论》所发起的批判事业。
   - id: 50
     kind: oir
     source: |-
@@ -359,5 +407,15 @@ segments:
       - Somerset Record Office, Somerset, UK. Contains correspondence and papers relating to Mary Jane Vial (Latter Mrs Clairmont, Godwin’s second wife. See the transcription at [available online](https://sites.google.com/site/maryjanesdaughter/the-dodson-and-pulman-papers).
       - Anarchist Archives [Godwin Home Page](http://dwardmac.pitzer.edu/anarchist_archives/godwin/Godwinarchive.html)
       - Portraits of Godwin at the [National Portrait Gallery](http://www.npg.org.uk/live/search/person.asp?search=ss&sText=godwin&LinkID=mp01808) (London).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 戈德温《日记》的交互式数字版目前正在重建，临时站点托放在[华威大学](https://godwindiary-test.warwick.ac.uk)。《日记》相关工作将于 2025 年夏进行。手稿本《日记》见[阿宾杰文献](https://digital.bodleian.ox.ac.uk/collections/abinger/)。
+      - 纽约 Pforzheimer 图书馆。藏有《弗利特伍德》手稿以及与《圣列昂》相关的各类通信与材料。[Pforzheimer 馆藏目录](http://archives.nypl.org/search/results?utf8=%E2%9C%93&q;=Godwin)现已上线。
+      - 英国萨默塞特郡档案馆。藏有与 Mary Jane Vial（后为 Clairmont 夫人，戈德温的第二任妻子）相关的通信与文稿。转录见[在线版](https://sites.google.com/site/maryjanesdaughter/the-dodson-and-pulman-papers)。
+      - 无政府主义档案馆的[戈德温主页](http://dwardmac.pitzer.edu/anarchist_archives/godwin/Godwinarchive.html)
+      - 戈德温画像见（伦敦）[国家肖像馆](http://www.npg.org.uk/live/search/person.asp?search=ss&sText=godwin&LinkID=mp01808)。
+    step2: |-
+      - 戈德温《日记》的交互式数字版正在重建，临时站点托放在[华威大学](https://godwindiary-test.warwick.ac.uk)。《日记》相关工作将于 2025 年夏进行。手稿本《日记》见[阿宾杰文献](https://digital.bodleian.ox.ac.uk/collections/abinger/)。
+      - 纽约 Pforzheimer 图书馆：藏有《弗利特伍德》手稿，以及与《圣列昂》相关的通信和材料。[Pforzheimer 馆藏目录](http://archives.nypl.org/search/results?utf8=%E2%9C%93&q;=Godwin)现已上线。
+      - 英国萨默塞特郡档案馆：藏有 Mary Jane Vial（后为 Clairmont 夫人，即戈德温的第二任妻子）的通信与文稿。转录见[在线版](https://sites.google.com/site/maryjanesdaughter/the-dodson-and-pulman-papers)。
+      - 无政府主义档案馆的[戈德温主页](http://dwardmac.pitzer.edu/anarchist_archives/godwin/Godwinarchive.html)
+      - 戈德温画像见（伦敦）[国家肖像馆](http://www.npg.org.uk/live/search/person.asp?search=ss&sText=godwin&LinkID=mp01808)。
