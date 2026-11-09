@@ -2,8 +2,44 @@
   "slug": "risk",
   "kind": "retranslate",
   "zh_doc": "r/risk.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T00:17:19Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "qr-translator-1",
+      "at": "2026-11-09T06:18:35Z",
+      "evidence": "账本 106 段（body 105 / oir 1）双版全填，lq.py check HARD 0；compose 写回 r/risk.md 30,476 字符；图 1 本地化路径 ../yuanwen/assets/risk/figure1.png（资产 14,087 B 已核在库）；术语 40 条、人名 14 条经 script/qr_rows_risk.py + reg_tool 登记；登记时发现 Nozick/Rawls/Harsanyi/Arrow 因键形差异（First Last 形既有行）产生 4 条重复行，已删除本次新增行、保留既有行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "qr-translator-1",
+      "at": "2026-11-09T06:30:05Z",
+      "evidence": "一校（准确性）：结构核验 19/19 标题对位（5.1–5.6、6.1–6.2、7.1–7.4 全齐）；年份/编号扫描 0 缺失；脚注键 42 组按段对位；公式 6 段（46/77/79/81/95/96/102）LaTeX 逐字符照录且 \\$ 计数与源一致；图段 3 段（*图 1。*/图片/图注）对位、路径 ../yuanwen/assets/risk/figure1.png；OIR 按模板作「[欢迎向作者提出建议。]」；相关词条 9 项回 SUMMARY 核验（后果主义、经济学哲学、博弈论、科学知识的社会维度、技术哲学、自利契约论、法律中的因果关系、概率因果关系、正义与厄运）；修正术语误形 1 处：哈萨尼→海萨尼（按登记册既有形 Harsanyi, John）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "qr-translator-1",
+      "at": "2026-11-09T06:32:02Z",
+      "evidence": "二校（语言）：check_prose 告警 18→0，逐条人工改写——长句 4 处拆分（段21/46/47/87 原句域）；的密度 11 处重排（拆句、改"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "qr-translator-1",
+      "at": "2026-11-09T06:47:24Z",
+      "evidence": "三校（体例）：check_style 0 issue；check_academic --docs r/risk.md --strict 0 硬错误（非存根 1、在途豁免 1）；check_math missing 0、unbalanced 1——该 1 条为工具「\\$ 后紧跟数字＝货币」启发式对源文 \\ \\times 10^{-9}\\$ 的误报（en/ 原页作 \\(1 \\times 10^{-9}\\)，yuanwen 镜像与成稿逐字符一致，源镜像不入库且不改），独立脚本复核成稿行内 \\$ 配对与镜像同构；术语 40/人名 14 与登记册一致、正文锁主形（风险/不确定性/期望效用/前景理论/预防原则/归纳风险/固有安全/安全系数/多重屏障）；中文强调走 **加粗**、拉丁术语保留斜体；尾部节序 References（引用注释）→学术工具→其他网络资源→相关词条（源无致谢，整节省略）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-08T18:26:49Z",
   "version_pin": {
