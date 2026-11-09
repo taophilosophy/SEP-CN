@@ -959,6 +959,7 @@
 | Gerald Gaus | — | 杰拉尔德·高斯 | — | — | 语料回收（全目录） | 学界惯例（政治哲学/社会契约）；凭证 2026-11-01 | 2026-11-01 |
 | Geraldus Odonis | — | 杰拉德·奥多尼斯 | — | — | nicole-oresme | 中世纪哲学通行汉译（方济各会总会长，亦作 Gerardus Odonis）；凭证 2026-11-08 | 2026-11-08 |
 | Gerard of Odo | — | 热拉尔·奥多 | — | — | 首现（crathorn） | 学界惯例（巴黎方济各会士，音译）；凭证 2026-11-07 | 2026-11-07 |
+| Gerrig, Richard | — | Richard Gerrig（现代学者，保留英文） | 美国 | — | paradox-suspense | ADR-0022：无通行汉名者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Gerard, Alexander | — | 亚历山大·杰拉德 | — | — | aesthetics-18th-british | 学界通行（《论趣味》作者，苏格兰常识学派外围） | 2026-11-06 |
 | Géraud de Cordemoy | Géraud de Cordemoy | 科尔迪莫伊 | — | — | leibniz-mind | 学界通行汉译（17 世纪原子论者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Geronimo de Santa Fe | — | 赫罗尼莫·德·圣塔菲 | — | — | albo-joseph | 托尔托萨论辩史通行音译（原名约书亚·洛尔基） | 2026-11-07 |
@@ -1182,6 +1183,7 @@
 | Hirao Rosen | — | 平尾鲁仙 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Hirata Atsutane | — | 平田笃胤 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Hirata Kanetane | — | 平田铉胤 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Hitchcock, Alfred | — | 阿尔弗雷德·希区柯克 | 英国／美国 | 1899–1980 | paradox-suspense | 学界与影史通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Hirsch, Emil | — | 埃米尔·赫希 | — | — | albo-joseph | JewishEncyclopedia.com 条目作者音译 | 2026-11-07 |
 | Hirsch, Samson Raphael | — | 参孙·拉斐尔·希尔施 | 德国 | 1808–1888 | scholem | 学界通行汉译（新正统派）；凭证 2026-11-08 | 2026-11-08 |
 | Hissette, Roland | — | 罗兰·希塞特 | — | — | condemnation | 学界惯例（鲁汶 219 条研究作者，音译）；凭证 2026-11-08 | 2026-11-08 |
@@ -1473,6 +1475,7 @@
 | Kaunda, Kenneth | — | 肯尼斯·卡翁达 | 赞比亚 | 1924–2021 | african-ethics | 学界通行音译（赞比亚首任总统）；凭证 2026-11-09 | 2026-11-09 |
 | Kaye, Richard | — | Kaye | 1960– | 无通行汉名，保留英文原名；凭证 2026-11-09 | quine-nf | 英国 | 2026-11-09 |
 | Keichū | 契沖 | 契沖 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Kelly, Grace | — | 格蕾丝·凯利 | 美国 | 1929–1982 | paradox-suspense | 影史通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Keill, John | — | 约翰·凯尔 | — | — | emilie-du-chatelet | 学界惯例（牛顿派数学家，通行音译） | 2026-11-04 |
 | Keith, George | — | 乔治·基思 | — | — | john-norris | 贵格会改宗者；音译 | 2026-11-07 |
 | Kelley, Anne | — | 安妮·凯利 | — | — | cockburn | 学界通行汉译（《Catharine Trotter》作者，考克本研究者）；凭证 2026-11-07 | 2026-11-07 |
@@ -1966,6 +1969,7 @@
 | Olympiodorus | — | 奥林匹奥多罗斯 | — | — | alyngton | 学界通行汉译（SUMMARY 定名沿用；古代哲学注释家） | 2026-11-06 |
 | Oppy, Graham | — | 格雷厄姆·奥皮 | 澳大利亚 | 1960– | omniscience | 学界通行音译；凭证 2026-11-09 | 2026-11-09 |
 | Oresme, Nicole | — | 尼科尔·奥雷斯姆（正文简作“奥雷斯姆”） | — | — | duhem；nicole-oresme | 学界惯例（中世纪哲学家通行汉译；2026-11-08 名形统一：妮可→尼科尔、“奥雷姆”补“斯”，与 SUMMARY/已译语料归一，用户裁定）；凭证 2026-11-06 | 2026-11-08 |
+| Ortony, Andrew | — | Andrew Ortony（现代学者，保留英文） | 美国 | — | paradox-suspense | ADR-0022：无通行汉名者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Orey, Steven | — | Orey | — | 无通行汉名，保留英文原名；凭证 2026-11-09 | quine-nf | 美国 | 2026-11-09 |
 | Origen | — | 奥利金 | — | — | erasmus | 学界惯例（教父通译） | 2026-11-04 |
 | Orikuchi Shinobu | — | 折口信夫 | — | — | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
@@ -2423,6 +2427,7 @@
 | Smart, J. J. C. | — | J. J. C. 斯马特 | — | — | biology-philosophy | 学界通行汉译（《功利主义：赞成与反对》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Smith, Adam | — | 亚当·斯密 | — | — | SUMMARY 定名（s/smith-moral-political.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Smith, Barry | — | 巴里·史密斯 | 英国／美国／社会本体论与现象学 | 1952– | reinach | 学界通行汉译（社会本体论与现象学）；凭证 2026-11-09 | 2026-11-09 |
+| Smuts, Aaron | — | Aaron Smuts（现代学者，保留英文） | 美国 | — | paradox-suspense | ADR-0022：无通行汉名者保留英文（词条作者）；凭证 2026-11-09 | 2026-11-09 |
 | Smith, John (Cambridge Platonist) | John Smith | 约翰·史密斯 | 英国 | 1618–1652 | cambridge-platonists | 学界通行音译（《论文选》作者；与亚当·斯密异人）；凭证 2026-11-09 | 2026-11-09 |
 | Smith, Kiki | — | 琪琪·史密斯 | — | — | erotic-art | 学界惯例音译（美国艺术家） | 2026-11-08 |
 | Smithson, Robert | — | 罗伯特·史密森 | — | — | environmental-aesthetics | 学界通行（大地艺术） | 2026-11-08 |
@@ -2481,6 +2486,7 @@
 | Stephen Schiffer | — | 斯蒂芬·希弗 | — | — | 语料回收（全目录） | 学界惯例（语言哲学/心灵哲学）；凭证 2026-11-01 | 2026-11-01 |
 | Stephen Stich | — | 斯蒂芬·斯蒂奇 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Sterry, Peter | — | 彼得·斯特里 | 英国 | 1613–1672 | cambridge-platonists | 学界通行音译（《论意志自由》作者）；凭证 2026-11-09 | 2026-11-09 |
+| Stewart, James | — | 詹姆斯·斯图尔特 | 美国 | 1908–1997 | paradox-suspense | 影史通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Steuco, Agostino | — | 阿戈斯蒂诺·斯图科 | 意大利 | 约 1497–1548 | cambridge-platonists | 学界通行音译（《论永恒哲学》作者）；凭证 2026-11-09 | 2026-11-09 |
 | Stevens, Wallace | — | 华莱士·史蒂文斯 | — | — | bergson | 学界通行汉译（美国诗人） | 2026-11-08 |
 | Stewart, Dugald | — | 杜格尔德·斯图尔特 | — | — | antonio-rosmini | 苏格兰常识学派通行音译 | 2026-11-07 |
@@ -2514,6 +2520,7 @@
 | Sylvester of Ferrara, Francis | — | 费拉拉的弗朗西斯·西尔维斯特 | 意大利／托马斯主义 | 1474–1528 | analogy-medieval | 托马斯主义研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Sylvester, J. J. | — | J. J. 西尔维斯特 | 英国 | 1814–1897 | peirce-benjamin | 数学史通行音译（《美国数学杂志》创办人；与费拉拉的弗朗西斯·西尔维斯特异人）；凭证 2026-11-09 | 2026-11-09 |
 | Szilágyi, K. | K. Szilágyi | K. 西拉吉（首现括注 Szilágyi） | — | — | abraham-daud | 匈牙利语通行音译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
+| Yanal, Robert | — | Robert Yanal（现代学者，保留英文） | 美国 | — | paradox-suspense | ADR-0022：无通行汉名者保留英文；凭证 2026-11-09 | 2026-11-09 |
 
 ## T
 

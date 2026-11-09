@@ -790,6 +790,7 @@
 | dialetheism | — | 双面真理论 | 语料回收（logic-classical） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
 | dialogical | — | 对话性的 | gadamer-aesthetics | 学界惯例（诠释学通行） | 2026-11-01 |
 | Dialogue / Dialogus | Dialogus | 《对话》（首现括注） | ockham | Kilcullen 英译项目（英国学术院版）通行简称；凭证 2026-11-07 | 2026-11-07 |
+| desire-frustration theory | — | 欲望受挫论 | paradox-suspense | 构词直译（Smuts 的悬念理论）；凭证 2026-11-09 | 2026-11-09 |
 | dialysis | — | 透析 | organ-donation | 学界惯例（医学名词审定词；凭证 2026-11-06） | 2026-11-06 |
 | diamond splinters | — | 金刚屑因 | gorampa | 藏传中观五大因之一（rdo rje’i gzegs ma）；学界通行 | 2026-11-09 |
 | Dichotomy | — | 二分法（悖论名；亦作“二分”） | zeno-elea | 学界通行（《物理学》研究，苗力田译本传统）；凭证 2026-11-09 | 2026-11-09 |
@@ -1017,6 +1018,7 @@
 | Erfahrung | Erfahrung | 经验（伽达默尔语境；与 Erlebnis 体验相区分） | gadamer-aesthetics | 学界惯例（伽达默尔《真理与方法》通行） | 2026-11-01 |
 | Erfahrung-Ästhetik | Erfahrung-Ästhetik | 经验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
 | eristic | — | 争胜论辩（eristic） | zeno-elea | 学界惯例（与辩证论辩对举的争胜式论辩）；凭证 2026-11-09 | 2026-11-09 |
+| emotional misidentification | — | 情绪误认 | paradox-suspense | 构词直译（Yanal 的解决方案）；凭证 2026-11-09 | 2026-11-09 |
 | Erklärende Psychologie | Erklärende Psychologie | 说明心理学 | jaspers 首译 | 学界通行（与理解心理学对举；Erklären 说明）；凭证 2026-11-09 | 2026-11-09 |
 | Erlebnis | Erlebnis | 体验（狄尔泰/伽达默尔语境；亦作“亲历体验”） | gadamer-aesthetics | 学界惯例（伽达默尔《真理与方法》通行） | 2026-11-01 |
 | Erlebnis-Ästhetik | Erlebnis-Ästhetik | 体验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
@@ -1355,6 +1357,7 @@
 | hard facts | — | 硬事实 | omniscience | 学界通行译名（与 soft facts 对举）；凭证 2026-11-09 | 2026-11-09 |
 | harmonic | — | 谐波 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | harmonic series | — | 调和级数 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
+| entertained uncertainty | — | 设想的不确定性 | paradox-suspense | 构词直译（Carroll：entertain a thought 心存/设想；与 actual uncertainty“实际的不确定性”对举）；凭证 2026-11-09 | 2026-11-09 |
 | Harmony of the Two Sages, Plato and Aristotle | — | 《两圣（柏拉图与亚里士多德）之和合》 | 首现（theology-aristotle） | 照题直译（法拉比著作，通行亦作《两哲观点的调和》）；凭证 2026-11-08 | 2026-11-08 |
 | haruspicy | — | 肠卜术 | gianfrancesco-pico | 古代占卜史通行（亦作「脏卜术」） | 2026-11-09 |
 | Hasidism | — | 哈西德主义 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
@@ -1978,6 +1981,7 @@
 | modus ponens | modus ponens | 肯定前件 | 语料回收 | 学界惯例（逻辑学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | modus se habendi | modus se habendi | 情状（modus se habendi） | nicole-oresme | 经院哲学术语通行译法；与样态（condicio）并列；凭证 2026-11-08 | 2026-11-08 |
 | modus significandi | modus significandi | 意谓方式 | 语料回收（marsilius-inghen 首译） | 中世纪语法/逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
+| moment-by-moment forgetting | — | 逐刻遗忘 | paradox-suspense | 构词直译（Gerrig 的悬念解释）；凭证 2026-11-09 | 2026-11-09 |
 | modus tollens | modus tollens | 否定后件式 | 语料回收（lakatos 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | mokṣa | मोक्ष | 解脱 | jaina-philosophy | 印度宗教哲学通行（本文与佛教解脱异系统，随文见义） | 2026-11-08 |
 | Molyneux's problem | — | 莫利纽克斯问题 | SUMMARY 定名（m/molyneux-problem.md） | 学界惯例（SUMMARY 定名沿用；知觉哲学史通行）；凭证 2026-11-06 | 2026-11-06 |
@@ -2302,6 +2306,7 @@
 | paradox of fiction | — | 虚构悖论 | 首现（experimental-aesthetics） | 学界通行（虚构引起情感反应悖论；亦作“虚构的悖论”备查） | 2026-11-09 |
 | paradox of negative emotion | — | 负面情感悖论 | 首译（experimental-aesthetics） | 学界惯例（Hume 1757 之问；与悲剧悖论相邻） | 2026-11-09 |
 | paradoxes of implication | — | 蕴涵悖论 | necessary-sufficient | 逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
+| paradox of suspense | — | 悬念悖论 | paradox-suspense | 学界通行（叙事美学文献）；SUMMARY 标题作“悬疑悖论”，正文按术语登记形；凭证 2026-11-09 | 2026-11-09 |
 | paramāṇu | परमाणु | 极微（耆那教原子） | jaina-philosophy 首译 | 梵语义译通行（耆那教与胜论“不可分原子”作极微；承佛典古译“极微”传统译名）；凭证 2026-11-08 | 2026-11-08 |
 | parārthānumāna | परार्थानुमान | 为他比量 | jaina-philosophy | 因明传统译名（陈那系统） | 2026-11-08 |
 | Pareto condition | — | 帕累托条件 | 首现（imprecise-probabilities） | 学界惯例（社会选择理论通行）；凭证 2026-11-08 | 2026-11-08 |
@@ -2577,6 +2582,7 @@
 | prospect | — | 前景 | 首现（imprecise-probabilities） | 学界惯例（决策论通行）；凭证 2026-11-08 | 2026-11-08 |
 | prospect theory | — | 前景理论 | risk | 学界惯例（Kahneman & Tversky；亦作「展望理论」）；凭证 2026-11-09 | 2026-11-09 |
 | protectionism | — | 贸易保护主义 | cosmopolitanism | 学界通行（国际贸易政治经济学）；与美学域 aesthetic protectionism 区分；凭证 2026-11-09 | 2026-11-09 |
+| prospect emotion | — | 预期情绪 | paradox-suspense | 构词直译（Ortony/Clore/Collins 的情绪分类：prospect emotions）；凭证 2026-11-09 | 2026-11-09 |
 | protective agency | — | 保护性能动 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | protective belt | — | 保护带 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Protestant Reformation | — | 新教改革 | 语料回收（标题词） | 学界惯例（宗教改革通行）；凭证 2026-11-01 | 2026-11-01 |
@@ -2689,6 +2695,7 @@
 | realist phenomenology | — | 实在论现象学 | reinach | 学界惯例（慕尼黑—哥廷根学派研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | realization | — | 实现 | logic-provability | 可证性逻辑通行（亦作“翻译”“解释”备查） | 2026-11-05 |
 | Reaper Argument | θερίζων λόγος | 收割者论证 | dialectical-school | 学界通行（阿莫尼俄斯所记决定论论证）；凭证 2026-11-07 | 2026-11-07 |
+| recidivist suspense | — | 重看者的悬念 | paradox-suspense | 构词直译（recidivist 指反复观看同一叙事者，正文作“重看者”）；凭证 2026-11-09 | 2026-11-09 |
 | reason | — | 理性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | reason for thinking | — | 证据性理由（据以认定的理由） | necessary-sufficient | 本词条核心区分（证据关系）；凭证 2026-11-08 | 2026-11-08 |
 | reason why | — | 原因性理由（何以如此的理由） | necessary-sufficient | 本词条核心区分（解释性关系）；凭证 2026-11-08 | 2026-11-08 |
@@ -2736,6 +2743,7 @@
 | reliabilism | — | 可靠论（亦作“可靠主义”） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | reliable cognition（tshad ma） | ཚད་མ་ | 可靠认知（即"量"；藏文 tshad ma 本词条通译作"量"） | epistemology-language-tibetan | 佛学界通行（量=pramāṇa/tshad ma）；与 gelukpa 词条 pramāṇa=量论 对齐 | 2026-11-04 |
 | reliable tradition | — | 可靠传统 | 首译（saadya） | 犹太哲学研究通行（al-kabar as-sâdiq 可靠传闻）；凭证 2026-11-09 | 2026-11-09 |
+| repeater | — | 重看者 | paradox-suspense | 构词直译（与 forgetter“遗忘者”、virgin viewer“初看者”对举）；凭证 2026-11-09 | 2026-11-09 |
 | religious belief | — | 宗教信念 | 语料回收 | 学界惯例（宗教认识论通行 belief=信念）；审定库无直接收录（凭证 2026-10-29） | 2026-10-29 |
 | religious exceptionalism | — | 宗教例外论 | 首现（religion-epistemology） | 本词条术语（Forrest）；凭证 2026-11-08 | 2026-11-08 |
 | remote inherence | — | 远距离内属 | penbygull | 沿用姊妹词条 alyngton 既定译法（inhaerentia remota；inherence 通译内属）；凭证 2026-11-09 | 2026-11-09 |
@@ -3062,6 +3070,7 @@
 | stability | — | 稳定性 | 首现（imprecise-probabilities） | 学界惯例（Leitgeb 用语，与 resiliency 略同）；凭证 2026-11-08 | 2026-11-08 |
 | stable marriage (problem) | — | 稳定婚姻（问题） | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
 | stable match | — | 稳定匹配 | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| standard account | — | 标准说明 | paradox-suspense | 构词直译（Ortony 等人的悬念理论）；凭证 2026-11-09 | 2026-11-09 |
 | stadial theory | — | 阶段论（四阶段理论） | colonialism | 学界通行（苏格兰启蒙 historiography 引介）；凭证 2026-11-07 | 2026-11-07 |
 | Stadium (paradox) | — | 运动场（悖论名） | zeno-elea | 学界通行（芝诺四悖论通名，苗力田译本传统）；凭证 2026-11-09 | 2026-11-09 |
 | stand-in model | — | 替身模型 | model-organisms 首译 | 本词条术语（Weber 2014 的 stand-in model）；凭证 2026-11-09 | 2026-11-09 |
@@ -3175,6 +3184,7 @@
 | Sura Academy | — | 苏拉学院 | 首译（saadya） | 犹太教史通行（Sura 苏拉，巴比伦 geonim 时期经学院）；凭证 2026-11-09 | 2026-11-09 |
 | surjection | — | 满射 | quine-nf | 数学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | surrogacy | — | 替代性 | model-organisms 首译 | 科学哲学通行译名（Green 2024）；凭证 2026-11-09 | 2026-11-09 |
+| suspense | — | 悬念 | paradox-suspense | 电影与叙事美学通行译法（suspense 通译“悬念”；SUMMARY 条目标题沿用既有“悬疑悖论”命名，正文术语统一作“悬念”）；凭证 2026-11-09 | 2026-11-09 |
 | surrogate | — | 替代物 | model-organisms 首译 | 科学哲学通行译名（model as surrogate 替代模型）；凭证 2026-11-09 | 2026-11-09 |
 | survivals | — | 遗存（往昔遗存） | oakeshott 首译 | 学界惯例（历史证据术语；德罗伊森/柯林武德研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | suspending judgement | — | 悬置判断 | 首现（imprecise-probabilities） | 学界惯例（怀疑论与认识论文献通行）；凭证 2026-11-08 | 2026-11-08 |
@@ -3429,6 +3439,7 @@
 | unwritten doctrines | — | 口传学说 | xenocrates | 学界通行（柏拉图“未成文学说”；亦作“不成文学说”） | 2026-11-08 |
 | upamāna | उपमान | 譬喻量 | jayaraasi | 因明六量传统译名（与义准量 arthāpatti 同系） | 2026-11-07 |
 | upright walk | — | 直立行走 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| thought theory | — | 思想理论 | paradox-suspense | 分析美学通行（Carroll 的情绪反应思想理论）；凭证 2026-11-09 | 2026-11-09 |
 | urelemente | — | 本元 | quine-nf | 集合论通行译名（亦作“原子”）；凭证 2026-11-09 | 2026-11-09 |
 | Urim and Tumim | — | 乌陵与土明 | crescas | 学界通行（大祭司求问器具，《圣经》译名）；凭证 2026-11-08 | 2026-11-08 |
 | Urphänomen | Urphänomen | 原初现象 | landmann-kalischer | 歌德-胡塞尔传统通行 | 2026-11-04 |
