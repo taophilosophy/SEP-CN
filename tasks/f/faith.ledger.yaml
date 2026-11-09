@@ -196,140 +196,186 @@ segments:
     kind: body
     source: |-
       Models of faith as knowledge may be thought lacking because they admit no actional component in faith itself. Faith seems essentially to involve some kind of *active venture* in commitment and trust, even if talk of a ‘leap of faith’ may not be wholly apt. Many have held that faith ventures beyond what is *ordinarily* known or justifiably held true, in the sense that faith involves accepting what cannot be established as true through the proper exercise of our naturally endowed human cognitive faculties. As Kant famously reports, in the Preface to the Second Edition of his *Critique of Pure Reason*: ‘I have … found it necessary to deny *knowledge*, in order to make room for *faith*’ (Kant 1787 [1933, 29])[^kant-1787]. Theist philosophers do, however, typically defend the claim that faith is not ‘contrary to reason’. On models of faith that take a cognitive component as central, and construe faith’s object as propositional, reasonable faith therefore seems subject to a general *evidentialist* principle—‘a wise man ... proportions his belief to the evidence’, as Hume puts it (Hume 1748 [2007], “Of Miracles”, 80)[^hume-1748]. And W. K. Clifford elevates evidentialism to the status of an absolute moral requirement, affirming that ‘it is wrong always, everywhere, and for anyone to believe anything upon insufficient evidence’ (Clifford 1877 [1999, 77]. Faith’s venturesomeness may thus seem in tension with its reasonableness, and models of faith differ in the way they negotiate this tension in response to evidentialist challenges. Another way to classify models of faith, then, is in terms of their associated epistemology—and, in particular, whether and according to what norms of ‘evidential support’, they accept that faith’s cognitive component needs to meet a requirement to be grounded on available evidence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把信仰视作知识的模型或许被认为有所欠缺，因为它们不容许信仰自身中有任何行动成分。信仰似乎本质上包含某种在委身与信任中的*主动冒险*，即便“信仰的跳跃”之说未必完全贴切。许多人主张，信仰越出*通常*所知或可正当地持以为真的东西——其意义是：信仰包含着对不能通过我们天赋人类认知官能之正当运用而确立为真的东西的接受。正如康德在《纯粹理性批判》第二版序言中的名言：“我……发现必须否定*知识*，才能给*信仰*留出地盘”（Kant 1787 [1933, 29]）[^kant-1787]。不过，有神论哲学家通常确实捍卫“信仰不违背理性”这一主张。在以认知成分为中心、把信仰对象理解为命题性的信仰模型上，合理的信仰因此似乎受一条一般的*证据主义*原则约束——如休谟所言，“一个明智的人……使他的信念与证据成比例”（Hume 1748 [2007], “Of Miracles”, 80）[^hume-1748]。而 W. K. 克利福德把证据主义抬升为绝对的道德要求，断言“在任何地方、对任何人、基于不充分的证据相信任何事情，都是错的”（Clifford 1877 [1999, 77]）。信仰的冒险性因此似乎与其合理性相抵触，而各信仰模型在回应证据主义挑战时调停这一张力的方式各不相同。于是，为信仰模型分类的另一种方式，是按其配套的认识论——尤其是，它们是否以及依据何种“证据支持”规范，接受信仰的认知成分需要满足“以可得证据为根据”的要求。
+    step2: |-
+      把信仰视作知识的模型或许会被认为有所欠缺：它们不容信仰自身含有行动成分。信仰似乎本质上总包含某种委身与信任中的*主动冒险*——哪怕“信仰的跳跃”一说未必尽然贴切。许多人主张：信仰越出*通常*所知或可正当地持以为真者——意思是，信仰包含着对“无法经我们天赋人类认知官能之正当运用而确立为真”之物的接受。正如康德在《纯粹理性批判》第二版序言中的名言：“我……发现必须否定*知识*，以便为*信仰*留出地盘”（Kant 1787 [1933, 29]）[^kant-1787]。然而，有神论哲学家照例要捍卫“信仰不悖于理性”的主张。凡以认知成分为中心、把信仰对象理解为命题性的模型，合理的信仰便似乎受一条一般*证据主义*原则辖制——休谟之言：“明智人……使其信念与证据成比例”（Hume 1748 [2007], “Of Miracles”, 80）[^hume-1748]。W. K. 克利福德更把证据主义抬升为绝对的道德律令，断言“任何时候、任何地方、任何人，基于不充分的证据相信任何事情，都是错的”（Clifford 1877 [1999, 77]）。于是信仰的冒险性似乎与其合理性相抵牾；各模型在回应证据主义挑战时斡旋这一张力的方式互不相同。如此，为信仰模型分类的另一途径，便是按其配套认识论来分——尤其看它们是否、又依何种“证据支持”规范，承认信仰的认知成分须满足“以可得证据为根据”的要求。
   - id: 24
     kind: body
     source: |-
       The Reformed epistemologist model of faith as ‘basic’ knowledge (outlined in Section 3) generates an epistemology under which, although ordinary cognitive faculties and sources of evidence do not yield firm and certain inferred knowledge of theistic truths, there is (if Christian theism is true) a ‘higher’ cognitive faculty that neatly makes up the deficit. This model seems thus to secure the rationality of faith: if faith consists in beliefs that have the status of knowledge, faith can hardly fail to be rational. And, once the deliverances of the special cognitive faculty are included amongst the believer’s basic experiential evidence, an evidential requirement on reasonable belief seems to be met. (Note that Plantinga originally expressed his defence of ‘properly basic’ theistic belief in terms of the rationality of believing in God ‘without any evidence or argument at all’ (Plantinga 1983, 17)[^plantinga-1983]. He does respect an evidential requirement, however, holding that it may be fully met through what is basically, non-inferentially, evident in the believer’s experience. Hence Plantinga’s insistence that his Reformed epistemology is not fideistic (Plantinga 2000, 263)[^plantinga-2000].)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      改革宗认识论者“基本知识”的信仰模型（第 3 节所述）产生出这样一种认识论：虽然普通认知官能与证据来源不能给出关于有神论真理的坚定而确定的推出知识，但（如果基督教有神论为真）存在一种“更高”认知官能，恰好补足这一缺口。这一模型似乎由此确保了信仰的合理性：如果信仰在于具有知识地位的信念，信仰就很难不理性。而且，一旦特殊认知官能的报告被纳入信仰者的基本经验证据之中，合理信念的证据要求似乎便得到满足。（注意，普兰丁格最初表述他对“恰当基本的”有神论信念的辩护时，用的是“完全没有任何证据或论证”地相信上帝的合理性（Plantinga 1983, 17）[^plantinga-1983]。不过他确实尊重证据要求，主张这一要求可以通过信仰者经验中基本的、非推出地显明的东西得到充分满足。故普兰丁格坚持其改革宗认识论不是信仰主义（Plantinga 2000, 263）[^plantinga-2000]。）
+    step2: |-
+      改革宗认识论者“基本知识”的信仰模型（第 3 节已述）衍生出这样一幅认识论图景：普通认知官能与证据来源固然给不出关于有神论真理的坚定而确定的推出知识，但（若基督教有神论为真）有一道“更高”认知官能恰好补足缺口。这一模型似乎由此确保了信仰的合理性：信仰若在于具有知识地位的信念，便很难不理性。再者，一旦特殊认知官能之所告被纳入信仰者的基本经验证据，合理信念的证据要求便似乎得到满足。（须注意，普兰丁格最初表述其“恰当基本的”有神论信念辩护时，用的是“全然没有任何证据或论证”而相信上帝这一合理性说法（Plantinga 1983, 17）[^plantinga-1983]。不过他的确尊重证据要求，主张它可以通过信仰者经验中基本的、非推出地显明者获得充分满足。故普兰丁格坚称其改革宗认识论并非信仰主义（Plantinga 2000, 263）[^plantinga-2000]。）
   - id: 25
     kind: body
     source: |-
       *Reflective faith and the question of entitlement*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **反思性的信仰与权利问题**
+    step2: |-
+      **反思性的信仰与权利问题**
   - id: 26
     kind: body
     source: |-
       It is not clear, however, whether Reformed epistemology’s model of faith can achieve all that is needed to show that theist faith is reasonable. From the perspective of reflective persons of faith (or would-be faith), the question of *entitlement* arises: are they rationally, epistemically—even, morally—entitled to adopt or continue in their faith? This question will be existentially important, since faith will not be of the kind exemplified by religious faith unless its commitments make a significant difference to how one lives one’s life. Reflective believers, who are aware of the many options for faith and the possibility of misguided and even harmful faith-commitments, will wish to be satisfied that they are *justified* in their faith. The theist traditions hold a deep fear of idolatry—of giving one’s ‘ultimate concern’ (Tillich 1957 [2001])[^tillich-1957] to an object unworthy of it. The desire to be assured of entitlement to faith is thus not merely externally imposed by commitment to philosophical critical values: it is a demand internal to the integrity of theistic faith itself. Arguably, believers must even take seriously the possibility that the God they have been worshipping is not, after all, the true God (Johnston 2009)[^johnston-2009]. But, for this concern to be met, there will need to be conditions sufficient for justified faith that are ‘internalist’—that is, conditions whose obtaining is, at least indirectly if not directly, accessible to believers themselves. And, as already noted, those conditions are widely assumed to include an evidentialist requirement that faith is justified only if the truth of its cognitive content is adequately supported by the available evidence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，尚不清楚改革宗认识论的信仰模型能否达成表明有神论信仰合理所需要的一切。从反思性的信仰者（或准信仰者）的视角看，*权利*（entitlement）问题出现了：他们在理性上、认识上——甚至道德上——是否有权利采纳或继续其信仰？这一问题将在生存上至关重要，因为信仰除非其委身显著影响一个人的生活方式，否则就不是宗教信仰所例示的那类信仰。反思性的信仰者意识到信仰的诸多选项以及误入歧途甚至有害的信仰委身的可能性，会希望确信自己*有正当理由*持有信仰。有神论传统对偶像崇拜——把一个人的“终极关切”（Tillich 1957 [2001]）[^tillich-1957]献给一个不配的对象——怀着深深的恐惧。渴望确证信仰的权利，因此并非仅由哲学批判价值的承诺从外部强加：它是有神论信仰自身完整性内部的一项要求。可以说，信仰者甚至必须认真对待他们所崇拜的上帝毕竟不是真上帝的可能性（Johnston 2009）[^johnston-2009]。但要使这一关切得到满足，就需要有“内在主义”的、足以产生正当信仰的条件——也就是说，其成立即便不直接、至少也间接地为信仰者自身可通达。而且，如前所述，那些条件被广泛假定包含一条证据主义要求：信仰唯有当其认知内容的真理得到可得证据的充分支持时才是正当的。
+    step2: |-
+      然而，改革宗认识论的信仰模型能否达成“表明有神论信仰合理”所需的全部，并不清楚。从反思性的信仰者（或准信仰者）的视角看，*权利*（entitlement）问题浮现出来：他们在理性上、认识上——乃至道德上——是否有权利采纳或继续其信仰？此问在生存上攸关重大：信仰之委身若不能显著影响一个人如何度过其生，它就不是宗教信仰所例示的那种信仰。反思性的信仰者深知信仰选项繁多，也深知误入歧途乃至有害的信仰委身之可能，故会希望确信自己*有正当理由*持守信仰。有神论传统对偶像崇拜深怀戒惧——所谓把一己的“终极关切”（Tillich 1957 [2001]）[^tillich-1957]献给一个不配的对象。于是，渴望确证信仰之权利，并非仅是哲学批判价值的承诺自外部强加的结果：它本就是有神论信仰自身完整性内部的一项要求。甚至可以说，信仰者必须认真对待这一可能：他们所崇拜的上帝毕竟并非真上帝（Johnston 2009）[^johnston-2009]。但要满足这一关切，就需要有“内在主义”的条件、足以成就正当信仰——即其成立即便不直接、至少间接地为信仰者自身可通达。而且如前所述，这些条件被广泛假定包含一条证据主义要求：唯有当其认知内容的真理获得可得证据的充分支持，信仰才是正当的。
   - id: 27
     kind: body
     source: |-
       *The Reformed epistemologist model as leaving the question of entitlement unanswered*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **改革宗认识论者模型对权利问题置而不答**
+    step2: |-
+      **改革宗认识论者模型对权利问题置而不答**
   - id: 28
     kind: body
     source: |-
       It may be argued, however, that, if the Reformed epistemologist’s model is correct, those who seek to meet an evidentialist requirement will be unable to satisfy themselves of their entitlement to their faith. Theistic truths may be directly revealed, and experienced as immediately evident, yet, on reflection, one may doubt whether such experiences are genuinely revelatory since competing ‘naturalist’ interpretations of those experiences seem available. Furthermore, there are rival sources yielding contrary claims that equally claim to be authentically revelatory. It may be true, as Plantinga’s Reformed epistemology maintains, that *if* God exists then certain basic theist beliefs meet externalist criteria for knowledge, even though the truth of the propositions concerned remains open to reflective ‘internalist’ doubt. On an externalist account, that is, one might lack independent evidence sufficient to confirm that one has knowledge that God exists *while in fact possessing that very knowledge*. One may thus refute an objector who claims that without adequate evidence one cannot possess knowledge. But this consideration is still insufficient to secure entitlement to theistic faith—if, as may be argued, that entitlement requires that *one has evidence* adequate to justify commitment to the truth that God exists. For, one has such evidence *only conditionally on God’s existence*—but it is precisely entitlement to believe that God exists that is at issue (Kenny 1992, 71; Bishop and Aijaz 2004)[^bishop-2004][^kenny-1992]. For a wider discussion of the possibility of religious knowledge that, *inter alia*, endorses the present point, see Zagzebski 2010.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，或可论证：如果改革宗认识论者的模型正确，那么那些试图满足证据主义要求的人将无法让自己确信其信仰的权利。有神论真理可以被直接启示、被经验为直接显明，但一经反思，一个人可能怀疑这些经验是否真正是启示性的，因为对这些经验似乎存在可用的竞争性“自然主义”诠释。此外，还有产生相反主张的其他来源，它们同样宣称自己是真正启示性的。正如普兰丁格的改革宗认识论所主张的，*如果*上帝存在，某些基本的有神论信念便满足知识的外在主义判准——即便相关命题的真理仍对反思性的“内在主义”怀疑开放。就是说，在外在主义说明下，一个人可能缺乏足以确认自己拥有“上帝存在”之知的独立证据，*而事实上拥有这一知识*。一个人由此可以驳倒这样的反对者：他主张没有充分证据就不可能拥有知识。但这一考虑仍不足以确保有神论信仰的权利——如果（如可论证的）该权利要求*一个人拥有*足以正当化对“上帝存在”之真的委身的证据。因为，一个人拥有这样的证据只是*以上帝的存在为条件的*——而恰恰是对“上帝存在”的信念之权利是争论所在（Kenny 1992, 71; Bishop and Aijaz 2004）[^bishop-2004][^kenny-1992]。关于宗教知识之可能性——*其中*亦认可当前这一论点——的更宽泛讨论，见 Zagzebski 2010。
+    step2: |-
+      然而，或可论证：倘若改革宗认识论者的模型正确，那些力求满足证据主义要求的人，将无法让自己确信其信仰的权利。有神论真理可以被直接启示、被经验为直接显明；可是一经反思，人便可怀疑这类经验是否真为启示——因为对它们似乎总有可用的竞争性“自然主义”诠释。况且，另有竞争性的来源产出相反主张，同样自称真正启示。正如普兰丁格的改革宗认识论所力主：*如果*上帝存在，某些基本的有神论信念便满足知识的外在主义判准——即便相关命题的真理仍对反思性的“内在主义”怀疑敞开。也就是说，在外在主义说明下，一个人可能缺乏足以确认自己拥有“上帝存在”之知的独立证据，*而事实上正拥有这一知识*。据此，人可以驳倒那位主张“没有充分证据便不可能拥有知识”的反对者。但这一考虑仍不足以确保有神论信仰的权利——倘若（如可论证的）该权利要求*一个人拥有*足以正当化其对“上帝存在”这一真理之委身的证据。因为，这样的人拥有此类证据，只是*有条件地以上帝的存在为前提*——而恰是“相信上帝存在”的权利本身尚在争论之中（Kenny 1992, 71; Bishop and Aijaz 2004）[^bishop-2004][^kenny-1992]。至于宗教知识之可能性的更宽泛讨论——*其中*亦认可本文此点——见 Zagzebski 2010。
   - id: 29
     kind: body
     source: |-
       ## 5. Faith as belief
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 作为信念的信仰
+    step2: |-
+      ## 5. 作为信念的信仰
   - id: 30
     kind: body
     source: |-
       If faith is not ‘firm and certain’ basic knowledge of theistic truths, then a model of faith as having a propositional object may still be retained by identifying faith with *belief* of relevant content—and the question whether a faith-belief may have sufficient justification to count (if true) as (non-basic) knowledge may remain open. To have theist faith might thus be identified with holding a belief with theological content—that God exists, is benevolent towards us, has a plan of salvation, etc.—where this belief is also held with sufficient firmness and conviction. Richard Swinburne labels this the ‘Thomist view’ of faith, and expresses it thus: ‘The person of religious faith is the person who has the theoretical conviction that there is a God’ (Swinburne 2005, 138)[^swinburne-2005]. (Aquinas’s own understanding of faith is more complex than this formulation suggests, however, as will be noted shortly.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果信仰不是对有神论真理“坚定而确定”的基本知识，那么通过把信仰等同于相关内容的*信念*，以命题为对象的信仰模型仍可保留——而一个信仰信念是否可能有充分正当理由算作（非基本的）知识（若为真），这一问题也可以保持开放。拥有有神论信仰因此可以被等同于持有一个有神学内容的信念——上帝存在、仁慈待我们、有一个救赎计划等等——且这一信念也以充分的坚定与信服被持有。理查德·斯温伯恩称之为信仰的“托马斯主义观点”，并如此表述：“宗教信仰者就是持有‘存在一个上帝’这一理论性信念的人”（Swinburne 2005, 138）[^swinburne-2005]。（不过，阿奎那本人对信仰的理解比这一表述所暗示的更为复杂，下文将即予说明。）
+    step2: |-
+      倘若信仰不是对有神论真理“坚定而确定”的基本知识，那么把信仰等同于相关内容的*信念*，以命题为对象的信仰模型仍可保留——而“一桩信仰信念是否可能有充分正当理由、从而（若为真）算作（非基本的）知识”，此问也可以保持开放。于是，拥有有神论信仰便可等同于持有一个有神学内容的信念——上帝存在、对我们仁慈、有一救赎之计等等——且这一信念以充分的坚定与信服被持有。理查德·斯温伯恩称之为信仰的“托马斯主义观点”，并如此表述：“宗教信仰者，就是持有‘存在一个上帝’这一理论性信念的人”（Swinburne 2005, 138）[^swinburne-2005]。（不过，阿奎那本人对信仰的理解，较此一表述所暗示者更为复杂——下文即予说明。）
   - id: 31
     kind: body
     source: |-
       The rationality of faith on this model will rest on the rationality of the firmly held theological beliefs in which it consists. As Swinburne notes, if such beliefs are founded on evidence that renders their truth sufficiently more probable than not, then the beliefs concerned may amount to knowledge on a contemporary ‘justified true belief’ fallibilist epistemology, even though they fall short of knowledge on Aquinas’s own criteria, which require that what is known be ‘seen’ (i.e., fully and directly comprehended) (*Summa Theologiae* 2a2ae 1, 4 & 5 (Aquinas 1265–1273 [2006], 27)). In any case, the reasonableness of faith on this model of faith as (non-basic) theological belief depends on the beliefs concerned being adequately evidentially justified. The claim that this condition is satisfied is defended by John Locke in *The Reasonableness of Christianity* (1695 [1999]), and, in contemporary philosophy, by Richard Swinburne’s Bayesian approach to the epistemology of Christian belief (see, for example, Swinburne 2003)[^swinburne-2003].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一模型上信仰的合理性将取决于构成信仰的那些坚定持有的神学信念的合理性。正如斯温伯恩所指出的，如果这类信念建基于使其真理足够大概率上为真的证据之上，那么相关信念在当代“得到辩护的真信念”可谬论认识论上可以算作知识，即便它们按阿奎那本人的判准——要求所知者被“看见”（即被完全且直接地领会）——仍够不上知识（*Summa Theologiae* 2a2ae 1, 4 & 5 (Aquinas 1265–1273 [2006], 27)）。无论如何，这一作为（非基本的）神学信念的信仰模型的合理性，取决于相关信念得到充分的证据辩护。约翰·洛克在《基督教的合理性》（1695 [1999]）中捍卫“这一条件得到满足”的主张；在当代哲学中，理查德·斯温伯恩以贝叶斯进路处理基督教信念认识论亦为其辩护（见例如 Swinburne 2003）[^swinburne-2003]。
+    step2: |-
+      这一模型下信仰的合理性，系于构成信仰的那些坚定持有的神学信念之合理性。正如斯温伯恩指出的：若这类信念所依托的证据使其真理足够大概率上为真，那么相关信念在当代“得到辩护的真信念”可谬论认识论下便可算作知识——即便按阿奎那本人的判准（要求所知者被“看见”，即被完全而直接地领会）仍够不上知识（*Summa Theologiae* 2a2ae 1, 4 & 5 (Aquinas 1265–1273 [2006], 27)）。无论如何，作为（非基本的）神学信念的信仰模型，其合理性取决于相关信念是否得到充分的证据辩护。“这一条件获得满足”之主张，约翰·洛克在《基督教的合理性》（1695 [1999]）中予以捍卫；当代哲学中，理查德·斯温伯恩以其处理基督教信念认识论的贝叶斯进路亦为其辩护（见例如 Swinburne 2003）[^swinburne-2003]。
   - id: 32
     kind: body
     source: |-
       Some argue, however, that the truth of theism is ‘evidentially ambiguous’—that is, that our total available evidence is equally viably interpreted from both a theist and a naturalist/atheist perspective (Hick 1966 and 1989; Davis 1978; Penelhum 1995; McKim 2001)[^davis-1978][^hick-1966][^hick-1989][^mckim-2001]. This thesis of evidential ambiguity may be supported as the best explanation of the diversity of belief on religious matters, and/or of the persistence of the debate about theism, with philosophers of equal acumen and integrity engaged on either side. Or the ambiguity may be considered systematic—for example, on the grounds that both natural theological and natural atheological arguments fail because they are deeply circular, resting on implicit assumptions acceptable only to those already thinking within the relevant perspective. (In relation to Swinburne’s Bayesian natural theology, in particular, this objection surfaces in criticism of assumptions about how to set the prior probabilities implicated in calculations of, for example, theism’s probability on the evidence of the ‘fine-tuning’ of the Universe’s basic physical constants, or of the probability, on all our evidence, of the truth of the Resurrection.) If the ambiguity thesis is correct, then—assuming evidentialism—firmly held theistic belief will fail to be reasonable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，有人论证有神论的真理是“证据上模糊的”——就是说，我们全部可得证据既可以从有神论视角、也可以从自然主义/无神论视角得到同样可行的诠释（Hick 1966 and 1989; Davis 1978; Penelhum 1995; McKim 2001）[^davis-1978][^hick-1966][^hick-1989][^mckim-2001]。这一证据模糊论题可以获得支持：作为宗教事务上信念多样性的最佳解释，和/或关于有神论的辩论之所以绵延不绝——双方都有同样敏锐而正直的哲学家参战——的最佳解释。或者，这种模糊可被视为系统性的——例如，以自然神学与自然无神论论证双双失败为据，理由是它们都深陷循环，所依赖的隐含假定只有已在相应视角内思考的人才可接受。（就斯温伯恩的贝叶斯自然神学而言，这一反对意见尤其表现为对其关于如何设定先验概率的假定的批评——例如在“宇宙基本物理常数的精细调校”证据上计算有神论概率、或按我们全部证据计算复活之真的概率时所涉的先验概率。）如果模糊论题正确，那么——假定证据主义——坚定持有的有神论信念将失去合理性。
+    step2: |-
+      然而，有人主张有神论真理“证据上含糊”——即我们的全部可得证据，既可从有神论视角、也可从自然主义/无神论视角得到同样可行的诠释（Hick 1966 and 1989; Davis 1978; Penelhum 1995; McKim 2001）[^davis-1978][^hick-1966][^hick-1989][^mckim-2001]。这一证据模糊论题可以得到支持：或者作为宗教事务上信念多样性的最佳解释，和/或作为有神论之争绵延不绝——双方均有同样敏锐而正直的哲学家参战——的最佳解释。或者，这种含糊可被视为系统性的——例如以自然神学与自然无神论论证双双失败为据：它们深陷循环，所倚的隐含假定唯已在相应视角内运思者方可接受。（就斯温伯恩的贝叶斯自然神学而言，此一反对尤其表现为批评其设定先验概率的假定——例如据“宇宙基本物理常数的精细调校”之证据计算有神论的概率、或据我们全部证据计算复活为真之概率时所涉的先验概率。）倘若模糊论题正确，那么——在证据主义假定下——坚定持有的有神论信念将失去合理性。
   - id: 33
     kind: body
     source: |-
       On this model of faith as non-basic belief, all that characterizes faith apart from its theological content is the firmness or conviction with which faith-propositions are held true. Firm belief in the truth of a scientific theoretical proposition, for example, fails to count as faith *only* through lacking the right kind of content. This model therefore shares with the Reformed epistemologist model in taking its theological content as essential to what makes theistic faith *faith*, and so rejects the suggestion that faith of the same sort as found in the theist religious traditions might also be found elsewhere.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这一把信仰视为非基本信念的模型上，除神学内容外，刻画信仰的只是信仰命题被持以为真的坚定或信服。例如，对一个科学理论命题之真的坚定信念，之所以不算信仰，*仅仅*因为缺乏合适的内容。因此这一模型与改革宗认识论者模型一样，把神学内容当作有神论信仰之所以为*信仰*的本质，从而拒绝“在有神论宗教传统中发现的那类信仰或许也见于别处”的建议。
+    step2: |-
+      在这一把信仰视为非基本信念的模型上，除神学内容外，刻画信仰的唯是信仰命题被持以为真时的坚定与信服。譬如，对一个科学理论命题之真的坚定信念，之所以不算信仰，*仅仅*在于缺乏合适的内容。故这一模型与改革宗认识论者模型一样，以神学内容为有神论信仰之所以为*信仰*的本质，从而拒斥“有神论宗教传统中那类信仰或许亦见于别处”的说法。
   - id: 34
     kind: body
     source: |-
       Furthermore, in taking faith to consist in non-basic belief that theological propositions are true, this model invites the assumption that theological convictions belong in the same category of factual claims as scientific theoretical hypotheses with which they accordingly compete. That assumption will lead those who think that theological claims are *not* reasonably accepted on the evidence to regard faith as worthless and intellectually dishonourable—at best, ‘a degenerating research programme’ (Lakatos 1970)[^lakatos-1970]. (On this negative assessment of faith’s evidential support, persons of faith come perilously close to the schoolboy’s definition mentioned by William James: ‘Faith is when you believe something that you know ain’t true’ (James 1896 [1956, 29])[^james-1896]. Or, if persons who have theistic faith readily abandon theological explanations whenever competing scientific ones succeed, their God gets reduced to ‘the God of the gaps’.) These misgivings about the model of faith as firmly held factual theological belief dissolve, of course, if success attends the project of showing that particular theological claims count as factual hypotheses well supported by the total available evidence. Those who doubt that this condition is or can be met may, however, look towards a model of faith that understands faith’s cognitive content as playing some other role than that of an explanatory hypothesis of the same kind as a scientific explanatory hypothesis.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，把信仰当作对神学命题为真的非基本信念，这一模型引人假定：神学信念与科学理论假说同属事实主张一类，并因此与之竞争。这一假定将使那些认为神学主张*不*能合理地依证据接受的人把信仰看作毫无价值且在理智上可耻——往好里说，“一个退化的研究纲领”（Lakatos 1970）[^lakatos-1970]。（在对信仰的证据支持的这一否定性评估下，有信仰的人危险地接近威廉·詹姆斯提到的一个小学生的定义：“信仰就是相信某种你知道并不为真的东西”（James 1896 [1956, 29]）[^james-1896]。或者，如果怀有有神论信仰的人在竞争性科学解释成功时随时放弃神学解释，他们的上帝就被还原为“缝隙中的上帝”。）当然，如果“特定神学主张算作得到全部可得证据良好支持的事实假说”这一事业获得成功，这些对坚定持有的事实性神学信念模型的疑虑便告消解。然而，怀疑这一条件能够满足的人可以转向另一种信仰模型——把信仰的认知内容理解为扮演某种别的角色，而非充当与科学解释假说同类的一个解释假说。
+    step2: |-
+      此外，把信仰当作“神学命题为真”的非基本信念，这一模型引人假定：神学信念与科学理论假说同属事实主张一类，并因此与之竞争。此假定将令那些认为神学主张*不*能合理地依证据接受的人，把信仰视作毫无价值且在理智上可耻——往好里说，也不过是“一个退化的研究纲领”（Lakatos 1970）[^lakatos-1970]。（依这一对信仰之证据支持的否定性评估，有信仰者便危险地逼近威廉·詹姆斯提到的那则小学生定义：“信仰，就是相信某种你明知不真的东西”（James 1896 [1956, 29]）[^james-1896]。或者，倘若怀有有神论信仰者一遇竞争性科学解释成功便随时弃置神学解释，他们的上帝便被还原为“缝隙中的上帝”。）当然，倘若“把特定神学主张确证为得到全部可得证据良好支持的事实假说”这一事业取得成功，上述疑虑便随之消解。而怀疑此条件能够满足者，则可转向另一种信仰模型——把信仰的认知内容理解为扮演别样的角色，而非充当与科学解释假说同类的一个解释假说。
   - id: 35
     kind: body
     source: |-
       *Aquinas’s account of faith*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **阿奎那的信仰说明**
+    step2: |-
+      **阿奎那的信仰说明**
   - id: 36
     kind: body
     source: |-
       Though firmly held theological belief is central to it, Aquinas’s understanding of faith is more complicated and nuanced than the view that faith is ‘the theoretical conviction that God exists’. Aquinas holds that faith is ‘midway between knowledge and opinion’ (*Summa Theologiae* 2a2ae 1, 2 (Aquinas [2006], 11)). Faith resembles knowledge, Aquinas thinks, in so far as faith carries conviction. But that conviction is not well described as ‘theoretical’, if that description suggests that faith has a *solely* propositional object. For Aquinas, faith denotes the believer’s fundamental orientation towards the divine. So ‘from the perspective of the reality believed in’, Aquinas says, ‘the object of faith *is something non-composite*’ (hence, definitely not propositional)—namely God himself. Nevertheless, grasping the truth of propositions *is* essential to faith, because ‘*from the perspective of the one believing* … the object of faith is something composite in the form of a proposition’ (*Summa Theologiae*, 2a2ae, 1, 2 (Aquinas [2006], 11 & 13), our emphases).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管坚定持有的神学信念在其中居于中心，阿奎那对信仰的理解比“信仰是‘上帝存在的理论性信念’”这一观点更复杂、更微妙。阿奎那主张信仰“位于知识与意见之间”（*Summa Theologiae* 2a2ae 1, 2 (Aquinas [2006], 11)）。阿奎那认为，信仰之类似知识，在于信仰携有信服。但如果“理论性的”这一描述暗示信仰有*纯然*命题性的对象，那么这种信服就不宜如此描述。对阿奎那而言，信仰表示信仰者对神圣者的根本取向。所以“从所信实在的视角看”，阿奎那说，“信仰的对象*是非复合的东西*”（因此绝不是命题性的）——即上帝自身。尽管如此，把握命题之真*对*信仰而言仍是本质的，因为“*从信仰者的视角看*……信仰的对象是以命题形式出现的复合物”（*Summa Theologiae*, 2a2ae, 1, 2 (Aquinas [2006], 11 & 13)，着重号为本文作者所加）。
+    step2: |-
+      坚定持有的神学信念固然居于其中心，但阿奎那对信仰的理解，比“信仰即‘上帝存在的理论性信念’”这一观点更复杂、更精微。阿奎那主张，信仰“位于知识与意见之间”（*Summa Theologiae* 2a2ae 1, 2 (Aquinas [2006], 11)）。在他看来，信仰之所以类似知识，在于信仰携有信服。可若“理论性的”这一描述暗示信仰有*纯然*命题性的对象，那么这份信服便不宜如此刻画。对阿奎那而言，信仰标示着信仰者对神圣者的根本取向。所以“从所信实在的视角看”，阿奎那说，“信仰的对象*是非复合的东西*”（故绝非命题性的）——即上帝自身。尽管如此，把握命题之真对信仰*依然*是本质的，因为“*从信仰者的视角看*……信仰的对象是以命题为形的复合物”（*Summa Theologiae*, 2a2ae, 1, 2 (Aquinas [2006], 11 & 13)，着重号为本文作者所加）。
   - id: 37
     kind: body
     source: |-
       A further problem with describing as Thomist a model of faith simply as firm belief that certain theological propositions are true is that Aquinas takes as central an *act* of ‘inner assent’ (*Summa Theologiae*, 2a2ae, 2, 1 (Aquinas [2006], 59–65)). This is problematic because, (i) in its dominant contemporary technical usage belief is taken to be a mental (intentional) *state*—a propositional attitude, namely, the attitude towards the relevant proposition that it is true; (ii) belief in this contemporary sense is widely agreed not to be under volitional control—not directly, anyway; yet (iii) Aquinas holds that the assent given in faith is under the control of the will. Aquinas need not, however, be construed as accepting ‘believing at will’, since assent may be construed as an act that has to be elicited yet terminates a process that is subject to the will—a process of inquiry, deliberation or pondering that involves mental actions, or, in the case of theist faith, a process of divine grace that can proceed only if it is not blocked by the will.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把“信仰不过是对某些神学命题为真的坚定信念”这一模型称作托马斯主义的另一问题在于：阿奎那把“内在信从”的*行动*当作中心（*Summa Theologiae*, 2a2ae, 2, 1 (Aquinas [2006], 59–65)）。这之所以成问题，是因为（i）在当代主导的技术用法中，信念被视为一种心理（意向性）*状态*——即命题态度，亦即对相关命题“其为真”的态度；（ii）这一当代意义上的信念被广泛认为不处于意志控制之下——至少不直接处于；然而（iii）阿奎那主张信仰中的信从处于意志的控制之下。不过，不必因此把阿奎那理解为接受“随意相信”：信从可以被理解为一种必须被引发、却终结一个受意志支配之过程的行动——一个涉及心理行动的探究、思虑或考量过程，或者，就有神论信仰而言，一个唯有不被意志阻挡方可推进的神圣恩典过程。
+    step2: |-
+      把“信仰不过是对某些神学命题为真的坚定信念”这一模型称作托马斯主义，另有一层问题：阿奎那把“内在信从”的*行动*奉为中心（*Summa Theologiae*, 2a2ae, 2, 1 (Aquinas [2006], 59–65)）。其所以成问题，是因为（i）在当代主导的技术用法里，信念被当作心理（意向性）*状态*——即命题态度，亦即对相关命题所持“其为真”的态度；（ii）这一当代意义上的信念被广泛认为不受意志支配——至少不受直接支配；然而（iii）阿奎那主张信仰中的信从受意志控制。不过，不必因此把阿奎那读作接受“随意相信”：信从可以理解为一种必须被引发、却为一个受意志支配的过程收尾的行动——那过程是涉及心理行动的探究、思虑或考量；就有神论信仰而言，则是唯有不受意志阻挡方能推进的神圣恩典过程。
   - id: 38
     kind: body
     source: |-
       Most importantly, however, Aquinas says that assent is given to the propositional articles of faith *because their truth is revealed by God*, and on the authority of the putative source of this revelation. Terence Penelhum puts it like this: ‘Thomas tells us that although what one assents to in faith includes many items not ostensibly about God himself, one assents to them, in faith, because they are revealed by God … It is because they come from him and because they lead to him that the will disposes the intellect to accept them’ (Penelhum 1989, 122: see *Summa Theologiae*, 2a2ae, 1, 1 & 2 (Aquinas [2006], 5–15)). So, Aquinas’s model of faith is of believing (assenting to) propositional truth-claims *on the basis of testimony carrying divine authority*. John Locke follows the same model: ‘Faith … is the assent to any proposition … upon the credit of the proposer, as coming from God, in some extraordinary way of communication’ (Locke 1698 [1924, 355]; compare also Alston 1996, 15)[^alston-1996][^locke-1698].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，最重要的是，阿奎那说，信从被给予信仰的命题条款，是*因为它们的真理由上帝启示*，并且凭这一推定启示之源的权威。特伦斯·佩内勒姆如此表述：“托马斯告诉我们，虽然一个人在信仰中信从的内容包含许多表面上看与上帝自身无关的条目，但他信从它们，凭的是信仰，因为它们是上帝启示的……正因为它们来自他并通向他，意志才安排理智接受它们”（Penelhum 1989, 122: see *Summa Theologiae*, 2a2ae, 1, 1 & 2 (Aquinas [2006], 5–15)）。因此，阿奎那的信仰模型是*凭承载神圣权威的证词*而相信（信从）命题性的真理主张。约翰·洛克沿用同一模型：“信仰……是对任何命题的信从……凭提议者的信用，即它以某种非凡的传达方式来自上帝”（Locke 1698 [1924, 355]；另比较 Alston 1996, 15）[^alston-1996][^locke-1698]。
+    step2: |-
+      然而最紧要的是：阿奎那说，信从之所以被给予信仰的命题条款，*是因为其真理由上帝启示*，且凭这推定启示之源的权威。特伦斯·佩内勒姆如此表述：“托马斯告诉我们：一个人在信仰中信从的内容，虽含许多表面上与上帝自身无干的条目，但他信从它们，凭的是信仰，因为它们由上帝启示……正因它们来自他、通向他，意志才安排理智予以接受”（Penelhum 1989, 122: see *Summa Theologiae*, 2a2ae, 1, 1 & 2 (Aquinas [2006], 5–15)）。故阿奎那的信仰模型是*凭承载神圣权威的证词*而相信（信从）命题性的真理主张。约翰·洛克沿用同一模型：“信仰……是对任一命题的信从……凭提议者的信用——它以某种非凡的传达方式来自上帝”（Locke 1698 [1924, 355]；另比较 Alston 1996, 15）[^alston-1996][^locke-1698]。
   - id: 39
     kind: body
     source: |-
       *The unanswered question of entitlement—again*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **悬而未决的权利问题——再现**
+    step2: |-
+      **悬而未决的权利问题——再现**
   - id: 40
     kind: body
     source: |-
       Theist faith as assent to truths on the basis of an authoritative source of divine revelation is possible, though, only for those *who already believe* that God exists and is revealed through the relevant sources. Might such faith, then, have to rest on a *prior* faith—faith that God exists and that *this* is God’s messenger or vehicle of communication? Those foundational claims, it might be maintained, are held true on the grounds of adequately supporting evidence, such as putatively provided by arguments of natural theology and the claimed evidence for miraculous endorsement of a prophet’s authority. Theist faith might then have a purely rational foundation. But this could hardly be so for *every* person of faith, since not everyone who believes will have access to the relevant evidence or be able to assess it properly. Besides, and more importantly, although Aquinas allows that rational assessment of the available evidence may lead a person to faith, he does not think that such an assessment could ever elicit assent itself—only demonstration could achieve that and so high a level of proof is not here available (see Aquinas [2006], footnote 2b, 58–9). Aquinas’s view is thus that *all* believers stand in need of God’s grace: ‘the assent of faith, which is its principal act … has as its cause God, moving us inwardly through grace’ (*Summa Theologiae*, 2a2ae 6, 1 (Aquinas [2006], 167)). It follows, then, that, on Aquinas’s view, believing that God exists and is revealed in specific ways is *itself* a matter of faith, and not a purely rationally evidentially secured prolegomenon to it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把有神论信仰作为凭权威的神圣启示之源而信从真理，只对那些*已经相信*上帝存在并通过相关来源得到启示的人才可能。那么，这样的信仰是否必须依托一种*先行的*信仰——相信上帝存在，并且相信*这*就是上帝的信使或传达工具？或可主张，这些奠基性主张是依充分支持证据被持以为真的，例如自然神学论证所推定提供的证据，以及对先知权威之神奇背书所主张的证据。有神论信仰便可能有纯然理性的基础。但这不可能对*每一个*有信仰的人都如此，因为并非每个相信者都能获致相关证据或恰当评估它。此外，更重要的是：尽管阿奎那容许对可得证据的理性评估可以把人引向信仰，他却不认为这样的评估能够引发信从本身——唯有证明才能做到这一点，而这里并无如此高水平的证明可得（见 Aquinas [2006], footnote 2b, 58–9）。阿奎那的观点因此是：*所有*相信者都需要上帝的恩典：“信仰的信从，即信仰的主要行动……以上帝为原因，他通过恩典从内部推动我们”（*Summa Theologiae*, 2a2ae 6, 1 (Aquinas [2006], 167)）。由此可得：按阿奎那的观点，相信上帝存在并以特定方式得到启示，*本身*就是信仰之事，而非其纯然理性的、证据上得到保障的前导。
+    step2: |-
+      有神论信仰——凭权威的神圣启示之源而信从真理——只对那些*已经相信*上帝存在、并相信上帝经由相关来源得到启示的人才可能。那么，这样的信仰是否必须依托一种*先行的*信仰——相信上帝存在，并且相信*这*位便是上帝的信使或传达之器？或可主张：这些奠基性主张是依充分支持证据被持以为真的——例如自然神学论证所推定提供者，以及为先知权威之神奇背书所主张者。如此则有神论信仰可以有纯然理性的基础。但这不可能对*每一个*有信仰者都成立：并非每位相信者都能获致相关证据，或能恰当评估它。况且更要紧的是：阿奎那虽容许对可得证据的理性评估把人引向信仰，却不认为这评估能引发信从本身——唯有证明方可致此，而此处并无这般高水平的证明可得（见 Aquinas [2006], footnote 2b, 58–9）。阿奎那的观点因此是：*所有*相信者都需要上帝的恩典——“信仰的信从，即信仰的主要行动……以上帝为原因：他经由恩典从内部推动我们”（*Summa Theologiae*, 2a2ae 6, 1 (Aquinas [2006], 167)）。由此可知：按阿奎那之见，相信上帝存在且以特定方式得到启示，*本身*就是信仰之事，而非纯然理性的、证据上获得保障的前导。
   - id: 41
     kind: body
     source: |-
       Aquinas’s model of faith thus shares with the Reformed epistemologist model the problem that it leaves unanswered the reflective believer’s concern about entitlement. Attempting to settle that concern by meeting the evidential requirement leads to circularity: theological truths are to be accepted on divine authority, yet the truth that *there is* *such an authority* (historically mediated as the relevant tradition maintains) is amongst those very truths that are to be accepted on divine authority—indeed, it is the crucial one. As Descartes puts it in the Dedication to his *Meditations*, ‘It is of course quite true that we must believe in the existence of God because it is a doctrine of Holy Scripture, and conversely, that we must believe Holy Scripture because it comes from God. … But this argument cannot be put to unbelievers because they would judge it to be circular’ (Descartes 1641 [Cottingham et al. 1984, 3])[^descartes-1641]. Thus, although they differ on the question whether the firm beliefs of faith count as knowledge, both Aquinas and Calvin understand faith as essentially involving accepting the truth of propositions as revealed through willingly receiving God’s gracious gift of that very revelation. The question remains how accepting this gift could be epistemically rational. The externalist account of how Christian beliefs may have epistemic worth proposed in Plantinga’s model of faith (named ‘the A/C’ model because its sources are supposedly found in Aquinas as well as Calvin) offers some help with the required explanation, but (as noted in the final paragraph of Section 4 above) may arguably not by itself be sufficient.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，阿奎那的信仰模型与改革宗认识论者模型共有这样一个问题：它未回答反思性信仰者对权利的关切。试图通过满足证据要求来解决这一关切会导致循环：神学真理要凭神圣权威接受，然而“存在这样一个权威”之真（如相关传统所持，经由历史中介）恰恰属于要凭神圣权威接受的那些真理——事实上它正是其中关键的一条。正如笛卡尔在《沉思集》献词中所说：“我们必须相信上帝存在，因为这是圣经的教义；反过来，我们必须相信圣经，因为它来自上帝——这当然完全正确。……但这一论证不能向不信者提出，因为他们会判定它是循环的”（Descartes 1641 [Cottingham et al. 1984, 3]）[^descartes-1641]。因此，尽管在信仰的坚定信念是否算作知识这一问题上有分歧，阿奎那与加尔文都把信仰理解为本质上包含：经由甘愿领受上帝对那一启示本身的恩赐，而接受以启示方式显明的命题之真。问题依然是：接受这一恩赐如何在认识上可以是理性的。普兰丁格信仰模型（名为“A/C 模型”，因为其来源据称既见于阿奎那也见于加尔文）所提出的、关于基督教信念如何可能有认识价值的说明，为所需的解释提供了一些帮助，但（如上文第 4 节末段所述）或可论证它自身并不充分。
+    step2: |-
+      于是，阿奎那的信仰模型与改革宗认识论者模型同有一病：对反思性信仰者的权利关切置而不答。想靠满足证据要求来解此关切，便落入循环：神学真理要凭神圣权威接受；然而“确有这样一个权威”之真（如相关传统所主张，经历史中介）恰属于那批要凭神圣权威接受的真理——而且正是其中关键的一条。正如笛卡尔在《沉思集》献词中所言：“我们必须相信上帝存在，因为这是圣经的教义；反过来，我们必须相信圣经，因为它来自上帝——这固然全对。……但这一论证不能提给不信者，因为他们会判定它是循环的”（Descartes 1641 [Cottingham et al. 1984, 3]）[^descartes-1641]。故此，尽管在“信仰的坚定信念是否算知识”上二者有分歧，阿奎那与加尔文都把信仰理解为本质上包含：经由甘愿领受上帝对那一启示本身的恩赐而接受以启示显明的命题之真。问题依旧：接受这一恩赐，如何在认识上算得理性。普兰丁格的信仰模型（得名“A/C 模型”，因为其源头据称既见于阿奎那亦见于加尔文）对基督教信念如何可能有认识价值给出说明，为所需的解释提供了若干帮助；但（如上文第 4 节末段所述）或可论证，它自身并不充分。
   - id: 42
     kind: body
     source: |-
       *Revelation—and its philosophical critique*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **启示——及其哲学批评**
+    step2: |-
+      **启示——及其哲学批评**
   - id: 43
     kind: body
     source: |-
       The reasonableness of belief that God exists is a focal issue in the Philosophy of Religion. Theist traditions typically, or some would say essentially, make a foundational claim about an authoritative source, or sources, of revealed truth. What is salient includes belief or some related sort of affirmation, not just that God exists but associated content such as that *this* God exists, the God who is revealed thus and so (in great historical acts, in prophets, in scriptures, in wisdom handed down, etc.). The reasonableness of theism is therefore as much a matter of the reasonableness of an epistemology of revelation as it is of a metaphysics of perfect being. The question of how God may be expected to make himself known has gained prominence through recent discussion of the argument for atheism from ‘divine hiddenness’ (Schellenberg 1993; Howard-Snyder and Moser 2002)[^howard-snyder-2002][^schellenberg-1993]. That argument holds that a loving God would make his existence clear to the non-resistant—but this claim is open to question. Perhaps God provides only ‘secret’ evidence of his existence, purposely overturning the expectations of our ‘cognitive idolatry’ in order to transform our egocentric self-reliance (Moser 2008)[^moser-2008]; besides, there may be significant constraints logically inherent in the very possibility of unambiguous divine revelation to finite minds (King 2008)[^king-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相信上帝存在的合理性是宗教哲学的一个焦点议题。有神论传统通常——或如有些人会说，本质地——对启示真理的一个或多个权威之源作出奠基性主张。显著的内容包括这样一种信念或某种相关的肯定：不仅上帝存在，而且有与之相联的内容，如*这位*上帝存在——那在如此这般之处（重大历史行动中、先知中、圣经中、所传智慧中等等）得到启示的上帝。因此，有神论的合理性，既是关于圆满存在者的形而上学问题，也是启示认识论的合理性问题。上帝可望如何使人认识他自己，这一问题经由近来关于“神圣隐匿”无神论论证的讨论而获得突出地位（Schellenberg 1993; Howard-Snyder and Moser 2002）[^howard-snyder-2002][^schellenberg-1993]。该论证主张，一个有爱的上帝会向不抗拒者显明其存在——但这一主张可以质疑。也许上帝只提供其存在的“隐秘”证据，蓄意推翻我们“认知上的偶像崇拜”的预期，以转化我们自我中心的自我倚赖（Moser 2008）[^moser-2008]；况且，对有限心灵而言，无歧义的神圣启示这一可能性本身在逻辑上可能固有重大约束（King 2008）[^king-2008]。
+    step2: |-
+      相信上帝存在的合理性，是宗教哲学的焦点议题之一。有神论传统通常——或如有些人所言，本质上——要对启示真理的一个或多个权威之源作出奠基性主张。其显著内容含这样一种信念或相关肯定：不仅“上帝存在”，且有与之相连的内容，如*这位*上帝存在——那在如此这般之处（重大历史行动中、先知中、圣经中、所传的智慧中等等）启示自己的上帝。因此，有神论的合理性，既系于圆满存在者的形而上学，也系于启示认识论的合理性。“上帝可望如何使人认识他自己”这一问题，因近来围绕“神圣隐匿”无神论论证的讨论而备受瞩目（Schellenberg 1993; Howard-Snyder and Moser 2002）[^howard-snyder-2002][^schellenberg-1993]。该论证主张：有爱的上帝必向不抗拒者显明其存在——但此说可质疑。也许上帝只提供其存在的“隐秘”证据，蓄意推翻我们“认知偶像崇拜”的预期，为的是转化我们自我中心的自我倚恃（Moser 2008）[^moser-2008]；况且，就有限心灵而言，“无歧义的神圣启示”这一可能性本身或许在逻辑上固有重大约束（King 2008）[^king-2008]。
   - id: 44
     kind: body
     source: |-
       Similarly, accounts of theistic faith will be open to critique when they make assumptions about the mechanisms of revelation. In particular, the model of faith as assent to propositions as revealed holds that, since God’s grace is required for that assent, when grace is effective the whole ‘package deal’ of propositional revealed truth is accepted. This yields the notion of ‘*the* Faith’, as the body of theological truths to be accepted by ‘the faithful’, and it becomes a sign of resistance to divine grace to ‘pick and choose’ only some truths, as *heretics* do (Greek: *hairesis*, choice; see *Summa Theologiae* 2a2ae 5, 3 (Aquinas [2006], 157–61)). For heresy to be judged, however, some human authority must assume it possesses the full doctrinal revelation, with God’s grace operating without resistance in its own case. Whether that assumption can ever be sufficiently well founded to justify condemning and purging others is an important question, whose neglect may be seriously harmful, as we are reminded by the fact that the phrase for ‘act of faith’ in Portuguese—*auto-da-fé*—came to mean the public burning of a heretic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样，当关于有神论信仰的说明对启示机制作出假定，它们也会面临批评。特别是，把信仰作为信从被启示命题的模型主张：既然那一信从需要上帝的恩典，当恩典生效时，命题性启示真理的整个“一揽子交易”便被接受。由此产生“*那*信仰”（the Faith）的观念——即要由“信众”接受的、作为神学真理总体的信仰；而如*异端*那样只“挑挑拣拣”若干真理，便成为抗拒神圣恩典的标志（希腊语：*hairesis*，选择；见 *Summa Theologiae* 2a2ae 5, 3 (Aquinas [2006], 157–61)）。然而，要判定异端，某个人类权威必须假定自己拥有完整的教义启示，且上帝的恩典在其自身情形中毫无抗拒地运作。这一假定能否充分良好地奠基、从而正当化对他人定罪与清洗，是一个重要问题；对它的忽视可能造成严重伤害——葡萄牙语中“信仰行动”（*auto-da-fé*）一语后来意指公开焚烧异端，这提醒着我们。
+    step2: |-
+      同理，关于有神论信仰的诸说明一旦对启示机制作出假定，也会招致批评。尤其是，“信仰即信从被启示命题”的模型主张：那一信从既需上帝的恩典，则恩典生效之时，命题性启示真理的整个“一揽子交易”便被一并接受。由此生出“*那*信仰”（the Faith）的观念——作为须由“信众”接受的神学真理总体；而如*异端*那样只“挑挑拣拣”若干真理，便成了抗拒神圣恩典的标记（希腊语：*hairesis*，选择；见 *Summa Theologiae* 2a2ae 5, 3 (Aquinas [2006], 157–61)）。然而要判定异端，须有某个人类权威假定自己握有完整的教义启示，且上帝的恩典在其自身情形中运作无阻。这一假定能否充分良好地奠基、从而正当化对他人定罪与清洗，是个重大问题；对它的忽视可能为害甚烈——葡萄牙语“信仰行动”（*auto-da-fé*）一语后来竟意指公开焚烧异端，即是一记提醒。
   - id: 45
     kind: body
     source: |-
       But the deeper assumption made by this model of faith as non-basic (justified) belief (as, too, by the model of it as basic knowledge yielded by the proper functioning of a special cognitive faculty) is that God’s self-revelation is primarily the revelation of the truth of propositions articulated in human language (compare Swinburne 1992)[^swinburne-1992]. Alternative understandings of revelation are available, however. In particular, it may be held that it is primarily *the divine itself* that is revealed—the reality, not merely a representation of it. (See Lebens 2023 for discussion of faith as knowledge by acquaintance with God from a Jewish perspective)[^lebens-2023]. Propositional articulations of what is revealed may still be essential, but they need to be accepted as at a remove from the object of revelation itself, and therefore as limited. The development of propositional articulations expressing the nature and will of the self-revealing God—the doctrines of ‘the Faith’—will, of course, be understood as a process under providential grace. It is often assumed that that process can achieve ‘closure’ in a completed set of infallibly known creedal propositions. But this assumption about how divine inspiration operates may be contested, both on the theological grounds that it reflects the all-too-human desire to gain control over God’s self-revelation (to ‘pin God down once and for all’), and on the wider epistemological grounds that any attempt to grasp independent reality in human language will be in principle limited and fallible, subject to revision in the light of future experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但是，这一把信仰作为非基本（得到辩护的）信念的模型（把信仰作为特殊认知官能正当运作所产生之基本知识的模型亦然）所做的更深层假定是：上帝的自我启示主要是对以人类语言表述的命题之真的启示（比较 Swinburne 1992）[^swinburne-1992]。然而，对启示的另类理解是可得的。特别是，或可主张被启示的主要是*神圣者自身*——那实在，而不仅是它的表征。（关于从犹太视角把信仰视为对上帝亲知之知的讨论，见 Lebens 2023）[^lebens-2023]。命题性的表述对所启示者而言仍可以是本质的，但它们需要被接受为与启示对象本身有距离，因而是有限的。表达自我启示的上帝之本性与其旨意的命题性表述——“那信仰”的诸教义——当然会被理解为在护佑恩典之下的过程。人们常假定这一过程可以达到“封闭”，完成一套无误认识的信条命题集合。但关于神圣默示如何运作的这一假定可以受到质疑：既可基于神学理由——它反映了太具人性的、想掌控上帝自我启示的欲望（“一劳永逸地把上帝钉住”），也可基于更宽的认识论理由：任何以人类语言把握独立实在的尝试都将在原则上有限且可谬，须依未来经验加以修订。
+    step2: |-
+      可是，这一把信仰视为非基本（得到辩护的）信念的模型（把信仰视为特殊认知官能正当运作所产基本知识的模型亦然）做了更深一层的假定：上帝的自我启示，首要地是对以人类语言表述的命题之真的启示（比较 Swinburne 1992）[^swinburne-1992]。然而对启示另有一类理解可取：尤其，或可主张被启示的首要乃*神圣者自身*——那实在，而不止是它的表征。（从犹太视角把信仰视为对上帝亲知之知的讨论，见 Lebens 2023）[^lebens-2023]。命题性的表述对所启示者而言仍可以是本质的，但它们须被接受为与启示对象本身隔着一段距离，因而是有限的。表达自我启示之上帝的本性与旨意的命题性表述——“那信仰”的诸教义——当然会被理解为护佑恩典之下的过程。人们常假定这一过程可达“封闭”，收束为一套无误认识的信条命题集合。但关于神圣默示如何运作的这一假定可受质疑：一则基于神学理由——它反映着太具人性的、欲掌控上帝自我启示的欲望（“一劳永逸地把上帝钉死”）；二则基于更宽的认识论理由——任何以人类语言把握独立实在的尝试，原则上皆有限而可谬，须依未来经验修订。
   - id: 46
     kind: body
     source: |-
