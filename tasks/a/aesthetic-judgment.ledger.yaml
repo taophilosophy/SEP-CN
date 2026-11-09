@@ -11,482 +11,642 @@ segments:
     kind: body
     source: |-
       Beauty is an important part of our lives. Ugliness too. It is no surprise then that philosophers since antiquity have been interested in our experiences of and judgments about beauty and ugliness. They have tried to understand the nature of these experiences and judgments, and they have also wanted to know whether these experiences and judgments were legitimate. Both these projects took a sharpened form in the twentieth century, when this part of our lives came under a sustained attack in both European and North American intellectual circles. Much of the discourse about beauty since the eighteenth century had deployed a notion of the “aesthetic”, and so that notion in particular came in for criticism. This disdain for the aesthetic may have roots in a broader cultural Puritanism, which fears the connection between the aesthetic and pleasure. At one time, from the 1960s to the 1990s, even to suggest that an artwork might be good because it is pleasurable, as opposed to cognitively, morally or politically beneficial, was to court derision. (This is less true now.) The twentieth century was not kind to the notions of beauty or the aesthetic. Nevertheless, there were always some thinkers—philosophers, as well as others in the study of particular arts—who persisted in thinking seriously about beauty and the aesthetic. In the first part of this essay, we will look at the particularly rich account of judgments of beauty given to us by Immanuel Kant. The notion of a “judgment of taste” is central to Kant’s account and also to virtually everyone working in traditional aesthetics; so we begin by examining Kant’s characterization of the judgment of taste. In the second part, we look at the issues that twentieth century thinkers raised. In the third part, we consider disinterestedness, which is taken by Kant to be part of the judgment of taste. We end, in the fourth part, by drawing on Kant’s account of the judgment of taste to consider whether the notion of the aesthetic is viable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      美是我们生活的重要部分。丑亦然。因此，自古以来哲学家就对美与丑的经验与判断感兴趣，这并不奇怪。他们试图理解这些经验与判断的性质，也想知道这些经验与判断是否正当。这两项事业在二十世纪都采取了更尖锐的形态，因为此时我们生活的这一部分在欧洲与北美的知识圈中受到持续攻击。自十八世纪以来关于美的大量论述都动用了“审美”（the aesthetic）这一概念，于是这一概念尤其受到批评。对审美的这种轻蔑，根源也许在于一种更广泛的文化清教主义，它畏惧审美与快乐之间的联系。曾有一个时期，从1960年代到1990年代，甚至只要提出一件艺术品可能因其令人愉悦——而非因其在认知、道德或政治上有益——而好，就会招致嘲弄。（如今这已不那么真了。）二十世纪对美或审美的概念并不友善。然而，总有一些思想家——哲学家，以及研究特定艺术的其他人士——坚持认真思考美与审美。本文第一部分，我们将考察伊曼努尔·康德给予我们的关于美的判断的特别丰富的论述。“趣味判断”这一概念是康德论述的核心，也是传统美学中几乎所有工作者的核心；因此我们首先考察康德对趣味判断的刻画。第二部分，我们考察二十世纪思想家提出的问题。第三部分，我们考虑无利害性，康德认为它是趣味判断的一部分。最后在第四部分，我们借助康德对趣味判断的论述，考虑审美这一概念是否可行。
+    step2: |-
+      美是我们生活的重要部分，丑也是。自古以来哲学家便关心我们对美与丑的经验和判断，这并不奇怪。他们试图弄清这类经验与判断的性质，也想追问它们是否正当。到了二十世纪，这两项事业都变得更尖锐：我们生活的这一部分，在欧洲与北美的知识圈中遭到持续攻击。自十八世纪以来，关于美的论述大多动用“审美”（the aesthetic）这一概念，于是这一概念首先成了批评的靶子。对审美的鄙薄，根子也许在一种更宽泛的文化清教主义——它惧怕审美与快乐之间的关联。曾有一个时期，从1960年代到1990年代，甚至只要说一件作品可能因其令人愉悦而好（而非因认知、道德或政治上有益而好），就会招来嘲弄。（如今已不那么严重。）二十世纪对美与审美的概念并不友善。然而始终有一些思想家——哲学家，以及治各种艺术之学的人——坚持认真思考美与审美。本文第一部分考察伊曼努尔·康德关于美的判断的丰富论述。“趣味判断”是康德论述的核心，传统美学中几乎人人也都以之为核心；所以我们从康德对趣味判断的刻画讲起。第二部分考察二十世纪思想家提出的问题。第三部分讨论无利害性——康德视之为趣味判断的组成部分。第四部分则借康德对趣味判断的论述，检讨“审美”这一概念是否还能成立。
   - id: 2
     kind: body
     source: |-
       ## 1. The Judgment of Taste
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 趣味判断
+    step2: |-
+      ## 1 趣味判断
   - id: 3
     kind: body
     source: |-
       What is a judgment of taste? Kant isolated two fundamental necessary conditions for a judgment to be a judgment of taste—*subjectivity* and *universality* (Kant 1790/2000)[^kant-1790]. Other conditions may also contribute to what it is to be a judgment of taste, but they are consequential on, or predicated on, the two fundamental conditions. In this respect Kant followed the lead of Hume and other writers in the British sentimentalist tradition (Hume 1757/1985)[^hume-1757].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      什么是趣味判断？康德分离出使一个判断成为趣味判断的两个根本必要条件——主观性与普遍性（Kant 1790/2000）[^kant-1790]。其他条件也可能对趣味判断之所是有所贡献，但它们是后果性的，或以这两个根本条件为前提。在这方面，康德追随休谟与英国情感主义传统其他作者的先导（Hume 1757/1985）[^hume-1757]。
+    step2: |-
+      什么是趣味判断？康德提出，一个判断要成为趣味判断，须满足两个根本的必要条件——主观性与普遍性（Kant 1790/2000）[^kant-1790]。其他条件或许也参与构成趣味判断，但都从属于这两个根本条件，或以它们为前提。在这一点上，康德追随休谟及英国情感主义传统诸作者的思路（Hume 1757/1985）[^hume-1757]。
   - id: 4
     kind: body
     source: |-
       ### 1.1 Subjectivity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 主观性
+    step2: |-
+      ### 1.1 主观性
   - id: 5
     kind: body
     source: |-
       The first necessary condition of a judgment of taste is that it is essentially *subjective*. What this means is that the judgment of taste is based on a feeling of pleasure or displeasure. This distinguishes judgments of taste from empirical judgments. Central examples of judgments of taste are judgments of beauty and ugliness. Judgments of taste can be about art or nature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      趣味判断的第一个必要条件是：它在本质上是主观的。这意味着，趣味判断基于一种愉悦或不悦的情感。这使趣味判断与经验判断区别开来。趣味判断的核心例子是美的判断与丑的判断。趣味判断可以关于艺术，也可以关于自然。
+    step2: |-
+      趣味判断的第一个必要条件，是它在本质上是主观的：它以愉悦或不悦之感为根据。正是这一点把趣味判断与经验判断区别开来。趣味判断的典型例子，是对美与丑的判断；其对象既可以是艺术，也可以是自然。
   - id: 6
     kind: body
     source: |-
       This subjectivist thesis would be over-strict if it were interpreted in an “atomistic” fashion, so that some subjective response corresponds to every judgment of taste, and vice versa. Sometimes one makes a judgment of taste on inductive grounds or on the basis of authority. But these cases indirectly rely on judgements made on the basis of subjective responses. A more holistic picture of the relation between response and judgment would preserve the spirit of the subjectivist doctrine while fitting our actual lives more accurately. The subjectivist doctrine needs to be refined in order to deal with the cases of induction and authority. But it must not be abandoned. The doctrine is basically right.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一主观主义论题若按“原子论”方式解释，就会过于严格：仿佛每一个趣味判断都对应某种主观反应，反之亦然。有时人们基于归纳理由或权威作出趣味判断。但这些情形间接依赖于基于主观反应所作的判断。关于反应与判断之关系的一种更整体主义的图景，会保留主观主义学说的精神，同时更准确地契合我们的实际生活。主观主义学说需要加以精炼，以处理归纳与权威的情形。但绝不能抛弃它。这一学说基本上是正确的。
+    step2: |-
+      这一主观主义论题若作“原子论”式的理解，便过于严格——仿佛每个趣味判断都一一对应某种主观反应，反之亦然。有时人们凭归纳理由、或依据权威作出趣味判断；但这类情形仍间接依赖基于主观反应所作的判断。若对反应与判断的关系采取更整体主义的看法，既能保住主观主义学说的精神，又更贴合我们的实际生活。主观主义学说需要精炼，以容纳归纳与权威的情形，却不可抛弃：这一学说基本正确。
   - id: 7
     kind: body
     source: |-
       However, it is not obvious what to make of the subjectivity of the judgment of taste. We need an account of the nature of the pleasure on which judgments of beauty are based.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，如何理解趣味判断的主观性，并不显然。我们需要一种关于美的判断所依据的愉悦之性质的说明。
+    step2: |-
+      然而，趣味判断的主观性究竟意味着什么，并不显然。我们需要说明：美的判断所依据的愉悦，其性质为何。
   - id: 8
     kind: body
     source: |-
       Beyond a certain point, this issue cannot be pursued independently of metaphysical issues about realism, for the metaphysics we favor is bound to affect our view of the nature of the pleasure we take in beauty. In particular, we need to know whether or not pleasure in beauty represents properties of beauty and ugliness that things possess. If not, does it involve the cognitive faculties that we deploy in understanding the world, as Kant thought? Or is it not a matter of the cognitive faculties, but a matter of sentimental reactions, which are schooled in various ways, as Hume and others thought? These are very hard questions. But there are some things we can say about the pleasure involved in finding something beautiful without raising the temperature too high.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      超过某一点，这一问题就无法脱离关于实在论的形而上学问题来探讨，因为我们所倾向的形而上学必然会影响到我们对从美中获得的愉悦之性质的看法。尤其是，我们需要知道，对美的愉悦是否表象事物所具有的美与丑的属性。如果不是，它是否涉及我们理解世界时所运用的认识能力，如康德所想？或者，它无关认识能力，而关乎以各种方式受到训练的情感反应，如休谟等人所想？这些都是很难的问题。但关于发现某物为美所涉及的愉悦，有些话我们可以说，而不至于把温度升得太高。
+    step2: |-
+      越过某个限度，这个问题便无法脱离实在论的形而上学来讨论：我们所取的形而上学立场，必然影响我们对审美愉悦之性质的看法。关键尤在于：对美的愉悦是否表象事物本身所具有的美与丑的属性？若不表象，那么它是否涉及我们理解世界所用的认识能力（如康德所想）？抑或它无关认识能力，只关乎以各种方式受训而成的情感反应（如休谟等人所想）？这些都是极难的问题。不过，关于发现某物为美时所涉及的愉悦，我们仍可平实地谈上几句，不必把争论的温度升得太高。
   - id: 9
     kind: body
     source: |-
       Kant makes various points about pleasure in the beautiful, which fall short of what we might call his “deep” account of the nature of pleasure in beauty, according to which it is the harmonious free play of the cognitive faculties, of imagination and understanding. According to Kant’s “surface” account of pleasure in beauty, it is not mere sensuous gratification, as in the pleasure of sensation, or of eating and drinking. Unlike such pleasures, pleasure in beauty is occasioned by the perceptual representation of a thing. (In contemporary terms, we would put this by saying that pleasure in beauty has an intentional content.) Moreover, unlike other sorts of intentional pleasures, pleasure in beauty is “disinterested”. This means, roughly, that it is a pleasure that does not involve desire—pleasure in beauty is desire-free. That is, the pleasure is neither based on desire nor does it produce one by itself. In this respect, pleasure in beauty is unlike pleasure in the agreeable, unlike pleasure in what is good for me, and unlike pleasure in what is morally good. According to Kant, all such pleasures are “interested”—they are bound up with desire. This is discussed in section 3 below. This is all important as far as it goes, but it is all negative. We need to know what pleasure in beauty *is*, as well as what it *is not*. What can be said of a more positive nature?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德关于对美的愉悦作了若干论述，这些论述尚未达到我们可以称为其“深层”说明的地步——按那种说明，对美的愉悦是认识能力、想象力与知性的和谐自由游戏。按照康德关于对美的愉悦的“表层”说明，它不是单纯的感官满足，如感觉的愉悦或吃喝的愉悦。与这类愉悦不同，对美的愉悦是由一个事物的知觉表象所引起的。（用当代术语说，我们会说对美的愉悦具有意向性内容。）而且，与其他种类的意向性愉悦不同，对美的愉悦是“无利害的”。这大致意味着，它是一种不涉及欲望的愉悦——对美的愉悦无涉欲望。也就是说，这种愉悦既不基于欲望，也不自行产生欲望。在这方面，对美的愉悦不同于对适意者的愉悦，不同于对我之善的愉悦，也不同于对道德上善者的愉悦。按康德，所有这些愉悦都是“有利害的”——它们与欲望绑在一起。这一点在下文第 3 节讨论。以上就其本身而言都重要，但都是否定的。我们需要知道对美的愉悦是什么，也需要知道它不是什么。关于其更肯定的性质，能说些什么？
+    step2: |-
+      康德对审美愉悦有不少论述，但尚未及于他设想的“深层”说明：对美的愉悦在于认识能力——想象力与知性——的和谐自由游戏。就其“表层”说明而言，对美的愉悦不是单纯的感官满足，不像感官之乐或饮食之乐。与后者不同，对美的愉悦由事物的知觉表象所引发（用当代术语说，它具有意向性内容）。再者，与别的意向性愉悦不同，对美的愉悦是“无利害的”：它不牵涉欲望，既不以欲望为根据，也不自行生出欲望。在这一点上，对美的愉悦不同于对适意之物的愉悦，不同于对己身之善的愉悦，也不同于对道德上善者的愉悦——按康德，这些愉悦一律“有利害”，都与欲望相连（详见下文第 3 节）。以上所述固然重要，却全属否定。我们既要知道审美愉悦不是什么，更要知道它是什么。它有没有更积极的规定可讲？
   - id: 10
     kind: body
     source: |-
       ### 1.2 Normativity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 规范性
+    step2: |-
+      ### 1.2 规范性
   - id: 11
     kind: body
     source: |-
       In order to see what is special about pleasure in beauty, we must shift the focus back to consider what is special about the judgment of taste. For Kant, the judgment of taste claims “universal validity”, which he describes as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了看清对美的愉悦有何特别之处，我们必须把焦点移回趣味判断，考察它有何特别之处。在康德看来，趣味判断要求“普遍有效性”，他这样描述：
+    step2: |-
+      要看清审美愉悦的特异之处，须把目光移回趣味判断本身。在康德看来，趣味判断要求“普遍有效性”。他是这样说的：
   - id: 12
     kind: body
     source: |-
       > … … if [someone] pronounces that something is beautiful, then he expects the very same satisfaction of others: he judges not merely for himself, but for everyone, and speaks of beauty as if it were a property of things. Hence he says that the *thing* is beautiful, and does not count on the agreement of others with his judgment of satisfaction because he has frequently found them to the agreeable with his own, but rather *demands* it from them. He rebukes them if they judge otherwise, and denies that they have taste, for he nevertheless requires that they ought to have it; and to this extent one cannot say, “Everyone has his special taste”. This would be as much as to say that there is no taste at all, i.e. no aesthetic judgment that could make a rightful claim to the assent of everyone. (Kant 1790, 5: 212–213 [2000: 98]; see also 2000: 164–166–139)[^kant-1790]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ……如果[某人]断言某物为美，他就期待他人也抱有完全相同的满足：他不只为自己、而且为一切人作判断，并把美说得仿佛是事物的属性。因此他说这个事物是美的，并且不指望他人同意他的满足判断是因为他常常发现他人与自己一致，而是要求他人同意。若他人作别的判断，他就责备他们，否认他们有品味，因为他仍然要求他们应当有品味；就此而言，不能说“人人各有其趣味”。这无异于说根本没有趣味，即没有任何审美判断能够正当地要求一切人的赞同。（Kant 1790, 5: 212–213 [2000: 98]；亦见 2000: 164–166–139）[^kant-1790]
+    step2: |-
+      ……若[某人]断言某物为美，他便期待他人也感到同样的满足：他不仅在为自己、更是在为所有人下判断，言谈之间把美当作事物的一种属性。所以他说这事物是美的；他并不因屡屡发现他人与自己同感，才指望别人赞同自己的满足判断，而是径直要求他们赞同。旁人若判断不同，他便加以责备，斥其没有品味——因为他仍坚持他们理当有品味。就此而言，不能说“人人各有各的趣味”；那无异于说根本没有趣味，即没有任何审美判断能正当地要求人人赞同。（Kant 1790，5: 212–213 [2000: 98]；亦见 2000: 164–166–139）[^kant-1790]
   - id: 13
     kind: body
     source: |-
       Kant’s idea is that in a judgment of taste, we demand or require agreement from other human beings in a way we do not in our judgments about the niceness of Canary-wine, which is just a question of individual preference. In many cases, in matters of taste and beauty, we think that others *ought* to share our judgment, and we blame them if they don’t. This is because the judgment of taste has this aspiration to universal validity that it seems “*as if* [beauty] were a property of things”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德的看法是：在趣味判断中，我们要求他人同意，其方式不同于我们对加那利葡萄酒之可口所作的判断——后者只是个人偏好的问题。在许多情形下，在趣味与美的事情上，我们认为他人应当分享我们的判断；若他们不分享，我们就责备他们。这是因为趣味判断有这种对普遍有效性的渴求，以至于它显得“仿佛”美是事物的属性。
+    step2: |-
+      康德的看法是：在趣味判断中，我们要求他人赞同，这与评判加那利葡萄酒是否可口大不相同——后者纯属个人偏好。在趣味与美的事情上，我们往往认为别人也应当同意我们的判断，不赞同便加以责备。缘何如此？因为趣味判断渴求普遍有效性，仿佛美真是事物自身的属性。
   - id: 14
     kind: body
     source: |-
       Now, if the above quotation were all that Kant had to say by way of elucidating the judgment of taste, then he would not have said enough. For the following question is left hanging: *why* do we require that others share our judgment? We might *want* others to share our judgment for all sorts of strange reasons. Maybe we will feel more comfortable. Maybe we will win a bet. And if we say that they *ought* to judge a certain way, we need to say more. In what sense is this true? What if someone cannot appreciate some excellent work of art because they are grief-stricken? What if it would distract someone from some socially worthy project? Of what nature is this “ought”?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，如果上面那段引文就是康德对趣味判断的全部阐明，那么他说的还不够。因为下面这个问题悬而未决：我们为什么要求他人分享我们的判断？我们可能出于各种奇怪的理由想要他人分享我们的判断。也许我们会觉得更舒服。也许我们会赢一个赌。而如果我们说他们应当以某种方式判断，我们就需要多说一些。这在什么意义上是真的？如果某人因悲痛欲绝而不能欣赏某件优秀的艺术作品，那又如何？如果这会分散某人对某个社会上有价值的计划的注意，那又如何？这种“应当”是什么性质的？
+    step2: |-
+      然而，倘若上面那段引文就是康德对趣味判断的全部阐明，那还远远不够。有一个问题悬而未决：我们凭什么要求他人同意我们的判断？人们想要别人附和，理由可以千奇百怪——或许那样心里更舒坦，或许能赢下一场赌局。但若说他们“应当”如此判断，就须给出更多交代：这究竟在什么意义上成立？若某人因悲痛欲绝而无法欣赏一件杰出的艺术作品呢？若这会让他从某项有益社会的志业上分心呢？这个“应当”究竟是什么性质的？
   - id: 15
     kind: body
     source: |-
       We can recast the point about how we ought to judge in austere terms by saying that there is a certain *normative* constraint on our judgments of taste, which is absent in our judgments about the niceness of Canary-wine. The most primitive expression of this normativity is this: some are *correct*, others *incorrect*. Or perhaps, even more cautiously: *some judgments are better than others*. We do not think that something is beautiful merely *to me*, in the way that we might say that some things just happen to give *me* sensuous pleasure. Of course, we might well say “I *think* *X* is beautiful”, because we wish to express uncertainty, but where we judge confidently, we think of our judgment as being *correct*. And that means that we think that the opposite judgment would be incorrect. We assume that not all judgments of beauty are equally appropriate. “Each to their own taste” only applies to judgments of niceness and nastiness, which Kant calls “judgments of agreeableness” (see Kant 1790, 5: 212–213, 291–292 [2000: 97–98, 171–172])[^kant-1790].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以用更严格的说法重新表述关于我们应当如何判断的论点：对我们的趣味判断存在着某种规范性约束，而这种约束在我们关于加那利葡萄酒是否可口的判断中是缺失的。这种规范性的最原始表达是：有些判断是正确的，另一些是不正确的。或者更谨慎地说：有些判断比另一些更好。我们并不认为某物仅仅“对我”是美的，就像我们可能说某些东西恰好给我感官快乐那样。当然，我们很可能说“我认为X是美的”，因为想表达不确定；但在我们有信心作判断的地方，我们认为自己的判断是正确的。而这意味着，我们认为相反的判断是不正确的。我们假定并非所有关于美的判断都同样恰当。“各人口味不同”只适用于关于可口与难吃的判断，康德称之为“适意判断”（见 Kant 1790, 5: 212–213, 291–292 [2000: 97–98, 171–172]）[^kant-1790]。
+    step2: |-
+      换一种严格的说法：我们的趣味判断受某种规范性约束，而关于加那利葡萄酒是否可口的判断并无此种约束。这种规范性最朴素的表现是：判断有正确与错误之分；或者更谨慎些说：判断有优劣之别。我们不会认为某物只是“对我而言”美，就像某些东西碰巧给我感官快乐那样。当然，我们也会说“我觉得X很美”，那是为了表示不确定；但凡有把握的判断，我们都视之为正确——这也就意味着视相反的判断为错误。我们认定，并非一切关于美的判断都同样恰当。“各人口味不同”只适用于可口与难吃之类的判断，康德称之为“适意判断”（见 Kant 1790，5: 212–213, 291–292 [2000: 97–98, 171–172]）[^kant-1790]。
   - id: 16
     kind: body
     source: |-
       Of course, some people just *know* about food. There are experts and authorities on making delicious food and in knowing what will taste good (Kant 1790, 5: 213 [2000: 98])[^kant-1790]. But what these people know is what will taste pleasurable to a certain kind of palate. In a sense, some things just do taste better than others, and some judgments of excellence in food are better than others. There is even a sense in which some are correct and others incorrect. Still, this is only relative to “normal” human beings. There is no idea of correctness according to which someone with very unusual pleasures and displeasure is at fault, or according to which the majority of human beings can be wrong. (Kant says that judgments of agreeableness have “general” but not “universal” validity; 1790, 5: 213 [2000: 213].) But in the case of judgments of taste or beauty, correctness is not hostage to what most people like or judge. We may say that it is a mistake to use much salt or sugar but that is only because it swamps the flavors that are enjoyed by most people.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，有些人对食物就是内行。在制作美味食物、辨识何者好吃方面，有专家与权威（Kant 1790, 5: 213 [2000: 98]）[^kant-1790]。但这些内行所知道的，是哪些东西会让某一类味觉感到愉快。在某种意义下，有些东西确实比另一些更好吃，关于食物之优劣的一些判断也比另一些更好。甚至可以说，有些是正确的，另一些是不正确的。但这只是相对于“正常”人而言。没有任何正确性观念会说一个拥有极不寻常的愉悦与不悦的人有错，或说多数人可能出错。（康德说适意判断具有“一般的”而非“普遍的”有效性；1790, 5: 213 [2000: 213]。）但在趣味判断或美的判断的情形中，正确性并不受多数人喜欢或判断什么的支配。我们也许会说菜里放太多盐或糖是个错误，但这只是因为盐糖盖过了多数人所享受的风味。
+    step2: |-
+      当然，有些人对食物确有真知。做美味、辨滋味，自有专家与权威（Kant 1790，5: 213 [2000: 98]）[^kant-1790]。但他们所知道的，不过是哪些东西会让某一类味觉觉得可口。某种意义上，有些东西确实比另一些好吃，关于食物优劣的判断也有高下之分，甚至可以说有对错之别。然而这一切只相对于“正常”人而言：没有哪个正确性观念会判定一个口味极不寻常的人错了，也不会有观念判定多数人可能出错。（按康德，适意判断只有“一般”有效性，没有“普遍”有效性；1790，5: 213 [2000: 213]。）趣味判断或美的判断则不然：其正确性不受多数人喜好与判断的摆布。我们固然可以说菜里盐糖放多了是失误，但那只是因为盐糖压过了多数人享受的风味。
   - id: 17
     kind: body
     source: |-
       To say that a judgment of taste makes a claim to correctness might seem merely to shift from the problematic “ought” that is involved in a judgment of taste to a problematic “correctness” or “betterness”. This may be inevitable. We are dealing with a normative notion, and while some normative notions may be explainable in terms of others, we cannot express normative notions in non-normative terms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      说趣味判断提出正确性要求，似乎只是把趣味判断中成问题的“应当”换成了成问题的“正确性”或“较好”。这也许是不可避免的。我们面对的是一个规范性概念；虽然某些规范性概念可以用另一些来说明，我们却无法用非规范性术语来表达规范性概念。
+    step2: |-
+      说趣味判断要求正确性，似乎只是把其中成问题的“应当”换成了同样成问题的“正确”或“较优”。这大概是躲不开的：我们面对的是规范性概念。有些规范性概念固然可用别的规范性概念来说明，但规范性概念终究无法用非规范性语汇来表达。
   - id: 18
     kind: body
     source: |-
       In *some* cases, the correctness of a judgment of taste may be impossibly difficult to decide. We may even think that there is no right answer to be had if we are asked to compare two very different things. But in many *other* cases, we think that there *is* a right and a wrong answer at which we are aiming, and that our judgments can be erroneous. If we do not think this, in at least some cases, then we are not making a judgment of taste—we are doing something else.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在某些情形下，趣味判断的正确性可能难到无法裁定。甚至，若要我们比较两件非常不同的东西，我们或许会认为没有正确答案。但在许多其他情形下，我们自认为瞄准着一个对错分明的答案，而且我们的判断可能出错。如果在至少某些情形下我们不作此想，那就根本不是在作趣味判断——那是别的事情。
+    step2: |-
+      有些情形下，趣味判断的正确性确实可能难到无从裁定；若要比较两件大不相同的东西，我们甚至会觉得根本没有正确答案。但在许多别的情形下，我们相信自己瞄准的是非对即错的答案，而我们的判断可能出错。倘若在至少一些情形下连这点都不信，那我们所做的便不是趣味判断——而是别的事情。
   - id: 19
     kind: body
     source: |-
       It is true that there is a popular idea that is sometimes expressed by saying that no judgments of taste are really better than others. People sometimes say, “There is no right and wrong about matters of taste”. Others express a related thought by saying that beauty is “relative” to individual judgment or preference, or that it is “socially relative”. Such skeptical views have some following outside the academy, as well as in certain of the humanities. Many even express distaste for the idea that judgments of taste have a normative claim, as if that would be uncouth or oppressive. However, if we are describing our thought as it is, not how it ought to be, then there is no getting away from the fact that normativity is a necessary condition of judgments of taste or beauty. Two points should embarrass the skeptic: firstly, people who express anti-normativist skeptical views are *merely theorizing*. In the case of judgments of beauty, anti-normativist skepticism is out of step with practice, especially their own practice. As with moral relativism, one can almost always catch a professed skeptic about judgments of beauty making and acting on non-skeptical judgments of beauty—for example, in their judgments about music, nature and everyday household objects around them. Skeptics do not practice what they preach. Secondly, one thing that *drives* people to this implausible skepticism, which is so out of line with their own practice, is a perceived connection with tolerance or anti-authoritarianism. This is what they see as attractive in it. But this is upside-down. For if “it is all relative” and no judgment is better than any other, then relativists put *their* own judgments beyond criticism, and they cannot get it wrong. Only those who think that there is a right and wrong in judgment can modestly admit that they might be wrong. What looks like an ideology of tolerance is, in fact, the opposite.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      确实有一种流行观念，有时表述为：没有任何趣味判断真的比别的更好。人们有时说“趣味之事无对错”。另一些人用相关说法表达：美相对于个人判断或偏好，或美是“社会地相对的”。这类怀疑论观点在学院之外有一些追随者，在某些人文学科中也有。许多人甚至对趣味判断具有规范性主张这一观念表示厌恶，仿佛那是粗野或压迫性的。然而，如果我们描述的是我们实际的思想，而不是它应当如何，那么就无法回避这一点：规范性是趣味判断或美的判断的必要条件。有两点应让怀疑论者难堪：第一，表达反规范主义怀疑论观点的人只是在作理论。就美的判断而言，反规范主义怀疑论与实践脱节，尤其与他们自己的实践脱节。正如道德相对主义一样，几乎总能抓到自称怀疑美之判断的人实际作出并依据非怀疑的美的判断行事——比如他们对音乐、自然和周围日常家什的判断。怀疑论者并不践行自己所宣讲的。第二，驱使人们走向这种不可信怀疑论的、与他们自己的实践如此不合的东西，是一种被感知到的与宽容或反权威主义的联系。他们认为那一点有吸引力。但这恰恰颠倒过来。因为如果“一切皆相对”、没有判断比别的更好，那么相对主义者就让自己独有的判断免于批评，也永远不会出错。只有那些认为判断有对错的人，才能谦逊地承认自己可能出错。看似宽容的意识形态，实际上恰恰相反。
+    step2: |-
+      确有一种流行之见：没有哪个趣味判断真的胜过别的。人们说“趣味之事无对错”；也有人换个说法，称美“相对于”个人判断或偏好，或美是“社会地相对的”。这类怀疑论在学院之外不乏附和者，人文学科的某些角落亦然。许多人甚至厌恶“趣味判断有规范性要求”的说法，仿佛那是粗野或压人之谈。然而，若我们描述的是实际的思想，而非它应然的样子，便躲不开一个事实：规范性是趣味判断或美的判断的必要条件。有两点足以让怀疑论者难堪。其一，鼓吹反规范主义怀疑论的人，只是在做理论。就美的判断而言，这种怀疑论偏离实践，尤其偏离他们自己的实践。正如道德相对主义，几乎总能撞见自称怀疑美之判断的人，实际作出并依照并不怀疑的美的判断行事——例如对音乐、自然以及身边日常家什的判断。怀疑论者言行不一。其二，把他们推向这种与自身实践相悖的不可信怀疑论的，是一种自以为与宽容、与反权威相通的联想；他们觉得这一点有吸引力。但这是本末倒置。如若“一切皆相对”、无判断优于他判断，相对主义者便把自己的判断置于批评之外，永远不可能出错。唯有相信判断有对错的人，才可能谦逊地承认自己也许错了。看似宽容的意识形态，实则恰恰相反。
   - id: 20
     kind: body
     source: |-
       Some so-called “experimental philosophers” have questioned the thesis that judgments of taste aspire to correctness on the basis of empirical evidence about those who make judgments of taste (Cova & Pain 2012)[^cova-2012]. But it is not clear that the empirical evidence cited supports that skeptical thesis. For the evidence is just that that the experimental subjects tick boxes that ask directly about correctness in judgment. But in psychological experiments there is a requirement of opacity of the point of an experiment to the experimental subjects (Hughes 2016)[^hughes-2016]. Furthermore, people often wax philosophical in a way that is out of step with their actual conceptual practice. For example, some beginners in introductory moral philosophy classes inconsistently claim that all moral views are equally correct, and that it is very bad to think otherwise. People who think in a certain way may be defective in self-knowledge, just as those who take part in social rituals may not be able to describe those rituals (see Zangwill 2019 for critical discussion)[^zangwill-2019]. We should also bear in mind that the skeptical thesis would also be very surprising given that it departs from not just centuries but millennia of reflection on our aesthetic lives. The answers to questionnaires about correctness in judgment do not reveal the deep nature of people’s thoughts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些所谓“实验哲学家”依据关于作趣味判断者的经验证据，质疑趣味判断渴求正确性这一论题（Cova & Pain 2012）[^cova-2012]。但所引经验证据是否支持那种怀疑论论题，并不清楚。因为证据不过是：实验受试者在直接询问判断正确性的选项上打了勾。然而心理学实验要求实验要点对受试者保持不透明（Hughes 2016）[^hughes-2016]。此外，人们常常以与自己的实际概念实践不合的方式大谈哲学。例如，一些初学道德哲学导论课的学生，前后不一致地主张一切道德观点都同样正确，且认为不这样想很糟。以某种方式思考的人，可能在自我认识上有缺陷，正如参与社会仪式的人未必能描述那些仪式（批判性讨论见 Zangwill 2019）[^zangwill-2019]。我们也应记住：怀疑论论题还会显得非常惊人，因为它偏离的不是数百年、而是数千年来对我们审美生活的反思。关于判断正确性的问卷回答，并不揭示人们思想的深层性质。
+    step2: |-
+      一些所谓“实验哲学家”根据关于作趣味判断者的经验证据，质疑“趣味判断渴求正确性”这一论题（Cova & Pain 2012）[^cova-2012]。然而所引证据未必支持那种怀疑论。证据不过是：受试者在直接询问判断正确性的选项上打了勾。可心理学实验本要求实验的真实要点对受试者保持不透明（Hughes 2016）[^hughes-2016]。何况人们常以与自己实际的概念实践脱节的方式高谈哲学：道德哲学导论课上的初学者，往往一面主张一切道德观点同样正确，一面又认定不这样想极不可取。以某种方式思考的人，可能恰在自我认识上有缺陷，正如参与社会仪式的人未必说得出仪式的门道（批判性讨论见 Zangwill 2019）[^zangwill-2019]。还应记住：怀疑论论题违背的不是数百年的、而是数千年的审美生活反思，这本身就极可疑。问卷上关于判断正确性的回答，揭示不了人们思想的深层性质。
   - id: 21
     kind: body
     source: |-
       ### 1.3 Recasting Normativity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3 重述规范性
+    step2: |-
+      ### 1.3 重述规范性
   - id: 22
     kind: body
     source: |-
       In the normative claim of judgments of taste, as formulated above, *other people* do not figure in the account. This is an *austere* explanation of what Kant meant, or perhaps of what he ought to have meant, when he said that the judgment of taste claims “universal validity”, by contrast with judgments about the niceness of Canary-wine. *Given* this account, we can *explain* the fact that we think that others ought to share our judgment. They ought to share it on pain of making a judgment which is incorrect or inappropriate. And this would be *why* we do in fact look to others to share our judgment; we do not want them to make incorrect judgments. It seems that Kant’s reference to other people in characterizing the normativity of judgments of taste has dropped out of the picture as inessential.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按上述表述，趣味判断的规范性主张并不把他人纳入说明之中。这是对康德所谓趣味判断要求“普遍有效性”（与关于加那利葡萄酒是否可口的判断相对）的一种严格说明，或者说对他本应意指的东西的说明。给定这一说明，我们就能解释我们为何认为他人应当分享我们的判断：他们应当分享，否则就是作出不正确或不恰当的判断。而这正是我们实际上指望他人分享我们判断的原因：我们不想让他们作出不正确的判断。看来，康德在刻画趣味判断的规范性时对他人所作的指涉，已作为非本质的东西从图景中消失了。
+    step2: |-
+      按上述表述，趣味判断的规范性主张里并不出现他人。这是一种严格的（austere）说明，用以解释康德所说的“普遍有效性”（与加那利葡萄酒是否可口的判断相对），或他本应意指的东西。有了这一说明，我们便能解释自己为何认为他人应当同意我们的判断：他们若不赞同，便是作出不正确或不恰当判断。我们指望别人赞同，原因正在于此——不愿他们判断有误。如此看来，康德在刻画趣味判断的规范性时对他人所作的指涉，反倒作为非本质成分被剔除出局了。
   - id: 23
     kind: body
     source: |-
       However, it is not clear whether Kant would go along with this, for he characterizes normativity in a way that ties in with his eventual *explanation* of its possibility. Kant expresses the normative idea in a very particular way. He writes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，康德是否会同意这一点，并不清楚，因为他刻画规范性的方式与他对规范性之可能性的最终解释相连。康德以一种非常特别的方式表达规范性观念。他写道：
+    step2: |-
+      然而康德未必肯认这一读法，因为他表述规范性的方式，与他后来对规范性之可能性的解释息息相关。康德把规范性观念说得很特别。他写道：
   - id: 24
     kind: body
     source: |-
       > [we] demand such assent universally (Kant 1790, 5: 214 [2000: 99])[^kant-1790]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [我们]普遍地要求这种赞同（Kant 1790, 5: 214 [2000: 99]）[^kant-1790]
+    step2: |-
+      > [我们]普遍地要求这种赞同（Kant 1790，5: 214 [2000: 99]）[^kant-1790]
   - id: 25
     kind: body
     source: |-
       And Kant says that the judgment of taste involves
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德说，趣味判断涉及
+    step2: |-
+      康德还说，趣味判断涉及
   - id: 26
     kind: body
     source: |-
       > its validity for everyone. (Kant 1790, 5: 212 [2000: 97])[^kant-1790]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 它对每个人的有效性。（Kant 1790, 5: 212 [2000: 97]）[^kant-1790]
+    step2: |-
+      > 它对每个人的有效性。（Kant 1790，5: 212 [2000: 97]）[^kant-1790]
   - id: 27
     kind: body
     source: |-
       By contrast, Kant thinks that although we sometimes speak *as if* our judgments of the *agreeable* are universally valid (“Lamb tastes better with garlic”), in fact they are not: judgments of the agreeable appeal only to *most* but not to *all* people (Kant 1790, 5: 213 [2000: 98])[^kant-1790].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相比之下，康德认为，尽管我们有时说得仿佛适意判断具有普遍有效性（“羊肉加大蒜更好吃”），实际上并非如此：适意判断只向多数人、而非所有人发出诉求（Kant 1790, 5: 213 [2000: 98]）[^kant-1790]。
+    step2: |-
+      与此相对，康德认为：我们有时说得仿佛适意判断也具有普遍有效性（“羊肉就蒜更好吃”），其实不然——适意判断只诉诸多数人，而非所有人（Kant 1790，5: 213 [2000: 98]）[^kant-1790]。
   - id: 28
     kind: body
     source: |-
       However, the austere characterization attempts to catch a more basic idea of normativity—one that might serve as the target of rival explanations. In order to explain how subjectively universal judgments are possible, Kant has a complicated story about the harmonious interplay of the cognitive faculties—imagination and understanding—which he thinks constitutes pleasure in beauty (Kant 1790, 5: 219 [2000: 104])[^kant-1790]. This “deep” account of pleasure in beauty is highly controversial and not particularly plausible (see Budd 2001)[^budd-2001]. But we can see why Kant gives it. For Kant, the normative claim of the judgment of taste has its roots in the more general workings of our cognitive faculties, which Kant thinks we can assume others share. Thus, we have the beginnings of an explanation of how such a pleasure can ground a judgment that makes a universal claim. However, Kant does not have much to say about the nature of the “universality” or normativity that is being explained by such a speculative account of pleasure in beauty. It is no accident that Kant phrases the obligation in interpersonal terms, considering where he is going. And it is no great fault on his part that he does so. But for our purposes, we need to separate what is being explained from its explanation. For if Kant’s explanation does not work, we want to be left with a characterization of the normativity he was trying to explain. We need to separate Kant’s problem from his solution, so that the former is left if the latter fails. There may be alternative solutions to his problem.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，严格刻画试图抓住一种更基本的规范性观念——它可以充当各种竞争性解释的目标。为了解释主观上普遍的判断如何可能，康德有一套复杂的故事，讲认识能力——想象力与知性——的和谐相互作用，他认为这构成对美的愉悦（Kant 1790, 5: 219 [2000: 104]）[^kant-1790]。这种关于审美愉悦的“深层”说明极具争议，也并不特别可信（见 Budd 2001）[^budd-2001]。但我们能看出康德为何给出它。对康德来说，趣味判断的规范性主张根源于我们认识能力更一般的运作，而他以为可以假定他人也分享这些能力。于是，我们便有了说明的开端：这样一种愉悦如何能够为一个提出普遍性主张的判断奠基。然而，对于这种思辨性的审美愉悦说明所要解释的“普遍性”或规范性之性质，康德并没有多说。考虑到他的走向，康德用人与人之间的措辞来表述这一义务，绝非偶然；他这样做也算不上大错。但就我们的目的而言，我们需要把被解释的东西与解释分开。因为如果康德的解释不成立，我们希望留下的是他所要解释的规范性之刻画。我们需要把康德的问题与他的解答分开，以便在解答失败时仍保留问题。对他的问题可能存在别的解答。
+    step2: |-
+      不过，严格刻画意在捕捉一种更基本的规范性观念，好让各种竞争性解释有共同的目标。为说明主观上普遍的判断何以可能，康德讲了一套复杂的故事：认识能力——想象力与知性——的和谐互动，他认为这种互动构成对美的愉悦（Kant 1790，5: 219 [2000: 104]）[^kant-1790]。这套关于审美愉悦的“深层”说明争议极大，也不太可信（见 Budd 2001）[^budd-2001]。但康德为何要讲，却不难理解：在他看来，趣味判断的规范性主张扎根于认识能力更一般的运作，而这些能力我们可以假定人人共有。于是便有了一个说明的开端：这样的愉悦如何能为提出普遍性主张的判断奠基。只是对于这种思辨说明所要解释的“普遍性”或规范性本身，康德着墨不多。看他后面要走向何处，便知他用人与人之间的措辞来表述这一义务绝非偶然；这也不算他多大的过失。但就本文的目的而言，须把被解释者与解释分开：倘若康德的解释行不通，我们仍要保住他所要解释的那种规范性刻画。要把康德的问题与他的解答拆开，解答失败时问题仍在。这个问题也许另有解答。
   - id: 29
     kind: body
     source: |-
       ### 1.4 Normativity and Pleasure
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.4 规范性与愉悦
+    step2: |-
+      ### 1.4 规范性与愉悦
   - id: 30
     kind: body
     source: |-
       As described, normativity attaches to *judgments of taste* themselves. What does this imply for *pleasure* in beauty? Since judgments of taste are based on responses of pleasure, it would make little sense if our judgments were more or less appropriate but our responses were not. The normative claim of our judgments of taste must derive from the fact that we think that some *responses* are better or more appropriate to their object than others. Responses only license judgments which can be more or less appropriate because responses themselves can be more or less appropriate. If I get pleasure from drinking Canary-wine and you do not, neither of us will think of the other as being *mistaken*. But if you don’t get pleasure from Shakespeare’s *Sonnets*, I will think of you as being in error—not just your *judgment*, but your *liking*. I think that I am *right* to have my *response*, and that your *response* is *defective*. Someone who thinks that there is, in Hume’s words, “an equality of genius” between some inferior composer, on the one hand, and J. S. Bach, on the other, has a defective *sensibility* (Hume 1757 [1985: 230])[^hume-1757]. Roger Scruton puts the point well when he says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如前所述，规范性附着于趣味判断本身。这对审美中的愉悦意味着什么？既然趣味判断基于愉悦反应，那么若我们的判断有恰当与否之分、反应却没有，就说不通了。趣味判断的规范性主张必来自这一事实：我们认为某些反应比另一些更好、或更适合其对象。反应之所以能授权那些有恰当与否之分的判断，正因为反应本身有恰当与否之分。我从喝加那利葡萄酒中得到愉悦而你没有，我们都不会认为对方弄错了。但如果你从莎士比亚的《十四行诗》中得不到愉悦，我就会认为你错了——不只是你的判断，还有你的喜爱。我认为自己的反应是对的，而你的反应有缺陷。若有人认为某个劣等作曲家与J. S. 巴赫之间，用休谟的话说“天才相等”，那他的感受力就有缺陷（Hume 1757 [1985: 230]）[^hume-1757]。罗杰·斯克鲁顿说得好：
+    step2: |-
+      如前所述，规范性附着于趣味判断本身。那么，它对审美中的愉悦意味着什么？既然趣味判断基于愉悦反应，若判断有恰当与否、反应却无，便说不通。趣味判断的规范性主张，必源于我们认为某些反应比另一些更佳、或更贴合其对象。反应本身有恰当与否之别，才使判断得以有恰当与否之别。我喝加那利葡萄酒得乐，你不得乐，彼此都不觉得对方弄错了；可你若读莎士比亚《十四行诗》而无动于衷，我便认为你错了——错的不只是判断，还有你的喜好。我认为自己的反应是对的，你的反应有缺陷。谁若以为某个二流作曲家与J. S. 巴赫之间，用休谟的话说“天才相等”，那他的感受力便出了毛病（Hume 1757 [1985: 230]）[^hume-1757]。罗杰·斯克鲁顿把这一点说得很透：
   - id: 31
     kind: body
     source: |-
       > When we study [the Einstein Tower and the Giotto campanile] … our attitude is not simply one of curiosity, accompanied by some indefinable pleasure or satisfaction. Inwardly, we affirm our preference as valid…. (Scruton 1979: 105)[^scruton-1979]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当我们研究[爱因斯坦塔与乔托钟楼]时……我们的态度不是单纯的好奇，外加某种无法名状的愉悦或满足。内心里，我们确认自己的偏爱是有效的……（Scruton 1979: 105）[^scruton-1979]
+    step2: |-
+      > 当我们细看[爱因斯坦塔与乔托钟楼]时……我们的态度并非只是好奇，外加某种莫名的愉悦或满足。我们在心里认定自己的偏爱确有根据……（Scruton 1979: 105）[^scruton-1979]
   - id: 32
     kind: body
     source: |-
       This is the reason *why* we demand the same feeling from others, even if we do not expect it. We think that our response is more appropriate to its object than its opposite. And, in turn, this is *why* we think that our *judgment* about that object is more correct than its opposite. The normativity of judgment derives from the normativity of feeling.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这正是我们从他人那里要求同样感受的理由，即使我们并不期待得到它。我们认为自己的反应比相反反应更适合其对象。反过来，这也正是我们认为自己对该对象的判断比相反判断更正确的理由。判断的规范性来自感受的规范性。
+    step2: |-
+      这正说明：我们为何向他人要求同样的感受，纵使并不指望如愿。我们认定自己的反应比相反反应更贴合对象；也因此，我们认定自己关于该对象的判断比相反判断更正确。判断的规范性源自感受的规范性。
   - id: 33
     kind: body
     source: |-
       But how *can* some feelings be better or worse than others? To answer this question, we need to ask: how far does the normativity of judgments of taste inhere in the feeling itself? The realist about beauty will say that the feeling has normativity built into it in virtue of its representational content; the feelings themselves can be more or less veridical. Pleasure in beauty, for example, has as its object the property of beauty; we *find* the beauty pleasurable. A Humean sentimentalist will probably say that normativity is something we somehow construct or foist upon our pleasures and displeasures, which have no such content. And Kant has his own account, which appeals to cognitive states that are not beliefs. The issue is controversial. However, what we can say for sure is that it is definitive of pleasure in beauty that it licenses judgments that make claim to correctness. Beyond this, there will be theoretical divergence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但某些感受怎么可能比另一些更好或更坏？要回答这个问题，我们需要问：趣味判断的规范性在多大程度上内在于感受本身？关于美的实在论者会说，感受凭借其表象内容而内建了规范性；感受本身可以有或多或少的真实性。例如，对美的愉悦以美的属性为对象；我们觉得美是令人愉悦的。休谟式情感主义者大概会说，规范性是我们以某种方式建构或强加于我们的愉悦与不悦之上的东西，而这些感受本身没有此类内容。康德有他自己的说明，诉诸并非信念的认知状态。这个问题有争议。然而我们可以确定地说：对美的愉悦的决定性特征在于，它授权那些要求正确性的判断。在此之外，将出现理论分歧。
+    step2: |-
+      可是，某些感受如何能比另一些更好或更坏？要回答这个问题，须先问：趣味判断的规范性有多少内在于感受本身？美的实在论者会说，感受凭借其表象内容而自带规范性——感受本身可以有真实与否之别。例如，对美的愉悦以美的属性为对象，我们“觉得”美令人愉悦。休谟式情感主义者多半会说，规范性是我们以某种方式建构、或强加于自身愉悦与不悦之上的东西，这些感受并没有那样的内容。康德也自有说明，诉诸并非信念的认知状态。此问题争议未决。但能确定的是：对美的愉悦之决定性特征，正在于它授权那些要求正确性的判断。除此以外，理论分歧便开始了。
   - id: 34
     kind: body
     source: |-
       This normativity is definitive of the judgment of taste, and is its second defining characteristic, which we should add to the fact that it is based on subjective grounds of pleasure or displeasure.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种规范性是趣味判断的决定性特征，是它的第二个定义性特征，应当加在“它基于愉悦或不悦的主观根据”这一事实之上。
+    step2: |-
+      这种规范性是趣味判断的决定性特征，也是它的第二个定义性标志——与“它以愉悦或不悦的主观根据为基础”并列。
   - id: 35
     kind: body
     source: |-
       ### 1.5 Judgments of Taste and the Big Question
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.5 趣味判断与大问题
+    step2: |-
+      ### 1.5 趣味判断与大问题
   - id: 36
     kind: body
     source: |-
       We can sum things up like this: judgments of taste occupy a mid-point between judgments of niceness and nastiness, and empirical judgments about the external world. Judgments of taste are like empirical judgments in that they have universal validity, but they are unlike empirical judgment in that they are made on the basis of an inner subjective response. Conversely, judgments of taste are like judgments of niceness or nastiness in that they are made on the basis of an inner subjective response, but they are unlike judgments of niceness and nastiness, which make no claim to universal validity. To cut the distinctions the other way: in respect of normativity, judgments of taste are like empirical judgments and unlike judgments of niceness or nastiness, but in respect of subjectivity, judgments of taste are unlike empirical judgments and like judgments of niceness or nastiness. So, we have a three-fold division: empirical judgments, judgments of taste, and judgments of niceness or nastiness. And judgments of taste have the two points of similarity and dissimilarity on each side just noted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以这样总结：趣味判断处于“可口与难吃”的判断和关于外部世界的经验判断之间的中点。趣味判断像经验判断，因为它具有普遍有效性；但不同于经验判断，因为它基于内在的主观反应。反过来，趣味判断像可口与难吃的判断，因为它基于内在主观反应；但不同于可口与难吃的判断，因为后者不要求普遍有效性。换个角度切分：就规范性而言，趣味判断像经验判断，而不像可口与难吃的判断；就主观性而言，趣味判断不像经验判断，而像可口与难吃的判断。于是我们有三分：经验判断、趣味判断、可口与难吃的判断。趣味判断在两边各有刚才指出的相似与不相似之处。
+    step2: |-
+      可以这样总结：趣味判断居于“可口—难吃”的判断与关于外部世界的经验判断之间。它与经验判断相同之处在于具有普遍有效性，不同之处在于它基于内在的主观反应；它与可口—难吃的判断相同之处也在于基于内在的主观反应，不同之处在于后者并不要求普遍有效性。换个方向切分：就规范性看，趣味判断同于经验判断而异于可口—难吃的判断；就主观性看，趣味判断异于经验判断而同于可口—难吃的判断。于是三分成立：经验判断、趣味判断、可口与难吃的判断；趣味判断在两侧各有上述的相似与相异。
   - id: 37
     kind: body
     source: |-
       As Kant recognized (more or less following Hume), all this is a point *from* which to theorize. The hard question is *whether*, and if so *how*, such a subjectively universal judgment is possible. On the face of it, the two characteristics are in tension with each other. Our puzzle is this: what must be the nature of pleasure in beauty if the judgments we base on it can make claim to correctness? This is the Big Question in aesthetics. Kant’s problem was the right one, even if his solution was not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如康德所认识到的（大致追随休谟），这一切只是理论化的起点。困难的问题是：这样一种主观上普遍的判断是否可能；如果可能，又是如何可能。表面上看，这两个特征彼此紧张。我们的困惑是：如果基于对美的愉悦的判断能够要求正确性，那么这种愉悦必须具有什么性质？这是美学中的大问题。康德的问题提得对，尽管他的解答不对。
+    step2: |-
+      如康德所见（他大致追随休谟），这一切只提供一个理论化的起点。难处在于：这种主观上普遍的判断究竟是否可能，若可能又何以可能。乍看之下，主观性与普遍性这两个特征彼此紧张。我们面临的困惑是：若基于审美愉悦的判断能要求正确性，这种愉悦本身须是什么性质？这正是美学的大问题。康德的问题提得对，纵使他的解答不对。
   - id: 38
     kind: body
     source: |-
       However, our hope thus far has been to get clearer about what it is that is under scrutiny in this debate. Once we are armed with a modest account of what a judgment of taste is, we can then proceed to more ambitious questions about whether or not judgments of taste represent real properties of beauty and ugliness, and if not, how else the normativity of aesthetic judgment is to be explained. We can even consider whether or not our whole practice of making judgments of taste is defective and should be jettisoned. But first things first.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，我们迄今的希望是更清楚地认识这场争论中受审视的东西。一旦我们有了关于趣味判断之所是的适度说明，就可以进而追问更宏大的问题：趣味判断是否表象美与丑的真实属性；若不表象，审美判断的规范性又该如何解释。我们甚至可以考察，我们作出趣味判断的整套实践是否有缺陷、是否应当抛弃。但先要处理眼前的事。
+    step2: |-
+      不过，本文迄今所求，只是把这场争论所审视的对象弄得更清楚。一旦对“趣味判断是什么”有了适度的说明，便可进而追问更宏大的问题：趣味判断是否表象美与丑的真实属性？若不表象，审美判断的规范性又当如何解释？我们甚至可以问：作出趣味判断的整套实践是否有缺陷、是否该弃置。但凡事有先后。
   - id: 39
     kind: body
     source: |-
       ## 2. Other Features of Aesthetic Judgments
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 审美判断的其他特征
+    step2: |-
+      ## 2 审美判断的其他特征
   - id: 40
     kind: body
     source: |-
       There is more to aesthetic judgment than just subjectivity and normativity, and this should be described more fully. The following is a survey of a number of other candidate features of aesthetic judgments: truth, mind-independence, nonaesthetic dependence, and lawlessness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      审美判断不止有主观性与规范性，还应更充分地描述。以下考察审美判断的若干其他候选特征：真、心灵独立性、非审美依赖、无规律性。
+    step2: |-
+      审美判断不止主观性与规范性两个特征，还须更充分地描述。下面依次考察若干候选特征：真、心灵独立性、非审美依赖、无规律性。
   - id: 41
     kind: body
     source: |-
       ### 2.1 Aesthetic Truth
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 审美真理
+    step2: |-
+      ### 2.1 审美真理
   - id: 42
     kind: body
     source: |-
       The normativity of aesthetic judgments *can* be recast in terms of a particular conception of aesthetic truth. For some purposes, it is useful to do this. It might be thought that deploying the idea of *aesthetic truth* commits us to the existence of an aesthetic reality. But this springs from the assumption that a strong correspondence conception of truth is all there ever is to truth in any area where we might employ the notion. In many areas—scientific and psychological thought, for example—a strong correspondence conception of truth is likely to be in question. However, the conception of truth applicable in aesthetics might be one according to which truth only implies the sort of normativity described above, according to which there are correct and incorrect judgments of taste, or at least that some judgments are better than others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      审美判断的规范性可以用一种特定的审美真理概念来重述。对某些目的而言，这样做有用。人们也许以为，动用“审美真理”观念就承诺了审美实在的存在。但这种想法源于一个假定：在任何可能使用真理概念的领域，真理都只是强符合论的真理观。在许多领域——例如科学思想与心理学思想——强符合论的真理观恐怕都成问题。然而，适用于美学的真理概念也许是这样的：真理只蕴含上述规范性，即趣味判断有正确与错误之分，或至少某些判断比另一些更好。
+    step2: |-
+      审美判断的规范性，可以用一种特定的审美真理观来重述，这样做在某些场合是有用的。有人也许以为，一用“审美真理”，就得承诺审美实在的存在。这其实是假定：凡可用真理概念之处，真理都只能是强符合论的真理。可在许多领域——科学思想、心理学思想即是——强符合论恐怕都靠不住。适用于美学的真理观或许是另一种：真理仅仅蕴含前述规范性，即趣味判断有对错之分，或至少有些判断优于另一些。
   - id: 43
     kind: body
     source: |-
       If we deploy the notion of truth, we might express the normative idea by saying if a judgment is true then its opposite is false. Or we might say that the law of non-contradiction applies to aesthetic judgments: there are some aesthetic judgments such that they and their negations cannot both be true. This principle need not hold of all judgments of taste, so long as it holds of a significant proportion of them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们动用真理概念，可以把规范性观念表述为：若一个判断为真，则其反面为假。或者我们说，不矛盾律适用于审美判断：有些审美判断与其否定不能同时为真。这一原则不必适用于所有趣味判断，只要适用于相当一部分即可。
+    step2: |-
+      若动用真理概念，规范性或可这样表述：一个判断为真，其反面便为假。也可以说，不矛盾律适用于审美判断——有些审美判断与其否定不能同真。这条原则未必要对一切趣味判断成立，只要对相当一部分成立即可。
   - id: 44
     kind: body
     source: |-
       Such a normative conception of truth is stronger than a notion of truth which is merely a device for “semantic assent”; that is, normative truth is more than thin “disquotational” truth, according to which the notion of truth is merely a device for semantic ascent. Thus we can say “x is beautiful’ is true if and only if x is beautiful. Even judgments of the agreeable, about the niceness of Canary-wine, can have access to an inconsequential disquotational conception of truth. We can say “Canary-wine is nice’ is true if and only if Canary-wine is nice” without raising the temperature. However, judgments about the niceness of Canary-wine do not aspire to a normative conception of truth. There are no right and wrong answers to the question of whether Canary-wine really is nice. And so, of neither the judgment that it is nice nor the judgment that it is not nice can it be said that if it is true then its opposite is false. But this is what we do say of some aesthetic judgments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这样一种规范性的真理概念，比仅仅作为“语义赞同”装置的真理概念更强；也就是说，规范性真理不止于单薄的“去引号”真理——按后者，真理概念只是语义上升的装置。于是我们可以说：“x是美的”为真，当且仅当x是美的。甚至关于可口、关于加那利葡萄酒是否好喝的判断，也能触及一种无关紧要的去引号真理概念。我们可以说“加那利葡萄酒好喝”为真，当且仅当加那利葡萄酒好喝，而不至于把温度升高。然而，关于加那利葡萄酒是否好喝的判断并不渴求规范性的真理概念。加那利葡萄酒是否真的好喝，这个问题没有对错答案。因此，无论“它好喝”还是“它不好喝”的判断，都不能说若它为真则其反面为假。但对我们的一些审美判断，我们正是这样说的。
+    step2: |-
+      这种规范性真理观，强于仅作“语义赞同”之用的真理观，也比单薄的“去引号”真理更厚——后者只把真理当作语义上升的装置。于是可说“x是美的”为真，当且仅当x是美的。就连关于可口、关于加那利葡萄酒是否好喝的判断，也能套上这种无关痛痒的去引号真理：我们可以说“加那利葡萄酒好喝”为真，当且仅当加那利葡萄酒好喝，而不必把争论温度升高。然而，关于葡萄酒是否好喝的判断并不追求规范性真理：葡萄酒是否真好喝，本无对错可言。因此，无论“它好喝”还是“它不好喝”，都不能说前者为真则后者为假。但对某些审美判断，我们恰恰这样说。
   - id: 45
     kind: body
     source: |-
       However, although we *can* cast aesthetic normativity in terms of truth, we need not do so. Aesthetic “truth”, in fact, adds little to the notion of correctness that we have already encountered. We can do without the word “true”. We can say that something cannot both be beautiful and ugly (in the same respect at the same time), and that if something is beautiful then it is not ugly (in the same respect at the same time).[^note-1]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，尽管我们能把审美规范性铸成真理的措辞，我们却不必如此。事实上，审美“真理”对我们已经遇到的正确性概念增益甚少。可以不用“真”这个词。我们可以说某物不能同时既美又丑（在同一方面、同一时间），并说如果某物是美的，它就不丑（在同一方面、同一时间）。[^note-1]
+    step2: |-
+      然而，尽管可以把审美规范性铸成真理的措辞，却不必如此。事实上，审美“真理”对已有的正确性概念增益甚微，“真”这个词可以不用。我们尽可说：某物不能同时既美又丑（在同一方面、同一时间）；某物若美，便不丑（在同一方面、同一时间）。[^note-1]
   - id: 46
     kind: body
     source: |-
       ### 2.2 Mind-independence and Nonaesthetic Dependence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 心灵独立性与非审美依赖
+    step2: |-
+      ### 2.2 心灵独立性与非审美依赖
   - id: 47
     kind: body
     source: |-
       Given an understanding of the normativity of judgments of taste—which we might or might not express in terms of aesthetic truth—we can and should add some further normative features.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一旦理解了趣味判断的规范性——我们也许用、也许不用审美真理来表述它——就可以并且应当再补充一些规范性特征。
+    step2: |-
+      理解了趣味判断的规范性（无论是否用审美真理来表述），便可再补上若干规范性特征。
   - id: 48
     kind: body
     source: |-
       One such feature is *mind-independence*. Mind-independence is best expressed as a negative thesis: whether something is beautiful does not depend on my judgment. Thinking it so does not make it so. This can be re-expressed in conditional terms: it is not the case that if I think something is beautiful then it is beautiful. This is common sense. For example, most of us think that our judgments have improved since we were younger. We think that some of our past judgments were in error. Thinking it so, at that time, did not make it so. Perhaps some more complicated, sophisticated mind-dependence thesis holds; but a simple mind-dependence claim flouts common sense.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中一个特征是心灵独立性。心灵独立性最好表述为一个否定论题：某物是否美，并不取决于我的判断。我觉得它美，并不使它变美。这可以用条件句重述：并非我若觉得某物美，它就美。这是常识。例如，我们多数人认为自己比年轻时判断力有所长进。我们认为过去有些判断错了。当时觉得它美，并没有使它变美。也许某些更复杂、更精致的心灵依赖论题成立；但简单的心灵依赖主张违背常识。
+    step2: |-
+      其一是心灵独立性。它最好表述为否定论题：某物是否美，不取决于我的判断；我以为它美，并不使它变美。换成条件句便是：并非我若觉得某物美，它就美。这是常识。我们多数人相信自己年长后判断力有所长进，也认为过去有些判断错了——当初觉得它美，并没有使它变美。也许更复杂精致的心灵依赖论题能够成立，但素朴的心灵依赖主张违背常识。
   - id: 49
     kind: body
     source: |-
       We also think that beauty, ugliness and other aesthetic properties *depend* on nonaesthetic properties. Dependence contrasts with mind-independence in that it says what aesthetic properties *do* depend on, as opposed to what they *do not* depend on: the aesthetic properties of a thing depend on its nonaesthetic properties. This dependence relation implies (but is not identical with) the supervenience relation or relations: (a) two aesthetically unlike things must also be nonaesthetically unlike; (b) something could not change aesthetically unless it also changed nonaesthetically; and (c) something could not have been aesthetically different unless it were also nonaesthetically different. These are, respectively: cross-object supervenience, cross-time supervenience, and cross-world supervenience. (“Supervenience” has often been discussed under the heading of “dependence” but they are distinct relations, related in a complex way.) Sibley’s papers “Aesthetic Concepts” and “Aesthetic/Nonaesthetic” were pioneering discussions of the dependence of the aesthetic on the nonaesthetic (Sibley 1959, 1965)[^sibley-1959]. (It is interesting that he never described the dependence in modal terms.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们也认为，美、丑及其他审美属性依赖于非审美属性。依赖与心灵独立性形成对照：依赖说的是审美属性确实依赖于什么，而不是不依赖于什么：一个事物的审美属性依赖于它的非审美属性。这种依赖关系蕴含（但不等于）随附关系：（a）两个审美上不同的东西，也必在非审美上不同；（b）某物若在审美上改变，也必在非审美上改变；（c）某物若非在非审美上不同，便不可能在审美上不同。这三者分别是：跨对象随附、跨时间随附、跨世界随附。（“随附”常在“依赖”标题下讨论，但它们是不同的关系，以复杂方式相关联。）西布利的论文《审美概念》与《审美的/非审美的》是讨论审美依赖于非审美这一问题的开创性文献（Sibley 1959, 1965）[^sibley-1959]。（有趣的是，他从未用模态术语描述这种依赖。
+    step2: |-
+      我们也相信，美、丑等审美属性依赖于非审美属性。依赖与心灵独立性相对：它说的是审美属性确实仰赖什么，而非不仰赖什么——事物的审美属性仰赖其非审美属性。这一依赖关系蕴含（但不等于）随附关系：（a）两个审美上不同的东西，非审美上必也不同；（b）某物若审美上改变，必也非审美上改变；（c）某物若在非审美上无差，审美上便不可能有差。三者分别是跨对象随附、跨时间随附、跨世界随附。（“随附”常挂在“依赖”名下讨论，其实是另一层关系，二者以复杂方式相连。）西布利的《审美概念》与《审美的/非审美的》是讨论这一依赖关系的开创之作（Sibley 1959, 1965）[^sibley-1959]。（有趣的是，他始终未用模态语汇描述这种依赖。
   - id: 50
     kind: body
     source: |-
       This claim is very intuitive, but let us try to say something more in support of it. It seems to be a deep fact about beauty and other aesthetic properties that they are inherently “sociable”; beauty cannot be lonely. Something cannot be barely beautiful; if something is beautiful then it must be in virtue of its nonaesthetic properties. Furthermore, knowing this is a constraint on our judgments about beauty and other aesthetic properties. We cannot just judge that something is beautiful; we must judge that it is beautiful in virtue of its nonaesthetic properties. We usually do so, and not to do so is bizarre. (Even in cases of testimony, we think that the aesthetic properties of a thing hold in virtue of nonaesthetic properties that the aesthetic expert knows.) Of course, we might not have in mind every single nonaesthetic property of the thing, nor know exactly how the nonaesthetic properties produce their aesthetic effects. But we think that certain nonaesthetic properties are *responsible* for the aesthetic properties and that without those nonaesthetic properties, the aesthetic properties would not have been instantiated. Beauty does not float free, and recognizing this is constitutive of aesthetic thought. Our aesthetic thought, therefore, is fundamentally different from our thought about colors, with which it is often compared. Perhaps colors are tied in some intimate way to intrinsic or extrinsic physical properties of the surfaces of things, such as reflectance properties. But color thought does not presuppose this. Someone might even think that colors are bare properties of things. But one cannot think that beauty is bare; it is essential to aesthetic thought to realize that the aesthetic properties of a thing arise from its nonaesthetic properties.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一主张非常符合直觉，但让我们试着多说一些来支持它。美与其他审美属性有一个似乎很深的事实：它们在本质上“合群”；美不能孤独。某物不可能只是单纯地美；如果某物是美的，它必定凭借其非审美属性而美。而且，知道这一点是对我们关于美及其他审美属性之判断的约束。我们不能只判断某物是美的；我们必须判断它凭借其非审美属性而美。我们通常这样做，不这样做就很古怪。（即使在证言的情形中，我们也认为一个事物的审美属性凭借审美专家所知的非审美属性而成立。）当然，我们未必心中装着该事物每一个非审美属性，也未必确切知道非审美属性如何产生其审美效果。但我们认为某些非审美属性对审美属性负有责任，且若没有那些非审美属性，审美属性就不会被实例化。美不自由漂浮；认识到这一点是审美思想的构成要素。因此，我们的审美思想从根本上不同于我们关于颜色的思想，后者常被拿来与审美思想相比。也许颜色以某种亲密方式与物体表面的内在或外在物理属性（如反射率属性）相关联。但颜色思想并不预设这一点。有人甚至可能认为颜色是事物的裸属性。但人不能认为美是裸的；认识到事物的审美属性源自其非审美属性，是审美思想的本质。
+    step2: |-
+      这一主张十分合乎直觉，但还可以再补充些理由。美与其他审美属性似乎有一个深层的事实：它们天生“合群”，美不能孤单。没有赤裸的美：某物若是美的，必是凭借其非审美属性而美。而且，明白这一点，本身就是对我们审美判断的约束：我们不能只判断某物美，必须判断它凭借哪些非审美属性而美；我们通常正是如此，不如此反倒古怪。（即便是凭他人证言下判断，我们也认为事物的审美属性凭借审美行家所知的非审美属性而成立。）当然，我们未必把事物的每一项非审美属性都放在心上，也未必确知非审美属性如何产生审美效果；但我们认定某些非审美属性对审美属性 **负有责任**，若没有它们，审美属性便无从实例化。美不自由漂浮，认清这一点是审美思想的构成部分。因此，我们的审美思想与常被拿来相比的颜色思想有根本差异：颜色或许以某种亲密方式系于物体表面的内在或外在物理属性（如反射率），但颜色思想并不预设这一点，甚至有人以为颜色是事物的裸属性；然而人不能以为美是裸的——审美思想的本质，正在于认识到事物的审美属性源自其非审美属性。
   - id: 51
     kind: body
     source: |-
       The principles of correctness, mind-independence and dependence can be phrased in the property mode or in terms of truth. We can cast them either way. We can say that whether something is beautiful does not depend on what we think about it, but it does depend on its nonaesthetic features. Or we can equally well say that the truth of aesthetic judgments is independent of our aesthetic judgments but it is dependent on nonaesthetic truths. Semantic ascent changes little.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正确性、心灵独立性与依赖这三条原则，可以用属性模式表述，也可以用真理措辞表述。两种都行。我们可以说，某物是否美不取决于我们对它的看法，但确实取决于它的非审美特征。或者同样可以说，审美判断的真独立于我们的审美判断，却依赖于非审美真理。语义上升改变不了多少。
+    step2: |-
+      正确性、心灵独立性、依赖这三条原则，既可写成属性样式，也可写成真理样式，两者等价。我们既可以说：某物是否美，不取决于我们怎么想，却取决于它的非审美特征；也可以说：审美判断之真独立于我们的审美判断，却依赖于非审美真理。语义上升并未改变什么。
   - id: 52
     kind: body
     source: |-
       ### 2.3 On Which Non-aesthetic Properties Do Aesthetic Properties Depend?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 审美属性依赖于哪些非审美属性？
+    step2: |-
+      ### 2.3 审美属性依赖于哪些非审美属性？
   - id: 53
     kind: body
     source: |-
       Some have argued that what aesthetic properties depend on (their “dependence base”) extends beyond the intrinsic physical and sensory features of the object of aesthetic assessment (for example Walton 1970)[^walton-1970], who follows Gombrich 1959, especially p. 313). On this view, the nonaesthetic dependence base always includes “contextual properties”—matters to do with the origin of the work of art, or other works of art. Others dispute this (Zangwill 1999)[^zangwill-1999]. This is one aspect of debates over formalism in many domains. These issues are both central theoretical commitments as well as reflecting substantive aesthetic differences in the approach to making and appreciating various arts, as well as the aesthetics of nature. But such debates all presuppose that *some* dependence thesis holds. The controversial questions are about the *extent* of the dependence base of aesthetic properties, not *whether* aesthetic properties have some nonaesthetic dependence base.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人认为，审美属性所依赖的东西（其“依赖基础”）超出了审美评价对象的固有物理与感官特征（例如 Walton 1970[^walton-1970]，他追随 Gombrich 1959，尤其第 313 页）。按这种观点，非审美依赖基础总是包含“语境属性”——与艺术品来源或与其他艺术品相关的事项。另一些人对此有异议（Zangwill 1999）[^zangwill-1999]。这是许多领域中形式主义之争的一个侧面。这些问题既是核心的理论承诺，也反映了在创作与欣赏各门艺术以及自然美学进路上的实质审美差异。但此类争论都预设了某个依赖论题成立。有争议的问题是审美属性依赖基础的广度，而不是审美属性是否有某个非审美依赖基础。
+    step2: |-
+      有人认为，审美属性所依赖的东西（其“依赖基础”）不止于审美对象的固有物理与感官特征（如 Walton 1970[^walton-1970]，他追随 Gombrich 1959，尤见第 313 页）。照此看法，非审美的依赖基础总包含“语境属性”——涉及作品来源、或涉及其他作品的事项。也有人不以为然（Zangwill 1999）[^zangwill-1999]。这是各领域形式主义之争的一个侧面：这些分歧既是核心的理论立场，也反映了创作与欣赏各门艺术、乃至自然美学上的实质差异。但这类争论都预设某种依赖论题成立；真正有争议的是审美属性依赖基础的 **范围**，而非审美属性 **有无** 非审美依赖基础。
   - id: 54
     kind: body
     source: |-
       One view is that aesthetic properties depend on the *appearances* of things—the way things look or sound, for example (see Mitrović 2013, 2018)[^mitrović-2013]. If so, there is *a* sense in which aesthetic properties are mind-dependent, since appearances are appearances to some observer. However, some say that there can be aesthetic properties of abstract objects such as mathematical or logical proofs or structures. Others say that ideas or concepts in conceptual art may be the bearers of aesthetic properties. (Schellekens 2007)[^schellekens-2007]. *Those* aesthetic properties would be mind-independent. The question of the aesthetic properties of abstract objects is a controversial one (Kivy 1991, Barker 2009)[^barker-2009][^kivy-1991].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种观点是，审美属性依赖于事物的“外观”——例如事物看起来或听起来的样子（见 Mitrović 2013, 2018）[^mitrović-2013]。如果是这样，那么从某种意义上说审美属性是心灵依赖的，因为外观是对某个观察者而言的外观。然而，有人说数学或逻辑证明或结构等抽象对象也可以具有审美属性。另一些人说，概念艺术中的观念或概念可能是审美属性的承担者。（Schellekens 2007）[^schellekens-2007]。**那些**审美属性将是心灵独立的。抽象对象的审美属性问题是一个有争议的问题（Kivy 1991, Barker 2009）[^barker-2009][^kivy-1991]。
+    step2: |-
+      一种看法是：审美属性依赖于事物的“外观”——比如事物看上去或听上去的样子（见 Mitrović 2013, 2018）[^mitrović-2013]。果如此，审美属性便在某种意义上依赖心灵，因为外观总是对某个观察者而言的外观。然而有人说，数学证明、逻辑证明或结构这类抽象对象也能有审美属性；也有人说，概念艺术中的观念或概念可以是审美属性的承担者（Schellekens 2007）[^schellekens-2007]。**这些** 审美属性便是心灵独立的。抽象对象有无审美属性，本身是个争议问题（Kivy 1991, Barker 2009）[^barker-2009][^kivy-1991]。
   - id: 55
     kind: body
     source: |-
       ### 2.4 Dependence and Lawlessness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4 依赖与无规律性
+    step2: |-
+      ### 2.4 依赖与无规律性
   - id: 56
     kind: body
     source: |-
       Thus far we have been making positive claims about features of aesthetic judgments. Let us now consider the claim that there are no interesting nonaesthetic-to-aesthetic laws or principles, and the claim that an aesthetic/nonaesthetic dependence relation can obtain, even though there are no such interesting laws or principles. Here “interesting” laws or principles means generalizations to the effect that anything of such and such a nonaesthetic kind is of such and such aesthetic kind, *and* these generalizations can be used to predict aesthetic properties on the basis of knowledge of nonaesthetic properties. In this sense, many find it plausible that there are no laws of taste and aesthetic properties are anomalous.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到目前为止，我们一直在对审美判断的特征作肯定性主张。现在让我们考虑这一主张：不存在有意思的从非审美到审美的规律或原则；以及这一主张：尽管没有这类有意思的规律或原则，审美/非审美的依赖关系仍然可以成立。这里“有意思的”规律或原则，指的是这样的概括：凡属某某非审美种类的东西都属于某某审美种类；并且这些概括可用来根据非审美属性的知识预测审美属性。在这个意义上，许多人觉得可信：没有趣味规律，审美属性是反常的（anomalous）。
+    step2: |-
+      至此，我们谈的都是审美判断具有哪些特征。现在来看两个主张：一是不存在有意义的非审美→审美规律或原则；二是即便没有这类规律或原则，审美/非审美的依赖关系仍可成立。所谓“有意义的”规律或原则，指这样的概括——凡某某非审美类型之物，即属某某审美类型——且可据非审美属性的知识预测审美属性。在这个意义上，许多人认为：趣味无规律，审美属性是反常的（anomalous）。
   - id: 57
     kind: body
     source: |-
       The problem of the source of correctness in aesthetic judgment is independent of the question of whether there are laws, rules or principles of taste. There is no reason to think that the possibility of correct or true judgments depends on the existence of laws, rules or principles from which we can deduce our correct or true judgments.[^note-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      审美判断中正确性之源的问题，独立于是否存在趣味规律、规则或原则的问题。没有理由认为，正确或真判断的可能性取决于存在这样的规律、规则或原则——我们可以从中推出自己的正确或真判断。[^note-2]
+    step2: |-
+      审美判断的正确性从何而来，与有无趣味规律、规则或原则，是两个独立的问题。没有理由认为：正确或真的判断之所以可能，取决于存在可供我们据以推出这类判断的规律、规则或原则。[^note-2]
   - id: 58
     kind: body
     source: |-
       Nevertheless, the anomalousness of aesthetics is worth thinking about in its own right. Many aestheticians agree that the aesthetic is anomalous in the above sense. But they are not agreed on the *explanation* of anomalousness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，审美的反常性本身也值得思考。许多美学家同意，审美在上述意义上是反常的。但他们对反常性的**解释**意见不一。
+    step2: |-
+      不过，审美的反常性本身值得一议。不少美学家都同意审美在上述意义上是反常的，但对这种反常性 **如何解释**，意见并不一致。
   - id: 59
     kind: body
     source: |-
       A notable exception to this consensus is Monroe Beardsley, who claims—heroically and extraordinarily—that there are exactly three aesthetic principles: things are aesthetically excellent either by being unified or intense or complex (Beardsley 1958: chapter XI)[^beardsley-1958]. However, Beardsley’s “trinitarian” position faces difficulties similar to those faced by moral philosophers who appeal to “thick” concepts. If Beardsley insists on a lawlike connection between his three thick substantive aesthetic properties (unity, intensity and complexity) and aesthetic value, he can only do so at the cost of conceding anomalousness between the three thick substantive aesthetic properties and nonaesthetic properties. There are three layers and one can hold onto laws between the top and middle layers only by losing laws between the middle and bottom layers. Maybe intensity is always aesthetically good, but there are no laws about what makes things intense.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一共识的一个显著例外是门罗·比尔兹利，他勇敢而出奇地主张：恰好有三条审美原则——事物之所以在审美上卓越，或因其统一，或因其强烈，或因其复杂（Beardsley 1958: 第十一章）[^beardsley-1958]。然而，比尔兹利的“三位一体”立场面临与诉诸“厚”概念的道德哲学家相似的困难。如果比尔兹利坚持他的三个厚实质审美属性（统一、强烈、复杂）与审美价值之间的规律性联系，他只能以承认三个厚实质审美属性与非审美属性之间的反常性为代价。有三个层次，人只有放弃中间层与底层之间的规律，才能保住顶层与中间层之间的规律。也许强烈总是在审美上好的，但关于什么使事物强烈，却没有规律。
+    step2: |-
+      这一共识的显著例外是门罗·比尔兹利。他勇敢得近乎离奇地主张：审美原则恰好有三条——事物在审美上卓越，或因为统一，或因为强烈，或因为复杂（Beardsley 1958：第十一章）[^beardsley-1958]。然而，比尔兹利这套“三位一体”说，会撞上道德哲学家诉诸“厚”概念时的同类困难。他若坚持三个厚实质审美属性（统一、强烈、复杂）与审美价值之间有规律性联系，就只能以牺牲这三个属性与非审美属性之间的规律为代价。层次有三，保住顶层与中层之间的规律，便失去中层与底层之间的规律。也许强烈总是在审美上为好，但什么使事物强烈，却无规律可言。
   - id: 60
     kind: body
     source: |-
       Granting the anomalousness of aesthetic properties, then, we need to explain it. There is much plausibility in Hume and Kant’s suggestion that what explains the anomalousness of the aesthetic is the first feature of judgments of taste—that judgments of taste are essentially subjective, unlike ordinary empirical judgments about physical, sensory, or semantic properties (Hume 1757 [1985: 231–232]; Kant 1790, 5: 213–216, 281–286 [2000: 99–101, 136–142, 162–167])[^hume-1757][^kant-1790]. This is why the two sorts of concepts are not “nomologically made for each other” (as Donald Davidson [1970] says about mental and physical concepts). How can we bring an essentially subjective range of judgments nomologically into line with a range of empirical judgments? The two kinds of judgments answer to quite different sets of constraints. Frank Sibley observed that aesthetic concepts are not positively “condition-governed” (Sibley 1959)[^sibley-1959]. And Mary Mothersill claimed that there are no laws of taste. But neither did much to explain those facts. The appeal to subjectivity explains what Sibley and Mothersill notice and describe. Indeed, Mothersill writes of her “First Thesis” (FT) that there are no genuine principles or laws of taste: “…FT is central to aesthetics, and there is nothing more fundamental from which it could be derived” (Mothersill 1984: 143)[^mothersill-1984]. But it seems that it *can* be derived from the subjectivity of judgments of taste.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么，承认审美属性的反常性之后，我们需要解释它。休谟与康德的建议颇有道理：解释审美反常性的，是趣味判断的第一个特征——趣味判断本质上是主观的，不同于关于物理、感官或语义属性的普通经验判断（Hume 1757 [1985: 231–232]; Kant 1790, 5: 213–216, 281–286 [2000: 99–101, 136–142, 162–167]）[^hume-1757][^kant-1790]。这就是为什么两类概念并非“为彼此而由法则造就”（如唐纳德·戴维森[1970]论心理概念与物理概念时所说）。我们如何能把本质上主观的一类判断，以法则方式与一类经验判断对齐？两类判断服从相当不同的约束。弗兰克·西布利观察到，审美概念并不正面地“受条件支配”（Sibley 1959）[^sibley-1959]。玛丽·马瑟西尔则声称没有趣味规律。但两人都没有多做解释。诉诸主观性，正好解释了西布利与马瑟西尔所注意并描述的事实。事实上，马瑟西尔谈到她的“第一论题”（FT）说：不存在真正的趣味原则或规律；“……FT 是美学的核心，没有比它更根本的东西可以从中推出它”（Mothersill 1984: 143）[^mothersill-1984]。但看来它**可以**从趣味判断的主观性推出。
+    step2: |-
+      承认了审美属性的反常性，就得解释它。休谟与康德的想法颇有道理：审美的反常，根子在趣味判断的第一个特征——趣味判断本质上是主观的，不同于关于物理、感官或语义属性的寻常经验判断（Hume 1757 [1985: 231–232]；Kant 1790，5: 213–216, 281–286 [2000: 99–101, 136–142, 162–167]）[^hume-1757][^kant-1790]。正因如此，两类概念并非“在法则上为彼此而生”（借唐纳德·戴维森[1970]论心理与物理概念之语）。本质上主观的一类判断，如何能与一类经验判断在法则上对齐？两类判断所服从的约束大不相同。弗兰克·西布利指出，审美概念并不正面地“受条件支配”（Sibley 1959）[^sibley-1959]；玛丽·马瑟西尔则断言趣味无规律。但两人都未多加解释。诉诸主观性，恰好解释了西布利与马瑟西尔所注意并描述的现象。马瑟西尔论其“第一论题”（FT）时写道：不存在真正的趣味原则或规律，“……FT 是美学的枢纽，再没有比它更根本的东西可供推导”（Mothersill 1984: 143）[^mothersill-1984]。但看来它 **可以** 从趣味判断的主观性推出。
   - id: 61
     kind: body
     source: |-
       This kind of anomalousness is one thing, dependence or supervenience another. Even though aesthetic properties are anomalous, they depend and supervene on nonaesthetic properties. Many find such a combination of relations uncomfortable outside aesthetics, such as in moral philosophy and the philosophy of mind. Yet there seem to be good reasons to embrace both principles in aesthetics. Both are firmly rooted in ordinary aesthetic thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种反常性是一回事，依赖或随附是另一回事。即使审美属性是反常的，它们仍依赖并随附于非审美属性。许多人觉得，在美学之外（例如道德哲学与心灵哲学中），这种关系组合令人不安。但在美学中，似乎有充分理由同时接受两条原则。两者都牢牢植根于日常审美思想。
+    step2: |-
+      反常性是一回事，依赖或随附是另一回事。审美属性虽属反常，却仍依赖并随附于非审美属性。在美学之外——如道德哲学、心灵哲学——许多人觉得这种关系组合难以安顿；但在美学中，似乎有充分理由两条原则都收。二者都深植于日常审美思想。
   - id: 62
     kind: body
     source: |-
       ### 2.5 The Primacy of Correctness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.5 正确性的优先地位
+    step2: |-
+      ### 2.5 正确性的优先地位
   - id: 63
     kind: body
     source: |-
       Aesthetic judgments have certain essential features, and corresponding to those features are certain principles. We can group correctness, mind-independence, and nonaesthetic dependence together. However, it does no harm to focus on the feature of correctness or universal validity for this is the most basic of the features. If aesthetic judgments did not claim correctness or universal validity, they could not claim the other features. If explaining correctness or universal validity is a problem, then so is explaining mind-independence and dependence. But clearly there *is* a problem about explaining all three features. Why does our aesthetic thought have these three features and thus operate according to these three principles? And what is the source of the *right* of aesthetic judgments to them? Hume and Kant spend much mental effort on these questions. These presuppositions of aesthetic judgments need to be explained and justified. Given that our aesthetic judgments have these commitments, we need to know how such judgments are possible, how they are actual, and how they are legitimate. Having described and analyzed, as we have done here, we need to explain and justify. But, as noted earlier, we first need a good description of what we are trying to explain and justify.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      审美判断有某些本质特征，与这些特征相应的是某些原则。我们可以把正确性、心灵独立性与非审美依赖归为一组。不过，聚焦于正确性或普遍有效性的特征并无坏处，因为这是诸特征中最基本的。如果审美判断不要求正确性或普遍有效性，它们也就不能要求其他特征。如果解释正确性或普遍有效性是个问题，那么解释心灵独立性与依赖也是问题。但显然，解释这全部三个特征确实是个问题。为什么我们的审美思想具有这三个特征，从而按这三条原则运作？审美判断拥有它们的权利又从何而来？休谟与康德在这些问题上耗费了大量心力。审美判断的这些预设需要解释与证成。既然我们的审美判断有这些承诺，我们就需要知道这类判断如何可能、如何实际、如何正当。在如本文所做的那样描述与分析之后，我们需要解释与证成。但如前所述，我们首先需要对我们试图解释与证成的东西有一个好的描述。
+    step2: |-
+      审美判断有若干本质特征，与之相应的是若干原则。正确性、心灵独立性、非审美依赖可归为一组。不过，聚焦正确性或普遍有效性并无妨害，因为它最为基本：审美判断若不要求正确性或普遍有效性，其余特征也无从要求。解释正确性即难题，解释心灵独立性与依赖同样是难题。而这三个特征显然 **都** 有待解释：我们的审美思想何以具备这三者，从而按这三条原则运作？审美判断凭什么 **有权** 如此？休谟与康德在这些问题上费尽心力。这些预设需要解释与证成。既已承认审美判断有这些承诺，就须弄清这类判断如何可能、如何实际、如何正当。如本文这样描述分析之后，还得解释与证成；但如前所说，先得把要解释、要证成的东西描述清楚。
   - id: 64
     kind: body
     source: |-
       ## 3. Disinterestedness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 无利害性
+    step2: |-
+      ## 3 无利害性
   - id: 65
     kind: body
     source: |-
       ### 3.1 Disinterestedness: More and Less Ambitious
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 无利害性：更强与更弱的版本
+    step2: |-
+      ### 3.1 无利害性：更强与更弱的版本
   - id: 66
     kind: body
     source: |-
       An idea that plays a large role in Kant’s discussion of the subjective universality of the judgment of taste is that of disinterestedness; and the idea has appealed to many. Kant makes two claims: (a) that pleasure in the beautiful is “disinterested”; and (b) that only pleasure in the beautiful is “disinterested” (Kant 1790, 5: 204–210 [2000: 90–96: 42–50])[^kant-1790]. These claims are important for Kant’s project, for Kant connects disinterestedness with the claim to universal validity of the judgment of taste. Before we go any further, it is important to recognize that the German word “*interesse*” has a special meaning in eighteenth century German, and it should not be confused with similar sounding English words or contemporary German words. For Kant, an *interesse* means a kind of pleasure that is not connected with desire; it is neither grounded in desire, nor does it produce it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在康德关于趣味判断之主观普遍性的讨论中，无利害性这一观念起了很大作用；这一观念也吸引了很多人。康德提出两个主张：（a）对美的愉悦是“无利害的”；（b）只有对美的愉悦是“无利害的”（Kant 1790, 5: 204–210 [2000: 90–96: 42–50]）[^kant-1790]。这些主张对康德的计划很重要，因为康德把无利害性与趣味判断的普遍有效性要求联系起来。在进一步讨论之前，重要的是认识到：德语词“interesse”在十八世纪德语中有特殊含义，不应与发音相似的英语词或当代德语词相混淆。对康德来说，interesse 意指一种不与欲望相连的愉悦；它既不基于欲望，也不产生欲望。
+    step2: |-
+      在康德关于趣味判断之主观普遍性的讨论中，“无利害性”是个吃重的观念，也颇得后人青睐。康德有两个主张：（a）对美的愉悦是“无利害的”；（b）唯有对美的愉悦是“无利害的”（Kant 1790，5: 204–210 [2000: 90–96, 42–50]）[^kant-1790]。这两条对康德的整个计划至为要紧，因为他把无利害性与趣味判断的普遍有效性要求挂钩。动身之前，须先辨明：德语词“interesse”在十八世纪德语中有特殊含义，不可与发音相近的英语词或现代德语词混为一谈。对康德来说，interesse 意指一种不与欲望相连的愉悦；它既不基于欲望，也不产生欲望。（译注：原文如此。按《判断力批判》，Interesse 恰恰指与对象实存相联、因而不离欲望的愉悦，与“无利害”相对；此处疑为原文笔误，译文照录。）
   - id: 67
     kind: body
     source: |-
       We should distinguish Kant’s more ambitious thesis that *only* pleasure in the beautiful is disinterested from his less ambitious claim simply that pleasure in the beautiful *is* disinterested—for it seems that there could in principle be other disinterested pleasures. The less ambitious claim, however, is controversial enough.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们应当区分康德更宏大的论题——只有对美的愉悦才是无利害的——与他较不宏大的主张：对美的愉悦是无利害的——因为原则上似乎可能有其他无利害的愉悦。不过，较不宏大的主张已足够有争议。
+    step2: |-
+      康德的宏论是：唯有对美的愉悦才是无利害的；谦逊一些的主张则只是：对美的愉悦确是无利害的。二者须分开——因为原则上似乎还可以有别种无利害的愉悦。不过，就连这谦逊的主张也够有争议了。
   - id: 68
     kind: body
     source: |-
       A relatively uncontroversial part of the less ambitious claim is that pleasure in the beautiful is not *grounded* in the satisfaction of desire. It is plausible, surely, that when we take pleasure in something that we find beautiful, this is not pleasure in the thought that we have got something that we desire. Kant wants pleasure in the beautiful to be open to all (so there should be no “aesthetic luck”), and if desires vary from person to person, it seems that we could not *require* that pleasure from everyone, as the idea of universal validity requires. The claim to universal validity would be lost if pleasure in beauty were not disinterested in the sense of not being based on desire. This part of the idea of disinterestedness has much plausibility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      较不宏大主张中相对无争议的部分是：对美的愉悦并不基于欲望的满足。当我们从觉得美的东西中获得愉悦时，这种愉悦并不是想到我们得到了想要的东西时的愉悦——这无疑是可信的。康德希望对美的愉悦向所有人开放（因此不应有“审美运气”），而如果欲望因人而异，看来我们就不能像普遍有效性观念所要求的那样，从每个人那里要求这种愉悦。如果对美的愉悦不是无利害的（即不基于欲望），普遍有效性要求就会落空。无利害性观念的这一部分很有道理。
+    step2: |-
+      谦逊主张中较无争议的一点是：对美的愉悦并不以欲望的满足为根据。当我们从觉得美的东西中获得愉悦，这并非“想要之物已到手”的那种愉悦——这一点应当可信。康德希望对美的愉悦向人人开放（因而不该有“审美运气”）；而欲望若因人而异，我们便无法像普遍有效性所要求的那样，向每个人索取这种愉悦。对美的愉悦若不以“不基于欲望”意义上的无利害为性质，普遍有效性的要求便告落空。无利害性观念的这一半颇有道理。
   - id: 69
     kind: body
     source: |-
       ### 3.2 Problems with Disinterestedness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 无利害性的问题
+    step2: |-
+      ### 3.2 无利害性的问题
   - id: 70
     kind: body
     source: |-
       However, it is not so clear that pleasure in the beautiful does not *produce* desire, which Kant also requires for a pleasure to be disinterested. The issue here is whether the pleasure can produce desire *from itself*. Kant admits that we have certain general concerns with beauty that mean that desire may follow from a judgment of beauty, but according to Kant, such desires do not have their source solely in pleasure in the beautiful (Kant 1790, sections 41 and 42, on “empirical interest” and “intellectual interest)[^kant-1790]. It may be that we have desires concerning beautiful things, as Kant allows in sections 41 and 42 of the *Critique of Judgment*, but so long as those desires are not intrinsic to the pleasure in beauty, the doctrine that all pleasure in beauty is disinterested is undisturbed. (Critics of Kant sometimes miss this point.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，对美的愉悦是否不产生欲望，并不那么清楚，而康德也要求愉悦不产生欲望才算无利害。这里的问题在于：愉悦能否从自身产生欲望。康德承认，我们对美有某些一般关切，这意味着欲望可能随美的判断而来；但按康德，这类欲望的来源并不单纯在对美的愉悦之中（Kant 1790, 第 41、42 节，论“经验的利害”与“智性的利害”）[^kant-1790]。也许我们对美的事物有欲望，如康德在《判断力批判》第 41、42 节所容许；但只要这些欲望并非内在于对美的愉悦，那么“一切对美的愉悦都是无利害的”这一学说便不受干扰。（康德的批评者有时错过这一点。）
+    step2: |-
+      然而，对美的愉悦是否不产生欲望，却不那么清楚——而康德要求：愉悦须不产生欲望，才算无利害。问题在于：愉悦能否从自身生出欲望。康德承认，我们对美有某些一般性的关切，欲望确可随美的判断而来；但按康德，这类欲望的来源并不单纯在对美的愉悦之中（Kant 1790，第 41、42 节，论“经验的利害”与“智性的利害”）[^kant-1790]。如康德在《判断力批判》第 41、42 节所许，我们对美的事物可以怀有欲望；只要这些欲望并非内在于对美的愉悦，“一切审美愉悦皆无利害”之说便安然无恙。（康德的批评者有时错过这一点。）
   - id: 71
     kind: body
     source: |-
       The less ambitious thesis is controversial because of the second component. An opponent of Kant might claim, not implausibly, that pleasure in beauty *can* produce desire by itself. It is not clear who is right on this point.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      较不宏大的论题之所以有争议，是因为第二个组成部分。康德的反对方可能不无道理地主张：对美的愉悦本身能够产生欲望。在这一点上谁对，并不清楚。
+    step2: |-
+      谦逊论题之所以仍有争议，就因它的第二半：反对康德的人可以颇为合理地主张，对美的愉悦本身就能生出欲望。这一点上谁是谁非，尚未分明。
   - id: 72
     kind: body
     source: |-
       Moreover, whether *only* pleasure in beauty is disinterested, and no other kind of pleasures are disinterested—the ambitious thesis—is also controversial. These are live issues. Kant’s views have much to be said for them. But we can also sympathize with those who are doubtful.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，是否只有对美的愉悦才是无利害的、其他种类的愉悦都不是无利害的——这个宏大论题——也有争议。这些都是活的问题。康德的看法很值得一说。但我们也可以同情那些存疑的人。
+    step2: |-
+      再进一步，“是否唯有对美的愉悦无利害、其他愉悦皆有利害”这一宏论，同样有争议。这些都是仍在争论的问题。康德的看法有其道理，我们也尽可同情存疑者。
   - id: 73
     kind: body
     source: |-
       Hume would probably deny Kant’s separation of pleasure in beauty from the motivations that lead us to act. Like other British sentimentalists, Hume thinks that sentiment and passion both fall on the active side of the human mind. So, sentiments are active in themselves. However, this aspect of the British sentimentalist views looks like a general weakness since they have no convincing place for a faculty of practical reason, and that means, in turn, that they lack any intelligible conception of human action (Korsgaard 1996, 2009)[^korsgaard-1996]. Hume’s psychology has no plausible understanding of human agency; we are pushed around by our passions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      休谟大概会否认康德把对美的愉悦与驱使我们行动的动机分开。像其他英国情感主义者一样，休谟认为情感与激情都落在人类心灵的主动一侧。所以，情感本身是主动的。然而，英国情感主义观点的这一方面看来是一种普遍弱点，因为他们没有为实践理性能力留下令人信服的位置；这又意味着，他们缺乏任何可理解的人类行动概念（Korsgaard 1996, 2009）[^korsgaard-1996]。休谟的心理学没有对人类能动性给出可信的理解；我们被自己的激情推来推去。
+    step2: |-
+      休谟多半会否认康德把审美愉悦与驱使我们行动的动机分开。与英国情感主义诸家一样，休谟认为情感与激情都位于心灵的主动一侧，情感本身即是主动的。然而这也暴露了英国情感主义的一个普遍弱点：他们没有给实践理性能力留下可信的位置，因而也缺乏可理解的人类行动概念（Korsgaard 1996, 2009）[^korsgaard-1996]。休谟的心理学对人类能动性没有可信的说明：我们不过被激情推来推去。
   - id: 74
     kind: body
     source: |-
       In his *Genealogy of Morals*, Friedrich Nietzsche targets Kant’s separation of pleasure in beauty from desire, a separation that is designed to make beauty *available* to all human beings (Nietzsche 1887 [1998], book 3, section 6, the first page, but not what follows, which targets Schopenhauer)[^nietzsche-1887]. This criticism is distinct from criticism of the idea that judgments of beauty are *valid* for all human beings. Nietzsche protests that the idea of pleasure in beauty is cut-off from the particularities and idiosyncrasies of our passionate lives is unrealistic and undesirable. It is not clear who is right here. The nub of the issue is the nature of pleasure in the beautiful. Does it have its source in what Human beings share, or in what distinguishes them? Kant might argue, against Nietzsche, that seeing pleasure in beauty as springing from what varies between people, not only places people at the mercy of their good or bad aesthetic upbringing, but also makes untenable the normative claims to correctness or universal validity that are part of judgments of beauty, as we ordinarily conceive of them. “Ought”, in this case, seems to imply “can”. If we lack what it takes to appreciate a certain beauty, then it cannot be required of us, and the normativity of the judgment of taste would be lost. Or so it seems. If judgments of beauty were based on variable pleasures or displeasures, then it seems that the claim to correctness is fraudulent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《道德谱系学》中，弗里德里希·尼采攻击康德把对美的愉悦与欲望分开，而这一分离旨在使美向一切人开放（Nietzsche 1887 [1998]，第 3 篇第 6 节，第一页，但不及后文，后文针对叔本华）[^nietzsche-1887]。这一批评不同于对“美的判断对一切人有效”这一观念的批评。尼采抗议说：把审美愉悦观念与我们激情生活的特殊性与乖僻割裂开，既不切实际也不可欲。这里谁对并不清楚。问题的要点在于对美的愉悦之性质：它的源头在于人类共有之物，还是在于使人们彼此有别之物？康德可能反驳尼采说：把审美愉悦看作源于人与人相异之处，不仅使人受制于自己或好或坏的审美教养，而且会使我们通常设想的美的判断中那种要求正确性或普遍有效性的规范主张无法成立。在此情形下，“应当”似乎蕴含“能够”。如果我们缺乏欣赏某种美所需的条件，那就不能要求我们如此，趣味判断的规范性也就丧失了。至少看来如此。如果美的判断基于可变的愉悦或不悦，那么正确性要求看来就是骗人的。
+    step2: |-
+      在《道德谱系学》中，尼采把矛头对准康德“审美愉悦与欲望相分离”之说——这一分离意在使美向一切人 **开放**（Nietzsche 1887 [1998]，第 3 篇第 6 节，仅第一页；后文另有所指，针对的是叔本华）[^nietzsche-1887]。这与批评“美的判断对一切人 **有效**”是两回事。尼采抗议说：把审美愉悦同我们激情生活中种种特殊与乖僻割裂开来，既不切实际，也不可取。此处谁是谁非，尚不清楚。要害在于审美愉悦的性质：它的源头究竟在人类共有之处，还是在使人彼此相异之处？康德可以这样回敬尼采：若把审美愉悦看作源自人各相异之处，不但使人受制于自己或好或坏的审美教养，还会使我们平常所设想的美的判断中那种要求正确性或普遍有效性的规范主张站不住脚。此处的“应当”似乎蕴含“能够”：我们若缺乏欣赏某种美所需的能力，就不能被要求去欣赏，趣味判断的规范性便随之丧失——至少看来如此。若美的判断基于可变的愉悦或不悦，所谓正确性要求便成了骗局。
   - id: 75
     kind: body
     source: |-
       But this only follows if we follow Kant in locating pleasure in beauty, and our right to make judgments of beauty, in faculties that all human beings share. Perhaps there are rarefied beauties that only Nietzsche’s elite special souls can appreciate. For Kant, there is an aesthetic “ought” that binds all human beings only because we share the cognitive faculties that it takes to have the pleasure in question. But this is not the only conceivable source of the aesthetic “ought”. One non-Kantian suggestion would be to locate the source of normativity of the judgment of taste, in the world, not in what human beings share. This would be to invoke a kind of “aesthetic realism”, whereby beauty and ugliness are genuine properties of the world, which make our judgments better or worse. That view might seem metaphysically extravagant. The trouble, though, is how to understand the aesthetic “ought” without that kind of view. Not easy! On a realist view, beauty need not be universally available. But if so, it seems that the rationale for Kant’s doctrine(s) of disinterestedness falls away. The Kantian and perhaps Humean view locates the source of normativity in what we share. But Nietzsche would ask: is there, and should there, be something that humans share in their responses to beauty? Do we want aristocratic or democratic aesthetics?[^note-3]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但只有当我们跟随康德，把对美的愉悦以及我们作美的判断的权利定位在一切人共有的能力中，才会得出上述结论。也许存在只有尼采的精英特殊灵魂才能欣赏的高渺之美。对康德来说，存在一种约束一切人的审美“应当”，只是因为我们共有产生此种愉悦所需的认识能力。但这并非审美“应当”唯一可设想的来源。一种非康德式的建议是：把趣味判断规范性的来源定位在世界之中，而不是在人类共有之物中。这会召唤一种“审美实在论”：美与丑是世界的真实属性，使我们的判断有好有坏。那种观点在形而上学上也许显得过分。然而麻烦在于：若没有那种观点，该如何理解审美“应当”？不容易！按实在论观点，美不必人人可得。但若如此，康德无利害性学说的理据似乎就落空了。康德式（或许还有休谟式）观点把规范性来源定位在我们共有之物中。但尼采会问：在人对美的反应中，是否存在、是否应当存在某种人类共有之物？我们要贵族式美学，还是民主式美学？[^note-3]
+    step2: |-
+      但这只有跟着康德、把审美愉悦和我们作美的判断的权利都安放在人人共有的能力上，才推得出来。也许存在某种高渺之美，只有尼采所谓的精英灵魂才欣赏得来。对康德而言，之所以有一种约束一切人的审美“应当”，只因我们共有产生此种愉悦所需的认知能力。然而，这并非审美“应当”唯一可以设想的来源。一种非康德式的方案，是把趣味判断的规范性来源安放在 **世界** 之中，而不是人共有之处：这就召唤一种“审美实在论”，令美与丑成为世界的真实属性，使我们的判断有优劣之别。这种观点在形而上学上也许显得铺张。麻烦在于：若不取此类观点，审美“应当”又该如何理解？谈何容易！依实在论，美无须人人可得。若果真如此，康德那套无利害性学说的理据似乎就瓦解了。康德式（或许也是休谟式）的立场，把规范性来源放在我们共有之处。尼采则会追问：人对美的反应中，是否真有、是否该有某种共有之物？我们究竟要贵族式美学，还是民主式美学？[^note-3]
   - id: 76
     kind: body
     source: |-
       ## 4. The Notion of the Aesthetic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 审美的概念
+    step2: |-
+      ## 4 审美的概念
   - id: 77
     kind: body
     source: |-
       ### 4.1 Some Terminological Remarks
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 几点术语说明
+    step2: |-
+      ### 4.1 几点术语说明
   - id: 78
     kind: body
     source: |-
       Let us now turn to the contemporary notion of the aesthetic. The predicate “aesthetic” can qualify many different kinds of things: judgments, experiences, concepts, properties, or words. It is probably best to take *aesthetic judgments* as central. We can understand other aesthetic kinds of things in terms of aesthetic judgments: aesthetic properties are those that are ascribed in aesthetic judgments; aesthetic experiences are those that ground aesthetic judgments; aesthetic concepts are those that are deployed in aesthetic judgments; and aesthetic words are those that have the function of being used in the linguistic expression of aesthetic judgments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在我们转向审美的当代概念。“审美的”这一谓词可以修饰许多不同种类的东西：判断、经验、概念、属性或词语。最好以审美判断为中心。其他审美种类的东西可以借审美判断来理解：审美属性是在审美判断中被归与的属性；审美经验是为审美判断奠基的经验；审美概念是在审美判断中被运用的概念；审美词语则具有在审美判断的语言表达中被使用的功能。
+    step2: |-
+      现在转向“审美”的当代概念。“审美的”这个谓词可以修饰许多不同种类的东西：判断、经验、概念、属性、词语。不妨以 **审美判断** 为中心：其他审美之物皆可借它来理解——审美属性是在审美判断中被归与的属性；审美经验是为审美判断奠基的经验；审美概念是在审美判断中被运用的概念；审美词语则是在审美判断的语言表达中派用场的词语。
   - id: 79
     kind: body
     source: |-
       The most common contemporary notion of an aesthetic judgment would take judgments of beauty and ugliness as paradigms—what we called “judgments of taste” in part 1. And it excludes judgments about physical properties, such as shape and size, and judgments about sensory properties, such as colors and sounds. However, in addition to judgments of beauty and ugliness, the contemporary notion of an aesthetic judgment is typically used to characterize a class of judgments that also includes judgments of daintiness, dumpiness, delicacy and elegance. In this respect, the contemporary notion seems to be broader than Kant’s, since he focused just on judgments of beauty and ugliness. However, there is also a respect in which the contemporary notion seems to be narrower than Kant’s notion. For Kant used the notion to include both judgments of beauty (or of taste) as well as judgments of the *agreeable*—for instance, the judgment that Canary-wine is nice (Kant 1790, 5: 203–204, 214 [2000: 89–90 and 99])[^kant-1790]. But the modern notion, unlike Kant’s, usually *excludes* judgments of the agreeable. Moreover, the contemporary notion usually excludes judgments about pictorial and semantic content of a work of art. For example, the judgment that a painting represents a flower might be “relevant” to an aesthetic judgment about it, but it is not itself an aesthetic judgment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当代最常见的审美判断概念会以美与丑的判断为范式——即我们在第一部分所称的“趣味判断”。它排除关于形状、大小等物理属性的判断，以及关于颜色、声音等感官属性的判断。然而，除美与丑的判断之外，当代审美判断概念通常还用来刻画一类判断，其中包括关于精致、邋遢、细腻与优雅的判断。就此而言，当代概念似乎比康德的更宽，因为康德只聚焦于美与丑的判断。然而，也有一个方面，当代概念似乎比康德的概念更窄。因为康德用这一概念既包括美（或趣味）的判断，也包括适意的判断——例如加那利葡萄酒好喝的判断（Kant 1790, 5: 203–204, 214 [2000: 89–90 and 99]）[^kant-1790]。但现代概念与康德不同，通常排除适意判断。而且，当代概念通常排除关于艺术品图像内容与语义内容的判断。例如，“这幅画描绘了一朵花”这一判断可能与关于它的审美判断“相关”，但它本身不是审美判断。
+    step2: |-
+      当代最通行的审美判断概念，以美与丑的判断为范式——即第一部分所称的“趣味判断”，而把形状、大小等物理属性的判断与颜色、声音等感官属性的判断排除在外。不过，除美与丑的判断外，这一概念通常还涵盖一类判断，如关于精致、邋遢、细腻、优雅的判断。就此而言，当代概念似乎宽于康德，因为他只讲美与丑的判断。但换个方面看，当代概念又似乎窄于康德：康德的用法兼包美（趣味）的判断与 **适意** 的判断——例如“加那利葡萄酒好喝”（Kant 1790，5: 203–204, 214 [2000: 89–90, 99]）[^kant-1790]；而现代概念通常恰恰 **排除** 适意判断。此外，当代概念通常也排除关于作品图像内容与语义内容的判断。例如，“这幅画画的是一朵花”或许与关于它的审美判断“相关”，其本身却并非审美判断。
   - id: 80
     kind: body
     source: |-
       ### 4.2 The Problem
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 问题
+    step2: |-
+      ### 4.2 问题
   - id: 81
     kind: body
     source: |-

@@ -55,25 +55,60 @@ def _db_name(raw):
     return DB_NAMES.get(short, short)
 
 
-def emit(out_path, pool=False):
-    """产出批次清单：登记册（+可选池）全量，归并行拆变体。"""
-    from tools import check_terms, cnki_query
+def _verified_keys():
+    """已查证键集合：termonline-all/standard 凭证存在且非 error（empty 也算已查证）。"""
+    keys = set()
+    for prov in ('termonline-all', 'termonline-standard'):
+        d = os.path.join(QUERIES, prov)
+        if not os.path.isdir(d):
+            continue
+        for name in os.listdir(d):
+            if not name.endswith('.json'):
+                continue
+            try:
+                rec = json.load(open(os.path.join(d, name), encoding='utf-8'))
+            except (ValueError, OSError):
+                continue
+            if rec.get('status') in ('ok', 'empty'):
+                keys.add(rec.get('key') or name[:-5])
+    return keys
+
+
+def emit(out_path, pool=False, letter=None, table=None, unverified=False):
+    """产出批次清单：登记册（+可选池）全量，归并行拆变体。
+
+    letter      只取首字母分节为该字母的条目（A–Z；`#` 非拉丁起首，见 registry_azsort）
+    table       term / person 限表（默认两表）
+    unverified  跳过已查证键（termonline-all/standard 存在 ok/empty 凭证）
+    """
+    from tools import check_terms, cnki_query, registry_azsort
     args = type('Args', (), {'from_registry': True, 'pool': pool, 'terms': []})()
     pairs = cnki_query.collect_terms(args)
-    items = []
+    if table:
+        want = check_terms.REGISTRY if table == 'term' else check_terms.REGISTRY2
+        rows, _ = check_terms.parse_registry(want)
+        keep = {check_terms.norm_key(r[0]) for r in rows}
+        pairs = [(k, d) for k, d in pairs if k in keep]
+    done = _verified_keys() if unverified else set()
+    items, skipped = [], 0
     for key, display in pairs:
+        if letter and registry_azsort.bucket_of(display).casefold() != letter.casefold():
+            continue
+        if key in done:
+            skipped += 1
+            continue
         variants = [v.strip() for v in display.split('/') if v.strip()]
-        if len(variants) > 1:
-            for v in variants:
-                items.append({'row_key': key, 'variant': v, 'display': v})
-        else:
-            items.append({'row_key': key, 'variant': display, 'display': display})
+        for v in (variants if len(variants) > 1 else [display]):
+            items.append({'row_key': key, 'variant': v, 'display': v})
     with open(out_path, 'w', encoding='utf-8', newline='\n') as f:
         json.dump({'generated_at': datetime.now(timezone.utc).isoformat(timespec='seconds'),
                    'count': len(items), 'items': items},
                   f, ensure_ascii=False, indent=1)
-    print('emit %d 项（%d 行，归并行拆变体）→ %s'
-          % (len(items), len(pairs), out_path))
+    print('emit 待查 %d 项（键 %d，归并行已拆变体）%s%s%s → %s'
+          % (len(items), len({i['row_key'] for i in items}),
+             '，letter=%s' % letter if letter else '',
+             '，表=%s' % table if table else '',
+             '，跳过已查证键 %d' % skipped if unverified else '', out_path))
     return 0
 
 
@@ -174,6 +209,8 @@ def ingest(in_path, map_path=None):
 def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
     out_path, in_path, map_path, pool = None, None, None, False
+    letter = table = None
+    unverified = False
     i = 0
     while i < len(argv):
         a = argv[i]
@@ -190,11 +227,23 @@ def main(argv=None):
             map_path = argv[i]
         elif a == '--pool':
             pool = True
+        elif a == '--letter':
+            i += 1
+            letter = argv[i]
+        elif a == '--table':
+            i += 1
+            table = argv[i]
+            if table not in ('term', 'person'):
+                print('--table 只接受 term / person')
+                return 2
+        elif a == '--unverified':
+            unverified = True
         i += 1
     if in_path:
         return ingest(in_path, map_path)
     if out_path:
-        return emit(out_path, pool)
+        return emit(out_path, pool, letter=letter, table=table,
+                    unverified=unverified)
     print(__doc__)
     return 2
 

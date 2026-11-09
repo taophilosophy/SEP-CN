@@ -3512,3 +3512,19 @@
 | world state | — | 世界国家 | cosmopolitanism | 学界通行（世界主义政治理论）；与 world government 世界政府区分；凭证 2026-11-09 | 2026-11-09 |
 | world government | — | 世界政府 | cosmopolitanism | 学界通行（国际关系理论）；凭证 2026-11-09 | 2026-11-09 |
 | aesthetic idea | — | 审美理念 | aesthetic-judgment 首译 | 康德《判断力批判》§49 通行汉译；凭证 2026-11-09 | 2026-11-09 |
+| privation | privatio | 缺失 | 首译（sharpe） | 亚里士多德—经院三原则（质料/形式/缺失）通行汉译；张竹明译《物理学》作“缺乏”，本库取“缺失”与 substance/form 并列，登记后统一；凭证 2026-11-09 | 2026-11-09 |
+| intensional logic | — | 内涵逻辑 | 首译（sharpe） | 逻辑学通行（intensional 与 extensional 外延相对）；凭证 2026-11-09 | 2026-11-09 |
+| real distinction | distinctio realis | 实在区分 | 首译（sharpe） | 学界通行（与 formal distinction 形式区分对举；司各脱研究文献）；凭证 2026-11-09 | 2026-11-09 |
+| real identity | identitas realis | 实在同一 | 首译（sharpe） | 学界通行（牛津实在论谓述学说；与形式区分配套）；凭证 2026-11-09 | 2026-11-09 |
+| formal identity | identitas formalis | 形式同一 | 首译（sharpe） | 学界通行（承 formal distinction 形式区分；形式同一强于实在同一）；凭证 2026-11-09 | 2026-11-09 |
+| accidental form | forma accidentalis | 偶性形式 | 首译（sharpe） | 经院哲学通行（与 substantial form 实体形式对举）；凭证 2026-11-09 | 2026-11-09 |
+| universal-man | homo communis / homo universalis | 共相之人 | 首译（sharpe） | 中世纪共相学说文献通行（威克里夫—牛津实在论；与“个体的人”对举）；凭证 2026-11-09 | 2026-11-09 |
+| transcendentals | transcendentalia | 超越者 | 首译（sharpe） | 学界通行（ens/aliquid/res 等；承本册 transcendental term 超越词项）；凭证 2026-11-09 | 2026-11-09 |
+| prime mover | primum movens | 第一推动者 | 首译（sharpe） | 学界通行（承本册 first mover 第一推动者；源文 prime mover）；凭证 2026-11-09 | 2026-11-09 |
+| species specialissima | species specialissima | 最狭义的种 | 首译（sharpe） | 中世纪逻辑通行（波菲利树最低种；与 genus generalissimum 最高属对举）；凭证 2026-11-09 | 2026-11-09 |
+| numerical unity | unitas numeralis | 数值统一性 | 首译（sharpe） | 经院哲学通行（numerical 数值/数目义，与 specific unity 种的统一性对举）；凭证 2026-11-09 | 2026-11-09 |
+| phantasm | phantasma | 幻象 | 首译（sharpe） | 承本册 phantasma 幻象；中世纪认识论通行（与 intelligible species 可理解种相对）；凭证 2026-11-09 | 2026-11-09 |
+| concrete accidental term | — | 具体偶性词项 | 首译（sharpe） | 中世纪语义学通行（与抽象词项对举；伯利—夏普第三类表达式）；凭证 2026-11-09 | 2026-11-09 |
+| abstract term | terminus abstractus | 抽象词项 | 首译（sharpe） | 中世纪逻辑通行（如 humanitas；与 concrete term 具体词项对举）；凭证 2026-11-09 | 2026-11-09 |
+| concrete term | terminus concretus | 具体词项 | 首译（sharpe） | 中世纪逻辑通行（如 homo；与 abstract term 抽象词项对举）；凭证 2026-11-09 | 2026-11-09 |
+| intellective faculty | potentia intellectiva | 理智官能 | 首译（sharpe） | 经院哲学通行（能动理智/被动理智/意志三者合称）；凭证 2026-11-09 | 2026-11-09 |
