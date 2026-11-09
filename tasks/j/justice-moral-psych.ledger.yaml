@@ -910,26 +910,34 @@ segments:
     kind: body
     source: |-
       **(5)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **（5）**
+    step2: |-
+      **（5）**
   - id: 102
     kind: body
     source: |-
       An unfair person is not reliably motivated to do the morally right thing, even if that motivation ends up being outweighed, but rather is motivated to do what is unfair.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不公的人并不稳定地被驱动去做道德上正确的事，即使那种动机最终被压倒；毋宁说，他被驱动去做不公的事。
+    step2: |-
+      不公的人并不会稳定地想去做道德上正确的事——即便那种动机最后被压倒也不算；他被驱动去做的是不公之事。
   - id: 103
     kind: body
     source: |-
       This might be too strong a characterization of an unfair person in an ordinary sense, but again we are focusing on the viciously unfair person. Yet it turned out that the participants seemed to be experiencing motivation to do the right thing. Furthermore, if they were motivationally conflicted but gave in to self-interested motivation, they would be weak of will or incontinent on the Aristotelian picture, rather than vicious.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就通常意义的不公者而言，这一刻画可能过强；但我们再次聚焦的是恶性地不公的人。然而结果却是，参与者似乎体验到了做正确之事的动机。此外，如果他们动机冲突但屈服于自利动机，那么在亚里士多德图景中他们是意志薄弱或不自制，而非恶。
+    step2: |-
+      就通常意义上的不公者来说，这个刻画也许过重；但我们关注的是恶性不公的人。可结果偏偏是：参与者似乎真有做正确之事的动机。而且，如果他们内心动机冲突、最后屈从于自利动机，那么按亚里士多德的图景，他们属于意志薄弱或不自制，而不是恶。
   - id: 104
     kind: body
     source: |-
       So one could argue Batson’s results do not sit comfortably either with the widespread possession of the virtue of fairness or the vice of unfairness. Instead they suggest that we have beliefs and desires like these:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此有人可以论证：Batson 的结果与公平之德的广泛持有、以及不公之恶，都不能舒适地相容。毋宁说，它们提示我们拥有如下信念与欲望：
+    step2: |-
+      所以有人可以主张：Batson 的结果既安不进“公平之德被广泛持有”，也安不进“不公之恶”。它们提示的毋宁是，我们拥有如下这些信念与欲望：
   - id: 105
     kind: body
     source: |-
@@ -937,44 +945,64 @@ segments:
       - Beliefs about the relationship between not complying with certain fairness norms and various personal benefits such as increased time, money, alternative activities, and so forth.
       - Desires in favor of being fair when doing so will contribute towards complying with the relevant fairness norms, provided the benefits of doing so are not (significantly) outweighed by the costs.
       - Desires in favor of not being fair when the benefits of complying with the relevant fairness norms are (significantly) outweighed by the costs, while also desiring to as much as possible still appear to be fair both to others and to oneself.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 关于什么公平、什么不公平，以及公平之重要的信念。
+      - 关于不遵守某些公平规范与各种个人好处（如更多时间、金钱、其他活动等等）之间关系的信念。
+      - 在遵循公平规范有利时偏向公平的欲望，条件是这么做的收益没有被（显著地）被代价压过。
+      - 在遵循相关公平规范的收益（显著地）被代价压过时偏向不公平的欲望，同时还希望尽可能在他人与自己眼中都显得公平。
+    step2: |-
+      - 关于何为公平、何为不公、以及公平为何重要的信念。
+      - 关于“不遵守某些公平规范”与种种个人好处（更多时间、金钱、别的活动，等等）之间关系的信念。
+      - 在照做有助于遵循相关公平规范、且收益未被（显著地）被代价压过时，想要公平的欲望。
+      - 在遵循相关公平规范的收益（显著地）被代价压过时，想要不公的欲望——同时仍希望尽量在他人和自己眼中都显得公平。
   - id: 106
     kind: body
     source: |-
       While certainly not an exhaustive list, these mental states do seem like a mixed bag, morally speaking. Some of them are quite morally admirable, such as those in the first set, and by themselves could give rise to positive moral behavior. Others, of course, are not morally admirable, and they can help to explain the unfair behavior we see in Batson’s studies (For the development of a Mixed Trait approach to character along these lines, see Miller 2013, 2014, 2015)[^miller-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这份清单当然不详尽，但这些心理状态在道德上确实像一个杂拌。其中一些相当值得道德上赞赏，比如第一组，它们本身就能引发正面的道德行为。另一些当然不值得赞赏，它们有助于解释我们在 Batson 研究中看到的不公行为（关于沿这些路线发展品格的混合特质进路，见 Miller 2013, 2014, 2015）[^miller-2013]。
+    step2: |-
+      这份清单并不完备，但就道德而言，这些心理状态确实是一锅杂拌。有些相当可敬，比如第一组，单凭它们就能生出正面的道德行为；另一些自然谈不上可敬，却有助于解释 Batson 研究中我们看到的不公行为（沿这条路线发展品格的混合特质进路，见 Miller 2013, 2014, 2015）[^miller-2013]。
   - id: 107
     kind: body
     source: |-
       ## 5. Personality Traits, Economic Games, and Justice
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 人格特质、经济博弈与正义
+    step2: |-
+      ## 5 人格特质、经济博弈与正义
   - id: 108
     kind: body
     source: |-
       Here is a general observation about the results we have seen in this essay. For each of the studies, there was rarely uniformity in behavior by all the participants in a particular situation. Indeed, in some cases there were striking differences. For instance, we saw that in the Forsythe study of dictator games, 21% gave nothing and 21% gave the equal amount of $10, leaving 58% somewhere in-between (Forsythe et al. 1994: 362)[^forsythe-1994]. We also saw that many people would pay $9 to take an exit option in Dana’s dictator studies, but many people also would not (Dana et al. 2006)[^dana-2006]. Or in Batson’s studies, many participants would assign themselves to the positive consequence task, but rarely would everyone do this.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于本文所见结果，这里有一个一般性观察。对每一项研究来说，特定情境中所有参与者的行为很少一致。实际上，有些情形差异惊人。例如，我们看到在 Forsythe 的独裁者博弈研究中，21% 什么都不给，21% 给出 10 美元的平分，其余 58% 介于两者之间（Forsythe et al. 1994: 362）[^forsythe-1994]。我们也看到，许多人愿意付 9 美元换取 Dana 的独裁者研究中的退出选项，但也有许多人不愿意（Dana et al. 2006）[^dana-2006]。或者在 Batson 的研究中，许多参与者会把正面后果任务分给自己，但很少是所有人。
+    step2: |-
+      本文的结果有一个总的观察。在每一项研究里，同一情境下所有参与者的行为很少整齐划一；有些情形差异还相当惊人。例如，Forsythe 的独裁者博弈研究里，21% 的人分文不给，21% 的人给出 10 美元平分，中间还有 58%（Forsythe et al. 1994: 362）[^forsythe-1994]。Dana 的独裁者研究里，许多人愿意付 9 美元买退出选项，许多人却不愿意（Dana et al. 2006）[^dana-2006]。Batson 的研究里，许多人把正面后果任务分给自己，但很少是人人如此。
   - id: 109
     kind: body
     source: |-
       So there appear to be important individual differences in behavior among participants in these game environments. Since the situation a given group of participants is confronting is the same, it is only natural to think that the ensuing differences in behavior might be explained, at least in part, by differences in their underlying personality traits. If this turns out to be the case, then if we learn something about their personality, we could more accurately predict how they would subsequently behave in these games, as well as in other relevant situations. In other words, individual differences in the moral psychology of a person’s justice relevant traits, can translate into individual differences in justice relevant behavior. And knowing something about the former can help us predict the latter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，在这些博弈环境中，参与者之间似乎存在重要的个体行为差异。既然给定的一组参与者面对的情境相同，自然就会想到：随之出现的行为差异至少部分可以由他们底层人格特质的差异来解释。如果事实如此，那么了解他们的性格，我们就能更准确地预测他们随后在这些博弈以及其他相关情境中会怎么表现。换言之，一个人与正义相关的特质在道德心理学上的个体差异，可以转化为与正义相关行为上的个体差异。了解前者，有助于预测后者。
+    step2: |-
+      所以在这些博弈环境里，参与者之间显然存在重要的行为个体差异。同一批人面对的情境相同，那么自然会想：随后的行为差异，至少部分可以归因于底层人格特质的差异。若真如此，了解一个人的性格，就能更准确地预测他在这些博弈乃至其他相关情境中的表现。换句话说，一个人在正义相关特质上的道德心理学个体差异，可以转化为正义相关行为的个体差异；知道前者，就能帮我们预测后者。
   - id: 110
     kind: body
     source: |-
       It turns out that there is in fact some evidence linking certain personality traits with behavior in these games. Here I briefly mention four such instances where evidence has been found. Spending a moment on each of them is also worthwhile because of what we can learn more generally about the moral psychology of justice beyond what economic games tell us (for a massive meta-analysis of 60 years of research on the relationship between personality traits and behavior in six economic games, including the dictator and ultimatum games, see Thielmann et al. 2020)[^thielmann-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      结果表明，确实有一些证据把某些人格特质与这些博弈中的行为联系起来。这里我简要提及发现证据的四个例子。花点时间逐个来看也值得，因为由此能超越经济博弈告诉我们的一般地了解正义的道德心理学（关于 60 年来人格特质与六种经济博弈——包括独裁者与最后通牒博弈——行为关系的一项大规模元分析，见 Thielmann et al. 2020）[^thielmann-2020]。
+    step2: |-
+      事实证明，确有一些证据把某些人格特质与这些博弈中的行为连在一起。下面简要提四个找到证据的例子。逐个看一眼也值得，因为由此能越出经济博弈的范围，更一般地了解正义的道德心理学（关于 60 年来人格特质与六种经济博弈——含独裁者与最后通牒博弈——行为关系的一项大型元分析，见 Thielmann et al. 2020）[^thielmann-2020]。
   - id: 111
     kind: body
     source: |-
       *The Big Five*. The Big Five personality traits (or Five-Factor model) have come to dominate the field of personality, with thousands of relevant papers appearing in the past few decades (for an overview, see John et al. 2008)[^john-2008]. Results from these studies have repeatedly pointed in the direction of five basic dimensions of personality with the following most commonly used labels:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *大五*。大五人格特质（或五因素模型）已主导人格领域，过去几十年出现了数千篇相关论文（概览见 John et al. 2008）[^john-2008]。这些研究的结果反复指向人格的五个基本维度，其最常用的标签如下：
+    step2: |-
+      **大五**。大五人格特质（或称五因素模型）如今主导着人格领域，过去几十年涌现了数千篇相关论文（概览见 John et al. 2008）[^john-2008]。这些研究的结果反复指向五个基本人格维度，其最常用的名称如下：
   - id: 112
     kind: body
     source: |-
@@ -983,8 +1011,18 @@ segments:
       - Conscientiousness (also labeled Constraint, Control of Impulse)
       - Neuroticism (also labeled Emotional Instability, Negative Emotionality, Nervousness)
       - Openness (also labeled Intellect, Culture, Originality, Open-Mindedness)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 外向性（又标为支配性、能量、热情）
+      - 宜人性（又标为利他性、情感性）
+      - 尽责性（又标为约束、冲动控制）
+      - 神经质（又标为情绪不稳定、负性情绪、紧张）
+      - 开放性（又标为智力、文化、独创性、开放心态）
+    step2: |-
+      - 外向性（又标为支配性、能量、热情）
+      - 宜人性（又标为利他性、情感性）
+      - 尽责性（又标为约束、冲动控制）
+      - 神经质（又标为情绪不稳定、负性情绪、紧张）
+      - 开放性（又标为智力、文化、独创性、开放心态）
   - id: 113
     kind: body
     source: |-
