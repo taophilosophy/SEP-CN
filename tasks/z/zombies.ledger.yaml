@@ -377,203 +377,271 @@ segments:
     kind: body
     source: |-
       ## 5. Does conceivability entail possibility?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 可设想性蕴涵可能性吗？
+    step2: |-
+      ## 5 可设想性蕴涵可能性吗？
   - id: 47
     kind: body
     source: |-
       Premise (2) of the conceivability argument is: Whatever is conceivable is possible. It has been attacked from several angles, as follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可设想论证的前提（2）是：凡可设想者皆可能。它已从几个角度受到攻击，如下。
+    step2: |-
+      可设想论证的前提（2）是：凡可设想者皆可能。针对它的攻击来自几个方向，如下。
   - id: 48
     kind: body
     source: |-
       ### 5.1 Objections based on *a posteriori* necessity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 基于后天必然性的反驳
+    step2: |-
+      ### 5.1 基于后天必然性的反驳
   - id: 49
     kind: body
     source: |-
       A number of philosophers argue that Kripke’s ideas about a posteriori necessary truth facilitate the defense of physicalism. They urge that even if a zombie world is conceivable, that does not establish it is possible in the way that matters. Conceivability is an epistemic notion, they say, while possibility is a metaphysical one: ‘It is false that if one can in principle conceive that P, then it is logically possible that P; … Given psychophysical identities, it is an ‘a posteriori’ fact that any physical duplicate of our world is exactly like ours in respect of positive facts about sensory states’ (Hill and McLaughlin 1999, 446. See also Hill 1997; Loar 1990/1997; 1999; McLaughlin 2005; Webster 2006)[^hill-1997][^hill-1999][^loar-1990][^mclaughlin-2005][^webster-2006]. Some philosophers reject even the assumption that conceivability is a *guide* to possibility, challenging the view that the burden of proof is on those who deny the zombie possibility (Block and Stalnaker 1999; Hill and McLaughlin 1999; Yablo 1993)[^block-1999][^hill-1999][^yablo-1993].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些哲学家论证说，克里普克关于后天必然真理的思想有利于为物理主义辩护。他们主张，即使僵尸世界是可设想的，也不能由此确立它是（相关意义上的）可能的。他们说，可设想性是一个认识论概念，而可能性是一个形而上学概念：“‘人们若原则上能设想 P，则 P 在逻辑上可能’——这是假的；……鉴于心理物理同一性，‘我们世界的任何物理复制品就感官状态的积极事实而言与我们的世界完全一样’是一个‘后天的’事实”（Hill and McLaughlin 1999, 446。另见 Hill 1997; Loar 1990/1997; 1999; McLaughlin 2005; Webster 2006）[^hill-1997][^hill-1999][^loar-1990][^mclaughlin-2005][^webster-2006]。一些哲学家甚至拒绝可设想性是可能性的*向导*这一假定，挑战那种认为举证责任在否认僵尸可能性者一方的看法（Block and Stalnaker 1999; Hill and McLaughlin 1999; Yablo 1993）[^block-1999][^hill-1999][^yablo-1993]。
+    step2: |-
+      一批哲学家论证说，克里普克关于后天必然真理的思想，正好可为物理主义所用。他们主张：即便僵尸世界可以设想，也确立不了它在相关意义上的可能。他们说，可设想性是认识论概念，可能性是形而上学概念：“‘人们若原则上能设想 P，则 P 在逻辑上可能’——这是假的；……鉴于心理物理同一性，‘我们世界的任何物理复制品就感官状态的积极事实而言与我们的世界完全一样’是一个‘后天的’事实”（Hill and McLaughlin 1999, 446。另见 Hill 1997; Loar 1990/1997; 1999; McLaughlin 2005; Webster 2006）[^hill-1997][^hill-1999][^loar-1990][^mclaughlin-2005][^webster-2006]。还有些哲学家更进一步，连“可设想性是可能性的*向导*”这一假定也予拒绝，并挑战那种把举证责任压在否认僵尸可能性一方身上的做法（Block and Stalnaker 1999; Hill and McLaughlin 1999; Yablo 1993）[^block-1999][^hill-1999][^yablo-1993]。
   - id: 50
     kind: body
     source: |-
       Chalmers has responded in several places (1996, 131–134; 1999, 476–7; 2010, 141–205). His most detailed version of the conceivability argument (2010) uses the framework of two-dimensional semantics. This enables him to distinguish two kinds of possibility and two corresponding kinds of conceivability. In the ‘primary’ sense conceivability entails possibility; for example it is conceivable that water should have been a substance chemically different from H2O. In the other, ‘secondary’ sense, it is neither conceivable nor possible that water should have been chemically different. The difficulty for the conceivability argument can be expressed by saying that even if zombie worlds are primarily conceivable and therefore primarily possible, it does not follow that they are also secondarily possible. And a posteriori physicalists will typically deny that it follows, on the ground that only the secondary possibility of zombie worlds would entail the falsity of physicalism. At this point Chalmers in effect presents his opponents with a dilemma, which is (crudely summarizing his conclusions) that either the primary conceivability of zombies does after all entail their secondary possibility, in which case the conceivability argument works and materialism is false; or else ‘Russellian monism’, briefly considered at Section 5.3 below, is true. (See also Jackson 1998; and for discussions, Brueckner 2002; Loar 1999; Hill and McLaughlin 1999; Piccinini 2017; Sebastián 2017; Shoemaker 1999; Soames 2005; Yablo 1999.)[^hill-1999][^jackson-1998][^loar-1999][^piccinini-2017][^sebastián-2017][^shoemaker-1999][^yablo-1999]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      查尔莫斯在多处作出回应（1996, 131–134; 1999, 476–7; 2010, 141–205）。他最详尽的可设想论证版本（2010）使用二维语义学的框架。这使他能够区分两种可能性与两种相应的可设想性。在“初级的”意义上，可设想性蕴涵可能性；例如，水本可以是化学上不同于 H2O 的一种物质，这是可设想的。在另一种“次级的”意义上，水本可以是化学上不同的东西，既不可设想也不可能。可设想论证的困难可以这样表述：即使僵尸世界在初级意义上可设想、从而在初级意义上可能，也推不出它们在次级意义上也可设想。而后天物理主义者通常会否认这一点可以推出，理由是：只有僵尸世界的次级可能性才蕴涵物理主义的虚假。在这一点上，查尔莫斯实际上向他的对手提出了一个两难，（粗略概括他的结论）即：要么僵尸的初级可设想性毕竟蕴涵其次级可能性，此时可设想论证成立而唯物论为假；要么“罗素式一元论”（见下文 5.3 节简述）为真。（另见 Jackson 1998；相关讨论见 Brueckner 2002; Loar 1999; Hill and McLaughlin 1999; Piccinini 2017; Sebastián 2017; Shoemaker 1999; Soames 2005; Yablo 1999。）[^hill-1999][^jackson-1998][^loar-1999][^piccinini-2017][^sebastián-2017][^shoemaker-1999][^yablo-1999]
+    step2: |-
+      查尔莫斯在多处作出回应（1996, 131–134; 1999, 476–7; 2010, 141–205）。他最详尽的可设想论证版本（2010）采用二维语义学的框架，由此得以区分两种可能性与两种相应的可设想性。在“初级”意义上，可设想性蕴涵可能性——例如，“水本可以是化学上不同于 H2O 的某种物质”是可以设想的。在另一种“次级”意义上，水本可以是化学上不同的东西，这既不可设想、也不可能。可设想论证的困难可以这样表述：即便僵尸世界初级可设想、因而初级可能，也推不出它们次级也可能。后天物理主义者通常会否认能推出这一点，理由是：唯有僵尸世界的次级可能性才蕴涵物理主义为假。至此，查尔莫斯实际上向对手摆出一个两难（粗略概括他的结论）：要么僵尸的初级可设想性毕竟蕴涵次级可能性——此时可设想论证成立，唯物论为假；要么“罗素式一元论”为真（下文 5.3 节简述）。（另见 Jackson 1998；相关讨论见 Brueckner 2002; Loar 1999; Hill and McLaughlin 1999; Piccinini 2017; Sebastián 2017; Shoemaker 1999; Soames 2005; Yablo 1999。）[^hill-1999][^jackson-1998][^loar-1999][^piccinini-2017][^sebastián-2017][^shoemaker-1999][^yablo-1999]
   - id: 51
     kind: body
     source: |-
       ### 5.2 The phenomenal concept strategy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 现象概念策略
+    step2: |-
+      ### 5.2 现象概念策略
   - id: 52
     kind: body
     source: |-
       Many physicalists hold that both the zombie idea and Frank Jackson’s knowledge argument can be dealt with through a proper understanding of the nature of phenomenal concepts (roughly, the concepts we use when conveying the character of our experiences: for example ‘sweet’, ‘the way I see blue’). Exponents of the conceivability argument hold that the supposed ‘explanatory gap’ between the physical and the phenomenal — which is expressed in the idea that zombies are conceivable — brings with it an ontological gap. According to the ‘phenomenal concept strategy’ (Stoljar 2005)[^stoljar-2005] there is really only a conceptual gap: phenomenal concepts have features which mislead us into supposing there is an ontological gap in addition to an epistemic one, when there isn’t.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多物理主义者主张，僵尸观念与弗兰克·杰克逊的知识论证都可以通过对现象概念（大致说，我们用来传达经验的特征的那些概念：例如“甜的”“我看蓝的方式”）之性质的恰当理解来处理。可设想论证的拥护者主张，物理与现象之间的所谓“解释鸿沟”——它表达于僵尸是可设想的这一观念中——带来了一个本体论鸿沟。按照“现象概念策略”（Stoljar 2005）[^stoljar-2005]，实际上只有一道概念鸿沟：现象概念具有一些特征，这些特征误导我们以为除认识论鸿沟之外还有一道本体论鸿沟，而实际上并没有。
+    step2: |-
+      许多物理主义者主张：僵尸观念与 Frank Jackson 的知识论证，皆可通过恰切理解现象概念（大致说，就是我们用来传达经验特征的概念：比如“甜的”“我看蓝的那种方式”）的本性而得到处理。可设想论证的拥护者主张：物理与现象之间那道所谓的“解释鸿沟”——它表达于“僵尸可设想”这一观念——伴随着一道本体论鸿沟。而按照“现象概念策略”（Stoljar 2005）[^stoljar-2005]，实际存在的只有一道概念鸿沟：现象概念的某些特征误导我们，让我们以为在认识论鸿沟之外还有一道本体论鸿沟——实则没有。
   - id: 53
     kind: body
     source: |-
       Thus it is argued that even if a zombie world is conceivable, it does not follow that there are nonphysical properties in our world. If that is right, physicalists can concede the conceivability of zombies while insisting that the properties we pick out in terms of phenomenal concepts are physical. ‘Given that properties are constituted by the world and not by our concepts’, Brian Loar comments, ‘it is fair of the physicalist to request a justification of the assumption that conceptually distinct concepts *must* express metaphysically distinct properties’ (Loar 1999, 467; see also his 1997)[^loar-1999]. He also argues that phenomenal concepts are ‘recognitional’, in contrast to physical concepts, which are ‘theoretical’. Phenomenal concepts, Loar says, ‘express the very properties they pick out, as Kripke observed in the case of ‘pain’’ (1999, 468). He thinks these points explain the conceivability of a zombie world, while maintaining that there is no possible world in which the relevant physical properties are distinct from consciousness. Chalmers objects that Loar’s account does not justify the view that physical concepts refer to phenomenal properties (1999, 488). He argues further (2007) that exponents of this approach face a dilemma. Let C be whichever psychological ‘key features’ we have but zombies lack. Then if it is conceivable that the purely physical facts about us should have held without C, then C is not physicalistically explicable. On the other hand, if that is not conceivable, then in his view C cannot explain our epistemic situation as contrasted with that of zombies. So either C is not physicalistically explicable, or it cannot explain our epistemic situation. (For discussions see Ball 2009; Balog 2012; Carruthers 2005; Chalmers 1999; 2007; 2010; Crane 2005; Loar 1990/97; Papineau 2002; Pereboom 2011; Stoljar 2000; Tye 2008.)[^ball-2009][^balog-2012][^carruthers-2005][^chalmers-1999][^crane-2005][^loar-1990][^papineau-2002][^pereboom-2011][^stoljar-2000][^tye-2008]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是有人论证说，即使僵尸世界是可设想的，也推不出我们的世界中存在非物理性质。如果这是对的，物理主义者就可以承认僵尸的可设想性，同时坚持我们以现象概念挑出的性质是物理的。“鉴于性质是由世界而不是由我们的概念构成的”，布赖恩·洛尔评论道，“物理主义者有权要求为如下假定提供辩护：概念上有区别的概念*必定*表达形而上学上有区别的性质”（Loar 1999, 467；另见他的 1997）[^loar-1999]。他还论证说，现象概念是“识别性的”，与“理论性的”物理概念相对。洛尔说，现象概念“表达它们所挑出的那些性质本身，正如克里普克在‘疼痛’的例子中指出的”（1999, 468）。他认为这些要点解释了僵尸世界的可设想性，同时主张没有可能世界，其中相关物理性质不同于意识。查尔莫斯反驳说，洛尔的说明没有为物理概念指称现象性质的观点提供辩护（1999, 488）。他进一步论证（2007），这一进路的拥护者面临一个两难。设 C 为我们所具有而僵尸缺乏的无论哪种心理学“关键特征”。那么，如果我们应当具有的纯物理事实可以没有 C 而成立这一点是可设想的，则 C 不能以物理主义的方式解释。另一方面，如果那不可设想，那么在他看来，C 就无法解释我们相对于僵尸的认识处境。所以，或者 C 不能以物理主义的方式解释，或者它无法解释我们的认识处境。（相关讨论见 Ball 2009; Balog 2012; Carruthers 2005; Chalmers 1999; 2007; 2010; Crane 2005; Loar 1990/97; Papineau 2002; Pereboom 2011; Stoljar 2000; Tye 2008。）[^ball-2009][^balog-2012][^carruthers-2005][^chalmers-1999][^crane-2005][^loar-1990][^papineau-2002][^pereboom-2011][^stoljar-2000][^tye-2008]
+    step2: |-
+      于是有人论证：僵尸世界即便可设想，也推不出我们的世界里存在非物理性质。此说若立，物理主义者便可承认僵尸可设想，同时坚持：我们以现象概念挑出的那些性质是物理的。“性质由世界构成，而非由我们的概念构成”，布赖恩·洛尔评论道，“既然如此，物理主义者有权要求对方为下述假定给出辩护：概念上有别的概念*必定*表达形而上学上有别的性质”（Loar 1999, 467；另见其 1997）[^loar-1999]。他还论证：现象概念是“识别性的”（recognitional），与“理论性的”物理概念相对。用洛尔的话说，现象概念“直接表达它们所挑出的那些性质——正如克里普克在‘疼痛’一词上观察到的那样”（1999, 468）。他认为这些要点解释了僵尸世界的可设想性，同时又不必承认存在这样一个可能世界：其中相关物理性质有别于意识。查尔莫斯反驳说，洛尔的说明并没有为“物理概念指称现象性质”这一主张提供辩护（1999, 488）。他进一步论证（2007），这一进路的拥护者面临一个两难。设 C 为我们有而僵尸无的任何一种心理学“关键特征”。倘若“我们应当具有的纯物理事实可以在没有 C 的情况下成立”是可设想的，那么 C 无法得到物理主义的解释。反过来，倘若那不可设想，则在他看来 C 无法解释我们与僵尸相对的认识处境。所以：C 或者得不到物理主义的解释，或者解释不了我们的认识处境。（相关讨论见 Ball 2009; Balog 2012; Carruthers 2005; Chalmers 1999; 2007; 2010; Crane 2005; Loar 1990/97; Papineau 2002; Pereboom 2011; Stoljar 2000; Tye 2008。）[^ball-2009][^balog-2012][^carruthers-2005][^chalmers-1999][^crane-2005][^loar-1990][^papineau-2002][^pereboom-2011][^stoljar-2000][^tye-2008]
   - id: 54
     kind: body
     source: |-
       ### 5.3 Russellian monism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 罗素式一元论
+    step2: |-
+      ### 5.3 罗素式一元论
   - id: 55
     kind: body
     source: |-
       Following Russell (1927), some philosophers suggest that physics tells us only about the ‘structural’ properties of things — such as their dispositions and nomic relations — rather than the ‘intrinsic’ properties which supposedly underlie and account for those structural properties. Thus Daniel Stoljar (2001) argues that there are two distinct notions of the physical and correspondingly of physicalism, depending on whether one appeals only to what is provided for by physics or also to the intrinsic properties of physical objects. He suggests that even if one of the corresponding two versions of the conceivability argument is sound, the other is not — because (roughly) physicalists can always object that, since we do not know enough about the physical world (in particular, about its intrinsic properties), we cannot ‘strongly’ conceive of the possibility of zombies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      循着罗素（1927），一些哲学家提出，物理学只告诉我们事物的“结构”性质——例如它们的倾向与律则关系——而不是那些据称支撑并解释这些结构性质的“内在”性质。于是 Daniel Stoljar（2001）论证说，“物理的”与相应地“物理主义”有两种不同的含义，取决于人们是只诉诸物理学所提供的东西，还是也诉诸物理对象的内在性质。他提出，即使相应两个版本的可设想论证中有一个是可靠的，另一个也不是——因为（粗略地说）物理主义者总可以反驳说：既然我们对物理世界（特别是其内在性质）所知不够，我们就不能“强”设想僵尸的可能性。
+    step2: |-
+      循罗素（1927）之绪，一些哲学家提出：物理学告诉我们的只是事物的“结构”性质——诸如倾向与律则关系——而非那些据称在底层支撑并解释结构性质的“内在”性质。据此 Daniel Stoljar（2001）论证说：“物理的”与相应的“物理主义”各有两种不同含义，取决于只诉诸物理学所提供者，还是同时诉诸物理对象的内在性质。他提出：与之相应的两个可设想论证版本，即便其一可靠，另一也必不然——因为（粗略地说）物理主义者总可以反驳说：我们对物理世界（尤其是其内在性质）所知甚少，故而无力“强”设想僵尸的可能性。
   - id: 56
     kind: body
     source: |-
       These ideas are exploited in what Chalmers calls ‘Russellian monism’ (a variety of neutral monism). In our world, he suggests, the underlying intrinsic properties might be ‘phenomenal properties, or they might be protophenomenal properties: properties that collectively constitute phenomenal properties when organized in the appropriate way’ (2010: p. 151); while in some other worlds the corresponding intrinsic physical properties did not provide for consciousness. If the intrinsic properties which supposedly provide for our consciousness are nevertheless classified as physical, exponents can deny the possibility of zombies if these are understood to be our ‘full’ physical duplicates. At the same time they can concede the possibility of zombies which duplicate us only in their structural properties. As he points out, this view is ‘a highly distinctive form of physicalism that has much in common with property dualism and that many physicalists will want to reject’ (Chalmers 2010, p. 152; see also Pereboom 2011)[^chalmers-2010][^pereboom-2011]. One obstacle to counting it as physicalism is that it seems unable to explain why the special intrinsic properties in our world should provide for consciousness, while those which perform the same functions in those other worlds do not: this has to be accepted as a brute fact.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些观念被查尔莫斯所谓的“罗素式一元论”（中立一元论的一个变种）所利用。他提出，在我们的世界中，底层的内在性质可能是“现象性质，或者它们可能是原现象性质：那些以适当方式组织起来时集体构成现象性质的性质”（2010: p. 151）；而在其他一些世界中，相应的内在物理性质不提供意识。如果据称提供我们意识的内在性质仍被归类为物理的，那么当僵尸被理解为我们的“完全”物理复制品时，其拥护者可以否认僵尸的可能性。同时他们可以承认那种只在我们结构性质上复制我们的僵尸的可能性。正如他指出的，这一观点是“一种非常独特的物理主义形式，与性质二元论有很多共同之处，许多物理主义者会想拒绝它”（Chalmers 2010, p. 152；另见 Pereboom 2011）[^chalmers-2010][^pereboom-2011]。把它算作物理主义的一个障碍是：它似乎无法解释，为什么我们世界中的那些特殊内在性质提供意识，而那些在其他世界中执行同样功能的性质却不：这只能被当作一个赤裸裸的事实来接受。
+    step2: |-
+      这些观念在查尔莫斯所谓的“罗素式一元论”（中立一元论的一个变种）中得到运用。他提出：在我们这个世界，底层的内在性质或许是“现象性质，或许是原现象性质（protophenomenal）——即以恰当方式组织起来便能共同构成现象性质的性质”（2010: p. 151）；而在其他一些世界，相应的内在物理性质并不提供意识。倘若那据称提供我们意识的内在性质仍算作物理的，其拥护者便可以否认僵尸之可能——当僵尸被理解为我们在“完全”物理意义上的复制品时。同时，他们可以承认另一类僵尸的可能：那种只在结构性质上复制我们的僵尸。正如他所指出的，这一观点是“物理主义的一种极为独特的形态，与性质二元论多有重叠，许多物理主义者都会想拒斥它”（Chalmers 2010, p. 152；另见 Pereboom 2011）[^chalmers-2010][^pereboom-2011]。把这一观点算作物理主义还有一重障碍：它似乎解释不了，为何我们世界里的那些特殊内在性质提供意识，而在那些其他世界里履行同样功能的性质却不提供——这只能当作赤裸裸的事实接受下来。
   - id: 57
     kind: body
     source: |-
       Philip Goff (2010; see also his 2017) suggests that this loophole for Russellian versions of physicalism weakens the zombie argument. He recommends instead an argument from ghosts: pure subjects of experience without any physical nature. He argues that such ghosts are conceivable and possible, and that they provide an argument against physicalism which leaves no loophole for Russellian monism. (Physicalists are likely to object that arguments against the conceivability of zombies can also be mobilized against ghosts.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Philip Goff（2010；另见他的 2017）提出，这一为罗素式物理主义留出的漏洞削弱了僵尸论证。他转而推荐一个来自幽灵的论证：幽灵是没有任何物理本性的纯粹经验主体。他论证说，这样的幽灵是可设想且可能的，它们提供了一个反物理主义论证，不给罗素式一元论留下任何漏洞。（物理主义者很可能反驳说：针对僵尸可设想性的那些论证同样可以调动来反对幽灵。）
+    step2: |-
+      Philip Goff（2010；另见其 2017）提出：这一为罗素式物理主义留出的漏洞，削弱了僵尸论证。他转而推荐一条出自幽灵的论证——幽灵是没有任何物理本性的纯粹经验主体。他论证说：这类幽灵既可设想，也确属可能；由之出发的反物理主义论证，不给罗素式一元论留下任何漏洞。（物理主义者多半会反驳：反对僵尸可设想性的那些论证，同样可以调动起来反对幽灵。）
   - id: 58
     kind: body
     source: |-
       ### 5.4 Other objections
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.4 其他反驳
+    step2: |-
+      ### 5.4 其他反驳
   - id: 59
     kind: body
     source: |-
       *Special factors*. It has been suggested that there are special factors at work in the psychophysical case which have a strong tendency to mislead us. For example it is claimed that what enables us to imagine or conceive of states of consciousness is a different cognitive faculty from what enables us to conceive of physical facts: ‘there are significant differences between the cognitive factors responsible for Cartesian intuitions [such as those about zombies] and those responsible for modal intuitions of a wide variety of other kinds’ (Hill and McLaughlin 1999, p. 449. See also Hill 1997)[^hill-1997][^hill-1999]. The suggestion is that these differences help to explain the ease with which we seem able to conceive of zombies, and the difficulty we have in understanding the claim that they are nevertheless impossible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *特殊因素。*有人提出，在心理物理情形中有一些特殊因素在起作用，它们有一种误导我们的强烈倾向。例如有人主张，使我们能够想象或设想意识状态的东西，与使我们能够设想物理事实的东西是不同的认知官能：“对笛卡尔直觉（例如关于僵尸的直觉）负责的认知因素，与对形形色色其他种类的模态直觉负责的认知因素，二者之间存在显著差异”（Hill and McLaughlin 1999, p. 449。另见 Hill 1997）[^hill-1997][^hill-1999]。这一提法意在说明：为什么我们似乎能够轻松地设想僵尸，却难以理解“它们尽管如此仍不可能”这一主张。
+    step2: |-
+      *特殊因素。*有人提出：心理物理情形中有特殊因素在起作用，颇有误导之能事。例如有人主张：让我们得以想象或设想意识状态的认知官能，不同于让我们得以设想物理事实的官能——“对笛卡尔直觉（例如关于僵尸的直觉）负责的认知因素，与对形形色色其他模态直觉负责的认知因素，二者之间存在显著差异”（Hill and McLaughlin 1999, p. 449。另见 Hill 1997）[^hill-1997][^hill-1999]。这一提法意在解释：我们何以能够轻轻松松设想僵尸，却难以理解“僵尸尽管可设想却不可能”这一主张。
   - id: 60
     kind: body
     source: |-
       *Conditional analysis*. Another line of objection rests on conditional analyses of the concept of qualia. Roughly, the idea is that *if* there actually are certain nonphysical properties which fit our conception of qualia, then that is what qualia are, in which case zombies are conceivable; but *if* there are no such nonphysical properties, then qualia are whichever physical properties perform the appropriate functions, and zombies are not conceivable. It is argued that this approach enables physicalists to accept that the possibility of zombies is conceivable, while denying that zombies are conceivable (Hawthorne 2002a; Braddon-Mitchell 2003. For criticism see Alter 2007; Chalmers 2010, pp. 159–59)[^alter-2007][^braddon-mitchell-2003][^chalmers-2010][^hawthorne-2002a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *条件分析。*另一条反驳路线立足于对感质概念的条件分析。大致说来，其想法是：*如果*现实中确实存在某些符合我们感质概念的非物理性质，那么感质就是那些性质，此时僵尸是可设想的；但*如果*不存在这样的非物理性质，那么感质就是执行适当功能的那些物理性质，僵尸便不可设想。有人论证说，这一进路使物理主义者既接受僵尸的可能性是可设想的，又否认僵尸是可设想的（Hawthorne 2002a; Braddon-Mitchell 2003。批评见 Alter 2007; Chalmers 2010, pp. 159–59）[^alter-2007][^braddon-mitchell-2003][^chalmers-2010][^hawthorne-2002a]。
+    step2: |-
+      *条件分析。*另一条反驳路线立足于对感质概念的条件分析。大致想法是：*如果*现实中确实存在某些符合我们感质概念的非物理性质，那么感质即那些性质，此时僵尸可设想；*但如果*不存在这样的非物理性质，感质便是执行相应功能的那些物理性质，僵尸便不可设想。有人论证：这一进路让物理主义者既能承认“僵尸的可能性可设想”，又能否认“僵尸可设想”（Hawthorne 2002a; Braddon-Mitchell 2003。批评见 Alter 2007; Chalmers 2010, pp. 159–59）[^alter-2007][^braddon-mitchell-2003][^chalmers-2010][^hawthorne-2002a]。
   - id: 61
     kind: body
     source: |-
       *Causal essentialism*. According to the theory of causal essentialism, the causal properties of physical properties are essential to them. Brian Garrett (2009) exploits this theory to argue that the zombie argument against physicalism depends on broadly Humean assumptions about the laws of nature and property identity which presuppose the falsity of causal essentialism. If we reject those assumptions and accept that some physical properties have essentially the capacity to produce consciousness, then ‘we cannot accept the genuine possibility of zombie worlds’ even if such worlds are conceivable (see also Aranyosi 2010)[^aranyosi-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *因果本质主义。*按照因果本质主义理论，物理性质的因果性质对它们来说是本质的。Brian Garrett（2009）利用这一理论论证说，反对物理主义的僵尸论证依赖于关于自然律与性质同一的宽泛休谟式假定，而这些假定预设了因果本质主义的虚假。如果我们拒绝那些假定，并接受某些物理性质本质上具有产生意识的能力，那么“我们就不能接受僵尸世界的真正可能性”，即使这类世界是可设想的（另见 Aranyosi 2010）[^aranyosi-2010]。
+    step2: |-
+      *因果本质主义。*按因果本质主义学说，物理性质的因果性质对它们而言是本质性的。Brian Garrett（2009）借助这一学说论证：反物理主义的僵尸论证，依赖关于自然律与性质同一的宽泛休谟式假定，而这类假定恰恰预设因果本质主义为假。倘若我们拒斥这些假定，并接受某些物理性质在本质上具有产生意识的能力，那么“我们就不能接受僵尸世界的真正可能性”——即便这类世界可以设想（另见 Aranyosi 2010）[^aranyosi-2010]。
   - id: 62
     kind: body
     source: |-
       *More on zombies’ utterances*. Consider a zombie world that is an exact physical duplicate of our world and contains zombie twins of all philosophers, including some who appeal to the conceivability argument. Katalin Balog (1999) argues that while their utterances would be meaningful, their sentences would not always mean what they do in our mouths. She further argues — to oversimplify — that if the conceivability argument were sound in actual philosophers’ mouths, then it would be sound in the mouths of zombie philosophers too. But since by hypothesis physicalism is true in their world, their argument is not sound. Therefore the conceivability argument used by actual philosophers is not sound either. If this argument works, it has the piquant feature that ‘the zombies that antiphysicalists think possible in the end undermine the arguments that allege to establish their possibility’ (502. Chalmers offers brief replies in his 2003; 2010, pp. 159–60)[^chalmers-2003].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *再论僵尸的话语。*设想一个僵尸世界，它是我们世界的精确物理复制品，并包含所有哲学家的僵尸孪生者，其中包括一些诉诸可设想论证的人。Katalin Balog（1999）论证说，虽然他们的话语会有意义，他们的句子却不会总是像在我们口中那样意指。她进一步论证——把这过分简化了——如果可设想论证在实际哲学家的口中是可靠的，那么它在僵尸哲学家的口中也是可靠的。但既然按假设物理主义在他们的世界中是真的，他们的论证就不可靠。因此实际哲学家所用的可设想论证也不可靠。如果这个论证成立，它有一个引人入胜的特点：“反物理主义者认为可能的那些僵尸，最终破坏了那些以确立其可能性为己任的论证”（502。查尔莫斯在其 2003; 2010, pp. 159–60 中作了简短回应）[^chalmers-2003]。
+    step2: |-
+      *再论僵尸的话语。*设想一个僵尸世界：它在物理上是我们世界的精确复制品，囊括所有哲学家的僵尸孪生者，其中包括若干诉诸可设想论证的哲学家。Katalin Balog（1999）论证说：他们的语句固然有意义，但这些句子的意思却不会总与我们口中的相同。她进一步论证——说得粗略些——倘若可设想论证在实际哲学家口中可靠，那么它在僵尸哲学家口中同样可靠。可按假设，物理主义在他们的世界里为真，故他们的论证不可靠。于是，实际哲学家所用的可设想论证也不可靠。这个论证若成立，有一个颇为辛辣的特点：“反物理主义者认为可能的那些僵尸，到头来竟拆毁了那些号称能确立其可能性的论证”（502。Chalmers 在其 2003; 2010, pp. 159–60 中作了简短回应）[^chalmers-2003]。
   - id: 63
     kind: body
     source: |-
       *The anti-zombie argument for physicalism*. The conceivability argument — which assumes physicalism entails that zombies are impossible — purports to refute it by showing they are possible. As we saw, the simplest version of this argument goes: (1) zombies are conceivable; (2) whatever is conceivable is possible; (3) therefore zombies are possible. However, ‘anti-zombies’ — duplicates of ourselves made conscious by the purely physical facts (Frankish 2007)[^frankish-2007] — also seem conceivable. So we have a parallel argument: (1*) anti-zombies are conceivable; (2) whatever is conceivable is possible; (3*) therefore anti-zombies are possible. But (3) and (3*) cannot both be true, since if the purely physical facts about anti-zombies make them conscious, then the exactly similar physical facts about zombies make them conscious too, and they are not zombies after all (Frankish 2007; Marton 1998; Piccinini 2017; Sturgeon 2000, pp. 114–116)[^frankish-2007][^marton-1998][^piccinini-2017][^sturgeon-2000]. One moral is that we should reject the inference from conceivability to possibility. (Brown 2010 argues that if anti-zombies are conceivable, then zombies are inconceivable.)[^brown-2010] The most promising reply for exponents of the conceivability argument seems to be to deny that anti-zombies are conceivable (Chalmers 2010, 180)[^chalmers-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *为物理主义辩护的反僵尸论证。*可设想论证——它假定物理主义蕴涵僵尸不可能——意在通过表明僵尸可能来反驳物理主义。如我们所见，该论证最简单的形式是：（1）僵尸是可设想的；（2）凡可设想者皆可能；（3）所以僵尸是可能的。然而，“反僵尸”——由纯物理事实造成有意识的我们的复制品（Frankish 2007）[^frankish-2007]——似乎也是可设想的。于是我们有一个平行的论证：（1*）反僵尸是可设想的；（2）凡可设想者皆可能；（3*）所以反僵尸是可能的。但（3）与（3*）不可能都真，因为如果关于反僵尸的纯物理事实使它们有意识，那么关于僵尸的完全相似的物理事实也使它们有意识，它们归根结底不是僵尸（Frankish 2007; Marton 1998; Piccinini 2017; Sturgeon 2000, pp. 114–116）[^frankish-2007][^marton-1998][^piccinini-2017][^sturgeon-2000]。一个教训是：我们应当拒绝从可设想性到可能性的推理。（Brown 2010 论证说，如果反僵尸是可设想的，那么僵尸就是不可设想的。）[^brown-2010]可设想论证的拥护者最有希望的回应，似乎是否认反僵尸是可设想的（Chalmers 2010, 180）[^chalmers-2010]。
+    step2: |-
+      *反僵尸论证：为物理主义辩护。*可设想论证——它假定物理主义蕴涵僵尸之不可能——意欲通过表明僵尸可能来反驳物理主义。如前所见，其最简形式是：（1）僵尸是可设想的；（2）凡可设想者皆可能；（3）所以僵尸是可能的。然而，“反僵尸”（anti-zombies）——由纯物理事实便造就为有意识的我们的复制品（Frankish 2007）[^frankish-2007]——似乎同样可以设想。于是有了一个平行的论证：（1*）反僵尸是可设想的；（2）凡可设想者皆可能；（3*）所以反僵尸是可能的。但（3）与（3*）不可能同时为真：关于反僵尸的纯物理事实既然使它们有意识，僵尸身上完全相同的物理事实也必使它们有意识——它们终究不是僵尸（Frankish 2007; Marton 1998; Piccinini 2017; Sturgeon 2000, pp. 114–116）[^frankish-2007][^marton-1998][^piccinini-2017][^sturgeon-2000]。一条教训是：从可设想性到可能性的推理必须拒斥。（Brown 2010 论证说：反僵尸若可设想，僵尸便不可设想。）[^brown-2010]可设想论证一方最有希望的回应，似乎是否认反僵尸可以设想（Chalmers 2010, 180）[^chalmers-2010]。
   - id: 64
     kind: body
     source: |-
       ## 6. Other issues
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 其他问题
+    step2: |-
+      ## 6 其他问题
   - id: 65
     kind: body
     source: |-
       The list of ‘Related Entries’ below indicates the range and depth of the issues raised by the zombie idea, only some of which have been touched on in this entry. If zombies are really possible, then not only is physicalism problematic, so are widely held views on other topics. Here are three striking examples.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下面“相关词条”的清单显示了僵尸观念所引发问题的范围与深度，本词条只触及其中一部分。如果僵尸真的是可能的，那么有问题的就不只是物理主义，其他主题上广为持有的看法也是如此。这里给出三个醒目的例子。
+    step2: |-
+      文末“相关词条”的清单，显示了僵尸观念所引出问题的范围与深度，本词条只触及其中一部分。倘若僵尸真的可能，成问题的就不只是物理主义，还有其他主题上广被持有的种种看法。举三个醒目的例子。
   - id: 66
     kind: body
     source: |-
       ### 6.1 Mental causation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 心理因果
+    step2: |-
+      ### 6.1 心理因果
   - id: 67
     kind: body
     source: |-
       Descartes accepted the common assumption that not only do physical events have mental effects, but mental events have physical effects (for example, thinking about the political situation makes me write a letter). The difficulty for his dualism, it was thought, was to understand how the nonphysical could have effects on the physical. But if zombies are possible — which requires the physical world to be causally closed — there is no work for nonphysical qualia to do. In that case the difficulty is to understand how, in spite of appearances, the nonphysical could *fail* to have effects on the physical. Still supposing zombies are possible, it then becomes hard to see any alternative to parallelism or epiphenomenalism, with the radical revision of common assumptions about mental causation that those views entail. True, the friends of zombies do not seem compelled to be epiphenomenalists or parallelists about the *actual* world. They may be interactionists, holding that our world is not physically closed, and that as a matter of actual fact nonphysical properties do have physical effects. Or they may adopt some variety of panpsychism, according to which what is metaphysically fundamental is not physical properties, but phenomenal or perhaps ‘protophenomenal’ ones (Chalmers 1991, 297—299; 1999, 492; Goff 2017; Strawson 2008)[^goff-2017][^strawson-2008] — a view arguably compatible with the causal closure of the physical. But neither of those options is easy. Abandoning causal closure appears to conflict with empirical evidence; while the idea that phenomenal or quasi-phenomenal properties are fundamental remains obscure.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      笛卡尔接受一个通常的假定：不仅物理事件有心理效应，而且心理事件有物理效应（例如，想到政治局势使我写一封信）。人们认为，他的二元论的困难在于理解非物理的东西如何能对物理的东西有效应。但如果僵尸是可能的——这要求物理世界因果封闭——非物理的感质就无事可做。在那种情况下，困难变成了理解：尽管有种种表象，非物理的东西如何能*不*对物理的东西有效应。仍然假定僵尸可能，那么除了平行论或副现象主义之外就很难看到任何替代方案，而这两种观点都蕴涵着对心理因果的常识假定作激进修正。诚然，僵尸的朋友们似乎并不被迫对*现实*世界持副现象主义或平行论立场。他们可以是交互作用论者，主张我们的世界并非物理上封闭，并且作为实际事实，非物理性质确实有物理效应。或者他们可以采取泛心论的某种变种，按照这种变种，形而上学上根本的不是物理性质，而是现象的或许“原现象的”性质（Chalmers 1991, 297—299; 1999, 492; Goff 2017; Strawson 2008）[^goff-2017][^strawson-2008]——一种可论证地与物理因果闭合相容的观点。但这两个选项都不容易。放弃因果闭合似乎与经验证据冲突；而现象或准现象性质是根本的这一观念仍然晦暗不明。
+    step2: |-
+      笛卡尔接受一个通行的假定：不仅物理事件有心理效应，心理事件也有物理效应（例如，想到政治局势，我便提笔写信）。人们认为，他的二元论的难处在于说明：非物理者如何能对物理者产生效应。可倘若僵尸可能——这要求物理世界因果封闭——非物理的感质便无事可做。此时难处恰好倒转：要说明尽管表象如此，非物理者如何能*不*对物理者产生效应。仍假定僵尸可能，那么除平行论与副现象主义之外便难觅出路，而这两种观点都蕴涵着对心理因果之常识的激进改写。诚然，僵尸的朋友们似乎并不被迫对*现实*世界持副现象主义或平行论立场：他们可以当交互作用论者，主张我们的世界并非物理封闭，且非物理性质事实上确有物理效应；也可以采纳泛心论的某种变种——形而上学上根本的，不是物理性质，而是现象的、或许“原现象的”性质（Chalmers 1991, 297—299; 1999, 492; Goff 2017; Strawson 2008）[^goff-2017][^strawson-2008]——这一观点可以说与物理因果闭合相容。但两条路都不好走：放弃因果闭合，似与经验证据冲突；而现象或准现象性质为根本实在的观念，依然晦暗不明。
   - id: 68
     kind: body
     source: |-
       ### 6.2 The function of consciousness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 意识的功能
+    step2: |-
+      ### 6.2 意识的功能
   - id: 69
     kind: body
     source: |-
       The apparent possibility of zombies also seems to pose a problem for evolutionary theory. Why did creatures with qualia survive rather than those creatures’ zombie counterparts? If zombies could have survived, what’s the use of consciousness? Owen Flanagan and Thomas Polger have used the apparent possibility of zombies to support the claim that ‘There are as yet no credible stories about why subjects of experience emerged, why they might have won — or should have been expected to win — an evolutionary battle against very intelligent zombie-like information-sensitive organisms’ (1995, 321): a problem not faced by those who reject the possibility of zombies. One response on behalf of those who do accept it is to suggest that there might be fundamental laws linking the phenomenal to the physical. Such laws would not depend on whether conscious creatures ever happened to evolve, in which case, arguably, evolution raises no special problem (Chalmers 1996, 171)[^chalmers-1996] — although the existence of such laws would pose its own problems.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      僵尸表面的可能性似乎也给进化理论提出了一个问题。为什么有感质的生物存活下来，而不是那些生物的僵尸对应者？如果僵尸本可以存活，意识有什么用？欧文·弗拉纳根与托马斯·波尔格利用僵尸表面的可能性来支持如下主张：“关于经验主体为何出现、为何他们可能赢得——或本应被期待赢得——一场与非常聪明的类僵尸信息敏感有机体的进化战斗，迄今还没有可信的故事”（1995, 321）：这是拒绝僵尸可能性的人不会面对的问题。代表接受僵尸可能性者的一种回应是提出：可能存在把现象的与物理的联系起来的基本定律。这类定律不取决于有意识的生物是否碰巧进化出来，在这种情况下，可以说进化不提出特殊问题（Chalmers 1996, 171）[^chalmers-1996]——尽管这类定律的存在本身会带来问题。
+    step2: |-
+      僵尸表面的可能性，似乎也给进化理论出了难题。为什么有感质的生物存活下来，而不是那些生物的僵尸对应者？僵尸既然本可存活，意识又有什么用？欧文·弗拉纳根与托马斯·波尔格便借僵尸表面的可能性来支持这一主张：“关于经验主体何以出现、何以能——或理应被期待能——在与极聪明的类僵尸信息敏感有机体的进化之战中获胜，迄今尚无可信的讲述”（1995, 321）：拒绝僵尸可能性的人不面对这个问题。替接受者一方着想的一种回应是：也许存在把现象的与物理的联结起来的基本定律。这类定律不依赖于有意识生物是否碰巧进化出来；这样一来，可以说进化并不提出特殊问题（Chalmers 1996, 171）[^chalmers-1996]——尽管这类定律的存在自会引出新的问题。
   - id: 70
     kind: body
     source: |-
       ### 6.3 Other minds
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.3 他心
+    step2: |-
+      ### 6.3 他心
   - id: 71
     kind: body
     source: |-
       If qualia have no physical effects, then nothing will enable anyone to establish for certain that anyone else actually has qualia. Philosophers who believe they have a solid response to skepticism about other minds may therefore conclude that this consequence of the zombie idea is enough to condemn it. Others may draw the opposite conclusion and take the skeptical consequence as ‘a confirmation’, on the ground that we really are ignorant of others’ minds (Campbell 1970, 120)[^campbell-1970]. (Of course not all responses to other minds skepticism imply that zombies are inconceivable.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果感质没有物理效应，那么没有任何东西能使任何人确定地确立其他任何人实际拥有感质。因此，那些相信自己对他心怀疑主义的回应是可靠的人，可能会得出结论：僵尸观念的这一后果足以给它定罪。另一些人可能得出相反的结论，把这一怀疑主义后果视为“一种证实”，理由是我们对他人的心灵确实无知（Campbell 1970, 120）[^campbell-1970]。（当然，并非所有对他心怀疑主义的回应都蕴涵僵尸不可设想。）
+    step2: |-
+      倘若感质没有物理效应，那么谁都拿不出任何东西，来确凿地确立他人真的拥有感质。于是，那些相信自己足以回应他心怀疑主义的人，可能就此断定：僵尸观念的这一后果足以给它定罪。另一些人则得出相反的结论：我们对他人的心灵确实无知，故这一怀疑主义后果反倒是“一种证实”（Campbell 1970, 120）[^campbell-1970]。（当然，并非所有对他心怀疑主义的回应都蕴涵僵尸不可设想。）
   - id: 72
     kind: body
     source: |-
       ## 7. Conclusion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 结语
+    step2: |-
+      ## 7 结语
   - id: 73
     kind: body
     source: |-
       The intuitive appeal of the zombie idea can be overwhelming. But that was true once of the idea that the earth stands still, and is true now of the idea that science can explain events without appealing to anything nonphysical. Some anti-physicalists believe their opponents’ commitment makes them turn a blind eye to the difficulties:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      僵尸观念的直觉吸引力可能是压倒性的。但“地球静止不动”的观念曾经也是如此；今天“科学可以不诉诸任何非物理的东西而解释事件”的观念也是如此。一些反物理主义者相信，其对手的信奉使他们对这些困难视而不见：
+    step2: |-
+      僵尸观念的直觉魅力可以势不可挡。但“地球静止不动”的观念曾几何时也势不可挡；“科学无需诉诸任何非物理之物便能解释事件”这一观念，今天依然如此。一些反物理主义者相信：其对手的信奉让他们对下述困难视而不见：
   - id: 74
     kind: body
     source: |-
       > Some may be led to deny the possibility [of zombies] in order to make some theory come out right, but the justification of such theories should ride on the question of possibility, rather than the other way round (Chalmers 1996, 96)[^chalmers-1996].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 有些人可能为了使某个理论成立而否认[僵尸的]可能性，但这类理论的辩护应当取决于可能性问题，而不是反过来（Chalmers 1996, 96）[^chalmers-1996]。
+    step2: |-
+      > 有人为了成全某个理论而否认[僵尸的]可能性；可这类理论的辩护，应当取决于可能性问题，而不是反过来（Chalmers 1996, 96）[^chalmers-1996]。
   - id: 75
     kind: body
     source: |-
       On the other hand, some physicalists believe the zombie idea exerts an irrational grip on anti-physicalist thinking, so that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一方面，一些物理主义者相信，僵尸观念对反物理主义思维施加了一种非理性的控制，以至于
+    step2: |-
+      反过来，一些物理主义者相信：僵尸观念对反物理主义思维施着一种非理性的魔力，以至于——
   - id: 76
     kind: body
     source: |-
       > it is tempting to regard anti-physicalist arguments as rationalizations of an intuition whose independent force masks their tendentiousness (Loar 1990/1997, 598)[^loar-1990].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人们不禁倾向于把反物理主义论证视为一种直觉的合理化，这种直觉的独立力量掩盖了它们的偏颇（Loar 1990/1997, 598）[^loar-1990]。
+    step2: |-
+      > 人们难免倾向于把反物理主义论证看作一种直觉的合理化——那直觉的独立力量，遮蔽了这些论证的偏颇（Loar 1990/1997, 598）[^loar-1990]。
   - id: 77
     kind: body
     source: |-
       In spite of the fact that the arguments on both sides have become increasingly sophisticated — or perhaps because of it — they have not become more persuasive. The pull in each direction remains strong.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管双方的论证日益精致——或许正因为如此——它们并没有变得更有说服力。向两个方向的拉力都依然强劲。
+    step2: |-
+      双方的论证日渐精致——或许正因如此——说服力却并未随之增长。朝向两极的引力，依旧强劲。
   - id: 78
     kind: oir
     source: |-
       - [Bibliography on Zombies and the Conceivability Argument](http://philpapers.org/browse/zombies-and-the-conceivability-argument), maintained by David Chalmers (New York University).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [僵尸与可设想论证文献目录](http://philpapers.org/browse/zombies-and-the-conceivability-argument)，大卫·查尔莫斯（纽约大学）维护。
+    step2: |-
+      - [僵尸与可设想论证文献目录](http://philpapers.org/browse/zombies-and-the-conceivability-argument)，大卫·查尔莫斯（纽约大学）维护。
   - id: 79
     kind: ack
     source: |-
       Many thanks to David Chalmers and to Bill Fish for detailed comments and suggestions on drafts of this entry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非常感谢大卫·查尔莫斯和 Bill Fish 对本词条草稿提出的详细评论与建议。
+    step2: |-
+      非常感谢大卫·查尔莫斯与 Bill Fish 对本词条草稿提出的细致评论与建议。
