@@ -379,146 +379,194 @@ segments:
     kind: body
     source: |-
       > Two bodies at a distance will put one another into motion by the force of attraction; which is inexplicable by us, though made evident to us by experience, and so to be taken as a principle in natural philosophy. (Locke 1823: vol. 3: 305)[^locke-1823]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 相隔一定距离的两个物体将凭吸引力使彼此运动；这在我们看来无法解释，尽管经验已使它对我们显明，因而应被当作自然哲学中的一条原则。（Locke 1823: vol. 3: 305）[^locke-1823]
+    step2: |-
+      > 相隔一段距离的两个物体，会凭吸引力使彼此运动；这一点我们无从解释，尽管经验已使之对我们显明，所以应当把它当作自然哲学中的一条原则。（Locke 1823: vol. 3: 305）[^locke-1823]
   - id: 48
     kind: body
     source: |-
       In this way, Locke held the common view that Newton’s theory of universal gravity was incompatible with the mechanical philosophy—and perhaps, unintelligible to us for that very reason—and when forced to choose between these two options, he evidently sided with Newton, thinking that his theory was supported by “experience”. He did so by endorsing the view that God must have added “powers” or “ways of operations” to material bodies that cannot be derived from our idea of body. Such powers or ways of operations would in this case result in gravitational interactions, presumably amongst bodies that are spatially separated from one another by great distances. Yet from Locke’s point of view, the fact that Newton’s theory convinces him that such powers exist does *not* entail that that theory renders gravity “conceivable”: even if the theory of universal gravity is correct, it does not allow us to understand how matter—what Locke would call “extended solid substance”—can interact gravitationally with other matter when the bits of matter are not in contact with one another (Downing 1997)[^downing-1997]. So Locke has concluded that bodies can operate on one another through some means other than impulse, but he retains his firmly held belief that any such operation is not intelligible to us. Locke accepted the conclusion that spatially separated bodies causally interact with one another in accordance with the law of universal gravitation, but concluded that the law itself did not render that causal interaction intelligible. This is precisely the kind of reaction to Newton’s theory of universal gravity bemoaned by Leibniz, who would argue that any operations or powers attributed to material bodies must meet the basic criterion of intelligibility established by the mechanist approach; he might also be inclined to argue that any laws regarded as governing the interactions of bodies must also meet that criterion by being derivable in some way from our basic concept of matter (see below). Regardless, this is an excellent example of a case in which Newton’s theory in the *Principia* had a direct impact on the development of philosophical views of causation in the late seventeenth century.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如此，洛克持有一种常见看法：牛顿的万有引力理论与机械哲学不相容——或许正因此，它对我们不可理解——而当被迫在这两者之间抉择时，他显然站在牛顿一边，认为牛顿的理论得到了“经验”的支持。他这样做的办法，是认可这样一种观点：上帝必定给物质物体添加了“能力”或“作用方式”，而这些无法从我们关于物体的观念中推出来。在此情形下，这类能力或作用方式会产生引力相互作用，想必发生于空间上彼此相隔甚远的物体之间。然而在洛克看来，牛顿的理论使他相信这类能力确实存在，这一事实并不蕴涵该理论使引力变得“可设想”：即使万有引力理论正确，它也不允许我们理解物质——洛克会称之为“广延的固体实体”——在物质的各部分彼此不接触时，如何能以引力方式与其他物质相互作用（Downing 1997）[^downing-1997]。所以洛克断定，物体可以通过撞击以外的某种途径彼此发生作用，但他仍然坚持他牢固持有的信念：任何这类作用对我们都是不可理解的。洛克接受了这一结论：空间上分隔的物体依照万有引力定律彼此因果地相互作用；但他也断定，定律本身并未使这种因果相互作用变得可理解。这正是莱布尼茨所哀叹的那类对牛顿万有引力理论的反应；莱布尼茨会论证，凡归于物质物体的作用或能力，都必须满足机械论进路所确立的基本可理解性判准；他还可能倾向于论证，凡被视为支配物体相互作用的定律，也必须满足该判准，即以某种方式可以从我们关于物质的基本概念推导出来（见下文）。无论如何，这是一个极好的例子，说明《原理》中牛顿的理论如何直接影响了十七世纪晚期关于因果性的哲学观点的发展。
+    step2: |-
+      这样，洛克就认同一种流行看法：牛顿的万有引力理论与机械哲学不相容——或许正因如此，它对我们不可理解。被迫在二者之间作选择时，他显然站到了牛顿一边，认为牛顿的理论有“经验”作支持。他之所以如此，是因为他接受这样一个观点：上帝必定给物质物体添上了“能力”或“作用方式”，而这些无法从我们关于物体的观念中推出。在此情形下，这类能力或作用方式便产生引力作用，想来发生在空间上相隔遥远的物体之间。不过在洛克看来，牛顿的理论固然使他相信这类能力确实存在，却并不因此就使引力变得“可以设想”：即便万有引力理论成立，我们仍无从理解物质——洛克称之为“广延的固体实体”——在彼此不相接触时，何以能与其他物质发生引力作用（Downing 1997）[^downing-1997]。于是洛克断定：物体可以经由撞击以外的某种途径彼此发生作用；但他仍坚守一个根深蒂固的信念——任何这类作用都不是我们所能理解的。洛克接受如下的结论：在空间上分隔的物体，依照万有引力定律彼此因果作用；但他同时断定，这条定律本身并没有使这种因果作用变得可理解。这正是莱布尼茨所痛诋的那类对万有引力理论的反应。莱布尼茨会主张：举凡归于物质物体的作用或能力，都必须满足机械论进路定下的基本可理解性判准；他或许还会主张，举凡被视为支配物体相互作用的定律，同样必须满足这一判准，即能以某种方式从我们关于物质的基本概念推导出来（见下文）。无论如何，这一例子足以说明：《原理》中的牛顿理论，直接影响了十七世纪晚期因果性哲学观点的发展。
   - id: 49
     kind: body
     source: |-
       When the great English natural philosopher Robert Boyle died at the end of 1691, he endowed a lecture series designed to promote Christianity against what Boyle took to be the atheism that had infected English culture after the revolutionary period of the mid-century. Famous Newtonians such as Samuel Clarke and William Whiston would eventually give the Boyle lectures. The first “Boyle lecturer” was the theologian Richard Bentley, who would eventually become the Master of Newton’s *alma mater*, Trinity College, Cambridge, and who also worked under Locke’s correspondent, Bishop Stillingfleet, himself an admirer of Newton’s (Gascoigne 1985: 65)[^gascoigne-1985]. When preparing his lectures for publication—they had been presented to a public audience in London in 1692—Bentley conferred with Newton, hoping to solicit his help in deciphering enough of the *Principia* to use its results as a bulwark against atheism (Bentley 1976)[^bentley-1976]. Newton obliged, and a famous correspondence between the two began (eventually published as Bentley 1756)[^bentley-1756]. The exchange is of great philosophical interest, for Bentley elicited a number of important clarifications that have no peer within Newton’s published *oeuvre*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1691 年末，伟大的英国自然哲学家罗伯特·波义耳去世时，捐设了一系列讲座，旨在弘扬基督教，对抗波义耳所认为的、在本世纪中叶革命时期之后侵染英国文化的无神论。塞缪尔·克拉克、威廉·惠斯顿等著名的牛顿派人物后来都曾主讲波义耳讲座。第一位“波义耳讲座主讲人”是神学家理查德·本特利；他后来成为牛顿的母校剑桥大学三一学院的院长，也曾受教于洛克的书信友斯蒂林弗利特主教——此人本人也是牛顿的仰慕者（Gascoigne 1985: 65）[^gascoigne-1985]。本特利在准备将讲稿付印时——这些讲稿曾于 1692 年在伦敦向公众听众宣讲——与牛顿商量，希望求他帮助解读《原理》的足够内容，以便用其结果作为抵御无神论的堡垒（Bentley 1976）[^bentley-1976]。牛顿答应了，两人之间开始了著名的通信（后来以 Bentley 1756 出版）[^bentley-1756]。这场往还对哲学极具意义，因为本特利引出了一些重要的澄清，而这些澄清在牛顿已出版的著作中无可匹敌。
+    step2: |-
+      1691 年末，英国伟大的自然哲学家罗伯特·波义耳去世，遗赠设立了一系列讲座，意在弘扬基督教，以对抗他眼中的无神论——那种在十七世纪中叶革命年代之后侵染了英国文化的无神论。塞缪尔·克拉克、威廉·惠斯顿等知名牛顿派学者，后来都主讲过波义耳讲座。首位“波义耳讲座主讲人”是神学家理查德·本特利。他后来出任牛顿母校剑桥大学三一学院的院长，早年还曾在洛克的书信友斯蒂林弗利特主教门下任职——这位主教本人也是牛顿的仰慕者（Gascoigne 1985: 65）[^gascoigne-1985]。这些讲稿曾于 1692 年在伦敦向公众宣讲；本特利准备付印时与牛顿通信商议，想请他帮忙解读《原理》到足以应用的程度，以便拿它的结论当作抵御无神论的堡垒（Bentley 1976）[^bentley-1976]。牛顿应允，二人遂有著名的通信往还（后以 Bentley 1756 之名刊行）[^bentley-1756]。这场往还有很高的哲学价值：本特利问出了一些重要澄清，而在牛顿已刊行的全部著作中，都找不到可与这些澄清相比的文字。
   - id: 50
     kind: body
     source: |-
       Bentley sought Newton’s assistance in particular because he wanted guidance in divining how the theory of the *Principia* indicates that the solar system must have been designed by an intelligent agent and could not have arisen through the physical interactions of material bodies. In the first edition of the *Principia* in 1687, Newton had made such a claim in a very brief statement (Newton 1972: vol. 2: 582–3; Cohen 1971: 154–6)[^cohen-1971][^newton-1972]. In the second edition of the text (published in 1713), he removed that statement, replacing it with a more extensive discussion in the new section of the text, added to its end, called the “General Scholium” (mentioned above). Through their correspondence, Bentley learned that from Newton’s point of view, the positions of the planets relative to one another—and especially to the sun—indicate that mere chance, or the ordinary physical interactions of the planetary bodies, could not have placed each planet in precisely the right orbit to maintain a solar system like ours for an extended period of time. With this argument, Newton seems to be indicating that mere chance would have produced an unstable planetary system, one in which the planets would eventually either be too strongly attracted to the sun, falling into it, or too weakly attracted, flying off into space. In this episode, a theologian appeals to the new authority of Newtonian natural philosophy when attempting to undermine atheism. And that was apparently the very kind of interchange that Boyle had envisioned when endowing the lecture series.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本特利尤其寻求牛顿的帮助，是因为他想得到指引，以参透《原理》的理论如何表明太阳系必定由一位理智的施动者设计，而不可能通过物质物体的物理相互作用而产生。在 1687 年《原理》第一版中，牛顿已在一则非常简短的陈述中提出过这样的主张（Newton 1972: vol. 2: 582–3; Cohen 1971: 154–6）[^cohen-1971][^newton-1972]。在该书第二版（1713 年出版）中，他删去了那则陈述，代之以书末新增的、名为“总释”的新章节（前文已提及）中一段更为详尽的讨论。通过通信，本特利了解到，在牛顿看来，诸行星彼此的相对位置——尤其是它们相对于太阳的位置——表明，单纯的偶然，或行星体的寻常物理相互作用，不可能把每颗行星都放在恰好的轨道上，使像我们这样的太阳系长期维持。借这个论证，牛顿似乎在提示：单纯的偶然会造出一个不稳定的行星系统，其中行星最终要么受太阳吸引过强而落入太阳，要么吸引过弱而飞入太空。在这一事例中，一位神学家在试图削弱无神论时，诉诸牛顿自然哲学的新权威。而这显然正是波义耳捐设讲座系列时所设想的交流方式。
+    step2: |-
+      本特利之所以特别求助于牛顿，是想让他指点自己参透：《原理》的理论究竟如何表明，太阳系必定出自一位理智施动者的设计，而不可能由物质物体的物理相互作用自行形成。1687 年《原理》初版里，牛顿曾以一则极简短的陈述提出过这一主张（Newton 1972: vol. 2: 582–3; Cohen 1971: 154–6）[^cohen-1971][^newton-1972]。到 1713 年第二版，他删去那则陈述，改在书末新增的“总释”一节中展开较为详尽的讨论（前文已提及）。本特利从通信中得知：按牛顿的看法，诸行星相互之间、特别是它们与太阳之间的位置关系表明，单靠偶然，或单靠行星体的寻常物理作用，不可能把每颗行星恰好安放在合适的轨道上，从而让像我们这样的太阳系长久维持下去。这番话似乎在提示：若只凭偶然，行星系统便不会稳定——行星终归要么被太阳吸得过紧而坠入其中，要么吸力过弱而飞散入太空。这一事例里，神学家在拆解无神论时，借重了牛顿自然哲学的新权威。波义耳捐设讲座时设想的，显然正是这样的往还。
   - id: 51
     kind: body
     source: |-
       Newton’s correspondence with Bentley is justly famous for another reason. The criticisms of Newton’s theory of gravity by Leibniz and Huygens, outlined briefly above, would prove essential to the Continental reception of Newtonian natural philosophy more generally in the late seventeenth and early eighteenth centuries. Since Newton held both of these mathematicians in high regard—he tells Leibniz in a 1693 letter that “Huygens is a master, and his remarks on my discoveries are brilliant” (Newton 2004: 108)[^newton-2004]—one might assume that their criticisms would have pressed Newton into articulating an extensive defense of the possibility of action at a distance. However, Newton presented no such defense, at least not explicitly. In fact, there is evidence that Newton himself may have rejected the possibility of action at a distance, despite the fact that the *Principia* allows it as a conceptual possibility, if not an empirical reality. The evidence lies in Newton’s correspondence with Bentley. In February of 1693, after receiving three letters from Newton, Bentley wrote an extensive reply that attempted to characterize Newton’s theory of gravity, along with his understanding of the nature of matter, in a way that could be used to undermine various kinds of atheism. With the three earlier letters as his guide, Bentley makes the following estimation of Newton’s understanding of the possibility that gravity could somehow be an essential feature of material bodies:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿与本特利的通信还有另一个理由理当闻名。上文简要勾勒的莱布尼茨与惠更斯对牛顿引力理论的批评，对于十七世纪末与十八世纪初欧洲大陆更广泛地接受牛顿自然哲学，将被证明是至关重要的。由于牛顿对这两位数学家都评价很高——他在 1693 年的一封信中对莱布尼茨说，“惠更斯是大师，他对我发现的意见是卓越的”（Newton 2004: 108）[^newton-2004]——人们或许会以为，他们的批评会迫使牛顿对超距作用的可能性作详尽的辩护。然而，牛顿并未提出这样的辩护，至少没有明确地提出。事实上，有证据表明牛顿本人可能拒斥了超距作用的可能性，尽管《原理》允许它作为一种概念上的可能性——纵然不是经验现实。证据就在牛顿与本特利的通信中。1693 年 2 月，本特利在收到牛顿三封信后，写了一封详尽的回信，试图以一种可用于削弱各种无神论的方式，刻画牛顿的引力理论以及他对物质本性的理解。以先前三封信为指引，本特利对牛顿关于引力何以可能是物质物体之本质特征这一可能性的理解，作了如下估计：
+    step2: |-
+      牛顿与本特利的通信之所以著名，还另有一层缘由。上文简述的莱布尼茨、惠更斯对牛顿引力理论的批评，后来对十七世纪末、十八世纪初欧陆接受牛顿自然哲学的整体局面，起了关键作用。牛顿对这两位数学家都极为推崇——1693 年他在给莱布尼茨的信中说，“惠更斯是大师，他对我那些发现的评说十分精彩”（Newton 2004: 108）[^newton-2004]——人们因此会以为，二人的批评会逼牛顿为超距作用的可能作出长篇辩护。但牛顿并没有这样做，至少没有明说。事实上，有证据表明牛顿本人或许并不接受超距作用，尽管《原理》在概念上为它留了余地，即便那并不是经验现实。证据见于牛顿致本特利的书信。1693 年 2 月，收到牛顿三封来信之后，本特利写了一封长信作答，试图用一种可用来拆解各类无神论的方式，概括牛顿的引力理论及其对物质本性的理解。凭先前三封信作依据，本特利这样估计牛顿对“引力或可成为物质物体本质特征”这一可能性的理解：
   - id: 52
     kind: body
     source: |-
       > (2) And as for Gravitation, tis impossible that That should either be coæternal & essential to Matter, or ever acquired by it. Not essential and coæternal to Matter; for then even our System would have been eternal (if gravity could form it) against our Atheist’s supposition & what we have proved in our Last. For let them assign any given time, that Matter convened from a Chaos into our System, they must affirm that before the given time matter gravitated eternally without convening, which is absurd. {Sir, I make account, that your courteous suggestion by your Last, that a Chaos is inconsistent with the Hypothesis of innate Gravity, is included in this paragraph of Mine.} and again, tis unconceivable, that inanimate brute matter should (without a divine impression) operate upon & affect other matter without mutual contact: as it must, if gravitation be essential and inherent in it. (Newton 1959–vol. 3: 249)[^newton-1959]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （2）至于引力，它既不可能与物质同为永恒、本质的，也不可能为物质所获得。不可能与物质同为永恒、本质的；因为那样一来，连我们的系统也会是永恒的（如果引力能形成它的话），这与我们无神论者的假设相反，也与我们在上一封信中所证明的相反。因为他们尽可指定任一给定时刻，说物质从混沌聚合成我们的系统；他们必定还要断言，在那个给定时刻之前，物质永恒地具有引力却并未聚合，这是荒谬的。{先生，我以为，您上一封信中那句客气的提示——混沌与天赋引力假说不相容——已包含在我的这一段落之中。}此外，不可设想的是，无生命的粗笨物质竟能（若无神性的印入）在彼此不接触的情况下作用于并影响其他物质：而若引力是物质本质的、固有的，情形必定如此。（Newton 1959–vol. 3: 249）[^newton-1959]
+    step2: |-
+      > （2）至于引力，它绝不可能是与物质同为永恒且本质的，也不可能为物质所获得。不可能与物质同为永恒、本质：果真如此，连我们的系统都会是永恒的（只要引力能形成它），这与我们无神论者的假设相违，也与上一封信的证明相违。他们尽可指定任一时刻，说物质自混沌聚合成我们的系统；但这样一来，他们就必须同时断言：在该时刻之前，物质虽永恒地具有引力却并未聚合——岂非荒谬。{先生，我想，您上封信里那句客气话——混沌与天赋引力之假说不相容——已含在我这一段里了。}再者，无生命的粗笨物质竟能（不借神性印入）在互不接触的情况下作用于并影响别的物质，这不可设想；而若引力为物质所本质固有，情形必然如此。（Newton 1959–vol. 3: 249）[^newton-1959]
   - id: 53
     kind: body
     source: |-
       In reply to this letter, Newton refers back to this second proposition, making one of the most famous of all his pronouncements concerning the possibility of action at a distance:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在回这封信时，牛顿重提这第二个命题，由此作出他关于超距作用可能性的一切论述中最著名的一段：
+    step2: |-
+      牛顿在回信中再次提到这第二个命题，说下了他有关超距作用可能性的论述中最著名的一段话：
   - id: 54
     kind: body
     source: |-
       > The last clause of the second position I like very well. It is inconceivable that inanimate brute matter should, without the mediation of something else which is not material, operate upon and affect other matter without mutual contact, as it must be, if gravitation in the sense of Epicurus, be essential and inherent in it. And this is one reason why I desired you would not ascribe innate gravity to me. That gravity should be innate, inherent, and essential to matter, so that one body may act upon another at a distance through a vacuum, without the mediation of anything else, by and through which their action and force may be conveyed from one to another, is to me so great an absurdity that I believe no man who has in philosophical matters a competent faculty of thinking can ever fall into it. Gravity must be caused by an agent acting constantly according to certain laws; but whether this agent be material or immaterial, I have left open to the consideration of my readers. (Newton 2004: 102–3)[^newton-2004][^note-24]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 第二个命题的最后一句话我很喜欢。不可设想的是，无生命的粗笨物质，若无某种非物质的他物之中介，竟能在互不接触的情况下作用于并影响别的物质；而若按伊壁鸠鲁的意义，引力是物质本质的、固有的，情形必定如此。这也是我希望您不要把天赋引力归给我的一个理由。引力竟是物质天赋的、固有的、本质的，以至一物体可以隔着真空在远处作用于另一物体，无需任何他物之中介以使它们的作用与力由一个传达给另一个——在我看来，这荒谬至极，我相信凡在哲学事务上具有胜任思考能力的人，都不会陷入其中。引力必定由某个依一定定律恒常作用的施动者所引起；但这施动者是物质还是非物质，我留待读者去考虑。（Newton 2004: 102–3）[^newton-2004][^note-24]
+    step2: |-
+      > 第二个命题的末一句，我很中意。无生命的粗笨物质，若不借某种非物质的他物为中介，竟能在互不接触的情况下作用于并影响别的物质，这是不可设想的；而若照伊壁鸠鲁的意思，引力乃物质所本质固有，情形便必然如此。这也是我请您不要把天赋引力算在我账上的一个缘故。引力若是物质天赋的、固有的、本质的，以致一物体能隔着真空在远处作用于另一物体，无须任何他物为中介以传达彼此的作用与力——在我看来，这荒谬之极，我相信凡在哲学事务上尚有几分思考能力的人，都不会陷此谬误。引力必由某一依固定定律恒常作用的施动者所生；至于这施动者是物质还是非物质，我留给读者去考虑。（Newton 2004: 102–3）[^newton-2004][^note-24]
   - id: 55
     kind: body
     source: |-
       It certainly seems that Newton was uncomfortable with the very idea of action at a distance. But of course, things are not always as they seem in interpretations of difficult philosophical texts: some historians and philosophers have argued strongly that there are other readings of the letter.[^note-25] Rather than rejecting distant action between material bodies *per se*, they argue, Newton may have been rejecting a particular version of that idea, one associated with the “Epicurean” view that gravity is somehow an essential feature of all material bodies, a stronger view than Newton might wish to endorse. The idea might be roughly as follows: Newton wanted to leave open the possibility that God had endowed bodies with a power to act at a distance on one another, a position that is at least reminiscent of Locke’s view in his correspondence with Stillingfleet (see above). The reason is that Newton held the standard view at the time that matter itself is passive, requiring some kind of divine intervention in order to interact causally with other matter. Again, one finds a Lockean echo of this idea (which may be no accident): Locke sometimes suggests that matter itself is passive in the sense that it cannot move itself; instead, motion must be “superadded” to it by God. If the world consisted solely of a bunch of material objects, say rocks floating in interstellar space, then they would not experience any changes in their states of motion unless some external force acted upon them. Left to its own devices, matter is passive and does not move. To argue, as some “Epicurean” philosophers may have done, that matter itself essentially contains gravity as a feature, is to deny that matter is passive; it is to suggest that the rocks in interstellar space would attract one another and begin to move “on their own”, without any external force influencing them. And this, in turn, might lead us on a slippery slope to atheism, for on this view, matter would act on its own, without any divine intervention. Or so Bentley and Newton might be interpreted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看起来，牛顿确实对超距作用这一观念本身感到不安。但当然，在解读艰深哲学文本时，事情并不总是如表象所示：一些历史学家和哲学家坚决主张，这封信还有其他读法。[^note-25] 他们论证说，牛顿所拒斥的或许不是物质物体之间的远距作用本身，而是这一观念的某个特定版本——它关联于“伊壁鸠鲁派”的观点，即引力在某种意义上是一切物质物体的本质特征；这一观点比牛顿可能愿意认可的更强。这一想法大致如下：牛顿想保留这样一种可能性，即上帝赋予了物体在远处彼此作用的能力；这一立场至少令人想起洛克在与斯蒂林弗利特通信中的观点（见上文）。理由在于，牛顿持有当时的标准观点：物质本身是被动的，要与其他物质发生因果相互作用，就需要某种神性干预。这里又一次可以听到这一观念的洛克式回声（这或许并非偶然）：洛克有时暗示，物质本身是被动的，意即它不能自行运动；运动必须由上帝“附加”给它。假如世界仅由一堆物质对象构成，比如漂浮在星际空间的岩石，那么除非有某种外力作用于它们，它们运动状态不会发生任何变化。任其自便，物质是被动的，不会运动。像某些“伊壁鸠鲁派”哲学家可能做过的那样论证物质本身本质上以引力为一种特征，就是否认物质是被动的；就是在暗示星际空间的岩石会彼此吸引并“自行”开始运动，不受任何外力影响。而这又可能把我们引上通向无神论的滑坡，因为按这种观点，物质会自行作用，无需任何神性干预。本特利与牛顿或可作如是解。
+    step2: |-
+      看来，牛顿对超距作用这一观念本身确实感到不安。当然，解读艰深的哲学文本时，事情的表面未必就是实情：有些史家与哲学家力主，这封信还另有读法。[^note-25] 他们认为，牛顿所拒斥的未必是物质物体间的远距作用本身，而可能是该观念的某一特定版本：它与“伊壁鸠鲁派”的看法相关，即引力在某种意义上是一切物质物体的本质特征——这比牛顿本人愿意接受的立场要强。其思路大致是：牛顿愿意为一种可能性留余地——上帝赋予物体以在远处彼此作用的能力；这一立场至少与洛克致斯蒂林弗利特信中的看法相仿（见上文）。因为牛顿认同当时的通行看法：物质本身被动，须赖某种神性干预才能与其他物质发生因果作用。这里又能听到洛克式的回声（或许并非偶然）：洛克有时暗示，物质本身被动，亦即不能自行运动；运动须由上帝“附加”于它。倘世界只是一堆物质对象，譬如漂浮于星际空间的岩石，那么只要没有外力作用，它们的运动状态便不会发生任何改变。物质若任其自便，则处于被动，不会自行运动。若如某些“伊壁鸠鲁派”哲学家那样主张：物质本身就本质地含有引力这一特征，那便是否认物质被动；等于说星际空间的岩石会相互吸引、“自行”动起来，无须任何外力推动。而这又可能顺坡滑向无神论：照这种看法，物质自行作用，无须神性干预。本特利与牛顿的立场，或可如此解读。
   - id: 56
     kind: body
     source: |-
       Clearly, one reasonable motive for uncovering a nuanced interpretation of Newton’s letter to Bentley is the obvious fact that Newton apparently regarded action at a distance as perfectly possible when writing the *Principia*. Indeed, it is difficult to reconcile the *Principia* with the Bentley correspondence. One can argue that although he left open the possibility of action at a distance in his main work, Newton himself did not accept that possibility because of his more general commitments. The debate on such matters continues unabated. However, regardless of Newton’s personal attitude toward distant action among material bodies, his mechanist interlocutors and readers continued to object to the physical theory outlined in Book III of the *Principia* on the grounds that, at the very least, it left open the conceptual possibility of a kind of action that cannot in fact exist anywhere in nature. That remained one of Leibniz’s principal objections against Newtonian natural philosophy throughout the last twenty years of his life, animating his correspondence with numerous figures, including most prominently the Newtonian theologian and philosopher Samuel Clarke.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显然，为牛顿致本特利的信发掘出一种细致解读，一个合理的动因是这一明显事实：牛顿在写作《原理》时显然认为超距作用完全可能。事实上，很难把《原理》与本特利的通信协调起来。人们可以论证：尽管牛顿在其主要著作中为超距作用留了可能，但牛顿本人因其更一般的承诺并不接受这种可能。关于这类问题的争论有增无减。然而，不论牛顿本人对物质物体之间的远距作用持何态度，与他对话的机械论者和他的读者继续反对《原理》第三卷所勾勒的物理理论，理由是：它至少为一种在自然界中实际上不可能存在的作动留下了概念上的可能。在莱布尼茨生命的最后二十年里，这始终是他反对牛顿自然哲学的主要异议之一，并推动他与众多人物通信，其中最突出的有牛顿派神学家与哲学家塞缪尔·克拉克。
+    step2: |-
+      显然，人们之所以要为牛顿致本特利那封信找出更细致的解读，一个合理的动因就是：牛顿写《原理》时显然认为超距作用完全可能。事实上，《原理》与这批通信很难调和。也可以辩称：牛顿虽在主要著作中为超距作用留出可能，但以他更宽泛的立场而言，他本人并不接受这一可能。此类问题的争论至今不息。然而，不论牛顿本人对物质物体间的远距作用态度如何，那些机械论对话者与读者仍不断反对《原理》第三卷所阐述的物理理论，理由很简单：它至少在概念上容许了一种在自然界中根本不可能存在的作用方式。莱布尼茨晚年二十年间，这始终是他反对牛顿自然哲学的主要理由之一，也促成他与许多人通信，其中最著名的是牛顿派神学家、哲学家塞缪尔·克拉克。
   - id: 57
     kind: body
     source: |-
       ## 6. The aftermath of the *Principia* II: debates with Leibniz
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 《原理》之后 II：与莱布尼茨的论战
+    step2: |-
+      ## 6 《原理》之后（二）：与莱布尼茨的论战
   - id: 58
     kind: body
     source: |-
       In many ways, Leibniz and Newton grew up in the same philosophical environment. Each came of age during the heyday of Cartesianism, and each argued in particular that Cartesian views in natural philosophy failed to include a sufficiently robust conception of the forces of bodies in nature. Force would lie at the center of Newton’s mature physics (Westfall 1971)[^westfall-1971], and would become even more central to Leibniz’s thinking, playing an essential role in his metaphysics as well (Garber 2012)[^garber-2012]. Indeed, in Leibniz’s criticisms of Cartesian physics involving what was later called the *vis viva*controversy (Smith 2006)[^smith-2006] and in Newton’s mature physics, each argued that Descartes and his followers had failed to understand the importance of the notion of force. Leibniz and Newton knew one another as mathematicians already in the 1670s, and as we have seen, Leibniz discussed Newton’s first optical work with Huygens. But after the publication of the *Principia* in 1687, their philosophical relationship, which was marked originally by respectful disagreement, began to develop in earnest. Just two years after the *Principia* appeared, Leibniz published his *Essay on the Causes of Celestial Motions* (or *Tentamen*), and then in 1693, the two corresponded with one another on mathematical and philosophical issues (Newton 2004: 106–9)[^newton-2004]. Leibniz initiated their discussion in March of 1693: after highlighting Newton’s “astonishing discovery” that the elliptical planetary orbits found by Kepler can be the result of gravitational attraction within the solar system, Leibniz contends that these motions must be caused by “the motion of a fluid medium” (Newton 2004: 106)[^newton-2004]. He had described such a fluid medium, or vortex, in detail in his own *Essay*. The background to Leibniz’s comment is his unwavering commitment—one shared by Huygens, whose theory of gravity’s cause Leibniz mentions in the same letter—to the mechanist requirement that all changes in motion must be the result of material impact. Thus for Leibniz, one can (e.g.) speak of the sun as attracting the earth as a *façon de parler*, but in fact the cause of the earth’s acceleration, of its true motion around the sun, is its interaction with a fluid medium. (Descartes was also a famous proponent of a vortex theory of planetary motion—Aiton 1972: 30–64; Gaukroger 2002: 150–3.)[^aiton-1972][^gaukroger-2002] When he replied in October of 1693, however, Newton did not accept Leibniz’s philosophical olive branch. Leibniz had insisted that the vortex theory of planetary motion “would not at all detract from the value and truth of your discovery” that Kepler’s ellipses result simply from the conception of attraction or gravitation (Newton 2004: 107)[^newton-2004]. This olive branch was important because earlier vortex theorists, especially Descartes, had failed to account for Kepler’s laws, so Leibniz was crediting Newton with advancing astronomy in this respect (and indeed, he attempted to reflect Kepler’s results in his *Tentamen*). But Newton brushed aside the olive branch, noting that vortices would disturb the motions of planets and comets through the solar system. He writes that some “very fine” matter fills the heavens, adding:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在许多方面，莱布尼茨与牛顿是在同一个哲学环境中成长起来的。两人都在笛卡尔主义的全盛期成年，并且都特别论证，笛卡尔在自然哲学中的观点未能包含关于自然界物体之力的足够强健的概念。力将成为牛顿成熟物理学的核心（Westfall 1971）[^westfall-1971]，而在莱布尼茨的思想中会变得更加核心，并在其形而上学中也扮演本质性的角色（Garber 2012）[^garber-2012]。的确，在莱布尼茨对笛卡尔物理学的批评（涉及后来所称的活力之争）（Smith 2006）[^smith-2006]中，以及在牛顿成熟的物理学中，两人都论证笛卡尔及其追随者未能理解“力”这一概念的重要性。早在 1670 年代，莱布尼茨与牛顿就以数学家的身份相识；而且如前所见，莱布尼茨曾与惠更斯讨论牛顿最初的光学著作。但在 1687 年《原理》出版之后，他们之间的哲学关系——起初以相互尊重的分歧为特征——开始认真地发展起来。《原理》问世仅两年，莱布尼茨就出版了他的《论天体运动的原因》（即《试探》），随后在 1693 年，两人就数学与哲学问题相互通信（Newton 2004: 106–9）[^newton-2004]。1693 年 3 月，莱布尼茨发起他们的讨论：他先强调牛顿的“惊人发现”，即开普勒所发现的椭圆行星轨道可以是太阳系内引力吸引的结果，然后主张这些运动必定由“一种流体介质之运动”所引起（Newton 2004: 106）[^newton-2004]。他在自己的《论》中详细描述过这样一种流体介质，即涡旋。莱布尼茨这一评论的背景，是他对机械论要求——运动的一切变化都必定是物质撞击的结果——的不渝承诺；惠更斯也抱有这一承诺，莱布尼茨在同一封信中提到了惠更斯关于引力之因的理论。因此对莱布尼茨来说，人们（例如）可以说太阳吸引地球，但这只是 *façon de parler*（说法）；实际上，地球加速度之因、它绕太阳的真实运动之因，是它与一种流体介质的相互作用。（笛卡尔也是行星运动涡旋说的著名倡导者——Aiton 1972: 30–64；Gaukroger 2002: 150–3。）[^aiton-1972][^gaukroger-2002]然而，牛顿在 1693 年 10 月回信时，并未接受莱布尼茨的哲学橄榄枝。莱布尼茨曾坚持说，行星运动的涡旋说“绝不会贬损你的发现的价值与真实性”，即开普勒的椭圆仅仅源于吸引或引力的观念（Newton 2004: 107）[^newton-2004]。这根橄榄枝之所以重要，是因为早先的涡旋论者，尤其是笛卡尔，未能说明开普勒定律；所以莱布尼茨是在称赞牛顿在这方面推进了天文学（而且他确实试图在自己的《试探》中反映开普勒的结果）。但牛顿把这根橄榄枝搁置一旁，指出涡旋会扰乱行星与彗星穿越太阳系的运动。他写道，某种“极精细”的物质充满诸天，并补充说：
+    step2: |-
+      从许多方面看，莱布尼茨和牛顿成长于相同的哲学环境。二人都在笛卡尔主义的鼎盛年代成人，而且都特别指出：笛卡尔派的自然哲学观点，缺乏足够强健的物体之力概念。“力”将成为牛顿成熟物理学的中心（Westfall 1971）[^westfall-1971]；在莱布尼茨那里，其地位更为核心，还在他的形而上学中起本质作用（Garber 2012）[^garber-2012]。莱布尼茨批评笛卡尔物理学，牵涉到后来所称的“活力之争”（Smith 2006）[^smith-2006]；牛顿的成熟物理学亦然——两人都在论证：笛卡尔及其追随者没有懂得“力”这一概念的分量。早在 1670 年代，莱布尼茨和牛顿便以数学家身份相识；如前所述，莱布尼茨还曾与惠更斯讨论牛顿最初的光学论文。不过 1687 年《原理》问世后，他们的哲学交往——最初以彼此尊重而意见相左为特点——才真正展开。《原理》问世仅两年，莱布尼茨便刊行《论天体运动之原因》（即 *Tentamen*）；1693 年，二人就数学与哲学问题通信（Newton 2004: 106–9）[^newton-2004]。1693 年 3 月，莱布尼茨开启了这场讨论：他先标举牛顿的“惊人发现”——开普勒所找出的椭圆行星轨道，可以是太阳系内部引力吸引的结果；随后主张，这些运动必定出自“某种流体介质的运动”（Newton 2004: 106）[^newton-2004]。他在自己的《论天体运动之原因》里，对这种流体介质（涡旋）作过详细描述。莱布尼茨这番话的背景，是他对机械论要求的坚守：运动的一切变化都必须源于物质撞击。惠更斯同样如此，莱布尼茨在同一封信里就提到过他关于引力之因的理论。所以在莱布尼茨看来，说太阳吸引地球（举例而言）只是一种 *façon de parler*（说法）；地球加速度的真正原因、它绕日运行的实际原因，其实是它与流体介质的相互作用。（行星运动的涡旋说，笛卡尔也是著名的倡导者——Aiton 1972: 30–64；Gaukroger 2002: 150–3。）[^aiton-1972][^gaukroger-2002]然而 1693 年 10 月复信时，牛顿没有接莱布尼茨递来的这枝哲学橄榄枝。莱布尼茨先前强调，行星运动的涡旋说“丝毫不会减损你那项发现的价值与真理”——即开普勒椭圆仅由吸引或引力这一观念便可得出（Newton 2004: 107）[^newton-2004]。这根橄榄枝颇有分量：早先的涡旋论者（尤其是笛卡尔）都没能说明开普勒定律，莱布尼茨因此把推进天文学的功劳记在牛顿名下（他在《试探》中也确实设法反映了开普勒的成果）。牛顿却把橄榄枝拂开，指出涡旋会干扰行星和彗星穿越太阳系的运动。他写道，诸天充满某种“极为精细”的物质，接着又说：
   - id: 59
     kind: body
     source: |-
       > For since celestial motions are more regular than if they arose from vortices and observe other laws, so much so that vortices contribute not to the regulation but the disturbance of the motions of planets and comets; and since all phenomena of the heavens and of the sea follow precisely, so far as I am aware, from nothing but gravity acting in accordance with the laws described by me; and since nature is very simple, I have myself concluded that all other causes are to be rejected and that the heavens are to be stripped as far as may be of all matter, lest the motions of planets and comets be hindered or rendered irregular. But if, meanwhile, someone explains gravity along with all its laws by the action of some subtle matter, and shows that the motion of planets and comets will not be disturbed by this matter, I shall be far from objecting. (Newton 2004: 108–9)[^newton-2004]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因为天体运动比由涡旋产生者更为规则，并遵循别的定律，以至于涡旋无助于行星与彗星运动的调节，反而扰乱之；又因为我所知的一切天空与海洋的现象，都恰恰只遵循我所述定律而作用的引力，别无其他；也因为自然极为简单，我本人便断定：其他一切原因都应弃置，诸天应尽可能剥除一切物质，以免行星与彗星的运动受阻碍或变得不规则。但与此同时，若有人以某种精细物质的作用来解释引力及其全部定律，并表明行星与彗星的运动不会受这种物质扰乱，我也绝不反对。（Newton 2004: 108–9）[^newton-2004]
+    step2: |-
+      > 天体运动比出于涡旋者更规则，且遵循别的定律——涡旋对行星彗星的运动非但无调节之功，反而起到扰乱作用；而据我所知，天空与海洋的一切现象，恰恰只从依我所述定律而作用的引力而来；况且自然极为简单，所以我断定：其余一切原因都该摒弃，诸天应尽可能剥尽物质，免得行星与彗星的运动受阻或变得不规则。不过，若有人以某种精细物质的作用来解释引力及其全部定律，并表明行星与彗星的运动不会受该物质扰乱，我却绝不反对。（Newton 2004: 108–9）[^newton-2004]
   - id: 60
     kind: body
     source: |-
       This is a passage rich with meaning. Leibniz clearly insisted that vortices, or some physical object or fluid, must be in contact with the planetary orbits if we are to explain why they deviate from the tangents along the orbital paths when circling the sun. Newton’s reply is that giant swirling fluids in the heavens would actually disturb the regular orbital paths and the paths of comets through the solar system. That reply might be thought of as empirical in character, for it depends on observational data regarding the actual paths of the heavenly bodies. But Leibinz’s perspective is obviously not merely empirical in character: he does not postulate vortices (or anything akin to them) on observational grounds; he infers their existence because he thinks we know (perhaps we can add, we know *a priori*) that physical bodies such as comets or planets can deviate from a rectilinear path—they can accelerate—only if some other physical item impacts upon them. Newton has a reply to that kind of view as well: he insists that the phenomena of the motion of the heavenly bodies “follows” solely from gravity itself—an impressed force, as we have seen, and therefore an “action”—in accordance with the laws of motion and the law of universal gravitation. Since gravity is an action—clearly, a causal notion—it seems clear that Newton’s answer to Leibniz’s idea that vortices cause the planetary orbits is that gravity itself causes them. It is not much of a leap to conclude, in turn, that this reply commits Newton to the idea that bodies involved in gravitational interactions, such as the sun and the earth, act at a distance on one another through the force of gravity. It is not hard to divine why Leibniz (and Huygens) would have concluded that Newton had relinquished any commitment to the norms of the mechanical philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是一段含义丰富的话。莱布尼茨显然坚持，如果我们要解释行星在绕日运行时为何偏离沿轨道路径的切线，涡旋——或某种物理对象或流体——就必须与行星轨道相接触。牛顿的回答是：诸天中巨大的旋转流体会实际上扰乱规则的轨道路径以及彗星穿越太阳系的路径。这个回答或可视为经验性的，因为它依赖于关于天体实际路径的观测数据。但莱布尼茨的视角显然不只是经验性的：他并非基于观测理由设定涡旋（或类似之物）；他推断其存在，是因为他认为我们知道（或许还可以补充：我们先天地知道），彗星或行星这样的物理物体只有在某个别的物理对象撞击它们时，才能偏离直线路径——才能加速。牛顿对这类观点也有回答：他坚持天体运动的现象只“遵从”引力本身——如前所见，引力是一种外加力，因而是一种“作用”——并依照运动定律与万有引力定律。既然引力是一种作用——显然是一个因果概念——那么牛顿对莱布尼茨“涡旋造成行星轨道”这一想法的回答显然就是：引力本身造成了它们。进而可以顺理成章地得出结论：这一回答使牛顿承诺，参与引力相互作用的物体，如太阳和地球，通过引力在远处彼此作用。不难猜到，莱布尼茨（以及惠更斯）为何会断定牛顿已放弃了对机械哲学规范的一切承诺。
+    step2: |-
+      这段话意味深长。莱布尼茨显然坚持：要解释行星绕日时为何偏离轨道切线，就得让涡旋、或某种物理对象与流体，与行星轨道相接触。牛顿则回答说：诸天中那些巨大的旋流，恰恰会扰乱规则的轨道和彗星穿越太阳系的路径。这一回答或许可看作经验性的，因为它依据的是天体实际路径的观测数据。不过莱布尼茨的立场显然不限于经验：涡旋（或类似之物）并不是他从观测出发设定的；他之所以推断其存在，是因为他认为我们知道（或许还可加一句：先天地知道）——彗星、行星这样的物理物体，只有在受到别的物理对象撞击时，才可能偏离直线、才会加速。对这类看法，牛顿同样有回应：他坚持认为，天体运动的现象仅“遵从”引力本身——如前所述，引力是一种外加力，因而是一种“作用”——并依照运动定律与万有引力定律。引力既是一种作用——显然是因果范畴的概念——那么牛顿对“涡旋造成行星轨道”一说的回答就清楚了：造成轨道的是引力本身。由此不难再推一步：按这一回答，牛顿就得承认，参与引力作用的物体——太阳与地球之类——是借引力在远处彼此施加作用的。也不难明白，莱布尼茨（以及惠更斯）为何会认定：牛顿已经把机械哲学的规范抛在一边了。
   - id: 61
     kind: body
     source: |-
       Despite Leibniz’s (and Huygens’s) criticisms of his theory of gravity in particular, and his methods in natural philosophy in general, Newton stuck to his guns. Nearly twenty years after their illuminating exchange in 1693, Leibniz and Newton narrowly missed a second opportunity to discuss their philosophical differences directly. In May of 1712, Leibniz published a letter to Nicholas Hartsoeker that was highly critical of the Newtonians; it was published in English translation in the *Memoirs of Literature*, a journal to which Roger Cotes, the editor of the *Principia’s* second edition, held a subscription (Newton 2004: 109)[^newton-2004]. After Cotes brought Leibniz’s criticisms to Newton’s attention—especially the claim that the *Principia* renders gravitation a “perpetual miracle” because it does not specify the physical mechanism underlying it—Newton wrote an intriguing, but only posthumously published, rebuttal. Here is part of Newton’s paraphrase of Leibniz’s original letter:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管莱布尼茨（以及惠更斯）批评他的引力理论，且更一般地批评他的自然哲学方法，牛顿仍坚持己见。在 1693 年那次富有启发的往还近二十年后，莱布尼茨与牛顿又一次几乎错过了直接讨论其哲学分歧的机会。1712 年 5 月，莱布尼茨发表了一封致尼古拉·哈特索克的信，对牛顿派大加批评；该信以英译发表在《文学纪事》上，而《原理》第二版的编者罗杰·科茨正是这份刊物的订户（Newton 2004: 109）[^newton-2004]。科茨把莱布尼茨的批评——尤其是这一说法：《原理》使引力成为一种“持续的奇迹”，因为它没有指明其背后的物理机制——提请牛顿注意之后，牛顿写了一篇饶有趣味的反驳，但只在身后才发表。以下是牛顿对莱布尼茨原信的部分转述：
+    step2: |-
+      莱布尼茨（还有惠更斯）既批评牛顿的引力理论，也一般地批评其自然哲学方法；但牛顿仍不改初衷。1693 年那场启发良多的往还过去近二十年后，莱布尼茨与牛顿又差一点再次直接交锋，讨论彼此的哲学分歧。1712 年 5 月，莱布尼茨发表致尼古拉·哈特索克的一封信，猛烈批评牛顿派；此信的英译刊于《文学纪事》，而《原理》第二版编者罗杰·科茨恰好订阅了这份刊物（Newton 2004: 109）[^newton-2004]。科茨把莱布尼茨的批评转告牛顿，特别是其中一句：《原理》未指明引力背后的物理机制，因此把引力变成了“持续的奇迹”。牛顿于是写了一篇颇为耐人寻味的反驳，却直到身后才刊行。牛顿对莱布尼茨原信的转述，有如下一段：
   - id: 62
     kind: body
     source: |-
       > But he [i.e., Leibniz] goes on and tells us that God could not create planets that should move round of themselves without any cause that should prevent their removing through the tangent. For a miracle at least must keep the planet in. (Newton 2004: 117)[^newton-2004]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 但他（即莱布尼茨）接着说，上帝不可能创造出这样一些行星：它们自行环绕运行，而无需任何原因阻止它们沿切线离去。因为至少得有奇迹才能把行星留住。（Newton 2004: 117）[^newton-2004]
+    step2: |-
+      > 可他（即莱布尼茨）接着又说：上帝不可能造出这样的行星——它们自行绕行，却没有任何原因阻止它们沿切线飞离；总得有奇迹，才能把行星留住。（Newton 2004: 117）[^newton-2004]
   - id: 63
     kind: body
     source: |-
       Newton’s response to this Leibnizian charge is illuminating:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿对这一莱布尼茨式指控的回应很有启发性：
+    step2: |-
+      牛顿对莱布尼茨这项指控的回应颇具启发性：
   - id: 64
     kind: body
     source: |-
       > But certainly God could create planets that should move round of themselves without any other cause than gravity that should prevent their removing through the tangent. For gravity without a miracle may keep the planets in. (*ibid*.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 但上帝当然能创造出这样的行星：它们自行环绕运行，除了引力的原因之外无需其他原因来阻止它们沿切线离去。因为无需奇迹，引力就能把行星留住。（*ibid*.）
+    step2: |-
+      > 但上帝当然能造出这样的行星——它们自行绕行，阻止它们沿切线飞离的原因，引力足矣，无须他求；因为无需奇迹，引力便能把行星留住。（*ibid*.）
   - id: 65
     kind: body
     source: |-
       Thus Newton repeats the view he mentions to Leibniz in 1693, viz., that the force of gravity itself causes the planets to follow their orbital paths rather than their inertial trajectories along the tangents to those orbits, independently of any fluid medium in the heavens. But in this posthumously published letter, Newton did not merely repeat his basic understanding of gravity from his 1693 exchange with Leibniz; he also included a wider discussion of mechanist norms within philosophy more generally. Again, Newton begins by quoting Leibniz:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是牛顿重申他在 1693 年向莱布尼茨提到的观点，即：引力本身使行星沿其轨道运行，而不是沿轨道切线的惯性轨迹运行，这与诸天中是否有任何流体介质无关。但在这封身后才发表的信中，牛顿不只是重复了他 1693 年与莱布尼茨往还中对引力的基本理解；他还更一般地就哲学中的机械论规范作了更广泛的讨论。牛顿再次从引用莱布尼茨开始：
+    step2: |-
+      这样，牛顿重申了 1693 年对莱布尼茨说过的那一观点：是引力本身使行星沿轨道运行，而非沿轨道切线的惯性轨迹滑行——这与天上有没有流体介质无关。不过，这封身后才刊行的信并不只是重述 1693 年通信里对引力的基本理解；牛顿还将讨论扩及哲学中更一般的机械论规范。牛顿又一次先引莱布尼茨：
   - id: 66
     kind: body
     source: |-
       > But Mr. Leibniz goes on. “The ancients and the moderns, who own that gravity is an occult quality, are in the right, if they mean by it that there is a certain mechanism unknown to them whereby all bodies tend towards the center of the earth. But if they mean that the thing is performed without any mechanism by a simple primitive quality or by a law of God who produces that effect without using any intelligible means, it is an unreasonable and occult quality, and so very occult that it is impossible that it should ever be done though an angel or God himself should undertake to explain it”. (Newton 2004: 116)[^newton-2004]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 但莱布尼茨先生接着说。“古人与今人凡是承认引力是一种隐秘的质的，只要他们的意思是：存在着某种他们所不知道的机制，使一切物体趋向地心，那他们就是对的。但若他们的意思是：此事无需任何机制，只凭一种简单的原始性质，或凭上帝的定律、由上帝不使用任何可理解的手段而产生这一效果，那么它就是一种不合理的、隐秘的质，而且隐秘至极，纵使天使或上帝本人来解说，也绝不可能办到”。（Newton 2004: 116）[^newton-2004]
+    step2: |-
+      > 可莱布尼茨先生接着说：“古今凡承认引力是一种隐秘之质的人，若其意为：有某种他们所不知的机制，使万物趋赴地心，那他们是对的。但若其意为：此事不借任何机制，只凭一种简单的原始性质，或只凭上帝的一条定律——上帝不用任何可理解的手段便产生这一效果——那它就是不合理而隐秘的质，且隐秘之极，纵令天使或上帝亲自出面解说，也永无可能办到”。（Newton 2004: 116）[^newton-2004]
   - id: 67
     kind: body
     source: |-
       In this passage, Leibniz returns to the kind of criticism that he would present against the “superaddition” view that Locke presented to Stillingfleet, arguing that philosophers must reject the idea that gravity could simply be a feature of bodies that God adds to them, despite the fact that we cannot possibly understand gravitational interactions based on our idea of body (our idea of extended solid substances, or another similar idea). Indeed, Leibniz raises the stakes by contending that God himself could not explicate how such interactions are possible based on the idea of matter. Leibniz would argue, perhaps on metaphysical grounds, that any laws said to govern the interaction of bodies, and any qualities attributed to bodies, must be intelligible in the terms available to philosophers through the mechanist orientation. In particular, laws and qualities must be intelligible in terms of the shape, size, motion and impenetrability (or solidity) of bodies. In this way, one might conclude that Locke and Leibniz actually do not necessarily disagree on whether gravity can be made intelligible in mechanist terms; they simply disagree on the propriety of the contention that God could “superadd” a feature to bodies that cannot be made intelligible in that way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这一段里，莱布尼茨回到他针对洛克向斯蒂林弗利特提出的“附加”说将会提出的那类批评，论证哲学家必须拒斥这样的想法：引力可以只是上帝加于物体的一种特征——尽管事实上，我们不可能基于物体观念（我们关于广延的固体实体的观念，或另一种类似的观念）理解引力相互作用。的确，莱布尼茨提高赌注，主张上帝本人也无法基于物质观念阐明这类相互作用如何可能。莱布尼茨会论证（或许基于形而上学理由），凡被称为支配物体相互作用的定律，以及凡归于物体的性质，都必须能以哲学家通过机械论取向所拥有的术语来理解。特别是，定律与性质必须能就物体的形状、大小、运动与不可入性（或固体性）来理解。这样，人们或许会得出结论：洛克与莱布尼茨在引力能否以机械论术语变得可理解这一点上，其实未必分歧；他们只是对如下主张是否恰当有分歧：上帝能把一种无法以那种方式变得可理解的特征“附加”给物体。
+    step2: |-
+      这一段里，莱布尼茨旧话重提，把矛头指向洛克对斯蒂林弗利特提出的“附加”说：哲学家必须否认引力可以只是上帝给物体加上的一项特征——即便我们根本不可能凭物体观念（广延的固体实体之类的观念）去理解引力作用。莱布尼茨更进一步：他说，即便上帝本人，也无法凭物质观念说明这类作用何以可能。莱布尼茨会论证（或许是出于形而上学理由）：举凡支配物体相互作用的定律、归于物体的性质，都必须能用机械论取向所提供的术语加以理解。具体说来，定律与性质必须能从物体的形状、大小、运动与不可入性（或坚实性）得到说明。由此不妨说：就引力能否用机械论术语说明而言，洛克与莱布尼茨未必真有分歧；两人分歧只在于，主张上帝可以把无法那样说明的特征“附加”于物体，是否妥当。
   - id: 68
     kind: body
     source: |-
       Newton’s reply to Leibniz’s argument is illuminating. Instead of presenting a narrow defense of his view, perhaps by denying that he has postulated any non-mechanical causation with his theory of gravity, he challenges the mechanical philosophy itself by contending that it should not be understood as holding for all natural phenomena:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿对莱布尼茨论证的回应很有启发性。他没有为自己的观点作狭隘的辩护（或许可以否认自己在引力理论中设定了任何非机械的因果作用），而是挑战机械哲学本身，主张不应把它理解为适用于一切自然现象：
+    step2: |-
+      牛顿对莱布尼茨这一论证的答复，颇能说明问题。牛顿并未就自己的立场作狭隘辩护——比如否认其引力理论设定了某种非机械的因果——而是直接挑战机械哲学本身，主张不应认为它适用于一切自然现象：
   - id: 69
     kind: body
     source: |-
       > The same ought to be said of hardness. So then gravity and hardness must go for unreasonable occult qualities unless they can be explained mechanically. And why may not the same be said of the *vis inertiae* [force of inertia] and the extension, the duration and mobility of bodies, and yet no man ever attempted to explain these qualities mechanically, or took them for miracles or supernatural things or fictions or occult qualities. They are the natural, real, reasonable, manifest qualities of all bodies seated in them by the will of God from the beginning of the creation and perfectly incapable of being explained mechanically, and so may be the hardness of primitive particles of bodies. And therefore if any man should say that bodies attract one another by a power whose cause is unknown to us, or by a power seated in the frame of nature by the will of God, or by a power seated in a substance in which bodies move and float without resistance and which has therefore no *vis inertiae* but acts by other laws than those that are mechanical: I know not why he should be said to introduce miracles and occult qualities and fictions into the world. For Mr. Leibniz himself will scarce say that thinking is mechanical as it must be if to explain it otherwise be to make a miracle, an occult quality, and a fiction. (Newton 2004: 116)[^newton-2004]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 硬度也当如此说。那么，除非引力与硬度能以机械方式解释，它们就必定被当作不合理的隐秘的质。何以不可以用同样的说法来对待惰性力〔惯性力〕以及物体的广延、持续与可动性呢？然而从没有人试图以机械方式解释这些性质，也没有人把它们当作奇迹、超自然之物、虚构或隐秘的质。它们是万物自然、真实、合理、显明的性质，自创世之初便由上帝的意志置于物体之中，完全无法以机械方式解释；物体的原始微粒的硬度或许也是如此。因此，若有人说物体凭借一种我们不知其因的能力相互吸引，或凭借一种由上帝意志置于自然框架中的能力，或凭借一种置于某实体之中的能力——物体在该实体中运动漂浮而无阻力，故该实体没有惰性力，而是依机械定律以外的其他定律作用——我真不知为何就该说他将奇迹、隐秘的质与虚构引入了世界。因为莱布尼茨先生本人恐怕也不会说思维是机械的；而若以别的方式解释思维便等于制造奇迹、隐秘的质与虚构，那么思维就必须是机械的。（Newton 2004: 116）[^newton-2004]
+    step2: |-
+      > 硬度亦当如此说。这样，引力与硬度若不能以机械方式解释，便只得算作不合理的隐秘的质。那么，惰性力〔惯性力〕、广延、持续性与可动性为何不可同样对待？可从来没有人试图机械地解释这些性质，也没人把它们看作奇迹、超自然之物、虚构或隐秘的质。它们是万物自然、真实、合理而显明的性质，自创世之初即由上帝意志植于物体之中，全然无法以机械方式解释——物体的原始微粒之硬度或许也是如此。所以，若有人说物体凭一种我们不知其因的能力相互吸引，或凭上帝意志置于自然结构中的一种能力，或凭置于某实体中的一种能力——物体在该实体中运动漂浮而不受阻，故该实体无惰性力，只依机械定律之外的其他定律作用——我不明白为何就该说他给世界引进了奇迹、隐秘的质和虚构。莱布尼茨先生本人恐怕也不肯说思维是机械的；可若不以机械方式解释思维，便等于造出奇迹、隐秘的质与虚构，那思维就非是机械的不可。（Newton 2004: 116）[^newton-2004]
   - id: 70
     kind: body
     source: |-
       The first aspect of Newton’s argument is to indicate that mechanical explanations are predicated on referencing certain kinds of qualities when investigating natural phenomena, and that these qualities themselves are therefore not subject to mechanical explanation. For instance, since mechanist explanations—say, of the way in which magnets attract iron filings across a table—must refer to qualities such as the extension of the bodies subject to the explanations, then we cannot give a mechanist explanation of extension itself. Of course, Leibniz might reply that we need not provide any explanation of the basic qualities of bodies that figure in mechanical explanations, for those properties have been chosen by the “moderns” precisely because they are perfectly intelligible on their own, perhaps unlike various qualities attributed to “Scholastic” accounts of natural phenomena. The second aspect of Newton’s argument is more intriguing—it also harkens back to Locke’s discussion with Stillingfleet, for Locke had contended that God may have superadded not only gravity to material bodies, but also the power of thought, linking them because he believed that neither could be rendered intelligible using any philosophical means at his disposal. That is, from Locke’s point of view, we know that human beings—which are, or at least contain, material bodies with size, shape, motion and solidity, along with parts characterized by those qualities—are capable of thought, but since we cannot discern how any material thing could possibly have that capacity, we conclude that God may have superadded that feature to us, or to our bodies. Thought and gravity are dis-analogous in the sense that we did not require anything like Newton’s theory to convince us that human beings can think, but they are otherwise analogous. Newton then attempts to make the following argument: since Leibniz would have to agree that thinking is not a mechanical process, and not mechanically explicable, he must agree that there is at least one aspect of the world that has the following two features, (1) it is not mechanical; and, (2) it is clearly not to be rejected on that ground alone. He attempts to liken *gravity* (as he understands it) to *thinking* (as he believes Leibniz is required to understand it), arguing that despite the fact that it is not mechanical—it cannot be explained mechanically—it should not be rejected on that ground. This argument may be predicated on the view that human beings, material things, or at least partially material things, do the thinking, rather than immaterial things, such as minds or souls, for if one attributes all thought to an immaterial mind or soul, then there is no pressure to say that anything in nature, or perhaps even any aspect of anything in nature, has a feature that cannot be mechanically explicated. If one accepts Locke’s view (apparently also endorsed by Newton) that we should attribute thinking to material things, or to aspects of material things, then perhaps Newton has successfully followed Locke in likening gravity to thought, thereby making room for aspects of nature that are not mechanical after all. This vexing issue would continue to generate debates amongst Newton’s and Leibniz’s various followers in England, and on the Continent, respectively.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿论证的第一个方面是指出：机械解释在研究自然现象时，必须以援引某些类型的性质为前提，因此这些性质本身并不服从机械解释。例如，既然机械论解释——比如关于磁石隔着桌面吸引铁屑之方式的解释——必须援引被解释物体的广延之类的性质，那么我们就无法对广延本身给出机械论解释。当然，莱布尼茨或许会回答说，我们无须对机械解释中出现的基本性质作出任何解释，因为这些属性正是“近代人”所挑选的，恰恰因为它们本身完全可理解——或许不同于归于“经院派”自然现象解释的各种性质。牛顿论证的第二个方面更耐人寻味——它也回溯到洛克与斯蒂林弗利特的讨论，因为洛克曾主张，上帝可能不仅把引力、也把思维的能力附加给了物质物体，他把两者联系起来，是因为他相信，用他所掌握的任何哲学手段都无法使二者变得可理解。也就是说，在洛克看来，我们知道人类——人类是，或至少包含，具有大小、形状、运动与坚实性、且其各部分也具有这些性质的物质物体——能够思维；但既然我们无法看出任何物质之物怎么可能具有这种能力，我们便断定，上帝可能把这一特征附加给了我们，或附加给了我们的身体。思维与引力在一种意义上是不可类比的：我们无须牛顿那样的理论就能确信人类能思维；但除此之外，二者是可类比的。于是牛顿试图作出如下论证：既然莱布尼茨不得不承认思维不是一个机械过程，也不能以机械方式解释，他就必须承认世界上至少有一个方面具有以下两个特征：（1）它不是机械的；（2）显然不能仅因这一点就被拒斥。他试图把引力（按他的理解）比作思维（按他认为莱布尼茨不得不作的理解），论证说：尽管引力不是机械的——无法以机械方式解释——也不应因此就拒斥它。这一论证或许以下述观点为前提：进行思维的是人类、物质之物，或至少是部分物质的东西，而不是心智或灵魂之类非物质的东西；因为若把一切思维都归于非物质的心智或灵魂，那就没有压力要说自然中的任何事物——或许甚至自然中任何事物的任何方面——具有无法以机械方式阐明的特征。若接受洛克的观点（牛顿显然也认可），即我们应把思维归于物质之物，或物质之物的诸方面，那么牛顿或许已成功地追随洛克，把引力比作思维，从而为终究非机械的自然诸方面腾出空间。这一棘手问题将继续在英格兰与欧洲大陆上牛顿和莱布尼茨各自的众多追随者之间引发争论。
+    step2: |-
+      牛顿论证的第一层意思在于：机械解释在研究自然现象时，总要援引某几类性质；既然如此，这些性质本身便无法再作机械解释。举例来说，机械论解释（比如解释磁石如何隔着桌面吸动铁屑）必须援引被解释物体的广延之类的性质；那么，广延本身就无法再以机械论方式解释了。当然，莱布尼茨不妨回答：机械解释所涉物体的基本性质，本不需要再作解释——“近代人”选中的正是这些性质，因为它们本身完全可理解，这与“经院派”自然解释所归的各种性质或许不同。第二层更耐人寻味，也让人想起洛克与斯蒂林弗利特的那场讨论：洛克曾主张，上帝附加于物质物体的，也许不只是引力，还有思维的能力；他把两者并列，是因为在他看来，凭他所能用的哲学手段，二者都无法得到理解。也就是说，在洛克看来，我们确知人类能够思维——人本身是、或至少含有物质物体，这些物体有大小、形状、运动和坚实性，各部分也带有这些性质；但我们看不出任何物质之物何以可能具有思维能力，于是便断定：上帝也许把这一特征附加给了我们，或附加给了我们的身体。思维与引力有一处并不相类：要使我们相信人类能思维，并不需要牛顿那样的理论；除此之外，二者倒是可以比附的。牛顿接着这样论证：莱布尼茨势必要承认，思维不是机械过程，也无法作机械解释；那么他就得承认，世上至少有一事具有下面两个特点：（1）它不是机械的；（2）显然不能单凭这一点就予以否弃。他要把引力（他所理解的引力）比作思维（他认为莱布尼茨不得不那样理解的思维），论证说：引力虽非机械的、无法机械地解释，却不应因此遭到否弃。这一论证也许基于这样一种看法：思维的承担者是人、物质之物，或至少是部分物质的东西，而非心智、灵魂这类非物质之物。因为若把一切思维都归给非物质的心智或灵魂，那就无须再主张自然界中有何物——乃至任何物的任何方面——带着无法机械阐明的特征。若接受洛克（牛顿显然也同意）的看法——思维应归于物质之物，或物质之物的某些方面——那么牛顿也许确实循洛克之例，把引力比作思维，从而为自然界那些终究不属于机械的方面留出了余地。这一棘手的问题，后来在英格兰的牛顿追随者与欧陆的莱布尼茨追随者之间，继续引发争论。
   - id: 71
     kind: body
     source: |-
