@@ -2,7 +2,7 @@
   "slug": "peter-damian",
   "kind": "retranslate",
   "zh_doc": "p/peter-damian.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-09T13:48:13Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "P-main-20261110",
+      "at": "2026-11-09T18:34:40Z",
+      "evidence": "接管前会话遗产核收：账本 tasks/p/peter-damian.ledger.yaml 59 段 step1/step2 齐备，lq.py check 守恒通过（段数/逐段身份/标记计数/双版存在全 OK）；compose 成稿 p/peter-damian.md 已随 ecd0b87c8 入库；批参数见账本 params（GLM-5.3-Flash、temperature 0.2、全段一批）。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "P-main-20261110",
+      "at": "2026-11-09T18:35:30Z",
+      "evidence": "逐节对照 yuanwen/p/peter-damian.md 59 段（§1–§6+OIR+相关词条）核销：0 漏译 0 增译 0 幻觉引文；实修 20 处——①人名主形统一「伯多禄·达弥盎」（原 3 处「彼得·达弥盎/彼得」，含 OIR 三条链接题名）；②地名统一「卡西诺山修道院」（原「蒙特卡西诺」3 处）；③undo the done 主形裁定「取消已成之事」（用户 2026-11-10 裁定，17 处落地；登记册新增行、旧行标已废弃）；④完整句式统一「使已成之事成为未曾做过」；⑤restoration of virginity 同案统一「恢复贞洁」（登记册同步）；⑥《约翰福音》1:3 三处引文归一「没有他，什么也没有被造」；⑦§2 标题改「612A–B 段与达弥盎的名声」；⑧contemporary→同时代、branches of human knowledge→人类知识门类、non inepte→并非愚妄、wicked thing 前后统一「说这话是邪恶的」；⑨§2「中心论点之一」「modest place」语义补足、恢复贞洁「若干种方式」补足；⑩交叉引用统一「见第 X 节」。核销凭证：biblio_audit flagged=0（无中国文献还原）；check_style --strict 0 issue；check_academic --strict 0 硬错误（脚注引用/定义一一对应）；check_math 0 missing/0 unbalanced；check_summary HARD=0；术语 check_terms 定点 0 硬错误（2 告警为废弃行残留，正文已落地新形）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "P-main-20261110",
+      "at": "2026-11-09T19:09:09Z",
+      "evidence": "二校（语言）通读实修 6 处：①§1「约生于 1007 年，生于意大利拉文纳」重复「生于」→「约 1007 年生于意大利拉文纳」；②论证第 [2] 步「该女子过去中那些与她仍是处女不相容的事件」→「过去经历中……身为处女」（与第 31 行引述同步）；③「他先让我们明白：恶物不必操心」施受歧义→「至于恶物，我们不必操心」；④「很容易被误解」→「很容易招致误解」；⑤「随意曲伸之权」→「随意屈伸之权」；⑥补充材料全篇「星号内侧空格」（MD037 不渲染）逐处删内侧空格并补外侧一个半角空格，另修 603D 引文「依据语词的秩序」→「依据语词的含义」（Blum 英译 meaning of words 的忠实转写；拉丁 ordo uerborum 为原文括注）、「参见正文 5.1 节」补「第」。机检：check_prose 0 issue（阈值 70，残余 55–69 字句 11 处均以冒号/破折号自然分层，人工判读通过）；注释体例（均用加粗不用斜体）符合 rules/02。diff 见本次提交。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "P-main-20261110",
+      "at": "2026-11-09T19:09:10Z",
+      "evidence": "三校（体例）：check_style --docs 两文件 --strict 0 issue；markdownlint-cli2 对 p/peter-damian.md 与 p/peter-damian.supplement.md 0 报错（MD037 已清零；全库余量在他人在途文件）；check_terms 定点 0 硬错误（自洽 0：废弃链完整、同键非废弃行齐备；正文新形已落地）；check_academic --strict 0 硬错误（脚注引用/定义一一对应、结构节集合与源一致）；check_math 0 缺失 0 失配；check_summary H1 mismatch 0；check_images 不适用（本词条无图）；biblio_audit flagged=0。术语主形：取消已成之事 / 使已成之事成为未曾做过 / 恢复贞洁（登记册 2026-11-10 两行变更 + 伯多禄·达弥盎人名行）。"
     }
   ],
   "blockers": [],
