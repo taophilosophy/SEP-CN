@@ -2,7 +2,7 @@
   "slug": "william-sherwood",
   "kind": "retranslate",
   "zh_doc": "w/william-sherwood.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "REV-main-20261109",
       "at": "2026-11-09T01:37:51Z",
       "evidence": "r1 初审（s3_checked 存量复审波，REV-main-20261109 主会话直做，不用子代理）：对照 yuanwen/w/william-sherwood.md 全文自审——结构五维全等：H2 节标题 10/10、块数 46/46（含表格 1、嵌套引文 1、图片 1）、脚注定义 29/29 与正文引用双向闭合（zh-en 双向差集均为空）、阿拉伯数字多集合零缺失、标记守恒（源 <em> 7 处中译加粗 7 组；拉丁/法文书名斜体照留，ital 由 170 降至 52 系书名汉译作〈〉、拉丁术语照留所致，非标记丢失）。内容逐节核销：①导言——13 世纪英格兰逻辑学家、巴黎大学任教、实在论传统；四部最有影响教科书（兰伯特《纲要》、培根《逻辑的技艺与科学》、彼得《逻辑摘要》）与《第三著作》（1267）推许引文，逐项与源一致；②§1 生平与著述——生卒区间 1200–1205／1266–1272、诺丁汉郡、1235–1250 巴黎讲逻辑、1252 牛津硕士、林肯座堂司库、艾尔斯伯里与阿特尔伯勒教区长、1266 在世 1272 已故；两步稿（BnF Lat. 16,617／Bodleian Digby 55）标题逐字符照录；伍斯特 Q. 13 约 1293/94；Grabmann 1937／Kretzmann 1966／Brands & Kann 1995；Psellus《纲要》影响说；Barbara Celarent 助记诀与 de Morgan 评语；③§2 学说语境——词项主义两大主干、《导论》六章与亚里士多德篇目对应（解释篇／范畴篇／前分析篇／论题篇／辨谬篇）全对；④§3.1 词项特性——四种主要特性（意谓／指代／结合／称谓）与他家五类说对照；意谓、指代、结合、称谓四条定义及「被称谓者」界说；指代树状图 figdesc 全译（质料／形式、简单／人称、manerial／重言／不定、确定／混淆、纯混淆／周延混淆、可动／不可动）；manerial 指代专论（*manerialis* 非 *materialis* 讹写、*maneries* 语义、索尔兹伯里的约翰记若斯兰、阿伯拉尔与《小桥谬误论》）；单称（离散）词项与 Brumberg-Chaumont 评语；⑤§3.2 全称肯定命题语义学——主要／次要部分、规则 [II]「至少三个被称谓者」、亚里士多德「两者／全部」引文；「是」作非范畴词项、*esse actuale*／*esse habituale*、Kretzmann 两译本译名差异、*possibilia* 与 *esse diminutum*；⑥§4.1–4.2 直言命题与三段论——单称第三方阵类、对当六角形与 Khomskii 说、三格助记诗 *Sub pre prima…*、《Sub pre prima》三段论式诗句、扬抑抑六音步与 Corcoran 等评语、字母释义段；⑦§5 模态——宽严二义、六模态、名词式 vs 副词式处理、不可能／必然的自性与偶性二义引文、模态三段论缺位；⑧§6 影响——伍斯特《疑问集》断代 1260s–1270s、彼得承舍伍德、Kretzmann 论《逻辑摘要》流行、大阿尔伯特取称谓说、阿奎那承模态分析、14 世纪被奥卡姆／布里丹／萨克森阿尔伯特盖过。**无 Critical、无 Major、无漏译**。实修 13 处：①节标题「## References（引用注释）」→「## 参考文献」（体例 §17 节标题汉化；照录说明行经核对 18thGerman-preKant／abduction 成例，维持粗体，模板 §17「斜体」表述与成例不符，以成例为准）；②题作《舍伍德注〈箴言四书〉》补拉丁原题（*Shirovodus super sententias*），可回溯源文；③同人异形归一：里卡德·德·舍伍德→里卡德·德·希雷伍德（与首见名一致）；④第二章「论谓项」→「论谓词」（predicables≠predicate，另登记 predicables）；⑤正文「中世纪词项特性理论」→「词项属性理论」（对齐 SUMMARY m/medieval-terms 题名）；⑥「而它本身又是形式指代的一类」→「而 manerial 指代本身则是形式指代的一类」（代词指向歧义：源意 manerial 属形式指代、material 与形式指代相对）；⑦「于逻辑富有机想」→「在逻辑上富于想象」（imaginative in logic，原词不成词）；⑧《如其所言之逻辑》《我们的逻辑》补拉丁原题（*Logica Ut Dicit*／*Logica ‘cum sit nostra’*）；⑨Kretzmann 引文内《纲要》→《逻辑摘要》（*Summulae*＝彼得 Summaries of Logic，与 §1 译名一致；《纲要》保留给兰伯特 Summa 与普塞洛斯 Synopsis）；⑩相关词条「西班牙的彼得（彼得·希斯帕努斯）的逻辑」→「……逻辑学」（对齐 SUMMARY p/peter-spain 题名）；⑪数字范围破折号 3 处 — → –（1200–1205／1235–1250／1266–1272；全库成例 18371:53）；⑫§3.2 欧陆摘要句去「的」链改写；⑬§6 传承线句改写（de-chain 2 处清零）。登记补记：术语 1 行（predicables 谓词（五谓词）；terminist logic 已由前会话登记，幂等跳过）+ 人名 25 行（23 位现代学者依 ADR-0022 保留英文：Uckelman／Lagerlund／Kretzmann／Grabmann／Mullinger／Boehner／O'Donnell／Kann／Kirchhoff／Brands／Pinborg／Khomskii／Brumberg-Chaumont／de Rijk／Roure／Green／Mora-Márquez／Knuuttila／Freddoso／Schuurman／Bos／Bochenski／Hall；2 位历史人物汉译：约翰·利兰、约翰·勒佩奇），罗吉尔·培根／彼得·伦巴德／巴黎的尼古拉／荷马／奥维德／维吉尔／德摩根／埃布森／科科伦已在册不重复。四检：check_style 0 issue；check_academic --strict 0 硬错误；check_math 该词条无公式；check_prose 2→0；check_all 七项全绿。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T02:34:10Z",
+      "evidence": "r2 复审（逐句回核原文与逻辑；r1 后隔 cordemoy 全条 r3+done 冷置回读；REV-main-20261109）：①数字核销——正文阿拉伯数字多集合比对：en 侧无缺译（差额为指代树 figdesc 的分支计数 2×6/3×2/1×1，中文以汉字数词「两支／三叶／两叶」表出，义等非缺件，逐项核对树形 13 结点全数在位）；zh 多出的 13/9/5 为「13 世纪」「MS 9 E XII」等既有表述，无增译；②引注回核——行内引注 47 组逐一与源页码比对全等（含 1966 pp. 5–6、1968 pp. 3–4、1968 p. 92 与 1966 p. 125 并引、1968 pp. 66–67 引 Bochenski、Brumberg-Chaumont 2013 p. 184 等），三条正则差集均系全角分号/「引 Bochenski」写法差异，非缺漏；③相关词条六项逐一在 SUMMARY 命中（罗吉尔·培根／欧塞尔的兰伯特／中世纪的义务理论／西班牙的彼得（彼得·希斯帕努斯）的逻辑学／传统逻辑方阵／中世纪词项属性理论）；④版本钉核对——pubinfo_date=Sep 26, 2024、archive_edition=Winter 2024、sha256=d090fe99…64d09c，与文档「2016 年 5 月 11 日；2024 年 9 月 26 日实质修订」一致；⑤术语一致性复核——意谓／指代／结合／称谓／被称谓者／周延／词项属性理论／对当方阵／对当六角形／归谬还原 正文用词与登记册一致，r1 新登 predicables、25 人名行在册；⑥r1 实修 13 处逐处回读，无义项增减。**无新增 Critical/Major/Minor**。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T05:28:03Z",
+      "evidence": "r3 终审（冷置回读 + 终稿验收；REV-main-20261109）：①冷置——r1（b5aebd65）与 r2 之后，先完成 cambridge-platonists 全条 r1（回源 6 节、4 处实修、26 行登记）再回读本条；②冷置回读定稿，发现并实修 1 处主谓失配：r1 改写句「周延词项则在摘要性论著中专设“周延”一章处理」主谓不搭（设章者是论著而非词项）→「周延词项通常放在摘要性论著的“周延”专章中讨论——这一章在任何英格兰摘要中都不见」（义归源文 distributive terms are usually considered in summary treatises in the chapter on distribution）；③终稿五维复核——H2 10/10、块 46/46、defs 29/29 双向闭合、数字多集合零缺失、标记守恒（加粗 7 组对应源 <em> 7 处；拉丁书名斜体照留）；④门禁复跑——check_style 0 issue、check_academic --strict 0 硬错误、check_math 无公式、check_prose 0（无需豁免）、check_all 七项全绿；⑤登记复核——predicables 术语行与 25 行人名在册（23 现代学者保留英文 + 约翰·利兰／约翰·勒佩奇汉译），正文用词与登记形一致；⑥r1/r2 判词与实修 13 处逐处回读，无义项增减、无新增 Critical／Major。终审通过。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T05:28:04Z",
+      "evidence": "done 收口（REV-main-20261109）：william-sherwood 走完 r1→r2→r3 三步（s3_checked→r1_reviewed→r2_reviewed→r3_reviewed→done）。凭证链：r1 回源逐节核销 6 节 10 小节（无 Critical／Major／漏译，实修 13 处：拉丁原题补录 3、同人异形归一 1、译名与题名对齐 2、de-chain 2、体例 5）；r2 树图计数／47 组引注页码／相关词条 6 项／版本钉四维复验；r3 冷置回读修主谓失配 1 处。术语 1 行 + 人名 25 行先登记后使用；check_all 七项全绿，退出在途。"
     }
   ],
   "blockers": [],
