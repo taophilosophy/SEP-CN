@@ -496,40 +496,56 @@ segments:
     kind: body
     source: |-
       From here Batson performed many additional studies which were variations of this initial setup. Suppose, for instance, that we make the moral norm at work here salient to participants just before they make their assignment by including a statement that,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Batson 由此又做了许多附加研究，都是对这一初始设定的变式。例如，假设我们在参与者做分配之前，让他们注意到这里起作用的道德规范，方法是加入一段陈述：
+    step2: |-
+      Batson 接着做了许多后续研究，都是这一初始设定的变式。比如，假设我们在参与者做分配之前，先让他们注意到此处起作用的道德规范——做法是加入一段陈述：
   - id: 54
     kind: body
     source: |-
       > Most participants feel that giving both people an equal chance—by, for example, flipping a coin—is the fairest way to assign themselves and the other participant to the tasks (we have provided a coin for you to flip if you wish). But the decision is entirely up to you. (Batson et al. 1997: 1341)[^batson-1997]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 大多数参与者认为，给两个人平等的机会——例如掷硬币——是把任务分配给自己与对方的最公平方式（如果你愿意掷硬币，我们已为你备好一枚）。但决定完全由你做。（Batson et al. 1997: 1341）[^batson-1997]
+    step2: |-
+      > 多数参与者认为，给双方平等的机会——比如掷硬币——是把自己和对方分到任务的最公平做法（若你想掷硬币，我们已为你备好一枚）。但决定完全由你做主。（Batson et al. 1997: 1341）[^batson-1997]
   - id: 55
     kind: body
     source: |-
       10 participants flipped and 10 did not. 8 out of 10 in the first group said flipping was the morally right procedure, and 6 out of 10 said so in the second group. Most importantly, Batson found (Batson et al. 1997: 1342)[^batson-1997]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      10 名参与者掷了硬币，10 名没有。第一组 10 人中有 8 人说掷硬币是道德上正确的程序，第二组 10 人中有 6 人这么说。最重要的是，Batson 发现（Batson et al. 1997: 1342）[^batson-1997]：
+    step2: |-
+      10 人掷了硬币，10 人没掷。第一组 10 人里有 8 人说，掷硬币才是道德上正确的程序；第二组里这么说的是 6 人。最要紧的是，Batson 发现（Batson et al. 1997: 1342）[^batson-1997]：
   - id: 56
     kind: body
     source: |-
       | Assigned self to positive consequences task out of 10 who did not flip | 9 |
       | --- | --- |
       | Assigned self to positive consequences task out of 10 who *did* flip | 9 |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 没掷硬币的 10 人中把正面后果任务分给自己 | 9 |
+      | --- | --- |
+      | 实际掷了硬币的 10 人中把正面后果任务分给自己 | 9 |
+    step2: |-
+      | 没掷硬币的 10 人中把正面后果任务分给自己 | 9 |
+      | --- | --- |
+      | 实际掷了硬币的 10 人中把正面后果任务分给自己 | 9 |
   - id: 57
     kind: body
     source: |-
       This second result is grossly out of line with what the random flipping of a coin would have predicted. At least some of the participants in the second group must have flipped in a way that went in favor of the *other* person, but still assigned themselves the positive task. Self-interest seemed to have crept into their decision making process in a significant way. Yet, and perhaps most surprisingly, those who flipped rated what they had done much more morally right (7.30 on a 1–9 scale) than those who did not flip (4.00) (Batson et al. 1997: 1341)[^batson-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二个结果与随机掷硬币所能预测的大相径庭。第二组中至少有一些参与者，掷硬币的方式必定偏向了*另一*方，却仍然把正面任务分给了自己。自利似乎以显著的方式渗入了他们的决策过程。然而，或许最令人惊讶的是，掷了硬币的人对自己所做之事的道德评价（7.30，1–9 量表）远高于没掷硬币的人（4.00）（Batson et al. 1997: 1341）[^batson-1997]。
+    step2: |-
+      第二个结果与随机掷硬币所能预测的相去甚远。第二组里至少有一部分人，掷硬币的结果必定偏向了**另一方**，可他们仍然把正面任务分给了自己。自利看来以相当显著的方式混进了他们的决策过程。然而，最令人惊讶的或许是：掷了硬币的人对自己行为的道德评价（7.30，1–9 量表）远高于没掷硬币的人（4.00）（Batson et al. 1997: 1341）[^batson-1997]。
   - id: 58
     kind: body
     source: |-
       Here is another wrinkle—suppose participants are now given the option to have the experimenter assign them one of the two tasks, while also knowing what that assignment is going to be ahead of time. We get the following (Batson et al. 1997: 1343)[^batson-1997]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里是另一个花样——假设现在给参与者一个选项：让实验者替他们分配两项任务之一，同时事先知道分配结果会是什么。我们得到如下结果（Batson et al. 1997: 1343）[^batson-1997]：
+    step2: |-
+      还有一个变式——假设给参与者一个选项：由实验者替自己分配这两项任务之一，而且事先就知道会分到什么。结果如下（Batson et al. 1997: 1343）[^batson-1997]：
   - id: 59
     kind: body
     source: |-
@@ -537,32 +553,48 @@ segments:
       | --- | --- |
       | Accepted experimenter’s assignment if it would be the neutral consequences task | 11 out of 20 |
       | Remaining participants who assigned themselves to the positive consequences task (whether flipped or not) | 12 out of 12 |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 若分配的是正面后果任务则接受实验者的分配 | 20 人中的 17 人 |
+      | --- | --- |
+      | 若分配的是中性后果任务则接受实验者的分配 | 20 人中的 11 人 |
+      | 余下自己把正面后果任务分给自己的参与者（无论掷没掷硬币） | 12 人中的 12 人 |
+    step2: |-
+      | 若分配的是正面后果任务则接受实验者的分配 | 20 人中的 17 人 |
+      | --- | --- |
+      | 若分配的是中性后果任务则接受实验者的分配 | 20 人中的 11 人 |
+      | 余下自己把正面后果任务分给自己的参与者（无论掷没掷硬币） | 12 人中的 12 人 |
   - id: 60
     kind: body
     source: |-
       So in this experiment, only 22.5% of participants ended up with the neutral task. Yet for the 17 participants in the first group, on average they felt they had acted just as morally right (7.06 on a 9-point scale) as the 11 participants in the second group (7.91) (Batson et al. 1997: 1343)[^batson-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是在这个实验中，只有 22.5% 的参与者最终得到中性任务。然而第一组 17 名参与者平均认为自己做得同样道德正确（9 点量表 7.06），与第二组 11 名参与者（7.91）一样（Batson et al. 1997: 1343）[^batson-1997]。
+    step2: |-
+      于是在这个实验里，最终拿到中性任务的参与者只有 22.5%。可第一组的 17 人平均给自己打出的道德分（9 点量表 7.06），与第二组的 11 人（7.91）不相上下（Batson et al. 1997: 1343）[^batson-1997]。
   - id: 61
     kind: body
     source: |-
       What these results have suggested to Batson is that most of us (at least in these kinds of situations) are disposed towards a kind of *moral hypocrisy*, or appearing to be moral to oneself and others but avoiding the costs of actually being so if one can (try to) get away with it. After all, many participants were typically eager to flip the coin and report after the fact that this was the morally right course of action, but then distorted the process so that the results came out in their favor. Note that it is not the mere fact that they choose the positive consequences task for themselves that is hypocritical by itself—there could be cases where a person thinks of acts like this as being in line with her self-interest, and is not even aware of their moral ramifications. Nor is their hypocrisy captured here by the additional fact that the participants also seemed to believe in the moral principle that flipping the coin is the morally fair way to assign the task consequences. For then we would just have a perfectly familiar case of weakness of will, in which you believe that something is right but fail to be sufficiently motivated to do it. Rather, their hypocrisy arises when they (i) choose the positive consequences for themselves, while (ii) seeming to believe that flipping the coin and following what it indicates is morally correct, *and* (iii) still claiming to themselves and others to have made the morally right task assignment (For more on characterizing moral hypocrisy, see Batson et al. 1997: 1335–1336, 1999: 525–526, 2002: 330; Batson and Thompson 2001; Batson 2008, 2011: 222–224.)[^batson-2008][^batson-1997][^batson-2001].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些结果向 Batson 提示：我们中的多数人（至少在这类情境中）倾向于一种*道德伪善*，即在对自己与他人面前显得道德，但只要能（试着）蒙混过关，就避开实际做到道德的代价。毕竟，许多参与者通常急于掷硬币，并在事后报告说这是道德上正确的做法，然后却扭曲这一过程，使结果偏向自己。注意，他们选择正面后果任务这一事实本身并不构成伪善——可能有这样的人：他把这类行为视为符合自身利益，甚至没有意识到其中的道德牵连。他们的伪善也不在于下述附加事实：参与者似乎也相信掷硬币是分配任务后果的道德上公平的方式这条道德原则。否则我们面对的就只是一桩再熟悉不过的意志薄弱案例：你相信某事是对的，却没有足够的动机去做。毋宁说，他们的伪善出现在以下情况：他们（i）把正面后果留给自己，同时（ii）似乎相信掷硬币并遵从其指示是道德上正确的，*而且*（iii）仍然向自己与他人声称自己做出了道德上正确的任务分配（关于道德伪善的刻画，另见 Batson et al. 1997: 1335–1336, 1999: 525–526, 2002: 330; Batson and Thompson 2001; Batson 2008, 2011: 222–224.）[^batson-2008][^batson-1997][^batson-2001]。
+    step2: |-
+      这些结果让 Batson 意识到：我们中的多数人（至少在这类情境里）倾向于一种**道德伪善**——在自己和他人面前显得有德，却只要能（试着）蒙混过关，就躲开真正讲道德的代价。毕竟，许多参与者通常急着掷硬币，事后还声称这正是道德上正确的做法，然后却动手扭曲过程，让结果偏向自己。注意：他们把正面后果任务分给自己，这个事实本身并不算伪善——可能有人把这类行为看作符合自身利益，压根没意识到其中的道德后果。他们的伪善也不在于另一个附加事实：参与者似乎也相信“掷硬币是分配任务后果的道德上公平的方式”这条道德原则。否则我们面对的就只是一桩再熟悉不过的意志薄弱：你相信某事是对的，却缺乏足够的动机去做。真正构成伪善的是这几件事合在一起：他们（i）把正面后果留给自己，同时（ii）似乎相信掷硬币并遵从其结果才是道德上正确的，**而且**（iii）仍向自己和他人声称，自己做出了道德上正确的任务分配（关于道德伪善的刻画，另见 Batson et al. 1997: 1335–1336, 1999: 525–526, 2002: 330; Batson and Thompson 2001; Batson 2008, 2011: 222–224.）[^batson-2008][^batson-1997][^batson-2001]。
   - id: 62
     kind: body
     source: |-
       How is it really possible for these participants to pull off this combination? In particular, it is one thing to appear to be acting morally to others. But these participants are also appearing to be moral *to* *themselves* *too*. How are they able to downplay the costs associated with guilt, regret, and hypocritical behavior for acting immorally by going against what they know to be right, and also experience the self-rewards for moral behavior? One possibility is that the participants in question have come to deny any moral responsibility in this situation, thereby deactivating the moral norm. Or perhaps they have come to deny that they are able to carry out the task, or that they are no longer aware of the likely consequences of their actions. But there is no evidence to suggest that these background conditions have failed to apply in these particular cases (Batson 2008: 57)[^batson-2008]. Another possibility is that these participants have come to think that their behavior is in line with their moral standards, thereby allowing them to not feel guilt and to even perhaps take pride in their behavior. This could be because they have revised the content of the moral principle to create an exception clause for this one kind of situation. Or it might be that they lie to or deceive themselves about what the principle says in the first place.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些参与者究竟怎么可能完成这种组合？特别是，在他人面前显得道德是一回事。但这些参与者也在*对自己*显得道德。他们如何能淡化与内疚、悔恨及伪善行为相关的代价——因违背自己明知正确之事而行不义——还能体验到道德行为的自我奖赏？一种可能是：所论参与者已经否认自己在这种情境中负有任何道德责任，从而使道德规范失效。或者，他们已经否认自己能够完成任务，或不再意识到自己行为的可能后果。但没有证据表明这些背景条件在这些具体情形中失效了（Batson 2008: 57）[^batson-2008]。另一种可能是：这些参与者逐渐认为自己的行为符合自己的道德标准，从而既能不感到内疚，甚至也许还能为自己的行为感到自豪。这可能是因为他们修改了道德原则的内容，为这一种情境创造了例外条款。也可能，他们一开始就在关于该原则所说内容的问题上自欺。
+    step2: |-
+      这些参与者究竟如何把这套组合做成的？在他人面前显得道德是一回事；可这些参与者还在**对自己**显得道德。他们怎么能既淡化违背良知行不义所带来的内疚、悔恨与伪善的代价，又照常领取道德行为的自我奖赏？一种可能是：这些参与者已经否认自己在这种情境中负有任何道德责任，道德规范因此形同虚设。或者他们已不再相信自己能完成任务，或不再意识到自己行为的可能后果。但没有证据表明这些背景条件在这些情形中缺席（Batson 2008: 57）[^batson-2008]。另一种可能是：这些参与者认定自己的行为符合自己的道德标准，于是既不内疚，甚至也许还引以为豪。这可以是因为他们改写了道德原则的内容，为这一种情境添了例外条款；也可以是因为他们从根子上就在原则说了什么的问题上骗过了自己。
   - id: 63
     kind: body
     source: |-
       But the results already cited above cast doubt on these hypotheses as well (see in particular Batson et al. 1999: 526; this is not to say that these hypotheses are not accurate in other cases, but the focus here is only on understanding the data generated by Batson’s studies)[^batson-1999]. Batson also introduced another variety of the setup whereby the moral principle is made salient, a coin is provided, and the coin is clearly marked on one side with “SELF to POS[ITIVE]” and “OTHER to POS” for the opposite side (Batson et al. 1999: 527)[^batson-1999]. In those cases when the coin lands on OTHER, it seems very hard to think, in spite of what the moral principle and the coin both say, that a person who still assigns himself to the positive consequences task would take that to be morally acceptable. Furthermore, only 2 out of 40 participants reported afterwards that the most morally right thing to do is to assign themselves to the positive consequences task (Batson et al. 1999: 529)[^batson-1999]. Yet of the 28 who chose to flip, Batson found (Batson et al. 1999: 528)[^batson-1999]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但上面已经引用的结果同样使这些假说存疑（特别参见 Batson et al. 1999: 526；这并不是说这些假说在其他情形中不准确，只是这里的焦点仅在于理解 Batson 研究所产生的数据）[^batson-1999]。Batson 还引入了设定的另一种变式：道德规范被凸显，提供一枚硬币，且硬币一面清晰地标着“SELF to POS[ITIVE]”，另一面标着“OTHER to POS”（Batson et al. 1999: 527）[^batson-1999]。在硬币落在 OTHER 一面的情形中，尽管道德原则与硬币都那么说，仍把正面后果任务分给自己的人会认为这在道德上可以接受——这很难想象。此外，40 名参与者中只有 2 人事后报告说，最道德的做法就是把正面后果任务分给自己（Batson et al. 1999: 529）[^batson-1999]。然而在 28 名选择掷硬币的人中，Batson 发现（Batson et al. 1999: 528）[^batson-1999]：
+    step2: |-
+      但上面引过的结果同样让这些假说靠不住（特别参见 Batson et al. 1999: 526；这不是说这些假说在别的情形就不准确，只是这里的焦点仅在于理解 Batson 实验产生的数据）[^batson-1999]。Batson 还引入了设定的另一种变式：道德规范被凸显，并且提供一枚硬币，一面清楚地标着“SELF to POS[ITIVE]”，另一面标着“OTHER to POS”（Batson et al. 1999: 527）[^batson-1999]。硬币落在 OTHER 那一面时，尽管道德原则和硬币都明明白白，要相信一个仍把正面后果任务分给自己的人会觉得这在道德上说得过去，实在很难。此外，40 名参与者中只有 2 人事后报告说，最道德的做法就是把正面后果任务分给自己（Batson et al. 1999: 529）[^batson-1999]。可在选择掷硬币的 28 人中，Batson 发现（Batson et al. 1999: 528）[^batson-1999]：
   - id: 64
     kind: body
     source: |-
