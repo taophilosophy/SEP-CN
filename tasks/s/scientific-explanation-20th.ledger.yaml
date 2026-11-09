@@ -219,122 +219,162 @@ segments:
     kind: body
     source: |-
       Thus if it is a statistical law that the probability of recovery from streptococcus, given that one has taken penicillin, is high, and Jones has taken penicillin and recovered, this information can be used to provide an *IS* explanation of Jones’s recovery. However if the probability of recovery is low (e.g., less than 0.5), given that Jones has taken penicillin, then, even if Jones recovers, we cannot use this information to provide an *IS* explanation of his recovery.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，若有一条统计律说：一个人服用青霉素后从链球菌感染中康复的概率很高；而琼斯服用了青霉素且康复了，那么这一信息可用于对琼斯的康复作 *IS* 解释。但若琼斯服用青霉素后康复的概率很低（如低于 0.5），那么纵使琼斯康复，我们也不能用这一信息对之作出 *IS* 解释。
+    step2: |-
+      故若有一条统计律：服用青霉素后从链球菌感染中康复的概率很高；而琼斯服用了青霉素并康复，则此信息可用来对琼斯的康复作 *IS* 解释。反之，若在琼斯服用青霉素的条件下康复概率很低（如低于 0.5），则纵使他康复，此信息也不能用来解释其康复。
   - id: 28
     kind: body
     source: |-
       ### 2.4 Motivation for the *DN* Model: Nomic Expectability and a Regularity Account of Causation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4 *DN* 模型的动机：律则的所期待性与因果的规则性解释
+    step2: |-
+      ### 2.4 *DN* 模型的动机：律则可期待性与因果的规则性理论
   - id: 29
     kind: body
     source: |-
       Why suppose that all (or even some) explanations have a *DN* or *IS* structure? There are two ideas which play a central motivating role in Hempel’s (1965b) discussion. The first connects the information provided by a *DN* argument with a certain conception of what it is to achieve understanding of why something happens—it appeals to an idea about the object or point of giving an explanation. Hempel writes
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为何要假定一切（甚至某些）解释都有 *DN* 或 *IS* 结构？在亨佩尔（1965b）的讨论中，有两个想法起核心的动机作用。第一个把 *DN* 论证所提供的信息与某种关于“理解某事为何发生”在于何处的构想联系起来——它诉诸关于给出解释的对象或要点的想法。亨佩尔写道
+    step2: |-
+      为何要假定一切（乃至某些）解释都具 *DN* 或 *IS* 结构？亨佩尔（1965b）的讨论有两个想法起核心动机作用。其一，把 *DN* 论证提供的信息与某种“理解某事为何发生”在于何处的构想相连——它诉诸关于解释之目的与要点的想法。亨佩尔写道：
   - id: 30
     kind: body
     source: |-
       > … a *DN* explanation answers the question “*Why* did the explanandum-phenomenon occur?” by showing that the phenomenon resulted from certain particular circumstances, specified in $C_1,C_2,\ldots,C_k$, in accordance with the laws $L_1,L_2,\ldots,L_{\gamma}$. By pointing this out, the argument shows that, given the particular circumstances and the laws in question, the occurrence of the phenomenon *was to be expected*; and it is in this sense that the explanation enables us to *understand why* the phenomenon occurred. (1965b: 337, italics in original)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……一个 *DN* 解释回答“被解释项现象*为何*发生”这一问题，其方式是表明：该现象依照律 $L_1,L_2,\ldots,L_{\gamma}$、由 $C_1,C_2,\ldots,C_k$ 所指明的某些特定情况而产生。通过指明这一点，该论证表明：给定这些特定情况与所涉之律，该现象的发生*本可被期待*；而解释之所以使我们*理解该现象为何发生*，正是在这个意义上。（1965b: 337，着重号为原文所有）
+    step2: |-
+      > ……一个 *DN* 解释回答“被解释项现象*为何*发生”，其方式是表明：该现象依律 $L_1,L_2,\ldots,L_{\gamma}$、由 $C_1,C_2,\ldots,C_k$ 所指明的特定情况而产生。由此，该论证表明：给定这些情况与所涉之律，该现象的发生*本可被期待*；解释使我们*理解该现象为何发生*，正在于此。（1965b: 337，着重号为原文所有）
   - id: 31
     kind: body
     source: |-
       One can think of *IS* explanation as involving a natural generalization of this idea. While an *IS* explanation does not show that the explanandum-phenomenon was to be expected with certainty, it does the next best thing: it shows that the explanandum-phenomenon is at least to be expected with high probability and in this way provides understanding. Stated more generally, both the *DN* and *IS* models, share the common idea that, as Salmon (1989) puts it,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可以把 *IS* 解释看作这一想法的自然推广。*IS* 解释虽未表明被解释项现象可被确定地期待，却做了次优之事：它表明该现象至少可被以高概率期待，并以此提供理解。更一般地说，*DN* 与 *IS* 两个模型共享一个共同想法，用萨蒙（1989）的话说，即
+    step2: |-
+      *IS* 解释可视为这一想法的自然推广：它虽未表明被解释项可被确定地期待，却做了次优之事——表明它至少可被以高概率期待，由此提供理解。更一般地说，*DN* 与 *IS* 共享一个想法，用萨蒙（1989）的话说：
   - id: 32
     kind: body
     source: |-
       > the essence of scientific explanation can be described as *nomic expectability*—that is expectability on the basis of lawful connections. (1989: 57)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 科学解释的本质可被描述为*律则的所期待性*——即基于律则性联系的可期待性。（1989: 57）
+    step2: |-
+      > 科学解释的本质可描述为*律则可期待性*——即基于律则性联系的可期待性。（1989: 57）
   - id: 33
     kind: body
     source: |-
       The second main motivation for the *DN/IS* model has to do with the role of causal claims in scientific explanation. There is considerable disagreement among philosophers about whether all explanations in science and in ordinary life are causal and also disagreement about what the distinction (if any) between causal and non-causal explanations consists in. Nonetheless, virtually everyone, including Hempel, agrees that many scientific explanations cite information about causes. However, Hempel, along with most other early advocates of the *DN* model, is unwilling to take the notion of causation as primitive in the theory of explanation—that is, he was unwilling to simply say that *X* figures in an explanation of *Y* if and only if *X* causes *Y*. Instead, adherents of the *DN* model have generally looked for an account of causation that satisfies the empiricist requirements described in Section 1. In particular, advocates of the *DN* model have generally accepted a broadly Humean or regularity theory of causation, according to which (very roughly) all causal claims imply the existence of some corresponding regularity (a “law”) linking cause to effect. This is then taken to show that all causal explanations “imply,” perhaps only “implicitly,” that such a law/regularity exists and hence that laws are “involved” in all such explanations, just as the *DN* model claims.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *DN/IS* 模型的第二个主要动机与因果主张在科学解释中的作用有关。哲学家们对科学与日常生活中是否一切解释都是因果的，颇多分歧；对因果解释与非因果解释之别（若有）究竟何在，亦有分歧。然而，几乎所有人（包括亨佩尔）都同意：许多科学解释引述关于原因的信息。但亨佩尔与 *DN* 模型其他多数早期拥护者一样，不愿在解释理论中把因果概念当作初始项——也就是说，他不愿径称：*X* 之所以出现在对 *Y* 的解释中，当且仅当 *X* 引起 *Y*。*DN* 模型的拥护者反而普遍寻求一种满足第 1 节所述经验主义要求的因果说明。尤其，他们普遍接受一种大体属休谟式或规则性的因果理论：粗略说来，一切因果主张都蕴涵着存在某种相应的规则性（“律”），把原因与结果联系起来。由此便可认为：一切因果解释都（也许只是“隐含地”）“蕴涵”着此种律／规则性的存在，故如 *DN* 模型所主张，律“参与”了一切此类解释。
+    step2: |-
+      *DN/IS* 模型的第二个主要动机，关涉因果主张在科学解释中的作用。科学与日常生活中的解释是否皆为因果的，哲学家分歧甚大；因果解释与非因果解释之别（若有）何在，亦然。然而几乎所有人（含亨佩尔）都同意：许多科学解释引述原因方面的信息。但亨佩尔与 *DN* 模型多数早期拥护者一样，不愿把因果当作解释理论的初始概念——即不愿径称：*X* 出现在对 *Y* 的解释中，当且仅当 *X* 引起 *Y*。他们转而寻求满足第 1 节经验主义要求的因果说明，并普遍接受一种大体休谟式、即规则性的因果理论：粗略说来，一切因果主张都蕴涵某种相应规则性（“律”）存在，把因与果相联。由此便知：一切因果解释都（也许仅“隐含地”）“蕴涵”此律／规则性存在，故律“参与”了一切此类解释——正如 *DN* 模型所主张。
   - id: 34
     kind: body
     source: |-
       To illustrate this line of argument, consider
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为说明这一论证，试看
+    step2: |-
+      为说明这一论证路线，试看
   - id: 35
     kind: body
     source: |-
       **(3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(3)**
+    step2: |-
+      **(3)**
   - id: 36
     kind: body
     source: |-
       The impact of my knee on the desk caused the tipping over of the inkwell.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我的膝盖撞在书桌上，导致墨水瓶翻倒。
+    step2: |-
+      我的膝盖撞上书桌，致使墨水瓶翻倒。
   - id: 37
     kind: body
     source: |-
       (3) is a so-called singular causal explanation, advanced by Michael Scriven (1962) as a counterexample to the claim that the *DN* model describes necessary conditions for successful explanation. According to Scriven, (3) explains the tipping over of the inkwell even though no law or generalization figures explicitly in (3) and (3) appears to consist of a single sentence, rather than a deductive argument. Hempel’s response (1965b: 360ff) is that the occurrence of “caused” in (3) should not be left unanalyzed or taken as explanatory just as it stands. Instead (3) should be understood as “implicitly” or “tacitly” claiming there is a “law” or regularity linking knee impacts to tipping over of inkwells. According to Hempel, it is the implicit claim that some such law holds that “distinguishes” (3) from “a mere sequential narrative” in which the spilling is said to follow the impact but without any claim of causal connection—a narrative that (Hempel thinks) would clearly not be explanatory. This linking law is the nomological premise in the *DN* argument that, according to Hempel, is “implicitly” asserted by (3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (3) 是一个所谓的单称因果解释，迈克尔·斯克里文（Michael Scriven, 1962）提出它，作为对“*DN* 模型描述了成功解释的必要条件”这一主张的反例。据斯克里文，(3) 解释了墨水瓶的翻倒，尽管 (3) 中并未显式出现任何律或概括，且 (3) 看来只是单个句子而非演绎论证。亨佩尔的回应（1965b: 360ff）是：(3) 中“引起”一词的出现不应不加分析，也不应仅就其在字面上的样子被当作解释性的。相反，(3) 应被理解为“隐含地”或“默然地”主张：存在一条把膝盖撞击与墨水瓶翻倒联系起来的“律”或规则性。据亨佩尔，正是这一隐含主张——某条此类律成立——使 (3) “区别于”“单纯的顺序叙述”：后者说泼洒在撞击之后发生，却不作任何因果联系的断言，而（亨佩尔认为）这种叙述显然不是解释性的。这条起联系作用的律，就是据亨佩尔所说 (3) 所“隐含”断言的 *DN* 论证中的律则前提。
+    step2: |-
+      (3) 属所谓单称因果解释，迈克尔·斯克里文（Michael Scriven, 1962）提出它，以反驳“*DN* 模型刻画了成功解释的必要条件”。据斯克里文，(3) 解释了墨水瓶的翻倒，尽管其中未显式出现任何律或概括，且看起来只是一个句子而非演绎论证。亨佩尔（1965b: 360ff）回应：(3) 中的“引起”不应不加分析，也不应字面地就当作解释性的；而应理解为“隐含地”或“默然地”主张：存在一条联结膝盖撞击与墨水瓶翻倒的“律”或规则性。据亨佩尔，正是这一隐含主张使 (3) 有别于“单纯的顺序叙述”——后者说泼洒随撞击而来，却不作因果断言，而（亨佩尔认为）这种叙述显然不具解释力。这条联结之律，就是他所谓 (3) 隐含断言的 *DN* 论证的律则前提。
   - id: 38
     kind: body
     source: |-
       The basic idea is thus that a proper explication of the role of causal claims in explanation leads via a Humean or regularity theory of causation, to the conclusion that, at least ideally, explanations should satisfy the *DN/IS* model. Let us call this line of argument the “hidden structure” argument in recognition of the role it assigns to a hidden (or at least non-explicit) *DN* structure that is claimed to be associated with (3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      基本想法因而如下：对因果主张在解释中所起作用的恰当阐释，经由休谟式或规则性的因果理论，导向这样的结论：至少在理想情况下，解释应满足 *DN/IS* 模型。我们不妨称这一论证路线为“隐藏结构”论证，以彰明它所赋予 (3) 的那种隐藏的（或至少非显式的）*DN* 结构。
+    step2: |-
+      基本想法因而是：恰当阐释因果主张在解释中的作用，会经由休谟式或规则性的因果理论，得出这样的结论——至少在理想情形下，解释应满足 *DN/IS* 模型。这一论证路线可称“隐藏结构”论证，因为它在 (3) 那里安放了一个隐藏的（或至少非显式的）*DN* 结构。
   - id: 39
     kind: body
     source: |-
       At this point a comment is in order regarding a feature of this proposal that may seem puzzling. The boundaries of the category “scientific explanation” are far from clear, but while (3) is arguably an explanation, it is not what one usually thinks of as “science”—instead it is a claim from “ordinary life” or “common sense”. This raises the question of why adherents of the *DN/IS* model don’t simply respond to the alleged counterexample (3) by denying that it is an instance of the category “scientific explanation”—that is, by claiming that the *DN/IS* model is not an attempt to reconstruct the structure of explanations like (3) but is rather only meant to apply to explanations that are properly regarded as “scientific”. The fact that this response is not often adopted by advocates of the *DN* model is an indication of the extent to which, as noted in Section 1, it is implicitly assumed in most discussions of scientific explanation that there are important similarities or continuities in structure between explanations like (3) and explanations that are more obviously scientific and that these similarities that should be captured by some common account that applies to both. Indeed, it is a striking feature not just of Hempel (1965b) but of many other treatments of scientific explanation that much of the discussion in fact focuses on “ordinary life” singular causal explanations similar to (3), the tacit assumption being that conclusions about the structure of such explanations have fairly direct implications for understanding explanation in science.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此处宜就这一提议的一个可能令人困惑的特征作一评论。“科学解释”这一范畴的边界远不清晰，而 (3) 虽可说是解释，却并非人们通常所想的“科学”——它倒是来自“日常生活”或“常识”的主张。这就提出一个问题：*DN/IS* 模型的拥护者为何不径以否认 (3) 是“科学解释”范畴的一个实例来回应所谓的反例？——即主张 *DN/IS* 模型并非要重构 (3) 这类解释的结构，而只意在适用于真正可视为“科学”的解释。这一回应并不常被 *DN* 模型的拥护者采用，此事恰好表明（如第 1 节所述）：在多数关于科学解释的讨论中，人们隐含假定 (3) 这类解释与更显然属于科学的解释之间在结构上有重要相似或连续，而这些相似应由某种同时适用于二者的共同说明来把握。实际上，不仅亨佩尔（1965b），许多其他关于科学解释的处理都有一个显著特征：讨论大量集中于与 (3) 相似的“日常生活”单称因果解释，其默然假定是：关于此类解释结构的结论，对理解科学中的解释有相当直接的意涵。
+    step2: |-
+      此处宜就这一提议可能令人困惑之处作一评论。“科学解释”范畴的边界远不清晰，而 (3) 虽可算解释，却非通常所想的“科学”，而是“日常生活”或“常识”中的主张。于是有一个问题：*DN/IS* 的拥护者为何不径以否认 (3) 属于“科学解释”来回应这一所谓反例——即主张该模型并非重构 (3) 这类解释的结构，而只适用于真正可视为“科学”的解释？此回应不常被采用，恰表明（如第 1 节所述）：多数科学解释讨论隐含假定，(3) 这类解释与更显然属于科学的解释在结构上有重要相似或连续，且这些相似应由某种同时适用于二者的共同说明来把握。事实上，不仅亨佩尔（1965b），许多其他处理亦然：讨论大量集中于与 (3) 相似的“日常生活”单称因果解释，其默然假定是：关于此类解释结构的结论，对理解科学中的解释有相当直接的意涵。
   - id: 40
     kind: body
     source: |-
       ### 2.5 Explanatory Understanding and Nomic Expectability: Counterexamples to Sufficiency
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.5 解释性理解与律则的所期待性：对充分性的反例
+    step2: |-
+      ### 2.5 解释性理解与律则可期待性：充分性的反例
   - id: 41
     kind: body
     source: |-
       As explained above, examples like (3) are potential counterexamples to the claim that the *DN* model provides *necessary* conditions for explanation. There are also a number of well-known counterexamples to the claim that the *DN* model provides *sufficient* conditions for successful scientific explanation. Here are two illustrations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上所述，(3) 这类例子是对“*DN* 模型提供解释的*必要*条件”这一主张的潜在反例。此外还有一些著名反例，针对“*DN* 模型提供成功科学解释的*充分*条件”这一主张。下面举两例。
+    step2: |-
+      如上所述，(3) 这类例子可能反驳“*DN* 模型给出解释的*必要*条件”之说。此外还有若干著名反例，针对“*DN* 模型给出成功科学解释的*充分*条件”。以下两例。
   - id: 42
     kind: body
     source: |-
       **Explanatory Asymmetries**. There are many cases in which a derivation of an explanandum *E* from a law *L* and initial conditions *I* seems explanatory but a “backward” derivation of *I* from *E* and the same law *L* does not seem explanatory, even though the latter, like the former, appears to meet the criteria for successful *DN* explanation. For example, one can derive the length *s* of the shadow cast by a flagpole from the height *h* of the pole and the angle θ of the sun above the horizon and laws about the rectilinear propagation of light. This derivation meets the *DN* criteria and seems explanatory. On the other hand, the following derivation from the same laws also meets the *DN* criteria but does not seem explanatory:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **解释的不对称性**。有许多情形：由律 *L* 与初始条件 *I* 推出被解释项 *E* 似有解释力，而由 *E* 与同一条律 *L* “反向”推出 *I* 却似无解释力，尽管后者与前例一样看似满足成功 *DN* 解释的标准。例如，可由旗杆高度 *h*、太阳在地平线之上的角 θ，以及光沿直线传播的诸律，推出旗杆投下影子的长度 *s*。这一推导满足 *DN* 标准，且似有解释力。反之，由同样诸律作出的下述推导也满足 *DN* 标准，却似无解释力：
+    step2: |-
+      **解释的不对称性**。许多情形中，由律 *L* 与初始条件 *I* 推出被解释项 *E* 似有解释力，而由 *E* 与同一 *L* “反向”推出 *I* 却似无，尽管后者与前例一样看似合乎成功 *DN* 解释之标准。例如，可由旗杆高 *h*、太阳在地平线之上的角 θ 与光沿直线传播之律，推出杆影长度 *s*；此推导合乎 *DN* 标准，似具解释力。反之，由同一批律所作的下述推导亦合乎 *DN* 标准，却似无解释力：
   - id: 43
     kind: body
     source: |-
       **(4)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(4)**
+    step2: |-
+      **(4)**
   - id: 44
     kind: body
     source: |-
       One can derive the height *h* of a flagpole from the length *s* of its shadow and the angle θ of the sun above the horizon.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可由影子的长度 *s* 与太阳在地平线之上的角 θ，推出旗杆的高度 *h*。
+    step2: |-
+      可由影长 *s* 与太阳在地平线之上的角 θ，推出旗杆之高 *h*。
   - id: 45
     kind: body
     source: |-
       Examples like this suggest that at least some explanations possess directional or asymmetric features to which the *DN* model is insensitive.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此类例子提示：至少有些解释具有方向性或不对称性，而 *DN* 模型对此不敏感。
+    step2: |-
+      此类例子提示：至少部分解释带有方向性或不对称性，而 *DN* 模型对此无所觉察。
   - id: 46
     kind: body
     source: |-
       **Explanatory Irrelevancies**. A derivation can satisfy the *DN* criteria and yet be a defective explanation because it contains irrelevancies besides those associated with the directional features of explanation. Consider an example due to Wesley Salmon (1971a: 34):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **解释的不相关性**。一个推导可以满足 *DN* 标准，却因含有不相关之物而成为有缺陷的解释——这些不相关之物不同于与解释的方向性特征相关者。试看韦斯利·萨蒙（1971a: 34）的一例：
+    step2: |-
+      **解释的不相关性**。满足 *DN* 标准的推导仍可能因含不相关之物而有缺陷——此处的多余之物不同于与方向性相关者。试看韦斯利·萨蒙（1971a: 34）一例：
   - id: 47
     kind: body
     source: |-
