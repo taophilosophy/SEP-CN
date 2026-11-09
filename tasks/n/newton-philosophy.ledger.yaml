@@ -179,26 +179,34 @@ segments:
     kind: body
     source: |-
       Space is a fundamental concept in part because Newton not only conceives of it as independent of objects and their relations, but because he argues that every entity must somehow connect with space in some way. For Newton, then, if one follows the Cartesians and thinks of the mind, or of God, as existing without any spatial location—as existing either “beyond” the natural world or somehow outside of it—then that is equivalent to conceiving of them as non-existent. Newton does not shy away from making this conception of the divine explicit in his public writings, despite the fact that it was anathema to his Cartesian and Leibnizian contemporaries. In the General Scholium to the *Principia*, which was added to the second edition of the text in 1713, for instance, he famously writes of God:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      空间之所以是一个基本概念，部分是因为牛顿不仅把它构想为独立于对象及其关系，而且因为他主张每一个实体都必定以某种方式与空间相联。因此对牛顿来说，如果一个人追随笛卡尔派，把心灵或上帝设想为不带任何空间位置地存在——设想为存在于自然世界“之外”，或以某种方式在它之外——那么这就等于把它们设想为不存在。牛顿并不回避在其公开著作中明确表达这种神性构想，尽管这对他的笛卡尔派与莱布尼茨派同侪而言是可憎的。例如，在 1713 年补入《原理》第二版的总附释中，他关于上帝有一段著名的文字：
+    step2: |-
+      空间之所以是基本概念，一半是因为牛顿不仅把它想成独立于对象及其关系，还因为他主张每个存在者都必以某种方式与空间相联。于牛顿而言，若有人跟着笛卡尔派，把心灵或上帝设想为不占任何空间位置而存在——或“超乎”自然世界之外，或在它之外的某处——那便等于把它们想成不存在。牛顿并不讳言在公开著作里明说这种神性构想，尽管这对他的笛卡尔派、莱布尼茨派同辈而言简直是大逆不道。例如，1713 年补入《原理》第二版的总附释里，他论上帝有一段名言：
   - id: 23
     kind: body
     source: |-
       > He endures always and is present everywhere, and by existing always and everywhere he constitutes duration and space. Since each and every particle of space is *always*, and each and every indivisible moment of duration is *everywhere*, certainly the maker and lord of all things will not be *never* or *nowhere* … God is one and the same God always and everywhere. He is omnipresent not only *virtually* but also *substantially*; for active power cannot subsist without substance. (Newton 1999: 941)[^newton-1999]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 他永恒常在，无处不在；由于他永远且处处存在，他便构成绵延与空间。既然空间的每一微粒都是*永恒*的，绵延的每一不可分瞬间都是*无所不在*的，那么万物的创造者与主宰就绝不会是*从不*或*无处*……上帝永远是同一的上帝，处处且时时。他不仅*在效力上*、而且在*实体上*无所不在；因为主动的能力不能离开实体而存在。（Newton 1999: 941）[^newton-1999]
+    step2: |-
+      > 他恒久长存，无所不在；因其永远而处处存在，他便构成绵延与空间。空间的每一微粒皆*永恒*，绵延的每一不可分瞬刻皆*遍在*，则万物的创造者与主宰必不至于*从不*或*无处*……上帝古今如一、处处同一。他不只*在效力上*、更在*实体上*无所不在；盖主动之力不能无实体而独存。（Newton 1999: 941）[^newton-1999]
   - id: 24
     kind: body
     source: |-
       For Newton, just as bodies are present in some spatial location, God, an infinite being, is present throughout all of space throughout all of time. There could not be a clearer expression of agreement with More in his debate with the Cartesians concerning the substantial presence of the divine within space.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对牛顿来说，正如物体存在于某个空间位置，上帝作为无限的存在者，存在于全部空间之中、贯穿全部时间。在与笛卡尔派关于神性在空间中之实体性临在的争论中，这再清楚不过地表达了他与莫尔的一致。
+    step2: |-
+      在牛顿看来，物体既存在于某个空间位置，上帝这无限的存在者便贯通全部空间、贯穿全部时间。在与笛卡尔派争论神性在空间中的实体性临在时，再没有比这更能表明他与莫尔同调的了。
   - id: 25
     kind: body
     source: |-
       Newton also took issue with Cartesian ideas about motion. His rejection of Cartesian views of space, and his embrace of space as a fundamental concept in philosophy following More’s influence, aligns with his famous discussion of space and time in the Scholium that follows the opening definitions in the *Principia*. This text influenced nearly every subsequent philosophical discussion of space and time for the next three centuries, so its contours are well known (see DiSalle 2006: ch. 2)[^disalle-2006]. In his *Principles of Philosophy* of 1644, Descartes had distinguished between the “ordinary” and the “proper” view of motion: whereas the ordinary view presents motion as a body’s change of place, the philosopher knows that properly speaking, motion is a body’s change of relations to the bodies that surround it (recall Descartes’s plenum). Newton contends in *De Gravitatione* that this idea of proper motion, according to which the motion of a body is at least partially a function of its relations to other bodies, is in tension with Descartes’s own laws of nature, also presented in the *Principles*. For according to the conception of (what we now call) inertia that Descartes presents as his first two laws, a body moving rectilinearly will continue to do so unless caused to deviate from its path—hence a body’s motion is not a function of its spatial relations to other bodies, but rather of its *causal* relations. That is, according to the first two laws, changing a body’s spatial relations to others bodies will not alter its rectilinear motion unless a causal interaction occurs. This tension runs deep in the Cartesian system. Newton’s Scholium reflects his idea that the concept of motion in the *Principia* ought to cohere with the laws of motion he endorses. He distinguishes between absolute and relative motion, true and apparent motion, and mathematical and common motion (the same distinctions hold for time, space and place). The former item in each of these three pairings is a concept that coheres with the laws of motion. Newton’s first law reflects Descartes’s laws: it is a new version of the principle of inertia, one incorporating the concept of an impressed force. Since this law indicates that a body’s motion is not a function of its spatial relations to other bodies, but rather of whether forces are impressed on it—which replaces the Cartesian concept of causal interactions that involve only impact (see below)—Newton cannot rely on a body’s motion relative to other bodies if he is to avoid the kind of tension he found in the Cartesian view. Hence he indicates that a body’s true motion—rather than its apparent motion, which depends on our perceptions, or its relative motion, which depends on its spatial relations—is a body’s change of position within space itself. That is, true motion should be understood as absolute motion. This means, in turn, that we must distinguish between the common idea of space, according to which space is conceived of as involving relations among various objects (like the space of our air), and the mathematical idea, one presumably obtained from geometrical reasoning, that space is independent of any objects or their relations. In order to account for the idea that true motion is absolute motion, then, the famous “absolute space” is postulated.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿也对笛卡尔关于运动的观念提出了异议。他拒斥笛卡尔的时空观、并在莫尔影响下把空间奉为哲学的基本概念，这与他关于《原理》开篇定义之后附释中空间与时间的那段著名讨论相合。这一文本影响了此后三个世纪几乎每一场关于空间与时间的哲学讨论，其轮廓因此广为人知（见 DiSalle 2006: 第 2 章）[^disalle-2006]。在 1644 年的《哲学原理》中，笛卡尔曾区分运动的“通常”观点与“恰当”观点：通常观点把运动呈现为物体位置的改变，而哲学家知道，恰当地说，运动是物体与其周围物体之关系的变化（回想笛卡尔的充满说）。牛顿在 *De Gravitatione* 中主张，这种关于恰当运动的观念——按此观念，物体的运动至少部分地是其与其他物体之关系的函数——与笛卡尔自己在《原理》中提出的自然法则相冲突。因为按照笛卡尔作为其前两条法则提出的（我们今天所谓）惯性概念，沿直线运动的物体将继续如此运动，除非有原因使之偏离轨道——因此物体的运动不是其与其他物体之空间关系的函数，而是其*因果*关系的函数。也就是说，按照前两条法则，改变物体与其他物体的空间关系，不会改变它的直线运动，除非发生因果互动。这一张力在笛卡尔体系中根深蒂固。牛顿的附释反映了他的想法：《原理》中的运动概念应当与他所认可的运动法則相一致。他区分绝对运动与相对运动、真实运动与表观运动、数学运动与通常运动（同样的区分也适用于时间、空间与位置）。这三对中的前一项，都是与运动法则相一致的概念。牛顿第一定律反映了笛卡尔的法则：它是惯性原理的新版本，其中纳入了外加力的概念。既然该定律表明物体的运动不是其与其他物体之空间关系的函数，而是取决于是否有外力施加于它——这取代了笛卡尔那种只涉及碰撞的因果互动概念（见下文）——那么牛顿若要避免他在笛卡尔观点中发现的那种张力，就不能依赖物体相对于其他物体的运动。因此他指出：物体的真实运动——而非依赖我们知觉的表观运动，或依赖其空间关系的相对运动——是物体在空间本身之中的位置变化。也就是说，真实运动应被理解为绝对运动。这又意味着，我们必须区分通常的空间观念——按此观念，空间被构想为涉及各种对象之间的关系（如我们周围空气的空间）——与数学的空间观念，后者大概得自几何推理，即空间独立于任何对象及其关系。于是，为了说明“真实运动即绝对运动”这一观念，著名的“绝对空间”便被设定下来。
+    step2: |-
+      牛顿对笛卡尔关于运动的观念也提出了异议。他拒斥笛卡尔的时空观，又在莫尔影响下把空间奉为哲学的基本概念，这与他在《原理》开篇定义之后附释里关于空间与时间的著名讨论正相呼应。那篇文字影响了此后三个世纪里几乎一切空间与时间的哲学讨论，轮廓久已为人熟知（见 DiSalle 2006: 第 2 章）[^disalle-2006]。1644 年的《哲学原理》里，笛卡尔区分了运动的“通常”观点与“恰当”观点：通常观点以为运动是物体位置的改变；哲学家却知道，严格说来，运动是物体与其周围诸物体之关系的变化（想一想笛卡尔的充满说）。牛顿在 *De Gravitatione* 中主张，这种“恰当运动”的观念——物体的运动至少部分地取决于它与其他物体的关系——与笛卡尔自己在《原理》里提出的自然法则相抵牾。因为照笛卡尔列为前两条法则的那种（今所谓）惯性概念：沿直线运动的物体将一直如此，除非有原因令其偏离轨道——可见物体的运动不取决于它与其他物体的空间关系，而取决于它的*因果*关系。也就是说，依前两条法则，除非发生因果互动，改变物体与其他物体的空间关系并不会改变其直线运动。这道裂痕深植于笛卡尔体系之中。牛顿的附释则表明他的想法：《原理》里的运动概念应当与他自己认可的运动法则相合。他区分绝对运动与相对运动、真实运动与表观运动、数学运动与通常运动（时间、空间、位置亦有同样的区分）。三对之中，前一项都是与运动法则相合的概念。牛顿第一定律承自笛卡尔的法则：它是惯性原理的新版，把外加力的概念纳了进来。该定律既然表明物体的运动不取决于它与其他物体的空间关系，而取决于是否有外力作用于它——这取代了笛卡尔那种只讲碰撞的因果互动（见下文）——牛顿若想避开他在笛卡尔观点里发现的那道裂痕，便不能倚仗物体相对于其他物体的运动。于是他指明：物体的真实运动——既非依赖我们知觉的表观运动，也非依赖空间关系的相对运动——是物体在空间本身之中的位置变化。也就是说，真实运动应理解为绝对运动。这又意味着，必须区分通常的空间观念——把空间想成牵涉诸对象之间的关系（如我们周遭空气的空间）——与数学的空间观念，后者大约得自几何推理，即空间独立于任何对象及其关系。于是，为了安顿“真实运动即绝对运动”这一观念，著名的“绝对空间”便被设定出来。
   - id: 26
     kind: body
     source: |-
