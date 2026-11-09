@@ -2039,7 +2039,7 @@ outline: [1, 6]
 ### 社会正义（结构性不平等和不公正、对待他人的平等和尊重）
 
 * [歧视 discrimination (Anthony Sangiuliano)](d/discrimination.md)
-* [分配正义与实证道德心理学 and empirical moral psychology (Christian B. Miller)](j/justice-moral-psych.md)
+* [分配正义与经验道德心理学 Distributive Justice and Empirical Moral Psychology (Christian B. Miller)](j/justice-moral-psych.md)
 * [平等 equality (Stefan Gosepath)](e/equality.md)
 * [剥削 exploitation (Matt Zwolinski, Benjamin Ferguson, and Alan Wertheimer)](e/exploitation.md)
 * [公正 impartiality (Troy Jollimore)](i/impartiality.md)

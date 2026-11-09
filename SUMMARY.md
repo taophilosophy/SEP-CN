@@ -718,7 +718,7 @@
 * [倾向 dispositions (Sungho Choi and Michael Fara)](d/dispositions.md)
 * [\*双重论证——见智者 Dissoi Logoi — see Sophists, The](s/sophists.md)
 * [\*分配正义——见正义：分配正义 distributive justice — see justice: distributive](j/justice-distributive.md)
-  * [分配正义与实证道德心理学 and empirical moral psychology (Christian B. Miller)](j/justice-moral-psych.md)
+  * [分配正义与经验道德心理学 Distributive Justice and Empirical Moral Psychology (Christian B. Miller)](j/justice-moral-psych.md)
   * [\*国际——见正义：全球分配正义 international — see justice: international distributive](i/international-justice.md)
 * [\*多样性 diversity](README.md)
   * [\*宗教——见宗教多样性 religious — see religious diversity](r/religious-pluralism.md)
