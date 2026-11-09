@@ -1,0 +1,54 @@
+{
+ "key": "eavesdropper",
+ "term": "eavesdropper",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:23:21+00:00",
+ "status": "ok",
+ "note": "variant=eavesdropper; 审定公布名词库=2; 海峡两岸名词对照库=3; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "窃听",
+   "en": "eavesdropping",
+   "code": "05.173",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "网络窃听",
+   "en": "network eavesdropping",
+   "code": "09.0906",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络管理与安全"
+  },
+  {
+   "cn": "窃听",
+   "en": "eavesdropping",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "防窃听",
+   "en": "anti-eavesdrop",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "反窃听装置",
+   "en": "anti-eavesdrop device",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "网络窃听",
+   "en": "network eavesdropping",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

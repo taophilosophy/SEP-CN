@@ -1,0 +1,348 @@
+{
+ "key": "doppler shift",
+ "term": "Doppler shift",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:15:51+00:00",
+ "status": "ok",
+ "note": "variant=Doppler shift; 审定公布名词库=1353; 海峡两岸名词对照库=370; 其他来源数据库=35; 预公布名词数据库=14; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler shift",
+   "code": "04.164",
+   "standard": "天文学名词",
+   "subject": "天文学_天体物理学"
+  },
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler shift",
+   "code": "04.2671",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_声学"
+  },
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler shift",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_力学通类"
+  },
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler frequency shift",
+   "code": "01.126",
+   "standard": "光学名词",
+   "subject": "光学_基础光学"
+  },
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler frequency shift",
+   "code": "02.593",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "多普勒相移",
+   "en": "Doppler phase shift",
+   "code": "08.608",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天遥感"
+  },
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler frequency shift",
+   "code": "08.609",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天遥感"
+  },
+  {
+   "cn": "卫星多普勒［频移］测量",
+   "en": "satellite Doppler shift measurement",
+   "code": "02.072",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "多普勒频移衰减法",
+   "en": "Doppler shift attenuation method,DSAM",
+   "code": "09.0786",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_原子核物理学"
+  },
+  {
+   "cn": "等多普勒频率线",
+   "en": "line of constant Doppler shift",
+   "code": "07.115",
+   "standard": "航空科学技术名词",
+   "subject": "航空科学技术_航空电子与机载计算机系统"
+  },
+  {
+   "cn": "等多普勒频移线",
+   "en": "line of constant Doppler shift",
+   "code": "20.132",
+   "standard": "电子学名词",
+   "subject": "电子学_导航"
+  },
+  {
+   "cn": "变换",
+   "en": "shift",
+   "code": "02.0223",
+   "standard": "化工名词（九）无机化工与肥料",
+   "subject": "化工（九）_肥料"
+  },
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler shift",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "多普勒变换",
+   "en": "Doppler shift",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler shift",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler shift",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "多普勒频移",
+   "en": "Doppler frequency shift",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "卫星多普勒[频移]测量",
+   "en": "satellite Doppler shift measurement",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "等多普勒频移线",
+   "en": "line of constant Doppler shift",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "移位",
+   "en": "shift",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "移泊",
+   "en": "shifting",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "多普勒激光雷达",
+   "en": "Doppler lidar",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "多普勒雷达",
+   "en": "Doppler radar",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "多普勒谱",
+   "en": "Doppler spectrum",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "风摆",
+   "en": "shift",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "多普勒效应",
+   "en": "Doppler effect",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多普勒测量",
+   "en": "Doppler measurement",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "化学位移",
+   "en": "Chemical shift",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "移位寄存器",
+   "en": "shift register",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "均值漂移聚类",
+   "en": "mean shift clustering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "换位",
+   "en": "change of position\",\"shifting",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "活动后支索",
+   "en": "running backstay\",\"shifting stay",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "统筹安排轮休",
+   "en": "to better schedule rotating shifts",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "变换位置",
+   "en": "interchange of position\",\"shift the position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "法与时变，礼与俗化",
+   "en": "Laws Change Along with Evolving Times; Rites Shift Along with Changing Customs",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "箭杆",
+   "en": "shaft",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "反应转移",
+   "en": "response shift",
+   "code": "5.3.4",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "换班制度",
+   "en": "shift system",
+   "code": "04.0001",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "语言转用",
+   "en": "language shift",
+   "code": "5.0151",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "移动性浊音",
+   "en": "shifting dullness",
+   "code": "1.4.3.5.15",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_症状与体征_体征"
+  },
+  {
+   "cn": "彩色多普勒超声",
+   "en": "color Doppler ultrasonography",
+   "code": "1.5.5.4",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测"
+  },
+  {
+   "cn": "供给变动",
+   "en": "shift in supply",
+   "code": "5.1.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "医院成本转移",
+   "en": "hospital cost shifting",
+   "code": "14.2.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "供给量变动",
+   "en": "shift in supply quantity",
+   "code": "5.1.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "卫生服务需求变动",
+   "en": "shift of demand for health service",
+   "code": "4.1.5.2.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务需求_卫生服务需求"
+  },
+  {
+   "cn": "从新民主主义革命到社会主义革命转变的标志",
+   "en": "mark of a shift from new democratic revolution to socialist revolution",
+   "code": "03.0381",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "叶绿素铜钠",
+   "en": "sodium copper chlorophyllin",
+   "code": "6.1.11.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "含铜宫内节育器",
+   "en": "copper-bearing intrauterine device",
+   "code": "5.2.7.1.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_避孕"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

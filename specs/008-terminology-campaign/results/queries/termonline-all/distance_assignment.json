@@ -1,0 +1,348 @@
+{
+ "key": "distance-assignment",
+ "term": "distance-assignment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T17:58:44+00:00",
+ "status": "ok",
+ "note": "variant=distance-assignment; 审定公布名词库=829; 海峡两岸名词对照库=321; 其他来源数据库=83; 预公布名词数据库=22; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "采写任务",
+   "en": "assignment",
+   "code": "4.048",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "分配问题",
+   "en": "assignment problem",
+   "code": "05.191",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "采写任务",
+   "en": "reporting assignment",
+   "code": "02.08.037",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "区域定位",
+   "en": "regional assignment",
+   "code": "8.112",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "code": "02.0143",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "code": "05.0200",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "设备分配",
+   "en": "machine assignment",
+   "code": "05.0980",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_工业工程"
+  },
+  {
+   "cn": "资源调配",
+   "en": "resource assignment",
+   "code": "09.0676",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理"
+  },
+  {
+   "cn": "土地划拨",
+   "en": "land assignment",
+   "code": "11.0509",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_政府管理"
+  },
+  {
+   "cn": "见习计划",
+   "en": "understudy assignment",
+   "code": "04.0586",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_培训与开发"
+  },
+  {
+   "cn": "土地划拨",
+   "en": "land assignment",
+   "code": "07.0368",
+   "standard": "建筑学名词",
+   "subject": "建筑学_城乡规划_城乡规划管理"
+  },
+  {
+   "cn": "频率指配",
+   "en": "frequency assignment",
+   "code": "17.070",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_政策、法规与管理"
+  },
+  {
+   "cn": "赋值",
+   "en": "assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "随机分配，随机分派",
+   "en": "random assignment",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "不可撤销的转让",
+   "en": "irrevocable assignment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "法定转让",
+   "en": "legal assignment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "有条件合同转让",
+   "en": "conditional assignment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "专利权转让",
+   "en": "patent assignment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "按需分发",
+   "en": "demand assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "频率指配",
+   "en": "frequency assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "设备指派",
+   "en": "device assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "时延分配",
+   "en": "delay assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "信道指配",
+   "en": "channel assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "指定泳道",
+   "en": "lanes assignment",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "比赛距离",
+   "en": "distance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "距离模数",
+   "en": "Distance modulus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "汉明距离",
+   "en": "Hamming distance",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "地理坐标系",
+   "en": "Geographical distance",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大地水准面",
+   "en": "Geographical distance",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "卫星导航系统",
+   "en": "Geographical distance",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "距离衰减",
+   "en": "distance decay",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "归因份额",
+   "en": "assigned share，AS",
+   "code": "4.4.3.19",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标"
+  },
+  {
+   "cn": "距离比例",
+   "en": "distance scale",
+   "code": "6.2.26.8.10.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "code": "6.2.1.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射防护方法"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "code": "2.3.2.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会角色"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "code": "2.4.1.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念社会互动"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "code": "4.1.13.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会关系"
+  },
+  {
+   "cn": "社会距离",
+   "en": "social distance",
+   "code": "4.1.18.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_领导"
+  },
+  {
+   "cn": "焦点-皮肤距离",
+   "en": "focus-skin distance",
+   "code": "6.4.2.33",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "应急计划距离",
+   "en": "emergency planning distance",
+   "code": "7.2.1.11.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "焦点-影像接收器距离",
+   "en": "focus-image receptor distance",
+   "code": "6.4.2.34",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "正常治疗距离",
+   "en": "normal treatment distance，NTD",
+   "code": "6.4.4.22",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "源轴距",
+   "en": "source-axis distance，SAD",
+   "code": "6.4.4.42",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

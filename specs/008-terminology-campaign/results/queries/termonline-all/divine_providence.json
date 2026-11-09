@@ -1,0 +1,348 @@
+{
+ "key": "divine providence",
+ "term": "divine providence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:04:44+00:00",
+ "status": "ok",
+ "note": "variant=divine providence; 审定公布名词库=1746; 海峡两岸名词对照库=406; 其他来源数据库=128; 预公布名词数据库=105; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "卜",
+   "en": "bu;divination",
+   "code": "2.468",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_宗教"
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren;diviner",
+   "code": "2.109",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_政治_中央及地方职官"
+  },
+  {
+   "cn": "卜人",
+   "en": "bu ren;diviner",
+   "code": "2.128",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_政治_中央及地方职官"
+  },
+  {
+   "cn": "数据提供者",
+   "en": "data provider",
+   "code": "06.04.056",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "信息提供者",
+   "en": "information provider",
+   "code": "02.226",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_图书情报职业"
+  },
+  {
+   "cn": "提供方前缀",
+   "en": "provider prefix",
+   "code": "09.0628",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络互联"
+  },
+  {
+   "cn": "服务提供方",
+   "en": "service provider",
+   "code": "09.0080",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_协议体系与组成结构"
+  },
+  {
+   "cn": "信息提供方",
+   "en": "information provider",
+   "code": "09.0696",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络应用"
+  },
+  {
+   "cn": "接入提供方",
+   "en": "access provider",
+   "code": "09.0054",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_协议体系与组成结构"
+  },
+  {
+   "cn": "内容提供方",
+   "en": "content provider",
+   "code": "09.0697",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络应用"
+  },
+  {
+   "cn": "知识供应者",
+   "en": "knowledge provider",
+   "code": "03.0806",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_知识管理"
+  },
+  {
+   "cn": "服务提供者",
+   "en": "service provider",
+   "code": "08.0407",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销组合"
+  },
+  {
+   "cn": "神圣之诗",
+   "en": "Divine Poem\",\"The",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "商务访问提供者",
+   "en": "commercial access provider",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "空间段提供者",
+   "en": "space segment provider",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "应用服务商",
+   "en": "application server provider\",\"ASP",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "因特网服务提供者",
+   "en": "Internet service provider\",\"ISP",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "因特网接入提供者",
+   "en": "Internet access provider\",\"IAP",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "因特网内容提供者",
+   "en": "Internet content provider\",\"ICP",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "因特网平台提供者",
+   "en": "Internet presence provider\",\"IPP",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "因特网商务提供者",
+   "en": "Internet business provider\",\"IBP",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "应用服务提供者",
+   "en": "application service provider\",\"ASP",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "另有相反的规定除外",
+   "en": "except otherwise herein provided",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "日珥",
+   "en": "solar prominence\",\"prominence",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "服务提供者",
+   "en": "service provider",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据提供者",
+   "en": "data provider",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "第三方支付",
+   "en": "Payment_service_provider payment service provider",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "住房公积金",
+   "en": "Housing Provident Fund",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字服务公司",
+   "en": "digital service provider",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "云服务提供者",
+   "en": "cloud service provider",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "服务提供域",
+   "en": "service provider domain",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "金融信息服务提供商",
+   "en": "financial information service provider",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "为老服务商",
+   "en": "elderly care service provider",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据应用提供者",
+   "en": "big data application provider",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据框架提供者",
+   "en": "big data framework provider",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "云服务商选择",
+   "en": "cloud service provider selection",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "code": "4.2.9.34",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "code": "4.0301",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "提供者",
+   "en": "provider",
+   "code": "10.1.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务购买"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "code": "4.0316",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "healthcare providers",
+   "code": "10.1.2.3.3",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "卫生服务提供机构",
+   "en": "health care providers",
+   "code": "2.2.5.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生费用核算"
+  },
+  {
+   "cn": "服务购买者与提供者分离",
+   "en": "purchaser-provider split",
+   "code": "10.1.1.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务购买"
+  },
+  {
+   "cn": "提供心理支持",
+   "en": "providing psychological support",
+   "code": "6.5.1.3.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务"
+  },
+  {
+   "cn": "卫生服务提供方",
+   "en": "health service provider",
+   "code": "8.1.1",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "餐饮服务提供者",
+   "en": "food service provider",
+   "code": "4.2.23",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品安全法规"
+  },
+  {
+   "cn": "营利性医疗卫生机构",
+   "en": "for-profit health provider",
+   "code": "16.1.2.4.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生系统改革_中国卫生系统改革"
+  },
+  {
+   "cn": "社区卫生服务人员",
+   "en": "community health service provider",
+   "code": "11.5",
+   "standard": "社会医学名词",
+   "subject": "社区卫生"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

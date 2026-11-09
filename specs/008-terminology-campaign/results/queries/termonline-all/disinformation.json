@@ -1,0 +1,75 @@
+{
+ "key": "disinformation",
+ "term": "disinformation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T17:51:10+00:00",
+ "status": "ok",
+ "note": "variant=disinformation; 审定公布名词库=8; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "伪传信息",
+   "en": "disinformation",
+   "code": "12.014",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "虚假信息",
+   "en": "disinformation,false information",
+   "code": "06.079",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_情报分析与研究_竞争情报"
+  },
+  {
+   "cn": "传言",
+   "en": "disinformation;rumor",
+   "code": "6.013",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播行为与活动"
+  },
+  {
+   "cn": "被动性虚假信息",
+   "en": "passive disinformation",
+   "code": "06.081",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_情报分析与研究_竞争情报"
+  },
+  {
+   "cn": "主动性虚假信息",
+   "en": "active disinformation",
+   "code": "06.080",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_情报分析与研究_竞争情报"
+  },
+  {
+   "cn": "错误信息",
+   "en": "misinformation",
+   "code": "12.015",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "误报",
+   "en": "misinformation",
+   "code": "06.078",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_情报分析与研究_竞争情报"
+  },
+  {
+   "cn": "谣言",
+   "en": "rumor;misinformation",
+   "code": "6.014",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播行为与活动"
+  },
+  {
+   "cn": "生物信息",
+   "en": "bioinformation",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

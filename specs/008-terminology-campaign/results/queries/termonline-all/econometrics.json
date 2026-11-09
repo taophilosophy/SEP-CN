@@ -1,0 +1,89 @@
+{
+ "key": "econometrics",
+ "term": "econometrics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:26:21+00:00",
+ "status": "ok",
+ "note": "variant=econometrics; 审定公布名词库=7; 海峡两岸名词对照库=1; 其他来源数据库=2; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "计量经济学",
+   "en": "econometrics",
+   "code": "10.045",
+   "standard": "经济学名词",
+   "subject": "经济学_数量经济学"
+  },
+  {
+   "cn": "金融计量经济学",
+   "en": "financial econometrics",
+   "code": "07.0002",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_基本概念"
+  },
+  {
+   "cn": "空间经济计量学",
+   "en": "spatial econometrics",
+   "code": "02.0724",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_数量经济的理论与方法"
+  },
+  {
+   "cn": "计量检验",
+   "en": "econometric test",
+   "code": "05.0723",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_质量管理"
+  },
+  {
+   "cn": "计量经济模型",
+   "en": "econometric model",
+   "code": "06.038",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_经济控制与生物控制论_经济控制"
+  },
+  {
+   "cn": "空间计量模型",
+   "en": "spatial econometric model",
+   "code": "04.029",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划技术科学_城乡规划分析与优化技术"
+  },
+  {
+   "cn": "宏观经济计量模型",
+   "en": "macro econometric model",
+   "code": "04.084",
+   "standard": "经济学名词",
+   "subject": "经济学_宏观经济学"
+  },
+  {
+   "cn": "计量经济模型",
+   "en": "econometric model",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计量经济学",
+   "en": "Econometrics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "金融计量经济学",
+   "en": "Financial Econometrics（Financial Econometrics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计量经济学",
+   "en": "econometrics",
+   "code": "1.2.5.150",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

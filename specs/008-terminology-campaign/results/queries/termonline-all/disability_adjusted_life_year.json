@@ -1,0 +1,348 @@
+{
+ "key": "disability-adjusted life year",
+ "term": "disability-adjusted life year",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T17:51:10+00:00",
+ "status": "ok",
+ "note": "variant=disability-adjusted life year; 审定公布名词库=5333; 海峡两岸名词对照库=1735; 其他来源数据库=365; 预公布名词数据库=283; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "失能调整生命年",
+   "en": "disability-adjusted life year,DALY",
+   "code": "05.181",
+   "standard": "肠外肠内营养学名词",
+   "subject": "肠外肠内营养学_基础研究与临床研究_临床研究"
+  },
+  {
+   "cn": "伤残调整生命年",
+   "en": "disability-adjusted life yearDALY",
+   "code": "10.069",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  },
+  {
+   "cn": "生活质量调整寿命年数",
+   "en": "quality adjusted life years",
+   "code": "12.065",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射流行病学_危险指标"
+  },
+  {
+   "cn": "质量调整生命年",
+   "en": "quality adjusted life year,QALY",
+   "code": "05.012",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育科研方法"
+  },
+  {
+   "cn": "质量调整生命年",
+   "en": "quality-adjusted life year,QALY",
+   "code": "05.180",
+   "standard": "肠外肠内营养学名词",
+   "subject": "肠外肠内营养学_基础研究与临床研究_临床研究"
+  },
+  {
+   "cn": "质量调整生命年",
+   "en": "quality-adjusted life year,QALY",
+   "code": "10.070",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  },
+  {
+   "cn": "修正额定寿命",
+   "en": "adjusted rating life",
+   "code": "07.0779",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_滚动轴承_滚动轴承力矩、载荷及寿命"
+  },
+  {
+   "cn": "[额定]寿命修正系数",
+   "en": "life adjustment factor",
+   "code": "07.0785",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_滚动轴承_滚动轴承力矩、载荷及寿命"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "code": "06.025",
+   "standard": "急救医学名词",
+   "subject": "急救医学_海上医学救援_基本概念_通用概念"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "06.0017",
+   "standard": "手外科学名词",
+   "subject": "手外科学_手外科康复"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "07.012",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动康复_总论"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "06.004",
+   "standard": "烧伤学名词",
+   "subject": "烧伤学_烧伤康复与整形_烧伤康复治疗"
+  },
+  {
+   "cn": "年",
+   "en": "year",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "调整",
+   "en": "adjustment",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "交点年",
+   "en": "nodical year\",\"draconic year",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "回归年",
+   "en": "tropical year\",\"equinoctial year",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "闰年",
+   "en": "leap year\",\"intercalary year",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "失效要素",
+   "en": "disabled feature",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "禁止",
+   "en": "disable\",\"inhibition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "禁止中断",
+   "en": "interrupt disable",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "平差值",
+   "en": "adjusted value\",\"adjusted  quantity",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "直方图调整",
+   "en": "histogram adjust\",\"histogram adjustment",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "常年",
+   "en": "ordinary year",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "年",
+   "en": "Lunar Year/ Year",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "校准",
+   "en": "adjust\",\"adjustment\",\"correction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "调整",
+   "en": "adjust\",\"tune\",\"adjustment",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "调桨",
+   "en": "adjust\",\"adjustment\",\"oaring\",\"rigging adjustability",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "光年",
+   "en": "light-year",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "半衰期",
+   "en": "Half-life",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "尊生",
+   "en": "Respect Life",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "好生",
+   "en": "Cherish Life",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "耐久性",
+   "en": "Design life",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人工生命",
+   "en": "Artificial life",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人工生命",
+   "en": "artificial life",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字生命",
+   "en": "digital life",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "伤残调整寿命年",
+   "en": "disability adjusted life year",
+   "code": "3.7.12.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "失能调整生命年",
+   "en": "disability-adjusted life years,DALYs",
+   "code": "12.2.3.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担"
+  },
+  {
+   "cn": "伤残调整生命年",
+   "en": "disability adjusted life year, DALY",
+   "code": "9.28",
+   "standard": "社会医学名词",
+   "subject": "社会卫生状况评价"
+  },
+  {
+   "cn": "质量调整寿命年",
+   "en": "quality adjusted life year",
+   "code": "3.7.12.12",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "健康调整寿命年",
+   "en": "healthy adjusted life year",
+   "code": "3.7.12.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "质量调整生命年",
+   "en": "quality-adjusted life years,QALYs",
+   "code": "12.2.3.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担"
+  },
+  {
+   "cn": "质量调整生命年",
+   "en": "quality-adjusted life years, QALYs",
+   "code": "5.5",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "伤残健康损失寿命年",
+   "en": "years lived with disability",
+   "code": "3.7.12.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "寿命损失年",
+   "en": "years of life lost",
+   "code": "3.7.12.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "寿命损失年",
+   "en": "years of life lost",
+   "code": "9.24",
+   "standard": "社会医学名词",
+   "subject": "社会卫生状况评价"
+  },
+  {
+   "cn": "失能所致生命年损失",
+   "en": "years lived with disability,YLD",
+   "code": "12.2.3.3.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担"
+  },
+  {
+   "cn": "质量调整寿命天",
+   "en": "quality adjusted life day",
+   "code": "3.7.12.13",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

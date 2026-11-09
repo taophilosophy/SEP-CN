@@ -1,0 +1,54 @@
+{
+ "key": "echolocation",
+ "term": "echolocation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:23:21+00:00",
+ "status": "ok",
+ "note": "variant=echolocation; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "回声定位",
+   "en": "echolocation",
+   "code": "7.0228",
+   "standard": "动物学名词",
+   "subject": "动物学_动物生态学_个体生态学"
+  },
+  {
+   "cn": "回声定位",
+   "en": "echolocation",
+   "code": "12.058",
+   "standard": "生理学名词",
+   "subject": "生理学_特殊环境、比较、应用和运动生理学"
+  },
+  {
+   "cn": "多星共位",
+   "en": "multisatillite colocation",
+   "code": "05.287",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天控制与导航"
+  },
+  {
+   "cn": "回声定位",
+   "en": "echolocation",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "回声定位",
+   "en": "echolocation",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "回声定位",
+   "en": "echolocation",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,68 @@
+{
+ "key": "dominium",
+ "term": "dominium",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:15:51+00:00",
+ "status": "ok",
+ "note": "variant=dominium; 审定公布名词库=6; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "自治领",
+   "en": "dominion",
+   "code": "01.0723",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "铅丹",
+   "en": "minium",
+   "code": "03.04.031",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学_氧化物矿物和氢氧化物矿物"
+  },
+  {
+   "cn": "自治领天体物理台测光包",
+   "en": "Dominion Astrophysical Observatory Photometry; DAOPHOT",
+   "code": "06.469",
+   "standard": "天文学名词",
+   "subject": "天文学_天文仪器与技术"
+  },
+  {
+   "cn": "六·一四起义",
+   "en": "June 14 Uprising in Dominica",
+   "code": "04.0675",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西印度群岛"
+  },
+  {
+   "cn": "谷蠹",
+   "en": "lesser grain borer; Rhyzopertha dominica (Fabricius)",
+   "code": "10.181",
+   "standard": "农学名词",
+   "subject": "植物保护_作物虫害"
+  },
+  {
+   "cn": "章丹",
+   "en": "minium;red lead;lead tetroxide",
+   "code": "08.1086",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林材料"
+  },
+  {
+   "cn": "铅丹",
+   "en": "minium",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "自治领天体物理台",
+   "en": "Dominion Astrophysical Observatory\",\"DAO",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,229 @@
+{
+ "key": "efficacy",
+ "term": "efficacy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:30:51+00:00",
+ "status": "ok",
+ "note": "variant=efficacy; 审定公布名词库=30; 海峡两岸名词对照库=11; 其他来源数据库=1; 预公布名词数据库=7; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "有效性",
+   "en": "efficacy",
+   "code": "06.008",
+   "standard": "急救医学名词",
+   "subject": "急救医学_海上医学救援_基本概念_通用概念"
+  },
+  {
+   "cn": "有效性",
+   "en": "efficacy",
+   "code": "05.110",
+   "standard": "肠外肠内营养学名词",
+   "subject": "肠外肠内营养学_基础研究与临床研究_临床研究"
+  },
+  {
+   "cn": "疗效",
+   "en": "efficacy",
+   "code": "10.082",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  },
+  {
+   "cn": "田间药效",
+   "en": "field efficacy",
+   "code": "10.239",
+   "standard": "农学名词",
+   "subject": "植物保护_农药"
+  },
+  {
+   "cn": "自我效能",
+   "en": "self efficacy",
+   "code": "9.093",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_组织传播_组织传播关系与文化"
+  },
+  {
+   "cn": "自我效能",
+   "en": "self-efficacy",
+   "code": "10.041",
+   "standard": "行为医学名词",
+   "subject": "行为医学_应激与应激相关障碍_应激"
+  },
+  {
+   "cn": "光视效能",
+   "en": "luminous efficacy",
+   "code": "04.0608",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学"
+  },
+  {
+   "cn": "最大效应",
+   "en": "maximal efficacy",
+   "code": "05.039",
+   "standard": "老年医学名词",
+   "subject": "老年医学_老年人合理用药"
+  },
+  {
+   "cn": "群体效能感",
+   "en": "collective efficacy",
+   "code": "04.0182",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_沟通与冲突"
+  },
+  {
+   "cn": "自我效能感",
+   "en": "self-efficacy",
+   "code": "04.0105",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_个体行为基础"
+  },
+  {
+   "cn": "自我效能感",
+   "en": "self-efficacy",
+   "code": "08.085",
+   "standard": "心理学名词",
+   "subject": "心理学_人格心理学"
+  },
+  {
+   "cn": "团队效能感",
+   "en": "team efficacy",
+   "code": "12.047",
+   "standard": "心理学名词",
+   "subject": "心理学_管理心理学"
+  },
+  {
+   "cn": "①效能 ②有效性",
+   "en": "efficacy",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "自我效能感",
+   "en": "self efficacy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "心理治疗效力",
+   "en": "psychotherapy efficacy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "集体效能",
+   "en": "collective efficacy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "光视效能",
+   "en": "luminous efficacy",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "自我效能期望",
+   "en": "self efficacy expectation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自我效能训练",
+   "en": "self efficacy training",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自我效能理论",
+   "en": "self efficacy theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "个人效能量表",
+   "en": "Personal Efficacy Scale",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自我效能知觉",
+   "en": "perceived self efficacy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "职业生涯自我效能",
+   "en": "career self efficacy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "有效性和安全性研究",
+   "en": "safety and efficacy studies",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_医疗科研"
+  },
+  {
+   "cn": "功效",
+   "en": "efficacy",
+   "code": "12.1.4.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  },
+  {
+   "cn": "工效水平",
+   "en": "efficacy level",
+   "code": "12.1.1.3.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航海和潜水医学_航海医学"
+  },
+  {
+   "cn": "自我效能",
+   "en": "self-efficacy",
+   "code": "4.1.6.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_自我发展"
+  },
+  {
+   "cn": "疫苗功效",
+   "en": "vaccine efficacy",
+   "code": "13.5.5.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_药物经济学_疫苗经济学"
+  },
+  {
+   "cn": "自我效能",
+   "en": "self-efficacy",
+   "code": "5.5.13.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育"
+  },
+  {
+   "cn": "消毒效果",
+   "en": "disinfection efficacy",
+   "code": "1.4.2.64",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "消毒效果评价",
+   "en": "disinfection efficacy evaluation",
+   "code": "1.4.2.65",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

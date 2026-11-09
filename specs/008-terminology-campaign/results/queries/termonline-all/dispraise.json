@@ -1,0 +1,26 @@
+{
+ "key": "dispraise",
+ "term": "dispraise",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T17:54:11+00:00",
+ "status": "ok",
+ "note": "variant=dispraise; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "分散酶",
+   "en": "dispase",
+   "code": "3.0579",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_酶_酶命名与分类_水解酶"
+  },
+  {
+   "cn": "分散酶",
+   "en": "dispase",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

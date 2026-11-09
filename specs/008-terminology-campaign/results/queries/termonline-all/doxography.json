@@ -1,0 +1,306 @@
+{
+ "key": "doxography",
+ "term": "doxography",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T18:18:51+00:00",
+ "status": "ok",
+ "note": "variant=doxography; 审定公布名词库=351; 海峡两岸名词对照库=69; 其他来源数据库=6; 预公布名词数据库=15; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "地形",
+   "en": "topography",
+   "code": "06.0054",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林设计_设计要素"
+  },
+  {
+   "cn": "离子成像",
+   "en": "ionography",
+   "code": "03.04.124",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印刷技术_设备_材料"
+  },
+  {
+   "cn": "层析成像",
+   "en": "tomography",
+   "code": "01.1838",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震反演"
+  },
+  {
+   "cn": "地貌学",
+   "en": "topography",
+   "code": "02.0271",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球动力学_大陆构造演化"
+  },
+  {
+   "cn": "全息摄影",
+   "en": "holography",
+   "code": "12.0230",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_环境安全军事地球物理学_其他"
+  },
+  {
+   "cn": "种群统计",
+   "en": "demography",
+   "code": "7.0346",
+   "standard": "动物学名词",
+   "subject": "动物学_动物生态学_种群生态学"
+  },
+  {
+   "cn": "层析术",
+   "en": "tomography",
+   "code": "14.197",
+   "standard": "光学名词",
+   "subject": "光学_成像技术"
+  },
+  {
+   "cn": "全息术",
+   "en": "holography",
+   "code": "23.001",
+   "standard": "光学名词",
+   "subject": "光学_光全息与光存储技术"
+  },
+  {
+   "cn": "人口统计学",
+   "en": "demography",
+   "code": "01.201",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划总述_相关学科"
+  },
+  {
+   "cn": "人口学",
+   "en": "demography",
+   "code": "01.082",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育国策、生殖健康及人口学_人口学"
+  },
+  {
+   "cn": "专著",
+   "en": "monography",
+   "code": "03.050",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "全息术",
+   "en": "holography",
+   "code": "04.1340",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_波动光学、信息光学"
+  },
+  {
+   "cn": "层析成像技术",
+   "en": "tomography",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "电离射线透照术",
+   "en": "ionography",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "种群统计学",
+   "en": "demography",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "层析成像",
+   "en": "tomography",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "地形",
+   "en": "topography",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "地形",
+   "en": "topography",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "地形测量学",
+   "en": "topography",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "人口统计学",
+   "en": "demography",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地形测量学",
+   "en": "topography",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "图解算法",
+   "en": "nomography",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "层析成像，层析术",
+   "en": "tomography",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "全息术",
+   "en": "holography",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "人口统计学",
+   "en": "demography",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "全息摄影",
+   "en": "Holography",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算机断层扫描",
+   "en": "Computed Tomography",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "地震层析成像",
+   "en": "seismic tomography",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "正电子发射断层成像",
+   "en": "Positron-Emission Tomography",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "老年人口学",
+   "en": "geriatric demography",
+   "code": "3.15.3.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年和老龄化研究相关学科"
+  },
+  {
+   "cn": "口腔全景曲面体层摄影",
+   "en": "oral panoramic tomography",
+   "code": "6.4.2.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "code": "6.4.2.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "X射线体层摄影",
+   "en": "X-ray tomography",
+   "code": "6.4.2.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "code": "6.5.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用"
+  },
+  {
+   "cn": "正电子发射计算机体层显像",
+   "en": "positron emission tomography and computed tomography，PET/CT",
+   "code": "6.4.3.15",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "正电子发射体层成像",
+   "en": "positron emission tomography,PET",
+   "code": "1.5.5.6",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "code": "6.4.3.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "正电子发射体层显像",
+   "en": "positron emission tomography，PET",
+   "code": "6.4.3.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "单光子发射计算机体层成像与X射线计算机体层成像",
+   "en": "single photon emission computed tomography and computed tomography，SPECT/CT",
+   "code": "6.4.3.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "工业计算机X射线断层扫描探伤",
+   "en": "industrial X-ray computed tomography",
+   "code": "8.2.2.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_工业及其他应用监管"
+  },
+  {
+   "cn": "单光子发射计算机体层成像",
+   "en": "single photon emission computed tomography，SPECT",
+   "code": "6.4.3.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
