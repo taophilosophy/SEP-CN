@@ -299,74 +299,98 @@ segments:
     kind: body
     source: |-
       ### 4.3 Social Psychology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 社会心理学
+    step2: |-
+      ### 4.3 社会心理学
   - id: 38
     kind: body
     source: |-
       As suggested already in the considerations of how the culture industry’s commodities are consumed, with the concept “dialectical anthropology” (1947 [2002, xix]) Adorno (and Horkheimer) incorporated into his social theory a historically dynamic relationship between subjectivity, as studied by psychoanalysis, and society, as studied by sociology (Dahmer 2012**)[^dahmer-2012]**. Adorno’s explorations of that relationship help explain some aspects of his theory of the authoritarian personality and parts of his account of anti-Semitism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如前文对文化工业商品如何被消费的考量所示，阿多诺（与霍克海默）借“辩证人类学”概念（1947 [2002, xix]），把主体性——精神分析所研究的——与社会——社会学所研究的——之间的一种历史能动的关系，纳入他的社会理论（Dahmer 2012**）[^dahmer-2012]**。阿多诺对这一关系的探索，有助于解释其权威主义人格理论的某些方面，以及其反犹主义论述的部分内容。
+    step2: |-
+      前文考量文化工业的商品如何被消费时，已见端倪：阿多诺（与霍克海默）借“辩证人类学”概念（1947 [2002, xix]），把主体性——精神分析所研究的——与社会——社会学所研究的——之间那种历史能动的关系，纳入他的社会理论（Dahmer 2012**）[^dahmer-2012]**。阿多诺对这一关系的探索，有助于解释其权威主义人格理论的某些方面，也解释其反犹主义论述的部分内容。
   - id: 39
     kind: body
     source: |-
       Almost from its inception the Institute pursued a “marriage of Marx and Freud” (Jay 1996, 86–112; Whitebook 2004a)[^jay-1996][^whitebook-2004a], including a practicing analyst, Erich Fromm, among its members. Adorno’s first, failed *Habilitationsschrift* sought to combine Kant and Freud, arguing that the contents of the unconscious were at least partly determined by social reality (Whitebook 2004b; Bloch 2019)[^bloch-2019][^whitebook-2004b], a claim that can also be found operating in several lines of argument in *Dialectic of Enlightenment* (Sherratt 2002)[^sherratt-2002]*.* Adorno’s critique of Fromm’s (and his followers’) “revisionist” psychoanalysis clarified his own position: historicizing Freud’s account of the drives, repression, the Oedipal conflict, narcissicism, etc. showed that “not only the individual but the category of individuality is already a product of society” (1962 [2014, 330]; cf. 1955 [1967–68]); individual intrapsychic developmental conflict is the dynamic site where antagonistic society and antagonistic faculties of the psyche interact.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      几乎自创建之初，研究所便追求“马克思与弗洛伊德的联姻”（Jay 1996, 86–112；Whitebook 2004a）[^jay-1996][^whitebook-2004a]，执业分析师埃里希·弗洛姆（Erich Fromm）即位列其成员。阿多诺第一部失败的教授资格论文试图结合康德与弗洛伊德，论证无意识的内容至少部分地由社会现实所决定（Whitebook 2004b；Bloch 2019）[^bloch-2019][^whitebook-2004b]；这一主张也见于《启蒙辩证法》的若干论证线索之中（Sherratt 2002）[^sherratt-2002]*.* 阿多诺对弗洛姆（及其追随者）“修正主义”精神分析的批判，澄清了他自己的立场：把弗洛伊德关于驱力、压抑、俄狄浦斯冲突、自恋等等的说明历史化，表明“不仅个体，而且个体性这一范畴本身，已经是社会的产物”（1962 [2014, 330]；参看 1955 [1967–68]）；个体的内在心理发展冲突，是对抗性的社会与心灵诸对抗性能力相互作用的能动场所。
+    step2: |-
+      几乎自创建之初，研究所便追求“马克思与弗洛伊德的联姻”（Jay 1996, 86–112；Whitebook 2004a）[^jay-1996][^whitebook-2004a]；执业分析师埃里希·弗洛姆（Erich Fromm）即位列其成员。阿多诺第一部失败的教授资格论文试图结合康德与弗洛伊德，论证无意识的内容至少部分由社会现实决定（Whitebook 2004b；Bloch 2019）[^bloch-2019][^whitebook-2004b]。这一主张也在《启蒙辩证法》的若干论证线索中运作（Sherratt 2002）[^sherratt-2002]*.* 阿多诺对弗洛姆（及其追随者）“修正主义”精神分析的批判，澄清了他自己的立场：把弗洛伊德关于驱力、压抑、俄狄浦斯冲突、自恋等等的说明历史化，便可表明“不仅个体，而且个体性这一范畴本身，已经是社会的产物”（1962 [2014, 330]；参看 1955 [1967–68]）。个体的内在心理发展冲突，是对抗性的社会与心灵诸对抗性能力相互作用的能动场所。
   - id: 40
     kind: body
     source: |-
       Adorno and Horkheimer argue that Freud’s theory of subject formation accorded with the earlier period of liberal capitalism, when a bourgeois patriarchal family would elicit an Oedipal conflict in the infant resulting in the splitting off of strong ego from id and the installation of a superego, the psychoanalytic components required by autonomous individuals in the bourgeois era. However, in the age of monopoly capitalism’s massive asymmetry in power, and the integration of state and economy, the patriarch lost his unique authority, replaced by representatives of the state but above all by the culture industry. Under these changed social conditions the individual, in the sense of an autonomous and mature (*mündig*) person who makes reasoned decisions based on “a painful inner dialogue between conscience, self-preservation, and drives” (1947 [2002, 168]), tends to disappear. The new conditions favor a “new anthropological type” (Adorno 1941 [2009]) that Adorno calls “the authoritarian personality” and “the manipulative character,” characterized by ego-weakness, reified consciousness, susceptibility to identifying with autocratic leaders, a “bourgeois coldness” that deadens mimetic responsiveness (Macdonald 2011)[^macdonald-2011], and a regression to unsublimated drives. In sum, for Adorno the authoritarian personality exhibits a profound “inability to have experience” in the sense of consciously perceiving contradiction and dialectical possibility (Adorno et al., 1950 [2019, 973]; cf. Fong forthcoming).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      阿多诺与霍克海默论证：弗洛伊德的主体形成理论与自由资本主义的较早时期相合——彼时市民父权家庭会在婴儿身上引发俄狄浦斯冲突，结果是强健的自我从本我中分裂出来、超我得以安装，即市民时代自律个体所需的精神分析组件。然而，在垄断资本主义权力巨大不对称、国家与经济相整合的时代，父家长失去了其独有的权威，取而代之的是国家的代表，但首先是文化工业。在这些变化了的社会条件下，个体——即基于“良知、自我保存与驱力之间一场痛苦的内心对话”作出理性决断的、自律而成熟（*mündig*）的人——趋于消失（1947 [2002, 168]）。新条件偏爱一种“新人类学类型”（Adorno 1941 [2009]），阿多诺称之为“权威主义人格”与“操纵型人格”：其特征是自我软弱、物化意识、易于认同独裁领袖、一种钝化模仿反应性的“市民式冷漠”（Macdonald 2011）[^macdonald-2011]，以及退行到未升华的驱力。总之，在阿多诺看来，权威主义人格显示出一种深刻的“无力拥有经验”——就自觉地感知矛盾与辩证可能性而言（Adorno et al., 1950 [2019, 973]；参看 Fong forthcoming）。
+    step2: |-
+      阿多诺与霍克海默论证：弗洛伊德的主体形成理论，与自由资本主义的较早时期相合——彼时，市民父权家庭会在婴儿身上引发俄狄浦斯冲突，其结果是强健的自我从本我中分裂出来、超我得以安装；这正是市民时代自律个体所需的精神分析组件。然而到了垄断资本主义的时代——权力不对称巨大，国家与经济相整合——父家长失去了独有的权威，取而代之的是国家的代表，但首先是文化工业。社会条件既变，个体——即基于“良知、自我保存与驱力之间一场痛苦的内心对话”作出理性决断的、自律而成熟（*mündig*）的人——便趋于消失（1947 [2002, 168]）。新条件偏爱一种“新人类学类型”（Adorno 1941 [2009]）：阿多诺称之为“权威主义人格”与“操纵型人格”，其特征是自我软弱、物化意识、易于认同独裁领袖、一种钝化模仿反应性的“市民式冷漠”（Macdonald 2011）[^macdonald-2011]，还有退行到未升华的驱力。总之，在阿多诺看来，权威主义人格显出一种深刻的“无力拥有经验”——就自觉地感知矛盾与辩证可能性而言的经验（Adorno et al., 1950 [2019, 973]；参看 Fong forthcoming）。
   - id: 41
     kind: body
     source: |-
       Because the new anthropological type cannot reflectively work through the contradictions and antagonisms of the socio-economic totality, its unconscious anxiety and rage is directed via “false projection” (“the reverse of genuine mimesis,” 1947 [2002, 154]) at those whose stereotyped *imago* remind it of the renunciations and deceptions incurred in its adaption to the totality. This is one of several kinds of explanation of anti-Semitism in Adorno’s writings; the image of the Jew suggests what has partly escaped self-reification: “happiness without power, reward without work, a homeland without frontiers, religion without myth” (ibid., 164–5; Jay 1980; Rabinbach 2000)[^jay-1980][^rabinbach-2000]. In several empirical studies carried out in both the USA and pre- and post-war Germany (Jacobs 2015; Rensmann 2017)[^jacobs-2015][^rensmann-2017], the Institute developed techniques for detecting the existence of this new anthropological type, the most famous of these being the Berkeley study that resulted in *The Authoritarian Personality*: participants were asked questions that indirectly revealed personality propensities according to four metrics: the Anti-Semitism (AS) scale, the Ethnocentrism (E) scale, the Political-Economic Conservativism (PEC) scale, and the fascism (F) scale. Drawing from the analyses in the anti-Semitism chapter of *Dialectic of Enlightenment,* Adorno surmised that qualities such as conventionalism, submissiveness, aggression, aversion to subjectivity and imagination, superstition/stereotypy, toughness, concern with others’ sexuality, etc., indicated a high F-scale score. Several of these qualities, Adorno reasoned, indicated a personality “syndrome” emerging in childhood, hence deeper and prior to political thought and commitment, and auguring a new social type (Marasco 2018)[^marasco-2018]. In a second, unpublished part of his contribution to the *Authoritarian Personality*, Adorno maintained that the personality type could only be fully understood in the context of its societal conditions (Adorno et al., 1950 [2019, xli-lxvi]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于这一新人类学类型不能以反思的方式处理社会经济总体中的矛盾与对立，其无意识的焦虑与暴怒便经由“虚假投射”（“真正模仿的反面”，1947 [2002, 154]）指向那些人：其刻板心象（*imago*）使它想起自己在适应总体时承受的弃绝与欺骗。这是阿多诺著述中解释反犹主义的若干进路之一；犹太人的形象提示着那部分逃逸出自我物化的东西：“没有权力的幸福、没有劳动的报偿、没有边界的家园、没有神话的宗教”（同上，164–5；Jay 1980；Rabinbach 2000）[^jay-1980][^rabinbach-2000]。在美国以及战前与战后的德国展开的若干经验研究中（Jacobs 2015；Rensmann 2017）[^jacobs-2015][^rensmann-2017]，研究所发展出探测这一新人类学类型之存在的技术；其中最著名的是促成《权威主义人格》的伯克利研究：参与者被问及一些间接显露人格倾向的问题，依四项度量记分——反犹主义（AS）量表、民族中心主义（E）量表、政治经济保守主义（PEC）量表与法西斯主义（F）量表。借鉴《启蒙辩证法》反犹主义一章的分析，阿多诺推断：因袭主义、顺从、攻击性、对主观性与想象的嫌恶、迷信/刻板性、强硬、对他人性生活的关切等等特质，指示高 F 量表得分。他又推理说，其中若干特质指示一种人格“症候群”，它浮现于童年，因而比政治思想与政治承诺更深、更早，并预示一种新的社会类型（Marasco 2018）[^marasco-2018]。在他为《权威主义人格》所作贡献的第二部分（未出版）中，阿多诺坚持：这一人格类型只有在其社会条件的语境中才能得到充分理解（Adorno et al., 1950 [2019, xli-lxvi]）。
+    step2: |-
+      这一新人类学类型无法以反思的方式处理社会经济总体中的矛盾与对立；其无意识的焦虑与暴怒，便经由“虚假投射”（“真正模仿的反面”，1947 [2002, 154]）指向某些人——他们的刻板心象（*imago*）令它想起自己在适应总体时承受的弃绝与欺骗。这是阿多诺著述中解释反犹主义的若干进路之一：犹太人的形象提示着那部分逃逸出自我物化的东西——“没有权力的幸福、没有劳动的报偿、没有边界的家园、没有神话的宗教”（同上，164–5；Jay 1980；Rabinbach 2000）[^jay-1980][^rabinbach-2000]。在美国、也在战前与战后的德国，研究所开展了若干经验研究（Jacobs 2015；Rensmann 2017）[^jacobs-2015][^rensmann-2017]，发展出探测这一新人类学类型的技术；其中最著名者，是促成《权威主义人格》的伯克利研究：参与者被问及一些间接显露人格倾向的问题，依四项度量记分——反犹主义（AS）量表、民族中心主义（E）量表、政治经济保守主义（PEC）量表与法西斯主义（F）量表。借鉴《启蒙辩证法》反犹主义一章的分析，阿多诺推断：因袭主义、顺从、攻击性、对主观性与想象的嫌恶、迷信/刻板性、强硬、对他人性生活的关切等等特质，指示高 F 量表得分。他又推理说，其中若干特质指示一种人格“症候群”：它浮现于童年，因而比政治思想与政治承诺更深、更早，并预示一种新的社会类型（Marasco 2018）[^marasco-2018]。在他为《权威主义人格》所作贡献的第二部分（未出版）中，阿多诺坚持：这一人格类型只有在其社会条件的语境中，才能得到充分理解（Adorno et al., 1950 [2019, xli-lxvi]）。
   - id: 42
     kind: body
     source: |-
       In a series of writings Adorno outlined the techniques and mechanisms by which the authoritarian personality is psychologically manipulated by fascist politics (e.g., 1943 [2000], 1951b [1991]). In 2019 Suhrkamp published Adorno’s 1967 talk examining the similar tactics used by the new right-wing party emerging at that time in postwar Germany; the essay became a bestseller (1967c [2020]). *The Authoritarian Personality* has remained a touchstone for social psychology (e.g., Stone, Lederer, and Christie 1993), including contemporary thinkers drawing on Adorno’s work to understand the current rise of popular authoritarianism (Brown, Gordon and Pensky 2018; Abromeit 2022; Weigel 2022)[^abromeit-2022][^weigel-2022].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在一系列著述中，阿多诺概述了权威主义人格受法西斯主义政治心理操纵的技巧与机制（例如 1943 [2000]，1951b [1991]）。2019 年，苏尔坎普出版社出版了阿多诺 1967 年的一次演讲，检视当时正在战后德国兴起的新右翼政党所用的类似手法；这篇文章成了畅销书（1967c [2020]）。《权威主义人格》始终是社会心理学的试金石（例如 Stone, Lederer, and Christie 1993）；当代思想家也援引阿多诺的著作，来理解当下大众威权主义的兴起（Brown, Gordon and Pensky 2018；Abromeit 2022；Weigel 2022）[^abromeit-2022][^weigel-2022]。
+    step2: |-
+      阿多诺在一系列著述中概述过权威主义人格受法西斯主义政治心理操纵的技巧与机制（例如 1943 [2000]，1951b [1991]）。2019 年，苏尔坎普出版社出版他 1967 年的一次演讲：文中检视的，是当时正在战后德国兴起的新右翼政党所用的类似手法。这篇文章成了畅销书（1967c [2020]）。《权威主义人格》始终是社会心理学的试金石（例如 Stone, Lederer, and Christie 1993）；当代思想家也援引阿多诺，来理解当下大众威权主义的兴起（Brown, Gordon and Pensky 2018；Abromeit 2022；Weigel 2022）[^abromeit-2022][^weigel-2022]。
   - id: 43
     kind: body
     source: |-
       While Freud was less important to Frankfurt Critical Theorists working immediately after Adorno (and Marcuse) (Whitebook 2004a)[^whitebook-2004a], recently Critical Theorists have returned to psychoanalysis in order to theorize again the dynamic interplay between psyche and society. Horkheimer and Adorno seemed to have bequeathed social psychology with “the paradox of authority”: to resist authority seems to require the formation of individuals with an autonomous, rational ego, but this formation occurs by internalizing the domination and authority of the father; Jessica Benjamin suggests that “the potential for emancipation be grounded in an intersubjective theory of personality rather than an individual psychology of internalization” (1977, 42–43). Whitebook (1995) reconceptualizes ego-formation through the concept of sublimation. Fong (2016) considers a mostly unconscious source of “authority” to fulfill a kind of autonomy. Allen (2021; Allen and O’Connor 2019)[^allen-2019] develops potentials from Freudian transference theory, a Kleinian intersubjective, open-ended account of ego-formation, and object relations theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      弗洛伊德之于紧随阿多诺（与马尔库塞）之后工作的法兰克福批判理论家已不那么重要（Whitebook 2004a）[^whitebook-2004a]；但近来，批判理论家重返精神分析，为的是再度把心灵与社会之间的能动互动理论化。霍克海默与阿多诺似乎给社会心理学留下了一道“权威的悖论”：抵抗权威似乎要求形成具有自律理性自我的个体，可这一形成恰恰通过内化父亲的支配与权威而发生。杰西卡·本雅明（Jessica Benjamin）主张，“解放的潜能应当奠基于一种主体间的人格理论，而非一种内化的个体心理学”（1977, 42–43）。Whitebook (1995) 借升华概念重构自我形成。Fong (2016) 考虑一个基本无意识的“权威”之源，以成就某种自律。Allen (2021；Allen and O'Connor 2019)[^allen-2019] 则发展弗洛伊德移情理论、克莱因派主体间的开放式自我形成学说与客体关系理论中的诸潜能。
+    step2: |-
+      弗洛伊德之于紧随阿多诺（与马尔库塞）之后工作的法兰克福批判理论家，已不那么要紧（Whitebook 2004a）[^whitebook-2004a]；但近来，批判理论家重返精神分析，为的是再度把心灵与社会之间的能动互动理论化。霍克海默与阿多诺似乎给社会心理学留下一道“权威的悖论”：抵抗权威，似乎要求形成具有自律理性自我的个体；可这一形成，恰恰经由内化父亲的支配与权威而发生。杰西卡·本雅明（Jessica Benjamin）主张，“解放的潜能应当奠基于一种主体间的人格理论，而非一种内化的个体心理学”（1977, 42–43）。Whitebook (1995) 借升华概念重构自我形成。Fong (2016) 考虑一个基本无意识的“权威”之源，以成就某种自律。Allen (2021；Allen and O'Connor 2019)[^allen-2019] 则发展弗洛伊德移情理论、克莱因派主体间的开放式自我形成学说与客体关系理论中的诸潜能。
   - id: 44
     kind: body
     source: |-
       ## 5. Negative Dialectics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 否定的辩证法
+    step2: |-
+      ## 5 否定的辩证法
   - id: 45
     kind: body
     source: |-
       Several of Adorno’s posthumously published postwar university lecture courses and his Hegel book (1963a [1993]) record his thinking toward his magnum opus, *Negative Dialectics*, which includes his most sustained presentation of his metaphysical and epistemological claims, as will be considered in this section. These claims, in turn, consolidate and extend the historiographic and social-theoretical arguments already canvassed. As Simon Jarvis demonstrates, *Negative Dialectics* tries to formulate a “philosophical materialism” that is historical and critical but not dogmatic. Alternatively, one can describe the book as a “metacritique” of idealist philosophy, especially of the philosophy of Kant and Hegel (Jarvis 1998, 148–74; O’Connor 2004 and 2013, 54–109)[^jarvis-1998][^o’connor-2004][^o’connor-2013]. Adorno says the book aims to complete what he considered his lifelong task as a philosopher: “to use the strength of the subject to break through the deception [*Trug*] of constitutive subjectivity” (1966a [1973, xx]); cf. 1969b [2005, 247]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      阿多诺身后出版的若干战后大学讲座课程，以及他的黑格尔书（1963a [1993]），记录了他通向巨著《否定的辩证法》的思考；本书包含其形而上学与认识论主张最完整的阐述，本节将加以考察。这些主张又巩固并扩展了前文已梳理的编史学与社会理论论证。如 Simon Jarvis 所证，《否定的辩证法》试图 formulation 一种“哲学唯物主义”：它既是历史的、批判的，却不是教条的。或者，也可以把本书描述为对唯心论哲学的“元批判”，尤其是对康德与黑格尔哲学的元批判（Jarvis 1998, 148–74；O'Connor 2004 and 2013, 54–109）[^jarvis-1998][^o'connor-2004][^o'connor-2013]。阿多诺说，本书旨在完成他视为其哲学家终身任务的工作：“运用主体的力量，突破构成性主体性的欺瞒[*Trug*]”（1966a [1973, xx]）；参看 1969b [2005, 247]）。
+    step2: |-
+      阿多诺身后出版的若干战后大学讲座课程，连同他的黑格尔书（1963a [1993]），记录了他通向巨著《否定的辩证法》的思考。本书包含其形而上学与认识论主张最完整的阐述，本节将加以考察；这些主张又巩固并扩展了前文已梳理的编史学与社会理论论证。如 Simon Jarvis 所证，《否定的辩证法》试图 formulate 一种“哲学唯物主义”：既是历史的、批判的，又不是教条的。换一个说法，本书可描述为对唯心论哲学的“元批判”——尤其是对康德与黑格尔哲学的元批判（Jarvis 1998, 148–74；O'Connor 2004 and 2013, 54–109）[^jarvis-1998][^o'connor-2004][^o'connor-2013]。阿多诺说，本书旨在完成他视为其哲学家终身任务的工作：“运用主体的力量，突破构成性主体性的欺瞒[*Trug*]”（1966a [1973, xx]）；参看 1969b [2005, 247]）。
   - id: 46
     kind: body
     source: |-
       This occurs in four stages. First, a long Introduction (1966a [1973, 1–57]) works out a concept of “philosophical experience” that both challenges Kant’s distinction between “phenomena” and “noumena” and rejects Hegel’s construction of “absolute spirit.” Then Part One (ibid., 59–131) distinguishes Adorno’s project from the “fundamental ontology” in Heidegger’s *Being and Time* (Gordon 2016, 120–158; Zuidervaart 2024, 55–76)[^gordon-2016][^zuidervaart-2024]. Part Two (ibid., 133–207) works out Adorno’s alternative with respect to the categories he reconfigures from German idealism. Part Three (ibid., 209–408), composing nearly half the book, elaborates philosophical “models.” These present negative dialectics in action upon key concepts of moral philosophy (Kant’s concept of “freedom”), philosophy of history (Hegel’s “world spirit” and “natural history”), and metaphysics. Adorno says the final model, devoted to metaphysical questions, “tries by critical self-reflection to give the Copernican revolution an axial turn” (ibid., xx). Alluding to Kant’s self-proclaimed “second Copernican revolution,” this description echoes Adorno’s comment about breaking through the deception of constitutive subjectivity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一突破分四个阶段。首先，一篇长导论（1966a [1973, 1–57]）制定了一个“哲学经验”的概念，既挑战康德对“现象”与“本体”的区分，又拒斥黑格尔对“绝对精神”的构造。继而第一部（同上，59–131）把阿多诺的方案与海德格尔《存在与时间》（*Being and Time*）中的“基础存在论”区分开来（Gordon 2016, 120–158；Zuidervaart 2024, 55–76）[^gordon-2016][^zuidervaart-2024]。第二部（同上，133–207）就他从德国观念论重新铸造的诸范畴，阐发阿多诺的替代方案。第三部（同上，209–408）几乎占全书一半，展开哲学的诸“模型”。这些模型展示否定的辩证法在道德哲学的关键概念（康德的“自由”概念）、历史哲学（黑格尔的“世界精神”与“自然历史”）以及形而上学上的运作。阿多诺说， devoted to 形而上学问题的最后一个模型“试图以批判性的自我反思，给哥白尼式革命一个轴向的转动”（同上，xx）。这一说法暗指康德自命的“第二次哥白尼式革命”，又呼应阿多诺关于突破构成性主体性之欺瞒的评论。
+    step2: |-
+      这一突破分四个阶段。首先，一篇长导论（1966a [1973, 1–57]）制定了一个“哲学经验”的概念：它既挑战康德对“现象”与“本体”的区分，又拒斥黑格尔对“绝对精神”的构造。继而，第一部（同上，59–131）把阿多诺的方案与海德格尔《存在与时间》（*Being and Time*）中的“基础存在论”区分开来（Gordon 2016, 120–158；Zuidervaart 2024, 55–76）[^gordon-2016][^zuidervaart-2024]。第二部（同上，133–207）就他从德国观念论重新铸造的诸范畴，阐发自己的替代方案。第三部（同上，209–408）篇幅几乎占全书一半，展开哲学的诸“模型”：它们展示否定的辩证法如何作用于道德哲学的关键概念（康德的“自由”概念）、历史哲学（黑格尔的“世界精神”与“自然历史”）以及形而上学。阿多诺说，专论形而上学问题的最后一个模型“试图以批判性的自我反思，给哥白尼式革命一个轴向的转动”（同上，xx）。这一说法暗指康德自命的“第二次哥白尼式革命”，又呼应他自己关于突破构成性主体性之欺瞒的评论。
   - id: 47
     kind: body
     source: |-
       Like Hegel, Adorno criticizes Kant’s distinction between phenomena and noumena by arguing that the transcendental conditions of experience can be neither so pure nor so separate from each other as Kant seems to claim. As concepts, for example, the a priori categories of the faculty of understanding (*Verstand*) would be unintelligible if they were not already about something that is nonconceptual. Conversely, the supposedly pure forms of space and time cannot simply be nonconceptual intuitions. Not even a transcendental philosopher would have access to them apart from concepts about them. So too, what makes possible any genuine experience cannot simply be the “application” of concepts to a priori structured intuitions via the “schematism” of the imagination (*Einbildungskraft*). Genuine experience is made possible by that which exceeds the grasp of thought and sensibility. Adorno does not call this excess the “thing in itself,” however, for that would assume the Kantian framework he criticizes. Rather, he calls it “the nonidentical” (*das Nichtidentische*), and it has a plurality of operational meanings (Thyen 2007; Silberbusch 2018)[^thyen-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与黑格尔一样，阿多诺批评康德对现象与本体的区分，他论证：经验的先验条件，既不可能像康德似乎主张的那样纯粹，也不可能彼此那样分离。例如，知性（*Verstand*）的诸先天范畴作为概念，若不是已经关于某种非概念的东西，便会是不可理解的。反过来，所谓纯粹的空间与时间形式，也不可能单纯是非概念的直观。即使先验哲学家，离开了关于它们的概念，也无法通达它们。同理，使任何真正的经验成为可能的，也不可能是概念经由想象力的“图型法”（*Einbildungskraft*）对先天被结构的直观的“应用”。真正的经验之为可能，靠的是超出思想与感性之把握的东西。然而，阿多诺并不把这个超出者称作“物自体”，因为那将预设他所批判的康德框架。他把它称作“非同一之物”（*das Nichtidentische*）；它拥有多样的操作性含义（Thyen 2007；Silberbusch 2018）[^thyen-2007]。
+    step2: |-
+      与黑格尔一样，阿多诺批评康德对现象与本体的区分。他论证：经验的先验条件，既不可能像康德似乎主张的那样纯粹，也不可能彼此那样分离。举例说，知性（*Verstand*）的诸先天范畴是概念；它们若不是已经关于某种非概念的东西，便会不可理解。反过来，所谓纯粹的空间与时间形式，也不可能单纯是非概念的直观：哪怕是先验哲学家，离开了关于它们的概念，也无法通达它们。同理，使任何真正的经验成为可能的，也不可能是概念经由想象力的“图型法”（*Einbildungskraft*）对先天被结构的直观所作的“应用”。真正的经验之所以可能，靠的是超出思想与感性之把握的东西。不过，阿多诺并不把这个超出者称作“物自体”——那将预设他所批判的康德框架。他称之为“非同一之物”（*das Nichtidentische*）；它有多样的操作性含义（Thyen 2007；Silberbusch 2018）[^thyen-2007]。
   - id: 48
     kind: body
     source: |-
       The concept of the nonidentical, in turn, marks the difference between Adorno’s materialism and Hegel’s idealism. Although he shares Hegel’s emphasis on a speculative identity between thought and being, between subject and object, and between reason and reality, Adorno denies that this identity has been achieved in a positive fashion. For the most part this identity has occurred negatively instead. That is to say, human thought, in achieving identity and unity, has imposed these upon objects, suppressing or ignoring their differences and diversity. Such imposition is driven by a societal formation whose exchange principle demands the equivalence (exchange value, quantitative and abstract) of what is inherently nonequivalent (use value, qualitative and concrete). Whereas Hegel’s speculative identity amounts to an identity between identity and nonidentity, Adorno’s amounts to a nonidentity between identity and nonidentity (Sommer 2016; O’Connor 2011; Pinkard 2020)[^o’connor-2011][^pinkard-2020][^sommer-2016]. That is why Adorno calls for a “negative dialectic” and why he rejects the affirmative character of Hegel’s dialectic (1966a [1973, 143–61]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非同一之物的概念，反过来标志着阿多诺的唯物主义与黑格尔的唯心论之间的差异。阿多诺虽然分享黑格尔对思想与存在、主体与对象、理性与现实之间思辨同一性的强调，却否认这种同一性已经以肯定的方式实现。在大多数情况下，这种同一性反而是否定地发生的。也就是说，人类思想在达成同一与统一时，把同一与统一强加于对象，压制或无视它们的差异与多样性。这种强加由一种社会构型驱动：其交换原则要求内在不等价者（使用价值，质上的、具体的）之间的等价（交换价值，量上的、抽象的）。黑格尔的思辨同一性等于同一与非同一之间的同一；阿多诺的思辨同一性则等于同一与非同一之间的非同一（Sommer 2016；O'Connor 2011；Pinkard 2020）[^o'connor-2011][^pinkard-2020][^sommer-2016]。正因如此，阿多诺呼唤一种“否定的辩证法”，并拒斥黑格尔辩证法的肯定性格（1966a [1973, 143–61]）。
+    step2: |-
+      非同一之物的概念，反过来又标志着阿多诺的唯物主义与黑格尔唯心论之间的差异。阿多诺分享黑格尔的强调：思想与存在、主体与对象、理性与现实之间有思辨的同一性。但他否认这一同一性已经以肯定的方式实现。多数情况下，它反而是否定地发生的。也就是说：人类思想在达成同一与统一时，把同一与统一强加于对象，压制或无视对象的差异与多样性。这种强加由一种社会构型驱动——其交换原则要求内在不等价者（使用价值，质上的、具体的）之间的等价（交换价值，量上的、抽象的）。黑格尔的思辨同一性，等于同一与非同一之间的同一；阿多诺的思辨同一性，则等于同一与非同一之间的非同一（Sommer 2016；O'Connor 2011；Pinkard 2020）[^o'connor-2011][^pinkard-2020][^sommer-2016]。正因如此，阿多诺呼唤一种“否定的辩证法”，并拒斥黑格尔辩证法的肯定性格（1966a [1973, 143–61]）。
   - id: 49
     kind: body
     source: |-
