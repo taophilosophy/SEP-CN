@@ -2,7 +2,7 @@
   "slug": "gianfrancesco-pico",
   "kind": "retranslate",
   "zh_doc": "g/gianfrancesco-pico.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "g-beta-G-main-20261109",
       "at": "2026-11-09T07:28:29Z",
       "evidence": "s3 体例终检：script/g_check.py g gianfrancesco-pico 全绿（check_style issues=0；check_math formulas=0 missing=[] unbalanced=[]；check_academic --strict OK；H1=SUMMARY『乔瓦尼·弗朗切斯科·皮科·德拉·米兰多拉 Giovanni Francesco [Gianfrancesco] Pico della Mirandola (Francesco Molinarolo)』）；tools/check_prose.py 复跑告警 0；check_terms --docs 定点核销 0 处告警（术语 16+人名 25 已入库，出处 gianfrancesco-pico）。参考文献照录：定义区 98=98 条、缺 0 多 0、顺序逐条一致；正文脚注标记 52 与源逐项相同、脚注键集合 99=99 全等；相关词条行按 SUMMARY 形照录（6 项）。Boethius 用短式「波爱修斯（Boethius）」+英文括注，登记册主形为全名『亚尼修·玛理乌斯·塞味利诺·波爱修斯』（依 Lead 2026-11-09 裁定，不做跨词条改写）。《女巫》对话人物 Dicastes／Phronimus／Apistius 保留拉丁原名不登记（依 Lead 裁定）。译名混形提请：本条目 H1 全名形「乔瓦尼·弗朗切斯科」与正文通称形「詹弗朗切斯科」并存，属 SUMMARY 定名与学界通称之分工，正文首现已括注全名与生卒年。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T18:11:23Z",
+      "evidence": "r1 对照英文源自审（原文 9165 词全读，逐节回核）：节标题 12=12、脚注键 99=99 全等、段落 159=159、引块 0；年份/书名/引用组核对无缺。修补 9 处： kinship 事实错 2 处（sister-in-law Francesca Trivulzio 系费德里科之妻，嫂嫂→弟媳，行 13/17）；§2 开头‘一半在…一半在’增义还原（行 23）；Defensio/Opusculum 书名句法修正（行 29）；Examen 第二次全称并短名《虚妄之检验》（行 37，另 3 处《检验》归一）；规训→规范性 2 处（prescriptive，行 51/59）；护佑理论→神意理论（providence 与书名《论上帝的神意》一致，行 77）；OIR《意大利名人传记词典》→《意大利人传记词典》（行 209）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T18:11:23Z",
+      "evidence": "r2 句级回核：全文 216 行复读，重点核 §3/§4 长段（De rerum praenotione 七卷、Examen 六卷）与源逐句对照信实；残留外文扫描：正文保留人名/书名按登记册政策，无该译未译（拉丁术语 varietas/falsitas/epochē/habitus/pia philosophia 首现括注中文）；人名册覆盖核：正文汉名 40+ 类均有行，r1 补登 Pirckheimer 皮尔克海默、Peutinger 波伊廷格 2 行；同键异译检查无冲突（阿维森纳/伊本·西那 并用为源文称谓差异，非术语漂移）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T18:12:47Z",
+      "evidence": "r3 终检：script/g_check.py g gianfrancesco-pico 全绿（style 0、math 0、academic --strict OK、H1=SUMMARY）；check_prose 0 告警；check_terms 无硬错误；账本 43 段守恒（draft 时 HARD=0，SOFT 25 条斜体→书名号已判读）；r1 修补 9 处已落地并复检。复核独立性：初译 g-beta-G-main-20261109，r1–r3 由 G-main-20261110 执行。验收通过。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T18:12:47Z",
+      "evidence": "done：九步齐，216 行成稿入库，验收签字。"
     }
   ],
   "blockers": [],
