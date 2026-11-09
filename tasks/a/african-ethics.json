@@ -2,7 +2,7 @@
   "slug": "african-ethics",
   "kind": "retranslate",
   "zh_doc": "a/african-ethics.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "A4-main-20261109",
       "at": "2026-11-09T08:40:19Z",
       "evidence": "复审（逐句回核原文与逻辑）：通读全文 302 行并对照 yuanwen 逐节核验论证链——§5 宗教基础（非启示宗教→道德自律）、§6 人性与兄弟情谊（三条阿肯格言链）、§7 公共善（连体鳄鱼母题）、§8 社会性伦理（五条互助格言）、§9 义务而非权利（超义务批判）逻辑连贯，转承无断裂；修正候选 1 处已在 s2 处理（段113 重复增译）；段236 重复引用块经核为源文自有（源注 section 6 above），保留；源文拼写 Gbadagesin 照录留痕；Critical 0 / Major 0 / Minor 1（源文笔误照录）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T10:30:51Z",
+      "evidence": "终审：冷置后回读——african-ethics 完稿后转译 aesthetic-judgment 全篇（32.8k 字符、112 段账本）再回首复查，间隔充分，满足单会话冷置条款（rules/04）；复读全文 302 行；四检复跑全绿（check_style 0 / check_academic --strict OK / check_summary HARD 0 / check_math 0）；lq check 118 段守恒 HARD=0；check_all 七项全绿；术语与人名在册（含 humanism(African ethics)→人本主义、humanistic ethics 补登）；源文拼写 Gbadagesin 照录留痕；验收签字：A4-main-20261109"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T10:33:03Z",
+      "evidence": "收口：六道三审全过（draft→s1→s2→s3→r1→r2→r3），本地门禁 check_all 七项全绿；成品 a/african-ethics.md 302 行 25,168 字符；术语 10 条、人名 13 条在册，补登 humanism(African ethics)/humanistic ethics；Critical 0 / Major 0 / Minor 1（源文 Gbadagesin 笔误照录留痕）；账本 118 段守恒 HARD=0"
     }
   ],
   "blockers": [],

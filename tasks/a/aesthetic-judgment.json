@@ -2,7 +2,7 @@
   "slug": "aesthetic-judgment",
   "kind": "retranslate",
   "zh_doc": "a/aesthetic-judgment.md",
-  "state": "cleared",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,48 @@
       "actor": "task_ops",
       "at": "2026-10-31T23:09:56Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T10:14:41Z",
+      "evidence": "初译（重译，LLM 主会话直译，ADR-0021）：账本 tasks/a/aesthetic-judgment.ledger.yaml 112 段（body 107+oir 2+note 3；biblio 51 块由 compose 照录），step1/step2 双版全填；lq.py check 守恒通过（HARD=0；SOFT 为斜体→中文粗体体例转换与机械段，逐条可核）；compose 写回 a/aesthetic-judgment.md 32,795 字符 321 行；体例修复落生成器源：italic→中文粗体（rules/02）、** 外侧空格、中西文间距、参考文献与 Further Reading 列表符 - → *（MD004 asterisk）；源文疑误 1 处加译注（段66 Kant interesse 释义与全文相反，照录并注明）；术语先登记后使用：judgment of taste→趣味判断、pleasure in beauty→对美的愉悦、judgment of beauty→美的判断、free play→自由游戏、aesthetic idea→审美理念（2026-11-09 登记）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T10:19:50Z",
+      "evidence": "一校（准确性）：逐段对照 yuanwen/a/aesthetic-judgment.md 核销——段落 112:112（body 107+oir 2+note 3）、脚注键守恒、章节结构全等（§1 含 1.1–1.5、§2 含 2.1–2.5、§3 含 3.1–3.2、§4 含 4.1–4.5）；年份集合逐段全等；引文页码全等（段66 源文「[2000: 90–96: 42–50]」冒号照录）；拉丁术语/作品名/人名照录（Kant、Hume、Nietzsche、Burke、Sibley、Beardsley、Levinson、Scruton、Zangwill、Mothersill 等）；引用组逐一在册（Kant 1790、Hume 1757、Sibley 1959/1965、Mothersill 1984、Burton 1992、Fine 1994、Levinson 2001/2012、Korsgaard 1996/2009 等）；未译英文片段扫描 0；Critical 0 / Major 0 / Minor 1（段66 源文 interesse 释义疑误，已加译注留痕）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T10:27:30Z",
+      "evidence": "二校（语言）：check_prose 27→2——实修 25 处（weak-verb 6：作出趣味判断→下趣味判断、加以责备→责备他们等；de-chain 17：改写「的」三连并拆句；long-sentence 4：拆 73/74/82/84 汉字长句）；豁免 2 处（《审美的/非审美的》书名内部「的」链、引号内短语「是一棵树的描绘」，引文照录 ADR-0020）；复读全文 321 行，术语主形锁定（趣味判断/无利害性/裁断性审美判断/实质审美判断/适意判断）；interesse 按源文保留原词并登记术语表；lq check 112 段守恒 HARD=0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T10:30:50Z",
+      "evidence": "三校（体例）：check_style 0 issue；bunx markdownlint-cli2（项目 .markdownlint-cli2.jsonc）0 命中——MD004 已由 lq.py compose 生成器将 biblio/Further Reading 列表符 - 统一为 *，MD037 星内空格已清；check_academic --strict OK；check_summary HARD 0（H1 一致、别名片段 0）；check_math missing/unbalanced 0；术语登记册一致（趣味判断/无利害性/自由游戏/审美理念/裁断性审美判断/实质审美判断/interesse）；人名在册（Kant/Hume/Nietzsche/Burke/Wagner/Levinson/Sibley/Beardsley/Scruton/Zangwill/Mothersill/Davidson/Fine/Burton/Walton/Gombrich/Mitrović/Schellekens/Kivy/Cohen/Dickie/Korsgaard/Hanslick/Taruskin/McClary）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T10:33:04Z",
+      "evidence": "初审（对照原文自审）：机械对账已复核——年份逐段全等、引文页码全等（段66 源标点照录）、脚注键守恒、未译英文片段 0；抽读 §1（趣味判断两条件）、§2（五特征）、§3（无利害性两版）、§4（审美概念层级方案）关键论证段与源文逐句对照，术语与转承无误；译注 1 处（段66）核为必要且格式合规；Critical 0 / Major 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T10:35:24Z",
+      "evidence": "复审（逐句回核原文与逻辑）：全文 321 行复核，论证链连贯——§1 主观性→规范性→大问题、§2 四特征与正确性优先、§3 无利害性强弱两版及尼采之争、§4 层级化方案与崇高；边界情形（Levinson 的 starkly grim、表象属性、抽象对象审美属性、Mothersill 第二论题）与源文一致；修正候选 1 处仅涉源文疑误（段66 加译注，不改原文）；Critical 0 / Major 0 / Minor 1"
     }
   ],
   "blockers": [],
