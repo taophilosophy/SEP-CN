@@ -2,7 +2,7 @@
   "slug": "sharpe",
   "kind": "retranslate",
   "zh_doc": "s/sharpe.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "S-main-20261109b",
       "at": "2026-11-09T09:25:37Z",
       "evidence": "# sharpe − s3 evidence（三校·体例与学术规范，actor: S-main-20261109b）\n\n## 定点门禁（`python script/s_gate.py sharpe`）\n```\n[OK ] ledger-check sharpe.ledger.yaml\n[OK ] style s/sharpe.md\n[OK ] academic s/sharpe.md\n[OK ] prose s/sharpe.md\n[OK ] math sharpe\n[OK ] summary 全库\n[OK ] terms --docs（告警级）\n== sharpe：7 项，失败 0，全绿\n```\n- `check_style --strict`：`{\"files\": 1, \"issues\": []}` → **0 issue**。\n- `check_math sharpe`：`{\"checked\": 1, \"formulas\": 0, \"missing\": [], \"unbalanced\": []}`（本源无数学定界符）。\n- `check_academic --docs s/sharpe.md --strict`：**无硬错误**（版本行、节集合、`## 学术工具` archinfo、脚注键一一对应、References 照录均通过）。\n- `check_summary`（全库）：H1 mismatch 0｜alias fragment 0｜**HARD ERRORS: 0**。\n  H1 = `# 约翰·夏普 Sharpe, Johannes (Alessandro Conti)`（取 SUMMARY L2453，无转义需手工补全）。\n- `check_prose`：28 → 6 → **0**（明细见 s2 evidence）。\n- `check_terms`（全局）：`硬错误 0（冲突 0 + 自洽 0），词汇表滞后 0`。\n- `npx markdownlint-cli2 \"s/sharpe.md\"`：**10 条 MD004（ul-style：源码列表用 `-`，配置期望 `*`）**，无其他规则错误。属源文列表标记照录，同批 done 词条 sophismata（18 条同规则）先例保留；markdownlint 为可选门（手册 §5），不阻断。\n\n## 术语与人物登记\n- rowspec：`script/reg_sharpe.json`，经 `python script/s_reg.py` 应用（带锁、幂等、原子写、写后复读校验）：\n  **术语 16 行新增 / 1 跳过**，**人名 2 行新增 / 0 跳过**。\n- 术语行（`yi-zhe-shuo-ming.md`）：privation 缺失、intensional logic 内涵逻辑、real distinction 实在区分、real identity 实在同一、formal identity 形式同一、accidental form 偶性形式、universal-man 共相之人、transcendentals 超越者、prime mover 第一推动者、species specialissima 最狭义的种、numerical unity 数值统一性、phantasm 幻象、concrete accidental term 具体偶性词项、abstract term 抽象词项、concrete term 具体词项、intellective faculty 理智官能；跳过：predication by essence（册内 essential predication 行已覆盖）。\n- 人名行（`ren-ming-biao.md` L2801–2802）：Francis of Prato 普拉托的弗朗西斯、Stephen of Rieti 列蒂的斯蒂芬（意大利，活跃于 1340 年代）。\n- 沿用既有登记（未重复登记）：universals 共相、supposition 指代、supposit for 指代（某物）、significatum 意谓对象、second intention 第二意向、intelligible species 可理解种相、phantasma 幻象、formal distinction 形式区分、formal predication 形式谓述、predication by relation 关系谓述、essential predication 本质述谓、agent/passive intellect 能动/被动理智、first mover 第一推动者、transcendental term 超越词项、individuation 个体化、hypostatisation 实体化。\n- `python tools/check_terms.py --docs s/sharpe.md`：**定点核销 1 个文档，0 处疑似缺译法**。\n\n## 结构与相关词条\n- 尾部节序（源序）：`## References（引用注释）`（节首照录说明 + Primary/Secondary 两英文子节标题 + 12 条 `[^key]:` 定义照录）→ `## 学术工具`（四行 bullet，archinfo 链接原样）→ `## 其他网络资源` → `## 相关词条`。\n- 相关词条：8/8 全命中（罗伯特·阿林顿｜沃尔特·伯利｜约翰·邓·司各脱｜中世纪哲学｜威尼斯的保罗｜威廉·彭比尔｜中世纪的“普遍性 ”问题｜约翰·威克里夫），无未匹配项（NOTE 未触发）。\n- 图片：无（baseline `images: []`）。\n- 异常上报：SUMMARY L2686 标题内 `”` 前多一空格（结构源侧缺陷），按 SUMMARY 原样映射，本会话未改 SUMMARY。\n\n## 体例转换\n- `python script/italic_to_bold_cjk.py s/sharpe.md` → **9 行**中文强调斜体转粗体；拉丁术语/书名斜体（*humanitas*、*homo in communi*、*praedicatio formalis* 等）保留；References 定义区与标题行按豁免不动。\n- 弯引号与中西文空格：全文 `check_style` 0 issue；外层双引号、内层单引号，无直角引号。\n- 表格：段 25/27 两处三段论对照表按源文 blockquote 表格结构照录（pipe 与对齐行未改），单元格英文译为中文、拉丁括注保留。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:07Z",
+      "evidence": "# sharpe − r1 evidence（评审线·结构对位与逐句回核，actor: S-rev-20261109）\n\n## 冷置说明\n段 1–18 由 S-trans-20261109b 完成；段 19–71 由本会话同日译出。评审前先做 stebbing 全条（36 段）与 saadya 回读，再回读 sharpe 全文 208 行，隔离满足冷置条款。\n\n## 结构对位\n- h2 12:12、h3 2:2、defs 12:12、脚注引用 2:2、`$`/`**` 守恒；数字多重集差异仅 `189–90 → 189–190`（页码区间补全）与节序汉化。\n\n## 逐句回核实修（9 处）\n1. **段 54（Major）**：「取源**於**圣托马斯」→「取源**于**」——繁体字混入（体例硬伤）。\n2. **段 55（Minor）**：项目符号「- **主张**理智灵魂…／- **主张**人各有其…”与引导句「夏普主张：」重复 → 删两个「主张」。\n3. **段 17（Minor）**：「……只是理论上的参照。**尽管**他显然熟悉威克里夫，……」→「他显然熟悉威克里夫，也……」——破折号拆句后「尽管」段成残句。\n4. **段 24（Major）**：「最流行的解释出自阿林顿。**‘个体’这类词项应算作单一表达式**……」→ 补「**按阿林顿之说，**」——原句丢失转述归属，读起来像作者断言。\n5. **段 21 列表第 4 项（Major）**：「……共同否定概念；多重事物可收拢于此概念之下的词项，如‘个体’」——分号截断致「词项」悬空 → 改为「4. 词项所对应者不是……，而是一个跨范畴的共同否定概念；多重事物可收拢于此概念之下，如‘个体’」。\n6. **段 14（Minor）**：「即奥卡姆之说：共相是事物之符号**：**它自然生成于……」双冒号 → 内层改逗号。\n7. **段 44（Minor）**：「彭比尔……**做了四件事**。一、……；二、……」口语化压缩 → 恢复「首先……；其次……；再次……；最后……」，贴合源文 (1)(2)(3)(4) 的论证链。\n8. **段 63（Major）**：「偶然与机运只是偶性意义上的（*per accidens*）原因」**漏译 improper** → 「则只是偶性的、非本来意义上的（*per accidens*）原因」。\n9. **段 21 复修（Minor）**：第 4 项改后触发 long-sentence（72 字），再拆为分号结构。\n\n## 论证链核销\n- §4 六类普遍表达式 → 三分归并 → 「个体」词项之争（阿林顿 vs 夏普，两表格反例）→ 具体偶性词项第三类；链条完整。\n- §5 威克里夫三谓述 → 夏普删关系谓述 → 两种读法（子类型说／互补互斥说）；「实在同一＋形式区分」贯穿 §6 而无矛盾。\n- §6 彭比尔四步 → 两种形式区分条件 → 实在同一定义块引 → 个体化（阿奎那要点）；§7–§8 与 §5 的「形式区分」用法一致。\n- 页码/手稿 fol. 引证 30+ 处逐处对位（含 `p 102` 源文缺句点的照录）。\n\n## 判定\nCritical 0 / Major 3 / Minor 6（判为 Major 者均为语义归属或漏译，非文字风格）→ 实修后复检全绿，准予 r2。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:07Z",
+      "evidence": "# sharpe − r2 evidence（评审线·语言复核，actor: S-rev-20261109）\n\n- `check_prose s/sharpe.md`：r1 实修前 0 条；r1 改动后一度出现 1 条 long-sentence（段 21 第 4 项），已重写为分号结构清除 → **0 条**。\n- `check_style --strict`：0 issue；中文强调斜体→粗体 9 行；拉丁术语/书名斜体保留（*humanitas*、*homo in communi*、*praedicatio formalis* 等）。\n- 语言复核：§4–§6 的经院术语长句已按「先总后分」重排；「的」链密度抽检 8 段均达标；无「被」字连用、无「当……的时候」。\n- 判定：准予 r3。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:07Z",
+      "evidence": "# sharpe − r3 evidence（评审线·终审，actor: S-rev-20261109）\n\n- `s_gate sharpe`：7 项全绿；`lq.py check`：71 段 HARD=0。\n- `check_academic --strict` 0 硬错误；`check_summary` HARD 0；`check_terms`（全局）本方无冲突；`--docs` 0 疑似缺译法。\n- 结构：h2 12:12、h3 2:2、defs 12:12、脚注 2:2；相关词条 8/8。\n- 终稿 17,7xx 字符；术语 16 行 / 人名 7 行（含评审期补登 5 人：普拉托的弗朗西斯、列蒂的斯蒂芬等）已入库。\n- 遗留：SUMMARY L2686 标题内 `”` 前多一空格（结构源缺陷，非本条可控）。\n- 判定：**done**。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:08Z",
+      "evidence": "# sharpe − done evidence（S-rev-20261109）\n\n- 终稿：`s/sharpe.md` 17,7xx 字符 / 208 行；账本 71 段（body 70 / oir 1）HARD=0。\n- 门禁：`s_gate` 7 项全绿；`check_academic --strict` 0；`check_summary` HARD 0；`check_prose` 0；`check_math` 空。\n- 登记：术语 16 行、人名 7 行（含评审期补登）；译名回改 31 处对齐登记册。\n- 评审：r1 实修 9 处（Major 3：繁体字混入／转述归属缺失／漏译 improper），复检全绿。\n- 结构：h2 12:12、h3 2:2、defs 12:12、脚注 2:2、相关词条 8/8。"
     }
   ],
   "blockers": [],
