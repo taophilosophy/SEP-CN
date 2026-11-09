@@ -2,7 +2,7 @@
   "slug": "gorampa",
   "kind": "retranslate",
   "zh_doc": "g/gorampa.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "lead-G-main-20261109",
       "at": "2026-11-09T03:07:10Z",
       "evidence": "s3 体例：g_check 全绿（check_style 0 issue／check_math 0 缺失 0 不平衡／check_academic --strict OK／H1 与 SUMMARY 全等）；check_terms --docs 0 处疑似缺译法；术语先行：本条目新登 27 术语 + 9 人名已入库（tetralemma 四句、离戏论、所教／所证胜义、唯世俗、周遍不足／过宽、中观五大因五种、八大难题、无派别运动、道果、阿毗达磨、《中论》《入中论》《智心髓集》《辨见》《除邪见》《中观总义》、俄尔支派；果让巴·索南僧格、朵波巴、释迦秋登、绒敦·释迦坚赞、蒋嘉仁波切、提婆、佛护、清辨、十三世达赖喇嘛）；参考文献 20/20 定义与源逐字符相同、中国文献条 0（无需 ADR-0011 还原）；转写撇号正文 15 处已规范化为 U+02BC（参考文献区未动）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T14:26:55Z",
+      "evidence": "r1 回源逐节核销（导语+3 节含 2.1–2.4 全对照，无 Critical/Major）：实修 2 处——Nalendra 加英文名防与印度那烂陀混淆（登记册新增 Nalendra monastery 行）、ascended to political power 政教大权→政权（源文只说 political）。探针 NUM 20 为 20th century→二十世纪体例；BLOCK +1 为 zh 分段，非漏译；MMK I:1 引文用鸠摩罗什汉译通行偈，内容等值。四检：style 0/academic 0 硬/math 0/prose 0；markdownlint 0；summary H1 0"
     }
   ],
   "blockers": [],

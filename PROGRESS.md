@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 14:07（UTC）
+生成时间：2026-11-09 14:28（UTC）
 
 ## 总览
 
@@ -12,9 +12,9 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1170|
+|已建任务|1171|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|252|
+|已完成（done）|253|
 |在途（drafted 起、done 前）|236|
 |阻塞|0|
 
@@ -23,12 +23,12 @@
 |状态|数量|
 |---|---|
 |pending|682|
-|cleared|154|
+|cleared|155|
 |drafted|5|
-|s3_checked|72|
+|s3_checked|71|
 |r1_reviewed|4|
 |r2_reviewed|1|
-|done|252|
+|done|253|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -45,7 +45,7 @@
 |I|75|75|75|22|
 |J|38|38|38|9|
 |K|36|36|36|21|
-|L|144|144|25|24|
+|L|144|144|26|24|
 |M|139|139|14|6|
 |N|50|50|7|4|
 |O|21|21|11|8|
@@ -57,7 +57,7 @@
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|7|2|
-|X|3|3|3|1|
+|X|3|3|3|2|
 |Y|2|2|1|0|
 |Z|6|6|6|0|
 
@@ -193,7 +193,7 @@
 |godwin|retranslate|drafted|g-gamma-G-main-20261109 2026-11-09|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
-|gorampa|retranslate|s3_checked|lead-G-main-20261109 2026-11-09|
+|gorampa|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
 |haecceitism|retranslate|cleared|task_ops 2026-11-01|
 |halevi|retranslate|cleared|task_ops 2026-11-01|
 |hamann|retranslate|cleared|task_ops 2026-11-01|
@@ -273,6 +273,7 @@
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
+|logic-infinitary|retranslate|cleared|task_ops 2026-11-09|
 |lvov-warsaw|retranslate|s3_checked|L-main-20261109c 2026-11-09|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
@@ -293,7 +294,6 @@
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
-|xenophanes|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
 |zabarella|retranslate|s3_checked|Z2-main-20261109 2026-11-08|
 |zeno-elea|retranslate|cleared|task_ops 2026-11-08|
