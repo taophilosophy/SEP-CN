@@ -11,256 +11,344 @@ segments:
     kind: body
     source: |-
       Two older Indian philosophical traditions, the early Nyāya (grounded in Gautama Akṣapāda’s *Nyāya-sūtra*, c. 100 C.E., and dealing mainly with logic, epistemology, and the theory of debate) and the Vaiśeṣika (grounded in Kaṇāda’s *Vaiśeṣika-sūtra*, c. 100 B.C.E., dealing mainly with ontology), developed in parallel until, at some point in the 11th or 12th century, they merged to form a new school, called “Navya-Nyāya”, the new Nyāya or “new reason” school (Ganeri 2011)[^ganeri-2011]. Despite its name, Navya-Nyāya incorporates and develops classical Vaiśeṣika metaphysics as well as classical Nyāya epistemology. The Navya-Nyāya authors also develop a precise technical language through the employment of which many traditional philosophical problems could be clarified and resolved. Navya-Nyāya techniques proved to be so versatile that they were employed, not just by philosophers, but also in poetics, linguistics, legal theory, and other domains of medieval Indian thought. The foundational text of this school was Gaṅgeśa’s brilliant and innovative *Jewel of Reflection on the Truth* (*Tattvacintāmaṇi*). The school continued to develop for about four centuries, reaching its heights with the works of Raghunātha, Jagadīśa and Gadādhara (Ganeri 2014). The sophisticated use this school made of its technical vocabulary made it increasingly inaccessible, and so, in the 17th and 18th centuries, several manuals or compendia were written to explain in simplified language the basic tenets of the school. I will describe the philosophical principles of Navya-Nyāya based on a synopsis of the most successful of these, Annambhaṭṭa’s *The Manual of Reason* (*Tarkasaṃgraha*; henceforth TS), together with its auto-commentary, the *Dīpikā* (henceforth TSD), This text was nicknamed *Bāla-gādādharī*, a sort of ‘Beginners Guide to Gadādhara’. As well as presenting the Vaiśeṣika theory of categories (a mixture of physical theory, metaphysics and philosophy of psychology), and the epistemological, methodological, and logical techniques of the new Nyāya system, *The Manual of Reason* interjects fascinating discussions on a wide variety of topics of philosophical interest, making the text an enjoyable and informative introduction to later Indian analytical philosophy (trans. G. Bhattacharya 1983; for discussion of the text, see also Athalye 1930, Atreya 1948, C. Bhattacharya 1966, Foucher 1949, Shastri 1961)[^athalye-1930][^atreya-1948][^bhattacharya-1966][^foucher-1949][^shastri-1961].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      两个较古老的印度哲学传统——早期正理派（Nyāya，奠基于乔答摩·足目（Gautama Akṣapāda）约公元 100 年的《逻辑经》（*Nyāya-sūtra*），主要处理逻辑、知识论与论辩理论）与胜论派（Vaiśeṣika，奠基于迦那陀（Kaṇāda）约公元前 100 年的《胜论经》（*Vaiśeṣika-sūtra*），主要处理存在论）——并行发展，直到 11 或 12 世纪的某一时刻，二者合并而形成一个新学派，即所谓“新正理”（Navya-Nyāya）——新的正理派或“新理由”学派（Ganeri 2011）[^ganeri-2011]。尽管有此名称，新正理既吸收并发展了古典胜论的形而上学，也吸收并发展了古典正理的知识论。新正理的作者们还发展出一种精确的技术性语言，借助这种语言，许多传统哲学问题可以得到澄清和解决。新正理的技巧被证明如此多用，以至于不仅哲学家，诗学、语言学、法理论以及中世纪印度思想的其他领域也使用它们。这一学派的奠基文本是甘格沙（Gaṅgeśa）才华横溢且富于创新的《真理思择摩尼》（*Tattvacintāmaṇi*）。该学派持续发展了约四个世纪，在罗怙那陀（Raghunātha）、贾迦迪沙（Jagadīśa）与迦达陀罗（Gadādhara）的著作中达到顶峰（Ganeri 2014）。这一学派对其技术词汇的精妙运用使其日益难以进入，因此在 17 与 18 世纪，出现了数部手册或纲要，用简化的语言解释该学派的基本义理。我将基于其中最成功的一部——阿南跋塔（Annambhaṭṭa）的《理性手册》（*Tarkasaṃgraha*；下称 TS）连同其自注《明灯疏》（*Dīpikā*；下称 TSD）——的提要来描述新正理的哲学原则。此文本得到一个绰号《童蒙迦达陀罗》（*Bāla-gādādharī*），某种“迦达陀罗初学者指南”。除了陈述胜论的句义理论（物理理论、形而上学与心理哲学的混合物）以及新正理体系的知识论、方法论与逻辑技巧之外，《理性手册》还穿插了对诸多哲学上有趣话题的引人入胜的讨论，使这部文本成为晚期印度分析哲学的一部令人愉悦且信息丰富的导论（英译本见 G. Bhattacharya 1983；对该文本的讨论另见 Athalye 1930、Atreya 1948、C. Bhattacharya 1966、Foucher 1949、Shastri 1961）[^athalye-1930][^atreya-1948][^bhattacharya-1966][^foucher-1949][^shastri-1961]。
+    step2: |-
+      早期正理派（Nyāya）与胜论派（Vaiśeṣika）是两个并行的古老印度哲学传统：前者奠基于乔答摩·足目（Gautama Akṣapāda）约公元 100 年的《逻辑经》（*Nyāya-sūtra*），主要关注逻辑、知识论与论辩理论；后者奠基于迦那陀（Kaṇāda）约公元前 100 年的《胜论经》（*Vaiśeṣika-sūtra*），主要关注存在论。两条传统并流而下，至 11、12 世纪的某个时刻终于合流为一门新学派——“新正理”（Navya-Nyāya），即新的正理派、“新理由”学派（Ganeri 2011）[^ganeri-2011]。名为“新”正理，它实兼收并蓄：既承续古典胜论的形而上学，也承续古典正理的知识论，并将二者推向前进。新正理诸家还锻造出一套精确的技术语言；借这套语言之力，许多传统哲学问题得以澄清和解决。其方法之灵便，连诗学、语言学、法理论等中世纪印度思想的其他领域也乐于取用。学派的奠基之作，是甘格沙（Gaṅgeśa）那部才华横溢、锐意创新的《真理思择摩尼》（*Tattvacintāmaṇi*）。此后学派又发展了约四个世纪，至罗怙那陀（Raghunātha）、贾迦迪沙（Jagadīśa）与迦达陀罗（Gadādhara）的著作而臻于极盛（Ganeri 2014）。然而技术词汇用得越精微，学派就越是难以接近；于是 17、18 世纪出现数部手册与纲要，用浅易语言讲解其基本义理。本文即以其中最成功的一部——阿南跋塔（Annambhaṭṭa）的《理性手册》（*Tarkasaṃgraha*；下称 TS）——连同其自注《明灯疏》（*Dīpikā*；下称 TSD）为据，撮述新正理的哲学原则。此书别号《童蒙迦达陀罗》（*Bāla-gādādharī*），堪称一部“迦达陀罗入门”。它不仅陈述胜论的句义理论（融物理理论、形而上学与心理哲学于一炉），传授新正理体系的知识论、方法论与逻辑技巧，还穿插大量饶有兴味的哲学讨论，读来既令人愉悦又获益良多，是晚期印度分析哲学的一部理想导论（英译本见 G. Bhattacharya 1983；关于该文本的讨论另见 Athalye 1930、Atreya 1948、C. Bhattacharya 1966、Foucher 1949、Shastri 1961）[^athalye-1930][^atreya-1948][^bhattacharya-1966][^foucher-1949][^shastri-1961]。
   - id: 2
     kind: body
     source: |-
       ## 1. The Vaiśeṣika System of Categories
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 胜论诸句义体系
+    step2: |-
+      ## 1. 胜论的句义体系
   - id: 3
     kind: body
     source: |-
       ### 1.1 Methodology and Theory of Definition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 方法论与定义的理论
+    step2: |-
+      ### 1.1 方法论与定义理论
   - id: 4
     kind: body
     source: |-
       Most Nyāya-Vaiśeṣika texts are structured in one of two ways. They either follow a traditional Vaiśeṣika pattern, in which the categories and their various sub-groups are discussed in order, or else they follow a pattern employed by the Buddhist logician Diṅnāga, and copied by Gaṅgeśa, in which each of the sources of knowledge is treated in turn. *The Manual of Reason*, however, adopts a style of analysis due to Vātsyāyana (the first commentator on the *Nyāya-sūtra*). Vātsyāyana stated that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      多数正理—胜论文本按两种结构之一编排。它们或者遵循传统的胜论模式，即按次第讨论诸句义及其各种子类；或者遵循佛教逻辑家陈那（Diṅnāga）所创、为甘格沙所沿用的模式，即逐一处理各知识来源。然而《理性手册》采用了一种出自筏磋衍那（Vātsyāyana）（《逻辑经》第一位注释者）的分析风格。筏磋衍那说：
+    step2: |-
+      多数正理—胜论文本取两种编排之一：或依传统胜论模式，按次第讨论诸句义及其子类；或依佛教逻辑家陈那（Diṅnāga）所立、甘格沙所承袭的模式，逐一论列各知识来源。《理性手册》独取筏磋衍那（Vātsyāyana，《逻辑经》首位注释者）的分析路数。筏磋衍那有言：
   - id: 5
     kind: body
     source: |-
       > This [Nyāya] system will follow a three-fold procedure, viz. enumeration (*uddeśa*), definition (*lakṣaṇa*) and examination (*parīkṣā*). Of these, ‘enumeration’ means the act of referring to each object [to be analysed] by name; ‘definition’ means [citing] a characteristic of the named object which distinguishes it from all other objects; ‘examination’ means ascertaining, with the help of the *pramāṇas*, the appropriateness of the distinguishing characteristic for the object defined (*Bhāṣya* before NS 1.1.3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这一［正理］体系将遵循三重程序，即列举（*uddeśa*）、定义（*lakṣaṇa*）与考察（*parīkṣā*）。其中，“列举”指以名称指称［待分析的］每一个对象的行为；“定义”指［举出］所名对象区别于所有其他对象的特征；“考察”指借助诸量（*pramāṇas*）来查明这一区别性特征对于被定义对象是否恰当（《疏》（*Bhāṣya*），NS 1.1.3 之前）。
+    step2: |-
+      > 此［正理］体系遵循三步程序：列举（*uddeśa*）、定义（*lakṣaṇa*）、考察（*parīkṣā*）。所谓“列举”，是以名指称［所欲分析的］每一对象；所谓“定义”，是举出所名对象区别于其余一切对象的特征；所谓“考察”，则是借助诸量（*pramāṇas*）查明该区别性特征于被定义对象是否恰当（《疏》（*Bhāṣya*），NS 1.1.3 之前）。
   - id: 6
     kind: body
     source: |-
       The heart of this method lies in the use it makes of definitions, conceived of as differentiating marks of the thing defined. *The Manual of Reason* (TSD 3d) refines the idea: it defines a ‘definition’ of a class of things as any characteristic which is co-extensive with that class. A defining characteristic of the class ‘cow’ is the property ‘having dewlap’. Note that this does not tell us what the *essence* of the class is—it merely supplies us with a syndrome or *trait* by means of which we can identify the thing in question. The Naiyāyikas, we might say, have a ‘diagnostic’, rather than an ‘essentialist’, conception of definition. The purpose of the ‘examination’ now becomes clear: it is to see whether the alleged defining trait really is co-extensive with the class to be defined, or whether it is faulty, either by ‘over-covering’ (cf. *ativyāpti;* applying to things outside the definiendum) or by ‘under-covering’ (cf. *avyāpti*; not applying to everything within the definiendum), or both. A properly defining characteristic has to be, to use modern terms, both a necessary and a sufficient property of the thing to be defined. We see the pattern of enumeration, definition, and examination repeated again and again in Navya-Nyāya texts like *The Manual of Reason*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一方法的核心在于它对定义的运用：定义被设想为被定义者的区别性标记。《理性手册》（TSD 3d）进一步精炼了这一观念：它把一类事物的“定义”定义为与该类共外延的任意特征。“牛”这一类的定义性特征是“有垂肉”这一性质。注意，这并未告诉我们该类的*本质*是什么——它只是提供给我们一种综合症或*性状*，借助它可以识别出所论事物。或可以说，正理论者对定义持的是一种“诊断式”而非“本质主义”的理解。“考察”的目的现在清楚了：看看所谓的定义性性状是否真与待定义的类共外延，还是有缺陷——或“过遍”（*ativyāpti*；适用于被定义项之外的事物），或“不遍”（*avyāpti*；不适用于被定义项之内的一切事物），或兼而有之。用现代术语说，一个恰当的定义性特征必须既是待定义者的必要性质，又是其充分性质。我们看到列举、定义、考察这一模式在《理性手册》这类新正理文本中一再重复。
+    step2: |-
+      这一方法的核心在于定义的运用：定义即被定义者的区别性标记。《理性手册》（TSD 3d）对这一观念作了精炼：它将一类的“定义”界定为与该类共外延的任何特征。以“牛”类为例，其定义性特征是“有垂肉”这一性质。请注意，这并未告诉我们该类的*本质*为何——它只是给出一种可供识别的综合症或*性状*。不妨说，正理论者对定义取“诊断式”而非“本质主义”的理解。“考察”的用意由此显豁：检验所谓定义性性状是否真与待定义之类共外延，抑或有所欠缺——或“过遍”（*ativyāpti*，蔓及被定义项之外的事物），或“不遍”（*avyāpti*，未覆盖被定义项之内的一切事物），或二者兼有。借现代术语说，一个合格的定义性特征必须既是被定义者的必要性质，又是其充分性质。列举—定义—考察这一模式，在《理性手册》一类新正理文本中反复出现，俯拾皆是。
   - id: 7
     kind: body
     source: |-
       ### 1.2 What is the Vaiśeṣika System of Categories?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 胜论的句义体系是什么？
+    step2: |-
+      ### 1.2 何为胜论的句义体系？
   - id: 8
     kind: body
     source: |-
       The Vaiśeṣika system of ‘categories’ (*padārtha*) is an attempt to classify in a systematic way all the different types of existent. Navya-Nyāya lists seven ‘categories’ of object: substance (*dravya*), quality (*guṇa*), motion or action (*karma*), universal (*sāmānya*), particularity or differentiator (*viśeṣa*), inherence (*samavāya*), and absence (*abhāva*). Of these, the first six comprise the classical list of categories, found even in the *Vaiśeṣika-sūtra*, while the seventh (absence) is a distinctive addition by the later school. Most of these types are themselves subject to sub-division: thus, there are nine types of substance, twenty four types of quality, etc.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      胜论的“句义”（*padārtha*）体系试图以系统的方式对一切存在者的不同类型进行分类。新正理列出七种对象“句义”：实体（*dravya*）、性质（*guṇa*）、运动或动作（*karma*）、普遍（*sāmānya*）、特殊或别异者（*viśeṣa*）、和合（*samavāya*）与非存在（*abhāva*）。其中前六项构成古典句义清单，甚至见于《胜论经》，而第七项（非存在）是后期学派的独特增益。这些类型大多自身还可再分：例如实体有九种，性质有二十四种，等等。
+    step2: |-
+      胜论的“句义”（*padārtha*）体系，是要以系统方式为一切存在者的各种类型分类。新正理列出七种对象“句义”：实体（*dravya*）、性质（*guṇa*）、运动（*karma*）、普遍（*sāmānya*）、别异（*viśeṣa*）、和合（*samavāya*）与非存在（*abhāva*）。前六项构成古典句义清单，早在《胜论经》即已具雏形；第七项（非存在）则是后期学派的独特增益。诸类型大多还可细分：实体九种，性质二十四种，诸如此类。
   - id: 9
     kind: body
     source: |-
       One main question concerning this list of categories is whether we can discern any underlying structure or organising principle. This is related with another important question: just what is a category? *The Manual of Reason* answers this second question by giving the etymological analysis of the term ‘*padārtha’* (category): ‘*padārtha’* is the *artha* or meaning of a *pada* or word. The claim is that the Vaiśeṣika categories are in some way the metaphysical correlates of linguistic structures. One way to make this claim more precise would be to note the existence of striking similarities between the Vaiśeṣika system and Sanskrit grammar (cf. esp. Faddegon 1918)[^faddegon-1918]. Another way is to observe a distinctive pattern of argument employed, in which the hypothesis that a certain type of substance, quality, etc. exists is supported on the ground that it explains some feature of our linguistic practice (for example, the argument that space exists as it explains our use of directional terms.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这份句义清单，一个主要问题是：我们能否从中辨析出某种深层结构或组织原则。这与另一个重要问题相关：句义究竟是什么？《理性手册》通过词源分析来回答第二个问题：“*padārtha*”（句义）即“*pada*”（词）的“*artha*”（义）。这一主张是说，胜论句义在某种意义上是语言结构的形而上学对应物。使这一主张更精确的一条途径，是指出胜论体系与梵语语法之间存在惊人的相似（尤其参见 Faddegon 1918）[^faddegon-1918]。另一条途径是观察一种独特的论证模式：某类实体、性质等存在的假说，其理由在于它解释了我们语言实践的某种特征（例如，空间存在的论证：因为它解释了我们对方位词的使用）。
+    step2: |-
+      关于这份句义清单，一大问题是：清单背后是否有一条深层结构或组织原则可循。这与另一重要问题相关：句义究竟为何物？《理性手册》以词源分析回答后一问题：“*padārtha*”（句义）一词，即“*pada*”（词）之“*artha*”（义）。其主张是：胜论句义在某种意义上乃是语言结构的形而上学对应物。要使这一主张更精确，一条途径是指明胜论体系与梵语语法之间存在惊人相似（尤其参见 Faddegon 1918）[^faddegon-1918]；另一途径是观察一种独特的论证样式——某类实体、性质等存在的假说，其支持理由是它解释了我们语言实践的某种特征（例如：空间存在，因为它解释了我们对方位词的使用）。
   - id: 10
     kind: body
     source: |-
       An alternative approach would be to seek some purely *apriori* rationale behind the list. Athalye (1930: 75) offers one such:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种进路是为这份清单寻求某种纯粹*先验*（*apriori*）的理据。Athalye（1930: 75）给出了一种这样的重构：
+    step2: |-
+      另一条进路是为清单寻找某种纯粹*先验*（*apriori*）的理据。Athalye（1930: 75）提出过这样一份重构：
   - id: 11
     kind: body
     source: |-
       > A notion is either positive or negative, and so the external object of a notion might be ‘existent’ (*bhāva*) or ‘non-existent’ (*abhāva*). ‘Existent’ things again are of two kinds, properties and a common substratum in which they reside. The latter is ‘substance’ (*dravya*). Of the properties, again, some reside in many objects conjointly, others in individual things singly. The first is ‘universal’ (*sāmānya*), while the latter class is again divisible into properties that are stationary and those that are evanescent, i.e. ‘quality’ (*guṇa*) and ‘motion’ (*karma*). The remaining two categories, ‘inherence’ (*samavāya*) and ‘particularity’ (*viśeṣa*) are assumed to explain the special theories of the Vaiśeṣikas.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 观念要么是肯定的，要么是否定的，因而观念的外部对象可能是“存在”（*bhāva*）或“非存在”（*abhāva*）。“存在”的事物又分两种：性质，以及性质所寄居的共同基底。后者即“实体”（*dravya*）。性质之中，有些共同寄居于多个对象，有些单独寄居于个别事物。前者是“普遍”（*sāmānya*）；后者又可分为静止的性质与消逝的性质，即“性质”（*guṇa*）与“运动”（*karma*）。其余两个句义“和合”（*samavāya*）与“特殊”（*viśeṣa*）则是为解释胜论者的特殊理论而设定的。
+    step2: |-
+      > 一个观念或肯定或否定，故观念的外部对象可为“存在”（*bhāva*）或“非存在”（*abhāva*）。“存在”之物又分两类：性质，与性质所居的共同基底。后者即“实体”（*dravya*）。诸性质中，有的共居于多个对象，有的独居于个别事物。前者为“普遍”（*sāmānya*）；后者又可再分：一为恒驻之性质，一为倏逝之性质，即“性质”（*guṇa*）与“运动”（*karma*）。余下两句义——“和合”（*samavāya*）与“别异”（*viśeṣa*）——则是为解释胜论者诸特殊学说而立。
   - id: 12
     kind: body
     source: |-
       This reconstruction of the Vaiśeṣika system is not quite satisfactory, for it relies on an unexplained and perhaps question-begging distinction between stationary and evanescent properties, and leaves two of the categories completely unaccounted for. Another reconstruction (also deficient) is offered by Potter (1977). When we look at *The Manual of Reason*’s own definitions of the individual categories, it seems to be following this approach. *The Manual of Reason*’s definitions are as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一胜论体系重构并不十分令人满意，因为它依赖一个未经解释、也许还是循环论证的区分——静止性质与消逝性质之分——而且完全未交代两个句义。Potter（1977）给出另一个（同样有缺陷的）重构。看《理性手册》自己给出的诸句义定义，它似乎遵循的正是这一进路。《理性手册》的定义如下：
+    step2: |-
+      这一对胜论体系的重构并不尽如人意：它倚重“静止性质/倏逝性质”之分，而此分既未获解释，或许还难免循环论证之嫌；且有两个句义全然未获交代。Potter（1977）另给出一个（同样有缺陷的）重构。而细看《理性手册》自己对诸句义的定义，其思路似正是这一进路。《理性手册》的定义如下：
   - id: 13
     kind: body
     source: |-
       **Substance**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **实体**
+    step2: |-
+      **实体**
   - id: 14
     kind: body
     source: |-
       (i) that which possesses the universal substance-hood;
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （i）拥有“实体性”这一普遍者；
+    step2: |-
+      （i）分有“实体性”（substance-hood）这一普遍者；
   - id: 15
     kind: body
     source: |-
       **(ii)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(ii)**
+    step2: |-
+      **(ii)**
   - id: 16
     kind: body
     source: |-
       that which possesses qualities (TSD 3)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拥有诸性质者（TSD 3）
+    step2: |-
+      分有性质者（TSD 3）
   - id: 17
     kind: body
     source: |-
       **Quality**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **性质**
+    step2: |-
+      **性质**
   - id: 18
     kind: body
     source: |-
       (i) that which possesses universals, and isn’t a substance or motion;
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （i）拥有诸普遍者，且既非实体亦非运动；
+    step2: |-
+      （i）分有普遍者，而既非实体亦非运动者；
   - id: 19
     kind: body
     source: |-
       **(ii)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(ii)**
+    step2: |-
+      **(ii)**
   - id: 20
     kind: body
     source: |-
       that which possesses the universal quality-hood (TSD 4)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拥有“性质性”这一普遍者（TSD 4）
+    step2: |-
+      分有“性质性”（quality-hood）这一普遍者（TSD 4）
   - id: 21
     kind: body
     source: |-
       **Motion**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **运动**
+    step2: |-
+      **运动**
   - id: 22
     kind: body
     source: |-
       (i) that which causes conjunctions (between substances);
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （i）引起（实体之间的）连合者；
+    step2: |-
+      （i）造成（实体间）连合者；
   - id: 23
     kind: body
     source: |-
       **(ii)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(ii)**
+    step2: |-
+      **(ii)**
   - id: 24
     kind: body
     source: |-
       that which possesses the universal motion-hood (TSD 5)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      拥有“运动性”这一普遍者（TSD 5）
+    step2: |-
+      分有“运动性”（motion-hood）这一普遍者（TSD 5）
   - id: 25
     kind: body
     source: |-
       **Universal**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **普遍**
+    step2: |-
+      **普遍**
   - id: 26
     kind: body
     source: |-
       that which is eternal, unitary, and inherent in many things (TS 82)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      永恒、单一且内居于众多事物者（TS 82）
+    step2: |-
+      永恒、单一而内居于众多事物者（TS 82）
   - id: 27
     kind: body
     source: |-
       **Differentium**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **别异**
+    step2: |-
+      **别异**
   - id: 28
     kind: body
     source: |-
       that which exists in eternal substances and functions as their differentiator (TS 83)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      存在于永恒实体之中并为其实行别异者（TS 83）
+    step2: |-
+      居于永恒实体之中、为之施行别异者（TS 83）
   - id: 29
     kind: body
     source: |-
       **Inherence**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **和合**
+    step2: |-
+      **和合**
   - id: 30
     kind: body
     source: |-
       that thing which is eternal and a relation (TS 84)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      永恒且为一种关系的东西（TS 84）
+    step2: |-
+      既是永恒者、又是一种关系者（TS 84）
   - id: 31
     kind: body
     source: |-
       **Absence**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **非存在**
+    step2: |-
+      **非存在**
   - id: 32
     kind: body
     source: |-
       [No general definition given]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ［未给出一般定义］
+    step2: |-
+      ［未给出一般定义］
   - id: 33
     kind: body
     source: |-
       There are certain problems with this series of definitions, read as an *apriori* reconstruction of the categories. In particular, the definitions of ‘substance’ and ‘quality’ seem to be jointly circular, unless we take as already given universals such as substance-hood, which make the definitions somewhat vacuous. I will give another reconstruction, one which roughly follows the great Nyāya-Vaiśeṣika author Udayana (cf. Tachikawa 1981)[^tachikawa-1981].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若把这一系列定义当作对句义的*先验*重构来读，会有一些问题。尤其“实体”与“性质”的定义似乎联合成环，除非我们预设诸如实体性之类的普遍者已被给定——而这又使定义变得有些空洞。我将给出另一个重构，一个大致追随正理—胜论大家优陀耶那（Udayana）的重构（参见 Tachikawa 1981）[^tachikawa-1981]。
+    step2: |-
+      若将这一系列定义读作对句义的*先验*重构，则会遇到若干问题：尤其是，“实体”与“性质”的定义似乎互相循环——除非预设实体性之类的普遍者已然在先，而如此一来定义便近乎空洞。我将另行给出一个重构，大体步趋正理—胜论大家优陀耶那（Udayana）（参见 Tachikawa 1981）[^tachikawa-1981]。
   - id: 34
     kind: body
     source: |-
       ## 1.3 The Underlying Structure of the List
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1.3 清单的深层结构
+    step2: |-
+      ## 1.3 清单的深层结构
   - id: 35
     kind: body
     source: |-
       First divide things up into the existents and the non-existents, the latter corresponding to the category ‘absence’. Now take inherence to be a primitive, fundamental relation. Given such a relation, the following three-fold division is exhaustive:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      先把一切事物分为存在者与非存在者，后者对应“非存在”这一句义。然后把和合当作一条初始的、基本的关系。给定这样一种关系，如下的三分划分是穷尽的：
+    step2: |-
+      先把一切事物一分为二：存在者与非存在者，后者对应“非存在”一句义。再取和合为初始的基本关系。给定这一关系，以下三分即可穷尽：
   - id: 36
     kind: body
     source: |-
       1. things which do not inhere in others, but are inhered in,
       2. things which both inhere in others, and are themselves inhered in,
       3. things which inhere in others, but are not inhered in by anything.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 不内居于他物、而为他物所内居者，
+      2. 既内居于他物、又被他物所内居者，
+      3. 内居于他物、而不被任何东西内居者。
+    step2: |-
+      1. 不内居他物，而受他物内居者，
+      2. 既内居他物，亦受他物内居者，
+      3. 内居他物，却无任何东西内居于其中者。
   - id: 37
     kind: body
     source: |-
       We want group (a) to correspond to the category ‘substance’. Unfortunately, the Vaiśeṣikas claim that wholes are distinct from, and inhere in, their parts. The only substances which do not inhere in anything are the atomic substances (which for the Vaiśeṣikas correspond with the eternal substances). Group (c) corresponds to the category ‘universal’, for universals are said to inhere in things (substances, qualities and motions) but do not have anything inhering in them. Group (b) comprises, the non-atomic substances, the qualities and the motions. Let us now divide this group into two: those which are inhered in only by universals, and those which are inhered in by other things as well. The former corresponds to the categories ‘quality’ and ‘motion’, for substances are inhered in, not only by universals, but also by qualities, motions, as well as by other substances. Finally, we must find a way to sub-divide the former group into qualities and motions. More traditional Naiyāyikas preserve the distinction by saying that motions, but not qualities, cause the substances in which they inhere to come into contact with (or break away from) each other. This, however, appeals to the idea of ‘contact’, which cannot itself be defined in terms of our primitive relation inherence. Some radical Naiyāyikas (especially Bhāsaravajña) claim that motions are just a kind of quality, as their properties are so similar. The only remaining category is ‘differentium’ (*viśeṣa*), whose members reside in and individuate the eternal substances i.e. the atoms. The point, perhaps, is that all other things are individuated by the universals and wholes that inhere in them, but two atoms of the same substance are in all respects identical. But if objects are individuated by means of what inheres in them, then there must be something inhering in each atom which distinguishes it from the others—a ‘differentium’ (see §10.2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们希望（a）组对应“实体”句义。遗憾的是，胜论者主张整体区别于其部分并内居于其部分。唯一不内居于任何东西的实体是原子实体（在胜论者那里对应于永恒实体）。（c）组对应“普遍”句义，因为普遍被说成内居于事物（实体、性质与运动）之中，但没有任何东西内居于其中。（b）组包括非原子实体、性质与运动。现在我们把这一组再分两类：只被普遍所内居者，以及也被其他东西内居者。前者对应“性质”与“运动”句义，因为实体不仅被普遍所内居，也被性质、运动以及其他实体所内居。最后，我们必须找到把前一组再分为性质与运动的办法。较传统的正理论者如此保留这一区分：运动（而非性质）使其所内居的实体相互接触（或相互分离）。然而这诉诸“接触”观念，而接触本身不能用我们的初始关系和合来定义。一些激进的正理论者（尤其是跋萨婆若）主张运动不过是一种性质，因为二者的性质如此相似。剩下的唯一句义是“别异”（*viśeṣa*），其成员栖居于永恒实体（即极微）之中并使之个体化。要点或许是：其他一切事物都由内居于其中的普遍与整体而个体化，但同一实体的两个极微在一切方面都相同。但如果对象是借内居于其中的东西而个体化的，那么每个极微中必有什么内居于其中、把它与其他极微区别开来——一个“别异”（见 §10.2）。
+    step2: |-
+      我们想让（a）组对应“实体”一句义。可惜胜论者主张整体别于其部分且内居于部分；如此一来，唯一不内居于任何东西的实体便只剩原子实体（胜论者视之与永恒实体相当）。（c）组对应“普遍”：普遍内居于事物（实体、性质、运动）之中，自身却不承载任何内居者。（b）组则收非原子实体、性质与运动。再分此组为二：一类只受普遍内居，一类还受其他东西内居。前者对应“性质”与“运动”——因为实体不但被普遍内居，也被性质、运动乃至其他实体内居。最后还得设法把这一组再切成性质与运动。较传统的正理论者以如下方式守住这一区分：唯运动（性质则否）使其所内居的实体彼此接触（或彼此分离）。然而这诉诸“接触”观念，而接触本身无法用初始关系“和合”来定义。一部分激进的正理论者（尤其是跋萨婆若）干脆主张运动就是一种性质，因为二者属性过于相似。余下的最后一个句义是“别异”（*viśeṣa*）：其成员栖居于永恒实体即极微之中，并使之个体化。要害或在于：其余万物皆由内居于其中的普遍与整体而个体化，而同一实体的两个极微却在一切方面相同。但若对象凭内居者而个体化，则每个极微之内必有什么内居其间、使之彼此有别——即一个“别异”（见 §10.2）。
   - id: 38
     kind: body
     source: |-
       This is a rough sketch, omitting many technicalities, of how the Vaiśeṣika philosophers tried to build their system of categories on logical principles (for an example of such technicalities, see TSD 3(c). *The Manual of Reason* points out that a substance cannot be defined as the substratum of qualities, because of the Vaiśeṣika doctrine that substances do not possess any qualities at the moment when they are created.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是一个粗略的概要，略去了许多技术细节，展示了胜论哲学家如何尝试在逻辑原则之上构建其句义体系（这类技术细节的例子见 TSD 3(c)。《理性手册》指出，实体不能被定义为性质的基底，因为按胜论学说，实体在被创造的时刻不拥有任何性质。）
+    step2: |-
+      以上是一个粗略的概略，略去诸多技术细节，意在显示胜论哲学家如何尝试把句义体系立在逻辑原则之上（技术细节的实例见 TSD 3(c)。《理性手册》指出：按胜论学说，实体在受造那一刻不具任何性质，故实体不能定义为性质之基底。）
   - id: 39
     kind: body
     source: |-
       ## 2. Physical Substance
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 物理实体
+    step2: |-
+      ## 2. 物理实体
   - id: 40
     kind: body
     source: |-
       ### 2.1 The Five Primary Physical Substances
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 五大物理实体
+    step2: |-
+      ### 2.1 五大物理实体
   - id: 41
     kind: body
     source: |-
       Vaiśeṣika distinguishes, among nine acknowledged types of substance, a sub-class of five—earth, water, fire, air and *ākāśa*—to which it gives the name “*bhūta*” (‘physical substance’). A *bhūta* is defined as a substance which possesses a specific sensible quality—odour, taste, colour, touch and sound.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      胜论在公认的九种实体中区分出一个五者的子类——地、水、火、风与虚空（*ākāśa*）——称之为“*bhūta*”（“物理实体”）。一个 *bhūta* 被定义为拥有特定可感性质——气味、味、色、触与声——的实体。
+    step2: |-
+      胜论于公认九实之中分出一个五者的子类——地、水、火、风与虚空（*ākāśa*）——名之曰“*bhūta*”（“物理实体”）。*bhūta* 的定义是：分有某一特定可感性质（气味、味、色、触、声）的实体。
   - id: 42
     kind: body
     source: |-
       It was, perhaps, originally thought that the five physical substances and the five sensible qualities are directly correlated, each quality residing in one and only one substance, odour just in earth, taste just in water etc. (such a view is reported by Vātsyāyana under NS 3.1.65–6). This may give some insight into the origins of the ‘five physical substances’ theory, but it was realised very early on that it is extremely implausible to maintain that earth, for example, is invisible, or else that its colour is always due to intermixture with fire (Bhaduri 1947: 133)[^bhaduri-1947]. The set of correlations between physical substances and sensible qualities is more complex in the *Vaiśeṣika-sūtras* and later texts, and is indicated in the following chart:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们或许最初认为五种物理实体与五种可感性质直接对应，每种性质恰好只居于一种实体之中：气味只在土中，味只在水中，等等（筏磋衍那在 NS 3.1.65–6 下报告了这样一种观点）。这或许能让我们窥见“五种物理实体”理论的起源，但人们很早就意识到，坚持土（例如）不可见、或其颜色总是来自与火的混合，是极不可信的（Bhaduri 1947: 133）[^bhaduri-1947]。在《胜论经》与后世文本中，物理实体与可感性质之间的对应集更为复杂，如下表所示：
+    step2: |-
+      最初的想法或许是：五种物理实体与五种可感性质一一对应，每种性质独居一实——气味唯在土，味唯在水，诸如此类（筏磋衍那于 NS 3.1.65–6 处即载有此说）。这或有助理解“五种物理实体”理论的缘起，但人们很快发现：若坚持土不可见，或其颜色永远来自与火的掺杂，则殊难取信（Bhaduri 1947: 133）[^bhaduri-1947]。在《胜论经》及后世文本中，物理实体与可感性质的对应关系要复杂得多，如下表所示：
   - id: 43
     kind: body
     source: |-
@@ -271,147 +359,209 @@ segments:
       | fire |   |   | x | x |   |
       | air |   |   |   | x |   |
       | *ākāśa* |   |   |   |   | x |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      |   | 气味 | 味 | 色 | 触 | 声 |
+      | --- | --- | --- | --- | --- | --- |
+      | 地 | x | x | x | x |   |
+      | 水 |   | x | x | x |   |
+      | 火 |   |   | x | x |   |
+      | 风 |   |   |   | x |   |
+      | 虚空（*ākāśa*） |   |   |   |   | x |
+    step2: |-
+      |   | 气味 | 味 | 色 | 触 | 声 |
+      | --- | --- | --- | --- | --- | --- |
+      | 地 | x | x | x | x |   |
+      | 水 |   | x | x | x |   |
+      | 火 |   |   | x | x |   |
+      | 风 |   |   |   | x |   |
+      | 虚空（*ākāśa*） |   |   |   |   | x |
   - id: 44
     kind: body
     source: |-
       The orthodox Vaiśeṣika view is that each physical substance is characterised by the possession of a particular type of sensible quality and the absence of certain others. Thus, earth is the substance endowed with odour, water with taste but not odour, fire with colour but not taste or odour, etc. A drawback of such definitions is that we cannot infer, from the detection of a sensible quality, which type of substance is present. Later Vaiśeṣika therefore looks for a diagnostic set of definitions, one which seeks to find, for each substance, a particular sensible quality whose presence is indicative of that substance. The *Manual of Reason* (TS 10–14):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正统胜论的观点是：每种物理实体以拥有某一种特定类型的可感性质并缺少其他某些性质为特征。因此，土是具有气味的实体，水有味而无气味，火有色而无味与气味，等等。这类定义的一个缺陷是：从检得一种可感性质，我们推不出在场的是哪一类实体。因此后期胜论寻求一套诊断式定义：为每种实体找到一种特定可感性质，其出现即足以指示该实体的存在。《理性手册》（TS 10–14）：
+    step2: |-
+      正统胜论的看法是：每种物理实体的特征，在于分有某一特定类型的可感性质而缺少其他若干性质。于是土即有气味之实，水有味而无气味，火有色而无味亦无气味，如此等等。这类定义有一短处：由检得某一可感性质，并不能推出在场的是哪类实体。故后期胜论转而寻求一套诊断式定义——为每种实体找出一种特定可感性质，其出现即足以指示该实体。《理性手册》（TS 10–14）：
   - id: 45
     kind: body
     source: |-
       > Earth is (specifically) endowed with odour Water is (specifically) endowed with cold touch Fire is (specifically) endowed with hot touch Air is (specifically) endowed with touch without colour *ākāśa* is (specifically) endowed with sound.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 地（特别地）具有气味 水具有冷触 火（特别地）具有热触 风具有无色之触 虚空（*ākāśa*）（特别地）具有声。
+    step2: |-
+      > 地（特有）气味；水（特有）冷触；火（特有）热触；风（特有）无色之触；虚空（*ākāśa*）（特有）声。
   - id: 46
     kind: body
     source: |-
       Thus, although earth, water, and fire are all tactile, only water allegedly has cold touch. It seems that it could find no positive distinguishing trait for air, and thus reverted to the older style of definition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这样，虽然土、水、火都有触，但据说只有水有冷触。看来它无法为风找到积极的区别性性状，于是退回到较旧式的定义。
+    step2: |-
+      如此一来，土、水、火虽皆有触，据说却唯水有冷触。风这一项，看来《理性手册》找不出正面的区别性状，只好退回旧式定义。
   - id: 47
     kind: body
     source: |-
       It is perhaps surprising to find a ‘five elements’ theory defended still in the seventeenth century. Some modern writers have tried to represent these substances as metaphors for different ‘states’ of matter—solid (earth), liquid (water), gas (air), and temperature (fire). This is, however, improbable, for it is nowhere said that a particular substance can turn from earth to water to air. Perhaps it is a mistake to see the theory as belonging to physics at all; instead, bearing in mind the way the substances are defined in terms of their sensible qualities, we might see it as an exercise in the logical analysis of the data presented by the various sense modalities to construct a (metaphysical) theory of the world. Such a theory would, for example, explain the fact that there are correlations between what we see and what we touch by positing that there must be types of things which can be both seen and touched. Likewise, the occurrence of tactile sensations with no correlated visual sensations leads us to postulate the existence of substances which can be felt but not seen (air), and so on for the other substances. It is, after all, the existence of such correlations between different sense modalities which grounds an objective conception of the world (phenomena accessible only by one sense are more likely to be thought of as subjective in origin).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在十七世纪仍然发现有人为一种“五种元素”理论辩护，这或许令人惊讶。一些现代作者试图把这些实体表现为物质不同“状态”的隐喻——固体（地）、液体（水）、气体（风）与温度（火）。然而这不大可能，因为没有任何地方说某一实体可以从地变成水再变成风。或许把这一理论看作属于物理学本身就是个错误；相反，考虑到这些实体是按其可感性质来定义的，我们不妨把它看作一项逻辑分析练习：对各种感官模态所呈现的数据进行逻辑分析，以构建一个（形而上学的）世界理论。例如，这样一种理论会通过设定必有既可见又可触的事物类型，来解释我们所见与所触之间的相关性这一事实。类似地，有触觉感受而无相应视觉感受，这引导我们设定存在可触而不可见的实体（风），其余实体依此类推。毕竟，正是不同感官模态之间存在这类相关性，才为一个客观的世界概念提供了根据（只能由单一感官通达的现象更可能被认为起源于主观）。
+    step2: |-
+      十七世纪竟还有人辩护“五大元素”理论，这或许令人诧异。一些现代作者试图把这些实体读作物质诸“状态”的隐喻——固体（地）、液体（水）、气体（风）与温度（火）。然而此说难通：从没有哪处说某一实体能由地转成水再转成风。或许根本不该把这一理论当作物理学；考虑到诸实体皆以其可感性质来定义，我们不如把它看作一项逻辑分析的操演：对诸感官模态所呈现的资料作逻辑分析，以立一个（形而上学的）世界理论。例如，这样的理论会通过设定必有既可见又可触之物类，来解释所见与所触何以相关。同理，触觉感受出现而无相应视觉感受，便引导我们设定有可触而不可见的实体（风）；其余实体，依此类推。说到底，正是不同感官模态之间的这类相关性，奠定了一个客观的世界概念（仅由单一感官通达的现象，更易被认为出于主观）。
   - id: 48
     kind: body
     source: |-
       ### 2.2 Vaiśeṣika Atomism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 胜论原子论
+    step2: |-
+      ### 2.2 胜论原子论
   - id: 49
     kind: body
     source: |-
       *The Manual of Reason* (TS 10–14) repeats the conventional Vaiśeṣika theory that the first four substances (earth, water, air, fire) are each of two types, atomic and composite. An atom (*paramāṇu*) is indestructible (*anitya*), indivisible (i.e. non-composite), and has a special kind of dimension, called “small” (*aṇu*). The Vaiśeṣikas’ standard argument for atomism is as follows. It is an empirically established truth that whatever is perceived is composite. Thus even the smallest perceptible thing, namely, a fleck of dust in a sun-beam, has parts, which are therefore invisible. The Vaiśeṣikas call the smallest perceptible thing a “triad” (*tryaṇuka*) and claim that it has three parts, each of which is called a “dyad” (*dyaṇuka*). Does each of these parts itself have parts? Yes—for it is another empirically established truth that the parts of a visible thing themselves have parts (e.g. a piece of cloth, whose parts, the threads, are themselves composite). The Vaiśeṣikas say that a dyad has two parts, each of which is an atom.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》（TS 10–14）复述了胜论的通行理论：前四种实体（地、水、风、火）各有两类——原子的与复合的。极微（*paramāṇu*）不可毁（*anitya*）、不可分（即非复合），并有一种特殊的维度，称为“小”（*aṇu*）。胜论者支持原子论的标准论证如下。凡被感知者皆是复合的，这是经验确立的真理。因此连最小的可感之物——即阳光中的一粒尘埃——也有部分，而这些部分因此不可见。胜论者把最小可感之物称为“三微”（*tryaṇuka*），主张它有三个部分，每个部分称为“二微”（*dyaṇuka*）。这些部分自身还有部分吗？有——因为另一条经验确立的真理是：可见之物的部分自身也有部分（例如一块布，其部分即线，线本身是复合的）。胜论者说，二微有两个部分，每个部分都是一个极微。
+    step2: |-
+      《理性手册》（TS 10–14）复述胜论通行学说：前四实（地、水、风、火）各分两类——原子类与复合类。极微（*paramāṇu*）不可毁（*anitya*）、不可分（即非复合），且具有一种特殊维度，名为“小”（*aṇu*）。胜论者力主原子论的标准论证如下：凡被知觉者皆复合，此乃经验确立之事。故而连最小可见之物——阳光里的一粒浮尘——也有部分，而此部分遂不可见。胜论者称最小可见之物为“三微”（*tryaṇuka*），并谓其含三个部分，每一部分称“二微”（*dyaṇuka*）。那么二微自身可有部分？可有——因为另一条经验真理是：可见之物其部分仍有部分（如布之部分为线，而线亦为复合物）。胜论者遂言：二微含两部分，每一部分即一极微。
   - id: 50
     kind: body
     source: |-
       This argument establishes that there are objects too small to be seen, but it does not demonstrate that some of them are non-composite. Why cannot the process of sub-division be continued ad infinitum? *The Manual of Reason*’s intriguing answer is that if such were the case then Mount Meru and a mustard seed would have the same size, as each would have the same (infinite) number of constituent parts! An implicit premise here (articulated by other Vaiśeṣikas) is that the size of a whole is a function of the size, number and spatial arrangement of its parts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一论证确立了存在小到不可见的对象，但并未证明其中有些是非复合的。为什么细分过程不能无限进行下去？《理性手册》给出的耐人寻味的回答是：如果可以，那么须弥山与一粒芥子就会有相同的尺寸，因为二者将有相同数目的（无限的）构成部分！这里隐含的前提（由其他胜论者明确表述）是：整体的尺寸是其部分的尺寸、数目与空间排列的函数。
+    step2: |-
+      这一论证确立了世上有小到不可见的对象，却没有证明其中有些是非复合的。细分何以不能无限进行？《理性手册》的答复颇为耐人寻味：若可无限细分，则须弥山与一粒芥子将一般大小——因为二者将拥有同样（无限多）的构成部分！这里隐含一条前提（其他胜论者曾明确道出）：整体的尺寸是其部分的尺寸、数目与空间排布的函数。
   - id: 51
     kind: body
     source: |-
       The argument seems to be question-begging, for the implicit premise is only true if atomism is already accepted. A non-atomist will say that the size of an object is determined, not by its constituents, but by the spatial boundaries of the ‘stuff’ it is made of.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一论证似乎是循环论证，因为隐含前提只有在原子论已被接受时才为真。非原子论者会说：对象的尺寸不是由其构成物决定，而是由构成它的“质料”的空间边界决定。
+    step2: |-
+      这一论证难免窃取论题之嫌：隐含前提唯有在原子论已获接受时才成立。非原子论者会说，对象的尺寸并非由其构成物决定，而是由构成它的“质料”的空间边界决定。
   - id: 52
     kind: body
     source: |-
       ### 2.3 The Metaphysics of Number (*saṃkhyā*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 数目的形而上学（*saṃkhyā*）
+    step2: |-
+      ### 2.3 数目的形而上学（*saṃkhyā*）
   - id: 53
     kind: body
     source: |-
       The Navya-Nyāya account of number has been likened in content and sophistication to that of Frege, and is indeed fascinating. *The Manual of Reason* says only that numbers are qualities (*guṇa*-s), that they are the ground for numerical judgements, and that they range from 1 to a very high number called *parārdha* (1014. Note here again discomfort with the idea of infinity). The view that numbers are qualities is in fact associated with old Vaiśeṣika, and turned out to be irreconcilable with the structure of the Vaiśeṣika ontological system. We may speak of there being three horses in the field, but also of there being 24 qualities in the Vaiśeṣika system. Yet a quality cannot by definition reside in another quality—hence numbers cannot be qualities. This problem led the Navya-Naiyāyikas to develop a new account of numbers, based on a new type of relation called the *paryāpti* or ‘completing’ relation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      新正理关于数的论述，就其内容与精巧程度而言，被比作弗雷格的理论，而且确实引人入胜。《理性手册》只说数是性质（*guṇa*），数是数目判断的根据，且数的范围从 1 一直到称为 *parārdha* 的极大之数（1014。此处再次见出对无穷观念的疑虑）。数是性质的观点实际上与古胜论相联系，后来被证明与胜论存在论体系的结构不可调和。我们既可以说田里有三匹马，也可以说胜论体系中有 24 种性质。然而按定义，性质不能居于另一性质之中——所以数不能是性质。这一问题促使新正理论者发展出一套新的数的理论，其基础是一种称为 *paryāpti*（“圆足”）的新关系。
+    step2: |-
+      新正理的数的学说，就内容与精巧程度而言，堪比弗雷格，也确实引人入胜。《理性手册》只说：数是性质（*guṇa*），数是数目判断的根据，数的范围从 1 直至一个称为 *parārdha* 的极大之数（1014。此处再次见出对无穷观念的疑虑）。“数是性质”一说实出自古胜论，后来被证明与胜论存在论体系的结构不可调和。我们既可说田中有三匹马，也可说胜论体系中有 24 种性质；然而按定义，性质不能居于另一性质之中——故数不能是性质。这一困难促使新正理论者另立一套数的学说，其基础是一种名为 *paryāpti*（“圆足”）的新关系。
   - id: 54
     kind: body
     source: |-
       Here is a summary of their theory. Consider the following pair of sentences:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以下是对他们理论的概述。考虑下面这一对句子：
+    step2: |-
+      下面概述其理论。先看一对句子：
   - id: 55
     kind: body
     source: |-
       1. The table has wooden legs
       2. The table has four legs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 这张桌子有木质的腿
+      2. 这张桌子有四条腿。
+    step2: |-
+      1. 这张桌子有木头的腿
+      2. 这张桌子有四条腿。
   - id: 56
     kind: body
     source: |-
       The similarity between (1) and (2) suggests that we think of number-words as akin to other adjectives, i.e. as attributing some property to the object/s they qualify. The Nyāya say that, in (1), the property of being wooden resides in the legs of the table by the relation of inherence. Can we analyse (2) the same way, as stating that a universal property four-hood inheres in the legs? The new Nyāya (esp. Raghunātha and Jagadīśa) answer in the negative. For note that (1) entails
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （1）与（2）之间的相似提示我们把数词看作与其他形容词类似，即把某种性质归于它们所修饰的对象。正理派说，在（1）中，“木质”这一性质借和合关系居于桌腿之中。我们能以同样的方式分析（2），即把它看作陈述“四”这一普遍性质内居于诸腿吗？新正理（尤其是罗怙那陀与贾迦迪沙）给出否定的回答。因为注意，（1）蕴涵
+    step2: |-
+      （1）与（2）的相似令人把数词当作一般形容词看待：即给所修饰的对象赋予某种性质。按正理派，在（1）中，“木质”这一性质经由和合关系居于桌腿。那么（2）能否同样分析——视为陈述“四性”这一普遍性质内居于诸腿？新正理（尤其罗怙那陀与贾迦迪沙）答曰不然。试看，（1）蕴涵
   - id: 57
     kind: body
     source: |-
       1. Each leg is wooden.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 每条腿都是木质的。
+    step2: |-
+      1. 每条腿皆是木质的。
   - id: 58
     kind: body
     source: |-
       However, (2) does not entail,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而（2）并不蕴涵
+    step2: |-
+      但（2）却不蕴涵
   - id: 59
     kind: body
     source: |-
       1. Each leg is four.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 每条腿都是四。
+    step2: |-
+      1. 每条腿是四。
   - id: 60
     kind: body
     source: |-
       The solution offered is to postulate a new relation, ‘completion’, which relates the property fourhood to the four legs *jointly*, but not to each leg individually. Raghunātha remarks that “the ‘completion’ relation, whose existence is indicated by constructions such as ‘This is one pot’ and ‘These are two’, is a special kind of self-linking relation.” His commentator Jagadīśa adds:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所提出的解决办法是设定一种新关系，“完成”（圆足），它*联合地*把“四”这一性质关联于四条腿，而不是单独关联于每条腿。罗怙那陀评论说：“‘完成’关系——其存在由‘这是一个壶’、‘这是两个’这类构造所指示——是一种特殊的自联结关系。”他的注释者贾迦迪沙补充说：
+    step2: |-
+      出路是设定一种新关系——“圆足”（完成）：它*联合地*把“四性”关联于四条腿，而非逐条关联于每条腿。罗怙那陀评论道：“‘圆足’关系——其存在由‘这是一只壶’‘这是两个’之类的构造所昭示——是一种特殊的自联结关系。”其注家贾迦迪沙补充道：
   - id: 61
     kind: body
     source: |-
       > It might be thought that the ‘completion’ relation is nothing but inherence…So Raghunātha states that ‘completion’ is a another relation….In a sentence like “These are two pots”, ‘completion’ relates the property two-hood by delimiting it as a property which resides in both pots. Otherwise, it would follow that there is no difference between saying “These are two” and “Each one possesses two-hood”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 或许有人会想，“完成”关系不外乎就是和合……因此罗怙那陀声明“完成”是另一种关系……在“这两个是壶”这样的句子里，“完成”把“二”这一性质关联起来，把它限定为居于两个壶之中的性质。否则就会得出：“这是两个”与“每个都具有二性”之间没有区别。
+    step2: |-
+      > 有人或以为“圆足”关系不过是和合……为此罗怙那陀明言“圆足”是另一种关系……在“这两只是壶”一句中，“圆足”把“二性”关联起来，且把它限定为居于两壶之上的性质。不然便会推出：“这是两个”与“每一只都具二性”并无分别。
   - id: 62
     kind: body
     source: |-
       The proposal is that number properties are related jointly to objects by the many-one relation ‘completion’. I think we can simplify this proposal a little without losing its essential structure. Rather than saying, in a sentence like “Mars is a planet”, that the property planethood resides in Mars by the inherence relation, we would now say that the predicate “…is a planet” is true of Mars, so to speak building the inherence relation (or copula) into the predicate. In an entirely analogous way, we can build the completion relation into the number-predicate, which then becomes, if the number is *n*, an *n*-place relation. Thus the sentence “Venus and Mars are two” asserts of Venus and Mars that they stand in a certain 2-place relation, the relation which is the number 2. The Nyāya idea, then, is that number-adjectives are *n*-place relational predicates, and that numbers are *n*-place relations holding jointly between *n* distinct objects. It in no way follows from the statement that the relation 2 holds between Venus and Mars, that it holds just with Venus, any more than it follows from the statement that *X* is to the left of *Y*, that *X* is to the left, full stop. On the Nyāya proposal, then, it looks as though the troublesome inference is blocked because its conclusion is not even well-formed, since the phrase “Venus is two”, like the phrase “*X* is to the left”, is an incomplete or unsaturated expression.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一提议是：数性质通过“完成”这一多对一关系联合地关联于对象。我想我们可以在不损失其基本结构的情况下稍微简化这一提议。在“火星是行星”这样的句子中，与其说“行星性”这一性质借和合关系居于火星，不如说谓词“……是行星”对火星为真，可以说是把和合关系（或系词）建入了谓词。以完全类似的方式，我们可以把圆足关系建入数谓词；若数目为 *n*，该谓词便成为一个 *n* 位关系。于是，“金星与火星是两个”这一句子断言金星与火星处于某个二位关系之中，这个关系就是数 2。这样，正理派的想法是：数形容词是 *n* 位关系谓词，而数是 *n* 个不同对象之间联合成立的 *n* 位关系。由“关系 2 在金星与火星之间成立”这一陈述，绝推不出它仅对金星成立，正如由“*X* 在 *Y* 的左边”这一陈述推不出“*X* 在左边”一样。如此看来，在正理派的提议下，那个棘手的推理之所以被阻止，是因为其结论根本不合式，因为“金星是两个”这个短语，正如“*X* 在左边”一样，是一个不完整的或未饱和的表达式。
+    step2: |-
+      依此方案，数性质经由“圆足”这一多对一关系联合地关联于对象。我想可以稍作简化而不失其基本结构。在“火星是行星”一句中，我们不再说“行星性”借和合关系居于火星，而改说谓词“……是行星”对火星为真——相当于把和合关系（或系词）内建于谓词之中。依同理，也可把圆足关系内建于数谓词：数目若为 *n*，该谓词便是一个 *n* 位关系。于是“金星与火星是两个”这句话，是断言金星与火星共同处于某个二位关系之中——这个关系正是数 2。正理派的想法因而是：数形容词乃 *n* 位关系谓词，数则是 *n* 个不同对象之间联合成立的 *n* 位关系。由“关系 2 在金星与火星之间成立”绝推不出“它仅对金星成立”，正如由“*X* 在 *Y* 左边”推不出“*X* 在左边”便完事一样。照正理派的方案，那个麻烦的推理之所以被封堵，是因为其结论根本不合式：“金星是两个”跟“*X* 在左边”一样，是个残缺的、未饱和的表达式。
   - id: 63
     kind: body
     source: |-
       The Nyāya, we have seen, distinguish two relations, the inherence and completion relations. Their motive is, as we might now say, to account for the distinction between collective and distributive properties. For the recognition that the inference from “These are two pots” to “Each pot is two” is invalid is just the recognition that the predicate two does not distribute over plural subjects. The Nyāya idea is to analyse collective predicates like ‘…are two’, not as one-place predicates of aggregates or sets, but as n-place relational predicates, true of n objects jointly. But since such relational predicates still take objects as subjects, this indeed shows that recognising the distinction between distributive and collective predicates does not force us to abandon the adjectival view. The Nyāya, indeed, have a term for collective properties: they call them *vyāsajya-vṛtti-dharma* or ‘properties which occur jointly’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们已经看到，正理派区分两种关系：和合关系与完成关系。他们的动机——如我们现在可能说的——是要说明集体性质与分配性质之间的区分。因为认识到从“这两个是壶”到“每个壶是二”的推理无效，正是认识到谓词“二”并不分配于复数主语。正理派的想法是：把诸如“……是两个”这样的集体谓词分析为 *n* 位关系谓词——对 *n* 个对象联合为真——而不是分析为聚合体或集合的一元谓词。但由于这类关系谓词仍以对象为主语，这确实表明：承认分配谓词与集体谓词的区分，并不迫使我们放弃形容词观点。正理派确实有集体性质的术语：他们称之为 *vyāsajya-vṛtti-dharma*，即“联合出现的性质”。
+    step2: |-
+      如前所见，正理派区分和合与圆足两种关系。其动机——用今天的话说——是要说明集体性质与分配性质之别。认识到“这两只是壶”推不出“每只壶是二”，即是认识到谓词“二”并不分配于复数主词。正理派的方案是：把“……是两个”一类集体谓词分析为 *n* 位关系谓词——对 *n* 个对象联合为真——而非聚合体或集合的一元谓词。不过这类关系谓词仍以对象为主词，可见承认分配/集体谓词之分并不迫使我们放弃形容词观点。集体性质，正理派确有专名：谓之 *vyāsajya-vṛtti-dharma*，“联合出现的性质”。
   - id: 64
     kind: body
     source: |-
       ## 3. Space, Time and Motion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 空间、时间与运动
+    step2: |-
+      ## 3. 空间、时间与运动
   - id: 65
     kind: body
     source: |-
       ### 3.1 Space (*dik*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 空间（*dik*）
+    step2: |-
+      ### 3.1 空间（*dik*）
   - id: 66
     kind: body
     source: |-
       *The Manual of Reason*’s remarks on the nature of space and time are sketchy in the extreme. We must supplement them with details from other Vaiśeṣika and Nyāya authors. Even then, the theories of space and time found in Nyāya-Vaiśeṣika texts have been studied very little, and we can only form a rough and inadequate picture at the present time. *The Manual of Reason*’s observations concerning the notion of space are as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》关于空间与时间之本性的论述极为粗略。我们必须用其他胜论与正理作者的细节来补充。即便如此，正理—胜论文本中的时空理论也很少被研究，目前我们只能形成一幅粗糙而不充分的图景。《理性手册》关于空间概念的论述如下：
+    step2: |-
+      《理性手册》论空间与时间之本性，粗略已极，须借其他胜论与正理作者之说补其细节。纵然如此，正理—胜论文本中的时空理论也素少研究，我们眼下只能勾勒一幅粗糙而欠备的图景。《理性手册》关于空间概念的论述如下：
   - id: 67
     kind: body
     source: |-
@@ -420,80 +570,114 @@ segments:
       3. Space is unique, ubiquitous, and eternal (TS16).
       4. Space is an instrumental cause of every effect (TSD16).
       5. ‘Nearness’ (*aparatva*) and ‘farness’ (*paratva*) are spatial qualities of objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 空间是一种实体（TS3）
+      2. 空间是“此在彼之东”等陈述的“根据”（TS 16）
+      3. 空间唯一、遍在且永恒（TS16）。
+      4. 空间是每一个结果的工具因（TSD16）。
+      5. “近”（*aparatva*）与“远”（*paratva*）是对象的空间性质。
+    step2: |-
+      1. 空间是一实体（TS3）
+      2. 空间是诸如“此在彼之东”一类陈述的“根据”（TS 16）
+      3. 空间唯一、遍在而永恒（TS16）。
+      4. 空间是任一结果的工具因（TSD16）。
+      5. “近”（*aparatva*）与“远”（*paratva*）乃对象的空间性质。
   - id: 68
     kind: body
     source: |-
       Space is conceived of as that substance in virtue of which statements attributing distance and direction, such as “*A* is to the east of *B*” (or “*A* is near to *B*”, “*A* is nearer to *B* than to *C*”, etc.) are objectively true or false. Space is thus an explanatory postulate: it is argued that we must postulate the existence of a new (spatial) substance to explain the fact that objects stand in spatial relations with one another. The problem is to make sense of this claim. Bhaduri (1947: 216–7) does so as follows (I paraphrase his account):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      空间被构想为这样一种实体：凭借它，赋予距离与方向的陈述——如“*A* 在 *B* 之东”（或“*A* 近于 *B*”、“*A* 距 *B* 比距 *C* 更近”等）——才客观地为真或为假。空间因此是一个解释性的设定：其论证是，我们必须设定一个新的（空间）实体的存在，以解释对象彼此处于空间关系之中这一事实。问题在于如何理解这一主张。Bhaduri（1947: 216–7）如下处理（下为笔者对其论述的转述）：
+    step2: |-
+      空间被设想为这样一种实体：惟凭它，那些赋以距离与方向的陈述——“*A* 在 *B* 之东”（或“*A* 近于 *B*”、“*A* 距 *B* 较距 *C* 为近”等）——才客观地或真或假。空间因而是一个解释性假设：为解释对象彼此处于空间关系这一事实，必须设定一个新的（空间）实体。难点在于如何理解这一主张。Bhaduri（1947: 216–7）如此处理（下为对其论述的转述）：
   - id: 69
     kind: body
     source: |-
       > Imagine a sequence of objects *A*, *B*, *C*, *D*, …, *F*, each in contact with the next, arranged in a line. Now *A* is to the left of *B*, and *B* is to the left of *C*, and since “being to the left of” is a transitive relation, *A* is to the left of *C*, etc. But, although *A* is in contact with *B*, and *B* is in contact with *C*, it is not true that *A* is in contact with *C*—contact is atransitive. Thus contact cannot be what spatially relates objects. What then? “According the Vaiśeṣika, it is space which brings [*A* and *C*] into relation. Both are in conjunction with space and thus with each other through its mediation. Space is that which turns the relation of conjunction into a transitive relation” (Bhaduri).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 设想一列对象 *A*、*B*、*C*、*D*、…、*F*，相邻者相触，排成一行。*A* 在 *B* 之左，*B* 在 *C* 之左，由于“在……之左”是传递关系，*A* 在 *C* 之左，等等。但虽然 *A* 与 *B* 相触，*B* 与 *C* 相触，*A* 与 *C* 相触却不真——接触是非传递的。因此接触不能是空间地关联对象的东西。那么是什么？“按照胜论，把［*A* 与 *C*］带入关系的是空间。二者皆与空间连合，因而通过其中介彼此连合。空间就是把连合关系变成传递关系的东西”（Bhaduri）。
+    step2: |-
+      > 设想一列对象 *A*、*B*、*C*、*D*、…、*F*，两两相邻相触，排成一行。*A* 在 *B* 之左，*B* 在 *C* 之左；既然“在……之左”是传递关系，则 *A* 在 *C* 之左，余可类推。然而 *A* 与 *B* 相触、*B* 与 *C* 相触，*A* 与 *C* 却未必相触——接触并不传递。故空间地关联对象者，非接触。那是什么？“依胜论，使［*A* 与 *C*］发生关系的是空间：二者皆与空间连合，遂经其中介而彼此连合。空间，就是那把连合关系转化为传递关系的东西”（Bhaduri）。
   - id: 70
     kind: body
     source: |-
       This explanation has a problem. It assumes that between any two bodies there is a chain of touching material objects. But, given this assumption, we do not need to postulate a new substance with which everything is in contact, in order to create a transitive relation from contact. For we can define “being to the left of” thus: *x* is to the left of *y* iff there are distinct objects *p*, *q*, *r*,…*t* such that *x* is in contact with *p*, *p* is in contact with *q*, …, *t* is in contact with *y*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一解释有一个问题。它假设任何两个物体之间都有一串相触的物质对象。但给定这一假设，我们并不需要设定一个与一切事物相触的新实体来从接触造出传递关系。因为我们可以这样定义“在……之左”：*x* 在 *y* 之左，当且仅当存在不同对象 *p*、*q*、*r*、…*t*，使得 *x* 与 *p* 相触，*p* 与 *q* 相触，……，*t* 与 *y* 相触。
+    step2: |-
+      这一解释有一难处：它假设任意两物之间皆有一串相触的物质对象。但既取此假设，则无须再设定一个万物与之相触的新实体来把接触造成传递关系。因为“在……之左”可以这样定义：*x* 在 *y* 之左，当且仅当有互异的对象 *p*、*q*、*r*、…*t*，使 *x* 与 *p* 相触，*p* 与 *q* 相触，……，*t* 与 *y* 相触。
   - id: 71
     kind: body
     source: |-
       Potter (1977: 92) refines the argument. We say that *A* is nearer to *D* than to *F* because there are more intervening objects between *A* and *F* than there are between *A* and *D*. Suppose however that between *D* and *F* there is no chain of material objects. How is it that we can still say “*A* is nearer to *D* than to *F*”? Potter answers: “In order to provide the material to explain this comparative judgement we must postulate an intervening series of entities, and these must be spatial”. Note that this explains, not the transitivity of directional relations like “to the left of”, but rather the magnitude of distance relations like “near to”. “Near to” is not a transitive relation. It accepts the basic premise that the distance between two objects is measured in terms of the number of intervening entities, and postulates a series of “spatial entities” when there are no material ones present.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Potter（1977: 92）精炼了这一论证。我们说 *A* 距 *D* 比距 *F* 更近，是因为 *A* 与 *F* 之间的间隔对象多于 *A* 与 *D* 之间的间隔对象。然而假设 *D* 与 *F* 之间没有物质对象链。我们何以仍能说“*A* 距 *D* 比距 *F* 更近”？Potter 答：为了提供解释这一比较判断的材料，我们必须设定一个居间的实体序列，而这些实体必须是空间性的。注意，这解释的不是诸如“在……之左”这类方向关系的传递性，而是诸如“近于”这类距离关系的量级。“近于”不是传递关系。它接受两物之间的距离以居间实体的数目来度量这一基本前提，并在没有物质实体在场时设定一系列“空间实体”。
+    step2: |-
+      Potter（1977: 92）将论证再加锤炼。我们说 *A* 距 *D* 较距 *F* 为近，因为 *A* 与 *F* 之间的居间对象多于 *A* 与 *D* 之间者。然而设若 *D* 与 *F* 之间并无物质对象之链，我们何以仍能说“*A* 距 *D* 较距 *F* 为近”？Potter 的回答是：“要为这一比较判断提供解释材料，必须设定一个居间的实体序列，且这些实体必须是空间性的。”请注意：这解释的并非“在……之左”一类方向关系的传递性，而是“近于”一类距离关系的量级——“近于”并非传递关系。它接受“两物之距以居间实体之数来量”这一基本前提，并在物质实体缺席处设定一系列“空间实体”。
   - id: 72
     kind: body
     source: |-
       This explanation also has a problem, for space is supposed to be a single entity. Perhaps it should say that the two objects are in contact with a ‘segment’ of space, and spatial segments have magnitude.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一解释也有一个问题，因为空间被假定是单一实体。或许应当说：两个对象与空间的一个“片段”相触，而空间片段有大小。
+    step2: |-
+      此说亦有一难：空间本应是一个单一实体。或许应改口说：两物与空间的某个“片段”相触，而空间片段自有大小。
   - id: 73
     kind: body
     source: |-
       Perhaps the best way to construe the argument is as offering an explanation of spatial separation *without* having to postulate a series of mediating bodies. Thus, if *A* is nearer to *D* than *F*, and there is nothing either between *A* and *D* or between *A* and *F*, the best explanation is that *D* is in contact with a nearer part of space than *F*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      或许理解这一论证的最好方式，是把它看作提供了一种对空间分隔的解释而*不必*设定一系列中介物体。这样，如果 *A* 距 *D* 比距 *F* 更近，而 *A* 与 *D* 之间、*A* 与 *F* 之间都空无一物，那么最好的解释是：*D* 与空间的一个比 *F* 所触更近的部分相触。
+    step2: |-
+      最妥当的理解或许是：这一论证给出的是对空间分隔的解释，且*无须*设定一串中介物体。于是，若 *A* 距 *D* 较距 *F* 为近，而 *A* 与 *D* 之间、*A* 与 *F* 之间皆空无一物，则最佳解释是：*D* 所触的空间部分比 *F* 所触者更近。
   - id: 74
     kind: body
     source: |-
       *The Manual of Reason* says that space is ‘ubiquitous’ (*vibhu*), which it defines as ‘being in contact with every sample of earth, air, fire, water (and ‘mind’) (TS14). This raises the question: is space infinite in dimension, or the same size as the cosmos? If space is defined in terms of the relations between physical objects, then it would seem to have the same size as the cosmos. There are however Vaiśeṣika arguments that it is infinite. The Vaiśeṣikas say that most bodies are either ‘long’ (*dīrgha*) or ‘short’ (*hrasva*) in dimension (TS25, Bhaduri 1947: 118)[^bhaduri-1947], but that a body’s having ‘long’ or ‘short’ dimension is unintelligible unless it has bounding, perimeter parts. Space, however, has no parts and hence no boundary. Some Vaiśeṣikas conclude that space has no finite dimension (i.e. is infinite); others that it has a special dimension called ‘*paramadīrgha*’ or ‘maximal length’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》说空间是“遍在的”（*vibhu*），并将它定义为“与地、风、火、水（及‘意’）的每一份样品相触”（TS14）。这引出一个问题：空间在维度上是无限的，还是与宇宙同样大小？如果空间按物理对象之间的关系来定义，那么它似乎应与宇宙同大。然而也有胜论论证说空间无限。胜论者说，大多数物体在维度上要么“长”（*dīrgha*）要么“短”（*hrasva*）（TS25，Bhaduri 1947: 118）[^bhaduri-1947]，但一物有“长”或“短”之维，除非它有作为边界的周边部分，否则不可理解。然而空间没有部分，因而没有边界。一些胜论者由此断言空间没有有限维度（即无限）；另一些则说它有一种称为“*paramadīrgha*”（“极大长度”）的特殊维度。
+    step2: |-
+      《理性手册》称空间“遍在”（*vibhu*），并定义为“与地、风、火、水（及‘意’）的每一份样品相触”（TS14）。于是生一问：空间之维究竟无限，抑与宇宙同大？若空间以物理对象间关系来定义，则似应与宇宙同大。然而胜论自有论证空间无限者。胜论者说：大多数物体之维，或“长”（*dīrgha*）或“短”（*hrasva*）（TS25，Bhaduri 1947: 118）[^bhaduri-1947]；而一物之维若非有作为边界的周边部分，则其“长”“短”不可理解。空间却无部分，故无边界。于是一些胜论者断言空间没有有限之维（即无限）；另一些则谓其有一种名为“*paramadīrgha*”（“极大长度”）的特殊之维。
   - id: 75
     kind: body
     source: |-
       ### 3.2 Time (*kāla*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 时间（*kāla*）
+    step2: |-
+      ### 3.2 时间（*kāla*）
   - id: 76
     kind: body
     source: |-
       *The Manual of Reason* says of time that it is the ground for statements about the past, present and future, that it is unique, eternal and ubiquitous, and that it is the container of everything and a instrumental cause of every effect (TS15+D). The conception of time mirrors that of space: it is that in virtue of which statements of the form “A is earlier than B” are objectively true of false. Time is said to differ from space, and thus not be identical with it, in the following respect: whereas what is spatially near or far varies from person to person, what is temporally near or far is the same for all persons (cf. Bhaduri 1947, Mohanty 1992)[^bhaduri-1947][^mohanty-1992]. But why should we restrict our attention only to presently existing persons?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》论时间说：它是关于过去、现在与未来的陈述的根据；它唯一、永恒且遍在；它是一切的容器，也是每一结果的工具因（TS15+D）。时间的概念映照空间的概念：它是凭借其来“甲早于乙”这类陈述客观上为真或为假的东西。据说时间以下述方面区别于空间、因而与之不同一：空间上的远近因人而异，时间上的远近对所有人相同（参见 Bhaduri 1947、Mohanty 1992）[^bhaduri-1947][^mohanty-1992]。但我们为什么要把注意力只限于现下存在的人？
+    step2: |-
+      《理性手册》论时间：时间乃过去、现在、未来诸陈述之根据；它唯一、永恒而遍在；它是一切之容器，亦是每一结果的工具因（TS15+D）。时间概念映照空间概念：“甲早于乙”一类陈述，惟凭时间而客观地或真或假。据说时间在如下之点上有别于空间、因而不与之同一：空间之远近因人而异，时间之远近则人人相同（参见 Bhaduri 1947、Mohanty 1992）[^bhaduri-1947][^mohanty-1992]。但我们的注意力为何要仅限于现下存在的人？
   - id: 77
     kind: body
     source: |-
       In the *Nyāya-sūtra*, Gautama mentions an argument against the possibility of present time remarkably similar to (and perhaps even derived from) Nāgārjuna’s arguments against motion. NS 2.1.39 (paraphrased): There is no such thing as the present time, because, when an object is falling to the ground, each point on its descent belongs either to the already-traversed sector or to the yet-to-be-traversed sector. There is therefore, no point on the trajectory to which the present time can be attributed. The present time is an imaginary point of demarcation between the past and the future. Gautama replies (NS 2.1.40–42) to this by saying (i) that the concepts of ‘past’ and ‘future’ are relative to that of the ‘present’, and not to each other, and (ii) that the denial of the present has an absurd consequence, that nothing can be known perceptually, as perception functions in the present. The point of (i), perhaps, is that even if the present is just a boundary, it is not thereby imaginary.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《逻辑经》中，乔答摩提到一个否定现时之可能性的论证，它与龙树反运动的论证惊人地相似（或许甚至源自后者）。NS 2.1.39（转述）：并没有所谓现时这回事，因为当一物向地面下落时，其下落轨迹上的每一点要么属于已越过的区段，要么属于尚未越过的区段。因此轨迹上没有哪一点可以把现时归于其上。现时是过去与未来之间一个想象出来的分界点。乔答摩如此回应（NS 2.1.40–42）：（i）“过去”与“未来”概念相对于“现在”概念，而非彼此相对；（ii）否认现在会有荒谬的后果：由于知觉在现在中起作用，将没有任何东西可以被知觉地认识。（i）的要点或许是：即使现在只是一条边界，它也并不因此就是想象的。
+    step2: |-
+      《逻辑经》中，乔答摩提及一个否定“现时”可能性的论证，与龙树反运动诸论证惊人地相似（或者竟源自后者）。NS 2.1.39（意译）：并无“现时”其物——物坠向地面时，其下落轨迹上的每一点，或属已过之段，或属未至之段；故轨迹上无一点可归诸现时。现时不过是过去与未来之间想象中的分界点。乔答摩如此作答（NS 2.1.40–42）：（i）“过去”“未来”诸概念相对于“现在”概念，而非彼此相对；（ii）否认现在则生出荒谬后果——知觉既在现在中运作，便将一无所知。（i）的要旨或许在于：现在纵然只是一条边界，也并不因此即属想象。
   - id: 78
     kind: body
     source: |-
       ### 3.3 Vaiśeṣika Dynamical Theory: The Nature and Causes of Motion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 胜论动力学理论：运动的本质与原因
+    step2: |-
+      ### 3.3 胜论动力学理论：运动的本质与原因
   - id: 79
     kind: body
     source: |-
       Beginning with Praśastapāda (6ᵗʰ century C.E.), the early Vaiśeṣika authors took a rational and scientific interest in the behaviour of projectiles and other moving bodies. Their theory bears comparison with Philoponus’ “impetus” theory, which was responsible for a paradigm shift in Western scientific thought. *The Manual*’s account substantially agrees with that already found in Praśastapāda, which is partially traceable to the *Vaiseṣika-sūtra* itself. The content of the relevant stanzas can be summarized as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从普拉夏斯塔帕达（公元 6 世纪）开始，早期胜论作者们对抛射体及其他运动物体的行为表现出理性而科学的兴趣。他们的理论可与菲洛波努斯的“冲力”理论相比，后者引起了西方科学思想的范式转变。《理性手册》的叙述与普拉夏斯塔帕达已有的理论实质上一致，后者部分可追溯到《胜论经》本身。相关诗节的内容可总结如下：
+    step2: |-
+      自普拉夏斯塔帕达（公元 6 世纪）以降，早期胜论诸家对抛射体与其他运动物体之行为，显出理性而科学的兴味。其理论堪与菲洛波努斯的“冲力”说对读——后者曾引发西方科学思想的一场范式转移。《理性手册》所论与普拉夏斯塔帕达已有之说大体相合，而后者部分可溯至《胜论经》本身。相关诗节的内容可撮要如下：
   - id: 80
     kind: body
     source: |-
@@ -502,159 +686,221 @@ segments:
       > Weight (*gurutva*) is the non-inherent cause of the initial falling motion of a body (TS 30).
       >
       > Fluidity (*dravatya*) is the non-inherent cause of (initial?) flowing (TS 31).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 运动是连合与分离的非内居原因。它有五种：四种属意志的（上抛、下掷、收缩、扩张），第五种则包括一切非意志的运动（如下落、旋转、流动等）（TS 5, 81）。
+      >
+      > 重性（*gurutva*）是物体初始下落运动的非内居原因（TS 30）。
+      >
+      > 液性（*dravatya*）是（初始？）流动的非内居原因（TS 31）。
+    step2: |-
+      > 运动乃连合与分离之非内居因。运动有五：四者属意志（上抛、下掷、收缩、扩张），其五则统摄一切非意志运动（下落、旋转、流动等）（TS 5, 81）。
+      >
+      > 重性（*gurutva*）乃物体初始下落运动之非内居因（TS 30）。
+      >
+      > 液性（*dravatya*）乃（初始？）流动之非内居因（TS 31）。
   - id: 81
     kind: body
     source: |-
       ‘Impetus’ (*vega*) is a dispositional property (*saṃskāra*), as is ‘elasticity’ (*sthitisthāpaka*) (TS 80). ‘Impetus’ is the non-inherent cause of the second and subsequent falling motions of a body (TS 30). Elasticity is that which restores something to its original state after it has been distorted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “冲力”（*vega*）是一种倾向属性（*saṃskāra*），“弹性”（*sthitisthāpaka*）亦然（TS 80）。“冲力”是物体第二次及随后下落运动的非内居原因（TS 30）。弹性是某物在被扭曲之后将其恢复到原状的东西。
+    step2: |-
+      “冲力”（*vega*）是一种倾向属性（*saṃskāra*），“弹性”（*sthitisthāpaka*）亦然（TS 80）。“冲力”是物体第二次及其后诸次下落运动的非内居因（TS 30）。弹性者，物受扭曲后使之复归原状者。
   - id: 82
     kind: body
     source: |-
       Here is a brief summary of the theory. A moving body possesses, at each moment in time, a particular ‘motion’, which is to be thought of as a momentary, quality-like property of the body. Motions are defined to be the cause of conjunctions or disjunctions. A conjunction with a (stationary) body is brought about by displacement in space. We are thus to think of the motion of a body as being either identical with, or else the cause of, its displacement in space between two moments in time. A motion cannot be caused by another motion (as that would lead to perpetual motion). A body is set in motion by its possession of a quality like ‘weight’ or ‘fluidity’. It persists in motion by having a dispositional property, ‘impetus’ or ‘elasticity’, which is the continuous cause of subsequent motions. It is brought to rest by coming into contact with other objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以下是这一理论的简要总结。一个运动物体在每一时刻都拥有一种特定的“运动”，它应被设想为该物体的一种瞬时性的、类似性质的性质。运动被定义为连合或分离的原因。与一个（静止）物体的连合由空间中的位移带来。因此我们应当把物体的运动设想为：要么等同于它在两个时刻之间的空间位移，要么就是该位移的原因。运动不能由另一个运动引起（因为那会导致永恒运动）。物体因拥有诸如“重性”或“液性”之类的性质而被置入运动。它通过拥有一种倾向属性——“冲力”或“弹性”——而保持运动，后者是随后诸运动的持续原因。它通过与别的对象接触而归于静止。
+    step2: |-
+      兹将此论撮要如下。运动物体在每一时刻都具有一种特定的“运动”，此“运动”须想作物体瞬时性的、类似性质的性质。运动被定义为连合或分离之因。与（静止）物体之连合，由空间位移带来。故物体之运动，或即其两个时刻之间的空间位移本身，或为该位移之因。运动不能由另一运动致动（否则将陷于永恒运动）。物体之起动，由于其分有“重性”“液性”一类性质；其持行，则由于分有一种倾向属性——“冲力”或“弹性”——它是其后诸运动的持续之因；其止息，则由于与他物相触。
   - id: 83
     kind: body
     source: |-
       The role of ‘impetus’ in this account is particularly interesting. It is illustrated with reference to two examples: (i) a fruit falling from a tree; (ii) a javelin thrown obliquely upwards.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “冲力”在这一说明中的角色特别有趣。它通过两个例子来说明：（i）一棵树上落下的果实；（ii）斜向上方掷出的标枪。
+    step2: |-
+      “冲力”在此说中的地位尤其耐人寻味。以两例明之：（i）自树上坠落之果实；（ii）斜掷向上之标枪。
   - id: 84
     kind: body
     source: |-
       1. At time *t*₀ the fruit is stationary at place *s*₀. Its weight is counterbalanced by its contact with its stalk. At *t*₁, its stalk breaks and its weight causes it to move to point *s*₁. At this time too there is produced in the fruit a dispositional ‘impetus’. At *t*₂, the impetus in the fruit causes a second motion, from *s*₁ to *s*₂, and so on for all subsequent times. Note that the ‘weight’ of the fruit is the cause of its initial motion, but then ceases to be operative. The cause of all subsequent motion is the ‘impetus’ impressed into the fruit by the initial motion. It is this idea, that the subsequent motion of the fruit is the result, not of an external force, but of the internally impressed *vega*, which licenses us to describe the Vaiśeṣika account as an impetus theory.
       2. When the javelin is thrown, the initial volitional push imparts into the javelin an initial motion and an impetus. The upwards impetus counteracts the javelin’s weight and causes its upwards motion. When this impetus is exhausted by contact with the air, the javelin’s weight imparts a downwards impetus and the javelin falls. The horizontal motion of the javelin is caused by its having a horizontal impetus which again decreases as a result of contact with the air. The amount of impetus initially acquired by the javelin is proportional to the applied volitional push. Once again, its is the javelin’s having impetus, rather than the action of some external force, which accounts for its continued motion through the air.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 设时刻 *t*₀ 果实静止于位置 *s*₀。其重量与果柄的接触相抵。至 *t*₁，果柄断，其重量使之移动到点 *s*₁。此时果实中也产生了一种倾向性的“冲力”。至 *t*₂，果实中的冲力引起第二次运动，从 *s*₁ 到 *s*₂，其后诸时刻依此类推。注意，果实的“重量”是其初始运动的原因，但随后即不再起作用。此后一切运动的原因，是最初运动注入果实的“冲力”。正是这一观念——果实的后续运动不是外力所致，而是内注的 *vega* 之果——使我们有资格把胜论的说法称为冲力理论。
+      2. 标枪掷出时，最初的意志性推动把一种初始运动与一份冲力注入标枪。向上的冲力对抗标枪的重量并引起其向上运动。当这份冲力因与空气接触而耗尽时，标枪的重量注入一份向下的冲力，标枪遂落下。标枪的水平运动由其拥有的水平冲力引起，该冲力又因与空气接触而衰减。标枪最初获得的冲力之量，与所施的意志性推动成正比。再一次，是标枪之拥有冲力——而非某个外力的作用——解释了它在空气中的持续运动。
+    step2: |-
+      1. 设时刻 *t*₀ 果实静止于位置 *s*₀，其重量与果柄之接触相抵。至 *t*₁，果柄折断，重量使其移至点 *s*₁；与此同时，果实中生出一种倾向性的“冲力”。至 *t*₂，果实中的冲力引发第二次运动，自 *s*₁ 至 *s*₂；其后诸时刻，依此类推。请注意：果实的“重量”是其初始运动之因，然随即失效；此后一切运动之因，是最初运动注入果实的“冲力”。正因这一观念——果实之续行非外力所致，而系内注之 *vega*——我们才有资格称胜论之说为冲力说。
+      2. 标枪掷出之际，最初的意志性推动将一份初始运动与一份冲力注入枪身。向上之冲力抗其重量，引发向上运动；此冲力因与空气接触而耗尽，重量遂注入一份向下之冲力，标枪乃坠。其水平运动由水平冲力所致，而此冲力亦因与空气接触而递减。标枪最初所得冲力之量，与所施意志推动成正比。仍是同一要点：标枪之持续飞行，系于其持有冲力，而非外力之作用。
   - id: 85
     kind: body
     source: |-
       The Vaiśeṣikas extend this model to explain certain other kinds of motion. (1) The initial cause of the flowing of water is alleged to result from a force called ‘fluidity’ (rather than the weight of the water). The subsequent flowing is the result of the water’s acquired impetus. (2) Interestingly, the impetus of a body moving in a straight line was thought to be ontologically of the same type as the elasticity of a bent stick—a fact which reveals that impetus was thought of as a kind of internal force, not as inertia. (3) The Vaiśeṣikas mention various other kinds of motion: the movement of an iron needle towards a magnet, the upward motion of flames, the movement of air, and the initial motion of the atoms at the beginning of creation. Given the above model, there must be some ‘force’ which initially gives rise to each of these motions, yet none of the ‘forces’ so far isolated (weight/gravity, fluidity, elasticity) will do. The Vaiśeṣikas therefore speak of a new force, ‘*adṛṣṭa*’ (the ‘unseen’ force), alleged to account for such motions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      胜论者把这一模型扩展到解释某些其他种类的运动。（1）据说水流的初始原因来自一种称为“液性”的力（而非水的重量）。其后的流动是水获得的冲力的结果。（2）有趣的是，直线运动物体的冲力被认为在本体论上与弯棍的弹性属于同一类型——这一事实表明冲力被想作一种内部之力，而非惯性。（3）胜论者提到其他各种运动：铁针向磁铁的运动、火焰的向上运动、空气的运动，以及创造之始极微的初始运动。按上述模型，必当有某种“力”最初引发这些运动，然而迄今分离出的“力”（重性/重力、液性、弹性）没有一个够用。因此胜论者说及一种新的力，“*adṛṣṭa*”（“不可见”之力），据称能解释这些运动。
+    step2: |-
+      胜论者将此模型推广以解释另一些运动。（1）据称，水流之初始因出自一种名为“液性”之力（而非水之重量）；其后续流动，则是水所获冲力之果。（2）耐人寻味者：直线运动物体之冲力，被认为在本体论上与弯棍之弹性同属一类——此足见冲力被想作一种内力，而非惯性。（3）胜论者另举诸种运动：铁针趋向磁石、火焰上腾、空气流动，以及创造之始极微的初始运动。按上述模型，诸运动之初必有一“力”引发之；然迄今所分离出的“力”（重性/重力、液性、弹性）皆不足以当之。故胜论者另立一力——“*adṛṣṭa*”（“不可见”之力）——据称可解释此类运动。
   - id: 86
     kind: body
     source: |-
       ## 4. Selves: Human and Divine
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 自我：人与神
+    step2: |-
+      ## 4. 自我：人与神
   - id: 87
     kind: body
     source: |-
       The eighth of the nine Vaiśeṣika types of substance is ‘self’ (*ātman*), defined as the substratum of mental states such as believing, knowing, etc. (The ninth is ‘mind’ (*manas*), a distinct element in the ontology of the mental.) Selves are divided into two types—human (*jīva*) and divine (*paramātman; īśvara*). *The Manual of Reason* supplies arguments (all traceable back to earlier authors) for the existence of both types of self.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      胜论九种实体中的第八种是“自我”（*ātman*），定义为相信、认知等心灵状态的基底。（第九种是“意”（*manas*），心灵存在论中的一个独特要素。）自我分为两类——人的自我（*jīva*）与神圣的自我（*paramātman；īśvara*）。《理性手册》为两类自我的存在提供了论证（皆可追溯到更早的作者）。
+    step2: |-
+      胜论九实之第八为“自我”（*ātman*），定义为相信、认知等心灵状态的基底。（第九实为“意”（*manas*），乃心灵存在论中一独特要素。）自我分两类——命我（*jīva*）与最高我（*paramātman；īśvara*）。《理性手册》为两类自我的存在都给出了论证（皆可上溯至更早的作者）。
   - id: 88
     kind: body
     source: |-
       ### 4.1 A Causal Argument for God’s Existence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 神存在的一个因果论证
+    step2: |-
+      ### 4.1 神存在的一个因果论证
   - id: 89
     kind: body
     source: |-
       A properly formulated Nyāya argument has three components: thesis, reason (*hetu*) and example (*dṛṣṭānta*). The thesis, again, has two components: the ‘locus’ (*pakṣa*) or place of the inference, and a property (*sādhya*) whose presence in the locus is to be inferred. Thus every Nyāya argument exhibits the same pattern: *p* has *S*, because it has *H*; e.g., *d*. (For example: “The mountain ( = *p*) has fire (= *S*), because it has smoke ( = *H*); e.g. the kitchen ( = *d*)”. See further §8). A sound argument must fulfil at least three criteria: (i) the reason property must be uncontroversially present in the locus; (ii) the reason property and the inferred property must be appropriately related, roughly such that wherever the reason is present, so is the inferred property; (iii) the example must be an uncontroversial place where both the reason property and the inferred property are present.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个恰当构造的正理论证有三个成分：宗（论题）、因（*hetu*）与喻例（*dṛṣṭānta*）。宗又有两个成分：推理的“处所”（*pakṣa*），以及一个性质（*sādhya*，所立），其在该处所中的在场是有待推断的。于是每个正理论证都呈现同一模式：*p* 有 *S*，因为它有 *H*；例如 *d*。（例如：“山（= *p*）有火（= *S*），因为它有烟（= *H*）；例如厨（= *d*）”。进一步见 §8）。一个健全的论证必须至少满足三条标准：（i）因性质必须无可争议地存在于处所；（ii）因性质与所推断性质必须恰当地关联，大致说来即凡因在处所必有性质亦在；（iii）喻例必须是一个因性质与所推断性质都在场的无可争议之处。
+    step2: |-
+      一个合式的正理论证含三个成分：宗、因（*hetu*）与喻例（*dṛṣṭānta*）。宗又含两分：推理的“处所”（*pakṣa*），与一所立性质（*sādhya*）——有待推断其现于处所者。故每一正理论证皆呈同一格式：*p* 有 *S*，因其有 *H*；例如 *d*。（例：“山（= *p*）有火（= *S*），因其有烟（= *H*）；例如厨（= *d*）”。详 §8）。合理论证至少须满足三条：（i）因性质须无可争议地现于处所；（ii）因性质与所立性质须适当关联——大略即因所在处，所立必在；（iii）喻例须是一处因、所立二性皆在而无争议之地。
   - id: 90
     kind: body
     source: |-
       With this in mind, let us consider *The Manual of Reason*’s argument for the existence of God:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      记住这一点，让我们来看《理性手册》关于神存在的论证：
+    step2: |-
+      心怀此则，且看《理性手册》论神存在之证：
   - id: 91
     kind: body
     source: |-
       > A dyad of earth etc. has a maker, because it is an effect; e.g. a pot (TSD 17b).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 地等二微有作者，因为它是果；例如壶（TSD 17b）。
+    step2: |-
+      > 地等二微有作者，以其为果故；例如壶（TSD 17b）。
   - id: 92
     kind: body
     source: |-
       Here, the locus of the inference is a dyad, the smallest composite entity. The reason is “being an effect” (*kāryatva*), and the inferred property is “having a maker” (*kartṛ-janyatva*). *The Manual of Reason* carefully defines what it means by a ‘maker’: a thing which is non-inferentially aware of the inherent or material cause of the thing to be made, has a desire to make it, and acts accordingly. In this sense, the potter, but not the potter’s wheel or the clay or any other causally relevant feature, is the maker of the pot, for it is the potter who sees the clay (= material cause of the pot), desires to make a pot, and acts accordingly by using the wheel and stick.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里，推理的处所是二微，即最小的复合实体。因是“是一果”（*kāryatva*），所推断性质是“有作者”（*kartṛ-janyatva*）。《理性手册》仔细定义了“作者”的含义：一个非推断地觉知到待造之物的和合因或质料因、有造它的愿望、并据此行动的东西。在这个意义上，陶工——而非陶轮或陶土或任何其他因果相关要素——是壶的作者，因为是陶工看见陶土（= 壶的质料因）、想造壶，并相应地使用轮与棍而行动。
+    step2: |-
+      此处推理的处所是二微——最小的复合实体。因是“果性”（*kāryatva*），所立是“有作者性”（*kartṛ-janyatva*）。《理性手册》细释“作者”之义：所谓作者，乃非推断地觉知待造之物之和合因或质料因、怀造之之欲、且依之而行者。在此意义上，唯陶工——而非陶轮、陶土或任何其他因果相关者——是壶之作者：唯陶工见陶土（= 壶之质料因），怀造壶之欲，并操轮持棍而行。
   - id: 93
     kind: body
     source: |-
       Comments: (1) Why does *The Manual of Reason* take dyads to be the locus of the inference? This is, in fact, a clever move. Obviously, we cannot take God to be the locus (e.g. God exists, because…), for then the first criterion on a sound inference will not be met—the reason property, whatever it is, cannot be uncontroversially present in a locus whose very existence is controversial. We can’t take the locus to be “everything in the world”, for many such things are not effects (e.g. atoms, space) and so *The Manual of Reason*’s desired reason will again not be unequivocally present in the locus. Hence, we must pick some particular thing. We had better not choose a human artefact, for the inference, even if sound, would then establish nothing about God. From the class of non-artefacts, the choice of dyads is a good one here, for (a) they are the most basic things made out of the atoms, and hence out of which everything else is made, and (b) if *The Manual of Reason* can show that these have a maker, then it follows that the maker is aware of everything (from the definition of a maker and (a) above). Thus, God’s omniscience will be a corollary of the proof of his existence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      评注：（1）《理性手册》为何取二微为推理的处所？这实际上是一步妙棋。显然，我们不能取神为处所（如“神存在，因为……”），否则健全推理的第一条标准就无法满足——无论因性质是什么，它都不可能无可争议地存在于一个其存在本身就有争议的处所中。我们也不能取“世界中的一切”为处所，因为许多这类东西不是果（例如极微、空间），于是《理性手册》想要的因又将不会明确无疑地存在于处所中。因此，我们必须挑选某个特定事物。最好不要选人造物，因为那样一来，即使推理健全，也确立不了任何关于神的东西。在非人造物一类中，选二微是好的，因为（a）它们是由极微构成的最基本的东西，其他一切皆由之构成；（b）如果《理性手册》能表明它们有作者，那么（据作者的定义与上述（a））便可推出作者觉知一切。于是，神的全知将成为其存在证明的推论。
+    step2: |-
+      评注：（1）《理性手册》何以取二微为推理处所？此实为妙着。显然，处所不可取神（如“神存在，因为……”）——否则合理论证第一条即不满足：无论因性质为何，皆不可能无可争议地现于一个存在本身有争议的处所。处所亦不可取“世界中的一切”——其中许多并非果（如极微、空间），《理性手册》所求之因又将不能明确无疑地现于处所。故必须择一特定之物。人造物则不宜取——如此即使推理健全，也确立不了关于神的任何东西。于非人造物一类中，取二微为佳：（a）二微乃极微所成之最基本者，余物皆由之而成；（b）《理性手册》若能证二微有作者，则（据作者定义与上述（a））即可推出作者觉知一切。神之全知，遂为其存在证明之系论。
   - id: 94
     kind: body
     source: |-
       (2) The argument takes the picture of causation used in the “potter-pot” example and extends it to cover all natural phenomena. God’s function is to make things out of the given and uncreated ingredients (the atoms, cf. the clay), which are the products’ material cause. Matilal accordingly describes the Nyāya as having a “potter model” of God, in contrast with a “spider model”, in which God spins the world out of his own essence, or a “magician” model, in which the world is an illusion conjured up by God. The argument, however, rests upon an anthropomorphic and agentive view of causation. The Buddhist Dharmakīrti ridiculed the argument by likening the pot to an anti-hill (another thing made of clay): should we say that this admittedly complex and intricate construction is the product of intelligent agents? And even if we do, why should not the world, like an ant-hill be a product of collective agency, rather than produced by a single agent?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （2）这一论证取“陶工—壶”例中所用的因果图景，并把它扩展到覆盖一切自然现象。神的职能是用给定的、未被创造的原材料（极微，比之于陶土）造出万物，而极微就是产物的质料因。Matilal 由此把正理派描述为持有一种“陶工模型”的神，与“蜘蛛模型”相对——在后者中神用自己的本质纺出世界；也与“魔术师模型”相对——在后者中世界是神变出的幻象。然而，这一论证倚重一种拟人的、行动者式的因果观。佛教徒法称嘲弄了这一论证：把壶比作蚁丘（另一种陶土所造之物）：我们应当说这个公认复杂精巧的构造是理智行动者的产物吗？即使我们这么说，世界为什么就不能像蚁丘一样是集体行动的产物，而非由单一行动者所造呢？
+    step2: |-
+      （2）此论证取“陶工—壶”例的因果图景，并将其推广以涵盖一切自然现象。神之职分，是以既定而非受造的原材料（极微，比之于陶土）造物，而原材料即产物之质料因。Matilal 因此称正理派持一种关于神的“陶工模型”，以别于“蜘蛛模型”——彼处神以自身本质纺出世界——亦别于“魔术师模型”——彼处世界是神变出的幻象。然而此论证立基于一种拟人的、行动者式的因果观。佛教法称即以此相讥：壶可比于蚁丘（同为陶土所成）；我们可否说，此公认繁复精巧的构造乃理智行动者之产物？纵使可说，世界为何不能如蚁丘一般为集体行动之产物，而非出于单一行动者之手？
   - id: 95
     kind: body
     source: |-
       (3) The argument might be thought of as an argument based on induction, induction from the class of artefacts to the class of natural products. What licenses the induction from things seen to have a maker to things not so seen? Dharmakīrti (cf. Vattanky 1984: 56–8)[^vattanky-1984] says that we are licensed to infer that an object has a maker only if we have seen other objects of the same type being made. Thus, we can infer that the Pyramids had a maker, not because we can see that maker, but because the Pyramids belong to a type (buildings) other instances of which we have seen made. The Naiyāyika makes a bolder inductive claim, that two object belong to the same ‘type’, in this sense, if they are both effects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （3）这一论证或许可视为一个基于归纳的论证：从人造物一类到自然产物一类的归纳。是什么使从被见过有作者之物到未被如此见过之物的归纳合法化？法称（参见 Vattanky 1984: 56–8）[^vattanky-1984]说，只有当我们见过同类型的其他对象被制造时，我们才有资格推断一个对象有作者。因此，我们可以推断金字塔有作者，不是因为我们能看见那位作者，而是因为金字塔属于一个类型（建筑物），其另一些实例我们见过被制造。正理论者则作出一个更大胆的归纳主张：两个对象属于同一“类型”——在此意义上——如果它们都是果。
+    step2: |-
+      （3）此论证亦可视为一种归纳论证：自人造物一类推及自然产物一类。然则何者授权这一归纳——自曾见其有作者之物，推及未曾如此见过之物？法称（参见 Vattanky 1984: 56–8）[^vattanky-1984]言：唯当吾人见过同类型之他物被造，方有资格推断此物有作者。故可推断金字塔有作者——非因吾人能见其作者，而因金字塔属某类型（建筑），其同类实例吾人曾见其被造。正理论者所立归纳主张更大胆：二物同属一“类型”——在此意义上——若其皆为果。
   - id: 96
     kind: body
     source: |-
       ### 4.2 An Argument for the Existence of the Human Self
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 人我存在的一个论证
+    step2: |-
+      ### 4.2 人我存在的一个论证
   - id: 97
     kind: body
     source: |-
       Vaiśeṣika defines the human self as the substratum of such psychological qualities as believing, etc., as well as of happiness and other emotions, which God does not have. There is an implicit appeal, here too, to the “potter” model of causation: just as, in the sentence “The potter makes the pot”, the property “….making the pot” resides in the potter, so too in “I believe that *p*”, the property “….believes that *p*” resides in me. Given that the self is defined as that substance, whichever it is, in which a person’s psychological qualities reside, the question is whether we can identify this substance as a physical one, for example, the person’s body or their senses, or whether we must postulate some new type of substance. Vaiśeṣika’s argument for the existence of the self as a new substance is by elimination of two rival candidates.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      胜论把人的自我定义为诸如相信等心理性质——以及神所不具有的快乐与其他情感——的基底。这里同样隐含地诉诸“陶工”式因果模型：正如在“陶工造壶”一句中，“……造壶”这一性质居于陶工，在“我相信 *p*”中，“……相信 *p*”这一性质居于我。鉴于自我被定义为一个人的诸心理性质居于其中的那个实体——无论它是什么——问题便是：我们能否把这个实体认定为一个物理实体，例如人的身体或其诸感官，还是必须设定某种新类型的实体。胜论关于自我作为一种新实体存在的论证，是通过排除两个竞争候选者而进行的。
+    step2: |-
+      胜论定义人我为“相信”等心理性质之基底，亦为快乐及其他情感——神所不具者——之基底。此处同样暗暗诉诸“陶工”因果模型：如“陶工造壶”一句中“……造壶”之性居于陶工，“我相信 *p*”一句中“……相信 *p*”之性亦居于我。自我既被定义为一人诸心理性质所居之实体——不论其为何——则问题便是：此实体能否认作物理实体，如人之身体或诸感官；抑或必须设定某种新型实体。胜论证自我为一种新实体之存在，所用者乃排除二竞争候选者之法。
   - id: 98
     kind: body
     source: |-
       (1) The substratum of beliefs, etc. is the person’s body. *The Manual of Reason* makes the case for this as follows: If I say, “I am cold”, “I am running”, it is my body to which the predicate applies. Therefore, when I say “I believe that *p*”, the subject likewise is my body. *The Manual*’s reply is that if this were true, then
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （1）信念等的基底是这个人的身体。《理性手册》如此陈述这一主张的理由：如果我说“我冷”“我在跑”，谓词所适用的是我的身体。因此，当我说“我相信 *p*”时，主语同样是我的身体。《理性手册》的回答是：如果这是真的，那么
+    step2: |-
+      （1）信念等之基底为人之身体。《理性手册》如此立论：若吾言“我冷”“我在跑”，谓词所施于者，吾身也。故吾言“我相信 *p*”时，主语亦当为吾身。《理性手册》的回应是：若果真如此，则
   - id: 99
     kind: body
     source: |-
       > there would be the difficulty that with the destruction of a hand, a foot, etc., there will be the destruction of the body and it will follow that there will also be the destruction of the self.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 会有这样的困难：手、脚等毁坏时身体即毁坏，从而也将推出自我随之毁坏。
+    step2: |-
+      > 便有此难：手、足等毁，则身毁；随之将推出自我亦毁。
   - id: 100
     kind: body
     source: |-
       Clearly, I can lose part of my body without ceasing to believe and know things. But losing part of my body does not entail losing my body, as a whole. So this argument fails. A better argument is found in the *Nyāya-sūtra*: the very phrase “my body” shows that I am not identical with my body. But this doesn’t work either, for I can also say “my soul”! There is no clear argument against physicalism here.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显然，我可以失去身体的一部分而不停止相信和认识事物。但失去身体的一部分并不蕴涵失去整个身体。所以这一论证失败。《逻辑经》中有一个更好的论证：“我的身体”这一说法本身就表明我不等同于我的身体。但这也行不通，因为我也可以说“我的灵魂”！这里并没有反对物理主义的清晰论证。
+    step2: |-
+      显然，人可失去身体之一部分而仍持其信念与认知。然失身之一部分，不等于失其全身。故此证不立。《逻辑经》中另有一证较佳：“我的身体”一语本身即示吾人与吾身并非同一。然此证亦不灵：吾人亦可言“我的灵魂”！此处并无反对物理主义的明确论证。
   - id: 101
     kind: body
     source: |-
       (2) The substratum of beliefs etc. is the person’s sense-faculties [recall that every physical substance was divided into three: pertaining to body, sense-faculty, and (inanimate) object]. This rather strange claim might be taken to include the view of the Buddhists, that a person is reducible to a stream of momentary mental events, including sense-data etc. *The Manual of Reason*’s argument against such a view (a repetition of an argument already found in the *Nyāya-sutra*) is a strong one:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （2）信念等的基底是这个人的感官官能［回想一下：每种物理实体都被分为三类：属于身体的、属于感官官能的与（无生命的）对象的］。这一相当奇怪的主张或许可以涵盖佛教徒的观点，即一个人可以还原为一串刹那的心灵事件，包括感觉材料等。《理性手册》反对这种观点的论证（是对《逻辑经》中已有论证的重复）是有力的：
+    step2: |-
+      （2）信念等之基底为感官官能［试忆：每一物理实体曾分三类——属身体者、属感官者与（无生命）对象者］。此说颇为奇特，或可涵盖佛教徒之观点：人可还原为一串刹那心识事件，感觉材料等亦在其列。《理性手册》反对此种观点的论证（乃《逻辑经》中已有论证之重述）颇为有力：
   - id: 102
     kind: body
     source: |-
       > Were this the case, there would be no re-identifying awareness (*anusandhāna*), e.g. “I who saw that pot am now touching it”, for there cannot be any recognition by one of what is apprehended by another.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 若果真如此，就不会有再认统觉（*anusandhāna*），例如“我，那看见那只壶的人，现在正触摸它”；因为一个人不可能认识到另一个人所把握的东西。
+    step2: |-
+      > 若果真如此，则再认统觉（*anusandhāna*）将不复可能——如“我，曾见彼壶者，今正触之”——盖一人所能认取者，必其自所领受，不能认取他人之所领受。
   - id: 103
     kind: body
     source: |-
       The idea here is that the possibility of recognitive experience presupposes the existence of a unitary enduring self. There are really two arguments compressed here. One is this: I cannot *remember* an object unless I have seen it earlier—I cannot remember what you have seen (cf. Locke’s account of personal identity in terms of a continuity of memory experiences). The other argument is more intricate. The Abhidharma Buddhist claims that a person is just an aggregate of experiences, some visual, some tactile, etc. The problem raised for such an account by the Naiyāyika is that it is possible to make trans-modality judgements, in which the deliverances of one sense-faculty are compared with another. Suppose that *V*(*o*₁) is a visual experience of an object *o*₁, and *T*(*o*₂) is a tactile experience of an object *o*₂. It is possible to judge “*o*₁ = *o*₂”, but this judgement does not belong to the sphere of any one sense-faculty. Hence, it must be located in some other substance. The self is here conceived of as that which collates, organises and compares the deliverances of the individual senses. See Ganeri 2012, chapters 11, 15, 16 for an expanded discussion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里的想法是：再认经验的可能性以一个统一而持存的自我的存在为前提。这里实际上压缩了两个论证。一个是：我不能*记忆*一个对象，除非我早先见过它——我不能记住你所见的东西（参见洛克以记忆经验的连续性说明人格同一性）。另一个论证更为复杂。阿毗达磨佛教徒主张一个人只是一束经验的聚合，有些是视觉的，有些是触觉的，等等。正理论者对这种说法提出的问题是：跨模态判断是可能的，在其中一种感官官能的给予被拿来与另一种比较。设 *V*(*o*₁) 是对对象 *o*₁ 的一个视觉经验，*T*(*o*₂) 是对对象 *o*₂ 的一个触觉经验。可以判断“*o*₁ = *o*₂”，但这一判断不属于任何单一感官官能的领域。因此，它必须定位于其他某个实体之中。自我在这里被构想为校勘、组织并比较诸个别感官之给予的东西。扩充的讨论见 Ganeri 2012 第 11、15、16 章。
+    step2: |-
+      此处要旨：再认经验之所以可能，预设了一个统一而持存之自我。实为两证合于此处。其一：我无法*忆起*一物，除非早先见过——你所见者我无从忆起（比照洛克以记忆经验之连续论人格同一）。其二较曲折：阿毗达磨佛教徒主张人只是经验之聚合，或视觉或触觉等等。正理论者就此诘难：跨模态判断实有可能——以一感官之所得与他者相较。设 *V*(*o*₁) 为对对象 *o*₁ 之视觉经验，*T*(*o*₂) 为对对象 *o*₂ 之触觉经验；则“*o*₁ = *o*₂”之判断可能，而此判断不属任何单一感官之辖域。故必另有一实体为其安放之处。自我于此被想作那个校核、整理并比较诸感官所得者。扩展讨论见 Ganeri 2012 第 11、15、16 章。
   - id: 104
     kind: body
     source: |-
       This is a convenient place at which to introduce the last of the nine substances, the ‘mind’ (*manas*). It is defined by *The Manual of Reason* (TS18) as a sixth sense-faculty, one by which a person ‘perceives’ their inner mental objects (beliefs, pleasure sensations etc.) In other words, it is a faculty of introspection. Naturally, we need an argument why this faculty cannot be identified as belonging to the self, and the usual Nyāya claim is that the self is the agent of cognising, while the mind is an instrument for cognising, just as we must distinguish between the axe-man, who is the agent chopping the tree, and the axe, which is the instrument for chopping. The Nyāya also claim that the mind has another function, which is to ‘switch’ between the different sense-faculties, it being assumed that, while we are being subjected to sense-impressions from different faculties simultaneously, we only attend to one at a time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里正好方便地引入九种实体中的最后一种：“意”（*manas*）。《理性手册》（TS18）把它定义为第六种感官官能，一个人借此“感知”其内在心灵对象（信念、快感感受等）。换言之，它是一种内省官能。自然，我们需要一个论证说明这一官能为何不能被认定为属于自我；正理派的通行主张是：自我是认知的行动者，而意是认知的工具，正如我们必须区分伐木的行动者（斧夫）与作为砍伐工具的斧。《理性手册》还主张意有另一功能：在不同感官官能之间“切换”——其假设是：虽然我们同时受到来自不同官能的感官印象，我们一次只注意其中之一。
+    step2: |-
+      于此正宜引入九实之最后一实：“意”（*manas*）。《理性手册》（TS18）定义为第六种感官官能——人借以“知觉”其内在心灵对象（信念、乐受等）者。换言之，即内省之官能。当然，还须论证此官能为何不可归属于自我；正理派通行之说为：自我乃认知之行动者，意乃认知之工具，一如伐木之行动者（执斧者）与砍伐之工具（斧）必须分清。正理派又谓意另有一职：于诸感官官能之间“切换”——其预设为：吾人虽同时受诸官能之感官印象，一次却只注意其一。
   - id: 105
     kind: body
     source: |-
       *The Manual of Reason* (TS 79) says that eight of the Vaiśeṣika qualities reside only in the self, and in no other substance. They are cognition, memory, pleasure or happiness (*sukha*), pain or unhappiness (*duḥkha*), desire (*icchā*), aversion (*dveṣa*), merit (*dharma*) and demerit (*adharma*) (TS 73–78). The first two we will discuss later (§§ 5.2–3). As regards happiness and unhappiness, Matilal (1986: 301), summarizes the Vaiśeṣika view when he says that “the essential characteristic of pleasure or happiness consists in its being experienced as favourable to us or being in accord with us, i.e. with our body or mind or our very existential situation (*anukūla*)”, which makes it distinct from knowing or perceiving or apprehending something, and that it is an “inner disposition on account of which the external world becomes agreeable or desirable”. Desire is the state of craving for something. Merit is that which is produces by meritorious action (*karma*). See further Ganeri 2012, chapters 13, 14.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》（TS 79）说，胜论诸性质中有八种只居于自我，不居于其他实体：认知、记忆、乐或快乐（*sukha*）、苦或不快乐（*duḥkha*）、欲（*icchā*）、瞋（*dveṣa*）、功德（*dharma*）与不功德（*adharma*）（TS 73–78）。前两者我们稍后讨论（§§ 5.2–3）。关于乐与不乐，Matilal（1986: 301）总结了胜论的观点：乐或快乐的本质特征“在于它被体验为对我们有利、与我们相合——即与我们的身体、心意或我们的生存境况相合（*anukūla*）”，这使它区别于认知、知觉或把握某物；它又是一种“内在倾向，由于它外部世界变得宜人或可欲”。欲是对某物的渴求状态。功德是有功德的行为（*karma*）所产生者。进一步见 Ganeri 2012 第 13、14 章。
+    step2: |-
+      《理性手册》（TS 79）：胜论诸性质中有八种唯居于自我，不居他实：认知、忆、乐（*sukha*）、苦（*duḥkha*）、欲（*icchā*）、瞋（*dveṣa*）、功德（*dharma*）与非功德（*adharma*）（TS 73–78）。前二者后文另论（§§ 5.2–3）。至于乐与不乐，Matilal（1986: 301）撮述胜论之说：乐之为乐，其本质特征“在于被体验为有利于我、与我相合——即与吾身、吾心或吾人生存境况相合（*anukūla*）”，故别于认知、知觉或领受某物；又为一种“内在倾向，外间世界因之而宜人可欲”。欲者，渴求某物之状态。功德者，有善德之行为（*karma*）所生者。详见 Ganeri 2012 第 13、14 章。
   - id: 106
     kind: body
     source: |-
