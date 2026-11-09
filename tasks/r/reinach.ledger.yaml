@@ -1,0 +1,555 @@
+version: 1
+slug: reinach
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Adolf Reinach was a leading representative of so-called “realist” phenomenology. So pivotal was his role in shaping the early phases of the phenomenological movement that many young scholars saw in Reinach their real teacher in phenomenology. Although his life was tragically cut short at the age of 34 in 1917, Reinach’s production is remarkably wide and diverse in its thematic breadth, touching on issues of relevance to general ontology, philosophy of mind and action, philosophy of law, philosophy of language, philosophy of physics, philosophy of religion, and other disciplines. Lucidly clear, profoundly insightful, and precisely argued, Reinach’s contributions represent some of the best results that can be achieved through the phenomenological approach to philosophizing.
+    step1: |-
+      阿道夫·莱纳赫（Adolf Reinach）是所谓“实在论”现象学的一位主要代表人物。他在塑造现象学运动早期阶段中的作用如此关键，以至于许多年轻学者在莱纳赫身上看到了自己真正的现象学老师。尽管他的生命于 1917 年在 34 岁时不幸中断，莱纳赫的著述在主题广度上却异常宽广而多样，涉及与一般本体论、心灵哲学与行动哲学、法哲学、语言哲学、物理学哲学、宗教哲学以及其他学科相关的问题。莱纳赫的贡献清晰明澈、洞见深刻、论证精确，代表着通过现象学进路从事哲学思考所能取得的一些最佳成果。
+    step2: |-
+      阿道夫·莱纳赫（Adolf Reinach）是所谓“实在论”现象学的主要代表人物之一。他在现象学运动早期所起的作用至为关键，许多年轻学者因此把莱纳赫看作自己真正的现象学老师。1917 年，莱纳赫年仅 34 岁便不幸殒命，但其著述的主题之广、取材之杂却十分惊人，涉及一般本体论、心灵哲学与行动哲学、法哲学、语言哲学、物理学哲学、宗教哲学等学科的种种问题。他的文字清朗明澈、洞见深刻、论证精审，堪称现象学式哲学思考所能达到的上乘成果。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      Adolf Reinach was born into a prominent Jewish family in Mainz, Germany in 1883. In 1901 he enrolled at the Ludwig Maximilian University in Munich to study law, psychology, and philosophy. Four years later he submitted his dissertation, which was entitled *On the Concept of Causality in the Criminal Code*, and written under the direction of Theodor Lipps. During this time, Reinach joined the *Academic Society for Psychology*—a group of young philosophers who gravitated around Lipps. This group included Johannes Daubert, Alexander Pfänder, Theodor Conrad, Moritz Geiger, among many others. In 1909 Reinach moved to Göttingen, where he completed his Habilitation on *Essence and Systematics of Judgment* under Edmund Husserl’s sponsorship. During his years in Göttingen, Reinach inspired and influenced the so-called Munich and Göttingen Circles of Phenomenology.
+    step1: |-
+      阿道夫·莱纳赫 1883 年生于德国美因茨一个显赫的犹太家庭。1901 年，他进入慕尼黑路德维希—马克西米利安大学学习法律、心理学与哲学。四年后，他在西奥多·李普斯（Theodor Lipps）指导下提交了学位论文，题为《论刑法典中的因果性概念》。在此期间，莱纳赫加入了“心理学学会”——这是一个聚集在李普斯周围的青年哲学家团体。该团体成员包括约翰内斯·道伯特（Johannes Daubert）、亚历山大·普凡德尔（Alexander Pfänder）、特奥多尔·康拉德（Theodor Conrad）、莫里茨·盖格（Moritz Geiger）等许多人。1909 年，莱纳赫迁往哥廷根，在埃德蒙德·胡塞尔（Edmund Husserl）的提携下以《判断的本质与系统学》完成教授资格论文。在哥廷根的岁月里，莱纳赫启发并影响了所谓慕尼黑与哥廷根现象学圈。
+    step2: |-
+      1883 年，阿道夫·莱纳赫生于德国美因茨一个显赫的犹太家庭。1901 年他进入慕尼黑路德维希—马克西米利安大学，学习法律、心理学与哲学。四年后，他提交了学位论文《论刑法典中的因果性概念》，导师是西奥多·李普斯（Theodor Lipps）。这一时期，莱纳赫加入了“心理学学会”，那是聚集在李普斯周围的一批青年哲学家，成员有约翰内斯·道伯特（Johannes Daubert）、亚历山大·普凡德尔（Alexander Pfänder）、特奥多尔·康拉德（Theodor Conrad）、莫里茨·盖格（Moritz Geiger）等许多人。1909 年莱纳赫迁居哥廷根，在埃德蒙德·胡塞尔（Edmund Husserl）的提携下，以《判断的本质与系统学》取得教授资格。哥廷根这些年，他启发并影响了所谓的慕尼黑与哥廷根现象学圈。
+  - id: 4
+    kind: body
+    source: |-
+      Between 1909 and 1913 Reinach published an important series of long articles. These include: *On the Theory of Negative Judgment* (1911), which is a condensed summary of his lost Habilitation developing his theory of judgment and of states of affairs; *Kant’s Conception of Hume’s Problem* (1911), where an account of metaphysical necessity is presented; and *Premeditation; its Ethical and Legal Significance* (1912/13), which provides a description of epistemic and practical agency. In 1913 he published his masterpiece *The Apriori Foundations of the Civil Law* (*Die apriorischen Grundlagen des bürgerlichen Rechtes*), which appeared in the first volume of the *Yearbook for Philosophy and Phenomenological Research*, which Reinach had founded and edited together with Moritz Geiger, Edmund Husserl, Max Scheler, and Alexander Pfänder. In this monograph, Reinach offers an account of many fundamental concepts concerning our shared social world, including normativity, proxy agency, property, positive law, and speech acts such as promises, orders, requests, and enactments.
+    step1: |-
+      1909 年至 1913 年间，莱纳赫发表了一系列重要的长篇文章。其中包括：《论否定判断的理论》（1911），该文是他已佚失的教授资格论文的浓缩概要，发展了他关于判断与事态的理论；《康德的休谟问题构想》（1911），其中提出了关于形而上必然性的说明；以及《预谋；其伦理与法律意义》（1912/13），该文描述了认识性与实践性的能动性。1913 年，他出版了自己的代表作《民法的先天基础》（*Die apriorischen Grundlagen des bürgerlichen Rechtes*），该书刊于《哲学与现象学研究年鉴》第一卷——这份年鉴由莱纳赫与莫里茨·盖格、埃德蒙德·胡塞尔、马克斯·舍勒以及亚历山大·普凡德尔共同创办并编辑。在这部专著中，莱纳赫对我们共享的社会世界的许多基本概念给出了说明，包括规范性、代理行为、财产、实在法，以及承诺、命令、请求、颁令之类的言语行为。
+    step2: |-
+      1909 至 1913 年间，莱纳赫发表了一组重要的长篇文章，包括：《论否定判断的理论》（1911），这是他已佚失的教授资格论文的浓缩概要，其中发展出关于判断与事态的理论；《康德的休谟问题构想》（1911），提出了一种关于形而上必然性的说明；《预谋；其伦理与法律意义》（1912/13），描述认识性与实践性的能动性。1913 年他出版代表作《民法的先天基础》（*Die apriorischen Grundlagen des bürgerlichen Rechtes*），刊于《哲学与现象学研究年鉴》第一卷；这份年鉴由莱纳赫与莫里茨·盖格、埃德蒙德·胡塞尔、马克斯·舍勒、亚历山大·普凡德尔共同创办、共同编辑。这部专著对我们共享的社会世界中的许多基本概念作了说明，涵盖规范性、代理行为、财产、实在法，以及承诺、命令、请求、颁令这类言语行为。
+  - id: 5
+    kind: body
+    source: |-
+      After the declaration of war in 1914, Reinach enlisted in the German army, and only some letters and philosophical sketches from the war years have survived. Shortly after he was baptized into the Evangelical Church, he died in battle in Flanders in 1917. His death profoundly influenced the future history of the phenomenological movement. Herbert Spiegelberg writes:
+    step1: |-
+      1914 年宣战之后，莱纳赫应征加入德国军队，只有战时的一些书信与哲学札记留存下来。他受洗加入福音教会后不久，便于 1917 年在佛兰德斯阵亡。他的死深刻影响了现象学运动此后的历史。赫伯特·施皮格伯格（Herbert Spiegelberg）写道：
+    step2: |-
+      1914 年宣战之后，莱纳赫应征入伍，战时只留下若干书信与哲学札记。受洗加入福音教会后不久，他于 1917 年在佛兰德斯阵亡。他的死深刻影响了现象学运动其后的历史。赫伯特·施皮格伯格（Herbert Spiegelberg）写道：
+  - id: 6
+    kind: body
+    source: |-
+      > Independently of each other, the Göttingen students of phenomenology like Wilhelm Schapp, Dietrich von Hildebrand, Alexander Koyré and Edith Stein, in their accounts of this period, refer to Reinach, not to Husserl, as their real teacher in phenomenology. Hedwig Conrad-Martius even goes so far as to call him the phenomenologist *par excellence*… It was his death in action in 1917 rather than Husserl’s going to Freiburg which cut short not only his own promise but that of the Göttingen phenomenological circle. (1982: 191–192)
+    step1: |-
+      > 哥廷根的现象学学生——如威廉·沙普（Wilhelm Schapp）、迪特里希·冯·希尔德布兰德（Dietrich von Hildebrand）、亚历山大·科伊雷（Alexander Koyré）与艾迪特·施泰因（Edith Stein）——在回顾这一时期的记述中彼此独立地都把莱纳赫而非胡塞尔称为自己真正的现象学老师。黑德维希·康拉德-马齐乌斯（Hedwig Conrad-Martius）甚至径直称他为最卓越的——*par excellence*——现象学家……中断了他本人前途的，也是中断了哥廷根现象学圈前途的，是 1917 年他战死沙场，而不是胡塞尔去了弗赖堡。（1982: 191–192）
+    step2: |-
+      > 哥廷根的那批现象学学生——威廉·沙普（Wilhelm Schapp）、迪特里希·冯·希尔德布兰德（Dietrich von Hildebrand）、亚历山大·科伊雷（Alexander Koyré）、艾迪特·施泰因（Edith Stein）——在回顾这段岁月的记述中彼此独立地都声称：自己真正的现象学老师是莱纳赫，不是胡塞尔。黑德维希·康拉德-马齐乌斯（Hedwig Conrad-Martius）甚至径直称他为最卓越的——*par excellence*——现象学家……无论中断的是他自己的前途，还是哥廷根现象学圈的前途，肇因都不是胡塞尔去了弗赖堡，而是他 1917 年战死沙场。（1982: 191–192）
+  - id: 7
+    kind: body
+    source: |-
+      Karl Schuhmann and Barry Smith’s critical edition of Reinach’s work includes all his publications as well as his unpublished manuscripts. In this latter material, one can find the text of the lecture he gave in 1914 in Marburg entitled *Concerning Phenomenology*, which can be considered a manifesto of realist phenomenology.
+    step1: |-
+      卡尔·舒曼（Karl Schuhmann）与巴里·史密斯（Barry Smith）所编的莱纳赫校勘版收录了他全部已刊论著以及未刊手稿。在后一部分材料中，可以找到他 1914 年在马尔堡所作题为《论现象学》的演讲文本，该文可以视为实在论现象学的一份宣言。
+    step2: |-
+      卡尔·舒曼（Karl Schuhmann）与巴里·史密斯（Barry Smith）编订的莱纳赫校勘版，收录了他全部已刊论著与未刊手稿。后一部分材料里有他 1914 年在马尔堡的演讲《论现象学》，此篇可视为实在论现象学的宣言。
+  - id: 8
+    kind: body
+    source: |-
+      Many of Reinach’s ideas have been rediscovered by contemporary philosophers, often without awareness of his philosophical work and significance. Notable examples of this include his theory of social acts, which predates similar theories developed by Austin and Searle; the thesis that metaphysical necessity is grounded in essences; the distinction between social and moral normativity; the idea that acquiring knowledge is a *sui generis* act of the mind; the description of the psychological sense of commitment; and his recognition that there are genuinely social entities, which are neither physical nor psychological (examples being the claim and obligation that arise through an act of promising).
+    step1: |-
+      莱纳赫的许多想法已被当代哲学家重新发现，而他们往往并不了解他的哲学工作与意义。这方面的显著例子包括：他的社会行为理论，早于奥斯丁与塞尔所发展的类似理论；形而上必然性植根于本质这一论题；社会规范性与道德规范性之间的区分；获取知识是心灵的一种 *sui generis*（自成一类）行为这一想法；对承诺感的心理学描述；以及他认识到存在真正的社会实体，它们既非物理的也非心理的（例如通过承诺行为产生的请求权与义务）。
+    step2: |-
+      莱纳赫的许多想法已被当代哲学家重新发现，而发现者往往并不知道他的工作与分量。显著的例子有：他的社会行为理论，比奥斯丁与塞尔后来发展的类似理论更早；形而上必然性植根于本质这一论题；社会规范性与道德规范性之分；获取知识是心灵的一种 *sui generis*（自成一类）行为；对承诺感的心理学描述；以及他承认存在真正的社会实体——既非物理亦非心理，例如通过承诺行为产生的请求权与义务。
+  - id: 9
+    kind: body
+    source: |-
+      ## 2. Reinach’s Realist Phenomenology
+    step1: |-
+      ## 2 莱纳赫的实在论现象学
+    step2: |-
+      ## 2 莱纳赫的实在论现象学
+  - id: 10
+    kind: body
+    source: |-
+      Reinach sees himself as developing a distinctive approach to philosophy with the goal of being faithful to what is given in different kinds of experience (linguistic, religious, moral, perceptual, emotional, aesthetic, and so forth). Reinach argues that some of these experiences have the power to make their subject acquainted with objects and their “*a priori*” or “essential structures (*Wesenszusammenhänge*)”. Thus, Reinach writes:
+    step1: |-
+      莱纳赫认为自己是在发展一种独特的哲学进路，其目标是忠实于不同种类的经验（语言的、宗教的、道德的、知觉的、情感的、审美的等等）中之所与。莱纳赫论证说，其中某些经验有能力使其主体认识对象及其“*先天*”结构或“本质结构（*Wesenszusammenhänge*）”。因此，莱纳赫写道：
+    step2: |-
+      莱纳赫自视为在开辟一种独特的哲学进路，力求忠实于各类经验（语言的、宗教的、道德的、知觉的、情感的、审美的，等等）中给出的东西。他论证说，其中有些经验能够使主体认识对象，认识对象的“*先天*”结构或“本质结构（*Wesenszusammenhänge*）”。他写道：
+  - id: 11
+    kind: body
+    source: |-
+      > We can surely take it as generally granted that there are *no self-evident and necessary* relations of essence in the causal relations of external events. However it is, to speak with Hume, that we come to know that fire produces smoke, this is *surely not intelligibly grounded in the essence of fire*, as it lies in the essence of the number 3 to be larger than the number 2. (1913a [1989: 155], English translation 2012: 15, emphasis added)
+    step1: |-
+      > 我们当然可以普遍地认定：外部事件的因果关系中并*不存在自明而必然的*本质关联。无论我们怎样——用休谟的话说——得知火产生烟，这一点*都确实不能可理解地奠基于火的本质之中*，不像 3 大于 2 奠基于 3 的本质那样。（1913a [1989: 155]，英译 2012: 15，强调为引者所加）
+    step2: |-
+      > 我们大可以普遍认定：在外部事件的因果关系中，并*不存在自明而必然的*本质关联。无论我们如何——用休谟的话说——得知火生烟，这一点都*确实不能从火的本质中得到可理解的奠基*，不像 3 大于 2 那样奠基于 3 的本质。（1913a [1989: 155]，英译 2012: 15，强调为引者所加）
+  - id: 12
+    kind: body
+    source: |-
+      As this passage illustrates, Reinach draws a fundamental distinction between contingent and *a priori*, i.e., general and metaphysically necessary states of affairs. Three ideas, here, shed light on Reinach’s understanding of phenomenology.
+    step1: |-
+      正如这段文字所示，莱纳赫在偶然事态与*先天*事态之间，即偶然事态与普遍而形而上必然的事态之间，划出了一条根本的区分。这里有三个想法，可以说明莱纳赫对现象学的理解。
+    step2: |-
+      这段文字透露出莱纳赫的一条根本区分：偶然事态与*先天*事态之别，也就是偶然事态与普遍而形而上必然的事态之别。以下三个想法可以说明他如何理解现象学。
+  - id: 13
+    kind: body
+    source: |-
+      First, *a priori* states of affairs are grounded in the very nature, or essence, of their underlying or “founding” objects (Reinach 1911b; for contemporary discussions of this idea, see Fine 1994a, 1994b, 1995 and Mulligan 2004)[^fine-1994a][^mulligan-2004]. For example, 3 is larger than 2 in virtue of its essence; orange lies between red and yellow in virtue of its essence; promises generate obligations in virtue of their essence; and remorse presupposes the memory of a past wrongdoing in virtue of its essence. Since each and every object, being the object that it is, carries an essence or a nature, each and every object is embedded in some *a priori* or essential structure. Importantly, such structures are mind-independent states of affairs: they are not ascribed, imposed, or projected onto the world; rather, they are grounded in the nature of the entities themselves. This is not, however, to say that the mind, for Reinach, does not have the capacity to create entities, as we will see in his account of social and institutional entities.
+    step1: |-
+      第一，*先天*事态植根于其底层对象或“奠基”对象的本性即本质之中（Reinach 1911b；关于这一想法的当代讨论，见 Fine 1994a, 1994b, 1995 与 Mulligan 2004）[^fine-1994a][^mulligan-2004]。例如，3 凭其本质而大于 2；橙色凭其本质而处于红与黄之间；承诺凭其本质而产生义务；悔恨凭其本质而以对过去过错的记忆为前提。既然每一个对象作为它所是的那个对象都带有一种本质或本性，那么每一个对象都嵌在某种*先天*结构或本质结构之中。重要的是，这类结构是独立于心灵的事态：它们不是被归属、被强加或被投射到世界之上的；相反，它们植根于诸实体本身的本性。不过，这并不等于说，在莱纳赫看来心灵没有创造实体的能力——我们将在他对社会实体与制度实体的说明中看到这一点。
+    step2: |-
+      第一，*先天*事态植根于其底层对象——即“奠基”对象——的本性或本质（Reinach 1911b；关于这一想法的当代讨论，见 Fine 1994a, 1994b, 1995 与 Mulligan 2004）[^fine-1994a][^mulligan-2004]。例如：3 凭其本质而大于 2；橙色凭其本质而位于红与黄之间；承诺凭其本质而产生义务；悔恨凭其本质而以对过去过错的记忆为前提。每个对象既然作为它所是的那个对象存在，就都带有一种本质或本性，因此也都嵌在某种*先天*结构或本质结构之中。要紧的是，这类结构是独立于心灵的事态：它们并非被归属、被强加或被投射到世界之上，而是植根于诸实体自身的本性。当然，这并不等于说在莱纳赫那里心灵没有创造实体的能力——关于社会实体与制度实体的说明将表明这一点。
+  - id: 14
+    kind: body
+    source: |-
+      A core aim of phenomenology is thus to accurately describe the *a priori* states of affairs that we find in the world. Each and every object carries an essence, but not all essences are of equal interest to the phenomenologist, whose attention goes to those essences which have a higher degree of intelligibility or of philosophical significance (von Hildebrand 1976: 128–136). The task of investigating such philosophically significant essences opens up an almost inexhaustible domain of eidetic research for the phenomenologist:
+    step1: |-
+      因此，现象学的一个核心目标就是准确描述我们在世界中发现的各种*先天*事态。每一个对象都带有本质，但并非所有本质都同等重要；现象学家的注意力落在那些可理解程度较高或哲学意义较大的本质之上（von Hildebrand 1976: 128–136）。研究这类具有哲学意义的本质，为现象学家开启了一个几乎取之不尽的本质研究领域：
+    step2: |-
+      所以，现象学的核心目标之一，就是准确描述我们在世界中发现的各种*先天*事态。凡对象皆带本质，但本质的重要程度并不相等；现象学家留意的是那些可理解性较高、哲学意蕴较重的本质（von Hildebrand 1976: 128–136）。研究这类本质上具有哲学意义的本质，便为现象学家打开了一片几乎取之不尽的本质研究领地：
+  - id: 15
+    kind: body
+    source: |-
+      > the realm of the *a priori* is incalculably large … [and this] opens up for investigation an area so large and rich that still today we cannot see its boundaries. (1914 [1989: 546], English translation 2012: 215f)
+    step1: |-
+      > *先天*的领域大得无法计量……[而这]为研究开启了一片如此广阔而丰富的领域，直到今天我们仍看不到它的边界。（1914 [1989: 546]，英译 2012: 215f）
+    step2: |-
+      > *先天*的领域大得无法计量……[而这]为研究开启了一片如此辽阔、如此丰饶的领域，直到今天我们也看不见它的边界。（1914 [1989: 546]，英译 2012: 215f）
+  - id: 16
+    kind: body
+    source: |-
+      In defending the existence of *a priori* states of affairs, phenomenological realists thus believe that they have established a new kind of research agenda for philosophy, illustrated in Reinach’s investigations into the essences of mental states (emotions, intentions, perceptions, judgments…), the nature of social and institutional entities (obligations, claims, rights, property…), the nature of movement, and many more. All these investigations should be understood as contributions to corresponding eidetic disciplines (eidetic psychology, eidetic social ontology, eidetic physics, and so on).
+    step1: |-
+      因此，在捍卫*先天*事态之存在时，现象学实在论者相信自己已为哲学确立了一种新的研究议程，莱纳赫对心理状态（情感、意向、知觉、判断……）的本质、社会实体与制度实体（义务、请求权、权利、财产……）的本性、运动的本性等等的探究即是例证。所有这些探究都应被理解为对相应本质学科的贡献（本质心理学、本质社会本体论、本质物理学等等）。
+    step2: |-
+      现象学实在论者既然捍卫*先天*事态的存在，便相信自己为哲学立起了一种新的研究议程。莱纳赫的探究就是例证：心理状态（情感、意向、知觉、判断……）的本质，社会实体与制度实体（义务、请求权、权利、财产……）的本性，运动的本性，如此等等。这些探究都应算作对相应本质学科的贡献——本质心理学、本质社会本体论、本质物理学，等等。
+  - id: 17
+    kind: body
+    source: |-
+      Second, to invoke essences in metaphysical explanations “does not mean anything dark or mystical” (1913a [1989: 144], English translation 2012: 5). Essences are objects of a particular kind: they are, as the next section clarifies, ideal objects. Hence, essences, just like objects of other sorts, can—at least in principle—be apprehended, grasped or cognized by a subject (Reinach 1911c [1989: 104], English translation 1982: 325). Importantly, Reinach denies that the intuition of essences requires any special epistemological technique (as the later Husserl argued). We can intuit essences in experiencing just a single instance: for example, in making a promise (in realizing a specific instance of the essence of promise), the promisor can understand that all instances of promises, by necessity, are directed to an addressee. To put this differently, the subject understands that, as a matter of necessity, there can be no promise that is not directed to some promisee. In fact, Reinach goes so far as to claim that we don’t even need to experience an actual instance of the essence: in some cases, an act of imagination can make the essence known to the imagining subject. He writes:
+    step1: |-
+      第二，在形而上说明中援引本质“并不意味着任何晦暗或神秘的东西”（1913a [1989: 144]，英译 2012: 5）。本质是一类特殊的对象：正如下一节将要澄清的，它们是观念对象。因此，本质就像其他各类对象一样，至少原则上可以被主体加以把握、领会或认知（Reinach 1911c [1989: 104]，英译 1982: 325）。重要的是，莱纳赫否认本质直观需要任何特殊的认识论技术（如后期胡塞尔所主张的那样）。我们只需经验到一个实例就能直观本质：例如，在作出承诺时（在实现承诺之本质的某个特定实例时），承诺者便能理解，一切承诺实例都必然指向某个受诺人。换种说法，主体理解到，必然不存在不指向某个受诺人的承诺。事实上，莱纳赫甚至主张，我们根本不需要经验到本质的实际实例：在某些情况下，想象行为就能使本质为想象着的主体所知。他写道：
+    step2: |-
+      第二，在形而上说明中援引本质“并不意味着任何晦暗或神秘的东西”（1913a [1989: 144]，英译 2012: 5）。本质是一类特殊的对象：下一节将说明，它们是观念对象。所以，本质与其他各类对象一样，至少原则上可以为主体所把握、领会或认知（Reinach 1911c [1989: 104]，英译 1982: 325）。要点在于，莱纳赫否认本质直观需要什么特殊的认识论技术——后期胡塞尔倒主张如此。经验到单个实例就足以让我们直观本质：比如在作出承诺时（在实现承诺之本质的某个具体实例时），承诺者就能理解，一切承诺实例都必然指向某个受诺人。换个说法：主体理解到，必然不存在不指向任何受诺人的承诺。莱纳赫甚至进一步主张，我们根本无须经验本质的实际实例：有些情况下，想象行为就能让本质为想象着的主体所知。他写道：
+  - id: 18
+    kind: body
+    source: |-
+      > I can now, in this moment, convince myself with complete certainty of the fact that orange lies qualitatively between red and yellow, if only I succeed in bringing to clear intuition for myself the corresponding natures. I need not have reference to some sense perception, which would have to lead me to a place in the world where a case of orange, red, and yellow could be found. Because of this, not only—as is often pointed out—does one need to perceive merely a single case in order to apprehend the a priori laws involved in it; in truth, one also does not need to perceive, to “experience”, the single case. One need perceive nothing at all. Pure imagination suffices. (Reinach 1914 [1989: 543], English translation 2012: 157; see also 1912/13 [1989: 285])
+    step1: |-
+      > 我现在、就在此刻，就能以完全的确定性说服自己相信橙色在质上处于红与黄之间，只要我成功地为自己把相应的本性带到清晰的直观面前。我无须诉诸某种感官知觉，那种知觉将不得不把我引向世界上某个可以找到橙色、红色与黄色案例的地方。正因如此，不仅——如人们常常指出的——人只需知觉到单个案例就能把握其中所涉的先天法则；实际上，人也无须知觉、无须“经验”那单个案例。人根本无须知觉任何东西。纯粹想象就已足够。（Reinach 1914 [1989: 543]，英译 2012: 157；亦见 1912/13 [1989: 285]）
+    step2: |-
+      > 此刻我就能以十足的确定性说服自己：橙色在质上处于红与黄之间——只要我成功地把相应的本性带到自己清晰的直观面前。我不必求助于某种感官知觉，仿佛那种知觉非得把我带到世上某个能找到橙色、红色与黄色实例的地方。正因如此，人们常说人只需知觉单个实例就能把握其中所涉的先天法则；其实还不止于此：人也无须知觉、无须“经验”那单个实例。人什么也不必知觉。纯粹想象就够了。（Reinach 1914 [1989: 543]，英译 2012: 157；亦见 1912/13 [1989: 285]）
+  - id: 19
+    kind: body
+    source: |-
+      It is important that Reinach not be misunderstood on this point. He is not suggesting that the job of the phenomenologist starts and ends with intuitions of essences. Quite the contrary: the intuition should be proved to be veridical, the revealed essence adequately understood, its relations with other essences described, the conditions of its instantiation clarified.
+    step1: |-
+      重要的是，在这一点上不要误解莱纳赫。他并不是说，现象学家的工作始于本质直观也终于本质直观。恰恰相反：直观应被证明为是真的，被揭示的本质应得到恰当的理解，它与其他本质的关联应得到描述，其实例化的条件应得到澄清。
+    step2: |-
+      在这一点上不能误解莱纳赫。他并不是说现象学家的工作始于本质直观、终于本质直观。恰恰相反：直观要证明为真，被揭示的本质要得到恰当理解，它与其他本质的关联要得到描述，其实例化的条件也要一一澄清。
+  - id: 20
+    kind: body
+    source: |-
+      The third idea is that essences may or may not be instantiated. It is controversial in the literature whether or not this idea commits Reinach to Platonism (DuBois 1995; Baltzer-Jaray 2009)[^baltzer-jaray-2009][^dubois-1995]. But it can be argued that, if it does (see Salice 2009; B. Smith 1987)[^salice-2009][^smith-1987], then Reinach would not be embracing a naïve form of Platonism. For instance, Reinach explicitly rejects a notion of essences that would generate any form of third man argument. In his article, *The Supreme Rules of Rational Inference According to Kant* of 1911, he observes that essences (what he calls there “general concepts”) do not have the same properties as the objects that instantiate them. He notes that it would be an ontological mistake to assume that essences are the same sorts of things as the entities that have them. For instance, the judgment that “the triangle has three sides” does not convey the idea that the essence of the triangle itself instantiates triangularity—for that would be nonsensical. Rather, the judgment should be understood as expressing the thought that “everything that is a triangle has three sides”. It is this general and necessary state of affairs that is the specific object of our *a priori* knowledge.
+    step1: |-
+      第三个想法是，本质可能被实例化，也可能不被实例化。这一想法是否使莱纳赫承诺了柏拉图主义，在文献中尚有争议（DuBois 1995; Baltzer-Jaray 2009）[^baltzer-jaray-2009][^dubois-1995]。但可以论证，即使答案是肯定的（见 Salice 2009; B. Smith 1987）[^salice-2009][^smith-1987]，莱纳赫所取的也不会是一种幼稚形态的柏拉图主义。例如，莱纳赫明确拒斥那种会引出任何形式第三人论证的本质概念。在 1911 年的文章《依康德论理性推理的最高规则》中，他指出，本质（他在那里称之为“一般概念”）并不具有实例化它们的对象所具有的同样属性。他注意到，若认定本质与拥有本质的实体是同一类东西，那将是一个本体论错误。例如，“三角形有三条边”这一判断并不传达三角形这一本质本身实例化了三角形性这一想法——那将是无意义的。相反，该判断应被理解为表达了这样一个思想：“凡三角形都有三条边”。正是这一普遍而必然的事态，才是我们*先天*知识的特有对象。
+    step2: |-
+      第三个想法是：本质可以被实例化，也可以不被实例化。这一想法是否让莱纳赫背上了柏拉图主义，学界尚有争议（DuBois 1995; Baltzer-Jaray 2009）[^baltzer-jaray-2009][^dubois-1995]。但可以说，即便真是如此（见 Salice 2009; B. Smith 1987）[^salice-2009][^smith-1987]，他所取的也不是幼稚形态的柏拉图主义。比如，他明确拒斥会引出任何形式第三人论证的那种本质概念。在 1911 年的《依康德论理性推理的最高规则》一文中，他指出：本质（他在那里称作“一般概念”）并不具备实例化它们的对象所具备的那些属性。他提醒说，若认定本质与拥有本质的实体属于同一类东西，那就是本体论上的错误。譬如，“三角形有三条边”这一判断并不表示三角形这一本质本身实例化了三角形性——那是无意义的。该判断应理解为表达了这样一个思想：“凡三角形都有三条边。”我们*先天*知识的特有对象，正是这一普遍而必然的事态。
+  - id: 21
+    kind: body
+    source: |-
+      ## 3. General Ontology: Objects and States of Affairs
+    step1: |-
+      ## 3 一般本体论：对象与事态
+    step2: |-
+      ## 3 一般本体论：对象与事态
+  - id: 22
+    kind: body
+    source: |-
+      By endorsing the view that the two most general categories in formal ontology are those of object and state of affairs, Reinach refines a number of ideas that were already circulating at his time (Husserl 1900/01; Meinong 1904, 1910)[^husserl-1900][^meinong-1904].
+    step1: |-
+      莱纳赫赞同如下观点：形式本体论中最普遍的两个范畴是对象与事态；由此他把当时已在流传的若干想法加以提炼（Husserl 1900/01; Meinong 1904, 1910）[^husserl-1900][^meinong-1904]。
+    step2: |-
+      形式本体论中最普遍的两个范畴是对象与事态——莱纳赫赞同此说，并由此把当时已在流传的若干想法加以提炼（Husserl 1900/01; Meinong 1904, 1910）[^husserl-1900][^meinong-1904]。
+  - id: 23
+    kind: body
+    source: |-
+      Objects (*Gegenstände*) are either real or ideal. Real objects are either physical or mental. So, for instance, a volcano is a physical entity: it is an individual that is extended in both time and space. By contrast, the perception of a volcano is a mental entity, which is also an individual, but extended only in time. Hence, what gives unity to the category of real objects is that all real entities are both temporal and individual.
+    step1: |-
+      对象（*Gegenstände*）要么是实在的，要么是观念的。实在对象要么是物理的，要么是心理的。例如，一座火山是一个物理实体：它是一个在时间与空间两方面都有延展的个体。相比之下，对一座火山的知觉是一个心理实体，它同样是个体，但只在时间中有延展。因此，使实在对象这一范畴获得统一性的是：一切实在实体都既是时间性的，又是个体性的。
+    step2: |-
+      对象（*Gegenstände*）非实在即观念。实在对象非物理即心理。例如火山是物理实体：它是个体，在时间与空间中都有延展。对火山的知觉则是心理实体，它也是个体，但只在时间中有延展。所以，实在对象这一范畴的统一性来自一点：一切实在实体既在时间之中，又是个体。
+  - id: 24
+    kind: body
+    source: |-
+      Ideal objects are atemporal: they are unaffected by the passage of time. An important distinction Reinach draws within this category is between sortal and non-sortal essences (1911 [1989: 57], English translation 1994: 87f, see also 1913b [1989: 420]). Qualities, i.e., non-sortal essences or characterizing properties, like redness or sweetness, do not allow us to count things (or they do so only in association with the count noun “thing”). By contrast, sortal essences help us in counting (one whale, a second whale, a third whale…). Objects are instances of types or essences, while “moments” (individualized properties or “tropes”) are instances of qualities (see Reinach 1912 [1989: 361]).
+    step1: |-
+      观念对象是无时间的：它们不受时间流逝的影响。莱纳赫在这一范畴内划出的一个重要区分，是类别本质与非类别本质之别（1911 [1989: 57]，英译 1994: 87f，亦见 1913b [1989: 420]）。特质，即非类别本质或刻画性属性，如红性或甜性，不允许我们对事物进行计数（或者只有在与可数名词“东西”连用时才允许）。相比之下，类别本质帮助我们计数（一头鲸、第二头鲸、第三头鲸……）。对象是类型或本质的实例，而“环节”（个体化的属性，即“特罗普”）则是特质的实例（见 Reinach 1912 [1989: 361]）。
+    step2: |-
+      观念对象是无时间的：时间流逝对它们毫无影响。莱纳赫在这一范畴内划出了一条重要区分：类别本质与非类别本质（1911 [1989: 57]，英译 1994: 87f，亦见 1913b [1989: 420]）。特质——即非类别本质或刻画性属性，如红性、甜性——不能用来计数（或者说，只有搭配可数名词“东西”时才行）。类别本质则帮我们计数：一头鲸、第二头鲸、第三头鲸……对象是类型或本质的实例，而“环节”（个体化的属性，即“特罗普”）是特质的实例（见 Reinach 1912 [1989: 361]）。
+  - id: 25
+    kind: body
+    source: |-
+      The combination of an object with its moments is called by Reinach an “underlying situation [*zugrundelieger Tatbestand*]” or a “unitary complex [*Einheitskomplex*]” (compare the use of the term “complex” by Russell and Wittgenstein, see Potter 2008, esp. 102–108)[^potter-2008]. So, for instance, the singular term “the rose” refers to an object, where “the red rose” points to a complex that is constituted by the rose together with its moment of redness. Importantly, any complex “founds” states of affairs: in this example, the red rose founds the being-red of the rose. States of affairs (*Sachverhalte*—another term used by Wittgenstein) are categorically different from objects and complexes, as the following considerations show (many of these ideas are presented in Reinach 1911c [1989: 112–120], English translation 1982: 332–346).
+    step1: |-
+      对象与其诸环节的结合，被莱纳赫称为“底层事况〔*zugrundelieger Tatbestand*〕”或“统一的复合体〔*Einheitskomplex*〕”（可与罗素和维特根斯坦对“复合体”一词的用法相比较，见 Potter 2008，尤其是 102–108）[^potter-2008]。例如，单称词项“这朵玫瑰”指称一个对象，而“这朵红玫瑰”则指向一个复合体，该复合体由这朵玫瑰连同其红性环节构成。重要的是，任何复合体都“奠基”事态：在此例中，红玫瑰奠基了玫瑰之是红的。事态（*Sachverhalte*——维特根斯坦使用的另一个词）与对象和复合体在范畴上不同，下述考察将表明这一点（这些想法大多见于 Reinach 1911c [1989: 112–120]，英译 1982: 332–346）。
+    step2: |-
+      对象与其诸环节的结合，莱纳赫称作“底层事况〔*zugrundelieger Tatbestand*〕”或“统一的复合体〔*Einheitskomplex*〕”（比较罗素与维特根斯坦对“复合体”一词的用法，见 Potter 2008，尤其 102–108）[^potter-2008]。譬如，单称词项“这朵玫瑰”指称一个对象，而“这朵红玫瑰”指向一个复合体——由这朵玫瑰连同其红性环节构成。要紧的是，任何复合体都“奠基”事态：在此例中，红玫瑰奠基了玫瑰之是红的。事态（*Sachverhalte*——维特根斯坦用过的另一个词）在范畴上不同于对象与复合体，以下考察可作说明（这些想法大多见于 Reinach 1911c [1989: 112–120]，英译 1982: 332–346）。
+  - id: 26
+    kind: body
+    source: |-
+      First, states of affairs either obtain or not, whereas objects (and, by extension, complexes) either exist or not. Reinach does not elaborate on this point, but it stands to reason that a state of affairs obtains if and only if its underlying complex exists. The point is made by his close friend Theodor Conrad: “Clearly one can … say correctly [that states of affairs subsist] only if the (external) situation [*Tatbestand*] really is objective …” (Conrad 1953–1954)[^conrad-1953]. For instance, the being-red of the rose obtains if and only if the red rose exists.
+    step1: |-
+      第一，事态要么成立要么不成立，而对象（推而广之，复合体）要么存在要么不存在。莱纳赫未对此点详加阐述，但可以合理认为，一个事态成立，当且仅当其底层复合体存在。这一论点由他的挚友特奥多尔·康拉德提出：“显然，人们……只能(在外部)事况〔*Tatbestand*〕确实是客观的时候，才正确地[说事态存在]……”（Conrad 1953–1954）[^conrad-1953]。例如，玫瑰之是红的这一事态成立，当且仅当这朵红玫瑰存在。
+    step2: |-
+      第一，事态有成立与不成立之别，对象（因而也包括复合体）则有存在与不存在之别。莱纳赫对此未多作发挥，但可以合理推定：事态成立，当且仅当其底层复合体存在。他的挚友特奥多尔·康拉德就把这一点讲了出来：“显然，人们……唯有在（外部的）事况〔*Tatbestand*〕确实客观时，才能正确地说[事态存在]……”（Conrad 1953–1954）[^conrad-1953]。例如，“玫瑰之是红的”这一事态成立，当且仅当这朵红玫瑰存在。
+  - id: 27
+    kind: body
+    source: |-
+      Second, states of affairs are either positive or negative, whereas objects do not exhibit any analogous dichotomy. States of affairs are negative or positive in virtue of their unique structure, which is constituted by a predicative component: “the being-*F* of *x*”. A negative state of affairs is one whose predicative component is affected by negation: “the *not*-being-*F* of *x*”. Since states of affairs are the only entities constituted by a predicative component, and since the negation only affects predicative components, only states of affairs can be negative. Two consequences follow from this idea:
+    step1: |-
+      第二，事态要么是肯定的要么是否定的，而对象不显示任何类似的两分。事态之肯定或否定，取决于其独特结构，该结构由一个述谓成分构成：“*x* 之是-*F*”。否定事态则是其述谓成分受否定影响的事态：“*x* 之非是-*F*”。既然事态是唯一由述谓成分构成的实体，而否定只影响述谓成分，那么只有事态才能是否定的。由此得出两个推论：
+    step2: |-
+      第二，事态分肯定与否定，对象却没有类似的两分。事态的肯定或否定取决于它那种独特结构，而结构由一个述谓成分构成：“*x* 之是-*F*”。否定事态，就是述谓成分被否定所触及的那种事态：“*x* 之非是-*F*”。既然只有事态由述谓成分构成，而否定又只作用于述谓成分，那么唯有事态能够是否定的。由此有两点推论：
+  - id: 28
+    kind: body
+    source: |-
+      - Since objects do not carry a predicative component, and since negation only affects predicative components, there are no negative objects. Essences, qualities, or complexes are objects and hence there are no negative essences, qualities or complexes.
+      - States of affairs require an object that saturates or “completes [*ergänzt*]” their predicative component. The number of saturating objects varies depending on the nature of the predicative component. In addition to monadic states of affairs and polyadic states of affairs (i.e., relations), Reinach defends the controversial claim that there are also genuinely impersonal states of affairs (1908). So, for instance, the proposition “it rains” refers to a state of affairs that, according to Reinach, is impersonal. (We will come back to this idea in Section 5.)
+    step1: |-
+      - 既然对象不带述谓成分，而否定只影响述谓成分，那么不存在否定对象。本质、特质或复合体都是对象，因此不存在否定的本质、特质或复合体。
+      - 事态需要一个对象来饱和或“补足〔*ergänzt*〕”其述谓成分。饱和对象的数目随述谓成分的本性而变化。除一元事态与多元事态（即关系）之外，莱纳赫还主张一个颇有争议的论点：也存在真正无人称的事态（1908）。例如，“下雨了”这一命题所指称的事态，按莱纳赫之说便是无人称的。（我们将在第 5 节回到这一想法。）
+    step2: |-
+      - 对象不带述谓成分，否定又只影响述谓成分，所以没有否定性的对象。本质、特质、复合体都是对象，因而也没有否定性的本质、特质或复合体。
+      - 事态需要一个对象来饱和或“补足〔*ergänzt*〕”它的述谓成分。需要几个对象来饱和，取决于述谓成分的本性。除一元事态与多元事态（即关系）之外，莱纳赫还提出一个颇有争议的主张：也有真正无人称的事态（1908）。例如“下雨了”这个命题所指的事态，按莱纳赫的说法就是无人称的。（第 5 节将回到这一想法。）
+  - id: 29
+    kind: body
+    source: |-
+      Reinach argues that the principle of non-contradiction is grounded in these two properties of states of affairs (obtaining vs non-obtaining; being negative vs being positive): either a positive state of affairs obtains, or its negative contradictory does. Insofar as the principle of non-contradiction applies to states of affairs, it is an ontological principle and must be distinguished from the principle of bivalence, which is a logical (not an ontological) principle asserting that any declarative proposition is either true or false. The two principles are, however, closely related: a proposition is true if and only if the corresponding state of affairs obtains. To put this differently, states of affairs are truth-makers, whereas propositions are truth-bearers.
+    step1: |-
+      莱纳赫论证说，不矛盾律植根于事态的上述两种特性（成立与不成立；否定与肯定）：要么一个肯定事态成立，要么其否定的矛盾者成立。就其对事态适用而言，不矛盾律是一条本体论原则，必须与二值原则区分开来——后者是一条逻辑原则（而非本体论原则），断言任何陈述性命题要么真要么假。然而两条原则密切相关：一个命题为真，当且仅当相应的事态成立。换种说法，事态是真值制造者，而命题是真值承担者。
+    step2: |-
+      莱纳赫论证说，不矛盾律植根于事态的上述两种特性——成立与不成立、否定与肯定：要么肯定事态成立，要么其否定的矛盾者成立。只要不矛盾律适用于事态，它就是一条本体论原则，必须与二值原则区别开来；后者是逻辑原则（不是本体论原则），断言任何陈述性命题非真即假。不过两条原则密切相关：命题为真，当且仅当相应的事态成立。换句话说，事态是真值制造者，命题是真值承担者。
+  - id: 30
+    kind: body
+    source: |-
+      Reinach maintains further that, just like the principle of non-contradiction, many other principles, which are traditionally held to be logical in nature, are in fact ontological because they hold of states of affairs (1911c [1989: 138 fn 1], English translation 1982: 376). For instance, the theory of deduction (*Schlußlehre*), traditionally conceived as a branch of logic, in fact belongs to ontology since it concerns states of affairs. Reinach shows this by pointing out that the relation of ground and consequent, which is fundamental to the understanding of deduction, holds among states of affairs and must be distinguished from causality. For instance, the being-mortal of all humans is the ground—not the cause—of Socrates’ being mortal. Events, by contrast, stand in relations of causality, but they never enter relations of ground and consequent. A first billiard ball hitting a second ball is the cause—not the ground—for the movement of the second ball.
+    step1: |-
+      莱纳赫进一步主张，与不矛盾律一样，许多传统上被认为属于逻辑本性的其他原则实际上都是本体论的，因为它们对事态成立（1911c [1989: 138 注 1]，英译 1982: 376）。例如，推论学说（*Schlußlehre*）传统上被设想为逻辑学的一个分支，实际上却属于本体论，因为它关涉事态。莱纳赫表明这一点的方式是指出：对于理解推论具有根本意义的根据与后承关系，是在事态之间成立的，并且必须与因果性区分开来。例如，一切人皆会死是苏格拉底会死的根据——而非原因。事件则相反，处于因果关系之中，但从不进入根据与后承的关系。第一个台球击中第二个台球，是第二个台球运动的因果——而不是根据。
+    step2: |-
+      他还主张：与不矛盾律一样，许多历来被视为逻辑原则的原则，实际上都因适用于事态而属于本体论（1911c [1989: 138 注 1]，英译 1982: 376）。比如推论学说（*Schlußlehre*），传统上算作逻辑学的一个分支，其实属于本体论，因为它关涉的是事态。莱纳赫的论证是：理解推论所依据的根据与后承关系，成立于事态之间，并且必须同因果性区别开来。例如，“一切人皆有死”是苏格拉底有死的根据，而非其原因。事件相反，处于因果关系之中，却从不进入根据与后承的关系。第一个台球撞上第二个台球，是第二个台球运动的因果，而不是根据。
+  - id: 31
+    kind: body
+    source: |-
+      Two other properties of states of affairs are of importance.
+    step1: |-
+      事态还有另外两个特性值得注意。
+    step2: |-
+      事态另外还有两个特性值得一说。
+  - id: 32
+    kind: body
+    source: |-
+      First, states of affairs can instantiate modal properties. These include alethic properties such as possibility and necessity. We have already seen that a state of affairs is necessary when it is grounded in an essence. Furthermore, states of affairs can also instantiate deontic properties: for instance, something can be permissible or obligatory. (We will come back to the deontic properties of states of affairs in the next section.)
+    step1: |-
+      第一，事态可以实例化模态属性。这类属性包括可能性与必然性之类的真势属性。我们已经看到，一个事态在植根于本质时便是必然的。此外，事态还可以实例化道义属性：例如，某事可以是允许的或有义务的。（我们将在下一节回到事态的道义属性。）
+    step2: |-
+      第一，事态能实例化模态属性，其中包括可能性、必然性这类真势属性。上文已见：事态植根于本质，便是必然的。事态还能实例化道义属性——某事可以是允许的，也可以是有义务的。（下一节将回到事态的道义属性。）
+  - id: 33
+    kind: body
+    source: |-
+      Second, Reinach also suggests that states of affairs are either atemporal (for example, the fact that 3 is bigger than 2) or temporal (for example, the fact that the tree is blossoming). The temporality of states of affairs has a specific nature: states of affairs are in time, even though, in contrast to events, they do not unfold in time. He writes:
+    step1: |-
+      第二，莱纳赫还提示，事态要么是无时间的（例如 3 大于 2 这一事实），要么是时间性的（例如这棵树正在开花这一事实）。事态的时间性有其独特本性：事态在时间之中，尽管与事件不同，它们并不在时间中展开。他写道：
+    step2: |-
+      第二，莱纳赫还提示：事态或者无时间（如 3 大于 2 这一事实），或者有时间（如这棵树正在开花这一事实）。事态的时间性有其独特之处：事态在时间之中，但与事件不同，它们并不在时间中展开。他写道：
+  - id: 34
+    kind: body
+    source: |-
+      > events, for example thunder, unfold themselves [*konstituieren sich*] in time, things do not, but a thing *is* in time. Accordingly, states of affairs do not unfold themselves in time, but they *are* in time because they are equipped with temporal determinations. (1910 [1989: 352])
+    step1: |-
+      > 事件，例如雷声，在时间中展开〔*konstituieren sich*〕，事物则不，但事物*在*时间之中。相应地，事态不在时间中展开自身，但它们*在*时间之中，因为它们具有时间规定。（1910 [1989: 352]）
+    step2: |-
+      > 事件（比如雷声）在时间中展开〔*konstituieren sich*〕，事物则不；但事物*在*时间之中。依此类推，事态不在时间中展开，却*在*时间之中，因为它们带有时间规定。（1910 [1989: 352]）
+  - id: 35
+    kind: body
+    source: |-
+      How do we come to know states of affairs? Reinach claims that these entities can be given to us in perceptual acts of a specific kind. When we report a perception by using a that-clause (“I perceive *that* this animal is barking”) or a qualifier followed by a property (“I perceive this animal *as* a dog”), then we are reporting an instance of cognizing or of coming to know something (*Erkennen*, Reinach 1911c [1989: 118], English translation 1982: 342). Given that states of affairs are either positive or negative, it follows that, if certain psychological preconditions are fulfilled, one can also perceive or come to know negative states of affairs. If, e.g., I open the fridge with the expectation of finding a can of beer unbeknownst of the fact that somebody already drank it, then I can perceive that *there is no can of beer in the fridge.* Importantly, this experience is not a belief (or conviction, *Überzeugung*) because belief is polar (I either believe or disbelieve something). But cognizing is not polar: either I cognize something or I do not cognize at all. Also, beliefs endure, whereas acts of cognizing are episodic. This difference, however, should not let us overlook the important relations between the two experiences. In particular, acts of cognizing can motivate beliefs, Reinach argues: the perception that there is no beer in the fridge can motivate you to believe that there is no beer in the fridge. And the act of rehearsing that belief in conscious and linguistic thought by uttering the words “there is no beer in the fridge!” is an act of assertion (*Behauptung*). Because of the basic and fundamental role that *sui generis* acts of cognizing play in making us acquainted with states of affairs, some authors have claimed that Reinach anticipates the so-called knowledge-first approach in epistemology (see Mulligan 2014; on the knowledge-first approach, see Williamson 2000)[^mulligan-2014][^williamson-2000].
+    step1: |-
+      我们如何认识事态？莱纳赫主张，这类实体可以在特定种类的知觉行为中给予我们。当我们用 that 从句（“我知觉到*这动物在叫*”）或一个限定词加一个属性（“我把这动物知觉*为*一条狗”）来报告一次知觉时，我们报告的便是认知或逐渐认识某物（*Erkennen*，Reinach 1911c [1989: 118]，英译 1982: 342）的一个实例。既然事态要么肯定要么否定，那么只要满足某些心理前提，人也能知觉或认识否定事态。例如，如果我打开冰箱，指望找到一罐啤酒，却不知道已有人把它喝掉了，那么我就能知觉到*冰箱里没有啤酒罐*。重要的是，这一经验不是信念（或确信，*Überzeugung*），因为信念是两极的（我要么相信某事，要么不相信）。但认知不是两极的：要么我认知某事，要么我根本没有认知。再者，信念持续存在，而认知行为是偶发的。然而，这一差异不应让我们忽视两种经验之间的重要关联。特别是，莱纳赫主张，认知行为能够激发信念：知觉到冰箱里没有啤酒，能够使你相信冰箱里没有啤酒。而通过说出“冰箱里没有啤酒！”这句话，在有意识的语言思维中复述该信念的行为，是一种断言行为（*Behauptung*）。由于 *sui generis*（自成一类）的认知行为在使我们认识事态方面起着基本而根本的作用，一些论者声称莱纳赫预见了认识论中所谓知识优先的进路（见 Mulligan 2014；关于知识优先进路，见 Williamson 2000）[^mulligan-2014][^williamson-2000]。
+    step2: |-
+      我们怎样认识事态？莱纳赫主张，这类实体可在某类知觉行为中给予我们。当我们用一个 that 从句（“我知觉到*这动物在叫*”）或一个限定词加属性（“我把这动物知觉*为*一条狗”）来报告知觉时，报告的便是认知或认识某物（*Erkennen*，Reinach 1911c [1989: 118]，英译 1982: 342）的一个实例。事态既然分肯定与否定，那么只要满足某些心理前提，人也能知觉、认识否定性事态。例如我打开冰箱，指望里头有一罐啤酒，却不知已被人喝掉，于是我就能知觉到*冰箱里没有啤酒罐*。要紧的是，这一经验不是信念（或确信，*Überzeugung*）：信念是两极的，我要么信要么不信；认知却不是两极的：要么认知到，要么根本没有认知。再者，信念持续存在，认知行为则偶发。但这一差异不该让我们忽视两种经验之间的重要关联。莱纳赫特别主张，认知行为能激发信念：知觉到冰箱里没有啤酒，能使你相信冰箱里没有啤酒。而说出“冰箱里没有啤酒！”这句话，在有意识的语言思维中复述这一信念，则是断言行为（*Behauptung*）。*sui generis*（自成一类）的认知行为在使我们认识事态上起着基本而根本的作用，正因如此，有些论者声称莱纳赫预见了认识论中所谓知识优先的进路（见 Mulligan 2014；关于知识优先进路，见 Williamson 2000）[^mulligan-2014][^williamson-2000]。
+  - id: 36
+    kind: body
+    source: |-
+      Reinach’s description of states of affairs and objects belongs to general ontology. Yet, his contributions to ontology are not limited to this area of research. In particular, he must be credited for uncovering the specific ontology of social and institutional entities (in a philosophical exercise that nowadays goes under the label of “social ontology”). Consider a promissory obligation (*Verbindlichkeit*), for example the obligation to meet you at the pub at 5 p.m., which is generated by my promising that I will meet you at the pub at 5 p.m.
+    step1: |-
+      莱纳赫对事态与对象的描述属于一般本体论。然而，他对本体论的贡献并不限于这一研究领域。尤其应归功于他的，是他揭示了社会实体与制度实体的特殊本体论（这一哲学工作如今被冠以“社会本体论”之名）。试想一项承诺性义务（*Verbindlichkeit*），例如下午 5 点在酒馆与你碰面这一义务，它由我承诺下午 5 点在酒馆与你碰面而产生。
+    step2: |-
+      莱纳赫对事态与对象的描述属于一般本体论。但他对本体的贡献并不止于这一领域：尤其要记在他名下的，是他揭示了社会实体与制度实体的特殊本体论——这番哲学工作如今被冠以“社会本体论”之名。试看一项承诺性义务（*Verbindlichkeit*）：我承诺下午 5 点在酒馆与你碰面，由此产生下午 5 点在酒馆与你碰面这一义务。
+  - id: 37
+    kind: body
+    source: |-
+      This obligation is discharged, which means that it ceases to exist, at the moment I honor it by meeting you at the pub. But if it can be discharged, this means that the obligation was there in the first place. Hence, the obligation is an entity, which invites the question concerning its ontological nature: do obligations fall under the category of object or under that of state of affairs? If they were objects, then they would be either real or ideal.
+    step1: |-
+      这项义务在我履约、在酒馆与你碰面之时被解除，也就是说，它随之不再存在。但如果它可以被解除，这就意味着该义务先前确实在那里。因此，义务是一个实体，这就引出关于其本体论本性的问题：义务属于对象范畴，还是属于事态范畴？如果它们是对象，那么它们要么是实在的，要么是观念的。
+    step2: |-
+      我在酒馆与你碰面、履行这项义务之时，它便解除，也就是不再存在。可它若能解除，就说明它先前确实在那里。所以义务是一个实体，于是有了它本体论本性上的问题：义务属于对象范畴，还是属于事态范畴？若属对象，它们就得非实在即观念。
+  - id: 38
+    kind: body
+    source: |-
+      If obligations were real objects, then they must be either physical or mental. But obligations are not physical objects for they are not extended in space (one cannot stumble upon an obligation; obligations cannot be seen, heard, set on fire).
+    step1: |-
+      如果义务是实在对象，那么它们必定要么是物理的，要么是心理的。但义务不是物理对象，因为它们不在空间中延展（人无法撞上一项义务；义务不能被看见、被听见、被点火烧掉）。
+    step2: |-
+      义务若是实在对象，就必得非物理即心理。可它不是物理对象：义务不在空间中延展——人撞不上一项义务，也看不见它、听不见它、点不着它。
+  - id: 39
+    kind: body
+    source: |-
+      The question then is whether obligations are mental objects. Reinach first considers whether they are beliefs. They are not, he claims, because having a belief about an obligation does not obligate the believer: the belief can, for example, be about someone else’s obligation. Also, my belief about my obligation can be mistaken—I have the belief, but there is no obligation. Reinach then considers whether an obligation boils down to a subjective sense of commitment. Interestingly, and anticipating much literature on the matter (see Michael 2022; Tomasello 2020)[^michael-2022][^tomasello-2020], he insists that feelings like the sense of commitment (and the sense of entitlement) do indeed exist and play a crucial role in our psychology (within phenomenology, Stavenhagen 1931 amplifies on this topic)[^stavenhagen-1931]. But such feelings do not coincide with obligations—for feelings are warranted or not: just as my fear of the barking dog in front of me is warranted only if the dog is dangerous, so my feeling of commitment towards you is warranted only if I have an obligation towards you, and this obligation is then in addition to my feeling. In general, Reinach contends that any hypothesis which aims at reducing obligations to subjective experiences is doomed to misfire. To illustrate the point, imagine accepting a car loan and agreeing to pay back the loan over a 36-month period. The very fact that an obligation (or a claim) may last for years without change shows that it survives (and, in fact, that it is independent of) changes in the bearer’s psychology: the bearer can forget the obligation, can lose consciousness, can even die, but none of these impacts the existence of the obligation. But if obligations are neither mental nor physical, then they are not real objects either.
+    step1: |-
+      那么问题就在于，义务是否是心理对象。莱纳赫首先考察它们是否是信念。他主张并非如此，因为对一项义务抱有信念并不使信念持有者负有义务：例如，该信念可以是关于别人的义务的。而且，我关于自己义务的信念可能是错的——我有此信念，却并无该义务。莱纳赫接着考察，义务是否可归结为一种主观的承诺感。有趣的是，他预见了大量相关文献（见 Michael 2022; Tomasello 2020）[^michael-2022][^tomasello-2020]，坚持认为承诺感（以及权利感）这类感受确实存在，并在我们的心理中起关键作用（现象学内部，Stavenhagen 1931 对此话题有所申论）[^stavenhagen-1931]。但这类感受与义务并不重合——因为感受有正当与否可言：正如我对面前吠叫的狗的恐惧，只有在狗确实危险时才是正当的，我对你的承诺感也只有在我对你负有义务时才是正当的，而这项义务是我的感受之外另加的东西。总而言之，莱纳赫主张，任何旨在把义务还原为主观经验的假说都注定落空。为说明这一点，不妨设想接受一笔购车贷款，并同意在 36 个月期限内还清。义务（或请求权）可以数年不变地持续存在，这一事实本身就表明它经受住了（事实上独立于）承担者心理的变化：承担者可以忘记该义务，可以失去意识，甚至可以死去，但这些都不影响义务的存在。而如果义务既非心理的也非物理的，那么它们也不是实在对象。
+    step2: |-
+      于是问题变成：义务是心理对象吗？莱纳赫先考察它们是否为信念。他的回答是否定的：对一项义务抱有信念，并不使信者负有义务——那信念大可以是关于别人的义务的。何况我关于自己义务的信念可能是错的：信念在此，义务却无。接着他考察义务是否可归结为一种主观的承诺感。有趣的是，他预见了此后大量文献（见 Michael 2022; Tomasello 2020）[^michael-2022][^tomasello-2020]，坚持认为承诺感（以及权利感）这类感受确实存在，并在我们的心理中扮演关键角色（现象学内部，Stavenhagen 1931 对此有进一步申论）[^stavenhagen-1931]。可是这类感受并不等于义务——感受有正当与不正当之分：我对面前吠叫之狗的恐惧，只有在狗确实危险时才正当；我对你的承诺感，也只有在对你负有义务时才正当，而这项义务是我的感受之外另加的东西。莱纳赫总的看法是：任何想把义务还原为主观经验的假说都注定落空。为说明这一点，不妨设想接受一笔购车贷款，并同意在 36 个月内还清。义务（或请求权）能数年不变地持续下去，这一事实本身即表明它挺过了（而且实际上独立于）承担者心理的变化：承担者可以忘记它，可以失去意识，甚至可以死去，这些都不影响义务的存在。义务既非心理又非物理，那它也就不是实在对象。
+  - id: 40
+    kind: body
+    source: |-
+      This result leads to the question of whether obligations are ideal objects. But again, the answer here is in the negative, given that ideal objects are atemporal, whereas obligations exist in time (all these arguments are to be found in 1913a [1989: 147–150], English translation 2012: 8–11).
+    step1: |-
+      这一结果引出了义务是否是观念对象的问题。但这里的答案同样是否定的，因为观念对象是无时间的，而义务在时间中存在（所有这些论证均见于 1913a [1989: 147–150]，英译 2012: 8–11）。
+    step2: |-
+      这一结果又引出：义务是观念对象吗？答案同样是否定的——观念对象无时间，义务却在时间中存在（这些论证均见 1913a [1989: 147–150]，英译 2012: 8–11）。
+  - id: 41
+    kind: body
+    source: |-
+      Are promissory obligations states of affairs? Interestingly, Reinach points to several similarities between the two. For instance, he tells us that obligations stand in relations of ground and consequent—the existence of a promise (which is a state of affairs) is a ground (not a cause) of an obligation (Reinach 1913a [1989: 155], English translation 2012: 15). Also, promissory obligations appear to be relations (and, thus, polyadic states of affairs): they hold between a promisor, a promisee, and the content of the promise; they also are associated in every case with promissory claims as their converse relations. Further, as we have seen, Reinach consistently argues that obligations, like some states of affairs, are in time (although they do not unfold in time). Nowhere, however, does he explicitly state that promissory obligations and claims *are* states of affairs.
+    step1: |-
+      承诺性义务是事态吗？有趣的是，莱纳赫指出了两者之间的若干相似之处。例如，他告诉我们，义务处于根据与后承的关系之中——承诺（它是一个事态）的存在是一项义务的根据（而非原因）（Reinach 1913a [1989: 155]，英译 2012: 15）。此外，承诺性义务似乎是关系（因而是多元事态）：它们在承诺者、受诺人与承诺内容之间成立；它们在每一情形中都伴有承诺性请求权，作为其反向关系。再者，如我们所见，莱纳赫一贯论证义务与某些事态一样在时间之中（尽管它们不在时间中展开）。然而，他从未明确说过承诺性义务与请求权*是*事态。
+    step2: |-
+      承诺性义务是事态吗？莱纳赫倒是指出了两者的若干相似之处。比如他说，义务处于根据与后承的关系之中：承诺（一个事态）的存在，是一项义务的根据而非原因（Reinach 1913a [1989: 155]，英译 2012: 15）。承诺性义务看来还是关系（因而是多元事态）：它们成立于承诺者、受诺人与承诺内容之间；而且每一情形下都伴有作为其反向关系的承诺性请求权。再者，如前所见，莱纳赫一贯主张义务同某些事态一样在时间之中（尽管不在时间中展开）。只是他从未明说：承诺性义务与请求权*就是*事态。
+  - id: 42
+    kind: body
+    source: |-
+      ## 4. Social Acts and Normativity
+    step1: |-
+      ## 4 社会行为与规范性
+    step2: |-
+      ## 4 社会行为与规范性
+  - id: 43
+    kind: body
+    source: |-
+      In the *Logical Investigations*, Husserl develops a thesis advanced by Franz Brentano, according to which intentionality, i.e., the property of being directed towards an object, is a crucial power of the mind. Based on this notion of intentionality, Husserl argues that, since language essentially serves to express intentional experiences, all uses of language essentially are referential. So, for example, the sentence “this is a whale” uttered by a subject while they perceive a whale expresses their subjective perception of the whale and, hence, refers to the intentional object of the perception (which is the perceived whale). To accommodate non-declarative sentences like promises, questions or commands in this conceptual framework, Husserl maintains that these sentences express beliefs about the subject’s inner experience. For instance, my question “what time is it?” expresses my belief that I have the desire to know the time and, hence, refers to that desire (the desire being the intentional object of my belief). Similarly, my promise to you “I’ll be at the pub at 5 p.m”. expresses my belief that I have the intention of being at the pub at 5 p.m. and, hence, refers to that intention.
+    step1: |-
+      在《逻辑研究》中，胡塞尔发展了弗朗兹·布伦塔诺提出的一个论题：意向性，即指向某个对象的属性，是心灵的一项关键能力。基于这一意向性概念，胡塞尔论证说，既然语言本质上服务于表达意向性经验，那么语言的一切使用本质上都是指涉性的。例如，一个主体在知觉到一头鲸时说出的句子“这是一头鲸”，表达了他对这头鲸的主观知觉，因而指涉该知觉的意向对象（即被知觉到的那头鲸）。为了在这一概念框架中容纳承诺、问题或命令这类非陈述句，胡塞尔主张这些句子表达的是关于主体内心经验的信念。例如，我的问题“现在几点了？”表达了我的如下信念：我有知道时间的欲望；因而它指涉该欲望（欲望是我的信念的意向对象）。同样，我对你作出的承诺“我下午 5 点会到酒馆”，表达了我的如下信念：我有下午 5 点到酒馆的意向；因而它指涉该意向。
+    step2: |-
+      在《逻辑研究》中，胡塞尔推进了弗朗兹·布伦塔诺的一个论题：意向性——即指向某个对象这一属性——是心灵的一项关键能力。依此概念，胡塞尔论证说：语言本质上用来表达意向性经验，因此语言的一切使用本质上都是指涉性的。比如一个主体知觉到一头鲸，说出“这是一头鲸”，这句子表达了他对这头鲸的主观知觉，因而指涉知觉的意向对象，即被知觉到的那头鲸。要把承诺、问题、命令这类非陈述句也纳入这一框架，胡塞尔便主张：这类句子表达的是关于主体内心经验的信念。我的问题“现在几点了？”，表达的是我“有知道时间的欲望”这一信念，因而指涉该欲望——欲望就是我信念的意向对象。同样，我对你说“我下午 5 点到酒馆”，表达的是我“有意下午 5 点到酒馆”这一信念，因而指涉该意向。
+  - id: 44
+    kind: body
+    source: |-
+      It was in critical reaction to such theses that Reinach developed his theory of *social acts* (B. Smith 1990)[^smith-1990], a theory which bears striking similarities to the theory of speech acts later developed by Austin and Searle in the 1960s. Compare promising and reporting one’s intention to do something. According to Reinach, these two experiences belong to the category of what he calls “spontaneous” acts: these are acts which involve a subject’s bringing something about within his own psychic sphere, as contrasted with passive experiences of, say, feeling a pain or hearing an explosion (1913a [1989: 158], English translation 2012: 18). Yet, there is a crucial difference between these two spontaneous acts, namely that they have different conditions of success. In particular, the promise is successful if it generates a promissory obligation for the promisor and a claim for the promisee. We will come back to this point below, but for now it is important to highlight that the report of an intention does not stand under similar criteria of assessment. Forming an intention and reporting it are not acts that aim at the generation of obligations and claims.
+    step1: |-
+      莱纳赫正是在批判性回应这类论题的过程中发展出他的*社会行为*理论（B. Smith 1990）[^smith-1990]，该理论与奥斯丁和塞尔后来在 1960 年代发展的言语行为理论有惊人的相似之处。试比较承诺与报告自己要做某事的意向。按莱纳赫之说，这两种经验都属于他所谓的“自发的”行为：这类行为涉及主体在其自身心理领域内促成某事，与感受疼痛或听到爆炸之类的被动经验相对（1913a [1989: 158]，英译 2012: 18）。然而，这两种自发行为之间有一个关键差异，即它们的成功条件不同。特别是，承诺若为承诺者产生一项承诺性义务、为受诺人产生一项请求权，便是成功的。我们下面会回到这一点，但目前要紧的是指出：意向的报告并不处于类似的评价标准之下。形成意向与报告意向，都不是以产生义务与请求权为目标的行为。
+    step2: |-
+      莱纳赫正是在批判回应这类论题时，发展出他的*社会行为*理论（B. Smith 1990）[^smith-1990]。这一理论与奥斯丁、塞尔在 1960 年代提出的言语行为理论惊人地相似。试比较承诺与报告自己要做某事的意向。莱纳赫认为两种经验都属他所谓的“自发”行为：主体在自身心理领域内促成某事，与感受疼痛、听到爆炸这类被动经验相对（1913a [1989: 158]，英译 2012: 18）。但两种自发行为有一个关键差异：成功条件不同。承诺成功，是指它为承诺者产生一项承诺性义务、为受诺人产生一项请求权。下文还会回到这一点；目前要紧的是：意向的报告不在类似的评价标准之下。形成意向与报告意向，都不以产生义务和请求权为目标。
+  - id: 45
+    kind: body
+    source: |-
+      Once this first point is established, one can unearth another crucial difference between the two acts. For an act of promise to be successful, that is, for it to generate a claim and an obligation, this act must be registered by its addressee. For unless the promisee has heard the act that has been directed to them, the promise will not have the mentioned consequences. This peculiar property, which Reinach calls “the need of being heard (*Vernehmungsbedürftigkeit*)”, is one that the promise shares with a vast number of acts like apologizing, commanding, accusing, answering, asking, requesting, informing. Those acts and only those acts, which are in need of being heard, are classified by Reinach as “social acts”. All social acts hence require a linguistic utterance or some other overt performance of a non-natural and rule-governed sort that is addressed to an addressee. This thereby serves the fulfillment of their need of being heard, which is a necessary condition for them to achieve their effects.
+    step1: |-
+      一旦确立了这第一点，人们就能发掘出两种行为之间的另一个关键差异。承诺行为要成功，即要产生一项请求权与一项义务，该行为就必须被其受话者所登记。因为除非受诺人听到了那个指向他的行为，承诺就不会具有上述后果。这一奇特属性——莱纳赫称之为“需被听闻性（*Vernehmungsbedürftigkeit*）”——是承诺与大量行为共有的，如道歉、命令、指责、回答、提问、请求、告知。那些需要被听闻的行为，且只有那些行为，被莱纳赫归为“社会行为”。因此，一切社会行为都需要一种语言说出，或某种其他公开施行——非自然的、受规则支配的、且针对某个受话者的施行。这因而服务于其需被听闻性的满足，而后者是它们达致其效果的必然条件。
+    step2: |-
+      第一点确立之后，还能发掘出两行为间的另一个关键差异。承诺行为要成功——要产生请求权与义务——就必须被受话者登记在案。受诺人若没有听到指向自己的那个行为，承诺便不会有上述后果。这一奇特属性，莱纳赫称作“需被听闻性（*Vernehmungsbedürftigkeit*）”，承诺与许多行为共有：道歉、命令、指责、回答、提问、请求、告知。凡需被听闻的行为，且只有这类行为，被莱纳赫归入“社会行为”。所以，一切社会行为都需要一种语言说出，或某种别的公开施行——非自然的、受规则支配的，并且针对某个受话者。唯其如此，需被听闻性才得到满足，而这是它们产生效果的必然条件。
+  - id: 46
+    kind: body
+    source: |-
+      None of this applies to intentions (nor to their mere reports, as it does not apply also to acts such as cursing, blessing, forgiving, and so forth). This is not, however, to say that promises and intentions are unrelated. Quite the contrary: a promise always presupposes the intention to perform the action that has been promised. If such an intention is not present, one issues merely a sham promise, which is not a promise at all (as a false friend is not a friend). Reinach speaks in this context of the “pseudo-performance (*Scheinvollzug*)” of a promise (1913a [1989: 162], English translation 2012: 22). Similar considerations apply to all social acts: to be authentically performed, each social act presupposes a non-social, internal state on the part of the speaker. Thus an act of questioning presupposes uncertainty about the content of the question (otherwise it is a rhetorical question, i.e., a question to which the questioner already knows the answer); an act of informing presupposes belief in the content of the information on the part of the informer; and so on.
+    step1: |-
+      这一切都不适用于意向（也不适用于对意向的单纯报告，正如它同样不适用于诅咒、祝福、宽恕之类的行为）。然而，这并不是说承诺与意向没有关联。恰恰相反：承诺总是以履行所承诺之行动的意向为前提。如果这样的意向不在，人发出的就只是虚假的承诺，根本算不上承诺（正如假朋友不是朋友）。莱纳赫在此语境下谈到承诺的“伪施行（*Scheinvollzug*）”（1913a [1989: 162]，英译 2012: 22）。类似的考虑适用于一切社会行为：要本真地施行，每个社会行为都以说话者方面的某种非社会的内在状态为前提。因此，提问行为以对问题内容的不确定为前提（否则它就是反问，即提问者已经知道答案的问题）；告知行为以告知者对所告内容抱有信念为前提；如此等等。
+    step2: |-
+      这一切都不适用于意向，也不适用于对意向的单纯报告——同样也不适用于诅咒、祝福、宽恕之类的行为。当然，这并不意味着承诺与意向无关。恰恰相反：承诺总以履行所承诺之行动的意向为前提。缺了这个意向，发出的就只是虚假的承诺，根本算不上承诺，正如假朋友不是朋友。莱纳赫在此谈到承诺的“伪施行（*Scheinvollzug*）”（1913a [1989: 162]，英译 2012: 22）。一切社会行为都同理：要本真地施行，每个社会行为都以说话者某种非社会的内在状态为前提。提问以对问题内容的不确定为前提（否则就是反问，即提问者已知答案的问题）；告知以告知者相信所告内容为前提；如此等等。
+  - id: 47
+    kind: body
+    source: |-
+      Reinach discusses a plethora of social acts in *The A Priori Foundations of the Civil Law*, including commanding, requesting, warning, questioning and answering, informing, enacting, revoking, transferring, granting, and the waiving of claims. But he devotes most of his attention to the act of promising. His account of promise is rich and insightful, but a few ideas merit extra consideration.
+    step1: |-
+      莱纳赫在《民法的先天基础》中讨论了大量的社会行为，包括命令、请求、警告、提问与回答、告知、颁令、撤销、转让、授予以及放弃请求权。但他把大部分注意力放在承诺行为上。他对承诺的说明丰富而富有洞见，不过有几点想法值得额外斟酌。
+    step2: |-
+      在《民法的先天基础》中，莱纳赫讨论了名目繁多的社会行为：命令、请求、警告、提问与回答、告知、颁令、撤销、转让、授予、放弃请求权。但他着力最多的是承诺行为。他对承诺的说明丰富而深刻，其中有几点值得再作斟酌。
+  - id: 48
+    kind: body
+    source: |-
+      The first idea is that, for Reinach, promises generate promissory obligations in virtue of their nature. Promises bring about obligations because of what they are: obligation-generators. Promising is a *sui generis* phenomenon that was discovered and not invented. This can also be seen in the contrast between promising and those elements of a code of law which truly are constructed, for example specific rules concerning primogeniture or the discharging of liens. In holding this view, Reinach rejects any attempt of tracing the nature of promises back to other allegedly more well-understood accounts of obligation-generation, including via: useful social practices (Hume 1739)[^hume-1739], social institutions (Searle 1969)[^searle-1969], expectation triggers (Scanlon 1990)[^scanlon-1990], solicitations of trust (Friederich & Southwood 2011), and joint decisions (Gilbert 2018)[^gilbert-2018]. Hewrites:
+    step1: |-
+      第一个想法是：在莱纳赫看来，承诺凭其本性而产生承诺性义务。承诺之所以带来义务，是因为它们之所是：义务的生成者。承诺是一种被发现的、而非被发明的自成一类（*sui generis*）现象。这一点也可以从承诺与法典中那些真正被建构出来的要素的对比中看出，例如关于长子继承制或清偿留置权的具体规则。持此观点，莱纳赫拒斥任何把承诺的本性回溯到其他据称更易理解的义务生成说明的尝试，包括通过：有用的社会实践（Hume 1739）[^hume-1739]、社会制度（Searle 1969）[^searle-1969]、期待触发机制（Scanlon 1990）[^scanlon-1990]、对信任的恳求（Friederich & Southwood 2011）以及联合决定（Gilbert 2018）[^gilbert-2018]。他写道：
+    step2: |-
+      第一个想法是：在莱纳赫那里，承诺凭其本性产生承诺性义务。承诺之所以带来义务，是因为它之所是——它是义务的生成者。承诺是一种自成一类（*sui generis*）的现象，是被发现的，不是被发明的。把承诺与法典中真正属于建构的要素相比，也能看出这一点，例如关于长子继承制、关于清偿留置权的具体规则。既持此见，莱纳赫就拒斥一切把承诺的本性回溯到其他“更易理解”的义务生成说明的做法，包括回溯到：有用的社会实践（Hume 1739）[^hume-1739]、社会制度（Searle 1969）[^searle-1969]、期待触发机制（Scanlon 1990）[^scanlon-1990]、对信任的恳求（Friederich & Southwood 2011）、联合决定（Gilbert 2018）[^gilbert-2018]。他写道：
+  - id: 49
+    kind: body
+    source: |-
+      > Strictly speaking, we are not proposing any *theory* of promising. For we are only putting forward the simple thesis that promising as such produces claim and obligation. One can try, and we have in fact tried, to bring out the intelligibility of this thesis by analysis and clarification. To try to explain it would be just like trying to explain the proposition, 1 × 1 = 1. It is a fear of what is directly given, a strange reluctance or incapacity to look the ultimate data in the face and to recognize them as such, that has driven unphenomenological philosophies, in this as in so many other more fundamental problems, to untenable and ultimately to extravagant constructions. (1913a [1989: 188], English translation 2012: 46)
+    step1: |-
+      > 严格说来，我们并未提出任何关于承诺的*理论*。因为我们只是提出一个简单的论题：承诺本身产生请求权与义务。人们可以尝试——我们也确实尝试过——通过分析与澄清来揭示这一论题的可理解性。试图解释它，就好比试图解释 1 × 1 = 1 这一命题。正是对直接给予者的恐惧，正是面对终极材料时那种奇怪的退缩或无能，才把非现象学的哲学——在这个问题上如同在许多其他更基本的问题上一样——驱向站不住脚、最终流于浮夸的建构。（1913a [1989: 188]，英译 2012: 46）
+    step2: |-
+      > 严格说来，我们并没有提出任何关于承诺的*理论*。我们只是提出一个简单的论题：承诺本身产生请求权与义务。人们可以尝试——我们也确实尝试过——通过分析与澄清把这个论题的可理解性展示出来。而要“解释”它，就好比要去解释 1 × 1 = 1 这个命题。对直接给予者的恐惧，面对终极材料时那种奇怪的退缩与无能——正是它把非现象学的哲学驱向站不住脚、最终流于浮夸的建构，在这个问题上如此，在许多别的更基本的问题上亦如此。（1913a [1989: 188]，英译 2012: 46）
+  - id: 50
+    kind: body
+    source: |-
+      In insisting on the intrinsic capacity of promises to elicit normative consequences, Reinach by the same token also insists that promises generate obligations and claims even when they have an immoral content: immoral promises are promises and thus they commit the promisor and entitle the promisee. This important idea requires two comments for further elaboration.
+    step1: |-
+      在坚持承诺具有引出规范性后果的内在能力时，莱纳赫同样坚持：即使承诺具有不道德的内容，承诺也产生义务与请求权——不道德的承诺仍是承诺，因而使承诺者负有义务、使受诺人享有权利。这一重要想法需要两点评论以进一步展开。
+    step2: |-
+      莱纳赫坚持承诺有引出规范性后果的内在能力，同时也坚持：即便内容不道德，承诺照样产生义务与请求权。不道德的承诺仍是承诺，因而使承诺者受约束、使受诺人得权利。这一重要想法值得再作两点申说。
+  - id: 51
+    kind: body
+    source: |-
+      First, Reinach recognizes that the promissory obligation only is a sufficient, *pro-tanto* reason for keeping the promise and that the *pro-toto* reason results from the aggregation of various other reasons to which the promisor is exposed. To begin with, the promisor is subject not only to the promissory obligation generated by the promise, but also to the moral duty to keep the promise. Crucially, if the content of the promise is immoral, then the promisor also stands under the moral duty of omitting the promised action.
+    step1: |-
+      第一，莱纳赫承认，承诺性义务只是遵守承诺的一个充分的*pro-tanto*（初显）理由，而*pro-toto*（全盘）理由则由承诺者所面对的各种其他理由聚合而成。首先，承诺者不仅受承诺所产生的承诺性义务约束，还受遵守承诺这一道德义务的约束。关键的是，如果承诺的内容不道德，那么承诺者同时还负有不行所承诺之行动这一道德义务。
+    step2: |-
+      第一，莱纳赫承认：承诺性义务只是守诺的一个充分的*pro-tanto*（初显）理由，*pro-toto*（全盘）理由则要由承诺者所面对的其他种种理由聚合而成。首先，承诺者不只受承诺所产生的承诺性义务约束，还受守诺这一道德义务的约束。关键在于：若承诺内容不道德，承诺者同时还负有不行所承诺之行动的道德义务。
+  - id: 52
+    kind: body
+    source: |-
+      Second, in determining the factors that resolve this issue, Reinach draws a distinction between what might be called “social” normativity and “axiological” normativity (of which “moral normativity” is subspecies alongside aesthetic and epistemic normativity). Promises and other acts of the mind generate social normativity (social obligations, claims, norms…). Axiological normativity, in contrast, is grounded in values (1913a [1989: 152f], English translation 2012: 13f). He writes on this point: “it is morally right that a morally valuable thing exists, and the contradictory state of affairs is morally not right [*unrecht*], etc.” (Reinach 1913a [1989: 153 fn 1], English translation 2012: 49). Importantly, the morally right state of affairs that a morally valuable thing exists implies the *duty* (*Verpflichtung*) to realize the morally valuable thing (Reinach 1989i: 291ff, Eng. trans 99f). For instance, the action of helping a friend in dire straits is valuable. It therefore is morally right to help a friend in dire straits. But this just means that one *ought* to help a friend in dire straits, which is a state of affairs marked by a particular kind of deontic modality (ought-modality). Each of these entities can motivate the moral action to help the friend, but they do so in different ways, all of which bear on the moral evaluation of the agent. Thus for example the agent who acts solely on a duty (without awareness of its underlying value) is morally less praiseworthy than the agent who is solely motivated by feeling the value, and maybe even without explicit awareness of the corresponding duty (see von Hildebrand 1916).
+    step1: |-
+      第二，在确定解决这一问题的诸因素时，莱纳赫区分了可称为“社会”规范性与“价值论”规范性（“道德规范性”是后者的一个亚种，与审美规范性、认识规范性并列）。承诺与其他心灵行为产生社会规范性（社会义务、请求权、规范……）。价值论规范性则相反，植根于价值（1913a [1989: 152f]，英译 2012: 13f）。他在这一点上写道：“一个道德上有价值的东西存在，这在道德上是对的；而矛盾的事态在道德上则不对〔*unrecht*〕，等等。”（Reinach 1913a [1989: 153 注 1]，英译 2012: 49）重要的是，“一个道德上有价值的东西存在”这一道德上对的事态，蕴含着实现该道德上有价值之物的*义务*（*Verpflichtung*）（Reinach 1989i: 291ff，英译 99f）。例如，帮助身处困境的朋友这一行动是有价值的。因此，帮助身处困境的朋友在道德上是对的。但这恰恰意味着，人*应当*帮助身处困境的朋友——这是一个带有某种特殊道义模态（应当模态）的事态。这些实体中的每一个都能激发帮助朋友的道德行动，但它们激发的方式不同，而这些方式都关乎对行动者的道德评价。因此举例来说，仅出于义务而行动（对其底层价值无所意识）的行动者，在道德上不如仅因感受到价值、甚至可能并未明确意识到相应义务而行动的行动者值得称赞（见 von Hildebrand 1916）。
+    step2: |-
+      第二，要确定解决这一问题的诸因素，莱纳赫区分了可称为“社会的”规范性与“价值论的”规范性；“道德规范性”是后者的一个亚种，与审美规范性、认识规范性并列。承诺与其他心灵行为产生社会规范性——社会义务、请求权、规范等等；价值论规范性则植根于价值（1913a [1989: 152f]，英译 2012: 13f）。他写道：“道德上有价值的东西存在，这在道德上是对的；与之矛盾的事态在道德上则不对〔*unrecht*〕，等等。”（Reinach 1913a [1989: 153 注 1]，英译 2012: 49）要紧的是，“道德上有价值的东西存在”这个道德上对的事态，蕴含着实现该有价值之物的*义务*（*Verpflichtung*）（Reinach 1989i: 291ff，英译 99f）。例如，帮助身处困境的朋友这一行动是有价值的，所以帮助身处困境的朋友在道德上是对的。而这恰恰意味着，人*应当*帮助身处困境的朋友——这是一个带有特殊道义模态（应当模态）的事态。这些实体每一个都能激发帮助朋友的道德行动，但激发方式各不相同，而这些方式都牵涉对行动者的道德评价。比如，仅出于义务而行动、对其底层价值并无意识的行动者，在道德上就不如仅因感受到价值、甚至可能并未明确意识到相应义务而行动的行动者值得称赞（见 von Hildebrand 1916）。
+  - id: 53
+    kind: body
+    source: |-
+      Values are not valuings. The latter are psychological experiences, the former ideal objects that can be exemplified in the world. As for all objects, so it is at least in principle possible to grasp values. The experience in which values are given to us is feeling: e.g., we feel the generosity of an action, the beauty of a landscape, the cruelty of a practice, the elegance of a movement, the vibrancy of a department, the obscurity of a philosophical text. Feeling is not emoting, however. For one can feel values, without emotionally responding to the felt value. For instance, one can feel the injustice of a given action without any indignation at the unjust action.
+    step1: |-
+      价值不是价值感受。后者是心理经验，前者是可在世界中得到例示的观念对象。对象皆如此，价值亦然，至少原则上可以把握价值。价值在其中被给予我们的经验是感受：例如，我们感受到一个行动的慷慨、一片风景的美、一种做法的残酷、一个动作的优雅、一个系科的活力、一部哲学文本的晦涩。然而感受不是动情。因为人可以感受价值，而不对被感受的价值作出情绪回应。例如，人可以感受到某一给定行动的不义，而对这不义行动毫无愤慨。
+    step2: |-
+      价值不是价值感受。后者是心理经验，前者是可在世界中得到例示的观念对象。一切对象皆可把握，价值亦然，至少原则上如此。价值被给予我们的那种经验是感受：我们感受到一个行动的慷慨、一片风景的美、一种做法的残酷、一个动作的优雅、一个系科的活力、一部哲学文本的晦涩。但感受不是动情：人可以感受到价值，却不对所感受到的价值作出情绪回应。例如，人尽可感受到某个行动的不义，而对这不义之举毫无愤慨。
+  - id: 54
+    kind: body
+    source: |-
+      Importantly, values stand in a hierarchical order: some values are higher than others (1913b [1989: 485–515]). Reinach shares the concept of a hierarchy of values with several phenomenologists, including von Hildebrand, and particularly Scheler (for a comparison between Reinach and Scheler, see J. Smith 2017, esp. 174–178)[^smith-2017]. Higher values ground stronger duties, lower values weaker duties. The idea that duties have degrees of strength can now be brought to bear on the issue of immoral promises: if a subject promises an immoral action, are they morally compelled to keep the promise? It depends, argues Reinach: if the duty to omit the action is stronger than the duty to honor the promise, then the promisor ought not to act according to their promise (1913a [1989: 186f], English translation 2012: 45).
+    step1: |-
+      重要的是，价值处于一种等级秩序之中：有些价值高于另一些价值（1913b [1989: 485–515]）。莱纳赫与包括冯·希尔德布兰德、尤其是舍勒在内的若干现象学家共享价值层级这一概念（关于莱纳赫与舍勒的比较，见 J. Smith 2017，尤其 174–178）[^smith-2017]。较高的价值奠基较强的义务，较低的价值奠基较弱的义务。义务具有强度等级这一想法，如今可以用到不道德承诺的问题上：如果主体承诺了一个不道德的行动，他们在道德上是否有义务信守承诺？莱纳赫主张，这要看情况：如果不行该行动的义务强于信守承诺的义务，那么承诺者就不应按照其承诺行事（1913a [1989: 186f]，英译 2012: 45）。
+    step2: |-
+      价值还处于一种等级秩序之中：有些价值高于另一些（1913b [1989: 485–515]）。价值层级这一概念，莱纳赫与冯·希尔德布兰德、尤其是舍勒等若干现象学家共有（莱纳赫与舍勒的比较，见 J. Smith 2017，尤其 174–178）[^smith-2017]。较高的价值奠基较强的义务，较低的价值奠基较弱的义务。既如此，义务有强弱之别这一点就可用来处理不道德的承诺：主体若承诺了一个不道德的行动，在道德上还有义务守诺吗？莱纳赫说，要看情况——若不行该行动的义务强于守诺的义务，承诺者就不应按其承诺行事（1913a [1989: 186f]，英译 2012: 45）。
+  - id: 55
+    kind: body
+    source: |-
+      ## 5. Reinach’s Legacy
+    step1: |-
+      ## 5 莱纳赫的遗产
+    step2: |-
+      ## 5 莱纳赫的遗产
+  - id: 56
+    kind: body
+    source: |-
+      Reinach’s ideas have been influential in shaping the thoughts of many early phenomenologists. One of those who most clearly and generously recognizes his debt towards Reinach is his close friend Dietrich von Hildebrand, who picks up and advances many of his insights. Most importantly, von Hildebrand develops an ontology that has the notion of value at its very core. This notion is explored with regard to its implications for our understanding of ethics (von Hildebrand 1959) and aesthetics (1977–1984), the foundations of which require values as indispensable and fundamental elements. By expanding on Reinach’s remarks about deliberation (1912/13), von Hildebrand contributes to our understanding of the phenomenology of action by distinguishing different kinds of conative experiences (desire, willing, intention) and their role in shaping our conduct (see his 1916; this is a project, which is pursued further by Hans Reiner in his 1927)[^reiner-1927]. Von Hildebrand also elaborates on Reinach’s idea of social acts by claiming that some of our emotions are in-need-of being heard. Romantic love, for example, which is only one particular kind of love, strives to be understood by its addressee (1930). Furthermore, he develops Reinach’s knowledge-first approach to epistemology in terms that are more explicit than those used by Reinach himself: the act of coming to know something, according to von Hildebrand, is factive insofar as it always makes its subject acquainted with a fact (1976).
+    step1: |-
+      莱纳赫的想法在塑造许多早期现象学家的思想上颇有影响。其中最清楚、最慷慨地承认自己受惠于莱纳赫的，是他的挚友迪特里希·冯·希尔德布兰德，他承接并推进了莱纳赫的许多洞见。最重要的是，冯·希尔德布兰德发展出一种以价值概念为核心的本体论。这一概念在其对伦理学（von Hildebrand 1959）与美学（1977–1984）之含义方面得到探讨，而这两门学科的基础都需要价值作为不可或缺的基本要素。通过扩展莱纳赫关于慎思的论述（1912/13），冯·希尔德布兰德区分了不同种类的意动经验（欲望、意愿、意向）及其在塑造我们行为中的作用，从而推进了我们对行动现象学的理解（见其 1916；这一纲领由汉斯·赖纳在其 1927 年著作中进一步推进）[^reiner-1927]。冯·希尔德布兰德还申发了莱纳赫的社会行为想法，主张我们的某些情感也是需被听闻的。例如浪漫爱情——它只是爱的一种特殊类型——就力求为其受话者所理解（1930）。此外，他以比莱纳赫本人更明确的方式发展了莱纳赫的知识优先认识论进路：按冯·希尔德布兰德之说，认识某物的行为是事实性的，因为它总使其主体认识一个事实（1976）。
+    step2: |-
+      莱纳赫的想法影响了众多早期现象学家的思想。最清楚、也最慷慨地承认自己受惠于莱纳赫的，是他的挚友迪特里希·冯·希尔德布兰德；他承接并推进了莱纳赫的许多洞见。最重要的是，冯·希尔德布兰德发展出一种以价值概念为核心的本体论。这一概念在其伦理学（von Hildebrand 1959）与美学（1977–1984）含义上的展开，都以价值为不可或缺的基本要素。冯·希尔德布兰德扩展了莱纳赫关于慎思的论述（1912/13），区分不同种类的意动经验（欲望、意愿、意向）及其在塑造行为中的作用，从而推进了我们对行动现象学的理解（见其 1916；这一纲领由汉斯·赖纳 1927 年的著作进一步推进）[^reiner-1927]。他还申发了莱纳赫的社会行为想法，主张我们的某些情感同样需被听闻。浪漫爱情便是如此——它只是爱的一种特殊类型——力求为其受话者所理解（1930）。此外，他用比莱纳赫本人更明确的说法发展了知识优先的认识论进路：在冯·希尔德布兰德看来，认识某物的行为是事实性的，因为它总使主体认识一个事实（1976）。
+  - id: 57
+    kind: body
+    source: |-
+      Von Hildebrand follows Reinach, too, in arguing that philosophical knowledge is first and foremost knowledge of *a priori* states of affairs, meaning: states of affairs that are grounded in essences. This preoccupation with the very notion of essence is characteristic of the philosophical work of many early phenomenologists. An entire battery of publications on this topic, all of which refer to Reinach, were produced in the decades between the two World Wars. The most notable are by Jean Héring (1921), Roman Ingarden (1925), Herbert Spiegelberg (1930), and Wilhelm Pöll (1936).
+    step1: |-
+      冯·希尔德布兰德也追随莱纳赫，主张哲学知识首先是关于*先天*事态的知识，即关于植根于本质的事态的知识。这种对本质概念本身的关注，是许多早期现象学家哲学工作的特征。两次世界大战之间的几十年里，围绕这一主题产生了整整一批出版物，它们都援引莱纳赫。其中最著名的出自让·埃兰（Jean Héring，1921）、罗曼·英伽登（1925）、赫伯特·施皮格伯格（1930）与威廉·珀尔（Wilhelm Pöll，1936）。
+    step2: |-
+      冯·希尔德布兰德还追随莱纳赫，主张哲学知识首先是关于*先天*事态的知识，即关于植根于本质的事态的知识。对本质概念本身的这种关切，是许多早期现象学家哲学工作的特色。两次大战之间的几十年里，围绕这一主题出了一整批出版物，且都援引莱纳赫；其中最著名的是让·埃兰（Jean Héring，1921）、罗曼·英伽登（1925）、赫伯特·施皮格伯格（1930）与威廉·珀尔（Wilhelm Pöll，1936）的著作。
+  - id: 58
+    kind: body
+    source: |-
+      All of these works aim to illuminate the meaning of the term “essence”, which Reinach considered to be ambiguous (1912). One attempt at disambiguation is based on the idea that the “individual essence” of an entity (the essence that makes an entity the individual entity that it is) should be set apart from its “essentiality” (the essence that makes it an entity of the kind it is). These two notions should then be further distinguished from the essence in the sense of “idea” (this is the essence considered as such, i.e., as a stand-alone entity in isolation from its instances).
+    step1: |-
+      所有这些著作都旨在阐明“本质”一词的含义，而莱纳赫认为这个词是有歧义的（1912）。一种消除歧义的尝试基于如下想法：应当把实体的“个体本质”（使一个实体成为它所是的那个个体实体的本质）与其“本质性”（使它成为它所是的那类实体的本质）区分开来。这两个概念又应进一步与“理念”意义上的本质区分开来（这是就其本身、即孤立于其诸实例而作为独立实体来看的本质）。
+    step2: |-
+      这些著作都旨在阐明“本质”一词的含义——莱纳赫认为该词有歧义（1912）。一种消除歧义的做法是：把实体的“个体本质”（使一个实体成为它所是的那个个体实体的本质）与其“本质性”（使它成为它所是的那类实体的本质）分开；这两个概念又须进一步与“理念”意义上的本质相区别，后者是就其本身来看的本质，即孤立于其诸实例的独立实体。
+  - id: 59
+    kind: body
+    source: |-
+      Reinach’s theory of states of affairs has also sparked a debate among phenomenologists focusing on whether Reinach’s maximally realist position about states of affairs should be moderated in some way to render it ontologically more parsimonious. For instance, some have argued against the idea of negative states of affairs (Ingarden 1964–65, see: Chrudzimski 2012)[^chrudzimski-2012][^ingarden-1964], others against the idea of impersonal states of affairs (Pfänder 1921)[^pfänder-1921]. Daubert draws a distinction between the state of affairs as such (described along the lines of Reinach’s notion of unitary complex) and the various ways in which the state of affairs can be apprehended and conceptualized (states of affairs “as cognized”, “as questioned”, “as commanded”, and so on, see Schuhmann 1987)[^schuhmann-1987][^schuhmann-1987-2]. Maximilian Beck (1938) rejects the idea of state of affairs as mind-independent entities altogether by claiming that these entities merely depend on minds.
+    step1: |-
+      莱纳赫的事态理论也在现象学家中间引发了一场争论，焦点在于：莱纳赫关于事态的最大限度实在论立场，是否应作某种缓和，以使其在本体论上更为简约。例如，有人反对否定性事态的想法（Ingarden 1964–65，见 Chrudzimski 2012）[^chrudzimski-2012][^ingarden-1964]，另有人反对无人称事态的想法（Pfänder 1921）[^pfänder-1921]。道伯特区分了事态本身（按莱纳赫的统一复合体概念来描述）与事态可被把握和概念化的各种方式（“被认知的”、“被追问的”、“被命令的”事态等等，见 Schuhmann 1987）[^schuhmann-1987][^schuhmann-1987-2]。马克西米利安·贝克（1938）则彻底拒斥事态作为独立于心灵之实体的想法，主张这些实体仅仅依赖于心灵。
+    step2: |-
+      莱纳赫的事态理论也在现象学家中激起一场争论：他关于事态的最大限度实在论立场，是否该有所缓和，以使之在本体论上更简约？例如，有人反对否定性事态（Ingarden 1964–65，见 Chrudzimski 2012）[^chrudzimski-2012][^ingarden-1964]，另有人反对无人称事态（Pfänder 1921）[^pfänder-1921]。道伯特则区分事态本身（按莱纳赫的统一复合体概念来描述）与事态可被把握、被概念化的各种方式（“被认知的”“被追问的”“被命令的”事态等等，见 Schuhmann 1987）[^schuhmann-1987][^schuhmann-1987-2]。马克西米利安·贝克（1938）索性否弃事态是独立于心灵之实体这一想法，主张这些实体仅仅依赖于心灵。
+  - id: 60
+    kind: body
+    source: |-
+      Reinach’s investigations into legal and social entities has also influenced a number of phenomenologists. His theory of promises is at the basis of Wilhelm Schapp’s theory of contracts (1930) and has been reactivated recently to account for economic exchanges (Massin & Tieffenbach 2017; Salice 2022)[^massin-2017][^salice-2022]. Social acts are also discussed by Edith Stein in her account of the state (1925, see González-Di Pierro 2016; Taieb 2020)[^gonzález-di-2016][^taieb-2020] and by Gerda Walther in her account of social groups (1923, see Salice & Uemura 2018)[^salice-2018].
+    step1: |-
+      莱纳赫对法律实体与社会实体的探究也影响了不少现象学家。他的承诺理论是威廉·沙普契约理论（1930）的基础，近来又被重新启用，用以说明经济交换（Massin & Tieffenbach 2017; Salice 2022）[^massin-2017][^salice-2022]。社会行为也在艾迪特·施泰因关于国家的说明（1925，见 González-Di Pierro 2016; Taieb 2020）[^gonzález-di-2016][^taieb-2020]与格尔达·瓦尔特关于社会群体的说明（1923，见 Salice & Uemura 2018）[^salice-2018]中得到讨论。
+    step2: |-
+      莱纳赫对法律实体与社会实体的探究，也影响了不少现象学家。他的承诺理论是威廉·沙普契约理论（1930）的基础，近来又被重新起用，以说明经济交换（Massin & Tieffenbach 2017; Salice 2022）[^massin-2017][^salice-2022]。社会行为还见于艾迪特·施泰因关于国家的说明（1925，见 González-Di Pierro 2016; Taieb 2020）[^gonzález-di-2016][^taieb-2020]，以及格尔达·瓦尔特关于社会群体的说明（1923，见 Salice & Uemura 2018）[^salice-2018]。
+  - id: 61
+    kind: body
+    source: |-
+      These are just a few specific examples of ways in which Reinach has shaped the phenomenological movement. However, Reinach also exerted a more general influence on the distinctive way in which early phenomenologists used to philosophize. Exactly in accordance with Reinach’s understanding of phenomenology, they focus on very specific problems in exchanges that often span decades. The discipline of phenomenology, on Reinach’s view, can neither be reduced to the activity of a single individual (or “ego”), nor should it be conceived on the model of a “rigorous science”. Rather, it is a collaborative exercise, which follows a specific philosophical method (De Santis 2022).
+    step1: |-
+      这些只是莱纳赫塑造现象学运动的少数具体例子。然而，莱纳赫对早期现象学家从事哲学思考的独特方式还有更普遍的影响。完全依照莱纳赫对现象学的理解，他们聚焦于非常具体的问题，在往往跨越数十年的交流中推进。在莱纳赫看来，现象学这门学科既不能被还原为单个个体（或“自我”）的活动，也不应按“严格科学”的模型来设想。相反，它是一项协作性的事业，遵循一种特定的哲学方法（De Santis 2022）。
+    step2: |-
+      以上只是莱纳赫塑造现象学运动的几个具体例子。不过他还施加了更普遍的影响，塑造了早期现象学家特有的哲学思考方式。完全依循莱纳赫对现象学的理解，他们盯住非常具体的问题，在往往跨越数十年的往来切磋中推进。在莱纳赫看来，现象学这门学科既不能化约为单个个体（或“自我”）的活动，也不该按“严格科学”的模型来设想。它是一项协作事业，遵循一种特定的哲学方法（De Santis 2022）。
+  - id: 62
+    kind: body
+    source: |-
+      Reinach concludes his Marburg talk of 1914 with these words:
+    step1: |-
+      莱纳赫以如下的话结束他 1914 年的马尔堡演讲：
+    step2: |-
+      莱纳赫 1914 年马尔堡演讲的结尾是这样的：
+  - id: 63
+    kind: body
+    source: |-
+      > To future generations it will be just as unintelligible that an individual could devise philosophies as it is today that an individual might devise natural science. When continuity within philosophical work is attained, then that developmental process within world history in which one science after another separated off from philosophy will be realized within philosophy itself. Philosophy will become a rigorous science, not in that it imitates other rigorous sciences, but rather by keeping in mind that its problems require a peculiar method, the working out of which is the task of centuries. (Reinach 1914 [1989: 550], English translation [modified] 2012: 165)
+    step1: |-
+      > 对后代来说，个人竟能设计出种种哲学，将如同今天个人竟能设计出自然科学一样不可理解。当哲学工作中的连续性得以达成，那么世界历史中那一个又一个科学从哲学中分离出去的发展过程，就将在哲学自身内部得到实现。哲学将成为一门严格科学：不是靠模仿其他严格科学，而是靠牢记它的诸问题需要一种独特的方法，而把这种方法制定出来乃是数百年之任务。（Reinach 1914 [1989: 550]，英译〔经修改〕2012: 165）
+    step2: |-
+      > 在后代看来，一个人竟然能“设计”出种种哲学，会像今天一个人竟然能“设计”出自然科学一样不可理解。一旦哲学工作有了连续性，世界历史中那场一门接一门科学从哲学中分离出去的发展，就会在哲学内部重演。哲学将成为一门严格科学——不是靠模仿别的严格科学，而是靠牢记：它的问题需要一种独特的方法，而把这套方法做出来，是数百年的事业。（Reinach 1914 [1989: 550]，英译〔经修改〕2012: 165）
+  - id: 64
+    kind: body
+    source: |-
+      Reinach’s historical role in forming and propelling the phenomenological movement is still not fully appreciated. But perhaps even more importantly, the same can be said of his systematic insights: many of his ideas still wait to be re-activated within contemporary debates especially in areas such as the philosophy of mind, philosophy of action, axiology, philosophy of law, and social ontology.
+    step1: |-
+      莱纳赫在形成并推动现象学运动方面的历史作用，至今仍未得到充分认识。但也许更重要的是，他那些系统性的洞见同样如此：他的许多想法仍在等待在当代争论中被重新激活，尤其是在心灵哲学、行动哲学、价值论、法哲学与社会本体论等领域。
+    step2: |-
+      莱纳赫在形成与推动现象学运动上的历史作用，至今仍未得到充分认识。也许更重要的是，他的系统性洞见同样如此：他的许多想法仍在等待在当代讨论中被重新激活，尤其是在心灵哲学、行动哲学、价值论、法哲学与社会本体论这些领域。
+  - id: 65
+    kind: oir
+    source: |-
+      - Adolf Reinach, 1914, “[Concerning Phenomenology](https://dwillard.org/articles/concerning-phenomenology-trans-of-adolf-reinachs-ueber-phaenomenologie)”, translation of “Über Phänomenologie” by Dallas Willard, 1969.
+      - [Adolf Reinach on States of Affairs and Negative Judgments](https://www.ontology.co/reinacha.htm), includes an annotated bibliography of writing by and on Reinach, edited by Raul Corazzon.
+      - Barry Smith, [Papers on Adolf Reinach](https://ontology.buffalo.edu/smith/reinach_papers.html), including an on-line version of the 1987 intellectual biography with Karl Schuhmann.
+      - [Bavarian State Library](https://www.bsb-muenchen.de/en/) (*Bayerische Staatsbibliothek*, English pages). The site provides information about the inheritances (*Nachlässe*) of early phenomenologists.
+      - [Jahrbuch für Philosophie und phänomenologische Forschung](https://www.ophen.org/series-327) (Yearbook for Philosophy and Phenomenological Research), hosted at The Open Commons of Phenomenology.
+      - [The Open Commons of Phenomenology](https://ophen.org/). The website includes a database of early phenomenologists and makes available some of their publications.
+    step1: |-
+      - Adolf Reinach, 1914, “[Concerning Phenomenology](https://dwillard.org/articles/concerning-phenomenology-trans-of-adolf-reinachs-ueber-phaenomenologie)”，Dallas Willard 1969 年所译《Über Phänomenologie》。
+      - [阿道夫·莱纳赫论事态与否定判断](https://www.ontology.co/reinacha.htm)，含 Raul Corazzon 编的莱纳赫著作及其研究论著注释书目。
+      - Barry Smith，[阿道夫·莱纳赫研究论文集](https://ontology.buffalo.edu/smith/reinach_papers.html)，含 1987 年与 Karl Schuhmann 合著的思想传记在线版。
+      - [巴伐利亚州立图书馆](https://www.bsb-muenchen.de/en/)（*Bayerische Staatsbibliothek*，英文页面）。该网站提供早期现象学家的遗稿（*Nachlässe*）信息。
+      - [《哲学与现象学研究年鉴》](https://www.ophen.org/series-327)（Yearbook for Philosophy and Phenomenological Research），托管于“现象学开放共享”。
+      - [现象学开放共享](https://ophen.org/)。该网站包含早期现象学家数据库，并提供其部分著作。
+    step2: |-
+      - Adolf Reinach, 1914, “[Concerning Phenomenology](https://dwillard.org/articles/concerning-phenomenology-trans-of-adolf-reinachs-ueber-phaenomenologie)”，即《Über Phänomenologie》，Dallas Willard 1969 年英译。
+      - [阿道夫·莱纳赫论事态与否定判断](https://www.ontology.co/reinacha.htm)，含 Raul Corazzon 所编莱纳赫著作及研究文献的注释书目。
+      - Barry Smith，[阿道夫·莱纳赫研究论文集](https://ontology.buffalo.edu/smith/reinach_papers.html)，含与 Karl Schuhmann 合著的 1987 年思想传记在线版。
+      - [巴伐利亚州立图书馆](https://www.bsb-muenchen.de/en/)（*Bayerische Staatsbibliothek*，英文页面）。站点提供早期现象学家遗稿（*Nachlässe*）的信息。
+      - [《哲学与现象学研究年鉴》](https://www.ophen.org/series-327)（Yearbook for Philosophy and Phenomenological Research），由“现象学开放共享”托管。
+      - [现象学开放共享](https://ophen.org/)。网站收录早期现象学家数据库，并公开其部分著作。
+  - id: 66
+    kind: ack
+    source: |-
+      Alessandro Salice’s sincere thanks go to Jason Dockstader and Danny Forde for reading previous drafts of this entry and to Daniele De Santis, who made his transcription of Theodor Conrad’s unpublished manuscript (Ana 378, V 2) available for quotation.
+    step1: |-
+      亚历山德罗·萨利切（Alessandro Salice）衷心感谢 Jason Dockstader 与 Danny Forde 阅读本词条早先的草稿，并感谢达尼埃莱·德·桑蒂斯（Daniele De Santis）惠允引用其特奥多尔·康拉德未刊手稿（Ana 378, V 2）的转写本。
+    step2: |-
+      亚历山德罗·萨利切（Alessandro Salice）衷心感谢 Jason Dockstader 与 Danny Forde 阅读本词条的先前草稿，并感谢达尼埃莱·德·桑蒂斯（Daniele De Santis）提供特奥多尔·康拉德未刊手稿（Ana 378, V 2）的转写本以供引用。

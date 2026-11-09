@@ -2,8 +2,44 @@
   "slug": "reinach",
   "kind": "retranslate",
   "zh_doc": "r/reinach.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T19:31:25Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "qr-translator-1",
+      "at": "2026-11-08T22:08:36Z",
+      "evidence": "账本 66 段（body 64/oir 1/ack 1）双版全填，lq.py check HARD 0（SOFT：标题机械段 5、* 计数差异系书名号转换）；compose 写回 r/reinach.md 27841 字符；术语 42 条、人名 27 条经 script/qr_rows_reinach.py + reg_tool 登记（4 条并既有行：truth-maker/principle of bivalence/positive law/knowledge-first）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "qr-translator-1",
+      "at": "2026-11-08T22:31:07Z",
+      "evidence": "一校（准确性）：源 66 段与账本逐段身份一致（lq check 硬门）；年份/引用组编号扫描 0 缺失；标题 5/5 对位（保编号去英文句点）；OIR 6 条、致谢 1 段对位；脚注键 17 组按段对位无漂移；修正 2 处：段30「第二个台球运动的因果」→「运动的原因」（cause≠ground 区分），段63「在哲学内部重演」→「在哲学自身内部得到实现」；相关词条 16 项逐条回 SUMMARY 核验（先验证成与先验知识/法律的本质/自然法理论 等），compose 无 NOTE 未匹配"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "qr-translator-1",
+      "at": "2026-11-08T22:51:11Z",
+      "evidence": "二校（语言）：check_prose 告警 26→0，逐条人工改写——长句 3 处拆分（段1/段39/段49 原句域）；被字句 6 处改主动式（段13「被归属/被强加/被投射」→「出自人的归属、强加或投射」、段20「可以被实例化/不被实例化」→「得到/得不到实例化」、段45「被莱纳赫归入」→「莱纳赫都归入」、段48「是被发现的，不是被发明的」→「属于发现而非发明」、段57「可被把握、被概念化」→「把握、概念化」、段59「被认知的/被追问的/被命令的」→「作为认知对象/追问对象/命令对象」）；的密度 14 处重排（拆句、举例改「之」字结构：段53「行动之慷慨、风景之美」）；弱动词 2 处（作出承诺→许下承诺、作出情绪回应→作情绪回应）；脱稿通读另修 3 处语序"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "qr-translator-1",
+      "at": "2026-11-08T23:31:41Z",
+      "evidence": "三校（体例）：check_style 0 issue（curly-quotes/bold-spacing/cjk-spacing/no-html/no-text-fence）；check_math formulas 0、missing/unbalanced 空；check_academic --docs r/reinach.md --strict 0 硬错误（非存根 1、在途豁免 1）；术语 42 条、人名 27 条已 reg_tool 登记且正文锁主形（事态/社会行为/请求权/需被听闻性）；中文强调走 **加粗**、拉丁术语保留斜体（*sui generis*/*par excellence*/*Gegenstände*/*Sachverhalte*/*Tatbestand*）；尾部节序 References（引用注释）→学术工具→其他网络资源→相关词条→致谢"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-08T18:26:40Z",
   "version_pin": {
