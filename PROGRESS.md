@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 01:41（UTC）
+生成时间：2026-11-09 03:14（UTC）
 
 ## 总览
 
@@ -12,9 +12,9 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1157|
+|已建任务|1159|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|226|
+|已完成（done）|228|
 |在途（drafted 起、done 前）|243|
 |阻塞|0|
 
@@ -23,14 +23,14 @@
 |状态|数量|
 |---|---|
 |pending|688|
-|cleared|160|
-|drafted|8|
-|s1_checked|3|
-|s2_checked|1|
-|s3_checked|66|
-|r1_reviewed|4|
+|cleared|162|
+|drafted|5|
+|s1_checked|1|
+|s2_checked|2|
+|s3_checked|69|
+|r1_reviewed|3|
 |r2_reviewed|1|
-|done|226|
+|done|228|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -38,7 +38,7 @@
 |---|---|---|---|---|
 |A|160|160|160|54|
 |B|62|62|62|15|
-|C|172|172|172|4|
+|C|172|172|172|5|
 |D|92|92|92|11|
 |E|99|99|99|19|
 |F|96|96|96|1|
@@ -47,13 +47,13 @@
 |I|75|75|75|21|
 |J|38|38|38|8|
 |K|36|36|36|21|
-|L|144|144|20|18|
+|L|144|144|21|18|
 |M|139|139|14|6|
 |N|50|50|7|4|
-|O|21|21|10|8|
+|O|21|21|11|8|
 |P|165|165|5|1|
 |Q|34|34|34|1|
-|R|85|85|85|8|
+|R|85|85|85|9|
 |S|161|161|17|10|
 |T|71|71|7|2|
 |U|4|4|0|0|
@@ -120,7 +120,7 @@
 |bradley-regress|retranslate|cleared|task_ops 2026-11-01|
 |branching-time|retranslate|cleared|task_ops 2026-11-01|
 |brentano|retranslate|cleared|task_ops 2026-11-01|
-|brentano-judgement|retranslate|s1_checked|B-main-20261109b 2026-11-09|
+|brentano-judgement|retranslate|s3_checked|B-main-20261109b 2026-11-09|
 |broad|retranslate|cleared|task_ops 2026-11-01|
 |brouwer|retranslate|drafted|? 2026-11-01|
 |bruno|retranslate|cleared|task_ops 2026-11-01|
@@ -157,8 +157,7 @@
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
 |contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|cordemoy|retranslate|r2_reviewed|REV-main-20261109 2026-11-08|
-|cosmology-30s|retranslate|s1_checked|C-main-20261109 2026-11-08|
+|cosmology-30s|retranslate|s2_checked|C-main-20261109 2026-11-09|
 |creation-conservation|retranslate|s3_checked|主代理 2026-11-01|
 |crescas|retranslate|s3_checked|C-main-20261108 2026-11-07|
 |croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
@@ -192,14 +191,14 @@
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
 |george-eliot|retranslate|cleared|task_ops 2026-11-01|
-|gersonides|retranslate|s2_checked|g-beta-G-main-20261109 2026-11-08|
+|gersonides|retranslate|s3_checked|g-beta-G-main-20261109 2026-11-09|
 |gianfrancesco-pico|retranslate|cleared|task_ops 2026-11-01|
 |giles|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
-|god-necessary-being|retranslate|s1_checked|g-gamma-G-main-20261109 2026-11-08|
+|god-necessary-being|retranslate|s2_checked|g-gamma-G-main-20261109 2026-11-09|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
-|gorampa|retranslate|drafted|lead-G-main-20261109 2026-11-08|
+|gorampa|retranslate|s3_checked|lead-G-main-20261109 2026-11-09|
 |haecceitism|retranslate|cleared|task_ops 2026-11-01|
 |halevi|retranslate|cleared|task_ops 2026-11-01|
 |hamann|retranslate|cleared|task_ops 2026-11-01|
@@ -233,7 +232,7 @@
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
 |ingarden|retranslate|s3_checked|I-main-20261108 2026-11-08|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
-|intuitionism-ethics|retranslate|drafted|I-main-20261109 2026-11-08|
+|intuitionism-ethics|retranslate|s3_checked|I-main-20261109 2026-11-09|
 |it-moral-values|retranslate|cleared|task_ops 2026-11-08|
 |james-mill|retranslate|s3_checked|? 2026-11-07|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
@@ -282,14 +281,15 @@
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |la-forge|retranslate|s3_checked|L-main-20261109b 2026-11-09|
 |langer|retranslate|r1_reviewed|L-main-20261109 2026-11-08|
+|logic-hybrid|retranslate|cleared|task_ops 2026-11-09|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|drafted|M-main-20261109 2026-11-08|
-|model-organisms|retranslate|drafted|M-main-20261109 2026-11-09|
+|model-organisms|retranslate|s1_checked|M-main-20261109 2026-11-09|
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |newton-philosophy|retranslate|cleared|task_ops 2026-11-08|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
+|omniscience|retranslate|cleared|task_ops 2026-11-09|
 |quine-nf|retranslate|cleared|task_ops 2026-11-08|
-|reinach|retranslate|s3_checked|qr-translator-1 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |risk|retranslate|cleared|task_ops 2026-11-09|
 |saadya|retranslate|cleared|task_ops 2026-11-08|
@@ -300,7 +300,7 @@
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
-|william-sherwood|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
+|william-sherwood|retranslate|r2_reviewed|REV-main-20261109 2026-11-09|
 |wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |xenophanes|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
