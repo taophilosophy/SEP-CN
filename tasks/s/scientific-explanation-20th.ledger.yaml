@@ -1003,86 +1003,114 @@ segments:
     kind: body
     source: |-
       As remarked at the beginning of this section, the idea that explanation is connected in some way to unification is intuitively appealing. Nonetheless Kitcher’s particular way of cashing out this connection has been subject to criticism. In connection with Kitcher’s treatment of explanatory asymmetries, consider, following Barnes (1992), a time-symmetric theory like Newtonian mechanics, applied to a closed system like the solar system. Call derivations of the state of motion of planets at some future time *t* from information about their present positions (at time $t_0$), masses, and velocities, the forces incident on them at $t_0$, and the laws of mechanics *predictive*. Now contrast such derivations with *retrodictive* derivations in which the present motions of the planets are derived from information about their future velocities and positions at *t*, the forces operative at *t*, and so on. It looks as though there will be just as many retrodictive derivations as predictive derivations, and each will require premises of exactly the same general sort—information about positions, velocities, masses, etc. and the same laws. Thus the pattern or patterns instantiated by the retrodictive derivations look(s) exactly as unified as the pattern or patterns associated with the predictive derivations. However, we ordinarily think of the predictive derivations and not the retrodictive derivations as explanatory and the present state of the planets as the cause of their future state and not vice-versa.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如本节开头所言，解释与统一以某种方式相关联这一想法在直觉上有吸引力。然而基切尔兑现这一关联的特定方式受到了批评。关于基切尔对解释不对称性的处理，循巴恩斯（Barnes 1992）之例，考虑一个如牛顿力学那样的时间对称理论，应用于如太阳系这样一个封闭系统。称下述推导为*预测性*的：由行星在当下（时刻 $t_0$）的位置、质量与速度、它们在 $t_0$ 所受诸力以及力学诸律，推出行星在未来某时刻 *t* 的运动状态。现在把此类推导与*回溯性*推导相对照：由行星在 *t* 的未来速度与位置、在 *t* 起作用的诸力等信息，推出行星当下的运动。看来回溯性推导与预测性推导数目相当，且每一类都要求完全同种的一般前提——关于位置、速度、质量等的信息与同样的诸律。于是回溯性推导所例示的模式，与预测性推导相关联的模式看起来同样统一。然而我们通常认为预测性推导（而非回溯性推导）是解释，并认为行星的当下状态是其未来状态的原因，而非相反。
+    step2: |-
+      如本节开篇所说，解释与统一有关这一想法直觉上颇可取。但基切尔兑现该关联的具体方式受到批评。就他对解释不对称性的处理，循 Barnes（1992）之例，考虑牛顿力学这类时间对称理论应用于太阳系这样的封闭系统。称如下推导为*预测性*：由行星当下（$t_0$ 时刻）的位置、质量、速度、其在 $t_0$ 所受的力与力学诸律，推出它们未来某时刻 *t* 的运动状态。与之对照的是*回溯性*推导：由行星在 *t* 的速度与位置、在 *t* 起作用的力等，推出其当下运动。二者数目似乎相当，前提亦全同种——位置、速度、质量等信息加同样的律。故回溯性推导所例示的模式，与预测性推导的模式看起来同样统一。可我们通常只把预测性推导当解释，并视行星当下状态为其未来状态之因，而非相反。
   - id: 124
     kind: body
     source: |-
       One possible response to this second example is to bite the bullet and to argue that from the point of view of fundamental physics, there really is no difference in the explanatory import of the retrodictive and predictive derivations, and that it is a virtue, not a defect, of the unificationist approach that it reproduces this judgment. Whatever might be said in favor of this response, it is not Kitcher’s. His claim is that our ordinary judgments about causal asymmetries can be derived from the unificationist account. The example just described casts doubt on this claim. More generally, it casts doubt on Kitcher’s contention that one can begin with the notion of explanatory unification, understood in a way that does not presuppose causal notions, and use it to derive the content of causal judgments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这第二个例子的一个可能回应，是硬着头皮主张：从基础物理学的观点看，回溯性推导与预测性推导在解释分量上确无差别，而统一论进路重现这一判断，是其优点而非缺点。无论可以为这一回应说些什么，它都不是基切尔的立场。他的主张是：我们关于因果不对称性的日常判断可以由统一论说明中推出。刚才描述的例子对这一主张构成怀疑。更一般地说，它对基切尔的这一论点构成怀疑：人可以从解释统一性概念出发——以一种不预设因果概念的方式来理解它——并用它推出因果判断的内容。
+    step2: |-
+      对这第二例的一种回应是硬着头皮主张：就基础物理学而言，回溯性与预测性推导在解释分量上确无差别；统一论重现此判断，是优点而非缺点。无论此说可如何辩护，它都不是基切尔的立场——他主张我们关于因果不对称性的日常判断可由统一论推出。上例正使这一主张可疑；更一般地，也使基切尔的这一论点可疑：可以不预设因果概念地理解解释统一性，再由它推出因果判断的内容。
   - id: 125
     kind: body
     source: |-
       **Selected Readings**: The most detailed statement of Kitcher’s position can be found in Kitcher (1989). Salmon (1989: 94ff.) contains a critical discussion of Friedman’s version of the unificationist account of explanation but ends by advocating a “rapprochement” between unificationist approaches and Salmon’s own causal mechanical model. Woodward (2003) contains additional criticisms of Kitcher’s version of unificationism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **推荐读物**：基切尔立场最详尽的陈述见 Kitcher（1989）。Salmon（1989: 94ff.）对弗里德曼版统一论说明作了批判性讨论，但末尾主张统一论进路与萨蒙自家的因果机制模型之间应有一种“和解”。Woodward（2003）包含对基切尔版统一论的更多批评。
+    step2: |-
+      **推荐读物**：基切尔立场最详陈述见 Kitcher（1989）；Salmon（1989: 94ff.）批判弗里德曼版统一论，然文末主张统一论与因果机制模型“和解”；Woodward（2003）另有对基切尔版统一论的更多批评。
   - id: 126
     kind: body
     source: |-
       ## 6. Pragmatic Theories of Explanation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 解释的语用学理论
+    step2: |-
+      ## 6 解释的语用学理论
   - id: 127
     kind: body
     source: |-
       ### 6.1 Introduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 导论
+    step2: |-
+      ### 6.1 导论
   - id: 128
     kind: body
     source: |-
       Despite their many differences, the accounts of Hempel (focusing now on just the *DN* rather than the *IS* model), Salmon, Kitcher, and others discussed above, largely share a common overall conception of what the project of constructing a theory of explanation should involve and (to a considerable extent) what criteria such a theory should satisfy if it is to be successful. “Pragmatic” theories of explanation depart from this consensus in important respects. Let us say that a theory of explanation contains “pragmatic” elements if (i) according to the theory, those elements require irreducible reference to facts about the interests, beliefs or other features of the psychology of those providing or receiving the explanation and/or (ii) irreducible reference to the “context” in which the explanation occurs. (For what this means, see below.) Although the writers discussed above agree that pragmatic elements play some role in the activity of giving and receiving explanations, they assume that there is a non-pragmatic core to the notion of explanation, which it is the central task of a theory of explanation to capture. That is, it is assumed that this core notion can be specified without reference to psychological features of explainers or their audiences and with reference to non-contextual features that are sufficiently general, abstract and “structural,” in the sense that they hold across a range of explanations with different contents and across a range of different contexts. Relations like deductive entailment or statistical relevance are examples of candidates for such “structural” relationships. In addition, these writers see the goal of a theory of explanation, as capturing the notion of a *correct* explanation, as opposed to the notion of an explanation’s being considered explanatory by a particular audience or not, a matter which presumably depends on such considerations as whether the audience understands the terms in which the explanation is framed. (In this sense, “correctness” requires (at least) that the explanans be true or “well-confirmed” and that the explanans stands in the right relationship to the explanandum.) Finally, as noted in the Introduction to this entry, writers in this tradition have *not* had the goal of capturing all the various ways in which the word “explanation” is used in ordinary English. They have instead focused on a much more restricted class of examples in which what is of interest is (something like) explaining “why” some outcome or general phenomenon occurred, as opposed to explaining, e.g., the meaning of a word or how to solve a differential equation. The motivation for this restriction is simply the judgment that an interesting and non-trivial theory is more likely to emerge if it is restricted in scope in this way. For ease of reference, let us call this the “traditional” conception of the task of a theory of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管差异甚多，上文所讨论的亨佩尔（此处只谈 *DN* 模型而非 *IS* 模型）、萨蒙、基切尔等人的说明，大体共享一个关于“构造解释理论这一工程应当包含什么”的总括构想，并在相当程度上共享此类理论若要成功所应满足的标准。解释的“语用”理论在重要方面背离这一共识。不妨说，若一个解释理论包含“语用”成分，即：(i) 按该理论，这些成分要求不可化约地诉诸关于提供或接受解释者之兴趣、信念或其他心理特征的事实，且／或 (ii) 不可化约地诉诸解释发生于其中的“语境”。（此语何意，见下文。）尽管上述诸家都同意语用成分在给出与接受解释的活动中起某种作用，他们仍假定解释概念有一个非语用的核心，而解释理论的中心任务就是把握它。也就是说，人们假定：这一核心概念可以在不诉诸解释者或其听众之心理特征的情况下加以规定，并且诉诸的是足够一般、抽象、“结构性的”非语境特征——就此而言，它们在不同内容的多种解释之间、在不同语境之间都成立。演绎后承或统计相关性这类关系，便是此类“结构性”关系的候选例。此外，这些理论家把解释理论的目标看作把握*正确*解释的概念，而不是某一解释被某特定听众视为解释与否（这大概取决于听众是否理解解释所用的词项这类考虑）。（在这个意义上，“正确性”至少要求解释项为真或“充分确证”，且解释项与被解释项处于正确关系中。）最后，如本条目导言所述，这一传统的理论家*并未*以捕捉英语“explanation”一词的所有用法为目标。他们关注的是一类远为受限的例子，其中有意思的是（大致）解释某结果或一般现象*为何*发生，而非解释一个词的意义或如何解一道微分方程。作此限定的理由，只是一个判断：如此限定范围，更可能得出一个有意义且不平凡的理论。为便于引用，且称此为解释理论任务的“传统”构想。
+    step2: |-
+      诸家说明——亨佩尔（此处只论 *DN* 而不论 *IS*）、萨蒙、基切尔等——虽差异甚多，却大体共享一个总括构想（解释理论工程当包含什么），并在相当程度上共享其成功标准。解释的“语用”理论在紧要处背离这一共识。所谓理论含“语用”成分，指：(i) 依该理论，此成分须不可化约地诉诸解释的提供者或接受者之兴趣、信念等心理特征的事实；且／或 (ii) 须不可化约地诉诸解释所在的“语境”（其意见下文）。上列诸家虽同意语用成分在解释活动中有一定作用，仍假定解释概念有一非语用的核心，而理论的中心任务即把握之。亦即：此核心可不诉诸解释者或听众的心理特征而加以规定，且所诉诸的是足够一般、抽象、“结构性的”非语境特征——在不同内容、不同语境的各种解释之间一律成立。演绎后承、统计相关性一类关系，便是这类“结构性”关系的候选。此外，他们视理论目标为把握*正确*解释，而非某解释是否被某听众认作解释（后者大概取决于听众是否懂所用词项）。就此而言，“正确”至少要求解释项为真或“充分确证”，并与被解释项处于正确关系。最后，如导言所说，此传统的理论家*并未*以穷尽英语 explanation 一词的诸用法为目标，而只关注一类远为受限的例子：有意思的是解释某结果或普遍现象*为何*发生，而非解释词义或如何解微分方程。如此限定的理由只是一个判断：限此范围，更可能得出有意义且不平凡的理论。为便引用，称之为解释理论任务的“传统”构想。
   - id: 129
     kind: body
     source: |-
       Some or all of these assumptions and goals are rejected in pragmatic accounts of explanation. Early contributors to this approach include Michael Scriven (e.g., 1962) and Sylvan Bromberger (e.g., 1966), with more systematic statements, due to van Fraassen (1980) and Achinstein (1983) appearing in the 1980s. Since it is not always clear just what the points of disagreement are between pragmatic and traditional accounts, some orienting remarks about this will be useful before turning to details. Defenders of pragmatic approaches to explanation typically stress the point that whether provision of a certain body of information to some audience produces understanding or is illuminating for that audience depends on the background knowledge of the audience members and on other factors having to do with the local context. For example, an explanation of the deflection of starlight by the sun that appeals to the field equations of General Relativity may be highly illuminating to a trained physicist but unintelligible to a layperson because of their background. Factors of this sort are grouped together as “pragmatic” and their influence is taken to illustrate at least one way in which pragmatic considerations enter into the notion of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      解释的语用说明拒斥上述部分或全部假定与目标。这一进路的早期贡献者包括迈克尔·斯克里文（如 1962）与西尔万·布罗姆伯格（如 1966），较系统的陈述则有范弗拉森（1980）与阿钦斯坦（1983），出现于 1980 年代。由于语用说明与传统说明之间的分歧所在并不总是清楚，在转入细节之前作若干定向说明会有用处。语用进路的捍卫者通常强调：向某听众提供某一信息是否产生理解、对该听众是否有启发，取决于该听众的背景知识以及与其他地方性语境有关的因素。例如，诉诸广义相对论场方程的星光偏折解释，对训练有素的物理学家可能极富启发，而对非专业人士则因其背景而不可解。这类因素被一并归为“语用”，其作用至少说明了语用考量进入解释概念的一种方式。
+    step2: |-
+      语用说明拒斥上述假定与目标的全部或部分。早期贡献者有迈克尔·斯克里文（如 1962）、西尔万·布罗姆伯格（如 1966）；较系统的陈述出于范弗拉森（1980）与阿钦斯坦（1983），刊于 1980 年代。既然语用与传统两说的分歧所在不总是清楚，转入细节前先作定向说明不无裨益。语用进路的捍卫者常强调：向某听众提供某信息是否生理解、是否有启发，取决于听众的背景知识与地方语境的其他因素。例如以广义相对论场方程解释星光偏折，对训练有素的物理学家或极富启发，对常人却因其背景而不可解。此类因素被统称“语用”，其作用至少道出语用考量进入解释概念的一途。
   - id: 130
     kind: body
     source: |-
       Taken in itself, the observation just described seems completely uncontroversial and not in conflict with traditional approaches to explanation. Indeed, as remarked above writers like Hempel and Salmon explicitly agree that explanation has a pragmatic dimension in the sense just described—in fact, Hempel invokes the role of pragmatic factors at a number of points to address prima-facie counterexamples to the DN model. This suggests that, often at least, what is distinctive about pragmatic approaches to explanation is not just the bare idea that explanation has a “pragmatic dimension” but rather the much stronger claim that the traditional project of constructing a model of explanation pursued by Hempel and others has so far been unsuccessful ( and perhaps is *bound* to be unsuccessful) and that this is so *because* pragmatic or contextual factors play a central and ineliminable role in explanation in a way that resists incorporation into models of the traditional sort. On this view, much of what is distinctive about pragmatic accounts is their opposition to traditional accounts and their *diagnosis* of why such accounts fail—they fail because they omit pragmatic or contextual elements. It will be important to keep this point in mind in what follows because there is a certain tendency among advocates of pragmatic theories to argue as though the superiority of their approach is established simply by the observation that explanation has a pragmatic dimension; instead it seems more appropriate to think that the real issue is whether traditional approaches are inadequate in principle because of their neglect of the pragmatic dimension of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就其本身而论，刚才所述的观察似乎毫无反对意见，且与传统解释进路并不冲突。事实上，如上所述，亨佩尔与萨蒙这类理论家明确表示同意：解释在上述意义上有语用维度——事实上，亨佩尔多次诉诸语用因素的作用，以回应针对 *DN* 模型的表面反例。这提示我们：语用进路之所以独特，往往不只在于“解释有语用维度”这一赤裸想法，而在于一个强得多的主张——亨佩尔等人追求的传统解释建模工程迄今未曾成功（而且或许*注定*不成功），而这*是因为*语用或语境因素在解释中起着中心且不可消除的作用，抗拒被纳入传统类型的模型。在这一看法下，语用说明的独特之处，大部分在于其对传统说明的反对、以及对其为何失败的*诊断*——它们失败是因为遗漏了语用或语境成分。下文须牢记这一点，因为语用理论的倡导者有某种倾向，仿佛仅凭“解释有语用维度”这一观察就确立了自己进路的优越；更恰当的说法或许是：真正的问题在于，传统进路是否因忽视解释的语用维度而在原则上不充足。
+    step2: |-
+      就其本身言，上所述观察似毫无反对意见，亦不与传统进路冲突。如上所说，亨佩尔、萨蒙诸家明确表示同意解释有此语用维度——亨佩尔即多次诉诸语用因素以回应针对 *DN* 模型的表面反例。是故语用进路之独特，往往不在“解释有语用维度”这一空话，而在一个强得多的主张：亨佩尔等人的传统建模工程迄今未成（且或许*注定*不成），其*因*在于语用或语境因素在解释中居中心而不可消除之位，抗拒纳入传统模型。依此看法，语用说之独特，多在其对传统说的反对及对传统说何以为失败的*诊断*——失败于遗漏语用或语境成分。下文须牢记此点：语用论者常有此倾向，仿佛只凭“解释有语用维度”一语便坐实自家进路之优；更恰当者应是：真问题在于传统进路是否因忽视语用维度而在原则上不充足。
   - id: 131
     kind: body
     source: |-
       A second issue concerns an important ambiguity in the notion of “pragmatic”. On one natural understanding of this notion, a pragmatic consideration is one that has to do with utility or usefulness in the service of some goal connected to human interests, where these interests are in some relevant sense “practical”. Call this notion “pragmatic₁”. On this construal, Hempel’s *DN* model might be correctly characterized as a pragmatic₁ theory since it links explanatory information closely to the provision of information that is useful for purposes of prediction and prediction certainly qualifies as a pragmatic goal. For similar reasons, Woodward’s (2003) theory of explanation might also be counted as a pragmatic₁ theory since it connects explanation with the provision of information that is useful for manipulation and control—unquestionably useful goals. As these examples suggest, models of explanation that aspire to traditional goals can be pragmatic₁ theories.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二个问题关乎“语用”概念的一个重要歧义。对这个概念的一种自然理解是：语用考量是关乎效用或有用性的考量，服务于与人类利益相连的某个目标，而这些利益在相关意义上是“实践的”。称这一概念为“语用₁”。照此理解，亨佩尔的 *DN* 模型或许可以被正确地刻画为语用₁理论，因为它把解释性信息与对预测有用的信息紧密联系起来，而预测当然算得一个实践目标。出于类似理由，伍德沃德（2003）的解释理论也可算作语用₁理论，因为它把解释与对操控和控制有用的信息联系起来——这无疑是有益的目标。这些例子提示：以传统目标自期的解释模型，可以是语用₁理论。
+    step2: |-
+      第二问题关乎“语用”一词的重要歧义。依一种自然理解，语用考量即关乎效用或有用性的考量，服务于与人类利益相连之目标，而这些利益在相关意义上是“实践的”。此概念可称“语用₁”。照此，亨佩尔的 *DN* 模型不妨正确地表为语用₁理论：它把解释性信息与对预测有用的信息紧相连，而预测自是实践目标。同理，Woodward（2003）之理论亦可算语用₁理论，因为它把解释与对操控、控制有用的信息相联——此无疑为有益目标。由这些例子可见：以传统目标自期的解释模型，不妨是语用₁理论。
   - id: 132
     kind: body
     source: |-
       In the context of theories of explanation, however, the label “pragmatic” is usually intended to suggest a somewhat different set of associations. In particular, as noted above, “pragmatic” is typically used to characterize considerations having to do with facts about the psychology (interests, beliefs etc.) of those involved in providing or receiving explanations and/or to characterize considerations involving the local context, often with the suggestion that both sets of considerations may vary in complex and idiosyncratic ways that resist incorporation into the sort of general theory sought by traditional models.[^note-10] Call this set of associations “pragmatic₂”. Neither Hempel’s nor Woodward’s theory is pragmatic₂. In particular, as the example of the *DN* model illustrates, the fact that a theory is pragmatic₁ in the sense that it appeals to facts about goals generally shared by human beings (such as prediction) to help to motivate a model of explanation does *not* preclude attempting to construct models of explanation satisfying traditional goals and does not require commitment to the idea that explanation must be understood as a pragmatic₂ notion. We need to be careful to distinguish these two different ways of thinking about the “pragmatic” dimension of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，在解释理论的语境中，“语用”这个标签通常意在唤起一组稍有不同的联想。尤其，如上所述，“语用”通常用来刻画与解释的提供者或接受者之心理事实（兴趣、信念等）有关的考量，和／或用来刻画涉及局部语境的考量，且往往带有这样的暗示：两组考量都可能以复杂而各自特有的方式变动，抗拒被纳入传统模型所寻求的那种一般理论。[^note-10] 称这组联想为“语用₂”。亨佩尔与伍德沃德的理论都不是语用₂。尤其，如 *DN* 模型之例所示：一个理论是语用₁的——即诉诸人类普遍共享的目标（如预测）方面的事实来帮助动机化一个解释模型——这一事实*并不*排斥构造满足传统目标的解释模型之尝试，也*并不*要求承诺解释必须被理解为语用₂概念。我们需要小心区分思考解释“语用”维度的这两种不同方式。
+    step2: |-
+      但在解释理论中，“语用”标签通常意在唤起另一组联想。如上所述，它多用来刻画与解释提供者或接受者的心理事实（兴趣、信念等）有关的考量，和／或涉及局部语境的考量，且往往暗含：两组考量皆可能以复杂而各异的方式变动，抗拒纳入传统模型所求的一般理论。[^note-10] 此组联想可称“语用₂”。亨佩尔与伍德沃德的理论皆非语用₂。如 *DN* 模型所示：一理论之为语用₁——诉诸人同此心的目标（如预测）以动机化解释模型——*并不*排斥构造合乎传统目标的模型，亦*不*要求承诺解释须作语用₂理解。思及解释的“语用”维度，须分辨此二路。
   - id: 133
     kind: body
     source: |-
       Finally, as emphasized above, a concern with the pragmatics of explanation naturally connects with an interest in the “psychology” of explanation and this in turn suggests the relevance of empirical studies of sorts of information that various subjects (ordinary folks, scientists) find explanatory, treat as providing “understanding”, the distinctions subjects make among explanations and so on. Although there is a growing literature in this area, the most prominent philosophical advocates of pragmatic approaches to explanation have so far tended not to make use of it. In this connection, it is worth pointing out that this psychological literature goes well beyond the truisms found in philosophical discussion about different people finding different sorts of information explanatory depending on their interests. In particular, psychologists have been very interested in exploring general features or structural patterns present in information that various subjects find explanatory. For example, Lombrozo (2010) finds evidence that subjects prefer explanations that appeal to relationships that are relatively stable (in the sense of continuing to hold across changing circumstances)[^note-11] and Lien and Cheng (2000) present evidence that in cases in which the *explanandum* $E$ has a single candidate cause $C$, subjects prefer levels of explanation/causal description that maximize $\Delta p = \Pr(E\mid C) - \Pr(E \mid \text{not-}C)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，如上所述，对解释之语用的关切，自然与对解释“心理学”的兴趣相连；这又提示了经验研究的相关性——各类主体（普通人、科学家）觉得哪些信息有解释力、视之为提供“理解”、在解释之间作何区分，等等。尽管这一领域的文献正在增长，语用进路最著名的哲学倡导者迄今往往未加利用。就此值得一提的是：这片心理学文献早已超出哲学讨论中的老生常谈——不同人依其兴趣而觉得不同信息有解释力。尤其，心理学家极有兴趣探究各类主体觉得有解释力的信息中存在的通泛特征或结构模式。例如，Lombrozo（2010）发现证据表明：主体偏好诉诸相对稳定关系（即在变动情境中继续成立）的解释；[^note-11] Lien 与 Cheng（2000）则提出证据：在被解释项 $E$ 只有单一候选原因 $C$ 的情形中，主体偏好使 $\Delta p = \Pr(E\mid C) - \Pr(E \mid \text{not-}C)$ 最大化的解释／因果描述层级。
+    step2: |-
+      末了，如上所述，关切解释之语用，自然连着对解释“心理学”的兴趣，进而提示经验研究的相关性——各类主体（常人、科学家）以何种信息为有解释力、何者提供“理解”、如何在解释间作区分，等等。此域文献虽渐多，语用进路最著名的哲学倡导者迄今往往未予利用。值得一提的是：心理学文献早已超出哲学中的老生常谈（人各因其兴趣而以不同信息为解释）。尤其，心理学家甚愿探究诸主体视为有解释力的信息中所含的通泛特征或结构模式。例如 Lombrozo（2010）取证谓：主体偏好诉诸相对稳定（于变动情境中仍成立）之关系的解释；[^note-11] Lien 与 Cheng（2000）则取证谓：当被解释项 $E$ 仅有单一候选原因 $C$ 时，主体偏好使 $\Delta p = \Pr(E\mid C) - \Pr(E \mid \text{not-}C)$ 最大化的解释／因果描述层级。
   - id: 134
     kind: body
     source: |-
       Notice that in both cases these are relationships or patterns of the sort that traditional accounts of explanation attempt to capture. As these examples bring out, there is no necessary incompatibility between the project of trying to formulate an account of explanation that satisfies traditional goals and an interest in the psychology of explanation. It may be that subjects find certain sorts of information explanatory or understanding-producing *because* certain structural features of the sort that traditional accounts attempt to characterize are present in that information—indeed this is what the Lombrozo and Lien and Cheng papers suggest. Thus, we should distinguish the project of investigating the empirical psychology of explanation (which can be pursued with a variety of different commitments about how to best theorize about explanation) from the more specific claim that the characterization of what it is for an explanatory relationship to hold between explanans and explanandum must be given in “psychologistic” terms, in the sense that this requires irreducible reference to psychological facts about particular audiences such as the vagaries of what they happen to be interested in.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意在两种情形中，这些都是传统解释说明试图捕捉的那类关系或模式。这些例子表明：试图提出一个满足传统目标的解释说明，与对解释心理学的兴趣之间，并无必然的不相容。主体觉得某类信息有解释力或产生理解，*可能是因为*该类信息中存在传统说明试图刻画的结构特征——Lombrozo 与 Lien、Cheng 的论文所提示的正是这一点。因此，我们应当区分两件事：一是研究解释的经验心理学（这可以在关于如何最好地对解释作理论化的多种承诺之下进行）；二是那个更具体的主张——对解释项与被解释项之间解释关系何以成立的刻画，必须以“心理主义”的术语给出，即这要求不可化约地诉诸关于特定听众的心理事实，例如他们恰好感兴趣之物的反复无常。
+    step2: |-
+      注意：两例所涉正是传统说明力图捕捉的那类关系或模式。是故，提出满足传统目标的解释说明，与关切解释心理学，二者并无必然冲突。主体以某类信息为有解释力、能生理解，*或正因*其中有所谓传统说明欲刻画的结构特征——Lombrozo 与 Lien、Cheng 之文所提示者即是。故当分辨两端：一是研究解释的经验心理学（此可对“如何最好地理论化解释”持种种不同承诺而行）；二是较特定之主张——凡刻画解释项与被解释项间解释关系之成立，必以“心理主义”术语给出，即须不可化约地诉诸特定听众的心理事实，如其兴趣之无常。
   - id: 135
     kind: body
     source: |-
       ### 6.2 Constructive Empiricism and the Pragmatic Theory of Explanation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 建构经验主义与解释的语用理论
+    step2: |-
+      ### 6.2 建构经验主义与解释的语用理论
   - id: 136
     kind: body
     source: |-
       One of the most influential recent pragmatic accounts of explanation is associated with constructive empiricism.[^note-12] This is the thesis, defended by Bas van Fraassen in his 1980 book, *The Scientific Image*, that the aim of science (or at least “pure” science) is the construction of theories that are “empirically adequate” (that is, that yield a true or correct description of observables) and not, as scientific realists suppose, theories that aim to tell literally true stories about unobservables. Relatedly, “acceptance” of a theory involves only the belief that it is empirically adequate (van Fraassen 1980: 12)[^fraassen-1980]. van Fraassen’s account of explanation, which is laid out in several articles and, most fully, in Chapter Six of his book, is meant to fit with this overall conception of science: it is a conception according to which explanation per se is not an epistemic aim of “pure” science (empirical adequacy is the only such aim), but rather a “pragmatic” virtue, having to do with the “application” of science. (Note that the application of science is arguably a matter of pragmatics₁. However, the idea that explanation has to do with the application of science is used to motivate the adoption of a pragmatic₂ theory of explanation. We thus have an elision of the two notions of “pragmatic” distinguished above.) According to van Fraassen, because explanation is a merely pragmatic virtue, a concern with explanation is not something that can require scientists to move beyond belief in the empirical adequacy of their theories to belief in the literal truth of claims about unobservable entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      晚近最有影响的语用解释说明之一，与建构经验主义相连。[^note-12] 这是巴斯·范弗拉森在其 1980 年著作《科学的形象》（*The Scientific Image*）中捍卫的论题：科学（或至少“纯粹”科学）的目标是构造“经验上充足”的理论（即对可观察者给出真实或正确的描述），而非如科学实在论者所设想的、旨在关于不可观察者说出字面上为真的故事。相关地，“接受”一个理论仅涉及相信它经验上充足（van Fraassen 1980: 12）[^fraassen-1980]。范弗拉森的解释说明见于数篇文章，并在该书第六章中得到最充分的陈述，意在契合这一关于科学的总构想：依此构想，解释本身并非“纯粹”科学的认识论目标（经验充足性是唯一此类目标），而是一种“语用”美德，关乎科学的“应用”。（注意：科学之应用可以说是语用₁之事。然而，“解释关乎科学之应用”这一想法被用来动机化对语用₂解释理论的采纳。于是我们对上文区分的两个“语用”概念作了一次滑转。）据范弗拉森，既然解释只是语用美德，对解释的关切就不能要求科学家越过对其理论经验充足性的信念，去相信关于不可观察实体之主张的字面为真。
+    step2: |-
+      晚近最有影响的语用解释说明之一，系于建构经验主义。[^note-12] 此论题为巴斯·范弗拉森在 1980 年《科学的形象》（*The Scientific Image*）中所捍卫：科学（至少“纯粹”科学）之鹄的是构造“经验上充足”的理论——对可观察者给出正确描述——而非如科学实在论者所设想的那样，旨在就不可观察者说出字面为真的故事。相关地，“接受”一理论只含相信它经验上充足（van Fraassen 1980: 12）[^fraassen-1980]。范弗拉森的解释说明散见数文，于该书第六章陈述最备，意在契合此总构想：解释本身不是“纯粹”科学的认识论目标（经验充足性是唯一目标），而是一“语用”美德，关乎科学之“应用”。（科学之应用本是语用₁之事；然“解释关乎应用”一说却被用来动机化语用₂理论——这里对上文所分的两个“语用”作了一次滑转。）依范弗拉森，解释既只是语用美德，关切解释便不能要求科学家越过理论经验充足性之信念，去信关于不可观察实体主张的字面为真。
   - id: 137
     kind: body
     source: |-
