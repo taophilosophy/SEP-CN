@@ -1,0 +1,348 @@
+{
+ "key": "declarative sentence",
+ "term": "declarative sentence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T17:15:08+00:00",
+ "status": "ok",
+ "note": "variant=declarative sentence; 审定公布名词库=695; 海峡两岸名词对照库=368; 其他来源数据库=22; 预公布名词数据库=16; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "陈述句",
+   "en": "declarative sentence",
+   "code": "04.155",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "声明",
+   "en": "declaration",
+   "code": "05.0210",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "报关",
+   "en": "declaration",
+   "code": "13.0335",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "陈述性记忆",
+   "en": "declarative memory",
+   "code": "03.701",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "陈述记忆",
+   "en": "declarative memory",
+   "code": "04.072",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "陈述[性]记忆",
+   "en": "declarative memory",
+   "code": "04.251",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_神经生物物理学_学习与记忆"
+  },
+  {
+   "cn": "说明性语言",
+   "en": "declarative language",
+   "code": "05.0062",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "陈述性知识",
+   "en": "declarative knowledge",
+   "code": "08.0652",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_知识工程"
+  },
+  {
+   "cn": "陈述记忆",
+   "en": "declarative memory",
+   "code": "02.522",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "陈述性知识",
+   "en": "declarative knowledge",
+   "code": "09.045",
+   "standard": "心理学名词",
+   "subject": "心理学_教育心理学"
+  },
+  {
+   "cn": "赫尔辛基宣言",
+   "en": "Helsinki declaration",
+   "code": "06.0241",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学研究_核医学临床研究"
+  },
+  {
+   "cn": "常量说明",
+   "en": "constant declaration",
+   "code": "05.0199",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "声明，说明",
+   "en": "declaration",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "报关，申报",
+   "en": "declaration",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "陈述性知识,描述性知识",
+   "en": "declarative knowledge",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "陈述［性］记忆",
+   "en": "declarative memory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "陈述性知识",
+   "en": "declarative knowledge",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "说明性语言",
+   "en": "declarative language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "说明语义学",
+   "en": "declarative semantics",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "报关单",
+   "en": "customs declaration",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "出口申报单",
+   "en": "export declaration",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "海关申报单",
+   "en": "declaration form",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "货物报关单",
+   "en": "goods declaration",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "进口报单",
+   "en": "import declaration",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "声明式编程",
+   "en": "declarative programming",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "开罗宣言",
+   "en": "Cairo Declaration",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "波茨坦公告",
+   "en": "Potsdam Declaration",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "健康申报表",
+   "en": "health declaration form",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "拉普拉塔联合省",
+   "en": "Argentine Declaration of Independence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "联合国家宣言",
+   "en": "Declaration by United Nations",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "《欧洲区块链伙伴关系宣言》",
+   "en": "European Blockchain Partnership Declaration",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《日内瓦原则宣言》",
+   "en": "Geneva Declaration of Principles",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "健康申报",
+   "en": "declaration of health status    ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "宣布绝对失败",
+   "en": "declaration of a fall",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "维堡宣言",
+   "en": "Viborg declaration",
+   "code": "04.0224",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_列宁斯大林时期"
+  },
+  {
+   "cn": "阿拉木图宣言",
+   "en": "Almaata declaration",
+   "code": "04.0252",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_列宁斯大林时期"
+  },
+  {
+   "cn": "莫斯科宣言",
+   "en": "Moscow declaration",
+   "code": "05.0209",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_主要事件"
+  },
+  {
+   "cn": "七月宣言",
+   "en": "Declaration in July",
+   "code": "04.0219",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_列宁斯大林时期"
+  },
+  {
+   "cn": "巴塞尔宣言",
+   "en": "Declaration of Basel",
+   "code": "05.0198",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_主要事件"
+  },
+  {
+   "cn": "阿斯塔纳宣言",
+   "en": "Declaration of Astana",
+   "code": "10.2.1.4.3",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "符合性声明",
+   "en": "declaration of compliance",
+   "code": "7.1.71",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品相关产品_食品接触材料及制品"
+  },
+  {
+   "cn": "里约政治宣言",
+   "en": "Rio political declaration",
+   "code": "3.1.2",
+   "standard": "社会医学名词",
+   "subject": "健康社会决定因素"
+  },
+  {
+   "cn": "阿拉木图宣言",
+   "en": "Declaration of Alma-Ata",
+   "code": "10.2.1.4.1",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "维也纳核安全宣言",
+   "en": "Vienna Declaration on Nuclear Safety",
+   "code": "10.3.17",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_国际公约或条约"
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "code": "2.5.7.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "code": "2.5.7.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
