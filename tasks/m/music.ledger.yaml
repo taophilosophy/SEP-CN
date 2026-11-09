@@ -411,86 +411,114 @@ segments:
     kind: body
     source: |-
       Since Davies’s theory posits at base a contour-recognition experience while Levinson’s posits an imaginative experience of expression, the link between literal expression and musical expressiveness looks closer in Levinson’s theory than in Davies’s. An empirical consequence seems to be that Davies’s theory will predict weaker emotional responses to music than Levinson’s. Whether or not this is an advantage or disadvantage of the theory depends on the empirical facts about how we respond emotionally to music.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于 Davies 的理论在根基上设定了一种轮廓识认经验，而 Levinson 的理论设定的是一种表达的想象经验，字面表达与音乐表现力之间的联系，在 Levinson 的理论中看来比在 Davies 的理论中更紧密。一个经验性推论似乎是：Davies 的理论会预测我们对音乐的情感反应比 Levinson 的理论更弱。这算理论的长处还是短处，取决于关于我们对音乐如何产生情感反应的经验事实。
+    step2: |-
+      Davies 的理论在根底上设的是一种轮廓识认经验，Levinson 设的则是关于表达的想象经验；两相比较，字面表达与音乐表现力之间的联系，在 Levinson 那里显得更紧。这似乎带来一个经验性预言：按 Davies 的说法，我们对音乐的情感反应会比 Levinson 所预言的更弱。这算长处还是短处，得看我们对音乐起情感反应的经验事实。
   - id: 52
     kind: body
     source: |-
       ### 3.2 Emotions in the Listener
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 Emotions in the Listener
+    step2: |-
+      ### 3.2 听众的情感
   - id: 53
     kind: body
     source: |-
       There are three main questions asked about our emotional responses to pure music, apart from what role they play in expressiveness. The first is analogous to the “paradox of fiction.” It is not clear why we should respond emotionally to music’s expressiveness when we know that no one is undergoing the emotions expressed. The second is a variant of the “paradox of tragedy.” If some music arouses “negative” emotional responses in us, such as sadness, why do we seek out the experience of such music? This leads to the more general question of the value of our emotional responses to music. The first two questions are addressed in this section, and the third in section 5.1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于我们对纯音乐的情感反应，除了它们在表现力中起什么作用之外，主要有三个问题。第一个类比于“虚构悖论”：既然我们知道并没有人正在体验音乐所表达的情感，我们为什么还应对音乐的表现力产生情感反应？这并不清楚。第二个是“悲剧悖论”的变体：如果某些音乐在我们身上唤起悲伤之类“负面”情感反应，我们为什么还要寻找这类音乐的体验？这就引出更一般的问题：我们对音乐的情感反应有何价值。前两个问题在本节处理，第三个在 5.1 节处理。
+    step2: |-
+      除了“情感反应在表现力里扮演什么角色”，关于我们对纯音乐的情感反应还有三个大问题。第一个仿照“虚构悖论”：明明知道没人在体验音乐所表达的情感，我们为何还会对音乐的表现力动感情？第二个是“悲剧悖论”的变体：某些音乐在我们心里勾起悲伤之类“负面”反应，我们为何还偏要找来听？由此引出更一般的问题：我们对音乐的情感反应究竟价值何在。本节处理前两问，第三问留到 5.1 节。
   - id: 54
     kind: body
     source: |-
       Peter Kivy (1999) argues that those who report emotional reactions to music are confusing the pleasure they take in the beauty of the music, in all its expressive individuality, with the feeling of the emotion expressed. Though most philosophers appeal to ordinary experience and empirical data to reject the plausibility of Kivy’s position, they admit the problem that motivates it, namely, the conceptual tension between the nature of music and the nature of the emotions we feel in response to it. There is some consensus that emotions are cognitive, in the sense that they take intentional objects—they are *about* things—of certain kinds. For instance, in order to feel *fear*, one must believe that something is *threatening* (the “intentional object” of the emotion). When one listens to a sad piece of music, however, one knows there is nothing literally feeling sad, and thus it is puzzling that one should be made sad by the experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Peter Kivy（1999）主张，那些报告对音乐有情感反应的人，把他们在音乐之美——连同其全部表现性的个体性——中所获得的快乐，与所表达情感的感受混为一谈。尽管多数哲学家诉诸日常经验与经验数据，否认 Kivy 立场的可信性，但他们承认推动这一立场的问题确实存在，即音乐的本性与我们因音乐而感受到的情感本性之间的概念张力。人们有一定共识：情感是认知性的，即它们以特定种类的意向对象为对象——它们*关于*某些事物。例如，要感到*恐惧*，必须相信某物具有*威胁性*（该情感的“意向对象”）。然而，听一段悲伤的音乐时，人知道并没有任何东西真在悲伤，因此，人竟会因这一体验而悲伤，就显得费解。
+    step2: |-
+      Peter Kivy（1999）说，那些声称听音乐动了感情的人，其实是把“欣赏音乐之美（连同它那独特的表现个性）”的快乐，跟“感受到所表达的情感”混为一谈。多数哲学家拿日常经验和实证数据反驳 Kivy，不认他这个说法；可他们也承认，逼出这个说法的问题确实存在——音乐的本性与我们因音乐而生的情感的本性之间，拧着一股概念上的劲。大家多少同意：情感是认知性的，即它们以特定种类的意向对象为对象——它们*关于*点什么。比如，要感到*恐惧*，总得相信有东西正在*威胁*你（这就是该情感的“意向对象”）。可听一段悲伤的音乐时，明明知道没有谁真在伤心，自己却悲伤起来，这就费解了。
   - id: 55
     kind: body
     source: |-
       Part of the solution is that not all emotional responses (broadly construed) are cognitive (Robinson 1994; 2005: 387–400)[^robinson-1994]. For instance, it is no more puzzling that one could be startled by a *fortissimo* blow to a bass drum than that one could so respond to a thunderclap. Another part of the solution is that the music can be the object of our emotions, as when we are delighted by an effective ending to a long and complex piece.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      部分解答在于：并非所有情感反应（广义上）都是认知性的（Robinson 1994; 2005: 387–400）[^robinson-1994]。例如，人被低音鼓的一记*最强音*吓一跳，与人对一声炸雷作出同样反应，其费解程度并无二致。另一部分解答是：音乐可以成为我们情感的对象，例如我们为一部漫长复杂作品的精彩结尾而欣喜。
+    step2: |-
+      解答的一半是：并非所有情感反应（广义的）都带认知性（Robinson 1994; 2005: 387–400）[^robinson-1994]。比如，被低音鼓一记*最强音*吓一跳，跟被一声炸雷吓一跳，同样没什么好奇怪的。另一半是：音乐本身也能成为情感的对象——一部又长又复杂的作品收得漂亮，我们听得心花怒放，即是如此。
   - id: 56
     kind: body
     source: |-
       As for emotional responses to music’s expressiveness, there are at least two possible explanations. One appeals to the phenomenon of “emotional contagion” or “mirroring responses” (S. Davies 1994: 279–307; 2006: 186–8)[^davies-1994]. When surrounded by moping people, one tends to become sad. Moreover, such a “mood” is not *about* some intentional object. One is not necessarily sad *for* the mopers, nor whatever they are sad about, if anything. Similarly, when “surrounded” by music that presents an appearance of sadness, one might become sad, but not sad about the music, or anything else (Radford 1991). For critical discussion, see Robinson 2005: 379–412 and S. Davies 2011b.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至于对音乐表现力的情感反应，至少有两种可能的解释。一种诉诸“情绪感染”或“镜像反应”现象（S. Davies 1994: 279–307; 2006: 186–8）[^davies-1994]。身边围着一群垂头丧气的人，自己也容易变得低落。而且，这种“情绪”并不*关于*某个意向对象。人未必是为那些垂头丧气的人难过，也未必是为他们所难过的事（如果有的话）难过。同样，被呈现悲伤面貌的音乐所“包围”时，人可能变得悲伤，但不是对音乐悲伤，也不是对别的什么悲伤（Radford 1991）。批评性讨论见 Robinson 2005: 379–412 与 S. Davies 2011b。
+    step2: |-
+      对音乐表现力的情感反应，至少有两条解释路子。其一是“情绪感染”或“镜像反应”（S. Davies 1994: 279–307; 2006: 186–8）[^davies-1994]。身边围着一圈唉声叹气的人，自己也跟着郁闷；而这种“情绪”并不*关于*什么意向对象——你未必是为那几位叹气的人难过，也未必是为他们难过的那件事（要真有的话）难过。同理，被一派悲伤面貌的音乐“围住”，人可能也跟着悲伤，但不是对音乐悲伤，也不是对别的什么悲伤（Radford 1991）。批评性讨论见 Robinson 2005: 379–412 与 S. Davies 2011b。
   - id: 57
     kind: body
     source: |-
       If our experience of music’s expressiveness necessarily involves *imagining* that the music is a literal expression of emotion, then our emotional responses to that expressiveness are no more puzzling than emotional responses to other imagined expressive agents, such as fictional characters in novels. The advantage is only slight because the question of how and why we respond emotionally to fictions is itself a philosophical problem of some magnitude. Nonetheless, there are several theories available (see the entry on emotional responses to fiction). One difficulty with appealing to a solution to the paradox of fiction is that it is not clear that our emotional responses to the expressiveness of music are the same as those to emotionally expressive characters. For instance, the standard example of an emotional response to music is being made sad by a dirge, while the standard example of emotional response to fiction is (something like) to feel pity for a sad character. If the former is to be explained in the same way as the latter, we would expect listeners to feel *pity* in response to the funeral march (pity for the persona imagined to be expressing her sadness through it). However, we surely do feel sad (in some sense) in response to tragedy, and it is not obvious that we do *not* feel pity (or imagined pity, or whatever one’s preferred theory of emotional response to fiction posits) in response to sad music.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们对音乐表现力的体验必然涉及*想象*音乐是情感的字面表达，那么我们对这种表现力的情感反应，就不比对其他想象出来的表达性主体（如小说中的虚构人物）的情感反应更费解。好处只有一点点，因为“我们如何、为何对虚构作品产生情感反应”本身就是个不小的哲学问题。尽管如此，已有若干理论可用（见“对虚构的情感反应”词条）。诉诸虚构悖论的解答有个困难：我们尚不清楚，对音乐表现力的情感反应是否与对情感表现性人物的反应相同。例如，对音乐的情感反应的标准例子，是因一首挽歌而悲伤；而对虚构的情感反应的标准例子，则（大致）是为一个悲伤的人物感到怜悯。如果前者要按后者的方式来解释，我们就会期待听者对葬礼进行曲感到*怜悯*（怜悯那个被想象为借它表达悲伤的人格）。然而，我们对悲剧确实会感到悲伤（在某种意义上），而我们对悲伤音乐是否*不*感到怜悯（或想象的怜悯，或别的什么，取决于你偏好的虚构反应理论），也并不显然。
+    step2: |-
+      倘若我们对音乐表现力的体验必然包含*想象*音乐是情感的字面表达，那么我们对这种表现力的情感反应，就不比我们对其他想象出来的表达主体的反应更费解——小说里的虚构人物即是显例。不过好处有限：“我们如何、为何对虚构起情感反应”本身就是个大哲学问题。话虽如此，现成的理论总还有几套（见“对虚构的情感反应”词条）。麻烦在于：我们并不清楚对音乐表现力的情感反应，是否真跟对情感人物的反应一路。标准例子摆在那儿——对音乐的情感反应，是因一首挽歌而悲伤；对虚构的情感反应，则（大致）是为一个悲伤的角色心生怜悯。若前者真照后者的模子解释，那听葬礼进行曲时就该生出*怜悯*（怜悯那个被想象为借曲抒悲的人格）。可我们对悲剧确实会（在某种意义上）悲伤；至于对悲伤音乐是否*不*生怜悯（或想象的怜悯，或你偏好的虚构反应理论所主张的什么），也并不显然。
   - id: 58
     kind: body
     source: |-
       Leaving behind the topic of how and why we respond emotionally to music, we turn to the question of why we seek out music that arouses “negative” emotions in us, such as sadness, assuming henceforth that we are in fact aroused to such emotions. (Since this problem is a close analog of the “paradox of tragedy,” some of the references below are to literature not explicitly about music, but the transposition of the arguments to music is not difficult to imagine. (See also the entry on the paradox of tragedy.) Most solutions assume that our negative emotional response is a price we are willing to pay for the benefits of engaging with the piece in question. The benefits appealed to include understanding and appreciating the music, including the expressiveness responsible for the negative response (Goodman 1968: 247–51; S. Davies 1994: 311–20; Goldman 1995: 68; Robinson 2005: 348–78)[^davies-1994][^goldman-1995][^goodman-1968][^robinson-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      放下我们如何、为何对音乐产生情感反应的话题，转向另一个问题：我们为什么偏要找那种在我们身上唤起悲伤之类“负面”情感的音乐，并从此假定我们确实被唤起了这类情感。（由于此问题与“悲剧悖论”极为相近，以下一些文献并不专论音乐，但把论证移植到音乐上并不难想象。另见“悲剧悖论”词条。）多数解答假定，我们的负面情感反应，是我们为参与该作品所获益处愿意付出的代价。所诉诸的益处包括对音乐的理解与欣赏，其中包括导致负面反应的那种表现力（Goodman 1968: 247–51; S. Davies 1994: 311–20; Goldman 1995: 68; Robinson 2005: 348–78）[^davies-1994][^goldman-1995][^goodman-1968][^robinson-2005]。
+    step2: |-
+      先说我们如何、为何对音乐动情，再说另一个问题：悲伤之类的“负面”情感既被唤起，我们为何还要找这种音乐来听？以下姑且假定我们确实被唤起了这类情感。（此问题与“悲剧悖论”极为相近，下面有些文献并非专论音乐，但把论证搬到音乐上并不难。另见“悲剧悖论”词条。）多数解答都假定：负面情感反应是我们为参与该作品所换来的好处而甘愿付的代价。所谓好处，包括对音乐的理解与欣赏，其中就有惹出负面反应的那份表现力（Goodman 1968: 247–51; S. Davies 1994: 311–20; Goldman 1995: 68; Robinson 2005: 348–78）[^davies-1994][^goldman-1995][^goodman-1968][^robinson-2005]。
   - id: 59
     kind: body
     source: |-
       A different benefit is Aristotelian *catharsis*, in which our negative emotional response to expressive art results in a psychological purgation of the negative emotions (Aristotle 1987: 6, 1449b21–1450b20)[^aristotle-1987]. A less therapeutic approach is the suggestion that, since these emotions are without “life implications” (that is, as discussed above, we are not sad *about* any actual tragic events), we are able to take advantage of our responses to savor these emotions, gain an understanding of them, and be reassured that we have the capacity to feel them (Levinson 1982)[^levinson-1982]. Two things that must be explained by any defender of this kind of response are, first, our persistence in seeking out music that elicits negative emotional experiences after we have received the resulting benefit and, second, the enjoyment we seem to take in these negative responses, as opposed to putting up with them for their related benefits.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种益处是亚里士多德式的*卡塔西斯*（净化）：我们对表现性艺术的负面情感反应，会导致负面情感在心理上得到宣泄（Aristotle 1987: 6, 1449b21–1450b20）[^aristotle-1987]。一种不那么治疗性的进路则提出：既然这些情感没有“生活牵连”（即如上文所述，我们并不是*为*任何真实的悲惨事件而悲伤），我们便能利用自己的反应来细细品味这些情感、获得对它们的理解，并因确信自己有能力感受它们而安心（Levinson 1982）[^levinson-1982]。任何捍卫这类反应的人必须解释两件事：第一，我们在获得相应益处之后，为何仍执意寻找引发负面情感体验的音乐；第二，我们为何似乎享受这些负面反应，而不是为了其相关益处而忍受它们。
+    step2: |-
+      还有一种益处是亚里士多德式的*卡塔西斯*（净化）：表现性艺术在我们心里勾起负面情感，随后在心理上把它们排泄掉（Aristotle 1987: 6, 1449b21–1450b20）[^aristotle-1987]。另一路说法不那么“治疗”：这些情感没有“生活牵连”（如上文所说，我们并不*为*任何真实的惨事而悲伤），于是我们反倒能借自己的反应去细细咀嚼这些情感、理解它们，并因确信自己有感受力而安心（Levinson 1982）[^levinson-1982]。不过，替这类反应辩护的人得交代两件事：一是既已得了好处，我们为何还一再去找惹出负面情感的音乐；二是我们似乎乐在其中，而不只是为着附带好处硬着头皮忍受。
   - id: 60
     kind: body
     source: |-
       A different kind of solution to the problem argues that responses such as sadness that are evoked by expressive music are not really negative. Hume (1757) argues, with respect to tragedy, that the pleasure we take in the mode of presentation of the content of an artwork does not simply counterbalance the negative emotion evoked, but rather subsumes and transforms it into a pleasurable feeling. Kendall Walton argues (also with respect to tragedy) that sadness is not in itself negative. Rather, it is the situation to which sadness is the response that is negative. Thus, though we would not seek out the death of a loved one, *given* the death we “welcome” the sorrow (K. Walton 1990: 255–9)[^walton-1990]. Similarly, we cannot affect the sadness of a musical work by not listening to it, and so we welcome our sorrowful response to it as appropriate. Berys Gaut (2007: 203–26) argues that though sadness is *typically* aroused by situations we would prefer to avoid, sadness in response to artistic expressiveness is an exception and thus not negative in any paradoxical way. A difficulty for all three solutions is the extent to which they accord with our emotional experience in rejecting the characterization of our sadness as negative.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一类解答主张，表现性音乐所唤起的悲伤之类反应，其实并不是负面的。Hume（1757）就悲剧论证：我们从艺术作品内容的呈现方式中获得的快乐，并不只是抵消被唤起的情感，而是把它包摄并转化为一种愉悦感。Kendall Walton 论证（同样就悲剧）：悲伤本身并不负面，负面的是悲伤所回应的处境。因此，尽管我们不会去寻求亲人死亡，但*一旦*死亡发生，我们便“欢迎”悲伤（K. Walton 1990: 255–9）[^walton-1990]。同样，我们无法通过不听某部音乐作品来改变它的悲伤，因此我们欢迎自己对它的悲伤反应，视之为恰当的。Berys Gaut（2007: 203–26）主张，虽然悲伤*通常*由我们希望避免的处境唤起，但面对艺术表现力的悲伤是个例外，因此并不以任何悖论的方式成为负面。这三种解答都有一个困难：它们在拒绝把我们的悲伤刻画为负面时，与我们的情感经验究竟吻合到什么程度。
+    step2: |-
+      还有一类解答说：表现性音乐勾起的悲伤之类反应，压根儿不算负面。Hume（1757）就悲剧说过：我们从艺术作品内容的呈现方式里得的快乐，不只是抵消了被唤起的情感，而是把它收进自身，化成了愉悦。Kendall Walton 也说（同样就悲剧）：悲伤本身不负面，负面的是悲伤所回应的处境。我们不会去求亲人去世，可*一旦*人没了，我们反倒“欢迎”悲伤（K. Walton 1990: 255–9）[^walton-1990]。同理，一部音乐作品悲不悲伤，不是我们不听就能改的；于是我们欢迎自己的悲伤反应，觉得它得体。Berys Gaut（2007: 203–26）则说：悲伤*通常*由我们宁可避开的处境勾起，但面对艺术表现力时的悲伤是例外，因此算不得悖论意义上的负面。三种说法共有一个难处：它们硬不认我们的悲伤是负面的，这跟我们的情感经验究竟对不对得上？
   - id: 61
     kind: body
     source: |-
       ## 4. Understanding Music
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. Understanding Music
+    step2: |-
+      ## 4 音乐理解
   - id: 62
     kind: body
     source: |-
       A central topic in the understanding of narrative art forms, such as literature and film, is what constitutes an acceptable interpretation of a work. One debate concerns whether there is a single correct interpretation of any work or multiple acceptable interpretations. Another concerns the constraints on acceptable interpretations, e.g., the extent to which the artist’s intentions may or should be taken into account.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理解叙事性艺术形式（如文学与电影）的一个核心话题，是什么构成对作品可接受的诠释。一场争论关乎：任何作品只有唯一正确的诠释，还是有多种可接受的诠释。另一场争论关乎可接受诠释的约束条件，例如艺术家的意图可以在多大程度上、或应当在多大程度上被纳入考虑。
+    step2: |-
+      文学、电影这类叙事艺术的“理解”，有一大核心话题：什么才算对作品可接受的诠释。争来争去，无非两件事。一是任何作品究竟是只有唯一正确诠释，还是容许多种可接受诠释；二是可接受诠释受什么约束，比如艺术家的意图该在多大程度上、或者是否应当被算进去。
   - id: 63
     kind: body
     source: |-
       Though these questions seem equally applicable to musical works (S. Davies 2002a; Dubiel 2011)[^davies-2002a][^dubiel-2011], most of the literature on understanding music has focused on two more specifically musical topics: first, our understanding of basic musical features, such as pitch and rhythm and, second, interpretations of works of the sort given by music theorists. (For more detailed introductions to these and other topics in musical understanding, see S. Davies 2011c and Huovinen 2011.)[^davies-2011][^davies-2011c][^huovinen-2011]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管这些问题看来同样适用于音乐作品（S. Davies 2002a; Dubiel 2011）[^davies-2002a][^dubiel-2011]，关于音乐理解的大部分文献却聚焦于两个更专门属于音乐的话题：第一，我们对音高与节奏等基本音乐特征的理解；第二，音乐理论家给出的那类作品诠释。（关于音乐理解中这些及其他话题的更详细导论，见 S. Davies 2011c 与 Huovinen 2011。）[^davies-2011][^davies-2011c][^huovinen-2011]
+    step2: |-
+      这些问题看来同样适用于音乐作品（S. Davies 2002a; Dubiel 2011）[^davies-2002a][^dubiel-2011]，但音乐理解的文献大多扎进两个更“音乐”的话题：一是我们对音高、节奏这类基本音乐特征的理解；二是音乐理论家给作品作的那种诠释。（这些话题以及其他话题的更详细导论，见 S. Davies 2011c 与 Huovinen 2011。）[^davies-2011][^davies-2011c][^huovinen-2011]
   - id: 64
     kind: body
     source: |-
       Before we turn to those topics, it is worth noting that two distinct activities go by the name of “interpretation” in music (and other performance arts): what might be called *performative* and *critical* interpretation (Levinson 1993)[^levinson-1993]. While a critical interpretation of a musical work (often called an analysis) is roughly equivalent to an interpretation of a novel—typically expressed linguistically—a performative interpretation is a way of playing or singing the work, typically expressed in a performance of it. It is not easy to clarify the relationship between these two kinds of musical interpretation, but see Levinson 1993, Maus 1999, Thom 2007, Neufeld 2012, and Dodd 2020a.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      转向这些话题之前，值得指出：音乐（以及其他表演艺术）中有两种不同的活动都叫“诠释”，即*表演性*诠释与*批评性*诠释（Levinson 1993）[^levinson-1993]。对音乐作品的批评性诠释（常称分析），大致相当于对小说的诠释——通常以语言表达；表演性诠释则是演奏或演唱作品的方式，通常体现在演奏中。很难说清这两种音乐诠释之间的关系，但可参看 Levinson 1993、Maus 1999、Thom 2007、Neufeld 2012 与 Dodd 2020a。
+    step2: |-
+      转入正题之前，得先分清：音乐（以及其他表演艺术）里，有两种活动都叫“诠释”——*表演性*诠释与*批评性*诠释（Levinson 1993）[^levinson-1993]。对音乐作品的批评性诠释（常称“分析”），大致相当于对一部小说的诠释，通常用语言道出；表演性诠释则是把作品奏出来、唱出来的方式，通常体现在演奏里。这两种音乐诠释的关系并不容易讲清，但可参看 Levinson 1993、Maus 1999、Thom 2007、Neufeld 2012 与 Dodd 2020a。
   - id: 65
     kind: body
     source: |-
