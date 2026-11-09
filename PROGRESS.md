@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 00:44（UTC）
+生成时间：2026-11-09 01:41（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1156|
+|已建任务|1157|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|224|
-|在途（drafted 起、done 前）|244|
+|已完成（done）|226|
+|在途（drafted 起、done 前）|243|
 |阻塞|0|
 
 ## 任务状态分布
@@ -24,13 +24,13 @@
 |---|---|
 |pending|688|
 |cleared|160|
-|drafted|9|
-|s1_checked|2|
+|drafted|8|
+|s1_checked|3|
 |s2_checked|1|
-|s3_checked|67|
-|r1_reviewed|3|
-|r2_reviewed|2|
-|done|224|
+|s3_checked|66|
+|r1_reviewed|4|
+|r2_reviewed|1|
+|done|226|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -51,10 +51,10 @@
 |M|139|139|14|6|
 |N|50|50|7|4|
 |O|21|21|10|8|
-|P|165|165|5|0|
+|P|165|165|5|1|
 |Q|34|34|34|1|
 |R|85|85|85|8|
-|S|161|161|16|9|
+|S|161|161|17|10|
 |T|71|71|7|2|
 |U|4|4|0|0|
 |V|15|15|0|0|
@@ -120,7 +120,7 @@
 |bradley-regress|retranslate|cleared|task_ops 2026-11-01|
 |branching-time|retranslate|cleared|task_ops 2026-11-01|
 |brentano|retranslate|cleared|task_ops 2026-11-01|
-|brentano-judgement|retranslate|drafted|B-main-20261109b 2026-11-08|
+|brentano-judgement|retranslate|s1_checked|B-main-20261109b 2026-11-09|
 |broad|retranslate|cleared|task_ops 2026-11-01|
 |brouwer|retranslate|drafted|? 2026-11-01|
 |bruno|retranslate|cleared|task_ops 2026-11-01|
@@ -241,7 +241,7 @@
 |japanese-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |japanese-pure-land|retranslate|cleared|task_ops 2026-11-01|
 |japanese-zen|retranslate|cleared|task_ops 2026-11-01|
-|jaspers|retranslate|cleared|task_ops 2026-11-01|
+|jaspers|retranslate|s3_checked|J-main-20261109 2026-11-09|
 |jayaraasi|retranslate|s3_checked|? 2026-11-07|
 |jefferson|retranslate|cleared|task_ops 2026-11-01|
 |johann-fichte|retranslate|cleared|task_ops 2026-11-01|
@@ -288,20 +288,19 @@
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |newton-philosophy|retranslate|cleared|task_ops 2026-11-08|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
-|peirce-benjamin|retranslate|s3_checked|OP-CN-20261109 2026-11-09|
 |quine-nf|retranslate|cleared|task_ops 2026-11-08|
 |reinach|retranslate|s3_checked|qr-translator-1 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |risk|retranslate|cleared|task_ops 2026-11-09|
 |saadya|retranslate|cleared|task_ops 2026-11-08|
-|simon-faversham|retranslate|r2_reviewed|S-lead-20261109 2026-11-08|
+|stebbing|retranslate|cleared|task_ops 2026-11-09|
 |stem-cells|retranslate|cleared|task_ops 2026-11-08|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |telesio|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |william-jevons|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
-|william-sherwood|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
+|william-sherwood|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
 |wisdom|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |xenophanes|retranslate|s3_checked|TZ-main-20261107 2026-11-07|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
