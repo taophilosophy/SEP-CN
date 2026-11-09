@@ -2,7 +2,7 @@
   "slug": "qt-entangle",
   "kind": "retranslate",
   "zh_doc": "q/qt-entangle.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "qr-translator-3",
       "at": "2026-11-08T22:26:29Z",
       "evidence": "check_style 0 issue；check_academic --docs q/qt-entangle.md --strict 0 硬错误（非存根 1，在途豁免 1）；check_math missing 0/unbalanced 1 为 yuanwen 侧伪报（货币启发式把 \\, \\\\pi/8...\\$ 的 \\, 当金额剥除，bell-theorem 同报，产物无失真）；相关词条未匹配 1 项已回 SUMMARY 修正为「汉斯·赖兴巴赫的共同原因原理」（p/physics-Rpcc.md）；术语登记 48 条、人名 14 条已 reg_tool 入库（未 stage）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "lead（QR-main-20261109 复核线）",
+      "at": "2026-11-08T23:54:06Z",
+      "evidence": "r1 初审（对照 yuanwen 全文 213 行逐节对勘，独立于译者 qr-translator-3）：结构-节集合 6 编号节+引用注释+学术工具+其他网络资源+相关词条齐备且序同源；版本行与 baseline 一致；50 段逐段核销——零 Critical、零 Major、零 Minor 需改；两处疑似（Born, 1992; p. 218 的逗号+分号引注形、\\$ c_1\\$ 内空格）回核原文 L10/L54 系源文原样照录，不擅改；源文笔误 awared（L36）按语义译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "lead（QR-main-20261109 复核线）",
+      "at": "2026-11-09T00:31:25Z",
+      "evidence": "r2 复审（逐句回核原文与逻辑）：50 段逐句比读 yuanwen；指代显化（"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "lead（QR-main-20261109 复核线）",
+      "at": "2026-11-09T00:31:26Z",
+      "evidence": "r3 终审（冷置后回读：s3 后经 reinach 在途轮转再回读，冷置满足）：四检全绿——check_style 0 issue；check_academic --docs q/qt-entangle.md --strict 0 硬错误；check_math missing 0（unbalanced 1 系源侧美元启发式误报，源行英文，非产物缺陷）；check_prose 0。结构终验：6 编号节序与源一致、无脚注节（源无 notes）、参考文献现代制照录、相关词条 9 项映射齐；H1 与 SUMMARY 该行逐字一致。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "lead（QR-main-20261109 复核线）",
+      "at": "2026-11-09T00:31:27Z",
+      "evidence": "done：六道（draft/s1/s2/s3 由 qr-translator-3，r1/r2/r3 由 lead 复核线，ISO 17100 复核独立性满足）全部完成；四检全绿；pathspec 提交。"
     }
   ],
   "blockers": [],
