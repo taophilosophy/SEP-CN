@@ -307,32 +307,42 @@ segments:
     kind: body
     source: |-
       > That all bodies are movable and persevere in motion or in rest by means of certain forces (which we call forces of inertia) we infer from finding these properties in the bodies that we have seen. The extension, hardness, impenetrability, mobility, and force of inertia[^note-23] of the whole arise from the extension, hardness, impenetrability, mobility and force of inertia of each of the parts; and thus we conclude that every one of the least parts of all bodies is extended, hard, impenetrable, movable, and endowed with a force of inertia. And this is the foundation of all natural philosophy. (Newton 1999: 795–96)[^newton-1999]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一切物体皆可运动，并凭某些力（我们称之为惯性力）保持其运动或静止，这一点是我们从在所见物体中发现这些性质而推知的。整体的广延、坚硬、不可穿透、可动性与惯性力[^note-23]，来自每一部分的广延、坚硬、不可穿透、可动性与惯性力；于是我们断言：一切物体的每一最小部分都是广延的、坚硬的、不可穿透的、可动的，并具有惯性力。而这正是全部自然哲学的基础。（Newton 1999: 795–96）[^newton-1999]
+    step2: |-
+      > 一切物体皆可动，并凭某些力（我们称之为惯性力）保持其运动或静止——此乃从我们所见的物体中发现这些性质而推知。整体的广延、坚硬、不可穿透、可动与惯性力[^note-23]，出于每一部分的广延、坚硬、不可穿透、可动与惯性力；故我们断言：一切物体的每一极小部分，皆广延、坚硬、不可穿透、可动，且赋有惯性力。而这就是全部自然哲学的基础。（Newton 1999: 795–96）[^newton-1999]
   - id: 39
     kind: body
     source: |-
       Many of Newton’s readers in 1713 would have granted him the following inference: although we do not have any perceptions of, say, the interior of the earth, or even of many ordinary objects within our grasp, we can reasonably infer that everything with certain basic properties—something akin to what John Locke, borrowing a term of Robert Boyle’s, called the “primary qualities”—at the macroscopic level is comprised of micro-particles that are characterized by those same basic properties. But at the end of his gloss of Rule 3, Newton applies this same (or analogous) reasoning to the force of gravity, arguing as follows: since we experience the fact that all bodies on or near the earth gravitate toward the earth—in cases such as free fall—and that the moon gravitates toward the earth, etc., we can infer that all bodies everywhere gravitate toward all other bodies. This argument would appear to suggest that gravity—which, as we have seen, is a kind of impressed force, an action—is somehow akin to qualities like extension and impenetrability. So is Newton suggesting that gravity is actually a *quality* of all bodies? He did not explicitly endorse that claim, but Cotes did in a famous passage in his editor’s preface (Newton 1999, 391-92)[^newton-1999]. Many understood Cotes to be speaking for Newton, just as they interpreted Clarke a few years later. Leibniz and his followers pounced: if Newton regards gravity as a quality, as a power of attraction, then he had indeed revived the occult qualities of the Scholastics, for here we have a quality that is not explicable in mechanical terms. Unlike the usual properties of extension, impenetrability and mobility discussed by Cotes, gravity seemed like a hidden power. This topic became the subject of intense debate throughout the first half of the eighteenth century (see the last section below).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1713 年牛顿的许多读者都会接受他如下这个推论：尽管我们没有任何关于比如说地球内部、甚至我们手边许多寻常物体内部的知觉，我们仍可合理推断：宏观层面上具有某些基本性质——类似于约翰·洛克借罗伯特·波义耳的一个术语所称的“第一性质”——的一切东西，都由具有同样那些基本性质的微粒构成。但在对法则三的阐释末尾，牛顿把同样的（或类似的）推理用于引力，论证如下：既然我们经验到地球之上或附近的一切物体都朝地球吸引——如在自由落体等情形中——并且月球朝地球吸引，等等，我们就可以推断：一切处所的一切物体都朝一切其他物体吸引。这一论证似乎表明：引力——如我们所见，它是外加力之一种，是一种作用——以某种方式类似于广延与不可穿透性这类性质。那么，牛顿是在暗示引力实际上是所有物体的一种*性质*吗？他并未明确认可这一主张，但科茨在其编者序的一段名文中这样做了（Newton 1999, 391-92）[^newton-1999]。许多人认为科茨是在代牛顿发言，正如几年后他们这样解读克拉克一样。莱布尼茨及其追随者立刻扑了上来：如果牛顿把引力视为一种性质、一种吸引能力，那么他确实复活了经院派的隐秘性质，因为这里有一种无法用机械论术语解释的性质。与科茨所讨论的广延、不可穿透与可动这些惯常属性不同，引力看起来像是一种隐蔽的能力。这个话题成了整个十八世纪上半叶激烈论辩的对象（见下文最后一节）。
+    step2: |-
+      1713 年，牛顿的许多读者都会接受他这样一个推论：我们固然对比方说地球内部、乃至手边许多寻常物体的内部毫无知觉，却仍可合理推断：凡在宏观层面具有某些基本性质者——略近于约翰·洛克借用罗伯特·波义耳术语所称的“第一性质”——皆由具有同样基本性质的微粒构成。然而在对法则三阐释的末尾，牛顿把这套（或类似的）推理套用到引力上，论证道：既然我们经验到地球之上或近旁的物体皆朝地球吸引——如自由落体之类——月球也朝地球吸引，等等，便可推断：处处之物皆朝其他一切物体吸引。这一论证似乎表明：引力——如前所见，乃外加力之一种、一种作用——竟与广延、不可穿透之类性质相类。莫非牛顿是在暗示，引力实际上是所有物体的一种*性质*？他并未明确认可此说；科茨却在编者序的一段名文里这样做了（Newton 1999, 391-92）[^newton-1999]。许多人以为科茨是在代牛顿立言，正如数年后他们又这样看克拉克。莱布尼茨一党立刻抓住不放：牛顿若把引力当成一种性质、一种吸引之力，那他就是让经院派的隐秘性质借尸还魂——因为这里出现了无法用机械论术语解释的性质。与科茨所谈的广延、不可穿透、可动这些惯常属性不同，引力看上去是一种隐蔽的能力。这个话题遂成为十八世纪上半叶激烈论辩的中心（见下文末节）。
   - id: 40
     kind: body
     source: |-
       ## 5. The aftermath of the *Principia* I: relations with John Locke and Richard Bentley
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 《原理》之后 I：与约翰·洛克和理查德·本特利的关系
+    step2: |-
+      ## 5 《原理》之后（一）：与约翰·洛克和理查德·本特利的关系
   - id: 41
     kind: body
     source: |-
       Although the first editions of Newton’s *Principia* and of Locke’s *Essay* were published a mere three years apart (in 1687 and 1690, respectively) their authors worked independently and did not influence the first editions of one another’s principal texts. But then in 1688, Locke wrote a sympathetic (anonymous) review of the *Principia*. And right around the time of the publication of the first edition of the *Essay*, Newton and Locke became close friends and apparently influenced each other’s thinking about philosophy, religion, and theology in various ways (they first met in London in 1689). For his part, Locke called him the “incomparable Mr. Newton” on several occasions (e.g., in correspondence: Locke 1823: vol. 4: 55; and the next long quotation below)[^locke-1823]. Most historians think that each questioned the standard Anglican interpretation of the Trinity, contending that Jesus of Nazareth was not a divine figure on the same level as God the creator. Interpreting the Bible through historical and philosophical analysis in a fashion that was not constrained by standard Anglican doctrine in the late seventeenth century was fantastically important to Newton, occupying his attention for many years. Given their controversial and politically sensitive nature, his so-called anti-Trinitarian views were largely kept secret among a small circle of friends. However, Newton trusted Locke enough to send him a very long letter—entitled “Two Notable Corruptions of Scripture”—to present him with the evidence for Newton’s view that the original version of Christianity was corrupted beginning in the 4ᵗʰ century by the introduction of the doctrine of the Trinity (Newton 1959–, vol. 3: 83–129)[^newton-1959]. Locke was apparently sympathetic with Newton’s approach. With respect to their public views, Newton and Locke were often taken to represent two aspects of the same experimental-philosophical approach toward the close of the seventeenth century (Stein 1990; Wilson 1999: 196–214; and Domski 2012)[^domski-2012]. It is perhaps not difficult to understand why, for Newton was mentioned in one of the most famous passages in all of Locke’s writings. In the Epistle to the reader of Locke’s *Essay Concerning Human Understanding*, we read:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管牛顿《原理》与洛克《人类理解论》的初版前后仅相隔三年（分别为 1687 年与 1690 年），两位作者却是各自独立工作的，并未影响彼此主要文本的初版。但后来在 1688 年，洛克为《原理》写了一篇（匿名的）赞同性书评。而恰在《人类理解论》初版问世前后，牛顿与洛克成了密友，并且显然以各种方式影响了彼此关于哲学、宗教与神学的思考（两人 1689 年首次在伦敦会面）。就洛克而言，他多次称牛顿为“无可比拟的牛顿先生”（例如在通信中：Locke 1823: 第 4 卷：55；以及下文所引的长段文字）[^locke-1823]。多数历史学家认为，两人都质疑英国国教对三位一体的标准解释，主张拿撒勒的耶稣并非与造物主上帝同等的位格。以历史分析与哲学分析解经——其方式不受十七世纪晚期英国国教教义的约束——对牛顿而言极其重要，占据了他多年的注意力。鉴于这些问题争议性强且政治上敏感，他所谓的反三位一体观点大体上只在一小圈朋友间秘密流传。然而牛顿足够信任洛克，寄给他一封很长的信——题为《圣经的两处显著讹误》——向他呈交证据，证明自己的看法：基督教的原初版本自四世纪起，因三位一体教义的引入而遭到败坏（Newton 1959–, 第 3 卷：83–129）[^newton-1959]。洛克显然同情牛顿的进路。就公开观点而言，在十七世纪将尽之际，牛顿与洛克常被视为同一种实验哲学进路的两个方面（Stein 1990; Wilson 1999: 196–214; 以及 Domski 2012）[^domski-2012]。个中缘由或许不难理解，因为牛顿出现在洛克著作中最著名的段落之一里。在《人类理解论》致读者的序言中，我们读到：
+    step2: |-
+      牛顿《原理》与洛克《人类理解论》的初版前后只差三年（1687 与 1690），可两位作者各自独立工作，彼此主要文本的初版并无相互影响。不过到 1688 年，洛克为《原理》写了一篇（匿名）赞许的书评；而在《人类理解论》初版前后，牛顿与洛克结为密友，两人关于哲学、宗教与神学的思考显然以种种方式彼此激荡（二人 1689 年首晤于伦敦）。洛克那边，数次称牛顿为“无可比拟的牛顿先生”（例如通信中：Locke 1823: 第 4 卷：55；并见下文所引长段）[^locke-1823]。多数史家以为，两人都质疑英国国教对三位一体的标准解释，认为拿撒勒的耶稣并非与造物主上帝同等的位格。以历史与哲学分析解经、不为十七世纪晚期英国国教教义所拘，这对牛顿关涉极大，耗去他多年心力。惟其争议甚烈、政治敏感，他所谓反三位一体的看法大体只在一小圈友人间秘传。然而牛顿信任洛克，竟寄去一封长信——题为《圣经的两处显著讹误》——出示证据，以证其说：基督教的原初形态自四世纪起因三位一体教义的引入而败坏（Newton 1959–, 第 3 卷：83–129）[^newton-1959]。洛克对牛顿的路数显然抱有同情。就公开面目而言，十七世纪将尽之时，牛顿与洛克常被看作同一种实验哲学进路的两个侧面（Stein 1990; Wilson 1999: 196–214; 并 Domski 2012）[^domski-2012]。其中缘由或不难明白：牛顿其人，正出现在洛克全部文字最著名的段落之一里。在《人类理解论》致读者的序言中，我们读到：
   - id: 42
     kind: body
     source: |-
       > The Commonwealth of Learning, is not at this time without Master-Builders, whose mighty designs, in advancing the sciences, will leave lasting monuments to the admiration of posterity; but every one must not hope to be a Boyle, or a Sydenham; and in an age that produces such masters, as the great Huygenius, and the incomparable Mr. Newton, with some other of that strain; ’tis ambition enough to be employed as an under-labourer in clearing ground a little, and removing some of the rubbish, that lies in the way to knowledge; which certainly had been very much more advanced in the world, if the endeavors of ingenious and industrious men had not been much cumbred with the learned but frivolous use of uncouth, affected, or unintelligible terms, introduced into the sciences, and there made an art of, to that degree, that philosophy, which is nothing but the true knowledge of things, was thought unfit, or uncapable to be brought into well-bred company, and polite conversation. (Locke 1975: 10)[^locke-1975]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当今的学术共同体并不缺少大师级的营造者，他们在推进科学上的宏伟设计将为后世留下令人赞叹的永久丰碑；但不是人人都能指望成为波义耳或西德纳姆；在一个产生了伟大的惠更斯与无可比拟的牛顿先生这类大师、以及其他同辈人物的时代，能作为一名下等劳工去稍微清理地基、搬走挡在知识之路上的瓦砾，便已是足够的抱负了；而若那些聪慧勤勉的人的努力，不曾因学识渊博却琐屑无益地使用生僻、做作或不可解的术语而大受牵累——这些术语被引入各门科学，并被弄成一种技艺，以致哲学，这不过是对事物的真知，竟被认为不适合、或没有能力被带进有教养的圈子与文雅的交谈——那么知识在世上本会推进得多得多。（Locke 1975: 10）[^locke-1975]
+    step2: |-
+      > 当今的学问共和国里并不缺匠师，他们推进科学的宏伟规划将为后世留下令人赞叹的不朽丰碑；然而人不能个个都指望做波义耳、做西德纳姆；在这样一个产生了伟大的惠更斯、无可比拟的牛顿先生等大师的时代，能充任一名“下手劳工”，稍稍清理地基、搬开挡在知识道上的瓦砾，已是足够的抱负了——倘若那些聪慧勤勉之士的辛劳，不曾被博学而琐碎地滥用生僻、做作或不可解的术语所拖累（这些术语被引入各门科学、又被弄成一门技艺，以至于哲学——它不过是对事物的真知——竟被认为不配、或无力进入有教养的圈子与雅致的谈吐），那么知识在世上本该推进得更远。（Locke 1975: 10）[^locke-1975]
   - id: 43
     kind: body
     source: |-
