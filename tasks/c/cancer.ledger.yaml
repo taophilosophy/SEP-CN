@@ -283,38 +283,50 @@ segments:
     kind: body
     source: |-
       ### 2.1 The Mechanistic Picture of Cancer
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 癌症的机械论图景
+    step2: |-
+      ### 2.1 癌症的机械论图景
   - id: 36
     kind: body
     source: |-
       For most of the last twenty or so years of the 20ᵗʰ Century and the first decades of the 21ˢᵗ, the central concern of the majority of cancer researchers has been identification of mechanisms at the cell and molecular level that regulate cell birth and death. Two characteristic features of cancer cells are their uncontrolled growth, and failure to undergo cell death. This is often associated with changes to the “cellular machinery,” or mutations and associated disruption of causal pathways that affect regulation of cell division or cell death (Hanahan & Weinberg 2000)[^hanahan-2000]. The “somatic mutation theory” (sometimes, SMT) or “multistage” theory of cancer, is roughly the view that changes in cells that lead to these disruptions in regulation are due to a series of mutations, chromosomal alterations, and epigenetic changes to cells acquired during somatic cell division over the course of a lifetime. Onset of cancer, on this view, may be accelerated either by inheritance of “oncogenes” or “tumor suppressors,” or by damage to DNA, for instance, due to smoking or UV radiation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在二十世纪最后二十年左右和二十一世纪最初几十年的大部分时间里，多数癌症研究者关心的核心，是识别细胞和分子层次上调控细胞出生与死亡的机制。癌细胞的两个典型特征是生长失控和不发生细胞死亡。这常与“细胞机器”的改变、或者影响细胞分裂或细胞死亡调控的突变及相关因果通路破坏有关（Hanahan & Weinberg 2000）[^hanahan-2000]。“体细胞突变论”（有时简称 SMT）或多阶段癌症理论，大致是说：导致这些调控破坏的细胞变化，源于一生中体细胞分裂期间获得的系列突变、染色体改变和表观遗传改变。照这种看法，癌症的发生可能因“癌基因”或“抑癌基因”的遗传而加速，也可能因 DNA 受损而加速，比如吸烟或紫外线辐射造成的损伤。
+    step2: |-
+      二十世纪最后二十年上下、以及二十一世纪最初几十年，多数癌症研究者盯住的核心，是找出细胞和分子层次上调控细胞生出与死亡的机制。癌细胞的典型特征有两个：长得失控，该死的时候不死。这常与“细胞机器”改变有关，也与影响细胞分裂或细胞死亡调控的突变、以及相关因果通路被破坏有关（Hanahan & Weinberg 2000）[^hanahan-2000]。“体细胞突变论”（有时简称 SMT）或多阶段癌症理论，大致是说：让这些调控出毛病的细胞变化，来自人一生中体细胞分裂时陆续获得的系列突变、染色体改变和表观遗传改变。照这种看法，癌症的发生可能因遗传了“癌基因”或“抑癌基因”而加快，也可能因 DNA 受损而加快，比如吸烟或紫外线辐射造成的损伤。
   - id: 37
     kind: body
     source: |-
       This picture of cancer was pieced together over decades from various sources of evidence—from Virchow’s observations of chromosomal abnormalities in cancer cells, to epidemiological patterns of incidence in cancer, to the discovery of the “src” gene—one of the first mutations found to be associated with cancer. This vision of cancer as the product of oncogenes replaced a “regulatory” view of cancer, according to which cancer was a “breakdown in normal constraints on growth” (for a history, see, e.g., Morange 1993, 1997, 2003)[^morange-1993]. The “oncogene paradigm” arose at the same time that some of the first bioengineering technologies, which enabled early cancer researchers to use the techniques of molecular biology to study genes associated with cancer progression (Fujimura 1987)[^fujimura-1987]. While the SMT is often associated with a reductionist research program (see the entry on reductionism in biology), in the sense that many cancer scientists within this program seek to decompose the system of interest and understand the parts in operation in relative isolation, not all early advocates of the multistage theory were cell and molecular biologists. Two of the first advocates of the theory—Armitage and Doll—were epidemiologists. They found that curves of average lifetime incidence of lung cancer in smokers appeared to have the same shape as that of nonsmokers, simply shifted to earlier ages. This suggested that cancer could arise from a rate-limited series of events acquired over the life course. Since it was known that mutations could be acquired during somatic cell division (where “somatic” mutuations are acquired over the course of a lifetime, and “heritable” mutations refer to mutations in germ cells), and chromosomes of cancer cells were disrupted, the obvious implication seemed to be that cancer cells were in part a product of somatic mutations. Since the 1980s, hundreds of genes have been identified, mutations to which are associated with the hallmarks of cancer. Carcinogenesis, on this view, results from damage to DNA, or errors in the process of cell division, as well as either endogenous factors (various hormonal or other factors that promote cell growth), or exogenous factors (infection, and inflammation), which over time can lead to dysregulated cell growth.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这幅癌症图景，是几十年来从各种证据来源拼合起来的——从魏尔啸对癌细胞染色体异常的观察，到癌症发病率的流行病学模式，再到“src”基因的发现，这是最早发现与癌症相关的突变之一。这种把癌症看作癌基因产物的视野，取代了一种关于癌症的“调控”观，按那种观点，癌症是“对生长的正常约束发生崩溃”（关于这段历史，例如见 Morange 1993, 1997, 2003）[^morange-1993]。“癌基因范式”的兴起，与最早一批生物工程技术的出现同时；这些技术使早期癌症研究者能够用分子生物学的方法来研究跟癌症进展相关的基因（Fujimura 1987）[^fujimura-1987]。SMT 常与一个还原论的研究纲领相联系（见“生物学中的还原论”词条），意思是这一纲领中的许多癌症科学家力求分解所研究的系统，并在相对孤立的状态下理解各部分的运作；不过，并非早期所有多阶段理论的倡导者都是细胞与分子生物学家。该理论最早的两位倡导者——Armitage 与 Doll——是流行病学家。他们发现，吸烟者肺癌的平均终生发病率曲线，形状似乎与非吸烟者相同，只是整体前移到更早的年龄。这提示，癌症可能源自一生中陆续获得的一系列速率受限的事件。既然已知突变可以在体细胞分裂期间获得（“体细胞”突变是一生中获得的，而“可遗传”突变指生殖细胞中的突变），而且癌细胞的染色体遭到破坏，那么显而易见的含义似乎是：癌细胞部分地是体细胞突变的产物。自 1980 年代以来，已鉴定出数百个基因，其突变与癌症的标志性特征相关。照这种看法，癌变源于 DNA 受损、或细胞分裂过程中的错误，也源于内源因素（各种促进细胞生长的激素或其他因素）或外源因素（感染和炎症），这些因素随时间推移可导致细胞生长失调。
+    step2: |-
+      这幅癌症图景，是几十年来用各种证据拼起来的：从魏尔啸观察到癌细胞里的染色体异常，到癌症发病率的流行病学模式，再到“src”基因的发现——最早发现的与癌症相关的突变之一。这种把癌症看成癌基因产物的视野，取代了早先的“调控”观：按那种看法，癌症是“对生长的正常约束垮掉了”（这段历史例如见 Morange 1993, 1997, 2003）[^morange-1993]。“癌基因范式”冒出来的时候，正好赶上最早一批生物工程技术问世；这些技术让早期癌症研究者能用分子生物学的方法，研究跟癌症进展相关的基因（Fujimura 1987）[^fujimura-1987]。SMT 常与一个还原论研究纲领联系在一起（见“生物学中的还原论”词条）：这一纲领里的许多癌症科学家力求把所研究的系统拆开，在相对孤立的状态下弄懂各部分的运作。不过，早期倡导多阶段理论的人，并不都是细胞与分子生物学家。最早的两位倡导者——Armitage 与 Doll——是流行病学家。他们发现，吸烟者肺癌的平均终生发病率曲线，形状似乎与非吸烟者一样，只是整体挪到了更早的年龄。这提示，癌症可能来自一生中陆续获得的、受速率限制的一系列事件。既然人们已经知道突变可以在体细胞分裂期间获得（“体细胞”突变是一生中获得的，“可遗传”突变则指生殖细胞里的突变），而且癌细胞的染色体遭到破坏，那么显而易见的推论似乎是：癌细胞部分地是体细胞突变的产物。1980 年代以来，已经找出几百个基因，它们的突变与癌症的标志性特征有关。照这种看法，癌变源于 DNA 受损、或细胞分裂过程出错，也源于内源因素（各种促进细胞生长的激素等）或外源因素（感染和炎症）；这些东西日久天长，能让细胞生长失调。
   - id: 38
     kind: body
     source: |-
       In one paradigmatic example, Vogelstein and his group collected tissue samples (premalignant polyps) from patients with a familial or inherited form of bowel cancer (FAP, or familial adenomatous polyposis). They discovered that mutations to genes associated with various cancers accumulated in series of steps, what has been called the “Vogelstein cascade.” The study of familial or strongly inherited forms of cancer (cancers that appear at relatively young ages, and occur in families) has enabled the identification of several genes, mutations to which (whether inherited or acquired during somatic cell division) play a role in cancer: APC, RB, and p53 (associated with familial adenomatous polyposis, retinoblastoma, and Li Fraumeni syndrome, respectively).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在一个范例中，Vogelstein 及其小组从家族性或遗传性肠癌（FAP，即家族性腺瘤性息肉病）患者身上采集组织样本（癌前息肉）。他们发现，与各种癌症相关的基因突变按一系列步骤累积，这被称为“Vogelstein 级联”。对家族性或强遗传性癌症（在相对年轻时出现、并在家族中发生的癌症）的研究，使人们得以鉴定出若干基因，其突变（无论遗传而来还是体细胞分裂期间获得）在癌症中起作用：APC、RB 和 p53（分别与家族性腺瘤性息肉病、视网膜母细胞瘤和李-弗劳梅尼综合征相关）。
+    step2: |-
+      有一个范例：Vogelstein 和同事从家族性或遗传性肠癌（FAP，即家族性腺瘤性息肉病）患者身上取组织样本（癌前息肉）。他们发现，与各种癌症相关的基因突变是一步步攒起来的，这被称为“Vogelstein 级联”。研究家族性或强遗传性癌症（发病年龄较轻、在家族中出现的癌症），让人们找出了好几个基因，其突变（不管是遗传来的，还是体细胞分裂时获得的）都在癌症中起作用：APC、RB 和 p53（分别与家族性腺瘤性息肉病、视网膜母细胞瘤和李-弗劳梅尼综合征相关）。
   - id: 39
     kind: body
     source: |-
       This picture of explaining cancer might be expected to resonate quite well with the picture of scientific explanation advocated by what has been called the “new mechanists.” According to this view, one of the central aims of biological scientists is the identification of mechanisms. The biological sciences do seem to be unique in their focus on mechanisms, rather than laws or general principles, of the sort (typically imagined) to be central to the physical sciences (See the entry on mechanisms in science). A mechanistic explanation identifies parts and processes that typically yield specific outcomes of interest (Machamer, et al. 2000). If we wish to understand regulation of apoptosis (cell death), for instance, we might identify particular genes and proteins that play an important role in cell senescence, and determine how their activity and organization yield (or fail to yield) a given outcome. This mechanistic picture of the aims and character of explanation in the biological sciences seems prima facie to characterize current cancer research quite well, or at least the past 25 years of this research.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种解释癌症的图景，按理说会与所谓“新机械论者”所主张的科学解释图景相当契合。照这种看法，生物科学家的中心目标之一是识别机制。生物科学似乎确实独特地聚焦于机制，而不是物理科学（通常被想象为）核心所在的那类规律或一般原理（见“科学中的机制”词条）。机械论解释识别通常产生特定所关注结果的各部分与过程（Machamer, et al. 2000）。例如，如果我们想理解凋亡（细胞死亡）的调控，我们可能会识别在细胞衰老中起重要作用的特定基因和蛋白质，并确定它们的活动与组织如何产生（或未能产生）给定结果。这种关于生物科学中解释的目标和性质的机械论图景，初看之下似乎相当好地刻画了当前的癌症研究，或者至少刻画了过去 25 年的癌症研究。
+    step2: |-
+      这种解释癌症的图景，按理说跟所谓“新机械论者”主张的科学解释图景挺合拍。照这种看法，生物科学家的中心目标之一就是找出机制。生物科学似乎确实特别爱盯机制，而不是物理科学（通常被认为）最看重的那类规律或一般原理（见“科学中的机制”词条）。机械论解释找出那些通常会产生特定结果的各部分与过程（Machamer 等，2000）。比如，想弄懂凋亡（细胞死亡）的调控，我们可能会找出在细胞衰老中起重要作用的特定基因和蛋白质，再弄清它们的活动与组织方式如何产生（或没能产生）某个结果。这种关于生物科学中解释的目标和性质的机械论图景，初看之下似乎把当前的癌症研究刻画得挺好，至少把过去 25 年的研究刻画得挺好。
   - id: 40
     kind: body
     source: |-
       However, several philosophers have argued that this picture fails to capture the diverse explanatory strategies carried out by cancer scientists (Green, et. al., 2018; see also next section). Indeed, even advocates of the mechanistic perspective have argued that it needs to be amended to accommodate the complex causal processes involved in cancer’s etiology. For instance, according to Bechtel (2018), a linear picture of mechanisms for cancer requires “expanding” so as to accommodate the complex organization of mechanisms. He characterizes the mechanisms associated with apoptosis, for instance, as made up of two types: “primary” and “control” mechanisms. Failure to respond to signals promoting apoptosis in cancer may be a result of disruption in either one (or both) such mechanisms. Attention to the complex negative feedback processes of control and constraint affecting primary mechanisms is essential to explaining the emergence of cancer. As evidence of the significance of such control mechanisms, he points out how cancer researchers identify regulatory networks or feedback loops, associated with specific functions. Bechtel’s distinction between “primary” and “control” mechanism raises some interesting conceptual and methodological questions about the role of “organization” in functional explanation, and how organization may be key to biological “autonomy.” Cancer may be a case study drawing attention to the relationships between structural organization and functional behavior in biological systems, tracking insights going back to Aristotle, and continuing in the work of Kant, Bernard and Piaget (see, e.g., Mossio & Bich, 2017; Mossio, et. al., 2009; Montévil & Mossio 2015)[^montévil-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，若干哲学家论证说，这幅图景未能把握癌症科学家所进行的多样解释策略（Green, et. al., 2018；亦见下一节）。事实上，即使机械论视角的倡导者也论证说，它需要修正，以容纳癌症病因学中涉及的复杂因果过程。例如，按照 Bechtel（2018），关于癌症机制的线性图景需要“扩展”，以容纳机制的复杂组织。例如，他把与凋亡相关的机制刻画为由两类组成：“初级”机制和“控制”机制。癌症中对促进凋亡的信号不作反应，可能是这两类机制中任何一类（或两类）遭到破坏的结果。关注影响初级机制的控制与约束的复杂负反馈过程，对解释癌症的出现至关重要。作为这类控制机制重要性的证据，他指出癌症研究者如何识别与特定功能相关的调控网络或反馈回路。Bechtel 对“初级”机制和“控制”机制的区分，提出了关于“组织”在功能解释中作用的有趣概念问题和方法论问题，以及组织如何可能是生物“自主性”的关键。癌症也许是一个案例研究，让人关注生物系统中结构组织与功能行为之间的关系，追溯可上溯到亚里士多德、并延续到康德、贝尔纳和皮亚杰工作中的洞见（例如见 Mossio & Bich, 2017; Mossio, et. al., 2009; Montévil & Mossio 2015）[^montévil-2015]。
+    step2: |-
+      然而，好几位哲学家认为，这幅图景抓不住癌症科学家实际用的种种解释策略（Green 等，2018；亦见下一节）。事实上，连机械论视角的倡导者也说，它得改一改，才能容下癌症病因学里的复杂因果过程。例如 Bechtel（2018）认为，关于癌症机制的线性图景需要“扩展”，容下机制的复杂组织。他把与凋亡相关的机制分成两类：“初级”机制和“控制”机制。癌症里对促进凋亡的信号没有反应，可能是这两类机制中的一类（或两类）被破坏的结果。要解释癌症怎么出现，就得关注影响初级机制的控制与约束所构成的复杂负反馈过程。为说明这类控制机制有多重要，他指出癌症研究者怎样找出与特定功能相关的调控网络或反馈回路。Bechtel 对“初级”机制与“控制”机制的区分，引出一些有意思的概念问题和方法问题：“组织”在功能解释里起什么作用，组织又怎么可能是生物“自主性”的关键。癌症也许正好是个案例，让人注意生物系统里结构组织与功能行为的关系，把可上溯到亚里士多德、又延续到康德、贝尔纳和皮亚杰的洞见串起来（例如见 Mossio & Bich, 2017; Mossio 等，2009; Montévil & Mossio 2015）[^montévil-2015]。
   - id: 41
     kind: body
     source: |-
