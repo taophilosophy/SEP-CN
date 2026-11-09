@@ -331,38 +331,50 @@ segments:
     kind: body
     source: |-
       The kinds of pathways Bechtel identifies in cancer might either be represented as “purposive” in some sense (in that “controller” versus “primary” mechanism are re-oriented in cancer in service of promoting unlimited growth of cells), or as breakdowns in purposive organization (in that these same mechanisms typically promote survival of the organism as a whole). Relatedly, the same mechanisms might well serve as “controller” in one context, and “primary” in another. That is, this distinction itself may be relatively fluid, or context dependent. In recent work by Bich and Bechtel (2022), and others (see, e.g., Bich, et. al., 2016), this manner in which organization and ‘self-organization’ of biological systems is a product or co-regulation of multiple mechanisms, with larger implications for a variety of diferent biological systems, is developed further.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Bechtel 在癌症中识别出的那类通路，既可以在某种意义上被表示为“合目的的”（因为“控制者”机制相对于“初级”机制在癌症中被重新定向，服务于促进细胞无限生长），也可以被表示为合目的组织的崩溃（因为这些同样的机制通常促进整个机体的存活）。与此相关，同样的机制在一种语境中很可以作为“控制者”，在另一种语境中作为“初级”。也就是说，这一区分本身可能是相对流动的，或者依赖语境的。在 Bich 与 Bechtel（2022）以及其他人（例如见 Bich, et. al., 2016）近来的工作中，生物系统的组织与“自组织”是多种机制之产物或共同调控的这一方式得到了进一步发展，并对各种不同生物系统有更大的含义。
+    step2: |-
+      Bechtel 在癌症里找出的那类通路，既可以算某种意义上的“合目的的”（“控制者”机制相对于“初级”机制，在癌症里被重新定向，用来推动细胞无限生长），也可以算合目的组织的崩溃（因为这些同样的机制，通常是在维持整个机体的存活）。与此相关，同一套机制在一个语境里可以当“控制者”，在另一个语境里可以当“初级”。也就是说，这个区分本身就比较活，要看语境。Bich 与 Bechtel（2022）以及其他人（例如见 Bich 等，2016）近来的工作，进一步展开了这一点：生物系统的组织与“自组织”是多种机制共同产生、共同调控的结果，这对各种不同的生物系统都有更大的含义。
   - id: 42
     kind: body
     source: |-
       ### 2.2 Complicating the Mechanistic Picture: Tissue Organization, Stem Cells and Systems Theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 使机械论图景复杂化：组织结构、干细胞与系统论
+    step2: |-
+      ### 2.2 使机械论图景复杂化：组织结构、干细胞与系统论
   - id: 43
     kind: body
     source: |-
       Critics of the somatic mutation theory and the search for mechanisms of cancer at the cell and molecular level have raised a variety of objections, some methodological, some conceptual, and some empirical. Indeed, some critics combine all three. In the late 1990s, and early 2000s, Soto and Sonnenschein proposed an alternative to the “somatic mutation theory” (SMT), the Tissue Organization Field Theory (or, TOFT) (Sonnenschein & Soto 2000)[^sonnenschein-2000]. They object not only to reductionist methodology of advocates of SMT, but also to the empirical claim that mutations are in fact causes of cancer. They argue instead that cancer is a product of “alterations in the communication among cells and tissues that affect tissue architecture” (2013, p. 90). On this view, mutations do not “lead the way” in cancer, but instead follow upon disruptions to tissue organization. It is these alterations of patterns of interaction between cells that leads to “downward causation effects” on cells and cellular components, inducing aneuploidy and mutations (Soto & Sonnenschein 2006; Sonnenschein & Soto 2008)[^sonnenschein-2008][^soto-2008]. Let us address their arguments, turning first to methodological concerns about warranted inference from cell culture or model organism work to general claims about cancer etiology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      体细胞突变论的批评者以及细胞和分子层次上寻找癌症机制的批评者，提出了各种各样的反对意见，有些是方法论的，有些是概念的，有些是经验的。事实上，一些批评者把三者结合起来。二十世纪九十年代末和二十一世纪初，Soto 与 Sonnenschein 提出了“体细胞突变论”（SMT）的一种替代方案，即组织场论（TOFT）（Sonnenschein & Soto 2000）[^sonnenschein-2000]。他们反对的不只是 SMT 倡导者的还原论方法论，还有突变事实上是癌症原因这一经验主张。他们反而论证说，癌症是“影响组织结构的细胞与组织间交流改变”的产物（2013, p. 90）。照这种看法，突变在癌症中并不“带路”，而是跟在组织结构破坏之后。正是细胞间互动模式的这些改变，对细胞和细胞组分产生“下向因果效应”，诱发非整倍体和突变（Soto & Sonnenschein 2006; Sonnenschein & Soto 2008）[^sonnenschein-2008][^soto-2008]。让我们来处理他们的论证，首先转向关于从细胞培养或模式生物工作推论到关于癌症病因学的一般主张是否正当的方法论关切。
+    step2: |-
+      体细胞突变论的批评者、以及反对在细胞和分子层次上找癌症机制的人，提出了各种反对意见：有的针对方法，有的针对概念，有的针对经验证据，有些批评者还把三者合用。二十世纪九十年代末、二十一世纪初，Soto 与 Sonnenschein 给“体细胞突变论”（SMT）提出了一个替代方案：组织场论（TOFT）（Sonnenschein & Soto 2000）[^sonnenschein-2000]。他们反对的不只是 SMT 倡导者的还原论方法，还有“突变事实上就是癌症原因”这个经验主张。他们认为，癌症是“影响组织结构的细胞与组织间交流改变”的产物（2013, p. 90）。照这种看法，突变在癌症里不带路，而是跟在组织结构被破坏之后。正是细胞之间互动模式的这些改变，对细胞和细胞组分产生“下向因果效应”，诱发非整倍体和突变（Soto & Sonnenschein 2006; Sonnenschein & Soto 2008）[^sonnenschein-2008][^soto-2008]。下面来谈他们的论证，先看方法上的担心：从细胞培养或模式生物的工作，推论到关于癌症病因学的一般主张，是否站得住。
   - id: 44
     kind: body
     source: |-
       Given that the development of cancer is an immensely complex causal process that cannot be observed directly, many scientific claims about cancer’s causes are based on indirect inference, using model organisms or cells in culture. For instance, tumors are grown in nude mice using xenotransplantation, or tumors are observed to grow in mice in which “driver genes” are “knocked out.” Soto and Sonnenschein have argued that these artificial experimental circumstances render judgments about the causal efficacy of mutations in cancer suspect. They are raising methodological questions about the scope and limitations of model organism work. Soto and Sonnenschein further argue that there are other equally adequate explanations of cancer’s emergence, and these explanations can accommodate phenomena that the SMT cannot. For instance, they claim that cancer cells’ normalization when placed in healthy tissue cannot be explained by the SMT. Tissue organization, on their view, exerts “downward causation” on cancer cells, preventing or promoting their development into a tumor. Their claims about “downward causation” have led philosophers to weigh in on the debate (Malaterre 2011; Bertolaso 2016; Green 2021)[^bertolaso-2016][^green-2021][^green-2021-2][^malaterre-2011]. Malaterre (2011) argues that advocates of TOFT need not commit to downward causation (interpreted as an appeal to non-reductive physicalism, or emergent properties). Instead, he argues, dynamic relationships between variables that supervene over molecular and cellular activities can do the same work, via a “higher level,” or less granular explanation of cancer etiology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然癌症的发展是一个无法直接观察的极其复杂的因果过程，许多关于癌症原因的科学主张都基于间接推论，使用模式生物或培养中的细胞。例如，用异种移植在裸鼠中培养肿瘤，或者观察在“驱动基因”被“敲除”的小鼠中肿瘤生长。Soto 与 Sonnenschein 论证说，这些人造实验环境使关于突变在癌症中因果效力的判断可疑。他们提出的是关于模式生物工作的范围与局限的方法论问题。Soto 与 Sonnenschein 进一步论证说，对癌症的出现还有其他同样充分的解释，而这些解释能容纳 SMT 无法容纳的现象。例如，他们声称，癌细胞被放入健康组织时发生正常化，是 SMT 无法解释的。在他们看来，组织对癌细胞施加“下向因果”，阻止或促进其发展为肿瘤。他们关于“下向因果”的主张促使哲学家介入这场辩论（Malaterre 2011; Bertolaso 2016; Green 2021）[^bertolaso-2016][^green-2021][^green-2021-2][^malaterre-2011]。Malaterre（2011）论证说，TOFT 的倡导者不必承诺下向因果（解释为诉诸非还原物理主义或突现属性）。相反，他论证说，随附于分子和细胞活动之上的变量之间的动态关系，可以经由对癌症病因学的一种“更高层次”、或粒度更粗的解释，完成同样的工作。
+    step2: |-
+      癌症的发展是一个无法直接观察的、极其复杂的因果过程，所以许多关于癌症原因的科学主张都靠间接推论，用模式生物或培养中的细胞。比如，用异种移植在裸鼠身上长肿瘤，或者观察“驱动基因”被“敲除”的小鼠身上长出肿瘤。Soto 与 Sonnenschein 认为，这些人造实验条件让人对“突变在癌症中是否真有因果效力”的判断打上问号。他们提出的是方法论问题：模式生物的工作能管多宽、有哪些局限。他们还认为，对癌症的出现还有别的同样充分的解释，能容下 SMT 容不下的现象。比如，他们说，癌细胞放进健康组织后会正常化，这一点 SMT 解释不了。在他们看来，组织对癌细胞施加“下向因果”，阻止或促成它长成肿瘤。他们关于“下向因果”的说法，把哲学家也拉进了这场辩论（Malaterre 2011; Bertolaso 2016; Green 2021）[^bertolaso-2016][^green-2021][^green-2021-2][^malaterre-2011]。Malaterre（2011）认为，TOFT 的倡导者不必承诺下向因果（也就是不必诉诸非还原物理主义或突现属性）。他说，随附在分子和细胞活动之上的变量之间的动态关系，同样能干这个活，靠的是对癌症病因学作出一种“更高层次”、或者说粒度更粗的解释。
   - id: 45
     kind: body
     source: |-
       Do such cases genuinely count as downward causation in, for instance, Kim’s (2000) sense? After all, strictly speaking, the idea that causation is synchronic across the whole and part of the same entity seems contradictory. Soto and Sonnenschein propose that the kind of causation they are invoking is not synchronic, but “diachronic emergence”: “cellular and tissue events occurring before the expression of a particular set of genes takes place may act downwardly modifying the expression of these genes at a later time” (Soto, et al. 2008, 271). This, however, seems to be not as radical a metaphysical thesis as talk of downward causation may initially suggest. This seems instead a form of constraint. Green (2021) takes “downward causation” in such contexts to refer to : “the role of solid-state tissue properties in tumor progression … understood as constraining relations between tissue-scale and micro-scale variables” (p. 1). While this suggestion is “a ‘weaker’ form of downwards causation than the one Kim (2000) and others oppose,” and so departs from standard use of the expression, the advantage of this weaker notion that it better captures what scientists have in mind when arguing for the “necessity of higher-scale features for the realization and understanding of biological phenomena.” Similarly, Bertolaso (2016) argues that cancer is an instance of synchronic reflexive emergence—“a different mode of causation. In such a mode, effects are not expressed in terms of a progression of events, but of maintenance of states at different levels of biological organization” (Bertolaso 2016, p. 95)[^bertolaso-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这类案例真的算金在权（Kim 2000）意义上的下向因果吗？毕竟，严格说来，因果在同一实体的整体与部分之间共时发生的想法似乎是矛盾的。Soto 与 Sonnenschein 提出，他们所援引的因果不是共时的，而是“历时突现”：“在一组特定基因表达发生之前所出现的细胞和组织事件，可以在之后的某个时间向下作用、修饰这些基因的表达”（Soto, et al. 2008, 271）。然而，这似乎并不像谈论下向因果一开始所提示的那样是一种激进的形而上学论题。这里倒更像是一种约束形式。Green（2021）在这样一些语境中把“下向因果”理解为：“固态组织属性在肿瘤进展中的作用……理解为组织尺度变量与微观尺度变量之间的约束关系”（第 1 页）。虽然这一建议是“比金在权（Kim 2000）等人所反对的更强形式更‘弱’的下向因果”，因而偏离了该表述的标准用法，但这个较弱概念的好处在于，它更好地把握了科学家在论证“更高尺度特征对于理解和实现生物现象的必要性”时心里所想的。与此类似，Bertolaso（2016）论证说，癌症是共时反身突现的一个实例——“一种不同的因果模式。在这种模式中，效果不是以事件进程的方式表现出来的，而是以生物组织不同层次上状态的维持的方式表现出来的”（Bertolaso 2016, 第 95 页）[^bertolaso-2016]。
+    step2: |-
+      这类案例真的算金在权（Kim 2000）意义上的下向因果吗？毕竟，严格说来，因果在同一个实体的整体与部分之间同时发生，这个想法本身似乎就自相矛盾。Soto 与 Sonnenschein 提出，他们说的因果不是共时的，而是“历时突现”：“在一组特定基因表达之前出现的细胞和组织事件，可以在之后某个时候向下作用，修饰这些基因的表达”（Soto 等，2008, 271）。不过，这似乎并不像“下向因果”这个说法乍一听那样，是个多激进的形而上学主张。它更像是一种约束形式。Green（2021）把这类语境里的“下向因果”理解为：“固态组织属性在肿瘤进展中的作用……理解为组织尺度变量与微观尺度变量之间的约束关系”（第 1 页）。这个建议虽然是“比金在权（Kim 2000）等人所反对的那种更‘弱’的下向因果”，因而偏离了这个说法的标准用法，但它的好处是：它更能抓住科学家论证“更高尺度特征对实现和理解生物现象的必要性”时心里想的东西。同样，Bertolaso（2016）认为，癌症是共时反身突现的一个实例——“一种不同的因果模式。在这种模式里，效果不是以事件进程的方式表现出来，而是以维持生物组织不同层次上的状态的方式表现出来”（Bertolaso 2016, 第 95 页）[^bertolaso-2016]。
   - id: 46
     kind: body
     source: |-
       It seems that each of these authors is pointing to an important role for structural organization of tissues in the maintenance of homeostasis or conversely in carcinogenesis. It seems such examples do not point to “downward causation,” in Kim’s sense, but instead suggest that we simply cannot predict or explain cancer solely in terms of properties of “micro-” level parts but need to expand our understanding of the causes of cancer to include maintenance of tissue integrity. That is, the case of cancer seems to require a richer, more integrative and interdisciplinary approach to investigating causation at multiple levels.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      看来这些作者各自都在指出组织结构性组织在维持稳态、或者反过来说在癌变中的重要角色。看来这类例子并不指向金在权意义上的“下向因果”，而是提示：我们根本无法仅凭“微观”层次部分的属性来预测或解释癌症，而需要把我们对癌症原因的理解扩展到包括组织完整性的维持。也就是说，癌症这个案例似乎要求一种更丰富、更具整合性和跨学科性的进路，来研究多个层次上的因果。
+    step2: |-
+      看来这些作者都在强调同一件事：组织在结构上的组织方式，对维持内稳态很重要；反过来，对癌变也很重要。看来这类例子并不指向金在权意义上的“下向因果”，倒是提示：光靠“微观”层次各部分的属性，我们根本没法预测或解释癌症，得把对癌症原因的理解扩展到组织完整性怎么维持。也就是说，癌症这个案例似乎要求一种更丰富、更整合、更跨学科的进路，来研究多个层次上的因果。
   - id: 47
     kind: body
     source: |-
