@@ -2,7 +2,7 @@
   "slug": "brentano-judgement",
   "kind": "retranslate",
   "zh_doc": "b/brentano-judgement.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,13 @@
       "actor": "B-main-20261109b",
       "at": "2026-11-08T23:31:05Z",
       "evidence": "账本 219 段（body 184/note 34/biblio 照录 74/oir 1）双版齐，lq.py check HARD=0（SOFT 249 条逐条为斜体转书名号/引号或机械段，留痕）；compose 写回 42,400 字符与账本 step2 一致；check_style 0 issue（italic-cjk 一处经 italic_to_bold_cjk 转加粗）、check_math 0 公式、check_academic --strict 0 硬错误；源钉 Summer 2025（baseline gate hash_ok）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "B-main-20261109b",
+      "at": "2026-11-09T01:28:45Z",
+      "evidence": "逐节回源核销：H2/H3 17:17（源多一转换器 Notes 包装标题，按模板不搬）；footnote defs 108:108 键集全等；正文脚注引注零缺；PES 页码引注 36:36、年份 274:274 全等；正文残留外文 7 处均为作者署名与德文术语（anerkennendes Urteil 等）；抽核 8 处高风险段逐句对照，实修 1 处（note-23「moods of the categorical syllogism」→「直言三段论的那些式（moods）」）；四检复跑全绿"
     }
   ],
   "blockers": [],
