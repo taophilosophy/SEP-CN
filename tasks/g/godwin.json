@@ -2,7 +2,7 @@
   "slug": "godwin",
   "kind": "retranslate",
   "zh_doc": "g/godwin.md",
-  "state": "drafted",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,55 @@
       "actor": "g-gamma-G-main-20261109",
       "at": "2026-11-09T07:57:24Z",
       "evidence": "账本 50 段双版齐（p1-p4 分批落盘并逐批提交）；lq check HARD=0，SOFT 15 条全为斜体→书名号转换（书刊名用《》替代斜体），逐条判读留痕；compose 写回 32379 字符；g_fix_h1 H1=SUMMARY 一致；italic_to_bold_cjk 0 行（正文无中文斜体）；g_check 全绿（style 0/math 0/academic strict OK/H1 一致）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T17:27:42Z",
+      "evidence": "s1 逐节核销（对照 yuanwen/g/godwin.md，43 段/80 键级结构对账）：节标题 13=13（##1-5 与 References 全部子标题一一对应）、脚注键 80=80 全等（缺 0 多 0）、段落 155=155；事实核对人名年代编号无缺；修补 2 处：Harriet Lee/Reveley/Elwes 求婚时序的 too soon/too pressing 语气还原、Hoxton 阿明尼乌/阿里乌分述（原括号合并转破折分述）。漏译 0、增译 0。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T17:27:43Z",
+      "evidence": "s2 check_prose 24→3：拆长句 8（行7/9/47/79/81/91/93/95/97）、de-chain 12（行9/17/27/47/77/95/97/101）、弱动词 1（作出健全伦理判断→下得健全判断）逐条手改；残余 3 条全为直引/引文块内部（行 37/41/85），按 ADR-0020 引文豁免留痕；无事实改动。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T17:28:53Z",
+      "evidence": "s3 体例终检：script/g_check.py g godwin 全绿（check_style issues=0、check_math formulas=0 missing/unbalanced=0、check_academic --strict OK、H1=SUMMARY 一致）；check_prose 残余 3 条全为引文块豁免；术语登记 9 条（philosophical anarchism 哲学无政府主义、private judgment 私人判断、necessarianism 必然论、Sandemanianism、Godwinism 等）＋人名 11 条（戈德温/沃斯通克拉夫特/霍尔巴赫/爱尔维修/雷纳尔/乔叟/卡利古拉/尼禄/布鲁图斯/车尔尼雪夫斯基/克鲁泡特金）经 reg_tool 入册；check_terms 无硬错误。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T17:36:58Z",
+      "evidence": "r1 对照英文源自审：节标题 13=13、脚注键 80=80、引文块 10=10、年份集缺 0（zh 多出的 1840/1920/1940 为 1840s/1920s/1940s 年代化假差）；§1–§5 逐段回核事实、年代、编号、专名无出入；未发现需修补项（0 处）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T17:36:58Z",
+      "evidence": "r2 句级回核：全文 224 行复读；引文块 5 处（Hazlitt 二引、Godwin 1794/1796/1800 自述、PPW IV 417）与源逐句对照信实；残留外文扫描 45 串全为书名/人名（政策保留）与文献区；人名册覆盖核：正文汉名 Go德温/沃斯通克拉夫特/费奈隆/霍尔巴赫/爱尔维修/休谟/伯克/潘恩/佩利/斯密/马尔萨斯/卢梭/孟德斯鸠/雷纳尔/乔叟/卡利古拉/尼禄/布鲁图斯/车尔尼雪夫斯基/克鲁泡特金 均有行（本轮补 Pitt 1 行）；prose 残余 3 条引文豁免不变。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T17:37:00Z",
+      "evidence": "r3 终检：script/g_check.py g godwin 全绿（style 0、math 0、academic --strict OK、H1=SUMMARY）；check_prose 残余 3 条均为引文块（ADR-0020 豁免）；check_terms 无硬错误；账本 50 段守恒（lq check HARD=0，SOFT 15 条斜体→书名号已判读留痕）。复核独立性：初译 g-gamma-G-main-20261109，s1–r3 由 G-main-20261110 执行（非同一 actor）。验收通过。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T17:37:00Z",
+      "evidence": "done：九步齐（draft/s1/s2/s3/r1/r2/r3+done），成稿 224 行 32379 字符入库，验收签字。"
     }
   ],
   "blockers": [],

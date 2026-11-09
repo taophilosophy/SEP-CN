@@ -7,12 +7,14 @@
 > **列序**：键 ｜ 原文 ｜ 译法 ｜ 首现（slug 或书目）｜ 依据 ｜ 裁定日期。依据档位见 ADR-0012（知网系权威源 → 权威译本 → 学界惯例；禁维基）。
 <!-- az-sort:v1 -->
 
+| Dissenters | — | 不从国教派；godwin | godwin | 英国宗教史通行汉译（Dissenting tradition 不从国教传统） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 ## A
 
 | Cardinal-Bishop of Ostia | — | 奥斯提亚枢机主教 | peter-damian | 天主教会职衔通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Polish notation | — | 波兰记法 | lvov-warsaw | 逻辑史通行译法；凭证 2026-11-09 | 2026-11-09 |
 | a-ji / a-ji kan | 阿字観 | 阿字观 | kukai | 真言宗汉语传统（阿字观想） | 2026-11-09 |
 
+| Godwinism | — | 戈德温主义；godwin | godwin | 人姓派别义汉译（学界通行） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 ## A
 
 | A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
@@ -43,6 +45,7 @@
 | a posteriori | — | 后验 | logical-consequence | 哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | Lvov-Warsaw School | — | 利沃夫—华沙学派 | lvov-warsaw | 学界通行译法（LWS）；凭证 2026-11-09 | 2026-11-09 |
 | Kleene–Mostowski hierarchy | — | Kleene–Mostowski 层级 | lvov-warsaw | 递归论术语照录；凭证 2026-11-09 | 2026-11-09 |
+| Sandemanianism | — | Sandeman 主义；godwin | godwin | 派别名保留人姓原文＋主义（18 世纪加尔文宗分支，无通行汉译） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | Abhidhamma | अभिधम्म | 阿毗达磨（巴利语拼形，与梵语 Abhidharma 同指；古译传统作“阿毗昙”） | 首现（abhidharma） | 佛学界通行；与既有 Abhidharma=阿毗达磨 对齐；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Abhidharma | — | 阿毗达磨 | gorampa | 佛教论藏通行译名 | 2026-11-09 |
 | Abhisamayālaṃkāra | अभिसमयालंकार | 《现观庄严论》 | gelukpa | 佛学界通行译名 | 2026-11-01 |
@@ -256,6 +259,7 @@
 | argument-text | — | 论证文本 | schema | 构词直译（Corcoran 术语：argument 论证、text 文本） | 2026-11-06 |
 | Aristotelian categories | — | 亚里士多德范畴 | 语料回收（标题词） | 学界惯例（希腊哲学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Aristotelianism | — | 亚里士多德主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
+| act-utilitarianism | — | 行为功利主义；godwin | godwin | 功利主义分类标准译名 | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | arithmetical completeness/soundness | — | 算术完全性／算术可靠性 | logic-provability | 数理逻辑通行 | 2026-11-05 |
 | Arrow (paradox) | — | 飞矢不动（悖论名） | zeno-elea | 学界千年通行（芝诺四悖论通名）；凭证 2026-11-09 | 2026-11-09 |
 | Arrow-Pratt measure | — | 阿罗—普拉特度量 | risk | 学界惯例（风险厌恶度量通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -2368,6 +2372,7 @@
 | Nicomachean Ethics | — | 《尼各马可伦理学》（亚里士多德；廖申白译本） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | nigoda | निगोद | 群聚生 | jaina-philosophy | 本库自拟音译（源文自注 idle；耆那教最微生命形态） | 2026-11-08 |
 | nihilism | — | 虚无主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| necessarianism | — | 必然论；godwin | godwin | 学界通行（哲学必然性学说，Priestley 传统译名） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | Nihonjinron | 日本人論 | 日本人论 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | nijiriguchi | 躙口 | 躙口 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“躙口”） | 2026-11-02 |
 | functionally complete | — | 函项完全 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -2695,6 +2700,7 @@
 | place (Aristotelian topos) | — | 处所 | zeno-elea | 学界通行（吴寿彭/苗力田《物理学》topos 译法）；凭证 2026-11-09 | 2026-11-09 |
 | place (topos) | — | 位置 | crescas | 学界通行（亚里士多德自然哲学范畴）；凭证 2026-11-08 | 2026-11-08 |
 | plasticity | — | 可塑性；cancer | cancer | 学界通行（生物学）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
+| philosophical anarchism | — | 哲学无政府主义；godwin | godwin | 学界通行（无政府主义思想史标准译名；与 anarchism 无政府主义分义） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | placeholder | — | 占位符 | schema | 学界惯例（逻辑与计算机通行） | 2026-11-06 |
 | Plastic Nature | the Plastick Life of Nature | 塑形自然 | cambridge-platonists 补登 | 学界通行（库德沃斯术语；Spirit of Nature 自然精神 与之对举） | 2026-11-09 |
 | Platonic ideas | — | 柏拉图式理念 | 语料回收（标题词） | 学界惯例（柏拉图理念论通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -2710,6 +2716,7 @@
 | plurality rule | — | 相对多数规则 | jury-theorems | 学界惯例（选举制度通行）；凭据 2026-11-02 | 2026-11-02 |
 | pluripotent stem cell | — | 多能干细胞 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | pneuma | πνεῦμα | 普纽玛 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
+| motive utilitarianism | — | 动机功利主义；godwin | godwin | 功利主义分类标准译名（Barry 论 Godwin 语境） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | poetic wisdom | — | 诗性智慧（维柯） | 语料回收（标题词） | 学界惯例（维柯《新科学》通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | poetics | — | 诗学；zabarella | 首现（schlegel） | 学界惯例（文学理论通行）；凭证 2026-11-07 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Poincaré transformations | Poincaré transformations | 庞加莱变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
@@ -2832,6 +2839,7 @@
 | Prior Analytics | — | 《前分析篇》（亚里士多德） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | prior association / potential for generalization | — | 先行关联／概括潜力 | reasoning-analogy | 构词直译（Bartha 2010 术语） | 2026-11-05 |
 | prioritarian | — | 优先主义 | organ-donation | 学界惯例（政治哲学通行；凭证 2026-11-06） | 2026-11-06 |
+| private judgment | — | 私人判断；godwin | godwin | 学界通行汉译（宗教与政治哲学传统译名） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | priority base | — | 优先基 | logic-preference | 本领域通行（刘奋荣术语） | 2026-11-05 |
 | priority map | — | 优先图 | moral-responsibility-empirical | 注意研究通行（attention priority map） | 2026-11-07 |
 | Prisoner’s Dilemma | — | 囚徒困境 | 语料回收 | 审定名词库（termonline-all·经济学/管理学名词，2026-10-30 浏览器通道凭证） | 2026-10-30 |
@@ -3810,6 +3818,7 @@
 | units of selection | — | 选择的单位 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | interesse (Kant) | — | 保留原词（不意译；十八世纪德语特殊用法） | aesthetic-judgment 首译 | 康德《判断力批判》术语，中译学界多保留原词或译“利害”；本条正文照源文保留并加译注；凭证 2026-11-09 | 2026-11-09 |
 | unity of intellect | — | 理智统一性 | gersonides | 阿威罗伊主义论题通行译法（unity of the intellect） | 2026-11-09 |
+| universal benevolence | — | 普遍仁爱；godwin | godwin | 道德哲学通行汉译（18 世纪英国道德哲学语境） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | unity of opposites | — | 对立统一 | heraclitus 首译 | 学界通行（亦作「对立面的统一」）；凭证 2026-11-09 | 2026-11-09 |
 | universal | — | 共相（中世纪-黑格尔传统） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | universal affirmative predication | — | 全称肯定谓述 | schema | 构词直译（亚里士多德逻辑） | 2026-11-06 |
