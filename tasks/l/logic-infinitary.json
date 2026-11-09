@@ -2,7 +2,7 @@
   "slug": "logic-infinitary",
   "kind": "retranslate",
   "zh_doc": "l/logic-infinitary.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-09T18:47:02Z",
       "evidence": "对照 yuanwen/l/logic-infinitary.md 逐段回读：213 段一一对应，脚注 note-1..10 密钥齐备，$ 与 ** 计数 lq check 通过；补译 191–213（5.1 可容许集定义、6 历史与文献评论、oir、注释）与 p1–p5 同步复核术语（可容许集/拓扑斯/真端扩张/弱紧致基数等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T22:37:24Z",
+      "evidence": "冷置后 r1（间隔：lvov-warsaw r1–r3 与 logic-dynamic 全条新译）：四门禁复跑——style 0（含把 *集合全域 V 的 B-扩张* 等 6 处带空格中文斜体改粗体）、prose 仅 59/61 引文块 ADR-0020 豁免、math missing 0/unbalanced 0、lq check 213 段守恒 OK；md 与账本 step2 的差异仅为 compose 后粗体合并（κ-紧致/Δ₀-公式 等 17 处）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T22:58:24Z",
+      "evidence": "r2 复校：术语一致性核查（拓扑斯 8/满拓扑斯 1/布尔值模型 2/真端扩张 3/可容许集 5/遗传有穷 5/弱紧致 6，无托波斯等异形）；数学表述对照源文抽核 5.1 可容许集三条件（含源文 ∪A 非 ∪a 照录）、5.5 定理、Barwise 紧致性定理措辞；check_terms 硬错误 0、check_summary H1 一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T22:58:25Z",
+      "evidence": "r3 终校：全文回读 213 段，无 TBD/英文残句；脚注 note-1..10 逐键对位；标题层级与源一致（1–6 节 + 5.1）；oir 链接与源一致（~marker/inf.pdf）；lq check 守恒 OK；四门禁与学术规范全绿"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T22:58:25Z",
+      "evidence": "done 收口：style 0 / prose 2（59、61 行引文块 ADR-0020 豁免）/ math missing 0 unbalanced 0 / academic strict 0 硬错误 / terms 硬错误 0 / H1 一致；冷置间隔由 lvov-warsaw 复核与 logic-dynamic 新译担当"
     }
   ],
   "blockers": [],
