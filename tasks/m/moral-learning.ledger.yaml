@@ -1140,107 +1140,143 @@ segments:
     kind: body
     source: |-
       ## 7. Moralization
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. Moralization
+    step2: |-
+      ## 7 道德化
   - id: 142
     kind: body
     source: |-
       Although statistical learning might explain some of the complexity of moral representations, it does so at the expense of capturing anything distinctively moral (see, e.g., Mikhail 2022)[^mikhail-2022]. Thus, even if statistical learning offers a how-possible explanation for the acquisition of rules that are act-based and parochial, as well as how rules might be accorded the status of being authority-independent, it’s not obvious that this is the correct story about the acquisition of *moral* rules and the moral/conventional distinction. In this final section, we consider various ways that distinctively moral representations might be acquired, or not, as the case may be.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管统计学习也许能解释道德表征的某些复杂性，它却是以失去任何独特地属于道德的东西为代价的（见如 Mikhail 2022）[^mikhail-2022]。因此，即便统计学习为“以行动为基础”与偏狭规则的获得提供了一个“如何可能”的说明，也为规则如何可能被赋予独立于权威的地位提供了说明，这并不显然就是关于*道德*规则之获得以及道德/习俗区分的正确故事。在这最后一节，我们考察独特地属于道德的表征可能以哪些方式获得——或者如情形所示，可能并非如此。
+    step2: |-
+      统计学习或许能解释道德表征的一部分复杂性，代价却是丢掉“道德”之所以为道德的东西（见如 Mikhail 2022）[^mikhail-2022]。所以，即便统计学习能为“以行动为基础”的规则、偏狭规则，以及“规则何以独立于权威”给出一个“如何可能”的说法，也未见得就是*道德*规则与道德/习俗区分如何获得的正确故事。最后一节来看：独特地属于道德的表征，可能怎么获得——或者，按情形看，压根儿没获得。
   - id: 143
     kind: body
     source: |-
       ### 7.1 Rejecting the distinction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 Rejecting the distinction
+    step2: |-
+      ### 7.1 拒斥该区分
   - id: 144
     kind: body
     source: |-
       The first, simplest option regarding distinctively moral representations is to deny that there is a true distinction between moral and non-moral representations (e.g., Kelly et al. 2007; Sinnott-Armstrong & Wheatley 2012 and 2014; Sinnott-Armstrong 2016)[^kelly-2007][^sinnott-armstrong-2016][^sinnott-armstrong-2012][^sinnott-armstrong-2014]. The most prominent version of this skeptical position focuses on the moral/conventional literature. According to standard ways of drawing the moral domain, it is essentially tied to harmful actions, such that if an action is registered as harming an individual, it will be regarded as morally wrong. However, some experimental results seem to speak against this simple identification. For instance, Kelly and colleagues found that most participants thought that whipping a sailor who is neglectful of their duties was wrong now, but a majority thought it was okay to whip a derelict sailor 300 years ago (Kelly et al. 2007; see also Quintelier and Fessler 2015)[^kelly-2007][^quintelier-2015]. *Pace* the traditional account of the moral/conventional distinction, these results are supposed to show that actions that constitute harm-based violations for us now still show context-relativity. That would mean that one of the core signatures that is supposed to attend to moral representations is really not dispositive. For responses to this line of critique, see e.g., Sousa et al. 2009; Kumar 2015; Dahl & Waltzer 2020 (supplementary online materials); Margoni & Surian 2021. (See also SEP entry “The Moral/Conventional Distinction”.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于独特地属于道德的表征，第一种也最简单的选择，是否认道德表征与非道德表征之间存在真正的区分（如 Kelly et al. 2007; Sinnott-Armstrong & Wheatley 2012 and 2014; Sinnott-Armstrong 2016）[^kelly-2007][^sinnott-armstrong-2016][^sinnott-armstrong-2012][^sinnott-armstrong-2014]。这一怀疑立场最突出的版本，聚焦于道德/习俗文献。按划分道德领域的标准方式，道德本质上与伤害性行动相连：只要一个行动被登记为伤害某个体，它就会被视为道德上错误。然而，一些实验结果似乎不利于这种简单等同。例如，Kelly 与同事发现，多数参与者认为，鞭打一名玩忽职守的水手现在是错的，但多数人又认为，300 年前鞭打一名失职水手没问题（Kelly et al. 2007; 另见 Quintelier and Fessler 2015）[^kelly-2007][^quintelier-2015]。*与*道德/习俗区分的传统说明相反，这些结果意在表明：在我们今天算作基于伤害的违规的那些行动，仍显出语境相对性。这意味着，本应伴随道德表征的核心标志之一，其实并不具有决定性。对此类批评的回应，见如 Sousa et al. 2009; Kumar 2015; Dahl & Waltzer 2020（在线补充材料）；Margoni & Surian 2021。（另见 SEP 词条“道德/习俗区分”。）
+    step2: |-
+      关于“道德表征到底特别在哪”，第一条也最简单的路，是干脆否认道德表征与非道德表征之间真有界线（如 Kelly et al. 2007; Sinnott-Armstrong & Wheatley 2012 and 2014; Sinnott-Armstrong 2016）[^kelly-2007][^sinnott-armstrong-2016][^sinnott-armstrong-2012][^sinnott-armstrong-2014]。这种怀疑论最出名的版本，冲着道德/习俗文献去。按划分道德领域的标准做法，道德本质上是跟伤害绑在一起的：一个动作只要被登记为“伤到了谁”，便算道德上错。可有些实验结果不买这个简单等号。Kelly 与同事发现，多数人认为鞭打一个玩忽职守的水手，现在算错；可同样多数人认为，三百年前鞭打一个失职水手并无不可（Kelly et al. 2007; 另见 Quintelier and Fessler 2015）[^kelly-2007][^quintelier-2015]。传统说法以为道德表征必带语境无关性；这些结果偏要显示：今天算“基于伤害”的违规，照样随语境变。若真如此，那项本被视为道德表征核心标志的特征，就并不具有决定权。对这些批评的回应，见如 Sousa et al. 2009; Kumar 2015; Dahl & Waltzer 2020（在线补充材料）；Margoni & Surian 2021。（另见 SEP 词条“道德/习俗区分”。）
   - id: 145
     kind: body
     source: |-
       ### 7.2 Testimony
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 Testimony
+    step2: |-
+      ### 7.2 证言
   - id: 146
     kind: body
     source: |-
       Even if skeptics about the moral/conventional distinction are right, there remains a question about the ordinary use of the term “moral”. People do reliably identify certain transgressions as “moral” (see, e.g., Wright et al. 2013 and 2014)[^wright-2013][^wright-2014]. For instance, most people regard the type of issue involved in cheating on a lifeguard exam as “moral”, whereas most people regard the type of issue involved in wearing pajamas to a meeting as “social conventions/norm” (Wright et al. 2013, 4)[^wright-2013]. There is a simple question about how these labels get attached, and skepticism about the moral/conventional distinction doesn’t answer this question. However, one flat-footed possibility is that people simply hear the word “moral” attached to certain kinds of actions, like cheating. This would be a minimal explanation for the emergence of talk of “morality”. One version of this idea would be broadly consistent with the skepticism about the moral/conventional distinction. For it might be that the use of “moral” is relatively undisciplined. Another possibility, though, is that there is some deeper regularity about the way the term “moral” is used, and that this deeper regularity conforms to a great extent to the traditional characterization of morality in terms of harm.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便怀疑道德/习俗区分的人是对的，仍有一个关于“道德”一词日常用法的问题。人们确实可靠地把某些越界行为标为“道德的”（见如 Wright et al. 2013 and 2014）[^wright-2013][^wright-2014]。例如，多数人把救生员考试作弊所涉及的那类问题视为“道德的”，而多数人把穿睡衣去开会所涉及的那类问题视为“社会习俗/规范”（Wright et al. 2013, 4）[^wright-2013]。这些标签如何贴上去，是个简单的问题；对道德/习俗区分的怀疑论并不回答它。然而，一种直截了当的可能性是：人们只是听到“道德”一词被贴在某些类别的动作上，比如作弊。这将是对“道德”谈论之兴起的最低限度解释。这一想法的一个版本，会与对道德/习俗区分的怀疑论大体相容：因为“道德”的用法也许相对没有纪律。不过，另一种可能性是：“道德”一词的用法存在某种更深的规律性，而这种更深的规律性在很大程度上符合以伤害来刻画道德的传统说法。
+    step2: |-
+      就算怀疑道德/习俗区分的人有理，还有个问题没解决：“道德”这个词平时是怎么用的。人确实会把某些越界行为稳稳地叫作“道德问题”（见如 Wright et al. 2013 and 2014）[^wright-2013][^wright-2014]。比如，救生员考试作弊这类事，多数人归为“道德”；穿睡衣去开会这类事，多数人归为“社会习俗/规范”（Wright et al. 2013, 4）[^wright-2013]。这些标签怎么贴上去，是个简单问题，怀疑论却没回答。最省事的答案是：人不过听惯了“道德”这个词跟作弊这类动作连在一起。这么解释，“道德”话语的兴起也就交代了。这一说法的一个版本，与怀疑论大致相容——“道德”的用法本来就没什么纪律。不过还有另一种可能：这个词的用法背后有更深的规律，而那规律在很大程度上正合上“以伤害界定道德”的老传统。
   - id: 147
     kind: body
     source: |-
       ### 7.3 Innate
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.3 Innate
+    step2: |-
+      ### 7.3 先天
   - id: 148
     kind: body
     source: |-
       A much more robust view is that moral representations are distinctive because there is an innate learning device for moral acquisition. This view was discussed in section 5 above. According to this nativist view, even if it’s possible to acquire the act/allow distinction or the moral/conventional distinction from statistical learning, this is not how humans actually acquire such distinctions in the moral domain. Although this is a theoretical possibility, more work would be needed to show that this is a superior explanation to the domain-general explanation offered by statistical learning. That is, it remains to be seen why we should think that the act/allow distinction is learned differently in the moral domain than it is in the, say, conventional domain.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个强硬得多的观点是：道德表征之所以独特，是因为存在一种先天的道德获得学习装置。这一观点已在上文第 5 节讨论。按这种先天论看法，即便从统计学习中获得行动/允许区分或道德/习俗区分是可能的，人类在道德领域实际获得这类区分的方式也并非如此。尽管这在理论上是可能的，要表明它优于统计学习给出的领域一般说明，还需更多工作。也就是说，我们凭什么认为，行动/允许区分在道德领域的学习方式，与在习俗领域的学习方式不同？这仍有待说明。
+    step2: |-
+      更强硬的一种观点是：道德表征之所以特别，是因为有一套先天的道德获得装置。第 5 节已谈过。按这种先天论，就算统计学习能学到行动/允许区分、道德/习俗区分，人类在道德领域实际学会它们，走的也不是这条路。理论上当然可以这么说，但要证明它胜过统计学习的领域一般说明，还得拿出更多东西。换句话说：凭什么说行动/允许区分在道德领域学起来，跟习俗领域不一样？这还有待交代。
   - id: 149
     kind: body
     source: |-
       ### 7.4 Emotional resonance
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.4 Emotional resonance
+    step2: |-
+      ### 7.4 情感共鸣
   - id: 150
     kind: body
     source: |-
       Another explanation for distinctiveness of moral representations harks back to findings on emotional sensitivity. Blair’s theory ties moral judgment to the innate sensitivity to distress cues (see section 4.1). His theory has difficulty accommodating the fact that we regard moral violations as wrong, and not merely as bad (see section 4.3). It’s partly because of this failure to register wrongness that many theorists have maintained that rules play an essential role in moral representations that go beyond mere emotional response. However, one might attempt to capture the distinctiveness of moral representations by invoking both rules and emotional responses. It might be that rules that prohibit actions that are independently likely to elicit aversive responses get treated in distinctive ways. And this coupling would plausibly occur for central moral violations like those involving assault (see, e.g., Nichols 2004)[^nichols-2004]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种解释道德表征独特性的说法，回到情感敏感性上的发现。Blair 的理论把道德判断系于对痛苦信号的先天敏感性（见 4.1 节）。他的理论难以容纳一个事实：我们把道德违规视为错的，而不只是视为坏的（见 4.3 节）。部分正是由于未能登记“错误性”，许多理论家坚持规则在道德表征中扮演超出单纯情感反应的本质角色。然而，人们可以尝试同时诉诸规则与情感反应，来刻画道德表征的独特性。有可能是：那些禁止本身即可能引发厌恶反应之行动的规则，会得到独特的对待。而这种耦合，很可能就发生在袭击之类的核心道德违规上（见如 Nichols 2004）[^nichols-2004]。
+    step2: |-
+      另一种解释道德表征何以特别的路子，回到情感敏感性。Blair 的理论把道德判断系于对痛苦信号的先天敏感（见 4.1 节）。可它安放不下一个事实：我们把道德违规当成“错的”，而不只是“让人难受”（见 4.3 节）。正因它登记不了“错误性”，许多理论家坚持规则在道德表征里挑大梁，光靠情感反应不够。不过，也有人试着把规则与情感反应一起搬来：禁止那些本身容易惹人厌恶的动作的规则，或许会得到特殊对待。而这种事，多半就发生在袭击之类的核心道德违规上（见如 Nichols 2004）[^nichols-2004]。
   - id: 151
     kind: body
     source: |-
       ### 7.5 Universalizability
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.5 Universalizability
+    step2: |-
+      ### 7.5 可普遍化
   - id: 152
     kind: body
     source: |-
       A final possibility for how we might develop distinctively moral representations draws on roughly Kantian ideas about the permissibility of universalizing a particular kind of action. At least in some cases, we feel obligations not because our individual action has direct consequences, and not because it is bound by societal norms or even strong emotions, but rather because we consider a hypothetical: “What if everyone did/didn’t do X?” and the potential harms or benefits that would result. Examples include voting (for potential collective political benefits), recycling and reusing (for potential environmental benefits), and vaccination (for potential public health benefits).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们如何发展出独特地属于道德的表征，最后一种可能是借重大致属于康德式的想法：某类行动的普遍化是否可允许。至少在某些情形中，我们感到义务，不是因为我们的个体行动有直接后果，也不是因为它受社会规范乃至强烈情感约束，而是因为我们考虑一个假设：“要是人人都做/不做 X 会怎样？”以及由此可能产生的伤害或益处。例子包括投票（为潜在的集体政治益处）、回收与再利用（为潜在的环境益处）、以及接种疫苗（为潜在的公共卫生益处）。
+    step2: |-
+      关于独特地属于道德的表征从哪来，最后一个可能的答案是借康德的路子：某类动作若人人照做，还行不行得通。至少有些时候，我们觉得该做某件事，不是因为自己这一做有直接后果，也不是因为社会规范或强烈情感逼着，而是因为脑子里冒出一个假设：“要是人人都做/都不做 X，会怎样？”以及由此而来的祸福。投票（图集体的政治好处）、回收再利用（图环境好处）、打疫苗（图公共卫生好处），都是例子。
   - id: 153
     kind: body
     source: |-
       Levine and colleagues (2020) termed this consideration of hypothetical collective actions *universalization*. They found that this tendency to think about the hypothetical actions of collectives of individuals can explain the generation of new moral rules in certain cases. These cases can be predicted through a computational model as a function of the number of people *n* who would hypothetically engage in an action if they felt “at moral liberty to do so” (Levine et al. 2020, 26159)[^levine-2020] and the aggregate utility *U(n)* of that collective action. When the hypothetical number of people exceeds a threshold for harm, *U(n)* decreases and the action is judged to be impermissible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Levine 与同事（2020）把这种对假设性集体行动的考虑称为*可普遍化*。他们发现，这种思考个体集体之假设行动的倾向，可以解释某些情形中新道德规则的生成。这些情形可通过一个计算模型预测：其函数取决于假设中“觉得在道德上可以这样做”而会采取某行动的人数 *n*（Levine et al. 2020, 26159）[^levine-2020]，以及该集体行动的总体效用 *U(n)*。当假设的人数超过伤害阈值时，*U(n)* 下降，该行动被判为不允许。
+    step2: |-
+      Levine 与同事（2020）把这种“想想人人如此会怎样”的考虑叫作*可普遍化*。他们发现，这种琢磨众人假设行为的倾向，能解释某些情形里新道德规则的生成。这些情形可以用一个计算模型预测：看假设中“觉得在道德上可以这么干”而会这么做的人数 *n*（Levine et al. 2020, 26159）[^levine-2020]，以及这一集体行动的总体效用 *U(n)*。假设人数一旦越过伤害的坎，*U(n)* 就往下掉，这动作便判为不允许。
   - id: 154
     kind: body
     source: |-
       In a series of experiments, Levine et al. (2020) showed that this model of universalization matches well with people’s evaluations of the permissibility of individual actions. For example, in one vignette, participants read a story about a fictional lakeside town where people could fish without harming the lake. They were then told about a new fishing hook that could be used by three or fewer people without harming the lake but would harm the lake if more than three people used it (the harm was a “total collapse” of the fish population). Participants were asked to evaluate one fisherman’s actions as morally good or bad across two conditions: in the *low-interest* condition they were told that no one else is interested in using the hook, and in the *high-interest* condition they were told that everyone was interested in using the hook. Importantly, participants in both conditions were also told that (1) everyone else had decided not to use the hook, and (2) there were no rules against using the hook. Despite these additional assurances, participants judged the fisherman’s action as less permissible in the *high-interest* than in the *low-interest* condition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在一系列实验中，Levine 等（2020）表明，这一可普遍化模型与人们对个体行动可允许性的评价吻合得很好。例如，在一则情境故事中，参与者读到一个虚构湖畔小镇，人们可以钓鱼而不伤及湖泊。随后他们得知一种新鱼钩：三人或更少的人使用不会伤湖，但若超过三人使用就会伤湖（伤害是鱼群的“全面崩溃”）。参与者被要求在两种条件下评价一位渔夫的行为在道德上是好是坏：在*低兴趣*条件下，他们被告知没有别人想用这种鱼钩；在*高兴趣*条件下，他们被告知人人都想用。重要的是，两种条件下的参与者还都被告知：（1）其他所有人都已决定不用这种鱼钩；（2）没有禁止使用鱼钩的规则。尽管有这些额外的保证，参与者在*高兴趣*条件下仍比在*低兴趣*条件下更不认为渔夫的行为可允许。
+    step2: |-
+      Levine 等（2020）的一串实验表明，这套可普遍化模型算出来的结果，跟人对个体行动可允许性的评价对得上。比如一则情境：一个虚构的湖畔小镇，人钓鱼不伤湖。然后说有一种新鱼钩：三人以内用没关系，超过三人就伤湖（后果是鱼群“全面崩溃”）。让参与者评一位渔夫的做法好坏，分两种条件：*低兴趣*条件下，没别人想用这钩；*高兴趣*条件下，人人都想用。要紧的是，两种条件都告诉参与者：（1）别人都已决定不用；（2）也没有禁用这钩的规矩。可即便有这两重保证，*高兴趣*条件下的人仍比*低兴趣*条件下的人更不认可渔夫的做法。
   - id: 155
     kind: body
     source: |-
       The tendency to universalize drives moralization of otherwise harmless actions even early in development. With child-friendly vignettes, Levine and colleagues (2020) showed that even 4- to 11-year-old children consider the potential threshold of harm when judging whether an action is permissible or impermissible. Finiasz and colleagues (2025) replicated this finding with a new sample of 6- to 10-year-old children, showing that children’s tendency to universalize is influenced not only by hypothetical interest, but by the severity of the potential harmful consequences that result. Together these studies suggest universalization as a mechanism for moralizing actions in the absence of individual direct harms, emotional resonance, or explicit rules.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可普遍化的倾向，甚至在发展早期就驱动着对本无害行动的道德化。Levine 与同事（2020）用适合儿童的情境故事表明，即便 4 至 11 岁的儿童，在判断某行动可允许还是不可允许时，也会考虑潜在的伤害阈值。Finiasz 与同事（2025）用 6 至 10 岁儿童的新样本重复了这一发现，表明儿童的可普遍化倾向不仅受假设兴趣影响，也受潜在有害后果的严重程度影响。这些研究合起来提示：可普遍化是一种机制，能在没有个体直接伤害、没有情感共鸣、也没有明确规则的情况下，把行动道德化。
+    step2: |-
+      可普遍化的劲头，很早就开始把本来无害的动作“道德化”。Levine 与同事（2020）用孩子看得懂的情境故事表明：四到十一岁的孩子判一个动作许不许时，也会掂量潜在的伤害临界点。Finiasz 与同事（2025）拿六到十岁的新样本重复了这一结果，还发现孩子的可普遍化倾向不只看假设中的人数，也看潜在祸害有多重。两下一合，可普遍化便成了一种机制：没有个体直接伤害、没有情感共鸣、也没有明规矩，照样能把一个动作道德化。
   - id: 156
     kind: body
     source: |-
       In this entry, we have reviewed the main threads of work on moral learning in contemporary moral psychology. The result suggests that several different mechanisms are implicated in moral learning, including innate starting states, associative learning, statistical learning, and emotional sensitivity. This just illustrates some of the broad contours of how we acquire morality. There is much left to discover.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在本词条中，我们回顾了当代道德心理学中关于道德学习的主要工作线索。结果表明，道德学习牵涉若干不同机制，包括先天起始状态、联想学习、统计学习与情感敏感性。这不过勾勒出我们如何获得道德的若干大体轮廓。还有太多东西有待发现。
+    step2: |-
+      本词条回顾了当代道德心理学中道德学习的主要脉络。可以看出，道德学习牵涉好几套机制：先天的起始状态、联想学习、统计学习，以及情感敏感性。这里画出的，只是我们如何习得道德的大致轮廓；待发现的还多着呢。
   - id: 157
     kind: oir
     source: |-
       [Please contact the authors with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [Please contact the authors with suggestions.]
+    step2: |-
+      [欢迎向作者提出建议。]
   - id: 158
     kind: note
     source: |-
       [^note-1]: Large-scale failed replications of the original Hamlin et al. (2007) findings with 6- and 10-month-olds have cast doubt on strong interpretations of innateness and universality (Lucca et al. 2025)[^lucca-2025] but results from older infants are more robust (e.g. Woo et al. 2017)[^woo-2017]. Thus by at least the second year of life if not earlier, moral learning can begin in our earliest observations of interpersonal behavior.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: Large-scale failed replications of the original Hamlin et al. (2007) findings with 6- and 10-month-olds have cast doubt on strong interpretations of innateness and universality (Lucca et al. 2025)[^lucca-2025] but results from older infants are more robust (e.g. Woo et al. 2017)[^woo-2017]. Thus by at least the second year of life if not earlier, moral learning can begin in our earliest observations of interpersonal behavior.
+    step2: |-
+      [^note-1]: Hamlin 等（2007）关于 6 至 10 个月婴儿的原始发现，在大规模重复实验中未能重现，这使关于先天性与普遍性的强解释受到质疑（Lucca et al. 2025）[^lucca-2025]；但年长婴儿的结果更为稳健（如 Woo et al. 2017）[^woo-2017]。因此，至迟在生命第二年（若不再早），道德学习就能从我们最早对人际行为的观察中开始。
