@@ -13347,7 +13347,7 @@
     },
     {
       "slug": "bessarion",
-      "fetched_at": "2026-10-26T20:34:52Z",
+      "fetched_at": "2026-11-09T15:34:41Z",
       "source_url": "https://plato.stanford.edu/entries/bessarion/",
       "title": "Basil [Cardinal] Bessarion",
       "authors": [
@@ -13386,18 +13386,7 @@
           "kind": "main"
         }
       ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/b/bessarion.md",
-        "sha256": "1ef4db86283bc89276601918df5dea7bf58705d2661d54e26605ba217e85f27a",
-        "source_sha256": "68e2e19b0ec0a5a5edc6911789504b5087e13067d39ecb485b4c0eb5a26ef7fa",
-        "converted_at": "2026-10-30T19:20:54Z",
-        "cite_markers": 1,
-        "cite_defs": 91,
-        "supplements": [],
-        "images": [],
-        "notes": 0
-      }
+      "missing": []
     },
     {
       "slug": "binarium",
@@ -39366,16 +39355,11 @@
         "md": "yuanwen/e/ecological-genetics.md",
         "sha256": "83a5e65134547d128c7163dd9a2519612d6c6bf1d565560cbeb8256345ee56c9",
         "source_sha256": "09513c2b8b248a54812bd1150204d12917cc4f5f5ae17cb820b0730462460ab2",
-        "converted_at": "2026-10-30T19:21:39Z",
+        "converted_at": "2026-11-09T15:37:39Z",
         "cite_markers": 38,
         "cite_defs": 35,
-        "supplements": [
-          "ecological-genetics.figdesc.md"
-        ],
-        "images": [
-          "yuanwen/assets/ecological-genetics/figure1.svg",
-          "yuanwen/assets/ecological-genetics/figure2.svg"
-        ],
+        "supplements": [],
+        "images": [],
         "notes": 0
       }
     },
@@ -73949,7 +73933,7 @@
     },
     {
       "slug": "kant-development",
-      "fetched_at": "2026-10-26T20:40:39Z",
+      "fetched_at": "2026-11-09T15:41:03Z",
       "source_url": "https://plato.stanford.edu/entries/kant-development/",
       "title": "Kant’s Philosophical Development",
       "authors": [
@@ -74016,7 +74000,7 @@
         "md": "yuanwen/k/kant-development.md",
         "sha256": "1d1ea31001624aea7bae0e5182b38e3614d195262396fb9c016241ba7621da08",
         "source_sha256": "a7e82dcf78706143c3932ae2fb75fbdbfae565b0f4649e8ff9d38d1ea4989752",
-        "converted_at": "2026-10-30T19:22:42Z",
+        "converted_at": "2026-11-09T15:41:33Z",
         "cite_markers": 28,
         "cite_defs": 47,
         "supplements": [],
@@ -75056,7 +75040,7 @@
     },
     {
       "slug": "kant-spacetime",
-      "fetched_at": "2026-10-26T20:40:48Z",
+      "fetched_at": "2026-11-09T15:41:17Z",
       "source_url": "https://plato.stanford.edu/entries/kant-spacetime/",
       "title": "Kant’s Views on Space and Time",
       "authors": [
@@ -75122,7 +75106,7 @@
         "md": "yuanwen/k/kant-spacetime.md",
         "sha256": "b5cf9ca7133b36109739d77f7a3bf88c1b82bcf8f8a58fcfca599d6d4aee9a2e",
         "source_sha256": "da1e4ade4573f1ccff62257e0cd531d2205aa538e92edf2002daccbcfbf4991c",
-        "converted_at": "2026-10-30T19:22:43Z",
+        "converted_at": "2026-11-09T15:41:34Z",
         "cite_markers": 47,
         "cite_defs": 69,
         "supplements": [],
@@ -75135,7 +75119,7 @@
     },
     {
       "slug": "kant-transcendental",
-      "fetched_at": "2026-10-26T20:40:49Z",
+      "fetched_at": "2026-11-09T15:40:51Z",
       "source_url": "https://plato.stanford.edu/entries/kant-transcendental/",
       "title": "Kant’s Transcendental Arguments",
       "authors": [
@@ -75203,7 +75187,7 @@
         "md": "yuanwen/k/kant-transcendental.md",
         "sha256": "dec6bdcc96f04455254012766160d4039fdecda35fc7342613889732aaa947ef",
         "source_sha256": "dd9e0fb82a5c89337351d0df9bdf28d079631e98ed2a1b21ab94dd6168039a92",
-        "converted_at": "2026-10-30T19:22:43Z",
+        "converted_at": "2026-11-09T15:41:33Z",
         "cite_markers": 148,
         "cite_defs": 128,
         "supplements": [],
@@ -75875,7 +75859,7 @@
     },
     {
       "slug": "knowledge-how",
-      "fetched_at": "2026-10-26T20:40:52Z",
+      "fetched_at": "2026-11-09T15:40:45Z",
       "source_url": "https://plato.stanford.edu/entries/knowledge-how/",
       "title": "Knowledge How",
       "authors": [
@@ -75924,6 +75908,12 @@
           "sha256": "7dea470f51eb16e3e3a44f14a4549fa9a27ebb0861b9537469430aba3516dd91",
           "bytes": 166182,
           "kind": "main"
+        },
+        {
+          "path": "en/knowledge-how/local.js",
+          "sha256": "e46b8e5ec622893c6bcb6238bab2010d1bd3c8bcea8b2e9ebd43a1e708d314b4",
+          "bytes": 22,
+          "kind": "script"
         }
       ],
       "missing": [],
@@ -75931,7 +75921,7 @@
         "md": "yuanwen/k/knowledge-how.md",
         "sha256": "425762312a26d99b71a0078ce343f44ba70559502d82965888e7c2997f0c5a5d",
         "source_sha256": "7dea470f51eb16e3e3a44f14a4549fa9a27ebb0861b9537469430aba3516dd91",
-        "converted_at": "2026-10-30T19:22:45Z",
+        "converted_at": "2026-11-09T15:41:33Z",
         "cite_markers": 262,
         "cite_defs": 270,
         "supplements": [],
@@ -76394,7 +76384,7 @@
     },
     {
       "slug": "kukai",
-      "fetched_at": "2026-10-26T20:40:59Z",
+      "fetched_at": "2026-11-09T15:40:37Z",
       "source_url": "https://plato.stanford.edu/entries/kukai/",
       "title": "Kūkai",
       "authors": [
@@ -76470,7 +76460,7 @@
         "md": "yuanwen/k/kukai.md",
         "sha256": "90ca2290812d38a61948a5e513a66ae04736c3c7338ec5ff49e4f074ab9b767c",
         "source_sha256": "b38970e5eff8e66da979b4fd231ded06dd792c851eda7ed3348a3e113d2aae47",
-        "converted_at": "2026-10-30T19:22:46Z",
+        "converted_at": "2026-11-09T15:41:32Z",
         "cite_markers": 3,
         "cite_defs": 49,
         "supplements": [],
@@ -151795,5 +151785,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-30T19:25:05Z"
+  "updated_at": "2026-11-09T15:41:34Z"
 }
