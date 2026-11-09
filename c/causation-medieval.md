@@ -1,6 +1,6 @@
 # 中世纪的因果理论 medieval theories of (Graham White)
 
-**首次发表于 2001 年 8 月 10 日；2018 年 4 月 23 日实质修订。**
+*首次发表于 2001 年 8 月 10 日；2018 年 4 月 23 日实质修订。*
 
 因果性在中世纪哲学著述中举足轻重：中世纪学术著作的主导体裁，是给权威著作——往往是亚里士多德的某部著作——作注疏。在被注疏的亚里士多德著作中，《物理学》居于核心。他的其他科学著作——《论天》《论生成与毁灭》，当然还有《形而上学》——对因果性研究同样重要：因此，有待考察的著作相当可观，令人却步。
 
@@ -117,6 +117,10 @@
 ## 参考文献
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Literature
+
+### Secondary Literature
 
 [^john-1942]: John Buridan, *Quaestiones super Libros Quattuor de Caelo et Mundo*, ed. E. A. Moody, Cambridge, MA: Medieval Academy of America, 1942.
 

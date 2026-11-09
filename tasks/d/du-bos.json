@@ -2,7 +2,7 @@
   "slug": "du-bos",
   "kind": "retranslate",
   "zh_doc": "d/du-bos.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "主代理",
       "at": "2026-11-01T07:31:47Z",
       "evidence": "自校三：check_math 0，check_style 复跑 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T17:28:44Z",
+      "evidence": "r1 回源逐节核销（导语+4 节全对照）：内容实修 6——belle nature 原文缺失补 *belle nature*（美好自然）、prose→文笔（execrable prose）、删重复「的样子」、Poussin/提香句由「更在他自己」改「由不得他」双层对照、医师金鸡纳引文按源文残句重构、§3 源文笔误「advantage over poetry」按上下文（绘画 vs 诗）作绘画处理并留痕。另：zh 三点补脚注标记 kristeller-1952/lombard-1913/norton-1996（源文有文内引用无标记，按本库文献挂接体例补，defs 28:28 齐）；NUM 6 为 chapter 6→第六章体例。语句层 24 处实修（弱动词 8、的链 12、长句/被字 4）；prose 余 5 条全在引文块内（画家引 47、博斯引 49、交响曲引 73×2、科学院引 117），逐条豁免。四检：style 0/academic 0 硬/math 0/lint 0/summary H1 0"
     }
   ],
   "blockers": [],

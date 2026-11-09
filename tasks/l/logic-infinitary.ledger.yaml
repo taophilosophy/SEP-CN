@@ -871,7 +871,7 @@ segments:
     step1: |-
       拓扑斯 E 称为 *满的*，如果对任何集合 *I*，其终端对象的 *I*-重余积[^note-3] ∐_{*I*}1 在 E 中存在。∐_{*I*}1 可看作集合 *I* 在 E 中的典范代表；因此我们简单地把它写作 *I*。（在 *V*^{(*B*)} 中，这与先前定义的 *I* 一致。）上述所有拓扑斯都是满的。
     step2: |-
-      拓扑斯 E 叫 *满的*，如果对任何集合 *I*，其终端对象的 *I*-重余积[^note-3] ∐_{*I*}1 在 E* 中存在。∐_{*I*}1 可看作集合 *I* 在 E 中的典范代表，所以直接写作 *I*。（在 *V*^{(*B*)} 中，这与先前定义的 *I* 一致。）上面提到的拓扑斯都是满的。
+      拓扑斯 E 叫 *满的*，如果对任何集合 *I*，其终端对象的 *I*-重余积[^note-3] ∐_{*I*}1 在 E 中存在。∐_{*I*}1 可看作集合 *I* 在 E 中的典范代表，所以直接写作 *I*。（在 *V*^{(*B*)} 中，这与先前定义的 *I* 一致。）上面提到的拓扑斯都是满的。
   - id: 99
     kind: body
     source: |-
@@ -1144,9 +1144,9 @@ segments:
     source: |-
       Another, equivalent, coding structure for the first-order language of arithmetic is the structure[^note-5] ⟨*H*(ω), ∈ ⨡ *H*(ω)⟩ of *hereditarily finite sets*, where a set *x* is *hereditarily finite* if *x*, its members, its members of members, etc., are all finite. This coding structure takes account of the fact that first-order formulas are naturally regarded as finite sets.
     step1: |-
-      算术一阶语言的另一种等价编码结构，是 *遗传有穷集合* 的结构[^note-5] ⟨*H*(ω), ∈ ⨡ *H*(ω)⟩，其中集合 *x* 是 *遗传有穷的*，如果 *x*、其成员、其成员的成员等等都是又穷的。这种编码结构顾及了如下事实：一阶公式被自然地看作有穷集合。
+      算术一阶语言的另一种等价编码结构，是 *遗传有穷集合* 的结构[^note-5] ⟨*H*(ω), ∈ ⨡ *H*(ω)⟩，其中集合 *x* 是 *遗传有穷的*，如果 *x*、其成员、其成员的成员等等都是有穷的。这种编码结构顾及了如下事实：一阶公式被自然地看作有穷集合。
     step2: |-
-      算术一阶语言的另一种等价编码结构，是 *遗传有穷集合* 的结构[^note-5] ⟨*H*(ω), ∈ ⨡ *H*(ω)⟩；集合 *x* 叫 *遗传有穷的*，如果 *x*、其成员、其成员的成员……都是又穷的。这种编码结构照顾到一点：一阶公式天然被看作有穷集合。
+      算术一阶语言的另一种等价编码结构，是 *遗传有穷集合* 的结构[^note-5] ⟨*H*(ω), ∈ ⨡ *H*(ω)⟩；集合 *x* 叫 *遗传有穷的*，如果 *x*、其成员、其成员的成员……都是有穷的。这种编码结构照顾到一点：一阶公式天然被看作有穷集合。
   - id: 127
     kind: body
     source: |-
@@ -1403,178 +1403,240 @@ segments:
     kind: body
     source: |-
       > (4.4) H(ω₁) ⊨ θ(^{⌈}σ^{⌉})  iff   σ ∈ *Val*(L(ω₁,ω₁)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (4.4) H(ω₁) ⊨ θ(^{⌈}σ^{⌉})  iff  σ ∈ *Val*(L(ω₁,ω₁)).
+    step2: |-
+      > (4.4) H(ω₁) ⊨ θ(^{⌈}σ^{⌉})  iff  σ ∈ *Val*(L(ω₁,ω₁)).
   - id: 152
     kind: body
     source: |-
       Let τ₀ be the sentence given in (4.1). Then we have, for all L(ω₁,ω₁)-sentences σ,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设 τ₀ 是 (4.1) 中给出的句子。那么，对所有 L(ω₁,ω₁)-句子 σ，有
+    step2: |-
+      设 τ₀ 为 (4.1) 给出的句子。则对所有 L(ω₁,ω₁)-句子 σ，有
   - id: 153
     kind: body
     source: |-
       > H(ω₁) ⊨ σ   iff   (τ₀ → σ) ∈ *Val*(L(ω₁,ω₁)),
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > H(ω₁) ⊨ σ   iff   (τ₀ → σ) ∈ *Val*(L(ω₁,ω₁)),
+    step2: |-
+      > H(ω₁) ⊨ σ   iff   (τ₀ → σ) ∈ *Val*(L(ω₁,ω₁)),
   - id: 154
     kind: body
     source: |-
       so that, by (4.4),
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是由 (4.4)，
+    step2: |-
+      于是由 (4.4) 得
   - id: 155
     kind: body
     source: |-
       > H(ω₁) ⊨ σ   iff   H(ω₁) ⊨ θ(^{⌈}τ₀ → σ^{⌉}).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > H(ω₁) ⊨ σ   iff   H(ω₁) ⊨ θ(^{⌈}τ₀ → σ^{⌉}).
+    step2: |-
+      > H(ω₁) ⊨ σ   iff   H(ω₁) ⊨ θ(^{⌈}τ₀ → σ^{⌉}).
   - id: 156
     kind: body
     source: |-
       If *t* is the term given in (4.3), it would follow that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 *t* 是 (4.3) 中给出的项，就会推出
+    step2: |-
+      若 *t* 是 (4.3) 给出的项，就可推出
   - id: 157
     kind: body
     source: |-
       > H(ω₁) ⊨ σ↔θ(*t*(^{⌈}τ₀^{⌉}, ^{⌈}σ^{⌉})).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > H(ω₁) ⊨ σ↔θ(*t*(^{⌈}τ₀^{⌉}, ^{⌈}σ^{⌉})).
+    step2: |-
+      > H(ω₁) ⊨ σ↔θ(*t*(^{⌈}τ₀^{⌉}, ^{⌈}σ^{⌉})).
   - id: 158
     kind: body
     source: |-
       Now write φ(*v*₀) for the L(ω₁,ω₁)-formula θ(*t*(^{⌈}τ₀^{⌉}, ^{⌈}σ^{⌉})). Then
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在把 θ(*t*(^{⌈}τ₀^{⌉}, ^{⌈}σ^{⌉})) 记作 L(ω₁,ω₁)-公式 φ(*v*₀)。那么
+    step2: |-
+      现在把 θ(*t*(^{⌈}τ₀^{⌉}, ^{⌈}σ^{⌉})) 记作 L(ω₁,ω₁)-公式 φ(*v*₀)。于是
   - id: 159
     kind: body
     source: |-
       > H(ω₁) ⊨ σ↔φ(^{⌈}σ^{⌉}),
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > H(ω₁) ⊨ σ↔φ(^{⌈}σ^{⌉}),
+    step2: |-
+      > H(ω₁) ⊨ σ↔φ(^{⌈}σ^{⌉}),
   - id: 160
     kind: body
     source: |-
       contradicting (4.2), and completing the proof.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这与 (4.2) 矛盾，从而完成证明。
+    step2: |-
+      这与 (4.2) 矛盾，证明完毕。
   - id: 161
     kind: body
     source: |-
       Thus *Val*(L(ω₁,ω₁)) is not definable *even by an* L(ω₁,ω₁)-*formula*, so *a fortiori* L(ω₁,ω₁) is incomplete. Similar arguments show that Scott's undefinability theorem continues to hold when ω₁ is replaced by any successor cardinal κ⁺; accordingly the languages L(κ⁺,κ⁺) are all incomplete.[^note-7]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，*Val*(L(ω₁,ω₁)) *即使由* L(ω₁,ω₁)-*公式* 也不可定义，所以更不用说 L(ω₁,ω₁) 不完全。类似的论证表明，把 ω₁ 换成任何后继基数 κ⁺，Scott 不可定义性定理仍然成立；因此语言 L(κ⁺,κ⁺) 全都不完全。[^note-7]
+    step2: |-
+      所以，*Val*(L(ω₁,ω₁)) *即使由* L(ω₁,ω₁)-*公式* 也不可定义，更不用说 L(ω₁,ω₁) 不完全了。类似论证表明，把 ω₁ 换成任何后继基数 κ⁺，Scott 不可定义性定理照样成立；因此语言 L(κ⁺,κ⁺) 全都不完全。[^note-7]
   - id: 162
     kind: body
     source: |-
       ## 5. Sublanguages of L(ω₁,ω) and the Barwise Compactness Theorem
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. L(ω₁,ω) 的子语言与 Barwise 紧致性定理
+    step2: |-
+      ## 5 L(ω₁,ω) 的子语言与 Barwise 紧致性定理
   - id: 163
     kind: body
     source: |-
       Given what we now know about infinitary languages, it would seem that L(ω₁,ω) is the only one to be reasonably well behaved. On the other hand, the failure of the compactness theorem to generalize to L(ω₁,ω) in any useful fashion is a severe drawback as far as applications are concerned. Let us attempt to analyze this failure in more detail.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      根据我们现在对无穷语言的了解，L(ω₁,ω) 似乎是唯一表现相当规矩的。另一方面，紧致性定理不能以任何有用方式推广到 L(ω₁,ω)，就应用而言是个严重缺陷。让我们更详细地分析这一失败。
+    step2: |-
+      照我们如今对无穷语言的了解，L(ω₁,ω) 似乎是唯一还算规矩的。可紧致性定理无法以任何有用方式推广到 L(ω₁,ω)，这对应用来说是个严重缺陷。下面细看一下这个失败。
   - id: 164
     kind: body
     source: |-
       Recall from §4 that we may code the formulas of a first-order language L as hereditarily finite sets, i.e., as members of *H*(ω). In that case each finite set of (codes of) L-sentences is also a member of *H*(ω), and it follows that the compactness theorem for L can be stated in the form:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      回忆第 4 节：我们可以把一阶语言 L 的公式编码为遗传有穷集合，即 *H*(ω) 的成员。在这种情况下，每个有穷的 L-句子（编码）集也是 *H*(ω) 的成员，于是 L 的紧致性定理可以写成：
+    step2: |-
+      回忆第 4 节：一阶语言 L 的公式可以编码成遗传有穷集合，即 *H*(ω) 的成员。这样，每个有穷的 L-句子（编码）集也在 *H*(ω) 中，于是 L 的紧致性定理可写成：
   - id: 165
     kind: body
     source: |-
       > (5.1) If Δ ⊆ Sent(L) is such that each subset Δ₀ ⊆ Δ, Δ₀ ∈ *H*(ω) has a model, so does Δ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (5.1) 若 Δ ⊆ Sent(L) 使得每个子集 Δ₀ ⊆ Δ、Δ₀ ∈ *H*(ω) 都有模型，则 Δ 也有模型。
+    step2: |-
+      > (5.1) 若 Δ ⊆ Sent(L) 使得每个子集 Δ₀ ⊆ Δ、Δ₀ ∈ *H*(ω) 都有模型，则 Δ 也有模型。
   - id: 166
     kind: body
     source: |-
       Now it is well-known that (5.1) is an immediate consequence of the *generalized completeness theorem* for L, which, stated in a form similar to that of (5.1), becomes the assertion:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      众所周知，(5.1) 是 L 的 *广义完全性定理* 的直接推论；该定理以类似 (5.1) 的形式表述，就成为如下断言：
+    step2: |-
+      众所周知，(5.1) 是 L 的 *广义完全性定理* 的直接推论；该定理按类似 (5.1) 的形式表述，就是：
   - id: 167
     kind: body
     source: |-
       > (5.2) If Δ ⊆ Sent(L) and σ ∈ Sent(L) satisfy Δ ⊨ σ, then there is a deduction *D* of σ from Δ such that *D* ∈ *H*(ω).[^note-8]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (5.2) 若 Δ ⊆ Sent(L) 与 σ ∈ Sent(L) 满足 Δ ⊨ σ，则存在 σ 从 Δ 的演绎 *D*，使 *D* ∈ *H*(ω)。[^note-8]
+    step2: |-
+      > (5.2) 若 Δ ⊆ Sent(L) 与 σ ∈ Sent(L) 满足 Δ ⊨ σ，则存在 σ 从 Δ 的演绎 *D*，使 *D* ∈ *H*(ω)。[^note-8]
   - id: 168
     kind: body
     source: |-
       In §2 we remarked that the compactness theorem for L(ω₁,ω) fails very strongly; in fact, we constructed a set Γ ⊆ Sent(ω₁,ω) such that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第 2 节我们指出，L(ω₁,ω) 的紧致性定理失败得非常厉害；事实上，我们构造了集合 Γ ⊆ Sent(ω₁,ω)，使得
+    step2: |-
+      第 2 节说过，L(ω₁,ω) 的紧致性定理败得很惨；事实上我们构造了 Γ ⊆ Sent(ω₁,ω)，使
   - id: 169
     kind: body
     source: |-
       > (5.3) Each countable subset of Γ has a model but Γ does not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (5.3) Γ 的每个可数子集都有模型，但 Γ 没有。
+    step2: |-
+      > (5.3) Γ 的每个可数子集都有模型，但 Γ 没有。
   - id: 170
     kind: body
     source: |-
       Recall also that we introduced the notion of *deduction* in L(ω₁,ω); since such deductions are of countable length it quickly follows from (5.3) that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还要回忆，我们在 L(ω₁,ω) 中引入了 *演绎* 概念；既然这种演绎是可数长度的，由 (5.3) 立刻推出
+    step2: |-
+      还记得我们在 L(ω₁,ω) 中引入了 *演绎* 概念；这种演绎长度可数，由 (5.3) 立得
   - id: 171
     kind: body
     source: |-
       > (5.4) There is a sentence[^note-9]σ ∈ Sent(ω₁,ω) such that Γ ⊨ σ, but there is no deduction of σ in L(ω₁,ω) from Γ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (5.4) 存在句子[^note-9]σ ∈ Sent(ω₁,ω)，使 Γ ⊨ σ，但不存在 σ 在 L(ω₁,ω) 中从 Γ 的演绎。
+    step2: |-
+      > (5.4) 存在句子[^note-9]σ ∈ Sent(ω₁,ω)，使 Γ ⊨ σ，但不存在 σ 在 L(ω₁,ω) 中从 Γ 的演绎。
   - id: 172
     kind: body
     source: |-
       Now the formulas of L(ω₁, ω) can be coded as members of H(ω₁), and it is clear that H(ω₁) is closed under the formation of countable subsets and sequences. Accordingly (5.3) and (5.4) may be written:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，L(ω₁, ω) 的公式可以编码为 H(ω₁) 的成员，并且显然 H(ω₁) 对可数子集与序列的构造封闭。因此 (5.3) 与 (5.4) 可以写成：
+    step2: |-
+      现在，L(ω₁, ω) 的公式可编码为 H(ω₁) 的成员，而 H(ω₁) 显然对可数子集与序列的构造封闭。于是 (5.3) 与 (5.4) 可写成：
   - id: 173
     kind: body
     source: |-
       > (5.3 *bis*) Each Γ₀ ⊆ Γ such that Γ₀ ∈ H(ω₁) has a model, but Γ does not;
       >
       > (5.4 *bis*) There is a sentence σ ∈ Sent(ω₁,ω) such that Γ ⊨ σ, but there is no deduction *D* ∈ *H*(ω₁) of σ from Γ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (5.3 *bis*) 每个满足 Γ₀ ∈ H(ω₁) 的 Γ₀ ⊆ Γ 都有模型，但 Γ 没有；
+      >
+      > (5.4 *bis*) 存在句子 σ ∈ Sent(ω₁,ω)，使 Γ ⊨ σ，但不存在 σ 从 Γ 的演绎 *D* ∈ *H*(ω₁)。
+    step2: |-
+      > (5.3 *bis*) 每个满足 Γ₀ ∈ H(ω₁) 的 Γ₀ ⊆ Γ 都有模型，但 Γ 没有；
+      >
+      > (5.4 *bis*) 存在句子 σ ∈ Sent(ω₁,ω)，使 Γ ⊨ σ，但不存在 σ 从 Γ 的演绎 *D* ∈ *H*(ω₁)。
   - id: 174
     kind: body
     source: |-
       It follows that (5.1) and (5.2) fail when “L” is replaced by “L(ω₁,ω)” and “H(ω)” by “H(ω₁)”. Moreover, it can be shown that the set Γ ⊆ Sent(ω₁,ω) in (5.3 *bis*) and (5.4 *bis*) may be taken to be Σ₁ on *H*(ω₁). Thus the compactness and generalized completeness theorems fail even for Σ₁-sets of L(ω₁, ω)-sentences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，把“L”换成“L(ω₁,ω)”、把“H(ω)”换成“H(ω₁)”后，(5.1) 与 (5.2) 就失效。而且可以证明，(5.3 *bis*) 与 (5.4 *bis*) 中的集合 Γ ⊆ Sent(ω₁,ω) 可以取为在 *H*(ω₁) 上 Σ₁ 的。因此，即使对 L(ω₁, ω)-句子的 Σ₁-集，紧致性定理与广义完全性定理也失效。
+    step2: |-
+      所以，把“L”换成“L(ω₁,ω)”、把“H(ω)”换成“H(ω₁)”之后，(5.1) 与 (5.2) 就失效。而且可以证明，(5.3 *bis*) 与 (5.4 *bis*) 里的 Γ ⊆ Sent(ω₁,ω) 可以取成 *H*(ω₁) 上 Σ₁ 的。因此，即便对 L(ω₁, ω)-句子的 Σ₁-集，紧致性定理与广义完全性定理也失效。
   - id: 175
     kind: body
     source: |-
       We see from (5.4 *bis*) that the reason why the generalized completeness theorem fails for Σ₁-sets in L(ω₁,ω) is that, roughly speaking, *H*(ω₁) is not “closed” under the formation of deductions from Σ₁-sets of sentences in *H*(ω₁). So in order to remedy this it would seem natural to replace *H*(ω₁) by sets *A* which are, in some sense, closed under the formation of such deductions, and then to consider just those formulas whose codes are in *A*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从 (5.4 *bis*) 可见，广义完全性定理对 L(ω₁,ω) 中的 Σ₁-集失效，原因大致是：*H*(ω₁) 对从 *H*(ω₁) 中句子的 Σ₁-集构造演绎并不“封闭”。因此，为补救这一点，自然似乎应当把 *H*(ω₁) 换成在某种意义下对这种演绎构造封闭的集合 *A*，然后只考虑编码在 *A* 中的公式。
+    step2: |-
+      由 (5.4 *bis*) 可见，广义完全性定理对 L(ω₁,ω) 中的 Σ₁-集失效，原因大致是：*H*(ω₁) 对“从 *H*(ω₁) 中句子的 Σ₁-集构造演绎”并不“封闭”。要补救，自然该把 *H*(ω₁) 换成某种意义下对这种演绎构造封闭的集合 *A*，然后只考虑编码落在 *A* 里的公式。
   - id: 176
     kind: body
     source: |-
       We now give a sketch of how this can be done.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下面勾画如何做到这一点。
+    step2: |-
+      下面勾画怎么做。
   - id: 177
     kind: body
     source: |-
       First, we identify the symbols and formulas of L(ω₁,ω) with their codes in *H*(ω₁), as in §4. For each countable transitive[^note-10] set *A*, let
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先，如第 4 节那样，把 L(ω₁,ω) 的符号与公式与它们在 *H*(ω₁) 中的编码等同。对每个可数传递[^note-10]集 *A*，令
+    step2: |-
+      首先，照第 4 节的做法，把 L(ω₁,ω) 的符号与公式同其在 *H*(ω₁) 中的编码等同。对每个可数传递[^note-10]集 *A*，令
   - id: 178
     kind: body
     source: |-
       > L_{*A*} = Form(L(ω₁,ω)) ∩ *A*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > L_{*A*} = Form(L(ω₁,ω)) ∩ *A*.
+    step2: |-
+      > L_{*A*} = Form(L(ω₁,ω)) ∩ *A*.
   - id: 179
     kind: body
     source: |-
       We say that L*_{A}* is a *sublanguage* of L(ω₁,ω) if the following conditions are satisfied:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们说 L*_{A}* 是 L(ω₁,ω) 的 *子语言*，如果下列条件满足：
+    step2: |-
+      称 L*_{A}* 为 L(ω₁,ω) 的 *子语言*，如果满足下列条件：
   - id: 180
     kind: body
     source: |-
@@ -1584,56 +1646,84 @@ segments:
       4. if φ(*x*) ∈ L*_{A}* and *y* ∈ *A*, then φ(*y*) ∈ L*_{A}*
       5. if φ ∈ L*_{A}*, every subformula of φ is in L*_{A}*
       6. if Φ ⊆ L*_{A}* and Φ ∈ *A*, then ∧Φ ∈ L*_{A}*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. L ⊆ L*_{A}*
+      2. 若 φ, ψ ∈ L*_{A}*，则 φ ∧ ψ ∈ L*_{A}* 且 ¬φ ∈ L*_{A}*
+      3. 若 φ ∈ L*_{A}* 且 *x* ∈ *A*，则 ∃*x*φ ∈ L*_{A}*
+      4. 若 φ(*x*) ∈ L*_{A}* 且 *y* ∈ *A*，则 φ(*y*) ∈ L*_{A}*
+      5. 若 φ ∈ L*_{A}*，则 φ 的每个子公式都在 L*_{A}* 中
+      6. 若 Φ ⊆ L*_{A}* 且 Φ ∈ *A*，则 ∧Φ ∈ L*_{A}*。
+    step2: |-
+      1. L ⊆ L*_{A}*
+      2. 若 φ, ψ ∈ L*_{A}*，则 φ ∧ ψ ∈ L*_{A}* 且 ¬φ ∈ L*_{A}*
+      3. 若 φ ∈ L*_{A}* 且 *x* ∈ *A*，则 ∃*x*φ ∈ L*_{A}*
+      4. 若 φ(*x*) ∈ L*_{A}* 且 *y* ∈ *A*，则 φ(*y*) ∈ L*_{A}*
+      5. 若 φ ∈ L*_{A}*，则 φ 的每个子公式都在 L*_{A}* 中
+      6. 若 Φ ⊆ L*_{A}* 且 Φ ∈ *A*，则 ∧Φ ∈ L*_{A}*。
   - id: 181
     kind: body
     source: |-
       The notion of deduction in L*_{A}* is defined in the customary way; if Δ is a set of sentences of L*_{A}* and φ ∈ L*_{A}*, then a *deduction* of φ from Δ in L*_{A}* is a deduction of φ from Δ in L(ω₁, ω) every formula of which is in L*_{A}*. We say that φ is *deducible* from Δ in L*_{A}* if there is a deduction *D* of φ from Δ in L*_{A}*; under these conditions we write Δ ⊢*_{A}* φ. In general, *D* will not be a member of *A*; in order to ensure that such a deduction can be found in *A* it will be necessary to impose further conditions on *A*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      L*_{A}* 中的演绎概念按通常方式定义；若 Δ 是 L*_{A}* 的句子集且 φ ∈ L*_{A}*，则 φ 从 Δ 在 L*_{A}* 中的 *演绎*，是 φ 从 Δ 在 L(ω₁, ω) 中的演绎，且其中每个公式都在 L*_{A}* 中。我们说 φ 在 L*_{A}* 中从 Δ *可推演*，如果存在 φ 从 Δ 在 L*_{A}* 中的演绎 *D*；在这些条件下写作 Δ ⊢*_{A}* φ。一般地，*D* 不是 *A* 的成员；为确保这样的演绎能在 *A* 中找到，必须对 *A* 施加进一步条件。
+    step2: |-
+      L*_{A}* 中的演绎按通常方式定义：若 Δ 是 L*_{A}* 的句子集、φ ∈ L*_{A}*，则 φ 从 Δ 在 L*_{A}* 中的 *演绎*，就是 φ 从 Δ 在 L(ω₁, ω) 中的演绎，且每个公式都在 L*_{A}* 里。若存在这样的演绎 *D*，就说 φ 在 L*_{A}* 中从 Δ *可推演*，记作 Δ ⊢*_{A}* φ。一般地 *D* 不在 *A* 中；要保证演绎能落到 *A* 里，还得给 *A* 加条件。
   - id: 182
     kind: body
     source: |-
       Let *A* be a countable transitive set such that L*_{A}* is a sublanguage of L(ω₁, ω) and let Δ be a set of sentences of L*_{A}*. We say that *A* (or, by abuse of terminology, L*_{A}*) is Δ-*closed* if, for any formula φ of L*_{A}* such that Δ ⊢*_{A}* φ, there is a deduction *D* of φ from Δ such that *D* ∈ *A*. It can be shown that the only countable language which is Δ-closed for *arbitrary* Δ is the first-order language L, i.e., when *A* = *H*(ω). However J. Barwise discovered that there are countable sets *A* ⊆ *H*(ω₁) whose corresponding languages L*_{A}* differ from L and yet are Δ-closed *for all* Σ₁-*sets of sentences* Δ. Such sets *A* are called *admissible sets*; roughly speaking, they are extensions of the hereditarily finite sets in which recursion theory—and hence proof theory—are still possible (for the full definition, see Section 5.1 below).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设 *A* 是可数传递集，使 L*_{A}* 是 L(ω₁, ω) 的子语言，并设 Δ 是 L*_{A}* 的句子集。我们说 *A*（或按术语的滥用，L*_{A}*）是 Δ-*封闭的*，如果对 L*_{A}* 的任何公式 φ，只要 Δ ⊢*_{A}* φ，就存在 φ 从 Δ 的演绎 *D* 使 *D* ∈ *A*。可以证明，对 *任意* Δ 都 Δ-封闭的唯一可数语言是一阶语言 L，即当 *A* = *H*(ω) 时。然而 J. Barwise 发现，存在可数集 *A* ⊆ *H*(ω₁)，其对应语言 L*_{A}* 不同于 L，却对 *所有* Σ₁-*句子集* Δ 都 Δ-封闭。这样的集合 *A* 称为 *可容许集*；粗略地说，它们是遗传有穷集合的扩张，其中递归论——从而证明论——仍然可行（完整定义见下文 5.1 节）。
+    step2: |-
+      设 *A* 是可数传递集，L*_{A}* 是 L(ω₁, ω) 的子语言，Δ 是 L*_{A}* 的句子集。称 *A*（或滥用术语，称 L*_{A}*）为 Δ-*封闭的*，如果对 L*_{A}* 的任何公式 φ，只要 Δ ⊢*_{A}* φ，就存在 φ 从 Δ 的演绎 *D* 且 *D* ∈ *A*。可以证明，对 *任意* Δ 都 Δ-封闭的可数语言，只有一阶语言 L，即 *A* = *H*(ω) 的情形。但 J. Barwise 发现，存在可数集 *A* ⊆ *H*(ω₁)，其对应语言 L*_{A}* 不同于 L，却对 *所有* Σ₁-*句子集* Δ 都 Δ-封闭。这种 *A* 叫 *可容许集*；粗略说，它们是遗传有穷集合的扩张，其中递归论——从而证明论——仍然行得通（完整定义见下文 5.1 节）。
   - id: 183
     kind: body
     source: |-
       From Barwise's result one obtains immediately the
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由 Barwise 的结果立刻得到
+    step2: |-
+      由 Barwise 的结果立得
   - id: 184
     kind: body
     source: |-
       > Barwise Compactness Theorem. *Let* A *be a countable admissible set and let* Δ *be a set of sentences of* L_{*A*} *which is* Σ₁ *on* A. *If each* Δ′ ⊆ Δ *such that* Δ′ ∈ A *has a model, then so does* Δ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > Barwise 紧致性定理。*设* A *是可数可容许集，* Δ *是* L_{*A*} *的句子集，且在* A *上 Σ₁。若每个满足* Δ′ ∈ A *的* Δ′ ⊆ Δ *都有模型，则* Δ *也有模型。*
+    step2: |-
+      > Barwise 紧致性定理。*设* A *是可数可容许集，* Δ *是* L_{*A*} *的句子集，且在* A *上 Σ₁。若每个满足* Δ′ ∈ A *的* Δ′ ⊆ Δ *都有模型，则* Δ *也有模型。*
   - id: 185
     kind: body
     source: |-
       The presence of “Σ₁” here indicates that this theorem is a generalization of the compactness theorem for *recursively enumerable* sets of sentences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里出现“Σ₁”，表明这个定理是 *递归可枚举* 句子集的紧致性定理的推广。
+    step2: |-
+      这里出现“Σ₁”，说明这个定理是 *递归可枚举* 句子集紧致性定理的推广。
   - id: 186
     kind: body
     source: |-
       Another version of the Barwise compactness theorem, useful for constructing models of set theory, is the following. Let ZFC be the usual set of axioms for Zermelo-Fraenkel set theory, including the axiom of choice. Then we have:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Barwise 紧致性定理还有另一个版本，对构造集合论模型很有用。设 ZFC 是策梅洛–弗兰克尔集合论的通常公理集，包括选择公理。于是有：
+    step2: |-
+      Barwise 紧致性定理另有一个版本，对构造集合论模型很有用。设 ZFC 为策梅洛–弗兰克尔集合论的通常公理集，含选择公理。于是有：
   - id: 187
     kind: body
     source: |-
       > 5.5 Theorem. Let A be a countable transitive set such that A = ⟨*A*, ∈ ⨡ *A*⟩ is a model of ZFC. *If* Δ *is a set of sentences of* L*_{A}* which is definable in A by a formula of the language of set theory and if each Δ′ ⊆ Δ *such that* Δ′ ∈ *A has a model, so does* Δ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 5.5 定理。设 A 是可数传递集，使 A = ⟨*A*, ∈ ⨡ *A*⟩ 是 ZFC 的模型。*若* Δ *是* L*_{A}* *的句子集，在* A *中由集合论语言的公式可定义，并且每个满足* Δ′ ∈ *A 的* Δ′ ⊆ Δ *都有模型，则* Δ *也有模型。*
+    step2: |-
+      > 5.5 定理。设 A 是可数传递集，使 A = ⟨*A*, ∈ ⨡ *A*⟩ 是 ZFC 的模型。*若* Δ *是* L*_{A}* *的句子集，在* A *中由集合论语言的公式可定义，并且每个满足* Δ′ ∈ *A 的* Δ′ ⊆ Δ *都有模型，则* Δ *也有模型。*
   - id: 188
     kind: body
     source: |-
       To conclude, we give a simple application of this theorem. Let *A* = ⟨*A*, ∈ ⨡ *A*⟩ be a model of ZFC. A model *B* = ⟨*B, E*⟩ of ZFC is said to be a *proper end-extension* of *A* if (i) *A* ⊆ *B*, (ii) *A* ≠ *B*, (iii) *a* ∈ *A, b* ∈ *B*, *bEa* ⇒ *b*∈*A*. Thus a proper end-extension of a model of ZFC is a proper extension in which no “new” element comes “before” any “old” element. As our application of 5.5 we prove
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，我们给出这个定理的一个简单应用。设 *A* = ⟨*A*, ∈ ⨡ *A*⟩ 是 ZFC 的模型。ZFC 的模型 *B* = ⟨*B, E*⟩ 称为 *A* 的 *真端扩张*，如果 (i) *A* ⊆ *B*，(ii) *A* ≠ *B*，(iii) *a* ∈ *A, b* ∈ *B*，*bEa* ⇒ *b*∈*A*。于是，ZFC 模型的真端扩张是一种真扩张，其中没有“新”元素来到任何“旧”元素“之前”。作为 5.5 的应用，我们证明
+    step2: |-
+      最后给出一个简单应用。设 *A* = ⟨*A*, ∈ ⨡ *A*⟩ 是 ZFC 的模型。ZFC 的模型 *B* = ⟨*B, E*⟩ 叫 *A* 的 *真端扩张*，如果 (i) *A* ⊆ *B*；(ii) *A* ≠ *B*；(iii) *a* ∈ *A, b* ∈ *B*，*bEa* ⇒ *b*∈*A*。也就是说，ZFC 模型的真端扩张是一种真扩张，其中没有“新”元素跑到任何“旧”元素“前面”。作为 5.5 的应用，我们证明
   - id: 189
     kind: body
     source: |-
@@ -1647,14 +1737,36 @@ segments:
       > - a ∈ b, for each *a* ∈ *b* ∈ *A*.
       >
       > It is easily shown that Δ is a subset of *A* which is definable in *A* by a formula of the language of set theory. Also, each subset Δ′ ⊆ Δ such that Δ′ ∈ *A* has a model. For the set *C* of all *a* ∈ *A* for which a occurs in Δ′ belongs to *A* — since Δ′ does — and so, if we interpret c as any member of the (necessarily nonempty) set *A − C*, then *A* is a model of Δ′. Accordingly, (5.5) implies that Δ has a model ⟨*B, E*⟩. If we interpret each constant a as the element *a* ∈ *A*, then ⟨*B, E*⟩ is a proper end-extension of *A*. The proof is complete.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 5.6 定理。每个可数传递 ZFC 模型都有真端扩张。
+      >
+      > 证明。设 *A* = ⟨*A*, ∈ ⨡ *A*⟩ 是 ZFC 的传递模型，L 是集合论的一阶语言，为每个 *a* ∈ *A* 添加名称 a，并添加额外常项 c。设 Δ 是由下列 L*_{A}*-句子组成的集合：
+      >
+      > - ZFC 的所有公理；
+      > - c ≠ a，对每个 *a* ∈ *A*；
+      > - ∀*x*(*x* ∈ a → ∨_{*b*∈*a*} *x* = b)，对每个 *a* ∈ *A*；
+      > - a ∈ b，对每个 *a* ∈ *b* ∈ *A*。
+      >
+      > 容易证明，Δ 是 *A* 的子集，且在 *A* 中由集合论语言的公式可定义。而且，每个满足 Δ′ ∈ *A* 的 Δ′ ⊆ Δ 都有模型。因为使 a 出现在 Δ′ 中的所有 *a* ∈ *A* 构成的集合 *C* 属于 *A*——既然 Δ′ 属于——所以，若把 c 解释为（必然非空的）集合 *A − C* 的任一成员，则 *A* 是 Δ′ 的模型。于是，(5.5) 蕴涵 Δ 有模型 ⟨*B, E*⟩。若把每个常项 a 解释为元素 *a* ∈ *A*，则 ⟨*B, E*⟩ 是 *A* 的真端扩张。证毕。
+    step2: |-
+      > 5.6 定理。每个可数传递 ZFC 模型都有真端扩张。
+      >
+      > 证明。设 *A* = ⟨*A*, ∈ ⨡ *A*⟩ 是 ZFC 的传递模型，L 是集合论的一阶语言，为每个 *a* ∈ *A* 加名称 a，再加额外常项 c。设 Δ 由下列 L*_{A}*-句子组成：
+      >
+      > - ZFC 的所有公理；
+      > - c ≠ a，对每个 *a* ∈ *A*；
+      > - ∀*x*(*x* ∈ a → ∨_{*b*∈*a*} *x* = b)，对每个 *a* ∈ *A*；
+      > - a ∈ b，对每个 *a* ∈ *b* ∈ *A*。
+      >
+      > 容易证明，Δ 是 *A* 的子集，且在 *A* 中由集合论语言的公式可定义。而且，每个满足 Δ′ ∈ *A* 的 Δ′ ⊆ Δ 都有模型：使 a 出现在 Δ′ 中的所有 *a* ∈ *A* 构成集合 *C*，既然 Δ′ ∈ *A*，就有 *C* ∈ *A*；于是把 c 解释为（必然非空的）*A − C* 的任一成员，*A* 就是 Δ′ 的模型。因此 (5.5) 蕴涵 Δ 有模型 ⟨*B, E*⟩。把每个常项 a 解释为元素 *a* ∈ *A*，⟨*B, E*⟩ 就是 *A* 的真端扩张。证毕。
   - id: 190
     kind: body
     source: |-
       The reader will quickly see that the first-order compactness theorem will not yield this result.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      读者很快会看出，一阶紧致性定理得不出这个结果。
+    step2: |-
+      读者很快会看出，一阶紧致性定理得不出这个结果。
   - id: 191
     kind: body
     source: |-
