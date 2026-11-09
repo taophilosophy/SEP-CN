@@ -1035,6 +1035,7 @@
 | Erfahrung | Erfahrung | 经验（伽达默尔语境；与 Erlebnis 体验相区分） | gadamer-aesthetics | 学界惯例（伽达默尔《真理与方法》通行） | 2026-11-01 |
 | Erfahrung-Ästhetik | Erfahrung-Ästhetik | 经验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
 | eristic | — | 争胜论辩（eristic） | zeno-elea | 学界惯例（与辩证论辩对举的争胜式论辩）；凭证 2026-11-09 | 2026-11-09 |
+| effective prayer | — | 有效祷告 | petitionary-prayer | 构词直译（本词条术语：使神因祷告而行动，即 difference-making）；凭证 2026-11-09 | 2026-11-09 |
 | Erklärende Psychologie | Erklärende Psychologie | 说明心理学 | jaspers 首译 | 学界通行（与理解心理学对举；Erklären 说明）；凭证 2026-11-09 | 2026-11-09 |
 | Erlebnis | Erlebnis | 体验（狄尔泰/伽达默尔语境；亦作“亲历体验”） | gadamer-aesthetics | 学界惯例（伽达默尔《真理与方法》通行） | 2026-11-01 |
 | Erlebnis-Ästhetik | Erlebnis-Ästhetik | 体验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
@@ -1245,6 +1246,7 @@
 | frame of reference | — | 参照系 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | frame problem | — | 框架问题 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 f/frame-problem））；凭证 2026-11-04 | 2026-11-04 |
 | Frankfurt School | — | 法兰克福学派 | 语料回收（标题词） | 审定名词库（termonline-all·新闻学与传播学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| free knowledge | — | 自由知识 | petitionary-prayer | 莫利纳三知识说通行译法（scientia libera）；凭证 2026-11-09 | 2026-11-09 |
 | free algebra | — | 自由代数 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
 | free choice | — | 自由选择 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | free first actions | — | 自由的第一行动（克鲁修斯；first 亦通「首要的」） | 18thGerman-preKant | 据作者英译直译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
@@ -1379,6 +1381,7 @@
 | hard facts | — | 硬事实 | omniscience | 学界通行译名（与 soft facts 对举）；凭证 2026-11-09 | 2026-11-09 |
 | harmonic | — | 谐波 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | harmonic series | — | 调和级数 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
+| answered prayer | — | 蒙应允的祷告 | petitionary-prayer | 构词直译（answered 取“应允/垂听”义，与 effective“有效”区分）；凭证 2026-11-09 | 2026-11-09 |
 | Harmony of the Two Sages, Plato and Aristotle | — | 《两圣（柏拉图与亚里士多德）之和合》 | 首现（theology-aristotle） | 照题直译（法拉比著作，通行亦作《两哲观点的调和》）；凭证 2026-11-08 | 2026-11-08 |
 | haruspicy | — | 肠卜术 | gianfrancesco-pico | 古代占卜史通行（亦作「脏卜术」） | 2026-11-09 |
 | Hasidism | — | 哈西德主义 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
@@ -1508,6 +1511,7 @@
 | ill will | — | 恶意 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | illumination (model of abstraction) | illuminatio | 光照说 | 首现（simon-faversham） | 学界通行（奥古斯丁—经院认识论）；凭证 2026-11-08 | 2026-11-08 |
 | illuminationist | — | 照明论 | 首译（saadya） | 伊斯兰哲学通行（ishrāqī 照明哲学一路；与既有“光照说 illumination”行分立，勿混）；凭证 2026-11-09 | 2026-11-09 |
+| idolatry | — | 偶像崇拜 | petitionary-prayer | 学界通行译法；凭证 2026-11-09 | 2026-11-09 |
 | illusion | — | 幻象 | langer 首译 | 朗格研究通行（与 Täuschung 错觉分域）；凭证 2026-11-08 | 2026-11-08 |
 | imaginative resistance | — | 想象性抗拒 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/imaginative-resistance））；凭证 2026-11-04 | 2026-11-04 |
 | Immaculate Conception | — | 无染原罪 | auriol | 天主教神学通行（圣母始胎无染原罪） | 2026-11-07 |
@@ -1519,6 +1523,7 @@
 | immunity to error through misidentification | — | 免于误认错误 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | immunorejection | — | 免疫排斥 | 首现（cloning） | 学界惯例（移植医学通行）；凭证 2026-11-07 | 2026-11-07 |
 | immutability | — | 不变性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/immutability））；凭证 2026-11-04 | 2026-11-04 |
+| impassibility | — | 不动情性 | petitionary-prayer | 神学通行译法（divine impassibility：不受外物影响）；凭证 2026-11-09 | 2026-11-09 |
 | impaired control | — | 受损的控制 | moral-responsibility-empirical | 成瘾研究通行（DSM 物质使用障碍语境） | 2026-11-07 |
 | impairment | — | 损伤 | disability | 学界通行（失能研究「损伤／残疾」二分；概念·社会模型类词条统一用「损伤」，与 disability 行「残疾」对举）；凭证 2026-11-09 | 2026-11-09 |
 | impartial spectator | — | 公正旁观者 | conscience 首译 | 学界通行（亚当·斯密术语）；凭证 2026-11-08 | 2026-11-08 |
@@ -1630,6 +1635,7 @@
 | intentional object / conceived object（zhen yul） | — | 意向境（zhen yul，亦作"所执境"） | epistemology-language-tibetan | 量论通译+英译对齐（intentional object） | 2026-11-04 |
 | intentional species | — | 意向种相 | henricus-regius | 学界通行（与 species 种相行配套，中世纪知觉论）；凭证 2026-11-08 | 2026-11-08 |
 | intentional states | — | 意向状态 | 语料回收 | 审定名词库（termonline-all·intentional state 单数形在案，2026-10-29 浏览器通道凭证） | 2026-10-29 |
+| intercessory prayer | — | 代祷 | petitionary-prayer | 基督教神学通行译法（为他人代求）；凭证 2026-11-09 | 2026-11-09 |
 | intentionality | — | 意向性 | intentionality-ancient | 学界通行（布伦塔诺—胡塞尔术语；心灵的指向性） | 2026-11-07 |
 | interaction axioms | — | 交互公理 | logic-preference | 模态逻辑公理化通行 | 2026-11-08 |
 | interactionism | Cartesian interactionism | 交互作用论（笛卡尔式交互作用论） | occasionalism 首译 | 学界通行汉译（心身问题）；凭证 2026-11-07 | 2026-11-07 |
@@ -1967,6 +1973,7 @@
 | microcosm | — | 小宇宙 | neoplatonism | 学界通行；本词条正文作“缩影” | 2026-11-07 |
 | middle term | — | 中项 | analogy-medieval 首译 | 学界通行（三段论术语）；凭证 2026-11-08 | 2026-11-08 |
 | mikunigokoro | — | 御国心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| middle knowledge | — | 中知识 | petitionary-prayer | 学界通行译法（Molina 的 scientia media；沿 leibniz-evil 既定“中知识”形）；凭证 2026-11-09 | 2026-11-09 |
 | millet seed | — | 黍粒（悖论名；亦作“谷粒”） | zeno-elea | 学界惯例（芝诺谷粒论证）；凭证 2026-11-09 | 2026-11-09 |
 | Mīmāṃsā | मीमांसा | 弥曼差（亦作“弥曼沙”） | 语料回收 | 学界惯例（印度哲学派名）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | Mīmāṃsā / Pūrva Mīmāṃsā | मीमांसा / पूर्वमीमांसा | 弥曼差／前弥曼差 | kumaarila | 印度哲学史学界通行（汉译佛典传统译名） | 2026-11-05 |
@@ -2102,6 +2109,7 @@
 | natura naturans | — | 能生的自然 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | natural astrology | — | 自然占星术 | gersonides | 科学史通行（天体影响月下世界之说） | 2026-11-09 |
 | natural deduction | — | 自然演绎 | quine-nf；语料回收 | 学界惯例（逻辑学界通行）；审定库无直接收录（凭证 2026-10-29）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| natural knowledge | — | 自然知识 | petitionary-prayer | 莫利纳三知识说通行译法（scientia naturalis）；凭证 2026-11-09 | 2026-11-09 |
 | natural environmental model | — | 自然环境模式 | 首译（environmental-aesthetics）；本词条 NEM | Carlson 术语；亦作“自然主义模式”备查 | 2026-11-08 |
 | natural history | — | 自然史 | locke-on-medicine | 科学史/博物学通行 | 2026-11-05 |
 | natural kind | — | 自然种类 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -2156,6 +2164,7 @@
 | nilpotent | — | 幂零 | peirce-benjamin | 抽象代数通行译名（与「幂等」idempotent 对举）；凭证 2026-11-09 | 2026-11-09 |
 | nirjarā | निर्जरा | 灭除 | jaina-philosophy | 耆那教学界通行（业质渐次脱离） | 2026-11-08 |
 | Nō | — | 能剧（能楽） | japanese-aesthetics | 学界惯例（日本戏剧研究通行译法“能/能乐”） | 2026-11-02 |
+| counterfactual power | — | 反事实能力 | petitionary-prayer | 构词直译（counterfactual power over God's knowledge）；凭证 2026-11-09 | 2026-11-09 |
 | no false lemmas | — | 无假前提 | knowledge-analysis | 知识论文献通行直译（conditions 条款名） | 2026-11-05 |
 | no knowledge argument | NK | 无知论证 | occasionalism 首译 | 自译裁定（循 Jolley/Nadler 命名；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | No Man argument | — | 无人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
@@ -2397,6 +2406,8 @@
 | perspectival modelling | — | 视角建模 | model-organisms 首译 | 科学哲学通行译名（Larraín 2024）；凭证 2026-11-09 | 2026-11-09 |
 | pertension | — | pertension（保留英文；分体延展备查） | omnipresence | 同上（pertend）；凭证 2026-11-08 | 2026-11-08 |
 | pessimism | — | 悲观主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| petitioner | — | 祈求者 | petitionary-prayer | 构词直译；凭证 2026-11-09 | 2026-11-09 |
+| petitionary prayer | — | 祈求式祷告 | petitionary-prayer | SUMMARY 条目定名沿用（petitionary prayer 的学界通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | petites perceptions | petites perceptions | 微知觉 | leibniz-mind | 学界惯例（莱布尼茨译本通行）；凭证 2026-11-03 | 2026-11-03 |
 | Petőfi Circle | Petőfi Circle | 裴多菲俱乐部 | 语料回收（lakatos 首译） | 1956 年匈牙利事件史学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Petrine mandate | — | 彼得托付 | colonialism | 教会史文献通译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
@@ -2622,6 +2633,7 @@
 | Protestant Reformation | — | 新教改革 | 语料回收（标题词） | 学界惯例（宗教改革通行）；凭证 2026-11-01 | 2026-11-01 |
 | provability | — | 可证性 | deductivism-mathematics | 证明论通行译法；凭证 2026-11-08 | 2026-11-08 |
 | provability logic | — | 可证性逻辑 | logic-provability | SUMMARY 定名沿用（数理逻辑通行） | 2026-11-05 |
+| providential plan | — | 神意计划 | petitionary-prayer | 沿登记册 providence→神意（本册锁定形）；凭证 2026-11-09 | 2026-11-09 |
 | provability predicate | — | 可证性谓词 | logic-provability | 数理逻辑通行 | 2026-11-05 |
 | providence | — | 神意 | omniscience | 学界通行译名（divine providence；亦作「天命」，本册锁定「神意」）；凭证 2026-11-09 | 2026-11-09 |
 | Provincial Letters | — | 《外省书札》（帕斯卡；亦译“致外省人信札”） | 语料回收（标题词） | 学界惯例（帕斯卡著作译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -2984,6 +2996,7 @@
 | shishi wu’ai（事事無礙） | 事事無礙 | 事事无碍 | korean-buddhism | 汉文传统写法（华严四法界） | 2026-11-05 |
 | shodō | 書道 | 书道 | japanese-aesthetics | 学界惯例（日本书法研究通行译法“书道”） | 2026-11-02 |
 | Shoin | 書院 | 书院（書院） | japanese-aesthetics | 学界惯例（日本建筑研究通行译法“书院”） | 2026-11-02 |
+| satisficing futures | — | 满意化未来 | petitionary-prayer | 构词直译（Thornton：神认为“足够值得创造”的未来；satisficing 取“达标即可”义）；凭证 2026-11-09 | 2026-11-09 |
 | shōja | 精舎（祇園精舎） | 精舍（祇园精舍） | japanese-aesthetics | 学界惯例（《平家物语》汉译通行） | 2026-11-02 |
 | Shona | — | 绍纳语 | 首译（african-ethics） | 民族语言通行音译（津巴布韦 Shona）；凭证 2026-11-09 | 2026-11-09 |
 | Short Discourse / Breviloquium | Breviloquium de principatu tyrannico | 《短论》（首现括注拉丁名） | ockham | McGrade/Kilcullen 剑桥政治思想史丛书英译通行简称；凭证 2026-11-07 | 2026-11-07 |
@@ -3025,6 +3038,7 @@
 | skeptosunê | — | 探究 | 首现（timon-phlius） | 学界惯例（第蒙用语，inquiry；勿径作“怀疑论”）；凭证 2026-11-07 | 2026-11-07 |
 | Skolem function | — | 斯科伦函数 | tarski-truth | 模型论与逻辑学通行 | 2026-11-09 |
 | skopos | σκοπός | 论旨（首现括注原文） | olympiodorus | 古代注疏学通行（文本的宗旨/主题）；凭证 2026-11-08 | 2026-11-08 |
+| skeptical theism | — | 怀疑论神学 | petitionary-prayer | 学界通行译法（回应恶的问题的怀疑论立场）；凭证 2026-11-09 | 2026-11-09 |
 | Sleeping Beauty | — | 睡美人问题 | 语料回收（标题词） | 审定直接命中（自然辩证法·科学哲学）；凭证 2026-11-01 | 2026-11-01 |
 | slow clock transport | — | 慢钟搬移（slow-transport 缓慢搬移） | spacetime-convensimul | 本册首译裁定（transport 取“搬移”） | 2026-11-06 |
 | Sōan | 草庵 | 草庵 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“草庵”） | 2026-11-02 |
@@ -3332,6 +3346,7 @@
 | theistic mentalism | — | 有神论心理主义 | god-necessary-being | 构词直译（mentalism 与 conceptualism 概念论对举；Welty 2014 语境） | 2026-11-09 |
 | theistic Platonism | — | 有神论柏拉图主义 | god-necessary-being | 构词直译（van Inwagen 2009 语境） | 2026-11-09 |
 | theistic voluntarism | — | 有神论意志主义 | god-necessary-being | 构词直译（voluntarism 意志主义已在册；笛卡尔永恒真理学说语境） | 2026-11-09 |
+| theological determinism | — | 神学决定论 | petitionary-prayer | 学界通行译法；凭证 2026-11-09 | 2026-11-09 |
 | theodicy | — | 神义论 | antonio-rosmini | 莱布尼茨以降通行 | 2026-11-07 |
 | Theological Declaration of Scientific Man | — | 科学人的神学宣言 | 首现（william-jevons） | 照题直译（1860s 文献名，Black 1977a 所记）；凭证 2026-11-07 | 2026-11-07 |
 | Theology of Aristotle | — | 《亚里士多德的神学》 | 首现（theology-aristotle） | 学界惯例（与 SUMMARY 题名一致）；凭证 2026-11-08 | 2026-11-08 |
@@ -3397,6 +3412,7 @@
 | Tree of Porphyry | — | 波菲利之树 | lorenzo-valla | 逻辑学教科书通行 | 2026-11-04 |
 | triggering cause / structural cause | — | 触发原因／结构原因 | basing-epistemic 首译 | 学界通行汉译（因果作用区分）；凭证 2026-11-08 | 2026-11-08 |
 | Trinity College (Cambridge) | — | 三一学院 | newton | 剑桥大学学院通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| timeless eternity | — | 超时间的永恒 | petitionary-prayer | 学界通行译法（与 temporal eternity 对举；沿语料“超时间”既定形）；凭证 2026-11-09 | 2026-11-09 |
 | tripartite analysis of knowledge | — | 知识的三元分析 | 首现（xenophanes） | 学界通行（JTB 三元分析）；凭证 2026-11-07 | 2026-11-07 |
 | tritheism | — | 三神论 | john-italos | 教父学通行汉译（τριθεΐα） | 2026-11-06 |
 | Trolley Problem | — | 电车难题 | 语料回收（标题词） | 学界惯例（伦理学/行动哲学）；凭证 2026-11-01 | 2026-11-01 |
