@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 15:04（UTC）
+生成时间：2026-11-09 19:44（UTC）
 
 ## 总览
 
@@ -14,21 +14,21 @@
 |已建英文基线|1879|
 |已建任务|1171|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|256|
-|在途（drafted 起、done 前）|234|
+|已完成（done）|262|
+|在途（drafted 起、done 前）|231|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|681|
-|cleared|154|
-|drafted|5|
-|s3_checked|69|
-|r1_reviewed|4|
-|r2_reviewed|2|
-|done|256|
+|pending|678|
+|cleared|153|
+|drafted|4|
+|s3_checked|70|
+|r1_reviewed|3|
+|r2_reviewed|1|
+|done|262|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -36,16 +36,16 @@
 |---|---|---|---|---|
 |A|160|160|160|57|
 |B|62|62|62|15|
-|C|172|172|172|7|
-|D|92|92|92|11|
+|C|172|172|172|8|
+|D|92|92|92|12|
 |E|99|99|99|19|
 |F|96|96|96|1|
-|G|49|49|49|3|
+|G|49|49|49|4|
 |H|61|61|61|11|
 |I|75|75|75|22|
 |J|38|38|38|9|
 |K|36|36|36|21|
-|L|144|144|26|24|
+|L|144|144|26|25|
 |M|139|139|14|6|
 |N|50|50|7|4|
 |O|21|21|11|8|
@@ -53,10 +53,10 @@
 |Q|34|34|34|1|
 |R|85|85|85|9|
 |S|161|161|18|15|
-|T|71|71|7|2|
+|T|71|71|7|3|
 |U|4|4|0|0|
 |V|15|15|0|0|
-|W|38|38|7|2|
+|W|38|38|7|3|
 |X|3|3|3|2|
 |Y|2|2|1|0|
 |Z|6|6|6|0|
@@ -132,7 +132,6 @@
 |cancer|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |carneades|retranslate|s3_checked|主代理 2026-11-01|
 |cassirer|retranslate|s3_checked|主代理 2026-11-01|
-|causation-medieval|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |certainty|retranslate|s3_checked|主代理 2026-11-01|
 |change|retranslate|s3_checked|主代理 2026-11-01|
 |children|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -171,8 +170,8 @@
 |disability|retranslate|s3_checked|D-main-20261109 2026-11-09|
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|du-bos|retranslate|s3_checked|主代理 2026-11-01|
-|ecological-genetics|retranslate|cleared|task_ops 2026-11-08|
+|early-modern-india|retranslate|cleared|task_ops 2026-11-09|
+|ecological-genetics|retranslate|s3_checked|EF-main3-20261109 2026-11-09|
 |experimental-aesthetics|retranslate|s3_checked|EFG-main-20261108 2026-11-08|
 |frame-problem|retranslate|cleared|task_ops 2026-11-06|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
@@ -189,7 +188,6 @@
 |giles|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
 |god-necessary-being|retranslate|s3_checked|g-gamma-G-main-20261109 2026-11-09|
-|godwin|retranslate|drafted|g-gamma-G-main-20261109 2026-11-09|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
 |haecceitism|retranslate|cleared|task_ops 2026-11-01|
@@ -271,8 +269,7 @@
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|logic-infinitary|retranslate|cleared|task_ops 2026-11-09|
-|lvov-warsaw|retranslate|s3_checked|L-main-20261109c 2026-11-09|
+|logic-infinitary|retranslate|s3_checked|L-main-20261109c 2026-11-09|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
@@ -283,18 +280,18 @@
 |newton-philosophy|retranslate|cleared|task_ops 2026-11-08|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
 |omniscience|retranslate|cleared|task_ops 2026-11-09|
-|peter-damian|retranslate|cleared|task_ops 2026-11-09|
+|paradox-of-tragedy|retranslate|cleared|task_ops 2026-11-09|
+|peter-damian|retranslate|s3_checked|P-main-20261110 2026-11-09|
 |quine-nf|retranslate|cleared|task_ops 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|
+|scientific-explanation-20th|retranslate|cleared|task_ops 2026-11-09|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
-|telesio|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
-|william-jevons|retranslate|r2_reviewed|REV-main-20261109 2026-11-09|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
 |zabarella|retranslate|s3_checked|Z2-main-20261109 2026-11-08|
-|zeno-elea|retranslate|cleared|task_ops 2026-11-08|
+|zeno-elea|retranslate|s3_checked|Z-main-20261110 2026-11-09|
 |zermelo-set-theory|retranslate|cleared|task_ops 2026-11-08|
 |zhu-xi|retranslate|cleared|task_ops 2026-11-08|
 |zhuangzi|retranslate|cleared|task_ops 2026-11-08|
