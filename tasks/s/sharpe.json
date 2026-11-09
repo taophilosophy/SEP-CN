@@ -1,0 +1,22 @@
+{
+  "slug": "sharpe",
+  "kind": "retranslate",
+  "zh_doc": "s/sharpe.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T06:26:26Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T06:26:26Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 1, 2021",
+    "archive_edition": "Spring 2024",
+    "sha256": "2bd8588d2b19538cf2b09e56d1bcfa98da4f047631df7fd187557b170daff285"
+  }
+}

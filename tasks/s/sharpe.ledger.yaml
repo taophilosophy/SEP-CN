@@ -1,0 +1,495 @@
+version: 1
+slug: sharpe
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Johannes Sharpe (ca. 1360–after 1415) is the most important and original author among the so called “Oxford Realists”, a group of thinkers influenced by John Wyclif’s logic and ontology. His semantic and metaphysical theories are the culmination of the main preceding traditions of thought, since he developed the new form of realism begun by Wyclif, on the one hand, but was open to many nominalist criticisms of the traditional realist strategies, on the other.
+    step1: |-
+      约翰内斯·夏普（约 1360—1415 年之后）是所谓“牛津实在论者”中最重要的、最具原创性的作者；这一群体是受约翰·威克里夫的逻辑学与本体论影响的一批思想家。他的语义学理论与形而上学理论是此前各主要思想传统的顶峰，因为他一方面发展了威克里夫开创的新形式实在论，另一方面又对唯名论者针对传统实在论策略的许多批评持开放态度。
+    step2: |-
+      约翰内斯·夏普（Johannes Sharpe，约 1360—1415 年之后）是所谓“牛津实在论者”中最重要的、也最具原创性的一位作者。这批思想家都受约翰·威克里夫（John Wyclif）的逻辑学与本体论影响。夏普的语义学与形而上学理论，是此前几大思想传统的集大成之作：他一方面把威克里夫开创的新型实在论推展开来，另一方面又对唯名论者针对传统实在论策略的诸多批评持开放态度。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      Johannes Sharpe (Scharp, Scharpe) was from the diocese of Münster in Westphalia, where he was born presumably around 1360. He received his Bachelor of Arts from the University of Prague in 1379, but spent the greatest part of his academic life in Oxford, where he was fellow at Queen’s College from 1391 to 1403, and where he became a Master of Arts and a Doctor of Theology. In 1415 he was *lector ordinarius* in Lüneburg (Saxony) (see Conti 1990, p. xvii)[^conti-1990]. The date of his death is unknown.
+    step1: |-
+      约翰内斯·夏普（Scharp，Scharpe）来自威斯特法伦的明斯特教区，大概约 1360 年生于此地。他 1379 年在布拉格大学获得文学学士学位，但其学术生涯的大部分时间是在牛津度过的：1391 年至 1403 年他是王后学院的研究员，并在那里成为文学硕士与神学博士。1415 年他在吕讷堡（萨克森）任 *lector ordinarius*（见 Conti 1990, p. xvii）[^conti-1990]。其卒年不详。
+    step2: |-
+      约翰内斯·夏普（亦作 Scharp、Scharpe）出身威斯特法伦的明斯特教区，约 1360 年生于此。1379 年他在布拉格大学取得文学学士学位，但学术生涯的大部分时光是在牛津度过的：1391 至 1403 年为王后学院研究员，并在那里先后取得文学硕士与神学博士学位。1415 年他在（萨克森的）吕讷堡任 *lector ordinarius*（见 Conti 1990, p. xvii）[^conti-1990]。卒年不详。
+  - id: 4
+    kind: body
+    source: |-
+      He established a reputation as a philosopher and a theologian. The number of extant manuscripts of his works and their widespread distribution attest to his importance and notoriety throughout the 15ᵗʰ century. The following writings are attributed to him:
+    step1: |-
+      他确立了作为哲学家与神学家的声誉。其著作现存抄本的数量与流传之广，证明他在整个 15 世纪的重要地位与声名。归于他名下的著作如下：
+    step2: |-
+      他作为哲学家与神学家声名卓著。其著作现存抄本数量之多、流布之广，可见他在整个 15 世纪的重要地位与名气。归于他名下的著作有：
+  - id: 5
+    kind: body
+    source: |-
+      - a treatise on universals (*Quaestio super universalia* [*QsU*] – his only edited work);
+      - a commentary by questions on Aristotle’s *On the Soul* (*Quaestio super libros De anima* [*In De anima*] – 8 mss.; all references are to the ms. Oxford, New College 238);
+      - a commentary by questions on Aristotle’s *On Physics* (*Quaestio super libros Physicorum* – 7 mss.);
+      - a treatise on the properties of being (*De passionibus entis* – 3 mss.);
+      - a treatise on formalities (*De formalitatibus* – one ms. only);
+      - an abbreviation of Duns Scotus’ *Quodlibeta* (6 mss.);
+      - a group of six short treatises on theological subjects (one ms. only).
+    step1: |-
+      - 一部论共相的论著（*Quaestio super universalia*〔*QsU*〕——他唯一经整理出版的著作）；
+      - 一部对亚里士多德《论灵魂》的问答体评注（*Quaestio super libros De anima*〔*In De anima*〕——8 种抄本；所有引证均据牛津新学院 238 号抄本）；
+      - 一部对亚里士多德《物理学》的问答体评注（*Quaestio super libros Physicorum*——7 种抄本）；
+      - 一部论存在者之属性的论著（*De passionibus entis*——3 种抄本）；
+      - 一部论形式性的论著（*De formalitatibus*——仅 1 种抄本）；
+      - 一部邓斯·司各脱《杂论集》的节本（*Quodlibeta*，6 种抄本）；
+      - 一组六篇论神学主题的短论（仅 1 种抄本）。
+    step2: |-
+      - 一部论共相的论著（*Quaestio super universalia*〔*QsU*〕），这是他唯一经整理出版的著作；
+      - 一部对亚里士多德《论灵魂》的问答体评注（*Quaestio super libros De anima*〔*In De anima*〕），共 8 种抄本，本书所有引证均据牛津新学院 238 号抄本；
+      - 一部对亚里士多德《物理学》的问答体评注（*Quaestio super libros Physicorum*），共 7 种抄本；
+      - 一部论存在者之属性的论著（*De passionibus entis*），共 3 种抄本；
+      - 一部论形式性的论著（*De formalitatibus*），仅存 1 种抄本；
+      - 一部邓斯·司各脱《杂论集》的节本（*Quodlibeta*），共 6 种抄本；
+      - 一组六篇论神学主题的短论，仅存 1 种抄本。
+  - id: 6
+    kind: body
+    source: |-
+      ## 2. The Oxford Realists
+    step1: |-
+      ## 2 牛津实在论者
+    step2: |-
+      ## 2 牛津实在论者
+  - id: 7
+    kind: body
+    source: |-
+      Realism and nominalism were the two major theoretical alternatives in the later Middle Ages concerning the reality and kinds of general objects, and the status and mutual relationships of the basic items of the world (individual and universal substances, individual and universal accidents) as well as their connection to language. Realists believed in the extra-mental existence of common natures (or essences); nominalists did not. Realists held that Aristotle’s table of categories was first of all a partition of things grounded on ontological criteria and only secondarily a classification of (mental, written, and spoken) terms, and therefore that the world is divided into ten kinds of things (in a broad sense of ‘thing’), not one of which can be reduced to any other. Nominalists maintained that the division into ten categories was a partition of terms on the basis of semantic criteria, and that there are only two or three real categories (substance and quality, and perhaps quantity too). Realists believed that thought was linguistically constrained by its own nature, and accordingly they considered thought to be related to reality in its elements and constitution, and deemed language, thought, and external reality to be of the same logical coherence. Nominalists sharply distinguished between things as they exist in the external world and the various forms by means of which we think-of and talk-about them, since for them our (mental, spoken, and written) language does not reproduce the world, but merely regards it, as our (mental, spoken, and written) language and the world are logically independent systems.
+    step1: |-
+      实在论与唯名论是中世纪后期关于一般对象的实在性与种类、关于世界基本项目（个体实体与普遍实体、个体偶性与普遍偶性）的地位与相互关系、以及关于它们与语言之联系的两大理论选项。实在论者相信共同本性（或本质）存在于心灵之外；唯名论者则不然。实在论者主张，亚里士多德的范畴表首先是依据本体论标准对事物所作的划分，其次才是对（心智的、书写的与口头的）词项的分类，因此世界被划分为十类事物（在宽泛意义上的“事物”），其中任何一类都不能还原为另一类。唯名论者则坚持，十范畴的划分是依据语义标准对词项所作的划分，真正的范畴只有两三个（实体与性质，或许还有数量）。实在论者相信思想在本性上受语言约束，因此他们认为思想在其要素与构造上都与实在相关，并认为语言、思想与外部实在具有相同的逻辑连贯性。唯名论者则严格区分外部世界中存在的事物与我们据以思考和谈论它们的各种形式，因为在他们看来，我们的（心智的、口头的与书写的）语言并不复制世界，而只是关联于世界，因为我们的语言与世界是逻辑上相互独立的系统。
+    step2: |-
+      在中世纪后期，围绕一般对象的实在性与种类，围绕世界基本项目（个体实体与普遍实体、个体偶性与普遍偶性）的地位及其相互关系，也围绕它们同语言的联系，存在两大理论选项：实在论与唯名论。实在论者相信共同本性（或本质）存在于心灵之外，唯名论者不信。实在论者主张，亚里士多德的范畴表首先按本体论标准划分事物，其次才是对（心智、书写、口头）词项的分类；因此世界分成十类事物（取“事物”的宽泛义），其中任何一类都不能还原为另一类。唯名论者则坚持，十范畴是依语义标准对词项所作的划分，真正的范畴只有两三个（实体与性质，或许还包括数量）。实在论者相信思想在本性上受语言约束，因而认为思想在要素与构造上都与实在相关，并认为语言、思想与外部实在具有同等的逻辑连贯性。唯名论者严格区分外部世界中存在的事物与我们借以思考和谈论它们的各种形式：在他们看来，我们的（心智、口头、书写）语言并不复制世界，而只是指向世界——语言与世界是逻辑上彼此独立的系统。
+  - id: 8
+    kind: body
+    source: |-
+      In the third decade of the fourteenth century, Ockham argued that the common realist account of the relationship between universals and individuals was inconsistent with the standard definition of real identity, according to which two items a and b are identical if and only if for all *x*, *x* is predicated of *a* if and only *x* is predicated of *b*. If universals are something existing in the world, really identical with their individuals considered as instances of a given type (e.g., the universal man *qua* man is identical with Socrates), but different considered as properly universals and individuals (e.g., man *qua* universal is different from Socrates considered qua individual), then whatever is predicated of the individuals must be predicated of their universals too, and so a unique general object (say, the human nature) would possess contrary attributes simultaneously via the attributes of different individuals. Furthermore, a same thing would be in different places at the same time, since, for example, the universal-man (*homo universalis*) would be present at the same time in this man here (in Rome) and in that man there (in Oxford) (cf. Ockham, *Expositio in librum Praedicamentorum Aristotelis*, cap. 8.1, in *Opera philosophica*, vol. 2, p. 166; and *Summa logicae*, p. I, cap. 15, in *Opera philosophica*, vol. 1, p. 51).
+    step1: |-
+      在 14 世纪 30 年代，奥卡姆论证说，关于共相与个体之关系的通行实在论说法与实在同一的标准定义不一致；按该定义，两个项目 a 与 b 同一，当且仅当对一切 *x*，*x* 谓述 *a* 当且仅当 *x* 谓述 *b*。如果共相是存在于世界中的某物，就其为某一给定类型的实例而言与它的个体实在同一（例如，作为人的共相之人与苏格拉底同一），但作为共相与作为个体则不同（例如，作为共相的人不同于作为个体的苏格拉底），那么凡可谓述个体的，也必可谓述其共相，于是独一无二的一般对象（比如人性）就会通过不同个体的属性而同时具有对立属性。此外，同一事物会同时处于不同地点，因为例如共相之人（*homo universalis*）会同时在此人这里（在罗马）和彼人那里（在牛津）（参 Ockham, *Expositio in librum Praedicamentorum Aristotelis*, cap. 8.1, in *Opera philosophica*, vol. 2, p. 166; 以及 *Summa logicae*, p. I, cap. 15, in *Opera philosophica*, vol. 1, p. 51）。
+    step2: |-
+      14 世纪 30 年代，奥卡姆（Ockham）提出：关于共相与个体关系的通行实在论解释，与实在同一的标准定义相冲突。按该定义，两个项目 *a* 与 *b* 同一，当且仅当对任一 *x*，*x* 谓述 *a* 当且仅当 *x* 谓述 *b*。假定共相是存在于世界中的某物：就其为某一给定类型的实例而言，它与自己的个体实在同一（例如作为人的共相之人与苏格拉底同一）；但就其为共相与为个体而言，二者又不同（例如作为共相的人不同于作为个体的苏格拉底）。那么，凡能谓述个体的，也必能谓述其共相，于是独一无二的一般对象（比如人性）就会经由不同个体的属性而同时具备对立属性。同一事物还会同时处于不同地点：共相之人（*homo universalis*）此刻既在此人身上（在罗马），又在彼人身上（在牛津）（参 Ockham, *Expositio in librum Praedicamentorum Aristotelis*, cap. 8.1, in *Opera philosophica*, vol. 2, p. 166；以及 *Summa logicae*, p. I, cap. 15, in *Opera philosophica*, vol. 1, p. 51）。
+  - id: 9
+    kind: body
+    source: |-
+      Later medieval Realists were persuaded that Ockham’s criticism was sufficient to show that the traditional realist account of the relation between universals and particulars was unacceptable, but not that realism as a whole was untenable. Thus, they tried to remove the unclear and aporetic points stressed by Ockham by two fundamental strategies: (1) the real distinction between universals and individuals; (2) new notions of identity and distinction. The first strategy is that of Walter Burley, who in his later years (after 1324) many times claimed that universals fully exist outside the mind and are really distinct from the individuals in which they are present and of which they are predicated, so moving toward a sort of Platonism. The second strategy was that most commonly developed in the later Middle Ages all over the Europe. There were two main lines of this strategy. The first was that of some Italian Dominican masters, such as Francis of Prato and Stephen of Rieti in the 1340s, who worked out new definitions for identity and distinction that were inspired by Hervaeus Natalis’s notion of conformity (see Amerini 2005). The second approach was that of the most important school of later medieval realists: the so-called “Oxford Realists,” started by John Wyclif. Besides Wyclif himself, this school includes the Englishmen Robert Alyngton, William Milverley, William Penbygull, Roger Whelpdale, and John Tarteys, as Johannes Sharpe (or Scharpe) and Paul of Venice. According to the Oxford Realists, universals and individuals are really identical but formally distinct. In addition, they claimed that (1) the two notions of formal difference and real identity are logically compatible; (2) predication is a real relation between things; and (3) the ten Aristotelian categories are ten really distinct kinds of things (res in the strict sense of the term).
+    step1: |-
+      后来的中世纪实在论者被说服：奥卡姆的批评足以表明，关于共相与个别事物之关系的传统实在论说法不可接受，但不足以表明实在论整体上站不住脚。因此，他们试图用两种基本策略消除奥卡姆所强调的那些含混与疑难之处：(1) 共相与个体之间的实在区分；(2) 新的同一与区分概念。第一种策略是沃尔特·伯利的策略；他在晚年（1324 年之后）多次主张，共相完全存在于心灵之外，并且与它们所寓于其中、所谓述的个体有实在区分，从而走向某种柏拉图主义。第二种策略是当时全欧洲中世纪后期最普遍发展的策略。这一策略有两条主要路线。第一条是某些意大利多明我会修士的路线，如 1340 年代的普拉托的弗朗西斯与列蒂的斯蒂芬，他们受埃尔沃斯·纳塔利斯的“符合”概念启发，提出了新的同一与区分定义（参 Amerini 2005）。第二条路线是后来中世纪最重要的实在论学派的路线，即由约翰·威克里夫开创的所谓“牛津实在论者”。除威克里夫本人外，该学派还包括英国人罗伯特·阿林顿、威廉·米尔弗利、威廉·彭比格尔、罗杰·惠尔普代尔与约翰·塔泰斯，以及约翰内斯·夏普（或 Scharpe）与威尼斯的保罗。按牛津实在论者的看法，共相与个体是实在同一的，但有形式区分。此外他们还主张：(1) 形式差异与实在同一这两个概念在逻辑上相容；(2) 谓述是事物之间的实在关系；(3) 亚里士多德的十个范畴是十类实在上有区别的事物（严格意义上的 *res*）。
+    step2: |-
+      后世的中世纪实在论者确信：奥卡姆的批评足以说明，关于共相与个别事物关系的传统实在论解释不可接受，但还不足以说明整个实在论站不住脚。于是他们用两种基本策略来消除奥卡姆所指出的含混与疑难：(1) 共相与个体之间的实在区分；(2) 新的同一与区分概念。第一种策略出自沃尔特·伯利（Walter Burley）：他在晚年（1324 年之后）屡次主张，共相完整地存在于心灵之外，并与它所寓居、所谓述的个体有实在区分，从而朝某种柏拉图主义靠拢。第二种策略是当时全欧洲中世纪后期最为通行的做法，其中有两条主要路线。其一是若干意大利多明我会修士的路线，如 1340 年代的普拉托的弗朗西斯与列蒂的斯蒂芬，他们受埃尔沃斯·纳塔利斯（Hervaeus Natalis）“符合”概念的启发，为同一与区分提出了新定义（参 Amerini 2005）。其二是中世纪后期最重要的实在论学派的路线，即由约翰·威克里夫开创的所谓“牛津实在论者”。除威克里夫本人，这一学派还有英国人罗伯特·阿林顿、威廉·米尔弗利、威廉·彭比格尔、罗杰·惠尔普代尔与约翰·塔泰斯，以及约翰内斯·夏普（亦作 Scharpe）和威尼斯的保罗。牛津实在论者认为，共相与个体是实在同一的，但有形式区分。他们还主张：(1) 形式差异与实在同一这两个概念在逻辑上相容；(2) 谓述是事物之间的实在关系；(3) 亚里士多德的十个范畴是十类实在上有别的事物（严格意义上的 *res*）。
+  - id: 10
+    kind: body
+    source: |-
+      ## 3. The *Quaestio super universalia*: structure of the work
+    step1: |-
+      ## 3 《共相问题》（*Quaestio super universalia*）：著作的结构
+    step2: |-
+      ## 3 《共相问题》（*Quaestio super universalia*）：著作的结构
+  - id: 11
+    kind: body
+    source: |-
+      Sharpe’s *Quaestio super universalia* aspires to be a veritable *summa* of the discussion on universals and related topics that developed during the 14th century. This explains its size and the particular arrangement of its subject matter. The work can be divided into five main parts.
+    step1: |-
+      夏普的 *Quaestio super universalia* 力图成为 14 世纪发展起来的关于共相及相关主题之讨论的真正大全。这解释了它的篇幅与其题材的特殊安排。该书可分为五个主要部分。
+    step2: |-
+      夏普的《共相问题》（*Quaestio super universalia*）想要成为 14 世纪共相及相关问题讨论的一部真正大全（*summa*）。这也解释了它何以篇幅庞大、题材安排又别具一格。全书可分为五个主要部分。
+  - id: 12
+    kind: body
+    source: |-
+      The first part (pp. 3–24) lists twenty-one arguments in support of the nominalist thesis that the existence of universals in re should not be postulated. These arguments are disparate and not systematically arranged. Thirteen of them can also be found in treatises on universals by other fourteenth-century realist authors, specifically in the treatises by Burley, Penbygull and Whelpdale. Eight, however, do not seem to be found in other authors, and therefore they can be considered original.
+    step1: |-
+      第一部分（第 3–24 页）列出二十一条支持唯名论论题的论证，该论题是：不应设定共相存在于实在之中（*in re*）。这些论证彼此杂异，且未系统编排。其中十三条也见于其他 14 世纪实在论者的共相论著，具体见于伯利、彭比格尔与惠尔普代尔的论著。另有八条似乎不见于其他作者，因而可视为原创。
+    step2: |-
+      第一部分（第 3–24 页）列出二十一条论证，支持唯名论的论题——不应当设定 *in re* 的共相存在。这些论证彼此杂异，编排也不系统。其中十三条同样见于其他 14 世纪实在论者的共相论著，即伯利、彭比格尔与惠尔普代尔的作品；另有八条似为他书所无，可算夏普的首创。
+  - id: 13
+    kind: body
+    source: |-
+      In the second part (pp. 24–49) twenty arguments in favour of the realist thesis are presented. From the very beginning of this section Sharpe declares his adherence to the realist thesis with regard to universals. Five of the arguments in this section seem to come from the prologue of Walter Burley’s commentary on *Physics*, where universals are discussed (cf. Burley, *Expositio in libros octo Physicorum Aristotelis*, *prologus*, Venice 1501, fols. 8vb–9ra) and one from Burley’s treatise on universals. Sharpe, however, freely reworks this material and often enriches it with long deductive chains, with which he attempts to prove the two premises of the main syllogism and/or show the correctness of the *consequentia*. Two other arguments seem to be inspired by similar arguments of Scotus (*Ordinatio*, I, d. 2, p. 2, qq. 1–4 n. 398: ed. Vat., II, pp. 354 ff.), taken up and refuted by Ockham in his *Summa logicae* (p. I, c. 17: *O.Ph*., I, pp. 57 and 59). In the remaining twelve arguments, however, Sharpe probably uses more recent material, as the points of contact with Penbygull’s *De universalibus* and Alyngton’s commentary on the *Categories* show.
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      The third part (pp. 49–68) serves as an introduction to the detailed and reasoned solution of the problem that Sharpe proposes in the following section. With the exception of the opening pages (49–50), which are devoted to the identification of the entities designated by the term ‘universal’ (see § 5 below), this part consists of an examination of eight opinions on the problem of universals. Most of them are anonymous. Sharpe does not appear to be interested in criticising this or that particular author, but rather in giving an overview of the most important doctrines that have developed on universals since the middle of the 13th century, and thus providing a background against which to situate and characterise his own position. A further confirmation of this attitude is given by the order in which the eight opinions are presented, which is not a chronological but a systematic order. The first opinion (pp. 50–51) – anonymous – is that of Buridan (or of his school). According to Sharpe, this opinion adopts the thesis of the denial of the existence of universals *in rerum natura* and that of the rejection of simple supposition, even in the anomalous formulation given by Ockham. The second opinion (p. 52), also anonymous, but qualified as very famous, is Ockham’s: universals are signs of things that are naturally produced in our intellect and referring to several individuals at once. The third opinion (p. 55), according to which universals only have *esse obiectivum* in the soul, is that of Aureol, as Sharpe himself declares. The fourth (p. 58) is that of the moderate realism of the 13th century. According to this view, universal forms exist outside the soul, but only in potency in individuals, and become actually universal by the intervention of our intellect, by means of the process of abstraction. Sharpe attributes its authorship to Averroes and lists Albert the Great and Giles of Rome as its most famous proponents. The fifth opinion (p. 60) is that of Plato, in the traditional formulation given in the Middle Ages: universals exist in things or *ex parte rei*, and are incorruptible forms completely separate from and independent of their singulars. The sixth (p. 62), anonymous, could be the opinion of Scotus or a Scotist. If it is indeed Scotus, it should be noted that Sharpe does not characterise his position in its generality, but only captures some particular aspects. He reports that, according to the proponents of this view, universals exist *ex parte rei* and are those forms, signified by the abstract terms of language (such as ‘humanity’), that constitute the very essences of singulars. The seventh opinion (p. 63), anonymous, is Burley’s: universals are the essential forms present in the singulars, from which, however, they are really distinct. The eighth opinion (pp. 65–66), also anonymous, is that of Wyclif, for whom universals (1) exist *extra animam* and in act in individuals, with whom they are really (*realiter*) identical and formally (*formaliter vel secundum rationem*) distinct, and (2) can be signified by concrete terms, such as ‘*homo*’ (‘human being’), by abstract ones, such as ‘*humanitas*’ (‘humanity’), by compound expressions, such as ‘*homo communis*’ (‘universal-man’) or ‘*species humana*’ (‘human species’), and by infinitive expressions such as ‘*hominem esse*’ (‘being a man’).
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      In the fourth part of the work (pp. 68–84), Sharpe sets out in detail his theory of universals. He begins by stating that he admits the existence of universals both *in meant* and *extra mentem*. The following are mental universals: first and second intentions, and the acts of cognition (*intellectiones*) themselves. Extramental universals are the written and spoken terms and the universal forms existing in things. After discussing this assertion and presenting some possible objections with answers to them, Sharpe puts forward three conclusions, which he discusses in the same way as the previous general thesis. The three conclusions are: (1) the transcendentals (i.e. *ens*, *aliquid*, *res*, etc.) are common to each existent, but are not properly universals (pp. 74–80); (2) the universal forms are of five different kinds: genera, species, differences, *propria* and accidents, according to the different ways in which the singular substances participate in them (pp. 81–82); (3) there are no real universals that correspond to accidental concrete terms, such as ‘*album*’ (‘white’), ‘*dulce*’ (‘sweet’), etc. (pp. 83–84).
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      In the fifth, final, and most extensive part (pp. 85–145), Sharpe offers a point-by-point rebuttal of the twenty-one arguments initially presented in support of the nominalist thesis and introduces several other interesting features of his theory of universals and meaning, on which we shall focus in the following paragraphs.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      The *Quaestio super universalia* is, therefore, a well-structured and original work in its basic approach and in many of the theses it supports, since Sharpe, unlike other realist authors of the second half of the 14th century, tackles the problem of universals from a purely semantic point of view. This attitude leads him to place the question of universals in the wider context of the problem of meaning and to treat it in relation to the latter. Hence, he frequently rejects as worthless certain solutions typical of the realism of the period. In other ways, however, the *Quaestio* is also a ‘school’ product, as it represents one of the most interesting results of the process of revision of the principles and theses of realism by their most open-minded and intelligent supporters – a process of revision begun in the early years of the 14th century due to Ockham’s devastating criticisms of traditional realist strategies. There are also evident similarities between Sharpe’s doctrine and those of Alyngton, Whelpdale, Penbygull, Milverley, and Tarteys, with whom he shares a certain dependence on Wyclif, whose theory of universals and predication appears to be the main point of reference for the metaphysics of these thinkers. However, for Sharpe, unlike other Oxonian thinkers who were his contemporaries, Wyclif’s *Tractatus de universalibus* and, in general, his writings on logic and metaphysics, are a point of reference in theory only – this despite the fact that he is clearly familiar with Wyclif, discussing and criticizing his views elsewhere. Although many of the arguments he lists *quod sic* and *quod non* are to be found in other 14th and early 15th century authors (though in linguistically quite different forms), we have no positive evidence that Sharpe had their works in front of him when he wrote his *Quaestio super universalia*. It seems rather that he draws on a whole repertoire of arguments, examples, questions, and opinions on universals that were in general circulation at Oxford during the time and which appears to have been largely drawn from the works of the most famous English masters of the 14th century: Scotus, Ockham, Burley, and Wyclif himself.
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      ## 4. The Theory of Meaning
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      The basic idea of the standard medieval realist theories of meaning was that semantic classifications derive from ontological differences among the signified objects. So, according to this approach, the simple expressions of our language (i.e., names) are distinct from the complex expressions (i.e., sentences) by virtue of their own *significata*, that is by virtue of the different kinds of objects they make known. In fact, the objects signified by complex expressions are compounds of (at least) two of the objects signified by simple expressions and a relation of identity (or non-identity, in the case of a true negative sentence), while a simple object is an item in a category (i.e., either a singular substance, or a substantial form, or an accidental form). Furthermore, every simple expression of our language is like a label naming just *one* object in the world, but whereas proper names and singular expressions label individuals (i.e., token-objects), general terms label common natures (i.e., type-objects), which are the main metaphysical constituents of the set of individuals instantiating them. For instance, the general expression ‘man’ labels and can stand for each and every man only because of its primarily signifying the universal form of humanity *qua* being present in each and every man as the main constitutive principle of his essence.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Sharpe rejects the standard realist criteria for the generality (or universality, according to his terminology) of terms, and substantially accepts the sense of nominalist criticisms. In his opinion, to be matched by a common nature really existing in the world is no longer the necessary and sufficient condition for being a general term. Rather, signifying universally (that is, signifying a unitary concept that in turn refers to a multiplicity of things displaying at least a similar mode of being [*QsU*, pp. 129–30]) is a condition for semantic universality of equal importance. He thinks that those terms which signify universally have to be viewed as common, as well as those signifying a common nature existing outside the intellect (*ibid.*, p. 69). Thus, according to Sharpe, there are six different kinds of general expressions, both spoken and written:
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      1. those that universally signify a common nature really existing in the world (*in re*), like the term ‘humanity’;
+      2. those that universally connote a common nature really existing in the world, without directly signifying it, like the term ‘white’ (‘*album*’), which refers to white things and connotes the form of whiteness;
+      3. those that do not refer to anything really existing in the world, but are somehow correlated with a universal concept, like the terms ‘void’ and ‘chimaera’;
+      4. those to which no common nature really existing in the world corresponds, but rather a common transcategorial negative concept, under which a multiplicity of things can be collected, like the term ‘individual’ (the negative concept involved here is the concept of *incommunicabilitas*, or impossibility-of-being-common, which characterizes individuals);
+      5. equivocal terms as such, since they are connected with a multiplicity of different notions;
+      6. demonstrative pronouns, like ‘this (one)’ (‘*hoc*’), when used to supposit for (refer to) a common nature, even though they can signify in a singular manner (*discrete*) only (*ibid.*, pp. 69–71).
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      As is evident, Sharpe’s analysis of the types of universality for linguistic terms is based on two distinct but compatible criteria: (i) the existence of a common nature directly or indirectly signified by them, and (ii) the universal mode of signifying – the latter being more important than the former. Thus, based on the satisfaction of these two criteria, Sharpe himself reduces the preceding division of the kinds of universality to a threefold partition: (i) terms that signify in a universal mode a common nature existing *in re* and which are thus properly common, such as ‘*homo*’; (ii) terms that signify in a universal mode but do not refer to any common nature *in re* and which are thus common in a less proper way, such as ‘*chimaera*’ and ‘*persona*’; finally, (iii) terms that do not signify in a universal mode and which are thus common in an improper way whenever they refer to a common nature existing *in re* , such as ‘*hoc*’ and other demonstrative pronouns (*QsU*, p. 71).
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      In turn, mental concepts are common in four ways only, corresponding to the first four ways of universality peculiar to spoken (and written) terms, since there are no universal concepts that correspond to demonstrative pronouns or equivocal terms as such (*ibidem*).
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      The fourth kind of general term deserves particular attention, since it is connected with Sharpe’s solution to the question of the semantic and ontological status of terms of second intention like ‘individual’ or ‘singular. This was a highly controversial question in Oxford at the end of the 14ᵗʰ century. The most common explanation was that proposed by Robert Alyngton, a fellow of Queen’s College in the 1380s. According to Alyngton, terms like ‘individual’ have to be considered singular expressions; more precisely they are “range-narrowed” expressions, like ‘this man’, because they identify a singular referent as a member of a given set of individuals. In fact, a term like ‘individual’ presupposes a general concept (that of being), the range of which is narrowed to a unique object among beings by an act of our intellect – to one object that is not common. Sharpe, however, argues that Alyngton’s answer goes against linguistic usage as well as an established fact: if Alyngton were right, then the following argument (which everybody will admit) would be formally incorrect:
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      > | man runs | (*homo currit*) |
+      > | --- | --- |
+      > | and not the universal-man | (*et non homo communis*) |
+      > | therefore, an individual man runs | (*ergo homo singularis currit*) |
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      just like this one:
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      > | man runs | (*homo currit*) |
+      > | --- | --- |
+      > | and not the universal-man | (*et non homo communis*) |
+      > | therefore, Socrates runs | (*ergo Sortes currit*), |
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      since the syntagm ‘an individual man’ (‘*homo singularis*’) would be a singular term standing precisely for one individual, e.g., ‘Socrates’ (‘*Sortes*’). Furthermore, it is a fact that anyone can understand the sentence ‘an individual man runs’ even without knowing the identity of the man who is running – which is required according to Alyngton’s theory. Therefore, Sharpe regarded second intentions of this kind as common ones (*ibid*., pp. 132–33).
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      In this way, Sharpe admits that the nominalist explanation of the universality of signs holds in the particular context of second intentions, implicitly rejecting Alyngton’s reduction of epistemology to ontology, since according to Sharpe’s account the former has its own range and rules partially independent of the latter. Furthermore, he restores the semantic rank that intuitively would be assigned to the ‘individual’-like terms (something Alyngton was unable to do). On the other hand, his defence of realism on the problem of universals is partially invalidated by his qualified acceptance of the nominalist principle of the autonomy of thought in relation to the world. In fact, it is evident that from a semantic and/or epistemological point of view, he can no longer justify the extra-mental reality of universals.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      Like Burley, Sharpe’s semantics lists a third kind of expression between simple and complex expressions: concrete accidental terms (like ‘white’ or ‘father’), whose *significata* are neither simple nor complex objects but something in between. He affirms that concrete accidental terms do not signify simple objects but aggregates composed of a substance and an accidental form. Such aggregates are lacking in numerical unity, and hence do not fall into any of the ten categories, because they are not properly beings (*entia*). For that reason concrete accidental terms, although simple expressions from a merely grammatical point of view, are not names. The two metaphysical components of such aggregates (i.e., substance and accidental form) are related to the concrete accidental term as follows: although the concrete accidental term connotes the accidental form, this is not its direct *significatum,* so that the concrete accidental term can supposit for the substance only. In other words, the concrete accidental terms label substances by means of the accidental forms from which they draw their names, so that they name substances only *qua* bearers (*subiecta*) of a form. This fact accounts for the difference between general names in the category of substance (like ‘man’) and concrete accidental terms. General names in the category of substance are concrete terms as well, but the form they primarily signify is really identical with the substances they label. Therefore, in this case, the name itself of the form can be used as a name of the substance. This obviously implies a slight difference in meaning between abstract and concrete substantial terms, such as ‘humanity’ (‘*humanitas*’) and ‘man’ (‘*homo*’). While ‘humanity’ is not the name of the form considered in its totality, but rather the name only of the essential principle of the form, that is, of the intensional content carried by the term ‘man’, this latter term signifies the substantial form considered as a constitutive element of the reality (*esse*) of a certain set of individual substances that instantiate it. As a consequence, according to Sharpe, ‘man is humanity’ (‘*homo est humanitas*’) is a well formed and true sentence, since both subject and predicate signify the same entity, but ‘white is whiteness’ (‘*album est albedo*’) is not, since ‘white’ does not directly signify the accidental form, but only the substrate in which it inheres, as bearer of that form, and therefore ‘white’ cannot stand for such a form in any sentence (*ibid*., pp. 71–73).
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ## 5. Universals and Predication
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      The core of Sharpe’s metaphysics lies in his theory of universals. He is a realist, since he defends the extra-mental existence of universals (*ibid*., p. 68), but he is open to nominalism, as he thinks that there is not a close correspondence between the elements and structures of language and elements and structures of the world. His approach to the whole matter can be defined as “analytical,” since he seems to believe that (i) any ontology has to be built up in relation to the resolution of semantic problems, (ii) any philosophical explanation of reality has to be preceded by a semantic explanation of the function of our language.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Sharpe wrote the most interesting treatise on universals of the late Middle Ages other than those of Wyclif and Paul of Venice, arguing about logic and metaphysics, explaining his positions on being and essence, universals, singulars, predication, identity and distinction, and truth and falsity. His tract is very similar to that of Paul of Venice with regard to many metaphysical theses supported, the structure of the work, the textual material utilized, and the opinions discussed. In his *Quaestio super universalia* Sharpe lists eight opinions on universals (Buridan, Ockham, Auriol, Albert the Great and Giles of Rome, Plato, Duns Scotus, Burley, and Wyclif) and so does Paul of Venice in his *Quaestio de universalibus* (Ockham, Thomas Aquinas and Giles of Rome, Auriol, Burley, Wyclif, Plato, and two other unidentified realist authors). Yet, there are some noteworthy doctrinal differences between them and the other Oxford realists, which testify to Sharpe’s (and Paul of Venice’s) independence of thought.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      The starting point of Sharpe’s theory of universals and predication (as well as identity and distinction) is the theory worked out by Wyclif and some of his Oxford successors, such as Alyngton and Penbygull. Like Duns Scotus and Walter Burley, Wyclif held that universals *in re* (or formal universals) exist outside our minds *in actu* and not *in potentia*, as moderate realists thought. On the other hand, unlike Burley, he maintained that they are really identical with their own individuals, thus accepting the very core of the traditional realist account of the relationship between universals and individuals. According to Wyclif, since (1) universals and individuals share the same empirical reality, which is that of individuals, but (2) have opposite constituent principles, when properly considered as universals and individuals, they are really the same but formally distinct. On his view, because of this formal distinction, not everything predicable of individuals can be directly predicated of universals and *vice versa*, although an indirect predication is always possible. As a consequence, Wyclif distinguished three main non-mutually exclusive types of predication (which he conceives as a real relation holding between metaphysical entities), each more general than the preceding one (or ones). In the *Tractatus de universalibus* they are the following: formal predication, predication by essence, and habitudinal predication (see the entry on Wyclif, §2.3). Since habitudinal predication does not require any kind of identity between the entity signified by the subject-term and the entity signified by the predicate-term, but formal predication and essential predication do, the ontological presuppositions of the most general type of predication, implied by the other types, are completely different from those of the other two.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      The final result of this way of approaching the problem of universals was a system of intensional logic where (1) the copula of (almost) any standard (philosophical) proposition, such as ‘Socrates is white’ or ‘man is an animal’, has to be interpreted in terms of degrees of identity between the things signified by the subject-term and the predicate-term; and (2) individuals and universals, considered *qua* beings, appear to be a sort of hypostatization of intensions, since they are what is signified by proper and common nouns respectively.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      Sharpe shares the metaphysical view and principles of Wyclif’s philosophical system. His position on the problem of universals can be summed up as follows.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      1. We can count the following entities as universal: (1.1) those causes that have a multiplicity of effects; (1.2) ideas in God; (1.3) the universal quantifier (*syncategorema universaliter distributivum*); (1.4) universal propositions, both affirmative and negative; (1.5) universal forms, or real universals ; and (1.6) universal signs, both mental and spoken (or written) (*QsU*., pp. 49–50).
+      2. Real universals are naturally apt to be present in many things as their main metaphysical components.
+      3. Real universals exist *in actu* outside the mind, since their being is the same as the being of individuals, which is actual.
+      4. Mental universals are partially caused in our mind by the common natures existing outside.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      As the being of real universals coincides with the being of their corresponding individuals, real universals can be said to be everlasting because of the continuous succession of their individuals, and also really identical with them. But universals and individuals are also formally different from each other, as they have distinct constitutive formal principles, and therefore different properties (*ibid*., pp. 91–92). The most important among universal signs are mental universals, which are both the acts of intellection through which our mind grasps the nature of universal forms and the concepts through which it connects general names with the things to which they refer (*ibid*., pp. 68–69).
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      The description of the relationship between universals and individuals in terms of real identity and formal distinction entails (i) that not all that is predicated of individuals can be *directly* (*formaliter*) attributed to their universals and *vice versa*, but (ii) that all that is predicated of individuals has to be in some way or another attributed to universals and *vice versa*. Therefore, a redefinition of the standard kinds of predication was required.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Like Alyngton, Penbygull, Tarteys, and Whelpdale, Sharpe modifies Wyclif’s theory. Agreeing with Alyngton, but against the others, he divides real predication into formal predication (*praedicatio formalis*) and predication by essence (*praedicatio essentialis vel secundum essentiam*), removing habitudinal predication, as it is not homogeneous with the first two. According to him, predication by essence (1) shows a partial identity between the subject-thing and the predicate-thing, which share some metaphysical component parts, and (2.1) does not require (or even (2.2) excludes) that the form connoted by the predicate-term is directly present in the essence signified by the subject-term. ‘(What is) singular is (what is) universal’ (‘*singulare est universale*’) is an instance of predication by essence. Formal predication, on the contrary, requires such a direct presence. ‘Man is an animal’ and ‘man is white’ are instances of formal predication (*ibid*., pp. 89–91).
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      As is evident from his formulations, Sharpe does not explicitly divide formal predication into formal essential and formal accidental predication, and offers two different readings of the distinction between formal predication and predication by essence. According to the common view, predication by essence is more general than formal predication. As a consequence, in the standard theory of the Oxford realists, formal predication is a sub-type of predication by essence. Sharpe introduces another interpretation, according to which the two kinds of predication at issue are complementary and mutually exclusive. This happens when predication by essence excludes the form connoted by the predicate-term being directly present in the essence signified by the subject-term (*ibid*., p. 91). Although, according to the latter reading, formal predication is not a kind of predication by essence, this reading nevertheless implies an interpretation of the ‘is’ of predication in terms of identity and, therefore, a new definition of the pair of antonymous notions of identity and difference (or distinction).
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      ## 6. Identity, Distinction, and Individuation
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Sharpe’s theory of identity and distinction combines in an original way those of Duns Scotus, Wyclif, and Penbygull.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Penbygull (*De universalibus*, pp. 189–90) had (1) distinguished between the notion of non-identity and that of difference (or distinction); (2) denied that the notion of difference implies that of non-identity; (3) affirmed that the two notions of difference and real identity are logically compatible, thus admitting that (3.1) there are degrees in distinction, and (3.2) that the degrees of distinction between two things can be read as the inverse measure of their (partial) identity; and (4) suggested the following definitions for these three notions, that is non-identity, difference (or distinction), and (absolute) identity: (4.1) an entity *a* is non-identical with an entity *b* if and only if there is not any form *F* such that *F* is present in the same way in *a* and *b*; (4.2) an entity *a* differs from an entity *b* if and only if there is at least a form *F* such that *F* is directly present in *a* but not in *b*, or *vice versa*; (4.3) an entity *a* is absolutely identical with an entity *b* if and only if for any form *F*, it is the case that *F* is present in *a* if and only if it is present in the same way in *b* (see the entry on William Penbygull, §3).
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      Like Penbygull, Sharpe considers identity and distinction (or difference) as the two possible inverse measures of the coincidence of the metaphysical components of two given entities (*QsU*., p. 92). Moreover, he speaks of formal and real (or essential) identity, and formal and real (or essential) distinction (or difference), and states that formal identity is stronger than real (or essential) identity, since the former entails the latter, while, on the contrary, real difference is stronger than formal distinction, since the latter is entailed by the former (*ibid*., pp. 91–92).
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      Finally, he admits degrees in formal distinction, as he recognizes two different types, the first of which comes very close to that proposed by Scotus in his *Ordinatio*, while the second is drawn from Wyclif’s *Tractatus de universalibus* (ch. 4, pp. 90–92). The first type of formal distinction holds among things such as the intellective faculties of the soul, whereas the second holds between such things as the essence of the soul and its intellective faculties and a species and its individuals (*Quaestio super libros De anima*, q. 2, fol. 236r-v).
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      The two different sets of conditions for the formal distinction can be formalized as follows:
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      1. two entities *x* and *y* are formally distinct if and only if (i) both of them are constitutive elements of the same reality, but (ii) neither of them can exist by itself, or (iii) is part of the definite description of the other.
+      2. two entities *x* and *y* are formally distinct if and only if (i) there is at least one *z* such that *z* is predicated of *x* and not of *y*, or *vice versa*, but (ii) *x* and *y* are really identical, as one is directly predicated of the other *qua* its main intrinsic metaphysical component.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Accordingly, real identity, which is presupposed by the formal distinction, has to be defined in these terms (*QsU*, p. 98):
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      > *a* is really identical with *b* if and only if both are constitutive elements, or material parts, of the same reality, or one of them is directly predicated of the other *qua* its superior in the categorial line (that is, *qua* its main intrinsic metaphysical component).
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      As a result, Sharpe’s world consists of finite beings (that is, “things” like men, horses, stones etc.), really existing outside the mind, made up of an individual substance and a host of formal entities (common substantial natures and accidental forms, both universal and singular) existing in it and through it, since none of these formal entities can exist by themselves. They are real only insofar as they constitute individual substances or are present in individual substances *qua* their properties. Specific substantial natures (or essences) can be conceived from two points of view: intensionally (*in abstracto*) and extensionally (*in concreto*). Viewed intensionally, specific substantial natures are nothing but the set of essential properties that individual substances are to instantiate, but considered without any reference to such instantiations. Viewed extensionally, specific substantial natures are those same forms conceived of as instantiated by at least one singular substance. For instance, human nature considered intensionally is humanity *(humanitas*), extensionally the universal-man (*homo in communi*). Humanity is properly a form, or more accurately, the essential principle of a substantial form, that is, something existentially incomplete and dependent; the universal-man is this same form considered according to its own mode of being, and therefore as a sort of existentially autonomous and independent entity (*ibid*., p 102). Consequently, like Wyclif, Sharpe holds that a formal universal actually exists outside the mind if at least one individual instantiates it, so that without individuals, common natures (or essences) are not really universals (*ibid*., pp. 105–06). This means that the relationship between common natures and singulars is ultimately based on individuation, since no actual universality and no instantiation is possible without individuation. On this subject Sharpe seems to accept the essentials of Aquinas’ doctrine, since he affirms that (i) the universal-man is compounded of both common matter and form and that (ii) matter as affected by dimensive quantity and other accidental properties (*materia quanta et accidentibus substrata*) is the very principle of individuation, since it causes the passage from the level of universals to that of singulars (*ibid*., pp. 137–39). Thus, according to Sharpe, explaining individuation means explaining how a multiplicity of individuals can be obtained from a single specific nature, the problem at issue being the dialectical development from one to many and not the passage from abstract to concrete.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      Sharpe’s world counts many types of entities: universal and individual substances and accidents (like *homo in communi* and Socrates, and like the general form of whiteness and this particular form of whiteness), universal abstract substantial essences (like humanity), universal and individual substantial forms (like the human soul in general and the soul of Socrates), general and individual differences (like the universal-rationality and the rationality proper to Socrates) – each one characterized by its own mode of being. This world is certainly very complex, but its complexity is exceeded by complexity in language. Sharpe denies that there is a close correspondence between language and the world, as he believes that our thought is caused by the world, and our language by our thought, and the relation between causes and effects is a relation of one to many.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      ## 7. Psychology and Theory of Knowledge
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      The sources of Sharpe’s psychological and epistemological theories are St. Thomas, Duns Scotus, and Ockham, although the latter is chiefly a polemical source, as Kennedy 1969 pointed out (pp. 253 and 270). Like Aquinas, Sharpe
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      - maintains that the intellectual soul is the immediate form of the human body, so that the whole being of the latter totally depends on the former, although souls are individuated by bodies (*In De anima*, fols. 217v-218r), and
+      - claims that each man has his own intellect, arguing against Averroes’ thesis of the unicity and separate character of the passive intellect for the whole human species (*ibid*., fols. 210r-212v).
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      Like Duns Scotus, Sharpe thinks there is not a real distinction between the soul and its intellective faculties (i.e., the active intellect, the passive intellect, and the will) or among the intellective faculties themselves, but only a formal distinction. On the other hand, the soul’s corporeal powers (*potentiae incorporatae*), which depend on bodily organs for their operations, are really distinct from the soul and from each other (*ibid*., fol. 236v).
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      Like Aquinas and Duns Scotus, and against Ockham, Sharpe affirms that intelligible species are required for intellection (*ibid*., fol. 244r). The main arguments he uses in favor of this thesis are the following:
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      1. Our mind’s objects of intellection are the universal essences or common natures. But they cannot be present themselves to the mind. Therefore, some sign of them, that is, the intelligible species, has to be directly present in the intellect.
+      2. A universal principle of intellection is necessary in order to understand a universal object, like a common nature. The phantasm is particular, since it is the mental representation of a singular object. Therefore a universal species, abstracted from the phantasm, is required.
+      3. If there were no species, nothing would be retained by the intellect after an act of intellection. Therefore we could not understand each other, or understand more easily the second time, since there would be no objects for our memory (*ibid*., fols. 239v-240v).
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Finally, like Duns Scotus and Ockham, and against St. Thomas, Sharpe states that our intellect can know perfectly even individual material things (*ibid*., fol. 253r). What is more, it can know immaterial beings as well, since the most general and proper object of our intellect is being in all its amplitude (*ibid*., fol. 253v). Sharpe here distinguishes perfect knowledge from complete knowledge. For a perfect knowledge of something it is sufficient that our intellect is able to single out the object in question against others by means of a proper concept. For a complete knowledge of something it is necessary that our intellect is able to list all the properties, both substantial and accidental, of the object at issue. It is therefore evident that we can have a perfect knowledge of something without completely knowing it, as is the case with individual material things and immaterial beings (*ibid*., fol. 254r-v).
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      ## 8. Natural Philosophy: the Commentary on Aristotle’s *Physics*
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      Sharpe’s commentary on Aristotle’s *Physics* (ms. Oxford, New College 238, fols. 53r-208v) contains nine large questions, one for each book of Aristotle’s work, except for the fourth book to which two questions are dedicated, one concerning place and one time. Each question is divided into two main parts: in the first, Sharpe lists a series of arguments against the question itself (*contra questionem in se*), namely, in general, for supporting a negative answer to the main question. In the second part, he expounds his own opinion and refutes the arguments *quod non*.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      The first question (fols. 53r-88v) is whether, from the point of view of the natural philosophy, material things have three constitutive principles only, that is: matter, form, and privation, or not. Sharpe’s answer is affirmative, but he points out that the constitutive principles of material things are three by species and not in number. Indeed, material things have more than three principles in number, but each of them is reducible to matter, or form, or privation.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      The second question (fols. 89r-128v) is whether there are four kinds of causes in the natural world or not. According to Sharpe, the efficient, formal, material, and final causes alone are properly causes, while chance and fortune are accidental, and therefore improper (*per accidens*) causes.
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      The third question (fols. 128v-143v) is whether motion (*motus*), which is an imperfect act of those beings that are *in potentia* to something, is the same item *in essentia* as action and passion. Before answering, Sharpe remarks that we can consider action and passion in two ways: either materially or formally. In the first case, the answer is affirmative, since action and passion share the physical reality of the motion itself. But formally conceived, action and passion are different from each other and from the motion, since they are distinct relational properties (*respectus*) of the motion.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      The fourth question (fols. 144r-160r) is whether the immobile place of a certain body is the ultimate surface of what that contains that body or not. According to Sharpe, it is false that the last surface of the containing body is absolutely immobile, as only the ninth and tenth heavens are such.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      The fifth question (fols. 160v-175r), but second related to the fourth book of Aristotle’s *Physics*, is whether time is the measure of change in respect of the before and after. Sharpe’s answer is affirmative, as always, but he specifies that this is not properly the definition of time, but rather the description of its nature. In his view, it follows from this description that (1) time measures mutable things only, but not immutable; and (2) time is closely connected exclusively with that kind of motion which entails a before and an after.
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      The sixth question (fols. 175r-185r) is whether continuity and contrariety of motion (*continuitas et contrarietas motuum*) are present only in the categories of quantity, quality, and where. Sharpe thinks it is so, as only these three categories are properly characterized by the existence in them of distance. As a matter of fact, in these three categories are present sequences of items such that in order to move from one term to the other of the series, it is necessary to pass through intermediate terms.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      The seventh question (fols. 185v-195r) is whether continuous physical magnitudes are compounded by atomic elements not further divisible. Sharpe’s answer is negative, for continuous magnitudes are divisible ad infinitum by definition.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      The eight question (195v-201r) is whether, in order to compare two motions belonging to the same genus (of motion), it is necessary that the mover and the mobile be simultaneous. Sharpe’s answer is affirmative, but he specifies that it is not always possible to compare two motions belonging to the same genus. This is possible only when the motions that have to be compared belong to the same kind (*species specialissima*).
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      The last question (fols 201v-208v) is whether the perpetual motion of the heavens depends on the prime mover or not. Sharpe’s answer is affirmative and very short. Almost all of the second part of the question deals with the problem of the nature and properties of the prime mover.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: TBD
+    step2: TBD
