@@ -1239,68 +1239,90 @@ segments:
     kind: body
     source: |-
       ### 7.1 The Role of Causation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 因果的作用
+    step2: |-
+      ### 7.1 因果的作用
   - id: 152
     kind: body
     source: |-
       One issue concerns the role of causal information in scientific explanation. All of the traditional models considered above attempt to capture causal explanations, although some attempt to capture non-causal explanations as well. It is a natural thought (endorsed by many) that many of the difficulties faced by the models described above derive at least in part from their reliance on inadequate treatments of causation.^{[}[^note-15]^{]} The problems of explanatory asymmetries and explanatory irrelevance described in Section 2.5 seem to show that the holding of a law between *C* and *E* is not sufficient for *C* to cause *E*; hence not a sufficient condition for *C* to figure in an explanation of *E*. If the argument of section 3.3 is correct, a fundamental problem with the *SR* model is that statistical relevance information is insufficient to fully capture causal information in the sense that different causal structures can be consistent with the same information about statistical relevance relationships. Similarly, the *CM* model faces the difficulty that information about causal processes and interactions is also insufficient to fully capture causal relevance relations and that there is a range of cases in which causal relationships hold between *C* and *E* (and hence in which *C* figures in an explanation of *E*) although there is no connecting causal process between *C* and *E*. Finally, a fundamental problem with unificationist models is that the content of our causal judgments does not seem to fall out of our efforts at unification, at least when unification is understood along the lines advocated by Kitcher. For example, as discussed above, considerations having to do with unification do not by themselves explain why it is appropriate to explain effects in terms of their causes rather than vice-versa.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个问题关涉因果信息在科学解释中的作用。上文考察的所有传统模型都试图捕捉因果解释，尽管其中一些也试图捕捉非因果解释。一个自然的想法（许多人赞同）是：上述模型面临的许多困难，至少部分源于它们依赖对因果的不充分处理。^{[}[^note-15]^{]} 第 2.5 节所述的解释不对称与解释不相关问题似乎表明：*C* 与 *E* 之间存在律，并不足以使 *C* 引起 *E*；故也不是 *C* 出现在对 *E* 的解释中的充分条件。若第 3.3 节的论证正确，*SR* 模型的一个根本问题是：统计相关性信息不足以完全捕捉因果信息——不同因果结构可以与同一组统计相关性关系信息相容。类似地，*CM* 模型面临的困难是：关于因果过程与相互作用的信息同样不足以完全捕捉因果相关性关系；且存在一大批情形，其中 *C* 与 *E* 之间有因果关系（故 *C* 出现在对 *E* 的解释中），尽管 *C* 与 *E* 之间没有联结性因果过程。最后，统一论模型的一个根本问题是：我们因果判断的内容似乎并不从统一努力中掉出，至少当统一按基切尔所主张的路线来理解时如此。例如，如上所述，与统一有关的考量本身并不能解释：为何用原因解释结果是恰当的，而非相反。
+    step2: |-
+      有一问题关涉因果信息在科学解释中的作用。上文所考诸传统模型皆求捕捉因果解释（其中一些亦求捕捉非因果解释）。一个自然的想法（许多人持之）是：这些模型的许多困难，至少部分源于其因果处理之不足。^{[}[^note-15]^{]} 第 2.5 节的不对称与不相关问题似乎表明：*C* 与 *E* 之间有律，不足以使 *C* 引起 *E*，故亦非 *C* 入于 *E* 之解释的充分条件。若第 3.3 节论证为真，*SR* 模型的根本问题在：统计相关性信息不足以尽摄因果信息——不同因果结构可与同一统计相关性信息相容。*CM* 模型的困难类似：因果过程与相互作用的信息亦不足以尽摄因果相关性；且许多情形中 *C* 与 *E* 之间有因果关系（故 *C* 入于 *E* 之解释），却无联结性因果过程。统一论模型则有一根本问题：我们因果判断的内容似不从统一努力而来——至少按基切尔式的统一如此。例如如上所说，统一考量本身说不了为何宜以因释果、而非相反。
   - id: 153
     kind: body
     source: |-
       These observations suggest that insofar as we are interested in causal forms of scientific explanation, progress may require more attention to the notion of causation and a more thorough-going integration of discussions of explanation with the burgeoning literature on causation, both within and outside of philosophy.[^note-16] As recounted in the entry on causal approaches to scientific explanation, a good deal of more recent work has moved in this direction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些观察提示：只要我们关心因果形式的科学解释，要取得进展，也许就需要更多关注因果概念，并把解释讨论与哲学内外蓬勃发展的因果文献作更彻底的整合。[^note-16] 如「科学解释的因果进路」条目所述，晚近大量工作已朝这一方向推进。
+    step2: |-
+      这些观察提示：只要关心因果形式的科学解释，求进展便须更多着力因果概念，并使解释讨论与哲学内外方兴的因果文献更彻底地整合。[^note-16] 如「科学解释的因果进路」条目所述，晚近大量工作正循此而行。
   - id: 154
     kind: body
     source: |-
       Does this mean that a focus on causation should entirely replace the project of developing models of explanation or that philosophers should stop talking about explanation and instead talk just about causation? Despite the apparent centrality of causation to many explanations, it is arguable that completely subsuming the latter into the former loses connections with some important issues. For one thing, causal claims themselves seem to vary greatly in the extent to which they are explanatorily deep or illuminating. Causal claims found in Newtonian mechanics seem deeper or more satisfying from the point of view of explanation than causal claims of “the rock broke the window” variety. It is usually supposed that such differences are connected to other features—for example to how general, stable, and coherent with background knowledge a causal claim is. However, notions like “generality” are vague and not all forms of generality seem to be connected to explanatory goodness. So even if one focuses only on causal explanation, there remains the important project of trying to understand better what sorts of distinctions among causal claims matter for goodness in explanation. To the extent this is so, the kinds of concerns that have animated traditional treatments of explanation don’t seem to be entirely subsumable into standard accounts of causation, which have tended to focus largely on the project of distinguishing causal from non-causal relationships rather than on the features that make causal relationships “good” for purposes of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是否意味着对因果的关注应完全取代发展解释模型的工程，或哲学家应停止谈论解释而只谈因果？尽管因果对许多解释具有显见的中心地位，但可以说，把后者完全归入前者会失去与某些重要问题的联系。一方面，因果主张本身在解释深度或启发性上的差异似乎很大。牛顿力学中的因果主张，从解释的观点看，似乎比“石头打碎了窗户”那类因果主张更深、更令人满意。人们通常假定，这类差别与其他特征相连——例如一个因果主张有多一般、多稳定、与背景知识多一致。然而，“一般性”这类概念是含糊的，且并非一切形式的一般性都与解释的好坏相连。因此，即便只关注因果解释，仍有一个重要工程：更好地理解因果主张之间的哪些区分关乎解释之好坏。就此而言，曾经驱动传统解释处理的那些关切，似乎并不能完全归入标准的因果说明——后者大抵聚焦于区分因果与非因果关系这一工程，而非聚焦于使因果关系在解释上“好”的那些特征。
+    step2: |-
+      这是否意味着对因果的关注应全然取代解释建模，或哲学家不再谈解释、只谈因果？因果对许多解释固然居显要位置，但可以说：以后者全然并入前者，会失去与若干重要问题的联系。一方面，因果主张本身在解释深度、启发性上差异甚大：牛顿力学中的因果主张，看来比“石头打碎了窗户”一类更深、更令人满意。人们通常假定此类差别系于其他特征——如主张有多一般、多稳定、与背景知识多相合。然而“一般性”这类概念含糊，且并非一切一般性都与解释之好坏相连。故即便只论因果解释，仍有一项要务：弄清因果主张间的哪些区分关乎解释之好坏。就此而言，驱动传统解释处理的关切，并不能尽归入标准因果说明——后者大抵只管区分因果与非因果，而少问什么使因果关系在解释上“好”。
   - id: 155
     kind: body
     source: |-
       Another important question, motivated by the above observations about the role of causation in explanation, has to do with whether there are forms of why-explanation that are non-causal. If so, how important are these are in science and what is their structure? Hempel seems to have thought of causal explanations simply as those DN explanations that appeal to causal laws which he regarded as a proper subset of all laws. Thus, on his view, causal and non-causal explanations share a common structure and although there are non-causal explanations in the sense of explanations that do not appeal to causal laws, there is no need for a distinct account of non-causal explanation. Kitcher’s unificationist model was also intended to apply to both causal and non-causal explanations such as unifying argument patterns in linguistics. More recently, there has been a great upsurge of interest in whether there are non-causal forms of explanation, with some claiming they are ubiquitous in science (e.g., Lange 2017, Reutlinger & Saatsi 2018, Ross 2025)[^lange-2017][^reutlinger-2018][^ross-2025]. If there are such explanations, this raises the issue of what distinguishes them from causal explanations and whether there is some overarching theory that subsumes both causal and non-causal explanations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由上面对因果在解释中作用的观察引发另一个重要问题：是否存在非因果形式的“为何”解释？若有，它们在科学中有多重要、结构如何？亨佩尔似乎把因果解释仅仅看作那些诉诸因果律的 *DN* 解释——他把因果律视为一切律的一个真子集。因此，按他的看法，因果解释与非因果解释共享同一结构；虽然存在不诉诸因果律的意义上的非因果解释，却无需一个关于非因果解释的专门说明。基切尔的统一论模型也意在同时适用于因果与非因果解释，如语言学中的统一论证模式。较晚近，对是否存在非因果解释形式的兴趣大为高涨，有人声称它们在科学中无处不在（如 Lange 2017, Reutlinger & Saatsi 2018, Ross 2025）[^lange-2017][^reutlinger-2018][^ross-2025]。若有这类解释，便提出这样的问题：它们与因果解释如何区分？是否存在某个包摄因果与非因果解释的总括理论？
+    step2: |-
+      上面对因果作用的观察引发另一要问：有无非因果形式的“为何”解释？若有，其在科学中地位如何、结构如何？亨佩尔似乎把因果解释仅视作诉诸因果律的 *DN* 解释——因果律被看作一切律的真子集。故依他，因果与非因果解释同构；虽有不诉诸因果律的非因果解释，却无需为非因果解释另立一说。基切尔的统一论模型亦兼适用于因果与非因果解释（如语言学中的统一论证模式）。晚近，非因果解释之有无顿成显学，有人称其在科学中无处不在（Lange 2017, Reutlinger & Saatsi 2018, Ross 2025）[^lange-2017][^reutlinger-2018][^ross-2025]。若有此类解释，便须问：其与因果解释如何相分？有无一个兼摄二者的总括理论？
   - id: 156
     kind: body
     source: |-
       Put differently the focus on the role of causation suggested by some of the limitations in the accounts described has engendered two quite different responses in recent work on explanation. One is that more satisfactory accounts of explanation require a better understanding of causation. The other, which can be thought of as a sort of reaction to this emphasis on causation, is that a focus on non-causal forms of explanation is a promising direction of research. Both of these have been pursued vigorously in post-twentieth-century work on explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      换句话说，上文诸说明的某些局限所提示的对因果作用的关注，在晚近解释研究中引起了两种颇不相同的回应。其一是：更令人满意的解释说明需要对因果有更好的理解。其二可以看作对这一因果强调的某种反动：聚焦于非因果解释形式是一个有前景的研究方向。二者在 20 世纪之后的解释研究中都得到了有力的推进。
+    step2: |-
+      换言之，上文诸说明的局限所提示的因果关注，在晚近解释研究中引出两种迥异回应：一曰，更满意的解释说明须更懂因果；二曰——可视作对此因果强调之反动——非因果解释是有前景的方向。二者在 20 世纪后的解释研究中皆获大力推进。
   - id: 157
     kind: body
     source: |-
       ### 7.2 A Single Model of Explanation?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 单一的解释模型？
+    step2: |-
+      ### 7.2 单一的解释模型？
   - id: 158
     kind: body
     source: |-
       All of the accounts surveyed above are “monistic” in the sense that they assume that it is possible to construct a single model of explanation which captures all varieties of this notion and which holds for explanations across the various sciences, as well as (it is often assumed) ordinary life contexts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上文考察的所有说明都是“一元论”的，其含义是：它们假定有可能构造一个单一的解释模型，把握这一概念的所有变种，并适用于各门科学的解释，以及（常被假定）日常生活的语境。
+    step2: |-
+      上文所考诸说皆“一元”：假定可构造单一解释模型，兼摄此概念诸变体，横贯诸科学之解释，乃至（常被假定）日常生活语境。
   - id: 159
     kind: body
     source: |-
       As noted above, one way in which the attempt to develop a single general model of explanation might fail is that we might conclude that there are causal and non-causal forms of explanation that have little in common. But even putting this possibility aside, another possibility, not well addressed in the accounts surveyed above, is that explanation differs across different areas of science in a way that precludes the development of a single, general model. It is, after all, uncontroversial that explanatory practice—what is accepted as an explanation, how explanatory goals interact with others, what sort of explanatory information is thought to be achievable, discoverable, testable etc.—varies in significant ways across different disciplines. Nonetheless, all of the models of explanation surveyed above are “universalist” in aspiration—they claim that a single, “one size” model of explanation fits all areas of inquiry in so far as these have a legitimate claim to explain. Although the extreme position that explanation in biology or history has nothing interesting in common with explanation in physics seems unappealing, one obvious response to the accounts described above is to develop accounts of explanation that are more sensitive to disciplinary and subject matter differences. Ideally, such models would reveal commonalities across disciplines, but they should also enable us to see why explanatory practice varies as it does across different disciplines and the significance of such variation. For example, biologists, in contrast to physicists, often describe their explanatory goals as the discovery of causal systems that are functional and mechanisms rather than the discovery of laws and in fact a very substantial body of post 2000 work has focused on the elucidation of the concept of a mechanism—again see the entry on causal approaches to scientific explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上所述，发展单一一般解释模型的尝试可能失败的一种方式是：我们可能得出结论：存在几乎无共同之处的因果与非因果解释形式。但即便撇开这种可能，还有一种可能——上文所考察的诸说明未好好处理——是：解释在不同科学领域中彼此不同，其程度排除了单一一般模型的发展。毕竟，无可争议的是：解释实践——什么被接受为解释、解释目标如何与其他目标互动、什么样的解释信息被认为可达成、可发现、可检验等等——在不同学科之间以重要方式变动。尽管如此，上文考察的所有解释模型在志向上一概是“普遍主义”的：它们声称单一、“一刀切”的解释模型适用于一切有其正当解释主张的探究领域。“生物学或历史中的解释与物理学中的解释毫无有趣共同点”这一极端立场似乎不可取，但对上述诸说明的一个显然回应，是发展对学科与题材差异更敏感的解释说明。理想情况下，这类模型会揭示跨学科的共同点，但它们也应使我们能够看出：解释实践为何在不同学科间如此变动，以及这种变动的意义。例如，与物理学家不同，生物学家常把其解释目标描述为发现功能性的因果系统与机制，而非发现律；事实上，2000 年后有一大批工作聚焦于阐明“机制”概念——同样参见「科学解释的因果进路」条目。
+    step2: |-
+      如上所说，单一一般解释模型可能失败的一种方式是：我们或会断言，存在几乎无共同点的因果与非因果解释。但撇开此点，还有一种可能——上文诸说未及细究：解释在各科学领域间彼此不同，以至于单一一般模型无从建立。毕竟无可争议：解释实践——何者被接受为解释、解释目标如何与其他目标互动、何种解释信息被视为可达成、可发现、可检验——在诸学科间差异显著。然而上文诸说一概以“普遍主义”自期：声称单一“一刀切”模型适用于一切有正当解释主张的探究领域。“生物学或历史中的解释与物理学全无相通之处”这一极端立场固不可取，但一个显然回应是：发展对学科与题材差异更敏感的解释说明。理想者既能显出跨学科共同点，也能说明解释实践为何因学科而异、其异意义何在。例如，与物理学家不同，生物学家常把解释目标说成发现功能性的因果系统与机制，而非发现律；2000 年后确有一大批工作聚焦“机制”概念——仍参见「科学解释的因果进路」条目。
   - id: 160
     kind: body
     source: |-
       A closely related point is that at least some of the models described above impose requirements on explanation that may be satisfiable in some domains of inquiry but are either unachievable (in any practically interesting sense) in other domains or, to the extent that they may be achievable, bear no discernible relationship to generally accepted goals of inquiry in those domains. For example, we noted above that many scientists and philosophers hold that there are few if any laws to be discovered in biology and the social and behavioral sciences. If so, models of explanation that assign a central role to laws may not be very illuminating regarding how explanation works in these disciplines. As another example, even if we suppose that the partition into objectively homogeneous reference classes recommended by the *SR* model is an achievable goal in connection with certain quantum mechanical phenomena, it may be that (as suggested above) it is simply not a goal that can be achieved in a non-trivial way in economics and sociology, disciplines in which causal inference from statistics also figures prominently. In such disciplines, it may be that additional statistically relevant partitions of any population or subpopulation of interest will virtually always be possible, so that the activity of finding such partitions is limited only by the costs of gathering additional information. A similar assessment may hold for most applications of the *CM* model to the social sciences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个紧密相关的要点是：上文所述诸模型中，至少有一些对解释施加的要求，可能在某些探究领域中可以满足，但在其他领域中无法实现（就任何实践上有意味的意义而言），或者即便可实现，也与这些领域中公认的一般探究目标没有可辨认的关系。例如，上文提到，许多科学家与哲学家认为，生物学与社会科学、行为科学中几乎没有可发现的律。若如此，把律置于中心地位的解释模型，对于这些学科中解释如何运作，可能启发不多。又如，即便我们假定 *SR* 模型所推荐的、客观齐一的参照类划分在特定量子力学现象上是一个可实现的目标，它也可能（如上文所示）根本不是一个能在经济学与社会学中以非平凡方式实现的目标——而这两个学科中，从统计作因果推断同样居于显要地位。在这些学科中，对任何一个感兴趣的总体或子总体作出额外的统计相关划分，可能几乎总是可能的，故寻找这类划分的活动只受收集额外信息之成本的限制。对 *CM* 模型在社会科学中的大多数应用，或许也可作类似评估。
+    step2: |-
+      密切相关的另一要点：上文诸模型中至少有一些对解释施加的要求，或可在某些领域满足，而在另一些领域无法（就任何实践上有意味的意义）实现；纵或可实现，也与该领域公认探究目标无可辨关系。例如上文说过，许多科学家与哲学家认为生物学与社会科学、行为科学中几乎无可发现之律；若然，以律为中心的解释模型对这些学科中解释如何运作便启发有限。又例如，即便假定 *SR* 模型所荐的客观齐一参照类划分在特定量子现象上是可实现的目标，它也可能（如上文所示）根本无法在经济学与社会学中以非平凡方式实现——而统计因果推断在这两门学科同样居显要。在这些学科中，对任何感兴趣的总体或子总体，额外的统计相关划分几乎总可作出，故寻找划分的活动只受收集额外信息的成本限制。*CM* 模型在社会科学的大多数应用，或可作类似评估。
   - id: 161
     kind: oir
     source: |-
       - “[Theories of Explanation](https://iep.utm.edu/explanat/)”, by G. Randolph Mayes (CSU/Sacramento), in the *Internet Encyclopedia of Philosophy* (edited by J. Fieser)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - “[Theories of Explanation](https://iep.utm.edu/explanat/)”, by G. Randolph Mayes (CSU/Sacramento), in the *Internet Encyclopedia of Philosophy* (edited by J. Fieser)
+    step2: |-
+      - “[Theories of Explanation](https://iep.utm.edu/explanat/)”, by G. Randolph Mayes (CSU/Sacramento), in the *Internet Encyclopedia of Philosophy* (edited by J. Fieser)
   - id: 162
     kind: note
     source: |-
