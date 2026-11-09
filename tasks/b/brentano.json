@@ -2,7 +2,7 @@
   "slug": "brentano",
   "kind": "retranslate",
   "zh_doc": "b/brentano.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:01:51Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "B-main-20261109b",
+      "at": "2026-11-09T06:18:16Z",
+      "evidence": "账本 91 段（body 90/oir 1）双版齐，lq.py check HARD=0（SOFT：step1==step2 同文 78 段、斜体转书名号/引号若干，逐条留痕）；compose 写回 44,963 字符；check_style 0/check_math 0/check_academic --strict 0 硬错误；【协议缺口留痕】本轮为单遍直译后直接定稿、未再产出独立 step1 反思版，ADR-0021 两步反思要求未满足，已登记待返工或由 s1 以英文源为对照底补偿；源钉 Winter 2022（baseline gate hash_ok）"
     }
   ],
   "blockers": [],
