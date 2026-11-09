@@ -94,7 +94,7 @@ segments:
     step1: |-
       这由公式 $\mathtt{@_a p}$ 形式化，其中名项 $\mathtt{a}$ 如上代表“现在是 2021 年 11 月 15 日五点整”，$\mathtt{p}$ 是代表“正在下雨”的普通命题符号。公式 $\mathtt{@_a p}$ 中的 $\mathtt{@_a}$ 部分称为满足算子。一般地，若 $\mathtt{a}$ 是名项、$\mathtt{\phi}$ 是任意公式，则可构造新公式 $\mathtt{@_a\phi}$，称为 *满足陈述*。满足陈述 $\mathtt{@_a\phi}$ 表达：公式 $\mathtt{\phi}$ 相对于一个特定点为真，即名项 $\mathtt{a}$ 所指称的那个点。
     step2: |-
-      这由公式 $\mathtt{@_a p}$ 形式化：其中名项 $\mathtt{a}$ 如上代表“现在是 2021 年 11 月 15 日五点整”，$\mathtt{p}$ 则是代表“正在下雨”的普通命题符号。公式 $\mathtt{@_a p}$ 中的 $\mathtt{@_a}$ 部分即所谓满足算子。一般地，给定名项 $\mathtt{a}$ 与任意公式 $\mathtt{\phi}$，即可构造新公式 $\mathtt{@_a\phi}$，称为 *满足陈述*。该陈述表达：公式 $\mathtt{\phi}$ 相对于某一特定点——即名项 $\mathtt{a}$ 所指称之点——为真。
+      这由公式 $\mathtt{@_a p}$ 形式化：其中名项 $\mathtt{a}$ 如上代表“现在是 2021 年 11 月 15 日五点整”，$\mathtt{p}$ 则是代表“正在下雨”的普通命题符号。公式 $\mathtt{@_a p}$ 中的 $\mathtt{@_a}$ 部分即所谓满足算子。一般地，给定名项 $\mathtt{a}$ 与任意公式 $\mathtt{\phi}$，即可构造新公式 $\mathtt{@_a\phi}$，称为 *满足陈述*。满足陈述 $\mathtt{@_a\phi}$ 表达：公式 $\mathtt{\phi}$ 相对于某一特定点——即名项 $\mathtt{a}$ 所指称之点——为真。
   - id: 12
     kind: body
     source: |-
@@ -203,136 +203,194 @@ segments:
     kind: body
     source: |-
       ## 2. Formal semantics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 形式语义
+    step2: |-
+      ## 2 形式语义
   - id: 24
     kind: body
     source: |-
       The language we consider is the language of ordinary modal logic built over ordinary propositional symbols $\mathtt{p}, \mathtt{q}, \mathtt{r}, …$ as well as nominals $\mathtt{a}, \mathtt{b}, \mathtt{c}, …$ and extended with satisfaction operators and binders. We take the propositional connectives $\mathtt{\wedge}$ and $\mathtt{\neg}$ to be primitive; other propositional connectives are defined as usual. Similarly, we take the modal operator $\mathtt{\Box}$ to be primitive and define the modal operator $\mathtt{\Diamond}$ as $\mathtt{\neg \Box \neg}$. As the name suggests, binders bind nominals and the notions of free and bound occurrences of nominals are defined analogously to first-order logic. Satisfaction operators do not bind nominals, that is, the free nominal occurrences in a formula $\mathtt{@_a \phi}$ are the free nominal occurrences in $\mathtt{\phi}$ together with the occurrence of $\mathtt{a}$. We let $\mathtt{\phi[c/a]}$ be the formula $\mathtt{\phi}$ where the nominal $\mathtt{c}$ has been substituted for all free occurrences of the nominal $\mathtt{a}$. If the nominal $\mathtt{a}$ occurs free in $\mathtt{\phi}$ within the scope of $\mathtt{\forall c}$ or $\mathtt{{\downarrow} c}$, then the bound nominal $\mathtt{c}$ in $\mathtt{\phi}$ is renamed as appropriate.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们所考察的语言，是在普通命题符号 $\mathtt{p}, \mathtt{q}, \mathtt{r}, …$ 以及名项 $\mathtt{a}, \mathtt{b}, \mathtt{c}, …$ 之上建立的普通模态逻辑语言，并加入满足算子与约束子。我们把命题联结词 $\mathtt{\wedge}$ 与 $\mathtt{\neg}$ 作为初始符号；其他命题联结词按通常方式定义。同样，我们把模态算子 $\mathtt{\Box}$ 作为初始符号，并把模态算子 $\mathtt{\Diamond}$ 定义为 $\mathtt{\neg \Box \neg}$。顾名思义，约束子约束名项，名项的自由出现与约束出现概念仿照一阶逻辑定义。满足算子不约束名项，即公式 $\mathtt{@_a \phi}$ 中名项的自由出现，是 $\mathtt{\phi}$ 中名项的自由出现再加上 $\mathtt{a}$ 的出现。我们以 $\mathtt{\phi[c/a]}$ 表示这样的公式 $\mathtt{\phi}$：其中名项 $\mathtt{c}$ 已代入名项 $\mathtt{a}$ 的一切自由出现。若名项 $\mathtt{a}$ 在 $\mathtt{\phi}$ 中于 $\mathtt{\forall c}$ 或 $\mathtt{{\downarrow} c}$ 的辖域内自由出现，则 $\mathtt{\phi}$ 中的约束名项 $\mathtt{c}$ 按需改名。
+    step2: |-
+      本词条考察的语言，是在普通命题符号 $\mathtt{p}, \mathtt{q}, \mathtt{r}, …$ 与名项 $\mathtt{a}, \mathtt{b}, \mathtt{c}, …$ 之上建立的普通模态逻辑语言，再加入满足算子与约束子。命题联结词以 $\mathtt{\wedge}$、$\mathtt{\neg}$ 为初始符号，其余按通常方式定义；模态算子以 $\mathtt{\Box}$ 为初始符号，$\mathtt{\Diamond}$ 则定义为 $\mathtt{\neg \Box \neg}$。约束子约束名项，名项的自由出现与约束出现仿照一阶逻辑界定。满足算子不约束名项：公式 $\mathtt{@_a \phi}$ 中名项的自由出现，即 $\mathtt{\phi}$ 中名项的自由出现加上 $\mathtt{a}$ 的出现。记 $\mathtt{\phi[c/a]}$ 为将名项 $\mathtt{c}$ 代入 $\mathtt{a}$ 的一切自由出现所得的公式 $\mathtt{\phi}$；若 $\mathtt{a}$ 在 $\mathtt{\phi}$ 中于 $\mathtt{\forall c}$ 或 $\mathtt{{\downarrow} c}$ 的辖域内自由出现，则相应改名 $\mathtt{\phi}$ 中的约束名项 $\mathtt{c}$。
   - id: 25
     kind: body
     source: |-
       We now define models and frames. A *model* for hybrid logic is a triple $(W, R, V)$ where $W$ is a non-empty set, $R$ is a binary relation on $W$, and $V$ is a function that assigns an element of the set $\{0,1\}$ to each pair consisting of an element of $W$ and an ordinary propositional symbol. The pair $(W, R)$ is called a *frame*. Thus, models and frames are the same as in ordinary modal logic. The elements of $W$ are called *worlds* and the relation $R$ is called the *accessibility relation*. The model $(W, R, V)$ is said to be *based* on the frame $(W, R)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们现在定义模型与框架。混合逻辑的 *模型* 是三元组 $(W, R, V)$，其中 $W$ 是非空集合，$R$ 是 $W$ 上的二元关系，$V$ 是把集合 $\{0,1\}$ 的元素指派给“$W$ 的元素与普通命题符号”的每一对的函数。对 $(W, R)$ 称为 *框架*。因此，模型与框架同普通模态逻辑一样。$W$ 的元素称为 *世界*，关系 $R$ 称为 *可及关系*。称模型 $(W, R, V)$ *基于* 框架 $(W, R)$。
+    step2: |-
+      现在定义模型与框架。混合逻辑的 *模型* 为三元组 $(W, R, V)$：$W$ 是非空集，$R$ 是 $W$ 上的二元关系，$V$ 是把 $\{0,1\}$ 中的元素指派给每一“$W$ 的元素与普通命题符号”对的函数。对 $(W, R)$ 称为 *框架*。可见模型、框架与普通模态逻辑无异。$W$ 的元素称 *世界*，$R$ 称 *可及关系*；模型 $(W, R, V)$ 称 *基于* 框架 $(W, R)$。
   - id: 26
     kind: body
     source: |-
       An *assignment* for a model $M = (W, R, V)$ is a function $g$ that assigns an element of $W$ to each nominal. An assignment $g'$ is an $\mathtt{a}$*-variant* of $g$ if $g'$ agrees with $g$ on all nominals save possibly $\mathtt{a}$. The relation $M, g, w \vDash \phi$ is defined by induction, where $g$ is an assignment, $w$ is an element of $W$, and $\mathtt{\phi}$ is a formula.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      模型 $M = (W, R, V)$ 的 *指派* 是把 $W$ 的元素指派给每个名项的函数 $g$。若指派 $g'$ 除可能对 $\mathtt{a}$ 外与 $g$ 在所有名项上一致，则称 $g'$ 是 $g$ 的 $\mathtt{a}$ *变体*。关系 $M, g, w \vDash \phi$ 按归纳定义，其中 $g$ 是指派，$w$ 是 $W$ 的元素，$\mathtt{\phi}$ 是公式。
+    step2: |-
+      模型 $M = (W, R, V)$ 的 *指派* 是给每个名项指派 $W$ 中元素的函数 $g$。若 $g'$ 与 $g$ 在除 $\mathtt{a}$ 外的所有名项上一致，则称 $g'$ 为 $g$ 的 $\mathtt{a}$ *变体*。关系 $M, g, w \vDash \phi$ 按归纳定义，其中 $g$ 为指派、$w$ 为 $W$ 的元素、$\mathtt{\phi}$ 为公式。
   - id: 27
     kind: body
     source: |-
       > $M, g, w \vDash \mathtt{p}$ iff $V(w, \mathtt{p})=1$ $M, g, w \vDash \mathtt{a}$ iff $w = g(\mathtt{a})$ $M, g, w \vDash \mathtt{\phi \wedge \psi}$ iff $M, g, w \vDash \mathtt{\phi}$ and $M, g, w \vDash \mathtt{\psi}$ $M, g, w \vDash \mathtt{\neg \phi}$ iff not $M, g, w \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{\Box} \phi$ iff for any element $v$ of $W$ such that $wRv$, it is the case that $M, g, v \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{@_a \phi}$ iff $M, g, g(\mathtt{a}) \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{\forall a\phi}$ iff for any $\mathtt{a}$-variant $g'$ of $g$, it is the case that $M, g', w \vDash \mathtt{\phi}$ $M, g, w \vDash \mathtt{{\downarrow} a\phi}$ iff $M, g', w \vDash \mathtt{\phi}$ where $g'$ is the $\mathtt{a}$-variant of $g$ such that $g'(\mathtt{a}) = w$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $M, g, w \vDash \mathtt{p}$ 当且仅当 $V(w, \mathtt{p})=1$；$M, g, w \vDash \mathtt{a}$ 当且仅当 $w = g(\mathtt{a})$；$M, g, w \vDash \mathtt{\phi \wedge \psi}$ 当且仅当 $M, g, w \vDash \mathtt{\phi}$ 且 $M, g, w \vDash \mathtt{\psi}$；$M, g, w \vDash \mathtt{\neg \phi}$ 当且仅当并非 $M, g, w \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{\Box} \phi$ 当且仅当对 $W$ 中任一满足 $wRv$ 的元素 $v$，都有 $M, g, v \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{@_a \phi}$ 当且仅当 $M, g, g(\mathtt{a}) \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{\forall a\phi}$ 当且仅当对 $g$ 的任一变体 $g'$（关于 $\mathtt{a}$），都有 $M, g', w \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{{\downarrow} a\phi}$ 当且仅当 $M, g', w \vDash \mathtt{\phi}$，其中 $g'$ 是 $g$ 的满足 $g'(\mathtt{a}) = w$ 的 $\mathtt{a}$-变体。
+    step2: |-
+      > $M, g, w \vDash \mathtt{p}$ 当且仅当 $V(w, \mathtt{p})=1$；$M, g, w \vDash \mathtt{a}$ 当且仅当 $w = g(\mathtt{a})$；$M, g, w \vDash \mathtt{\phi \wedge \psi}$ 当且仅当 $M, g, w \vDash \mathtt{\phi}$ 且 $M, g, w \vDash \mathtt{\psi}$；$M, g, w \vDash \mathtt{\neg \phi}$ 当且仅当并非 $M, g, w \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{\Box} \phi$ 当且仅当对 $W$ 中一切满足 $wRv$ 的 $v$，均有 $M, g, v \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{@_a \phi}$ 当且仅当 $M, g, g(\mathtt{a}) \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{\forall a\phi}$ 当且仅当对 $g$ 的任一 $\mathtt{a}$-变体 $g'$，均有 $M, g', w \vDash \mathtt{\phi}$；$M, g, w \vDash \mathtt{{\downarrow} a\phi}$ 当且仅当 $M, g', w \vDash \mathtt{\phi}$，其中 $g'$ 是 $g$ 的满足 $g'(\mathtt{a}) = w$ 的 $\mathtt{a}$-变体。
   - id: 28
     kind: body
     source: |-
       A formula $\mathtt{\phi}$ is said to be *true* at $w$ if $M, g, w \vDash \mathtt{\phi}$; otherwise it is said to be *false* at $w$. By convention $M, g \vDash \mathtt{\phi}$ means $M, g, w \vDash \mathtt{\phi}$ for every element $w$ of $W$ and $M \vDash \mathtt{\phi}$ means $M, g \vDash \mathtt{\phi}$ for every assignment $g$. A formula $\mathtt{\phi}$ is *valid* in a frame if and only if $M \vDash \mathtt{\phi}$ for any model $M$ that is based on the frame in question. A formula $\mathtt{\phi}$ is *valid* in a class of frames $F$ if and only if $ \mathtt{\phi}$ is valid in any frame in $F$. A formula $\mathtt{\phi}$ is *valid* if and only if $\mathtt{\phi}$ is valid in the class of all frames. The definition of satisfiability is left to the reader.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $M, g, w \vDash \mathtt{\phi}$，则称公式 $\mathtt{\phi}$ 在 $w$ 处 *真*，否则称在 $w$ 处 *假*。按约定，$M, g \vDash \mathtt{\phi}$ 表示对 $W$ 的每个元素 $w$ 都有 $M, g, w \vDash \mathtt{\phi}$；$M \vDash \mathtt{\phi}$ 表示对每个指派 $g$ 都有 $M, g \vDash \mathtt{\phi}$。公式 $\mathtt{\phi}$ 在框架中 *有效*，当且仅当对任何基于该框架的模型 $M$ 都有 $M \vDash \mathtt{\phi}$。公式 $\mathtt{\phi}$ 在框架类 $F$ 中 *有效*，当且仅当 $\mathtt{\phi}$ 在 $F$ 的任一框架中都有效。公式 $\mathtt{\phi}$ *有效*，当且仅当它在所有框架构成的类中有效。可满足性的定义留给读者。
+    step2: |-
+      若 $M, g, w \vDash \mathtt{\phi}$，称 $\mathtt{\phi}$ 在 $w$ 处 *真*，否则称在 $w$ 处 *假*。约定 $M, g \vDash \mathtt{\phi}$ 指对 $W$ 中一切 $w$ 均有 $M, g, w \vDash \mathtt{\phi}$；$M \vDash \mathtt{\phi}$ 指对一切指派 $g$ 均有 $M, g \vDash \mathtt{\phi}$。$\mathtt{\phi}$ 在某框架中 *有效*，当且仅当一切基于该框架的模型 $M$ 都满足 $M \vDash \mathtt{\phi}$；$\mathtt{\phi}$ 在框架类 $F$ 中 *有效*，当且仅当 $\mathtt{\phi}$ 在 $F$ 的每个框架中都有效；$\mathtt{\phi}$ *有效*，当且仅当 $\mathtt{\phi}$ 在一切框架的类中有效。可满足性的定义从略。
   - id: 29
     kind: body
     source: |-
       Note that the binder $\mathtt{\downarrow}$ is definable in terms of $\mathtt{\forall}$ as the formula $\mathtt{{\downarrow} a\phi \leftrightarrow \forall a(a \rightarrow \phi)}$ is valid in any frame.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意，约束子 $\mathtt{\downarrow}$ 可由 $\mathtt{\forall}$ 定义，因为公式 $\mathtt{{\downarrow} a\phi \leftrightarrow \forall a(a \rightarrow \phi)}$ 在任何框架中都有效。
+    step2: |-
+      须注意，$\mathtt{\downarrow}$ 约束子可用 $\mathtt{\forall}$ 定义：公式 $\mathtt{{\downarrow} a\phi \leftrightarrow \forall a(a \rightarrow \phi)}$ 在任何框架中皆有效。
   - id: 30
     kind: body
     source: |-
       The fact that hybridizing ordinary modal logic actually does give more expressive power can, for example, be seen by considering the formula $\mathtt{{\downarrow} c\Box \neg c}$. It is straightforward to check that this formula is valid in a frame if and only if the frame is irreflexive. Thus, irreflexivity can be expressed by a hybrid-logical formula, but it is well known that it cannot be expressed by any formula of ordinary modal logic. Irreflexivity can actually be expressed just by adding nominals to ordinary modal logic, namely by the formula $\mathtt{c\rightarrow \Box \neg c}$. Other examples of properties expressible in hybrid logic, but not in ordinary modal logic, are asymmetry (expressed by $\mathtt{c \rightarrow \Box \neg \Diamond c }$), antisymmetry (expressed by $\mathtt{c\rightarrow \Box(\Diamond c \rightarrow c)}$), and universality (expressed by $\mathtt{\Diamond c}$).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      混合化普通模态逻辑确实带来更强表达力，这一点可由公式 $\mathtt{{\downarrow} c\Box \neg c}$ 见出。容易验证，该公式在框架中有效，当且仅当该框架是非自反的。因此，非自反性可由混合逻辑公式表达，而众所周知，它不能由普通模态逻辑的任何公式表达。其实，只需给普通模态逻辑加入名项，即可表达非自反性，即用公式 $\mathtt{c\rightarrow \Box \neg c}$。混合逻辑可表达而普通模态逻辑不能表达的性质，还有不对称性（由 $\mathtt{c \rightarrow \Box \neg \Diamond c }$ 表达）、反对称性（由 $\mathtt{c\rightarrow \Box(\Diamond c \rightarrow c)}$ 表达）与普遍性（由 $\mathtt{\Diamond c}$ 表达）。
+    step2: |-
+      混合化普通模态逻辑确能增强表达力，公式 $\mathtt{{\downarrow} c\Box \neg c}$ 即为一例：不难验证，它在某框架中有效，当且仅当该框架非自反。可见非自反性可由混合逻辑公式表达；而众所周知，普通模态逻辑的任何公式都无从表达它。其实只消给普通模态逻辑加入名项，便可用 $\mathtt{c\rightarrow \Box \neg c}$ 表达非自反性。其他可为混合逻辑表达、却不能为普通模态逻辑表达的性质还有：不对称性（$\mathtt{c \rightarrow \Box \neg \Diamond c }$）、反对称性（$\mathtt{c\rightarrow \Box(\Diamond c \rightarrow c)}$）与普遍性（$\mathtt{\Diamond c}$）。
   - id: 31
     kind: body
     source: |-
       See the handbook chapter Areces and ten Cate (2006) for a detailed account of the syntax and semantics of hybrid logic, as well as many other basic definitions. The syntax and semantics above can be extended in a number of ways, in particular, first-order quantification can be added (of course, an equivalent way to obtain first-order hybrid logic is by adding hybrid-logical machinery to first-order modal logic). See Braüner (2014) for an overview of first-order hybrid logic, see Chapter 6 of Braüner (2011a) for a more detailed account, and see Chapter 7 of Braüner (2011a) for an account of intensional first-order hybrid logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于混合逻辑的语法与语义以及许多其他基本定义，详见手册章节 Areces and ten Cate (2006)。上述语法与语义可以多种方式扩展，尤其可以加入一阶量化（当然，获得一阶混合逻辑的等价方式，是给一阶模态逻辑加入混合逻辑机制）。一阶混合逻辑的概述见 Braüner (2014)，更详细的论述见 Braüner (2011a) 第 6 章，内涵一阶混合逻辑的论述见 Braüner (2011a) 第 7 章。
+    step2: |-
+      混合逻辑的语法、语义及许多基本定义，详见手册章节 Areces and ten Cate (2006)。上述语法与语义可有多种扩展，尤其可加入一阶量化；当然，给一阶模态逻辑加入混合逻辑机制，亦可得等价的一阶混合逻辑。一阶混合逻辑的概览见 Braüner (2014)，详论见 Braüner (2011a) 第 6 章，内涵一阶混合逻辑则见同书第 7 章。
   - id: 32
     kind: body
     source: |-
       ## 3. Translations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 翻译
+    step2: |-
+      ## 3 翻译
   - id: 33
     kind: body
     source: |-
       Hybrid logic can be translated into first-order logic with equality, and (a fragment of) first-order logic with equality can be translated back into (a fragment of) hybrid logic. The first-order language under consideration has a 1-place predicate symbol $\mathtt{p^*}$ corresponding to each ordinary propositional symbol $\mathtt{p}$ of modal logic, a 2-place predicate symbol $\mathtt{R}$, and a 2-place predicate symbol $\mathtt{=}$. Of course, the predicate symbol $\mathtt{p^*}$ will be interpreted such that it relativises the interpretation of the corresponding modal propositional symbol $\mathtt{p}$ to worlds, the predicate symbol $\mathtt{R}$ will be interpreted using the accessibility relation, and the predicate symbol $\mathtt{=}$ will be interpreted using the identity relation on worlds. We let $\mathtt{a}, \mathtt{b}, \mathtt{c},\ldots$ range over first-order variables. The language does not have constant or function symbols. We shall identify first-order variables with nominals of hybrid logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      混合逻辑可以翻译为带等词的一阶逻辑，而（一部分）带等词的一阶逻辑也可以翻译回（一部分）混合逻辑。所考虑的一阶语言有一个 1 元谓词符号 $\mathtt{p^*}$ 对应于模态逻辑的每个普通命题符号 $\mathtt{p}$，一个 2 元谓词符号 $\mathtt{R}$，以及一个 2 元谓词符号 $\mathtt{=}$。当然，谓词符号 $\mathtt{p^*}$ 的解释会使相应的模态命题符号 $\mathtt{p}$ 的解释相对于世界而定，谓词符号 $\mathtt{R}$ 将用可及关系解释，谓词符号 $\mathtt{=}$ 将用世界上的同一关系解释。我们让 $\mathtt{a}, \mathtt{b}, \mathtt{c},\ldots$ 取遍一阶变元。该语言没有常元或函数符号。我们将把一阶变元与混合逻辑的名项等同视之。
+    step2: |-
+      混合逻辑可译为带等词的一阶逻辑，而带等词一阶逻辑的（一部分）亦可回译为混合逻辑的（一部分）。所论一阶语言对模态逻辑的每个普通命题符号 $\mathtt{p}$ 设一个 1 元谓词符号 $\mathtt{p^*}$，另设 2 元谓词符号 $\mathtt{R}$ 与 2 元谓词符号 $\mathtt{=}$。谓词符号 $\mathtt{p^*}$ 的解释，使相应模态命题符号 $\mathtt{p}$ 的解释相对于世界而定；$\mathtt{R}$ 以可及关系解释；$\mathtt{=}$ 以世界间的同一关系解释。以 $\mathtt{a}, \mathtt{b}, \mathtt{c},\ldots$ 取遍一阶变元。该语言不含常元与函数符号。一阶变元与混合逻辑的名项视为同一。
   - id: 34
     kind: body
     source: |-
       We first translate hybrid logic into first-order logic with equality. Given two new first-order variables $\mathtt{a}$ and $\mathtt{b}$, the translations $\mathrm{ST}_\mathtt{a}$ and $\mathrm{ST}_\mathtt{b}$ are defined by mutual recursion. We just give the translation $\mathrm{ST}_\mathtt{a}$.
 
       $$\begin{align*} \mathrm{ST}_\mathtt{a} (\mathtt{p}) &= \mathtt{p^*(a)} \\ \mathrm{ST}_\mathtt{a} (\mathtt{c}) &= \mathtt{a=c} \\ \mathrm{ST}_\mathtt{a} (\mathtt{\phi \wedge \psi}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\phi}) \mathtt{\wedge} \mathrm{ST}_\mathtt{a} (\mathtt{\psi}) \\ \mathrm{ST}_\mathtt{a} (\mathtt{\neg \phi}) &= \mathtt{\neg} \mathrm{ST}_\mathtt{a}(\phi) \\ \mathrm{ST}_\mathtt{a} (\mathtt{\Box \phi}) &= \mathtt{\forall b(R(a, b) \rightarrow} \mathrm{ST}_\mathtt{b} (\mathtt{\phi})\mathtt{)} \\ \mathrm{ST}_\mathtt{a} (\mathtt{@_c \phi}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\phi})[\mathtt{c}/\mathtt{a}] \\ \mathrm{ST}_\mathtt{a} (\mathtt{{\downarrow} c\phi}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\phi})[\mathtt{a}/\mathtt{c}] \\ \mathrm{ST}_\mathtt{a} (\mathtt{\forall c\phi}) &= \mathtt{\forall c }\mathrm{ST}_\mathtt{a} (\mathtt{\phi}) \end{align*}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们先把混合逻辑翻译为带等词的一阶逻辑。给定两个新的一阶变元 $\mathtt{a}$ 与 $\mathtt{b}$，翻译 $\mathrm{ST}_\mathtt{a}$ 与 $\mathrm{ST}_\mathtt{b}$ 由相互递归定义。这里只给出翻译 $\mathrm{ST}_\mathtt{a}$。
+
+      $$\begin{align*} \mathrm{ST}_\mathtt{a} (\mathtt{p}) &= \mathtt{p^*(a)} \\ \mathrm{ST}_\mathtt{a} (\mathtt{c}) &= \mathtt{a=c} \\ \mathrm{ST}_\mathtt{a} (\mathtt{\phi \wedge \psi}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\phi}) \mathtt{\wedge} \mathrm{ST}_\mathtt{a} (\mathtt{\psi}) \\ \mathrm{ST}_\mathtt{a} (\mathtt{\neg \phi}) &= \mathtt{\neg} \mathrm{ST}_\mathtt{a}(\phi) \\ \mathrm{ST}_\mathtt{a} (\mathtt{\Box \phi}) &= \mathtt{\forall b(R(a, b) \rightarrow} \mathrm{ST}_\mathtt{b} (\mathtt{\phi})\mathtt{)} \\ \mathrm{ST}_\mathtt{a} (\mathtt{@_c \phi}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\phi})[\mathtt{c}/\mathtt{a}] \\ \mathrm{ST}_\mathtt{a} (\mathtt{{\downarrow} c\phi}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\phi})[\mathtt{a}/\mathtt{c}] \\ \mathrm{ST}_\mathtt{a} (\mathtt{\forall c\phi}) &= \mathtt{\forall c }\mathrm{ST}_\mathtt{a} (\mathtt{\phi}) \end{align*}$$
+    step2: |-
+      先译混合逻辑为带等词的一阶逻辑。给定两个新一阶变元 $\mathtt{a}$、$\mathtt{b}$，翻译 $\mathrm{ST}_\mathtt{a}$ 与 $\mathrm{ST}_\mathtt{b}$ 相互递归定义；此处仅列 $\mathrm{ST}_\mathtt{a}$。
+
+      $$\begin{align*} \mathrm{ST}_\mathtt{a} (\mathtt{p}) &= \mathtt{p^*(a)} \\ \mathrm{ST}_\mathtt{a} (\mathtt{c}) &= \mathtt{a=c} \\ \mathrm{ST}_\mathtt{a} (\mathtt{\phi \wedge \psi}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\phi}) \mathtt{\wedge} \mathrm{ST}_\mathtt{a} (\mathtt{\psi}) \\ \mathrm{ST}_\mathtt{a} (\mathtt{\neg \phi}) &= \mathtt{\neg} \mathrm{ST}_\mathtt{a}(\phi) \\ \mathrm{ST}_\mathtt{a} (\mathtt{\Box \phi}) &= \mathtt{\forall b(R(a, b) \rightarrow} \mathrm{ST}_\mathtt{b} (\mathtt{\phi})\mathtt{)} \\ \mathrm{ST}_\mathtt{a} (\mathtt{@_c \phi}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\phi})[\mathtt{c}/\mathtt{a}] \\ \mathrm{ST}_\mathtt{a} (\mathtt{{\downarrow} c\phi}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\phi})[\mathtt{a}/\mathtt{c}] \\ \mathrm{ST}_\mathtt{a} (\mathtt{\forall c\phi}) &= \mathtt{\forall c }\mathrm{ST}_\mathtt{a} (\mathtt{\phi}) \end{align*}$$
   - id: 35
     kind: body
     source: |-
       The definition of $\mathrm{ST}_\mathtt{b}$ is obtained by exchanging $\mathtt{a}$ and $\mathtt{b}$. The translation is an extension of the well-known *standard translation* from modal logic into first-order logic. As an example, we demonstrate step by step how the hybrid-logical formula $\mathtt{{\downarrow} c\Box \neg c}$ is translated into a first-order formula:
 
       $$\begin{align*} \mathrm{ST}_\mathtt{a} (\mathtt{{\downarrow} c\Box \neg c}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\Box \neg c})[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow } \mathrm{ST}_\mathtt{b} (\mathtt{\neg c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg } \mathrm{ST}_\mathtt{b} (\mathtt{c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=c)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=a)}. \end{align*}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把 $\mathtt{a}$ 与 $\mathtt{b}$ 互换，即得 $\mathrm{ST}_\mathtt{b}$ 的定义。该翻译是模态逻辑到一阶逻辑的著名 *标准翻译* 的扩展。作为例子，我们逐步演示混合逻辑公式 $\mathtt{{\downarrow} c\Box \neg c}$ 如何翻译为一阶公式：
+
+      $$\begin{align*} \mathrm{ST}_\mathtt{a} (\mathtt{{\downarrow} c\Box \neg c}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\Box \neg c})[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow } \mathrm{ST}_\mathtt{b} (\mathtt{\neg c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg } \mathrm{ST}_\mathtt{b} (\mathtt{c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=c)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=a)}. \end{align*}$$
+    step2: |-
+      $\mathrm{ST}_\mathtt{b}$ 的定义只需互换 $\mathtt{a}$、$\mathtt{b}$。此翻译是模态逻辑到一阶逻辑的著名 *标准翻译* 之扩展。下面逐步演示混合逻辑公式 $\mathtt{{\downarrow} c\Box \neg c}$ 如何译成一阶公式：
+
+      $$\begin{align*} \mathrm{ST}_\mathtt{a} (\mathtt{{\downarrow} c\Box \neg c}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\Box \neg c})[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow } \mathrm{ST}_\mathtt{b} (\mathtt{\neg c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg } \mathrm{ST}_\mathtt{b} (\mathtt{c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=c)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=a)}. \end{align*}$$
   - id: 36
     kind: body
     source: |-
       The resulting first-order formula is equivalent to $\mathtt{\neg R(a, a)}$ which shows that $\mathtt{{\downarrow} c\Box \neg c}$ indeed does correspond to the accessibility relation being irreflexive, cf. above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所得一阶公式等价于 $\mathtt{\neg R(a, a)}$，这表明 $\mathtt{{\downarrow} c\Box \neg c}$ 确实对应于可及关系非自反，参见上文。
+    step2: |-
+      所得一阶公式等价于 $\mathtt{\neg R(a, a)}$，可见 $\mathtt{{\downarrow} c\Box \neg c}$ 确实对应可及关系的非自反性（参上文）。
   - id: 37
     kind: body
     source: |-
       First-order logic with equality can be translated back into hybrid logic by the translation HT given below.
 
       $$\begin{align*} \mathrm{HT}(\mathtt{p^*(a)}) &= \mathtt{@_a p} \\ \mathrm{HT}(\mathtt{R(a, c)}) &= \mathtt{@_a \Diamond c} \\ \mathrm{HT}(\mathtt{a=c}) &= \mathtt{@_a c} \\ \mathrm{HT}(\mathtt{\phi \wedge \psi}) &= \mathrm{HT}(\mathtt{\phi}) \mathtt{\wedge} \mathrm{HT}(\mathtt{\psi}) \\ \mathrm{HT}(\mathtt{\neg \phi}) &= \mathtt{\neg} \mathrm{HT}(\mathtt{\phi}) \\ \mathrm{HT}(\mathtt{\forall a\phi}) &= \mathtt{\forall a} \mathrm{HT}(\mathtt{\phi}) \end{align*}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      带等词的一阶逻辑可借下述翻译 HT 译回混合逻辑。
+
+      $$\begin{align*} \mathrm{HT}(\mathtt{p^*(a)}) &= \mathtt{@_a p} \\ \mathrm{HT}(\mathtt{R(a, c)}) &= \mathtt{@_a \Diamond c} \\ \mathrm{HT}(\mathtt{a=c}) &= \mathtt{@_a c} \\ \mathrm{HT}(\mathtt{\phi \wedge \psi}) &= \mathrm{HT}(\mathtt{\phi}) \mathtt{\wedge} \mathrm{HT}(\mathtt{\psi}) \\ \mathrm{HT}(\mathtt{\neg \phi}) &= \mathtt{\neg} \mathrm{HT}(\mathtt{\phi}) \\ \mathrm{HT}(\mathtt{\forall a\phi}) &= \mathtt{\forall a} \mathrm{HT}(\mathtt{\phi}) \end{align*}$$
+    step2: |-
+      带等词的一阶逻辑可经下述翻译 HT 回译入混合逻辑。
+
+      $$\begin{align*} \mathrm{HT}(\mathtt{p^*(a)}) &= \mathtt{@_a p} \\ \mathrm{HT}(\mathtt{R(a, c)}) &= \mathtt{@_a \Diamond c} \\ \mathrm{HT}(\mathtt{a=c}) &= \mathtt{@_a c} \\ \mathrm{HT}(\mathtt{\phi \wedge \psi}) &= \mathrm{HT}(\mathtt{\phi}) \mathtt{\wedge} \mathrm{HT}(\mathtt{\psi}) \\ \mathrm{HT}(\mathtt{\neg \phi}) &= \mathtt{\neg} \mathrm{HT}(\mathtt{\phi}) \\ \mathrm{HT}(\mathtt{\forall a\phi}) &= \mathtt{\forall a} \mathrm{HT}(\mathtt{\phi}) \end{align*}$$
   - id: 38
     kind: body
     source: |-
       Note that the hybrid-logical binder $\mathtt{\forall}$ is needed. The history of the above mentioned observations goes back to the work of Arthur N. Prior, we shall return to that later.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意，这里需要混合逻辑的约束子 $\mathtt{\forall}$。上述观察的历史可追溯到 Arthur N. Prior 的工作，后文还会回到这一点。
+    step2: |-
+      请注意，此处须借助混合逻辑的 $\mathtt{\forall}$ 约束子。上述观察的历史可上溯至 Arthur N. Prior 的工作，后文将再作讨论。
   - id: 39
     kind: body
     source: |-
       Similarly, what is called the *bounded fragment* of first-order logic can be translated into the hybrid logic but here only the binder $\mathtt{\downarrow}$ is needed, as pointed out in the paper Areces, Blackburn, and Marx (2001). The bounded fragment is the fragment of first-order logic with the property that quantifiers only occur as in the formula $\mathtt{\forall c(R(a, c) \rightarrow \phi)}$, where it is required that the variables $\mathtt{a}$ and $\mathtt{c}$ are different. A translation from the bounded fragment to the hybrid logic without the $\mathtt{\forall}$ binder can be obtained by replacing the last clause in the translation HT above by
 
       $$ \mathrm{HT}(\mathtt{\forall c(R(a, c) \rightarrow \phi)}) = \mathtt{@_a \Box {\downarrow} c}\mathrm{HT}(\mathtt{\phi}). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样，所谓一阶逻辑的 *有界片段* 也可译入混合逻辑，但此时只需约束子 $\mathtt{\downarrow}$，如 Areces, Blackburn, and Marx (2001) 所指出的。有界片段是一阶逻辑中量词仅以 $\mathtt{\forall c(R(a, c) \rightarrow \phi)}$ 形式出现的片段，其中要求变元 $\mathtt{a}$ 与 $\mathtt{c}$ 不同。把有界片段译为不含 $\mathtt{\forall}$ 约束子的混合逻辑，只需把上述翻译 HT 的最后一款替换为
+
+      $$ \mathrm{HT}(\mathtt{\forall c(R(a, c) \rightarrow \phi)}) = \mathtt{@_a \Box {\downarrow} c}\mathrm{HT}(\mathtt{\phi}). $$
+    step2: |-
+      同理，一阶逻辑的所谓 *有界片段* 亦可译入混合逻辑，但此时仅需 $\mathtt{\downarrow}$ 约束子——Areces, Blackburn, and Marx (2001) 已指出此点。有界片段是一阶逻辑的一个片段，其中量词只以 $\mathtt{\forall c(R(a, c) \rightarrow \phi)}$ 的形式出现，且要求变元 $\mathtt{a}$ 与 $\mathtt{c}$ 相异。将有界片段译入不含 $\mathtt{\forall}$ 约束子的混合逻辑，只须把翻译 HT 的最后一款改为
+
+      $$ \mathrm{HT}(\mathtt{\forall c(R(a, c) \rightarrow \phi)}) = \mathtt{@_a \Box {\downarrow} c}\mathrm{HT}(\mathtt{\phi}). $$
   - id: 40
     kind: body
     source: |-
       In Areces, Blackburn, and Marx (2001) a number of independent semantic characterisations of the bounded fragment are given.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Areces, Blackburn, and Marx (2001) 给出了有界片段的若干独立语义刻画。
+    step2: |-
+      Areces, Blackburn, and Marx (2001) 给出了有界片段的多种独立语义刻画。
   - id: 41
     kind: body
     source: |-
       The translations given above are truth-preserving. To state this formally, one makes use of the well-known observation that models and assignments for hybrid logic can be considered as models and assignments for first-order logic and vice versa. These truth-preservation results are straightforward to formulate and we leave the details to the reader. Thus, the hybrid logic with the binder $\mathtt{\forall}$ has the same expressive power as first-order logic with equality and the hybrid logic without the binder $\mathtt{\forall}$ (but with the binder $\mathtt{\downarrow}$) has the same expressive power as the bounded fragment of first-order logic (note that the translation $\mathrm{ST}_\mathtt{a} (\mathtt{\phi})$ of any formula $\mathtt{\phi}$ without the binder $\mathtt{\forall}$ is in the bounded fragment).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上述翻译保持真值。为形式陈述这一点，可利用一个众所周知的观察：混合逻辑的模型与指派可视为一阶逻辑的模型与指派，反之亦然。这些真值保持结果表述起来很直接，细节留给读者。于是，带 $\mathtt{\forall}$ 约束子的混合逻辑与带等词的一阶逻辑表达力相同；不含 $\mathtt{\forall}$ 约束子（但含 $\mathtt{\downarrow}$ 约束子）的混合逻辑，与一阶逻辑的有界片段表达力相同（注意：任何不含 $\mathtt{\forall}$ 约束子的公式 $\mathtt{\phi}$，其翻译 $\mathrm{ST}_\mathtt{a} (\mathtt{\phi})$ 都在有界片段中）。
+    step2: |-
+      上述翻译保持真值。欲形式陈述此点，可利用一个公认的观察：混合逻辑的模型与指派可视为一阶逻辑的模型与指派，反之亦然。真值保持结果的表述颇为直接，细节从略。由此，含 $\mathtt{\forall}$ 约束子的混合逻辑与带等词的一阶逻辑表达力相当；不含 $\mathtt{\forall}$ 约束子而含 $\mathtt{\downarrow}$ 约束子的混合逻辑，则与一阶逻辑的有界片段相当（注意：凡不含 $\mathtt{\forall}$ 约束子的公式 $\mathtt{\phi}$，其翻译 $\mathrm{ST}_\mathtt{a} (\mathtt{\phi})$ 均属有界片段）。
   - id: 42
     kind: body
     source: |-
       The translations above can be extended to first-order hybrid logic, in which case the relevant target logic is two-sorted first-order logic with equality, one sort for worlds and one sort for individuals, see Chapter 6 of Braüner (2011a). In the case of intensional first-order hybrid logic, three sorts are employed, the third sort being for intensions, see Chapter 7 of Braüner (2011a).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上述翻译可扩展到一阶混合逻辑，此时相关的目标逻辑是带等词的二类一阶逻辑，一类为世界，一类为个体，见 Braüner (2011a) 第 6 章。在内涵一阶混合逻辑的情形，使用三类，第三类为内涵，见 Braüner (2011a) 第 7 章。
+    step2: |-
+      上述翻译可推广到一阶混合逻辑，此时目标逻辑为带等词的二类一阶逻辑：一类是世界，一类是个体（见 Braüner (2011a) 第 6 章）。若是内涵一阶混合逻辑，则用三类，第三类为内涵（见同书第 7 章）。
   - id: 43
     kind: body
     source: |-
       ## 4. Arthur N. Prior and hybrid logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 Arthur N. Prior 与混合逻辑
+    step2: |-
+      ## 4 Arthur N. Prior 与混合逻辑
   - id: 44
     kind: body
     source: |-
