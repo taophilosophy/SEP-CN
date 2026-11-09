@@ -398,9 +398,9 @@ segments:
     source: |-
       ## 2. Self-Evident Propositions
     step1: |-
-      ## 2. 自明命题
+      ## 2 自明命题
     step2: |-
-      ## 2. 自明命题
+      ## 2 自明命题
   - id: 48
     kind: body
     source: |-
@@ -553,9 +553,9 @@ segments:
     source: |-
       ## 3. Intuitive Seemings
     step1: |-
-      ## 3. 直觉性显似
+      ## 3 直觉性显似
     step2: |-
-      ## 3. 直觉性显似
+      ## 3 直觉性显似
   - id: 67
     kind: body
     source: |-
@@ -719,9 +719,9 @@ segments:
     source: |-
       ## 4. Apprehension
     step1: |-
-      ## 4. 领会
+      ## 4 领会
     step2: |-
-      ## 4. 领会
+      ## 4 领会
   - id: 87
     kind: body
     source: |-
@@ -759,9 +759,9 @@ segments:
     source: |-
       ## 5. Conceptual Competence
     step1: |-
-      ## 5. 概念能力
+      ## 5 概念能力
     step2: |-
-      ## 5. 概念能力
+      ## 5 概念能力
   - id: 92
     kind: body
     source: |-
@@ -823,9 +823,9 @@ segments:
     source: |-
       ## 6. Outputs of System 1 Processing
     step1: |-
-      ## 6. 系统 1 加工的产物
+      ## 6 系统 1 加工的产物
     step2: |-
-      ## 6. 系统 1 加工的产物
+      ## 6 系统 1 加工的产物
   - id: 100
     kind: body
     source: |-
@@ -847,9 +847,9 @@ segments:
     source: |-
       ## 7. Some Challenges
     step1: |-
-      ## 7. 若干挑战
+      ## 7 若干挑战
     step2: |-
-      ## 7. 若干挑战
+      ## 7 若干挑战
   - id: 103
     kind: body
     source: |-
@@ -1093,80 +1093,106 @@ segments:
     kind: body
     source: |-
       Other studies have shown emotional influence on moral judgment. Joshua Greene, for instance, uses fMRI technology to look at what areas of the brain are most active when subjects report moral judgments (Greene, Sommerville, et al. 2001; Greene 2008)[^greene-2008][^greene-2008-2]. He finds that regions of the brain associated with more emotional, “intuitive” processing are more active in subjects who report characteristically deontological judgments—for example, the intuition that it is impermissible to push the fat man off the bridge in the footbridge version of the trolley case—whereas regions of the brain associated with deliberative cognition are more active in subjects who report consequentialism-friendly judgments. (Because some emotional areas of the brain are activated for subjects who give consequentialism-friendly responses, Greene now says that the deontological intuitions are more alarm-like, whereas the consequentialist intuitions are more currency-like (Greene 2008: 41)[^greene-2008][^greene-2008-2].) Moreover, Greene reports that cognitive load, which is the burden of being taxed with tasks that interfere with deliberative cognition, selectively interferes with consequentialism-friendly responses. So subjects who give the consequentialism-friendly response to Footbridge while under cognitive load show longer response times (Greene, Morelli, et al. 2008).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其他研究显示了情感对道德判断的影响。例如，Joshua Greene 用 fMRI 技术考察被试报告道德判断时大脑哪些区域最活跃（Greene, Sommerville, et al. 2001; Greene 2008）[^greene-2008][^greene-2008-2]。他发现，报告典型义务论判断（例如，在电车难题的天桥版本中，“把胖子推下桥是不可许可的”这一直觉）的被试，大脑中与较多情感性、“直觉性”加工相关的区域更活跃；而报告对后果论友好之判断的被试，与审慎认知相关的区域更活跃。（由于给出对后果论友好回答的被试也有一些情感性脑区被激活，Greene 现在说，义务论直觉更像警报，而后果论直觉更像通用货币（Greene 2008: 41）[^greene-2008][^greene-2008-2]。）此外，Greene 报告说，认知负荷——即被施加干扰审慎认知的任务所造成的负担——会选择性地干扰对后果论友好的回答。因此，在认知负荷下对“天桥”给出对后果论友好回答的被试，表现出更长的反应时间（Greene, Morelli, et al. 2008）。
+    step2: |-
+      另有研究显示情感对道德判断的影响。Joshua Greene 等借助 fMRI 考察被试报告道德判断时何脑区最为活跃（Greene, Sommerville, et al. 2001; Greene 2008）[^greene-2008][^greene-2008-2]。他发现：作出典型义务论判断（如在天桥版电车难题中认为“不可把胖子推下桥”）的被试，与情感性、“直觉性”加工相关的脑区更活跃；而作出亲后果论判断者，与审慎认知相关的脑区更活跃。（由于亲后果论回答者的部分情感脑区亦有激活，Greene 如今称：义务论直觉更像“警报”，后果论直觉更像“通货”（Greene 2008: 41）[^greene-2008][^greene-2008-2]。）此外，Greene 报告：认知负荷——即施加干扰审慎认知的任务所造成之负担——会选择性干扰亲后果论回答，故处于认知负荷下的被试对“天桥”作出亲后果论回答时反应时更长（Greene, Morelli, et al. 2008）。
   - id: 132
     kind: body
     source: |-
       Both Joshua Greene and Peter Singer have used results like these to argue that moral intuitions, or at least deontology-friendly intuitions, are likely unreliable (Greene 2008; Singer 2005)[^greene-2008][^greene-2008-2][^singer-2005]. Why unreliable? First, deontological intuitions are sensitive to *morally* *irrelevant* factors, such as whether you kill someone by pushing him versus throwing a switch. Second, deontological intuitions are the result of fast and frugal “intuitive processes” that were selected by evolution to produce fitness enhancing behaviors in some environment, rather than to track the moral facts (which perhaps this helps to explain the first thread of reasoning; see also Timmons 2008)[^timmons-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Joshua Greene 与 Peter Singer 都用这类结果来论证：道德直觉，或至少对义务论友好的直觉，很可能是不可靠的（Greene 2008; Singer 2005）[^greene-2008][^greene-2008-2][^singer-2005]。为什么不可靠？第一，义务论直觉对*道德上无关*的因素敏感，例如你是把一个人推下去杀死他，还是扳动拉杆。第二，义务论直觉是快速而节俭的“直觉过程”的产物，这些过程由进化所选出的，是为了在某种环境中产生增进适应度的行为，而不是为了追踪道德事实（这或许有助于解释第一条思路；另见 Timmons 2008）[^timmons-2008]。
+    step2: |-
+      Joshua Greene 与 Peter Singer 皆以这类结果论证：道德直觉——至少亲义务论的直觉——多半不可靠（Greene 2008; Singer 2005）[^greene-2008][^greene-2008-2][^singer-2005]。何以不可靠？其一，义务论直觉对*道德上无关*的因素敏感，如“推人致死”抑或“扳杆改道”。其二，义务论直觉出自快速而节俭的“直觉过程”，此类过程经进化选择，旨在特定环境中产生增进适应度的行为，而非追踪道德事实（这或可解释第一条思路；另见 Timmons 2008）[^timmons-2008]。
   - id: 133
     kind: body
     source: |-
       What are we to make of these results and the conclusions drawn by the researchers? First, it is not clear whether intuitions as characterized by Audi, Shafer-Landau, Huemer and others are elicited in these studies, though this can be obfuscated by the fact that psychologists call the fast and frugal processes responsible for some moral judgments “intuitive processes”. Haidt and Bjorklund, for example, define a moral intuition as “the sudden appearance in consciousness or at the fringe of consciousness, of an evaluative feeling (like-dislike, good-bad)…” (2007: 188). That does not sound like intuitions as characterized by intuitionists themselves. We should try to make sure that the propositions or mental states to which intuitional epistemologists attribute epistemic roles are the ones under study before we draw any negative conclusions about the justificatory role of intuitions from these empirical results.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们应如何看待这些结果与研究者所下结论？首先，不清楚这些研究是否引出了 Audi、Shafer-Landau、Huemer 等人所刻画的直觉，尽管这一点可能被下述事实弄模糊：心理学家把造成某些道德判断的快速节俭过程称为“直觉过程”。例如，Haidt 与 Bjorklund 把道德直觉定义为“一种评价性感受（喜欢—不喜欢、好—坏）在意识中或意识边缘的突然出现……”（2007: 188）。这听起来不像直觉主义者自己所刻画的直觉。在我们从这些经验结果对直觉的证成作用得出任何否定性结论之前，应当设法确认：直觉认识论者赋予认识论作用的那些命题或心理状态，正是研究中所考察的东西。
+    step2: |-
+      这些结果与研究者所下结论，当作何评价？首先，这些研究是否引出 Audi、Shafer-Landau、Huemer 等所刻画的直觉，尚不清楚——尽管“心理学家把导致某些道德判断的快速节俭过程称为‘直觉过程’”一事易使此点含糊。例如 Haidt 与 Bjorklund 把道德直觉界定为“一种评价性感受（好恶、善恶）在意识或意识边缘的突然涌现……”（2007: 188）。此说与直觉主义者所刻画的直觉并不相像。故在据这些经验结果对直觉的证成作用作出否定结论之前，须先确认：直觉认识论者赋予认识论作用的，正是研究中所考察的那些命题或心理状态。
   - id: 134
     kind: body
     source: |-
       Supposing that these studies do elicit intuitions as intuitional epistemologists have understood them, still, any claim like Greene’s and Singer’s that deontology-friendly intuitions are sensitive to *morally irrelevant factors*, or are the product of something selected by evolution *without regard to the facts*, stakes some claim on what is and what is not morally relevant, or what the moral facts are. These commitments are not the result of empirical inquiry, but intuition. So even if some intuitive justification is defeated when one appreciates these findings, it is in part because intuition succeeds in justifying beliefs about what is or is not morally relevant, or beliefs about the moral facts. Also, the status of being a defeater is something the empirical results do not deliver—at best they exploit the fact that we treat certain considerations as defeaters (Berker 2009)[^berker-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假设这些研究确实引出了直觉认识论者所理解的直觉，那么，Greene 与 Singer 之类的主张——即对义务论友好的直觉对*道德上无关的因素*敏感，或是某种*不顾事实*而被进化所选出的东西的产物——仍然对“什么道德上相关、什么不相关”或“道德事实是什么”作了某种断言。这些承诺不是经验探究的结果，而是直觉的结果。因此，即使当一个人领会这些发现时，某些直觉性证成被废止，那也部分地是因为直觉成功地证成了关于何者道德相关或不相关的信念，或关于道德事实的信念。而且，“作为废止因素”这一地位并不是经验结果所能给出的——它们充其量利用了这样一个事实：我们把某些考量当作废止因素（Berker 2009）[^berker-2009]。
+    step2: |-
+      即便这些研究确实引出直觉认识论者所理解的直觉，Greene 与 Singer 式的主张——亲义务论直觉对*道德上无关的因素*敏感，或系*不顾事实*而经进化选出者之产物——仍须对“何者道德相关／不相关”或“道德事实为何”有所断言。此类承诺并非经验探究之果，而是直觉之果。故纵使领会这些发现会导致若干直觉性证成被废止，其部分原因也在于：直觉成功证成了关于道德相关性或道德事实的信念。何况，“构成废止因素”这一地位并非经验结果所能授予——它们至多利用了“我们把某些考量当作废止因素”这一事实（Berker 2009）[^berker-2009]。
   - id: 135
     kind: body
     source: |-
       ### 7.4 Debunking and Metaethics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.4 祛除论证与元伦理学
+    step2: |-
+      ### 7.4 祛除论证与元伦理学
   - id: 136
     kind: body
     source: |-
       The concerns just mentioned target deontological intuitions. Other concerns are in a way broader, targeting general metaethical theories that mix an intuitive epistemology with metaphysical doctrines about the corresponding moral facts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      刚才提到的关切针对的是义务论直觉。另一些关切在某种意义上更宽泛，针对的是把直觉性认识论与关于相应道德事实的形而上学学说混合起来的一般元伦理理论。
+    step2: |-
+      上述关切针对义务论直觉；另有一类关切更为宽泛，针对的是把直觉性认识论与相应道德事实的形而上学学说相糅合的一般元伦理学理论。
   - id: 137
     kind: body
     source: |-
       The most influential criticism along these lines is the evolutionary debunking argument. Sharon Street (2006) has pressed an evolutionary debunking argument against moral realism (but see also Vavova 2015)[^vavova-2015]. She argues that we have many of our moral judgments (or tendencies toward certain moral judgments) because they are adaptive, and not because they are mind-independently true. More generally, we might wonder if any of the causal forces that make us have the intuitions that we do have anything to do with the moral facts, particularly if we understand those facts to be non-natural or otherwise *sui generis* (Bedke 2009; 2014)[^bedke-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      沿着这些思路最有影响的批评是进化祛除论证。Sharon Street（2006）对道德实在论提出了进化祛除论证（另见 Vavova 2015）[^vavova-2015]。她论证说，我们之所以拥有许多道德判断（或作出某些道德判断的倾向），是因为它们具有适应性，而不是因为它们在心灵独立的意义上为真。更一般地说，我们可能要想一想：那些使我们拥有这些直觉的因果力量，是否有任何一点与道德事实有关，尤其当我们把这些事实理解为非自然的或在其他意义上*sui generis*（自成一类）的时候（Bedke 2009; 2014）[^bedke-2009]。
+    step2: |-
+      循此思路，最有影响的批评是进化祛除论证。Sharon Street（2006）以此攻讦道德实在论（另见 Vavova 2015）[^vavova-2015]：我们之所以持有许多道德判断（或作出此类判断的倾向），是因为它们有适应性，而非因为它们在独立于心灵的意义上为真。更一般地，不妨追问：使我们拥有如此直觉的那些因果力量，是否与道德事实有任何干系——尤其当我们把这些事实理解为非自然的或在其他意义上*sui generis*（自成一类）之时（Bedke 2009; 2014）[^bedke-2009]。
   - id: 138
     kind: body
     source: |-
       These points are meant to be debunking in some way, but it is not clear how to articulate the debunking premise. It could concern modality—our intuitions or beliefs or the methods we use are not safe or sensitive or modally reliable. It could concern probability—our intuitions or beliefs are not likely true, or are not likely to track truth. It could concern explanation—the target facts are not explanatorily connected to why we have our intuitions or beliefs. Whether some concern in this ballpark is genuinely debunking remains hotly contested.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些要点意在某种程度上起祛除作用，但如何表述祛除性前提并不清楚。它可以关涉模态——我们的直觉、信念或所用方法并不安全、不敏感或在模态上不可靠。它可以关涉概率——我们的直觉或信念不大可能为真，或不大可能追踪真理。它可以关涉解释——目标事实与我们为何拥有这些直觉或信念之间没有解释性联系。这类关切是否真的具有祛除作用，仍是激烈争论的问题。
+    step2: |-
+      这些要点意在发挥某种祛除作用，但祛除性前提究竟如何表述，尚不清楚。或涉模态：我们的直觉、信念或方法并不安全、不敏感、在模态上不可靠；或涉概率：我们的直觉或信念不大可能为真，或不大可能追踪真理；或涉解释：目标事实与“我们何以有如此直觉或信念”之间并无解释关联。此类关切是否真具祛除力，仍是聚讼所在。
   - id: 139
     kind: body
     source: |-
       If our moral metaphysics is non-naturalist, perhaps moral facts and properties are non-causal. In that case, the debunking premise could say we cannot know of something that is causally impotent. This would be an application of a more general debunking argument against causally impotent facts or properties. Applied to mathematics, for example, it has been known as the Benacerraf-Field objection. Intuitionists might respond by asking why a property must be causally efficacious if we are to be able to know which things have that property. Causal theories of knowledge have been largely rejected. Alternatively, intuitionists could back off any commitment to non-naturalism. That does not appear to be an obligatory metaphysical position to pair with an intuitional epistemology (Bengson 2013)[^bengson-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们的道德形而上学是非自然主义的，那么道德事实与属性也许是非因果的。在这种情况下，祛除性前提可以说：我们无法认识因果上无能的东西。这将是对因果上无能的（事实或）属性的一个更一般的祛除论证的应用。应用于数学，例如，它被称为贝纳塞拉夫—菲尔德反驳。直觉主义者可以回应说：若要我们能知道哪些东西具有某一属性，为什么该属性必须是因果有效的？知识的因果理论已在很大程度上被拒斥。或者，直觉主义者可以放弃任何非自然主义的承诺。这似乎并非与直觉性认识论搭配的必然形而上学立场（Bengson 2013）[^bengson-2013]。
+    step2: |-
+      若道德形而上学取非自然主义，则道德事实与属性或为非因果的。此时祛除性前提便可说：因果上无能者，我们无从认识。这不过是对“因果上无能的事实或属性”的一般祛除论证之一例；施于数学，即所谓贝纳塞拉夫—菲尔德反驳。直觉主义者可反问：若要我们能知道何物具有某属性，该属性何以必须因果有效？知识的因果理论早已大体被弃。另一路是放弃任何非自然主义承诺——它似乎并非与直觉性认识论必然搭配的形而上学立场（Bengson 2013）[^bengson-2013]。
   - id: 140
     kind: body
     source: |-
       Debunking arguments like these are a topic unto themselves, and they can be applied regardless of whether one’s moral epistemology is intuitional or not. That is to say, they are not a special problem for intuitional moral epistemology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这类祛除论证本身就是一个主题，且无论一个人的道德认识论是否为直觉性的，都可适用。也就是说，它们并非直觉性道德认识论的特殊问题。
+    step2: |-
+      此类祛除论证自成议题，且无论道德认识论是否直觉性的，皆可适用——换言之，它们并非直觉性道德认识论的专属难题。
   - id: 141
     kind: body
     source: |-
       ### 7.5 Non-Inferential Justification?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.5 非推论性证成？
+    step2: |-
+      ### 7.5 非推论性证成？
   - id: 142
     kind: body
     source: |-
       Intuitive justification is meant to be non-inferential. It is not entirely clear what an inference is. But the basic idea is that a mental state M2 is inferentially justified if it there is some movement of mind from a distinct, justified mental state M1 to M2 whereby the justification of M1 is transmitted to M2. Intuitive justification is non-inferential because intuitions are not the sorts of things that are justified or not. They are unjustified justifiers. This could also rule out perceptual justification as inferential, for perceptual states are arguably not the sorts of things that are justified or not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直觉性证成本应是非推论性的。推论究竟是什么，并不完全清楚。但基本想法是：如果一个心理状态 M2，是经由某种心灵运动、从一个有证成的、不同的心理状态 M1 得出 M2，而 M1 的证成被传递给 M2，那么 M2 就是推论性地被证成的。直觉性证成是非推论性的，因为直觉并不是那种有证成或没有证成的东西。它们是未获证成的证成者。这也可以排除知觉证成的推论性，因为知觉状态按理也不是那种有证成或没有证成的东西。
+    step2: |-
+      直觉性证成意在为非推论性的。推论究竟为何，尚无定论；其基本想法是：若有某种心灵活动，由一个有证成的、与之不同的心理状态 M1 过渡到 M2，且 M1 的证成传至 M2，则 M2 为推论性地被证成。直觉性证成之所以非推论，是因为直觉本非可有证成与否的东西——它们是未获证成的证成者。同理，这也使知觉证成不被视为推论性的，因为知觉状态按理亦非可有证成与否者。
   - id: 143
     kind: body
     source: |-
       Sinnott-Armstrong (2006a), however, challenges the existence of any non-inferential justification for moral beliefs. First, he argues that the following considerations should lead one to mistrust intuitively justified judgments:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，Sinnott-Armstrong（2006a）挑战道德信念存在任何非推论性证成。首先，他论证说，下列考量应使人不信任直觉性地被证成的判断：
+    step2: |-
+      然而 Sinnott-Armstrong（2006a）否认道德信念有任何非推论性证成。他首先论证：下列考量足以使人不信任凭直觉而得证成的判断——
   - id: 144
     kind: body
     source: |-
@@ -1175,23 +1201,39 @@ segments:
       3. emotions influence one’s moral view, and emotions cloud judgment;
       4. moral views are likely to be formed in circumstances conducive to illusion, and shown by heuristics and framing effects; and
       5. moral beliefs might be the product of morally suspicious sources, e.g., if they are the result of the influences of the rich and powerful.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 一个人采纳何种道德观会影响其自身利益，故其在采纳道德观时很可能带有偏见；
+      2. 常有道德分歧，而没有理由认为一方比另一方更可能正确；
+      3. 情感影响一个人的道德观，而情感会蒙蔽判断；
+      4. 道德观很可能形成于易生错觉的环境中，并由启发式与框架效应所显示；以及
+      5. 道德信念可能出自道德上可疑的来源，例如，如果它们是富人与权势者影响的结果。
+    step2: |-
+      1. 采纳何种道德观关乎自身利益，故采纳时易有偏见；
+      2. 道德分歧屡见，而无理由认定一方更可能正确；
+      3. 情感影响道德观，而情感蔽人判断；
+      4. 道德观多形成于易致错觉的情境，并见诸启发式与框架效应；
+      5. 道德信念或出自道德上可疑的来源，例如权势者与富人的影响。
   - id: 145
     kind: body
     source: |-
       He does not deny that some moral intuitions can justify moral beliefs. But given that the defeasible justification they provide is undermined by distorting factors, we need to check that any given moral intuition is not one of the undermined ones, and we must seek corroboration of their contents, before we can take it to provide justification. For him, the beliefs that are justified by this process are inferentially justified. If he is right, then those who have appreciated the influences mentioned in (i)–(v) have at best inferentially justified moral beliefs. They do not have non-inferential justification.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他并不否认某些道德直觉能够证成道德信念。但既然它们所提供的可废止证成会受到扭曲因素的损害，我们便需要核查任何特定的道德直觉不是被损害者之一，并且必须为其内容寻求佐证，然后才能认为它提供了证成。对他而言，经由这一过程而获得证成的信念是推论性地被证成的。如果他正确，那么领会了（i）—（v）所述影响的人，充其量只拥有推论性地被证成的道德信念。他们并不拥有非推论性证成。
+    step2: |-
+      他并不否认某些道德直觉能证成道德信念；但既然其可废止的证成会遭扭曲因素侵蚀，便须逐一核查某一直觉是否属被侵蚀者，并为其内容寻求佐证，方可承认它提供证成。在他看来，经此过程而获证成的信念，属推论性证成。若其所言不差，则领会到（i）—（v）诸影响者，充其量只有推论性地被证成的道德信念，而无非推论性证成。
   - id: 146
     kind: body
     source: |-
       Nathan Ballantyne and Joshua C. Thurow (2013) disagree on this last point. Couched in terms of undercutting defeaters, they say the distorting factors that Sinnott-Armstrong mentions are offered as undercutting defeaters of the justification of most of our moral beliefs. One way to reinstate justification, they point out, is to defeat the defeater. That reinstates the initial, non-inferential support provided by the intuitions. Though we could get inferential corroboration of our intuitively justified beliefs, it is also possible that we simply assure ourselves that (i)–(v) do not apply to a given intuition, in which case that intuition can carry on as an unjustified justifier.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Nathan Ballantyne 与 Joshua C. Thurow（2013）在最后这一点上不同意。以削弱性废止因素（undercutting defeaters）的术语来说，他们认为 Sinnott-Armstrong 提到的扭曲因素是被作为我们多数道德信念之证成的削弱性废止因素而提出的。他们指出，恢复证成的一种方式是击败该废止因素。这就恢复了直觉所提供的原初的、非推论性的支持。尽管我们可以为自己的直觉性被证成信念获得推论性佐证，但也可能我们只是使自己确信（i）—（v）不适用于某一给定直觉，在这种情况下，该直觉仍可作为未获证成的证成者继续起作用。
+    step2: |-
+      Nathan Ballantyne 与 Joshua C. Thurow（2013）于此表示异议。以“削弱性废止因素”论之，Sinnott-Armstrong 所举扭曲因素，乃是作为我们多数道德信念之证成的削弱性废止因素而提出的。他们指出，恢复证成之一法，是击败该废止因素——如此便恢复了直觉原先提供的非推论性支持。我们固可为凭直觉而得证成的信念取得推论性佐证，但也完全可能只需确认（i）—（v）不适用于某一直觉，该直觉便可继续充当未获证成的证成者。
   - id: 147
     kind: oir
     source: |-
       - Stratton-Lake, Philip, “Intuitionism in Ethics”, *Stanford Encyclopedia of Philosophy* (Summer 2026 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intuitionism-ethics).]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Stratton-Lake, Philip，“Intuitionism in Ethics”，*Stanford Encyclopedia of Philosophy*（2026 年夏季版），Edward N. Zalta 与 Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/)>。［这是《斯坦福哲学百科全书》中本主题此前的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intuitionism-ethics)。］
+    step2: |-
+      - Stratton-Lake, Philip，“Intuitionism in Ethics”，*Stanford Encyclopedia of Philosophy*（2026 年夏季版），Edward N. Zalta、Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/)>。［此为本主题在《斯坦福哲学百科全书》中的前一条目——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intuitionism-ethics)。］

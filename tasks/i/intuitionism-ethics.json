@@ -2,7 +2,7 @@
   "slug": "intuitionism-ethics",
   "kind": "retranslate",
   "zh_doc": "i/intuitionism-ethics.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:12:10Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261109",
+      "at": "2026-11-08T22:53:41Z",
+      "evidence": "账本 147/147 段双版齐备，lqi check HARD=0（SOFT 22 条：14 条标题/编号机械段 + 8 条斜体→书名号计数差，逐条判读合规）；compose 37850 字符 → italic_to_bold_cjk 24 行；check_style --strict 0、check_math 0、check_academic --strict 0"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261109",
+      "at": "2026-11-09T02:40:51Z",
+      "evidence": "一校准确性核销：账本 146 body 段逐段落盘（对位 137 命中，9 处为 s2 实修段）；7 节结构对位（1 史/2 自明命题/3 显似/4 领会/5 概念能力/6 系统1/7 五小节）；引块 8 处（Price §678/§679、Prichard、Broad、Audi、Shafer-Landau、McGrath、Bengson-Cuneo-Shafer-Landau）与源逐句对照；脚注定义 84 条、正文引用 49 处闭环（[^key] 为契约注记豁免）；人名/年代/页码照录核销（Price 1758[1969]、Prichard 1912[2002]、Ross 1930[2002]、Sidgwick 1907[1981]）；无残留英文段落（2 条长英文串为学者姓名串）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261109",
+      "at": "2026-11-09T02:40:51Z",
+      "evidence": "二校语言：check_prose 25 告警（长句 6/的链 9/弱动词 9/们 1）逐条实修 23 处（唯一命中校验，非正则批改）→ 复检 0 告警；check_style --strict 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261109",
+      "at": "2026-11-09T02:40:54Z",
+      "evidence": "三校体例：check_style --docs --strict 0 issue；check_math 0 公式（本词条无数学）；check_summary 绿；check_academic --strict 0 硬错误（学术挂钩实拦通过）；标题层级与编号去句点合规（## 2 自明命题 等）；相关词条 13 项映射"
     }
   ],
   "blockers": [],
