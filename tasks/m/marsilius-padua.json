@@ -2,7 +2,7 @@
   "slug": "marsilius-padua",
   "kind": "retranslate",
   "zh_doc": "m/marsilius-padua.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "M-main-20261109b",
       "at": "2026-11-09T09:18:49Z",
       "evidence": "s2 二校（语言层）：check_prose 起始 31 条（de-chain 16 / long-sentence 11 / weak-verb 3 / as-one 1）→ 剩余 10 条，全部为引文内部照录（L23、L37、L41、L55、L81、L109、L111、L123×2、L131：Brett/Gewirth 译本引语与带引号的术语“内在的”“及物的”“合法的”等），按 ADR-0020 逐条豁免留痕。实修 21 处（账本 step2 与成稿同步，script/mp_s2_fix.py 幂等替换）：长句拆分 6（三部著作列举、两种探究进路、II.30.4 引语前导、第二编教会论结论前导、Kaye 两端说、教会定义段）；“的”链化解 5（巴黎大学句、奥古斯丁范式句、立法者横向决策句、Lambertini 意图句、教会图景句）；弱动词转实 4（加以修改→修改、作出判断→判断并劝勉、作出决定→裁断、II.8 模型句重组）；冠词直译 1（作为一个共同体→作为共同体）；其余措辞与衔接 5。复核：compose 与成稿逐字符一致（除 NOTE 行与 s1 手工核销的相关词条行）；check_style 0 issue、check_math 0、check_academic --strict OK；脱稿通读一遍，改写处语义与源文对照无漂移。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T09:27:20Z",
+      "evidence": "s3 三校（体例）：check_style 0 issue；markdownlint-cli2 本文件 0 error；check_math missing/unbalanced 均 0；check_summary H1 mismatch 0（H1 与 SUMMARY 1632 行逐字符一致）；check_academic --strict OK（版本钉与 pubinfo 一致、脚注引用 168 与定义 104 一一对应、无幻觉引文——文献条目逐条对照 yuanwen 照录）；biblio_audit flagged=0（无中国文献条目需还原）。check_terms 告警 4 条逐条裁定留痕：① Averroist「阿威罗伊主义者」——源文为形容词用法（an Averroist philosopher / Averroist tradition），正文作「阿威罗伊主义哲学家／传统」，名词形未出现；② Guelph「归尔甫派」——源文只提吉伯林派（Ghibelline，已用登记形），归尔甫派系登记时作对举备用；③ pars principans「统治部分」——源文以英文 government 行文、拉丁括注，正文译「政府」并保留 *pars principans*，登记形本身即作「统治部分（政府）」；④ subjective right「主观权利」——源文引号内为形容词 subjective，正文作“主观的”。正文强调一律粗体、拉丁术语斜体照源文标签，无 `** ` 内侧空格。状态：s3_checked，交 R-main 评审线走 r1–r3（session-handoff §6），本会话不推进评审步。"
     }
   ],
   "blockers": [],
