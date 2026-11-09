@@ -2,7 +2,7 @@
   "slug": "gianfrancesco-pico",
   "kind": "retranslate",
   "zh_doc": "g/gianfrancesco-pico.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T18:54:12Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "g-beta-G-main-20261109",
+      "at": "2026-11-09T04:27:04Z",
+      "evidence": "账本 43/43 段双版齐（step1 忠实/step2 优化，逐段互异）；lq check HARD=0，SOFT 25 条全为拉丁/意大利文著作名斜体转书名号导致的 * 计数差，逐条判读无漏译；compose 写回 31906 字符；g_fix_h1 按 Lead 修正后的 SUMMARY 读出正确标题（旧 SUMMARY 误把作者姓氏并入标题，已由 Lead 修 SUMMARY:2041 与 mu-lu-s:230，本条目 H1 未手写）；check_style issues=0、check_math 0、check_academic --strict OK、check_terms 定点 0 告警；g_check 全绿。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "g-beta-G-main-20261109",
+      "at": "2026-11-09T05:00:36Z",
+      "evidence": "s1 逐节核销（对照账本 step1 与 yuanwen 英文源，43 段全过）：节标题 5=5 且编号一一对应；脚注键集合 99=99 全等（en-zh 差集空）；正文脚注标记 52=52 逐项相同；参考文献定义区 98=98 逐字符一致、顺序全同；年份集合 en 88 项 / zh 88 项，缺 0、多 1（多出 1490 = en「1490s」译作「1490 年代」）；数字集合多 2（12 来自「1509 年 12 月」对应 en December 1509；9 来自「第 8、9 两卷」对应 en eighth and ninth books，均属中文数字写法换算，非增译）。逐节人工核销重点：拉丁／意大利文著作名 40 余种（*Examen vanitatis*、*Strix*、*Digressio de animae immortalitate*、*Malleus maleficarum* 等）均按「拉丁原名斜体+中文书名号」处理；人名 30 余个（萨伏那洛拉、费奇诺、彭波那齐、塞克斯都·恩披里柯、腓特烈系皮科家族与特里武尔齐奥系）逐一回源核对，无错译；年代线（1469 生、1491 婚、1499 授职、1502 陷落、1511 复得、1520《检查》、1523《女巫》、1533 遇刺）与源一致。本轮修补 0 处（核销未发现漏译／错译／增译）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "g-beta-G-main-20261109",
+      "at": "2026-11-09T06:32:04Z",
+      "evidence": "s2 prose 15→0（tools/check_prose.py g/gianfrancesco-pico.md 复跑告警 0，无豁免）：de-chain 10 条改写（统摄它们的是一贯而长久的意图→统摄这些著作的意图一贯而长久；积累的材料与想法为他最著名的著作之一准备了底本→一边积累材料与想法为一部名作备好底本；维护天主教的真理性/宣示它的精神本性→维护天主教之真/宣示其精神本性；与叔父的关系既有…亲近也有…分歧→与叔父既亲近于个人与思想又有…分歧；西塞罗的伦理思想、盖伦的医学理论→西塞罗论伦理、盖伦论医道；对爱所作的类别划分→如何划分爱的类别且感官性的起源→感官起源；费奇诺加以改造→对它重作改造；正因如此他的《演说》才能→正因如此《演说》才；基督教的、受神启发的诗→受神启发的基督教诗；依据的是…考虑→其依据在…方面；又一例是他的《…》→又一例是《…》）；long-sentence 2 条拆分（斯特拉斯堡文集句断为两句；《女巫之锤》句断为两句）；weak-verb 1 条（加以改造→重作改造）；plural-men 1 条（哲学家们声称→哲学家自称）；exists-there 1 条（之间存在着→之间有着）。不动事实、不减信息；脚注键 99=99 与年份集合复验不变；g_check 全绿。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "g-beta-G-main-20261109",
+      "at": "2026-11-09T07:28:29Z",
+      "evidence": "s3 体例终检：script/g_check.py g gianfrancesco-pico 全绿（check_style issues=0；check_math formulas=0 missing=[] unbalanced=[]；check_academic --strict OK；H1=SUMMARY『乔瓦尼·弗朗切斯科·皮科·德拉·米兰多拉 Giovanni Francesco [Gianfrancesco] Pico della Mirandola (Francesco Molinarolo)』）；tools/check_prose.py 复跑告警 0；check_terms --docs 定点核销 0 处告警（术语 16+人名 25 已入库，出处 gianfrancesco-pico）。参考文献照录：定义区 98=98 条、缺 0 多 0、顺序逐条一致；正文脚注标记 52 与源逐项相同、脚注键集合 99=99 全等；相关词条行按 SUMMARY 形照录（6 项）。Boethius 用短式「波爱修斯（Boethius）」+英文括注，登记册主形为全名『亚尼修·玛理乌斯·塞味利诺·波爱修斯』（依 Lead 2026-11-09 裁定，不做跨词条改写）。《女巫》对话人物 Dicastes／Phronimus／Apistius 保留拉丁原名不登记（依 Lead 裁定）。译名混形提请：本条目 H1 全名形「乔瓦尼·弗朗切斯科」与正文通称形「詹弗朗切斯科」并存，属 SUMMARY 定名与学界通称之分工，正文首现已括注全名与生卒年。"
     }
   ],
   "blockers": [],
