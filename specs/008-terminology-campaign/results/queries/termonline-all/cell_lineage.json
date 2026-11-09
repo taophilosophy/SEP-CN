@@ -1,0 +1,348 @@
+{
+ "key": "cell lineage",
+ "term": "cell lineage",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:42:27+00:00",
+ "status": "ok",
+ "note": "variant=cell lineage; 审定公布名词库=4979; 海峡两岸名词对照库=2158; 其他来源数据库=93; 预公布名词数据库=126; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "细胞谱系",
+   "en": "cell lineage",
+   "code": "2.004",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "细胞谱系",
+   "en": "cell lineage",
+   "code": "4.0535",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_细胞分化与发育"
+  },
+  {
+   "cn": "细胞谱系",
+   "en": "cell lineage",
+   "code": "06.204",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "细胞谱系",
+   "en": "cell lineage",
+   "code": "05.046",
+   "standard": "遗传学名词",
+   "subject": "遗传学_发育遗传学"
+  },
+  {
+   "cn": "谱系",
+   "en": "lineage",
+   "code": "2.0159",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_系统发生分析"
+  },
+  {
+   "cn": "系属结构",
+   "en": "lineage",
+   "code": "06.0094",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_半导体材料_总论"
+  },
+  {
+   "cn": "谱系",
+   "en": "lineage,pedigree",
+   "code": "02.0218",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "成矿谱系",
+   "en": "metallogenic lineage",
+   "code": "14.02.049",
+   "standard": "地质学名词",
+   "subject": "地质学_矿床学_成矿作用与成矿控制因素"
+  },
+  {
+   "cn": "谱系带",
+   "en": "lineage zone",
+   "code": "07.01.088",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学与地层学_总论"
+  },
+  {
+   "cn": "淋系",
+   "en": "lymphoid lineage",
+   "code": "2.005",
+   "standard": "血液学名词",
+   "subject": "血液学_基础"
+  },
+  {
+   "cn": "髓系",
+   "en": "myeloid lineage",
+   "code": "2.006",
+   "standard": "血液学名词",
+   "subject": "血液学_基础"
+  },
+  {
+   "cn": "红系",
+   "en": "erythroid lineage",
+   "code": "2.007",
+   "standard": "血液学名词",
+   "subject": "血液学_基础"
+  },
+  {
+   "cn": "细胞谱系",
+   "en": "cell lineage",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "细胞谱系",
+   "en": "cell lineage",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "细胞谱系",
+   "en": "cell lineage",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "细胞谱系",
+   "en": "cell lineage",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "谱系",
+   "en": "lineage",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "系属结构",
+   "en": "lineage",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "系谱",
+   "en": "lineage",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "数据志",
+   "en": "lineage\",\"data lineage",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "谱系，系谱",
+   "en": "lineage\",\"pedigree",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "系谱（=谱系）",
+   "en": "lineage\",\"pedigree",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "同系群",
+   "en": "lineage group",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "数据血缘追踪技术",
+   "en": "data lineage tracing technique",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "细胞",
+   "en": "Cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "记忆细胞",
+   "en": "Memory cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "细胞生物学",
+   "en": "cell biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "芳香化酶",
+   "en": "（granulosa cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "燃料电池",
+   "en": "Fuel cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "B细胞",
+   "en": "B cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据单元",
+   "en": "data cell",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "促性腺激素",
+   "en": "gonadotropic cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "白细胞介素-6",
+   "en": "mesangial cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "正钒酸钠",
+   "en": "cell lysate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "宗族",
+   "en": " lineage",
+   "code": "4.2.6.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_社会组织"
+  },
+  {
+   "cn": "继嗣群",
+   "en": "lineage",
+   "code": "1.0411",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "家族",
+   "en": "lineage",
+   "code": "4.0146",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "世系群",
+   "en": "lineage group",
+   "code": "1.0412",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "分支世系制度",
+   "en": "segmental lineage systems",
+   "code": "4.2.5.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_亲属制度"
+  },
+  {
+   "cn": "分支世系制度",
+   "en": "segmental lineage systems",
+   "code": "1.0416",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "电解槽",
+   "en": "electrolytic cell",
+   "code": "3.1.2.10.3.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "宿主细胞",
+   "en": "host cell",
+   "code": "6.2.26.8.7",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "细胞培养",
+   "en": "cell culture",
+   "code": "6.2.26.8.8",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "细胞杂交",
+   "en": "cell hybrid",
+   "code": "4.1.4.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "细胞转化",
+   "en": "cell transformation",
+   "code": "4.1.4.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "细胞周期",
+   "en": "cell cycle",
+   "code": "4.1.4.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

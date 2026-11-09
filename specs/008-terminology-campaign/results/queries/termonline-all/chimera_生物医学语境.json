@@ -1,0 +1,348 @@
+{
+ "key": "chimera（生物医学语境）",
+ "term": "chimera（生物医学语境）",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:48:27+00:00",
+ "status": "ok",
+ "note": "variant=chimera（生物医学语境）; 审定公布名词库=10000; 海峡两岸名词对照库=5611; 其他来源数据库=559; 预公布名词数据库=828; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "生物医学检查",
+   "en": "biomedical examination",
+   "code": "19.03",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为心理评估_行为心理测量学_测量方法"
+  },
+  {
+   "cn": "生物医学遥测",
+   "en": "biomedical telemetry",
+   "code": "11.374",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天医学与载人航天"
+  },
+  {
+   "cn": "生物医学摄影测量",
+   "en": "biomedical photogrammetry",
+   "code": "03.227",
+   "standard": "测绘学名词",
+   "subject": "测绘学_摄影测量学与遥感"
+  },
+  {
+   "cn": "生物医学金属材料",
+   "en": "biomedical metal materials",
+   "code": "08.0589",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属材料_功能材料"
+  },
+  {
+   "cn": "生物医学文本挖掘",
+   "en": "biomedical text mining",
+   "code": "12.0199",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_生物信息学"
+  },
+  {
+   "cn": "生物医学换能器",
+   "en": "biomedical transducer",
+   "code": "25.041",
+   "standard": "电子学名词",
+   "subject": "电子学_生物医学电子学"
+  },
+  {
+   "cn": "生物医学传感器",
+   "en": "biomedical transducer",
+   "code": "25.042",
+   "standard": "电子学名词",
+   "subject": "电子学_生物医学电子学"
+  },
+  {
+   "cn": "生物医学贵金属材料",
+   "en": "biomedical precious metal materials",
+   "code": "08.0503",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属材料_有色合金材料"
+  },
+  {
+   "cn": "纳米生物医学工程",
+   "en": "nanobiomedical engineering",
+   "code": "12.096",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_纳米生物学_纳米生物医学工程"
+  },
+  {
+   "cn": "生物医学模式",
+   "en": "biomedical model",
+   "code": "10.013",
+   "standard": "心理学名词",
+   "subject": "心理学_医学心理学"
+  },
+  {
+   "cn": "生物医学贵金属材料",
+   "en": "biomedical precious metal materials",
+   "code": "02.0647",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_金属材料_有色金属材料_贵金属及其合金"
+  },
+  {
+   "cn": "生物医学分析仪",
+   "en": "biomedical analyzer",
+   "code": "05.429",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_分析仪器_环境分析仪"
+  },
+  {
+   "cn": "生物医学",
+   "en": "biomedicine",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "生物医学技术",
+   "en": "biomedical technology",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "生物医学材料(=生物材料)",
+   "en": "[]",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "生物医学工程",
+   "en": "biomedical engineering",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "生物医学摄影测量",
+   "en": "biomedical photogrammetry",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "生物医学传感器",
+   "en": "biomedical transducer",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "生物医学换能器",
+   "en": "biomedical transducer",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "生物医学贵金属材料",
+   "en": "biomedical precious metal materials",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "生物医学色谱法",
+   "en": "biomedical chromatography",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "生物医学电子学",
+   "en": "biomedical electronics",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "语境机制",
+   "en": "context mechanism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "中温生物",
+   "en": "Mesophile",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物强化",
+   "en": "Biological augmentation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物过程",
+   "en": "biological process",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物炭",
+   "en": "Biochar",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物材料",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物发光",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "固氮生物",
+   "en": "diazotroph",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "嗜冷生物",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物转盘",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物活性",
+   "en": "Dose (biochemistry)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "虚拟生物",
+   "en": "virtual creature",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物标记",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物医学模式",
+   "en": "biomedical model",
+   "code": "2.4",
+   "standard": "社会医学名词",
+   "subject": "医学模式"
+  },
+  {
+   "cn": "生物武器医学防护学",
+   "en": "medical protection of biological weapon",
+   "code": "9",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_生物武器医学防护学"
+  },
+  {
+   "cn": "生物武器伤害医学防护",
+   "en": "medical protection of biological weapon injuries",
+   "code": "9.6",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_生物武器医学防护学_生物武器伤害医学防护"
+  },
+  {
+   "cn": "语境",
+   "en": "linguistic context",
+   "code": "5.0106",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "文化语境",
+   "en": "cultural context",
+   "code": "4.2.3.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念"
+  },
+  {
+   "cn": "语境主义",
+   "en": "contextualism",
+   "code": "03.192",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "语境意义",
+   "en": "situated meaning",
+   "code": "5.0111",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "生物-心理-社会医学模式",
+   "en": "bio-psycho-social medical model",
+   "code": "2.5",
+   "standard": "社会医学名词",
+   "subject": "医学模式"
+  },
+  {
+   "cn": "民俗语境",
+   "en": "folklore context",
+   "code": "4.0499",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_分支学科与研究领域"
+  },
+  {
+   "cn": "生物转运",
+   "en": "biotransportation",
+   "code": "16.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事毒理学_军事毒理学基础"
+  },
+  {
+   "cn": "生物消毒",
+   "en": "biological disinfection",
+   "code": "2.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术"
+  },
+  {
+   "cn": "生物指示物",
+   "en": "biological indicator",
+   "code": "3.1.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
