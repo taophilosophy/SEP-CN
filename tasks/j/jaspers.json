@@ -2,7 +2,7 @@
   "slug": "jaspers",
   "kind": "retranslate",
   "zh_doc": "j/jaspers.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:05Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "J-main-20261109",
+      "at": "2026-11-09T01:05:17Z",
+      "evidence": "零信任重译落盘：账本 67 段双版全填（前会话 p1-p5 段1-40；本会话 p6-p7 段41-67），compose 30519 字符 → j/jaspers.md；7 节 + 现制 References（Major Works/Selected Secondary Literature）+ 学术工具 + OIR + 相关词条对位；术语先登记 17 条（Existenz 生存/Grenze 界限/Grenzsituation 界限处境/das Umgreifende 包摄者/密码/哲学信仰 等）、人名 15 行（ADR-0022 保留英文）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "J-main-20261109",
+      "at": "2026-11-09T01:09:39Z",
+      "evidence": "对照核销：账本 67 段与源逐字符一致、kind 全对（lq check 67/67，HARD=0）；逐段数字/年份/页码/卷次机检（仅段1/11 的 early 1920s 属正常意译）；查获并补全段9 漏译尾段（1922 接任讲席/1937 被纳粹解职/《斯特林堡与梵高》1922/《大学之理念》1923）；段18 译者名按 ADR-0022 回改 J. Hoenig 与 Miriam Hamilton；结构对账 节 7:7、marker 45:45、defs 42:42、脚注 1:1；双语抽读段9/18/22 全文无错译"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "J-main-20261109",
+      "at": "2026-11-09T01:09:39Z",
+      "evidence": "反欧化实修：check_prose 告警 54 → 2，实修 52 处（长句拆分 27、弱动词 2、双被句 7、的链 16），逐条对照原意改写；豁免 2 条留痕：L53 长句长度源于对读用插入括注（删括注即达标）、L65 的链源于源文"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "J-main-20261109",
+      "at": "2026-11-09T01:09:42Z",
+      "evidence": "三校体例四检全绿：check_style --docs j/jaspers.md --strict issues=[]；check_academic --strict OK；check_math formulas=0 missing=[] unbalanced=[]；check_summary H1 mismatch=0 HARD=0；术语一致性硬错误 0（17 条新登记体例合规）；markdown 标题按模板去英文句点（## 1 生平 等 7 节）"
     }
   ],
   "blockers": [],
