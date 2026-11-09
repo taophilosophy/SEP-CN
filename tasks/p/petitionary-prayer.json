@@ -1,0 +1,50 @@
+{
+  "slug": "petitionary-prayer",
+  "kind": "retranslate",
+  "zh_doc": "p/petitionary-prayer.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T10:08:50Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:47:40Z",
+      "evidence": "账本33段双版(parts/p1..p4); lq check HARD=0(SOFT: 机械段6+斜体转书名2); compose --write 17480字符; OIR 五条目译出(URL原样)"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:47:40Z",
+      "evidence": "引注组25组逐条核销全等(Molina1588/Flint1998/Stump1979/Smilansky2012/统计研究5组等); 脚注键51枚与源逐字符一致; 相关词条1项手工修正(free will: divine foreknowledge and→预知与自由意志,SUMMARY 1031行); 残留外文碎片0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:47:40Z",
+      "evidence": "check_prose 6告警实修清零(long4/de-chain1/长句拆分1,豁免0); 4条 dash 弹点改 asterisk(MD004)"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:47:41Z",
+      "evidence": "check_style --strict 0; markdownlint-cli2 0; check_math 0; check_academic --strict 0 硬错误"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T10:08:50Z",
+  "version_pin": {
+    "pubinfo_date": "May 18, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "6c96ec3a524a9ca55c27548fb5a7904dff6fdc636e0d405a4de51a6b7faa39b5"
+  }
+}
