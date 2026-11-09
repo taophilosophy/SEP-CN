@@ -1168,142 +1168,210 @@ segments:
       A geodesic curve in *flat space* is a straight line. Its tangent at one point is parallel to the tangent at previous or subsequent points. A straight line in Euclidean space is the only curve that parallel-transports its own tangent vector. This notion of parallel transport of the tangent vector also characterizes geodesic curves in *curved space*. That is, a curve $\gamma$ in curved space, which parallel-transports its own tangent vector along all of its points, is called a *geodesic* curve. Given a manifold with an affine structure and some arbitrary local coordinate system, the coordinate functions (components) $\gamma^{i}$ of a geodesic curve $\gamma$ satisfy the second-order non-linear differential equations
 
       $$\tag{6} \frac{d^2\gamma^i}{ds^2} + \Gamma^{i}_{jk} \frac{d\gamma^j}{ds} \frac{d\gamma^k}{ds} = 0. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *平坦空间*中的测地曲线是直线。它在一点处的切线平行于此前或此后各点的切线。欧几里得空间中的直线是唯一平移自身切向量而保持平行的曲线。这种切向量平行移动的概念也刻画*弯曲空间*中的测地曲线。也就是说，弯曲空间中的一条曲线 $\gamma$，若沿其所有点平行移动自身的切向量，便称为*测地*曲线。给定一个具有仿射结构的流形以及某个任意局部坐标系，测地曲线 $\gamma$ 的坐标函数（分量）$\gamma^{i}$ 满足二阶非线性微分方程
+
+      $$\tag{6} \frac{d^2\gamma^i}{ds^2} + \Gamma^{i}_{jk} \frac{d\gamma^j}{ds} \frac{d\gamma^k}{ds} = 0. $$
+    step2: |-
+      *平坦空间*中的测地曲线即直线：它在某点的切线，与此前、此后各点的切线相平行。欧氏空间中，唯有直线能把自身切向量平行输运。这一“切向量平行输运”之说，同样刻画*弯曲空间*中的测地曲线：弯曲空间中一条处处平行输运自身切向量的曲线 $\gamma$，即称为*测地*曲线。设流形具仿射结构并取任意局部坐标系，则测地曲线 $\gamma$ 的坐标函数（分量）$\gamma^{i}$ 满足二阶非线性微分方程
+
+      $$\tag{6} \frac{d^2\gamma^i}{ds^2} + \Gamma^{i}_{jk} \frac{d\gamma^j}{ds} \frac{d\gamma^k}{ds} = 0. $$
   - id: 138
     kind: body
     source: |-
       One may characterize the *projective geometry* $\Pi$ on an affine manifold either in terms of an equivalence class of geodesic curves under arbitrary parameter diffeomorphisms[^note-40], thereby eliminating all the parameter descriptions and hence all possible notions of distance along the curves satisfying (6),[^note-41] or one may take the process of *autoparallelism of directions*as fundamental in defining a projective structure.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们可以在仿射流形上刻画*射影几何* $\Pi$：或者以测地曲线在任意参数微分同胚下的等价类来刻画[^note-40]，从而消去一切参数描述、并因此消去满足 (6) 的曲线上的种种距离概念[^note-41]；或者以*方向的自动平行性*过程为定义射影结构的根本。
+    step2: |-
+      仿射流形上的*射影几何* $\Pi$ 可用两种方式刻画：其一，取测地曲线在任意参数微分同胚下的等价类[^note-40]，由此消去一切参数描述，也消去满足 (6) 的曲线上的种种距离概念[^note-41]；其二，以*方向的自动平行*这一过程为定义射影结构之本。 
   - id: 139
     kind: body
     source: |-
       *Figure 4:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 4：*
+    step2: |-
+      *图 4：*
   - id: 140
     kind: body
     source: |-
       ![figure](../assets/weyl/fig4.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![路径与曲线的等价类](../yuanwen/assets/weyl/fig4.png)
+    step2: |-
+      ![路径即曲线在参数微分同胚下的等价类](../yuanwen/assets/weyl/fig4.png)
   - id: 141
     kind: body
     source: |-
       Figure 4: A path $\xi$ is an equivalence class [$\gamma$] of curves under all parameter diffeomorphisms $\mu: \mathbb{R} \rightarrow \mathbb{R}; \lambda \mapsto \mu(\lambda)$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 4：路径 $\xi$ 是曲线在一切参数微分同胚 $\mu: \mathbb{R} \rightarrow \mathbb{R}; \lambda \mapsto \mu(\lambda)$ 下的等价类 [$\gamma$]
+    step2: |-
+      图 4：路径 $\xi$ 即曲线在一切参数微分同胚 $\mu: \mathbb{R} \rightarrow \mathbb{R}; \lambda \mapsto \mu(\lambda)$ 之下的等价类 [$\gamma$]
   - id: 142
     kind: body
     source: |-
       Weyl took the latter approach. According to Weyl, the infinitesimal process of parallel displacements of vectors contains, as a special case, the infinitesimal displacement of a *direction* into its own *direction*. Such an infinitesimal autoparallelism of *directions* is characteristic of the projective structure of an affinely connected manifold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔取了后一条进路。按照外尔，向量平行位移的无穷小过程，作为特例包含着把一个*方向*无穷小地位移到它自身的*方向*之中。这种*方向*的无穷小自动平行性，正是仿射相联络流形之射影结构的特征。
+    step2: |-
+      外尔取的是后一进路。在他看来，向量平行位移的无穷小过程含有一个特例：把一个*方向*无穷小地位移进它自身的*方向*。此种*方向*的无穷小自动平行，正是仿射联络流形之射影结构的标志。
   - id: 143
     kind: body
     source: |-
       **Infinitesimal Autoparallelism of a Direction:** An *infinitesimal autoparallelism of a direction* $R$ at an arbitrary point $p$ consists in the parallel displacement of $R$ at $p$ to a neighbouring point $p'$ which lies in the direction $R$ at $p$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **一个方向的无穷小自动平行性：** 任意点 $p$ 处一个方向 $R$ 的*无穷小自动平行性*，在于把 $p$ 处的 $R$ 平行位移到位于 $p$ 处 $R$ 方向上的邻近点 $p'$。
+    step2: |-
+      **方向的无穷小自动平行：** 任意点 $p$ 处方向 $R$ 的*无穷小自动平行*，即把 $p$ 处的 $R$ 平行位移至邻近点 $p'$，而该点位于 $p$ 处 $R$ 的方向上。
   - id: 144
     kind: body
     source: |-
       A curve is geodesic if and only if its *tangent direction* $R$ experiences infinitesimal autoparallelism when moved along all the points of the curve. This characterization of a geodesic curve constitutes an abstraction from affine geometry. Through this abstraction, a geodesic curve is definable exclusively in terms of autoparallelism of tangent *directions*, and not tangent *vectors*. Roughly speaking, an affine geometry is essentially a projective geometry with the notion of distance defined along the curves. By eliminating all possible notions of distance along curves, or equivalently, all the parameter descriptions of the curves, one abstracts the projective geometry form affine geometry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一条曲线是测地曲线，当且仅当它的*切方向* $R$ 沿该曲线各点移动时经历无穷小自动平行性。对测地曲线的这一刻画构成了对仿射几何的一种抽象。经由这一抽象，测地曲线可以仅凭切*方向*的自动平行性、而不必凭切*向量*来定义。粗略地说，仿射几何本质上是一种沿曲线定义了距离概念的射影几何。通过消去一切可能的沿曲线距离概念——或等价地，消去曲线的一切参数描述——人们便从仿射几何中抽象出射影几何。
+    step2: |-
+      曲线为测地曲线，当且仅当其*切方向* $R$ 沿该曲线各点移动时经历无穷小自动平行。这一对测地曲线的刻画，是对仿射几何的一重抽象：经此抽象，测地曲线仅凭切*方向*的自动平行、而非切*向量*即可定义。约略言之，仿射几何本质上就是沿曲线定义了距离的射影几何；一旦消去一切沿曲线之距离概念（等价地，消去曲线的一切参数描述），射影几何便自仿射几何中抽象而出。
   - id: 145
     kind: body
     source: |-
       As mentioned above, a projective geometry $\Pi$ may be defined as an equivalence class of affine geometries, that is, an equivalence class of *projectively related* affine connections [$\Gamma$]. Weyl presented the details of his approach to projective geometry, which uses the notion of *autoparallelism of direction*, in a set of lectures delivered in Barcelona and Madrid in the spring of 1922 (Weyl (1923a); see also Weyl (1921c)). Weyl began with the following necessary and sufficient condition for the invariance of the projective structure $\Pi$ under a transformation $\Gamma \rightarrow \overline{\Gamma}$ of the affine structure:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上所述，一个射影几何 $\Pi$ 可定义为仿射几何的等价类，即*射影相关*的仿射联络 [$\Gamma$] 的等价类。外尔在 1922 年春于巴塞罗那与马德里所作的一组讲座中，详述了他以*方向的自动平行性*为枢纽的射影几何进路（Weyl (1923a)；并见 Weyl (1921c)）。外尔从下述条件出发，它是射影结构 $\Pi$ 在仿射结构的变换 $\Gamma \rightarrow \overline{\Gamma}$ 下保持不变的一个充分必要条件：
+    step2: |-
+      如前所述，射影几何 $\Pi$ 可定义为仿射几何之等价类，亦即*射影相关*的仿射联络 [$\Gamma$] 之等价类。外尔 1922 年春在巴塞罗那与马德里的一组讲演中，详述了他以*方向的自动平行*为枢轴的射影几何进路（Weyl (1923a)；另见 Weyl (1921c)）。他以下述条件为起点——这是射影结构 $\Pi$ 在仿射结构变换 $\Gamma \rightarrow \overline{\Gamma}$ 下保持不变的一个充要条件：
   - id: 146
     kind: body
     source: |-
       **Projective Transformation:** A transformation $\Gamma \rightarrow \overline{\Gamma}$ preserves the projective structure $\Pi$ of a manifold with an affine structure $\Gamma$, and is called a *projective transformation*, if and only if
 
       $$\tag{7} (\overline{\Gamma} - \Gamma)^i_{jk} v^{\,j}v^{\,k} \propto v^{\,i}, $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **射影变换：** 变换 $\Gamma \rightarrow \overline{\Gamma}$ 保持具有仿射结构 $\Gamma$ 的流形之射影结构 $\Pi$，就称为一个*射影变换*，当且仅当
+
+      $$\tag{7} (\overline{\Gamma} - \Gamma)^i_{jk} v^{\,j}v^{\,k} \propto v^{\,i}, $$
+    step2: |-
+      **射影变换：** 变换 $\Gamma \rightarrow \overline{\Gamma}$ 不断裂具仿射结构 $\Gamma$ 之流形的射影结构 $\Pi$ 者，曰*射影变换*，当且仅当
+
+      $$\tag{7} (\overline{\Gamma} - \Gamma)^i_{jk} v^{\,j}v^{\,k} \propto v^{\,i}, $$
   - id: 147
     kind: body
     source: |-
       where $v^{\,i}$ is an arbitrary vector.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 $v^{\,i}$ 是任意向量。
+    step2: |-
+      式中 $v^{\,i}$ 为任意向量。
   - id: 148
     kind: body
     source: |-
       Weyl’s definition says that a change in the affine structure of the manifold $M$ preserves the projective structure $\Pi$ of $M$ if the vectors $v^{i}_{q}$ and $\overline{v}^{i}_{q}$ at $q$ that result from the vector $v^{i}_{p}$ at $p$ by parallel transport under $\Gamma$ and $\overline{\Gamma}$ respectively, differ at most in length but not in direction.[^note-42]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外尔的定义是说：若由 $p$ 处的向量 $v^{i}_{p}$ 经 $\Gamma$ 与 $\overline{\Gamma}$ 下的平行输运而在 $q$ 处分别得到的向量 $v^{i}_{q}$ 与 $\overline{v}^{i}_{q}$，其差别至多在于长度而不在于方向，那么流形 $M$ 的仿射结构的改变便保持了 $M$ 的射影结构 $\Pi$。[^note-42]
+    step2: |-
+      此定义意谓：若由 $p$ 处向量 $v^{i}_{p}$ 分别经 $\Gamma$ 与 $\overline{\Gamma}$ 的平行输运，在 $q$ 处所得向量 $v^{i}_{q}$ 与 $\overline{v}^{i}_{q}$ 只在长度上至有差异、而在方向上无别，则流形 $M$ 仿射结构之改变保持了 $M$ 的射影结构 $\Pi$。[^note-42]
   - id: 149
     kind: body
     source: |-
       A spacetime manifold $M$ is a “projective manifold” (M, $\Pi)$, if in addition to its manifold structure (differential topological structure), it is also endowed with a projective structure $\Pi$ that assigns to each of its manifold points 64 coefficients $\Pi^{\,i}_{jk} x^{i}(p))$ satisfying certain symmetry conditions.[^note-43] These projective coefficients characterize the equivalence class [$\Gamma$] of projectively equivalent connections, that is, connections equivalent under the *projective transformation* (7).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个时空流形 $M$ 是“射影流形” $(M, \Pi)$，如果除其流形结构（微分拓扑结构）之外，它还被赋予一个射影结构 $\Pi$，后者给它每个流形点指定 64 个满足某些对称条件的系数 $\Pi^{\,i}_{jk} x^{i}(p))$。[^note-43] 这些射影系数刻画了射影等价联络的等价类 [$\Gamma$]，即在*射影变换* (7) 下等价的联络。
+    step2: |-
+      时空流形 $M$ 若除流形结构（微分拓扑结构）外另具射影结构 $\Pi$——后者为每一流形点指定 64 个满足某些对称条件的系数 $\Pi^{\,i}_{jk} x^{i}(p))$——即称为“射影流形” $(M, \Pi)$。[^note-43] 这些射影系数刻画射影等价联络的等价类 [$\Gamma$]，即在*射影变换* (7) 之下等价的联络。
   - id: 150
     kind: body
     source: |-
       In physical spacetime the projective structure has an immediate intuitive significance according to Weyl. The real world is a non-empty spacetime filled with an inertial-gravitational field, which Weyl calls the *guiding field* $(F$*ührungsfeld*)[^note-44]. It is an indubitable fact, according to Weyl (1923a, 13), that a body which is let free in a certain spacetime direction (time-like direction) carries out a uniquely determined natural motion from which it can only be diverted through an external force. The process of autoparallelism of direction appears, thus, as the tendency of persistence of the spacetime direction of a free particle whose motion is governed by, what Weyl calls, the *guiding field*$(F$*ührungsfeld*). This natural motion occurs on the basis of an effective infinitesimal tendency of persistence, that parallelly displaces the spacetime direction $R$ of a body at an arbitrary point $p$ on its trajectory to a neighbouring point $p'$ that lies in the direction $R$ at $p$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按外尔之说，物理时空中的射影结构具有直接的直观意义。真实世界是一个非空的、充满惯性—引力场的时空，外尔称之为*引导场*（$F$*ührungsfeld*）[^note-44]。据外尔（1923a, 13），一个不容置疑的事实是：在某一时空方向（类时方向）上被释放的物体，会执行一种唯一确定的自然运动，唯有借外力才能使其偏离。于是，方向的自动平行过程便显现为自由粒子之时空方向的持存倾向，而该粒子的运动由外尔所谓*引导场*（$F$*ührungsfeld*）所支配。这种自然运动基于一种有效的无穷小持存倾向，它把物体在其轨迹上任意点 $p$ 处的时空方向 $R$ 平行位移到位于 $p$ 处 $R$ 方向上的邻近点 $p'$。
+    step2: |-
+      依外尔之见，物理时空中的射影结构有直接的直观意义。真实世界是非空的、充盈着惯性—引力场的时空，外尔称此场为*引导场*（$F$*ührungsfeld*）[^note-44]。据其（1923a, 13）所论，有一事无可置疑：在某一定时空方向（类时方向）上被释放的物体，必执行一种唯一确定的自然运动，唯外力方能使之偏离。于是方向的自动平行便显现为自由粒子之时空方向的持存倾向，而该粒子的运动受外尔所谓*引导场*（$F$*ührungsfeld*）支配。此种自然运动本于一种有效的无穷小持存倾向：它把物体在轨迹上任一点 $p$ 处的时空方向 $R$ 平行位移至邻近点 $p'$，而该点位于 $p$ 处 $R$ 的方向上。
   - id: 151
     kind: body
     source: |-
       If external forces exert themselves on a body, then a motion results which is determined through the conflict between the tendency of persistence due to the guiding field and the force. The tendency of persistence of the guiding field is a type of constraining guidance, that the inertial-gravitational field exerts on every body. Weyl (1923b, 219) says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若外力加于物体，则所产生的运动由两种因素的冲突决定：引导场带来的持存倾向，与外力。引导场的持存倾向，是惯性—引力场对每一物体施加的一种约束性引导。外尔（1923b, 219）说：
+    step2: |-
+      外力加于物体时，运动便由两造之冲突而定：引导场所致之持存倾向与外加之力的角力。引导场的持存倾向，乃惯性—引力场施于每一物体的一种约束性引导。外尔（1923b, 219）云：
   - id: 152
     kind: body
     source: |-
       > Galilei’s inertial law shows, that there exists a type of constraining guidance in the *world* [spacetime] that imposes on a body that is let free in some definite world direction a unique natural motion from which it can only be diverted through external forces; this occurs on the basis of an effective infinitesimal tendency of persistence from point to point, that *auto-parallelly* transfers the world direction $r$ of the body at an arbitrary point $P$ to an infinitesimally close neighboring point $P'$, that lies in the direction $r$ at $P$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 伽利略的惯性定律表明：*世界*[时空]中存在一种约束性引导，它把在某一定世界方向上被释放的物体规定为一种唯一的自然运动，唯有外力方能使之偏离；此事基于一种自点至点的有效无穷小持存倾向，该倾向*自动平行地*把物体在任意点 $P$ 处的世界方向 $r$ 转移至无穷邻近点 $P'$，而 $P'$ 位于 $P$ 处 $r$ 的方向上。
+    step2: |-
+      > 伽利略的惯性定律表明：*世界*[时空]之中有一种约束性的引导，凡在某一定世界方向上被释放的物体，皆被它规定以唯一确定的自然运动，唯外力可使偏离；其所以如此，本于一种自点至点、有效的无穷小持存倾向——它*自动平行地*把物体在任一点 $P$ 处的世界方向 $r$ 转移到无穷接近的邻点 $P'$，而该点正位于 $P$ 处 $r$ 的方向上。
   - id: 153
     kind: body
     source: |-
       #### 4.1.3 Conformal Geometry, Weyl Geometry, and Weyl’s Unified Field Theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.1.3 保形几何、外尔几何与外尔的统一场论
+    step2: |-
+      #### 4.1.3 保形几何、外尔几何与外尔的统一场论
   - id: 154
     kind: body
     source: |-
       Shortly after the completion of the general theory of relativity in 1915, Einstein, Weyl, and others began to work on a unified field theory. It was natural to assume at that time[^note-45] that this task would only involve the unification of gravity and electromagnetism. In Einstein’s geometrization of gravity, the Newtonian gravitational potential, and the Newtonian gravitational force, are respectively replaced by the components of the metric tensor $g_{ij}(x)$, and the components of the symmetric linear connection $\Gamma^{i}_{jk}(x)$. In the general theory of relativity the gravitational field is thus accounted for in terms of the curvature of spacetime, but the electromagnetic field remains completely unrelated to the spacetime geometry. Einstein’s mathematical formulation of his theory of general relativity does not, however, provide room for the geometrization of the other long range force field, the electromagnetic field.[^note-46] It was therefore natural to ask whether nature’s only two long range fields of force have a common origin. Consequently, it was quite natural to suggest that the electromagnetic field might also be ascribed to some property of spacetime, instead of being merely something embedded in spacetime. Since, however, the components $g_{ij}(x)$ of the metric tensor are already sufficiently determined by Einstein’s field equations, this would require setting up a more general differential geometry than the one which underlies Einstein’s theory, in order to make room for incorporating electromagnetism into spacetime geometry. Such a generalized differential geometry would describe both long range forces, and a new theory based on this geometry would constitute a unified field theory of electromagnetism and gravitation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1915 年广义相对论完成之后不久，爱因斯坦、外尔等人便开始着手统一场论。当时自然地假定[^note-45]，这一任务只涉及引力与电磁力的统一。在爱因斯坦对引力的几何化中，牛顿的引力势与牛顿的引力分别被代以度规张量的分量 $g_{ij}(x)$ 与对称线性联络的分量 $\Gamma^{i}_{jk}(x)$。于是在广义相对论中，引力场以时空曲率来解释，而电磁场则与时空几何完全无涉。然而爱因斯坦对其广义相对论的数学表述，并未给另一种长程力场即电磁场的几何化留出余地。[^note-46] 因此，自然要问：自然界仅有的两种长程力场，是否具有共同的起源？于是很自然地会提议：电磁场或许也可归因于时空的某种性质，而不只是被嵌入时空之中的某种东西。然而，既然度规张量的分量 $g_{ij}(x)$ 已由爱因斯坦场方程充分确定，这就需要建立一种比爱因斯坦理论所依据者更为一般的微分几何，以便为把电磁学纳入时空几何留出空间。这样一种推广了的微分几何将同时描述两种长程力，而基于这种几何的新理论将构成电磁学与引力的统一场论。
+    step2: |-
+      1915 年广义相对论告成未久，爱因斯坦、外尔等人即着手统一场论。当时人自然地假定[^note-45]，此事只会牵涉引力与电磁力的统一。在爱因斯坦对引力的几何化中，牛顿引力势与牛顿引力分别由度规张量的分量 $g_{ij}(x)$ 与对称线性联络的分量 $\Gamma^{i}_{jk}(x)$ 取代。于是广义相对论以时空曲率说明引力场，而电磁场与时空几何全然无涉。然而爱因斯坦对广义相对论的数学表述，并未替另一种长程力场即电磁场的几何化留出余地。[^note-46] 由是自然要问：自然界仅有的两种长程力场，是否同出一源？于是自然有人提议：电磁场亦不妨归于时空的某种性质，而不止是嵌入时空之中者。然而度规张量的分量 $g_{ij}(x)$ 既已由爱因斯坦场方程充分确定，此举便须建立一种较爱因斯坦理论所本更为一般的微分几何，方能为把电磁学纳入时空几何腾出空间；此种推广的微分几何将兼述两种长程力，而基于它的新理论便构成电磁学与引力的统一场论。
   - id: 155
     kind: body
     source: |-
       In 1918, Weyl proposed such a theory. In Weyl (1918a, 1919a), and in the third edition (1920) of *Raum-Zeit-Materie*, Weyl presented his ingenious attempt to unify gravitation and electromagnetism by constructing a gauge-invariant geometry (see below), or what he called a *purely infinitesimal ‘metric’ geometry*. Since the conformal structure $C$ (see below) of spacetime does not determine a unique symmetric linear connection $\Gamma$ but only an equivalence class $K = [\Gamma]$ of *conformally equivalent symmetric linear connections*, Weyl was able to show that this degree of freedom in a conformal structure of spacetime provides just enough room for the geometrization of the electromagnetic potentials. The resulting geometry, called a *Weyl geometry*, is an intermediate geometric structure that lies between the conformal and Riemannian structures.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1918 年，外尔提出了这样一种理论。在外尔（1918a, 1919a）以及《空间—时间—物质》第三版（1920）中，外尔展示了他那巧妙绝伦的尝试：通过构造一种规范不变的几何（见下文），亦即他所称的一种*纯粹无穷小的“度规”几何*，来统一引力与电磁力。由于时空的保形结构 $C$（见下文）并不确定唯一的对称线性联络 $\Gamma$，而只确定一个*保形等价的对称线性联络*的等价类 $K = [\Gamma]$，外尔得以表明：时空保形结构中的这一自由度，恰好足以为电磁势的几何化留出余地。由此得到的几何称为*外尔几何*，它是一种介于保形结构与黎曼结构之间的中间几何结构。
+    step2: |-
+      1918 年，外尔提出了这样的理论。在（1918a, 1919a）以及《空间—时间—物质》第三版（1920）中，他展示了那匠心独运的尝试：构造一种规范不变的几何（详见下文），亦即他所称的*纯粹无穷小的“度规”几何*，借以统一引力与电磁力。时空的保形结构 $C$（详见下文）并不确定唯一的对称线性联络 $\Gamma$，而只确定一个*保形等价的对称线性联络*之等价类 $K = [\Gamma]$；外尔由此得以表明，时空保形结构中的这一自由度，恰足以为电磁势的几何化腾出余地。所得几何即称*外尔几何*，乃介于保形结构与黎曼结构之间的中间几何结构。
   - id: 156
     kind: body
     source: |-
       The metric tensor field that is locally described by
 
       $$\tag{8} ds^{2} = g_{ij}(x(p))dx^{i}dx^{j}, $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其局部表述为
+
+      $$\tag{8} ds^{2} = g_{ij}(x(p))dx^{i}dx^{j}, $$
+
+      的度规张量场，
+    step2: |-
+      局部由
+
+      $$\tag{8} ds^{2} = g_{ij}(x(p))dx^{i}dx^{j}, $$
+
+      所刻画的度规张量场，
   - id: 157
     kind: body
     source: |-
       is characteristic of a Riemannian geometry. That geometry requires of the symmetric linear connection $\Gamma$ that the infinitesimal parallel transport of a vector always preserves the length of the vector. Therefore, the metric field in Riemannian geometry determines a unique symmetric linear connection, a “metric connection” that satisfies the length-preserving condition of parallel transport. This means that the metric field, locally represented by (8), is invariant under parallel transport. The coefficients of this unique symmetric linear *metric*connection are given by
 
       $$\tag{9} \Gamma^i_{jk} = \frac{1}{2} g^{ir}(g_{rj,k} + g_{kr,j} - g_{jk,r}). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是黎曼几何的特征。该几何要求对称线性联络 $\Gamma$ 使得向量的无穷小平行输运总能保持向量长度。因此，黎曼几何中的度规场确定了唯一的对称线性联络，即满足平行输运保长条件的“度规联络”。这意味着，局部由 (8) 表示的度规场在平行输运下保持不变。这一唯一的对称线性*度规*联络的系数由下式给出
+
+      $$\tag{9} \Gamma^i_{jk} = \frac{1}{2} g^{ir}(g_{rj,k} + g_{kr,j} - g_{jk,r}). $$
+    step2: |-
+      乃黎曼几何之标志。此种几何要求对称线性联络 $\Gamma$ 使向量的无穷小平行输运恒保其长。故黎曼几何中的度规场确定唯一的对称线性联络，即满足平行输运保长条件的“度规联络”；换言之，局部由 (8) 表出的度规场，在平行输运下不变。这一唯一的对称线性*度规*联络之系数如下
+
+      $$\tag{9} \Gamma^i_{jk} = \frac{1}{2} g^{ir}(g_{rj,k} + g_{kr,j} - g_{jk,r}). $$
   - id: 158
     kind: body
     source: |-
       If $v_{p}$ is a vector at $p \in M$, its length
 
       $$\tag{10} \lvert v_p \rvert^2 = g_{ij}(x(p))v^{\,i}_p v^{\,j}_p. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $v_{p}$ 是 $p \in M$ 处的一个向量，其长度
+
+      $$\tag{10} \lvert v_p \rvert^2 = g_{ij}(x(p))v^{\,i}_p v^{\,j}_p. $$
+    step2: |-
+      设 $v_{p}$ 为 $p \in M$ 处之向量，则其长度
+
+      $$\tag{10} \lvert v_p \rvert^2 = g_{ij}(x(p))v^{\,i}_p v^{\,j}_p. $$
   - id: 159
     kind: body
     source: |-
