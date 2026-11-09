@@ -651,86 +651,114 @@ segments:
     kind: body
     source: |-
       This judgment that, contrary to the *IS* model, the value that a candidate explanans assigns to an explanandum-outcome should not matter for the goodness of the explanation, is motivated as follows: When an outcome is the result of a genuinely indeterministic process we understand both high probability and low probability outcomes (the latter of which of course will sometimes occur) equally well: in both cases, once an SR model has been constructed, there are no additional factors that distinguish the two outcomes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一判断——与 *IS* 模型相反，候选解释项赋予被解释项结果的概率值不应影响解释之好坏——的动机如下：当一个结果是真正非决定论过程的产物时，我们对高概率结果与低概率结果（后者当然有时也会发生）的理解同样充分：在两种情形中，一旦构造出 SR 模型，就没有额外的因素把这两种结果区分开来。
+    step2: |-
+      与 *IS* 模型相反，此判断认为：候选解释项赋予被解释项结果的概率值，不应影响解释之优劣。其动机是：结果若出自真正非决定论的过程，则高概率结果与低概率结果（后者自会时有发生）我们理解得一样充分——两种情形下，一经构造出 SR 模型，便无额外因素可资区别。
   - id: 80
     kind: body
     source: |-
       ### 3.3 What Do Statistical Theories Explain? What Sorts of Examples are Accounts of Statistical Explanation Intended to Capture?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 统计理论解释什么？统计解释的说明意在捕捉哪类例证？
+    step2: |-
+      ### 3.3 统计理论解释什么？统计解释之说意在捕捉哪类例证？
   - id: 81
     kind: body
     source: |-
       Stepping back from the issues (such as the status of the high probability requirement) that have dominated discussions of statistical explanation, there are several more general issues that deserve mention. One is that these models have been applied to a range of examples that seem prima-facie to be quite different, including quantum mechanical examples (e.g., radioactive decay) but also more ordinary examples such as recovery from disease and (to use an example of Salmon’s) causes of juvenile delinquency. Radioactive decay is a process that is usually taken to be irreducibly indeterministic and hence is the sort of thing that Salmon’s objective homogeneity requirement is designed to capture. By contrast, although the evidence for many models of juvenile delinquency comes from population level statistics these models do *not* assume that delinquency is the outcome of an irreducibly indeterministic process (and the models themselves are very far from satisfying an objective homogeneity requirement). Indeed, taken literally, standard causal models assume the opposite: the assumed equations are deterministic with the stochastic element supplied by an “error term”. This raises the question of whether it is sensible to look for a single model that captures all of these examples.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      暂且从主导统计解释讨论的那些问题（如高概率要求的地位）后退一步，还有几个更一般的问题值得提及。其一，这些模型被应用于一系列表面上颇为不同的例子，包括量子力学例子（如放射性衰变），也包括更寻常的例子，如疾病的康复，以及（用萨蒙的一个例子）青少年犯罪的原因。放射性衰变通常被视为不可化约的非决定论过程，故正是萨蒙的客观齐一性要求所要捕捉的那类东西。相比之下，许多青少年犯罪模型的证据虽来自总体层面的统计，这些模型却*不*假定犯罪是不可化约的非决定论过程的产物（且这些模型本身远不满足客观齐一性要求）。实际上，照字面理解，标准因果模型假定的恰是相反者：所设方程是决定论的，随机成分由一个“误差项”提供。这就提出一个问题：寻找一个能捕捉所有这些例子的单一模型是否明智。
+    step2: |-
+      暂且从主导统计解释讨论的问题（如高概率要求之地位）退后一步，尚有数端更一般者值得提及。其一，这些模型所适用的例子表面看来大相径庭：既有量子力学之例（如放射性衰变），也有更寻常者，如疾病康复，以及（举萨蒙一例）青少年犯罪之成因。放射性衰变通常被视为不可化约的非决定论过程，正是萨蒙的客观齐一性要求所要捕捉者。反之，许多青少年犯罪模型虽据总体统计而立，却*不*假定犯罪出于不可化约的非决定论过程（模型本身亦远不合客观齐一性要求）。实际上，照字面看，标准因果模型所设恰相反：方程是决定论的，随机成分由“误差项”提供。于是有问：求一模型以兼摄诸例，是否明智？
   - id: 82
     kind: body
     source: |-
       A second, more radical assessment focuses on the question of whether it is appropriate to think of the sorts of statistical theories and hypotheses on which Hempel and Salmon discuss as explaining individual events or outcomes at all. For example, why not instead take quantum mechanics to explain (i) the *probabilities* with which individual outcomes like decay events occur but not (ii) those individual outcomes themselves? If we adopt (i) the relationship between a quantum mechanical model and such explananda will be deductive and thus subsumable under whatever model of deductive explanation we favor. This raises the question of what additional work is accomplished by models of statistical explanation of either the *IS* or *SR* sort.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二种、更激进评估的焦点是：把亨佩尔与萨蒙所讨论的那类统计理论与假说视为在解释个别事件或结果，究竟是否恰当。例如，为何不反过来认为量子力学解释的是 (i) 诸如衰变事件这类个别结果发生的*概率*，而非 (ii) 这些个别结果本身？若采取 (i)，则量子力学模型与此类被解释项之间的关系将是演绎的，从而可归入我们所青睐的任何演绎解释模型。这就提出一个问题：*IS* 或 *SR* 那类统计解释模型究竟还完成了什么额外的工作。
+    step2: |-
+      第二种评估更激进，其焦点是：亨佩尔与萨蒙所论的那类统计理论与假说，究竟是否在解释个别事件或结果。例如，为何不认为量子力学解释的是 (i) 衰变这类个别结果发生之*概率*，而非 (ii) 这些结果本身？若取 (i)，量子力学模型与此类被解释项之间即为演绎关系，可归入我们所好的任何演绎解释模型。于是要问：*IS* 或 *SR* 那类模型究竟另有何功？
   - id: 83
     kind: body
     source: |-
       ### 3.4 Causation and Statistical Relevance Relationships
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 因果与统计相关性关系
+    step2: |-
+      ### 3.4 因果与统计相关性关系
   - id: 84
     kind: body
     source: |-
       Putting aside the issues raised in the previous section, the SR model embodies several generic assumptions of ongoing philosophical interest. In particular the model assumes that (i) explanations must cite causal relationships and that (ii) causal relationships are fully captured by statistical relevance (or conditional dependence and independence) relationships. While (i) is a matter of current controversy, (ii) is clearly false. As a substantial body of work[^note-5] has made clear, causal relationships are greatly underdetermined by statistical relevance relationships, even given additional assumptions. For example, a structure in which *B* is a common cause of the joint effects *A* and *C* implies (assuming the Causal Markov assumption which is the appropriate generalization of Salmon’s assumptions connecting causation and probability) implies the same statistical relevance relations as a chain structure in which *A* causes *B* which causes *C*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      撇开上一节提出的问题，SR 模型体现了若干具有持续哲学意义的通泛假定。尤其，该模型假定：(i) 解释必须引述因果关系；(ii) 因果关系完全由统计相关性（或条件依赖与条件独立）关系所捕捉。虽然 (i) 尚属当前争议之列，(ii) 却显然为假。正如大量研究已经表明的：[^note-5] 即便加上额外假定，因果关系也远为统计相关性关系所不足以决定。例如，*B* 是 *A* 与 *C* 之共同原因的结构（在假定因果马尔可夫假设——即萨蒙联结因果与概率的那些假定的恰当推广——之下）蕴涵着与 *A* 引起 *B*、*B* 引起 *C* 的链式结构相同的统计相关性关系。
+    step2: |-
+      撇开上节诸问题，SR 模型含若干仍有哲学意义的通泛假定。尤其，它假定：(i) 解释须引述因果关系；(ii) 因果关系完全由统计相关性（或条件依赖、条件独立）关系捕捉。(i) 尚在争议之中，(ii) 则显然为假。大量研究已表明[^note-5]：即便另加假定，因果关系也远非统计相关性关系所能决定。例如，*B* 为 *A* 与 *C* 之共同原因的结构（假定因果马尔可夫假设——萨蒙联结因果与概率诸假定的恰当推广），与 *A* 引起 *B*、*B* 引起 *C* 的链式结构，蕴涵着相同的统计相关性关系。
   - id: 85
     kind: body
     source: |-
       **Selected Readings**. Salmon (1971a) provides a detailed statement and defense of the *SR* model. This essay, as well as papers by Jeffrey (1969) and Greeno (1970) which defend views broadly similar to the *SR* model, are collected in Salmon (1971b). Additional discussion of the model as well as a more recent characterization of “objective homogeneity” can be found in Salmon (1984). Cartwright (1979) contains some influential criticisms of the *SR* model. Theorems specifying the precise extent of the underdetermination of causal claims by evidence about statistical relevance relationships can be found in Spirtes, Glymour and Scheines (1993 [2000: chapter 4]). For additional discussion of “screening off” and the principle of the common cause, see the entry on Reichenbach’s Principle of the Common Cause.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **推荐读物**。Salmon（1971a）对 *SR* 模型作了详尽陈述与辩护。该文以及 Jeffrey（1969）与 Greeno（1970）为 *SR* 模型作相近辩护的论文，收入 Salmon（1971b）。关于该模型的进一步讨论，以及“客观齐一性”较晚近的一种刻画，见 Salmon（1984）。Cartwright（1979）包含若干有影响的批评。关于统计相关性关系的证据对因果主张之不确定程限究竟几何，其精确定理见 Spirtes, Glymour and Scheines（1993 [2000: 第 4 章]）。关于“筛除”（screening off）与共同原因原则的进一步讨论，见「赖兴巴赫的共同原因原则」条目。
+    step2: |-
+      **推荐读物**：Salmon（1971a）对 *SR* 模型作了详尽陈述与辩护，该文与 Jeffrey（1969）、Greeno（1970）两篇为 *SR* 作相近辩护的论文同收入 Salmon（1971b）。该模型的进一步讨论及“客观齐一性”的较新刻画，见 Salmon（1984）。Cartwright（1979）收有若干有影响的批评。统计相关性证据对因果主张的不确定程度究竟几何，其精确定理见 Spirtes, Glymour and Scheines（1993 [2000: 第 4 章]）。“筛除”（screening off）与共同原因原则的进一步讨论，见「赖兴巴赫的共同原因原则」条目。
   - id: 86
     kind: body
     source: |-
       ## 4. The Causal Mechanical Model
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 因果机制模型
+    step2: |-
+      ## 4 因果机制模型
   - id: 87
     kind: body
     source: |-
       ### 4.1 The Basic Idea
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 基本观念
+    step2: |-
+      ### 4.1 基本观念
   - id: 88
     kind: body
     source: |-
       In more recent work (especially, Salmon 1984)[^salmon-1984] Salmon abandoned the attempt to characterize explanation or causal relationships in purely statistical terms. Instead, he developed a new account which he called the Causal Mechanical (*CM*) model of explanation—an account which is similar in both content and spirit to so-called *causal* *process* theories of causation of the sort defended by philosophers like Philip Dowe (2000). We may think of the *CM* model as an attempt to capture the “something more” involved in causal and explanatory relationships over and above facts about statistical relevance, again while attempting to remain within a broadly Humean framework.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在较晚近的工作中（尤其是 Salmon 1984）[^salmon-1984]，萨蒙放弃了用纯统计术语刻画解释或因果关系的尝试。他转而提出一种新说明，称之为解释的因果机制（*CM*）模型——该说明在内容与精神上都类似于 Philip Dowe（2000）等哲学家所主张的所谓*因果* *过程*理论。我们可以把 *CM* 模型视为试图捕捉超出统计相关性事实之上的、因果与解释关系中的“更多东西”，且仍力求留在宽泛的休谟式框架之内。
+    step2: |-
+      在较晚近的工作中（尤其 Salmon 1984）[^salmon-1984]，萨蒙放弃以纯统计术语刻画解释或因果关系，转而提出解释的因果机制（*CM*）模型——其内容与精神近于 Philip Dowe（2000）等所主张的*因果* *过程*理论。*CM* 模型可视为力图捕捉统计相关性事实之外、因果与解释关系所含的“更多东西”，而又仍置身宽泛的休谟式框架之内。
   - id: 89
     kind: body
     source: |-
       The *CM* model employs several central ideas. A *causal process* is a physical process, like the movement of a baseball through space, that is characterized by the ability to transmit a *mark* in a continuous way. (“Continuous” generally, although perhaps not always, means “spatio-temporally continuous”.) Intuitively, a mark is some local modification to the structure of a process—for example, a scuff on the surface of a baseball or a dent an automobile fender. A process is capable of transmitting a mark if, once the mark is introduced at one spatio-temporal location, it will persist to other spatio-temporal locations even in the absence of any further interaction. In this sense the baseball will transmit the scuff mark from one location to another. Similarly, a moving automobile is a causal process because a mark in the form of a dent in a fender will be transmitted by this process from one spatio-temporal location to another. Causal processes contrast with *pseudo-processes* which lack the ability to transmit marks. An example is the shadow of a moving physical object. The intuitive idea is that, if we try to mark the shadow by modifying its shape at one point (for example, by altering a light source or introducing a second occluding object), this modification will not persist unless we continually intervene to maintain it as the shadow occupies successive spatio-temporal positions. In other words, the modification will not be transmitted by the structure of the shadow itself, as it would in the case of a genuine causal process.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *CM* 模型运用若干核心观念。*因果过程*是一种物理过程，如棒球在空间中的运动，其特征是能以连续的方式传递*标记*。（“连续”一般而言、虽然或许并非总是意味着“时空连续的”。）直觉上，标记是对过程结构的某种局部改动——如棒球表面的擦痕或汽车挡泥板上的凹痕。一个过程若能传递标记，则：一旦标记在某个时空位置被引入，即便没有任何进一步相互作用，它也会持存到其他时空位置。在这个意义上，棒球会把擦痕从一个位置传递到另一个位置。同样，行驶中的汽车是因果过程，因为挡泥板凹痕形式的标记会被这一过程从一个时空位置传递到另一个位置。因果过程与缺乏传递标记能力的*伪过程*相对照。一个例子是运动物体的影子。直觉的想法是：若我们试图在一个点上改动影子的形状以作标记（例如改变光源或引入第二个遮挡物），除非我们不断干预以维持它，随着影子占据相继的时空位置，这一改动便不会持存。换言之，改动不会由影子本身的结构传递，而真正的因果过程中则会如此。
+    step2: |-
+      *CM* 模型有数项核心观念。*因果过程*指能以连续方式传递*标记*的物理过程，如棒球在空间中的运动。（“连续”一般——虽或非总是——意为“时空连续”。）所谓标记，即对过程结构的某种局部改动，如棒球表面的擦痕、汽车挡泥板的凹痕。过程能传递标记，指标记一旦在某一时空位置引入，即便再无任何相互作用，也会持存至其他时空位置。棒球由此把擦痕从一处传至另一处；行驶的汽车亦然——挡泥板凹痕形式的标记会随该过程从一个时空位置传至另一个。与因果过程相对者为不能传递标记的*伪过程*，例如运动物体的影子。其直觉是：若在一点上改动影子形状以作标记（如改变光源、或引入第二个遮挡物），除非不断干预维持，随着影子占据相继的时空位置，改动便不会持存。换言之，改动不经由影子自身的结构传递，而真正的因果过程则会如此。
   - id: 90
     kind: body
     source: |-
       We should note for future reference that, as characterized by Salmon, the ability to transmit a mark is clearly a counterfactual notion, in several senses. To begin with, a process may be a causal process even if it does not in fact transmit any mark, as long as it is true that *if* it were appropriately marked, it would transmit the mark. Moreover, the notion of marking itself involves a counterfactual contrast—a contrast between how a process behaves when marked and how it would behave if left unmarked. Although Salmon, like Hempel, has always been suspicious of counterfactuals, his view at the time that he first introduced the *CM* model was that the counterfactuals involved in the characterization of mark transmission were relatively unproblematic, in part because they seemed experimentally testable in a fairly direct way. Nonetheless the reliance of the *CM* model, as originally formulated, on counterfactuals shows that it does not completely satisfy the Humean strictures described above. In subsequent work, described in Section 4.4 below, Salmon attempted to construct a version of the *CM* model that completely avoids reliance on counterfactuals.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为后文计，应注意：按萨蒙的刻画，传递标记的能力显然是一个反事实概念，且在数种意义上如此。首先，一个过程即便事实上未传递任何标记，只要“若它被适当标记，便会传递该标记”为真，它仍可是因果过程。此外，标记这一概念本身也涉及反事实的对比——一个过程被标记时的行为方式与若不被标记时的行为方式之间的对比。尽管萨蒙与亨佩尔一样，一向对反事实心存疑虑，但在他首次提出 *CM* 模型时，其观点是：刻画标记传递所涉及的反事实相对而言不成问题，部分因为它们在相当直接的意义上似乎可作实验检验。不过，*CM* 模型在其最初表述中对反事实的依赖表明，它并未完全满足上文所述的休谟式约束。在后续工作中（下文第 4.4 节所述），萨蒙试图构造一个完全避免依赖反事实的 *CM* 模型版本。
+    step2: |-
+      为后文计须注意：按萨蒙的刻画，传递标记的能力显然是反事实概念，且于数义皆然。其一，过程即便事实上未传递任何标记，只要“*若* 它被适当标记，便会传递该标记”为真，仍可是因果过程。其二，标记概念本身即含反事实对比——过程被标记时的行为与不被标记时的行为之别。萨蒙与亨佩尔一样素来疑忌反事实，但其初提 *CM* 模型时的看法是：刻画标记传递所用的反事实较为无害，部分因为它们在相当直接的意义上似可实验检验。尽管如此，*CM* 模型初版对反事实的依赖表明，它并未完全满足上述休谟式约束。在后续工作中（下文第 4.4 节），萨蒙力图构造完全不用反事实的 *CM* 版本。
   - id: 91
     kind: body
     source: |-
       The other major element in Salmon’s model is the notion of a *causal interaction*. A causal interaction involves a spatio-temporal intersection between two causal processes which modifies the structure of both—each process comes to have features it would not have had in the absence of the interaction. A collision between two cars that dents both is a paradigmatic causal interaction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      萨蒙模型中的另一主要要素是*因果相互作用*概念。因果相互作用涉及两个因果过程之间的时空交叉，该交叉改变二者的结构——每个过程都获得在无该相互作用时不会有的特征。两辆汽车相撞、双双留下凹痕，是典型的因果相互作用。
+    step2: |-
+      萨蒙模型的另一主要要素是*因果相互作用*。因果相互作用指两个因果过程在时空上交叉，而此交叉改变二者结构——每一过程都获得无此相互作用则不会有的特征。两车相撞、双双凹陷，即典型之例。
   - id: 92
     kind: body
     source: |-
       According to the *CM* model, an explanation of some event *E* will trace the causal processes and interactions leading up to *E* (Salmon calls this the *etiological* aspect of the explanation), or at least some portion of these, as well as describing the processes and interactions that make up the event itself (the *constitutive* aspect of explanation). In this way, the explanation shows how *E* “fit[s] into a causal nexus”(1984: 9). For example, when two billiard balls collide (event *E*), the trajectory of each of the balls is a causal process (as shown by the fact that if the balls were scratched, such marks would persist) and their collision is a causal interaction. Explaining *E* will involve both tracing these trajectories and noting that *E* involves an interaction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按 *CM* 模型，对某一事件 *E* 的解释将追溯导致 *E* 的因果过程与相互作用（萨蒙称之为解释的*病因学*方面），或至少其中一部分，并描述构成该事件本身的诸过程与相互作用（解释的*构成*方面）。解释以此表明 *E* 如何“嵌入一个因果网络”（1984: 9）。例如，两个台球相撞（事件 *E*）时，每个球的轨迹都是因果过程（若球被划伤，此类痕迹会持存，此即明证），而它们的相撞是因果相互作用。解释 *E* 便既涉及追溯这些轨迹，也涉及指出 *E* 包含一次相互作用。
+    step2: |-
+      按 *CM* 模型，解释事件 *E* 须追溯导致 *E* 的因果过程与相互作用（萨蒙称之为解释的*病因学*方面），或至少其中一段，并描述构成该事件本身的过程与相互作用（解释的*构成*方面）。解释由是表明 *E* 如何“嵌入一个因果网络”（1984: 9）。例如两球相撞（事件 *E*）：各球轨迹皆为因果过程（球若被划伤，痕迹会持存，可为明证），其相撞则为因果相互作用。解释 *E* 便既要追溯轨迹，也要指出 *E* 含一相互作用。
   - id: 93
     kind: body
     source: |-
