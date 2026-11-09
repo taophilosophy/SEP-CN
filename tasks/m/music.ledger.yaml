@@ -123,74 +123,98 @@ segments:
     kind: body
     source: |-
       ## 2. Musical Ontology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. Musical Ontology
+    step2: |-
+      ## 2 音乐本体论
   - id: 16
     kind: body
     source: |-
       Musical ontology is the study of the kinds of musical things there are and the relations that hold between them. The most discussed issues within this field have been the metaphysical nature of works of Western classical music (the “fundamentalist debate”), and what it is to give an “authentic performance” of such works. Recently there has been growing interest in the ontologies of other Western musical traditions, such as rock and jazz, and discussion of the methodology and value of musical ontology. (For more detailed overviews of these debates, see Matheson & Caplan 2011, and Nussbaum 2021.)[^matheson-2011][^nussbaum-2021]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      音乐本体论研究存在哪些种类的音乐事物，以及它们之间保持什么关系。这一领域讨论最多的问题，是西方古典音乐作品的形而上学本性（“基础主义之争”），以及什么算是这类作品的“本真演奏”。晚近以来，人们对摇滚与爵士等其他西方音乐传统的本体论，以及对音乐本体论的方法论与价值的讨论，兴趣日增。（关于这些争论更详细的概述，见 Matheson & Caplan 2011 与 Nussbaum 2021。）[^matheson-2011][^nussbaum-2021]
+    step2: |-
+      音乐本体论研究音乐世界里有哪些东西、它们之间又有什么关系。这个领域谈得最多的，是西方古典音乐作品的形而上学本性（“基础主义之争”），以及什么叫这类作品的“本真演奏”。近来，摇滚、爵士等其他西方音乐传统的本体论，连同音乐本体论的方法论与价值，也日益受到关注。（更详细的概述见 Matheson & Caplan 2011 与 Nussbaum 2021。）[^matheson-2011][^nussbaum-2021]
   - id: 17
     kind: body
     source: |-
       ### 2.1 The Fundamentalist Debate
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 The Fundamentalist Debate
+    step2: |-
+      ### 2.1 基础主义之争
   - id: 18
     kind: body
     source: |-
       Musical works in the Western classical tradition admit of multiple instances (performances). Much of the debate over the nature of such works thus reads like a recapitulation of the debate over the “problem of universals”; the range of proposed candidates covers the spectrum of fundamental ontological theories. We might divide musical ontologists into the realists, who posit the existence of musical works, and the anti-realists, who deny their existence. Realism has been more popular than anti-realism, but there have been many conflicting realist views. We begin with two unorthodox realist views before moving on to more orthodox Platonist and nominalist theories, concluding with a consideration of anti-realism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      西方古典传统中的音乐作品允许多个实例（演奏）。因此，关于这类作品本性的许多争论，读起来就像“共相问题”之争的翻版；被提出的候选者涵盖了各种基本本体论理论。我们可以把音乐本体论者分为实在论者（肯定音乐作品存在）与反实在论者（否认其存在）。实在论一向比反实在论流行，但实在论内部也有许多相互冲突的观点。我们先看两种非正统的实在论观点，再转向更正统的柏拉图主义与唯名论理论，最后考察反实在论。
+    step2: |-
+      西方古典传统的音乐作品可以有多个实例，也就是多次演奏。于是，关于这类作品本性的争论，多半读起来像“共相问题”老争论的翻版：各家提出的候选者，铺满了基本本体论理论的整个谱系。音乐本体论者大致可分两派：实在论者承认音乐作品存在，反实在论者否认其存在。实在论比反实在论吃香，但实在论内部众说纷纭。下面先看两种不那么正统的实在论，再谈更正统的柏拉图主义与唯名论，最后回到反实在论。
   - id: 19
     kind: body
     source: |-
       Idealists hold that musical works are mental entities. Collingwood (1938) and Sartre (1940) respectively take musical (and other) works to be imaginary objects and experiences. The most serious objections to this kind of view are that (i) it fails to make works intersubjectively accessible, since the number of works going under the name *The Rite of Spring* will be as multifarious as the imaginative experiences people have at performances with that name, and (ii) it makes the medium of the work irrelevant to an understanding of it. One might have the same imaginative experience in response to both a live performance and a recording of *The Rite of Spring*, yet it seems an open question whether the two media are aesthetically equivalent. But see Cox 1986 and Cray & Matheson 2017 for attempts to revive idealism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      观念论者认为音乐作品是心理实体。Collingwood（1938）与 Sartre（1940）分别把音乐（及其他）作品看作想象的对象与想象的经验。这类观点最严重的反对意见是：（i）它无法让作品具有主体间可通达性，因为名为《春之祭》的作品将和人们在该名下的演奏中所拥有的想象经验一样繁多；（ii）它使作品的媒介与对作品的理解无关。面对《春之祭》的现场演奏与录音，一个人可能拥有同样的想象经验，但两种媒介在审美上是否等价，似乎仍是个未决问题。不过，可参看 Cox 1986 与 Cray & Matheson 2017 复兴观念论的努力。
+    step2: |-
+      观念论者主张，音乐作品是心理实体。Collingwood（1938）与 Sartre（1940）分别把音乐作品（以及其他作品）看作想象的对象与想象的经验。这类看法最要命的反驳有两条。其一，它让作品无法为主体间所通达：叫《春之祭》的作品，会跟人们听同名演奏时生出的想象经验一样多得数不清。其二，它使作品的媒介与理解无关：面对《春之祭》的现场与录音，一个人可能生出同样的想象经验，可这两种媒介在审美上是否等价，仍是悬而未决的事。不过，Cox 1986 与 Cray & Matheson 2017 试图为观念论翻案，可参看。
   - id: 20
     kind: body
     source: |-
       David Davies argues that musical works, like all works of art, are *actions*, in particular the compositional actions of their composers (2004). Thus he revives what we might call an “action theory” of the ontology of art. (An earlier defender of such a view is Gregory Currie (1989), who argues that artworks are *types* of action, rather than the *particular* actions with which Davies identifies them.) Although deciding between theories of musical ontology is always to some extent a matter of finding a balance between the benefits of a theory and its cost in terms of our pre-theoretic intuitions, action theories have a particularly hard row to hoe since they imply that an instance of a work is some action performed by a composer, rather than a performance. In order to make up for such damage to our intuitions the theoretical benefits of an action theory would have to be quite extensive.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      David Davies 主张，音乐作品与所有艺术作品一样，是*行动*，具体说就是作曲家的作曲行动（2004）。因此他复兴了我们可称之为艺术本体论的“行动论”的东西。（更早的捍卫者是 Gregory Currie（1989），他主张艺术作品是行动的*类型*，而不是 Davies 所认定的那些*特定*行动。）尽管在音乐本体论诸理论之间作取舍，总归要在理论收益与它对我们先理论直觉造成的代价之间找平衡，但行动论格外难走：它意味着作品的实例是作曲家所做的某种行动，而不是演奏。为了弥补对直觉的这种损害，行动论的理论收益必须相当可观。
+    step2: |-
+      David Davies 主张，音乐作品与一切艺术作品一样，是*行动*，而且是作曲家的作曲行动（2004）。他由此复活了可称为艺术本体论“行动论”的思路。（更早的捍卫者是 Gregory Currie（1989），不过他主张艺术作品是行动的*类型*，而不是 Davies 认定的那些*特定*行动。）在音乐本体论的各种理论间取舍，本来总要在理论收益与牺牲先理论直觉之间权衡；行动论却格外难办，因为它等于说作品的实例是作曲家的某个行动，而非演奏。要弥补直觉上这么大的亏空，行动论的理论收益非得相当可观才行。
   - id: 21
     kind: body
     source: |-
       Most theorists think that some kind of Platonist or nominalist theory of musical works is more plausible than those so far considered. Platonism, the view that musical works are abstract objects, is arguably still the dominant view, though it seems to be losing ground to sophisticated nominalisms. Its great advantage is its ability to respect more of our pre-theoretic intuitions about musical works than other theories can. On the other hand, it is the most ontologically puzzling, since abstract objects are not well understood. Nonetheless, Platonism has been tenacious, with much of the debate centering around what variety of abstract object musical works are. What we might call “simple Platonism” (known simply as “Platonism” in the literature), is the view that works are eternal existents, existing in neither space nor time (Kivy 1983a, 1983b, Dodd 2007)[^dodd-2007][^kivy-1983a]. Puy (2019) presents a variation according to which musical works are higher-order types, of which the types other Platonist thinks are works are specific *versions* of works. (See D. Davies 2021 for discussion.)[^davies-2021]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      多数理论家认为，某种柏拉图主义或唯名论的音作作品理论，比目前考虑过的观点更可信。柏拉图主义主张音乐作品是抽象对象，可以说仍是主流观点，尽管它似乎在把地盘让给精致的唯名论。它的巨大优势在于，能比其他理论更多地尊重我们先理论的音乐作品直觉。另一方面，它在本体论上最令人困惑，因为抽象对象尚未得到很好的理解。尽管如此，柏拉图主义十分顽强，许多争论都围绕音乐作品是哪种抽象对象展开。我们可称之为“简单柏拉图主义”（文献中径称“柏拉图主义”）的观点主张，作品是永恒存在物，既不存在于空间，也不存在于时间（Kivy 1983a, 1983b, Dodd 2007）[^dodd-2007][^kivy-1983a]。Puy（2019）提出一个变体：音乐作品是*高阶类型*，其他柏拉图主义者视为作品的那些类型，只是作品的具体*版本*。（讨论见 D. Davies 2021。）[^davies-2021]
+    step2: |-
+      多数理论家觉得，某种柏拉图主义或唯名论的方案，比前面那些观点更可信。柏拉图主义——音乐作品是抽象对象——大概仍占主流，只是地盘正被精致的唯名论蚕食。它的长处是能比别家更好地照顾我们先理论的直觉；短处是本体论上最费解，毕竟抽象对象至今没人说得很清楚。尽管如此，柏拉图主义相当顽强，争论多半集中在音乐作品究竟是哪一类抽象对象上。所谓“简单柏拉图主义”（文献里径称“柏拉图主义”）认为，作品是永恒存在物，不在空间，也不在时间（Kivy 1983a, 1983b, Dodd 2007）[^dodd-2007][^kivy-1983a]。Puy（2019）给了一个变体：音乐作品是*高阶类型*，别的柏拉图主义者当作作品的那些类型，其实只是作品的具体*版本*。（讨论见 D. Davies 2021。）[^davies-2021]
   - id: 22
     kind: body
     source: |-
       According to “complex Platonism,” musical works come to exist in time as the result of human action. The complexity is motivated by a number of features of musical practice, including the intuition that musical works are creatable, the attribution of various aesthetic and artistic properties to works, and the fine-grained individuation of works and performances (e.g., in terms of who composed them, or what instruments they are properly performed upon) (Ingarden 1961; Thomasson 2004; Wolterstorff 1980; Wollheim 1968: 1–10, 74–84; Levinson 1980, 1990b, 2012; S. Davies 2001: 37–43; Howell 2002; Stecker 2003a: 84–92)[^davies-2001][^howell-2002][^ingarden-1961][^levinson-1980][^stecker-2003a][^thomasson-2004][^wollheim-1968][^wolterstorff-1980].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按“复杂柏拉图主义”，音乐作品作为人类行动的结果而在时间中开始存在。其复杂性由音乐实践的若干特征所驱动，包括音乐作品可被创造的直觉、赋予作品各种审美与艺术属性的做法，以及对作品与演奏的精细个体化（例如按谁作曲、或按应当在什么乐器上演奏来区分）（Ingarden 1961; Thomasson 2004; Wolterstorff 1980; Wollheim 1968: 1–10, 74–84; Levinson 1980, 1990b, 2012; S. Davies 2001: 37–43; Howell 2002; Stecker 2003a: 84–92）[^davies-2001][^howell-2002][^ingarden-1961][^levinson-1980][^stecker-2003a][^thomasson-2004][^wollheim-1968][^wolterstorff-1980]。
+    step2: |-
+      “复杂柏拉图主义”则说，音乐作品因人类行动而在时间中开始存在。之所以要这么复杂，是因为音乐实践有若干特征需要交代：我们觉得作品可以被创造，会给作品安上各种审美与艺术属性，还会对作品与演奏作精细区分（谁作的曲、照规矩该用什么乐器演奏，等等）（Ingarden 1961; Thomasson 2004; Wolterstorff 1980; Wollheim 1968: 1–10, 74–84; Levinson 1980, 1990b, 2012; S. Davies 2001: 37–43; Howell 2002; Stecker 2003a: 84–92）[^davies-2001][^howell-2002][^ingarden-1961][^levinson-1980][^stecker-2003a][^thomasson-2004][^wollheim-1968][^wolterstorff-1980]。
   - id: 23
     kind: body
     source: |-
       Nominalists identify a musical work with something concrete. The most obvious candidate is a collection of performances, whether the collection be understood as a set (Goodman 1968; Predelli 1995, 1999a, 1999b, 2001)[^goodman-1968][^predelli-1995], a fusion (Caplan & Matheson 2004, 2006)[^caplan-2004], or something more esoteric (Tillman 2011; see also Moruzzi 2018)[^moruzzi-2018][^tillman-2011]. Charles Nussbaum (2007: 143–87) and P. D. Magnus (2012) argue for a close analogy between musical works and species. Nussbaum (2021: 334) points out that a sophisticated nominalist theory of species has been developed in great detail over the years by Ruth Millikan (1984, 2000). While such views are attractive because they appeal only to the least problematic kinds of entities, they face serious challenges. Though many of our claims about musical works may be paraphraseable into claims about sets of (possible) performances, some seem to make intractable reference to works. For instance, most performances of The Rite of Spring—even including the possible ones—include several wrong notes. Thus it is difficult to imagine how the paraphrase schema will avoid the nonsensical conclusion that The Rite of Spring contains several wrong notes, if the work consists entirely of performances. In response to this problem, most nominalists add to the collection of performances some provenential item, such as an original score or act of composition. Whether this addition can solve the problem without necessitating the reintroduction of an abstract entity is one question any nominalist must address.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      唯名论者把音乐作品等同于某种具体之物。最明显的候选者是演奏的集合，不管这个集合被理解为集合（Goodman 1968; Predelli 1995, 1999a, 1999b, 2001）[^goodman-1968][^predelli-1995]、融合体（Caplan & Matheson 2004, 2006）[^caplan-2004]，还是更玄妙的东西（Tillman 2011; 另见 Moruzzi 2018）[^moruzzi-2018][^tillman-2011]。Charles Nussbaum（2007: 143–87）与 P. D. Magnus（2012）主张音乐作品与物种之间有紧密类比。Nussbaum（2021: 334）指出，Ruth Millikan（1984, 2000）多年来已详尽发展出一套精致的物种唯名论。这类观点有吸引力，因为它们只诉诸最不成问题的实体，但也面临严峻挑战。虽然我们关于音乐作品的许多说法也许可以改述为关于（可能的）演奏集合的说法，有些说法似乎不可避免地指涉作品本身。例如，《春之祭》的大多数演奏——即便把可能的演奏也算上——都包含若干错音。因此，如果作品完全由演奏构成，就很难想象这种改述方案如何避免“《春之祭》包含若干错音”这一荒谬结论。为回应此问题，多数唯名论者在演奏集合之外再加上某种来源性条目，如原始乐谱或作曲行动。这一添加能否在不重新引入抽象实体的前提下解决问题，是任何唯名论者都必须回答的问题。
+    step2: |-
+      唯名论者把音乐作品等同于某个具体之物，最顺手的候选是演奏的汇集——可以理解为集合（Goodman 1968; Predelli 1995, 1999a, 1999b, 2001）[^goodman-1968][^predelli-1995]、融合体（Caplan & Matheson 2004, 2006）[^caplan-2004]，也可以是更玄的东西（Tillman 2011; 另见 Moruzzi 2018）[^moruzzi-2018][^tillman-2011]。Charles Nussbaum（2007: 143–87）与 P. D. Magnus（2012）力主音乐作品与物种高度类似；Nussbaum（2021: 334）还指出，Ruth Millikan（1984, 2000）多年来已把一套精致的物种唯名论做得相当细密。这类说法只诉诸最不成问题的实体，颇具吸引力，但难关也不小。我们关于作品的许多话，或许都能改说成关于（可能的）演奏集合的话；可有些话似乎非得指涉作品不可。比如，《春之祭》的大多数演奏——把可能的演奏也算上——都夹着几个错音。倘若作品完全由演奏构成，改述方案就很难不落进“《春之祭》里有几个错音”这种荒唐结论。为堵这个口子，多数唯名论者在演奏之外再添一件来源性条目：原始乐谱，或作曲行动。加了这一件，能否不重新请回抽象实体就把问题解决，是每个唯名论者都得交代的。
   - id: 24
     kind: body
     source: |-
       Intermediate between Platonism and nominalism are the views of Philip Letts (2018) and Guy Rohrbaugh (2003). Letts argues that any view of musical works as *types* would be improved by identifying those types with their associated properties, a proposal that may be developed in a Platonist or nominalist direction. Rohrbaugh’s view of musical works as *historical individuals* “embodied in,” but not constituted by, physical things such as scores and performances closely resembles to the views of Nussbaum and Magnus, discussed above, but Rohrbaugh takes the work to be an abstract object over and above its embodiments. (For discussion, see Dodd 2007: 143–66.)[^dodd-2007]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      处于柏拉图主义与唯名论之间的是 Philip Letts（2018）与 Guy Rohrbaugh（2003）的观点。Letts 主张，任何把音乐作品视为*类型*的观点，都可以通过把这些类型等同于其相关属性而得到改进；这一提议既可以向柏拉图主义方向发展，也可以向唯名论方向发展。Rohrbaugh 把音乐作品视为*历史个体*，“体现于”乐谱与演奏等物理事物之中，但并不由它们构成；这一观点与上文讨论的 Nussbaum 和 Magnus 的观点十分相似，但 Rohrbaugh 认为作品是超出其体现物之上的抽象对象。（讨论见 Dodd 2007: 143–66。）[^dodd-2007]
+    step2: |-
+      介于柏拉图主义与唯名论之间的，是 Philip Letts（2018）与 Guy Rohrbaugh（2003）的主张。Letts 认为，凡把音乐作品当作*类型*的观点，只要把这些类型等同于与之相连的属性，就能更上一层；这条思路既可往柏拉图主义走，也可往唯名论走。Rohrbaugh 把音乐作品看作*历史个体*，“体现于”乐谱、演奏这类物理事物之中，却不由它们构成。这与上文 Nussbaum、Magnus 的说法颇为相近，但 Rohrbaugh 坚持作品是凌驾于其体现物之上的抽象对象。（讨论见 Dodd 2007: 143–66。）[^dodd-2007]
   - id: 25
     kind: body
     source: |-
       In contrast to all these realist views stand those of the anti-realists, who deny that there are any such things as musical works. An early proponent of such a view is Richard Rudner (1950), though it is difficult to say whether he is best interpreted as an eliminativist or a fictionalist, the two anti-realist views currently on the table. According to eliminativists, there are no such things as musical works, and thus we ought to stop trying to refer to them. Ross Cameron (2008) defends such a view, but only with respect to “Ontologese”—the language we speak when we do ontology. He argues that ordinary English locutions such as “there are many musical works” can be true without there being any musical works. (For critical discussion, see Predelli 2009 and Stecker 2009.)[^predelli-2009][^stecker-2009] According to fictionalists, the value of discourse about musical works is not truth, and thus we ought not to abandon the discourse despite the non-existence of its subject matter, but rather to adopt a different, make-believe attitude towards it (or perhaps we already do so). (See Kania 2008; for criticism, see D. Davies 2011: 45–50, Letts 2015, and Nussbaum 2021: 337.)[^davies-2011][^kania-2008][^letts-2015][^nussbaum-2021]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与所有这些实在论观点相对的是反实在论者的观点，他们否认存在音乐作品这种东西。这种观点的早期支持者是 Richard Rudner（1950），不过很难说他最好被理解为取消论者还是虚构论者——这是目前摆在桌面上的两种反实在论观点。按取消论者，不存在音乐作品这种东西，因此我们应当停止试图指称它们。Ross Cameron（2008）为这种观点辩护，但仅就“本体论语言”——我们做本体论时所说的语言——而言。他主张，“有许多音乐作品”这样的日常英语语句可以为真，而并不存在任何音乐作品。（批评性讨论见 Predelli 2009 与 Stecker 2009。）[^predelli-2009][^stecker-2009] 按虚构论者，关于音乐作品的话语，其价值不在真理，因此尽管其主题不存在，我们也不应放弃这种话语，而应对它采取另一种、假装态度（或者我们其实早已如此）。（见 Kania 2008；批评见 D. Davies 2011: 45–50、Letts 2015 与 Nussbaum 2021: 337。）[^davies-2011][^kania-2008][^letts-2015][^nussbaum-2021]
+    step2: |-
+      与上述实在论相对的，是反实在论：根本不承认有音乐作品这号东西。较早的倡言者是 Richard Rudner（1950），不过很难判定他究竟算取消论者还是虚构论者——这是眼下两种反实在论选项。取消论者说，既然没有音乐作品，我们就该干脆不再试图指称它们。Ross Cameron（2008）替这种说法辩护，但仅限于“本体论语言”，即我们做本体论时所用的那套话。他认为，“有许多音乐作品”这类日常英语说法可以为真，哪怕压根儿没有音乐作品。（批评性讨论见 Predelli 2009 与 Stecker 2009。）[^predelli-2009][^stecker-2009] 虚构论者则说，关于音乐作品的话语，其价值不在真假；主题虽不存在，话语却不必废弃，只需换一副“假装”的态度（说不定我们本来就是这副态度）。（见 Kania 2008；批评见 D. Davies 2011: 45–50、Letts 2015 与 Nussbaum 2021: 337。）[^davies-2011][^kania-2008][^letts-2015][^nussbaum-2021]
   - id: 26
     kind: body
     source: |-
       Much of this debate over the fundamental ontological category to which musical works belong has turned on “technical” issues, that is, controversial general metaphysical claims about the nature of properties, causation, embodiment, and so on (e.g., Howell 2002; Trivedi 2002; Caplan & Matheson 2004, 2006; Dodd 2007; Hazlett 2012; Kleinschmidt & Ross 2012; Dodd & Letts 2017; Cameron 2008)[^cameron-2008][^caplan-2004][^dodd-2007][^dodd-2017][^hazlett-2012][^howell-2002][^kleinschmidt-2012][^trivedi-2002]. In the face of this, some theorists have pointed out that musical works are cultural entities, and thus the methodology appropriate to uncovering their ontological status might be quite different from that of general metaphysics (Goehr 1992; S. Davies 2003a; D. Davies 2004; Thomasson 2006)[^davies-2004][^davies-2003a][^goehr-1992][^thomasson-2006]. For further discussion of the methodology of musical ontology, see D. Davies 2009, 2017; Predelli 2009; Stecker 2009; Dodd 2010, 2013; Mag Uidhir 2012b; and Nussbaum 2021.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这场关于音乐作品所属基本本体范畴的争论，许多都取决于“技术性”问题，即关于属性、因果、体现等等本性的一般形而上学主张，而这些主张本身是有争议的（例如 Howell 2002; Trivedi 2002; Caplan & Matheson 2004, 2006; Dodd 2007; Hazlett 2012; Kleinschmidt & Ross 2012; Dodd & Letts 2017; Cameron 2008）[^cameron-2008][^caplan-2004][^dodd-2007][^dodd-2017][^hazlett-2012][^howell-2002][^kleinschmidt-2012][^trivedi-2002]。面对这一局面，一些理论家指出，音乐作品是文化实体，因此揭示其本体论地位所需的方法论，可能与一般形而上学相当不同（Goehr 1992; S. Davies 2003a; D. Davies 2004; Thomasson 2006）[^davies-2004][^davies-2003a][^goehr-1992][^thomasson-2006]。关于音乐本体论方法论的进一步讨论，见 D. Davies 2009, 2017；Predelli 2009；Stecker 2009；Dodd 2010, 2013；Mag Uidhir 2012b；以及 Nussbaum 2021。
+    step2: |-
+      音乐作品究竟属于哪个基本本体范畴，这场争论大半落在“技术性”问题上，也就是关于属性、因果、体现之类的一般形而上学主张，而这些主张本身就有争议（例如 Howell 2002; Trivedi 2002; Caplan & Matheson 2004, 2006; Dodd 2007; Hazlett 2012; Kleinschmidt & Ross 2012; Dodd & Letts 2017; Cameron 2008）[^cameron-2008][^caplan-2004][^dodd-2007][^dodd-2017][^hazlett-2012][^howell-2002][^kleinschmidt-2012][^trivedi-2002]。有鉴于此，一些理论家提醒说，音乐作品是文化实体，探明其本体论地位的方法，未必同于一般形而上学（Goehr 1992; S. Davies 2003a; D. Davies 2004; Thomasson 2006）[^davies-2004][^davies-2003a][^goehr-1992][^thomasson-2006]。音乐本体论方法论的进一步讨论，见 D. Davies 2009, 2017；Predelli 2009；Stecker 2009；Dodd 2010, 2013；Mag Uidhir 2012b；以及 Nussbaum 2021。
   - id: 27
     kind: body
     source: |-
