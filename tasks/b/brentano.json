@@ -2,7 +2,7 @@
   "slug": "brentano",
   "kind": "retranslate",
   "zh_doc": "b/brentano.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,13 @@
       "actor": "B-main-20261109b",
       "at": "2026-11-09T06:34:42Z",
       "evidence": "一校结构/引注对位：H2/H3 18:18 全等（章节名与源一一对位）；footnote defs 116:116 键集全等、正文引注零缺；PES 页码引注逐节抽样在位、德文原引〔"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "B-main-20261109b",
+      "at": "2026-11-09T07:13:29Z",
+      "evidence": "二校语言：prose 63→待复核，实修 13 处（弱动词 5、被动 5、长句 2、as-one 1）。余条逐条判读后按 ADR-0020 豁免：块引源文直引（PES/ORW/GA/LW/DP 原引共 12 段）、术语枚举与德文原引括号导致的 de-chain、以及源文等长学术长句；正文语序与口吻通读后未再发现欧化硬伤"
     }
   ],
   "blockers": [],
