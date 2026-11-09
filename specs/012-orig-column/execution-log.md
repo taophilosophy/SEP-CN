@@ -142,3 +142,21 @@
 
 * `Cinque (Joseph Cinqué)` 未填：语料仅见姓「Cinque」，全名「Joseph Cinqué」只见于键内括注——按「键列本体」档可采，但本批从严留待外源页核（记留队）。
 * 告警 179 → 175（同期并行会话亦在补行，净额以 `check_terms` 输出为准）。
+
+## 2026-11-09 多语种人工裁定批（26 行；自动初筛 → 人眼核对，拒误取）
+
+**方法**：先以 `script/orig_foreign_batch_20261109.py` 自动初筛（en/ja 维基 API＋rigpawiki），
+再从「同页片段」逐条人眼裁定；**只采页面显式给出的「罗马化 ↔ 原生文字」配对**（012 硬性裁定）。
+
+**采信 26 行**（证据逐条落 `results/orig-evidence-2026-11-09.tsv`：键→原文→URL→片段）：
+
+* 藏文 5（rigpawiki 页面正文 "Tib. X, wy, Wyl. Y" 形）：reliable cognition→ཚད་མ་（Tshad_ma）、appearing object→སྣང་ཡུལ་、Lorik→བློ་རིགས་、Collected topics→བསྡུས་གྲྭ་、doubt→ཐེ་ཚོམ་。
+* 梵文 1：Śāntarakṣita→शान्तरक्षित（en.wiki 引导句 "Sanskrit: शान्तरक्षित; Tibetan: ཞི་བ་འཚོ"）。
+* 日文 3：谷崎潤一郎、鴨長明、西田幾多郎（ja.wiki 条题正形＋en 引导句汉字）。
+* 阿拉伯/波斯 17（en.wiki 引导句 "Arabic:/Persian: <全名>"，键内元素均在原字形内）：Jābir ibn Ḥayyān、al-Samawʾal、Ḥallāj、al-Bīrūnī、al-Nayrīzī、al-Shahrastānī、al-Sijzī、Sijistānī、Qūnawī、Jāmī、Ghazālī（父/弟两行）、Ibn al-Khaṭīb、ʿAbd al-Laṭīf、Ṭabāṭāʾī、Ḥāfiz、Iblīs。
+
+**拒采（留队，记明理由）**：① 碎片式命中——ابو（仅父名助词）、رباعیات（《鲁拜集》书名）、لسان/محمد/صدر/تاج 等；② **错人**——al-Bukhārī 页面为 810–870 圣训学者，非键所指 Shams al-Dīn Muḥammad al-Bukhārī；③ 库尔德文转写（Shahrazurī شەمسەددین，非阿/波字形）；④ 仅姓氏页（Kirmānī/Kāshānī/Rāzī/Shīrāzī/Iṣfahānī/Lāhijī/Fanārī/Waliullāh/Taftazānī/Khayyam/Ibn Sabʿīn）——键含本名，填仅姓氏即失配。
+
+**教训**：自动「邻近窗口」抽取对阿拉伯/日文误取率高（父名助词、书名、同姓他人），**必须人眼核片段**；这与 012「禁推演」同源——机器只能提供候选，裁定须留证据。
+
+* 告警 180 → 164（同期并行会话仍在加行，净额以 check_terms 为准）；check_all 7/7 绿。
