@@ -16,6 +16,24 @@
 | a priori knowledge | — | 先天知识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | abductive reasoning | — | 溯因推理 | 语料回收（abduction） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | abhāva | अभाव | 无体量 | jayaraasi | 因明传统译名（依缺席之否定证） | 2026-11-07 |
+| associative learning | — | 联想学习 | moral-learning | 学界通行（学习心理学）；凭证 2026-11-09 | 2026-11-09 |
+| classical conditioning | — | 经典条件作用 | moral-learning | 学界通行（巴甫洛夫式条件作用）；凭证 2026-11-09 | 2026-11-09 |
+| deontic rules | — | 道义规则 | moral-learning | 学界通行（道义逻辑与规范认知）；凭证 2026-11-09 | 2026-11-09 |
+| homophily | — | 同质性偏好 | moral-learning | 学界通行（社会网络与群际认知）；凭证 2026-11-09 | 2026-11-09 |
+| model-free reinforcement learning | — | 无模型强化学习 | moral-learning | 强化学习通行（与 model-based 基于模型相对）；凭证 2026-11-09 | 2026-11-09 |
+| moral intuition | — | 道德直觉 | moral-learning | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| moral/conventional distinction | — | 道德/习俗区分 | moral-learning | 学界通行（Turiel 传统）；凭证 2026-11-09 | 2026-11-09 |
+| moralization | — | 道德化 | moral-learning | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| nativism | — | 先天论 | moral-learning | 学界通行（与经验论相对）；凭证 2026-11-09 | 2026-11-09 |
+| operant conditioning | — | 操作性条件作用 | moral-learning | 学界通行（斯金纳传统）；凭证 2026-11-09 | 2026-11-09 |
+| overimitation | — | 过度模仿 | moral-learning | 学界通行（儿童模仿研究）；凭证 2026-11-09 | 2026-11-09 |
+| parochialism | — | 偏狭主义 | moral-learning | 学界通行（群内偏好；本词条 3.3 专节）；凭证 2026-11-09 | 2026-11-09 |
+| pedagogical goals | — | 教学意图 | moral-learning | 学界通行（自然教育学）；凭证 2026-11-09 | 2026-11-09 |
+| prosocial behavior | — | 亲社会行为 | moral-learning | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| reinforcement learning | — | 强化学习 | moral-learning | 学界通行（机器学习与行为心理学）；凭证 2026-11-09 | 2026-11-09 |
+| size principle | — | 规模原则 | moral-learning | Tenenbaum 学派（贝叶斯概念学习）；凭证 2026-11-09 | 2026-11-09 |
+| statistical learning | — | 统计学习 | moral-learning | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| testimonial learning | — | 证言学习 | moral-learning | 学界通行（与证言知识相通）；凭证 2026-11-09 | 2026-11-09 |
 | Tractatus (Summule logicales) | — | 《逻辑纲要》 | peter-spain | 本词条首译裁定（Peter of Spain 的 Tractatus/Summule logicales；勿与奥卡姆《逻辑大全》Summa logicae 混同）；凭证 2026-11-09 | 2026-11-09 |
 | Syncategoreumata | — | 《助范畴词》 | peter-spain | 书名沿用术语派生形；凭证 2026-11-09 | 2026-11-09 |
 | Fallacie maiores | — | 《大谬误》 | peter-spain | 中世纪逻辑史通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -218,6 +236,7 @@
 | appetite | — | 嗜欲 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | apprehended object / grasped object（gzung yul） | — | 所取境（gzung yul） | epistemology-language-tibetan | 藏传量论通译（所取=gzung ba） | 2026-11-04 |
 | apprehension | — | 领会 | 首现（intuitionism-ethics） | 学界惯例（与 understanding“理解”分立；factive 领会） | 2026-11-09 |
+| universalizability | — | 可普遍化 | moral-learning | 学界通行（康德伦理学）；凭证 2026-11-09 | 2026-11-09 |
 | āpta | आप्त | 可信者 | jaina-philosophy | 本库自拟（源文自注 achieved, apt, reliable） | 2026-11-08 |
 | apūrva | अपूर्व | 无前 | kumaarila | 印度哲学史学界通行（弥曼差范畴；亦音译阿普尔瓦，不作主形） | 2026-11-05 |
 | Arabic Plotinus | — | 阿拉伯文普罗提诺 | 首现（theology-aristotle） | 学界惯例（研究文献通行称法 the Arabic Plotinus）；凭证 2026-11-08 | 2026-11-08 |
@@ -3961,3 +3980,5 @@
 | Iliad | — | 《伊利亚特》 | ancient-soul 首译 | 学界通行汉译（荷马史诗） | 2026-11-09 |
 | Odyssey | — | 《奥德赛》 | ancient-soul 首译 | 学界通行汉译（荷马史诗） | 2026-11-09 |
 | Church Fathers | — | 教父 | ancient-soul 首译 | 学界通行（基督教思想史） | 2026-11-09 |
+| Orphic | — | 俄耳甫斯教的 | ancient-soul 首译 | 学界通行（Orphism 俄耳甫斯教） | 2026-11-09 |
+| Pythagorean | — | 毕达哥拉斯派的 | ancient-soul 首译 | 学界通行 | 2026-11-09 |

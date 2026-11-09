@@ -2,7 +2,7 @@
   "slug": "al-din-al-razi",
   "kind": "retranslate",
   "zh_doc": "a/al-din-al-razi.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "A4-main-20261109",
       "at": "2026-11-09T12:52:21Z",
       "evidence": "复审（逐句回核原文与逻辑）：全文 296 行复核，论证链连贯——生平三阶段与著述谱系、概念化/确认与定义批判、原子论-连续论与虚实之争、本质先于存在与存在单义性、灵魂统一性与神知关系论、神命论与后果论快乐主义；边界情形（Levinson 式反例、动物理智连续性、al-Ghazālī 异端说之拒绝）与源文一致；Critical 0 / Major 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T13:32:25Z",
+      "evidence": "终审：冷置后回读——r2 后转译 ancient-soul 账本批 1-3（段 1-9，约 24k 字符源文）并补登记古典人名 12（含 Thales/Euripides/Herodotus/Thucydides/Pindar/Achilles 等）+术语 9，再回首复查，间隔充分；成品 a/al-din-al-razi.md 44,308 字符 296 行；四检复跑全绿（style 0 / academic --strict OK / summary HARD 0 / math 0 / lint 0）；lq check 68 段守恒 HARD=0；prose 仅 3 条引文/书名豁免；验收签字：A4-main-20261109"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T13:34:02Z",
+      "evidence": "收口：六道三审全过，check_all 七项全绿；44,308 字符 296 行；账本 68 段守恒 HARD=0；Critical 0/Major 0/Minor 5（源文笔误照录处理）；术语 7+人名 14 在册"
     }
   ],
   "blockers": [],
