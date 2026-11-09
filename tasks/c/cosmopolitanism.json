@@ -2,7 +2,7 @@
   "slug": "cosmopolitanism",
   "kind": "retranslate",
   "zh_doc": "c/cosmopolitanism.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,13 @@
       "actor": "C-main-20261109b",
       "at": "2026-11-09T09:32:21Z",
       "evidence": "回源逐节核销 71 段/3 节 10 小节：节集合与编号 7:7（h2）、10:10（h3）全等；脚注键 118:118 逐键一致、定义区齐；参考文献 118 条照录（无中国文献，ADR-0011 不触发）；pubinfo 逐字对照一致。问题分级：Critical 0、Major 0、Minor 10（world ‘cosmopolitan’ 词性归位、clustered around 误读‘身边’、paternalism 主形家长主义、historically uninformed 直译硬、de-chain 主语断裂 2、括号引语嵌套 1 等，逐处手改）。相关词条 3 项英文残留（Chrysippus/Cynics/Diogenes of Sinope）回 SUMMARY 核对无对应条目，按模板 §6.5 保留中文译名待挂链；无年份作者括注（Nielsen, Cabrera）（Pogge）按引用组照录。源页缺陷 1：第 60 段 (c) 括号源文未闭合，译文补全留痕。四检 style 0 / math 0 / academic 0 硬 / terms 0 硬"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T10:19:44Z",
+      "evidence": "反欧化逐句打磨：check_prose 55→0（首轮 48 处 + 收尾 7 处）。实修类型：长句拆分 20（94/104/91/88/79 汉字诸句按语义断句）、的链 29（有的…有的→一派…另一派、删冗余定语）、弱动词 4（作出决定→自愿决定、作出裁断→居中裁断、作出区分→再作几种区分、作出承诺→拿出承诺）、双被字句 2（被指责…被批评→批评者指责…特别是指责）。改后四检复绿：style 0 / math 0 缺 0 失衡 / academic --strict 0 硬 / terms 0 硬；结构 h2 7:7、h3 10:10、脚注定义 118:118 逐键一致"
     }
   ],
   "blockers": [],
