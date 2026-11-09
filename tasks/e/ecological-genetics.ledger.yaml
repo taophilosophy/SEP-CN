@@ -11,503 +11,681 @@ segments:
     kind: body
     source: |-
       *Ecological genetics* is the broad field of studies that investigates the relationship between genetic change and features of the biotic and abiotic environment. In population genetic theory, the role of the environment in adaptive evolution tends to be hidden in the recursion equations for gene frequency dynamics, where the common assumption of a constant selection coefficient implies a constant relationship between genotype, phenotype and fitness irrespective of environment. For *ecological genetics*, in contrast, the central focus is the causal relationship between genetic variation and environmental variation, where conspicuous (especially discrete) phenotypic variation is assumed to have an underlying genetic component. The advent of molecular tools and the development of molecular ecology within ecological genetics has greatly broadened the conceptual scope of the field within the last fifteen years.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “生态遗传学”是研究遗传变化与生物环境及非生物环境特征之间关系的宽泛研究领域。在群体遗传学理论中，环境在适应性进化中的作用往往隐藏在基因频率动态的递归方程之中，那里通常假定选择系数恒定，这意味着基因型、表现型与适合度之间的关系不随环境而变。与此不同，“生态遗传学”的核心焦点是遗传变异与环境变异之间的因果关系，其中引人注目的（尤其是离散的）表现型变异被假定具有某个潜在的遗传成分。分子工具的出现以及生态遗传学内部分子生态学的发展，在最近十五年里极大地拓宽了该领域的概念范围。
+    step2: |-
+      “生态遗传学”是一个宽泛的研究领域，考察遗传变化与生物及非生物环境特征之间的关系。在群体遗传学理论中，环境在适应性进化中的作用往往隐藏在基因频率动态的递归方程里：那里通常假定选择系数恒定，等于假定基因型、表现型与适合度三者的关系不随环境改变。与之相对，“生态遗传学”的核心焦点是遗传变异与环境变异之间的因果关系，并假定醒目的（尤其是离散的）表现型变异背后有遗传成分支撑。近十五年来，分子工具的出现与分子生态学在生态遗传学内部的发展，大大拓宽了这个领域的概念范围。
   - id: 2
     kind: body
     source: |-
       The origins of *ecological genetics* are founded in the “modern synthesis” (Huxley 1942)[^huxley-1942], where the integration of genetics and Darwinian evolution was achieved through the theoretical works of R. A. Fisher, S. Wright, and J. B. S. Haldane and the conceptual works and influential writings of J. Huxley, T. Dobzhansky, and H. J. Muller. From these genetic beginnings, it was natural for much evolutionary research to be concentrated on the forces that cause changes in gene and genotype frequencies within populations. In this genetics-centered view, the four evolutionary forces (mutation, random genetic drift, natural selection, and gene flow) act within and among populations to cause micro-evolutionary change. Those same forces act in concert to convert the genetic variation within populations into more or less permanent genetic variation between species. Given enough time, the micro-evolutionary forces are believed to be sufficient to account for macro-evolutionary patterns characteristic of the higher taxonomic groups. In short, the central challenge of the field of *evolutionary genetics* has been to describe how the four evolutionary forces shape patterns of gene, genome and species diversity, with a particular emphasis on the predominant role of natural selection among the several evolutionary forces.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “生态遗传学”的起源奠基于“现代综合”（Huxley 1942）[^huxley-1942]，通过 R. A. 费希尔、S. 赖特和 J. B. S. 霍尔丹的理论工作，以及 J. 赫胥黎、T. 杜布赞斯基和 H. J. 穆勒的概念工作与有影响的著述，遗传学与达尔文式进化在那里实现了整合。从这些遗传学的开端出发，大量进化研究自然集中到在种群内部引起基因与基因型频率变化的各种力量上。在这种以遗传学为中心的观点看来，四种进化力量（突变、随机遗传漂变、自然选择与基因流）在种群内部和种群之间起作用，引起微观进化变化。同样这些力量协同作用，把种群内部的遗传变异转化为物种之间或多或少持久的遗传变异。只要有足够时间，人们相信这些微观进化力量就足以解释高等分类群特有的宏观进化格局。简言之，“进化遗传学”这个领域的核心挑战一直是描述四种进化力量如何塑造基因、基因组与物种多样性的格局，尤其强调自然选择在诸进化力量中的主导地位。
+    step2: |-
+      “生态遗传学”的起源可以追溯到“现代综合”（Huxley 1942）[^huxley-1942]：遗传学与达尔文式进化在其中完成整合，靠的是 R. A. 费希尔、S. 赖特与 J. B. S. 霍尔丹的理论工作，以及 J. 赫胥黎、T. 杜布赞斯基与 H. J. 穆勒的概念工作及其影响深远的著述。有了这样的遗传学起点，大量进化研究把注意力集中到种群之内改变基因与基因型频率的力量上，也就顺理成章。在这种以遗传学为中心的视角下，四种进化力量（突变、随机遗传漂变、自然选择、基因流）在种群内外发挥作用，造成微观进化层面的变化；也正是这几种力量协同运作，把种群内部的遗传变异转化为物种之间多少算得上持久的遗传变异。只要时间足够，这些微观进化的力量被认为足以解释高等分类群所特有的宏观进化格局。简言之，“进化遗传学”这一领域的核心挑战，始终是刻画四种进化力量如何塑造基因、基因组与物种多样性格局，其中又特别强调自然选择在诸力量之中的主导地位。
   - id: 3
     kind: body
     source: |-
       However, the gene-centered viewpoint was not the primary research focus or challenge for a large subset of field researchers, consisting of naturalists, zoologists and ecologists. Their focus was similarly on natural selection as the only evolutionary force which can produce adaptation, the fit between an organism and its environment. However, its focus is on the role of environment in adaptation. *Ecological genetics* is the study of evolutionary processes, especially adaptation by natural selection, in an ecological context in order to account for phenotypic patterns observed in nature. Where evolutionary genetics tends toward a branch of applied mathematics founded on Mendelian axioms, *ecological genetics* is grounded in the reciprocal interaction between theory and empirical observations from field and laboratory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，以基因为中心的视角并非一大批田野研究者——包括博物学家、动物学家和生态学家——的首要研究焦点或挑战。他们同样把自然选择视为唯一能产生适应的进化力量，即生物与环境之间的契合；不过，他们的关注点在于环境在适应中所起的作用。“生态遗传学”是在生态背景中研究进化过程、尤其是自然选择造成的适应，以解释自然界中观察到的表现型格局。“进化遗传学”倾向于成为一门建立在孟德尔公理之上的应用数学分支，“生态遗传学”则扎根于理论与来自田野和实验室的经验观察之间的相互作用。
+    step2: |-
+      不过，对一大批田野研究者——博物学家、动物学家和生态学家——来说，以基因为中心的视角从来不是首要的研究焦点，也算不上他们面对的挑战。他们同样认定自然选择是唯一能产生适应（即生物与其环境之间的契合）的进化力量，但关心的重点放在环境在适应中的角色上。“生态遗传学”研究生态背景下的进化过程，尤其是自然选择带来的适应，以此解释在自然界观察到的表现型格局。如果说“进化遗传学”趋近于一门以孟德尔公理为基础的应用数学，那么“生态遗传学”的根基则是理论与田野、实验室经验观察之间的往复互动。
   - id: 4
     kind: body
     source: |-
       ## 1. Introduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 引言
+    step2: |-
+      ## 1. 导言
   - id: 5
     kind: body
     source: |-
       In this entry, I review briefly the history of ecological genetic research and its recent integration with molecular genetic methods in the sub-field of molecular ecology. Most studies in ecological genetics begin with one or the other of the two most prominent patterns in nature:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在本词条中，我简要回顾生态遗传学研究的历史，及其最近在分子生态学这个子领域里与分子遗传方法的整合。生态遗传学的大多数研究都从自然界最突出的两种模式之一出发：
+    step2: |-
+      本词条简要回顾生态遗传学研究的历史，以及它近来在分子生态学这一子领域内与分子遗传方法的整合。生态遗传学的研究大多从自然界最突出的两类模式之一入手：
   - id: 6
     kind: body
     source: |-
       1. adaptation, the “fit” between an organism and its environment (see the entry on fitness); or,
       2. polymorphism, the maintenance of two or more phenotypic or genetic forms within a single population by natural selection.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 适应，即生物与其环境之间的“契合”（参见“适合度”词条）；或者，
+      2. 多态性，即自然选择在单一种群内维持两种或更多表现型或遗传型形式。
+    step2: |-
+      1. 适应，也就是生物与其环境之间的“契合”（参见“适合度”词条）；或者，
+      2. 多态性，也就是自然选择使两种或更多表现型形式或遗传形式在同一个种群内得到维持。
   - id: 7
     kind: body
     source: |-
       With the development of molecular ecology, the latter can be significantly extended to explore phenotypic differences between species in a phylogenetic context. This permits a more incisive investigation of the environments that favor adaptive divergence of phenotypes between species. Moreover, the same molecular methods useful in phylogenetics can often be modified to identify the genes or chromosomal regions responsible for those inter-specific phenotypes (Gibson et al. 2021)[^gibson-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      随着分子生态学的发展，后者可以在系统发生的背景下显著扩展，用来探索物种之间的表现型差异。这使得我们能够更犀利地考察那些促成物种之间表现型适应性趋异的环境。此外，系统发生学中使用的分子方法常常经过修改，就可以鉴定对那些种间表现型负责的基因或染色体区域（Gibson et al. 2021）[^gibson-2021]。
+    step2: |-
+      随着分子生态学的发展，后一类研究得以在系统发生的框架中大幅扩展，转而考察物种之间的表现型差异。这让我们能够更锐利地追问：哪些环境有利于物种之间表现型的适应性分化。不仅如此，系统发生学里那些好用的分子方法，稍加改造往往就能用来鉴定造成种间表现型差异的基因或染色体区域（Gibson et al. 2021）[^gibson-2021]。
   - id: 8
     kind: body
     source: |-
       The earliest studies attempted to document the action of natural selection in wild populations in support of Darwinian’s theory. In so doing, these studies attempted to demonstrate that evolution by natural selection was not only an historical causal force, but that it also continued to act on the characteristics of wild populations in the present day. Under the assumption of gradualism, it was not clear whether natural selecting acting on phenotypes in wild populations could be detected, let alone account for between species phenotypic differences. The starting observations of many of the earliest ecological genetic investigations, i.e., the phenotypes of most interest, were conspicuous phenotypic polymorphisms, such as the spotting patterns on butterfly wings or banding patterns of snail shells or polymorphisms of chromosomal rearrangements. These were either known to have a genetic basis or could safely be assumed to have one.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最早的研究试图记录野生种群中自然选择的作用，以支持达尔文的理论。这样做的过程中，这些研究力图证明：自然选择造成的进化不仅是历史上的一种因果力量，而且今天仍在作用于野生种群的性状。在渐变论的假设下，当时并不清楚作用于野生种群表现型的自然选择能否被检测出来，更不用说解释物种之间的表现型差异了。许多最早的生态遗传学考察的起始观察对象，也就是最受关注的表现型，是醒目的表现型多态现象，例如蝴蝶翅膀上的斑点图案、蜗牛外壳的条带图案，或染色体重排的多态现象。这些性状要么已知有遗传基础，要么可以稳妥地假定有遗传基础。
+    step2: |-
+      最早的一批研究试图记录自然选择在野生种群中的运作，以此为达尔文的理论提供支持。它们力图证明：由自然选择驱动的进化不只是历史上的一份因果力量，它至今仍在塑造野生种群的性状。可是在渐变论的假设下，作用于野生种群表现型的自然选择究竟能否被检测到，本身就很成问题，更遑论用它去解释物种之间的表现型差异。许多最早的生态遗传学考察都从醒目的表现型多态现象起步——比如蝴蝶翅面的斑点图案、蜗牛壳的条带图案，或染色体重排的多态——这些也正是研究者最关心的表现型。这些性状要么已知有遗传基础，要么可以被稳妥地假定为有。
   - id: 9
     kind: body
     source: |-
       Although natural selection is the only evolutionary force that can account for adaptation, several evolutionary forces, acting alone or in combination, can sustain a genetic polymorphism, at least transiently. Thus, assigning causal agency to a single evolutionary force is often a more difficult problem when explaining polymorphism within species than it is for adaptations. In these studies of conspicuous polymorphisms, natural selection was “privileged” among the four evolutionary forces as an explanation for their maintenance, at least in part, because one of the founders of ecological genetics, E. B. Ford, collaborated extensively with R. A. Fisher (see Ford 1975)[^ford-1975]. In the early period (1928–1950), much of the problem of assigning causal agency to the maintenance of genetic polymorphism was resolved by definition rather than by empirical observation (see section 2 below: Classical Ecological Genetics and Polymorphism). That is, only those polymorphisms where the rarest form was deemed “too common” to be accounted for by recurrent mutation were considered suitable for study. Moreover, if the species was abundant, then random genetic drift could similarly be eliminated as a relevant process. Indeed, the longest standing controversies in ecological genetics centered on whether natural selection could account for the observed frequencies of polymorphism or whether the variation in those frequencies indicated a significant role of random genetic drift (see, for example, Schemske and Bierzychudek [2001] regarding the interpretation of flower color polymorphism in the desert annual, *Linanthus parryae*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管自然选择是唯一能解释适应的进化力量，几种进化力量单独或联合作用却能维持一个遗传多态性，至少暂时如此。因此，在解释种内多态现象时，把因果作用归于某一种进化力量往往比解释适应更难。在这些对醒目多态现象的研究中，自然选择在四种进化力量中被“优先”选为解释其维持的力量，这部分是因为生态遗传学的奠基人之一 E. B. 福特与 R. A. 费希尔有过广泛合作（见 Ford 1975）[^ford-1975]。在早期（1928–1950），维持遗传多态性的因果归属问题在很大程度上靠定义而非经验观察来解决（见下文第 2 节：经典生态遗传学与多态性）。也就是说，只有那些最稀有形式也被认为“过于常见”、无法用反复突变来解释的多态现象才被视为适于研究的对象。此外，如果物种本身数量丰富，随机遗传漂变同样可以被排除在相关过程之外。的确，生态遗传学中持续时间最长的争论，正是围绕自然选择能否解释观察到的多态频率，还是这些频率的变异表明随机遗传漂变起了重要作用（例如，关于沙漠一年生植物 *Linanthus parryae* 花色多态现象的解释，见 Schemske and Bierzychudek [2001]）。
+    step2: |-
+      自然选择固然是唯一能解释适应的进化力量，但若干种进化力量，无论单独还是联合作用，都能让一个遗传多态性维持下去——至少能维持一时。所以与解释适应相比，解释种内多态现象时，把因果作用归给某一种特定的进化力量往往更加困难。在关于醒目多态现象的研究中，四种进化力量里被“优先”用作维持机制解释的是自然选择，部分缘由在于生态遗传学的奠基人之一 E. B. 福特曾与 R. A. 费希尔密切合作（见 Ford 1975）[^ford-1975]。在早期阶段（1928–1950），维持遗传多态性的因果归属问题在很大程度上是靠定义、而非靠经验观察解决的（见下文第 2 节“经典生态遗传学与多态性”）。换句话说，只有那些最稀有形式也“常见”到无法用反复突变交代的多态现象，才被认定值得研究。再者，倘若物种数量丰富，随机遗传漂变也照样可以被排除出相关过程之列。事实上，生态遗传学中最旷日持久的争论恰恰是：观察到的多态频率究竟能否由自然选择解释，抑或这些频率的波动说明随机遗传漂变扮演了重要角色（例如，关于沙漠一年生植物 *Linanthus parryae* 花色多态的解释之争，见 Schemske and Bierzychudek [2001]）。
   - id: 10
     kind: body
     source: |-
       In the later period (1966–present), the advent of allozymes and molecular genetics permitted investigation of a less biased sample of genetic polymorphism. The modern characterization and analyses of allozymes and single nucleotide polymorphisms still retains the early emphasis on natural selection as the single most important evolutionary force shaping the hereditary material. Differently put, adaptive explanations for patterns of species divergence tend to be favored over non-adaptive explanations (see recent review of the causes of the rapid diversification among species of reproductive genes by Dapper and Wade [2020].)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在较晚的时期（1966 至今），同工酶与分子遗传学的出现使人们能够考察偏差较小的遗传多态性样本。对同工酶和单核苷酸多态性的现代刻画与分析，仍然保留了早期的重点：把自然选择视为塑造遗传材料的最重要进化力量。换句话说，对物种分化格局，适应性解释往往比非适应性解释更受青睐（关于生殖基因物种快速多样化原因的近期综述，见 Dapper and Wade [2020]）。
+    step2: |-
+      在较晚的阶段（1966 年至今），等位酶（allozyme）与分子遗传学的到来让研究者得以考察一份偏向小得多的遗传多态性样本。等位酶与单核苷酸多态性的现代刻画及分析依旧承袭了早年的侧重：把自然选择当作塑造遗传材料的首要进化力量。换个说法，面对物种分化的格局，适应性解释总是比非适应性解释更受偏爱（关于生殖基因在物种间快速多样化的原因，近期综述见 Dapper and Wade [2020]）。
   - id: 11
     kind: body
     source: |-
       Ecological genetics began at a time when the major theoretical aspects of the Modern Synthesis were in place, when the marvels of adaptation were clear, but when few empirical examples of natural selection in action were available. Achieving adaptive perfection by gradualism requires long periods of time wherein
-    step1: TBD
-    step2: TBD
+    step1: |-
+      生态遗传学起步之时，现代综合的主要理论方面已经就位，适应的奇妙之处有目共睹，但自然选择实际运作的经验实例却寥寥无几。要靠渐变论达到适应的完善，需要漫长的时间，其间——
+    step2: |-
+      生态遗传学诞生之际，现代综合的主要理论构件均已就位，适应之精妙有目共睹，可自然选择实际运作的经验实例却屈指可数。渐变论要达成适应的完善，必须有漫长的时间，其间——
   - id: 12
     kind: body
     source: |-
       > … a very slight selective effect acting for a correspondingly long time will be equivalent to a much greater effect acting for a proportionately shorter time. (R. A. Fisher 1921, in correspondence with S. Wright, quoted by Provine [1986: 247])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……一个极其微弱的选择效应只要作用相应长的时间，就等同于一个在成比例更短时间内作用的强大得多的效应。（R. A. Fisher 1921，致 S. Wright 的通信，转引自 Provine [1986: 247]）
+    step2: |-
+      > ……一个极其微弱的选择效应，只要作用相应长的时间，其效果便等同于一个强大得多、但作用时间成比例缩短的效应。（R. A. Fisher 1921，与 S. Wright 通信，转引自 Provine [1986: 247]）
   - id: 13
     kind: body
     source: |-
       Very weak natural selection, however, is an impediment to the goal of ecological genetics to illuminate natural selection in action in the wild. Thus, the shift in focus toward understanding the role of strong natural selection in maintaining visible genetic polymorphisms is understandable. As put by its founder, E. B. Ford,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，极其微弱的自然选择对生态遗传学的目标——阐明自然选择在野外的实际运作——构成了障碍。因此，研究焦点转向理解强自然选择在维持可见遗传多态性中的作用，这是可以理解的。正如其奠基人 E. B. 福特所说：
+    step2: |-
+      可是，要达成生态遗传学的目标——阐明自然选择在野外的实际运作——极其微弱的自然选择恰恰是一块绊脚石。由此便不难理解，研究焦点为何转向强自然选择在维持可见遗传多态性中的角色。用其奠基人 E. B. 福特的话说：
   - id: 14
     kind: body
     source: |-
       > It [ecological genetics] supplies the means, and the only direct means, of investigating the actual process of evolution taking place in the present time. (1975: 3)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 它［生态遗传学］提供了手段，而且是唯一的直接手段，来研究当下正在发生的进化的实际过程。（1975: 3）
+    step2: |-
+      > 它［生态遗传学］提供了手段，而且是唯一直接的手段，用以研究当下正在进行的进化的实际过程。（1975: 3）
   - id: 15
     kind: body
     source: |-
       The focus of traditional ecological genetic research on the current action of natural selection has been broadened in several ways over the last two decades. First, whereas the early studies tended to focus on evolution in single populations, there is now a significant emphasis in ecological genetics on the population genetic structure of metapopulations and the roles of migration, extinction, and colonization on evolutionary and adaptive processes (e.g., Goodacre 2002)[^goodacre-2002]. Secondly, whereas the earliest studies emphasized conspicuous polymorphisms or chromosomal rearrangements and their influence on fitness, the advent of biochemical genetics in the late 1960s significantly broadened the phenotype, beginning with the application of electrophoretic methods to population studies. These studies revealed abundant “hidden polymorphism” in the new, biochemical phenotype of enzyme mobility. These methods extended the domain of ecological genetics from the classic “conspicuous phenotypic polymorphisms” in color, shape and behavior to the physiological domain of enzyme function. The new emphasis on functional biochemical phenotypes, however, did not change the explanatory or causal framework of the field. Determining the role of natural selection in maintaining enzyme polymorphisms, such as the fast/slow polymorphisms of alcohol dehydrogenase (an enzyme involved in the detoxification of environmental alcohols), superoxide dismutase (which catalyzes the removal of free oxygen radicals), or the esterases (which are involved in the detoxification of pesticides in many insects), became a primary focus of investigation with the goal of finding a *selective* basis for the enzyme variants in terms of differences in their physical and kinetic properties. Indeed, the roots of controversy between the selectionist and neutralist schools over the maintenance of “balanced” polymorphisms (see Lewontin 1974)[^lewontin-1974] lie in the controversy over random genetic drift versus natural selection in early ecological genetic research (see below).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      传统生态遗传研究聚焦自然选择的当下作用，这一焦点在最近二十年间以多种方式得到拓宽。第一，早期研究多着眼于单一种群内的进化，而如今生态遗传学相当重视集合种群的种群遗传结构，以及迁移、灭绝与拓殖在进化和适应过程中的作用（如 Goodacre 2002）[^goodacre-2002]。第二，最早的研究强调醒目的多态现象或染色体重排及其对适合度的影响，而二十世纪六十年代末生化遗传学的出现显著拓宽了表现型的范围，开端是把电泳方法应用于种群研究。这些研究揭示了酶迁移率这一新的生化表现型中丰富的“隐蔽多态性”。这些方法把生态遗传学的领域从颜色、形状和行为方面经典的“醒目表现型多态性”扩展到酶功能的生理领域。不过，对功能性生化表现型的新侧重并没有改变这个领域的解释或因果框架。确定自然选择在维持酶多态性中的作用，比如乙醇脱氢酶（一种参与环境酒精解毒的酶）的快/慢多态现象、超氧化物歧化酶（催化清除自由氧自由基）或酯酶（在许多昆虫中参与对杀虫剂的解毒）等，成为研究的主要焦点，目标是从酶变体物理与动力学性质的差异中找到其“选择”基础。事实上，选择论学派与中性论学派围绕“平衡”多态性维持的争论（见 Lewontin 1974）[^lewontin-1974]，其根源正是早期生态遗传研究中随机遗传漂变与自然选择之争（见下文）。
+    step2: |-
+      传统生态遗传研究聚焦自然选择的当下作用；在最近二十年里，这一焦点从多个方向得到拓宽。其一，早期研究大多着眼于单一种群内的进化，如今生态遗传学则相当重视集合种群的种群遗传结构，重视迁移、灭绝与拓殖在进化及适应过程中的作用（如 Goodacre 2002）[^goodacre-2002]。其二，最早的研究强调醒目的多态现象或染色体重排及其对适合度的影响，而二十世纪六十年代末生化遗传学的兴起把表现型的范围大大拓宽，起点是电泳方法在种群研究中的应用。这类研究在酶迁移率这一新型生化表现型中揭示出大量“隐蔽多态性”。生态遗传学的疆域由此从颜色、形状、行为层面的经典“醒目表现型多态性”，延伸到酶功能的生理领域。不过，侧重功能性生化表现型这一转变，并未触动该领域的解释框架与因果框架。查明自然选择在维持酶多态性中的作用——例如乙醇脱氢酶（参与环境酒精解毒的酶）的快/慢多态、超氧化物歧化酶（催化清除自由氧自由基）或酯酶（在许多昆虫体内参与对杀虫剂的解毒）——成为研究的首要焦点，目标是从酶变体在物理与动力学性质上的差异出发，为其找到一个“选择”基础。事实上，选择论学派与中性论学派围绕“平衡”多态性维持问题的争端（见 Lewontin 1974）[^lewontin-1974]，正发端于早期生态遗传研究中随机遗传漂变与自然选择的旧有对峙（见下文）。
   - id: 16
     kind: body
     source: |-
       The more recent advent of DNA sequencing initiated the growth of molecular phylogenetics and molecular ecology. The new technology added not only a new phenotype, but also a more pronounced historical (phylogenetic) dimension to ecological genetic research. Molecular phylogenics and comparative sequence analysis have become the primary modern tools for the investigation of the evolutionary patterns and processes that shape DNA sequences. These methods have strengthened inferences regarding biogeography, speciation, and adaptation, especially in regard to the diversification of taxonomic lineages that attends ecological release and adaptive radiations. They have shifted the focus from polymorphism within species to diversification among clades (e.g., Kostyun et al. 2019)[^kostyun-2019] and permitted the investigation of the history of individual genes (Gibson et al. 2021)[^gibson-2021]. For example, ecological genomic data have permitted the reconstruction of the invasion of the Galapagos Islands by the wild tomato species, *Solanum pimpinellifolium*, through hybridization and introgression with a closely related endemic species, *Solanum cheesmaniae*. Moreover, an adaptive phenotype, orange fruit color similar to the endemic species, is associated with two introgressed regions of the *Solanum* genome which contain known fruit color loci, supporting the inference that adaptive convergence was genetically facilitated by introgression (Gibson et al. 2021)[^gibson-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      较晚出现的 DNA 测序技术引发了分子系统发生学与分子生态学的成长。这项新技术不仅带来一种新的表现型，还为生态遗传研究添上了更明显的历史（系统发生）维度。分子系统发生学与比较序列分析已成为研究塑造 DNA 序列的进化格局与过程的首要现代工具。这些方法强化了关于生物地理学、物种形成和适应的推断，尤其是在伴随生态释放与适应辐射的分类谱系多样化方面。它们把焦点从种内多态性转移到支系之间的多样化（如 Kostyun et al. 2019）[^kostyun-2019]，并使研究单个基因的历史成为可能（Gibson et al. 2021）[^gibson-2021]。例如，生态基因组数据使我们得以重构野生番茄物种 *Solanum pimpinellifolium* 对加拉帕戈斯群岛的入侵：它通过与近缘特有种 *Solanum cheesmaniae* 杂交并发生基因渗入而实现。此外，一种适应性表现型——与特有种相似的橙色果色——与 *Solanum* 基因组中两个渗入区域相关联，这两个区域含有已知的果色位点，支持了如下推断：适应性趋同在遗传上因基因渗入而得到促进（Gibson et al. 2021）[^gibson-2021]。
+    step2: |-
+      更晚些时候，DNA 测序技术问世，带动了分子系统发生学与分子生态学的成长。新技术不只添了一种新的表现型，还为生态遗传研究补上了更浓重的历史（系统发生）维度。如今，刻画 DNA 序列进化格局与过程，主要靠分子系统发生学与比较序列分析。这些方法加固了生物地理、物种形成与适应方面的推断，在分类谱系伴随生态释放与适应辐射而多样化的问题上尤其如此。它们把注意力从种内多态性移向支系之间的多样化（如 Kostyun et al. 2019）[^kostyun-2019]，还让追踪单个基因的历史成为可能（Gibson et al. 2021）[^gibson-2021]。举个例子，凭借生态基因组数据，我们可以重构野生番茄 *Solanum pimpinellifolium* 入侵加拉帕戈斯群岛的过程：它与近缘特有种 *Solanum cheesmaniae* 杂交并发生基因渗入。而且，那里有一种适应性表现型——与特有种相仿的橙色果色——正好落在 *Solanum* 基因组两个渗入区域上，区域内含已知的果色位点；这支持如下推断：适应性趋同之所以实现，遗传上得益于基因渗入（Gibson et al. 2021）[^gibson-2021]。
   - id: 17
     kind: body
     source: |-
       Two new patterns in particular have been recognized by these DNA-based methods. The first is the preponderance of “purifying selection”, wherein the conservative power of natural selection is seen as a barrier to diversity. It is this conservative aspect of natural selection acting at the molecular level that lends power to the investigation of the genetic architecture of model organisms *vis à vis* human genetics. The second pattern is the discovery of the existence of *ancient polymorphisms*, molecular genetic variation whose age may be greater than that of the species or taxon in which it occurs. Natural selection remains the privileged explanatory force in modern sequence studies. Indeed, the search for, characterization, and explanation of uniquely molecular patterns, such as codon bias (Behura & Severson 2013)[^behura-2013] and selective sweeps, has, if anything, elevated the focal explanatory power of natural selection in evolutionary studies. That is, nonrandom or biased use of redundant codons in DNA sequences is seen as evidence that, although they have no effect on amino acid sequence, redundant codons are not all functionally equivalent in that some permit more efficient gene expression. This is taken as evidence that natural selection is all powerful, reaching down into the genome to affect even the smallest and least significant components of the hereditary material.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这类基于 DNA 的方法特别识别出两种新模式。第一种是“净化选择”的普遍存在，其中自然选择的保守力量被视为多样性的屏障。正是在分子层面起作用的自然选择的这种保守面向，让以模式生物为对象的遗传结构考察获得了相对于人类遗传学的力量。第二种模式是“古老多态性”的发现，即分子遗传变异的年龄可能大于它所在的物种或分类单元。在现代序列研究中，自然选择依然占据优先解释地位。事实上，对密码子偏倚（Behura & Severson 2013）[^behura-2013]与选择性清扫这类独特分子模式的寻找、刻画与解释，即便有什么影响的话，也是提升了自然选择在进化研究中的核心解释力。也就是说，DNA 序列中对冗余密码子的非随机或有偏使用被当作证据，表明冗余密码子虽然不影响氨基酸序列，却并非都在功能上等价，因为其中一些能支持更高效的基因表达。这被视为自然选择无所不在的证据：它深入基因组，乃至影响遗传材料中最微小、最不重要的组成部分。
+    step2: |-
+      这类基于 DNA 的方法尤其辨认出两种新模式。其一是“净化选择”的盛行：自然选择的保守力量在这里被当作多样性的屏障。自然选择在分子层面施展的这种保守面向，正是比较模式生物与人类遗传结构的研究得以立足的力量来源。其二是“古老多态性”的发现——某些分子遗传变异的年龄，可能超过它们所栖身的物种或分类单元本身。在现代序列研究中，自然选择依旧稳居首选解释的地位。毋宁说，围绕密码子偏倚（Behura & Severson 2013）[^behura-2013]、选择性清扫这类独有分子模式所做的搜寻、刻画与解释，非但没有削弱自然选择的地位，反而抬高了它在进化研究中的核心解释力。所谓密码子偏倚，是指 DNA 序列对冗余密码子的使用并非随机、而是有偏向的；这被当作一条证据，说明冗余密码子虽然不改变氨基酸序列，功能上却未必等价——其中一些能支持更高效的基因表达。人们由此认定，自然选择威力无边，一直深入到基因组内部，连遗传材料里最细小、最不显眼的组件也不放过。
   - id: 18
     kind: body
     source: |-
       In this entry, I review classical ecological genetics and then discuss the novel kinds of processes and explanations that accompanied the expansion of the field from single populations to genetically structured metapopulations and from phenotypic to biochemical and DNA sequence polymorphisms. I will show that the central early controversy over the roles of random genetic drift and natural selection in evolution has continued to this day, despite the apparent technological refinements afforded by the availability of biochemical and DNA sequence data. That is, finer scale or more reductionistic genetic data has not yet led to a resolution of the original conceptual issues that lie at the foundation of ecological genetics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在本词条中，我首先回顾经典生态遗传学，然后讨论该领域从单一种群扩展到有遗传结构的集合种群、从表现型多态性扩展到生化与 DNA 序列多态性时伴随出现的新型过程与解释。我将表明，围绕随机遗传漂变与自然选择在进化中的角色这一早期核心争论，尽管生化与 DNA 序列数据带来了表面上的技术精进，却一直延续到今天。也就是说，更精细尺度或更还原论的遗传数据，尚未能解决生态遗传学根基处的原有概念问题。
+    step2: |-
+      本词条先回顾经典生态遗传学，继而讨论该领域扩张时伴随出现的新型过程与解释——从单一种群到有遗传结构的集合种群，从表现型多态性到生化与 DNA 序列多态性。我要说明的是：围绕随机遗传漂变与自然选择在进化中的角色，这场早期的核心争论延续至今，尽管生化与 DNA 序列数据带来了看似精良的技术改进。换言之，尺度更细、更加还原论的遗传数据，至今未能化解生态遗传学奠基之处的那些概念问题。
   - id: 19
     kind: body
     source: |-
       ## 2. Classical Ecological Genetics and Polymorphism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 经典生态遗传学与多态现象
+    step2: |-
+      ## 2. 经典生态遗传学与多态性
   - id: 20
     kind: body
     source: |-
       Historically, the starting point of ecological genetic research has been the discovery of variation within a natural population, i.e., a phenotypic polymorphism. The subsequent goal is three-fold:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      历史上，生态遗传研究的起点是发现一个自然种群内的变异，即表现型多态现象。随后的目标是三重的：
+    step2: |-
+      历史地看，生态遗传研究的起点，是在某个自然种群内发现变异，也就是表现型多态现象。接下来的目标有三：
   - id: 21
     kind: body
     source: |-
       1. determination of whether or not the polymorphism has a genetic component;
       2. determination of the frequency of each of the polymorphic types and their spatial and temporal variability; and,
       3. determination of how natural selection maintains the polymorphism, either alone or in combination with other evolutionary forces.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 判定该多态现象是否具有遗传成分；
+      2. 判定各多态类型的频率及其空间与时间变异性；以及，
+      3. 判定自然选择如何维持该多态现象——是单独维持，还是与其他进化力量联合维持。
+    step2: |-
+      1. 判定该多态现象有没有遗传成分；
+      2. 判定各多态类型的频率，及其在空间与时间上的变动幅度；以及，
+      3. 判定自然选择如何维持这一多态现象——靠它单独起作用，还是与其他进化力量联手。
   - id: 22
     kind: body
     source: |-
       Ford defines *genetic polymorphism* as
-    step1: TBD
-    step2: TBD
+    step1: |-
+      福特给“遗传多态性”下的定义是：
+    step2: |-
+      福特对“遗传多态性”的定义如下：
   - id: 23
     kind: body
     source: |-
       > …the occurrence together in the same locality of two or more discontinuous forms of a species in such proportions that the rarest of them cannot be maintained merely by recurrent mutation. (1975: 109; and see also Ford 1940)[^ford-1940]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……同一物种的两种或更多不连续形式在同一地点共同出现，且其比例使得其中最稀有者无法仅靠反复突变来维持。（1975: 109；另见 Ford 1940）[^ford-1940]
+    step2: |-
+      > ……同一物种的两种或更多不连续类型在同一地点同时出现，出现比例使其中最稀有的类型无法仅凭反复突变维持下去。（1975: 109；另见 Ford 1940）[^ford-1940]
   - id: 24
     kind: body
     source: |-
       Although recurrent mutation can maintain a polymorphism indefinitely at mutation-selection balance, here Ford is clearly interested in a more active role for natural selection in the maintenance of polymorphism. The first task was facilitated by early developments in population genetic theory, particularly the findings of Fisher (1930). Ford interpreted these to mean that naturally occurring, discontinuous phenotypic variation is “nearly always genetic”. The reasoning stems from the theoretical findings that, in large populations, it is unlikely that the positive and negative fitness effects of an allele (or chromosomal inversion) will be exactly balanced. As a result, the number of individuals with a rare neutral mutation is proportional to the number of generations since its origin. Furthermore, if truly neutral, such alleles would spread so slowly through a large population by random genetic drift that the
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管反复突变可以在突变-选择平衡处无限期地维持一个多态现象，福特在这里显然对自然选择在多态性维持中的更主动角色感兴趣。第一项任务因群体遗传理论的早期发展而变得容易，特别是费希尔（1930）的发现。福特把这些发现解读为：自然出现的不连续表现型变异“几乎总是遗传的”。这一推理源于如下理论结论：在大种群中，一个等位基因（或染色体倒位）的正负适合度效应恰好完全抵消是不太可能的。因此，携带稀有中性突变的个体数量与该突变起源以来经过的世代数成正比。此外，即使真属中性，这样的等位基因靠随机遗传漂变在大种群中扩散的速度也会非常缓慢，以至于
+    step2: |-
+      反复突变固然能在突变-选择平衡点上把一个多态现象无限期维持下去，但福特在此明显更关心自然选择在多态性维持中扮演更主动的角色。第一项任务得益于群体遗传理论的早期进展，尤其是费希尔（1930）的研究发现。福特的解读是：自然界出现的不连续表现型变异“几乎总是遗传的”。这条推理出自一个理论结论：在大种群中，一个等位基因（或染色体倒位）的正、负两种适合度效应恰好相抵，这种情况极不可能出现。于是，带有某个稀有中性突变的个体数量，就与该突变起源以来所历经的世代数成正比。再者，这样的等位基因即便真正中性，靠随机遗传漂变扩散于大种群的速度也极其缓慢，以至于
   - id: 25
     kind: body
     source: |-
       > delicate equipoise required for their neutrality will have been upset by changes in the environment and in the genetic outfit of the organism (Ford 1975: 110)[^ford-1975]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 其中性地位所需的精微平衡，将因环境的变化和生物遗传装备的改变而被动摇（Ford 1975: 110）[^ford-1975]
+    step2: |-
+      > 维持其中性地位所需的精微平衡，早就会因环境变化与生物遗传装备的更动而遭到破坏（Ford 1975: 110）[^ford-1975]
   - id: 26
     kind: body
     source: |-
       before a neutral allele reached appreciable frequency. In addition, recurrent mutation as a cause of persistent polymorphism was considered most unlikely and, in fact, this evolutionary cause is explicitly excluded from the definition of genetic polymorphism by Ford (see above). Hence, neutral genetic polymorphism was considered an exceptionally rare event by the founders of ecological genetics and, consequently, such polymorphisms were the hallmark of strong, active natural selection.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在中性等位基因达到可觉察的频率之前，情况就已如此。此外，把反复突变视为持久多态性之原因被普遍认为最不可靠，而且事实上，福特对遗传多态性的定义（见上文）明确排除了这一进化原因。因此，生态遗传学的奠基者们认为中性遗传多态性是极为罕见的事件，因而这类多态性是强而活跃的自然选择的标志。
+    step2: |-
+      在中性等位基因达到可觉察的频率之前，这种平衡便已失守。再者，用反复突变解释持久多态性，被普遍认为最不足信；事实上，福特对遗传多态性的定义（见上文）明确排除了这条进化成因。于是，在生态遗传学的奠基者眼中，中性遗传多态性是极其罕见的事件；相应地，这类多态性的出现便成了强而活跃的自然选择的标志。
   - id: 27
     kind: body
     source: |-
       Ford (1940) further distinguished two types of selective polymorphism, transient polymorphism and balanced polymorphism. *Transient polymorphism*, caused by a new favorable mutation in the process of displacing its ancestral allele by natural selection, was considered unlikely, because “…advantageous genes will usually have been already incorporated into the genetic constitution of the species” (Ford 1975: 110)[^ford-1975]. This and statements like it reflect the viewpoint that organisms in nature are exquisitely adapted to their environments by the long-acting process of Fisherian gradualistic natural selection (see the entry on natural selection). It is a prelude to the more explicitly adaptationist views found in the current behavioral literature (see review in Shuster & Wade 2003)[^shuster-2003]. This view of the evolutionary process as primarily one of refinement of existing organismal adaptation is an essential part of the Fisherian theory of evolutionary genetics (Wade & Goodnight 1998)[^wade-1998].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      福特（1940）进一步区分了两类选择性多态现象：暂态多态性与平衡多态性。暂态多态性由一个新的有利突变在自然选择作用下取代其祖先等位基因的过程造成，被认为不太可能，因为“有利基因通常早已被纳入物种的遗传构成之中”（Ford 1975: 110）[^ford-1975]。这一论断及类似说法反映了一种观点：自然界中的生物经过费希尔式渐变论的自然选择的长期作用，已与其环境达成精妙的适应（参见“自然选择”词条）。它是一段前奏，通向当前行为学文献中更直白的适应主义观点（综述见 Shuster & Wade 2003）[^shuster-2003]。把进化过程视为对既有生物适应的完善，这一看法是费希尔进化遗传学理论的必要部分（Wade & Goodnight 1998）[^wade-1998]。
+    step2: |-
+      福特（1940）又把选择性多态现象分作两类：暂态多态性与平衡多态性。暂态多态性起于一个新有利突变，它正在自然选择的推动下取代祖先等位基因——这类多态性被认为不大可能出现，因为“有利的基因通常早已被纳入物种的遗传构成”（Ford 1975: 110）[^ford-1975]。这句话以及同类论断背后，是这样一种观点：在费希尔式渐变论自然选择的长期作用下，自然界中的生物已与其环境达成精微的适应（参见“自然选择”词条）。它还为当下行为学文献里更露骨的适应主义观点做了铺垫（综述见 Shuster & Wade 2003）[^shuster-2003]。把进化过程主要理解为对生物既有适应的打磨与完善，正是费希尔进化遗传学理论不可或缺的组成部分（Wade & Goodnight 1998）[^wade-1998]。
   - id: 28
     kind: body
     source: |-
       The presumptions of a genetic basis for discontinuous phenotypic polymorphism and its maintenance by natural selection are clear from the writings of Ford cited above but these principles also can be found together in a single statement:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不连续表现型多态性具有遗传基础并靠自然选择维持，这两个假定从上文所引福特的著述来看一目了然，但它们也能合并在一个陈述之中：
+    step2: |-
+      不连续的表现型多态性以遗传为基础、由自然选择维持——这两个假定，从上引福特的话里已经看得很清楚；而它们同样可以合并成一句话：
   - id: 29
     kind: body
     source: |-
       > In view of these considerations it is clear that if any unifactorial character is at all widespread it must be of some [adaptive] value. Indeed, it is probably true that even if it occurs at as low a frequency as 1 per cent, it must have been favored by selection. (Ford 1975: 110)[^ford-1975]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 鉴于这些考虑，显而易见，任何单因子性状只要多少广泛分布，就必有其［适应］价值。事实上很可能，即使它出现的频率低到百分之一，它也必定曾受到选择的青睐。（Ford 1975: 110）[^ford-1975]
+    step2: |-
+      > 有鉴于此，显而易见：任何单因子性状，只要分布得足够广泛，就必有一定的［适应］价值。甚至可以断言，哪怕它出现频率低至百分之一，也必定得到过选择的青睐。（Ford 1975: 110）[^ford-1975]
   - id: 30
     kind: body
     source: |-
       Thus, the primary goal of the ecological geneticist is to discern exactly how natural selection is acting to maintain a *balanced polymorphism* by the relative strength of opposing fitness effects acting on the different sexes, at different stages in the life history, at different localities or at different times in the lifetime of the organism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，生态遗传学家的首要目标，是准确查明自然选择如何通过相反适合度效应的相对强度来维持一个“平衡多态性”——这些效应作用于不同的性别、不同的生活史阶段、不同的地点，或生物一生中的不同时期。
+    step2: |-
+      于是，生态遗传学家的首要目标，便是精确弄清自然选择如何借相反适合度效应之间的相对强弱，把一个“平衡多态性”维持下去：这些相反的效应分别作用于不同性别、不同生活史阶段、不同地点，以及生物一生中的不同时段。
   - id: 31
     kind: body
     source: |-
       The existence of males and females was discussed by Ford as a prime example of a balanced polymorphism because,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      雌雄两性的存在曾被福特当作平衡多态性的首要例证来讨论，原因在于：
+    step2: |-
+      关于雌雄两性的存在，福特曾将其作为平衡多态性的头号例证加以讨论，理由是：
   - id: 32
     kind: body
     source: |-
       > It is obvious that any tendency for the males to increase at the expense of the females, or the reverse, would be opposed by selection. (Ford 1975: 111)[^ford-1975]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 显而易见，任何以雄性增多为代价而使雌性减少的趋势，或相反的趋势，都会遭到选择的抵制。（Ford 1975: 111）[^ford-1975]
+    step2: |-
+      > 显而易见，雄性若以牺牲雌性为代价而增多，或雌性以牺牲雄性为代价而增多，这种趋势都会被选择所抵制。（Ford 1975: 111）[^ford-1975]
   - id: 33
     kind: body
     source: |-
       Fisher (1930) first argued that, because every individual has a mother and a father, the mean fitness of males must be equal to the mean fitness of females multiplied by the sex ratio, expressed as the number of females to males (i.e., the mean number of mates per male; see also Shuster and Wade 2003, Chapter 1)[^shuster-2003]. As a result, fitness increases with rarity, and, in this circumstance, whenever the population sex ratio deviates from unity, a gene that increases the numbers of the minority sex at birth will have a selective advantage. Thus, a sex ratio of unity is a stable, balanced polymorphism, achieved in many species by chromosomal determination of sex, which Ford referred to as a “‘built-in’ genetic switch-mechanism”, characteristic of other genetic polymorphisms, like Batesian mimicry. In general, the fitnesses of two different types constituting a phenotypic polymorphism must be equal to be maintained within a population by natural selection at a intermediate equilibrium frequency (a point recognized in Darwin 1871, Vol. II, Chapter 14)[^darwin-1871]. However, the balance of selective forces for non-sex related (or even sex-linked) polymorphisms is very different from that required to maintain an equal sex ratio. Using the existence of the separate sexes as an example of a balanced polymorphism is misleading or, at least unrepresentative, of the selective forces necessary to sustain balanced polymorphisms in general.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      费希尔（1930）最先论证：既然每个个体都有一位母亲和一位父亲，雄性的平均适合度必然等于雌性的平均适合度乘以性比（以雌比雄表达，即每个雄性的平均配偶数；另见 Shuster and Wade 2003，第一章）[^shuster-2003]。因此，适合度随稀有性而增加；在这种情况下，只要种群性比偏离 1:1，一个在出生时增加少数性别数量的基因就会具有选择优势。于是，1:1 的性比是一个稳定的平衡多态性，在许多物种中由染色体的性别决定机制实现；福特称之为“‘内置的’遗传开关机制”，贝氏拟态等其他遗传多态性也有同样的特征。一般而言，构成表现型多态性的两种不同类型，其适合度必须相等，才能靠自然选择在一个中间平衡频率上维持在种群之中（这一点在 Darwin 1871 的第二卷第十四章已得到承认）[^darwin-1871]。然而，与非性别相关（甚至伴性）多态现象有关的选择力量的平衡，与维持均等性比所需的平衡大不相同。拿两性的存在来充当平衡多态性的例子，会使人误解、至少不能代表一般平衡多态性得以维持所需要的选择力量。
+    step2: |-
+      费希尔（1930）率先论证：每个个体都有一位母亲、一位父亲，因此雄性的平均适合度必然等于雌性平均适合度乘以性比——性比以雌比雄计，即每头雄性的平均配偶数（另见 Shuster and Wade 2003，第一章）[^shuster-2003]。由此可知，适合度随稀有而升高；于是，只要种群性比偏离 1:1，任何在出生时增加少数性别数量的基因都会获得选择优势。如此一来，1:1 的性比就是一个稳定的平衡多态性，在许多物种里靠染色体性别决定机制来实现；福特称之为“‘内置的’遗传开关机制”，并认为贝氏拟态等其他遗传多态性同样具有这种特征。一般而言，构成一个表现型多态性的两种类型，只有适合度相等，才能靠自然选择在某个中间平衡频率上维持于种群之内（这一点在 Darwin 1871 的第二卷第十四章已得到确认）[^darwin-1871]。可是，与性别无关的（乃至伴性的）多态现象，其选择力量的制衡方式，与维持均等性比所需要的制衡截然不同。以两性的存在为例来说明平衡多态性，会误导人，至少不能代表维持一般平衡多态性所需的选择力量。
   - id: 34
     kind: body
     source: |-
       ## 3. Classical Ecological Genetics, Population Size, and Natural Selection
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 经典生态遗传学、种群大小与自然选择
+    step2: |-
+      ## 3. 经典生态遗传学、种群规模与自然选择
   - id: 35
     kind: body
     source: |-
       The founding ecological geneticists dismissed any significant role for random genetic drift in evolution (see the entry on genetic drift). The theoretical interaction of random genetic drift and natural selection for single genes with constant effects can be seen in Figure 1. Fisher in his evolutionary theory assumed that natural populations achieved or sustained very large sizes as seen in his correspondence with S. Wright (letter from R. A. Fisher to S. Wright, August 13, 1929, as quoted in Provine 1986: 255)[^provine-1986] where he stated that “I believe *N* must usually be the total population on the planet, enumerated at sexual maturity”. Similarly, according to his intellectual biographer W. Ewens:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      生态遗传学的奠基者们否认随机遗传漂变在进化中起任何重要作用（参见“遗传漂变”词条）。单基因在效应恒定时，随机遗传漂变与自然选择的理论互动见图 1。费希尔在其进化理论中假定自然种群达到或维持极大的规模，这见于他与 S. 赖特的通信（R. A. Fisher 致 S. Wright 的信，1929 年 8 月 13 日，转引自 Provine 1986: 255）[^provine-1986]：他在信中说，“我相信 *N* 通常必须是地球上该物种的种群总数，在性成熟时清点”。同样，据其思想传记作者 W. 尤文斯（W. Ewens）：
+    step2: |-
+      生态遗传学的奠基者否认随机遗传漂变在进化中扮演任何重要角色（参见“遗传漂变”词条）。就效应恒定的单个基因而言，随机遗传漂变与自然选择之间的理论互动见图 1。费希尔的进化理论假定，自然种群的规模达到或维持着极大的水平；这见于他写给 S. Wright 的一封信（1929 年 8 月 13 日，转引自 Provine 1986: 255）[^provine-1986]：“我相信 *N* 通常必须是性成熟时清点的全球种群总数。”同样的话也出自其思想传记作者 W. 尤文斯（W. Ewens）：
   - id: 36
     kind: body
     source: |-
       > Fisher never paid much attention to the concept [effective population size] as he should have … and used extremely high population sizes (up to $10^{12})$ in his analyses, surely far too large in general. (2000: 33)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 费希尔从未像应该的那样关注这个概念［有效种群大小］……他在分析中使用了极高的种群数量（高达 $10^{12})$，一般来说肯定太大了。（2000: 33）
+    step2: |-
+      > 费希尔从来没有像他本应做的那样关注［有效种群大小］这个概念……他在分析中使用的种群数量极高（最高到 $10^{12})$，就一般情形而言这肯定大得离谱。（2000: 33）
   - id: 37
     kind: body
     source: |-
       For such extremely large population sizes, the threshold between selection and drift (see Fig. 1), which is determined by the effective population size, $N_e$, is too lower to matter evolutionarily. That is, the strength of random genetic drift, which is proportional to (1/$2N_e)$, is very, very weak and even genes with very small values of $s$ have their evolutionary fate determined entirely by selection. This is the essence of “*Fisherian gradualism*”—very small selective forces given sufficient time can have effects on adaptation similar to those of genes with much larger effects acting over a shorter time period. With very large $N_e$, the domain of random genetic drift is greatly restricted even as that of natural selection is expanded (see Fig. 1).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于如此庞大的种群数量，选择与漂变之间的阈值（见图 1）由有效种群大小 $N_e$ 决定，其数值低到在进化上无关紧要。也就是说，随机遗传漂变的强度与 (1/$2N_e)$ 成正比，非常非常弱，即便是 $s$ 值极小的基因，其进化命运也完全由选择决定。这就是“费希尔式渐变论”的实质——只要时间充足，非常微小的选择力量可以对适应产生与短时间内作用的、效应大得多的基因类似的效果。当 $N_e$ 非常大时，随机遗传漂变的作用域大受限制，而自然选择的作用域则相应扩张（见图 1）。
+    step2: |-
+      面对如此庞大的种群数量，选择与漂变之间的那条阈值线（见图 1）——它由有效种群大小 $N_e$ 决定——低到在进化上无关宏旨。换言之，随机遗传漂变的强度与 (1/$2N_e)$ 成正比，微弱得近乎为零；哪怕 $s$ 值极小的基因，其进化命运也完全听凭选择裁决。这正是“费希尔式渐变论”的要义：只要时间够长，极微小的选择力量对适应所起的作用，可以等同于效应大得多的基因在短期内所起的作用。$N_e$ 一旦非常大，随机遗传漂变的作用域便大为收缩，自然选择的作用域则随之扩张（见图 1）。
   - id: 38
     kind: body
     source: |-
       *Figure 1.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 1.* 图 1。
+    step2: |-
+      图 1。
   - id: 39
     kind: body
     source: |-
       ![a diagram: link to extended description below](../assets/ecological-genetics/figure1.svg)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![a diagram: link to extended description below](../assets/ecological-genetics/figure1.svg)
+    step2: |-
+      ![示意图：扩展描述见下方链接](../assets/ecological-genetics/figure1.svg)
   - id: 40
     kind: body
     source: |-
       Figure 1. The interaction of Random Genetic Drift and Natural Selection. The strength of selection is measured by the selective effect, $s$, of a single gene and the strength of random genetic drift is indicated by $(1/2N_e)$, where the population has effective size, $N_e$. When $s$ exceeds $(1/2N_e)$, then the evolutionary fate of a gene is determined primarily by Natural Selection. When $s$ is less than $(1/2N_e)$, then the evolutionary fate of a gene is determined primarily by Random Genetic Drift. Thus, the evolutionary domains of natural selection (upper) and random genetic drift (lower) are separated by the wavy boundary determined by the effective population size. [An extended description of figure 1 is in the supplement.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 1. 随机遗传漂变与自然选择的互动。选择的强度由单个基因的选择效应 $s$ 度量，随机遗传漂变的强度由 $(1/2N_e)$ 表示，其中种群有效大小为 $N_e$。当 $s$ 超过 $(1/2N_e)$ 时，基因的进化命运主要由自然选择决定；当 $s$ 小于 $(1/2N_e)$ 时，基因的进化命运主要由随机遗传漂变决定。因此，自然选择（上部）与随机遗传漂变（下部）的进化作用域由有效种群大小决定的波浪形边界分开。［图 1 的扩展描述见补充材料。］
+    step2: |-
+      图 1：随机遗传漂变与自然选择的互动。选择强度以单个基因的选择效应 $s$ 来度量；随机遗传漂变的强度则以 $(1/2N_e)$ 标示，$N_e$ 为种群的有效大小。当 $s$ 大于 $(1/2N_e)$，基因的进化命运主要归自然选择掌管；当 $s$ 小于 $(1/2N_e)$，命运则主要交由随机遗传漂变裁断。于是，自然选择的领域（上部）与随机遗传漂变的领域（下部），由一条随有效种群大小起伏的波浪形边界隔开。［图 1 的扩展描述见补充材料。］
   - id: 41
     kind: body
     source: |-
       However, ecological geneticists did *not* entirely dismiss random genetic drift as a significant evolutionary force for the same reasons that Fisher did. Field observations conducted with the mark-recapture methods developed by ecological geneticists documented generation-to-generation fluctuations in population size up to or exceeding an order of magnitude in most natural populations studied long term. Thus, small local population sizes were not seen as unusual by ecological geneticists. Indeed, Ford believed that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，生态遗传学家并未像费希尔那样，基于同样的理由完全否认随机遗传漂变是重要的进化力量。生态遗传学家用自己开发的标记-重捕方法进行的野外观察记录到，在长期研究的大多数自然种群中，种群大小在世代间波动可达一个数量级或更多。因此，生态遗传学家并不认为小的局部种群规模是异常现象。事实上，福特相信：
+    step2: |-
+      不过，生态遗传学家并没有以费希尔的那些理由完全否认随机遗传漂变是重要的进化力量。借助他们自己发展的标记-重捕法所做的野外观察记录显示：在得到长期研究的大多数自然种群中，种群大小逐代波动的幅度可达乃至超过一个数量级。所以，局部种群规模偏小，在生态遗传学家看来并非异常。事实上，福特相信：
   - id: 42
     kind: body
     source: |-
       > … organisms automatically generate their own cycles of abundance and rarity and that the changes in selection pressure with which these are associated many greatly increase the speed of evolution; (Ford 1975: 36)[^ford-1975]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……生物会自动产生自身的丰度与稀有的周期，而与之相伴的选择压力变化会大大提高进化的速度；（Ford 1975: 36）[^ford-1975]
+    step2: |-
+      > ……生物会自动生成自身丰饶与稀少的周期节律，而与这些节律相伴的选择压力变化，可能大大加快进化的速度；（Ford 1975: 36）[^ford-1975]
   - id: 43
     kind: body
     source: |-
       Despite the not infrequent occurrence of small population sizes where drift would be expected to be most efficacious, random genetic drift was still considered an irrelevant evolutionary force in ecological genetics because natural selection was viewed as being particularly strong during periods of population decline. That is, the strength of natural selection was negatively correlated with population density. Thus, as population size and $N_e$ declined owing to environmental stress, natural selection gained in strength so that the boundary between domains (Fig. 1) always favored selection. The smallest populations showed little phenotypic variation, which was seen as evidence that they were the most fit or most finely adapted populations. Thus, the lack of phenotypic variation in small populations was owing to it having been eliminated by natural selection during the immediately prior period of decline. Conversely, under periods of population increase, environmental stresses were minimal, so that natural selection was weaker and more permissive of variation. This concept of relaxed selection provided Ford with a cause for the increase in observations of rare phenotypic variants in large and growing natural populations. If selection pressure increases inversely to population size, then the role of random genetic drift in evolution must be greatly restricted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管种群规模偶尔会小到漂变被认为最有效的地步，随机遗传漂变在生态遗传学中仍被视为无关的进化力量，因为自然选择被认为在种群衰退期特别强。也就是说，自然选择的强度与种群密度负相关。于是，当种群大小和 $N_e$ 因环境压力而下降时，自然选择的强度随之增加，使两个领域之间的边界（图 1）总是偏向选择。最小的种群表现出的表现型变异很少，这被视为它们最适应、适应最精细的证据。于是，小种群缺乏表现型变异，是因为变异在紧邻其前的衰退期被自然选择消除了。相反，在种群增长期，环境压力最小，自然选择较弱，对变异更宽容。这种宽松选择的概念为福特提供了原因，解释了为什么在庞大且增长的自然种群中观察到更多稀有的表现型变异体。如果选择压力与种群大小成反比地增加，那么随机遗传漂变在进化中的作用必然大受限制。
+    step2: |-
+      虽然种群规模不时会小到漂变本该大显身手的地步，随机遗传漂变在生态遗传学中却仍被看作无关紧要的进化力量——理由是：自然选择在种群衰退期被认为格外强劲。换言之，自然选择的强度与种群密度呈负相关。于是，当环境胁迫令种群大小与 $N_e$ 下降时，自然选择反而增强，两域之间的边界（图 1）便始终偏向选择一边。规模最小的种群几乎没有表现型变异，而这又被当作其最适合、适应最精细的证据：小种群之所以缺乏表现型变异，是因为变异在紧随其前的衰退期里已被自然选择清除。反过来，在种群增长期，环境胁迫最小，自然选择乏力，对变异也就宽容。靠着这种“宽松选择”概念，福特解释了为什么在庞大且增长中的自然种群中，稀有表现型变异体的记录反而增多。既然选择压力与种群大小此消彼长，随机遗传漂变在进化中的作用就必然受到极大压缩。
   - id: 44
     kind: body
     source: |-
       In addition, Ford (1975: 38) believed that ecological genetic research had clearly demonstrated that the selective advantage of a gene in nature “… quite commonly exceeds 25 per cent and is frequently far more…”. Referring to Figure 1, this means that the range for values of $s$ in natural populations lies significantly above 0.01, placing genes, even in very small populations, firmly in the domain governed by natural selection.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，福特（1975: 38）相信，生态遗传研究已清楚表明，基因在自然界中的选择优势“……相当普遍地超过 25%，而且常常远高于此……”。参照图 1，这意味着自然种群中 $s$ 值的范围显著高于 0.01，使基因即使在很小的种群里也稳稳处于自然选择支配的领域之内。
+    step2: |-
+      另外，福特（1975: 38）相信，生态遗传研究已经清楚证明：基因在自然界中的选择优势“……相当普遍地超过 25%，而且常常远不止于此……”。对照图 1，这意味着自然种群中 $s$ 值的分布范围显著高于 0.01；如此一来，哪怕身处很小的种群，基因也稳稳落在自然选择统辖的领域之内。
   - id: 45
     kind: body
     source: |-
       Furthermore, Ford considered that not only the strength but also the nature of selective pressures must frequently change with density because
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，福特认为不仅选择压力的强度，而且选择压力的性质也必定常常随密度而变，因为：
+    step2: |-
+      不止于此，福特还认为，选择压力不只强度会随密度变化，其性质也必定常常随之改变，理由是：
   - id: 46
     kind: body
     source: |-
       > … an organism has not the same adaptive requirements when abundant as when rare, or when the plant and animal forms which impinge on it are so. (Ford 1975: 39)[^ford-1975]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……当生物数量众多时，其适应需求与数量稀少时并不相同；当与之相接触的动植物形式众多或稀少时，情形亦然。（Ford 1975: 39）[^ford-1975]
+    step2: |-
+      > ……一种生物在数量众多时与数量稀少时的适应需求并不相同；当与之相接触的动植物类群或众或寡时，情形也是一样。（Ford 1975: 39）[^ford-1975]
   - id: 47
     kind: body
     source: |-
       Indeed, he thought that the fluctuating selection pressure caused by variations in abundance “invalidates” Wright’s Shifting Balance Theory of Evolution, which he referred to as “far-fetched”. Interestingly, Ford and his colleagues believed that genetic subdivision of the sort postulated by Wright would promote rapid evolution but for reasons very different from Wright’s and by different genetic mechanisms (natural selection instead of random genetic drift, local selection, and interdemic selection). Ford (1975: 40–44) argued that subdivision of a large, geographically extensive population into relatively small groups promotes rapid evolution because,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      的确，他认为由丰度变动引起的选择压力波动“使”赖特的进化平衡移动理论“失效”，他称之为“牵强附会”。有趣的是，福特及其同事相信，赖特所设想的那种遗传细分确实会促进快速进化，但理由与赖特的非常不同，遗传机制也不同（是自然选择而非随机遗传漂变、局部选择与群间选择）。福特（1975: 40–44）论证说，把一个地理上广布的大种群细分为相对较小的组群会促进快速进化，因为：
+    step2: |-
+      他甚至认为，丰度波动带来的选择压力起伏“推翻”了赖特的进化平衡移动理论，还称之为“牵强附会”。耐人寻味的是，福特及其同事同样相信赖特设想的那种遗传分划会加速进化，但所持理由与赖特大异，机制也不同：促其实现的不是随机遗传漂变、局部选择或群间选择，而是自然选择本身。福特（1975: 40–44）论证道，把一个地理上广布的大种群分划成若干相对较小的组群之所以加速进化，是因为：
   - id: 48
     kind: body
     source: |-
       > … when populations occupy a series of restricted habitats they can adapt themselves independently to the local environment in each of them, while when spread over a larger area they can be adjusted [by natural selection] only to the average of the diverse conditions which obtain there. This, however, requires that the adaptations should not be constantly broken down by a trickle of immigrants from one small colony to another.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……当种群占据一系列受限生境时，它们能够独立地适应其中的局部环境；而当散布在更大的区域上时，它们只能［由自然选择］调整到适应该地各种多样条件的平均水平。不过，这要求这些适应不至于被从一个小群落流向另一个小群落的移民细流不断破坏。
+    step2: |-
+      > ……当种群占据一连串受限生境时，它们能分别独立地适应每个生境的局部环境；而当它们散布于更大的区域时，就只能［由自然选择］去迁就那里多种多样条件的平均水平。不过这有一个前提：从一个小的群落迁往另一个小群落的移民细流，不能持续不断地瓦解这些适应。
   - id: 49
     kind: body
     source: |-
       Here, he proposes a trade-off between specialized adaptation to local conditions in the absence of migration and generalized adaptation to global conditions in the presence of migration. In modern terms, this is called genotype-by-environment interaction, where the selective effect, $s$, of a gene changes with change in the environment. A gene might be adaptive in one environmental context (i.e., $s \gt 0)$ but maladaptive in another (i.e., $s \lt 0)$. Migration between local environments mixes the adaptive and maladaptive responses to selection and reduces the average magnitude of gene frequency change. In this sense, genotype-by-environment interaction for fitness is viewed as an evolutionary constraint because it limits the rate of gene frequency change. The restraint can be removed simply by stopping gene flow and the mixing of genes across different local environments. Thus, the fixed selective effect illustrated in Figure 1, must be considered an *average* of variable selective effects across environments. Clearly, large local effects of opposite sign must be averaged when there is gene flow among habitats and the averaging tends to reduce the magnitude of a gene’s selective effect. Ford also suggests that the genetic mechanism involves “gene complex[es] balanced to fit their own local environment”. That is, he claimed interactions among genes, or epistasis, contributes to local adaptation. Thus, Ford invokes genotype-by-environment interactions for fitness as well as gene-gene interactions for fitness in his cases of rapid evolution, although both *reduce* the average selective effect of a gene. This argument also runs counter to his assertion that the adaptive advantage of a gene is typically 25 percent in natural populations. Both kinds of interaction change the depiction of the threshold separating natural selection from random genetic drift (Fig. 1); in fact they tend to raise it and thereby increase the domain of random genetic drift. Before turning to interaction effects, I will examine a representative discussion of ecological genetics of random genetic drift using data from a natural population.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在此，他提出了一个权衡：无迁移时对局部条件的特化适应，与有迁移时对全局条件的泛化适应之间的权衡。用现代术语来说，这就是基因型×环境互作，其中基因的选择效应 $s$ 随环境改变而改变。一个基因在一种环境背景下可能有利（即 $s \gt 0)$，在另一种环境下却可能不利（即 $s \lt 0)$。不同局部环境之间的迁移把对选择的适应性与非适应性反应混合起来，降低了基因频率变化的平均幅度。在这个意义上，适合度的基因型×环境互作被视为一种进化约束，因为它限制了基因频率变化的速率。只要停止基因流和基因在不同局部环境之间的混合，这种约束就可以消除。因此，图 1 所示的固定选择效应，必须被理解为跨环境可变选择效应的一个平均值。显然，当生境之间存在基因流时，符号相反的大局部效应必须被平均，而平均往往降低基因选择效应的量值。福特还提出，其遗传机制涉及“平衡以适应自身局部环境的基因复合体”。也就是说，他主张基因之间的相互作用即上位性促成局部适应。因此，福特在其快速进化的案例中既援引了适合度的基因型×环境互作，也援引了适合度的基因-基因互作，尽管这两者都会降低基因的平均选择效应。这一论证也与他断言基因的适应优势在自然种群中通常为 25% 相抵触。两类互作都改变图 1 中分隔自然选择与随机遗传漂变的阈值的描绘方式；事实上，它们倾向于抬高这一阈值，从而扩大随机遗传漂变的领域。在转向互作效应之前，我将利用来自一个自然种群的数据，考察一场关于随机遗传漂变的生态遗传学的代表性讨论。
+    step2: |-
+      福特在此实际上提出了一个权衡问题：没有迁移时对局部条件的特化适应，与有迁移时对全局条件的泛化适应，二者难以兼得。用现代术语说，这就是基因型×环境互作：基因的选择效应 $s$ 会随环境改变而变动。同一个基因，在这种环境里可能有利（即 $s \gt 0)$，换个环境却可能有害（即 $s \lt 0)$。局部环境之间的迁移会把对选择的适应性与非适应性反应搅在一起，拉低基因频率变化的平均幅度。就此而言，适合度上的基因型×环境互作被看成一种进化约束——它限制了基因频率变化的速率。而要解除这条约束，办法简单：切断基因流，不再让基因在不同局部环境之间混流。于是，图 1 所画的那条固定选择效应，必须当作跨环境变动着的选择效应的一种平均来理解。显然，只要生境之间存在基因流，符号相反的大局部效应就得被拉平平均，而平均化往往缩小基因选择效应的量值。福特还提示，其遗传机制牵涉“平衡以契合自身局部环境的基因复合体”：他主张，基因之间的互作——即上位性——助成了局部适应。这样，福特在快进化的案例里同时求助于两种互作：适合度上的基因型×环境互作与基因-基因互作；尽管这两种互作都会压低基因的平均选择效应。这一论证还与他那个断言——基因的适应优势在自然种群中通常达 25%——相抵牾。两类互作都改写了图 1 中分隔自然选择与随机遗传漂变的那条阈值的画法；实际上它们倾向于抬高阈值，从而扩大随机遗传漂变的领地。在转入互作效应之前，我先借助一个自然种群的数据，考察一场关于随机遗传漂变的生态遗传学代表性讨论。
   - id: 50
     kind: body
     source: |-
       ## 4. The Sewall Wright Effect
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 赖特效应
+    step2: |-
+      ## 4. 塞瓦尔·赖特效应
   - id: 51
     kind: body
     source: |-
       Several wing coloration variants segregating in a small natural population of the moth, *Panaxia dominula* (Fisher & Ford 1947)[^fisher-1947], were investigated using mark-recapture in one of the longest continuous studies of a single population in all of evolutionary research. The goal of Fisher and Ford was to determine whether year-to-year fluctuations in the frequency of the variants (*medionigra*, a heterozygote, and *bimaculata*, a homozygote) were better explained by natural selection or by random genetic drift. (Banding patterns in the snail, *Cepea nermoralis¸were* the topic of similar discussions of the relative roles of natural selection and genetic drift [Cain & Shephard 1954; Cain & Provine 1992; Millstein 2008, 2009].)[^cain-1992][^cain-1954][^millstein-2008] They inferred from their analysis
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在对所有进化研究中单一种群持续时间最长的研究之一中，人们用标记-重捕法研究了在一个 *Panaxia dominula* 蛾的小型自然种群中分离的几种翅色变异（Fisher & Ford 1947）[^fisher-1947]。费希尔和福特的目标是确定：变异体（*medionigra*，一种杂合子；*bimaculata*，一种纯合子）频率的逐年波动，用自然选择解释更好，还是用随机遗传漂变解释更好。（关于蜗牛 *Cepea nermoralis* 条带图案的类似讨论，涉及自然选择与遗传漂变的相对作用，见 [Cain & Shephard 1954; Cain & Provine 1992; Millstein 2008, 2009]。）[^cain-1992][^cain-1954][^millstein-2008] 他们从其分析中推断：
+    step2: |-
+      一项针对 *Panaxia dominula* 蛾类小型自然种群的研究，追踪了几种翅色变异的分离情况（Fisher & Ford 1947）[^fisher-1947]；用的是标记-重捕法，也是整个进化研究领域对一个单一种群历时最长的连续研究之一。费希尔与福特想判定：这些变异体（*medionigra*，杂合体；*bimaculata*，纯合体）频率的逐年波动，究竟用自然选择还是用随机遗传漂变来解释更合适。（蜗牛 *Cepea nermoralis* 的条带图案，也曾是关于自然选择与遗传漂变相对角色的类似讨论的对象，见 [Cain & Shephard 1954; Cain & Provine 1992; Millstein 2008, 2009]。）[^cain-1992][^cain-1954][^millstein-2008] 他们从自己的分析中推得：
   - id: 52
     kind: body
     source: |-
       > The conclusion that natural populations in general, like that to which this study is devoted, are affected by selective action, varying from time to time in direction and intensity and of sufficient magnitude to cause fluctuating variations in all gene frequencies is in good accordance with other studies of observable frequencies in wild populations. … We do not think, however, that it has been sufficiently emphasized that this fact is fatal to the theory which ascribes particular evolutionary importance to such fluctuations in gene ratios as may occur by chance in very small isolated populations. …
       >
       > Thus our analysis, the first in which the relative parts played by random survival and selection in a wild population can be tested, does not support the view that chance fluctuations can be of any significance in evolution. (Fisher & Ford 1947: 171, 172; quoted in Provine 1986: 423)[^fisher-1947][^provine-1986]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 自然种群总体上都受到选择作用的影响——这种作用随时改变方向与强度，其量值足以使所有基因频率发生波动性变化——这一结论与对野生种群可观察频率的其他研究相当吻合，本研究专事考察的那个种群亦然。……但我们认为，下述事实未曾得到足够强调：对于那些把非常小的隔离种群中可能偶然出现的基因比率波动赋予特殊进化重要性的理论来说，这一事实是致命的。……
+      >
+      > 因此，我们的分析——第一个能够在野生种群中检验随机存活与选择各自相对作用的分析——并不支持如下观点：偶然波动在进化中可以有任何重要性。（Fisher & Ford 1947: 171, 172；转引自 Provine 1986: 423）[^fisher-1947][^provine-1986]
+    step2: |-
+      > 自然种群一般都受选择作用的支配——其方向与强度随时变动，且量值足以使一切基因频率发生波动式变化——这一结论与关于野生种群可观察频率的其他研究相当一致，本研究专事考察的那个种群也不例外。……但我们认为有一点尚未得到足够强调：这个事实对某类理论是致命的，那些理论把极小的隔离种群中偶然出现的基因比率波动看成了具有特殊进化意义的东西。……
+      >
+      > 由此，我们的分析——首次得以在野生种群中检验随机存活与选择各自扮演的相对角色——并不支持如下观点：偶然波动对进化能够有任何意义。（Fisher & Ford 1947: 171, 172；转引自 Provine 1986: 423）[^fisher-1947][^provine-1986]
   - id: 53
     kind: body
     source: |-
       With this paper, Fisher and Ford moved the long-standing debate between Wright and Fisher over the relative roles of natural selection and random genetic drift in evolution from theory to nature. It is remarkable that, in the first such study with only eight years of observations on a single locus with alternative alleles, they are confident in rejecting Wright’s theory and random genetic drift in its entirety.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      借助这篇论文，费希尔和福特把赖特与费希尔之间关于自然选择与随机遗传漂变在进化中相对作用的长久争论从理论搬到了自然界。值得注意的是，在第一项这样的研究中，仅基于对一个座位上替代等位基因的八年观察，他们就满怀信心地整体拒绝了赖特的理论和随机遗传漂变。
+    step2: |-
+      凭着这篇论文，费希尔与福特把那场围绕自然选择与随机遗传漂变相对角色的老争论——赖特对阵费希尔——从书斋搬进了自然界。令人吃惊的是，在这第一项此类研究中，他们手头只有一个座位上交替等位基因的八年观察，却已信心十足地把赖特理论与随机遗传漂变整个儿拒之门外。
   - id: 54
     kind: body
     source: |-
       In his response to their analyses, Wright (1948) pointed out, first, that his theory of evolution explicitly involved the simultaneous action of several forces (selection, drift, mutation, and migration) and he emphatically rejected the paradigm of Fisher and Ford that *either* selection or drift alone had to be responsible for all of the observed fluctuation in gene frequencies (see the entry on population genetics). Wright noted that, in order to reach their statistical conclusion, Ford and Fisher had to include gene frequency data from a decade before the more careful study, notably a period without any estimates of population size. Without this earlier data point, the average fluctuations were much smaller and not significant. He pointed out that, like the mark-recapture estimates of population numbers, the gene frequencies themselves were estimates whose variation, based on the reported sample sizes, accounted for more than half (55.2%) of the observed variance that Fisher and Ford were trying to explain. He then showed that, if one assumed only the unitary explanation of natural selection, then the observed gene frequency fluctuations were so large *even without the sampling variance* that the temporal variations in the allelic selection coefficients must range from near lethality (or sterility) to tremendous advantage (i.e., from −0.50 to +0.50). However, Fisher and Ford (1947) provided no indication of comparable levels of temporal variation in any environmental factor acting as a selective agent. Wright argued that the effective population sizes used in the analysis were almost certainly too large, possibly by an order of magnitude, and that Fisher and Ford had made no attempt to estimate the factors expected to reduce effective size, like temporal variation in breeding numbers, non-random mortality among larvae (mortality clustered within families as might affect a species which experiences > 85% pupal mortality owing to viral infection), or other causes of the variance in offspring numbers (such as variation among females in egg numbers or variation among males in mate numbers). In an unyielding reply, Fisher and Ford (1950) labeled chance or random fluctuations in gene frequency, the *Sewall Wright Effect*, a term which has endured to the present day as a synonym for random genetic drift.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在对费希尔和福特分析的回应中，赖特（1948）首先指出，他的进化理论明确涉及几种力量的同时作用（选择、漂变、突变和迁移），并断然拒绝了费希尔与福特的范式，即“要么”选择、要么漂变必须单独对观察到的基因频率波动负全责（参见“群体遗传学”词条）。赖特指出，为了得出其统计结论，福特和费希尔不得不纳入一个更早十年（即更为谨慎的研究之前）的基因频率数据，那是一段没有任何种群大小估计的时期。若去掉这个较早的数据点，平均波动要小得多，也不显著。他指出，正如标记-重捕法估计的种群数量一样，基因频率本身也是估计值；根据报告的样本量，其变异占了费希尔和福特试图解释的观察方差的一半以上（55.2%）。他还表明，如果只假定自然选择这一元解释，那么即便不计抽样方差，观察到的基因频率波动也大得惊人，以致等位基因选择系数的时间变异必须在接近致死（或不育）到巨大优势之间摆动（即从 −0.50 到 +0.50）。然而，费希尔和福特（1947）并未提供任何迹象表明，存在任何环境因素可充当选择动因并具有可比的时间变异水平。赖特论证说，分析所用的有效种群大小几乎肯定过大，可能大出一个数量级；而且费希尔和福特并未尝试估计那些预期会降低有效大小的因素，如繁殖数量的时间变异、幼虫中非随机的死亡（死亡在家庭内成群出现，正如可能影响一个因病毒感染而蛹期死亡率超过 85% 的物种），或后代数量方差的其他原因（如雌体产卵数之间的变异或雄体配偶数之间的变异）。在一篇寸步不让的回复中，费希尔和福特（1950）把基因频率的偶然或随机波动贴上“塞瓦尔·赖特效应”的标签——这一术语作为随机遗传漂变的同义词一直沿用至今。
+    step2: |-
+      赖特（1948）在回应中首先指出：他的进化理论本就明确涉及几种力量的同时作用（选择、漂变、突变、迁移），并且他断然拒绝费希尔与福特那套“要么”选择、“要么”漂变独自扛起全部基因频率波动的二元框架（参见“群体遗传学”词条）。赖特还点破：要得出那个统计结论，福特和费希尔必须把比精细研究早十年的基因频率数据也塞进分析，而那段时期恰恰没有任何种群大小估计。若抽掉这个较早的数据点，平均波动便小得多，也不再显著。他又指出，基因频率同标记-重捕估计的种群数量一样，本身就是估计值；按其报告的样本量核算，估计误差引起的方差已占去费希尔和福特想解释的观察方差的一大半（55.2%）。他接着演示：若只认自然选择这一元解释，那么观察到的基因频率波动——即便不计抽样方差——也大到令等位基因选择系数的时间变动必须在近乎致死（或不育）与巨大优势之间来回摆荡（即从 −0.50 摆到 +0.50）。可是，对于任何充当选择动因的环境因素，费希尔和福特（1947）都没有出示过拥有可堪比较的时间变异水平的迹象。赖特进而论证：分析所用的有效种群大小几乎肯定定得过大，可能大出一个数量级；而且费希尔和福特压根没有尝试估计那些预期会拉低有效大小的因素——繁殖数量的时间波动、幼虫期非随机的死亡（同一家族内聚集发生的死亡，正如可能影响一个因病毒感染而蛹期死亡率超过 85% 的物种的那样），或后代数量方差的其他来源（比如雌体之间产卵数的差异，或雄体之间配偶数的差异）。费希尔和福特（1950）寸步不让，在回复中给基因频率的偶然波动或随机波动贴上“塞瓦尔·赖特效应”的标签；这个术语作为随机遗传漂变的同义词，一直沿用至今。
   - id: 55
     kind: body
     source: |-
       With a larger data set covering several more years, Ford (1975: 146) revisited this exchange and argued that Wright remained wrong on each count. Ford also showed that the selective advantage for the rarer of the genes varied widely, from −0.10 to +0.20, and that there was no evidence of heterozygote advantage. He did not find, however, the expected negative correlation between strength of selection and population size in these data. In the intervening decades, data from a variety of other organisms and natural population had become available and its review led Ford to conclude:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      借助覆盖更多年份的更大数据集，福特（1975: 146）重提这段交锋，并论证赖特在每一点上都仍然错了。福特还表明，较稀有基因的选择优势变动剧烈，从 −0.10 到 +0.20，且没有杂合子优势的证据。然而，他在这些数据中并未发现选择强度与种群大小之间预期的负相关。在此后的几十年里，来自其他多种生物和自然种群的数据陆续可得，对这些数据的回顾使福特得出结论：
+    step2: |-
+      手握覆盖更多年份的更大数据集，福特（1975: 146）旧事重提，并论证赖特在每一点上依旧错了。福特还展示：较稀有那个基因的选择优势波动剧烈，介于 −0.10 到 +0.20 之间，且找不到杂合子优势的证据。不过，他在这些数据里并没有看到预期中的那种负相关——选择强度随种群增大而减弱。此后几十年，来自其他多种生物与自然种群的数据渐次积累；盘点这些数据之后，福特得出结论：
   - id: 56
     kind: body
     source: |-
       > As a result, it is no longer possible to attribute to random genetic drift or to mutation any significant part in the control of evolution. (1975: 389)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因此，再也不可能把进化控制中的任何重要部分归因于随机遗传漂变或突变。（1975: 389）
+    step2: |-
+      > 因此，无论如何也不能再把进化调控中的任何重要部分归到随机遗传漂变或突变名下了。（1975: 389）
   - id: 57
     kind: body
     source: |-
       Thus, throughout its founding period, ecological genetics was relentlessly supportive of natural selection as unitary explanation for evolutionary change. (Later laboratory research has shown that the expression of the color patterns is sensitive or plastic to the thermal environment during development and thus the gene frequency estimates may be subject to significant measurement error, owing to the misclassification of genotypes. This is yet another source of variation, not accounted for in the Ford analyses. It tends to weaken the link between genotype and phenotype and thereby weaken the relationship between selection acting on phenotypes and the underlying genotypes. In addition, empirical evidence has found, as Wright expected, that temporal fluctuations in population size, large variance among females in fecundity, and sexual selection reduce the effective number to less than half the Fisher-Ford estimate. In addition, more careful studies have reduced Ford’s estimates of the magnitude of the average genic selection coefficient by about two thirds [see Cook & Jones 1996][^cook-1996].)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，在整个奠基时期，生态遗传学始终不遗余力地支持把自然选择作为进化变化的元解释。（后来的实验室研究表明，翅色图案的表达对发育期间的热环境敏感或可塑，因此基因频率的估计可能因基因型误判而受显著的测量误差影响。这是福特分析未曾计入的又一方差来源。它倾向于削弱基因型与表现型之间的联系，从而削弱作用于表现型的选择与底层基因型之间的关系。此外，经验证据发现，正如赖特所预期的，种群大小的时间波动、雌体繁殖力之间的大方差以及性选择，使有效数量降到费希尔-福特估计的一半以下。另外，更精细的研究已把福特对平均单基因选择系数量值的估计削减了约三分之二［见 Cook & Jones 1996］[^cook-1996]。）
+    step2: |-
+      于是，在整个奠基时期，生态遗传学始终不遗余力地把自然选择奉为解释进化变化的单一法宝。（后来的实验室研究显示：翅色图案的表达对发育期热环境敏感而可塑，故而基因频率的估计可能因基因型误判而掺入显著的测量误差。这是福特分析未曾计入的又一方差来源，它倾向于松弛基因型与表现型之间的纽带，从而松动作用于表现型的选择同底层基因型之间的关系。此外，经验证据证实了赖特的预料：种群大小的时间波动、雌体繁殖力的巨大方差以及性选择，把有效数量压到费希尔-福特估计值的一半以下。再者，更精细的研究已把福特对平均单基因选择系数量值的估计砍掉约三分之二［见 Cook & Jones 1996］[^cook-1996]。）
   - id: 58
     kind: body
     source: |-
       ## 5. Interactions and their Effect on the Threshold between Natural Selection and Random Drift
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 互作及其对自然选择与随机漂变之间阈值的影响
+    step2: |-
+      ## 5. 互作对自然选择与随机漂变之分界阈值的影响
   - id: 59
     kind: body
     source: |-
       The existence of either genotype-by-environment interaction $(\rG \times \rE)$ or gene-by-gene interaction (epistasis or $\rG \times \rG$) greatly complicates the estimation of selection coefficients. Ecological geneticists like Ford postulated interactions of the sort that could change the sign of genic selection coefficients with changes in the environment (including density) or in the genetic background. This kind of reversal of selective effect requires what is known as a “crossing-type” norm of reaction for $\rG \times \rE$ or additive-by-additive epistasis for $\rG \times \rG$ (Wade 2002)[^wade-2002]. The simplest model of crossing-type $\rG \times \rE$, consists of additive selection (i.e., genotypic fitnesses of $1 + 2s, 1 + s$, and 1 for genotypes AA, Aa, and aa, in one environment and the opposite order in the second environment) in each of two alternative environments, $E_1$ and $E_2$, with frequencies, $f_{E_1}$ and $f_{E_2}$, respectively. As the two environments fluctuate in frequency, spatially or temporally, the selective effect of an A allele changes in both magnitude and sign (see Fig. 2). Depending upon the relative frequencies of the alternative environments and the amount of gene flow or migration between them, the A allele on average can be a “good” gene or a “bad” gene with respect to fitness, a gene of major effect or minor effect on fitness, or even a neutral gene if the two environments are equally abundant. The smaller the amount of migration between the environments, the greater is the degree of local adaptation to each as theory and Ford suggested (see above). However, the *average* selective effect of the gene in the sense of Fisher’s theory must be smaller than the average observation in a particular locality at a particular time because the long-term average contains both positive and negative values of $s$. Furthermore, to the extent that the local value of $s$ changes sign owing to continuous fluctuations in local environmental conditions, the average effect on fitness A allele will also move downwards, from the domain of selection to the domain of drift as Wright suggested. Thus, the very kind of population subdivision imagined by Ford, with selection acting in every locality albeit in different directions, creates, rather than eliminates, an increased opportunity for random genetic drift.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      基因型×环境互作 $(\rG \times \rE)$ 或基因-基因互作（上位性或 $\rG \times \rG$）的存在，大大复杂化了选择系数的估计。像福特这样的生态遗传学家设想了这样一类互作：随着环境（包括密度）或遗传背景的变化，单基因选择系数可以改变符号。这种选择效应的反转需要所谓“交叉型”反应规范（对 $\rG \times \rE$ 而言）或加性-加性上位性（对 $\rG \times \rG$ 而言）（Wade 2002）[^wade-2002]。交叉型 $\rG \times \rE$ 的最简单模型是在两个备选环境 $E_1$ 与 $E_2$（频率分别为 $f_{E_1}$ 与 $f_{E_2}$）的每一个中都有加性选择（即基因型 AA、Aa 和 aa 的适合度分别为 $1 + 2s, 1 + s$ 和 1，而在第二种环境中次序相反）。随着两种环境在空间或时间上频率的变动，A 等位基因的选择效应在量值与符号上都发生变化（见图 2）。依据备选环境的相对频率以及它们之间基因流或迁移的量，A 等位基因平均而言可以是适合度意义上的“好”基因或“坏”基因，可以是对适合度有大影响或小影响的基因，如果两种环境同样丰富，甚至可以是中性基因。环境之间迁移量越小，对每一环境的局部适应程度就越高，理论与福特的看法皆是如此（见上文）。然而，费希尔理论意义上该基因的平均选择效应必须小于在特定时间特定地点观察到的平均值，因为长期平均同时包含 $s$ 的正值与负值。此外，只要局部 $s$ 值因局部环境条件的持续波动而变号，A 等位基因对适合度的平均效应也会下移——如赖特所提示的，从选择的领域移入漂变的领域。因此，福特所设想的那种种群分划——选择在每个局部都在起作用，只是方向各异——非但没有消除、反而制造了随机遗传漂变更多的机会。
+    step2: |-
+      基因型×环境互作 $(\rG \times \rE)$ 与基因-基因互作（上位性，$\rG \times \rG$）一经登场，选择系数的估计就大大复杂化了。以福特为代表的生态遗传学家所设想的互作，能够随环境（包括密度）或遗传背景的变动，令单基因选择系数改变符号。选择效应的这种反转，需要所谓“交叉型”反应规范（对 $\rG \times \rE$ 而言），或加性-加性上位性（对 $\rG \times \rG$ 而言）（Wade 2002）[^wade-2002]。交叉型 $\rG \times \rE$ 最简单的模型是这样的：设有两个备选环境 $E_1$ 与 $E_2$，频率分别为 $f_{E_1}$ 与 $f_{E_2}$；在每个环境中选择都是加性的，即基因型 AA、Aa 与 aa 的适合度依次为 $1 + 2s, 1 + s$ 和 1，而在第二种环境中次序正好颠倒。随着两种环境的频率在空间或时间上此消彼长，A 等位基因的选择效应在量值与符号两个方向上都跟着变（见图 2）。A 等位基因平均而言是好是坏，要看两种备选环境的相对频率，以及二者之间基因流或迁移的多寡：它可以是适合度意义上的“好”基因或“坏”基因，可以是对适合度影响或大或小的基因；两种环境若恰好一样多，它甚至可以是中性基因。环境之间的迁移越少，各环境内的局部适应就越彻底——理论与福特的判断一致（见上文）。然而，费希尔理论所谈论的基因平均选择效应，必须小于特定时间、特定地点观察到的平均值，因为长期平均把 $s$ 的正值与负值一并计入。此外，只要局部 $s$ 值随局部环境条件的持续波动而变号，A 等位基因对适合度的平均效应就会如赖特所提示的那样下移——从选择的领域滑入漂变的领域。所以说，福特设想的那种种群分划——选择在每个局部都在运转，只是方向彼此不同——非但没有消除随机遗传漂变的机会，反而为其敞开了更大的空间。
   - id: 60
     kind: body
     source: |-
       *Figure 2.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 2.* 图 2。
+    step2: |-
+      图 2。
   - id: 61
     kind: body
     source: |-
       ![a diagram: link to extended description below](../assets/ecological-genetics/figure2.svg)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![a diagram: link to extended description below](../assets/ecological-genetics/figure2.svg)
+    step2: |-
+      ![示意图：扩展描述见下方链接](../assets/ecological-genetics/figure2.svg)
   - id: 62
     kind: body
     source: |-
       Figure 2. The interaction of Random Genetic Drift and Natural Selection, when there is either genotype-by-environment interaction or additive-by-additive epistasis (see text). The selective effect, $s$, of a single gene changes magnitude as the frequency of the alternative environments, $f_{E_1}$ and $f_{E_2}$, connected by gene flow, changes *or* as the frequency of alternative alleles, $p_B$ and $p_b$, change at an interacting locus. Thus, neither the selective effect of a gene nor the effective population size remains constant. As a result, relative to Figure 1, the threshold boundary between the domains of Natural Selection and Random Genetic Drift is greatly widened, meaning that both forces play more or less equal evolutionary roles over a broad range of values of $s$ and $N_e$. Furthermore, interactions of this sort open the possibility that changes in the relative frequencies of alternative environments or alternative alleles at other loci can move a gene’s selective effect from the domain of selection that of drift or vice versa during the course of its evolution. [An extended description of figure 2 is in the supplement.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 2. 存在基因型×环境互作或加性-加性上位性时随机遗传漂变与自然选择的互动（见正文）。单个基因的选择效应 $s$ 随着由基因流连接的备选环境频率 $f_{E_1}$ 与 $f_{E_2}$ 的变化而改变量值，*或者*随着互作座位上备选等位基因频率 $p_B$ 与 $p_b$ 的变化而改变量值。因此，基因的选择效应与有效种群大小都不再恒定。其结果是，与图 1 相比，自然选择领域与随机遗传漂变领域之间的阈值边界大大加宽，这意味着在很宽的 $s$ 与 $N_e$ 值范围内，两种力量都扮演着多少均等的进化角色。此外，这类互作还开启了如下可能：备选环境或其他座位上备选等位基因相对频率的变化，可以在基因进化的进程中把其选择效应从选择的领域移到漂变的领域，或者相反。［图 2 的扩展描述见补充材料。］
+    step2: |-
+      图 2：当存在基因型×环境互作或加性-加性上位性时，随机遗传漂变与自然选择的互动（见正文）。单个基因的选择效应 $s$，或者随基因流相连的备选环境频率 $f_{E_1}$、$f_{E_2}$ 的变动而改变量值，*或者*随互作座位上备选等位基因频率 $p_B$、$p_b$ 的变动而改变量值。于是，基因的选择效应与有效种群大小二者皆不再恒定。结果，相对于图 1，自然选择领域与随机遗传漂变领域之间的阈值边界大大加宽：在相当宽的 $s$ 与 $N_e$ 取值范围内，两种力量扮演的进化角色相差无几。这类互作还打开了一种可能：备选环境之间、或其他座位上备选等位基因之间相对频率的变动，能够在基因进化的进程中，把它的选择效应从选择的领域搬到漂变的领域，或者反向搬回。［图 2 的扩展描述见补充材料。］
   - id: 63
     kind: body
     source: |-
       A very similar effect on the “gene”s eye view’ of selection is caused by additive-by-additive epistasis (Goodnight & Wade 2000; Wade 2001, 2002)[^goodnight-2000][^wade-2001]. The simplest model of this kind of $\rG \times \rG$, with interaction between loci A and B, each with alternative alleles, results in an average genic selection coefficient acting on the A allele of $s(p_B - p_b)$, where $p_B$ and $p_b$ are the frequencies of alternative alleles at the B-locus that interact in the additive-by-additive model with alleles at the A locus. The relative frequencies of the alternative alleles at the B locus, determine whether the A allele is a “good” gene or a “bad” gene with respect to fitness, a gene of major effect or minor fitness effect, or even a neutral gene when the background alleles are equally abundant (i.e., $p_B = p_b)$. Whenever allele frequencies of its epistatic partner change, either by drift or selection, the A allele’s selective effect also changes and, like the case of $\rG \times \rE$, it moves the boundary between the domains of natural selection and random drift (Fig. 2), increasing the domain of the latter at the expense of the former.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      加性-加性上位性对选择之“基因之眼”视角的影响也极为类似（Goodnight & Wade 2000; Wade 2001, 2002）[^goodnight-2000][^wade-2001]。这类 $\rG \times \rG$ 的最简单模型假定座位 A 与座位 B 互作，各自带有备选等位基因；其结果是作用于 A 等位基因的平均单基因选择系数为 $s(p_B - p_b)$，其中 $p_B$ 与 $p_b$ 是 B 座位上备选等位基因的频率，它们在加性-加性模型中与 A 座位上的等位基因发生互作。B 座位上备选等位基因的相对频率决定 A 等位基因是适合度意义上的“好”基因还是“坏”基因，是对适合度有大影响还是小影响的基因；当背景等位基因同样丰富（即 $p_B = p_b)$）时，它甚至可以是中性基因。只要其上位性伙伴的等位基因频率发生变化——无论是通过漂变还是选择——A 等位基因的选择效应也随之改变；与 $\rG \times \rE$ 的情形一样，它会移动自然选择领域与随机漂变领域之间的边界（图 2），扩大随机漂变的领域，压缩自然选择的领域。
+    step2: |-
+      对选择的“基因之眼”视角，加性-加性上位性造成的效果几乎如出一辙（Goodnight & Wade 2000; Wade 2001, 2002）[^goodnight-2000][^wade-2001]。设想座位 A 与 B 互作，各自带有备选等位基因——这类 $\rG \times \rG$ 的最简模型给出：作用于 A 等位基因的平均单基因选择系数为 $s(p_B - p_b)$，其中 $p_B$ 与 $p_b$ 是 B 座位上备选等位基因的频率，它们按加性-加性模型与 A 座位上的等位基因互作。B 座位上两种备选等位基因的相对频率，决定着 A 等位基因在适合度意义上是“好”基因还是“坏”基因，是对适合度影响居大还是居小的基因；背景等位基因若恰好一样多（即 $p_B = p_b)$），它甚至可以是中性基因。它的上位性伙伴的等位基因频率一旦变动——不管这种变动出于漂变还是选择——A 等位基因的选择效应就跟着变；与 $\rG \times \rE$ 的情形相同，这会挪动自然选择领域与随机漂变领域之间的那条边界（图 2）：扩大随机漂变的领域，压缩自然选择的领域。
   - id: 64
     kind: body
     source: |-
       ## 6. Allozyme Variation and the Drift vs Selection Controversy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 等位酶变异与漂变对选择的争论
+    step2: |-
+      ## 6. 等位酶变异以及漂变与选择之争
   - id: 65
     kind: body
     source: |-
       The central problem with using conspicuous polymorphisms for investigating the relative roles of the variety of different evolutionary forces is that they not an unbiased sample of genetic diversity with respect to either adaptive function or amount of genetic variation. Indeed, the definition of genetic polymorphism adopted by Ford (see above) incorporates the essence of both of these biases. For a period, it was believed that “The solution to our dilemma lies in the development of molecular genetics” (Lewontin 1974: 99)[^lewontin-1974]. With the advent of electrophoresis, the amino acid sequence of a random sample of proteins from almost any organism could be studied and, for the first time, the level of genetic diversity, in the form of amino acid substitutions, across the genome could be quantified.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用醒目多态现象来考察各种不同进化力量的相对作用，其核心问题在于：无论就适应功能还是遗传变异量而言，它们都不是遗传多样性的无偏样本。事实上，福特采用的遗传多态性定义（见上文）同时容纳了这两种偏倚的实质。有一个时期，人们曾相信“我们两难困境的解决在于分子遗传学的发展”（Lewontin 1974: 99）[^lewontin-1974]。随着电泳的出现，几乎任何生物体蛋白质随机样本的氨基酸序列都可以研究，人们首次能够量化以氨基酸替换形式表现的整个基因组的遗传多样性水平。
+    step2: |-
+      拿醒目多态现象去考察各种进化力量的相对作用，核心症结在于：无论按适应功能衡量，还是按遗传变异量衡量，它们都不是遗传多样性的无偏样本。事实上，福特采纳的那个遗传多态性定义（见上文），恰恰把这两种偏倚的实质一并收进了定义本身。曾有一段时间，人们寄望于“我们这个两难困境的出路在于分子遗传学的发展”（Lewontin 1974: 99）[^lewontin-1974]。电泳一经问世，几乎任何生物的蛋白质随机样本，其氨基酸序列都可以拿来研究；以氨基酸替换形式呈现的基因组整体遗传多样性水平，也第一次得到了量化。
   - id: 66
     kind: body
     source: |-
       Two measures of genetic diversity were possible using electrophoresis:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用电泳可以度量遗传多样性的两个指标：
+    step2: |-
+      借助电泳，可以测得遗传多样性的两项指标：
   - id: 67
     kind: body
     source: |-
       1. the number of loci polymorphic; and,
       2. the average heterozygosity per locus per individual.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 多态座位的数目；以及，
+      2. 每个个体每个座位的平均杂合度。
+    step2: |-
+      1. 呈多态性的座位数；以及，
+      2. 每个个体在每座位上的平均杂合度。
   - id: 68
     kind: body
     source: |-
       From studies across a number of species, it was estimated that 15–40% of all loci were polymorphic and the average individual was heterozygous at 5–15% of its genome. Since this technique measured primarily amino acid substitutions resulting in charge changes, i.e., only one third of all possible amino acid substitutions, one could infer that these were minimal levels of genetic diversity which significantly underestimated the actual levels. The conclusion that genetic variation was ubiquitous, with most genes being polymorphic, was inescapable. The search for the adaptive function of allozyme variants and balancing selection at the physiological level ensued, just as it had in the earliest studies in ecological genetics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      跨越若干物种的研究估计，所有座位中有 15–40% 呈多态性，平均每个个体基因组的 5–15% 呈杂合状态。由于这种技术度量的主要是引起电荷变化的氨基酸替换，即所有可能氨基酸替换的三分之一，可以推断这些是遗传多样性的最低水平，显著低估了实际水平。遗传变异无处不在、多数基因呈多态性——这个结论已无法回避。于是，像生态遗传学最早的研究那样，在生理层面寻找等位酶变体的适应功能与平衡选择的探索随之展开。
+    step2: |-
+      跨物种的研究给出的估计是：全部座位中有 15–40% 呈多态性；平均每个个体的基因组有 5–15% 处于杂合状态。这门技术测得的主要是引起电荷改变的氨基酸替换，只占全部可能氨基酸替换的三分之一；由此可以推断，上述数字只是遗传多样性的下限，远低于实际水平。遗传变异无处不在、多数基因都是多态的——这个结论已无从回避。于是，正如生态遗传学最早的那些研究一样，一场在生理层面寻找等位酶变体适应功能与平衡选择的搜索随即展开。
   - id: 69
     kind: body
     source: |-
       However, the observed levels of genetic polymorphism presented an insurmountable problem for the mathematical theory of evolutionary genetics. The amount of genetic variation was much too large to be explained by the type of balancing selection observed by Ford and his colleagues for conspicuous phenotypic polymorphisms in natural populations. The basic problem was that the numbers of selective deaths necessary to account for the observed levels of allozyme polymorphism exceeded the reproductive excess of almost all species. This where the focus on genetics must be coupled with the ecology of reproduction and viability. Haldane (1957) called this the “cost of natural selection” and it is also referred to as the substitutional load. Differently put, the mortality of homozygous genotypes, if independently selected, (also known as the “segregation load”) would exceed the total numbers of offspring produced by a population. For this reason, Kimura (1983) proposed his neutral theory of molecular evolution, founded on the theoretical observation that the probability of fixation of a novel mutant allele with selective coefficient, $s \gt 0$, was approximately $2s$ (Wright 1931: 133)[^wright-1931]. Since $s$ was generally believed to be in the range of 0.001 to 0.0001, the likelihood of loss of a new favorable mutation by chance is quite high, only slightly smaller than the probability of loss by chance for a truly neutral allele.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，观察到的遗传多态性水平给进化遗传学的数学理论出了一个无法逾越的难题。遗传变异的量太大，无法用福特及其同事为自然种群中醒目表现型多态现象所观察到的那类平衡选择来解释。基本问题在于：要解释观察到的等位酶多态性水平，所需的选择性死亡数目超过了几乎所有物种的繁殖盈余。正是在这里，对遗传学的关注必须与繁殖和存活的生态学相结合。霍尔丹（1957）称之为“自然选择的代价”，它也被称为替换负荷。换句话说，纯合基因型的死亡率（如果被独立选择，也称“分离负荷”）会超过一个种群产生的后代总数。因此，木村（1983）提出其分子进化中性理论，其理论基础是这样一个理论观察：选择系数 $s \gt 0$ 的新型突变等位基因固定概率约为 $2s$（Wright 1931: 133）[^wright-1931]。既然一般认为 $s$ 在 0.001 到 0.0001 的范围内，一个新的有利突变因偶然而丢失的可能性就相当高，只比真正中性等位基因因偶然丢失的概率略小。
+    step2: |-
+      可是，观测到的遗传多态性水平，给进化遗传学的数学理论出了一道无法逾越的难题。遗传变异的量实在太大，福特及其同事在自然种群醒目表现型多态现象中观察到的那类平衡选择，无论如何解释不了。根本困难在于：要撑起观测到的等位酶多态水平，所需的选择性死亡数目会超过几乎所有物种的繁殖盈余。正是在这里，对遗传学的关注必须同繁殖与存活的生态学接驳起来。霍尔丹（1957）把这称作“自然选择的代价”，它另有名字叫替换负荷。换个说法：纯合基因型的死亡（若被独立选择，又称“分离负荷”）所造成的损耗，将超过一个种群所能产生的后代总数。正因如此，木村资生（1983）提出了分子进化中性理论；其理论支点是：选择系数 $s \gt 0$ 的新突变等位基因，其固定概率约为 $2s$（Wright 1931: 133）[^wright-1931]。既然 $s$ 通常被认为介于 0.001 与 0.0001 之间，一个有利的新突变因偶然而丢失的概率就相当可观，只比真正中性等位基因偶失的概率略低一点。
   - id: 70
     kind: body
     source: |-
       Studies of protein structure revealed that the functional, non-synonymous sites of a protein, which constitute the minority of its amino acids, evolved several times more slowly than the non-functional, synonymous or structural sites. Kimura’s view that much, if not most, of evolutionary change at the molecular level was determined by random genetic drift and not natural selection was highly controversial. As Kimura noted,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      蛋白质结构的研究表明，蛋白质的功能性非同义位点（占其氨基酸的少数）的进化比非功能性同义位点或结构位点慢几倍。木村认为分子水平上大部分（如果不是绝大部分）进化变化由随机遗传漂变而非自然选择决定，这一观点极具争议。正如木村所指出的：
+    step2: |-
+      对蛋白质结构的研究揭示：蛋白质的功能性非同义位点——在其氨基酸中只占少数——进化速率比非功能的同义位点或结构位点慢了好几倍。木村资生认为，分子水平上的进化变化纵然不是绝大部分、至少也是很大一部分由随机遗传漂变而非自然选择所决定；这个观点在当时极具争议。用木村资生自己的话说：
   - id: 71
     kind: body
     source: |-
       > …if a certain doctrine is constantly being spoken of favorably by the majority, endorsed by top authorities in their books and taught in classes, then a belief is gradually built up in one’s mind, eventually becoming the guiding principle and the basis of value judgment. At any rate, this was the time when the panselectionist or “neo-Darwinian” position was most secure in the history of biology: the heyday of the traditional “synthetic theory” of evolution. (1983: 22)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……如果一种学说不断被多数人善意谈论、被顶尖权威在著作中背书、在课堂上讲授，一种信念便在人们心中逐渐建立，最终成为指导原则和价值判断的基础。无论如何，那是泛选择论或“新达尔文主义”立场在生物学史上最有保障的时期：传统进化“综合理论”的鼎盛时代。（1983: 22）
+    step2: |-
+      > ……倘若一种学说总是为多数人所乐道、为顶尖权威在著作里所背书、在课堂上所讲授，一种信念就会在人的头脑中渐渐立稳，最终变成指导原则与价值判断的根基。不管怎样，那正是泛选择论或“新达尔文主义”立场在生物学史上最有保障的时期：传统进化“综合理论”的黄金时代。（1983: 22）
   - id: 72
     kind: body
     source: |-
       It was soon recognized that a more reductionistic approach (DNA sequence studies) might help to resolve the issue of whether or not every amino acid was of some functional value because the redundant positions in the code of life were assumed to provide an estimate of the true “neutral” rate of evolution, owing to random genetic drift acting in the absence of selection.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们很快认识到，更还原论的进路（DNA 序列研究）可能有助于解决是否每个氨基酸都有某种功能价值的问题，因为生命密码中的冗余位置被假定提供了真实“中性”进化速率的估计，这源于随机遗传漂变在无选择情况下的作用。
+    step2: |-
+      很快人们意识到，一条更还原论的路径（DNA 序列研究）或许能帮助裁断“是否每个氨基酸都有一点功能价值”的问题：生命密码中冗余的位置被假定为提供了真实“中性”进化速率的估计值——那正是随机遗传漂变在无选择状态下施展作用的速率。
   - id: 73
     kind: body
     source: |-
       ## 7. Sequence Variation and the Drift vs Selection Controversy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. 序列变异与漂变对选择的争论
+    step2: |-
+      ## 7. 序列变异以及漂变与选择之争
   - id: 74
     kind: body
     source: |-
       The neutral theory of evolution is the antithesis of ecological genetics. It states that random genetic drift, independent of the environment, rather than natural selection, governs most evolutionary change at the level of the DNA and proteins. At the same time, it admits that natural selection predominates in shaping the morphological and physiological traits that manifest an adaptive fit with the environment. This is a paradox because most of the DNA appears to be non-functional while most of the externally observable phenotype appears to have adaptive function.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      中性进化理论是生态遗传学的对立面。它主张，在 DNA 与蛋白质层面支配大部分进化变化的是独立于环境的随机遗传漂变，而非自然选择。与此同时，它承认自然选择在塑造与环境达成适应性契合的形态与生理性状方面占主导地位。这是一个悖论，因为大多数 DNA 似乎没有功能，而大多数外部可观察的表现型似乎具有适应功能。
+    step2: |-
+      中性进化理论恰是生态遗传学的反面。它主张：在 DNA 与蛋白质的层面上，左右大部分进化变化的不是自然选择，而是独立于环境的随机遗传漂变；同时它又承认，在塑造那些与环境形成适应性契合的形态与生理性状方面，自然选择占据主导。这就成了一个悖论：大多数 DNA 看上去没有功能，大多数外部可观察的表现型却似乎带有适应功能。
   - id: 75
     kind: body
     source: |-
       Tests of the theory using DNA sequence data consist of comparisons of the relative evolutionary rates of different kinds of sites (base pairs) within codons and take advantage of the redundancy in the genetic code. The rate of neutral evolution is estimated from levels of polymorphism or numbers of segregating sites within species or the divergence between species in silent or redundant site substitutions (e.g., Dapper & Wade 2020)[^dapper-2020]. Silent sites are those that do not result in an amino acid change in the protein and, hence, are non-functional in the usual sense. In contrast, the rate of selective change or selective constraint is evaluated relative to the neutral rate using replacement sites, those base pair changes that result in amino acid changes. If the rate of substitution or polymorphism is lower than neutral, it is evidence of selective constraint or purifying natural selection acting to prevent change and preserve function in the face of mutational damage. If the rate of substitution is higher than neutral, then it is evidence of adaptive substitution.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用 DNA 序列数据检验该理论，需要对密码子内不同类型位点（碱基对）的相对进化速率进行比较，并利用遗传密码的冗余性。中性进化的速率由如下量估计：种内多态性水平或分离位点数目，或物种间在沉默位点或冗余位点替换上的分歧（如 Dapper & Wade 2020）[^dapper-2020]。沉默位点指那些不导致蛋白质氨基酸改变的位点，因而在通常意义上是非功能性的。与此相对，选择性变化或选择约束的速率则参照中性速率、利用替换位点（即引起氨基酸改变的碱基对变化）来评估。若替换或多态性速率低于中性速率，这是选择约束或净化自然选择起作用的证据——它阻止变化、在突变损伤面前保存功能。若替换速率高于中性速率，便是适应性替换的证据。
+    step2: |-
+      用 DNA 序列数据检验中性理论，办法是比较密码子内部不同类型位点（碱基对）的相对进化速率，并借力遗传密码的冗余性。中性进化的速率这样估得：或取种内多态性水平、分离位点的数目，或取物种之间在沉默位点与冗余位点替换上的分歧（如 Dapper & Wade 2020）[^dapper-2020]。所谓沉默位点，是不会引起蛋白质氨基酸改变的位点，按通常的意义也就是非功能的。与之相对，选择性变化或选择约束的速率，则借替换位点（引起氨基酸改变的碱基对变化）对照中性速率来评估。替换或多态速率若低于中性速率，即证明存在选择约束或净化选择——它遏制变化，在突变的破坏面前保全功能。替换速率若高于中性速率，则为适应性替换之明证。
   - id: 76
     kind: body
     source: |-
       Molecular evolutionary studies also revealed the existence of *pseudogenes*, non-coding stretches of DNA derived by the tandem duplication and subsequent inactivation by mutation of single copy genes. The lack of function of the pseudogene makes all of its codons effectively neutral and provides another estimate of the rate of neutral evolution. Importantly, “replacement” sites that evolve slowly in the functional gene have been shown to evolve more rapidly in the nonfunctional tandem duplicate pseudogene.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      分子进化研究还揭示了假基因的存在：由单拷贝基因串联重复并随后因突变而失活产生的非编码 DNA 片段。假基因缺乏功能使其所有密码子实际上都成为中性的，从而提供了中性进化速率的另一个估计。重要的是，在功能基因中进化缓慢的“替换”位点，已被证明在非功能的串联重复假基因中进化得更快。
+    step2: |-
+      分子进化研究还揭示了假基因的存在——由单拷贝基因串联重复、再经突变失活而来的非编码 DNA 片段。假基因没有功能，其全部密码子于是实际上都是中性的，这就提供了估计中性进化速率的另一条途径。尤其值得注意的是：在功能基因里进化缓慢的“替换”位点，到了非功能的串联重复假基因里，进化反而加快。
   - id: 77
     kind: body
     source: |-
       Changes in the pattern of neutral variation in the vicinity of a selected site(s) are also informative because, during an adaptive substitution, neutral variants linked to the piece of selected DNA are carried or “swept” to fixation along with it. This “selective sweep” temporarily reduces the level of neutral variation in the vicinity of selected sites until it can be replaced by mutation. The degree of reduction in neutral variation or the “footprint of selection” depends upon the strength of selection, the frequency of recombination during selection, and the time since the initiation of selection. The footprint is most conspicuous when a selective sweep is initiated by the advent of a single, novel favorable mutation. To the extent that novel selection results from a change of environment and begins to act on existing or standing variation already in the population, the impact on neutral polymorphisms may be quite minimal.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      受选位点附近中性变异格局的变化也能提供信息，因为在适应性替换过程中，与这段受选 DNA 相连的中性变异体被一并携带或“清扫”至固定。这种“选择性清扫”会暂时降低受选位点附近的中性变异水平，直到突变将其补回。中性变异缩减的程度或“选择足迹”取决于选择的强度、选择期间重组的频率，以及选择开始以来经过的时间。当选择性清扫由单个新有利突变的出现引发时，足迹最为醒目。至于新选择源于环境改变并开始作用于种群中已有的存量变异的情况，它对中性多态性的影响可能相当轻微。
+    step2: |-
+      受选位点附近中性变异格局的变动同样富含信息：适应性替换发生时，连在受选 DNA 片段上的中性变异体会被一道携带、一道“清扫”到固定。这场“选择性清扫”会暂时压低受选位点附近的中性变异水平，直到突变把亏损补回来为止。中性变异缩减的幅度，即所谓“选择足迹”，其大小取决于三件事：选择的强度、选择进行期间重组的频率，以及选择启动至今的时间。选择性清扫若由单个新有利突变的出现所引发，足迹最为醒目；新选择若是出于环境改变、一开始就作用于种群中既有的存量变异，那么它给中性多态性留下的冲击就可能相当轻微。
   - id: 78
     kind: body
     source: |-
       Balancing selection of the sort observed by Ford leaves its own unique “reverse” footprint on neutral diversity (Kreitman & Di Rienzo 2004)[^kreitman-2004] . Because the segments of DNA constituting the balanced polymorphism are held in the population by selection much longer than expected based on random drift, these segments have a higher effective population size (owing to lower variation in offspring numbers than random). As a result, they have a longer time to accumulate mutational variation at nearby neutral sites. In some cases, the time is longer than that required to create new species, resulting in *trans-specific polymorphisms* (Cho et al. 2006)[^cho-2006]. Thus, levels of neutral diversity are expected to be enhanced in the vicinity of a molecular balanced polymorphism. When the mating system restricts recombination (e.g., selfing or inbreeding species), the region of elevated neutral diversity in the vicinity of a balanced polymorphism can be extensive (e.g., *Arabiodopsis thaliana* [Tian et al. 2002])[^tian-2002].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      福特观察到的那类平衡选择，会在中性多样性上留下自己独特的“反向”足迹（Kreitman & Di Rienzo 2004）[^kreitman-2004]。由于构成平衡多态性的 DNA 片段被选择保留在种群中的时间远比基于随机漂变的预期长，这些片段拥有更高的有效种群大小（因为后代数量变异低于随机）。其结果是，它们有更长的时间在附近的中性位点积累突变变异。在某些情况下，这段时间比创造一个新物种所需的时间还要长，从而产生跨种多态性（Cho et al. 2006）[^cho-2006]。因此，在分子平衡多态性附近，中性多样性水平预计会升高。当交配系统限制重组时（例如自交或近交物种），平衡多态性附近中性多样性升高的区域可以相当广阔（如拟南芥 *Arabiodopsis thaliana* [Tian et al. 2002]）[^tian-2002]。
+    step2: |-
+      福特观察到的那类平衡选择，会在中性多样性上留下自己特有的“反向”足迹（Kreitman & Di Rienzo 2004）[^kreitman-2004]。构成平衡多态性的那些 DNA 片段，被选择拘留在种群中的时间远超随机漂变所预期的长度；由于后代数量的变异低于随机情形，它们便拥有较高的有效种群大小，也就有更长的时间在邻近的中性位点积累突变变异。有些时候，这段时间甚至超过诞生一个新物种所需的时间，于是形成跨种多态性（Cho et al. 2006）[^cho-2006]。因此可以预期：分子平衡多态性附近的中性多样性水平会有所抬升。当交配系统限制重组时（比如自交或近交的物种），平衡多态性附近那片中性多样性升高的区域可以延展得很广（如拟南芥 *Arabiodopsis thaliana* [Tian et al. 2002]）[^tian-2002]。
   - id: 79
     kind: body
     source: |-
       Kimura predicted that silent substitutions would evolve more rapidly than replacement substitutions *before* sequence data were available to test his neutral theory of molecular evolution. Molecular genetic studies have confirmed his prediction: silent sites evolve several times faster than replacement sites. These studies clearly show that the primary mode of action of natural selection at the level of the DNA sequence is purifying selection. It is this highly conservative aspect of natural selection that permits comparative molecular evolutionary studies of developmental processes across species as diverse as humans and flies. At the molecular level, most genes, though polymorphic in sequence, do not display evidence of balancing selection and instead manifest patterns of variation that accord well with neutral theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      木村预言，沉默替换将比重换替换进化得更快——这是在序列数据可供检验其中性理论之前作出的。分子遗传学研究证实了这一预言：沉默位点的进化比重换位点快几倍。这些研究清楚地表明，自然选择在 DNA 序列层面的主要作用模式是净化选择。正是自然选择的这种高度保守面向，使得对发育过程的比较分子进化研究得以跨越像人类与果蝇这样差异悬殊的物种。在分子层面，大多数基因虽然在序列上呈多态性，却并不显示平衡选择的证据，反而表现出与中性理论相当吻合的变异格局。
+    step2: |-
+      早在有序列数据可以检验其中性理论之前，木村资生就预言：沉默替换的进化速度会超过氨基酸替换。分子遗传学研究证实了这一预言——沉默位点的进化比替换位点快上好几倍。这些研究清楚表明：自然选择在 DNA 序列层面的主要作用方式是净化选择。正因为自然选择有这个高度保守的面向，比较分子进化研究才能横跨人类与果蝇这般悬殊的物种去考察发育过程。在分子层面，大多数基因虽然在序列上多态，却拿不出平衡选择的证据；其变异格局反而与中性理论相当吻合。
   - id: 80
     kind: body
     source: |-
       The interaction of selection and random drift across linked regions of DNA sequence is one of the most active current areas of theoretical and empirical research in molecular evolution. Theory shows that it can be difficult to separate cleanly the action of the evolutionary forces of selection and drift except for certain regions of parameter space, whose generality remains unknown and subject to much debate. Like the study by Fisher and Ford (1947), most empirical studies interpret *all* deviations away from strictly the neutral expectation as evidence of natural selection without addressing the issue of agency. For example, codon bias is evidence that natural selection affects even the apparently non-functional components of genes. Thus, the original ecological genetic view that natural selection is the only significant evolutionary force characterizes much of modern molecular evolution, despite progress in theory and the availability of much more reductionistic genetic methods. The parallels between the summary statement of Ford (1975: 389; see above) and that of the molecular evolutionary geneticist, E. Nevo, twenty-five years later are remarkable:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      选择与随机漂变在 DNA 序列连锁区域上的互动，是当前分子进化理论与经验研究最活跃的领域之一。理论表明，除了参数空间的某些区域外，要干净利落地分离选择与漂变这两种进化力量的作用是困难的，而这些区域的普遍性仍属未知且争论甚多。与费希尔和福特（1947）的研究一样，大多数经验研究把对严格中性预期的一切偏离都解释为自然选择的证据，而不去处理动因问题。例如，密码子偏倚就是自然选择影响基因中那些显然非功能组分的证据。于是，尽管理论有所进展、还原程度更高的遗传方法也已可用，那种认为自然选择是唯一重要进化力量的生态遗传学原始观点，仍然刻画着现代分子进化研究的很大部分。福特（1975: 389；见上文）的总结陈述与二十五年后分子进化遗传学家 E. 内沃的总结陈述之间的相似令人瞩目：
+    step2: |-
+      在 DNA 序列的连锁区域上，选择与随机漂变如何互动，这是当前分子进化理论与经验研究最热闹的战场之一。理论告诉我们：除了参数空间的某些区域之外，想把选择与漂变这两种进化力量的作用干净利落地拆开是件难事，而这些例外的普遍性如何，至今未有定论，争论也不少。与费希尔和福特（1947）的研究一样，多数经验研究把对严格中性预期的一切偏离都读作自然选择的证据，却不追问动因是谁。例如，密码子偏倚即被当作自然选择连基因中那些看似无功能的组件也不放过的证据。于是，尽管理论有所推进、更加还原论的遗传方法也已上手，“自然选择是唯一重要的进化力量”这条生态遗传学的原始信条，依旧统治着现代分子进化研究的一大片地盘。福特（1975: 389；见上文）的总结陈述，与二十五年后分子进化遗传学家 E. 内沃（E. Nevo）的总结陈述遥相呼应，令人瞩目：
   - id: 81
     kind: body
     source: |-
       > Biodiversity evolution, even in small isolated populations, is primarily driven by natural selection, including diversifying, balancing, cyclical, and purifying selective regimes, interacting with, but ultimately overriding, the effects of mutation, migration, and stochasticity [random genetic drift]. (Nevo 2001: 6223)[^nevo-2001]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 生物多样性的进化，即使在小的隔离种群中，也主要由自然选择驱动，包括多样化、平衡、周期与净化等选择体制，它们与突变、迁移和随机性［随机遗传漂变］的效应相互作用，但最终压倒后者。（Nevo 2001: 6223）[^nevo-2001]
+    step2: |-
+      > 生物多样性的进化，哪怕发生在很小的隔离种群中，也主要受自然选择驱动：多样化、平衡、周期与净化诸般选择体制同突变、迁移与随机性［随机遗传漂变］的效应交互作用，但最终把后者压倒。（Nevo 2001: 6223）[^nevo-2001]
   - id: 82
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [如有建议，请联系作者。]
+    step2: |-
+      [欢迎读者向作者提出建议。]
   - id: 83
     kind: ack
     source: |-
       This entry replaces and is based on the former entry titled [Evolutionary Genetics](https://plato.stanford.edu/archives/fall2021/entries/evolutionary-genetics/) by the same author.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本词条取代并承自同一位作者此前的词条《进化遗传学》（[Evolutionary Genetics](https://plato.stanford.edu/archives/fall2021/entries/evolutionary-genetics/)）。
+    step2: |-
+      本词条取代同作者早先的词条《进化遗传学》（[Evolutionary Genetics](https://plato.stanford.edu/archives/fall2021/entries/evolutionary-genetics/)），并在其基础上写成。

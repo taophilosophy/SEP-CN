@@ -186,6 +186,8 @@
 | Arthur Danto | — | 阿瑟·丹托 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Arthur Eddington | — | 爱丁顿（Arthur Eddington） | — | — | spacetime-convensimul | 学界惯例（物理学通行汉译） | 2026-11-06 |
 | Arthur Schopenhauer | — | 阿图尔·叔本华 | — | — | landmann-kalischer | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-04 |
+| Ewens, Warren John | — | 沃伦·约翰·尤文斯 | 澳大利亚／美国 | 1932– | ecological-genetics | 学界通行汉译（群体遗传学家，W. Ewens）；凭证 2026-11-10 | 2026-11-10 |
+| Nevo, Eviatar | — | 埃维亚塔尔·内沃 | 以色列 | 1941– | ecological-genetics | 学界通行汉译（进化遗传学家，Haifa 大学）；凭证 2026-11-10 | 2026-11-10 |
 | Āryadeva | — | 提婆 | — | — | gorampa | 龙树弟子、中观论师通行汉译 | 2026-11-09 |
 | Asch, Adrienne | — | 阿德里安娜·阿施 | — | — | disability-care-rationing | 学界通行汉译（生物伦理与失能研究）；正文本条仅以姓「阿施」出现；凭证 2026-11-08 | 2026-11-08 |
 | Ash, Michael | — | 迈克尔·阿什 | — | — | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |

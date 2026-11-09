@@ -1599,6 +1599,10 @@
 
 ## I
 
+| cost of natural selection | — | 自然选择的代价 | ecological-genetics 首译 | Haldane 1957 原语；学界通行译名；凭证 2026-11-10 | 2026-11-10 |
+| footprint of selection | — | 选择足迹 | ecological-genetics 首译 | 学界通行译名（分子进化文献）；凭证 2026-11-10 | 2026-11-10 |
+| gradualism | — | 渐变论 | ecological-genetics 首译 | 学界通行译名（达尔文研究文献）；凭证 2026-11-10 | 2026-11-10 |
+| heterozygote advantage | — | 杂合子优势 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-10 | 2026-11-10 |
 | icchantika | इच्छन्तिक | 一阐提 | korean-buddhism | 佛典古译（不具信之种性者） | 2026-11-05 |
 | icon veneration | — | 圣像崇拜 | john-italos | 拜占庭圣像之争研究通行 | 2026-11-06 |
 | idea | — | 理念（柏拉图-黑格尔传统）；观念（经验论语境） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
@@ -1811,6 +1815,12 @@
 | isomorphism | — | 同构 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | isomorphism class | — | 同构类 | quine-nf | 范畴论/模型论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | isonomia | ἰσονομία | 平等（政治隐喻中指各种力量的均等） | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
+| mark-recapture method | — | 标记-重捕法 | ecological-genetics 首译 | 学界通行译名（生态学方法论文献）；凭证 2026-11-10 | 2026-11-10 |
+| segregation load | — | 分离负荷 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-10 | 2026-11-10 |
+| selective constraint | — | 选择约束 | ecological-genetics 首译 | 学界通行译名（分子进化文献，与 purifying selection 相关）；凭证 2026-11-10 | 2026-11-10 |
+| standing variation | — | 存量变异 | ecological-genetics 首译 | 学界通行译名（进化遗传学文献）；凭证 2026-11-10 | 2026-11-10 |
+| substitutional load | — | 替换负荷 | ecological-genetics 首译 | Haldane「自然选择的代价」之别称；学界通行译名（群体遗传学文献）；凭证 2026-11-10 | 2026-11-10 |
+| trans-specific polymorphism | — | 跨种多态性 | ecological-genetics 首译 | 学界通行译名（分子进化文献）；凭证 2026-11-10 | 2026-11-10 |
 | īśvara | ईश्वर | 自在天（亦作“自在”） | 语料回收 | 学界惯例（印度哲学译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | item | — | 项 | object 首译 | 学界惯例（本体论清单用语，与 thing/entity 并举）；凭证 2026-11-07 | 2026-11-07 |
 | ius ubique docendi | ius ubique docendi | 普遍教学权 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |

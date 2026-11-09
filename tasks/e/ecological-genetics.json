@@ -2,7 +2,7 @@
   "slug": "ecological-genetics",
   "kind": "retranslate",
   "zh_doc": "e/ecological-genetics.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-08T20:58:05Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EF-main3-20261109",
+      "at": "2026-11-09T16:24:21Z",
+      "evidence": "lq 账本 83 段填充完成（step1/step2 反思两步全异文），守恒门通过（source 逐字符一致、marker 38:38、defs 35:35、$/** 硬门全绿），compose 写回 23868 汉字正文；yuanwen 镜像自审计语料重生成（sha256 与版本钉 09513c2b 一致）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EF-main3-20261109",
+      "at": "2026-11-09T16:25:00Z",
+      "evidence": "对照核销：marker 38:38 顺序全等、defs 35:35 键集全等、段落 83:83、节数 12（致谢独立节为模板约定）、相关词条五名逐一对照 SUMMARY 定名无误；数字抽查 25%/55.2%/85%/0.001/0.0001/15–40%/5–15% 全在位；源文 $ 括号错位 4 处（$10^{12})$、(1/$2N_e)$、$s \\gt 0)$、$p_B = p_b)$）照录不修"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "EF-main3-20261109",
+      "at": "2026-11-09T16:25:01Z",
+      "evidence": "check_prose --strict 39→4：叙述散文实修 36 处（长句拆分 17、de-chain 消解 14、被字句 3、weak-verb 3，两轮 SUBS 逐条唯一命中）；残余 4 条均为引文块内部（行 32/110/110/171），按 ADR-0020 豁免留痕；实修后 marker 38 完整、style 0、academic OK"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "EF-main3-20261109",
+      "at": "2026-11-09T16:25:25Z",
+      "evidence": "四检全绿：check_style --strict 0 issues；check_academic --strict OK（在途豁免 1 为 s3 挂钩自身）；check_math 公式 45 无缺失（源文自身 $ 括号错位 4 处照录豁免）；check_prose 残余 4 引文内豁免；check_terms 硬错误 0。登记补全：术语 10 行（替换负荷/分离负荷/自然选择的代价/跨种多态性/选择约束/渐变论/标记-重捕法/选择足迹/存量变异/杂合子优势）+人名 2 行（内沃/尤文斯）；同键异译冲突回改（平衡移动理论→转换平衡理论，先登优先）"
     }
   ],
   "blockers": [],
