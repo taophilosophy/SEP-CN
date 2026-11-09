@@ -587,64 +587,88 @@ segments:
     kind: body
     source: |-
       Fundamentally, Adorno’s thoughts on morality and moral philosophy remain critical, aporetic, and antinomian, for instance between “principle and practice,” as between legal procedural justice and impulsive vengeance in postwar Germany (1951a [2005, 56]; 1966a [1973, 287]). Principles of rational morality, as in Kant, are tailored to the self-reflection in which the modern autonomous subject engages, which simultaneously separates insight from action, exemplified, for Adorno, by Hamlet (1966a [1973, 228]; 1963b [2000, 112–13]). The moral addendum, as perhaps a rudimentary virtue ethics that immediately connects insight and action, is belied by the obsolescence of virtue (1963b [2000, 98]) under the conditions of modern society: value pluralism on the one hand, and interdependent functional integration to such a degree on the other that an agent’s action can be thwarted or its moral worth inverted by conditions outside their control (what Adorno calls the “context of guilt”, *Schuldzusammenhang*) (Menke 2005)[^menke-2005]. These antinomies illustrate how social conditions undermine moral insight and action, thus Adorno concludes his lecture course: “… anything that we can call morality today merges into the question of the organization of the world. We might even say that the quest for the good life is the quest for the right form of politics, if indeed such a right form of politics lay within the realm of what can be achieved today.” (1963b [2000, 176]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从根本上说，阿多诺关于道德与道德哲学的思考始终保持批判性、困境性与二律背反性，例如在“原则与实践”之间——战后德国的法律程序正义与冲动复仇之间的张力（1951a [2005, 56]；1966a [1973, 287]）。理性道德的原则——如康德那里——量体裁衣于现代自律主体所从事的自我反思；这种自我反思同时把洞见与行动分开，阿多诺以哈姆雷特为例（1966a [1973, 228]；1963b [2000, 112–13]）。道德附加之物——或许是一种直接联结洞见与行动的初步德性伦理学——却被德性的过时（1963b [2000, 98]）所拆穿：现代社会的条件下，一边是价值多元主义，另一边是如此之深的相互依赖的功能整合，以至于行动者的行动可能被其控制之外的条件挫败，或其道德价值被颠倒（阿多诺所谓“罪责语境”，*Schuldzusammenhang*）（Menke 2005）[^menke-2005]。这些二律背反说明社会条件如何破坏道德洞见与道德行动；于是阿多诺如此结束其讲座课程：“……今天凡我们能称作道德的东西，都汇入世界组织的问题。我们甚至可以说：对良善生活的追求，就是对正当政治形式的追求——倘若这样一种正当的政治形式确实在今天所能成就的范围之内。”（1963b [2000, 176]）。
+    step2: |-
+      从根本上说，阿多诺关于道德与道德哲学的思考，始终保持批判性、困境性与二律背反性——例如“原则与实践”之间的二律背反，即战后德国法律程序正义与冲动复仇之间的张力（1951a [2005, 56]；1966a [1973, 287]）。理性道德的原则——如康德那里——是照着现代自律主体的自我反思量体裁衣的；这种自我反思同时把洞见与行动分开，阿多诺以哈姆雷特为例（1966a [1973, 228]；1963b [2000, 112–13]）。道德附加之物——或许算一种直接联结洞见与行动的初步德性伦理学——却被德性的过时（1963b [2000, 98]）拆穿：现代社会的条件下，一边是价值多元主义，另一边是程度极深的相互依赖的功能整合，以至于行动者的行动可能被其控制之外的条件挫败，或其道德价值被颠倒（阿多诺所谓“罪责语境”，*Schuldzusammenhang*）（Menke 2005）[^menke-2005]。这些二律背反说明社会条件如何破坏道德洞见与道德行动。阿多诺于是如此结束其讲座课程：“……今天凡我们能称作道德的东西，都汇入世界组织的问题。我们甚至可以说：对良善生活的追求，就是对正当政治形式的追求——倘若这样一种正当的政治形式确实在今天所能成就的范围之内。”（1963b [2000, 176]）。
   - id: 74
     kind: body
     source: |-
       ### 7.2 Politics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 政治
+    step2: |-
+      ### 7.2 政治
   - id: 75
     kind: body
     source: |-
       The new categorical imperative encompasses political considerations; according to Adorno, “the misdeeds of Auschwitz were only possible … in a political system in which freedom was completely suppressed” (1964–65 [2006, 202]; Tettlebaum 2005)[^tettlebaum-2005]. However, Adorno did not locate the primary danger at the level of the nature of the state or political organization, claiming that the conditions favoring a relapse continued unabated in postwar democratic West Germany (1967b [2005 191–204]), and he was accused by early critics and some of his own students of quietism, aestheticism, and failing to theorize a normative political theory. For Adorno, “the political” cannot be isolated from the larger, integrated social totality, which permeates and affects every aspect of quotidian life and has implications for how immanent critique can be effectuated (Jaeggi 2005; on “internal” critique, which holds norms fixed, vs. genuine “immanent critique,” which can modify norms, cf. Jaeggi 2018)[^jaeggi-2005][^jaeggi-2018]. His relationship to Marxism and liberalism is complex (Hammer 2006, 11–48): for instance, he rejects the prospects of the formation of class consciousness in “late capitalism,” and does not share liberalism’s neutral standpoint above rival doctrines of the good, nor its image of a ‘thin’ rational individual with contingent preferences (Geuss 2005)[^geuss-2005]; indeed, *Minima Moralia* can be read as critically registering the eclipse of liberalism (Norberg 2011)[^norberg-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      新定言命令包含政治考量；照阿多诺的说法，“奥斯维辛的恶行之所以可能……只在一个自由被彻底压制的政治制度中”（1964–65 [2006, 202]；Tettlebaum 2005）[^tettlebaum-2005]。然而，阿多诺并未把首要危险定位于国家性质或政治组织的层面；他主张，有利于倒退的条件在战后的民主西德有增无减（1967b [2005 191–204]）；早期批评者与他的一些学生指控他静默主义、唯美主义、未能理论化一种规范的政治理论。对阿多诺而言，“政治性的东西”无法从更大且整合的社会总体中孤立出来；后者渗透并影响日常生活的一切方面，也牵涉内在批判如何得以实施（Jaeggi 2005；关于使规范保持固定的“内在”批判与能够修改规范的真正“内在批判”之别，参看 Jaeggi 2018）[^jaeggi-2005][^jaeggi-2018]。他与马克思主义及自由主义的关系是复杂的（Hammer 2006, 11–48）：例如，他拒斥“晚期资本主义”中阶级意识形成的前景；既不共享自由主义凌驾于诸良善生活学说之上的中立立足点，也不共享其对带有偶然偏好的“单薄的”理性个体的想象（Geuss 2005）[^geuss-2005]；的确，《最低限度的道德》可以读作对自由主义之蚀的批判性记录（Norberg 2011）[^norberg-2011]。
+    step2: |-
+      新定言命令包含政治考量。照阿多诺的说法，“奥斯维辛的恶行之所以可能……只在一个自由被彻底压制的政治制度中”（1964–65 [2006, 202]；Tettlebaum 2005）[^tettlebaum-2005]。然而，阿多诺并未把首要危险定位于国家性质或政治组织的层面：他主张，有利于倒退的条件在战后的民主西德有增无减（1967b [2005 191–204]）。早期批评者与他的一些学生指控他静默主义、唯美主义，指控他未能理论化一种规范的政治理论。对阿多诺而言，“政治性的东西”无法从更大且整合的社会总体中孤立出来：后者渗透并影响日常生活的一切方面，也牵涉内在批判如何得以实施（Jaeggi 2005；关于使规范保持固定的“内在”批判与能够修改规范的真正“内在批判”之别，参看 Jaeggi 2018）[^jaeggi-2005][^jaeggi-2018]。他与马克思主义及自由主义的关系是复杂的（Hammer 2006, 11–48）：例如，他拒斥“晚期资本主义”中阶级意识形成的前景；既不共享自由主义凌驾于诸良善生活学说之上的中立立足点，也不共享其对带着偶然偏好的“单薄的”理性个体的想象（Geuss 2005）[^geuss-2005]。《最低限度的道德》的确可以读作对自由主义之蚀的批判性记录（Norberg 2011）[^norberg-2011]。
   - id: 76
     kind: body
     source: |-
       The question of politics arose most forcefully in the student protest movement of the 1960s, some of whose organizers looked to Horkheimer and Adorno for support (Kraushaar 1998)[^kraushaar-1998]. Adorno, in contrast to Marcuse, demurred for political and philosophical reasons. Politically, he judged the situation to be one in which direct revolutionary action had scarce chance of success. Philosophically, in a posthumously published essay on the historical relationship between theory and praxis he distinguished between political action in the service of reasonable ends and “pseudo-activity” that insists on theory’s subservience to concrete praxis as an epicycle of the dialectic of enlightenment (1969c [2005, 259–278]; Berman 2002; Freyenhagen 2014)[^berman-2002][^freyenhagen-2014]. Scholars continue to elaborate the relationship and prospects between Adorno’s thought and activities and an “activist tradition” in Critical Theory (e.g., Holloway, Matamoros and Tischler 2009; Sebastian 2024 and forthcoming)[^sebastian-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      政治问题在 1960 年代的学生抗议运动中最为强烈地浮现；运动的一些组织者曾指望霍克海默与阿多诺支持（Kraushaar 1998）[^kraushaar-1998]。与马尔库塞不同，阿多诺出于政治与哲学的理由而推拒。政治上，他判断当时的形势是直接革命行动成功机会渺茫的形势。哲学上，在一篇身后出版的论理论与实践之历史关系的文章中，他区分了为合理目的服务的政治行动与“伪行动”——后者坚持理论屈从于具体实践，沦为启蒙辩证法的一个本轮（1969c [2005, 259–278]；Berman 2002；Freyenhagen 2014）[^berman-2002][^freyenhagen-2014]。学者们仍在阐发阿多诺的思想与活动和批判理论中“行动主义传统”之间的关系与前景（例如 Holloway, Matamoros and Tischler 2009；Sebastian 2024 and forthcoming）[^sebastian-2024]。
+    step2: |-
+      政治问题在 1960 年代的学生抗议运动中最为强烈地浮现；运动的一些组织者曾指望霍克海默与阿多诺表态支持（Kraushaar 1998）[^kraushaar-1998]。与马尔库塞不同，阿多诺出于政治与哲学的理由推拒了。政治上，他判断当时的形势下，直接革命行动成功机会渺茫。哲学上，在一篇身后出版的论理论与实践之历史关系的文章中，他区分了为合理目的服务的政治行动与“伪行动”——后者坚持理论屈从于具体实践，沦为启蒙辩证法的一个本轮（1969c [2005, 259–278]；Berman 2002；Freyenhagen 2014）[^berman-2002][^freyenhagen-2014]。阿多诺的思想与活动和批判理论中“行动主义传统”之间的关系与前景，学者们仍在阐发（例如 Holloway, Matamoros and Tischler 2009；Sebastian 2024 and forthcoming）[^sebastian-2024]。
   - id: 77
     kind: body
     source: |-
       On the other hand, Adorno persistently emphasized the political implications of his theory *as* praxis, e.g. immanent, ideology critique: “[the culture industry] impedes the development [*Bildung*] of autonomous, independent individuals who judge and decide consciously for themselves. These, however, would be the precondition for a democratic society which needs adults who have come of age [*in Mündigen*] in order to sustain itself and develop” (1967a [1991, 105]). Given then the diagnosis of integrated social totality under stated administered monopoly capitalism, reification and the new anthropological type, Adorno in his time sees more hope in capacity building than in direct political action. He invokes the German idealist notion of *Bildung* (socially mediated self-formation, education) to castigate contemporary educational and cultural institutions for purveying a conformist “Half-Bildung”: conveying enough information and relaxation to fulfill society’s functions without inducing any independent thought or personal growth (1959 [1993]). He also invokes Kant’s enlightenment notion of “political maturity” (*Mündigkeit*), the ability to think for oneself, without the guidance of another, and itself a necessary condition for autonomy in the sense of self-determination that, however, can be cultivated even in situations of limited freedom (O’Connor 2013, 130–135)[^o’connor-2013] (against reified consciousness and “coldness” Adorno also speaks of educating toward “unreduced experience”). Cultivating and reinforcing such capacities is “politically necessary,” for “an actual working democracy can only be conceived as a society of politically mature people” (1967d [1971, 107]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一方面，阿多诺始终坚持其理论*作为*实践的政治意涵，例如内在的意识形态批判：“[文化工业]阻碍自主而独立的个体的发展[*Bildung*]，这类个体能有意识地自行判断与决定。然而，这样的人正是一个民主社会的前提条件——民主社会需要已届成年者[*in Mündigen*]，方能维系自身并发展”（1967a [1991, 105]）。鉴于他对国家管理的垄断资本主义之下整合社会总体、物化与新人类学类型的诊断，阿多诺在其时代更寄望于能力建设，而非直接政治行动。他援引德国观念论的教化（*Bildung*）概念——受社会中介的自我形成与教育——抨击当代教育与文化机构兜售因袭的“半教育”：传递足够的信息与放松以履行社会功能，却不引发任何独立思考或个人成长（1959 [1993]）。他还援引康德启蒙意义上的“政治成熟”（*Mündigkeit*）——不借他人指导而自行思考的能力；这本身是自律（就自我规定而言）的必要条件，却即便在自由受限的处境中也可以培养（O’Connor 2013, 130–135）[^o’connor-2013]（针对物化意识与“冷漠”，阿多诺也谈向“未削减的经验”的教育）。培养并巩固这类能力是“政治上必要的”，因为“一个实际运转的民主，只能被设想为政治成熟的人的社会”（1967d [1971, 107]）。
+    step2: |-
+      另一方面，阿多诺始终坚持其理论*作为*实践的政治意涵，例如内在的意识形态批判：“[文化工业]阻碍自主而独立的个体的发展[*Bildung*]，这类个体能有意识地自行判断与决定。然而，这样的人正是一个民主社会的前提条件——民主社会需要已届成年者[*in Mündigen*]，方能维系自身并发展”（1967a [1991, 105]）。国家管理的垄断资本主义之下是整合的社会总体、物化与新人类学类型——鉴于这一诊断，阿多诺在其时代更寄望于能力建设，而非直接政治行动。他援引德国观念论的教化（*Bildung*）概念——受社会中介的自我形成与教育——抨击当代教育与文化机构兜售因袭的“半教育”：传递足够的信息与放松以履行社会功能，却不引发任何独立思考或个人成长（1959 [1993]）。他还援引康德启蒙意义上的“政治成熟”（*Mündigkeit*）——不借他人指导而自行思考的能力；这本身是自律（就自我规定而言）的必要条件，却即便在自由受限的处境中也可以培养（O’Connor 2013, 130–135）[^o’connor-2013]（针对物化意识与“冷漠”，阿多诺也谈向“未削减的经验”的教育）。培养并巩固这类能力是“政治上必要的”，因为“一个实际运转的民主，只能被设想为政治成熟的人的社会”（1967d [1971, 107]）。
   - id: 78
     kind: body
     source: |-
       This political imperative underwrites Adorno’s work as a public intellectual. Having closely studied and worked with institutions of the culture industry in the USA (Jenemann 2007)[^jenemann-2007], he identified and emphasized moments within the products and technology where incipient gestures of autonomy can be leveraged (Mariotti 2016)[^mariotti-2016]. When he returned to Germany, he pursued public enlightenment (*Aufklärungsarbeit*) through diverse media institutions (magazine essays, radio talks and conversations, television discussions, public lectures); this was the counterpoint to his analyses of modernist artworks by which the “truth content” of social antagonisms can be revealed, but which requires precisely the classical Bildung of which most people are cheated. Politically mature people will “not cooperate” (*nicht* *mitmachen*) or at least be cognizant of the material and ideological dynamics inducing their participation and conformism. In this way Adorno’s theoretical writings and practical activities constitutes an “ethics of resistance” (Hammer 2005; Pickford 2023)[^hammer-2005][^pickford-2023].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一政治命令支撑着阿多诺作为公共知识分子的工作。在美国，他深入研习并合作过文化工业的诸建制（Jenemann 2007）[^jenemann-2007]；他识别并强调产品与技术内部那些可以利用的、初起的自律姿态（Mariotti 2016）[^mariotti-2016]。回到德国后，他经由多元的媒体机构（杂志文章、广播讲话与对话、电视讨论、公开演讲）从事公共启蒙（*Aufklärungsarbeit*）；这构成他对现代主义艺术品之分析的对应面——借后者的分析，社会对立的“真理内容”得以显露，但这恰恰需要大多数人被骗走的古典教化。政治成熟的人将“不合作”（*nicht* *mitmachen），或至少明察诱发其参与与从众的物质与意识形态动力学。由此，阿多诺的理论著述与实践活动构成一种“抵抗的伦理学”（Hammer 2005；Pickford 2023）[^hammer-2005][^pickford-2023]。
+    step2: |-
+      这一政治命令支撑着阿多诺作为公共知识分子的工作。在美国，他深入研习并合作过文化工业的诸建制（Jenemann 2007）[^jenemann-2007]；他识别并强调产品与技术内部那些可以利用的、初起的自律姿态（Mariotti 2016）[^mariotti-2016]。回到德国后，他经由多元的媒体机构——杂志文章、广播讲话与对话、电视讨论、公开演讲——从事公共启蒙（*Aufklärungsarbeit*）。这构成他对现代主义艺术品之分析的对应面：借那一分析，社会对立的“真理内容”得以显露，而这恰恰需要大多数人被骗走的古典教化。政治成熟的人将“不合作”（*nicht* *mitmachen），或至少明察诱发其参与与从众的物质与意识形态动力学。由此，阿多诺的理论著述与实践活动，构成一种“抵抗的伦理学”（Hammer 2005；Pickford 2023）[^hammer-2005][^pickford-2023]。
   - id: 79
     kind: body
     source: |-
       Scholars have in recent years turned to Adorno as one interlocutor in discussions about the social ontology and politics of identity (see the Adorno and Identity Seminars, Other Internet Resources). Oberle (2018) is an expansive historical study of Adorno’s experiences in exile and his theorizing about subjectivity under the category “negative identity” and its social, economic and political conditions. Okiji (2018) argues that Adorno’s notoriously dismissive analyses of jazz presuppose a subjectivity denied black people; on the other hand, jazz performance exhibits qualities of the avant-garde modernist music extolled by Adorno in a context of a Marxian negativism shared by the Black radical tradition (Kelly 2024 finds problematic differences between Adorno and Black aesthetics)[^kelly-2024]. Such studies seem to keep faith with Adorno: “The only thing that can perhaps be said is that the good life [*das richtige Leben*] today would consist in resistance to the forms of a wrong life [*eines* *falschen Lebens*] that have been seen through and critically dissected by the most progressive consciousness” (1963b [2000, 167–8, trans mod.]).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      近年来，学者们把阿多诺当作关于社会存在论与身份政治之讨论中的一位对话者（见“阿多诺与身份研讨会”，其他网络资源）。Oberle (2018) 以“否定性身份”为范畴，对阿多诺的流亡经验及其关于主体性的理论化作了宽宏的历史研究。Okiji (2018) 论证：阿多诺那出了名的拒斥性的爵士乐分析，预设了一种被否认给黑人的主体性；另一方面，爵士乐演奏展现出阿多诺所推崇的先锋现代主义音乐的诸特质，其语境是黑人激进传统所共享的马克思主义否定主义（Kelly 2024 发现阿多诺与黑人美学之间存在成问题的差异）[^kelly-2024]。这类研究似乎未负阿多诺：“或许唯一能说的是：今天良善的生活[*das richtige Leben*]，将在于对错误生活[*eines* *falschen* *Lebens*]之诸形式的抵抗——这些形式已被最进步的意识看穿并批判地剖析”（1963b [2000, 167–8, trans mod.]）。
+    step2: |-
+      近年来，学者们把阿多诺当作关于社会存在论与身份政治之讨论中的一位对话者（见“阿多诺与身份研讨会”，其他网络资源）。Oberle (2018) 以“否定性身份”为范畴，对阿多诺的流亡经验及其关于主体性的理论化作了宽宏的历史研究。Okiji (2018) 论证：阿多诺那出了名的拒斥性的爵士乐分析，预设了一种被否认给黑人的主体性；另一方面，爵士乐演奏又展现出阿多诺所推崇的先锋现代主义音乐的诸特质——其语境是黑人激进传统所共享的马克思主义否定主义（Kelly 2024 发现阿多诺与黑人美学之间存在成问题的差异）[^kelly-2024]。这类研究似乎未负阿多诺：“或许唯一能说的是：今天良善的生活[*das richtige Leben*]，将在于对错误生活[*eines* *falschen* *Lebens*]之诸形式的抵抗——这些形式已被最进步的意识看穿并批判地剖析”（1963b [2000, 167–8, trans mod.]）。
   - id: 80
     kind: body
     source: |-
       In 1969 shortly before his death and as Germany was being roiled by student unrest, the news magazine *Der Spiegel* began its interview with Adorno in this way:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1969 年，阿多诺去世前不久，德国正被学生动荡所震撼；新闻杂志《明镜》（*Der Spiegel*）这样开始其对阿多诺的访谈：
+    step2: |-
+      1969 年，阿多诺去世前不久，德国正被学生动荡所震撼；新闻杂志《明镜》（*Der Spiegel*）这样开始其对阿多诺的访谈：
   - id: 81
     kind: body
     source: |-
       > Spiegel: “Professor Adorno, two weeks ago, the world still seemed in order…”
       >
       > Adorno: “Not to me.” (1969d [2002, 14])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 《明镜》：“阿多诺教授，两周前，世界看上去还有秩序……”
+      >
+      > 阿多诺：“对我而言并非如此。”（1969d [2002, 14]）
+    step2: |-
+      > 《明镜》：“阿多诺教授，两周前，世界看上去还有秩序……”
+      >
+      > 阿多诺：“对我而言并非如此。”（1969d [2002, 14]）
   - id: 82
     kind: body
     source: |-
       There is perhaps no better summary than this of Adorno’s view of the state of the world, nor any better introduction to his thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对阿多诺的世界状况观，也许没有比这更好的概括；通向其思想的引论，也没有比这更好的。
+    step2: |-
+      阿多诺对世界状况的看法，也许没有比这更好的概括；而通向他思想的引论，也没有比这更好的。
   - id: 83
     kind: oir
     source: |-
@@ -653,11 +677,23 @@ segments:
       - [Theodor W. Adorno Archive/Institute of Social Research](https://www.ifs.uni-frankfurt.de/adorno-archive.html), at the Johann Wolfgang Goethe University in Frankfurt.
       - [Theodor W. Adorno Archive in the Walter Benjamin Archive](https://archiv.adk.de/bigobjekt/19345), at the Akademie der Künste in Berlin.
       - [The Adorno and Identity Seminars: Documents and Video Archive](https://adorno-identity.net/documents/), seminars supported by Princeton University, Arizona State University, and the University of California, Berkeley.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      * [档案中心／森肯贝格大学图书馆](https://www.ub.uni-frankfurt.de/archive/a-z.html)，位于美因河畔法兰克福的约翰·沃尔夫冈·歌德大学。该大学档案馆藏有霍克海默、波洛克与法兰克福学派其他阿多诺同人的文学遗赠。
+      * [阿多诺研究学会](https://www.adornostudies.org/)
+      * [西奥多·W·阿多诺档案馆／社会研究所](https://www.ifs.uni-frankfurt.de/adorno-archive.html)，位于美因河畔法兰克福的约翰·沃尔夫冈·歌德大学。
+      * [瓦尔特·本雅明档案中的西奥多·W·阿多诺档案](https://archiv.adk.de/bigobjekt/19345)，位于柏林艺术学院。
+      * [阿多诺与身份研讨会：文献与视频档案](https://adorno-identity.net/documents/)，由普林斯顿大学、亚利桑那州立大学与加州大学伯克利分校支持的研讨会。
+    step2: |-
+      * [档案中心／森肯贝格大学图书馆](https://www.ub.uni-frankfurt.de/archive/a-z.html)，位于美因河畔法兰克福的约翰·沃尔夫冈·歌德大学。该大学档案馆藏有霍克海默、波洛克与法兰克福学派其他阿多诺同人的文学遗赠。
+      * [阿多诺研究学会](https://www.adornostudies.org/)
+      * [西奥多·W·阿多诺档案馆／社会研究所](https://www.ifs.uni-frankfurt.de/adorno-archive.html)，位于美因河畔法兰克福的约翰·沃尔夫冈·歌德大学。
+      * [瓦尔特·本雅明档案中的西奥多·W·阿多诺档案](https://archiv.adk.de/bigobjekt/19345)，位于柏林艺术学院。
+      * [阿多诺与身份研讨会：文献与视频档案](https://adorno-identity.net/documents/)，由普林斯顿大学、亚利桑那州立大学与加州大学伯克利分校支持的研讨会。
   - id: 84
     kind: ack
     source: |-
       As of the November 2024 update, Henry Pickford has taken over responsibility for updating and maintaing this entry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自 2024 年 11 月的更新起，本词条的更新与维护工作由 Henry Pickford 接掌。
+    step2: |-
+      自 2024 年 11 月的更新起，本词条的更新与维护工作由 Henry Pickford 接掌。
