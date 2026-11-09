@@ -1,0 +1,89 @@
+{
+ "key": "ableism",
+ "term": "ableism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T10:56:56+00:00",
+ "status": "ok",
+ "note": "variant=ableism; 审定公布名词库=5; 海峡两岸名词对照库=4; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "无神论",
+   "en": "atheism",
+   "code": "02.097",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_理论方法"
+  },
+  {
+   "cn": "等位性",
+   "en": "allelism",
+   "code": "10.0024",
+   "standard": "植物学名词",
+   "subject": "植物学_植物遗传学"
+  },
+  {
+   "cn": "投掷症",
+   "en": "ballism",
+   "code": "07.204",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_神经病学"
+  },
+  {
+   "cn": "等位性",
+   "en": "allelism,allelomorphism",
+   "code": "02.074",
+   "standard": "遗传学名词",
+   "subject": "遗传学_经典遗传学"
+  },
+  {
+   "cn": "复等位性",
+   "en": "multiple allelism",
+   "code": "2.766",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_主要组织相容性复合体和遗传"
+  },
+  {
+   "cn": "等位性",
+   "en": "allelism",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "等位性",
+   "en": "allelism",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "年龄歧视",
+   "en": "ageism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "复等位性",
+   "en": "multiple allelism",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "语言歧视",
+   "en": "Ableism",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "无神论",
+   "en": "atheism",
+   "code": "01.0106",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
