@@ -1,0 +1,47 @@
+{
+ "key": "beneficence",
+ "term": "beneficence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:03:24+00:00",
+ "status": "ok",
+ "note": "variant=beneficence; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "有利",
+   "en": "beneficence",
+   "code": "08.108",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "受益原则",
+   "en": "principle of beneficence",
+   "code": "08.097",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "查理·马特采邑改革",
+   "en": "Charles Martel Benefice Reforms",
+   "code": "02.0548",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "有利原则",
+   "en": "principle of beneficence",
+   "code": "3.023",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理原则"
+  },
+  {
+   "cn": "行善",
+   "en": "beneficience",
+   "code": "3.0239999999999996",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理原则"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

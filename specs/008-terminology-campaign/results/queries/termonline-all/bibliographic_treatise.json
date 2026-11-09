@@ -1,0 +1,313 @@
+{
+ "key": "bibliographic treatise",
+ "term": "Bibliographic Treatise",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:06:25+00:00",
+ "status": "ok",
+ "note": "variant=Bibliographic Treatise; 审定公布名词库=233; 海峡两岸名词对照库=17; 其他来源数据库=12; 预公布名词数据库=7; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "目录学家",
+   "en": "bibliographer",
+   "code": "02.190",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_图书情报职业"
+  },
+  {
+   "cn": "书目编纂者",
+   "en": "bibliographer",
+   "code": "02.208",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_图书情报职业"
+  },
+  {
+   "cn": "书目格式",
+   "en": "bibliographic format",
+   "code": "04.424",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "图书馆目录组织",
+   "en": "bibliographic organization",
+   "code": "04.666",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "书目控制",
+   "en": "bibliographic control",
+   "code": "04.346",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "书目评论",
+   "en": "bibliographic review",
+   "code": "08.338",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_目录学"
+  },
+  {
+   "cn": "书目数据",
+   "en": "bibliographic data",
+   "code": "08.337",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_目录学"
+  },
+  {
+   "cn": "书目中心",
+   "en": "bibliographic center",
+   "code": "02.058",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_组织机构"
+  },
+  {
+   "cn": "书目检索工具",
+   "en": "bibliographic tool",
+   "code": "05.199",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索系统"
+  },
+  {
+   "cn": "书目记录",
+   "en": "bibliographic record",
+   "code": "04.349",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "书目信息",
+   "en": "bibliographic information",
+   "code": "08.335",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_目录学"
+  },
+  {
+   "cn": "书目情报",
+   "en": "bibliographic information",
+   "code": "08.336",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_目录学"
+  },
+  {
+   "cn": "净化水",
+   "en": "treated water",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "防腐木",
+   "en": "preservative-treated timber",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "天然气处理系统",
+   "en": "natural gas treating system",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "肌酸",
+   "en": "creatine",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "创造心理学",
+   "en": "creative psychology\",\"psychology of creative",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "肌酸磷酸激酶(=肌酸激酶)",
+   "en": "creatine phosphokinase\",\"CPK(=creatine kinase)",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "创造性自我",
+   "en": "creative self",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "创造性想象",
+   "en": "creative imagination",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "创造性人格",
+   "en": "creative personality",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "創意旅游",
+   "en": "creative tourism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "肌酸激酶",
+   "en": "creatine kinase",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "磷酸肌酸",
+   "en": "creatine phosphate",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "国际标准书目著录",
+   "en": "International Standard Bibliographic Description,ISBD",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "视人如己",
+   "en": "Treat Others the Way You Treat Yourself",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "应治尽治",
+   "en": "All confirmed patients should be treated.",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "视徒如己，反己以教",
+   "en": "Treat Students as You Would Treat Yourself, and Put Yourself in Their Shoes",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "治病救人",
+   "en": "Treat the Illness and Save the Patient",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "上工治未病",
+   "en": "Great Physicians Treat Before the Outbreak of an Illness.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "医疗废物日产日清",
+   "en": "to ensure that medical waste is treated within 24 hours ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "有病不治，常得中医",
+   "en": "Self-treating an Illness Can Usually Get a Good Result.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "集中患者、集中专家、集中资源、集中救治",
+   "en": "to treat the infected in dedicated facilities by medical specialists from all over the country and with all necessary resources ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "肌酸",
+   "en": "creatine",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识共享",
+   "en": "Creative Commons",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Georg Wilhelm Friedrich Hegel bibliography",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "水处理设备净化水",
+   "en": "treated water",
+   "code": "10.3.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校卫生监督_学校饮用水卫生监督"
+  },
+  {
+   "cn": "治疗区",
+   "en": "treated volume，TV",
+   "code": "6.4.4.21.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "达标治疗",
+   "en": "treat-to-target，T2T",
+   "code": "1.7.2.15",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗"
+  },
+  {
+   "cn": "打扫干净屋子再请客",
+   "en": "clean up the house to treat",
+   "code": "03.0501",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "创意阶层",
+   "en": "creative class",
+   "code": "3.4.10.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_全球化与城市发展"
+  },
+  {
+   "cn": "创造想象",
+   "en": "creative imagination",
+   "code": "2.5.6.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "创造性思维能力",
+   "en": "creative thinking skill",
+   "code": "5.5.10.7",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

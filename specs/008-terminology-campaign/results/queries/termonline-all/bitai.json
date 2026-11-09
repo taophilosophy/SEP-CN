@@ -1,0 +1,68 @@
+{
+ "key": "bitai",
+ "term": "bitai",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:09:25+00:00",
+ "status": "ok",
+ "note": "variant=bitai; 审定公布名词库=4; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "戏台",
+   "en": "stage,xitai",
+   "code": "03.0181",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)"
+  },
+  {
+   "cn": "骨痛病",
+   "en": "itai-itai disease",
+   "code": "14.033",
+   "standard": "生态学名词",
+   "subject": "生态学_污染生态学"
+  },
+  {
+   "cn": "痛痛病",
+   "en": "itai-itai disease",
+   "code": "09.087",
+   "standard": "地理学名词",
+   "subject": "地理学_环境地理学"
+  },
+  {
+   "cn": "痛痛病",
+   "en": "itai-itai disease",
+   "code": "06.219",
+   "standard": "地质学名词",
+   "subject": "地质学_地球化学"
+  },
+  {
+   "cn": "骨痛病",
+   "en": "itai-itai diseae",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "痛痛病",
+   "en": "itai-itai diseae",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "痛痛病",
+   "en": "itai-itai disease",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "痛痛病",
+   "en": "Itai－Itai disease",
+   "code": "3.2.6.15",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,215 @@
+{
+ "key": "assignment",
+ "term": "assignment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T13:37:53+00:00",
+ "status": "ok",
+ "note": "variant=assignment; 审定公布名词库=213; 海峡两岸名词对照库=78; 其他来源数据库=4; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "采写任务",
+   "en": "assignment",
+   "code": "4.048",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "分配问题",
+   "en": "assignment problem",
+   "code": "05.191",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "code": "05.0200",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "指派问题",
+   "en": "assignment problem",
+   "code": "011.0160",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_线性规划"
+  },
+  {
+   "cn": "采写任务",
+   "en": "reporting assignment",
+   "code": "02.08.037",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "区域定位",
+   "en": "regional assignment",
+   "code": "8.112",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "code": "02.0143",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "设备分配",
+   "en": "machine assignment",
+   "code": "05.0980",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_工业工程"
+  },
+  {
+   "cn": "资源调配",
+   "en": "resource assignment",
+   "code": "09.0676",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理"
+  },
+  {
+   "cn": "土地划拨",
+   "en": "land assignment",
+   "code": "11.0509",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_政府管理"
+  },
+  {
+   "cn": "见习计划",
+   "en": "understudy assignment",
+   "code": "04.0586",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_培训与开发"
+  },
+  {
+   "cn": "土地划拨",
+   "en": "land assignment",
+   "code": "07.0368",
+   "standard": "建筑学名词",
+   "subject": "建筑学_城乡规划_城乡规划管理"
+  },
+  {
+   "cn": "赋值",
+   "en": "assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "随机分配，随机分派",
+   "en": "random assignment",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "不可撤销的转让",
+   "en": "irrevocable assignment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "法定转让",
+   "en": "legal assignment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "有条件合同转让",
+   "en": "conditional assignment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "专利权转让",
+   "en": "patent assignment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "按需分发",
+   "en": "demand assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "频率指配",
+   "en": "frequency assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "设备指派",
+   "en": "device assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "时延分配",
+   "en": "delay assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "信道指配",
+   "en": "channel assignment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "指定泳道",
+   "en": "lanes assignment",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "互联网名称与数字地址分配机构",
+   "en": "Internet Corporation for Assigned Names and Numbers (ICANN)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "队列",
+   "en": "alignment",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "“四个意识”",
+   "en": "the “Four Consciousnesses” (maintain political integrity, think in terms of the big picture, follow the leadership core, and keep in alignment with the central Party leadership)",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "归因份额",
+   "en": "assigned share，AS",
+   "code": "4.4.3.19",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

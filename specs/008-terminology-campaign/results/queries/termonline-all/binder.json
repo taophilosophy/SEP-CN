@@ -1,0 +1,348 @@
+{
+ "key": "binder",
+ "term": "binder",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:06:25+00:00",
+ "status": "ok",
+ "note": "variant=binder; 审定公布名词库=1238; 海峡两岸名词对照库=436; 其他来源数据库=62; 预公布名词数据库=64; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "割捆机",
+   "en": "binder",
+   "code": "14.085",
+   "standard": "农学名词",
+   "subject": "农业工程_农业机械化与装备"
+  },
+  {
+   "cn": "黏结剂",
+   "en": "binder",
+   "code": "02.100",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_铸造_造型材料"
+  },
+  {
+   "cn": "[粉末冶金]黏结剂",
+   "en": "binder",
+   "code": "07.005",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_粉末冶金_一般名词"
+  },
+  {
+   "cn": "黏结剂",
+   "en": "binder",
+   "code": "08.0178",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属材料_粉末冶金"
+  },
+  {
+   "cn": "黏结剂",
+   "en": "binder",
+   "code": "03.204",
+   "standard": "化工名词 (二)基本有机化工",
+   "subject": "化工（二）_反应与三剂_三剂"
+  },
+  {
+   "cn": "黏合剂",
+   "en": "binder",
+   "code": "02.328",
+   "standard": "药学名词",
+   "subject": "药学_药剂学"
+  },
+  {
+   "cn": "成膜物",
+   "en": "binder",
+   "code": "04.0895",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_高分子材料_胶黏剂与涂料_涂料"
+  },
+  {
+   "cn": "黏合剂",
+   "en": "binder",
+   "code": "02.104",
+   "standard": "电气工程名词",
+   "subject": "电气工程_导电材料及半导体材料"
+  },
+  {
+   "cn": "结合料",
+   "en": "binder",
+   "code": "08.001",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_筑路用材料及性能"
+  },
+  {
+   "cn": "包边装置",
+   "en": "binder device",
+   "code": "3.202",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_橡胶机械"
+  },
+  {
+   "cn": "黏结相",
+   "en": "binder phase",
+   "code": "07.006",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_粉末冶金_一般名词"
+  },
+  {
+   "cn": "黏结金属",
+   "en": "binder metal",
+   "code": "07.007",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_粉末冶金_一般名词"
+  },
+  {
+   "cn": "基料",
+   "en": "binder",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "黏结剂",
+   "en": "binder",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "成膜物",
+   "en": "binder",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "黏合剂",
+   "en": "binder",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "结合能力",
+   "en": "binder power",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "黏结金属",
+   "en": "binder metal",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "黏结相",
+   "en": "binder phase",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "纸板",
+   "en": "binder board",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "催化剂黏结剂",
+   "en": "catalyst binder",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "塑料黏合剂",
+   "en": "plastic binder",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "有机黏合剂",
+   "en": "organic binder",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "粉末黏结剂",
+   "en": "powder binder",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "压刺",
+   "en": "bind\",\"liement",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "结合能",
+   "en": "binding energy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "甲状腺素结合球蛋白",
+   "en": "thyroxine-binding globulin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "DNA结合蛋白",
+   "en": "DNA-binding domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "核结合能",
+   "en": "Nuclear binding energy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "TATA结合蛋白",
+   "en": "TATA-binding protein",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "肌动蛋白结合蛋白",
+   "en": "actin-binding proteins",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "甲状腺素结合前白蛋白",
+   "en": "thyroxine-binding prealbumin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "核糖体结合位点",
+   "en": "Ribosome-binding site",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "紧束缚近似",
+   "en": "tight-binding approximation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "交锋",
+   "en": "engage\",\"fence\",\"bind",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "防浪板",
+   "en": "binding strake\",\"washboard",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "民俗约束力",
+   "en": "folklore binding",
+   "code": "4.003",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "IgE",
+   "en": "IgE binding epitope",
+   "code": "3.4.26",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "原子核结合能",
+   "en": "binding energy of nucleus",
+   "code": "3.2.1.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "核子平均结合能",
+   "en": "nucleon average binding energy",
+   "code": "3.2.1.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "code": "5.1.3.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "code": "1.0218",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "指标",
+   "en": "index",
+   "code": "1.2.4.30",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "性别盲视政策",
+   "en": "gender-blinded policies",
+   "code": "3.2.6.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别与发展"
+  },
+  {
+   "cn": "社会性别偏见",
+   "en": "gender bias",
+   "code": "1.0219",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "code": "3.2.1.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "code": "3.2.1.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性别偏见",
+   "en": "gender bias",
+   "code": "3.2.1.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
