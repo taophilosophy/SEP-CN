@@ -1676,7 +1676,7 @@
 | kare | 枯 | 枯（枯萎） | japanese-aesthetics | 学界惯例（日本庭园研究通行译法“枯”） | 2026-11-08 |
 | predication by essence | — | 本质谓述 | penbygull | 构词直译（praedicatio secundum essentiam）；凭证 2026-11-09 | 2026-11-09 |
 | epistemic justification | — | 知识证成 | justep-coherence | 学界惯例（知识论通行译法；SUMMARY 词条名“知识证成的融贯论”） | 2026-11-02 |
-| remote inherence | — | 间接内寓 | penbygull | 构词直译（inhaerentia remota，阿林顿对本质谓述的改称）；凭证 2026-11-09 | 2026-11-09 |
+| remote inherence | — | 远距离内属 | penbygull | 沿用姊妹词条 alyngton 既定译法（inhaerentia remota；inherence 通译内属）；凭证 2026-11-09 | 2026-11-09 |
 | coherentism | — | 融贯论 | justep-coherence | 学界惯例（哲学通译；已登记“coherence theory of truth=真理融贯论”） | 2026-11-02 |
 | standard deviation | — | 标准差 | risk | 审定名词库统计学术语通行译名；凭证 2026-11-09 | 2026-11-09 |
 | risk perception | — | 风险感知 | risk | 学界惯例（心理测量学通行）；凭证 2026-11-09 | 2026-11-09 |
