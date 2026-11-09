@@ -2,7 +2,7 @@
   "slug": "marsilius-padua",
   "kind": "retranslate",
   "zh_doc": "m/marsilius-padua.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,13 @@
       "actor": "M-main-20261109",
       "at": "2026-11-08T18:40:02Z",
       "evidence": "接手会话三重验收后收编工作区遗留初译（2026-11-09）：① python script/lq.py check m marsilius-padua 守恒 HARD=0（74 段）；② lq.py compose 干跑（去 NOTE 行）与 m/marsilius-padua.md 逐字符 diff=0；③ 抽检段1（导语）与段30（DP 定义引块）对照 yuanwen 忠实无增删。成稿 287 行 / 74 段 step2 齐备，账本 tasks/m/marsilius-padua.ledger.yaml。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "M-main-20261109b",
+      "at": "2026-11-09T09:03:30Z",
+      "evidence": "s1 一校（M-main-20261109b）：结构全等——h2 12:12、h3 12:12、脚注定义 104:104、正文 [^key] 引用 168:168、引块 5:5、DP 页码引 57:57、年份集合零差（script/s1_mp_check.py）；H1 与 SUMMARY 1632 行逐字符一致；biblio_audit flagged=0（无中国文献条目）。逐段对照 en/ 原 HTML 全文核销，修订 8 处：① 相关词条末项「political philosophy: medieval Augustine」经 en/ 原始 HTML 实证为源页漏管道符致两条并作一条（medieval-political 与 augustine），改为「中世纪政治哲学 | 希波的奥古斯丁」（对 SUMMARY 2073/243 行）；② 「第一部」→「第一编」3 处（同一概念主形归一）；③ 段 32 Costa 引语补源文 probably「或许是」；④ 段 34 标题直角引号「权利」→弯引号；⑤ 段 35 quaestio 用登记形「经院论辩（*quaestio*）」；⑥ 段 27 自然奴隶→登记形「自然奴隶制」，并按源文把第二处 slaves 译「奴隶」；⑦ 现代学者无通行汉名者按 ADR-0022 保留英文：柯特尼→Courtenay、兰贝蒂尼→Lambertini；⑧ 导语意大利语名 de’ 的印刷撇号改 U+02BC（deʼ），避 curly-quotes 门禁误判，语义不变。术语补登 3 行（collective prudence 集体明智、conciliarism 公会议主义、lex regia de imperio 王权法）。源文缺陷留痕：en/ 与 yuanwen 均把 §6 第五小节编号作 6.4（与上一节重号），译文按显然意图排为 6.5，内容未改。门禁：check_style 0 issue、check_academic --strict OK、check_math 0 缺失/失衡、lq.py check 74 段 HARD=0、compose 与成稿逐字符一致（除 NOTE 行与手工核销的相关词条行）。"
     }
   ],
   "blockers": [],
