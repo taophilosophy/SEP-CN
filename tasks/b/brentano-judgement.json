@@ -2,7 +2,7 @@
   "slug": "brentano-judgement",
   "kind": "retranslate",
   "zh_doc": "b/brentano-judgement.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "B-main-20261109b",
       "at": "2026-11-09T02:40:34Z",
       "evidence": "二校语言：prose 48→26，实修 22 处（弱动词 11：作出说明/作出判断/加以比较/加以统一说明等；被动 1；长句拆 3；类名们 1；存在句 1；de-chain 5）。余 26 条逐条判读后豁免：均为块引源文直引（Stumpf 1919/PES 240/PES 221/PES 241 等）或术语枚举，中文按源文等长保留，ADR-0020 引文豁免。四检复跑 style 0/math 0/academic 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "B-main-20261109b",
+      "at": "2026-11-09T02:59:16Z",
+      "evidence": "三校体例：check_style 0 issue（italic-cjk 于 draft 后经 italic_to_bold_cjk 转换）；check_math 0 公式零失衡；术语 13 项与 yi-zhe-shuo-ming 登记一致（承认/明证性/存在判断/直言判断/假言判断/命题态度/内知觉/标记/设定等），人名 4 项与 ren-ming-biao 一致（布伦塔诺/斯图姆夫/莱纳赫/希尔德布兰德）；defs 108:108 键集全等、尾节四件套齐（参考文献/学术工具/其他网络资源/相关词条）；check_academic --strict 0 硬错误（门禁实拦）"
     }
   ],
   "blockers": [],
