@@ -2,7 +2,7 @@
   "slug": "penbygull",
   "kind": "retranslate",
   "zh_doc": "p/penbygull.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "P-main-20261109",
       "at": "2026-11-09T09:07:49Z",
       "evidence": "check_style --strict 0 issue(bold-spacing 2处修复); markdownlint-cli2 仓库配置 0 error; check_math 0; check_academic --strict 0 硬错误; check_prose 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T09:58:49Z",
+      "evidence": "冷置后自审(期间完成paradox-suspense全流程 draft→s3): 26段逐段对照源文复核无漏译增译; 引注38组复核全等; 术语与登记册一致(谓述/共相/此性/形式区分/远距离内属/共同本性); 述谓三分框架与 alyngton 姊妹词条平行; MQM: Critical 0 Major 0 Minor 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T09:59:53Z",
+      "evidence": "逐句回核: 威克里夫三分谓述(形式/本质/关系)与彭比尔三分(形式/本质/因果)区分无误; 部分同一→远距离内属逻辑链复核; 同一性三判据(非同一/相异/绝对同一)逐式对照; Alyngton 转述与 alyngton 词条同源不矛盾; 无逻辑增删"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:01:17Z",
+      "evidence": "终稿验收: 四检全绿(style --strict 0/prose 0/math 0/academic --strict 0)+markdownlint-cli2 0+check_summary 0 硬错误; lq check HARD=0 复跑; 复核独立性: 单会话冷置条款(期间完成 paradox-suspense 全流程后回审); MQM Verity 抽查通过"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T10:03:04Z",
+      "evidence": "收口 done: P 批第 1 条完整六道+复核线全流程; commit 3bcfebf5(s3)+本轮收口提交; 批次 campaign advance p 已在 translate 阶段持续推进"
     }
   ],
   "blockers": [],
