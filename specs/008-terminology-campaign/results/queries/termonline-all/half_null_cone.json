@@ -1,0 +1,348 @@
+{
+ "key": "half-null-cone",
+ "term": "half-null-cone",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:14:25+00:00",
+ "status": "ok",
+ "note": "variant=half-null-cone; 审定公布名词库=5390; 海峡两岸名词对照库=1921; 其他来源数据库=439; 预公布名词数据库=131; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "空值",
+   "en": "null",
+   "code": "07.0100",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "球果",
+   "en": "cone",
+   "code": "03.0591",
+   "standard": "植物学名词",
+   "subject": "植物学_植物形态与结构植物学_植物形态学"
+  },
+  {
+   "cn": "圆锥",
+   "en": "cone",
+   "code": "02.123",
+   "standard": "计量学名词",
+   "subject": "计量学_几何量_角度"
+  },
+  {
+   "cn": "锥",
+   "en": "cone",
+   "code": "07.0133",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_泛函分析基础"
+  },
+  {
+   "cn": "锥[体]",
+   "en": "cone",
+   "code": "08.0159",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "叠锥",
+   "en": "cone-in-cone",
+   "code": "05.03.071",
+   "standard": "地质学名词",
+   "subject": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造"
+  },
+  {
+   "cn": "叠锥",
+   "en": "cone-in-cone",
+   "code": "05.346",
+   "standard": "地质学名词",
+   "subject": "地质学_岩石学"
+  },
+  {
+   "cn": "视锥细胞",
+   "en": "retinal cone,cone cell,cone",
+   "code": "03.321",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "空码",
+   "en": "null code",
+   "code": "10.0144",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_安全协议与分析技术"
+  },
+  {
+   "cn": "无效假设",
+   "en": "null hypothesis",
+   "code": "03.303",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "无效突变",
+   "en": "null mutation",
+   "code": "5.0193",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_损伤"
+  },
+  {
+   "cn": "零无限远",
+   "en": "null infinity",
+   "code": "07.606",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "空[值]",
+   "en": "null",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "零",
+   "en": "null",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "零假说",
+   "en": "null hypothesis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "无效突变",
+   "en": "null mutation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "虚无假设",
+   "en": "null hypothesis",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "零假设",
+   "en": "null hypothesis",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "零点平衡",
+   "en": "null balance",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "零电位器",
+   "en": "null potentiometer",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "虚无假设,零假设",
+   "en": "null hypothesis",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "原假设",
+   "en": "null hypothesis",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "零假说",
+   "en": "null hypothesis",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "零模型",
+   "en": "null model",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "零假设",
+   "en": "Null hypothesis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "零形式",
+   "en": "Null morpheme)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "刃脊",
+   "en": "Dirt cone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "凸锥",
+   "en": "convex cone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "角峰",
+   "en": "Dirt cone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "光锥",
+   "en": "light cone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "响岩",
+   "en": "Lava cone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "头锥",
+   "en": "Head cones",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "半减却",
+   "en": "half-halt",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "半衰期",
+   "en": "Half-life",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中场休息",
+   "en": "half-time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "下半场",
+   "en": "second half",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "X射线管遮线筒",
+   "en": "radiographic cone",
+   "code": "6.4.2.27",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "零效反应点",
+   "en": "null reaction point",
+   "code": "3.1.6.6.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "半面罩",
+   "en": "half mask",
+   "code": "3.2.2.10",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒相关用品"
+  },
+  {
+   "cn": "半衰期",
+   "en": "half-life [period]",
+   "code": "3.2.1.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "生物半排期",
+   "en": "biological half life",
+   "code": "4.1.6.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学"
+  },
+  {
+   "cn": "有效半减期",
+   "en": "effective half life",
+   "code": "4.1.6.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学"
+  },
+  {
+   "cn": "折半信度",
+   "en": "split-half reliability",
+   "code": "1.2.4.73",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "有效半减期",
+   "en": "effective half-life",
+   "code": "8.8.6",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_辐射防护基础"
+  },
+  {
+   "cn": "半值层",
+   "en": "half value layer",
+   "code": "8.1.23",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核武器"
+  },
+  {
+   "cn": "半致死浓度",
+   "en": "half lethal concentration",
+   "code": "10.5.13.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "生物半衰期",
+   "en": "biological half-life",
+   "code": "8.8.5",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_辐射防护基础"
+  },
+  {
+   "cn": "折半信度",
+   "en": "split-half reliability",
+   "code": "4.9.1.3",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

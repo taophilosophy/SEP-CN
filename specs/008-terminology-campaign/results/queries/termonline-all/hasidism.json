@@ -1,0 +1,33 @@
+{
+ "key": "hasidism",
+ "term": "Hasidism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:17:25+00:00",
+ "status": "ok",
+ "note": "variant=Hasidism; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "担子",
+   "en": "basidium",
+   "code": "05.0274",
+   "standard": "植物学名词",
+   "subject": "植物学_真菌学"
+  },
+  {
+   "cn": "担子",
+   "en": "basidium",
+   "code": "03.409",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物形态与结构"
+  },
+  {
+   "cn": "担子",
+   "en": "basidium",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

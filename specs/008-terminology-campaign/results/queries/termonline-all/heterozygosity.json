@@ -1,0 +1,152 @@
+{
+ "key": "heterozygosity",
+ "term": "heterozygosity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:21:55+00:00",
+ "status": "ok",
+ "note": "variant=heterozygosity; 审定公布名词库=10; 海峡两岸名词对照库=10; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "杂合度",
+   "en": "heterozygosity",
+   "code": "04.312",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_群体遗传学"
+  },
+  {
+   "cn": "杂合性",
+   "en": "heterozygosity",
+   "code": "06.008",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物遗传学"
+  },
+  {
+   "cn": "杂合度",
+   "en": "heterozygosity",
+   "code": "06.046",
+   "standard": "遗传学名词",
+   "subject": "遗传学_群体、数量遗传学"
+  },
+  {
+   "cn": "杂合性",
+   "en": "heterozygosity",
+   "code": "04.240",
+   "standard": "遗传学名词",
+   "subject": "遗传学_细胞遗传学"
+  },
+  {
+   "cn": "杂合度",
+   "en": "heterozygosity",
+   "code": "12.066",
+   "standard": "生态学名词",
+   "subject": "生态学_分子生态学"
+  },
+  {
+   "cn": "观察杂合度",
+   "en": "observed heterozygosity",
+   "code": "04.313",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_群体遗传学"
+  },
+  {
+   "cn": "期望杂合度",
+   "en": "expected heterozygosity",
+   "code": "04.314",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_群体遗传学"
+  },
+  {
+   "cn": "杂合性丢失",
+   "en": "loss of heterozygosity,LOH",
+   "code": "04.242",
+   "standard": "遗传学名词",
+   "subject": "遗传学_细胞遗传学"
+  },
+  {
+   "cn": "杂合性丢失",
+   "en": "loss of heterozygosity;LOH",
+   "code": "1.395",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "杂合现象",
+   "en": "heterozygosis",
+   "code": "12.065",
+   "standard": "生态学名词",
+   "subject": "生态学_分子生态学"
+  },
+  {
+   "cn": "杂合性",
+   "en": "heterozygosity",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "杂合度",
+   "en": "heterozygosity",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "杂合性",
+   "en": "heterozygosity",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "杂合性",
+   "en": "heterozygosity",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "杂合性丢失",
+   "en": "loss of heterozygosity\",\"LOH",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "杂合度取样方差",
+   "en": "sampling variance of heterozygosity",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "杂合度漂变方差",
+   "en": "drift variance of heterozygosity",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "杂合性缺失",
+   "en": "loss of heterozygosity， LOH",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "杂合现象",
+   "en": "heterozygosis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "杂合现象",
+   "en": "heterozygosis",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

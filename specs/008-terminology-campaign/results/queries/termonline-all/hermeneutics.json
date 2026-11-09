@@ -1,0 +1,61 @@
+{
+ "key": "hermeneutics",
+ "term": "hermeneutics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:21:55+00:00",
+ "status": "ok",
+ "note": "variant=hermeneutics; 审定公布名词库=5; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "诠释学",
+   "en": "hermeneutics",
+   "code": "03.798",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "释义学",
+   "en": "hermeneutics",
+   "code": "04.082",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "科学解释学",
+   "en": "scientific hermeneutics",
+   "code": "07.260",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学技术文化"
+  },
+  {
+   "cn": "诠释学循环",
+   "en": "hermeneutic circle",
+   "code": "03.799",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "解释学教育哲学",
+   "en": "hermeneutic philosophy of education",
+   "code": "01.083",
+   "standard": "教育学名词",
+   "subject": "教育学_教育基本理论"
+  },
+  {
+   "cn": "解释学",
+   "en": "hermeneutics",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "解释人类学",
+   "en": "Hemeneutic Anthropology",
+   "code": "4.2.8.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类学理论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

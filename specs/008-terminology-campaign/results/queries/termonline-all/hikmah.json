@@ -1,0 +1,26 @@
+{
+ "key": "hikmah",
+ "term": "Ḥikmah",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T22:24:56+00:00",
+ "status": "ok",
+ "note": "variant=Ḥikmah; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "促肾上腺皮质激素非依赖性双侧肾上腺大结节增生",
+   "en": "ACTH-indepen- dent bilateral macronodular adrenal hyperplasia,AIMAH",
+   "code": "09.020",
+   "standard": "泌尿外科学名词",
+   "subject": "泌尿外科学_肾上腺疾病"
+  },
+  {
+   "cn": "促肾上腺皮质激素非依赖性双侧肾上腺大结节样增生",
+   "en": "adrenocorticotropic hormone-independent bilateral macronodular adrenal hyperplasia;AIMAH",
+   "code": "05.083",
+   "standard": "内分泌代谢病学名词",
+   "subject": "肾上腺疾病_肾上腺疾病_库欣综合征"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
