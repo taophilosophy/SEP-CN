@@ -854,7 +854,7 @@
 |Everettian|埃弗雷特||
 |existentialism|存在主义||
 |Experience|经验；体验|经验主义与认识论语境译“经验”，现象学、存在主义语境（lived experience）译“体验”|
-|Explanation|解释||
+|Explanation|解释；说明||
 |explanationism|解释主义|explanationist 解释主义者；首现 abduction|
 |externalism|外在主义|与 Content Externalism 内容外在主义对应；内在主义为 internalism|
 |Extrinsic|外在||
