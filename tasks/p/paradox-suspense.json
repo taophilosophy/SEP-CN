@@ -2,7 +2,7 @@
   "slug": "paradox-suspense",
   "kind": "retranslate",
   "zh_doc": "p/paradox-suspense.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-09T09:22:22Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T09:55:49Z",
+      "evidence": "账本48段双版(parts/p1..p4); lq check HARD=0(SOFT: 机械段6+斜体转书名8); compose --write 10067字符; italic_to_bold 9行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T09:55:49Z",
+      "evidence": "引注14组核销全等(131/Carroll1990,2001/Smuts2008/Gerrig1997,172/Yanal1999,139/Walton1990:259-271/Uidhir2011a,b/年份片名6组中文括号); 人名片名20项核对无缺; 脚注键 carroll-2001/carroll-1990/smuts-2008/gerrig-1997/yanal-1999 逐字符一致; 残留外文碎片0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T09:55:50Z",
+      "evidence": "check_prose 12告警实修清零(long3/passive2/weak1/de-chain7,豁免0); style cjk-spacing 2处修复(冰峰168小时)"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T09:56:48Z",
+      "evidence": "check_style --strict 0; markdownlint-cli2 0; check_math 0; check_academic --strict 0 硬错误; check_prose 0"
     }
   ],
   "blockers": [],
