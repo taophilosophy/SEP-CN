@@ -2,7 +2,7 @@
   "slug": "cosmopolitanism",
   "kind": "retranslate",
   "zh_doc": "c/cosmopolitanism.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-09T04:32:14Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T09:02:55Z",
+      "evidence": "账本 71 段双版齐（body 70+oir 1，HARD=0，SOFT 仅斜体→书名号与 5 个机械段）；compose 35,189 字符；接手前 28 段 step2 文言体已按 rules/02 白话标尺全数重写（同 J 批 justus-lipsius 先例），引号 250 处「」→“”归一（conv_quotes 前置门：配对+去引号后逐字符身份一致）；四检 style 0/math 0 缺/academic 0 硬，prose 56 条待 s2"
     }
   ],
   "blockers": [],

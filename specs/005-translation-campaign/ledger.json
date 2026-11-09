@@ -24,8 +24,8 @@
   },
   "c": {
    "phase": "translate",
-   "claimed_by": "C-main-20261109",
-   "claimed_at": "2026-11-08T18:37:06Z",
+   "claimed_by": "C-main-20261109b",
+   "claimed_at": "2026-11-09T09:04:30Z",
    "note": "续报（2026-11-09 第二段，C-main-20261109）：①在途件 cosmology-30s 已由 cleared 一路推进至 s3_checked（本线上限，r1-r3 归 R-main 评审线）——draft（账本 100 段双版全填、正文与 compose 逐字符一致）→s1（回源核销 p1-p100；Critical 1：p51『How could Dingle be answered?』主客颠倒；体例 8：首现英文括注被删；渲染 43：星内空格 ** 词 ** 修正，源头生成器 bold_spacing 改为 span 级）→s2（prose 59→8，实修 44 处：弱动词 10/被动 4/冠词 1/长句 22/的链 7；反思步 step1==step2 由 29 段降至 9 段引文豁免，补写 12 段第二版）→s3（check_style 0、check_academic 0 硬、check_math 0 缺、check_terms 0 硬、结构五维 marker 123:123/defs 62:62/年份 49:49 全等、H1 与 SUMMARY 一致、尾节序合规；check_all 7/7）。提交链 3c6bd63c→a0edcfa4→...→c37adbef。②续开下一条 pending：cosmopolitanism（源 74,934 字符，pending 中最短）已 clear 并建账本骨架 71 段（body 70 + oir 1，biblio 照录 118）。③C 批实况：done 4、s3_checked 29（含本会话 cosmology-30s）、cleared 2（cancer、cosmopolitanism）、pending 137。④顺手修复跨批门禁红项 g/gianfrancesco-pico.md H1（与 SUMMARY 定名不符，796212d8）。",
    "advanced_at": "2026-11-09T04:36:25Z"
   },
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-09T08:19:49Z"
+ "updated_at": "2026-11-09T09:04:30Z"
 }
