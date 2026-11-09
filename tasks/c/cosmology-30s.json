@@ -2,7 +2,7 @@
   "slug": "cosmology-30s",
   "kind": "retranslate",
   "zh_doc": "c/cosmology-30s.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,13 @@
       "actor": "C-main-20261109",
       "at": "2026-11-08T22:20:10Z",
       "evidence": "一校（准确性）逐段回源核销 p1-p100 全覆盖：结构守恒 marker 123:123、defs 62:62、年份集合 49:49、公式 0、图片 0；实质问题 9 处已修并双版同步——①Critical 1 处：p51 源 How could Dingle be answered? 第二版误作『丁格尔该如何作答？』主客颠倒，改『又该如何回应丁格尔呢？』；②Major 体例 8 处：第二版删去首现英文括注，已补回 A. G. 沃克（A.G. Walker）、L. N. G. 菲隆（L.N.G. Filon）、R. A. 桑普森（R.A. Sampson）、N. R. 坎贝尔（N.R. Campbell）、G. J. 惠特罗（G.J. Whitrow）、乔治·坦普尔（George Temple）、詹姆斯·斯科特奖（James Scott Prize）、托马斯·戈尔德（Thomas Gold）、弗雷德·霍伊尔（Fred Hoyle）；③渲染缺陷 43 处：星内空格 ** 词 **（CommonMark 永不渲染）全数归一为 **词** 并补体外空格，源头生成器 script/c30_compose.py bold_spacing 已改为 span 级处理，重跑 compose 与正文逐字符一致；术语补登 5 行（说明性实在论/红移/完美宇宙学原理/稳恒态宇宙学/多普勒频移）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "C-main-20261109",
+      "at": "2026-11-09T01:43:02Z",
+      "evidence": "二校（语言）收口：prose 告警 59→2（正文），另 6 条引文照译豁免留痕——①批量实修 44 处：弱动词/作出类 10、被动堆叠 4、冠词直译 1、长句拆分 22、去『的』链 7（分批落库 a0edcfa4..现批，每批结构计数 source/step1/step2/段=100 守恒，只改 step2）；②正文残留 2 条：L31『不幸，两解预言的宇宙都很极端：爱因斯坦的密布物质，德西特的近乎空无』系专名省略式指代的必要『的』，L115『他在《自然》（*Nature*）发表刻薄书评…』单句 81 字含书名斜体括注与引注，均非欧化句，判为豁免；③引文豁免 6 条：p28（Milne 1934a 引块）、p37（Robertson 1935）、p41（Whittaker 1941）、p49（Dingle 1937）、p79（Bondi 1960）、p98（Dingle 1953）——源文引块照译，长句与『的』密度随原文，不改写；④四检全绿：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0 缺式、check_terms 0 硬错误；check_all 7/7 全绿"
     }
   ],
   "blockers": [],
