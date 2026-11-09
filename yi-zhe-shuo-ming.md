@@ -966,6 +966,7 @@
 | dynamic choice | — | 动态选择 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/choice-dynamic））；凭证 2026-11-04 | 2026-11-04 |
 | dynamic epistemic logic | — | 动态认知逻辑 | s/social-procedures 首译 | 学界通行译法（逻辑学通行）；凭证 2026-11-07 | 2026-11-07 |
 | dynamic voluntarism | — | 动态唯意志论（米哈乌夫斯卡语） | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| Dainichi | — | 大日（大日如来） | kukai | 真言宗汉语传统译名（《大日经》大日） | 2026-11-09 |
 
 ## E
 
@@ -1243,6 +1244,7 @@
 | extramural speech | — | 校外言论 | 语料回收（标题词） | 学界惯例（学术自由词条核心（×15））；凭证 2026-11-01 | 2026-11-01 |
 | extrapolation | — | 外推 | model-organisms 首译 | 科学哲学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | ε-notation | ε-notation | ε 记号 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| engi / pratītya-samutpāda | 縁起 | 缘起 | kukai | 佛教汉语传统译名 | 2026-11-09 |
 
 ## F
 
@@ -1586,6 +1588,10 @@
 | Hypothetical Reasoning | — | 假说推理 | 语料回收（标题词） | 学界惯例（皮尔士溯因语境（abduction 词条））；凭证 2026-11-01 | 2026-11-01 |
 | hypothetico-deductive | — | 假设演绎 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | hypothetico-deductivism | — | 假说—演绎主义 | cosmology-30s 首译 | 科学哲学通行（H-D method 假说—演绎方法之立场形态）；凭证 2026-11-08 | 2026-11-08 |
+| hongaku hosshin | 本覚法身 | 本觉法身 | kukai | 真言宗本觉思想汉语传统 | 2026-11-09 |
+| honpushō / ādyanutpāda | 本不生 | 本不生 | kukai | 真言宗汉语传统（《大日经》“本不生”义） | 2026-11-09 |
+| hosshin / dharmakāya | 法身 | 法身 | kukai | 佛教汉语传统（三身译名；真言宗“法身说法”） | 2026-11-09 |
+| Hua-yen / Huayan / Kegon | 華厳 | 华严 | kukai | 佛教汉语传统（华严宗；日读 Kegon） | 2026-11-09 |
 
 ## I
 
@@ -1880,6 +1886,7 @@
 | Kripke structure | — | 克里普克结构 | tarski-truth | 模态逻辑通行 | 2026-11-09 |
 | Krogh organism | — | Krogh 生物 | model-organisms 首译 | 本词条术语（Green et al. 2018，源自 August Krogh 的极端适应生物选材）；凭证 2026-11-09 | 2026-11-09 |
 | kyūdō | 弓道 | 弓道 | japanese-aesthetics | 学界惯例（日本武道研究通行译法“弓道”） | 2026-11-02 |
+| Kongōchōgyō | 金剛頂経 | 《金刚顶经》 | kukai | 真言宗汉语传统经题 | 2026-11-09 |
 
 ## L
 
@@ -2268,6 +2275,9 @@
 | mysterium tremendum et fascinans | mysterium tremendum et fascinans | 令人战栗又令人迷恋的奥秘（拉丁原文保留斜体） | 首现（emotion-Christian-tradition） | 学界惯例（奥托研究通行）；凭证 2026-11-04 | 2026-11-04 |
 | mystical experience | — | 神秘经验 | religious-experience | 学界通行（宗教学） | 2026-11-05 |
 | mysticism | — | 神秘主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| mandala | 曼荼羅 | 曼荼罗 | kukai | 佛教汉语传统译名（真言宗两界曼荼罗） | 2026-11-09 |
+| Mantrayāna | — | 真言乘 | kukai | 真言宗汉语传统 | 2026-11-09 |
+| mōgo | 妄語 | 妄语 | kukai | 真言/妄语对举之传统汉译 | 2026-11-09 |
 
 ## N
 
@@ -3527,6 +3537,14 @@
 | Synopsis of Madhyamaka | — | 《中观总义》 | gorampa | 果让巴论著（dbu ma’i spyi don）；藏传中观研究通行译名 | 2026-11-09 |
 | synthetic embryo | — | 合成胚胎 | 首译（stem-cells） | 学界惯例（发育生物学与生命伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
 | systematicity | — | 系统性（Systematicity Principle → 系统性原则） | reasoning-analogy | 学界通行 | 2026-11-05 |
+| samadhi | 三昧 | 三昧 | kukai | 佛教汉语传统译名 | 2026-11-09 |
+| Sanbu-sho | 三部書 | 三部书 | kukai | 空海三部论著传统统称 | 2026-11-09 |
+| shabetsu | 差別 | 差别 | kukai | 佛教汉语传统译名 | 2026-11-09 |
+| shabetsu chiin | 差別智印 | 差别智印 | kukai | 真言宗汉语传统（大日“差别智印”） | 2026-11-09 |
+| shingon / mantra | 眞言 | 真言；真言密教（Shingon Buddhism） | kukai | 真言宗汉语传统（mantra 日读 shingon）；凭证 2026-11-09 | 2026-11-09 |
+| shōjijissō | 声字実相 | 声字实相 | kukai | 《声字实相义》传统题名 | 2026-11-09 |
+| shohō | 諸法 | 诸法 | kukai | 佛教汉语传统译名 | 2026-11-09 |
+| sokushinjōbutsu | 即身成仏 | 即身成佛 | kukai | 《即身成佛义》传统题名 | 2026-11-09 |
 
 ## T
 
