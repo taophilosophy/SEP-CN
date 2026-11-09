@@ -1,0 +1,26 @@
+{
+ "key": "congruitas",
+ "term": "congruitas",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T15:39:31+00:00",
+ "status": "ok",
+ "note": "variant=congruitas; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "一致性理论",
+   "en": "congruity theory",
+   "code": "07.042",
+   "standard": "心理学名词",
+   "subject": "心理学_社会心理学"
+  },
+  {
+   "cn": "一致性理论,调和理论",
+   "en": "congruity theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

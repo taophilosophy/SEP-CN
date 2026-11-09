@@ -1,0 +1,47 @@
+{
+ "key": "connotative term / connotatio",
+ "term": "connotative term / connotatio",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T15:44:01+00:00",
+ "status": "ok",
+ "note": "variant=connotative term; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; variant=connotatio; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "内涵",
+   "en": "connotation",
+   "code": "6.203",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_模式与方法"
+  },
+  {
+   "cn": "人力资源内涵性",
+   "en": "connotation of human resources",
+   "code": "21.038",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_人力资源学"
+  },
+  {
+   "cn": "信息内涵效应",
+   "en": "information connotation effect",
+   "code": "07.0467",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_产品与服务"
+  },
+  {
+   "cn": "文化义",
+   "en": "cultural connotation,cultural meaning",
+   "code": "05.150",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词义"
+  },
+  {
+   "cn": "人力资源信息内涵开发",
+   "en": "connotation development of human resource information",
+   "code": "21.190",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_人力资源学"
+  }
+ ],
+ "error": "connotative term: degraded shape (3 db, all-zero)",
+ "raw": null
+}

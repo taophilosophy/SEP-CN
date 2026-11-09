@@ -1,0 +1,222 @@
+{
+ "key": "conic hypersurface",
+ "term": "conic hypersurface",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T15:39:31+00:00",
+ "status": "ok",
+ "note": "variant=conic hypersurface; 审定公布名词库=325; 海峡两岸名词对照库=108; 其他来源数据库=3; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "超曲面",
+   "en": "hypersurface",
+   "code": "06.0081",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "超曲面",
+   "en": "hypersurface",
+   "code": "08.0947",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分几何学"
+  },
+  {
+   "cn": "类空超曲面",
+   "en": "spacelike hypersurface",
+   "code": "06.0106",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "类时超曲面",
+   "en": "timelike hypersurface",
+   "code": "06.0099",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "类光超曲面",
+   "en": "null hypersurface",
+   "code": "06.0088",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "凸超曲面",
+   "en": "convex hypersurface",
+   "code": "05.0749",
+   "standard": "数学名词",
+   "subject": "数学_分析学_凸分析"
+  },
+  {
+   "cn": "特征超曲面",
+   "en": "characteristic hypersurface",
+   "code": "06.0233",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_偏微分方程"
+  },
+  {
+   "cn": "极超曲面",
+   "en": "polar hypersurface",
+   "code": "08.0376",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_射影几何学·仿射几何学   "
+  },
+  {
+   "cn": "二次超曲面",
+   "en": "quadratic hypersurface",
+   "code": "08.0374",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_射影几何学·仿射几何学   "
+  },
+  {
+   "cn": "等参超曲面",
+   "en": "isoparametric hypersurface",
+   "code": "08.1058",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分几何学"
+  },
+  {
+   "cn": "锥度效应",
+   "en": "conicity",
+   "code": "05.364",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_底盘_车轮和轮胎"
+  },
+  {
+   "cn": "光锥",
+   "en": "optical conic",
+   "code": "09.343",
+   "standard": "光学名词",
+   "subject": "光学_光无源器件"
+  },
+  {
+   "cn": "圆锥投影",
+   "en": "conic projection",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "锥鳞",
+   "en": "conic scale",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "锥形导槽",
+   "en": "conic guide",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "圆锥乳头",
+   "en": "conical papilla",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "锥形冰雹",
+   "en": "conical hail",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "锥形过渡段",
+   "en": "conical transition",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "圆锥投影",
+   "en": "conical projection",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "圆锥投影",
+   "en": "conical Projection",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "圆锥号角",
+   "en": "conical horn",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "圆锥阵",
+   "en": "conical array",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "圆锥突",
+   "en": "conical process",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "圆锥号型",
+   "en": "conical shape",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "超曲面",
+   "en": "hypersurface",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "楔形箭头",
+   "en": "chisel pile\",\"conical pile",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "离子液体",
+   "en": "Ionic liquid",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "声波武器",
+   "en": "sonic weapons",
+   "code": "13.1.1.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_新概念武器及伤害_新概念武器"
+  },
+  {
+   "cn": "离子烟感报警器",
+   "en": "ionic smoke alarm",
+   "code": "6.5.4.23",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用"
+  },
+  {
+   "cn": "声波武器损伤",
+   "en": "injuries of sonic weapons",
+   "code": "13.2.1.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_新概念武器及伤害_新概念武器损伤"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

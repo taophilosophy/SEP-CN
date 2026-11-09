@@ -1,0 +1,320 @@
+{
+ "key": "concrete utopia",
+ "term": "concrete utopia",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T15:30:30+00:00",
+ "status": "ok",
+ "note": "variant=concrete utopia; 审定公布名词库=651; 海峡两岸名词对照库=72; 其他来源数据库=8; 预公布名词数据库=17; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "乌托邦",
+   "en": "Utopia",
+   "code": "01.0054",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_国际共产主义运动"
+  },
+  {
+   "cn": "乌托邦平原",
+   "en": "Utopia Planitia",
+   "code": "10.078",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳系"
+  },
+  {
+   "cn": "电子乌托邦",
+   "en": "e utopia；teletopia",
+   "code": "7.033",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_大众传播_大众传播媒介与传播过程"
+  },
+  {
+   "cn": "莫尔乌托邦思想",
+   "en": "Utopia thought of More",
+   "code": "01.0272",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_管理思想史"
+  },
+  {
+   "cn": "浸膏",
+   "en": "concrete",
+   "code": "08.0730",
+   "standard": "精细化工名词",
+   "subject": "精细化工_其他精细化学品_日用化学品"
+  },
+  {
+   "cn": "混凝土",
+   "en": "concrete",
+   "code": "15.094",
+   "standard": "电力名词",
+   "subject": "电力_水电站施工"
+  },
+  {
+   "cn": "混凝土",
+   "en": "concrete",
+   "code": "12.0055",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑材料及制品_材料制品"
+  },
+  {
+   "cn": "混凝土",
+   "en": "concrete",
+   "code": "03.0741",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_无机非金属材料_胶凝材料及混凝土"
+  },
+  {
+   "cn": "混凝土",
+   "en": "concrete",
+   "code": "04.202",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_工程力学、工程结构、建筑材料_建筑材料（水利）"
+  },
+  {
+   "cn": "混凝土浇筑",
+   "en": "concrete placement,concreting",
+   "code": "09.080",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_水利工程施工_水工混凝土施工（水利）"
+  },
+  {
+   "cn": "具象",
+   "en": "concretization",
+   "code": "04.024",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "具体化",
+   "en": "concreteness",
+   "code": "15.077",
+   "standard": "心理学名词",
+   "subject": "心理学_咨询心理学"
+  },
+  {
+   "cn": "具体化",
+   "en": "concreteness\",\"concretization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "混凝土",
+   "en": "concrete",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "混凝土",
+   "en": "concrete",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "结核",
+   "en": "concretion",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "防水混凝土",
+   "en": "waterproof concrete\",\"watertight concrete",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "泡沫混凝土",
+   "en": "foam concrete\",\"foamed concrete",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "泡沫混凝土",
+   "en": "foam concrete",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "水泥管",
+   "en": "concrete pipe",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "具体思维",
+   "en": "concrete thinking",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "具体运算,具体运思",
+   "en": "concrete operation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "大体积混凝土",
+   "en": "mass concrete",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "沥青混凝土",
+   "en": "asphalt concrete",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "泡沫混凝土",
+   "en": "Foam concrete",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "钢筋混凝土",
+   "en": "Reinforced Concrete",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "水泥球场",
+   "en": "concrete court",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "境生象外",
+   "en": "Aesthetic Conception Transcends Concrete Objects Described.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "下学上达",
+   "en": "Study Concrete Things and Reach to a Higher-level Understanding",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "主题地图",
+   "en": "Topic Maps)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "协同反应",
+   "en": "Concerted Reaction",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "示意得分",
+   "en": "concede a goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "具体的乌托邦",
+   "en": "concrete utopia",
+   "code": "05.0019",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "乌托邦",
+   "en": "Utopia",
+   "code": "03.0001",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "混凝土",
+   "en": "concrete",
+   "code": "6.2.4.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_辐射防护材料"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "code": "01.0212",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "重晶石混凝土",
+   "en": "barite concrete",
+   "code": "6.2.4.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_辐射防护材料"
+  },
+  {
+   "cn": "具体劳动",
+   "en": "concrete labor",
+   "code": "02.0047",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "具体形象思维",
+   "en": "concrete image thinking",
+   "code": "2.5.5.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "空想社会主义",
+   "en": "utopian socialism",
+   "code": "03.0002",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "近视",
+   "en": "myopia",
+   "code": "3.2.2.4.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "近视",
+   "en": "myopia",
+   "code": "12.2.19",
+   "standard": "社会医学名词",
+   "subject": "特定人群卫生保健"
+  },
+  {
+   "cn": "筛查性近视",
+   "en": "screening myopia",
+   "code": "3.2.2.4.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "低度近视",
+   "en": "mild myopia",
+   "code": "3.2.2.4.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
