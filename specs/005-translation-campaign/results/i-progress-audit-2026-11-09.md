@@ -104,3 +104,16 @@ I 批共 **75 条**，英文 **1,210,525 词**。
 | 状态 | `tasks/i/intuitionism-ethics.json` → done（六道 steps 全留痕） |
 
 **I 批现计数**：done 22／s3_checked 2／cleared 6／pending 45（75 条）。倒序队列下一条：intuitionism（#69）。
+
+
+## 9. 倒序第二条在途（intuitionism，#69）
+
+| 项 | 结果 |
+| ---- | ---- |
+| 任务 | `tasks/i/intuitionism.json`：pending → cleared（基线哈希门通过） |
+| 账本 | `tasks/i/intuitionism.ledger.yaml` 154 段（body 152＋oir 1＋ack 1）；本会话 p1–p4 已译 106 段并分批提交 |
+| 守恒 | `lqi.py check` 守恒 HARD=0：段 52/53/63/65 的 `$` 跨度已按源文逐一对齐（[−1,1]/[0,3] 非公式；补 `$n$`、第二个 `$\Phi$`） |
+| 断点 | 自段 107 续译（107–154 共 48 段） |
+| 待办 | 续译 → compose → s1/s2/s3 → r1–r3 → done |
+
+**I 批计数**：done 22／s3_checked 2／cleared 6／pending 45。
