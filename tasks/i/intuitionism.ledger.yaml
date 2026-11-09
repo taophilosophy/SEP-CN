@@ -217,32 +217,42 @@ segments:
     kind: body
     source: |-
       Important as the arguments using the notion of Creating Subject might be for the further understanding of intuitionism as a philosophy of mathematics, its role in the development of the field has been less influential than that of the two acts of intuitionism, which directly lead to the mathematical truths Brouwer and those coming after him were willing to accept.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管使用创造主体概念的论证对于进一步理解作为数学哲学的直觉主义可能很重要，它在领域发展中的作用却不如直觉主义两幕那样有影响——正是两幕直接导向布劳威尔及其后继者愿意接受的数学真理。
+    step2: |-
+      创造主体论证对理解直觉主义这一数学哲学或不无裨益，但论其在学科发展中的影响，则不及两幕——恰恰是两幕直接引出布劳威尔及其后继者所愿接受的数学真理。
   - id: 27
     kind: body
     source: |-
       ## 3. Mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 数学
+    step2: |-
+      ## 3 数学
   - id: 28
     kind: body
     source: |-
       Although Brouwer’s development of intuitionism played an important role in the foundational debate among mathematicians at the beginning of the 20th century, the far reaching implications of his philosophy for mathematics became only apparent after many years of research. The two most characteristic properties of intuitionism are the logical principles of reasoning that it allows in proofs and the full conception of the intuitionistic continuum. Only as far as the latter is concerned, intuitionism becomes incomparable with classical mathematics. In this entry the focus is on those principles of intuitionism that set it apart from other mathematical disciplines, and therefore its other constructive aspects will be treated in less detail.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管布劳威尔对直觉主义的发展在 20 世纪初数学家的基础争论中起了重要作用，其哲学对数学的深远蕴含却是在多年研究之后才显现的。直觉主义最富特征的两个性质，是它在证明中所允许的推理逻辑原则，以及完整的直觉主义连续统概念。只在后一方面，直觉主义才与经典数学不可比较。本词条聚焦于使直觉主义有别于其他数学学科的那些原则，故对其别的构造性方面从简处理。
+    step2: |-
+      布劳威尔对直觉主义的阐发固然在 20 世纪初数学家的基础论争中举足轻重，然其哲学对数学的深远含义，历经多年研究方才显露。直觉主义最具特色者有二：一是它在证明中所容许的逻辑推理原则，二是完整的直觉主义连续统概念。仅就后者而言，直觉主义方与经典数学不可比较。本词条着眼使直觉主义有别于其他数学学科的那些原则，故其余构造性方面从略。
   - id: 29
     kind: body
     source: |-
       ### 3.1 The BHK-interpretation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 BHK 解释
+    step2: |-
+      ### 3.1 BHK 解释
   - id: 30
     kind: body
     source: |-
       In intuitionism, knowing that a statement *A* is true means having a proof of it. In 1934 Arend Heyting, who had been a student of Brouwer, introduced a form of what became later known as the *Brouwer-Heyting-Kolmogorov-interpretation*, which captures the meaning of the logical symbols in intuitionism, and in constructivism in general as well. It defines in an informal way what an intuitionistic proof should consist of by indicating how the connectives and quantifiers should be interpreted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在直觉主义中，知道一个陈述*A*为真，就意味着拥有它的一个证明。1934 年，曾是布劳威尔学生的阿伦德·海廷引入了一种后来被称为*布劳威尔-海廷-柯尔莫哥洛夫解释*（Brouwer-Heyting-Kolmogorov-interpretation）的形式，它刻画了直觉主义——乃至一般构造主义——中逻辑符号的意义。它通过指明联结词与量词应如何解释，以非形式的方式定义了直觉主义证明应由什么构成。
+    step2: |-
+      在直觉主义中，知道陈述*A*为真，即意味着握有它的证明。1934 年，布劳威尔的门生阿伦德·海廷提出一种解释，世称*布劳威尔-海廷-柯尔莫哥洛夫解释*（BHK 解释），它刻画直觉主义、乃至一般构造主义中逻辑符号的意义：通过指明联结词与量词的解释方式，非形式地界定直觉主义证明应由何构成。
   - id: 31
     kind: body
     source: |-
@@ -252,26 +262,44 @@ segments:
       - A proof of $A \rightarrow B$ is a construction which transforms any proof of $A$ into a proof of $B$.
       - A proof of $\exists x A(x)$ is given by presenting an element $d$ of the domain and a proof of $A(d)$.
       - A proof of $\forall x A(x)$ is a construction which transforms every proof that $d$ belongs to the domain into a proof of $A(d)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - $\bot$ 不可证明。
+      - $A\wedge B$ 的证明由 $A$ 的证明与 $B$ 的证明构成。
+      - $A \vee B$ 的证明由 $A$ 的证明或 $B$ 的证明构成。
+      - $A \rightarrow B$ 的证明是把 $A$ 的任一证明转化为 $B$ 的证明的构造。
+      - $\exists x A(x)$ 的证明，通过给出论域中的一个元素 $d$ 以及 $A(d)$ 的证明来给出。
+      - $\forall x A(x)$ 的证明是把「$d$ 属于该论域」的每一证明转化为 $A(d)$ 的证明的构造。
+    step2: |-
+      - $\bot$ 不可证明。
+      - $A\wedge B$ 的证明，由 $A$ 的证明与 $B$ 的证明合成。
+      - $A \vee B$ 的证明，或为 $A$ 的证明，或为 $B$ 的证明。
+      - $A \rightarrow B$ 的证明，是一个把 $A$ 的任一证明变为 $B$ 的证明的构造。
+      - $\exists x A(x)$ 的证明，须给出论域中的元素 $d$ 并提供 $A(d)$ 的证明。
+      - $\forall x A(x)$ 的证明，是一个把「$d$ 属于论域」的每一证明变为 $A(d)$ 的证明的构造。
   - id: 32
     kind: body
     source: |-
       The negation $\neg A$ of a formula $A$ is proven once it has been shown that there cannot exist a proof of $A$, which means providing a construction that derives falsum from any possible proof of $A$. Thus $\neg A$ is equivalent to $A \rightarrow \bot$. The BHK-interpretation is not a formal definition because the notion of construction is not defined and therefore open to different interpretations. Nevertheless, already on this informal level one is forced to reject one of the logical principles ever-present in classical logic: the principle of the excluded middle $(A\vee \neg A)$. According to the BHK-interpretation this statement holds intuitionistically if the Creating Subject knows a proof of $A$ or a proof that $A$ cannot be proved. In the case that neither for $A$ nor for its negation a proof is known, the statement $(A \vee \neg A)$ does not hold. The existence of open problems, such as the Goldbach conjecture or the Riemann hypothesis, illustrates this fact. But once a proof of $A$ or a proof of its negation is found, the situation changes, and for this particular $A$ the principle $(A \vee \neg A)$ is true from that moment on.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      公式 $A$ 的否定 $\neg A$ 一旦表明不可能存在 $A$ 的证明，即得到证明；这意味着给出一个从 $A$ 的任何可能证明推出假的构造。因此 $\neg A$ 等价于 $A \rightarrow \bot$。BHK 解释不是形式定义，因为构造这一概念未被定义，因而可作不同解释。然而，即便在这一非形式层面，人们也被迫拒斥经典逻辑中始终在场的一条逻辑原则：排中律 $(A\vee \neg A)$。按照 BHK 解释，该陈述在直觉主义上成立，当且仅当创造主体知道 $A$ 的证明或知道 $A$ 不可证明。若对 $A$ 及其否定都未知有证明，则陈述 $(A \vee \neg A)$ 不成立。未解问题——如哥德巴赫猜想或黎曼猜想——的存在即说明此点。但一旦找到 $A$ 的证明或其否定的证明，情况便改变；对这个特定的 $A$，原则 $(A \vee \neg A)$ 自此为真。
+    step2: |-
+      一旦表明不可能存在 $A$ 的证明，公式 $A$ 的否定 $\neg A$ 即获证明——这意味着给出一个由 $A$ 的任何可能证明推出假的构造。故 $\neg A$ 等价于 $A \rightarrow \bot$。BHK 解释并非形式定义，因为「构造」未加定义，从而容许不同解释。然而即便在这一非形式层面，也须被迫放弃经典逻辑中无时不在的一条原则：排中律 $(A\vee \neg A)$。依 BHK 解释，该陈述在直觉主义上成立，当且仅当创造主体知有 $A$ 之证明，或知有 $A$ 不可证明之证明。若对 $A$ 及其否定皆未知有证明，则陈述 $(A \vee \neg A)$ 不成立；哥德巴赫猜想、黎曼猜想等未解问题即其显例。但一旦寻得 $A$ 之证明或其否定的证明，情形便改观：就此特定 $A$ 而言，原则 $(A \vee \neg A)$ 自那一刻起为真。
   - id: 33
     kind: body
     source: |-
       ### 3.2 Intuitionistic logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 直觉主义逻辑
+    step2: |-
+      ### 3.2 直觉主义逻辑
   - id: 34
     kind: body
     source: |-
       Brouwer rejected the principle of the excluded middle on the basis of his philosophy, but Arend Heyting was the first to formulate a comprehensive logic of principles acceptable from an intuitionistic point of view. Intuitionistic logic, which is the logic of most other forms of constructivism as well, is often referred to as “classical logic without the principle of the excluded middle”. It is denoted by IQC, which stands for Intuitionistic Quantifier Logic, but other names occur in the literature as well. A possible axiomatization in Hilbert style consists of the principles
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布劳威尔基于其哲学拒斥排中律，而阿伦德·海廷最先表述了从直觉主义观点可接受的原则的完整逻辑。直觉主义逻辑——也是其他多数构造主义形式的逻辑——常被称为“去掉排中律的经典逻辑”。它记作 IQC，即直觉主义量词逻辑（Intuitionistic Quantifier Logic），文献中也有其他名称。一种可能的希尔伯特式公理化由下列原则构成
+    step2: |-
+      布劳威尔依其哲学拒斥排中律；阿伦德·海廷则率先表述出从直觉主义观点可接受的原则的完整逻辑。直觉主义逻辑（亦为其他多数构造主义形式所用）常被称为“删去排中律的经典逻辑”，记作 IQC（Intuitionistic Quantifier Logic，直觉主义量词逻辑），文献中另有异名。其希尔伯特式公理之一可能形式，由下列原则构成：
   - id: 35
     kind: body
     source: |-
@@ -282,92 +310,144 @@ segments:
       | $A \rightarrow (B \rightarrow A \wedge B)$ |   |   |   |
       | $(A \rightarrow C) \rightarrow ( (B \rightarrow C) \rightarrow (A \vee B \rightarrow C))$ |   |   |   |
       | $\forall x (B \rightarrow A(x)) \rightarrow (B \rightarrow \forall x A(x))$ | $\forall x (A(x) \rightarrow B) \rightarrow (\exists x A(x) \rightarrow B)$ |   |   |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | $A \wedge B \rightarrow A$ | $A \wedge B \rightarrow B$ | $A \rightarrow A \vee B$ | $B \rightarrow A \vee B$ |
+      | --- | --- | --- | --- |
+      | $A \rightarrow (B \rightarrow A)$ | $\forall x A(x) \rightarrow A(t)$ | $A(t) \rightarrow \exists x A(x)$ | $\bot \rightarrow A$ |
+      | $(A \rightarrow (B \rightarrow C)) \rightarrow ((A \rightarrow B) \rightarrow (A \rightarrow C))$ |   |   |   |
+      | $A \rightarrow (B \rightarrow A \wedge B)$ |   |   |   |
+      | $(A \rightarrow C) \rightarrow ( (B \rightarrow C) \rightarrow (A \vee B \rightarrow C))$ |   |   |   |
+      | $\forall x (B \rightarrow A(x)) \rightarrow (B \rightarrow \forall x A(x))$ | $\forall x (A(x) \rightarrow B) \rightarrow (\exists x A(x) \rightarrow B)$ |   |   |
+    step2: |-
+      | $A \wedge B \rightarrow A$ | $A \wedge B \rightarrow B$ | $A \rightarrow A \vee B$ | $B \rightarrow A \vee B$ |
+      | --- | --- | --- | --- |
+      | $A \rightarrow (B \rightarrow A)$ | $\forall x A(x) \rightarrow A(t)$ | $A(t) \rightarrow \exists x A(x)$ | $\bot \rightarrow A$ |
+      | $(A \rightarrow (B \rightarrow C)) \rightarrow ((A \rightarrow B) \rightarrow (A \rightarrow C))$ |   |   |   |
+      | $A \rightarrow (B \rightarrow A \wedge B)$ |   |   |   |
+      | $(A \rightarrow C) \rightarrow ( (B \rightarrow C) \rightarrow (A \vee B \rightarrow C))$ |   |   |   |
+      | $\forall x (B \rightarrow A(x)) \rightarrow (B \rightarrow \forall x A(x))$ | $\forall x (A(x) \rightarrow B) \rightarrow (\exists x A(x) \rightarrow B)$ |   |   |
   - id: 36
     kind: body
     source: |-
       with the usual side conditions for the last two axioms, and the rule Modus Ponens,
 
       $$ \text{from \(A\) and \((A \rightarrow B)\) infer \(B\)}, $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      后两条公理带有通常的旁条件，以及肯定前件式（Modus Ponens），
+
+      $$ \text{from \(A\) and \((A \rightarrow B)\) infer \(B\)}, $$
+    step2: |-
+      后两条公理另需通常的旁条件，此外还有肯定前件式（Modus Ponens）这一规则：
+
+      $$ \text{from \(A\) and \((A \rightarrow B)\) infer \(B\)}, $$
   - id: 37
     kind: body
     source: |-
       as the only rule of inference. Intuitionistic logic has been an object of investigation ever since Heyting formulated it. Already at the propositional level it has many properties that sets it apart from classical logic, such as the Disjunction Property:
 
       $$\tag{\({\bf DP}\)} {\bf IQC} \vdash A \vee B \text{ implies }{\bf IQC} \vdash A \text{ or } {\bf IQC} \vdash B. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为唯一的推理规则。自海廷表述直觉主义逻辑以来，它一直是研究对象。早在命题层面，它就有许多使之有别于经典逻辑的性质，例如析取性质：
+
+      $$\tag{\({\bf DP}\)} {\bf IQC} \vdash A \vee B \text{ implies }{\bf IQC} \vdash A \text{ or } {\bf IQC} \vdash B. $$
+    step2: |-
+      作为唯一推理规则。自海廷表述以来，直觉主义逻辑一直是研究对象；仅命题层面便有许多异于经典逻辑的性质，析取性质即其一：
+
+      $$\tag{\({\bf DP}\)} {\bf IQC} \vdash A \vee B \text{ implies }{\bf IQC} \vdash A \text{ or } {\bf IQC} \vdash B. $$
   - id: 38
     kind: body
     source: |-
       This principle is clearly violated in classical logic, because classical logic proves $(A \vee \neg A)$ also for formulas that are independent of the logic, i.e. for which both $A$ and $\neg A$ are not a tautology. The inclusion of the principle Ex Falso Sequitur Quodlibet, $(\bot \rightarrow A)$, in intuitionistic logic is a point of discussion for those studying Brouwer’s remarks on the subject; in van Atten 2008, it is argued that the principle is not valid in Intuitionism and that the logical principles valid according to Brouwer’s views are those of relevance logic. See van Dalen 2004 for more on Brouwer and Ex Falso Sequitur Quodlibet.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这条原则在经典逻辑中显然被违反，因为经典逻辑对独立于该逻辑的公式也证明 $(A \vee \neg A)$——即对这类公式，$A$ 与 $\neg A$ 都不是重言式。把「由假得全」（Ex Falso Sequitur Quodlibet）原则 $(\bot \rightarrow A)$ 纳入直觉主义逻辑，是研究布劳威尔相关论述者讨论的一点；van Atten 2008 论证该原则在直觉主义中无效，并认为按布劳威尔的看法有效的逻辑原则是相关逻辑的原则。关于布劳威尔与「由假得全」，另见 van Dalen 2004。
+    step2: |-
+      此原则在经典逻辑中显然失效：经典逻辑对独立于该逻辑的公式（即 $A$ 与 $\neg A$ 皆非重言式的公式）也证明 $(A \vee \neg A)$。至于把「由假得全」（Ex Falso Sequitur Quodlibet）原则 $(\bot \rightarrow A)$ 纳入直觉主义逻辑，则是研究布劳威尔相关论述者的争议点；van Atten 2008 主张此原则在直觉主义中并不有效，按布劳威尔之见有效的逻辑原则乃相关逻辑的原则。布劳威尔与「由假得全」之关系，另见 van Dalen 2004。
   - id: 39
     kind: body
     source: |-
       Although till today all the logic used in intuitionistic reasoning is contained in IQC, it is in principle conceivable that at some point there will be found a principle acceptable from the intuitionistic point of view that is not covered by this logic. For most forms of constructivism the widely accepted view is that this will not ever be the case, and thus IQC is considered to be *the* logic of constructivism. For intuitionism the situation is less clear because it cannot be excluded that at some point our intuitionistic understanding might lead us to new logical principles that we did not grasp before.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管直到今天，直觉主义推理中所用的一切逻辑都包含在 IQC 中，但原则上可以设想：某个时点会出现一条从直觉主义观点可接受、却不被该逻辑涵盖的原则。对多数构造主义形式而言，广为接受的观点是这永远不会发生，因而 IQC 被视为构造主义的*那个*逻辑。对直觉主义来说情况不那么清楚，因为不能排除某个时点我们的直觉主义理解会引向此前未把握的新逻辑原则。
+    step2: |-
+      迄今直觉主义推理所用的一切逻辑都包含在 IQC 之内；但原则上可以设想，将来某一时点会出现一条从直觉主义观点可接受、却未被该逻辑涵盖的原则。多数构造主义形式都广泛相信这永不会发生，故视 IQC 为构造主义的*那个*逻辑。直觉主义的情形则不那么明朗——不能排除我们的直觉主义理解有朝一日会引出此前未曾把握的新逻辑原则。
   - id: 40
     kind: body
     source: |-
       One of the reasons for the widespread use of intuitionistic logic is that it is well-behaved both from the proof-theoretic as the model-theoretic point of view. There exist a great many proof systems for it, such as Gentzen calculi and natural deduction systems, as well as various forms of semantics, such as Kripke models, Beth models, Heyting algebras, topological semantics and categorical models. Several of these semantics are, however, only classical means to study intuitionistic logic, for it can be shown that an intuitionistic completeness proof with respect to them cannot exist (Kreisel 1962)[^kreisel-1962]. It has, however, been shown that there are alternative but a little less natural models with respect to which completeness does hold constructively (Veldman 1976)[^veldman-1976]. The constructive character of intuitionistic logic becomes particularly clear in the Curry-Howard isomorphism that establishes a correspondence between derivations in the logic and terms in simply typed $\lambda$-calculus, that is, between proofs and computations. The correspondence preserves structure in that reduction of terms correspond to normalization of proofs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直觉主义逻辑广泛使用的原因之一，是它在证明论与模型论两方面都表现良好。它有极多的证明系统，如根岑演算与自然演绎系统，也有各种形式的语义，如克里普克模型、贝斯模型、海廷代数、拓扑语义与范畴模型。然而其中若干语义只是研究直觉主义逻辑的经典手段，因为可以表明，关于它们的直觉主义完全性证明不可能存在（Kreisel 1962）[^kreisel-1962]。不过已经表明，存在另一些不那么自然、但关于它们完全性可构造地成立的模型（Veldman 1976）[^veldman-1976]。直觉主义逻辑的构造性特征在柯里-霍华德同构中尤为清楚：该同构建立了逻辑中的推导与简单类型 $\lambda$ 演算中的项之间的对应，即证明与计算之间的对应。这一对应保持结构，因为项的归约对应于证明的规范化。
+    step2: |-
+      直觉主义逻辑之所以广被使用，原因之一在于它在证明论与模型论两面都颇为驯良。其证明系统甚多，如根岑演算、自然演绎系统；语义形式亦多，如克里普克模型、贝斯模型、海廷代数、拓扑语义与范畴模型。然而其中若干语义只是研究直觉主义逻辑的经典手段——可以证明，关于它们的直觉主义完全性证明不可能存在（Kreisel 1962）[^kreisel-1962]。不过也已表明，另有一些不那么自然、但完全性可构造地成立的模型（Veldman 1976）[^veldman-1976]。直觉主义逻辑的构造性，在柯里-霍华德同构中尤为显豁：该同构建立逻辑推导与简单类型 $\lambda$ 演算项之间、亦即证明与计算之间的对应，且保持结构——项的归约恰对应证明的规范化。
   - id: 41
     kind: body
     source: |-
       ### 3.3 The natural numbers
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 自然数
+    step2: |-
+      ### 3.3 自然数
   - id: 42
     kind: body
     source: |-
       The existence of the natural numbers is given by the first act of intuitionism, that is by the perception of the movement of time and the falling apart of a life moment into two distinct things: what was, 1, and what is together with what was, 2, and from there to 3, 4, … In contrast to classical mathematics, in intuitionism all infinity is considered to be potential infinity. In particular this is the case for the infinity of the natural numbers. Therefore statements that quantify over this set have to be treated with caution. On the other hand, the principle of induction is fully acceptable from an intuitionistic point of view.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自然数的存在由直觉主义的第一幕给出，即由对时间运动的知觉、以及一个生命瞬间分裂为两个不同之物给出：曾在者，1；当下与曾在者，2；由此到 3、4、…… 与经典数学相反，在直觉主义中一切无限都被视为潜无限。自然数的无限尤其如此。因此，对该集合作量化的陈述须谨慎对待。另一方面，归纳原则从直觉主义观点看完全可以接受。
+    step2: |-
+      自然数之存在由第一幕给出，即由对时间运动的知觉、以及一个生命瞬间的分裂给出：曾在者，1；当下连同曾在者，2；由此而有 3、4、…… 与经典数学不同，直觉主义视一切无限为潜无限，自然数之无限尤然。故对该集合作量化的陈述须审慎处理。另一方面，归纳原则在直觉主义观点下完全可以接受。
   - id: 43
     kind: body
     source: |-
       Because of the finiteness of a natural number in contrast to, for example, a real number, many arithmetical statements of a finite nature that are true in classical mathematics are so in intuitionism as well. For example, in intuitionism every natural number has a prime factorization; there exist computably enumerable sets that are not computable; $(A \vee \neg A)$ holds for all quantifier free statements $A$. For more complex statements, such as van der Waerden’s theorem or Kruskal’s theorem, intuitionistic validity is not so straightforward. In fact, the intuitionistic proofs of both statements are complex and deviate from the classical proofs (Coquand 1995, Veldman 2004)[^coquand-1995][^veldman-2004].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于自然数（与实数等不同）具有有限性，许多在经典数学中为真的有限性算术陈述在直觉主义中也为真。例如，在直觉主义中每个自然数都有素因数分解；存在不可计算的可计算枚举集；对所有无量词陈述 $A$，$(A \vee \neg A)$ 成立。对更复杂的陈述，如范德瓦尔登定理或克鲁斯卡尔定理，直觉主义有效性就不那么直接了。事实上，这两个陈述的直觉主义证明都很复杂，且偏离经典证明（Coquand 1995, Veldman 2004）[^coquand-1995][^veldman-2004]。
+    step2: |-
+      自然数有限——实数则不然——故许多具有有限性质的算术陈述，在经典数学中为真者，在直觉主义中亦真。例如：直觉主义中每个自然数皆有素因数分解；存在可计算枚举而不可计算的集合；对一切无量词陈述 $A$，$(A \vee \neg A)$ 成立。至于更复杂的陈述，如范德瓦尔登定理、克鲁斯卡尔定理，其直觉主义有效性便不那么直截；实则二者的直觉主义证明皆繁复，且与经典证明有别（Coquand 1995, Veldman 2004）[^coquand-1995][^veldman-2004]。
   - id: 44
     kind: body
     source: |-
       Thus in the context of the natural numbers, intuitionism and classical mathematics have a lot in common. It is only when other infinite sets such as the real numbers are considered that intuitionism starts to differ more dramatically from classical mathematics, and from most other forms of constructivism as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此在自然数的语境中，直觉主义与经典数学有许多共同之处。只有当考虑实数等其他无限集合时，直觉主义才开始更剧烈地不同于经典数学，也不同于多数其他构造主义形式。
+    step2: |-
+      可见在自然数范围内，直觉主义与经典数学多有契合。唯当涉及实数等其他无限集合时，直觉主义方与经典数学、以及多数其他构造主义形式显著分道。
   - id: 45
     kind: body
     source: |-
       ### 3.4 The continuum
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 连续统
+    step2: |-
+      ### 3.4 连续统
   - id: 46
     kind: body
     source: |-
       In intuitionism, the continuum is both an extension and a restriction of its classical counterpart. In its full form, both notions are incomparable since the intuitionistic real numbers possess properties that the classical real numbers do not have. A famous example, to be discussed below, is the theorem that in intuitionism every total function on the continuum is continuous. That the intuitionistic continuum does not satisfy certain classical properties can be easily seen via *weak counterexamples*. That it also contains properties that the classical reals do not posses stems from the existence, in intuitionism, of *choice sequences*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在直觉主义中，连续统既是对其经典对应物的扩展，也是一种限制。就其完整形态而言，两个概念不可比较，因为直觉主义实数具有经典实数所没有的性质。一个著名的例子（下文将讨论）是：在直觉主义中，连续统上的一切全函数都是连续的。直觉主义连续统不满足某些经典性质，这可以借*弱反例*轻易看出；它同时也含有经典实数所不具备的性质，这源于直觉主义中*选择序列*的存在。
+    step2: |-
+      直觉主义中的连续统，既扩展又限制其经典对应物。就其完整形态而言，二者不可比较：直觉主义实数自有经典实数所无的性质。著名一例（详见下文）是：直觉主义中连续统上的一切全函数皆连续。直觉主义连续统不满足某些经典性质，借*弱反例*即可见；它另又具备经典实数所无的性质，则源于直觉主义中*选择序列*之存在。
   - id: 47
     kind: body
     source: |-
       #### Weak counterexamples
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 弱反例
+    step2: |-
+      #### 弱反例
   - id: 48
     kind: body
     source: |-
       The *weak counterexamples*, introduced by Brouwer in 1908, are the first examples that Brouwer used to show that the shift from a classical to an intuitionistic conception of mathematics is not without consequence for the mathematical truths that can be established according to these philosophies. They show that certain classical statements are presently unacceptable from an intuitionistic point of view. As an example, consider the sequence of real numbers given by the following definition:
 
       $$ r_n = \begin{cases} 2^{-n} \text{ if } \forall m \leq n A(m) \\ 2^{-m} \text{ if } \neg A(m) \wedge m \leq n \wedge \forall k \lt m A(k). \end{cases} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布劳威尔于 1908 年引入的*弱反例*，是他用来表明：从经典的数学观转向直觉主义的数学观，对这些哲学所确立的数学真理并非没有后果。它们表明，某些经典陈述目前从直觉主义观点看不可接受。举例来说，考虑由如下定义给出的实数序列：
+
+      $$ r_n = \begin{cases} 2^{-n} \text{ if } \forall m \leq n A(m) \\ 2^{-m} \text{ if } \neg A(m) \wedge m \leq n \wedge \forall k \lt m A(k). \end{cases} $$
+    step2: |-
+      布劳威尔 1908 年提出的*弱反例*，是他用以说明「由经典数学观转向直觉主义数学观，对所可确立的数学真理并非无后果」的最早例证：它们表明某些经典陈述目前从直觉主义观点看不可接受。试看如下定义给出的实数序列：
+
+      $$ r_n = \begin{cases} 2^{-n} \text{ if } \forall m \leq n A(m) \\ 2^{-m} \text{ if } \neg A(m) \wedge m \leq n \wedge \forall k \lt m A(k). \end{cases} $$
   - id: 49
     kind: body
     source: |-
