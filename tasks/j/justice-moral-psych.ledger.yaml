@@ -1325,66 +1325,90 @@ segments:
     kind: body
     source: |-
       In another study, Thomas Schlösser and his colleagues (2018) examined whether justice sensitivity predicts wealth distribution. They used a version of the welfare state game in which participants were assigned to be an upper, middle, or lower class subject in a hypothetical society which they got to help shape. Specifically they chose between a society with lower inequality (person A received €5, B received €4, and C received €3) versus higher overall wealth but greater inequality (A received €10, B received €6, and C received €1). As expected, participants who were high on JS_{Victim} (sensitivity to becoming a victim of injustice) were more likely to go with greater inequality if they were A or B, but greater equality if they were C. Participants who were high on the other three dimensions of justice sensitivity were more likely to choose less inequality regardless of whether they were A, B, or C (Schlösser et al. 2018: 79)[^schlösser-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在另一项研究中，Thomas Schlösser 及其同事（2018）考察了正义敏感性是否预测财富分配。他们使用了福利国家博弈的一个版本：参与者被分配到假想社会中的上层、中层或下层，并参与塑造这个社会。具体地说，他们要在两个社会之间选择：一个不平等程度较低（A 得 5 欧元、B 得 4 欧元、C 得 3 欧元），另一个总体财富更高但更不平等（A 得 10 欧元、B 得 6 欧元、C 得 1 欧元）。如所预期，JS_{Victim} 高（即对成为不公受害者敏感）的参与者，如果自己是 A 或 B，更可能选择更大的不平等；如果自己是 C，则更可能选择更大的平等。正义敏感性另外三个维度高的参与者，无论自己是 A、B 还是 C，都更可能选择不平等较小的社会（Schlösser et al. 2018: 79）[^schlösser-2018]。
+    step2: |-
+      另一项研究中，Thomas Schlösser 及其同事（2018）考察正义敏感性是否预测财富分配。他们用的是福利国家博弈的一个版本：参与者在假想社会中被分派为上层、中层或下层，并参与塑造这个社会。他们要在一个不平等程度较低的社会（A 得 5 欧元、B 得 4 欧元、C 得 3 欧元）与一个总财富更高但不平等更甚的社会（A 得 10 欧元、B 得 6 欧元、C 得 1 欧元）之间作选择。如所预期，JS_{Victim} 高（即对成为不公受害者敏感）的人，若自己是 A 或 B，更倾向于更大的不平等；若自己是 C，则更倾向于更大的平等。正义敏感性另外三个维度高的人，不论自己是 A、B 还是 C，都更倾向于选择不平等较小的社会（Schlösser et al. 2018: 79）[^schlösser-2018]。
   - id: 146
     kind: body
     source: |-
       Turning to cheating behavior, Alexander Götmann and his colleagues (2021) found that those higher in victim sensitivity cheated at a higher rate on a laboratory task, whereas when it came to perpetrator sensitivity those high on this dimension were less likely to cheat. The task involved solving matrices, seeing what your overall score was, and then having to manually type the score into a computer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      转向作弊行为，Alexander Götmann 及其同事（2021）发现，受害者敏感性较高的人在实验室任务中作弊率更高；而就施害者敏感性而言，这一维度高的人反而更不可能作弊。该任务要求解矩阵，看到自己的总分，然后手动把分数录入电脑。
+    step2: |-
+      再说作弊行为。Alexander Götmann 及其同事（2021）发现，受害者敏感性较高的人在实验室任务中作弊更多；而施害者敏感性高的人反而更少作弊。任务内容是：解矩阵题，看到自己的总分，然后手动把分数输进电脑。
   - id: 147
     kind: body
     source: |-
       Most relevant for our purposes, participants who are high on victim sensitivity are less likely to allocate 50/50 in dictator games, whereas the opposite is true for the other facets of justice sensitivity. Hence Detlef Fetchenhauer and Xu Huang (2004) found that observer sensitivity correlated .21 with an equal allocation, and perpetrator sensitivity correlated .30. On the other hand, victim sensitivity was negatively correlated at −.18 (Fetchenhauer and Huang 2004: 1024)[^fetchenhauer-2004].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与本文最相关的是：受害者敏感性高的参与者在独裁者博弈中更不可能做出 50/50 分配，而正义敏感性的其他层面则相反。因此，Detlef Fetchenhauer 与 Xu Huang（2004）发现，旁观者敏感性与均等分配的相关为 .21，施害者敏感性为 .30。另一方面，受害者敏感性呈负相关，为 −.18（Fetchenhauer and Huang 2004: 1024）[^fetchenhauer-2004]。
+    step2: |-
+      与本文最相关的是：受害者敏感性高的人在独裁者博弈里较少做 50/50 分配，正义敏感性其他层面的情形恰好相反。Detlef Fetchenhauer 与 Xu Huang（2004）因而发现，旁观者敏感性与均等分配的相关为 .21，施害者敏感性为 .30；受害者敏感性则为负相关，−.18（Fetchenhauer and Huang 2004: 1024）[^fetchenhauer-2004]。
   - id: 148
     kind: body
     source: |-
       Further research in this area of the moral psychology of justice looks to be especially promising in the years to come (for additional noteworthy studies, see Dalbert and Umlauft 2009; Lotz et al 2013; Edele et al. 2013)[^dalbert-2009][^edele-2013][^lotz-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在未来的岁月里，正义道德心理学这一领域的进一步研究看来格外有前景（其他值得注意的研究，见 Dalbert and Umlauft 2009; Lotz et al 2013; Edele et al. 2013）[^dalbert-2009][^edele-2013][^lotz-2013]。
+    step2: |-
+      今后若干年，正义的道德心理学在这一方向上看来大有可为（其他值得注意的研究见 Dalbert and Umlauft 2009; Lotz et al 2013; Edele et al. 2013）[^dalbert-2009][^edele-2013][^lotz-2013]。
   - id: 149
     kind: body
     source: |-
       *A Few Additional Personality Findings.* In addition to the Big Five, HEXACO, and justice sensitivity, other aspects of personality have been studied in relation to economic games. For instance, Gewnhi Park and colleagues (2021) measured both trait gratitude and momentary state gratitude for their participants, and found that only the former predicted willingness to accept unfair offers in the ultimatum game, both when the offers were only moderately unfair (like $3 out of $10 for the participant) or grossly unfair (like $1 out of $10 for the participant).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *其他几项人格发现*。除大五、HEXACO 与正义敏感性之外，人格的其他方面也与经济博弈的关系得到研究。例如，Gewnhi Park 及其同事（2021）同时测量了参与者的特质感恩与瞬时状态感恩，发现只有前者能预测最后通牒博弈中接受不公平出价的意愿——无论出价只是中等不公平（如参与者只得 10 美元中的 3 美元）还是严重不公平（如参与者只得 10 美元中的 1 美元）。
+    step2: |-
+      **其他几项人格发现**。除大五、HEXACO 与正义敏感性之外，人格的别的方面也有人拿经济博弈来研究。例如，Gewnhi Park 及其同事（2021）同时测量了参与者的特质感恩与一时性的状态感恩，结果只有前者能预测最后通牒博弈中接受不公出价的意愿——不管出价是中等不公（比如 10 美元里参与者只得 3 美元），还是严重不公（比如 10 美元里只得 1 美元）。
   - id: 150
     kind: body
     source: |-
       Willibald Ruch and his colleagues (2017) had participants play a number of economic games, including dictator, ultimatum, public goods, and prisoner’s dilemmas. To assess personality, they used the HEXACO-60 questionnaire, but also the 240-item Values in Action Inventory of Strengths, which aims to capture 24 character strengths with respect to which people can differ. The researchers found a significant improvement in predicting performance on the games using the VIA classification, even beyond what was learned from the HEXACO.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Willibald Ruch 及其同事（2017）让参与者玩若干经济博弈，包括独裁者、最后通牒、公共物品与囚徒困境。为评估人格，他们使用了 HEXACO-60 问卷，还使用了 240 题的“优势价值行动问卷”（VIA），后者旨在刻画人们可能有所不同的 24 种品格优势。研究者发现，使用 VIA 分类显著改善了对博弈表现的预测，甚至超出从 HEXACO 中学到的东西。
+    step2: |-
+      Willibald Ruch 及其同事（2017）让参与者玩了好几种经济博弈：独裁者、最后通牒、公共物品以及囚徒困境。人格评估用的是 HEXACO-60 问卷，外加 240 题的“优势价值行动问卷”（VIA）——它旨在刻画 24 种因人而异的品格优势。研究者发现，用 VIA 分类来预测博弈表现，效果显著提升，甚至超出了 HEXACO 所提供的信息。
   - id: 151
     kind: body
     source: |-
       ## 6. Conclusion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 结论
+    step2: |-
+      ## 6 结论
   - id: 152
     kind: body
     source: |-
       At this point, it is tempting to speculate about what some of the broader implications might be of these empirical findings. For instance, what can they tell us about how to design a just society? If we should assume that most of us suffer from moral hypocrisy to enough of an extent that we are not fair people, does that support more active monitoring by the state to detect unfair behavior? How might we practically implement the findings about mirrors (should they be strategically placed around the public square to encourage fair behavior?) and empathy (should there be regular public reminders to imagine what others are going through who are less fortunate?)? And what other lessons can we extrapolate from this research to help us improve society? This is not the place to explore these questions, but they are a natural next step.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至此，人们难免会推测这些经验发现的一些更广泛的含义。例如，它们能为如何设计一个正义社会提供什么启发？如果我们应当假定多数人都或多或少受道德伪善之害、因而并非公平之人，这是否支持由国家更积极地监测、以发现不公行为？关于镜子的发现（是否应当有策略地把它们布置在公共广场周围，以鼓励公平行为？）与共情（是否应当定期公开提醒人们去想像那些不那么幸运的人在经历什么？）在实践中该如何落实？还能从这项研究中外推出哪些别的教训，以帮助我们改进社会？这里不是探讨这些问题的地方，但它们自然是下一步。
+    step2: |-
+      到了这一步，人们很容易想推测这些经验发现更广泛的意义。比如，它们对如何设计一个正义社会能说些什么？倘若我们应当假定多数人的道德伪善程度足以让他们算不上公平之人，那么这是否支持由国家更积极地监测、以发现不公行为？关于镜子的发现（莫非该把镜子有策略地摆在公共广场周围，以鼓励公平行为？）与共情（是否该定期公开提醒人们，去想像那些境况较差的人正在经历什么？），又该如何落到实处？还能从这项研究里外推出哪些别的教训，用来改进社会？此处不是探讨这些问题的地方，但它们自然是下一步的事。
   - id: 153
     kind: body
     source: |-
       Of course, allocation decisions in real life tend to be much more complicated than simple dictator or ultimatum games. But as we have seen, these games and their many different variations can shed important light on the moral psychology of justice. Clearly no simple story about our motives to be just or fair is going to be plausible. We are more complex creatures than that.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，现实生活中的分配决定往往比简单的独裁者或最后通牒博弈复杂得多。但如我们所见，这些博弈及其众多变式能够为正义的道德心理学提供重要启示。显然，任何关于我们正义或公平动机的简单故事都不会有说服力。我们是远比那更复杂的生物。
+    step2: |-
+      现实生活中的分配决策，当然比简单的独裁者或最后通牒博弈复杂得多。但如我们所见，这类博弈及其形形色色的变式，能为正义的道德心理学提供重要启示。关于我们追求正义或公平的动机，任何简单的故事显然都站不住脚——我们是比这复杂得多的生物。
   - id: 154
     kind: oir
     source: |-
       - Lee, K., and M. Ashton, 2015, “Scale Descriptions” in [The Hexaco Personality Inventory – Revised](http://hexaco.org/scaledescriptions) (A Measure of the Six Major Dimensions of Personality).
       - [Measuring the Big Five Personality Domains](http://pages.uoregon.edu/sanjay/bigfive.html), Personality and Social Dynamics Lab, S. Srivastava, U. Oregon.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Lee, K. 与 M. Ashton，2015，“量表说明”（Scale Descriptions），载 [HEXACO 人格问卷（修订版）](http://hexaco.org/scaledescriptions)（一项测量六大人格维度的工具）。
+      - [大五人格领域的测量](http://pages.uoregon.edu/sanjay/bigfive.html)（Measuring the Big Five Personality Domains），人格与社会动力学实验室，S. Srivastava，俄勒冈大学。
+    step2: |-
+      - Lee, K. 与 M. Ashton，2015，“量表说明”（Scale Descriptions），载 [HEXACO 人格问卷（修订版）](http://hexaco.org/scaledescriptions)（测量六大人格维度的工具）。
+      - [大五人格领域的测量](http://pages.uoregon.edu/sanjay/bigfive.html)（Measuring the Big Five Personality Domains），人格与社会动力学实验室，S. Srivastava，俄勒冈大学。
   - id: 155
     kind: ack
     source: |-
       I am grateful to Holly Smith, Walter Sinnott-Armstrong, and an anonymous reviewer (who suggested the questions in the conclusion) for helpful comments, and to a number of people for literature suggestions, especially Michael McCullough. Work on this entry was supported by a grant from the Templeton World Charity Foundation. The statements made here are those of the author and are not necessarily endorsed by the Templeton World Charity Foundation. Material from sections three and four draws from Miller 2015.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      感谢 Holly Smith、Walter Sinnott-Armstrong 以及一位匿名审稿人（结论部分的问题由其建议）的宝贵意见，也感谢许多人的文献建议，尤其是 Michael McCullough。本词条的工作得到坦普尔顿世界慈善基金会资助。此处陈述的观点属于作者，未必得到坦普尔顿世界慈善基金会的认可。第三、四节的部分材料取自 Miller 2015。
+    step2: |-
+      感谢 Holly Smith、Walter Sinnott-Armstrong 以及一位匿名审稿人（结论中的问题由其提出）的宝贵意见；也感谢许多人提供文献建议，尤其是 Michael McCullough。本词条的写作得到坦普尔顿世界慈善基金会（Templeton World Charity Foundation）的资助。文中的陈述属于作者本人，未必得到该基金会的认可。第三、四节的部分材料取自 Miller 2015。
