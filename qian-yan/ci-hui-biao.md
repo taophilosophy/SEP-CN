@@ -1095,7 +1095,7 @@
 |panpsychism|泛心论||
 |pantheism|泛神论||
 |paradigm|范式|库恩（Kuhn）语境通译|
-|Paradox of Suspense|悬疑悖论||
+|Paradox of Suspense|悬疑悖论|亦作“悬念悖论”（术语登记册正文形；词条标题与 SUMMARY 用“悬疑悖论”）|
 |Parmenides|巴门尼德||
 |paternalism|家长主义|政治哲学与伦理学语境；制度语境亦作“家长制”|
 |patriotism|爱国主义||
