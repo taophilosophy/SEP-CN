@@ -2,7 +2,7 @@
   "slug": "justus-lipsius",
   "kind": "retranslate",
   "zh_doc": "j/justus-lipsius.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-06T16:18:54Z",
       "evidence": "四检全绿：check_academic --strict OK；check_style issues=0；check_prose issues=0；check_math missing=[]/unbalanced=[]；lq check 守恒门 53 段通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "J-main-20261109",
+      "at": "2026-11-09T07:41:16Z",
+      "evidence": "初审（体例纠偏）：抽检发现全条 step2 为文言体（违反 rules/02 白话标尺，与本批 japanese-aesthetics 先例同类），遂逐段对照源文改写 52 段（段1-52 全改白话；事实、年份、书名、脚注键照旧）；结构对账 h2 10:10、h3 2:2、marker 87:87、defs 86:86 集全等；查得并修正 2 处（段20 引证编号回改 1.12、段11 \" I.2.19 与\\"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "J-main-20261109",
+      "at": "2026-11-09T07:41:16Z",
+      "evidence": "复审（逐句回核 + 反欧化）：check_prose 34 → 11，实修 23 处（长句拆分 9、的链 6、弱动词 3、双被句 1 等）；余 11 条分类豁免留痕（蒙田引文 2、人名枚举 3、引证括注 4、术语并列 2）；源文 Pierry Bayle 拼误按 Pierre Bayle 译并留痕"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "J-main-20261109",
+      "at": "2026-11-09T07:51:37Z",
+      "evidence": "终审：check_style --strict issues=[]；check_academic --strict OK；check_math formulas=0 missing=[] unbalanced=[]；check_summary H1 mismatch=0 HARD=0；lq check 53 段 HARD=0（SOFT 2 条：oir 机械段、oir 斜体→书名号计数，属正常）；文言残留扫描 0（疑例「耶拿」地名、「雾与云」普通词）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "J-main-20261109",
+      "at": "2026-11-09T07:51:37Z",
+      "evidence": "终审签字：六道全过（账本 53 段身份对齐、守恒 HARD=0），四检全绿；体例（文言→白话 52 段）与反欧化（prose 34→11）双修完毕；成品 j/justus-lipsius.md 32,810 字符"
     }
   ],
   "blockers": [],
