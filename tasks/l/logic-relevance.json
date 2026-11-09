@@ -1,0 +1,22 @@
+{
+  "slug": "logic-relevance",
+  "kind": "retranslate",
+  "zh_doc": "l/logic-relevance.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T05:57:15Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T05:57:15Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 13, 2020",
+    "archive_edition": "Summer 2024",
+    "sha256": "ab3c11d89fcd6e5c97d82184267081efdfd223766cc28abfabded9bf1dd386f3"
+  }
+}
