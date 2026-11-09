@@ -452,214 +452,318 @@ segments:
     kind: body
     source: |-
       Here $A(n)$ is a decidable property for which $\forall n A(n)$ is not known to be true or false. Decidability means that at present for any given $n$ there exists (can be constructed) a proof of $A(n)$ or of $\neg A(n)$. At the time of this writing, we could for example let $A(n)$ express that $n$, if greater than 2, is the sum of three primes; $\forall n A(n)$ then expresses the (original) Goldbach conjecture that every number greater than 2 is the sum of three primes. The sequence $\langle r_n \rangle$ defines a real number $r$ for which the statement $r=0$ is equivalent to the statement $\forall n A(n)$. It follows that the statement $(r = 0 \vee r \neq 0)$ does not hold, and therefore that the law of trichotomy $\forall x(x \lt y \vee x=y \vee x \gt y)$ is not true on the intuitionistic continuum.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里 $A(n)$ 是一个可判定性质，而 $\forall n A(n)$ 未知为真或假。可判定意味着目前对任意给定的 $n$ 都存在（可构造出）$A(n)$ 的证明或 $\neg A(n)$ 的证明。在撰写本文时，我们例如可以令 $A(n)$ 表达：$n$ 若大于 2，则是三个素数之和；$\forall n A(n)$ 于是表达（最初的）哥德巴赫猜想：每个大于 2 的数都是三个素数之和。序列 $\langle r_n \rangle$ 定义了一个实数 $r$，对此，陈述 $r=0$ 等价于陈述 $\forall n A(n)$。由此可见，陈述 $(r = 0 \vee r \neq 0)$ 不成立，因而三分律 $\forall x(x \lt y \vee x=y \vee x \gt y)$ 在直觉主义连续统上不为真。
+    step2: |-
+      此处 $A(n)$ 是可判定性质，而 $\forall n A(n)$ 之真伪未知。「可判定」意为：目前对任一给定 $n$，都可构造出 $A(n)$ 或 $\neg A(n)$ 的证明。行文之际，可取 $A(n)$ 表达「$n$ 若大于 2，则为三素数之和」；于是 $\forall n A(n)$ 即表达（原初的）哥德巴赫猜想：凡大于 2 之数皆为三素数之和。序列 $\langle r_n \rangle$ 所定义的实数 $r$，使陈述 $r=0$ 与陈述 $\forall n A(n)$ 等价。由此可知陈述 $(r = 0 \vee r \neq 0)$ 不成立，故三分律 $\forall x(x \lt y \vee x=y \vee x \gt y)$ 在直觉主义连续统上不为真。
   - id: 50
     kind: body
     source: |-
       Note the subtle difference between “$A$ is not intuitionistically true ” and “$A$ is intuitionistically refutable”: in the first case we know that $A$ cannot have an intuitionistic proof, the second statement expresses that we have a proof of ¬*A*, i.e. a construction that derives falsum from any possible proof of $A$. For the law of trichotomy we have just shown that it is not intuitionistically true. Below it will be shown that even the second stronger form saying that the law is refutable holds intuitionistically. This, however, is not true for all statements for which there exist weak counterexamples. For example, the Goldbach conjecture is a weak counterexample to the principle of the excluded middle, since $\forall n A(n)$ as above is at present not known to be true or false, and thus we cannot assert $\forall n A(n) \vee \neg \forall n A(n)$ intuitionistically, at least not at this moment. But the refutation of this statement, $\neg (\forall n A(n) \vee \neg \forall n A(n))$, is not true in intuitionism, as one can show that for any statement $B$ a contradiction can be derived from the assumption that $\neg B$ and $\neg\neg B$ hold (and thus also from $B$ and $\neg B$). In other words, $\neg\neg (B \vee \neg B)$ is intuitionistically true, and thus, although there exist weak counterexamples to the principle of the excluded middle, its negation is false in intuitionism, that is, it is intuitionistically refutable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      请注意“$A$ 在直觉主义上不为真”与“$A$ 在直觉主义上可被反驳”之间的细微差别：在第一种情形中，我们知道 $A$ 不可能有直觉主义证明；第二种陈述则表达我们拥有 ¬*A* 的证明，即一个从 $A$ 的任何可能证明推出假的构造。就三分律而言，我们刚刚表明它在直觉主义上不为真。下文将表明，甚至更强的第二种形式——即该律可被反驳——在直觉主义上也成立。然而，对于存在弱反例的一切陈述，情况并非如此。例如，哥德巴赫猜想是排中律原则的弱反例，因为如上所述的 $\forall n A(n)$ 目前未知为真或假，因而我们不能在直觉主义上断言 $\forall n A(n) \vee \neg \forall n A(n)$，至少此刻不能。但对该陈述的反驳 $\neg (\forall n A(n) \vee \neg \forall n A(n))$ 在直觉主义中不为真，因为可以表明：对任意陈述 $B$，由 $\neg B$ 与 $\neg\neg B$ 同时成立的假设（因而也由 $B$ 与 $\neg B$）可推出矛盾。换言之，$\neg\neg (B \vee \neg B)$ 在直觉主义上为真；因此，尽管存在对排中律原则的弱反例，其否定在直觉主义中为假，也就是说，它在直觉主义上可被反驳。
+    step2: |-
+      须辨「$A$ 在直觉主义上不为真」与「$A$ 在直觉主义上可被反驳」之微殊：前者是我们知道 $A$ 不可能有直觉主义证明；后者则谓我们握有 ¬*A* 的证明，即一个由 $A$ 的任何可能证明推出假的构造。就三分律言，上文已明其不为直觉主义之真。下文将明，即便更强的第二种说法——该律可被反驳——在直觉主义上亦成立。然此说并非对一切有弱反例的陈述皆然。例如哥德巴赫猜想是排中律的弱反例：如上之 $\forall n A(n)$ 目前真伪未知，故至少在当下，我们不能在直觉主义上断言 $\forall n A(n) \vee \neg \forall n A(n)$。但对这一陈述的反驳 $\neg (\forall n A(n) \vee \neg \forall n A(n))$，在直觉主义中并不为真——可以表明，对任一陈述 $B$，若假设 $\neg B$ 与 $\neg\neg B$ 同真（从而也由 $B$ 与 $\neg B$），即可推出矛盾。换言之，$\neg\neg (B \vee \neg B)$ 在直觉主义上为真；是以虽有排中律的弱反例，其否定在直觉主义中为假，亦即该否定在直觉主义上可被反驳。
   - id: 51
     kind: body
     source: |-
       The existence of real numbers $r$ for which the intuitionist cannot decide whether they are positive or not shows that certain classically total functions cease to be so in an intuitionistic setting, such as the piecewise constant function
 
       $$ f(r) = \begin{cases} 0 \text{ if } r \geq 0 \\ 1 \text{ if } r \lt 0. \end{cases} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      存在这样的实数 $r$：直觉主义者无法判定它们是否为正；这表明某些在经典意义上是全函数的东西，在直觉主义背景下不再是全函数，例如分段常函数
+
+      $$ f(r) = \begin{cases} 0 \text{ if } r \geq 0 \\ 1 \text{ if } r \lt 0. \end{cases} $$
+    step2: |-
+      有些实数 $r$，直觉主义者无从判定其是否为正；可见某些经典意义上的全函数在直觉主义背景下不再是全函数，分段常函数即其一例：
+
+      $$ f(r) = \begin{cases} 0 \text{ if } r \geq 0 \\ 1 \text{ if } r \lt 0. \end{cases} $$
   - id: 52
     kind: body
     source: |-
       There exist weak counterexamples to many classically valid statements. The construction of these weak counterexamples often follow the same pattern as the example above. For example, the argument that shows that the intermediate value theorem is not intuitionistically valid runs as follows. Let $r$ be a real number in [−1,1] for which $(r\leq 0 \vee 0 \lt r)$ has not been decided, as in the example above. Define the uniformly continuous function $f$ on $[0,3]$ by
 
       $$ f(x) = \text{min}(x-1,0) + \text{max}(0,x-2) + r. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对许多经典有效的陈述都存在弱反例。这些弱反例的构造往往遵循与上例相同的模式。例如，表明介值定理在直觉主义上无效的论证如下。设 $r$ 是 [−1,1] 中的一个实数，使 $(r\leq 0 \vee 0 \lt r)$ 尚未被判定，如上例。定义 $[0,3]$ 上的一致连续函数 $f$：
+
+      $$ f(x) = \text{min}(x-1,0) + \text{max}(0,x-2) + r. $$
+    step2: |-
+      许多经典有效的陈述都有弱反例，其构造往往循上例模式。例如「介值定理并非直觉主义有效」的论证如下：取 $[−1,1]$ 中的实数 $r$，使 $(r\leq 0 \vee 0 \lt r)$ 尚未判定（如上例）；在 $[0,3]$ 上定义一致连续函数 $f$：
+
+      $$ f(x) = \text{min}(x-1,0) + \text{max}(0,x-2) + r. $$
   - id: 53
     kind: body
     source: |-
       Clearly, $f(0) = -1 +r$ and $f(3) = 1 + r$, whence $f$ takes the value 0 at some point $x$ in [0,3]. If such $x$ could be determined, either $1 \leq x$ or $x \leq 2$. Since $f$ equals $r$ on $[1,2]$, in the first case $r \leq 0$ and in the second case $0\leq r$, contradicting the undecidability of the statement $(r\leq 0 \vee 0 \leq r)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显然 $f(0) = -1 +r$ 且 $f(3) = 1 + r$，因此 $f$ 在 [0,3] 中某点 $x$ 处取值 0。若能确定这样的 $x$，则或者 $1 \leq x$，或者 $x \leq 2$。由于 $f$ 在 $[1,2]$ 上等于 $r$，在第一种情形有 $r \leq 0$，在第二种情形有 $0\leq r$，这与陈述 $(r\leq 0 \vee 0 \leq r)$ 的不可判定性相矛盾。
+    step2: |-
+      显见 $f(0) = -1 +r$、$f(3) = 1 + r$，故 $f$ 在 $[0,3]$ 某点 $x$ 取值 0。若能定出此 $x$，则或 $1 \leq x$，或 $x \leq 2$。而 $f$ 在 $[1,2]$ 上恒等于 $r$：第一种情形得 $r \leq 0$，第二种情形得 $0\leq r$，皆与 $(r\leq 0 \vee 0 \leq r)$ 之不可判定相矛盾。
   - id: 54
     kind: body
     source: |-
       These examples seem to indicate that in the shift from classical to intuitionistic mathematics one loses several fundamental theorems of analysis. This however is not so, since in many cases intuitionism regains such theorems in the form of an analogue in which existential statements are replaced by statements about the existence of approximations within arbitrary precision, as in this classically equivalent form of the intermediate value theorem that is constructively valid:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些例子似乎表明，从经典数学转向直觉主义数学会失去分析中的若干基本定理。然而并非如此，因为在许多情形中，直觉主义以类似命题的形式重新获得了这些定理：其中存在性陈述被替换为关于任意精度内逼近之存在的陈述，如下述介值定理的经典等价形式，它在构造上是有效的：
+    step2: |-
+      上述诸例似乎表明：由经典数学转向直觉主义数学，会丧失分析学中若干基本定理。其实不然——许多情形下直觉主义以「类似物」形式重获这些定理：把存在性陈述换成「任意精度内存在逼近」的陈述，如下述介值定理的经典等价形式，它在构造上是有效的：
   - id: 55
     kind: body
     source: |-
       > **Theorem**. For every continuous real-valued function $f$ on an interval $[a,b]$ with $a \lt b$, for every $c$ between $f(a)$ and $f(b)$, the following holds:
       >
       > $$ \forall n \exists x \in [a,b] \, |f(x)-c| \lt 2^{-n}. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **定理**。设 $f$ 是区间 $[a,b]$（$a \lt b$）上的连续实值函数，$c$ 是介于 $f(a)$ 与 $f(b)$ 之间的数，则下列成立：
+      >
+      > $$ \forall n \exists x \in [a,b] \, |f(x)-c| \lt 2^{-n}. $$
+    step2: |-
+      > **定理**。设 $f$ 为区间 $[a,b]$（$a \lt b$）上的连续实值函数，$c$ 介于 $f(a)$、$f(b)$ 之间，则：
+      >
+      > $$ \forall n \exists x \in [a,b] \, |f(x)-c| \lt 2^{-n}. $$
   - id: 56
     kind: body
     source: |-
       Weak counterexamples are a means to show that certain mathematical statements do not hold intuitionistically, but they do not yet reveal the richness of the intuitionistic continuum. Only after Brouwer’s introduction of choice sequences did intuitionism obtain its particular flavor and became incomparable with classical mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      弱反例是表明某些数学陈述在直觉主义上不成立的手段，但它们尚未揭示直觉主义连续统的丰富性。只有在布劳威尔引入选择序列之后，直觉主义才获得其独特风味，并变得与经典数学不可比较。
+    step2: |-
+      弱反例只能表明某些数学陈述在直觉主义上不成立，尚不足以显露直觉主义连续统之丰赡。直觉主义之独具风味、并与经典数学不可比较，实自布劳威尔引入选择序列始。
   - id: 57
     kind: body
     source: |-
       #### Choice sequences
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 选择序列
+    step2: |-
+      #### 选择序列
   - id: 58
     kind: body
     source: |-
       Choice sequences were introduced by Brouwer to capture the intuition of the continuum. Since for the intuitionist all infinity is potential, infinite objects can only be grasped via a process that generates them step-by-step. What will be allowed as a legitimate construction therefore decides which infinite objects are to be accepted. For example, in most other forms of constructivism only computable rules for generating such objects are allowed, while in Platonism infinities are considered to be completed totalities whose existence is accepted even in cases when no generating rules are known.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      选择序列由布劳威尔引入，以捕捉连续统的直觉。由于对直觉主义者而言一切无限都是潜在的，无限对象只能通过逐步生成它们的过程来把握。因此，什么被允许作为合法构造，决定了哪些无限对象应被接受。例如，在多数其他构造主义形式中，只允许生成此类对象的可计算规则；而在柏拉图主义中，无限被视为完成了的整体，即使不知道生成规则，其存在也被接受。
+    step2: |-
+      布劳威尔引入选择序列，意在把握连续统之直觉。直觉主义者视一切无限为潜无限，故无限对象只能经由逐步生成的过程加以把握；于是，何种构造算合法，便决定了哪些无限对象可被接受。例如多数其他构造主义形式只许可计算的生成规则；柏拉图主义则视无限为已完成之整体，纵无生成规则，亦承认其存在。
   - id: 59
     kind: body
     source: |-
       Brouwer’s second act of intuitionism gives rise to choice sequences, that provide certain infinite sets with properties that are unacceptable from a classical point of view. A choice sequence is an infinite sequence of numbers (or finite objects) created by the free will. The sequence could be determined by a law or algorithm, such as the sequence consisting of only zeros, or of the prime numbers in increasing order, in which case we speak of a *lawlike* sequence, or it could not be subject to any law, in which case it is called *lawless*. Lawless sequences could for example be created by the repeated throw of a coin, or by asking the Creating Subject to choose the successive numbers of the sequence one by one, allowing it to choose any number to its liking. Thus a lawless sequence is ever unfinished, and the only available information about it at any stage in time is the initial segment of the sequence created thus far. Clearly, by the very nature of lawlessness we can never decide whether its values will coincide with a sequence that is lawlike. Also, the free will is able to create sequences that start out as lawlike, but for which at a certain point the law might be lifted and the process of free choice takes over to generate the succeeding numbers, or vice versa.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布劳威尔的直觉主义第二幕产生了选择序列，它们赋予某些无限集以经典观点不可接受的性质。选择序列是由自由意志创造的数（或有限对象）的无限序列。该序列可以由一条规律或算法确定，例如只由零组成的序列，或按递增顺序排列的素数序列，这时我们称之为*合规律的*序列；它也可以不受任何规律支配，这时称为*无规律的*。无规律序列例如可以通过反复掷硬币来创造，或者要求创造主体逐一选取序列的相继各数，任其随心选择任何数。因此，无规律序列永不完结，在任何时间阶段关于它的唯一可用信息就是迄今已创造的初始片段。显然，就无规律性本身的性质而言，我们永远无法判定其取值是否会与某个合规律序列相合。此外，自由意志也能创造这样的序列：起初是合规律的，但在某一时点规律可能被撤除，由自由选择过程接手生成后继的数，反之亦然。
+    step2: |-
+      第二幕引出选择序列，赋予某些无限集以经典观点所不容的性质。选择序列乃由自由意志创造的数（或有限对象）之无限序列：或由规律、算法确定——如全零序列，或素数递增序列，此即*合规律的*序列；或不受任何规律约束，此即*无规律的*序列。无规律序列可由反复掷币生成，亦可令创造主体逐一择取相继之数、任其所欲。故无规律序列永无完结，任一时点所能掌握者，唯有已生成的初始片段。就其无规律性而言，我们显然永难判定其取值是否终将与某合规律序列相合。自由意志还能造出这样的序列：起初合规律，至某点规律撤销、由自由选择接手生成后续之数，反之亦然。
   - id: 60
     kind: body
     source: |-
       According to Brouwer every real number is represented by a choice sequence, and the choice sequences enabled him to capture the intuitionistic continuum via the controversial continuity axioms. Brouwer first spoke of choice sequences in his inaugural address (Brouwer 1912)[^brouwer-1912], but at that time he did not yet treat them as a fundamental part of his mathematics. Gradually they became more important and from 1918 on Brouwer started to use them in a way explained in the next section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照布劳威尔，每个实数都由一个选择序列表示，而选择序列使他能借有争议的连续性公理捕捉直觉主义连续统。布劳威尔在其就职演说中首次谈到选择序列（Brouwer 1912）[^brouwer-1912]，但当时他尚未把它们当作其数学的根本部分。它们逐渐变得更重要，自 1918 年起，布劳威尔开始以下一节所说明的方式使用它们。
+    step2: |-
+      布劳威尔认为，每个实数皆由一个选择序列表示；正是借选择序列，他得以通过颇有争议的连续性公理把握直觉主义连续统。他首次谈及选择序列是在就职演说中（Brouwer 1912）[^brouwer-1912]，其时尚未视之为其数学的根本成分。此后其地位渐重，自 1918 年起，布劳威尔开始按下节所述方式使用之。
   - id: 61
     kind: body
     source: |-
       ### 3.5 Continuity axioms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.5 连续性公理
+    step2: |-
+      ### 3.5 连续性公理
   - id: 62
     kind: body
     source: |-
       The acceptance of the notion of choice sequence has far-reaching implications. It justifies, for the intuitionist, the use of the continuity axioms, from which classically invalid statements can be derived. The weakest of these axioms is the weak continuity axiom:
 
       $$\tag{\({\bf WC\mbox{-}N}\)} \forall\alpha\exists n A(\alpha,n) \rightarrow \forall\alpha\exists m\exists n \forall\beta\in\alpha(\overline{m})A(\beta,n). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      接受选择序列概念有深远蕴含。它为直觉主义者使用连续性公理提供了理由，而从这些公理可以推出经典上无效的陈述。这些公理中最弱的是弱连续性公理：
+
+      $$\tag{\({\bf WC\mbox{-}N}\)} \forall\alpha\exists n A(\alpha,n) \rightarrow \forall\alpha\exists m\exists n \forall\beta\in\alpha(\overline{m})A(\beta,n). $$
+    step2: |-
+      接纳选择序列概念，蕴含深远：它使直觉主义者有理由使用连续性公理，而由这些公理可推出经典上无效的陈述。其中最弱者，为弱连续性公理：
+
+      $$\tag{\({\bf WC\mbox{-}N}\)} \forall\alpha\exists n A(\alpha,n) \rightarrow \forall\alpha\exists m\exists n \forall\beta\in\alpha(\overline{m})A(\beta,n). $$
   - id: 63
     kind: body
     source: |-
       Here $n$ and $m$ range over natural numbers, $\alpha$ and $\beta$ over choice sequences, and $\beta\in\alpha(\overline{m})$ means that the first $m$ elements of $\alpha$ and $\beta$ are equal. Although until now there has never been given a completely satisfactory justification of most continuity axioms for arbitrary choice sequences, not even by Brouwer, when restricted to the class of lawless sequences arguments supporting the validity of the weak continuity axiom run as follows. When could a statement of the form $\forall\alpha\exists n A(\alpha,n)$ be established by the intuitionist? By the very nature of the notion of lawless sequence, the choice of the number $n$ for which $A(\alpha,n)$ holds has to be made after only a finite initial segment of $\alpha$ is known. For we do not know how $\alpha$ will proceed in time, and we therefore have to base the choice of $n$ on the initial segment of $\alpha$ that is known at that point in time where we wish to fix $n$. This implies that for every lawless sequence $\beta$ with the same initial segment as $\alpha$, $A(\beta,n)$ holds as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里 $n$ 与 $m$ 取值为自然数，$\alpha$ 与 $\beta$ 取值为选择序列，$\beta\in\alpha(\overline{m})$ 意为 $\alpha$ 与 $\beta$ 的前 $m$ 个元素相同。尽管迄今为止从未给出对任意选择序列的多数连续性公理的完全令人满意的辩护——布劳威尔本人也没有——但当限制在无规律序列类上时，支持弱连续性公理有效性的论证如下。直觉主义者何时能确立形式为 $\forall\alpha\exists n A(\alpha,n)$ 的陈述？就无规律序列概念的本性而言，使 $A(\alpha,n)$ 成立的那个数 $n$ 的选择，必须在 $\alpha$ 仅有有限初始片段已知之后作出。因为我们不知道 $\alpha$ 将如何随时间推进，所以必须把 $n$ 的选择基于我们想确定 $n$ 的那个时点已知的 $\alpha$ 初始片段。这意味着：对每个与 $\alpha$ 有相同初始片段的无规律序列 $\beta$，$A(\beta,n)$ 也成立。
+    step2: |-
+      其中 $n,m$ 遍涉自然数，$\alpha,\beta$ 遍涉选择序列；$\beta\in\alpha(\overline{m})$ 谓 $\alpha$ 与 $\beta$ 的前 $m$ 个元素相同。迄今对任意选择序列的多数连续性公理，尚未有完全令人满意的辩护（布劳威尔本人亦然）；但若限于无规律序列类，支持弱连续性公理的论证如下：直觉主义者何时能确立 $\forall\alpha\exists n A(\alpha,n)$？依无规律序列概念之本性，使 $A(\alpha,n)$ 成立的那个 $n$，其择定必在 $\alpha$ 仅有有限初始片段已知之后作出——因为我们不知 $\alpha$ 往后如何推进，只能以「欲确定 $n$ 之时」已知的初始片段为据。这意味着：凡与 $\alpha$ 共享该初始片段的无规律序列 $\beta$，$A(\beta,n)$ 亦成立。
   - id: 64
     kind: body
     source: |-
       The weak continuity axiom has been shown to be consistent, and is often applied in a form that can be justified, namely in the case in which the predicate $A$ only refers to the values of $\alpha$, and not to the higher order properties that it possibly possesses. The details of the argument will be omitted here, but it contains the same ingredients as the justification of the principle for lawless sequences, and can be found in van Atten and van Dalen 2002.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      弱连续性公理已被表明是一致的，且常以可辩护的形式应用，即在谓词 $A$ 只涉及 $\alpha$ 的取值、而不涉及它可能具有的高阶性质的情形中。论证细节此处从略，但它与无规律序列情形的原则辩护含有相同要素，可见于 van Atten 与 van Dalen 2002。
+    step2: |-
+      弱连续性公理已证为一致，且常以可辩护的形式施用：即谓词 $A$ 只涉 $\alpha$ 之取值、不涉其可能具有的高阶性质。论证细节从略，其要素与无规律序列情形之辩护相同，见 van Atten 与 van Dalen 2002。
   - id: 65
     kind: body
     source: |-
       Weak continuity does not exhaust the intuitionists’ intuition about the continuum, for given the weak continuity axiom, it seems reasonable to assume that the choice of the number $m$ such that $\forall\beta\in\alpha(\overline{m})A(\beta,n)$, could be made explicit. Thus $\forall\alpha\exists n A(\alpha,n)$ implies the existence of a continuous functional $\Phi$ that for every $\alpha$ produces the $m$ that fixes the length of $\alpha$ on the basis of which $n$ is chosen. More formally, let $\mathcal{CF}$ be the class of continuous functionals $\Phi$ that assign natural numbers to infinite sequences, i.e. that satisfy
 
       $$ \forall\alpha\exists m\forall\beta\in\alpha(\overline{m})\Phi(\alpha)=\Phi(\beta). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      弱连续性并不穷尽直觉主义者关于连续统的直觉，因为给定弱连续性公理，似乎有理由假定：使 $\forall\beta\in\alpha(\overline{m})A(\beta,n)$ 成立的那个数 $m$ 的选择可以明确化。于是 $\forall\alpha\exists n A(\alpha,n)$ 蕴含存在一个连续泛函 $\Phi$，它对每个 $\alpha$ 产生确定 $\alpha$ 长度的 $m$，$n$ 即基于该长度而被选择。更形式地说，设 $\mathcal{CF}$ 为连续泛函 $\Phi$ 的类，这些泛函把自然数指派给无限序列，即满足
+
+      $$ \forall\alpha\exists m\forall\beta\in\alpha(\overline{m})\Phi(\alpha)=\Phi(\beta). $$
+    step2: |-
+      弱连续性尚未穷尽直觉主义者对连续统的直觉：既有弱连续性公理，则似乎可以合理地假定，那个使 $\forall\beta\in\alpha(\overline{m})A(\beta,n)$ 成立的数 $m$，其选择可以显式给出。于是 $\forall\alpha\exists n A(\alpha,n)$ 蕴含存在连续泛函 $\Phi$：对每个 $\alpha$，它给出确定 $\alpha$ 长度的 $m$，$n$ 即据此择定。更形式地，令 $\mathcal{CF}$ 为连续泛函之类，此类泛函把自然数指派给无限序列，即满足
+
+      $$ \forall\alpha\exists m\forall\beta\in\alpha(\overline{m})\Phi(\alpha)=\Phi(\beta). $$
   - id: 66
     kind: body
     source: |-
       The full axiom of continuity, which is an extension of the weak continuity axiom, can then be expressed as:
 
       $$\tag{\({\bf C\mbox{-}N}\)} \forall\alpha\exists n A(\alpha,n) \rightarrow \exists \Phi \in \mathcal{CF}\,\forall\alpha A(\alpha,\Phi(\alpha)). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      完整的连续性公理是弱连续性公理的扩展，它可以表述为：
+
+      $$\tag{\({\bf C\mbox{-}N}\)} \forall\alpha\exists n A(\alpha,n) \rightarrow \exists \Phi \in \mathcal{CF}\,\forall\alpha A(\alpha,\Phi(\alpha)). $$
+    step2: |-
+      完整的连续性公理乃弱连续性公理之扩展，可表述为：
+
+      $$\tag{\({\bf C\mbox{-}N}\)} \forall\alpha\exists n A(\alpha,n) \rightarrow \exists \Phi \in \mathcal{CF}\,\forall\alpha A(\alpha,\Phi(\alpha)). $$
   - id: 67
     kind: body
     source: |-
       Through the continuity axiom certain weak counterexamples can be transformed into genuine refutations of classically accepted principles. For example, it implies that the quantified version of the principle of the excluded middle is false:
 
       $$ \neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      通过连续性公理，某些弱反例可以转化为对经典上被接受原则的真正反驳。例如，它蕴含排中律原则的量词版本为假：
+
+      $$ \neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0). $$
+    step2: |-
+      借连续性公理，某些弱反例可转为对经典所接受原则的真正反驳。例如，它蕴含排中律的量词版本为假：
+
+      $$ \neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0). $$
   - id: 68
     kind: body
     source: |-
       Here $\alpha(n)$ denotes the $n$-th element of $\alpha$. To see that this negations holds, suppose, arguing by contradiction, that $\neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0)$ holds. This implies that
 
       $$ \forall\alpha\exists k((\forall n\alpha (n)=0 \wedge k=0) \vee (\neg \forall n\alpha (n)=0 \wedge k=1)). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里 $\alpha(n)$ 表示 $\alpha$ 的第 $n$ 个元素。要看出这一否定成立，试反证：假设 $\neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0)$ 成立。这蕴含
+
+      $$ \forall\alpha\exists k((\forall n\alpha (n)=0 \wedge k=0) \vee (\neg \forall n\alpha (n)=0 \wedge k=1)). $$
+    step2: |-
+      此处 $\alpha(n)$ 指 $\alpha$ 的第 $n$ 个元素。欲见此否定成立，可反证之：设 $\neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0)$ 成立，则蕴含
+
+      $$ \forall\alpha\exists k((\forall n\alpha (n)=0 \wedge k=0) \vee (\neg \forall n\alpha (n)=0 \wedge k=1)). $$
   - id: 69
     kind: body
     source: |-
       By the weak continuity axiom, for $\alpha$ consisting of only zeros there exists a number $m$ that fixes the choice of $k$, which means that for all $\beta\in\alpha(\overline{m})$, $k=0$. But the existence of sequences whose first $m$ elements are 0 and that contain a 1 show that this cannot be.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由弱连续性公理，对只由零组成的 $\alpha$，存在一个数 $m$ 确定 $k$ 的选择，这意味着对所有 $\beta\in\alpha(\overline{m})$，$k=0$。但存在前 $m$ 个元素为 0 且含有 1 的序列，这表明上述情形不可能。
+    step2: |-
+      依弱连续性公理，对全零之 $\alpha$，存在数 $m$ 固定 $k$ 的择取，即对一切 $\beta\in\alpha(\overline{m})$ 皆有 $k=0$。然而确存在前 $m$ 个元素为 0、其后含 1 的序列，可见此说不能成立。
   - id: 70
     kind: body
     source: |-
       This example showing that the principle of the excluded middle not only does not hold but is in fact false in intuitionism, leads to the refutation of many basic properties of the continuum. Consider for example the real number $r_\alpha$ that is the limit of the sequence consisting of the numbers $r_n$ as given in the section on weak counterexamples, where the $A(m)$ in the definition is taken to be the statement $\alpha(m)=0$. Then the refutation above implies that $\neg\forall\alpha(r_\alpha=0 \vee r_\alpha\neq 0)$, and it thereby refutes the law of trichotomy:
 
       $$ \forall x (x \lt y \vee x=y \vee y \lt x). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个例子表明，排中律原则在直觉主义中不仅不成立，而且实际上为假；它导致连续统许多基本性质被反驳。例如，考虑实数 $r_\alpha$，它是弱反例一节所给数 $r_n$ 构成的序列的极限，其中定义中的 $A(m)$ 取为陈述 $\alpha(m)=0$。于是上述反驳蕴含 $\neg\forall\alpha(r_\alpha=0 \vee r_\alpha\neq 0)$，从而反驳三分律：
+
+      $$ \forall x (x \lt y \vee x=y \vee y \lt x). $$
+    step2: |-
+      此例表明：排中律在直觉主义中不仅不成立，实则为假；由此连续统的许多基本性质皆遭反驳。例如取实数 $r_\alpha$，它是弱反例一节所给 $r_n$ 所成序列的极限，其中定义里的 $A(m)$ 取作 $\alpha(m)=0$。则上述反驳蕴含 $\neg\forall\alpha(r_\alpha=0 \vee r_\alpha\neq 0)$，并因而反驳三分律：
+
+      $$ \forall x (x \lt y \vee x=y \vee y \lt x). $$
   - id: 71
     kind: body
     source: |-
       The following theorem is another example of the way in which the continuity axiom refutes certain classical principles.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下述定理是连续性公理反驳某些经典原则的另一例证。
+    step2: |-
+      下一定理亦显示连续性公理如何反驳某些经典原则。
   - id: 72
     kind: body
     source: |-
       > **Theorem** ${\bf (C\mbox{-}N)}$ Every total real function is continuous.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **定理** ${\bf (C\mbox{-}N)}$ 每个全实函数都是连续的。
+    step2: |-
+      > **定理** ${\bf (C\mbox{-}N)}$ 一切全实函数皆连续。
   - id: 73
     kind: body
     source: |-
       Indeed, a classical counterexample to this theorem, the nowhere continuous function $$ f(x) = \begin{cases} 0 \text{ if \(x\) is a rational number } \\ 1 \text{ if \(x\) is an irrational number} \end{cases} $$ is not a legitimate function from the intuitionistic point of view since the property of being rational is not decidable on the real numbers. The theorem above implies that the continuum is not decomposable, and in van Dalen 1997, it is shown that this even holds for the set of irrational numbers.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      确实，该定理的一个经典反例——处处不连续的函数 $$ f(x) = \begin{cases} 0 \text{ if \(x\) is a rational number } \\ 1 \text{ if \(x\) is an irrational number} \end{cases} $$ 从直觉主义观点看不是合法函数，因为「是有理数」这一性质在实数上不可判定。上述定理蕴含连续统不可分解，而在 van Dalen 1997 中表明，这对无理数集也成立。
+    step2: |-
+      该定理有一经典反例，即处处不连续的函数 $$ f(x) = \begin{cases} 0 \text{ if \(x\) is a rational number } \\ 1 \text{ if \(x\) is an irrational number} \end{cases} $$ 自直觉主义观之并非合法函数，因「为有理数」这一性质在实数上不可判定。上述定理蕴含连续统不可分解；van Dalen 1997 进一步表明，无理数集亦复如此。
   - id: 74
     kind: body
     source: |-
       The two examples above are characteristic for the way in which the continuity axioms are applied in intuitionistic mathematics. They are the only axioms in intuitionism that contradict classical reasoning, and thereby represent the most colorful as well as the most controversial part of Brouwer’s philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上述两个例子是连续性公理在直觉主义数学中应用方式的典型。它们是直觉主义中唯一与经典推理相冲突的公理，因而代表了布劳威尔哲学中最富色彩、也最具争议的部分。
+    step2: |-
+      上举二例，典型地显示了连续性公理在直觉主义数学中的施用方式。它们是直觉主义中仅有的与经典推理相抵触的公理，故构成布劳威尔哲学中最斑斓、亦最富争议的部分。
   - id: 75
     kind: body
     source: |-
       #### Neighborhood Functions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 邻域函数
+    step2: |-
+      #### 邻域函数
   - id: 76
     kind: body
     source: |-
       There is a convenient representation of continuous functionals that has been used extensively in the literature, though not by Brouwer himself. Continuous functionals that assign numbers to infinite sequences can be represented by *neighborhood functions*, where a neighborhood function $f$ is a function on the natural numbers satisfying the following two properties ($\cdot$ denotes concatenation and $f(\alpha(\overline{n}))$ denotes the value of $f$ on the code of the finite sequence $\alpha(\overline{n})$).
 
       $$ \forall \alpha\exists n f(\alpha(\overline{n})) \gt 0 \\ \forall n\forall m (f(n) \gt 0 \rightarrow f(n\cdot m) = f(n)). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有一种方便的连续泛函表示法，在文献中被广泛使用，尽管布劳威尔本人未用。把数指派给无限序列的连续泛函可以用*邻域函数*表示；邻域函数 $f$ 是自然数上的函数，满足下述两条性质（$\cdot$ 表示连接，$f(\alpha(\overline{n}))$ 表示 $f$ 在有限序列 $\alpha(\overline{n})$ 的编码上的值）。
+
+      $$ \forall \alpha\exists n f(\alpha(\overline{n})) \gt 0 \\ \forall n\forall m (f(n) \gt 0 \rightarrow f(n\cdot m) = f(n)). $$
+    step2: |-
+      连续泛函有一种便利的表示法，文献中广被采用（布劳威尔本人未用）：把数指派给无限序列的连续泛函，可由*邻域函数*表示。所谓邻域函数 $f$，是自然数上的函数，满足下述两条性质（$\cdot$ 表连接；$f(\alpha(\overline{n}))$ 表 $f$ 在有限序列 $\alpha(\overline{n})$ 之编码上的值）：
+
+      $$ \forall \alpha\exists n f(\alpha(\overline{n})) \gt 0 \\ \forall n\forall m (f(n) \gt 0 \rightarrow f(n\cdot m) = f(n)). $$
   - id: 77
     kind: body
     source: |-
       Intuitively, if $f$ represents $\Phi$ then $f(\alpha(\overline{n}))=0$ means that $\alpha(\overline{n})$ is not long enough to compute $\Phi(\alpha)$, and $f(\alpha(\overline{n}))=m+1$ means that $\alpha(\overline{n})$ is long enough to compute $\Phi(\alpha)$ and that the value of $\Phi(\alpha)$ is $m$. If $\mathcal{K}$ denotes the class of neighborhood functions, then the continuity axiom ${\bf C\mbox{-}N}$ can be rephrased as $$ \forall \alpha\exists n A(\alpha,n) \rightarrow \exists f \in \mathcal{K}\, \forall m(f(m) \gt 0 \rightarrow \forall \beta \in m A(\beta,f(m-1))), $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直观上，若 $f$ 表示 $\Phi$，则 $f(\alpha(\overline{n}))=0$ 意味着 $\alpha(\overline{n})$ 不够长，无法计算 $\Phi(\alpha)$；而 $f(\alpha(\overline{n}))=m+1$ 意味着 $\alpha(\overline{n})$ 足够长，可以计算 $\Phi(\alpha)$，且 $\Phi(\alpha)$ 的值为 $m$。若 $\mathcal{K}$ 表示邻域函数的类，则连续性公理 ${\bf C\mbox{-}N}$ 可重述为 $$ \forall \alpha\exists n A(\alpha,n) \rightarrow \exists f \in \mathcal{K}\, \forall m(f(m) \gt 0 \rightarrow \forall \beta \in m A(\beta,f(m-1))), $$
+    step2: |-
+      直观地说，若 $f$ 表示 $\Phi$，则 $f(\alpha(\overline{n}))=0$ 谓 $\alpha(\overline{n})$ 尚不足以算出 $\Phi(\alpha)$；$f(\alpha(\overline{n}))=m+1$ 则谓 $\alpha(\overline{n})$ 已足以算出 $\Phi(\alpha)$，且 $\Phi(\alpha)$ 之值为 $m$。以 $\mathcal{K}$ 记邻域函数之类，则连续性公理 ${\bf C\mbox{-}N}$ 可改写为 $$ \forall \alpha\exists n A(\alpha,n) \rightarrow \exists f \in \mathcal{K}\, \forall m(f(m) \gt 0 \rightarrow \forall \beta \in m A(\beta,f(m-1))), $$
   - id: 78
     kind: body
     source: |-
       where $\beta \in m$ means that the code of the initial segment of $\beta$ is $m$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 $\beta \in m$ 意为 $\beta$ 的初始片段的编码是 $m$。
+    step2: |-
+      其中 $\beta \in m$ 谓 $\beta$ 初始片段之编码为 $m$。
   - id: 79
     kind: body
     source: |-
       ### 3.6 The bar theorem
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.6 棒定理
+    step2: |-
+      ### 3.6 棒定理
   - id: 80
     kind: body
     source: |-
       Brouwer introduced choice sequences and the continuity axioms to capture the intuitionistic continuum, but these principles alone do not suffice to recover that part of traditional analysis that Brouwer considered intuitionistically sound, such as the theorem that every continuous real function on a closed interval is uniformly continuous. For this reason Brouwer proved the so-called bar theorem. It is a classically valid statement, but the proof Brouwer gave is by many considered to be no proof at all since it uses an assumption on the form of proofs for which no rigorous argument is provided. This is the reason that the bar theorem is also referred to as the bar principle.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布劳威尔引入选择序列与连续性公理以捕捉直觉主义连续统，但仅凭这些原则尚不足以恢复布劳威尔认为直觉主义上健全的那部分传统分析，例如「闭区间上每个连续实函数都一致连续」这一定理。为此，布劳威尔证明了所谓的棒定理（bar theorem）。这是一个经典上有效的陈述，但布劳威尔所给的证明被许多人视为根本不是证明，因为它使用了一个关于证明形式的假设，而对此未提供严格论证。这就是棒定理也被称为棒原则（bar principle）的原因。
+    step2: |-
+      布劳威尔引入选择序列与连续性公理，以捕捉直觉主义连续统；然而仅凭这些原则，尚不足以重获他所认可的传统分析中直觉主义上健全的部分——例如「闭区间上连续实函数皆一致连续」这一定理。为此，布劳威尔证明了所谓棒定理（bar theorem）。此陈述经典上有效，但其证明被不少人视为不成其为证明，因为它依赖一个关于证明形式的假设，而未给出严格论证。棒定理因此又称棒原则（bar principle）。
   - id: 81
     kind: body
     source: |-
