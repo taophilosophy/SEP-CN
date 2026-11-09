@@ -2,7 +2,7 @@
   "slug": "disability",
   "kind": "retranslate",
   "zh_doc": "d/disability.md",
-  "state": "s1_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,20 @@
       "actor": "D-main-20261109",
       "at": "2026-11-08T20:12:34Z",
       "evidence": "逐段回核源文（yuanwen/d/disability.md 全 410 行）实修 6 处：①rigidifies 技术术语误译「采取了僵硬立场」→「以刚性化（rigidify）回应」，并与前文「固化」用语统一；②漏译 false：「由未能意识到」→「由错误地未能意识到社会模型与交互模型的洞见所塑造」；③Amundson 正文「阿蒙森（Amundson 2000）」→保留英文，与 ren-ming-biao 已登记行（Ron Amundson，ADR-0022）归一；④Boorse 同词条两形混用「与 Boorse 站在一边」→「与伯尔斯站在一边」；⑤Buchanan/Brock/Daniels/Wikler 首现补英文括注（ADR-0022）；⑥文末 oir 行全角方括弧→半角（源为半角）。人名/术语登记：术语 15 行、人名 19 行（Foucault 既有行核对不重复）；相关词条 9 项中文名与 SUMMARY 逐条一致；check_style 0 issue、check_academic --strict 0 硬错误、check_all 7/7 全绿。s2 待办：check_prose 告警 83（long-sentence 38/de-chain 26/passive-bei 11/weak-verb 8）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "D-main-20261109",
+      "at": "2026-11-09T00:11:41Z",
+      "evidence": "二校（语言）：check_prose 告警 83→6，实修 77 处（逐处人工改写，未用批量替换）：弱动词 8→0、被动被字句 11→0、的连用 density 26→0、超长句 38→0（拆句不增删信息，脚注重挂点逐一复核）。余 6 条逐条豁免留痕（均 blockquote 照录）：行 184《最终版能力缺失理论》定义引文（Buchanan/Gregory 式单句定义，拆分即改写引文）、行 216 Tremain 2017:22 引文（原文 2 个「被」，拆分即改写）、行 228 Beaudry 2020:17 引文（long 2＋de-chain 2，同上）。复核：脚注定义键 76:76、引用多重集 129:129、H2/H3/H4 6:6/5:5/5:5 全等，marker 与数学 $ 计数不变；check_style 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "D-main-20261109",
+      "at": "2026-11-09T00:11:42Z",
+      "evidence": "三校（体例）：check_style 0 issue（引号/空格/bold-spacing/italic-cjk 全绿，CJK 强调一律加粗、拉丁斜体保留）、check_academic --strict 0 硬错误、check_terms 三表无新冲突（本条目新登术语 15＋人名 19 已入册）、markdownlint 与 check_all 7/7 全绿；相关词条 9 项中文名对 SUMMARY 逐条一致；文献区 references 现制（标题保留 References（引用注释）＋照录说明＋文末脚注定义 76 条）；学术工具 4 项与 oir 4 项链接齐备"
     }
   ],
   "blockers": [],
