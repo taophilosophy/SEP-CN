@@ -2,7 +2,7 @@
   "slug": "model-organisms",
   "kind": "retranslate",
   "zh_doc": "m/model-organisms.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,13 @@
       "actor": "M-main-20261109",
       "at": "2026-11-09T00:17:02Z",
       "evidence": "账本 104/104 段双版落盘（batch1-8，commit b0534ebb..本批），lq.py check 守恒通过（SOFT 均为机械段与斜体转书名号正常项）；compose --write 写回 m/model-organisms.md（48413 字符）；italic_to_bold_cjk 转 2 行 + 表格 CJK 斜体 11 处改粗；四检：check_style 0 issue、check_math 0 公式无缺失、check_summary H1 0 偏差、check_academic --strict 无硬错误。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "M-main-20261109",
+      "at": "2026-11-09T02:20:21Z",
+      "evidence": "s1 逐段核销（104/104）：①结构全等——脚注 marker 266/unique 108/defs 107、标题 25 与 yuanwen 逐项一致；②相关词条 7/7 对 SUMMARY 核对，compose NOTE 未匹配项 1 处手工修正（genetics: genotype/phenotype distinction → 基因型/表现型的区别，据 §6.5 陷阱2 规程）；③数字核销 script/mo_s1_numbers.py 逐段比对年份/百分比，唯一差异为源文自身笔误 In a 2106 news post（Lauer 2016 博文，引注年份 2016），已按零信任加译注保留痕迹；④拉丁词元核销，译文全部拉丁词元可回溯源文（DNN/LLM/CNN 单复数、impute 术语括注、zh 图片路径）；⑤笔误修正 2 处（至起码→起码）；四检全绿。"
     }
   ],
   "blockers": [],
