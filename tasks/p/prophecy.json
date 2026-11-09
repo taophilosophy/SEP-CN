@@ -2,7 +2,7 @@
   "slug": "prophecy",
   "kind": "retranslate",
   "zh_doc": "p/prophecy.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-09T10:54:01Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T11:54:26Z",
+      "evidence": "账本37段双版(parts/p1..p4); lq check HARD=0(SOFT: 机械段7+斜体转书名2); compose --write 16786字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T11:54:27Z",
+      "evidence": "脚注键55枚全等; 引注核销: 页码19组(Hasker194/195/58,Flint102/104,Normore373,Plantinga257,Wierenga440×2,Freddoso61,400-401,403×2,Ockham Predestination44×2,Boethius117)全等; 年代6组(Ockham1285-1347/Aquinas1225-1274/Boethius480-524/Molina1535-1600)全等; 圣经引证4组(Matt26:34/Jer18:7-10/John6:64/1Sam23:6-13+Matt11:20-24)核对; 相关词条1项手工修正(free will: divine foreknowledge and→预知与自由意志); 残留外文碎片0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T11:54:27Z",
+      "evidence": "check_prose 6告警实修清零(de-chain4/long2,豁免0); 波爱修斯引文按中文学术句法重排"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "P-main-20261109",
+      "at": "2026-11-09T11:54:28Z",
+      "evidence": "check_style --strict 0; markdownlint-cli2 0; check_math 0; check_academic --strict 0 硬错误"
     }
   ],
   "blockers": [],
