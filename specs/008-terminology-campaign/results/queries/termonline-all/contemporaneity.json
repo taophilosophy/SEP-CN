@@ -1,0 +1,47 @@
+{
+ "key": "contemporaneity",
+ "term": "contemporaneity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T15:50:01+00:00",
+ "status": "ok",
+ "note": "variant=contemporaneity; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "同生变形",
+   "en": "contemporaneous deformation",
+   "code": "05.330",
+   "standard": "地质学名词",
+   "subject": "地质学_岩石学"
+  },
+  {
+   "cn": "同生岩球构造",
+   "en": "contemporaneous pelletal structure",
+   "code": "04.03.023",
+   "standard": "地质学名词",
+   "subject": "地质学_火成岩岩石学_岩石结构、构造"
+  },
+  {
+   "cn": "同生变形构造",
+   "en": "contemporaneous deformation structure",
+   "code": "05.03.075",
+   "standard": "地质学名词",
+   "subject": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造"
+  },
+  {
+   "cn": "同生作用",
+   "en": "syngenesis,contemporaneous diagenesis",
+   "code": "05.236",
+   "standard": "地质学名词",
+   "subject": "地质学_岩石学"
+  },
+  {
+   "cn": "同生断层",
+   "en": "contemporaneous fault,synsedimentary fault,growth fault",
+   "code": "02.0084",
+   "standard": "石油名词",
+   "subject": "石油_油气地质勘探_含油气盆地构造"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
