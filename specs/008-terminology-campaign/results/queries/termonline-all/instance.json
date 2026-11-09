@@ -1,0 +1,348 @@
+{
+ "key": "instance",
+ "term": "instance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T23:35:30+00:00",
+ "status": "ok",
+ "note": "variant=instance; 审定公布名词库=705; 海峡两岸名词对照库=365; 其他来源数据库=95; 预公布名词数据库=120; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "实例",
+   "en": "instance",
+   "code": "06.0302",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "工作流实例",
+   "en": "workflow instance",
+   "code": "11.0164",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_信息系统与信息化"
+  },
+  {
+   "cn": "流程实例",
+   "en": "process instance",
+   "code": "11.0156",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_信息系统与信息化"
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "code": "01.465",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "基于示例的学习",
+   "en": "instance-based learning",
+   "code": "08.0230",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_机器学习"
+  },
+  {
+   "cn": "多示例学习",
+   "en": "multi-instance learning",
+   "code": "08.0227",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_机器学习"
+  },
+  {
+   "cn": "基于实例的定理证明",
+   "en": "instance-based theorem proving",
+   "code": "08.0072",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "保险",
+   "en": "insurance",
+   "code": "19.285",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业财政金融与保险"
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "code": "8.07",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_人际沟通_人际沟通类型"
+  },
+  {
+   "cn": "本能",
+   "en": "instinct",
+   "code": "2.036",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为医学基本理论_行为主义心理学理论"
+  },
+  {
+   "cn": "本能",
+   "en": "instinct",
+   "code": "1.0263",
+   "standard": "动物学名词",
+   "subject": "动物学_总论"
+  },
+  {
+   "cn": "本能",
+   "en": "instinct",
+   "code": "03.651",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "实例",
+   "en": "instance",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "例图",
+   "en": "instance",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "基于实例[的]学习",
+   "en": "instance-based learning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "恒有度",
+   "en": "constance",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "保险",
+   "en": "insurance",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "本能",
+   "en": "instinct",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "恒有度",
+   "en": "constance",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "本能",
+   "en": "instinct",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "本能",
+   "en": "instinct",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "间断传播",
+   "en": "distance dispersal\",\"distance dispersion",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "斜距",
+   "en": "slope distance\",\"slant distance",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "副本",
+   "en": "Instance dungeon",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "比赛距离",
+   "en": "distance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "时刻",
+   "en": "instant",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "站姿",
+   "en": "seogi\",\"stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "姿势",
+   "en": "position\",\"posture\",\"stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "长跑运动员",
+   "en": "distance man\",\"long-distance runner",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "马步",
+   "en": "horse stance\",\"riding stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "距离模数",
+   "en": "Distance modulus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "汉明距离",
+   "en": "Hamming distance",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "距离比例",
+   "en": "distance scale",
+   "code": "6.2.26.8.10.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "code": "6.2.1.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射防护方法"
+  },
+  {
+   "cn": "社会本能",
+   "en": "social instinct",
+   "code": "2.1.3.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "code": "2.3.2.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会角色"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "code": "2.4.1.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念社会互动"
+  },
+  {
+   "cn": "社会保险",
+   "en": "social insurance",
+   "code": "3.18.2.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_社会保险"
+  },
+  {
+   "cn": "养老保险",
+   "en": "endowment insurance",
+   "code": "3.18.3.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_养老保险"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "health insurance",
+   "code": "3.18.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_医疗保险"
+  },
+  {
+   "cn": "失业保险",
+   "en": "unemployment insurance",
+   "code": "3.18.5.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_失业保险"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "code": "3.18.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "code": "4.1.13.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会关系"
+  },
+  {
+   "cn": "社会距离",
+   "en": "social distance",
+   "code": "4.1.18.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_领导"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

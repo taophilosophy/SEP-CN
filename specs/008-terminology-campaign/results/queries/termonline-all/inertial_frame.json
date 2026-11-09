@@ -1,0 +1,348 @@
+{
+ "key": "inertial frame",
+ "term": "inertial frame",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T23:24:59+00:00",
+ "status": "ok",
+ "note": "variant=inertial frame; 审定公布名词库=1269; 海峡两岸名词对照库=367; 其他来源数据库=30; 预公布名词数据库=14; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "惯性参考系",
+   "en": "inertial frame",
+   "code": "02.0099",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "非惯性参考系",
+   "en": "non-inertial frame",
+   "code": "02.0100",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "惯性基准坐标系",
+   "en": "inertial reference frame",
+   "code": "05.050",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天控制与导航"
+  },
+  {
+   "cn": "惯性参考坐标系",
+   "en": "inertial reference frame",
+   "code": "08.102",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶通信导航"
+  },
+  {
+   "cn": "惯性[参考]系",
+   "en": "inertial [reference] frame,inertial [reference] system",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_力学通类"
+  },
+  {
+   "cn": "非惯性系",
+   "en": "non-inertial system,non-inertial reference frame",
+   "code": "02.0444",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "框架",
+   "en": "frame",
+   "code": "6.195",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_模式与方法"
+  },
+  {
+   "cn": "筛框",
+   "en": "frame",
+   "code": "07.1063",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_筛网"
+  },
+  {
+   "cn": "巢框",
+   "en": "frame",
+   "code": "09.121",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_养蜂_蜜蜂饲养管理"
+  },
+  {
+   "cn": "帧",
+   "en": "frame",
+   "code": "03.0490",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_显像技术"
+  },
+  {
+   "cn": "帧",
+   "en": "frame",
+   "code": "11.0767",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "机架",
+   "en": "frame",
+   "code": "24.0289",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_固定件及外部罩盖"
+  },
+  {
+   "cn": "惯性参考系",
+   "en": "inertial reference frame",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "惯性流",
+   "en": "inertial current\",\"inertial flow",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "框架",
+   "en": "frame",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "框",
+   "en": "frame",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "框",
+   "en": "frame",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "帧",
+   "en": "frame",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "机架",
+   "en": "frame",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "肋骨",
+   "en": "frame",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "肋骨",
+   "en": "frame",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "骨架",
+   "en": "framing",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "惯性波",
+   "en": "inertial wave",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "惯性不稳定",
+   "en": "inertial instability",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "靶架",
+   "en": "frame",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "拍框",
+   "en": "frame",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "靶架",
+   "en": "frame",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "拍框",
+   "en": "frame",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "车架",
+   "en": "frame",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "肋骨",
+   "en": "frame",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "肋骨",
+   "en": "frame\",\"rib",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "支架",
+   "en": "frame\",\"framework",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "帧率",
+   "en": "frame rate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "框架语义学",
+   "en": "frame semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "帧",
+   "en": "frame synchronization",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "车架号码",
+   "en": "frame number",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "抽样框",
+   "en": "sampling frame",
+   "code": "1.2.5.45",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "井干式建筑",
+   "en": "well-frame dwelling",
+   "code": "4.0136",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "社会惰性",
+   "en": "social inertia",
+   "code": "2.1.4.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会现象"
+  },
+  {
+   "cn": "初始辐射",
+   "en": "initial radiation",
+   "code": "6.2.2.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计"
+  },
+  {
+   "cn": "初始阶段",
+   "en": "initial phase",
+   "code": "7.2.2.11.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "始动调节",
+   "en": "initial regulation",
+   "code": "8.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征"
+  },
+  {
+   "cn": "近期效应",
+   "en": "initial effect",
+   "code": "8.8.10",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_辐射防护基础"
+  },
+  {
+   "cn": "成名动机",
+   "en": "motivation for fame",
+   "code": "3.10.3.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学家的社会角色"
+  },
+  {
+   "cn": "初始菌量",
+   "en": "initial bacteria amount",
+   "code": "6.2.15",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "初始污染菌量",
+   "en": "initial amount of contaminated bacteria",
+   "code": "3.1.12.15",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "早期核辐射损伤",
+   "en": "injury due to initial nuclear radiation",
+   "code": "7.1.3.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应"
+  },
+  {
+   "cn": "核爆炸早期核辐射",
+   "en": "initial nuclear radiation of nuclear explosion",
+   "code": "8.1.53",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核武器"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
