@@ -386,82 +386,112 @@ segments:
     kind: body
     source: |-
       A desire to give what others expect one to give (or not to give).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种想给出别人期待自己给出（或不给出）的东西的愿望。
+    step2: |-
+      想给出别人期待自己给出的那一份（或者干脆不给）。
   - id: 41
     kind: body
     source: |-
       (for an overview, see Dana et al. 2006: 194–195, 200; Dana et al. 2007: 68–69, 78)[^dana-2006][^dana-2007]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （概览见 Dana et al. 2006: 194–195, 200; Dana et al. 2007: 68–69, 78）[^dana-2006][^dana-2007]
+    step2: |-
+      （概览见 Dana et al. 2006: 194–195、200；Dana et al. 2007: 68–69、78）[^dana-2006][^dana-2007]
   - id: 42
     kind: body
     source: |-
       For what it’s worth, my view is that it is unlikely any one of the proposed motives in the ultimatum and dictator literatures is going to be sufficient by itself to explain the observed patterns of behavior. Nor, to be fair, are they usually intended by researchers to be sufficient either. Rather, motives concerned with good (monetary) outcomes for the self are no doubt part of the story. But so too are motives concerned with fairness. And so too are one or more additional egoistic motives, such as not wanting to appear selfish. Even altruistic motives can play a role in some cases (Zhao et al. 2016; García-Gallego et al. 2019; Umer et al. 2022; Livingston and Rasulmukhamedov 2023)[^garcía-gallego-2019][^livingston-2023][^umer-2022][^zhao-2016]. A complex, multi-motive model is what is needed going forward (see also Forsythe et al. 1994: 362; Roth 1995; Güth 1995; Kagel et al. 1996: 102; Pillutla and Murnighan 2003: 254; Dana et al. 2006: 195; Dana et al. 2007: 78; Murnighan and Wang 2016: 87; García-Gallego et al. 2019: 8; Ye et al. 2022)[^dana-2006][^dana-2007][^forsythe-1994][^garcía-gallego-2019][^güth-1995][^kagel-1996][^murnighan-2016][^pillutla-2003][^roth-1995].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就我个人而言，我认为最后通牒与独裁者文献中提出的任何单一动机，都不大可能独自充分解释所观察到的行为模式。说句公道话，研究者通常也并不打算让它们单独充分。更确切地说，关切自身良好（金钱）结果的动机无疑是故事的一部分；但关切公平的动机同样如此；此外还有一两种别的利己动机，比如不想显得自私。在某些情况下，利他动机也能起作用（Zhao et al. 2016; García-Gallego et al. 2019; Umer et al. 2022; Livingston and Rasulmukhamedov 2023）[^garcía-gallego-2019][^livingston-2023][^umer-2022][^zhao-2016]。往前走，需要的是一个复杂的多动机模型（另见 Forsythe et al. 1994: 362; Roth 1995; Güth 1995; Kagel et al. 1996: 102; Pillutla and Murnighan 2003: 254; Dana et al. 2006: 195; Dana et al. 2007: 78; Murnighan and Wang 2016: 87; García-Gallego et al. 2019: 8; Ye et al. 2022）[^dana-2006][^dana-2007][^forsythe-1994][^garcía-gallego-2019][^güth-1995][^kagel-1996][^murnighan-2016][^pillutla-2003][^roth-1995]。
+    step2: |-
+      依我之见，最后通牒与独裁者两支文献提出的任一动机，恐怕都难以单独充分解释观察到的行为模式。平心而论，研究者通常也不指望它们单独够用。更可能的情形是：关心自身（金钱）好处的动机无疑是故事的一部分，关心公平的动机同样是；此外还有一两种别的利己动机，比如不想显得自私。某些情况下，甚至利他动机也能起作用（Zhao et al. 2016; García-Gallego et al. 2019; Umer et al. 2022; Livingston and Rasulmukhamedov 2023）[^garcía-gallego-2019][^livingston-2023][^umer-2022][^zhao-2016]。往前走，需要的是一个复杂的多动机模型（另见 Forsythe et al. 1994: 362; Roth 1995; Güth 1995; Kagel et al. 1996: 102; Pillutla and Murnighan 2003: 254; Dana et al. 2006: 195; Dana et al. 2007: 78; Murnighan and Wang 2016: 87; García-Gallego et al. 2019: 8; Ye et al. 2022）[^dana-2006][^dana-2007][^forsythe-1994][^garcía-gallego-2019][^güth-1995][^kagel-1996][^murnighan-2016][^pillutla-2003][^roth-1995]。
   - id: 43
     kind: body
     source: |-
       An important recent paper by Li and colleagues (2022) makes a powerful empirical case for such a multi-motive model. While not employing a pure dictator approach, the researchers develop a related game which is also designed to better understand the moral psychology of wealth distribution. In their redistribution game, the participant does not receive any money themselves, but they have to redistribute an initial distribution already made to two strangers. To take Li’s own example, suppose initially Person A received ¥15 and Person B ¥3. Then in the first condition of the study, some participants have to choose between two redistributions which would promote greater equality, but one more than the other (so, e.g., the first might be ¥14 and ¥4, and the second ¥10 and ¥8). For participants in the Rank-reversal condition, on the other hand, everything is the same except the second offer is reversed (so in the example, Person A would receive ¥8 and Person B ¥10). One goal was to experimentally disentangle the potential role of three different motives: inequality aversion, harm aversion, and rank reversal aversion. And indeed, it turned out that all three motives seemed to make a difference. For instance, the probability of choosing the offer that would lead to greater equality was lower when it would involve reversing the ranking of Person A and B, so that now B would receive more. And Li found that “[i]mportantly, participants also chose the more equal offer less frequently when it entailed larger transfers of money from the advantaged to the disadvantaged party, showing that harm aversion also affected choices on top of rank reversal aversion” (Li et al. 2022: 3). Using fMRI approaches, they were even able to shed light on the neural mechanisms responsible for the different motives.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Li 及其同事（2022）的一篇重要近作，为这种多动机模型提供了有力的经验论据。研究者没有采用纯粹的独裁者进路，而是设计了一个相关的博弈，同样旨在更好地理解财富分配的道德心理学。在他们的再分配博弈中，参与者自己拿不到钱，但必须对已给两名陌生人的初始分配进行再分配。以 Li 自己的例子来说，假设初始时 A 得到 15 元、B 得到 3 元。在研究的第一组条件下，一些参与者须在两个会促进更大平等的再分配之间选择，但一个比另一个更平等（例如，第一个可能是 14 元与 4 元，第二个是 10 元与 8 元）。另一方面，对“地位逆转”条件下的参与者，一切相同，只是第二个方案被颠倒过来（于是在上例中，A 会得到 8 元、B 会得到 10 元）。目标之一是用实验厘清三种不同动机各自的潜在作用：不平等厌恶、伤害厌恶与地位逆转厌恶。结果确实如此：三种动机似乎都有影响。例如，当选择更平等的方案会颠倒 A 与 B 的地位、使 B 得到更多时，选择该方案的概率更低。Li 发现：“重要的是，当更平等的方案意味着从优势方到劣势方的更大数额转移时，参与者选择该方案的频率也更低，这表明伤害厌恶在地位逆转厌恶之外也影响了选择”（Li et al. 2022: 3）。借助 fMRI 手段，他们甚至阐明了不同动机背后的神经机制。
+    step2: |-
+      Li 及其同事（2022）的一篇重要近作为这种多动机模型提供了有力的经验证据。研究者没有走纯粹的独裁者路子，而是设计了一个相关博弈，同样是为了更好地理解财富分配的道德心理学。在这个再分配博弈里，参与者自己分不到钱，却要对一笔已经分给两名陌生人的钱做再分配。用 Li 自己的例子：假设起初 A 得 15 元、B 得 3 元。研究的第一组条件中，参与者要在两个都能提高平等程度的再分配方案之间选择，但一个更平等（例如第一个是 14 元与 4 元，第二个是 10 元与 8 元）。而在“地位逆转”条件下的参与者，一切相同，只是第二个方案被颠倒（于是上例中 A 得 8 元、B 得 10 元）。研究目标之一，是用实验厘清三种动机各自的潜在作用：不平等厌恶、伤害厌恶、地位逆转厌恶。结果确实如此：三种动机似乎都起了作用。例如，若更平等的方案会颠倒 A、B 的地位、让 B 拿得更多，那么选择它的概率就更低。Li 发现：“重要的是，当更平等的方案意味着从优势方到劣势方的转移金额更大时，参与者选择该方案的频率也更低，这说明伤害厌恶也在地位逆转厌恶之外影响了选择”（Li et al. 2022: 3）。借助 fMRI 手段，他们还进一步揭示了不同动机背后的神经机制。
   - id: 44
     kind: body
     source: |-
       Let me end this section with two cautionary notes about this larger body of research. The first is that for many years experiments using both dictator and ultimatum games relied heavily on student participants, and were conducted largely in Western, developed countries. But of course caution (and empirical testing) are needed before drawing any conclusion about what people are like worldwide. Some recent work has indeed suggested that there is significant cross-cultural variation in the moral psychologies of participants playing these games. For instance, one meta-analysis of dictator games found that participants in lower-income countries make higher allocations to their partners (Umer et al. 2022; see also Engel 2011)[^engel-2011][^umer-2022]. Similarly, Cochard and his colleagues (2021) ran a meta-analysis of 144 dictator game experiments, and using a multi-faceted measure of economic development, they found that the development of a country was inversely proportional to donation amount. However, when they turned to 96 ultimatum experiments, there was no effect found for economic development. It is worth noting that they take this finding to be trouble for the fairness hypothesis as an explanation for allocation decisions in the two kinds of games, since on their view the hypothesis would require there to be no difference in distributions between the games (Cochard et al. 2021: 2)[^cochard-2021]. Fairer people in general were found to live in less developed countries.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      让我以两条告诫结束本节，它们针对这一较大的研究体量。第一，多年来，独裁者与最后通牒博弈的实验严重依赖学生参与者，并且主要在西方发达国家进行。当然，在就全世界的人是什么样下任何结论之前，都需要谨慎（以及经验检验）。近期一些研究确实提示，参与这些博弈者的道德心理学存在显著的跨文化差异。例如，一项独裁者博弈的元分析发现，低收入国家的参与者给伙伴的分配更高（Umer et al. 2022; 另见 Engel 2011）[^engel-2011][^umer-2022]。类似地，Cochard 及其同事（2021）对 144 项独裁者博弈实验做了元分析，用多方面的经济发展指标衡量，发现一国的发达程度与捐赠金额成反比。然而，当他们转向 96 项最后通牒实验时，经济发展并未产生效应。值得注意的是，他们把这视为公平假说解释两类博弈中分配决策的麻烦：在他们看来，该假说要求两类博弈的分配没有差异（Cochard et al. 2021: 2）[^cochard-2021]。总体而言，更公平的人被发现生活在欠发达国家。
+    step2: |-
+      本节最后提两条告诫，针对的是这一较大的研究体量。第一，多年来独裁者与最后通牒两类实验都严重依赖学生被试，且多在西方发达国家开展。可是，要对“全世界的人是什么样”下结论，当然需要谨慎（也需要经验检验）。近期确有一些研究提示，玩这类博弈的人，其道德心理学存在显著的跨文化差异。例如，一项独裁者博弈元分析发现，低收入国家的参与者分给伙伴的金额更高（Umer et al. 2022；另见 Engel 2011）[^engel-2011][^umer-2022]。类似地，Cochard 及其同事（2021）对 144 项独裁者博弈实验做了元分析，采用多维的经济发展度量，发现一国的发展程度与捐赠金额成反比。可当他们转向 96 项最后通牒实验时，经济发展却没有效应。值得注意的是，他们认为这一发现给公平假说带来了麻烦——按他们的理解，若公平假说成立，两类博弈的分配就不该有差异（Cochard et al. 2021: 2）[^cochard-2021]。总的说来，更公平的人反倒生活在欠发达国家。
   - id: 45
     kind: body
     source: |-
       The second cautious note is that there have been some doubts raised about the external validity of dictator games, or the extent to which the results generated in these lab studies carry over to non-artificial or natural settings. For instance, Jeffrey Winking and Nicholas Mizer (2013) had a confederate approach an individual at a bus stop in Las Vegas, and “pretended to notice chips in his pocket, stopped briefly and claimed to the participant that he was late for a ride to the airport and asked the individual if he/she wanted the casino chips, which he did not have time to cash in,” and which were worth $20 (2013: 290). Ten feet away with his back turned to the participant was another confederate. The confederate with the chips would also add, “I don’t know, you can split it with that guy however you want” while pointing towards the second confederate (2013: 290). However, in stark contrast to the results earlier, here every single participant kept all $20 for themselves (2013: 291). Several writers have claimed that external validity might be limited because the laboratory results for dictator games could be heavily influenced by experimenter demand effects (Zizzo 2010, 2013, Winking and Mizer 2013)[^winking-2013][^zizzo-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二条告诫是：有人对独裁者博弈的外部效度提出质疑，即这些实验室研究产生的结果能在多大程度上推及非人工或自然情境。例如，Jeffrey Winking 与 Nicholas Mizer（2013）让一名实验同谋在拉斯维加斯一处公交站走近某个人，“假装注意到自己口袋里的筹码，略作停留，对参与者说自己赶着去机场搭车，问他/她是否想要这些赌场筹码，自己没时间去兑现”，这些筹码价值 20 美元（2013: 290）。十英尺之外，另一名同谋背对参与者站着。拿筹码的同谋还会指着第二名同谋补一句：“我无所谓，你可以随便跟那人分”（2013: 290）。然而，与先前的结果形成鲜明对照，这里每一位参与者都把全部 20 美元留给了自己（2013: 291）。若干论者主张，外部效度可能有限，因为独裁者博弈的实验室结果可能深受实验者需求效应的影响（Zizzo 2010, 2013, Winking and Mizer 2013）[^winking-2013][^zizzo-2010]。
+    step2: |-
+      第二条告诫是：有人怀疑独裁者博弈的外部效度，也就是这类实验室研究的结果究竟能在多大程度上推及非人工的、自然的情境。例如，Jeffrey Winking 与 Nicholas Mizer（2013）安排一名实验同谋在拉斯维加斯的一处公交站走近某人，“假装发现口袋里还有筹码，稍停片刻，对参与者说自己赶着去机场搭车，问对方要不要这些赌场筹码，他来不及去兑现了”，筹码价值 20 美元（2013: 290）。十英尺开外，另一名同谋背对着参与者站着。拿筹码的同谋还指着第二名同谋补了一句：“我无所谓，你想怎么跟他分都行”（2013: 290）。然而，与前面的结果形成鲜明反差：这里每一位参与者都把 20 美元全部留给了自己（2013: 291）。不少论者因此主张，外部效度可能有限，原因是独裁者博弈的实验室结果很可能深受实验者需求效应左右（Zizzo 2010, 2013, Winking and Mizer 2013）[^winking-2013][^zizzo-2010]。
   - id: 46
     kind: body
     source: |-
       ## 3. Batson’s Modified Dictator Game and Moral Hypocrisy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 Batson 的修改版独裁者博弈与道德伪善
+    step2: |-
+      ## 3 Batson 的修改版独裁者博弈与道德伪善
   - id: 47
     kind: body
     source: |-
       For the past twenty years, the psychologist Daniel Batson and his colleagues have developed a novel experimental approach which closely resembles the dictator game. Because this approach has been explored using a number of interesting modifications by the same researcher in the course of constructing a sophisticated motivational story about resource allocation, and because his findings have attracted a great deal of interest and attention, it is worth delving into them in some detail (For the studies, see Batson et al. 1997, 1999, 2002, 2003. For reviews, see Batson and Thompson 2001 and Batson 2008. For related studies and discussion, see Valdesolo and DeSteno 2007, 2008 and Watson and Sheikh 2008. For Batson’s exploration of the implications of this research for moral psychology, see Batson 2015.).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      过去二十年，心理学家 Daniel Batson 及其同事发展出一种与独裁者博弈十分相似的新颖实验进路。由于这位研究者在构建关于资源配置的精致动机故事的过程中，用许多有趣的修改探索了这一进路，也由于他的发现引起了大量兴趣与关注，值得较详细地深入探讨（研究见 Batson et al. 1997, 1999, 2002, 2003。综述见 Batson and Thompson 2001 与 Batson 2008。相关研究与讨论见 Valdesolo and DeSteno 2007, 2008 与 Watson and Sheikh 2008。Batson 关于这一研究对道德心理学之意义的探讨，见 Batson 2015。）。
+    step2: |-
+      过去二十年里，心理学家 Daniel Batson 及其同事发展出一套与独裁者博弈十分相似的新颖实验进路。这位研究者在构建关于资源配置的精致动机故事的过程中，用一系列有趣的变式打磨了这套进路；他的发现也引来大量兴趣与关注，因此值得稍作细究（各项研究见 Batson et al. 1997, 1999, 2002, 2003；综述见 Batson and Thompson 2001、Batson 2008；相关研究与讨论见 Valdesolo and DeSteno 2007, 2008、Watson and Sheikh 2008；Batson 本人就此项研究对道德心理学的意义所作的探讨见 Batson 2015。）。
   - id: 48
     kind: body
     source: |-
       Here is the setup Batson typically used. Participants were told that they were part of a task assignment study. Individually, they were given the choice of whether to assign a positive consequences task or a neutral consequences task to either themselves or another participant, who (they were told) would simply assume the assignment was made by chance. The positive consequences task was such that for each correct response, the participant would receive one ticket for a raffle with a prize of $30 at the store of his or her choice. In the neutral consequences task, there would be no consequences for correct or incorrect responses but, “most participants assigned to the neutral consequences task find it rather dull and boring” (Batson et al. 1997: 1339)[^batson-1997]. After making the assignment privately and anonymously, participants were asked about what was the morally right way to assign the task consequences, and to rate on a 9-point scale whether they thought the way they had actually made the task assignment was morally right.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以下是 Batson 通常采用的设定。参与者被告知，他们参与一项任务分配研究。他们各自单独选择：把一项“正面后果”任务或一项“中性后果”任务分配给自己或另一名参与者——他们被告知，对方会以为这项分配纯属随机。正面后果任务是这样的：每答对一题，参与者就获得一张抽奖券，奖品是在他或她自选的商店价值 30 美元的奖品。在中性后果任务中，答对答错都没有后果，但“被分配到中性后果任务的大多数参与者都觉得它相当枯燥无聊”（Batson et al. 1997: 1339）[^batson-1997]。在私下匿名做出分配之后，参与者被问及：分配任务后果在道德上正确的做法是什么？并在 9 点量表上评价自己实际做出分配的方式在道德上是否正确。
+    step2: |-
+      Batson 通常用的设定如下。参与者被告知自己参加的是“任务分配研究”。他们各自单独作选择：把一项正面后果任务或一项中性后果任务分给自己，还是分给另一名参与者——对方会以为分配纯属随机（他们这样被告知）。正面后果任务是：每答对一题，参与者就得到一张抽奖券，凭券可在自选商店兑换价值 30 美元的奖品。中性后果任务则答对答错都无后果，不过“分到中性后果任务的大多数参与者都觉得这活儿相当枯燥”（Batson et al. 1997: 1339）[^batson-1997]。分配在私密、匿名的情况下完成后，参与者被问到：分配任务后果在道德上的正确做法是什么？并用 9 点量表评价自己实际做出的分配在道德上是否正确。
   - id: 49
     kind: body
     source: |-
       We can see that one of the differences between Batson’s setup and a typical dictator game is that here the recipient would not know where the allocation came from, nor that there was another possible allocation that could have been made to him instead. Now such information is not an essential feature of dictator games; in fact we just saw a similar setup in one of Dana’s studies. But in the usual configuration dictators typically know that recipients will know how they received their allocation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以看到，Batson 的设定与典型的独裁者博弈有一处不同：这里的受赠者不会知道分配从何而来，也不知道本可以有另一种分给他自己的分配方案。这类信息并不是独裁者博弈的本质特征；事实上，我们刚刚在 Dana 的一项研究中看到过类似设定。但在通常的配置中，独裁者一般知道，受赠者会知道自己是如何得到分配的。
+    step2: |-
+      可以看出，Batson 的设定与典型独裁者博弈有一处差别：这里受赠者既不知道分配从何而来，也不知道本来还可以有另一种分法。这类信息本不是独裁者博弈的本质特征——事实上，刚才 Dana 的一项研究就是类似设定。只是在通常的配置里，独裁者一般清楚：受赠者会知道自己这份钱是怎么来的。
   - id: 50
     kind: body
     source: |-
       What ends up happening when participants are placed into this situation? Well, they tend to assign themselves the positive task. Out of twenty participants, Batson found (Batson et al. 1997: 1340)[^batson-1997]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当参与者被置于这种情境时，最终会怎样？嗯，他们倾向于把正面任务分给自己。在二十名参与者中，Batson 发现（Batson et al. 1997: 1340）[^batson-1997]：
+    step2: |-
+      参与者进入这种情境后会怎样？他们往往把正面任务分给自己。二十名参与者中，Batson 发现（Batson et al. 1997: 1340）[^batson-1997]：
   - id: 51
     kind: body
     source: |-
       | Assigned self to positive consequences task | 16 |
       | --- | --- |
       | Assigned other to positive consequences task | 4 |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 把正面后果任务分给自己 | 16 |
+      | --- | --- |
+      | 把正面后果任务分给别人 | 4 |
+    step2: |-
+      | 把正面后果任务分给自己 | 16 |
+      | --- | --- |
+      | 把正面后果任务分给别人 | 4 |
   - id: 52
     kind: body
     source: |-
       Furthermore, only 1 out of the 16 said that assigning oneself to the positive task was morally correct. Yet even these 16 participants rated the morality of their assignment in the middle of the 9-point scale (4.38), which was significantly lower than the 8.25 rating for the 4 participants who assigned the other participant to the positive consequences task (Batson et al. 1997: 1340)[^batson-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，16 人中只有 1 人认为自己把正面任务分给自己在道德上是正确的。然而，即便这 16 名参与者，对自己分配的道德性评分也只在 9 点量表的中段（4.38），显著低于把正面后果任务分给他人的那 4 名参与者的 8.25 分（Batson et al. 1997: 1340）[^batson-1997]。
+    step2: |-
+      而且，16 人里只有 1 人承认把正面任务分给自己在道德上正确。可即便这 16 人，对自己所做分配的道德评价也只落在 9 点量表的中段（4.38），显著低于把正面任务分给他人的那 4 人（8.25）（Batson et al. 1997: 1340）[^batson-1997]。
   - id: 53
     kind: body
     source: |-
