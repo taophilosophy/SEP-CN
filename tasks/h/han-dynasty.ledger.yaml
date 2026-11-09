@@ -11,104 +11,138 @@ segments:
     kind: body
     source: |-
       Philosophy in early China underwent a major transformation after the beginning of empire in the late third century BCE. These were the years of the Han Dynasty, in its two parts, the Western Han (206 BCE–9 CE) and Eastern Han (25–220 CE). Some of the main trends, ideas, and thinkers of the more than 400 years of the Han period are discussed in this article. Some of the particularly prominent features of Han philosophy in comparison with that of earlier periods are: increased focus on metaphysics , the prominence of syncretism, new views on language, the rise of naturalism, and debates about methodology. In addition, many of the ideas we associate with Pre-Qin philosophy were developed most fully in the Han. Retrospective interpretation in later years, including during the Han itself, led to our association of some of these ideas with earlier texts and traditions. Many of the “early”, pre-Han Chinese texts were actually compiled or created during the Han (see Hunter 2018; Klein 2010)[^hunter-2018][^klein-2010]. Even the “school” categories that we often use to classify texts and thinkers from periods prior to the Han, such as “Confucianism” (*rujia* 儒家), “Daoism” (*daojia* 道家), Legalism (*fajia* 法家), and so on, were actually Han period creations. It is no exaggeration to say that the Chinese philosophical tradition was founded *as such* during the Han.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早期中国哲学在公元前三世纪末帝国建立之后经历了重大转变。这些岁月属于汉代，它分为两部分：西汉（公元前 206–9 年）与东汉（25–220 年）。本文讨论汉代四百多年间的一些主要趋势、观念与思想家。与更早时期相比，汉代哲学尤其显著的几个特征是：对形而上学的关注增加，折中主义的突出，关于语言的新观点，自然主义的兴起，以及围绕方法论的争论。此外，我们常与先秦哲学相联系的许多观念，其实是在汉代才得到最充分发展的。后来的追溯性解释，包括汉代本身的解释，使我们把其中某些观念与更早的文本和传统联系了起来。许多“早期”的、汉代以前的中国文本，实际上是在汉代编纂或创作出来的（见 Hunter 2018; Klein 2010）[^hunter-2018][^klein-2010]。甚至我们常用来给汉代以前的文本和思想家分类的“学派”范畴，如“儒家”（*rujia* 儒家）、“道家”（*daojia* 道家）、“法家”（*fajia* 法家）等等，实际上都是汉代人的创造。毫不夸张地说，中国哲学传统正是在汉代才*作为这样一种传统*被创立起来的。
+    step2: |-
+      早期中国哲学在公元前三世纪末帝国建立后经历了一场重大转变：这就是汉代的岁月。汉朝分两段——西汉（公元前 206–9 年）与东汉（25–220 年）。本文讨论汉代四百多年间的主要趋势、观念与思想家。与更早的时期相比，汉代哲学有几个特征格外突出：对形而上学的关注增强、折中主义盛行、关于语言的新观点涌现、自然主义兴起，以及围绕方法论的争论。此外，我们习惯归给先秦哲学的许多观念，其实要到汉代才发展得最充分。在后世的追溯性解释中——包括汉代人自己的解释——这些观念才逐渐与更早的文本和传统挂上了钩。不少“早期”的、汉代以前的中国文本，实际上是在汉代编纂或写定的（见 Hunter 2018; Klein 2010）[^hunter-2018][^klein-2010]。就连我们给汉代以前的文本和思想家分类时常用的“学派”范畴——“儒家”（*rujia* 儒家）、“道家”（*daojia* 道家）、“法家”（*fajia* 法家）等——也是汉代人的创造。毫不夸张地说，中国哲学传统正是在汉代才 **作为一种传统本身** 被创立起来的。
   - id: 2
     kind: body
     source: |-
       ## 1. Background
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 背景
+    step2: |-
+      ## 1 背景
   - id: 3
     kind: body
     source: |-
       Much of the most prominent philosophy in the Han period in China was closely associated with the state. Philosophical discussions and texts were commissioned by state or imperial representatives and organizations, to help resolve problems or guide political action. By the Han, there had long been a tradition of philosophy associated with advisors to the state. Many of the most well-known philosophers in earlier periods had been political advisors, with some notable exceptions such as the “Dao-tradition” figures represented in texts such as the late Warring States Period (475–221 BCE) text *Zhuangzi*. While prior to the Han, we find a variety of philosophical “schools” associated with different states and individuals (as there was no imperial structure), many (but not all) of the surviving philosophical texts from the Han are associated in some way with the Han state. Some well-known examples of philosophy closely linked to Han imperial concerns and issues are the treatises of the early Han advisors Lu Jia (240–170 BCE) and Jia Yi (200–169 BCE), the *Huainanzi*, commissioned by Liu An (179–122 BCE), the vassal ruler of the Huainan state and uncle of Emperor Wu of Han (156–87 BCE), the *Yantielun* (“Salt and Iron Discourses”), the account by Huan Kuan of a series of discussions organized by Emperor Zhao of Han concerning state production of goods, and the *Baihutong*, recounting a similar group of imperially sanctioned discussions. It is not quite right, however, to say that in the Han, philosophy becomes the purview of the state. Religion, divination, medicine, and other areas of thought all contained a great deal of philosophical content. And as we will see, philosophical discussions in the later part of the Han were increasingly independent of the state.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      汉代中国最显赫的哲学，很大一部分与国家密切相关。哲学讨论与文本由国家或帝国的代表和组织委托，以帮助解决问题或指导政治行动。到汉代时，与国家顾问相关的哲学传统早已长期存在。更早时期许多最著名的哲学家都曾是政治顾问，也有一些显著的例外，如晚周（公元前 475–221 年）文本《庄子》所代表的“道传统”人物。虽然在汉代以前，我们看到各种与不同国家和个人相关的哲学“学派”（因为当时没有帝国结构），但汉代留存下来的哲学文本中，许多（但并非全部）都以某种方式与汉朝国家相关。与汉帝国关切和问题密切相关的哲学，有一些著名例子：早期汉朝顾问陆贾（公元前 240–170 年）与贾谊（公元前 200–169 年）的论著；由淮南国诸侯王、汉武帝（公元前 156–87 年）的叔父刘安（公元前 179–122 年）委托编纂的《淮南子》；桓宽记录汉昭帝围绕国家商品生产所组织的一系列讨论的《盐铁论》；以及记述另一组类似由朝廷批准之讨论的《白虎通》。然而，说汉代哲学成为国家的专属领域并不完全正确。宗教、占卜、医学及其他思想领域都包含大量哲学内容。而且我们将会看到，汉代后期的哲学讨论越来越独立于国家。
+    step2: |-
+      汉代中国最显赫的哲学，大多与国家密切相关。国家或皇室的代表与机构会委托撰写哲学讨论和文本，用来解决现实问题或指导政治行动。到了汉代，与治国顾问联系在一起的哲学传统已存在很长时间。更早时期许多最著名的哲学家本身就是政治顾问；当然也有显著的例外，比如晚周（公元前 475–221 年）文本《庄子》所代表的那批“道传统”人物。汉代以前没有帝国结构，哲学“学派”林立，各与不同的国家和个人相关；相比之下，汉代留存下来的哲学文本中，许多（并非全部）都以某种方式与汉朝国家相关。这方面著名的例子有：汉初顾问陆贾（公元前 240–170 年）与贾谊（公元前 200–169 年）的论著；淮南国诸侯王、汉武帝（公元前 156–87 年）的叔父刘安（公元前 179–122 年）主持编纂的《淮南子》；桓宽记录的《盐铁论》——汉昭帝就国家经营商品生产组织了一系列讨论，此书即为记录；以及《白虎通》——记述了另一组同样经朝廷认可的讨论。不过，若说哲学在汉代成了国家的专属领域，并不完全准确。宗教、占卜、医学以及其他思想领域，都含有大量哲学内容。下文将会看到，汉代后期的哲学讨论越来越独立于国家。
   - id: 4
     kind: body
     source: |-
       In the Han we also find the origins of the commentarial tradition on philosophical texts. There was already an established commentarial tradition by the time of the Han on the historical and ritual texts known as the *Five Classics*. The commentarial tradition on the ancient historical text *Chunqiu*, in particular, became central in the early Han. A new commentarial tradition developed in the Han, however, connected to philosophical texts such as the *Analects*, *Daodejing*, *Zhuangzi*, and others. The commentarial tradition surrounding these texts became a major source of philosophical development throughout the rest of the history of philosophy in China (see Makeham 2003)[^makeham-2003].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们也在汉代看到哲学文本注疏传统的起源。到汉代时，对被称为《五经》的历史与礼仪文本，已经存在一套成熟的注疏传统。尤其是对古代史书《春秋》的注疏传统，在汉初成为核心。不过，汉代还发展出新的注疏传统，与《论语》《道德经》《庄子》等哲学文本相联系。围绕这些文本的注疏传统，成为此后中国哲学史中哲学发展的主要来源（见 Makeham 2003）[^makeham-2003]。
+    step2: |-
+      哲学文本的注疏传统，也可以追溯到汉代。到汉代时，围绕被称为《五经》的史书与礼书，注疏传统已经相当成熟；其中对古代史书《春秋》的注疏，在汉初更成为显学。与此同时，汉代又发展出新的注疏传统，所注的是《论语》《道德经》《庄子》等哲学文本。围绕这些文本形成的注疏传统，此后一直是中国哲学发展的主要源泉之一（见 Makeham 2003）[^makeham-2003]。
   - id: 5
     kind: body
     source: |-
       An additional important feature of Han philosophy is what we might call the “naturalistic shift”. Scientific developments in the Han, particularly in astronomy and medicine, linked philosophical concerns to those of areas that were newly developing at the time and more empirical in nature (see entries on Chinese philosophy and Chinese medicine and on science and Chinese philosophy).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      汉代哲学另一个重要特征，是我们可称之为“自然主义转向”的东西。汉代科学的发展，尤其在天文学和医学领域，把哲学关切与当时新兴的、性质上更重经验的领域联系了起来（参见“中国哲学与中医”以及“中国哲学与科学”两词条）。
+    step2: |-
+      汉代哲学还有一个重要特征，不妨称为“自然主义转向”。汉代科学的发展——尤其在天文学和医学领域——把哲学关切与当时新兴的几个更重经验的领域联系了起来（参见“中国哲学与中医”与“中国哲学与科学”两词条）。
   - id: 6
     kind: body
     source: |-
       ## 2. Western Han (202 BCE–9 CE)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 西汉（公元前 202–9 年）
+    step2: |-
+      ## 2 西汉（公元前 202–9 年）
   - id: 7
     kind: body
     source: |-
       ### 2.1 Political Thought: Lu Jia and Jia Yi
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 政治思想：陆贾与贾谊
+    step2: |-
+      ### 2.1 政治思想：陆贾与贾谊
   - id: 8
     kind: body
     source: |-
       Political philosophy was central to the Han Dynasty from its very beginning. In the *Han Shu* (Book of the Han), we read that the first Han emperor, Gaozu (formerly Liu Bang, 256–195 BCE), commissioned a number of scholars to construct texts on subjects valuable for the operation of empire. Lu Jia (d. 170 BCE), one of Gaozu’s ministers, wrote the *Xinyu* (“New Discussions”), the earliest extant treatise on political philosophy and practical government of the Han period. The organization of the text follows a pattern that would become common in political texts throughout the period and into later Chinese history. It begins with theoretical foundations discussing the connection of political concerns to broader metaphysical concerns, then expands on this to show how the practical application of political ideas follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      政治哲学从汉代一开始就居于中心。在《汉书》中我们读到，汉朝第一位皇帝高祖（原名刘邦，公元前 256–195 年）委托若干学者撰写对帝国运作有价值的主题的文本。高祖的臣子之一陆贾（卒于公元前 170 年）写了《新语》，这是汉代现存最早的一部讨论政治哲学与实践治理的论著。该书的组织结构遵循一种此后在整个时期乃至中国后世政治文本中变得常见的模式：先讨论理论基础，说明政治关切与更广泛的形而上学关切如何相连；再展开论述，展示政治观念的实际应用如何随之而来。
+    step2: |-
+      汉代的政治哲学从一开始就居于中心地位。《汉书》记载，汉朝开国皇帝高祖（原名刘邦，公元前 256–195 年）曾命一批学者撰文，讨论对帝国运作有实际价值的题目。高祖的臣子之一陆贾（卒于公元前 170 年）著有《新语》，这是汉代现存最早的一部政治哲学与实践治国论著。全书的编排开了此后汉代乃至整个中国政治文本的常见格局：先立理论基础，说明政治关切如何与更广阔的形而上学关切相连；再由此展开，交代政治观念的实际应用。
   - id: 9
     kind: body
     source: |-
       The first chapter of the *Xinyu* discusses the foundation of the political project (and the human project more generally) in nature, or “heaven” (*tian* 天), borrowing a well-known and contentious concept from earlier Chinese philosophical discourse. The *dao* 道 (way) of proper action and governance here is associated with understanding the patterns (*li* 理) of heaven and earth. Lu Jia offers a “realist” conception of political and ethical principles (which early Chinese thinkers see as continuous for the most part). These principles are based in the mind-independent world, rather than dependent on human construction. Of course, the distinction between mind and world is not heavily stressed in early China. Although early Chinese philosophers did draw a distinction between mind and body (Slingerland 2019; McLeod 2021)[^mcleod-2021][^slingerland-2019], we do not find the strong distinction between mind-dependence and independence that ground conceptions of antirealism and realism in contemporary Western philosophical discourse. The construction of *dao* (as political and ethical principles) is dependent on the nature of the world, including facts about patterns (*li*) as they exist within and determine human activity. Both “mind” and “world”, that is, are responsible for the *dao*. This is expressed in the *Xinyu* as a matter of the ancient sages’ expression of what they discern in the cosmos/heaven (*tian*). Lu Jia gives us a succinct explanation of this:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《新语》第一章讨论政治规划（以及更一般的人之规划）在自然或“天”（*tian* 天）中的基础，借用了早期中国哲学话语中一个著名而有争议的概念。此处，正当行动与治理的“道”（*dao* 道）与对天地的“理”（*li* 理）的理解相关联。陆贾提出了一种关于政治与伦理原则的“实在论”构想（早期中国思想家大体上把二者视为连续统一的）。这些原则基于独立于心灵的世界，而不是依赖于人的建构。当然，在早期中国，心灵与世界的区分并没有被着重强调。尽管早期中国哲学家确实区分了心与身（Slingerland 2019; McLeod 2021）[^mcleod-2021][^slingerland-2019]，但当代西方哲学话语中那种支撑反实在论与实在论构想的、心灵依赖与心灵独立的强区分，我们在这里找不到。道的建构（作为政治与伦理原则）取决于世界的性质，包括理（*li* 理）作为既存在于人的活动之中、又规定着人的活动的事实。也就是说，“心”与“世界”共同对道负责。《新语》把这一点表述为古代圣人对其在宇宙/天（*tian* 天）中所察见之物的表达。陆贾给出了一个简明的说明：
+    step2: |-
+      《新语》首章讨论政治事业（乃至更广义的人之事业）在自然或“天”（*tian* 天）中的根据，借用了早期中国哲学话语中一个著名而有争议的概念。在此，正当行动与治理的“道”（*dao* 道），系于对天地的“理”（*li* 理）的理解。陆贾对政治与伦理原则提出了一种“实在论”构想——早期中国思想家大体上都把二者视为连续的一体。这些原则立足于独立于心灵的世界，而非人的建构。当然，早期中国并未着重强调心灵与世界的区分。早期中国哲学家确实区分了心与身（Slingerland 2019; McLeod 2021）[^mcleod-2021][^slingerland-2019]，但当代西方哲学中支撑实在论与反实在论的那种“心灵依赖/心灵独立”的强区分，在这里是找不到的。道作为政治与伦理原则，其建构取决于世界的性质，包括理的存在方式：理既存在于人的活动之中，又规定着人的活动。换言之，“心”与“世界”共同成就了道。《新语》把这层意思表述为：古代圣人把自己在宇宙/天（*tian* 天）中察见的东西表达出来。陆贾有一段简明的说明：
   - id: 10
     kind: body
     source: |-
       > In order to determine the Way (*dao*) of human beings, the first sage looked up to observe Heaven’s pattern, looked down to examine the configuration of the ground, and then delineated the hexagrams Qian and Kun. The people began to become aware, understood the affection between father and son, right conduct between ruler and minister, separation between men and women, and proper order of senior and junior. Thereupon the numerous offices were established and the Kingly Way was born. (*Xinyu* 1.6, Goldin and Sabattini [trans] 2020: 23)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 为了确定人之道（*dao* 道），先圣仰观天象，俯察地理，然后画定乾、坤二卦。民众开始有所觉知，懂得了父子之亲、君臣之义、男女之别、长幼之序。于是百官建立，王道由此而生。（《新语》1.6，Goldin 与 Sabattini 译，2020：23）
+    step2: |-
+      > 为了确定人之道（*dao* 道），先圣仰观天象，俯察地理，而后画定乾、坤二卦。百姓由此开始觉醒，懂得了父子之间的亲情、君臣之间的正当举止、男女之间的分别，以及长幼之间的恰当次序。于是各种官职设立起来，王道由此诞生。（《新语》1.6，Goldin 与 Sabattini 译，2020：23）
   - id: 11
     kind: body
     source: |-
       After this initial establishment of the Way based on understanding the patterns inherent in the world and human nature, more conventional norms still proved necessary. All of the particular manifestations of culture were then created by various sages, including the well-known Confucian concepts *li* 禮 (ritual) and *yi* 義 (appropriateness). The first stage of construction of the Way required the coordination of the sage and the patterns of the world—the sage had to make known and usable these patterns. After this, a more “antirealist” conception was offered—more conventional moral and political norms still had to be created from this more basic and abstract conception of the Way. The sages thus established ritual (*li* 禮) and appropriateness (*yi* 義). Through the sages’ construction of institutions and social systems, as well as their moral and political instruction, they helped people to follow the Way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在道的这一初步确立——以理解世界与人性中固有的理为基础——之后，更为约定性的规范仍然被证明是必要的。文化的各种具体表现形式，随后由不同的圣人创造出来，其中包括著名的儒家概念礼（*li* 禮）与义（*yi* 義）。道之建构的第一阶段，需要圣人与世界之理相互配合：圣人必须让这些理为人所知、可用。在此之后，一种更“反实在论”的构想被提出来：更为约定性的道德与政治规范，仍须从这个更基本、更抽象的道概念中创造出来。于是圣人确立了礼（*li* 禮）与义（*yi* 義）。通过圣人建制立制、构建社会系统，以及他们的道德与政治教化，他们帮助人们遵循道。
+    step2: |-
+      道的最初确立，靠的是理解世界与人性中固有的理；但在此之后，更具约定性的规范仍然不可或缺。文化的各种具体形态，随后由不同的圣人创造出来，其中包括著名的儒家概念礼（*li* 禮）与义（*yi* 義）。道之建构的第一阶段，要求圣人与世界之理相互配合——圣人必须让这些理为人所知、为人所用。此后则出现了更“反实在论”的一面：更具约定性的道德与政治规范，仍须从这个更基本、更抽象的道概念中创造出来。于是圣人确立了礼与义。圣人通过创建制度与社会系统、通过道德与政治教化，帮助人们遵循道。
   - id: 12
     kind: body
     source: |-
       Lu Jia did not treat ethics and politics as distinct from one another or from human culture (*wen* 文) more generally. The human *dao* includes elements we might distinguish as political, ethical, aesthetic, etc. Thus, music and dress are discussed in terms of “proper” and “improper”, alongside considerations of respect for elders and superiors, and other principles that we would consider political and ethical. Neglect of one of them would inevitably lead to decay in the others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      陆贾并不把伦理与政治看作彼此分离，也不把它们与更一般意义上的人文（*wen* 文）分开。人之道包含我们可能区分为政治、伦理、审美等的各种元素。因此，音乐与服饰也以“当”与“不当”来讨论，与敬重长者与尊上的考虑，以及其他我们会视为政治与伦理的原则并列。忽视其中一项，必然导致其他各项衰败。
+    step2: |-
+      在陆贾那里，伦理与政治并不彼此分离，也没有同更广义的人文（*wen* 文）分开。人之道包含我们如今会分别称作政治、伦理、审美等的各种成分。所以，音乐与服饰也要论“当”与“不当”，与敬重长上、尊卑有序之类的考虑并列，而这些在我们看来属于政治与伦理原则。其中任何一项被忽视，其余各项都势必随之败坏。
   - id: 13
     kind: body
     source: |-
       Following the example or direction of the sage is continually necessary because of the human tendency to diverge from the *dao*, according to Lu Jia (*Xinyu* 1). Seemingly influenced by the *Xunzi* and legalist texts such as *Hanfeizi* and *Shangjunshu*, Lu Jia held that having the right structure between ruler and ministers was key to maintaining order of the state and moral action. Most importantly, the ministers who serve under a ruler must be morally upright. The ideal ruler, following earlier Daoist and Confucian ideas, should be “non-active” (*wu wei* 無為), employing the right people with the proper motivations and abilities, to ensure the commitment of the rest of society to moral activity. The ministers work in this way as exemplars and influences on those below in society.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      陆贾认为，由于人倾向于背离道，不断效法或遵循圣人的榜样是必要的（《新语》1）。陆贾似乎受到《荀子》以及《韩非子》《商君书》等法家文本的影响，主张君臣之间有恰当的结构，是维持国家秩序与道德行为的关键。最重要的是，在君主之下任职的臣子必须道德端正。理想的君主依照早期道家与儒家的观念，应当“无为”（*wu wei* 無為），任用动机与能力都恰当的人，以确保社会其余成员投入道德活动。臣子则以此方式成为榜样，影响社会地位更低的人。
+    step2: |-
+      陆贾认为，人天生容易偏离道，所以始终需要效法圣人的榜样、依循圣人的引导（《新语》1）。他大概受了《荀子》以及《韩非子》《商君书》等法家文本的影响，认定君臣之间结构得当，是维持国家秩序与道德行为的关键。其中最重要的，是君主手下的臣子必须品行端正。依照早期道家与儒家的观念，理想的君主应当“无为”（*wu wei* 無為）：任用动机纯正、才干相当的人，从而带动整个社会投身道德实践。臣子则以自身的作为充任榜样，影响下层的民众。
   - id: 14
     kind: body
     source: |-
       Jia Yi (200–168 BCE) was a Han official who served as tutor to a number of vassal kings associated with the Han—first to the ruler of the distant southern region of Changsha, and later to the ruler of the region of Liang (more on this system of government below in discussion of the *Huainanzi*). His political thought is presented in the text *Xinshu* (“New Writings”). Despite debates as to whether the *Xinshu* was written by Jia or later authors in his name, we can take it as representative of an important strain of Han political thought (Sanft 2005: 6)[^sanft-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      贾谊（公元前 200–168 年）是一位汉朝官员，曾先后担任多位与汉朝有关的诸侯王的太傅：先是远在南方的长沙王，后来是梁王（关于这套治理体制，下文讨论《淮南子》时还会谈到）。他的政治思想见于《新书》。尽管学界对《新书》出自贾谊本人还是后世托名作者仍有争论，我们仍可把它视为汉代政治思想一个重要脉络的代表（Sanft 2005: 6）[^sanft-2005]。
+    step2: |-
+      贾谊（公元前 200–168 年）是汉朝的官员，先后做过几位诸侯王的太傅——最初是远在南方长沙国的诸侯王，后来是梁国的诸侯王（这套分封治理的体制，下文讨论《淮南子》时还会涉及）。他的政治思想见于《新书》。此书究竟出自贾谊本人，还是后人伪托其名，学界尚有争论；但无论如何，它可以代表汉代政治思想中一个重要脉络（Sanft 2005: 6）[^sanft-2005]。
   - id: 15
     kind: body
     source: |-
       The most famous section of the *Xinshu* is Jia Yi’s criticism of the Qin, the first imperial dynasty of China which unified the “Warring States” in 221 BCE. Jia’s criticism stresses the Qin state’s failure to treat the people (*min* 民) with sufficient consideration. The Qin’s harsh treatment of people led to the loss of the obedience required to maintain order in a state. Jia Yi stressed that successful rule was only possible with the consent and obedience of the people—a position referred to as “taking the people as root” (*min ben* 民本). Jia wrote about the Qin rulers:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《新书》最著名的一部分，是贾谊对秦的批评。秦是中国第一个皇朝，于公元前 221 年统一了“战国”。贾谊的批评强调，秦国未能给人民（*min* 民）以足够的体恤。秦对民众的苛待，导致国家丧失了维持秩序所必需的服从。贾谊强调，成功的统治只有在得到人民同意与服从时才可能——这一立场被称为“以民为本”（*min ben* 民本）。贾谊这样写到秦的君主：
+    step2: |-
+      《新书》中最著名的一篇，是贾谊对秦的批评。秦是中国第一个皇朝，公元前 221 年结束“战国”割据、一统天下。贾谊的批评聚焦于一点：秦没有给人民（*min* 民）以足够的体恤。秦对百姓的苛酷，使国家丧失了维持秩序所必需的服从。贾谊强调，统治要成功，只能以民众的同意与服从为前提——这一立场被称为“以民为本”（*min ben* 民本）。他这样评说秦的君主：
   - id: 16
     kind: body
     source: |-
       > [They] made penalties many and punishments severe. The officers’ handling of cases was harsh to an extreme. Rewards and punishments were not appropriate and taxation lacked proper measure. (translated in Sanft 2016: 54)[^sanft-2016]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [他们]使刑罚繁多、惩处严酷。官吏断案苛刻至极。赏罚失当，赋税毫无节制。（Sanft 2016: 54 译文）[^sanft-2016]
+    step2: |-
+      > [他们]刑罚繁多、惩处严酷，官吏断案苛刻到了极点；赏罚失当，赋敛也没有法度。（Sanft 2016: 54 译文）[^sanft-2016]
   - id: 17
     kind: body
     source: |-
       To ensure successful rule, a ruler must govern with “humanenness” (*ren* 仁), a concern for the wellbeing of the people that was a major topic of discussion in Pre-Han Confucian texts. Unlike these earlier Confucians, however, Jia Yi’s interest in humaneness was mainly with its practical benefits for ensuring the stability of the ruler’s position. Earlier Confucians were more concerned with the issue of moral development and the role of humaneness in the development of the person. Jia Yi’s concern with humaneness was about political expediency. Lacking humaneness, as he claims the Qin rulers did, will inevitably lead to the collapse of one’s rule. Securing the cooperation and support of the people is necessary to maintain a state, and thus the good ruler must attend to this. (Sanft 2005: 35–6)[^sanft-2005] While concern for the people is necessary, Jia does not take the assent of the people to being governed as the ground or justification for the ruler’s authority. This authority, according to Jia, is independent of the people. The “people as root” position developed in the *Xinshu* is fully based in pragmatic considerations of rulership. In this way, Jia Yi links the ideas developed in early Confucian texts with the pragmatic “amoralism” of Legalists like Han Feizi who argued for the appropriateness of political strategies on the basis of their success in maintaining the power of the ruler, rather than on the basis of moral considerations. Jia’s political thought thus represents a new trend in the Han period, one that forms the basis for the ideology of what Dingxin Zhao calls “the Confucian-Legalist state” (Zhao 2015)[^zhao-2015]. The origins of the political philosophy that would guide Chinese dynasties through much of the rest of Chinese history are found in the Han.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为确保统治成功，君主必须以“仁”（*ren* 仁）来治理，即关切民众福祉——这是汉代以前儒家文本中讨论的一个主要话题。然而，与更早的儒者不同，贾谊对仁的兴趣主要在于它对确保君主地位稳定所带来的实际好处。早期儒者更关心道德发展的问题，以及仁在个人成长中的作用。贾谊对仁的关切则关乎政治上的权宜。缺乏仁——如他所称秦的君主那样——必然导致统治崩溃。赢得民众的合作与支持是维持国家所必需的，因此好的君主必须留意这一点（Sanft 2005: 35–6）[^sanft-2005]。虽然对民众的关切是必要的，但贾谊并不把民众对统治的同意当作君主权威的根据或正当性理由。按贾谊的看法，这种权威独立于民众。《新书》中发展出的“以民为本”立场，完全基于治国的实用考虑。这样一来，贾谊就把早期儒家文本中发展的观念，与韩非子等法家那种实用的“非道德主义”联系了起来：法家主张政治策略的恰当性取决于其维持君主权力的成效，而不取决于道德考虑。贾谊的政治思想因此代表了汉代的一种新趋势，它构成了赵鼎新所谓“儒法国家”意识形态的基础（Zhao 2015）[^zhao-2015]。此后在中国历史大部分时期指导各朝各代的政治哲学，其源头就在汉代。
+    step2: |-
+      统治要成功，君主就必须以“仁”（*ren* 仁）治国——关怀民众的福祉。这本是汉代以前儒家文本反复讨论的大题目。但与早期儒者不同的是，贾谊看重仁，主要看重它对稳固君主地位的实际功效。早期儒者更关心道德修养，关心仁在人格成长中起什么作用；贾谊关心仁，则出于政治上的权宜。君主若缺乏仁——他认定秦的君主就是如此——统治必然崩溃。要维持国家，就必须赢得民众的合作与支持，所以好的君主不能不留意这一点（Sanft 2005: 35–6）[^sanft-2005]。不过，关怀民众固然必要，贾谊却并不把民众对统治的认可当作君主权威的根据或正当性来源。在他看来，这种权威独立于民众。《新书》的“以民为本”主张，完全建立在治国的实用考虑之上。贾谊由此把早期儒家文本中的观念，同韩非子等法家的实用“非道德主义”接上了线：法家判断一种政治策略是否恰当，看的是它能否有效维持君主的权力，而非是否符合道德。贾谊的政治思想因此代表了汉代的一股新潮流，它构成了赵鼎新所谓“儒法国家”意识形态的基础（Zhao 2015）[^zhao-2015]。此后中国历史大部分时期中指导历代王朝的政治哲学，其源头正在汉代。
   - id: 18
     kind: body
     source: |-
