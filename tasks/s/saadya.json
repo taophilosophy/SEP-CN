@@ -2,7 +2,7 @@
   "slug": "saadya",
   "kind": "retranslate",
   "zh_doc": "s/saadya.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "S-trans-20261109b",
       "at": "2026-11-09T08:17:25Z",
       "evidence": "# saadya − s3 evidence（三校·体例与学术规范，actor: S-trans-20261109b）\n\n## 定点门禁（`python script/s_gate.py saadya`）\n```\n[OK ] ledger-check saadya.ledger.yaml\n[OK ] style s/saadya.md\n[OK ] academic s/saadya.md\n[OK ] prose s/saadya.md\n[OK ] math saadya\n[OK ] summary 全库\n[OK ] terms --docs（告警级）\n== saadya：7 项，失败 0，全绿\n```\n- `check_style --strict`：`{\"files\": 1, \"issues\": []}` → **0 issue**。\n- `check_math saadya`：`{\"checked\": 1, \"formulas\": 0, \"missing\": [], \"unbalanced\": []}`（本源无数学定界符，缺/失衡均为空）。\n- `check_academic --docs s/saadya.md --strict`：**无硬错误**（版本行、节集合、`## 学术工具` archinfo、脚注键一一对应、References 照录均通过；在途豁免 1 为他批文件）。\n- `check_summary`（全库）：`H1 mismatch: 0`｜`alias fragment: 0`｜`HARD ERRORS: 0`。\n  H1 = `# 萨阿迪亚·果昂 Saadya [Saadiah] (Sarah Pessin)`（SUMMARY L2350 unescape 后文字一致）。\n- `npx markdownlint-cli2 \"s/saadya.md\"`：本文件 **0 错误**（命令退出码 1 来自其他词条 pin 定的 glob 结果，非本方文件）。\n\n## 术语与人物登记\n- rowspec：`script/reg_saadya.json`，经 `python script/s_reg.py` 应用（带锁、幂等、原子写、写后复读校验）：\n  **术语 22 行新增 / 0 跳过**，**人名 2 行新增 / 0 跳过**。\n- 术语行（`yi-zhe-shuo-ming.md` L3415 起）：laws of reason 理性律法、laws of revelation 启示律法、al-kabar 传统（传闻）、reliable tradition 可靠传统、created word 受造之言、created glory 受造荣耀、second air 第二气、prooftext 经文引证、illuminationist 照明论、natural law ethics 自然法伦理学、virtue theory 德性论、hypostasized 实体化、createdness 受造性、Karaite 卡拉派、Sura Academy 苏拉学院、Sabbath 安息日、resurrection 复活、《巴比伦塔木德》、《以赛亚书》、《撒迦利亚书》、《教义与信仰之书》、《创世之书注疏》。\n- 人名行（`ren-ming-biao.md` L1286–1287）：Samuel Ibn Tibbon 塞缪尔·伊本·提本、Moses 摩西。\n- 沿用既有登记（未重复登记）：kalām 凯拉姆、Muʿtazila 穆尔太齐赖派、Talmud 塔木德、Torah 托拉、ex nihilo 从无中创生、Revelation 启示、prophecy 预言、soul 灵魂、reason 理性、divine command theory 神命论、doxography 学说汇编、Oral Law 口传律法、Guide of the Perplexed 迷途指津、sharīʿa（正文括注“沙里亚”）。\n- `python tools/check_terms.py --docs s/saadya.md`：**定点核销 1 个文档，0 处疑似缺译法**。\n- 异形留痕（Lead 2026-11-09 裁定）：登记册规范形「萨阿迪亚·加昂」（`ren-ming-biao` L1897，israeli 批行）与 SUMMARY 定名「萨阿迪亚·果昂」并存；正文与 H1 依 SUMMARY 用「果昂」，异形归一移交 specs/011 治理，本轮不手改他人行。\n- **待裁冲突（非本方行）**：`qian-yan/ci-hui-biao.md` L1196 既有旧行 `|Samuel Ibn Tibbon|撒母耳·伊本·提本||` 与本方登记「塞缪尔·伊本·提本」互斥，致 `check_terms` 全局报「冲突: Samuel Ibn Tibbon」硬错误 1 条。本方遵循登记册体例（Samuel 一律「塞缪尔」，且与既有 Moses ibn Tibbon 行一致），词汇表行修订属 Lead 词汇表维护职分，已报请裁定；`s_gate` 术语项为告警级不阻断，本方 `--docs` 核销 0 缺漏。\n\n## 结构与相关词条\n- 尾部节序（源序）：`## 脚注` → `## References（引用注释）`（节首照录说明 + 转换器契约注记 + 三个英文子节标题 + 22 条 `[^key]:` 定义照录）→ `## 学术工具`（四行 bullet，archinfo 链接原样）→ `## 其他网络资源`（`[欢迎向作者提出建议。]`）→ `## 相关词条`。\n- 相关词条：源 `faith | Plato` → compose `map_related` 全部命中 **2/2**：`信仰 | 柏拉图`，无未匹配项（NOTE 未触发）。\n- 图片：无（baseline `images: []`）。\n\n## 体例转换\n- `python script/italic_to_bold_cjk.py s/saadya.md` → **13 行**中文强调斜体转粗体；拉丁/阿拉伯/希伯来术语斜体（*al-kabar*、*ex nihilo*、*nefesh* 等）保留；References 定义区与标题行按豁免不动。\n- 弯引号与中西文空格：全文 `check_style` 0 issue；引文内层用单引号「‘ ’」，外层双引号，无直角引号。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:05Z",
+      "evidence": "# saadya − r1 evidence（评审线·结构对位与逐句回核，actor: S-rev-20261109）\n\n## 冷置说明\n初译由 S-trans-20261109b 会话完成（2026-11-09 上午）；本会话当晚接手续做 sharpe、stebbing 两条后再回读 saadya，隔离间隔 ≥2 条词条、约 5 小时工作量，满足 ADR-0020 复核独立性之冷置条款。\n\n## 结构对位（compose 后 vs `yuanwen/s/saadya.md` 72 段）\n- h2：源 15 vs 译 14。**差异 1 处，判为模板行为**：源文 Notes 区有 `## Notes（原文脚注）` 与 `## Notes to Saadya [Saadiah]` 两个 h2，compose 依模板合并为单个 `## 脚注`；`check_academic --strict` 通过，节集合与版本行无缺。\n- h3 3:3；`[^key]:` 定义 24:24；脚注引用 3:3；`$` 与 `**` 计数全段守恒。\n- 数字多重集：英文侧无独有项；译侧多出 5（`## 5` 节序汉化与 Altmann 页引 95 的重复计数），属体例。\n\n## 论证链核销（逐节，对照 Altmann 页引与论断链）\n1. §2：四类认识方式（感官/理性/推论/传统）→ 传统即可靠的传闻（al-kabar／sami‘a）→ 链条完整；页引 27/28-9/29 全部对位。\n2. §4：两类律法（'aqliyyât／sam‘iyyât）→ Yoma 67b → 例证清单（谋杀/通奸/偷窃/说谎）→ 「上帝把赞同植入理性」引文（97）；无断链。\n3. §5：两个回答（捷径说／赏报说）→ 四步论证 → 启示律法个别理由（饮食律）→ 先知补细节（祈祷形式）→ 照明论（潜水者引文 29）→ 诫命即恩赐（93）→ 方法/经文引证三重召唤 (a)(b)(c)；逻辑连接词「然而」「于是」「反之」与源文 however/thus/on the contrary 一一对应。\n4. §7：迈蒙尼德对凯拉姆的批评与「Altmann, 37」引文；结论「理性虽居中，启示或许终究才是最后根据」与源文扣合。\n5. §9：18 种理论／12 种宇宙生成论／四证明三阶段／复活 a fortiori（158）／灵魂三分与 nefesh-ruah-neshamah 对位；Zechariah 12:1、Isa 42.21、50.4、11.9 全对位。\n\n## 逐句回核实修\n- **零实修**。回读三遍（1–40／40–114／114–199 行）未发现误译、漏译、增译、指代错位或术语漂移；引文内 bold 与斜体标记与源文强调一致。\n- 抽查反向回译 5 处（段 1、33、93、129、137），与源文语义等价。\n\n## 判定\nCritical 0 / Major 0 / Minor 0 → 准予 r2。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:06Z",
+      "evidence": "# saadya − r2 evidence（评审线·语言复核，actor: S-rev-20261109）\n\n- `check_prose s/saadya.md`：初译已将 44 条告警全部实修归零；本轮回读后**仍为 0 条**（无新增告警，无需豁免）。\n- `check_style --strict`：0 issue；斜体→粗体 13 行已就位，拉丁/阿拉伯/希伯来术语斜体保留。\n- 语言复核要点：引文段（Altmann 27/28-9/95/97/101/103-104/29/93/37/31）语气与转述段区分清楚，无欧化长链；「的」链密度抽检 5 段均低于阈值；无「被」字连用。\n- 判定：准予 r3。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:06Z",
+      "evidence": "# saadya − r3 evidence（评审线·终审，actor: S-rev-20261109）\n\n- `s_gate saadya`：7 项全绿（ledger-check / style / academic / prose / math / summary / terms）。\n- `lq.py check`：72 段 HARD=0。\n- `check_academic --docs s/saadya.md --strict`：0 硬错误；`check_summary` HARD 0；`check_terms --docs` 0 疑似缺译法。\n- 结构：h3 3:3、defs 24:24、脚注引用 3:3 全等；相关词条 2/2（信仰｜柏拉图）。\n- 终稿 19,000 字符 / 199 行；无补充材料。\n- 判定：**done**。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "S-rev-20261109",
+      "at": "2026-11-09T12:00:06Z",
+      "evidence": "# saadya − done evidence（S-rev-20261109）\n\n- 终稿：`s/saadya.md` 19,000 字符 / 199 行；账本 72 段（body 69 / oir 1 / note 2）HARD=0。\n- 门禁：`s_gate` 7 项全绿；`check_academic --strict` 0 硬错误；`check_summary` HARD 0；`check_prose` 0；`check_math` 空。\n- 登记：术语 22 行、人名 2 行（`script/reg_saadya.json`，已入库）。\n- 评审：r1 零实修（结构差 1 处为 Notes 双标题合并，模板行为）；r2/r3 全绿。\n- 结构：h3 3:3、defs 24:24、脚注 3:3、相关词条 2/2。"
     }
   ],
   "blockers": [],
