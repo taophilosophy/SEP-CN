@@ -1,0 +1,334 @@
+{
+ "key": "categorical judgement",
+ "term": "categorical judgement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:37:57+00:00",
+ "status": "ok",
+ "note": "variant=categorical judgement; 审定公布名词库=61; 海峡两岸名词对照库=17; 其他来源数据库=99; 预公布名词数据库=10; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "范畴化",
+   "en": "categorization",
+   "code": "04.022",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_总论"
+  },
+  {
+   "cn": "范畴性",
+   "en": "categoricity",
+   "code": "02.0110",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "分类性状",
+   "en": "categorical trait",
+   "code": "04.330",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_数量遗传学"
+  },
+  {
+   "cn": "范畴语义",
+   "en": "categorical semantics",
+   "code": "02.0879",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "code": "08.0119",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "分类方案",
+   "en": "categorical plan",
+   "code": "05.0328",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_生产运作管理"
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "code": "02.367",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "分类变量",
+   "en": "categorical variable",
+   "code": "06.095",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区公共卫生"
+  },
+  {
+   "cn": "绝对规则",
+   "en": "categorical rule",
+   "code": "12.070",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_语言变异"
+  },
+  {
+   "cn": "范畴义",
+   "en": "categorical meaning",
+   "code": "05.143",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词义"
+  },
+  {
+   "cn": "范畴逻辑",
+   "en": "categorical logic",
+   "code": "02.0318",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_非经典逻辑"
+  },
+  {
+   "cn": "功能分类",
+   "en": "function categorizing",
+   "code": "09.0726",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_其他"
+  },
+  {
+   "cn": "分类预报，分级预报",
+   "en": "categorical forecast",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "类别聚类法",
+   "en": "categorical clustering",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类别变量",
+   "en": "categorical variable",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类别分类",
+   "en": "categorical classification",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "范畴分析",
+   "en": "categorical analysis",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "范畴语法",
+   "en": "categorical grammar",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "类别线索",
+   "en": "categorization cue",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分类",
+   "en": "classification\",\"categorization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "判断",
+   "en": "judgement",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "裁定",
+   "en": "judgement",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "类案识别",
+   "en": "case categorization and identification",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "算法裁判",
+   "en": "algorithm-based judgement",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自动生成判决书",
+   "en": "automatically generated court judgement",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "裁判文书智能分析系统",
+   "en": "intelligent analysis system for judgement documents",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "台下裁判员",
+   "en": "judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "副裁判员",
+   "en": "judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "裁判",
+   "en": "judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "侧面裁判员",
+   "en": "judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "边角裁判员",
+   "en": "judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "裁判员",
+   "en": "judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "裁判员",
+   "en": "judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "社会类别化",
+   "en": "social categorization",
+   "code": "4.1.20.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会心态"
+  },
+  {
+   "cn": "自我类别化",
+   "en": "self-categorization",
+   "code": "4.1.20.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会心态"
+  },
+  {
+   "cn": "定类数据分析",
+   "en": "categorical data analysis",
+   "code": "1.2.5.108",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "风险研判",
+   "en": "risk judgement",
+   "code": "1.4.1.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "放射源分类",
+   "en": "categorization of radioactive sources",
+   "code": "7.1.5.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源"
+  },
+  {
+   "cn": "射线装置分类",
+   "en": "categorization of radiation-emitting devices",
+   "code": "7.1.5.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源"
+  },
+  {
+   "cn": "职业病诊断与鉴定管理办法",
+   "en": "administration regulations for diagnosis and judge of occupational diseases",
+   "code": "9.1.5.1.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关规章_放射卫生相关部门规章"
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgment",
+   "code": "1.031",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "code": "4.0316",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "适任性评价",
+   "en": "judgment on worker fitness",
+   "code": "4.3.2.19",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,243 @@
+{
+ "key": "boolean algebra",
+ "term": "Boolean algebra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T14:19:56+00:00",
+ "status": "ok",
+ "note": "variant=Boolean algebra; 审定公布名词库=320; 海峡两岸名词对照库=40; 其他来源数据库=8; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "code": "02.0132",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "code": "03.0284",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_序·格·一般数学系统"
+  },
+  {
+   "cn": "广义布尔代数",
+   "en": "generalized Boolean algebra",
+   "code": "03.0290",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_序·格·一般数学系统"
+  },
+  {
+   "cn": "布尔检索",
+   "en": "Boolean retrieval",
+   "code": "06.03.020",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_流程与方法"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "code": "03.595",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "布尔网络",
+   "en": "Boolean networks",
+   "code": "03.596",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "布尔检索",
+   "en": "Boolean retrieval",
+   "code": "06.04.075",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "布尔运算",
+   "en": "Boolean operation",
+   "code": "03.0263",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_三维制图"
+  },
+  {
+   "cn": "布尔算符",
+   "en": "Boolean operator",
+   "code": "05.019",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_一般概念"
+  },
+  {
+   "cn": "布尔公式",
+   "en": "Boolean formula",
+   "code": "02.0134",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "布尔运算",
+   "en": "Boolean operation",
+   "code": "02.0131",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "布尔搜索",
+   "en": "Boolean search",
+   "code": "07.0189",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔表达式",
+   "en": "Boolean expression",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "布尔运算符",
+   "en": "Boolean operators",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "布尔表达式",
+   "en": "Boolean expression",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔查找，布尔搜索",
+   "en": "Boolean search",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔过程",
+   "en": "Boolean process",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔函数",
+   "en": "Boolean function",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔加法器",
+   "en": "Boolean adder",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔算子",
+   "en": "Boolean operator",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔运算",
+   "en": "Boolean operation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "时变布尔函数",
+   "en": "timed Boolean function",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "布尔环",
+   "en": "Boolean ring",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性代数",
+   "en": "linear algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "外代数",
+   "en": "Exterior algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微分代数",
+   "en": "Differential algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表面",
+   "en": "algebraic surface",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "Boolean标准",
+   "en": "Boolean criteria",
+   "code": "2.1.2.10",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
