@@ -379,6 +379,7 @@
 | Brian Ellis | — | 保留英文（无通行汉名） | — | — | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Brian Leftow | — | 布莱恩·莱夫托 | — | — | 语料回收（全目录） | 学界惯例（宗教哲学/时间哲学）；凭证 2026-11-01 | 2026-11-01 |
 | Brito, Radulphus | — | 拉杜尔夫·布里托 | — | — | buridan | 学界通行音译（13 世纪语法学家）；凭证 2026-11-08 | 2026-11-08 |
+| Broad, C. D. | — | C. D. 布罗德 | 英国 | 1887–1971 | stebbing | 学界通行（分析哲学家，一般保留缩写；全名 Charlie Dunbar Broad） | 2026-11-09 |
 | Brock, Dan | — | 丹·布罗克 | — | — | disability-care-rationing | 学界通行汉译（生物伦理，CEA 与失能配给论争核心作者）；首现括注；凭证 2026-11-08 | 2026-11-08 |
 | Brom, Luco Johan van den | — | Luco Johan van den Brom（现代学者，保留英文） | — | — | omnipresence | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Brooke, Lord (Robert Greville) | Lord Brooke | 布鲁克勋爵 | 英国 | 1607–1643 | cambridge-platonists | 学界通行音译（议会派领袖，斯特里的庇护人）；凭证 2026-11-09 | 2026-11-09 |
@@ -735,6 +736,7 @@
 | Duhem, Hélène | Hélène Duhem | 埃莱娜（迪昂之女） | — | — | duhem | 学界惯例（迪昂家人名音译）；凭证 2026-11-06 | 2026-11-06 |
 | Duhem, Pierre | — | 皮埃尔·迪昂 | — | — | duhem | 学界通行汉译（科学史/科学哲学，《物理理论的目的与结构》作者） | 2026-11-06 |
 | Dunash Ibn Tamim | Dunash Ibn Tamim | 杜纳什·伊本·塔米姆 | — | — | israeli | 犹太哲学研究通行汉译（伊斯拉埃利门生） | 2026-11-06 |
+| Duncan-Jones, Austin | — | 奥斯汀·邓肯-琼斯 | 英国 | 1908–1967 | stebbing | 本词条首译（剑桥分析学派成员，无通行汉名） | 2026-11-09 |
 | Dunn, J. Michael | — | J. Michael Dunn | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Duns Scotus | — | 邓斯·司各脱（亦作“司各脱”） | — | — | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | Duns Scotus, John | — | 邓斯·司各脱 | — | — | occasionalism | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -2880,6 +2882,7 @@
 | Winckelmann | Winckelmann | 温克尔曼 | — | — | schlegel | 学界通行汉译（艺术史家）；凭证 2026-11-07 | 2026-11-07 |
 | Wippel, John F. | — | 约翰·F·维佩尔 | — | — | condemnation | 学界惯例（中世纪哲学史家，音译）；凭证 2026-11-08 | 2026-11-08 |
 | Wiredu, Kwasi | — | 夸西·维雷杜 | 加纳 | 1931–2022 | african-ethics | 学界通行音译（阿肯哲学）；凭证 2026-11-09 | 2026-11-09 |
+| Wisdom, John | — | 约翰·威兹德姆 | 英国 | 1904–1993 | stebbing | 学界通行汉译（剑桥分析学派；常作 John Oulton Wisdom） | 2026-11-09 |
 | Witelo | — | 维特洛 | — | — | nicole-oresme | 中世纪光学研究通行汉译（亦作“维泰洛”）；凭证 2026-11-08 | 2026-11-08 |
 | Wittgenstein, Ludwig | — | 路德维希·维特根斯坦 | — | — | behaviorism | 学界千年通行译名 | 2026-11-05 |
 | Witzel, Andreas | — | 安德烈亚斯·维策尔 | — | — | social-procedures | 德语名音译（认知规划）；凭证 2026-11-07 | 2026-11-07 |
@@ -2945,6 +2948,7 @@
 | Yu Yingshih | Yü Ying-shih | 余英时 | — | — | dai-zhen | 上游自带汉字；学界通行（汉学家，清代学术史论著者）；凭证 2026-11-07 | 2026-11-07 |
 | Yukio Lippit | — | Yukio Lippit | — | — | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
 | Yun Hyu | 尹鑴 | 尹鑴 | 1617–1680 | — | korean-confucianism | 汉文传统写法（朝鲜性理学者，号白湖） | 2026-11-08 |
+| Yunus, Muhammad | — | 穆罕默德·尤努斯 | 孟加拉国 | 1940– | stebbing | 学界通行汉译（经济学家，诺贝尔和平奖得主；斯特宾词条 1932 例句所用今名） | 2026-11-09 |
 | Yuriko Saito | — | 斋藤百合子 | — | — | aesthetics-of-everyday | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
 
 ## Z
