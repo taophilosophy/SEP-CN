@@ -812,86 +812,114 @@ segments:
     kind: body
     source: |-
       In keeping with the linguistic analogy, Dwyer uses a Poverty of the Stimulus argument to show that the moral/conventional distinction depends on an innate learning device (Dwyer 1999, 171–177; 2006, 239–242). According to Dwyer, “the fundamental mistake” of domain-general learning theories is “the assumption that all the information the child needs to achieve moral maturity is available in her environment” (172). She continues:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与语言类比一致，Dwyer 用刺激贫乏论证来表明，道德/习俗区分依赖一种先天的学习装置（Dwyer 1999, 171–177; 2006, 239–242）。按 Dwyer 的看法，领域一般学习理论的“根本错误”，在于“假定儿童达到道德成熟所需的一切信息都在她的环境中可得”（172）。她接着说：
+    step2: |-
+      顺着语言类比，Dwyer 用刺激贫乏论证说明：道德/习俗区分靠的是一种先天学习装置（Dwyer 1999, 171–177; 2006, 239–242）。她说，领域一般学习理论的“根本错误”，在于“假定儿童达到道德成熟所需的一切信息都在她的环境中可得”（172）。接着她写道：
   - id: 101
     kind: body
     source: |-
       > Absent a detailed account of how children extrapolate distinctly moral rules from the barrage of parental imperatives and evaluations, the appeal to explicit moral instruction will not provide anything like a satisfactory explanation of the emergence of mature moral competence. What we have here is a set of complex, articulated abilities that (i) emerge over time in an environment that is impoverished with respect to the content and scope of their mature manifestations, and (ii) appear to develop naturally across the species. (1999, 173)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > Absent a detailed account of how children extrapolate distinctly moral rules from the barrage of parental imperatives and evaluations, the appeal to explicit moral instruction will not provide anything like a satisfactory explanation of the emergence of mature moral competence. What we have here is a set of complex, articulated abilities that (i) emerge over time in an environment that is impoverished with respect to the content and scope of their mature manifestations, and (ii) appear to develop naturally across the species. (1999, 173)
+    step2: |-
+      > 若没有一份详细说明，讲清儿童如何从父母连珠炮般的命令与评价中抽取出明确的道德规则，那么诉诸明确的道德教导，根本不足以令人满意地解释成熟道德能力的出现。我们面对的是一组复杂而彼此关联的能力：（i）它们在一个相对其成熟表现的内容与范围而言颇为贫乏的环境中随时间出现；（ii）似乎在整个人类物种中自然发展。（1999, 173）
   - id: 102
     kind: body
     source: |-
       According to Dwyer, just as domain-general learning can’t explain the child’s linguistic competence, domain-general learning can’t explain the child’s *moral* competence, as revealed by their grasp of the moral/conventional distinction (see also Dwyer 2006, 239–240). Thus, Dwyer maintains that the child’s moral competence exceeds what a domain-general learning system would be able to achieve given the information available in the environment. She concludes that “we all come into the world equipped with a store of innate moral knowledge which, together with our experience, determines our mature moral competence” (1999, 176–177). In particular, Dwyer speculates that neonates are “in possession of some knowledge that primes them for recognizing two normative social domains” (1999, 177).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按 Dwyer 的看法，正如领域一般学习无法解释儿童的语言能力，领域一般学习也无法解释儿童的*道德*能力——后者体现在他们对道德/习俗区分的把握上（另见 Dwyer 2006, 239–240）。因此，Dwyer 主张，儿童的道德能力超出了领域一般学习系统在环境所提供信息的基础上所能达到的水平。她总结说：“我们来到这个世界时，都带着一份先天道德知识；它与我们的经验一道，决定我们成熟的道德能力”（1999, 176–177）。具体说，Dwyer 推测新生儿“已拥有某些知识，使其准备好识别两个规范性的社会领域”（1999, 177）。
+    step2: |-
+      照 Dwyer 看：领域一般学习解释不了儿童的语言能力，同样解释不了儿童的*道德*能力——后者见诸他们对道德/习俗区分的把握（另见 Dwyer 2006, 239–240）。所以她认定，儿童的道德能力超出了领域一般学习系统凭环境信息所能达到的水平。她的结论是：“我们来到世上，都带着一份先天道德知识；它与经验一道，决定我们成熟的道德能力”（1999, 176–177）。她还具体推测：新生儿“已有某些知识，使他们准备好识别两个规范性的社会领域”（1999, 177）。
   - id: 103
     kind: body
     source: |-
       While Dwyer focuses on the moral/conventional distinction, other moral Chomskyans have focused on the character of the rules. Harman and Mikhail suggest that the *Principle of Double Effect* is reflected in the pattern of intuitions people have about trolley cases (Harman 1999, 113–14; Mikhail 2011, 360)[^harman-1999][^mikhail-2011]. The Principle of Double Effect holds that it can be permissible to bring about a bad consequence when that consequence is foreseen but not intentional. If people have this principle represented in some way, this would partly explain why they judge it permissible to pull the switch to save five people, knowing that one person on the side track will be killed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Dwyer 聚焦于道德/习俗区分，其他道德乔姆斯基派则聚焦于规则的性质。Harman 与 Mikhail 提出，*双重效应原则*反映在人们对电车难题的直觉模式中（Harman 1999, 113–14; Mikhail 2011, 360）[^harman-1999][^mikhail-2011]。双重效应原则主张，当一个坏后果被预见但并非被意图时，造成该后果可以是允许的。如果人们以某种方式表征了这一原则，这就能部分解释：为什么在知道侧轨上会死一人的情况下，他们仍判定扳道岔救五人是允许的。
+    step2: |-
+      Dwyer 盯着道德/习俗区分，别的道德乔姆斯基派则盯着规则的内容。Harman 与 Mikhail 提出，人们对电车难题的直觉模式里，透着*双重效应原则*（Harman 1999, 113–14; Mikhail 2011, 360）[^harman-1999][^mikhail-2011]。该原则说：坏后果若只是被预见、并非被意图，那么造成它可以是允许的。人若在心里表征了这条原则，就部分解释了：明知侧轨上要死一人，为何仍判扳道岔救五人是允许的。
   - id: 104
     kind: body
     source: |-
       Mikhail maintains that the acquisition of these principles likely depends on the morality-acquisition device (2011). And we find a poverty-of-the-stimulus-style argument from Harman:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Mikhail 主张，这些原则的获得很可能依赖道德获得装置（2011）。我们还看到 Harman 提出的一个刺激贫乏式论证：
+    step2: |-
+      Mikhail 主张，这类原则的获得多半靠道德获得装置（2011）。Harman 也给出一个刺激贫乏式的论证：
   - id: 105
     kind: body
     source: |-
       > An ordinary person was never taught the principle of Double-Effect…, and it is unclear how such a principle might have been acquired from the examples available to the ordinary person. This suggests that the relevant principle is built into I-morality ahead of time, in which case we should expect it to occur in all I-moralities (or be a default case, or something of the sort). In other words, the principles should be part of universal moral grammar. (Harman 225)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > An ordinary person was never taught the principle of Double-Effect…, and it is unclear how such a principle might have been acquired from the examples available to the ordinary person. This suggests that the relevant principle is built into I-morality ahead of time, in which case we should expect it to occur in all I-moralities (or be a default case, or something of the sort). In other words, the principles should be part of universal moral grammar. (Harman 225)
+    step2: |-
+      > 普通人从未被教过双重效应原则……，也说不清这样一条原则如何能从普通人可得的例子里学来。这似乎表明，相关原则早就内建于“内化道德”之中；若真如此，我们就该预期它出现在一切内化道德里（或者属于默认情形，诸如此类）。换句话说，这些原则应当是普遍道德语法的一部分。（Harman 225）
   - id: 106
     kind: body
     source: |-
       Harman’s point is that given the evidence available to the learner, it’s implausible that the learner could have acquired a principle as complex as the Principle of Double Effect without some innate contribution. And for the Chomskyan, the contribution is characteristically a dedicated acquisition device.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Harman 的要点是：就学习者可得的证据而言，很难相信学习者能在没有先天贡献的情况下获得像双重效应原则这样复杂的原则。而对乔姆斯基派来说，这份贡献的典型形态就是一套专用的获得装置。
+    step2: |-
+      Harman 的意思是：就学习者手头的证据看，指望他不靠先天贡献就学来双重效应原则这么复杂的东西，实在难以相信。而在乔姆斯基派眼里，这份先天贡献的典型样子，就是一套专用获得装置。
   - id: 107
     kind: body
     source: |-
       ### 5.2 Parochialism and nativism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 Parochialism and nativism
+    step2: |-
+      ### 5.2 偏狭主义与先天论
   - id: 108
     kind: body
     source: |-
       As we reviewed in section 3.3, infants and young children are highly sensitive to group boundaries, and their affiliations and inferences are influenced by these distinctions. One explanation for parochial moral norms, then, is that it’s the inevitable consequence of innate tribalism. The moral Chomskyans don’t try to explain this via innate learning devices, but other theorists do maintain that parochial norms derive from innate tribal biases.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 3.3 节所回顾的，婴儿与幼儿对群体边界高度敏感，其归属与推断受这些区分影响。那么，对偏狭道德规范的一种解释是：它是先天部落主义的必然后果。道德乔姆斯基派并不试图用先天学习装置来解释这一点，但其他理论家确实主张，偏狭规范源自先天的部落偏见。
+    step2: |-
+      3.3 节已见，婴儿和幼儿对群体边界极敏感，归属与推断都受其左右。那么偏狭的道德规范从何而来？一种解释：这是先天部落主义的必然产物。道德乔姆斯基派不用先天学习装置解释它；但另有理论家主张，偏狭规范源自先天的部落偏见。
   - id: 109
     kind: body
     source: |-
       Clark and colleagues affirm tribal nativism: “tribal bias is a natural and nearly ineradicable feature of human cognition” (Clark, Liu, Winegard, & Ditto 2019, 587). This gets recruited into accounts of moral acquisition by cultural evolutionary, social, and developmental psychologists. For instance, Chalik and Rhodes (2020) propose that children have an *automatic group bias:* “children assume all norms (not just moral norms) are bounded by some type of category… once they learn that something falls under the scope of a norm… they assume there is a boundary on whom it applies” (80). This idea of an automatic group bias is motivated by the idea that there are evolutionary reasons to expect norm acquisition to facilitate within-group coordination (see, e.g., Boyd & Richerson 2009; Rand & Nowak 2013)[^boyd-2009][^rand-2013]. Chudek and Henrich (2011, 219) propose that such pressures resulted in “…a coevolutionary selection for an ‘ethnic psychology’: a tendency for social group members to adopt arbitrary ethnic markers and preferentially interact with and learn from people who share those markers, further reinforcing the degree of and pressure for coordination”. There was, they maintain, evolutionary pressure in favor of having a “skill at recognizing and representing the most common behaviors, beliefs, or strategies in one’s community and for dispositions to adopt them or even internalize them as proximate motivations or heuristics” (Chudek and Henrich 2011, 219–20)[^chudek-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Clark 与同事肯定部落先天论：“部落偏见是人类认知中自然而几乎无法根除的特征”（Clark, Liu, Winegard, & Ditto 2019, 587）。这一观点被文化演化、社会与发展心理学纳入道德获得的说明。例如，Chalik 与 Rhodes（2020）提出儿童具有一种*自动的群体偏见*：“儿童假定一切规范（不只是道德规范）都受某种类别的界限约束……一旦他们知道某事落在某条规范的范围内……他们就假定存在一条界限，规定它适用于谁”（80）。这种自动群体偏见的想法，其动机来自一个观念：有演化上的理由预期规范获得会促进群体内协调（见如 Boyd & Richerson 2009; Rand & Nowak 2013）[^boyd-2009][^rand-2013]。Chudek 与 Henrich（2011, 219）提出，这类压力导致了……“对‘族群心理’的协同演化选择：社会群体成员倾向于采纳任意的族群标记，并优先与共享这些标记的人互动、向他们学习，从而进一步强化协调的程度与压力”。他们主张，演化压力偏向于拥有一种“识别并表征本共同体中最常见行为、信念或策略的技能，以及采纳它们、乃至把它们内化为近端动机或启发式的倾向”（Chudek and Henrich 2011, 219–20）[^chudek-2011]。
+    step2: |-
+      Clark 与同事肯定部落先天论：“部落偏见是人类认知中自然而又几乎拔不掉的特征”（Clark, Liu, Winegard, & Ditto 2019, 587）。文化演化、社会与发展心理学把它收进道德获得的说明。比如 Chalik 与 Rhodes（2020）提出，儿童有一种*自动的群体偏见*：“儿童假定一切规范（不只是道德规范）都受某类范畴的界限约束……一旦知道某事落在某条规范的范围里……他们就假定有一条界线，规定它管谁”（80）。这种说法的底气在于：从演化上看，规范获得理应促进群体内协调（见如 Boyd & Richerson 2009; Rand & Nowak 2013）[^boyd-2009][^rand-2013]。Chudek 与 Henrich（2011, 219）说，这类压力造就了……“‘族群心理’的协同演化选择：社会群体成员倾向于采纳任意的族群标记，并优先跟共享这些标记的人来往、向他们学习，从而进一步加固协调的程度与压力”。他们还说，演化压力偏向于让人具备一种“识别并表征本共同体最常见行为、信念或策略的本领，以及采纳、乃至把它们内化为近端动机或启发式的倾向”（Chudek and Henrich 2011, 219–20）[^chudek-2011]。
   - id: 110
     kind: body
     source: |-
       ## 6. Statistical learning and norms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. Statistical learning and norms
+    step2: |-
+      ## 6 统计学习与规范
   - id: 111
     kind: body
     source: |-
       As moral nativists like Mikhail have emphasized, moral rules seem to have complexity not explained directly by associative learning or explicit testimony. However, children and adults also learn via rational statistical inference based on available evidence (Kushnir et al. 2010; Xu & Kushnir 2013; Gopnik & Wellman 2012)[^gopnik-2012][^kushnir-2010]. While some statistical inference methods are intricate and specialized, others are straightforward and commonly understood. For example, if you want to estimate the difficulty of a logic exam you’ve administered, you might randomly grade 10 of the exams and use this sample to infer how the rest of the class performed. If 8 out of the 10 graded exams scored 100%, this suggests that the broader group likely did well, indicating that the test wasn’t too challenging. Here, you consider the graded sample as representative of the overall population of exams. Interestingly, even infants can make inferences from samples to populations (Xu & Kushnir 2013), and they demonstrate an early ability to use several statistical inference techniques (Dewar & Xu 2010; Girotto & Gonzalez 2008; Fontanari et al. 2014)[^dewar-2010][^fontanari-2014][^girotto-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 Mikhail 等道德先天论者所强调的，道德规则似乎具有联想学习或明确证言无法直接解释的复杂性。然而，儿童与成人也会基于可用证据进行理性的统计推断来学习（Kushnir et al. 2010; Xu & Kushnir 2013; Gopnik & Wellman 2012）[^gopnik-2012][^kushnir-2010]。有些统计推断方法精巧而专门，另一些则直白而常见。例如，你想估计自己刚主持的一场逻辑考试的难度，可以随机批改 10 份试卷，用这个样本来推断全班其余人的表现。如果 10 份中有 8 份得了 100%，这就表明更广的群体大概考得不错，考试不算太难。这里你把批改的样本当作全体试卷的代表。有意思的是，连婴儿也能从样本推断总体（Xu & Kushnir 2013），并表现出使用若干统计推断技术的早期能力（Dewar & Xu 2010; Girotto & Gonzalez 2008; Fontanari et al. 2014）[^dewar-2010][^fontanari-2014][^girotto-2008]。
+    step2: |-
+      道德先天论者如 Mikhail 强调：道德规则的复杂性，联想学习或明明白白的证言解释不了。不过儿童和成人还会做理性的统计推断，凭手头证据学东西（Kushnir et al. 2010; Xu & Kushnir 2013; Gopnik & Wellman 2012）[^gopnik-2012][^kushnir-2010]。统计推断有些精巧专门，有些则直白常见。比如你想知道刚考完的逻辑测验难不难，随手抽出十份卷子批一批，拿这十份推断全班。十份里八份满分，那就说明大家考得不错，题目不算难——你把抽到的样本当成了全体的代表。有意思的是，连婴儿都能从样本推总体（Xu & Kushnir 2013），而且很早就用得上好几种统计推断方法（Dewar & Xu 2010; Girotto & Gonzalez 2008; Fontanari et al. 2014）[^dewar-2010][^fontanari-2014][^girotto-2008]。
   - id: 112
     kind: body
     source: |-
       Various cognitive phenomena have been identified as relying on statistical inference, including categorization (Smith et al. 2002; Kemp et al. 2007)[^kemp-2007][^smith-2002], word learning (Xu & Tenenbaum 2007), theory of mind (Kushnir et al. 2010)[^kushnir-2010] and parsing (Gibson et al. 2013)[^gibson-2013]. In the case of the moral domain, rational statistical learning might not be able to tell the child what counts as moral (see section 7), but some of the complexity surrounding moral cognition might be explained via statistical learning. In this section, we will review statistical-learning approaches to some of the phenomena reviewed above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      多种认知现象已被认定依赖统计推断，包括分类（Smith et al. 2002; Kemp et al. 2007）[^kemp-2007][^smith-2002]、词语学习（Xu & Tenenbaum 2007）、心理理论（Kushnir et al. 2010）[^kushnir-2010] 与句法分析（Gibson et al. 2013）[^gibson-2013]。在道德领域，理性的统计学习也许无法告诉儿童什么算道德的（见第 7 节），但道德认知周围的某些复杂性或许可以通过统计学习来解释。本节回顾针对上文所述若干现象的统计学习进路。
+    step2: |-
+      已经有一串认知现象被认为靠统计推断，包括归类（Smith et al. 2002; Kemp et al. 2007）[^kemp-2007][^smith-2002]、学词（Xu & Tenenbaum 2007）、心理理论（Kushnir et al. 2010）[^kushnir-2010] 与句法分析（Gibson et al. 2013）[^gibson-2013]。放到道德领域，理性的统计学习也许教不会儿童“什么算道德”（见第 7 节），但道德认知周围的某些复杂性，或许能靠统计学习说明。本节就来看针对上文若干现象的统计学习进路。
   - id: 113
     kind: body
     source: |-
       ### 6.1 The size principle
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 The size principle
+    step2: |-
+      ### 6.1 规模原则
   - id: 114
     kind: body
     source: |-
