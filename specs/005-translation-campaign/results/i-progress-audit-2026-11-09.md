@@ -88,3 +88,19 @@ I 批共 **75 条**，英文 **1,210,525 词**。
 * `PROGRESS.md`（2026-11-08 18:30 UTC 生成）I 行 `75|75|75|21` 与本次实测一致。
 * `campaign.py status` 的 i 行（75／75／75／21）与本次实测一致；批次 `phase=translate` 不变（未达 done=总）。
 * 本文件为对账凭证；倒序翻译逐条的六道凭证落在 `tasks/i/<slug>.json` 的 `steps[].evidence` 与 `tasks/i/<slug>.ledger.yaml`。
+
+
+## 8. 倒序首条收口（2026-11-09，intuitionism-ethics）
+
+| 项 | 结果 |
+| ---- | ---- |
+| 账本 | 147 段（body 146 + oir 1）双版齐备；本会话补 117 段（31–147）＋修 2 处 `$` 误报豁免；`lqi.py check` HARD=0 |
+| 成稿 | compose 37,850 字符（421 行），`italic_to_bold_cjk` 24 行 |
+| s1 | 一校机检：账本 body 146 段逐段落盘对位（9 处差异为 s2 实修段）、脚注定义 84／正文引用 49 闭环、无残留英文段落 |
+| s2 | prose 25 告警（长句 6／的链 9／弱动词 9／们 1）逐条实修 23 处 → 0 |
+| s3 | check_style --strict 0、check_math 0、check_summary 绿、check_academic --strict 0 硬错误 |
+| r1–r3 | 通读复核实修 7 处（显象→显似术语统一、磨坊谷料直译腔、长句结构等）；引文 8 处逐字回核、页码年份照录核销 |
+| 术语登记 | 9 条入 `yi-zhe-shuo-ming.md`（显似状态／理智显似／情感显似／现象保守主义／情感直觉主义／祛除论证／领会／概念包含／快乐论功利主义） |
+| 状态 | `tasks/i/intuitionism-ethics.json` → done（六道 steps 全留痕） |
+
+**I 批现计数**：done 22／s3_checked 2／cleared 6／pending 45（75 条）。倒序队列下一条：intuitionism（#69）。

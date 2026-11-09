@@ -2,7 +2,7 @@
   "slug": "intuitionism-ethics",
   "kind": "retranslate",
   "zh_doc": "i/intuitionism-ethics.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "I-main-20261109",
       "at": "2026-11-09T02:40:54Z",
       "evidence": "三校体例：check_style --docs --strict 0 issue；check_math 0 公式（本词条无数学）；check_summary 绿；check_academic --strict 0 硬错误（学术挂钩实拦通过）；标题层级与编号去句点合规（## 2 自明命题 等）；相关词条 13 项映射"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261109",
+      "at": "2026-11-09T03:33:54Z",
+      "evidence": "初审自审记录：通读全文 421 行（正文 7 节 + References 84 条 + 尾节四件），对照 yuanwen 逐节核销；发现并实修 7 处——显象→显似（术语统一，第 43 行）、磨坊谷料直译腔、其三长句结构、"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261109",
+      "at": "2026-11-09T03:33:54Z",
+      "evidence": "复审逐句回核：引文 8 处与源文逐字核对（Price 1758 §678/§679、Prichard 1912: 13、Broad 1936: 102–3、Audi 1998: 20、Shafer-Landau 2003: 247、McGrath 2019: 148、Bengson-Cuneo-Shafer-Landau 2024: 340）；页码/年份照录核销（Ross 1930: 17–18/19/21/29/30–31/33/41、Sidgwick 1907: 338、Greene 2008: 41、Audi 2019: 379–380、McGrath 2019: 145/148）；术语一致性 grep 核销（自明性/初显义务/显似状态/领会/祛除论证）；逻辑链复核（7.1 分歧两策略→7.2 框架效应对策四条→7.3 Greene/Singer 批评与 Berker 反批评→7.4 Street 进化祛除→7.5 非推论性证成之争）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261109",
+      "at": "2026-11-09T03:33:57Z",
+      "evidence": "终稿验收：check_style --strict 0、check_prose 0、check_academic --strict 0 硬错误、check_math 0、check_summary 绿；术语登记 9 条已入 yi-zhe-shuo-ming.md（显似状态/理智显似/情感显似/现象保守主义/情感直觉主义/祛除论证/领会/概念包含/快乐论功利主义）；check_terms 仅存量人名告警（2434 条，非本词条产物）；正文 421 行 / 37850 字符，账本 147 段双版入库"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261109",
+      "at": "2026-11-09T03:33:57Z",
+      "evidence": "终审签字：六道全过（s1 对位/脚注闭环、s2 prose 25→0 实修 23 处、s3 四检绿、r1 实修 7 处、r2 引文与页码逐句回核、r3 终稿验收），倒序首条收口"
     }
   ],
   "blockers": [],

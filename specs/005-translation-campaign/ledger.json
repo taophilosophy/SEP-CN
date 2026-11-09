@@ -68,8 +68,8 @@
    "phase": "translate",
    "claimed_by": "I-main-20261109",
    "claimed_at": "2026-11-08T19:12:51Z",
-   "note": "2026-11-09 倒序线对账（I-main-20261109 承接 I-main-20261108）：四方核销（任务 JSON × 账本实填 × 正文落盘 × 英文字数）结论——75 条 / 1,210,525 英文词；done 21（236,095 词，19.5%；账本era 3 条＋40 路批存量 18 条）、s3_checked 2（illumination 90/90、ingarden 55/55，待 r1–r3）、cleared 7（intuitionism-ethics 账本 30/147、it-moral-values 98/114、immunology 空壳、imaginative-resistance / impossible-worlds / information-biological / intrinsic-extrinsic 四条为 11-02 在途快照遗留、无账本不合 ADR-0021，一律按待译重走账本）、pending 45（856,799 词）。倒序队列自 intuitionism-ethics 起（SUMMARY 序 #70 向 #1）。对账凭证：specs/005-translation-campaign/results/i-progress-audit-2026-11-09.md。",
-   "advanced_at": "2026-11-08T19:12:51Z"
+   "note": "2026-11-09 倒序线（I-main-20261109 承接 I-main-20261108）：四方核销已入库 results/i-progress-audit-2026-11-09.md（75 条 / 1,210,525 英文词）。倒序首条 intuitionism-ethics 收口 done：账本 147/147 段双版（本会话补 117 段）→compose 37850 字符→粗体化 24 行；s1 对位/脚注闭环、s2 prose 25→0（实修 23 处）、s3 四检绿、r1–r3 复核（实修 7 处：显象→显似术语统一等）；术语登记 9 条入 yi-zhe-shuo-ming.md。I 批现 done 22/75（29.3%）。余下：s3_checked 2（illumination 90/90、ingarden 55/55，待 r1–r3）、cleared 6（it-moral-values 账本 98/114、immunology 空壳、4 条 11-02 快照遗留无账本）、pending 45。倒序队列下一条：intuitionism（SUMMARY 序 #69）。",
+   "advanced_at": "2026-11-09T03:54:10Z"
   },
   "j": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-09T02:37:39Z"
+ "updated_at": "2026-11-09T03:54:10Z"
 }
