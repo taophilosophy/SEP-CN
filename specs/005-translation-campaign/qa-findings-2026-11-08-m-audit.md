@@ -115,5 +115,8 @@
 * **四检**：check_style 0 issue、check_math 0 公式无缺失/失衡、check_summary H1 0 偏差、check_academic --strict 无硬错误。
 * **s1 已通过（任务 state=s1_checked，commit `e22bfed1`）**：结构全等（marker 266 / unique 108 / defs 107 / 标题 25 与 yuanwen 逐项一致）；相关词条 7/7 对 SUMMARY（compose NOTE 未匹配项 `genetics: genotype/phenotype distinction` 手工改为「基因型/表现型的区别」，即 §6.5 陷阱 2 规程）；数字核销（`script/mo_s1_numbers.py`）唯一差异为源文自身笔误 `In a 2106 news post`（引注 Lauer 2016），已加译注留痕；拉丁词元全部可回溯源文；笔误 2 处修正（至起码→起码）。
 * **s2 进行中**：check_prose 起始 47 条（de-chain 20 / long-sentence 15 / weak-verb 7 / passive-bei 3 / plural-men 1），已清零 weak-verb、passive-bei、plural-men 共 11 条（`script/mo_s2_fix1.py` + 1 处手改）；余 36 条（de-chain 21 / long-sentence 15）待下一轮逐条改写或按 ADR-0020 豁免（引文内部照录者豁免）。
-* **待办**：s2 收尾 → s3（体例四检 + markdownlint）→ 交评审线。
+* **s2 完成（goal round 4）**：`script/mo_s2_fix2.py`（28 处改写：长句拆分、「的」链化解、引语前导句重组）＋ `script/mo_s2_fix3.py`（6 处）后告警 47→9。余 9 条按 ADR-0020 逐条豁免留痕：**行 79、89、111**（单句 73/77/140 汉字，均为直接引语内部的原文长句，引文照录不改）；**行 93、99、101、109、203**（de-chain 密度告警落在引语与“局部的、技术的、工具的、制度的、社会的与认知的”这类术语列举内部，改写即损忠实）；判据：这 9 处均非独立行文，拆分或减「的」会改变引语形态。
 * **门禁**：`tools/check_all.py` 7/7 全绿（中途一次 2 项失败系并行会话在途状态——`g/gianfrancesco-pico.md` H1 与 SUMMARY 暂不一致、`ren-ming-biao.md` 写入竞态，复跑即归零；非 M 批问题，按纪律不改他批文件）。
+* **s3 体例三校通过（任务 state=s3_checked，commit `1c997490`）**：check_style 0 issue；markdownlint 本文件 0 error（`script/mo_s3_lint.py` 修 MD004 列表符号 17 行、MD060 表格 compact 24 行）；**口径冲突处置**——MD060（管道内侧不留空格）与 check_style bold-spacing（`**` 两侧需空格）在「表格内粗体紧贴管道」处互斥，按体例门禁优先把表格标签 11 行改纯文本（`script/mo_s3_tableplain.py`），两门禁同时归零，源文斜体标签的强调在表格内降级为纯文本（正文强调不受影响）；check_math 0、check_summary H1 0、check_academic --strict 无硬错误。
+* **状态**：model-organisms 交 R-main 评审线走 r1–r3；本会话不推进评审步。
+* **跨会话观察（非 M 批问题）**：本轮收尾 `check_all` 出现术语一致性 1 项失败——`yi-zhe-shuo-ming.md` 第 2725/3468 行「Law of Nations / law of nations → 万民法」两行重复（分别由 colonialism 与 cosmopolitanism 首译登记），另人名表 Samuel Ibn Tibbon 一处拼法冲突；均为并行会话并发追加所致，按纪律不由本会话改他批行，留待其归属会话或治理会话裁定。
