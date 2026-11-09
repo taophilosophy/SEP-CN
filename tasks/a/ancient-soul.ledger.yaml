@@ -83,56 +83,74 @@ segments:
     kind: body
     source: |-
       From Homer to the end of the fifth century, the word ‘soul’ undergoes remarkable semantic expansion, in the course of which it comes to be natural not only to speak of soul as what distinguishes the living from the dead and (not the same distinction) the animate from the inanimate, but also to attribute to the soul a wide variety of activities and responses, cognitive as well as emotional, and to think of it as the bearer of such virtues as courage, temperance and justice. As a result of these developments, the language made available something that Homeric Greek lacked, a distinction between body and soul. Thus the Hippocratic author of *Airs, Waters, Places* writes of “endurance in body and soul” (ch. 23). Antiphon says of a defendant who is sure of his innocence that though his body may surrender, his soul saves him by its willingness to struggle, through knowledge of its innocence. For the guilty, on the other hand, even a strong body is to no avail, since his soul fails him, “believing the vengeance coming to him is for his impieties” (Antiphon 5). Homer, by contrast, knows and speaks of a whole lot of different sources and bearers of psychological predicates, but lacks a word to pick out the soul as a single item to which the predicates in question can, in some way or other, be referred and which can be distinguished from, and in suitable contexts contrasted with, the body (cf. Snell 1975, 18–25)[^snell-1975].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从荷马到五世纪末，“灵魂”一词经历了可观的语义扩展。在此过程中，人们不仅自然地把灵魂说成区分生者与死者、以及（另一重区分）有生命者与无生命者的东西，而且把形形色色的活动与反应——认知的与情感的——归给灵魂，并把它视为勇敢、节制、正义等德性的承担者。这些发展的结果是：语言提供了一种荷马希腊语所缺的东西，即身体与灵魂的区分。于是，《论空气、水与地方》的希波克拉底作者写到“身体与灵魂中的坚韧”（第 23 章）。安提丰谈到一位确信自己无辜的被告说：他的身体或可屈服，但他的灵魂凭着对自己无辜的认知、以其奋力抗争的意愿拯救他。反之，对有罪者，即便身体强壮也无济于事，因为他的灵魂弃他而去，“相信临到他身上的报复正是对其不虔之举”（安提丰 5）。相比之下，荷马知道并说到许多不同的心理谓词的来源与承担者，却缺少一个词，用来挑出灵魂作为单一项目——这些谓词可在某种意义上归给它，且可与身体区分、并在适当语境中与身体对举（参 Snell 1975, 18–25）[^snell-1975]。
+    step2: |-
+      从荷马到五世纪末，“灵魂”一词经历了可观的语义扩展。在此过程中，人们不仅自然地把灵魂说成区分生者与死者、以及（另一重区分）有生命者与无生命者的东西，而且把形形色色的活动与反应——认知的与情感的——归给它，把它视为勇敢、节制、正义等德性的承担者。这些发展的结果是：语言提供了一种荷马希腊语所缺的东西，即身体与灵魂之分。于是，《论空气、水与地方》的希波克拉底作者写到“身体与灵魂中的坚韧”（第 23 章）；安提丰谈一位确信自己无辜的被告说：其身体或可屈服，其灵魂却凭对自己无辜的认知、以奋力抗争的意愿救他。反之，有罪者纵有强壮身体也无济于事，因为他的灵魂弃他而去，“相信临到他身上的报复正是对其不虔之举”（安提丰 5）。相比之下，荷马知道并说到许多不同的心理谓词之来源与承担者，却缺少一个词，用来挑出灵魂作为单一项目——这些谓词可在某种意义上归给它，且可与身体区分、并在适当语境中与身体对举（参 Snell 1975, 18–25）[^snell-1975]。
   - id: 11
     kind: body
     source: |-
       ## 2. Presocratic Thinking about the Soul
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 前苏格拉底派对灵魂的思考
+    step2: |-
+      ## 2 前苏格拉底派对灵魂的思考
   - id: 12
     kind: body
     source: |-
       The semantic expansion of ‘soul’ in the sixth and fifth centuries is reflected in the philosophical writings of the period. For instance, once it becomes natural to speak of soul as what distinguishes the animate from the inanimate, rather than as something that is restricted to humans, it becomes clear that the domain of ensouled things is not limited to animals, but includes plants as well. Empedocles and, apparently, Pythagoras (cf. Bremmer 1983, 125)[^bremmer-1983] thought that plants have souls, and that human souls, for instance, can come to animate plants. (Note, though, that Empedocles, in extant fragments, rarely uses the word ‘soul’, preferring the word *daimôn*.) Empedocles in fact claimed to have been a bush in a previous incarnation, as well as, among other things, a bird and a fish (fr. 117, Kirk, Raven & Schofield 1983 [in what follows KR&S], 417). Incidentally, Empedocles, like Anaxagoras and Democritus, referred to plants as animals, presumably precisely because they are alive (*zên*, from which the word for animal, *zôon*, derives) (for details, cf. Skemp 1947, 56)[^skemp-1947]. In this he was followed by Plato (*Timaeus* 77b), but emphatically not by Aristotle (*De Anima* 2.2, 413b1f).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      六、五世纪“灵魂”的语义扩展，反映在当时的哲学著作中。例如，一旦人们自然地把灵魂说成区分有生命者与无生命者的东西，而不再限于人，那么显然，有灵魂之物的范围并不限于动物，也包括植物。恩培多克勒、以及显然还有毕达哥拉斯（参 Bremmer 1983, 125）[^bremmer-1983]认为，植物有灵魂，且人的灵魂可以转而使植物有生命。（不过注意：恩培多克勒在现存残篇中很少用“灵魂”一词，更偏爱用 daimôn 一词。）恩培多克勒实际上声称自己前世曾是一丛灌木，此外还曾是鸟和鱼（fr. 117，Kirk, Raven & Schofield 1983［以下简称 KR&S］，417）。顺带一提，恩培多克勒与阿那克萨戈拉、德谟克利特一样，把植物称为动物，大概正因为它们是活的（zên，“动物”一词 zôon 即由此而来）（细节参 Skemp 1947, 56）[^skemp-1947]。在这一点上，柏拉图（《蒂迈欧篇》77b）追随他，而亚里士多德（《论灵魂》2.2, 413b1f）则断然不然。
+    step2: |-
+      六、五世纪“灵魂”的语义扩展，反映在当时的哲学著作中。例如，一旦人们自然地把灵魂说成区分有生命者与无生命者的东西，不再限于人，那么显然，有灵魂之物的范围便不限于动物，也包括植物。恩培多克勒、以及显然还有毕达哥拉斯（参 Bremmer 1983, 125）[^bremmer-1983]认为，植物有灵魂，人的灵魂也可以转而使植物有生命。（不过注意：现存残篇中，恩培多克勒很少用“灵魂”一词，更偏爱 *daimôn*。）恩培多克勒甚至声称自己前世曾是一丛灌木，此外还曾是鸟和鱼（fr. 117；Kirk, Raven & Schofield 1983［以下简称 KR&S］，417）。顺带一提，恩培多克勒与阿那克萨戈拉、德谟克利特一样把植物称为动物，大概正因它们活着（*zên*，“动物”一词 *zôon* 即由此而来）（细节参 Skemp 1947, 56）[^skemp-1947]。在这一点上，柏拉图（《蒂迈欧篇》77b）追随他，亚里士多德（《论灵魂》2.2, 413b1f）则断然不然。
   - id: 13
     kind: body
     source: |-
       There is, moreover, some reason to think that philosophical activity, notably Pythagorean speculation (beginning around mid-sixth century), contributed to the semantic expansion of ‘soul’. As we have seen, at least some of the earliest extant texts that associate with the soul moral virtues other than courage suggest Pythagorean influence. It is, in fact, not difficult to see how Pythagoreanism may have furthered the expansion of ‘soul’. Pythagoreanism was concerned with, among other things, the continued existence of the person (or something suitably person-like) after death. It is obvious that against the Homeric background, ‘soul’ was an eminently appropriate word to use so as to denote the person, or quasi-person, that continued to exist after death; there was, after all, the familiar Homeric use of ‘soul’ as that which endures in the underworld after a person’s death. To make the continued existence of this soul significant as the continued existence of the person in question, at least some of the states, activities, operations and the like that seemed crucial to the identity of the person had to be attributed to the soul (following Furley 1956, 11, who goes further than that, writing of the need for the soul “to include *all* the functions of personality”; cf. Barnes 1982, 103–6; Huffman 2009)[^furley-1956][^barnes-1982][^huffman-2009]. This tendency is well illustrated by a story about Pythagoras, reported by Xenophanes (fr. 7, KR&S 260): “Once, they say, he was passing by when a puppy was being whipped, and he took pity and said: ‘Stop, do not beat it; it is the soul of a friend that I recognized when I heard its [i.e., the soul’s!] voice.’” It is not just that the soul of Pythagoras’ friend accounts for the character of the yelping (or whatever). Pythagoras is in fact quoted as saying that it is his friend’s soul that is doing the yelping!
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，有理由认为哲学活动——尤其是毕达哥拉斯派思辨（约始于六世纪中叶）——促成了“灵魂”的语义扩展。如我们所见，现存最早把勇敢以外的道德德性与灵魂相连的文本，至少有一部分暗示毕达哥拉斯派的影响。事实上不难看出毕达哥拉斯主义如何推动了“灵魂”的扩展。毕达哥拉斯主义关心的事项之一，就是人（或某种宜于人者）死后的持续存在。显然，在荷马的背景下，“灵魂”是个极恰当的词，用来指死后继续存在的人或准-人；毕竟，荷马那里本就有“灵魂”在人死后存续于冥府的熟见用法。要使这条灵魂的继续存在具有“所涉之人继续存在”的意义，至少得把一些看来对人同一性至关重要的状态、活动、运作等归给灵魂（依 Furley 1956, 11；他更进一步，写到灵魂须“包含人格的全部功能”；参 Barnes 1982, 103–6；Huffman 2009）[^furley-1956][^barnes-1982][^huffman-2009]。这一倾向由一则关于毕达哥拉斯的轶事生动说明，该轶事由色诺芬尼记载（fr. 7, KR&S 260）：“据说有一次他路过，见一只小狗挨打，便心生怜悯说：‘住手，别打它；那是我一位朋友的灵魂，我听见它的声音就认出来了。’”不只是毕达哥拉斯的朋友的灵魂解释了那声哀叫（或诸如此类）；实际上，引述的毕达哥拉斯是说，正在哀叫的正是他朋友的灵魂！
+    step2: |-
+      此外，有理由认为哲学活动——尤其毕达哥拉斯派思辨（约始于六世纪中叶）——促成了“灵魂”的语义扩展。如我们所见，现存最早把勇敢以外的道德德性与灵魂相连的文本，至少有一部分暗示毕达哥拉斯派的影响。事实上不难看出，毕达哥拉斯主义如何推动了“灵魂”的扩展：它所关心的事项之一，正是人（或某种宜于人者）死后的持续存在。在荷马的背景下，“灵魂”显然是极恰当的词，用来指死后继续存在的人或准人——荷马本就有“灵魂”在人死后存续于冥府的熟见用法。要使这条灵魂的继续存在成为“所涉之人继续存在”，至少得把一些看来看重于人同一性的状态、活动、运作归给灵魂（依 Furley 1956, 11；他更进一步，说灵魂须“包含人格的 **全部** 功能”；参 Barnes 1982, 103–6；Huffman 2009）[^furley-1956][^barnes-1982][^huffman-2009]。这一倾向有则轶事可作生动说明，该轶事由色诺芬尼记载（fr. 7, KR&S 260）：“据说有一次他路过，见一只小狗挨打，便心生怜悯说：‘住手，别打它；那是我一位朋友的灵魂，我听见它的声音就认出来了。’”岂止是毕达哥拉斯朋友的灵魂解释那声哀叫——引述的毕达哥拉斯径直说，正在哀叫的正是他朋友的灵魂！
   - id: 14
     kind: body
     source: |-
       Heraclitus (fl. around 500 BC), who repeatedly mentions Pythagoras, attributes wisdom to the soul provided that it is in the right state or condition: “a dry soul”, he claims, “is wisest and best” (fr. 118, KR&S 230). He may have been the first thinker to articulate a connection between soul and motor functions. “A man when he is drunk”, Heraclitus remarks, “is led by an unfledged boy, stumbling and not knowing where he goes, having his soul moist” (fr. 117, KR&S 231). On the most plausible construal of Heraclitus’ sentence, he is saying that the drunken person stumbles because his perceptual abilities have been impaired, and this impairment is due to moistness of soul (Schofield 1991, 22)[^schofield-1991]. Like many (or indeed all) sixth and fifth century thinkers who expressed views on the nature or constitution of the soul, Heraclitus thought that the soul was bodily, but composed of an unusually fine or rare kind of matter, e.g. air or fire. (A possible exception is the Pythagorean Philolaus, who may have held that the soul is an ‘attunement’ of the body; cf. Barnes 1982, 488–95, and Huffman.)[^barnes-1982] The prevalence of the idea that the soul is bodily explains the absence of problems about the relation between soul and body. Soul and body were not thought to be radically different in kind; their difference seemed just to consist in a difference in degree of properties such as fineness and mobility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      赫拉克利特（鼎盛期约公元前 500 年）屡次提到毕达哥拉斯，他把智慧归给灵魂，前提是灵魂处于恰当状态或状况：他声称，“干燥的灵魂最智慧、最优秀”（fr. 118, KR&S 230）。他也许是最早表述灵魂与运动功能之间联系的思想家。赫拉克利特说：“人喝醉了，便由一个未成年的男孩牵着走，跌跌撞撞，不知往哪里去，因为他的灵魂是湿的”（fr. 117, KR&S 231）。按对赫拉克利特此句最可信的解释，他是说醉汉之所以跌撞，是因为其知觉能力受损，而这损伤源于灵魂的湿（Schofield 1991, 22）[^schofield-1991]。像许多（甚至所有）对灵魂性质或构造发表过看法的六、五世纪思想家一样，赫拉克利特认为灵魂是物体性的，但由一种格外精细或稀薄的物质——如气或火——构成。（可能的例外是毕达哥拉斯派的菲洛劳斯，他也许主张灵魂是身体的一种“和谐”；参 Barnes 1982, 488–95，以及 Huffman。）[^barnes-1982] “灵魂是物体性的”这一观念流行，解释了为何不存在灵魂与身体关系的问题。灵魂与身体并不被认为在种类上根本不同；它们的差别似乎只是精细程度与可动性等属性的程度差别。
+    step2: |-
+      赫拉克利特（鼎盛期约公元前 500 年）屡次提到毕达哥拉斯，他把智慧归给灵魂，前提是灵魂处于恰当状态：他声称，“干燥的灵魂最智慧、最优秀”（fr. 118, KR&S 230）。他也许是最早表述灵魂与运动功能之联系的思想家。赫拉克利特说：“人喝醉了，便由一个未成年的男孩牵着走，跌跌撞撞，不知往哪里去，因为他的灵魂是湿的”（fr. 117, KR&S 231）。对这句话最可信的解释是：醉汉之所以跌撞，是因知觉能力受损，而损伤源于灵魂之湿（Schofield 1991, 22）[^schofield-1991]。像许多（甚至所有）就灵魂性质或构造发表过看法的六、五世纪思想家一样，赫拉克利特认为灵魂是物体性的，但由一种格外精细或稀薄的物质构成，如气或火。（可能的例外是毕达哥拉斯派的菲洛劳斯，他也许主张灵魂是身体的一种“和谐”；参 Barnes 1982, 488–95，以及 Huffman。）[^barnes-1982] “灵魂是物体性的”这一观念流行，正解释了为何没有灵魂与身体之关系的问题：灵魂与身体并不被认为在种类上根本不同，其差别似乎只在精细、可动等属性的程度上。
   - id: 15
     kind: body
     source: |-
       ## 3. Plato’s Theories of Soul
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 柏拉图的灵魂理论
+    step2: |-
+      ## 3 柏拉图的灵魂理论
   - id: 16
     kind: body
     source: |-
       The various developments that occurred in the sixth and fifth centuries in how Greeks thought and spoke of the soul resulted in a very complex notion that strikes one as remarkably close to conceptions of the soul that we find in fourth century philosophical theories, notably Plato’s. There is thus some reason to think that the philosophical theories in question are best interpreted as working with, and on, the relatively non-theoretical notion of the soul that by the end of the fifth century has come to be embedded in ordinary language. In what follows our main concern will be to characterize some of the theories in question. But we should also attend, wherever this seems appropriate and helpful, to ways in which familiarity with the ordinary notion of the soul might enable us better to understand why a theory or an argument proceeds the way it does. In addition, we should note ways in which philosophical theories might seem to clarify and further articulate the ordinary notion. We begin with Plato, and with a question that is intimately tied up with the ordinary notion of the soul as it developed from the Homeric poems onwards, namely whether a person’s soul does indeed survive the person’s death.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      六、五世纪希腊人思考与言说灵魂的方式所发生的种种发展，产生了一个非常复杂的概念，让人觉得它惊人地接近我们在四世纪哲学理论——尤其是柏拉图——中看到的灵魂构想。因此有理由认为，这些哲学理论最好被解释为：既依托、又加工那种到五世纪末已嵌入日常语言的相对非理论的灵魂概念。下文主要关注的是刻画其中一些理论。但凡是合适且有助益之处，我们也应注意：熟悉日常的灵魂概念，如何能让我们更好地理解某一理论或论证为何如此进行。此外，还应指出哲学理论看来澄清并进一步阐发日常概念的方式。我们从柏拉图开始，从与那个自荷马史诗以来发展起来的日常灵魂概念紧密相关的问题开始，即：一个人的灵魂是否真的在死亡后存续。
+    step2: |-
+      公元六、五世纪，希腊人思考与言说灵魂的方式发生了种种变化，产生了一个非常复杂的概念，令人觉得它与四世纪哲学理论——尤其柏拉图——中的灵魂构想惊人地接近。因此有理由认为，这些哲学理论最好被理解为：既依托那种相对非理论的灵魂概念，又对它加以加工——而到五世纪末，这一概念已嵌入日常语言。下文主要刻画其中一些理论；但凡合适且有助益之处，也留意：熟悉日常灵魂概念，如何能帮助我们更好理解某一理论或论证为何如此展开。此外，还应指出哲学理论看来澄清并进一步阐发日常概念之处。我们从柏拉图开始，从一个与荷马以来发展起来的日常灵魂概念紧密相关的问题开始：一个人的灵魂，是否真能在人死亡后存续？
   - id: 17
     kind: body
     source: |-
       ### 3.1 The *Phaedo’s* Theory of Soul
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 《斐多篇》的灵魂理论
+    step2: |-
+      ### 3.1 《斐多篇》的灵魂理论
   - id: 18
     kind: body
     source: |-
       It is probably true that in mainstream fifth century Greek culture, belief in an afterlife of the soul was weak and unclear (Claus 1981, 68; Burnet 1916, 248–9)[^burnet-1916][^claus-1981]. If so, it is fitting that Socrates’ arguments for the immortality of the soul, most prominently in the *Phaedo*, are offered to interlocutors who, at the outset of the discussion, are by no means convinced of the idea. (In fact, in the *Apology*, 40c, Socrates himself is presented as being noncommittal about what happens to the soul at death, and even about whether it survives at all.) “Men find it very hard to believe”, Cebes says at *Phaedo* 70a, “what you said about the soul. They think that after it has left the body it no longer exists anywhere, but that it is destroyed and dissolved on the day the man dies.” This view is restated by Simmias (at 77b) as the opinion of the majority (cf. 80d); note that the view includes the idea that the soul is a material thing, and is destroyed by being dispersed, “like breath or smoke” (70a). Glaucon, in the last book of the *Republic* (608d), is taken aback by Socrates’ question,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在五世纪主流希腊文化中，对灵魂来生的信仰大概是薄弱而含混的（Claus 1981, 68；Burnet 1916, 248–9）[^burnet-1916][^claus-1981]。若如此，那么苏格拉底关于灵魂不朽的论证——最突出的是在《斐多篇》中——被呈给在讨论之初绝不确信此说的对话者，倒正合适。（事实上，在《申辩篇》40c，苏格拉底本人对死亡时灵魂如何、甚至灵魂是否存续，都显得不予断言。）“人们很难相信”，齐贝斯在《斐多篇》70a 说，“你关于灵魂所说的那些。他们认为灵魂离开身体之后便不复存在于任何地方，而是在人死的那一天被摧毁、消散。”西米亚斯（在 77b）把这一看法重述为多数人的意见（参 80d）；注意此看法包含灵魂是物质性的、并因被驱散而消灭的观念，“像气息或烟一样”（70a）。《理想国》末卷（608d）的格劳孔，被苏格拉底的问题吓了一跳，
+    step2: |-
+      在五世纪主流希腊文化中，对灵魂来生的信仰大概薄弱而含混（Claus 1981, 68；Burnet 1916, 248–9）[^burnet-1916][^claus-1981]。若如此，那么苏格拉底关于灵魂不朽的论证——最突出者见《斐多篇》——呈给在讨论之初绝不确信此说的对话者，倒正合适。（事实上，《申辩篇》40c 中的苏格拉底本人，对死亡时灵魂如何、甚至灵魂是否存续，都不作断言。）“人们很难相信”，齐贝斯在《斐多篇》70a 说，“你关于灵魂所说的那些。他们认为灵魂离开身体之后便不复存在于任何地方，而是在人死的那一天被摧毁、消散。”西米亚斯（77b）把这一看法的重述为多数人的意见（参 80d）；注意此看法包含灵魂是物质性的、并因被驱散而消灭的观念，“像气息或烟一样”（70a）。《理想国》末卷（608d）的格劳孔，被苏格拉底的问题吓了一跳，
   - id: 19
     kind: body
     source: |-
