@@ -1870,7 +1870,7 @@
   * [纯粹法理论 pure theory of law (Andrei Marmor)](l/lawphil-theory.md)
 * [\*新理正派——见早期现代印度的分析哲学 Navya-Nyāya — see Early Modern India, analytic philosophy in](e/early-modern-india.md)
 * [必要条件和充分条件 necessary and sufficient conditions (Andrew Brennan)](n/necessary-sufficient.md)
-* [上帝和其他必然存在 and other necessary beings (Matthew Davidson)](g/god-necessary-being.md)
+* [上帝和其他必然存在 God and Other Necessary Beings (Matthew Davidson)](g/god-necessary-being.md)
   * [\*上帝——见上帝和其他必然存在 God and Other Necessary Beings — see God: and other necessary beings](g/god-necessary-being.md)
 * [道德与政治哲学中的需求 needs, in moral and political philosophy (Gillian Brock and David Miller)](n/needs.md)
 * [否定 negation (Laurence R. Horn and Heinrich Wansing)](n/negation.md)

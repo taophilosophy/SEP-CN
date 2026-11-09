@@ -2,7 +2,7 @@
   "slug": "god-necessary-being",
   "kind": "retranslate",
   "zh_doc": "g/god-necessary-being.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "g-gamma-G-main-20261109",
       "at": "2026-11-09T04:44:13Z",
       "evidence": "s3 三校：g_check 全绿（check_style issues=0、check_math formulas=0 missing/unbalanced 皆 0、check_academic --strict OK、H1=SUMMARY 一致）；check_terms --docs 定点核销 1 文档 0 处疑似缺译法（登记册层面 165/2441 条全局告警与本词条无关）；术语对齐登记册：完满存在神学（原写「完满存在者神学」2 处改齐）、马兰·梅森（首现补全名）；登记清单 scrip/g_reg/g-gamma_god-necessary-being.json 19 术语+3 人名经 Lead 入库"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T19:03:42Z",
+      "evidence": "r1 对照英文源自审（9037 词全读，5 节 4 小节逐段回核）：节标题 19=18+脚注节（源 Notes 后置、zh 按模板前置，属体例）、脚注键 83=83 全等、内容段 170=170、段落 189=188（byline 省略+标题重排所致）。修补 3 处：①H1 与 SUMMARY 补回英文原题‘God and Other Necessary Beings’（SUMMARY 1873/mu-lu-s 1829/H1 三处同步，原缺 God 词）；②完满存在神学→完满存在者神学（与 41/150/172 行统一）；③‘以凭此推出’→‘以借这套方法推出’。核定不误：van Inwagen 引文‘free abstract objects 自由的抽象对象’照源（源文如此用语）；§4.4‘第一个混合观点’照源（no one holds this first mixed view）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T19:03:42Z",
+      "evidence": "r2 句级回核：全文 298 行复读；主要引文 8 处（诗篇 89:11、尼希米记 9:6、约翰福音 1:1-4、歌罗西书 1:15-16、古兰经 39:62-63/6:102、笛卡尔致梅森书、莱布尼茨《单子论》43-44、Morris-Menzel 三引、van Inwagen 2009、Gould-Davis 2014）逐句对照信实；残留外文扫描：正文保留现代学者名与拉丁术语（locus classicus/prima facie/sui generis 首现括注）符合政策；人名册覆盖：正文汉名（上帝/安瑟伦/阿奎那/奥古斯丁/笛卡尔/莱布尼茨/斯宾诺莎/刘易斯等）均有行，现代学者 Welty/Menzel/Leftow/Gould/Davis/Craig 等按惯例保留英文无需登记。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T19:03:43Z",
+      "evidence": "r3 终检：g_check 全绿（style 0、math 0、academic --strict OK、H1=SUMMARY 一致）；check_prose 4 条全在引文块（圣经/笛卡尔引文，ADR-0020 豁免）；check_mulu_s HARD=0；check_terms 无硬错误；账本 97 段守恒（draft HARD=0，SOFT 19 条逐条判读）。复核独立性：初译 g-gamma-G-main-20261109，r1–r3 由 G-main-20261110。验收通过。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "G-main-20261110",
+      "at": "2026-11-09T19:03:44Z",
+      "evidence": "done：九步齐，298 行成稿入库，验收签字（含 SUMMARY/mu-lu-s 标题缺陷修复）。"
     }
   ],
   "blockers": [],

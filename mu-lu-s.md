@@ -1826,7 +1826,7 @@ outline: [1, 6]
 * [奇迹 miracles (Timothy McGrew and Robert Larmer)](m/miracles.md)
 * [神学意志主义 voluntarism, theological (Mark Murphy)](v/voluntarism-theological.md)
   * [上帝与其他终极存在 and other ultimates (Jeanine Diller)](g/god-ultimates.md)
-  * [上帝和其他必然存在 and other necessary beings (Matthew Davidson)](g/god-necessary-being.md)
+  * [上帝和其他必然存在 God and Other Necessary Beings (Matthew Davidson)](g/god-necessary-being.md)
 
 ### 基督教
 
