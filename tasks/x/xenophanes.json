@@ -2,7 +2,7 @@
   "slug": "xenophanes",
   "kind": "retranslate",
   "zh_doc": "x/xenophanes.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "TZ-main-20261107",
       "at": "2026-11-07T08:19:43Z",
       "evidence": "体例校：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_terms 0 硬错误、check_all 七项全绿。术语登记 24 行新入（神人同形同性论/本原/转述/会饮/诵诗人/探究/臆测/解释项/去神话化/目的论/三元分析/奥林匹亚德＋埃提乌斯/克莱门/希波吕托斯/埃庇米尼得斯/塞奥多雷特/赫罗迪安/卡索邦/塔乌玛斯/伊里斯/梭伦/欧里庇得斯/费尔巴哈/弗洛伊德），词汇表与池同步，行体例 6 列重排。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T13:56:06Z",
+      "evidence": "r1 回源逐节核销（导语+7 节全对照）：实修 8 处——B14 引言「神有生有死」删增译（源文只说 born）且 their own=自己的；B17 引言补漏译 of pine=松木的；B11/12 导语 describe=讲述（原「转述」易误为转引 testimonium）；archaic 2 处上古→古风（古风时期）；taste 主观性句重写；§7 神摇万物补 (alone)=单凭心思；B28 upper limit 尽头→上限。探针 NUM 54 为 540–537 连字号断词误报；MARK bold 增量为 CJK 斜体转粗体体例。四检：style 0/academic 0 硬/math 0/prose 0。人名括注无缺口（s3rev_names）"
     }
   ],
   "blockers": [],
