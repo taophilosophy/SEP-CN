@@ -905,32 +905,42 @@ segments:
     kind: body
     source: |-
       ## 5. Philosophical Psychology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 哲学心理学
+    step2: |-
+      ## 5. 哲学心理学
   - id: 107
     kind: body
     source: |-
       ### 5.1 Overview of Philosophical Psychology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 哲学心理学概观
+    step2: |-
+      ### 5.1 哲学心理学概观
   - id: 108
     kind: body
     source: |-
       Study of the nature, content and causes of cognition (*buddhi, jñāna, upalabdhi*) lies at the very centre of the Nyāya philosophical method. In epistemology, the question asked is: how do we distinguish between true and false cognitions, and under what conditions does a true cognition arise? In logical theory, the issue is: when does one cognition ‘follow’ from another, in some suitably articulated sense. In philosophy of language, the assumption is that sentence structure mirrors cognitive structure, and hence that an inquiry into sentence meaning proceeds via an analysis of the cognitions sentences ‘express’. The importance of this topic is reflected by *The Manual of Reason*, for although ‘cognition’ is technically just one of twenty-four types of quality in the Vaiśeṣika schema, its analysis accounts for nearly half of the book (TS 34–74).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对认知（*buddhi, jñāna, upalabdhi*）之本性、内容与原因的研究，居于正理哲学方法的中心。在知识论中，所问是：我们如何区分真认知与假认知，真认知在什么条件下产生？在逻辑理论中，问题是：在某种得到恰当阐明的意义上，一个认知何时“跟随”另一认知？在语言哲学中，假定是：句子结构映照认知结构，因此对句子意义的探究要经由对句子所“表达”的认知的分析。这一话题的重要性反映在《理性手册》中：虽然按胜论图式“认知”在技术上只是二十四种性质之一，对它的分析却占了全书近半篇幅（TS 34–74）。
+    step2: |-
+      认知（*buddhi, jñāna, upalabdhi*）之本性、内容与原因的研究，正是正理哲学方法的枢纽。知识论所问者：如何分辨真认知与假认知？真认知缘何而起？逻辑理论所问者：在何种得到恰当阐明的意义上，一认知“跟随”另一认知？语言哲学的预设则是：句法映照认知结构，故探究句义须经由分析句子所“表达”的认知。此题分量之重，于《理性手册》可见一斑：按胜论图式，“认知”在技术上不过二十四种性质之一，其分析却占全书近半（TS 34–74）。
   - id: 109
     kind: body
     source: |-
       The term ‘cognition’ is used by the Naiyāyikas to refer to any intentional (*sa-viṣayaka*; object-directed) mental state, including states of perceiving, inferring, doubting, guessing, remembering, etc., but excluding desiring, hoping, suffering, etc. (cf. Matilal 1968: 7–8)[^matilal-1968]. Because we say that the subject has such states, they are thought to be ‘qualities’ (in the technical Vaiśeṣika sense) of the soul. *The Manual of Reason* states that a cognition is the “ground for all linguistic practice” (TS 34), reflecting the Nyāya conception of language as primarily an instrument for transmitting true thoughts from speaker to hearer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正理论者用“认知”一词指称任何意向性的（*sa-viṣayaka*；指向对象的）心灵状态，包括知觉、推断、怀疑、猜测、回忆等状态，但排除欲求、希望、受苦等（参见 Matilal 1968: 7–8）[^matilal-1968]。由于我们说主语拥有这类状态，它们被想作灵魂的“性质”（按胜论的技术意义）。《理性手册》说认知是“一切语言实践的根据”（TS 34），这反映了正理派把语言首先看作从说者向听者传递真思想的工具的概念。
+    step2: |-
+      “认知”一词，正理论者用以指称任何意向性的（*sa-viṣayaka*；指向对象）心灵状态：知觉、推断、怀疑、猜测、忆念等皆在其列，欲求、希望、受苦等则除外（参见 Matilal 1968: 7–8）[^matilal-1968]。因吾人说主语“有”此等状态，它们遂被视作灵魂的“性质”（按胜论技术义）。《理性手册》称认知为“一切语言实践之根据”（TS 34），正见其语言观：语言首要是说者向听者传递真思想之工具。
   - id: 110
     kind: body
     source: |-
       From the point of view of epistemology, the most important division, within the class of cognitions, is between those which are true and the rest. However, the standard Nyāya classification of the species of cognition, repeated by *The Manual of Reason*, begins with another division, between memory cognitions (*smṛti*) and the remainder (*anubhava*; nonrecollective cognition). The full classification is as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从知识论的观点看，认知一类之中最重要的划分是真者与其余者之间的划分。然而《理性手册》所复述的正理派标准认知分类，却始于另一划分：记忆认知（*smṛti*）与余者（*anubhava*；非忆性认知）之分。完整的分类如下：
+    step2: |-
+      自知识论观之，认知一类中至要之分，在真者与其余者。然而《理性手册》所复述的正理派标准认知分类却始于另一分：忆之认知（*smṛti*）与其余（*anubhava*，非忆性认知）。其完整分类如下：
   - id: 111
     kind: body
     source: |-
@@ -940,26 +950,44 @@ segments:
       | nonrecollective (*anubhava*) |   | memory (*smṛti)* |   |   |
       |   |   |   |   |   |
       | true (*pramā*) perceptual inferential comparison-based testimony-based | not true (*apramā*) false (*viparyaya*; 4 types) doubt (*saṃśaya*) *tarka* |   | ‘true’ (*yathārtha*) | ‘not true’ (*ayathārtha*) |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 认知 |   |   |   |   |
+      | --- | --- | --- | --- | --- |
+      |   |   |   |   |   |
+      | 非忆性（*anubhava*） |   | 忆（*smṛti）* |   |   |
+      |   |   |   |   |   |
+      | 正智（*pramā*）知觉的 推断的 以譬喻为据的 以证言为据的 | 非正智（*apramā*） 颠倒（*viparyaya*；4 种） 疑（*saṃśaya*） *tarka* |   | “如实”（*yathārtha*） | “不如实”（*ayathārtha*） |
+    step2: |-
+      | 认知 |   |   |   |   |
+      | --- | --- | --- | --- | --- |
+      |   |   |   |   |   |
+      | 非忆性（*anubhava*） |   | 忆（*smṛti）* |   |   |
+      |   |   |   |   |   |
+      | 真者（*pramā*） 知觉的 推断的 譬喻的 证言的 | 非真者（*apramā*） 颠倒（*viparyaya*；4 种） 疑（*saṃśaya*） *tarka* |   | “如实”（*yathārtha*） | “不如实”（*ayathārtha*） |
   - id: 112
     kind: body
     source: |-
       Nyāya epistemology is in effect a theory of the true nonrecollective cognitions, and their division into four types on the basis of the different accredited epistemic means (*pramāṇa-s*) by which they are produced. (What about accidentally true cognitions, e.g. the result of a lucky guess? There are well-discussed problems with incorporating them into the above schema). It is clear that, no matter how generally reliable are our epistemic methods, it will always be possible for misfires to issue occasionally in false cognitions (e.g. perceptual illusions, beliefs resulting from a reporting error, etc.). *The Manual of Reason*’s example (TS 72) is of the false pseudo-perceptual judgement “This is a piece of silver” on seeing an oyster-shell. I will discuss the epistemology of perception, inference and testimony in §§ 7, 8 and 9 respectively. Here, I will examine in more detail three types of cognition which, though very important within the Nyāya framework, are subsidiary to its epistemology. They are: memory, ‘doubt’ and *tarka*. (Where do dreams fit in the schema? TS 70 states that they belong in the category of ‘false’ cognitions. This, however, is odd, since they are not the product of any of the four *pramāṇa*s misfiring. Neither are they memories or states of doubt. According to Praśastapāda, dreams are the result of the free movement of the ‘mind’ when it is not connected with the external sense-faculties, influenced by *adṛṣṭa*, ‘unseen’ forces.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正理知识论实际上是一套关于真的非忆性认知的理论，并依据产生它们的不同的、得到认可的认知凭据（*pramāṇa-s*）把它们分为四类。（那么碰巧为真的认知呢，例如侥幸猜中的结果？把它们纳入上述图式存在讨论充分的问题。）显然，无论我们的认知方法一般而言多么可靠，失误仍有可能偶尔产生假认知（例如知觉错觉、因报道错误而生的信念等）。《理性手册》的例子（TS 72）是看到牡蛎壳时产生的假拟知觉判断“这是一块银子”。我将分别在 §§ 7、8 与 9 讨论知觉、推断与证言的知识论。此处我将更详细地考察三种认知，它们在正理框架内虽然非常重要，却居于其知识论的辅助地位：记忆、“疑”与 *tarka*。（梦在图式中处于何处？TS 70 说它们属于“假”认知一类。然而这很奇怪，因为梦不是四个 *pramāṇa* 任何一个失误的产物，也不是记忆或疑的状态。按普拉夏斯塔帕达，梦是“意”不与外部感官官能相连时的自由运动的结果，受 *adṛṣṭa*（“不可见”之力）的影响。）
+    step2: |-
+      正理知识论实质上是一套关于真的非忆性认知的理论：依产生它们的诸种得到认可的认知凭据（*pramāṇa-s*）分为四类。（碰巧为真的认知——如侥幸猜中——又如何？将其纳入上述图式，向有讨论充分之难题。）显然，无论认知方法总体多么可靠，失误仍可能偶发假认知（知觉错觉、因转述之误而生的信念等）。《理性手册》的例（TS 72）是见牡蛎壳而生的假拟知觉判断“这是一块银子”。知觉、推断与证言的知识论将分别在 §§ 7、8、9 讨论。此处则详察三种认知：忆、“疑”与 *tarka*——它们在正理框架中地位重要，却居于其知识论的辅助位置。（梦置于图式何处？TS 70 谓其属“假”认知一类。此说却颇为奇怪：梦并非四 *pramāṇa* 任一失误之产物，亦非忆或疑。按普拉夏斯塔帕达，梦是“意”未与外感官相连时的自由运动所致，其间受 *adṛṣṭa*（“不可见”之力）影响。）
   - id: 113
     kind: body
     source: |-
       ### 5.2 Memory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 记忆
+    step2: |-
+      ### 5.2 记忆
   - id: 114
     kind: body
     source: |-
       Memory is considered in the western tradition to be an important means by which an individual can justify her beliefs about the past. It is striking then to note that the Nyāya at the outset separate memory states from knowledge-yielding beliefs and deny to them the status of knowledge-hood. *The Manual of Reason* has the following to say about memory:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在西方传统中，记忆被认为是个人为其关于过去的信念辩护的重要手段。因此，值得注意的是，正理派一开始就把记忆状态与产生知识的信念分开，并否认其具有知识身份。《理性手册》关于记忆有如下说法：
+    step2: |-
+      西方传统视记忆为个人为其过去信念作辩护的重要凭借。故而，正理派一开局便把忆之状态与生知之信念分开，并否认前者具有知识身份，便格外惹眼。《理性手册》论记忆如下：
   - id: 115
     kind: body
     source: |-
@@ -968,214 +996,296 @@ segments:
       > A ‘mental disposition’ is a quality of the soul which is caused by a nonrecollective cognition and causes a memory cognition (TS 80).
       >
       > Memories are either ‘true’ or ‘false’, as the originating cognition is true or false (TS 74).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 忆之状态是仅由“心习”（*bhāvanā*）产生的状态（TS 35）。
+      >
+      > “心习”是灵魂的一种性质，由非忆性认知引起，并引起忆之认知（TS 80）。
+      >
+      > 忆是“真”是“假”，随其源起认知之真假而定（TS 74）。
+    step2: |-
+      > 忆之状态，唯由“心习”（*bhāvanā*）而生（TS 35）。
+      >
+      > “心习”乃灵魂之一种性质：由非忆性认知所生，复生忆之认知（TS 80）。
+      >
+      > 忆之“真”“假”，一随其源起认知之真假（TS 74）。
   - id: 116
     kind: body
     source: |-
       The general theory is that an initial cognition, e.g. a perceptual experience of an object, generates a dispositional mental state, which has the capacity, when certain other causal factors are present, to trigger an active memory of that object. (The whole process might be likened to that of someone who, having learned to swim, has a dispositional capacity to swim, which they exercise on certain occasions.) The resultant memory state has the same content as the originating perceptual experience, and can be said derivatively to be ‘true’ or ‘false’, depending on whether the original perception was veridical or not. Memory, on this account is represented as an entirely infallible faculty: there is no mention of the possibility of what is called “false memory”, i.e. having memories without any originating experience, or of “faulty memory”, in which the content of the memory does not exactly match that of the originating experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一般理论是：一个初始认知（例如对一个对象的知觉经验）生成一种倾向性的心灵状态；当其他某些因果要素在场时，这种状态有能力触发对该对象的主动回忆。（整个过程可以比作一个学会游泳的人：拥有游泳的倾向能力，并在某些场合加以运用。）由此产生的忆之状态与源起的知觉经验内容相同，并且可以说派生地是“真”或“假”，视原初知觉是否如实而定。按这一说明，记忆被表现为一个完全不出错的官能：其中没有提及所谓“虚假记忆”的可能性——即没有任何源起经验却有记忆；也没有提及“失真的记忆”——即记忆内容与源起经验内容不严格匹配。
+    step2: |-
+      一般理论如此：一个初始认知（如对某对象之知觉经验）生成一种倾向性心灵状态；当其他某些因果要素在场时，该状态有能力触发对此对象之主动回忆。（全程可喻如习泳之人：既会游泳，便怀倾向能力，遇特定场合而用之。）由此而生的忆之状态，其内容与源起知觉经验相同；其“真”“假”则是派生的，一视原初知觉是否如实。照此说，记忆被表现为一项绝无差错的官能：所谓“虚假记忆”（无源起经验而有记忆）与“失真记忆”（记忆内容与源起经验不尽吻合）的可能性，全未提及。
   - id: 117
     kind: body
     source: |-
       Given this account, in which memory is seen merely as reproducing a past knowing experience, there is perhaps a sense in which the memory does not itself count as knowledge, any more than an exact reproduction of a Picasso counts as a Picasso. The Naiyāyikas state that memories lack ‘independence’. The idea, perhaps, is this. In general we establish the veracity of an experience by examining the way in which it was caused (my perception of the table is veridical, because my eyesight is good, the lighting is adequate, etc.). In the case of a memory, however, we must go via the originating experience. Memory is conceived of as a mere surrogate for the original experience, and its veracity is ‘dependent’ on that of the original. We might think, however, that memory in fact does more than merely reproduce the original experience. It may represent the experienced event as happening in the past, and thus have a different content.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于这一说明把记忆仅仅看作对过去认知经验的复现，在某种意义上记忆或许本身不算知识，正如毕加索的精确复制品不算毕加索。正理论者说记忆缺乏“独立性”。想法或许如此：一般我们通过考察一个经验如何被引起来确立其真实性（我对桌子的知觉是如实的，因为我的视力好、光线充足等等）。然而对于记忆，我们必须经由源起经验。记忆被构想为原初经验的单纯替身，其真实性“依赖”原初者的真实性。不过我们或许会想，记忆实际上做的比单纯复现原初经验更多。它可以把被经验的事件表象为在过去发生，从而具有不同的内容。
+    step2: |-
+      依此说，记忆不过是往昔认知经验之重现，故在某种意义上，记忆自身或不算知识——恰如毕加索之精确摹本不复为毕加索。正理论者谓记忆缺乏“独立性”。其意或如此：吾人通常以考察一经验之致成方式来确立其真实性（我于桌之知觉所以如实，因视力佳、光线足等等）；然于记忆，则须经由源起经验。记忆被想作原初经验之单纯替身，其真实性“依赖”于原初者。然而我们或可想：记忆所做其实不止于复现原初经验——它可将所经验之事件表象为过去发生之事，从而别有内容。
   - id: 118
     kind: body
     source: |-
       ### 5.3 Doubt (*saṃśaya*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 疑（*saṃśaya*）
+    step2: |-
+      ### 5.3 疑（*saṃśaya*）
   - id: 119
     kind: body
     source: |-
       The concept of doubt has an important theoretical role in Nyāya, for a state of doubt is claimed to be a necessary precondition for any philosophical enquiry. Doubt is one of the sixteen topics listed under *Nyāya-sūtra* 1.1.1, which determine the content of the entire text. In particular, a doubt is the first step in a properly formulated inference: is there a fire on the mountain?—Yes, because there is smoke there. *The Manual of Reason* gives a very precise definition of a doubt (TS 71): a cognition of two incompatible qualifiers in the same qualificand, for example the cognition “Is this (dimly perceived or distant object) a person or a tree-stump?” Schematically, then, a doubt is a cognition whose content is of the form “*x* is *F* or not-*F*?”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      疑的概念在正理派中有重要的理论地位，因为据说疑的状态是任何哲学探究的必要前提。疑是《逻辑经》1.1.1 所列十六题之一，这十六题决定了全书的全部内容。特别是，疑是恰当构造的推理的第一步：山上有没有火？——有，因为那里有烟。《理性手册》给出了一个非常精确的疑的定义（TS 71）：对同一个所别中两个不相容的能别的认知，例如认知“这（个隐约知觉到的或远处的对象）是人还是树桩？”于是，图式化地说，疑是一个内容形如“*x* 是 *F* 还是 非-*F*？”的认知。
+    step2: |-
+      疑之概念于正理派有重要理论地位：据称，疑之状态乃一切哲学探究之必要前提。疑为《逻辑经》1.1.1 所列十六谛之一，此十六谛实定全书内容之大端。尤须注意：疑乃合式推理之第一步——山上可有火？有，以彼处有烟故。《理性手册》予疑以极精确之定义（TS 71）：于同一所别中认取两个不相容之能别，如“这（个隐约所见或远处之物）是人还是树桩？”于是图式化而言，疑即内容形如“*x* 是 *F* 还是 非-*F*？”之认知。
   - id: 120
     kind: body
     source: |-
       Two points are worth noting. (i) Although doubts are classified as non-true (*apramā*) cognitions, they are not false. A false cognition is one whose content is “*x* is *F*” when in fact *x* is not *F*. (ii) Doubts are distinguished from other cognitions by virtue of having a special type of content, rather than by being propositional attitudes of a special kind. The Nyāya do not here say that we can take one of a series of attitudes towards the same proposition, believing, disbelieving, doubting, etc. Yet if the only thing which distinguishes a doubt is its having a content of the form specified in TS 71, then what differentiates the doubt that *x* is *F* from the belief that *x* is both *F* and not-*F*? Vardhamāna replies by drawing a distinction between actually having a contradictory belief and merely believing that one has a contradictory belief. The former is supposedly impossible, the supposedly contradictory belief that *x* is both *F* and not-*F* is really a belief that I have a belief whose qualificand is *x* and whose qualifiers are *F* and not-*F*. Since there are no genuine contradictory beliefs, there are no beliefs with the same content as doubts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有两点值得注意。（i）虽然疑被归为非真（*apramā*）认知，它们并不假。假认知是其内容为“*x* 是 *F*”而实际上 *x* 不是 *F* 的认知。（ii）疑与其他认知的区别在于其拥有一种特殊类型的内容，而非在于它是某种特殊类型的命题态度。正理派在此并没有说我们可以对同一命题采取一系列态度——相信、不信、怀疑等等。但如果疑的唯一特异之处在于其内容具有 TS 71 所规定的形式，那么“*x* 是 *F*”之疑与“*x* 既是 *F* 又不是 *F*”之信念如何区别？跋达摩那的回应是区分真正拥有一个矛盾信念与仅仅相信自已有一个矛盾信念。据说前者不可能：那个号称矛盾的信念——*x* 既是 *F* 又不是 *F*——实际上是“我有一个信念，其内容所别为 *x*、能别为 *F* 与 非-*F*”的信念。既然没有真正的矛盾信念，也就没有与疑内容相同的信念。
+    step2: |-
+      有两点值得一记。（i）疑虽归入非真（*apramā*）认知，却并不假：假认知者，其内容为“*x* 是 *F*”而 *x* 实非 *F*。（ii）疑之所以别于他种认知，在于其内容特殊，而不在于其为一种特殊的命题态度。正理派于此并未说：吾人可对同一命题取诸种态度——信、不信、疑等等。然而若疑之独异仅在其内容取 TS 71 之形，则“*x* 是 *F*”之疑与“*x* 既是 *F* 又非 *F*”之信念，其别安在？跋达摩那之答：分判“实有一个矛盾信念”与“仅相信自己有一个矛盾信念”。前者据称不可能：彼号称矛盾之信念——*x* 既是 *F* 又非 *F*——实为“我有一个信念，其所别为 *x*，其能别为 *F* 与 非-*F*”之信念。既无真正矛盾之信念，亦无与疑同内容之信念。
   - id: 121
     kind: body
     source: |-
       ### 5.4 *Tarka “*Suppositional Thinking”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.4 *Tarka*：“假设性思择”
+    step2: |-
+      ### 5.4 *Tarka*：“假设性思择”
   - id: 122
     kind: body
     source: |-
       The term ‘*tarka’* is often used loosely in the sense of hypothetical or reductio-ad-absurdum reasoning, but *The Manual of Reason* gives it a much more precise and technical sense:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “*tarka*”一词常在假设性推理或归谬推理的宽松意义上使用，但《理性手册》赋予它一个远为精确且技术性的意义：
+    step2: |-
+      “*tarka*”一词常泛用作假设推理或归谬推理之义；《理性手册》则予之以远为精确、远为技术性的含义：
   - id: 123
     kind: body
     source: |-
       > *Tarka* is the ‘ascription’ (*āropa*) of the ‘pervader’ (*vyāpaka*) by the ascription of the ‘pervaded’ (*vyāpya*). For example, ‘if there is no fire, then there is no smoke’(TS 73).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *Tarka* 是借对“所遍充”（*vyāpya*）的赋予而对“能遍充”（*vyāpaka*）的赋予（*āropa*）。例如“若无火，则无烟”（TS 73）。
+    step2: |-
+      > *Tarka* 者，由赋予“所遍充”（*vyāpya*）而赋予“能遍充”（*vyāpaka*）之谓（*āropa*）。例如：“若无火，则无烟”（TS 73）。
   - id: 124
     kind: body
     source: |-
       The terms in this definition require explanation. The technical sense of ‘ascription’ (*āropa*) is ‘counterfactual or suppositional cognition’ (*āhāryāropa*), defined as a cognition whose qualifier is an property the opposite of which is known to reside in the qualificand. In other words, it is a counterfactual assumption. ‘Pervader’ and ‘pervaded’ are notions taken from the Nyāya theory of inference. When we say that wherever there is smoke, there is fire, this can be re-expressed as that fire pervades smoke, i.e. that the property of being a smoke-possessing-thing has a narrower extension than the property of being a fire-possessing-thing. So here, fire is the pervader and smoke is the pervaded. Thus, *tarka* consists in a cognition of smoke’s absence given the counterfactual assumption that fire is absent. It is the cognition of a conditional “if *p* then *q*”, or “were *p* to be true then *q* would be true”, assuming that ‘*p*’ is false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一定义中的术语需要解释。“赋予”（*āropa*）的技术意义是“反事实的或假设性的认知”（*āhāryāropa*），定义为其能别是一个其对立面已知居于所别的性质。换言之，它是一个反事实的假定。“能遍充”与“所遍充”取自正理派推理理论。当我们说凡有烟处皆有火时，这可以重新表述为：火遍充烟，即“是有烟之物”这一性质的外延窄于“是有火之物”这一性质的外延。所以此处，火是能遍充者，烟是所遍充者。于是 *tarka* 在于：在火缺席这一反事实假定下对烟之缺席的认知。它是对一个条件句“如果 *p* 则 *q*”或“若 *p* 为真则 *q* 为真”的认知，其中假定“*p*”为假。
+    step2: |-
+      此定义诸名目须予疏释。“赋予”（*āropa*）之技术义为“反事实或假设性认知”（*āhāryāropa*）：其能别为一性质，而其对立面已知居于所别。换言之，即一反事实假定。“能遍充”“所遍充”乃正理推理理论之名。凡言“有烟处皆有火”，可重述为：火遍充烟——即“有烟之物”一性之外延，窄于“有火之物”一性之外延。故此处火为能遍充，烟为所遍充。于是 *tarka* 即：在“火缺席”这一反事实假定下，对烟之缺席的认知。它乃对一个条件句的认知——“若 *p* 则 *q*”，或“若 *p* 为真则 *q* 为真”——而假定“*p*”为假。
   - id: 125
     kind: body
     source: |-
       One main function of *tarka* is said to be the elimination of doubt. Suppose one has the doubt “Is *x* *F*?”. One might then judge “if *x* is not *F* then *x* is not *G*”, and if one also knows that *x* is *G*, it will follow that *x* is *F*. The Naiyāyikas recognise this function but deny nevertheless that *tarka* is a source of knowledge (*pramāṇa*). Their reason, it seems, is that there is a distinction between citing positive empirical evidence for a thesis and merely eliminating the contrary possibility by a priori methods. This is reflected, perhaps, in the fact that no example is cited in arguments based on *tarka* to buttress the inference. *The Manual of Reason*, it seems, goes even further and denies that the counterfactual conditional is a true cognition, which implies, since they are not false either, that counterfactual conditionals do not have a truth-value.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      据说 *tarka* 的一个主要功能是消除疑。设有人有疑“*x* 是 *F* 吗？”。此人随后可以判断“如果 *x* 不是 *F*，那么 *x* 不是 *G*”；如果他还知道 *x* 是 *G*，那么将推出 *x* 是 *F*。正理论者承认这一功能，但仍然否认 *tarka* 是一个知识来源（*pramāṇa*）。他们的理由似乎是：为一个论题举出正面的经验证据，与仅用先验方法排除相反的可能性，二者之间有区别。这一点或许也反映在如下事实中：基于 *tarka* 的论证不举例子来支持推断。《理性手册》看来走得更远，否认反事实条件句是一个真认知；既然反事实条件句也不假，这就意味着它们没有真值。
+    step2: |-
+      *tarka* 之主要功能，据称在除疑。设吾有疑“*x* 是 *F* 乎？”，则可判曰“若 *x* 非 *F*，则 *x* 非 *G*”；若又知 *x* 为 *G*，则可推得 *x* 为 *F*。正理论者承认此功能，却仍不认 *tarka* 为一认知凭据（*pramāṇa*）。其理由似在：为论题举正面经验证据，与仅凭先验方法排除反面可能，二者有别。此事或亦见于下情：基于 *tarka* 之论证从不举例以佐其推断。《理性手册》似更进一步，否认反事实条件句为真认知；而反事实条件句既亦非假，便意味着它们没有真值。
   - id: 126
     kind: body
     source: |-
       Udayana claims that *tarka* is of five types, namely ‘self-dependence’ (*ātmāśraya*), ‘mutual dependence’ (*anyonyāśraya*), ‘circle’ (*cakraka*), ‘infinite regress’ (*anavasthā*), and ‘having an undesirable consequence’ or reductio-ad-absurdum (*aniṣṭāprasaṅga*). These are basically self-explanatory – the fifth, ‘*prasaṅga*’ is the one used to great effect by Nāgārjuna and other Mādhyamika Buddhists. Other authors give slightly different lists (see S. Bagchi 1953 for details)[^bagchi-1953].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      优陀耶那主张 *tarka* 有五种：“自依”（*ātmāśraya*）、“互依”（*anyonyāśraya*）、“循环”（*cakraka*）、“无穷倒退”（*anavasthā*）与“有不欲之后果”或归谬（*aniṣṭāprasaṅga*）。这些基本无需解释——第五种“*prasaṅga*”是龙树及其他中观佛教徒运用得卓有成效的一种。其他作者所列略有不同（详见 S. Bagchi 1953）[^bagchi-1953]。
+    step2: |-
+      优陀耶那谓 *tarka* 有五种：自依（*ātmāśraya*）、互依（*anyonyāśraya*）、循环（*cakraka*）、无穷倒退（*anavasthā*）、有不欲之后果（*aniṣṭāprasaṅga*），即归谬。此五者大意自明——其五“*prasaṅga*”一式，龙树与诸中观论师用之最见功效。他家所列略异（详见 S. Bagchi 1953）[^bagchi-1953]。
   - id: 127
     kind: body
     source: |-
       ## 6. Causation and the Causal Theory of Knowledge
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 因果性与知识的因果理论
+    step2: |-
+      ## 6. 因果性与知识的因果理论
   - id: 128
     kind: body
     source: |-
       ### 6.1 Overview of Causation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 因果性概观
+    step2: |-
+      ### 6.1 因果性概观
   - id: 129
     kind: body
     source: |-
       The study of causation is an important part of Indian philosophical thought. One reason for this is the early interest in cosmological speculation: “We should remember that philosophic activity in India arose out of the cosmogonic speculations of the Vedas and the Upaniṣads. The all-important business of philosophy was to attempt to discover some simple, unitary cause for the origin of this complex universe” (Matilal 1985: 287)[^matilal-1985]. Another reason is that Indian linguistics (especially the Pāṇinian system of ‘*kārakas*’ or relations between verb and noun, which greatly influenced Nyāya, Mīmāṃsā and Buddhist thinkers) is based on an underlying causal model, in which the verb in a sentence designates an event, for the production of which each such object as is designated by a noun has a particular causal role. This same model informed and influenced Indian epistemology, and led to the development of the theory of ‘*pramāṇas*’, the causal means or processes leading to an epistemically accredited awareness-event (*pramā*). In the Nyāya tradition, four such *pramāṇas* are recognised: perception (*pratyakṣa*), inference (*anumāna*), ‘analogical identification’ or ‘comparison’ (*upamāna*) and testimony (*śabda*). The accounts given of each of these employ an extremely causalistic idiom, typical questions being ‘what causes a perceptual experience?’, ‘what are the distinguishing causal factors of true and false perceptual experiences?’, ‘under what conditions does knowledge of the premises of an argument cause knowledge of the conclusion?’, etc.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因果性研究是印度哲学思想的重要部分。原因之一是对宇宙论思辨的早期兴趣：“我们应当记得，印度的哲学活动产生于《吠陀》与《奥义书》的宇宙发生论思辨。哲学的头等大事，是试图为这个复杂宇宙的起源发现某种简单的、单一的原因”（Matilal 1985: 287）[^matilal-1985]。另一原因是印度语言学（尤其是波你尼的“作业格”体系——动词与名词之间的关系，它深刻影响了正理、弥曼差与佛教思想家）建立在一个潜在的因果模型之上：句中动词标示一个事件，而名词所标示的每个对象都对该事件的产生有特定的因果角色。同一模型塑造并影响了印度知识论，导致了“*pramāṇas*”（量）理论的发展：通向一个得到知识论认可的觉知事件（*pramā*）的因果手段或过程。正理传统承认四个这样的 *pramāṇas*：知觉（*pratyakṣa*）、推断（*anumāna*）、“类比同一”或“比较”（*upamāna*）与证言（*śabda*）。对每一者的说明都采用极端因果主义的语言，典型问题如“什么引起知觉经验？”“真假知觉经验的区别性因果要素是什么？”“在什么条件下对论证前提的知识引起对结论的知识？”等等。
+    step2: |-
+      因果性之研究，印度哲学思想之要目也。其故有二。一在早期对宇宙论思辨之兴趣：“应记印度哲学活动出于《吠陀》与《奥义书》之宇宙发生论思辨；哲学之头等大事，是为复杂宇宙之起源寻一简单而单一之原因”（Matilal 1985: 287）[^matilal-1985]。二在印度语言学（尤以波你尼“作业格”（*kārakas*）体系——动名关系之学——深刻影响正理、弥曼差与佛家诸师）立于一个潜在因果模型：句中动词标示一事，而名词所指之对象各当一特定因果之职，以成此事。同一模型浸润并影响了印度知识论，遂有“量”（*pramāṇas*）之论——通向一个知识论认可之觉知事件（*pramā*）的因果手段或过程。正理传统立四量：知觉（*pratyakṣa*）、推断（*anumāna*）、譬喻量（*upamāna*，“类比同一”或“比较”）与声量（*śabda*，证言）。四者之说皆用极端因果主义之语言，典型问题如：“何者致知觉经验？”“真假知觉经验之区别性因果要素为何？”“于何条件下，论证前提之知识致成结论之知识？”等等。
   - id: 130
     kind: body
     source: |-
       The choice of examples undoubtedly influences one’s causal theory. The Naiyāyikas almost invariably illustrate their discussions with one of the following three examples: (i) *The potter-pot example*. The effect is the finished pot. Some of its causes are the pot-halves (which the potter joins to form the pot), the potter, his wheel and stick, the contact between each of the pot-halves, and between them and the stick, etc. (ii) *The thread-cloth example*. Here the effect is the piece of cloth. Among its causes are the threads from which it is woven, the weaver, the shuttle, the loom, various contacts, etc. (iii) *The axe-tree example*. The effect, i.e. the felling of the tree, is caused by the axe, its contact with the tree, the axeman, etc. Some of the questions we would like to ask here are these. Can all instances of causation be fitted into the general pattern illustrated by these examples (e.g. is there always an ‘agent’)? Do the Naiyāyikas have an adequate account of causation even for these examples (i.e. can they distinguish between those factors which are, and those factors which are not, causes of the effect)? Can both objects and events be causes? Are causal relations singular or based on repeatable regularities? Attempts to answer such questions as these led to increasingly sophisticated accounts of causation as the Nyāya school evolved.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例子的选择无疑影响一个人的因果理论。正理论者几乎总是用以下三个例子之一来说明其讨论：（i）陶工—壶例。果是制成的壶。其诸因之一部分是壶的两半（陶工将它们接合成壶）、陶工、其轮与棍、各壶半之间的接触以及壶半与棍之间的接触等等。（ii）线—布例。此处果是一块布。其诸因中有织成它的线、织工、梭、织机、各种接触等等。（iii）斧—树例。果即砍倒树，由斧、斧与树的接触、伐木者等所致。我们在此想问的一些问题是：一切因果实例都能装入这些例子所示的一般模式吗（例如总是有一个“行动者”吗）？即便对这些例子，正理论者对因果性也有充分的说明吗（即他们能区分哪些要素是、哪些要素不是果的原因吗）？对象与事件都可以是原因吗？因果关系是单一性的还是基于可重复的规则性？随着正理学派的演进，回答这类问题的尝试导致了越来越精致的因果说明。
+    step2: |-
+      例之取舍，实左右因果理论之形态。正理论者说因果，几乎不离三例：（i）陶工—壶例：果为成壶；其因有壶之两半（陶工合两半以成壶）、陶工、其轮与棍、两半相触以及半与棍相触等等。（ii）线—布例：果为一布；其因有织成之线、织者、梭、机、诸般接触等等。（iii）斧—树例：果即树之被伐，由斧、斧与树之接触、伐者等所致。于此可问者：一切因果实例皆可纳入此三例所示之通式乎（如：必有一“行动者”乎）？正理论者对此三例自身，可有充分之因果说明乎（即能否分辨何者为果之因、何者非是）？对象与事件皆可为因乎？因果之关系为一事之关系，抑基于可重复之规则性？正理学派演进之中，此类问题之求解，遂使因果之说日趋精微。
   - id: 131
     kind: body
     source: |-
       ### 6.2 The Three Types of Cause
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 三种原因
+    step2: |-
+      ### 6.2 三种原因
   - id: 132
     kind: body
     source: |-
       The Nyāya-Vaiśeṣikas traditionally held that, within the total collection (*sāmagrī*) of causal factors leading to an event, there are three distinguishable types of cause, namely ‘substrate’ or ‘inherence’ causes (*samavayi-kāraṇa*), ‘non-substrate’ or ‘non-inherence’ causes (*a-samavayi-kāraṇa*), and ‘instrumental’ causes (*nimitta-kāraṇa*). This classification is repeated by *The Manual of Reason* (TS 43). A substrate cause is a substance in which the effect inheres. The substrate cause of a pot would be the pot-halves; of a cloth, the threads. This is because the Nyāya say that a whole inheres in its parts, and, so, if the effect (e.g. the pot) is a whole, its substrate causes are the parts in which it inheres. If the effect is an object’s coming to have a new property (e.g. the tree’s being felled), the substrate cause is the object (the tree). Note that, in spite of a certain similarity, the notion of a substrate cause is not the same as Aristotle’s “material” cause, for (i) the parts of an object are not necessarily identical with the material from which it is composed, and (ii) even an immaterial substance can be a substrate cause, for example the soul, which is the substrate cause of epistemic events.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正理—胜论派传统上主张：在导向一个事件的因果要素的总集（*sāmagrī*）之中，有三种可分辨的原因类型，即“依处”或“和合”因（*samavayi-kāraṇa*）、“非依处”或“非和合”因（*a-samavayi-kāraṇa*）与“工具”因（*nimitta-kāraṇa*）。《理性手册》复述了这一分类（TS 43）。依处因是果所内居于其中的实体。壶的依处因是壶的两半；布的依处因是线。这是因为正理派说整体内居于其部分，所以如果果（例如壶）是整体，其依处因就是它所内居于其中的部分。如果果是一个对象获得一个新性质（例如树被砍倒），依处因就是那个对象（树）。注意，尽管有某种相似，依处因的概念不同于亚里士多德的“质料”因，因为（i）对象的部分不必同一于构成它的质料；（ii）甚至非物质的实体也可以是依处因，例如灵魂——认知事件的依处因。
+    step2: |-
+      正理—胜论传统主张：在导向一事的因果要素总集（*sāmagrī*）之中，原因可分三类：和合因（*samavayi-kāraṇa*，依处因）、非和合因（*a-samavayi-kāraṇa*）与工具因（*nimitta-kāraṇa*）。《理性手册》复述此分类（TS 43）。和合因者，果所内居之实体也。壶之和合因为壶之两半，布之和合因为线。盖正理派谓整体内居于部分；果（如壶）若是整体，则其所内居之部分即其和合因。果若是对象获得一新性质（如树之被伐），和合因即该对象（树）。请注意：和合因虽与亚里士多德“质料因”有几分相似，实非一物：（i）对象之部分不必同于构成它的质料；（ii）非物质之实体亦可作和合因——如灵魂，即认知事件之和合因。
   - id: 133
     kind: body
     source: |-
       All other causal factors are either ‘non-substrate’ causes or ‘instrumental’ causes. A non-substrate cause is one which inheres in the substrate cause. Thus, though not being the substrate, it is closely connected with it. The conjunction of threads is said to be a non-substrate cause of a piece of cloth. Another example is often cited. The non-substrate cause of the colour of a piece of cloth is the colour of the threads (which colour inheres in the threads, in which inheres the effect, the colour of the cloth). Any other causal factor is called an instrumental cause, for example, the weaver’s shuttle or the weaver herself. Why did the Naiyāyikas distinguish between non-substrate causes and the remainder? Perhaps it was an attempt to differentiate between those causes which must continue to exist for the effect to exist, and those which need not. If the threads were to lose their colour, then the cloth would lose its, and if the threads were to become disjoint, the cloth would cease to exist altogether. If, however, the weaver dies, having already woven the cloth, or if the shuttle is subsequently destroyed, it will not affect the continued existence of the effect.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所有其他因果要素要么是“非依处”因，要么是“工具”因。非依处因是内居于依处因中的东西。因此它虽不是依处，却与依处紧密相连。线的连合据说是一块布的非依处因。另一个常被引用的例子是：布之颜色的非依处因是线的颜色（该颜色内居于线，而布之颜色——即果——又内居于线中）。任何其他因果要素都称为工具因，例如织工的梭或织工本人。正理论者为什么区分非依处因与其余？或许这是一种尝试：区分那些为了果的存在而必须继续存在的原因，与那些无须如此的原因。如果线失去颜色，布也会失去颜色；如果线散开，布将不复存在。然而如果织工织完布后死去，或者梭随后被毁，果的持续存在并不受影响。
+    step2: |-
+      其余因果要素，非属非和合因，即属工具因。非和合因者，内居于和合因中之要素也；其虽非依处，却与依处紧相维系。线之连合，据称即一布之非和合因。又一常引之例：布色之非和合因为线色——线色内居于线，而果（布色）又内居于线。其余因果要素皆称工具因，如织者之梭或织者其人。正理论者何以区分非和合因与其余？或意在分判：何者为果之存续所必需，何者则否。线若失色，布亦失色；线若散乱，布即不存。然织者织毕而亡，或梭旋即被毁，则于果之存续并无影响。
   - id: 134
     kind: body
     source: |-
       It does not follow from these definitions that anything which inheres in the substrate is a non-substrate cause, or that anything which does not is an instrumental cause. In other words, we still need to define “being a cause”. First, however, two more types of causal factor are distinguished by the Nyāya. These are the ‘special’ instrumental cause (*karaṇa*) and the ‘operating condition’ (*vyāpāra*) We often speak of *the* cause of an effect, and in doing so pick out one factor from the total collection of causal factors as being particularly salient or important in bringing about the effect. Intuitively, the idea is that, even if we have the substrate cause (the pot-halves), the non-substrate cause (the contact between the halves), and even some of the instrumental causes (the potter, etc.), we will not get the effect (the pot) unless the potter acts or ‘operates’ to bring it about. In a sense, then, it is the potter’s actually using his stick which is *the* cause of the pot. The Naiyāyikas try to capture this idea by saying that one of the instrumental causes is the ‘special’ (*asādhāraṇa*) cause of the effect, and they call it the ‘*karaṇa*’. This notion is particularly important to the Nyāya epistemology (see below). What constitutes the ‘special’ nature of this cause? The Navya-nyāya (cf. TS 54) answer is as follows. They introduce first the notion of an ‘operative condition’ (*vyāpāra*), defined as that cause which immediately precedes the effect. For example, the operative condition for a pot is the conjunction of the pot-halves; for the felling of a tree, it is the final contact between axe and tree before the tree falls. The ‘special’ cause is defined as that factor which ‘brings about’ this operative condition. In other words, it is the factor whose operation directly brings about the effect. In the examples, it would be the axe or the potter’s stick. These objects are, for the Nyāya, the true instruments by means of which the effect is produced.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从这些定义并不能推出：凡是内居于依处者就是非依处因，凡不是者就是工具因。换言之，我们仍需定义“是一个原因”。不过首先，正理派又区分出两种因果要素：“特殊”工具因（*karaṇa*）与“作用条件”（*vyāpāra*）。我们常说一个果的*那个*原因，如此从因果要素总集中挑出一个因素，认为它在促成该果方面尤为突出或重要。直观的想法是：即便有了依处因（壶的两半）、非依处因（两半之间的接触）乃至某些工具因（陶工等），除非陶工行动或“操作”以促成它，我们仍得不到果（壶）。于是在某种意义上，正是陶工实际使用其棍，才是壶的*那个*原因。正理论者试图这样把握这一想法：工具因之一是果的“特殊”（*asādhāraṇa*）原因，他们称之为“*karaṇa*”。这一概念对正理知识论尤为重要（见下）。什么构成这一原因的“特殊”性质？新正理（参见 TS 54）的回答如下。他们首先引入“作用条件”（*vyāpāra*）概念，定义为紧接果之前的原因。例如，壶的作用条件是壶两半的连合；砍树的作用条件是树倒之前斧与树的最后接触。“特殊”原因定义为“促成”这一作用条件的要素。换言之，它是其运作直接带来果的要素。在诸例中，它就是斧或陶工的棍。对正理派而言，这些对象才是果借以产生的真正工具。
+    step2: |-
+      由上述定义并不能推出：凡内居于依处者即非和合因，凡不然者即工具因。换言之，“何谓为因”仍待定义。而正理派先又分出两种因果要素：特殊工具因（*karaṇa*）与作用条件（*vyāpāra*）。吾人常言一事之*那个*原因——即自因果总集之中挑出某一要素，视之为促成此果之尤为显著或紧要者。直观而言：纵有和合因（壶之两半）、非和合因（两半之接触）乃至某些工具因（陶工等），若陶工不行动、不“操作”以成之，则果（壶）终不可得。故在某种意义上，壶之*那个*因，正是陶工实际操棍这件事。正理论者欲如此把握此意：诸工具因中有其一，乃果之“特殊”（*asādhāraṇa*）因，名之曰“*karaṇa*”。此概念于正理知识论尤为紧要（见下）。此因之“特殊”性何在？新正理（参见 TS 54）答曰：先立“作用条件”（*vyāpāra*）——紧接于果之前之因。壶之作用条件，即壶两半之连合；伐树之作用条件，即树倒之前斧与树之最后一触。“特殊”因则定义为“促成”此作用条件之要素——换言之，其运作直接带来果。在诸例中，即斧或陶工之棍。于正理派，此等对象方为果借以成之之真工具。
   - id: 135
     kind: body
     source: |-
       ### 6.3 What is a Cause?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.3 何谓原因？
+    step2: |-
+      ### 6.3 何谓原因？
   - id: 136
     kind: body
     source: |-
       The Naiyāyikas build up in this way a model of causation, in which different causal factors have different types of causal role. The model reflects (or is reflected in) the Indian grammatical analysis of causal statements, such as “The potter throws a pot with her stick”, “The lumberjack fells a tree with her axe”, in which one distinguishes, apart from the verb designating the event, an agent (*kartṛ*), object (*karman*), instrument (*karaṇa*), and so on. We do not yet know, however, how to distinguish between causes and non-causes. *The Manual of Reason* (TS 41) provides the Navya-Nyāya answer. Given two entities, *c* and *e*,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正理论者由此建立起一个因果模型，其中不同的因果要素有不同的因果角色。该模型反映（或反映于）印度语法对因果陈述的分析，如“陶工用她的棍掷壶”、“伐木者用她的斧砍树”，其中除标示事件的动词外，还区分出行动者（*kartṛ*）、对象（*karman*）、工具（*karaṇa*）等等。然而我们尚不知道如何区分原因与非原因。《理性手册》（TS 41）给出了新正理的回答。给定两个实体 *c* 与 *e*，
+    step2: |-
+      正理论者由此立一因果模型：诸因果要素各当不同之因果角色。此模型反映（或映现于）印度语法对因果陈述之分析——如“陶工以棍掷壶”“伐者以斧伐树”——其中除标示事件之动词外，尚分出作业者（*kartṛ*）、所作业（*karman*）、工具（*karaṇa*）等等。然而原因与非原因如何分判，吾人尚无所知。《理性手册》（TS 41）给出新正理之答。设有二实体 *c* 与 *e*：
   - id: 137
     kind: body
     source: |-
       *c* is a causal factor for *e* iff
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *c* 是 *e* 的一个因果要素，当且仅当
+    step2: |-
+      *c* 为 *e* 之一因果要素，当且仅当
   - id: 138
     kind: body
     source: |-
       1. *c* exists before *e*,
       2. *c* exists ‘regularly’ (*niyata*) with *e*, and
       3. *c* is ‘relevant’ (*ananyathāsiddha*) to *e*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *c* 存在于 *e* 之前，
+      2. *c* 与 *e* “恒常”并存（*niyata*），且
+      3. *c* 对 *e* 是“相关”的（*ananyathāsiddha*）。
+    step2: |-
+      1. *c* 先于 *e* 而存在，
+      2. *c* 与 *e* “恒常伴随”（*niyata*），且
+      3. *c* 之于 *e* “不由他立”（*ananyathāsiddha*）。
   - id: 139
     kind: body
     source: |-
       The first clause is to prevent self-causation. The import of the second condition is that entities similar to *c* must always exist with entities similar to *e*. There must be an invariable or constant conjunction between *c*-type entities and *e*-type entities. This rules out objects which just happen to be there, such as, to give the Naiyāyikas’ example, a donkey happening to wander past the pottery just as the potter goes to work. This feature of the account, the insistence that a causal relation instantiates a regularity, resembles a Humean account of causation. The Naiyāyika, however, recognised the possibility of ‘accidental’, non-causal regularities, such as day always preceding night, or (the example given by *The Manual of Reason*), the colour of the thread always preceding the cloth. Although the occurrence of a cloth is invariably preceded, not just by threads, but by the presence of thread-colour as well, we would not want to say that thread-colour is a cause of cloth. The third clause is their attempt to eliminate such accidental regularities. The same clause is supposed to stop the cause of a cause (e.g. the potter’s parents) from being a cause. Its meaning, however, is not quite clear. Literally, it states that a cause must be ‘not established otherwise’. Kalidas Bhattacharya says that “an invariable antecedent is irrelevant if knowledge of it is not required for any anticipative knowledge of the origination of the effect” (see Potter 1977: 67)[^potter-1977]. Matilal says that an antecedent is irrelevant if “it is possible to find a reasonable explanation of its appearance” (1985: 290). *The Manual of Reason* states that an antecedent is irrelevant if its antecedence is only established along with some other entity. We know that thread-colour precedes cloth only because we know that it occurs with the thread (which we know to precede cloth); hence the thread-colour is irrelevant in this sense. This highlights an asymmetry between the two regularities, the threadcolour-cloth regularity and the thread-cloth regularity. For while we can establish the latter directly by observing correlations between thread and cloth, we establish the former by observing the correlation between threadcolour and thread. Thus the former supposedly depends on the latter but not vice versa. It is not clear, however, that the dependence does not run the other way too. In any case, in using this criterion to block transitivity, the Naiyāyikas seem to seeking a definition not of causality per se (which most regard as a transitive relation), but rather an epistemic notion of ‘causal explanation’ or ‘causal salience’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一条是为防止自因。第二条的含义是：与 *c* 类似的实体必须总是与与 *e* 类似的实体并存。*c* 类实体与 *e* 类实体之间必须有不变的或恒常的连合。这就排除了恰好在那里的对象，例如——举正理论者的例子——陶工正要去干活时恰好一头驴游荡到陶坊。这一说明的特点——坚持因果关系例示一个规则性——类似于休谟式的因果说明。然而正理论者认识到存在“偶然的”、非因果的规则性的可能，例如昼总是先于夜，或者（《理性手册》给出的例子）线的颜色总是先于布。虽然布的出现总是不仅先有线，而且有线之颜色在场，但我们不会想说线色是布的原因。第三条就是他们排除这类偶然规则性的尝试。同一条也被认为能阻止原因的原因（例如陶工的父母）成为原因。但其含义并不十分清楚。按字面，它说原因必须“不由他立”。Kalidas Bhattacharya 说：“一个不变的先行者，如果对它的知识并非任何关于果之起源的预期性知识所必需，就是不相干的”（见 Potter 1977: 67）[^potter-1977]。Matilal 说，一个先行者如果不相干，是因为“可以为它的出现找到一个合理解释”（1985: 290）。《理性手册》说，一个先行者如果不相干，是因为它的先行性只是连同某个其他实体一起确立的。我们知道线色先于布，只是因为我们知道线色与线同时出现（而我们知道线先于布）；故线色在此意义上不相干。这就凸显了两种规则性之间的不对称：线色—布规则性与线—布规则性。因为我们可以通过观察线与布之间的相关性直接确立后者，而前者则是通过观察线色与线之间的相关性确立的。据说前者依赖后者，反之则不然。然而并不清楚这种依赖是否也不向相反方向延伸。无论如何，在用这一判准阻止传递性时，正理论者所寻求的定义看来不是因果性本身（多数人视之为传递关系），而是“因果解释”或“因果显著性”这一知识论概念。
+    step2: |-
+      第一条防自因。第二条之旨：与 *c* 相似之实体必恒与与 *e* 相似之实体并存——*c* 类实体与 *e* 类实体之间，须有不变或恒常之连合。此即排除“恰巧在场”之对象——如正理论者之例：陶工将欲作业，恰有一驴踱过陶坊。此说之特色——坚持因果关系例示规则性——似于休谟式因果说。然正理论者亦识“偶然”非因果规则性之可能：如昼恒先于夜，又如（《理性手册》之例）线色恒先于布。布之出现虽恒先有线，亦恒有线色在场，吾人却不愿谓线色为布之因。第三条即彼等排除此类偶然规则性之尝试；同条亦被期望能阻止原因之原因（如陶工之父母）成为原因。然其义不甚明晰。按字面，谓因须“不由他立”。Kalidas Bhattacharya 云：“不变之先行者，若对其之知识并非任何预期果起之知识所需，即为不相干”（见 Potter 1977: 67）[^potter-1977]。Matilal 云：先行者不相干，若“可为它的出现找到合理之解释”（1985: 290）。《理性手册》云：先行者不相干，若其先行性唯连同另一实体而确立。吾人知线色先于布，仅因知线色与线俱现（而知线先于布）；故线色在此义上不相干。此显两规则性间之不对称：线色—布与线—布。后者可由观察线布之相关而直接确立；前者则由观察线色与线之相关而确立。据称前者依赖后者，反之不然。然此依赖是否亦反向而行，并不清楚。无论如何，正理论者以此判准阻断传递性，其所致力者似非因果性本身（多数人视为传递关系），而是“因果解释”或“因果显著性”这一知识论概念。
   - id: 140
     kind: body
     source: |-
       ### 6.4 Causation and Knowledge
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.4 因果性与知识
+    step2: |-
+      ### 6.4 因果性与知识
   - id: 141
     kind: body
     source: |-
       Cognitions that are not memories are classified under two headings: true and false. If we can find factors invariably preceding *true* cognitions, then we will have the beginnings of a causal theory of knowledge. We will be able to say that a cognition is a knowledge-episode iff it is (i) true and (ii) preceded by a causal factor which invariably precedes true cognitions (i.e. its truth will not be an accident). The Nyāya (TS 39) claim to find four, and only four, invariable correlations: perception, inference, comparison, and testimony. To each they apply the model of causation outlined above. In particular, they isolate, in each case, a ‘special’ instrumental cause (*karaṇa*), to which they give the name ‘*pramāṇa*’. In the case of perception, for example, it is the senses. Note that an invariable correlation between two entities, in the sense defined above, does not entail that whenever the first is present, so is the second—the potter is invariably connected with a pot, but only causes a pot when he is actually ‘operating’. Similarly, a *pramāṇa*, e.g. the eyes, only causes a true cognition when it is actually operating. In other words, the *pramāṇa* is a necessary but not a sufficient cause for true cognitions. To get a sufficient cause, the Nyāya (TSD 69 iii) says:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非记忆的认知被归在两个标题之下：真与假。如果我们能找到恒常先于*真*认知的要素，我们就有了知识因果理论的开端。我们将能够说：一个认知是一个知识事件，当且仅当它（i）为真且（ii）先有一个恒常先于真认知的因果要素（即其真不会是偶然）。正理派（TS 39）声称找到四条且仅四条不变的关联：知觉、推断、比较与证言。他们对每一者应用上述因果模型。特别是，他们在每一情形中分离出一个“特殊”工具因（*karaṇa*），并名之为“*pramāṇa*”。例如在知觉的情形中，它是诸感官。注意，按上文定义的两实体之间的不变关联，并不蕴涵前者在场时后者也在场——陶工恒与壶相关，但只有当他实际“操作”时才造成壶。类似地，一个 *pramāṇa*（例如眼睛）只有实际运作时才造成真认知。换言之，*pramāṇa* 是真认知的必要但非充分原因。为得到充分原因，正理派（TSD 69 iii）说：
+    step2: |-
+      非忆之认知分两类：真与假。若能觅得恒先于*真*认知之要素，则知识之因果理论已具发端。吾人将可说：一认知为一知识事件，当且仅当其（i）为真，且（ii）先有一恒先于真认知之因果要素（即其真非出偶然）。正理派（TS 39）称觅得四条且仅四条不变之关联：知觉、推断、譬喻与证言。四者皆套用上述因果模型；尤其于每一情形中分离出一个“特殊”工具因（*karaṇa*），名之曰“*pramāṇa*”（量）。知觉之例，即诸感官。请注意：依上文定义之不变关联，并不蕴涵前者在场则后者亦在——陶工恒与壶相关，然唯其“操作”之时方成壶。同理，*pramāṇa*（如眼）唯实际运作时方成真认知。换言之，*pramāṇa* 为真认知之必要因而非充分因。欲得充分因，正理派（TSD 69 iii）云：
   - id: 142
     kind: body
     source: |-
       > The causal condition that is ‘special’ to true cognition is called a ‘*guṇa*’ [an epistemic excellence]; the causal condition that is ‘special’ to false cognition is called ‘*doṣa*’ [an epistemic defect]. In the perceptual case, the *guṇa* [of a true cognition ‘*x* is *F*’] is the sensory connection with an object [*x*] possessing a property [*F*], etc.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 对真认知“特殊”的因果条件称为“*guṇa*”［一种认识论善德］；对假认知“特殊”的因果条件称为“*doṣa*”［一种认识论过失］。在知觉的情形中，一个真认知“*x* 是 *F*”的 *guṇa* 是与拥有性质 [*F*] 的对象 [*x*] 的感官连接等等。
+    step2: |-
+      > 于真认知为“特殊”之因果条件，名曰“*guṇa*”［认识论善德］；于假认知为“特殊”之因果条件，名曰“*doṣa*”［认识论过失］。知觉之例：真认知“*x* 是 *F*”之 *guṇa*，即与具有性质 [*F*] 之对象 [*x*] 之感官连接等等。
   - id: 143
     kind: body
     source: |-
       This is, in effect, the operative condition for true perceptual cognitions. Thus, the occurrence of all the usual factors (substrate causes, non-substrate causes, general instrumental causes, etc.) together with an epistemic excellence (*guṇa*) is a necessary and sufficient causal condition for the occurrence of a true cognition (see also Philips and Tatacharya 2003).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这实际上就是真知觉认知的作用条件。于是，所有通常要素（依处因、非依处因、一般工具因等）的出现，连同一种认识论善德（*guṇa*），就是一个真认知出现的充分且必要的因果条件（另见 Philips and Tatacharya 2003）。
+    step2: |-
+      此即真知觉认知之作用条件。于是，诸通常要素（和合因、非和合因、一般工具因等）之俱现，加上一种认识论善德（*guṇa*），便是真认知出现之充要因果条件（另见 Philips and Tatacharya 2003）。
   - id: 144
     kind: body
     source: |-
       ## 7. Perception, Concepts and Sense-Object Relations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. 知觉、概念与感官—对象关系
+    step2: |-
+      ## 7. 知觉、概念与感官—对象关系
   - id: 145
     kind: body
     source: |-
       Noticing something coiled up in the corner of the room, I perceive it to be a piece of rope. Looking out of the window, I see that the sky is blue and see also, perhaps, the blueness of the sky. I see too that the air is cold, and that there is nobody on the street. What do all these experiences have in common, in virtue of which they are all acts of perception? *The Manual of Reason* (TS 46) gives the classical Nyāya answer:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意到房间里角落有什么东西蜷曲着，我知觉到它是一段绳子。望向窗外，我看到天空是蓝的，或许也看到天空的蓝。我也看到空气是冷的，街上没有人。所有这些经验有什么共同点，使它们都是知觉行为？《理性手册》（TS 46）给出了古典正理的回答：
+    step2: |-
+      见屋角蜷曲之物，我知觉其为一段绳。望窗外，见天色之蓝，或亦见天之蓝性；亦见空气之冷，街上无人。凡此诸经验，共同点何在，使其皆为知觉之行？《理性手册》（TS 46）予古典正理之答：
   - id: 146
     kind: body
     source: |-
       > **Principle 1**: In each case of perceptual experience, the experience has as its special instrumental cause a ‘connection’ (*sannikarṣa*) between the object perceived and the perceiver’s sense-faculty.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **原则 1**：在每一个知觉经验中，该经验以其特殊工具因是一个“连接”（*sannikarṣa*）——被知觉对象与知觉者感官官能之间的连接。
+    step2: |-
+      > **原则 1**：每一知觉经验，其特殊工具因乃一“连接”（*sannikarṣa*）：所知对象与知觉者感官官能间之连接。
   - id: 147
     kind: body
     source: |-
       All seeings are the product of a sensory connection (of a type to be specified) with the thing seen. This basic idea must be embellished in two ways before it is can serve as a proper a theory of perception: (i) some account must be given of the fact that, in all the cases cited above, the content of perception is semantically structured (e.g. that the thing in the corner is a piece of rope), for otherwise perceptual experiences would not be capable of being true, and hence fail to qualify as knowledge-episodes; (ii) an account must be given of the type of ‘connection’ involved here. Only then can we evaluate the merits of the Nyāya theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一切看见都是与所见之物的一种感官连接（类型有待指明）的产物。这一基本想法必须从两方面加以充实，才能充当一个恰当的知觉理论：（i）必须对如下事实给出某种说明：在上面所引的一切情形中，知觉的内容在语义上是有结构的（例如角落里的东西是一段绳子）；否则知觉经验就不能为真，也就没有资格作为知识事件；（ii）必须对这里涉及的“连接”类型给出说明。只有这样我们才能评价正理理论的优点。
+    step2: |-
+      一切“看见”皆感官连接（类型待指明）之产物。此基本想法须两路充实，方可立为合式之知觉理论：（i）须说明上引诸例中知觉内容皆有语义结构（如：屋角之物是一段绳）；否则知觉经验不能为真，遂无资格充任知识事件；（ii）须说明此处所涉“连接”之类型。如此方能评骘正理理论之得失。
   - id: 148
     kind: body
     source: |-
       ### 7.1 ‘Qualificative Perception’ and the Role of Concepts
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 “有分别知觉”与概念的角色
+    step2: |-
+      ### 7.1 “有分别知觉”与概念的角色
   - id: 149
     kind: body
     source: |-
       A structured perception, of an object a as having a certain property *f* (e.g. seeing the thing in the corner as being a piece of rope), is called by the Naiyāyikas ‘qualificative’ (*savikalpaka = saprakāraka*), for it a perception of an object, the ‘qualificand’ (*viśeṣya*) as having a certain feature or ‘qualifier’ (*prakāra*; *viseṣaṇa*) (cf. TS 47). It is alleged by the Naiyāyikas that any piece of perceptual *knowledge* must be of this form, and further that most cases in which we claim just to be seeing an object (e.g. “I see the car”) are really cases of seeing something as a car. In a ‘qualificative’ perception, it is the qualificand which is in sensory connection with the perceiver. How then does the qualifier enter the picture? The Nyāya claim that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个有结构的知觉——对对象 a 拥有某性质 *f* 的知觉（例如把角落里的东西看作一段绳子）——被正理论者称为“有分别的”（*savikalpaka = saprakāraka*），因为它是对象的知觉，即“所别”（*viśeṣya*）拥有某一特征或“能别”（*prakāra*；*viseṣaṇa*）的知觉（参见 TS 47）。正理论者主张：任何知觉*知识*必取此种形式；进而，我们宣称只是看见一个对象的大多数情形（例如“我看见那辆车”）实际上都是把某物看作一辆车的情形。在“有分别”知觉中，与知觉者处于感官连接的是所别。那么能别如何进入图景？正理派主张：
+    step2: |-
+      有结构之知觉——知觉对象 a 之具有某性 *f*（如见屋角之物为一段绳）——正理论者名之曰“有分别”（*savikalpaka = saprakāraka*）：知觉一所别（*viśeṣya*）之具有某一特征，即“能别”（*prakāra*；*viseṣaṇa*）（参见 TS 47）。正理论者主张：凡知觉*知识*必具此形；且吾人自称仅“看见”一对象之多数情形（如“我看见那辆车”），实皆“将某物看作一辆车”之情形。于“有分别”知觉，与知觉者作感官连接者为所别。然则能别何以入局？正理派主张：
   - id: 150
     kind: body
     source: |-
