@@ -2,7 +2,7 @@
   "slug": "causation-medieval",
   "kind": "retranslate",
   "zh_doc": "c/causation-medieval.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,34 @@
       "actor": "CD-main-20261106",
       "at": "2026-11-06T14:28:28Z",
       "evidence": "对账纠正（CD-main-20261106）：文末 60 条脚注定义缺 `## 参考文献` 节首与照录说明句（尾节四件套之一），已补节首+说明；段落对齐、内联 marker 58:58、defs 键集 60:60 全等，check_academic/check_style --strict 双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T19:03:23Z",
+      "evidence": "初审（初译 actor 为他会话，独立性满足）：通读全文 5 节 4 小节逐节对位。问题分级——Critical 0、Major 0、Minor 3：pubinfo 误用加粗（改斜体）；参考文献源节标题 ### Primary Literature / ### Secondary Literature 丢失（按模板 v1.4「保留源节标题」补回）；源页缺陷 1（第 59 段 Tachau 引注源文括号误作 }，照录留痕）。逐处手改"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T19:03:23Z",
+      "evidence": "复审逐句回核源文：术语（形质论/冲力/种相 species/绝对权能与定序权能/事实的证明与有理由的证明）一致；check_prose 34→2，实修 32 处（长句 13 拆分、的链 13、双被 4 修 2、弱动词 2、们 2）；余 2 条为阿奎那《神学大全》引文与 Adams 引文（照译不改），逐条豁免留痕；四检 style 0 / academic 0 硬 / math 0 / prose 告警 2 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T19:03:24Z",
+      "evidence": "终审：结构 h2 9:9、h3 6:6（含 References 下 Primary/Secondary Literature 子标题）、脚注定义 60:60 逐键一致、H1 与 SUMMARY 逐字一致（check_summary 0 硬）、尾部节序合规；四检全绿（prose 2 条引文豁免）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-09T19:03:24Z",
+      "evidence": "r1-r3 全过，四检全绿，收口 done"
     }
   ],
   "blockers": [],
