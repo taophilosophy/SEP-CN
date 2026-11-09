@@ -11,56 +11,74 @@ segments:
     kind: body
     source: |-
       Whether and to what extent people are motivated by considerations of justice is a central topic in a number of fields including economics, psychology, and business. The implications of this topic extend broadly, from the psychology of negotiations, to the motives citizens have to pay taxes, to what considerations influence healthcare allocation decisions. Given all the possible topics which could be explored, this essay adopts the following parameters to help narrow the focus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们在何种程度上、出于何种考虑而受正义驱动，是包括经济学、心理学与商学在内的诸多领域的一个中心话题。这一话题的影响面很广：从谈判心理学，到公民纳税的动机，再到影响医疗资源配置决策的种种考量。考虑到可以探讨的话题众多，本文采用以下几条界线来收窄焦点：
+    step2: |-
+      人们究竟在多大程度上、以何种方式受正义考量的驱动，是经济学、心理学、商学等众多领域的中心话题。它的影响面很宽：从谈判心理学，到公民纳税的动机，再到左右医疗资源配置决策的种种考量。可以探讨的话题很多，本文因此定下如下几条界线来收窄焦点：
   - id: 2
     kind: body
     source: |-
       We will look at the moral psychology of individuals as opposed to firms, societies, or other collective entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们将考察个体的道德心理学，而非公司、社会或其他集体实体的道德心理学。
+    step2: |-
+      我们考察的是个体的道德心理学，而不是公司、社会或其他集体实体的道德心理学。
   - id: 3
     kind: body
     source: |-
       Our focus will be on empirical results, rather than armchair considerations of what the psychology of people might be like or what it should be like. The SEP entry on the virtue of justice discusses the moral psychology of a just person (LeBar 2020)[^lebar-2020]. But whether people actually are motivated by justice or have the virtue of justice is an empirical question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们的焦点将放在经验结果上，而不是扶手椅式的思辨——即人们心理可能是什么样的、应当是什么样的。SEP 关于正义之德的词条讨论了正义之人的道德心理学（LeBar 2020）[^lebar-2020]。但人们是否真的受正义驱动、是否拥有正义之德，这是一个经验问题。
+    step2: |-
+      我们聚焦经验结果，而不是凭空思量人们的心理可能怎样、应当怎样。SEP 关于正义之德的词条讨论了正义之人的道德心理学（LeBar 2020）[^lebar-2020]。但人们事实上是否受正义驱动、是否具有正义之德，则是一个经验问题。
   - id: 4
     kind: body
     source: |-
       The kind of justice that will be our focus here is distributive justice, rather than retributive, international, transitional, or other kinds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本文关注的正义类型是分配正义，而非报应正义、国际正义、转型正义或其他类型。
+    step2: |-
+      本文聚焦的正义类型是分配正义，而不是报应正义、国际正义、转型正义或其他类型。
   - id: 5
     kind: body
     source: |-
       More specifically, we will examine the distributive motives and behavior of individuals by consulting the empirical literature on economic games. Other topics, including the relationship between empirical results and specific theories of distributive justice such as John Rawls’s or Robert Nozick’s, will have to be addressed on another occasion (Lamont and Favor 2014)[^lamont-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更具体地说，我们将查阅关于经济博弈的经验文献，考察个体的分配动机与分配行为。其他话题——包括经验结果与具体分配正义理论（如约翰·罗尔斯或罗伯特·诺齐克的理论）之间的关系——只能留待他日讨论（Lamont and Favor 2014）[^lamont-2014]。
+    step2: |-
+      更具体地说，我们借助经济博弈的经验文献来考察个体的分配动机与分配行为。至于其他话题——例如经验结果与具体分配正义理论（约翰·罗尔斯、罗伯特·诺齐克的理论）之间的关系——只能留待他日（Lamont and Favor 2014）[^lamont-2014]。
   - id: 6
     kind: body
     source: |-
       Why economic games? The psychologists Kun Zhao and Luke Smillie provide a nice answer:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为什么是经济博弈？心理学家 Kun Zhao 和 Luke Smillie 给出了一个很好的回答：
+    step2: |-
+      为什么用经济博弈？心理学家 Kun Zhao 与 Luke Smillie 给出了一个漂亮的回答：
   - id: 7
     kind: body
     source: |-
       > Economic games have become widely adopted within the psychological sciences, where they are used to model complex social interactions and allow for rigorous empirical investigations. As behavioral paradigms, they are well-controlled, manipulable, and replicable…making them ideal for bridging the gap between theory and naturalistic data. In personality research, they provide behavioral paradigms that may complement and help validate self-report measures, and offer sharp operationalizations of somewhat slippery concepts. (2015: 277–278, see also Fetchenhauer and Huang 2004: 1018)[^fetchenhauer-2004]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 经济博弈已在心理科学中得到广泛采用：它们被用来建模复杂的社会互动，并支持严格的经验研究。作为行为范式，它们控制良好、可操纵、可重复……这使它们成为弥合理论与自然情境数据之间鸿沟的理想工具。在人格研究中，它们提供了可以补充并帮助验证自我报告测量的行为范式，并为一些相当难以把握的概念提供锐利的操作化。（2015: 277–278，另见 Fetchenhauer and Huang 2004: 1018）[^fetchenhauer-2004]
+    step2: |-
+      > 经济博弈如今在心理科学中被广泛采用：研究者用它刻画复杂的社会互动，并开展严格的经验研究。作为行为范式，它们控制良好、可操纵、可重复……正是沟通理论与自然情境数据的理想桥梁。在人格研究中，这些行为范式可以补充并帮助验证自我报告测量，还能为一些难以把握的概念提供锐利的操作化。（2015: 277–278，另见 Fetchenhauer and Huang 2004: 1018）[^fetchenhauer-2004]
   - id: 8
     kind: body
     source: |-
       There are two general kinds of economic games. *Social dilemmas* typically juxtapose short-term self-interest with long-term group interests, and include the prisoner’s dilemma and the public goods game. *Bargaining games* typically involve two players distributing a specific payoff (usually money), and will be our focus here, as they are especially helpful for examining the moral psychology of justice. Examples include the ultimatum game and dictator game. We will also look at a novel twist on the dictator game by the psychologist Daniel Batson, which has fostered a large experimental literature on what he calls “moral hypocrisy”. Finally we will connect this discussion of economic games to the virtue of justice and to other personality traits such as agreeableness, honesty-humility, and justice sensitivity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经济博弈大体有两类。**社会困境**（*social dilemmas*）通常把短期自利与长期群体利益并置，包括囚徒困境与公共物品博弈。**讨价还价博弈**（*bargaining games*）通常由两名玩家分配一笔特定收益（通常是钱），这正是本文的焦点，因为它们特别有助于考察正义的道德心理学。例子包括最后通牒博弈与独裁者博弈。我们还会考察心理学家 C. Daniel Batson 对独裁者博弈的一个新颖变式，它催生了围绕他所称“道德伪善”的大量实验文献。最后，我们会把这一关于经济博弈的讨论与正义之德以及宜人性、诚实-谦逊、正义敏感性等人格特质联系起来。
+    step2: |-
+      经济博弈大体有两类。**社会困境**（*social dilemmas*）把短期自利与长期群体利益摆在对立位置，典型例子是囚徒困境和公共物品博弈。**讨价还价博弈**（*bargaining games*）通常由两名玩家分一笔特定收益（通常是钱），这正是本文的焦点，因为它们特别有助于考察正义的道德心理学，典型例子是最后通牒博弈和独裁者博弈。我们还会看心理学家 C. Daniel Batson 给独裁者博弈设计的一个新颖变式——它催生了围绕他所称“道德伪善”的大量实验文献。最后，我们会把关于经济博弈的讨论接到正义之德，以及宜人性、诚实-谦逊、正义敏感性等人格特质上。
   - id: 9
     kind: body
     source: |-
       Before diving in, it is worth saying something very briefly about why empirical results might be of interest to philosophers as they theorize about distributive justice. One might think, after all, that philosophers tend to focus less on what people actually tend to do and be like, as opposed to what they should do and be like. Nevertheless, in recent years philosophers in general have paid increasing attention to empirical research, and with respect to matters of distributive justice, a few important reasons for doing so are the following:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在深入之前，值得非常简短地说明：哲学家在思考分配正义理论时，为什么会对经验结果感兴趣。有人可能会想，哲学家关注的毕竟是人们应当做什么、应当成为什么样，而不是人们实际上倾向于做什么、实际是什么样。不过，近年来哲学家总体上越来越重视经验研究；就分配正义而言，这样做的理由有以下几个重要的：
+    step2: |-
+      在进入正题之前，先简短交代：哲学家研究分配正义理论，为什么要关心经验结果？有人或许以为，哲学家关注的是人们应当做什么、应当成为什么样，而不是人们实际上做什么、实际是什么样。不过近年来，哲学家整体上越来越重视经验研究；就分配正义而言，这样做的理由至少有四：
   - id: 10
     kind: body
     source: |-
@@ -68,68 +86,96 @@ segments:
       2. Relatedly, moral philosophers have developed rich conceptions of the virtue of justice and what a just person would do. But are these conceptions empirically adequate and psychologically realistic for human beings like us? Empirical results would bear on this question, and if the answer is no, then perhaps those conceptions are problematized (Doris 2002; Miller 2014)[^doris-2002][^miller-2014].
       3. Philosophers might come up with normative criteria for when actions and institutions are just or not. But to actually apply those criteria to real world concerns, they need empirical data about how people and institutions are in fact behaving.
       4. Empirical data is also highly relevant to philosophers interested in developing strategies for improvement, so that just actions, just institutions, and just character are increasingly promoted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 伦理利己主义主张，个人的核心目标应当是促进自己的长期自利。多数哲学家拒斥伦理利己主义。但指望多数人按自利以外的动机（如公平与正义的动机）行事，这在心理上现实吗？本文前三节所评述的经验结果，正关系到这一问题。
+      2. 相关地，道德哲学家已经发展出关于正义之德以及正义之人会做什么的丰富构想。但这些构想对像我们这样的人类来说，在经验上恰当、在心理学上现实吗？经验结果关系到这一问题；若答案是否定的，那么这些构想或许就成了问题（Doris 2002; Miller 2014）[^doris-2002][^miller-2014]。
+      3. 哲学家可能提出行动与制度何时正义、何时不正义的规范性标准。但要把这些标准实际应用于现实世界的问题，就需要关于人们与制度实际如何行事的经验数据。
+      4. 经验数据也与想要发展改进策略的哲学家高度相关，以便让正义行动、正义制度与正义品格得到越来越多的促进。
+    step2: |-
+      1. 伦理利己主义主张，个人的核心目标就是增进自身长远利益。多数哲学家不接受伦理利己主义。可是，期待大多数人按公平、正义这类非自利动机行事，在心理学上现实吗？本文前三节评述的经验结果正与这个问题相关。
+      2. 与此相关，道德哲学家对正义之德、对正义之人会如何行事，已有丰富的构想。但这些构想对像我们这样的人来说，经验上是否站得住、心理学上是否现实？经验结果能给出回答；如果答案是否定的，这些构想本身就可能成问题（Doris 2002; Miller 2014）[^doris-2002][^miller-2014]。
+      3. 哲学家可以提出规范标准，判定行动与制度何时正义、何时不正义。但要把标准真正用到现实关切上，就需要经验数据——关于人和制度实际上如何行事。
+      4. 经验数据对另一类哲学家同样重要：他们想设计改进策略，让正义的行动、制度与品格得到越来越多的促进。
   - id: 11
     kind: body
     source: |-
       The entry is structured as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本词条结构如下：
+    step2: |-
+      本词条的结构如下：
   - id: 12
     kind: body
     source: |-
       ## 1. Ultimatum Games and Fairness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 最后通牒博弈与公平
+    step2: |-
+      ## 1 最后通牒博弈与公平
   - id: 13
     kind: body
     source: |-
       Ultimatum games have the following setup. Call one person the “offerer” and the other the “responder”, The offerer is informed that she can allocate a certain amount of a good. Suppose the good is money, such as $10, since that is the usual good chosen by experimenters in the literature. Next the offerer is instructed to make some offer to the responder—in our example, the offer could range between $0 and $10, inclusive. So the offerer can give away all the money, none of it, or something in-between. The only other piece of information that the offerer knows, standardly, is that the responder’s reaction matters when he is presented with her offer. If the responder accepts the offer, then both parties keep whatever the offer says (unless it is $0, in which case only one side keeps any money). But if the responder rejects the offer, then neither side gets any money at all, and the game is done. Hence if the offer is to keep $8 and give $2, and the responder accepts this offer, then that is in fact the amount of money with which each side walks away. But if the responder rejects the offer, then each side walks away with $0.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后通牒博弈的设定如下。我们把一方称为“提议者”，另一方称为“回应者”。提议者被告知，她可以分配一定数量的某种物品。不妨假设这种物品是钱，比如 10 美元——这是文献中实验者通常选用的物品。接着，提议者被指示向回应者提出某个出价——在本例中，出价可以在 0 美元到 10 美元之间（含两端）。因此提议者可以把钱全部送出、一分不给，或者介于两者之间。提议者按标准设定知道的另一条信息是：当回应者面对她的出价时，回应者的反应很重要。如果回应者接受出价，那么双方各得该出价所示的钱（除非出价是 0 美元，那样只有一方拿到钱）。但如果回应者拒绝出价，那么双方都拿不到一分钱，博弈结束。所以，如果出价是“自己留 8 美元、给对方 2 美元”，而回应者接受了这个出价，那么双方带走的钱正是这个数目；但如果回应者拒绝，双方都两手空空。
+    step2: |-
+      最后通牒博弈的设定如下。一方称为“提议者”（offerer），另一方称为“回应者”（responder）。提议者被告知：她可以分配一定数量的某种物品。不妨假设这种物品是钱，比如 10 美元——这也是文献中实验者通常选用的物品。接下来提议者要向回应者报出一个出价：在本例中，出价可以是 0 到 10 美元之间的任何数（含两端）。也就是说，提议者可以把钱全部送出去、一分不给，或者取其中的任意一个数。按标准设定，提议者唯一还知道的信息是：回应者面对出价时，其反应至关重要。回应者接受出价，双方就各得该出价所示的数额（出价为 0 时例外，只有一方能拿到钱）；回应者拒绝出价，则双方都两手空空，博弈就此结束。举例来说，出价为“自己留 8 美元、给对方 2 美元”：回应者接受，双方就各按此数拿钱走人；回应者拒绝，双方都空手而归。
   - id: 14
     kind: body
     source: |-
       A couple of observations are important here. First, it is not essential to the game that the offerer know anything about the responder—he or she could be a complete stranger. Second and, as we will see, very importantly, it is not an essential feature of the game that the responder know how much money the offerer has to work with in the first place. So when the offer comes in at $2, the responder might have no idea whether that is all the money that the offerer has to allocate, or whether it is just a small amount out of $100, $10,000, or even higher. In many versions of the ultimatum game, the responder *is* told what the offerer has available. But the point to stress here is that this is an optional feature of the game. Finally, it is worth noting that the power dynamic in this game favors the offerer. The responder cannot make any counteroffers back in the hope of getting a bigger offer. He only has the threat of veto power. But if he does veto the offer, then he comes away with nothing himself. That is not a great negotiating position to be in.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里有几点重要观察。第一，博弈的要点并不在于提议者了解回应者的任何信息——他或她可能完全是个陌生人。第二（这一点如后文所见，非常重要），回应者是否知道提议者一开始有多少钱可供分配，也不是博弈的必备特征。所以当出价是 2 美元时，回应者可能完全不知道这是提议者全部可分配的钱，还是 100 美元、10,000 美元甚至更多之中的一小部分。在最后通牒博弈的许多版本中，回应者*确实*被告知提议者有多少钱。但这里要强调的是：这只是博弈的可选特征。最后，值得注意的是，博弈中的权力态势有利于提议者。回应者不能反过来还价以期获得更大的出价；他只有否决权这一威胁。但如果他真的否决了出价，自己也将一无所获。这并不是一个好的谈判位置。
+    step2: |-
+      这里有几点值得注意。第一，提议者对回应者一无所知并不妨碍博弈成立——对方完全可能是陌生人。第二，也是最要紧的一点（后文将看到）：回应者是否知道提议者手里有多少钱可供分配，同样不是博弈的必备要素。当出价是 2 美元时，回应者可能根本不知道这是提议者所能分配的全部，还是 100 美元、10,000 美元乃至更多里的一小部分。许多版本的最后通牒博弈**确实**会告诉回应者提议者有多少钱，但必须强调：这只是可选设定。最后还要注意，这场博弈的权力格局偏向提议者：回应者无法还价、争取更大的出价，手里只有“否决”这张牌；可一旦真的动用否决，他自己也将一无所获。这不是什么好的谈判处境。
   - id: 15
     kind: body
     source: |-
       Given this last thought, a natural prediction to make about how ultimatum games will go is the following. Offerers will want to maximize their self-interest, and so maximize their take-home payment. They might think that, from a responder’s perspective, any money is better than no money. So we might predict that the offer itself will be as low as possible, say 1 cent or 5 cents in our example involving $10. For the responder to reject this offer would be irrational, since he would come away with nothing, whereas accepting the offer would make him better off than he would otherwise have been.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于最后这一点，关于最后通牒博弈会如何进行的一个自然预测如下。提议者会想最大化自身利益，因而最大化自己的到手收益。他们可能认为，从回应者的角度看，有钱总比没钱好。于是我们可以预测，出价本身会尽可能低，比如在本例 10 美元的情境中出 1 美分或 5 美分。回应者拒绝这个出价是非理性的，因为他将一无所获，而接受出价则会使他好于原本的处境。
+    step2: |-
+      顺着这层考虑，对最后通牒博弈结局的自然预测是：提议者想最大化自身利益，也就是最大化自己到手的钱；他们大概会想，对回应者来说，有钱总比没钱强。于是可以预测，出价会压到最低——在本例 10 美元的情境中，比如出 1 美分或 5 美分。对回应者来说，拒绝这种出价是不理性的：拒绝了就一无所有，接受了则好过原本的处境。
   - id: 16
     kind: body
     source: |-
       This is, indeed, what many economists in the early days of research on the ultimatum game predicted would happen, on the basis of standard game theoretic assumptions (Kahneman et al. 1986: S285–286; Pillutla and Murnighan 1995: 1409; Güth 1995: 329; Camerer and Thaler 1995: 210)[^camerer-1995][^güth-1995][^kahneman-1986][^pillutla-1995]. In other words, given a concern to promote one’s own self-interest, the prediction is that minimal offers will be made in ultimatum games to maximize one’s take-home amount—which is the subgame perfect Nash equilibrium (Kahneman et al. 1986: S289; Forsythe et al. 1994: 348; Güth 1995: 331; Pillutla and Murnighan 1995: 1409, 2003: 248; Straub and Murnighan 1995: 345–346)[^forsythe-1994][^güth-1995][^kahneman-1986][^pillutla-1995][^straub-1995].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，在最后通牒博弈研究的早期，许多经济学家基于标准博弈论假设，确实预测了这样的结果（Kahneman et al. 1986: S285–286; Pillutla and Murnighan 1995: 1409; Güth 1995: 329; Camerer and Thaler 1995: 210）[^camerer-1995][^güth-1995][^kahneman-1986][^pillutla-1995]。换句话说，给定促进自身利益的考量，预测是最后通牒博弈中会开出极小的出价，以最大化自己的到手金额——这就是子博弈完美纳什均衡（Kahneman et al. 1986: S289; Forsythe et al. 1994: 348; Güth 1995: 331; Pillutla and Murnighan 1995: 1409, 2003: 248; Straub and Murnighan 1995: 345–346）[^forsythe-1994][^güth-1995][^kahneman-1986][^pillutla-1995][^straub-1995]。
+    step2: |-
+      事实上，研究最后通牒博弈的早期，许多经济学家正是基于标准博弈论假设做出了这一预测（Kahneman et al. 1986: S285–286; Pillutla and Murnighan 1995: 1409; Güth 1995: 329; Camerer and Thaler 1995: 210）[^camerer-1995][^güth-1995][^kahneman-1986][^pillutla-1995]。换言之，如果人人求自利，预测就是：最后通牒博弈中会开出极小的出价，把自己的到手金额最大化——这就是子博弈完美纳什均衡（Kahneman et al. 1986: S289; Forsythe et al. 1994: 348; Güth 1995: 331; Pillutla and Murnighan 1995: 1409, 2003: 248; Straub and Murnighan 1995: 345–346）[^forsythe-1994][^güth-1995][^kahneman-1986][^pillutla-1995][^straub-1995]。
   - id: 17
     kind: body
     source: |-
       But something surprising happened. Beginning with Werner Güth’s famous paper in 1982 (Güth et al. 1982)[^güth-1982], the first empirical studies that were actually conducted to see what people would do in this situation found a rather different result. Robert Forsythe and his colleagues, for instance, found that not one offerer kept the entire amount of $10, and that offers were instead distributed around the 50/50 split amount with 75% offering at least an equal amount (1994: 362). As we noted, this behavior by offerers is not what standard game theory would have predicted. Similarly, in a well-known paper Daniel Kahneman and his colleagues found that out of $10, the mean amount offered was $4.76 with 81% making equal split offers (1986: S291, see also Güth 1995)[^güth-1995].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但令人意外的事情发生了。自 Werner Güth 1982 年的著名论文（Güth et al. 1982）[^güth-1982]起，第一批真正考察人们在这种情境下会怎么做的经验研究发现了一个相当不同的结果。例如，Robert Forsythe 及其同事发现，没有一个提议者把全部 10 美元据为己有，出价反而围绕 50/50 对半分分布，75% 的提议者至少平分（1994: 362）。如前所述，提议者的这种行为并非标准博弈论所预测的。类似地，Daniel Kahneman 及其同事在一篇著名论文中发现，在 10 美元中，平均出价为 4.76 美元，81% 的人选择平分（1986: S291，另见 Güth 1995）[^güth-1995]。
+    step2: |-
+      但意外发生了。自 Werner Güth 1982 年那篇著名论文（Güth et al. 1982）[^güth-1982]起，第一批真正考察人们在此情境中如何行动的实验研究，得到了颇为不同的结果。例如，Robert Forsythe 及其同事发现：没有一个提议者独吞全部 10 美元；出价围绕 50/50 平分分布，75% 的提议者至少给出平分（1994: 362）。如前所述，标准博弈论预测不了提议者的这种行为。类似地，Daniel Kahneman 及其同事在一篇广为人知的论文中发现：在 10 美元里，平均出价为 4.76 美元，81% 的人给出平分出价（1986: S291，另见 Güth 1995）[^güth-1995]。
   - id: 18
     kind: body
     source: |-
       Surprising results were found for responders too. Kahneman also reports, for instance, that the mean of minimally acceptable (i.e., not rejected) offers was $2.59, with 58% demanding more than $1.50 (Kahneman et al. 1986: S291)[^kahneman-1986].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      回应者一方也有令人意外的结果。例如，Kahneman 还报告说，最低可接受出价（即未被拒绝的出价）的均值是 2.59 美元，58% 的人要求高于 1.50 美元（Kahneman et al. 1986: S291）[^kahneman-1986]。
+    step2: |-
+      回应者一方同样出现了意外。例如 Kahneman 报告：最低可接受出价（即未遭拒绝的出价）的均值是 2.59 美元，58% 的回应者要求高于 1.50 美元（Kahneman et al. 1986: S291）[^kahneman-1986]。
   - id: 19
     kind: body
     source: |-
       To explain these puzzling results, several researchers began to move beyond standard game theoretic assumptions and appeal to a justice motive. With offerers, this could be a desire to be fair in allocating goods, together with a belief that the fair allocation in the game is an equal split. With responders, it could be a desire to not be treated unfairly. This could lead to different explanations of rejection behavior, such as a desire to not participate in unfair deals or a desire to punish someone who is behaving unfairly (Kahneman et al. 1986: S290, see also Forsythe et al. 1994; Güth et al. 1982; Güth 1995; Camerer and Thaler 1995)[^camerer-1995][^forsythe-1994][^güth-1995][^güth-1982][^kahneman-1986].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了解释这些令人困惑的结果，一些研究者开始超出标准博弈论假设，诉诸正义动机。对提议者而言，这可能是一种公平分配物品的愿望，再加上一种认为博弈中的公平分配就是平分的信念。对回应者而言，这可能是一种不愿被不公平对待的愿望。这可以导向对拒绝行为的不同解释，例如不愿参与不公平交易的愿望，或者惩罚行不公者的愿望（Kahneman et al. 1986: S290，另见 Forsythe et al. 1994; Güth et al. 1982; Güth 1995; Camerer and Thaler 1995）[^camerer-1995][^forsythe-1994][^güth-1995][^güth-1982][^kahneman-1986]。
+    step2: |-
+      为了解释这些令人费解的结果，一些研究者开始跳出标准博弈论假设，转而诉诸正义动机。提议者一方，可能是公平分配物品的愿望，再加上“此博弈中公平的分配就是平分”这一信念；回应者一方，则可能是不愿遭受不公对待的愿望。由此可以对拒绝行为给出不同解释：不愿参与不公平交易的愿望，或者惩罚不公行为者的愿望（Kahneman et al. 1986: S290，另见 Forsythe et al. 1994; Güth et al. 1982; Güth 1995; Camerer and Thaler 1995）[^camerer-1995][^forsythe-1994][^güth-1995][^güth-1982][^kahneman-1986]。
   - id: 20
     kind: body
     source: |-
       But this is not the end of the story about the research done to try to explain and predict ultimatum game behavior. In the 1990s, a wave of new studies began to cast doubt on these fairness explanations. Here are some of the interesting results from this research:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但关于试图解释与预测最后通牒博弈行为的研究，故事还没有结束。20 世纪 90 年代，一波新研究开始对这些公平解释提出质疑。以下是这项研究中一些有趣的结果：
+    step2: |-
+      但关于最后通牒博弈行为的研究故事并未就此结束。20 世纪 90 年代，一波新研究开始质疑这些公平解释。下面是其中一些有趣的结果：
   - id: 21
     kind: body
     source: |-
