@@ -763,86 +763,114 @@ segments:
     kind: body
     source: |-
       ### 4.2 The *CM* Model and Explanatory Relevance
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 *CM* 模型与解释相关性
+    step2: |-
+      ### 4.2 *CM* 模型与解释相关性
   - id: 94
     kind: body
     source: |-
       As the billiard example illustrates, the *CM* model takes as its paradigms of causal interaction examples such as collisions in which there is “action by contact” and no spatio-temporal gaps in the transmission of causal influence. There is little doubt that explanations in which there are no such gaps (no “action at a distance”) often strike us as particularly satisfying. However, as Christopher Hitchcock shows in an illuminating paper (Hitchcock 1995)[^hitchcock-1995], even here the *CM* model leaves out something important. Consider the usual elementary textbook “scientific explanation” of the motion of the balls in the above example following their collision. This explanation proceeds by deriving that motion from information about their masses and velocity before the collision, the assumption that the collision is perfectly elastic, and the law of the conservation of linear momentum. We usually think of the information conveyed by this derivation as showing that it is the mass and velocity of the balls, rather than, say, the scratches on their surface or chalk that may be transmitted by the cue stick that is explanatorily relevant to their subsequent motion. However, it is hard to see what in the *CM* model allows us to pick out the linear momentum of the balls, as opposed to these other features, as explanatorily relevant. Part of the difficulty is that to express such relatively fine-grained judgments of explanatory relevance (that it is linear momentum rather than chalk marks that matters) we need to talk about relationships between properties or magnitudes and it is not clear how to express such judgments purely in terms of facts about causal processes and interactions. Both the linear momentum and the chalk mark communicated to the cue ball by the cue stick are marks transmitted by the spatio-temporally continuous causal process consisting of the motion of the cue ball.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如台球之例所示，*CM* 模型把诸如此类的碰撞——“接触致动”、且因果影响的传递没有时空间隙——作为因果相互作用的范式。毫无疑问，没有这类间隙（无“超距作用”）的解释常令我们觉得格外令人满意。然而，正如克里斯托弗·希区柯克在一篇富于启发的论文中所表明的（Hitchcock 1995）[^hitchcock-1995]，即便在此，*CM* 模型也遗漏了某种重要的东西。考虑上例中两球相撞之后运动的通常教科书式“科学解释”：该解释由碰撞前两球的质量与速度的信息、碰撞完全弹性的假定、以及线动量守恒律，推导出该运动。我们通常认为这一推导所传达的信息表明：对两球随后运动具有解释相关性的，是它们的质量与速度，而不是（比如）其表面的划痕或可能由球杆传递的巧粉。然而，很难看出 *CM* 模型中有何物能让我们挑出两球的线动量（而非这些其他特征）作为解释上相关者。部分困难在于：要表达这类较为精细的解释相关性判断（重要的是线动量而非巧粉痕迹），我们需要谈论属性或量值之间的关系，而如何纯以因果过程与相互作用之事实来表达这类判断，并不清楚。由球杆传给母球的线动量与巧粉痕迹，二者都是由母球运动这一时空连续的因果过程所传递的标记。
+    step2: |-
+      如台球之例所示，*CM* 模型以碰撞这类“接触致动”、因果影响传递无时空间隙的例子为因果相互作用之范式。无疑，没有这类间隙（无“超距作用”）的解释常令我们觉得格外令人满意。然而克里斯托弗·希区柯克在一篇富于启发的论文中（Hitchcock 1995）[^hitchcock-1995] 表明：即便在此，*CM* 模型仍遗漏了要紧之物。试看上例中两球相撞后运动的通行教科书式“科学解释”：由碰撞前两球的质量与速度、碰撞完全弹性的假定、线动量守恒律推出该运动。我们通常认为，此推导所示者是：对两球随后运动解释上相关者，为其质量与速度，而非表面划痕或球杆传来的巧粉之类。可是很难看出 *CM* 模型中何者使我们能挑出两球的线动量——而非这些其他特征——为解释上相关者。困难之一在于：要表达这类较精细的解释相关性判断（要紧的是线动量而非巧粉痕迹），须谈属性或量值间的关系；而如何纯以因果过程与相互作用之事实表达这类判断，并不清楚。球杆传给母球的线动量与巧粉痕迹，皆由母球运动这一时空连续因果过程所传递。
   - id: 95
     kind: body
     source: |-
       Ironically, as Hitchcock goes on to note, a similar observation may be made about the birth control pills example (5) originally devised by Salmon to illustrate the failure of the *DN* model to capture the notion of explanatory relevance. Spatio-temporally continuous causal processes that transmit marks as well as causal interactions are at work when male Mr. Jones ingests birth control pills—the pills dissolve, components enter his bloodstream, are metabolized or processed in some way, and so on. Similarly, spatio-temporally continuous causal processes (albeit different processes) are at work when female Ms. Jones takes birth control pills. However, the pills are irrelevant to Mr. Jones’s non-pregnancy, and relevant to Ms. Jones’s non-pregnancy. Again, it looks as though the relevance or irrelevance of the birth control pills to Mr. or Ms. Jones’s failure to become pregnant cannot be captured just by asking whether the processes leading up to these outcomes are causal processes in Salmon’s sense.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      颇具讽刺意味的是，正如希区柯克接着指出的，对避孕药例子 (5)——萨蒙最初设计它，是为了例证 *DN* 模型未能把握解释相关性概念——也可作出类似观察。当男性琼斯先生吞服避孕药时，时空连续的传递标记的因果过程与因果相互作用都在起作用：药片溶解，成分进入血液，被代谢或以某种方式处理，等等。同样，当女性琼斯太太服用避孕药时，时空连续的因果过程（尽管是不同的过程）也在起作用。然而，避孕药与琼斯先生不怀孕无关，而与琼斯太太不怀孕有关。又一次，避孕药之于琼斯先生或太太不怀孕的相关或不相关，看来无法仅凭追问导致这些结果的过程是否萨蒙意义上的因果过程来把握。
+    step2: |-
+      讽刺的是，希区柯克继而指出：对避孕药例 (5)——萨蒙当初设计它，正为例证 *DN* 模型未逮解释相关性——亦可作类似观察。琼斯先生（男）吞服避孕药时，时空连续的传递标记之因果过程与因果相互作用俱在运作：药片溶解，成分入血，被代谢或另作处理，等等。琼斯太太（女）服药时，亦有时空连续的因果过程运作（虽是另一些过程）。然而避孕药与琼斯先生之不怀孕无关，却与琼斯太太之不怀孕有关。又一次：避孕药之于二人不怀孕的相关与否，看来无法只靠追问导致结果的过程是否萨蒙意义上的因果过程来把握。
   - id: 96
     kind: body
     source: |-
       A more general way of putting the problem revealed by these examples is that those features of a process *P* in virtue of which it qualifies as a causal process (ability to transmit mark *M*) may not be the features of *P* that are causally or explanatorily relevant to the outcome *E* that we want to explain (*M* may be irrelevant to *E* with some other property *R* of *P* being the property which is causally relevant to *E*). So while mark transmission may well be a criterion that correctly distinguishes between *causal processes* and *pseudo-processes*, it does not, as it stands, provide the resources for distinguishing those *features* or *properties* of a causal process that are causally or explanatorily relevant to an outcome and those features that are irrelevant.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      表述这些例子所揭示的问题的一个更一般方式是：一个过程 *P* 之足以为因果过程的那些特征（传递标记 *M* 的能力），可能不是 *P* 的那些对我们想解释的结果 *E* 有因果或解释相关性的特征（*M* 可以与 *E* 无关，而 *P* 的另一属性 *R* 才是对 *E* 因果相关的属性）。因此，标记传递固然可以是一种正确区分*因果过程*与*伪过程*的标准，但就其现状而言，它并未提供资源去区分：因果过程的哪些*特征*或*属性*对结果因果或解释相关，哪些特征则不相关。
+    step2: |-
+      把诸例所揭示的问题说得再一般些：过程 *P* 之足以为因果过程的特征（能传递标记 *M*），未必是对我们所要解释的结果 *E* 因果或解释相关的特征——*M* 可以与 *E* 无干，而 *P* 的另一属性 *R* 才因果相关于 *E*。故标记传递虽可正确区分*因果过程*与*伪过程*，就现状论，它并未提供区分手段：因果过程诸*特征*或*属性*之中，何者对结果因果或解释相关，何者无关。
   - id: 97
     kind: body
     source: |-
       ### 4.3 The *CM* Model and Complex Systems
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 *CM* 模型与复杂系统
+    step2: |-
+      ### 4.3 *CM* 模型与复杂系统
   - id: 98
     kind: body
     source: |-
       A second set of worries has to do with the application of the *CM* model to systems which depart in various respects from simple physical paradigms such as the collision described above. There are a number of examples of such systems. First, there are theories like Newtonian gravitational theory which involve “action at a distance” in a physically interesting sense. Second, there are a number of examples from the literature on causation that do not involve physically interesting forms of action at a distance but which arguably involve causal interactions without intervening spatio-temporally continuous processes or transfer of energy and momentum from cause to effect. These include cases of causation by omission and causation by “double prevention” or “disconnection.”[^note-6] In all these cases, a literal application of the *CM* model seems to yield the judgment that no explanation has been provided—that Newtonian gravitational theory is unexplanatory and so on. Many philosophers have been reluctant to accept this assessment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二类担忧关涉 *CM* 模型应用于在诸方面偏离上述简单物理范式的系统。这样的系统例子甚多。其一，有牛顿引力理论之类在物理上有意味的意义上涉及“超距作用”的理论。其二，因果文献中有一批例子，并不涉及物理上有意味的超距作用形式，却可论证地包含没有中介的时空连续过程、或没有从因到果的能量与动量传递的因果相互作用，包括遗漏所致的因果性（causation by omission）与“双重阻止”或“断连”所致的因果性。[^note-6] 在所有这些情形中，照字面应用 *CM* 模型似乎会得出这样的判断：没有提供任何解释——牛顿引力理论是无解释力的，等等。许多哲学家不愿接受这一评估。
+    step2: |-
+      第二类担忧关涉 *CM* 模型对复杂系统的应用——这些系统在诸方面偏离上述简单物理范式。其例甚多。其一，牛顿引力理论之类在物理上有意味的意义上涉及“超距作用”。其二，因果文献中一批例子并不涉及物理上有意味的超距作用，却可论证地含有无中介时空连续过程、无能量动量自因向果传递的因果相互作用，如遗漏之因果、“双重阻止”或“断连”之因果。[^note-6] 凡此种种，照字面应用 *CM* 模型似乎都得出：没有提供解释——牛顿引力理论无解释力，等等。许多哲学家不肯接受这一评估。
   - id: 99
     kind: body
     source: |-
       Yet another class of examples that raise problems for the *CM* model involves putative explanations of the behavior of complex or “higher level” systems—explanations that do not explicitly cite spatio-temporally continuous causal processes involving transfer of energy and momentum, even though we may think that such processes are at work at a more “underlying” level. Most explanations in disciplines like biology, psychology and economics fall under this description, as do a number of straightforwardly physical explanations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还有一类给 *CM* 模型制造麻烦的例子，涉及对复杂或“较高层级”系统行为的所谓解释——这些解释并不显式引述涉及能量与动量传递的时空连续因果过程，尽管我们可能认为这类过程在更“底层”的层面上起作用。生物学、心理学、经济学诸学科中的大多数解释都属于这一描述，若干直截了当的物理解释亦然。
+    step2: |-
+      另一类难倒 *CM* 模型的例子，是对复杂或“高层级”系统行为的所谓解释——它们并不显式引述涉及能量与动量传递的时空连续因果过程，尽管我们可能认为这类过程在更“底层”运作。生物学、心理学、经济学中的大多数解释都属此类，若干直白的物理解释亦然。
   - id: 100
     kind: body
     source: |-
       As an illustration, suppose that a mole of gas is confined to a container of volume $V_1,$ at pressure $P_1,$ and temperature $T_1$. The gas is then allowed to expand isothermally into a larger container of volume $V_2$. One standard way of explaining the behavior of the gas—its rate of diffusion and its subsequent equilibrium pressure $P_2$—appeals to the generalizations of phenomenological thermodynamics—e.g., the ideal gas law, Graham’s law of diffusion, and so on. Salmon appears to regard putative explanations based on at least the first of these generalizations as not explanatory because they do not trace continuous causal processes—he thinks of the individual molecules as causal processes but not the gas as a whole.[^note-7] However, it is plainly impossible to trace the causal processes and interactions represented by each of the $6 \times 10^{23}$ molecules making up the gas and the successive interactions (collisions) it undergoes with every other molecule. Even the usual statistical mechanical treatment, which Salmon presumably would regard as explanatory, does not attempt to do this. Instead, it makes certain general assumptions about the distribution of molecular velocities and the forces involved in molecular collisions and then uses these, in conjunction with the laws of mechanics, to derive and solve a differential equation (the Boltzmann transport equation) describing the overall behavior of the gas. This treatment abstracts radically from the details of the causal processes involving particular individual molecules and instead focuses on identifying higher level variables that aggregate over many individual causal processes and that figure in general patterns that govern the behavior of the gas.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      举例来说，设一摩尔气体封闭于容积为 $V_1,$ 压强为 $P_1,$ 温度为 $T_1$ 的容器中，然后使其等温膨胀入容积为 $V_2$ 的更大容器。解释该气体行为——其扩散速率及其后的平衡压强 $P_2$——的一种标准方式，诉诸现象学热力学的诸概括，如理想气体定律、格雷姆扩散定律等。萨蒙似乎认为：基于至少其中第一种概括的所谓解释不具解释力，因为它们没有追溯连续的因果过程——他把个别分子视为因果过程，而不把气体整体视为因果过程。[^note-7] 然而，要逐一追溯组成气体的 $6 \times 10^{23}$ 个分子各自所代表的因果过程与相互作用（碰撞），显然不可能。即便是通常的统计力学处理——萨蒙大概会视之为有解释力——也不试图这样做。相反，它对分子速度的分布与分子碰撞所涉及的力作出某些一般假定，然后结合力学诸律，导出并求解一个微分方程（玻尔兹曼输运方程），以描述气体的总体行为。这一处理极大程度地抽象掉涉及特定个别分子的因果过程的细节，转而聚焦于识别那些对众多个别因果过程进行聚合、并出现在支配气体行为的一般模式中的较高层级变量。
+    step2: |-
+      举例言之：设一摩尔气体封于容积 $V_1,$ 压强 $P_1,$ 温度 $T_1$ 的容器，后使之等温膨胀入容积 $V_2$ 的更大容器。解释气体行为——其扩散速率与随后的平衡压强 $P_2$——的一种标准方式，诉诸现象学热力学诸概括，如理想气体定律、格雷姆扩散定律等。萨蒙似认为：至少基于第一种概括的所谓解释不具解释力，因其不追溯连续因果过程——他视个别分子为因果过程，而不视气体整体为因果过程。[^note-7] 然而，逐一追溯 $6 \times 10^{23}$ 个分子各自的因果过程、以及它与其余每个分子的相继相互作用（碰撞），显然不可能。连通常的统计力学处理——萨蒙大概会认其有解释力——也不如此尝试。它毋宁对分子速度分布与分子碰撞所涉之力作某些一般假定，再结合力学诸律导出并求解微分方程（玻尔兹曼输运方程），以描述气体总体行为。此处理极大抽象掉特定个别分子的因果过程细节，转而识别聚合众多个别因果过程、且现身于支配气体行为之一般模式的高层级变量。
   - id: 101
     kind: body
     source: |-
       This example raises a number of questions. Just what does the *CM* model require in the case of complex systems in which we cannot trace individual causal processes, at least at a fine-grained level? How exactly does the causal mechanical model avoid the (disastrous) conclusion that any successful explanation of the behavior of the gas must trace the trajectories of individual molecules? Does the statistical mechanical explanation described above successfully trace causal processes and interactions or specify a causal mechanism in the sense demanded by the *CM* model, and if so, what exactly does tracing causal processes and interactions involve or amount to in connection with such a system? A fully adequate development of the CM model needs to address such questions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一例子提出若干问题。对于我们无法（至少在精细层面上）追溯个别因果过程的复杂系统，*CM* 模型究竟要求什么？因果机制模型究竟如何避免这一（灾难性的）结论：对气体行为的任何成功解释都必须追溯个别分子的轨迹？上文所述的统计力学解释是否成功地追溯了因果过程与相互作用，或按 *CM* 模型所要求的意义指定了一个因果机制？若是，就这样的系统而言，“追溯因果过程与相互作用”究竟涉及什么、又意指什么？一个充分成熟的 *CM* 模型发展需要回答这类问题。
+    step2: |-
+      此例提出若干问题。对无法（至少在精细层面）追溯个别因果过程的复杂系统，*CM* 模型究竟要求什么？因果机制模型究竟如何避免这一灾难性结论——对气体行为的任何成功解释都必须追溯个别分子的轨迹？上述统计力学解释是否成功追溯了因果过程与相互作用，或按 *CM* 模型所求之意指定了因果机制？若是，就此类系统而言，追溯因果过程与相互作用究竟涉及什么、意指什么？要充分发展 *CM* 模型，须答此类问题。
   - id: 102
     kind: body
     source: |-
       There is another aspect of this example that is worthy of comment. Suppose that a particular sample of gas expands in a way that meets the conditions described above and that it is somehow possible to provide an account that traces each of the individual molecular trajectories of its component molecules. Such an account would nonetheless leave out information that seems explanatorily relevant. This information has to do with the fact that there are a large number of alternative trajectories besides the actual trajectories followed by the component molecules on this particular occasion that would lead to the same final pressure $P_2$ which is what we want to explain. Modal information of this sort—both about what would happen if the molecules followed different trajectories consistent with the initial conditions $P_1$, $V_1$ and $T_1$ and what would happen if they instead followed initial conditions consistent trajectories consistent with different macroscopic initial conditions is better captured by a treatment in terms of upper level thermodynamic variables.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一例子还有一面值得评论。设某份特定气体样本按上文所述条件膨胀，且假定设法可以给出一个追溯其组分分子每一条个别轨迹的说明。即便如此，这样的说明仍会遗漏看似具有解释相关性的信息。这一信息关涉如下事实：除组分分子在这一特定场合实际遵循的轨迹之外，还存在大量可导致同一最终压强 $P_2$（即我们所要解释者）的其他可能轨迹。这类模态信息——既关于若分子遵循与初始条件 $P_1$、$V_1$、$T_1$ 相容的不同轨迹将会发生什么，也关于若它们遵循与不同宏观初始条件相容的轨迹将会发生什么——用较高层级的热力学变量来处理，反而把握得更好。
+    step2: |-
+      此例另有一面值得评论。设某份气体样本按上述条件膨胀，且假定设法能给出追溯其组分分子每一条个别轨迹的说明。即便如此，这样的说明仍会遗漏看似解释相关的信息。此信息关涉：除组分分子在该特定场合实际遵循的轨迹之外，尚有大量替代轨迹可导出同一最终压强 $P_2$——即我们所要解释者。这类模态信息——既关乎若分子循与初始条件 $P_1$、$V_1$、$T_1$ 相容的不同轨迹将如何，也关乎若其循与不同宏观初始条件相容的轨迹将如何——以高层级热力学变量处理，反而把握更佳。
   - id: 103
     kind: body
     source: |-
       ### 4.4 More Recent Developments
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4 较晚近的发展
+    step2: |-
+      ### 4.4 较晚近的发展
   - id: 104
     kind: body
     source: |-
       In more recent work (e.g., Salmon 1994)[^salmon-1994], prompted in part by a desire to avoid certain counterexamples advanced by Philip Kitcher (1989) to his characterization of mark transmission, Salmon attempted to fashion a theory of causal explanation that completely avoids any appeal to counterfactuals. In this new theory which is influenced by the conserved process theory of causation of Dowe (2000), Salmon defined a causal process as a process that transmits a non-zero amount of a *conserved quantity* at each moment in its history. Conserved quantities are quantities so characterized in physics—linear momentum, angular momentum, charge, and so on. A causal interaction is an intersection of world lines associated with causal processes involving exchange of a conserved quantity. Finally, a process transmits a conserved quantity from *A* to *B* if it possesses that quantity at every stage without any interactions that involve an exchange of that quantity in the half-open interval $(A,B]$.[^note-8]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在更晚近的工作中（如 Salmon 1994）[^salmon-1994]，部分出于避免菲利普·基切尔（1989）针对其标记传递刻画所提某些反例的愿望，萨蒙试图打造一种完全避免诉诸反事实的因果解释理论。在这一受 Dowe（2000）守恒过程因果理论影响的新理论中，萨蒙把因果过程定义为在其历史的每一时刻都传递非零量的*守恒量*的过程。守恒量是物理学中如此刻画的各种量：线动量、角动量、电荷等等。因果相互作用是与因果过程相联系的世界线的交叉，涉及守恒量的交换。最后，一个过程若在半开区间 $(A,B]$ 内的每一阶段都拥有某守恒量、且无任何涉及该量交换的相互作用，则它从 *A* 到 *B* 传递该守恒量。[^note-8]
+    step2: |-
+      在更晚近的工作中（如 Salmon 1994）[^salmon-1994]，部分出于避免菲利普·基切尔（1989）对其标记传递刻画的若干反例，萨蒙试图打造完全不用反事实的因果解释理论。此新理论受 Dowe（2000）守恒过程因果理论影响：萨蒙把因果过程定义为在其历史每一时刻都传递非零*守恒量*的过程。守恒量即物理学中如此刻画之量：线动量、角动量、电荷等。因果相互作用是与因果过程相联系的世界线之交，涉及守恒量的交换。最后，过程若在半开区间 $(A,B]$ 内每一阶段都拥有某守恒量、且无涉及该量交换的相互作用，则它自 *A* 至 *B* 传递该守恒量。[^note-8]
   - id: 105
     kind: body
     source: |-
       One may doubt that this new theory really avoids reliance on counterfactuals, but an even more fundamental difficulty is that it still does not adequately deal with the problem of causal or explanatory relevance described above. That is, we still face the problem that the feature that makes a process causal (transmission of some conserved quantity or other) may tell us little about which features of the process are causally or explanatorily relevant to the outcome we want to explain. For example, a moving billiard ball will transmit many conserved quantities (linear momentum, angular momentum, charge etc.) and many of these may be exchanged during a collision with another ball. What is it that entitles us to single out the linear momentum of the balls, rather than these other conserved quantities as the property that is causally relevant to their subsequent motion? In cases in which there appear to be no conservation laws governing the explanatorily relevant property (i.e., cases in which the explanatorily relevant variables are not conserved quantities) this difficulty seems even more acute. Properties like “having ingested birth control pills,” “being pregnant”, or “being a sample of hexed salt” do not themselves figure in conservation laws. While one may say that both birth control pills and hexed salt are causal processes because both consist, at some underlying level, of processes that unambiguously involve the transmission of conserved quantities like mass and charge, this observation does not by itself tell us what, if anything, about these underlying processes is relevant to pregnancy or dissolution in water.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们可以怀疑这一新理论是否真的避免了对反事实的依赖，但一个更根本的困难是：它仍不足以处理上文所述的因果或解释相关问题。也就是说，我们仍然面对这一问题：使一个过程成为因果过程的特征（传递某种或另一守恒量）对我们想解释的结果中该过程的哪些特征因果或解释相关，可能所告甚少。例如，运动中的台球会传递多种守恒量（线动量、角动量、电荷等），其中许多可能在与其他球碰撞时被交换。是什么使我们有资格挑出两球的线动量、而非这些其他守恒量，作为对其随后运动因果相关的属性？在看似没有守恒律支配解释相关属性的情形中（即解释相关变量不是守恒量的情形），这一困难显得更尖锐。“已吞服避孕药”“正在怀孕”“是一份被施法的盐”这类属性本身并不出现在守恒律中。人们固然可以说，避孕药与被施法的盐都是因果过程，因为二者在某个底层层面上都由明确涉及质量、电荷这类守恒量传递的过程组成；但这一观察本身并未告诉我们：这些底层过程中的什么（若有的话）与怀孕或在水中的溶解相关。
+    step2: |-
+      人们可以怀疑新理论是否真的摆脱了反事实，但更根本的困难在于：它仍不足以处理上述因果或解释相关问题。即我们仍面对：使过程成为因果过程的特征（传递某个守恒量），对该过程哪些特征因果或解释相关于我们所要解释的结果，所告甚少。例如运动中的台球传递多种守恒量（线动量、角动量、电荷等），碰撞时许多都可被交换。凭什么使我们能挑出线动量、而非其他守恒量，作为对其后运动因果相关的属性？在看似无守恒律支配解释相关属性之处（即解释相关变量非守恒量），此难尤甚。“已吞服避孕药”“怀孕中”“是被施法之盐”这类属性本身并不见于守恒律。固然可说避孕药与被施法之盐皆为因果过程——二者在底层都由明确涉及质量、电荷这类守恒量传递的过程组成——但这一观察本身并未告诉我们：底层过程中何者（若有）与怀孕或水中的溶解相关。
   - id: 106
     kind: body
     source: |-
       In a more recent paper (Salmon 1997)[^salmon-1997], Salmon conceded this point. He agreed that the notion of a causal process cannot by itself capture the notion of causal and explanatory relevance. He suggested, however, that this notion can be adequately captured by appealing to the notion of a causal process *and* information about statistical relevance relationships (that is, information about conditional and unconditional (in)dependence relationships), with the latter capturing the element of causal or explanatory dependence that was missing from his previous account:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在一篇更晚近的论文中（Salmon 1997）[^salmon-1997]，萨蒙承认了这一点。他同意：因果过程概念本身无法把握因果与解释相关性的概念。但他提出：若诉诸因果过程概念*以及*关于统计相关性关系的信息（即关于条件与非条件（非）依赖关系的信息），这一概念便可得到充分把握——后者捕捉了他此前说明中所缺失的因果或解释依赖的成分：
+    step2: |-
+      在更晚近的论文（Salmon 1997）[^salmon-1997] 中，萨蒙承认此点：因果过程概念本身把握不了因果与解释相关性。但他提出：诉诸因果过程概念*加*统计相关性关系的信息（即条件与非条件（非）依赖关系的信息），便足以把握——后者正捕捉其旧说所缺的因果或解释依赖成分：
   - id: 107
     kind: body
     source: |-
