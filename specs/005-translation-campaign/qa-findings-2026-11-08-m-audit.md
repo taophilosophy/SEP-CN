@@ -107,3 +107,12 @@
 * 术语登记再补 34 行（范例、替代模型、替身模型、替代性、内表型、Krogh 生物、调整型发育、细胞谱系、细胞凋亡、电压钳、活体测定、视角建模、生物人工物、认知物/技术物、实验系统、种质资源中心、生态型、饲养管理、共同构成的）。
 * 已填 70 段全部残余 0（`lq.py check` 仅报未填段缺失）；表格段按 rules/02 居中形态（`:---:`）落盘。
 * **下一断点**：段 71 起（§4.2 扩展理由范围 → §5 大数据 → 参考文献/学术工具/其他网络资源）。
+
+### 7.6 model-organisms 初译收口与一校（2026-11-09 06:2x–11:2x UTC+8，goal round 2–3）
+
+* **账本 104/104 段双版落盘完毕**：批次 6（段 71–84：NIH 经费与共同体资源、选材二十条标准表 2、Krogh 之外、AI 发现工具；`da054c14`）、批次 7（段 85–98：AI 缩减假设空间、嵌合体、人工模型生物、研究生物多样性、《遗传学》文献计量、3R；`585a68be`）、批次 8（段 99–104：人化小鼠与神经嵌合体伦理、替代悖论、引用资源/其他资源 OIR；`4c973dae` 内）。
+* **compose 成稿**：`lq.py compose --write` → `m/model-organisms.md`（48438 字符），`italic_to_bold_cjk` 转 2 行，表格 CJK 斜体 11 处改粗（`script/mo_table_bold.py`）。
+* **四检**：check_style 0 issue、check_math 0 公式无缺失/失衡、check_summary H1 0 偏差、check_academic --strict 无硬错误。
+* **s1 已通过（任务 state=s1_checked，commit `e22bfed1`）**：结构全等（marker 266 / unique 108 / defs 107 / 标题 25 与 yuanwen 逐项一致）；相关词条 7/7 对 SUMMARY（compose NOTE 未匹配项 `genetics: genotype/phenotype distinction` 手工改为「基因型/表现型的区别」，即 §6.5 陷阱 2 规程）；数字核销（`script/mo_s1_numbers.py`）唯一差异为源文自身笔误 `In a 2106 news post`（引注 Lauer 2016），已加译注留痕；拉丁词元全部可回溯源文；笔误 2 处修正（至起码→起码）。
+* **s2 进行中**：check_prose 起始 47 条（de-chain 20 / long-sentence 15 / weak-verb 7 / passive-bei 3 / plural-men 1），已清零 weak-verb、passive-bei、plural-men 共 11 条（`script/mo_s2_fix1.py` + 1 处手改）；余 36 条（de-chain 21 / long-sentence 15）待下一轮逐条改写或按 ADR-0020 豁免（引文内部照录者豁免）。
+* **待办**：s2 收尾 → s3（体例四检 + markdownlint）→ 交评审线。
