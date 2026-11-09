@@ -347,26 +347,34 @@ segments:
     kind: body
     source: |-
       Clearly, Locke seeks in this passage, among other things, to align his work in the *Essay* with the work of figures such as Newton. Here we find, at the opening of Locke’s magnum opus, the suggestion that he is content to be an “under-labourer”, a thinker who helps to clear the way for the advance of knowledge. But his list of four “master builders”—Boyle, Sydenham, Huygens, and Newton—might strike us as an odd pairing: what do these four have in common exactly? It has recently been argued that Locke regarded the four as representing the new “experimental philosophy”, and that Locke himself should be interpreted as strongly supporting that orientation within natural philosophy more generally (Anstey 2011: 220)[^anstey-2011]. This would become a popular conception of Newton’s philosophical approach, one that played a substantial role in the Enlightenment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显然，洛克在这段文字中除其他事项外，还力图使他在《人类理解论》中的工作与牛顿等人的工作相衔接。在洛克巨著的开篇，我们便看到这样的表示：他甘当一名“下手劳工”，即那种为知识的推进开路的思想者。但他列出的四位“营造大师”——波义耳、西德纳姆、惠更斯与牛顿——在我们看来或许是古怪的组合：这四人究竟有什么共同之处？近来有论证说，洛克把四人看作新的“实验哲学”的代表，而洛克本人也应被解读为在更普遍的意义上强烈支持自然哲学中的这一取向（Anstey 2011: 220）[^anstey-2011]。这将成为关于牛顿哲学进路的一种流行观念，它在启蒙运动中扮演了重要角色。
+    step2: |-
+      明眼可见，洛克在这段话里除别的用意之外，还想把他在《人类理解论》中的工作与牛顿等人的事业接上榫。洛克巨著开篇便亮明：他甘当“下手劳工”——那种为知识的前进开路清障的思想者。可他开列的四位“营造大师”——波义耳、西德纳姆、惠更斯、牛顿——在我们看来恐怕是个古怪的组合：这四人究竟同在何处？近来有人论证：洛克视四人为新“实验哲学”的代表，而洛克自己也应在更普遍的意义上被解读为自然哲学中这一取向的坚定支持者（Anstey 2011: 220）[^anstey-2011]。这后来成了牛顿哲学进路的一种流行形象，在启蒙运动中举足轻重。
   - id: 44
     kind: body
     source: |-
       Locke may have regarded Newton as a fellow enthusiast for the experimental philosophy, but there are reasons to think that his embrace of the mechanical philosophy presented him with a difficulty in interpreting the consequences of Newton’s theory of universal gravity in the *Principia*. For Newton’s theory seemed to be in tension with a mechanist constraint on views of causation, at least from Locke’s own point of view. In the first edition of the *Essay*, Locke articulated a central tenet of mechanist thinking about causation when he wrote: “bodies operate by impulse and nothing else” (*Essay*, II.viii.11). Impulse refers here to contact action. In correspondence with Locke that would prove to be influential, Bishop Edward Stillingfleet questioned this view from the *Essay*, contending that Locke must jettison the idea of human liberty if he insists that bodies can operate solely by impulse, presumably on the grounds that the human will cannot be understood to cause bodily action in that manner. In a famous exchange, Locke responded in part by reformulating his commitment to the mechanist view that all causation involving material bodies must be by contact (impulse) alone:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      洛克或许把牛顿看作实验哲学的同道，但有理由认为，他对机械论哲学的拥抱使他在解释《原理》中万有引力理论的后果时遇到困难。因为至少从洛克自己的观点看，牛顿的理论似乎与机械论关于因果性的一个约束相抵触。在《人类理解论》初版中，洛克阐明了机械论因果观的一条核心信条：“物体只靠冲击而起作用，别无他途”（《人类理解论》，II.viii.11）。这里的冲击指接触作用。在与洛克的一场日后证明很有影响的通信中，爱德华·斯蒂林弗利特主教质疑了《人类理解论》中的这一观点，主张如果洛克坚持物体只能靠冲击起作用，他就必须抛弃人类自由的观念——想必是因为人的意志不能以那种方式引起身体行动。在一场著名的通信交锋中，洛克的回应之一是重新表述他对如下机械论观点的承诺：一切涉及物质物体的因果作用都必须仅凭接触（冲击）：
+    step2: |-
+      洛克或许把牛顿引为实验哲学的同道；可有理由认为，他对机械论哲学的信奉，让他在解读《原理》中万有引力理论之后果时遇到了难题。因为至少在洛克自己看来，牛顿的理论似乎顶撞了机械论关于因果的一条约束。《人类理解论》初版里，洛克申明过机械论因果观的一条核心信条：“物体只靠冲击起作用，别无他途”（《人类理解论》II.viii.11）——此处冲击即接触作用。在与洛克一场日后影响深远的通信里，斯蒂林弗利特主教质疑《人类理解论》此说：洛克若坚持物体只能凭冲击起作用，便必须抛弃人类自由的观念——想必是认为，人的意志没法那样引起身体行动。洛克在一场著名的通信交锋里回应道，部分地是把他“一切涉及物质物体的因果作用都只能凭接触（冲击）”这一机械论承诺重新表述如下：
   - id: 45
     kind: body
     source: |-
       > It is true, I say, that ‘bodies operate by impulse and nothing else’. And so I thought when I writ it, and can yet conceive no other way of their operation. But I am since convinced by the judicious Mr. Newton’s incomparable book, that it is too bold a presumption to limit God’s power, in this point, by my narrow conceptions. The gravitation of matter toward matter by ways inconceivable to me, is not only a demonstration that God can, if he pleases, put into bodies, powers and ways of operations, above what can be derived from our idea of body, or can be explained by what we know of matter, but also an unquestionable and every where visible instance, that he has done so. And therefore in the next edition of my book, I shall take care to have that passage rectified. (Locke 1823: vol. 4: 467–8)[^locke-1823].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我确实说过“物体只靠冲击而起作用，别无他途”。我写下这话时是这样想的，如今也想不出它们运作的其他方式。但从那以后，精明的牛顿先生那部无可比拟的著作使我确信：在这件事上以我狭窄的概念去限制上帝的能力，实在是过于大胆的僭妄。物质以我无法设想的方式相互吸引，这不仅证明上帝若愿意便能把超出我们物体观念所导出、或超出我们对物质之所知的各种能力与运作方式放进物体之中，而且处处可见地、无可置疑地表明他已经这样做了。因此在我这本书的下一版里，我将设法改正那段话。（Locke 1823: 第 4 卷：467–8）[^locke-1823]
+    step2: |-
+      > 我确实说过，“物体只靠冲击起作用，别无他途”；下笔时如此想，至今也想不出它们还有什么运作之道。但自那以后，精明的牛顿先生那部无可比拟的著作让我信服：在这件事上，拿我这点狭隘概念去限上帝的能力，实在是太大胆的僭妄了。物质以我无法设想的方式吸引物质，这非但证明上帝若愿意，就能把超出我们物体观念所能推出、超出我们对物质所知的种种能力与运作之道放进物体；而且处处可见、无可置疑地表明他已经这样做了。故而在这本书的下一版里，我当设法把那段话改正过来。（Locke 1823: 第 4 卷：467–8）[^locke-1823]
   - id: 46
     kind: body
     source: |-
       This was not merely his privately held view. For instance, near the beginning of his *Elements of Natural Philosophy*, Locke writes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这不仅仅是他的私下看法。例如，在其《自然哲学要义》开篇附近，洛克写道：
+    step2: |-
+      这并不只是他的私下看法。例如在《自然哲学要义》开篇不远处，洛克写道：
   - id: 47
     kind: body
     source: |-
