@@ -606,6 +606,7 @@
 | Curti, (Cardinal) | — | 库尔蒂枢机 | — | — | autrecourt | 音译（审判法官，埃利亚的彼得·库尔蒂枢机） | 2026-11-06 |
 | Cuvier, Georges | — | 居维叶 | — | — | origin-descent | 学界通行汉译（《化石骨骼研究》作者）；凭证 2026-11-07 | 2026-11-07 |
 
+| Donatus | — | 多纳图斯 | 罗马 | 4 世纪 | peter-spain | 古典语法学界通行汉译；凭证 2026-11-09 | 2026-11-09 |
 ## D
 
 | D'Alembert, Jean le Rond | — | 让·勒朗·达朗贝尔 | — | — | montesquieu；newton | 学界通行汉译（《百科全书》主编；数学史通行；与 newton 会话 d'Alembert 行合并，日期保留先者）；凭证 2026-11-07 | 2026-11-07 |
@@ -1175,7 +1176,7 @@
 | Henriette Herz | Henriette Herz | 亨丽埃特·赫茨 | — | — | schlegel | 学界惯例（柏林沙龙主人）；凭证 2026-11-07 | 2026-11-07 |
 | Henry David Thoreau | — | 亨利·大卫·梭罗 | — | — | japanese-aesthetics | 学界通行汉译（美国超验主义）；凭证 2026-11-08 | 2026-11-08 |
 | Henry More | — | 亨利·莫尔 | — | — | lady-masham | 学界通行汉译（剑桥柏拉图主义者）；待 specs/008 审定库复核 | 2026-11-03 |
-| Henry of Ghent | — | 根特的亨利 | — | — | alyngton | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
+| Henry of Ghent | — | 根特的亨利 | — | —；peter-spain | alyngton | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Henry of Langenstein | — | 朗根施泰因的亨利 | — | — | nicole-oresme | 学界通行汉译（14 世纪维也纳大学神学家）；凭证 2026-11-08 | 2026-11-08 |
 | Henson, C. W. | — | Henson | — | 无通行汉名，保留英文原名；凭证 2026-11-09 | quine-nf | — | 2026-11-09 |
 | Hepburn, Ronald | — | 罗纳德·赫伯恩 | — | — | environmental-aesthetics | 学界通行（自然美学奠基论文作者） | 2026-11-08 |
@@ -1402,6 +1403,7 @@
 | Johann Gottfried Herder | — | 约翰·戈特弗里德·赫尔德 | — | — | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Johann Gottlob Krüger | Johann Gottlob Krüger | 约翰·戈特洛布·克吕格 | — | — | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Johann Heinrich Lambert | — | 约翰·海因里希·兰伯特 | — | — | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Johannes Pagus | — | 约翰内斯·帕古斯 | 法国 | 13 世纪 | peter-spain | 本词条首译（中世纪逻辑家，无通行汉名）；凭证 2026-11-09 | 2026-11-09 |
 | Johann Wolfgang von Goethe | — | 歌德 | — | — | landmann-kalischer | 千年通行译名（德国古典时代文学宗师；本表从简式通称） | 2026-11-04 |
 | Johanna Charlotte Unzer (née Ziegler) | Johanna Charlotte Unzer (née Ziegler) | 约翰娜·夏洛特·翁策尔（娘家姓齐格勒） | — | — | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Johannes Kepler | — | 约翰内斯·开普勒 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -1444,7 +1446,7 @@
 | John von Neumann | — | 冯·诺伊曼（John von Neumann） | — | — | schema | 学界惯例（数学与计算机通行汉译） | 2026-11-06 |
 | John Winnie | — | 保留英文（无通行汉名） | — | — | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | John Wyclif | — | 约翰·威克里夫 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| John XXI | — | 教皇约翰二十一世 | — | — | condemnation | 中世纪教皇通行汉译（彼得·西班牙人）；凭证 2026-11-08 | 2026-11-08 |
+| John XXI | — | 教皇约翰二十一世 | — | —；peter-spain | condemnation | 中世纪教皇通行汉译（彼得·西班牙人）；凭证 2026-11-08 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | John XXII | — | 约翰二十二世 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Johnston, Charlotte | — | 夏洛特·约翰斯顿 | — | — | john-norris | 洛克研究者；音译 | 2026-11-07 |
 | Jonah | — | 约拿 | — | — | necessary-sufficient | 圣经典故人名通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -1977,7 +1979,7 @@
 | Nicholas III | — | 尼古拉三世 | — | — | ockham | 教皇名通译（约翰二十二世同系）；凭证 2026-11-07 | 2026-11-07 |
 | Nicholas of Autrecourt | — | 奥特勒库尔的尼古拉 | — | — | occasionalism | 学界惯例（14 世纪牛津）；凭证 2026-11-07 | 2026-11-07 |
 | Nicholas of Otranto | — | 奥特朗托的尼古拉 | — | — | john-italos | 学界通行汉译（13 世纪抄手）；凭证 2026-11-06 | 2026-11-06 |
-| Nicholas of Paris | — | 巴黎的尼古拉 | 法国／经院逻辑 | 13 世纪 | analogy-medieval | 中世纪逻辑研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Nicholas of Paris | — | 巴黎的尼古拉 | 法国／经院逻辑 | 13 世纪；peter-spain | analogy-medieval | 中世纪逻辑研究通行汉译；凭证 2026-11-08 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Nicholas V (antipope) | — | 尼古拉五世（对立教皇） | — | — | marsilius-padua | 教皇名通译惯例（1328 年为路德维希加冕的对立教皇；与 15 世纪教皇尼古拉五世别为一人）；凭证 2026-11-08 | 2026-11-08 |
 | Nicholas Wolterstorff | — | 尼古拉斯·沃尔特斯托夫 | — | — | justice-virtue | 学界通行汉译（宗教/政治哲学）；凭证 2026-11-02 | 2026-11-02 |
 | Nicolas Bonet | — | 尼古拉·博内 | — | — | 首现（crathorn） | 学界惯例（巴黎方济各会士，音译）；凭证 2026-11-07 | 2026-11-07 |
@@ -2118,10 +2120,11 @@
 | Peter Lombard | — | 彼得·伦巴德 | — | — | 首现（william-sherwood） | 学界通行汉译（《箴言四书》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Peter of Abano | — | 阿巴诺的彼得 | 意大利 | 约 1257–1316 | marsilius-padua | 学界通行（中世纪哲人以出生地+教名通称；医学家、自然哲学家）；凭证 2026-11-08 | 2026-11-08 |
 | Peter of Auvergne | — | 奥弗涅的彼得 | — | — | condemnation | 依地名冠称（13 世纪艺学硕士，后继奥弗涅的威廉为巴黎主教）；凭证 2026-11-08 | 2026-11-08 |
-| Peter of Spain | — | 西班牙的彼得 | — | — | lambert-auxerre | 学界通行汉译（《逻辑总论》作者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Peter of Spain | — | 西班牙的彼得 | — | —；peter-spain | lambert-auxerre | 学界通行汉译（《逻辑总论》作者）；待 specs/008 审定库复核 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Peter Stahl | — | 彼得·施塔尔 | — | — | locke-on-medicine | 通行音译（波义耳延请的牛津化学讲席教师） | 2026-11-05 |
 | Peter Szondi | Peter Szondi | 彼得·松迪 | — | — | schlegel | 学界惯例（文学理论家，音译）；凭证 2026-11-07 | 2026-11-07 |
 | Peter Thomae | — | 彼得·托马 | 西班牙／早期司各脱主义 | c. 1280–1330 | analogy-medieval | 司各脱主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
+| Petrus Ferrandi Hispanus | — | 佩德鲁斯·费兰迪·希斯帕努斯 | 伊比利亚 | 卒于 1254–1259 间 | peter-spain | 本词条首译（西班牙的彼得候选作者之一；无通行汉名）；凭证 2026-11-09 | 2026-11-09 |
 | Peterborough, Lord | — | 彼得伯勒勋爵 | — | — | lady-masham | 学界通行汉译（以爵号行文） | 2026-11-07 |
 | Petrizi, Joane | — | 乔安·佩特里齐 | — | — | joane-petrizi；SUMMARY | SUMMARY 定名沿用；补登：joane-petrizi 定稿时漏登；凭证 2026-11-06 | 2026-11-06 |
 | Petrus Aureoli | — | 彼得鲁斯·奥雷奥利 | — | — | nicole-oresme | 中世纪哲学通行汉译（方济各会士）；凭证 2026-11-08 | 2026-11-08 |
@@ -2190,7 +2193,7 @@
 | Prierias, Sylvester Mazzolini | — | 西尔维斯特·马佐里尼·普里埃里亚斯 | 意大利／多明我会 | 1456–1523 | analogy-medieval | 宗教改革史通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Priest, Graham | — | Graham Priest | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Prior, Arthur | — | 阿瑟·普赖尔 | — | — | dialectical-school | SUMMARY 定名沿用（逻辑学家，主论证重构者）；凭证 2026-11-07 | 2026-11-07 |
-| Priscian | — | 普里西安 | — | — | lorenzo-valla | 语法学界通行汉译（晚期罗马语法学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Priscian | — | 普里西安 | — | —；peter-spain | lorenzo-valla | 语法学界通行汉译（晚期罗马语法学家）；待 specs/008 审定库复核 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Pritchard, Duncan | — | 邓肯·普里查德 | — | — | closure-epistemic | 学界通行音译（安全条件、知识论）；凭证 2026-11-08 | 2026-11-08 |
 | Proast, Jonas | — | 乔纳斯·普罗阿斯特 | — | — | conscience | 学界通行音译（17 世纪圣公会牧师，洛克论宽容的论辩对手）；凭证 2026-11-08 | 2026-11-08 |
 | Proclus | — | 普罗克洛斯 | — | — | john-italos；joane-petrizi | 学界通行汉译（新柏拉图主义哲学家）；补登：joane-petrizi 已定稿而本表无行；凭证 2026-11-06 | 2026-11-06 |
@@ -2818,6 +2821,7 @@
 | Wegener, Gerda | — | 格尔达·韦格纳 | — | — | erotic-art | 学界惯例音译（丹麦插画家） | 2026-11-08 |
 | Weidmann, Bernd | — | Bernd Weidmann（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（KJG 卷次编者）；凭证 2026-11-09 | 2026-11-09 |
 | Weidner, Daniel | — | 丹尼尔·魏德纳 | 德国 | — | scholem | 构词直译（本词条作者）；凭证 2026-11-08 | 2026-11-08 |
+| Weismann, August | — | 奥古斯特·魏斯曼 | 德国 | 1834–1914；cancer | cancer | 学界通行汉译（德国演化生物学家，种质说）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Weigel, Erhard | — | 埃哈德·魏格尔 | — | — | johann-sturm | 学界通行汉译（17 世纪耶拿数学家、哲学家）；凭证 2026-11-06 | 2026-11-06 |
 | Weinrich, Martin | — | 马丁·魏因里希 | — | — | gianfrancesco-pico | 音译（16–17 世纪恶魔学家，1612 年斯特拉斯堡版序作者） | 2026-11-09 |
 | Weishan Lingyou | — | 沩山灵祐 | — | — | buddhism-chan | 佛学界通行汉译（沩仰宗开祖） | 2026-11-05 |
