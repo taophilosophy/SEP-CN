@@ -2,7 +2,7 @@
   "slug": "african-ethics",
   "kind": "retranslate",
   "zh_doc": "a/african-ethics.md",
-  "state": "s1_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,27 @@
       "actor": "A3-main-20261109",
       "at": "2026-11-09T07:57:12Z",
       "evidence": "一校（准确性）：逐段对照 yuanwen/a/african-ethics.md——段落 117:117（含 10 节标题）、脚注 0:0（源无 notes.html）、章节 10 节全等、引用组（Opoku 1978: 152／Wiredu 1983: 13／Busia 1954: 205／Maquet 1954: 184／Molema 1920: 116／Kaunda 1966: 32／Campbell 1922: 45／McVeigh 1974: 84／Krige 1954: 78／Gbadegesin 1991: 27,79）全部原样照录；谚语与阿肯语/约鲁巴语/伊博语/绍纳语/南索托语原文 9 组逐条核对（Onni suban／nonomo mele si o／iwa／agwa／tsika／hunhu／maemo／Honam mu nni nhanoa／Onipa nua ne onipa 等）；零信任回核：英文本无公式、无图表；文献 34 块逐字符取自镜像；术语 10 条先登记后使用（道德人格/共同体主义/超义务/人本主义/道德中性/公共善/品性…），人名 13 条登记"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T08:36:51Z",
+      "evidence": "二校（语言）：check_prose 3→1——实修 2 处（段9「非洲社会的道德具有社会性（非个人主义）」一说，去「的」三连并把「这一主张，同…共享生活」改为「与…共享生活的方式」；段57 格言提示语改「照字面直译是」）；豁免 1 处（段43 Maquet 直接引语「传统定为好的（或恶的），便是好的（或恶的）」内部「的」链，引文照录，ADR-0020）；实修重复增译 1 处（段113 删去源文所无的「——所谓超义务义务，其根据正在道德理想」，对照 yuanwen 第235段核销）；体例转换 italic-cjk 40 处/28 段（中文强调斜体→粗体，rules/02 用户裁定 2026-10-29），账本 step2 与正文同步；lq.py check 118 段守恒通过（** 增量恰为纯中文粗体对，判据补体例转换 SOFT 留痕）；长句/被动/弱动词/们/作为一个/存在着/当…的时候 均 0；逐句回核 yuanwen 完毕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T08:37:35Z",
+      "evidence": "三校（体例）：check_style 0 issue（italic-cjk 40→0）；bunx markdownlint-cli2（项目 .markdownlint-cli2.jsonc）0 命中（MD053 脚注定义未引用属全库既有形态，albo-joseph 同形；MD013/MD036 项目配置为 false）；check_academic --strict OK；check_summary HARD 0；check_math missing/unbalanced 0；术语登记册一致性：道德人格、公共善、共同体主义、超义务、人本主义核对在册，补登 humanism(African ethics)→人本主义、humanistic ethics→人本主义伦理（通名人文主义、humanitarian 人道主义分列留痕）；人名 Menkiti/Wiredu/Gbadegesin/Maquet 等 13 条在册；源文拼写 Gbadagesin 2 处照录不改（yuanwen 同形，同文献区正拼 Gbadegesin，源文笔误，Minor 留痕）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A4-main-20261109",
+      "at": "2026-11-09T08:39:36Z",
+      "evidence": "初审（对照原文自审）：118 段逐段身份一致（lq check）；自动化对账——年份集合逐段全等（0 差异）、引文页码全等（0 差异）、脚注键守恒；斜体差异 27 段逐项核销为「源 <em> → 中文粗体（rules/02）或书名号（Nicomachean Ethics→《尼各马可伦理学》）」，无遗漏；阿肯/埃维/约鲁巴/伊博/绍纳/南索托语原文 9 组照录；引用组 Opoku 1978:152、Wiredu 1983:13、Busia 1954:205、Maquet 1954:184、Molema 1920:116、Kaunda 1966:32、Campbell 1922:45、McVeigh 1974:84、Krige 1954:78、Gbadegesin 1991:27,79 逐一在文在册；Critical 0 / Major 0"
     }
   ],
   "blockers": [],

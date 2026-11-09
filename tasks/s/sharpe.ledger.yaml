@@ -490,116 +490,160 @@ segments:
     kind: body
     source: |-
       ## 7. Psychology and Theory of Knowledge
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 心理学与知识论
+    step2: |-
+      ## 7 心理学与知识论
   - id: 54
     kind: body
     source: |-
       The sources of Sharpe’s psychological and epistemological theories are St. Thomas, Duns Scotus, and Ockham, although the latter is chiefly a polemical source, as Kennedy 1969 pointed out (pp. 253 and 270). Like Aquinas, Sharpe
-    step1: TBD
-    step2: TBD
+    step1: |-
+      夏普心理学理论与知识论的来源是圣托马斯、司各脱与奥卡姆，不过正如 Kennedy 1969 所指出的，后者主要是论战性的来源（第 253 与 270 页）。与阿奎那一样，夏普
+    step2: |-
+      夏普的心理学与知识论学说取源於圣托马斯、司各脱与奥卡姆；不过正如 Kennedy（1969）所指出的，奥卡姆主要是论战性来源（第 253、270 页）。与阿奎那一样，夏普主张：
   - id: 55
     kind: body
     source: |-
       - maintains that the intellectual soul is the immediate form of the human body, so that the whole being of the latter totally depends on the former, although souls are individuated by bodies (*In De anima*, fols. 217v-218r), and
       - claims that each man has his own intellect, arguing against Averroes’ thesis of the unicity and separate character of the passive intellect for the whole human species (*ibid*., fols. 210r-212v).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 主张理智灵魂是人身体的直接形式，因此身体的整个存在完全依赖于灵魂，尽管灵魂是由身体个体化的（《〈论灵魂〉评注》[*In De anima*]，fols. 217v-218r），并且
+      - 主张每个人都有其自己的理智，据此反驳阿威罗伊关于被动理智对整个人类物种唯一且分离的论题（*ibid*., fols. 210r-212v）。
+    step2: |-
+      - 主张理智灵魂是人身的直接形式，故身体的全部存在完全依赖灵魂——尽管灵魂由身体个体化（《〈论灵魂〉评注》[*In De anima*]，fols. 217v-218r）；
+      - 主张人各有其自己的理智，据此反驳阿威罗伊的论题：就整个人类物种而言，被动理智只有一个且与身体分离（*ibid*., fols. 210r-212v）。
   - id: 56
     kind: body
     source: |-
       Like Duns Scotus, Sharpe thinks there is not a real distinction between the soul and its intellective faculties (i.e., the active intellect, the passive intellect, and the will) or among the intellective faculties themselves, but only a formal distinction. On the other hand, the soul’s corporeal powers (*potentiae incorporatae*), which depend on bodily organs for their operations, are really distinct from the soul and from each other (*ibid*., fol. 236v).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与司各脱一样，夏普认为灵魂与其理智官能（即能动理智、被动理智与意志）之间，以及各理智官能彼此之间，都没有实在区分，只有形式区分。另一方面，灵魂的形体能力（*potentiae incorporatae*）依赖身体器官以进行其运作，它们与灵魂实在区分，彼此之间也实在区分（*ibid*., fol. 236v）。
+    step2: |-
+      与司各脱一样，夏普认为灵魂与其理智官能（能动理智、被动理智与意志）之间、各理智官能彼此之间都无实在区分，只有形式区分。但灵魂的形体能力（*potentiae incorporatae*）须依身体器官方能运作，故与灵魂实在区分，彼此也实在区分（*ibid*., fol. 236v）。
   - id: 57
     kind: body
     source: |-
       Like Aquinas and Duns Scotus, and against Ockham, Sharpe affirms that intelligible species are required for intellection (*ibid*., fol. 244r). The main arguments he uses in favor of this thesis are the following:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与阿奎那和司各脱一样，夏普反对奥卡姆，断言理智活动需要可理解种相（*ibid*., fol. 244r）。他支持这一论题的主要论证如下：
+    step2: |-
+      夏普与阿奎那、司各脱一致，反对奥卡姆，断言理智活动需要可理解种相（*ibid*., fol. 244r）。其支持论证主要有三：
   - id: 58
     kind: body
     source: |-
       1. Our mind’s objects of intellection are the universal essences or common natures. But they cannot be present themselves to the mind. Therefore, some sign of them, that is, the intelligible species, has to be directly present in the intellect.
       2. A universal principle of intellection is necessary in order to understand a universal object, like a common nature. The phantasm is particular, since it is the mental representation of a singular object. Therefore a universal species, abstracted from the phantasm, is required.
       3. If there were no species, nothing would be retained by the intellect after an act of intellection. Therefore we could not understand each other, or understand more easily the second time, since there would be no objects for our memory (*ibid*., fols. 239v-240v).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 我们心智的理智对象是普遍本质或共同本性。但它们本身不能呈现于心智之前。因此，它们的某种符号，即可理解种相，必须直接存在于理智之中。
+      2. 要理解一个普遍对象（如共同本性），需要一个普遍的理智原则。幻象是个别的，因为它是某个单一对象的心智表象。因此需要一个从幻象中抽象出来的普遍种相。
+      3. 假如没有种相，一次理智活动之后理智便不会保留任何东西。那样我们就无法彼此理解，也无法在第二次更容易地理解，因为记忆将没有对象（*ibid*., fols. 239v-240v）。
+    step2: |-
+      1. 心智的理智对象是普遍本质或共同本性，而它们无法自身呈现在心智之前；故须有它们的某种符号——可理解种相——直接存在于理智中。
+      2. 理解普遍对象（如共同本性）须有一个普遍的理智原则；幻象是个别的，因为它是个别对象的心智表象，所以须有从幻象抽象而得的普遍种相。
+      3. 若无种相，理智在一次理智活动后便无物留存；那样我们既无法彼此理解，也无法第二次理解得更容易，因为记忆将没有对象（*ibid*., fols. 239v-240v）。
   - id: 59
     kind: body
     source: |-
       Finally, like Duns Scotus and Ockham, and against St. Thomas, Sharpe states that our intellect can know perfectly even individual material things (*ibid*., fol. 253r). What is more, it can know immaterial beings as well, since the most general and proper object of our intellect is being in all its amplitude (*ibid*., fol. 253v). Sharpe here distinguishes perfect knowledge from complete knowledge. For a perfect knowledge of something it is sufficient that our intellect is able to single out the object in question against others by means of a proper concept. For a complete knowledge of something it is necessary that our intellect is able to list all the properties, both substantial and accidental, of the object at issue. It is therefore evident that we can have a perfect knowledge of something without completely knowing it, as is the case with individual material things and immaterial beings (*ibid*., fol. 254r-v).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，与司各脱和奥卡姆一样，夏普反对圣托马斯，断言我们的理智甚至能完善地认识个别的物质事物（*ibid*., fol. 253r）。不仅如此，它还能认识非物质的存有者，因为我们理智最普遍也最本己的对象是就其全部幅度而言的存在（*ibid*., fol. 253v）。夏普在此区分完善的认识与完整的认识。要完善地认识某物，只须我们的理智能凭一个本己概念把该对象同其他对象分别出来。要完整地认识某物，则须我们的理智能列出所论对象的一切属性，无论实体属性还是偶性属性。因此很明显，我们能完善地认识某物却并不完整地认识它，个别物质事物与非物质存有者即属此类（*ibid*., fol. 254r-v）。
+    step2: |-
+      最后，夏普与司各脱、奥卡姆一致，反对圣托马斯，断言我们的理智连个别物质事物也能完善地认识（*ibid*., fol. 253r）。不仅如此，它还能认识非物质存有者——因为我们理智最普遍、最本己的对象，是尽得其幅度的存在（*ibid*., fol. 253v）。这里夏普区分“完善”与“完整”两种认识。完善地认识某物，只须理智凭一个本己概念把该对象与他物分别出来；完整地认识某物，则须理智列出该对象的一切属性，实体者与偶性者皆然。可见我们完全可能完善地认识某物而未完整认识它，个别物质事物与非物质存有者即是如此（*ibid*., fol. 254r-v）。
   - id: 60
     kind: body
     source: |-
       ## 8. Natural Philosophy: the Commentary on Aristotle’s *Physics*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8 自然哲学：对亚里士多德《物理学》的评注
+    step2: |-
+      ## 8 自然哲学：对亚里士多德《物理学》的评注
   - id: 61
     kind: body
     source: |-
       Sharpe’s commentary on Aristotle’s *Physics* (ms. Oxford, New College 238, fols. 53r-208v) contains nine large questions, one for each book of Aristotle’s work, except for the fourth book to which two questions are dedicated, one concerning place and one time. Each question is divided into two main parts: in the first, Sharpe lists a series of arguments against the question itself (*contra questionem in se*), namely, in general, for supporting a negative answer to the main question. In the second part, he expounds his own opinion and refutes the arguments *quod non*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      夏普对亚里士多德《物理学》的评注（牛津新学院手稿 238，fols. 53r-208v）包含九个重大问题，亚里士多德著作每一卷对应一个，唯独第四卷有两个问题，一个论处所，一个论时间。每个问题分为两个主要部分：第一部分，夏普列出一系列反对问题本身的论证（*contra questionem in se*），也就是一般用来支持对主要问题作否定回答的论证。第二部分，他阐述自己的意见，并反驳“否定方面”（*quod non*）的论证。
+    step2: |-
+      夏普的《物理学》评注（牛津新学院手稿 238，fols. 53r-208v）含九个重大问题，亚里士多德著作每卷一个，唯第四卷分作两个：一个论处所，一个论时间。每问各为两部分。第一部分，夏普列出一系列反对问题本身的论证（*contra questionem in se*），即通常用于支持对主问题作否定回答的论证；第二部分，他陈述己见，并逐条反驳 *quod non* 的论证。
   - id: 62
     kind: body
     source: |-
       The first question (fols. 53r-88v) is whether, from the point of view of the natural philosophy, material things have three constitutive principles only, that is: matter, form, and privation, or not. Sharpe’s answer is affirmative, but he points out that the constitutive principles of material things are three by species and not in number. Indeed, material things have more than three principles in number, but each of them is reducible to matter, or form, or privation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一个问题（fols. 53r-88v）是：从自然哲学的观点看，物质事物是否只有三个构成原则，即质料、形式与缺失。夏普的回答是肯定的，但他指出，物质事物的构成原则在种上为三，在数目上则不然。诚然，物质事物的原则在数目上多于三个，但每一个都可还原为质料、形式或缺失。
+    step2: |-
+      第一问（fols. 53r-88v）：就自然哲学而言，物质事物是否只有三个构成原则，即质料、形式与缺失？夏普答以肯定，但指出这些原则“在种上”为三，而非“在数目上”为三。物质事物的原则在数目上确多于三个，只是每一个都可还原为质料、形式或缺失。
   - id: 63
     kind: body
     source: |-
       The second question (fols. 89r-128v) is whether there are four kinds of causes in the natural world or not. According to Sharpe, the efficient, formal, material, and final causes alone are properly causes, while chance and fortune are accidental, and therefore improper (*per accidens*) causes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二个问题（fols. 89r-128v）是：自然世界中是否有四种原因。按夏普之说，只有动力因、形式因、质料因与目的因才是本来意义上的原因，而偶然与机运是偶然的，因而不是本来意义上的（*per accidens*）原因。
+    step2: |-
+      第二问（fols. 89r-128v）：自然世界中是否有四类原因？夏普认为，只有动力因、形式因、质料因与目的因才是本来意义上的原因；偶然与机运只是偶性意义上的（*per accidens*）原因。
   - id: 64
     kind: body
     source: |-
       The third question (fols. 128v-143v) is whether motion (*motus*), which is an imperfect act of those beings that are *in potentia* to something, is the same item *in essentia* as action and passion. Before answering, Sharpe remarks that we can consider action and passion in two ways: either materially or formally. In the first case, the answer is affirmative, since action and passion share the physical reality of the motion itself. But formally conceived, action and passion are different from each other and from the motion, since they are distinct relational properties (*respectus*) of the motion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三个问题（fols. 128v-143v）是：运动（*motus*）——它是那些处于潜能之中而趋向某物的存有者的不完善活动——在本质上是否与行动和承受同一（*in essentia*）。作答之前，夏普指出，我们可以从两种方式考虑行动与承受：或质料地，或形式地。就前一种而言，答案是肯定的，因为行动与承受共享运动本身的物理实在。但就形式地来看，行动与承受彼此不同，也与运动不同，因为它们是运动的不同关系属性（*respectus*）。
+    step2: |-
+      第三问（fols. 128v-143v）：运动（*motus*）乃那些尚处潜能、趋向某物的存有者的不完善活动，它在本质上（*in essentia*）是否与行动和承受同一？夏普先作一区分：考量行动与承受有两种方式，或质料地，或形式地。质料地看，答案肯定——行动与承受共享运动本身的物理实在；形式地看，二者彼此不同，也与运动不同，因为它们是运动的两种不同关系属性（*respectus*）。
   - id: 65
     kind: body
     source: |-
       The fourth question (fols. 144r-160r) is whether the immobile place of a certain body is the ultimate surface of what that contains that body or not. According to Sharpe, it is false that the last surface of the containing body is absolutely immobile, as only the ninth and tenth heavens are such.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第四个问题（fols. 144r-160r）是：某物体的不动处所，是否就是包含该物体之物的最外层表面。按夏普之说，断言包含之物的最外层表面绝对不动，是假的，因为只有第九重天与第十重天才是如此。
+    step2: |-
+      第四问（fols. 144r-160r）：某物体的不动处所，是否即包含该物体者的最外层表面？夏普认为，说这最外层表面绝对不动是不真的——唯第九重天与第十重天方如此。
   - id: 66
     kind: body
     source: |-
       The fifth question (fols. 160v-175r), but second related to the fourth book of Aristotle’s *Physics*, is whether time is the measure of change in respect of the before and after. Sharpe’s answer is affirmative, as always, but he specifies that this is not properly the definition of time, but rather the description of its nature. In his view, it follows from this description that (1) time measures mutable things only, but not immutable; and (2) time is closely connected exclusively with that kind of motion which entails a before and an after.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第五个问题（fols. 160v-175r），亦即与亚里士多德《物理学》第四卷相关的第二个问题，是：时间是否是就先后而言的变化的度量。夏普的回答一如既往是肯定的，但他说明，这并非时间的本来定义，而是对其本性的描述。在他看来，由这一描述可推出：(1) 时间只度量可变事物，不度量不可变者；(2) 时间只同那类蕴含先后的运动紧密相连。
+    step2: |-
+      第五问（fols. 160v-175r）——就《物理学》第四卷而言实为第二问——是：时间是否就先后而言是变化的度量。夏普一如往常答以肯定，但补充说，这不是时间的严格定义，只是对其本性的描述。由此描述可推出两点：其一，时间只度量可变事物，不度量不变者；其二，时间只同那类蕴含先后的运动紧密相连。
   - id: 67
     kind: body
     source: |-
       The sixth question (fols. 175r-185r) is whether continuity and contrariety of motion (*continuitas et contrarietas motuum*) are present only in the categories of quantity, quality, and where. Sharpe thinks it is so, as only these three categories are properly characterized by the existence in them of distance. As a matter of fact, in these three categories are present sequences of items such that in order to move from one term to the other of the series, it is necessary to pass through intermediate terms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第六个问题（fols. 175r-185r）是：运动的连续性与相反性（*continuitas et contrarietas motuum*）是否只存在于量、质与处所三个范畴中。夏普认为是这样，因为唯有这三个范畴才以其中有距离为其本来特征。事实上，正是这三个范畴中存在着项的序列：要从序列的一项移动到另一项，必须经过中间各项。
+    step2: |-
+      第六问（fols. 175r-185r）：运动的连续性与相反性（*continuitas et contrarietas motuum*）是否只见于量、质、处所三范畴？夏普答是：只有这三范畴以“其中有距离”为其本来特征。事实上，序列只在这三范畴中出现——欲从序列一端移至另一端，必经中间各项。
   - id: 68
     kind: body
     source: |-
       The seventh question (fols. 185v-195r) is whether continuous physical magnitudes are compounded by atomic elements not further divisible. Sharpe’s answer is negative, for continuous magnitudes are divisible ad infinitum by definition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第七个问题（fols. 185v-195r）是：连续的物理量是否由不可再分的原子元素复合而成。夏普的回答是否定的，因为按定义，连续量可无限可分。
+    step2: |-
+      第七问（fols. 185v-195r）：连续的物理量是否由不能再分的原子元素复合而成？夏普答以否定：按定义，连续量可无限分割。
   - id: 69
     kind: body
     source: |-
       The eight question (195v-201r) is whether, in order to compare two motions belonging to the same genus (of motion), it is necessary that the mover and the mobile be simultaneous. Sharpe’s answer is affirmative, but he specifies that it is not always possible to compare two motions belonging to the same genus. This is possible only when the motions that have to be compared belong to the same kind (*species specialissima*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第八个问题（195v-201r）是：为了比较属于同一运动属的两个运动，推动者与被推动者是否必须同时。夏普的回答是肯定的，但他说明，比较同一属的两个运动并非总是可能。只有当待比较的两个运动属于同一个最狭义的种（*species specialissima*）时，这才可能。
+    step2: |-
+      第八问（195v-201r）：要比较同属（运动之属）的两个运动，推动者与被推动者是否须同时？夏普答是，但说明：同属两运动的比较并非总能进行，只有当它们同属一个最狭义的种（*species specialissima*）时才可能。
   - id: 70
     kind: body
     source: |-
       The last question (fols 201v-208v) is whether the perpetual motion of the heavens depends on the prime mover or not. Sharpe’s answer is affirmative and very short. Almost all of the second part of the question deals with the problem of the nature and properties of the prime mover.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后一个问题（fols 201v-208v）是：天体的永恒运动是否依赖于第一推动者。夏普的回答是肯定的，且非常简短。该问题第二部分的几乎全部内容，都在讨论第一推动者的本性与属性。
+    step2: |-
+      末问（fols 201v-208v）：天体的永恒运动是否依赖第一推动者？夏普答以肯定，篇幅极短。该问题第二部分几乎通篇在讨论第一推动者的本性与属性。
   - id: 71
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
