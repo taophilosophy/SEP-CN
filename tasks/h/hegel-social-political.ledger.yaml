@@ -1,0 +1,642 @@
+version: 1
+slug: hegel-social-political
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Georg Wilhelm Friedrich Hegel (1770–1831) developed a philosophy based on freedom within a wider philosophical system offering novel views on topics ranging from property and punishment to morality and the state.
+    step1: |-
+      格奥尔格·威廉·弗里德里希·黑格尔（1770–1831）发展了一种以自由为根基的哲学，它处于一个更广的哲学系统之内，对从财产与惩罚到道德与国家等一系列主题提出了新颖的观点。
+    step2: |-
+      格奥尔格·威廉·弗里德里希·黑格尔（1770–1831）建立了一种以自由为根基的哲学；这套哲学嵌在一个更宏大的哲学系统之中，对财产、惩罚、道德、国家等众多主题都给出了新颖的看法。
+  - id: 2
+    kind: body
+    source: |-
+      Hegel’s main work was the *Elements of the Philosophy of Right* (“*PR*”) first published in 1821. Many of his other major works include discussions or analyses connected to his social and political philosophy. He also wrote various political essays during his career, many of which have been translated (Hegel 1999). His work has been a major influence on significant figures from Karl Marx to Charles Taylor and beyond.
+    step1: |-
+      黑格尔的主要著作是《法哲学原理》（“*PR*”），1821 年首次出版。他的其他许多主要著作都包含与其社会和政治哲学相关的讨论或分析。他在职业生涯中也写过各种政治论文，其中许多已有译本（Hegel 1999）。他的著作对从卡尔·马克思到查尔斯·泰勒及以后的许多重要人物产生了重大影响。
+    step2: |-
+      黑格尔的主要著作是《法哲学原理》（*Elements of the Philosophy of Right*，下文简称 *PR*），1821 年首次出版。他的其他主要著作也多有与其社会政治哲学相关的讨论或分析。他一生还写过不少政治论文，其中许多已有译本（Hegel 1999）。从卡尔·马克思到查尔斯·泰勒，他的著作深刻影响了众多重要思想家。
+  - id: 3
+    kind: body
+    source: |-
+      This entry provides an overview about how Hegel’s ideas have been debated and the core contributions from his *PR* followed by further readings.
+    step1: |-
+      本词条概述黑格尔的思想如何被争论，以及其 *PR* 的核心贡献，随后附进一步阅读材料。
+    step2: |-
+      本词条先概述黑格尔思想的争论史与其 *PR* 的核心贡献，再附进一步阅读材料。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. The Place of Hegel’s Social and Political Thought
+    step1: |-
+      ## 1 黑格尔社会政治思想的地位
+    step2: |-
+      ## 1 黑格尔社会政治思想的地位
+  - id: 5
+    kind: body
+    source: |-
+      Hegel’s social and political thought has been a subject of several debates in terms of its form and content.
+    step1: |-
+      黑格尔的社会政治思想，就其形式与内容而言，一直是一个引发多场争论的论题。
+    step2: |-
+      黑格尔的社会政治思想，无论形式还是内容，都曾引发多场争论。
+  - id: 6
+    kind: body
+    source: |-
+      ### 1.1 Conservativism and Progressive Readings
+    step1: |-
+      ### 1.1 保守主义与进步主义的解读
+    step2: |-
+      ### 1.1 保守主义与进步主义的解读
+  - id: 7
+    kind: body
+    source: |-
+      One such debate concerned whether or not his views endorsed a dangerous conservativism, sometimes described as quietest or reactionary. His double-saying (*Doppelsatz*) in the Preface to the *Philosophy of Right* that “the rational is actual and actual is rational” was read by some as saying that the absolutist Prussia that Hegel lived under was somehow rational and so justified (Haym 1857)[^haym-1857]. Yet, the more detailed comments found in the main body of the *Philosophy of Right* consistently favour the aims of the Prussian Reform era which were opposed by the newly ascendant reactionaries after 1819 making it difficult to situate this work politically at that time.
+    step1: |-
+      其中一场争论关乎他的观点是否支持一种危险的保守主义——有时被描述为静默主义或反动的。他在《法哲学》序言中的双句（*Doppelsatz*）——"合理的是现实的，现实的也是合理的"——被一些人解读为：黑格尔所生活的普鲁士专制国家在某种意义上是理性的，因而正当（Haym 1857）[^haym-1857]。然而，《法哲学》正文中更详细的评论，一贯支持普鲁士改革时代的目标；1819 年之后，这一目标遭到新近得势的反动派的反对，使这部著作当时的政治定位变得困难。
+    step2: |-
+      其中一场争论是：黑格尔的立场是否支持一种危险的保守主义——有人称之为静默主义（quietist），有人称之为反动。他在《法哲学》序言里的"双句"（*Doppelsatz*）——"合理的是现实的，现实的也是合理的"——被一些人读作：黑格尔身处的普鲁士专制国家在某种意义上是合乎理性的，因而是正当的（Haym 1857）[^haym-1857]。然而，《法哲学》正文里更细致的评论却一贯支持普鲁士改革时代的诸目标；而 1819 年后，改革派的目标遭到新得势的反动派压制——这让这部著作在当时的政治归属变得难以判定。
+  - id: 8
+    kind: body
+    source: |-
+      This position was taken even further to some extremes by Karl Popper (1966) who claimed that Hegel was “the father of modern historicism and totalitarianism.” This view looked selectively at different remarks we can find in the *PR* about how the state is “the march of God in the world” found not in Hegel’s own text, but in the published lecture note “Additions” (or Zusätze) by his students included in most editions of the *PR* today (§258 Addition). Moreover, it was motivated by a philosophical and political stance that had little, if anything, to do with what is actually found in Hegel’s work.
+    step1: |-
+      卡尔·波普尔（1966）把这一立场推到更极端的地步，他宣称黑格尔是"现代历史主义与极权主义之父"。这种观点对《法哲学》中关于国家的不同说法作了选择性引用，例如国家是"上帝在世界上的行进"这一说法，其实并不见于黑格尔本人的文本，而是见于他的学生们整理出版的讲义"补充"（Zusätze）——今天大多数版本的《法哲学》都收录了它（§258 补充）。而且，这种观点的动机是一种与黑格尔著作实际内容几乎无关的哲学与政治立场。
+    step2: |-
+      卡尔·波普尔（1966）把这一立场推到了更极端的地步，宣称黑格尔是"现代历史主义和极权主义之父"。这种读法对《法哲学》中关于国家的不同说法作了选择性取材：例如"国家是上帝在世界上的行进"一句，其实不见于黑格尔本人的文本，而是出自学生们整理出版的讲义"补充"（Additions，即 Zusätze）——如今大多数《法哲学》版本都收录这部分（§258 补充）。况且，这种读法的动机，是一种与黑格尔著作实际内容几乎无关的哲学与政治立场。
+  - id: 9
+    kind: body
+    source: |-
+      This “conservative” reading of Hegel was challenged later by a more “liberal” interpretation that highlighted the reforms and divergences both cultural and political between Prussia and the *PR* that make clear that Hegel did not support an authoritarian government, but a new form of democratic institutions complete with jury trials that was more progressive (Avineri 1972, Knox 1970)[^avineri-1972][^knox-1970]. Hegel held a lifelong admiration for the French Revolution toasting the fall of the Bastille throughout his adult life.
+    step1: |-
+      这种对黑格尔的"保守主义"解读，后来受到一种更"自由主义"的解读的挑战。后者凸显了普鲁士与《法哲学》之间在文化与政治上的改革与分歧，清楚地表明黑格尔并不支持威权政府，而支持一种更进步的、配有陪审团审判的新式民主制度（Avineri 1972，Knox 1970）[^avineri-1972][^knox-1970]。黑格尔毕生钦佩法国大革命，成年后始终为攻占巴士底狱举杯。
+    step2: |-
+      这种"保守主义"读法，后来受到一种更"自由主义"的解读挑战。后者凸显了普鲁士与《法哲学》之间在文化与政治上的距离与分歧，清楚地表明：黑格尔并不支持威权政府，而是支持一种更进步、配备陪审团审判的新式民主制度（Avineri 1972，Knox 1970）[^avineri-1972][^knox-1970]。黑格尔一生钦佩法国大革命，成年以后，每年都举杯纪念攻占巴士底狱。
+  - id: 10
+    kind: body
+    source: |-
+      Today, most commentators agree that Popper and others were wrong to claim Hegel endorsed some view of authoritarianism. At the same time, Hegel’s social and political philosophy is more ideologically moderate than the conservativism versus progressivism debate had often admitted. While he did advocate for more democratic and progressive elements than a reality at his time, Hegel did also defend the traditional family and constitutional monarchy. Perhaps purposefully, Hegel’s thought is notoriously difficult to categorize given his interest to overcome and transform ordinary distinctions with a virtual consensus today that his work resists tidy classification as conservative, progressive or anything else.
+    step1: |-
+      今天，大多数评论者同意，波普尔等人宣称黑格尔支持某种威权主义的看法是错的。同时，黑格尔的社会政治哲学，在意识形态上比保守主义与进步主义之争通常所承认的更为温和。虽然他确实主张比其时代现实更多的民主与进步要素，但他也维护传统家庭与立宪君主制。也许是有意为之，黑格尔的思想出了名地难以归类，因为他志在克服并转化平常的种种区分。今天人们几乎一致认为：他的著作抗拒任何整齐的归类——无论保守、进步还是其他。
+    step2: |-
+      今天，多数评论者都同意：波普尔等人说黑格尔支持某种威权主义，是错的。但同时也要看到：比起保守主义对进步主义那种非此即彼的争论所愿意承认的，黑格尔的社会政治哲学在意识形态上要温和得多。他固然主张比其时代现实更多的民主与进步成分，却同样维护传统家庭与立宪君主制。黑格尔立志克服并转化日常的种种二分，他的思想因此出了名地难以归类；今天人们几乎一致认为，他的著作抗拒一切整齐的标签——保守也好，进步也好，别的也好。
+  - id: 11
+    kind: body
+    source: |-
+      ### 1.2 Metaphysical and Non-Metaphysical Readings
+    step1: |-
+      ### 1.2 形而上学与非形而上学的解读
+    step2: |-
+      ### 1.2 形而上学与非形而上学的解读
+  - id: 12
+    kind: body
+    source: |-
+      A second long-standing debate among Anglo-American commentators has concerned the relation of Hegel’s social and political thought to his logic and wider philosophical system. For many decades, the non-metaphysical reading has been the dominant approach. The central position was summed up by Z. A. Pelczynski (1964: 136–37) who said: “Hegel’s political thought can be read, understood, and appreciated without having to come to terms with his metaphysics … some intellectual curiosity may be unsatisfied when metaphysics is left out; a solid volume of political theory and political thinking will still remain.” The non-metaphysical reading follows a broadly analytic philosophical post-Kantian interpretation which sees Hegel as accepting, and even extending, Kant’s critical philosophy (Neuhouser 2000, Patten 1999, Pinkard 1994, Pippin 2008)[^neuhouser-2000][^patten-1999][^pinkard-1994][^pippin-2008]. This work is notable for typical focusing attention on the *PR* grasping it philosophically separately from other parts of Hegel’s system which are sometimes deemed to be overly dark with avoidable metaphysical commitments (Knowles 2002, Wood 1990)[^knowles-2002][^wood-1990].
+    step1: |-
+      英美评论者之间第二场长期争论，关乎黑格尔的社会政治思想与其逻辑学及更广哲学系统的关系。数十年来，非形而上学解读一直是主导进路。其核心立场由 Z. A. 佩尔钦斯基（1964: 136–37）概括："黑格尔的政治思想可以不与其形而上学打交道而被阅读、理解和欣赏……把形而上学留在一边，某种理智好奇心也许得不到满足；但一部扎实的政治理论与政治思考的专著仍会留下。"非形而上学解读大体遵循分析哲学的后康德式解释，把黑格尔看作接受、甚至扩展康德批判哲学的人（Neuhouser 2000，Patten 1999，Pinkard 1994，Pippin 2008）[^neuhouser-2000][^patten-1999][^pinkard-1994][^pippin-2008]。这项工作的特点是把注意力集中于 *PR*，在哲学上把它与其系统的其他部分分开把握；后者有时被视为过于晦暗，带着可避免的形而上学承诺（Knowles 2002，Wood 1990）[^knowles-2002][^wood-1990]。
+    step2: |-
+      英美评论者之间的第二场长期争论，关乎黑格尔的社会政治思想与其逻辑学及整个哲学系统的关系。几十年来，非形而上学解读一直是主导进路。Z. A. 佩尔钦斯基（1964: 136–37）把它归结为一句话："黑格尔的政治思想可以不去跟他的形而上学打交道，照样能读、能懂、能欣赏……形而上学被搁下，某种理智好奇心也许得不到满足；但一部扎实的政治理论与政治思想专著依然立在原地。"非形而上学解读大体承袭分析哲学的后康德路线，把黑格尔看作康德批判哲学的继承者、甚至扩展者（Neuhouser 2000，Patten 1999，Pinkard 1994，Pippin 2008）[^neuhouser-2000][^patten-1999][^pinkard-1994][^pippin-2008]。这类研究的典型做法，是把焦点集中在 *PR* 上，在哲学上把它从系统的其他部分剥离出来单独把握——其他部分有时被认为过于晦暗，且带着本可避免的形而上学承诺（Knowles 2002，Wood 1990）[^knowles-2002][^wood-1990]。
+  - id: 13
+    kind: body
+    source: |-
+      In contrast, the metaphysical reading counters that anti-metaphysical interpretations take a one-sided approach to Hegel’s work (Beiser 2005, Goodfield 2009, Rosen 1984, Taylor 1975, Thompson 2018)[^beiser-2005][^goodfield-2009][^rosen-1984][^taylor-1975][^thompson-2018]. Hegel conceived his *PR* to be a part of a wider system. Isolating any one text from its wider context may appear to inoculate any such reading from metaphysical claims elsewhere in Hegel’s system. However, only a reading that grasps the full metaphysical foundations of his thought will do justice to his self-understanding (Houlgate 2005)[^houlgate-2005].
+    step1: |-
+      与此相对，形而上学解读反驳说，反形而上学的解释对黑格尔的著作采取了一种片面的进路（Beiser 2005，Goodfield 2009，Rosen 1984，Taylor 1975，Thompson 2018）[^beiser-2005][^goodfield-2009][^rosen-1984][^taylor-1975][^thompson-2018]。黑格尔设想 *PR* 是一个更广系统的组成部分。把任何一部文本从其更广语境中隔离出来，也许能让这类解读免于黑格尔系统中别处的形而上学主张。然而，只有把握其思想的全部形而上学基础，才算公正对待他的自我理解（Houlgate 2005）[^houlgate-2005]。
+    step2: |-
+      与之相对，形而上学解读反驳道：反形而上学的解释对黑格尔著作的处理是片面的（Beiser 2005，Goodfield 2009，Rosen 1984，Taylor 1975，Thompson 2018）[^beiser-2005][^goodfield-2009][^rosen-1984][^taylor-1975][^thompson-2018]。黑格尔本就设想 *PR* 是一个更大系统的组成部分。把某一部文本从其更广语境里割出来，或许能让解读免受系统中别处的形而上学主张牵连；但只有那种把握了其思想全部形而上学基础的读法，才算公正对待黑格尔的自我理解（Houlgate 2005）[^houlgate-2005]。
+  - id: 14
+    kind: body
+    source: |-
+      ### 1.3 Systematic and Non-Systematic Readings
+    step1: |-
+      ### 1.3 系统性与非系统性解读
+    step2: |-
+      ### 1.3 系统性与非系统性解读
+  - id: 15
+    kind: body
+    source: |-
+      More recently, scholars have focused on a core contention between metaphysical and non-metaphysical readings about what relation, if any, Hegel’s *PR* has to his wider philosophical system. Most non-metaphysical readings interpret the *PR* independently of Hegel’s system whereas all metaphysical readings attempt to situate the *PR* within Hegel’s system. Viewing the debate from this perspective, the core contention is not about the place of metaphysics but the interpretive place of any work within the system.
+    step1: |-
+      近来，学者们关注形而上学与非形而上学两种解读之间的一个核心争点：黑格尔的 *PR* 与其更广哲学系统究竟处于何种关系（如果有关系的话）。大多数非形而上学解读把 *PR* 独立于黑格尔系统来解释，而所有形而上学解读都试图把 *PR* 安置在黑格尔系统之内。从这一视角看，争论的核心不是形而上学的地位，而是任何一部著作在系统中的解释学地位。
+    step2: |-
+      近来，学者们的焦点转向形而上学与非形而上学两种解读之间的一个核心争点：黑格尔的 *PR* 与其更广的哲学系统究竟处于何种关系（如果真有关系的话）。大多数非形而上学解读把 *PR* 当作独立于系统的文本来解释；所有形而上学解读则都力图把 *PR* 安放进黑格尔的系统。从这个角度看，争论的核心已不是形而上学有没有地位，而是任何一部著作在系统中应摆在哪里。
+  - id: 16
+    kind: body
+    source: |-
+      A non-systematic reading interprets Hegel’s *PR* explicitly separately from his wider system. This view has few adherents. It runs clearly against Hegel’s own self-understanding stated in the *PR*’s Preface where he says the *PR* “is a more extensive, and in particular a more systematic, exposition of the same basic concepts which, in relation to this part of philosophy, are already contained in a previous work designed to accompany my lectures, namely my *Encyclopaedia of the Philosophical Sciences*” (*PR*, p. 9). The *PR* is explicit that it serves as an elaboration of the section “Objective Spirit” within his philosophical system, and so a part of it.
+    step1: |-
+      非系统性解读把黑格尔的 *PR* 明确地与其更广系统分开解释。这种观点追随者很少。它显然违背黑格尔在《法哲学》序言中的自我理解；他在那里说，*PR*"是对同一批基本概念的更详尽、尤其更系统的阐述；就哲学的这一部分而言，这些概念已包含在此前一本为我讲课而写的著作中，即我的《哲学科学百科全书》"（*PR*，p. 9）。《法哲学》明确说，它是对其哲学系统中"客观精神"一节的展开，因而是系统的一部分。
+    step2: |-
+      非系统性解读把黑格尔的 *PR* 与其更广系统明确分开。持这一立场的人很少。它显然违背黑格尔在《法哲学》序言中的自我理解——他说，*PR*"是对同一批基本概念的更详尽、尤其更系统的阐述；这些概念就哲学的这一部分而言，已包含在此前一本为配合我的讲课而写的著作中，即我的《哲学科学百科全书》"（*PR*，p. 9）。《法哲学》明说，它是其哲学系统中"客观精神"一节的展开，因而是系统的一部分。
+  - id: 17
+    kind: body
+    source: |-
+      The now orthodox view is the systematic reading which accepts that Hegel’s logic and system have explanatory force in interpreting the *PR* (Brooks 2013, Brooks and Stein 2017)[^brooks-2013][^brooks-2017]. There is no denying their connection, only its character and strength. There remain differences about how much the system does or should figure as well as related metaphysical issues (Redding 2012, Wood 2017)[^redding-2012][^wood-2017]. For example, there is a consensus that Hegel’s political philosophy should be understood within its systematic context, but there remains disagreement about whether we need to accept his arguments for the wider philosophical system in order to accept his contributions to political philosophy. This entry will broadly follow the dominant systematic reading, but acknowledges there is not a consensus on how strongly a justificatory role the system plays for his political thought.
+    step1: |-
+      如今正统的观点是系统性解读：它承认黑格尔的逻辑与系统在解释 *PR* 时具有解释力（Brooks 2013，Brooks and Stein 2017）[^brooks-2013][^brooks-2017]。没有人能否认二者的关联，能争的只是这种关联的性质与强度。系统在多大程度上确实或应当在场，以及相关的形而上学问题，仍存分歧（Redding 2012，Wood 2017）[^redding-2012][^wood-2017]。例如，人们一致认为，应在系统性语境中理解黑格尔的政治哲学；但我们必须接受他为更广哲学系统所作的论证，才能接受他对政治哲学的贡献吗？这一点仍有分歧。本词条大体遵循主导性的系统性解读，但同时也承认：系统在其政治思想中扮演何种强度的辩护角色，并无共识。
+    step2: |-
+      如今正统的观点是系统性解读：它承认黑格尔的逻辑与系统在解释 *PR* 时有解释效力（Brooks 2013，Brooks and Stein 2017）[^brooks-2013][^brooks-2017]。二者的关联无可否认；可争的只是这种关联的性质与强度。系统到底实际起多少作用、应当起多少作用，以及与之相关的形而上学问题，仍有分歧（Redding 2012，Wood 2017）[^redding-2012][^wood-2017]。比如，大家一致认为应当在系统语境中理解黑格尔的政治哲学；但是否必须先接受他为更广系统所作的论证，才能接受他政治哲学的贡献？这一点仍有争议。本词条大体遵循主导性的系统性解读，同时承认：系统在其政治思想中扮演的辩护角色究竟有多重，并无共识。
+  - id: 18
+    kind: body
+    source: |-
+      ### 1.4 The *Philosophy of Right*
+    step1: |-
+      ### 1.4 《法哲学》
+    step2: |-
+      ### 1.4 《法哲学》
+  - id: 19
+    kind: body
+    source: |-
+      Hegel’s main work of social and political thought was the *PR*. It was published in 1821 when Hegel taught in Berlin. This entry surveys his primary contributions in this work, but with reference to his other texts and political writings.
+    step1: |-
+      黑格尔社会政治思想的主要著作是 *PR*。它出版于 1821 年，当时黑格尔在柏林任教。本词条考察他在这部著作中的主要贡献，同时参照他的其他文本与政治著作。
+    step2: |-
+      黑格尔社会政治思想的主要著作就是 *PR*，出版于他在柏林任教的 1821 年。本词条考察他在这部著作中的主要贡献，同时参照他的其他文本与政治著述。
+  - id: 20
+    kind: body
+    source: |-
+      Hegel says the *PR* “is a more extensive” exposition of “Objective Spirit,” a section within his philosophical system called his *Encyclopaedia of the Philosophical Sciences* (see *PM*). The relevant sections of the *Encyclopaedia* were intended to accompany the lectures that became published as the *Philosophy of Right*. The full *Encyclopaedia* begins with an examination of logic and then applies itself to an understanding of nature and the human spirit, where the latter incorporates analyses of psychology, art, history, religion and philosophy in addition to social and political thought.
+    step1: |-
+      黑格尔说，*PR*"是更详尽的"阐述，阐述的对象是"客观精神"——他的哲学系统的一个部分，这个系统名为《哲学科学百科全书》（见 *PM*）。《百科全书》的相关部分，本意为配合后来以《法哲学》之名出版的讲课。《百科全书》全书从逻辑学考察开始，然后应用于理解自然与人的精神；后者除社会政治思想外，还纳入心理学、艺术、历史、宗教与哲学的分析。
+    step2: |-
+      黑格尔说，*PR* 是"客观精神"的"更详尽"阐述；"客观精神"是其哲学系统的一个部分，这个系统名为《哲学科学百科全书》（见 *PM*）。《百科全书》的相关部分，本来是配合讲课用的讲稿，后来才以《法哲学》之名出版。《百科全书》全书从逻辑学考察开始，继而考察自然与人的精神；后者除社会政治思想外，还包含对心理学、艺术、历史、宗教与哲学的分析。
+  - id: 21
+    kind: body
+    source: |-
+      His approach to form and content is unique. The *PR* is mostly divided into numbered sections (§). These are occasionally supplemented by later Remarks (R) where Hegel elaborated further in a later edition or Additions (A) which took the form of edited lecture notes of what Hegel had said by his students when teaching the *PR*. Hegel argues his positions in a dialectical way that is not linear and designed to show how seemingly different perspectives can have their opposition somehow dissolve within a new and higher perspective.
+    step1: |-
+      他对形式与内容的处理独具一格。《法哲学》大多按编号小节（§）划分。这些小节偶尔附有后加的附释（R），即黑格尔在后来的版本中作进一步阐述之处；或"补充"（A），即学生们听黑格尔讲授《法哲学》时整理编辑的讲义笔记。黑格尔以一种非线性、辩证的方式论证其立场，意在表明：看似不同的视角，其对立在某种意义上能够在一个更新更高的视角中消解。
+    step2: |-
+      他在形式与内容上的处理独具一格。《法哲学》大多按编号小节（§）划分，偶有附释（R）——黑格尔在后来的版本里补充阐述之处；或"补充"（A）——学生听黑格尔讲授《法哲学》时记下、后经整理的讲义笔记。黑格尔以一种非线性、辩证的方式论证立场，意在表明：看似对立的视角，其对立能够在某个更新更高的视角中被消解。
+  - id: 22
+    kind: body
+    source: |-
+      For example, our first apperception of some thing or object of thought might be as a pure being. As it is pure, it may appear to lack determinations – and so be nothing. In this way, Hegel holds that our thought has moved from pure being to pure nothingness. But yet what we apperceive is a something and so this is seen as helping overcome the false opposition of pure being and nothingness to a new, higher category of becoming as what is before is taking further shape as we sharpen our grasp of it. This dialectical method is infused throughout the *PR* and Hegel says he has “presupposed a familiarity” with his approach found in his logic and wider system (*PR*, p. 10, see *SL*, *EL*).
+    step1: |-
+      例如，我们对某个事物或思想对象的最初统觉，也许是纯有。由于它是纯粹的，它也许显得缺乏规定——因而是无。这样，黑格尔认为，我们的思想已从纯有移向纯无。然而我们所统觉的是某物，这被认为有助于克服纯有与纯无的虚假对立，进入一个更新更高的范畴——变易；因为原先的东西，随着我们把握的精确化而进一步成形。这种辩证方法贯穿《法哲学》全书；黑格尔说，他对自己在逻辑学与更广系统中呈现的进路已"预设了熟悉"（*PR*，p. 10，见 *SL*、*EL*）。
+    step2: |-
+      举例来说，我们对某个事物或思想对象的最初统觉，也许是"纯有"。正因为它是纯粹的，它似乎缺乏任何规定——于是什么都不是，是"无"。黑格尔由此认为，我们的思想已经从纯有走到纯无。然而我们统觉到的毕竟是一个某物；这就有助于克服纯有与纯无之间的虚假对立，进入一个更高、更新的范畴——"变易"：先前的东西随着我们把握的深入而进一步成形。这种辩证方法贯穿《法哲学》全书。黑格尔说，对于他在逻辑学与更广系统中呈现的进路，他已"预设读者熟悉"（*PR*，p. 10，见 *SL*、*EL*）。
+  - id: 23
+    kind: body
+    source: |-
+      Similarly, the *PR* moves from basic building blocks that have a somewhat “pure” nature not yet grounded in reality to their negation and then brought together in a higher, concrete reality. After an introduction establishing the *PR* as primarily a work concerned with freedom, the *PR* is divided into three parts. The first pure part is Abstract Right covering property and punishment followed by an opposite in Morality covering issues of conscience and moral responsibility. They become unified in a final part Ethical Life providing a more concrete reality that examines the family, civil society, law, the state and ending with war and international relations. Each part shall be discussed in turn.
+    step1: |-
+      类似地，*PR* 从一些带有某种"纯"性质、尚未落实于现实的基本构件出发，走向它们的否定，然后在更高的具体现实中把它们带到一起。《法哲学》的导论确立了它首先是一部关于自由的著作；此后全书分三部分。第一部分是纯化的抽象法，论财产与惩罚；随后是其对立面道德，论良心与道德责任诸问题。二者最终在伦理生活这一最后部分中统一，后者提供更具体的现实，考察家庭、市民社会、法律、国家，以战争与国际关系收尾。以下依次讨论各部分。
+    step2: |-
+      类似地，*PR* 从一些带有某种"纯粹"性质、尚未落实到现实的基本构件出发，走向它们的否定，再把二者在更高的具体现实中结合起来。《法哲学》的导论确立：这首先是一部关于自由的著作。此后全书分三部分。第一部分是纯化形态的抽象法，论财产与惩罚；接着是与它对立的道德，论良心与道德责任诸问题；二者最终在末部分的伦理生活中统一——伦理生活呈现更具体的现实，考察家庭、市民社会、法律、国家，最后以战争与国际关系收束。以下各部分依次讨论。
+  - id: 24
+    kind: body
+    source: |-
+      ## 2. Freedom and Right
+    step1: |-
+      ## 2 自由与法
+    step2: |-
+      ## 2 自由与法
+  - id: 25
+    kind: body
+    source: |-
+      Hegel conceives the *PR* primarily as a philosophy of freedom. This is made clear in the *PR*’s Introduction, which starts by declaring that “the subject-matter of the philosophical science of right is the Idea of right – the concept of *right* [*Recht*] and its actualization” (*PR* §1). The *PR*’s aim to provide a philosophical account of “right” and its realization in the world.
+    step1: |-
+      黑格尔把 *PR* 首要地设想为一部自由哲学。《法哲学》导论开宗明义："法的哲学科学的对象是法的理念——法的概念及其现实化"（*PR* §1）。*PR* 的目标是就"法"及其在世界中的实现给出哲学说明。
+    step2: |-
+      黑格尔把 *PR* 首要地当作一部自由哲学。《法哲学》导论开篇即宣告："法哲学这门科学的对象是法的理念——法的概念及其现实化"（*PR* §1）。*PR* 的目标，是为"法"及其在世界中的实现给出哲学说明。
+  - id: 26
+    kind: body
+    source: |-
+      Hegel admits the existence of *right* is presupposed from his philosophical system, of which the *PR* elaborates one part (*PR* §2). The *PR*’s Introduction proceeds to summarise the dialectical argument for the free will discussed at greater length elsewhere in Hegel’s philosophical system. Our will “determines itself” (*PR* §4 Addition). The challenge is determining whether or not its content is a product of freedom or mere arbitrariness. We must be able to discern the bare pursuit of being a slave to our passions like, for Hegel, the animal world from the rational world of human beings. Hegel sees the *PR* as an examination into how “the free will which wills the free will” can be known in form and content (*PR* §27).
+    step1: |-
+      黑格尔承认，法的存在是从其哲学系统中预设而来，*PR* 阐述了其中一部分（*PR* §2）。《法哲学》导论接着概述了自由意志的辩证论证，这一论证在黑格尔哲学系统的其他地方有更详尽的讨论。我们的意志"规定自身"（*PR* §4 补充）。难题在于判定其内容究竟是自由的产物，还是纯粹的任意。我们必须能够分辨：单纯地做自己激情的奴隶——在黑格尔看来，这是动物世界——与人类有理性的世界之间的分别。黑格尔把 *PR* 视为一种考察：考察"意志自由的自由意志"如何在形式与内容上被认识（*PR* §27）。
+    step2: |-
+      黑格尔承认，法的存在是从他的哲学系统中预设下来的；*PR* 阐述的是其中一个部分（*PR* §2）。《法哲学》导论接着概述自由意志的辩证论证——这个论证在黑格尔系统的其他地方讨论得更充分。我们的意志"规定自身"（*PR* §4 补充）。难点在于判定：意志的内容究竟是自由的产物，还是纯粹的任意。我们必须能分辨两种情形：一种像动物世界那样，单纯做激情的奴隶；另一种属于人类有理性的世界。黑格尔把 *PR* 看作这样一项考察："意志那自由的自由意志"如何在形式与内容上得到认识（*PR* §27）。
+  - id: 27
+    kind: body
+    source: |-
+      Hegel defines “right” [*Recht*] as the existence of the free will in the world (*PR* §29). So a philosophy of right is necessarily a philosophy of freedom that seeks to comprehend freedom actualized in how we relate to each other and construct social and political institutions.
+    step1: |-
+      黑格尔把"法"（*Recht*）定义为自由意志在世界中的定在（*PR* §29）。因此，法哲学必然是一种自由哲学——它寻求把握这样的自由：这种自由体现在我们彼此的关系中，也体现在我们建构社会与政治制度的方式中。
+    step2: |-
+      黑格尔把"法"（*Recht*）定义为自由意志在世界中的定在（*PR* §29）。法哲学因此必然同时是一种自由哲学：它要把握的自由，体现在我们彼此的对待之中，也体现在我们建构社会与政治制度的方式之中。
+  - id: 28
+    kind: body
+    source: |-
+      Following his dialectical method, Hegel approaches the development of our comprehension of right through these stages: Abstract Right, Morality and Ethical Life. We progress from one stage to the next in a distinctive way where apparent contradictions arising in each stage are dissolved through attaining a higher stage, where this cycle is repeated and progress made since the beginning remains present where what was abstract and opaque at first becomes more concrete as we advance to the end of this work. This multi-layered, dialectical nature of Hegel’s argument does give his philosophical work an added complexity, but also a richness that close study rewards – while this entry only focuses on the broad outlines of his arguments.
+    step1: |-
+      依照其辩证方法，黑格尔经由这些阶段推进我们对法的理解的展开：抽象法、道德与伦理生活。我们以一种独特的方式从一个阶段推进到下一阶段：每一阶段中产生的表面矛盾，经由达到更高阶段而消解；这一循环重复进行，而自始所取得的进展保持在场——起初抽象而晦暗的东西，随着我们向这部著作的终点推进而变得更具体。黑格尔论证的这种多层、辩证的性质，确实使其哲学著作增添复杂性，但也带来一种细读必有回报的丰富性——尽管本词条只关注其论证的大致轮廓。
+    step2: |-
+      依照辩证方法，黑格尔让对法的理解经由这些阶段逐层展开：抽象法、道德、伦理生活。我们以一种独特的方式从一个阶段推进到下一阶段：每一阶段出现的表面矛盾，都在达到更高阶段时被消解；这个循环反复进行，而从起点以来的进展始终在场——起初抽象而晦暗的东西，随着我们走向全书终点，变得愈发具体。这种多层次、辩证的论证方式，确实给黑格尔的哲学著作增添了复杂度，但也带来一种细读必有回报的丰富性——本词条只勾勒其论证的大致轮廓。
+  - id: 29
+    kind: body
+    source: |-
+      ## 3. Property
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      The first substantive stage is Abstract Right. Somewhat misleading its sections are entitled “Property,” “Contract” and “Wrong” giving the false impression that Hegel is discussing actual possession of property, its sale or punishment for breach of contract. Typically for Hegel, he uses common terminology in uncommon ways.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      We must recall the main aim of Hegel’s project is to understand how the free will wills the free will, and not mere arbitrariness. This requires Hegel to find some ground for helping decide when the free will wills freely, versus when it does not. Hegel first turns to taking possession of property. It is noticeable that Hegel’s account is aimed at using property possession as a first step towards finding this ground rather than for building an economic system. For example, Hegel says that “what and how much I possess is…purely contingent as far as right is concerned” (*PR* §49). This is because Hegel does not intend to develop a full theory of property yet, but rather to locate a ground for the free will’s freedom.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      The importance of property at this stage is its development of our self-consciousness (Benhabib 1984)[^benhabib-1984]. For Hegel, I give my free will an external existence that others can engage with. My ownership of property is not determined by me alone, but something determined “within the context of a common will” shared between two persons (*PR* §71).
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Hegel calls the mutual recognition between two persons about property ownership a “contract” (*PR* §71–75). This is no ordinary contract. The context in Abstract Right is a hypothetical space of two persons. There is no money or sale of goods. The “contract” is not a written agreement. All common terminology, but given different usages.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      The key point, for Hegel, is that only the free will of an individual can ground the free will of another (Stillman 1980)[^stillman-1980]. Something is mine when mutually recognized as my possession by another. This is the first appearance of right where the activity of my free will in taking possession is free, and not mere arbitrariness. It is this agreement between two individuals forming a kind of contract which is so important for Hegel. This is because mutual recognition becomes a vehicle for how we can develop further a more concrete understanding of freedom as right in the world. If such recognition was under threat, this would unsettle how we can ground our free will in a free will of another.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      ## 4. Punishment
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      This failure of mutual recognition is taken up next at the end of Abstract Right in a section entitled “Wrong” [*Unrecht*]. This section has been widely interpreted by many scholars to offer a clear retributivist theory of crime and punishment (Cooper 1971, Primoratz 1989)[^cooper-1971][^primoratz-1989]. At first glance, it is easy to see why.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      Hegel distinguishes three kinds of wrongs. The first is unintentional (*PR* §84–86). This is where both individuals are adhering to what they believe has been mutually recognized, but one is unwittingly incorrect. This kind of wrong is thought to be unpunishable – and the reason is because both sides see “the recognition of right as the universal and deciding factor” (*PR* §85). One side is in error, but there is a strict appeal to the proper recognition of right.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      The second kind of wrong is deception (*PR* §87–89). This is more serious than unintentional wrongs because while both parties claim to each other that they appeal to right, one side does so insincerely. Thus deception has a different and more serious character than unintentional wrongs.
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      The third and final kind of wrong is described as “crime” (*PR* §90). This is where one party makes no appeal at all to right. The wrong [*Unrecht*] that they seek is to deny an appeal to right. This is a direct and tangible threat to mutual recognition as one party is not merely insincere, but acts regardless of right – and to that extent acts arbitrarily, and so unfreely.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Hegel describes crime as an infringement of right, of mutual recognition (*PR* §95 Remark). This requires what Hegel calls punishment as “the restoration of right” whereby what was infringed is reasserted and reaffirmed (*PR* §99). For example, the punishment of theft sends a message to the thief and wider community that this crime should not have happened – and in punishing the crime Hegel believes it can help to restore the right violated.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      His theory of punishment is widely characterized as retributivist and it is easy to see why. In this section, Hegel is critical of deterrence and rehabilitation approaches claiming “they take it for granted that punishment in and for itself is just” (*PR* §99 Remark). Indeed, Hegel says the cancellation of crime “is retribution” (*PR* §101).
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      But this commonly held view is controversial for several reasons. Hegel may call this third kind of wrong “crime,” but this view of crime is understood in a specific way (Nicholson 1982)[^nicholson-1982]. There is no state or laws, no police or judiciary (Stillman 1976)[^stillman-1976]. A hypothetical scenario lacking prisons is hardly any complete theory of punishment. In fact, there is neither judge nor jury in Abstract Right to say who is right or wrong. This is because, when we view this section in its systematic context, Hegel is drawing attention to certain foundational ideas about wrongs more generally (e.g., that they are of three kinds) and how we should respond (e.g., that crimes can deserve punishment) without yet giving his full view at this point in the *PR*.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      However, Hegel does foreshadow his later and more substantive discussion of punishment with a non-retributivist character at this point (Brooks 2017a)[^brooks-2017a]. He highlights how determinations of crimes “such as danger to public security” have relevance in determining what punishment is ultimately justified (*PR* §96 Remark). While he says crimes “more dangerous in itself” are a more serious infringement of right, Hegel is clear from the start that consequentialist factors are relevant to the determination of punishment related to crime’s impact on society although he says little more at this point (*PR* §96 Remark). Hegel also rejects the view he is offering a full theory of punishment at this point claiming – in the absence of laws and courtrooms – any action taken by an individual against another to punish takes the form of “revenge” which “becomes a new infringement” creating new problems (*PR* §102). It is important to note at this point that these sections discussing commonly used concepts like property and contract as well as crime and punishment in uncommon ways all reappear when Hegel turns his attention to the final part of Ethical Life.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      ## 5. Morality
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      When Hegel concludes Abstract Right, he seeks to resolve a tension. Abstract Right had been focused purely on the external appearance of right through taking possession and forming a contract through mutual recognition. In reasserting and restoring right through “punishment,” we do not merely honour the *universality* of right for us all but this move “is also at the same time a further advance in the inner determination of the will by its concept” (*PR* §104). While we have discussed taking ownership and wrongs in relation to the mutual recognition of external property, this points us forward to our having to grasp the *particularity* of our inner ownership of right. This perspective leads Hegel to open a new, second stage he calls Morality, but again using common terms in uncommon ways.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      The main point about Hegel’s theory of morality is he redefines it in an unusual way. For Hegel, “the moral point of view” is a purely abstract and hypothetical exercise that is logically prior and separate to how morality is related to the world (*PR* §105). Hegel focuses on the individual’s power of choice. To this end, Hegel is a champion, not an enemy, of individual liberty as he is clear that there must be space for subjective freedom.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      The problem with our individual power of choice is that we may well be mistaken about what we choose (*PR* §140 Remark). Recalling our separateness from others in Morality, he says we may intend good but our only guide is our individual conception of the good (*PR* §140 Addition). A more substantive guide awaits reflecting about ourselves acting in relation to others concretely in Ethical Life.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      Otherwise, the danger arising from such pure, inward abstraction is that morality is an “abstract universality … without content” (*PR* §135). Thus, for Hegel, moral philosophy of any kind is by its nature empty.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Perhaps no area of the *PR* has attracted more controversy than Hegel’s so-called “emptiness charge” against Kant: Kant is accused of offering no more than an empty formula of “duty for duty’s sake” where our task is to avoid contradicting a set formula (*PR* §135, see Hoy 1989, Freyenhagen 2012, Stern 2012)[^freyenhagen-2012][^hoy-1989][^stern-2012]. Hegel’s criticisms centre on Kant’s Formula of Universal Law stating we should “act only in accordance with that maxim through which you can at the same time will that it become a universal law” (Kant 1997, 4:421)[^kant-1997]. Undoubtedly, Kant does offer Hegel some ammunition for this criticism. For example, Kant says “All I need for morality is that freedom does not contradict itself and hence can at least be thought; I do not need to have any further insight into it” (Kant 1996, B xxix)[^kant-1996]. At first glance, it might appear Kantian morality is about following a formula and no more.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      But, of course, as Kant’s defenders are correct to point out, Hegel’s criticism is unfair and misses its mark (Wood 1989)[^wood-1989]. In fact, Kant purposefully offers multiple versions of his formula to help draw our considerations of morality away from a purely rationalist exercise and bring it “nearer to feeling” (note 15). Our anthropology matters for Kant and he does not see our living ethically as merely living without contradiction.
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      We should recall that Hegel’s emptiness charge might be made against moral philosophy. This is because Hegel has redefined morality as a purely hypothetical armchair exercise that by itself is “without content” (*PR* §135). Of course, this is not how the targets of Hegel’s criticism conceive of morality – and, to some degree, Hegel is using his own redefinition of morality to critique how others understand the same term defined differently.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      A more appropriate comparison might be drawn in relating Kant’s principled approach with Hegel’s comments about the relation of religion to the state (*PR* §270 Remark). Hegel claims a religious point of view can help furnish individuals with ethical principles and help us lead a more ethical life (*PR* §270 Addition). This kind of formulaic thinking in *PR* to help guide individuals to ethical, law abiding behaviour is perhaps closer to the kind of moral project that Kant was engaged in where there are clearer areas of commonality than in Hegel’s critique in Morality (Brooks 2013)[^brooks-2013].
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      As should be clear, Morality can only make so much progress in individual abstraction. What is required is a transition bringing together the *universality* of Abstract Right enveloping us all and providing a foundation in mutual recognition with the *particularity* of Morality where we both outwardly and inwardly grasp the development of right. This bridge is to the concrete *individuality* found in comprehending right – not in abstraction – but now in the world and its institutions.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      ## 6. Ethical Life
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Hegel’s concept of ‘Ethical Life’ [*Sittlichkeit*] plays a pivotal role in his political and legal thought. It is here that Hegel takes other concepts considered earlier found in Abstract Right (such as contract, property and punishment) and Morality to grasp them anew but now in their social – and more “concrete” context. The following discussion retains an abstract character insofar as Hegel discusses institutions that existed at his time – like the family, civil society and the state – but in ways meant to bring out the rational within the actual (and actual within the rational) (see Stern 2006)[^stern-2006]. For example, core ideas about what constitutes a wrong from his discussion of punishment return, but with a deeper and evolved understanding of their place in a social context that brings out a different character and complexity to his views – which is intended to unpack the character and complexity of the inner rationality that Hegel believes we can discern in the world.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      Ethical Life is divided into three parts where each builds off of the analysis thus far into the nature of Abstract Right and Morality, but where each part, in turn, develops after the other. This ordering is not chronological, but dialectical. We are not a member of civil society or the state after we join a family, but the concepts of the former are further developments from the latter as the following sections bear out.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      ## 7. Family
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      Hegel begins his discussion of the first emergence of right embodied in the world through the sphere of Family. As we should expect, Hegel uses common terminology in uncommon ways again.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      In Abstract Right, separate abstract individuals connect together through mutual recognition by acknowledging the ownership of property. In Ethical Life, the Family is a sphere where concrete individuals come together bound in a love for each other (*PR* §158). This connection is not purely arbitrary, like animals seeking only to satisfy their needs and then seek another. For Hegel, the Family is a connection that, at least in principle, aims at a permanence he calls “marriage” (*PR* §161).
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      These marriages are not defined in contractual terms, but ethical. A contract is an agreement that different parties can enter or exit on mutual consent. Any shared commitment or unity has a temporary character. This is little better than the kind of mutual recognition we saw in Abstract Right.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      However, in marriage, a more substantive unity is created that is a permanent bond unlike most contracts. This does not mean that Hegel forbids divorce. The termination of a marriage is seen as an unfortunate possibility born from marriage’s foundation in our feelings, like love, which can be unstable over time (*PR* §163 Addition).
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      While divorce is permitted, arranged marriages are not (*PR* §162). This is because marriage is a further development of our freedom – and it requires our being able to choose a life partner. In this way, marriage is an advance of our mutual recognition from a contract where we agree ownership of some thing to where we choose to create a unity with another longer term.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      For Hegel, the Family achieves unity through its creation of children (*PR* §173 Addition). To this extent, he plainly endorses the traditional family model (see Haldane 2006)[^haldane-2006]. However, this is done on very non-traditional grounds. What guides Hegel’s thinking is his logic which brings together opposites in a creative unity producing some new, higher concept (*PR* §165). Likewise, Hegel saw men and women as embodying different features with their sexual union able to create children, not unlike the universal and particular giving birth to the concrete individual (*PR* §165).
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      These views have rightly been subjected to widespread criticism by feminists and others (Halper 2001, Hutchings and Pulkkinen 2010, Knowles 2002, Ravven 1988, Stone 2002)[^halper-2001][^hutchings-2010][^knowles-2002][^ravven-1988][^stone-2002]. A common argument is that Hegel’s justification of the Family is a poor defence of privileging men over women on the basis of his controversial dialectical method. Only men have the opportunity to engage outside the home in civil society and fully participate in the state. These critics claim that such a privilege should not be reserved for men alone for many, often obvious, reasons. It is also argued that his broad views about the essence of marriage as a permanent bond built on love can be achieved by non-traditional families, too. It is worth pointing out that Hegel’s talk of the Family is of an ideal. Hegel fathered a child outside of wedlock who he supported throughout his life. He sees himself as revealing the full development of right wherever it may take us, and what it requires from us or our institutions may be different from how we find them.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      ## 8. Civil society
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      Hegel’s civil society is primarily the place of work, as well as where he situates law and the legal system (see Sect. 5). Whereas the Family is ideally a relation of unity from a natural law for each other, this gives way to the pursuit of the particular individual within the system of needs (*PR* §182). The Family is a sphere where it is all for one and one for all. In civil society, the needs of all are met where I make my particular contribution in a pro-market economic vision accepting a natural division of labour (*PR* §189, 198).
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Hegel sees the world of work as a home away from home, or “second family” (*PR* §252). Instead of familial love, there is a kind of brotherly love fostered through an individual’s connection to a corporation, grouped by the kind of trade all are engaged in which educates and supports its member.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Interestingly, Hegel sees market relations in modern society as a foundation for the acquisition by free individuals of social identities including social solidarity. We develop our sense of selves through our economic activities and the myriad of interconnections we forge with others in an extra-familial but non-political way.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      A key problem is the problem of poverty. If possession of property is essential for the development of my sense of right and satisfaction of needs, a capitalist economic system which, Hegel accepts, makes poverty for at least some unavoidable raises a serious concern about whether Hegel’s ideal social and political philosophy is ideal for all its citizens (Avineri 1971, Whitt 2013)[^avineri-1971][^whitt-2013].
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      The problem of poverty is more than a concern about material needs. Hegel describes those in poverty as forming a “rabble” saying “poverty in itself does not reduce people to a rabble; a rabble is created only by the disposition associated with poverty, by inward rebellion against the rich, against society, the government, etc” (*PR* §244, Addition). Thus we can understand the rabble as having a conviction about their alienation that may be more likely to find among those who are poorer, but not exclusively them. To be in poverty is to be alienated and see one’s state as a separate, unfriendly other (Brooks 2020)[^brooks-2020]. While Hegel was a strong believer that through work we could develop our freedom to become reconciled to our social and political work, he lacks any convincing solution to how the problem of poverty might be overcome short of changing the economic system (Plant 1972)[^plant-1972].
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      ## 9. Law
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Part of Hegel’s examination of civil society concerns law and the administration of justice. Hegel’s theory of law has been notoriously difficult to characterize. This is likely, in part, because Hegel uses common terms in an uncommon ways.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      Hegel clearly accepts a strong link between morality and law suggesting he endorses some variety of natural law. Like other natural lawyers, Hegel claims “what is law [*Gesetz*] may differ in content from what is right in itself” (*PR* §212). Something can be lawful yet unjust – and this having a higher standard of justice by which he can assess posited law is a common feature of natural law jurisprudence.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      But what is different is that, traditionally, natural lawyers have developed their understanding of the standard of moral justice to be applied to an assessment of law prior to that assessment. For example, the moral standard would be worked out first and then applied afterwards. This leads some critics of natural law to claim that this approach uses extralegal standards and reasoning to assess law and so really engaging in moral philosophy rather than legal thought.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      Hegel’s perspective is unique (Brudner 2017)[^brudner-2017]. He accepts the positivist view that our understanding of law must be centred on the law itself rather than extralegal considerations. He says “what is *legal* [*gesetzmāßig*] is … the source of cognition of what is right [*Recht*], or more precisely, of what is *lawful* [*Rechtens*]” (*PR* §212 Remark). So we start first from a close look at the law before us – whatever it is – and not develop some normative standard separately beforehand. For Hegel, we do not comprehend this standard separately from the law, but immanently within it.
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      He says: “the scope of the law [*Gesetz*] ought on the one hand to be that of a complete and self-contained whole, but on the other hand, there is a constant need for new legal determinations [*gesetzlicher* *Bestimmungen*]” (*PR* §216). Hegel is claiming the law aspires to be a complete whole and, where we find gaps or inconsistencies, our task is to work out how these can be addressed within the law as a self-contained whole in language echoing Ronald Dworkin’s (1977) use of legal principles a century later. Thus, Hegel looks to the law for the ethical principles that can be used to continually reform our legal system into the complete whole it aspires to be. This “natural law internalism” discerns its principles from within the law rather than from outside it (Brooks 2017b)[^brooks-2017b].
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      The development of law is crucially not a project for professionals alone. Hegel makes a powerful case for the right to trial by jury (*PR* §228 Remark). His argument is that without a jury of ordinary citizens there is no guarantee that a citizen would have a reasonable chance of understanding the charges, evidence and outcome, especially if convicted and punished. This is because the law is a technical language which risks becoming the exclusive property of a professional class. The best guarantee of law’s publicity and connection to a public view of right is to ensure a jury is convinced – if they can understand the trial and come to a view, then Hegel finds it reasonable to expect the defendant on trial can, too.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      It is here that Hegel revisits the justification of punishment. We now consider crime and punishment not in abstraction, but their concrete reality. Hegel begins by noting that the “outward existence” of a crime and its impact may not change the nature of a crime in its concept, but it does impact how we respond. This suggests that the same kind of crime can be punished more or less severely based, at least in part, on the circumstances. Such a view is starkly at odds with most retributivists where punishment should only be considered in relation to what an offender deserved on account of his moral responsibility for an offence.
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      Hegel makes clear that a crime’s “danger to civil society is a determination of its magnitude” where circumstances impact how we determine whether to punish, how much to punish and what form this might take. He notes “a penal code is therefore primarily a product of its time and of the current condition of civil society” (*PR* §218 Remark). He adds that “punishments are not unjust in and for themselves, but are proportionate to the conditions of their time” (*PR* §218 Addition). So the same crime committed in different circumstances would be punished differently. For example, a crime committed during civil war poses a greater threat to civil society than when at peace – and so the former would see the crimes punished more harshly. There is no difference in the offender or her responsibility. While desert matters, it is not the only factor which does. Hegel’s position is different from traditional retribution accounts where proportionality of wrongdoing is found in what an offender deserves and not influenced by non-desert factors like the stability of civil society.
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      These comments make clear a non-retributivist picture. This is consistent with a passage in his *Science of Logic* (*SL*), the text Hegel claims is presupposed as the foundation for the *PR*:
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      > Punishment, for example, has various determinations: it is retributive, a deterrent example as well, a threat used by the law as a deterrent, and also it brings the criminal to his senses and reforms him. Each of these different determinations has been considered the *ground of punishment*, because each is an essential determination, and therefore the others, as distinct from it, are determined as merely contingent relatively to it. *But the one which is taken as ground is still not the whole punishment itself* (*SL*, p. 465)
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Hegel’s argument is clearer here. Desert grounds punishment: only the deserving can be liable to be punished. But it does not have a monopoly on the amount or form that punishment can take. This picture is consistent with Hegel’s comments in the *PR* where the outward existence of punishment may be different depending on circumstances. It should be unsurprising to find that Hegel, who repeatedly defends various groupings of three in his work would seek to combine retribution, deterrence and rehabilitation in a new format – taking common concepts in uncommon ways. This was not lost on his earliest interpreters in the UK, as British Idealists like Green, Bradley and others held similar three-in-one views on punishment and rejected traditional accounts of retributivism (Bradley 1894, Brooks 2003, 2011, Green 1986:138–59, Seth 1916:310–23)[^bradley-1894][^brooks-2003][^green-1986][^seth-1916]. This view has been called the “unified theory of punishment” (Brooks 2017a, 2021:143–79)[^brooks-2017a].
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      ## 10. The State
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Hegel’s final section of “Ethical Life” is the state. The love for others based on feeling in the family and then on the satisfaction of needs in civil society is transformed to a patriotic love for fellow citizens in support of a shared community, embodied by the modern state (see *PR* §268). Moreover, the individual pursuit of the satisfaction of needs leads to the development of the state.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      For Hegel, it is only in the state that the family develops into civil society and where civil society gains greater “actuality” (*PR* §256–57). The state is where our “concrete freedom” is realized as we conceive of ourselves in our full social and political reality (*PR* §260). It is only here that the individual is conceived at once as a member of a family, as a part of civil society and as a citizen of a state. While the stage where our freedom is realized most concretely, it is not the case that individual freedom is somehow a problem – our individual freedom has greatest actuality when mutually recognized by others in law. Hegel reflects that “it has often been said that the end of the state is the happiness of its citizens. This is certainly true, for if their welfare is deficient, if their subjective ends are not satisfied, and if they do not find that the state as such is the means to this satisfaction, the state itself stands on an insecure footing” (*PR* §265 Addition). Hegel’s state is a community where individuals and their individuality are meant to flourish.
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      Hegel’s conception of the state’s composition is controversial. He seeks to unify the three traditional models of government – aristocracy, democracy and monarchy – under a new form of representative government with a constitutional monarch (Deranty 2001)[^deranty-2001]. Hegel proposes an Estates Assembly with the natural aristocracy of the agrarian class in one chamber and representatives from different trades in another. Hegel believed that representing a locality based on geography was arbitrary and lacking substance. He claimed a stronger ethical relation could be formed through representation of people through their work.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      Hegel’s state is headed by a hereditary monarch (§273 Remark, Brudner 1981, Redding 1994)[^brudner-1981][^redding-1994]. He claims the state requires someone to provide unity as an individual to the individual state, a someone to declare the state confirms a law as its law or agrees treaties with foreign countries. An elected monarch or president as head of state is objectionable because such a person would represent the interests of supporters. This would create a barrier for the monarch to truly speak with one voice on behalf of the country – and so the monarch should be above such partisanship. A hereditary monarch would provide some basis for there being a head of state that could represent all and provide the unity required.
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      While virtually no commentator is convinced by Hegel’s justification of constitutional monarch, the orthodox view is that the monarch is a rubber stamp (Yack 1980)[^yack-1980]. Hegel remarks that “in a fully organized state … all that is required in a monarch is someone to say ‘yes’ and to dot the ‘I’; for the supreme office should be such that the particular character of its occupant is of no significance” (*PR* §280 Addition). Some have drawn comparisons with the UK’s constitutional monarchy, where laws require the Assent of Her Majesty The Queen but where this is automatically done when requested by Parliament for example (Findlay 1958).
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      The real power is behind the throne and held by an educated governing cabinet [*Ministerium*], often referred to as the bureaucracy. It is these advisors to the monarch who propose new laws, via the responsible cabinet minister. These ministers, and not the monarch, are answerable to the legislature whose role is to consider proposals and either enact or reject them.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      There is reason to doubt this picture (Brooks 2007)[^brooks-2007]. The monarch cannot act arbitrarily. In being “bound by the concrete content of the advice he receives,” he must be able to discern this content (*PR* §279 Addition). And Hegel is critical of the UK’s constitutional monarchy post-Civil War noting that “since 1692 there has never been a case of the king’s vetoing a parliamentary decree” with the consequence that it “reduces him virtually to a cipher” and he should be more active on state matters – and, presumably, making his own judgements whether to support proposed legislation or not in recommending it for approval to the legislature (*LNR* §133 Remark*)*. While the ministers advising him should be of rough equality making little difference who is in which role, the monarch has full discretion to hire and fire anyone at will from an eligible pool. Moreover, it is the monarch advised by his relevant minister who agree treaties and decide all matters of war and peace (*PR* §329). Given the monarch cannot be removed from office, this gives him considerable powers in foreign affairs raising questions about how relatively powerless, if at all, he really is.
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      ## 11. War and International Relations
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      The state has an “immediate actuality” in terms of its internal organization as discussed above, but it further determines itself internationally in relation to other states (*PR* §259). This part of the *PR* is the least worked out and detailed.
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      Hegel accepts a broadly Westphalian and realist view of international relations whereby the primary actors are states each prioritizing the pursuit of their individual welfare (*PR* §336, Smith 1983)[^smith-1983]. States interact with each other like individuals in an anarchic global space. Without any governing global authority, states can come into conflict with each other. He says “wars must be regarded as necessary because independent peoples exist alongside one another” (*LNR* §160 Remark). This is not a justification or glorification of war, but a recognition that states are in a state of nature where war is occasionally unavoidable (see *LNR* §162 Remark). States should aim to enable other states “to live at peace with it” and “war is that of something which ought to come to an end” (*PR* §338).
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      But it is also the case that Hegel saw war as testing the relative health of states where those most rationally organized should triumph over less well ethically structured states. Combined with his rejection of Kant’s proposals for perpetual peace, it has led some to question whether or not war plays a positive, and troubling, role in his philosophy (Avineri 1961, Black 1973, Shelton 2000, Walt 1989)[^avineri-1961][^black-1973][^shelton-2000][^walt-1989]. Hegel also comments that “modern wars are accordingly waged in a humane manner, and all persons do not confront each other in hatred” which can give the impression that modern wars are of an improved ethical quality than past wars – when the opposite appears true (*PR* §338 Addition).
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      The only judge of relative rights and wrongs in the international sphere is “world history as the world’s court of judgement” (*PR* §340). The *PR* then transitions to the start of an account of the philosophy of history in the next part of his system, which presupposes all parts preceding it not least the *PR* itself.
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: oir
+    source: |-
+      - [Hegel Society of America homepage](http://www.hegel.org/index.html)
+      - [Hegel Society of Great Britain homepage](https://hegel-society.org.uk/)
+    step1: TBD
+    step2: TBD
