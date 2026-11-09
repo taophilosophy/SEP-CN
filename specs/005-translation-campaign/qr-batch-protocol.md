@@ -152,3 +152,30 @@ python -c "import json;d=json.load(open('specs/005-translation-campaign/results/
 ```
 
 **在途件 religion-epistemology（r 批，chunk 2）**：任务已 clear、账本 56 段双版已填、`r/religion-epistemology.md` 已成稿，但 state 仍 cleared。接手者：`qr_merge --status` 确认 0 未填 → `lq.py check` → `compose --write` → 四检 → advance draft/s1/s2/s3。
+
+## 10. 复核线标准作业（r1 → r2 → r3 → done，独立于译者）
+
+复核员（或 Lead 单会话复核时）对每条 `s3_checked` 词条执行；**不得**由初译 actor 执行，单会话情形须冷置并留痕（rules/04 ADR-0020）。
+
+**r1 初审（对照原文自审，问题分级）**
+
+1. 通读 `yuanwen/<letter>/<slug>.md` 与成稿 `<letter>/<slug>.md` 逐节对位：节集合与编号、版本事实行、导言、脚注键闭环、参考文献（含中国文献条款）、图片路径、公式块。
+2. 按 MQM 分级记问题：Critical（立场改变/事实错误/术语反用）、Major（破句/漏译/增译）、Minor（措辞/标点）；Critical 必须在 r1 修完。
+3. 逐处手改；改完重跑四检。凭证写「问题清单（分级）+ 落点行号」。
+
+**r2 复审（逐句回核原文与逻辑）**
+
+1. 逐句比读，重点：术语漂移（grep 登记册主形）、指代显化、数字/人名/年份、引文与页码、欧化句（rules/02 反欧化 12 条）。
+2. `python tools/check_prose.py <letter>/<slug>.md`、`python tools/check_terms.py --docs <letter>/<slug>.md`（告警逐条处理或留痕）。
+3. 修改后再跑四检；凭证写「逐句核销范围 + 修改处」。
+
+**r3 终审（终稿验收）**
+
+1. 冷置后回读（中间至少隔一条其他词条）。
+2. 结构完整性终验（源节集合齐备有序）+ H1 与 SUMMARY 该行逐字一致。
+3. 四检全绿：`check_style`（0 issue）、`check_academic --docs … --strict`（0 硬错误）、`check_math <slug>`（0 缺失/失衡）、`check_prose`（0 告警或逐条豁免留痕）。
+4. `task_ops.py advance <slug> --step r3 --actor … --evidence …` → `--step done`；pathspec 提交。
+
+**命令补充**：`python tools/check_style.py <letter>/<slug>.md`（无 --strict 开关，退出码 0 即无问题）；`python tools/check_math.py <slug>`（按 slug，不带目录）。
+
+**记账**：每条 done 后 `python tools/progress.py` 重生成 PROGRESS.md，随下一批提交。

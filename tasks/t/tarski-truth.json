@@ -1,0 +1,22 @@
+{
+  "slug": "tarski-truth",
+  "kind": "retranslate",
+  "zh_doc": "t/tarski-truth.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-08T13:35:13Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-08T13:35:12Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 21, 2022",
+    "archive_edition": "Winter 2022",
+    "sha256": "62f20ef7268642d68b26203a72fdb7e4a556f62472923411bdafc07bea920a54"
+  }
+}

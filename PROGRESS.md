@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 06:51（UTC）
+生成时间：2026-11-09 08:04（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1161|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|231|
-|在途（drafted 起、done 前）|245|
+|已完成（done）|232|
+|在途（drafted 起、done 前）|244|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,13 +23,13 @@
 |状态|数量|
 |---|---|
 |pending|685|
-|cleared|162|
-|drafted|5|
+|cleared|159|
+|drafted|6|
 |s1_checked|1|
-|s2_checked|1|
-|s3_checked|72|
+|s3_checked|73|
 |r1_reviewed|4|
-|done|231|
+|r2_reviewed|1|
+|done|232|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -44,7 +44,7 @@
 |G|49|49|49|2|
 |H|61|61|61|11|
 |I|75|75|75|22|
-|J|38|38|38|8|
+|J|38|38|38|9|
 |K|36|36|36|21|
 |L|144|144|22|18|
 |M|139|139|14|6|
@@ -72,7 +72,7 @@
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-cogsci|retranslate|cleared|task_ops 2026-10-31|
 |affirmative-action|retranslate|cleared|task_ops 2026-10-31|
-|african-ethics|retranslate|cleared|task_ops 2026-10-31|
+|african-ethics|retranslate|s1_checked|A3-main-20261109 2026-11-09|
 |africana-contemporary|retranslate|cleared|task_ops 2026-10-31|
 |afterlife|retranslate|cleared|task_ops 2026-10-31|
 |agency|retranslate|cleared|task_ops 2026-10-31|
@@ -118,7 +118,7 @@
 |bradley|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |bradley-regress|retranslate|cleared|task_ops 2026-11-01|
 |branching-time|retranslate|cleared|task_ops 2026-11-01|
-|brentano|retranslate|s1_checked|B-main-20261109b 2026-11-09|
+|brentano|retranslate|s3_checked|B-main-20261109b 2026-11-09|
 |brentano-judgement|retranslate|s3_checked|B-main-20261109b 2026-11-09|
 |broad|retranslate|cleared|task_ops 2026-11-01|
 |brouwer|retranslate|drafted|? 2026-11-01|
@@ -132,7 +132,7 @@
 |burley|retranslate|cleared|task_ops 2026-11-01|
 |butler-moral|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |byzantine-philosophy|retranslate|cleared|task_ops 2026-11-01|
-|cambridge-platonists|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
+|cambridge-platonists|retranslate|r2_reviewed|REV-main-20261109 2026-11-09|
 |cancer|retranslate|cleared|task_ops 2026-11-07|
 |carneades|retranslate|s3_checked|主代理 2026-11-01|
 |cassirer|retranslate|s3_checked|主代理 2026-11-01|
@@ -191,11 +191,11 @@
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
 |george-eliot|retranslate|cleared|task_ops 2026-11-01|
-|gianfrancesco-pico|retranslate|s2_checked|g-beta-G-main-20261109 2026-11-09|
+|gianfrancesco-pico|retranslate|s3_checked|g-beta-G-main-20261109 2026-11-09|
 |giles|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
 |god-necessary-being|retranslate|s3_checked|g-gamma-G-main-20261109 2026-11-09|
-|godwin|retranslate|cleared|task_ops 2026-11-09|
+|godwin|retranslate|drafted|g-gamma-G-main-20261109 2026-11-09|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
 |gorampa|retranslate|s3_checked|lead-G-main-20261109 2026-11-09|
@@ -209,7 +209,7 @@
 |hedonism|retranslate|cleared|task_ops 2026-11-01|
 |hegel-dialectics|retranslate|cleared|task_ops 2026-11-01|
 |hegel-social-political|retranslate|cleared|task_ops 2026-11-01|
-|heraclitus|retranslate|cleared|EH-main-20261106 2026-11-06|
+|heraclitus|retranslate|r1_reviewed|H-main-20261109 2026-11-09|
 |heritability|retranslate|cleared|task_ops 2026-11-01|
 |hermann-helmholtz|retranslate|cleared|task_ops 2026-11-01|
 |hermann-lotze|retranslate|cleared|task_ops 2026-11-01|
@@ -263,7 +263,6 @@
 |justice-retributive|retranslate|cleared|task_ops 2026-11-01|
 |justice-transitional|retranslate|cleared|task_ops 2026-11-01|
 |justification-public|retranslate|cleared|task_ops 2026-11-01|
-|justus-lipsius|retranslate|s3_checked|? 2026-11-06|
 |kant|retranslate|cleared|task_ops 2026-11-01|
 |kant-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |kant-conceptualism|retranslate|cleared|task_ops 2026-11-01|

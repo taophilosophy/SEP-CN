@@ -1,0 +1,183 @@
+version: 1
+slug: penbygull
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Wyclif’s logico-metaphysical works were very influential at Oxford at the end of the 14th century and the beginning of the 15th. Among the authors who followed his doctrines (the so called Oxford Realists), William Penbygull (+1420) was almost certainly the most faithful to the master, since his extant writings appear to be essentially devoted to a defence and/or explanation of Wyclif’s main philosophical theses. Notwithstanding such an attitude, Penbygull made an original contribution to logic by developing a new theory of identity, which solved the problems that Wyclif’s analysis of predication had raised, and by refining Wyclif’s theory of predication itself.
+    step1: |-
+      威克里夫的逻辑—形而上学著作，在 14 世纪末与 15 世纪初的牛津影响甚巨。在追随其学说的一批作者（即所谓牛津实在论者）当中，威廉·彭比尔（William Penbygull，卒于 1420）几乎可以肯定是最忠实于老师的一位，因为他现存的著作基本上都在为威克里夫的主要哲学论题作辩护和／或阐释。尽管持这种态度，彭比尔仍在逻辑上作出了独创性贡献：他发展出一种新的同一性理论，解决了威克里夫对谓述的分析所引发的那些问题，并对威克里夫的谓述理论本身作了精细化的改进。
+    step2: |-
+      威克里夫的逻辑学与形而上学著作，在 14 世纪末至 15 世纪初的牛津影响深远。在追随其学说的作者群（即所谓牛津实在论者）中，威廉·彭比尔（William Penbygull，卒于 1420）几乎无疑是最忠实于师说的一位：其存世著作大体都在辩护或阐释威克里夫的主要哲学论题。不过，彭比尔仍对逻辑学作出了独创贡献——他提出一种新的同一性理论，化解了威克里夫谓述分析所引发的难题，并把威克里夫的谓述理论本身进一步精细化。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      The information on the life and works of William Penbygull (or Penbegyll) is scanty. He was from Exeter diocese; he studied at Oxford, where he was fellow of Exeter College in 1399, and rector in 1406–07. He was licensed to preach in the diocese of Bath and Wells on 28 February 1410. He probably died at Oxford in 1420. According to Emden 1957–59, he wrote the following treatises on logic: *De universalibus* (*On Universals*), *Divisio entis* (*The Division of Being*), and *Super Porphyrii Isagogen* (*On Porphyry’s Isagoge*).
+    step1: |-
+      关于威廉·彭比尔（或拼作 Penbegyll）的生平与著作，资料颇为稀少。他来自埃克塞特（Exeter）教区；他就读于牛津，1399 年任埃克塞特学院（Exeter College）评议员（fellow），1406–07 年任院长（rector）。1410 年 2 月 28 日，他获准在巴斯与韦尔斯（Bath and Wells）教区讲道。他可能于 1420 年在牛津去世。据 Emden 1957–59，他写有下列逻辑论著：《论共相》（*De universalibus*，On Universals）、《存在的划分》（*Divisio entis*，The Division of Being）与《波菲利〈导论〉评注》（*Super Porphyrii Isagogen*，On Porphyry's Isagoge）。
+    step2: |-
+      威廉·彭比尔（又拼 Penbegyll）的生平与著作资料甚少。他出身埃克塞特（Exeter）教区，在牛津求学，1399 年成为埃克塞特学院评议员（fellow），1406–07 年任院长（rector）；1410 年 2 月 28 日获准在巴斯与韦尔斯（Bath and Wells）教区讲道。他大约于 1420 年在牛津去世。据 Emden 1957–59 所载，他撰有下述逻辑论著：《论共相》（*De universalibus*，On Universals）、《存在的划分》（*Divisio entis*，The Division of Being）与《波菲利〈导论〉评注》（*Super Porphyrii Isagogen*，On Porphyry's Isagoge）。
+  - id: 4
+    kind: body
+    source: |-
+      The treatise on universals is a work of around 30–35 printed pages, which, despite its brevity, is of some philosophical depth. It consists of the same textual material as Roger Whelpdale’s (d. 1423) *Tractatus de universalibus* for about half of its extension; however they have different doctrinal outcomes: while Penbygull’s treatise is aimed to be a discussion and defence of Wyclif’s theses on universals and predication, such a purpose seems to be alien to Whelpdale’s. Furthermore, in Whelpdale’s tract is absent that particular theory of identity and distinction that we find clearly exposed in Penbygull’s *De universalibus* and mentioned in Scharpe’s *Quaestio super universalia* and in Milverley’s *Compendium de quinque universalibus*. Yet, they both remained very close to Wyclif’s teaching as manifested in the *Purgans errores circa universalia in communi*, since they divided predication into formal (*formalis*), by essence (*secundum essentiam*), and causal (*secundum causam*), and considered these three kinds of predication mutually exclusive.
+    step1: |-
+      这部论共相的著作篇幅约 30–35 个印刷页，尽管简短，却有相当的哲学深度。在其约一半的篇幅中，它与罗杰·惠尔普代尔（Roger Whelpdale，卒于 1423）的《论共相》（*Tractatus de universalibus*）使用同样的文本材料；然而两者的教义结局不同：彭比尔的论著旨在讨论与捍卫威克里夫关于共相与谓述的论题，而这样的目的似乎与惠尔普代尔的论著相异。此外，惠尔普代尔的论著缺少那种特殊的同一性与区分理论——我们在彭比尔的《论共相》（*De universalibus*）中看到它得到清晰的阐述，在夏普（Scharpe）的《共相问题》（*Quaestio super universalia*）与米尔弗利（Milverley）的《五共相纲要》（*Compendium de quinque universalibus*）中它也被提及。不过，两者都非常接近威克里夫在《斥共相通论之误》（*Purgans errores circa universalia in communi*）中所展示的教导，因为它们把谓述分为形式的（*formalis*）、依本质的（*secundum essentiam*）与因果的（*secundum causam*），并认为这三种谓述相互排斥。
+    step2: |-
+      论共相的这部著作约 30–35 个印刷页，篇幅虽短，却有相当的哲学深度。约一半篇幅与罗杰·惠尔普代尔（Roger Whelpdale，卒于 1423）的《论共相》（*Tractatus de universalibus*）共用同一批文本材料，但两者的学说旨趣迥异：彭比尔的论著旨在讨论并捍卫威克里夫关于共相与谓述的论题，这种目的在惠尔普代尔那里似乎全然缺席。此外，惠尔普代尔的论著中不见那套特殊的同一性与区分理论——它清晰地呈现在彭比尔的《论共相》（*De universalibus*）里，夏普（Scharpe）的《共相问题》（*Quaestio super universalia*）与米尔弗利（Milverley）的《五共相纲要》（*Compendium de quinque universalibus*）也曾提及。尽管如此，两者都紧随威克里夫在《斥共相通论之误》（*Purgans errores circa universalia in communi*）中示现的教导：把谓述分为形式的（*formalis*）、依本质的（*secundum essentiam*）与因果的（*secundum causam*）三类，并视之为互斥。
+  - id: 5
+    kind: body
+    source: |-
+      ## 2. The Oxford Realists on Universals and Predication
+    step1: |-
+      ## 2 牛津实在论者论共相与谓述
+    step2: |-
+      ## 2 牛津实在论者论共相与谓述
+  - id: 6
+    kind: body
+    source: |-
+      As is well known, in the second and third decades of the fourteenth century, Ockham argued that the common realist account of the relationship between universals and individuals was incoherent. His central argument was that if universals are something existing *in re*, really identical with their individuals, then whatever is predicated of individuals must be predicated of their universals too. Hence a unique universal entity (say, human nature) would possess contrary attributes simultaneously (short and tall, young and old), just as different individuals do. This is clearly unacceptable (*In Praedicamenta* 8.1; *Summa logicae* I, 15). Later medieval Realists conceded that the traditional explanation of the universals-individulas relation was questionable, but they were confident that realism was still preferable to nominalism. It was simply a matter of finding the right countermeasures. Two fundamental strategies emerged: either to accept a real distinction between universals and particulars, or to elaborate new notions of identity and distinction. The first strategy was adopted solely by Walter Burley; the second, developed by many authors, took two different approaches: one inspired by Hervaeus Natalis’s notion of conformity and one (the predominant one) inspired by Duns Scotus’s formal distinction. This second approach was that of the most important school of later medieval Realists: the so-called *Oxford Realists*, started by John Wyclif.
+    step1: |-
+      众所周知，在十四世纪二十与三十年代，奥卡姆论证说：关于共相与个体之间关系的通行实在论说明是不融贯的。其核心论证是：如果共相是存在于事物之中（*in re*）的东西、与其个体实在地同一，那么凡是谓述个体的东西也必定谓述其共相。于是，一个独一无二的普遍实体（比如说人性）就会像不同的个体那样同时拥有相反的属性（既矮又高、既老又少）。这显然不可接受（*In Praedicamenta* 8.1；*Summa logicae* I, 15）。后期中世纪实在论者承认，对共相—个体关系的传统解释有问题，但他们仍自信实在论优于唯名论；问题只在于找到正确的对策。由此出现两种基本策略：要么承认共相与殊相之间存在实在区分，要么发展新的同一性与区分概念。前一策略只为沃尔特·伯利（Walter Burley）一人采纳；后一策略由许多作者发展，又分两条路径：一条受埃尔韦·纳塔利（Hervaeus Natalis）的“符合”（conformity）概念启发，另一条（占主导地位的一条）受邓斯·司各脱（Duns Scotus）的形式区分启发。第二条路径属于后期中世纪实在论者最重要的学派——由约翰·威克里夫（John Wyclif）开创的所谓*牛津实在论者*（Oxford Realists）。
+    step2: |-
+      众所周知，十四世纪二三十年代，奥卡姆论证了通行的实在论说明——即关于共相与个体关系的那种说明——并不融贯。其核心论证是：若共相是存在于事物之中（*in re*）的东西，且与其个体实在同一，则凡可谓述个体者必可谓述其共相。如此一来，独一无二的普遍实体（比如人性）便会像不同的个体一样同时具有相反属性（既矮又高、既老又少）。这显然不可接受（*In Praedicamenta* 8.1；*Summa logicae* I, 15）。后期中世纪的实在论者承认，对共相—个体关系的传统解释确有可疑之处，但他们坚信实在论仍然优于唯名论，剩下的问题只是找到正确的对策。由此形成两种基本策略：或者承认共相与殊相之间有实在区分，或者精心构造新的同一性与区分概念。前者仅沃尔特·伯利（Walter Burley）一人采用；后者由众多作者发展，又分两路：一路受埃尔韦·纳塔利（Hervaeus Natalis）的“符合”（conformity）概念启发，另一路（也是主流）受邓斯·司各脱（Duns Scotus）的形式区分启发。后一路径正是后期中世纪实在论最重要学派——由约翰·威克里夫（John Wyclif）开创的所谓*牛津实在论者*（Oxford Realists）——所取的路径。
+  - id: 7
+    kind: body
+    source: |-
+      He presents his opinion on universals as intermediate between those of Thomas Aquinas and Giles of Rome, on the one side, and Walter Burley, on the other (see the entry on Wyclif). Like Giles Wyclif recognizes three main kinds of universals: (1) ideal universals, which are the ideas in God and archetypes of all that is; (2) formal universals, which are the common natures shared by individual things; and (3) intentional universals, which are the mental signs by which we refer to the formal universals, or universals *in re*. On the other hand, like Burley, Wyclif holds that formal universals exist outside our minds *in actu* and not *in potentia*, even if, unlike Burley, he maintains that they are really identical with their own individuals (*De enti in communi*, ch. 5. p. 58). More precisely, universals and individuals are really the same but formally distinct, since they share the same empirical reality, which is that of individuals, but if considered as universals and individuals, they have opposite constituent principles: the generality or natural-tendency-to-be-common for universals, and the thisness or impossibility-of-being-common for individuals (see *Tractatus de universalibus*, ch. 2, pp. 62–63, ch. 4, pp. 86–87; ch. 10, pp. 208–13).
+    step1: TBD
+    step2: TBD
+  - id: 8
+    kind: body
+    source: |-
+      This description of the logical relationship between universals and individuals entailed the possibility of an indirect inherence of an accidental form in a substantial universal and of a second intention in any other. Therefore in the *Tractatus de universalibus* Wyclif distinguished three main types of real predication in order to guarantee such possibilities: formal predication (*praedicatio formalis*), predication by essence (*praedicatio secundum essentiam*), and predication by relation (*praedicatio secundum habitudinem*). These three kinds of predication are described by him as three non-mutually exclusive ways of predicating, each more general than the preceding (*Tractatus de universalibus*, ch. 1, p. 35), but it is evident that predication by relation does not require any kind of identity between the entities signified by the subject and predicate terms in the same way as formal predication and predication by essence do. Formal predication is that in which the form designated by the predicate-term is directly present in the entity signified by the subject- term. Predication by essence (note that in this expression the term ‘essence’ has Wyclif’s technical meaning of *real entity with a given nature*—see the entry on Wyclif) is that in which the same empirical reality is both the real subject and predicate, even though the formal principle connoted by the predicate-term differs from that connoted by the subject-term. ‘God is man’ and ‘The universal is particular’ are instances of this kind of predication. Finally, predication by relation is that in which the form connoted by the predicate-term does not inhere, directly or indirectly (namely, not by itself but by means of something that is directly present in the thing signified by the subject-term), in the essence designated by the subject but simply implies a relation to it, so that the same predicate may be at different times said truly or falsely of its subject without any change in the subject itself (*Tractatus de universalibus*, ch. 1, p. 34). According to Wyclif, we use such predication mainly to express theological truths, such as God is known and loved by many creatures or brings about, as efficient, exemplar, and final cause many good effects.
+    step1: TBD
+    step2: TBD
+  - id: 9
+    kind: body
+    source: |-
+      As we have seen, the ontological presuppositions of the most general type of predication differ completely from those of the other two types by which it is implied. The final result of Wyclif’s choices was therefore an incompletely developed system of intensional logic that he superimposed on the traditional system. Because the ontological basis of the most general type of predication, namely habitudinal predication, is completely different from those of the other two types of predication that should imply it, Alyngton and other Oxford authors of the subsequent generation tried to improve Wyclif’s theory by excluding habitudinal predication and redefining the other two kinds in a slightly different way.
+    step1: TBD
+    step2: TBD
+  - id: 10
+    kind: body
+    source: |-
+      According to Alyngton, who depends on Avicenna and Wyclif on this topic, the formal universals are common natures in virtue of which the individuals that share them are exactly what they are, just as humanity is the form by which every man formally is a man. Unlike Wyclif, however, he does not think that universals exist *in actu* in the external world (see Alyngton, *Litteralis sententia super Praedicamenta Aristotelis*., ch. *de substantia*, in A.D. Conti, “Linguaggio e realtà nel commento alle *Categorie* di Robert Alyngton,” Appendix (provisional edition of part of Alyngton’s commentary on the *Categories*), *Documenti e studi sulla tradizione filosofica medievale*, 4 (1993): 179–306, at p. 279). As natures, they are prior and indifferent to any division into universals and individuals. Although universality is not a constitutive mark of the nature itself, it is its unique, inseparable property. Also for Alyngton, universals are really identical-to and formally distinct-from their individuals. In fact, universals are formal causes in relation to their own individuals, while individuals are material causes in relation to their universals (see *Litteralis sententia super Praedicamenta Aristotelis*., ch. *de substantia*, pp. 275–76). On this basis, Alyngton stated that (1) a universal in the category of substance can directly receive only the predications of substantial forms more common than it. So, for instance, only *corporeity* and *animality* can be directly predicated of *humanity*. And (2) the accidental forms inhering in individual substances can be predicated of the universal substantial form that those individuals instantiate only indirectly (or *essentialiter* according to his terminology) through and in virtue of the individuals themselves of that substantial form (see *Litteralis sententia super Praedicamenta Aristotelis*., ch. *de substantia*, pp. 288–89). For instance, the general form of *whiteness* can be indirectly predicated of the general form of *humanity* in virtue of the individual forms of *whiteness* which inhere in individual men.
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      For this reason, Alyngton’s description of the logical structure of the relationship between universals and individuals demanded a redefinition of predication. Indeed, he was the first one to ameliorate Wyclif ’s theory by dividing predication into (1) formal predication (*praedicatio formalis*) and (2) remote inherence (*inhaerentia remota*)—or, in other words, predication by essence (*praedicatio secundum essentiam*). Remote inherence is grounded on a partial identity between subject and predicate, which share some, but not all, metaphysical constituents, and does not demand that the form signified by the predicate-term be directly present in the entity signified by the subject-term. On the contrary, such a direct presence is required by formal predication. ‘Man is an animal’ and ‘Socrates is white’ are instances of formal predication; ‘(What is) singular is (what is) common’ (‘*singulare est commune*’) and ‘Humanity is (something) running’ (‘*humanitas est currens*’) are instances of remote inherence, since, according to Alyngton, the property of running is imputable to the form of humanity, if at least one man is running. He is careful, however, to use a substantival adjective in its neuter form as a predicate-term, because only in this way can it appear that the form signified by the predicate-term is not directly present in the subject, but is indirectly attributed to it through its individuals (see *Litteralis sententia super Praedicamenta Aristotelis*., ch. *de substantia*, p. 289—see the entry on Alyngton).
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      The starting point of Penbygull’s theories on universals and predication are those worked out by Wyclif and his Oxford follower Robert Alyngton.
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      ## 3. Penbygull on Universals and Predication
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      Like many other Oxford Realists, Penbygull lists three main kinds of universals: (i) the metaphysical causes of everything, like God and the angelic intelligences; (ii) the general concepts abstracted by our mind, or mental universals; and (iii) the common natures existing in the singulars, or real universals (*De universalibus*, p. 178). Such common natures are type-forms naturally apt to be present-in and predicated-of a set of individuals, which therefore instantiate them. Real universals are the main metaphysical components of the individuals, but they have no being outside the being of their individuals, as universals and their individuals are really (*realiter*) the same and only formally (*formaliter*) distinct (*De universalibus*, p. 189). In fact, real universals are identical with their own individuals when considered as natures of a certain kind (for instance, man is the same thing as Socrates), but different from them when considered *qua* universals and *qua* individuals respectively, because of the opposite constitutive principles: generality for universals and thisness for individuals (*De universalibus*, p. 181).
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      Like Walter Burley and Wyclif, Penbygull holds that such formal universals exist in act (*in actu*) outside our minds, and not in potency (*in potentia*) only, as moderate realists (like St. Thomas Aquinas) thought, since for Penbygull the necessary and sufficient condition that a thing must meet for being a universal is the existence of at least one individual in which it is present (*De universalibus*, p. 178). So the actual existence of universals depends entirely on that of their individuals; without them, common natures could not be really universals.
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      On the logical side, this description of the relationship between universals and individuals in terms of real identity and formal distinction, entails that not all that is predicated of individuals can be *directly* (*formaliter*) attributed to their universals and *vice versa*. In particular, the accidental forms inhering in substantial individuals (for instance, the whiteness inhering in Socrates) can be predicated of the universal forms proper to these individuals (for instance, the form of humanity or that of animality) only *indirectly* (*essentialiter*), through and in virtue of the individuals themselves. As a consequence, a redefinition of the standard kinds predication and the introduction of a new type, unknown to Aristotle, was required, in order to cover the cases of indirect inherence of an accidental form in a substantial universal, admitted by this theory.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      Penbygull, like other Oxford logicians of his generation, tried to improve Wyclif’s theory by excluding predication by relation and redefining the other two kinds in a slightly different way. Penbygull therefore divides predication (which he conceives as a real relation which holds between metaphysical objects [*De universalibus*, p. 188]) into formal predication (*praedicatio formalis*), predication by essence (*secundum essentiam*), and causal predication. Predication by essence shows a partial identity between subject and predicate, which share some, but not all, metaphysical component parts, and does not require that the form connotated by the predicate-term be directly present in the essence denotated by the subject-term. Formal predication, on the contrary, requires such a direct presence. If the form connotated by the predicate-term is intrinsic to the nature of the subject, then the predication is a case of formal essential predication, while if it is extrinsic, the predication is a case of formal accidental predication. “Man is an animal” is an instance of formal essential predication; “Socrates is white” is an instance of formal accidental predication. Unlike Wyclif, who applied predication by essence to second intentions only—since he admitted sentences like “(What is) universal is (what is) singular” (that is, *universale est singulare*) as well-formed and true—Penbygull thinks that it holds also when applied to first intentions. So he claims that it is possible to predicate of the universal-man (*homo in communi*) the property of being white, if at least one of its individuals is white. However he makes sure to use as a predicate-term a substantival adjective in its neuter form, because only in this way can it appear that the form connoted by the predicate-term is not directly present in the subject, but is indirectly attributed to it, through its individuals. Therefore he acknowledges the proposition “The universal-man is (something) white” (*homo in communi est album*) as a true one, if at least one of the existing men is white (*De universalibus*, pp. 186–87). Finally, there is causal predication when the item signified by the predicate-term is not present in any way in the item signified by the subject-term, but the real subject has been caused by the real predicate (*De universalibus*, p. 188).
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      According to him formal essential predication and formal accidental predication would correspond to Aristotle’s essential and accidental predication. But, as a matter of fact, he agrees with Wyclif in regarding predication by essence as more general than formal predication. As a consequence, in his theory formal predication is a particular type of predication by essence. This means that he implicitly recognizes a single ontological pattern, founded on a sort of partial identity, as the basis of every kind of standard philosophical statement (subject, copula, predicate). But in this way, formal essential predication and formal accidental predication are very different from their Aristotelian models, as they express degrees of identity as well as predication by essence.
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      Formal accidental predication is then further divided into according to change/motion (*secundum motum*) and according to relation (*secundum habitudinem*) (see *De universalibus*, pp. 187–88). The basic idea of this last division seems to be that modes of being and natures of the accidental forms determine the set of substantial items which can play the role of their substrate. Penbygull distinguishes between those accidental forms that require a substance capable of undergoing change (*per se mobile*) as their own direct substrate of inherence, and those which do not need a substrate with such a characteristic. Forms like quantity, whiteness, alteration, diminution and so on belong to the first group, while relations of reason and *respectus*, like causation, difference, and so on, fall under the second one. The forms of the first group bring about formal accidental predication *secundum motum*, and the forms of the second group formal accidental predication *secundum habitudinem*. The former necessarily entail singular substances as their substrates, since individuals alone can undergo change, while the latter can directly inhere in both individual and universal substances (*insunt denominative tam communibus quam singularibus*—*De universalibus*, p. 188).
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      ## 4. Penbygull’s Theory of Identity
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      This interpretative scheme of the nature and kinds of predication is ultimately grounded on a notion of identity, necessarily different from the standard one. According to the most common opinion the logical criteria for identity and (real) distinction were the following:
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      > *a* is identical with *b* if and only if for all *x*, *x* is predicated of *a* iff it is predicated of *b*;
+      >
+      > *a* differs from (is [really] distinct from) *b* iff there is at least one *z* such that *a* is predicated of *z* and *b* is not, or *vice versa*, or there is at least one *w* such that *w* is predicated of *a* and not of *b*, or *vice versa*.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      On this basis one can easily conclude that universals and individuals can never be the same, at least because of the forms of generality (which cannot be predicated of individuals) and of thisness (which cannot be predicated of universals). So Penbygull had to put forward new criteria for identity and distinction. First of all, he distinguishes between the notion of non-identity and that of difference (or distinction) and denies that the notion of difference implies that of non-identity (*De universalibus*, p. 190); then he affirms that the two notions of difference and (real) identity are logically compatible (*ibid.*); finally he suggests the following definitions for these three notions non-identity, difference or distinction, and (absolute) identity (*De universalibus*, pp. 190–91):
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      > *a* is non-identical with *b* iff there is no form *F* such that *F* is present in the same way in *a* and *b*;
+      >
+      > *a* differs from *b* iff there is at least one form *F* such that *F* is *directly* present in *a* but not in *b* or vice versa;
+      >
+      > *a* is (absolutely) identical with *b* if and only if for any form *F*, *F* is present in *a* iff it is present *in the same way* in *b*.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      The criterion for non-identity is stronger than the common one for real distinction: two things can be qualified as non-identical iff they belong to distinct categories. On the other side, the definition of difference does not exclude the possibility that two things which differ from each other share one or more properties (or forms). Thus, there are degrees of distinction, and what is more, the degree of distinction between two things can be read as the inverse measure of their (partial) identity. For instance, if we compare the list of the forms (both substantial and accidental) which constitute Socrates and those which make up the universal-man, it is evident that Socrates and the universal-man differ from each other, since there are forms which directly inhere in Socrates and not in the universal-man and *vice versa*; but it is also evident that the two lists are identical for a long section, that is, that Socrates and the universal-man, considered from the point of view of their metaphysical composition, are partially the same. As a result, the copula of the propositions which Penbygull deals with cannot be extensionally interpreted, as it does not mean that a given object is a member of a certain set, nor that a given set is included in another, but it always means degrees in identity between two compound entities.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: TBD
+    step2: TBD

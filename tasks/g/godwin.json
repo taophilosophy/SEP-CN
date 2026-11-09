@@ -2,8 +2,23 @@
   "slug": "godwin",
   "kind": "retranslate",
   "zh_doc": "g/godwin.md",
-  "state": "pending",
-  "steps": [],
+  "state": "drafted",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T04:13:47Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "g-gamma-G-main-20261109",
+      "at": "2026-11-09T07:57:24Z",
+      "evidence": "账本 50 段双版齐（p1-p4 分批落盘并逐批提交）；lq check HARD=0，SOFT 15 条全为斜体→书名号转换（书刊名用《》替代斜体），逐条判读留痕；compose 写回 32379 字符；g_fix_h1 H1=SUMMARY 一致；italic_to_bold_cjk 0 行（正文无中文斜体）；g_check 全绿（style 0/math 0/academic strict OK/H1 一致）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:31:32Z",
   "version_pin": {

@@ -1,0 +1,550 @@
+version: 1
+slug: zeno-elea
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Zeno of Elea, 5th c. B.C.E. thinker, is known exclusively for propounding a number of ingenious paradoxes. The most famous of these purport to show that motion is impossible by bringing to light apparent or latent contradictions in ordinary assumptions regarding its occurrence. Zeno also argued against the commonsense assumption that there are many things by showing in various ways how it, too, leads to contradiction. We may never know just what led Zeno to develop his famous paradoxes. While it is typically said that he aimed to defend the paradoxical monism of his Eleatic mentor, Parmenides, the Platonic evidence on which this view has resided ultimately fails to support it. Since Zeno’s arguments in fact tend to problematize the application of quantitative conceptions to physical bodies and to spatial expanses as ordinarily conceived, the paradoxes may have originated in reflection upon Pythagorean efforts to apply mathematical notions to the natural world. Zeno’s paradoxes have had a lasting impact through the attempts, from Aristotle down to the present day, to respond to the problems they raise. Since the subject of this article is Zeno himself, it undertakes to provide an historically accurate overview of his own thought, rather than an account of how philosophers, mathematicians, and physicists have responded to his provocative arguments.
+    step1: |-
+      爱利亚的芝诺，公元前 5 世纪思想家，仅以其提出的一系列精巧悖论而为人所知。其中最著名的几个悖论意在表明运动是不可能的，办法是揭示关于运动发生的通常假定中显见的或潜在的矛盾。芝诺也反对存在许多事物这一常识假定，办法是以各种方式表明它同样导致矛盾。我们或许永远不会知道究竟是什么促使芝诺发展出他那些著名的悖论。虽然人们通常说，他旨在为其爱利亚导师巴门尼德的悖论性一元论辩护，但这一观点所依据的柏拉图证据最终并不能支持它。由于芝诺的论证实际上倾向于把量化概念之于物理物体以及之于通常所构想的空间广延的应用问题化，这些悖论可能起源于对毕达哥拉斯派把数学概念应用于自然世界之努力的反思。从亚里士多德直到今天，人们为回应芝诺悖论所提出的问题而做出的种种尝试，使这些悖论产生了持久的影响。由于本文的主题是芝诺本人，本文力图对他的思想提供一幅历史上准确的概览，而不是叙述哲学家、数学家和物理学家如何回应他那挑动性的论证。
+    step2: |-
+      爱利亚的芝诺（公元前 5 世纪思想家）为人所知，仅因他提出过一系列精巧的悖论。其中最著名的几个，意在借揭示运动发生之通常假定中显见或潜在的矛盾，表明运动是不可能的；芝诺同样以各种方式表明“存在许多事物”这一常识假定也通向矛盾，从而反对这一假定。究竟是什么促成了芝诺那些著名悖论，我们或许永远无从得知。人们通常说，他意在为其爱利亚学派导师巴门尼德的悖论性一元论辩护，但这一说法所依托的柏拉图证据最终并不足以支撑它。既然芝诺的论证实际上倾向于使“把量的概念应用于物理物体和通常所构想的空间广延”成为问题，这些悖论可能正是源起于对毕达哥拉斯派将数学概念运用于自然世界之努力的反思。自亚里士多德以降直至今天，人们为回应这些悖论所提出的问题而做的种种尝试，令芝诺悖论影响绵延不绝。本文的主题是芝诺本人，故此力求对他的思想给出一幅合乎历史的概览，而非记述哲学家、数学家与物理学家如何回应他那富有挑衅性的论证。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Writings
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      The dramatic occasion of Plato’s dialogue, *Parmenides*, is a visit to Athens by the eminent philosopher Parmenides and Zeno, his younger associate, to attend the festival of the Great Panathenaea. Plato describes Parmenides as about sixty-five years old, Zeno as nearly forty, and Socrates, with whom they converse, as “quite young then,” which is normally taken to mean about twenty. Given that Socrates was a little past seventy when executed by the Athenians in 399 B.C.E., this description suggests that Zeno was born about 490 B.C.E. He would appear to have been active in Magna Graecia, that is, the Greek-speaking regions of southern Italy, during the mid-fifth century B.C.E. There is otherwise little credible information about the circumstances of his life. Diogenes Laertius’s brief “Life of Zeno” (D.L. 9.25–9) is largely taken up with stitching together conflicting reports of his involvement in a brave plot to overthrow one of the local tyrants, but how much truth these reports contain cannot be determined. Although Diogenes also says that Zeno so loved his native Elea that he had no interest in immigrating to Athens, this report is not inconsistent with his having spent some time there; and Plutarch’s report that Pericles heard Zeno expounding on the nature of things in the manner of Parmenides (Plu. *Pericles* 4.5) suggests that Zeno may indeed have visited Athens and read his famous book, as Plato’s *Parmenides* implies, to a group of intellectually keen Athenians. Vivid evidence of the cultural impact of Zeno’s arguments is to be found in the interior of a red-figure drinking cup (Rome, Mus. Villa Giulia, inv. 3591) discovered in the Etrurian city of Falerii and dated to the mid-fifth century B.C.E. It depicts a heroic figure racing nimbly ahead of a large tortoise and has every appearance of being the first known “response” to the Achilles paradox.
+    step1: |-
+      柏拉图对话《巴门尼德篇》（*Parmenides*）的戏剧性背景，是德高望重的哲学家巴门尼德与其较为年轻的追随者芝诺到访雅典，参加大泛雅典娜节。柏拉图把巴门尼德描述为约六十五岁，芝诺将近四十岁，而与他们交谈的苏格拉底“那时相当年轻”——这通常被理解为约二十岁。鉴于苏格拉底于公元前 399 年被雅典人处死时已年过七旬，这一描述暗示芝诺约生于公元前 490 年。他似乎在公元前五世纪中叶活跃于大希腊，即南意大利的希腊语地区。除此之外，关于其生平境况的可信信息寥寥。第欧根尼·拉尔修的简短《芝诺传》（D.L. 9.25–9）大部分篇幅用于拼合关于他参与一桩推翻当地僭主之英勇密谋的互相冲突的报道，但这些报道包含多少真相已无法确定。虽然第欧根尼也说芝诺如此热爱自己的家乡爱利亚，以致无意移居雅典，但这一报道与他曾在雅典逗留过一段时间并不冲突；而普鲁塔克的报道说伯里克利听过芝诺以巴门尼德的方式讲论万物的本性（Plu. *Pericles* 4.5），这暗示芝诺可能确实到访过雅典，并如柏拉图《巴门尼德篇》所暗示的那样，向一群求知欲旺盛的雅典人宣读了他那部著名的书。芝诺论证之文化冲击力的生动证据，见于在伊特鲁里亚城市法勒里伊出土、断代为公元前五世纪中叶的一只红绘式饮杯（罗马，朱利亚别墅博物馆，藏号 3591）的内部：它描绘一个英雄人物轻盈地跑在一只大龟前面，样子极像是对阿基里斯悖论的最早的已知“回应”。
+    step2: |-
+      柏拉图对话《巴门尼德篇》（*Parmenides*）的戏剧性背景，是德高望重的哲学家巴门尼德与其较年轻的追随者芝诺到访雅典、参加大泛雅典娜节。柏拉图笔下的巴门尼德约六十五岁，芝诺将近四十岁，与他们交谈的苏格拉底则“那时相当年轻”——通常理解为约二十岁。鉴于苏格拉底于公元前 399 年被雅典人处死时已年过七旬，这一描述暗示芝诺约生于公元前 490 年。他似乎于公元前五世纪中叶活跃在大希腊，即南意大利的希腊语地区；除此之外，关于其生平境况的可信信息寥寥。第欧根尼·拉尔修的简短《芝诺传》（D.L. 9.25–9）大半篇幅用在拼合互相冲突的报道上：芝诺参与过一桩推翻当地僭主的英勇密谋——但这些报道含几成真相，已无从断定。第欧根尼还说芝诺深爱家乡爱利亚，无意移居雅典；此说与他曾在雅典小住并不冲突。普鲁塔克则报道，伯里克利听过芝诺以巴门尼德的方式讲论万物的本性（Plu. *Pericles* 4.5）——这暗示芝诺可能确实到访雅典，并如《巴门尼德篇》所暗示，向一群求知心切的雅典人宣读过他那部著名的书。芝诺论证之文化冲击力还有一件生动物证：伊特鲁里亚城市法勒里伊出土、断代为公元前五世纪中叶的一只红绘式饮杯（罗马，朱利亚别墅博物馆，藏号 3591），杯内描绘一位英雄轻盈地跑在一只大龟前面，看上去极像是对阿基里斯悖论最早的已知“回应”。
+  - id: 4
+    kind: body
+    source: |-
+      Plato’s *Parmenides* depicts Socrates going as a young man to hear Zeno reading from the famous book he has brought to Athens for the first time. Parmenides himself and some others, including Pythodorus (the dramatic source of Plato’s report) are portrayed as entering toward the end of the reading so that they hear only a little of Zeno’s recitation. Plato then presents an exchange between Socrates and Zeno, the first part of which is as follows:
+    step1: |-
+      柏拉图的《巴门尼德篇》描绘了年轻的苏格拉底前去听芝诺宣读他那部首次带到雅典的著名的书。巴门尼德本人和另外几个人，包括皮托多鲁斯（柏拉图报道的戏剧来源），被描写为在宣读接近尾声时才进来，因而只听到芝诺诵读的一小部分。柏拉图接着呈现了苏格拉底与芝诺之间的一段对话，其第一部分如下：
+    step2: |-
+      柏拉图的《巴门尼德篇》描绘年轻的苏格拉底前去听芝诺宣读他那部首次带到雅典的著名的书。巴门尼德本人和另外几个人——包括皮托多鲁斯（柏拉图报道的戏剧来源）——被描写为在宣读接近尾声时才进来，因而只听到芝诺诵读的一小段。柏拉图接着呈现了苏格拉底与芝诺之间的一段对话，其第一部分如下：
+  - id: 5
+    kind: body
+    source: |-
+      > Once Socrates had heard it, he asked Zeno to read the first hypothesis of the first argument again, and, after it was read, he said: “What do you mean by this, Zeno? ‘If the things that are are many, that then they must be both like and unlike, but this is impossible. For neither can unlike things be like, nor like things unlike’? Is this not what you say?” “Yes,” said Zeno. “Then if it is impossible both for things unlike to be like and for like things to be unlike, then it’s also impossible for there to be many things? For if there were many things, they would incur impossibilities. So is this what your arguments intend, nothing other than to maintain forcibly, contrary to everything normally said, that there are not many things? And do you think that each of your arguments is a proof of this very point, so that you consider yourself to be furnishing just as many proofs that there are not many things as the arguments you have written? Is this what you say, or do I not understand correctly?” “Not at all,” said Zeno, “but you have understood perfectly well what the treatise as a whole intends” (Pl. *Prm*. 127d6–128a3).
+    step1: |-
+      > 苏格拉底听完之后，请芝诺把第一个论证的第一个假设再读一遍；读完之后，他说：“芝诺，你这是什么意思？‘如果存在者是多，那么它们必定既相似又不相似，而这是不可能的。因为不相似者不能相似，相似者也不能不相似’？你说的就是这个吗？”“是的，”芝诺说。“那么，如果不相似者不可能相似、相似者也不可能不相似，那么多事物是否也就不可能存在？因为如果存在许多事物，它们就会陷入种种不可能之中。所以你的论证所欲坚持的，难道不是别的，恰恰是以强力主张——与人们通常所说的一切相反——不存在许多事物？你难道不认为你的每一个论证都是对这一点的证明，因而你写下了多少个论证，就认为自己给出了多少个‘不存在许多事物’的证明？我说的对吗，还是我理解错了？”“完全不是，”芝诺说，“你完全正确地理解了这部论著整体所欲主张的东西”（Pl. *Prm*. 127d6–128a3）。
+    step2: |-
+      > 苏格拉底听完之后，请芝诺把第一个论证的第一个假设再读一遍；读完之后他问：“芝诺，你这是什么意思？‘如果存在者是多，那么它们必定既相似又不相似，而这是不可能的。因为不相似者不能相似，相似者也不能不相似’？你说的就是这个吗？”“是的，”芝诺说。“那么，既然不相似者不可能相似、相似者也不可能不相似，众多事物是否也就不可能存在？因为若存在许多事物，它们就会陷入种种不可能。所以你的论证所欲坚持的，难道不是别的，正是以强力主张——与人们通常所说的一切相反——不存在许多事物？你难道不认为自己的每一个论证都是对这一点的证明，因而写下多少个论证，就等于给出了多少个‘不存在许多事物’的证明？我说的对吗，还是我理解错了？”“完全不是，”芝诺说，“你已完全正确地理解了这部论著整体所欲主张的东西”（Pl. *Prm*. 127d6–128a3）。
+  - id: 6
+    kind: body
+    source: |-
+      While the dialogue’s scenario, and thus this exchange, are clearly fictional, this passage is nonetheless normally taken as indicating that Zeno composed a single treatise comprising numerous arguments, cast in the form of antinomies, all purporting to demonstrate the untenability of the commonsense presumption that there are many things.
+    step1: |-
+      虽然对话的情节——因而这段对话——显然出于虚构，这一段落通常仍被理解为表明：芝诺写成了一部单独的论著，其中包含众多论证，以二律背反的形式出现，全都意在证明“存在许多事物”这一常识预设站不住脚。
+    step2: |-
+      对话的情节——因而这段对话——显然出自虚构，但这一段落通常仍被理解为表明：芝诺写成了一部单独的论著，内含众多论证，皆以二律背反的形式出现，全都意在证明“存在许多事物”这一常识预设站不住脚。
+  - id: 7
+    kind: body
+    source: |-
+      While the later tradition unreliably ascribes other works to Zeno, there is some interesting evidence in the commentary on the *Parmenides* by the Athenian Neoplatonist Proclus (5th c. C.E.) that he was familiar with a work transmitted under Zeno’s name containing forty arguments or *logoi* (Procl. *in Prm*. 694, 17–18 Steel). Much of what Proclus says about Zeno in his commentary simply recasts what is already present in the above exchange, but this comment that this work of Zeno’s contained forty arguments, taken with certain other things he says, suggests that Proclus had access to a work with some sort of Zenonian pedigree, a work known to earlier commentators as well (as evidenced by Procl. *in Prm*. 630.26ff., especially 631.25–632.3). If there was a work available in later antiquity entitled *The Forty Arguments of Zeno*, it is however unlikely to have been a fair replica of any original treatise of Zeno’s. In the first place, some of Proclus’ apparent references to this work suggest that it fathered upon Zeno arguments akin to some of those in Parmenides’ own elaborate dialectical exercise later in the *Parmenides*. Furthermore, Aristotle implies that people were reworking Zeno’s arguments soon after they were first propounded. In *Physics* 8.8, after giving a basic reconstruction of the so-called Stadium paradox (see below, sect. 2.2.1) recalling its presentation in *Physics* 6.9, Aristotle then notes that some propound the same argument in a different way; the alternative reconstruction he then describes (Arist. *Ph*. 8.8, 263ᵃ7–11) is in effect a new version of the original argument.
+    step1: |-
+      虽然后来的传统不可靠地把其他著作归于芝诺，雅典的新柏拉图主义者普罗克洛斯（公元 5 世纪）的《巴门尼德篇》评注中却有有趣的证据，表明他熟悉一部以芝诺之名流传的著作，其中包含四十个论证即 *logoi*（Procl. *in Prm*. 694, 17–18 Steel）。普罗克洛斯在评注中关于芝诺所说的话，大多只是改写了上面那段对话中已有的内容，但他关于芝诺这部著作包含四十个论证的评论，连同他说的某些其他东西，暗示普罗克洛斯得见一部具有某种芝诺派系谱的著作，一部更早的注释家们也知道的作品（Procl. *in Prm*. 630.26ff.,尤其是 631.25–632.3 可以为证）。不过，如果古代晚期确实有一部题为《芝诺的四十论证》的著作行世，它也不太可能是芝诺原初论著的忠实复本。首先，普罗克洛斯对这部著作的某些表面上的援引暗示，它把一些论证安在了芝诺头上，这些论证与巴门尼德本人在《巴门尼德篇》后文那套精巧的辩证操练中的论证相类。此外，亚里士多德暗示，芝诺的论证刚一提出就有人在改作它们。在《物理学》8.8 中，亚里士多德在给出所谓运动场悖论（见下文 2.2.1 节）的一个基本重构、回忆其在《物理学》6.9 中的呈现之后，接着指出有人以另一种方式提出同一论证；他随后描述的替代性重构（Arist. *Ph*. 8.8, 263ᵃ7–11）实际上是原初论证的一个新版本。
+    step2: |-
+      后来的传统虽不可靠地把其他著作归于芝诺，雅典的新柏拉图主义者普罗克洛斯（公元 5 世纪）的《巴门尼德篇》评注中却有一处有趣的证据，表明他熟悉一部以芝诺之名流传的著作，内含四十个论证即 *logoi*（Procl. *in Prm*. 694, 17–18 Steel）。普罗克洛斯评注中关于芝诺的话，多半只是改写上引对话已有内容；但他这一评论——芝诺此书包含四十个论证——连同他说的其他几处，暗示他得见一部带有某种芝诺派系谱的著作，更早的注释家们也知道它（Procl. *in Prm*. 630.26ff.，尤其 631.25–632.3 可以为证）。不过，若古代晚期确有一部题为《芝诺的四十论证》的著作行世，它也不太可能是芝诺原初论著的忠实复本。首先，普罗克洛斯对该书的某些表面援引暗示：它把一些与巴门尼德本人在《巴门尼德篇》后文那套精巧辩证操练相类的论证，安到了芝诺头上。此外，亚里士多德暗示，芝诺的论证刚一提出就有人在改作。在《物理学》8.8 里，亚里士多德先按《物理学》6.9 的呈现给出所谓运动场悖论（见下文 2.2.1 节）的一个基本重构，随后指出有人以另一种方式提出同一论证；他接着描述的替代性重构（Arist. *Ph*. 8.8, 263ᵃ7–11）实际上就是原初论证的一个新版本。
+  - id: 8
+    kind: body
+    source: |-
+      Returning to the *Parmenides* passage, it should also be noted that Socrates’ description of Zeno’s book, which Plato has Zeno endorse, indicates that its arguments had a certain structure and purpose. Specifically, the passage indicates that all Zeno’s arguments opposed the common-sense assumption that there are many things. It might also suggest that these arguments took the form of antinomies like the one Socrates specifically cites, so that the general pattern of Zeno’s argumentation would have been: if there are many things, these must be both *F* and not-*F*; but things cannot be both *F* and not-*F*; therefore, it cannot be the case that there are many things. Although this description has inspired some to attempt to accommodate the extant paradoxes (of motion, plurality, and place) within a unified architecture that would have provided the plan for Zeno’s original book, if in fact he wrote only one, none of these attempts have proved convincing. Since Plato’s description is in a number of respects difficult to square with what we know from other sources of Zeno’s actual arguments, one should be wary of making it the basis for hypotheses regarding the book’s plan of organization. For one thing, the paradoxes of motion reported by Aristotle do not evidently target the assumption that there are many things, nor do they take the form of antinomies. Moreover, only one of the arguments against plurality elsewhere reported, the antinomy of limited and unlimited, conforms to the pattern of argumentation exemplified in the antinomy of like and unlike described by Plato’s Socrates (see below, 2.1.1). The remaining argument, the antinomy of large and small (see 2.1.2), purports to show not only that the assumption that there are many things leads to an apparent contradiction, but, rather more ambitiously, it purports to reduce each of the contradictory consequences to absurdity. Plato does not actually state, of course, that all Zeno’s arguments took the form of antinomies. In the end, if the characterization of Zeno’s treatise by Plato’s Socrates in the passage above is not quite accurate, there remains no more plausible view from antiquity regarding the general thrust of his arguments, to the extent that there may have been a single one. One can, moreover, easily broaden Socrates’ specification of the target to encompass the arguments against motion and place by changing it to the slightly more complex thesis that there are many things that move from place to place. Socrates might easily have been taking it for granted that, for Zeno, such motion goes along automatically with plurality. What we know of Zeno’s arguments certainly accords with the notion that they were meant to challenge ordinary assumptions about plurality and motion. His arguments are quite literally “para-doxes”—from the Greek *para* (“contrary to” or “against”) and *doxa* (“belief” or “opinion”)—arguments for conclusions contrary to what people ordinarily believe. What more there might be to say about Zeno’s purposes will be discussed below, after presentation of what we know of his actual arguments.
+    step1: |-
+      回到《巴门尼德篇》那段文字，还应指出：苏格拉底对芝诺之书的描述——柏拉图让芝诺对此表示认可——表明这些论证有一定的结构与目的。具体而言，这一段落表明芝诺的所有论证都反对“存在许多事物”这一常识假定。它也可能暗示，这些论证取苏格拉底特别援引的那种二律背反的形式，因而芝诺论证的一般模式应当是：如果存在许多事物，它们必定既是 *F* 又不是 *F*；但事物不可能既是 *F* 又不是 *F*；所以，不存在许多事物。虽然这一描述促使有人尝试把现存的诸悖论（关于运动、众多与处所的悖论）纳入一个统一的架构，让它充当芝诺原书——如果他确实只写了一部的话——的规划，但这些尝试没有一个被证明是令人信服的。既然柏拉图的描述在若干方面难以与我们从其他来源得知的芝诺实际论证相吻合，我们就应当警惕把它当作关于该书组织规划的假设之基础。首先，亚里士多德报道的运动悖论并不明显针对“存在许多事物”这一假定，也不取二律背反的形式。此外，在别处报道的反对众多的论证中，只有一个——有限与无限的二律背反——符合柏拉图笔下苏格拉底所描述的相似与不相似二律背反所 exemplify 的论证模式（见下文 2.1.1）。余下的那个论证，大与小的二律背反（见 2.1.2），不仅意在表明“存在许多事物”这一假定导致一个显见的矛盾，而且更有雄心：它意在把每一个矛盾的后果都归约为荒谬。当然，柏拉图实际上并没有说芝诺的所有论证都取二律背反的形式。归根结底，如果柏拉图笔下苏格拉底在上引段落中对芝诺论著的刻画并不十分准确，那么——就芝诺可能确有一部单独论著而言——古人关于其论证总体趋向的说法中，仍没有比这更可信的观点。而且，人们可以轻易地把苏格拉底所指定的靶子放宽，以涵盖反对运动与处所的论证：只需把它改成略微复杂一点的论旨——存在许多从一处移动到另一处的事物。苏格拉底很可能理所当然地认为，对芝诺来说，这种移动是与众多一同自动而来的。我们关于芝诺论证所知的一切，确实与这样的看法相合：它们意在挑战关于众多与运动的通常假定。这些论证字面上就是“para-doxes”（悖论）——源自希腊语 *para*（“相反于”或“反对”）与 *doxa*（“信念”或“意见”）——即得出与人们通常所信相反之结论的论证。关于芝诺的意图还能说些什么，将在下文呈现我们所知的其实际论证之后讨论。
+    step2: |-
+      回到《巴门尼德篇》那段文字，还应指出：苏格拉底对芝诺之书的描述——柏拉图让芝诺对此表示认可——表明这些论证有一定的结构与目的。具体说来，这一段落表明芝诺的所有论证都反对“存在许多事物”这一常识假定；它也可能暗示，这些论证取苏格拉底特别援引的那种二律背反形式，故芝诺论证的一般模式应当是：如果存在许多事物，它们必定既是 *F* 又不是 *F*；但事物不可能既是 *F* 又不是 *F*；所以，不存在许多事物。这一描述虽促使有人尝试把现存的诸悖论（关于运动、众多与处所）纳入一个统一架构，好充当芝诺原书——如果他确实只写了一部的话——的规划，却没有一个尝试被证明令人信服。既然柏拉图的描述在若干方面难以与我们在其他来源所见芝诺实际论证相吻合，就应当警惕以它为根基去假设该书的组织规划。首先，亚里士多德报道的运动悖论并不明显针对“存在许多事物”的假定，也不取二律背反的形式。其次，别处报道的反对众多的论证中，只有一个——有限与无限的二律背反——符合柏拉图笔下苏格拉底所描述的“相似与不相似”二律背反的论证模式（见下文 2.1.1）。余下那个论证，大与小的二律背反（见 2.1.2），不只意在表明“存在许多事物”的假定导致显见的矛盾，更雄心勃勃地要把每一个矛盾后果都归约到荒谬。当然，柏拉图并未明说芝诺的所有论证都取二律背反形式。归根结底，若柏拉图笔下苏格拉底上引段落中对芝诺论著的刻画并不十分准确，那么就芝诺可能确有一部单独论著而言，古人关于其论证总体趋向的说法中仍没有比这更可信的。再者，只需把苏格拉底指定的靶子稍加放宽，改成略复杂一点的论旨——“存在许多从一处移动到另一处的事物”——便能涵盖反对运动与处所的论证；苏格拉底很可能想当然地认为，对芝诺来说，这种移动与众多自动相伴。我们所知的芝诺论证，确实与如下看法相合：它们意在挑战关于众多与运动的通常假定。这些论证字面上就是“para-doxes”（悖论）——源自希腊语 *para*（“相反于”或“反对”）与 *doxa*（“信念”或“意见”）——即得出与人们通常所信相反之结论的论证。至于芝诺的意图还能说些什么，待下文呈现其实际论证之后再谈。
+  - id: 9
+    kind: body
+    source: |-
+      ## 2. The Extant Paradoxes
+    step1: |-
+      ## 2 现存悖论
+    step2: |-
+      ## 2 现存悖论
+  - id: 10
+    kind: body
+    source: |-
+      The task of reconstructing Zeno’s arguments is sometimes insufficiently distinguished from the task of developing responses to them. How one reconstructs Zeno’s reasoning certainly determines to some extent what will constitute an effective response. The danger is that one’s idea of how to formulate an effective response may affect one’s reconstruction of Zeno’s actual reasoning, particularly if one imports into his arguments concepts more developed or precise than the ones with which he was actually operating. In some cases, as with the one called the Achilles, the paradox’s power derives to a significant extent from the very simplicity of the notions it deploys. The reconstructions provided here therefore aim to preserve something of the manner of Zeno’s own argumentation as we know it from verbatim quotation of at least portions of some of the preserved paradoxes. More formal reconstructions are possible and available. As already noted, at least one effort at improving Zeno’s argumentation was already known to Aristotle. But such efforts can come at the cost of historical accuracy, which is the primary goal of this article. How it might be possible to improve Zeno’s arguments will be left to others. Since it is also essential to appreciate just how much (or how little) we know of Zeno’s arguments, the primary evidence for each major argument is presented along with a reconstruction.
+    step1: |-
+      重构芝诺论证的任务，有时未被充分地与发展对它们的回应的任务区分开来。人们如何重构芝诺的推理，当然在某种程度上决定了什么才算得上有效的回应。危险在于：关于如何构造有效回应的想法，可能反过来影响人们对芝诺实际推理的重构，尤其是当人们把比他实际使用的概念更发达或更精确的概念引入其论证时。在某些情形中——比如所谓阿基里斯悖论——悖论的力量在很大程度上恰恰来自它所使用的概念之简单。因此，这里提供的重构力求保留芝诺本人论证方式的某些风貌，正如我们从对保留下来的至少某些悖论的字面引用中所知的那样。更形式化的重构是可能的，也有现成的。如前所述，至少有一种改进芝诺论证的努力早已为亚里士多德所知。但这类努力可能以牺牲历史准确性为代价，而历史准确性正是本文的首要目标。如何改进芝诺的论证，留待他人去做。由于同样重要的是领会我们对芝诺论证所知的多寡，每个主要论证的首要证据将连同重构一并给出。
+    step2: |-
+      重构芝诺论证的任务，有时与发展对它们的回应之任务未被充分区分。如何重构芝诺的推理，当然在某种程度上决定了什么才算有效回应。危险在于：关于如何构造有效回应的想法，可能反过来左右人们对芝诺实际推理的重构——尤其是把比他实际所用更发达、更精确的概念引入其论证之时。在某些情形里——如所谓阿基里斯悖论——悖论的力量在很大程度上恰来自其所用概念的简单。因此，本节的重构力求保留芝诺本人论证方式的某些风貌，一如我们从对保留下来的至少某些悖论的字面引用中所知的那样。更形式化的重构是可能的，也现成可得。如前所述，改进芝诺论证的努力至少有一种早已为亚里士多德所知；但这类努力可能以牺牲历史准确性为代价，而历史准确性正是本文的首要目标。如何改进芝诺的论证，留待他人。同样要紧的是领会我们对芝诺论证所知的多寡，故每个主要论证的首要证据都将连同重构一并呈现。
+  - id: 11
+    kind: body
+    source: |-
+      ### 2.1 The Arguments Against Plurality
+    step1: |-
+      ### 2.1 反对众多的论证
+    step2: |-
+      ### 2.1 反对众多的论证
+  - id: 12
+    kind: body
+    source: |-
+      #### 2.1.1 The Antinomy of Limited and Unlimited
+    step1: |-
+      #### 2.1.1 有限与无限的二律背反
+    step2: |-
+      #### 2.1.1 有限与无限的二律背反
+  - id: 13
+    kind: body
+    source: |-
+      In his commentary on book 1 of Aristotle’s *Physics*, the Alexandrian Neoplatonist Simplicius (6th c. C.E.) quotes verbatim Zeno’s argument that if there are many things, they are limited and unlimited, as follows: “If there are many things, it is necessary that they be just so many as they are and neither greater than themselves nor fewer. But if they are just as many as they are, they will be limited. If there are many things, the things that are are unlimited; for there are always others between these entities, and again others between those. And thus the things that are are unlimited” (Zeno fr. 3 DK, i.e., Simp. *in Ph*. 140.29–33 Diels). This is the only Zenonian antinomy that has the appearance of being preserved in its entirety.
+    step1: |-
+      在其亚里士多德《物理学》第一卷评注中，亚历山大里亚的新柏拉图主义者辛普里丘（公元 6 世纪）逐字引用了芝诺“如果存在许多事物，它们既有限又无限”的论证，如下：“如果存在许多事物，那么它们必定恰好是那么多，既不比自身多，也不比自身少。但如果它们恰好是那么多，它们就会是有限的。如果存在许多事物，存在者就是无限的；因为在这诸存在者之间总有别的东西，而在那些东西之间又有别的。所以存在者是无限的”（Zeno fr. 3 DK，即 Simp. *in Ph*. 140.29–33 Diels）。这是唯一一个看起来被完整保存下来的芝诺式二律背反。
+    step2: |-
+      在亚里士多德《物理学》第一卷的评注里，亚历山大里亚的新柏拉图主义者辛普里丘（公元 6 世纪）逐字引用了芝诺“如果存在许多事物，它们既有限又无限”的论证：“如果存在许多事物，那么它们必定恰好是那么多，既不比自身多，也不比自身少。但如果它们恰好是那么多，它们就会是有限的。如果存在许多事物，存在者就是无限的；因为在这诸存在者之间总有别的东西，而在那些东西之间又有别的。所以存在者是无限的”（Zeno fr. 3 DK，即 Simp. *in Ph*. 140.29–33 Diels）。这是唯一一个看来被完整保存下来的芝诺式二律背反。
+  - id: 14
+    kind: body
+    source: |-
+      The argument here may be reconstructed as follows. Its overall structure is: If there are many things, then there must be finitely many things; and if there are many things, then there must be infinitely many things. The assumption that there are many things is thus supposed to have been shown to lead to contradiction, namely, that things are both finitely and infinitely many. The particular argument for the first arm of the antinomy seems to be simply: If there are many things, then they must be just so many as they are. If the many things are just so many as they are, they must be finitely many. Therefore, if there are many things, then there must be finitely many things. Simplicius somewhat loosely describes the antinomy’s second arm as demonstrating numerical infinity through dichotomy (Simp. *in Ph*. 140.33–4). In fact, the argument depends on a postulate specifying a necessary condition upon two things being distinct, rather than on division *per se*, and it may be reconstructed as follows: If there are many things, they must be distinct, that is, separate from one another. Postulate: Any two things will be distinct or separate from one another only if there is some other thing between them. Two representative things, *x*₁ and *x*₂, will be distinct only if there is some other thing, *x*₃, between them. In turn, *x*₁ and *x*₃ will be distinct only if there is some other thing, *x*₄, between them. Since the postulate can be repeatedly applied in this manner unlimited times, between any two distinct things there will be limitlessly many other things. Therefore, if there are many things, then there must be limitlessly many things.
+    step1: |-
+      这里的论证可以重构如下。其总体结构是：如果存在许多事物，那么必定有有限多的事物；而如果存在许多事物，那么必定有无限多的事物。于是，“存在许多事物”这一假定被表明导致矛盾，即事物既有限多又无限多。二律背反第一臂的论证似乎很简单：如果存在许多事物，那么它们必定恰好是那么多。如果众多事物恰好是那么多，它们必定是有限多的。所以，如果存在许多事物，那么必定有有限多的事物。辛普里丘有些不严格地把二律背反的第二臂描述为通过二分法证明数的无限（Simp. *in Ph*. 140.33–4）。实际上，该论证依赖的是一个规定两物相区别之必要条件的公设，而非依赖分割本身，它可以重构如下：如果存在许多事物，它们必定相互区别，即彼此分离。公设：任何两个事物，只有当它们之间有某个别的事物时，才会相互区别或分离。两个代表性的事物 *x*₁ 与 *x*₂，只有当有某个别的事物 *x*₃ 在它们之间时才会相互区别。反过来，*x*₁ 与 *x*₃ 相互区别，又只有当有某个别的事物 *x*₄ 在它们之间。既然公设可以按此方式无限次地重复应用，那么任意两个相互区别的事物之间就会有无限多的别的事物。所以，如果存在许多事物，那么必定有无限多的事物。
+    step2: |-
+      这里的论证可重构如下。总体结构是：如果存在许多事物，那么必定有有限多的事物；而如果存在许多事物，那么又必定有无限多的事物。于是，“存在许多事物”这一假定被表明导致矛盾——事物既有限多又无限多。二律背反第一臂的论证看来十分简单：如果存在许多事物，那么它们必定恰好是那么多；如果众多事物恰好是那么多，它们必定有限多；所以，如果存在许多事物，那么必定有有限多的事物。辛普里丘不大严格地把第二臂描述为“通过二分法证明数的无限”（Simp. *in Ph*. 140.33–4）。实际上，该论证依赖的是一条规定“两物相区别之必要条件”的公设，而非分割本身；可重构如下：如果存在许多事物，它们必定相互区别，即彼此分离。公设：任何两个事物，只有当其间有某个别的事物时，才相互区别或分离。任取两个事物 *x*₁ 与 *x*₂，其间须有某个别的事物 *x*₃，二者才相互区别；反过来，*x*₁ 与 *x*₃ 相区别，其间又须有某个别的事物 *x*₄。既然公设可以这样无限次重复应用，任意两个相区别的事物之间就会有无限多的别的事物。所以，如果存在许多事物，那么必定有无限多的事物。
+  - id: 15
+    kind: body
+    source: |-
+      #### 2.1.2 The Antinomy of Large and Small
+    step1: |-
+      #### 2.1.2 大与小的二律背反
+    step2: |-
+      #### 2.1.2 大与小的二律背反
+  - id: 16
+    kind: body
+    source: |-
+      In the same stretch of his commentary on Aristotle’s *Physics*, Simplicius reports at length one of Zeno’s numerous arguments designed to show how the claim that there are many things leads to contradiction. “One of these,” Simplicius says, “is the argument in which he demonstrates that if there are many things, they are both large and small: so large as to be unlimited in magnitude, and so small as to have no magnitude. Indeed, in this argument he shows that what has neither magnitude nor thickness nor bulk would not even exist. ‘For if’, he says, ‘it were added to another entity, it would not make it any larger; for since it is of no magnitude, when it is added, there cannot be any increase in magnitude. And so what was added would just be nothing. But if when it is taken away the other thing will be no smaller, and again when it is added the other thing will not increase, it is clear that what was added and what was taken away was nothing’” (Zeno fr. 2 DK = Simp. *in Ph*. 139.7–15). After thus quoting this portion of the argument, Simplicius continues: “Zeno says this because each of the many things has magnitude and is infinite [reading *apeiron* instead of ms. *apeirôn*], given that something is always in front of whatever is taken, in virtue of infinite division; this he shows after first demonstrating that none have magnitude on the grounds that each of the many is the same as itself and one” (Simp. *in Ph*. 139.16–19). Soon after this, Simplicius records the argument for unlimited magnitude he has alluded to in the first part of the passage just quoted, as follows: “Infinity in respect of magnitude he earlier proves in the same way. For having first shown that, if what is does not have magnitude, it would not even exist, he continues: ‘But if it is, each must have some magnitude and thickness, and one part of it must extend away from another. And the same account applies to the part out ahead. For that part too will have magnitude and will have part of it out ahead. Indeed, it is the same to say this once as always to keep saying it; for no such part of it will be last, nor will one part not be related to another. Thus if there are many things, they must be both small and large, so small as to have no magnitude, and so large as to be unlimited’” (Zeno fr. 1 DK, = Simp. *in Ph*. 140.34–141.8).
+    step1: |-
+      在其《物理学》评注的同一处，辛普里丘详尽报道了芝诺众多旨在表明“存在许多事物”这一主张如何导致矛盾的论证之一。“其中之一，”辛普里丘说，“是他证明如果存在许多事物，它们既大又小的那个论证：大到在大小上无限，小到没有任何大小。的确，在这个论证中他表明，没有大小、没有厚度、没有体积的东西甚至不会存在。‘因为’，他说，‘如果把它加到另一个存在者上，它不会使之变大；因为既然它没有大小，加上它也不会有任何大小上的增加。这样，被加上的东西就什么都不是。但如果把它取走，另一个东西不会变小，而加上它时另一个东西也不增大，那么显然，被加上的和被取走的东西都是无’”（Zeno fr. 2 DK = Simp. *in Ph*. 139.7–15）。在如此引用论证的这一部分之后，辛普里丘接着说：“芝诺这样说，是因为众多中的每一个都有大小，而且是无限〔按 *apeiron* 读，而非抄本的 *apeirôn*〕，因为在无限分割之下，无论取到什么，总有东西在前面；这是他在先表明没有任何东西有大小——理由是众多中的每一个都与自身相同且是一——之后加以证明的”（Simp. *in Ph*. 139.16–19）。此后不久，辛普里丘记录了他在上引段落前半部分所暗示的无限大小的论证，如下：“关于大小上的无限，他先前已用同样的方式证明过。因为在先表明‘如果存在者没有大小，它甚至不会存在’之后，他接着说：‘但如果它存在，每一个都必定有某种大小和厚度，并且它的一部分必定与另一部分隔开。对在前面伸出的那部分，同样的说法也适用。因为那部分也会有大小，也会有在前面伸出的部分。的确，把这话重复一次与不断重复是一样的；因为它的这类部分不会有最后一个，也不会有一部分不与另一部分相关。所以，如果存在许多事物，它们必定既小又大，小到没有任何大小，大到无限’”（Zeno fr. 1 DK，= Simp. *in Ph*. 140.34–141.8）。
+    step2: |-
+      在《物理学》评注的同一处，辛普里丘详尽报道了芝诺众多旨在表明“存在许多事物”如何导致矛盾的论证之一。“其中之一，”辛普里丘说，“是他证明如果存在许多事物、它们既大又小的那个论证：大到在大小上无限，小到没有任何大小。的确，他在这个论证中表明，没有大小、没有厚度、没有体积的东西甚至不会存在。‘因为’，他说，‘如果把它加到另一个存在者上，它不会使之变大；既然它没有大小，加上它也不会有任何大小上的增加。这样，被加上的东西就什么都不是。但若把它取走，另一个东西不会变小，加上它时另一个东西也不增大，那么显然，被加上的和被取走的东西都是无’”（Zeno fr. 2 DK = Simp. *in Ph*. 139.7–15）。引到这里，辛普里丘接着说：“芝诺这样说，是因为众多中的每一个都有大小，而且是无限〔按 *apeiron* 读，而非抄本的 *apeirôn*〕，因为在无限分割之下，无论取到什么，总有东西在前面；这是他在先表明没有任何东西有大小——理由是众多中的每一个都与自身相同且是一——之后加以证明的”（Simp. *in Ph*. 139.16–19）。此后不久，辛普里丘记录了他在上引段落前半所暗示的无限大小论证：“关于大小上的无限，他先前已用同样方式证明过。因为在先表明‘如果存在者没有大小，它甚至不会存在’之后，他接着说：‘但如果它存在，每一个都必定有某种大小和厚度，且它的一部分必定与另一部分隔开。对在前面伸出的那部分，同样说法也适用：那部分也会有大小，也会有在前面伸出的部分。的确，这话重复一次与不断重复是一样的；因为它的这类部分不会有最后一个，也不会有一部分不与另一部分相关。所以，如果存在许多事物，它们必定既小又大，小到没有任何大小，大到无限’”（Zeno fr. 1 DK，= Simp. *in Ph*. 140.34–141.8）。
+  - id: 17
+    kind: body
+    source: |-
+      Simplicius only alludes to Zeno’s argument for smallness, without setting it out: he says that Zeno derived the conclusion that “none have magnitude on the grounds that each of the many is the same as itself and one.” Although this is not much to go on, the argument may plausibly be reconstructed as follows. Each of the many is the same as itself and one. Whatever has magnitude can be divided into distinguishable parts; whatever has distinguishable parts is not everywhere the same as itself; thus, whatever has magnitude is not everywhere, and so is not genuinely, the same as itself. Whatever is not the same as itself is not genuinely one. Thus, whatever has magnitude is not genuinely one. Therefore, each of the many has no magnitude. The basic assumption here is that to be “the same as itself” is what it means for something to be “one” in the strict sense Zeno envisages, whereas any magnitude, which will have distinguishable parts in virtue of being spatially extended, will fail to be strictly one and self-identical.
+    step1: |-
+      辛普里丘只是提及芝诺关于小的论证，而没有把它写出来：他说芝诺推导出“没有任何东西有大小”这一结论，理由是“众多中的每一个都与自身相同且是一”。虽然这不算多少凭据，该论证仍可以合理地重构如下。众多中的每一个都与自身相同且是一。凡有大小者都可以被分割为可分辨的部分；凡有可分辨部分者都不是处处与自身相同；因此，凡有大小者都不是处处与自身相同，从而不是真正地与自身相同。凡不与自身相同者都不是真正地是一。所以，凡有大小者都不是真正地是一。因此，众多中的每一个都没有大小。这里的基本假定是：“与自身相同”就是在芝诺所设想的那种严格意义上“是一”的含义，而任何大小——它因在空间中广延而将有可分辨的部分——都不会是严格的一和自我同一的。
+    step2: |-
+      辛普里丘只是提及芝诺关于小的论证而未将其写出：他说芝诺推导出“没有任何东西有大小”这一结论，理由是“众多中的每一个都与自身相同且是一”。凭据虽少，该论证仍可合理地重构如下。众多中的每一个都与自身相同且是一。凡有大小者皆可分割为可分辨的部分；凡有可分辨部分者都不是处处与自身相同；故凡有大小者都不是处处与自身相同，从而不是真正地与自身相同。凡不与自身相同者都不是真正地是一。所以，凡有大小者都不是真正地是一。因此，众多中的每一个都没有大小。这里的基本假定是：“与自身相同”就是芝诺所设想的那种严格意义上“是一”的含义；而任何大小——因在空间中广延而必有可分辨的部分——都不会是严格的一和自我同一。
+  - id: 18
+    kind: body
+    source: |-
+      The evidence in Simplicius indicates that Zeno then transitioned to the antinomy’s other arm, the unlimited largeness of things, via the following lemma: since what has no magnitude would be nothing, each of the many must have some magnitude. Simplicius’s report of how Zeno specifically argued for the second arm’s conclusion, that each of the many is of unlimited magnitude, pertains primarily to its apparent sub-argument for the interim conclusion that each thing has limitlessly many parts, which ran as follows. Each of the many has some magnitude and thickness (from the lemma). Whatever has some magnitude and thickness will have (distinguishable) parts, so that each of the many will have parts. If *x* is one of the many, then *x* will have parts. Since each of these parts of *x* has some magnitude and thickness, each of these parts will have its own parts, and these parts will in turn have parts of their own, and so on, and so on, without limit. Thus each of the many will have a limitless number of parts. Whether or not Zeno then made explicit how the antinomy’s final conclusion followed from this, here is a plausible reconstruction of the rest of the reasoning was presumably supposed to go: Every part of each thing has some magnitude; the magnitude of any object is equal to the sum of the magnitudes of its parts; and the sum of limitlessly many parts of some magnitude is a limitless magnitude. Therefore, the magnitude of each of the many is limitless.
+    step1: |-
+      辛普里丘所提供的证据表明，芝诺随后经由如下引理过渡到二律背反的另一臂，即事物的无限大：由于没有大小的东西将是无，众多中的每一个必定有某种大小。至于芝诺具体如何论证第二臂的结论——众多中的每一个都有无限的大小——辛普里丘的报道主要涉及其表面上的一个子论证，它针对的是“每个事物都有无限多的部分”这一过渡性结论，该子论证大体如下。众多中的每一个都有某种大小和厚度（据引理）。凡有某种大小和厚度者都将有（可分辨的）部分，故众多中的每一个都将有部分。如果 *x* 是众多之一，那么 *x* 将有部分。由于 *x* 的这些部分中的每一个都有某种大小和厚度，这些部分中的每一个都将有自己的部分，这些部分又轮番有自己的部分，如此等等，没有止境。因此，众多中的每一个都将有无限多的部分。至于芝诺随后是否明确说明了二律背反的最终结论如何由此得出，下面给出的是剩余推理大概被设想为如何进行的合理重构：每个事物的每个部分都有某种大小；任何对象的大小等于其诸部分大小之和；而无限多个有大小者之和是无限的大小。所以，众多中的每一个的大小都是无限的。
+    step2: |-
+      辛普里丘提供的证据表明，芝诺随后经由一条引理过渡到二律背反的另一臂——事物的无限大：没有大小的东西将是无，故众多中的每一个必有某种大小。至于芝诺具体如何论证第二臂的结论——众多中的每一个都有无限的大小——辛普里丘的报道主要涉及其表面上的一个子论证，它针对“每个事物都有无限多的部分”这一过渡性结论，大体如下：众多中的每一个都有某种大小和厚度（据引理）；凡有某种大小和厚度者都将有（可分辨的）部分，故众多中的每一个都将有部分；如果 *x* 是众多之一，*x* 就将有部分；由于 *x* 的这些部分中的每一个都有某种大小和厚度，每个部分又各有自己的部分，这些部分又轮番有自己的部分，如此推进，没有止境。因此，众多中的每一个都将有无限多的部分。芝诺随后是否明言二律背反的最终结论如何由此得出，已不可考；以下给出的是剩余推理大概被设想为如何进行的合理重构：每个事物的每个部分都有某种大小；任何对象的大小等于其诸部分大小之和；无限多个有大小者之和是无限的大小。所以，众多中的每一个的大小都是无限的。
+  - id: 19
+    kind: body
+    source: |-
+      Taken as a whole, then, this elaborate *tour de force* of an argument purports to have shown that, if there are many things, each of them must have simultaneously no magnitude and unlimited magnitude.
+    step1: |-
+      总而言之，这一精心构造的 *tour de force* 式论证意在表明：如果存在许多事物，那么其中每一个都必须同时没有大小又具有无限的大小。
+    step2: |-
+      总而言之，这场精心构造的 *tour de force* 式论证意在表明：如果存在许多事物，那么其中每一个都必须同时既没有大小、又具有无限的大小。
+  - id: 20
+    kind: body
+    source: |-
+      ### 2.2 The Paradoxes of Motion
+    step1: |-
+      ### 2.2 运动悖论
+    step2: |-
+      ### 2.2 运动悖论
+  - id: 21
+    kind: body
+    source: |-
+      Aristotle is most concerned with Zeno in *Physics* 6, the book devoted to the theory of the continuum. In *Physics* 6.9, Aristotle states that Zeno had four arguments concerning motion that are difficult to resolve, gives a summary paraphrase of each, and offers his own analysis. The ancient commentators on this chapter provide little additional information. Thus reconstruction of these famous arguments rests almost exclusively on Aristotle’s incomplete presentation. Note that Aristotle’s remarks leave open the possibility that there were other Zenonian arguments against motion that he deemed less difficult to resolve. More importantly, Aristotle’s presentation gives no indication of how these four arguments might have functioned within the kind of dialectical scheme indicated by Plato’s *Parmenides*.
+    step1: |-
+      亚里士多德在《物理学》第 6 卷——专论连续体的那一卷——中最为关注芝诺。在《物理学》6.9 中，亚里士多德说芝诺有四个关于运动的论证难以解决，对每一个给出概要式的转述，并提出自己的分析。本章的古代注释家们没有提供多少额外信息。因此，这些著名论证的重构几乎完全依赖亚里士多德不完整的呈现。注意，亚里士多德的评论留下了这样一种可能性：还有别的芝诺式反对运动的论证，只是他认为比较容易解决。更重要的是，亚里士多德的呈现没有说明这四个论证在柏拉图《巴门尼德篇》所指示的那种辩证方案中可能起什么作用。
+    step2: |-
+      亚里士多德在《物理学》第 6 卷——专论连续体的那一卷——最为关注芝诺。在《物理学》6.9 里，他说芝诺有四个关于运动的论证难以解决，对每个给出概要式转述并提出自己的分析。本章的古代注释家们没有提供多少额外信息；因此，这些著名论证的重构几乎全靠亚里士多德不完整的呈现。要注意，亚里士多德的评论留下了这样一种可能：芝诺另有反对运动的论证，只是他觉得较易解决。更要紧的是，亚里士多德的呈现全然未提这四个论证在柏拉图《巴门尼德篇》所示的那种辩证方案中可能起什么作用。
+  - id: 22
+    kind: body
+    source: |-
+      #### 2.2.1 The Stadium, or The Dichotomy
+    step1: |-
+      #### 2.2.1 运动场，或二分法
+    step2: |-
+      #### 2.2.1 运动场，或二分法
+  - id: 23
+    kind: body
+    source: |-
+      “First,” Aristotle says, “there is the argument about its being impossible to move because what moves must reach the half-way point earlier than the end” (*Ph*. 6.9, 239ᵇ11–13). He says no more about this argument here but alludes to his earlier discussion of it in *Physics* 6.2, where, after arguing that both time and magnitude are continuous, he asserts: “Therefore the argument of Zeno falsely presumes that it is not possible to traverse or make contact with unlimited things individually in a limited time” (233ᵃ21–3). Subsequently, in *Physics* 8.8, he again raises the question of how to respond “to those posing the question of Zeno’s argument, if one must always pass through the half-way point, and these are unlimited, and it is impossible to traverse things unlimited” (263ᵃ4–6), and he proceeds to offer what he claims is a more adequate solution than the one presented in *Physics* 6.2. The argument Aristotle is alluding to in these passages gets its name from his mention in *Topics* 8.8 of “Zeno’s argument that it is not possible to move or to traverse the stadium” as a prime example of an argument opposed to common belief yet difficult to resolve (160ᵇ7–9).
+    step1: |-
+      “第一，”亚里士多德说，“是关于运动不可能的论证：运动着的东西必须先到达中点，然后才到终点”（*Ph*. 6.9, 239ᵇ11–13）。他在此对此论证没有再多说什么，只是提到他早先在《物理学》6.2 中的讨论；在那里，他在论证时间与大小皆为连续之后断言：“因此，芝诺的论证错误地预设：不可能在有限的时间内逐个地遍历或接触无限的东西”（233ᵃ21–3）。随后在《物理学》8.8 中，他再次提出如何回应“芝诺论证所提出的问题，即如果必须总是先经过中点，而这些中点又是无限的，就不可能遍历无限的东西”（263ᵃ4–6），并进而给出了他自称比《物理学》6.2 中的方案更充分的解决。亚里士多德在这些段落所指的论证得名于他在《论题篇》8.8 中的提及——“芝诺的论证：不可能移动或遍历运动场”——他将其作为反对通常信念却又难以解决的论证的首要例子（160ᵇ7–9）。
+    step2: |-
+      “第一，”亚里士多德说，“是关于运动不可能的论证：运动着的东西必须先到达中点，然后才到终点”（*Ph*. 6.9, 239ᵇ11–13）。他在此未再多说，只提到他早先在《物理学》6.2 的讨论——在那里，他在论证时间与大小皆为连续之后断言：“因此，芝诺的论证错误地预设：不可能在有限的时间内逐个地遍历或接触无限的东西”（233ᵃ21–3）。随后在《物理学》8.8 里，他再次提出如何回应“芝诺论证所提出的问题，即如果必须总是先经过中点，而这些中点又是无限的，就不可能遍历无限的东西”（263ᵃ4–6），并进而给出他自称比《物理学》6.2 更充分的解决。这些段落所指的论证得名于《论题篇》8.8 的提及——“芝诺的论证：不可能移动或遍历运动场”——亚里士多德将它列为反对通常信念却又难以解决的论证之首例（160ᵇ7–9）。
+  - id: 24
+    kind: body
+    source: |-
+      The following reconstruction attempts to remain true to this evidence and thus to capture something of how Zeno may originally have argued. For anyone (*S*) to traverse the finite distance across a stadium from *p*₀ to *p*₁ within a limited amount of time, *S* must first reach the point half way between *p*₀ and *p*₁, namely *p*₂.
+    step1: |-
+      下面的重构试图忠实于这一证据，从而捕捉芝诺原本可能如何论证的某种风貌。任何人（*S*）要在有限时间内遍历一段从 *p*₀ 到 *p*₁ 的有限距离，*S* 必须先到达 *p*₀ 与 *p*₁ 的中点，即 *p*₂。
+    step2: |-
+      下面的重构试图忠实于上述证据，借以捕捉芝诺原本可能如何论证的某种风貌。任何人（*S*）要在有限时间内跑完从 *p*₀ 到 *p*₁ 的一段有限距离，都必须先到达 *p*₀ 与 *p*₁ 的中点，即 *p*₂。
+  - id: 25
+    kind: body
+    source: |-
+      ![S is on a line at p0 on a line that extends to p1. p2 is halfway between p0 and p1 and p3 is halfway between p0 and p2. p4 is halfway between p0 and p3.](../assets/zeno-elea/graphic1.jpg)
+    step1: |-
+      ![*S* 位于从 *p*₀ 延伸到 *p*₁ 的直线上 *p*₀ 处；*p*₂ 是 *p*₀ 与 *p*₁ 的中点，*p*₃ 是 *p*₀ 与 *p*₂ 的中点，*p*₄ 是 *p*₀ 与 *p*₃ 的中点。](../yuanwen/assets/zeno-elea/graphic1.jpg)
+    step2: |-
+      ![*S* 位于从 *p*₀ 延伸到 *p*₁ 的直线上 *p*₀ 处；*p*₂ 是 *p*₀ 与 *p*₁ 的中点，*p*₃ 是 *p*₀ 与 *p*₂ 的中点，*p*₄ 是 *p*₀ 与 *p*₃ 的中点。](../yuanwen/assets/zeno-elea/graphic1.jpg)
+  - id: 26
+    kind: body
+    source: |-
+      Before *S* reaches *p*₂, *S* must first reach the point half way between *p*₀ and *p*₂, namely *p*₃. Again, before *S* reaches *p*₃, *S* must first reach the point half way between *p*₀ and *p*₃, namely *p*₄. There is a half way point again to be reached between *p*₀ and *p*₄. In fact, there is always another half way point that must be reached before reaching any given half way point, so that the number of half way points that must be reached between any *p*ₙ and any *p*ₙ₋₁ is unlimited. But it is impossible for *S* to reach an unlimited number of half way points within a limited amount of time. Therefore, it is impossible for *S* to traverse the stadium or, indeed, for *S* to move at all; in general, it is impossible to move from one place to another.
+    step1: |-
+      在 *S* 到达 *p*₂ 之前，*S* 必须先到达 *p*₀ 与 *p*₂ 的中点，即 *p*₃。同样，在 *S* 到达 *p*₃ 之前，*S* 必须先到达 *p*₀ 与 *p*₃ 的中点，即 *p*₄。在 *p*₀ 与 *p*₄ 之间又有一个中点有待到达。实际上，在任何给定的中点被到达之前，总有另一个中点必须先被到达，因此，在任何 *p*ₙ 与任何 *p*ₙ₋₁ 之间必须被到达的中点在数量上是无限的。但 *S* 不可能在有限时间内到达无限多个中点。所以，*S* 不可能遍历运动场，或者简直说，*S* 根本不可能移动；一般而言，不可能从一处移动到另一处。
+    step2: |-
+      在 *S* 到达 *p*₂ 之前，*S* 必须先到达 *p*₀ 与 *p*₂ 的中点，即 *p*₃；同样，在 *S* 到达 *p*₃ 之前，*S* 必须先到达 *p*₀ 与 *p*₃ 的中点，即 *p*₄；而 *p*₀ 与 *p*₄ 之间又有一个中点有待到达。实际上，任一给定的中点在被到达之前，总有另一个中点必须先被到达，故在任何 *p*ₙ 与任何 *p*ₙ₋₁ 之间必须被到达的中点在数量上无限。可是 *S* 不可能在有限时间内到达无限多个中点。所以，*S* 不可能遍历运动场；简直说，*S* 根本不可能移动——一般而言，不可能从一处移动到另一处。
+  - id: 27
+    kind: body
+    source: |-
+      #### 2.2.2 The Achilles
+    step1: |-
+      #### 2.2.2 阿基里斯
+    step2: |-
+      #### 2.2.2 阿基里斯
+  - id: 28
+    kind: body
+    source: |-
+      Immediately after his brief presentation of the Stadium, Aristotle introduces the most famous of Zeno’s paradoxes of motion, that of Achilles and the Tortoise: “Second is the one called ‘Achilles’: this is that the slowest runner never will be overtaken by the fastest; for it is necessary for the one chasing to come first to where the one fleeing started from, so that it is necessary for the slower runner always to be ahead some” (*Ph*. 6.9, 239ᵇ14–18). Simplicius adds the identification of the slowest runner as the tortoise (*in Ph*. 1014, 5). Aristotle remarks that this argument is merely a variation on the Dichotomy, with the difference that it does not depend on dividing in half the distance taken (*Ph*. 6.9, 239ᵇ18–20), and his analysis, such as it is, emphasizes that this paradox is to be resolved in the same way as the first paradox of motion. Whether this is actually the case is debatable.
+    step1: |-
+      在简短呈现运动场之后，亚里士多德立即引入芝诺最著名的运动悖论，阿基里斯与龟的悖论：“第二是所谓‘阿基里斯’：这就是说跑得最慢的永远不会被跑得最快的追上；因为追赶者必须先到达被追赶者出发的地方，所以跑得较慢者必定总是在前面一段”（*Ph*. 6.9, 239ᵇ14–18）。辛普里丘补充指明跑得最慢者就是龟（*in Ph*. 1014, 5）。亚里士多德评论说，这一论证只是二分法的一个变体，不同之处在于它不依赖于把走过的距离对半分割（*Ph*. 6.9, 239ᵇ18–20）；他的分析——就其而言——强调这一悖论应当以与第一个运动悖论相同的方式解决。实际情况是否如此，是可以争论的。
+    step2: |-
+      简短呈现运动场之后，亚里士多德立即引入芝诺最著名的运动悖论——阿基里斯与龟的悖论：“第二是所谓‘阿基里斯’：这就是说跑得最慢的永远不会被跑得最快的追上；因为追赶者必须先到达被追赶者出发的地方，所以跑得较慢者必定总是在前面一段”（*Ph*. 6.9, 239ᵇ14–18）。辛普里丘补充指明：跑得最慢者就是龟（*in Ph*. 1014, 5）。亚里士多德评论说，这一论证只是二分法的变体，不同处在于它不依赖把走过的距离对半分割（*Ph*. 6.9, 239ᵇ18–20）；他的分析——就其所有而言——强调这一悖论应当与第一个运动悖论以同一方式解决。实际情况是否如此，尚可争论。
+  - id: 29
+    kind: body
+    source: |-
+      If a tortoise starts ahead of Achilles in a race, the tortoise will never be overtaken by Achilles. Let the start of the race be represented as follows:
+    step1: |-
+      如果龟在赛跑中起步于阿基里斯前方，龟将永远不会被阿基里斯追上。设赛跑的起点如下：
+    step2: |-
+      若龟在赛跑中起步于阿基里斯前方，龟将永远不会被阿基里斯追上。设赛跑起点如下：
+  - id: 30
+    kind: body
+    source: |-
+      ![At position 0, A is at a0, the beginning of the line, and T is at t0, the midpoint of the line](../assets/zeno-elea/graphic2.jpg)
+    step1: |-
+      ![位置 0：*A* 位于线的起点 *a*₀，*T* 位于线的中点 *t*₀](../yuanwen/assets/zeno-elea/graphic2.jpg)
+    step2: |-
+      ![位置 0：*A* 位于线的起点 *a*₀，*T* 位于线的中点 *t*₀](../yuanwen/assets/zeno-elea/graphic2.jpg)
+  - id: 31
+    kind: body
+    source: |-
+      During the time it takes Achilles to reach the point from which the tortoise started (*t*₀), the tortoise will have progressed some distance (*d*₁) beyond that point, namely to *t*₁, as follows:
+    step1: |-
+      在阿基里斯到达龟的出发点（*t*₀）所用的时间里，龟已越过该点前进了一段距离（*d*₁），到达 *t*₁，如下：
+    step2: |-
+      在阿基里斯到达龟的出发点（*t*₀）所用的时间里，龟已越过该点前进一段距离（*d*₁），到达 *t*₁，如下：
+  - id: 32
+    kind: body
+    source: |-
+      ![At Postion 1, A is now at a1 = t0, T is at t1 = t0 + d1](../assets/zeno-elea/graphic3.jpg)
+    step1: |-
+      ![位置 1：*A* 现在位于 *a*₁ = *t*₀，*T* 位于 *t*₁ = *t*₀ + *d*₁](../yuanwen/assets/zeno-elea/graphic3.jpg)
+    step2: |-
+      ![位置 1：*A* 现在位于 *a*₁ = *t*₀，*T* 位于 *t*₁ = *t*₀ + *d*₁](../yuanwen/assets/zeno-elea/graphic3.jpg)
+  - id: 33
+    kind: body
+    source: |-
+      Likewise, during the time it then takes Achilles to reach the new point the tortoise has reached (*t*₁), the tortoise will have progressed some new distance (*d*₂) beyond the tortoise’s new starting point, namely to *t*₂, as follows:
+    step1: |-
+      同样，在阿基里斯随后到达龟的新地点（*t*₁）所用的时间里，龟又越过其新出发点前进了某段新距离（*d*₂），到达 *t*₂，如下：
+    step2: |-
+      同样，在阿基里斯随后到达龟的新地点（*t*₁）所用的时间里，龟又越过其新出发点前进某段新距离（*d*₂），到达 *t*₂，如下：
+  - id: 34
+    kind: body
+    source: |-
+      ![At Postion 2, A is now at a2 = t1, T is at t2 = t1 + d2](../assets/zeno-elea/graphic4.jpg)
+    step1: |-
+      ![位置 2：*A* 现在位于 *a*₂ = *t*₁，*T* 位于 *t*₂ = *t*₁ + *d*₂](../yuanwen/assets/zeno-elea/graphic4.jpg)
+    step2: |-
+      ![位置 2：*A* 现在位于 *a*₂ = *t*₁，*T* 位于 *t*₂ = *t*₁ + *d*₂](../yuanwen/assets/zeno-elea/graphic4.jpg)
+  - id: 35
+    kind: body
+    source: |-
+      The tortoise will again have progressed some further distance (*d*₃) beyond *t*₂, namely to *t*₃, in the time it takes Achilles to move from *a*₂(=*t*₁) to *a*₃(=*t*₂). In fact, during the time it takes Achilles to reach the tortoise’s location at the beginning of that time, the tortoise will always have moved some distance ahead, so that every time Achilles reaches the tortoise’s new starting point, the tortoise will be ahead some. Therefore, the slowest runner in the race, the tortoise, will never be overtaken by the fastest runner, Achilles.
+    step1: |-
+      在阿基里斯从 *a*₂（=*t*₁）移到 *a*₃（=*t*₂）所用的时间里，龟又越过 *t*₂ 前进了某段更远的距离（*d*₃），到达 *t*₃。实际上，在阿基里斯到达龟在该时段开始时所在地点所用的时间里，龟总会又前移一段距离，因此，每当阿基里斯到达龟的新出发点，龟总在前面某处。所以，赛跑中跑得最慢者——龟——永远不会被跑得最快者阿基里斯追上。
+    step2: |-
+      在阿基里斯从 *a*₂（=*t*₁）移到 *a*₃（=*t*₂）所用的时间里，龟又越过 *t*₂ 前进一段更远的距离（*d*₃），到达 *t*₃。实际上，阿基里斯每次到达龟在该时段开始时的所在地点，龟总会又前移一段距离；于是每当阿基里斯到达龟的新出发点，龟总在前面某处。所以，赛跑中跑得最慢者——龟——永远不会被跑得最快者阿基里斯追上。
+  - id: 36
+    kind: body
+    source: |-
+      #### 2.2.3 The Arrow
+    step1: |-
+      #### 2.2.3 飞矢不动
+    step2: |-
+      #### 2.2.3 飞矢不动
+  - id: 37
+    kind: body
+    source: |-
+      Aristotle’s discussion of the relation of motion and time in *Physics* 6.8 prepares the way for his objection to the Zenonian paradox of motion he mentions at the very beginning of *Physics* 6.9: “Zeno reasons fallaciously; for he says that if every thing always is resting whenever it is against what is equal, and what moves is always in the now, then the moving arrow is motionless” (*Ph*. 6.9, 239ᵇ5–7). Aristotle remarks that Zeno relies on the false supposition that time is composed of indivisible “nows” or instants (ᵇ8–9), a point he soon repeats in identifying the argument purporting to show that “the moving arrow is standing still” as the third of Zeno’s paradoxes of motion (ᵇ30–3). In his *Life of Pyrrho*, Diogenes Laertius reports, “Zeno abolishes motion, saying, ‘What moves moves neither in the place it is nor in a place it is not” (D.L. 9.72 = Zeno B4 DK; cf. Epiphanius, *Against the Heretics* 3.11). This report, which Diels and Kranz took to preserve a genuine fragment of Zeno’s book, appears to suggest how the argument that the moving arrow is at rest may have figured as part of a broader argument against motion. Diogenes, however, is not a particularly good source for Zeno’s arguments: his *Life of Zeno* notes only that he was the first to propound the “Achilles” argument, along with many others (D.L. 9.29). It is just as likely, therefore, that Diogenes’ report depends on an intervening attempt to couch the paradoxes of motion reported by Aristotle in the dilemmatic form Plato indicates was typical of Zenonian argumentation.
+    step1: |-
+      亚里士多德在《物理学》6.8 中对运动与时间关系的讨论，为他反驳芝诺运动悖论铺平了道路；他在《物理学》6.9 一开始就提到那一悖论：“芝诺推理有误；因为他说，凡事物凡是与等量者相并就总是静止，而运动着的东西总是在现在之中，所以运动着的箭是静止的”（*Ph*. 6.9, 239ᵇ5–7）。亚里士多德评论说，芝诺依赖一个错误的假定，即时间由不可分的“现在”即瞬间组成（ᵇ8–9）；这一点他不久又重复了一遍，当时他把那个意在表明“运动着的箭静止不动”的论证认定为芝诺运动悖论中的第三个（ᵇ30–3）。在其《皮浪传》中，第欧根尼·拉尔修报道说：“芝诺取消运动，说‘运动者在它所在的地方不动，也不在它不在的地方动’”（D.L. 9.72 = Zeno B4 DK；参见 Epiphanius, *Against the Heretics* 3.11）。这一报道——第尔斯与克兰茨认为它保存了芝诺书中一个真实残篇——似乎提示：运动之箭静止的论证，可能曾作为一个更宽泛的反对运动的论证的一部分。不过，第欧根尼并不是芝诺论证的特别好的来源：其《芝诺传》只提到他是“阿基里斯”论证以及许多其他论证的第一个提出者（D.L. 9.29）。因此，同样可能的是：第欧根尼的报道依赖于某个中间环节的尝试，即把亚里士多德所报道的运动悖论改写为柏拉图提示为芝诺论证典型的两难形式。
+    step2: |-
+      亚里士多德在《物理学》6.8 中对运动与时间关系的讨论，为他反驳芝诺运动悖论铺了路；他在《物理学》6.9 开篇便提到那一悖论：“芝诺推理有误；因为他说，凡事物凡是与等量者相并就总是静止，而运动着的东西总是在现在之中，所以运动着的箭是静止的”（*Ph*. 6.9, 239ᵇ5–7）。亚里士多德评论说，芝诺依赖一个错误假定——时间由不可分的“现在”即瞬间组成（ᵇ8–9）；此点他不久又重复一遍，当时他把意在表明“运动着的箭静止不动”的论证认定为芝诺运动悖论中的第三个（ᵇ30–3）。在其《皮浪传》中，第欧根尼·拉尔修报道：“芝诺取消运动，说‘运动者在它所在的地方不动，也不在它不在的地方动’”（D.L. 9.72 = Zeno B4 DK；参见 Epiphanius, *Against the Heretics* 3.11）。这一报道——第尔斯与克兰茨认为它保存了芝诺书中一个真实残篇——似乎提示：运动之箭静止的论证，可能曾作为一个更宽泛的反对运动之论证的一部分。不过第欧根尼并非芝诺论证的上佳来源：其《芝诺传》只说他是“阿基里斯”论证以及许多其他论证的第一个提出者（D.L. 9.29）。因此同样可能的是：第欧根尼的报道依赖某个中间环节的尝试——把亚里士多德报道的运动悖论改写为柏拉图所示芝诺论证典型的两难形式。
+  - id: 38
+    kind: body
+    source: |-
+      Even if Diogenes’ report happens to be reliable, we still must rely on Aristotle in trying to reconstruct the argument that, as in Diogenes’ report, what moves does not move in the place where it is. (We get no indication from him of any argument of Zeno’s to show that what moves does not move where it is not; perhaps that was thought self-evident.) And Aristotle’s evidence in this instance is an even more meager basis for reconstruction than usual. Thus, according to Aristotle, the moving arrow (*A*) is actually standing still. The argument for this conclusion seems to be as follows: What moves is always, throughout the duration of its motion, in the now, that is to say, in one instant of time after another. So, throughout its flight, *A* is in one instant of time after another. At any particular instant during its flight (*t*), *A* occupies a place exactly equivalent to its length, that is, *A* is “against what is equal.” But whatever is against what is equal is resting. So *A* is resting at *t*. But *t* is no different than the other instants during *A*‘s flight, so that what is the case with *A* at *t* is the case with *A* at every other instant of its flight. Thus *A* is resting at every instant of its flight, and this amounts to the moving arrow always being motionless or standing still.
+    step1: |-
+      即使第欧根尼的报道碰巧可靠，我们在重构“运动者不在其所在之处运动”这一论证时仍须依赖亚里士多德——如在第欧根尼的报道中那样。（至于芝诺是否有论证表明运动者不在其不在之处运动，我们没有从他那里得到任何提示；也许这被视为不证自明。）而在这个事例上，亚里士多德的证据是比通常更单薄的重构基础。这样，按亚里士多德的说法，运动着的箭（*A*）实际上是静止的。支持这一结论的论证似乎如下：凡运动者在其运动的整个持续期间都在现在之中，也就是说，在一个接一个的时间瞬间之中。所以，在整个飞行期间，*A* 处于一个接一个的时间瞬间之中。在其飞行的任一特定瞬间（*t*），*A* 占据一个恰好与其长度相等的位置，也就是说，*A*“与等量者相并”。但凡与等量者相并者都是静止的。所以 *A* 在 *t* 是静止的。但 *t* 与 *A* 飞行期间的其他瞬间没有不同，故 *A* 在 *t* 的情形就是 *A* 在其飞行中每个其他瞬间的情形。因此，*A* 在其飞行的每个瞬间都是静止的，而这也就等于说运动着的箭总是不动的或静止的。
+    step2: |-
+      即便第欧根尼的报道碰巧可靠，重构“运动者不在其所在之处运动”这一论证时，我们仍须依赖亚里士多德——一如第欧根尼的报道所显示的。（芝诺是否有论证表明运动者不在其不在之处运动？亚里士多德未给我们任何提示；也许这被视为不证自明。）而在这个事例上，亚里士多德的证据比通常更单薄，重构愈发困难。按亚里士多德的说法，运动着的箭（*A*）实际上静止。支持这一结论的论证似乎如下：凡运动者在其运动的整个持续期间都在现在之中，即处于一个接一个的时间瞬间之中；故整个飞行期间，*A* 处于一个接一个的时间瞬间之中。在其飞行的任一特定瞬间（*t*），*A* 恰好占据一段与其长度相等的位置，也就是说，*A*“与等量者相并”。但凡与等量者相并者皆静止，故 *A* 在 *t* 静止。而 *t* 与 *A* 飞行期间的其他瞬间并无不同，故 *A* 在 *t* 的情形就是 *A* 在其他每个瞬间的情形。因此，*A* 在其飞行的每个瞬间都静止，而这也就等于说：运动着的箭总是不动或静止的。
+  - id: 39
+    kind: body
+    source: |-
+      #### 2.2.4 The Moving Rows
+    step1: |-
+      #### 2.2.4 运动队列
+    step2: |-
+      #### 2.2.4 运动队列
+  - id: 40
+    kind: body
+    source: |-
+      “Fourth,” Aristotle says, “is the one about the things in the stadium moving from opposite directions, being of equal bulk, alongside things of equal size, with some moving from the end of the stadium and some from the middle, at equal speed, in which case he supposes it turns out that half the time is equal to its double” (*Ph*. 6.9, 239ᵇ33–240ᵃ1).
+    step1: |-
+      “第四，”亚里士多德说，“是关于运动场中从相反方向移动的两列东西的论证：它们与等大的东西并排，体积相等，一列从运动场末端出发，另一列从中间出发，速度相等；在此情形下他认为结果是：一半的时间等于它自己的两倍”（*Ph*. 6.9, 239ᵇ33–240ᵃ1）。
+    step2: |-
+      “第四，”亚里士多德说，“是关于运动场中从相反方向移动的两列东西的论证：它们与等大的东西并排，体积相等，一列从运动场末端出发，另一列从中间出发，速度相等；在此情形下他认为结果是：一半的时间等于它自己的两倍”（*Ph*. 6.9, 239ᵇ33–240ᵃ1）。
+  - id: 41
+    kind: body
+    source: |-
+      Aristotle’s ensuing discussion of what he takes to be Zeno’s mistakes is based on an *exempli gratia* scenario normally taken as a basis for reconstruction, as it is here. “For example,” Aristotle says, “let the resting equal masses be those marked AA, let those marked BB be beginning from the middle, being equal in number and size to these, and let those marked CC be beginning from the end, being equal in number and size to these, and moving at the same speed as the *B*s” (Arist. *Ph*. 6.9, 240ᵃ4–8).
+    step1: |-
+      亚里士多德随后关于他所认为的芝诺之错误的讨论，基于一个 *exempli gratia* 场景，该场景通常被当作重构的基础，此处亦然。“例如，”亚里士多德说，“设静止的等大物体为标着 AA 的那些，标着 BB 的那些从中间出发，在数目与大小上与这些相等，标着 CC 的那些从末端出发，在数目与大小上与这些相等，并以与 *B* 们相同的速度移动”（Arist. *Ph*. 6.9, 240ᵃ4–8）。
+    step2: |-
+      亚里士多德随后关于他所认为的芝诺之错误的讨论，基于一个 *exempli gratia* 场景；该场景通常被当作重构的基础，此处亦然。“例如，”亚里士多德说，“设静止的等大物体为标着 AA 的那些，标着 BB 的那些从中间出发，在数目与大小上与这些相等，标着 CC 的那些从末端出发，在数目与大小上与这些相等，并以与 *B* 们相同的速度移动”（Arist. *Ph*. 6.9, 240ᵃ4–8）。
+  - id: 42
+    kind: body
+    source: |-
+      *Diagram 1*
+    step1: |-
+      *图 1*
+    step2: |-
+      *图 1*
+  - id: 43
+    kind: body
+    source: |-
+      | （嵌套表：\| A A A A \| \| \| --- \| --- \| \| B B B B \| → \| \| ← \| C C C C \|） Diagram 1 |   | （嵌套表：\| A A A A \| \| --- \| \| B B B B \| \| C C C C \|） Diagram 2 |
+      | --- | --- | --- |
+    step1: |-
+      | A A A A |   |   |
+      | :---: | :---: | :---: |
+      | B B B B | → |   |
+      |   | ← | C C C C |
+
+      *图 2*
+
+      | A A A A |
+      | :---: |
+      | B B B B |
+      | C C C C |
+    step2: |-
+      | A A A A |   |   |
+      | :---: | :---: | :---: |
+      | B B B B | → |   |
+      |   | ← | C C C C |
+
+      *图 2*
+
+      | A A A A |
+      | :---: |
+      | B B B B |
+      | C C C C |
+  - id: 44
+    kind: body
+    source: |-
+      Diagram 1 represents a plausible way of understanding what Aristotle envisages as the starting position in Zeno’s paradox, even though his description of this position is somewhat underdetermined. Aristotle continues: “It follows that the leading B and the leading C are at the end at the same time, once they move past one another” (240ᵃ9–10). This description suggests a final position as represented in Diagram 2. Since we have no other indication of how Zeno himself thought he could derive the conclusion Aristotle reports, that “half the time is equal to its double,” from the description of this situation, we have to rely on Aristotle for this as well: “It follows,” Aristotle says, “that the [leading] C has gone past all [the Bs], while the [leading] B has gone past half [the As], so that the time is half; for each of the two is alongside each other for an equal amount of time. But it also follows that the leading B has gone past all the Cs; for the leading C and the leading B will be at the opposite ends at the same time, because both are alongside the As for an equal time” (204ᵃ10–17). Apparently, Zeno somehow meant to infer from the fact that the leading B moves past two As in the same time it moves past all four Cs that half the time is equal to its double. The challenge is to develop from this less than startling fact anything more than a facile appearance of paradox. Since it is stressed that all the bodies are of the same size and that the moving bodies move at the same speed, Zeno would appear to have relied on some such postulate as that a body in motion proceeding at constant speed will move past bodies of the same size in the same amount of time. He could have argued that in the time it takes all the Cs to move past all the Bs, the leading B moves past two As or goes two lengths, and the leading B also moves past four Cs or goes four lengths. According to the postulate, then, the time the leading B travels must be the same as half the time it travels. Unfortunately, the evidence for this particular paradox does not enable us to determine just how Zeno may in fact have argued. Aristotle thinks the argument depends upon a transparent falsehood, and one must therefore keep in mind, if it seems he was right, that Aristotle’s presentation and reconstruction may itself be colored by his desire to bear out his accusation.
+    step1: |-
+      图 1 代表一种理解亚里士多德所设想的芝诺悖论初始位置的合理方式，尽管他对这一位置的描述在某种程度上是不确定的。亚里士多德接着说：“于是，领头的 B 与领头的 C 在同一时刻到达末端，一旦它们相互越过”（240ᵃ9–10）。这一描述暗示一个如图 2 所示的最终位置。由于我们没有别的线索可知芝诺本人认为自己如何能从对这一情形的描述推出亚里士多德所报道的结论——“一半的时间等于它自己的两倍”——在这一件事上我们也只得依赖亚里士多德：“于是，”亚里士多德说，“领头的 C 越过了所有〔B 们〕，而领头的 B 越过了一半〔A 们〕，所以时间是一半；因为二者相互并排的时间相等。但同样可以得出，领头的 B 越过了所有 C 们；因为领头的 C 与领头的 B 将在同一时刻到达相反的两端，因为二者与 A 们并排的时间相等”（204ᵃ10–17）。显然，芝诺意欲从“领头的 B 在越过全部四个 C 所用的同一时间里越过两个 A”这一事实推出：一半的时间等于它自己的两倍。挑战在于：从这个并不那么惊人的事实中，发展出某种超出表面悖论的东西。既然原文强调所有物体大小相同、运动物体速度相同，芝诺看来依赖了类似这样的公设：以恒定速度运动的物体，越过同大小的物体所用时间相同。他本可以论证：在全部 C 们越过全部 B 们所用的时间里，领头的 B 越过两个 A，即走了两个长度；而领头的 B 也越过四个 C，即走了四个长度。按该公设，领头的 B 行进的时间就必须等于它行进时间的一半。遗憾的是，关于这个特定悖论的证据并不能使我们确定芝诺实际上究竟如何论证。亚里士多德认为该论证依赖一个明显的谬误；因此，如果人们觉得他是对的，就必须记住：亚里士多德的呈现与重构本身可能也被他想要坐实这一指责的愿望所影响。
+    step2: |-
+      图 1 代表理解亚里士多德所设想的芝诺悖论初始位置的一种合理方式，尽管他对这一位置的描述多少有些不确定。亚里士多德接着说：“于是，领头的 B 与领头的 C 在同一时刻到达末端，一旦它们相互越过”（240ᵃ9–10）。这一描述暗示一个如图 2 所示的最终位置。芝诺本人认为如何能从这一情形的描述推出亚里士多德所报道的结论——“一半的时间等于它自己的两倍”——我们别无线索，故在这件事上同样只得依赖亚里士多德：“于是，”亚里士多德说，“领头的 C 越过了所有〔B 们〕，而领头的 B 越过了一半〔A 们〕，所以时间是一半；因为二者相互并排的时间相等。但同样可以得出，领头的 B 越过了所有 C 们；因为领头的 C 与领头的 B 将在同一时刻到达相反的两端，因为二者与 A 们并排的时间相等”（204ᵃ10–17）。显然，芝诺意欲从“领头的 B 在越过全部四个 C 所用的同一时间里越过两个 A”这一事实推出：一半的时间等于它自己的两倍。挑战在于，从这个并不那么惊人的事实中发展出某种超出表面悖论的东西。原文既然强调所有物体大小相同、运动物体速度相同，芝诺看来依赖了类似这样的公设：以恒定速度运动的物体，越过同大小物体所用的时间相同。他本可以论证：在全部 C 们越过全部 B 们所用的时间里，领头的 B 越过两个 A，即走了两个长度；而领头的 B 也越过四个 C，即走了四个长度。按该公设，领头的 B 行进的时间就必须等于它行进时间的一半。遗憾的是，关于这个特定悖论的证据并不能让我们确定芝诺实际上究竟如何论证。亚里士多德认为该论证依赖一个明显的谬误；因此，如果人们觉得他是对的，就必须记住：亚里士多德的呈现与重构本身，可能也被他想要坐实这一指责的愿望所影响。
+  - id: 45
+    kind: body
+    source: |-
+      ### 2.3 Other Paradoxes
+    step1: |-
+      ### 2.3 其他悖论
+    step2: |-
+      ### 2.3 其他悖论
+  - id: 46
+    kind: body
+    source: |-
+      Aristotle also gestures toward two additional ingenious arguments by Zeno, versions of which were also known to Simplicius.
+    step1: |-
+      亚里士多德还顺带提到芝诺另外两个精巧的论证，辛普里丘也知道它们的某些版本。
+    step2: |-
+      亚里士多德还顺带提到芝诺另外两个精巧的论证；其某些版本，辛普里丘同样知道。
+  - id: 47
+    kind: body
+    source: |-
+      #### 2.3.1 The Millet Seed
+    step1: |-
+      #### 2.3.1 黍粒
+    step2: |-
+      #### 2.3.1 黍粒
+  - id: 48
+    kind: body
+    source: |-
+      “Zeno’s argument is not correct, that any portion of millet seed whatsoever makes a sound” (Arist. *Ph*. 7.5, 250ᵃ20–1). The version of this argument known to Simplicius represents Zeno as engaged in a fictional argument with Protagoras, wherein he makes the point that if a large number of millet seeds makes a sound (for example, when poured out in a heap), then one seed or even one ten-thousandth of a seed should also make its own sound (for example, in that process) (Simp. *in Ph*. 1108.18–28). Aristotle’s report is too slight a basis for reconstructing how Zeno may in fact have argued, and Simplicius is evidently reporting some later reworking. The evidence nonetheless suggests that Zeno anticipated reasoning related to that of the sorites paradox, apparently invented more than a century later.
+    step1: |-
+      “芝诺的论证不正确，他说无论多么小的一份黍粒都会发出声响”（Arist. *Ph*. 7.5, 250ᵃ20–1）。辛普里丘所知的这个论证的版本，把芝诺描写成在与普罗塔戈拉进行一场虚构的论辩：他的要点是，如果大量黍粒发出声响（例如在倾倒成堆时），那么一粒黍、甚至一粒黍的万分之一也应当发出自己的声响（例如在同一过程中）（Simp. *in Ph*. 1108.18–28）。亚里士多德的报道作为重构芝诺实际如何论证的基础实在过于单薄，辛普里丘显然是在报道某个后来的改作。不过，这一证据表明芝诺预见了与堆垛悖论相关的推理——那类悖论显然是一个多世纪之后才被发明出来的。
+    step2: |-
+      “芝诺的论证不正确，他说无论多么小的一份黍粒都会发出声响”（Arist. *Ph*. 7.5, 250ᵃ20–1）。辛普里丘所知的版本把芝诺描写成在与普罗塔戈拉进行一场虚构的论辩，其要点是：如果大量黍粒发出声响（例如倾倒成堆时），那么一粒黍、甚至一粒黍的万分之一也应当发出自己的声响（例如在同一过程中）（Simp. *in Ph*. 1108.18–28）。以亚里士多德的报道去重构芝诺实际如何论证，基础实在过于单薄；辛普里丘显然是在报道某个后来的改作。不过这一证据表明，芝诺预见了与堆垛悖论相关的推理——那类悖论显然晚了一个多世纪才被发明出来。
+  - id: 49
+    kind: body
+    source: |-
+      #### 2.3.2 A Paradox of Place
+    step1: |-
+      #### 2.3.2 一个处所悖论
+    step2: |-
+      #### 2.3.2 一个处所悖论
+  - id: 50
+    kind: body
+    source: |-
+      Toward the end of the introduction to his analysis of place, Aristotle notes that “Zeno’s difficulty requires some explanation; for if every thing that is is in a place, it is clear that there will also be a place of the place, and so on to infinity” (Arist. *Ph*. 4.1, 209ᵃ23–5). His subsequent statement of the problem is even briefer but adds one key point: “Zeno raises the problem that, if place is something, it will be in something” (Arist. *Ph*. 4.3, 210ᵇ22–3; cf. Eudemus fr. 78 Wehrli, [Arist.] *De Melisso Xenophane Gorgia* 979ᵇ23–7, Simp. *in Ph*. 562, 3–6). Zeno would appear to have argued as follows. Everything that is is in something, namely a place. If a place is something, then it too must be in something, namely some further place. If this second place is something, it must be in yet another place; and the same reasoning applies to this and each successive place *ad infinitum*. Thus, if there is such a thing as place, there must be limitless places everywhere, which is absurd. Therefore, there is no such thing as place. This argument could well have formed part of a more elaborate argument against the view that there are many things, such as that if there are many things, they must be somewhere, i.e. in some place; but there is no such thing as place and thus no place for the many to be; therefore, there are not many things. This is, however, only speculation.
+    step1: |-
+      在其处所分析导言的结尾处，亚里士多德指出：“芝诺的难题需要一些解释；因为如果每一个存在者都在一个处所中，那么显然也将有一个处所的处所，以至于无穷”（Arist. *Ph*. 4.1, 209ᵃ23–5）。他随后对问题的陈述更加简短，但补充了一个关键之点：“芝诺提出难题：如果处所是某种东西，它将在某个东西之中”（Arist. *Ph*. 4.3, 210ᵇ22–3；参见 Eudemus fr. 78 Wehrli, [Arist.] *De Melisso Xenophane Gorgia* 979ᵇ23–7, Simp. *in Ph*. 562, 3–6）。芝诺看来如下论证：每一个存在者都在某个东西之中，即在一个处所中。如果处所是某种东西，那么它也必须在某个东西之中，即某个进一步的处所中。如果这第二个处所是某种东西，它就必须在又一个处所之中；同样的推理适用于它以及每一个相继的处所，以至无穷。因此，如果有处所这样的东西，那么处处都会有无限的处所，这是荒谬的。所以，没有处所这样的东西。这个论证完全可能曾是一个更精巧的反对“存在许多事物”之观点的论证的一部分，例如：如果存在许多事物，它们必定在某个地方，即某个处所中；但没有处所这样的东西，因而众多事物没有处所可在；所以，不存在许多事物。不过，这只是推测。
+    step2: |-
+      在其处所分析导言的结尾处，亚里士多德指出：“芝诺的难题需要一些解释；因为如果每一个存在者都在一个处所中，那么显然也将有一个处所的处所，以至于无穷”（Arist. *Ph*. 4.1, 209ᵃ23–5）。他随后对问题的陈述更简短，但补充了一个关键之点：“芝诺提出难题：如果处所是某种东西，它将在某个东西之中”（Arist. *Ph*. 4.3, 210ᵇ22–3；参见 Eudemus fr. 78 Wehrli, [Arist.] *De Melisso Xenophane Gorgia* 979ᵇ23–7, Simp. *in Ph*. 562, 3–6）。芝诺看来如下论证：每一个存在者都在某个东西之中，即在一个处所中；如果处所是某种东西，它也必须在某个东西之中，即某个进一步的处所中；如果这第二个处所是某种东西，它就必须在又一个处所之中；同样的推理适用于它以及每一个相继的处所，以至无穷。于是，若有处所这样的东西，处处都会有无限的处所——这是荒谬的。所以，没有处所这样的东西。这个论证完全可能曾是一个更精巧的反对“存在许多事物”观点之论证的一部分，例如：如果存在许多事物，它们必定在某个地方，即某个处所中；但没有处所这样的东西，众多事物便没有处所可在；所以，不存在许多事物。不过，这只是推测。
+  - id: 51
+    kind: body
+    source: |-
+      ## 3. Zeno’s Purposes
+    step1: |-
+      ## 3 芝诺的意图
+    step2: |-
+      ## 3 芝诺的意图
+  - id: 52
+    kind: body
+    source: |-
+      The commonly found claim that Zeno aimed to defend the paradoxical monism of his Eleatic mentor, Parmenides, is based upon the speculations by the young Socrates of Plato’s *Parmenides* on Zeno’s ulterior motives. After the portion of the exchange between Socrates and Zeno quoted above (sect. 1), Socrates turns to Parmenides and says:
+    step1: |-
+      人们常说芝诺旨在为其爱利亚导师巴门尼德的悖论性一元论辩护；这一说法的依据，是柏拉图《巴门尼德篇》中年轻的苏格拉底对芝诺隐秘动机的揣测。在上面引述的苏格拉底与芝诺对话（第 1 节）之后，苏格拉底转向巴门尼德说：
+    step2: |-
+      人们常说芝诺意在为其爱利亚学派导师巴门尼德的悖论性一元论辩护；这一说法的依据，是柏拉图《巴门尼德篇》中年轻的苏格拉底对芝诺隐秘动机的揣测。在上引苏格拉底与芝诺的对话（第 1 节）之后，苏格拉底转向巴门尼德说：
+  - id: 53
+    kind: body
+    source: |-
+      > In a way, he has written the same thing as you, but he’s changed it around to try to fool us into thinking that he’s saying something different. For you say in the verses you’ve composed that the all is one, and you do a fine and good job of providing proofs of this. He, on the other hand, says there are not many things, and he too provides numerous and powerful proofs. Given that one says “one” and the other “not many,” and that each speaks in this way so as to appear to have said none of the same things, when you are in fact saying virtually the same thing, what you’ve said seems said in a way that’s beyond the powers of the rest of us. (Pl. *Prm*. 128a6–b6)
+    step1: |-
+      > 在某种意义上，他写的与你相同，但他换了个说法，想骗我们相信他说的是别的东西。因为你在你写的诗行中说一切是一，而且你出色而漂亮地给出了证明。而他则说不存在许多事物，同样给出了众多而有力的证明。既然一个说“一”、另一个说“不多”，而且各自都这样说话，好显得没有说过任何相同的东西，而你们实际上说的几乎是同一件事，那么你们所说的东西，看起来是以我们其余人达不到的方式说出来的。（Pl. *Prm*. 128a6–b6）
+    step2: |-
+      > 在某种意义上，他写的与你相同，只是换了个说法，想骗我们相信他说的是别的东西。你在你写的诗行中说一切是一，而且出色而漂亮地给出了证明；他则说不存在许多事物，也给出了众多而有力的证明。既然一个说“一”、另一个说“不多”，各自都这样措辞，好显得没说过任何相同的东西，而你们实际说的几乎是同一件事，那么你们所说的东西，看来是以我们其余人达不到的方式说出来的。（Pl. *Prm*. 128a6–b6）
+  - id: 54
+    kind: body
+    source: |-
+      Socrates virtually accuses Zeno of having plotted with Parmenides to conceal the fundamental identity of their conclusions. With so many readers of Plato accustomed to taking Socrates as his mouthpiece in the dialogues, it is not surprising that this passage has served as the foundation for the common view of Zeno as Parmenidean legatee and defender, by his own special means, of Eleatic orthodoxy. Unfortunately, this use of the Platonic evidence is unjustifiably selective, even prejudicial, in the weight it accords the words put in Socrates’ mouth. Plato immediately has Zeno disabuse Socrates of his suspicions about the book’s ulterior purpose.
+    step1: |-
+      苏格拉底实际上是指控芝诺曾与巴门尼德合谋，以隐瞒二人结论的根本同一。柏拉图对话的许多读者习惯于把苏格拉底当作柏拉图的传声筒，因此这一段落成为下述通行看法的基础就不足为奇了：芝诺是巴门尼德学说的继承人，以自己特有的手段为爱利亚正统辩护。遗憾的是，对柏拉图证据的这种使用，在赋予出自苏格拉底之口的话语的分量上，是毫无根据的选择性的，甚至是有偏袒的。柏拉图紧接着就让芝诺消除了苏格拉底对这部书隐秘目的的怀疑。
+    step2: |-
+      苏格拉底实际上是指控芝诺曾与巴门尼德合谋，隐瞒二人结论的根本同一。柏拉图对话的许多读者习惯于把苏格拉底当作柏拉图的传声筒；于是这一段落成了通行看法的基石——芝诺是巴门尼德学说的继承人，以自己特有的手段为爱利亚正统辩护——这不足为奇。遗憾的是，这种对柏拉图证据的用法，在赋予出自苏格拉底之口的话语的分量上毫无根据，是选择性的甚至偏袒的：柏拉图紧接着就让芝诺消除了苏格拉底对这部书隐秘目的的怀疑。
+  - id: 55
+    kind: body
+    source: |-
+      Zeno this time replies that Socrates has not altogether grasped the truth about his book. First, he says, the book had nothing like the pretensions Socrates has ascribed to it (*Prm*. 128c2–5). Zeno is made to explain his actual motivation as follows:
+    step1: |-
+      这一次芝诺回答说，苏格拉底并没有完全把握关于他的书的真相。首先他说，这部书并没有苏格拉底所归于它的那种自负（*Prm*. 128c2–5）。柏拉图让芝诺这样解释自己的实际动机：
+    step2: |-
+      这一次芝诺回答说，苏格拉底并没有完全把握关于他的书的真相。首先他说，这部书并没有苏格拉底归于它的那种自负（*Prm*. 128c2–5）。柏拉图让芝诺这样解释自己的实际动机：
+  - id: 56
+    kind: body
+    source: |-
+      > The treatise is in truth a sort of support for Parmenides’ doctrine against those attempting to ridicule it on the ground that, if one is, the doctrine suffers many ridiculous consequences that contradict it. This treatise, therefore, argues against those who say the many are, and it pays them back with the same results and worse, intending to demonstrate that their hypothesis “if many are” suffers even more ridiculous consequences than the hypothesis of there being one, if one pursues the issue sufficiently. (Pl. *Prm*. 128c6–d6)
+    step1: |-
+      > 这部论著其实是为巴门尼德的学说提供的某种支援，针对那些试图嘲讽它的人——其理由是，如果一存在，这一学说便遭受许多与它相矛盾的可笑后果。因此，这部论著是对那些说多存在的人的反驳，以相同的结果且更甚者回敬他们，意在表明他们的假设“如果多存在”会遭受比“一存在”的假设更可笑的后果，只要把问题追得足够远。（Pl. *Prm*. 128c6–d6）
+    step2: |-
+      > 这部论著其实是为巴门尼德的学说提供的某种支援，针对那些试图嘲讽它的人——其理由是，如果一存在，这一学说便遭受许多与它相矛盾的可笑后果。因此，这部论著反驳那些说多存在的人，以相同的结果且更甚者回敬他们，意在表明：只要把问题追得足够远，他们的假设“如果多存在”会遭受比“一存在”的假设更可笑的后果。（Pl. *Prm*. 128c6–d6）
+  - id: 57
+    kind: body
+    source: |-
+      Zeno’s account of how he defended Parmenides against those who ridiculed him is designed to correct Socrates’ mistaken impression that Zeno was basically just arguing for the same thing as Parmenides, that the all is one. Zeno is portrayed as trying to correct this mistaken view of his purposes as born of a superficial understanding of Parmenides’ doctrine. Zeno’s arguments against plurality will seem to entail Parmenides’ doctrine only if his thesis, “one is” (*hen esti*), is taken to mean that only one thing exists. However, the elaborate examination of this very thesis, “one is” (*hen esti*), by Parmenides himself in the latter part of the dialogue shows that Plato thinks it is not to be understood in any such trivial sense. For not only does Parmenides end up examining the relation of his One to other things, which would have been impossible if his doctrine entailed their non-existence, but the relation other things have to the One actually proves responsible in a way for their existence. Zeno cannot be supposing that his arguments against plurality entailed the doctrine of Parmenides when that doctrine is represented in this same dialogue by Parmenides himself as something altogether more involved than the simple thesis that only one thing exists. Nevertheless, Zeno’s description of the persons who attempted to ridicule Parmenides is perfectly compatible with *their* having understood the thesis, “one is” (*hen esti*), as an assertion that only one thing exists. Zeno’s arguments constitute an *indirect* defense of Parmenides—“a sort of support” (*boêtheia tis*, 128c6)—because they do nothing to disabuse his detractors of their superficial understanding of his doctrine. Instead, as Zeno says, he tried to show that the assumption that there are many things has consequences every bit as unpalatable as those Parmenides’ critics suppose his position has (cf. Procl. *in Prm*. 619.15–21). Thus, while Zeno accepts Socrates’ point that his own arguments aim to show that there are not many things, he corrects Socrates’ impression that, in arguing this point, he was just saying the same thing as Parmenides in a different form.
+    step1: |-
+      芝诺关于他如何为巴门尼德辩护、使其免受嘲讽者的攻击的说明，意在纠正苏格拉底的错误印象，即芝诺基本上只是在论证与巴门尼德相同的东西，一切是一。柏拉图笔下的芝诺试图纠正这种对其意图的误解，把它归因于对巴门尼德学说的表面理解。只有当芝诺的论旨“一存在”（*hen esti*）被理解为只有一物存在时，芝诺反对众多的论证才会显得蕴涵巴门尼德的学说。然而，对话后半部分巴门尼德本人对“一存在”（*hen esti*）这一论旨的细致考察表明，柏拉图认为它不能按任何这种琐碎的意义来理解。因为巴门尼德最终考察了他的“一”与其他事物的关系——如果他的学说蕴涵后者不存在，这本来是不可能的——而且其他事物与“一”的关系实际上在某种意义上被证明要为它们的存在负责。芝诺不可能设想他反对众多的论证蕴涵巴门尼德的学说，因为在这同一部对话中，巴门尼德本人把那一学说呈现为一个远比“只有一物存在”这一简单论旨复杂的东西。尽管如此，芝诺对那些试图嘲讽巴门尼德之人的描述，与这些人把“一存在”（*hen esti*）这一论旨理解为“只有一物存在”之断言完全相容。芝诺的论证构成对巴门尼德的一种*间接的*辩护——“某种支援”（*boêtheia tis*, 128c6）——因为这些论证并没有做任何事去消除巴门尼德的诋毁者对其学说的表面理解。相反，正如芝诺所说，他试图表明：“存在许多事物”这一假定所导致的后果，与巴门尼德的批评者认为他的立场所导致的后果一样令人难堪（参见 Procl. *in Prm*. 619.15–21）。因此，芝诺接受了苏格拉底的要点，即他自己的论证旨在表明不存在许多事物；但他纠正了苏格拉底的印象，即在论证这一点时，他只是在以不同的形式说与巴门尼德相同的东西。
+    step2: |-
+      芝诺关于自己如何为巴门尼德辩护、使其免受嘲讽者攻击的说明，意在纠正苏格拉底的错误印象——芝诺基本上只是在论证与巴门尼德相同的东西，一切是一。柏拉图笔下的芝诺试图纠正这种对其意图的误解，并把它归因于对巴门尼德学说的表面理解。只有当芝诺的论旨“一存在”（*hen esti*）被理解为“只有一物存在”时，芝诺反对众多的论证才会显得蕴涵巴门尼德的学说。然而，对话后半部分巴门尼德本人对“一存在”（*hen esti*）这一论旨的细致考察表明，柏拉图认为它不能按任何这种琐碎的意义来理解：巴门尼德最终考察了他的“一”与其他事物的关系——若其学说蕴涵后者不存在，这本来不可能——而且其他事物与“一”的关系实际上在某种意义上被证明要为它们的存在负责。芝诺不可能设想他反对众多的论证蕴涵巴门尼德的学说，因为在这同一部对话里，巴门尼德本人把那一学说呈现为一个远比“只有一物存在”这一简单论旨复杂的东西。尽管如此，芝诺对那些试图嘲讽巴门尼德之人的描述，与这些人把“一存在”（*hen esti*）理解为“只有一物存在”之断言完全相容。芝诺的论证构成对巴门尼德的一种*间接的*辩护——“某种支援”（*boêtheia tis*, 128c6）——因为这些论证并没有做任何事去消除其诋毁者对巴门尼德学说的表面理解。相反，正如芝诺所说，他试图表明：“存在许多事物”这一假定所导致的后果，与巴门尼德的批评者认为其立场所导致的后果一样令人难堪（参见 Procl. *in Prm*. 619.15–21）。因此，芝诺接受苏格拉底的要点——他自己的论证旨在表明不存在许多事物；但他纠正了苏格拉底的印象：在论证这一点时，他并非只是在以不同形式说与巴门尼德相同的东西。
+  - id: 58
+    kind: body
+    source: |-
+      The evidence of Plato’s *Parmenides*, then, does not license the conventional view that Zeno’s arguments against plurality and motion were intended to support the strict monism of Parmenides. Claims to the contrary have rested upon selective and prejudicial use of this evidence due to the tendency to privilege Socrates’ remarks on Zeno’s purposes over Zeno’s own qualifications and corrections of that analysis. What Plato actually suggests is that Zeno aimed to show those whose superficial understanding of Parmenides had led them to charge him with flying in the face of common sense, that common sense views concerning unity and plurality are themselves riddled with latent contradictions. Such is, essentially, the judgment of Jonathan Barnes: “Zeno was not a systematic Eleatic solemnly defending Parmenides against philosophical attack by a profound and interconnected set of reductive argumentations. Many men had mocked Parmenides: Zeno mocked the mockers. His *logoi* were designed to reveal the inanities and ineptitudes inherent in the ordinary belief in a plural world; he wanted to startle, to amaze, to disconcert. He did not have the serious metaphysical purpose of supporting an Eleatic monism” (Barnes 1982, 236)[^barnes-1982]. However, whether the historical Zeno was actually involved in anything like the dialectical context Plato envisages for him must remain uncertain. Even if there were already in Zeno’s day individuals who mistook Parmenides’ position for the thesis that only one thing exists, the idea that Zeno’s arguments were motivated by a desire to respond to such individuals in kind is as historically unverifiable as the claim Plato puts in his mouth that his book was stolen and circulated before he could decide for himself whether to make his arguments public (Pl. *Prm*. 128d7–e1).
+    step1: |-
+      于是，柏拉图《巴门尼德篇》的证据并不许可那种通行观点：芝诺反对众多与运动的论证意在支持巴门尼德的严格一元论。相反的主张依赖于对这一证据的选择性且有偏袒的使用，其根源在于人们倾向于看重苏格拉底关于芝诺意图的评论，而轻视芝诺本人对那一分析的限制与纠正。柏拉图实际上提示的是：芝诺意在向那些人表明——他们对巴门尼德的表面理解促使他们指责他公然违抗常识——关于统一与众多的常识观点本身就充满潜在矛盾。这在本质上就是乔纳森·巴恩斯的判断：“芝诺不是一个系统的爱利亚主义者，并不是以一套深刻而相互关联的归约论证来庄严地为巴门尼德抵御哲学攻击。许多人嘲讽过巴门尼德：芝诺嘲讽那些嘲讽者。他的 *logoi* 旨在揭示对复多世界的通常信念中所固有的空洞与笨拙；他想惊吓、想令人惊奇、想使人不安。他没有那种支持爱利亚一元论的严肃形而上学意图”（Barnes 1982, 236）[^barnes-1982]。不过，历史上的芝诺是否真的参与了某种类似于柏拉图为他设想的辩证语境的东西，仍须存疑。即便在芝诺的时代已有一些人把巴门尼德的立场误认作“只有一物存在”这一论旨，“芝诺的论证出于以牙还牙回应这些人之愿望”这一想法，也与柏拉图借他之口说出的那个主张同样无从历史验证——即他的书被人偷走并流传，而他还没能自己决定是否公开其论证（Pl. *Prm*. 128d7–e1）。
+    step2: |-
+      于是，柏拉图《巴门尼德篇》的证据并不许可那种通行观点：芝诺反对众多与运动的论证意在支持巴门尼德的严格一元论。相反的主张依赖对这一证据的选择性且有偏袒的使用，其根源在于人们倾向看重苏格拉底关于芝诺意图的评论，而轻视芝诺本人对那一分析的限制与纠正。柏拉图实际提示的是：芝诺意在向这些人表明——他们对巴门尼德的表面理解促使他们指责他公然违抗常识——关于统一与众多的常识观点本身就充满潜在矛盾。这在本质上就是乔纳森·巴恩斯的判断：“芝诺不是一个系统的爱利亚主义者，并不是以一套深刻而相互关联的归约论证来庄严地为巴门尼德抵御哲学攻击。许多人嘲讽过巴门尼德：芝诺嘲讽那些嘲讽者。他的 *logoi* 旨在揭示对复多世界的通常信念中所固有的空洞与笨拙；他想惊吓、想令人惊奇、想使人不安。他没有那种支持爱利亚一元论的严肃形而上学意图”（Barnes 1982, 236）[^barnes-1982]。不过，历史上的芝诺是否真曾参与某种类似柏拉图为他设想的辩证语境的东西，仍须存疑。即便芝诺的时代已有一些人把巴门尼德的立场误认作“只有一物存在”这一论旨，“芝诺的论证出于以牙还牙回应这些人之愿望”这一想法，也与柏拉图借他之口说出的那个主张同样无从历史验证——他的书被人偷走并流传，而他还没能自己决定是否公开其论证（Pl. *Prm*. 128d7–e1）。
+  - id: 59
+    kind: body
+    source: |-
+      Nevertheless, just as Socrates’ initial remark that Zeno’s arguments were all designed to show that there are not in fact many things remains basically plausible, so there are elements in Zeno’s account of his own purposes that have the ring of historical truth and that square well with other evidence. Plato has Zeno continue his second response to Socrates (quoted above) by saying, “It was written by me in such a contentious spirit when I was still young. … You are mistaken in this regard, then, Socrates, that you suppose it was written, not under the influence of youthful contentiousness, but under that of a more mature ambition” (Pl. *Prm*. 128d6–e3). The point is repeatedly made that Zeno’s book was written in a spirit of youthful contentiousness or “love of victory” (*philonikia*, *Prm*. 128d7, e2). The more mature Zeno seems a little embarrassed by the combative manner evident in the arguments of his younger days, as well he might since that spirit would have come to be seen as typical of the eristic controversialists who sprang up in the sophistic era. Plato gives yet another nod to the idea that Zeno was a forerunner of eristic contentiousness when he has him say that his book “contradicts (*antilegei*) those who say the many are” (*Prm*. 128d2–3). This suggestion that Zeno was a practitioner of what came to be known as “antilogic,” or the art of contradiction, is consistent with Plato’s representation of him in other dialogues as something of a sophist. In the *Alcibiades*, Socrates reports that Pythodorus and Callias each paid Zeno a hundred minae to become clever and skilled in argument (*Alc*. 119a3–6; cf. *Prm*. 126b–c). Teaching for payment is of course one hallmark of the professional educators who styled themselves experts in wisdom. That Plato saw Zeno as a practitioner of the specific brand of argument known as antilogic is evidenced by the *Phaedrus*’s famous description of him as the “Eleatic Palamedes” for his ability to make the same things appear to his audience both like and unlike, one and many, moving and at rest (*Phdr*. 261d6–8). Again, at the beginning of the *Sophist*, when Theodorus introduces the Eleatic Visitor as an associate of Parmenides and Zeno and their followers, Socrates expresses concern that the Visitor may be “some god of refutation” until Theodorus reassures him that the Visitor is more moderate than those who spend their time in eristic and competitive disputation (*Sph*. 216a–b). Plato’s references thus consistently connect Zeno with the rise of eristic disputation, and it is perfectly plausible that his arguments against plurality and motion would have been well-known examples of making the weaker case seem the stronger.
+    step1: |-
+      尽管如此，正如苏格拉底最初的那句话——芝诺的论证全都旨在表明实际上不存在许多事物——基本上仍然可信，芝诺关于自己意图的说明中也有一些成分带有历史真相的味道，并且与其他证据相合。柏拉图让芝诺继续他对苏格拉底的第二次回答（见上文所引）说：“这部书是我年轻时以这样一种好斗的精神写成的。……那么，苏格拉底，你在这一点上错了：你以为这部书的写成不是出于年轻气盛的争胜之心，而是出于更成熟的抱负”（Pl. *Prm*. 128d6–e3）。文中反复强调，芝诺的书是以年轻气盛的争胜精神即“好胜”（*philonikia*, *Prm*. 128d7, e2）写成的。更年长的芝诺对自己年轻时论证中显露的争胜姿态似乎有点难为情——这也在情理之中，因为这种精神后来会被视为智术师时代兴起的那类争胜论辩者的典型特征。柏拉图还再次暗示芝诺是争胜论辩之先声：他让芝诺说自己的书“反驳（*antilegei*）那些说多存在的人”（*Prm*. 128d2–3）。这一提示——芝诺是后来所谓“反论术”即对立论证之术的实践者——与柏拉图在其他对话中把他多少当作智者来描绘是一致的。在《阿尔基比亚德篇》中，苏格拉底报道说，皮托多鲁斯与卡利阿斯各付给芝诺一百米那，以变得聪明而精于论证（*Alc*. 119a3–6；参见 *Prm*. 126b–c）。收费授业当然是那些自封为智慧专家的职业教师的标志之一。柏拉图视芝诺为反论术这一特定论辩品牌的实践者，其证据是《斐德罗篇》那段著名的描述：芝诺被称为“爱利亚的帕拉墨得斯”，因为他有能力使同样的东西在听众面前显得既相似又不相似、既一又多、既动又静（*Phdr*. 261d6–8）。此外，《智者篇》开头，当泰奥多洛把来自爱利亚的客人介绍为巴门尼德与芝诺及其追随者的同道时，苏格拉底表示担心这位客人也许是“某个驳斥之神”，直到泰奥多洛向他保证：这位客人比那些把时间花在争胜论辩与竞逐驳难上的人更为温和（*Sph*. 216a–b）。柏拉图的这些指涉一致地把芝诺与争胜论辩的兴起联系起来；他的反对众多与运动的论证，完全可能是“使弱论证显得强”的著名范例。
+    step2: |-
+      尽管如此，正如苏格拉底最初那句话——芝诺的论证全都旨在表明实际上不存在许多事物——基本仍然可信，芝诺关于自己意图的说明中也有一些成分带有历史真相的味道，且与其他证据相合。柏拉图让芝诺继续他对苏格拉底的第二次回答（见上文所引）说：“这部书是我年轻时以这样一种好斗的精神写成的。……那么，苏格拉底，你在这一点上错了：你以为这部书的写成不是出于年轻气盛的争胜之心，而是出于更成熟的抱负”（Pl. *Prm*. 128d6–e3）。文中反复强调：芝诺的书以年轻气盛的争胜精神即“好胜”（*philonikia*, *Prm*. 128d7, e2）写成。更年长的芝诺对年轻时论证中显露的争胜姿态似乎有点难为情——这也在情理之中：这种精神后来会被视为智术师时代兴起的那类争胜论辩者的典型特征。柏拉图还再次暗示芝诺是争胜论辩的先声：他让芝诺说自己的书“反驳（*antilegei*）那些说多存在的人”（*Prm*. 128d2–3）。这一提示——芝诺是后来所谓“反论术”即对立论证之术的实践者——与柏拉图在其他对话中把他多少当作智者来描绘是一致的。在《阿尔基比亚德篇》中，苏格拉底报道：皮托多鲁斯与卡利阿斯各付给芝诺一百米那，以变得聪明而精于论证（*Alc*. 119a3–6；参见 *Prm*. 126b–c）。收费授业，正是那些自封为智慧专家的职业教师的标志之一。柏拉图视芝诺为反论术这一特定论辩品牌的实践者，证据是《斐德罗篇》那段著名的描述：芝诺被称为“爱利亚的帕拉墨得斯”，因为他有能力使同样的东西在听众面前显得既相似又不相似、既一又多、既动又静（*Phdr*. 261d6–8）。此外，《智者篇》开头，泰奥多洛把来自爱利亚的客人介绍为巴门尼德与芝诺及其追随者的同道时，苏格拉底担心这位客人也许是“某个驳斥之神”，直到泰奥多洛向他保证：这位客人比那些把时间花在争胜论辩与竞逐驳难上的人温和得多（*Sph*. 216a–b）。柏拉图的这些指涉一致地把芝诺与争胜论辩的兴起联系起来；他的反对众多与运动的论证，完全可能是“使弱论证显得强”的著名范例。
+  - id: 60
+    kind: body
+    source: |-
+      The portrait of Zeno and his tactics that emerges from Plato’s references makes it seem natural that Aristotle, in one of his lost dialogues, entitled *Sophist*, spoke of Zeno as the inventor of dialectic (D.L. 8.57; cf. 9.25; S.E. *M*. 7.7). Precisely what Aristotle meant by this remains a matter of speculation, given that Aristotle also attributes the invention of dialectic to Socrates (Arist. *Metaph*. M.4, 1078ᵇ25–30) and to Plato (*Metaph*. A.6, 987ᵇ31–3); he says he himself invented the *theory* of it (*SE* 34, 183ᵇ34–184ᵇ8). There is also the question of whether Aristotle viewed Zeno’s arguments as more eristic than properly dialectical. The difference, according to Aristotle, is that dialectical arguments proceed from *endoxa* or “views held by everyone or by most people or by the wise, that is, by all, most, or the especially famous and respected of the wise,” whereas eristic arguments proceed from what only seem to be, or what seems to follow from, *endoxa* (*Top*. 1.1, 100ᵃ29–30, ᵇ22–5). Aristotle clearly believes that some of Zeno’s assumptions have only a specious plausibility (see *Top*. 8.8, 160ᵇ7–9, *SE* 24, 279ᵇ17–21, *Ph*. 1.2, 233ᵃ21–31, *Metaph*. B.4.1001ᵇ13–16), so that they would by Aristotle’s own criteria be examples of eristic rather than properly dialectical arguments. For Aristotle, then, Zeno was a controversialist and paradox-monger, whose arguments were nevertheless both sophisticated enough to qualify him as the inventor of dialectic and were important for forcing clarification of concepts fundamental to natural science. Aristotle’s view of Zeno thus seems largely in accordance with Plato’s portrayal of him as a master of the art of contradiction.
+    step1: |-
+      从柏拉图的指涉中浮现的芝诺形象及其论辩策略，使亚里士多德在其一部佚失对话《智者》中称芝诺为辩证法的发明者显得顺理成章（D.L. 8.57；参见 9.25；S.E. *M*. 7.7）。鉴于亚里士多德也把辩证法的发明归于苏格拉底（Arist. *Metaph*. M.4, 1078ᵇ25–30）与柏拉图（*Metaph*. A.6, 987ᵇ31–3），并说自己发明的是它的*理论*（*SE* 34, 183ᵇ34–184ᵇ8），他这话的确切含义仍属猜测。还有一个问题：亚里士多德是否认为芝诺的论证更多是争胜论辩的而非真正辩证的。按亚里士多德的说法，区别在于：辩证论证从公认意见即“众人或多数人或贤哲所持的看法，也就是全体、多数或最著名受敬重的贤哲的看法”出发，而争胜论辩的论证则从仅仅是貌似公认意见的东西、或貌似从公认意见推出的东西出发（*Top*. 1.1, 100ᵃ29–30, ᵇ22–5）。亚里士多德显然认为芝诺的某些假定只有似是而非的说服力（见 *Top*. 8.8, 160ᵇ7–9, *SE* 24, 279ᵇ17–21, *Ph*. 1.2, 233ᵃ21–31, *Metaph*. B.4.1001ᵇ13–16），因此按亚里士多德自己的标准，这些论证应当算作争胜论辩而非真正的辩证论证。于是在亚里士多德看来，芝诺是一个论战者与悖论贩子，其论证却精致得足以使他有资格成为辩证法的发明者，并且对迫使自然科学的基本概念得到澄清起了重要作用。亚里士多德的芝诺观因此大体与柏拉图把他描绘为对立论证之术的大师相一致。
+    step2: |-
+      从柏拉图的指涉中浮现的芝诺形象及其论辩策略，使亚里士多德在其一部佚失对话《智者》中称芝诺为辩证法的发明者，显得顺理成章（D.L. 8.57；参见 9.25；S.E. *M*. 7.7）。但亚里士多德也把辩证法的发明归于苏格拉底（Arist. *Metaph*. M.4, 1078ᵇ25–30）与柏拉图（*Metaph*. A.6, 987ᵇ31–3），并说自己发明的是它的*理论*（*SE* 34, 183ᵇ34–184ᵇ8），故此语的确切含义仍属猜测。还有一问：亚里士多德是否认为芝诺的论证更多是争胜论辩而非真正辩证？按他的说法，区别在于：辩证论证从公认意见出发，即从“众人或多数人或贤哲所持的看法，也就是全体、多数或最著名受敬重的贤哲的看法”出发；争胜论辩的论证则从貌似公认意见的东西、或貌似由公认意见推出的东西出发（*Top*. 1.1, 100ᵃ29–30, ᵇ22–5）。亚里士多德显然认为芝诺的某些假定只有似是而非的说服力（见 *Top*. 8.8, 160ᵇ7–9, *SE* 24, 279ᵇ17–21, *Ph*. 1.2, 233ᵃ21–31, *Metaph*. B.4.1001ᵇ13–16）；按他自己的标准，这些论证当属争胜论辩而非真正的辩证论证。于是在亚里士多德看来，芝诺是一个论战者与悖论贩子，其论证却精致得足以使他有资格充当辩证法的发明者，并且对迫使自然科学的基本概念得到澄清起了重要作用。亚里士多德的芝诺观因此大体与柏拉图把他描绘为对立论证之术的大师相一致。
+  - id: 61
+    kind: body
+    source: |-
+      Should we then think of Zeno as a sophist? Certainly Isocrates, the rhetorician and contemporary of Plato, did not hesitate to lump Gorgias, Zeno, and Melissus together as among the other “sophists” flourishing in the era of Protagoras and all producing tedious treatises advocating the most outrageous claims (Isoc. *Hel*. [*Orat*. 10] 2–3). While there are difficulties in giving precise definition to the term “sophist,” one feature common to those normally classed as such that Zeno lacks is an interest in the interrogation of cultural norms and values. Zeno’s influence, however, on the great sophists who were his contemporaries and, more generally, on the techniques of argumentation promulgated among the sophists seems undeniable. Protagoras’ development of the techniques of antilogic, rooted in his claim that there are two opposed arguments on every matter (D.L. 9.51), seems likely to have been inspired by Zeno’s novel forms of argumentation as well as by his advocacy of the most counter-intuitive of theses. Zeno’s influence is especially clear, moreover, in Gorgias’ treatise, “On Nature, or On What Is Not,” both in its penchant for argumentation via antithesis and *reductio* and in its use of premises drawn straight from Zeno himself (see [Arist.] *MXG* 979ᵃ23, ᵇ25, ᵇ37). It is even possible that the famous circle of contemporary intellectuals the great Athenian statesman Pericles gathered around himself provided a major conduit for Zeno’s impact on the first generation of sophists. Plutarch, at any rate, records that “Pericles heard Zeno of Elea discoursing on nature in the manner of Parmenides, and practicing a kind of skill in cross-examination and in driving one’s opponent into a corner by means of contradictory argument” (Plu. *Per*. 4.5). The skill Plutarch attributes to Zeno, still evident in the fragmentary remains of his arguments, is just the kind of skill in argument manifested in a great deal of sophistic practice. Although doubts have been raised about the reliability of Plutarch’s report that Zeno, like Damon and Anaxagoras, was one of the many contemporary intellectuals whose company was avidly pursued by Pericles, there is little that seriously tells against it. Thus George Kerferd has argued both that the patronage of Pericles and his keen interest in the intellectual developments of his day must have been critically important to the sophistic movement and that Zeno’s paradoxes were a profound influence on the development of the sophistic method of antilogic, which he sees as “perhaps the most characteristic feature of the thought of the whole period” (Kerferd 1981, 18–23, 59ff., 85)[^kerferd-1981].
+    step1: |-
+      那么，我们应当把芝诺看作智者吗？柏拉图的同时代人、修辞学家伊索克拉底肯定毫不犹豫地把高尔吉亚、芝诺与麦里梭一并归入普罗塔戈拉时代兴盛的那些“智者”，说他们全都在写冗长的论著、鼓吹最骇人听闻的主张（Isoc. *Hel*. [*Orat*. 10] 2–3）。虽然给“智者”一词下一个精确定义颇有困难，但通常归入此类的人物有一个共同特征是芝诺所缺乏的：对文化规范与价值的探究的兴趣。不过，芝诺对其同时代伟大智者的影响，以及更一般地，他对在智者中间传播的论证技艺的影响，似乎无可否认。普罗塔戈拉对反论术诸技艺的发展——根植于他关于每个问题上都有两个相反论证的主张（D.L. 9.51）——看来既受到芝诺新奇论证形式的启发，也受到他对最反直觉的论旨之倡导的启发。此外，芝诺的影响在高尔吉亚的论著《论自然，或论非存在》中尤为清晰：既在其经由对立与归谬进行论证的癖好之中，也在其径直取自芝诺本人的前提的使用之中（见 [Arist.] *MXG* 979ᵃ23, ᵇ25, ᵇ37）。甚至可能，这位伟大雅典政治家伯里克利聚集在自己周围的当代智者的著名圈子，为芝诺影响第一代智者提供了主要渠道。至少普鲁塔克记载：“伯里克利听过爱利亚的芝诺以巴门尼德的方式论自然，并练习一种盘诘的技艺、一种借对立论证把对手逼入角落的技艺”（Plu. *Per*. 4.5）。普鲁塔克归于芝诺的这种技艺——在其论证的残篇遗存中仍清晰可见——正是大量智者实践中表现出来的那种论辩技艺。虽然有人怀疑普鲁塔克关于芝诺与达蒙、阿那克萨戈拉一样属于伯里克利热切结交的众多当代智者这一报道的可靠性，但没有什么严肃的证据真正反对它。因此，乔治·克尔弗德既论证了伯里克利的赞助及其对当代思想发展的热切关注必定对智者运动至关重要，又论证了芝诺的悖论对智者反论术方法的发展有深刻影响；他把后者视为“或许整个时代思想最具特征的特征”（Kerferd 1981, 18–23, 59ff., 85）[^kerferd-1981]。
+    step2: |-
+      那么，我们应当把芝诺看作智者吗？柏拉图的同时代人、修辞学家伊索克拉底肯定毫不犹豫地把高尔吉亚、芝诺与麦里梭一并归入普罗塔戈拉时代兴盛的那些“智者”，说他们全都在写冗长的论著、鼓吹最骇人听闻的主张（Isoc. *Hel*. [*Orat*. 10] 2–3）。给“智者”一词下一个精确定义虽有困难，但通常归入此类的人物有一个共同特征是芝诺所缺的：对文化规范与价值的探究兴趣。不过，芝诺对其同时代伟大智者的影响——更一般地，对智者中间所传扬的论证技艺的影响——似乎无可否认。普罗塔戈拉对反论术诸技艺的发展，根植于他“每个问题上都有两个相反论证”的主张（D.L. 9.51）；这一发展看来既受芝诺新奇论证形式的启发，也受他对最反直觉论旨之倡导的启发。芝诺的影响在高尔吉亚的论著《论自然，或论非存在》中尤为清晰：既在其经由对立与归谬进行论证的癖好之中，也在其径直取自芝诺本人的前提的使用之中（见 [Arist.] *MXG* 979ᵃ23, ᵇ25, ᵇ37）。甚至可能，这位伟大雅典政治家伯里克利聚集在身边的当代智者的著名圈子，正是芝诺影响第一代智者的主要渠道。至少普鲁塔克记载：“伯里克利听过爱利亚的芝诺以巴门尼德的方式论自然，并练习一种盘诘的技艺、一种借对立论证把对手逼入角落的技艺”（Plu. *Per*. 4.5）。普鲁塔克归于芝诺的这种技艺——在其论证的残篇遗存中仍清晰可见——正是大量智者实践中所表现的那种论辩技艺。虽有怀疑指向普鲁塔克那则报道的可靠性——芝诺与达蒙、阿那克萨戈拉同属伯里克利热切结交的众多当代智者——但没有严肃的证据真正反对它。因此，乔治·克尔弗德既论证伯里克利的赞助及其对当代思想发展的热切关注必定对智者运动至关重要，又论证芝诺的悖论对智者反论术方法的发展有深刻影响；他把后者视为“或许整个时代思想最具特征的特征”（Kerferd 1981, 18–23, 59ff., 85）[^kerferd-1981]。
+  - id: 62
+    kind: body
+    source: |-
+      The evidence surveyed here suggests that Zeno’s paradoxes were designed as provocative challenges to the common-sense view that our world is populated by numerous things that move from place to place. His apparent demonstrations of how the common-sense view is fraught with contradiction made him an influential precursor of sophistic antilogic and eristic disputation. It is not surprising that someone like Isocrates should have viewed Zeno as a sophist to be classed with Protagoras and Gorgias. To ask whether Zeno was in fact a sophist, a practitioner of antilogic, an eristic controversialist, or a proper dialectician is to some extent inappropriate, for these designations all acquired their normal meaning and range of application only after Zeno’s time. While he perhaps does not fit exactly into any of these categories, still his development of sophisticated methods of argumentation to produce apparent proofs of the evidently false conclusions that motion is impossible and that there are not in fact many things made it quite natural for Plato, Aristotle, Isocrates, and others to refer to him under all these labels.
+    step1: |-
+      这里考察的证据表明，芝诺的悖论被设计为对我们的常识观点的挑衅性挑战：我们的世界为许多从一处移到另一处的事物所栖居。他对常识观点如何充满矛盾的那些表面上的证明，使他成为智者反论术与争胜论辩的有影响的前驱。像伊索克拉底这样的人把芝诺视为与普罗塔戈拉和高尔吉亚同类的智者，并不奇怪。追问芝诺实际上是不是智者、是不是反论术的实践者、是不是争胜的论战者或真正的辩证家，在某种程度上是不恰当的，因为这些名目都是在芝诺之后才获得其通常含义与应用范围的。虽然他或许并不恰好适合其中任何一个类别，但他发展出精致的论证方法，以得出运动是不可能的、实际上不存在许多事物这些明显为假的结论的表面证明，这使得柏拉图、亚里士多德、伊索克拉底及其他人自然地以所有这些名目称呼他。
+    step2: |-
+      这里考察的证据表明，芝诺的悖论被设计为对我们常识观点的挑衅性挑战：我们的世界栖居着许多从一处移到另一处的事物。他对常识观点如何充满矛盾的那些表面上的证明，使他成为智者反论术与争胜论辩的有影响的前驱。伊索克拉底这样的人把芝诺视为与普罗塔戈拉、高尔吉亚同类的智者，并不奇怪。追问芝诺实际上是不是智者、是不是反论术的实践者、是不是争胜的论战者或真正的辩证家，某种程度上并不恰当：这些名目都是在芝诺之后才获得其通常含义与应用范围的。他或许并不恰好落入其中任何一类；但他发展出精致的论证方法，对“运动是不可能的”“实际上不存在许多事物”这些明显为假的结论给出表面上的证明，这使柏拉图、亚里士多德、伊索克拉底及其他人以所有这些名目称呼他，显得十分自然。
+  - id: 63
+    kind: body
+    source: |-
+      It is remarkable that, while many of the responses to Zeno’s paradoxes, and even some modern formulations of the paradoxes themselves, depend on advanced mathematical techniques, Zeno’s original arguments do not themselves appear to have involved any particularly complicated mathematics. Several of the paradoxes involve no specifically mathematical notions at all. The Achilles is perhaps the best example since it employs only very ordinary notions, such as getting to where another has started from. The other extant arguments for the most part deploy similarly prosaic notions: being somewhere or being in a place, being in motion, moving past something else, getting halfway there, being of some size, having parts, being one, being like, being the same, and so on. Where Zeno seems to have leapt ahead of earlier thinkers is in deploying specifically quantitative concepts, most notably quantitative concepts of limit (*peras*) and the lack of limit (*to apeiron*). Earlier Greek thinkers had tended to speak of limitedness and unlimitedness in ways suggesting a qualitative rather than a quantitative notion. While one might suppose that Zeno’s turn to a more strictly quantitative conception of limit and limitlessness could have been inspired by his familiarity with Pythagorean philosophers and mathematicians in Magna Graecia, we can in fact trace the philosophy of limiters and unlimiteds only back as far as Philolaus, a Pythagorean roughly contemporary with Socrates and thus a good deal younger than Zeno.
+    step1: |-
+      值得注意的是，虽然对芝诺悖论的许多回应、甚至悖论本身的一些现代表述都依赖高等数学技巧，芝诺的原初论证本身看来并未涉及任何特别复杂的数学。若干悖论根本不涉及任何专门的数学概念。阿基里斯也许是最好的例子，因为它只使用非常普通的概念，例如到达另一个人出发的地方。其余现存的论证大多使用同样平凡的观念：在某个地方或处于一个处所、在运动、越过别的东西、走到半途、有某种大小、有部分、是一、相似、相同，等等。芝诺看来先于较早思想家之处，在于他使用了专门的量化概念，最突出的是关于限（*peras*）与无定（*to apeiron*）的量化概念。较早的希腊思想家谈及有限与无限时，其方式提示的是一种质的而非量的概念。虽然人们可能以为，芝诺转向关于限与无限的更严格的量的概念，可能是受他熟悉大希腊的毕达哥拉斯派哲学家与数学家所启发，但实际上我们只能把限定者与无限定者的哲学追溯到菲洛劳斯——一个与苏格拉底大致同时从而比芝诺年轻得多的毕达哥拉斯主义者。
+    step2: |-
+      值得注意的是，尽管对芝诺悖论的许多回应、甚至悖论本身的一些现代表述都依赖高等数学技巧，芝诺的原初论证本身看来并未涉及任何特别复杂的数学。若干悖论根本不涉及专门的数学概念。阿基里斯也许是最好的例子：它只使用非常普通的概念，例如“到达另一个人出发的地方”。其余现存的论证大多使用同样平凡的观念：在某个地方或处于一个处所、在运动、越过别的东西、走到半途、有某种大小、有部分、是一、相似、相同，等等。芝诺看来先于较早思想家之处，在于他使用了专门的量化概念——最突出的是关于限（*peras*）与无定（*to apeiron*）的量化概念。较早的希腊思想家谈有限与无限，其方式提示的是一种质的而非量的观念。人们或许以为，芝诺转向关于限与无限的更严格的量的概念，可能是受他熟悉大希腊的毕达哥拉斯派哲学家与数学家所启发；但实际上，我们只能把限定者与无限定者的哲学追溯到菲洛劳斯——一个与苏格拉底大致同时、因而比芝诺年轻得多的毕达哥拉斯主义者。
+  - id: 64
+    kind: body
+    source: |-
+      Whatever may have spurred Zeno’s development of his collection of paradoxes, his arguments quickly achieved a remarkable level of notoriety. They had an immediate impact on Greek physical theory. Zeno’s powerful principle that any spatially extended entity must be limitlessly divisible would profoundly impact the development of the subtle and powerful physical theories of both Anaxagoras, who accepts the principle, and the early atomists, Leucippus and Democritus, who reject it. Zeno’s arguments also had a formative influence on Aristotle’s own theory of the continuum and of continuous motion. More generally, Zeno’s arguments made it necessary for Greek natural philosophers to develop something more than an everyday conception of the composition of material bodies. His arguments, perhaps more than anything else, forced the Greek natural philosophers to develop properly *physical* theories of composition as opposed to the essentially chemical theories of earlier thinkers such as Empedocles. That mathematicians and physicists have worked ever since to develop responses to the more ingenious of his paradoxes is remarkable, though perhaps not surprising, for immunity to his paradoxes might be taken as a condition upon the adequacy of our most basic physical concepts. He may even have offered his collection of paradoxes to provoke deeper consideration of the adequacy of theretofore unexamined notions. If so, it is likewise remarkable that he simultaneously developed forms of argument—most notably, *reductio ad absurdum* by means of antinomical and/or regress arguments—that have ever since been fundamental to philosophical probing of conceptual adequacy.
+    step1: |-
+      无论是什么促使芝诺发展出他的悖论集，他的论证都很快获得了非凡的名声。它们对希腊物理理论产生了直接的影响。芝诺那有力的原则——任何在空间中广延的实体都必须可无限分割——深刻影响了阿那克萨戈拉与早期原子论者的精微而有力的物理理论的发展：前者接受这一原则，留基伯与德谟克利特则拒绝它。芝诺的论证也对亚里士多德本人的连续体与连续运动理论有形成性的影响。更一般地说，芝诺的论证使希腊自然哲学家有必要发展出某种超出日常理解的东西，以理解物质物体的构成。他的论证或许比任何别的东西都更有力地迫使希腊自然哲学家发展出恰当的*物理的*构成理论，以对立于恩培多克勒等较早思想家那本质上是化学的理论。数学家与物理学家从此一直致力于对他的较为精巧的悖论发展回应，这是值得注意的，但也许并不令人惊讶：对我们的最基本的物理概念来说，对这些悖论的免疫，或许可以被当作概念是否充分的检验条件。他甚至可能正是拿出自己的悖论集，以促使人们更深入地考量那些此前未经审视的观念是否充分。若是如此，同样值得注意的是：他同时发展出的论证形式——最突出的是经由二律背反式和/或倒退论证的归谬法——从此一直是哲学探究概念是否充分的基本手段。
+    step2: |-
+      无论是什么促使芝诺发展出他的悖论集，其论证都很快获得非凡的名声，并对希腊物理理论产生了直接影响。芝诺那有力的原则——任何在空间中广延的实体都必须可无限分割——深刻影响了精微而有力的物理理论之发展：阿那克萨戈拉接受这一原则，早期原子论者留基伯与德谟克利特则拒绝它。芝诺的论证也对亚里士多德本人的连续体与连续运动理论有形成性的影响。更一般地说，芝诺的论证使希腊自然哲学家有必要发展出超出日常理解的物质构成观念。他的论证或许比任何别的东西都更有力地迫使希腊自然哲学家发展恰当的*物理的*构成理论，以对立于恩培多克勒等较早思想家那本质上属于化学的理论。数学家与物理学家从此一直致力于为其较精巧的悖论发展回应；这值得注意，但也许并不令人惊讶：对我们的最基本物理概念而言，对这些悖论的免疫，或许正可充当概念是否充分的一项检验。他甚至可能正是拿出自己的悖论集，以促使人们更深入地考量那些此前未经审视的观念是否充分。若是如此，同样值得注意的是：他同时发展出的论证形式——最突出的是经由二律背反式和/或倒退论证的归谬法——从此一直是哲学探究概念是否充分的基本手段。
+  - id: 65
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]

@@ -2,7 +2,7 @@
   "slug": "cambridge-platonists",
   "kind": "retranslate",
   "zh_doc": "c/cambridge-platonists.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "REV-main-20261109",
       "at": "2026-11-09T04:52:02Z",
       "evidence": "r1 初审（s3_checked 存量复审波，REV-main-20261109 主会话直做，不用子代理）：对照 yuanwen/c/cambridge-platonists.md 全文自审——结构五维：H2 节标题 5/5（另 ### 思想遗产 1）、块数 zh26/en25（差 1 为模板 §18 允许的「相关词条站内链接译注占位」块）、脚注定义 67/67 且**逐字符与源一致**（照录零改动）、正文引用双向差集为空、阿拉伯数字多集合零缺失、标记守恒（源 <em> 4 处中译加粗 4 组；拉丁书名斜体照留，ital 96/122 差额系书名汉译作〈〉）。内容逐节核销：①导言——剑桥柏拉图派人物圈（莫尔 1614–1687／库德沃斯 1617–1688／惠科特／斯特里／史密斯／卡弗韦尔／沃辛顿；伊曼纽尔学院与基督学院；拉斯特、哈利韦尔、康威、诺里斯、格兰维尔、英杰洛）、政治动荡与加尔文主义经院哲学背景、四大领域贡献（物质主义／决定论／怀疑论／因果与意识、德性、无限空间）、反决定论与道德原则永恒性、philosophia perennis 框架句；②惠科特——国王学院院长、1650 副校长、1660 去职、身后布道文与格言、理性观、道德原则不变、Aphorisms、设计论证预见；③卡弗韦尔、史密斯与斯特里——《辩护》1664 规则、卡弗韦尔《论自然之光》1652 与意志自由、来源驳杂与「否认其为剑桥柏拉图派」之争、斯图科《论永恒哲学》；史密斯《论文选》1659 与四级认知阶梯；斯特里《论意志自由》1675、布鲁克与克伦威尔随军牧师、东希恩社群；④莫尔——基督学院终身院士、与笛卡尔通信 1648–1649、批霍布斯与斯宾诺莎（*Opera omnia* 1671 两篇）、主要著作四部、*An Explanation* 1660、精神哲学（精神与物体皆延展、空间无限、*res extensa*）、自然精神／希拉奇原理与「自然的一般样式与法则」（*A Collection*, Preface, p. xvi）、生命契合、后验论证与波义耳驳议、巫术辩护与「无主教无国王／无精神无上帝」（More 1662, *Antidote*, p. 142）、格兰维尔《撒都该主义之溃败》、*Enchiridion Ethicum*（*An Account of Virtue*）、*autoexousy*、善形官能、哲学诗与神圣对话、*Conjectura cabbalistica*、克诺尔·冯·罗森罗特《卡巴拉解蔽》1679、预言研究与 1675 拉丁全集；⑤库德沃斯——基督学院院长、*TISU* 1678（*TEIM* 1731／*TFW* 1848／两部未刊「自由与必然」）、反意志主义神学与真理道德保证、四派无神论（Hylopathian／Atomical or Democritical／Cosmo-plastic／Hylozoic，Cudworth 1678, p. 165）与霍布斯斯宾诺莎当代化身、原子论与柏拉图主义熔合（摩西起源说）、塑形自然（the Plastick Life of Nature）中介说、*TEIM* 认识论（理念永恒自存、原型／摹本、*prolepsis*、感官知识地位、「读懂自然之书」）、反决定论伦理学（*Euthyphro* 类比）、自由意志论（hegemonikon 与 autexousion）、「新心理学」与自我同一性（Cudworth 1996, p. 178）、政治哲学缺位与洛克预示；⑥思想遗产——康威 1631–1679《原理》1692、马沙姆两部著作 1696／1705、诺里斯 1657–1712 与马勒伯朗士阐释、沙夫茨伯里 1698 刊《精选布道文》、传承至苏格兰与欧洲启蒙及 19 世纪、《论述》四次重印、莫尔拉丁全集 1675–9、莫斯海姆 1733 耶拿译本、普莱斯与里德、莱布尼茨与法国活力论、术语铸造（物质主义／意识／笛卡尔主义）、20 世纪评价（Cassirer 与 Koyré）与晚近复兴（Darwall 1995 等 7 家，5 键与源一致）。**无 Critical、无 Major、无漏译**。实修 4 处：①`（*philosophia perenni*s）` 斜体错位（源文自身同错，中译照录致渲染出裸星号）→ `（*philosophia perennis*）`，并按体例补汉译「永恒哲学」；同句主语悬空（「他们阅读并理解古代与现代哲学的框架，是……所采纳」）→「他们阅读并理解古代与现代哲学时所凭的框架，正是……所采纳、也为……所使用的……」；②`（Patrides, 1969, p.58）` → `p. 58`（全库页码格式）；③《伦理学手册》条括号嵌套（（…（*An Account of Virtue*）））→ 去嵌套并保留拉丁题；④「仅肯内尔姆·迪格比爵士（Sir Kenelm Digby）早于他们」括号嵌套 → 改逗号分隔同位语。登记补记：术语 9 行（perennial philosophy 永恒哲学／Calvinism 加尔文主义／infinite space 无限空间／consensus gentium 万民共识／Plastic Nature 塑形自然／Spirit of Nature 自然精神／Hylarchic Principle 希拉奇原理／divine archetype 神圣原型／anamnesis 回忆说／argument from design 设计论证／vitalism 活力论／Origenism 奥利金主义／Boniform Faculty 善形官能／hegemonikon／autexousion，其中 6 条已在前会话在册，幂等跳过）+ 人名 17 行（惠科特／斯特里／史密斯／卡弗韦尔／沃辛顿／拉斯特／哈利韦尔／格兰维尔／英杰洛／斯图科／费奇诺／克诺尔·冯·罗森罗特／莫斯海姆／迪格比／沙夫茨伯里／克伦威尔／布鲁克勋爵／奥利金／摩西；现代学者 Hutton／Koyré／Cassirer 依 ADR-0022 保留英文；5 行已在册跳过）。prose 15 条按「禁止复查旧错」口径豁免留痕：均系 s2 语言层旧账（学术长句 7／的-chain 8），逐条核对语义无失，属学术长句与题录、术语枚举，不重做润色。四检：check_style 0 issue；check_academic --strict 0 硬错误；check_math 该词条无公式；check_prose 15 条豁免（见上）；check_all 七项全绿。观察项：baseline 该词条 archive_edition 为空（基线侧缺口，非本词条缺陷），已记入本波观察。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T06:55:10Z",
+      "evidence": "r2 复审（逐句回核原文与逻辑；r1 后隔 william-sherwood 全条 r3+done 冷置回读；REV-main-20261109）：①引注页码回核——五处行内页码与源逐字全等：Patrides 1969, p. 58（源作 p.58，按全库体例补空格）、More 1662 *Antidote* p. 142、More *A Collection* Preface p. xvi、Cudworth 1678 p. 165、Cudworth 1996 p. 178；②照录复核——defs 67 条与源 diff 为空（r1 已验，本轮复跑确认零漂移）；③术语一致性——永恒哲学（perennial philosophy）／塑形自然（Plastic Nature）／自然精神（Spirit of Nature）／善形官能（Boniform Faculty）／万民共识（consensus gentium）／设计论证／回忆说／活力论／自主能力（autexousion）与新登形一致；Hylarchic Principle 沿用 2026-11-08 首译形「质料统辖原则」，hegemonikon 沿用既有登记形「灵魂的主导部分」，本轮幂等跳过未重复登记；④相关词条 8 项与 SUMMARY 题名全等（r1 已验）；⑤版本钉复核——pubinfo_date=Oct 8, 2026、sha256=31c8b69a…568aa，与文档 pubinfo 行一致；archive_edition 为空属基线侧缺口（已记观察项，非词条缺陷）；⑥r1 实修 4 处逐处回读（philosophia perennis 斜体与汉译、主语悬空句重构、页码空格、两处括号去嵌套），无义项增减。**无新增 Critical/Major/Minor**。"
     }
   ],
   "blockers": [],

@@ -1,0 +1,22 @@
+{
+  "slug": "penbygull",
+  "kind": "retranslate",
+  "zh_doc": "p/penbygull.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T08:15:55Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T08:15:55Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 19, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "ce13da0cb259916a9343ac92829cd758ffb08704d28b4cc4392f034842478992"
+  }
+}

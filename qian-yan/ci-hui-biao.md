@@ -27,6 +27,7 @@
 |Albalag, Isaac|以撒·阿尔巴拉格||
 |Alexander Bain|亚历山大·贝恩|联想主义心理学|
 |Alexandre Koyré|亚历山大·柯瓦雷||
+|Algarotti, Francesco|弗朗切斯科·阿尔加罗蒂||
 |Allan Gibbard|艾伦·吉伯德|规范伦理学/表达主义|
 |Allen Buchanan|艾伦·布坎南||
 |analogical reasoning|类比推理（亦作“类推推理”）|审定名词（自然辩证法·科学哲学）；SUMMARY 题名同形|
@@ -60,6 +61,7 @@
 |belief formation|信念形成|认识论|
 |Benjamin Franklin|本杰明·富兰克林|美国启蒙|
 |Bergson, Henri|亨利·柏格森||
+|Bernoulli, Johan|约翰·伯努利||
 |Bertrand Russell|伯特兰·罗素||
 |Best Interests standard|最佳利益标准|生命伦理学|
 |Bildung|教化|伽达默尔语境|
@@ -71,6 +73,7 @@
 |Brian Leftow|布莱恩·莱夫托||
 |Brouwer, Luitzen Egbertus Jan|勒伊岑·艾赫贝特斯·扬·布劳威尔||
 |Bruce Bridgeman|布里奇曼|视觉/动作心理学；首现括注|
+|Brucker, Johann Jacob|约翰·雅各布·布鲁克||
 |Buddha|佛陀||
 |care ethics|关怀伦理学（亦作“关怀伦理”）|审定直接命中（en=ethics of care）|
 |Carl Schmitt|卡尔·施米特|政治哲学/政治神学|
@@ -115,6 +118,7 @@
 |Cornel West|康奈尔·韦斯特|实用主义传统/种族哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
 |correspondence theory of truth|真理符合论||
+|Cotes, Roger|罗杰·科茨||
 |Crates|克拉特斯||
 |Crathorn, William|威廉·克雷索恩||
 |Critical Theory|批判理论|审定名词（自然辩证法·科学哲学）|
@@ -219,6 +223,7 @@
 |Gödel’s theorem|哥德尔定理|数理逻辑|
 |Goethe|歌德||
 |Gómez Pereira|戈麦斯·佩雷拉|西班牙文艺复兴|
+|Gravesande, Willem|威廉·格拉夫桑德||
 |haecceitism|此性论||
 |Halevi, Judah|犹大·哈列维||
 |Han Dynasty philosophy|中国汉代哲学||
@@ -242,6 +247,7 @@
 |holes|洞||
 |Holy Spirit|圣灵|宗教学|
 |homosexuality|同性恋||
+|Hooke, Robert|罗伯特·胡克||
 |Huayan Buddhism|华严宗||
 |Hui Shi|惠施|中国哲学家|
 |humility theory of wisdom|智慧的谦逊理论||
@@ -267,6 +273,7 @@
 |intuition|直观（康德传统；日常语境亦作“直觉”）||
 |intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
 |Iris|伊里斯||
+|Jacquier|雅基耶||
 |James Ward|詹姆斯·沃德||
 |Japanese aesthetics|日本美学||
 |Jean Hampton|琼·汉普顿||
@@ -283,13 +290,16 @@
 |Joscelin of Soissons|苏瓦松的若斯兰||
 |José Ortega|何塞·奥尔特加|西班牙存在主义另有同名导演，随词条|
 |Judith Butler|Judith Butler|现代学者保留英文；通行汉译“巴特勒”|
+|Kepler, Johannes|开普勒||
 |Lambert of Auxerre|欧塞尔的兰伯特||
 |Lao Tzu|老子||
+|Le Seur|勒瑟尔||
 |Leibniz Equivalence|莱布尼茨等价|时空哲学；Stachel/Weatherall 用语|
 |Leon Henkin|莱昂·亨金||
 |living well|过好生活||
 |logic objection|逻辑诘难||
 |Luxemburg, Rosa|罗莎·卢森堡||
+|MacLaurin, Colin|科林·麦克劳林||
 |manerial supposition|manerial 指代||
 |manifold|流形|数学通行|
 |manifold of events|事件流形|时空哲学|
@@ -328,6 +338,7 @@
 |ouden mallon|并不更||
 |partial coherentism|局部融贯论||
 |particular|殊相；特殊||
+|Pemberton, Henry|亨利·彭伯顿||
 |perception|知觉||
 |personal identity|人格同一性||
 |Peter Kivy|彼得·基维||
@@ -1182,7 +1193,7 @@
 |rule-circularity|规则循环|premise-circularity 前提循环；首现 abduction|
 |Samuel|塞缪尔|泛指名，具体所指以正文为准（如 Samuel Alexander 塞缪尔·亚历山大见专条）|
 |Samuel Alexander|塞缪尔·亚历山大||
-|Samuel Ibn Tibbon|撒母耳·伊本·提本||
+|Samuel Ibn Tibbon|塞缪尔·伊本·提本||
 |Sartre|萨特||
 |scepticism|怀疑论|英式拼法，与 Skepticism 同词|
 |scientific explanation|科学解释|亦作“科学说明”；审定名词（自然辩证法）|

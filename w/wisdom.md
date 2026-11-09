@@ -123,7 +123,7 @@ Nozick 说明了人为了活得好必须知道什么，我们由此得到一个�
 
 [^note-1]: Keith Lehrer 与 Nicholas D. Smith 论证说，智者的一个标志是极善于辨识自己所判断之信念的价值。他们或会坚持：智者总能意识到自己相信什么是有理由的，而且只要信念证成充分，就总相信自己有知识。参 Lehrer and Smith 1996, p. 10。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -153,7 +153,7 @@ Nozick 说明了人为了活得好必须知道什么，我们由此得到一个�
 
 ## 学术工具
 
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=wisdom)。
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=wisdom&archive=fall2023)。
 * [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/wisdom/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=wisdom&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/wisdom/) 查看本词条的增强文献目录及其数据库链接。

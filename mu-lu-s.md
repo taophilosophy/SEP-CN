@@ -227,7 +227,7 @@ outline: [1, 6]
 * [米歇尔·德·蒙田 Montaigne, Michel de (Marc Foglia and Emiliano Ferrari)](m/montaigne.md)
 * [文艺复兴时期的亚里士多德主义 in the Renaissance (Heinrich Kuhn)](a/aristotelianism-renaissance.md)
 * [乔瓦尼·皮科·德拉·米兰多拉 Pico della Mirandola, Giovanni (Brian Copenhaver)](p/pico-della-mirandola.md)
-* [乔瓦尼·弗朗切斯科·皮科·德拉·米兰多拉 Giovanni Francesco [Gianfrancesco] Pico della Mirandola, Francesco)](g/gianfrancesco-pico.md)
+* [乔瓦尼·弗朗切斯科·皮科·德拉·米兰多拉 Giovanni Francesco [Gianfrancesco] Pico della Mirandola (Francesco Molinarolo)](g/gianfrancesco-pico.md)
 * [文艺复兴时期的自然哲学 in the Renaissance (Eva Del Soldato)](n/natphil-ren.md)
 * [尼古拉·哥白尼 Copernicus, Nicolaus (Sheila Rabin)](c/copernicus.md)
 * [乔尔丹诺·布鲁诺 Bruno, Giordano (Dilwyn Knox)](b/bruno.md)
@@ -473,7 +473,7 @@ outline: [1, 6]
 * [奥托·纽拉特 Neurath, Otto (Jordi Cat)](n/neurath.md)
 * [莫里茨·石里克 Schlick, Moritz (Thomas Oberdan and Friedrich Stadler)](s/schlick.md)
 * [阿尔弗莱德·塔尔斯基 Tarski, Alfred (Mario Gómez-Torrente)](t/tarski.md)
-  * [塔尔斯基的真理定义 truth definitions (Wilfrid Hodges)](t/tarski-truth.md)
+  * [塔尔斯基的真理定义 Tarski’s Truth Definitions (Wilfrid Hodges)](t/tarski-truth.md)
   * [路德维希·维特根斯坦 Wittgenstein, Ludwig (Anat Biletzki and Anat Matar)](w/wittgenstein.md)
     * [维特根斯坦的逻辑原子主义 logical atomism (Ian Proops)](w/wittgenstein-atomism.md)
       * [维特根斯坦的数学哲学 philosophy of mathematics (Victor Rodych)](w/wittgenstein-mathematics.md)
@@ -1426,7 +1426,7 @@ outline: [1, 6]
 ## 社会学哲学
 
 * [阿罗定理 Arrow’s theorem (Michael Morreau)](a/arrows-theorem.md)
-* [信念合并与判断聚合 belief merging and judgment aggregation (Gabriella Pigozzi)](b/belief-merging.md)
+* [信念合并与判断聚合 Belief Merging and Judgment Aggregation (Gabriella Pigozzi)](b/belief-merging.md)
 * [方法论个人主义 individualism, methodological (Joseph Heath)](m/methodological-individualism.md)
 * [社会选择理论 social choice theory (Christian List)](s/social-choice.md)
 * [社会程序的形式化进路 Formal Approaches to Social Procedures (van Eijck, Jan, Verbrugge, Rineke (L.C.))](s/social-procedures.md)

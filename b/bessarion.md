@@ -72,6 +72,12 @@
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### 主要文献
+
+### 二手文献
+
 [^platonis-nd]: The *In calumniatorem Platonis* was originally printed in 1469 in Rome (by Schweynheym and Pannartz), and then again in 1503 and 1516 in Venice (by Manutius). Both Venetian editions—which slightly differ from one another—contain revisions suggested by Bessarion himself. Ludwig Mohler’s modern edition is based on the text printed by Manutius. See
 
 [^bessarionis-1927]: *Bessarionis In Calumniatorem Platonis Libri IV*, Paderborn: Schöningh, 1927;
@@ -268,4 +274,4 @@
 
 ## 相关词条
 
-文艺复兴时期的亚里士多德主义 | 拜占庭哲学 | 马尔西利奥·费奇诺 | 未来偶然事件：中世纪诸理论 | 雅克·勒菲弗·戴塔普勒 | 自然哲学：文艺复兴时期 | 新柏拉图主义 | 柏拉图 | 彼得罗·彭波那齐 | 普罗克洛斯 | 泰奥弗拉斯特
+文艺复兴时期的亚里士多德主义 | 拜占庭哲学 | 马尔西利奥·费奇诺 | 中世纪的未来偶然性理论 | 雅克·勒菲弗·戴塔普勒 | 文艺复兴时期的自然哲学 | 新柏拉图主义 | 柏拉图 | 彼得罗·彭波那齐 | 普罗克洛斯 | 泰奥弗拉斯特

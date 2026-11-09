@@ -2,7 +2,7 @@
   "slug": "african-ethics",
   "kind": "retranslate",
   "zh_doc": "a/african-ethics.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-10-31T23:10:00Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A3-main-20261109",
+      "at": "2026-11-09T07:57:12Z",
+      "evidence": "段落账本 tasks/a/african-ethics.ledger.yaml 118 段（body 117+oir 1；biblio 34 块由 compose 照录）step1/step2 双版全填；lq.py check 守恒 HARD=0（SOFT 仅机械段与斜体→书名号提示）；compose 写回 a/african-ethics.md 25,046 字符 303 行；italic_to_bold_cjk 转换 28 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A3-main-20261109",
+      "at": "2026-11-09T07:57:12Z",
+      "evidence": "一校（准确性）：逐段对照 yuanwen/a/african-ethics.md——段落 117:117（含 10 节标题）、脚注 0:0（源无 notes.html）、章节 10 节全等、引用组（Opoku 1978: 152／Wiredu 1983: 13／Busia 1954: 205／Maquet 1954: 184／Molema 1920: 116／Kaunda 1966: 32／Campbell 1922: 45／McVeigh 1974: 84／Krige 1954: 78／Gbadegesin 1991: 27,79）全部原样照录；谚语与阿肯语/约鲁巴语/伊博语/绍纳语/南索托语原文 9 组逐条核对（Onni suban／nonomo mele si o／iwa／agwa／tsika／hunhu／maemo／Honam mu nni nhanoa／Onipa nua ne onipa 等）；零信任回核：英文本无公式、无图表；文献 34 块逐字符取自镜像；术语 10 条先登记后使用（道德人格/共同体主义/超义务/人本主义/道德中性/公共善/品性…），人名 13 条登记"
     }
   ],
   "blockers": [],

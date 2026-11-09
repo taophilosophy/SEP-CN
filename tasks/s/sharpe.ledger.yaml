@@ -173,14 +173,18 @@ segments:
     kind: body
     source: |-
       The basic idea of the standard medieval realist theories of meaning was that semantic classifications derive from ontological differences among the signified objects. So, according to this approach, the simple expressions of our language (i.e., names) are distinct from the complex expressions (i.e., sentences) by virtue of their own *significata*, that is by virtue of the different kinds of objects they make known. In fact, the objects signified by complex expressions are compounds of (at least) two of the objects signified by simple expressions and a relation of identity (or non-identity, in the case of a true negative sentence), while a simple object is an item in a category (i.e., either a singular substance, or a substantial form, or an accidental form). Furthermore, every simple expression of our language is like a label naming just *one* object in the world, but whereas proper names and singular expressions label individuals (i.e., token-objects), general terms label common natures (i.e., type-objects), which are the main metaphysical constituents of the set of individuals instantiating them. For instance, the general expression ‘man’ labels and can stand for each and every man only because of its primarily signifying the universal form of humanity *qua* being present in each and every man as the main constitutive principle of his essence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      中世纪标准实在论意义理论的基本观念是：语义分类源自被意谓对象之间的本体论差异。因此，按这一进路，我们语言中的简单表达式（即名称）与复合表达式（即句子）之所以有别，在于它们各自的*意谓对象*（*significata*），也就是说，在于它们所使人认识的对象种类不同。事实上，复合表达式所意谓的对象，由（至少）两个简单表达式所意谓的对象加上一种同一关系（若为真的否定句，则是非同一关系）复合而成；而简单对象则是某个范畴中的一项（即或为单一实体，或为实体形式，或为偶性形式）。此外，我们语言中每一个简单表达式都像一个标签，只命名世界上的*一个*对象；不过，专名与单一表达式标指个体（即殊型对象），而普遍词项标指共同本性（即类型对象），后者是实例化它们的个体集合的主要形而上学构成成分。例如，普遍表达式“人”之所以能标指并可代表每一个个人，只是因为它首要地意谓人性这一普遍形式，而此形式*作为*每个个人的本质的主要构成原则存在于其身上。
+    step2: |-
+      中世纪标准实在论意义理论的基本想法是：语义分类出自被意谓对象之间的本体论差异。依此进路，语言中的简单表达式（名称）与复合表达式（句子）之别，就在各自*意谓对象*（*significata*）不同——即它们所使人认识的对象种类不同。复合表达式所意谓的对象，由（至少）两个简单表达式之意谓对象再加一种同一关系（若为真否定句，则为非同一关系）复合而成；简单对象则是范畴中的一项：单一实体、实体形式或偶性形式。再者，语言中每个简单表达式都像一个标签，只命名世上*一个*对象；但专名与单一表达式标指个体（殊型对象），普遍词项标指共同本性（类型对象）——共同本性是实例化该本性的个体集合的主要形而上学成分。例如，普遍表达式“人”能标指并代表每一个个人，只因为它首要意谓人性这一普遍形式，而此形式*作为*每个个人本质的主要构成原则存在于他之中。
   - id: 20
     kind: body
     source: |-
       Sharpe rejects the standard realist criteria for the generality (or universality, according to his terminology) of terms, and substantially accepts the sense of nominalist criticisms. In his opinion, to be matched by a common nature really existing in the world is no longer the necessary and sufficient condition for being a general term. Rather, signifying universally (that is, signifying a unitary concept that in turn refers to a multiplicity of things displaying at least a similar mode of being [*QsU*, pp. 129–30]) is a condition for semantic universality of equal importance. He thinks that those terms which signify universally have to be viewed as common, as well as those signifying a common nature existing outside the intellect (*ibid.*, p. 69). Thus, according to Sharpe, there are six different kinds of general expressions, both spoken and written:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      夏普拒绝标准实在论关于词项之普遍性（按他的术语，即 universality）的判据，并在实质上接受唯名论批评的旨趣。在他看来，有共同本性现实地存在于世界之中与之相配，不再是成为普遍词项的充分必要条件。毋宁说，普遍地意谓（即意谓一个单一概念，而该概念转而指涉具有至少相似存在方式的多重事物[*QsU*, pp. 129–30]），是与前者同等重要的语义普遍性条件。他认为，那些普遍地意谓的词项必须被视为共同的，那些意谓存在于理智之外的共同本性的词项亦然（*ibid.*, p. 69）。因此，按夏普之说，无论口头还是书面，普遍表达式有六种：
+    step2: |-
+      夏普拒绝标准实在论关于词项普遍性（他沿用“普遍性”这一术语）的判据，实质上接受了唯名论批评的旨趣。在他看来，有现实存在于世界中的共同本性与之相配，已不再是普遍词项的充分必要条件。普遍地意谓——即意谓一个单一概念，而此概念转指一批至少具有相似存在方式的多重事物（*QsU*, pp. 129–30）——是同等重要的语义普遍性条件。他认为，普遍地意谓的词项必须算作共同的，意谓理智之外存在的共同本性的词项亦然（*ibid.*, p. 69）。于是按夏普之说，口头与书面的普遍表达式共有六种：
   - id: 21
     kind: body
     source: |-
@@ -190,26 +194,44 @@ segments:
       4. those to which no common nature really existing in the world corresponds, but rather a common transcategorial negative concept, under which a multiplicity of things can be collected, like the term ‘individual’ (the negative concept involved here is the concept of *incommunicabilitas*, or impossibility-of-being-common, which characterizes individuals);
       5. equivocal terms as such, since they are connected with a multiplicity of different notions;
       6. demonstrative pronouns, like ‘this (one)’ (‘*hoc*’), when used to supposit for (refer to) a common nature, even though they can signify in a singular manner (*discrete*) only (*ibid.*, pp. 69–71).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 普遍地意谓现实存在于世界之中（*in re*）的共同本性的词项，如“人性”；
+      2. 普遍地内涵现实存在于世界之中的共同本性、却不直接意谓它的词项，如“白的”（“*album*”），它指涉白的事物并内涵白性形式；
+      3. 不指涉世界上任何现实存在之物、却在某种意义上与一个普遍概念相关的词项，如“虚空”与“喀迈拉”；
+      4. 与之相对应的并非现实存在于世界之中的共同本性，而是一个跨范畴的共同否定概念、多重事物可被收拢于其下的词项，如“个体”（此处涉及的否定概念是 *incommunicabilitas*，即不可共同性，它刻画个体）；
+      5. 就其本身而言的歧义词项，因为它们与多重不同概念相连；
+      6. 指示代词，如“这个”（“*hoc*”），当其被用来指代（指涉）一个共同本性时，尽管它们只能以单一方式（*discrete*）意谓（*ibid.*, pp. 69–71）。
+    step2: |-
+      1. 普遍地意谓现实存在于世界之中（*in re*）之共同本性的词项，如“人性”；
+      2. 普遍地内涵现实存在于世界之中的共同本性、却不直接意谓它的词项，如“白的”（“*album*”）：它指涉白的事物，并内涵白性这一形式；
+      3. 不指涉世上任何现实存在之物、却以某种方式与一个普遍概念相关的词项，如“虚空”“喀迈拉”；
+      4. 与之对应的不是现实存在于世上的共同本性，而是一个跨范畴的共同否定概念，多重事物可收拢其下的词项，如“个体”（此处涉及的否定概念是 *incommunicabilitas*，即不可共同性，它刻画个体）；
+      5. 就其本身而言的歧义词项，因为它们同多重不同概念相连；
+      6. 指示代词，如“这个”（“*hoc*”），当它被用来指代（指涉）一个共同本性时——尽管它们只能以单一方式（*discrete*）意谓（*ibid.*, pp. 69–71）。
   - id: 22
     kind: body
     source: |-
       As is evident, Sharpe’s analysis of the types of universality for linguistic terms is based on two distinct but compatible criteria: (i) the existence of a common nature directly or indirectly signified by them, and (ii) the universal mode of signifying – the latter being more important than the former. Thus, based on the satisfaction of these two criteria, Sharpe himself reduces the preceding division of the kinds of universality to a threefold partition: (i) terms that signify in a universal mode a common nature existing *in re* and which are thus properly common, such as ‘*homo*’; (ii) terms that signify in a universal mode but do not refer to any common nature *in re* and which are thus common in a less proper way, such as ‘*chimaera*’ and ‘*persona*’; finally, (iii) terms that do not signify in a universal mode and which are thus common in an improper way whenever they refer to a common nature existing *in re* , such as ‘*hoc*’ and other demonstrative pronouns (*QsU*, p. 71).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显而易见，夏普对语言词项之普遍性类型的分析基于两条彼此不同却相容的判据：(i) 由词项直接或间接意谓的共同本性的存在；(ii) 普遍意谓方式——后者比前者更重要。因此，依据对这两条判据的满足情况，夏普自己把上述普遍性种类的划分归约为三分：(i) 以普遍方式意谓存在于 *in re* 的共同本性、因而本来意义上的共同词项，如“*homo*”；(ii) 以普遍方式意谓、却不指涉任何 *in re* 的共同本性、因而在较弱意义上共同的词项，如“*chimaera*”与“*persona*”；最后 (iii) 不以普遍方式意谓、因而每当其指涉存在于 *in re* 的共同本性时只是在非本来意义上共同的词项，如“*hoc*”与其他指示代词（*QsU*, p. 71）。
+    step2: |-
+      由此可见，夏普分析语言词项的普遍性类型，依据两条不同而相容的判据：一是词项直接或间接意谓的共同本性是否存在；二是是否以普遍方式意谓——后者重于前者。依这两条判据的满足情况，夏普把上述分类归并为三分：一、以普遍方式意谓 *in re* 之共同本性者，属本来意义上的共同词项，如“*homo*”；二、以普遍方式意谓但不指涉 *in re* 之共同本性者，属较弱意义上的共同词项，如“*chimaera*”“*persona*”；三、不以普遍方式意谓者，只在指涉 *in re* 之共同本性时才于非本来意义上算共同词项，如“*hoc*”及其他指示代词（*QsU*, p. 71）。
   - id: 23
     kind: body
     source: |-
       In turn, mental concepts are common in four ways only, corresponding to the first four ways of universality peculiar to spoken (and written) terms, since there are no universal concepts that correspond to demonstrative pronouns or equivocal terms as such (*ibidem*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反过来，心智概念只有四种共同方式，对应于口头（与书面）词项所特有的前四种普遍性方式，因为并没有与指示代词或就其本身而言的歧义词项相对应的普遍概念（*ibidem*）。
+    step2: |-
+      至于心智概念，则只有四种共同方式，分别对应口头（书面）词项所特有的前四种普遍性方式——因为不存在与指示代词或歧义词项本身相对应的普遍概念（*ibidem*）。
   - id: 24
     kind: body
     source: |-
       The fourth kind of general term deserves particular attention, since it is connected with Sharpe’s solution to the question of the semantic and ontological status of terms of second intention like ‘individual’ or ‘singular. This was a highly controversial question in Oxford at the end of the 14ᵗʰ century. The most common explanation was that proposed by Robert Alyngton, a fellow of Queen’s College in the 1380s. According to Alyngton, terms like ‘individual’ have to be considered singular expressions; more precisely they are “range-narrowed” expressions, like ‘this man’, because they identify a singular referent as a member of a given set of individuals. In fact, a term like ‘individual’ presupposes a general concept (that of being), the range of which is narrowed to a unique object among beings by an act of our intellect – to one object that is not common. Sharpe, however, argues that Alyngton’s answer goes against linguistic usage as well as an established fact: if Alyngton were right, then the following argument (which everybody will admit) would be formally incorrect:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第四类普遍词项尤其值得注意，因为它关涉夏普对“个体”或“单一”这类第二意向词项的语义与本体论地位问题的解决。这在 14 世纪末的牛津是一个争议极大的问题。最常见的解释是 1380 年代王后学院院士罗伯特·阿林顿提出的。按阿林顿之说，“个体”这类词项应被视为单一表达式；更确切地说，它们是“范围收窄的”表达式，像“这个人”一样，因为它们把某一单一指涉物识别为某个既定个体集合的成员。事实上，“个体”这样的词项预设了一个普遍概念（即存在概念），其范围被我们理智的活动收窄为诸存在者中的唯一对象——一个并非共同的对象。然而夏普论证说，阿林顿的回答既违背语言用法，也违背一个既定事实：如果阿林顿是对的，那么下面这个（人人都会承认的）论证就会在形式上不正确：
+    step2: |-
+      第四类普遍词项尤须留意，因为它牵涉夏普对“个体”“单一”这类第二意向词项的语义与本体论地位问题的解决。14 世纪末的牛津，此问题争议极大。最流行的解释出自 1380 年代王后学院院士罗伯特·阿林顿：“个体”这类词项应算作单一表达式，更确切说是“范围收窄”的表达式，如“这个人”——它们把某个单一指涉物识别为一个既定个体集合的成员。“个体”这样的词项预设一个普遍概念（存在概念），我们理智的活动把它的范围收窄到诸存在者中的唯一对象，即一个并非共同的对象。夏普却主张，阿林顿之说既背语言用法，也背一个既定事实：倘若阿林顿为真，下面这个人人都会承认的论证便在形式上不正确：
   - id: 25
     kind: body
     source: |-
@@ -217,14 +239,24 @@ segments:
       > | --- | --- |
       > | and not the universal-man | (*et non homo communis*) |
       > | therefore, an individual man runs | (*ergo homo singularis currit*) |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > | 人跑 | (*homo currit*) |
+      > | --- | --- |
+      > | 而非共相之人 | (*et non homo communis*) |
+      > | 所以，一个个体的人跑 | (*ergo homo singularis currit*) |
+    step2: |-
+      > | 人跑 | (*homo currit*) |
+      > | --- | --- |
+      > | 而非共相之人 | (*et non homo communis*) |
+      > | 所以，一个个体的人跑 | (*ergo homo singularis currit*) |
   - id: 26
     kind: body
     source: |-
       just like this one:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就像这一个一样：
+    step2: |-
+      恰恰像下面这个：
   - id: 27
     kind: body
     source: |-
@@ -232,62 +264,88 @@ segments:
       > | --- | --- |
       > | and not the universal-man | (*et non homo communis*) |
       > | therefore, Socrates runs | (*ergo Sortes currit*), |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > | 人跑 | (*homo currit*) |
+      > | --- | --- |
+      > | 而非共相之人 | (*et non homo communis*) |
+      > | 所以，苏格拉底跑 | (*ergo Sortes currit*)，
+    step2: |-
+      > | 人跑 | (*homo currit*) |
+      > | --- | --- |
+      > | 而非共相之人 | (*et non homo communis*) |
+      > | 所以，苏格拉底跑 | (*ergo Sortes currit*)，
   - id: 28
     kind: body
     source: |-
       since the syntagm ‘an individual man’ (‘*homo singularis*’) would be a singular term standing precisely for one individual, e.g., ‘Socrates’ (‘*Sortes*’). Furthermore, it is a fact that anyone can understand the sentence ‘an individual man runs’ even without knowing the identity of the man who is running – which is required according to Alyngton’s theory. Therefore, Sharpe regarded second intentions of this kind as common ones (*ibid*., pp. 132–33).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因为“一个个体的人”（“*homo singularis*”）这个组合表达将是一个刚好代表一个个体（例如“苏格拉底”[“*Sortes*”]）的单一词项。此外，一个事实是：任何人都能理解“一个个体的人跑”这句话，即使并不知道正在跑的那个人是谁——而按阿林顿的理论，这是必需的。因此，夏普把这类第二意向视为共同的（*ibid*., pp. 132–33）。
+    step2: |-
+      因为“一个个体的人”（“*homo singularis*”）这一组合表达将是一个单一词项，恰好代表某一个个体，例如“苏格拉底”（“*Sortes*”）。何况事实是：任何人即便不知道正在跑的是谁，也能理解“一个个体的人跑”这句话——按阿林顿之说，偏偏要求知道这一点。所以夏普把这类第二意向算作共同的（*ibid*., pp. 132–33）。
   - id: 29
     kind: body
     source: |-
       In this way, Sharpe admits that the nominalist explanation of the universality of signs holds in the particular context of second intentions, implicitly rejecting Alyngton’s reduction of epistemology to ontology, since according to Sharpe’s account the former has its own range and rules partially independent of the latter. Furthermore, he restores the semantic rank that intuitively would be assigned to the ‘individual’-like terms (something Alyngton was unable to do). On the other hand, his defence of realism on the problem of universals is partially invalidated by his qualified acceptance of the nominalist principle of the autonomy of thought in relation to the world. In fact, it is evident that from a semantic and/or epistemological point of view, he can no longer justify the extra-mental reality of universals.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这样，夏普承认唯名论关于符号普遍性的解释在第二意向这一特定语境中成立，从而含蓄地拒绝了阿林顿把认识论归约于本体论的做法，因为按夏普的说明，前者有自己的范围与规则，部分独立于后者。此外，他恢复了“个体”之类词项在直觉上应得的语义地位（这是阿林顿未能做到的）。另一方面，他由于有保留地接受唯名论关于思想相对于世界具有自主性的原则，对共相问题上实在论的辩护也部分失效了。事实上很明显，从语义学和/或认识论的观点看，他再也无法证成共相在心智之外的实在性。
+    step2: |-
+      于是夏普承认，唯名论关于符号普遍性的解释在第二意向这一特定语境中成立；这等于含蓄否弃了阿林顿把认识论归约于本体论的做法——按夏普的说明，认识论自有其范围与规则，部分独立于本体论。他还恢复了“个体”一类词项在直觉上应得的语义地位（阿林顿未能做到）。但另一方面，他既已有保留地接受唯名论“思想相对于世界具有自主性”的原则，其共相问题上的实在论辩护便部分失效：从语义学或认识论看，他显然已无法证成共相在心智之外的实在性。
   - id: 30
     kind: body
     source: |-
       Like Burley, Sharpe’s semantics lists a third kind of expression between simple and complex expressions: concrete accidental terms (like ‘white’ or ‘father’), whose *significata* are neither simple nor complex objects but something in between. He affirms that concrete accidental terms do not signify simple objects but aggregates composed of a substance and an accidental form. Such aggregates are lacking in numerical unity, and hence do not fall into any of the ten categories, because they are not properly beings (*entia*). For that reason concrete accidental terms, although simple expressions from a merely grammatical point of view, are not names. The two metaphysical components of such aggregates (i.e., substance and accidental form) are related to the concrete accidental term as follows: although the concrete accidental term connotes the accidental form, this is not its direct *significatum,* so that the concrete accidental term can supposit for the substance only. In other words, the concrete accidental terms label substances by means of the accidental forms from which they draw their names, so that they name substances only *qua* bearers (*subiecta*) of a form. This fact accounts for the difference between general names in the category of substance (like ‘man’) and concrete accidental terms. General names in the category of substance are concrete terms as well, but the form they primarily signify is really identical with the substances they label. Therefore, in this case, the name itself of the form can be used as a name of the substance. This obviously implies a slight difference in meaning between abstract and concrete substantial terms, such as ‘humanity’ (‘*humanitas*’) and ‘man’ (‘*homo*’). While ‘humanity’ is not the name of the form considered in its totality, but rather the name only of the essential principle of the form, that is, of the intensional content carried by the term ‘man’, this latter term signifies the substantial form considered as a constitutive element of the reality (*esse*) of a certain set of individual substances that instantiate it. As a consequence, according to Sharpe, ‘man is humanity’ (‘*homo est humanitas*’) is a well formed and true sentence, since both subject and predicate signify the same entity, but ‘white is whiteness’ (‘*album est albedo*’) is not, since ‘white’ does not directly signify the accidental form, but only the substrate in which it inheres, as bearer of that form, and therefore ‘white’ cannot stand for such a form in any sentence (*ibid*., pp. 71–73).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与伯利一样，夏普的语义学在简单表达式与复合表达式之间列出第三类表达式：具体偶性词项（如“白的”或“父亲”），其*意谓对象*既非简单对象也非复合对象，而是某种介于两者之间的东西。他断言，具体偶性词项不意谓简单对象，而意谓由实体与偶性形式复合而成的聚合体。这类聚合体缺乏数值统一性，因而不落入十范畴中的任何一范畴，因为它们不是本来意义上的存在者（*entia*）。因此，具体偶性词项虽然从单纯语法观点看是简单表达式，却不是名称。这类聚合体的两个形而上学成分（即实体与偶性形式）与具体偶性词项的关系如下：尽管具体偶性词项内涵偶性形式，后者却不是它的直接*意谓对象*，所以具体偶性词项只能指代实体。换言之，具体偶性词项借其得名的偶性形式来标指实体，因而它们只*作为*形式的承担者（*subiecta*）命名实体。这一事实说明了实体范畴中的普遍名称（如“人”）与具体偶性词项之间的差别。实体范畴中的普遍名称同样是具体词项，但它们首要意谓的形式与它们所标指的实体实在同一。因此在这种情况下，形式本身的名称可以用作实体的名称。这显然意味着抽象实体词项与具体实体词项（如“人性”[“*humanitas*”]与“人”[“*homo*”]）之间在意义上略有差别。“人性”不是就整体而言的形式的名称，而只是形式之本质原则的名称，即“人”一词所承载的内涵内容的名称；而“人”一词则意谓实体形式，此形式被视为某一组实例化它的个体实体之实在（*esse*）的构成要素。因此，按夏普之说，“人是人性”（“*homo est humanitas*”）是一个构造良好且为真的句子，因为主词与谓词意谓同一实体；而“白的是白性”（“*album est albedo*”）则不是，因为“白的”不直接意谓偶性形式，只意谓它寓于其中、作为该形式承担者的基底，所以“白的”在任何句子中都不能代表这样的形式（*ibid*., pp. 71–73）。
+    step2: |-
+      与伯利一样，夏普的语义学在简单表达式与复合表达式之间列出第三类：具体偶性词项（如“白的”“父亲”）。它们的*意谓对象*既非简单对象，也非复合对象，而是介于两者之间的东西。夏普断言，具体偶性词项不意谓简单对象，而意谓由实体与偶性形式复合成的聚合体。这类聚合体没有数值统一性，因而不入十范畴——它们不是本来意义上的存在者（*entia*）。所以，具体偶性词项虽从纯语法看是简单表达式，却不是名称。聚合体的两个形而上学成分（实体与偶性形式）同该词项的关系如下：具体偶性词项内涵偶性形式，但偶性形式不是它的直接*意谓对象*，故它只能指代实体。换句话说，具体偶性词项借以得名的偶性形式来标指实体，因而只*作为*形式的承担者（*subiecta*）命名实体。实体范畴中的普遍名称（如“人”）与具体偶性词项之别，正在于此：前者同样是具体词项，但它首要意谓的形式与其所标指的实体实在同一。于是，形式本身的名称便可作实体之名。这自然意味着抽象实体词项与具体实体词项（如“人性”[“*humanitas*”]与“人”[“*homo*”]）在意义上有细微出入：“人性”不是就整体而言的形式之名，而只是形式之本质原则之名，即“人”一词所承载的内涵内容之名；“人”则意谓实体形式，而此形式是某一组实例化它的个体实体之实在（*esse*）的构成要素。因此按夏普之说，“人是人性”（“*homo est humanitas*”）构造良好且为真，因主词与谓词意谓同一实体；“白的是白性”（“*album est albedo*”）则不然，因“白的”不直接意谓偶性形式，只意谓它寓于其中、作为该形式承担者的基底，故“白的”在任何句子中都不能代表这种形式（*ibid*., pp. 71–73）。
   - id: 31
     kind: body
     source: |-
       ## 5. Universals and Predication
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 共相与谓述
+    step2: |-
+      ## 5 共相与谓述
   - id: 32
     kind: body
     source: |-
       The core of Sharpe’s metaphysics lies in his theory of universals. He is a realist, since he defends the extra-mental existence of universals (*ibid*., p. 68), but he is open to nominalism, as he thinks that there is not a close correspondence between the elements and structures of language and elements and structures of the world. His approach to the whole matter can be defined as “analytical,” since he seems to believe that (i) any ontology has to be built up in relation to the resolution of semantic problems, (ii) any philosophical explanation of reality has to be preceded by a semantic explanation of the function of our language.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      夏普形而上学的核心在于他的共相理论。他是实在论者，因为他为共相的心智外存在辩护（*ibid*., p. 68）；但他对唯名论持开放态度，因为他认为语言的要素与结构同世界的要素与结构之间并无紧密对应。他对整个问题的进路可界定为“分析的”，因为他似乎相信：(i) 任何本体论都必须参照语义问题的解决来建构；(ii) 任何对实在的哲学解释都必须先有对我们语言之功能的语义解释。
+    step2: |-
+      夏普形而上学的核心是他的共相理论。他是实在论者，为共相的心智外存在辩护（*ibid*., p. 68）；他又对唯名论开放，因为他认为语言的要素与结构同世界的要素与结构并不紧密对应。他对整个问题的进路可称为“分析的”：他似乎相信，任何本体论都得参照语义问题的解决来建构，任何对实在的哲学解释都得先有对语言功能的语义解释。
   - id: 33
     kind: body
     source: |-
       Sharpe wrote the most interesting treatise on universals of the late Middle Ages other than those of Wyclif and Paul of Venice, arguing about logic and metaphysics, explaining his positions on being and essence, universals, singulars, predication, identity and distinction, and truth and falsity. His tract is very similar to that of Paul of Venice with regard to many metaphysical theses supported, the structure of the work, the textual material utilized, and the opinions discussed. In his *Quaestio super universalia* Sharpe lists eight opinions on universals (Buridan, Ockham, Auriol, Albert the Great and Giles of Rome, Plato, Duns Scotus, Burley, and Wyclif) and so does Paul of Venice in his *Quaestio de universalibus* (Ockham, Thomas Aquinas and Giles of Rome, Auriol, Burley, Wyclif, Plato, and two other unidentified realist authors). Yet, there are some noteworthy doctrinal differences between them and the other Oxford realists, which testify to Sharpe’s (and Paul of Venice’s) independence of thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除威克里夫与帕多瓦的保罗的著作之外，夏普写出了中世纪晚期最有趣的共相论著，讨论逻辑与形而上学，阐明他在存在与本质、共相、单一物、谓述、同一与区分、真与假等问题上的立场。就所支持的许多形而上学论题、著作结构、所用文本材料与所讨论的意见而言，他的论著与帕多瓦的保罗的论著极为相似。在其《共相问题》中，夏普列出关于共相的八种意见（布里丹、奥卡姆、奥雷奥尔、大阿尔伯特与罗马的吉尔斯、柏拉图、司各脱、伯利与威克里夫），帕多瓦的保罗在其《共相问题》中也同样列出（奥卡姆、托马斯·阿奎那与罗马的吉尔斯、奥雷奥尔、伯利、威克里夫、柏拉图，以及另外两位身份不明的实在论作者）。然而，他们与其他牛津实在论者之间有一些值得注意的学说差异，这证明夏普（以及帕多瓦的保罗）思想独立。
+    step2: |-
+      除威克里夫与帕多瓦的保罗之外，中世纪晚期最有趣的共相论著出自夏普之手。他兼论逻辑与形而上学，阐明自己在存在与本质、共相、单一物、谓述、同一与区分、真与假诸问题上的立场。无论所支持的形而上学论题、著作结构、所用文本材料还是所讨论的意见，他的论著都与帕多瓦的保罗之作极为相近：《共相问题》列出关于共相的八种意见（布里丹、奥卡姆、奥雷奥尔、大阿尔伯特与罗马的吉尔斯、柏拉图、司各脱、伯利、威克里夫），帕多瓦的保罗《共相问题》亦然（奥卡姆、托马斯·阿奎那与罗马的吉尔斯、奥雷奥尔、伯利、威克里夫、柏拉图，另加两位身份不明的实在论作者）。不过，他们与其他牛津实在论者之间有些值得注意的学说差异，可见夏普（以及帕多瓦的保罗）思想之独立。
   - id: 34
     kind: body
     source: |-
       The starting point of Sharpe’s theory of universals and predication (as well as identity and distinction) is the theory worked out by Wyclif and some of his Oxford successors, such as Alyngton and Penbygull. Like Duns Scotus and Walter Burley, Wyclif held that universals *in re* (or formal universals) exist outside our minds *in actu* and not *in potentia*, as moderate realists thought. On the other hand, unlike Burley, he maintained that they are really identical with their own individuals, thus accepting the very core of the traditional realist account of the relationship between universals and individuals. According to Wyclif, since (1) universals and individuals share the same empirical reality, which is that of individuals, but (2) have opposite constituent principles, when properly considered as universals and individuals, they are really the same but formally distinct. On his view, because of this formal distinction, not everything predicable of individuals can be directly predicated of universals and *vice versa*, although an indirect predication is always possible. As a consequence, Wyclif distinguished three main non-mutually exclusive types of predication (which he conceives as a real relation holding between metaphysical entities), each more general than the preceding one (or ones). In the *Tractatus de universalibus* they are the following: formal predication, predication by essence, and habitudinal predication (see the entry on Wyclif, §2.3). Since habitudinal predication does not require any kind of identity between the entity signified by the subject-term and the entity signified by the predicate-term, but formal predication and essential predication do, the ontological presuppositions of the most general type of predication, implied by the other types, are completely different from those of the other two.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      夏普共相与谓述（以及同一与区分）理论的起点，是威克里夫及其某些牛津后继者（如阿林顿与彭比格尔）所发展出的理论。与司各脱和沃尔特·伯利一样，威克里夫主张，*in re* 的共相（或形式共相）以*现实*（*in actu*）而非*潜能*（*in potentia*）方式存在于我们心智之外——温和实在论者则以为是后者。另一方面，与伯利不同，他坚持共相与其个体实在同一，从而接受了传统实在论关于共相与个体关系的核心主张。按威克里夫之说，既然 (1) 共相与个体共享同一种经验实在，即个体的实在，但 (2) 具有相反的构成原则，那么当它们被恰当地作为共相与个体来考虑时，便实在相同而形式区分。在他看来，由于这一形式区分，并非一切可述谓个体的东西都能直接谓述共相，反之亦然，尽管间接谓述总是可能的。因此，威克里夫区分出三种主要的、并不互斥的谓述类型（他把谓述理解为形而上学实体之间的一种实在关系），每一类型都比前一类（或前几类）更普遍。在《共相论》中，这三种是：形式谓述、本质述谓与关系谓述（见威克里夫词条 §2.3）。由于关系谓述不要求主词项所意谓的实体与谓词项所意谓的实体之间有任何同一性，而形式谓述与本质谓述则要求，所以这一最普遍的谓述类型（由其他类型所蕴含）的本体论预设，与另外两种的预设完全不同。
+    step2: |-
+      夏普的共相与谓述（以及同一与区分）理论，起点是威克里夫及其牛津后继者（如阿林顿、彭比格尔）的理论。与司各脱、沃尔特·伯利一样，威克里夫主张 *in re* 的共相（形式共相）以*现实*（*in actu*）而非*潜能*（*in potentia*）方式存在于心智之外——温和实在论者则以为只在潜能中。但与伯利不同，他坚持共相与其个体实在同一，因而接受了传统实在论关于共相与个体关系的核心。按威克里夫之说，共相与个体 (1) 共享同一种经验实在，即个体的实在，(2) 却具有相反的构成原则；因此，当它们被恰当地作为共相与个体来看时，便实在相同而形式区分。由于这一形式区分，并非一切可述谓个体者都能直接谓述共相，反之亦然——尽管间接谓述总是可能。于是威克里夫分出三种主要且不互斥的谓述类型（他把谓述理解为形而上学实体间的实在关系），每一类都比前一类更普遍。在《共相论》中，三者是：形式谓述、本质述谓、关系谓述（见威克里夫词条 §2.3）。关系谓述不要求主词项所意谓的实体与谓词项所意谓的实体之间有同一性，形式谓述与本质谓述则要求；因此，这一最普遍的谓述类型（由其余类型所蕴含）的本体论预设，与另两种全然不同。
   - id: 35
     kind: body
     source: |-
       The final result of this way of approaching the problem of universals was a system of intensional logic where (1) the copula of (almost) any standard (philosophical) proposition, such as ‘Socrates is white’ or ‘man is an animal’, has to be interpreted in terms of degrees of identity between the things signified by the subject-term and the predicate-term; and (2) individuals and universals, considered *qua* beings, appear to be a sort of hypostatization of intensions, since they are what is signified by proper and common nouns respectively.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种处理共相问题的方式，最终结果是一个内涵逻辑系统：其中 (1) （几乎）任何标准（哲学）命题的系词，如“苏格拉底是白的”或“人是动物”，都必须依据主词项所意谓之物与谓词项所意谓之物之间的同一程度来解释；(2) 个体与共相作为存在者（*qua* beings）来看，似乎是内涵的某种实体化，因为它们分别是专名与普遍名词所意谓的东西。
+    step2: |-
+      这样处理共相问题，最终得到一个内涵逻辑系统：其一，（几乎）任何标准（哲学）命题的系词，如“苏格拉底是白的”“人是动物”，都须依主词项与谓词项所意谓之物间的同一程度来解释；其二，个体与共相*作为*存在者来看，仿佛是内涵的实体化——它们分别是专名与普遍名词所意谓者。
   - id: 36
     kind: body
     source: |-
       Sharpe shares the metaphysical view and principles of Wyclif’s philosophical system. His position on the problem of universals can be summed up as follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      夏普分享威克里夫哲学体系的形而上学观点与原则。他在共相问题上的立场可概括如下。
+    step2: |-
+      夏普认同威克里夫哲学体系的形而上学观点与原则。他在共相问题上的立场可概括如下。
   - id: 37
     kind: body
     source: |-
@@ -295,99 +353,139 @@ segments:
       2. Real universals are naturally apt to be present in many things as their main metaphysical components.
       3. Real universals exist *in actu* outside the mind, since their being is the same as the being of individuals, which is actual.
       4. Mental universals are partially caused in our mind by the common natures existing outside.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 以下实体可算作共相：(1.1) 具有多重结果的原因；(1.2) 上帝之中的理念；(1.3) 全称量词（*syncategorema universaliter distributivum*）；(1.4) 全称命题，无论肯定还是否定；(1.5) 普遍形式，或实在共相；(1.6) 普遍符号，无论心智的还是口头的（或书写的）（*QsU*., pp. 49–50）。
+      2. 实在共相天然适于作为其主要形而上学成分存在于多重事物之中。
+      3. 实在共相以*现实*方式存在于心智之外：它们的存在与个体的存在相同，而后者是现实的。
+      4. 心智共相部分地由存在于外部的共同本性在我们心智中造成。
+    step2: |-
+      1. 以下实体可算作共相：(1.1) 具有多重结果的原因；(1.2) 上帝之中的理念；(1.3) 全称量词（*syncategorema universaliter distributivum*）；(1.4) 全称命题，肯定者与否定者皆然；(1.5) 普遍形式，或实在共相；(1.6) 普遍符号，心智的与口头（书写）的皆然（*QsU*., pp. 49–50）。
+      2. 实在共相天然适于作为其主要形而上学成分存在于多重事物之中。
+      3. 实在共相以*现实*方式存在于心智之外：它们的存在与个体的存在相同，而后者是现实的。
+      4. 心智共相部分地由存在于外部的共同本性在我们心智中造成。
   - id: 38
     kind: body
     source: |-
       As the being of real universals coincides with the being of their corresponding individuals, real universals can be said to be everlasting because of the continuous succession of their individuals, and also really identical with them. But universals and individuals are also formally different from each other, as they have distinct constitutive formal principles, and therefore different properties (*ibid*., pp. 91–92). The most important among universal signs are mental universals, which are both the acts of intellection through which our mind grasps the nature of universal forms and the concepts through which it connects general names with the things to which they refer (*ibid*., pp. 68–69).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于实在共相的存在与其相应个体的存在重合，实在共相可以说因其个体的连续更替而永存，并且与它们实在同一。但共相与个体也在形式上彼此不同，因为它们具有不同的构成性形式原则，因而具有不同的属性（*ibid*., pp. 91–92）。在普遍符号中最重要的，是心智共相：它们既是我们心智据以把握普遍形式之本性的理智活动，也是我们据以把普遍名称同其所指涉之物联系起来的概念（*ibid*., pp. 68–69）。
+    step2: |-
+      实在共相的存在与其相应个体的存在重合，故可说它们因个体的连续更替而永存，并与个体实在同一。但共相与个体又在形式上彼此不同：二者各有其构成性的形式原则，因而属性不同（*ibid*., pp. 91–92）。普遍符号中最重要的是心智共相——它既是我们心智借以把握普遍形式之本性的理智活动，也是我们借以把普遍名称与其所指之物联系起来的概念（*ibid*., pp. 68–69）。
   - id: 39
     kind: body
     source: |-
       The description of the relationship between universals and individuals in terms of real identity and formal distinction entails (i) that not all that is predicated of individuals can be *directly* (*formaliter*) attributed to their universals and *vice versa*, but (ii) that all that is predicated of individuals has to be in some way or another attributed to universals and *vice versa*. Therefore, a redefinition of the standard kinds of predication was required.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以实在同一与形式区分来刻画共相与个体的关系，蕴含：(i) 并非一切谓述个体的东西都能*直接*（*formaliter*）归于其共相，反之亦然；(ii) 但一切谓述个体的东西都必须以某种方式归于共相，反之亦然。因此，需要重新界定标准的谓述类型。
+    step2: |-
+      以实在同一与形式区分来刻画共相与个体的关系，蕴含两点：一、并非一切谓述个体者都能*直接*（*formaliter*）归给其共相，反之亦然；二、但一切谓述个体者总得以某种方式归给共相，反之亦然。因此，标准谓述类型须重新界定。
   - id: 40
     kind: body
     source: |-
       Like Alyngton, Penbygull, Tarteys, and Whelpdale, Sharpe modifies Wyclif’s theory. Agreeing with Alyngton, but against the others, he divides real predication into formal predication (*praedicatio formalis*) and predication by essence (*praedicatio essentialis vel secundum essentiam*), removing habitudinal predication, as it is not homogeneous with the first two. According to him, predication by essence (1) shows a partial identity between the subject-thing and the predicate-thing, which share some metaphysical component parts, and (2.1) does not require (or even (2.2) excludes) that the form connoted by the predicate-term is directly present in the essence signified by the subject-term. ‘(What is) singular is (what is) universal’ (‘*singulare est universale*’) is an instance of predication by essence. Formal predication, on the contrary, requires such a direct presence. ‘Man is an animal’ and ‘man is white’ are instances of formal predication (*ibid*., pp. 89–91).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与阿林顿、彭比格尔、塔泰斯和惠尔普代尔一样，夏普修改了威克里夫的理论。他与阿林顿一致而反对其余诸人，把实在谓述分为形式谓述（*praedicatio formalis*）与本质述谓（*praedicatio essentialis vel secundum essentiam*），并去掉了关系谓述，因为它与前两者不同质。按他之说，本质述谓 (1) 显示主词物与谓词物之间的部分同一，二者共享某些形而上学组成部分；(2.1) 不要求（甚至 (2.2) 排除）谓词项所内涵的形式直接存在于主词项所意谓的本质之中。“（凡）单一者（即）普遍者”（“*singulare est universale*”）是本质述谓的一例。相反，形式谓述要求这种直接存在。“人是动物”与“人是白的”是形式谓述之例（*ibid*., pp. 89–91）。
+    step2: |-
+      与阿林顿、彭比格尔、塔泰斯、惠尔普代尔一样，夏普修改威克里夫的理论。他与阿林顿一致，与其余诸人相反，把实在谓述分为形式谓述（*praedicatio formalis*）与本质述谓（*praedicatio essentialis vel secundum essentiam*），并删去关系谓述——它与前两者不同质。依他之说，本质述谓 (1) 显示主词物与谓词物之间的部分同一，二者共享若干形而上学组成部分；(2.1) 不要求（甚至 (2.2) 排除）谓词项所内涵的形式直接存在于主词项所意谓的本质中。“单一者即普遍者”（“*singulare est universale*”）即一例。形式谓述则反过来要求这种直接存在：“人是动物”“人是白的”都是形式谓述之例（*ibid*., pp. 89–91）。
   - id: 41
     kind: body
     source: |-
       As is evident from his formulations, Sharpe does not explicitly divide formal predication into formal essential and formal accidental predication, and offers two different readings of the distinction between formal predication and predication by essence. According to the common view, predication by essence is more general than formal predication. As a consequence, in the standard theory of the Oxford realists, formal predication is a sub-type of predication by essence. Sharpe introduces another interpretation, according to which the two kinds of predication at issue are complementary and mutually exclusive. This happens when predication by essence excludes the form connoted by the predicate-term being directly present in the essence signified by the subject-term (*ibid*., p. 91). Although, according to the latter reading, formal predication is not a kind of predication by essence, this reading nevertheless implies an interpretation of the ‘is’ of predication in terms of identity and, therefore, a new definition of the pair of antonymous notions of identity and difference (or distinction).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从他的表述可以看出，夏普并未明确把形式谓述分为形式本质谓述与形式偶性谓述，且对形式谓述与本质述谓之区分给出两种不同读法。按通常看法，本质述谓比形式谓述更普遍。因此，在牛津实在论者的标准理论中，形式谓述是本质述谓的一个子类型。夏普引入了另一种解释：所论的两种谓述是互补且互斥的。这种情况出现在本质述谓排除谓词项所内涵的形式直接存在于主词项所意谓的本质之中时（*ibid*., p. 91）。尽管按后一读法，形式谓述不是一种本质述谓，这一读法却蕴含以同一性来解释谓述之“是”，因而蕴含对同一与差异（或区分）这对反义概念的新定义。
+    step2: |-
+      由上可见，夏普并未明确把形式谓述分为形式本质谓述与形式偶性谓述；对形式谓述与本质述谓之别，他给出两种读法。通常的看法是：本质述谓比形式谓述更普遍，因此在牛津实在论者的标准理论中，形式谓述是本质述谓的子类型。夏普另立一解：两种谓述互补而互斥——只要本质述谓排除谓词项所内涵的形式直接存在于主词项所意谓的本质中，便是如此（*ibid*., p. 91）。按后一读法，形式谓述虽不是本质述谓之一种，该读法却蕴含以同一性解释谓述之“是”，从而蕴含对同一与差异（区分）这对反义概念的新定义。
   - id: 42
     kind: body
     source: |-
       ## 6. Identity, Distinction, and Individuation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 同一、区分与个体化
+    step2: |-
+      ## 6 同一、区分与个体化
   - id: 43
     kind: body
     source: |-
       Sharpe’s theory of identity and distinction combines in an original way those of Duns Scotus, Wyclif, and Penbygull.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      夏普的同一与区分理论，以原创方式结合了司各脱、威克里夫与彭比格尔的理论。
+    step2: |-
+      夏普的同一与区分理论，以别具一格的方式融合了司各脱、威克里夫与彭比格尔三家之说。
   - id: 44
     kind: body
     source: |-
       Penbygull (*De universalibus*, pp. 189–90) had (1) distinguished between the notion of non-identity and that of difference (or distinction); (2) denied that the notion of difference implies that of non-identity; (3) affirmed that the two notions of difference and real identity are logically compatible, thus admitting that (3.1) there are degrees in distinction, and (3.2) that the degrees of distinction between two things can be read as the inverse measure of their (partial) identity; and (4) suggested the following definitions for these three notions, that is non-identity, difference (or distinction), and (absolute) identity: (4.1) an entity *a* is non-identical with an entity *b* if and only if there is not any form *F* such that *F* is present in the same way in *a* and *b*; (4.2) an entity *a* differs from an entity *b* if and only if there is at least a form *F* such that *F* is directly present in *a* but not in *b*, or *vice versa*; (4.3) an entity *a* is absolutely identical with an entity *b* if and only if for any form *F*, it is the case that *F* is present in *a* if and only if it is present in the same way in *b* (see the entry on William Penbygull, §3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      彭比格尔（《共相论》，第 189–190 页）曾 (1) 区分非同一的概念与差异（或区分）的概念；(2) 否认差异的概念蕴含非同一的概念；(3) 断言差异与实在同一这两个概念在逻辑上相容，从而承认 (3.1) 区分有程度之分，(3.2) 两物之间区分的程度可读作它们（部分）同一的反向度量；并 (4) 为非同一、差异（或区分）与（绝对）同一这三个概念提出如下定义：(4.1) 实体 *a* 与实体 *b* 非同一，当且仅当不存在任何形式 *F*，使得 *F* 以同样方式存在于 *a* 与 *b* 之中；(4.2) 实体 *a* 与实体 *b* 相异，当且仅当至少有一个形式 *F*，使得 *F* 直接存在于 *a* 而不存在于 *b*，或反之；(4.3) 实体 *a* 与实体 *b* 绝对同一，当且仅当对任何形式 *F* 而言，*F* 存在于 *a* 之中当且仅当它以同样方式存在于 *b* 之中（见威廉·彭比格尔词条 §3）。
+    step2: |-
+      彭比格尔（《共相论》，第 189–190 页）做了四件事。一、区分非同一的概念与差异（区分）的概念；二、否认差异概念蕴含非同一概念；三、断言差异与实在同一这两个概念在逻辑上相容，从而承认区分有程度之分，且两物间区分的程度可读作其（部分）同一的反向度量；四、为三个概念立下定义：(4.1) 实体 *a* 与实体 *b* 非同一，当且仅当不存在任何形式 *F* 能以同样方式存在于 *a* 与 *b* 之中；(4.2) 实体 *a* 与实体 *b* 相异，当且仅当至少有一个形式 *F* 直接存在于 *a* 而不存在于 *b*，或反之；(4.3) 实体 *a* 与实体 *b* 绝对同一，当且仅当对任何形式 *F* 而言，*F* 存在于 *a* 当且仅当它以同样方式存在于 *b*（见威廉·彭比格尔词条 §3）。
   - id: 45
     kind: body
     source: |-
       Like Penbygull, Sharpe considers identity and distinction (or difference) as the two possible inverse measures of the coincidence of the metaphysical components of two given entities (*QsU*., p. 92). Moreover, he speaks of formal and real (or essential) identity, and formal and real (or essential) distinction (or difference), and states that formal identity is stronger than real (or essential) identity, since the former entails the latter, while, on the contrary, real difference is stronger than formal distinction, since the latter is entailed by the former (*ibid*., pp. 91–92).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与彭比格尔一样，夏普把同一与区分（或差异）看作两个既定实体的形而上学成分重合程度的两种可能反向度量（*QsU*., p. 92）。此外，他谈到形式的与实在的（或本质的）同一，以及形式的与实在的（或本质的）区分（或差异），并断言形式同一强于实在（或本质）同一，因为前者蕴含后者；相反，实在差异强于形式区分，因为后者被前者所蕴含（*ibid*., pp. 91–92）。
+    step2: |-
+      夏普沿彭比格尔，把同一与区分（差异）看作两个既定实体形而上学成分重合程度的两种可能的反向度量（*QsU*., p. 92）。他进而区分形式的与实在的（本质的）同一、形式的与实在的（本质的）区分（差异），并断言：形式同一强于实在（本质）同一，因前者蕴含后者；反过来，实在差异强于形式区分，因后者为前者所蕴含（*ibid*., pp. 91–92）。
   - id: 46
     kind: body
     source: |-
       Finally, he admits degrees in formal distinction, as he recognizes two different types, the first of which comes very close to that proposed by Scotus in his *Ordinatio*, while the second is drawn from Wyclif’s *Tractatus de universalibus* (ch. 4, pp. 90–92). The first type of formal distinction holds among things such as the intellective faculties of the soul, whereas the second holds between such things as the essence of the soul and its intellective faculties and a species and its individuals (*Quaestio super libros De anima*, q. 2, fol. 236r-v).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，他承认形式区分有程度之分，因为他识别出两种不同的类型：第一种与司各脱在其 *Ordinatio* 中提出的非常接近，第二种则取自威克里夫的《共相论》（第 4 章，第 90–92 页）。第一种形式区分成立于诸如灵魂的理智官能之类的事物之间，第二种则成立于诸如灵魂的本质与其理智官能之间，以及一个种与它的诸个体之间（《〈论灵魂〉诸卷问题集》[*Quaestio super libros De anima*]，问题 2，fol. 236r-v）。
+    step2: |-
+      最后，他承认形式区分有程度之别，并识别出两种类型：第一种与司各脱 *Ordinatio* 中的说法很接近，第二种取自威克里夫《共相论》（第 4 章，第 90–92 页）。第一种形式区分，见于灵魂的理智官能之类事物之间；第二种，则见于灵魂的本质与其理智官能之间，以及种与个体之间（《〈论灵魂〉诸卷问题集》[*Quaestio super libros De anima*]，问题 2，fol. 236r-v）。
   - id: 47
     kind: body
     source: |-
       The two different sets of conditions for the formal distinction can be formalized as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      形式区分的这两组不同条件可形式化如下：
+    step2: |-
+      形式区分这两组不同的条件可形式化如下：
   - id: 48
     kind: body
     source: |-
       1. two entities *x* and *y* are formally distinct if and only if (i) both of them are constitutive elements of the same reality, but (ii) neither of them can exist by itself, or (iii) is part of the definite description of the other.
       2. two entities *x* and *y* are formally distinct if and only if (i) there is at least one *z* such that *z* is predicated of *x* and not of *y*, or *vice versa*, but (ii) *x* and *y* are really identical, as one is directly predicated of the other *qua* its main intrinsic metaphysical component.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 两个实体 *x* 与 *y* 形式区分，当且仅当 (i) 二者都是同一实在的构成要素，但 (ii) 二者都不能独自存在，或 (iii) 二者之一是对另一方之确定描述的一部分。
+      2. 两个实体 *x* 与 *y* 形式区分，当且仅当 (i) 至少有一个 *z*，使得 *z* 可述谓 *x* 而不可述谓 *y*，或反之，但 (ii) *x* 与 *y* 实在同一，因为一方直接谓述另一方，*作为*其主要内在形而上学成分。
+    step2: |-
+      1. 两个实体 *x* 与 *y* 形式区分，当且仅当：(i) 二者同为同一实在的构成要素；(ii) 二者都不能独自存在，或其中之一是对另一方之确定描述的一部分。
+      2. 两个实体 *x* 与 *y* 形式区分，当且仅当：(i) 至少有一个 *z* 可述谓 *x* 而不可述谓 *y*，或反之；(ii) *x* 与 *y* 实在同一，因为一方直接谓述另一方，*作为*其主要内在形而上学成分。
   - id: 49
     kind: body
     source: |-
       Accordingly, real identity, which is presupposed by the formal distinction, has to be defined in these terms (*QsU*, p. 98):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，形式区分所预设的实在同一，须依如下表述来定义（*QsU*, p. 98）：
+    step2: |-
+      据此，形式区分所预设的实在同一，须这样定义（*QsU*, p. 98）：
   - id: 50
     kind: body
     source: |-
       > *a* is really identical with *b* if and only if both are constitutive elements, or material parts, of the same reality, or one of them is directly predicated of the other *qua* its superior in the categorial line (that is, *qua* its main intrinsic metaphysical component).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *a* 与 *b* 实在同一，当且仅当二者都是同一实在的构成要素或质料部分，或二者之一直接谓述另一方，*作为*其在范畴系列中的上位者（即*作为*其主要内在形而上学成分）。
+    step2: |-
+      > *a* 与 *b* 实在同一，当且仅当：二者同为同一实在的构成要素或质料部分；或其中之一直接谓述另一方，*作为*其在范畴系列中的上位者（即*作为*其主要内在形而上学成分）。
   - id: 51
     kind: body
     source: |-
       As a result, Sharpe’s world consists of finite beings (that is, “things” like men, horses, stones etc.), really existing outside the mind, made up of an individual substance and a host of formal entities (common substantial natures and accidental forms, both universal and singular) existing in it and through it, since none of these formal entities can exist by themselves. They are real only insofar as they constitute individual substances or are present in individual substances *qua* their properties. Specific substantial natures (or essences) can be conceived from two points of view: intensionally (*in abstracto*) and extensionally (*in concreto*). Viewed intensionally, specific substantial natures are nothing but the set of essential properties that individual substances are to instantiate, but considered without any reference to such instantiations. Viewed extensionally, specific substantial natures are those same forms conceived of as instantiated by at least one singular substance. For instance, human nature considered intensionally is humanity *(humanitas*), extensionally the universal-man (*homo in communi*). Humanity is properly a form, or more accurately, the essential principle of a substantial form, that is, something existentially incomplete and dependent; the universal-man is this same form considered according to its own mode of being, and therefore as a sort of existentially autonomous and independent entity (*ibid*., p 102). Consequently, like Wyclif, Sharpe holds that a formal universal actually exists outside the mind if at least one individual instantiates it, so that without individuals, common natures (or essences) are not really universals (*ibid*., pp. 105–06). This means that the relationship between common natures and singulars is ultimately based on individuation, since no actual universality and no instantiation is possible without individuation. On this subject Sharpe seems to accept the essentials of Aquinas’ doctrine, since he affirms that (i) the universal-man is compounded of both common matter and form and that (ii) matter as affected by dimensive quantity and other accidental properties (*materia quanta et accidentibus substrata*) is the very principle of individuation, since it causes the passage from the level of universals to that of singulars (*ibid*., pp. 137–39). Thus, according to Sharpe, explaining individuation means explaining how a multiplicity of individuals can be obtained from a single specific nature, the problem at issue being the dialectical development from one to many and not the passage from abstract to concrete.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      结果是，夏普的世界由有限存在者（即人、马、石头之类的“事物”）构成，它们实在存在于心智之外，由一个个别实体以及存在于其中、并通过它而存在的一大批形式实体（共同的实体本性与偶性形式，普遍的与单一的皆然）组成，因为这些形式实体没有一个能独自存在。它们只有在构成个别实体，或*作为*个别实体的属性存在于其中时，才是实在的。种的实体本性（或本质）可从两个观点来设想：内涵地（*in abstracto*）与外延地（*in concreto*）。从内涵看，种的实体本性不过是个别实体所要实例化的一组本质属性，但考虑时不涉及任何这类实例化。从外延看，种的实体本性就是这些同样的形式，被设想为已由至少一个单一实体所实例化。例如，人性从内涵看就是人性（*humanitas*），从外延看则是共相之人（*homo in communi*）。人性本来是一个形式，更确切地说，是一个实体形式的本质原则，即某种在存在上不完整且有所依赖的东西；共相之人则是这同一个形式按其自身存在方式来看，因而是一种在存在上自主而独立的东西（*ibid*., p 102）。因此，与威克里夫一样，夏普主张：只要至少有一个个体实例化某个形式共相，它就现实地存在于心智之外；所以没有个体，共同本性（或本质）就不是实在的共相（*ibid*., pp. 105–06）。这意味着共同本性与单一物之间的关系最终基于个体化，因为没有个体化，就不可能有现实的普遍性，也不可能有实例化。在此问题上，夏普似乎接受阿奎那学说的要点，因为他断言 (i) 共相之人由共同质料与形式复合而成，(ii) 受维度量与其他偶性影响的质料（*materia quanta et accidentibus substrata*）正是个体化的原则，因为它造成从共相层面到单一物层面的过渡（*ibid*., pp. 137–39）。因此，按夏普之说，解释个体化就意味着解释如何从单一一个种的本性得到多重个体；所论问题是从一到多的辩证展开，而不是从抽象到具体的过渡。
+    step2: |-
+      于是，夏普的世界由有限存在者（人、马、石头之类的“事物”）构成。它们实在存在于心智之外，由一个个别实体加上一大批形式实体组成——共同的实体本性与偶性形式，普遍的与单一的皆然；这些形式实体存在于个别实体之中，并通过它而存在，因为其中没有一个能独自存在。只有当它们构成个别实体，或*作为*个别实体的属性存在于其中时，才算实在。种的实体本性（本质）可从两个观点设想：内涵地（*in abstracto*）与外延地（*in concreto*）。从内涵看，它不过是个别实体所要实例化的一组本质属性，考虑时不涉及任何实例化；从外延看，它则是这些同样的形式，被设想为已由至少一个单一实体实例化。例如，人性从内涵看即人性（*humanitas*），从外延看即共相之人（*homo in communi*）。人性本来是一个形式，更确切说是一个实体形式的本质原则，即某种在存在上不完整、有所依赖的东西；共相之人则是同一形式按其自身存在方式来看，因而是一种在存在上自主而独立的东西（*ibid*., p 102）。所以，夏普与威克里夫一样主张：只要至少有一个个体实例化某个形式共相，它就现实地存在于心智之外；没有个体，共同本性（本质）便不是实在的共相（*ibid*., pp. 105–06）。这意味着共同本性与单一物的关系最终系于个体化——没有个体化，既无现实的普遍性，也无实例化。在此问题上，夏普似接受阿奎那学说的要点：他断言 (i) 共相之人由共同质料与形式复合而成；(ii) 受维度量与其他偶性影响的质料（*materia quanta et accidentibus substrata*）正是个体化原则，因为它造成从共相层面到单一物层面的过渡（*ibid*., pp. 137–39）。因此按夏普之说，解释个体化，就是解释如何从单一一个种的本性得出多重个体：所论问题是从一到多的辩证展开，而非从抽象到具体的过渡。
   - id: 52
     kind: body
     source: |-
       Sharpe’s world counts many types of entities: universal and individual substances and accidents (like *homo in communi* and Socrates, and like the general form of whiteness and this particular form of whiteness), universal abstract substantial essences (like humanity), universal and individual substantial forms (like the human soul in general and the soul of Socrates), general and individual differences (like the universal-rationality and the rationality proper to Socrates) – each one characterized by its own mode of being. This world is certainly very complex, but its complexity is exceeded by complexity in language. Sharpe denies that there is a close correspondence between language and the world, as he believes that our thought is caused by the world, and our language by our thought, and the relation between causes and effects is a relation of one to many.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      夏普的世界包含多种类型的实体：普遍的与个别的实体与偶性（如 *homo in communi* 与苏格拉底，又如白的普遍形式与这一特定的白的形式），普遍的抽象实体本质（如人性），普遍的与个别的实体形式（如一般的人类灵魂与苏格拉底的灵魂），普遍的与个别的差异（如普遍的理性与苏格拉底所特有的理性）——每一类都有其自身的存在方式。这个世界无疑非常复杂，但其复杂性仍不及语言的复杂性。夏普否认语言与世界之间存在紧密对应，因为他相信我们的思想由世界造成，我们的语言由思想造成，而原因与结果之间的关系是一对多的关系。
+    step2: |-
+      夏普的世界包含多种类型的实体：普遍的与个别的实体和偶性（如 *homo in communi* 与苏格拉底，又如白的普遍形式与这一特定的白的形式），普遍的抽象实体本质（如人性），普遍的与个别的实体形式（如一般的人类灵魂与苏格拉底的灵魂），普遍的与个别的差异（如普遍的理性与苏格拉底所特有的理性）——每一类都有其自身的存在方式。这个世界固然复杂，却复杂不过语言。夏普否认语言与世界紧密对应：他相信思想由世界造成，语言由思想造成，而因果之间是一对多的关系。
   - id: 53
     kind: body
     source: |-

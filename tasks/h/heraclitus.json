@@ -2,7 +2,7 @@
   "slug": "heraclitus",
   "kind": "retranslate",
   "zh_doc": "h/heraclitus.md",
-  "state": "cleared",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,41 @@
       "actor": "EH-main-20261106",
       "at": "2026-11-06T11:20:00Z",
       "evidence": "旧文未清纠正：state=cleared 而正文有 1190 字符旧存量，按零信任复位为 H1（旧文可由 git 回溯），不重复计数 clear 步骤"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-09T07:52:39Z",
+      "evidence": "初译（ADR-0021 段落账本，主会话直译，temperature 0.2，batch=all 无限流）：92 段双版落盘（body 89 = 导语+8 节+3 小节标题+27 处引块段落；oir 1；note 2），分九批 p1–p9；lq check 92/92 守恒 HARD=0（SOFT：8 个标题机械段 step1==step2、斜体→书名号计数差）；compose 写回 20212 字符；49 条文献 defs 照录、引块 27 处、OIR 5 条、相关词条映射齐"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-09T07:52:39Z",
+      "evidence": "一校（准确性）逐节对照 yuanwen/h/heraclitus.md：H3 3:3、defs 49:49、正文脚注键 25:25、引块 27:27；H2 zh 9 vs en 8，差一为模板合成「## 脚注」节（源文 Notes 节置于文末）；年数全等（唯一 1951 属 note-1，源文同）；外文残留仅现代学者名（Barnes/Kahn/Kirk/Marcovich/Reinhardt/Mansfeld/Tarán/Polito/Patin/Nehamas/Betegh/Laks/Most/Finkelberg/Burkert/Hladký/Fattal/Sider/Robitzsch/Hülsz/Long/Neels/van Geert/de Ruiter）与脚注键，无未译散文碎片；实修 5 处：①阿里乌斯·狄迪穆斯→登记形「迪迪穆斯」；②③④⑤中文书名 *修辞学*/*形而上学*/*论天*/*蒂迈欧* 改书名号《》（自动斜体转换误成粗体，一并纠正）；B12/B49a/B91[a] 三则河流残篇的 DK 编号、出处归属（克勒安忒斯/荷马注释者赫拉克利特/普鲁塔克）逐条对源"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-09T07:52:39Z",
+      "evidence": "二校（语言）：check_prose 44→0，全部实修、零豁免——长句拆分 3（段 19 前人影响句 107 字、段 81 克拉底鲁句 73 字、段 19 名录句）、de-chain 38（「的」三连/密度，逐句重排，如「流传下来的…编造的故事…显出的性格」改「今人所得…编造的故事…显出的性格」、「对立面是实在的…关联也是实在的」改「对立面是真实的，其间关联同样真实」）、weak-verb 2（加以锐化→锐化并；加以批评→提出批评）、passive-bei 1（都被归入→后世把…归入）、plural-men 1（米利都的哲学家们→米利都诸哲）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-09T07:52:44Z",
+      "evidence": "三校（体例）：check_style --docs --strict 0 issue；check_math 0 缺式 0 失衡；check_summary H1 mismatch 0；check_academic --strict 0 硬错误；check_terms 硬错误 0（本词条登记术语 14 行：逻各斯/流变/普遍流变/对立统一/对立面的相合/物质一元论/多元论者/过程哲学/kosmos/polumathiê/prêstêr/河流残篇/sub specie aeternitatis；人名 8 行：赫卡泰奥斯/阿尔基洛科斯/比阿斯/宙斯/埃奈西德穆/赫尔莫多鲁斯/迪迪穆斯（既有行）/休谟（既有行））；同时清掉两处他线遗留硬错误（词汇表 Samuel Ibn Tibbon 撒母耳→塞缪尔 对齐人名表；登记册 law of nations 大小写两行合并）；defs 49:49、引块 27:27、OIR URL 原样"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "H-main-20261109",
+      "at": "2026-11-09T07:52:45Z",
+      "evidence": "初审（冷置回读，段落初译至三校历时逾十小时、其间数次中断）：全文 293 行分四段回读，八节结构（生平与著作→方法→哲学原理（流变/对立统一/本体论）→宇宙论→知识→价值→影响→补记）与源文一致；逐条复核 27 处引块的归属人名与编号；回读未发现新增 Critical/Major"
     }
   ],
   "blockers": [],

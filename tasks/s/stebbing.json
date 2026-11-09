@@ -1,0 +1,22 @@
+{
+  "slug": "stebbing",
+  "kind": "retranslate",
+  "zh_doc": "s/stebbing.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T01:35:55Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T01:35:55Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 24, 2026",
+    "archive_edition": "Fall 2026",
+    "sha256": "58444d241a6fffe9b1ed584261793600677fe60e419b383474da236c4c4f8acd"
+  }
+}

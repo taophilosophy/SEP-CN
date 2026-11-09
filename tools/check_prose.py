@@ -77,7 +77,8 @@ def check_line(path, lineno, line, issues):
                            "detail": "单句 %d 汉字（阈值 70）：%s" % (len(s_han), excerpt)})
         if sent.count("被") >= 2:
             # "被动"为术语（主动/被动），不是被字句标记（S5 白名单 2026-11-08）
-            if sent.replace("被动", "\x00\x00").count("被") >= 2:
+            # "被试"为名词（实验被试），不是被动标记（S5 白名单 2026-11-09）
+            if sent.replace("被动", "\x00\x00").replace("被试", "\x00\x00").count("被") >= 2:
                 issues.append({"path": path, "line": lineno,
                                "rule": "passive-bei",
                                "detail": "单句 %d 个“被”：%s" % (sent.count("被"), excerpt)})
@@ -86,7 +87,8 @@ def check_line(path, lineno, line, issues):
             issues.append({"path": path, "line": lineno,
                            "rule": "de-chain",
                            "detail": "“的”连用或密度过高：%s" % excerpt})
-        if WEAK_RE.search(sent.replace("进行得", "\x00\x00\x00")):
+        # "创作出"为"创作+出"，非弱动词"作出"（S5 白名单 2026-11-09）
+        if WEAK_RE.search(sent.replace("进行得", "\x00\x00\x00").replace("创作出", "\x00\x00\x00")):
             issues.append({"path": path, "line": lineno,
                            "rule": "weak-verb",
                            "detail": "弱动词（进行/作出/加以/予以+名词）：%s" % excerpt})
