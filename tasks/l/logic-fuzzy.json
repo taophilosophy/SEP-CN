@@ -1,0 +1,50 @@
+{
+  "slug": "logic-fuzzy",
+  "kind": "retranslate",
+  "zh_doc": "l/logic-fuzzy.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T09:55:43Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T10:42:43Z",
+      "evidence": "账本 75 段（body 68/oir 1/note 6）双版全填；lq.py check HARD=0（2 处 SOFT：公理列表机械段、oir 书名号化）；compose 42280 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T10:42:43Z",
+      "evidence": "结构对账：编号节 10=10、脚注定义 130=130 逐键全等、文内引用 22=22、$ 计数 559=559、相关词条全映射、H1 与 SUMMARY 一致；年份与文献逐处核对（1965/1975/1930/1951/1962/1981 等）；纠 draft 术语主形：连锁悖论→堆垛悖论（对齐登记册 sorites 行与词汇表）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T10:42:44Z",
+      "evidence": "反欧化 prose 7→0（de-chain 5、long-sentence 1、weak-verb 1）；style italic-cjk 2 处改加粗；复查 $ 559 不变"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T10:42:45Z",
+      "evidence": "术语 44 行、人名 46 行经 reg_tool 入库；check_terms 硬错误 0（修复 sorites 冲突：主形堆垛悖论）、0 告警；style 0；check_math missing 0（unbalanced 12 为数字开头公式触发货币启发式误报）；academic --strict 0；check_summary H1 0；矢列/超矢列/剩余照登记册主形"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T09:55:43Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 11, 2021",
+    "archive_edition": "Summer 2023",
+    "sha256": "dda00ba425fc31648f9553e88d53845383c496edd740d9e38f39952213c041c7"
+  }
+}

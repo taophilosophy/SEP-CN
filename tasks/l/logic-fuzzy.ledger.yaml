@@ -1,0 +1,657 @@
+version: 1
+slug: logic-fuzzy
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Fuzzy logic is intended to model logical reasoning with vague or imprecise statements like “Petr is young (rich, tall, hungry, etc.)”. It refers to a family of many-valued logics, where the truth-values are interpreted as degrees of truth. The truth-value of a logically compound proposition, like “Carles is tall and Chris is rich”, is determined by the truth-value of its components. In other words, like in classical logic, one imposes truth-functionality.
+    step1: |-
+      模糊逻辑旨在为含有“Petr 年轻（富有、高、饿等等）”这类模糊或不精确陈述的逻辑推理建模。它指一族多值逻辑，其中真值被解释为真值度。一个逻辑复合命题（如“Carles 高且 Chris 富有”）的真值，由其组成部分的真值决定。换句话说，和经典逻辑一样，人们要求真值函项性。
+    step2: |-
+      模糊逻辑想刻画的是含“Petr 年轻（有钱、个子高、肚子饿等）”这类模糊、不精确语句的逻辑推理。它指一族多值逻辑，真值被解释为真值度。复合命题（如“Carles 个子高，Chris 有钱”）的真值由各组成部分的真值决定。也就是说，和经典逻辑一样，这里也要求真值函项性。
+  - id: 2
+    kind: body
+    source: |-
+      Fuzzy logic emerged in the context of the theory of fuzzy sets, introduced by Lotfi Zadeh (1965). A fuzzy set assigns a degree of membership, typically a real number from the interval $[0,1]$, to elements of a universe. Fuzzy logic arises by assigning degrees of truth to propositions. The standard set of truth-values (degrees) is the real unit interval $[0,1]$, where $0$ represents “totally false”, $1$ represents “totally true”, and the other values refer to partial truth, i.e., intermediate degrees of truth.[^note-1]
+    step1: |-
+      模糊逻辑是在模糊集合论的背景下出现的，该理论由 Lotfi Zadeh（1965）提出。模糊集合给论域的每个元素指定一个隶属度，通常是区间 $[0,1]$ 中的实数。模糊逻辑则通过给命题指定真值度而产生。标准真值（度）集合是实数单位区间 $[0,1]$，其中 $0$ 表示“完全不真”，$1$ 表示“完全真”，其他值指部分真，即中间的真值度。[^note-1]
+    step2: |-
+      模糊逻辑诞生于 Lotfi Zadeh（1965）提出的模糊集合论。模糊集合给论域中每个元素指定一个隶属度，通常是区间 $[0,1]$ 里的实数；模糊逻辑则给命题指定真值度。标准的真值（度）集合就是实数单位区间 $[0,1]$：$0$ 表示“完全不真”，$1$ 表示“完全真”，其余值表示部分真，也就是介于两者之间的真值度。[^note-1]
+  - id: 3
+    kind: body
+    source: |-
+      “Fuzzy logic” is often understood in a very wide sense which includes all kinds of formalisms and techniques referring to the systematic handling of *degrees* of some kind (see, e.g., Nguyen & Walker 2000). In particular in engineering contexts (fuzzy control, fuzzy classification, soft computing) it is aimed at efficient computational methods tolerant to suboptimality and imprecision (see, e.g., Ross 2010). This entry focuses on fuzzy logic in a restricted sense, established as a discipline of mathematical logic following the seminal monograph by Petr Hájek (1998) and nowadays usually referred to as “mathematical fuzzy logic”. For details about the history of different variants of fuzzy logic we refer to Bělohlávek, Dauben, & Klir 2017.
+    step1: |-
+      “模糊逻辑”常在很宽泛的意义上使用，包括各种处理某类 *度* 的系统化形式化方法与技术（例如见 Nguyen & Walker 2000）。尤其在工程语境中（模糊控制、模糊分类、软计算），它追求的是能容忍次优与不精确的高效计算方法（例如见 Ross 2010）。本词条聚焦于狭义模糊逻辑，即继 Petr Hájek（1998）的开创性专著之后确立为数学逻辑一个学科、如今通常称为“数学模糊逻辑”的那部分。关于模糊逻辑各种变体历史的细节，参见 Bělohlávek, Dauben, & Klir 2017。
+    step2: |-
+      “模糊逻辑”常被用在很宽的意义上，泛指各种系统处理某类 *度* 的形式化方法与技术（例如 Nguyen & Walker 2000）。在工程语境中（模糊控制、模糊分类、软计算），它追求的是能容忍次优和不精确的高效计算方法（例如 Ross 2010）。本词条讲的模糊逻辑取狭义，即自 Petr Hájek（1998）那部开创性专著之后确立为数学逻辑分支、如今通称“数学模糊逻辑”的部分。各变体的历史细节，见 Bělohlávek, Dauben, & Klir 2017。
+  - id: 4
+    kind: body
+    source: |-
+      Mathematical fuzzy logic focuses on logics based on a truth-functional account of partial truth and studies them in the spirit of classical mathematical logic, investigating syntax, model-theoretic semantics, proof systems, completeness, etc., both, at the propositional and the predicate level (see Cintula, Fermüller, Hájek, & Noguera 2011 and 2015).
+    step1: |-
+      数学模糊逻辑聚焦于以部分真的真值函项说明为基础的逻辑，并按经典数学逻辑的精神研究它们，考察句法与谓词两个层面的语法、模型论语义、证明系统、完全性等（见 Cintula, Fermüller, Hájek, & Noguera 2011 与 2015）。
+    step2: |-
+      数学模糊逻辑关注以“部分真”的真值函项说明为基础的逻辑，并按经典数学逻辑的路子来研究：句法、模型论语义、证明系统、完全性等，命题层面和谓词层面都要管（见 Cintula, Fermüller, Hájek, & Noguera 2011、2015）。
+  - id: 5
+    kind: body
+    source: |-
+      ## 1. Fuzzy connectives based on t-norms
+    step1: |-
+      ## 1. 基于 t-范数的模糊联结词
+    step2: |-
+      ## 1 基于 t-范数的模糊联结词
+  - id: 6
+    kind: body
+    source: |-
+      The standard set of truth-values for fuzzy logics is the real unit interval $[0,1]$ with its natural ordering $\leq$, ranging from total falsity (represented by $0$) to total truth (represented by $1$) through a continuum of intermediate degrees of truth (see Sections 5 and 7 for alternative interpretations of truth constants and alternative sets of truth-values). A fundamental assumption of (mainstream) mathematical fuzzy logic is that connectives are to be interpreted truth-functionally over the set of degrees of truth. Such truth functions are assumed, in the standard setting, to behave classically on the extremal values $0$ and $1$. A very natural behavior of conjunction, disjunction, and negation is achieved by imposing $x \land y = \min\{x,y\}$, $x \lor y = \max\{x,y\}$, and $\neg x = 1 - x$ for each $x,y \in [0,1]$.
+    step1: |-
+      模糊逻辑的标准真值集合是实数单位区间 $[0,1]$，配以其自然序 $\leq$，从完全假（由 $0$ 表示）经过中间真值度的连续统到完全真（由 $1$ 表示）（关于真常项的其他解释与真值的其他集合，见第 5、7 节）。主流数学模糊逻辑的一个基本假设是：联结词要在真值度集合上按真值函项方式解释。在标准设定中，这种真值函项被假定在极端值 $0$ 与 $1$ 上表现得像经典逻辑。对每个 $x,y \in [0,1]$，令 $x \land y = \min\{x,y\}$、$x \lor y = \max\{x,y\}$、$\neg x = 1 - x$，就得到合取、析取与否定的一种非常自然的行为。
+    step2: |-
+      模糊逻辑的标准真值集合是实数单位区间 $[0,1]$，按自然序 $\leq$ 排列：从完全假（$0$）经过连续不断的中间真值度，到完全真（$1$）（真常项的其他解释与真值的其他集合，见第 5、7 节）。主流数学模糊逻辑有个基本假设：联结词要在真值度集合上按真值函项方式解释，而且在标准设定下，这种真值函项在端点 $0$、$1$ 上要表现得像经典逻辑。若对每个 $x,y \in [0,1]$ 规定 $x \land y = \min\{x,y\}$、$x \lor y = \max\{x,y\}$、$\neg x = 1 - x$，合取、析取与否定的行为就非常自然。
+  - id: 7
+    kind: body
+    source: |-
+      These three truth functions yield the original semantics of fuzzy logic proposed by Joseph Goguen (1975), later studied formally by, e.g., Gehrke, Walker, & Walker (1997). Many researchers still refer to it as “the fuzzy logic”. However, it has soon become apparent that this semantic framework is too poor to (1) encode/model numerous interesting aspects of reasoning and (2) to support a fully fledged theory of mathematical logic.
+    step1: |-
+      这三个真值函项给出了 Joseph Goguen（1975）提出的模糊逻辑原初语义，后来由 Gehrke, Walker, & Walker（1997）等人作了形式研究。许多研究者仍称它为“那个模糊逻辑”。然而，人们很快发现，这个语义框架太贫乏：(1) 无法编码/建模推理的许多有趣方面；(2) 无法支撑一套完整的数学逻辑理论。
+    step2: |-
+      这三个真值函项就是 Joseph Goguen（1975）最初提出的模糊逻辑语义，后来 Gehrke, Walker, & Walker（1997）等人对之作了形式研究。不少人仍把它称作“模糊逻辑”。但人们很快看出，这个语义框架太单薄：既编码不了推理的许多有趣方面，也撑不起一套完整的数学逻辑理论。
+  - id: 8
+    kind: body
+    source: |-
+      Another, non-idempotent, conjunction $\&$ is typically added to account for the intuition that applying a partially true hypothesis twice might lead to a different degree of truth than using it only once. Such a conjunction is usually interpreted by a binary operation on $[0,1]$, which is not necessarily idempotent, but still associative, commutative, non-decreasing in both arguments and has $1$ as neutral element. These operations are called *t-norms* (*triangular norms*) and their mathematical properties have been thoroughly studied (see Klement, Mesiar, & Pap 2000). Prominent examples of t-norms are the already mentioned function $\min$, the standard product $\cdot$ of real numbers, and the Łukasiewicz t-norm: $x *_{Ł} y=\max\{x+y-1,0\}$. These three t-norms are actually continuous functions and any other continuous t-norm can be described as an *ordinal sum* of these three basic ones (Ling 1965; Mostert & Shields 1957)[^ling-1965][^mostert-1957].
+    step1: |-
+      通常还会加入另一个非幂等的合取 $\&$，以说明这样一种直觉：把一个部分真的假设应用两次，可能得到与只应用一次不同的真值度。这种合取通常由 $[0,1]$ 上的一个二元运算解释，它不一定幂等，但仍可结合、可交换、在两个变元上都非递减，并以 $1$ 为单位元。这类运算称为 *t-范数*（*三角范数*），其数学性质已得到充分研究（见 Klement, Mesiar, & Pap 2000）。t-范数的著名例子有已提到的函数 $\min$、实数的标准乘积 $\cdot$，以及 Łukasiewicz t-范数：$x *_{Ł} y=\max\{x+y-1,0\}$。这三个 t-范数其实都是连续函数，而任何其他连续 t-范数都可描述为这三个基本 t-范数的 *序和*（Ling 1965; Mostert & Shields 1957）[^ling-1965][^mostert-1957]。
+    step2: |-
+      通常还会添一个非幂等合取 $\&$，因为把一个部分真的假设用两次，真值度可能和只用一次不同。这种合取通常用 $[0,1]$ 上的一个二元运算解释：它未必幂等，但可结合、可交换、对两个变元都单调不减，并以 $1$ 为单位元。这类运算叫 *t-范数*（*三角范数*），其数学性质研究得很透（见 Klement, Mesiar, & Pap 2000）。著名的 t-范数有前面提过的 $\min$、实数的标准乘法 $\cdot$，以及 Łukasiewicz t-范数 $x *_{Ł} y=\max\{x+y-1,0\}$。这三个都是连续函数；任何别的连续 t-范数，都可写成这三个基本 t-范数的 *序和*（Ling 1965; Mostert & Shields 1957）[^ling-1965][^mostert-1957]。
+  - id: 9
+    kind: body
+    source: |-
+      Interestingly, each left-continuous t-norm determines a suitable choice for implication. Indeed, it is known that a t-norm $\ast$ is left-continuous if, and only if, there is a unique binary operation $\Rightarrow_\ast$ on $[0,1]$ satisfying the so-called *residuation condition:* $$ x \ast y \leq z\ \text{ if and only if }\ x \leq y \Rightarrow_\ast z. $$ The function $\Rightarrow_\ast$ is known as *residuum of $\ast$*, and it can be shown that $x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq y\}$. The residua of the three mentioned prominent t-norms are: $x \Rightarrow_\min y = 1$ if $x\leq y$ and $y$ otherwise; $x \Rightarrow_\cdot y = 1$ if $x\leq y$ and $\frac{y}{x}$ otherwise; and $x \Rightarrow_{Ł} y = \min\{1, 1 - x+y\}$.
+    step1: |-
+      有趣的是，每个左连续 t-范数都决定一个合适的蕴涵选择。事实上，已知 t-范数 $\ast$ 左连续，当且仅当存在唯一的 $[0,1]$ 上二元运算 $\Rightarrow_\ast$，满足所谓的 *剩余条件*：$$ x \ast y \leq z\ \text{ if and only if }\ x \leq y \Rightarrow_\ast z. $$ 函数 $\Rightarrow_\ast$ 称为 *$\ast$ 的剩余*，可以证明 $x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq y\}$。上述三个著名 t-范数的剩余分别是：$x \Rightarrow_\min y = 1$（当 $x\leq y$），否则为 $y$；$x \Rightarrow_\cdot y = 1$（当 $x\leq y$），否则为 $\frac{y}{x}$；以及 $x \Rightarrow_{Ł} y = \min\{1, 1 - x+y\}$。
+    step2: |-
+      有意思的是，每个左连续 t-范数都对应一个合适的蕴涵。事实上，t-范数 $\ast$ 左连续，当且仅当 $[0,1]$ 上恰有一个二元运算 $\Rightarrow_\ast$ 满足所谓 *剩余条件*：$$ x \ast y \leq z\ \text{ if and only if }\ x \leq y \Rightarrow_\ast z. $$ 这个 $\Rightarrow_\ast$ 叫 *$\ast$ 的剩余*，并且可以证明 $x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq y\}$。三个著名 t-范数的剩余分别是：$x \Rightarrow_\min y = 1$（当 $x\leq y$），否则为 $y$；$x \Rightarrow_\cdot y = 1$（当 $x\leq y$），否则为 $\frac{y}{x}$；以及 $x \Rightarrow_{Ł} y = \min\{1, 1 - x+y\}$。
+  - id: 10
+    kind: body
+    source: |-
+      In the general t-norm setting, the negation is interpreted using the residuum. Namely, for a given left-continuous t-norm $\ast$ we set $\neg_\ast x = x\Rightarrow_\ast 0$. For the Łukasiewicz t-norm we obtain the negation $\neg_{Ł} x = 1 - x$ (known as Łukasiewicz negation or the standard involutive negation) whereas for the minimum and the product t-norms we obtain the same negation (known as Gödel negation): $\neg_\mathrm{G} 0 = 1$ and $0$ otherwise.
+    step1: |-
+      在一般 t-范数设定中，否定用剩余来解释。即，对给定的左连续 t-范数 $\ast$，令 $\neg_\ast x = x\Rightarrow_\ast 0$。对 Łukasiewicz t-范数，得到否定 $\neg_{Ł} x = 1 - x$（称为 Łukasiewicz 否定或标准对合否定）；而对最小与乘积 t-范数，得到同一个否定（称为 Gödel 否定）：$\neg_\mathrm{G} 0 = 1$，否则为 $0$。
+    step2: |-
+      在一般的 t-范数设定里，否定靠剩余来解释：给定左连续 t-范数 $\ast$，令 $\neg_\ast x = x\Rightarrow_\ast 0$。Łukasiewicz t-范数给出否定 $\neg_{Ł} x = 1 - x$（即 Łukasiewicz 否定，或称标准对合否定）；最小与乘积 t-范数给出的否定相同，称为 Gödel 否定：$\neg_\mathrm{G} 0 = 1$，否则为 $0$。
+  - id: 11
+    kind: body
+    source: |-
+      ## 2. MTL: A fundamental fuzzy logic
+    step1: |-
+      ## 2. MTL：一种基础模糊逻辑
+    step2: |-
+      ## 2 MTL：一种基础模糊逻辑
+  - id: 12
+    kind: body
+    source: |-
+      The weakest logic with connectives interpreted by truth functions of the type described above is MTL (*Monoidal T-norm based Logic*, Esteva & Godo 2001)[^esteva-2001][^esteva-2001-2]. It is a logic with the primitive binary connectives $\mathbin{\&}, \to, \wedge$ and a truth-constant $\overline{0}$, and derivable connectives defined as: $$ \begin{align} \varphi \lor \psi &= ((\varphi \to \psi) \to \psi) \land ((\psi \to \varphi) \to \varphi),\\ \neg \varphi &= \varphi \to \overline{0}, \\ \varphi \leftrightarrow \psi &= (\varphi \to \psi) \land (\psi \to \varphi),\\ \overline{1} &= \neg \overline{0}. \end{align} $$ MTL is defined as a consequence relation by means of the semantics given by all left-continuous t-norms. Namely, given a particular left-continuous t-norm $\ast$ and a mapping from propositional variables to $[0,1]$, we define the $\ast$-evaluation of all formulas by interpreting $\&$ as $\ast$, the implication $\to$ as its residuum $\Rightarrow$, and $\land$ and $\overline{0}$ as $\min$ and $0$, respectively.
+    step1: |-
+      用上述类型真值函项解释联结词的最弱逻辑是 MTL（*幺半群 t-范数逻辑*，Esteva & Godo 2001）[^esteva-2001][^esteva-2001-2]。它是一个带有原始二元联结词 $\mathbin{\&}, \to, \wedge$ 与真常项 $\overline{0}$ 的逻辑，可导出联结词定义为：$$ \begin{align} \varphi \lor \psi &= ((\varphi \to \psi) \to \psi) \land ((\psi \to \varphi) \to \varphi),\\ \neg \varphi &= \varphi \to \overline{0}, \\ \varphi \leftrightarrow \psi &= (\varphi \to \psi) \land (\psi \to \varphi),\\ \overline{1} &= \neg \overline{0}. \end{align} $$ MTL 通过所有左连续 t-范数给出的语义定义为后承关系。即，给定特定的左连续 t-范数 $\ast$ 与从命题变元到 $[0,1]$ 的映射，我们把 $\&$ 解释为 $\ast$、蕴涵 $\to$ 解释为其剩余 $\Rightarrow$、$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$，从而定义所有公式的 $\ast$-赋值。
+    step2: |-
+      用上述类型真值函项解释联结词的最弱逻辑是 MTL（*幺半群 t-范数逻辑*，Esteva & Godo 2001）[^esteva-2001][^esteva-2001-2]。它的原始二元联结词是 $\mathbin{\&}, \to, \wedge$，另有真常项 $\overline{0}$；可导出联结词定义为：$$ \begin{align} \varphi \lor \psi &= ((\varphi \to \psi) \to \psi) \land ((\psi \to \varphi) \to \varphi),\\ \neg \varphi &= \varphi \to \overline{0}, \\ \varphi \leftrightarrow \psi &= (\varphi \to \psi) \land (\psi \to \varphi),\\ \overline{1} &= \neg \overline{0}. \end{align} $$ MTL 的后承关系由所有左连续 t-范数给出的语义定义：给定左连续 t-范数 $\ast$ 以及从命题变元到 $[0,1]$ 的映射，把 $\&$ 解释为 $\ast$、蕴涵 $\to$ 解释为其剩余 $\Rightarrow$、$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$，就得到所有公式的 $\ast$-赋值。
+  - id: 13
+    kind: body
+    source: |-
+      A formula $\varphi$ is a consequence of a set of formulas $\Gamma$ in MTL, denoted $\Gamma \models_\mathrm{MTL} \varphi$, if for each left-continuous t-norm $\ast$ and each $\ast$-evaluation $e$ such that $e(\psi) = 1$ for each $\psi \in \Gamma$ we have $e(\varphi) = 1$; in words, if the premises are totally true, so is the conclusion. A formula $\varphi$ that always evaluates to $1$ (i.e. $\emptyset\models_\mathrm{MTL}\varphi$) is called valid or a tautology of MTL. Note that the formula $\varphi \mathbin{\&} \psi \to \varphi \land \psi$ is a tautology in MTL but the converse implication $\varphi \land \psi \to \varphi \mathbin{\&} \psi$ is not, i.e., the conjunction $\&$ is stronger than $\land$.
+    step1: |-
+      公式 $\varphi$ 是公式集 $\Gamma$ 在 MTL 中的后承，记作 $\Gamma \models_\mathrm{MTL} \varphi$，如果对每个左连续 t-范数 $\ast$ 与每个 $\ast$-赋值 $e$，只要对每个 $\psi \in \Gamma$ 都有 $e(\psi) = 1$，就有 $e(\varphi) = 1$；用话说，如果前提完全真，结论也完全真。一个始终取值 $1$ 的公式 $\varphi$（即 $\emptyset\models_\mathrm{MTL}\varphi$）称为 MTL 的有效式或重言式。注意公式 $\varphi \mathbin{\&} \psi \to \varphi \land \psi$ 在 MTL 中是重言式，但反方向的蕴涵 $\varphi \land \psi \to \varphi \mathbin{\&} \psi$ 不是，也就是说，合取 $\&$ 比 $\land$ 更强。
+    step2: |-
+      若对每个左连续 t-范数 $\ast$ 和每个 $\ast$-赋值 $e$，只要 $e(\psi) = 1$ 对所有 $\psi \in \Gamma$ 成立，就有 $e(\varphi) = 1$，则称公式 $\varphi$ 是公式集 $\Gamma$ 在 MTL 中的后承，记作 $\Gamma \models_\mathrm{MTL} \varphi$；说白了，前提完全真，结论也完全真。始终取值 $1$ 的公式 $\varphi$（即 $\emptyset\models_\mathrm{MTL}\varphi$）叫 MTL 的有效式或重言式。要注意，$\varphi \mathbin{\&} \psi \to \varphi \land \psi$ 在 MTL 中是重言式，反方向的 $\varphi \land \psi \to \varphi \mathbin{\&} \psi$ 却不是——合取 $\&$ 比 $\land$ 强。
+  - id: 14
+    kind: body
+    source: |-
+      MTL can also be presented by a Hilbert-style proof system with the following axioms:
+
+      $$ \begin{align} (\varphi \to \psi) & \to ((\psi \to \chi) \to (\varphi \to \chi)) \\ \varphi \mathbin{\&} \psi & \to \varphi \\ \varphi\mathbin{\&}\psi & \to\psi\mathbin{\&}\varphi \\ \varphi \land \psi & \to \varphi \\ \varphi \land \psi & \to \psi \land \varphi \\ (\chi \to \varphi) & \to ((\chi\to \psi) \to (\chi \to \varphi\wedge \psi)) \\ (\varphi\mathbin{\&}\psi \to \chi) & \to (\varphi\to(\psi \to \chi)) \\ (\varphi\to(\psi \to \chi)) & \to (\varphi\mathbin{\&}\psi \to \chi) \\ ((\varphi \to \psi) \to \chi) & \to (((\psi \to \varphi)\to \chi)\to \chi) \\ \overline{0}& \to\varphi \\ \end{align} $$
+    step1: |-
+      MTL 也可以用如下公理的希尔伯特式证明系统呈现：
+
+      $$ \begin{align} (\varphi \to \psi) & \to ((\psi \to \chi) \to (\varphi \to \chi)) \\ \varphi \mathbin{\&} \psi & \to \varphi \\ \varphi\mathbin{\&}\psi & \to\psi\mathbin{\&}\varphi \\ \varphi \land \psi & \to \varphi \\ \varphi \land \psi & \to \psi \land \varphi \\ (\chi \to \varphi) & \to ((\chi\to \psi) \to (\chi \to \varphi\wedge \psi)) \\ (\varphi\mathbin{\&}\psi \to \chi) & \to (\varphi\to(\psi \to \chi)) \\ (\varphi\to(\psi \to \chi)) & \to (\varphi\mathbin{\&}\psi \to \chi) \\ ((\varphi \to \psi) \to \chi) & \to (((\psi \to \varphi)\to \chi)\to \chi) \\ \overline{0}& \to\varphi \\ \end{align} $$
+    step2: |-
+      MTL 也可以写成希尔伯特式证明系统，公理如下：
+
+      $$ \begin{align} (\varphi \to \psi) & \to ((\psi \to \chi) \to (\varphi \to \chi)) \\ \varphi \mathbin{\&} \psi & \to \varphi \\ \varphi\mathbin{\&}\psi & \to\psi\mathbin{\&}\varphi \\ \varphi \land \psi & \to \varphi \\ \varphi \land \psi & \to \psi \land \varphi \\ (\chi \to \varphi) & \to ((\chi\to \psi) \to (\chi \to \varphi\wedge \psi)) \\ (\varphi\mathbin{\&}\psi \to \chi) & \to (\varphi\to(\psi \to \chi)) \\ (\varphi\to(\psi \to \chi)) & \to (\varphi\mathbin{\&}\psi \to \chi) \\ ((\varphi \to \psi) \to \chi) & \to (((\psi \to \varphi)\to \chi)\to \chi) \\ \overline{0}& \to\varphi \\ \end{align} $$
+  - id: 15
+    kind: body
+    source: |-
+      and *modus ponens* as the only inference rule: from $\varphi$ and $\varphi \to \psi$, infer $\psi$. We write $\Gamma \vdash_\mathrm{MTL} \varphi$ whenever there is a proof of $\varphi$ from $\Gamma$ in this system, i.e. there is a finite sequence of formulas which ends with $\varphi$ and its members are instances of the axioms, elements of $\Gamma$, or follow from previous ones by the inference rule (*modus ponens*). This Hilbert-style system is a strongly complete (finitary) axiomatization of the logic MTL, i.e. for each set of premises $\Gamma$ we have: $\Gamma \models_\mathrm{MTL} \varphi$ iff $\Gamma \vdash_\mathrm{MTL} \varphi$. The validity problem of $\mathrm{MTL}$ is known to be decidable, however its computational complexity has not yet been determined.
+    step1: |-
+      并以 *肯定前件* 为唯一推理规则：从 $\varphi$ 与 $\varphi \to \psi$ 推出 $\psi$。只要在这个系统中存在从 $\Gamma$ 到 $\varphi$ 的证明，即存在一个以 $\varphi$ 结尾的有限公式序列，其成员或是公理的实例、或是 $\Gamma$ 的元素、或由前面的成员按推理规则（*肯定前件*）得出，我们就写作 $\Gamma \vdash_\mathrm{MTL} \varphi$。这个希尔伯特式系统是逻辑 MTL 的强完全（有穷）公理化，即对每个前提集 $\Gamma$ 都有：$\Gamma \models_\mathrm{MTL} \varphi$ 当且仅当 $\Gamma \vdash_\mathrm{MTL} \varphi$。已知 $\mathrm{MTL}$ 的有效性问题可判定，但其计算复杂性尚未确定。
+    step2: |-
+      推理规则只有 *肯定前件*：由 $\varphi$ 与 $\varphi \to \psi$ 推出 $\psi$。若在这个系统里能从 $\Gamma$ 证明 $\varphi$——也就是有一个以 $\varphi$ 结尾的有限公式序列，其中每一项或是公理实例、或是 $\Gamma$ 的元素、或由前面各项按 *肯定前件* 得出——就记作 $\Gamma \vdash_\mathrm{MTL} \varphi$。这套希尔伯特式系统是 MTL 的强完全（有穷）公理化：对每个前提集 $\Gamma$，$\Gamma \models_\mathrm{MTL} \varphi$ 当且仅当 $\Gamma \vdash_\mathrm{MTL} \varphi$。已知 $\mathrm{MTL}$ 的有效性问题可判定，但计算复杂性还未定。
+  - id: 16
+    kind: body
+    source: |-
+      ## 3. Łukasiewicz logic
+    step1: |-
+      ## 3. Łukasiewicz 逻辑
+    step2: |-
+      ## 3 Łukasiewicz 逻辑
+  - id: 17
+    kind: body
+    source: |-
+      Łukasiewicz logic can be defined by adding the axiom (known as Wajsberg axiom)$$((\varphi \to \psi) \to \psi) \to ((\psi \to \varphi) \to \varphi)$$ to the Hilbert-style proof system for MTL. It corresponds to the finitary version of the consequence relation defined with respect to evaluations based on the Łukasiewicz t-norm (in symbols: for each *finite* set of formulas $\Gamma$ and each formula $\varphi$, we have $\Gamma \models_{Ł} \varphi$ iff $\Gamma \vdash_{Ł} \varphi$).[^note-2]
+    step1: |-
+      Łukasiewicz 逻辑可这样定义：在 MTL 的希尔伯特式证明系统中加入公理（称为 Wajsberg 公理）$$((\varphi \to \psi) \to \psi) \to ((\psi \to \varphi) \to \varphi)$$。它对应于相对于 Łukasiewicz t-范数赋值所定义的后承关系的有穷版本（符号表示：对每个 *有限* 公式集 $\Gamma$ 与每个公式 $\varphi$，$\Gamma \models_{Ł} \varphi$ 当且仅当 $\Gamma \vdash_{Ł} \varphi$）。[^note-2]
+    step2: |-
+      Łukasiewicz 逻辑是在 MTL 的希尔伯特式证明系统中加入 Wajsberg 公理 $$((\varphi \to \psi) \to \psi) \to ((\psi \to \varphi) \to \varphi)$$ 得到的。它对应的是按 Łukasiewicz t-范数赋值所定义后承关系的有穷版本：对每个 *有限* 公式集 $\Gamma$ 和每个公式 $\varphi$，$\Gamma \models_{Ł} \varphi$ 当且仅当 $\Gamma \vdash_{Ł} \varphi$。[^note-2]
+  - id: 18
+    kind: body
+    source: |-
+      This logic was an early example of a many-valued logic, introduced by Jan Łukasiewicz and Alfred Tarski (1930), well before the inception of the theory of fuzzy sets, by means of an equivalent axiomatic system (with *modus ponens* as the only inference rule):
+
+      $$ \begin{align} \varphi &\to (\psi \to \varphi)\\ (\varphi \to \psi) &\to ((\psi \to \chi) \to (\varphi \to \chi))\\ ((\varphi \to \psi) \to \psi) &\to ((\psi \to \varphi) \to \varphi)\\ (\neg \psi \to \neg \varphi) &\to (\varphi \to \psi)\\ ((\varphi \to \psi) &\to (\psi \to \varphi)) \to (\psi \to \varphi). \end{align} $$
+    step1: |-
+      这个逻辑是多值逻辑的一个早期例子，由 Jan Łukasiewicz 与 Alfred Tarski（1930）在模糊集合论创立之前很久，用一个等价的公理系统（以 *肯定前件* 为唯一推理规则）引入：
+
+      $$ \begin{align} \varphi &\to (\psi \to \varphi)\\ (\varphi \to \psi) &\to ((\psi \to \chi) \to (\varphi \to \chi))\\ ((\varphi \to \psi) \to \psi) &\to ((\psi \to \varphi) \to \varphi)\\ (\neg \psi \to \neg \varphi) &\to (\varphi \to \psi)\\ ((\varphi \to \psi) &\to (\psi \to \varphi)) \to (\psi \to \varphi). \end{align} $$
+    step2: |-
+      这是多值逻辑的早期例子：Jan Łukasiewicz 与 Alfred Tarski（1930）在模糊集合论问世之前很久就提出了它，用的是等价公理系统，推理规则只有 *肯定前件*：
+
+      $$ \begin{align} \varphi &\to (\psi \to \varphi)\\ (\varphi \to \psi) &\to ((\psi \to \chi) \to (\varphi \to \chi))\\ ((\varphi \to \psi) \to \psi) &\to ((\psi \to \varphi) \to \varphi)\\ (\neg \psi \to \neg \varphi) &\to (\varphi \to \psi)\\ ((\varphi \to \psi) &\to (\psi \to \varphi)) \to (\psi \to \varphi). \end{align} $$
+  - id: 19
+    kind: body
+    source: |-
+      Łukasiewicz logic is the only t-norm based fuzzy logic where all connectives are interpreted by continuous functions, including the implication given by the function $x \Rightarrow_{Ł} y=\min\{1,1-x+y\}$. McNaughton’s theorem (1951) states that real-valued functions over [0,1] that interpret formulas of Łukasiewicz logic are exactly the continuous piecewise linear functions with integer coefficients. In terms of computational complexity, the validity problem for this logic is asymptotically not worse than in classical logic: it remains coNP-complete.
+    step1: |-
+      Łukasiewicz 逻辑是唯一一种所有联结词都由连续函数解释的基于 t-范数的模糊逻辑，其中包括由函数 $x \Rightarrow_{Ł} y=\min\{1,1-x+y\}$ 给出的蕴涵。McNaughton 定理（1951）指出，在 [0,1] 上解释 Łukasiewicz 逻辑公式的实值函数，恰好是整系数连续分段线性函数。就计算复杂性而言，这个逻辑的有效性问题渐近地不比经典逻辑差：它仍是 coNP 完全的。
+    step2: |-
+      Łukasiewicz 逻辑是唯一一种所有联结词（包括由 $x \Rightarrow_{Ł} y=\min\{1,1-x+y\}$ 给出的蕴涵）都由连续函数解释的基于 t-范数的模糊逻辑。McNaughton 定理（1951）说，在 [0,1] 上解释 Łukasiewicz 逻辑公式的实值函数，正好是整系数的连续分段线性函数。论计算复杂性，它的有效性问题渐近地不比经典逻辑糟：仍是 coNP 完全的。
+  - id: 20
+    kind: body
+    source: |-
+      ## 4. Gödel–Dummett logic
+    step1: |-
+      ## 4. Gödel–Dummett 逻辑
+    step2: |-
+      ## 4 Gödel–Dummett 逻辑
+  - id: 21
+    kind: body
+    source: |-
+      Gödel–Dummett logic, also known as Dummett’s LC or simply as Gödel logic, is another early example of a many-valued logic with truth-values in $[0,1]$. It was introduced by Michael Dummett (1959) as the extension of intuitionistic logic by the axiom $$(\varphi \to \psi) \lor (\psi \to \varphi).$$ This formula enforces a linear order in the underlying (Kripke-style as well as algebraic) semantics. It also appears in the context of Kurt Gödel’s observation that it is impossible to characterize intuitionistic logic by finite truth tables (Gödel 1932)[^gödel-1932]. In the fuzzy logic setting, Gödel–Dummett logic can alternatively be obtained as an axiomatic extension of MTL by adding the axiom $\varphi \to \varphi \mathbin{\&} \varphi$, which amounts to requiring the idempotence of $\&$, and hence the interpretation of both conjunctions coincides. Semantically, Gödel–Dummett logic can also be defined as the consequence relation given by the minimum t-norm. It is distinguished as the only t-norm based logic where the validity of a formula in a given evaluation does not depend on the specific values assigned to the propositional variables, but only on the relative order of these values. In this sense, Gödel–Dummett logic can be seen as a logic of comparative truth. Like for Łukasiewicz logic, the computational complexity of testing validity remains coNP-complete.
+    step1: |-
+      Gödel–Dummett 逻辑，又称 Dummett 的 LC 或简称 Gödel 逻辑，是另一个真值取在 $[0,1]$ 中的多值逻辑的早期例子。它由 Michael Dummett（1959）引入，作为直觉主义逻辑加上公理 $$(\varphi \to \psi) \lor (\psi \to \varphi)$$ 的扩张。这个公式在底层（Kripke 式以及代数式）语义中强制一个线性序。它也出现在 Kurt Gödel 的观察语境中：不可能用有穷真值表刻画直觉主义逻辑（Gödel 1932）[^gödel-1932]。在模糊逻辑设定中，Gödel–Dummett 逻辑也可以作为 MTL 的公理化扩张，加入公理 $\varphi \to \varphi \mathbin{\&} \varphi$ 得到，这相当于要求 $\&$ 幂等，因而两个合取的解释重合。在语义上，Gödel–Dummett 逻辑也可定义为由最小 t-范数给出的后承关系。它的独特之处在于：在基于 t-范数的逻辑中，它是唯一一个公式在给定赋值下的有效性不依赖命题变元所取的具体值、而只依赖这些值的相对顺序的逻辑。在这个意义上，Gödel–Dummett 逻辑可看作比较真值的逻辑。和 Łukasiewicz 逻辑一样，检验有效性的计算复杂性仍是 coNP 完全的。
+    step2: |-
+      Gödel–Dummett 逻辑又叫 Dummett 的 LC，或简称 Gödel 逻辑，也是真值取在 $[0,1]$ 中的早期多值逻辑。Michael Dummett（1959）把它作为直觉主义逻辑加公理 $$(\varphi \to \psi) \lor (\psi \to \varphi)$$ 的扩张提出。这条公式在底层语义（无论 Kripke 式还是代数式）中强制一个线性序；它也出现在 Kurt Gödel 的观察里：直觉主义逻辑不可能用有穷真值表刻画（Gödel 1932）[^gödel-1932]。在模糊逻辑中，Gödel–Dummett 逻辑也可以由 MTL 加公理 $\varphi \to \varphi \mathbin{\&} \varphi$ 得到，这等于要求 $\&$ 幂等，于是两个合取的解释重合。语义上，它还可定义为最小 t-范数给出的后承关系。它的特别之处是：在基于 t-范数的逻辑里，只有它使得公式在给定赋值下的有效性不取决于命题变元的具体取值，而只取决于这些值的相对顺序；因此可以说，Gödel–Dummett 逻辑是关于比较真值的逻辑。和 Łukasiewicz 逻辑一样，检验有效性的计算复杂性仍是 coNP 完全的。
+  - id: 22
+    kind: body
+    source: |-
+      ## 5. Other notable fuzzy logics
+    step1: |-
+      ## 5. 其他值得注意的模糊逻辑
+    step2: |-
+      ## 5 其他值得注意的模糊逻辑
+  - id: 23
+    kind: body
+    source: |-
+      Besides MTL (the logic of all left-continuous t-norms) and Łukasiewicz and Gödel–Dummett logics (each induced by a particular t-norm), one can consider logics *induced* by sets of t-norms or, in general, arbitrary axiomatic extensions of MTL. In particular, the logic of all *continuous* t-norms (Hájek’s basic fuzzy logic BL) is obtained by adding the axiom $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ to those of MTL. Actually, for any set of continuous t-norms there is a finite axiomatization of the corresponding logic (Esteva, Godo, & Montagna 2003; Haniková 2014)[^haniková-2014]; in most cases the axiomatization captures semantic consequence from *finite* sets of premises. In particular, the logic of the third prominent continuous t-norm (algebraic product), known as Product logic, is the extension of BL by the axiom $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}}).$$ On the other hand, not all axiomatic extensions of MTL can be given a t-norm based semantics. For example, classical logic can be axiomatized as MTL $+$ $\varphi\vee\neg \varphi$, but the axiom of excluded middle is not a tautology under any t-norm based interpretation.
+    step1: |-
+      除了 MTL（所有左连续 t-范数的逻辑）以及 Łukasiewicz 与 Gödel–Dummett 逻辑（各由某个特定 t-范数诱导）之外，还可以考虑由 t-范数集合 *诱导* 的逻辑，或更一般地，MTL 的任意公理化扩张。特别地，所有 *连续* t-范数的逻辑（Hájek 的基本模糊逻辑 BL）是在 MTL 公理上加入 $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ 得到的。事实上，对任何连续 t-范数集合，相应的逻辑都有有穷公理化（Esteva, Godo, & Montagna 2003; Haniková 2014）[^haniková-2014]；多数情形下，该公理化刻画的是从 *有限* 前提集出发的语义后承。特别地，第三个著名连续 t-范数（代数乘积）的逻辑，称为乘积逻辑，是 BL 加公理 $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}})$$ 的扩张。另一方面，并非 MTL 的所有公理化扩张都能给出基于 t-范数的语义。例如，经典逻辑可公理化为 MTL $+$ $\varphi\vee\neg \varphi$，但排中律在任何基于 t-范数的解释下都不是重言式。
+    step2: |-
+      除了 MTL（所有左连续 t-范数的逻辑）以及 Łukasiewicz、Gödel–Dummett 逻辑（各由某个特定 t-范数诱导），还可以考虑由一组 t-范数 *诱导* 的逻辑，或更一般地，MTL 的任意公理化扩张。特别地，所有 *连续* t-范数的逻辑，即 Hájek 的基本模糊逻辑 BL，就是 MTL 加公理 $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ 得到的。事实上，任何一组连续 t-范数，其对应逻辑都有有穷公理化（Esteva, Godo, & Montagna 2003; Haniková 2014）[^haniková-2014]；多数情况下，公理化刻画的是从 *有限* 前提集出发的语义后承。第三个著名连续 t-范数（代数乘积）的逻辑叫乘积逻辑，是 BL 加公理 $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}})$$ 的扩张。反过来，并非 MTL 的每个公理化扩张都能有基于 t-范数的语义：比如经典逻辑可公理化为 MTL $+$ $\varphi\vee\neg \varphi$，但排中律在任何基于 t-范数的解释下都不是重言式。
+  - id: 24
+    kind: body
+    source: |-
+      There are also reasons to consider weaker fuzzy logics. For example, it can be argued that the assumptions forcing the interpretation of the conjunction & to be a t-norm are too strong. In particular, the assumption that $1$ is its neutral element enforces a definition of tautology as a formula always evaluated to $1$ and the consequence relation as preservation of the value $1$ – that is, $1$ is the only *designated value* in the semantics.[^note-3] A natural way to introduce logics with more than one designated truth-degree is to assume that the neutral element for the interpretation of & is a number $t <1$. It can be shown that in this situation the designated truth-degrees are exactly those greater than or equal to $t$. Such interpretations of conjunctions are called *uninorms*. The logic of left-continuous uninorms was axiomatized in Metcalfe & Montagna (2007).
+    step1: |-
+      也有理由考虑更弱的模糊逻辑。例如，可以论证，迫使合取 & 的解释成为 t-范数的那些假设太强。特别是，假设 $1$ 是它的单位元，就强制把重言式定义为始终取值 $1$ 的公式，并把后承关系定义为值 $1$ 的保持——也就是说，$1$ 是语义中唯一的 *指定值*。[^note-3] 引入具有多个指定真值度的逻辑的一种自然方式，是假设 & 的解释的单位元是一个数 $t <1$。可以证明，在这种情况下，指定真值度恰好是那些大于或等于 $t$ 的值。这种合取解释称为 *uninorm*。左连续 uninorm 的逻辑由 Metcalfe & Montagna（2007）公理化。
+    step2: |-
+      也有理由考虑更弱的模糊逻辑。比如可以说，逼着合取 & 的解释成为 t-范数的那些假设太强了。尤其是“$1$ 是单位元”这条，就逼着重言式只能是始终取值 $1$ 的公式、后承关系只能是值 $1$ 的保持，也就是把 $1$ 当成语义里唯一的 *指定值*。[^note-3] 要引入有多个指定真值度的逻辑，一个自然的办法是假设 & 的解释以某个数 $t <1$ 为单位元。可以证明，这时指定真值度正好是大于或等于 $t$ 的那些值。这种合取解释叫 *uninorm*。左连续 uninorm 的逻辑由 Metcalfe & Montagna（2007）公理化。
+  - id: 25
+    kind: body
+    source: |-
+      Analogously, one may argue against commutativity or even against associativity of &. Axiomatizations of resulting logics are described in the literature (see Cintula, Horčík, & Noguera 2013; Jenei & Montagna 2003); an exception is the logic of non-commutative uninorms for which no natural axiomatic system is known.
+    step1: |-
+      类似地，人们也可以反对 & 的可交换性，甚至反对其结合性。所得逻辑的公理化在文献中有描述（见 Cintula, Horčík, & Noguera 2013; Jenei & Montagna 2003）；一个例外是非交换 uninorm 的逻辑，对此尚无已知的自然公理系统。
+    step2: |-
+      同理，也有人反对 & 可交换，甚至反对它可结合。所得逻辑的公理化文献里有（见 Cintula, Horčík, & Noguera 2013; Jenei & Montagna 2003）；例外是非交换 uninorm 的逻辑，目前还没有已知的自然公理系统。
+  - id: 26
+    kind: body
+    source: |-
+      Finally, taking into account that fuzzy logics, unlike classical logic, are typically not functionally complete, one can increase their expressive power by adding new connectives. The most commonly considered connectives are: truth-constants $\bar r$ for each rational number $r\in (0,1)$; unary connectives $\sim$ and $\triangle$ interpreted as ${\sim}x = 1-x$ and $\triangle x = 1$ if $x=1$ and $0$ otherwise; a binary connective $\odot$ interpreted as the usual algebraic product, etc. (Baaz 1996; Esteva, Gispert, Godo, & Noguera 2007; Esteva, Godo, & Montagna 2001; Esteva, Godo, Hájek, & Navara 2000)[^baaz-1996][^montagna-2001].
+    step1: |-
+      最后，考虑到模糊逻辑与经典逻辑不同，通常不是函项完全的，人们可以通过添加新联结词来增强其表达力。最常考虑的联结词有：对每个有理数 $r\in (0,1)$ 的真常项 $\bar r$；一元联结词 $\sim$ 与 $\triangle$，分别解释为 ${\sim}x = 1-x$ 以及当 $x=1$ 时 $\triangle x = 1$、否则为 $0$；二元联结词 $\odot$，解释为通常的代数乘积，等等（Baaz 1996; Esteva, Gispert, Godo, & Noguera 2007; Esteva, Godo, & Montagna 2001; Esteva, Godo, Hájek, & Navara 2000）[^baaz-1996][^montagna-2001]。
+    step2: |-
+      最后，模糊逻辑和经典逻辑不同，通常不是函项完全的，所以可以加新联结词来增强表达力。最常加的有：对每个有理数 $r\in (0,1)$ 的真常项 $\bar r$；一元联结词 $\sim$ 与 $\triangle$，前者解释为 ${\sim}x = 1-x$，后者在 $x=1$ 时取 $\triangle x = 1$、否则取 $0$；二元联结词 $\odot$，解释为通常的代数乘积；等等（Baaz 1996; Esteva, Gispert, Godo, & Noguera 2007; Esteva, Godo, & Montagna 2001; Esteva, Godo, Hájek, & Navara 2000）[^baaz-1996][^montagna-2001]。
+  - id: 27
+    kind: body
+    source: |-
+      A thorough overview of all the kinds of propositional fuzzy logics mentioned in this section (and a general theory thereof) can be found in the *Handbook of Mathematical Fuzzy Logic* (3 volumes, Cintula et al. 2011a,b, 2015)[^cintula-2011a].
+    step1: |-
+      关于本节提到的各种命题模糊逻辑（以及它们的一般理论）的详尽综述，见 *Handbook of Mathematical Fuzzy Logic*（3 卷，Cintula et al. 2011a,b, 2015）[^cintula-2011a]。
+    step2: |-
+      本节提到的各类命题模糊逻辑（及其一般理论），详尽综述见 *Handbook of Mathematical Fuzzy Logic*（3 卷，Cintula et al. 2011a,b, 2015）[^cintula-2011a]。
+  - id: 28
+    kind: body
+    source: |-
+      ## 6. Predicate logics
+    step1: |-
+      ## 6. 谓词逻辑
+    step2: |-
+      ## 6 谓词逻辑
+  - id: 29
+    kind: body
+    source: |-
+      The propositional logic MTL can be given a first-order counterpart MTL$\forall$ in a predicate language $\mathcal{P\!L}$ (defined as in the classical case) in the following way. The semantics is given by structures in which predicate symbols are interpreted as functions mapping tuples of domain elements into truth-values. More precisely, given a left-continuous t-norm $\ast$, a $\ast$-structure ${\mathbf M}$ consists of a non-empty domain of elements $M$, a function $f_{\mathbf M}\colon M^n\to M$ for each $n$-ary function symbol $f\in \mathcal{P\!L}$, and a function $P_{\mathbf M}\colon M^n\to [0,1]$ for each $n$-ary predicate symbol $P\in \mathcal{P\!L}$. Fixing a valuation ${\mathrm v}$ of object variables in $M$, one defines values of terms ($\|f(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = f_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$) and truth-values of atomic formulas ($\|P(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = P_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$). Truth-values of a universally/existentially quantified formula are computed as infimum/supremum of truth-values of instances of the formula where the quantified variable runs over all elements of the domain $M$. Formally: $$ \begin{align} \|\forall x\, \varphi\|^{\mathbf M}_{\mathrm v} & = \inf\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]} \mid a\in M\}\\ \|\exists x\,\varphi\|^{\mathbf M}_{\mathrm v} & = \sup\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]}\mid a\in M\},\\ \end{align} $$ where ${\mathrm v}[x{:}a]$ is the valuation sending $x$ to $a$ and keeping values of other variables unchanged. The values of other formulas are computed by interpreting, as in propositional semantics, $\&$ as $\ast$, the implication $\to$ as its residuum $\Rightarrow_\ast$, and $\land$ and $\overline{0}$ as $\min$ and $0$, respectively.
+    step1: |-
+      命题逻辑 MTL 可以按下述方式在谓词语言 $\mathcal{P\!L}$（定义与经典情形相同）中给出一阶对应物 MTL$\forall$。语义由结构给出，其中谓词符号被解释为把论域元素的元组映射到真值的函数。更确切地说，给定左连续 t-范数 $\ast$，一个 $\ast$-结构 ${\mathbf M}$ 由一个非空元素域 $M$、对每个 $n$ 元函数符号 $f\in \mathcal{P\!L}$ 的一个函数 $f_{\mathbf M}\colon M^n\to M$，以及对每个 $n$ 元谓词符号 $P\in \mathcal{P\!L}$ 的一个函数 $P_{\mathbf M}\colon M^n\to [0,1]$ 组成。固定对象变元在 $M$ 中的一个赋值 ${\mathrm v}$，就可定义项的值（$\|f(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = f_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）与原子公式的真值（$\|P(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = P_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）。全称/存在量化公式的真值，按公式实例真值的下确界/上确界计算，其中量化变元遍历域 $M$ 的所有元素。形式地：$$ \begin{align} \|\forall x\, \varphi\|^{\mathbf M}_{\mathrm v} & = \inf\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]} \mid a\in M\}\\ \|\exists x\,\varphi\|^{\mathbf M}_{\mathrm v} & = \sup\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]}\mid a\in M\},\\ \end{align} $$ 其中 ${\mathrm v}[x{:}a]$ 是把 $x$ 送到 $a$、其余变元取值不变的赋值。其他公式的值按命题语义那样计算：把 $\&$ 解释为 $\ast$、蕴涵 $\to$ 解释为其剩余 $\Rightarrow_\ast$、$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$。
+    step2: |-
+      命题逻辑 MTL 可以在一阶谓词语言 $\mathcal{P\!L}$（定义同经典情形）中给出一阶对应物 MTL$\forall$。语义由结构给出：谓词符号解释为把论域元素元组映到真值的函数。确切地说，给定左连续 t-范数 $\ast$，一个 $\ast$-结构 ${\mathbf M}$ 包括：非空元素域 $M$；对每个 $n$ 元函数符号 $f\in \mathcal{P\!L}$ 的一个函数 $f_{\mathbf M}\colon M^n\to M$；对每个 $n$ 元谓词符号 $P\in \mathcal{P\!L}$ 的一个函数 $P_{\mathbf M}\colon M^n\to [0,1]$。固定对象变元在 $M$ 中的赋值 ${\mathrm v}$，就可以定义项的值（$\|f(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = f_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）和原子公式的真值（$\|P(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = P_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）。全称或存在量化公式的真值，取公式各实例真值的下确界或上确界，量化变元遍历域 $M$ 的全部元素。形式地：$$ \begin{align} \|\forall x\, \varphi\|^{\mathbf M}_{\mathrm v} & = \inf\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]} \mid a\in M\}\\ \|\exists x\,\varphi\|^{\mathbf M}_{\mathrm v} & = \sup\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]}\mid a\in M\},\\ \end{align} $$ 其中 ${\mathrm v}[x{:}a]$ 是把 $x$ 送到 $a$、其余变元保持不变的赋值。其他公式的值照命题语义算：$\&$ 解释为 $\ast$，蕴涵 $\to$ 解释为其剩余 $\Rightarrow_\ast$，$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$。
+  - id: 30
+    kind: body
+    source: |-
+      The first-order logic MTL$\forall$ is then defined as the consequence relation given by the preservation of total truth (value $1$) in $\ast$-structures (allowing $\ast$ to run over all left-continuous t-norms). More precisely, we say that a first-order formula $\varphi$ is a consequence of a set of formulas $\Gamma$ (in symbols: $\Gamma \models_{\mathrm{MTL}\forall} \varphi$) if, for each left-continuous t-norm $\ast$ and each $\ast$-structure ${\mathbf M}$, we have $\|\varphi\|^{\mathbf M}_{\mathrm v} = 1$ for each valuation v, whenever $\|\psi\|^{\mathbf M}_{\mathrm v} = 1$ for each valuation v and each $\psi \in \Gamma$.
+    step1: |-
+      一阶逻辑 MTL$\forall$ 于是定义为在 $\ast$-结构（其中 $\ast$ 遍历所有左连续 t-范数）中保持完全真（值 $1$）所给出的后承关系。更确切地说，我们说一阶公式 $\varphi$ 是公式集 $\Gamma$ 的后承（记作 $\Gamma \models_{\mathrm{MTL}\forall} \varphi$），如果对每个左连续 t-范数 $\ast$ 与每个 $\ast$-结构 ${\mathbf M}$，只要对每个赋值 v 与每个 $\psi \in \Gamma$ 都有 $\|\psi\|^{\mathbf M}_{\mathrm v} = 1$，就对每个赋值 v 都有 $\|\varphi\|^{\mathbf M}_{\mathrm v} = 1$。
+    step2: |-
+      一阶逻辑 MTL$\forall$ 的后承关系，定义为在 $\ast$-结构中保持完全真（值 $1$），其中 $\ast$ 遍历所有左连续 t-范数。更确切地说，称一阶公式 $\varphi$ 是公式集 $\Gamma$ 的后承（记作 $\Gamma \models_{\mathrm{MTL}\forall} \varphi$），如果对每个左连续 t-范数 $\ast$ 和每个 $\ast$-结构 ${\mathbf M}$，只要 $\|\psi\|^{\mathbf M}_{\mathrm v} = 1$ 对所有赋值 v 与所有 $\psi \in \Gamma$ 成立，就有 $\|\varphi\|^{\mathbf M}_{\mathrm v} = 1$ 对所有赋值 v 成立。
+  - id: 31
+    kind: body
+    source: |-
+      MTL$\forall$ can be given a strongly complete Hilbert-style proof system with the following axioms:
+    step1: |-
+      MTL$\forall$ 可以给出一套如下公理的强完全希尔伯特式证明系统：
+    step2: |-
+      MTL$\forall$ 可以写成强完全的希尔伯特式证明系统，公理如下：
+  - id: 32
+    kind: body
+    source: |-
+      - (P) The first-order instances of the axioms of MTL
+      - $(\forall1 )$ $\forall x\,\varphi(x)\to\varphi(t)$, where the term $t$ is substitutable for $x$ in $\varphi$
+      - $(\exists1)$ $\varphi(t)\to \exists x\, \varphi(x)$, where the term $t$ is substitutable for $x$ in $\varphi$
+      - $(\forall2)$ $\forall x\,(\chi\to\varphi)\to(\chi\to \forall x\,\varphi)$, where $x$ is not free in $\chi$
+      - $(\exists2)$ $\forall x\,(\varphi\to\chi)\to(\exists x\,\varphi\to\chi)$, where $x$ is not free in $\chi$
+      - $(\forall3)$ $\forall x\,(\chi\vee\varphi)\to\chi\vee \forall x\,\varphi$, where $x$ is not free in $\chi$.
+    step1: |-
+      - (P) MTL 公理的一阶实例
+      - $(\forall1 )$ $\forall x\,\varphi(x)\to\varphi(t)$，其中项 $t$ 在 $\varphi$ 中可代入 $x$
+      - $(\exists1)$ $\varphi(t)\to \exists x\, \varphi(x)$，其中项 $t$ 在 $\varphi$ 中可代入 $x$
+      - $(\forall2)$ $\forall x\,(\chi\to\varphi)\to(\chi\to \forall x\,\varphi)$，其中 $x$ 在 $\chi$ 中不自由
+      - $(\exists2)$ $\forall x\,(\varphi\to\chi)\to(\exists x\,\varphi\to\chi)$，其中 $x$ 在 $\chi$ 中不自由
+      - $(\forall3)$ $\forall x\,(\chi\vee\varphi)\to\chi\vee \forall x\,\varphi$，其中 $x$ 在 $\chi$ 中不自由。
+    step2: |-
+      - (P) MTL 公理的一阶实例
+      - $(\forall1 )$ $\forall x\,\varphi(x)\to\varphi(t)$，其中项 $t$ 在 $\varphi$ 中可代入 $x$
+      - $(\exists1)$ $\varphi(t)\to \exists x\, \varphi(x)$，其中项 $t$ 在 $\varphi$ 中可代入 $x$
+      - $(\forall2)$ $\forall x\,(\chi\to\varphi)\to(\chi\to \forall x\,\varphi)$，其中 $x$ 在 $\chi$ 中不自由
+      - $(\exists2)$ $\forall x\,(\varphi\to\chi)\to(\exists x\,\varphi\to\chi)$，其中 $x$ 在 $\chi$ 中不自由
+      - $(\forall3)$ $\forall x\,(\chi\vee\varphi)\to\chi\vee \forall x\,\varphi$，其中 $x$ 在 $\chi$ 中不自由。
+  - id: 33
+    kind: body
+    source: |-
+      The deduction rules of MTL$\forall$ are *modus ponens* plus the rule of *generalization:* from $\varphi$ infer $\forall x\,\varphi$.
+    step1: |-
+      MTL$\forall$ 的推理规则是 *肯定前件* 加上 *概括* 规则：从 $\varphi$ 推出 $\forall x\,\varphi$。
+    step2: |-
+      MTL$\forall$ 的推理规则，是 *肯定前件* 再加 *概括*：由 $\varphi$ 推出 $\forall x\,\varphi$。
+  - id: 34
+    kind: body
+    source: |-
+      There are two ways of introducing first-order counterparts for other propositional t-norm based fuzzy logics. On the one hand, the axiomatization of MTL$\forall$ can be extended by adding the first-order instances of propositional axioms like those seen in the previous sections. In this manner one obtains syntactic presentations of first-order variants of, e.g., Łukasiewicz logic, Gödel–Dummett logic, Product logic, or Hájek’s basic fuzzy logic BL. On the other hand, the semantic definition of MTL$\forall$ can be easily modified by defining the consequence relations given by the corresponding (sets of) t-norms. Then, the natural question is whether, in each case, these two routes lead to the same logic (as it happened for MTL). For soundness there is no problem, as the axiomatic systems are easily checked to be sound with respect to their corresponding classes of structures. As for completeness, there is no general answer and the problem has to be considered case by case.
+    step1: |-
+      为其他基于 t-范数的命题模糊逻辑引入一阶对应物，有两条途径。一方面，可以把 MTL$\forall$ 的公理化加以扩张，加入前几节所见命题公理的一阶实例。这样便得到例如 Łukasiewicz 逻辑、Gödel–Dummett 逻辑、乘积逻辑或 Hájek 基本模糊逻辑 BL 的一阶变体的句法呈现。另一方面，MTL$\forall$ 的语义定义可以轻易修改，改为定义由相应 t-范数（集合）给出的后承关系。于是自然的问题是：在每种情形下，这两条途径是否通向同一个逻辑（就像 MTL 那样）。可靠性没有问题，因为很容易检验这些公理系统相对于相应的结构类可靠。至于完全性，没有一般答案，必须逐案考虑。
+    step2: |-
+      给其他基于 t-范数的命题模糊逻辑配一阶对应物，有两条路。第一条是把 MTL$\forall$ 的公理化扩一扩，加入前几节那些命题公理的一阶实例，于是得到 Łukasiewicz 逻辑、Gödel–Dummett 逻辑、乘积逻辑、Hájek 基本模糊逻辑 BL 等的一阶变体的句法呈现。第二条是改动 MTL$\forall$ 的语义定义，改为由相应 t-范数（集合）给出后承关系。接下来自然要问：每种情形下，这两条路是否通向同一个逻辑（MTL 就是如此）？可靠性不成问题，因为这些公理系统相对于相应结构类很容易验证可靠；完全性则没有一般答案，只能一案一议。
+  - id: 35
+    kind: body
+    source: |-
+      For Gödel–Dummett logic the axiomatic system is strongly complete with respect to its semantics. However, the set of tautologies of the semantics for Łukasiewicz logic is not recursively axiomatizable as shown by Bruno Scarpellini (1962). Emil Ragaz (1981) proved that it is actually $\Sigma_2$-complete in the sense of arithmetical hierarchy. The situation is even worse in the case of Product logic and Hájek’s basic fuzzy logic BL, where the sets of first-order tautologies of all structures given by continuous t-norms are as complex as true arithmetics (Montagna 2001)[^montagna-2001]. Completeness can be achieved either by adding a suitable infinitary inference rule to the Hilbert-style proof system, as done by Louise Hay (1963) for Łukasiewicz logic, or by generalizing the set of truth-values (see next section).
+    step1: |-
+      对 Gödel–Dummett 逻辑，公理系统相对于其语义是强完全的。然而，正如 Bruno Scarpellini（1962）所示，Łukasiewicz 逻辑语义的重言式集合不是递归可公理化的。Emil Ragaz（1981）证明，它在算术层级的意义上实际上是 $\Sigma_2$-完全的。乘积逻辑与 Hájek 基本模糊逻辑 BL 的情形更糟：由连续 t-范数给出的所有结构的一阶重言式集合，与真正的算术一样复杂（Montagna 2001）[^montagna-2001]。要获得完全性，可以像 Louise Hay（1963）对 Łukasiewicz 逻辑所做的那样，给希尔伯特式证明系统添加合适的无穷推理规则，或者推广真值集合（见下一节）。
+    step2: |-
+      对 Gödel–Dummett 逻辑，公理系统相对于其语义是强完全的。但 Łukasiewicz 逻辑的语义重言式集合，正如 Bruno Scarpellini（1962）所证明的，不是递归可公理化的；Emil Ragaz（1981）进一步证明，它在算术层级意义上是 $\Sigma_2$-完全的。乘积逻辑和 Hájek 基本模糊逻辑 BL 更糟：由连续 t-范数给出的所有结构，其一阶重言式集合与真正的算术一样复杂（Montagna 2001）[^montagna-2001]。要得到完全性，可以给希尔伯特式证明系统加合适的无穷推理规则——Louise Hay（1963）对 Łukasiewicz 逻辑就是这么做的——或者推广真值集合（见下一节）。
+  - id: 36
+    kind: body
+    source: |-
+      First-order counterparts of weaker fuzzy logics can be studied in analogous, syntactic and semantic, ways; see the survey presentation in Cintula, Horčík, & Noguera 2014.
+    step1: |-
+      更弱模糊逻辑的一阶对应物，可以用类似的句法与语义方式研究；综述性介绍见 Cintula, Horčík, & Noguera 2014。
+    step2: |-
+      更弱的模糊逻辑的一阶对应物，也可照样从句法、语义两方面研究；综述见 Cintula, Horčík, & Noguera 2014。
+  - id: 37
+    kind: body
+    source: |-
+      ## 7. Algebraic semantics
+    step1: |-
+      ## 7. 代数语义
+    step2: |-
+      ## 7 代数语义
+  - id: 38
+    kind: body
+    source: |-
+      One of the main tools in the study of fuzzy logic is that of algebraic semantics. Roughly speaking, the idea is to replace the real unit interval with an arbitrary set and to interpret the connectives as operations of corresponding arities on that set.
+    step1: |-
+      研究模糊逻辑的主要工具之一是代数语义。粗略地说，其想法是把实数单位区间换成一个任意集合，并把联结词解释为该集合上相应元数的运算。
+    step2: |-
+      研究模糊逻辑的一大工具是代数语义。粗略说，就是把实数单位区间换成任意一个集合，把联结词解释成该集合上相应元数的运算。
+  - id: 39
+    kind: body
+    source: |-
+      An MTL-algebra, introduced by Francesc Esteva and Lluís Godo (2001), is a tuple ${\mathbf A} = \langle A, \&, \to, \wedge, \vee, \overline{0}, \overline{1} \rangle$ where
+    step1: |-
+      由 Francesc Esteva 与 Lluís Godo（2001）引入的 MTL-代数，是一个元组 ${\mathbf A} = \langle A, \&, \to, \wedge, \vee, \overline{0}, \overline{1} \rangle$，其中
+    step2: |-
+      Francesc Esteva 与 Lluís Godo（2001）引入的 MTL-代数，是一个元组 ${\mathbf A} = \langle A, \&, \to, \wedge, \vee, \overline{0}, \overline{1} \rangle$，满足：
+  - id: 40
+    kind: body
+    source: |-
+      - $\langle A, \wedge, \vee, \overline{0}, \overline{1} \rangle$ is a bounded lattice
+      - $\langle A, \&, \overline{1} \rangle$ is a commutative monoid
+      - $(x\to y)\vee(y\to x) = \overline{1}$
+      - $x\mathbin{\&} y \leq z$ iff $x \leq y\to z$ (where $\leq$ is the lattice order induced by $\wedge$ or $\vee$).
+    step1: |-
+      - $\langle A, \wedge, \vee, \overline{0}, \overline{1} \rangle$ 是有界格
+      - $\langle A, \&, \overline{1} \rangle$ 是可交换幺半群
+      - $(x\to y)\vee(y\to x) = \overline{1}$
+      - $x\mathbin{\&} y \leq z$ 当且仅当 $x \leq y\to z$（其中 $\leq$ 是由 $\wedge$ 或 $\vee$ 诱导的格序）。
+    step2: |-
+      - $\langle A, \wedge, \vee, \overline{0}, \overline{1} \rangle$ 是有界格
+      - $\langle A, \&, \overline{1} \rangle$ 是可交换幺半群
+      - $(x\to y)\vee(y\to x) = \overline{1}$
+      - $x\mathbin{\&} y \leq z$ 当且仅当 $x \leq y\to z$（$\leq$ 是由 $\wedge$ 或 $\vee$ 诱导的格序）。
+  - id: 41
+    kind: body
+    source: |-
+      If the lattice order is total, then ${\mathbf A}$ is called an MTL-chain. It is worth noting that MTL-algebras are a subvariety of residuated lattices which provide the algebraic semantics for substructural logics; the first pointer to the tight connection between these two families of logics.
+    step1: |-
+      如果格序是全序，则称 ${\mathbf A}$ 为 MTL-链。值得注意的是，MTL-代数是剩余格的一个子簇，而剩余格为子结构逻辑提供代数语义；这是这两族逻辑之间紧密联系的最早线索。
+    step2: |-
+      若格序是全序，${\mathbf A}$ 就叫 MTL-链。值得一提的是，MTL-代数是剩余格的一个子簇，而剩余格正是子结构逻辑的代数语义所在——这是这两族逻辑紧密相关的最早线索。
+  - id: 42
+    kind: body
+    source: |-
+      MTL-algebras are a generalization of the t-norm based semantics explained above and provide a sound and complete semantics for MTL.[^note-4]
+    step1: |-
+      MTL-代数是上述基于 t-范数语义的推广，并为 MTL 提供可靠且完全的语义。[^note-4]
+    step2: |-
+      MTL-代数是上述基于 t-范数语义的推广，给 MTL 提供了可靠且完全的语义。[^note-4]
+  - id: 43
+    kind: body
+    source: |-
+      MTL-chains are the basic building blocks of the whole class of algebras, in the sense that each MTL-algebra can be decomposed as a *subdirect product* of chains. This implies that the logic is also complete with respect to the semantics of MTL-chains, which is then used as the first step in the proof of its completeness with respect to the t-norm based semantics (Jenei & Montagna 2002)[^jenei-2002].
+    step1: |-
+      MTL-链是整个代数学科的基本构件，意思是每个 MTL-代数都可分解为链的 *次直积*。这意味着该逻辑相对于 MTL-链语义也是完全的，而这又被用作证明它相对于基于 t-范数语义完全的第一步（Jenei & Montagna 2002）[^jenei-2002]。
+    step2: |-
+      MTL-链是整个代数类的基本构件：每个 MTL-代数都能分解成链的 *次直积*。这意味着该逻辑相对于 MTL-链语义也完全；证明它相对于基于 t-范数语义完全时，第一步靠的就是这一点（Jenei & Montagna 2002）[^jenei-2002]。
+  - id: 44
+    kind: body
+    source: |-
+      Algebraic semantics is a universal tool for propositional logics. In particular, for any arbitrary fuzzy logic studied in the literature (even those not supporting a t-norm based semantics such as finite-valued fuzzy logics or the logic of non-commutative uninorms) one can find a corresponding class of algebras which can be decomposed as subdirect products of chains. This fact has led Libor Běhounek and Petr Cintula (2006) to propose a definition of fuzzy logics as logics that are complete with respect to totally ordered algebraic structures.
+    step1: |-
+      代数语义是命题逻辑的通用工具。特别地，对文献中研究的任何模糊逻辑（甚至对不支持基于 t-范数语义的逻辑，如有穷值模糊逻辑或非交换 uninorm 的逻辑），都能找到相应的代数类，它们可分解为链的次直积。这一事实促使 Libor Běhounek 与 Petr Cintula（2006）提出把模糊逻辑定义为相对于全序代数结构完全的逻辑。
+    step2: |-
+      代数语义是命题逻辑的通用工具。文献里研究的任何模糊逻辑——甚至不支持基于 t-范数语义的，如有穷值模糊逻辑或非交换 uninorm 的逻辑——都能找到相应的代数类，且可分解为链的次直积。有鉴于此，Libor Běhounek 与 Petr Cintula（2006）提议把模糊逻辑定义为相对于全序代数结构完全的逻辑。
+  - id: 45
+    kind: body
+    source: |-
+      The algebraic semantics can be used for first-order fuzzy logics in a rather straightforward way: just change the definition of a $\ast$-structure of the previous section to a structure that, instead of the interval [0,1] and $\ast$ and its residuum, uses an arbitary MTL-chain and its operation to compute truth-values of formulas. Given a propositional fuzzy logic, one can use this generalized semantics to obtain a recursively enumerable set of tautologies and a strong completeness theorem for a corresponding first-order Hilbert-style proof system.
+    step1: |-
+      代数语义可以相当直接地用于一阶模糊逻辑：只需把上一节 $\ast$-结构的定义改成这样一种结构，它不用区间 [0,1] 以及 $\ast$ 与其剩余，而用任意 MTL-链及其运算来计算公式的真值。给定一个命题模糊逻辑，就可以用这种推广语义得到递归可枚举的重言式集合，以及相应一阶希尔伯特式证明系统的强完全性定理。
+    step2: |-
+      代数语义用在一阶模糊逻辑上相当直接：把上一节 $\ast$-结构的定义改一下，不用区间 [0,1] 和 $\ast$ 及其剩余，而用任意 MTL-链及其运算来算公式真值。给定一个命题模糊逻辑，这套推广语义就能给出递归可枚举的重言式集合，以及相应一阶希尔伯特式证明系统的强完全性定理。
+  - id: 46
+    kind: body
+    source: |-
+      ## 8. Proof theory
+    step1: |-
+      ## 8. 证明论
+    step2: |-
+      ## 8 证明论
+  - id: 47
+    kind: body
+    source: |-
+      It has been a considerable challenge to come up with analytic proof systems for fuzzy logics. These are systems that share important features, like the eliminability of cuts and the subformula property, with Gentzen’s sequent calculi for classical and intuitionistic logic (see entry on the development of proof theory). A major breakthrough has been achieved with the introduction of a hypersequent calculus for Gödel–Dummett logic by Arnon Avron (1991). Hypersequent calculi arise from sequent calculi by defining inference rules that refer to finite multisets of sequents, rather than to single sequents. Hypersequents are interpreted, at the meta-level, as disjunctions of sequents. This interpretation implies that it is sound to add additional sequents (external weakening) or to replace multiple copies of the same sequent within a given hypersequent by a single copy of that sequent (external contraction). In the case of Gödel–Dummett logic, the rules for introducing logical connectives arise from the rules of Gentzen’s intuitionistic sequent calculus by simply adding side-hypersequents the upper and lower sequents of the original rule. For example, the sequent rule for introducing conjunction on the right-hand side $$\frac{\Gamma_1 \Rightarrow \phi \hspace{3ex} \Gamma_2 \Rightarrow \psi}{\Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi}$$ where $\Gamma_1$ and $\Gamma_2$ are finite sequences of formulas, is turned into the following hypersequent rule: $$\frac{H \mid \Gamma_1 \Rightarrow \phi \hspace{3ex} H' \mid \Gamma_2 \Rightarrow \psi}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi }$$ where $H$ and $H'$ denote the side-hypersequents, i.e., finite multisets of sequents added disjunctively to the exhibited sequents. This by itself does not change the corresponding logic (intuitionistic logic, in this case). The crucial additional structural rule is the so-called communication rule: $$\frac{H \mid \Gamma_1,\Pi_1 \Rightarrow \Delta_1 \hspace{3ex} H' \mid \Gamma_2,\Pi_2 \Rightarrow \Delta_2}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \Delta_1 \mid \Pi_2,\Pi_2 \Rightarrow \Delta_2}$$ Here $\Gamma_1, \Gamma_2,\Pi_1, \Pi_2$ are finite sequences of formulas; $\Delta_1$ and $\Delta_2$ are either single formulas or remain empty; $H$ and $H'$ denote the side-hypersequents, like above. To understand the impact of the communication rule, we present a derivation of the crucial axiom $(\varphi \to \psi) \lor (\psi \to \varphi)$, which features an application of this rule immediately below the intial (hyper)sequents: $$ \frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\varphi \Rightarrow \varphi \hspace{5ex} \psi \Rightarrow \psi}{\varphi \Rightarrow \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi)}}{\Rightarrow (\varphi \to \psi) \lor (\psi \to \varphi)} $$
+    step1: |-
+      为模糊逻辑建立分析型证明系统一直是个不小的挑战。这类系统与 Gentzen 为经典逻辑和直觉主义逻辑建立的矢列演算共享一些重要特征，如切消性、子公式性质（见关于证明论发展的词条）。Arnon Avron（1991）为 Gödel–Dummett 逻辑引入超矢列演算，是一个重大突破。超矢列演算由矢列演算而来，其推理规则指涉矢列的有限多重集，而非单个矢列。在元层面，超矢列被解释为矢列的析取。这种解释意味着，添加额外矢列（外弱化），或在给定超矢列内把同一矢列的多份拷贝替换为单份（外收缩），都是可靠的。对 Gödel–Dummett 逻辑而言，引入逻辑联结词的规则由 Gentzen 直觉主义矢列演算的规则而来，只需在原规则的上下矢列旁加上侧超矢列。例如，右侧引入合取的矢列规则 $$\frac{\Gamma_1 \Rightarrow \phi \hspace{3ex} \Gamma_2 \Rightarrow \psi}{\Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi}$$ 其中 $\Gamma_1$ 与 $\Gamma_2$ 是有限公式序列，变成如下超矢列规则：$$\frac{H \mid \Gamma_1 \Rightarrow \phi \hspace{3ex} H' \mid \Gamma_2 \Rightarrow \psi}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi }$$ 其中 $H$ 与 $H'$ 表示侧超矢列，即以析取方式加到所示矢列上的有限矢列多重集。这一步本身并不改变相应逻辑（在此即直觉主义逻辑）。关键的额外结构规则是所谓的通信规则：$$\frac{H \mid \Gamma_1,\Pi_1 \Rightarrow \Delta_1 \hspace{3ex} H' \mid \Gamma_2,\Pi_2 \Rightarrow \Delta_2}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \Delta_1 \mid \Pi_2,\Pi_2 \Rightarrow \Delta_2}$$ 这里 $\Gamma_1, \Gamma_2,\Pi_1, \Pi_2$ 是有限公式序列；$\Delta_1$ 与 $\Delta_2$ 或是单个公式，或为空；$H$ 与 $H'$ 如上表示侧超矢列。为理解通信规则的作用，我们给出关键公理 $(\varphi \to \psi) \lor (\psi \to \varphi)$ 的推导，其中在初始（超）矢列正下方用到该规则：$$ \frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\varphi \Rightarrow \varphi \hspace{5ex} \psi \Rightarrow \psi}{\varphi \Rightarrow \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi)}}{\Rightarrow (\varphi \to \psi) \lor (\psi \to \varphi)} $$
+    step2: |-
+      给模糊逻辑找分析型证明系统，一直是个不小的挑战。这类系统有些重要特征与 Gentzen 为经典逻辑、直觉主义逻辑建立的矢列演算相同，比如切消性和子公式性质（见“证明论的发展”词条）。Arnon Avron（1991）为 Gödel–Dummett 逻辑引入超矢列演算，是个重大突破。超矢列演算从矢列演算变来：推理规则指涉的是矢列的有限多重集，而不是单个矢列。在元层面，超矢列读作矢列的析取。这样一来，添加额外矢列（外弱化），或在同一个超矢列里把某矢列的多份拷贝换成一份（外收缩），都是可靠的。就 Gödel–Dummett 逻辑说，引入逻辑联结词的规则只需在 Gentzen 直觉主义矢列演算的规则上，给上下矢列各加侧超矢列。例如，右侧引入合取的矢列规则 $$\frac{\Gamma_1 \Rightarrow \phi \hspace{3ex} \Gamma_2 \Rightarrow \psi}{\Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi}$$ 其中 $\Gamma_1$ 与 $\Gamma_2$ 是有限公式序列，变成这样的超矢列规则：$$\frac{H \mid \Gamma_1 \Rightarrow \phi \hspace{3ex} H' \mid \Gamma_2 \Rightarrow \psi}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi }$$ 其中 $H$、$H'$ 是侧超矢列，即以析取方式附加到所示矢列上的有限矢列多重集。光这一步并不改变相应逻辑（这里是直觉主义逻辑）。真正新增的关键结构规则，是所谓通信规则：$$\frac{H \mid \Gamma_1,\Pi_1 \Rightarrow \Delta_1 \hspace{3ex} H' \mid \Gamma_2,\Pi_2 \Rightarrow \Delta_2}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \Delta_1 \mid \Pi_2,\Pi_2 \Rightarrow \Delta_2}$$ 这里 $\Gamma_1, \Gamma_2,\Pi_1, \Pi_2$ 是有限公式序列；$\Delta_1$、$\Delta_2$ 或是单个公式，或为空；$H$、$H'$ 仍是侧超矢列。为看清通信规则的作用，下面给出关键公理 $(\varphi \to \psi) \lor (\psi \to \varphi)$ 的推导，通信规则就用在初始（超）矢列的正下方：$$ \frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\varphi \Rightarrow \varphi \hspace{5ex} \psi \Rightarrow \psi}{\varphi \Rightarrow \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi)}}{\Rightarrow (\varphi \to \psi) \lor (\psi \to \varphi)} $$
+  - id: 48
+    kind: body
+    source: |-
+      To obtain a hypersequent calculus for the fundamental fuzzy logic MTL one has to add the communication rule to a sequent system for the contraction-free version of intuitionistic logic (a well-studied example of a substructural logic). Analytic proof systems for other fuzzy logics, in particular Łukasiewicz logic, call for a more radical departure from traditional calculi, where the sequent components of hypersequents are interpreted differently than intuitionistic or classical sequents. Also labeled proof systems and various tableau calculi have been suggested. A detailed presentation of the corresponding state of the art can be found in Metcalfe, Olivetti, & Gabbay 2008 and Metcalfe 2011.
+    step1: |-
+      要为基本模糊逻辑 MTL 得到超矢列演算，须把通信规则加到无收缩版直觉主义逻辑（一个研究得很充分的结构逻辑例子）的矢列系统中。其他模糊逻辑，特别是 Łukasiewicz 逻辑的分析型证明系统，则要求更彻底地背离传统演算：超矢列的矢列成分要按不同于直觉主义或经典矢列的方式解释。此外也有人提出标签证明系统与各种表列演算。相应研究现状的详细介绍，见 Metcalfe, Olivetti, & Gabbay 2008 与 Metcalfe 2011。
+    step2: |-
+      要给基本模糊逻辑 MTL 配超矢列演算，就得把通信规则加到无收缩版直觉主义逻辑（结构逻辑里研究得很透的例子）的矢列系统上。其他模糊逻辑——尤其是 Łukasiewicz 逻辑——的分析型证明系统，则要更彻底地背离传统演算：超矢列里的矢列成分得按不同于直觉主义、经典矢列的方式来解释。此外还有标签证明系统和各种表列演算。研究现状的详细介绍，见 Metcalfe, Olivetti, & Gabbay 2008 以及 Metcalfe 2011。
+  - id: 49
+    kind: body
+    source: |-
+      ## 9. Semantics justifying truth-functionality
+    step1: |-
+      ## 9. 为真值函项性提供辩护的语义
+    step2: |-
+      ## 9 为真值函项性提供辩护的语义
+  - id: 50
+    kind: body
+    source: |-
+      It is desirable, not only from a philosophical point of view, but also to a get a better grip on potential applications of fuzzy logics to relate the meaning of intermediary truth-values and corresponding logical connectives to basic models of reasoning with vague and imprecise notions. A number of such semantics that seek to justify particular choices of truth-functional connectives have been introduced. Just two of them are briefly described here.
+    step1: |-
+      把中间真值与相应逻辑联结词的意义，同关于模糊、不精确概念推理的基本模型联系起来，是可取的；这不仅出于哲学考虑，也为了更好把握模糊逻辑的潜在应用。已有若干这样的语义，试图为特定的真值函项联结词选择提供辩护。这里只简要描述其中两个。
+    step2: |-
+      把中间真值以及相应逻辑联结词的含义，同含模糊、不精确概念的推理的基本模型挂起钩来，很有好处：不只是哲学上有意义，也能更好把握模糊逻辑的应用前景。为此已提出若干语义，替特定的真值函项联结词选择作辩护；这里只简述两个。
+  - id: 51
+    kind: body
+    source: |-
+      Voting semantics is based on the idea that different agents (voters) may coherently judge the same proposition differently. The proportion of agents that accept a proposition $\varphi$ as true may be seen as a truth-value. Without further restrictions this does not lead to a truth-functional semantics, but rather to an assignment of probabilities to propositions. But if one assigns a fixed *level of skepticism* to each agent and imposes some natural conditions that keep the judgments on logically complex statements consistent with those levels, then one can recover $\min$, $\max$, and $1-x$ as truth functions for conjunction, disjunction and negation, respectively. Details can be found in Lawry 1998.
+    step1: |-
+      投票语义基于这样的想法：不同的行动者（投票者）可以对同一命题作出一致而不同的判断。接受命题 $\varphi$ 为真的行动者比例，可以看作一个真值。不加进一步限制，这不会导致真值函项语义，而只是给命题指派概率。但如果给每个行动者指定固定的 *怀疑水平*，并施加一些自然条件，使对逻辑复合陈述的判断与这些水平保持一致，就能把 $\min$、$\max$ 与 $1-x$ 分别恢复为合取、析取与否定的真值函项。细节见 Lawry 1998。
+    step2: |-
+      投票语义的想法是：不同的行动者（投票者）可以各自一致地对同一命题作出不同判断。把接受命题 $\varphi$ 为真的人所占比例看作真值。若不加限制，这得不到真值函项语义，只会给命题指派概率。但若给每个行动者定一个固定的 *怀疑水平*，再加一些自然条件，使他们对逻辑复合陈述的判断与这些水平相容，就能把 $\min$、$\max$、$1-x$ 分别还原为合取、析取、否定的真值函项。细节见 Lawry 1998。
+  - id: 52
+    kind: body
+    source: |-
+      Another intriguing model of reasoning that provides a justification for all propositional connectives of standard Łukasiewicz logic has been introduced by Robin Giles (1974). It consists in a game, where two players, I and you, systematically reduce logically complex assertions (formulas) to simpler ones according to rules like the following:
+    step1: |-
+      另一个有趣的推理模型为 Łukasiewicz 逻辑的所有命题联结词提供了辩护，由 Robin Giles（1974）引入。它是一场博弈，两个玩家——我和“你”——按如下规则把逻辑复合断言（公式）系统地化归为更简单的断言：
+    step2: |-
+      Robin Giles（1974）提出另一个有趣的推理模型，能为 Łukasiewicz 逻辑的全部命题联结词提供辩护。这是一场博弈：两个玩家（我和“你”）按下面这类规则，把逻辑复合的断言（公式）一步步化归为更简单的断言：
+  - id: 53
+    kind: body
+    source: |-
+      - If I assert $\varphi \lor \psi$, then I have to assert either $\varphi$ or $\psi$.
+      - If I assert $\varphi \land \psi$, then you choose one of the conjuncts and I have to assert either $\varphi$ or $\psi$, accordingly.
+      - If I assert $\varphi \to \psi$, then I have to assert $\psi$ if you assert $\varphi$.
+    step1: |-
+      - 如果我断言 $\varphi \lor \psi$，那么我必须断言 $\varphi$ 或 $\psi$。
+      - 如果我断言 $\varphi \land \psi$，那么你选择一个合取项，我须相应地断言 $\varphi$ 或 $\psi$。
+      - 如果我断言 $\varphi \to \psi$，那么如果你断言 $\varphi$，我就必须断言 $\psi$。
+    step2: |-
+      - 我若断言 $\varphi \lor \psi$，就必须断言 $\varphi$ 或 $\psi$。
+      - 我若断言 $\varphi \land \psi$，就由你挑一个合取项，我相应地断言 $\varphi$ 或 $\psi$。
+      - 我若断言 $\varphi \to \psi$，那么你一旦断言 $\varphi$，我就得断言 $\psi$。
+  - id: 54
+    kind: body
+    source: |-
+      The rules for quantified statements refer to a fixed domain, assuming that there is a constant symbol for each domain element one stipulates:
+    step1: |-
+      量化陈述的规则指涉一个固定域，假定每个域元素都有一个约定的常项符号：
+    step2: |-
+      量化陈述的规则要预设一个固定域，并假定每个域元素都有约定的常项符号：
+  - id: 55
+    kind: body
+    source: |-
+      - If I assert $\forall x\, \varphi(x)$, then I have to assert $\varphi(c)$, for a constant $c$ chosen by you.
+      - If I assert $\exists x\, \varphi(x)$, then I have to assert $\varphi(c)$, for a constant $c$ chosen by myself.
+    step1: |-
+      - 如果我断言 $\forall x\, \varphi(x)$，那么对由你选定的常项 $c$，我必须断言 $\varphi(c)$。
+      - 如果我断言 $\exists x\, \varphi(x)$，那么对由我自己选定的常项 $c$，我必须断言 $\varphi(c)$。
+    step2: |-
+      - 我若断言 $\forall x\, \varphi(x)$，就得对由你选定的常项 $c$ 断言 $\varphi(c)$。
+      - 我若断言 $\exists x\, \varphi(x)$，就得对由我自己选定的常项 $c$ 断言 $\varphi(c)$。
+  - id: 56
+    kind: body
+    source: |-
+      The rules for your assertions are dual. At each state of the game an occurrence of a non-atomic formula in either the multiset of current assertions by me or by you is chosen and gets replaced by subformulas, as indicated by these rules, until only atomic assertions remain. A final game state is then evaluated according to the following betting scheme.
+    step1: |-
+      关于你的断言的规则是对偶的。在博弈的每一状态，从我的或你的当前断言多重集中选出一个非原子公式的出现，按这些规则用子公式替换它，直到只剩下原子断言。最终博弈状态再按如下下注方案评估。
+    step2: |-
+      关于你方断言的规则与此对偶。博弈每走一步，就从你或我的当前断言多重集里挑一个非原子公式的出现，按上述规则换成子公式，直到只剩原子断言。最后的博弈状态按下注方案来评估。
+  - id: 57
+    kind: body
+    source: |-
+      For each atomic formula there is a corresponding experiment which may either fail or succeed, but may show dispersion, i.e., it may yield different results when repeated. A fixed failure probability, called risk value, is assigned to each experiment and thus to each atomic formula. The players have to pay $\$$1 to the other player for each of their atomic assertion where the associated experiments fails. For any game starting with my assertion of $\varphi$ my expected overall loss of money, if we both play rationally, can be shown to correspond to the inverse of the truth-value of $\varphi$ evaluated in an interpretation of Łukasiewicz logic that assigns the inverse of the risk values as truth-values to atomic formulas. In particular, a formula is valid in Łukasiewicz logic if and only if, for every risk value assignment, I have a strategy that guarantees that my expected overall loss at the end of game is $0$ or negative.
+    step1: |-
+      对每个原子公式，都有一个相应的实验，它可能失败或成功，但可能表现出分散性，即重复时可能给出不同结果。每个实验、从而每个原子公式，都指定一个固定的失败概率，称为风险值。玩家每有一个原子断言所对应的实验失败，就要付给对方 $\$$1。对于从我的断言 $\varphi$ 开始的任何博弈，若双方都理性行事，可以证明我的期望总损失，对应于在 Łukasiewicz 逻辑的一个解释中 $\varphi$ 的真值的倒数，该解释把风险值的倒数作为真值指派给原子公式。特别地，公式在 Łukasiewicz 逻辑中有效，当且仅当对每个风险值指派，我都有一个策略能保证博弈结束时我的期望总损失为 $0$ 或负。
+    step2: |-
+      每个原子公式都对应一个实验：它可能成功，也可能失败，还可能有分散性，即重复做会给出不同结果。每个实验、因而每个原子公式，都定一个固定的失败概率，叫风险值。玩家每有一个原子断言对应的实验失败，就要付给对方 $\$$1。若博弈从我的断言 $\varphi$ 开始、双方都理性行事，可以证明我的期望总损失，等于在 Łukasiewicz 逻辑的某个解释下 $\varphi$ 真值的倒数；这个解释把风险值的倒数指派给原子公式。特别地，公式在 Łukasiewicz 逻辑中有效，当且仅当无论风险值怎么指派，我都有策略保证博弈结束时期望总损失不大于 $0$。
+  - id: 58
+    kind: body
+    source: |-
+      Christian Fermüller and George Metcalfe (2009) have pointed out a correspondence between optimal strategies in Giles’s game and cut-free proofs in a hypersequent system for Łukasiewicz logic. The game has also been extended in Fermüller & Roschger 2014 to characterize various types of (semi-)fuzzy quantifiers, intended to model natural language expressions like “about half” or “almost all”.
+    step1: |-
+      Christian Fermüller 与 George Metcalfe（2009）指出，Giles 博弈的最优策略与 Łukasiewicz 逻辑超矢列系统中的无切证明之间存在对应。该博弈还在 Fermüller & Roschger 2014 中被推广，用以刻画各种（半）模糊量词，意在为“大约一半”“几乎所有”这类自然语言表达建模。
+    step2: |-
+      Christian Fermüller 与 George Metcalfe（2009）指出，Giles 博弈的最优策略，与 Łukasiewicz 逻辑超矢列系统中的无切证明相对应。Fermüller & Roschger 2014 又把该博弈推广，用来刻画各种（半）模糊量词，以便为“大约一半”“几乎所有”这类自然语言说法建模。
+  - id: 59
+    kind: body
+    source: |-
+      Jeff Paris (2000) provided an overview over other semantics supporting various choices of truth functions; in particular, re-randomizing semantics (Hisdal 1988)[^hisdal-1988], similarity semantics (e.g., Ruspini 1991)[^ruspini-1991], acceptability semantics (Paris 1997)[^paris-1997], and approximation semantics (Paris 2000)[^paris-2000]. Let us also mention the resource-based semantics proposed in Běhounek 2009. Moreover there are different forms of evaluation games for various fuzzy logics besides the one of Giles for Łukasiewicz logic, outlined above. An overview over those semantic games was given in Fermüller 2015.
+    step1: |-
+      Jeff Paris（2000）综述了支持各种真值函项选择的其他语义；特别是重随机化语义（Hisdal 1988）[^hisdal-1988]、相似性语义（如 Ruspini 1991）[^ruspini-1991]、可接受性语义（Paris 1997）[^paris-1997] 与近似语义（Paris 2000）[^paris-2000]。还应提到 Běhounek 2009 提出的基于资源的语义。此外，除了上文概述的 Giles 为 Łukasiewicz 逻辑给出的博弈，各种模糊逻辑还有不同形式的评估博弈。Fermüller 2015 对这些语义博弈作了综述。
+    step2: |-
+      Jeff Paris（2000）综述了支持各种真值函项选择的其他语义，尤其是重随机化语义（Hisdal 1988）[^hisdal-1988]、相似性语义（如 Ruspini 1991）[^ruspini-1991]、可接受性语义（Paris 1997）[^paris-1997] 与近似语义（Paris 2000）[^paris-2000]。Běhounek 2009 提出的基于资源的语义也值得一提。另外，除上文概述的 Giles 为 Łukasiewicz 逻辑设计的博弈，各种模糊逻辑还有不同形式的评估博弈；Fermüller 2015 对这类语义博弈作了综述。
+  - id: 60
+    kind: body
+    source: |-
+      ## 10. Fuzzy logic and vagueness
+    step1: |-
+      ## 10. 模糊逻辑与模糊性
+    step2: |-
+      ## 10 模糊逻辑与模糊性
+  - id: 61
+    kind: body
+    source: |-
+      Modeling reasoning with vague predicates and propositions is often cited as the main motivation for introducing fuzzy logics. There are many alternative theories of vagueness, but there is a general agreement that the susceptibility to the sorites paradox is a main feature of vagueness. Consider the following version of the paradox:
+    step1: |-
+      为含模糊谓词与模糊命题的推理建模，常被引为引入模糊逻辑的主要动机。关于模糊性有许多替代理论，但大家普遍同意，易受连锁悖论影响是模糊性的主要特征。考虑该悖论的如下版本：
+    step2: |-
+      人们常说，引入模糊逻辑的主要动机，是要为含模糊谓词、模糊命题的推理建模。模糊性理论不少，但一般认为，容易陷入连锁悖论是模糊性的主要特征。看下面这个悖论版本：
+  - id: 62
+    kind: body
+    source: |-
+      - (1)$10^{100}$ is a huge number.
+      - (2)If $n$ is a huge number, then $n-1$ is also huge.
+    step1: |-
+      - (1)$10^{100}$ 是一个巨大的数。
+      - (2)如果 $n$ 是一个巨大的数，那么 $n-1$ 也是一个巨大的数。
+    step2: |-
+      - (1)$10^{100}$ 是个巨大的数。
+      - (2)若 $n$ 是巨大的数，则 $n-1$ 也是巨大的数。
+  - id: 63
+    kind: body
+    source: |-
+      On the face of it, it seems not to be unreasonable to accept these two assumptions. By instantiating $n$ with $10^{100}$ in (2) and applying *modus ponens* with (1) as the other premise we conclude that $10^{100}-1$ is huge. By simply repeating this type of inference we arrive at the unreasonable statement
+    step1: |-
+      表面看来，接受这两个假设似乎并非不合理。把 (2) 中的 $n$ 实例化为 $10^{100}$，并以 (1) 作另一前提应用 *肯定前件*，我们推出 $10^{100}-1$ 是巨大的。只要重复这类推理，就会到达不合理的陈述
+    step2: |-
+      乍看之下，接受这两个假设并不算不合理。把 (2) 里的 $n$ 换成 $10^{100}$，再拿 (1) 作另一前提用 *肯定前件*，就推出 $10^{100}-1$ 是巨大的。照这样一路推下去，便得到不合理的陈述
+  - id: 64
+    kind: body
+    source: |-
+      - (3)$0$ is a huge number.
+    step1: |-
+      - (3)$0$ 是一个巨大的数。
+    step2: |-
+      - (3)$0$ 是个巨大的数。
+  - id: 65
+    kind: body
+    source: |-
+      Fuzzy logic suggests an analysis of the *sorites paradox* that respects the intuition that statement (2), while arguably not totally true, is almost true.
+    step1: |-
+      模糊逻辑提供了一种对 *连锁悖论* 的分析，它尊重这样的直觉：陈述 (2) 虽说不上完全真，却几乎是真。
+    step2: |-
+      模糊逻辑对 *连锁悖论* 给出一种分析，照顾到这样一个直觉：陈述 (2) 虽然算不上完全真，但几乎是真的。
+  - id: 66
+    kind: body
+    source: |-
+      There are various ways to model this form of reasoning in t-norm-based fuzzy logics that dissolve the paradox. For example, one may declare that any instance of *modus ponens* is sound if the degree of truth of the conclusion is not lower than that of the strong conjunction of its premises.[^note-5] As indicated, one stipulates that every instance of (2) is true to degree $1-\epsilon$, for some very small number $\epsilon$. Even if we declare (1) to be perfectly true, the statement that $10^{100}-1$ is huge, too, might then be less than perfectly true without sacrificing the soundness of instantiation and *modus ponens*. If, moreover, the degree of truth of the conjunction of two not perfectly true (and not perfectly false) statements is less than that of each conjunct, we may safely declare that statement (3) is perfectly false and nevertheless insist on the soundness of each step in the indicated chain of inferences. Informally speaking, the paradox disappears by assuming that repeatedly decreasing some perfectly huge number by a small amount leads to numbers of which it is less and less true that they are huge too.
+    step1: |-
+      在基于 t-范数的模糊逻辑中，有各种方式为这种推理建模并消解该悖论。例如，可以规定：只要结论的真值度不低于其前提的强合取的真值度，任何 *肯定前件* 实例都是可靠的。[^note-5] 如前所示，人们规定 (2) 的每个实例都以 $1-\epsilon$ 的程度为真，其中 $\epsilon$ 是某个非常小的数。即便我们宣布 (1) 完全真，“$10^{100}-1$ 也是巨大的”这一陈述仍可能不那么完全真，而不牺牲实例化与 *肯定前件* 的可靠性。此外，若两个并非完全真（也并非完全假）的陈述之合取的真值度低于每个合取项的真值度，我们就可以放心宣布陈述 (3) 完全假，同时仍坚持上述推理链每一步都可靠。用大白话说，悖论之所以消失，是因为把某个完全巨大的数反复减去一个小量，所得的数“也是巨大的”这一点会越来越不那么真。
+    step2: |-
+      在基于 t-范数的模糊逻辑里，有好几种办法给这种推理建模并消解悖论。比如可以规定：只要结论的真值度不低于其前提强合取的真值度，任何 *肯定前件* 实例都算可靠。[^note-5] 如前所说，规定 (2) 的每个实例都以 $1-\epsilon$ 的程度为真，$\epsilon$ 是某个很小的数。这样，即便宣布 (1) 完全真，“$10^{100}-1$ 也是巨大的”仍可能不是完全真，而实例化和 *肯定前件* 的可靠性并不受损。再者，若两个不完全真（也不完全假）的陈述，其合取的真值度低于任一合取项，我们就可以放心宣布 (3) 完全假，同时仍坚持推理链每一步都可靠。通俗地说，悖论之所以消失，是因为把一个完全巨大的数反复减去一小点，得到的数“也是巨大的”会越来越不那么真。
+  - id: 67
+    kind: body
+    source: |-
+      An alternative truth-degree-based solution to the *sorites paradox* has been proposed in Hájek & Novák 2003. They introduce a new truth-functional connective modeling the expression “it is almost true that”. In this manner they formalize *sorites*-style reasoning within an axiomatic theory of an appropriate t-norm-based fuzzy logic.
+    step1: |-
+      Hájek & Novák 2003 提出了另一种基于真值度的 *连锁悖论* 解决方案。他们引入一个新联结词，为“几乎真的是”这一表达建模。这样，他们就在一个适当的基于 t-范数的模糊逻辑的公理理论中形式化了 *连锁* 式推理。
+    step2: |-
+      Hájek & Novák 2003 另提出一种基于真值度的 *连锁悖论* 解法：引入一个新联结词，替“几乎可以说是”这一说法建模。这样，他们就在合适的基于 t-范数的模糊逻辑里，用公理理论形式化了 *连锁* 式推理。
+  - id: 68
+    kind: body
+    source: |-
+      Nicholas J.J. Smith (2005 and 2008) has argued that the so-called *closeness principle* captures the essence of vagueness. It expresses that statements of the same form about indistinguishable objects should remain close in respect of truth. It is a hallmark of many approaches to the sorites paradox that employ fuzzy logic that they are compatible with this principle.[^note-6]
+    step1: |-
+      Nicholas J.J. Smith（2005、2008）主张，所谓 *接近原则* 抓住了模糊性的本质。它说的是：关于不可区分对象的同形式陈述，在真值上应当保持接近。许多用模糊逻辑处理连锁悖论的方法都有一个标志性特征：它们与该原则相容。[^note-6]
+    step2: |-
+      Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 *接近原则* 里：关于不可区分对象的同形式陈述，在真值上应当彼此接近。许多借助模糊逻辑处理连锁悖论的进路，其标志之一正是与该原则相容。[^note-6]
+  - id: 69
+    kind: oir
+    source: |-
+      - Hajek, Petr, “Fuzzy Logic”, *The Stanford Encyclopedia of Philosophy* (Fall 2016 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2016/entries/logic-fuzzy/](https://plato.stanford.edu/archives/fall2016/entries/logic-fuzzy/)>. [This was the previous entry on fuzzy logic in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-fuzzy).]
+    step1: |-
+      - Hajek, Petr, “Fuzzy Logic”, *The Stanford Encyclopedia of Philosophy* (Fall 2016 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2016/entries/logic-fuzzy/](https://plato.stanford.edu/archives/fall2016/entries/logic-fuzzy/)>. [这是《斯坦福哲学百科全书》此前关于模糊逻辑的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-fuzzy)。]
+    step2: |-
+      - Hajek, Petr, “Fuzzy Logic”, *The Stanford Encyclopedia of Philosophy* (Fall 2016 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2016/entries/logic-fuzzy/](https://plato.stanford.edu/archives/fall2016/entries/logic-fuzzy/)>. [这是《斯坦福哲学百科全书》先前关于模糊逻辑的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-fuzzy)。]
+  - id: 70
+    kind: note
+    source: |-
+      [^note-1]: Note that truth-functionality implies that degrees of truth cannot be interpreted as probabilities or degrees of beliefs, since the latter do not combine functionally: the probability that “The sun shines at noon tomorrow and it rains at midnight” is not (just) determined by the probabilities of the two indicated events, since they are not independent in general.
+    step1: |-
+      [^note-1]: 注意，真值函项性意味着真值度不能被解释为概率或信念度，因为后者不以函项方式结合：“明天中午太阳照耀且午夜下雨”的概率，并不（只）由两个所示事件的概率决定，因为它们一般并不独立。
+    step2: |-
+      [^note-1]: 要注意，真值函项性意味着真值度不能解释为概率或信念度，因为后者不是按函项方式结合的：“明天中午出太阳、午夜下雨”的概率，并不（只）由这两个事件的概率决定，因为它们一般并不独立。
+  - id: 71
+    kind: note
+    source: |-
+      [^note-2]: The equivalence does not hold for infinite sets of premises. Perhaps surprisingly, the general consequence relation is nevertheless compact in the usual sense: an infinite set of formulas is satisfiable, i.e., there is an evaluation evaluating all its formulas to $1$, whenever each finite subset is satisfiable.
+    step1: |-
+      [^note-2]: 这个等价关系对无限前提集不成立。也许令人意外的是，一般后承关系仍是通常意义上的紧致的：一个无限公式集可满足，即存在一个赋值把它的所有公式都赋值为 $1$，只要每个有限子集都可满足。
+    step2: |-
+      [^note-2]: 这个等价对于无限前提集不成立。不过也许出人意料，一般的后承关系仍是通常意义上的紧致：只要每个有限子集都可满足，无限公式集就可满足——也就是存在一个赋值，把其中所有公式都赋值为 $1$。
+  - id: 72
+    kind: note
+    source: |-
+      [^note-3]: This follows from the residuation property and the intuition that an implication should be true if and only if the truth value of its consequent is at least as high as that of its antecedent. Indeed: $x\leq y$ iff $x \ast 1 \leq y $ iff $1 \leq x\Rightarrow y$ iff $x\Rightarrow y = 1$.
+    step1: |-
+      [^note-3]: 这由剩余性质以及如下直觉推出：一个蕴涵为真，当且仅当其后件的真值至少与前件一样高。确实：$x\leq y$ 当且仅当 $x \ast 1 \leq y $ 当且仅当 $1 \leq x\Rightarrow y$ 当且仅当 $x\Rightarrow y = 1$。
+    step2: |-
+      [^note-3]: 这从剩余性质加上一个直觉推得：蕴涵为真，当且仅当其后续真值不低于前件。确实：$x\leq y$ 当且仅当 $x \ast 1 \leq y $ 当且仅当 $1 \leq x\Rightarrow y$ 当且仅当 $x\Rightarrow y = 1$。
+  - id: 73
+    kind: note
+    source: |-
+      [^note-4]: An algebra $\mathbf A$ with domain [0,1] where $\wedge, \vee, \overline{0}, \overline{1}$ are $\min$, $\max$, $0$, and $1$, respectively, is an MTL-algebra if and only if $\&$ is a left-continuous t-norm and $\to$ its residuum. Taking any MTL-algebra $\mathbf A$ and defining evaluations as homomorphisms from formulas to $\mathbf A$, we can introduce the consequence relation $\models_{\mathbf A}$ in a similar fashion as done for MTL, that is, as preservation of the designated value $\overline{1}$. Then $\Gamma\vdash_\mathrm{MTL}\varphi$ iff $\Gamma\models_{\mathbf A}\varphi$ for each MTL-algebra $\mathbf A$.
+    step1: |-
+      [^note-4]: 一个以 [0,1] 为域、其中 $\wedge, \vee, \overline{0}, \overline{1}$ 分别为 $\min$, $\max$, $0$, $1$ 的代数 $\mathbf A$，是 MTL-代数当且仅当 $\&$ 是左连续 t-范数且 $\to$ 是其剩余。取任意 MTL-代数 $\mathbf A$，把赋值定义为从公式到 $\mathbf A$ 的同态，就可以像对 MTL 那样引入后承关系 $\models_{\mathbf A}$，即指定值 $\overline{1}$ 的保持。于是，对每个 MTL-代数 $\mathbf A$，$\Gamma\vdash_\mathrm{MTL}\varphi$ 当且仅当 $\Gamma\models_{\mathbf A}\varphi$。
+    step2: |-
+      [^note-4]: 设代数 $\mathbf A$ 的域为 [0,1]，$\wedge, \vee, \overline{0}, \overline{1}$ 分别是 $\min$, $\max$, $0$, $1$；则它是 MTL-代数，当且仅当 $\&$ 是左连续 t-范数、$\to$ 是其剩余。任取 MTL-代数 $\mathbf A$，把赋值定义为公式到 $\mathbf A$ 的同态，便可像对 MTL 那样引入后承关系 $\models_{\mathbf A}$，即保持指定值 $\overline{1}$。于是对每个 MTL-代数 $\mathbf A$，$\Gamma\vdash_\mathrm{MTL}\varphi$ 当且仅当 $\Gamma\models_{\mathbf A}\varphi$。
+  - id: 74
+    kind: note
+    source: |-
+      [^note-5]: This amounts to require that the formula $\varphi \mathbin{\&} (\varphi \to \psi) \to \psi$ is a tautology, which is actually the case in usual fuzzy logics.
+    step1: |-
+      [^note-5]: 这等于要求公式 $\varphi \mathbin{\&} (\varphi \to \psi) \to \psi$ 是重言式，而在通常的模糊逻辑中确实如此。
+    step2: |-
+      [^note-5]: 这等于要求 $\varphi \mathbin{\&} (\varphi \to \psi) \to \psi$ 是重言式；在通常的模糊逻辑里，它确实是。
+  - id: 75
+    kind: note
+    source: |-
+      [^note-6]: This is in particular the case for formulations that are based on Łukasiewicz logic, where all connectives have continuous truth functions. Note, however, that the closeness principle arguably is not compatible with fuzzy logics like Gödel logic, that only refer to the relative *order* of truth values, but not to their metric distance.
+    step1: |-
+      [^note-6]: 对于基于 Łukasiewicz 逻辑、所有联结词都有连续真值函项的表述，情形尤其如此。但要注意，接近原则大概与 Gödel 逻辑之类模糊逻辑不相容：后者只涉及真值的相对 *顺序*，不涉及它们的度量距离。
+    step2: |-
+      [^note-6]: 基于 Łukasiewicz 逻辑、所有联结词都有连续真值函项的表述，尤其如此。但要注意，接近原则大概与 Gödel 逻辑这类模糊逻辑不相容：后者只看真值的相对 *顺序*，不管它们之间的度量距离。
