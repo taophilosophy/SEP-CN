@@ -2,7 +2,7 @@
   "slug": "zeno-elea",
   "kind": "retranslate",
   "zh_doc": "z/zeno-elea.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-08T23:08:12Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "Z-main-20261110",
+      "at": "2026-11-09T17:39:52Z",
+      "evidence": "断点收编: draft 由 Z2-main-20261109 完成(账本65段双版+compose 301行,未及登记即中断); 本会话核验: lq.py check 守恒过(SOFT 机械段+斜体转书名号留痕), compose dry-run 与成稿身份对位(604 行 diff 系 CRLF+前会话 32 段 s1/s2 实修, 以成稿为工作对象)"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "Z-main-20261110",
+      "at": "2026-11-09T17:39:53Z",
+      "evidence": "逐节对照 yuanwen/z/zeno-elea.md 全文核销(导语+§1-3+引块+尾部节): 生卒/年代/DK与 Stephanus 编号/引注组/脚注键逐项一致; 实修1处: 行39 pertains primarily 漏译+specifically 补回(三连的 de-chain 同步解除); 图1-4/表格/学术工具四行/相关词条7项与源对位; 残留外文碎片0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "Z-main-20261110",
+      "at": "2026-11-09T17:42:16Z",
+      "evidence": "check_prose 0 告警(行39 de-chain 三连的实修解除: 破折号插断改有所报道结构, 的密度降为3且无0-12字窗口三连); 前会话 32 段 s2 实修沿用(长句拆分/定语链拆分/破折号改句号, compose 对位已核); 脱稿通读: 全文中文顺畅, 无欧化残留"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "Z-main-20261110",
+      "at": "2026-11-09T17:42:17Z",
+      "evidence": "check_style 0 issue; check_prose 0; check_math missing/unbalanced 均空; check_academic --strict 0 硬错误(在途豁免1); H1 与 SUMMARY 一致; 脚注键与 yuanwen 逐字符一致(现制 References 引用注释); 弯引号/半角空格/禁HTML过; markdownlint 由 CI 复核"
     }
   ],
   "blockers": [],

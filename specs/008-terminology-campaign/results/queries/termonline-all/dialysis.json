@@ -1,0 +1,348 @@
+{
+ "key": "dialysis",
+ "term": "dialysis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T17:40:40+00:00",
+ "status": "ok",
+ "note": "variant=dialysis; 审定公布名词库=2118; 海峡两岸名词对照库=795; 其他来源数据库=69; 预公布名词数据库=143; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": "11.0022",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_分离纯化技术_分散与简单分离"
+  },
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": "05.176",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_重症监护与治疗_急性肾衰竭和血液透析"
+  },
+  {
+   "cn": "渗析",
+   "en": "dialysis",
+   "code": "03.0139",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品工程_食品专用技术与装备_浓缩与分离"
+  },
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": "03.198",
+   "standard": "烧伤学名词",
+   "subject": "烧伤学_烧伤并发症_烧伤后肾损伤"
+  },
+  {
+   "cn": "渗析",
+   "en": "dialysis",
+   "code": "03.0937",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": "03.0805",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学分析"
+  },
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": "02.345",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_肾脏病学"
+  },
+  {
+   "cn": "渗析",
+   "en": "dialysis",
+   "code": "03.589",
+   "standard": "化学工程名词",
+   "subject": "化学工程_传递过程与单元操作_传质分离过程_膜分离"
+  },
+  {
+   "cn": "透析导管",
+   "en": "dialysis catheter",
+   "code": "25.549",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_血管外科"
+  },
+  {
+   "cn": "透析模式",
+   "en": "dialysis modality",
+   "code": "11.049",
+   "standard": "器官移植学名词",
+   "subject": "器官移植学_肾移植_肾移植受者评估"
+  },
+  {
+   "cn": "透析性头痛",
+   "en": "dialysis headache",
+   "code": "11.056",
+   "standard": "神经病学名词",
+   "subject": "神经病学_头痛"
+  },
+  {
+   "cn": "透析脑病",
+   "en": "dialysis encephalopathy",
+   "code": "16.019",
+   "standard": "神经病学名词",
+   "subject": "神经病学_内科疾病合并神经系统损害"
+  },
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "透析",
+   "en": "dialysis",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "透析管(=透析袋)",
+   "en": "dialysis tube(=dialysis bag)",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "透析槽",
+   "en": "dialysis cell",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "透析培养",
+   "en": "dialysis culture",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "透析袋",
+   "en": "dialysis bag",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "分级渗析",
+   "en": "fractional dialysis",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "压力渗析法",
+   "en": "pressure dialysis",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "反向透析",
+   "en": "reverse dialysis",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "腹膜透析",
+   "en": "Peritoneal dialysis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分析",
+   "en": "Analysis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "泛函分析",
+   "en": "Functional Analysis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数值分析",
+   "en": "Numerical analysis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词法分析",
+   "en": "lexical analysis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主题分析",
+   "en": "Thematic analysis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "元分析",
+   "en": "meta-analysis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "相关分析",
+   "en": "correlation analysis",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "情感分析",
+   "en": "sentiment analysis",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "需求分析",
+   "en": "requirement analysis",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "过程分析法",
+   "en": "process analysis",
+   "code": "1.0604",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "仪器分析",
+   "en": "instrumental analysis",
+   "code": "6.1.13",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "联合分析",
+   "en": "pooled analysis",
+   "code": "4.4.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "活化分析",
+   "en": "activation analysis",
+   "code": "5.3.1.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术"
+  },
+  {
+   "cn": "安全分析",
+   "en": "safety analysis",
+   "code": "6.1.6.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_分析评估"
+  },
+  {
+   "cn": "叙事分析",
+   "en": "narrative analysis",
+   "code": "1.2.1.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "code": "1.2.1.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "谈话分析",
+   "en": "conversation analysis",
+   "code": "1.2.1.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "code": "1.2.1.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "数据分析",
+   "en": "data analysis",
+   "code": "1.2.5.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "code": "1.2.5.78",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "code": "1.2.5.82",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
