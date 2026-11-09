@@ -1771,94 +1771,128 @@ segments:
     kind: body
     source: |-
       ### 5.1 Definition of the Concept of Admissible Set
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 可容许集概念的定义
+    step2: |-
+      ### 5.1 可容许集概念的定义
   - id: 192
     kind: body
     source: |-
       A nonempty transitive set *A* is said to be *admissible* when the following conditions are satisfied:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非空传递集 *A* 称为 *可容许的*，如果下列条件满足：
+    step2: |-
+      非空传递集 *A* 叫 *可容许的*，如果满足下列条件：
   - id: 193
     kind: body
     source: |-
       1. if *a, b* ∈ *A*, then {*a, b*} ∈ *A* and ∪*A* ∈ *A*;
       2. if *a* ∈ *A* and *X* ⊆ *A* is Δ₀ on *A*, then *X* ∩ *a* ∈ *A*;
       3. if *a* ∈ *A*, *X* ⊆ *A* is Δ₀ on *A*, and ∀*x*∈*a*∃*y*(<*x*,*y*> ∈ *X*), then, for some *b* ∈ *A*, ∀*x*∈*a*∃*y*∈*b*(<*x*,*y*> ∈ *X*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 若 *a, b* ∈ *A*，则 {*a, b*} ∈ *A* 且 ∪*A* ∈ *A*；
+      2. 若 *a* ∈ *A* 且 *X* ⊆ *A* 在 *A* 上 Δ₀，则 *X* ∩ *a* ∈ *A*；
+      3. 若 *a* ∈ *A*，*X* ⊆ *A* 在 *A* 上 Δ₀，且 ∀*x*∈*a*∃*y*(<*x*,*y*> ∈ *X*)，则存在 *b* ∈ *A*，使 ∀*x*∈*a*∃*y*∈*b*(<*x*,*y*> ∈ *X*)。
+    step2: |-
+      1. 若 *a, b* ∈ *A*，则 {*a, b*} ∈ *A* 且 ∪*A* ∈ *A*；
+      2. 若 *a* ∈ *A* 且 *X* ⊆ *A* 在 *A* 上 Δ₀，则 *X* ∩ *a* ∈ *A*；
+      3. 若 *a* ∈ *A*，*X* ⊆ *A* 在 *A* 上 Δ₀，且 ∀*x*∈*a*∃*y*(<*x*,*y*> ∈ *X*)，则存在 *b* ∈ *A*，使 ∀*x*∈*a*∃*y*∈*b*(<*x*,*y*> ∈ *X*)。
   - id: 194
     kind: body
     source: |-
       Condition (ii) — the Δ₀-*separation scheme* — is a restricted version of Zermelo's axiom of separation. Condition (iii) — a similarly weakened version of the axiom of replacement — may be called the Δ₀-*replacement scheme*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      条件 (ii)——Δ₀-*分离模式*——是策梅洛分离公理的一个限制版本。条件 (iii)——替换公理的一个类似弱化版本——可以称为 Δ₀-*替换模式*。
+    step2: |-
+      条件 (ii)——Δ₀-*分离模式*——是策梅洛分离公理的限制版。条件 (iii)——替换公理的类似弱化版——可叫 Δ₀-*替换模式*。
   - id: 195
     kind: body
     source: |-
       It is quite easy to see that if *A* is a transitive set such that <*A*, ∈ | *A*> is a model of ZFC, then *A* is admissible. More generally, the result continues to hold when the power set axiom is omitted from ZFC, so that both *H*(ω) and *H*(ω₁) are admissible. However, since the latter is uncountable, the Barwise compactness theorem fails to apply to it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      很容易看出，若 *A* 是传递集，使 ⟨*A*, ∈ | *A*⟩ 是 ZFC 的模型，则 *A* 可容许。更一般地，从 ZFC 中删去幂集公理，该结果仍成立，因此 *H*(ω) 与 *H*(ω₁) 都可容许。然而，后者不可数，Barwise 紧致性定理不适用于它。
+    step2: |-
+      很容易看出：若 *A* 是传递集，且 ⟨*A*, ∈ | *A*⟩ 是 ZFC 的模型，则 *A* 可容许。更一般地，从 ZFC 删去幂集公理，结论仍成立，所以 *H*(ω) 与 *H*(ω₁) 都可容许。只是后者不可数，Barwise 紧致性定理用不上。
   - id: 196
     kind: body
     source: |-
       ## 6. Historical and Bibliographical Remarks
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 历史与文献评论
+    step2: |-
+      ## 6 历史与文献评论
   - id: 197
     kind: body
     source: |-
       §§1 and 2. Infinitary propositional and predicate languages seem to have made their first explicit appearance in print with the papers of Scott and Tarski [1958] and Tarski [1958]. The completeness theorem for L(ω₁,ω), as well as for other infinitary languages, was proved by Karp [1964]. The Hanf number calculations for L(ω₁,ω) were first performed by Morley [1965]. The nondefinability of well-orderings in finite-quantifier languages was proved by Karp [1965] and Lopez-Escobar [1966]. The interpolation theorem for L(ω₁,ω) was proved by Lopez-Escobar [1965] and Scott's isomorphism theorem for L(ω₁,ω) by Scott [1965]. Negri [2021] extends the idea of geometric logic originating in topos theory to L(ω₁,ω).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第 1、2 节。无穷命题语言与谓词语言似乎最早明确见于 Scott 与 Tarski [1958] 以及 Tarski [1958] 的论文。L(ω₁,ω) 以及其他无穷语言的完全性定理由 Karp [1964] 证明。L(ω₁,ω) 的 Hanf 数计算最早由 Morley [1965] 做出。有穷量词语言中良序不可定义，由 Karp [1965] 与 Lopez-Escobar [1966] 证明。L(ω₁,ω) 的插值定理由 Lopez-Escobar [1965] 证明，L(ω₁,ω) 的 Scott 同构定理由 Scott [1965] 证明。Negri [2021] 把源于拓扑斯理论的几何逻辑思想推广到 L(ω₁,ω)。
+    step2: |-
+      第 1、2 节。无穷命题语言与谓词语言，似乎最早明确见于 Scott 与 Tarski [1958]、Tarski [1958] 的论文。L(ω₁,ω) 及其他无穷语言的完全性定理由 Karp [1964] 证明；L(ω₁,ω) 的 Hanf 数计算最早由 Morley [1965] 做出；有穷量词语言中良序不可定义，由 Karp [1965] 与 Lopez-Escobar [1966] 证明；L(ω₁,ω) 的插值定理由 Lopez-Escobar [1965] 证明，其 Scott 同构定理由 Scott [1965] 证明。Negri [2021] 把源于拓扑斯理论的几何逻辑思想推广到 L(ω₁,ω)。
   - id: 198
     kind: body
     source: |-
       Karp's partial isomorphism theorem was first proved in Karp [1965]; see also Barwise [1973]. Result (2.2) appears in Chang [1968], result (2.3) in Ellentuck [1976] and result (2.4) in Bell [1981].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Karp 的部分同构定理最早在 Karp [1965] 中证明；另见 Barwise [1973]。结果 (2.2) 见于 Chang [1968]，结果 (2.3) 见于 Ellentuck [1976]，结果 (2.4) 见于 Bell [1981]。
+    step2: |-
+      Karp 的部分同构定理最早在 Karp [1965] 中证明，另见 Barwise [1973]。结果 (2.2) 见 Chang [1968]，(2.3) 见 Ellentuck [1976]，(2.4) 见 Bell [1981]。
   - id: 199
     kind: body
     source: |-
       §3. Results (3.2) and (3.3) are due to Hanf [1964], with some refinements by Lopez-Escobar [1966] and Dickmann [1975], while (3.4) was proved by Tarski. Result (3.5) is due to Scott [1961], (3.6) to Bell [1970] and [1972]; and (3.7) to Bell [1974]. Measurable cardinals were first considered by Ulam [1930] and Tarski [1939]. The fact that measurable cardinals are weakly compact was noted in Tarski [1962].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第 3 节。结果 (3.2) 与 (3.3) 归功于 Hanf [1964]，Lopez-Escobar [1966] 与 Dickmann [1975] 作了一些改进；而 (3.4) 由 Tarski 证明。结果 (3.5) 归功于 Scott [1961]，(3.6) 归功于 Bell [1970] 与 [1972]，(3.7) 归功于 Bell [1974]。可测基数最早由 Ulam [1930] 与 Tarski [1939] 考虑。可测基数是弱紧致的这一事实，在 Tarski [1962] 中被指出。
+    step2: |-
+      第 3 节。结果 (3.2)、(3.3) 归功于 Hanf [1964]，Lopez-Escobar [1966] 与 Dickmann [1975] 有所改进；(3.4) 由 Tarski 证明；(3.5) 归功于 Scott [1961]，(3.6) 归功于 Bell [1970]、[1972]，(3.7) 归功于 Bell [1974]。可测基数最早由 Ulam [1930] 与 Tarski [1939] 考虑；可测基数弱紧致这一事实，见 Tarski [1962]。
   - id: 200
     kind: body
     source: |-
       §4. Concerning the undefinability theorem for L(ω₁,ω₁). Carol Karp remarks (1964, 166), “At the International Congress of Logic, Methodology and the Philosophy of Science at Stanford University in 1960, Dana Scott circulated an outline of a proof of the impossibility of a complete definable formal system for (γ+, γ+) languages with a single two-place predicate symbol in addition to the equality symbol.” Scott never published his result, and a fully detailed proof first appeared in Karp [1964]. The approach to the theorem adopted here is based on the account given in Dickmann [1975].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第 4 节。关于 L(ω₁,ω₁) 的不可定义性定理。Carol Karp 评论道（1964, 166）：“1960 年在斯坦福大学举行的国际逻辑、方法论与科学哲学大会上，Dana Scott 散发了一份证明纲要，证明除等号外再加单个二元谓词符号的 (γ+, γ+) 语言不可能有完全可定义的形式系统。”Scott 从未发表其结果，完整详细的证明最早出现在 Karp [1964]。本文采用的处理定理的路线，基于 Dickmann [1975] 的论述。
+    step2: |-
+      第 4 节。关于 L(ω₁,ω₁) 的不可定义性定理。Carol Karp 说（1964, 166）：“1960 年斯坦福大学国际逻辑、方法论与科学哲学大会上，Dana Scott 散发了一份证明纲要，证明除等号外再加单个二元谓词符号的 (γ+, γ+) 语言，不可能有完全可定义的形式系统。”Scott 从未发表该结果，完整详细的证明最早见于 Karp [1964]。本文处理该定理的路线，依据 Dickmann [1975] 的论述。
   - id: 201
     kind: body
     source: |-
       §5. The original motivation for the results presented in this section came from Kreisel; in his [1965] he pointed out that there were no compelling grounds for choosing infinitary formulas solely on the grounds of “length”, and proposed instead that definability or “closure” criteria be employed. Kreisel's suggestion was taken up with great success by Barwise [1967], where his compactness theorem was proved. The notion of admissible set is due to Platek [1966]. Theorem (5.6) is taken from Keisler [1974].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第 5 节。本节结果的原初动机来自 Kreisel；他在 [1965] 中指出，仅凭“长度”来选择无穷公式没有令人信服的理由，并提议改用可定义性或“封闭性”判据。Kreisel 的建议被 Barwise [1967] 极为成功地采纳，其紧致性定理正是在那里证明的。可容许集概念归功于 Platek [1966]。定理 (5.6) 取自 Keisler [1974]。
+    step2: |-
+      第 5 节。本节结果的原初动机来自 Kreisel：他在 [1965] 指出，仅凭“长度”挑无穷公式没有过硬理由，提议改用可定义性或“封闭性”判据。Barwise [1967] 极为成功地接过了这个建议，其紧致性定理就在那里证明。可容许集概念归功于 Platek [1966]；定理 (5.6) 取自 Keisler [1974]。
   - id: 202
     kind: body
     source: |-
       For further reading on the subject of infinitary languages, see Aczel [1973], Dickmann [1975], Karp [1964], Keisler [1974], and Makkai [1977]. A useful account of the connection between infinitary languages and large cardinals can be found in Chapter 10 of Drake [1974].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于无穷语言主题的进一步阅读，见 Aczel [1973]、Dickmann [1975]、Karp [1964]、Keisler [1974] 与 Makkai [1977]。关于无穷语言与大基数之间联系的有用论述，见 Drake [1974] 第 10 章。
+    step2: |-
+      无穷语言的进一步阅读，见 Aczel [1973]、Dickmann [1975]、Karp [1964]、Keisler [1974]、Makkai [1977]；无穷语言与大基数之间联系的有用论述，见 Drake [1974] 第 10 章。
   - id: 203
     kind: oir
     source: |-
       - [A Primer on Infinitary Logic](http://homepages.math.uic.edu/~marker/inf.pdf), by David Marker (Mathematics, Statistics, and Computer Science, University of Illinois/Chicago).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [A Primer on Infinitary Logic](http://homepages.math.uic.edu/~marker/inf.pdf)，David Marker 著（伊利诺伊大学芝加哥分校数学、统计与计算机科学系）。
+    step2: |-
+      - [A Primer on Infinitary Logic](http://homepages.math.uic.edu/~marker/inf.pdf)，David Marker 著（伊利诺伊大学芝加哥分校数学、统计与计算机科学系）。
   - id: 204
     kind: note
     source: |-
       [^note-1]: Observe, however, that while the formation rules for L(κ,λ) allow the deployment of infinitely many quantifiers, each preformula can contain only finitely many *alternations* of quantifiers. Languages permitting infinite quantifier alternations have been developed in the literature, but we shall not discuss them here.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 但要注意：虽然 L(κ,λ) 的构造规则允许部署无穷多个量词，每个前公式却只能含有有穷多次量词 *交替*。文献中已发展出允许无穷量词交替的语言，但这里不讨论。
+    step2: |-
+      [^note-1]: 但要注意：L(κ,λ) 的构造规则虽允许部署无穷多个量词，每个前公式却只能含有有穷多次量词 *交替*。文献中已有允许无穷量词交替的语言，这里不讨论。
   - id: 205
     kind: note
     source: |-
       [^note-2]: This remark loses its force when the base language contains predicate symbols with infinitely many argument places. However, this possibility is excluded here since our base language is a conventional first-order language.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 当基础语言含有无穷多元谓词符号时，这个评论就失去力量。但这里排除了这种可能性，因为我们的基础语言是通常的一阶语言。
+    step2: |-
+      [^note-2]: 若基础语言含无穷多元谓词符号，这个评论就站不住了。但这里排除这种可能，因为我们的基础语言是通常的一阶语言。
   - id: 206
     kind: note
     source: |-
@@ -1877,47 +1911,91 @@ segments:
       > | --- | --- | --- |
 
       for which ƒ_{*i*} = *h* ○ σ_{*i*} for all *i* ∈ *I*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 对象 *A* 的 *I*-*重* 余积是一个对象
+
+      > ∐_{*I*} *A*
+
+      连同箭头
+
+      > | *A* | →_{σ}*i* | ∐_{*I*}*A* | (*i* ∈ *I*) |
+      > | --- | --- | --- | --- |
+
+      使得对任何箭头 ƒ_{*i*} : *A* → *B*（*i* ∈ *I*），存在唯一箭头
+
+      > | ∐_{*I*}*A* | →_{*h*} | *B* |
+      > | --- | --- | --- |
+
+      满足对所有 *i* ∈ *I* 都有 ƒ_{*i*} = *h* ○ σ_{*i*}。
+    step2: |-
+      [^note-3]: 对象 *A* 的 *I*-*重* 余积是一个对象
+
+      > ∐_{*I*} *A*
+
+      连同箭头
+
+      > | *A* | →_{σ}*i* | ∐_{*I*}*A* | (*i* ∈ *I*) |
+      > | --- | --- | --- | --- |
+
+      使得对任何箭头 ƒ_{*i*} : *A* → *B*（*i* ∈ *I*），存在唯一箭头
+
+      > | ∐_{*I*}*A* | →_{*h*} | *B* |
+      > | --- | --- | --- |
+
+      满足对所有 *i* ∈ *I* 都有 ƒ_{*i*} = *h* ○ σ_{*i*}。
   - id: 207
     kind: note
     source: |-
       [^note-4]: I.e., such that no contradictions can be derived from Δ using the deductive machinery in *P*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 也就是说，用 *P* 中的演绎机制不能从 Δ 推出矛盾。
+    step2: |-
+      [^note-4]: 也就是说，用 *P* 中的演绎机制不能从 Δ 推出矛盾。
   - id: 208
     kind: note
     source: |-
       [^note-5]: If *A* is a set, ∈ ⨡ *A* denotes the membership relation on *A*, i.e., {⟨*x, y*⟩ ∈ *A* × *A* : *x* ∈ *y*}.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: 若 *A* 是集合，∈ ⨡ *A* 表示 *A* 上的属于关系，即 {⟨*x, y*⟩ ∈ *A* × *A* : *x* ∈ *y*}。
+    step2: |-
+      [^note-5]: 若 *A* 是集合，∈ ⨡ *A* 表示 *A* 上的属于关系，即 {⟨*x, y*⟩ ∈ *A* × *A* : *x* ∈ *y*}。
   - id: 209
     kind: note
     source: |-
       [^note-6]: Strictly speaking, this is only the case when κ is *regular*, that is, not the limit of < κ cardinals each of which is < κ. In view of the fact that “most” cardinals are regular, we shall take this as read.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: 严格地说，只有当 κ *正则* 时才是如此，即 κ 不是 < κ 个各自 < κ 的基数的极限。鉴于“大多数”基数是正则的，我们姑且作此理解。
+    step2: |-
+      [^note-6]: 严格说，只有当 κ *正则* 时才如此，即 κ 不是 < κ 个各自 < κ 的基数的极限。鉴于“多数”基数正则，这里姑且如此理解。
   - id: 210
     kind: note
     source: |-
       [^note-7]: It should be pointed out, however, that there are languages L(κ,λ) apart from L(ω,ω) and L(ω₁,ω) which are complete; for example, all languages L(κ⁺,ω) and L(λ,λ) with inaccessible λ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 然而应当指出，除 L(ω,ω) 与 L(ω₁,ω) 外，还有别的完全语言 L(κ,λ)；例如所有 L(κ⁺,ω) 以及 λ 不可达的 L(λ,λ)。
+    step2: |-
+      [^note-7]: 但应指出，除 L(ω,ω) 与 L(ω₁,ω) 外，还有别的完全语言 L(κ,λ)，例如所有 L(κ⁺,ω)，以及 λ 不可达的 L(λ,λ)。
   - id: 211
     kind: note
     source: |-
       [^note-8]: This is just a consequence of the fact that a first-order deduction is a finite sequence, hence a member of *H*(ω).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: 这只是下述事实的推论：一阶演绎是有限序列，从而是 *H*(ω) 的成员。
+    step2: |-
+      [^note-8]: 这只是下述事实的推论：一阶演绎是有限序列，从而是 *H*(ω) 的成员。
   - id: 212
     kind: note
     source: |-
       [^note-9]: Take σ to be any logically false sentence!
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: 取 σ 为任何逻辑假的句子即可！
+    step2: |-
+      [^note-9]: 取 σ 为任何逻辑假的句子即可！
   - id: 213
     kind: note
     source: |-
       [^note-10]: A set *A* is *transitive* if *x* ∈ *y* ∈ *A* ⇒ *x* ∈ *A*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-10]: 集合 *A* 是 *传递的*，如果 *x* ∈ *y* ∈ *A* ⇒ *x* ∈ *A*。
+    step2: |-
+      [^note-10]: 集合 *A* 是 *传递的*，如果 *x* ∈ *y* ∈ *A* ⇒ *x* ∈ *A*。

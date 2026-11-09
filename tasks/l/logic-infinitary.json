@@ -2,7 +2,7 @@
   "slug": "logic-infinitary",
   "kind": "retranslate",
   "zh_doc": "l/logic-infinitary.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-09T14:18:35Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T18:46:24Z",
+      "evidence": "lq compose 213 段全部填毕、守恒校验通过（HARD 0）；l/logic-infinitary.md 28,633 字符；italic_to_bold_cjk 73 行；p1–p6 分批写 script/parts/，p5fix 修 163/126/98"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T18:47:01Z",
+      "evidence": "check_style l/logic-infinitary.md：0 issue（bold-spacing 17 处按体例把 κ-**X** 合并为 **κ-X**）；check_prose：2 条告警均在 59/61 行引文块（语义子句照录），ADR-0020 豁免；check_math：missing 0、unbalanced 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T18:47:02Z",
+      "evidence": "check_academic --strict：非词条 1/存根 0，0 硬错误；check_terms：硬错误 0（新增术语 31 行、人名 14 行，script/l_reg_logic_infinitary.py 登记，admissible set 与 logic-relevance 分义）；check_summary：H1 mismatch 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-09T18:47:02Z",
+      "evidence": "对照 yuanwen/l/logic-infinitary.md 逐段回读：213 段一一对应，脚注 note-1..10 密钥齐备，$ 与 ** 计数 lq check 通过；补译 191–213（5.1 可容许集定义、6 历史与文献评论、oir、注释）与 p1–p5 同步复核术语（可容许集/拓扑斯/真端扩张/弱紧致基数等）"
     }
   ],
   "blockers": [],
