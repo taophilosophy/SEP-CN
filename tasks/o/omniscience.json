@@ -2,7 +2,7 @@
   "slug": "omniscience",
   "kind": "retranslate",
   "zh_doc": "o/omniscience.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-09T01:50:10Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T14:28:10Z",
+      "evidence": "draft（本会话接管他会话遗留件）：O3-main-20261110 接手时 task 停在 cleared、账本 81 段（body 80 + oir 1）已由前会话填双版但未推进 draft 步。本会话核验后推进：lq.py check 守恒 HARD=0（SOFT 留痕：段 40/44/46/48/68/69/73 为机械段 step1==step2；段 61/69/72 斜体计数因书名号化；段 81 oir 机械段）；compose 写回 26,607 字符；italic→bold 16 行；结构五维对账 12 节/111 标记/80 defs/64 $ 全等。版本钉 May 10, 2025 / Summer 2025 / SHA-256 a9606a73…。修：段 81 源文 OIR 三行曾被误存为字面 \"\\n\" 串（源与译文皆然），本会话按 yuanwen 逐字符重建 source 并补真换行、圆点归一为星号。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T14:28:10Z",
+      "evidence": "s1 全量对照核销（81 段逐段回核 yuanwen/o/omniscience.md，段号即账本 source 段序）：实修 10 处——① 误译 1：段 55「perhaps the most widely accepted response is to accept it」原译「或许是被迫接受该论证」，is to accept≠被迫，改「最受广泛接受的一种回应，或许是接受该论证」；② 漏字段 72「particular pairs of individuals that they stand in certain relations」原译缺「之间」，改「特定个体之间处于某些关系的知识」；③ 书名统一：段 36《驳异大全》→《反异教大全》（与 omnipresence 同译；术语册新增 Summa contra Gentiles 行取此正形）；④ 外文题名照录：段 61 源文 *Philosophische Untersuchungen* 曾被译作《哲学研究》，回改为拉丁原名斜体；⑤ 人名正名：段 80 Wainwright→温赖特（册内威廉·温赖特）、段 23 亨特首次出现补括注（David Hunt，册内体例要求）；⑥ 语气/句读：段 22「或为…的又一追加成分」→「也可能成为…的又一附加成分」、段 60「先出一头」→「已有先声」、段 55「与Hoffman」补空格。结构五维：12 节、脚注标记 111:111（键集全等）、defs 80:80（键集全等）、$ 64:64、年份序列一致。术语核对：全知/完满存在神学/偶然必然性/开放神论/全主体性/此性（haecceity）/倾向性的 均合册；「现时性」按本词条语境登记为 occurrent (knowledge) 现时性的（与 dispositional 倾向性的 对举）；授知情境新登。源文疑点照录留痕：段 51「Fisher (1989)」系源文 Fischer 笔误（段 43 作 Fischer 1989），照源不擅改；段 18「Zagebski」拼写笔误亦照源。登记：人名 6 行（Farmer/Langtry/Nagasawa/Pinnock/Simmons/Torre，均 ADR-0022 保留英文）、术语 3 行。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T14:28:11Z",
+      "evidence": "s2 语言优化（check_prose 实修）：首轮告警 17 → 实修 16、豁免 1。实修分类：① de-chain 11 处（段 21/22×2/23/24/26/28/35×2/54/66）——叙述散文一律改写去「的」连用（如「这样的存在或许是 *无误的*」→「或许 *永不出错*」）；② 长句拆分 3 处（段 17 76 汉字→两句；段 55 73 汉字，破折号插入语改句号；段 67 71 汉字→两句）；③ weak-verb 1 处（段 55「对全知作出细致说明」→「给出了细致说明」）；④ plural-men 1 处（段 51「哲学家们」→「哲学家」）。豁免 1：段 17「该书的否定性主张是：“人类知识的命题式理想”把“被边缘化、被贬损的”知识形式排除在外」——两处「被」均在直引语内部，引文完整性优先（ADR-0020）。改后复跑 check_prose 仅余该 1 条。另：op_postfix.py 的 fix_defs 已收窄为「def 正文以年份+句点起头才补空行」，本条 defs 未动，仅 bullets 1 处归一为星号（MD004 0 告警）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T14:34:39Z",
+      "evidence": "s3 四检（O3-main-20261110）：check_style --docs o/omniscience.md --strict 0 issue；check_academic --strict 无硬错误（在途豁免 1；版本钉 May 10, 2025 / Summer 2025 / SHA-256 a9606a73…）；check_math omnipresence→omniscience：公式 32、缺失 0、失衡 0；check_prose 余 1 条（段 17 直引语内「被」字，ADR-0020 豁免留痕）；markdownlint-cli2 本文件 0 告警（MD004 已于 s2 归一）；check_summary 全库 1 硬错为 n/natphil-ren.md（他会话在途件，非本条产物），本条 SUMMARY 行「全知 omniscience (Edward Wierenga)」与 H1 一致。登记随本提交入库（人名 6 行 + 术语 3 行）。守恒门 81 段 HARD=0。"
     }
   ],
   "blockers": [],
