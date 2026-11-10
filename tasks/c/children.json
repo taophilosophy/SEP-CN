@@ -2,7 +2,7 @@
   "slug": "children",
   "kind": "retranslate",
   "zh_doc": "c/children.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T21:57:16Z",
       "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；文献子节（Books and Articles/Periodicals）照录合规"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T01:48:49Z",
+      "evidence": "r1 校订：pubinfo 改斜体；正文人名全面汉化（原稿学者与小说人物一律留英文，与标题已汉化不一致）——皮亚杰/马修斯/李普曼/夏普/恩尼斯/斯普利特/格雷戈里/拉弗蒂/沃滕贝格/穆里斯/海恩斯/沃利/卡姆，人物 哈里/蒂米/丽莎/劳拉/奇普/杰夫/拉里/里奇/埃米/迈克/库尔特/埃米莉/伊恩；书目式括注恢复英文（Splitter and Sharp / Gregory and Laverty / Ennis 1987）；错字「—无所知」改「的确一无所知」；参考文献 h3 英文标题改译（图书与论文／期刊）；补登人名 12 行"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T01:48:49Z",
+      "evidence": "r2 prose 21→2：de-chain 13→0、long-sentence 5→0、weak-verb 3→0（进行/作出→直陈动词），逐句核对原意后改写（L17/L21/L51/L125/L131/L137/L143/L155/L157/L165/L169/L173/L175/L181）；余 2 条为引文块（小说对白 L35、德尔菲报告 L139），按 rules/02 引文以原文标准衡量豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T01:48:50Z",
+      "evidence": "r3 复验：h2 9:9、h3 2:2（图书与论文／期刊已汉译）、脚注定义 100:100 键集一致、H1 与 SUMMARY 421 行一致、加粗记号偶数平衡、无直角引号；prose 2（引文豁免）、style 0、terms 0、academic 硬错误 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T01:48:50Z",
+      "evidence": "C 批 done 并入：三校全绿；12 行人名补登入库"
     }
   ],
   "blockers": [],

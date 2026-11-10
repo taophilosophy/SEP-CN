@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 01:38（UTC）
+生成时间：2026-11-10 01:48（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1174|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|272|
-|在途（drafted 起、done 前）|225|
+|已完成（done）|273|
+|在途（drafted 起、done 前）|224|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,13 +23,13 @@
 |状态|数量|
 |---|---|
 |pending|677|
-|cleared|152|
+|cleared|151|
 |drafted|3|
 |s1_checked|1|
 |s3_checked|65|
 |r1_reviewed|3|
 |r2_reviewed|1|
-|done|272|
+|done|273|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -37,7 +37,7 @@
 |---|---|---|---|---|
 |A|160|160|160|57|
 |B|62|62|62|15|
-|C|172|172|172|14|
+|C|172|172|172|15|
 |D|92|92|92|12|
 |E|99|99|99|19|
 |F|96|96|96|1|
@@ -134,7 +134,6 @@
 |cassirer|retranslate|s3_checked|主代理 2026-11-01|
 |certainty|retranslate|s3_checked|主代理 2026-11-01|
 |change|retranslate|s3_checked|主代理 2026-11-01|
-|children|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |chinese-phil-medicine|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
@@ -265,7 +264,7 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |logic-linear|retranslate|s3_checked|L-main-20261109c 2026-11-10|
-|logic-massexpress|retranslate|cleared|task_ops 2026-11-10|
+|logic-massexpress|retranslate|s3_checked|L-main-20261109c 2026-11-10|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
