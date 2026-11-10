@@ -140,7 +140,7 @@
 | AGM theory | — | AGM 理论 | belief-merging | AGM 研究通行（Alchourrón–Gärdenfors–Makinson 缩写不译）；凭证 2026-11-10 | 2026-11-10 |
 | agnosticism | — | 不可知论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | agreeableness | — | 宜人性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10 | 2026-11-10 |
-| Weltanschauung | — | 世界观 | dilthey 首译 | 德语原词，学界通用汉译；凭证 2026-11-10 | 2026-11-10 |
+| Weltanschauung | Weltanschauung | 世界观 | dilthey 首译 | 德语原词，学界通用汉译；凭证 2026-11-10；德语原形即键（2026-11-10 取证） | 2026-11-10 |
 | elementary understanding | — | 初级理解 | dilthey 首译 | 狄尔泰《历史世界的建构》通行（elementares Verstehen；与高级理解对举）；凭证 2026-11-10 | 2026-11-10 |
 | higher understanding | — | 高级理解 | dilthey 首译 | 狄尔泰通行（höheres Verstehen）；凭证 2026-11-10 | 2026-11-10 |
 | ideographic | — | 表意论的（与法则论的/nomothetic 对举） | dilthey 首译 | 文德尔班术语学界通行（idiographisch；历史文化科学取向）；凭证 2026-11-10 | 2026-11-10 |
@@ -4673,7 +4673,7 @@
 | upādhi | उपाधि | 假立（名义属性） | early-modern-india 首译 | 正理/因明通行义译（anthropocentric imposed property；佛典“施设”备查）；凭证 2026-11-10 | 2026-11-10 |
 | upalabdhi | उपलब्धि | 领受 | early-modern-india | 正理认知义译（apprehension；buddhi/jñāna 同义词列）；凭证 2026-11-10 | 2026-11-10 |
 | upamāna | उपमान | 譬喻量 | jayaraasi | 因明六量传统译名（与义准量 arthāpatti 同系） | 2026-11-07 |
-| Upaniṣad | — | 《奥义书》 | early-modern-india | 千年通行译名；凭证 2026-11-10 | 2026-11-10 |
+| Upaniṣad | उपनिषद् | 《奥义书》 | early-modern-india | 千年通行译名；凭证 2026-11-10；原文取证（wisdomlib.org Monier-Williams 词条显式配对 upaniṣad，2026-11-10） | 2026-11-10 |
 | upright walk | — | 直立行走 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | urelemente | — | 本元 | quine-nf | 集合论通行译名（亦作“原子”）；凭证 2026-11-09 | 2026-11-09 |
 | Urim and Tumim | — | 乌陵与土明 | crescas | 学界通行（大祭司求问器具，《圣经》译名）；凭证 2026-11-08 | 2026-11-08 |
@@ -4712,7 +4712,7 @@
 | velle / nolle / non-velle | velle / nolle / non-velle | 意愿/不意愿/不愿 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
 | Venerabilis Inceptor | Venerabilis Inceptor | 可敬的开创者（奥卡姆别号） | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
 | venesection | — | 静脉切开放血 | locke-on-medicine | 医史通行（简称“放血术”） | 2026-11-05 |
-| verbal object（sgra don，śabdārtha） | — | 声义 | epistemology-language-tibetan | 量论通行 | 2026-11-04 |
+| verbal object（sgra don，śabdārtha） | शब्दार्थ | 声义 | epistemology-language-tibetan | 量论通行；原文取证（wisdomlib.org Monier-Williams 词条显式配对 śabdārtha，2026-11-10） | 2026-11-04 |
 | verificationism | — | 证实主义 | 首现（zombies） | 学界惯例（语言哲学通行；亦作“可证实主义”，主形取证实主义）；凭证 2026-11-10 | 2026-11-10 |
 | verisimilitude | — | 逼真性 | 语料回收（lakatos 首译） | 波普尔研究通行译法（truth-likeness 亦译似真性）；凭证 2026-11-06 | 2026-11-06 |
 | Verstehen | Verstehen | 理解 | jaspers 首译 | 学界通行（狄尔泰解释学“理解/说明”二分；中文狄尔泰研究通译）；凭证 2026-11-09 | 2026-11-09 |

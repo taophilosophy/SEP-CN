@@ -67,3 +67,20 @@
 ## 附：方法与可复现性
 
 取证脚本为本地一次性工具 `script/orig_candidates.py`（`script/` 不入库，ADR-0027）；关键实现为：剥离标签后解码十进制实体（SEP 用 `&#NNNN;` 承载非拉丁字符）、按 Unicode 区块提取原生串、以转写骨架（去变音符与小写化）匹配上下文。全部数值由该脚本在 2026-11-10 的 `en/` 快照上得出，可复跑核对。
+
+## 附：2026-11-10 联网取证结果（用户裁定“自己联网查询”）
+
+| 路线 | 端点 | 结果 |
+| --- | --- | --- |
+| 梵文（Monier-Williams 聚合站 wisdomlib.org） | `https://www.wisdomlib.org/definition/<IAST 转写>`（部分 URL 保留变音符） | 页面显式天城体配对，回填 6 行：Abhidharma→अभिधर्म、Mahāvairocana→महावैरोचन、Siddhānta-muktāvalī→सिद्धान्तमुक्तावली、Vaiśeṣika-sūtra→वैशेषिकसूत्र、vyāpti-pañcaka→व्याप्तिपञ्चक、Upaniṣad→उपनिषद्；另 Śabdārtha→शब्दार्थ（verbal object 行） |
+| 拉丁/德语（原形即键） | 无需端点 | 回填 8 行：a posteriori、de dicto、de re、Mündigkeit、Weltanschauung、Wesenszusammenhänge、Vernehmungsbedürftigkeit、Schlußlehre |
+| 术语在线审定库 | 需登录浏览器会话 | **对原文列无效**：该库为中英对照，不含原生文字 |
+| 编者括注误报 6 键 | — | 移入 `ORIG_EDITORIAL_PAREN`（Gödel encoding、Ł-modal system、modal μ-calculus、ontology (Leśniewski)、proper function、chimera） |
+| 希腊文（LSJ/Logeion） | Logeion 为 JS 渲染；lsj.gr 对匿名爬取 403 | 无可达的“转写↔希腊文”显式配对端点，6 条维持待考 |
+| 藏文（THL 藏英词典） | TLS 握手失败 | 17 条维持待考（Wylie 映射被禁，只能取显式配对） |
+| 阿拉伯文（19 条） | 联网搜索命中页多为维基系镜像或无原生文字页 | 无合规显式配对来源，19 条维持待考（禁填模型记忆的阿拉伯文） |
+| 日文（6 条） | jisho.org（JMdict）匿名 API | 查无对应复合词条（Nō→能乐堂 等），维持待考 |
+
+告警轨迹：85 →（回填 12＋豁免 6）67 →（并列入会新增行、回填 Upaniṣad/Weltanschauung/Śabdārtha）**65**。取证脚本 `script/crawl_orig_evidence.py`（本地），逐词证据 JSON 在 `state/orig_evidence/`（运行态），每行依据列已附凭证。
+
+剩余 65 条的合规口径：藏文 17、阿拉伯 19、希腊 6、日文 6、梵文复合词 12、其他 5——均因“可达辞书无显式配对”留 `—`，属 ADR-0030 允许的「工具书查无」状态。
