@@ -79,7 +79,7 @@
   bunx markdownlint-cli2 --fix      # 自动修复可修复项
   ```
 
-* 纳入/豁免写在 `.markdownlint-cli2.jsonc` 的 `globs` / **`ignores`** 两键——`ignoreGlobs` 与 `overrides` 是死键（官方 README 无此键；2026-11-06 README 考据＋A/B 实测复现「静默无效」，v0.24.0 验证，排除生效时 finding 以 `!` 前缀可见）；按文件豁免用行内 `<!-- markdownlint-disable -->`。
+* 纳入/豁免写在 `.markdownlint-cli2.jsonc` 的 `globs` / **`ignores`** 两键——`ignoreGlobs` 与 `overrides` 是死键（官方 README 无此键；2026-11-06 README 考据＋A/B 实测复现“静默无效”，v0.24.0 验证，排除生效时 finding 以 `!` 前缀可见）；按文件豁免用行内 `<!-- markdownlint-disable -->`。
 * 表格风格统一 **compact**（每个单元格两侧恰一个空格，空单元格恰一个空格；MD060 `aligned` 按显示宽度计量、CJK/emoji 记 2——官方 doc/md060.md，2026-11-06 全仓整改裁定口径；表格内竖线一律转义）。
 
 ## 站点运行（本地预演）
@@ -95,7 +95,7 @@
 
 凡对登记册/目录/正文做**程序化批量改写**（生成器、重排器、批量注入），一律遵守：
 
-* **写回前置门**：改写结果存在任何未落位/未消费条目时**禁止写回**，dry-run 中止并列出明细（exit 非零）。残余计数以 **0** 为唯一通过标准；「行数守恒」「总量一致」只是必要条件，不构成通过证据。
+* **写回前置门**：改写结果存在任何未落位/未消费条目时**禁止写回**，dry-run 中止并列出明细（exit 非零）。残余计数以 **0** 为唯一通过标准；“行数守恒”“总量一致”只是必要条件，不构成通过证据。
 * **禁止静默兜底降级**：fallback（节尾追加、缺省件补位）必须显式登记清单并计入失败面；同一输入重复运行**不得追加重复行**（幂等：同 raw 已存在即跳过）。
 * **逐行身份追踪验收**：批量改写的验收=每条输入行的身份与落位坐标全量核对；只看总数（行数/字节数）不构成验收。抽查不少于 5 条且必须覆盖移动距离最大的行。
 * **基线还原强制**：改写前 `git checkout -- <目标文件>` 并以 `git diff` 校验基线干净；**多会话并行下，任何 checkout 后必须重新 `git status` 确认**（并行会话可能已再次写入）。禁止在上一轮改写输出上迭代运行。
@@ -104,7 +104,7 @@
 
 ## 本机 shell 工具纪律（2026-11-06 考据）
 
-ZCode Bash 工具在本机（Windows + Git Bash）的三条实测判据，均为静默失真类；细则与回归探针见项目记忆「本机工具坑」。
+ZCode Bash 工具在本机（Windows + Git Bash）的三条实测判据，均为静默失真类；细则与回归探针见项目记忆“本机工具坑”。
 
 * **grep 实为 ZCode 注入函数（ugrep 7.8.4）**：函数预置 `-G --ignore-files --hidden -I`（定义在会话启动脚本，晚于用户 profile），**`--ignore-files` 按 .gitignore 语义过滤**——查 `en/`、`yuanwen/`、`script/` 等被忽略路径或做全量计数会**静默假 0**。判据：用 `command grep`／`/usr/bin/grep`，或追加 `--no-ignore-files`（ugrep 后旗标优先，实测可反转）；可疑时 `type -a grep` 验身份。
 * **Bash 参数反斜杠连串减半**：MSYS argv 层把不在 `"` 前的 `\` 连串按 ceil(n/2) 减半（`\\`→`\`、`\\\\`→`\\`），quoted heredoc 不保护；单反斜杠（`\d`、sed `\t`、Windows 路径）与 `\` 紧邻 `"` 场景无损。判据：要 N 连串写 2N 个；正则块、多表达式 sed、含 `\\` 的 python 一律 Write 落盘再执行、sed 用 `-f`。
@@ -116,4 +116,4 @@ ZCode Bash 工具在本机（Windows + Git Bash）的三条实测判据，均为
 * 提交信息中文一行简述，如“重译 阿尔克迈翁：初译 + 一校”。
 * 只提交与本次工作相关的文件；原始物（`en/`、`yuanwen/`、`script/`）不入库。
 * 直接提交 main 分支；未经用户要求不 push、不做 force 操作。
-* 本机 GPG 已根治（2026-11-06 用户裁定）：私钥在 gpg4win（`C:/Program Files/GnuPG/bin/gpg.exe`）而全局曾配 `commit.gpgsign=true` 是「签名失败/挂死」根源；现已全局 `gpg.program` 指向 gpg4win 并关闭自动签名——提交默认免签、无需 `--no-gpg-sign`，需要签名时显式 `git commit -S`（交互输口令）。
+* 本机 GPG 已根治（2026-11-06 用户裁定）：私钥在 gpg4win（`C:/Program Files/GnuPG/bin/gpg.exe`）而全局曾配 `commit.gpgsign=true` 是“签名失败/挂死”根源；现已全局 `gpg.program` 指向 gpg4win 并关闭自动签名——提交默认免签、无需 `--no-gpg-sign`，需要签名时显式 `git commit -S`（交互输口令）。
