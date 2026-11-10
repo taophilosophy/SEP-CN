@@ -30,7 +30,7 @@ segments:
     step1: |-
       ## 1. What is Digital Art?
     step2: |-
-      ## 1 何为数字艺术？
+      ## 1. 何为数字艺术？
   - id: 4
     kind: body
     source: |-
@@ -293,7 +293,7 @@ segments:
     step1: |-
       ## 2. Digital Images
     step2: |-
-      ## 2 数字图像
+      ## 2. 数字图像
   - id: 35
     kind: body
     source: |-
@@ -363,9 +363,9 @@ segments:
     source: |-
       The issue of the relation between ontology and interpretation is a complex and difficult one, but progress can be made on the issue through an examination of digital art practices. This is particularly in light of the high degree of self-consciousness with which many digital artists and digital art curators specify the features of digital art works. It is a common practice, for example, when archiving net art, to have artists fill out a questionnaire in order to specify which features of a work are crucial for its preservation—whether features of appearance, timing and motion, interactivity potentials and methods, linking to other sites, or hardware and software. When a work of net art is individuated by its imagery, say, the artist has chosen to make the inherent replicability of digital imagery part of the work. That this is a choice is suggested by the existence of singular works of digital visual art, like the examples discussed above. The question of whether the works by Kalpakjian, and Arcangel & Davis can function allographically requires further investigation (see D’Cruz and Magnus 2014)[^d’cruz-2014]. But if they can so function, the artist’s presentation instructions have a primary role to play in fixing, not just the art form (installation, movie, conceptual work, etc.) but the basic structure of the work – for example, in determining whether the work is singular and thus identical with a certain kind of physical display or multiple with no original display. Where interactive digital works are concerned, individuation is determined by a set of algorithms. An algorithmic account of interactive digital art suggests that, although the code is important for adequate instantiation of the work, it is the algorithm that specifies the crucial features of the work (Lopes 2010; Tavinor 2011; Moser 2018)[^lopes-2010][^moser-2018]. Since the code is, ontologically speaking, less relevant than the algorithm, this account makes allowances for the variability that may be found in the code when an instance of a program is run on different kinds of devices.
     step1: |-
-      本体论与解释之间的关系问题复杂而困难，但通过考察数字艺术实践，可以在这个问题上取得进展。考虑到许多数字艺术家与数字艺术策展人以高度的自我意识规定数字艺术作品的特征，这一点尤其明显。一个常见做法是：在为网络艺术建档时，让艺术家填写问卷，以指明作品的哪些特征对保存至关重要——是外观特征、时序与运动、交互的潜能与方法、通向其他站点的链接，还是硬件与软件。当一件网络艺术作品——比如说——由其图像而被个体化时，艺术家已经选择把数字图像固有的可复制性纳入作品。singular 的数字视觉艺术作品之存在——如上文讨论的那些例子——表明这是一种选择。Kalpakjian 以及 Arcangel 与 Davis 的作品能否以代笔的方式起作用，须待进一步考察（见 D'Cruz and Magnus 2014）[^d'cruz-2014]。但若能如此起作用，艺术家的呈现指令便在固定作品的基础结构——例如决定作品是单例的、因而与某类物理显示同一，还是多例的、没有原件显示——之外，对固定艺术形式（装置、电影、观念作品等）也扮演首要角色。至于交互性数字作品，其个体化由一套算法决定。交互数字艺术的算法说明 suggests：尽管代码对作品的充分例现很重要，但正是算法规定了作品的关键特征（Lopes 2010; Tavinor 2011; Moser 2018）[^lopes-2010][^moser-2018]。既然从本体论上说，代码不如算法要紧，这一说明便为代码在程序实例运行于不同设备时可能出现的变异性留出了余地。
+      本体论与解释之间的关系问题复杂而困难，但通过考察数字艺术实践，可以在这个问题上取得进展。考虑到许多数字艺术家与数字艺术策展人以高度的自我意识规定数字艺术作品的特征，这一点尤其明显。一个常见做法是：在为网络艺术建档时，让艺术家填写问卷，以指明作品的哪些特征对保存至关重要——是外观特征、时序与运动、交互的潜能与方法、通向其他站点的链接，还是硬件与软件。当一件网络艺术作品——比如说——由其图像而被个体化时，艺术家已经选择把数字图像固有的可复制性纳入作品。singular 的数字视觉艺术作品之存在——如上文讨论的那些例子——表明这是一种选择。Kalpakjian 以及 Arcangel 与 Davis 的作品能否以代笔的方式起作用，须待进一步考察（见 D'Cruz and Magnus 2014）[^d’cruz-2014]。但若能如此起作用，艺术家的呈现指令便在固定作品的基础结构——例如决定作品是单例的、因而与某类物理显示同一，还是多例的、没有原件显示——之外，对固定艺术形式（装置、电影、观念作品等）也扮演首要角色。至于交互性数字作品，其个体化由一套算法决定。交互数字艺术的算法说明 suggests：尽管代码对作品的充分例现很重要，但正是算法规定了作品的关键特征（Lopes 2010; Tavinor 2011; Moser 2018）[^lopes-2010][^moser-2018]。既然从本体论上说，代码不如算法要紧，这一说明便为代码在程序实例运行于不同设备时可能出现的变异性留出了余地。
     step2: |-
-      本体论与解释的关系问题复杂而困难；但通过考察数字艺术实践，可望有所推进——考虑到许多数字艺术家与策展人以高度的自我意识规定作品特征，此点尤为显豁。一个常见做法是：为网络艺术建档时，让艺术家填写问卷，指明作品的哪些特征对保存至关重要——外观、时序与运动、交互的潜能与方法、通向其他站点的链接，抑或硬件与软件。当一件网络艺术作品——譬如——由其图像而被个体化时，艺术家已然选择把数字图像固有的可复制性纳入作品。而 singular 的数字视觉艺术作品之存在——如上文所举诸例——恰恰表明这是一种选择。Kalpakjian 以及 Arcangel 与 Davis 的作品能否以代笔方式起作用，尚待考察（见 D'Cruz and Magnus 2014）[^d'cruz-2014]。若能，则艺术家的呈现指令便不仅对固定艺术形式（装置、电影、观念作品等）、也对固定作品的基础结构——例如决定作品是单例的、因而与某类物理显示同一，还是多例的、并无原件显示——扮演首要角色。至于交互性数字作品，其个体化由一套算法决定。交互数字艺术的算法说明提示：代码对作品的充分例现固然重要，但规定作品关键特征的正是算法（Lopes 2010; Tavinor 2011; Moser 2018）[^lopes-2010][^moser-2018]。既然从本体论上说代码不如算法要紧，这一说明便为代码在程序实例运行于不同设备时可能出现的变异性留出了余地。
+      本体论与解释的关系问题复杂而困难；但通过考察数字艺术实践，可望有所推进——考虑到许多数字艺术家与策展人以高度的自我意识规定作品特征，此点尤为显豁。一个常见做法是：为网络艺术建档时，让艺术家填写问卷，指明作品的哪些特征对保存至关重要——外观、时序与运动、交互的潜能与方法、通向其他站点的链接，抑或硬件与软件。当一件网络艺术作品——譬如——由其图像而被个体化时，艺术家已然选择把数字图像固有的可复制性纳入作品。而 singular 的数字视觉艺术作品之存在——如上文所举诸例——恰恰表明这是一种选择。Kalpakjian 以及 Arcangel 与 Davis 的作品能否以代笔方式起作用，尚待考察（见 D'Cruz and Magnus 2014）[^d’cruz-2014]。若能，则艺术家的呈现指令便不仅对固定艺术形式（装置、电影、观念作品等）、也对固定作品的基础结构——例如决定作品是单例的、因而与某类物理显示同一，还是多例的、并无原件显示——扮演首要角色。至于交互性数字作品，其个体化由一套算法决定。交互数字艺术的算法说明提示：代码对作品的充分例现固然重要，但规定作品关键特征的正是算法（Lopes 2010; Tavinor 2011; Moser 2018）[^lopes-2010][^moser-2018]。既然从本体论上说代码不如算法要紧，这一说明便为代码在程序实例运行于不同设备时可能出现的变异性留出了余地。
   - id: 44
     kind: body
     source: |-
@@ -373,7 +373,7 @@ segments:
     step1: |-
       ## 3. Appreciating Artworks in Digital Media
     step2: |-
-      ## 3 欣赏数字媒介中的艺术作品
+      ## 3. 欣赏数字媒介中的艺术作品
   - id: 45
     kind: body
     source: |-
@@ -453,7 +453,7 @@ segments:
     step1: |-
       ## 4. Interactivity
     step2: |-
-      ## 4 交互性
+      ## 4. 交互性
   - id: 55
     kind: body
     source: |-
@@ -635,7 +635,7 @@ segments:
     step1: |-
       ## 5. Locative Art
     step2: |-
-      ## 5 定位艺术
+      ## 5. 定位艺术
   - id: 77
     kind: body
     source: |-
@@ -658,10 +658,10 @@ segments:
       - What Was There (2010–2023) was a website that allows users to type in the coordinates of their current location (via their digital device) to see how certain geographical locations look throughout history. By typing a specific address into the application, the user experiences the physical location in front of them and represented images and facts of that location as they appeared in the past, from the same vantage point. Data on the site relies on regular citizens to upload historic images and connect them to specific locations, making them accessible to others; the greater the participation the richer the experience when navigating a particular place. Not only can guests gain a deeper connection to their specific localized places, but such applications motivate people to explore and appreciate locations outside of their normal destinations.
       - The Transborder Immigrant Tool has been used in a number of artworks and exhibitions.
     step1: |-
-      - 《彼处曾有何物》（*What Was There*，2010–2023）是一个网站，允许用户输入其当前位置的坐标（通过其数字设备），以查看某些地理位置在历史中如何变迁。通过把具体地址输入应用，用户会把眼前的物理地点与从同一视点呈现的该地点过去样貌的图像与事实并置体验。网站数据依赖普通公民上传历史图像并将其与具体地点相连，使他人可访问；参与越多，在特定地点导航时的体验越丰富。客人不仅能与其特定的本地场所建立更深的联系，此类应用还激励人们去探索和欣赏其日常目的地之外的地点。
+      - 《彼处曾有何物》（What Was There，2010–2023）是一个网站，允许用户输入其当前位置的坐标（通过其数字设备），以查看某些地理位置在历史中如何变迁。通过把具体地址输入应用，用户会把眼前的物理地点与从同一视点呈现的该地点过去样貌的图像与事实并置体验。网站数据依赖普通公民上传历史图像并将其与具体地点相连，使他人可访问；参与越多，在特定地点导航时的体验越丰富。客人不仅能与其特定的本地场所建立更深的联系，此类应用还激励人们去探索和欣赏其日常目的地之外的地点。
       - 跨境移民工具（The Transborder Immigrant Tool）已在若干艺术作品与展览中使用。
     step2: |-
-      - 《彼处曾有何物》（*What Was There*，2010–2023）是一网站，用户可输入其所在位置之坐标（经其数字设备），查看某些地理位置在历史上是何模样。把具体地址键入应用，用户便能在眼前实景与自同一视点呈现的该地往昔图像、事实之间往返体验。网站数据倚赖普通公民上传历史图像，并将其与具体地点相连，供他人访问；参与者愈众，于特定地点游历的体验愈丰。访客不仅可与本地场所结成更深因缘，此类应用还促人去探索、欣赏日常目的地之外的地点。
+      - 《彼处曾有何物》（What Was There，2010–2023）是一网站，用户可输入其所在位置之坐标（经其数字设备），查看某些地理位置在历史上是何模样。把具体地址键入应用，用户便能在眼前实景与自同一视点呈现的该地往昔图像、事实之间往返体验。网站数据倚赖普通公民上传历史图像，并将其与具体地点相连，供他人访问；参与者愈众，于特定地点游历的体验愈丰。访客不仅可与本地场所结成更深因缘，此类应用还促人去探索、欣赏日常目的地之外的地点。
       - 跨境移民工具（The Transborder Immigrant Tool）已用于多件艺术作品与展览。
   - id: 80
     kind: body
@@ -768,5 +768,21 @@ segments:
       - [Rhizome’s Artbase](http://rhizome.org/artbase/), the largest on-line archive of new media art
       - [Digital Art & Design – Victoria and Albert Museum](http://www.vam.ac.uk/page/d/digital-art-and-design/), information on the history and practice of computer art and design.
       - [The Whitney Museum’s Art Port](http://whitney.org/artport/), providing access to the museum’s collection of digital art and an exhibition space for commissioned works of net art.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Thomson-Jones, Katherine，2014，[电影哲学](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0071.xml)，载 *Oxford Bibliographies Online*（牛津在线书目）。
+      - Enlighten，“WhatWasThere”（2010–2023）[[WhatWasThere 在线可得](https://www.whatwasthere.com/)] [[存档链接](https://web.archive.org/web/20231210223133/https://www.whatwasthere.com/)]
+      - [Gottfried Michael Koenig 项目](http://www.koenigproject.nl/indexe.htm)
+      - [奥斯汀数字艺术博物馆](https://www.nowplayingaustin.com/organization/austin-museum-of-digital-art/)
+      - [数字艺术博物馆](http://www.dam.org)
+      - [Rhizome 艺术库](http://rhizome.org/artbase/)，最大的在线新媒体艺术档案
+      - [数字艺术与设计——维多利亚和阿尔伯特博物馆](http://www.vam.ac.uk/page/d/digital-art-and-design/)，关于计算机艺术与设计之历史与实践的信息。
+      - [惠特尼美术馆 Art Port](http://whitney.org/artport/)，提供该馆数字艺术收藏的访问，并为委托创作网络艺术作品提供展出空间。
+    step2: |-
+      - [电影哲学](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0071.xml)，Katherine Thomson-Jones 撰，2014，载 *Oxford Bibliographies Online*（牛津在线书目）。
+      - [WhatWasThere](https://www.whatwasthere.com/)（2010–2023），Enlighten 出品；[存档链接](https://web.archive.org/web/20231210223133/https://www.whatwasthere.com/)。
+      - [Gottfried Michael Koenig 项目](http://www.koenigproject.nl/indexe.htm)
+      - [奥斯汀数字艺术博物馆](https://www.nowplayingaustin.com/organization/austin-museum-of-digital-art/)
+      - [数字艺术博物馆](http://www.dam.org)
+      - [Rhizome 艺术库](http://rhizome.org/artbase/)，最大的在线新媒体艺术档案。
+      - [维多利亚和阿尔伯特博物馆“数字艺术与设计”](http://www.vam.ac.uk/page/d/digital-art-and-design/)，关于计算机艺术与设计之历史与实践的资料。
+      - [惠特尼美术馆 Art Port](http://whitney.org/artport/)，可访问该馆数字艺术收藏，亦为委托网络艺术作品提供展示空间。

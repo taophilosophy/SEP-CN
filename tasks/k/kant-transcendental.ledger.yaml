@@ -187,50 +187,66 @@ segments:
     kind: body
     source: |-
       However, it may be that only the weaker premise (W) is required for the success of the argument of §16. First, although the co-consciousness premise (S) might be *suggested* in §16 by the following text:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，§16 的论证要成功，也许只需要较弱的前提 (W)。首先，尽管共同意识前提 (S) 或可在 §16 中由下面这段文字*暗示*出来：
+    step2: |-
+      然而，§16 论证的成功也许只要求较弱的前提 (W)。先看第一点：共同意识前提 (S) 在 §16 中至多只是被下面这段文字所“暗示”：
   - id: 24
     kind: body
     source: |-
       > That relation comes about, not simply through my accompanying each representation with consciousness, but only in so far as I conjoin one representation with another, and am conscious of the synthesis of them. (B133)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这一关系并非单纯地由我以意识伴随每个表象而产生，而只是在我把一个表象与另一个表象结合、并意识到它们之综合的时候才产生。（B133）
+    step2: |-
+      > 这种关系并不是单靠我以意识伴随每一个表象而形成的；只有在我把一个表象同另一个表象结合起来、并且意识到它们之间的综合时，它才产生。（B133）
   - id: 25
     kind: body
     source: |-
       that claim is not uncontroversially made here. For by the assertion that I “am conscious of the synthesis of them,” i.e., of these representations, Kant may mean only that I am conscious that they stand in a certain intimate relation to one another, for instance, that that they are integrated with each other in a way that is distinct from how mine are integrated with yours, and that does not require co-consciousness (Pereboom 1995)[^pereboom-1995].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但这一主张在此并不是无争议地作出的。因为，说到我“意识到它们的综合”（即意识到这些表象的综合），康德也许只是指：我意识到这些表象彼此处于某种切近的关系，例如它们相互整合的方式有别于我的表象与你的表象相互整合的方式，而这一点并不要求共同意识（Pereboom 1995）[^pereboom-1995]。
+    step2: |-
+      但这个主张在此并非没有争议。康德说“我意识到它们的综合”，即意识到这些表象的综合，其意思也许仅是：我意识到这些表象彼此处在某种切近的关系之中——例如，它们相互整合的方式，与我表象之间、你表象之间的整合方式有所不同——而这一切并不要求共同意识（Pereboom 1995）[^pereboom-1995]。
   - id: 26
     kind: body
     source: |-
       Moreover, it might well be that the argument of §16 features a subtlety that obviates the need for actual co-consciousness. The text indicates that the argument crucially turns on the claim that only *a priori* synthesis – that is, synthesis by *a priori* concepts – can explain *how I might represent the identity of my apperceptive consciousness* (B133) or *how I might represent the identity of the apperceiving subject* (B135) for different elements of the manifold of intuition to which I can attach the *I think*. The inadequacy Kant claims for “empirical consciousness,” that is, for consciousness according to Humean psychological theory, is that “it is in itself dispersed (*an sich zerstreut*) and without relation to the identity of the subject (*und ohne Beziehung auf die Identität des Subjects*)” (B133). One implication of this passage is that Hume’s theory does not have the resources needed to explain how I can self-attribute various of my representations or their elements to a subject that is both conscious of them and the same subject for each act of their self-attribution. This objection does not beg the question in Kant’s dispute with Hume, since it assumes only a claim that uncommitted and reasonable participants in this discussion would not want to initially deny, that the conscious subject of these apperceptive self-attributions is the same. Hume’s theory lacks the resources to account for this identity. Hume himself provides no account of apperception, but possibilities for a Humean account are that apperceptive consciousness amounts to perceptions that are intrinsically self-conscious, or else consists in perceptions of perceptions. But intrinsically self-conscious perceptions would be distinct from one another, as would perceptions of perceptions; and thus they too would be “dispersed” (B133), and share no common element. Hume might propose to explain our sense of the identity of the conscious subject of different self-attributions by the intrinsically self-conscious perceptions or the perceptions of perceptions being components of a single causally coherent bundle. However, this bundle would not itself be conscious of perceptions. Consciousness of perceptions would instead be an intrinsic feature of an individual self-conscious perception or a feature of individual perceptions of a perception. In Kant’s conception, by contrast, accounting for our sense of the identity of the conscious subject of different self-attributions requires that this subject be distinct from its representations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      再者，§16 的论证也许含有一种微妙之处，使得实际的共同意识成为不必要。文本表明，这一论证关键地取决于如下主张：只有*先天*的综合——即由*先天*概念所进行的综合——才能解释我如何能够表象我的统觉意识之同一性（B133），或者我如何能够表象统觉主体之同一性（B135），而对于我能够附上“我思”的直观杂多的不同要素来说都是如此。康德所谓“经验意识”的不足之处——即按照休谟心理学理论的意识——在于“它本身就是分散的（*an sich zerstreut*），并且与主体的同一性无关（*und ohne Beziehung auf die Identität des Subjects*）”（B133）。这一段话的一个含义是，休谟的理论没有说明以下事实所需的资源：我如何能把我的诸表象或其要素归属给一个主体，这个主体既意识到它们，又在其每一次自我归属中都是同一个主体。这一责难在康德与休谟的争论中并不窃取论题，因为它只假设了一个未偏袒任何一方且讲道理的参与者起初都不愿否认的主张，即这些统觉性自我归属的意识主体是同一个。休谟的理论缺乏说明这一同一性的资源。休谟本人没有提供对统觉的说明，但休谟式的说明有两种可能：统觉意识等于内在地自我意识的知觉，或者由对知觉的知觉构成。然而，内在地自我意识的知觉彼此不同，对知觉的知觉也彼此不同；因此它们同样是“分散的”（B133），没有任何共同要素。休谟或可提出用如下方式来解释我们对不同自我归属的意识主体之同一性的感觉：这些内在地自我意识的知觉或对知觉的知觉，是一个单一因果融贯束的成分。然而，这个束本身并不同意识。对知觉的意识反倒是单个自我意识知觉的内在特征，或单个“对知觉的知觉”的特征。与之相反，在康德的构想中，说明我们对不同自我归属的意识主体之同一性的感觉，要求这一主体区别于它的诸表象。
+    step2: |-
+      再者，§16 的论证或许另有一层微妙之处，正因如此就不再需要实际的共同意识。文本提示：这一论证的关键在于如下主张——唯有先天的综合（亦即由先天概念进行的综合），才能解释我如何能够表象我的统觉意识的同一性（B133），或我如何能够表象进行统觉之主体的同一性（B135）；这一点对我能够附上“我思”的直观杂多的各个要素都同样成立。康德认为“经验意识”——也就是按休谟心理学理论所理解的那种意识——的缺陷在于：“它本身就是分散的（*an sich zerstreut*），并且与主体的同一性不发生关系（*und ohne Beziehung auf die Identität des Subjects*）”（B133）。这段话的一层含义是：休谟的理论缺少必要的资源，来说明我如何能够把我的若干表象或它们的要素自我归属于一个主体——该主体既意识到它们，又在每一次自我归属的行为中都是同一个主体。在康德与休谟的这场争论中，这一责难并不窃取论题，因为它所假设的只是一个中立而讲理的参与者起初都不愿否认的东西，即这些统觉性自我归属的意识主体乃是同一个。休谟的理论无法说明这一同一性。休谟本人不曾交代统觉是什么，但休谟式的说明有两种可能：统觉意识就等于内在地自我意识的知觉，或者在于对知觉的知觉。可是，内在地自我意识的知觉彼此有别，对知觉的知觉同样彼此有别；于是它们也仍是“分散的”（B133），不分享任何共同要素。休谟也许会说，我们对“不同自我归属的意识主体是同一的”这种感觉，可以用如下事实来解释：这些内在地自我意识的知觉或对知觉的知觉，同属一个因果上自洽的束。然而，这个束本身并不同意识诸知觉；对知觉的意识只是单个自我意识知觉的内在特征，或是单个“对知觉的知觉”的特征。相形之下，在康德的构想里，要说明我们对同一性的这种感觉，就必须让这一主体与其诸表象相区分。
   - id: 27
     kind: body
     source: |-
       The second stage of the argument of §16 highlights another implication of the claim that “the empirical consciousness, which accompanies different representations, is dispersed and without relation to the identity of the subject” (B133). Kant contends that Hume’s theory lacks the resources to account for my representation of that which is conscious of its various representations *as one and the same subject*, to account for how I “represent to myself the *identity of the consciousness in [i.e. throughout] these representations*” (B133). We might imagine several kinds of explanation for my representation of this identity. One candidate appeals to sensory awareness: the way I represent the identity of the subject is akin to how I commonly represent the identity over time of ordinary objects: directly by sensory awareness of similarities among both intrinsic and relational properties of these objects. For example, I reidentify my car after returning to it in the parking lot by sensory awareness of its color, shape, and location. In the case of the conscious subject, such sensory awareness would be by inner sense. However, Kant and Hume concur that this model does not capture how I represent the identity of the conscious subject, since they agree that by inner sense I cannot represent any intrinsic properties of this subject. A second kind of explanation, which Kant endorses, is that this representation instead accounted for indirectly since it depends on my apprehending *relational properties of the subject’s representations*; specifically, an order they stand in, which Kant calls a *unity* (Allison 1983: 142–44; Guyer 1977: 267, 1987: 133–39; Pereboom 1995; Patricia Kitcher 2011: 147)[^allison-1983][^guyer-1977][^kitcher-2011][^pereboom-1995]. If the representations I can attribute to myself possess such a unity, and if I am conscious of and represent it, then I will be able to represent the conscious subject of any one of these representations as identical with that of any other.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      §16 论证的第二阶段凸显了另一层含义，它出自这一主张：“伴随不同表象的经验意识是分散的，并且与主体的同一性无关”（B133）。康德断言，休谟的理论缺乏必要的资源，来说明我如何表象那个意识到其诸表象*作为*同一个主体者，亦即说明我如何“在这些表象之中表象意识的同一性”（B133）。可以设想，对我这一同一性表象有几种解释。一种候选诉诸感官觉察：我表象主体同一性的方式，类似于我通常表象普通对象在时间中同一性的方式——直接凭借感官觉察这些对象在内在属性与关系属性上的相似。例如，我回到停车场取车时，凭借对颜色、形状与位置的感官觉察重新认出我的车。就意识主体而言，这种感官觉察将由内感官提供。然而康德与休谟一致认为，这一模型没有抓住我表象意识主体同一性的方式，因为他们都同意：通过内感官，我无法表象这一主体的任何内在属性。第二种解释为康德所赞同：这一表象其实是间接得到说明的，因为它依赖于我把握主体诸表象之间的*关系属性*，确切说是一种它们所处其中的秩序，康德称之为*统一性*（Allison 1983: 142–44; Guyer 1977: 267, 1987: 133–39; Pereboom 1995; Patricia Kitcher 2011: 147）[^allison-1983][^guyer-1977][^kitcher-2011][^pereboom-1995]。若我能归属于自己的诸表象具有这样一种统一性，而且我意识到并且表象它，那么我就能把这些表象中任何一个的意识主体表象为与任何其他者的意识主体同一。
+    step2: |-
+      §16 论证的第二阶段凸显了上述主张的另一层含义，这主张是：“伴随不同表象的经验意识是分散的，与主体的同一性无关”（B133）。康德据此主张：休谟理论缺少必要的资源，来说明我如何把那个意识到自己诸表象者表象为*同一个*主体，来说明我如何“在〔这些〕表象中向我表象意识的同一性”（B133）。对我这一同一性表象，可以设想几类解释。一类诉诸感官觉察：我表象主体同一性的方式，近似于通常表象普通对象历时同一性的方式——径直凭感官觉察这些对象在内属性与关系属性上的相似。譬如，回到停车场后，我凭对颜色、形状与位置的感官觉察重新认出自己的车。就意识主体而论，这种感官觉察须由内感官提供。然而康德与休谟都认为，这一模型并未抓住我表象意识主体同一性的方式，因为二人皆同意：借内感官，我无法表象这一主体的任何内在属性。第二类解释是康德所赞同的：这一表象反而依赖于我把握主体诸表象的*关系属性*，具体说，依赖于它们所处其中的一种秩序，康德称此种秩序为*统一性*（Allison 1983: 142–44; Guyer 1977: 267, 1987: 133–39; Pereboom 1995; Patricia Kitcher 2011: 147）[^allison-1983][^guyer-1977][^kitcher-2011][^pereboom-1995]。如果说归我所属的诸表象具有这样一种统一性，且我意识到并表象了它，那么我便能把其中任一表象的意识主体，表象为与其余任何表象的意识主体相同一。
   - id: 28
     kind: body
     source: |-
       Thus my representation of the identity of the subject comes about “only in so far as I conjoin one representation with another, and am conscious of the synthesis of them” (B133). This consciousness is not of the act or process of synthesis itself, but of the unity that is its outcome (Strawson 1966: 94–96; Dicker 2004: 133–4)[^dicker-2004][^strawson-1966]). What sort of unity must I consciously recognize among my representations that would account for my representation of this identity? Note that it is not plausibly co-consciousness, for I represent the subject as identical for self-attributed representations that are not co-conscious, so actual co-consciousness could not explain generally how I represent this sort of identity. A credible alternative is that the unity consists in certain intimate ways in which representations in a single subject are typically related. Arguably, the essential feature of this unity is that a single subject’s representations be inferentially and causally integrated to a high degree, and in this respect they are unified in a way in which representations possessed by discrete subjects are not. Alternatively, several commentators have argued that the relevant unity might be a temporal order among my representations, thereby linking the B-Deduction with the arguments of the Second Analogy and the Refutation of Idealism (Guyer 1977: 267; Dicker 2004: 137–44)[^dicker-2004][^guyer-1977]. A concern about this route is that a cognitive sensitivity to the time-ordering of representations does not obviously facilitate our representing them as belonging to a single subject (Brueckner 1984: 199–208)[^brueckner-1984]. By contrast, when mental states fail to exhibit inferential and causal integration, as in the case of multiple-personality disorder, we have a tendency to posit multiple subjects, while we do not do so when such integration is present.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，我对主体同一性的表象“只是在我把一个表象与另一个表象结合、并意识到它们之综合的时候”才产生（B133）。这种意识所对的不是综合的行为或过程本身，而是作为其结果的统一性（Strawson 1966: 94–96; Dicker 2004: 133–4）[^dicker-2004][^strawson-1966]。那么，我必须在自己的诸表象中自觉地认出哪种统一性，才能说明我对这一同一性的表象？注意，它不大可能是共同意识，因为对并非共同被意识的自我归属表象，我也把主体表象为同一的；所以实际的共同意识无法一般地解释我如何表象这类同一性。一个可信的替代是：这种统一性在于单一主体的诸表象通常具有的某些切近关联方式。可以说，这种统一性的本质特征在于：单一主体的诸表象在推理与因果上高度整合，就此而言它们获得了一种离散主体的诸表象所没有的统一。另一条思路则见于若干评论者：相关的统一性也许是我的诸表象之间的时间秩序，从而把 B 版演绎同第二类比与驳斥唯心论的论证联系起来（Guyer 1977: 267; Dicker 2004: 137–44）[^dicker-2004][^guyer-1977]。这条路径有个隐忧：对表象时间次序的认知敏感性，并不显然有助于我们把它们表象为属于单一主体（Brueckner 1984: 199–208）[^brueckner-1984]。反过来看，当心理状态缺乏推理与因果上的整合时，例如在多重人格障碍的案例中，我们倾向于设定多个主体；而当这种整合存在时，我们却不如此设定。
+    step2: |-
+      于是，我对主体同一性的表象“只是在我把一个表象与另一个表象结合起来、并意识到它们之综合的时候”才产生（B133）。此种意识所对的并非综合的行为或过程，而是综合所成就的统一性（Strawson 1966: 94–96; Dicker 2004: 133–4）[^dicker-2004][^strawson-1966]。我必须在自己的诸表象间自觉地认出何种统一性，才能说明我对这一同一性的表象？不妨注意：它不大可能是共同意识，因为对那些并未共同被意识的自我归属表象，我同样把主体表象为同一的；故实际的共同意识无法一般地解释这类同一性表象。较可信的替代是：统一性在于单一主体的诸表象通常彼此关联的某些切近方式。可以说，其本质特征在于：单一主体的诸表象在推理与因果两个维度上高度整合，就此而言，它们所获得的统一是离散主体的诸表象所不具备的。另一条思路则见于若干评论者：相关统一性也许是我的诸表象间的时间秩序，由此把 B 版演绎与第二类比、驳斥唯心论的论证勾连起来（Guyer 1977: 267; Dicker 2004: 137–44）[^dicker-2004][^guyer-1977]。此路径的隐忧在于：对表象时间次序的认知敏感性，并不显然有助于我们把它们表象为同属单一主体（Brueckner 1984: 199–208）[^brueckner-1984]。反观另一面：当心理状态缺乏推理与因果整合时（如多重人格障碍），我们倾向于设定多个主体；而当此种整合在场时，我们却不作此设定。
   - id: 29
     kind: body
     source: |-
       In Kant’s view, the candidates for explaining how this kind of unity comes to be, or, less ambitiously, for explaining my ability to recognize this sort of unity, are association and synthesis. At this point he appears to suppose that because Hume’s psychological theory has already been ruled out, synthesis is the only remaining option. So for me to represent the identity of the subject of different self-attributions, I must generate or at least recognize the right sort of unity among these representations, and synthesis must be invoked to account for this unity. Thus Kant contends that this combination “is an affair of the understanding alone, which itself is nothing but the faculty of combining *a priori*” (B134–5. Since the understanding provides concepts for synthesis, and because for synthesis to be *a priori* is, at least in part, for it to employ *a priori* concepts, Kant is contending here that synthesis by means of *a priori* concepts is required to account for the unity in question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在康德看来，能解释这种统一性如何产生的候选者，或较不雄心地说，能解释我识别这类统一性之能力的候选者，只有联想与综合。在此他似乎假定：既然休谟的心理学理论已被排除，剩下的便只有综合。因此，要让我表象不同自我归属之主体的同一性，我就必须生成、或至少识别这些表象之间恰当的统一性，而综合必须被用来说明这种统一性。于是康德主张，这种结合“仅是知性的事务，而知性本身无非就是*先天*结合的能力”（B134–5）。由于知性为综合提供概念，而综合之为*先天*，至少部分地在于它使用*先天*概念，康德在此主张：要说明所论统一性，需要借*先天*概念进行的综合。
+    step2: |-
+      在康德眼里，能够解释这类统一性如何生成——说得保守些，能够解释我为何有能力识别它——的候选者只有两个：联想与综合。此时他似乎认为，休谟的心理学理论既已被排除，可选的便只剩综合。于是，我若要表象不同自我归属之主体的同一性，就必须生成、至少识别这些表象间恰当的统一性，而这一统一性须由综合来说明。准此，康德断言这种结合“仅是知性的事务，而知性本身无非就是*先天*结合的能力”（B134–5）。知性既为综合提供概念，而综合成其为*先天*，至少部分在于它动用*先天*概念，则康德此处所主张的便是：所论统一性需借*先天*概念的综合来说明。
   - id: 30
     kind: body
     source: |-
       Here is a representation of the structure of transcendental deduction up to this point so far, the argument from above:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至此为止，先验演绎（即上文的自上而下论证）的结构可以呈现如下：
+    step2: |-
+      到此为止，先验演绎的结构——即上文那个自上而下的论证——可呈现如下：
   - id: 31
     kind: body
     source: |-
@@ -243,176 +259,250 @@ segments:
       7. This particular kind of unity of my mental states cannot be accounted for by association. (premise)
       8. If (6) is true, then this particular kind of unity of my mental states is accounted for by synthesis by *a priori* concepts. (premise)
       9. My mental states have a particular kind of unity that is accounted for by synthesis by *a priori* concepts. (7, 8)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 我意识到自己作为不同心理状态自我归赋之主体的同一性。（前提）
+      2. 我并不直接意识到这一作为不同心理状态自我归赋之主体的同一性。（前提）
+      3. 若 (1) 与 (2) 为真，则这种同一性意识是由我对我的心理状态某种特定统一性的意识间接得到说明的。（前提）
+      4. 这种同一性意识是由我对我的心理状态某种特定统一性的意识间接得到说明的。（1, 2, 3）
+      5. 若 (4) 为真，则我的心理状态确实具有这种特定的统一性。（前提）
+      6. 我的心理状态具有这种特定的统一性。（4, 5）
+      7. 我的心理状态的这种特定统一性无法由联想得到说明。（前提）
+      8. 若 (6) 为真，则我的心理状态的这种特定统一性是由*先天*概念进行的综合得到说明的。（前提）
+      9. 我的心理状态具有某种特定的统一性，而这种统一性是由*先天*概念进行的综合得到说明的。（7, 8）
+    step2: |-
+      1. 我意识到：在不同心理状态的自我归赋中，我自己作为主体是同一的。（前提）
+      2. 对这一作为不同自我归赋之主体的同一性，我并无直接的意识。（前提）
+      3. 倘若 (1) 与 (2) 成立，则此种同一性意识是间接的：它凭我对心理状态某一特定统一性的意识而得到说明。（前提）
+      4. 此种同一性意识是间接的：它凭我对心理状态某一特定统一性的意识而得到说明。（1, 2, 3）
+      5. 倘若 (4) 成立，则我的心理状态确实具有这一特定的统一性。（前提）
+      6. 我的心理状态具有这一特定的统一性。（4, 5）
+      7. 心理状态的这一特定统一性，无法由联想来说明。（前提）
+      8. 倘若 (6) 成立，则心理状态的这一特定统一性，是由借*先天*概念进行的综合来说明的。（前提）
+      9. 我的心理状态具有某种特定的统一性，而它是由借*先天*概念进行的综合来说明的。（7, 8）
   - id: 32
     kind: body
     source: |-
       Premise (1) is intended as a claim the skeptic about the legitimate applicability of *a priori* concepts will at least initially accept. The crucial necessary conditions, expressed by (3) and (7), are necessary conditions of only possible explanation. However, Paul Guyer forcefully argues that establishing the need for synthesis by means of *a priori* concepts would require ruling out the alternative explanation that empirical information and concepts derived from it is sufficient to account for the recognition of the unity at issue (Guyer 1987:146–47)[^guyer-1987]. And in his view it remains open, given what Kant has shown, that this recognition requires only awareness of information derived from inner sense or introspective experience. Kant does not attempt at this point in the argument to rule out such a rival empiricist hypothesis, but he arguably would need to do so to establish the need for *a priori* synthesis. To advance his claims, one might appeal to features of this unity that would render such an empiricist account inadequate. As we shall see, Kant employs this tactic in the next phase of the argument, which introduces his account of our representations of objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      前提 (1) 意在成为一个主张：关于*先天*概念之合法适用性的怀疑论者至少起初会接受它。(3) 与 (7) 所表达的关键必要条件，是“唯一可能的解释”意义上的必要条件。然而，保罗·盖耶（Paul Guyer）有力地论证说：要确立借*先天*概念进行综合之必要，就必须排除另一种解释，即经验信息及由之派生的概念足以说明对所论统一性的识别（Guyer 1987:146–47）[^guyer-1987]。在他看来，就康德已经表明的东西而言，仍有可能：这种识别只需要对来自内感官或内省经验的信息有所觉察。康德在论证的这一节点并未试图排除这种竞争性的经验论假说，但要说确立*先天*综合之必要，他大概需要这样做。为推进其主张，人们可以诉诸这一统一性的某些特征，使这种经验论说明显得不充分。我们将看到，康德在论证的下一阶段——引入其关于对象表象的说明之处——正采用了这一策略。
+    step2: |-
+      前提 (1) 是这样一个主张：怀疑*先天*概念合法适用性的人，至少起初会接受它。(3) 与 (7) 所表述的关键必要条件，都属“唯一可能的解释”意义上的必要条件。然而保罗·盖耶（Paul Guyer）有力地反驳道：若要确立借*先天*概念进行综合的必要，就必须排除另一种解释——经验信息以及从中派生的概念，足以说明对所论统一性的识别（Guyer 1987:146–47）[^guyer-1987]。在他看来，依康德已表明者，仍有可能：此种识别只要求对来自内感官或内省经验的信息有所觉察。在这一节点上，康德没有试图排除这个竞争性的经验论假说；但要确立*先天*综合之必要，他大概非排除不可。要推进自己的主张，他可以诉诸这一统一性的某些特征，令经验论的说明显得不足。下文将看到，康德在论证的下一阶段——即引入关于我们对象表象的说明时——正是采用了这一策略。
   - id: 33
     kind: body
     source: |-
       ### 1.2 Representations of Objects and the Single-Substantive-Premise Interpretation of the B-Deduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 对象的表象与 B 版演绎的单一实质前提解读
+    step2: |-
+      ### 1.2 对象的表象与 B 版演绎的“单一实质前提”解读
   - id: 34
     kind: body
     source: |-
       According to one widespread reading of the B-Deduction, §§15–20 comprise a an argument whose only assumption is the premise about self-consciousness that Kant defends in §16. Strawson, for example, is a proponent of such an interpretation (1966), as are Robert Paul Wolff (1963), Jonathan Bennett (1966), Henry Allison (1983), Edwin McCann (1985), and Dennis Schulting (2012a). Demonstrating that we represent objects or an objective world has a key role in most versions of this reading. On Strawson’s interpretation, for instance, “the fact that my experience is of a unified objective world is a necessary consequence of the fact that only under this condition could I be conscious of my diverse experiences as one and all my own” (1966: 94). Some interpreters dissent; Karl Ameriks, for example, contends that Strawson’s conception of the Deduction is motivated by a desire to see it as showing that the skeptic about the external world is mistaken, while in fact refuting this sort of skeptic is not one of Kant’s aims for this argument (Ameriks 1978; also Allais 2011, 2015)[^allais-2011][^ameriks-1978]. Patricia Kitcher (2011: 115–18) argues against the single premise about self-consciousness interpretation on historical and textual grounds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按一种流传甚广的读法，B 版演绎的 §15–20 构成一个论证，其唯一的假设是康德在 §16 中为之辩护的那个关于自我意识的前提。例如 Strawson 就是这种解读的支持者（1966），Robert Paul Wolff（1963）、Jonathan Bennett（1966）、Henry Allison（1983）、Edwin McCann（1985）与 Dennis Schulting（2012a）亦然。在多数版本的这种读法中，证明我们表象对象或一个客观世界都起关键作用。例如按 Strawson 的解读，“我的经验是一个统一的客观世界的经验这一事实，是如下事实的必然结果：只有在这一条件下，我才能把我的各种经验意识为同一个、且全都属于我的经验”（1966: 94）。有些解释者不赞成。例如 Karl Ameriks 主张，Strawson 对演绎的构想出于一种愿望，即把它看作证明了关于外部世界的怀疑论者是错的，而事实上驳倒这类怀疑论者并不是康德这一论证的目标之一（Ameriks 1978；另见 Allais 2011, 2015）[^allais-2011][^ameriks-1978]。Patricia Kitcher（2011: 115–18）则从历史与文本两方面反对“单一自我意识前提”的解读。
+    step2: |-
+      按一种颇为流行的读法，B 版演绎 §15–20 构成一个论证，其唯一假设就是康德在 §16 中为之辩护的自我意识前提。Strawson（1966）即持此种解读，Robert Paul Wolff（1963）、Jonathan Bennett（1966）、Henry Allison（1983）、Edwin McCann（1985）与 Dennis Schulting（2012a）亦然。在这一读法的多数版本中，“我们表象对象、或表象一个客观世界”一点起着关键作用。以 Strawson 的解读为例：“我的经验乃是一个统一的客观世界之经验，这一事实是下述事实的必然结果：唯有在此条件下，我才可能把我的种种不同经验意识为全都属于同一个我”（1966: 94）。亦有解释者持异议。例如 Karl Ameriks 认为，Strawson 对演绎的构想源于一种愿望——想让它表明关于外部世界的怀疑论者错了；而驳倒这类怀疑论者其实并不在康德此论证的目标之列（Ameriks 1978；另见 Allais 2011, 2015）[^allais-2011][^ameriks-1978]。Patricia Kitcher（2011: 115–18）则从历史与文本两方面反驳“单一自我意识前提”的解读。
   - id: 35
     kind: body
     source: |-
       An uncontroversial role of §17 is to provide a characterization of an object, or more to the point, of a representation of an object, that facilitates a challenge to Humean associationism. Kant’s proposal is that an object is “that in the concept of which a manifold of a given intuition is united” (B137). Here ‘object’ should be read in the broad sense of *objective feature of reality* – a feature whose existence and nature is independent of how it is perceived (B 142; Bird 1962/1973 130–31; Strawson 1966: 98–104; Guyer 1987: 11–24)[^bird-1962][^guyer-1987][^strawson-1966]. Allison is a proponent of the view that §17 contain not only this challenge to Hume, but also an attempt to demonstrate that we represent objects on the basis of the conclusions about self-consciousness established in §16. This interpretation is a component of Allison’s broader vision of the B-Deduction, according to which Kant demonstrates that the unity of apperception entails that we represent objects, and, conversely, that our representing objects entails the necessary unity of apperception (Allison 1983: 144ff; 2015: 352–55; 2015: 335–55, esp. 352)[^allison-1983] Indeed, the crucial claim for Allison’s interpretation is that the unity of apperception is not only a necessary but also sufficient condition for our representing of objects. This he calls the *reciprocity thesis*. Other commentators, including Richard Aquila (1989: 159), Howell (1992: 227–8) and Schulting (2012a) agree that the B-Deduction features the reciprocity thesis and an attempt to establish its truth, while Ameriks (1978), for example, disagrees. On an account of the sort Ameriks favors, the unity of apperception, and more exactly, the synthesis that explains our consciousness of the identity of the subject, is only a necessary condition for the representation of objects (cf. Allais 2011)[^allais-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      §17 的一个无争议作用，是给出对对象、更确切地说对对象的表象的一种刻画，这种刻画便于对休谟式联想主义提出挑战。康德的提议是：对象是“在其概念中一个被给予直观的杂多被联合起来者”（B137）。这里的“对象”应作广义理解，即*实在的客观特征*——其存在与本性不依赖于它如何被知觉（B 142; Bird 1962/1973 130–31; Strawson 1966: 98–104; Guyer 1987: 11–24）[^bird-1962][^guyer-1987][^strawson-1966]。Allison 主张，§17 不仅包含对休谟的这一挑战，还企图依据 §16 所确立的自我意识结论来证明我们表象对象。这一解读是 Allison 对 B 版演绎更宏大构想的一个部分：按此构想，康德证明统觉的统一性蕴含我们表象对象，反过来说，我们表象对象也蕴含统觉的必然统一性（Allison 1983: 144ff; 2015: 352–55; 2015: 335–55, esp. 352）[^allison-1983]。对 Allison 的解读而言，关键主张是：统觉的统一性不仅是我们表象对象的必要条件，而且也是充分条件。他称之为*互惠论题*。包括 Richard Aquila（1989: 159）、Howell（1992: 227–8）与 Schulting（2012a）在内的其他评论者同意，B 版演绎含有互惠论题以及确立其为真的尝试；而例如 Ameriks（1978）则不同意。在 Ameriks 所偏好的那种说明中，统觉的统一性——更确切地说，说明我们对自己主体同一性之意识的综合——只是表象对象的必要条件（参 Allais 2011）[^allais-2011]。
+    step2: |-
+      §17 有一项无争议的作用：给出对对象、更确切说是对对象之表象的刻画，而这一刻画便于向休谟式联想主义发起挑战。康德的提议是：对象即“在其概念中一个被给予直观的杂多被联合起来者”（B137）。此处“对象”宜取广义，指*实在的客观特征*——其存在与本性独立于它如何被知觉（B 142; Bird 1962/1973 130–31; Strawson 1966: 98–104; Guyer 1987: 11–24）[^bird-1962][^guyer-1987][^strawson-1966]。Allison 力主，§17 除含对休谟的这一挑战之外，还试图依据 §16 确立的自我意识结论，证明我们表象对象。此解读属于 Allison 对 B 版演绎的更大构想：依该构想，康德证明统觉的统一性蕴含我们表象对象；反之，我们表象对象也蕴含统觉的必然统一性（Allison 1983: 144ff; 2015: 352–55; 2015: 335–55, esp. 352）[^allison-1983]。对 Allison 而言，关键主张在于：统觉的统一性不仅是我们表象对象的必要条件，亦是其充分条件。他称之为*互惠论题*。另有评论者——Richard Aquila（1989: 159）、Howell（1992: 227–8）、Schulting（2012a）——同样认为，B 版演绎含有互惠论题及确立其为真的尝试；Ameriks（1978）等人则不以为然。按 Ameriks 所偏好的一类说明，统觉的统一性——更确切说，说明我们关于主体同一性之意识的综合——只是表象对象的必要条件（参 Allais 2011）[^allais-2011]。
   - id: 36
     kind: body
     source: |-
       Allison’s interpretation is attractive particularly because it promises leverage against the skeptic who denies that we represent objects, and also because this leverage is generated by premises about self-consciousness that this skeptic is likely to accept. Nevertheless, there are textual and charitable reasons to resist this reading (Ameriks 1978, Pereboom 1995; Patricia Kitcher 2011: 115–60; Vinci 2014: 193–94)[^ameriks-1978][^kitcher-2011][^pereboom-1995][^vinci-2014]. First of all, in §§18–20 Kant makes significant assumptions about features of our representations of objects that exceed anything that he has argued for in §17 or earlier. In particular, §18 he assumes that our representations of objects manifest a certain kind of necessity and universality, and this he does not purport to establish in §17 or earlier. Moreover, in the summary of the preceding steps of the B-Deduction in §20 Kant does not include premises from §§15–16. What we actually encounter in §20 indicates that Kant intends §§17–20, with some help from §13, to constitute a single, self-contained argument that does not depend on the conclusions about self-consciousness developed in §§15–16.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Allison 的解读有吸引力，尤其因为它许诺对否认我们表象对象的怀疑论者取得制胜的杠杆，而这一杠杆又由该怀疑论者很可能接受的自我意识前提所产生。不过，有文本上与善意解释上的理由抵制这一读法（Ameriks 1978, Pereboom 1995; Patricia Kitcher 2011: 115–60; Vinci 2014: 193–94）[^ameriks-1978][^kitcher-2011][^pereboom-1995][^vinci-2014]。首先，在 §18–20 中，康德对我们的对象表象之特征作出了重大假设，这些假设超出了他在 §17 或更早处所论证的任何东西。特别是，§18 假设我们的对象表象表现出某种必然性与普遍性，而他在 §17 或更早处并未声称确立这一点。此外，在 §20 对 B 版演绎前述步骤的概述中，康德并未纳入 §15–16 的前提。我们在 §20 中实际看到的内容表明：康德意在让 §17–20（借助 §13 的一点帮助）构成一个单一而自足的论证，它不依赖于 §15–16 所发展的自我意识结论。
+    step2: |-
+      Allison 的解读之所以有吸引力，主要在于它能给否认我们表象对象的怀疑论者一个有力支点；而这一支点又是由该怀疑论者多半会接受的自我意识前提生成的。不过，无论就文本还是就善意解释而言，都有理由抑制这一读法（Ameriks 1978, Pereboom 1995; Patricia Kitcher 2011: 115–60; Vinci 2014: 193–94）[^ameriks-1978][^kitcher-2011][^pereboom-1995][^vinci-2014]。首先，§18–20 中，康德对我们对象表象的诸多特征作出了重大假设，其分量超出 §17 或更早处所论证的一切。尤其 §18 假定：我们的对象表象呈现出某种必然性与普遍性，而这一点的确立并非他在 §17 或更早处的声称。再者，§20 概述 B 版演绎此前各步时，康德并未列入 §15–16 的前提。§20 实际呈现的内容显示：康德想让 §17–20（略得 §13 之助）构成一个单一且自足的论证，并不倚赖 §15–16 所展开的自我意识结论。
   - id: 37
     kind: body
     source: |-
       On Allison’s conception, the argument from the unity of apperception (or, equivalently, from the unity of consciousness) for our representing objects occurs in the following passage:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按 Allison 的构想，从统觉的统一性（等价地说，从意识的统一性）出发论证我们表象对象的那个论证，见于下面这段文字：
+    step2: |-
+      在 Allison 的构想中，由统觉的统一性（等价地，由意识的统一性）推出我们表象对象的那一论证，见于下述段落：
   - id: 38
     kind: body
     source: |-
       > Understanding is, to use general terms, the faculty of cognitions (*Erkenntnisse*). They consist (*bestehen*) in the determinate relation of given representations to an object: and an object is that in the concept of which the manifold of a given intuition is united. Now all unification of representations demands unity of consciousness in the synthesis of them. Consequently it is the unity of consciousness that alone constitutes the relation of representations to an object, and therefore their objective validity and the fact that they are cognitions (*Erkenntnisse*): and upon it therefore rests the very possibility of the understanding. (B137)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 知性，用一般的话说，是认识（*Erkenntnisse*）的能力。认识在于把被给予的表象与一个对象发生确定的关系；而对象就是在其概念中一个被给予直观的杂多被联合起来者。但一切表象的联合都要求在这些表象的综合中的意识统一性。因此，唯有意识的统一性才构成诸表象与一个对象的关系，从而构成它们的客观有效性，以及它们成为认识（*Erkenntnisse*）这一事实；所以，知性的可能性本身也系于此。（B137）
+    step2: |-
+      > 用一般的话说，知性是认识（*Erkenntnisse*）的能力。认识（*bestehen*）在于把被给予的表象确定地关联于一个对象；而对象则是这样的东西：在其概念中，一个被给予直观的杂多被联合起来。如今，一切表象的联合都在其综合中要求意识的统一性。于是，唯有意识的统一性才构成诸表象对一个对象的关系，从而构成它们的客观有效性，以及它们是认识（*Erkenntnisse*）这一事实；因此，知性本身的可能性也基于它。（B137）
   - id: 39
     kind: body
     source: |-
       Allison himself presents a problem for his interpretation of this passage from B137. He contends, first of all, that the reciprocity thesis is encapsulated in this sentence:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Allison 本人对自己关于 B137 这段话的解读提出了一个难题。他首先主张，互惠论题被概括在下面这句中：
+    step2: |-
+      就 B137 这段话的解读而言，Allison 自己也提出了一个难题。他首先断言，互惠论题就凝缩在下面这句话里：
   - id: 40
     kind: body
     source: |-
       > (A) It is the unity of consciousness that alone constitutes [*ausmacht*] the relation of representations to an object, and therefore their objective validity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （A）正是意识的统一性，唯独它构成〔*ausmacht*〕诸表象与一个对象的关系，从而构成它们的客观有效性。
+    step2: |-
+      > （A）唯有意识的统一性构成〔*ausmacht*〕诸表象对一个对象的关系，因而构成它们的客观有效性。
   - id: 41
     kind: body
     source: |-
       and that Kant presents (A) as a direct consequence of the claim:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      并且康德把 (A) 作为下述主张的直接后果提出：
+    step2: |-
+      并认为康德是将 (A) 当作下面这个主张的直接推论提出的：
   - id: 42
     kind: body
     source: |-
       > (B) All unification of representations demands unity of consciousness in the synthesis of them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （B）一切表象的联合都要求在这些表象的综合中的意识统一性。
+    step2: |-
+      > （B）一切表象的联合，都在其综合中要求意识的统一性。
   - id: 43
     kind: body
     source: |-
       Allison points out that on this reading Kant’s reasoning appears to involve a *non sequitur*, since (B) supports only that the unity of consciousness is a necessary condition for the representation of an object, and not for its also being a sufficient condition. Howell raises a similar concern: “In §17 Kant simply does not make this inference clear, and an air of blatant fallacy hovers over this part of his reasoning” (Howell 1992: 228; for an opposing view see Keller 1998: 80)[^howell-1992][^keller-1998]. But Ameriks argues that the B-Deduction should not be interpreted as providing an argument for the sufficiency claim, and a respectable case can be made for his reading (Ameriks 1978; Pereboom 1995; Patricia Kitcher 2011: 115–60)[^ameriks-1978][^kitcher-2011][^pereboom-1995].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Allison 指出，按这一读法，康德的推理似乎包含一个“非推论”（*non sequitur*），因为 (B) 只支持“意识的统一性是对象表象的必要条件”，并未支持它同时也是充分条件。Howell 提出了类似的疑虑：“在 §17 中，康德根本没有把这个推论说清楚，而一种明显的谬误气息笼罩着他这部分推理”（Howell 1992: 228；反对意见见 Keller 1998: 80）[^howell-1992][^keller-1998]。但 Ameriks 主张，不应当把 B 版演绎解释为为充分性主张提供论证，而他的读法可以说得通（Ameriks 1978; Pereboom 1995; Patricia Kitcher 2011: 115–60）[^ameriks-1978][^kitcher-2011][^pereboom-1995]。
+    step2: |-
+      Allison 指出，按这一读法，康德的推理似乎有个“非推论”（*non sequitur*）：(B) 只支持“意识的统一性是对象表象的必要条件”，却支持不了它同时是充分条件。Howell 也有类似的忧虑：“§17 中，康德压根没有把这个推论讲清楚；他这部分推理上空飘着一股明显的谬误气味”（Howell 1992: 228；相反意见见 Keller 1998: 80）[^howell-1992][^keller-1998]。但 Ameriks 主张，不应把 B 版演绎读作为充分性主张提供论证；其读法亦能自圆其说（Ameriks 1978; Pereboom 1995; Patricia Kitcher 2011: 115–60）[^ameriks-1978][^kitcher-2011][^pereboom-1995]。
   - id: 44
     kind: body
     source: |-
       Allison and Howell both argue that (A) should be read as a statement of the sufficiency claim. Now in the B137 passage Kant contends that cognitions of objects consist in a determinate relation of representations to objects, and as (A) indicates, this relation is constituted or produced by a synthesis that essentially involves the unity of consciousness. However, (A) does not indicate that the synthesis that involves unity of consciousness cannot occur without its resulting in a relation of a representation to an object. By analogy, the smelting and molding of steel are processes that constitute or produce steel girders, but from this one should not conclude that the processes of smelting and molding steel cannot take place without the production of steel girders. Just as producing steel girders also requires molds of particular shapes, so producing representations of objects might require, in addition to the synthesis that involves the unity of consciousness, specific concepts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Allison 与 Howell 都主张，(A) 应读作充分性主张的陈述。在 B137 那段中，康德主张对对象的认识在于表象与对象的确定关系；而如 (A) 所示，这一关系由一种本质上涉及意识统一性的综合所构成或产生。然而，(A) 并未表明：涉及意识统一性的综合若不产生表象与对象的关系，便不能发生。类比而言，钢的熔炼与浇铸是构成或产生钢梁的过程，但不应由此结论说：熔炼与浇铸钢的过程若未产出钢梁便不能发生。正如生产钢梁还需要特定形状的模具，产生对象的表象也许还需要涉及意识统一性的综合之外的特定概念。
+    step2: |-
+      Allison 与 Howell 都主张，(A) 应读作对充分性主张的表述。在 B137 那段文字里，康德主张：对对象的认识在于诸表象与对象之间的确定关系；而如 (A) 所示，此种关系由一种本质上包含意识统一性的综合所构成、所产生。可是，(A) 并没有说：包含意识统一性的综合，非得产生表象与对象的关系才可发生。打个比方：炼钢与铸型是构成、产生钢梁的工序，但由此不能推论说，炼钢与铸型离开钢梁的生产就无法进行。正如生产钢梁另需特定形状的模具，产生对象的表象在包含意识统一性的综合之外，或许还另需特定概念。
   - id: 45
     kind: body
     source: |-
       If the sufficiency claim, and with it the reciprocity thesis, is denied, we need an alternative account of how §17 functions in the overall argument of the B-Deduction. It may be that the role of this section is largely to provide a characterization of an object that has a key role in the ensuing challenge to Humean associationism, and thereby initiates an argument from below. Kant’s proposal is that an object is “that in the concept of which a manifold of a given intuition is united” (B137). The subsequent claim is that the unification of a manifold requires synthesis; immediately following the characterization of an object he states that “all unification of representations demands unity of consciousness in the synthesis of them” (B137). It seems consistent with these texts that Kant’s characterization of an object is designed just to present his anti-Humean theory of the mental processing required for representing objects, and that the subsequent claim for the need for synthesis does not express a view he expects us to accept without further argument, but rather one he aims to confirm in §§18–20. If this argument succeeds, it will turn out that the *a priori* synthesis required to account for the features of our representations of objects Kant singles out is the same process that yields my consciousness of the identity of myself as subject of different self-attributions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若否认充分性主张、并随之否认互惠论题，我们就需要另一种说明，来解释 §17 在 B 版演绎整体论证中的作用。也许这一节的作用主要是提供一种对象刻画，而该刻画在随后对休谟式联想主义的挑战中起关键作用，并由此启动一个自下而上的论证。康德的提议是：对象是“在其概念中一个被给予直观的杂多被联合起来者”（B137）。随后的主张是：杂多的统一化要求综合；在给出对象刻画之后，他紧接着说“一切表象的联合都要求在这些表象的综合中的意识统一性”（B137）。与这些文本一致的理解是：康德对对象的刻画只是为了提出他关于表象对象所需心理加工的反休谟理论，而随后关于综合之必要的主张并不是他期望我们不加深究便接受的观点，而是他要在 §18–20 中加以确认的观点。若这一论证成功，结果将是：为说明康德所挑出的我们对象表象之特征所需的*先天*综合，与产生我作为不同自我归赋之主体之同一性意识的是同一个过程。
+    step2: |-
+      倘若否认充分性主张，互惠论题也就随之被否弃，那么对 §17 在 B 版演绎整体论证中起何作用，就需要另作说明。也许这一节的主要任务只是给出对象的一种刻画，而该刻画在随后挑战休谟式联想主义时至关重要，并由此开启一个自下而上的论证。康德的提议是：对象即“在其概念中一个被给予直观的杂多被联合起来者”（B137）。接下来的主张是：杂多的统一化需要综合；在给出对象刻画之后，他随即说道“一切表象的联合都在其综合中要求意识的统一性”（B137）。与这些文本相合的理解是：康德刻画对象，只是为了端出他关于表象对象所需心理加工的反休谟理论；而随后关于综合之必要的主张，并非他指望我们不加深究便接受的论点，而是他要在 §18–20 中加以确证者。此论证若成，则结论便是：说明康德所挑出的我们对象表象特征所需的*先天*综合，与生成“我作为不同自我归赋之主体”这一同一性意识的，乃是同一个过程。
   - id: 46
     kind: body
     source: |-
       ### 1.3 Universality and Necessity in our Experience of Objects
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3 我们对象经验中的普遍性与必然性
+    step2: |-
+      ### 1.3 对象经验中的普遍性与必然性
   - id: 47
     kind: body
     source: |-
       In §18 Kant draws our attention to certain features of our representations of objects that in his view will serve to defeat associationism and establish *a priori* synthesis:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 §18 中，康德要我们注意我们对象表象的某些特征；在他看来，这些特征将有助于击败联想主义、确立*先天*综合：
+    step2: |-
+      §18 中，康德提请我们注意我们对象表象的若干特征；他认为，这些特征适足以击败联想主义、确立*先天*的综合：
   - id: 48
     kind: body
     source: |-
       > The transcendental unity of apperception is that unity through which all the manifold given in an intuition is united in a concept of the object. It is therefore entitled objective, and must be distinguished from the subjective unity of consciousness… Whether I can become *empirically* conscious of the manifold as simultaneous or as successive depends on circumstances and empirical conditions. Therefore, the empirical unity of consciousness, through association of representations, itself concerns an appearance, and is wholly contingent… Only the original unity is objectively valid: the empirical unity of apperception,… which… is merely derived from the former under given conditions *in concreto*, has only subjective validity. One person connects the representation of a certain word with one thing, the other [person] with another thing; the unity of consciousness in that which is empirical is not, as regards what is given, necessarily and universally valid. (B139–4
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 先验统觉的统一性，就是这样一种统一性：一个直观中被给予的一切杂多都通过它而在对象的概念中被联合起来。因此它是客观的，必须与意识的主观统一性区别开来……我能否*经验地*意识到杂多是同时的或相继的，取决于各种情况和经验条件。因此，通过表象联想而来的意识之经验统一性本身只涉及现象，并且完全是偶然的……唯有本源的统一性是客观有效的：统觉的经验统一性……只在既定条件下*具体地*从前一种统一性派生而来，只具有主观有效性。一个人把某个词的表示与一件事物结合起来，另一个人则与另一件事物结合；在经验性的东西中的意识统一性，就所给予的东西而言，并不是必然地和普遍地有效的。（B139–4）
+    step2: |-
+      > 先验统觉的统一性即是这样的统一性：一个直观中被给予的全部杂多，都通过它而在对象的概念中被联合起来。所以它是客观的，必须与意识的主观统一性区分开来……我究竟能否*经验地*意识到杂多为同时的抑或相继的，取决于情形与经验条件。于是，由表象联想而来的意识之经验统一性，本身只关涉现象，且全然是偶然的……唯有本源统一性是客观有效的：统觉的经验统一性……在既定条件下*具体地*仅仅派生自前者，因而只具主观有效性。某人把某个词的表示与一物联结，另一人则与另一物联结；就所给予者而言，经验性东西中的意识统一性并非必然地、普遍地有效。（B139–4）
   - id: 49
     kind: body
     source: |-
       For Kant, a defining feature of our representations of objects is their objective validity. For a representation to be objectively valid it must be a representation of an objective feature of reality, that is, a feature whose existence and nature is independent of how it is perceived (Guyer 1987:11–24)[^guyer-1987]. In this argument, it appears that Kant just assumes that the representations that make up experience are objectively valid. He then aims to establish that association is inadequate because it can yield only representations that are not objectively valid. In the above passage, Kant contends that our objectively valid representations must in a sense be necessary and universal. However, the empirical unity of consciousness, which involves an ordering of representations achieved by association, can only be non-universal, contingent, and hence merely subjectively valid, by contrast with the transcendental unity of apperception, which involves an ordering that is universal and necessary, and is therefore objectively valid. In Kant’s conception, it is the fact that the transcendental unity of apperception is generated by *a priori* synthesis that allows it to yield an ordering that is universal, necessary, and objectively valid. (Ameriks 1978, Pereboom 1995, Patricia Kitcher 2011: 115–60; Allais 2011, 2015, 2022; Vinci 2014)[^allais-2011][^ameriks-1978][^kitcher-2011][^pereboom-1995][^vinci-2014]. On Lucy Allais’s proposal, empirically we are acquainted with objects, but absent a priori synthesis, empirical representations would be of objects that are indeterminate with respect to multiple possible ways of conceptualizing and individuating them. Only with a priori synthesis is the representation of determinate objects possible. The concept of cause has a key role here, since determinacy is paradigmatically a function of represented causal unity of objects (Allais 2015: 275–85; cf. Beck 1978; Vinci 2014: 134–44)[^allais-2015][^beck-1978][^beck-1978-2][^vinci-2014]. This determinacy, by virtue of a shared scheme of a priori concepts, yields the universality and necessity Kant has in mind.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在康德看来，我们对象表象的一个定义性特征就是其客观有效性。一个表象要具有客观有效性，它就必须是对实在之客观特征的表象，即这样一个特征：其存在与本性不依赖于它如何被知觉（Guyer 1987:11–24）[^guyer-1987]。在这一论证中，康德似乎径行假定：构成经验的那些表象是客观有效的。他进而意在确立：联想并不充分，因为它只能产生不具客观有效性的表象。在上引段落中，康德主张，我们客观有效的表象在某种意义上必须是必然的与普遍的。然而，意识的经验统一性涉及由联想达成的表象排序，只能是非普遍的、偶然的，因而是纯主观有效的；与之相对，统觉的先验统一性所涉及的排序是普遍而必然的，因而是客观有效的。在康德的构想中，正是统觉的先验统一性由*先天*综合所产生这一事实，使它能够给出普遍、必然而客观有效的排序（Ameriks 1978, Pereboom 1995, Patricia Kitcher 2011: 115–60; Allais 2011, 2015, 2022; Vinci 2014）[^allais-2011][^ameriks-1978][^kitcher-2011][^pereboom-1995][^vinci-2014]。按 Lucy Allais 的提议，我们在经验中与对象有亲知，但若无先天综合，经验性表象所对的对象在“以何种方式概念化并个体化”上会是未定的，存在多种可能；唯有借助先天综合，确定对象的表象才可能。原因概念在此起关键作用，因为确定性典型地是对象之被表象的因果统一性的函数（Allais 2015: 275–85; cf. Beck 1978; Vinci 2014: 134–44）[^allais-2015][^beck-1978][^beck-1978-2][^vinci-2014]。借由一套共享的先天概念图式，这种确定性便产生出康德所想的普遍性与必然性。
+    step2: |-
+      对康德而言，我们关于对象的表象有一个定义性特征：客观有效性。一个表象若具客观有效性，它便须是关于实在之客观特征的表象——该特征的存在与本性不因它如何被知觉而变（Guyer 1987:11–24）[^guyer-1987]。在此论证中，康德似乎径直假定：构成经验的诸表象皆具客观有效性。随后他要确立的是：联想不中用，因为它所产出的表象只能是不具客观有效性的。在上引段落里，康德主张：我们客观有效的表象，在某种意义上必是必然的、普遍的。可是，意识的经验统一性牵涉由联想达成的表象排序，只能是非普遍的、偶然的，因而仅具主观有效性；统觉的先验统一性则牵涉普遍而必然的排序，故具客观有效性。在康德看来，统觉的先验统一性由*先天*综合所生成，正是这一点使它能够给出普遍、必然、客观有效的排序（Ameriks 1978, Pereboom 1995, Patricia Kitcher 2011: 115–60; Allais 2011, 2015, 2022; Vinci 2014）[^allais-2011][^ameriks-1978][^kitcher-2011][^pereboom-1995][^vinci-2014]。按 Lucy Allais 的提议：经验上我们与对象有亲知；但若无先天综合，经验性表象所对的对象，在“以哪些方式概念化、个体化”上便有多种可能而未确定；唯当有先天综合，确定对象的表象方才可能。原因概念于此至关重要，因为确定性典型地就是对象之被表象的因果统一性所成就的函数（Allais 2015: 275–85; cf. Beck 1978; Vinci 2014: 134–44）[^allais-2015][^beck-1978][^beck-1978-2][^vinci-2014]。靠着一套共享的先天概念图式，此种确定性便带来康德所意指的普遍性与必然性。
   - id: 50
     kind: body
     source: |-
       To illustrate and support these claims, Kant invokes examples of the ordering of phenomena in time that also have the key role in the discussion of the Second Analogy (cf. Guyer 1987: 87–90; Dicker 2004: 137–44)[^dicker-2004][^guyer-1987]. There Kant argues that our representations, considered independently of their content, are always successive. For example, when I view the front, sides, and back of the house when walking around it, and when I watch a boat float downstream, my representations of the individual parts and states occur successively. The content of these successive representations, however, can be represented as either determinately and objectively successive or as determinately and objectively simultaneous. And as it in fact turns out, despite the representations in each of these sequences being subjectively successive, we represent the parts of the house as objectively simultaneous, and the positions of the boat as objectively successive. How might we account for this difference in objectivity despite the similarity in subjectivity? (Melnick 1973: 89)[^melnick-1973]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为说明并支持这些主张，康德举出若干现象在时间中排序的例子，这些例子在第二类比的讨论中也起关键作用（参 Guyer 1987: 87–90; Dicker 2004: 137–44）[^dicker-2004][^guyer-1987]。在那里康德论证说，我们的表象若不顾其内容，便总是相继的。例如，我绕着一座房子走动并观看其正面、侧面与背面，或者我注视一条船顺流而下时，我对各个部分与状态的表象都是相继发生的。然而，这些相继表象的内容，却可以被表象为确定地、客观地相继，也可以被表象为确定地、客观地同时。而事实上，尽管这两组序列中的表象在主观上都是相继的，我们却把房子的各个部分表象为客观上同时的，把船的位置表象为客观上相继的。尽管主观方面相似，这一客观性上的差异该如何说明？（Melnick 1973: 89）[^melnick-1973]
+    step2: |-
+      为阐明并支持上述主张，康德援引了若干现象在时间中排序的例子，这些例子在第二类比的讨论中同样举足轻重（参 Guyer 1987: 87–90; Dicker 2004: 137–44）[^dicker-2004][^guyer-1987]。康德的论证是：我们的表象若撇开内容来看，总是相继的。譬如，我绕房而行，看它的正面、侧面与背面；或注目一舟顺流而下——我对各个部分、各种状态的表象都是先后发生的。但这些相继表象的内容，却既可被表象为确定而客观的相继，也可被表象为确定而客观的同时。事实上，尽管两个序列中的表象在主观上皆属相继，我们仍把房屋各部分表象为客观同时，把船的诸位置表象为客观相继。主观方面如此相似，客观性上却有此差异，该如何解释？（Melnick 1973: 89）[^melnick-1973]
   - id: 51
     kind: body
     source: |-
       The important clue for answering this question is that these representations of objective simultaneity and succession are universal and necessary. It is the universality and necessity of our representing the parts of the house as simultaneous that accounts for our representing them as objectively simultaneous, and the universality and necessity of our representing the positions of the boat as successive that accounts for our representing them as objectively successive. Association is inadequate for accounting for this objectivity because it is incapable of yielding such universality and necessity, a defect not shared by synthesis.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      回答这一问题的关键线索是：这些关于客观同时与相继的表象是普遍而必然的。正是我们把房子各部分表象为同时的那种普遍性与必然性，说明了我们何以把它们表象为客观同时；也正是我们把船的位置表象为相继的普遍性与必然性，说明了我们何以把它们表象为客观相继。联想不足以说明这种客观性，因为它无法产生这样的普遍性与必然性，而综合则没有这一缺陷。
+    step2: |-
+      解答此问的重要线索在于：这些关于客观同时与客观相继的表象是普遍而必然的。我们把房屋各部分表象为同时，其普遍性与必然性说明了何以后者被表象为客观同时；我们把船的诸位置表象为相继，其普遍性与必然性说明了何以后者被表象为客观相继。要说明这种客观性，联想不够用，因为它产生不出这样的普遍性与必然性——这一缺陷综合没有。
   - id: 52
     kind: body
     source: |-
       A first approximation of the import of ‘universal’ in the house example is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在房屋一例中，“普遍的”之含义的初步近似是：
+    step2: |-
+      就房屋之例而言，“普遍”一词含义的初步近似可表述为：
   - id: 53
     kind: body
     source: |-
       > (U) Any human experience of the parts of the house is an experience of these parts as objectively simultaneous.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （U）任何人关于房子各部分的经验，都是把这些部分经验为客观同时的。
+    step2: |-
+      > （U）人对房屋各部分的任何经验，都是把这些部分经验为客观上同时的。
   - id: 54
     kind: body
     source: |-
       The addition of necessity has the following effect on (U):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      加上必然性之后，对 (U) 有如下效果：
+    step2: |-
+      若添上必然性，(U) 便成为：
   - id: 55
     kind: body
     source: |-
       > (U-N, first pass) Necessarily, any human experience of the parts of the house is an experience of these parts as objectively simultaneous.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （U-N，初稿）必然地，任何人关于房子各部分的经验，都是把这些部分经验为客观同时的。
+    step2: |-
+      > （U-N，初版）必然地，人对房屋各部分的任何经验，都是把这些部分经验为客观上同时的。
   - id: 56
     kind: body
     source: |-
       This claim would be resisted by Hume if the necessity were specified as ranging over all possible circumstances, for Hume’s theory would allow for the possibility of a deviant ordering in unusual empirical conditions. But (U-N, first pass) can be reformulated more precisely as
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若把这里的必然性理解为遍及一切可能情况，休谟就会抵制这一主张，因为休谟的理论容许在异常经验条件下出现偏离常规的排序。但（U-N，初稿）可以更精确地重述为
+    step2: |-
+      倘若此处的必然性被规定为涵盖一切可能情形，休谟便要拒斥这一主张：按其理论，在异常的经验条件下，偏离常规的排序亦属可能。不过（U-N，初版）可以更精确地重述为
   - id: 57
     kind: body
     source: |-
       > (U-N) Necessarily, if empirical conditions are normal, any human experience of the parts of the house is an experience of these parts as objectively simultaneous.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （U-N）必然地，若经验条件是正常的，则任何人关于房子各部分的经验，都是把这些部分经验为客观同时的。
+    step2: |-
+      > （U-N）必然地：只要经验条件正常，人对房屋各部分的任何经验，便是把这些部分经验为客观上同时的。
   - id: 58
     kind: body
     source: |-
       Kant’s view is that given only the resources of association, the truth of (U-N) cannot be explained. The reason is “whether I can become empirically conscious of the manifold as simultaneous or as successive depends on circumstances or empirical conditions,” and so “the empirical unity of consciousness, through association of representations, itself concerns an appearance, and is wholly contingent” (B139–40). Association cannot explain the truth of (U-N), for given only the resources of association, the parts of the house will not necessarily or universally be represented as objectively simultaneous even supposing only normal empirical conditions. Kant asks us to consider an activity, word association, which functions as a paradigm for association. Word association, familiarly, does not yield universal and necessary patterns; “one person connects the representation of a certain word with one thing, the other [person] with another thing…” (B140). Hume’s own paradigm for association in is the relations among parts of a conversation (1748: §3). In such conversations, people make different associations in the same circumstances. Kant’s point is that if the very paradigms for association fail to exhibit the sort of necessity and universality at issue, then the hypothesis that association is powerful enough to yield such an ordering of representations – wherever we find it – is ruled out. (Pereboom 1995; Dickerson 2004: 170–77; for an account of a more general relationship in Kant between universality and necessity on the one hand and apriority on the other, see Smit 2009)[^dicker-2004][^dickerson-2004][^pereboom-1995][^smit-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德的看法是：仅凭联想所提供的资源，(U-N) 之真无法得到说明。理由在于：“我能否经验地意识到杂多是同时的或相继的，取决于各种情况或经验条件”，所以“通过表象联想而来的意识之经验统一性本身只涉及现象，并且完全是偶然的”（B139–40）。联想无法说明 (U-N) 之真，因为仅凭联想的资源，即便只设想正常的经验条件，房子的各部分也不会必然地或普遍地被表象为客观同时。康德要我们考虑一种活动即词语联想，它可作联想的范式。众所周知，词语联想并不会产生普遍而必然的模式；“一个人把某个词的表示与一件事物结合起来，另一个人则与另一件事物结合……”（B140）。休谟本人为联想所立的范式是对话各部分之间的关系（1748: §3）。在此类对话中，人们在同样的情况下作出不同的联想。康德的要点是：如果连联想本身的范式都无法表现出所论的必然性与普遍性，那么“联想强大到足以产生这样一种表象排序——无论我们在何处发现它”这一假设便被排除（Pereboom 1995; Dickerson 2004: 170–77；关于康德那里普遍性与必然性同先天性之间更一般关系的说明，见 Smit 2009）[^dicker-2004][^dickerson-2004][^pereboom-1995][^smit-2009]。
+    step2: |-
+      康德的观点是：仅凭联想的资源，(U-N) 之真无从解释。理由在于“我能否经验地意识到杂多为同时的抑或相继的，取决于情形或经验条件”，故“由表象联想而来的意识之经验统一性，本身只关涉现象，且全然是偶然的”（B139–40）。联想解释不了 (U-N) 之真：仅凭联想的资源，哪怕只假定正常的经验条件，房屋各部分也未必必然地、普遍地被表象为客观同时。康德请我们考虑词语联想这一活动——它是联想的范式。众所周知，词语联想生不出普遍而必然的模式；“某人把某个词的表示与一物联结，另一人则与另一物联结……”（B140）。休谟本人给联想所立的范式，是对话各部分之间的关系（1748: §3）；而在此类对话中，同一情形之下人们的联想各不相同。康德的要点是：倘若连联想的范式本身都显现不出所论的必然性与普遍性，那么“联想之力量足以生成这样一种表象排序——无论它在何处出现”这一假设便告不成立（Pereboom 1995; Dickerson 2004: 170–77；关于康德那里普遍性、必然性与先天性之间更一般关系的论述，见 Smit 2009）[^dicker-2004][^dickerson-2004][^pereboom-1995][^smit-2009]。
   - id: 59
     kind: body
     source: |-
       Here we should see Kant as advancing his claim for the applicability of the categories by ruling out association as an explanation for (U-N). The structure of this part of the transcendental deduction, the argument from below, can be represented as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在此我们应把康德理解为：他通过排除联想作为 (U-N) 的解释，来推进其关于范畴可适用性的主张。先验演绎这一部分（即自下而上的论证）的结构可表示如下：
+    step2: |-
+      这里应当看到：康德是以排除“联想可作为 (U-N) 之解释”的方式，来推进其范畴可适用性的主张。先验演绎的这一部分——自下而上的论证——其结构可表示如下：
   - id: 60
     kind: body
     source: |-
@@ -423,110 +513,158 @@ segments:
       5. All of our representations of objects require a faculty for ordering mental states distinct from association. (3, 4)
       6. If (5) is true, all of our representations of objects require a faculty for synthesis by *a priori* concepts. (premise)
       7. We have representations of objects, all of which require a faculty for synthesis by *a priori* concepts. (1, 5, 6)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 我们有关于对象的表象，即关于客观有效现象的表象。（前提）
+      2. 我们所有关于对象的表象都（部分地）是关于经验的普遍而必然特征的。（前提）
+      3. 经验的必然而普遍的特征无法由联想说明。（前提，出自对联想本性的反思）
+      4. 若 (2) 与 (3) 为真，则我们所有关于对象的表象都需要一种区别于联想的、为心理状态排序的能力。（前提）
+      5. 我们所有关于对象的表象都需要一种区别于联想的、为心理状态排序的能力。（3, 4）
+      6. 若 (5) 为真，则我们所有关于对象的表象都需要一种借*先天*概念进行综合的能力。（前提）
+      7. 我们有关于对象的表象，它们全都需要一种借*先天*概念进行综合的能力。（1, 5, 6）
+    step2: |-
+      1. 我们拥有关于对象的表象，即关于客观有效现象的表象。（前提）
+      2. 我们一切关于对象的表象，都（部分地）涉及经验的普遍而必然的特征。（前提）
+      3. 经验的必然且普遍的特征，不能由联想来解释。（前提，得自对联想本性的反思）
+      4. 倘若 (2) 与 (3) 成立，则我们一切关于对象的表象，都有赖于一种与联想不同的、为心理状态排序的能力。（前提）
+      5. 我们一切关于对象的表象，都有赖于一种与联想不同的、为心理状态排序的能力。（3, 4）
+      6. 倘若 (5) 成立，则我们一切关于对象的表象，都有赖于一种借*先天*概念进行综合的能力。（前提）
+      7. 我们拥有关于对象的表象，而它们全都有赖于一种借*先天*概念进行综合的能力。（1, 5, 6）
   - id: 61
     kind: body
     source: |-
       We can expand (7) to explicitly note the link to the argument from above:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以展开 (7)，以明确指出它与自上而下论证的联系：
+    step2: |-
+      把 (7) 展开，便可明示它与自上而下论证的关联：
   - id: 62
     kind: body
     source: |-
       > 7*. We have representations of objects, all of which require a faculty for synthesis by *a priori* concepts, the same faculty required to account for my consciousness of the identity of myself as subject of different self-attributions of mental states.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 7*. 我们有关于对象的表象，它们全都需要一种借*先天*概念进行综合的能力——而这正是用来说明“我作为不同心理状态自我归赋之主体”这一同一性意识所需的那种能力。
+    step2: |-
+      > 7*. 我们拥有关于对象的表象，而它们全都需要一种借*先天*概念进行综合的能力；这种能力，也正是说明“我在不同心理状态的自我归赋中作为主体之同一”这一意识所必需者。
   - id: 63
     kind: body
     source: |-
       To this we can add the final moves, which are explained in the subsequent sections of the B-Deduction:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在此之上还可以加上最后几步，它们见于 B 版演绎随后的各节：
+    step2: |-
+      在此还可补上最后的几步，它们将在 B 版演绎后续各节中得到说明：
   - id: 64
     kind: body
     source: |-
       > 8. Insofar as our representations of objects require a faculty for synthesis by *a priori* concepts, certain *a priori* concepts – the categories – legitimately apply to these objects. (premise)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 8. 就我们关于对象的表象需要一种借*先天*概念进行综合的能力而言，某些*先天*概念——范畴——合法地适用于这些对象。（前提）
+    step2: |-
+      > 8. 既然我们关于对象的表象需要借*先天*概念进行综合的能力，那么某些*先天*概念——范畴——便合法地适用于这些对象。（前提）
   - id: 65
     kind: body
     source: |-
       Together with (7*), this yields:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与 (7*) 合在一起，得出：
+    step2: |-
+      结合 (7*)，便得出：
   - id: 66
     kind: body
     source: |-
       > 9. We have representations of objects, all of which are such that the categories legitimately apply to them. (7*, 8)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 9. 我们有关于对象的表象，它们全都如此：范畴合法地适用于它们。（7*, 8）
+    step2: |-
+      > 9. 我们拥有关于对象的表象，而它们无一例外地是这样的：范畴合法地适用于它们。（7*, 8）
   - id: 67
     kind: body
     source: |-
       The key necessary conditions, expressed by (4) and (6), like those of the argument from above, are on Kant’s account necessary conditions of only possible explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由 (4) 与 (6) 所表达的关键必要条件，与自上而下论证中的那些条件一样，在康德看来都是“唯一可能的解释”意义上的必要条件。
+    step2: |-
+      (4) 与 (6) 所指的关键必要条件，一如自上而下论证中的条件，在康德那里皆属“唯一可能的解释”意义上的必要条件。
   - id: 68
     kind: body
     source: |-
       Guyer objects that at various places in the Transcendental Deduction Kant illegitimately assumes knowledge of necessity, and perhaps this argument falls to such a concern (Guyer 1987: 146–47)[^guyer-1987]. While this concern has the potential of weakening Kant’s argument, perhaps Hume would not deny the necessity under consideration at this point in the argument. Hume does maintain that it is in some sense impossible, given an experience of constant conjunction, that the mind not be carried from an impression of the first conjunct to an idea of the next:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Guyer 反对说，康德在先验演绎的若干处不正当地预设了对必然性的知识，而这一论证也许正落入此类疑虑（Guyer 1987: 146–47）[^guyer-1987]。虽然这一疑虑有可能削弱康德的论证，但在此节点上，休谟或许不会否认所论的那种必然性。休谟确实主张：在某种意义上，给定一种恒常会合的经验，心灵不可能不从第一个会合项的印象过渡到下一个会合项的观念：
+    step2: |-
+      Guyer 的反对是：康德在先验演绎的多个地方不正当地预设了关于必然性的知识，而本论证或许正受此疑虑之累（Guyer 1987: 146–47）[^guyer-1987]。这层疑虑固然可能削弱康德的论证，但在论证的这一节点上，休谟恐怕不会否认所论及的那种必然性。休谟确曾主张：在某种意义上，既已有恒常会合的经验，心灵便不可能不从那第一个会合项的印象，转到次一个会合项的观念：
   - id: 69
     kind: body
     source: |-
       > … having found, in many instances, that any two kinds of objects, flame and heat, snow and cold, have always been conjoined together; if flame or snow be presented anew to the senses, the mind is carried by custom to expect heat or cold, and to *believe*, that such a quality does exist, and will discover itself upon a nearer approach. This belief is the necessary result of placing the mind in such circumstances. It is an operation of the soul, when we are so situated, as unavoidable as to feel the passion of love, when we receive benefits; or hatred, when we meet with injuries. (1748: §5)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……在许多场合下发现，任何两类对象——火与热、雪与冷——总是会合在一起；于是，若火或雪重新呈现于感官，心灵便由习惯而被带向期待热或冷，并且*相信*这样的性质确实存在，且在靠近时会显露自身。这种信念是把心灵置于如此情形之中的必然结果。它是灵魂的一种活动：当我们处于这种境地时，它之不可避免，正如我们受惠时感到爱、受损害时感到恨。（1748: §5）
+    step2: |-
+      > ……几多事例使我发现，凡两类对象，如火与热、雪与冷，总是联结在一起；于是火或雪再度呈现于感官时，心灵便依习惯而被引向期待热或冷，并且*相信*此种性质确实存在，且再靠近些便会显现出来。这一信念，是使心灵处于如此境况的必然结果。它乃灵魂的一项活动：我们既处于此种境地，它便不可避免，一如受人之惠时感到爱，或遭人损害时感到恨。（1748: §5）
   - id: 70
     kind: body
     source: |-
       Thus Hume himself contends that given certain specific empirical circumstances, a particular type of ordering of perceptions in a sense necessarily comes about.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，休谟本人也主张：在特定的经验情形下，某一特定类型的知觉排序在某种意义上必然地产生。
+    step2: |-
+      可见休谟自己也主张：在特定的经验境况下，某一特定类型的知觉排序，在某种意义上必然会出现。
   - id: 71
     kind: body
     source: |-
       A further concern of Guyer’s is that Kant assumes without defense that all knowledge of necessity is grounded in *a priori* concepts, the categories specifically. But, in response, perhaps we need not interpret Kant as arguing directly from (U-N) to the claim that the categories correctly apply to objects in our experience. Rather, we can see him as advancing his claim for the applicability of the categories by ruling out association as an explanation for (U-N). The challenge Kant issues is to explain why, under normal conditions, the ordering in question is universal and necessary. Part of the best explanation, he believes, is that we must have a faculty for ordering the representations. Hume might agree with this conclusion, supposing a sufficiently thin conception of ‘faculty,’ and that this faculty is association. Kant counters by arguing that association cannot account for the truth of propositions such as (U-N), since the very paradigms of association, such as word association and the association of topics in a conversation, do not exhibit the requisite universality and necessity. The alternative that can account for the truth of propositions such as (U-N) involves affirming that the faculty in question must be one that employs the categories.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Guyer 还有一个疑虑：康德未经辩护便假定，一切关于必然性的知识都奠基于*先天*概念、尤其是范畴之上。但作为回应，我们也许不必把康德理解为直接从 (U-N) 论证范畴正确适用于我们经验中的对象。毋宁说，可以把他看作通过排除联想作为 (U-N) 的解释，来推进其关于范畴可适用性的主张。康德提出的挑战是：解释为什么在正常条件下，所论的那种排序是普遍而必然的。他相信，最佳解释的一部分在于：我们必须具有一种为表象排序的能力。若对“能力”作足够单薄的理解，并且承认这种能力就是联想，休谟或许会同意这一结论。康德的反驳是：联想无法说明诸如 (U-N) 这类命题之真，因为联想本身的范式——如词语联想与对话中各话题的联想——并不表现出所需的普遍性与必然性。能够说明 (U-N) 这类命题之真的替代方案，则须肯定所论能力必须是一种运用范畴的能力。
+    step2: |-
+      Guyer 另有疑虑：康德未经辩护便假定，凡关于必然性的知识都奠基于*先天*概念、特别是范畴。对此不妨回应说：我们未必非要把康德读成由 (U-N) 直接推出“范畴正确适用于我们经验中的对象”。更可取的读法是：他排除联想作为 (U-N) 之解释，以此推进范畴可适用性的主张。康德所下的挑战是：说明为何在正常条件下，所论排序是普遍而必然的。他认为，最佳解释之一环，在于我们必须具备为表象排序的能力。若把“能力”理解得足够单薄，且承认此能力即联想，休谟或可同意这一结论。康德的反驳则是：联想说明不了 (U-N) 一类命题之真，因为联想自己的范式——词语联想、对话中话题的联想——并不呈现所需的普遍性与必然性。而能够说明 (U-N) 一类命题之真的替代方案，则须确认所论能力乃是一种运用范畴的能力。
   - id: 72
     kind: body
     source: |-
       The associationist might respond that sensory experience is sufficiently uniform for association to produce the universalities and necessities at issue. Perhaps Kant is too quick to conclude that the argument from universality and necessity is decisive, for in addition, associationist objections of this sort must be answered – as contemporary critical discussions of proposals for innate concepts indicate (Pereboom 1995: 31–3)[^pereboom-1995]. But this arguably does not detract from the anti-associationist force provided by the sorts of universalities and necessities Kant has in mind, and this fact is recognized by the contemporary discussion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      联想主义者或会回应说：感官经验已足够齐一，联想足以产生所论的普遍性与必然性。也许康德过快断定普遍性与必然性的论证具有决定性，因为除此之外还必须回应这类联想主义反对——正如当代关于天赋概念提议的批判性讨论所表明的那样（Pereboom 1995: 31–3）[^pereboom-1995]。但这可以说并不减损康德所想的那类普遍性与必然性所提供的反联想主义力量，而这一事实也得到当代讨论的承认。
+    step2: |-
+      联想主义者或会反驳：感官经验本就足够齐一，联想足以生成所论的普遍性与必然性。康德断言普遍性与必然性的论证具有决定性，或许过于仓促——毕竟还须回应这类联想主义反对，当代关于天赋概念之提议的批判讨论正说明了这一点（Pereboom 1995: 31–3）[^pereboom-1995]。不过，这可以说并不消解康德所意指的那类普遍性与必然性所具有的反联想主义效力；当代讨论对此亦有承认。
   - id: 73
     kind: body
     source: |-
       ### 1.4 Logical Forms of Judgment and the Categories
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.4 判断的逻辑形式与范畴
+    step2: |-
+      ### 1.4 判断的逻辑形式与诸范畴
   - id: 74
     kind: body
     source: |-
       In §§19–20, Kant contends that the vehicle that brings about the synthesis at issue is judgment, and that this vehicle employs certain forms of judgment, which are in turn intimately related to the twelve categories. By connecting synthesis to judgment in this way, and the forms of judgment to the categories, Kant aims to show that we must employ the categories in the synthesis of our experience of objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 §19–20 中，康德主张：产生所论综合的载体是判断，而这一载体运用某些判断形式，这些形式又与十二范畴密切相连。通过如此把综合联系于判断、把判断形式联系于范畴，康德意在表明：我们在对对象的经验之综合中必须运用范畴。
+    step2: |-
+      §19–20 中，康德主张：成就所论综合的载体是判断；而判断运用某些判断形式，这些形式又同十二范畴密切相联。康德如此把综合系于判断、把判断形式系于范畴，意在表明：在我们对对象的经验之综合中，范畴的运用不可或缺。
   - id: 75
     kind: body
     source: |-
       In §19, Kant argues that there must be a certain way in which each of my representations is unified in the subject, and he identifies this way with judgment: “I find that a judgment is nothing but the manner in which given cognitions are brought to the objective unity of apperception” (B141). Judgment, Kant proposes, is objectively rather than subjectively valid, and hence exhibits the type of universality and necessity that characterizes objective validity (B142). He then claims that without synthesis and judgment as its vehicle, an ordering of representations might reflect what appears to be the case, but it would not explain how we make distinctions between objective valid phenomena (i.e., objects) and the subjective states they induce (e.g., Allison 2015: 363–69; Sethi 2020)[^allison-2015][^sethi-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 §19 中，康德论证说，我的每一个表象在主体中必定以某种方式得到统一，而他把这种方式等同于判断：“我发现，判断无非就是把被给予的认识带到统觉的客观统一性之下的方式”（B141）。康德提出，判断是客观有效的而非主观有效的，因而表现出客观有效性所特有的那种普遍性与必然性（B142）。他随后主张：若无综合以及作为其载体的判断，表象的排序也许能反映事情看起来如何，却无法说明我们如何区分客观有效的现象（即对象）与它们所引发的主观状态（例如 Allison 2015: 363–69; Sethi 2020）[^allison-2015][^sethi-2020]。
+    step2: |-
+      §19 中，康德论证：我的每一表象在主体中必以某种方式得到统一，而他把这种方式认作判断：“我发现，判断无非是把被给予的认识带向统觉的客观统一性的方式”（B141）。康德提出，判断具客观有效性而非主观有效性，因而显出客观有效性所特有的普遍性与必然性（B142）。他继而主张：若没有综合，也没有作为其载体的判断，则表象的排序或可反映事情显得如何，却解释不了我们何以区分客观有效的现象（即对象）与它们所引起的诸主观状态（例如 Allison 2015: 363–69; Sethi 2020）[^allison-2015][^sethi-2020]。
   - id: 76
     kind: body
     source: |-
       In §20, Kant ties this notion of judgment to the twelve forms of judgment presented in the Metaphysical Deduction (A70/B95), and he then connects these forms of judgment to the twelve categories (A76–83/B102–9; see Longuenesse 1998 and Stang 2024 for detailed discussion)[^longuenesse-1998][^stang-2024]. The claim has often been made that the links Kant specifies between synthesis and judgment, judgment and the forms of judgment, the forms of judgment and the categories are not sufficiently supported. Guyer, for example, argues that Kant has not adequately established the last of these connections, that although Kant claims that the categories are simply the forms of judgment as they are employed in the synthesis of representations in an intuition (A79/B104–A80/B105, B143), he has failed to make this claim plausible (Guyer 1987: 94–102)[^guyer-1987]. These concerns have merit. Kant’s assertions about these ties remain more obscure than the preceding part of the Transcendental Deduction, and it continues to be a serious challenge for interpreters to clarify and vindicate them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 §20 中，康德把这一判断概念同形而上学演绎中列出的十二种判断形式联系起来（A70/B95），随后又把这些判断形式同十二范畴联系起来（A76–83/B102–9；详见 Longuenesse 1998 与 Stang 2024）[^longuenesse-1998][^stang-2024]。人们常指出，康德在综合与判断、判断与判断形式、判断形式与范畴之间所指定的那些联系，并未得到充分支持。例如 Guyer 论证说，康德未能充分确立其中最后一种联系：尽管康德声称范畴无非就是判断形式在直观中表象综合里的运用（A79/B104–A80/B105, B143），他却未能使这一主张显得可信（Guyer 1987: 94–102）[^guyer-1987]。这些疑虑有其道理。康德关于这些联系的断言，仍比先验演绎的前面部分更为晦暗；对解释者而言，澄清并证成它们也仍是一项严峻的挑战。
+    step2: |-
+      §20 中，康德把上述判断概念与形而上学演绎所列的十二种判断形式挂钩（A70/B95），继而把这些判断形式与十二范畴挂钩（A76–83/B102–9；详论见 Longuenesse 1998、Stang 2024）[^longuenesse-1998][^stang-2024]。论者常说：康德在综合与判断之间、判断与判断形式之间、判断形式与范畴之间所指定的那些联系，支撑不足。例如 Guyer 认为，最后一种联系康德并未充分确立：他虽说范畴无非是判断形式在直观中诸表象之综合里的运用（A79/B104–A80/B105, B143），却没能让这一说法显得可信（Guyer 1987: 94–102）[^guyer-1987]。这些疑虑确有道理。康德对这些联系的断言，仍比先验演绎此前部分更为隐晦；澄清并证成它们，至今仍是解释者面临的严峻课题。
   - id: 77
     kind: body
     source: |-
       Béatrice Longuenesse (1998), in her interpretation of the Metaphysical Deduction, takes up this challenge. In her view, the faculty at issue in the production and use of concepts, the understanding, is the power to judge (*Vermögen zu Urteilen*), which is ultimately a disposition or a *conatus* to make judgments and to shape how we are affected so that we can make them (Longuenesse 1998: 208, 394)[^longuenesse-1998]. The logical forms of judgment are in essence the forms of combination of concepts in judgments. One such form is the categorical, which is the form of subject-predicate judgments; another is the hypothetical, the form of conditional judgments. Kant contends that the logical form of a judgment is what makes it capable of truth or falsity, for by means of such a form a judgment can constitute a relation of a subject’s representations to an objective feature of reality (Longuenesse 2000, 93–4)[^longuenesse-2000]. For instance, by its categorical form, the judgment ‘the boat is moving’ can constitute the relation of my representations of a boat and of motion to an objectively existing boat in motion, and as a result this judgment can be true or false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Béatrice Longuenesse（1998）在其对形而上学演绎的解读中接下了这一挑战。在她看来，概念的生成与使用所涉及的能力即知性，乃是判断的能力（*Vermögen zu Urteilen*），它最终是一种作出判断、并塑造我们被影响之方式以便作出判断的倾向或*conatus*（努力）（Longuenesse 1998: 208, 394）[^longuenesse-1998]。判断的逻辑形式本质上就是概念在判断中的结合形式。其中一种是直言式，即主谓判断的形式；另一种是假言式，即条件判断的形式。康德主张，判断的逻辑形式使判断能够为真或为假，因为凭借这种形式，判断才能构成主体诸表象与实在之某个客观特征的关系（Longuenesse 2000, 93–4）[^longuenesse-2000]。例如，凭借其直言形式，判断“船在移动”能够构成我对一条船与运动的表象同一条客观存在着的运动之船的关系，因而这一判断能够为真或为假。
+    step2: |-
+      Béatrice Longuenesse（1998）在解读形而上学演绎时，正面应对了这一诘难。她主张：概念的生成与运用所涉的能力即知性，乃是判断的能力（*Vermögen zu Urteilen*），归根到底是一种作判断的倾向或*conatus*（努力），它同时塑造我们受影响的方式，使我们得以作出判断（Longuenesse 1998: 208, 394）[^longuenesse-1998]。判断的逻辑形式，实质上是概念在判断中结合的形式。其一为直言式，即主谓判断之形式；其二是假言式，为条件判断之形式。康德主张：判断的逻辑形式使判断得以真或假，因为借由此种形式，判断才能构成主体诸表象与实在某一客观特征之间的关联（Longuenesse 2000, 93–4）[^longuenesse-2000]。举例来说，靠其直言形式，判断“船在移动”得以构成我关于船与运动的表象同一条客观存在且正在运动的船之间的关联；因此这一判断可为真，亦可为假。
   - id: 78
     kind: body
     source: |-

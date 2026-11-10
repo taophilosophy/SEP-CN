@@ -436,7 +436,7 @@
   * [早期中国哲学中的情 emotions in early Chinese Philosophy (Bongrae Seok)](e/emotions-chinese.md)
   * [中国哲学中的认识论 epistemology (Jana Rošker)](c/chinese-epistemology.md)
   * [中国哲学中的伦理学 ethics (David Wong)](e/ethics-chinese.md)
-  * [中国汉代哲学 Han Dynasty (Alexus McLeod)](h/han-dynasty.md)
+  * [中国汉代哲学 Philosophy in Han Dynasty China (Alexus McLeod)](h/han-dynasty.md)
   * [华严宗 Huayan Buddhism (Bryan Van Norden and Nicholaos Jones)](b/buddhism-huayan.md)
   * [\*老子——见老子 Laozi — see Laozi](l/laozi.md)
   * [中国法家哲学 legalism in (Yuri Pines)](c/chinese-legalism.md)

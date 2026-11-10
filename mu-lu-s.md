@@ -672,7 +672,7 @@ outline: [1, 6]
 ### 汉代-清代哲学
 
 * [玄学 Neo-Daoism (Alan Chan)](n/neo-daoism.md)
-* [中国汉代哲学 Han Dynasty (Alexus McLeod)](h/han-dynasty.md)
+* [中国汉代哲学 Philosophy in Han Dynasty China (Alexus McLeod)](h/han-dynasty.md)
 * [宋明理学 Song-Ming Confucianism (Justin Tiwald)](s/song-ming-confucianism.md)
 * [王阳明 Wang Yangming (Bryan Van Norden)](w/wang-yangming.md)
 * [朱熹 Zhu Xi (Kirill Thompson)](z/zhu-xi.md)
