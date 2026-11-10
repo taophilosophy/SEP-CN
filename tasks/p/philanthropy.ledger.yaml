@@ -171,122 +171,162 @@ segments:
     kind: body
     source: |-
       > the great error of reformers and philanthropists in our time [is] to nibble at the consequences of unjust power, instead of redressing the injustice itself. (Mill 1848: V.XI.§9)[^mill-1848]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们这个时代改革者与慈善家的重大错误［在于］只去啃噬不义权力的后果，而不去矫正不义本身。(Mill 1848: V.XI.§9)[^mill-1848]
+    step2: |-
+      > 我们这个时代改革者与慈善家的重大错误［在于］只去啃噬不义权力的后果，而不去矫正不义本身。(Mill 1848: V.XI.§9)[^mill-1848]
   - id: 22
     kind: body
     source: |-
       Second is a point of principle, namely that the demands of justice subsume and define the aims of charity. The appropriate objects of charitable giving are those who suffer from injustice and unfairness. “[I]n identifying appropriate acts of charity”, says Kymlicka,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二点是原则问题，即正义的要求包容并界定了慈善的目标。慈善给予的恰当对象是那些遭受不义与不公的人。“在确定恰当的慈善行为时”，金里卡说，
+    step2: |-
+      第二是原则问题：正义的要求包容并界定了慈善的目标。慈善给予的恰当对象，是那些遭受不义与不公者。“在确定恰当的慈善行为时”，金里卡说，
   - id: 23
     kind: body
     source: |-
       > we invoke our criteria of justice to identify who should be giving charity, to whom it should be given, and how much should be given. (Kymlicka 2001: 95)[^kymlicka-2001]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们援引我们的正义标准来确定谁应当给予慈善、应当给予谁、应当给予多少。(Kymlicka 2001: 95)[^kymlicka-2001]
+    step2: |-
+      > 我们援引自己的正义标准，来确定谁应当施予慈善、应当施予谁、应当施予多少。(Kymlicka 2001: 95)[^kymlicka-2001]
   - id: 24
     kind: body
     source: |-
       In short, justice crowds out the space for charity—and this is not to be regretted (Kymlicka 2001)[^kymlicka-2001]. If acts of charity are subsumed under the requirements of justice, then they are not truly "charity" in the traditional sense of voluntarily giving up resources one is entitled to keep. And if they go beyond justice, they seem more like optional personal goals rather than moral obligations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      简而言之，正义挤占了慈善的空间——而这并不值得惋惜（Kymlicka 2001）[^kymlicka-2001]。如果慈善行为被归入正义的要求之下，那么它们就不是传统意义上的真正“慈善”，即自愿放弃自己有权保留的资源。而如果它们超出了正义，它们似乎更像可选的个人目标，而不是道德义务。
+    step2: |-
+      简言之，正义挤占了慈善的空间——而这并不值得惋惜（Kymlicka 2001）[^kymlicka-2001]。如果慈善行为被归入正义的要求之下，它们就不再是传统意义上的“慈善”——即自愿放弃自己有权保留的资源。而如果它们超出了正义的要求，它们看起来就更像可选的个人目标，而非道德义务。
   - id: 25
     kind: body
     source: |-
       On Kymlicka’s view, the virtue of charity exists in name only: it is either defined by justice (and hence not an independent virtue) or beyond justice (and hence not a moral requirement). The only way to give charity more theoretical space is via a radically different vision of justice. One such alternative (to be discussed later) is libertarianism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在金里卡看来，慈善这种德性只存在于名义上：它要么由正义界定（因而并非独立德性），要么在正义之外（因而不是道德要求）。要给慈善更多理论空间的唯一途径，是诉诸一种截然不同的正义观。其中一种替代（后文将讨论）是自由至上主义。
+    step2: |-
+      在金里卡看来，慈善这种德性名存实亡：它要么由正义来界定（因而并非独立德性），要么在正义之外（因而不是道德要求）。要给慈善更多理论空间的唯一办法，是诉诸一种截然不同的正义观。其中一种替代方案（后文将讨论）是自由至上主义。
   - id: 26
     kind: body
     source: |-
       This assumes, it must be said, a restricted view of charity. But for many, philanthropy has a weaker association with addressing deprivation and disadvantage or meeting the demands of distributive justice. Donating to a museum, for instance, is not an obligation of justice and yet many perceive this as a philanthropic act. Some donors may perceive their actions as an expression of their conception of the good, their understanding of what is valuable in life, or their personal tastes. Thus, for many it is crucial to emphasize philanthropy’s role in providing *non*-justice goods alongside its involvement in the realization or hindrance of justice (see Pevnick 2013; Lechterman 2022; Schiller 2023)[^lechterman-2022][^pevnick-2013][^schiller-2023].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      必须说，这假定了一种受限的慈善观。但对许多人来说，慈善与解决匮乏和不利处境、或满足分配正义要求的关联较弱。例如，向博物馆捐款不是一种正义义务，但许多人仍视之为慈善行为。有些捐赠者可能把自己的行为理解为其善观念、对人生中有价值之物的理解、或个人品味的表达。因此，对许多人而言，关键是要强调慈善在实现或阻碍正义之外，还提供*非*正义的善（见 Pevnick 2013; Lechterman 2022; Schiller 2023）[^lechterman-2022][^pevnick-2013][^schiller-2023]。
+    step2: |-
+      必须说，这假定了一种狭隘的慈善观。但对许多人来说，慈善与解决匮乏和不利处境、或满足分配正义要求的关联要弱得多。例如，向博物馆捐款并不是一种正义义务，但许多人仍视之为慈善行为。有些捐赠者可能把自己的行为看作其善观念、对人生中何者有价值的理解、或个人品味的表达。因此，对许多人而言，关键是要强调慈善不仅在实现或阻碍正义方面有所参与，还提供**非**正义的善（见 Pevnick 2013; Lechterman 2022; Schiller 2023）[^lechterman-2022][^pevnick-2013][^schiller-2023]。
   - id: 27
     kind: body
     source: |-
       ## 3. Ethics of Giving
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 给予的伦理学
+    step2: |-
+      ## 3 给予的伦理学
   - id: 28
     kind: body
     source: |-
       ### 3.1 Virtue Ethics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 德性伦理学
+    step2: |-
+      ### 3.1 德性伦理学
   - id: 29
     kind: body
     source: |-
       Consequentialist perspectives and their deontological critics have dominated much of the recent philosophical discussion of philanthropy. But the virtue ethics tradition provides a much longer history of philosophical reflection on giving. And from Aristotle to the Stoics to contemporary perspectives, virtually all philosophers whom one might place in the virtue ethics tradition have agreed that traits like generosity and compassion are important virtues. (Nietzsche, a controversial candidate for inclusion as a virtue ethicist, is a possible exception.) Aristotle offers up one of the earliest and most enduring reflections on the ethics of giving, writing
-    step1: TBD
-    step2: TBD
+    step1: |-
+      后果论视角及其义务论批评者主导了近来关于慈善的大部分哲学讨论。但德性伦理学传统提供了远为悠久的给予哲学反思史。从亚里士多德到斯多亚派再到当代视角，几乎一切可归入德性伦理学传统的哲学家都同意，慷慨与同情之类的品质是重要的德性。（尼采作为一个有争议的候选者，若被算作德性伦理学家，则可能是例外。）亚里士多德对给予伦理作了最早、也最持久的反思之一，他写道：
+    step2: |-
+      后果论视角及其义务论批评者，主导了近来关于慈善的大部分哲学讨论。但德性伦理学传统为给予提供了远为悠久的哲学反思史。从亚里士多德到斯多亚派再到当代视角，几乎一切可归入德性伦理学传统的哲学家都同意，慷慨与同情这类品质是重要的德性。（尼采是个有争议的候选者，若把他算作德性伦理学家，则可能是例外。）亚里士多德对给予伦理作了最早、也最持久的反思之一，他写道：
   - id: 30
     kind: body
     source: |-
       > To give away money is an easy matter and in any man’s power. But to decide to whom to give it, and how large, and when, and for what purpose and how, is neither in every man’s power nor an easy matter. (*Nicomachean Ethics* 2.9.1109a27)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 把钱送出去是件容易的事，人人都有能力做到。但要决定送给谁、送多少、何时送、为了什么目的以及怎样送，却既非人人都有能力，也非易事。（《尼各马可伦理学》2.9.1109a27）
+    step2: |-
+      > 把钱送出去是件容易事，人人都有能力做到。但要决定送给谁、送多少、何时送、为了什么目的、以及怎样送，却既非人人都有能力，也非易事。（《尼各马可伦理学》2.9.1109a27）
   - id: 31
     kind: body
     source: |-
       Virtue ethical perspectives treat characteristics of the virtuous agent as primary, rather than as derivative of moral duties or reasons to promote good states of affairs. They emphasize the cultivation of good moral character, which will have important implications for what matters in evaluating philanthropy: rather than simply assessing whether donors have done their duty, or whether they have promoted impartially good states of affairs, we will want to know about the character of the giver (which cannot be assessed on the basis of a single act of giving). Her *motive* and *disposition* will be important objects of ethical evaluation. Unlike a utilitarian, a virtue ethicist has reason to censure large-scale philanthropy motivated by a desire for prestige. And unlike a Kantian, a virtue ethicist will not be satisfied by donors acting from duty (even against inclination): the fully virtuous individual (unlike the merely continent one) does not experience internal conflict or engage in virtuous action only after a struggle (Hursthouse & Pettigrove 2016 [2023])[^hursthouse-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德性伦理学视角把有德行动者的特征视为首要的，而不是把它们视为道德义务或促进善事态之理由的派生。它们强调良好道德品质的培养，这对评价慈善时什么要紧有重要含义：我们不仅评估捐赠者是否尽了义务、或是否不偏不倚地促进了善事态，还想了解给予者的品格（这无法基于单次给予行为来评估）。她的*动机*与*气质*将是伦理评价的重要对象。与功利主义者不同，德性伦理学家有理由谴责出于求名欲的大规模慈善。与康德主义者不同，德性伦理学家不会满足于捐赠者出于义务而行（哪怕违背其倾向）：完全有德者（不同于仅仅有节制者）不会经历内心冲突，也不会只在挣扎之后才作出有德行为（Hursthouse & Pettigrove 2016 [2023]）[^hursthouse-2016]。
+    step2: |-
+      德性伦理学视角把有德行动者的特征视为首要的，而不是把它们看作道德义务或促进善事态之理由的派生。它们强调良好道德品质的培养，这对评价慈善时何者要紧有重要含义：我们不只是评估捐赠者是否尽了义务、或是否不偏不倚地促进了善事态，还要了解给予者的品格（这无法基于单次给予行为来评估）。她的**动机**与**气质**将是伦理评价的重要对象。与功利主义者不同，德性伦理学家有理由谴责出于求名欲的大规模慈善。与康德主义者不同，德性伦理学家不会满足于捐赠者出于义务而行（哪怕违背其倾向）：完全有德者（不同于仅仅有节制者）不会经历内心冲突，也不会只在挣扎之后才作出有德行为（Hursthouse & Pettigrove 2016 [2023]）[^hursthouse-2016]。
   - id: 32
     kind: body
     source: |-
       Another important concept in the virtue ethics tradition is *phronesis,* or practical wisdom. Virtues are not simply emotional dispositions like pity, which a child might have (Hursthouse 1999; Hursthouse & Pettigrove 2016 [2023])[^hursthouse-1999][^hursthouse-2016]. Rather, they are characteristics of rational agents who have learned from experience how to choose virtuous actions in a range of situations. The well-intentioned but thoughtless or profligate giver therefore lacks the virtue of the thoughtful and provident donor. In that sense, a kind of folk virtue ethics animates many classic discussions of giving by non-philosophers, such as Andrew Carnegie’s “Gospel of Wealth” (1889).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德性伦理学传统中另一个重要概念是*实践智慧*（phronesis）。德性并不只是怜悯这样的情感倾向，孩子也可能有（Hursthouse 1999; Hursthouse & Pettigrove 2016 [2023]）[^hursthouse-1999][^hursthouse-2016]。相反，它们是理性行动者的特征，这些行动者从经验中学到了如何在各种情境中选择有德行为。因此，善意但轻率或挥霍的给予者，缺乏深思熟虑、有远见的捐赠者的德性。在这个意义上，一种民间德性伦理学激活了许多非哲学家关于给予的经典讨论，例如安德鲁·卡内基的《财富的福音》（1889）。
+    step2: |-
+      德性伦理学传统中另一个重要概念是 *phronesis*，即实践智慧。德性并不只是怜悯这样的情感倾向——孩子也可能有（Hursthouse 1999; Hursthouse & Pettigrove 2016 [2023]）[^hursthouse-1999][^hursthouse-2016]。相反，它们是理性行动者的特征，这些行动者从经验中学到了如何在各种情境中选择有德行为。因此，善意但轻率或挥霍的给予者，缺乏深思熟虑、有远见的捐赠者所具有的德性。在这个意义上，一种民间德性伦理学激活了许多非哲学家关于给予的经典讨论，例如安德鲁·卡内基的《财富的福音》（1889）。
   - id: 33
     kind: body
     source: |-
       Virtue ethicists encourage us to disaggregate our ethical analyses: G.E.M. Anscombe’s pathbreaking “Modern Moral Philosophy” argues that, rather than saying something is (morally) “wrong”, it is better to always name “a genus such as ‘untruthful,’ ‘unchaste,’ ‘unjust’” (Anscombe 1958: 9)[^anscombe-1958]. While they have been in the minority in contemporary philosophical discussion of philanthropy (e.g., Swanton 2018; Martin 1994)[^martin-1994][^swanton-2018], virtue ethical perspectives have the potential to vary and deepen the terms of discussion about it. When debate is framed in terms of whether making or accepting a philanthropic donation is right or wrong (or permissible or impermissible), some objections to philanthropy may be difficult to understand without availing ourselves of virtue ethics’ more granular vocabulary. For example, it may be morally permissible for a private university to sell naming rights to its graduate school of arts and sciences for $100 million dollars: both the donor and the university may be acting within their rights. But this need not mean that there are no ethical objections to be made: selling naming rights in this way might be “vulgar” or “undignified” even if not “morally wrong” in a general sense.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      德性伦理学家鼓励我们拆细伦理分析：G.E.M. 安斯康姆开创性的《现代道德哲学》主张，与其说某事（在道德上）“错”，不如总是点出“一个属，例如‘不诚实’、‘不贞’、‘不义’”（Anscombe 1958: 9）[^anscombe-1958]。虽然在当代关于慈善的哲学讨论中，德性伦理学视角一直属于少数（例如 Swanton 2018; Martin 1994）[^martin-1994][^swanton-2018]，但它们有潜力改变并深化讨论的语汇。当争论以“作出或接受一笔慈善捐赠是对还是错（或可允许还是不可允许）”为框架时，若不借助德性伦理学更细致的词汇，有些对慈善的反对意见可能难以理解。例如，一所私立大学把其文理研究生院的冠名权以 1 亿美元（$100 million）卖给捐赠者，可能在道德上是可允许的：捐赠者与大学或许都在自己的权利范围内行事。但这不必意味着不存在伦理上的反对意见：以这种方式出售冠名权也许“庸俗”或“有失尊严”，即便在一般意义上不算“道德上错误”。
+    step2: |-
+      德性伦理学家鼓励我们把伦理分析拆细：G.E.M. 安斯康姆开创性的《现代道德哲学》主张，与其说某事（在道德上）“错”，不如总是点出“一个属，例如‘不诚实’、‘不贞’、‘不义’”（Anscombe 1958: 9）[^anscombe-1958]。虽然在当代关于慈善的哲学讨论中，德性伦理学视角一直属于少数（例如 Swanton 2018; Martin 1994）[^martin-1994][^swanton-2018]，但它们有潜力改变并深化讨论的语汇。当争论以“作出或接受一笔慈善捐赠是对还是错（或可允许还是不可允许）”为框架时，若不借助德性伦理学更细致的词汇，有些对慈善的反对意见可能难以理解。例如，一所私立大学把其文理研究生院的冠名权以 1 亿美元（$100 million）卖给捐赠者，可能在道德上是可允许的：捐赠者与大学或许都在自己的权利范围内行事。但这不必意味着不存在伦理上的反对意见：以这种方式出售冠名权也许“庸俗”或“有失尊严”，即便在一般意义上不算“道德上错误”。
   - id: 34
     kind: body
     source: |-
       Crucially, it is not only virtues for *givers* about which a virtue ethicist will have something to say. There are also virtues of recipients: most importantly gratitude, but perhaps also providence and self-respect. Since contemporary philosophical discussion of philanthropy generally privileges the moral perspective of donors, virtue ethics also has the potential to contribute to a discussion of the ethics of receiving gifts (for both individuals and institutions).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关键在于，德性伦理学家要说的不只是*给予者*的德性。接受者也有德性：最重要的是感恩，但也许还有远见与自尊。由于当代关于慈善的哲学讨论一般优先考虑捐赠者的道德视角，德性伦理学也有可能为关于接受礼物（无论对个人还是机构）的伦理讨论作出贡献。
+    step2: |-
+      关键在于，德性伦理学家要说的不只是**给予者**的德性。接受者也有德性：最重要的是感恩，但也许还有远见与自尊。由于当代关于慈善的哲学讨论一般优先考虑捐赠者的道德视角，德性伦理学也有可能为关于接受礼物（无论对个人还是机构）的伦理讨论作出贡献。
   - id: 35
     kind: body
     source: |-
       As they develop, it will be important for virtue ethical perspectives on giving to consider the possibility of tensions between virtues (e.g., between compassion and respect, or between gratitude and dignity). Are any apparent tensions illusory or resolvable with sufficient practical wisdom? Or are there sometimes irresolvable conflicts between virtues that may limit the ability of virtue ethical perspectives to provide determinate action guidance? A further question is whether virtue *ethical* perspectives can contribute to the growing literature on philanthropy in *political* philosophy: perhaps, for example, by considering how the virtues and dispositions that should guide individual givers and recipients might be cultivated (or undermined) through political action.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在德性伦理学视角发展过程中，重要的是要考虑德性之间可能存在的张力（例如同情与尊重之间、或感恩与尊严之间）。哪些表面张力是虚幻的，或可凭充分的实践智慧化解？还是说，有时德性之间会有无法解决的冲突，从而可能限制德性伦理学视角提供确定行动指导的能力？进一步的问题是，德性*伦理*视角能否为政治哲学中日益增长的慈善文献作出贡献：例如，或许可以考察应当指导个体给予者与接受者的德性与气质，如何能通过政治行动得到培养（或被削弱）。
+    step2: |-
+      在德性伦理学视角发展过程中，重要的是要考虑德性之间可能存在的张力（例如同情与尊重之间、或感恩与尊严之间）。哪些表面张力是虚幻的，或可凭充分的实践智慧化解？还是说，有时德性之间会有无法解决的冲突，从而可能限制德性伦理学视角提供确定行动指导的能力？进一步的问题是，德性**伦理**视角能否为政治哲学中日益增长的慈善文献作出贡献：例如，或许可以考察应当指导个体给予者与接受者的德性与气质，如何能通过政治行动得到培养（或被削弱）。
   - id: 36
     kind: body
     source: |-
       ### 3.2 Effective Altruism and Other Consequentialist Views
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 有效利他主义与其他后果论观点
+    step2: |-
+      ### 3.2 有效利他主义与其他后果论观点
   - id: 37
     kind: body
     source: |-
       Aristotle may have set the agenda long ago for the most essential questions to answer concerning philanthropy. But until recently, contemporary philosophers have had little to say about philanthropy, perhaps because their concerns have been directed in large part to questions of justice. That has changed with effective altruism. Effective altruism is the label for an umbrella of views that are the product of recent philosophical argument that has also given rise to a growing social movement far beyond the quarters of philosophy departments and academic journals.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于慈善最根本的问题，亚里士多德或许早在很久以前就已定下议程。但直到晚近，当代哲学家对慈善都少有论述，也许因为他们的关切大多指向正义问题。有效利他主义的出现改变了这一点。有效利他主义是一个标签，统辖一组观点，这些观点是晚近哲学论证的产物，同时也催生了一场远远超出哲学系与学术期刊范围、日益壮大的社会运动。
+    step2: |-
+      关于慈善最根本的问题，亚里士多德或许早在很久以前就已定下议程。但直到晚近，当代哲学家对慈善都少有论述，也许因为他们的关切大多指向正义问题。有效利他主义的出现改变了这一点。有效利他主义是一个标签，统辖一组观点，这些观点是晚近哲学论证的产物，同时也催生了一场远远超出哲学系与学术期刊范围、日益壮大的社会运动。
   - id: 38
     kind: body
     source: |-
       According to one of its most prominent exponents, William MacAskill, effective altruism asks individuals how they can make the biggest difference or maximize the good they can do in the world. It invites people to use evidence and reason to determine how to benefit others as much as possible (MacAskill 2019: 13)[^macaskill-2019]. Effective altruism’s roots, however, can be found in Peter Singer’s argument, dating back to his famous 1972 article, “Famine, Affluence, and Morality”, that persons in the developed world have strong obligations to address desperate global poverty (and, as he would later argue, resist the inhumane treatment of sentient animals) (Singer 1972; Singer 1975)[^singer-1972][^singer-1975]. Singer’s pond example from that article prefigures the moral force of effective altruism. Singer asks the reader to imagine walking past a shallow pond in which a small child is drowning. It would be trivially easy to wade into the pond and rescue the child, but doing so would soil one’s clothes and make one late for work. Nevertheless, it would seem that we have a moral obligation to rescue the child; it would be morally monstrous not to do so.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      据其最著名的倡导者之一威廉·麦卡斯基尔说，有效利他主义向个人提出这样的问题：他们怎样才能造成最大的改变，或最大化自己在这个世界上所能做出的善？它邀请人们运用证据与理性，来确定如何尽可能多地造福他人（MacAskill 2019: 13）[^macaskill-2019]。不过，有效利他主义的根源可追溯到彼得·辛格的论证：早在 1972 年那篇著名文章《饥荒、富裕与道德》中，辛格就主张，发达世界的人有强烈义务去解决全球赤贫问题（并且，如他后来所主张的，抵制对有感动物不人道的对待）（Singer 1972; Singer 1975）[^singer-1972][^singer-1975]。辛格在该文中举的池塘例子，预示了有效利他主义的道德力量。辛格请读者设想：你走过一个浅池塘，里面有个小孩快要淹死。蹚进池塘救出孩子轻而易举，但这样做会弄脏衣服，还会让你上班迟到。尽管如此，我们似乎仍有道德义务去救那个孩子；不救才是道德上的禽兽之行。
+    step2: |-
+      据其最著名的倡导者之一威廉·麦卡斯基尔说，有效利他主义向个人提出这样的问题：他们怎样才能造成最大的改变，或最大化自己在这个世界上所能做出的善？它邀请人们运用证据与理性，来确定如何尽可能多地造福他人（MacAskill 2019: 13）[^macaskill-2019]。不过，有效利他主义的根源可追溯到彼得·辛格的论证：早在 1972 年那篇著名文章《饥荒、富裕与道德》中，辛格就主张，发达世界的人有强烈义务去解决全球赤贫问题（并且，如他后来所主张的，抵制对有感动物不人道的对待）（Singer 1972; Singer 1975）[^singer-1972][^singer-1975]。辛格在该文中举的池塘例子，预示了有效利他主义的道德力量。辛格请读者设想：你走过一个浅池塘，里面有个小孩快要淹死。蹚进池塘救出孩子轻而易举，但这样做会弄脏衣服，还会让你上班迟到。尽管如此，我们似乎仍有道德义务去救那个孩子；不救才是道德上的禽兽之行。
   - id: 39
     kind: body
     source: |-
       Singer then argues that there is no morally relevant difference between the drowning child and a child in a poor country who will die without our assistance. Just as one has a moral duty to save the drowning child, we have a similar obligation to assist people in extreme poverty through donations to effective charities. Still more, taking the argument to its logical conclusion, individuals are obligated to divest themselves of resources to assist desperately needy others up to the point of being only marginally better off than those they would assist. Yet of course few people offer assistance to the global poor and almost none donate large percentages of their wealth for this purpose. One sees in the pond example some of the core claims of effective altruism—that all lives have equal moral worth, and distance or nationality or even membership in a generational cohort in time are not morally relevant factors. Effective altruism counsels us to maximize the good we can do for others, on impartial and welfarist grounds, using evidence and reason.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      辛格接着论证，淹死的孩子与一个若得不到我们援助就会死去的穷国孩子之间，不存在道德上相关的差别。正如我们有道德义务去救那个快淹死的孩子，我们也有类似义务，通过向有效慈善机构捐款来援助极端贫困者。更进一步，把论证推向逻辑结论：个人有义务捐出自己的资源去援助极度贫困的他人，直到自己仅比受助者略好过一点为止。然而，当然很少有人向全球穷人提供援助，几乎没人为此捐出财富的很大比例。从池塘例子中可以看出有效利他主义的一些核心主张：一切生命具有平等的道德价值，距离、国籍、甚至是否同属一个时代世代，都不是道德上相关的因素。有效利他主义劝告我们，基于不偏不倚的福利主义理由、运用证据与理性，最大化我们能为他人做出的善。
+    step2: |-
+      辛格接着论证，淹死的孩子与一个若得不到我们援助就会死去的穷国孩子之间，不存在道德上相关的差别。正如我们有道德义务去救那个快淹死的孩子，我们也有类似义务，通过向有效慈善机构捐款来援助极端贫困者。更进一步，把论证推向逻辑结论：个人有义务捐出自己的资源去援助极度贫困的他人，直到自己仅比受助者略好过一点为止。然而，当然很少有人向全球穷人提供援助，几乎没人为此捐出财富的很大比例。从池塘例子中可以看出有效利他主义的一些核心主张：一切生命具有平等的道德价值，距离、国籍、甚至是否同属一个时代世代，都不是道德上相关的因素。有效利他主义劝告我们，基于不偏不倚的福利主义理由、运用证据与理性，最大化我们能为他人做出的善。
   - id: 40
     kind: body
     source: |-
       Effective altruism is responsible for inspiring a number of different organizations dedicated to spreading its message and reducing the effort involved in identifying highly effective charitable organizations, including Giving What We Can (where members pledge to donate at least 10 percent of their income to effective charities), 80,000 Hours (offering advice on effective altruist career choices), the Centre for Effective Altruism (founded by philosophers William MacAskill and Toby Ord), the charity rating organization GiveWell, and the grant maker Open Philanthropy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有效利他主义激发了不少致力于传播其讯息、并减少识别高效慈善机构所需精力的组织，包括 Giving What We Can（成员承诺把收入的至少 10% 捐给有效慈善机构）、80,000 Hours（就有效利他主义的职业选择提供建议）、有效利他主义中心（由哲学家威廉·麦卡斯基尔与托比·奥德创办）、慈善评级机构 GiveWell，以及资助机构 Open Philanthropy。
+    step2: |-
+      有效利他主义激发了不少致力于传播其讯息、并减少识别高效慈善机构所需精力的组织，包括 Giving What We Can（成员承诺把收入的至少 10% 捐给有效慈善机构）、80,000 Hours（就有效利他主义的职业选择提供建议）、有效利他主义中心（由哲学家威廉·麦卡斯基尔与托比·奥德创办）、慈善评级机构 GiveWell，以及资助机构 Open Philanthropy。
   - id: 41
     kind: body
     source: |-
