@@ -506,6 +506,13 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   既消 ripple 信号又不改通行形。
 * **保留 2 条**：vis viva（命中「活力积分/活力方程」为派生公式下位词）、viśeṣa（维基垃圾命中）。
 
+### 十四、第十一批增量裁定（offset 2620–2668，4 条）
+
+* 审计刷新：一致 629 / 不一致 425 / 查无 2349 / 未查证 5427；新增不一致 4 条，**全部保留现译**：
+  void space（船舶「浮力舱」/水利「孔隙」异义）、weak counterexample、weak foundationalism、weakly compact cardinal
+  （后三条均社会学库假阳性命中）。
+
+
 
 
 

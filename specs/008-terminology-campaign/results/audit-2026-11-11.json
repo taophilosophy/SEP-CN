@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 5474,
-  "查无": 2311,
-  "不一致": 423,
-  "一致": 622
+  "未查证": 5427,
+  "查无": 2349,
+  "不一致": 425,
+  "一致": 629
  },
  "results": [
   {
@@ -85271,9 +85271,9 @@
    "table": "术语",
    "line": 4877,
    "term": "virtue ethics",
-   "trans": "德性伦理学",
-   "basis": "学界惯例（德性伦理复兴通行译法，Hursthouse/Foot 谱系）；凭证 2026-11-02",
-   "status": "不一致",
+   "trans": "德性伦理学（亦作“美德论”）",
+   "basis": "学界惯例（德性伦理复兴通行译法，Hursthouse/Foot 谱系）；审定名词库作“美德论”（自然辩证法名词，2026-11-11 凭证），通行形为主",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -85332,9 +85332,9 @@
    "table": "术语",
    "line": 4880,
    "term": "virtue theory",
-   "trans": "德性论",
-   "basis": "伦理学通行（virtue theory／德性伦理学）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "德性论（亦作“美德论”）",
+   "basis": "伦理学通行（virtue theory／德性伦理学）；审定名词库作“美德论”（医学伦理学名词，2026-11-11 凭证），通行形为主",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -85594,9 +85594,11 @@
    "term": "vision-for-recognition",
    "trans": "识别视觉",
    "basis": "双视觉系统文献通行译法；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85604,9 +85606,11 @@
    "term": "viśiṣṭābhāva",
    "trans": "别有所无",
    "basis": "新正理否定语义译（qualified absence；与 kevalābhāva 唯无对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85614,9 +85618,11 @@
    "term": "visual landscape quality assessment",
    "trans": "视觉景观质量评估（VLQA）",
    "basis": "环境管理文献通行缩写照录",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85673,9 +85679,11 @@
    "term": "visual prosthesis",
    "trans": "视觉假体",
    "basis": "医学工程界通行译法；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85683,9 +85691,11 @@
    "term": "vital import",
    "trans": "生命意蕴",
    "basis": "朗格艺术术语（FF 32；《情感与形式》汉译语境）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85693,9 +85703,11 @@
    "term": "vital spirit",
    "trans": "生命精气",
    "basis": "中世纪医学与哲学通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85703,9 +85715,11 @@
    "term": "vitalism",
    "trans": "活力论",
    "basis": "学界通行（法国启蒙运动活力论论辩）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85713,9 +85727,11 @@
    "term": "vitaṇḍā",
    "trans": "只破不立之辩",
    "basis": "正理派辩论分类通行译法（与 vāda 真辩相对）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85723,9 +85739,66 @@
    "term": "void",
    "trans": "虚空",
    "basis": "学界通行；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "空隙",
+     "en": "void",
+     "source": "地质学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "虚空",
+     "en": "void",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "空洞",
+     "en": "void",
+     "source": "天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "空洞",
+     "en": "void",
+     "source": "冶金学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "空洞",
+     "en": "void",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "孔洞",
+     "en": "void",
+     "source": "材料科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "空隙",
+     "en": "void",
+     "source": "力学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "空隙",
+     "en": "void",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "孔洞",
+     "en": "void",
+     "source": "海峡两岸材料科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85733,9 +85806,36 @@
    "term": "void space",
    "trans": "虚空空间",
    "basis": "自然哲学通行（extracosmic void 宇宙之外虚空）；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "浮力舱",
+     "en": "air tank,void space",
+     "source": "船舶工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "孔隙",
+     "en": "void,pore space",
+     "source": "水利科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "空位",
+     "en": "void space",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "浮力舱",
+     "en": "air tank\",\"void space",
+     "source": "海峡两岸船舶工程名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85743,9 +85843,30 @@
    "term": "volatilization",
    "trans": "挥发",
    "basis": "化学史通行（volatize=使挥发）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "挥发",
+     "en": "volatilization",
+     "source": "冶金学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "挥发率",
+     "en": "volatilization",
+     "source": "冶金学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "挥发",
+     "en": "volatilization",
+     "source": "海峡两岸化学工程名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85753,9 +85874,11 @@
    "term": "volitional choice",
    "trans": "意愿选择",
    "basis": "学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85763,9 +85886,11 @@
    "term": "Volksgeist",
    "trans": "民族精神",
    "basis": "历史主义研究通行；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85773,9 +85898,48 @@
    "term": "voltage clamp",
    "trans": "电压钳",
    "basis": "电生理学通行译名；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "电压钳",
+     "en": "voltage clamp",
+     "source": "生理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电压钳",
+     "en": "voltage clamp",
+     "source": "阿尔茨海默病名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电压钳",
+     "en": "voltage clamp",
+     "source": "昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电压钳技术",
+     "en": "voltage clamp technique",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电压钳技术",
+     "en": "voltage clamp technique",
+     "source": "生物物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电压钳",
+     "en": "voltage clamp",
+     "source": "海峡两岸昆虫学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85852,9 +86016,11 @@
    "term": "voluntarist",
    "trans": "意志论者",
    "basis": "学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85862,9 +86028,18 @@
    "term": "von Neumann entropy",
    "trans": "冯·诺依曼熵",
    "basis": "学界通行译名（量子信息文献）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "冯·诺依曼熵",
+     "en": "von Neumann entropy",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85872,9 +86047,11 @@
    "term": "Vor-Schein",
    "trans": "前现（先行照亮）",
    "basis": "学界通行译名（布洛赫研究文献）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85894,9 +86071,84 @@
    "term": "vortex",
    "trans": "涡旋",
    "basis": "科学史通行（笛卡尔涡旋说）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "涡旋",
+     "en": "vortex",
+     "source": "化工名词(三)化学工程基础"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "涡旋",
+     "en": "vortex",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "低涡",
+     "en": "vortex",
+     "source": "大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "涡旋",
+     "en": "vortex",
+     "source": "航天科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "旋涡",
+     "en": "vortex",
+     "source": "航空科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "涡旋",
+     "en": "vortex",
+     "source": "化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "涡旋",
+     "en": "vortex",
+     "source": "力学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "涡旋",
+     "en": "vortex",
+     "source": "力学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "涡[旋]",
+     "en": "vortex",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "涡旋",
+     "en": "vortex",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "漩涡振荡器",
+     "en": "vortex",
+     "source": "海峡两岸生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "旋涡",
+     "en": "vortex",
+     "source": "海峡两岸航海科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85904,9 +86156,11 @@
    "term": "voting semantics",
    "trans": "投票语义",
    "basis": "Lawry 1998 术语直译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85914,9 +86168,11 @@
    "term": "vox populi",
    "trans": "人民之声（拉丁原词保留斜体）",
    "basis": "学界惯例（拉丁语通行）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85924,9 +86180,11 @@
    "term": "Vulgate",
    "trans": "武加大译本",
    "basis": "天主教圣经学界通行汉译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85934,9 +86192,11 @@
    "term": "vyāpaka",
    "trans": "能遍充",
    "basis": "因明通行（pervader；与 vyāpya 所遍充对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85944,9 +86204,11 @@
    "term": "vyāpāra",
    "trans": "作用条件",
    "basis": "新正理因果义译（operating condition；紧接果之前之因）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85954,9 +86216,11 @@
    "term": "vyāpti",
    "trans": "遍充",
    "basis": "因明与印度逻辑学界通行（不相离性）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85964,9 +86228,11 @@
    "term": "vyāpti-pañcaka",
    "trans": "遍充五定义",
    "basis": "新正理文献通行（Gaṅgeśa 所拒前五定义；“五遍充”备查）；凭证 2026-11-10；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85974,9 +86240,11 @@
    "term": "vyāpya",
    "trans": "所遍充",
    "basis": "因明通行（pervaded）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85984,9 +86252,11 @@
    "term": "vyāsajya-vṛtti-dharma",
    "trans": "共转属性",
    "basis": "正理义译（properties which occur jointly；集体属性）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -85994,9 +86264,11 @@
    "term": "vyatireka",
    "trans": "同无",
    "basis": "因明“异品无”通行（agreement in absence；与 anvaya 同有对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86024,9 +86296,11 @@
    "term": "wabi",
    "trans": "侘（侘び）",
    "basis": "学界惯例（日本美学研究通行译法“侘”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86034,9 +86308,11 @@
    "term": "wabi-sabi",
    "trans": "侘寂",
    "basis": "学界惯例（日本美学研究通行译法“侘寂”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86044,9 +86320,11 @@
    "term": "wabicha",
    "trans": "侘茶",
    "basis": "学界惯例（日本茶道研究通行译法“侘茶”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86054,9 +86332,11 @@
    "term": "waḥdat al-shuhūd",
    "trans": "见证单一论",
    "basis": "与 waḥdat al-wujūd 存在单一论并列（希尔信迪）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86076,9 +86356,11 @@
    "term": "wahm",
    "trans": "估量（阿维森纳内感官 estimative faculty；与 vis aestimativa 估量力行相区分）",
    "basis": "学界通行（阿维森纳心理学文献）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86086,9 +86368,11 @@
    "term": "wahmī / mawhūm",
    "trans": "估量性的／被想象物（estimative/imagined；估量性科学）",
    "basis": "译名裁定（estimative 直译）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86096,9 +86380,11 @@
    "term": "wājib al-wujūd",
    "trans": "必然存在者",
    "basis": "伊斯兰哲学通行（“其存在为必然者”）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86106,9 +86392,11 @@
    "term": "Warden of the Mint",
    "trans": "造币局督办",
    "basis": "英国史通行汉译（与 Master of the Mint 造币局局长分级）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86185,9 +86473,11 @@
    "term": "weak continuity axiom",
    "trans": "弱连续性公理",
    "basis": "直觉主义分析学术语；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86195,9 +86485,18 @@
    "term": "weak counterexample",
    "trans": "弱反例",
    "basis": "直觉主义数学通行（布劳威尔 1908）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "弱关系 weak ties",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86205,9 +86504,18 @@
    "term": "weak foundationalism",
    "trans": "弱基础主义",
    "basis": "学界惯例（基础主义=foundationalism 已登记）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "弱关系 weak ties",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86215,9 +86523,11 @@
    "term": "weak stratification",
    "trans": "弱分层",
    "basis": "Crabbé 1975 之 weakly stratified 通行译名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86225,9 +86535,11 @@
    "term": "weakening",
    "trans": "弱化",
    "basis": "结构规则通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86235,9 +86547,18 @@
    "term": "weakly compact cardinal",
    "trans": "弱紧致基数",
    "basis": "大基数通行译法；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86245,9 +86566,11 @@
    "term": "weakly inaccessible cardinal",
    "trans": "弱不可达基数",
    "basis": "大基数通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86255,9 +86578,11 @@
    "term": "weakness of will",
    "trans": "意志薄弱",
    "basis": "亚里士多德伦理学通行汉译（与“不自制”分列）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86265,9 +86590,11 @@
    "term": "web of belief",
    "trans": "信念之网",
    "basis": "学界惯例（蒯因与乌利安《信念之网》通行译名）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86275,9 +86602,11 @@
    "term": "Wechselerweis",
    "trans": "交替证明（亦作“交互证明”）",
    "basis": "学界惯例（施莱格尔研究保留德文原词）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86285,9 +86614,11 @@
    "term": "weighing relation",
    "trans": "权衡关系",
    "basis": "Dietrich-List 研究通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
