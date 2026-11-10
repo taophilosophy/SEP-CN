@@ -1,0 +1,124 @@
+{
+ "key": "nilpotent",
+ "term": "nilpotent",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T02:55:19+00:00",
+ "status": "ok",
+ "note": "variant=nilpotent; 审定公布名词库=22; 海峡两岸名词对照库=2; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "幂零矩阵",
+   "en": "nilpotent matrix",
+   "code": "04.0620",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_线性代数"
+  },
+  {
+   "cn": "幂零群",
+   "en": "nilpotent group",
+   "code": "04.1804",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "幂零理想",
+   "en": "nilpotent ideal",
+   "code": "04.1335",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "幂零环",
+   "en": "nilpotent ring",
+   "code": "04.1349",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "幂零元",
+   "en": "nilpotent element",
+   "code": "04.1284",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "幂零算子",
+   "en": "nilpotent operator",
+   "code": "07.0185",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_算子"
+  },
+  {
+   "cn": "幂零代数",
+   "en": "nilpotent algebra",
+   "code": "04.1401",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "幂零线性变换",
+   "en": "nilpotent linear transformation",
+   "code": "04.0709",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_线性代数"
+  },
+  {
+   "cn": "幂零李代数",
+   "en": "nilpotent Lie algebra",
+   "code": "04.1503",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "幂零解析群",
+   "en": "nilpotent analytic group",
+   "code": "04.2095",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_李群"
+  },
+  {
+   "cn": "局部幂零代数",
+   "en": "locally nilpotent algebra",
+   "code": "04.1402",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "广义幂零元",
+   "en": "generalized nilpotent element",
+   "code": "07.0289",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_巴拿赫代数"
+  },
+  {
+   "cn": "单[潜]能细胞",
+   "en": "unipotent cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "单能干细胞",
+   "en": "unipotent stem cell\",\"monopotent stem cell",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "幂零矩阵",
+   "en": "nilpotent matrix",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "幂零元",
+   "en": "nilpotent element",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

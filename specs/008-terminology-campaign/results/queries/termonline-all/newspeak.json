@@ -1,0 +1,47 @@
+{
+ "key": "newspeak",
+ "term": "Newspeak",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T02:50:48+00:00",
+ "status": "ok",
+ "note": "variant=Newspeak; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "新话",
+   "en": "newspeak",
+   "code": "12.037",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "新闻周刊",
+   "en": "Newsweek",
+   "code": "3.142",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻史_现代新闻史_外国"
+  },
+  {
+   "cn": "中华白蛉",
+   "en": "Phlebotomus chinensis Newstead",
+   "code": "09.053",
+   "standard": "地方病学名词",
+   "subject": "地方病学_寄生虫病_原虫病_利什曼原虫病_概述"
+  },
+  {
+   "cn": "新话",
+   "en": "Newspeak",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "新闻周刊",
+   "en": "Newsweek",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

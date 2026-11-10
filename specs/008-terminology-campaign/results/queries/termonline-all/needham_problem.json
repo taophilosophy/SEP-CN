@@ -1,0 +1,348 @@
+{
+ "key": "needham problem",
+ "term": "Needham problem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T02:44:45+00:00",
+ "status": "ok",
+ "note": "variant=Needham problem; 审定公布名词库=536; 海峡两岸名词对照库=200; 其他来源数据库=29; 预公布名词数据库=32; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "李约瑟难题",
+   "en": "Needham Puzzle",
+   "code": "01.121",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_历史上的重要流派和思想"
+  },
+  {
+   "cn": "李约瑟命题",
+   "en": "Needham thesis",
+   "code": "10.0052",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_科技管理与技术创新_基本概念"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "code": "21.108",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_可靠性"
+  },
+  {
+   "cn": "报童问题",
+   "en": "newsboy problem,newsvendor problem",
+   "code": "02.0565",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_物流与供应链管理"
+  },
+  {
+   "cn": "模拟问题",
+   "en": "simulation problem",
+   "code": "03.008",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "设计问题",
+   "en": "design problem",
+   "code": "03.009",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "归纳问题",
+   "en": "inductive problem",
+   "code": "03.083",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_归纳"
+  },
+  {
+   "cn": "刚性问题",
+   "en": "stiff problem",
+   "code": "03.100",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "门槛问题",
+   "en": "threshold problem",
+   "code": "04.026",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程综合"
+  },
+  {
+   "cn": "测量问题",
+   "en": "measurement problem",
+   "code": "03.374",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_物理学哲学"
+  },
+  {
+   "cn": "优化问题",
+   "en": "optimization problem",
+   "code": "05.088",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "对偶问题",
+   "en": "dual problem",
+   "code": "05.107",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "反[演]问题",
+   "en": "inverse problem",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "问题解决",
+   "en": "problem solving",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "内倾问题",
+   "en": "internalizing problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "同构问题",
+   "en": "isomorphic problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "顿悟问题",
+   "en": "insight problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "问题表征",
+   "en": "problem representation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "整合问题",
+   "en": "binding problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "希尔问题",
+   "en": "Hill problem",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "限制性问题",
+   "en": "restricted problem",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "李约瑟难题",
+   "en": "Needham's Grand Question",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "BAN类逻辑",
+   "en": "Burrows-Abadi-Needham (BAN) logic",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "柯西问题",
+   "en": "Cauchy problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "背包问题",
+   "en": "Knapsack problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "运输问题",
+   "en": "transportation problem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "无约束问题",
+   "en": "unconstrained problem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "背包问题",
+   "en": "knapsack problem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "问题求解",
+   "en": "problem solving",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "超引力",
+   "en": "Hierarchy problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "环境问题",
+   "en": "environmental problem",
+   "code": "3.14.3.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源"
+  },
+  {
+   "cn": "妇女问题",
+   "en": "female problem",
+   "code": "4.4.9.54",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "code": "03.0118",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "农民问题",
+   "en": "peasants problem",
+   "code": "04.0080",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_列宁斯大林时期"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "code": "05.0069",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problem",
+   "code": "13.1",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "问题识别",
+   "en": "problem identification",
+   "code": "10.1.2.1.1",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problems",
+   "code": "2.10.2.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨"
+  },
+  {
+   "cn": "搭便车问题",
+   "en": "free rider problem",
+   "code": "3.5.3.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "code": "05.0122",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "都留重人问题",
+   "en": "Shigeto Tsuru problem",
+   "code": "05.0154",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "问题行为理论",
+   "en": "problem-behavior theory",
+   "code": "5.5.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

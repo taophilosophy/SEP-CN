@@ -1,0 +1,22 @@
+{
+  "slug": "logic-substructural",
+  "kind": "retranslate",
+  "zh_doc": "l/logic-substructural.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T01:54:39Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-10T01:54:39Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 15, 2024",
+    "archive_edition": "Fall 2024",
+    "sha256": "6d43589b0ef1bc2bf4fc89d564cd0297954ed4ea9df0de8618c279b4af73106d"
+  }
+}

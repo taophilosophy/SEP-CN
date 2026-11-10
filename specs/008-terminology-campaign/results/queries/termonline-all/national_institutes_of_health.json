@@ -1,0 +1,348 @@
+{
+ "key": "national institutes of health",
+ "term": "National Institutes of Health",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T02:34:13+00:00",
+ "status": "ok",
+ "note": "variant=National Institutes of Health; 审定公布名词库=10000; 海峡两岸名词对照库=8253; 其他来源数据库=2073; 预公布名词数据库=3681; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "美国国立卫生研究院卒中量表",
+   "en": "National Institutes of Health stroke scale;NIHSS",
+   "code": "16.063",
+   "standard": "神经外科学名词",
+   "subject": "医学_神经外科学_神经外科专科技术_神经外科诊断"
+  },
+  {
+   "cn": "精神健康机构",
+   "en": "mental health institution",
+   "code": "06.187",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_治疗与康复_护理与康复"
+  },
+  {
+   "cn": "卫生监督所",
+   "en": "Institute of Public Health Supervision",
+   "code": "06.090",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区公共卫生"
+  },
+  {
+   "cn": "国民健康服务",
+   "en": "National Health Service",
+   "code": "03.0427",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰"
+  },
+  {
+   "cn": "制度",
+   "en": "institution",
+   "code": "05.031",
+   "standard": "经济学名词",
+   "subject": "经济学_制度经济学"
+  },
+  {
+   "cn": "图书馆制度",
+   "en": "institution of library",
+   "code": "01.156",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学"
+  },
+  {
+   "cn": "英国国立临床规范研究所",
+   "en": "National Institute for Clinical Excellence,NICE",
+   "code": "10.089",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  },
+  {
+   "cn": "国际联盟",
+   "en": "League of Nations",
+   "code": "01.0474",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_国家集团、国际组织"
+  },
+  {
+   "cn": "同乡会",
+   "en": "nation",
+   "code": "04.057",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_古代"
+  },
+  {
+   "cn": "国有化",
+   "en": "nationalization",
+   "code": "04.090",
+   "standard": "经济学名词",
+   "subject": "经济学_宏观经济学"
+  },
+  {
+   "cn": "国有化",
+   "en": "nationalization",
+   "code": "01.0665",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "code": "17.040",
+   "standard": "地理学名词",
+   "subject": "地理学_人文地理学"
+  },
+  {
+   "cn": "美国国家标准研究所",
+   "en": "American National Standards Institute\",\"ANSI",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "[美国]国家标准及技术协会",
+   "en": "National Institute of Standards and Technology\",\"NIST",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "国际法",
+   "en": "law of nation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "银行国有化",
+   "en": "nationalization of bank",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "船舶国籍，船籍",
+   "en": "nationality of vessel",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "国际金融协会",
+   "en": "Institute of International Finance",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "放款机构",
+   "en": "lending institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "货币制度",
+   "en": "monetary institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "机构投资者",
+   "en": "institutional investor",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "金融机构",
+   "en": "financial institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投资机构",
+   "en": "investing institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "国家卫生健康委员会（国家卫健委）",
+   "en": "National Health Commission (NHC)",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "美国标准学会",
+   "en": "American National Standards Institute (ANSI)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "美国标准化组织相关标准",
+   "en": "American National Standards Institute Standards",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "英联邦",
+   "en": "Commonwealth of Nations",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际内部审计师协会",
+   "en": "Institute of Internal Auditors",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "武汉病毒所",
+   "en": "Wuhan Institute of Virology",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "海弗利克极限",
+   "en": "Wistar Institute",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国家公共卫生应急管理体系",
+   "en": "national public health emergency management system",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "金融科技机构内控",
+   "en": "internal control of Fintech institutions",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国民储蓄",
+   "en": "national saving",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "全民医疗保险",
+   "en": "national health insurance",
+   "code": "3.11.4.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康服务与制度"
+  },
+  {
+   "cn": "国家医疗服务体系",
+   "en": "national health system",
+   "code": "3.11.4.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康服务与制度"
+  },
+  {
+   "cn": "国家卫生规划",
+   "en": "national health planning",
+   "code": "10.2.1.3.1",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "国民健康服务",
+   "en": "national health service",
+   "code": "8.089",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  },
+  {
+   "cn": "公立医疗卫生机构",
+   "en": "public health care institute",
+   "code": "8.1.1.6",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "专业公共卫生机构",
+   "en": "professional public health institute",
+   "code": "8.1.1.5",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "基层卫生机构",
+   "en": "primary health care institute",
+   "code": "8.1.1.4",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "民营医疗卫生机构",
+   "en": "private health care institute",
+   "code": "8.1.1.7",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "卫生费用核算",
+   "en": "national health accounts,NHA",
+   "code": "2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生费用核算"
+  },
+  {
+   "cn": "国家职业卫生标准",
+   "en": "national occupational health standard",
+   "code": "9.2.1.3.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生标准"
+  },
+  {
+   "cn": "国家健康治理体系",
+   "en": "national health governance system",
+   "code": "6.5",
+   "standard": "社会医学名词",
+   "subject": "健康治理"
+  },
+  {
+   "cn": "放射卫生技术服务机构",
+   "en": "radiological health technical service institution",
+   "code": "8.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

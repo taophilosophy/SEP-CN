@@ -1,0 +1,348 @@
+{
+ "key": "no necessary connection argument",
+ "term": "no necessary connection argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T02:55:19+00:00",
+ "status": "ok",
+ "note": "variant=no necessary connection argument; 审定公布名词库=2198; 海峡两岸名词对照库=656; 其他来源数据库=118; 预公布名词数据库=81; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "code": "02.065",
+   "standard": "经济学名词",
+   "subject": "经济学_政治经济学"
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "code": "21.124",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_人力资源学"
+  },
+  {
+   "cn": "必需汽蚀余量",
+   "en": "necessary NPSH",
+   "code": "11.307",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_灌溉与排水_机电排灌"
+  },
+  {
+   "cn": "必要带宽",
+   "en": "necessary bandwidth",
+   "code": "14.0268",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_水上通信"
+  },
+  {
+   "cn": "必要条件",
+   "en": "necessary condition",
+   "code": "01.0027",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "跟踪保洁",
+   "en": "cleaning whenever necessary",
+   "code": "03.0109",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_公园景区管理"
+  },
+  {
+   "cn": "为何必然说明",
+   "en": "why-necessary explanation",
+   "code": "03.432",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_生物学哲学"
+  },
+  {
+   "cn": "必要劳动时间",
+   "en": "necessary labor-time",
+   "code": "02.066",
+   "standard": "经济学名词",
+   "subject": "经济学_政治经济学"
+  },
+  {
+   "cn": "雅可比[必要]条件",
+   "en": "Jacobi [necessary] condition",
+   "code": "05.0701",
+   "standard": "数学名词",
+   "subject": "数学_分析学_变分法"
+  },
+  {
+   "cn": "魏尔斯特拉斯[必要]条件",
+   "en": "Weierstrass [necessary] condition",
+   "code": "05.0702",
+   "standard": "数学名词",
+   "subject": "数学_分析学_变分法"
+  },
+  {
+   "cn": "勒让德[必要]条件",
+   "en": "Legendre [necessary] condition",
+   "code": "05.0703",
+   "standard": "数学名词",
+   "subject": "数学_分析学_变分法"
+  },
+  {
+   "cn": "欧拉[必要]条件",
+   "en": "Euler [necessary] condition",
+   "code": "05.0700",
+   "standard": "数学名词",
+   "subject": "数学_分析学_变分法"
+  },
+  {
+   "cn": "必要带宽",
+   "en": "necessary bandwidth",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "无效果-无报酬",
+   "en": "no cure-no pay",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "联系性",
+   "en": "connectivity",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "空载",
+   "en": "no load",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "空负荷运行",
+   "en": "no-load operation\",\"no-load running",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "空载运行",
+   "en": "no-load operation\",\"no-load running",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "连接",
+   "en": "connection\",\"link",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "衔接",
+   "en": "connect\",\"connecting",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "不予共享",
+   "en": "no sharing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "无效比赛",
+   "en": "no contest",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "废靶！",
+   "en": "No bird!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "情感连接",
+   "en": "emotional connection",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "技巧连接动作",
+   "en": "acrobatic connection",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "间接连接",
+   "en": "indirect connection",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "结缔组织",
+   "en": "connective tissue",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "连接动作",
+   "en": "connecting move",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "code": "02.0113",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "必需成分",
+   "en": "necessary components",
+   "code": "5.22.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "社会必要劳动时间",
+   "en": "socially necessary labortime",
+   "code": "02.0040",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "必要劳动时间",
+   "en": "necessary labor time",
+   "code": "02.0114",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "关系",
+   "en": "connection",
+   "code": "01.0062",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "6",
+   "en": "solvent No.6",
+   "code": "6.2.3.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品工业用加工助剂"
+  },
+  {
+   "cn": "必要资本量壁垒",
+   "en": "necessary capital quantity barrier",
+   "code": "5.1.6.5.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "辩证关系",
+   "en": "dialectical connection",
+   "code": "01.0039",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "本质联系",
+   "en": "essential connection",
+   "code": "01.0061",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "外在联系",
+   "en": "external connection",
+   "code": "01.0072",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "code": "01.0075",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "结缔组织",
+   "en": "connective tissue",
+   "code": "1.2.1.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_解剖和组织学_基本组织"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
