@@ -1,0 +1,348 @@
+{
+ "key": "medical argument",
+ "term": "Medical Argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T01:31:07+00:00",
+ "status": "ok",
+ "note": "variant=Medical Argument; 审定公布名词库=1943; 海峡两岸名词对照库=572; 其他来源数据库=121; 预公布名词数据库=310; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "code": "06.155",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_分析与推理"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "code": "4.277",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻评论"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "code": "05.0340",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "code": "01.0133",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "药饲",
+   "en": "medicated",
+   "code": "07.061",
+   "standard": "水产名词",
+   "subject": "水产_水产生物病害及防治"
+  },
+  {
+   "cn": "药历",
+   "en": "medication profile,medication record",
+   "code": "08.103",
+   "standard": "药学名词",
+   "subject": "药学_医院药学与临床药学"
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "code": "03.260",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "code": "03.514",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "code": "03.518",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "code": "03.578",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "code": "02.038",
+   "standard": "精神医学名词",
+   "subject": "精神医学_症状与体征_感觉与知觉障碍症状"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "code": "05.1095",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "医学胚胎学",
+   "en": "medical embryology",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "医疗气候学",
+   "en": "medical climatology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "医疗气象学",
+   "en": "medical meteorology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "医学模式",
+   "en": "medical model",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "医用纤维",
+   "en": "medical fiber",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "医用回旋加速器",
+   "en": "medical cyclotron",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "医学地理学",
+   "en": "medical geography",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "医学气象学",
+   "en": "medical meteorology",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "医学观察",
+   "en": "medical watch; medical observation",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_医疗救治"
+  },
+  {
+   "cn": "处方",
+   "en": "Medical prescription",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "胸痛",
+   "en": "medical emergency",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "药物流产",
+   "en": "medical abortion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "医学排查",
+   "en": "medical screening",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "医学巡查",
+   "en": "medical inspection",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "体检",
+   "en": "medical examination",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "医疗服务",
+   "en": "medical service",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "医务检查",
+   "en": "medical control",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "医学化",
+   "en": "medicalization",
+   "code": "3.11.5.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康与社会"
+  },
+  {
+   "cn": "医学化",
+   "en": "medicalization",
+   "code": "1.024",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "医事法",
+   "en": "medical jurisprudence",
+   "code": "1.185",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科"
+  },
+  {
+   "cn": "医疗器械",
+   "en": "medical instrument",
+   "code": "4.6.9",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "医用织物",
+   "en": "medical textile",
+   "code": "4.6.10",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "医疗用水",
+   "en": "medical water",
+   "code": "4.6.11",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "医用清洗剂",
+   "en": "medical detergent",
+   "code": "4.6.19.4.10",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "医用级",
+   "en": "medical grade",
+   "code": "6.1.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "医疗废物",
+   "en": "medical waste",
+   "code": "7.2",
+   "standard": "消毒学",
+   "subject": "消毒学_其他"
+  },
+  {
+   "cn": "医疗照射",
+   "en": "medical exposure",
+   "code": "6.1.4.2.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类"
+  },
+  {
+   "cn": "医学社会学",
+   "en": "medical sociology",
+   "code": "3.11.1.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_医学社会学学科界定"
+  },
+  {
+   "cn": "医疗救助",
+   "en": "medical assistance",
+   "code": "4.3.9.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
