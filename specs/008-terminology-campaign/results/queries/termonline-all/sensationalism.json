@@ -1,0 +1,33 @@
+{
+ "key": "sensationalism",
+ "term": "sensationalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T15:55:32+00:00",
+ "status": "ok",
+ "note": "variant=sensationalism; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "煽情主义",
+   "en": "sensationalism",
+   "code": "1.095",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻理论_新闻真实"
+  },
+  {
+   "cn": "感觉主义",
+   "en": "sensationalism",
+   "code": "04.135",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "感觉主义",
+   "en": "sensationalism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,89 @@
+{
+ "key": "semblance",
+ "term": "semblance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T15:55:32+00:00",
+ "status": "ok",
+ "note": "variant=semblance; 审定公布名词库=8; 海峡两岸名词对照库=2; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "相似度",
+   "en": "semblance",
+   "code": "03.0621",
+   "standard": "石油名词",
+   "subject": "石油_石油地球物理"
+  },
+  {
+   "cn": "会集",
+   "en": "assembling,sembling",
+   "code": "07.056",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫行为与信息化学"
+  },
+  {
+   "cn": "口膜",
+   "en": "buccal membrance",
+   "code": "5.1779",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_软体动物门"
+  },
+  {
+   "cn": "膜生物法",
+   "en": "membrance biological process",
+   "code": "02.352",
+   "standard": "化工名词（四）安全·环保·可持续发展",
+   "subject": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护"
+  },
+  {
+   "cn": "反渗透膜",
+   "en": "reverse osmosis membrance",
+   "code": "03.0982",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "转炉副枪",
+   "en": "sublance of converter",
+   "code": "05.1137",
+   "standard": "冶金学名词",
+   "subject": "冶金学_钢铁冶金_炼钢"
+  },
+  {
+   "cn": "膜上灌",
+   "en": "irrigation on plastic membrance",
+   "code": "11.048",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_灌溉与排水_灌溉（水利）"
+  },
+  {
+   "cn": "副枪探头",
+   "en": "probe at sublance tip",
+   "code": "05.1138",
+   "standard": "冶金学名词",
+   "subject": "冶金学_钢铁冶金_炼钢"
+  },
+  {
+   "cn": "会集",
+   "en": "assembling\",\"sembling",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "家族相似性",
+   "en": "family resemblance",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "象",
+   "en": "Xiang (Semblance)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

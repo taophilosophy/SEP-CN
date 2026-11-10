@@ -1,0 +1,348 @@
+{
+ "key": "shi (timeliness)",
+ "term": "shi (timeliness)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T16:16:33+00:00",
+ "status": "ok",
+ "note": "variant=shi (timeliness); 审定公布名词库=1323; 海峡两岸名词对照库=379; 其他来源数据库=35; 预公布名词数据库=22; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "时效性",
+   "en": "timeliness",
+   "code": "1.065",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻理论_新闻价值"
+  },
+  {
+   "cn": "守时性",
+   "en": "timeliness",
+   "code": "05.0579",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_质量管理"
+  },
+  {
+   "cn": "时效性",
+   "en": "timeliness",
+   "code": "03.0133",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_管理信息系统"
+  },
+  {
+   "cn": "适时",
+   "en": "timeliness",
+   "code": "15.084",
+   "standard": "心理学名词",
+   "subject": "心理学_咨询心理学"
+  },
+  {
+   "cn": "新闻时效性",
+   "en": "news timeliness",
+   "code": "02.08.032",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "数据现势性",
+   "en": "data timeliness",
+   "code": "05.115",
+   "standard": "测绘学名词",
+   "subject": "测绘学_地理信息工程"
+  },
+  {
+   "cn": "当时当地性",
+   "en": "localness and timeliness",
+   "code": "05.043",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_工程哲学_工程本体论"
+  },
+  {
+   "cn": "新闻时效",
+   "en": "timeliness of news",
+   "code": "1.044",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻理论_新闻与宣传"
+  },
+  {
+   "cn": "式",
+   "en": "shi",
+   "code": "04.04.008",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂历史"
+  },
+  {
+   "cn": "誓",
+   "en": "shi",
+   "code": "07.01.004",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "示",
+   "en": "shi",
+   "code": "07.01.150",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "史",
+   "en": "shi",
+   "code": "08.03.002",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_文档官吏"
+  },
+  {
+   "cn": "升船机",
+   "en": "ship elevator\",\"ship lift",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "伪装商船",
+   "en": "decoy ship\",\"q-ship",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "工程船",
+   "en": "working ship\",\"work ship",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "商船",
+   "en": "merchant ship\",\"commercial ship",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "太阳单色光照相术",
+   "en": "spectroheliography\",\"SHG",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "船舶",
+   "en": "vessel\",\"ship",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "船[舶]",
+   "en": "ship\",\"vessel",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "船到船遇险报警",
+   "en": "ship-to-ship distress alerting",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "船舶观测",
+   "en": "ship observation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "船用气压表",
+   "en": "ship barometer",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "匀场线圈",
+   "en": "shim coil",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "[目的港]船上交货",
+   "en": "ex ship",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "数据时效性",
+   "en": "data timeliness",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "诗",
+   "en": "Shi (Poetry)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "律诗",
+   "en": "Lüshi (Regulated Verse; Rhythmic Poetry)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "受惊",
+   "en": "shy",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "船级",
+   "en": "ship class",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "医疗船",
+   "en": "hospital ship",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "上水",
+   "en": "Sheung Shui",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "SH3 domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "船排",
+   "en": "Ship cradle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "脚固",
+   "en": "ashi-gatame",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "护胫",
+   "en": "shin guard",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "写气图貌",
+   "en": "Depict Outward Features to Convey an Innate Liveliness",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "code": "17.1.1.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_信息与技术_卫生信息经济学"
+  },
+  {
+   "cn": "扎什伦布寺",
+   "en": "Bkra shis lhun dgon",
+   "code": "3.0565",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "水族",
+   "en": "Shui",
+   "code": "1.0449",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "畲族",
+   "en": "She",
+   "code": "1.0446",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "塞人",
+   "en": "Sai, saka",
+   "code": "3.058",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "水达达",
+   "en": "Shui Tatar",
+   "code": "3.0032",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "舰船噪声",
+   "en": "ship noise",
+   "code": "12.1.1.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航海和潜水医学_航海医学"
+  },
+  {
+   "cn": "斯里兰卡人",
+   "en": "Sri Lankans",
+   "code": "6.0132",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_亚洲地区"
+  },
+  {
+   "cn": "蜀叟",
+   "en": "Shu Sou",
+   "code": "3.0133",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "畬民",
+   "en": "She People",
+   "code": "3.015",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "畲语",
+   "en": "She language",
+   "code": "5.0293",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "水语",
+   "en": "Sui language",
+   "code": "5.0279",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
