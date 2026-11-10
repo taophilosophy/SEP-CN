@@ -63,6 +63,21 @@ class ScanTest(unittest.TestCase):
         self.assertEqual(allowed, 0)
         self.assertIn('specs/', EXCLUDE_PREFIX)
 
+    def test_merge_marker_flagged(self):
+        # 2026-11-10 补遗：stash pop 冲突标记曾随提交进入 ren-ming-biao.md（重复行事故）
+        rel = self.write('ren-ming-biao.md',
+                         '| 甲 | — | 乙 |\n<<<<<<< Updated upstream\n| 丙 |\n=======\n| 丁 |\n>>>>>>> Stashed changes\n')
+        hits, _ = scan(self.root, [rel])
+        labels = [h[2] for h in hits]
+        self.assertEqual(labels, [['合并冲突标记'], ['合并冲突标记']])
+        self.assertEqual([h[1] for h in hits], [2, 6])
+
+    def test_setext_underline_not_flagged(self):
+        # `=======` 是 Markdown setext 标题下划线，不得误报
+        rel = self.write('a/heading.md', '标题\n=======\n')
+        hits, _ = scan(self.root, [rel])
+        self.assertEqual(hits, [])
+
 
 if __name__ == '__main__':
     unittest.main()

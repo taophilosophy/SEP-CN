@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""直角引号总检（rules/02-style.md 第 11 条落门：禁 U+300C/D/E/F）。
+"""文本卫生总检：直角引号（rules/02-style.md 第 11 条）＋ 合并冲突标记残留。
 
 为何单列一具：`check_style.py` 已有 curly-quotes 规则但只对单篇词条跑
 （--docs 模式），登记册、词汇表、规则与叙事文档从不经过它，导致 2026-11-10
@@ -31,6 +31,8 @@ if getattr(sys.stdout, 'encoding', None) and sys.stdout.encoding.lower() not in 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BAD = {'\u300c': 'U+300C 「', '\u300d': 'U+300D 」',
        '\u300e': 'U+300E 『', '\u300f': 'U+300F 』'}
+# 合并/储藏冲突标记：行首七连符号（`=======` 是 setext 标题下划线，不查）
+MARKERS = ('<<<<<<< ', '>>>>>>> ', '||||||| ')
 EXCLUDE_PREFIX = ('en/', 'yuanwen/', 'specs/', '.zcode/', 'node_modules/')
 ALLOW_FILES = {
     # 日文书名「切れ」の構造：日文正字法，改成弯引号即失真（ADR-0011）
@@ -50,7 +52,7 @@ def tracked_md():
 
 
 def scan(root, files, allow=ALLOW_FILES):
-    """返回 (hits, allowed_count)。hits=[(rel, lineno, [字符标签], 摘录)]。"""
+    """返回 (hits, allowed_count)。hits=[(rel, lineno, [标签], 摘录)]。"""
     hits, allowed = [], 0
     for rel in files:
         if rel.startswith(EXCLUDE_PREFIX):
@@ -63,6 +65,9 @@ def scan(root, files, allow=ALLOW_FILES):
             print('读取失败：%s（%s）' % (rel, e))
             continue
         for i, line in enumerate(text.split('\n'), 1):
+            if line.startswith(MARKERS):
+                hits.append((rel, i, ['合并冲突标记'], line.strip()[:60]))
+                continue
             found = [BAD[ch] for ch in line if ch in BAD]
             if not found:
                 continue
@@ -85,9 +90,11 @@ def main(argv=None):
         print('%s:%d  直角引号 %s：%s' % (rel, lineno, '、'.join(found), snippet))
     n = sum(len(h[2]) for h in hits)
     if not quiet or n:
-        print('直角引号：%d 处 / %d 文件（豁免 %d 处，日文正字法）'
-              % (n, len(files_hit), allowed_hit))
-        print('处置：改弯引号（“”‘’），见 rules/02-style.md 第 11 条')
+        print('违例：%d 处 / %d 文件（其中直角引号 %d 处；豁免 %d 处，日文正字法）'
+              % (n, len(files_hit), n - sum(1 for h in hits if h[2] == ['合并冲突标记']),
+                 allowed_hit))
+        print('处置：直角引号改弯引号（“”‘’），见 rules/02-style.md 第 11 条；'
+              '冲突标记须解决后重提交')
     return 1 if n else 0
 
 
