@@ -4131,6 +4131,7 @@
 | sorites paradox | — | 堆垛悖论 | logic-fuzzy | 学界通行译法（亦作“连锁悖论”“谷堆悖论”“秃头悖论”；与 sorites 堆垛论证同族，对齐词汇表既有行）；凭证 2026-11-09 | 2026-11-09 |
 | sortal essence | — | 类别本质 | reinach | 学界惯例（sortal 传统译“类别”）；凭证 2026-11-09 | 2026-11-09 |
 | soteriology | — | 救度论 | gelukpa | 宗教学通译 | 2026-11-01 |
+| soteriology (Christian) | — | 救恩论 | gregory-rimini | 基督教神学通行汉译；与佛教学「救度论」同键异义分立（gelukpa 条 2026-11-01 行） | 2026-11-10 |
 | soul | — | 灵魂 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | soundness | — | 可靠性 | logical-consequence | 证明论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | source coding theorem | — | 信源编码定理 | qt-entangle | 信息论通行译名；凭证 2026-11-09 | 2026-11-09 |
