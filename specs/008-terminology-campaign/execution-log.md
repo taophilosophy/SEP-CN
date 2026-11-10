@@ -512,6 +512,13 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   void space（船舶「浮力舱」/水利「孔隙」异义）、weak counterexample、weak foundationalism、weakly compact cardinal
   （后三条均社会学库假阳性命中）。
 
+### 十五、第十二批增量裁定（offset 2668–2700，4 条）
+
+* 审计刷新：一致 632 / 不一致 429 / 查无 2372 / 未查证 5397；新增不一致 4 条，**全部保留现译**：
+  well-formed（审定作「合式[的]」，与现译仅方括号记法差异）、well-founded（命中「良基语义」下位词）、
+  winning strategy（审定·计算机作「赢取策略」，逻辑/博戏文献通行「制胜策略」）、Wistar Institute（维基垃圾命中）。
+
+
 
 
 

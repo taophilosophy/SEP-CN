@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 5427,
-  "查无": 2349,
-  "不一致": 425,
-  "一致": 629
+  "未查证": 5397,
+  "查无": 2372,
+  "不一致": 429,
+  "一致": 632
  },
  "results": [
   {
@@ -86626,9 +86626,18 @@
    "term": "weight of evidence",
    "trans": "证据权重",
    "basis": "学界惯例（确证理论通行）；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "证据权重",
+     "en": "weight of evidence, WOE",
+     "source": "食品卫生学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86636,9 +86645,11 @@
    "term": "WEIRD",
    "trans": "WEIRD 样本",
    "basis": "学界通行（Henrich et al. 2010：Western/Educated/Industrialized/Rich/Democratic）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86646,9 +86657,11 @@
    "term": "welfare rights",
    "trans": "福利权利",
    "basis": "学界惯例（政治哲学通行；凭证 2026-11-06）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86656,9 +86669,11 @@
    "term": "welfare state game",
    "trans": "福利国家博弈",
    "basis": "Schlösser 等 2018 实验范式名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86666,9 +86681,11 @@
    "term": "welfarism",
    "trans": "福利主义",
    "basis": "学界通行译名（此处指残疾的福利主义定义进路）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86676,9 +86693,108 @@
    "term": "well-being",
    "trans": "福祉",
    "basis": "学界通行（发布词汇表 Well-Being｜福祉 已收，三表一致）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "社会福祉",
+     "en": "social well-being",
+     "source": "风景园林名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "主观幸福感",
+     "en": "subjective well-being",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "社会福祉",
+     "en": "social well-being",
+     "source": "地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "主观幸福感测验",
+     "en": "subjective well- being test",
+     "source": "医学美学与美容医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幼儿园卫生保健工作",
+     "en": "health and well-being",
+     "source": "教育学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "健康质量量表",
+     "en": "quality of well-being,QWB",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "健康生存质量表",
+     "en": "quality of well-being scale",
+     "source": "老年医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "健康生存质量表",
+     "en": "quality of well-being scale;QWB",
+     "source": "急救医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幸福感",
+     "en": "well being",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "主观幸福感",
+     "en": "subjective well being",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "社会福祉",
+     "en": "social well-being",
+     "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "民生在勤",
+     "en": "Well-being Is Forged Through Hard Work.",
+     "source": "中华思想文化术语传播工程"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "福祉",
+     "en": "well-being",
+     "source": "妇幼卫生学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "良好适应状态质量评估量表",
+     "en": "quality of well-being scale,QWB",
+     "source": "卫生经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "良好适应状态指数",
+     "en": "quality of well being index, QWB",
+     "source": "社会医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "假愈期",
+     "en": "latent phase，period of apparent well-being",
+     "source": "放射卫生学"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86686,9 +86802,36 @@
    "term": "well-formed",
    "trans": "合式的",
    "basis": "学界惯例（数理逻辑通行：well-formed formula 合式公式）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "合式[的]",
+     "en": "well-formed",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合式公式",
+     "en": "well-formed formula",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合式公式",
+     "en": "well-formed formula",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合式公式",
+     "en": "well-formed formula",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86696,9 +86839,18 @@
    "term": "well-founded",
    "trans": "良基",
    "basis": "集合论与逻辑学通行",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "良基语义",
+     "en": "well-founded semantics",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86706,9 +86858,11 @@
    "term": "well-ordering theorem",
    "trans": "良序定理",
    "basis": "数学界通行译法；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86716,9 +86870,11 @@
    "term": "wellformed formula",
    "trans": "合式公式",
    "basis": "数理逻辑通行译名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86726,9 +86882,11 @@
    "term": "Weltanschauung",
    "trans": "世界观",
    "basis": "德语原词，学界通用汉译；凭证 2026-11-10；德语原形即键（2026-11-10 取证）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86736,9 +86894,11 @@
    "term": "Weltorientierung",
    "trans": "世界定向",
    "basis": "学界通行（《哲学》第一卷卷名）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86746,9 +86906,11 @@
    "term": "wen nan",
    "trans": "问难",
    "basis": "王充术语（questioning and challenging）；上游自带汉字",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86756,9 +86918,11 @@
    "term": "Werden",
    "trans": "生成（Werden）",
    "basis": "学界惯例（德国古典哲学通行）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86766,9 +86930,11 @@
    "term": "what expresses / what is expressed（rjod byed / brjod bya）",
    "trans": "能诠／所诠",
    "basis": "佛学界通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86776,9 +86942,11 @@
    "term": "what it is like",
    "trans": "是什么样子",
    "basis": "学界惯例（内格尔意识文献通行译法）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86786,9 +86954,11 @@
    "term": "Whig history",
    "trans": "辉格史",
    "basis": "学界通行汉译（巴特菲尔德《历史的辉格解释》中译本）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86796,9 +86966,11 @@
    "term": "whiggish",
    "trans": "辉格式的（史学术语，指以今度旧的进步史观）",
    "basis": "学界通行汉译（史学理论惯例）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86806,9 +86978,11 @@
    "term": "whole of ends",
    "trans": "目的整体",
    "basis": "学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86816,9 +86990,11 @@
    "term": "wholly present",
    "trans": "整个地临在",
    "basis": "学界通行（奥古斯丁/安瑟伦传统）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86826,9 +87002,11 @@
    "term": "wide reflective equilibrium",
    "trans": "广义反思平衡",
    "basis": "学界通行（Rawls 1971）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86836,9 +87014,11 @@
    "term": "wilāyah",
    "trans": "精神监护（圣品）",
    "basis": "什叶派与苏非通行（spiritual guardianship）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86846,9 +87026,36 @@
    "term": "willingness to pay",
    "trans": "支付意愿",
    "basis": "学界惯例（环境经济学通行）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "意愿支付法",
+     "en": "willingness-to-pay,WTP",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "教育付费意愿",
+     "en": "willingness to pay foreducation",
+     "source": "教育学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "支付意愿",
+     "en": "willingness to pay",
+     "source": "食品卫生学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "意愿支付法",
+     "en": "willingness-to-pay approach,WTP method",
+     "source": "卫生经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86856,9 +87063,18 @@
    "term": "winning strategy",
    "trans": "制胜策略",
    "basis": "博弈语义学通行",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "赢取策略",
+     "en": "winning strategy",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86866,9 +87082,11 @@
    "term": "wisdom of crowds",
    "trans": "群体的智慧",
    "basis": "学界惯例（Surowiecki《群体的智慧》通行书名）；凭据 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86876,9 +87094,11 @@
    "term": "Wissenschaftslehre",
    "trans": "知识学",
    "basis": "主会话直译收口 432e0a76；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86886,9 +87106,18 @@
    "term": "Wistar Institute",
    "trans": "威斯塔研究所",
    "basis": "机构通行译名（费城）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "海弗利克极限",
+     "en": "Wistar Institute",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86896,9 +87125,11 @@
    "term": "wit",
    "trans": "机智",
    "basis": "学界惯例（施莱格尔研究通行；与 Witz 对应）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86906,9 +87137,11 @@
    "term": "witchcraft",
    "trans": "巫术",
    "basis": "学界通行；与 sorcery 同译，源文二词并用",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -86952,9 +87185,11 @@
    "term": "words of first imposition",
    "trans": "第一重命名词",
    "basis": "沿本册 imposition＝命名（词项施加）派生；学界中世纪语言哲学；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
