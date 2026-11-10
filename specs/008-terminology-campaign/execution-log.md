@@ -471,6 +471,15 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
     审定「技术客体」为通名，保留「技术物」）、surrogacy / surrogate（哲学科学模型义≠生殖医学「代孕」）。
   * 学科定名差异：substructural logic（审定·计算机作「亚结构逻辑」，逻辑学界通行「子结构逻辑」，本条出处 logic-linear）。
 
+### 九、第六批增量裁定（offset 2380–2468，11 条）
+
+* 审计刷新：一致 603 / 不一致 406 / 查无 2196 / 未查证 5557；新增不一致 11 条。
+* **主译变更 1 条**：transient polymorphism「暂态多态性」→「过渡性多态性」（审定·遗传学；`e/ecological-genetics.md` 2 处看齐）。
+* **保留 10 条**：timelike trajectory / tractability / Tractatus / Transcendental Deduction（社会学假阳性）、Topics（档案学「题目」异义）、
+  Torah（社会学「律法」义，本库取音译「托拉」）、transcendentalism（本条 emerson 美国超验主义义，审定「先验主义」为康德/马克思主义义）、
+  transcendentals（命中为形容词 transcendental）、trope / tropes（音乐「附加段」异义）。
+
+
 
 
 

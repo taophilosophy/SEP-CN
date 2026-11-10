@@ -4631,7 +4631,7 @@
 | transcendentals | transcendentalia | 超越者 | 首译（sharpe） | 学界通行（ens/aliquid/res 等；承本册 transcendental term 超越词项）；凭证 2026-11-09 | 2026-11-09 |
 | transcriptomics | — | 转录组学 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | transhumanism | — | 超人类主义 | 首现（it-moral-values） | 哲学通行译名；凭证 2026-11-10 | 2026-11-10 |
-| transient polymorphism | — | 暂态多态性 | ecological-genetics 首译 | 学界通行译名（附原文备考）；凭证 2026-11-09 | 2026-11-09 |
+| transient polymorphism | — | 过渡性多态性（亦作“暂态多态性”） | ecological-genetics 首译 | 审定名词库（termonline-all·遗传学名词，2026-11-11 浏览器通道凭证） | 2026-11-11 |
 | Transition; elementary system of the moving forces | — | 过渡（Übergang）；运动力的初阶系统（Elementarsystem） | kant-science | 李秋零《遗著》研究通行 | 2026-11-05 |
 | transitional justice | — | 转型正义 | justice-moral-psych | 学界通行汉译（转型期司法与正义研究）；凭证 2026-11-10 | 2026-11-10 |
 | transitive closure | — | 传递闭包 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
