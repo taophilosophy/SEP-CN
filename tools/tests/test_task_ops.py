@@ -56,6 +56,23 @@ class TestTaskOps(unittest.TestCase):
         t = task_ops.load_task("test-c")
         self.assertEqual(t["state"], "cleared")
 
+    def test_reopen_then_clear(self):
+        # done → reopen（旧 steps 保留）→ clear 置空，回重译队列（ADR-0033）
+        md = self._md("r.md", "# 测试标题\n\n旧译文。\n")
+        task_ops.create("test-r", "retranslate", zh_doc=md)
+        task_ops.clear("test-r")
+        for step in ("draft", "s1", "s2", "s3", "r1", "r2", "r3", "done"):
+            task_ops.advance("test-r", step, actor="t", evidence="e")
+        with self.assertRaises(task_ops.UsageError):
+            task_ops.reopen("test-r", "", "t")  # 原因必填
+        t = task_ops.reopen("test-r", "语体不合规：正文文言", "t")
+        self.assertEqual(t["state"], "pending")
+        self.assertEqual(t["steps"][-1]["step"], "reopen")
+        self.assertEqual(sum(1 for s in t["steps"] if s["step"] == "done"), 1)  # 旧步骤留史
+        t = task_ops.clear("test-r")
+        self.assertEqual(t["state"], "cleared")
+        self.assertEqual(read_text(md), "# 测试标题\n")
+
     def test_update_requires_change_evidence(self):
         with tempfile.TemporaryDirectory() as d:
             cf = os.path.join(d, "change.json")

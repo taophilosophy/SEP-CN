@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 13:18（UTC）
+生成时间：2026-11-10 15:19（UTC）
 
 ## 总览
 
@@ -15,19 +15,19 @@
 |已建任务|1176|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|302|
-|在途（drafted 起、done 前）|205|
+|在途（drafted 起、done 前）|206|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|669|
-|cleared|139|
+|pending|668|
+|cleared|143|
 |drafted|2|
 |s1_checked|1|
-|s2_checked|2|
-|s3_checked|57|
+|s2_checked|1|
+|s3_checked|55|
 |r1_reviewed|3|
 |r2_reviewed|1|
 |done|302|
@@ -43,16 +43,16 @@
 |E|99|99|99|19|
 |F|96|96|96|1|
 |G|49|49|49|8|
-|H|61|61|61|12|
-|I|75|75|75|26|
-|J|38|38|38|11|
+|H|61|61|61|13|
+|I|75|75|75|27|
+|J|38|38|38|8|
 |K|36|36|36|21|
 |L|144|144|30|29|
 |M|139|139|14|7|
 |N|50|50|8|6|
 |O|21|21|11|8|
 |P|165|165|11|8|
-|Q|34|34|34|1|
+|Q|34|34|34|2|
 |R|85|85|85|9|
 |S|161|161|18|16|
 |T|71|71|7|4|
@@ -183,7 +183,6 @@
 |health-disease|retranslate|cleared|task_ops 2026-11-01|
 |hedonism|retranslate|cleared|task_ops 2026-11-01|
 |hegel-dialectics|retranslate|cleared|task_ops 2026-11-01|
-|hegel-social-political|retranslate|s3_checked|H-main-20261110 2026-11-09|
 |heraclitus|retranslate|r1_reviewed|H-main-20261109 2026-11-09|
 |heritability|retranslate|cleared|task_ops 2026-11-01|
 |hermann-helmholtz|retranslate|cleared|task_ops 2026-11-01|
@@ -200,7 +199,6 @@
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
-|ibn-kammuna|retranslate|s2_checked|I-main-20261110b 2026-11-10|
 |imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
@@ -213,10 +211,13 @@
 |japanese-pure-land|retranslate|cleared|task_ops 2026-11-01|
 |japanese-zen|retranslate|cleared|task_ops 2026-11-01|
 |jaspers|retranslate|s3_checked|J-main-20261109 2026-11-09|
-|jayaraasi|retranslate|s3_checked|? 2026-11-07|
+|jayaraasi|retranslate|cleared|task_ops 2026-11-10|
 |jefferson|retranslate|cleared|task_ops 2026-11-01|
 |johann-fichte|retranslate|cleared|task_ops 2026-11-01|
 |johann-herbart|retranslate|cleared|task_ops 2026-11-01|
+|johann-sturm|retranslate|cleared|task_ops 2026-11-10|
+|john-italos|retranslate|cleared|task_ops 2026-11-10|
+|john-norris|retranslate|cleared|task_ops 2026-11-10|
 |john-salisbury|retranslate|cleared|task_ops 2026-11-01|
 |jury-theorems|retranslate|cleared|task_ops 2026-11-01|
 |justep-foundational|retranslate|cleared|task_ops 2026-11-01|
@@ -258,8 +259,8 @@
 |natphil-ren|retranslate|s3_checked|ZCode-N-20261110 2026-11-10|
 |nietzsche-aesthetics|retranslate|cleared|task_ops 2026-11-10|
 |omnipresence|retranslate|s3_checked|O3-main-20261110 2026-11-10|
-|omniscience|retranslate|cleared|task_ops 2026-11-09|
-|quine-nf|retranslate|s3_checked|Q-main-20261110 2026-11-10|
+|omniscience|retranslate|s3_checked|O3-main-20261110 2026-11-10|
+|qm|retranslate|cleared|task_ops 2026-11-10|
 |reflective-equilibrium|retranslate|cleared|task_ops 2026-11-10|
 |religion-epistemology|retranslate|s3_checked|R-main-20261110 2026-11-10|
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|

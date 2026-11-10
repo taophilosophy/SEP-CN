@@ -41,6 +41,14 @@
 * 重译前置条件：该词条已登记可信英文基线（`baseline/` 有版本钉：pubinfo 日期 + 存档版名 + SHA-256），清空动作（cleared）才能执行；全库级清空必须可由 git 历史回溯。
 * 可疑处回到原始 HTML 或官方页面核对（`yuanwen/`、`en/` 为本地原始物，不入库），禁止以缓存、既有翻译或中间产物替代源验证。
 
+### 语体不合规的置空返工（ADR-0033，2026-11-10 用户裁定）
+
+已 done 词条经通读判为文言或半文半白（[02](02-style.md)“语体与文风”）的，**不修补、不以旧译为底稿**：
+
+1. `python tools/task_ops.py reopen <slug> --actor <执行者> --reason <原因>`：done 打回 pending，旧 steps 保留为历史；
+2. `python tools/task_ops.py clear <slug>`：正文置空至 H1（基线 gate 照常）；
+3. 按重译流程重新 draft；旧账本只作历史凭证，新 draft 必须新建账本，不得沿用旧 step2。
+
 ## LLM 辅助初译协议（ADR-0021）
 
 draft 采用 LLM 辅助时本协议**强制**；纯人工初译不适用。操作细则（账本文件格式、提示词骨架、守恒校验清单）见 `specs/005-translation-campaign/fan-yi-mu-ban.md` §6。

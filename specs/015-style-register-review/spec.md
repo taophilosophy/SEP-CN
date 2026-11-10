@@ -12,13 +12,13 @@
 
 1. 规则层：`rules/02-style.md` 立“语体与文风（语义判定）”条款；`rules/04` 在二校与 r1 增加语体通读；ADR-0033 记录决策与门禁形态。
 2. 门禁层：`check_academic.py` 的 `task-style-attest` 只校验 s2/r1 是否留下**语义复核结论**（`语体：……`），不判断文本语体；生效时点后的 done 任务适用。
-3. 复核层：对 306 条 done 词条逐条通读（排除引文、碑铭、题记原引文、参考文献照录条目），判定语体为“现代汉语／混合／文言”，记录证据句与处理动作；文言与混合件重写为现代汉语并重走相应校次。
-4. 修复已知违例：`j/jayaraasi.md` 全篇文言，按新标尺重写。
+3. 复核层：对 306 条 done 词条逐条通读（排除引文、碑铭、题记原引文、参考文献照录条目），判定语体为“现代汉语／混合／文言”，记录证据句与处理动作。
+4. 不合规处置（用户 2026-11-10 裁定）：判为文言或半文半白的，**一律置空**——`task_ops.py reopen` → `clear` 回到 H1，重新进入重译队列；不修补、不以旧译为底稿。已知违例 `j/jayaraasi.md` 同此处置。
 
 **非目标**
 
 * 不做关键词扫描判定（“之／其／而／则”命中数不作证据）；脚本只用于枚举条目、生成队列、校验记录完备，不产生语体结论。
-* 不重译内容合格的词条；仅改语体与破折号，不改原意、不补内容、不删论证。
+* 不对不合规件做定点修补或改写；置空后另行重译。
 * 不做术语与人名改判（另行走登记册流程）。
 
 ## 判定口径（语义）
@@ -33,13 +33,13 @@
 ## 队列与记录
 
 * `results/queue.jsonl`：全部 done 词条（slug、路径、字节数、done 时间戳），只作枚举与断点，不含判定。
-* `results/verdicts.jsonl`：逐条 `{slug, path, verdict, dash, evidence, action, reviewer, at}`；`verdict` ∈ modern／mixed／classical，`action` ∈ none／rewrite／pending。
+* `results/verdicts.jsonl`：逐条 `{slug, path, verdict, dash, evidence, action, cleared_at, reviewer, at}`；`verdict` ∈ modern／mixed／classical，`action` ∈ none／clear。
 * 顺序：先复核 J 批 done（已知违例所在批次），再按 done 时间升序推进；每批交接写 `results/handoff.md`。
 
 ## 验收判据
 
 1. `results/queue.jsonl` 条数 = done 任务数；`verdicts.jsonl` 覆盖每条且有证据句。
-2. 判为 classical／mixed 的词条全部 `action=rewrite` 并完成重写，`check_style`／`check_prose`／`check_academic --strict` 通过。
+2. 判为 classical／mixed 的词条全部 `action=clear`，任务状态 `cleared`，正文仅余 H1。
 3. 抽查 3 条“modern”结论，由第二读者复核证据句，结论一致。
 4. `specs/005` 检查点新增语体项在后续批次实际执行（evidence 含 `语体：`）。
 
