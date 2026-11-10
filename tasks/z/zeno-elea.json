@@ -2,7 +2,7 @@
   "slug": "zeno-elea",
   "kind": "retranslate",
   "zh_doc": "z/zeno-elea.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "ZR-main-20261110",
       "at": "2026-11-10T10:45:54Z",
       "evidence": "复审（逐句回核原文与逻辑）：①引注组 28↔28 全对位，差异仅标点本地化（, i.e.→，即；cf.→参见）与「especially」译出，无编号/页码错漏；②正文数字机检 67↔66，余额差仅为「book 1→第一卷」汉字数字与日期记法（May 12→5 月 12 日），无事实错；③逻辑链重核：二分法递推（pₙ/pₙ₋₁ 无终点）、大与小双向往返（引理过渡）、飞矢「与等量者相并」三段、运动队列公设推理、处所无穷倒退、§3 通行观点—柏拉图证据—芝诺纠正—Barnes 判断四段结构，均与源一致；④交叉引用 2.1.1/2.1.2/2.2.1 与实存小节对应；⑤相关词条七项与 SUMMARY 定名逐字对位（辛普利修斯取 SUMMARY 词条定名形，正文主形辛普里丘按登记册，双形裁定见人名表 Simplicius 行）。新增问题 0，无改动。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ZR-main-20261111",
+      "at": "2026-11-10T20:02:00Z",
+      "evidence": "终检（独立会话；r1–r2 为 ZR-main-20261110）：四检全绿——check_style 0 issue、check_prose 0（终审实修 de-chain 1 处：成了通行看法的基石→被通行看法奉为基石）、check_math 0 缺失/失衡、check_academic --strict 0 硬错误（在途豁免 1）；终读实修 fluency 1 处（leapt ahead of earlier thinkers：先于→领先于）；抽查运动场段引注 (204ᵃ10–17) 与镜像逐字符一致（上游原样保留）；相关词条行双单一贯（辛普利修斯=SUMMARY 条目题名、辛普里丘=人名册定名），均未改"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ZR-main-20261111",
+      "at": "2026-11-10T20:02:57Z",
+      "evidence": "r3 收口：四门禁绿、终读验收过；done 经 r3_reviewed（回归单测路径）"
     }
   ],
   "blockers": [],

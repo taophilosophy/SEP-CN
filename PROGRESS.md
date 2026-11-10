@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 19:04（UTC）
+生成时间：2026-11-10 20:02（UTC）
 
 ## 总览
 
@@ -14,22 +14,20 @@
 |已建英文基线|1879|
 |已建任务|1177|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|300|
-|在途（drafted 起、done 前）|209|
+|已完成（done）|302|
+|在途（drafted 起、done 前）|212|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|668|
-|cleared|146|
+|pending|663|
+|cleared|150|
 |drafted|2|
-|s2_checked|1|
-|s3_checked|56|
-|r1_reviewed|3|
-|r2_reviewed|1|
-|done|300|
+|s3_checked|58|
+|r1_reviewed|2|
+|done|302|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -42,7 +40,7 @@
 |E|99|99|99|19|
 |F|96|96|96|1|
 |G|49|49|49|9|
-|H|61|61|61|13|
+|H|61|61|61|14|
 |I|75|75|75|25|
 |J|38|38|38|8|
 |K|36|36|36|21|
@@ -60,13 +58,13 @@
 |W|38|38|7|3|
 |X|3|3|3|2|
 |Y|2|2|1|0|
-|Z|6|6|6|1|
+|Z|6|6|6|2|
 
 ## 在途任务
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
-|adorno|retranslate|s2_checked|A-main-20261110b 2026-11-10|
+|adorno|retranslate|s3_checked|A-main-20261111 2026-11-10|
 |aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-18th-german|retranslate|cleared|task_ops 2026-11-10|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
@@ -159,9 +157,12 @@
 |early-modern-india|retranslate|cleared|task_ops 2026-11-10|
 |ecological-genetics|retranslate|s3_checked|EF-main3-20261109 2026-11-09|
 |edwards|retranslate|s3_checked|E-main-20261110b 2026-11-10|
+|epistemology-latin-america|retranslate|cleared|task_ops 2026-11-10|
 |experimental-aesthetics|retranslate|s3_checked|EFG-main-20261108 2026-11-08|
 |faith|retranslate|s3_checked|F-main-20261111 2026-11-10|
+|falaquera|retranslate|cleared|task_ops 2026-11-10|
 |frame-problem|retranslate|s3_checked|F-main-20261110 2026-11-09|
+|gadamer|retranslate|cleared|task_ops 2026-11-10|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
 |galileo|retranslate|cleared|task_ops 2026-11-01|
@@ -183,7 +184,6 @@
 |health-disease|retranslate|cleared|task_ops 2026-11-01|
 |hedonism|retranslate|cleared|task_ops 2026-11-01|
 |hegel-dialectics|retranslate|cleared|task_ops 2026-11-01|
-|heraclitus|retranslate|r1_reviewed|H-main-20261109 2026-11-09|
 |heritability|retranslate|cleared|task_ops 2026-11-01|
 |hermann-helmholtz|retranslate|cleared|task_ops 2026-11-01|
 |hermann-lotze|retranslate|cleared|task_ops 2026-11-01|
@@ -262,7 +262,9 @@
 |nietzsche-aesthetics|retranslate|cleared|task_ops 2026-11-10|
 |omnipresence|retranslate|s3_checked|O3-main-20261110 2026-11-10|
 |omniscience|retranslate|s3_checked|O3-main-20261110 2026-11-10|
+|ontology-is|retranslate|s3_checked|O3-main-20261110 2026-11-10|
 |qm|retranslate|cleared|task_ops 2026-11-10|
+|ramsey-economics|retranslate|cleared|task_ops 2026-11-10|
 |reflective-equilibrium|retranslate|s3_checked|R-main-20261110 2026-11-10|
 |religion-epistemology|retranslate|s3_checked|R-main-20261110 2026-11-10|
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|
@@ -270,7 +272,6 @@
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
-|zeno-elea|retranslate|r2_reviewed|ZR-main-20261110 2026-11-10|
 |zermelo-set-theory|retranslate|cleared|task_ops 2026-11-08|
 |zhu-xi|retranslate|cleared|task_ops 2026-11-08|
 |zhuangzi|retranslate|cleared|task_ops 2026-11-08|
