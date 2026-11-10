@@ -75,110 +75,146 @@ segments:
     kind: body
     source: |-
       ## 1. Logical Visibility I: Loci
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 逻辑可见性 I：位点
+    step2: |-
+      ## 1 逻辑可见性 I：位点
   - id: 10
     kind: body
     source: |-
       In several cases of foundational interest, sign languages don’t just have the same types of Logical Forms as spoken languages; they may make overt key parts of the logical vocabulary that are usually covert in spoken language. These have been called instances of ‘Logical Visibility’ (Schlenker 2018a; following the literature, we use the term ‘logical’ loosely, to refer to primitive distinctions that play a key role in a semantic analysis)[^schlenker-2018a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在若干具有基础性意义的案例中，手语不仅拥有与口语相同类型的逻辑形式，还可能把口语中通常隐而不显的逻辑词库关键部分显性化。这类现象被称为“逻辑可见性”的实例（Schlenker 2018a；依照文献惯例，我们宽泛地使用“逻辑”一词，指语义分析中起关键作用的原始区分）。
+    step2: |-
+      在若干具有基础意义的案例中，手语不仅与口语共享同一类逻辑形式，还会把口语中通常隐而不显的逻辑词库关键成分显性化。此类现象即所谓“逻辑可见性”实例（Schlenker 2018a；依文献惯例，“逻辑”一词取其宽泛义，指语义分析中起关键作用的原始区分）。
   - id: 11
     kind: body
     source: |-
       **(1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(1)**
+    step2: |-
+      **(1)**
   - id: 12
     kind: body
     source: |-
       **Hypothesis: Logical Visibility** Sign languages can make overt parts of the logical/grammatical vocabulary which (i) have been posited in the analysis of the Logical Form of spoken language sentences, but (ii) are not morphologically realized in spoken languages.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **假设：逻辑可见性** 手语能够把逻辑／语法词库的某些部分显性化，这些部分（i）在口语语句逻辑形式的分析中被设定，（ii）在口语中却没有形态实现。
+    step2: |-
+      **假设：逻辑可见性** 手语可将逻辑／语法词库的某些部分显性呈现出来；这些部分（i）在口语语句逻辑形式的分析中已被设定，（ii）在口语中并无形态实现。
   - id: 13
     kind: body
     source: |-
       Claims of Logical Visibility have been made for logical variables associated with syntactic indices (Lillo-Martin & Klima 1990; Schlenker 2018a)[^lillo-martin-1990][^schlenker-2018a], for context shift operators (Quer 2005, 2013; Schlenker 2018a)[^quer-2005][^schlenker-2018a], and for verbal morphemes relevant to telicity (Wilbur 2003, 2008; Wilbur & Malaia 2008)[^wilbur-2003][^wilbur-2008][^wilbur-2008-2]. In each case, the claim of Logical Visibility has been debated, and many questions remain open.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们曾就与句法索引相关联的逻辑变量（Lillo-Martin & Klima 1990; Schlenker 2018a）、语境移位算子（Quer 2005, 2013; Schlenker 2018a），以及与终结性有关的动词词素（Wilbur 2003, 2008; Wilbur & Malaia 2008）提出逻辑可见性主张。每一情形中，逻辑可见性主张都曾引起争论，许多问题仍悬而未决。
+    step2: |-
+      逻辑可见性主张曾分别针对句法索引所关联的逻辑变量（Lillo-Martin & Klima 1990; Schlenker 2018a）、语境移位算子（Quer 2005, 2013; Schlenker 2018a）以及与终结性相关的动词词素（Wilbur 2003, 2008; Wilbur & Malaia 2008）提出。每一情形中，此主张均有争议，许多问题至今悬而未决。
   - id: 14
     kind: body
     source: |-
       In this section, we discuss cases in which logical variables of different types have been argued to sometimes be overt in sign—a claim that has consequences of foundational interest for semantics; we will discuss further potential cases of Logical Visibility in the next section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节讨论这样一些案例：有人主张，不同类型的逻辑变量在手语中有时是显性的。这一主张对语义学具有基础性意义；下一节将讨论逻辑可见性的更多潜在案例。
+    step2: |-
+      本节讨论若干案例：论者主张，不同类型的逻辑变量在手语中有时以显性形式出现。此主张对语义学有基础性意涵；下一节再论逻辑可见性的其他潜在案例。
   - id: 15
     kind: body
     source: |-
       In English and other languages, sentences such as (2a) and (3a) can be read in three ways (see (2b)–(3b)), depending on whether the embedded pronoun is understood to depend on the subject, on the object, or to refer to some third person.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在英语及其他语言中，(2a) 与 (3a) 这类句子可以有三种读法（见 (2b)–(3b)），取决于内嵌代词被理解为依赖于主语、依赖于宾语，还是指某个第三方。
+    step2: |-
+      在英语等语言中，(2a)、(3a) 一类句子有三种读法（见 (2b)–(3b)），视内嵌代词依赖主语、依赖宾语，抑或指称某个第三方而定。
   - id: 16
     kind: body
     source: |-
       **(2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(2)**
+    step2: |-
+      **(2)**
   - id: 17
     kind: body
     source: |-
       a. Sarkozy_{*i*} told Obama_{*k*} that he_{*i/k/m*} would be re-elected.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      a. Sarkozy_{*i*} 告诉 Obama_{*k*}，he_{*i/k/m*} 会再次当选。
+    step2: |-
+      a. Sarkozy_{*i*} 告诉 Obama_{*k*}，he_{*i/k/m*} 会再次当选。
   - id: 18
     kind: body
     source: |-
       **b.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **b.**
+    step2: |-
+      **b.**
   - id: 19
     kind: body
     source: |-
       Sarkozy $\lambda i$ Obama $\lambda k\, t_i$ told $t_k$ that he_{*i/k/m*} would be re-elected.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Sarkozy $\lambda i$ Obama $\lambda k\, t_i$ told $t_k$ that he_{*i/k/m*} would be re-elected.
+    step2: |-
+      Sarkozy $\lambda i$ Obama $\lambda k\, t_i$ told $t_k$ that he_{*i/k/m*} would be re-elected.
   - id: 20
     kind: body
     source: |-
       **(3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(3)**
+    step2: |-
+      **(3)**
   - id: 21
     kind: body
     source: |-
       a. [A representative]_{*i*} told [a senator]_{*k*} that he_{*i/k/m*} would be re-elected.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      a. [一位众议员]_{*i*} 告诉 [一位参议员]_{*k*}，he_{*i/k/m*} 会再次当选。
+    step2: |-
+      a. [一位众议员]_{*i*} 告诉 [一位参议员]_{*k*}，he_{*i/k/m*} 会再次当选。
   - id: 22
     kind: body
     source: |-
       **b.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **b.**
+    step2: |-
+      **b.**
   - id: 23
     kind: body
     source: |-
       [a representative]_{*i*} $\lambda i$ [a senator]_{*k*} $\lambda k\, t_i$ told $t_k$ that he_{*i/k/m*} would be re-elected
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [a representative]_{*i*} $\lambda i$ [a senator]_{*k*} $\lambda k\, t_i$ told $t_k$ that he_{*i/k/m*} would be re-elected
+    step2: |-
+      [a representative]_{*i*} $\lambda i$ [a senator]_{*k*} $\lambda k\, t_i$ told $t_k$ that he_{*i/k/m*} would be re-elected
   - id: 24
     kind: body
     source: |-
       A claim of Logical Visibility relative to variables has been made in sign because one can introduce a separate position in signing space, or ‘locus’ (plural ‘loci’), for each of the antecedents (e.g., Sarkozy on the left and Obama on the right for (2)), and one can then point towards these loci (towards the left or towards the right) to realize the pronoun: loci thus mirror the role of variables in these examples.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在手语中，人们就变量提出了逻辑可见性主张，因为可以为每个先行语（例如 (2) 中的 Sarkozy 在左、Obama 在右）在手势空间中引入一个单独的位置，即“位点”（locus，复数 loci），随后指向这些位点（向左或向右）来实现代词：位点由此映照变量在这些例子中的作用。
+    step2: |-
+      手语中之所以能就变量提出逻辑可见性主张，是因为可为每个先行语在手势空间中各设一个位置，即“位点”（locus，复数 loci；如 (2) 中 Sarkozy 居左、Obama 居右），再指向相应位点（向左或向右）来实现代词。位点由此映照变量在这些例子中的作用。
   - id: 25
     kind: body
     source: |-
       ### 1.1 Loci as visible variables?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 位点是可见的变量吗？
+    step2: |-
+      ### 1.1 位点是可见的变量吗？
   - id: 26
     kind: body
     source: |-
       Sign languages routinely use loci to represent objects or individuals one is talking about. Pronouns can be realized by pointing towards these positions. The signer and addressee are represented in a fixed position that corresponds to their real one, and similarly for third persons that are present in the discourse situation: one points at them to refer to them. But in addition, arbitrary positions can be created for third persons that are not present in the discourse. The maximum number of loci that can be simultaneously used seems to be determined by considerations of performance (e.g., memory) rather than by rigid grammatical conditions (there are constructed examples with up to 7 loci in the literature).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      手语惯常使用位点来代表所谈论的物体或个体。代词可以通过指向这些位置来实现。手语者与受话者由与其真实位置相对应的固定位置来代表；对于话语情境中在场的第三方也是如此：人们指向他们以指称他们。但除此之外，也可以为不在话语中在场的第三方创设任意位置。同时可使用的位点最大数目，似乎由表现因素（如记忆）而非严格的语法条件决定（文献中有多达 7 个位点的人造例子）。
+    step2: |-
+      手语惯以位点代表所谈的物体或个体，代词则可通过指向这些位置来实现。手语者与受话者各由一个与其真实方位相应的固定位置代表，话语情境中在场的第三方亦然：指向他们即可指称他们。此外，还可为不在场的第三方另设任意位置。同时可用的位点数上限，似取决于表现因素（如记忆），而非严格的语法条件（文献中有人造例子用到多达 7 个位点）。
   - id: 27
     kind: body
     source: |-
