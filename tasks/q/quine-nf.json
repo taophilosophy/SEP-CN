@@ -2,7 +2,7 @@
   "slug": "quine-nf",
   "kind": "retranslate",
   "zh_doc": "q/quine-nf.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "Q-main-20261110",
       "at": "2026-11-10T10:23:00Z",
       "evidence": "四检全绿：check_style --strict 0 / check_academic --strict OK / check_math 159 式 missing 0 unbalanced 0 / check_prose 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "Q-main-20261110",
+      "at": "2026-11-10T14:32:14Z",
+      "evidence": "全文回读对照源文：术语按 yi-zhe-shuo-ming 册内行对齐（sumset→并集公理、cofinality→共尾性、cut elimination→切割消除）、membership 统一为「属于关系」、Hinnion 句重写去 de-chain；节序 7 节与源一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "Q-main-20261110",
+      "at": "2026-11-10T14:32:15Z",
+      "evidence": "人名按 ren-ming-biao 既有行核对无缺口：斯佩克/罗纳德·詹森/J. B. 罗瑟/库拉托夫斯基/亚伯拉罕·鲁宾逊/罗素/哥德尔/拉姆齐/卡尔纳普/邱奇/怀特海/王浩；Aczel/Boffa/Crabbé/Forster/Hailperin/Henson/Hinnion/Holmes/Honsell/Kaye/Orey/Oswald/Rieger/Grishin/Forti/Wilshaw 按登记保留英文，本词条不需新增行"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "Q-main-20261110",
+      "at": "2026-11-10T14:32:17Z",
+      "evidence": "四检复跑全绿：check_style --strict 0 / check_academic --strict OK / check_math 159 式 missing 0 unbalanced 0 / check_prose 0；脚注定义 28:28，段落 62 段身份门通过"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "Q-main-20261110",
+      "at": "2026-11-10T14:32:17Z",
+      "evidence": "收口：q/quine-nf.md 19629 字符 + 账本 62 段 + 任务 JSON 同批提交"
     }
   ],
   "blockers": [],
