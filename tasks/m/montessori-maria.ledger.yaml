@@ -4,8 +4,6 @@ params:
   model: "GLM-5.3-Flash（ZCode 主会话直译）"
   temperature: 0.2
   batch_segments: all
-  rate_limit_s: 0
-  timeout_s: 60
 segments:
   - id: 1
     kind: body
@@ -460,75 +458,97 @@ segments:
     source: |-
       Some of Montessori’s ecological principles are now familiar facts. Organisms exist in ecosystems and fill various niches within those ecosystems, niches that both serve eco-systemic purposes and provide what is necessary for the organisms. Montessori’s account of adaptation shows how individual/species-level fitness and the ecological fitness are integrated. Organisms adapt to their environments by serving functions within those environments. But unlike most contemporary ecologists, Montessori sees a more basic teleology underlying these processes. For her, the ecological function of the organism is not merely the result of efficient-causal processes of selection and (consequent) adaptation. As in the individual case, teleology is *fundamental*. Adaptation is central to living organisms *because* it provides a mechanism for directing evolution in a way conducive to the promotion of ecological harmony and—in a more Hegelian or Nietzschean vein—the “evolution” of the cosmos (cf. Gimbel & Emerson 2009)[^gimbel-2009].
     step1: |-
-      蒙台梭利的某些生态原则如今已为人们熟悉。但她的整体论走得更远：不仅各生物是生态共同体的一部分，而且万物都为生命目的而协同工作。这一观点的一些表述，会令当代生态学家皱眉：她相信自然的平衡与秩序，相信各物种在整体中的位置（甚至相信无生命物在维护和谐中的作用）。然而，即便这些信念如今看来天真，蒙台梭利整体论背后的思想——即生命是一个相互关联的整体，其部分为超越各部分的目标而工作——却持续引导着当代的环境思想。（关于蒙台梭利形而上学与当代生态思想的关系的更多讨论，见 Frierson 2021b。）
+      蒙台梭利的一些生态学原则如今已是人们熟悉的事实。生物存在于生态系统之中，并在这些系统内占据各种生态位；这些生态位既服务于生态系统的目的，也为生物提供其所需之物。蒙台梭利关于适应的论述表明，个体／物种层面的适应度与生态适应度是如何整合起来的。生物通过在环境中发挥功能而适应其环境。但与大多数当代生态学家不同，蒙台梭利认为这些过程之下还有一种更为基本的目的是论。在她看来，生物的生态功能并不只是选择与（随之而来的）适应这类动力因过程的结果。与个体情形一样，目的是论是*根本性的*。适应对生物之所以*至关重要*，*因为*它提供了一种机制，可以引导演化朝着促进生态和谐的方向推进，并且——更有黑格尔或尼采意味地——朝向宇宙的“演化”（参见 Gimbel & Emerson 2009）[^gimbel-2009]。
     step2: |-
-      蒙台梭利的一些生态原则，如今听来已不陌生。但她的整体论走得更远：不只是万物共居一个生态共同体，而是万物都在为生命的目的协作。她的一些表述，会让今天的生态学家皱眉：她信自然的平衡与秩序，信每个物种在整体中的位置（甚至信无生命物维护和谐的作用）。可即便这些信念如今显得天真，蒙台梭利整体论背后的想法——生命是一个相互勾连的整体，其部分为超出部分的目标而工作——仍在滋养当代的环境思想。（蒙台梭利形而上学与当代生态思想关系的更多讨论，见 Frierson 2021b。）
+      蒙台梭利的一些生态学原则如今已是常识。生物生活在生态系统之中，并在其中占据各种生态位；这些生态位既服务于生态系统本身的目的，也为生物提供所需。她的适应理论表明，个体／物种层面的适应度与生态适应度如何融为一体。生物通过在环境中承担功能来适应环境。但与大多数当代生态学家不同，蒙台梭利认为这些过程之下还有一种更基本的目的是论。在她看来，生物的生态功能并不只是选择与（随之而来的）适应这类动力因过程的结果。与个体层面一样，目的是论是*根本性的*。适应对生物之所以*至关重要*，*因为*它提供了一种机制，引导演化朝着促进生态和谐的方向推进，并按一种更接近黑格尔或尼采的思路，走向宇宙的“演化”（参见 Gimbel & Emerson 2009）[^gimbel-2009]。
   - id: 58
     kind: body
     source: |-
       ### 3.3 Emergent Mind
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 涌现的心灵
+    step2: |-
+      ### 3.3 涌现的心灵
   - id: 59
     kind: body
     source: |-
       Given an overarching teleological and progressive metaphysics within which new forces arise to bring harmonious unity and complexity to conflicts at lower levels of organization, Montessori positions herself well to see the emergence of mind as a natural process. The mind is a “telluric force”, to use terminology Montessori adopts from the geologist Antonio Stoppani (Montessori 1936 [2008/1: 6]; see Stoppani 1898: 68)[^stoppani-1898]. This force makes use of but supersedes biological forces in something like the way that biological forces make use of and supersede chemical forces. The mind marks a higher, more complex, and more agile form of teleologically-oriented agency than mere life, and it has laws of its own that are irreducible to mere biology, but mind is ultimately an aspect of the life of (conscious) organisms. This biologically-grounded account of consciousness arguably addresses the so-called hard problem of consciousness in a way akin to that hinted at by Thomas Nagel’s *Mind and Cosmos* (Nagel 2012)[^nagel-2012] and also, as we will see, in a way consonant with her contemporary Henri Bergson (see especially Bergson 1907 [1911] and Hunt 1912)[^bergson-1907][^hunt-1912] and with more recent emergentist and enactive concepts of mind developed by thinkers such as Francisco Varela, Eleanor Rosch, and Evan Thompson in *The Embodied Mind* (1991). Montessori’s emphasis on a “biological concept of freedom” (18:54) even contributes to understanding meaning and value in naturalistic terms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      蒙台梭利持有一种总体的、进步的目的论形而上学：在其中，新力量不断涌现，为较低组织层次的冲突带来和谐的统一与复杂性。正因如此，她很有条件把心灵的涌现视为一个自然过程。用她从地质学家 Antonio Stoppani 那里借来的术语说，心灵是一种“大地力量”（Montessori 1936 [2008/1: 6]；见 Stoppani 1898: 68）[^stoppani-1898]。这种力量利用生物力量，却又凌驾于生物力量之上，其方式大致类似于生物力量利用化学力量并凌驾于化学力量之上。心灵标志着一种比单纯生命更高、更复杂、更灵活的目的论取向的能动性；它有自己的规律，不能还原为单纯的生物学；但心灵终究是有意识生物之生命的一个方面。这一以生物学为基础的意识理论，可以说以一种近似于托马斯·内格尔《心灵与宇宙》（Nagel 2012）[^nagel-2012]所暗示的方式，处理了所谓的意识难问题；而且，我们将会看到，它也以一种与她同时代的亨利·柏格森相契合的方式（尤其见 Bergson 1907 [1911] 与 Hunt 1912）[^bergson-1907][^hunt-1912]，并与 Francisco Varela、Eleanor Rosch、Evan Thompson 等人在《具身心智》（1991）中提出的较新的涌现论与生成论心灵概念相契合。蒙台梭利对“生物学意义上的自由概念”（18:54）的强调，甚至有助于以自然主义的方式理解意义与价值。
+    step2: |-
+      蒙台梭利的形而上学是总体的、进步的目的论：新力量在其中不断涌现，为较低组织层次的冲突带来和谐的统一与复杂性。正因如此，她很有条件把心灵的涌现看作自然过程。用她从地质学家 Antonio Stoppani 那里借来的术语说，心灵是一种“大地力量”（Montessori 1936 [2008/1: 6]；见 Stoppani 1898: 68）[^stoppani-1898]。这种力量既利用生物力量，又凌驾其上，情形大致像生物力量利用化学力量并凌驾其上。心灵所标志的，是一种比单纯生命更高、更复杂、更灵活的目的论能动性；它有自身不可还原为单纯生物学的规律，但终究是有意识生物之生命的一个方面。这一以生物学为基础的意识理论，可以说近似于托马斯·内格尔《心灵与宇宙》（Nagel 2012）[^nagel-2012]所暗示的思路，处理了所谓的意识难问题；我们还会看到，它也与她同时代的亨利·柏格森相契合（尤其见 Bergson 1907 [1911] 与 Hunt 1912）[^bergson-1907][^hunt-1912]，并与 Francisco Varela、Eleanor Rosch、Evan Thompson 在《具身心智》（1991）中提出的较新涌现论与生成论心灵概念相契合。蒙台梭利对“生物学意义上的自由概念”（18:54）的强调，甚至有助于以自然主义方式理解意义与价值。
   - id: 60
     kind: body
     source: |-
       Within Montessori’s teleological metaphysics, more complex ordered structures give rise to higher-order forces or powers in nature. Life emerged as a telluric force from complex order within and among organic molecules, and in a similar way, mental powers emerge in complex biological systems. Moreover, higher order powers emerge teleologically, to meet needs implicit in the functioning of the world; life arose to deal with geological forces that were insufficient to maintain harmoniously ordered complexity, and psychic forces arise in response to limits on the part of merely biological structures. After referring to the “*hydrosphere… atmosphere…*[and] *biosphere*”, Montessori adds,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在蒙台梭利的目的论形而上学中，较为复杂的有序结构会产生自然中更高阶的力量或能力。生命作为一种大地力量，从有机分子内部与分子之间的复杂秩序中涌现出来；与此类似，心灵力量也在复杂的生物系统中涌现。此外，更高阶的力量是按目的论的方式涌现的，以满足世界的运行所隐含的需要：生命的出现，是为了应对那些不足以维持和谐有序之复杂性的地质力量；心理力量的出现，则是为了应对单纯生物结构方面的限制。在提到“*水圈……大气圈*[以及] *生物圈*”之后，蒙台梭利补充说：
+    step2: |-
+      在蒙台梭利的目的论形而上学中，较复杂的有序结构会产生自然中更高阶的力量或能力。生命作为一种大地力量，从有机分子内部与分子之间的复杂秩序中涌现；心灵力量同样在复杂的生物系统中涌现。更高阶的力量还按目的论方式涌现，以满足世界运行所隐含的需要：生命之所以出现，是为了应对那些不足以维持和谐有序之复杂性的地质力量；心理力量之所以出现，则是为了应对单纯生物结构方面的限制。在提到“*水圈……大气圈*[以及] *生物圈*”之后，蒙台梭利补充说：
   - id: 61
     kind: body
     source: |-
       > Humanity … contribut[ed] a new energy: the additional envelope of a *psychosphere*, which participates in the perfecting of nature … A new energy … has come on our planet, to remove the tardiness of physical [including merely biological] energies and to give new impetus to the evolution of life. (1948 [1971: 17, 20])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人类……贡献出了一种新的能量：一层额外的*心理圈*，它参与自然的完善……一种新的能量……来到了我们这个星球，以消除物理的[包括单纯生物的]能量的迟缓，并为生命的演化提供新的动力。（1948 [1971: 17, 20]）
+    step2: |-
+      > 人类……贡献出了一种新的能量：一层额外的*心理圈*，参与自然的完善……一种新的能量……降临我们这个星球，消除物理的[包括单纯生物的]能量的迟缓，为生命的演化注入新的动力。（1948 [1971: 17, 20]）
   - id: 62
     kind: body
     source: |-
       Beyond her vitalist metaphysics, Montessori contributes to philosophy of mind through her pedagogy. She argues that in children’s development in utero and early infancy, we directly observe the development of conscious organisms from unconscious physical states. We see the “creation of faculties, the creation of consciousness” (17:31) from complex but not-yet-conscious life. Through her lifelong study of how conscious thought and action emerge in children, Montessori formulated a conceptual apparatus that emphasizes the “creative power of life” and the continuity between life and mind. The infant is a “spiritual embryo” (e.g., 1:53ff.; 17:102, 138), and Montessori’s philosophy lays out specific mechanisms by which this embryo develops into an intelligent and self-conscious human being. She details, for example, how a child must be “exposed to its environment” many times in order to come to conscious awareness of its features (17:37), how cognition of something depends upon a “transfer [of] information to the subconscious” that provokes the “interest” required in order for “the intelligence [to] accept it” (17:78–9), and how different “psychic organs … develop independently [and a]fterwards unite” (17:138). Even “[c]onsciousness develops bit by bit from the beginning. It starts out like a tiny membrane that grows in the course of time” (17:65).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了她的活力论形而上学之外，蒙台梭利还通过她的教育学对心灵哲学有所贡献。她主张，在儿童于子宫内和婴儿早期的发育中，我们直接观察到有意识的生物如何从无意识的物理状态中发展出来。我们看到，从复杂但尚未有意识的生命中，出现了“各种官能的创造、意识的创造”（17:31）。通过她毕生对儿童有意识的思想与行动如何涌现的研究，蒙台梭利形成了一套概念装置，强调“生命的创造力”以及生命与心灵之间的连续性。婴儿是一个“精神胚胎”（例如 1:53ff.；17:102, 138），而她的哲学阐明了这一胚胎发展为有智能、有自我意识的人所经由的具体机制。例如，她详述了儿童如何必须多次“暴露于其环境”，才能有意识地觉察环境的特征（17:37）；对某物的认知如何依赖于一种“将信息传递到潜意识”的过程，而这一过程激起“智力接受它”所需的“兴趣”（17:78–9）；以及不同的“心理器官……如何独立发展，[随后]联合起来”（17:138）。甚至“意识从一开始就一点一点地发展。它起初像一层微小的薄膜，随时间推移而生长”（17:65）。
+    step2: |-
+      除了活力论形而上学，蒙台梭利还通过教育学为心灵哲学作出贡献。她主张，儿童在子宫内与婴儿早期的发育，让我们直接看到有意识的生物如何从无意识的物理状态中发展出来。我们从复杂但尚未有意识的生命中，看到“各种官能的创造、意识的创造”（17:31）。蒙台梭利毕生研究儿童有意识的思想与行动如何涌现，由此形成了一套概念装置，强调“生命的创造力”以及生命与心灵之间的连续性。婴儿是一个“精神胚胎”（例如 1:53ff.；17:102, 138），她的哲学则阐明了这一胚胎发展为有智能、有自我意识的人所经由的具体机制。例如，儿童必须多次“暴露于其环境”，才能有意识地觉察环境的特征（17:37）；对某物的认知依赖于一种“将信息传递到潜意识”的过程，而这一过程激起“智力接受它”所需的“兴趣”（17:78–9）；不同的“心理器官……如何独立发展，[随后]联合起来”（17:138）。甚至“意识从一开始就一点一点地发展。它起初像一层微小的薄膜，随时间推移而生长”（17:65）。
   - id: 63
     kind: body
     source: |-
       ### 3.4 Unconscious and Embodied Mind
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 无意识与具身的心灵
+    step2: |-
+      ### 3.4 无意识与具身的心灵
   - id: 64
     kind: body
     source: |-
       Given her theory of how mind emerges from biological life, Montessori offers a sophisticated discussion of unconscious cognition, and—like many contemporary philosophers and scientists who participate in the embodied cognition research program—she sees mindedness as a kind of embodiment rather than something distinct from the moving body.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然有了一套关于心灵如何从生物生命中涌现的理论，蒙台梭利便能对无意识认知作出细致的讨论；并且——像许多参与具身认知研究纲领的当代哲学家与科学家一样——她把有心灵（mindedness）看作一种具身化，而非某种与运动中的身体相分离的东西。
+    step2: |-
+      有了一套关于心灵如何从生物生命中涌现的理论，蒙台梭利便能细致地讨论无意识认知；她还像许多投身具身认知研究纲领的当代哲学家与科学家一样，把有心灵（mindedness）视为一种具身化，而不是与运动中的身体相分离的东西。
   - id: 65
     kind: body
     source: |-
       With respect to the unconscious, Montessori defines two central unconscious powers: *horme*—a kind of unconscious volition—and *Mneme*—a kind of unconscious cognition (or memory) (see 1:54n, 75).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于无意识，蒙台梭利界定了两种核心的无意识力量：*horme*——一种无意识的意志；以及 *Mneme*——一种无意识的认知（或记忆）（见 1:54n, 75）。
+    step2: |-
+      蒙台梭利界定了两种核心的无意识力量：*horme*，一种无意识的意志；以及 *Mneme*，一种无意识的认知（或记忆）（见 1:54n, 75）。
   - id: 66
     kind: body
     source: |-
       Horme is the fundamental force of unconscious life, a “vital force within [each living thing] that guides [its] efforts towards their goal”, a “force” that “might be likened to will power” (1:75). She compares *horme*, albeit merely by “resembl[ance]”, to Bergson’s *élan vitale* or Freud’s *libido*, but says the concept was “first proposed” by the British educationalist Percy Nunn (1:75n). On the one hand, *“Horme* belongs to life in general” (1:75) and can even be called a “a great universal power” (1:229); “the will of nature” can be “called horme” and even “the roots of every plant” manifest something like a “power to choose that … which is conducive to its life” (1:246). Animal instincts and the teleological tendencies of all living things are recognizably continuous with the “interests” of the newborn in features of its environment conducive to its development (cf. Thompson 2007: 57–8)[^thompson-2007]. On the other hand, human infants’ horme lies on a developmental continuum that includes adult willing. Unconscious horme is not *identical* to its conscious manifestation. Following Nunn, Montessori defines the “will” as “conscious horme” (1:75; Nunn 1930 [2010]: 23)[^nunn-1930]. But the unconscious horme intrinsic to the life of the human animal in infancy organically and gradually develops into the conscious (and even self-conscious) willing of the adult, though a series of “successive stages…like the gradual rising of the sun whose light increases until midday” (17:38).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *horme* 是无意识生命的基本力量，是“[每个生物]内部引导[其]努力朝向目标的一种生命力量”，是一种“可以比作意志力”的“力量”（1:75）。她把 *horme* 比作柏格森的 *élan vitale* 或弗洛伊德的 *libido*，尽管只是就“相似[之处]”而言；但她指出，这个概念是英国教育家 Percy Nunn“最先提出”的（1:75n）。一方面，“*horme* 属于一般的生命”（1:75），甚至可以被称作“一种伟大的宇宙力量”（1:229）；“自然的意志”可以被“称为 horme”，甚至“每一种植物的根”也表现出某种类似“选择……有益于其生命的东西的力量”（1:246）。动物的本能以及一切生物的合目的倾向，与新生儿对环境中有益于其发展的特征的“兴趣”明显是连续的（参见 Thompson 2007: 57–8）[^thompson-2007]。另一方面，人类婴儿的 horme 处于一个包含成人意志的发展连续统之上。无意识的 horme 并不*等同于*它有意识的显现。遵循 Nunn 的用法，蒙台梭利把“意志”定义为“有意识的 horme”（1:75；Nunn 1930 [2010]: 23）[^nunn-1930]。但婴儿期人类动物生命所固有的无意识 horme，会经由一系列“相继的阶段……就像太阳渐渐升起，其光不断增长，直到正午”（17:38），有机而逐渐地发展为成人有意识（甚至有自我意识）的意志。
+    step2: |-
+      *horme* 是无意识生命的基本力量，是“[每个生物]内部引导[其]努力朝向目标的一种生命力量”，是一种“可以比作意志力”的“力量”（1:75）。她把它比作柏格森的 *élan vitale* 或弗洛伊德的 *libido*，不过仅限于“相似[之处]”；她同时指出，这个概念由英国教育家 Percy Nunn“最先提出”（1:75n）。一方面，“*horme* 属于一般的生命”（1:75），甚至堪称“一种伟大的宇宙力量”（1:229）；“自然的意志”可以“称为 horme”，连“每一种植物的根”也表现出某种类似“选择……有益于其生命的东西的力量”（1:246）。动物的本能以及一切生物的合目的倾向，与新生儿对环境中有益于其发展的特征的“兴趣”明显是连续的（参见 Thompson 2007: 57–8）[^thompson-2007]。另一方面，人类婴儿的 horme 处于一个包含成人意志的发展连续统之上。无意识的 horme 并不*等同于*它有意识的显现。遵循 Nunn 的用法，蒙台梭利把“意志”定义为“有意识的 horme”（1:75；Nunn 1930 [2010]: 23）[^nunn-1930]。但婴儿期人类动物生命所固有的无意识 horme，会经由一系列“相继的阶段……就像太阳渐渐升起，其光不断增长，直到正午”（17:38），有机而逐渐地发展为成人有意识（甚至有自我意识）的意志。
   - id: 67
     kind: body
     source: |-
       Horme, the most fundamental unconscious structure in Montessori’s philosophy of mind changes through adaptation to its environment. The susceptibility of horme to modification by experience is a kind of unconscious *memory*, to which Montessori (again following Nunn) gives the name “Mneme”, described by Percy Nunn in order to explain unconscious cognition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      horme 是蒙台梭利心灵哲学中最基本的无意识结构，它通过对环境的适应而变化。horme 易受经验改变的这种性质，是一种无意识的*记忆*；蒙台梭利（再次遵循 Nunn）称之为“Mneme”，Percy Nunn 为解释无意识认知而描述了这一概念：
+    step2: |-
+      在蒙台梭利的心灵哲学中，horme 是最基本的无意识结构，它通过对环境的适应而变化。horme 易受经验改变，这种可塑性是一种无意识的*记忆*；蒙台梭利（再次遵循 Nunn）称之为“Mneme”。Percy Nunn 为解释无意识认知这样描述它：
   - id: 68
     kind: body
     source: |-
       > [W]e shall bring together under a common designation all the varied phenomena referred by [Samuel] Butler to memory, conscious or unconscious. Following the German biologist Richard Semon, we shall speak of such phenomena as *mnemic* and shall give the name *mnemé* to the property of living substance which they exemplify. Memory, then, is conscious mneme just as conation is conscious horme. (Nunn 1930 [2010: 23])[^nunn-1930]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们将把 [Samuel] Butler 归入记忆（无论有意识还是无意识）的各种现象，统摄在一个共同的名称之下。遵循德国生物学家 Richard Semon，我们将称这类现象为*记忆性的*（mnemic），并把它们所例示的活物质属性命名为 *mnemé*。于是，记忆就是有意识的 mneme，正如意动就是有意识的 horme。（Nunn 1930 [2010: 23]）[^nunn-1930]
+    step2: |-
+      > 我们将把 [Samuel] Butler 归入记忆（无论有意识还是无意识）的各类现象，统摄在一个共同的名称之下。遵循德国生物学家 Richard Semon，我们将称这类现象为*记忆性的*（mnemic），并把它们所例示的活物质属性命名为 *mnemé*。于是，记忆就是有意识的 mneme，正如意动就是有意识的 horme。（Nunn 1930 [2010: 23]）[^nunn-1930]
   - id: 69
     kind: body
     source: |-
