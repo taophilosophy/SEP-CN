@@ -2,7 +2,7 @@
   "slug": "moral-demands-permissions",
   "kind": "retranslate",
   "zh_doc": "m/moral-demands-permissions.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LMN-main-20261108f",
       "at": "2026-11-08T01:45:43Z",
       "evidence": "三校（体例）：check_style 0 issue；markdownlint-cli2（仓库配置）0 错（MD053 假阳性系旧版 CLI 误跑，cli2 绿）；check_academic --strict 0 硬错误；孤儿脚注 12 处（cullity/hurley/lazar/miller/murphy/portmore×3/quong/ross/singer/williams-1973）与 yuanwen 源逐一对应（68 defs/57 refs 双侧相等）照录非漏译；术语登记册文件级一致性无违例；人名告警为全库清单（specs/013）非本文件硬伤"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T04:59:43Z",
+      "evidence": "冷置回读（草案 LMN-main-20261108f，2026-11-08）：节级对位 14/14 节全对（_r_align 哨兵），段级核销脚注引用键 57、定义键 68 与源全等，数字串 657 项全等；抽样逐句核源：Hooker 90% 规则内化、Tadros $20/$10 分摊、Kagan 1:10 权重、第六节 $1 溺水童上限论证四处与原文一致；术语（苛刻性/满足性义务/不完善义务/行动者相对的允许/特权）与登记册对齐，人名 15 形零混形"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T05:03:41Z",
+      "evidence": "句级复读：check_prose 告警 0（63 段）；全文通读一遍，长句/被字/的链无违例；$ 金额与千分位照录（$1000/$20/$10/$1）；比较级与权重表述（三比二、十倍、二十/三十倍）逐处核源无漂移"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T05:03:42Z",
+      "evidence": "终检：check_style 0 issue；check_academic --strict 无硬错误（非存根 1、正文引用组与脚注键齐备）；check_math 0 公式；账本 lq check 守恒 63 段（SOFT 为 oir/机械段与斜体→书名号）；结构差异三处判读：书目节 PhilPapers 首页链接并入增强书目链接（模板常态）、斜体转《》、CJK 粗体化；无账本缺档"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T05:03:42Z",
+      "evidence": "r1–r3 收口，四门禁绿、账本守恒、结构对账差异全部判读完毕"
     }
   ],
   "blockers": [],
