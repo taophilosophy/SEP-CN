@@ -2,8 +2,16 @@
   "slug": "gregory-rimini",
   "kind": "retranslate",
   "zh_doc": "g/gregory-rimini.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T03:30:52Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:31:39Z",
   "version_pin": {

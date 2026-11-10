@@ -290,349 +290,473 @@ segments:
     kind: body
     source: |-
       ## 2. Digital Images
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. Digital Images
+    step2: |-
+      ## 2 数字图像
   - id: 35
     kind: body
     source: |-
       With digital movie projection, we begin to see the importance of understanding the technology of display for understanding the nature of digital art. Another way we see its importance is in relation to images displayed on LCD screens. According to Goodman, images are essentially analog. Nevertheless, there seems to be a way for engineers to circumvent the essential analogicity of pictorial schemes by using digital technologies for encoded subphenomenal discrimination. Arguably, finite differentiation can be imposed on the scheme of all possible images displayed on high-resolution LCD screens. As we shall see, this has far-reaching implications for the ways in which we think about and properly appreciate image-based art.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      借数字电影放映，我们开始看到：理解显示技术，对于理解数字艺术的本性是重要的。我们看到其重要性的另一处，关系到显示在 LCD 屏上的图像。按古德曼的看法，图像本质上是模拟的。然而，工程师们似乎有一条路可以绕开图像图式的本质模拟性，即用数字技术进行现象阈下的编码分辨。可以说，有限分立可以被强加于高分辨率 LCD 屏上全部可能图像的图式。如我们将看到的，这对我们如何思考与恰当欣赏基于图像的艺术，有深远的影响。
+    step2: |-
+      借数字电影放映，我们开始看到：要理解数字艺术的本性，就得理解显示的技术。其重要性的另一处显豁处，落在显示于 LCD 屏上的图像上。按古德曼之见，图像本质上是模拟的。然而，工程师们似乎别有一条路，可绕开图像图式的本质模拟性：以数字技术作现象阈下的编码分辨。可以说，有限分立可以被强加于高分辨率 LCD 屏上全部可能图像的图式之上。如我们将看到的，这对我等如何思考并恰当欣赏基于图像的艺术，影响深远。
   - id: 36
     kind: body
     source: |-
       Both in his earlier and in his later work in aesthetics, Goodman commits to “a special relation” between the analog and the pictorial, one that is seen when we compare “the presystematic notions of description and picture in a given culture”. Given two schemes, *S* and *S′*, where *S* consists of all descriptions or predicates in a language such as English, and *S′* consists of all pictures, if we were told only of the structures of *S* and *S′*, we could distinguish the pictorial scheme by its being analog (Goodman and Elgin 1988: 130)[^goodman-1988]. The special relation remains, Goodman claims, despite the possibility of a digital sub-scheme made up of black and white grid patterns all of which happen to be pictures. In such a scheme, the differences between patterned types that matter for the scheme’s being digital do not include all of the differences that matter for distinguishing pictorial types. Pictures are distinguished by color, shape, and size, which vary continuously; any variation in color, shape, or size potentially results in a different picture. When we impose limits on the differences that matter for distinguishing one grid pattern in the scheme from another, we are not interpreting the grid patterns as pictures; if we were to do so, we would have to treat them as members of a syntactically dense, or analog, scheme.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      无论在其早期还是晚期的美学工作中，古德曼都坚持模拟者与图像者之间的“一种特殊关系”，这一关系见于我们比较“一个给定文化中描述与图像的前系统概念”之时。给定两个图式 *S* 与 *S′*，其中 *S* 由一种语言（如英语）中的全部描述或谓词构成，*S′* 由全部图像构成：若只被告知 *S* 与 *S′* 的结构，我们便能凭其模拟性而认出图像图式（Goodman and Elgin 1988: 130）[^goodman-1988]。古德曼声称，尽管可以存在一个由黑白网格图案构成的数字子图式——这些图案恰好都是图像——这一特殊关系依然保持。在这样的图式中，对该图式之为数字要紧的图案类型之间的差异，并不包括对区分图像类型要紧的全部差异。图像以颜色、形状与大小相区分，三者连续变化；颜色、形状或大小的任何变化，都可能造成一幅不同的图像。当我们对图式中区分一个网格图案与另一个网格图案所要紧的差异施加限制时，我们并没有把这些网格图案当作图像来解释；倘若当真如此做，我们就得把它们当作句法上稠密的、即模拟的图式之成员来对待。
+    step2: |-
+      无论早期还是晚期的美学工作，古德曼都坚持模拟者与图像者之间的“一种特殊关系”；这一关系见于我们比较“一个给定文化中描述与图像的前系统概念”之时。给定两个图式 *S* 与 *S′*，其中 *S* 由一种语言（如英语）中的全部描述或谓词构成，*S′* 由全部图像构成：若仅被告知 *S* 与 *S′* 的结构，我们便能凭其模拟性认出图像图式（Goodman and Elgin 1988: 130）[^goodman-1988]。古德曼声称，纵使可以有一个由黑白网格图案构成的数字子图式——诸图案恰好皆为图像——这一特殊关系依然保持。在这样的图式里，对该图式之为数字要紧的图案类型差异，并不包括区分图像类型所要紧的全部差异。图像以颜色、形状与大小相区分，三者连续变化；颜色、形状或大小的任何变动，都可能生成一幅不同的图像。当我们对图式内区分此网格图案与彼网格图案所要紧的差异施加限制时，我们并未把网格图案当图像来解释；若当真如此，我们就得把它们当作句法上稠密的、即模拟的图式之成员来对待。
   - id: 37
     kind: body
     source: |-
       Goodman’s insight about grid patterns and pictures suggests an immediate difficulty for explaining the digital status of images displayed on LCD screens: Clearly it will not be sufficient to point out that such images are pixellated, and therefore made up of small identical building blocks that impose a lower limit on the differences between display-instances. Remember that pictures are defined by color, shape, and size, which vary continuously. This means there is going to be vagueness at the limits of types – even though the physical pixels of an LCD screen are such that there are gaps between the possible shapes, sizes, and colors that the screen can instantiate; and, there are a finite number of shapes, sizes, and colors that the screen can instantiate. Any means of discretely carving up the property spaces of color, shape, and size has to involve grouping into types what are in fact (subphenomenally) distinct shapes, sizes, and colors, some of which may differ less from adjacent properties grouped into other types. This makes it impossible always to determine unique class membership; hence, finite differentiation fails.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      古德曼关于网格图案与图像的洞见，为解释显示在 LCD 屏上的图像的数字身份提示了一个眼前的困难：显然，仅指出这类图像是像素化的、因而由微小的相同积木构成（这些积木为显示实例之间的差异设定了下限），是不够的。要记得图像以颜色、形状与大小来定义，而三者连续变化。这意味着在类型的边界处将有模糊性——即使 LCD 屏的物理像素使得该屏所能例现的形状、大小与颜色之间存在间隙，且该屏所能例现的形状、大小与颜色数目有限。任何对颜色、形状与大小的性质空间作离散切分的手段，都得把实际上（现象阈下）各异的形状、大小与颜色归组为类型，其中有些差异可能小于被归入其他类型的相邻性质之间的差异。这使得总是判定唯一的类归属成为不可能；因此有限分立失败。
+    step2: |-
+      古德曼关于网格图案与图像的洞见，立即给解释 LCD 屏上图像的数字身份出一道难题：显然，仅指出这类图像是像素化的、因而由微小的相同积木构成（积木为显示实例之间的差异设了下限），并不足够。须知图像以颜色、形状与大小定义，而三者连续变化。这意味着类型的边界处必有模糊性——纵使 LCD 屏的物理像素令该屏所能例现的形状、大小与颜色之间存在间隙，且数目有限。凡对颜色、形状与大小的性质空间作离散切分的手段，都得把实际上（现象阈下）各异的形状、大小与颜色归组为类型；其中有些差异，可能小于被归入其他类型的相邻性质之间的差异。于是总有可能无法判定唯一的类归属——有限分立就此失败。
   - id: 38
     kind: body
     source: |-
       Pixellation alone, no matter the resolution, cannot account for images displayed on LCD screens belonging to a digital scheme; digital images *qua* images thus remain stubbornly analog. But perhaps a closer analysis of digital imaging technology can show that finite differentiation is met after all. Current technologies for sampling and instantiating light intensities group objective colors well below the level of phenomenal discrimination. For example, in the standard “Truecolor” system, a display pixel has three 8-bit subpixels, each of which emits a different visible wavelength with an intensity from a range of 256 values, yielding over 16 million objective colors. Such a large number of available colors gives the impression of a color continuum when, in fact, digital sampling technology has been used to carve up the objective color space into a disjoint series of wavelength intensities. On the one hand, from the fact that display pixels can be lit at intensities between and indiscriminable from adjacent discriminable intensities, it seems to follow that finite differentiation fails. On the other hand, precisely because digital technology involves microtechnology and metrology for subphenomenal discrimination between colors, the light intensity groupings that are expressed numerically as red-blue-green triplets (in, say, the Truecolor system) can be *narrower* than the objective color types that contribute to the resultant image scheme. The key is keeping the variations in the essentially analog properties of color, shape, and size small enough so that they cannot accumulate to the point of making a difference to image perception (Zeimbekis 2012)[^zeimbekis-2012]. The types in the scheme of digital images are technologically segmented, transitive groupings of the same color-, shape-, and size-experiences. The carving out of a transitive sub-set of magnitudes has to occur relative to the needs of the users of the system. In the case of digital color, the types are classes of light intensities *sufficient* to cause the same color experience for normal human perceivers. The replicability of digital images is made possible by the gap between the discriminatory limits of the human visual system and the discriminatory limits of digital sampling technology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      单凭像素化，无论分辨率多高，都无法解释显示在 LCD 屏上的图像属于一个数字图式；作为图像的数字图像因而顽固地保持模拟。但对数字成像技术作更贴近的分析，或许能表明有限分立终究得到满足。当前的采样与例现光强的技术，把客观颜色归组到远低于现象分辨的水平。例如，在标准的“真彩色”系统中，一个显示像素有三个 8 位子像素，每个子像素以来自 256 个值之范围的光强发出一种不同的可见波长，产出逾 1600 万种客观颜色。如此大量的可得颜色给人以颜色连续统的印象，而实际上数字采样技术已被用来把客观颜色空间切分成一列不相交的波长光强。一方面，鉴于显示像素可以按介于相邻可分辨光强之间、且与后者不可分辨的光强点亮，似乎可以推出有限分立失败。另一方面，正因为数字技术包含用于颜色间现象阈下分辨的微技术与度量学，以数值表达的（比如真彩色系统中的）红-蓝-绿三元组之光强归组，可以比构成 resultant 图像图式的客观颜色类型更窄。关键在于把颜色、形状与大小这些本质上模拟的性质的变化保持在足够小的范围内，使它们无法累积到足以造成图像知觉差异的程度（Zeimbekis 2012）[^zeimbekis-2012]。数字图像图式中的类型，是同一些颜色、形状与大小经验的技术上被切分的传递性归组。切出一个传递性的量值子集，必须相对于系统使用者的需要来进行。就数字颜色而言，其类型是足以令正常人类知觉者产生相同颜色经验的光强之类（sufficient classes）。数字图像的可复制性，由人类视觉系统的分辨极限与数字采样技术的分辨极限之间的间隙而成为可能。
+    step2: |-
+      单凭像素化，无论分辨率多高，都解释不了显示于 LCD 屏上的图像为何属于一个数字图式；作为图像的数字图像，因而在本性上顽固地保持模拟。但对数字成像技术作更贴近的分析，或许能表明有限分立终究得到满足。当今采样与例现光强的技术，把客观颜色归组到远低于现象分辨的水平。例如在标准的“真彩色”（Truecolor）系统中，一个显示像素有三个 8 位子像素，各自以来自 256 个值范围的光强发出一种不同的可见波长，产出逾 1600 万种客观颜色。如此海量的可得颜色，给人以颜色连续统的印象；而实际上，数字采样技术早已把客观颜色空间切分成一列不相交的波长光强。一方面，显示像素既可按介于相邻可分辨光强之间、且与后者不可分辨的光强点亮，似乎便可推出有限分立失败。另一方面，正因为数字技术包含用于颜色间现象阈下分辨的微技术与度量学，以数值表达的（如真彩色系统中的）红-蓝-绿三元组之光强归组，可以比构成所得图像图式的客观颜色类型更窄。要害在于：把颜色、形状与大小这些本质上模拟的性质的变化，压到足够小，使其无法累积到足以造成图像知觉差异的程度（Zeimbekis 2012）[^zeimbekis-2012]。数字图像图式中的类型，是同一些颜色、形状与大小经验在技术上被切分的传递性归组。切出一个传递性的量值子集，必须相对系统使用者的需要来进行。就数字颜色而言，其类型是足以令正常人类知觉者产生同一颜色经验的光强之类。数字图像的可复制性，正由人类视觉系统的分辨极限与数字采样技术的分辨极限之间的间隙而成为可能。
   - id: 39
     kind: body
     source: |-
       Digital images can be replicated insofar as they are digital and thus finitely differentiated. They are finitely differentiated because they rely on subphenomenal sampling and display technology. In practical terms, replication depends on the use of binary code, even though this is not in fact what makes images *qua* images digital. Of course binary code representations are themselves part of a digital scheme. But the role of binary code in image-instantiation is just one of consistent preservation; preservation for long enough to permit reproduction. Despite the inherent replicability of digital images, it does not appear to follow automatically that artworks involving these images are multiples.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数字图像可以复制，因为它们是数字的，从而是有限分立的。它们有限分立，是因为它们依赖现象阈下的采样与显示技术。从实践上说，复制依赖二进制码的使用，尽管使图像作为图像成为数字的其实并不是它。当然，二进制码表征本身也是数字图式的一部分。但二进制码在图像例现中的作用，仅在于一贯的保存；保存得足够久，以容许再生产。尽管数字图像固有可复制性，但似乎并不能自动推出：涉及这些图像的艺术作品是复多品。
+    step2: |-
+      数字图像可以复制，因为它们是数字的，从而是有限分立的；而它们之所以有限分立，则因为它们依赖现象阈下的采样与显示技术。就实践而言，复制倚仗二进制码的使用——尽管使图像作为图像成为数字的，其实并不是二进制码。当然，二进制码表征本身也是数字图式的一部分；但它在图像例现中的作用，仅在于一贯的保存：保存得足够久，以容许再生产。数字图像固有可复制性，但由此似乎并不能自动推出：含这些图像的艺术作品是复多品（multiples）。
   - id: 40
     kind: body
     source: |-
       The SF MoMA is in possession of the original of Kalpakjian’s work, *Corridor*; they control access to the video imagery. At present, the work is not available to be viewed: it cannot be viewed on-line as part of a digital archive or collection, nor is it currently on view in the physical space of the museum. The image sequence comprising the work could be multiply instantiated and widely distributed, but in fact it is not, nor is it meant to be. Similarly with Arcangel & Davis’s work, *Landscape Study #4*: This work is described as an installation, meant to be exhibited in a physical gallery alongside an arrangement of printed stills, with a television connected to a Nintendo Entertainment System. Again, the image sequence displayed on the television could be multiply instantiated and widely distributed, but it is not, nor is it meant to be. Clips and copies of the landscape imagery are available on-line, but these do not instantiate parts of the work itself. By contrast, works of net art are instantiated whenever they are accessed by someone on-line.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      旧金山现代艺术博物馆藏有 Kalpakjian 作品《走廊》的原件，他们控制着对这段视频图像的访问。目前，该作品无法观看：既不能作为数字档案或收藏的一部分在线观看，也不在博物馆的实体空间中展出。构成该作品的图像序列本可以被多重例现并广泛分发，但实际上并没有，也不意在如此。Arcangel 与 Davis 的作品《景观习作 #4》亦然：此作被描述为一件装置，意在陈列于实体画廊，与一排印制的静帧、一台连接着任天堂娱乐系统的电视机并置。同样，电视上显示的图像序列本可以被多重例现并广泛分发，但并没有，也不意在如此。景观图像的片段与复本在网上可得，但这些并不例现作品本身的任何部分。相比之下，网络艺术作品每逢有人在线访问即被例现。
+    step2: |-
+      旧金山现代艺术博物馆藏有 Kalpakjian《走廊》的原件，并控制着对这段视频图像的访问。眼下该作品无从观看：既不能作为数字档案或收藏在线观看，也不在博物馆实体空间展出。构成此作的图像序列本可被多重例现、广泛分发，但实际并没有，也无意如此。Arcangel 与 Davis 的《景观习作 #4》同样如此：此作被描述为一件装置，意在陈列于实体画廊，与一排印制静帧、一台接驳任天堂娱乐系统的电视机并置。同样，电视上显示的图像序列本可被多重例现、广泛分发，但并没有，也无意如此。景观图像的片段与复本网上可得，但这些并不例现作品本身的任何部分。相比之下，网络艺术作品每逢有人在线访问，即被例现。
   - id: 41
     kind: body
     source: |-
       There are many kinds of net art, including various forms of experimental on-line literature, conceptual browser art, and works drawing on software and computer gaming conventions. Extensive on-line collections of visual and audiovisual net art are rigorously curated and at the same time immediately accessible to ordinary Internet users. When it comes to the conventions of access and presentation, the contrast is striking between works of net art and works like those by Kalpakjian, and Arcangel & Davis. Perhaps a digital artwork comprising multiply instantiable images need not itself be multiply instantiable. At this point, the philosophy of digital art joins an ongoing debate about the ontology of art.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      网络艺术有许多种类，包括各种形式的实验性在线文学、观念性的浏览器艺术，以及借鉴软件与计算机游戏惯例的作品。视觉与视听网络艺术的大型在线收藏，既得到严格的策展，又对普通互联网用户即时可得。就访问与呈现的惯例而言，网络艺术作品与 Kalpakjian 以及 Arcangel 与 Davis 那样的作品之间的对照是惊人的。或许，一件由可多重例现的图像构成的数字艺术作品，其自身不必是可多重例现的。至此，数字艺术哲学汇入一场关于艺术本体论的持续争论。
+    step2: |-
+      网络艺术种类繁多：各种形式的实验性在线文学、观念性的浏览器艺术、借鉴软件与计算机游戏惯例的作品，皆在其列。视觉与视听网络艺术的大型在线收藏，既经严格策展，又对普通网民即时开放。就访问与呈现的惯例而言，网络艺术作品同 Kalpakjian、Arcangel 与 Davis 那样的作品，对照惊人。或许，一件由可多重例现图像构成的数字艺术作品，其自身不必是可多重例现的。行至此处，数字艺术哲学汇入一场关于艺术本体论的进行中的争论。
   - id: 42
     kind: body
     source: |-
       On the question of whether artworks are all the same kind of thing or many different kinds of things, ontological pluralism is often taken to be implied by the primary role of the artist in “sanctioning” features of their work (Irvin 2005, 2008; Thomasson 2010)[^irvin-2005][^thomasson-2010]. A sanction can consist simply in, say, the painting of a canvas by a self-professed artist and the subsequent display of the work in a gallery. The artist has sanctioned those features of the work that make it a traditional painting. But what was once largely implicit is now often explicit: many contemporary works of art are defined by a set of instructions for their presentation (e.g., aspect ratio, resolution). We can find plenty of examples of non-digital works that are defined by a set of instructions, such as Felix Gonzalez-Torres’ *Untitled (Portrait of Ross in L.A.)* (1991). This work is given to a gallery to display by way of nothing more than a set of instructions for constructing and maintaining a pile of candies. Whether non-digital or digital, the instructions determine what is part of the work and what is not, and whether the work is singular or multiply instantiable. As a result, the instructions guide appropriate interpretation of the work. On this view, ontology precedes interpretation: we cannot properly and fully appreciate a work, for the work that it is, without a prior determination of what it comprises. This is a matter of contention, however. On another way of thinking, artworks just are objects of interpretation, and there is no artwork whose boundaries can be identified before we begin interpretation (Davies 2004)[^davies-2004].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于艺术作品是否都是同一种东西抑或多种不同的东西，本体论多元主义常被认为由艺术家在“认可”其作品特征方面的首要地位所蕴含（Irvin 2005, 2008; Thomasson 2010）[^irvin-2005][^thomasson-2010]。一个认可可以仅仅是：一位自命的艺术家画了一幅画，随后在画廊展示作品。艺术家已经认可了使该作品成为一幅传统绘画的那些特征。但一度大抵隐而不显的东西，如今往往显豁：许多当代艺术作品由一套呈现指令来定义（例如纵横比、分辨率）。非数字作品由一套指令定义的例子比比皆是，例如费利克斯·冈萨雷斯-托雷斯（Felix Gonzalez-Torres）的《无题（洛杉矶的罗斯肖像）》（*Untitled (Portrait of Ross in L.A.)*，1991）。此作交付画廊展示，所凭不过一套搭建与维护一堆糖果的指令。无论非数字还是数字，指令决定什么属于作品、什么不属于，以及作品是单例的还是可多重例现的。由此，指令引导对作品的恰当解释。按此看法，本体论先于解释：若不先行确定作品由什么构成，我们便不能作为它所是的那件作品来恰当而充分地欣赏它。然而这是有争议的。按另一种思考，艺术作品就是解释的对象，不存在其边界可在解释开始前被辨认出来的艺术作品（Davies 2004）[^davies-2004]。
+    step2: |-
+      艺术作品究竟是同一种东西，抑或多种不同的东西？在这个问题上，本体论多元主义常被认为由艺术家“认可”其作品特征的首要地位所蕴含（Irvin 2005, 2008; Thomasson 2010）[^irvin-2005][^thomasson-2010]。一个认可可以简单到如此地步：一位自命的艺术家画了一幅画，随后在画廊展示它。艺术家已经认可了使此作成为一幅传统绘画的那些特征。而一度大抵隐而不显者，如今往往显豁：许多当代艺术作品由一套呈现指令来定义（例如纵横比、分辨率）。非数字作品由一套指令定义的例子比比皆是——费利克斯·冈萨雷斯-托雷斯（Felix Gonzalez-Torres）的《无题（洛杉矶的罗斯肖像）》（*Untitled (Portrait of Ross in L.A.)*，1991）即是一例。此作交付画廊展示，所凭不过一套搭建与维护糖果堆的指令。无论非数字抑或数字，指令决定什么属于作品、什么不属于，也决定作品是单例的还是可多重例现的。由此，指令引导对作品的恰当解释。按此看法，本体论先于解释：不先确定作品由什么构成，我们便不能就它所是的那件作品作恰当而充分的欣赏。然而此处有争。按另一种思考，艺术作品就是解释的对象；不存在其边界可在解释开始之前被辨认出来的艺术作品（Davies 2004）[^davies-2004]。
   - id: 43
     kind: body
     source: |-
       The issue of the relation between ontology and interpretation is a complex and difficult one, but progress can be made on the issue through an examination of digital art practices. This is particularly in light of the high degree of self-consciousness with which many digital artists and digital art curators specify the features of digital art works. It is a common practice, for example, when archiving net art, to have artists fill out a questionnaire in order to specify which features of a work are crucial for its preservation—whether features of appearance, timing and motion, interactivity potentials and methods, linking to other sites, or hardware and software. When a work of net art is individuated by its imagery, say, the artist has chosen to make the inherent replicability of digital imagery part of the work. That this is a choice is suggested by the existence of singular works of digital visual art, like the examples discussed above. The question of whether the works by Kalpakjian, and Arcangel & Davis can function allographically requires further investigation (see D’Cruz and Magnus 2014)[^d’cruz-2014]. But if they can so function, the artist’s presentation instructions have a primary role to play in fixing, not just the art form (installation, movie, conceptual work, etc.) but the basic structure of the work – for example, in determining whether the work is singular and thus identical with a certain kind of physical display or multiple with no original display. Where interactive digital works are concerned, individuation is determined by a set of algorithms. An algorithmic account of interactive digital art suggests that, although the code is important for adequate instantiation of the work, it is the algorithm that specifies the crucial features of the work (Lopes 2010; Tavinor 2011; Moser 2018)[^lopes-2010][^moser-2018]. Since the code is, ontologically speaking, less relevant than the algorithm, this account makes allowances for the variability that may be found in the code when an instance of a program is run on different kinds of devices.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本体论与解释之间的关系问题复杂而困难，但通过考察数字艺术实践，可以在这个问题上取得进展。考虑到许多数字艺术家与数字艺术策展人以高度的自我意识规定数字艺术作品的特征，这一点尤其明显。一个常见做法是：在为网络艺术建档时，让艺术家填写问卷，以指明作品的哪些特征对保存至关重要——是外观特征、时序与运动、交互的潜能与方法、通向其他站点的链接，还是硬件与软件。当一件网络艺术作品——比如说——由其图像而被个体化时，艺术家已经选择把数字图像固有的可复制性纳入作品。singular 的数字视觉艺术作品之存在——如上文讨论的那些例子——表明这是一种选择。Kalpakjian 以及 Arcangel 与 Davis 的作品能否以代笔的方式起作用，须待进一步考察（见 D'Cruz and Magnus 2014）[^d'cruz-2014]。但若能如此起作用，艺术家的呈现指令便在固定作品的基础结构——例如决定作品是单例的、因而与某类物理显示同一，还是多例的、没有原件显示——之外，对固定艺术形式（装置、电影、观念作品等）也扮演首要角色。至于交互性数字作品，其个体化由一套算法决定。交互数字艺术的算法说明 suggests：尽管代码对作品的充分例现很重要，但正是算法规定了作品的关键特征（Lopes 2010; Tavinor 2011; Moser 2018）[^lopes-2010][^moser-2018]。既然从本体论上说，代码不如算法要紧，这一说明便为代码在程序实例运行于不同设备时可能出现的变异性留出了余地。
+    step2: |-
+      本体论与解释的关系问题复杂而困难；但通过考察数字艺术实践，可望有所推进——考虑到许多数字艺术家与策展人以高度的自我意识规定作品特征，此点尤为显豁。一个常见做法是：为网络艺术建档时，让艺术家填写问卷，指明作品的哪些特征对保存至关重要——外观、时序与运动、交互的潜能与方法、通向其他站点的链接，抑或硬件与软件。当一件网络艺术作品——譬如——由其图像而被个体化时，艺术家已然选择把数字图像固有的可复制性纳入作品。而 singular 的数字视觉艺术作品之存在——如上文所举诸例——恰恰表明这是一种选择。Kalpakjian 以及 Arcangel 与 Davis 的作品能否以代笔方式起作用，尚待考察（见 D'Cruz and Magnus 2014）[^d'cruz-2014]。若能，则艺术家的呈现指令便不仅对固定艺术形式（装置、电影、观念作品等）、也对固定作品的基础结构——例如决定作品是单例的、因而与某类物理显示同一，还是多例的、并无原件显示——扮演首要角色。至于交互性数字作品，其个体化由一套算法决定。交互数字艺术的算法说明提示：代码对作品的充分例现固然重要，但规定作品关键特征的正是算法（Lopes 2010; Tavinor 2011; Moser 2018）[^lopes-2010][^moser-2018]。既然从本体论上说代码不如算法要紧，这一说明便为代码在程序实例运行于不同设备时可能出现的变异性留出了余地。
   - id: 44
     kind: body
     source: |-
       ## 3. Appreciating Artworks in Digital Media
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. Appreciating Artworks in Digital Media
+    step2: |-
+      ## 3 欣赏数字媒介中的艺术作品
   - id: 45
     kind: body
     source: |-
       Reflection on the kinds and significance of choices available to an artist contributes to a full appreciation of the artist’s work. For any artwork, appreciation begins with recognition of its status as a *work*, the product of artistic activity of some kind, and thus something to be appreciated as the achievement of an artist or group of artists. Most commonly, this achievement is understood in terms of the aesthetically significant effects achieved by an artist with certain kinds of tools and materials and in light of certain appreciative conventions. In other words, the achievement is always relative to an artistic medium. Returning to the case of an artist choosing what to do about the inherent replicability of digital imagery, another way of thinking about this choice is in terms of the artist recognizing the limits and capacities of their chosen medium. Images conveyed digitally are always replicable and so when an artist aims to convey artistic content through digital imagery, they either have to accept the inevitable multiplicity of their works or resist the tendency of the medium and somehow specify the work’s singularity in presentation. At a more fine-grained level, our appreciation of particular effects—of color and composition, expression, narrative structure, and so on—depends on the effects themselves but also on background acknowledgment of their degree of difficulty or innovation in the relevant medium. The production of digital art relies on the computer automation of many of the tasks, both manual and cognitive, traditionally involved in making art. The effects achieved by computer automation cannot be assessed in the same way as those achieved by traditional “hands-on” artistic methods. The terms of our appreciation, therefore, need to be adjusted in the digital age. This is certainly compatible with the continued relevance of medium-based appreciation, as long as we can make sense of digital media as artistic media (Binkley 1998)[^binkley-1998]. But there is a strong tendency in film and media studies to assume that the medium has absolutely no role to play in the appreciation of digital art.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对艺术家所能作出的选择之种类与意义的反思，有助于充分欣赏这位艺术家的作品。对任何艺术作品，欣赏都始于承认其作为一部作品的地位：它是某种艺术活动的产物，因而应作为一位艺术家或一群艺术家的成就而得到欣赏。最常见的理解是，这一成就是艺术家以某类工具与材料、在某些欣赏惯例之下所达到的审美上重要的效果。换言之，成就总是相对于一种艺术媒介而言的。回到艺术家就数字图像固有可复制性作何取舍的例子，思考这一选择的另一方式，是把它看作艺术家认识到其所选媒介的局限与性能。以数字方式传达的图像总是可复制的，因此，当一位艺术家旨在通过数字图像传达艺术内容时，他们要么必须接受其作品不可避免的多重性，要么反抗媒介的倾向，以某种方式在呈现中规定作品的单例性。在更精细的层面上，我们对特定效果——颜色与构图、表现、叙事结构等等——的欣赏，既取决于效果本身，也取决于对其在相关媒介中难度或创新程度的背景承认。数字艺术的制作，依赖计算机对传统上参与艺术创作的许多任务（无论手工的还是认知的）的自动化。计算机自动化所达到的效果，无法以传统“亲自动手”的艺术方法所达到的效果同样的方式来评估。因此，我们欣赏的术语需要在数字时代作出调整。只要我们能理解数字媒介作为艺术媒介的意义，这与基于媒介的欣赏的持续相关性当然相容（Binkley 1998）[^binkley-1998]。但电影与媒介研究中有一股强烈的倾向，认为媒介在数字艺术的欣赏中绝对没有作用可发挥。
+    step2: |-
+      反思艺术家所能作出的选择之种类与意义，有助于充分欣赏其作品。对任何艺术作品，欣赏都始于承认其作为一部作品的地位：它是某种艺术活动的产物，因而应作为某位或某群艺术家的成就而得到欣赏。最常见的理解是：成就是艺术家凭某类工具与材料、在某些欣赏惯例之下所达到的审美上重要的效果。换言之，成就总是相对于一种艺术媒介而言。回到艺术家就数字图像固有可复制性作何取舍的例子，思考这一选择的另一方式，是把它看作艺术家对所选媒介之局限与性能的认识。以数字方式传达的图像总是可复制的；因此，艺术家若欲通过数字图像传达艺术内容，要么必须接受作品不可避免的多重性，要么反抗媒介的倾向，以某种方式在呈现中规定作品的单例性。在更精细的层面上，我们对特定效果——颜色与构图、表现、叙事结构等等——的欣赏，既取决于效果本身，也取决于对其在相关媒介中难度或创新程度的背景认可。数字艺术的制作，倚仗计算机对传统上参与艺术创作的许多任务（无论手工的还是认知的）的自动化。计算机自动化所达到的效果，无法按传统“亲自动手”式的艺术方法之效果来评估；因此，我们欣赏所用的术语，须在数字时代作出调整。只要我们能理解数字媒介作为艺术媒介的意义，这与基于媒介的欣赏之持续相关性自然相容（Binkley 1998）[^binkley-1998]。然而电影与媒介研究中有一种强烈的倾向：认为媒介在数字艺术的欣赏中绝无作用可言。
   - id: 46
     kind: body
     source: |-
       Summing up this view, it supposedly follows from the fact that modern (digital) computers encode every kind of information in the same way—i.e., as a sequence of binary digits—that a digital artwork is no longer defined by its mode of presentation, whether in images, moving images, sound patterns, or text. A work’s display is rendered merely contingent by the fact that it is generated from a common code. By adding a particular instruction to the code sequence specifying a work, imagery associated with that work could be instantaneously converted into sounds or text, or just into different imagery. This possibility alone supposedly renders meaningless all talk of an artwork being in a particular medium and being properly appreciated in terms of that medium (Kittler 1999; Doane 2007)[^doane-2007][^kittler-1999].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一看法可总结如下：据说，从现代（数字）计算机以同一种方式——即作为二进制数字的序列——编码每一种信息这一事实可以推出，一件数字艺术作品不再由其呈现方式（无论图像、运动图像、声音图案还是文本）来定义。作品的显示因它由一种共同代码生成而沦为偶然。只要在指定作品的代码序列中添入一条特定指令，与该作品相关的图像便可即时转换为声音或文本，或干脆转换为不同的图像。据说，仅此一种可能，就使一切关于某件艺术作品处于特定媒介之中、并应依该媒介而得到恰当欣赏的说法变得毫无意义（Kittler 1999; Doane 2007）[^doane-2007][^kittler-1999]。
+    step2: |-
+      这一看法可概述如下：据说，现代（数字）计算机以同一种方式——即二进制数字序列——编码一切信息；由此便可推出，一件数字艺术作品不再由其呈现方式（图像、运动图像、声音图案抑或文本）来定义。作品既由一种共同代码生成，其显示便纯属偶然。只需往指定作品的代码序列里添一条特定指令，与该作品相关的图像便可即时转为声音或文本，或干脆转为另一套图像。据说，仅此一种可能，就足以令一切关于作品处于某特定媒介、并应依该媒介而恰当欣赏的说法丧失意义（Kittler 1999; Doane 2007）[^doane-2007][^kittler-1999]。
   - id: 47
     kind: body
     source: |-
       Given the considerable effects of digital technology on artistic production, it is perhaps understandable that some commentators are inclined toward a radical overhauling of art theoretical concepts. But their arguments in support of such an overhaul are, at best, incomplete. We see this once we cite some important continuities between ways of making and thinking about art in the analog age and in the digital age. It has always been the case, for example, that “any medium can be translated into any other” (Kittler 1999: 1)[^kittler-1999]: Without using a computer, someone could manually devise a set of rules (an algorithm) for the translation of image values, say, into sounds or text. Moreover, a common storage and transmission means for (moving) imagery and sound is not unique to digital technology: As Doron Galili points out (2011), electronic image transmission going back to the late nineteenth century—in other words, precursors of the TV—relies on the conversion of both images and sound into electronic pulses.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于数字技术对艺术生产的巨大影响，一些评论者倾向于对艺术理论概念作彻底翻修，这或许可以理解。但他们支持这种翻修的论证，充其量是不完备的。一旦我们举出模拟时代与数字时代在艺术制作与思考方式之间的某些重要连续性，这一点便显而易见。例如，“任何媒介都可以被翻译成任何其他媒介”（Kittler 1999: 1）[^kittler-1999]这一情况一直如此：不用计算机，人也可以手工设计一套把图像值——比如说——翻译成声音或文本的规则（算法）。此外，（运动）图像与声音的共通存储与传输手段并非数字技术所独有：正如 Doron Galili 指出的（2011），可上溯到十九世纪末的电子图像传输——换言之，电视的前身——就依赖把图像与声音都转换为电子脉冲。
+    step2: |-
+      数字技术对艺术生产影响既巨，一些论者倾向对艺术理论概念作彻底翻修，这或许情有可原。但支持翻修的论证，充其量并不完备。一旦举出模拟时代与数字时代在艺术制作与思考方式之间的若干重要连续性，此点便不辩自明。例如，“任何媒介都可以翻译成任何其他媒介”（Kittler 1999: 1）[^kittler-1999]，此事历来如此：不用计算机，人也能手工拟出一套把图像值——譬如——译为声音或文本的规则（算法）。再者，（运动）图像与声音的共通存储与传输手段，并非数字技术之独有：正如 Doron Galili 所指出的（2011），可上溯至十九世纪末的电子图像传输——换言之，电视之前身——便倚仗把图像与声音一并转换为电子脉冲。
   - id: 48
     kind: body
     source: |-
       Apart from these important continuities, the media theorist’s inference from translatability to medium-free art simply does not hold. That we could set about “translating” the imagery of *Seven Samurai* into a symphony does not mean that the original artwork lacks a medium; it is a film, after all, and as such, it has to be in the medium of moving images. The symphonic translation of *Seven Samurai* is not the same work as the 1954 film by Akira Kurosawa. This reminds us that, in deciding whether there is a digital medium, we must not reduce the medium to the artist’s materials, for it also matters how the artist uses those materials. Nor must we limit the constitutive materials of a medium to physical materials. The case of literature shows that neither the materials of an art form, nor their modes of manipulation, need be physical. The medium of literature is neither paper and ink nor abstract lexical symbols, but letters and words used in certain ways. There are, of course, many different ways of physically storing and transmitting literary works, including by the printed page, in audio recordings, and by memory (human or computer). But from the fact that *David Copperfield* can be preserved in many different formats, it does not follow that this novel is any less decisively a novel and, as such, in the medium of literature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了这些重要的连续性之外，媒介理论家从可翻译性到无媒介艺术的推论根本不成立。我们可以着手把《七武士》的图像“翻译”成一部交响曲，这并不意味着原作缺乏媒介；它终究是一部电影，因此必须以运动图像为媒介。《七武士》的交响改编并不等同于黑泽明 1954 年的那部电影。这提醒我们：在判定是否存在一种数字媒介时，我们绝不能把媒介化约为艺术家的材料，因为艺术家如何使用这些材料同样要紧。我们也不应把一种媒介的构成材料限于物理材料。文学的情形表明，一种艺术形式的材料，以及其操作方式，都不必是物理的。文学的媒介既不是纸与墨，也不是抽象的词汇符号，而是以某些方式使用的字母与词语。当然，物理上存储与传输文学作品的方式有许多种，包括印刷页面、录音，以及记忆（人的或计算机的）。但从《大卫·科波菲尔》能以许多不同格式保存这一事实，推不出这部小说因此就不那么确凿地是一部小说、因而就不处于文学的媒介之中。
+    step2: |-
+      除了这些重要的连续性，媒介理论家从可翻译性推出无媒介艺术的推论，根本不成立。我们能着手把《七武士》的图像“翻译”成一部交响曲，并不意味着原作缺乏媒介；它终究是电影，因而必以运动图像为媒介。《七武士》的交响改编，并非黑泽明 1954 年那部电影的同一件作品。这提醒我们：判定是否存在一种数字媒介时，切不可把媒介化约为艺术家的材料，因为艺术家如何使用材料同样要紧；也不可把一种媒介的构成材料限于物理材料。文学的情形表明：一种艺术形式的材料，连同其操作方式，都不必是物理的。文学的媒介既非纸墨，亦非抽象的词汇符号，而是以某些方式使用的字母与词语。当然，物理地存储与传输文学作品的方式甚多：印刷书页、录音、记忆（人脑或计算机），不一而足。但《大卫·科波菲尔》能以许多不同格式保存，这推不出它因此就不那么确凿地是一部小说、因而就不在文学的媒介之中。
   - id: 49
     kind: body
     source: |-
       Just as with a literary work, the preservation and transmission of digital works in different formats depends on the use of a common code, but a binary numeric code rather than a lexical one. As we have seen, words and their literary uses constitute the medium of literature. In the same way, binary code, along with the information it implements, and its artistic uses constitute the medium of digital art. This allows for the possibility that the digital medium contains various sub-media, or “nested” media (Gaut 2010)[^gaut-2010]. For instance, within the medium of digital art, the medium of digital visual art comprises artistic uses of computer code specifically to create images. In technical terms, such uses can be referred to as (artistic) “bitmapping”, given that a computer ultimately stores all images (2D and 3D vector) as bitmaps, which are code sequences specifying the integers assigned to light intensity measurements in a pixel grid. The medium of bitmapping is thus distinguished by a kind of digital technology, but the kind used to produce just those items belonging to the traditional medium of images.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如文学作品一样，数字作品以不同格式的保存与传输依赖一种共同代码的使用，只不过是二进制的数值代码，而非词汇代码。如我们所见，词语及其文学用法构成文学的媒介。同样，二进制码连同它所实现的信息、连同其艺术用法，构成数字艺术的媒介。这容许数字媒介包含各种子媒介或“嵌套”媒介（Gaut 2010）[^gaut-2010]的可能。例如，在数字艺术的媒介之内，数字视觉艺术的媒介包含专门用以创造图像的对计算机代码的艺术用法。用技术术语说，这类用法可称为（艺术性的）“位图化”（bitmapping），因为计算机最终把一切图像（二维与三维矢量）都存储为位图，即位图网格中为光强测量所派定的整数之代码序列。位图化的媒介因而以某类数字技术为标志，但所用的乃是专门生产那些属于传统图像媒介之物的那类技术。
+    step2: |-
+      正如文学作品，数字作品以不同格式保存与传输，也依赖一种共同代码——只不过那是二进制数值代码，而非词汇代码。如前所见，词语及其文学用法构成文学的媒介；同样，二进制码连同它所实现的信息及其艺术用法，构成数字艺术的媒介。这就容许数字媒介含有各种子媒介或“嵌套”媒介（Gaut 2010）[^gaut-2010]。例如，在数字艺术媒介之内，数字视觉艺术的媒介包含专门用以创造图像的对计算机代码的艺术用法。用技术术语说，这类用法可称作（艺术性的）“位图化”（bitmapping）：计算机终究把一切图像（二维与三维矢量）都存为位图，即位图网格中为光强测量所派定整数之代码序列。位图化的媒介因而以某类数字技术为标志，只不过所用者是专造那些属于传统图像媒介之物的那类技术。
   - id: 50
     kind: body
     source: |-
       Once the notion of digital media is revealed to be no more confused or mysterious than the familiar notion of literary media, its irreducible role in appreciation becomes apparent. To take just one example, proper appreciation of films in the digital age depends on recognizing that digital filmmaking tools do not just make traditional filmmaking easier; they also present new creative possibilities and challenges. Given the maturity and mass-art status of the cinematic art form, it is easy to take for granted the medium of moving imagery; we may think we know exactly what its limits are, and we may even think we have seen everything that can be done with it. The digital medium is different, however, and digital cinema is in both the medium of moving imagery and the digital medium.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一旦表明数字媒介的概念并不比熟悉的文学媒介概念更混乱或神秘，它在欣赏中不可化约的作用便显而易见。仅举一例：数字时代对电影的恰当欣赏，取决于承认数字电影制作工具不仅使传统电影制作更容易，也带来了新的创作可能与挑战。鉴于电影艺术形式的成熟与大众艺术地位，人们容易把运动图像的媒介视为理所当然；我们或许以为自己确知它的局限，甚至以为已经见过它所能做的一切。然而数字媒介不同，数字电影同时处于运动图像的媒介与数字媒介之中。
+    step2: |-
+      一旦表明数字媒介的概念并不比熟知的文学媒介更含混或更神秘，它在欣赏中不可化约的作用便昭然。仅举一例：数字时代对电影的恰当欣赏，取决于承认数字电影制作工具不仅让传统电影制作更轻易，也开出新的创作可能与挑战。电影艺术形式既已成熟、又具大众艺术地位，人们容易把运动图像的媒介视作理所当然；我们或许自以为深知其局限，甚至自以为已见尽它所能为。然而数字媒介不同：数字电影同时栖身于运动图像媒介与数字媒介之中。
   - id: 51
     kind: body
     source: |-
       At first glance, it might seem odd to speak of “challenges” or “limits” in relation to digital processes, which allow for instantaneous and endless modification with increasingly user-friendly applications and devices. The high degree of automation in the process of capturing an image with a digital video camera, along with increasingly high image resolution and memory capacity, could make it seem as though digital images are too easily achieved to be interesting. Then there are the practically endless possibilities for “correcting” the captured image with applications like Photoshop. When we take a photo or video on our smartphones, an AI program automatically optimizes focus, contrast, and detail. Digital sound recording is likewise increasingly automated, increasingly fine-grained, and reliant on ever-larger computer memory capacities. Modifying and mastering recorded sound with digital editing software allows for an unlimited testing of options. In digital film editing, sequence changes are instantaneous and entirely reversible—quite unlike when the editing process involved the physical cutting and splicing of a film (image or sound) strip. Digital tools thus allow filmmakers to focus (almost) purely on the look and sound of the movie without having to worry about the technical difficulty or finality of implementation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      乍看之下，谈论数字过程——它们借助日益友好的应用与设备，容许瞬时而无止境的修改——的“挑战”或“局限”似乎有点怪。用数字摄像机采集图像过程的自动化程度之高，加上日益提高的图像分辨率与存储容量，可能让人觉得数字图像太容易达到，因而无趣。此外，还有用 Photoshop 之类应用对采集图像作“校正”的近乎无穷的可能。当我们用智能手机拍照或录像时，一个 AI 程序自动优化焦点、对比度与细节。数字录音同样日益自动化、日益精细，并依赖越来越大的计算机内存容量。用数字编辑软件修改与母带处理录下的声音，容许无止境地测试各种选项。在数字电影剪辑中，序列改动的瞬时与完全可逆——这与剪辑过程涉及对胶片（图像或声音）带作物理剪切与粘接时大不相同。数字工具因而使电影制作者（几乎）纯粹专注于影片的观感与声响，而不必担心技术难度或实施的终局性。
+    step2: |-
+      乍看之下，谈论数字过程的“挑战”或“局限”似觉怪异——凭日益友好的应用与设备，数字过程容许瞬时而无止境的修改。用数字摄像机采集图像的自动化程度之高，加上图像分辨率与存储容量日增，可能令人觉得数字图像得来太易，因而无趣。此外，还有用 Photoshop 之类应用对采集图像作“校正”的近无穷可能。用智能手机拍照或摄像时，AI 程序会自动优化焦点、对比度与细节；数字录音同样愈发自动化、愈发精细，且倚仗日益庞大的计算机内存。用数字编辑软件修改与母带处理录音，可无止境地试遍各种选项。数字电影剪辑中，序列改动瞬时完成且全然可逆——这与剪辑须对胶片（图像或声音）带作物理剪切粘接的往昔大不相同。数字工具因而令电影制作者几乎可专注于影片的观感与声响，无须忧心技术难度或实施的终局性。
   - id: 52
     kind: body
     source: |-
       Rather than dismissing all digital works as too easily achieved to be interesting, medium-based appreciation requires that we consider the digital on its own terms. This means we must allow for the possibility that certain kinds of increased technical efficiency can bring new creative risks. For example, even though committing to certain editorial decisions does not entail irreversible alterations to a filmstrip, arriving at those decisions involves sifting through and eliminating far more options, a process which can easily become overwhelming and therefore more error-ridden. When we properly appreciate a digital film, part of what we need to appreciate is the significance of any scene or sequence looking just the way it does when it could have, so easily, looked many other ways. Similarly, when we properly appreciate an interactive digital installation or videogame, we are, in part, appreciating certain representations, functions, and capabilities of the input-output system, made possible by digital media. This is undeniably a form of medium-based appreciation and the medium to which we appeal is digital. It is only when we think of a digital film as in a digital medium that we can appreciate it as a particular response to the creative problem, introduced by coding, of finalizing selections from a vast array of equally and instantly available options.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与其把一切数字作品作为太容易达到而无趣的东西打发掉，基于媒介的欣赏要求我们按数字自身的条件来考虑它。这意味着我们必须容许这样一种可能：某些种类的技术效率提高可以带来新的创作风险。例如，尽管作出某些剪辑决定并不导致对胶片带的不可逆改动，得出这些决定却涉及筛选并排除多得多的选项，这一过程很容易变得不堪重负，因而更易出错。当我们恰当欣赏一部数字电影时，我们所需欣赏的一部分，就是任何场景或序列尽管本可以如此轻易地呈现为许多别的样子、却恰恰呈现为它现在这样的意义。类似地，当我们恰当欣赏一件交互性数字装置或电子游戏时，我们在某种意义上是在欣赏输入-输出系统的某些表征、功能与能力，它们由数字媒介而成为可能。这无可否认是基于媒介的欣赏的一种形式，而我们所诉诸的媒介是数字的。只有当我们把一部数字电影想作处于一种数字媒介之中时，我们才能把它欣赏为对编码所引入的创作难题——即从海量同等且即时可得的选项中定夺选择——的一种特定回应。
+    step2: |-
+      与其把一切数字作品当作得来太易、因而无趣之物打发掉，基于媒介的欣赏要求我们按数字自身的条件来思量它。这意味着须容许这样的可能：某些技术效率的提升会带来新的创作风险。例如，作出某些剪辑决定虽不致对胶片带造成不可逆改动，但得出这些决定，却须筛选并排除多得多的选项；此过程极易不堪重负，从而更易出错。恰当欣赏一部数字电影时，我们所需欣赏的一部分，正是任一场景或序列何以恰呈现为眼下这般——尽管它本可如此轻易地呈现为许多别的样子。同样，恰当欣赏一件交互性数字装置或电子游戏时，我们也在某种意义上欣赏输入-输出系统的某些表征、功能与能力，它们因数字媒介而成为可能。这无疑是基于媒介的欣赏之一形式，而我们所诉诸的媒介正是数字的。唯有把一部数字电影想作栖身于数字媒介之中，我们才能把它欣赏为对编码所引入之创作难题的一种特定回应——那个难题是：从海量同等且即时可得的选项中定夺取舍。
   - id: 53
     kind: body
     source: |-
       The case of digital cinema is perhaps a useful starting point for work in the philosophy of digital art. Digital cinema is a multi-media art form, after all, involving 2D and 3D moving images as well as sound. It also has the potential for robust interactivity, whereby audiences select story events or otherwise modify a film screening in prescribed ways (Gaut 2010: 224–43)[^gaut-2010]. Many of the digital tools developed by the film and video game industries are now available more widely to artists interested in making other forms of digital art, including net art, digital sound installations, and virtual reality art (Grau 2003; Chalmers 2017; Tavinor 2019)[^chalmers-2017][^grau-2003][^tavinor-2019]. In terms of how the use of these tools affects proper appreciation, there are important continuities between the filmmaking context and the wider digital art world. In addition, the philosophy of film is a well-established subfield in aesthetics, one that engages with both film theory and cognitive science in order to explicate the nature of film as a mass art (Thomson-Jones 2014, Other Internet Resources). For many of the standard topics in the philosophy of film, interesting and important questions arise when we extend the discussion from analog to digital cinema. There is a question, for example, about the kinds and significance of realism that can be achieved with traditional celluloid film as compared with manipulated digital imagery (Gaut 2010: 60–97)[^gaut-2010]. The philosophy of film can provide some of the initial terms of analysis for artworks in a broad range of digital media. At the same time, it is important to approach each of the digital arts on their own terms under the assumption that the digital is an artistically significant category.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数字电影的情形，或许是数字艺术哲学工作的一个有益起点。数字电影终究是一种多媒体艺术形式，涉及二维与三维运动图像以及声音。它也具有强健交互性的潜能，观众据此按规程选择故事事件或以其他方式修改影片放映（Gaut 2010: 224–43）[^gaut-2010]。电影与电子游戏产业开发的许多数字工具，如今更广泛地可供有志于创作其他形式数字艺术的艺术家使用，包括网络艺术、数字声音装置与虚拟现实艺术（Grau 2003; Chalmers 2017; Tavinor 2019）[^chalmers-2017][^grau-2003][^tavinor-2019]。就这些工具的使用如何影响恰当欣赏而言，电影制作语境与更广的数字艺术世界之间有重要的连续性。此外，电影哲学是美学中一个确立已久的子领域，它与电影理论及认知科学都有交往，以阐明电影作为大众艺术的性质（Thomson-Jones 2014，其他网络资源）。对电影哲学中的许多标准主题，当我们把讨论从模拟电影扩展到数字电影时，便会出现有趣而重要的问题。例如，有一个问题关乎传统赛璐珞胶片相较被操弄的数字图像所能达到的实在论之种类与意义（Gaut 2010: 60–97）[^gaut-2010]。电影哲学能为广泛数字媒介中的艺术作品提供一些最初的分析术语。与此同时，重要的是按每一门数字艺术自身的条件去接近它，并假定数字是一个艺术上重要的范畴。
+    step2: |-
+      数字电影的情形，或可为数字艺术哲学的工作提供有益起点。数字电影终究是多媒体艺术形式，兼涉二维与三维运动图像以及声音；它又具强健交互性之潜能，观众可据规程选择故事事件，或以其他方式修改影片放映（Gaut 2010: 224–43）[^gaut-2010]。电影与电子游戏产业开发的许多数字工具，如今更广泛地开放给有志于其他数字艺术形式的艺术家——网络艺术、数字声音装置、虚拟现实艺术，皆在其列（Grau 2003; Chalmers 2017; Tavinor 2019）[^chalmers-2017][^grau-2003][^tavinor-2019]。就这些工具的使用如何影响恰当欣赏而言，电影制作语境与更广的数字艺术世界之间有重要的连续性。此外，电影哲学是美学中成熟已久的子领域，它同电影理论与认知科学皆有交往，以阐明电影作为大众艺术的性质（Thomson-Jones 2014，其他网络资源）。电影哲学中的许多标准主题，一旦把讨论从模拟电影推向数字电影，便会生出有趣而重要的问题。例如：传统赛璐珞胶片与被操弄的数字图像所能达到的实在论，其种类与意义如何（Gaut 2010: 60–97）[^gaut-2010]？电影哲学能为广泛数字媒介中的艺术作品提供若干最初的分析术语；而与此同时，要紧的是按每一门数字艺术自身的条件去接近它，并假定数字是一个艺术上要紧的范畴。
   - id: 54
     kind: body
     source: |-
       ## 4. Interactivity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. Interactivity
+    step2: |-
+      ## 4 交互性
   - id: 55
     kind: body
     source: |-
       More and more, contemporary artists are taking advantage of the dynamic and responsive capabilities of digital media to make art interactive. The experimental online literature, conceptual browser art, and videogames mentioned above all require user interactivity, but they do so to varying degrees. Therefore, if interactivity plays a distinctive role in the digital arts, there are good reasons to analyse the nature of these works more deeply.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      越来越多的当代艺术家利用数字媒体动态而可回应的性能，使艺术成为交互性的。上文提到的实验性在线文学、观念性浏览器艺术与电子游戏，都需要用户的交互性，但程度各有不同。因此，如果交互性在数字艺术中扮演独特角色，就有充分理由更深入地分析这类作品的性质。
+    step2: |-
+      越来越多的当代艺术家借数字媒体动态而可回应的性能，把艺术做成交互性的。上文提及的实验性在线文学、观念性浏览器艺术与电子游戏，都需要用户交互，只不过程度各异。因此，交互性若在数字艺术中扮演独特角色，便大有理由更深入地分析这类作品的本性。
   - id: 56
     kind: body
     source: |-
       ### 4.1 Defining Interactive Works
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 Defining Interactive Works
+    step2: |-
+      ### 4.1 界定交互性作品
   - id: 57
     kind: body
     source: |-
       Not all digital works are interactive, and not all interactive works are digital. However, since computers are inherently interactive, much of the early philosophical literature on interactivity arose from the emergence of computer art (also see Smuts 2009; Lopes 2001; Saltz 1997)[^lopes-2001][^saltz-1997][^smuts-2009]. The distinctive character of interactive digital art is best considered in tandem with the work’s ontology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      并非所有数字作品都是交互性的，也并非所有交互性作品都是数字的。然而，由于计算机本质上是交互性的，关于交互性的早期哲学文献大多源于计算机艺术的兴起（另见 Smuts 2009; Lopes 2001; Saltz 1997）[^lopes-2001][^saltz-1997][^smuts-2009]。交互性数字艺术的独特品格，最好结合作品的本体论来考虑。
+    step2: |-
+      并非一切数字作品皆交互，也并非一切交互性作品皆数字。然而计算机本质上是交互性的，故关于交互性的早期哲学文献，大多由计算机艺术的兴起而来（另见 Smuts 2009; Lopes 2001; Saltz 1997）[^lopes-2001][^saltz-1997][^smuts-2009]。交互性数字艺术的独特品格，最好与作品本体论合观。
   - id: 58
     kind: body
     source: |-
       Before analyzing interactivity any further, first, consider the following description of the digital installation “Universe of Water Particles on a Rock where People Gather” (henceforth, “Rock where People Gather”) by TeamLab:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在进一步分析交互性之前，先考虑 TeamLab 对数字装置《人群聚集之石上的水粒子宇宙》（“Universe of Water Particles on a Rock where People Gather”，下称《人群聚集之石》）的如下描述：
+    step2: |-
+      在进一步分析交互性之前，先看 TeamLab 对数字装置《人群聚集之石上的水粒子宇宙》（“Universe of Water Particles on a Rock where People Gather”，下称《人群聚集之石》）的如下描述：
   - id: 59
     kind: body
     source: |-
       > “Rock where People Gather” is reproduced in a virtual three-dimensional space. Water is simulated to fall onto the rock, and the flow of the water draws the shape of the waterfall. The water is represented by a continuum of numerous water particles and the interaction between the particles is then calculated. Lines are drawn in relation to the behavior of the water particles. The lines are then “flattened” using what TeamLab considers to be “ultrasubjective” space.
       >
       > When a person stands on the rock or touches the waterfall, they too become like a rock that changes the flow of water. The flow of water continues to transform in real time due to the interaction of people. Previous visual states can never be replicated, and will never reoccur (TeamLab 2018).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 《人群聚集之石》再现于一个虚拟三维空间。水被模拟为落到石上，水的流动画出瀑布的形状。水由无数水粒子的连续统来表征，粒子之间的交互随后被计算。线条依水粒子的行为绘制。这些线条随后用 TeamLab 视为“超主观”空间的方式被“压平”。
+      >
+      > 当一个人站上石头或触碰瀑布，他们也就成了一块改变水流的石头。由于人的交互，水流持续实时变形。先前的视觉状态永远无法被复制，也永远不会再出现（TeamLab 2018）。
+    step2: |-
+      > 《人群聚集之石》再现于一个虚拟三维空间。水被模拟着落向那块石头，水的流势画出瀑布的形状。水由无数水粒子的连续统来表征，粒子间的交互随即被计算。线条依水粒子的行为而画。这些线条继而用 TeamLab 视为“超主观”空间的方式被“压平”。
+      >
+      > 当人站上石头，或触碰瀑布，他们便也成了一块改变水流的石头。由于人的交互，水流持续实时变形。先前的视觉状态永不能被复制，也永不再现（TeamLab 2018）。
   - id: 60
     kind: body
     source: |-
       “Rock where People Gather” illustrates that interactive works permit us to appreciate both the work and the properties brought about by the interactions. To define these characteristics of interactive art, Dominic Lopes states, “A work of *art* is *interactive* just in case it prescribes that the *actions* of its *users* help *generate* its display” (Lopes 2010:36, original emphasis)[^lopes-2010]. The display is anything that is instanced in a work, or the perceptual properties that come about via interactivity. Users help generate these features making interactive works distinctive. However, at this point, one could imagine reading the chapters of, let us say, a digitized copy of *The Brothers Karamazov* in random order, thereby changing what properties get instanced from the original work. Does this example qualify as interactive art in the Lopesian sense? Although some stories, such as choose-your-own-adventure books, allow readers to shuffle the narrative arc, most traditional stories do not; if the randomized *Karamazov* example is interactive, it is only so in the weakest sense of the term because users are not *prescribed* to change the properties as described. Another way to think about these differences returns us to a work’s structure. Readers who decide to roguishly randomize a story merely change how they *access* a work’s structure simply because the medium does not prohibit it, whereas readers of choose-your-own-adventure books and other interactive works can change the work’s *structure* in a prescribed manner (Lopes 2001:68)[^lopes-2001].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《人群聚集之石》表明，交互性作品让我们既能欣赏作品，也能欣赏交互所带来的性质。为界定交互艺术的这些特征，Dominic Lopes 说：“一件艺术作品是交互性的，当且仅当它规定其用户的行动有助于生成其显示”（Lopes 2010:36，原书强调）[^lopes-2010]。显示是在作品中被例现的一切东西，或者经由交互而产生的知觉性质。用户帮助生成这些特征，使交互性作品与众不同。然而，在这一点上，人们可以设想：以随机顺序阅读——比如说——一部数字化了的《卡拉马佐夫兄弟》各章，从而改变从原作中被例现出来的性质。这个例子算得上 Lopes 意义上的交互艺术吗？尽管某些故事——如“自选冒险”类书籍——允许读者打乱叙事弧线，大多数传统故事却不允许；如果随机化的《卡拉马佐夫兄弟》例子是交互性的，那也只是在最弱的意义上，因为用户并未被规定去改变所述的性质。思考这些差异的另一条路，回到作品的结构。决定放肆地把故事随机化的读者，只是改变了他们访问作品结构的方式，仅仅因为媒介不禁止如此；而“自选冒险”书籍及其他交互作品的读者，则可以按规定的方式改变作品的结构（Lopes 2001:68）[^lopes-2001]。
+    step2: |-
+      《人群聚集之石》表明，交互性作品令我们既可欣赏作品，亦可欣赏交互所带来的性质。界说交互艺术的这些特征时，Dominic Lopes 有言：“一件艺术作品是交互性的，当且仅当它规定其用户的行动有助于生成其显示”（Lopes 2010:36，原文强调）[^lopes-2010]。显示，即在作品中被例现的一切，或经由交互而生的知觉性质。用户帮助生成这些特征，交互性作品因而别具一格。然而读到这里，人尽可设想：以乱序阅读——打个比方——一部数字化了的《卡拉马佐夫兄弟》各章，从而改变从原作中例现出来的性质。此例算得上 Lopes 意义上的交互艺术么？某些故事——如“自选冒险”（choose-your-own-adventure）类书籍——固然容许读者打乱叙事弧线，大多数传统故事却不容许。随机化的《卡拉马佐夫兄弟》一例若算交互，那也只是此词最弱的意义：因为用户并未被规定去改变所述性质。思量这些差异的另一途，仍要回到作品的结构。决定顽皮地把故事随机化的读者，只是改变了他们访问作品结构的方式——仅仅因为媒介不禁止；而“自选冒险”书籍及其他交互性作品的读者，则能按规定的方式改变作品的结构（Lopes 2001:68）[^lopes-2001]。
   - id: 61
     kind: body
     source: |-
       ### 4.2 Display Variability
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 Display Variability
+    step2: |-
+      ### 4.2 显示变异性
   - id: 62
     kind: body
     source: |-
       That users are responsible for generating certain features of an interactive work means that their displays, unlike those of non-interactive works, can occur in a couple of different ways (Lopes 2010: 37-38)[^lopes-2010]. The less standard of the two occurs when the displays of an interactive work are generated in a succession of states over a period of time, but where none of the displays can be revisited. One such example is *Telegarden*, a temporary work of computer art that users accessed from a networked computer. The work was comprised of a table with an attached mechanical arm that dispensed water and food for the plants via the users’ inputs. As one may imagine, the garden took shape in a variety of ways over the span of its exhibition, but each state of the garden, or its succession of display states, could not be repeated. Although not common, videogames can also exhibit this kind of display variability. Consider the experimental game, *Cube*. For a limited time, players could explore a large cube and its nested smaller cubes while racing to be the first to reach the center. As with *Telegarden*, players generated different properties of the game displays by interacting with it, but once a new display was generated, the previous ones were gone.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用户有责任生成交互性作品的某些特征，这意味着其显示不同于非交互性作品的显示，可以以两种不同的方式出现（Lopes 2010: 37-38）[^lopes-2010]。两种方式中较不标准的一种，是交互性作品的显示在一段时间内以一系列状态生成，但其中任何显示都无法重访。一个这样的例子是《远程花园》（*Telegarden*），一件临时的计算机艺术作品，用户从联网计算机访问它。作品由一张桌子构成，桌上附有机械臂，依用户的输入为植物分配水与养料。可以想见，花园在其展出期间以多种方式成形，但花园的每个状态、或其显示状态的接续，都无法重复。虽然并不常见，电子游戏也能表现出这种显示变异性。考虑实验性游戏《立方》（*Cube*）。在一段有限时间内，玩家可以探索一个大立方体及其嵌套的小立方体，同时竞相第一个到达中心。与《远程花园》一样，玩家通过与游戏交互而生成游戏显示的不同性质，但一旦新的显示生成，先前的显示便消失了。
+    step2: |-
+      用户有责生成交互性作品的某些特征，这意味着其显示不同于非交互性作品的显示，可有几种不同的发生方式（Lopes 2010: 37-38）[^lopes-2010]。其中较不标准的一种是：交互性作品的显示在一段时间内以一系列状态生成，而任何显示都无法重访。《远程花园》（*Telegarden*）即是一例——一件临时的计算机艺术作品，用户自联网计算机访问它。此作由一张桌子构成，桌上装着机械臂，依用户输入为植株分水供肥。不难想见，花园在展出期间以种种方式成形；但花园的每一状态、或其显示状态之接续，皆无法重复。这种显示变异性虽不常见，电子游戏也能有。试看实验性游戏《立方》（*Cube*）：在一段有限时间内，玩家可探索一个大立方体及其嵌套的小立方体，同时竞逐第一个抵达中心。一如《远程花园》，玩家借与游戏交互而生成游戏显示的不同性质；但新显示一旦生成，旧显示便杳然。
   - id: 63
     kind: body
     source: |-
       The more standard of the two variable structures for interactive works are displays that can be repeated, such as most net art and videogames that can be accessed many times, from multiple locations, to generate different displays. Although repeatable works are more common (at least with videogames if not museum-housed works), more needs to be said about the changing properties of these works and how the repeatability trait distinguishes interactive digital works from non-interactive digital images.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      交互性作品两种可变结构中较标准的一种，是可以重复的显示，如大多数网络艺术与电子游戏，可以多次、从多个位置访问，以生成不同的显示。尽管可重复的作品更常见（至少在电子游戏方面如此，博物馆收藏的作品则未必），关于这些作品不断变化的性质，以及可重复性特征如何把交互性数字作品与非交互性数字图像区分开来，还需多说几句。
+    step2: |-
+      交互性作品的两种可变结构之中，较标准的一种是可重复的显示——如多数网络艺术与电子游戏，可多次、自多处访问，以生成不同显示。可重复作品固更常见（至少在电子游戏方面如此，博物馆藏作品则未必），但关于这些作品流变的性质、关于可重复性特征如何把交互性数字作品与非交互性数字图像区分开来，还须再说几句。
   - id: 64
     kind: body
     source: |-
       If the display properties of digital images can vary from instance to instance due to even slightly different settings on different devices (e.g., brightness, resolution, intensity), then the aesthetic and structural differences of many works could be misconstrued as interactive. Since the example just given is not an interactive work of art, it is worth looking more closely at what is going on with non-interactive repeatable works versus interactive repeatable ones. Consider traditional performance works such as works of theater and music. Each performance might differ to a slight degree due to different performers and other varying conditions of the environment, and these may certainly affect our aesthetic experiences each time. However, those changes, in principle, do not reshape the structure of the performed play or song. In the same way, the subtle changes made with a digitally displayed image do not change the structure of the image-based work. Compare those slight artistic or aesthetic variations to the display variability of interactive works. For example, many videogames permit players to choose which route to take, quests to accept, characters to kill or save, personalities to adopt, and the like. These sorts of in-game player choices are not merely generating features such as varying the brightness or resolution, nor are they as straightforwardly interactive as a game of chess that ends in a win or a loss. Rather, the degree of variability permits multiple endings. Again for comparison, while traditional tragedies will always end on a tragic note, some highly variable works can end either on a tragic note or on one that is not at all tragic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果数字图像的显示性质可以因不同设备上哪怕略有不同的设置（例如亮度、分辨率、强度）而因实例而异，那么许多作品的审美与结构差异就可能被误解为交互性的。由于刚才给出的例子并不是一件交互性艺术作品，值得更仔细地考察非交互性可重复作品与交互性可重复作品之间究竟发生了什么。考虑诸如戏剧与音乐作品这样的传统表演作品。每次演出或因不同的表演者及其他变化的环境条件而略有差异，这些差异当然可能每次都影响我们的审美经验。然而，这些变化原则上并不重塑所演戏剧或歌曲的结构。同样，对数字显示的图像所作的细微改动，并不改变基于图像的图像作品的结构。把这些细微的艺术或审美变异与交互性作品的显示变异性相比。例如，许多电子游戏允许玩家选择走哪条路线、接受哪些任务、杀掉还是救下哪些角色、采用何种人格等等。这类游戏内玩家选择不仅生成诸如改变亮度或分辨率这样的特征，也不像一盘以胜负告终的国际象棋那样直截了当地是交互性的。毋宁说，可变性的程度容许多种结局。再次比较：传统悲剧总是以悲剧性的音符收尾，而一些高度可变的作品则既可以以悲剧性的音符收尾，也可以以一种毫不悲剧的方式收尾。
+    step2: |-
+      数字图像的显示性质若会因设备设置略有不同（如亮度、分辨率、强度）而因实例而异，那么许多作品的审美与结构差异就可能被误认作交互性。刚才所举之例既非交互性艺术作品，就值得更仔细地看看：非交互性的可重复作品与交互性的可重复作品之间，究竟情形如何。试看戏剧、音乐一类的传统表演作品：每场演出或因表演者不同、环境条件有异而略有差别，这些差别当然可能每次都影响我们的审美经验；然而原则上，它们并不重塑所演戏剧或歌曲的结构。同样，对数字显示图像所作细微改动，也不改变基于图像之作品的结构。再把这类细微的艺术或审美变异，与交互性作品的显示变异性相较。例如，许多电子游戏允许玩家选择走哪条路线、接哪些任务、杀掉或救下哪些角色、采用何种人格等等。此类游戏内选择所生成的，并不限于亮度或分辨率之类的特征；它们也不像一盘以胜负收场的国际象棋那样径直就是交互性的。毋宁说，其可变程度容许多种结局。再作比较：传统悲剧总以悲剧性的调子收场，而一些高度可变的作品，既可收于悲剧性的调子，也可收于毫无悲意的调子。
   - id: 65
     kind: body
     source: |-
       To articulate the above more clearly, Dominic Preston says,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      To articulate the above more clearly, Dominic Preston says,
+    step2: |-
+      为了更清楚地表达上述内容，Dominic Preston 说：
   - id: 66
     kind: body
     source: |-
       > for any given artwork, each possible set of structural and aesthetic properties F is a *display type* of that artwork. (Preston 2014: 271, original emphasis)[^preston-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 对任何给定艺术作品，每一组可能的结构与审美性质 *F* 都是该作品的一个显示类型。（Preston 2014: 271，原书强调）[^preston-2014]。
+    step2: |-
+      > 对任何给定的艺术作品，每一组可能的结构性质与审美性质 *F*，都是该作品的一个显示类型（display type）。（Preston 2014: 271，原文强调）[^preston-2014]。
   - id: 67
     kind: body
     source: |-
       From the above, we can briefly infer the following scenarios: works like digital photographs are ontologically similar to plays and music because they consist of one prescribed display type. While the display type might permit multiple displays (duplicates, performances, instances, etc.) consisting of subtle variances between the particular tokens, there is still a single correct display that should be maintained or achieved. Works that instance a succession of states such as *Telegarden* and *Cube* consist of multiple potential display types where only one display type is instantiated at any given time. Now, compare such works with those like videogames that present us with the strong degrees of display variability mentioned earlier. Because some repeatable works can end drastically differently from one “playthrough” to the next, there is no singular, correct display. Instead, these sorts of works consist of both multiple display types and multiple displays, which means users will generate one of the possible display types (and their displays) each time they repeat the work.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由上，我们可简要推断出如下情形：数字照片这样的作品在本体论上类似于戏剧与音乐，因为它们由一种规定的显示类型构成。虽然显示类型可能容许多个显示（复本、演出、实例等），其具体例记之间有细微差异，但仍然有一种正确显示应当被维持或达成。《远程花园》与《立方》这类例现一系列状态的作品，由多种可能的显示类型构成，但在任何给定时刻只例现一种显示类型。现在，把这类作品与电子游戏那样呈现我们前文提到之强程度显示可变性的作品相比较。由于某些可重复作品可以从一次“通关”到下一次“通关”而以截然不同的方式结束，就不存在单一的、正确的显示。相反，这类作品既由多种显示类型、又由多个显示构成，这意味着用户每次重复该作品时，都将生成可能的显示类型之一（及其显示）。
+    step2: |-
+      由此可简要推得如下情形：数字照片一类作品在本体论上近似于戏剧与音乐，因为它们由一种规定的显示类型构成。显示类型虽可容许多个显示（复本、演出、实例等），诸具体例记之间容有细微差异，但仍有一种正确显示应予维持或达成。《远程花园》《立方》这类例现一系列状态的作品，则由多种可能的显示类型构成，而在任一给定时刻只例现一种。《立方》之外，再把它与电子游戏一类呈现前述强程度显示变异性者相较。某些可重复作品既可从一次“通关”至下一次“通关”而以霄壤之别收场，便不存在唯一的、正确的显示。相反，这类作品既由多种显示类型、又由多个显示构成：用户每重复一次，便生成诸可能显示类型之一（及其显示）。
   - id: 68
     kind: body
     source: |-
       According to Katherine Thomson-Jones (2021), there is a problem with Preston’s claim that interactive artworks — at least ones that are digital — have multiple display types, as well as multiple displays. This is because the digital is inherently replicable and replicability requires a transmissible display — a single display type that can have multiple, interchangeable instances. This seems to introduce a problem of incompatibility: How can we have an image whose instances still count as instances of the same image-based work when those instances, in virtue of users’ actions, look very different from one another? There are various ways one might overcome this problem — for example, by distinguishing between the display of an image and the display of an artwork that incorporates the image in question. Preston’s distinction between display and display type can continue to play a role here. While the concept of interactivity with high variability is mostly applicable to videogames, one can imagine interactive digital installations, net art, and table-top roleplaying games to which it also applies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      据 Katherine Thomson-Jones（2021），Preston 关于交互性艺术作品——至少是数字的交互性作品——有多重显示类型以及多重显示的主张有一个问题。这是因为数字的固有可复制性，而可复制性要求一种可传输的显示——一种可以有多个可互换实例的单一显示类型。这似乎引出一个不相容问题：当一幅图像的实例由于其用户的操作而彼此看起来大不相同，我们如何能有一个其实例仍算作同一件基于图像作品之实例的图像？人们可以通过各种方式克服这个问题——例如，区分一幅图像的显示与把所论图像纳入其中的那件艺术作品的显示。Preston 对显示与显示类型的区分，在这里可以继续发挥作用。虽然高可变性交互性的概念主要适用于电子游戏，人们也可以设想同样适用的交互性数字装置、网络艺术与桌面角色扮演游戏。
+    step2: |-
+      据 Katherine Thomson-Jones（2021），Preston 的主张——交互性艺术作品，至少是数字的交互性作品，兼具多重显示类型与多重显示——有一处疑难。原因在于数字者固有可复制性，而可复制性要求一种可传输的显示：一种可有多个可互换实例的单一显示类型。这似乎引出不相容：当一幅图像的诸实例因用户操作而彼此大相径庭，我们如何还能有一个图像，其实例仍算作同一件基于图像之作品的实例？此疑难可有多种化解之道——例如，区分一幅图像的显示，与把该图像收入其中的艺术作品的显示。Preston 关于显示与显示类型的区分，在此仍可发挥作用。高可变性交互性这一概念虽主要用于电子游戏，交互性数字装置、网络艺术与桌面角色扮演游戏，亦不妨设想同蒙其用。
   - id: 69
     kind: body
     source: |-
       It is important to reiterate that the strong interactivity just described is not restricted to the digital. Whilst interactivity is a standard feature of many contemporary digital works, and the responsiveness of such works is remarkable, non-digital appreciative categories can also exploit a similar degree of display variability. For example, literature, theater, and tabletop role-playing games can be strongly interactive in ways similar to many digital artworks. What is unique about all such works are the ways in which things like immersion, agency, identity, and fiction, to list a few features, are impacted by interactivity, due to the user’s role in the work (for more, see Robinson & Tavinor 2018; Patridge 2017; Meskin & Robson 2016)[^patridge-2017][^robson-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      应当重申，刚才描述的强交互性并不限于数字。虽然交互性是许多当代数字作品的标准特征，这类作品的可回应性也的确惊人，非数字的欣赏范畴同样能利用类似程度的显示变异性。例如，文学、戏剧与桌面角色扮演游戏也能像许多数字艺术作品那样，以类似方式强交互。凡此种种作品的独特之处，在于沉浸、能动性、身份与虚构（略举数端）这类特征因用户之于作品的参与而受交互性影响的方式（欲知更多，见 Robinson & Tavinor 2018; Patridge 2017; Meskin & Robson 2016）[^patridge-2017][^robson-2016]。
+    step2: |-
+      应当重申，刚才所述的强交互性并不限于数字。交互性固是许多当代数字作品的标准特征，这类作品的可回应性也确实可惊；然而非数字的欣赏范畴，同样能施展相近程度的显示变异性。例如文学、戏剧与桌面角色扮演游戏，皆能像许多数字艺术作品那样强交互。凡此类作品之独特处，在于沉浸、能动性、身份与虚构等特征（略举数端），因用户之参与作品而受交互性影响的方式（欲知其详，见 Robinson & Tavinor 2018; Patridge 2017; Meskin & Robson 2016）[^patridge-2017][^robson-2016]。
   - id: 70
     kind: body
     source: |-
       A noteworthy point about the concepts presented above is that they are all conceived with the norms of traditional art and art practices in mind, meaning, works of art that are predominantly object-based. However, as described, interactive digital works can be said to have a “behavior” based on prescribed interactions. While traditional artworks typically emphasize a work that is complete prior to audience engagement, interactive works emphasize the moment-to-moment unfolding of the works by way of audience engagement. One recent approach to the ontology of art suggests that interactive works (among other kinds) are better conceived on a process-based, rather than on an object-based, model (Nguyen 2020)[^nguyen-2020]. A key difference between the two models is that the former focuses on the user’s actions and experiences or “inward aesthetics”, while the latter focuses on the “outward” aesthetic features of the self-contained object (Nguyen 2020: 25)[^nguyen-2020]. While a process-based account prioritizes the internalizability of a user’s actions, it does not completely give up the idea of an artistic object. Rather, it renders the object’s significance secondary insofar as any appreciation for a work’s objecthood is in service to the activities it permits (Nguyen 2020: 20)[^nguyen-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于上述概念，值得注意的一点是：它们都是本着传统艺术与艺术实践的规范构想的，也就是说，以客体为主的作品。然而如前所述，交互性数字作品可以说具有一种基于规定交互的“行为”。传统艺术作品通常强调在观众介入之前即已完成的作品，而交互性作品则强调借观众介入而逐步展开的作品。一种关于艺术本体论的晚近进路认为，交互性作品（以及其他种类的作品）更适合以过程为基础、而非以客体为基础的模型来构想（Nguyen 2020）[^nguyen-2020]。两个模型的一个关键差别是：前者聚焦于用户的行动与经验，即“内向美学”，而后者聚焦于自足客体的“外向”审美特征（Nguyen 2020: 25）[^nguyen-2020]。过程性说明虽优先考虑用户行动的可内化性，却并未完全放弃艺术客体的观念。毋宁说，它使客体的意义变得次要，因为对作品客体性的一切欣赏，都服务于它所能容许的活动（Nguyen 2020: 20）[^nguyen-2020]。
+    step2: |-
+      上述诸概念值得注意的一点是：它们都依传统艺术与艺术实践的规范而构想，也就是说，以客体为主的作品。然而如前所述，交互性数字作品可谓有一种基于规定交互的“行为”。传统艺术作品通常侧重在观众介入之前便已完成的作品，交互性作品则侧重借观众介入而逐刻展开的作品。晚近一种艺术本体论进路主张，交互性作品（以及别类作品）更宜按过程性模型、而非客体性模型来构想（Nguyen 2020）[^nguyen-2020]。两模型的关键差别在于：前者聚焦用户的行动与经验，即“内向美学”；后者聚焦自足客体的“外向”审美特征（Nguyen 2020: 25）[^nguyen-2020]。过程性说明虽以用户行动之可内化性为先，却未全然弃置艺术客体之观念；毋宁说，它令客体之意义退居次要——凡对作品客体性的欣赏，皆服务于它所能容许的活动（Nguyen 2020: 20）[^nguyen-2020]。
   - id: 71
     kind: body
     source: |-
       ### 4.3 Interactivity and Creativity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 Interactivity and Creativity
+    step2: |-
+      ### 4.3 交互性与创造性
   - id: 72
     kind: body
     source: |-
       Just as the case of digital art can enrich our understanding of interactivity, so it can enrich our understanding of artistic creativity and creative attribution. This is in part because the issues of interactivity and creativity are closely related. In making a work that is strongly interactive, an artist cedes to the user a certain amount of control in determining the look, sound, or structure of the work’s display(s). This raises a question about the user’s opportunities to be creative — to engage in creative interactions with a work — and how these opportunities can be supported or constrained by the artist’s design. In order to answer this question, we need to unpack the notion of creative control. In addition, we need to consider how creativity can be attributed to multiple agents involved at different stages of a work’s production. As it turns out, the case of AI art is particularly useful when considering the conditions of creativity and creative collaboration.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如数字艺术的情形可以丰富我们对交互性的理解，它也能丰富我们对艺术创造性及创造性归属的理解。部分原因在于，交互性与创造性这两个问题密切相关。在制作一件强交互性作品时，艺术家把确定作品显示的外观、声音或结构的某种控制权让渡给用户。这引出一个问题：用户获得创造性——与作品进行创造性交互——的机会如何，这些机会又如何能受艺术家设计的支持或约束。为回答这个问题，我们需要拆解创造性控制的概念。此外，我们还需考虑，在作品制作的不同阶段，创造性如何能归属于多个行动者。事实证明，在考虑创造性与创造性合作的条件时，AI 艺术的情形特别有用。
+    step2: |-
+      正如数字艺术的情形可丰富我们对交互性的理解，它也能丰富我们对艺术创造性及创造性归属的理解。部分缘由在于，交互性与创造性两问题紧相连属。制作一件强交互性作品时，艺术家把确定显示之外观、声音或结构的某种控制权，让渡给用户。这便引出一问：用户获致创造性——与作品作创造性交互——的机会如何？这些机会又如何受艺术家设计的扶助或约束？欲答此问，须先拆解创造性控制这一概念；此外，还须思量创造性如何归属到作品制作各阶段上的多个行动者。事有凑巧：考察创造性与创造性合作的条件时，AI 艺术的情形格外有用。
   - id: 73
     kind: body
     source: |-
       There is already a robust debate about the nature of creativity as it occurs in many different areas of human activity (see, e.g., Gaut & Kieran, eds., 2018; Paul & Kaufman, eds., 2014) There is a case to be made, however, that this debate can be enriched by drawing on work in the philosophy of AI. In everyday life, sophisticated AI systems are now being used for all kinds of purposes: We rely on these systems when we use Internet search engines, play strategic videogames, accept purchasing recommendations from online retailers, and check for viruses on our computers. In addition, we can use AI to generate new images and text, some of which can be incorporated into works of art. One can type a series of prompts into a chatbot like ChatGPT in order to generate a new screenplay in a certain genre. Similarly, one can assemble a set of images on which to train an “artbot” like MidJourney in order to generate paintings, drawings, or what look like photographs. It is common to attribute creative agency to the person who purposively initiates, and then monitors, the program used to generate the images or text that make up a work of AI art. A question remains, however, as to whether this should be the *sole* creative attribution when AI is involved. Some artists describe the AI system with which they work as a creative “partner”, and not just a sophisticated artistic tool. This is particularly the case with recent artworks that rely on “Deep Learning” (DL) to generate images or text in a remarkably independent way. Both chatbots and artbots rely on deep learning to categorize huge datasets (images or text) according to previously undetected patterns. To do this, a DL system must give itself new instructions — ones that depart from the initial instructions of the program — for the kind of image or text segment, and for the particular image or text segment, to be produced.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于创造性——如它发生于人类活动的许多不同领域中的那样——的性质，已经有一场强劲的争论（例如见 Gaut & Kieran 编，2018; Paul & Kaufman 编，2014）。然而有一种理由认为，这场争论可以借 AI 哲学的工作而得到丰富。日常生活中，精密复杂的 AI 系统如今被用于各种各样的目的：当我们使用互联网搜索引擎、玩策略性电子游戏、接受在线零售商的购买推荐、查杀计算机病毒时，都依赖这些系统。此外，我们还能用 AI 生成新的图像与文本，其中一些可以纳入艺术作品。人可以在 ChatGPT 这样的聊天机器人中输入一系列提示词，以生成某一类型的新剧本。类似地，人可以汇集一组图像来训练 MidJourney 这样的“艺术机器人”，以生成绘画、素描或看上去像照片的东西。人们通常把创造性能动性归属于有意发起并随后监控该程序的人，该程序被用来生成构成一件 AI 艺术作品的图像或文本。然而仍有一个问题：当 AI 介入时，这是否应当是唯一的创造性归属。一些艺术家把他们与之共事的 AI 系统描述为创造性的“伙伴”，而不仅仅是一件精密的艺术工具。对于近期依赖“深度学习”（DL）以极其独立的方式生成图像或文本的艺术作品，情况尤其如此。聊天机器人与艺术机器人皆依赖深度学习，按此前未被察觉的模式对庞大数据集（图像或文本）加以分类。为此，一个 DL 系统必须给自己下达新的指令——偏离程序初始指令的指令——规定要生成的图像或文本片段的种类，以及具体的图像或文本片段。
+    step2: |-
+      关于创造性之性质——如它发生于人类活动的众多领域那样——已有强劲的争论（例如见 Gaut & Kieran 编，2018; Paul & Kaufman 编，2014）。然而有理由认为，此争论可借 AI 哲学的工作而更形丰赡。日常生活中，精密的 AI 系统如今用于种种目的：使用互联网搜索引擎、玩策略性电子游戏、接受在线零售商的购买推荐、查杀计算机病毒，皆倚仗这些系统。此外，我们还能用 AI 生成新的图像与文本，其中一些可纳入艺术作品。人可以在 ChatGPT 之类的聊天机器人里输入一串提示词，生成某类型的新剧本；类似地，人可以汇集一组图像来训练 MidJourney 之类的“艺术机器人”（artbot），以生成绘画、素描，或看似照片的东西。人们通常把创造性能动性归给那位有意发起、继而监控该程序的人，程序则用以生成构成 AI 艺术作品的图像或文本。然而问题仍在：AI 介入时，这是否应是唯一的创造性归属？一些艺术家把与之共事的 AI 系统描述为创造性的“伙伴”，而不只是一件精密的艺术工具。近期依赖“深度学习”（DL）以极独立的方式生成图像或文本的作品，尤其如此。聊天机器人与艺术机器人皆依赖深度学习，按此前未被察觉的模式对庞大数据集（图像或文本）加以分类。为此，DL 系统必须给自己下达新的指令——偏离程序初始指令者——以规定将生成的图像或文本片段之类，以及具体的图像或文本片段。
   - id: 74
     kind: body
     source: |-
       Among AI artists, the ones who write their own DL programs are the most likely to describe AI as a creative partner rather than just a creative tool. This seems particularly fitting when there is a synchronous collaboration between the artist and their DL system. For example, the works of Sougwen Chun are the result of Chun drawing alongside and in response to the actions of a mechanical drawing arm that is controlled by Chun’s custom-made program, D.O.U.G. (short for “Drawing Operations Unity Generation *X*”). Chun and D.O.U.G. take turns adding to a single drawing. During this process, it is harder than one might think to say what makes the difference such that Chun is a creative agent, engaged in a creative drawing process, and D.O.U.G. is not. This is the case even though it is Chun alone who comes up with the idea for the work and initiates the drawing program.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 AI 艺术家中，编写自己的 DL 程序的人，最可能把 AI 描述为创造性的伙伴而非仅仅是创造性的工具。当艺术家与其 DL 系统之间存在同步合作时，这似乎尤为贴切。例如，Sougwen Chun 的作品，就是 Chun 与一条机械绘画臂并排作画、并回应后者动作的结果；那条绘画臂由 Chun 定制的程序 D.O.U.G.（“Drawing Operations Unity Generation *X*”的简称）控制。Chun 与 D.O.U.G. 轮流为同一幅画增添内容。在此过程中，要说明是什么造成了这样的差别——使 Chun 成为从事创造性绘画过程的创造性行动者，而 D.O.U.G. 不是——比人们所想的要难。即便唯有 Chun 独自想出了作品的构想并启动了绘画程序，情况也是如此。
+    step2: |-
+      在 AI 艺术家中，自写 DL 程序者最可能把 AI 描述为创造性的伙伴，而非仅仅是一件创造性工具。当艺术家与其 DL 系统同步合作时，此说尤为贴切。例如，Sougwen Chun 的作品，便是 Chun 与一条机械绘画臂并肩作画、并对后者的动作作出回应的产物；这条绘画臂由 Chun 定制的程序 D.O.U.G.（“Drawing Operations Unity Generation *X*”之简称）操控。Chun 与 D.O.U.G. 轮流为同一幅画添笔。此过程中，要说清是何差别使 Chun 成为从事创造性绘画过程的创造性行动者、而 D.O.U.G. 不然，比人想象的要难——纵使构想唯出于 Chun 一人，绘画程序亦唯由她启动。
   - id: 75
     kind: body
     source: |-
       As Margaret Boden has argued (2014), when philosophers deny the possibility of a computer ever being creative, they tend to underestimate the capacities of computers to produce items that are genuinely new as well as valuable in some domain. Still, many creativity theorists argue that novelty and value are insufficient for creativity; a third condition is needed, one concerning the manner of production. In order for something novel and valuable to count as creative, it must have been produced in a way that is agent-driven. The agency condition can be filled out, or broken down, in a variety of ways. At its core, however, the notion of agency is generally assumed to be opposed to the notion of having been ‘programmed’, or simply instructed, to perform certain tasks in a “mechanical”, or blind, fashion. Thus, the most basic objection to the possibility of creative computers is that they can only do what they are programmed to do, according to the intentions of a human agent. This objection needs clarification, however, since no set of rules completely determines the actions involved in following that set of rules. Since the advent of DL and other kinds of generative algorithm, it is possible for a computer program to change itself, to detect independent phenomena other than the ones that it was designed to detect, and to mimic spontaneity through randomness. Is this an instance of creative rule-following? If it is, we might expand our notion of creative collaboration. Perhaps creative collaboration is found, not just between human beings, but also between human beings and machines. In so far as the machines in question support strong interactivity, a work of digital art might involve three-part collaborations between human artists, human users, and AI.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 Margaret Boden 所论证的（2014），当哲学家否认计算机有可能具有创造性时，他们往往低估了计算机在某些领域中产生真正新颖且有价值之物的能力。尽管如此，许多创造性理论家论证说，新颖与价值不足以构成创造性；还需要第三个条件，一个关于生产方式的条件。要使某种新颖而有价值之物算作创造性的，它必须以一种由行动者驱动的方式被生产出来。能动性条件可以各种方式充实或拆解。然而其核心，能动性概念一般被假定与“被编程”、或被简单指令以“机械”或盲目的方式执行某些任务的概念相对立。于是，对创造性计算机之可能性的最基本反驳是：计算机只能按人类行动者的意图，做它们被编程去做的事。然而这一反驳需要澄清，因为没有哪套规则能完全决定遵循该套规则所涉及的行动。自 DL 及其他种类的生成算法问世以来，计算机程序有可能改变自身，探测其设计目的之外的独立现象，并借随机性模仿自发性。这是创造性地遵循规则的一个实例吗？若是，我们或许可以扩展创造性合作的概念。也许创造性合作不仅见于人与人之间，也见于人与机器之间。就所论机器支持强交互性而言，一件数字艺术作品可以涉及人类艺术家、人类用户与 AI 之间的三方合作。
+    step2: |-
+      诚如 Margaret Boden 所论（2014），哲学家否认计算机可能具有创造性时，往往低估了计算机在某些领域中产出真正新颖且有价值之物的能力。尽管如此，许多创造性理论家仍主张：新颖与价值尚不足以构成创造性，还须第三个条件——一个关乎生产方式的条件。某物欲以新颖而有价值之身算作创造性的，其产出方式必须由行动者驱动。能动性条件可作种种充实或拆解；然其核心在于：能动性概念一般被假定与“被编程”、或径受指令以“机械”而盲目之方式执行任务的概念相对。于是，非难创造性计算机之可能性的最根本一诘是：计算机只能按人类行动者的意图，做被编程去做之事。然而此诘须加澄清——因为没有哪套规则能完全决定遵循该规则所涉的行动。自 DL 与其他生成算法问世以来，计算机程序已能自我改变，探测其设计目的之外的独立现象，并借随机性摹仿自发性。这算不算创造性地遵循规则？若算，我们或可拓宽创造性合作的概念：创造性合作也许不仅存于人与人之间，也存于人与机器之间。就所论机器支持强交互性而言，一件数字艺术作品可以涉及人类艺术家、人类用户与 AI 之间的三方合作。
   - id: 76
     kind: body
     source: |-
       ## 5. Locative Art
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. Locative Art
+    step2: |-
+      ## 5 定位艺术
   - id: 77
     kind: body
     source: |-
       Digital media can also be used for the purpose of connecting physical locations to virtual ones by using locative media. The phrase “locative art” is traced to Karlis Kalnins who applied the phrase to experimental projects coming from Locative Media Lab, a collective of international researchers and practitioners working with locative media. (Galloway & Ward 2005 )[^galloway-2005]. Since the term “locative” is connected to location, site-specificity plays a significant role in our appreciation of locative works. Unlike with non-digital cases, however, site-specificity in locative art is both physical and virtual. The general concept is this: locative-specific media connect physical spaces with virtual ones, the perceptual features of which are generated from a digital device by human interactions. We often experience locative media in our ordinary and daily lives through navigation systems like Google Maps or Waze, and also creatively through augmented reality apps like Pokemon Go, AR graffiti (an app that allows users to visualize what their graffiti will look like *in situ*), architectural simulators, and more. These are location-based works, often called locative projects or locative art, that use locative media. While locative technology has been around for decades, it is a relatively new subcategory to be recognized within the arts. Even so, locative art is more broadly acknowledged in the fields of technology, games, and sociology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数字媒体也可以借定位媒体把物理地点与虚拟地点连接起来，用于此目的。“定位艺术”（locative art）一语可追溯到 Karlis Kalnins，他把这一说法用于来自 Locative Media Lab 的实验项目——这是一个由国际研究者与实践者组成的、以定位媒体为工作对象的团体（Galloway & Ward 2005）[^galloway-2005]。“定位”一词与位置相连，因此特定场域性在我们对定位作品的欣赏中扮演重要角色。然而与非数字情形不同，定位艺术中的特定场域性既是物理的又是虚拟的。一般概念是这样的：定位特定的媒体把物理空间与虚拟空间连接起来，后者的知觉特征由数字设备经由人的交互而生成。我们在日常普通生活中常常通过 Google Maps 或 Waze 这样的导航系统体验定位媒体，也通过 Pokemon Go、AR 涂鸦（一款让用户可视化其涂鸦*就地*看起来会怎样的应用）、建筑模拟器等富有创意地体验它。这些都是基于地点的作品，常被称为定位项目或定位艺术，它们使用定位媒体。虽然定位技术已存在数十年，它仍是艺术中获得承认的相对较新的子类别。即便如此，定位艺术在技术、游戏与社会学领域得到更广泛的承认。
+    step2: |-
+      数字媒体还可借定位媒体，把物理地点与虚拟地点连接起来，以达此用。“定位艺术”（locative art）一语可溯至 Karlis Kalnins：他把此语用于 Locative Media Lab 的实验项目——那是一个由国际研究者与实践者组成、以定位媒体为业的团体（Galloway & Ward 2005）[^galloway-2005]。“定位”既与位置相连，特定场域性便在我们欣赏定位作品时扮演要角。然而不同于非数字情形，定位艺术中的特定场域性兼为物理的与虚拟的。其一般构想是：定位特定的媒体把物理空间与虚拟空间连接起来，后者的知觉特征由数字设备经人的交互而生成。日常起居中，我们常借 Google Maps、Waze 之类导航系统体验定位媒体；亦借 Pokemon Go、AR 涂鸦（一款让用户预见自己涂鸦*就地*呈现何等模样的应用）、建筑模拟器等，以富于创意的方式体验它。凡此皆基于地点的作品，常称定位项目或定位艺术，所用者即定位媒体。定位技术虽已存在数十年，在艺术中获得承认却仍是较新的子类别；即便如此，定位艺术在技术、游戏与社会学诸领域反倒广受承认。
   - id: 78
     kind: body
     source: |-
       To understand the many ways locative media might be used for artistic practice, consider the following three examples.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      To understand the many ways locative media might be used for artistic practice, consider the following three examples.
+    step2: |-
+      欲知定位媒体可用于艺术实践的种种方式，试看下列三例。
   - id: 79
     kind: body
     source: |-
       - What Was There (2010–2023) was a website that allows users to type in the coordinates of their current location (via their digital device) to see how certain geographical locations look throughout history. By typing a specific address into the application, the user experiences the physical location in front of them and represented images and facts of that location as they appeared in the past, from the same vantage point. Data on the site relies on regular citizens to upload historic images and connect them to specific locations, making them accessible to others; the greater the participation the richer the experience when navigating a particular place. Not only can guests gain a deeper connection to their specific localized places, but such applications motivate people to explore and appreciate locations outside of their normal destinations.
       - The Transborder Immigrant Tool has been used in a number of artworks and exhibitions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 《彼处曾有何物》（*What Was There*，2010–2023）是一个网站，允许用户输入其当前位置的坐标（通过其数字设备），以查看某些地理位置在历史中如何变迁。通过把具体地址输入应用，用户会把眼前的物理地点与从同一视点呈现的该地点过去样貌的图像与事实并置体验。网站数据依赖普通公民上传历史图像并将其与具体地点相连，使他人可访问；参与越多，在特定地点导航时的体验越丰富。客人不仅能与其特定的本地场所建立更深的联系，此类应用还激励人们去探索和欣赏其日常目的地之外的地点。
+      - 跨境移民工具（The Transborder Immigrant Tool）已在若干艺术作品与展览中使用。
+    step2: |-
+      - 《彼处曾有何物》（*What Was There*，2010–2023）是一网站，用户可输入其所在位置之坐标（经其数字设备），查看某些地理位置在历史上是何模样。把具体地址键入应用，用户便能在眼前实景与自同一视点呈现的该地往昔图像、事实之间往返体验。网站数据倚赖普通公民上传历史图像，并将其与具体地点相连，供他人访问；参与者愈众，于特定地点游历的体验愈丰。访客不仅可与本地场所结成更深因缘，此类应用还促人去探索、欣赏日常目的地之外的地点。
+      - 跨境移民工具（The Transborder Immigrant Tool）已用于多件艺术作品与展览。
   - id: 80
     kind: body
     source: |-
       > The Transborder Immigrant Tool, devised by Electronic Disturbance Theater 2.0/b.a.n.g. lab, was a mobile phone application intended to guide individuals who were making their way to the United States through the deserts of the U.S./Mexico borderlands to water. The application delivered poetry to its users in an effort to assist in their emotional and mental well-being while offering information about survival during the dangerous journey.
       >
       > The creators of The Transborder Immigrant Tool considered it to be a performance intervention that included the app itself, its API, public reactions, and an ensuing government investigation. By the time TBT was ready for distribution in 2011, the border crossing had become more dangerous, presenting the risk that carrying a TBT phone might put users in danger. While the project was never distributed to its intended users, it still succeeded in confounding systems of political control, creating a call to action that resonated internationally, and using poetry to “dissolve” the US-Mexico border (Electronic Disturbance Theater 2.0 et al 2007)[^electronic-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 跨境移民工具由 Electronic Disturbance Theater 2.0/b.a.n.g. lab 设计，是一款手机应用，意在为取道美墨边境沙漠前往美国的人指路寻水。应用向用户传送诗歌，以助其情绪与精神安宁，同时提供在危险旅程中求生的信息。
+      >
+      > 该工具的作者视之为一场表演性干预，包括应用本身、其 API、公众反应，以及随后引发的政府调查。到 2011 年 TBT 准备分发时，越境已变得更为危险，随身携带一部 TBT 手机可能使用户陷入险境。项目虽从未分发给其目标用户，却仍成功搅乱了政治控制体系，激起国际共鸣的行动呼吁，并以诗歌“消解”了美墨边界（Electronic Disturbance Theater 2.0 et al 2007）[^electronic-2007]。
+    step2: |-
+      > 跨境移民工具由 Electronic Disturbance Theater 2.0/b.a.n.g. lab 设计，是一款手机应用，意在为取道美墨边境沙漠赴美之人指路寻水。应用向用户递送诗篇，以扶助其情绪与精神安康，同时提供危险旅途中的求生讯息。
+      >
+      > 此工具的制作者视之为一场表演性干预，涵盖应用本身、其 API、公众反响，以及 ensuing 的政府调查。待 2011 年 TBT 准备分发时，越境已愈发凶险，随身携带 TBT 手机或押用户于险地。项目虽从未分发给原定用户，却仍成功搅乱了政治控制体系，激起国际共鸣的行动号召，并以诗篇“消解”美墨边界（Electronic Disturbance Theater 2.0 et al 2007）[^electronic-2007]。
   - id: 81
     kind: body
     source: |-
       - KlingKlangKlong is played with smartphones that translate the players’ locations into sound. This is achieved in a straightforward manner: By moving through the physical space, the players simultaneously move on the surface of a virtual sequencer. One dimension (usually the latitude of the player) corresponds to pitch, the other dimension (longitude) is mapped to the time-position on the sequencer. The interface allows a manual switch to other audio parameters, although this feature is experimental. Each device receives the location and state changes of the currently active players almost instantly. The devices are connected by a central server, which also sets the boundaries of the playing field and manages the virtual players.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - KlingKlangKlong 用把玩家位置转译为声音的智能手机来玩。这以直截了当的方式达成：通过在物理空间中移动，玩家同时在虚拟音序器的表面上移动。一个维度（通常是玩家的纬度）对应音高，另一个维度（经度）映射到音序器上的时间位置。界面允许手动切换到其他音频参数，尽管该功能是实验性的。每台设备几乎即时接收当前活跃玩家的位置与状态变化。设备由一个中央服务器连接，该服务器也设定演奏场地的边界并管理虚拟玩家。
+    step2: |-
+      - KlingKlangKlong 借智能手机游玩，手机把玩家位置译为声音。此法直截了当：玩家在物理空间中穿行，同时也在虚拟音序器的表面上移动。一个维度（通常是玩家的纬度）对应音高，另一个维度（经度）映射到音序器上的时间位置。界面容许手动切换其他音频参数，唯此功能尚属实验。每台设备几乎即时接收当前活跃玩家的位置与状态变化；设备由一台中央服务器连接，服务器并划定演奏场地之边界、管理虚拟玩家。
   - id: 82
     kind: body
     source: |-
       > KlingKlangKlong serves as an experimental arrangement to explore the idea of playful (social) systems, a construction where human and virtual subsystems play with each other. In addition to the human participants, it therefore deploys a number of virtual players (»Virtuals«). Humans and Virtuals meet each other in mixed reality, a concept that was realized in early locative games. The commonly created soundtrack is the primary medium of communication between the players. Musical structures may temporarily arise through synchronized movements or be destroyed by any player’s intervention (Straeubig & Quack 2016)[^straeubig-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > KlingKlangKlong 作为一个实验性安排，用以探索带游戏性的（社会）系统的理念，一种人类子系统与虚拟子系统相互游戏的构造。因此，除人类参与者之外，它还部署若干虚拟玩家（»Virtuals«）。人与 Virtuals 在混合现实中相会，这一概念早在定位游戏的萌芽中即已实现。共同创造的配乐是玩家之间交流的首要媒介。音乐结构可以借同步运动暂时形成，也可被任何玩家的介入所破坏（Straeubig & Quack 2016）[^straeubig-2016]。
+    step2: |-
+      > KlingKlangKlong 作为一种实验性安排，用以探索带游戏性的（社会）系统这一理念——一种人与虚拟子系统相互嬉戏的构造。因此，除人类参与者外，它还部署若干虚拟玩家（»Virtuals«）。人与 Virtuals 在混合现实中相遇，此概念早在定位游戏的萌芽阶段即已实现。共同营造的配乐是玩家之间交流的首要媒介。音乐结构可借同步运动暂现，亦可因任一玩家的介入而崩解（Straeubig & Quack 2016）[^straeubig-2016]。
   - id: 83
     kind: body
     source: |-
       In each of these examples, users synchronize geographical locations with virtual ones, granting mobility for users while also further challenging the paradigm of museum-driven works and art appreciation. The interactivity described in section 4 factors significantly into each of these projects, but also of importance are the social, economic, environmental, and political implications that factor in the design, development, and use of such works. Most of these projects are intended to bring about positive change, one way or another, by using locative media and by borrowing certain gaming mechanics for the purpose of engagement and interactivity. In fact, much of what is written about locative art is from fields within digital media studies on the media’s ‘playable’ qualities (avoiding the idea that artists are trying to merely gamify public spaces).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在上述每个例子中，用户把地理位置与虚拟位置同步，赋予用户移动性，同时也进一步挑战了以博物馆为中心的作品与艺术欣赏范式。第 4 节所述的交互性在每一个项目中都占有重要分量，但同样重要的是社会、经济、环境与政治意涵，它们也参与这类作品的设计、开发与使用。这些项目大多意在通过定位媒体、借某种游戏机制以促成参与和交互，从而以某种方式带来积极的改变。事实上，关于定位艺术的许多文字，出自数字媒介研究领域对媒体“可玩”品质的探讨（避免认为艺术家只是试图把公共空间游戏化）。
+    step2: |-
+      上述各例中，用户把地理位置与虚拟位置同步，既赋予自己移动性，也进一步挑战了以博物馆为中心的作品与欣赏范式。第 4 节所述的交互性在各项目中分量皆重；同样要紧的，是那些左右此等作品之设计、开发与使用的社会、经济、环境与政治意涵。这些项目多半意在借定位媒体、借某些游戏机制以促成参与和交互，从而以某种方式带来积极的改变。实则，论定位艺术的文字，大多出自数字媒介研究领域对媒体“可玩”品质的探讨——彼处刻意回避了“艺术家只是想把公共空间游戏化”这种说法。
   - id: 84
     kind: body
     source: |-
       On the playable nature of locative art, Miguel Sicart says,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      On the playable nature of locative art, Miguel Sicart says,
+    step2: |-
+      关于定位艺术的可玩性质，Miguel Sicart 说：
   - id: 85
     kind: body
     source: |-
       > the data produced and used in smart cities should not necessarily be presented as a utility for citizens. It should be presented as a prop for play, as games but also as the source for toys and playgrounds. Data-rich cities can become playable cities, and, by becoming such, they can become more human, more inclusive spaces (Ackermann: 2016, 27)[^ackermann-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 智慧城市中生产与使用的数据，不一定要呈现为对市民的实用工具。它应当被呈现为游戏的道具，既作为游戏，也作为玩具与游乐场的来源。数据丰富的城市可以成为可玩的城市，而一旦如此，它们便可成为更具人情味、更具包容性的空间（Ackermann: 2016, 27）[^ackermann-2016]。
+    step2: |-
+      > 智慧城市所生产、所使用的数据，不必非要呈现为对市民的公用设施不可。它应当呈现为游戏的道具：既是游戏，也是玩具与游乐场之源头。数据丰饶的城市可以化为可玩的城市；一旦如此，它们便更有人情味、更具包容性（Ackermann: 2016, 27）[^ackermann-2016]。
   - id: 86
     kind: body
     source: |-
       Once again, the process-oriented and performative nature of locative works is central to appreciating the spaces they create. In connection with the playability of locative media, locative projects are also modifiable and typically intended to be hackable by the public in the communities where they are displayed. While the terms “hacker” and “hacking” may carry negative connotations, in its original conception, the practice of hacking was meant to improve upon existing computer programs, acknowledging the achievements of both the original creator and subsequent revisionists (Levy:1984)[^levy-1984]. It is in this vein that locative projects are usually intended to change and improve over time given how users “play” with the data and inputs. In other words, local communities can play with these projects and even modify them, making locative works as relevant and reflective of the community as possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      再次，定位作品的过程导向与表演性，对于欣赏它们所创造的空间是核心的。与定位媒体的可玩性相联系，定位项目也是可修改的，且通常意在为展示所在社区的公众所黑客。虽然“黑客”与“黑入”这些词或许带有负面含义，但就其原初构想而言，黑客实践意在改进既有的计算机程序，承认原初创造者与后续修订者的成就（Levy:1984）[^levy-1984]。正是循此脉络，定位项目通常意在随着用户对数据与输入的“摆弄”而随时间改变与改进。换言之，本地社区可以摆弄这些项目甚至修改它们，使定位作品尽可能与社区相关并反映社区。
+    step2: |-
+      再次，定位作品的过程导向与表演性，对于欣赏其所创造的空间至关紧要。与定位媒体的可玩性相系，定位项目亦可修改，且通常意在被展示地社区的公众所黑客。虽说“黑客”与“黑入”或含贬义，但推其原初构想，黑客实践本意在改进既有的计算机程序，并承认原初创造者与后续修订者双方的成就（Levy:1984）[^levy-1984]。定位项目正是循此脉络，通常意在随用户对数据与输入的“摆弄”而历时演变、日渐改进。换言之，本地社区可以摆弄甚至修改这些项目，使定位作品尽可能地贴近社区、映现社区。
   - id: 87
     kind: body
     source: |-
       The above suggests that locative projects often have broader goals than mere entertainment. Although often intended to motivate play and playful attitudes, which, as indicated in the examples above can occur to varying degrees, the goal-oriented nature of locative works often makes the kind of play involved a “serious” kind. Serious play occurs when the enjoyment and pleasure that come from play do not just comprise entertainment but also serve some meritorious, real-world goal. A work can be said to support serious play even when users are not aware of the social or political goals of the work.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上述表明，定位项目往往有比单纯娱乐更广的目标。虽然它们常常意在激发游玩与游戏性的态度——如上文诸例所示，这可以在不同程度上发生——但定位作品的目标导向性，往往使所涉游玩成为一种“严肃”的游戏。严肃游戏发生于游玩带来的享受与愉悦不仅构成娱乐，还服务于某种值得称许的现世目标之时。即便用户并不知晓作品的社会或政治目标，一件作品仍可以被说成支持严肃游戏。
+    step2: |-
+      上述种种表明，定位项目往往有比单纯娱乐更宏阔的目标。它们固然常意在激发游玩与游戏性的态度——如上文诸例所示，程度不等——但定位作品的目标导向性，常令所涉游玩沦为“严肃”之游。所谓严肃游戏，即游玩的享受与愉悦不止于娱乐，而是另有值得称许的现世目标。纵使用户对作品的社会或政治目标浑然不觉，一件作品仍可说是在支持严肃游戏。
   - id: 88
     kind: body
     source: |-
       The customizable nature of locative media lends itself well to the altruistic aims of many locative artists. However, inclusivity, climate protection, social change, and any other desired effect of locative projects requires a given community to have sufficient funds for, access to, and user-knowledge about digital locative technology. This concern can also be understood, not just in terms of community requirements, but also in terms of technological requirements, for successful locative art. One way of putting it is as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      定位媒体的可定制性，恰好契合许多定位艺术家的利他意图。然而，包容、气候保护、社会变革，以及定位项目所期望的任何其他效果，都要求某一给定社区有充足的资金、可及的渠道以及对数字定位技术的用户知识。这一关切不仅可以从社区要求的角度理解，也可以从成功定位艺术的技术要求角度理解。把它这么说也许最清楚：
+    step2: |-
+      定位媒体的可定制性，恰与许多定位艺术家的利他旨趣相合。然而包容、气候保护、社会变革，以及定位项目所期求的任何其他效果，皆要求特定社区拥有充裕的资金、可及的渠道，以及对数字定位技术的用户知识。此关切不仅关乎社区所需，也关乎成功定位艺术在技术上的所求。不妨这般表述：
   - id: 89
     kind: body
     source: |-
       > For any technological device to be “aware” of its context—physical or otherwise—it has to be able to locate, classify, collect, store, and use “relevant” information, as well as to identify and discard or ignore “irrelevant” information (Galloway & Ward 2005)[^galloway-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 任何技术设备若要“意识到”其语境——物理的或其他方面的——它就必须能够定位、分类、收集、存储并使用“相关”信息，同时识别并丢弃或忽略“无关”信息（Galloway & Ward 2005）[^galloway-2005]。
+    step2: |-
+      > 任何技术设备若要“察觉”自身处境——物理的抑或其他——便须能定位、分类、收集、存储并运用“相关”信息，同时辨认并弃置或忽略“无关”信息（Galloway & Ward 2005）[^galloway-2005]。
   - id: 90
     kind: body
     source: |-
       There are numerous political and economic factors affecting access to local and global spaces. With locative art, these factors are concerning for both ethical and artistic reasons.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      影响获取本地与全球空间的众多政治与经济因素存在。就定位艺术而言，这些因素无论从伦理还是从艺术理由看都令人关切。
+    step2: |-
+      影响本地与全球空间之可及性的政治与经济因素甚多。就定位艺术而言，这些因素无论出于伦理抑或艺术理由，皆堪忧虑。
   - id: 91
     kind: oir
     source: |-
