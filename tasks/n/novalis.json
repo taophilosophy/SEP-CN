@@ -1,0 +1,22 @@
+{
+  "slug": "novalis",
+  "kind": "retranslate",
+  "zh_doc": "n/novalis.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T21:07:04Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-10T21:07:03Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 20, 2020",
+    "archive_edition": "Winter 2020",
+    "sha256": "4facd0b0b542b7a90a3b316a675105d2fb5c390b1e22865b41d6aeebf4d71d6d"
+  }
+}

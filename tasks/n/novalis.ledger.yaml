@@ -1,0 +1,417 @@
+version: 1
+slug: novalis
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The philosophical impact of early German romanticism in general and Georg Philipp Friedrich von Hardenberg (Novalis) in particular has typically been traced back to a series of fragments and reflections on poetry, art, and beauty. Moreover, his name has been associated with an aestheticization of philosophy, an illegitimate valorizing of the medieval, and a politically reactionary program. This view of von Hardenberg, however, is to a large extent rooted in the image created posthumously by his increasingly conservative friends within the romantic circle. Furthermore, von Hardenberg’s philosophical reputation has been shaped by his critics, the most prominent of whom was Georg Wilhelm Friedrich Hegel.
+    step1: |-
+      早期德国浪漫主义一般而言的哲学影响，以及格奥尔格·菲利普·弗里德里希·冯·哈登贝格（诺瓦利斯）本人的哲学影响，通常被追溯到一系列关于诗、艺术与美的断片与思考。此外，他的名字也与哲学的美学化、对中世纪的非法推崇以及一个政治上反动的纲领联系在一起。然而，这种对冯·哈登贝格的看法，在很大程度上植根于他那些日益保守的浪漫派友人身后所创造的形象。再者，冯·哈登贝格的哲学声誉也为其批评者所塑造，其中最著名的是格奥尔格·威廉·弗里德里希·黑格尔。
+    step2: |-
+      通常人们把早期德国浪漫主义、尤其是格奥尔格·菲利普·弗里德里希·冯·哈登贝格（诺瓦利斯）的哲学影响，追溯到一批关于诗、艺术与美的断片和思考。他的名声也常常同哲学的美学化、对中世纪的越分抬举以及一套政治上反动的纲领缠在一起。然而，这种印象在很大程度上来自他那些日趋保守的浪漫派友人：他们在他身后塑造了一个形象。冯·哈登贝格的哲学声名还受其批评者的塑造，其中最显赫者当属格奥尔格·威廉·弗里德里希·黑格尔。
+  - id: 2
+    kind: body
+    source: |-
+      In spite of his death at 28, von Hardenberg (1772–1801) left behind a complex philosophical legacy that encompasses discussions of subjectivity and self-consciousness, issues in epistemology, moral theory, political philosophy, problems of interpretation, philosophy of history, philosophy of religion, the proto-existentialist experience of the finality of human life, as well as a significant contribution to aesthetics and philosophy of art. While von Hardenberg is best known for his literary production—including the prose poem *Hymns to the Night* (1800) and the unfinished novels *The Apprentice from Said* and *Heinrich von Ofterdingen* (both published in 1802)—this overview focuses on the argumentative presuppositions for and systematic implications of von Hardenberg’s philosophical work (without thereby suggesting that his philosophy should be perceived as entirely separate from his poetic production).
+    step1: |-
+      尽管年仅28岁便去世，冯·哈登贝格（1772–1801）仍留下了一份复杂的哲学遗产，涵盖主体性与自我意识、认识论问题、道德理论、政治哲学、解释问题、历史哲学、宗教哲学、关于人之生命有限性的原初存在主义体验，以及对美学与艺术哲学的重要贡献。冯·哈登贝格最为人知的是其文学创作——包括散文诗《夜颂》（1800）与未完成的小说《赛斯的学徒》和《海因里希·冯·奥弗特丁根》（均于1802年出版）——但本概述聚焦于冯·哈登贝格哲学工作的论证前提与系统含义（并不因此暗示他的哲学应被视为与其诗性创作完全分离）。
+    step2: |-
+      冯·哈登贝格（1772–1801）年方28岁即辞世，却留下一份复杂的思想遗产：其中涉及主体性与自我意识、认识论、道德理论、政治哲学、解释问题、历史哲学、宗教哲学，以及关于生命有限性的原初存在主义体验，此外还有对美学与艺术哲学的重要贡献。他以文学创作著称，如散文诗《夜颂》（1800）、未完成的长篇《赛斯的学徒》与《海因里希·冯·奥弗特丁根》（均于1802年刊行）。本词条却以他的哲学工作为主，考察其论证前提与系统意涵（这并非说他的哲学可以同诗性创作截然分开）。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Life and Work
+    step1: |-
+      ## 1. 生平与著作
+    step2: |-
+      ## 1. 生平与著作
+  - id: 4
+    kind: body
+    source: |-
+      Friedrich von Hardenberg was born into a family descending from the lower-Saxon nobility and spent most of his childhood on the family estate of the Oberwiederstedt manor. His father, Heinrich Ulrich Erasmus von Hardenberg, was the manager of a salt mine and was known as a pietist and member of the Herrenhuter (Moravian) Church. His second wife, Auguste Bernhardine von Hardenberg (neé von Bölzig), gave birth to eleven children, the second of whom was Friedrich. After his initial studies with a private tutor, von Hardenberg went on to the Lutheran grammar school in Eisleben, where he, in line with the general educational guidelines at the time, concentrated in rhetoric and ancient literature. From the age of twelve, he moved to the home of his uncle, Gottlob Friedrich Wilhelm von Hardenberg, who is said to have taken an interest in French enlightenment philosophy. Von Hardenberg later studied law in Jena, Leipzig, and Wittenberg. He passed his final exams in 1794 and moved on to work in the Prussian civil service in Tennstedt, where he also met the young Sophie von Kühn. The two got secretly engaged in 1795. Two years later, Sophie tragically died at the age of fifteen, an event that would move a whole generation of poets and artists in Germany, including Goethe. Just prior to Sophie’s death, Novalis, following in his father’s footsteps, commenced his studies of mining in Freiberg, Saxony, and eventually took up an administrative position at the salt mines in Weißenfels. Throughout this period, he would retain his interest in philosophy, but also explore subjects such as medicine, geology, and biology. He advanced to director of the salt mines and became engaged for a second time.
+    step1: |-
+      弗里德里希·冯·哈登贝格出身于一个下萨克森贵族世家，童年大部分时光在家族的奥伯维德施泰特庄园度过。父亲海因里希·乌尔里希·埃拉斯穆斯·冯·哈登贝格是一座盐矿的管理者，以虔敬派信徒和 Herrnhut（摩拉维亚）教会成员闻名。他的第二任妻子奥古斯特·贝尔纳迪内·冯·哈登贝格（娘家姓冯·伯尔齐希）生了十一个孩子，弗里德里希是第二个。在随私人教师完成初步学习后，冯·哈登贝格进入艾斯莱本的路德宗文理中学，在此按当时通行的教育方针专攻修辞学与古代文学。十二岁起，他迁居叔父戈特洛布·弗里德里希·威廉·冯·哈登贝格家中，据说这位叔父对法国启蒙哲学颇有兴趣。后来冯·哈登贝格在耶拿、莱比锡与维滕贝格学习法律。他于1794年通过结业考试，随后在滕施泰特的普鲁士文官机构任职，并在那里结识了年轻的索菲·冯·屈恩。二人于1795年秘密订婚。两年后，索菲不幸在十五岁时去世，此事震动了德国整整一代诗人与艺术家，包括歌德。就在索菲去世前不久，诺瓦利斯追随父亲的足迹，在萨克森的弗赖贝格开始学习矿学，最终在魏森费尔斯的盐矿担任行政职务。在此期间，他始终保持着对哲学的兴趣，但也涉猎医学、地质学与生物学等科目。他后来升任盐矿矿长，并第二次订婚。
+    step2: |-
+      弗里德里希·冯·哈登贝格生于下萨克森一个贵族世家，童年多在家族的奥伯维德施泰特庄园度过。父亲海因里希·乌尔里希·埃拉斯穆斯·冯·哈登贝格主管一座盐矿，是虔敬派信徒，属摩拉维亚教会（Herrnhut）。继室奥古斯特·贝尔纳迪内·冯·哈登贝格（娘家姓冯·伯尔齐希）生有十一个孩子，弗里德里希排行第二。他先随私人教师读书，后入艾斯莱本的路德宗文理中学；按当时通行的教育方针，主修修辞学与古代文学。十二岁起，他住到叔父戈特洛布·弗里德里希·威廉·冯·哈登贝格家中，据说这位叔父对法国启蒙哲学颇有兴趣。此后他先后在耶拿、莱比锡、维滕贝格研习法律，1794年通过结业考试，转入滕施泰特的普鲁士文官系统任职，并在那里结识年轻的索菲·冯·屈恩；两人于1795年秘密订婚。两年后，索菲在十五岁时不幸夭亡，此事震动了德国整整一代诗人与艺术家，歌德亦在其中。索菲去世前不久，诺瓦利斯已追随父亲，赴萨克森弗赖贝格学矿，后来在魏森费尔斯盐矿任行政之职。其间他始终留心哲学，也涉猎医学、地质学与生物学。再后来他升任矿长，并再度订婚。
+  - id: 5
+    kind: body
+    source: |-
+      From his period as a student in Jena onwards, von Hardenberg was well connected with the dominant intellectual circles of the time. He was acquainted with Goethe, Fichte, Hölderlin, Herder, and Jean Paul (Richter), and made close friends with Ludwig Tieck, the Schlegel brothers, Schelling, and Schiller (whose lectures he attended in 1790). Friedrich von Hardenberg died of tuberculosis in March 1801.
+    step1: |-
+      从在耶拿求学的时期起，冯·哈登贝格就与当时占主导地位的知识圈交往密切。他认识歌德、费希特、荷尔德林、赫尔德与让·保罗（里希特），并与路德维希·蒂克、施莱格尔兄弟、谢林及席勒（1790年曾听其讲演）结为密友。弗里德里希·冯·哈登贝格于1801年3月因肺结核去世。
+    step2: |-
+      自耶拿求学时起，冯·哈登贝格便与当时的主流知识圈往来密切。他结识歌德、费希特、荷尔德林、赫尔德与让·保罗（里希特），与路德维希·蒂克、施莱格尔兄弟、谢林及席勒交谊甚笃（1790年他曾去听席勒授课）。弗里德里希·冯·哈登贝格于1801年3月死于肺结核。
+  - id: 6
+    kind: body
+    source: |-
+      Von Hardenberg did not publish much during his lifetime. His first publication, emerging in 1791 in Christoph Martin Wieland’s *Neuem Teutschen Merkur*, was the poem “Klagen eines Jünglings”. In 1798, he published *Pollen* (*Blüthenstaub*), a collection of 114 aesthetic-philosophical fragments and reflections, in the first issue of the *Athenaeum*. The text was edited by Friedrich Schlegel, and Novalis’s *Miscellaneous Observations* is as close as we get to a final version from his hand. Only one other collection of fragments was published during his lifetime, the controversial *Faith and Love*, also from 1798. In 1799, Novalis finished his political-religious tract, *Christianity or Europe*, which remained unpublished until after the author’s death. A year later emerged the famous lyrical cycle *Hymns to the Night*. The rest of his writing consists mainly of posthumously published notes and sketches, including *Notes for a Romantic Encyclopaedia* (*Das Allgemeine Brouillon*, 1798/99), studies of Fichte (1795/96), Kant (1797), and Franz Hemsterhuis (1797). The pen name Novalis—referring back to an old family name while, all the same, conveying the meaning of “the one who clears new ground”—was initially introduced in 1798*.*
+    step1: |-
+      冯·哈登贝格生前发表的著作不多。他的首次发表是1791年刊于克里斯托夫·马丁·维兰德《新德意志信使》上的诗作《一个青年的哀诉》。1798年，他在《雅典娜神庙》创刊号上发表了《花粉》（*Blüthenstaub*），这是一部由114则美学-哲学断片与思考组成的集子。该文本由弗里德里希·施莱格尔编定，而诺瓦利斯的《杂感》是我们所能得到的、最接近他亲手定稿的版本。他生前还发表了另一部断片集，即同样出自1798年、颇具争议的《信仰与爱》。1799年，诺瓦利斯完成其政治-宗教论著《基督教或欧洲》，此书直到作者去世后才出版。一年后，著名的抒情组诗《夜颂》问世。他其余的写作主要是身后出版的笔记与草稿，包括《浪漫百科笔记》（*Das Allgemeine Brouillon*，1798/99）、关于费希特（1795/96）、康德（1797）与弗朗茨·赫姆斯特赫斯（1797）的研究。笔名“诺瓦利斯”——既回溯一个古老的家族名，又传达“开垦新地者”之意——最初于1798年启用。
+    step2: |-
+      冯·哈登贝格生前刊行的东西不多。1791年，他的诗作《一个青年的哀诉》发表于克里斯托夫·马丁·维兰德主编的《新德意志信使》，这是他的首次发表。1798年，他在《雅典娜神庙》创刊号上发表《花粉》（*Blüthenstaub*），共收美学与哲学断片、随想114则。此集经弗里德里希·施莱格尔编定；而诺瓦利斯《杂感》是我们所能见到、最接近他手定本的文字。生前刊行的另一部断片集，是同样出于1798年、颇招物议的《信仰与爱》。1799年，诺瓦利斯写成政治—宗教论著《基督教或欧洲》，此书在作者身后才得出版。一年后，著名的抒情组诗《夜颂》问世。其余文字多为身后刊布的笔记与草稿，如《浪漫百科笔记》（*Das Allgemeine Brouillon*，1798/99），以及关于费希特（1795/96）、康德（1797）、弗朗茨·赫姆斯特赫斯（1797）的研究。笔名“诺瓦利斯”于1798年首次使用，它既回溯一个旧家族名，又含“开垦新地者”之意。
+  - id: 7
+    kind: body
+    source: |-
+      After Novalis’s death, his work was first edited by Tieck and Friedrich Schlegel and, subsequently, published in a number of different editions. Since 2006, his complete work has been available in a six volume historical-critical edition (of which the first volume was launched in 1960), edited by Paul Kluckhohn, Richard Samuel, Hans-Joachim Mähl, and Gerhard Schulz, which provides a more adequate picture of Novalis’s philosophical reflections than the previous editions, helpfully distinguishes between complete and incomplete texts, and offers a valuable apparatus of historical-philological footnotes and commentaries.
+    step1: |-
+      诺瓦利斯去世后，其著作先由蒂克与弗里德里希·施莱格尔编订，随后又以多种不同版本出版。自2006年起，他的全集已有一部六卷本的历史考订版（其中第一卷于1960年问世），由保罗·克卢克霍恩、理查德·萨穆埃尔、汉斯-约阿希姆·梅尔与格哈德·舒尔茨编订；该版比此前的版本更充分地呈现了诺瓦利斯的哲学思考，有助于区分完整文本与未完成文本，并提供了有价值的历史-语文学脚注与评注装置。
+    step2: |-
+      诺瓦利斯身后，其著作先经蒂克与弗里德里希·施莱格尔编订，此后又出过多种版本。2006年起，全集有了六卷本历史考订版（第一卷早在1960年问世），由保罗·克卢克霍恩、理查德·萨穆埃尔、汉斯-约阿希姆·梅尔与格哈德·舒尔茨主编；比起旧版，此版更能呈现诺瓦利斯哲学思考的原貌，便于分辨完整文本与未完成文本，并附有颇具价值的历史语文学脚注与疏解。
+  - id: 8
+    kind: body
+    source: |-
+      In spite of its momentous impact in the history of Western art and thinking, early romantic philosophy lasted for only a short period of time, and is commonly dated to the few years between 1797 and 1801, or, in some cases, the period between 1794 and 1808. With its initial center of gravity in Jena, the famous university town and intellectual powerhouse of the time, the romantic circle soon moved its foothold to Berlin, whose vivid salon scene offered welcoming new quarters. Throughout this period, the early romantic movement evolved around the work of Ludwig Tieck, the Schlegel-brothers Friedrich and August Wilhelm, as well as the philosopher and classicist Friedrich Schleiermacher and the jurist and writer Wilhelm Heinrich Wackenroder. Among the inner circle were also Caroline Schelling (married to August Wilhelm Schlegel, later to Schelling), Dorothea Schlegel (married to the banker Simon Veit, later to Friedrich Schlegel), and Sophie Tieck, the poet’s younger sister. Under the editorial leadership of the Schlegels, these self-designated romantic writers published the short-lived, yet influential journal *Athenaeum*, whose famous manifesto states that romanticism is neither merely an aesthetic, nor a purely academic pursuit—as von Hardenberg optimistically puts it: the entire world should be romanticized (LFI #66).
+    step1: |-
+      尽管早期浪漫主义哲学在西方艺术与思想史上影响巨大，其持续的时间却很短，通常被定在1797至1801年这几年间，某些情况下则定在1794至1808年之间。其重心最初在耶拿——当时著名的大学城与思想重镇——但浪漫派圈子很快把据点移往柏林，那里活跃的沙龙场景提供了受欢迎的新驻地。在此期间，早期浪漫主义运动围绕路德维希·蒂克、施莱格尔兄弟弗里德里希与奥古斯特·威廉，以及哲学家兼古典学家弗里德里希·施莱尔马赫与法学家兼作家威廉·海因里希·瓦肯罗德的工作而展开。核心圈成员还包括卡罗利妮·谢林（先嫁奥古斯特·威廉·施莱格尔，后嫁谢林）、多萝特娅·施莱格尔（先嫁银行家西蒙·法伊特，后嫁弗里德里希·施莱格尔）以及诗人的妹妹索菲·蒂克。在这些施莱格尔兄弟的编辑主导下，这些自命的浪漫派作家出版了短命却影响深远的杂志《雅典娜神庙》，其著名的宣言声称：浪漫主义既不只是审美追求，也不纯是学院事业——正如冯·哈登贝格乐观地所说：整个世界都应被浪漫化（LFI #66）。
+    step2: |-
+      早期浪漫主义哲学在西方艺术与思想史上影响极大，持续时间却短，通常定在1797至1801年之间，也有人划在1794至1808年。它先以耶拿为重心——那是当时著名的大学城与思想重镇——不久浪漫派圈子便把据点迁往柏林，那里热闹的沙龙提供了合宜的新据点。这一时期，早期浪漫主义运动围绕路德维希·蒂克、施莱格尔兄弟（弗里德里希与奥古斯特·威廉），以及哲学家兼古典学家弗里德里希·施莱尔马赫、法学家兼作家威廉·海因里希·瓦肯罗德等人展开。核心圈中还有卡罗利妮·谢林（先嫁奥古斯特·威廉·施莱格尔，后嫁谢林）、多萝特娅·施莱格尔（先嫁银行家西蒙·法伊特，后嫁弗里德里希·施莱格尔），以及诗人的妹妹索菲·蒂克。在施莱格尔兄弟主持编务之下，这些自命浪漫的作家办了一份寿命不长却影响深远的刊物《雅典娜神庙》。其著名宣言称：浪漫主义既非仅属审美，也非纯为学院事业——用冯·哈登贝格乐观的话说，整个世界都应当被浪漫化（LFI #66）。
+  - id: 9
+    kind: body
+    source: |-
+      The notion of the *Athenaeum* writers establishing a unified philosophical group is due, in part, to their call for a shared philosophizing (*Symphilosophie*)—their envisioning philosophy as a progressive, collective enterprise, rather than a set of solitary contributions of the system-building variety—and the accompanying critique of the idea of intellectual authorship that would encourage the adoption of pen-names and countless anonymous publications, which also, conveniently, minimized the impact of censorship on individual academic careers and allowed the movement’s female companions to publish and distribute their work. Furthermore, from Hegel onwards, the critics of romantic philosophy have typically favored sweeping claims and totalizing rejections rather than careful analysis of particular contributions and arguments. (I return to this point in Section Eight.) However, the group in question had rather porous and flexible boundaries. The *Athenaeum* philosophers were all part of the larger intellectual life in Germany. And the romantics not only responded to the most well-known philosophical schools of the time, such as those of Kant or Fichte, but were also influenced by a whole host of writers and intellectuals whose work, at least within the Anglophone world, have long been forgotten outside the circles of historically minded German scholars and experts on late eighteenth-century European thought. Rather than falling in rank under one unifying program, the contributors to the *Athenaeum* stand forth as diverse with regard to philosophical orientations and insights as well as the historical-philosophical resources on which they draw.
+    step1: |-
+      人们认为《雅典娜神庙》作者们构成了一个统一的哲学团体，部分原因在于他们倡导共同进行哲学思考（*Symphilosophie*）：他们把哲学设想为一项渐进的、集体的事业，而非一系列各自为政的体系建构式贡献；与之相伴的，是对知识作者身份（authorship）观念的批评——这种批评鼓励采用笔名与大量匿名发表，这同时也恰好把审查对个人学术生涯的影响降到最低，并使该运动的女性同伴得以发表和传播自己的作品。此外，从黑格尔开始，浪漫主义哲学的批评者通常偏爱笼统的断言与全盘否定，而不细究具体的贡献与论证。（我在第八节回到这一点。）然而，所讨论的这个群体边界相当多孔而灵活。《雅典娜神庙》的哲学家们都属于德国更大的知识生活。浪漫派不仅回应当时最著名的哲学学派，如康德或费希特，也受到一大批作家与知识分子的影响——这些人的作品，至少在英语世界，早已被遗忘在圈外，只有治德国思想史的学者与专研18世纪晚期欧洲思想的专家还记得。与其说《雅典娜神庙》的撰稿者们归属于某个统一的纲领之下，不如说他们在哲学取向与洞见上、在他们所汲取的历史-哲学资源上，都显得多种多样。
+    step2: |-
+      人们常说《雅典娜神庙》的作者们组成了一个统一的哲学团体。这部分是因为他们提倡共同从事哲学（*Symphilosophie*）：哲学在他们眼中是一项渐进的事业、集体的事业，而非各自为政的体系建构；与此相随，他们还批评当时的知识作者身份（authorship）观念。这种态度促成了笔名与大量匿名发表的风气，顺带也把审查对个人学术前途的打击降到最低，并让运动中的女性同道得以刊布、流布自己的文字。此外，自黑格尔以降，浪漫主义哲学的批评者往往偏爱笼统的断言与一概的否定，而不肯细究个别的贡献与论证。（第八节将回到此点。）不过，这一群体的边界其实相当松弛、灵活。《雅典娜神庙》的哲学家们都置身于德国更广的知识生活之中。他们不仅回应当时最负盛名的学派，如康德、费希特，也受一大批作家与思想家的影响；这些人的著作在英语世界早已被遗忘，只有思想史学者与专治18世纪末欧洲思想的专家还记得。与其说《雅典娜神庙》的撰稿人同属一个纲领，不如说他们的哲学取向、洞见以及所取用的思想史资源都各不相同。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. The Fragment as Philosophical Form
+    step1: |-
+      ## 2. 作为哲学形式的断片
+    step2: |-
+      ## 2. 作为哲学形式的断片
+  - id: 11
+    kind: body
+    source: |-
+      The very term romanticism is often traced back to the medieval novel of chivalry in which the hero’s lonely fight against evil, sin, and moral weakness is fuelled by the twin motivation of faith and love, hence reflecting a universe in which the individual is unified with and understands himself through the *de facto* tradition to which he pledges allegiance. However, the turn to the Middle Ages is not primarily expressive of a sentimental cultivation of the past, but had long been part of the German Enlightenment and its critique of political absolutism. Like the enlightenment philosophers, the Jena romantics were always clear that the organic unity of pre-modern societies was lost once and for all. When Novalis, in *Christianity or Europe* and other texts, wishes to revive the spirit of the Middle Ages, he is frequently referring to the cosmopolitan thrust of the Hanseatic League rather than a homogenous, tradition-based, and authoritarian medieval culture. As such, Novalis’s philosophy is responsive to the conditions of modernity. In his work, modern philosophy is seen as fundamentally self-reflexive in nature, as belonging to the age of self-critical reason; that is, it is linked up with the quest not only for first-order knowledge of nature and human being, but also for second-order knowledge of what human knowledge involves in the first place.
+    step1: |-
+      “浪漫主义”一词本身常被追溯到中世纪的骑士小说：主人公孤身对抗恶、罪与道德软弱，其动力来自信仰与爱这一双重动机，从而映现出一个宇宙——在其中，个体借由他所效忠的*事实上的*传统而与他人合一，并通过这一传统理解自身。然而，转向中世纪主要并不是对往昔的感伤式涵养，它早已是德国启蒙运动及其对政治专制批判的一部分。与启蒙哲学家一样，耶拿浪漫派始终清楚：前现代社会的有机统一已经一去不返。当诺瓦利斯在《基督教或欧洲》等文本中希望复兴中世纪精神时，他所指的往往是汉萨同盟的世界主义取向，而不是一种同质、以传统为基础、威权式的中世纪文化。就此而言，诺瓦利斯的哲学回应着现代性的状况。在他的著作中，现代哲学被视为本质上是自我反思的，属于自我批判理性的时代；也就是说，它不仅要探求关于自然与人的第一阶知识，也要探求关于人类知识本身究竟包含什么的第二阶知识。
+    step2: |-
+      “浪漫主义”一词，常被追溯到中世纪的骑士传奇：主人公孤身与恶、罪、道德软弱相搏，凭借信仰与爱这两重动机，映照出一个宇宙——个体在其中同他所效忠的*事实上的*传统合一，并借此传统理解自己。不过，向中世纪的回转主要并非感伤地涵养往昔，它早已是德国启蒙运动及其批判政治专制的一部分。耶拿浪漫派与启蒙哲人一样，始终明白前现代社会的有机统一已一去不复返。诺瓦利斯在《基督教或欧洲》等文中意欲复兴中世纪精神时，所指往往是汉萨同盟的世界主义气度，而非同质、依传统而立、崇尚威权的中世纪文化。就此而言，诺瓦利斯哲学回应的是现代性处境：在他笔下，现代哲学本质上自我反思，属于自我批判理性的时代；它不只求关于自然与人的第一阶知识，还要求关于“人类知识究竟包含什么”的第二阶知识。
+  - id: 12
+    kind: body
+    source: |-
+      As a philosophical form, the fragment reflects the conditions of modernity. In Friedrich Schlegel’s view, the hyper-reflexive expressive registers of irony and humor are particularly suited to voice the modern mindset, and are, as such, intrinsically linked to the fragment (such a view is also present in Novalis’s writings, though underemphasized in comparison with Friedrich Schlegel). Novalis’s turn to the fragment has a different philosophical motivation. The fragment questions the idea that philosophical system-building, be it of a deductive or a teleological kind, is fit to capture the nature of reality. Like *Blüthenstaub*—though the title was added when Friedrich Schlegel was editing Novalis’s text for publication—the fragment emerges as an intellectual seed or pollen that is meant to foster critical and independent reflection rather than presenting a system of self-contained theorizing.
+    step1: |-
+      作为一种哲学形式，断片反映着现代性的状况。在弗里德里希·施莱格尔看来，反讽与幽默这类高度反思性的表达语域特别适合表达现代心态，因而与断片内在地联系在一起（这种看法也见于诺瓦利斯的著作，只是相比弗里德里希·施莱格尔而言未受强调）。诺瓦利斯转向断片则有不同的哲学动机。断片质疑这样一种观念：哲学体系建构——无论是演绎式的还是目的论式的——足以把握实在的本性。像《花粉》一样——尽管这一标题是弗里德里希·施莱格尔编辑诺瓦利斯文本付印时加上去的——断片表现为一粒思想的种子或花粉，意在培育批判性的、独立的思考，而非呈现一个自足的理论体系。
+    step2: |-
+      断片作为一种哲学形式，映现着现代性的处境。弗里德里希·施莱格尔认为，反讽与幽默这类高度反思的表达方式最能传达现代心态，因而与断片一脉相通（诺瓦利斯笔下也有此意，只是不如施莱格尔那样突出）。诺瓦利斯之转向断片，另有哲学上的缘由：断片质疑“哲学体系的建构——无论演绎式还是目的论式——足以捕捉实在本性”这一想法。与《花粉》一样（这个书名是弗里德里希·施莱格尔编稿付印时所加），断片是一粒思想的种子、一点花粉，意在催生批判而独立的思考，而不是摆出一套自足的理论。
+  - id: 13
+    kind: body
+    source: |-
+      Although the fragment, as a philosophical form, is often associated with the early Jena romantics, it was not invented by this group. Rather, the fragment has a long history, stretching back to the ancient Greeks, but also to modern writers such as Chamfort, La Rochefoucauld, and Lichtenberg. (Chamfort’s work was translated into German in the 1790s and eagerly read and discussed at the time.) Within circles closer to the romantics, Herder, from the late 1760s on, had been exploring the philosophical potential of the fragment. Herder’s turn to the fragment was motivated by a wide-spanning skepticism with regard to the idea of a totalizing or teleological system of reason. The young Herder leads this skepticism back to the philosophy of the Scottish Enlightenment. Novalis makes frequent references to Herder’s work and person.
+    step1: |-
+      尽管断片作为一种哲学形式常与早期耶拿浪漫派联系在一起，它并非这一群体的发明。断片有悠久的历史，可以上溯到古希腊人，也可上溯到尚福尔、拉罗什富科与利希滕贝格等近代作家。（尚福尔的著作在1790年代被译成德语，当时颇受追捧与讨论。）在更靠近浪漫派的圈子里，赫尔德自1760年代后期起就在探索断片的哲学潜能。赫尔德之转向断片，出于他对总体化或目的论的理性体系这一观念的广泛怀疑。青年赫尔德把这种怀疑追溯到苏格兰启蒙哲学。诺瓦利斯屡屡提到赫尔德的著作与人格。
+    step2: |-
+      断片作为一种哲学形式，常被系于早期耶拿浪漫派，但它并非此派所创。断片源流甚古，可追溯至古希腊，也见于尚福尔、拉罗什富科、利希滕贝格等近代作家（尚福尔之作在1790年代译成德文，一时争相传阅）。在与浪漫派相近的圈子里，赫尔德自1760年代后期起便已在试探断片的哲学潜力。他之所以转向断片，是因为对总体化、目的论的理性体系怀有广泛的怀疑；青年赫尔德把这种怀疑上溯至苏格兰启蒙哲学。诺瓦利斯屡屡称引赫尔德的著作与人。
+  - id: 14
+    kind: body
+    source: |-
+      With its broken form and literary style, Novalis’s return to the fragment has been taken to challenge the distinction between art and critical thinking that was entirely central to Kant and Fichte. However, while the fragment draws on the expressive registers of literature, it does not represent a deconstruction of the difference between philosophy and poetry, science and art. It is, rather, an attempt, from *within* the realm of critical reason, to explore a reality whose complex nature cannot be captured by the work of a narrowly oriented rationality (*Verstandesdenken*, in the eighteenth-century glossary). Like Schelling and Hegel, Novalis challenges the dry and narrow understanding of reason that, in their view, had come to dominate the post-Enlightenment world of politics, science, and letters. Like them, he does this not by appealing to the purely irrational, but by developing a notion of reason that includes a dimension of historicity and takes into account the experience of art, literature, and religious and affective sentiments of various kinds. Unlike Schelling and Hegel, however, Novalis believes that such a notion of reason can only be obtained by leaving behind the idea of a final and all-encompassing philosophical system. But as Herder had been demonstrating already in the early 1770s, to question the idea of an all-encompassing system is not the same as to endorse intellectual chaos or unsystematic thought procedures. When reading the early romantic philosophy of Novalis, one should keep in mind the warning of his friend Friedrich Schlegel: Just as a fully systematic philosophy might be an illusion, a completely unsystematic philosophy would instantly kill off every intellectual ambition. Thus the challenge of romantic philosophy consists in the attempt to think systematically but without allowing thought to stagnate in a final set of truths or dogma. Philosophy ought to be open-ended; it should develop in close interaction with the natural sciences as well as the humanities. In short, philosophy should take the shape of a sustained intellectual experiment; it should be forever on its way and thoroughly inductively minded. This philosophical credo runs through the entire work of Novalis, from *Miscellaneous Observations* to *Notes for a Romantic Encyclopaedia* (*Das Allgemeine Brouillon*) and *Christianity or Europe*.
+    step1: |-
+      以其破碎的形式与文学笔调，诺瓦利斯对断片的回归常被认为挑战了艺术与批判性思维之间的区分，而这一区分对康德与费希特是绝对核心的。然而，断片虽借用了文学的表达语域，却并不代表对哲学与诗、科学与艺术之差异的解构。它毋宁是*在*批判理性领域*之内*的一种尝试：去探索一种实在，其复杂的本性非狭隘取向的理性（按18世纪的用语，即 *Verstandesdenken*）所能把握。与谢林和黑格尔一样，诺瓦利斯挑战那种干枯而狭隘的理性理解——在他们看来，这种理解已支配了后启蒙世界的政治、科学与文学。与他们一样，他这样做并非诉诸纯粹非理性的东西，而是发展出一种包含历史性维度、并顾及艺术、文学以及各种宗教与情感状态之经验的理性概念。然而与谢林和黑格尔不同，诺瓦利斯相信，这样的理性概念只有抛弃最终且包罗万象的哲学体系这一观念才能获得。但正如赫尔德早在1770年代初就已表明的，质疑包罗万象的体系，并不等于赞同知识上的混乱或非系统的思维程序。阅读诺瓦利斯的早期浪漫主义哲学时，应当记住其友人弗里德里希·施莱格尔的告诫：正如一个完全系统的哲学可能是一种幻觉，一个完全非系统的哲学也会立刻扼杀掉一切知识抱负。因此，浪漫主义哲学的挑战在于：尝试系统地思考，却不许思考停滞于一套最终的真理或教条之中。哲学应当是开放的；它应当在同自然科学与人文学科的密切互动中发展。简言之，哲学应当采取持续的思想实验的形式；它应当永远在路上，并彻底具有归纳精神。这一哲学信条贯穿诺瓦利斯的全部著作，从《杂感》直到《浪漫百科笔记》（*Das Allgemeine Brouillon*）与《基督教或欧洲》。
+    step2: |-
+      诺瓦利斯重返断片，以破碎的形式与文学笔调，常被视为挑战艺术与批判思维之分——此分对康德、费希特至为关键。然而断片虽取用文学的表达方式，却并不解构哲学与诗、科学与艺术之别。它毋宁是在批判理性领域*之内*作一种尝试：去探究一种实在，其复杂本性非狭隘的理性（18世纪语汇中所谓 *Verstandesdenken*）所能把捉。与谢林、黑格尔一样，诺瓦利斯不满于那种干枯狭隘的理性观——在他们看来，这种理性观已支配了后启蒙时代的政治、科学与文坛。与他们一样，他并不诉诸纯然非理性，而是发展出一种兼含历史维度、并容纳艺术、文学及各类宗教情感经验的理性概念。但与谢林、黑格尔不同，他相信这样的理性概念只能靠舍弃“最终而包罗一切的哲学体系”之念才可得。而正如赫尔德早在1770年代初所示，怀疑包罗一切的体系并不等于赞成思想混乱或非系统的思维。读诺瓦利斯的早期浪漫主义哲学，应记住其友弗里德里希·施莱格尔的告诫：完全系统的哲学或许是幻象，完全非系统的哲学则会立刻扼杀一切思想抱负。浪漫主义哲学的难处正在于此：要系统地思考，却不让思考凝固为一套终极真理或教条。哲学应当是开放的，应当在同自然科学与人文学科的紧密互动中生长。简言之，哲学应当成为一种持久的思想实验，永远在路上，彻底抱持归纳的精神。这一信条贯穿诺瓦利斯全部著作，从《杂感》直到《浪漫百科笔记》（*Das Allgemeine Brouillon*）与《基督教或欧洲》。
+  - id: 15
+    kind: body
+    source: |-
+      Even though the fragment is expressive of the deeper—anti-teleological, if one likes—motivations of Novalis’s thinking, it is easy to make too much of the form in which substantial parts of his work is handed down to us. As is made clear by the publication of the critical edition, many of Novalis’s texts are available as fragments simply because he did not have the time to polish his thoughts or because they were never intended for publication. Furthermore, a text such as *Pollen*, which was indeed intended for publication, was edited by Friedrich Schlegel, who broke up some of the longer passages into shorter fragments.
+    step1: |-
+      尽管断片表达了诺瓦利斯思想中更深层的——若愿意这么说，反目的论的——动机，但也很容易过分看重他的著作有相当一部分借以流传下来的那种形式。正如考订版的面世所表明的，诺瓦利斯的许多文本之所以以断片形式存在，仅仅是因为他没有时间打磨自己的想法，或者因为它们从未打算出版。此外，像《花粉》这样确实打算出版的文本，是经弗里德里希·施莱格尔编辑的，他把某些较长的段落拆成了较短的断片。
+    step2: |-
+      断片固然传达出诺瓦利斯思想中更深的动机（不妨称之为反目的论的动机），但对他著作借以流传的形式，也很容易估价过高。考订版即已表明：诺瓦利斯许多文本之所以是断片，只因他无暇打磨，或本来无意刊行。至于《花粉》这种确曾打算出版的文本，则经弗里德里希·施莱格尔之手，把若干较长的段落拆成了短章。
+  - id: 16
+    kind: body
+    source: |-
+      ## 3. Philosophy, Encyclopedia, and the Turn to Empirical Science
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      *Das Allgemeine Brouillon* brings to light the close connection in Novalis’s work between philosophy and empirical science. Yet the *Brouillon* is not meant to give a final account of philosophical knowledge, but aspires to recapitulate the state of knowledge as it currently is, hence providing an impetus to revision and improvement. In order to enhance its stakes and procedures, however, reason needs a point of orientation, an idea of what universal knowledge would amount to, even though such knowledge by definition is out of reach. In Novalis’s work, the very idea of a philosophical encyclopedia provides such a point of orientation.
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      The affiliation with empirical science is another point at which Novalis’s understanding of the fragment differs from that of Friedrich Schlegel. Whereas Schlegel establishes a close link between philosophy and poetry—at times he even dismantles the distinction between them—Novalis is convinced that if human reason seeks everywhere for the unconditioned (*das Unbedingte*) but finds nothing but things (*Dinge*) (MO #1), then we better study these things closely and try to make sense of them. That is, in his view, reason is inevitably driven towards the idea of an infinite, pre-reflexive, and pre-subjective ground or first principle, an unconditioned, which it itself can never grasp; what it can grasp, though, are the manifestations of such a ground in the world to which it has access through experience and science. Thus Novalis claims that “Idealism is nothing but genuine *empiricism*” (AB #402). Novalis also defines philosophy as a science of science (AB #886); it explores the conditions for the study of nature, human nature included.
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      So conceived, philosophy is not cut off from practical purposes. Under the heading “Encyclopedistics,” Novalis explains that “Half theories lead *away* from *praxis*—whole theories lead *back* to it” (AB #537). Or, as he, in the spirit of Kant’s teleology of nature, stages his metaphysical program: “Philosophy cannot bake bread—however, it can provide us with God, freedom and immortality—now which is more practical—philosophy or economics?” (AB #401). And in a slightly earlier work, Novalis, referring to the Kantian definition of metaphysics, claims that “We only *know* it, *insofar* we *realize* it” (KS, 331, cf. also HKA 2, 378).
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      In Novalis’s view, true philosophical insight, addressing issues of legitimacy as well as the question of meaning (or, in Kantian language, the regulative ideas of reason), provides a deepened self-understanding that guides our practice and orientation in the world. The fragment strengthens this dimension of philosophy in that it fosters critical distance and independent thinking. Such an intellectual stance, in turn, is a condition of possibility for genuine intersubjectivity, ultimately also for the republican ideals that Novalis is promoting. Before we get that far, however, we need to look, in more detail, at Novalis’s engagement with the ideals of the Enlightenment and the philosophy of German Idealism.
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      ## 4. Critique, Reflexivity, Subjectivity
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      Novalis’s philosophical readership, his critics and supporters alike, have paid a great deal of attention to his interpretation of Fichte. For Novalis’s generation, Fichte was seen as the true heir of Kant’s critical thinking. In the *Athenaeum Fragments,* Schlegel applauds Fichte’s move beyond the Kantian architecture of reason, and in his *Lectures on the History of Philosophy* Hegel, likewise, suggests that it was Fichte who provided the speculative unity that Kant’s system was lacking. By emphasizing the I’s absolute and immediate positing of itself, Fichte, it was claimed, suspended the self-imposed limitations of Kantian idealism. He thus succeeded in overcoming the dichotomies that had plagued Kant’s contemporary readers, including the dichotomies of reason and sensibility, spontaneity and receptivity, freedom and necessity. With Fichte, philosophy was grounded in one ultimate and unifying principle: that of the I’s positing of itself as absolute and free (that is, in the jargon of the period, of the I positing itself as absolutely self-positing).
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      As Friedrich Schlegel lays out his philosophical-poetic principles in the famous *Athenaeum Fragment* 216, Fichte’s theory of the I’s absolute self-positing established a *sine qua non* of the romantic program. If the French Revolution, in its earlier phases, had opened up a new space of political action, realizing, *in concreto*, the principle of the rational self-determination of a people, and if Goethe’s *Wilhelm Meister*, crossing genre boundaries by drawing on philosophy, poetry, and drama alike, had set a new standard for the modern novel as a complete and all-encompassing work of art—a literary *Gesamtkunstwerk*—it was Fichte who had led philosophy back to the unbound spontaneity of subjectivity, thus realizing the implicit promise of Kant’s transcendental turn.
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      In his aesthetics, Kant had discussed how natural beauty, in triggering a free play between imagination and understanding, gives the disinterested spectator a hint that nature might be designed so as to facilitate the work of our cognitive faculties, hence also allowing for the possibility of a system of inductive knowledge and the idea of a will behind what, from the perspective of the understanding, appears as the realm of blind causality. In the aesthetic experience, transcendental imagination is furnished with the regulative function of providing human beings with a sense of orientation in the world—a sense of belonging or purpose. Kant also had proposed that man-made beauty, i.e., art, puts forth a sensuous presentation of the ideas of reason. And, finally, he had established a close connection between the work of art and the spontaneous production of creative genius.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      In Kant’s system, however, the bridge between freedom and necessity is restricted to the realm of the aesthetic judgment. The pure aesthetic judgment can be ascribed a merely subjective universality. Fichte, however, brought out the full philosophical potential of the Kantian idea of freedom. In Fichte’s theory, the creative spontaneity of imagination is so to speak universalized—it is turned into the distinctive feature of the absolute, positing I, which is free even to posit its ontological counterpart in the limiting non-I. Hence the cautious “as if”-status of the purposiveness of nature in the aesthetic experience is sublated. At a transcendental level, even causally determined nature is explained in light of the self-positing ego. The gap between subjectivity and nature, freedom and necessity, spontaneity and receptivity is ultimately bridged. This, thought Novalis and many with him, was the achievement of Fichte’s philosophy.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Yet, for all his progress beyond the Kantian framework, Fichte had failed to address the more deep-seated problem of meaning that was part of the Kantian agenda: the possibility of there being a will or rationality behind the universe as such, a will or rationality that is prior to and constitutive of subjectivity, hence granting it a sense of meaning and purpose. Whereas Kant had framed this as a question of teleology and natural beauty, Novalis and his fellow romantics linked it to the experience of art and poetry in particular. I return to Novalis’s philosophy of art in the next section. What is important at this point, however, is to realize how Novalis develops his standpoint in critical response to the philosophical challenges posed by Kant and Fichte.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Allegedly, Hölderlin and Novalis met with Fichte in the home of Friedrich Immanuel Niethammer in Jena in 1795. The meeting with Fichte, it is said (though the historical documentation is scant), strengthened Novalis’s interest in his philosophy and led to the work that would culminate in the *Fichte Studies*. Nonetheless, the collection was not given its title by Novalis himself but added by the editor, Hans-Joachim Mähl. The *Fichte Studies* does not deal exclusively with Fichte’s philosophy, but addresses a broad range of philosophical problems, one of which is Novalis’s worries with regard to subjective idealism. Other topics include the history of philosophy, the relationship between art and philosophy, and the relationship between art and science. Nonetheless, this collection of notes and observations shelters the most coherent account of Novalis’s interpretation of Fichte.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      Although Novalis admires Fichte, he is more cautious in his attitude than many of his contemporaries. In the *Fichte Studies* he polemically asks whether Fichte has not “too arbitrarily packed everything into the I” (FS #5). And in *Notes for a Romantic Encyclopaedia* (*Das Allgemeine Brouillon*), written a few years later, his critique is poignantly articulated in the analogy between the Fichtean ego and the desolate main character of Daniel Defoe’s famous novel: “Fichte’s ego—is a Robinson Crusoe—a scientific *fiction*” (AB #717).
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      According to Novalis—whose thinking at this point converges with Hölderlin’s response to subjective idealism—Fichte’s theory is ultimately rooted in the immediacy of the I’s self-positing, and it presupposes that the capacity for self-reflection can be traced back to a non-representational self-relation or intellectual intuition that evades the very structure of reflectivity and hence also the subject-object relationship between the reflecting and the reflected ego. Novalis maintains that in order to take a reflective stance towards itself, the self needs to represent itself in some form or another. The I’s most original self-relation cannot simply take the form of an original *Tathandlung* in which the reflecting self (the subject pole of the self-reflection) claims immediate identity with itself as reflected (i.e., as the object pole of the self-reflection). In Novalis’s view, self-reflection requires some kind of external representation. Such a representation cannot, however, be deduced from the immediate identity (FS #11). The identity of the reflecting and the reflected I is grounded in a feeling (FS #11). Thought, however, fails to grasp this feeling.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      Novalis follows Kant in claiming that thought and feeling make up two irreducible sources of experience. Given this dual source of experience, philosophy cannot, as Fichte would have it, be rooted in one single principle. To be sure, the idea of such a principle is attractive to the extent that it would aid in undermining the Kantian dualism of concept and intuition, and ultimately also guarantee the self-determination of rational subjectivity. Yet such a principle cannot be given. Instead of adhering to the completely autonomous subjectivity of Fichtean philosophy, Novalis argues that the subject is inwardly split, not just between thought and feeling, but ultimately also between the hubris of believing that thought can in fact grasp the basic self-feeling, and the realization that this feeling cannot be conceptually processed as such. The latter point not only involves a modification of the scope of reflexive subjectivity, but also of philosophy itself. As Novalis emphatically puts it, “[t]he borders of feeling *are* the borders of philosophy” (FS #15, emphasis added).
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      If Novalis develops his own philosophical voice through the encounter with Fichte, he also takes a significant step beyond the epistemological framework of *The Science of Knowledge*. Some scholars, such as Manfred Frank and Jane Kneller, see the *Fichte Studies*, with its insistence on the two sources of experience, as gesturing back to a more Kantian position—a Kantian moderation of Fichte’s idealism. Such an interpretation is not only justified by reference to Novalis’s critique of Fichte, but also given historical support in light of Novalis’s relatively close contact with Kantian philosophers such as Karl Leonhard Reinhold and Carl Christian Erhard Schmid. Furthermore, on having completed his studies of Fichte, Novalis quickly returns to Kant. In the so-called *Kant Studies*, whose scope spans Kant’s practical as well as theoretical philosophy, he speaks of Kant’s philosophizing as scholastic, yet celebrates it as “one of the most remarkable phenomena of the human spirit” (KS, 337). In critically endorsing Kant’s idea of transcendental idealism as the science of philosophy, Novalis, too, wishes to see philosophy as a meta-discipline, a rational account of the boundaries of rationality.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Novalis’s work is neither strictly speaking Kantian nor strictly speaking Fichtean in spirit. On assessing Novalis’s reflections on transcendental idealism, it is important to keep in mind that when he, in 1797, returns to Kant’s thinking, he views it through the lens of Fichte’s philosophy. Furthermore, Fichte’s thinking, for Novalis, did not just consist in the various theses of *The Science of Knowledge* (*Wissenschaftslehre*), but also in a certain way of doing philosophy. “Fichtean philosophy is a call to self-activity,” insists Novalis (FS #567). That is, it is a mode of philosophizing rather than a given claim about the absolute freedom of the transcendental ego. In this respect, Fichte’s most important work is not the *Wissenschaftslehre*, but his lecture on the scholar’s vocation, *Über die Bestimmung des Gelehrten*, which he supposedly read in Jena in 1794 and which would then be eagerly studied in Jena and Weimar. Even though Novalis had good family connections to Fichte, we do not know for sure whether he had access to the unpublished version of this text. However, Novalis’s emphasis on intellectual responsibility, self-thinking, and autonomy speaks clearly of a responsiveness to this dimension of Fichte’s work. Novalis’s reflections on these issues culminate in his notion of *Bildung*. This is also the point at which Novalis ceases to present himself as a critical commentator of subjective idealism and produces an independent philosophical contribution of lasting force and value.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      ## 5. Philosophy of Bildung and History
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      According to Novalis, the “academy ought to be a thoroughly philosophical institution—only one faculty—the whole establishment organized—to arouse and exercise the capacity to think [Denkkraft] in a purposive way” (MO #4, trans. modified). By emphasizing the need for independent thinking, Fichte endorsed Kant’s critical turn and his transformation of philosophy, pitched as a set of doctrines and principles, into philosophizing, pictured as a critical activity. Furthermore, Fichte had realized that philosophizing is a call of the self to the self (FS #567). Yet the self to which the philosophizing turns is not understood as an empty or merely formal capacity for self-positing. True idealism, Novalis claims, is not opposed to realism, but only to formalism. A proper account of the self, in its relation to itself, should consider the self’s development in and through history as well as its externalizing of itself in the encounter with other minds and nature.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      The idea of *Bildung*, education in and through culture, remains one of the most significant contributions of late eighteenth-century philosophy. Even though it is most often associated with Hegel’s *Phenomenology of Spirit* (as well as his slightly later speech “On Classical Studies”), in which the philosophical mind retrieves its historical-systematic development as a succession of various philosophical paradigms and thought models, the notion was widely applied before 1807. We find it in the work of Herder, the young Schleiermacher, and, expanding the focus to the realm of literature, the idea of *Bildung* is operative in Goethe’s *Wilhelm Meister*. Goethe’s work, as the sequel commences in the mid 1790s, follows Wilhelm through his youthful adventures and beyond, seeing how the protagonist gradually reaches an understanding of his formative experiences and thus gains an ever-increasing sense of freedom and self-determination.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      For Novalis, too, philosophy involves a process of maturity and self-understanding (though he would eventually grow more critical of Goethe’s work). This is another dimension of his call for a practical turn in philosophy. In Novalis’s words: “Whoever knows what philosophizing is, also knows what life is” (AB #702). Philosophy does not manifest itself in a set of theoretical dogmas, but in a capacity to judge. As such, philosophy cannot be learned or passively appropriated, but only triggered by such Socratic provocations as the fragment, irony, the joke, and the essay. Hence Novalis’s call for a romanticizing of the world does not involve perceiving it through a new or different lens, but the ability to raise oneself to a state of critical self-understanding. This aim, Novalis emphasizes, cannot be reached through the means of isolated soliloquy, but requires an engagement with the larger community as well as with history, tradition, natural science, and art. It involves, in short, the realization that the self necessarily belongs to a more comprehensive, historically developed, and cross-culturally fertilized totality of meaning. In affinity with Schleiermacher’s *Speeches* (which Novalis studied in the early fall of 1799), Novalis makes it clear that individuality proper is only developed in interaction with other individuals. If “[e]ach human being is a society in miniature” (MO #42), it still applies that “[e]very individual is the center of a system of emanation” (MO #109).
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      The self understands itself as part of a given community, but also as the product of a historical development that spans the arts and the sciences alike. Only in this way can the I, in Novalis’s paradoxical formulation, be the I of its I (MO #28). In order to see oneself as situated within a given historical and intersubjective context, history cannot be fully objectivized: “[w]e are related to all parts of the universe—as we are to the future and to times past” (MO #91). The understanding of history is thus a matter of self-understanding. However, in the enlightenment celebration of novelty and progress, history is reduced to a catalogue of mistakes that are left behind in favor of a more mature comprehension of reality past and present. In Novalis’s view, philosophical romanticism must take on the responsibility of overthrowing—at a meta-philosophical as well as historical-empirical level—such an ahistorical concept of history. Thus the emphasis on *Bildung* involves a reassessment not only of the self (it involves recognizing that the self is fundamentally situated in tradition), but also of the tradition. This implies, first, the view that tradition extends into the present and, second, the claim that in order to gain understanding of history, hence also of the interpreter’s own time, historical expressions should not be judged by the criteria of the present but be seen within their own context, be it cultural, political, religious, or all of the above.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      For Novalis, the classical world is so to speak the other of modernity; it is different, yet a fundamental part of it. Furthermore, any modern culture—and here we see, again, the traces of Novalis’s turn towards the more cosmopolitan spirit of the Hanseatic League—understands itself in critical interaction with other cultures, including those of the non-Western world and the temporally distant parts of the interpreter’s own culture. In his 1798 reflections on Goethe, Novalis writes that spirit by nature strives to absorb and understand its other. This process of expanding one’s horizon by considering the other’s point of view is, at one and the same time, the nature and the ultimate goal of *Bildung*. In *Kant Studies* such an enterprise is presented, along the lines of Kantian anthropology, as the theory of the causes and remedies of prejudices (KS 330).
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      The emphasis on understanding others does not involve a relativization of history and intercultural understanding. Like Schleiermacher and Schlegel, Novalis takes a strong interest in philology and demands that every author and reader must be philologically minded (*Teplitz Fragments* #42). Philology, for the romantic philosopher, is, among other things, about the reader taking into account the original context in which the text was produced. Hence, according to Novalis, “*[p]hilologizing* is the *true scholarly* occupation. It corresponds to *experimenting*” (AB #724). Philologizing—and note again, as in the case of philosophizing, the active form *philologisiren* and the reference to experimenting—is about breaking through illegitimate prejudices, trying to understand a symbolic expression on its own terms rather than reducing it to a familiar position, which would minimize its capacity to challenge the reader’s system of beliefs and values. Conceived in this way, philology challenges every scholastic passing down of authoritative interpretations. It curbs the threat of the dead letter and counteracts the tendency of modern society to steward the tradition in such a formalistic way that it overlooks the meaning of the hieroglyph, as Novalis at one point puts it. In the spirit of the Enlightenment, he wishes to challenge and critically reflect on prejudices handed down from tradition. But unlike the enlightenment philosophers—at least in their most undialectical championing of progress—Novalis believes that the past can itself offer resources for a critical-reflexive discussion of and stance towards the present. In this sense, Novalis can claim that “The theory of the future belongs to history” (AB #425). Even if the past cannot be immediately retrieved and even if it is neither desirable nor rational to long for a revival of times long gone, the past, providing an alternative to the intellectual framework of the present, can aid the philosopher, the artist, the scientist, or the politician in developing a critical attitude to the beliefs and assumptions he or she had previously left unanalyzed. The past should in other words be reconstructed on its own terms, but precisely such a reconstruction, Novalis argues, will ensure its relevance for the present.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      While it is entirely crucial to the romantic concept of *Bildung*, the idea of philology is related to the return to the classical form of the fragment. At stake in both cases is the awareness that there are, in philosophy, two ways to look at things, from above and downward or from below and upward, roughly corresponding to what Kant in the same period had addressed as reflective and determinative judgment or Herder, drawing on the resources of Scottish enlightenment philosophy, had seen as the difference between inductive-empirical and deductively-minded philosophy.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Ultimately, Novalis identifies the never-ending process of *Bildung* with philosophy itself. Doing philosophy, Novalis explains, is a conversation with oneself (LFI #21), but one that takes place through the encounter with the other. Thus, the decision to “do philosophy is a challenge to the real self to reflect, to awaken and to be spirit” (LFI #21). Philosophy is about the self’s capacity to take responsibility for itself. For, at the end of the day, “[l]ife must not be a novel that is given to us, but one that is made by us” (LFI #99).
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      ## 6. Art, Aesthetics, and Poetics
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      *Bildung* and philosophy, as education to self-responsibility, are closely related to the realm of art. There are at least two dimensions of this relationship. First, Novalis is well aware that *Bildung*, the call to self-understanding and autonomy through an engagement with tradition and other cultures, cannot proceed by way of an appeal to formal methodology. No rule can ever guarantee the successful outcome of the individual’s education in culture. Rather, it is a matter of moving from the particular to the universal, but without a universal at hand by which this move can be justified. What is required is a context-sensitive judgment. The process of *Bildung* is itself an art (*Kunst*) in the sense that it takes tact or reflective judgment (such a use of the term “art,” as opposed to merely mechanical processes, was fairly common at the time and can also be found in the work of Herder, Kant, and Schleiermacher). Along these lines, Novalis speaks of the will to Fichtecize artistically (LFI #11), and also criticizes Fichte and Kant for being unpoetic (AB #924). The second sense in which art, philosophy, and *Bildung* are related has to do with art being one of the media, maybe even the privileged medium, through which *Bildung* is achieved. In this context, it is important to keep in mind that as far as the philosophy of art goes, Novalis’s period is one of transition. Around this time, aesthetics, as a Kantian investigation into the validity-claim of the pure judgment of taste, is established as an autonomous philosophical discipline with the *Critique of Judgment*. Yet it is nonetheless the case that historical and intercultural engagement was, until and throughout this period, largely a matter of studying religious and cultural artefacts from temporally or geographically distant eras. These objects were not necessarily approached aesthetically—that is, subjected to pure aesthetic judgment in Kant’s meaning of the term—but also, as in the works of Herder and Hegel, viewed as part of the larger fabric of the moral sciences. Novalis often leans in this direction, and at one point even follows Herder in addressing aesthetics as a psychological discipline (AB #423).
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Novalis’s philosophy of art does not only lead to a recognition of the value of intertemporal and intercultural understanding. In fact, in a work such as Walter Benjamin’s study of the romantic notion of criticism, one encounters the idea that romantic aesthetics represents a proto-modernist theory of art.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      In line with his general philosophy of history, Novalis contrasts modern art to the art of ancient cultures. As opposed to ancient art, which was afforded a direct moral and religious relevance, modern art reflects its status as art. Or, stronger still, modern art sees itself as art only—yet, precisely as art (only) can it give voice and expression to experiences that cannot be grasped by a post-Enlightened, philosophical reason. As part of the Schillerian era of sentimentality, modern philosophy mourns the absence of a pre-subjective, pre-reflexive anchoring of reason. Herein consists the so-called homesickness of philosophy (AB #857). Modern philosophy longs for a principle that can shore up thought and subjectivity by reference to a dimension of being that is ontologically prior to it. Given its discursive nature, philosophy is constitutively cut-off from such an absolute grounding. Art, however, can testify to this dimension of being; it can express what modern philosophy wants, yet is painfully aware that it cannot get. In this sense, “the poet is the transcendental physician,” as Novalis provocatively puts it (LFI #36). Given its linguistic nature, poetry in particular should strive to realize its own inherent potential rather than imitating philosophy and other discursive forms of expression.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      Novalis’s understanding of art in general and literature in particular is perhaps best articulated—or, rather, exemplified—in a novel such as *Heinrich von Ofterdingen*. Though unfinished, the novel, which includes ample meta-reflections on aesthetic matters, illustrates the dream-like atmosphere that has made Novalis’s work the prime example of magical idealism, the romantic prism through which nature itself occurs as a work of art, as being expressive of a deeper meaning and perfection that defuses the possible tension between necessity and freedom, sensuousness and understanding, and gives human beings a sense of belonging and being at home in the world.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      ## 7. Political Thought
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      If there is a relative distinction between poetry and philosophy in Novalis’s work—the two need one another, yet answer to different human needs and capacities—the situation is more complicated with regard to art and politics. From Heinrich Heine onwards, the aestheticization of politics has been one of the strongest cards played out by the critics of romantic philosophy. And even among the most sympathetic readers of Novalis’s work, the liberally minded will have a hard time swallowing his attempt to create a higher union between politics, art, and religion, and his tendency to valorize religion over philosophy and art. The same applies for the way in which he, for example in a lyrical work such as “Hymns to the Night,” written in response to the death of his young fiancée, infuses the erotic yearning for the beloved with a longing for religious redemption. That said, Novalis’s political thinking neither can nor should be reduced to these potentially reactionary sentiments. Novalis’s idea of a synthesis of art and politics is far more complex than is typically acknowledged by its critics.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      While Novalis was always sympathetic to the ideals of the French revolution, he grew increasingly skeptical in his assessment of their actual realization in late eighteenth-century France. In his view, the proponents of *liberté*, *egalité*, and *fraternité* had failed to live up to their celebrated ideals. For all its good intentions, the revolution had resulted in inequality, injustice, and terror. It is characteristic of Novalis’s political philosophy that he not only offers a principled discussion of this predicament, but also a historical critique. Novalis sees the revolution in continuity with the Enlightenment, and worries that these movements cultivate a notion of reason that fails to take historical reality into account. The proponents of the revolution had forgotten to ask if the people were ready to take on the admirable ideals of liberty, equality, and solidarity. Novalis wishes not only to endorse the ideals of the revolution, but also to offer reflections on how the people can be brought to a stage where they can responsibly take on the principles of the revolution and make its ideals their own. This is the ultimate task and purpose of *Bildung*.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      The first political pamphlet of the romantic movement was Schleiermacher’s *On Religion: Speeches to its Cultured Despisers,* and Novalis is thoroughly influenced by this work. In *On Religion*, Schleiermacher advocates an egalitarian, organic, and ecumenical religion, and professes that only such a religious-political system can provide a framework within which the individual can fully grow into and take responsibility for itself. At the same time, such a religion is only possible—it can only be realized *in concreto—*when the individuals of a given society have generally reached at least a minimal stage of self-understanding and respect for others. Hence there is a close connection between the existence of a broad-spanning group of educated and mature individuals and the possibility of introducing a sensible religious and ultimately also political order. The problem, according to Schleiermacher, is that modern religion has been dominated by philistines who have placed themselves in between the people and the true democratic truths of the New Testament. What is needed is a rethinking of religious life—and, as part of this, a rethinking of the relationship to tradition. This is why *On Religion* anticipates Schleiermacher’s later writings in hermeneutics. And this point, as it is appropriated by Novalis, also establishes a connection between his hermeneutic historicism and his political philosophy.
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      Novalis’s political reflections inform the *Miscellaneous Observations*, get more poignantly voiced in *Faith and Love* and the “Political Aphorisms” (written in 1798), and find their quasi-religious culmination in *Christianity or Europe*, the 1799-text that even his *Athenaeum* friends deemed problematic in its call for a new Catholic unity in Europe. In spite of Schlegel’s willingness to publish the text, the furore it caused amongst Novalis’s peers, including Goethe, Schelling, and Schiller, held him back, and *Christianity or Europe* remained unpublished till 1826.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      There is an overall unity in Novalis’s political writings, as they span almost the entire ten years of his productive period: the idea that democracy can only be effectively realized among a people that is historically ready for it, that such readiness takes a capacity for critique and independent thinking, and that *Bildung* is the way in which independent thinking is best achieved. In combining critical skills, analytic abilities, and the motivational force provided by art and cultured discourse, Novalis is hopeful that romantic philosophy will find a way to retain the ideals of the revolution without, at the same time, repeating its mistakes.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Romanticism, in his view, aims at preserving the enlightenment commitment to self-determination and freedom without turning it into a merely abstract and alienating discourse. Individuality and self-determination can only be achieved in organic communion with other self-determining individuals. It needs to be realized as part of an ongoing discussion of the ultimate meaning, goals, and self-understanding of a given, historical society. A healthy intersubjectivity makes up a presupposition for a mature and well-developed personality. Conversely, the organically developed community consists of unique, yet mutually recognizing individuals and their bonds of interaction. Diversity is a condition for the sought unity. As such, the ideal society is likened to a work of art. No mechanical rules or abstract theories can guarantee the successful realization of the community as a unity in manifold. This is the lesson Novalis takes from Schleiermacher, and which serves as the determining ground for his political theory. This is also the thought that undergirds his lasting commitment to republicanism.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      In the period between *Faith and Love* and *Christianity or Europe*, written only two years before Novalis’s death, there is a significant change in Novalis’s views on how a good society is best achieved. In 1798 Novalis was inspired by the idea of a democracy from above and connected the idea of education to the motivational force of monarchy. By positing their own lives and actions as examples, the king and the queen, representing at one and the same time the community of living individuals and the larger whole of the tradition, should inspire the people to strive for self-understanding and freedom through education. That is, by setting an example of autonomous thinking while, all the same, representing a continuity with the past, the royal couple would turn the monarchy into a symbol of the democratic state itself. Around 1799, however, Novalis’s view changes. He now imagines that this motivational force can only be led back to the unifying power of the church, or, more precisely, that of the papal state. At this point, the democratic ethos of his thinking is considerably weakened.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Novalis’s turn to the church is indisputably problematic when judged from a 21st century perspective. Yet it is important to see that within his own time, most of his political writing, up until around 1798, is representative of the progressive reformist movement in Germany. Furthermore, Novalis’s democratic, pluralistic, and egalitarian ideals should not be dismissed because of his later, more conservative sentiments, nor should the connection he sees between these ideals and a commitment to *Bildung*. It is this notion of *Bildung*, the idea that democracy requires a triad of individual education, societal plurality, and, not least, a capacity for impartial judging, that will remain Novalis’s most valuable contribution to political thought.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      ## 8. Novalis’s Philosophical Legacy
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      Soon after Novalis’s death, his friends amongst the romantics, led by Tieck and Friedrich Schlegel, started spinning the myth about the *über*-sensitive visionary poet and aesthete, the beautiful soul, forever longing for the unattainable blue flower, the symbol of eternal love and divine grace that would so enthrall the character of Heinrich von Ofterdingen. The legend of Novalis as the arch-romantic author rapidly gained credence, and his literary style became influential for writers from Georg Büchner, via the symbolists, to Hermann Hesse and the avant-garde movement in France and Germany. In the philosophical domain, the reception of Novalis has been more reluctant. Some of this reluctance must be explained by the fact that until the publication of the critical edition, it was difficult to distinguish between the posthumously created image of Novalis, on the one hand, and his real philosophical contribution, on the other. This difficulty also colors the harsh judgments of Hegel, Novalis’s most rampant critic among his contemporary Germans.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      Hegel is critical of what he takes to be an undue turn to isolated subjectivity, and in particular its affective and emotional aspects, in romantic philosophy. He traces this turn to subjectivity back to the romantic reading of Fichte. The romantics, in his interpretation, misunderstood Fichte’s work. They hypostatized his notion of spontaneous self-positing, baking it into a largely aesthetic vocabulary of the creative power of imagination. While he places Novalis within this framework, Hegel overlooks how he (Novalis) not only draws on but also criticizes Fichte’s philosophy. In Hegel’s understanding, romanticism in general and Novalis’s philosophy in particular leads to a pathological cultivation of inwardness, a naïve and otherworldly position that is not only philosophically at fault but also constitutes a genuine political risk in that it represents an alluring conversion from critical thinking to otherworldly reveries. However, as Otto Pöggeler demonstrates in his 1956 study, as soon as one distinguishes philosophical romanticism proper from its mythological image, it becomes clear that Hegel stands far closer to the romantics than he was ever willing to admit. In Novalis’s case, the philosophy of *Bildung*, a notion that features prominently in Hegel’s own work, would be an important point of connection. Others would be his philosophy of interpretation and his conception of the relationship between pre-modern and modern thought.
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Hegel’s negative assessment proved influential to later times and readings of Novalis’s work. Even though Novalis’s experimenting with the philosophical form of the fragment paved the way for such stylistically bold and innovative thinkers as Kierkegaard and Nietzsche, these figures would, with few exceptions, stage themselves as critics rather than followers of romantic philosophy. In a wider intellectual context, we find Novalis’s writing attacked in Heinrich Heine’s work on recent German literature (1836 [1995]), Rudolf Haym’s *Die romantische Schule* (1870), Arnold Ruge and the young Hegelian philosophy of history (which viewed romanticism through the lens of the later Friedrich Schlegel’s engagement with Metternich and the restoration), and Karl Mannheim’s sociological explanation of the rise of German conservatism (1925 [1986]). Whereas the young Georg Lukács applauds Novalis’s aesthetics and philosophy of nature, the late Lukács worries about the irrationalism of post-Enlightenment German thought. From the other side of the political spectrum, there is Carl Schmitt’s 1919 critique of the romantic movement as effecting a dangerous occasionalism in modern political life.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Among the nineteenth century historians it was Wilhelm Dilthey who, in his grand effort to rehabilitate late eighteenth-century German philosophy, was able to see through the myth of Novalis and call for a reassessment of his philosophical work. As is the case with Dilthey’s return to the young Hegel, his reading of Novalis emphasizes the humanistic drive of his thinking as well as his philosophy of art and nature, which gets reinterpreted, in Dilthey’s lexicon, as a budding philosophy of life. Dilthey, however, situates Novalis with Goethe and Hölderlin, and ends up, quite against his own intention, highlighting the aesthetic rather than critical-intellectual force of his philosophy.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      The philosophical-literary reception of Novalis’s work first took off with Walter Benjamin’s 1919 study of the romantic notion of literary criticism. In situating the young romantics within the paradigm of Fichte’s philosophy of reflection, Benjamin places himself well within the traditional reception of their work. Nonetheless, Benjamin’s interest in philosophy of history, his recognition of philosophers such as Herder, Hamann, and Humboldt, and his general openness towards the late eighteenth-century mindset, makes it possible for him to transcend the framework of traditional (Hegelian) prejudices and tease out of the romantic idea of criticism a pregnant conception of art and subjectivity. Furthermore, because he views modernity as a period of aesthetic reflectivity and self-criticism, Benjamin is among the first to see in romantic philosophy a prefiguration of aesthetic modernism and the European avant-garde. This idea would later fuel the growing interest in German romantic philosophy amongst French intellectuals, including philosopher-poets like Maurice Blanchot, George Bataille, and, in the 1970s and 1980s, the chief proponents of literary deconstruction, Jacques Derrida and, in an Anglophone context, Paul de Man.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      The broader literary reception of Novalis’s fragments and poetical work across comparative literature departments in Europe and North America contributed to the recent rediscovery of his philosophy: a rediscovery, one might hope, that will lead to a greater awareness of the breadth of his philosophical contribution and a recognition of the fact that his thinking, though celebrated for its religious-poetic sensitivity and aesthetic ambience, encompasses much more than that. Although it is unlikely that Novalis’s work will ever make it to the front rows of academic philosophy, his contribution deserves to be revisited, reread, and reconsidered by scholars of post-Kantian thought. Only in this way is it possible fully to reassess the systematic impact of his theory of *Bildung*, social philosophy, philosophy of history, and theory of language as well as his contribution to aesthetics and philosophy of art.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: TBD
+    step2: TBD
