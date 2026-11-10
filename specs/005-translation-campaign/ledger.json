@@ -82,8 +82,8 @@
    "phase": "translate",
    "claimed_by": "K-main-20261110",
    "claimed_at": "2026-11-09T16:56:09Z",
-   "note": "2026-11-10 K-main-20261110 续译（用户指令：全权负责 K，主会话直译不用子代理）：kukai 由账本 71 段续至 113 段全量完成（四种曼荼罗/即身成佛/加持/三密/十住心/结语），s3_checked 并提交；knowledge-how 由 lq init 全量 195 段新译（知识如何论战十节），s3_checked 并提交；术语登记 43+18 行、人名 11 行。队列（体量升序）：kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school。kant-judgment 仍按前会话冲突让出归他会话；r1-r3 归评审线。",
-   "advanced_at": "2026-11-10T01:10:59Z"
+   "note": "2026-11-10 K-main-20261110：kukai（113 段）与 knowledge-how（195 段）均 s3_checked 已提交；kant-transcendental 在途（账本 22/140 段已填并分两批提交：段 1-10 导论与演绎概述、段 11-22 §16 统觉原理与 (S)/(W) 之争），术语 13 行登记。接力点：段 23 起（§16 第二阶段与 §17 起自下而上论证）。队列：kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school；kant-judgment 仍归他会话，r1-r3 属评审线。",
+   "advanced_at": "2026-11-10T01:23:36Z"
   },
   "l": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-10T01:10:59Z"
+ "updated_at": "2026-11-10T01:23:36Z"
 }
