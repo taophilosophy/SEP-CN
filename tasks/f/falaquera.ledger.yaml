@@ -139,95 +139,127 @@ segments:
     kind: body
     source: |-
       Falaquera’s goal in the encyclopedia, his longest work, was to make possible the serious study of the sciences by his fellow Jews. The encyclopedia is divided into two parts, one on the natural beings and one on the divine ones. The first part basically follows the traditional order of Aristotle’s books on natural science. When Falaquera writes that there “is not a word in this entire composition that I say of my own,” he is hardly exaggerating. His main source in the work is usually the middle commentaries of Averroes or his epitomes when the middle commentaries were not available. These texts are often translated literally, but with no hesitation to abridge them and to blend them with other sources, in particular other commentaries by Averroes, for the sake of clarification or completeness. Short passages from other works and other authors are inserted when it suits Falaquera’s purposes. But apart from connecting phrases, references to other parts of the book, and occasional attributions, there is indeed hardly a word that is Falaquera’s own. It is thus remarkable that Falaquera was often able to improve upon his sources and even intentionally part from them solely through his combining of texts. It has been shown, for example, that “by advisedly and creatively combining [Averroes’] commentaries [on the *Meteorology*],” Falaquera was able to present an account of Aristotle’s teachings clearer than that of either of Averroes’ commentaries [Fontaine, “Why Is the Sea Salty?” 213–218], and that by inserting a brief passage from Avicenna into his abridged paraphrase of Averroes’ *Epitome of the Parva naturalia*, he was able to provide a response to Averroes’ argument therein that theoretical knowledge cannot be acquired in dreams [Harvey, “Falaquera’s *De‘ot ha-Filosofim*,” 232–233]. Other such examples abound, but can usually be detected only through a careful comparison of the encyclopedia with its sources. Falaquera’s intended reader, who did not know Arabic, would thus have been unaware of his skill and particular goals in weaving together his sources, but this would not have bothered Falaquera. He had a far greater goal in mind. The *De‘ot ha-Filosofim* presents the reader with an ambitious and comprehensive account of Aristotelian science and philosophy, indeed the first full in-depth treatment of Aristotelian science in Hebrew.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      法拉库拉的百科全书（他篇幅最长的著作）意在让犹太同胞得以严肃研习诸科学。全书分两部分：一论自然存在者，一论神圣存在者。第一部分大体依亚里士多德自然哲学诸书的传统次序展开。他说“全编之中没有一句话是我自己的”，这并不算夸张。他在书中的主要来源，通常是阿威罗伊的中等评注；中等评注不可得时，便用其节述。这些文本往往逐字译出，但他毫不迟疑地删节，并与别的来源——尤其是阿威罗伊的其他评注——相糅合，以求澄清或周备；凡适合其目的之处，也插入他人他书的短段。然而除连缀短语、对本书他处的指涉与偶尔的署名之外，确实几乎没有一个词出自法拉库拉本人。故令人惊异的是：他常常仅凭文本的拼合便改进了来源，甚至有意与它们分道。例如已有研究指出，“经由对〔阿威罗伊〕论《气象学》诸评注的明智而富创造性的拼合”，法拉库拉所呈现的亚里士多德学说，比阿威罗伊两部评注中的任何一部都更清楚（Fontaine, “Why Is the Sea Salty?” 213–218）；又如，他往节改的阿威罗伊《自然诸短篇节述》里插入阿维森纳的一段短文，便回应了阿威罗伊在其中的一个论点：理论知识不可能在梦中获得（Harvey, “Falaquera’s *De‘ot ha-Filosofim*,” 232–233）。类似之例所在多有，但通常只有把百科全书与其来源仔细对勘方能察觉。法拉库拉设想中的读者不懂阿拉伯文，因而无从察觉他编织来源时的技巧与特定用意；这却不会困扰他——他心里另有更宏大的目标。《哲学家之意见》呈现给读者的是一部雄心勃勃、全面周备的亚里士多德科学与哲学论述；事实上，这是希伯来文里第一次对亚里士多德科学所作的完整深入的处理。
+    step2: |-
+      法拉库拉写这部百科全书（他篇幅最长的著作），目标是让犹太同胞得以严肃研习诸科学。全书分两部分：一论自然存在者，一论神圣存在者。第一部分大体依亚里士多德自然哲学诸书的传统次序展开。他说“全编之中没有一句话是我自己的”，这并不算夸张。他在书中的主要来源，通常是阿威罗伊的中等评注；中等评注不可得时，便用其节述。这些文本往往逐字译出，但他毫不迟疑地删节，并与别的来源——尤其是阿威罗伊的其他评注——相糅合，以求澄清或周备；凡适合其目的之处，也插入他人他书的短段。然而除连缀短语、对本书他处的指涉与偶尔的署名之外，确实几乎没有一个词出自法拉库拉本人。故令人惊异的是：他常常仅凭文本的拼合便改进了来源，甚至有意与它们分道。例如已有研究指出，“经由对〔阿威罗伊〕论《气象学》诸评注的明智而富创造性的拼合”，法拉库拉所呈现的亚里士多德学说，比阿威罗伊两部评注中的任何一部都更清楚（Fontaine, “Why Is the Sea Salty?” 213–218）；又如，他往节改的阿威罗伊《自然诸短篇节述》里插入阿维森纳的一段短文，便回应了阿威罗伊在其中的一个论点：理论知识不可能在梦中获得（Harvey, “Falaquera’s *De‘ot ha-Filosofim*,” 232–233）。类似之例所在多有，但通常只有把百科全书与其来源仔细对勘方能察觉。法拉库拉设想中的读者不懂阿拉伯文，因而无从察觉他编织来源时的技巧与特定用意；这却不会困扰他——他心里另有更宏大的目标。《哲学家之意见》呈现给读者的是一部雄心勃勃、全面周备的亚里士多德科学与哲学论述；事实上，这是希伯来文里第一次对亚里士多德科学所作的完整深入的处理。
   - id: 18
     kind: body
     source: |-
       ## 5. Falaquera as a commentator
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. Falaquera as a commentator
+    step2: |-
+      ## 5. 作为评注家的法拉库拉
   - id: 19
     kind: body
     source: |-
       Reference has been made to Falaquera’s *Moreh ha-Moreh*, one of the first commentaries on Maimonides’ *Guide of the Perplexed*. The commentary is not on the entire book, but on only a little over a quarter of its chapters. Yet Maimonides had urged readers of the *Guide* “not to comment upon a single word of it and not to explain to another anything in it.” Falaquera was aware of this plea, but also knew that people were already misreading and misinterpreting the text. His own commentary is the first scholarly study of Maimonides’ philosophic sources, a topic that continues to engage scholars to this day. The knowledge of these sources – usually cited by Falaquera by name or epithet – and Maimonides’ agreement or disagreement with them is essential for a proper understanding of the *Guide*. Like the *De‘ot ha-Filosofim*, most of the commentary is pieced together from translated passages from other works, although here in the commentary he allows himself to comment, usually briefly and in his own name, on these passages. In addition to translating these sources, Falaquera retranslated his selections from the *Guide*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      前文已提到法拉库拉的《迷途指津之指引》，它是最早的《迷途指津》评注之一。评注并非针对全书，而只针对其章节约四分之一强。然而迈蒙尼德曾敦促《迷途指津》的读者“不要对它一个字作评注，也不要向别人解释其中任何东西”。法拉库拉知道这一恳请，但也知道人们已经在误读和误解这一文本。他自己的评注是对迈蒙尼德哲学来源的第一次学术研究，这个题目至今仍吸引学者。对这些来源的知识——法拉库拉通常按名字或称号引用它们——以及迈蒙尼德与它们的一致或不一致，对于正确理解《迷途指津》是本质性的。与《哲学家之意见》一样，评注的大部分由从其他著作译来的段落拼成；虽然在这里他允许自己对这些段落作评论，通常简短，并以自己的名义。除翻译这些来源之外，法拉库拉还重译了他从《迷途指津》中选取的段落。
+    step2: |-
+      前文已提及法拉库拉的《迷途指津之指引》，它是最早评注迈蒙尼德《迷途指津》的著作之一。这部评注不覆盖全书，只涉及其略多于四分之一的章节。然而迈蒙尼德曾敦促《迷途指津》的读者“勿对其中一字作评注，亦勿向他人解释其中任何内容”。法拉库拉知道这一请求，但也明白时人已在误读、误解该书。他自己的评注，是首次对迈蒙尼德哲学来源的学术研究——这一题目至今仍吸引学者。了解这些来源（法拉库拉通常以名字或绰号称引），以及迈蒙尼德与它们相合或相违之处，是正确理解《迷途指津》所必需的。与《哲学家之意见》一样，评注的大部分亦由译自他书的段落拼合而成；不过在这里，他容许自己就这些段落发议论——通常简短，且署自己的名。除翻译这些来源之外，法拉库拉还把自《迷途指津》所选段落重译了一遍。
   - id: 20
     kind: body
     source: |-
       It is noteworthy that Falaquera speaks explicitly in his own name in the commentary, but rarely in most of his other works. Shiffman characterizes Falaquera in the commentary as a “critical thinker who does not hesitate to disagree with those he cites, accepting only those opinions which he considers philosophically sound” (“Falqerah As Interpreter,” 7 [219]). On occasion Falaquera disagrees with and even criticizes Maimonides. At times the sources cited by Falaquera strengthen Maimonides’ views and at times they part from them. In one instance, in his commentary on *Guide* I, 68, Falaquera uncharacteristically adds a word (*ha-maskil*, the intellecting Subject) in his citation of the Arabic translation of *Metaphysics* Λ, perhaps in order for it to agree exactly with Maimonides’ statement with reference to God that He is Intellect, intellecting Subject, and Object of intellection [Harvey, “Notes on Maimonides’ Formulations”]. The idea to explain the *Guide* and its teachings through citations of Maimonides’ possible sources is the great innovation of the commentary. Usually these passages speak for themselves with only short comments added by Falaquera. Occasionally he is more verbose, but even when not, there is a sense that he is considering the passage at hand carefully to determine to what extent Maimonides followed its teachings and to what extent he himself should. This is one of Falaquera’s last writings and likely the most useful of his books for discerning his own views on theological-philosophical matters, such as creation from eternal matter; God’s will; the negation of corporeality, privation, and potentiality with regard to God; the nature of prophecy; the possibility of conjunction with the Active Intellect; and the ultimate and intermediate causes in nature, will, and chance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得注意的是，法拉库拉在评注中明确以自己的名义说话，而在他大多数其他著作中很少如此。希夫曼在评注中把法拉库拉刻画为“一个不犹豫于不同意他所引用者的批判性思想家，只接受他认为在哲学上健全的意见”（“Falqerah As Interpreter,” 7 [219]）。有时法拉库拉不同意迈蒙尼德，甚至批评他。法拉库拉所引的来源有时加强迈蒙尼德的观点，有时与它们分离。有一处，在他对《迷途指津》I, 68 的评注中，法拉库拉一反常态，在他对《形而上学》Λ 卷阿拉伯译文的引用中加了一个词（*ha-maskil*，进行理智活动的主体），也许是为了让它与迈蒙尼德关于上帝是理智、是进行理智活动的主体、是理智活动的对象的表述完全一致（Harvey, “Notes on Maimonides’ Formulations”）。通过引用迈蒙尼德的可能来源来解释《迷途指津》及其学说，是这部评注的伟大创新。通常这些段落自己说话，法拉库拉只加简短评论。偶尔他更啰嗦；但即便不是这样，也能感到他在仔细考虑手头的段落，以判定迈蒙尼德在多大程度上遵循其学说、他自己又应在多大程度上遵循。这是他最后的著作之一，而且很可能是他所有书中对辨认他自己在神学-哲学问题上的观点最有用的，例如从永恒质料创世；上帝的意志；关于上帝的身体性、缺失和潜能的否定；预言的本性；与主动理智结合的可能性；以及自然、意志和偶然中的终极因和中间因。
+    step2: |-
+      值得注意的是：法拉库拉在评注中明确以自己之名发言，而在其他大部分著作中则极少如此。希夫曼把评注中的法拉库拉刻画为“一位不惮与其所引者相左的批判性思想家，只接受他认为在哲学上站得住脚的意见”（“Falqerah As Interpreter,” 7 [219]）。他有时不同意迈蒙尼德，甚至加以批评。所引来源有时加强迈蒙尼德的观点，有时与之分离。有一处，在评注《迷途指津》I, 68 时，法拉库拉一改常态，在引用《形而上学》Λ 卷的阿拉伯文译本时添了一个词（*ha-maskil*，即“理解的主体”），或许为的是让它与迈蒙尼德关于上帝是理智、是理解主体、是理解对象的表述完全吻合（Harvey, “Notes on Maimonides’ Formulations”）。借征引迈蒙尼德的可能来源来解释《迷途指津》及其学说——这是本评注的伟大创举。这些段落通常自己说话，法拉库拉只添简短评语；偶尔他也多说几句。但即便不多说，也能感到他在仔细掂量手头的段落：迈蒙尼德在多大程度上遵循其学说，他自己又该在多大程度上遵循。这是他最晚的著作之一，也很可能是他诸书中辨认其本人神学-哲学观点最有用的书——涉及从永恒质料创世、上帝的意志、否定上帝的身体性以及缺失与潜能、预言的本性、与主动理智结合的可能性，以及自然、意志与偶然中的终极因与中间因。
   - id: 21
     kind: body
     source: |-
       ## 6. Falaquera as an exegete
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. Falaquera as an exegete
+    step2: |-
+      ## 6. 作为释经者的法拉库拉
   - id: 22
     kind: body
     source: |-
       Falaquera in his various writings shows great familiarity with the Bible and rabbinic literature. It is possible to understand quite a bit from these books on how Falaquera read the Bible. In general, Falaquera repeatedly states that he views the Torah as a source of truth, and that its teachings are in accord with the true teachings of philosophy and science for which there are demonstrative proofs. In other words, if the Torah seems to contradict something that has been proven demonstratively, the passage in the Torah needs to be interpreted. Indeed, for Falaquera, philosophy is at times necessary for the correct interpretation of Scripture. The correct interpretation of it is not always apparent, but philosophy can help us to uncover it. Moreover, for Falaquera, Scripture is replete with scientific teachings and allusions (*Iggeret ha-Vikkuah*, 69–71; trans., 34–37). On the other hand, he never tires of reiterating in almost all his works that if a statement of the philosophers contradicts something from the Torah, we reject it. A close examination of Falaquera’s proof texts in his various writings reveals his methods of Biblical interpretation. For example, the allegorical interpretation of Prov. 27:26 and Song of Songs 4:11 as referring to the need to conceal certain profound matters from the many (*Iggeret ha-Vikkuah*, 74; trans., 42); or the reading of Jer. 9:22 as referring to man’s confusing the pseudo-perfections for the true one (*Reshit Hokhmah*, 72); or the understanding of Prov. 25:5 as teaching that man needs divine help in order to attain the truth (*Iggeret ha-Halom*, 488); or simply taking Ps. 31:20, 27:13, and 69:29 to each be referring to man’s eternal life (*Sefer ha-Ma‘alot*, 15).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      法拉库拉在他的各种著作中都显示出对《圣经》和拉比文献的极大熟悉。从这些书中可以相当多地了解法拉库拉如何读《圣经》。总的来说，法拉库拉反复陈述，他把《托拉》看作真理的一个来源，它的教导与哲学和科学的真教导一致，而这些真教导是有证明的。换句话说，如果《托拉》似乎与某种已被证明的东西矛盾，那么《托拉》中的那一段就需要被解释。事实上，对法拉库拉来说，哲学有时是正确解释经文所必需的。经文的正确解释并不总是显而易见，但哲学能帮我们把它揭示出来。此外，对法拉库拉来说，经文充满科学的教导和暗示（*Iggeret ha-Vikkuah*, 69–71；译文 34–37）。另一方面，他在几乎所有著作中都不知疲倦地重申，如果哲学家的某一陈述与《托拉》的某一内容矛盾，我们就拒绝它。仔细考察法拉库拉各书中的证明经文，可以揭示他的《圣经》解释方法。例如，把《箴言》27:26 和《雅歌》4:11 寓意地解释为指必须向多数人隐藏某些深奥之事（*Iggeret ha-Vikkuah*, 74；译文 42）；或把《耶利米书》9:22 读作指人把伪完善误认为真正的完善（*Reshit Hokhmah*, 72）；或把《箴言》25:5 理解为教导人需要神的帮助才能获得真理（*Iggeret ha-Halom*, 488）；或径直把《诗篇》31:20、27:13 和 69:29 各自看作指人的永恒生命（*Sefer ha-Ma‘alot*, 15）。
+    step2: |-
+      法拉库拉在各类著作中都显示出对《圣经》与拉比文献的熟稔。从这些书里，可以相当多地了解他如何读《圣经》。大体而言，他反复申明：自己把《托拉》视为真理之源，其教诲与哲学、科学中那些有明证的真教诲相合。换言之，若《托拉》似与已获明证之理相悖，该处经文便需要解释。事实上，在法拉库拉看来，哲学有时正是正确解释经文所必需的。经文的正确解释并不总显而易见，而哲学能帮我们把它发掘出来。再者，他认为经文处处含有科学教诲与暗示（*Iggeret ha-Vikkuah*, 69–71；译文 34–37）。另一方面，他在几乎所有著作中都不厌其烦地重申：哲学家的某一论断若与《托拉》相悖，我们便予以拒斥。细察他各书中的论证经文，可窥其释经方法。例如：把《箴言》27:26 与《雅歌》4:11 寓意地解为“须向大众隐匿某些深奥之事”（*Iggeret ha-Vikkuah*, 74；译文 42）；把《耶利米书》9:22 读作人把伪完善误当真正的完善（*Reshit Hokhmah*, 72）；把《箴言》25:5 理解为教导人需要神圣帮助方能达致真理（*Iggeret ha-Halom*, 488）；或者径直接受《诗篇》31:20、27:13 与 69:29，各指人的永恒生命（*Sefer ha-Ma‘alot*, 15）。
   - id: 23
     kind: body
     source: |-
       A clearer picture of Falaquera as an exegete may be drawn from the recent editions and translations of extant passages from his lost commentaries on the Bible (Jospe, *Torah and Sophia*, 468–484, and Jospe and Schwartz, “Falaquera’s Lost Bible Commentary,” 186–200).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要更清晰地看作为释经者的法拉库拉，可参看他佚失的《圣经》评注现存段落的近期版本与译本（Jospe, *Torah and Sophia*, 468–484；Jospe and Schwartz, “Falaquera’s Lost Bible Commentary,” 186–200）。
+    step2: |-
+      要更清晰地看作为释经者的法拉库拉，可参看他佚失的《圣经》评注现存段落的近期版本与译本（Jospe, *Torah and Sophia*, 468–484；Jospe and Schwartz, “Falaquera’s Lost Bible Commentary,” 186–200）。
   - id: 24
     kind: body
     source: |-
       Here one can see Falaquera’s focus on understanding the meaning of certain equivocal terms in Scripture; on explicating certain ambiguous terms; on providing scientific explanations of certain terms; on pointing out that certain verses must be taken metaphorically; and on suggesting the inner meaning (*‘inyan penimi*) when appropriate. At times Falaquera strove to understand and explain the literal meaning of the verse, while at other times he sought to uncover its allegorical interpretation and secret meaning.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由此可以看到他关注的几个方面：理解经文中某些歧义术语的含义；阐释某些含混语词；对某些语词给出科学解释；指出某些经文必须作隐喻解；并在恰当之处提示内在意义（*‘inyan penimi*）。有时他致力理解并阐明经文的字面义，有时则要发掘其寓意解释与隐秘意义。
+    step2: |-
+      由此可以看到他关注的几个方面：理解经文中某些歧义术语的含义；阐释某些含混语词；对某些语词给出科学解释；指出某些经文必须作隐喻解；并在恰当之处提示内在意义（*‘inyan penimi*）。有时他致力理解并阐明经文的字面义，有时则要发掘其寓意解释与隐秘意义。
   - id: 25
     kind: body
     source: |-
       ## 7. Conclusion: Falaquera as a philosopher
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. Conclusion: Falaquera as a philosopher
+    step2: |-
+      ## 7. 结语：作为哲学家的法拉库拉
   - id: 26
     kind: body
     source: |-
       Shem-Tov Falaquera sought to interest his fellow Jews in philosophy and science and to make available to them in Hebrew the most important teachings of the ancient Greek and medieval Islamic philosophers. As is clear from his encyclopedia of science, he was an Aristotelian, and like virtually all post-Maimonidean Jewish Aristotelians, his two leading philosophic authorities were Averroes and Maimonides. Nonetheless, he had an open mind and seems to have been influenced also by Neoplatonic writings. This is most evident from his decision to prepare Hebrew versions of Ibn Gabirol’s *Fons vitae* and Pseudo-Empedocles’ *Five Substances*, and from his many citations from Ibn Gabirol in his *Moreh ha-Moreh* (see Shiffman’s intro., 83–85). He knew the works of the Islamic *falâsifah* better than any Jewish thinker of his time, and made many of them available to the Hebrew reader – often without attribution (as in *Reshit Hokhmah*); yet he was not hesitant to modify unobtrusively their texts when it suited his purposes. In this way, for example, he turned Alfarabi’s account of the origin of philosophic religion into a discussion of the origin of the virtuous city (Harvey, “Falaquera’s Alfarabi,” 104–109).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      谢姆·托夫·法拉库拉力图使他的犹太同胞对哲学和科学发生兴趣，并以希伯来文把古希腊和中世纪伊斯兰哲学家的最重要教导提供给他们。从他的科学百科全书可以清楚看出，他是一个亚里士多德主义者；而且像几乎所有迈蒙尼德之后的犹太亚里士多德主义者一样，他最重要的两位哲学权威是阿威罗伊和迈蒙尼德。尽管如此，他思想开放，看来也受到新柏拉图主义著作的影响。这一点最明显地表现在他决定为伊本·加比罗尔的《生命之源》（*Fons vitae*）和伪恩培多克勒的《五本体》（*Five Substances*）准备希伯来文版本，以及他在《迷途指津之指引》中对伊本·加比罗尔的大量引用（见 Shiffman 导言，83–85）。他对伊斯兰 *falâsifah* 著作的了解超过他那个时代的任何犹太思想家，并把其中许多提供给希伯来读者——常常不加署名（如《智慧之始》）；然而当适合他的目的时，他也毫不犹豫地不显眼地修改它们的文本。例如，他就这样把法拉比关于哲学性宗教之起源的论述，变成关于完善城之起源的讨论（Harvey, “Falaquera’s Alfarabi,” 104–109）。
+    step2: |-
+      谢姆·托夫·法拉库拉力图使犹太同胞对哲学与科学发生兴趣，并以希伯来文把古希腊与中世纪伊斯兰哲学家最重要的教诲呈现给他们。从他的科学百科全书可清楚看出，他是一位亚里士多德主义者；与几乎所有迈蒙尼德之后的犹太亚里士多德主义者一样，他的两位首要哲学权威是阿威罗伊与迈蒙尼德。然而他思想开放，看来也受到新柏拉图主义著作的影响。最明显的证据是：他决定为伊本·加比罗尔的《生命之源》（*Fons vitae*）与伪恩培多克勒的《五本体》（*Five Substances*）准备希伯来文译本，并在《迷途指津之指引》中大量征引伊本·加比罗尔（见 Shiffman 导言，83–85）。他对伊斯兰 *falâsifah*（哲学家）著作的熟稔，超过同时代任何犹太思想家；其中许多由他引介给希伯来读者——往往不署名（如《智慧之始》）。然而凡适合其目的之处，他也毫不迟疑地悄然改动这些文本。例如，他就这样把法拉比关于哲学性宗教之起源的论述，改写成关于完善城之起源的讨论（Harvey, “Falaquera’s Alfarabi,” 104–109）。
   - id: 27
     kind: body
     source: |-
       Falaquera did not seek originality, yet was quite creative in his presentation of philosophy and science. He was, for example, one of the first Hebrew authors to write a philosophic dialogue, an encyclopedia of science and philosophy, a commentary on the *Guide of the Perplexed*, and poetic philosophic tales. His method of seamlessly blending various philosophic texts together to form a coherent whole is perhaps unique to him. But the fact is that his most important works are comprised of Hebrew versions of the writings of others. We have seen that his personal views on theological-philosophical matters may be discerned from his *Moreh ha-Moreh*, particularly when he speaks in his own name. Yet even in his earlier works, he often asserted his personal views, but he usually let his sources do the talking. When proper care is taken in the study of these works not to jump to conclusions regarding his views on the basis of his translations, it is possible to uncover his own theology. The role played by his occasional critical comments in his commentary is played by the selection, blending, and abridgment of sources in the earlier works. The theology derived from such careful study of his translations and from his commentary may not always accord completely with that expressed in his more popular independent treatises (such as the *Iggeret ha-Vikkuah* and *Iggeret ha-Halom*), where he explicitly maintains the existence and unity of God, His knowledge of particulars, His providence over human individuals, His creation of the world, divine prophecy, miracles, reward and punishment, and eternal life, which is the World to Come. Scholars will no doubt debate his views on particular topics, but the thinker who emerges from virtually all his writings is a moderate Maimonidean, committed to the essential harmony between the true teachings of Torah and those of philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      法拉库拉不追求原创性，但在哲学和科学的呈现上相当有创造性。例如，他是最早写作哲学对话、科学与哲学百科全书、《迷途指津》评注以及诗体哲学故事的希伯来作者之一。他把各种哲学文本无缝地编织成一个融贯整体的方法，也许是独一无二的。但事实是，他最重要的著作由他人著作的希伯来文版本构成。我们已经看到，他个人在神学-哲学问题上的观点可以从他的《迷途指津之指引》中辨认出来，特别是当他以自己的名义说话时。然而即便在他较早的著作中，他也常常表明个人观点，只是通常让他的来源代他说话。当在研究这些著作时足够小心，不根据他的译文就对他的观点匆忙下结论，就有可能揭示他自己的神学。在他较早的著作中，其译文的挑选、糅合和删节，扮演了评注中那些偶尔的批评性评论所扮演的角色。从对其译文和评注的这种仔细研究中得出的神学，未必总与他更通俗的独立论著（如《论辩书》和《梦之书》）中所表达的完全一致——在后者中，他明确坚持上帝的存在和统一、他对个别事物的知识、他对人类个体的护佑、他创世、神圣预言、奇迹、赏罚，以及永恒生命即来世。学者们无疑会就他在具体问题上的观点进行争论，但从他几乎所有著作中浮现出来的那位思想家，是一个温和的迈蒙尼德主义者，坚信《托拉》的真教导与哲学的真教导之间本质上的和谐。
+    step2: |-
+      法拉库拉不求创见，但在呈现哲学与科学时颇有创造力。比如，他是最早写作哲学对话、科学与哲学百科全书、《迷途指津》评注以及诗体哲学故事的希伯来作者之一。他把各种哲学文本无缝编织成融贯整体的手法，或许是独一无二的。但事实是：他最重要的著作，都由他人著述的希伯来文版本构成。我们已看到，他本人对神学-哲学问题的看法可从《迷途指津之指引》辨认——尤其当他以自己的名义发言时。不过即便在较早的著作里，他也常表明个人观点，只是通常让来源代他说话。研读这些著作时若能谨慎，不凭其译文遽断其观点，便有可能揭示他自己的神学。在较早著作中，其译文的择取、糅合与删节，扮演了评注中那些偶尔的批评性评语所扮演的角色。经此细究其译文与评注而得出的神学，未必总与他更通俗的独立论著（如《论辩书》与《梦之书》）所表达的完全一致——在后者中，他明确主张上帝的存在与统一、上帝对个别之物的知识、上帝对人类个体的护佑、上帝创世、神圣预言、奇迹、赏罚，以及永恒生命即来世。学者们无疑会就他在具体题目上的观点争论不休；但从他几乎所有著作中浮现出来的那位思想家，是一位温和的迈蒙尼德主义者，坚信《托拉》的真教诲与哲学的真教诲在本源上和谐一致。
   - id: 28
     kind: body
     source: |-
       The problem of creation of the world is a good illustration of a topic where Falaquera seems to convey different opinions in different works. In his popular introductory works, Falaquera writes that among the true opinions of the Torah is that God “brought into existence the rest of the existents from non-existence” (*Iggeret ha-Halom*, 489), that it is the “root of the Torah to believe that there is a Creator of the world … and He brought into existence all the created beings from nothing, and to believe that the world is produced and is not eternal” (*Sefer ha-Mevaqqesh*, 65), and that while most of the philosophers disagree with our beliefs concerning creation, some of them actually do “believe in the production [of the world], but not in the way that we believe in it” (*Iggeret ha-Vikkuah*, 77; trans., 46). He thus seems to propound a view of creation *ex nihilo*, while acknowledging that most philosophers believe in eternity, although some believe in creation, but in a way different than we do, that is perhaps, creation from eternal matter. Falaquera does state in these works that knowledge of the true sciences is needed to comprehend the secrets of the Torah (e.g., *Sefer ha-Mevaqqesh*, 70–72). One could wonder that if knowledge of philosophy and science is necessary for understanding the secrets of the Torah and if creation is one of these secrets, why the philosophers do not believe in it “in the way that we believe in it.” In the *Moreh ha-Moreh*, Falaquera clearly states that among the divine secrets is “how God, may He be exalted, created the created beings” (116). In this commentary, perhaps of all Falaquera’s writings the least likely to be read by the multitude, he reveals his own opinion that the world is not created from nothing. His precise view is debated, but he seems to hold that the world is created from eternal matter, a view that Maimonides had ascribed to Plato. In his introduction, he suggests that Plato’s view that the world is created and never destroyed derives from the Sages, but since the Sages knew the true interpretation of the Torah, this would seem to mean that Plato’s view was the true one (117). Later in the commentary, he repeats this view and writes that it appears to him that “Plato’s opinion inclines toward the opinion of our holy Torah” (259, on *Guide* II, 13). A bit later in the chapter he writes explicitly (261):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      世界创生问题是一个很好的例子，说明法拉库拉似乎在不同著作中传达不同意见。在他通俗的入门著作中，法拉库拉写道，《托拉》的真意见之一是上帝“使其余存在者从不存在中产生存在”（*Iggeret ha-Halom*, 489）；“相信有一位世界的创造者……并且他从无中使一切受造者存在，相信世界是被产生的而不是永恒的，这是《托拉》的根基”（*Sefer ha-Mevaqqesh*, 65）；而虽然大多数哲学家不同意我们关于创世的信念，其中一些人实际上确实“相信〔世界的〕产生，但不是以我们所相信的方式”（*Iggeret ha-Vikkuah*, 77；译文 46）。因此他似乎提出一种从无中创世的观点，同时承认大多数哲学家相信永恒，虽然有些人相信创造，但方式与我们不同，也许是从永恒质料创造。法拉库拉在这些著作中确实说，要理解《托拉》的奥秘，需要真科学的知识（如 *Sefer ha-Mevaqqesh*, 70–72）。人们可以问：如果哲学和科学的知识对于理解《托拉》的奥秘是必需的，而创世又是这些奥秘之一，为什么哲学家们不以“我们所相信的方式”相信它？在《迷途指津之指引》中，法拉库拉明确说，神圣奥秘之一就是“上帝，愿他受颂扬，如何创造受造者”（116）。在这部评注中——也许是法拉库拉所有著作中最不可能被多数人读到的一部——他揭示了自己的意见：世界不是从无中创造的。他的确切观点有争议，但他似乎主张世界是从永恒质料创造的，这是迈蒙尼德归给柏拉图的观点。在他的导言中，他暗示柏拉图关于世界被造而不被毁灭的观点源自圣哲；而既然圣哲知道《托拉》的真解释，这似乎意味着柏拉图的观点是真的那一个（117）。在评注稍后处，他重复这一观点，并写道，在他看来，“柏拉图的意见倾向于我们神圣《托拉》的意见”（259，评《迷途指津》II, 13）。在章内稍后一点，他明确写道（261）：
+    step2: |-
+      世界创生问题，很能说明法拉库拉在不同著作中似持不同观点。在他通俗的入门著作里，法拉库拉写道：《托拉》的真意见之一，是上帝“使其余存在者从不存在中产生存在”（*Iggeret ha-Halom*, 489）；“相信有一位世界创造者……且他从无中使一切受造者存在，相信世界是被产生的而非永恒的，这是《托拉》的根基”（*Sefer ha-Mevaqqesh*, 65）；而多数哲学家虽不同意我们关于创世的信念，其中一些人实际确实“相信〔世界的〕产生，但不是以我们所信的方式”（*Iggeret ha-Vikkuah*, 77；译文 46）。于是他似乎在提出一种*从无中*创世（creatio ex nihilo）的观点，同时承认多数哲学家相信永恒——尽管有些人相信创世，但方式与我们不同，或许是从永恒质料创世。法拉库拉在这些著作中确实说过：要领会《托拉》的奥秘，需要真科学的知识（如 *Sefer ha-Mevaqqesh*, 70–72）。人们不禁要问：若哲学与科学的知识是理解《托拉》奥秘所必需的，而创世又是这些奥秘之一，哲学家们为何不以“我们所信的方式”相信它？在《迷途指津之指引》中，法拉库拉明言：神圣奥秘之一便是“上帝（愿他受颂扬）如何创造受造者”（116）。在这部评注——或许是他所有著作中最不可能为大众所读的一部——里，他透露己见：世界并非从无中创造。其确切观点仍有争议，但他似乎主张世界从永恒质料创造——这正是迈蒙尼德归给柏拉图的看法。在导言中，他提示柏拉图“世界被造而不被毁灭”的观点源出圣哲；既然圣哲知道《托拉》的真解释，这似乎意味着柏拉图的看法才是真的（117）。评注稍后处，他重申此见，并写道：在他看来，“柏拉图的意见倾向于我们神圣《托拉》的意见”（259，评《迷途指津》II, 13）。再往后一点，在本章中他明确写道（261）：
   - id: 29
     kind: body
     source: |-
       > It appears to me that there is no need to say that the Creator, may He be exalted, brought into existence the existent from non-existence [*me-ha-he‘der*], but rather that he brought it into existence *after* complete non-existence, for this is possible according to our faith. Therefore, those that say that He, may He be exalted, brought [the world] into existence from nothing [do] not [express] a precise belief; rather, He brought it into existence after nothing, that is, He brought it into existence after the thing did not exist.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在我看来，无须说造物主（愿他受颂扬）使存在者从不存在（*me-ha-he‘der*）中产生存在；毋宁说，他是在完全的不存在*之后*使它存在，因为按我们的信仰这是可能的。因此，那些说他（愿他受颂扬）从无中使〔世界〕存在的人，〔表达的〕并非精确的信念；毋宁说，他是在无之后使它存在——也就是说，他在该物尚不存在之后使它存在。
+    step2: |-
+      > 在我看来，无须说造物主（愿他受颂扬）使存在者从不存在（*me-ha-he‘der*）中产生存在；毋宁说，他是在完全的不存在*之后*使它存在，因为按我们的信仰这是可能的。因此，那些说他（愿他受颂扬）从无中使〔世界〕存在的人，〔表达的〕并非精确的信念；毋宁说，他是在无之后使它存在——也就是说，他在该物尚不存在之后使它存在。
   - id: 30
     kind: body
     source: |-
       In other words, Falaquera in the context of his commentary on Maimonides’ *Guide* reveals his own view on creation of the world, one of the secrets of the Torah. This view differs from the one commonly held in the Jewish community of his time, which he himself called a root and true opinion of the Torah in his more popular works. The view presented in the commentary – for Falaquera, the true interpretation of the teaching of the Torah and a precise formulation of it – still speaks of God’s creation, not ex *nihilo*, but rather *after* non-existence (*ahar ha-he‘der*) or after privation of form. In other words, it appears that for Falaquera, creation is through informing prime matter (cf. Shiffman, “Falqerah As Interpreter,” 7–14 [220]). This interpretation of Falaquera’s teaching is strengthened by his explanation of ‘creation’ (*beri‘ah*) in his *Commentary on the Torah*: “The word ‘creation’ teaches creation of the substance and quiddity of the thing, through which it is what it is … for the giving of the spirit to the bodies of this world is called ‘creation’. … [God] gives all creatures substantive form, that is, specific form, by which the thing is distinguished from something else” (Jospe, *Torah and Sophia*, 468). For Falaquera then, some of the philosophers do share a view of creation of the world precisely “in the way that we believe in it.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      换句话说，法拉库拉在评注迈蒙尼德《迷途指津》的语境中，揭示了他自己对世界创生的观点，这是《托拉》的奥秘之一。这一观点与他那个时代犹太社群中通行的观点不同，而后者他自己在更通俗的著作中称为《托拉》的一条根基和真意见。评注中呈现的观点——对法拉库拉来说，这是《托拉》教导的真解释和精确表述——仍然谈上帝的创造，但不是从无中，而是在不存在之后（*ahar ha-he‘der*），或在形式的缺失之后。换句话说，在法拉库拉看来，创造是通过赋形于原初质料而完成的（参 Shiffman, “Falqerah As Interpreter,” 7–14 [220]）。他在《托拉评注》中对“创造”（*beri‘ah*）的解释加强了这一解读：“‘创造’一词教导的是事物实体和本质的创造，事物凭此而是其所是……因为赋予这个世界诸形体以灵被称为‘创造’。……〔上帝〕赋予一切受造者实体形式，即种属形式，事物凭此与别的东西区别开来”（Jospe, *Torah and Sophia*, 468）。因此在法拉库拉看来，某些哲学家确实恰恰“以我们所相信的方式”共有世界创生的观点。
+    step2: |-
+      换句话说，法拉库拉在评注迈蒙尼德《迷途指津》的语境中，透露了他本人对世界创生——《托拉》的奥秘之一——的看法。这一看法与当时犹太社群的通行之见不同；而后者，他自己在更通俗的著作中称之为《托拉》的一条根基与真意见。评注中所呈现的看法——在法拉库拉看来，这是《托拉》教诲的真解释与精确表述——仍然讲上帝的创造，但不是*从无中*（ex *nihilo*），而是*在不存在之后*（*ahar ha-he‘der*），或在形式缺失之后。换言之，在法拉库拉看来，创造是经由赋形于原初质料而完成的（参 Shiffman, “Falqerah As Interpreter,” 7–14 [220]）。他在《托拉评注》中对“创造”（*beri‘ah*）的解释，加强了对其学说的这一解读：“‘创造’一词教导的是事物实体与本质之创造——事物凭此而成为其所是……因为赋予此世诸形体以灵，便称为‘创造’。……〔上帝〕赋予一切受造者实体形式，即种属形式，事物凭此与别物相区别”（Jospe, *Torah and Sophia*, 468）。故在法拉库拉看来，某些哲学家确实恰恰“以我们所信的方式”共有世界创生之说。
   - id: 31
     kind: body
     source: |-
       The importance of Falaquera for the history of philosophy is not, however, in his personal beliefs regarding theological-philosophical subjects. It is rather in his broad and profound knowledge of the teachings of the ancient and medieval philosophers, his mastery of their science, his commitment to the ultimate accord between their true teachings and the correctly interpreted teachings of the Torah, and his life-long effort to interest his fellow Jews in science and philosophy and to make their teachings available to them. To accomplish his goals, as we have seen, Falaquera, perhaps more than any other medieval Jewish philosopher, employed a wide variety of different literary forms (see further, Hughes and Robinson 2019)[^hughes-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，法拉库拉在哲学史上的重要性，并不在于他个人对神学-哲学诸题目的信念；而在于他对古今哲学家教诲广博而深厚的知识、对其科学的精通、对“他们的真教诲与《托拉》正确解释的教诲终归一致”的坚信，以及他毕生为使犹太同胞对科学与哲学发生兴趣、为使这些教诲流布于他们而付出的努力。为达成目标，正如我们所见，法拉库拉或许比任何其他中世纪犹太哲学家都更多地运用了各种各样的文学形式（另见 Hughes and Robinson 2019）[^hughes-2019]。
+    step2: |-
+      然而，法拉库拉的哲学史意义，并不在他个人对神学-哲学诸题目的信念；而在于他对古今哲学家教诲广博而深厚的知识、对其科学的精通、对“他们的真教诲与《托拉》正确解释的教诲终归一致”的坚信，以及他毕生为使犹太同胞对科学与哲学发生兴趣、为使这些教诲流布于他们而付出的努力。为达成目标，正如我们所见，法拉库拉或许比任何其他中世纪犹太哲学家都更多地运用了各种各样的文学形式（另见 Hughes and Robinson 2019）[^hughes-2019]。
   - id: 32
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [如有建议，请联系作者。]
+    step2: |-
+      [如有建议，请联系作者。]
