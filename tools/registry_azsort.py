@@ -173,6 +173,11 @@ def scan(lines):
                 rows.append({'line': line, 'key': cells[0], 'idx': idx})
             elif not _is_dropped_header(s):
                 raise SystemExit('未识别的表格行（既不属数据也不属历史表头）：%s' % s[:80])
+        elif LETTER_HEAD_RE.match(s):
+            # 旧字母节标题一律丢弃，由 render 统一重生成。
+            # 首节标题若在首个数据行之前出现，曾会被当作文件头收入 header，
+            # render 再输出同名标题 → 重复 `## A`（非幂等，2026-11-11 修复）。
+            pass
         elif not rows:
             header.append(line)
         else:
@@ -224,7 +229,10 @@ def _git_clean(path):
 
 
 def process(path, allow_dirty=False, apply=False):
-    rel = os.path.relpath(path, ROOT)
+    try:
+        rel = os.path.relpath(path, ROOT)
+    except ValueError:  # 跨盘符（测试临时文件在 C:、仓库在 D:）
+        rel = path
     before = open(path, encoding='utf-8').read().splitlines(True)
     text_before = ''.join(before)
     header, rows, docs = scan(before)
@@ -284,9 +292,14 @@ def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
     apply = '--apply' in argv
     allow_dirty = '--allow-dirty' in argv
+    targets = [a for a in argv if not a.startswith('-')]
+    if targets:
+        paths = [p if os.path.isabs(p) else os.path.join(ROOT, p) for p in targets]
+    else:
+        paths = [os.path.join(ROOT, name) for name in (TERM_FILE, PERSON_FILE)]
     rc = 0
-    for name in (TERM_FILE, PERSON_FILE):
-        rc |= process(os.path.join(ROOT, name), allow_dirty=allow_dirty, apply=apply)
+    for path in paths:
+        rc |= process(path, allow_dirty=allow_dirty, apply=apply)
     return rc
 
 
