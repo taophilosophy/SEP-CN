@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-09 23:45（UTC）
+生成时间：2026-11-10 00:45（UTC）
 
 ## 总览
 
@@ -14,21 +14,22 @@
 |已建英文基线|1879|
 |已建任务|1173|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|265|
-|在途（drafted 起、done 前）|230|
+|已完成（done）|267|
+|在途（drafted 起、done 前）|229|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|678|
-|cleared|153|
+|pending|677|
+|cleared|152|
 |drafted|3|
-|s3_checked|70|
+|s1_checked|1|
+|s3_checked|69|
 |r1_reviewed|3|
 |r2_reviewed|1|
-|done|265|
+|done|267|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -36,7 +37,7 @@
 |---|---|---|---|---|
 |A|160|160|160|57|
 |B|62|62|62|15|
-|C|172|172|172|9|
+|C|172|172|172|11|
 |D|92|92|92|12|
 |E|99|99|99|19|
 |F|96|96|96|1|
@@ -65,7 +66,7 @@
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
-|adorno|retranslate|cleared|task_ops 2026-10-31|
+|adorno|retranslate|s1_checked|A5-main-20261110 2026-11-10|
 |aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-cogsci|retranslate|cleared|task_ops 2026-10-31|
@@ -147,13 +148,11 @@
 |conceptual-art|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |confucius|retranslate|s3_checked|主代理 2026-11-01|
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
-|contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
 |cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |crescas|retranslate|s3_checked|C-main-20261108 2026-11-07|
 |croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
-|cudworth|retranslate|s3_checked|主代理 2026-11-01|
 |dai-zhen|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |davidson|retranslate|cleared|task_ops 2026-11-01|
 |deductivism-mathematics|retranslate|s3_checked|D-main-20261107 2026-11-07|
@@ -280,11 +279,12 @@
 |newton-philosophy|retranslate|cleared|task_ops 2026-11-08|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
 |omniscience|retranslate|cleared|task_ops 2026-11-09|
-|paradox-of-tragedy|retranslate|cleared|task_ops 2026-11-09|
+|paradox-of-tragedy|retranslate|s3_checked|P-main-20261110 2026-11-10|
 |peter-damian|retranslate|s3_checked|P-main-20261110 2026-11-09|
 |quine-nf|retranslate|cleared|task_ops 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|
+|sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|

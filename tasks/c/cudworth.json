@@ -1,50 +1,78 @@
 {
- "slug": "cudworth",
- "kind": "retranslate",
- "zh_doc": "c/cudworth.md",
- "state": "s3_checked",
- "steps": [
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
-  },
-  {
-   "step": "draft",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "初译完成：零信任译自 yuanwen/cudworth.md，账本双版（step1/step2）齐全"
-  },
-  {
-   "step": "s1",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
-  },
-  {
-   "step": "s2",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
-  },
-  {
-   "step": "s3",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+  "slug": "cudworth",
+  "kind": "retranslate",
+  "zh_doc": "c/cudworth.md",
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "初译完成：零信任译自 yuanwen/cudworth.md，账本双版（step1/step2）齐全"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T00:43:08Z",
+      "evidence": "r1 校订：pubinfo 改斜体；补 almost（文艺复兴人文主义恢复几乎全部古代典籍）；修复 L43 破损强调记号 3 处（energeia/synaesthesis/TISU）；bungles 拙作→败笔、umbrage 智性性→理智性（L51/L69）；思想负债→受惠最深（L53）；要质→核心要素；牛顿改艾萨克·牛顿（Isaac Newton，ADR-0022）、达玛丽斯→达玛里斯（登记册正形）、莫谢姆→莫斯海姆；Enneads→《九章集》、TEIM 页码标点统一；参考文献补 h3/h4 结构桩（原始文献/手稿文献/刊印文献/二手文献）并补脚注说明引语；相关词条对齐 SUMMARY（剑桥柏拉图学派/17 世纪的意识理论/达玛里斯·库德沃斯·马沙姆）；补登人名 7 行（Harrison/Wise/Ray/Janet/Pope/Coleridge/Passmore）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T00:44:12Z",
+      "evidence": "r2 prose 18→0：de-chain 8 处、long-sentence 6 处逐句拆分改写（L7/L21/L27/L31/L33/L37/L43/L51/L75/L85），weak-verb 3 处（加以/作出/作出→直陈动词），passive-bei 1 处（L37 两处被字句改主动）；引语按原文重校（TISU 172 umbrage、FW 178 exercising deliberation、TEIM 77 意念性/表象性世界）；check_style/check_math/check_academic/check_terms 均无硬错误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T00:44:13Z",
+      "evidence": "r3 复验：结构 h2 13:13、h3 2:2、h4 2:2（源文 Primary/Secondary 及 Manuscript/Printed 结构桩齐）；脚注定义 89:89 键集完全一致；H1 与 SUMMARY 第 603 行一致；prose 0、style 0、math 0、academic 硬错误 0、terms 硬错误 0、summary alias 0；bold 记号偶数平衡（L43 破损已修）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T00:44:13Z",
+      "evidence": "C 批 done 并入：三校全绿，7 行重名登记入库（r1 补登）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:09:51Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 15, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "0d2eca66a7cdc805ace0dab0205ffbc1f39b945cf25149ec7604d05835b1a405"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-31T22:09:51Z",
- "version_pin": {
-  "pubinfo_date": "Aug 15, 2025",
-  "archive_edition": "Fall 2025",
-  "sha256": "0d2eca66a7cdc805ace0dab0205ffbc1f39b945cf25149ec7604d05835b1a405"
- }
 }
