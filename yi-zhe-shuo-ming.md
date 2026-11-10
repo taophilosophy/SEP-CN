@@ -4189,7 +4189,7 @@
 | somatic cell nuclear transfer (SCNT) | — | 体细胞核移植 | 首现（cloning） | 学界惯例（生命伦理学/发育生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | somatic marker | — | 躯体标记（达马西奥） | 首现（emotion-Christian-tradition） | 学界惯例（认知神经科学通行）；凭证 2026-11-04 | 2026-11-04 |
 | somatic mutation | — | 体细胞突变 | cancer | 学界通行（遗传学；与 germline mutation 生殖系突变对举）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| somatic mutation theory | — | 体细胞突变论 | cancer | 本条术语（癌症理论，SMT）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| somatic mutation theory | — | 体细胞突变学说（亦作“体细胞突变论”） | cancer | 审定名词库（termonline-all·医学名词，2026-11-11 浏览器通道凭证）；本条术语（癌症理论，SMT） | 2026-11-11 |
 | somatoparaphrenia | — | 躯体妄想 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | sŏngjŏk tŭngji（惺寂等持） | 惺寂等持 | 惺寂等持 | korean-buddhism | 汉文传统写法（知讷三门径之一） | 2026-11-05 |
 | sophisma-sentence | — | 诡辩句 | peter-spain | 沿登记册 sophisma→诡辩句（sophismata 词条既定形）；凭证 2026-11-09 | 2026-11-09 |

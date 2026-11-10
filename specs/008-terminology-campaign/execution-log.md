@@ -413,3 +413,13 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 * `check_terms` 硬错误 0（冲突 0 + 自洽 0）、词汇表滞后 0。
 * `check_all` 9 项 8 绿；学术规范红为并行会话在途任务（`tasks/l/logic-substructural.json` 步骤 s2 缺语体核验），非本批改动。
 
+### 四、第二批增量裁定（offset 2044–2076，8 条）
+
+* 审计刷新：8624 行，一致 539 / 不一致 362 / 查无 1919 / 未查证 5804；新增不一致 8 条。
+* **主译变更 1 条**：somatic mutation theory「体细胞突变论」→「体细胞突变学说」（审定名词·医学名词，英文精确且学科语境正确；
+  旧形降为亦作；`c/cancer.md` 4 处看齐）。
+* **保留 7 条**：species concept（审定命中为图书馆学「种概念」及下位「形态种概念」）、species（经院，维基垃圾命中）、
+  spectator blame（社会学假阳性）、spirits / spiritus（天文学/药学/中医药异义）、Spirituals（音乐「灵歌」义≠方济各会「属灵派」）、
+  sŏngjŏk tŭngji（维基垃圾命中）。
+
+
