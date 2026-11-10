@@ -1,0 +1,348 @@
+{
+ "key": "unum per accidens",
+ "term": "unum per accidens",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T21:02:00+00:00",
+ "status": "ok",
+ "note": "variant=unum per accidens; 审定公布名词库=970; 海峡两岸名词对照库=363; 其他来源数据库=19; 预公布名词数据库=104; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "母猪年产仔窝数",
+   "en": "litters per sow per year",
+   "code": "02.105",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_饲养管理_猪饲养"
+  },
+  {
+   "cn": "母猪年生产力",
+   "en": "productivity per sow per year",
+   "code": "02.106",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_饲养管理_猪饲养"
+  },
+  {
+   "cn": "齿升量",
+   "en": "cut per tooth,step per tooth,rise per tooth",
+   "code": "11.087",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_刀具_刀具要素"
+  },
+  {
+   "cn": "版面字数",
+   "en": "characters per page;words per page",
+   "code": "02.06.011",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_装帧"
+  },
+  {
+   "cn": "单次产毛量",
+   "en": "wool production per shearing per rabbit",
+   "code": "08.019",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_养兔_家兔饲养管理"
+  },
+  {
+   "cn": "货车日车公里",
+   "en": "car kilometers per car per day",
+   "code": "06.0328",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道运输管理与运输经济"
+  },
+  {
+   "cn": "机械台班定额",
+   "en": "rating per machine per team,ra- ting per machine-team",
+   "code": "02.0030",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道工程建设"
+  },
+  {
+   "cn": "经口",
+   "en": "peroral,per os",
+   "code": "10.202",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫病理学"
+  },
+  {
+   "cn": "单口采食量",
+   "en": "intake per bite ",
+   "code": "2.0435",
+   "standard": "草学名词",
+   "subject": "草学_草地生态与草地培育_草地培育与利用"
+  },
+  {
+   "cn": "传媒以销定产",
+   "en": "production per circulation",
+   "code": "19.119",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传媒经济_传媒管理"
+  },
+  {
+   "cn": "每分钟打击次数",
+   "en": "blows per minute",
+   "code": "03.295",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_锻压_锻压机器及机械化、自动化_锻压机器性能参数及一般术语"
+  },
+  {
+   "cn": "人均国内生产总值",
+   "en": "per capita GDP",
+   "code": "04.109",
+   "standard": "经济学名词",
+   "subject": "经济学_宏观经济学"
+  },
+  {
+   "cn": "每个特别提款权单位",
+   "en": "per SDR",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "经鼻",
+   "en": "per nasal(拉)",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "经口，口服",
+   "en": "per os(拉)",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "经直肠",
+   "en": "per rectum(拉)",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "大陵五 (英仙β)",
+   "en": "Algol，βPer",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "每分钟蜕变数",
+   "en": "decay per minute\",\"disintegration per minute",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "经口",
+   "en": "peroral\",\"per os",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "周/秒",
+   "en": "cycle per second",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "单程收率",
+   "en": "yield per path",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "英仙UV型星",
+   "en": "UV Per star",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "单位补充渔获量",
+   "en": "yield per recruit",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "单位产出",
+   "en": "per unit yield",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "每分钟计数",
+   "en": "Counts per minute",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人均可支配收入",
+   "en": "per capita disposable income",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_百姓生活"
+  },
+  {
+   "cn": "桨频",
+   "en": "cadence\",\"stroke rate\",\"strokes per minute",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "事故",
+   "en": "accident",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "白内障",
+   "en": "Falling (accident)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "临界事故",
+   "en": "criticality accident",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "码头",
+   "en": "pier",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "点对点网络借款",
+   "en": "peer-to-peer lending",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "点对点网络",
+   "en": "peer-to-peer network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "碘化钾",
+   "en": "nuclear and radiation accident",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "对等分享模式",
+   "en": "peer-to-peer sharing model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "全德工人联合会",
+   "en": "Der Sozialdemokrat",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "每份食品",
+   "en": "per serving",
+   "code": "1.4.4.120",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "按床日支付",
+   "en": "per diem payment",
+   "code": "10.2.17.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "按诊次支付",
+   "en": "pay per visit",
+   "code": "10.2.17.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "人均使用面积",
+   "en": "area per capita",
+   "code": "9.5.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生"
+  },
+  {
+   "cn": "单位含量剂量函数",
+   "en": "dose per content function",
+   "code": "6.3.4.24",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "单位摄入剂量系数",
+   "en": "dose per intake coefficient",
+   "code": "6.3.4.25",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "人均卫生费用",
+   "en": "per capita health expenditure",
+   "code": "8.11.2.5",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "人均年有效剂量",
+   "en": "annual effective dose per capita",
+   "code": "5.5.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "人均卫生总费用",
+   "en": "per capita total health expenditure",
+   "code": "2.4.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生总费用分析"
+  },
+  {
+   "cn": "年人均就诊次数",
+   "en": "estimated annual visits per capita",
+   "code": "8.6.1.2",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "人均国内生产总值",
+   "en": "per capita gross domestic product",
+   "code": "9.2",
+   "standard": "社会医学名词",
+   "subject": "社会卫生状况评价"
+  },
+  {
+   "cn": "人均国民总收入",
+   "en": "per capita gross national income",
+   "code": "9.4",
+   "standard": "社会医学名词",
+   "subject": "社会卫生状况评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

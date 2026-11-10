@@ -1,0 +1,61 @@
+{
+ "key": "univocal",
+ "term": "univocal",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:57:30+00:00",
+ "status": "ok",
+ "note": "variant=univocal; 审定公布名词库=4; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "单峰函数",
+   "en": "unimodal function",
+   "code": "05.025",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "单峰聚乙烯",
+   "en": "unimodal polyethylene",
+   "code": "2.0179",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成树脂_聚乙烯树脂"
+  },
+  {
+   "cn": "单峰分布",
+   "en": "unimodal distribution",
+   "code": "09.0070",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_随机变量"
+  },
+  {
+   "cn": "单峰函数",
+   "en": "unimodal function",
+   "code": "011.0190",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_非线性规划"
+  },
+  {
+   "cn": "单峰分布",
+   "en": "unimodal distribution",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "单峰谱",
+   "en": "unimodal spectrum",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "单峰分布",
+   "en": "unimodal distribution",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

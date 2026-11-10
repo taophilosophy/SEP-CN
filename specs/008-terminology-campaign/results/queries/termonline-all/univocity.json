@@ -1,0 +1,19 @@
+{
+ "key": "univocity",
+ "term": "univocity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:57:30+00:00",
+ "status": "ok",
+ "note": "variant=univocity; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "强唯一性定理",
+   "en": "strong unicity theorem",
+   "code": "010.0117",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_数值逼近"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
