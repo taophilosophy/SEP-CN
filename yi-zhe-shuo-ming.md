@@ -4252,7 +4252,7 @@
 | spontaneity | — | 自发性 | 18thGerman-preKant | 学界通行汉译（康德译本通行）；凭证 2026-11-05 | 2026-11-05 |
 | spontaneous acts | — | 自发行为 | reinach | 学界惯例（spontane Akte 研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | spontaneous conduct | — | 自发行为 | moral-responsibility-empirical | 行动哲学（spontaneous conduct；与慎思行动对举） | 2026-11-07 |
-| spontaneous generation | — | 自然发生 | natphil-ren | 科学史通行（abiogenesis 前身之说）；凭证 2026-11-10 | 2026-11-10 |
+| spontaneous generation | — | 自然发生说（亦作“自然发生”） | natphil-ren | 审定名词库（termonline-all·动物学/微生物学名词，2026-11-11 浏览器通道凭证）；abiogenesis 前身之说 | 2026-11-11 |
 | sprachloses Denken | sprachloses Denken | 无语言的思维 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
 | spread (intuitionism) | — | 展形 | 首现（intuitionism） | 直觉主义数学通行（亦作“展开”；与统计学 spread 分列）；凭证 2026-11-10 | 2026-11-10 |
 | spyware | — | 间谍软件 | 首现（it-moral-values） | 信息安全通行译名；凭证 2026-11-10 | 2026-11-10 |

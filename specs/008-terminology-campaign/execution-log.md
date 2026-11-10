@@ -422,4 +422,14 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   spectator blame（社会学假阳性）、spirits / spiritus（天文学/药学/中医药异义）、Spirituals（音乐「灵歌」义≠方济各会「属灵派」）、
   sŏngjŏk tŭngji（维基垃圾命中）。
 
+### 五、第三批增量裁定（offset 2076–2116，8 条）
+
+* 审计刷新：一致 548 / 不一致 369 / 查无 1950 / 未查证 5757；新增不一致 8 条。
+* **主译变更 1 条**：spontaneous generation「自然发生」→「自然发生说」（审定名词·动物学/微生物学名词，英文精确且学科语境正确；
+  旧形降为亦作；`n/natphil-ren.md` 看齐）。
+* **保留 7 条**：state of affairs / states of affairs（中国古代史「尚书省」假阳性）、state of war（战国时代假阳性）、
+  startle response（下位「震惊条件反射实验」）、statistical learning（下位「统计学习理论」）、steering（航海「操舵」异义）、
+  stem cell bank（下位「胚胎干细胞库」）。
+
+
 

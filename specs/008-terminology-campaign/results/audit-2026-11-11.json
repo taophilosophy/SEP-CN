@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 5804,
-  "查无": 1919,
-  "不一致": 362,
-  "一致": 539
+  "未查证": 5757,
+  "查无": 1950,
+  "不一致": 369,
+  "一致": 548
  },
  "results": [
   {
@@ -70844,9 +70844,9 @@
    "table": "术语",
    "line": 4122,
    "term": "somatic mutation theory",
-   "trans": "体细胞突变论",
-   "basis": "本条术语（癌症理论，SMT）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "不一致",
+   "trans": "体细胞突变学说（亦作“体细胞突变论”）",
+   "basis": "审定名词库（termonline-all·医学名词，2026-11-11 浏览器通道凭证）；本条术语（癌症理论，SMT）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -72261,9 +72261,11 @@
    "term": "spontaneous acts",
    "trans": "自发行为",
    "basis": "学界惯例（spontane Akte 研究文献）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72271,9 +72273,11 @@
    "term": "spontaneous conduct",
    "trans": "自发行为",
    "basis": "行动哲学（spontaneous conduct；与慎思行动对举）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72281,9 +72285,66 @@
    "term": "spontaneous generation",
    "trans": "自然发生",
    "basis": "科学史通行（abiogenesis 前身之说）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "自然发生说",
+     "en": "spontaneous generation",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "自然发生说",
+     "en": "spontaneous generation,abiogenesis",
+     "source": "微生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "自然发生说",
+     "en": "abiogenesis,spontaneous generation",
+     "source": "细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "自然发生说",
+     "en": "abiogenesis,spontaneous generation",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "无生源说（=自然发生说）",
+     "en": "abiogenesis\",\"spontaneous generation",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "自然发生说，无生源说",
+     "en": "abiogenesis\",\"spontaneous generation",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "自然发生说，无生源说",
+     "en": "abiogenesis\",\"spontaneous generation",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "自然发生说,无生源说",
+     "en": "abiogenesis\",\"spontaneous generation",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "自生",
+     "en": "Spontaneous Generation",
+     "source": "中华思想文化术语传播工程"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72291,9 +72352,11 @@
    "term": "sprachloses Denken",
    "trans": "无语言的思维",
    "basis": "主会话直译收口 432e0a76；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72301,9 +72364,11 @@
    "term": "spread (intuitionism)",
    "trans": "展形",
    "basis": "直觉主义数学通行（亦作“展开”；与统计学 spread 分列）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72311,9 +72376,24 @@
    "term": "spyware",
    "trans": "间谍软件",
    "basis": "信息安全通行译名；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "间谍软件",
+     "en": "spyware",
+     "source": "图书馆·情报与文献学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "间谍软件",
+     "en": "spyware",
+     "source": "大数据百科术语辞典"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72321,9 +72401,11 @@
    "term": "square of contraries",
    "trans": "对立方阵",
    "basis": "逻辑史通行（即对当方阵；SUMMARY 词条题名“传统逻辑方阵”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72331,9 +72413,11 @@
    "term": "square of opposition",
    "trans": "对当方阵",
    "basis": "学界通行（传统逻辑）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72341,9 +72425,11 @@
    "term": "squeezing argument",
    "trans": "挤压论证",
    "basis": "Kreisel 论证通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72351,9 +72437,174 @@
    "term": "stability",
    "trans": "稳定性",
    "basis": "学界惯例（Leitgeb 用语，与 resiliency 略同）；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "地球物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[时间]稳定性",
+     "en": "stability",
+     "source": "电力名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "肠外肠内营养学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "化工名词(三)化学工程基础"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "核医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "地方病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "建筑学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "机械工程名词 第四分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸海洋科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳性",
+     "en": "stability",
+     "source": "海峡两岸船舶工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "海峡两岸昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "奥运体育项目名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "奥运体育项目名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳定性",
+     "en": "stability",
+     "source": "奥运体育项目名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72361,9 +72612,11 @@
    "term": "stable marriage (problem)",
    "trans": "稳定婚姻（问题）",
    "basis": "学界通行译法（匹配理论通行）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72371,9 +72624,11 @@
    "term": "stable match",
    "trans": "稳定匹配",
    "basis": "学界通行译法（匹配理论通行）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72381,9 +72636,11 @@
    "term": "stadial theory",
    "trans": "阶段论（四阶段理论）",
    "basis": "学界通行（苏格兰启蒙 historiography 引介）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72391,9 +72648,11 @@
    "term": "Stadium (paradox)",
    "trans": "运动场（悖论名）",
    "basis": "学界通行（芝诺四悖论通名，苗力田译本传统）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72401,9 +72660,11 @@
    "term": "stand-in model",
    "trans": "替身模型",
    "basis": "本词条术语（Weber 2014 的 stand-in model）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72411,9 +72672,11 @@
    "term": "standard account",
    "trans": "标准说明",
    "basis": "构词直译（Ortony 等人的悬念理论）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72421,9 +72684,168 @@
    "term": "standard deviation",
    "trans": "标准差",
    "basis": "审定名词库统计学术语通行译名；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "标准偏差",
+     "en": "standard deviation",
+     "source": "地球物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "中误差",
+     "en": "standard deviation",
+     "source": "测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "畜牧学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准偏差",
+     "en": "standard deviation",
+     "source": "冶金学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "肠外肠内营养学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准偏差",
+     "en": "standard deviation",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准[偏]差",
+     "en": "standard deviation",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "全科医学与社区卫生名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "放射医学与防护名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准[偏]差",
+     "en": "standard deviation",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "海峡两岸海洋科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "海峡两岸测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准偏差",
+     "en": "standard deviation",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差",
+     "en": "standard deviation",
+     "source": "海峡两岸药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差分类",
+     "en": "standard deviation classification",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "偏离标准偏差",
+     "en": "standard deviation of deviation",
+     "source": "放射卫生学"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标准差分评价法",
+     "en": "standard deviation score method of appraisal",
+     "source": "儿少与学校卫生学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72431,9 +72853,11 @@
    "term": "standard synchrony",
    "trans": "标准同步",
    "basis": "学界惯例（ε=1/2 情形；亦作“标准同时性”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72441,9 +72865,11 @@
    "term": "standard theory (of conditions)",
    "trans": "标准理论",
    "basis": "本词条命名（Blumberg 等教材进路的通称）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72451,9 +72877,18 @@
    "term": "standard translation",
    "trans": "标准翻译",
    "basis": "模态逻辑研究通行（standard translation）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "标准翻译",
+     "en": "translation of standard",
+     "source": "放射卫生学"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72461,9 +72896,11 @@
    "term": "Stände",
    "trans": "等级（邦等级）",
    "basis": "德国史通行；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72471,9 +72908,11 @@
    "term": "Ständesstaat",
    "trans": "等级国家",
    "basis": "德国史通行（旧等级社会之国；保留德文）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72481,9 +72920,11 @@
    "term": "standing armies",
    "trans": "常备军",
    "basis": "学界通行（康德《永久和平论》条款用语）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72491,9 +72932,11 @@
    "term": "standing desire",
    "trans": "常驻欲望",
    "basis": "学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72501,9 +72944,11 @@
    "term": "standing to blame",
    "trans": "责备资格",
    "basis": "学界通行译名（责备伦理学文献）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72511,9 +72956,11 @@
    "term": "standing variation",
    "trans": "存量变异",
    "basis": "学界通行译名（进化遗传学文献）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72521,9 +72968,11 @@
    "term": "standing-in-itself",
    "trans": "自立（standing-in-itself；亦作“自身站立”）",
    "basis": "学界惯例（伽达默尔研究通行）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72531,9 +72980,11 @@
    "term": "Star of Redemption",
    "trans": "《救赎之星》",
    "basis": "学界通行译名（罗森茨维格代表作）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72541,9 +72992,11 @@
    "term": "star operator",
    "trans": "星号算子",
    "basis": "Routley 星号通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72551,9 +73004,11 @@
    "term": "stare decisis / ratio decidendi",
    "trans": "遵循先例（stare decisis）／判决理由（ratio decidendi）",
    "basis": "学界通行（法学术语，保留拉丁）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72561,9 +73016,18 @@
    "term": "startle response",
    "trans": "惊跳反应",
    "basis": "学界惯例（心理学通行）；凭证 2026-11-04",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "震惊条件反射实验",
+     "en": "acoustic startle response experiment",
+     "source": "阿尔茨海默病名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72571,9 +73035,11 @@
    "term": "state (of the world)",
    "trans": "世界状态",
    "basis": "学界惯例（概率论/博弈论通行）；凭据 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72581,9 +73047,11 @@
    "term": "state gratitude",
    "trans": "状态感恩",
    "basis": "人格心理学通行译法（与“特质感恩”对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72591,9 +73059,24 @@
    "term": "state of affairs",
    "trans": "事态",
    "basis": "同上；单数形不另立译名（同词条内锁定主形）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "尚书省",
+     "en": "shang shu sheng;department of state affairs",
+     "source": "中国古代史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "中台省",
+     "en": "zhong tai sheng;department of state affairs",
+     "source": "中国古代史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72601,9 +73084,11 @@
    "term": "state of nature",
    "trans": "自然状态",
    "basis": "学界通行（霍布斯研究核心术语）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72611,9 +73096,30 @@
    "term": "state of war",
    "trans": "战争状态",
    "basis": "学界通行；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "日本战国时代",
+     "en": "War States Age of Japan",
+     "source": "世界历史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "战国大名",
+     "en": "Daimyo of War States Age of Japan",
+     "source": "世界历史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "壬辰卫国战争",
+     "en": "Korean Im Jim War of Safeguard State",
+     "source": "世界历史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72621,9 +73127,114 @@
    "term": "state space",
    "trans": "状态空间",
    "basis": "审定名词库（物理学名词）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间",
+     "en": "state space",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间",
+     "en": "state space",
+     "source": "电力名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "态空间",
+     "en": "state space",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间",
+     "en": "state space",
+     "source": "地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[状]态空间",
+     "en": "state space",
+     "source": "力学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间",
+     "en": "state space",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间",
+     "en": "state space",
+     "source": "自动化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间描述",
+     "en": "state space description",
+     "source": "自动化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间法",
+     "en": "state space method",
+     "source": "自动化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间模型",
+     "en": "state-space model",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间法",
+     "en": "state-space method",
+     "source": "电子学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间",
+     "en": "state space",
+     "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间",
+     "en": "state space",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间表示",
+     "en": "state space representation",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间搜索",
+     "en": "state space search",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间法",
+     "en": "state-space method",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "状态空间",
+     "en": "State-space representation",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72631,9 +73242,24 @@
    "term": "states of affairs",
    "trans": "事态",
    "basis": "学界惯例（现象学与分析本体论通行译法）；SUMMARY 词条名 s/states-of-affairs.md 定名沿用；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "尚书省",
+     "en": "shang shu sheng;department of state affairs",
+     "source": "中国古代史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "中台省",
+     "en": "zhong tai sheng;department of state affairs",
+     "source": "中国古代史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72641,9 +73267,66 @@
    "term": "stationary state",
    "trans": "定态",
    "basis": "学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "定态",
+     "en": "stationary state",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "准定态",
+     "en": "quasi-stationary state",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "非平衡定态",
+     "en": "nonequilibrium stationary state",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[非平衡]定态",
+     "en": "[non-equilibrium] stationary state",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "静止态",
+     "en": "stationary state",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "定态",
+     "en": "stationary state",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳态近似",
+     "en": "stationary state approximation",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "准静态",
+     "en": "quasi-stationary state",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳态， 恒定状态",
+     "en": "homeostasis\",\"stationary state\",\"steady state",
+     "source": "海峡两岸海洋科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72651,9 +73334,18 @@
    "term": "statistical learning",
    "trans": "统计学习",
    "basis": "学界通行；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "统计学习理论",
+     "en": "statistical learning theory",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72661,9 +73353,11 @@
    "term": "statistical relevance (SR) model",
    "trans": "统计相关性（SR）模型",
    "basis": "学界通行（Salmon 1971a）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72671,9 +73365,30 @@
    "term": "steady-state cosmology",
    "trans": "稳恒态宇宙学",
    "basis": "宇宙学通行（steady-state theory 稳恒态理论之研究纲领形态）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "稳恒态宇宙学",
+     "en": "steady-state cosmology",
+     "source": "天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳[恒]态宇宙学",
+     "en": "steady-state cosmology",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "稳恒态宇宙论",
+     "en": "steady-state cosmology",
+     "source": "海峡两岸天文学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72681,9 +73396,11 @@
    "term": "steady-state theory",
    "trans": "稳恒态理论",
    "basis": "宇宙学通行（Bondi–Gold–Hoyle 1948）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72691,9 +73408,30 @@
    "term": "steering",
    "trans": "操控",
    "basis": "学界通行译名（量子导引/steering；本词条取“操控”）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "操舵",
+     "en": "steering",
+     "source": "航海科技名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "操舵",
+     "en": "steering",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "转向装置",
+     "en": "steering",
+     "source": "奥运体育项目名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72701,9 +73439,222 @@
    "term": "stem cell",
    "trans": "干细胞",
    "basis": "学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "普通外科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "整形外科名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "农学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "化工名词（六）生物化工"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "运动医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "烧伤学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "计划生育名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "核医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "显微外科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "组织学与胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "海峡两岸材料科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "海峡两岸免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "造血干细胞",
+     "en": "hematopoietic stem cell\",\"hemopoietic stem cell",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "单能干细胞",
+     "en": "unipotent stem cell\",\"monopotent stem cell",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "定向干细胞",
+     "en": "committed stem cell",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多能干细胞",
+     "en": "multipotential stem cell",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "造血干细胞",
+     "en": "Hematopoietic stem cell",
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "成体干细胞",
+     "en": "somatic stem cell",
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "诱导性多能干细胞",
+     "en": "Induced pluripotent stem cell",
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞",
+     "en": "stem cell",
+     "source": "风湿免疫病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞移植",
+     "en": "stem cell transplantation",
+     "source": "医学伦理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞移植",
+     "en": "stem cell transplantation, SCT",
+     "source": "风湿免疫病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "间充质干细胞",
+     "en": "mesenchymal stem cell, MSC",
+     "source": "风湿免疫病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "造血干细胞移植",
+     "en": "hematopoietic stem cell transplantation，HSCT",
+     "source": "放射卫生学"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "造血干细胞移植",
+     "en": "hematopoietic stem cell transplantation，HSCT",
+     "source": "风湿免疫病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "干细胞治疗伦理",
+     "en": "ethics of stem cell-based therapy",
+     "source": "医学伦理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "淋巴干细胞缺乏引起的重症联合免疫缺陷",
+     "en": "severe combined immunodeficiency due to absent lymphoid stem cells(SCID)",
+     "source": "风湿免疫病学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72711,9 +73662,18 @@
    "term": "stem cell bank",
    "trans": "干细胞库",
    "basis": "学界惯例（生命伦理学通行）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "胚胎干细胞库",
+     "en": "embryonic stem cell bank",
+     "source": "海峡两岸植物学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72721,9 +73681,11 @@
    "term": "stem cell line",
    "trans": "干细胞系",
    "basis": "学界惯例（干细胞生物学通行）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
