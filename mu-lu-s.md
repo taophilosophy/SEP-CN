@@ -243,7 +243,7 @@ outline: [1, 6]
 * [大卫·哈特利 Hartley, David (Richard Allen)](h/hartley.md)
 * [启蒙运动 Enlightenment (William Bristow)](e/enlightenment.md)
   * [进步 progress (Agnes Tam and Margaret Meek Lange)](p/progress.md)
-* [乔纳森·爱德华兹 Edwards, Jonathan (William Wainwright)](e/edwards.md)
+* [乔纳森·爱德华兹 Jonathan Edwards (William Wainwright)](e/edwards.md)
 * [胡果·格劳秀斯 Grotius, Hugo (Jon Miller)](g/grotius.md)
 * [亨利·莫尔 More, Henry (John Henry)](h/henry-more.md)
 * [剑桥柏拉图学派 Cambridge Platonists (Sarah Hutton)](c/cambridge-platonists.md)

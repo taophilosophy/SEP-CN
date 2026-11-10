@@ -767,7 +767,7 @@
   * [\*拉姆齐与代际福利经济学：见弗兰克·拉姆齐：拉姆齐与代际福利经济学 Ramsey and intergenerational welfare economics — see Ramsey, Frank: and intergenerational welfare economics](r/ramsey-economics.md)
 * [规范经济学与经济正义 economics \[normative\] and economic justice (Marc Fleurbaey)](e/economic-justice.md)
 * [教育哲学 education, philosophy of (Randall Curren)](e/education-philosophy.md)
-* [乔纳森·爱德华兹 Edwards, Jonathan (William Wainwright)](e/edwards.md)
+* [乔纳森·爱德华兹 Jonathan Edwards (William Wainwright)](e/edwards.md)
 * [平等主义 egalitarianism (Juliana Bidadanure and David Axelsen)](e/egalitarianism.md)
 * [利己主义 egoism (Robert Shaver)](e/egoism.md)
 * [克里斯蒂安·冯·厄棱费尔 Ehrenfels, Christian von (Robin Rollinger and Carlo Ierna)](e/ehrenfels.md)

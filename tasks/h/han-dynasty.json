@@ -2,7 +2,7 @@
   "slug": "han-dynasty",
   "kind": "retranslate",
   "zh_doc": "h/han-dynasty.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "H-main-20261110b",
       "at": "2026-11-10T05:43:26Z",
       "evidence": "r1 初审（新会话独立复核，满足 ISO 17100 复核独立性）：yuanwen 14.8k 词与译文 327 行全文对照通读；对账——正文脚注 marker 25:25 键集全等、defs 77:77、标题 24:24、内联引用组 8:9（+1 为引文内页码括注属合法）。实修 7 处：①段51 删「行动。 《」间杂空格；②段99『以对那些占筮用…的短小描述』改『以占筮所用…的短小描述』；③段143『改变理式』→『改变既有格局』（patterns 非术语理）；④段163『人八岁』→『孩子八岁』（children）；⑤段181『名不符实』→『名不副实』；⑥段203 括注归位『断言他——以及某些相类思想家——是法家哲学家』；⑦标题还原上游全题：H1/SUMMARY/mu-lu-s 三处『Han Dynasty』→『Philosophy in Han Dynasty China』。四检：check_style 0、check_academic --strict 0 硬错误、check_prose 残 3 条全在引文块内（23/129/157，ADR-0020 豁免）、check_math 0/0。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T06:32:05Z",
+      "evidence": "r2 复审（逐句回核 + 登记册/术语定向核查）：①残留扫描——正文区拉丁词仅 6 处且全部合法（CQFL 缩写照源、*xing*/*tian* 术语罗马字、destiny/fate 二译名对照、John Makeham 现代学者按 ADR-0022 保西文）；②人名登记册 17 位主要人物（陆贾/贾谊/刘安/董仲舒/扬雄/桓谭/王充/班昭/王符/徐干/王肃/何晏/许慎/襄楷/屈原/刘向/班固）全部在册；③check_terms 定点核销：本文档 0 处疑似缺译法（全局唯一硬错误『Albertus Magnus』属他会存量，与本条无关）；④相关词条 7 项与 SUMMARY 站内名逐一对齐（中国哲学与中医/中国法家哲学/中国哲学与科学/道家\\/道教/老子/荀子/庄子）；⑤书目 defs 77:77 键集与源全等、照录未译；⑥pubinfo 按 baseline 钉 2022-01-03；⑦账本回写——r1 七处实修已同步 tasks/h/han-dynasty.ledger.yaml 的 step2（lq check 105 段守恒复验 OK），消除 compose 回滚风险；compose 与成品仅余粗体空格归一化差异（fixers 后处理，幂等）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T08:03:23Z",
+      "evidence": "r3 终稿验收：check_all 七项全绿（SUMMARY 结构/分类目录/单体文件大小/垃圾入库/术语一致性/学术规范/管线单元测试）；定点四检 check_style 0 issue、check_academic --strict 0 硬错误、check_prose 3 条全为引文块内 ADR-0020 豁免、check_math 0/0；账本 105 段守恒复验 OK 且 r1 实修已回写 step2（compose 可重放）；段落 body 104+oir 1、marker 25:25、defs 77:77、标题 24:24 与源对齐；标题已按上游全题统一（H1=SUMMARY=mu-lu-s）。附带解决两处跨条待裁定：①n/natphil-ren 的 SUMMARY 英文标题截断（in the Renaissance）已对齐 H1 全题；②e/edwards 在 mu-lu-s 的人名倒序标题已对齐 SUMMARY 正装。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T08:09:03Z",
+      "evidence": "收口：r1–r3 三审凭据齐备（r1 新会话独立初审 7 处实修、r2 逐句回核+登记册/术语定向核查、r3 终稿验收+门禁全绿），账本守恒与对账五项全等，处置完毕"
     }
   ],
   "blockers": [],
