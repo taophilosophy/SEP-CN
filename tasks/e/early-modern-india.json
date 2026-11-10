@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-09T16:53:40Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "E-main-20261110",
+      "at": "2026-11-10T10:11:18Z",
+      "evidence": "账本 302 段双版（body=301 oir=1），lq check 守恒门 HARD=0，compose --write 48547 字符，7 节标题+58 defs 照录"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "E-main-20261110",
+      "at": "2026-11-10T10:46:06Z",
+      "evidence": "s1 对照核销：节数 51:51、内联 marker 23:23 零缺零多、defs 58:58 键集全等（撇号 ASCII 归一化）；相关词条 12 项逐一比对 SUMMARY 定名，未映射项 atomism: 17th to 20th century 手工译为 17 至 20 世纪的原子论；书目 58 条照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "E-main-20261110",
+      "at": "2026-11-10T10:53:58Z",
+      "evidence": "s2 语言实修：check_prose --strict 由 14→0（15 处实修：长句拆分 6、de-chain 4、被字句 4→受/呈现、1 处定语改写），零豁免；行内斜体转加粗 16 行后 check_style --strict 零告警（残留 italic-cjk 1 处改为保留拉丁斜体对）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "E-main-20261110",
+      "at": "2026-11-10T11:00:37Z",
+      "evidence": "s3 收口四检全绿：check_style --strict 0、check_academic --strict OK、check_math missing/unbalanced 0、check_summary/mulu_s HARD 0、check_terms 硬错误 0（本词条 0 条 orig-missing）；段对齐 en=254/zh=257 差额为译注行与学术工具非链接式 bullet（体例性）"
     }
   ],
   "blockers": [],

@@ -2,7 +2,7 @@
   "slug": "quine-nf",
   "kind": "retranslate",
   "zh_doc": "q/quine-nf.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-08T20:31:51Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "Q-main-20261110",
+      "at": "2026-11-10T10:19:32Z",
+      "evidence": "账本 62 段双版填齐（body 60+oir 1+ack 1），source 逐字符取自 yuanwen 镜像；守恒门 OK（脚注键/$ 计数全过，SOFT 仅斜体→粗体与书名号转换）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "Q-main-20261110",
+      "at": "2026-11-10T10:22:59Z",
+      "evidence": "对照核销：引用组/书名/脚注键照录；节标题对齐 7 节；$…$ 159 式与镜像一致；专名按 ren-ming-biao 既有行（斯佩克/詹森/罗瑟/库拉托夫斯基/鲁宾逊；Aczel/Boffa/Crabbé/Holmes/Wilshaw 保留英文）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "Q-main-20261110",
+      "at": "2026-11-10T10:22:59Z",
+      "evidence": "check_prose 告警 18→0：实修 26 处（de-chain 拆句、长句切分、'等一致'→'具有同等的一致性'），无豁免；check_style 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "Q-main-20261110",
+      "at": "2026-11-10T10:23:00Z",
+      "evidence": "四检全绿：check_style --strict 0 / check_academic --strict OK / check_math 159 式 missing 0 unbalanced 0 / check_prose 0"
     }
   ],
   "blockers": [],

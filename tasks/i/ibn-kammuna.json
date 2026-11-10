@@ -2,7 +2,7 @@
   "slug": "ibn-kammuna",
   "kind": "retranslate",
   "zh_doc": "i/ibn-kammuna.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-10T04:28:55Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261110b",
+      "at": "2026-11-10T10:28:34Z",
+      "evidence": "账本段落 1–79 双版落盘（正文 §1 生平—§8 校勘本 + oir/致谢/6 条内容注）；lq check 79 段守恒 HARD=0（软旗 25 段为斜体译名→书名号，逐段留痕）；compose --write 24208 字符 218 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261110b",
+      "at": "2026-11-10T10:28:34Z",
+      "evidence": "对照 yuanwen/i/ibn-kammuna.md：脚注 marker 81:81 零缺零多（撇号归一）；defs 键 37:37 全等；年份 176:176 全等；段落 122:93（源 References 定义区 31 块连排为 zh 单块＋空节标题豁免，逐块判读）；引用组 51:49（Corbin 1945、Langermann 2019 两处年份入行文，括号形态调整）；相关词条 religion: and morality in western philosophy→西方哲学中的宗教与道德（对 SUMMARY 主行）；英文残留扫描 4 处均为书名/法语书目照录"
     }
   ],
   "blockers": [],
