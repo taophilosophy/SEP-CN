@@ -361,11 +361,10 @@
 
 ## 学术工具
 
-> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boethius-dacia). |
-> | :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/boethius-dacia/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=boethius-dacia&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | | [Enhanced bibliography for this entry](https://philpapers.org/sep/boethius-dacia/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boethius-dacia)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/boethius-dacia/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=boethius-dacia&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/boethius-dacia/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 
@@ -374,3 +373,5 @@
 ## 相关词条
 
 艾尔伯图斯·麦格努斯（大阿尔伯特） | 托马斯·阿奎那 | 1277 年巴黎谴责 | 存在 | 信仰 | 自由意志 | 方丹的戈弗雷 | 幸福 | 伊本·鲁世德 | 布拉班特的西格尔 | 使真者
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
