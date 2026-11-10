@@ -1,0 +1,348 @@
+{
+ "key": "interpretive key",
+ "term": "interpretive key",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T23:53:31+00:00",
+ "status": "ok",
+ "note": "variant=interpretive key; 审定公布名词库=473; 海峡两岸名词对照库=200; 其他来源数据库=69; 预公布名词数据库=15; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "code": "03.120",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "code": "03.177",
+   "standard": "测绘学名词",
+   "subject": "测绘学_摄影测量学与遥感"
+  },
+  {
+   "cn": "解释程序",
+   "en": "interpreter",
+   "code": "05.0100",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "code": "15.082",
+   "standard": "心理学名词",
+   "subject": "心理学_咨询心理学"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "code": "29.128",
+   "standard": "地理学名词",
+   "subject": "地理学_遥感应用"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "code": "02.0017",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "地图判读",
+   "en": "cartographic interpretation,map interpretation",
+   "code": "27.151",
+   "standard": "地理学名词",
+   "subject": "地理学_地图学"
+  },
+  {
+   "cn": "密钥",
+   "en": "key",
+   "code": "06.04.068",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "检索表",
+   "en": "key",
+   "code": "2.0156",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "键",
+   "en": "key",
+   "code": "07.0206",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_紧固件_键、花键"
+  },
+  {
+   "cn": "键槽",
+   "en": "key",
+   "code": "14.069",
+   "standard": "电力名词",
+   "subject": "电力_水工与金属结构"
+  },
+  {
+   "cn": "键",
+   "en": "key",
+   "code": "07.0021",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "判读要素",
+   "en": "interpretation element\",\"interpretation key",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "像片判读样片",
+   "en": "photo-interpretation key",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "演绎",
+   "en": "interpretation",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "解释",
+   "en": "interpret",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "解释程序，解释器",
+   "en": "interpreter",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "地图判读",
+   "en": "cartographic interpretation\",\"map interpretation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "键",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "调",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "[键]码",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "解释器模式",
+   "en": "interpreter pattern",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "艺术扣分",
+   "en": "interpretation fault",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "密钥交换",
+   "en": "Key exchange",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "色键",
+   "en": "Chroma key",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "共享密钥",
+   "en": "shared key",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "多世界诠释",
+   "en": "themany-worlds interpretation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人工智能关键设备",
+   "en": "key AI equipment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "键值存储",
+   "en": "key-value store",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "键值数据库",
+   "en": "key-value database",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "公开密钥密码体制",
+   "en": "public-key cryptosystem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "公钥密码",
+   "en": "public key cipher",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "诗无达诂",
+   "en": "Poetry Defies Fixed Interpretation.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "code": "6.5.1.4.4.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务"
+  },
+  {
+   "cn": "可解释性",
+   "en": "interpretability",
+   "code": "5.3.2.2",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "解释性传记",
+   "en": "interpretive biography",
+   "code": "1.2.1.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "解释人类学",
+   "en": "interpretive anthropology",
+   "code": "1.061",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "code": "5.0068",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "释兆",
+   "en": "omen interpretation",
+   "code": "4.03",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "重点场所",
+   "en": "key place",
+   "code": "4.1.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "重点单位",
+   "en": "key unit",
+   "code": "4.1.4.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "文化解释",
+   "en": "interpretations of cultures",
+   "code": "4.2.8.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类学理论"
+  },
+  {
+   "cn": "迪梅尼尔的新解释",
+   "en": "Dumenils new interpretation",
+   "code": "05.0125",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "关键事件",
+   "en": "key event, KE",
+   "code": "1.4.2.55",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "重点政策领域",
+   "en": "key policy areas",
+   "code": "10.1.2.4",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,40 @@
+{
+ "key": "irreflexivity",
+ "term": "irreflexivity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-09T23:59:31+00:00",
+ "status": "ok",
+ "note": "variant=irreflexivity; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "自反性",
+   "en": "reflexivity",
+   "code": "02.0088",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_基本概念"
+  },
+  {
+   "cn": "自反性",
+   "en": "reflexivity",
+   "code": "01.0121",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "非自反性",
+   "en": "irreflexivity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "反身性",
+   "en": "reflexivity",
+   "code": "3.2.3.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别研究"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
