@@ -42,6 +42,7 @@
 | Adolph Friedrich Hoffmann | — | 阿道夫·弗里德里希·霍夫曼 | — | — | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Aelius Aristides | — | 埃利乌斯·阿里斯泰德斯 | — | — | olympiodorus | 2 世纪演说家（与 dialectical-school 之 Aristides 异人）；学界音译；凭证 2026-11-08 | 2026-11-08 |
 | Aenesidemus | — | 埃奈西德穆 | 希腊（克诺索斯） | 约前 1 世纪 | heraclitus | 学界通行汉译（怀疑论者）；凭证 2026-11-09 | 2026-11-09 |
+| Adret, Solomon ibn | — | 所罗门·伊本·阿德雷特 | — | — | f/falaquera | 音译（13 世纪巴塞罗那拉比，1305 年禁令颁布者）；凭证 2026-11-11 | 2026-11-11 |
 | Aëtius | — | 埃提乌斯 | — | — | 首现（xenophanes）；xenocrates | 学界通行汉译（古希腊学说汇编者）；凭证 2026-11-07；xenocrates 复现（2026-11-08 合并行，来源列并双 slug） | 2026-11-07 |
 | Agathe Calvelli-Adorno | — | 阿加特·卡尔维利-阿多诺 | 科西嘉裔，德国／歌唱家与钢琴家（阿多诺之姨） | 生卒待核 | adorno | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Agathon | — | 阿伽通 | — | — | diodorus-cronus | 学界通行汉译（古希腊悲剧诗人，亚里士多德《尼各马可伦理学》1139b10 所引）；凭证 2026-11-07 | 2026-11-07 |
@@ -92,6 +93,7 @@
 | Albert the Great | — | 大阿尔伯特 | — | — | lambert-auxerre | 学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核 | 2026-11-04 |
 | Alberti, Leandro | — | 莱昂德罗·阿尔贝蒂 | — | — | gianfrancesco-pico | 音译（《女巫》意大利文译者） | 2026-11-09 |
 | Albertus Magnus | — | 大阿尔伯特 | 德国／经院哲学家 | c. 1200–1280 | johann-sturm | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| Alfakhar, Judah | — | 犹大·阿尔法哈尔 | — | — | f/falaquera | 音译（迈蒙尼德之争一方）；凭证 2026-11-11 | 2026-11-11 |
 | Albo, Joseph | — | 约瑟夫·阿尔博 | — | — | albo-joseph | SUMMARY 定名沿用（本词条主词） | 2026-11-07 |
 | Albrecht Becker-Freyseng | Albrecht Becker-Freyseng | 保留英文（无通行汉名） | — | — | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Albrecht Wellmer | — | 阿尔布雷希特·韦尔默 | 德国／哲学家（批判理论第二代） | 1933–2018 | adorno | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
@@ -1018,6 +1020,7 @@
 | Ernst Meumann | — | 恩斯特·迈曼 | — | — | landmann-kalischer | 学界通行汉译（实验教育学/美学学者）；待 specs/008 审定库复核 | 2026-11-04 |
 | Ernst Schröder | Ernst Schröder | 恩斯特·施罗德 | — | — | leibniz-logic-influence | 学界通行汉译（《逻辑代数讲义》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Ernst Zermelo | — | 恩斯特·策梅洛 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Falaquera, Shem Tov ibn | — | 闪-托夫·伊本·法拉奎拉 | — | — | f/falaquera | SUMMARY 定名沿用（f/falaquera.md）；凭证 2026-11-11 | 2026-11-11 |
 | Escher, M. C. | — | 埃舍尔 | — | — | 语料回收（mathematics-inconsistent 首译） | 艺术史学界通行汉译（荷兰版画家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Ess, Charles | — | 查尔斯·埃斯 | 美国 | 1951– | it-moral-values | 学界通行音译（信息伦理学）；凭证 2026-11-10 | 2026-11-10 |
 | Esteva, Francesc | — | Francesc Esteva | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
@@ -1811,6 +1814,7 @@
 | John of Damascus | — | 大马士革的约翰 | — | — | john-italos | 教父学界通行汉译；凭证 2026-11-06 | 2026-11-06 |
 | John of Naples | — | 那不勒斯的约翰 | — | — | condemnation | 依地名冠称（多明我会神学家）；凭证 2026-11-08 | 2026-11-08 |
 | John of Paris | — | 巴黎的约翰 | — | — | ockham | 学界通行（同时代政论作者，近奥卡姆立场）；凭证 2026-11-07 | 2026-11-07 |
+| Jospe, Raphael | — | 拉斐尔·约斯佩 | — | — | f/falaquera | 音译（当代犹太哲学史家）；凭证 2026-11-11 | 2026-11-11 |
 | John of Pouilly | — | 普伊的约翰 | — | — | condemnation | 经院学者通行（John of Pouilly，神学硕士）；凭证 2026-11-08 | 2026-11-08 |
 | John of Salisbury | — | 索尔兹伯里的约翰 | — | — | 首现（william-sherwood） | 学界通行汉译（12 世纪人文主义者）；凭证 2026-11-07 | 2026-11-07 |
 | John of St. Thomas | — | 圣托马斯的约翰（若昂·波因索特） | 葡萄牙／托马斯主义 | 1589–1644 | analogy-medieval | 托马斯主义研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -1907,6 +1911,7 @@
 | Katz, Leo | — | 利奥·卡茨 | — | — | ethics-deontological | 学界惯例（lawphil-theory 同款；"avoision"生造者） | 2026-11-04 |
 | Kaunda, Kenneth | — | 肯尼斯·卡翁达 | 赞比亚 | 1924–2021 | african-ethics | 学界通行音译（赞比亚首任总统）；凭证 2026-11-09 | 2026-11-09 |
 | Kavi Santokh Singh | — | 卡维·桑托克·辛格 | 印度（旁遮普） | 1787–1846 | sikh-philosophy | 本库首译（尼尔马拉派诗人学者） | 2026-11-09 |
+| Kimhi, David | — | 大卫·金希 | — | — | f/falaquera | 音译（普罗旺斯释经家，迈蒙尼德之争一方）；凭证 2026-11-11 | 2026-11-11 |
 | Kaye, Richard | — | Kaye | 1960– | 无通行汉名，保留英文原名；凭证 2026-11-09 | quine-nf | 英国 | 2026-11-09 |
 | Keen, Andrew | — | 安德鲁·基恩 | 英国 | 1960– | it-moral-values | 学界通行音译（《网民的狂欢》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Keichū | 契沖 | 契沖 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
@@ -2830,6 +2835,7 @@
 | Popkin, Richard | — | 理查德·波普金 | — | — | bayle | 学界通行汉译（怀疑论史家） | 2026-11-08 |
 | Popper, Karl | — | 卡尔·波普尔 | — | — | hegel-social-political | 学界通行汉译 | 2026-11-10 |
 | Porchat Pereira, Oswaldo | — | 奥斯瓦尔多·波尔沙特·佩雷拉 | 巴西 | 1933–2017 | epistemology-latin-america | 音译（葡萄牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
+| Pseudo-Empedocles | — | 伪恩培多克勒 | — | — | f/falaquera | 学界通行译法（伪托恩培多克勒的阿拉伯新柏拉图文献）；凭证 2026-11-11 | 2026-11-11 |
 | Porphyry | — | 波菲利 | — | — | abelard | 古典通行汉译（希腊哲学史工具书通行）；审定库命中 1 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Porta, Giovanbattista della | — | 焦万巴蒂斯塔·德拉·波尔塔 | 意大利（那不勒斯） | 约 1535–1615 | natphil-ren | 科学史通行音译（《自然魔法》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Portugal, Agnaldo | — | 阿格纳尔多·波尔图加尔 | 巴西 | — | epistemology-latin-america | 音译（葡萄牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
@@ -3167,6 +3173,7 @@
 | Seneca | — | 塞涅卡 | — | — | legrand | 学界通行汉译（古典通行）；待 specs/008 审定库复核 | 2026-11-03 |
 | Seneca the Elder | — | 老塞涅卡 | 罗马／修辞学家 | c. 54 BCE–c. 39 CE | buridan | 学界通行汉译（与既有 Seneca 行分立，免撞键）；凭证 2026-11-08 | 2026-11-08 |
 | Serdok Panchen Śākya Chokden | — | 色朵班钦·释迦乔丹 | — | — | epistemology-language-tibetan | 佛学界通行（gSer mdog paṇ chen） | 2026-11-04 |
+| Shiffman, Yair | — | 希夫曼 | — | — | f/falaquera | 音译（《迷途指津之指引》研究者）；凭证 2026-11-11 | 2026-11-11 |
 | Sesshū Tōyō | 雪舟等楊 | 雪舟等杨 | — | — | japanese-aesthetics | 学界惯例（日本美术史通行汉名；源文自注“雪舟等楊”） | 2026-11-02 |
 | Sewall Wright | — | 休厄尔·赖特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Sewall, Helen | — | 海伦·休厄尔 | — | — | langer | 美国画家、童书插画家（朗格《机器妖精童话》插图者；音译）；凭证 2026-11-08 | 2026-11-08 |

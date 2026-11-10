@@ -821,6 +821,7 @@
 | consciousness | — | 意识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；neoplatonism 词条作者以 Consciousness 指 nous，正文统一译“意识” | 2026-11-04 |
 | conscription（of organs） | — | 征用（器官） | organ-donation | 学界惯例（conscription 通译“征用”；凭证 2026-11-06） | 2026-11-06 |
 | consecrated host | — | 圣体 | s/sovereignty 首译 | 学界通行译法（天主教神学通行）；凭证 2026-11-07 | 2026-11-07 |
+| active intellect | — | 主动理智 | f/falaquera 首译 | 阿拉伯-犹太亚里士多德主义通行译法（al-ʿaql al-faʿʿāl）；凭证 2026-11-11 | 2026-11-11 |
 | consensus gentium | consensus gentium | 众族共识（保留拉丁，首现括注） | 首现（religion-epistemology） | 拉丁文论证名，学界惯例；凭证 2026-11-08 | 2026-11-08 |
 | consent of being to being | — | 存在对存在的相契 | edwards 首译 | 自译裁定（Edwards《心灵》第 1 则美之定义；consent 取“相契/协合”义，不取“同意”）；凭证 2026-11-10 | 2026-11-10 |
 | consequence of necessity and impossibility | — | 必然性与不可能性之后承 | peter-damian | 中世纪逻辑术语（consequentia necessitatis vel inpossibilitatis）构词直译；凭证 2026-11-09 | 2026-11-09 |
@@ -2890,6 +2891,7 @@
 | natural number | — | 自然数 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | natural numbers | — | 自然数 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | natural philosophy | — | 自然哲学 | marsilius-padua | 学界通行；凭证 2026-11-08 | 2026-11-08 |
+| maqāmah | maqâmah | 玛卡梅（保留音译，首现括注） | f/falaquera 首译 | 阿拉伯文学体裁通行音译（韵文体故事）；凭证 2026-11-11 | 2026-11-11 |
 | natural place | — | 自然位置 | natphil-ren | 亚里士多德物理学通行；凭证 2026-11-10 | 2026-11-10 |
 | natural religion | — | 自然宗教 | gianfrancesco-pico | 宗教哲学通行（费奇诺《论基督教》） | 2026-11-09 |
 | natural right | — | 自然权利 | marsilius-padua | 学界通行（与 natural law 自然法分列）；凭证 2026-11-08 | 2026-11-08 |
@@ -2987,6 +2989,7 @@
 | non-naturalism | — | 非自然主义 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
 | non-normal world | — | 非正规世界 | logic-relevance | 相干逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | non-object | — | 非对象 | object 首译 | 自译裁定（伞状观对照项；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| middle commentary | — | 中等评注 | f/falaquera 首译 | 阿威罗伊评注三分（短/中/长）通行译法；凭证 2026-11-11 | 2026-11-11 |
 | non-reductive physicalism | — | 非还原物理主义 | cancer | 学界通行（心灵哲学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | non-singular term | — | 非单数词项 | logic-massexpress | Nicolas 术语直译；凭证 2026-11-10 | 2026-11-09 |
 | non-sortal essence | — | 非类别本质 | reinach | 学界惯例（同上，对举形）；凭证 2026-11-09 | 2026-11-09 |
@@ -3423,6 +3426,7 @@
 | pratyāsatti | प्रत्यासत्ति | 连接 | early-modern-india | 现量论义译（超常感知之连接方式；与 sannikarṣa 分工）；凭证 2026-11-10 | 2026-11-10 |
 | praxis / theôria / lexis | πρᾶξις / θεωρία / λέξις | 讲授次第／要义通观／文辞疏解（首现各括注原文） | olympiodorus | 亚历山大里亚注疏体三分的描述性译法（术语学界无统一汉译，Viano/Tarrant 英译作 class/overview/close reading）；凭证 2026-11-08 | 2026-11-08 |
 | pre-established harmony | — | 前定和谐 | leibniz-mind | 学界惯例（莱布尼茨译本通行，亦作"预定和谐"备查）；凭证 2026-11-03 | 2026-11-03 |
+| paraphrase | — | 改写 | f/falaquera 首译 | 译学通行译法（与 translation 翻译分义；paraphraser 改写者）；凭证 2026-11-11 | 2026-11-11 |
 | pre-humanist | — | 前人文主义 | marsilius-padua | 学界通行（帕多瓦前人文主义运动）；凭证 2026-11-08 | 2026-11-08 |
 | pre-order | — | 预序 | belief-merging | 数学通行（序理论）；凭证 2026-11-10 | 2026-11-10 |
 | precancerous lesion | — | 癌前病变 | cancer | 学界通行（病理学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -3528,6 +3532,7 @@
 | projectable predicate | — | 可投射谓词 | 首译（scientific-explanation-20th） | 学界通行（Goodman 1955）；凭证 2026-11-10 | 2026-11-10 |
 | projection function | — | 投影函数 | belief-merging | 直译（Everaere et al. 2015 术语）；凭证 2026-11-10 | 2026-11-10 |
 | projective geometry | — | 射影几何 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| pietist | — | 虔信者 | f/falaquera 首译 | 犹太思想史通行译法（与 scholar 学者对举）；凭证 2026-11-11 | 2026-11-11 |
 | projective sets | — | 射影集合 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | projectivism | — | 投射主义 | hobbes-moral 首译 | 学界通行（元伦理学）；凭证 2026-11-09 | 2026-11-09 |
 | promiscuous realism | — | 混杂实在论 | cancer | 学界通行（Dupré 科学哲学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -4849,6 +4854,7 @@
 | vis viva | vis viva | 活力 | newton | 物理史通行（莱布尼茨学派守恒量）；凭证 2026-11-08 | 2026-11-08 |
 | viśeṣābhāva | विशेषाभाव | 特定非存在 | early-modern-india | 新正理否定语义译（specific absence；与通类非存在对举）；凭证 2026-11-10 | 2026-11-10 |
 | viśeṣaṇa | विशेषण | 能别（限定） | early-modern-india | 因明传统译名（qualifier；与所别对举）；凭证 2026-11-10 | 2026-11-10 |
+| virtuous city | — | 完善城 | f/falaquera 首译 | 法拉比政治哲学通行译法（al-madīna al-fāḍila）；凭证 2026-11-11 | 2026-11-11 |
 | viśeṣa（胜论句义） | विशेष | 异（特殊／基本别异） | early-modern-india | 胜论句义传统译“异”（《胜宗十句义论》）；别义“基本别异”（原子个体化原理）随文括注；凭证 2026-11-10 | 2026-11-10 |
 | viśeṣya | विशेष्य | 所别（所限定） | early-modern-india | 因明传统译名（qualificand；与 viśeṣaṇa 能别对举）；凭证 2026-11-10 | 2026-11-10 |
 | Vision in God | — | 在上帝中看见 | john-norris | 学界通行（马勒布朗士核心学说；“于上帝中见万物”） | 2026-11-07 |
