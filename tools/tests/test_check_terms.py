@@ -17,6 +17,7 @@ REG5 = os.path.join(FIX, 'registry5.md')
 PERSONS = os.path.join(FIX, 'persons.md')
 GLO = os.path.join(FIX, 'glossary.md')
 SLUG = os.path.join(FIX, 'registry_slug.md')
+PERSONS_ORIG = os.path.join(FIX, 'persons_orig.md')
 
 
 def run(*extra):
@@ -99,6 +100,12 @@ class CheckTermsTests(unittest.TestCase):
         code, out = run()
         self.assertIn('缺依据列（告警）：abductive reasoning', out)
         self.assertEqual(code, 1)  # 告警不计硬错误，退出码仍由冲突/自洽决定
+
+    def test_person_table_exempt_from_orig_warning(self):
+        # ADR-0030（2026-11-10）：人名表原文列留「—」不计入「非英语术语缺原文」告警
+        code, out = run('--registry2', PERSONS_ORIG)
+        self.assertNotIn('非英语术语缺原文: 人名表 al-Fārābī', out)
+        self.assertNotIn('非英语术语缺原文: 人名表 Ibn Sīnā', out)
 
     def test_slug_in_translation_column_is_hard_error(self):
         # 2026-11-10 补遗：合并脚本曾把来源 slug 写进译法列，slug 被当译法变体比对，

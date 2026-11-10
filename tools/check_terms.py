@@ -502,7 +502,7 @@ def main(argv=None):
     all_self_errors, warns = [], []
     doc_rows, orig_entries = [], []
 
-    def load_one(label, path):
+    def load_one(label, path, warn_orig=True):
         full_rows, w = parse_registry_full(path)
         rows = [(t, trans, fs, basis, date, ln)
                 for t, _orig, trans, fs, basis, date, ln in full_rows]
@@ -514,16 +514,18 @@ def main(argv=None):
         all_self_errors.extend('%s %s' % (label, x) for x in e)
         warns.extend('%s %s' % (label, x) for x in w + dw)
         # 非英语术语缺原文（只告警，不改正、不计硬错误）：清单落 orig-missing.txt
-        for term, lineno in orig_missing(full_rows):
-            warns.append('非英语术语缺原文: %s %s（行 %d）' % (label, term, lineno))
-            orig_entries.append((label, term, lineno))
+        # 人名表按 ADR-0030（2026-11-10）豁免：来源页与工具书均未给原生文字者留「—」，不再逐行告警
+        if warn_orig:
+            for term, lineno in orig_missing(full_rows):
+                warns.append('非英语术语缺原文: %s %s（行 %d）' % (label, term, lineno))
+                orig_entries.append((label, term, lineno))
         doc_rows.extend(rows)
         return rows, reg
 
     glos_rows, glos_warns = parse_glossary(glos_path)
     glos = collect(glos_rows)
     reg1_rows, reg1 = load_one('登记册', reg_path)
-    reg2_rows, reg2 = load_one('人名表', reg2_path)
+    reg2_rows, reg2 = load_one('人名表', reg2_path, warn_orig=False)
 
     print('登记册 %s 行 %d（键 %d） | 人名表 %s 行 %d（键 %d） | 词汇表行 %d（键 %d） | 交集键 %d+%d'
           % (os.path.basename(reg_path or '(跳过)'), len(reg1_rows), len(reg1),
