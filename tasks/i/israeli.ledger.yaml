@@ -491,119 +491,159 @@ segments:
     kind: body
     source: |-
       *The Book of Substances* (Arabic: *Kitab al-Jawahir*) is extant only in fragments of Judeo-Arabic (that is, Arabic written in Hebrew letters) in the Firkovitch Collection in St. Petersburg and in the British Museum. Stern established that both manuscripts were separately transliterated from an original text in Arabic characters—which is deducible from transcription errors arising from Arabic rather than Hebrew orthographic similarities, and that the transcription and transliteration errors in the two manuscripts do not match (Stern, “The Fragments of ‘The Book of Substances’”, pp.16–17). Stern pieced together the fragments, adding some missing materials from a passage in “Ibn Hasday’s Neoplatonist” and published them in the *Journal of Jewish Studies*, vii (1956), 13–29. The extant fragments largely paraphrase and add commentary to passages from the pseudo-Aristotelian “Ibn Hasday’s Neoplatonist.” Due to the close textual proximities between the two texts, Stern conjectured that in places where Israeli is quoting “the philosopher” he is likely quoting a lost passage of the Neoplatonist. These parallels allowed Stern to arrange the discontinuous fragments into an order mirroring its source treatise. Altmann and Stern subsequently published a translation of the fragments in *Isaac Israeli*, pp. 81–105.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《实体书》（阿拉伯语：*Kitab al-Jawahir*）仅存犹太-阿拉伯语（即以希伯来字母书写的阿拉伯语）残篇，藏于圣彼得堡菲尔科维奇收藏与大英博物馆。施特恩确定，两份抄本各自都是从一篇以阿拉伯文字母写成的原文转写而来；这可以从转写错误推断出来，这些错误源于阿拉伯字母而非希伯来字母的正字法相似性，而且两份抄本中的转写与音译错误并不一致（Stern，“The Fragments of ‘The Book of Substances’”，pp.16–17）。施特恩拼合了这些残篇，并从“伊本·哈斯代的新柏拉图主义者”的一段文字中补入若干佚失材料，刊于《犹太研究杂志》（*Journal of Jewish Studies*）vii（1956），13–29。现存残篇大部分是对伪亚里士多德式“伊本·哈斯代的新柏拉图主义者”诸段的改写与评注。由于两个文本在文字上极为接近，施特恩推测，伊斯拉埃利引用“那位哲学家”的地方，很可能是在引用这位新柏拉图主义者的一段佚文。这些对应关系使施特恩得以把不连续的残篇编排成与来源论著相应的次序。阿尔特曼与施特恩随后在《伊萨克·伊斯拉埃利》pp. 81–105 刊出了这些残篇的译本。
+    step2: |-
+      《实体书》（阿拉伯语：*Kitab al-Jawahir*）仅存犹太-阿拉伯语（以希伯来字母书写的阿拉伯语）残篇，藏于圣彼得堡菲尔科维奇收藏和大英博物馆。施特恩确定，两份抄本各自都从一篇以阿拉伯文字母写成的原文转写而来；这可由转写错误推知，错误源于阿拉伯字母而非希伯来字母的正字法相似性，且两份抄本的转写与音译错误互不一致（Stern，“The Fragments of ‘The Book of Substances’”，pp. 16–17）。施特恩拼合残篇，从“伊本·哈斯代的新柏拉图主义者”的一段文字中补入若干佚失材料，刊于《犹太研究杂志》（*Journal of Jewish Studies*）vii（1956），13–29。现存残篇大部分是对伪亚里士多德式“伊本·哈斯代的新柏拉图主义者”诸段的改写与评注。两个文本文字上极为接近，施特恩因此推测：伊斯拉埃利引用“那位哲学家”之处，很可能是在引用这位新柏拉图主义者的一段佚文。这些对应关系使他得以把不连续的残篇编排成与来源论著相应的次序。阿尔特曼与施特恩随后在《伊萨克·伊斯拉埃利》pp. 81–105 刊出这些残篇的译本。
   - id: 62
     kind: body
     source: |-
       ### 5.3 The Book on Spirit and Soul
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 The Book on Spirit and Soul
+    step2: |-
+      ### 5.3 《论精神与灵魂》
   - id: 63
     kind: body
     source: |-
       J.L. Teicher argues that Isaac Israeli is not the author of this work (Teicher, 1956 p. 424). However, since Israeli’s pupil Dunash Ibn Tamim quotes passages of it in his commentary on the mystical work *Sefer Yetzirah*, Teicher’s view is likely erroneous.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      J.L. Teicher 论证伊萨克·伊斯拉埃利并非此书的作者（Teicher, 1956 p. 424）。然而，伊斯拉埃利的学生杜纳什·伊本·塔米姆在《创世书》注释中引用了此书的段落，因此 Teicher 的看法很可能是错的。
+    step2: |-
+      J.L. Teicher 论证伊萨克·伊斯拉埃利并非此书作者（Teicher, 1956 p. 424）。然而，伊斯拉埃利的学生杜纳什·伊本·塔米姆在《创世书》注释中引用了其中段落，Teicher 的看法很可能有误。
   - id: 64
     kind: body
     source: |-
       Two Hebrew translations (*Sefer ha-Ruah v’ha-Nefesh*) and a fragment of the Arabic original remain of this work. Altmann and Stern provide a critical English translation based on the Hebrew manuscripts (Munich Steinschneider’s Cat. no. 307, fols. 47ff; Cambridge Addler 1858 fols. 113v ff.) and A. Borisov’s publication of the Arabic fragment in *Isaac Israeli*, pp. 108–117. A critical edition of the Hebrew was published posthumously in Freudenthal and Stern (2017).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此书现存两种希伯来语译本（*Sefer ha-Ruah v’ha-Nefesh*）与阿拉伯语原文的一个残篇。阿尔特曼与施特恩依据希伯来语抄本（慕尼黑施泰因施奈德编目第 307 号，fols. 47ff；剑桥 Addler 1858 fols. 113v ff.）以及 A. Borisov 刊布的阿拉伯语残篇，提供了校勘性的英译，见《伊萨克·伊斯拉埃利》pp. 108–117。希伯来语本的校勘本于 Freudenthal and Stern（2017）身后刊行。
+    step2: |-
+      此书现存两种希伯来语译本（*Sefer ha-Ruah vʼha-Nefesh*）和阿拉伯语原文的一个残篇。阿尔特曼与施特恩依据希伯来语抄本（慕尼黑施泰因施奈德编目第 307 号，fols. 47ff；剑桥 Addler 1858 fols. 113v ff.）及 A. Borisov 刊布的阿拉伯语残篇，提供了校勘性英译，见《伊萨克·伊斯拉埃利》pp. 108–117。希伯来语本的校勘本身后刊于 Freudenthal and Stern（2017）。
   - id: 65
     kind: body
     source: |-
       This treatise, unlike the *Book of Definitions* and *Book of Substances* is a distinctly Jewish work of philosophy, as it combines doctrines of soul drawn from Ibn Hasday’s Neoplatonist with Jewish scriptural proof texts, supporting a Neoplatonist conception of soul as distinct from mortal spirit, combined with the Rabbinic Jewish belief in reward and punishment of souls.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与《定义书》和《实体书》不同，这篇论著是一部具有鲜明犹太教色彩的哲学著作：它把取自伊本·哈斯代的新柏拉图主义者的灵魂学说与犹太教经文证明文本结合起来，支持一种新柏拉图主义的灵魂观（灵魂不同于可朽的精神），同时又结合了拉比犹太教关于灵魂受赏受罚的信仰。
+    step2: |-
+      与《定义书》《实体书》不同，这篇论著带有鲜明的犹太教色彩：它把取自伊本·哈斯代的新柏拉图主义者的灵魂学说与犹太教经文证明文本结合起来，既支持新柏拉图主义的灵魂观（灵魂不同于可朽的精神），又结合了拉比犹太教关于灵魂受赏受罚的信仰。
   - id: 66
     kind: body
     source: |-
       ### 5.4 The Chapter on the Elements
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.4 The Chapter on the Elements
+    step2: |-
+      ### 5.4 《论元素章》
   - id: 67
     kind: body
     source: |-
       A single Hebrew translation (*Shaᶜar ha-Yesodot le-Aristo*) is extant in manuscript Mantua 28c, folios 16r–18r. This unsigned work was initially regarded as an anonymous commentary on Aristotle. Altmann, developing a hypothesis first proposed by Gershom Scholem, argues that this text is the work of Isaac Israeli. Also called the *Mantua Text*, it is available in English translation by Altmann in two publications—*Journal of Jewish Studies*, vii (1956) pp. 31–57 and in Altmann and Stern’s *Isaac Israeli*, pp. 119–32.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现存一种希伯来语译本（*Shaᶜar ha-Yesodot le-Aristo*），见曼图亚抄本 28c，folios 16r–18r。这部未署名的著作最初被视为一篇佚名的亚里士多德注疏。阿尔特曼发展了格肖姆·朔勒姆首先提出的假说，论证此文本是伊萨克·伊斯拉埃利的作品。它亦称《曼图亚文本》，其英译见阿尔特曼的两处刊布：《犹太研究杂志》vii（1956）pp. 31–57，以及阿尔特曼与施特恩《伊萨克·伊斯拉埃利》pp. 119–32。
+    step2: |-
+      现存一种希伯来语译本（*Shaʿar ha-Yesodot le-Aristo*），见曼图亚抄本 28c，folios 16r–18r。这部未署名著作最初被视为一篇佚名的亚里士多德注疏。阿尔特曼发展格肖姆·朔勒姆首先提出的假说，论证此文本出自伊萨克·伊斯拉埃利之手。它亦称《曼图亚文本》，英译见阿尔特曼的两处刊布：《犹太研究杂志》vii（1956）pp. 31–57；阿尔特曼与施特恩《伊萨克·伊斯拉埃利》pp. 119–32。
   - id: 68
     kind: body
     source: |-
       ### 5.5 Book of the Elements
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.5 Book of the Elements
+    step2: |-
+      ### 5.5 《元素书》
   - id: 69
     kind: body
     source: |-
       Like most of his other philosophical works, Israeli’s Arabic original (*Kitab al-Ustuqussat*) is lost, and we are left with a Latin translation and two Hebrew versions. Gerard of Cremona’s Latin translation of this book was published in the work *Omnia opera Ysaac*, Lyons: 1515. One Hebrew version (Leiden, Warner MS No. 13) was rendered by Abraham ibn Hasday for David Qimhi. The other translation (Munich MS No. 43) is more eloquent, and likely an improvement on the earlier translation, leading Salomon Fried to conjecture that the famous Medieval translator Moses ibn Tibbon (flourished mid-13ᵗʰ century, Provence) prepared it (Fried, 1884, pp. 75–83).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      像他的大多数其他哲学著作一样，伊斯拉埃利的阿拉伯语原文（*Kitab al-Ustuqussat*）已佚，只剩下一种拉丁语译本和两种希伯来语译本。克雷莫纳的杰拉德对此书的拉丁语译本刊于《伊萨克全集》（*Omnia opera Ysaac*），里昂：1515 年。其中一种希伯来语译本（莱顿华纳抄本第 13 号）由亚伯拉罕·伊本·哈斯代为大卫·金希译出。另一译本（慕尼黑抄本第 43 号）更为典雅，很可能是对较早译本的改进，萨洛蒙·弗里德因此推测它出自中世纪著名译者摩西·伊本·提本之手（活跃于 13 世纪中叶，普罗旺斯）（Fried, 1884, pp. 75–83）。
+    step2: |-
+      与大多数其他哲学著作一样，伊斯拉埃利的阿拉伯语原文（*Kitab al-Ustuqussat*）已佚，仅存一种拉丁语译本和两种希伯来语译本。克雷莫纳的杰拉德所译拉丁语本刊于《伊萨克全集》（*Omnia opera Ysaac*），里昂，1515 年。其中一种希伯来语译本（莱顿华纳抄本第 13 号）由亚伯拉罕·伊本·哈斯代为大卫·金希译出。另一译本（慕尼黑抄本第 43 号）更为典雅，很可能改进了较早译本；萨洛蒙·弗里德因此推测它出自中世纪著名译者摩西·伊本·提本之手（13 世纪中叶活跃于普罗旺斯）（Fried, 1884, pp. 75–83）。
   - id: 70
     kind: body
     source: |-
       On the question of the different Hebrew versions, see also Engel (2022).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于不同希伯来语译本的问题，另见 Engel（2022）。
+    step2: |-
+      关于不同希伯来语译本的问题，另见 Engel（2022）。
   - id: 71
     kind: body
     source: |-
       ## 6. Israeli’s Influence on Later Thinkers
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. Israeli’s Influence on Later Thinkers
+    step2: |-
+      ## 6 伊斯拉埃利对后来思想家的影响
   - id: 72
     kind: body
     source: |-
       In 956, Dunash Ibn Tamim, a pupil of Isaac Israeli, wrote an extensive commentary on the short recension of *Sefer Yetzirah*, a mystical work of cosmogony which attributes great importance to the letters of the Hebrew alphabet and their combinations in determining the structure of the universe. In this work he cites Israeli so extensively that in the nineteenth century, a few scholars misidentified the commentary as Israeli’s.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      956 年，伊萨克·伊斯拉埃利的学生杜纳什·伊本·塔米姆为《创世书》的短编本撰写了详尽注释。《创世书》是一部宇宙起源论的神秘主义著作，极重视希伯来字母表及其组合在确定宇宙结构中的作用。杜纳什在此书中大量引用伊斯拉埃利，以致 19 世纪有几位学者把这篇注释误认为伊斯拉埃利的作品。
+    step2: |-
+      956 年，伊萨克·伊斯拉埃利的学生杜纳什·伊本·塔米姆为《创世书》短编本撰写了详尽注释。《创世书》是一部论宇宙起源的神秘主义著作，极重视希伯来字母表及其组合在确定宇宙结构中的作用。杜纳什在此书中大量引用伊斯拉埃利，以致 19 世纪有几位学者把这篇注释误认作伊斯拉埃利的作品。
   - id: 73
     kind: body
     source: |-
       Isaac Israeli’s medical treatises were studied for several centuries both in the original Arabic and in Latin translation. In the eleventh century, Constantine Africanus, a professor at the prestigious Salerno school of medicine, translated some of Israeli’s works into Latin. Many medieval Arabic biographical chronicles of physicians list him and his works.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊萨克·伊斯拉埃利的医学论著在数百年间以阿拉伯语原文和拉丁语译本被研读。11 世纪，萨勒诺著名医学校的教授阿非利加的康斯坦丁把伊斯拉埃利的部分著作译为拉丁语。许多中世纪阿拉伯语的医生传记编年史都列有他的名字与著作。
+    step2: |-
+      伊萨克·伊斯拉埃利的医学论著在数百年间以阿拉伯语原文和拉丁语译本流传研读。11 世纪，萨勒诺著名医学校的教授阿非利加的康斯坦丁把伊斯拉埃利的部分著作译为拉丁语。许多中世纪阿拉伯语医生传记编年史都列有他的名字与著作。
   - id: 74
     kind: body
     source: |-
       Israeli’s philosophical works exercised a considerable influence on Christian and Jewish thinkers, and a lesser degree of influence among Muslim intellectuals. In the twelfth century, following a major phase of the Christian reconquest of Spain, a group of scholars in Toledo transmitted many Arabic works of science and philosophy into Latin. One of the translators who migrated to this cultural center, Gerard of Cremona, rendered Israeli’s *Book of Definitions* and *Book on the Elements* into Latin. Israeli’s work was quoted and paraphrased by a number of Christian thinkers including Gundissalinus, Albertus Magnus, Thomas Aquinas, Vincent de Beauvais, Bonaventura, Roger Bacon and Nicholas of Cusa (See Altmann and Stern, *Isaac Israeli*, pp. xiii–xiv; Julius Guttmann*, Die Scholastik des 13. Jahrhunderts in irhen Beziehungen zum Judentum und zur judische Literatur*, pp. 55–60, 129–30, 150 and 172; as well as Guttmann, *Das Verhaltniss des Thomas von Aquino zum Judentum und zur judischen Literatur*, pp. 55–60).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊斯拉埃利的哲学著作对基督教与犹太思想家产生了相当的影响，对穆斯林知识人的影响则较小。12 世纪，在基督教重新征服西班牙的一个主要阶段之后，托莱多的一批学者把许多阿拉伯语科学与哲学著作译为拉丁语。迁居这一文化中心的译者之一克雷莫纳的杰拉德，把伊斯拉埃利的《定义书》与《元素书》译为拉丁语。伊斯拉埃利的著作曾被若干基督教思想家引用与改写，包括贡迪萨尔维、大阿尔伯特、托马斯·阿奎那、博韦的樊尚、波纳文图拉、罗吉尔·培根与库萨的尼古拉（见 Altmann and Stern, *Isaac Israeli*, pp. xiii–xiv；Julius Guttmann*, *Die Scholastik des 13. Jahrhunderts in irhen Beziehungen zum Judentum und zur judische Literatur*, pp. 55–60, 129–30, 150 and 172；以及 Guttmann, *Das Verhaltniss des Thomas von Aquino zum Judentum und zur judischen Literatur*, pp. 55–60）。
+    step2: |-
+      伊斯拉埃利的哲学著作对基督教和犹太思想家影响相当大，对穆斯林知识人的影响则较小。12 世纪，基督教重新征服西班牙的主要阶段之后，托莱多的一批学者把许多阿拉伯语科学与哲学著作译成拉丁语。迁居这一文化中心的译者之一克雷莫纳的杰拉德，把伊斯拉埃利的《定义书》和《元素书》译为拉丁语。伊斯拉埃利的著作曾被若干基督教思想家引用和改写，包括贡迪萨尔维、大阿尔伯特、托马斯·阿奎那、博韦的樊尚、波纳文图拉、罗吉尔·培根与库萨的尼古拉（见 Altmann and Stern, *Isaac Israeli*, pp. xiii–xiv；Julius Guttmann, *Die Scholastik des 13. Jahrhunderts in irhen Beziehungen zum Judentum und zur judische Literatur*, pp. 55–60, 129–30, 150 and 172；以及 Guttmann, *Das Verhaltniss des Thomas von Aquino zum Judentum und zur judischen Literatur*, pp. 55–60）。
   - id: 75
     kind: body
     source: |-
       Isaac Israeli corresponded with Saadya ben Joseph al-Fayyumi (882–942) prior to the latter’s departure from Egypt. Saadya later became the head (Gaon) of the Talmudic Academy of Sura and one of the most influential figures in the medieval Judaism. Saadya Gaon was known for his Jewish legal rulings, his arrangement of the Jewish prayer book (Siddur), his translation of the Hebrew Bible into Arabic, his liturgical poetry and his philosophical work *The Book of Beliefs and Opinions* (Arabic*: Kitab al-‘Amanat wal-‘Itikadat*, Hebrew: *Sefer emunot ve-deᶜot*). Altmann and Stern suggest that it is possible that Saadya Gaon’s concept of rational commandments was influenced by Israeli’s concept of “intellectual precepts” from his *Book of Definitions*. (*Isaac Israeli*, p. 217) However, it is also possible that Saadya Gaon’s conception may have been a product of the vibrant and somewhat ecumenical intellectual culture of Baghdad, in which a group of theologians known as the Muta‘zilites reconciled logic and science with Islamic theology, arguing for the rationality of God and His actions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊萨克·伊斯拉埃利在萨阿迪亚·本·约瑟夫·法尤米（882–942 年）离开埃及之前曾与他通信。萨阿迪亚后来成为苏拉塔木德学院的院长（加昂），也是中世纪犹太教最有影响的人物之一。萨阿迪亚·加昂以犹太律法裁决、犹太祈祷书（Siddur）的编排、希伯来圣经的阿拉伯语译本、礼仪诗歌以及哲学著作《教义与信仰之书》（阿拉伯语：*Kitab al-‘Amanat wal-‘Itikadat*，希伯来语：*Sefer emunot ve-deᶜot*）而闻名。阿尔特曼与施特恩提出，萨阿迪亚·加昂关于理性诫命的概念，可能受到伊斯拉埃利《定义书》中“智性箴言”概念的影响。（*Isaac Israeli*, p. 217）不过，萨阿迪亚·加昂的构想也可能出自巴格达活跃而颇具普世色彩的思想文化；在那里，一群被称为穆尔太齐赖派的神学家把逻辑与科学同伊斯兰神学调和起来，论证上帝及其作为的合理性。
+    step2: |-
+      伊萨克·伊斯拉埃利在萨阿迪亚·本·约瑟夫·法尤米（882–942）离开埃及之前曾与他通信。萨阿迪亚后来成为苏拉塔木德学院的院长（加昂），也是中世纪犹太教最有影响的人物之一。萨阿迪亚·加昂以犹太律法裁决、犹太祈祷书（Siddur）的编排、希伯来圣经的阿拉伯语译本、礼仪诗歌以及哲学著作《教义与信仰之书》（阿拉伯语：*Kitab al-ʿAmanat wal-ʿItikadat*；希伯来语：*Sefer emunot ve-deʿot*）闻名。阿尔特曼与施特恩提出，萨阿迪亚·加昂关于理性诫命的概念可能受到伊斯拉埃利《定义书》中“智性箴言”概念的影响。（*Isaac Israeli*, p. 217）不过，这一构想也可能出自巴格达活跃而颇具普世色彩的思想文化：在那里，一群被称为穆尔太齐赖派的神学家把逻辑与科学同伊斯兰神学调和起来，论证上帝及其作为的合理性。
   - id: 76
     kind: body
     source: |-
       The great Jewish poet and Neoplatonist Solomon Ibn Gabirol (known in Latin as Avicebron and Avicebrol) likely read Isaac Israeli’s works as well as the widely-circulated encyclopedic *Epistles of the Brethren of Purity* (Arabic: *Rasa’il Ikhwan as-Safa’*). Solomon Ibn Gabirol was at times close to the latter in his models of emanation. He was also highly innovative—hence the influence of Isaac Israeli is difficult to gauge. Nonetheless, Israeli’s *Book on Spirit and Soul* was likely the only philosophical text which combined Neoplatonist cosmology and psychology with Biblical proof texts—a task which Ibn Gabirol accomplished so masterfully in his liturgical poem *Keter Malkhut*. It is probable that Ibn Gabirol’s idea of spiritual matter was influenced by Israeli.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伟大的犹太诗人兼新柏拉图主义者所罗门·伊本·盖比鲁勒（拉丁语名阿维斯布隆、阿维斯布罗尔）很可能读过伊萨克·伊斯拉埃利的著作，也读过广泛流传的百科全书式《精诚兄弟社书信集》（阿拉伯语：*Rasa’il Ikhwan as-Safa’*）。所罗门·伊本·盖比鲁勒的流溢模型有时接近后者。他也极具创新性，因此伊斯拉埃利的影响难以估量。尽管如此，伊斯拉埃利的《论精神与灵魂》很可能是唯一一部把新柏拉图主义宇宙论与心理学同圣经证明文本结合起来的哲学著作，而这项任务伊本·盖比鲁勒在其礼仪诗《王冠》（*Keter Malkhut*）中完成得极为出色。伊本·盖比鲁勒关于精神质料的观念，很可能受到伊斯拉埃利的影响。
+    step2: |-
+      伟大的犹太诗人兼新柏拉图主义者所罗门·伊本·盖比鲁勒（拉丁语名阿维斯布隆、阿维斯布罗尔）很可能读过伊萨克·伊斯拉埃利的著作，也读过广泛流传的百科全书式《精诚兄弟社书信集》（阿拉伯语：*Rasaʼil Ikhwan as-Safaʼ*）。伊本·盖比鲁勒的流溢模型有时接近后者。他本人也极具创新性，伊斯拉埃利的影响因此难以估量。尽管如此，伊斯拉埃利的《论精神与灵魂》很可能是唯一一部把新柏拉图主义宇宙论与心理学同圣经证明文本结合起来的哲学著作，而这项任务伊本·盖比鲁勒在其礼仪诗《王冠》（*Keter Malkhut*）中完成得极为出色。伊本·盖比鲁勒关于精神质料的观念，很可能受到伊斯拉埃利的影响。
   - id: 77
     kind: body
     source: |-
       Another of the Golden Age Hebrew poets of Spain, Moses Ibn Ezra (c. 1060–1139) quotes Isaac Israeli without attribution in his treatise *The Book of the Garden, explaining the meaning of Metaphor and Literal Expression* (Originally in Judeo-Arabic: *Kitab al-Hadiqa fi Maᶜna ‘l-Majaz wa’l-Haqiqa*). Stern explores this matter in his article “Isaac Israeli and Moses ibn Ezra.” The poet and philosopher Joseph Ibn Tzaddiq of Cordoba (d. 1149) authored a work *The Microcosm* (the Judeo-Arabic original is lost, but the work survived in Hebrew translation as *Ha-ᶜolam ha-Qatan*) containing many ideas indebted to Israeli. Parallels between the two thinkers are illuminated in Altmann and Stern’s *Isaac Israeli* (pp. 30, 44, 73–74, 117)*.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      西班牙黄金时代的另一位希伯来诗人摩西·伊本·以斯拉（约 1060–1139 年）在其论著《园中书：释隐喻与字面表达之义》（原文为犹太-阿拉伯语：*Kitab al-Hadiqa fi Maᶜna ‘l-Majaz wa’l-Haqiqa*）中引用伊萨克·伊斯拉埃利而未注明。施特恩在其文章“Isaac Israeli and Moses ibn Ezra”中探讨了此事。科尔多瓦的诗人兼哲学家约瑟夫·伊本·萨迪克（卒于 1149 年）撰有《小宇宙》（犹太-阿拉伯语原文已佚，但该书以希伯来语译本 *Ha-ᶜolam ha-Qatan* 存世），其中许多观念得益于伊斯拉埃利。两位思想家之间的相应之处，在阿尔特曼与施特恩《伊萨克·伊斯拉埃利》中得到阐明（pp. 30, 44, 73–74, 117）。
+    step2: |-
+      西班牙黄金时代的另一位希伯来诗人摩西·伊本·以斯拉（约 1060–1139）在论著《园中书：释隐喻与字面表达之义》（原文为犹太-阿拉伯语：*Kitab al-Hadiqa fi Maʿna 'l-Majaz wa'l-Haqiqa*）中引用伊萨克·伊斯拉埃利而未注明出处。施特恩在“Isaac Israeli and Moses ibn Ezra”一文中探讨了此事。科尔多瓦的诗人兼哲学家约瑟夫·伊本·萨迪克（卒于 1149 年）撰有《小宇宙》（犹太-阿拉伯语原文已佚，以希伯来语译本 *Ha-ʿolam ha-Qatan* 存世），其中许多观念得益于伊斯拉埃利。两位思想家之间的相应之处，见阿尔特曼与施特恩《伊萨克·伊斯拉埃利》（pp. 30, 44, 73–74, 117）。
   - id: 78
     kind: body
     source: |-
       Isaac Israeli’s philosophical influence on Muslim authors is slight at best. The only known quotation of Israeli’s philosophy in a Muslim work occurs in *Ghayat al-Hakim*, a book on magic, produced in eleventh-century Spain, translated into Latin and widely circulated in the West under the title *Picatrix*. Although there are passages which correspond directly to Israeli’s writings, the author does not cite him by name.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊萨克·伊斯拉埃利的哲学对穆斯林作者的影响至多算是轻微。穆斯林著作中唯一已知引用伊斯拉埃利哲学的地方，是 11 世纪西班牙产生的一部论魔术的书《哲人目标》（*Ghayat al-Hakim*）；该书被译为拉丁语，并以《皮卡特里克斯》（*Picatrix*）之名在西方广泛流传。其中虽有段落直接对应伊斯拉埃利的著作，作者却没有点名引用他。
+    step2: |-
+      伊萨克·伊斯拉埃利的哲学对穆斯林作者的影响至多算轻微。穆斯林著作中唯一已知引用伊斯拉埃利哲学之处，是 11 世纪西班牙产生的一部论魔术的书《哲人目标》（*Ghayat al-Hakim*）。此书被译为拉丁语，以《皮卡特里克斯》（*Picatrix*）之名在西方广泛流传；其中虽有段落直接对应伊斯拉埃利的著作，作者却未点名引用他。
   - id: 79
     kind: body
     source: |-
       As Neoplatonist philosophy waned, in addition to the Galenic medical tradition of which Israeli was a part, the appreciable influence of Isaac Israeli diminished as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      随着新柏拉图主义哲学的衰落，伊斯拉埃利的影响也明显减退；这与他所从属的盖伦医学传统的延续形成对照。
+    step2: |-
+      随着新柏拉图主义哲学的衰落，伊斯拉埃利的影响明显减退，尽管他所从属的盖伦医学传统仍在延续。
   - id: 80
     kind: oir
     source: |-
       - [Isaac Israeli](http://www.jewishencyclopedia.com/view.jsp?artid=323&letter=I), article by Richard Gottheil and M. Seligson.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [Isaac Israeli](http://www.jewishencyclopedia.com/view.jsp?artid=323&letter=I)，理查德·戈特海尔与 M. 塞利格森撰写的条目。
+    step2: |-
+      - [Isaac Israeli](http://www.jewishencyclopedia.com/view.jsp?artid=323&letter=I)，理查德·戈特海尔与 M. 塞利格森撰写的条目。
