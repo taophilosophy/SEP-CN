@@ -2,7 +2,7 @@
   "slug": "montessori-maria",
   "kind": "retranslate",
   "zh_doc": "m/montessori-maria.md",
-  "state": "s1_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,20 @@
       "actor": "M-main-20261110",
       "at": "2026-11-10T10:27:24Z",
       "evidence": "逐段核销 182/182（126 段新译逐段对照 yuanwen）；结构全等：脚注定义 135:135、正文 marker 162:162、键集合零差、h2 15:15（尾部模板节 9 编号节一致）、h3 语义对应 15:15（Acknowledgments 按模板作 h2 致谢）；年份多重集零差（EN−ZH=∅、ZH−EN=∅）；相关词条 7/7 对 summary（compose 未报 NOTE），EN 原列 embodied cognition/critical thinking/Dewey/philosophy of education/virtue epistemology/Herbart/James 全数映射；biblio_audit flagged=0（无中国文献，无需 ADR-0011 还原）；check_terms 硬错误 0（Freire 已改登记形「保罗·弗莱雷」）；H1 与 SUMMARY 逐字符一致（check_summary 0 偏差）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "M-main-20261111",
+      "at": "2026-11-10T17:26:06Z",
+      "evidence": "s2 语言层：check_prose 64→20，实修 44 处（长句拆分 14、的链化解 16、弱动词 4、被动 3、其他 7），覆盖导语、§1–§9 正文；余 20 条均落于直接引语/引块内部（行 107、125、127、149、157、173、215、237、255、261、285、303、327、329、333、337 等），按 ADR-0020 逐条豁免：引文照录不改，改写即损忠实。语体：现代汉语学术书面语，通读全文无文言或半文半白；破折号 47 处（0.8/千字），均为真插入语、解释或引文内用法，已清除 6 处默认停顿式破折号，无同段滥用。check_style 0 issue、check_math 0、check_summary H1 0、check_academic --strict OK、markdownlint 本文件 0 error。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "M-main-20261111",
+      "at": "2026-11-10T17:29:42Z",
+      "evidence": "s3 体例：check_style 0 issue（引号/空格/标记全绿）；markdownlint 本文件 0 error；check_math 公式 0 缺失/失衡；check_summary H1 0 偏差；check_academic --strict 无硬错误；check_terms 硬错误 0（非英语缺原文与人名分立即登记册全局告警，非本词条缺陷）；check_render_artifacts 0 artifact。体例四检全绿，交评审线 r1–r3。"
     }
   ],
   "blockers": [],
