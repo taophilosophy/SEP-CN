@@ -2,7 +2,7 @@
   "slug": "adorno",
   "kind": "retranslate",
   "zh_doc": "a/adorno.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "A-main-20261111",
       "at": "2026-11-10T19:42:55Z",
       "evidence": "三校体例六检：check_style 0 issue；check_math 缺失 0 未闭合 0；check_academic --strict 0 硬错误（在途豁免 1）；check_terms 硬错误 0（8 处人名告警逐条判定：Wellmer/Claussen/Klages/Proust/Spengler 正文未出现无需动作，Buck-Morss×4、Müller-Doohm×4、Wiggershaus×2 全部位于引用组与脚注定义区，按模板#6 照录豁免）；markdownlint a/adorno.md 0 错误；check_summary 无 H1 mismatch"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-main-20261111",
+      "at": "2026-11-10T20:42:03Z",
+      "evidence": "初审对照 yuanwen 源文逐节核销（§1–§7 全节+References 结构+相关词条 20 项对位+致谢），实修 20 处：补漏译独子（only child）、姐妹俩一道给童年（together）、家姨→姨妈并补 Agathe 括注、家中的朋友→家中世交、永恒同一者→永远相同者（ever-same）、补 [自然的统一] 括号结构、斯宾格勒/克拉格斯首现补全形与括注（对齐人名表）、[2003,124,trans.mod. 补闭方括、arguably 改可以说、多亏→正是由于、残迹*.*→。、乌托邦伸距→射程、之所以…这是一条理由句重排、残迹*,*→，、思想主体→著述总体（corpus）、补（现代）括注显化、个读→个别解读、典型地→他惯常、另有另一种→还提供了另一种、删 ego 混形、*mitmachen 补闭星（标记守恒）、宽宏→广博、未负→没有辜负；孤引孤定义 0，脚注定义区 267 条与镜像逐字符一致，引用键计数全等；语体通读：现代汉语学术书面语，无文言仿古，破折号仅承担插入与转折"
     }
   ],
   "blockers": [],
