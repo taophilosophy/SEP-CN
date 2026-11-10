@@ -2,7 +2,7 @@
   "slug": "nietzsche-aesthetics",
   "kind": "retranslate",
   "zh_doc": "n/nietzsche-aesthetics.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T11:16:37Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-10T19:32:32Z",
+      "evidence": "101 段账本双版分 6 批填写（每批独立提交账本），lq check HARD=0（软旗仅书名号转换与机械标题段，逐条留痕）；compose 写回 46571 字符；References 现制四子节（Editions/Abbreviations/Other Primary/Secondary）defs 95 照录；正文 marker 103 与源文同构"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-10T19:32:32Z",
+      "evidence": "逐段对照 yuanwen 核销 101 段（100 正文段+oir）：无漏译增译；H2 10=10、H3 10=10、defs 95=95、marker 104=104（含 References 注记行字面 [^key] 与源同构）；相关词条 14 项按 SUMMARY 主名核对，未匹配 1 项（art and ethical value）补为「艺术与伦理价值」待管线挂链；书名号体例统一；语体：现代汉语学术书面语，未用文言，破折号仅用于插入与转折，无滥用"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-10T19:32:32Z",
+      "evidence": "check_prose 57 项→7 项（余 7 处全为直引文内部「的」链，据 ADR-0020 引文豁免并留痕）；check_style --strict 0（先修 cjk-spacing，再剥 CJK 斜体 92 处并恢复误伤的两处加粗行）；check_math formulas 0；语体：现代汉语学术书面语，通读全篇未发现文言或半文半白，破折号仅用于插入与转折"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-10T19:32:33Z",
+      "evidence": "check_academic --docs --strict 无硬错误；check_terms 定点核销 0 硬错误 0 冲突；人名登记 6 行（尼采/瓦格纳/埃斯库罗斯/拉斐尔/比才/西勒诺斯），术语登记 9 行（悲剧/悲剧快感/存在的审美辩护/阿波罗式/狄奥尼索斯式/总体艺术作品/外观/颓废/权力意志）；本地九项门禁：术语一致性、直角引号、管线单测通过，学术规范两项失败系他会话在途任务（heraclitus 语体留痕、dai-zhen/han-dynasty 文献行），与本条无涉"
     }
   ],
   "blockers": [],
