@@ -2,7 +2,7 @@
 """文档任务状态机（FR-011/012/013；状态图见 specs/001-sep-sync-pipeline/data-model.md）。
 
 用法: python tools/task_ops.py <命令> <slug> [参数]
-命令: show / create / advance / clear / block
+命令: show / create / advance / clear / reopen / block
 状态机（retranslate）:
   pending → cleared → drafted → s1_checked → s2_checked → s3_checked
           → r1_reviewed → r2_reviewed → r3_reviewed → done
@@ -173,6 +173,28 @@ def _academic_gate(zh_doc, step):
                                 % (step, r.stdout.strip()[-800:]))
 
 
+def reopen(slug, reason, actor):
+    """把 done 的 retranslate 任务打回 pending（返工入口，ADR-0033 置空处置）。
+
+    只用于已 done 词条被发现语体等硬问题时：reopen → clear → 重新 draft。
+    旧 steps 保留为历史（append-only），不删除；reason 必须写明返工原因。
+    """
+    task = load_task(slug)
+    if not task:
+        raise TaskNotFound(slug)
+    if task["kind"] != "retranslate":
+        raise UsageError("reopen 仅适用于 retranslate 任务")
+    if task["state"] != "done":
+        raise PreconditionError("reopen 要求状态 done，当前 %s" % task["state"])
+    if not str(reason or "").strip():
+        raise UsageError("reopen 必须写明返工原因（--reason）")
+    task["state"] = "pending"
+    task["steps"].append({"step": "reopen", "status": "ok", "actor": actor,
+                          "at": utcnow_iso(), "evidence": reason})
+    save_task(task)
+    return task
+
+
 def clear(slug):
     """清空正文保留 H1（FR-013）；gate：基线哈希复算通过（宪法附加约束）。"""
     task = load_task(slug)
@@ -253,6 +275,12 @@ def main(argv=None):
             return 0
         if cmd == "clear":
             print(json.dumps(clear(slug), ensure_ascii=False, indent=2))
+            return 0
+        if cmd == "reopen":
+            args = _parse(["--actor", "--reason"], argv[2:])
+            print(json.dumps(reopen(slug, args.get("reason") or "",
+                                    args.get("actor") or "?"),
+                             ensure_ascii=False, indent=2))
             return 0
         if cmd == "block":
             args = _parse(["--reason"], argv[2:])

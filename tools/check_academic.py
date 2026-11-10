@@ -14,6 +14,8 @@
     orphan-ref / orphan-def  正文 [^key] 引用与文末 [^key]: 定义不配对
     task-pin-missing       任务 JSON 缺 version_pin（pubinfo_date/archive_edition/sha256）
     task-evidence-missing  done 任务步骤缺 evidence（或步数不足 6）
+    task-style-attest      done 任务（生效时点后）s2/r1 缺语体核验结论留痕
+                           （rules/02 语体与文风；只查留痕，不判文本语体）
   告警（--strict 升硬）:
     biblio-missing          非存根词条无“参考文献”节
     scholar-tools-missing   非存根词条无“学术工具/如何引用本词条”
@@ -70,6 +72,10 @@ EXCLUDE_FILES = {
 STUB_BODY_LINES = 10      # 非空行 ≤ 此数（含 H1）视为存根
 PUBINFO_WINDOW = 30       # 版本事实行须落在前 N 个非空行内
 DONE_MIN_STEPS = 6        # done 任务最少步数（update 无 clear/draft）
+# 语体核验留痕门禁生效时点（rules/02“语体与文风”，ADR-0033）：
+# 只校验 s2/r1 evidence 是否记录了语义语体结论，不判断文本语体本身；
+# 生效前的存量 done 词条由 specs/015 全局语义复核另行处置。
+STYLE_ATTEST_FROM = '2026-11-10T15:00:00Z'
 
 MONTHS = {'jan': 1, 'feb': 2, 'mar': 3, 'apr': 4, 'may': 5, 'jun': 6,
           'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12}
@@ -397,6 +403,17 @@ def check_tasks(tasks_dir, hard, warns, records=None):
                     if not str((st or {}).get('evidence') or '').strip():
                         hard.append('[task-evidence-missing] %s 步骤 %s 缺 evidence'
                                     % (rel, (st or {}).get('step', '?')))
+                # 语体核验留痕（rules/02“语体与文风”，ADR-0033）：
+                # 语义判断由复核人做，门禁只管 s2/r1 是否留下结论，避免关键词误判。
+                done_at = next((str(st.get('at') or '') for st in reversed(steps)
+                                if st.get('step') == 'done'), '')
+                if done_at >= STYLE_ATTEST_FROM:
+                    for st in steps:
+                        if st.get('step') in ('s2', 'r1') \
+                                and '语体' not in str(st.get('evidence') or ''):
+                            hard.append('[task-style-attest] %s 步骤 %s 缺语体核验结论'
+                                        '（evidence 须含“语体：……”，rules/02）'
+                                        % (rel, st.get('step')))
     return n
 
 

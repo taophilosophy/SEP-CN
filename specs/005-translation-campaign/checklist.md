@@ -21,6 +21,7 @@
 ## 每词条 done（逐词条通用）
 
 * [ ] 状态机 r3_reviewed → done（禁止跳步）
+* [ ] 语体核验：二校与 r1 通读全文（排除引文/参考文献），确认现代汉语学术书面语、无文言仿古、破折号未滥用；结论入任务 evidence（`语体：…`）
 * [ ] `check_academic --docs <路径> --strict` 0 硬错误
 * [ ] `check_style` 0 issue + markdownlint 绿
 * [ ] 版本事实行与 baseline pubinfo 一致

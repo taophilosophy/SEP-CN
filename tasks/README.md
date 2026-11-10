@@ -44,6 +44,7 @@ update:      pending → s1_checked（仅变更段）→ s2_checked（变更段�
 python tools/task_ops.py create <slug> --kind retranslate                    # 建重译任务（前置：基线已登记；zh-doc 可自动定位）
 python tools/task_ops.py create <slug> --kind update --from <变更清单.json>   # 建更新任务（--from 指向 baseline/changes/ 下清单）
 python tools/task_ops.py show <slug>                                          # 查看当前状态与步骤
+python tools/task_ops.py reopen <slug> --actor <执行者> --reason <原因>        # done 任务返工打回 pending（旧 steps 保留为历史）
 python tools/task_ops.py clear <slug>                                         # 清空既有正文（retranslate 专用，前置：基线可信）
 python tools/task_ops.py advance <slug> --step s1 --actor <执行者> --evidence <凭证说明>
 python tools/task_ops.py advance <slug> --unblock --evidence <解除说明>        # 解除阻塞
