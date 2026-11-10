@@ -2,7 +2,7 @@
   "slug": "digital-art",
   "kind": "retranslate",
   "zh_doc": "d/digital-art.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "DR-main-20261110",
       "at": "2026-11-10T06:55:28Z",
       "evidence": "体例三校：节标题编号补点号 5 处（账本内改后重合成）、CJK 斜体去标记 1 处（*就地*→无标记）、英译残留 2 处（singular→单例、ensuing→随后）；check_style/check_prose/check_academic --strict 与 check_math 四项 0 告警"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "DR-main-20261110",
+      "at": "2026-11-10T07:48:39Z",
+      "evidence": "独立复核一（全文对照）：源文 341 行与译文 284 行逐节对读（1–5 节 + 参考文献），确认无漏译/增译/幻觉；ASCII 图示例、作品清单（Kalpakjian/Arcangel-Davis/TeamLab/WhatWasThere/TBT/KlingKlangKlong）齐备；揪出术语越册 2 组（例记→殊例、例现→实例化）已回改"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "DR-main-20261110",
+      "at": "2026-11-10T07:51:30Z",
+      "evidence": "独立复核二（语言体例）：术语 17 条 digital-art 册行逐条核对（数字艺术/有限分立/显示类型/特定场域性/位图化/严肃游戏等）一致；token→殊例、instantiate→实例化、instance→实例 三组按册内先登归一；人名 Goodman/Gonzalez-Torres/黑泽明 已在册，Tomson-Jones、Haugeland 等现代学者依 ADR-0022 保拉丁原名；标题与 SUMMARY 行一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "DR-main-20261110",
+      "at": "2026-11-10T08:02:09Z",
+      "evidence": "独立复核三（终审）：check_all 七项全绿；marker 122=122 多重集相等、defs 60=60、## 9=9、### 7=7、汉字 17685；check_style/check_prose/check_academic/check_math 四检 0 告警"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "DR-main-20261110",
+      "at": "2026-11-10T08:02:09Z",
+      "evidence": "全周期完成：clear→draft→s1→s2→s3→r1→r2→r3 九步齐备，译文入库，D 批首条收口"
     }
   ],
   "blockers": [],
