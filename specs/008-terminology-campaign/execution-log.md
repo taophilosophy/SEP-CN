@@ -382,3 +382,34 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 
 * `Abhidharma` 真查无（4 库 0）；其余 26 项 ok，已 `--ingest` 落库（termonline-all）。
 * 首次整批 8 词全降级（未激活）→ 全部作废未入库，符合「降级不落凭证」要求。
+
+## 2026-11-11 审定库长跑续批与增量裁定（TL-main-20261111）
+
+### 一、长跑状态
+
+* 爬虫 `tools/tl_crawler.py` 自 offset 1804 续跑术语表未查证队列（`%TEMP%/az-term.json` 共 2772 项），
+  `--no-warm --interval 10 --batch-gap 20`；`tl_ingest_watch.py` 同步落凭证，断点 `state/tl-crawl-state.json`。
+* 在途凭证 87 份（s 区段 shingon–sifat）先行入库提交（`26064031c`），余下随跑随提。
+
+### 二、增量裁定（11-10 → 11-11 新增不一致 25 条）
+
+* 审计口径：`term_audit` → 8610 行（术语 4856 + 人名 3754）：一致 522 / 不一致 355 / 查无 1877 / 未查证 5856。
+* 与 audit-2026-11-10 逐行比对，新增不一致 25 条（全部落在 s 区段），逐条判读：
+  * **主译变更 1 条**：shifting balance theory「转换平衡理论」→「动态平衡说」（审定名词·遗传学名词，英文精确命中且学科语境正确；
+    旧形降为亦作；正文 `e/ecological-genetics.md` 看齐）。
+  * **保留 24 条**，归类：
+    * 跨学科同名：second intention（体育）、secondary causes（军事）、semblance（石油）、shingon/mantra（音乐）、
+      shu / shu shu（档案学「书」）、side condition（信息科技「伴随条件」）、situation（管理/语言学）、
+      social model（行为医学）、social acts（Social Security Act，英文不符）、semantic compactness（社会学假阳性）。
+    * 下位词/派生词：self-affirmation（自我肯定理论）、self-cultivation（教师修养/修齐治平）、self-interest（自为）、
+      self-realization（自我实现人假设）、self-reliance（自主可控战略）、sensitivity/safety conditions（灵敏度/敏感性）。
+    * 语境限定义项：signification（新闻学「意指」，本行取中世纪逻辑「意谓」）、sincerity（中华思想文化「诚」，
+      本行为道德心理学子维度）、social software（Parikh 社会程序义≠社交软件）、size principle（生理学运动单位义）、
+      self-knowledge（自然辩证法「自我知识」为知识论术语，conscience 语境取「自我认识」）、skilled action（教育「熟练动作」）。
+* 裁定结论与凭证同日留档，登记册无其他改动。
+
+### 三、门禁
+
+* `check_terms` 硬错误 0（冲突 0 + 自洽 0）、词汇表滞后 0。
+* `check_all` 9 项 8 绿；学术规范红为并行会话在途任务（`tasks/l/logic-substructural.json` 步骤 s2 缺语体核验），非本批改动。
+
