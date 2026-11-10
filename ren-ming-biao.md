@@ -1166,6 +1166,7 @@
 | Gödel, Kurt | Kurt Gödel | 库尔特·哥德尔 | — | —；logic-fuzzy | deductivism-mathematics | 学界千年通行汉译（不完全性定理）；凭证 2026-11-08 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Godfrey of Fontaines | — | 方丹的戈弗雷 | — | — | basing→SUMMARY 归一 | SUMMARY 定名（g/godfrey.md「方丹的戈弗雷」）优先于 auriol 语料回收异形（丰泰纳的戈弗雷）；2026-11-08 归一 | 2026-11-08 |
 | Godo, Lluís | — | Lluís Godo | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Gogh, Vincent van | — | 文森特·凡高 | 荷兰 | 1853–1890 | collingwood-aesthetics | 千年通行译名（荷兰画家，本词条引柯林武德所举画家例）；凭证 2026-11-10 | 2026-11-09 |
 | Godwin, William | — | 威廉·戈德温 | — | —；godwin | godwin | 学界通行汉译（哲学无政府主义奠基人） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | Goethe | — | 歌德 | — | — | 首现（wisdom） | 学界通行汉译（德国文学家）；凭证 2026-11-07 | 2026-11-07 |
 | Goff, Philip | — | 菲利普·戈夫 | — | — | zombies | 学界通行汉译（《伽利略的错误》中译本作者）；凭证 2026-11-10 | 2026-11-10 |
@@ -2705,6 +2706,7 @@
 | Rudolf Carnap | — | 鲁道夫·卡尔纳普 | — | — | leibniz-modal | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Rudolph Haym | — | 鲁道夫·海姆 | — | — | bauer | 学界通行汉译（《黑格尔及其时代》作者）；书目形 Rudolf Haym | 2026-11-08 |
 | Rudolph Hilferding | — | 鲁道夫·希法亭 | — | — | luxemburg | 学界通行汉译（《金融资本》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Ruskin, John | — | 约翰·拉斯金 | 英国 | 1819–1900 | collingwood-aesthetics | 学界通行汉译（艺术评论家，本词条以“非美学家”身份提及）；凭证 2026-11-10 | 2026-11-09 |
 | Rühle, Jürgen | Jürgen Rühle | 于尔根·吕勒 | — | — | bloch | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
 | Rūmī | جلال الدين الرومي | 鲁米 | 波斯（巴尔赫）／苏非 | 1207–1273 | al-qudat | 学界通行汉译（波斯苏菲诗人） | 2026-11-06 |
 | Ruse, Michael | — | 迈克尔·鲁斯 | — | — | biology-philosophy | 学界通行汉译（《达尔文主义》作者）；凭证 2026-11-07 | 2026-11-07 |
