@@ -535,6 +535,9 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 * 本轮累计增量裁定 14 批 122 条，主译变更 12 条（shifting balance theory、somatic mutation theory、spontaneous generation、
   strict finitism、subjective well-being、tautology、substitutional load、time dilation、transient polymorphism、
   Stoic/斯多亚→斯多葛全库统一、virtue ethics/virtue theory 补亦作）；其余 110 条保留并逐条留理由。
+* 二轮补查队列同日起跑（1951 项，`%TEMP%/az-term2.json`，`--start 0 --batches 600 --no-warm --interval 10 --batch-gap 20`），
+  断点续写 `state/tl-crawl-state.json`；ingest watcher 常驻，凭证随跑随提。
+
 
 
 
