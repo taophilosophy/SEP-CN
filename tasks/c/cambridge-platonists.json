@@ -2,7 +2,7 @@
   "slug": "cambridge-platonists",
   "kind": "retranslate",
   "zh_doc": "c/cambridge-platonists.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "REV-main-20261109",
       "at": "2026-11-09T06:55:10Z",
       "evidence": "r2 复审（逐句回核原文与逻辑；r1 后隔 william-sherwood 全条 r3+done 冷置回读；REV-main-20261109）：①引注页码回核——五处行内页码与源逐字全等：Patrides 1969, p. 58（源作 p.58，按全库体例补空格）、More 1662 *Antidote* p. 142、More *A Collection* Preface p. xvi、Cudworth 1678 p. 165、Cudworth 1996 p. 178；②照录复核——defs 67 条与源 diff 为空（r1 已验，本轮复跑确认零漂移）；③术语一致性——永恒哲学（perennial philosophy）／塑形自然（Plastic Nature）／自然精神（Spirit of Nature）／善形官能（Boniform Faculty）／万民共识（consensus gentium）／设计论证／回忆说／活力论／自主能力（autexousion）与新登形一致；Hylarchic Principle 沿用 2026-11-08 首译形「质料统辖原则」，hegemonikon 沿用既有登记形「灵魂的主导部分」，本轮幂等跳过未重复登记；④相关词条 8 项与 SUMMARY 题名全等（r1 已验）；⑤版本钉复核——pubinfo_date=Oct 8, 2026、sha256=31c8b69a…568aa，与文档 pubinfo 行一致；archive_edition 为空属基线侧缺口（已记观察项，非词条缺陷）；⑥r1 实修 4 处逐处回读（philosophia perennis 斜体与汉译、主语悬空句重构、页码空格、两处括号去嵌套），无义项增减。**无新增 Critical/Major/Minor**。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "C-ZCode-20261110",
+      "at": "2026-11-10T05:13:21Z",
+      "evidence": "r3 终审（终稿验收，C-ZCode-20261110 主会话直做）：①结构五维复跑（script/c_r3_audit.py）——H1 与 SUMMARY 主行全等；h2 8/8（惠科特/卡弗韦尔、史密斯与斯特里/亨利·莫尔/拉尔夫·库德沃斯/参考文献/学术工具/其他网络资源/相关词条），h3 3/3（思想遗产/原始文献/第二手文献）；脚注定义 67/67、正文引用 6/6，双向差集为空（仅转换器合成键 key 两侧同形）；块数 97/97；bold 5/en 1（差额 4 为源 <em> 中译加粗，r1 已核）；$ 0/0；引块 6/6。②语言终验实修 3 处（本会话新增，非旧账）：a) 开篇 79 汉字悬垂主语长句（源 As the first philosophers... 自身悬垂）重构为「剑桥柏拉图主义者是最早……哲学家。他们的影响……」；b) 80 汉字长句拆为「使他们在哲学史上从未被完全遗忘。但其哲学贡献始终未获应有的重视，20 世纪尤其如此：……」；c) 单句双「被」句改主动「狭隘正典式的哲学史进路也亏待了他们」；另去文白混杂 3 处（梓行→出版、尤以……为甚/彼时→20 世纪尤其如此：那时、博洽→广博）。③人名裁定（待裁定项就地结案）：正文「Ernst Cassirer/Alexandre Koyré」英文保留形违反 ADR-0022（二者均有通行汉名）——改「恩斯特·卡西尔（Ernst Cassirer）」「亚历山大·柯瓦雷（Alexandre Koyré）」；Koyré 汉名三形并立（柯瓦雷/科伊雷/英文保留）就地裁定主形「柯瓦雷」（词汇表 + cassirer/duhem 多数形），ren-ming-biao 两行归一、备注记亦作，连带修 reinach 与 newton-philosophy 两处「科伊雷」。④prose 18→15（余 8 长句 + 7 的-chain 沿用 r1/r2 豁免口径：四种无神论流派枚举、书名密集中句、哲学定义句；逐条核对语义无失，属学术枚举，不重做润色）。⑤门禁：check_style 0 issue；check_academic --strict 0 硬错误；check_math 无公式；check_all 七项全绿。无 Critical/Major/Minor 遗留。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "C-ZCode-20261110",
+      "at": "2026-11-10T05:13:21Z",
+      "evidence": "终审验收签字：r1–r3 三校凭据齐备（r1 REV-main-20261109 2026-11-09T04:52Z、r2 同会话 06:55Z、r3 本会话 2026-11-10），复核独立性由初译者（主代理 2026-11-01 初译）以外会话满足；四门禁 + check_all 七项全绿，词条入 done。"
     }
   ],
   "blockers": [],
