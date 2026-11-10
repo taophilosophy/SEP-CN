@@ -1,0 +1,348 @@
+{
+ "key": "minimax relative concession",
+ "term": "minimax relative concession",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T01:52:08+00:00",
+ "status": "ok",
+ "note": "variant=minimax relative concession; 审定公布名词库=2245; 海峡两岸名词对照库=787; 其他来源数据库=42; 预公布名词数据库=89; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "极小化极大",
+   "en": "minimax",
+   "code": "05.0734",
+   "standard": "数学名词",
+   "subject": "数学_分析学_变分法"
+  },
+  {
+   "cn": "极小化极大原理",
+   "en": "minimax principle",
+   "code": "07.0380",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_非线性泛函分析"
+  },
+  {
+   "cn": "极小化极大估计",
+   "en": "minimax estimate",
+   "code": "09.0561",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_参数估计"
+  },
+  {
+   "cn": "极小化极大逼近",
+   "en": "minimax approximation",
+   "code": "010.0088",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_数值逼近"
+  },
+  {
+   "cn": "极小化极大解",
+   "en": "minimax solution",
+   "code": "010.0131",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_数值逼近"
+  },
+  {
+   "cn": "极小极大定理",
+   "en": "minimax theorem",
+   "code": "011.0425",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_对策论"
+  },
+  {
+   "cn": "极小极大策略",
+   "en": "minimax strategy",
+   "code": "011.0483",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_对策论"
+  },
+  {
+   "cn": "遗憾最少原则",
+   "en": "minimax regret rule",
+   "code": "11.0271",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_公共政策"
+  },
+  {
+   "cn": "大中取小遗憾判据",
+   "en": "minimax-regret criterion",
+   "code": "05.174",
+   "standard": "化学工程名词",
+   "subject": "化学工程_过程系统工程_过程优化"
+  },
+  {
+   "cn": "渐近极小化极大估计",
+   "en": "asymptotically minimax estimate",
+   "code": "09.0562",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_参数估计"
+  },
+  {
+   "cn": "极小化极大决策函数",
+   "en": "minimax decision function",
+   "code": "09.0525",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_统计决策论"
+  },
+  {
+   "cn": "加权极小化极大算法",
+   "en": "weighted minimax algorithm",
+   "code": "010.0137",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_数值逼近"
+  },
+  {
+   "cn": "最大最小测试，最小化最大测试",
+   "en": "minimax test",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "发生权",
+   "en": "concession",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关系调",
+   "en": "relative",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "有限让与",
+   "en": "limited concession",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "租让制",
+   "en": "concession system",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "相对紧张度，相对挺胀度",
+   "en": "relative turgidity",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "相对挺胀度（=相对紧张度）",
+   "en": "relative turgidity",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "厚度型",
+   "en": "relative topography",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "相对日照",
+   "en": "relative sunshine",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "相对涡度",
+   "en": "relative vorticity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "相对丰度",
+   "en": "relative abundance",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "相对性状",
+   "en": "Relative character",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "狭义相对论",
+   "en": "Special relativity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "相对论",
+   "en": "Theory of relativity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "极小曲面",
+   "en": "Minimal surface",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "意境",
+   "en": "Aesthetic Conception",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "斯托克斯位移",
+   "en": "internal conversion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "网络拥塞",
+   "en": "network congestion",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据拥堵",
+   "en": "data congestion",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "负折射",
+   "en": "Negative refraction",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "作格",
+   "en": "Ergative case",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "租让制",
+   "en": "concession system",
+   "code": "02.0323",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_列宁斯大林时期"
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "code": "2.6.2.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会不平等"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "code": "2.10.2.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "code": "4.3.9.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "code": "01.0025",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "code": "01.0210",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "相对工资",
+   "en": "relative wage",
+   "code": "02.0148",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "相对贫困化",
+   "en": "relative pauperization",
+   "code": "02.0171",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "相对危险度",
+   "en": "relative risk",
+   "code": "3.6.19.39",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "相对密度",
+   "en": "relative density",
+   "code": "6.3.4.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品用香精香料"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "code": "4.2.2.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热环境"
+  },
+  {
+   "cn": "相对静止",
+   "en": "relatively static",
+   "code": "01.0026",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
