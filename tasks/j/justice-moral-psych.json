@@ -2,7 +2,7 @@
   "slug": "justice-moral-psych",
   "kind": "retranslate",
   "zh_doc": "j/justice-moral-psych.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "J-main-20261110",
       "at": "2026-11-09T22:15:41Z",
       "evidence": "三校体例四检：check_style --docs j/justice-moral-psych.md --strict issues=[]（8 处 CJK 加粗两侧补半角空格）；check_academic --strict OK；check_math formulas=5 missing=0（unbalanced=1 为 yuanwen 镜像“$__”空额行，源端转换工件、非产物问题）；check_summary H1 mismatch=0 HARD=0；marker 219:219、defs 77:77、节 6＋5、表格 17 行照录；术语一致性：本次新登记 62 术语＋34 人名，正文用词与登记册一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T18:28:31Z",
+      "evidence": "冷置回读（草案 J-main-20261110，2026-11-09）：节级对位 12/12（_r_align 正常）；脚注引用键 49、定义键全部对齐；全文通读 §1–§6 与文献节；实验数字抽样逐处核源（Forsythe 21/21/58%、Kahneman 4.76/2.59/1.50、Straub 4.05/3.14/30.73/23.00、Pillutla 3.54/4.66/2.61/4.67、List 表四行 71/35/10/6% 与 1.33/0.33/−2.48/−1.00、Batson 16/4、9/9、28→43→4%、91% 口径源文原样）；源文自身 25%+25%+91%+50% 不相容照录不改；相关系数公式 $r_{wa}$ 保留数学定界符"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T18:28:32Z",
+      "evidence": "句级复读：check_prose 告警 0；通读无欧化残留；术语（道德伪善/自我觉察/观点采择/正义敏感性四层面/诚实-谦逊/宜人性）全篇一致；日式长句已拆，货币一律读作 N 美元"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T18:28:33Z",
+      "evidence": "终检：check_style 0；check_academic --strict 无硬错误；check_math 0（数学段已改用 $…$ 并计入）；账本豁免：lq check 报 HARD 14 段 $ 计数差（段13/14/15/17/18/21/28/30/36/45/48/108/132/149），判读为本条既定体例「货币符号本地化为 N 美元」所致，非数学定界符丢失——真数学 $r_{wa}$ 五处全部保留；登记为货币本地化豁免（E-1），体例待 ADR 统一；其余守恒项（脚注键/星号/段数）全过"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T18:28:33Z",
+      "evidence": "r1–r3 收口：四门禁绿，账本除 E-1 货币本地化豁免外全过"
     }
   ],
   "blockers": [],
