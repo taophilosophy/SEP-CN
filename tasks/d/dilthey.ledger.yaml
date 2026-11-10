@@ -11,242 +11,322 @@ segments:
     kind: body
     source: |-
       Wilhelm Dilthey was a German philosopher who lived from 1833–1911. Dilthey is best known for the way he distinguished between the natural and human sciences. He defined the human sciences broadly to include both the humanities and the social sciences. Whereas the main task of the natural sciences as Dilthey found them was to arrive at law-based causal explanations, he projected the core task of the human sciences to be that of providing an understanding of the organizational structures and dynamic forces of human and historical life. It will be shown that this distinction is not so sharp as to rule out causal explanations in particular human sciences such as psychology, political theory, and economics; it mostly delimits the scope of explanations in these fields. Dilthey’s aim was to expand Kant’s primarily nature-oriented *Critique of Pure Reason* into a *Critique of Historical Reason* that can also do justice to the social and cultural dimensions of human experience. Understanding the meaning of human historical events requires being able to organize them in their proper contexts and to articulate the structural uniformities that can be found in this way. Dilthey’s reflections on the human sciences, historical contextualization, and hermeneutics influenced many subsequent thinkers such as Husserl, Heidegger, Cassirer, Gadamer and Ricoeur. Recently, there has been some attention given to the ways in which Dilthey’s empirical approach to experience influenced Carnap in his early attempts to overcome metaphysics in favor of more analytical methods.
-    step1: 威廉·狄尔泰（Wilhelm Dilthey，1833–1911）是一位德国哲学家。狄尔泰最为人所知的，是他区分自然科学与精神科学的方式。他对精神科学作了宽泛的界定，使其同时包括人文学科与社会科学。在狄尔泰看来，自然科学的主要任务是得出以规律为依据的因果说明；他则把精神科学的核心任务设想为：提供对人类生活与历史生活的组织结构和动力力量的理解。下文将表明，这一区分并不尖锐到足以排除心理学、政治理论与经济学等具体精神科学中的因果说明；它主要是在这些领域中划定了说明的范围。狄尔泰的目标是把康德主要以自然为取向的《纯粹理性批判》（*Critique of Pure Reason*）扩展为一种《历史理性批判》（*Critique of Historical Reason*），使后者也能公正地对待人类经验的社会与文化维度。理解人类历史事件的意义，要求能够把它们组织到其恰当的语境之中，并阐明以这种方式可以找到的结构齐一性。狄尔泰关于精神科学、历史语境化和诠释学的思考，影响了胡塞尔、海德格尔、卡西尔、伽达默尔与利科等许多后续思想家。近来，人们的注意力也投向了狄尔泰的经验式进路如何影响卡尔纳普早年克服形而上学、转向更分析方法的尝试。
-    step2: 威廉·狄尔泰（Wilhelm Dilthey，1833–1911），德国哲学家。狄尔泰最为人知的，是他区分自然科学与精神科学的方式。他对精神科学的界定相当宽泛：既包括人文学科，也包括社会科学。在他看来，自然科学的主要任务是得出以规律为据的因果说明；而他给精神科学设定的核心任务，则是提供对人类生活与历史生活之组织结构与动力力量的理解。下文将表明，这一区分并不那么泾渭分明，并不因此排除心理学、政治理论与经济学等具体精神科学中的因果说明；它主要是为这些领域划定了说明的范围。狄尔泰的目标，是把康德主要以自然为取向的《纯粹理性批判》（*Critique of Pure Reason*）扩展为一种《历史理性批判》（*Critique of Historical Reason*），使之也能公正对待人类经验的社会与文化维度。要理解人类历史事件的意义，就必须能把它们置入各自恰当的语境，并阐明由此显出的结构齐一性。狄尔泰关于精神科学、历史语境化与诠释学的思考，影响了胡塞尔、海德格尔、卡西尔、伽达默尔与利科等众多后来者。近来，人们也开始关注狄尔泰的经验式进路如何影响了卡尔纳普早年以更分析的方法克服形而上学的尝试。
+    step1: |-
+      威廉·狄尔泰（Wilhelm Dilthey，1833–1911）是一位德国哲学家。狄尔泰最为人所知的，是他区分自然科学与精神科学的方式。他对精神科学作了宽泛的界定，使其同时包括人文学科与社会科学。在狄尔泰看来，自然科学的主要任务是得出以规律为依据的因果说明；他则把精神科学的核心任务设想为：提供对人类生活与历史生活的组织结构和动力力量的理解。下文将表明，这一区分并不尖锐到足以排除心理学、政治理论与经济学等具体精神科学中的因果说明；它主要是在这些领域中划定了说明的范围。狄尔泰的目标是把康德主要以自然为取向的《纯粹理性批判》（*Critique of Pure Reason*）扩展为一种《历史理性批判》（*Critique of Historical Reason*），使后者也能公正地对待人类经验的社会与文化维度。理解人类历史事件的意义，要求能够把它们组织到其恰当的语境之中，并阐明以这种方式可以找到的结构齐一性。狄尔泰关于精神科学、历史语境化和诠释学的思考，影响了胡塞尔、海德格尔、卡西尔、伽达默尔与利科等许多后续思想家。近来，人们的注意力也投向了狄尔泰的经验式进路如何影响卡尔纳普早年克服形而上学、转向更分析方法的尝试。
+    step2: |-
+      威廉·狄尔泰（Wilhelm Dilthey，1833–1911），德国哲学家。狄尔泰最为人知的，是他区分自然科学与精神科学的方式。他对精神科学的界定相当宽泛：既包括人文学科，也包括社会科学。在他看来，自然科学的主要任务是得出以规律为据的因果说明；而他给精神科学设定的核心任务，则是提供对人类生活与历史生活之组织结构与动力力量的理解。下文将表明，这一区分并不那么泾渭分明，并不因此排除心理学、政治理论与经济学等具体精神科学中的因果说明；它主要是为这些领域划定了说明的范围。狄尔泰的目标，是把康德主要以自然为取向的《纯粹理性批判》（*Critique of Pure Reason*）扩展为一种《历史理性批判》（*Critique of Historical Reason*），使之也能公正对待人类经验的社会与文化维度。要理解人类历史事件的意义，就必须能把它们置入各自恰当的语境，并阐明由此显出的结构齐一性。狄尔泰关于精神科学、历史语境化与诠释学的思考，影响了胡塞尔、海德格尔、卡西尔、伽达默尔与利科等众多后来者。近来，人们也开始关注狄尔泰的经验式进路如何影响了卡尔纳普早年以更分析的方法克服形而上学的尝试。
   - id: 2
     kind: body
     source: |-
       ## 1. Dilthey’s Life and Thought
-    step1: ## 1. 狄尔泰的生平与思想
-    step2: ## 1. 狄尔泰的生平与思想
+    step1: |-
+      ## 1. 狄尔泰的生平与思想
+    step2: |-
+      ## 1. 狄尔泰的生平与思想
   - id: 3
     kind: body
     source: |-
       ### 1.1 Brief Overview of Dilthey’s Philosophical Development
-    step1: ### 1.1 狄尔泰哲学发展概览
-    step2: ### 1.1 狄尔泰哲学发展概览
+    step1: |-
+      ### 1.1 狄尔泰哲学发展概览
+    step2: |-
+      ### 1.1 狄尔泰哲学发展概览
   - id: 4
     kind: body
     source: |-
       Wilhelm Dilthey was born in Biebrich on the Rhine in 1833, two years after Hegel had died. Dilthey’s ambivalent attitude towards Hegel can provide some initial clues about his own philosophical approach. He admired Hegel’s recognition of the historical dimension of philosophical thought, but rejected the speculative and metaphysical ways he developed this relation. Like the Neo-Kantians, Dilthey proposed a return to the more focused viewpoint of Kant, but not without also taking account of the higher emancipatory aspirations and broader perspectives of later thinkers such as Fichte, Herder, and Hegel.
-    step1: 威廉·狄尔泰 1833 年生于莱茵河畔的比布里希，时值黑格尔去世两年之后。狄尔泰对黑格尔的矛盾态度，可以为我们提供关于他本人哲学取径的最初线索。他钦佩黑格尔对哲学思想之历史维度的承认，但拒绝黑格尔阐发这一关系时所采取的思辨与形而上学方式。与新康德主义者一样，狄尔泰主张回到康德更为集中的视角，但并非不同时顾及费希特、赫尔德与黑格尔等后来思想家更高的解放抱负与更广的视野。
-    step2: 威廉·狄尔泰 1833 年生于莱茵河畔的比布里希（Biebrich），彼时黑格尔去世不过两年。狄尔泰对黑格尔的矛盾态度，为我们理解他本人的哲学取径提供了最初线索：他钦佩黑格尔对哲学思想之历史维度的承认，却拒绝黑格尔阐发这一关系时所取的思辨与形而上学方式。与新康德主义者一样，狄尔泰主张回到康德更为集中的视角，但也并未因此不顾费希特、赫尔德与黑格尔等后来者更高的解放抱负与更开阔的视野。
+    step1: |-
+      威廉·狄尔泰 1833 年生于莱茵河畔的比布里希，时值黑格尔去世两年之后。狄尔泰对黑格尔的矛盾态度，可以为我们提供关于他本人哲学取径的最初线索。他钦佩黑格尔对哲学思想之历史维度的承认，但拒绝黑格尔阐发这一关系时所采取的思辨与形而上学方式。与新康德主义者一样，狄尔泰主张回到康德更为集中的视角，但并非不同时顾及费希特、赫尔德与黑格尔等后来思想家更高的解放抱负与更广的视野。
+    step2: |-
+      威廉·狄尔泰 1833 年生于莱茵河畔的比布里希（Biebrich），彼时黑格尔去世不过两年。狄尔泰对黑格尔的矛盾态度，为我们理解他本人的哲学取径提供了最初线索：他钦佩黑格尔对哲学思想之历史维度的承认，却拒绝黑格尔阐发这一关系时所取的思辨与形而上学方式。与新康德主义者一样，狄尔泰主张回到康德更为集中的视角，但也并未因此不顾费希特、赫尔德与黑格尔等后来者更高的解放抱负与更开阔的视野。
   - id: 5
     kind: body
     source: |-
       Dilthey characterized his own expansive view of philosophy as one of establishing integral relations to all the theoretical disciplines and historical practices that attempt to make sense of the world. Instead of demarcating the boundaries that set philosophy apart from other ways of engaging life, Dilthey conceives its critical task as articulating the overall structures that define the human spirit in general. Relatively early in his career, philosophy is defined as “an experiential science of spiritual phenomena” that seeks to “cognize the laws governing social, intellectual and moral phenomena” (1867/GS.V, 27). Philosophy should aim to preserve the scope that idealists such as Fichte, Schelling and Hegel had given it, but it must do so by recapturing the Kantian rigor that had been lost and by proceeding empirically.
-    step1: 狄尔泰把自己那种开阔的哲学观刻画为：与所有试图理解世界的理论学科和历史实践建立完整的关系。狄尔泰不去划定把哲学与其他介入生活的方式区分开来的边界，而是把哲学的批判任务设想为阐明总体上规定人类精神的诸整体结构。在职业生涯的较早阶段，哲学被界定为“精神现象的经验科学”，它试图“认识支配社会的、智识的与道德的现象的诸规律”（1867/GS.V, 27）。哲学应当力求保存费希特、谢林与黑格尔等观念论者赋予它的范围，但必须通过重获已然丧失的康德式严格性、并经验地推进来做到这一点。
-    step2: 狄尔泰对自己那种开阔哲学观的刻画是：哲学要与一切试图理解世界的理论学科和历史实践建立完整的关系。他不划界线、不把哲学与其他介入生活的方式隔开，而是把哲学的批判任务理解为：阐明总体上规定人类精神的诸整体结构。早在职业生涯初期，他就把哲学界定为“精神现象的经验科学”，其目标是“认识支配社会的、智识的与道德的现象的诸规律”（1867/GS.V, 27）。哲学应当保住观念论者（费希特、谢林与黑格尔）曾赋予它的广度，但要以重获已失的康德式严格、并以经验方式推进为条件。
+    step1: |-
+      狄尔泰把自己那种开阔的哲学观刻画为：与所有试图理解世界的理论学科和历史实践建立完整的关系。狄尔泰不去划定把哲学与其他介入生活的方式区分开来的边界，而是把哲学的批判任务设想为阐明总体上规定人类精神的诸整体结构。在职业生涯的较早阶段，哲学被界定为“精神现象的经验科学”，它试图“认识支配社会的、智识的与道德的现象的诸规律”（1867/GS.V, 27）。哲学应当力求保存费希特、谢林与黑格尔等观念论者赋予它的范围，但必须通过重获已然丧失的康德式严格性、并经验地推进来做到这一点。
+    step2: |-
+      狄尔泰对自己那种开阔哲学观的刻画是：哲学要与一切试图理解世界的理论学科和历史实践建立完整的关系。他不划界线、不把哲学与其他介入生活的方式隔开，而是把哲学的批判任务理解为：阐明总体上规定人类精神的诸整体结构。早在职业生涯初期，他就把哲学界定为“精神现象的经验科学”，其目标是“认识支配社会的、智识的与道德的现象的诸规律”（1867/GS.V, 27）。哲学应当保住观念论者（费希特、谢林与黑格尔）曾赋予它的广度，但要以重获已失的康德式严格、并以经验方式推进为条件。
   - id: 6
     kind: body
     source: |-
       These goals, as formulated in the inaugural lecture that Dilthey gave in 1867 on assuming his first professorship in Basel, were already prefigured in his early journals. Thus in 1859 Dilthey wrote that a new Critique of Reason must proceed on the basis of the psychological laws and impulses from which art, religion and science all derive. All intellectual systems are mere crystallizations of more generic schemata rooted in life (JD, 80).
-    step1: 这些目标，正如狄尔泰 1867 年在巴塞尔就任第一个教席时的就职演讲中所表述的，早已预示在他的早期日记之中。因此，狄尔泰在 1859 年写道，一种新的理性批判必须以艺术、宗教与科学共同由之而出的心理学规律与冲动为基础。一切智识体系都不过是植根于生活的更普遍图式的凝结物（JD, 80）。
-    step2: 这些目标早已预见于狄尔泰的早期日记：1867 年他在巴塞尔就任首个教席时发表的就职演讲，正是对它们的表述。狄尔泰 1859 年即写道，一种新的理性批判必须从艺术、宗教与科学共同由之而出的心理学规律与冲动出发；一切智识体系，都不过是植根于生活的更普遍图式的凝结物（JD, 80）。
+    step1: |-
+      这些目标，正如狄尔泰 1867 年在巴塞尔就任第一个教席时的就职演讲中所表述的，早已预示在他的早期日记之中。因此，狄尔泰在 1859 年写道，一种新的理性批判必须以艺术、宗教与科学共同由之而出的心理学规律与冲动为基础。一切智识体系都不过是植根于生活的更普遍图式的凝结物（JD, 80）。
+    step2: |-
+      这些目标早已预见于狄尔泰的早期日记：1867 年他在巴塞尔就任首个教席时发表的就职演讲，正是对它们的表述。狄尔泰 1859 年即写道，一种新的理性批判必须从艺术、宗教与科学共同由之而出的心理学规律与冲动出发；一切智识体系，都不过是植根于生活的更普遍图式的凝结物（JD, 80）。
   - id: 7
     kind: body
     source: |-
       The early Dilthey conceived his goal as a broadening of the critical project that would ground the human sciences as Kant had grounded the natural sciences. His hope then was that the human sciences would be able to arrive at lawful explanations just like the natural sciences. Up until at least 1887, when he published his *Poetics*, Dilthey was confident that inner explanations of human creativity could be arrived at. He himself formulated three laws of the imaginative metamorphosis to account for the uplifting effect that poets can have on us. Dilthey summarizes them as the laws of exclusion, intensification, and completion. Even in ordinary experience images are transformed by excluding what is no longer of interest and intensifying what remains based on our present interests. But what distinguishes poetic imagery is that it is also completed by the overall life-concerns of a powerful psyche.
-    step1: 早期狄尔泰把他的目标设想为批判规划的拓宽，即以康德奠立自然科学的方式为精神科学奠基。他当时的希望是，精神科学将能像自然科学那样得出合乎规律的说明。至少直到 1887 年出版《诗学》（*Poetics*）时，狄尔泰仍确信能够对人类的创造性达成内在的说明。他本人为说明诗人所能给予我们的那种振奋效果，提出了想象变形的三条规律。狄尔泰把它们概括为排除、强化与完成这三条规律。即使在日常经验中，意象也通过排除不再引起兴趣的东西、并依据当下的兴趣强化留存的东西而变形。但诗歌意象的独特之处在于，它还由一个强大心灵的整体生命关切所完成。
-    step2: 早期的狄尔泰把自己的目标设想为拓宽批判规划：以康德奠立自然科学的方式为精神科学奠基。他当时希望，精神科学也能像自然科学一样得出合规律的说明。至少到 1887 年出版《诗学》（*Poetics*）时，狄尔泰仍然确信可以对人类的创造性达成内在说明。为了说明诗人何以能使我们振奋，他本人提出了想象变形的三条规律，并概括为排除、强化与完成三律。即便在日常经验中，意象也在变形：排除不再为我们关注的东西，并按当下的兴趣强化留存的部分。诗歌意象的特异之处在于，它还会为一个强健心灵的整体生命关切所完成。
+    step1: |-
+      早期狄尔泰把他的目标设想为批判规划的拓宽，即以康德奠立自然科学的方式为精神科学奠基。他当时的希望是，精神科学将能像自然科学那样得出合乎规律的说明。至少直到 1887 年出版《诗学》（*Poetics*）时，狄尔泰仍确信能够对人类的创造性达成内在的说明。他本人为说明诗人所能给予我们的那种振奋效果，提出了想象变形的三条规律。狄尔泰把它们概括为排除、强化与完成这三条规律。即使在日常经验中，意象也通过排除不再引起兴趣的东西、并依据当下的兴趣强化留存的东西而变形。但诗歌意象的独特之处在于，它还由一个强大心灵的整体生命关切所完成。
+    step2: |-
+      早期的狄尔泰把自己的目标设想为拓宽批判规划：以康德奠立自然科学的方式为精神科学奠基。他当时希望，精神科学也能像自然科学一样得出合规律的说明。至少到 1887 年出版《诗学》（*Poetics*）时，狄尔泰仍然确信可以对人类的创造性达成内在说明。为了说明诗人何以能使我们振奋，他本人提出了想象变形的三条规律，并概括为排除、强化与完成三律。即便在日常经验中，意象也在变形：排除不再为我们关注的东西，并按当下的兴趣强化留存的部分。诗歌意象的特异之处在于，它还会为一个强健心灵的整体生命关切所完成。
   - id: 8
     kind: body
     source: |-
       Through his efforts to work out a kind of *gestaltist* psychology that could frame this third law of imaginative completion, Dilthey came to modify some of his basic assumptions. He came to realize that the overall psychic nexus of an individual was not a sufficient contextual frame to explain human experience. Our experience can only be understood by describing it as it as a continuum that is gradually acquired over time. What he calls the “acquired psychic nexus” is itself historically embedded in a social world. This means that our access to history is much more direct than our access to nature. We feel ourselves as part of history whereas nature has come to increasingly stand apart from us. Although Dilthey is still willing to accept that objects of outer experience are phenomenal, he no longer accepts the Kantian thesis that the contents of inner experience are phenomenal as well. Inner experience is reconceived as lived experience *(Erlebnis)* that is real and the time that relates us to history is not merely the ideal form that Kant had exposited for nature.
-    step1: 在努力构造一种能够框定这第三条想象完成规律的*格式塔式*心理学时，狄尔泰修改了自己的若干基本假定。他认识到，个体的整体心理联系并不足以成为解释人类经验的语境框架。我们的经验只有被描述为随时间逐渐获得的一个连续体，才能得到理解。他所谓的“获得的心理联系”本身即历史地嵌入于一个社会世界之中。这意味着，我们通达历史比通达自然直接得多：我们感到自己是历史的一部分，而自然则日益与我们分离。虽然狄尔泰仍然愿意承认外经验的诸对象是现象，但他不再接受康德关于内经验内容同样是现象的论题。内经验被重新构想为真实的体验（*Erlebnis*），而把我们与历史关联起来的时间也不再只是康德为自然而阐明的那个观念形式。
-    step2: 在力求构造一种能够框定这第三条想象完成律的*格式塔式*心理学时，狄尔泰修正了自己的若干基本假定。他逐渐认识到：仅凭个体的整体心理联系，不足以构成解释人类经验的语境框架。我们的经验只有被描述为一个随时间逐渐获得的连续体，才能得到理解。他所谓“获得的心理联系”，本身即历史地嵌入于一个社会世界之中。这意味着，我们通达历史远比通达自然直接：我们感到自己是历史的一部分，自然却日益与我们疏离。尽管狄尔泰仍愿意承认外经验的对象是现象，却不再接受康德“内经验内容同样是现象”的论题。内经验被重新构想为真实的体验（*Erlebnis*），而把我们与历史联结起来的时间，也不再只是康德就自然而阐明的那个观念形式。
+    step1: |-
+      在努力构造一种能够框定这第三条想象完成规律的*格式塔式*心理学时，狄尔泰修改了自己的若干基本假定。他认识到，个体的整体心理联系并不足以成为解释人类经验的语境框架。我们的经验只有被描述为随时间逐渐获得的一个连续体，才能得到理解。他所谓的“获得的心理联系”本身即历史地嵌入于一个社会世界之中。这意味着，我们通达历史比通达自然直接得多：我们感到自己是历史的一部分，而自然则日益与我们分离。虽然狄尔泰仍然愿意承认外经验的诸对象是现象，但他不再接受康德关于内经验内容同样是现象的论题。内经验被重新构想为真实的体验（*Erlebnis*），而把我们与历史关联起来的时间也不再只是康德为自然而阐明的那个观念形式。
+    step2: |-
+      在力求构造一种能够框定这第三条想象完成律的*格式塔式*心理学时，狄尔泰修正了自己的若干基本假定。他逐渐认识到：仅凭个体的整体心理联系，不足以构成解释人类经验的语境框架。我们的经验只有被描述为一个随时间逐渐获得的连续体，才能得到理解。他所谓“获得的心理联系”，本身即历史地嵌入于一个社会世界之中。这意味着，我们通达历史远比通达自然直接：我们感到自己是历史的一部分，自然却日益与我们疏离。尽管狄尔泰仍愿意承认外经验的对象是现象，却不再接受康德“内经验内容同样是现象”的论题。内经验被重新构想为真实的体验（*Erlebnis*），而把我们与历史联结起来的时间，也不再只是康德就自然而阐明的那个观念形式。
   - id: 9
     kind: body
     source: |-
       -
-    step1: -
-    step2: -
+    step1: |-
+      -
+    step2: |-
+      -
   - id: 10
     kind: body
     source: |-
       This second phase of Dilthey’s thought is characterized by a stress on the reality of lived experience and on the immediate understanding of human life that this makes possible. It is in the “Ideas for a Descriptive and Analytic Psychology” of 1894 that Dilthey works out his explanation-understanding distinction. “We explain through purely intellectual processes, but we understand through the cooperation of all the powers of the mind activated by apprehension” (1894/SW.II, 147). The human sciences will henceforth be conceived as primarily concerned with understanding the meaning of human action and interaction. Also central to this second phase of Dilthey’s thought is the essay “The Origin of Our Belief in the Reality of the External World and Its Justification” of 1890. Our initial access to the external world is not inferential, but is felt as resistance to the will. The world of lived experience is not merely a theoretical representation, but is directly present to us as embodying values that are relevant to our purposes. The stress on feeling and immediacy in this second phase amounts to a rejection of Hegel’s dialectical approach.
-    step1: 狄尔泰思想的这一第二阶段以强调体验的实在性以及由此变得可能的对人类生活的直接理解为特征。正是在 1894 年的《描述与分析心理学观念》中，狄尔泰形成了他的说明—理解区分。“我们通过纯智性的过程来说明，但理解则通过领会所激活的心灵全部力量的合作来进行”（1894/SW.II, 147）。从此以后，精神科学将被设想为主要关乎对人类行动与互动之意义的理解。对这一第二阶段同样核心的，是 1890 年的论文《我们对外部世界实在性的信念的起源及其证成》。我们对外部世界的最初通达不是推理性的，而是被感受为对意志的抵抗。体验的世界不只是一个理论表象，它直接当下在场，体现着与我们目的相关的价值。这一第二阶段对感受与直接性的强调，等于拒绝黑格尔的辩证进路。
-    step2: 狄尔泰思想第二阶段的特征，是强调体验的实在性，以及由此成为可能的对人类生活的直接理解。正是在 1894 年的《描述与分析心理学观念》里，狄尔泰形成了他的说明—理解之分：“说明凭借纯智性的过程；理解则依靠领会所激活的心灵全部力量的合作”（1894/SW.II, 147）。从此，精神科学将被设想为主要关乎人类行动与互动之意义的理解。对这一阶段同样核心的，是 1890 年的论文《我们对外部世界实在性的信念的起源及其证成》：我们对外部世界的最初通达并非推论，而是被感受为对意志的抵抗。体验的世界不只是一个理论表象，它直接当下在场，体现着与我们目的相关的价值。这一阶段对感受与直接性的强调，无异于对黑格尔辩证进路的拒绝。
+    step1: |-
+      狄尔泰思想的这一第二阶段以强调体验的实在性以及由此变得可能的对人类生活的直接理解为特征。正是在 1894 年的《描述与分析心理学观念》中，狄尔泰形成了他的说明—理解区分。“我们通过纯智性的过程来说明，但理解则通过领会所激活的心灵全部力量的合作来进行”（1894/SW.II, 147）。从此以后，精神科学将被设想为主要关乎对人类行动与互动之意义的理解。对这一第二阶段同样核心的，是 1890 年的论文《我们对外部世界实在性的信念的起源及其证成》。我们对外部世界的最初通达不是推理性的，而是被感受为对意志的抵抗。体验的世界不只是一个理论表象，它直接当下在场，体现着与我们目的相关的价值。这一第二阶段对感受与直接性的强调，等于拒绝黑格尔的辩证进路。
+    step2: |-
+      狄尔泰思想第二阶段的特征，是强调体验的实在性，以及由此成为可能的对人类生活的直接理解。正是在 1894 年的《描述与分析心理学观念》里，狄尔泰形成了他的说明—理解之分：“说明凭借纯智性的过程；理解则依靠领会所激活的心灵全部力量的合作”（1894/SW.II, 147）。从此，精神科学将被设想为主要关乎人类行动与互动之意义的理解。对这一阶段同样核心的，是 1890 年的论文《我们对外部世界实在性的信念的起源及其证成》：我们对外部世界的最初通达并非推论，而是被感受为对意志的抵抗。体验的世界不只是一个理论表象，它直接当下在场，体现着与我们目的相关的价值。这一阶段对感受与直接性的强调，无异于对黑格尔辩证进路的拒绝。
   - id: 11
     kind: body
     source: |-
       If the first phase was characterized by a search for inner explanations and the second phase by direct understanding, the third phase can be characterized by the need for interpretation. This final phase can be said to span the last decade of Dilthey’s life until his death in 1911. It begins with the realization in the essay “The Rise of Hermeneutics” of 1900 that the inner intelligibility of lived experience does not yet constitute full understanding. Self-understanding must also be mediated from without. The way we express ourselves, whether in communication or in action, is a crucial intermediary in defining ourselves. Understanding can only be reliable if it proceeds through the interpretation of human objectifications. Thus we properly understand ourselves not through introspection but through historical contextualization. It is in this last phase of his thought that Dilthey, who now occupied the chair that Hegel had once held in Berlin, revives his predecessor’s theory of objective spirit as the medium relating us to the past. In 1906 Dilthey published a seminal work on the young Hegel – *Die Jugendgeschichte Hegels* – that made use of recently discovered theological and political fragments. These unknown early fragments disclosed Hegel’s historical geniality before it became constrained by the dialectical systematization that Dilthey had always objected to. Dilthey’s student Herman Nohl was helpful in deciphering some of these fragments and went on to publish them. Nohl also edited a volume of Dilthey’s writings on the history of German Idealism going back to Kant, Beck and Fichte and leading up to such contemporaries of Hegel as Schelling, Schleiermacher, Schopenhauer and Fries.
-    step1: 如果说第一阶段以寻求内在说明为特征，第二阶段以直接理解为特征，那么第三阶段可以以解释的需要为特征。这最后的阶段可以说贯穿狄尔泰生命的最后十年，直至他 1911 年去世。它始于 1900 年的论文《诠释学的兴起》中所达到的认识：体验的内在可理解性尚不构成充分的理解。自我理解还必须从外部得到中介。我们表达自身的方式，无论在交流中还是在行动中，都是界定我们自身的关键中介。只有通过解释人的各种客观化，理解才能是可靠的。因此，我们恰当地理解自己，不是通过内省，而是通过历史语境化。正是在他思想的这最后阶段，此时已居黑格尔当年在柏林的教席的狄尔泰，复兴了他前任的客观精神理论，把客观精神作为把我们与过去关联起来的媒介。1906 年，狄尔泰出版了一部关于青年黑格尔的开创性著作《黑格尔的青年史》（*Die Jugendgeschichte Hegels*），利用了新近发现的神学与政治残篇。这些未知的早期残篇揭示了黑格尔的历史天才在受到辩证体系化约束之前的面貌，而那种体系化正是狄尔泰一贯反对的。狄尔泰的学生赫尔曼·诺尔（Herman Nohl）在解读其中一些残篇上出了力，并随后将其发表。诺尔还编了一部狄尔泰论德国观念论史的文集，上溯康德、贝克与费希特，下及黑格尔的同代人谢林、施莱尔马赫、叔本华与弗里斯。
-    step2: 如果说第一阶段以寻求内在说明为特征、第二阶段以直接理解为特征，第三阶段的特征便是对解释的需要。这最后阶段可以说覆盖狄尔泰生命的最后十年，直至 1911 年辞世。它始于 1900 年的论文《诠释学的兴起》所达到的一个认识：体验的内在可理解性尚不构成充分的理解，自我理解还须由外部来中介。我们表达自身的方式，无论是交流还是行动，正是界定我们自身的关键中介。唯有经过对人的诸客观化的解释，理解才可能可靠。因此我们恰当地理解自己，靠的不是内省，而是历史语境化。正是在这最后阶段，此时已执掌黑格尔当年在柏林之教席的狄尔泰，复兴了其前任的客观精神理论，把客观精神当作联结我们与过去的媒介。1906 年，狄尔泰出版了研究青年黑格尔的开创性著作《黑格尔的青年史》（*Die Jugendgeschichte Hegels*），利用了新近发现的神学与政治残篇。这些此前无人知晓的早期残篇，显示了黑格尔的历史天才在受到辩证体系化约束之前的面目，而那种体系化正是狄尔泰一贯反对的。狄尔泰的学生赫尔曼·诺尔（Herman Nohl）参与解读了其中一些残篇并进而将其刊布；他还编成一部狄尔泰论德国观念论史的文集，上起康德、贝克与费希特，下至黑格尔的同代人谢林、施莱尔马赫、叔本华与弗里斯。
+    step1: |-
+      如果说第一阶段以寻求内在说明为特征，第二阶段以直接理解为特征，那么第三阶段可以以解释的需要为特征。这最后的阶段可以说贯穿狄尔泰生命的最后十年，直至他 1911 年去世。它始于 1900 年的论文《诠释学的兴起》中所达到的认识：体验的内在可理解性尚不构成充分的理解。自我理解还必须从外部得到中介。我们表达自身的方式，无论在交流中还是在行动中，都是界定我们自身的关键中介。只有通过解释人的各种客观化，理解才能是可靠的。因此，我们恰当地理解自己，不是通过内省，而是通过历史语境化。正是在他思想的这最后阶段，此时已居黑格尔当年在柏林的教席的狄尔泰，复兴了他前任的客观精神理论，把客观精神作为把我们与过去关联起来的媒介。1906 年，狄尔泰出版了一部关于青年黑格尔的开创性著作《黑格尔的青年史》（*Die Jugendgeschichte Hegels*），利用了新近发现的神学与政治残篇。这些未知的早期残篇揭示了黑格尔的历史天才在受到辩证体系化约束之前的面貌，而那种体系化正是狄尔泰一贯反对的。狄尔泰的学生赫尔曼·诺尔（Herman Nohl）在解读其中一些残篇上出了力，并随后将其发表。诺尔还编了一部狄尔泰论德国观念论史的文集，上溯康德、贝克与费希特，下及黑格尔的同代人谢林、施莱尔马赫、叔本华与弗里斯。
+    step2: |-
+      如果说第一阶段以寻求内在说明为特征、第二阶段以直接理解为特征，第三阶段的特征便是对解释的需要。这最后阶段可以说覆盖狄尔泰生命的最后十年，直至 1911 年辞世。它始于 1900 年的论文《诠释学的兴起》所达到的一个认识：体验的内在可理解性尚不构成充分的理解，自我理解还须由外部来中介。我们表达自身的方式，无论是交流还是行动，正是界定我们自身的关键中介。唯有经过对人的诸客观化的解释，理解才可能可靠。因此我们恰当地理解自己，靠的不是内省，而是历史语境化。正是在这最后阶段，此时已执掌黑格尔当年在柏林之教席的狄尔泰，复兴了其前任的客观精神理论，把客观精神当作联结我们与过去的媒介。1906 年，狄尔泰出版了研究青年黑格尔的开创性著作《黑格尔的青年史》（*Die Jugendgeschichte Hegels*），利用了新近发现的神学与政治残篇。这些此前无人知晓的早期残篇，显示了黑格尔的历史天才在受到辩证体系化约束之前的面目，而那种体系化正是狄尔泰一贯反对的。狄尔泰的学生赫尔曼·诺尔（Herman Nohl）参与解读了其中一些残篇并进而将其刊布；他还编成一部狄尔泰论德国观念论史的文集，上起康德、贝克与费希特，下至黑格尔的同代人谢林、施莱尔马赫、叔本华与弗里斯。
   - id: 12
     kind: body
     source: |-
       ### 1.2 The Religious Background of Dilthey’s Philosophy
-    step1: ### 1.2 狄尔泰哲学的宗教背景
-    step2: ### 1.2 狄尔泰哲学的宗教背景
+    step1: |-
+      ### 1.2 狄尔泰哲学的宗教背景
+    step2: |-
+      ### 1.2 狄尔泰哲学的宗教背景
   - id: 13
     kind: body
     source: |-
       Dilthey followed family tradition by starting his university studies at Heidelberg in theology. There he was also introduced to the philosophical systems of the idealists by Kuno Fischer. Because Fischer was accused of being a pantheist, his right to teach was withdrawn in 1853. Dilthey then moved to the University of Berlin, where he came under the influence of two of Friedrich Schleiermacher’s students, Friedrich Adolf Trendelenburg and August Boeckh. Increasingly, Schleiermacher became the focus of Dilthey’s interests. In 1859 he was asked to complete the editing of Schleiermacher’s letters. That year the Schleiermacher Society also organized an essay competition. Dilthey’s submission entitled “Schleiermacher’s Hermeneutical System in Relation to Earlier Protestant Hermeneutics” (1860, SW.IV, 33–227), was awarded the first prize and led to a second commission, namely, to write Schleiermacher’s biography. The first volume of this biography was published in 1870. It places Schleiermacher not only in his theological setting but also in the context of the literary and philosophical movements astir in Berlin from 1796 to 1807. The work displays Dilthey’s own expanding interests in aesthetical and philosophical issues. He also wrote his dissertation on Schleiermacher’s ethics.
-    step1: 狄尔泰遵循家族传统，在海德堡大学以神学开始大学学业。在那里，库诺·费舍还向他介绍了观念论者们的哲学体系。由于费舍被指控为泛神论者，他于 1853 年被撤销任教权。狄尔泰于是转到柏林大学，在那里受到施莱尔马赫的两位学生（弗里德里希·阿道夫·特伦德伦堡与奥古斯特·伯克）的影响。施莱尔马赫日益成为狄尔泰兴趣的焦点。1859 年，他被邀完成施莱尔马赫书信的编辑工作。同年，施莱尔马赫学会还组织了一次征文比赛。狄尔泰的应征论文《施莱尔马赫的诠释学系统及其与早期新教诠释学的关系》（1860, SW.IV, 33–227）获得头奖，并由此获得第二项委托，即撰写施莱尔马赫的传记。这部传记的第一卷于 1870 年出版。它不仅把施莱尔马赫置于其神学语境之中，也把他置于 1796 至 1807 年间柏林涌动的文学与哲学运动的语境之中。这部著作显示出狄尔泰本人对美学与哲学问题不断扩展的兴趣。他还以施莱尔马赫的伦理学为题撰写了自己的博士论文。
-    step2: 狄尔泰循家族传统，在海德堡大学以神学开始大学学业，并在那里经由库诺·费舍（Kuno Fischer）接触到观念论者的诸哲学体系。费舍因被指控持泛神论，1853 年被撤销任教权；狄尔泰遂转往柏林大学，受施莱尔马赫的两位学生（弗里德里希·阿道夫·特伦德伦堡与奥古斯特·伯克）的影响。施莱尔马赫日益成为他兴趣的焦点：1859 年，他受邀续成施莱尔马赫书信的编辑；同年，施莱尔马赫学会组织征文，狄尔泰的应征论文《施莱尔马赫的诠释学系统及其与早期新教诠释学的关系》（1860, SW.IV, 33–227）获头奖，并由此受托撰写施莱尔马赫传记，其第一卷于 1870 年出版。这部传记不仅把施莱尔马赫置于其神学语境之中，也把他置于 1796 至 1807 年间柏林涌动的文学与哲学思潮之中；它显示出狄尔泰本人对美学与哲学问题日益扩展的兴趣。他的博士论文则以施莱尔马赫的伦理学为题。
+    step1: |-
+      狄尔泰遵循家族传统，在海德堡大学以神学开始大学学业。在那里，库诺·费舍还向他介绍了观念论者们的哲学体系。由于费舍被指控为泛神论者，他于 1853 年被撤销任教权。狄尔泰于是转到柏林大学，在那里受到施莱尔马赫的两位学生（弗里德里希·阿道夫·特伦德伦堡与奥古斯特·伯克）的影响。施莱尔马赫日益成为狄尔泰兴趣的焦点。1859 年，他被邀完成施莱尔马赫书信的编辑工作。同年，施莱尔马赫学会还组织了一次征文比赛。狄尔泰的应征论文《施莱尔马赫的诠释学系统及其与早期新教诠释学的关系》（1860, SW.IV, 33–227）获得头奖，并由此获得第二项委托，即撰写施莱尔马赫的传记。这部传记的第一卷于 1870 年出版。它不仅把施莱尔马赫置于其神学语境之中，也把他置于 1796 至 1807 年间柏林涌动的文学与哲学运动的语境之中。这部著作显示出狄尔泰本人对美学与哲学问题不断扩展的兴趣。他还以施莱尔马赫的伦理学为题撰写了自己的博士论文。
+    step2: |-
+      狄尔泰循家族传统，在海德堡大学以神学开始大学学业，并在那里经由库诺·费舍（Kuno Fischer）接触到观念论者的诸哲学体系。费舍因被指控持泛神论，1853 年被撤销任教权；狄尔泰遂转往柏林大学，受施莱尔马赫的两位学生（弗里德里希·阿道夫·特伦德伦堡与奥古斯特·伯克）的影响。施莱尔马赫日益成为他兴趣的焦点：1859 年，他受邀续成施莱尔马赫书信的编辑；同年，施莱尔马赫学会组织征文，狄尔泰的应征论文《施莱尔马赫的诠释学系统及其与早期新教诠释学的关系》（1860, SW.IV, 33–227）获头奖，并由此受托撰写施莱尔马赫传记，其第一卷于 1870 年出版。这部传记不仅把施莱尔马赫置于其神学语境之中，也把他置于 1796 至 1807 年间柏林涌动的文学与哲学思潮之中；它显示出狄尔泰本人对美学与哲学问题日益扩展的兴趣。他的博士论文则以施莱尔马赫的伦理学为题。
   - id: 14
     kind: body
     source: |-
       As a theology student, Dilthey had begun a study of many early formulations of the Christian worldview, which though never completed, continued to influence his subsequent writings. In 1860 Dilthey writes that
-    step1: 作为神学学生，狄尔泰已开始研究基督教世界观的许多早期表述；这项研究虽未完成，却持续影响他后来的写作。1860 年狄尔泰写道：
-    step2: 早在神学求学时期，狄尔泰就开始研究基督教世界观的种种早期表述；这项研究虽未完成，却持续影响着他此后的写作。1860 年他写道：
+    step1: |-
+      作为神学学生，狄尔泰已开始研究基督教世界观的许多早期表述；这项研究虽未完成，却持续影响他后来的写作。1860 年狄尔泰写道：
+    step2: |-
+      早在神学求学时期，狄尔泰就开始研究基督教世界观的种种早期表述；这项研究虽未完成，却持续影响着他此后的写作。1860 年他写道：
   - id: 15
     kind: body
     source: |-
       > it is my calling to apprehend the innermost nature of religious life in history and to bring this to the attention of our times which are moved exclusively by matters of state and science. (JD, 140)
-    step1: > 在历史中领会宗教生活的最内在本性，并将其提请一个唯独为国家事务与科学所动的时代注意，是我的天职。（JD, 140）
-    step2: > 在历史中领会宗教生活的最内在本性，并把它提请我们这个唯独为国家与科学之事所动的时代注意，是我的天职。（JD, 140）
+    step1: |-
+      > 在历史中领会宗教生活的最内在本性，并将其提请一个唯独为国家事务与科学所动的时代注意，是我的天职。（JD, 140）
+    step2: |-
+      > 在历史中领会宗教生活的最内在本性，并把它提请我们这个唯独为国家与科学之事所动的时代注意，是我的天职。（JD, 140）
   - id: 16
     kind: body
     source: |-
       This means looking for religiosity not so much in its institutional practices and its theological doctrines as in the recesses of human experience. In a similar vein, he asserts that it is necessary to recover the “religious-philosophical worldview that is buried under the ruins of our theology and philosophy” (JD, 140).
-    step1: 这意味着，与其到宗教的制度性实践和神教学说中寻找宗教性，不如到人类经验的幽深处去寻找。以类似的口吻，他断言有必要恢复“被埋葬在我们神学与哲学废墟之下的宗教哲学世界观”（JD, 140）。
-    step2: 这意味着，寻找宗教性，与其着眼于它的制度实践与神教学说，不如深入人类经验的幽微处。他以同样的口吻主张，必须找回“被埋在我们神学与哲学废墟之下的宗教哲学世界观”（JD, 140）。
+    step1: |-
+      这意味着，与其到宗教的制度性实践和神教学说中寻找宗教性，不如到人类经验的幽深处去寻找。以类似的口吻，他断言有必要恢复“被埋葬在我们神学与哲学废墟之下的宗教哲学世界观”（JD, 140）。
+    step2: |-
+      这意味着，寻找宗教性，与其着眼于它的制度实践与神教学说，不如深入人类经验的幽微处。他以同样的口吻主张，必须找回“被埋在我们神学与哲学废墟之下的宗教哲学世界观”（JD, 140）。
   - id: 17
     kind: body
     source: |-
       Dilthey conceives religious experience as an extension of Schleiermacher’s feeling of absolute dependence. It is a total experience that interweaves a feeling of dependence with an awareness of a capacity to uplift ourselves. Religious experience is regarded as an enduring background and accompaniment of human intellectual life. Religion has manifested itself in many forms such as mythical representations, mystical ideas of revelation and human redemption, theological doctrines, and metaphysical theories. Because of its emphasis on meteorological events (1883/ SW I, 450), Dilthey saw myth as a primitive scientific theory that compromised the genuine religiosity of mystical feelings.
-    step1: 狄尔泰把宗教经验设想为施莱尔马赫的绝对依赖感的延伸。它是一种把依赖感与我们自我提升能力的意识交织在一起的整体经验。宗教经验被视为人类智识生活持存的背景与伴随。宗教已以多种形式显现自身，如神话表象、关于启示与人类救赎的神秘观念、神教学说与形而上学理论。由于神话强调气象事件（1883/SW I, 450），狄尔泰视神话为一种原始的科学理论，它损害了神秘主义情感的真正宗教性。
-    step2: 狄尔泰把宗教经验设想为施莱尔马赫“绝对依赖感”的延伸：那是一种把依赖感与自我提升之能力的意识交织在一起的整体经验。宗教经验被视为人类智识生活持存的背景与伴随。宗教已然显现为多种形式：神话表象、关于启示与人类救赎的神秘观念、神教学说、形而上学理论。神话偏重气象事件（1883/SW I, 450），故狄尔泰视之为一种原始的科学理论，认为它有损于神秘情感中真正的宗教性。
+    step1: |-
+      狄尔泰把宗教经验设想为施莱尔马赫的绝对依赖感的延伸。它是一种把依赖感与我们自我提升能力的意识交织在一起的整体经验。宗教经验被视为人类智识生活持存的背景与伴随。宗教已以多种形式显现自身，如神话表象、关于启示与人类救赎的神秘观念、神教学说与形而上学理论。由于神话强调气象事件（1883/SW I, 450），狄尔泰视神话为一种原始的科学理论，它损害了神秘主义情感的真正宗教性。
+    step2: |-
+      狄尔泰把宗教经验设想为施莱尔马赫“绝对依赖感”的延伸：那是一种把依赖感与自我提升之能力的意识交织在一起的整体经验。宗教经验被视为人类智识生活持存的背景与伴随。宗教已然显现为多种形式：神话表象、关于启示与人类救赎的神秘观念、神教学说、形而上学理论。神话偏重气象事件（1883/SW I, 450），故狄尔泰视之为一种原始的科学理论，认为它有损于神秘情感中真正的宗教性。
   - id: 18
     kind: body
     source: |-
       Later as he reflected on the nature of worldviews, Dilthey would occasionally return to the problem of religion. What distinguishes the religious worldview from artistic and philosophical worldviews is that it relates the visible to what is invisible, life to our awareness of death. In a striking late passage, Dilthey writes that when life is experienced religiously and
-    step1: 后来，当他反思世界观的本质时，狄尔泰会偶尔回到宗教问题。把宗教世界观与艺术世界观、哲学世界观区分开来的，是它把可见者与不可见者关联起来，把生命与我们关于死亡的意识关联起来。狄尔泰在一段引人注目的晚期文字中写道，当生命被宗教地经验并
-    step2: 后来，在反思世界观之本质时，狄尔泰偶尔会回到宗教问题。宗教世界观区别于艺术世界观与哲学世界观之处在于：它把可见者与不可见者、把生命与我们关于死亡的意识关联起来。在一段引人注目的晚期文字里，狄尔泰写道，当生命被宗教地经验，并且
+    step1: |-
+      后来，当他反思世界观的本质时，狄尔泰会偶尔回到宗教问题。把宗教世界观与艺术世界观、哲学世界观区分开来的，是它把可见者与不可见者关联起来，把生命与我们关于死亡的意识关联起来。狄尔泰在一段引人注目的晚期文字中写道，当生命被宗教地经验并
+    step2: |-
+      后来，在反思世界观之本质时，狄尔泰偶尔会回到宗教问题。宗教世界观区别于艺术世界观与哲学世界观之处在于：它把可见者与不可见者、把生命与我们关于死亡的意识关联起来。在一段引人注目的晚期文字里，狄尔泰写道，当生命被宗教地经验，并且
   - id: 19
     kind: body
     source: |-
       > according to its true nature—full of hardships and a singular blend of suffering and happiness throughout—<we are> pointed to something strange and unfamiliar, as if it were coming from invisible sources, something <pressing in> on life from outside, yet coming from its own depths. (ca. 1910/SW.III, 285)
-    step1: > 按其真实本性——充满艰辛，自始至终是苦难与幸福的奇异混合——〈我们〉被指向某种奇异而陌生之物，仿佛它来自不可见的源头；某种从外部〈挤入〉生命之物，然而又发自生命自身的深处。（ca. 1910/SW.III, 285）
-    step2: > 按其真实本性——充满艰辛，苦难与幸福奇异交织，贯穿始终——〈我们〉被指向某种奇异而陌生之物，仿佛来自不可见的源头；某种从外部〈逼入〉生命的东西，然而又出自生命自身的深处。（ca. 1910/SW.III, 285）
+    step1: |-
+      > 按其真实本性——充满艰辛，自始至终是苦难与幸福的奇异混合——〈我们〉被指向某种奇异而陌生之物，仿佛它来自不可见的源头；某种从外部〈挤入〉生命之物，然而又发自生命自身的深处。（ca. 1910/SW.III, 285）
+    step2: |-
+      > 按其真实本性——充满艰辛，苦难与幸福奇异交织，贯穿始终——〈我们〉被指向某种奇异而陌生之物，仿佛来自不可见的源头；某种从外部〈逼入〉生命的东西，然而又出自生命自身的深处。（ca. 1910/SW.III, 285）
   - id: 20
     kind: body
     source: |-
       The same non-transcendent perspective on religion is to be found in Dilthey’s last essay, written during the final days of his life in 1911 while he was on vacation in the Dolomites. This essay on “The Problem of Religion” points to the fact that the Enlightenment has made it increasingly difficult to acknowledge the mystical aspects of religious experience. Enlightenment thinkers regarded mystical experience as irrational. But according to Dilthey, Schleiermacher was able to avoid this charge of irrationalism by relating core aspects of religious experience to the insights of transcendental philosophy. Instead of interpreting the mystical feeling of communion as an esoteric union with a transcendent God, Schleiermacher explicates it as a general awareness that is attuned to the invisible coherence of things down here (1911/SW.VI,304–05). He gives a transcendental reading of what is intuited and felt in the religious mood by transforming it into a creative life-principle. Whereas traditionally mysticism tended to devalue our life in this world, Schleiermacher’s mysticism is seen as affirming it.
-    step1: 在狄尔泰的最后一篇文章中，也可以发现同样的对宗教的非超越视角；该文写于 1911 年他生命的最后几天，其时他在多洛米蒂山脉度假。这篇论“宗教问题”的文章指出，启蒙运动已使承认宗教经验的神秘面向变得日益困难。启蒙思想家把神秘经验视为非理性的。但据狄尔泰的看法，施莱尔马赫能够避免这一非理性主义的指责，因为他把宗教经验的核心方面与先验哲学的洞见关联起来。施莱尔马赫没有把神秘的灵交之感解释为与一个超越上帝的隐秘合一，而是把它阐明为一种一般性的觉察，这种觉察与此岸事物的不可见连贯相调谐（1911/SW.VI,304–05）。他通过把宗教情绪中被直观、被感受的东西转变为一个创造性的生命原则，而给予它一种先验的解读。传统上的神秘主义倾向于贬低我们在此世的生活，施莱尔马赫的神秘主义则被看作对它的肯定。
-    step2: 同样这种非超越的宗教视角，也见于狄尔泰的最后一篇文章；该文写于 1911 年他生命的最后几天，时值他在多洛米蒂山脉度假。这篇论《宗教问题》的文章指出：启蒙运动已使承认宗教经验的神秘面向变得日益困难。启蒙思想家视神秘经验为非理性；而在狄尔泰看来，施莱尔马赫之所以能免于这一非理性主义之责，在于他把宗教经验的核心方面与先验哲学的洞见关联起来。施莱尔马赫没有把神秘的灵交之感解释为与一个超越上帝的隐秘合一，而是把它阐明为一种普遍觉察，它与此岸事物之不可见的连贯相调谐（1911/SW.VI,304–05）。他把宗教情绪中被直观、被感受的东西转化为一个创造性的生命原则，从而给出一种先验解读。传统神秘主义倾向于贬低我们在此世的生活，施莱尔马赫的神秘主义则被看作对它的肯定。
+    step1: |-
+      在狄尔泰的最后一篇文章中，也可以发现同样的对宗教的非超越视角；该文写于 1911 年他生命的最后几天，其时他在多洛米蒂山脉度假。这篇论“宗教问题”的文章指出，启蒙运动已使承认宗教经验的神秘面向变得日益困难。启蒙思想家把神秘经验视为非理性的。但据狄尔泰的看法，施莱尔马赫能够避免这一非理性主义的指责，因为他把宗教经验的核心方面与先验哲学的洞见关联起来。施莱尔马赫没有把神秘的灵交之感解释为与一个超越上帝的隐秘合一，而是把它阐明为一种一般性的觉察，这种觉察与此岸事物的不可见连贯相调谐（1911/SW.VI,304–05）。他通过把宗教情绪中被直观、被感受的东西转变为一个创造性的生命原则，而给予它一种先验的解读。传统上的神秘主义倾向于贬低我们在此世的生活，施莱尔马赫的神秘主义则被看作对它的肯定。
+    step2: |-
+      同样这种非超越的宗教视角，也见于狄尔泰的最后一篇文章；该文写于 1911 年他生命的最后几天，时值他在多洛米蒂山脉度假。这篇论《宗教问题》的文章指出：启蒙运动已使承认宗教经验的神秘面向变得日益困难。启蒙思想家视神秘经验为非理性；而在狄尔泰看来，施莱尔马赫之所以能免于这一非理性主义之责，在于他把宗教经验的核心方面与先验哲学的洞见关联起来。施莱尔马赫没有把神秘的灵交之感解释为与一个超越上帝的隐秘合一，而是把它阐明为一种普遍觉察，它与此岸事物之不可见的连贯相调谐（1911/SW.VI,304–05）。他把宗教情绪中被直观、被感受的东西转化为一个创造性的生命原则，从而给出一种先验解读。传统神秘主义倾向于贬低我们在此世的生活，施莱尔马赫的神秘主义则被看作对它的肯定。
   - id: 21
     kind: body
     source: |-
       ## 2. Dilthey’s Main Philosophical Works
-    step1: ## 2. 狄尔泰的主要哲学著作
-    step2: ## 2. 狄尔泰的主要哲学著作
+    step1: |-
+      ## 2. 狄尔泰的主要哲学著作
+    step2: |-
+      ## 2. 狄尔泰的主要哲学著作
   - id: 22
     kind: body
     source: |-
       ### 2.1 The 1880s: Broadening the Critical Framework
-    step1: ### 2.1 1880 年代：拓宽批判框架
-    step2: ### 2.1 1880 年代：拓宽批判框架
+    step1: |-
+      ### 2.1 1880 年代：拓宽批判框架
+    step2: |-
+      ### 2.1 1880 年代：拓宽批判框架
   - id: 23
     kind: body
     source: |-
       Dilthey’s first major theoretical work is the *Introduction to the Human Sciences* of 1883. The human sciences (*Geisteswissenschaften*) encompass both the humanities and the social sciences. They range from disciplines like philology, literary and cultural studies, religion and psychology, to political science and economics. Dilthey insists that the human sciences be related not by some logical construct on the order of August Comte or J.S. Mill, but by means of reflective considerations that take their historical genesis into account. Dilthey writes that
-    step1: 狄尔泰第一部主要理论著作是 1883 年的《精神科学引论》（*Introduction to the Human Sciences*）。精神科学（*Geisteswissenschaften*）既包括人文学科，也包括社会科学，从语文学、文学与文化研究、宗教学与心理学，一直到政治学与经济学。狄尔泰坚持认为，精神科学之间的关联不应像奥古斯特·孔德或 J.S. 密尔那样依靠某种逻辑构造，而应通过考虑其历史发生的反思性思考来建立。狄尔泰写道：
-    step2: 狄尔泰第一部主要理论著作，是 1883 年的《精神科学引论》（*Introduction to the Human Sciences*）。精神科学（*Geisteswissenschaften*）兼括人文学科与社会科学，下起语文学、文学与文化研究、宗教学与心理学，上至政治学与经济学。狄尔泰坚持：精神科学之间不靠奥古斯特·孔德或 J.S. 密尔式的那种逻辑构造来关联，而要借助于把各学科的历史发生考虑在内的反思性思考。狄尔泰写道：
+    step1: |-
+      狄尔泰第一部主要理论著作是 1883 年的《精神科学引论》（*Introduction to the Human Sciences*）。精神科学（*Geisteswissenschaften*）既包括人文学科，也包括社会科学，从语文学、文学与文化研究、宗教学与心理学，一直到政治学与经济学。狄尔泰坚持认为，精神科学之间的关联不应像奥古斯特·孔德或 J.S. 密尔那样依靠某种逻辑构造，而应通过考虑其历史发生的反思性思考来建立。狄尔泰写道：
+    step2: |-
+      狄尔泰第一部主要理论著作，是 1883 年的《精神科学引论》（*Introduction to the Human Sciences*）。精神科学（*Geisteswissenschaften*）兼括人文学科与社会科学，下起语文学、文学与文化研究、宗教学与心理学，上至政治学与经济学。狄尔泰坚持：精神科学之间不靠奥古斯特·孔德或 J.S. 密尔式的那种逻辑构造来关联，而要借助于把各学科的历史发生考虑在内的反思性思考。狄尔泰写道：
   - id: 24
     kind: body
     source: |-
       > the human sciences as they exist and as they are practiced according to the reason of things that were active in their history … contain three classes of assertions. (1883/SW.I, 78)
-    step1: > 精神科学，就其存在而言，就其依照在其历史中起作用的诸事情之理而在其中施行实践而言……包含三类论断。（1883/SW.I, 78）
-    step2: > 精神科学，就其现存的形态、就其依循其历史中起作用的诸事情之理而被践行而言……包含三类论断。（1883/SW.I, 78）
+    step1: |-
+      > 精神科学，就其存在而言，就其依照在其历史中起作用的诸事情之理而在其中施行实践而言……包含三类论断。（1883/SW.I, 78）
+    step2: |-
+      > 精神科学，就其现存的形态、就其依循其历史中起作用的诸事情之理而被践行而言……包含三类论断。（1883/SW.I, 78）
   - id: 25
     kind: body
     source: |-
       These are 1) descriptive and historical statements, 2) theoretical generalizations about partial contents and 3) evaluative judgments and practical rules. The human sciences are more obviously normative in nature than the natural sciences for which formal norms related to objective inquiry suffice. The fact that the human sciences are forced to confront substantive normative issues puts a limit on the kind of theoretical regularities that can be established in the human sciences. Given the core role that human beings play in the socio-historical world, the understanding of individuality is as important in the human sciences as are the explanations to be found through generalizations.
-    step1: 这三类是：1) 描述性与历史性的陈述，2) 关于部分内容的理论概括，3) 评价性判断与实践规则。精神科学在本性上比自然科学更明显是规范性的；对自然科学而言，与客观探究相关的形式规范就已足够。精神科学被迫直面实质性规范问题，这一事实限制了能在其中建立的那些理论规律性的种类。鉴于人类在社会—历史世界中所扮演的核心角色，对个体性的理解在精神科学中与通过概括找到的说明同样重要。
-    step2: 三类分别是：1) 描述性与历史性陈述；2) 关于部分内容的理论概括；3) 评价性判断与实践规则。精神科学在本性上比自然科学更明显地带有规范性：自然科学只需与客观探究相关的形式规范即可。精神科学不得不直面实质性的规范问题，这一事实限制了能在其中确立的理论规律性的种类。鉴于人在社会—历史世界中占据核心位置，对个体性的理解在精神科学中的重要性，不亚于经由概括获得的说明。
+    step1: |-
+      这三类是：1) 描述性与历史性的陈述，2) 关于部分内容的理论概括，3) 评价性判断与实践规则。精神科学在本性上比自然科学更明显是规范性的；对自然科学而言，与客观探究相关的形式规范就已足够。精神科学被迫直面实质性规范问题，这一事实限制了能在其中建立的那些理论规律性的种类。鉴于人类在社会—历史世界中所扮演的核心角色，对个体性的理解在精神科学中与通过概括找到的说明同样重要。
+    step2: |-
+      三类分别是：1) 描述性与历史性陈述；2) 关于部分内容的理论概括；3) 评价性判断与实践规则。精神科学在本性上比自然科学更明显地带有规范性：自然科学只需与客观探究相关的形式规范即可。精神科学不得不直面实质性的规范问题，这一事实限制了能在其中确立的理论规律性的种类。鉴于人在社会—历史世界中占据核心位置，对个体性的理解在精神科学中的重要性，不亚于经由概括获得的说明。
   - id: 26
     kind: body
     source: |-
       But the human science of psychology that deals with individual human beings cannot examine them apart from interactions with society. “Man as a fact prior to history and society is a fiction” (1883/SW.I, 83). This means that psychology can be a foundational human science only if it is conceived as being primarily descriptive. Psychological explanations may still be possible, but only by starting with a non-hypothetical base that describes how our experience assimilates social and cultural features. Many human character traits are not purely psychological. Thus when we speak of a person as thrifty we are combining economic and psychological features.
-    step1: 但是，处理个体人的精神科学即心理学，不能脱离与社会的交互来考察他们。“作为先于历史与社会之事实的人是一种虚构”（1883/SW.I, 83）。这意味着，心理学只有被设想为本质上是描述性的，才能成为一门奠基性的精神科学。心理学的说明仍有可能，但只能从描述我们的经验如何吸纳社会与文化特征的非假设性基地出发。人的许多性格特质并非纯心理的。因此，当我们说一个人节俭时，我们是在把经济特征与心理特征结合起来。
-    step2: 然而，以个体人为对象的精神科学（心理学）无法脱开其与社会的交互来考察他们。“作为先于历史与社会之事实的人是一种虚构”（1883/SW.I, 83）。这意味着，心理学唯有被设想为以描述为主，方能充当奠基性的精神科学。心理学的说明仍属可能，但必须从一块非假设性的基地出发：描述我们的经验如何吸纳社会与文化特征。人的许多性格特质并非纯然心理的：说一个人节俭，已是把经济与心理两方面的特征合在一起说。
+    step1: |-
+      但是，处理个体人的精神科学即心理学，不能脱离与社会的交互来考察他们。“作为先于历史与社会之事实的人是一种虚构”（1883/SW.I, 83）。这意味着，心理学只有被设想为本质上是描述性的，才能成为一门奠基性的精神科学。心理学的说明仍有可能，但只能从描述我们的经验如何吸纳社会与文化特征的非假设性基地出发。人的许多性格特质并非纯心理的。因此，当我们说一个人节俭时，我们是在把经济特征与心理特征结合起来。
+    step2: |-
+      然而，以个体人为对象的精神科学（心理学）无法脱开其与社会的交互来考察他们。“作为先于历史与社会之事实的人是一种虚构”（1883/SW.I, 83）。这意味着，心理学唯有被设想为以描述为主，方能充当奠基性的精神科学。心理学的说明仍属可能，但必须从一块非假设性的基地出发：描述我们的经验如何吸纳社会与文化特征。人的许多性格特质并非纯然心理的：说一个人节俭，已是把经济与心理两方面的特征合在一起说。
   - id: 27
     kind: body
     source: |-
       Individual human beings are important for the understanding of history, but instead of making them the monadic building blocks of history, they are to be considered as points of intersection of many forces. Only a multidisciplinary approach to human history can do it justice. *Qua* conscious living beings, individuals are the carriers of history, but they are just as much the products of history. Individuals are not self-sufficient atoms. But neither are they to be regarded as swallowed up by encompassing communities like nations or peoples. Concepts that posit the soul of a people “are no more usable in history than is the concept of life-force in physiology” (1883/SW.I, 92). Suspicion of those who posit overriding self-sufficient entities like nations and peoples led Dilthey to distance himself from the nationalism of his contemporary Heinrich von Treitschke and to ally himself with a political reformism reminiscent of Kant and Wilhelm von Humboldt.
-    step1: 个体的人对理解历史很重要，但不应当把他们当作历史的单体式积木，而应把他们视为诸多力量的交汇点。只有多学科地研究人类历史才能公正对待它。*Qua* 有意识的活的存在者，个体是历史的承担者，但他们同样是历史的产物。个体不是自足的原子，但也不应被看作被民族或人民这类包容性共同体所吞没。设定“民族灵魂”的概念“在历史中毫无用处，正如生理学中的生命力概念一样”（1883/SW.I, 92）。对那些设定民族、人民这类凌驾一切的自足实体者的怀疑，使狄尔泰与同代人海因里希·冯·特赖奇克的民族主义保持距离，而亲近一种令人想起康德与威廉·冯·洪堡的政治改良主义。
-    step2: 个体对理解历史固然重要，但不应把他们铸成历史的单体式积木，而应视之为诸股力量的交汇点；唯有以多学科的进路研究人类历史，方能不负于它。*Qua* 有意识的活的存在者，个体是历史的承担者，却同样是历史的产物。个体不是自足的原子，但也不应被看作被民族或人民这类包容性共同体吞没。设定“民族灵魂”之类的概念，“在历史上之无用，一如生理学中的生命力概念”（1883/SW.I, 92）。正是对这类凌驾一切的自足实体（民族、人民）之设定者的怀疑，使狄尔泰同其同代人海因里希·冯·特赖奇克的民族主义拉开距离，转而亲近一种令人想起康德与威廉·冯·洪堡的政治改良主义。
+    step1: |-
+      个体的人对理解历史很重要，但不应当把他们当作历史的单体式积木，而应把他们视为诸多力量的交汇点。只有多学科地研究人类历史才能公正对待它。*Qua* 有意识的活的存在者，个体是历史的承担者，但他们同样是历史的产物。个体不是自足的原子，但也不应被看作被民族或人民这类包容性共同体所吞没。设定“民族灵魂”的概念“在历史中毫无用处，正如生理学中的生命力概念一样”（1883/SW.I, 92）。对那些设定民族、人民这类凌驾一切的自足实体者的怀疑，使狄尔泰与同代人海因里希·冯·特赖奇克的民族主义保持距离，而亲近一种令人想起康德与威廉·冯·洪堡的政治改良主义。
+    step2: |-
+      个体对理解历史固然重要，但不应把他们铸成历史的单体式积木，而应视之为诸股力量的交汇点；唯有以多学科的进路研究人类历史，方能不负于它。*Qua* 有意识的活的存在者，个体是历史的承担者，却同样是历史的产物。个体不是自足的原子，但也不应被看作被民族或人民这类包容性共同体吞没。设定“民族灵魂”之类的概念，“在历史上之无用，一如生理学中的生命力概念”（1883/SW.I, 92）。正是对这类凌驾一切的自足实体（民族、人民）之设定者的怀疑，使狄尔泰同其同代人海因里希·冯·特赖奇克的民族主义拉开距离，转而亲近一种令人想起康德与威廉·冯·洪堡的政治改良主义。
   - id: 28
     kind: body
     source: |-
       Dilthey conceives of most of the human sciences as analyzing human interactions at a level that can mediate between individual initiative and communal tradition. These sciences deal with what he calls “cultural systems” and “external organizations of society”. Cultural systems are associations that individuals join voluntarily for certain purposes that they can only achieve through cooperation. These systems are cultural in the widest possible sense and include all aspects of our social life. They can be political, economic, artistic, scientific or religious in nature and are not normally bound by national or other overarching interests. External organizations of society by contrast are those more controlling institutional structures like a family and a state that we are born into. Here “enduring causes bind the wills of many into a single whole” (1883/SW.I, 94) within which relations of power, dependence and property can be established. It is important to cross-reference cultural systems and institutional organizations. Enlightenment thinkers had focused on cultural systems such as scientific academies and their potential universal scope while overlooking how most educational institutions are controlled by local authorities. Although Dilthey received his training from members of the Historical School, he recognized that many of them had been equally one-sided by stressing the distinctive institutional organizations that separate different peoples while ignoring the role of generalizations made possible through the analysis of cultural systems.
-    step1: 狄尔泰把大部分精神科学设想为在能够中介个体主动性与共同体传统之间那个层面上分析人类交互。这些科学处理他所谓的“文化系统”与“社会的外部组织”。文化系统是个体为某些只有通过合作才能达到的目的而自愿加入的联合体。这些系统在最广的意义上是文化的，涵盖我们社会生活的一切方面。它们在性质上可以是政治的、经济的、艺术的、科学的或宗教的，通常不受民族或其他总体利益的约束。相比之下，社会的外部组织是那些更具控制性的制度结构，如我们生于其中的家庭与国家。在这里，“持存的诸原因把许多意志结合成一个单一整体”（1883/SW.I, 94），权力、依附与财产的关系可以在其中建立。把文化系统与制度组织相互参照是重要的。启蒙思想家曾聚焦于科学学院这类文化系统及其潜在的普遍范围，却忽视大多数教育机构如何受地方当局控制。虽然狄尔泰受训于历史学派成员，但他认识到，他们中的许多人同样片面：强调区分不同民族的独特制度组织，而忽视经由文化系统分析所可能的概括的作用。
-    step2: 在狄尔泰那里，大部分精神科学是在一个能够中介个体主动性与共同体传统的层面上分析人类交互。这些科学处理的，是他所谓的“文化系统”与“社会的外部组织”。文化系统是个体出于某些唯有合作方能达成的目的而自愿加入的联合体；这些系统在尽可能最广的意义上是文化的，囊括我们社会生活的一切方面，性质上可为政治的、经济的、艺术的、科学的或宗教的，通常不受民族或其他凌驾性利益的约束。社会的外部组织则相反，是那些更具控制性的制度结构，如我们生于其中的家庭与国家。在这里，“持存的诸原因把许多意志结合成一个单一整体”（1883/SW.I, 94），权力、依附与财产的关系得以在其中确立。文化系统与制度组织必须相互参照。启蒙思想家曾聚焦于科学学院一类文化系统及其潜在的普遍性，却忽视大多数教育机构如何受地方当局控制；狄尔泰虽受训于历史学派门下，却也看出该派许多人同样片面：强调区分各民族的独特制度组织，而无视经由文化系统分析而成为可能的概括之作用。
+    step1: |-
+      狄尔泰把大部分精神科学设想为在能够中介个体主动性与共同体传统之间那个层面上分析人类交互。这些科学处理他所谓的“文化系统”与“社会的外部组织”。文化系统是个体为某些只有通过合作才能达到的目的而自愿加入的联合体。这些系统在最广的意义上是文化的，涵盖我们社会生活的一切方面。它们在性质上可以是政治的、经济的、艺术的、科学的或宗教的，通常不受民族或其他总体利益的约束。相比之下，社会的外部组织是那些更具控制性的制度结构，如我们生于其中的家庭与国家。在这里，“持存的诸原因把许多意志结合成一个单一整体”（1883/SW.I, 94），权力、依附与财产的关系可以在其中建立。把文化系统与制度组织相互参照是重要的。启蒙思想家曾聚焦于科学学院这类文化系统及其潜在的普遍范围，却忽视大多数教育机构如何受地方当局控制。虽然狄尔泰受训于历史学派成员，但他认识到，他们中的许多人同样片面：强调区分不同民族的独特制度组织，而忽视经由文化系统分析所可能的概括的作用。
+    step2: |-
+      在狄尔泰那里，大部分精神科学是在一个能够中介个体主动性与共同体传统的层面上分析人类交互。这些科学处理的，是他所谓的“文化系统”与“社会的外部组织”。文化系统是个体出于某些唯有合作方能达成的目的而自愿加入的联合体；这些系统在尽可能最广的意义上是文化的，囊括我们社会生活的一切方面，性质上可为政治的、经济的、艺术的、科学的或宗教的，通常不受民族或其他凌驾性利益的约束。社会的外部组织则相反，是那些更具控制性的制度结构，如我们生于其中的家庭与国家。在这里，“持存的诸原因把许多意志结合成一个单一整体”（1883/SW.I, 94），权力、依附与财产的关系得以在其中确立。文化系统与制度组织必须相互参照。启蒙思想家曾聚焦于科学学院一类文化系统及其潜在的普遍性，却忽视大多数教育机构如何受地方当局控制；狄尔泰虽受训于历史学派门下，却也看出该派许多人同样片面：强调区分各民族的独特制度组织，而无视经由文化系统分析而成为可能的概括之作用。
   - id: 29
     kind: body
     source: |-
       Dilthey aims to combine these two approaches to liberalize the historicist perspective and give it a methodological rigor. To understand the role of the law in historical life we must consider it both as a cultural system that frames legal issues in universal terms and as an external organization of society that examines them in terms of the positive laws of particular institutions. The Historical School was wrong to regard individuals as completely subordinate to the bonds of family and state and to think that the positive laws of institutions define the full reality of life. The authority of the state “encompasses only a certain portion … of the collective power of the populace” and even when state power exerts a certain preponderance it can do so only “through the cooperation of psychological impulses” (1883/SW.I, 132).
-    step1: 狄尔泰力求把这两种进路结合起来，以使历史主义视角自由化并赋予其方法论的严格性。要理解法律在历史生活中的作用，我们必须既把它看作以普遍术语框定法律问题的文化系统，又把它看作依据特定制度的实在法来考察法律问题的社会外部组织。历史学派把个体看作完全服从于家庭与国家的纽带、认为制度的实在法规定了生活的全部实在，这是错误的。国家的权威“只涵盖民众集体力量的某一部分”，即使国家权力行使某种优势，它也只能“通过心理冲动的合作”来做到（1883/SW.I, 132）。
-    step2: 狄尔泰意在把这两种进路结合起来，从而松动历史主义的视角，并赋予其方法论的严格性。要理解法律在历史生活中的作用，必须把它同时看作一个以普遍术语框定法律问题的文化系统，和一个依特定制度的实在法来考察这些问题的社会外部组织。历史学派之误，在于把个体视为全然服从家庭与国家之纽带，以为制度的实在法就规定了生活的全部实在。国家的权威“只涵盖民众集体力量的某一部分”；即便国家权力行使某种优势，也只能“通过心理冲动的合作”来行使（1883/SW.I, 132）。
+    step1: |-
+      狄尔泰力求把这两种进路结合起来，以使历史主义视角自由化并赋予其方法论的严格性。要理解法律在历史生活中的作用，我们必须既把它看作以普遍术语框定法律问题的文化系统，又把它看作依据特定制度的实在法来考察法律问题的社会外部组织。历史学派把个体看作完全服从于家庭与国家的纽带、认为制度的实在法规定了生活的全部实在，这是错误的。国家的权威“只涵盖民众集体力量的某一部分”，即使国家权力行使某种优势，它也只能“通过心理冲动的合作”来做到（1883/SW.I, 132）。
+    step2: |-
+      狄尔泰意在把这两种进路结合起来，从而松动历史主义的视角，并赋予其方法论的严格性。要理解法律在历史生活中的作用，必须把它同时看作一个以普遍术语框定法律问题的文化系统，和一个依特定制度的实在法来考察这些问题的社会外部组织。历史学派之误，在于把个体视为全然服从家庭与国家之纽带，以为制度的实在法就规定了生活的全部实在。国家的权威“只涵盖民众集体力量的某一部分”；即便国家权力行使某种优势，也只能“通过心理冲动的合作”来行使（1883/SW.I, 132）。
   - id: 30
     kind: body
     source: |-
       In the preface to the *Introduction to the Human Sciences*, Dilthey refers to his project as a Critique of Historical Reason. We can now see that this is first of all a critique of the metaphysical thesis that there can be an overarching “universal explanatory framework for all historical facts” (1883/SW.I, 141). If universal explanations are to be possible for history as well as for nature, then we must recognize that they are only possible for correlating partial contents of reality. The reason that the natural sciences have been so successful in discovering causal laws of nature is that they abstract from the full scope of the external world.
-    step1: 在《精神科学引论》的序言中，狄尔泰把他的规划称为历史理性批判。我们现在可以看到，这首先是对这样一个形而上学论题的批判：可以有一个统摄“一切历史事实的普遍说明框架”（1883/SW.I, 141）。如果普遍说明对历史与对自然都要可能，那么我们必须认识到，它们只在关联实在的部分内容时才可能。自然科学在发现自然因果规律方面如此成功，原因在于它们从外部世界的全部范围中抽象出来。
-    step2: 在《精神科学引论》序言中，狄尔泰称自己的规划为历史理性批判。如今可以看出，这首先是对如下形而上学论题的批判：能够存在一个统摄“一切历史事实的普遍说明框架”（1883/SW.I, 141）。普遍说明若要对历史与自然同样可能，就必须认识到：它只在把实在的部分内容相互关联时才可能。自然科学之所以在发现自然因果规律上如此成功，正因为它从外部世界的全部范围中抽身而出。
+    step1: |-
+      在《精神科学引论》的序言中，狄尔泰把他的规划称为历史理性批判。我们现在可以看到，这首先是对这样一个形而上学论题的批判：可以有一个统摄“一切历史事实的普遍说明框架”（1883/SW.I, 141）。如果普遍说明对历史与对自然都要可能，那么我们必须认识到，它们只在关联实在的部分内容时才可能。自然科学在发现自然因果规律方面如此成功，原因在于它们从外部世界的全部范围中抽象出来。
+    step2: |-
+      在《精神科学引论》序言中，狄尔泰称自己的规划为历史理性批判。如今可以看出，这首先是对如下形而上学论题的批判：能够存在一个统摄“一切历史事实的普遍说明框架”（1883/SW.I, 141）。普遍说明若要对历史与自然同样可能，就必须认识到：它只在把实在的部分内容相互关联时才可能。自然科学之所以在发现自然因果规律上如此成功，正因为它从外部世界的全部范围中抽身而出。
   - id: 31
     kind: body
     source: |-
       > *The conditions* sought by the *mechanistic explanation* of nature explain only *part of the contents of external reality*. This intelligible world of atoms, ether, vibrations, is only a calculated and highly artificial abstraction from what is given in outer and lived experience. (1883/SW.I, 203)
-    step1: > 自然界*机械说明*所寻求的*诸条件*只说明*外部实在内容的一部分*。这个由原子、以太、振动构成的可知世界，只是从外经验与体验中被给予者出发的一种刻意且高度人为的抽象。（1883/SW.I, 203）
-    step2: > 自然之*机械说明*所寻求的那些*条件*，只说明*外部实在内容的一部分*。这个由原子、以太、振动构成的可知世界，不过是从外经验与体验之所予出发的一种算计精巧、高度人为的抽象。（1883/SW.I, 203）
+    step1: |-
+      > 自然界*机械说明*所寻求的*诸条件*只说明*外部实在内容的一部分*。这个由原子、以太、振动构成的可知世界，只是从外经验与体验中被给予者出发的一种刻意且高度人为的抽象。（1883/SW.I, 203）
+    step2: |-
+      > 自然之*机械说明*所寻求的那些*条件*，只说明*外部实在内容的一部分*。这个由原子、以太、振动构成的可知世界，不过是从外经验与体验之所予出发的一种算计精巧、高度人为的抽象。（1883/SW.I, 203）
   - id: 32
     kind: body
     source: |-
       The human sciences cannot similarly construct an abstract phenomenal world that focuses on physical and chemical processes and appeals to hypothetical atomic or even subatomic elements. It is incumbent on the human sciences to deal with the more complex networks of the historical world and the actual givens of human beings. Explanations that are adequate for the historical world will require an analysis of the multiple partial contents that are relevant in a particular context. According to Dilthey the human sciences must replace the abstract methodology of the natural sciences with an analytic counterpart.
-    step1: 精神科学不能类似地构造一个聚焦于物理与化学过程、诉诸假设性原子乃至亚原子要素的抽象现象世界。精神科学的职责是处理历史世界更复杂的网络与人的实际所予。对历史世界适用的说明将要求分析在特定语境中相关的多重部分内容。据狄尔泰的看法，精神科学必须用一个分析的对应物来取代自然科学的抽象方法论。
-    step2: 精神科学不能如法炮制，去构造一个聚焦物理与化学过程、诉诸假设性原子乃至亚原子要素的抽象现象世界。它的本分，是处理历史世界更复杂的网络与人这个实际所予。对历史世界适用的说明，要求分析在特定语境中相关的多重部分内容。在狄尔泰看来，精神科学必须以一个分析性的对应物取代自然科学的抽象方法论。
+    step1: |-
+      精神科学不能类似地构造一个聚焦于物理与化学过程、诉诸假设性原子乃至亚原子要素的抽象现象世界。精神科学的职责是处理历史世界更复杂的网络与人的实际所予。对历史世界适用的说明将要求分析在特定语境中相关的多重部分内容。据狄尔泰的看法，精神科学必须用一个分析的对应物来取代自然科学的抽象方法论。
+    step2: |-
+      精神科学不能如法炮制，去构造一个聚焦物理与化学过程、诉诸假设性原子乃至亚原子要素的抽象现象世界。它的本分，是处理历史世界更复杂的网络与人这个实际所予。对历史世界适用的说明，要求分析在特定语境中相关的多重部分内容。在狄尔泰看来，精神科学必须以一个分析性的对应物取代自然科学的抽象方法论。
   - id: 33
     kind: body
     source: |-
       > Abstraction is distinguished from analysis in that the former singles out *one* fact and disregards the others, whereas the latter seeks to apprehend the majority of the facts that make up the factors of a complex whole. (ca. 1880–1893/SW.I, 433)
-    step1: > 抽象与分析的区分在于：前者挑出*一个*事实而无视其余，后者则力求把握构成一个复杂整体之诸因素的大多数事实。（ca. 1880–1893/SW.I, 433）
-    step2: > 抽象不同于分析：前者挑出*一个*事实而不顾其余；后者力求把握构成复杂整体之诸因素的大多数事实。（ca. 1880–1893/SW.I, 433）
+    step1: |-
+      > 抽象与分析的区分在于：前者挑出*一个*事实而无视其余，后者则力求把握构成一个复杂整体之诸因素的大多数事实。（ca. 1880–1893/SW.I, 433）
+    step2: |-
+      > 抽象不同于分析：前者挑出*一个*事实而不顾其余；后者力求把握构成复杂整体之诸因素的大多数事实。（ca. 1880–1893/SW.I, 433）
   - id: 34
     kind: body
     source: |-
       The more facts that explanations seek to correlate, the more limited their scope must be. Thus the laws to be discovered in the human sciences will apply not to history in general, but only to specific cultural systems or institutional organizations. It may be possible to arrive at causal laws of economic growth, of scientific progress or of literary development, but not at overarching historical laws of human progress.
-    step1: 说明寻求关联的事实越多，其范围就必须越有限。因此，精神科学中待发现的规律将不适用于一般的历史，而只适用于特定的文化系统或制度组织。经济成长、科学进步或文学发展的因果规律可能达致，但人类进步的统摄性历史规律则不然。
-    step2: 说明要关联的事实越多，其适用范围就必须越窄。因此，精神科学中待发现的规律不会适用于一般历史，只适用于特定的文化系统或制度组织。经济成长、科学进步或文学发展的因果规律或可企及，人类进步的统摄性历史规律则不可得。
+    step1: |-
+      说明寻求关联的事实越多，其范围就必须越有限。因此，精神科学中待发现的规律将不适用于一般的历史，而只适用于特定的文化系统或制度组织。经济成长、科学进步或文学发展的因果规律可能达致，但人类进步的统摄性历史规律则不然。
+    step2: |-
+      说明要关联的事实越多，其适用范围就必须越窄。因此，精神科学中待发现的规律不会适用于一般历史，只适用于特定的文化系统或制度组织。经济成长、科学进步或文学发展的因果规律或可企及，人类进步的统摄性历史规律则不可得。
   - id: 35
     kind: body
     source: |-
       So far Dilthey has argued for a relative independence of the human sciences *vis-à-vis* the better established natural sciences. However, from the transcendental perspective that considers the conditions our consciousness brings to experience, the human sciences must claim a reflective priority. The realization that the human sciences not only ascertain what is—as do the natural sciences—but also make value judgments, establish goals and prescribe rules, discloses that they are much more directly related to the full reality of lived experience. The Kantian I-think that is the basis of the conceptual cognition (*Erkenntnis*) of the natural sciences really derives from a direct knowing (*Wissen*) rooted in Dilthey’s more inclusive thinking-feeling-willing of lived experience (see 1883/SW.I, 228, and ca. 1880–93/SW.I, 263–68). The natural sciences merely construct a phenomenal or ideal world that abstracts from the real nexus of lived experience. The world that is formed by the human sciences is the historical-social reality in which human beings participate. It is a real world that is directly possessed or present in what Dilthey calls *Innewerden*. This term has sometimes been translated as “inner awareness,” but is is better to translate it as “reflexive awareness” to indicate how things are there-for-us. Reflexive awareness is a pre-reflective, indexical mode of consciousness that “does not place a content over against the subject of consciousness (it does not re-present it)” (ca. 1880–93/SW.I, 253). It is the direct know-how that reality is present-for-me prior to any of the reflective act-content, inner-outer, or subject-object distinctions that characterize the representational world of conceptual cognition.
-    step1: 至此，狄尔泰一直论证精神科学相对于更成熟的自然科学具有相对独立性。然而，从考虑我们的意识带给经验的诸条件的先验视角来看，精神科学必须主张一种反思的优先性。认识到精神科学不仅像自然科学那样确认所是者，而且还作出价值判断、设立目标与规定规则，这就揭示出它们与体验的全部实在直接相关得多。作为自然科学概念性认识（*Erkenntnis*）之基础的康德式我思，实际上源自一种直接的知（*Wissen*），它植根于狄尔泰更包容的体验的思—感—愿之中（见 1883/SW.I, 228，以及 ca. 1880–93/SW.I, 263–68）。自然科学仅仅构造一个从体验的实在联系中抽象出来的现象或观念世界。精神科学所形成的世界则是人参与其中的历史—社会实在。它是一个在狄尔泰所谓 *Innewerden*（内觉）中被直接拥有或当下在场的实在世界。这个术语有时被译为“内在觉察”，但最好译为“反思性觉察”，以指示事物如何对我们在此在场。反思性觉察是一种前反思的、指示性的意识样式，它“不把一个内容置于意识的主体对面（它不再现它）”（ca. 1880–93/SW.I, 253）。它是实在在我面前直接在场的直接知道如何，先于概念性认识的表象世界所特有的任何反思性的行为—内容、内—外或主体—对象区分。
-    step2: 至此为止，狄尔泰论证的是精神科学相对于更成熟的自然科学的相对独立性。然而，从考虑意识带给经验之诸条件的先验视角看，精神科学必须主张一种反思的优先性。精神科学不仅像自然科学那样确认所是者，还作出价值判断、设立目标、规定规则，认识到这一点即可看出：它与体验的全部实在直接相关得多。作为自然科学概念性认识（*Erkenntnis*）之基础的康德式我思，实际源自一种直接的知（*Wissen*），它植根于狄尔泰更包容的体验的思—感—愿（thinking-feeling-willing）之中（见 1883/SW.I, 228，及 ca. 1880–93/SW.I, 263–68）。自然科学只是构造一个从体验之实在联系中抽象出来的现象或观念世界；精神科学所形成的世界，则是人参与其中的历史—社会实在，一个在狄尔泰所谓 *Innewerden*（内觉）之中被直接拥有、当下在场的实在世界。这个词有时被译作“内在觉察”，但更好的译法是“反思性觉察”，以指示事物如何在我们面前到场。反思性觉察是一种前反思的、指示性的意识样式，它“不把一个内容置于意识主体的对面（它不再现它）”（ca. 1880–93/SW.I, 253）。它是“实在在我面前在场”这一直接的知道如何，先于概念性认识之表象世界所特有的种种反思性区分：行为—内容、内—外、主体—对象。
+    step1: |-
+      至此，狄尔泰一直论证精神科学相对于更成熟的自然科学具有相对独立性。然而，从考虑我们的意识带给经验的诸条件的先验视角来看，精神科学必须主张一种反思的优先性。认识到精神科学不仅像自然科学那样确认所是者，而且还作出价值判断、设立目标与规定规则，这就揭示出它们与体验的全部实在直接相关得多。作为自然科学概念性认识（*Erkenntnis*）之基础的康德式我思，实际上源自一种直接的知（*Wissen*），它植根于狄尔泰更包容的体验的思—感—愿之中（见 1883/SW.I, 228，以及 ca. 1880–93/SW.I, 263–68）。自然科学仅仅构造一个从体验的实在联系中抽象出来的现象或观念世界。精神科学所形成的世界则是人参与其中的历史—社会实在。它是一个在狄尔泰所谓 *Innewerden*（内觉）中被直接拥有或当下在场的实在世界。这个术语有时被译为“内在觉察”，但最好译为“反思性觉察”，以指示事物如何对我们在此在场。反思性觉察是一种前反思的、指示性的意识样式，它“不把一个内容置于意识的主体对面（它不再现它）”（ca. 1880–93/SW.I, 253）。它是实在在我面前直接在场的直接知道如何，先于概念性认识的表象世界所特有的任何反思性的行为—内容、内—外或主体—对象区分。
+    step2: |-
+      至此为止，狄尔泰论证的是精神科学相对于更成熟的自然科学的相对独立性。然而，从考虑意识带给经验之诸条件的先验视角看，精神科学必须主张一种反思的优先性。精神科学不仅像自然科学那样确认所是者，还作出价值判断、设立目标、规定规则，认识到这一点即可看出：它与体验的全部实在直接相关得多。作为自然科学概念性认识（*Erkenntnis*）之基础的康德式我思，实际源自一种直接的知（*Wissen*），它植根于狄尔泰更包容的体验的思—感—愿（thinking-feeling-willing）之中（见 1883/SW.I, 228，及 ca. 1880–93/SW.I, 263–68）。自然科学只是构造一个从体验之实在联系中抽象出来的现象或观念世界；精神科学所形成的世界，则是人参与其中的历史—社会实在，一个在狄尔泰所谓 *Innewerden*（内觉）之中被直接拥有、当下在场的实在世界。这个词有时被译作“内在觉察”，但更好的译法是“反思性觉察”，以指示事物如何在我们面前到场。反思性觉察是一种前反思的、指示性的意识样式，它“不把一个内容置于意识主体的对面（它不再现它）”（ca. 1880–93/SW.I, 253）。它是“实在在我面前在场”这一直接的知道如何，先于概念性认识之表象世界所特有的种种反思性区分：行为—内容、内—外、主体—对象。
   - id: 36
     kind: body
     source: |-
       The human sciences must hold on to the original presence of this directly known reality even as they proceed to use the intellectual tools of conceptual cognition in their analysis of partial contents. The way the historical world is represented and analyzed must in some way still reflect the way history has been lived. The final understanding (*Verstehen*) aimed at by Dilthey’s human sciences must draw on all our capacities and is to be distinguished from the mere intellectual and abstract understanding (*Verstand*) of Kant’s natural sciences.
-    step1: 精神科学必须守住这个被直接认识的实在的原初在场，即便它们继续使用概念性认识的智识工具来分析部分内容。历史世界被表象与分析的方式，必须仍以某种方式反映历史曾被生活的方式。狄尔泰的精神科学所指向的最终理解（*Verstehen*）必须调用我们的一切能力，并须与康德自然科学那种纯智性的抽象知性（*Verstand*）区分开来。
-    step2: 精神科学必须守住这一被直接认识的实在的原初在场，即便它们进而使用概念性认识的智识工具来分析部分内容。历史世界被表象、被分析的方式，必须仍以某种方式反映历史曾被活出来的方式。狄尔泰的精神科学所指向的最终理解（*Verstehen*）必须调动我们的全部能力，并区别于康德自然科学中那种纯智性的抽象知性（*Verstand*）。
+    step1: |-
+      精神科学必须守住这个被直接认识的实在的原初在场，即便它们继续使用概念性认识的智识工具来分析部分内容。历史世界被表象与分析的方式，必须仍以某种方式反映历史曾被生活的方式。狄尔泰的精神科学所指向的最终理解（*Verstehen*）必须调用我们的一切能力，并须与康德自然科学那种纯智性的抽象知性（*Verstand*）区分开来。
+    step2: |-
+      精神科学必须守住这一被直接认识的实在的原初在场，即便它们进而使用概念性认识的智识工具来分析部分内容。历史世界被表象、被分析的方式，必须仍以某种方式反映历史曾被活出来的方式。狄尔泰的精神科学所指向的最终理解（*Verstehen*）必须调动我们的全部能力，并区别于康德自然科学中那种纯智性的抽象知性（*Verstand*）。
   - id: 37
     kind: body
     source: |-
       In attempting to convey the richness and depth of lived experience, the human sciences must also consider the contribution of the arts. Aesthetics constitutes an important cultural system in that it can provide a sense of how the arts can contribute to human understanding in general. Dilthey’s *Poetics* of 1887 represents an effort to develop certain psychological concepts to explicate the workings of the poetic imagination. Even in ordinary life, the images we extract from experience are subject to metamorphosis. With time all our images are transformed, for “the same image can no more return than the same leaf can grow back on a tree the following spring” (1887/SW.V, 102). The first law of metamorphosis involves the exclusion of those constituents of images that are not valuable to us. Not every apprehended constituent is worth remembering. According to Dilthey we do not just passively absorb every impression that comes our way. We filter out what is not worth perceiving by a process of apperception. This apperception is guided by what is called an “acquired nexus of psychic life”. Because this gradually acquired nexus differs for each subject, the process of exclusion never has the same outcome.
-    step1: 在力图传达体验的丰富性与深度时，精神科学还必须考虑艺术的贡献。美学构成一个重要的文化系统，因为它能提供一种感觉，即艺术如何能一般地促进人类理解。狄尔泰 1887 年的《诗学》（*Poetics*）代表了一种努力，即发展某些心理学概念来阐明诗性想象的运作。即使在日常生活中，我们从经验中提取的意象也经受变形。随着时间推移，我们的一切意象都被转变，因为“同一片叶子不会在来年春天重新长回树上，同一意象也不会返回”（1887/SW.V, 102）。变形的第一条规律涉及排除那些对我们没有价值的意象要素。并非每个被领会的要素都值得记住。按狄尔泰的看法，我们并非被动地吸收向我们迎面而来的每个印象。我们通过统觉的过程过滤掉不值得感知的东西。这种统觉由所谓“心理生活的获得联系”引导。因为这一逐渐获得的联系因主体而异，排除的过程从不会有相同的结果。
-    step2: 精神科学要传达体验的丰富与深度，还必须顾及艺术的贡献。美学之所以是一个重要文化系统，在于它能让我们领会：艺术一般如何促进人类的理解。狄尔泰 1887 年的《诗学》（*Poetics*）就是一项尝试：发展若干心理学概念，阐明诗性想象的运作。即便在日常生活中，我们从经验中提取的意象也在经受变形。随时间推移，我们的一切意象都会转变，因为“同一片叶子不会在来年春天重新长回树上，同一意象也不会复返”（1887/SW.V, 102）。变形第一律涉及排除意象中对我们无价值的要素：并非每个被领会的要素都值得记住。在狄尔泰看来，我们并非被动吸收迎面而来的每个印象，而是经由统觉过滤掉不值得感知者。统觉受所谓“心理生活的获得联系”引导；由于这一逐渐获得的联系因主体而异，排除过程从不会得出相同的结果。
+    step1: |-
+      在力图传达体验的丰富性与深度时，精神科学还必须考虑艺术的贡献。美学构成一个重要的文化系统，因为它能提供一种感觉，即艺术如何能一般地促进人类理解。狄尔泰 1887 年的《诗学》（*Poetics*）代表了一种努力，即发展某些心理学概念来阐明诗性想象的运作。即使在日常生活中，我们从经验中提取的意象也经受变形。随着时间推移，我们的一切意象都被转变，因为“同一片叶子不会在来年春天重新长回树上，同一意象也不会返回”（1887/SW.V, 102）。变形的第一条规律涉及排除那些对我们没有价值的意象要素。并非每个被领会的要素都值得记住。按狄尔泰的看法，我们并非被动地吸收向我们迎面而来的每个印象。我们通过统觉的过程过滤掉不值得感知的东西。这种统觉由所谓“心理生活的获得联系”引导。因为这一逐渐获得的联系因主体而异，排除的过程从不会有相同的结果。
+    step2: |-
+      精神科学要传达体验的丰富与深度，还必须顾及艺术的贡献。美学之所以是一个重要文化系统，在于它能让我们领会：艺术一般如何促进人类的理解。狄尔泰 1887 年的《诗学》（*Poetics*）就是一项尝试：发展若干心理学概念，阐明诗性想象的运作。即便在日常生活中，我们从经验中提取的意象也在经受变形。随时间推移，我们的一切意象都会转变，因为“同一片叶子不会在来年春天重新长回树上，同一意象也不会复返”（1887/SW.V, 102）。变形第一律涉及排除意象中对我们无价值的要素：并非每个被领会的要素都值得记住。在狄尔泰看来，我们并非被动吸收迎面而来的每个印象，而是经由统觉过滤掉不值得感知者。统觉受所谓“心理生活的获得联系”引导；由于这一逐渐获得的联系因主体而异，排除过程从不会得出相同的结果。
   - id: 38
     kind: body
     source: |-
       Some of what has not been excluded by the first law of imaginative metamorphosis can then become the focus of special attention. According to Dilthey’s second law of imaginative metamorphosis “Images are transformed when they expand or contract, when the intensity of the sensations of which they are composed is increased or decreased” (1887/SW.V, 102). Such a change in intensity can apply to either the reproductive imagination of ordinary memory or the productive imagination of poets or novelists. In the former case of memory an increase of intensity tends to be as much a function of a present practical interest as of acquired experience. In the latter case of the imagination of poets an increase of intensity is more likely to be primarily regulated by their overall acquired psychic nexus. What distinguishes the imagination of great poets according to Dilthey is their capacity to ignore the constant distractions and mundane interests of daily life. Only they can unfold imagery in a way that reflects our overall human values.
-    step1: 未被想象变形第一律排除的东西，有些可以随后成为特殊关注的焦点。按照狄尔泰的想象变形第二律，“当意象扩展或收缩、当构成它们的诸感觉的强度增减时，意象发生变形”（1887/SW.V, 102）。这种强度的变化既可以适用于日常记忆的再造性想象，也可以适用于诗人或小说家的生产性想象。在前一种记忆情形中，强度的增加既与当下实际兴趣有关，也与获得的经验有关。在后一种诗人想象的情形中，强度的增加更可能首要地由他们整体获得的心理联系来调节。按狄尔泰的看法，伟大诗人的想象之独特处在于他们无视日常生活中持续的干扰与平凡兴趣的能力。唯有他们能以反映我们整体人类价值的方式展开意象。
-    step2: 未被想象变形第一律排除者，有些会继而成为特殊关注的焦点。狄尔泰的想象变形第二律说：“当意象扩展或收缩、当构成意象的诸感觉强度增减时，意象便发生变形”（1887/SW.V, 102）。强度的这种变化，既适用于日常记忆的再造性想象，也适用于诗人或小说家的生产性想象。就记忆而言，强度之增既系于当下的实际兴趣，也系于获得的经验；就诗人想象而言，强度之增更可能首要地受其整体获得心理联系的调节。在狄尔泰看来，伟大诗人的想象之独特处，在于他们能够无视日常生活中持续的干扰与平凡兴趣；唯有他们能以反映我们整体人类价值的方式展开意象。
+    step1: |-
+      未被想象变形第一律排除的东西，有些可以随后成为特殊关注的焦点。按照狄尔泰的想象变形第二律，“当意象扩展或收缩、当构成它们的诸感觉的强度增减时，意象发生变形”（1887/SW.V, 102）。这种强度的变化既可以适用于日常记忆的再造性想象，也可以适用于诗人或小说家的生产性想象。在前一种记忆情形中，强度的增加既与当下实际兴趣有关，也与获得的经验有关。在后一种诗人想象的情形中，强度的增加更可能首要地由他们整体获得的心理联系来调节。按狄尔泰的看法，伟大诗人的想象之独特处在于他们无视日常生活中持续的干扰与平凡兴趣的能力。唯有他们能以反映我们整体人类价值的方式展开意象。
+    step2: |-
+      未被想象变形第一律排除者，有些会继而成为特殊关注的焦点。狄尔泰的想象变形第二律说：“当意象扩展或收缩、当构成意象的诸感觉强度增减时，意象便发生变形”（1887/SW.V, 102）。强度的这种变化，既适用于日常记忆的再造性想象，也适用于诗人或小说家的生产性想象。就记忆而言，强度之增既系于当下的实际兴趣，也系于获得的经验；就诗人想象而言，强度之增更可能首要地受其整体获得心理联系的调节。在狄尔泰看来，伟大诗人的想象之独特处，在于他们能够无视日常生活中持续的干扰与平凡兴趣；唯有他们能以反映我们整体人类价值的方式展开意象。
   - id: 39
     kind: body
     source: |-
       The third law of imaginative metamorphosis involves their completion, by which Dilthey means a process “by which something outer is enlivened by something inner or something inner is made visible and intuitable by something outer” (1887/SW.V, 104). In completion there is an interpenetration between inner feeling and outer perception so that the very nucleus of an image can symbolize the overall acquired psychic nexus. Dilthey writes,
-    step1: 想象变形的第三条规律涉及意象的完成。狄尔泰所谓完成，是指这样一个过程，“凭借它，某种外在者被某种内在者激活，或某种内在者被某种外在者变得可见而可直观”（1887/SW.V, 104）。在完成中，内在感受与外知觉相互渗透，以致一个意象的核心本身能够象征整体获得的心理联系。狄尔泰写道：
-    step2: 想象变形第三律涉及意象的完成。狄尔泰所谓完成，是这样一个过程：“某种外在者由此被某种内在者激活，或某种内在者由此被某种外在者变得可见而可直观”（1887/SW.V, 104）。在完成之中，内在感受与外知觉相互渗透，乃至一个意象的核心本身即能象征整体获得的心理联系。狄尔泰写道：
+    step1: |-
+      想象变形的第三条规律涉及意象的完成。狄尔泰所谓完成，是指这样一个过程，“凭借它，某种外在者被某种内在者激活，或某种内在者被某种外在者变得可见而可直观”（1887/SW.V, 104）。在完成中，内在感受与外知觉相互渗透，以致一个意象的核心本身能够象征整体获得的心理联系。狄尔泰写道：
+    step2: |-
+      想象变形第三律涉及意象的完成。狄尔泰所谓完成，是这样一个过程：“某种外在者由此被某种内在者激活，或某种内在者由此被某种外在者变得可见而可直观”（1887/SW.V, 104）。在完成之中，内在感受与外知觉相互渗透，乃至一个意象的核心本身即能象征整体获得的心理联系。狄尔泰写道：
   - id: 40
     kind: body
     source: |-
       > *Only when the whole acquired psychic nexus becomes active* can images be transformed on the basis of it: *innumerable, immeasurable, almost imperceptible changes* occur in their nucleus. And in this way, the completion of the particular originates from the fullness of psychic life. (1887/SW.V, 104)
-    step1: > *唯有当整体获得的心理联系变得活跃时*，意象才能在此基础上变形：它们的内核中发生*数不胜数、无法估量、几乎不可察觉的变化*。就这样，特殊者的完成源于心理生活的丰满。（1887/SW.V, 104）
-    step2: > *唯有整体获得的心理联系活跃起来*，意象才能在此基础上变形：其内核中发生*数不胜数、无从估量、几乎不可察觉的变化*。特殊者的完成由此源自心理生活的丰满。（1887/SW.V, 104）
+    step1: |-
+      > *唯有当整体获得的心理联系变得活跃时*，意象才能在此基础上变形：它们的内核中发生*数不胜数、无法估量、几乎不可察觉的变化*。就这样，特殊者的完成源于心理生活的丰满。（1887/SW.V, 104）
+    step2: |-
+      > *唯有整体获得的心理联系活跃起来*，意象才能在此基础上变形：其内核中发生*数不胜数、无从估量、几乎不可察觉的变化*。特殊者的完成由此源自心理生活的丰满。（1887/SW.V, 104）
   - id: 41
     kind: body
     source: |-
