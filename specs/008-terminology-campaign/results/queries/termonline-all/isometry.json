@@ -1,0 +1,215 @@
+{
+ "key": "isometry",
+ "term": "isometry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T00:02:32+00:00",
+ "status": "ok",
+ "note": "variant=isometry; 审定公布名词库=178; 海峡两岸名词对照库=75; 其他来源数据库=1; 预公布名词数据库=4; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "等度规",
+   "en": "isometry",
+   "code": "06.0285",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "等距同构",
+   "en": "isometry",
+   "code": "04.0797",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_型"
+  },
+  {
+   "cn": "等距",
+   "en": "equidistant,isometry",
+   "code": "08.0325",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_解析几何学"
+  },
+  {
+   "cn": "生物统计学",
+   "en": "biometry",
+   "code": "03.428",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_生物学哲学"
+  },
+  {
+   "cn": "滴定碘法",
+   "en": "iodometry",
+   "code": "03.0428",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学分析"
+  },
+  {
+   "cn": "几何[学]",
+   "en": "geometry",
+   "code": "08.0001",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "同分异构体",
+   "en": "isomer",
+   "code": "1.02",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "同核异能素",
+   "en": "isomer",
+   "code": "1.027",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核物理_核物理基础类"
+  },
+  {
+   "cn": "同核异能素",
+   "en": "isomer",
+   "code": "09.0018",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_原子核物理学"
+  },
+  {
+   "cn": "同分异构体",
+   "en": "isomer",
+   "code": "09.0019",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_原子核物理学"
+  },
+  {
+   "cn": "同质异能素",
+   "en": "isomer",
+   "code": "02.0040",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学相关基础学科_原子物理与核物理"
+  },
+  {
+   "cn": "同分异构体",
+   "en": "isomer",
+   "code": "02.0228",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学相关基础学科_放射化学"
+  },
+  {
+   "cn": "等节拍",
+   "en": "isometric",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "滴定碘法，间接碘量法",
+   "en": "iodometry",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "等量",
+   "en": "isometric",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "等跗类",
+   "en": "Isomera",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "异构体",
+   "en": "isomer",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "异构体",
+   "en": "isomer",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "[同分]异构体",
+   "en": "isomer",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "异构体",
+   "en": "isomer",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "同分异构[体]",
+   "en": "isomer",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "黏度测定法",
+   "en": "viscometry\",\"viscosimetry",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "碘量法",
+   "en": "iodometry",
+   "code": "6.1.12.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "同质异能素",
+   "en": "isomer",
+   "code": "3.1.20",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_核物理基本概念"
+  },
+  {
+   "cn": "等长收缩",
+   "en": "isometric contraction",
+   "code": "6.1.1.2.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业生理学"
+  },
+  {
+   "cn": "同质异能跃迁",
+   "en": "isometric transition, IT",
+   "code": "3.1.37",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_核物理基本概念"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

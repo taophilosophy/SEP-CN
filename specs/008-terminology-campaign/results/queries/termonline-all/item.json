@@ -1,0 +1,348 @@
+{
+ "key": "item",
+ "term": "item",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T00:02:32+00:00",
+ "status": "ok",
+ "note": "variant=item; 审定公布名词库=471; 海峡两岸名词对照库=178; 其他来源数据库=15; 预公布名词数据库=21; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "目",
+   "en": "item",
+   "code": "02.04.035",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_编辑加工"
+  },
+  {
+   "cn": "物项",
+   "en": "item",
+   "code": "17.574",
+   "standard": "电力名词",
+   "subject": "电力_核电"
+  },
+  {
+   "cn": "单件",
+   "en": "item",
+   "code": "04.361",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "项",
+   "en": "item",
+   "code": "03.0144",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_计算机模型"
+  },
+  {
+   "cn": "件号",
+   "en": "item number",
+   "code": "02.05.027",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_文件处置"
+  },
+  {
+   "cn": "明细栏",
+   "en": "item block",
+   "code": "03.0195",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_二维制图"
+  },
+  {
+   "cn": "借阅状态",
+   "en": "item status",
+   "code": "07.132",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息服务与用户研究_外借服务"
+  },
+  {
+   "cn": "分项工程",
+   "en": "item project",
+   "code": "09.0308",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_费用管理"
+  },
+  {
+   "cn": "物品记录",
+   "en": "item record",
+   "code": "05.0199",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_生产运作管理"
+  },
+  {
+   "cn": "项目分析",
+   "en": "item analysis",
+   "code": "03.262",
+   "standard": "心理学名词",
+   "subject": "心理学_心理统计与测量"
+  },
+  {
+   "cn": "项目参数",
+   "en": "item parameter",
+   "code": "03.263",
+   "standard": "心理学名词",
+   "subject": "心理学_心理统计与测量"
+  },
+  {
+   "cn": "项目难度",
+   "en": "item difficulty",
+   "code": "03.264",
+   "standard": "心理学名词",
+   "subject": "心理学_心理统计与测量"
+  },
+  {
+   "cn": "项",
+   "en": "item",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "项",
+   "en": "term\",\"item",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "项目选择",
+   "en": "item selection",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "项目区分度,项目鉴别力",
+   "en": "item discrimination",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "项目参数",
+   "en": "item parameter",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "项目难度",
+   "en": "item difficulty",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "项目分析",
+   "en": "item analysis",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "测验项目",
+   "en": "test item",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "调整项目",
+   "en": "reconciliation item",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "[关税及贸易总协定]敏感项目",
+   "en": "sensitive item",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "货币性项目",
+   "en": "monetary item",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "有形[贸易]项目",
+   "en": "visible item",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "数据项",
+   "en": "data item",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "存货单位",
+   "en": "Global Trade Item Number",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息项标准文档",
+   "en": "information item standard document",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际标准新工作项目提案",
+   "en": "new work item proposal for international standard",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《JIS X0532-5-2018 信息技术 自动识别和数据捕获技术 唯一识别 第5部分：个人可退回运输物品》",
+   "en": "JIS X0532-5:2018 Information technology — Automatic identification and data capture techniques — Unique identification — Part 5: Individual returnable transport items (RTIs)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "艏柱",
+   "en": "stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "艇首",
+   "en": "bow\",\"stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "摆上",
+   "en": "stem\",\"uprise",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "艏",
+   "en": "bow\",\"stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "车座杆",
+   "en": "saddle stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "车把手杆",
+   "en": "handlebar extension\",\"stem",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "造血干细胞",
+   "en": "Hematopoietic stem cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物品消毒",
+   "en": "item disinfection",
+   "code": "4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用"
+  },
+  {
+   "cn": "条目池",
+   "en": "item bank",
+   "code": "5.4.1.1",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "高度危险性物品",
+   "en": "critical item",
+   "code": "4.6.9.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "项目反应理论",
+   "en": "item response theory",
+   "code": "1.2.4.35",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "民俗事象",
+   "en": "items of folklore",
+   "code": "4.0009",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "中度危险性物品",
+   "en": "semi-critical item",
+   "code": "4.6.9.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "code": "4.6.9.1.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "按条目预算",
+   "en": "line-item budget",
+   "code": "10.2.15",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "项目反应理论",
+   "en": "item response theory, IRT",
+   "code": "5.3.3.3",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "条目功能差异",
+   "en": "differential item functioning, DIF",
+   "code": "5.3.3.3.2",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "36条目简明健康量表",
+   "en": "the Medical Outcomes Study 36-item short form health survey, SF-36",
+   "code": "5.4.2.2",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "主干家庭",
+   "en": "stem family",
+   "code": "3.1.1.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
