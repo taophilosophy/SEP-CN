@@ -587,143 +587,191 @@ segments:
     kind: body
     source: |-
       It also remains contentious how to distinguish Meinongian approaches from other views that reject the Quinean criterion of ontological commitment. (For discussion, see Lewis 1990.)[^lewis-1990] For example, Azzouni (2004, 2010) defends a non-Meinongian version of nominalism premised upon the rejection of Quinean views regarding ontological commitment. On the resulting view, only concrete objects *really* exist despite the apparent truth of claims within mathematics and fiction and the apparent reference to and quantification over numbers and fictional characters. In developing this view, Azzouni defends a distinction between the “quantifier commitments” and “existential commitments” of a theory. While claims like (1)–(3) are true and have numbers, theorems, and characters among their quantifier commitments, it is a further question whether such entities exist and what, if any, existential commitments and hence ontological consequences such claims have.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如何把迈农主义进路与拒斥蒯因本体论承诺判准的其他观点区分开来，同样有争议。（讨论见 Lewis 1990。）[^lewis-1990] 例如，Azzouni（2004、2010）辩护一种非迈农主义的唯名论，其前提是拒斥关于本体论承诺的蒯因式观点。按由此得出的观点，尽管数学与虚构中的主张表面上为真、表面上指称并对数及虚构人物作量化，*真正*存在的却只有具体对象。在阐发这一观点时，Azzouni 辩护一种区分：理论的"量词承诺"与"存在承诺"。 (1)–(3) 之类主张为真，且其量词承诺中包括数、定理与人物；但这类实体是否存在、这类主张有何存在承诺并因而有何本体论后果，则是另一个问题。
+    step2: |-
+      如何把迈农主义进路与拒斥蒯因本体论承诺判准的其他观点区分开，同样有争议。（讨论见 Lewis 1990。）[^lewis-1990] 例如 Azzouni（2004、2010）辩护一种非迈农主义唯名论，前提正是拒斥蒯因式本体论承诺观。按由此得出的观点，尽管数学与虚构中的主张表面上为真、表面上指称并对数及虚构人物作量化，*真正*存在的却只有具体对象。阐发此说时，Azzouni 区分理论的"量词承诺"与"存在承诺"：(1)–(3) 之类主张为真，其量词承诺中包括数、定理与人物；但这些实体是否存在、这类主张有何存在承诺及本体论后果，另当别论。
   - id: 74
     kind: body
     source: |-
       Related approaches posit distinct meanings of quantifiers and cognate expressions, only some of which are privileged for the purposes of ontology. So, if our concerns are metaphysical in kind (e.g., when we debate the existence of abstract entities), nominalists hold that claims like (1)–(3) prove false on this privileged interpretation. However, in ordinary contexts, claims like (1)–(3) are true and this is because of a non-ontologically-committing meaning associated with the relevant quantifiers and cognate expressions. Roughly speaking, when (1)–(3) are ordinarily used they incur no metaphysical consequences and are therefore consistent with the truth of nominalism. But, if asserted in metaphysical contexts and thus expressing their privileged, ontologically committal meanings, they are incompatible with nominalism and entail the truth of anti-nominalism (Hofweber 2005, Sider 2011, Dorr 2008, Korman 2015)[^dorr-2008][^hofweber-2005][^korman-2015][^sider-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相关进路设定量词及相关表达式有不同意义，其中只有一些在 ontology 目的上享有特权。于是，若我们的关切在种类上是形而上学的（例如当我们争论抽象实体是否存在时），唯名论者便主张：在此特权解释下，(1)–(3) 之类主张为假。然而在日常语境中，(1)–(3) 之类主张为真，这是因为相关量词与同源表达式带有一种不涉本体论承诺的意义。大致说，(1)–(3) 被日常使用时并不产生形而上学后果，因而与唯名论之为真相容；但若在形而上学语境中断言，从而表达其享有特权的、有本体论承诺的意义，它们便与唯名论不相容，并蕴涵反唯名论之为真（Hofweber 2005、Sider 2011、Dorr 2008、Korman 2015）[^dorr-2008][^hofweber-2005][^korman-2015][^sider-2011]。
+    step2: |-
+      相关进路设定：量词与同源表达式有不同意义，其中只有一些享有本体论上的特权。于是，若我们的关切在种类上是形而上学的（比如争论抽象实体是否存在），唯名论者便主张：在此特权解释下，(1)–(3) 之类主张为假。可在日常语境中，(1)–(3) 为真，原因是相关量词与同源表达式带有一种不涉本体论承诺的意义。大致说，(1)–(3) 被日常使用时并不产生形而上学后果，故与唯名论之为真相容；但若在形而上学语境中断言，从而表达其特权的、有本体论承诺的意义，它们便与唯名论不相容，并蕴涵反唯名论之为真（Hofweber 2005、Sider 2011、Dorr 2008、Korman 2015）[^dorr-2008][^hofweber-2005][^korman-2015][^sider-2011]。
   - id: 75
     kind: body
     source: |-
       Our final general nominalist strategy requires no distinctive semantic machinery and seeks to uphold abstract discourse as meaningful, true, intended literally, and committed to no abstract entities. It is, however, the least specific in content and is closer to a promissory note in theory development or a disposition towards certain metaphysical options. According to what we will call *concretism*, the nominalist simply holds that, on the final analysis, any of the putatively abstract entities relevant to claims like (1)–(3) will turn out to be a concrete entity. Concretism obviously requires plausibly developing the relevant theories of numbers, properties, musical works, and so on. Generally speaking, however, the prospects for these views are likely to depend upon having a sufficiently expansive ontology of concrete entities or a sufficiently rich ideology of theoretical concepts. For example, modal realists like Lewis (1986) have sought to analyze discourse about possibilities via concrete entities in the form of a vast ontology of concrete, merely possible worlds. Subsequent efforts have sought to show that this ontology of concrete entities is sufficient for also providing a nominalist theory of some mathematical entities in terms of sums and pluralities of concrete entities and, potentially in turn, providing an account of properties and propositions (see Nolan 2002: 151–174)[^nolan-2002]. How concretism, when paired with realism about merely possible entities, ultimately compares to anti-nominalism is an open question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们最后一种一般唯名论策略不需要独特的语义装置，而力求维护抽象话语为有意义、为真、按字面理解的，且不承诺任何抽象实体。然而它在内容上最不具体，更接近理论发展中的一张期票，或对某些形而上学选项的倾向。按我们所谓的*具体主义*，唯名论者径直主张：在最终分析中，(1)–(3) 之类主张所涉任何被认为抽象的实体，都会被证明是具体实体。显然，具体主义要求可信地发展出关于数、属性、音乐作品等的相关理论。但一般说来，这些观点的前景可能取决于是否拥有足够宽泛的具体实体本体论，或足够丰富的理论概念意识形态。例如，刘易斯（1986）之类模态实在论者曾设法经由大量具体的、仅仅可能的世界的本体论，以具体实体来分析关于可能性的谈论。后续努力则力求表明，这一具体实体本体论也足以用具体实体的总和与复数来提供某些数学实体的唯名论理论，并进而可能为属性与命题提供说明（见 Nolan 2002: 151–174）[^nolan-2002]。具体主义与关于仅仅可能实体的实在论相结合后，最终如何与反唯名论相比，仍是未决问题。
+    step2: |-
+      最后一种一般唯名论策略，不需独特的语义装置，只力求维护抽象话语为有意义、为真、按字面理解的，且不承诺任何抽象实体。不过它内容最不具体，更像理论发展中的一张期票，或对某些形而上学选项的偏好。按我们所谓*具体主义*，唯名论者径直主张：说到底，(1)–(3) 之类主张所涉任何被认为抽象的实体，都会证明是具体实体。显然，具体主义要求可信地发展出关于数、属性、音乐作品等的相关理论。大体说来，这些观点的前景，或取决于是否拥有足够宽泛的具体实体本体论，或取决于理论概念是否足够丰富。例如刘易斯（1986）这类模态实在论者，曾设法借大量具体的、仅仅可能的世界的本体论，以具体实体分析关于可能性的谈论。后续努力则力求表明：这一具体实体本体论也足以用具体实体的总和与复数给出某些数学实体的唯名论理论，进而还可能说明属性与命题（见 Nolan 2002: 151–174）[^nolan-2002]。具体主义一旦与关于仅仅可能实体的实在论结合，最终与反唯名论如何相较，仍无定论。
   - id: 76
     kind: body
     source: |-
       ### 4.2 Nominalist Accounts of Qualitative Natures
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 关于质性本性的唯名论说明
+    step2: |-
+      ### 4.2 关于质性本性的唯名论说明
   - id: 77
     kind: body
     source: |-
       The preceding section considered how nominalists about abstract entities might develop theories in the absence of ontological commitment to numbers, propositions, fictionalia, and other putative abstracta. As we have noted, nominalists about universals are more specific in their exclusionary thesis: they reject universals, but they may nevertheless accept that there are properties and, on some views, the properties they posit the existence of are also abstract entities—e.g., tropes or sets of individuals. The debate between defenders of universals and competing theorists of qualitative natures is wide-ranging, but in this section we examine those versions of nominalism that reject qualitative natures altogether. As noted in Section One, we take such views to be versions of what we call “strict nominalism.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上一节考察关于抽象实体的唯名论者如何在不承诺数、命题、虚构物及其他被认为抽象物的情况下发展理论。如已指出的，关于共相的唯名论者在排他性论旨上更为具体：他们拒斥共相，却仍可能承认有属性；在某些观点看来，他们所设定存在的属性也是抽象实体——例如特普或个体的集合。共相辩护者与质性本性竞争理论家之间的论战范围很广，但本节考察全然拒斥质性本性的那些唯名论版本。如第一节所述，我们把这类观点视为我们所谓"严格唯名论"的版本。
+    step2: |-
+      上一节考察关于抽象实体的唯名论者，如何在不承诺数、命题、虚构物等被认为抽象物的情况下发展理论。如已指出，关于共相的唯名论者在排他性论旨上更具体：他们拒斥共相，却仍可能承认有属性；在某些观点看来，他们所设定存在的属性本身也是抽象实体——比如特普或个体的集合。共相辩护者与质性本性竞争理论家之间的论战范围很广，本节只考察全然拒斥质性本性的那些唯名论版本。如第一节所述，我们把这类观点视为"严格唯名论"的版本。
   - id: 78
     kind: body
     source: |-
       Strict nominalists face an especially broad metaphysical challenge. The reason why is clear: what we will call “property discourse” is immensely wide-ranging. For it is intuitive to suppose that every object either qualitatively resembles or varies from every other. Correspondingly, everything seems to be a potential subject of descriptive classification. By contrast, it is certainly *not* intuitive to hold that every object is, say, mathematical, non-actual, fictional, or musical. Thus, while not everything is such that our discourse about it prima facie indicates that there are numbers or (mere) possibilities or creative works, plausibly *everything* is such that our discourse about it indicates that there are qualitative natures.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      严格唯名论者面临一项格外宽泛的形而上学挑战。理由很清楚：我们所谓"属性话语"的范围极广。因为直觉上可以设想，每一对象都与任何别的对象在质上相似或相异。相应地，一切事物似乎都是描述性分类的潜在主项。相反，主张每一对象都是（比如说）数学的、非现实的、虚构的或音乐的，则肯定*不*合直觉。因此，尽管并非一切都使关于它的谈论初看之下表明有数或（单纯的）可能性或创造性作品存在，却可信地*一切*事物都使关于它的谈论表明有质性本性存在。
+    step2: |-
+      严格唯名论者面临一项格外宽泛的形而上学挑战，理由很清楚：我们所谓"属性话语"范围极广。直觉上可以设想，每一对象都与任何别的对象在质上或相似、或相异；相应地，一切事物似乎都可充当描述性分类的主项。反过来，主张每一对象都是（比如）数学的、非现实的、虚构的或音乐的，则肯定*不*合直觉。于是：并非一切事物都使关于它的谈论初看之下表明有数或（单纯的）可能性或创造性作品存在；但可信地，*一切*事物都使关于它的谈论表明有质性本性存在。
   - id: 79
     kind: body
     source: |-
       The key task for the strict nominalist, which will be the focus of this section, is to develop a strategy for explaining property discourse without invoking qualitative natures. The issue at hand concerns not just first-order predicative discourse like “That apple is red”, but also discourse about similarity between objects (“That apple and my house are both red”), explanatory discourse (“I bought the apples because they’re red”), and higher-order discourse about properties themselves (“Red is a color”), which can get increasingly complicated when descriptive designation and gradient similarity are invoked (“The color of Bob’s favorite fruit is more like the color of my most expensive possession than it is like the color of yours”). The challenge of accounting for such discourse has been cited by a variety of pro-qualitative-nature theorists as the basis for assessing the prospects of strict nominalism (see, for example, Jackson 1977, Armstrong 1978, Campbell 1990, and Yi 2018)[^armstrong-1978][^campbell-1990][^jackson-1977].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      严格唯名论者的关键任务——也是本节焦点——是发展一种不援引质性本性来解释属性话语的策略。所涉问题不只是"那苹果是红的"之类一级谓述话语，还包括关于对象间相似性的话语（"那苹果和我的房子都是红的"）、解释性话语（"我买这些苹果，因为它们是红的"），以及关于属性本身的高阶话语（"红是一种颜色"）；当引入描述性指称与渐变相似时，这类话语还会变得愈来愈复杂（"鲍勃最爱水果的颜色，比起你的颜色来，更像我最贵物件的颜色"）。不少亲质性本性理论家以说明这类话语的挑战为依据，来评估严格唯名论的前景（例如见 Jackson 1977、Armstrong 1978、Campbell 1990 与 Yi 2018）[^armstrong-1978][^campbell-1990][^jackson-1977]。
+    step2: |-
+      严格唯名论者的关键任务（也是本节焦点），是发展一种不援引质性本性来解释属性话语的策略。所涉不只是"那苹果是红的"之类一级谓述话语，还包括关于对象相似性的话语（"那苹果和我的房子都是红的"）、解释性话语（"我买这些苹果，因为它们是红的"），以及关于属性本身的高阶话语（"红是一种颜色"）；一旦引入描述性指称与渐变相似，这类话语还会变得愈发复杂（"鲍勃最爱水果的颜色，比起你的颜色来，更像我最贵物件的颜色"）。不少亲质性本性理论家，正是以"能否说明这类话语"为依据，来评估严格唯名论的前景（例如见 Jackson 1977、Armstrong 1978、Campbell 1990、Yi 2018）[^armstrong-1978][^campbell-1990][^jackson-1977]。
   - id: 80
     kind: body
     source: |-
       Of course, the breadth of the challenge does not by itself tell us whether it can be met, and strict nominalists have generated a rich variety of proposals for how to do so. Below we introduce several species of strict nominalism about properties, each of which eschew commitment to qualitative natures, and then briefly note the complexity involved in pairing them with the general nominalist strategies. The objective will be to supply an introductory glimpse of the issues, rather than an exhaustive guide.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，挑战之宽泛本身并不告诉我们它能否被应对，而严格唯名论者已就此提出丰富多样的方案。下文引介几种关于属性的严格唯名论，它们都不承诺质性本性；随后简要指出把它们与一般唯名论策略配对时的复杂性。目标只是提供入门性的问题一瞥，而非穷尽的指南。
+    step2: |-
+      当然，挑战宽泛，并不等于无法应对；严格唯名论者已就此提出丰富多样的方案。下文引介几种关于属性的严格唯名论，它们都不承诺质性本性；随后简述把它们与一般唯名论策略配对时的复杂性。这里只求入门一瞥，不作穷尽指南。
   - id: 81
     kind: body
     source: |-
       Strict nominalisms about properties include *austere*, *class*, *predicate*, *concept*, *resemblance*, *metalinguistic*, *causal*, *mereological*, *reistic*, *second-order*, and *grounding* nominalism. The taxonomy of these positions is complicated, since some occupants of this theoretical space partially overlap and the relevant literature’s terminology is not uniform. The present survey is organized around the guiding question of whether the form of nominalism at hand supplies a stock of entities eligible to populate the extension of predicates like “property”, “feature”, and “attribute” although none of these views accept qualitative natures, understood as sui generis posits required to explain variety and resemblance (e.g. universals, tropes, or constructions therefrom).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于属性的严格唯名论包括*朴素*、*类*、*谓词*、*概念*、*相似*、*元语言*、*因果*、*分体论*、*事物论*、*二阶*与*奠基*唯名论。这些立场的分类颇为复杂，因为这一理论空间中的一些占据者部分重叠，相关文献的术语也不统一。本综述围绕一个指导性问题组织：眼前的唯名论形态是否提供一批实体，足以填充"属性""特征""性质"之类谓词的外延——尽管这些观点无一接受质性本性（即解释多样与相似所需的自成一类的设定，如共相、特普或由此作出的构造）。
+    step2: |-
+      关于属性的严格唯名论，有*朴素*、*类*、*谓词*、*概念*、*相似*、*元语言*、*因果*、*分体论*、*事物论*、*二阶*与*奠基*诸种。这些立场如何分类颇复杂：这一理论空间中的一些占据者部分重叠，文献术语也不统一。本综述围绕一个指导性问题组织：眼前的唯名论形态，是否提供一批足以填充"属性""特征""性质"之类谓词外延的实体——尽管这些观点无一接受质性本性（即为解释多样与相似所需、自成一类的设定，如共相、特普或由此作出的构造）。
   - id: 82
     kind: body
     source: |-
       We count five strict nominalisms as furnishing candidate members for the extension of “property”, while still eschewing qualitative natures. These are class, mereological, reistic, causal, and grounding nominalisms, respectively.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们认为有五种严格唯名论为"属性"的外延提供候选成员，同时仍不承诺质性本性。它们分别是类、分体论、事物论、因果与奠基唯名论。
+    step2: |-
+      我们认为有五种严格唯名论可为"属性"的外延提供候选成员，同时仍不承诺质性本性，即类唯名论、分体论唯名论、事物论唯名论、因果唯名论与奠基唯名论。
   - id: 83
     kind: body
     source: |-
       *Class nominalism* holds that the metaphysical structure of class membership is necessary and sufficient to explain the qualitative status of concrete particular objects, like apples and fire engines. (We assume here that “classes” and “sets” can be used interchangeably.) It says that properties are nothing more than classes of their instances, where “instances” of properties are concrete particular objects, not tropes. For example, the class nominalist holds that there is redness, but that it just is the class of red objects, or—on certain versions of the view—the class of metaphysically possible red objects (see Quinton 1957, Lewis 1983)[^lewis-1983][^quinton-1957].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *类唯名论*主张，类成员关系的形而上学结构，对于说明苹果与消防车之类具体殊相的质性地位既必要又充分。（此处假定"类"与"集合"可互换使用。）它说，属性无非是其实例的类，而属性的"实例"是具体殊相对象，不是特普。例如，类唯名论者主张有红性，但红性恰恰就是红物的类——或在某些版本中，是形而上学上可能的红物的类（见 Quinton 1957、Lewis 1983）[^lewis-1983][^quinton-1957]。
+    step2: |-
+      *类唯名论*主张：类成员关系的形而上学结构，对说明苹果、消防车之类具体殊相的质性地位既必要又充分（此处假定"类"与"集合"可互换）。它说，属性无非是其实例的类，而属性的"实例"是具体殊相对象，不是特普。例如类唯名论者承认有红性，但红性恰恰就是红物的类——或在某些版本中，是形而上学上可能的红物的类（见 Quinton 1957、Lewis 1983）[^lewis-1983][^quinton-1957]。
   - id: 84
     kind: body
     source: |-
       Other strict nominalisms focus not on classes of ordinary concrete particular objects, but on individual non-ordinary objects. According to *mereological nominalism*, properties are mereological fusions of their instances with “instances” understood as concrete particular objects, rather than tropes. On such a view, redness is the fusion of all (or all metaphysically possible (red)) stop signs, ripe strawberries, Santa suits, etc. (Zemach 1982, Effingham 2020)[^effingham-2020][^zemach-1982]. According to *reistic* *nominalism*, which is based on work by Franz Brentano, qualitative variation is metaphysically governed by spatially overlapping concrete particular objects of a much finer qualitatively classifiable grain than ordinary objects like apples (see Kriegel 2015 and the entry on reism)[^kriegel-2015]. For example, the view distinguishes the-apple-qua-red from the-apple-qua-round, and holds that the existence of the former (but not the latter) explains that the apple is red.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其他严格唯名论不聚焦于普通具体殊相对象的类，而聚焦于非普通对象个体。按*分体论唯名论*，属性是其实例的分体论融合体，而"实例"被理解为具体殊相对象，而非特普。按这种观点，红性就是一切（或一切形而上学上可能的（红））停车标志、熟草莓、圣诞老人装等等的融合体（Zemach 1982、Effingham 2020）[^effingham-2020][^zemach-1982]。按基于弗朗茨·布伦塔诺工作的*事物论唯名论*，质性变异在形而上学上受空间中相互重叠的具体殊相对象支配，这些对象在质性上可分类的粒度远比苹果之类普通对象细微（见 Kriegel 2015 与"事物论"词条）[^kriegel-2015]。例如，该观点区分"苹果之为红者"与"苹果之为圆者"，并主张前者的存在（而非后者）说明了苹果是红的。
+    step2: |-
+      其他严格唯名论不盯住普通具体殊相对象的类，而盯住非普通对象个体。按*分体论唯名论*，属性是其实例的分体论融合体，"实例"同样理解为具体殊相对象而非特普。照此，红性就是一切（或一切形而上学上可能的）红停车标志、熟草莓、圣诞老人装等等的融合体（Zemach 1982、Effingham 2020）[^effingham-2020][^zemach-1982]。按基于弗朗茨·布伦塔诺工作的*事物论唯名论*，质性变异在形而上学上由空间中相互重叠的具体殊相对象支配，而这些对象在质性上可分类的粒度远比苹果之类普通对象细微（见 Kriegel 2015 与"事物论"词条）[^kriegel-2015]。例如，该观点区分"苹果之为红者"与"苹果之为圆者"，并主张前者的存在（而非后者）说明了苹果是红的。
   - id: 85
     kind: body
     source: |-
       *Causal nominalism* is the thesis that the existence and nature of properties is determined by particular concrete objects’ causal profiles (where causal profiles are not reified in any property realist sense), as opposed to those causal profiles being somehow explained by primitive qualitative natures (Whittle 2009; see also Tugby 2013)[^tugby-2013][^whittle-2009]. Precisely what kind of entity this view takes as the extension of “property” is an interesting question. What is clear is that the identity of an arbitrary property is determined by particular concrete objects’ causal profiles.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *因果唯名论*是这样一种论旨：属性的存在与本性由特定具体对象的因果剖面决定（此处因果剖面并不按任何属性实在论意义被实体化），而非那些因果剖面以某种方式由原始的质性本性来解释（Whittle 2009；另见 Tugby 2013）[^tugby-2013][^whittle-2009]。这一观点究竟把何种实体当作"属性"的外延，是个有趣的问题。清楚的是，任一属性的同一性由特定具体对象的因果剖面决定。
+    step2: |-
+      *因果唯名论*主张：属性的存在与本性由特定具体对象的因果剖面决定（此处"因果剖面"不按任何属性实在论意义被实体化），而不是这些剖面反倒要靠原始的质性本性来解释（Whittle 2009；另见 Tugby 2013）[^tugby-2013][^whittle-2009]。这一观点究竟把何种实体当作"属性"的外延，是个有趣的问题；清楚的是，任一属性的同一性由特定具体对象的因果剖面决定。
   - id: 86
     kind: body
     source: |-
       *Grounding nominalism* bases the nominalistic project on fundamentality rather than existence, contending that properties are derivative entities grounded in comparatively-more-fundamental concrete particular individuals (see Imaguire 2018 and Schulte 2019)[^imaguire-2018][^schulte-2019]. Whether (and in what ways) the view thereby differs substantially from other forms of strict nominalism is an interesting open question. On one precisification, the relevant grounded entities just are qualitative natures, albeit non-fundamental ones, but other conceptually possible versions identify derivative properties with constructions from concrete particular objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *奠基唯名论*把唯名论方案奠基于基础性而非存在，主张属性是派生的实体，奠基于相对更基础的具体殊相个体（见 Imaguire 2018 与 Schulte 2019）[^imaguire-2018][^schulte-2019]。该观点是否（以及在哪些方面）因此与其他严格唯名论形态实质不同，是个有趣的未决问题。按一种精确化，相关被奠基的实体恰恰就是质性本性，只不过是非基础的；但其他概念上可能的版本则把派生属性等同于由具体殊相对象作出的构造。
+    step2: |-
+      *奠基唯名论*把唯名论方案奠基于基础性而非存在，主张属性是派生的实体，奠基于相对更基础的具体殊相个体（见 Imaguire 2018、Schulte 2019）[^imaguire-2018][^schulte-2019]。该观点是否（以及以何种方式）因此与其他严格唯名论实质不同，是个有趣的未决问题。按一种精确化，相关被奠基的实体恰恰就是质性本性，只不过非基础；而另一些概念上可能的版本，则把派生属性等同于由具体殊相对象作出的构造。
   - id: 87
     kind: body
     source: |-
       Among those versions of strict nominalism that do not posit entities that serve as the extension of “property” and similar predicates are austere, predicate, concept, and metalinguistic nominalisms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在那些不设定充当"属性"之类谓词外延的实体的严格唯名论版本中，有朴素、谓词、概念与元语言唯名论。
+    step2: |-
+      在那些不设定实体的严格唯名论版本中——即不设定充当"属性"之类谓词外延的实体——有朴素唯名论、谓词唯名论、概念唯名论与元语言唯名论。
   - id: 88
     kind: body
     source: |-
       The key idea behind *austere nominalism*—sometimes called ‘ostrich’ nominalism (originally a pejorative jab by Armstrong 1978)[^armstrong-1978]—is that no underlying metaphysical structure is needed in order to explain that individuals are qualitatively classifiable, for example, that a stop sign or an apple is red, or that both are (equally) red (see Quine 1948, Devitt 1980, Van Cleve 1994, Parsons 1999, Imaguire 2014)[^devitt-1980][^imaguire-2014][^parsons-1999][^quine-1948][^van-1994]. In the standard austere case, this is in part because no metaphysical explanation whatsoever of qualitative classification is thought to be needed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *朴素唯名论*（有时称"鸵鸟式"唯名论，原为阿姆斯特朗 1978 的贬语）[^armstrong-1978] 的核心想法是：要说明个体在质性上可分类——例如停车标志或苹果是红的，或二者（同等程度地）是红的——并不需要什么底层的形而上学结构（见 Quine 1948、Devitt 1980、Van Cleve 1994、Parsons 1999、Imaguire 2014）[^devitt-1980][^imaguire-2014][^parsons-1999][^quine-1948][^van-1994]。在标准的朴素情形中，这在一定程度上是因为人们认为，质性分类根本不需要任何形而上学解释。
+    step2: |-
+      *朴素唯名论*（有时称"鸵鸟式"唯名论，原是阿姆斯特朗 1978 的贬语）[^armstrong-1978] 的核心想法是：要说明个体在质性上可分类——比如停车标志或苹果是红的，或二者（同等程度地）都是红的——并不需要什么底层的形而上学结构（见 Quine 1948、Devitt 1980、Van Cleve 1994、Parsons 1999、Imaguire 2014）[^devitt-1980][^imaguire-2014][^parsons-1999][^quine-1948][^van-1994]。在标准的朴素情形里，部分原因在于：人们认为质性分类根本不需要任何形而上学解释。
   - id: 89
     kind: body
     source: |-
       *Predicate* and *concept nominalism* assert that objects warrant qualitative classification just in case—and *because*—certain predicates or concepts, respectively, apply to them, where the relevant application conditions do not invoke any mind-independent entities that might play the role of a “property” (Searle 1969)[^searle-1969]. The chief difference between these two versions of nominalism is that predicates are linguistic while concepts are mental. But both versions are typically taken to treat the metaphysics of properties as a mind-dependent issue, since predicates and concepts are both mind-dependent. (Note: Searle (1969) says that there *are* properties; however, he treats this as equivalent to holding that predicates have meanings.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *谓词*与*概念唯名论*分别断言：对象之所以在质性上可分类，当且仅当——且*因为*——某些谓词或概念适用于它们；而相关适用条件并不援引任何可能充当"属性"角色的心灵独立实体（Searle 1969）[^searle-1969]。这两种唯名论的主要差别在于：谓词是语言的，概念是心理的。但两种版本通常都被视为把属性的形而上学当作一个依赖心灵的问题，因为谓词与概念都依赖心灵。（注：Searle（1969）说*有*属性；不过他视此等同于主张谓词有意义。）
+    step2: |-
+      *谓词唯名论*与*概念唯名论*分别主张：对象之所以在质性上可分类，当且仅当——且*因为*——某些谓词或概念适用于它们，而相关适用条件不援引任何可能充当"属性"角色的心灵独立实体（Searle 1969）[^searle-1969]。二者要别在于：谓词是语言的，概念是心理的。不过两者通常都被视为把属性形而上学当作依赖心灵之事，因为谓词与概念都依赖心灵。（注：Searle（1969）说*有*属性，但他把这句话等同于"谓词有意义"。）
   - id: 90
     kind: body
     source: |-
       *Metalinguistic nominalism* (here following the terminology of Loux 2002)[^loux-2002] says that discourse seeming to refer to properties is best construed metalinguistically, as being about language itself (Carnap 1934, Sellars 1963)[^carnap-1934][^sellars-1963]. Roughly, an utterance of ‘the apple is red’ says not that the apple has some non-linguistic qualitative status, but rather that it (or perhaps the description ‘the apple’) is related in a certain way to the predicate ‘red.’ One useful upshot is an interesting paraphrase scheme for higher-order talk of properties, whereby, for example, ‘red is a color’ becomes a claim about ‘red’ being a color predicate. Predicate nominalism and metalinguistic nominalism overlap in certain ways, and the former can potentially be construed as a species of the latter although versions of these views (e.g. Searle 1969 and Sellars 1963)[^searle-1969][^sellars-1963] differ in significant details.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *元语言唯名论*（此处沿用 Loux 2002 的术语）[^loux-2002] 主张，看似指称属性的话语最好作元语言理解，即理解为关于语言本身的谈论（Carnap 1934、Sellars 1963）[^carnap-1934][^sellars-1963]。大致说，说出"苹果是红的"，并非说苹果具有某种非语言的质性地位，而是说它（或也许说"苹果"这一描述）与"红"这一谓词以某种方式相联系。一个有用的后果是：关于属性的高阶谈论获得了一种有趣的改述方案——例如"红是一种颜色"变成关于"红"是颜色谓词的主张。谓词唯名论与元语言唯名论在某些方面重叠，前者可能被解释为后者的一支，尽管这些观点（例如 Searle 1969 与 Sellars 1963）[^searle-1969][^sellars-1963] 在重要细节上不同。
+    step2: |-
+      *元语言唯名论*（此处沿用 Loux 2002 的术语）[^loux-2002] 主张：看似指称属性的话语，最好作元语言理解，即理解为关于语言本身的谈论（Carnap 1934、Sellars 1963）[^carnap-1934][^sellars-1963]。大致说，说出"苹果是红的"，并非说苹果具有某种非语言的质性地位，而是说它（或"苹果"这一描述）与谓词"红"以某种方式相联。由此得到一个有用的结果：关于属性的高阶谈论有了一种巧妙的改述方案——"红是一种颜色"变成关于"红"是颜色谓词的主张。谓词唯名论与元语言唯名论在某些方面重叠，前者可能被解为后者的一支；不过这些观点（例如 Searle 1969、Sellars 1963）[^searle-1969][^sellars-1963] 在重要细节上并不相同。
   - id: 91
     kind: body
     source: |-
       Resemblance and second-order nominalism are more complicated with respect to whether they provide entities as semantic values of “property.” Resemblance nominalism says that qualitative classification is governed by primitive resemblance facts (even if there is, strictly speaking, no resemblance relation), rather than resemblance being explanatorily dependent on qualitative natures (Rodriguez-Pereyra 2002)[^rodriguez-pereyra-2002]. Thus the view can be developed to allow for entities that fall under the extension of “property”, namely, classes of concrete particular objects that satisfy the relevant resemblance conditions. Alternatively, since the view makes no special theoretical appeal to such classes, it can also be developed to eschew properties and “property” talk entirely.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相似唯名论与二阶唯名论，就它们是否提供实体充当"属性"的语义值而言，情况较为复杂。相似唯名论主张，质性分类由原始的相似事实支配（即便严格说来并无相似关系），而非相似在解释上依赖于质性本性（Rodriguez-Pereyra 2002）[^rodriguez-pereyra-2002]。因此，这一观点可以被发展成容许有实体落入"属性"的外延，即满足相关相似条件的诸具体殊相对象的类。另一方面，由于该观点并未专门在理论上诉诸这类类，它也可以被发展成完全弃绝属性与"属性"谈论。
+    step2: |-
+      相似唯名论与二阶唯名论的情况较复杂，要看它们是否提供实体充当"属性"的语义值。相似唯名论主张：质性分类由原始的相似事实支配（即便严格说来并无相似关系），而不是相似在解释上依赖质性本性（Rodriguez-Pereyra 2002）[^rodriguez-pereyra-2002]。因此，该观点可以发展成容许有实体落入"属性"的外延——即满足相关相似条件的诸具体殊相对象的类；另一方面，由于它在理论上并不专门诉诸这类类，也可以发展成完全弃绝属性及"属性"谈论。
   - id: 92
     kind: body
     source: |-
       Finally, second-order nominalism treats predication as its central concern in the metaphysics of properties and examines it through the lens of second-order quantification into predicate position (Jones 2018, Trueman 2020)[^jones-2018][^trueman-2020]. (Note: “is” takes its predicative use in locutions like “*x* is F” throughout this paragraph.) Second-order nominalism says that if some first-order individual *x* is F (for some predicate “F”), then there is something Y, in the second-order sense of “there is”, such that: (i) *x* is Y, and (ii) whenever any first order individual *z* is Y, *z* is F (Jones 2018)[^jones-2018]. The view is a version of strict nominalism insofar as it eschews qualitative natures, but it may be considered a kind of “nominalist realism”, following Jones 2018, depending on how one reads the existential commitments of second-order quantifiers. It may also count as allowing entities eligible to populate the extensions of some “property”-like higher-order predicates. It is a further question whether any such predicate may be more (or less) metaphysically perspicuous than English predicates like “property” and “attribute.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，二阶唯名论把谓述视为属性形而上学的核心关切，并通过向谓词位置的二阶量化来考察它（Jones 2018、Trueman 2020）[^jones-2018][^trueman-2020]。（注：本段中"是"在"*x* 是 F"之类说法里取其谓述用法。）二阶唯名论主张：若某一级个体 *x* 是 F（对某谓词"F"而言），则按"有"的二阶意义，有某物 Y，使得：(i) *x* 是 Y；且 (ii) 任何一级个体 *z* 若是 Y，则 *z* 是 F（Jones 2018）[^jones-2018]。该观点不承诺质性本性，故属严格唯名论之一版本；但按 Jones 2018 的说法，视人如何解读二阶量词的存在承诺，它也可被视为一种"唯名论实在论"。它也可能算作容许有实体去填充某些类"属性"的高阶谓词外延。至于这类谓词是否可能比"属性""性质"之类英语谓词在形而上学上更（或更不）明晰，则是另一个问题。
+    step2: |-
+      最后，二阶唯名论把谓述当作属性形而上学的核心关切，并通过向谓词位置作二阶量化来考察（Jones 2018、Trueman 2020）[^jones-2018][^trueman-2020]。（注：本段中"是"在"*x* 是 F"之类说法里取谓述用法。）二阶唯名论主张：若某一级个体 *x* 是 F（对某谓词"F"而言），则按"有"的二阶意义，有某物 Y，使得 (i) *x* 是 Y，(ii) 任何一级个体 *z* 若是 Y，则 *z* 是 F（Jones 2018）[^jones-2018]。该观点不承诺质性本性，故属严格唯名论；但按 Jones 2018 的说法，视人如何解读二阶量词的存在承诺，它也可算一种"唯名论实在论"。它或许也容许有实体填充某些类"属性"的高阶谓词外延。至于这类谓词是否比"属性""性质"之类英语谓词在形而上学上更（或更不）明晰，另当别论。
   - id: 93
     kind: body
     source: |-
       As the above survey indicates, the emphasis and details of general nominalist strategies and property-specific versions of nominalism can vary substantially. Assessing the relationships between these kinds of views remains an area of significant further study for nominalists. It is tempting, for instance, to view strict nominalist theories which offer extensions for “property” like classes or mereological sums as well-positioned to pursue the “replacement” of discourse apparently about qualitative natures in ontologically leaner terms. Alternatively, more radical versions of strict nominalism, according to which there are no entities within the extension of “property”, may be easier to reconcile with general nominalist strategies on which much of our qualitative discourse is non-literal or figurative in character. We should be careful not to assume that these positions line up so conveniently, however. Quine, for example, was certainly not a fictionalist, figuralist, or non-cognitivist about qualitative predication, despite being the leading austere nominalist (Quine 1980)[^quine-1980]. Among other things, the prospects for any such views will depend on the posited connections and affinities between the theoretical roles claimed for properties and other putative abstracta like propositions. (On unified conceptions of abstracta, see Zalta 1983 and Fine 1977.)[^fine-1977][^zalta-1983]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上综述所示，一般唯名论策略与专就属性而发的唯名论版本，其侧重与细节可能大不相同。评估这些观点之间的关系，仍是唯名论者需要大量进一步研究的领域。例如，人们容易认为：那些为"属性"提供类或分体论总和之类外延的严格唯名论理论，更有条件以本体论上更精简的术语去"替换"表面关于质性本性的谈论。另一方面，更激进的严格唯名论版本——按之"属性"外延中无任何实体——或许更容易与那些认为我们大量质性谈论在性格上非字面或比喻性的一般唯名论策略相调和。然而，我们不应假定这些立场会如此方便地一一对应。例如，蒯因固然是首屈一指的朴素唯名论者，却肯定不是关于质性谓述的虚构主义者、比喻主义者或非认知主义者（Quine 1980）[^quine-1980]。除其他因素外，任何这类观点的前景，都将取决于为属性所主张的理论角色与命题之类其他被认为抽象物之间被设定的联系与亲缘。（关于抽象物的统一构想，见 Zalta 1983 与 Fine 1977。）[^fine-1977][^zalta-1983]
+    step2: |-
+      如上综述所示，一般唯名论策略与专就属性而发的版本，其侧重与细节可能相去甚远。评估这些观点之间的关系，仍是唯名论者需要大量进一步研究的领域。例如，人们容易认为：为"属性"提供类或分体论总和之类外延的严格唯名论，更有条件以本体论上更精简的术语"替换"表面关于质性本性的谈论；反之，更激进的版本——按之"属性"外延中空无一物——或许更易与那些认为大量质性谈论非字面或比喻性的一般策略相调和。但切莫假定这些立场会如此方便地一一对应。蒯因就是显例：他是首屈一指的朴素唯名论者，却肯定不是关于质性谓述的虚构主义者、比喻主义者或非认知主义者（Quine 1980）[^quine-1980]。何况，任何这类观点的前景，都取决于为属性所主张的理论角色与命题之类其他被认为抽象物之间被设定的联系与亲缘。（关于抽象物的统一构想，见 Zalta 1983、Fine 1977。）[^fine-1977][^zalta-1983]
   - id: 94
     kind: body
     source: |-
       On the flipside, we should also exercise caution before simply assuming that, say, class or mereological nominalists cannot be or ought not to be, say, fictionalists or figuralists about property discourse. While to our knowledge actual class and mereological nominalists *do* take talk of “properties” literally to be about classes or fusions of objects, one could develop a version of those metaphysical theses that treated classes or fusions, respectively, rather like fictionalists might treat the concrete materials constitutive of tokens of novels or films—the pages and the celluloid. On this imagined view, property discourse is fictional, and the pertinent materials we distinctively interact with in learning and engaging in the fiction are classes (or fusions) of concrete individual objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反过来说，我们也应谨防径直假定：比如说，类唯名论者或分体论唯名论者不能、或不应成为关于属性话语的虚构主义者或比喻主义者。据我们所知，实际的类唯名论者与分体论唯名论者*确实*把"属性"谈论按字面理解为关于对象的类或融合体；但人们可以发展出这些形而上学论旨的一种版本，把类或融合体分别看得有点像虚构主义者看待构成小说或电影个例的具体材料——纸页与胶片。按这一想象的观点，属性话语是虚构的，而我们在学习、参与该虚构时所独特互动的相关材料，就是具体个体对象的类（或融合体）。
+    step2: |-
+      反过来说，也要谨防径直假定：类唯名论者或分体论唯名论者不能、或不该成为关于属性话语的虚构主义者或比喻主义者。据我们所知，实际的类唯名论者与分体论唯名论者*确实*把"属性"谈论按字面理解为关于对象的类或融合体；但不妨设想这些论旨的一种版本：它把类或融合体分别看得有点像虚构主义者看待构成小说、电影个例的具体材料——纸页与胶片。按这一想象的观点，属性话语是虚构的，而我们在学习、参与该虚构时所独特打交道的相关材料，正是具体个体对象的类（或融合体）。
   - id: 95
     kind: oir
     source: |-
       - Rodriguez-Pereyra, Gonzalo, “Nominalism in Metaphysics”, *Stanford Encyclopedia of Philosophy* (Spring 2025 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/spr2025/entries/nominalism-metaphysics/](https://plato.stanford.edu/archives/spr2025/entries/nominalism-metaphysics/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nominalism-metaphysics).]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Rodriguez-Pereyra, Gonzalo，"唯名论（形而上学中的）"，*《斯坦福哲学百科全书》*（2025 年春季版），Edward N. Zalta 与 Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/spr2025/entries/nominalism-metaphysics/](https://plato.stanford.edu/archives/spr2025/entries/nominalism-metaphysics/)>。[这是《斯坦福哲学百科全书》此前关于本主题的词条——见[版本沿革](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nominalism-metaphysics)。]
+    step2: |-
+      - Rodriguez-Pereyra, Gonzalo，"唯名论（形而上学中的）"，*《斯坦福哲学百科全书》*（2025 年春季版），Edward N. Zalta 与 Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/spr2025/entries/nominalism-metaphysics/](https://plato.stanford.edu/archives/spr2025/entries/nominalism-metaphysics/)>。[这是《斯坦福哲学百科全书》此前关于本主题的词条——见[版本沿革](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nominalism-metaphysics)。]
   - id: 96
     kind: ack
     source: |-
       The authors would like to thank Ben Caplan and an anonymous reviewer for their helpful comments. This entry replaces a previous entry by Gonzalo Rodriguez-Pereyra. The authors gratefully acknowledge Dr. Rodriguez-Pereyra’s support and have used his entry as an instructive guide for compiling the present version.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作者谨向 Ben Caplan 与一位匿名评审致谢，感谢其有益评论。本词条取代 Gonzalo Rodriguez-Pereyra 此前所撰词条。作者深表感谢 Rodriguez-Pereyra 博士的支持，并在编纂本版时以其词条为富于教益的指南。
+    step2: |-
+      作者感谢 Ben Caplan 与一位匿名评审的有益评论。本词条取代 Gonzalo Rodriguez-Pereyra 先前所撰词条；作者对其支持深表感谢，并称在编纂本版时以其词条为富于教益的指南。
