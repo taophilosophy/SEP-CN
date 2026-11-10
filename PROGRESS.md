@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 16:56（UTC）
+生成时间：2026-11-10 18:13（UTC）
 
 ## 总览
 
@@ -12,25 +12,25 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1176|
+|已建任务|1177|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|297|
-|在途（drafted 起、done 前）|212|
+|已完成（done）|299|
+|在途（drafted 起、done 前）|209|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|667|
-|cleared|149|
+|pending|669|
+|cleared|146|
 |drafted|2|
 |s1_checked|1|
 |s2_checked|1|
 |s3_checked|55|
 |r1_reviewed|3|
 |r2_reviewed|1|
-|done|297|
+|done|299|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -42,16 +42,16 @@
 |D|92|92|92|14|
 |E|99|99|99|19|
 |F|96|96|96|1|
-|G|49|49|49|8|
+|G|49|49|49|9|
 |H|61|61|61|13|
 |I|75|75|75|25|
 |J|38|38|38|7|
 |K|36|36|36|21|
-|L|144|144|30|29|
+|L|144|144|30|30|
 |M|139|139|14|7|
 |N|50|50|8|6|
 |O|21|21|11|8|
-|P|165|165|11|8|
+|P|165|165|12|8|
 |Q|34|34|34|2|
 |R|85|85|85|9|
 |S|161|161|18|16|
@@ -176,7 +176,6 @@
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
-|gregory-rimini|retranslate|cleared|task_ops 2026-11-10|
 |haecceitism|retranslate|cleared|task_ops 2026-11-01|
 |halevi|retranslate|cleared|task_ops 2026-11-01|
 |hamann|retranslate|cleared|task_ops 2026-11-01|
@@ -254,7 +253,6 @@
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|s3_checked|K-main-20261110 2026-11-09|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|logic-substructural|retranslate|s3_checked|L-main-20261109c 2026-11-10|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
@@ -265,9 +263,8 @@
 |nietzsche-aesthetics|retranslate|cleared|task_ops 2026-11-10|
 |omnipresence|retranslate|s3_checked|O3-main-20261110 2026-11-10|
 |omniscience|retranslate|s3_checked|O3-main-20261110 2026-11-10|
-|ontology-is|retranslate|cleared|task_ops 2026-11-10|
 |qm|retranslate|cleared|task_ops 2026-11-10|
-|reflective-equilibrium|retranslate|cleared|task_ops 2026-11-10|
+|reflective-equilibrium|retranslate|s3_checked|R-main-20261110 2026-11-10|
 |religion-epistemology|retranslate|s3_checked|R-main-20261110 2026-11-10|
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|

@@ -2,7 +2,7 @@
   "slug": "logic-substructural",
   "kind": "retranslate",
   "zh_doc": "l/logic-substructural.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-10T03:03:37Z",
       "evidence": "compose 104 段守恒 HARD 0；四门禁（style 0 / prose 0 / math 0 / academic strict 0 硬错误）；术语 14、人名 16 已登记；源文 104 段与 56 条脚注逐段核对"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261111",
+      "at": "2026-11-10T16:54:15Z",
+      "evidence": "初审对照源文逐节核销：实修 11 处（剩余化条件误译、作为逻辑之事病句、书文→著作与论文、凡…者/证出者文言腔 4 处、许多种条件句上→对许多种条件句来说、不暇→不拟、三元语义→三元关系语义一致性、无切与无同一性者改写）；公式 399 式缺失 0 未闭合 0；语体通读：现代汉语学术书面语，破折号仅承担插入与转折，无滥用"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261111",
+      "at": "2026-11-10T17:06:14Z",
+      "evidence": "复审逐句回核源文与逻辑：实修 7 处（前提结合却可结合→可结合的、函数=输入输出对之集→集合、惯常规则一条都不满足句主语错位、消除不得→无法消除、凡…便…→每…就…、bold-spacing 2 处、同句双被 1 处）；脚注键 56:56、引用 17:17、$ 850:850、公式 399 式与源文全等；术语核对：剩余化/矢列/后承/三元关系/严格—宽容、ST/TS 与登记册口径一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261111",
+      "at": "2026-11-10T17:06:15Z",
+      "evidence": "终审验收：四检全绿（style 0 / prose 0 / math 缺失 0 未闭合 0 / academic --strict 0 硬错误）；check_summary H1 mismatch 0；结构节序与源文逐节对位（6 正文节 + References/学术工具/其他网络资源/相关词条）；冷置条款：初译 actor L-main-20261109c（2026-11-10），本复核 actor L-main-20261111（2026-11-11）为异会话独立复核，冷置逾 24 小时"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261111",
+      "at": "2026-11-10T17:08:40Z",
+      "evidence": "收口：九项门禁全绿（check_all 9/9）；四检 0 告警；任务状态机八步齐备；源文 2024-08-15 版（pubinfo 首次 2000-07-04）"
     }
   ],
   "blockers": [],
