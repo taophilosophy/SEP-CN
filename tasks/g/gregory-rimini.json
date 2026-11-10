@@ -2,7 +2,7 @@
   "slug": "gregory-rimini",
   "kind": "retranslate",
   "zh_doc": "g/gregory-rimini.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "G2-main-20261110",
       "at": "2026-11-10T17:17:53Z",
       "evidence": "s3 四检：check_style --strict 0（3 处 CJK 斜体已转粗体并补半角空格）、check_academic --strict 0 硬错、check_math 0/0、check_prose 8 条引文与专名豁免留痕；check_all 九项全绿（含本次修正 ADR-0032/术语册直角引号）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "G2-main-20261110",
+      "at": "2026-11-10T17:35:22Z",
+      "evidence": "r1 结构与完整性：正文 59 块 1:1（译侧多 1 块为 ## 脚注 独立节）、标题 9/9 编号去点、年份序列 235:235 全等、marker 顺序全等（译侧 +note-nd 定义）、defs 66:66 键集全等、引用注释型子标题 Primary/Secondary 保留、尾节序 脚注→参考文献→学术工具(4 行)→其他网络资源→相关词条→致谢；无重复行/控制字符/直引号"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "G2-main-20261110",
+      "at": "2026-11-10T17:35:22Z",
+      "evidence": "r2 术语与人名：正文术语逐一比对登记册（预定/弃绝/二值原则/复合可意谓者/直观认知/抽象认知/事态/连续体/形式的增强与减弱/自由论题/高利贷/恩典障碍/共同意见/依假设必然性/格里高利之道/可敬的开端者/历史-批判方法/论辩问题/救恩论/自然最小体），异形零（奥雷奥尔/沃德姆/腓茨拉尔夫 各 0 处）；新登记术语 21 行、人名 14 行（Suárez 由并行会话并入既有行）；正文拉丁人名全部在册，未登记候选仅为书目题名"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "G2-main-20261110",
+      "at": "2026-11-10T17:35:23Z",
+      "evidence": "r3 语言终读：通读 222 行，精修 3 处（过去在某种强意义上/心灵言说/论辩问题句式），重跑守恒门与四检：style 0、academic 0 硬错、math 0/0、prose 8 条（引文内与专名列举，ADR-0020 豁免留痕）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "G2-main-20261110",
+      "at": "2026-11-10T17:35:23Z",
+      "evidence": "全周期收口：账本 62 段双版守恒、compose 31931 字符、四检+r1 结构对账+r2 术语人名+r3 终读齐备；G 批 done 8→9"
     }
   ],
   "blockers": [],
