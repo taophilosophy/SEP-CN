@@ -4360,7 +4360,7 @@
 | substitution instance | — | 替换实例 | logic-preference | 数理逻辑通行（本册 substitution rule 代入规则为另一术语） | 2026-11-08 |
 | substitution of similars | — | 相似替换 | 首现（william-jevons） | 学界惯例（Jevons 逻辑口号，汉语逻辑史通行）；凭证 2026-11-07 | 2026-11-07 |
 | substitution rule | — | 代入规则 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
-| substitutional load | — | 替换负荷 | ecological-genetics 首译 | Haldane“自然选择的代价”之别称；学界通行译名（群体遗传学文献）；凭证 2026-11-10 | 2026-11-10 |
+| substitutional load | — | 置换负荷（亦作“替换负荷”） | ecological-genetics 首译 | 审定名词库（termonline-all·遗传学名词，2026-11-11 浏览器通道凭证）；Haldane“自然选择的代价”之别称 | 2026-11-11 |
 | substratum | — | 基质 | object 首译 | 学界通行汉译（基质理论）；凭证 2026-11-07 | 2026-11-07 |
 | substructural logic | — | 子结构逻辑 | logic-linear | 逻辑学通行译法；凭证 2026-11-10 | 2026-11-09 |
 | subvariety | — | 子簇 | logic-fuzzy | 泛代数通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -4485,7 +4485,7 @@
 | Tattvacintāmaṇi | तत्त्वचिन्तामणि | 《真理思择摩尼》 | early-modern-india | 源文英文自题 Jewel of Reflection on the Truth 义译（cintāmaṇi=摩尼/如意宝）；凭证 2026-11-10 | 2026-11-10 |
 | Tattvôpaplava-siṁha | — | 《谛坏狮子论》 | jayaraasi | 本库自拟书名（tattva 谛、upaplava 坏灭、siṁha 狮子）；梵文原题随文括注 | 2026-11-07 |
 | Täuschung | Täuschung | 错觉 | landmann-kalischer | 心理学通行（含“迷惑”义；optical illusion=视错觉） | 2026-11-04 |
-| tautology | — | 同义反复 | logic-relevance；biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| tautology | — | 重言式（亦作“同义反复”） | logic-relevance；biology-philosophy 首译 | 审定名词库（termonline-all·数学/信息科学技术名词，2026-11-11 浏览器通道凭证）；逻辑学通行（正文 45 处用重言式） | 2026-11-11 |
 | tawḥīd | توحيد | 认主独一（讨黑德） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | taxon | — | 分类单元 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | taxonomy | — | 分类系统 | cancer | 学界通行（生物学哲学；本条作“统一的分类系统”义）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -4494,7 +4494,7 @@
 | tea ceremony | — | 茶道仪式（茶会；日常语境亦作“茶道”） | japanese-aesthetics | 学界惯例（日本文化研究通行译法“茶道”） | 2026-11-02 |
 | technê | τέχνη | 技艺（亦作“技术”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | technē | τέχνη | 技艺 | knowledge-how | 古希腊哲学通行译法（柏拉图／亚里士多德）；凭证 2026-11-10 | 2026-11-10 |
-| technical object | — | 技术物 | model-organisms 首译 | 本词条术语（Rheinberger 的 technical object）；凭证 2026-11-09 | 2026-11-09 |
+| technical object | — | 技术物 | model-organisms 首译 | 与「认知物」对举的术语（Rheinberger 认知物/技术物）；审定名词库作“技术客体”（自然辩证法名词，2026-11-11 凭证），对举体例保留现译 | 2026-11-11 |
 | technological transparency paradox | — | 技术透明性悖论 | 首现（it-moral-values） | 首译（Vallor 2016）；凭证 2026-11-10 | 2026-11-10 |
 | tekmairesthai | τεκμαίρεσθαι | 凭征象推断 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
 | teleological explanation | — | 目的论说明 | aristotle-causality 首译 | 亚里士多德研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -4581,7 +4581,7 @@
 | tiaoli | 條理 | 条理 | dai-zhen | 上游自带汉字；戴震术语（英 good order）；凭证 2026-11-07 | 2026-11-07 |
 | tie-breaking rule | — | 决胜规则 | belief-merging | 学界通行（社会选择理论）；凭证 2026-11-10 | 2026-11-10 |
 | timbral sonicist | — | 音色声音论者 | music | Dodd 术语（timbral sonicist）；凭证 2026-11-09 | 2026-11-09 |
-| time dilation | — | 时间膨胀 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
+| time dilation | — | 时间延缓（亦作“时间膨胀”） | spacetime-convensimul | 审定名词库（termonline-all·物理学名词，2026-11-11 浏览器通道凭证）；相对论通行 | 2026-11-11 |
 | time-orthogonal coordinates | — | 时间正交坐标 | spacetime-convensimul | 构词直译 | 2026-11-06 |
 | timeless eternity | — | 超时间的永恒 | petitionary-prayer | 学界通行译法（与 temporal eternity 对举；沿语料“超时间”既定形）；凭证 2026-11-09 | 2026-11-09 |
 | timelike trajectory | — | 类时轨迹 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |

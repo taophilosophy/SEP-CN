@@ -455,6 +455,23 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   **先全量扫描、脏则零写入**，并新增「rebase/merge 进行中拒绝执行」硬门。终次执行在变基收尾后完成。
   （改形内容后被并行会话「暂存」提交 `da5b57558` 收编，`git log -1 -- <文件>` 核实在库，按「收编即放行」处置。）
 
+### 八、第五批增量裁定（offset 2308–2380，24 条）
+
+* 审计刷新：一致 585 / 不一致 398 / 查无 2136 / 未查证 5643；新增不一致 24 条（全部 t–s 交界区段）。
+* **主译变更 3 条**：
+  * tautology「同义反复」→「重言式」（审定·数学/信息科技；逻辑学正条，正文 45 处本就用重言式，旧形降为亦作，仅改登记册——
+    正文 7 处「同义反复」均为修辞义，不动）；
+  * substitutional load「替换负荷」→「置换负荷」（审定·遗传学；`e/ecological-genetics.md` 看齐）；
+  * time dilation「时间膨胀」→「时间延缓」（审定·物理学；`s/spacetime-convensimul.transport-clocks.md` 看齐）。
+* **保留 21 条**，归类：
+  * 跨学科同名/假阳性：substitution rule（化工「取代法则」）、substratum（农学/语言学）、superimposition（物理学「叠置」，
+    本条佛学 samāropa「增益」）、surjection、survivals、synchronic、temporal reflection、The Elements、the First、the Good、
+    theory of play（教育学「游戏理论」异义）、theory theory、test (program)、taḥlīl / taʾwīl / taʿārīf（维基垃圾命中）。
+  * 义项不同／对举体例：taxonomy（本条作「分类系统」义，审定「分类学」为学科名）、technical object（与「认知物」对举，
+    审定「技术客体」为通名，保留「技术物」）、surrogacy / surrogate（哲学科学模型义≠生殖医学「代孕」）。
+  * 学科定名差异：substructural logic（审定·计算机作「亚结构逻辑」，逻辑学界通行「子结构逻辑」，本条出处 logic-linear）。
+
+
 
 
 
