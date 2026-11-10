@@ -1,0 +1,54 @@
+{
+ "key": "ultrafilter",
+ "term": "ultrafilter",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:36:29+00:00",
+ "status": "ok",
+ "note": "variant=ultrafilter; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "超滤器",
+   "en": "ultrafilter",
+   "code": "11.0034",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_分离纯化技术_分散与简单分离"
+  },
+  {
+   "cn": "超滤机",
+   "en": "ultrafilter",
+   "code": "03.741",
+   "standard": "化学工程名词",
+   "subject": "化学工程_传递过程与单元操作_固体过程_固液分离（化工）"
+  },
+  {
+   "cn": "超滤子",
+   "en": "ultrafilter",
+   "code": "03.0231",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_序·格·一般数学系统"
+  },
+  {
+   "cn": "超滤机",
+   "en": "ultrafilter",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "超滤器",
+   "en": "ultrafilter",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "超滤器",
+   "en": "ultrafilter",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

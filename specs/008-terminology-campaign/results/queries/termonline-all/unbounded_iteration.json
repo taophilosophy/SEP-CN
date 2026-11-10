@@ -1,0 +1,348 @@
+{
+ "key": "unbounded iteration",
+ "term": "unbounded iteration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:40:59+00:00",
+ "status": "ok",
+ "note": "variant=unbounded iteration; 审定公布名词库=1656; 海峡两岸名词对照库=506; 其他来源数据库=69; 预公布名词数据库=104; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "无界空间",
+   "en": "unbounded space",
+   "code": "03.0694",
+   "standard": "物理学名词",
+   "subject": "物理学_电磁学"
+  },
+  {
+   "cn": "径向无界",
+   "en": "radially unbounded",
+   "code": "06.0148",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_常微分方程"
+  },
+  {
+   "cn": "无界滞量",
+   "en": "unbounded lag",
+   "code": "06.0212",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_动力系统（数学）"
+  },
+  {
+   "cn": "无界解",
+   "en": "unbounded solution",
+   "code": "06.0231",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_偏微分方程"
+  },
+  {
+   "cn": "非束缚态",
+   "en": "unbound state",
+   "code": "1.236",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核物理_核结构类"
+  },
+  {
+   "cn": "非结合水分",
+   "en": "unbound water",
+   "code": "3.0962",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_干燥设备"
+  },
+  {
+   "cn": "未装订期刊",
+   "en": "unbound periodical",
+   "code": "03.435",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_采访"
+  },
+  {
+   "cn": "非束缚电子",
+   "en": "unbound electron",
+   "code": "08.1268",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_固体及其性质"
+  },
+  {
+   "cn": "自由态分子对接",
+   "en": "unbound docking",
+   "code": "06.204",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物信息学_药物分子设计"
+  },
+  {
+   "cn": "迭代",
+   "en": "iteration",
+   "code": "01.0528",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "迭代",
+   "en": "iteration",
+   "code": "06.0552",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "迭代",
+   "en": "iteration",
+   "code": "14.231",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天器结构强度与航天环境工程"
+  },
+  {
+   "cn": "非结合水分",
+   "en": "unbound water",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "迭代",
+   "en": "iteration",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "迭代",
+   "en": "iteration",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "迭代法",
+   "en": "iterative method",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "迭代法",
+   "en": "iterative method",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "迭代法",
+   "en": "iterative method",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "迭代法",
+   "en": "iterative method",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "迭代过程",
+   "en": "iterative procedure",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "迭代搜索",
+   "en": "iterative search",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "选代算法",
+   "en": "iterative algorithm",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "重复阻抗，累接阻抗",
+   "en": "iterative impedance",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "迭代改进",
+   "en": "iterate improvement",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "无界零售",
+   "en": "unbounded retail",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "迭代",
+   "en": "iteration",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "迭代法",
+   "en": "Iterative Method",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "迭代法",
+   "en": "iterative method",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "迭代升级",
+   "en": "iterative upgrade",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "迭代器模式",
+   "en": "iterator pattern",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "滴定",
+   "en": "titration",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "滴定曲线",
+   "en": "titration curve",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "运算",
+   "en": "nullary operation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多感官交互",
+   "en": "multisensory interaction",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "多模态交互",
+   "en": "multimodal interaction",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语音交互",
+   "en": "voice interaction",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "有限理性",
+   "en": "bounded rationality",
+   "code": "15.1.7",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_危害健康行为经济学_危害健康行为"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "code": "3.13.4.27",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴"
+  },
+  {
+   "cn": "民族交往交流交融",
+   "en": "interaction, exchange, and integration among all ethnic groups",
+   "code": "2.0127",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_马克思主义民族理论中国化"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "code": "1.2.19.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_灭菌"
+  },
+  {
+   "cn": "滴定法",
+   "en": "titration method",
+   "code": "6.1.12",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "交互效应",
+   "en": "interaction effect",
+   "code": "1.2.5.96",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "社会整合",
+   "en": "social integration",
+   "code": "2.1.5.18",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会生活"
+  },
+  {
+   "cn": "社会互动",
+   "en": "social interaction",
+   "code": "2.4.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会互动"
+  },
+  {
+   "cn": "符号互动",
+   "en": "symbolic interaction",
+   "code": "2.4.1.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念社会互动"
+  },
+  {
+   "cn": "焦点互动",
+   "en": "focused interaction",
+   "code": "2.4.1.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念社会互动"
+  },
+  {
+   "cn": "互动网络",
+   "en": "interaction network",
+   "code": "2.4.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念社会互动"
+  },
+  {
+   "cn": "互动仪式",
+   "en": "interaction ritual",
+   "code": "2.4.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念社会互动"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

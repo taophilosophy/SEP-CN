@@ -1,0 +1,278 @@
+{
+ "key": "typology",
+ "term": "typology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:33:28+00:00",
+ "status": "ok",
+ "note": "variant=typology; 审定公布名词库=123; 海峡两岸名词对照库=48; 其他来源数据库=5; 预公布名词数据库=9; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "模式概念",
+   "en": "typology",
+   "code": "2.0119",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "语言类型学",
+   "en": "language typology,linguistic typology",
+   "code": "01.029",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_学科"
+  },
+  {
+   "cn": "词典分类学",
+   "en": "dictionary typology",
+   "code": "06.013",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_总论"
+  },
+  {
+   "cn": "结构类型学",
+   "en": "structural typology",
+   "code": "01.028",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_学科"
+  },
+  {
+   "cn": "建筑类型学",
+   "en": "typology of architecture",
+   "code": "03.0369",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_外国19~20世纪建筑"
+  },
+  {
+   "cn": "价值观与生活方式分类",
+   "en": "values and life styles typology,VALS typology",
+   "code": "08.0186",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销机会"
+  },
+  {
+   "cn": "结构选型",
+   "en": "selection of structure typology",
+   "code": "01.0050",
+   "standard": "建筑学名词",
+   "subject": "建筑学_总论_基本概念"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "code": "08.0514",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "拓扑",
+   "en": "topology",
+   "code": "09.0127",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_协议体系与组成结构"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "code": "01.649",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "code": "08.0440",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_一般拓扑学"
+  },
+  {
+   "cn": "细胞学",
+   "en": "cytology",
+   "code": "1.024",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "类型学",
+   "en": "typology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "模式概念",
+   "en": "typology",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "类型学",
+   "en": "typologies",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "地景类型学",
+   "en": "landscape typologies",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "模式种概念",
+   "en": "typological species concept",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "拓扑",
+   "en": "topology",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "细胞学",
+   "en": "cytology",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "真菌学",
+   "en": "mycology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "潮汐学",
+   "en": "tidology",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "细胞学",
+   "en": "cytology",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "潮汐学",
+   "en": "tidology",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "语源学",
+   "en": "etymology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "时空",
+   "en": "Spacetime topology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据中心网络拓扑",
+   "en": "data center network topology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "类型比较法",
+   "en": "typological comparison",
+   "code": "1.0664",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "文化区系类型理论",
+   "en": "theory of regional typology of archaeological cultures",
+   "code": "1.0072",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "神学",
+   "en": "theology",
+   "code": "04.0053",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "思辨神学",
+   "en": "speculative theology",
+   "code": "01.0103",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "传统细胞学检查",
+   "en": "conventional cytology",
+   "code": "3.10.2.1.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_妇女常见病防治"
+  },
+  {
+   "cn": "生态女性主义信仰",
+   "en": "eco-feminist theology",
+   "code": "3.14.1.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "基督教神学伦理学",
+   "en": "christian theology ethics",
+   "code": "1.137",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派"
+  },
+  {
+   "cn": "液基细胞学检查",
+   "en": "liquid based cytology, LBC",
+   "code": "3.10.2.1.2.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_妇女常见病防治"
+  },
+  {
+   "cn": "解放神学的马克思主义",
+   "en": "Marxism of liberation theology",
+   "code": "05.0097",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

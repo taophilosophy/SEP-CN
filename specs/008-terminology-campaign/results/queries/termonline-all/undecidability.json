@@ -1,0 +1,54 @@
+{
+ "key": "undecidability",
+ "term": "undecidability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:40:59+00:00",
+ "status": "ok",
+ "note": "variant=undecidability; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "不可判定问题",
+   "en": "undecidable problem",
+   "code": "02.0149",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "形式不可判定命题",
+   "en": "formal undecidable proposition",
+   "code": "02.0145",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
+  {
+   "cn": "可判定性",
+   "en": "decidability",
+   "code": "02.0886",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "可判定性",
+   "en": "decidability",
+   "code": "02.0144",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
+  {
+   "cn": "不可判定问题",
+   "en": "undecidable problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "可判定性",
+   "en": "decidability",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
