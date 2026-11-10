@@ -2,7 +2,7 @@
   "slug": "logic-substructural",
   "kind": "retranslate",
   "zh_doc": "l/logic-substructural.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-10T02:58:18Z",
       "evidence": "check_academic --strict 0 硬错误；check_terms 硬错误 0（新增术语 14、人名 16，script/l_reg_logic_substructural.py）；check_summary H1 mismatch 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T03:03:37Z",
+      "evidence": "compose 104 段守恒 HARD 0；四门禁（style 0 / prose 0 / math 0 / academic strict 0 硬错误）；术语 14、人名 16 已登记；源文 104 段与 56 条脚注逐段核对"
     }
   ],
   "blockers": [],
