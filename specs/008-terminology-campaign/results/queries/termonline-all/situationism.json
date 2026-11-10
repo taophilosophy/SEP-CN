@@ -1,0 +1,40 @@
+{
+ "key": "situationism",
+ "term": "situationism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T16:48:06+00:00",
+ "status": "ok",
+ "note": "variant=situationism; 审定公布名词库=0; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "情境论",
+   "en": "situation theory\",\"situationism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "具体情形",
+   "en": "concrete situations",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "情境主义国际",
+   "en": "situationist international",
+   "code": "05.0101",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "两个大局",
+   "en": "two overall situations",
+   "code": "03.0568",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

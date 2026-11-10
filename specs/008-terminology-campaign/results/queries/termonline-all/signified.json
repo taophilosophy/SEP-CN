@@ -1,0 +1,89 @@
+{
+ "key": "signified",
+ "term": "signified",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T16:30:04+00:00",
+ "status": "ok",
+ "note": "variant=signified; 审定公布名词库=6; 海峡两岸名词对照库=2; 其他来源数据库=2; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "所指",
+   "en": "signified",
+   "code": "04.183",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "能指",
+   "en": "signifier",
+   "code": "04.182",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "木质化纤维",
+   "en": "lignified fiber",
+   "code": "12.008",
+   "standard": "林学名词",
+   "subject": "林学_林产化学加工_木材化学"
+  },
+  {
+   "cn": "省形",
+   "en": "signific symbol abbreviation",
+   "code": "02.080",
+   "standard": "语言学名词",
+   "subject": "语言学_文字学_汉字的结构"
+  },
+  {
+   "cn": "形旁",
+   "en": "semantic component,signific component",
+   "code": "02.082",
+   "standard": "语言学名词",
+   "subject": "语言学_文字学_汉字的结构"
+  },
+  {
+   "cn": "场放大进样",
+   "en": "electrical field magnified injection",
+   "code": "03.2118",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_仪器分析_色谱分析"
+  },
+  {
+   "cn": "能指",
+   "en": "signifier",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "场放大进样",
+   "en": "electrical field magnified injection",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "所指",
+   "en": "signified",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "能指",
+   "en": "signifier",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "能指与所指",
+   "en": "signified and signifier",
+   "code": "1.0565",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

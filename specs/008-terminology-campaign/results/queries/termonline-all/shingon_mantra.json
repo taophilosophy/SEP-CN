@@ -1,248 +1,255 @@
 {
  "key": "shingon / mantra",
- "term": "shingon",
+ "term": "mantra",
  "provider": "termonline-all",
- "queried_at": "2026-11-10T16:16:33+00:00",
+ "queried_at": "2026-11-10T16:19:33+00:00",
  "status": "ok",
- "note": "variant=shingon; 审定公布名词库=21; 海峡两岸名词对照库=12; 其他来源数据库=4; 预公布名词数据库=6; browser-channel（cookie 会话，raw 略）",
+ "note": "variant=mantra; 审定公布名词库=341; 海峡两岸名词对照库=71; 其他来源数据库=7; 预公布名词数据库=4; browser-channel（cookie 会话，raw 略）",
  "hits": [
   {
-   "cn": "鼻尖点",
-   "en": "rhinion",
-   "code": "02.0909",
-   "standard": "人体解剖学名词",
-   "subject": "人体解剖学_运动系统_体质人类学"
+   "cn": "胴部",
+   "en": "mantle",
+   "code": "5.178",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_软体动物门"
   },
   {
-   "cn": "自旋子",
-   "en": "spinon",
-   "code": "08.3551",
-   "standard": "物理学名词",
-   "subject": "物理学_凝聚态物理学_特殊物相与极端条件"
+   "cn": "外套膜",
+   "en": "mantle",
+   "code": "6.0014",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_被囊动物亚门"
   },
   {
-   "cn": "什那干群",
-   "en": "Shinagan Group",
-   "code": "07.04.102",
-   "standard": "地质学名词",
-   "subject": "地质学_地史学与地层学_岩石地层学"
+   "cn": "上背",
+   "en": "mantle",
+   "code": "6.0281",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_脊椎动物亚门_鸟纲"
   },
   {
-   "cn": "香农定理",
-   "en": "Shannon theorem",
-   "code": "09.0150",
-   "standard": "计算机科学技术名词",
-   "subject": "计算机科学技术_网络与数据通信_协议体系与组成结构"
+   "cn": "菌套",
+   "en": "mantle",
+   "code": "05.0068",
+   "standard": "植物学名词",
+   "subject": "植物学_真菌学"
   },
   {
-   "cn": "香农熵",
-   "en": "Shannon entropy",
-   "code": "12.0102",
-   "standard": "计算机科学技术名词",
-   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+   "cn": "机架",
+   "en": "gantry",
+   "code": "03.0271",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_成像设备"
   },
   {
-   "cn": "香农定律",
-   "en": "Shannon law",
-   "code": "01.165",
-   "standard": "通信科学技术名词",
-   "subject": "通信科学技术_通信原理与基本技术"
+   "cn": "备餐间",
+   "en": "pantry",
+   "code": "02.0042",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑类型及组成_通用建筑类型及组成"
   },
   {
-   "cn": "陈实功",
-   "en": "Chen Shigong",
-   "code": "02.156",
-   "standard": "中医药学名词",
-   "subject": "中医药学_医史文献_医家"
+   "cn": "门架",
+   "en": "gantry",
+   "code": "01.0086",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_物料搬运机械_起重机械_机构和零部件"
   },
   {
-   "cn": "香农理论",
-   "en": "Shannon theory",
-   "code": "012.0004",
-   "standard": "数学名词",
-   "subject": "数学_信息论_控制论_信息·编码（数学）"
+   "cn": "菌套",
+   "en": "mantle",
+   "code": "03.218",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物形态与结构"
   },
   {
-   "cn": "香农理论",
-   "en": "Shannon theory",
-   "code": "05.004",
-   "standard": "电子学名词",
-   "subject": "电子学_信息论与信号处理技术"
+   "cn": "假壁",
+   "en": "mantle",
+   "code": "04.0027",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古植物学_藻类"
   },
   {
-   "cn": "香农熵",
-   "en": "Shannon entropy",
-   "code": "05.005",
-   "standard": "电子学名词",
-   "subject": "电子学_信息论与信号处理技术"
+   "cn": "门式吊机",
+   "en": "gantry",
+   "code": "06.239",
+   "standard": "土木工程名词",
+   "subject": "土木工程_桥梁工程_桥梁施工"
   },
   {
-   "cn": "鞘磷脂",
-   "en": "sphingomyelin;sphingo- phospholipid",
-   "code": "7.0155",
-   "standard": "生物化学与分子生物学名词",
-   "subject": "生物化学与分子生物学_脂质_磷脂_单糖衍生物"
+   "cn": "吊网门形架",
+   "en": "gantry",
+   "code": "09.198",
+   "standard": "水产名词",
+   "subject": "水产_渔业船舶及渔业机械"
   },
   {
-   "cn": "胫骨疲劳性骨膜炎",
-   "en": "shinbone fatigue periostitis",
-   "code": "03.378",
-   "standard": "运动医学名词",
-   "subject": "运动医学_运动创伤_运动创伤各论_踝足部运动创伤"
+   "cn": "外套膜",
+   "en": "mantle",
+   "code": "01.298",
+   "standard": "水产名词",
+   "subject": "水产_水产基础科学"
   },
   {
-   "cn": "鼻尖点",
-   "en": "rhinion",
+   "cn": "曼怛罗",
+   "en": "Mantra",
    "code": null,
-   "standard": "海峡两岸解剖与组织胚胎学名词",
-   "subject": "解剖与组织胚胎学"
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
   },
   {
-   "cn": "香农理论",
-   "en": "Shannon theory",
-   "code": null,
-   "standard": "海峡两岸大气科学名词",
-   "subject": "大气科学"
-  },
-  {
-   "cn": "香农函数",
-   "en": "Shannon function",
-   "code": null,
-   "standard": "海峡两岸生态学名词",
-   "subject": "生态学"
-  },
-  {
-   "cn": "礁缘扁石堆",
-   "en": "shingle rampart",
-   "code": null,
-   "standard": "海峡两岸海洋科学技术名词",
-   "subject": "海洋科学技术"
-  },
-  {
-   "cn": "砾滩",
-   "en": "shingle beach",
-   "code": null,
-   "standard": "海峡两岸海洋科学技术名词",
-   "subject": "海洋科学技术"
-  },
-  {
-   "cn": "砾滩",
-   "en": "shingle beach",
-   "code": null,
-   "standard": "海峡两岸地理学名词",
-   "subject": "地理学"
-  },
-  {
-   "cn": "香农理论",
-   "en": "Shannon theory",
-   "code": null,
-   "standard": "海峡两岸信息科学技术名词",
-   "subject": "信息科学技术"
-  },
-  {
-   "cn": "香农熵",
-   "en": "Shannon entropy",
-   "code": null,
-   "standard": "海峡两岸信息科学技术名词",
-   "subject": "信息科学技术"
-  },
-  {
-   "cn": "香农-维纳指数",
-   "en": "Shannon-Wiener index",
-   "code": null,
-   "standard": "海峡两岸生态学名词",
-   "subject": "生态学"
-  },
-  {
-   "cn": "香农-维纳指数",
-   "en": "Shannon-Wiener index",
-   "code": null,
-   "standard": "海峡两岸海洋科学技术名词",
-   "subject": "海洋科学技术"
-  },
-  {
-   "cn": "鞘氨醇",
-   "en": "sphingosine\",\"4-sphingenine\",\"sphingol",
-   "code": null,
-   "standard": "海峡两岸生物化学与分子生物学名词",
-   "subject": "生物化学与分子生物学"
-  },
-  {
-   "cn": "香农-维纳多样性指数",
-   "en": "Shannon-Wiener’s diversity index",
+   "cn": "菌套",
+   "en": "mantle",
    "code": null,
    "standard": "海峡两岸植物学名词",
    "subject": "植物学"
   },
   {
-   "cn": "自旋子",
-   "en": "spinon",
+   "cn": "玛尔塔",
+   "en": "Martha",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "幔",
+   "en": "mantle",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "地幔",
+   "en": "mantle",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "地幔",
+   "en": "mantle",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "外套膜",
+   "en": "mantle",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "上背(鸟)，翕",
+   "en": "mantle",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "软胶质",
+   "en": "maltha",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "配餐间",
+   "en": "pantry",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "单尾目",
+   "en": "Monura",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "阳茎鞘",
+   "en": "manica",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "干燥管",
+   "en": "Heating mantle",
    "code": "",
    "standard": "维基百科",
    "subject": "其他"
   },
   {
-   "cn": "纳特",
-   "en": "shannon (unit)",
+   "cn": "外套膜",
+   "en": "Mantle;Pallium",
    "code": "",
    "standard": "维基百科",
    "subject": "其他"
   },
   {
-   "cn": "暂停！",
-   "en": "Shigan! Time!",
+   "cn": "上地幔",
+   "en": "Upper Mantle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "枕袈裟固",
+   "en": "makura-kesa-gatame",
    "code": null,
    "standard": "奥运体育项目名词",
-   "subject": "奥运体育项目名词_跆拳道名词"
+   "subject": "奥运体育项目名词_柔道名词"
   },
   {
-   "cn": "采样定理",
-   "en": "Nyquist–Shannon sampling theorem",
-   "code": "",
-   "standard": "维基百科",
+   "cn": "党内民主",
+   "en": "intra-Party democracy",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
    "subject": "其他"
   },
   {
-   "cn": "四加行",
-   "en": "Sngon vgro bzhi",
-   "code": "3.0496",
+   "cn": "我放弃！",
+   "en": "I give up!  Maitta!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "内股",
+   "en": "inner thigh throw\",\"uchi-mata",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "心咒（梵文Mantra）",
+   "en": "Sngags yig",
+   "code": "3.051",
    "standard": "民族学与文化学名词",
    "subject": "民族学与文化学_民族史_藏学"
   },
   {
-   "cn": "五加行",
-   "en": "Sngon vgro lnga",
-   "code": "3.0505",
-   "standard": "民族学与文化学名词",
-   "subject": "民族学与文化学_民族史_藏学"
+   "cn": "薄荷素油",
+   "en": "mentha arvensis oil",
+   "code": "6.3.1.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品用香精香料"
   },
   {
-   "cn": "文成公主",
-   "en": "Vun shing kong jo",
-   "code": "3.0419",
-   "standard": "民族学与文化学名词",
-   "subject": "民族学与文化学_民族史_藏学"
+   "cn": "关节腔注射",
+   "en": "intra-articular injection",
+   "code": "1.7.2.8",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗"
   },
   {
-   "cn": "《水树格言》",
-   "en": "Chu shing bstan bcos",
-   "code": "3.0378",
-   "standard": "民族学与文化学名词",
-   "subject": "民族学与文化学_民族史_藏学"
-  },
-  {
-   "cn": "《蓝琉璃》",
-   "en": "Bee dya sngon po",
-   "code": "3.0348",
-   "standard": "民族学与文化学名词",
-   "subject": "民族学与文化学_民族史_藏学"
-  },
-  {
-   "cn": "《青史》",
-   "en": "Bod-kyi yul-du chos-dang chos-smra-ba ji-ltarbyung-bavi rim-pa Deb-ther sngon-po",
-   "code": "3.0297",
-   "standard": "民族学与文化学名词",
-   "subject": "民族学与文化学_民族史_民族文化"
+   "cn": "女童阴唇粘连",
+   "en": "adhesion of labia minora in female child",
+   "code": "3.1.4",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_女童期保健"
   }
  ],
  "error": null,

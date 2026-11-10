@@ -1,0 +1,348 @@
+{
+ "key": "show trial",
+ "term": "show trial",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T16:24:04+00:00",
+ "status": "ok",
+ "note": "variant=show trial; 审定公布名词库=939; 海峡两岸名词对照库=206; 其他来源数据库=155; 预公布名词数据库=17; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "见红",
+   "en": "show",
+   "code": "17.045",
+   "standard": "妇产科学名词",
+   "subject": "正常分娩_先兆临产"
+  },
+  {
+   "cn": "见红",
+   "en": "bloody show,show",
+   "code": "01.066",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_妇产科学"
+  },
+  {
+   "cn": "影戏",
+   "en": "shadow show",
+   "code": "11.0429",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林艺术_园居活动"
+  },
+  {
+   "cn": "脱口秀",
+   "en": "talk show",
+   "code": "5.053",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论"
+  },
+  {
+   "cn": "真人秀",
+   "en": "reality show",
+   "code": "5.054",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论"
+  },
+  {
+   "cn": "路演",
+   "en": "road show",
+   "code": "07.0241",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_原理"
+  },
+  {
+   "cn": "橱窗",
+   "en": "show window",
+   "code": "09.0316",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设计_建筑构造"
+  },
+  {
+   "cn": "会展情报",
+   "en": "trade show intelligence",
+   "code": "06.075",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_情报分析与研究_竞争情报"
+  },
+  {
+   "cn": "露龈笑",
+   "en": "gummy show smile",
+   "code": "05.108",
+   "standard": "医学美学与美容医学名词",
+   "subject": "医学美学与美容医学_美容牙科学"
+  },
+  {
+   "cn": "配景听力计",
+   "en": "peep-show audiometer",
+   "code": "02.247",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_耳鼻喉科学"
+  },
+  {
+   "cn": "放映权",
+   "en": "right of showing",
+   "code": "08.02.032",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_著作权_著作权客体"
+  },
+  {
+   "cn": "伴有胸腺分化的异位胸腺癌",
+   "en": "carcinoma showing thymus-like differentiation,CASTLE",
+   "code": "03.268",
+   "standard": "病理学名词",
+   "subject": "病理学_呼吸系统_纵膈"
+  },
+  {
+   "cn": "试次",
+   "en": "trial",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "系泊试验",
+   "en": "dock trial\",\"mooring trial",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "临床试验",
+   "en": "clinical trial",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "试验法",
+   "en": "trial method",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "试验场",
+   "en": "trial field",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "[雷达避碰]试操纵",
+   "en": "trial maneuvering",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "测速",
+   "en": "speed trial",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "倒车试验",
+   "en": "astern trial",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "惯性试验",
+   "en": "inertial trial",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "航行试验",
+   "en": "sea trial",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "试车",
+   "en": "engine trial",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "倒车试验",
+   "en": "astern trial",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "马匹展览",
+   "en": "horse show",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "障碍赛用马",
+   "en": "show jumper\",\"show jumper horse",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "巴克夏猪",
+   "en": "Royal Adelaide Show",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "亮牌",
+   "en": "show a card",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "障碍赛",
+   "en": "jumping\",\"show-jumping\",\"jumping event\",\"show jumper competition",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "试跳（投、掷）",
+   "en": "trial",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "试跳（投、掷）有效",
+   "en": "cleared trial\",\"successful trial\",\"valid trial",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "试跳（投、掷）失败",
+   "en": "failed trial\",\"invalid trial",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "在线庭审",
+   "en": "online trial",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "智慧审判",
+   "en": "smart trial",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "最后一跳（投、掷）",
+   "en": "last trial",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "附加试跳（投、掷）",
+   "en": "additional trial",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "木偶戏",
+   "en": "puppet show",
+   "code": "4.041",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "试婚",
+   "en": "trial marriage",
+   "code": "3.1.3.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_婚姻制度"
+  },
+  {
+   "cn": "社区干预试验",
+   "en": "community intervention trial",
+   "code": "4.3.1.4",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "科隆共产党人案件",
+   "en": "communist trial in Cologne",
+   "code": "04.0214",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_马克思恩格斯时期"
+  },
+  {
+   "cn": "权为民所用情为民所系利为民所谋",
+   "en": "exercising power for the people showing concern for them and working for their interests",
+   "code": "03.0766",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "基于实效性临床试验的经济学评价",
+   "en": "economic evaluation based on pragmatic clinical trial",
+   "code": "13.4.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_药物经济学_药物经济学评价"
+  },
+  {
+   "cn": "基于随机对照临床试验的经济学评价",
+   "en": "economic evaluation based on randomized controlled clinical trial",
+   "code": "13.4.1.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_药物经济学_药物经济学评价"
+  },
+  {
+   "cn": "特殊医学用途配方食品临床试验",
+   "en": "clinical trials of food for special medical purposes",
+   "code": "5.22.2.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "部族",
+   "en": "tribal",
+   "code": "1.0275",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "雪盲",
+   "en": "snow blindness",
+   "code": "5.3.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原病"
+  },
+  {
+   "cn": "慢中子",
+   "en": "slow neutron",
+   "code": "5.1.4.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理"
+  },
+  {
+   "cn": "规范试验残留高值",
+   "en": "supervised trail maximum residue level",
+   "code": "1.4.4.62",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

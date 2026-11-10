@@ -1,0 +1,348 @@
+{
+ "key": "singly-located",
+ "term": "singly-located",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T16:40:35+00:00",
+ "status": "ok",
+ "note": "variant=singly-located; 审定公布名词库=1879; 海峡两岸名词对照库=484; 其他来源数据库=62; 预公布名词数据库=33; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "单行",
+   "en": "drug used singly",
+   "code": "19.297",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "单行",
+   "en": "drug used singly",
+   "code": "06.070",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中药学_中药学总论"
+  },
+  {
+   "cn": "归字",
+   "en": "locate",
+   "code": "09.113",
+   "standard": "语言学名词",
+   "subject": "语言学_音韵学_音类分析和等韵学"
+  },
+  {
+   "cn": "定域子",
+   "en": "locator",
+   "code": "08.0685",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "code": "11.0621",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "code": "07.0073",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林建筑_设计内容"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "code": "08.007",
+   "standard": "经济学名词",
+   "subject": "经济学_区域经济学"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "code": "09.0671",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "code": "07.0199",
+   "standard": "建筑学名词",
+   "subject": "建筑学_城乡规划_详细规划"
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "code": "09.0006",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设计_总图与场地"
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "code": "14.0168",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_水上通信"
+  },
+  {
+   "cn": "震中位置",
+   "en": "epicentral location; epicenter location",
+   "code": "01.0416",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震科学总论"
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "[存储]位置",
+   "en": "location",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "定位",
+   "en": "locating",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "总部区位",
+   "en": "headquarter location\",\"HQ location",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "已定位报警",
+   "en": "located alert",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "错误定位子",
+   "en": "error-locator",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "厂址",
+   "en": "plant location",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "位置恒常性",
+   "en": "location constancy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "基于位置的服务",
+   "en": "Location-Based Service",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "统一资源定位符",
+   "en": "uniform resource locator (URL)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "基于位置的社交网络",
+   "en": "location-based social network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "箭着位置",
+   "en": "location of the arrows",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "单人艇",
+   "en": "single",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "单人双桨队员",
+   "en": "single rower\",\"single sculler",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "单靶",
+   "en": "single target",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "直接决赛",
+   "en": "single round",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "单周空翻",
+   "en": "single somersault",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "单结",
+   "en": "single knot",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "单打比赛",
+   "en": "singles\",\"singles match",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "一垒打",
+   "en": "one-base hit\",\"single\",\"single hit",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "局灶性硬皮病",
+   "en": "located scleroderma",
+   "code": "2.6.3.7",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病"
+  },
+  {
+   "cn": "矛盾性阶级位置",
+   "en": "contradictory class location",
+   "code": "2.6.6.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "燃料破损检测系统",
+   "en": "fuel rupture detection [location] system",
+   "code": "6.6.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "code": "15.3.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队卫生统计学_战时卫生统计"
+  },
+  {
+   "cn": "伤部伤类双向构成比",
+   "en": "bidirectional proportion for locations and types of injury",
+   "code": "15.3.2.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队卫生统计学_战时卫生统计"
+  },
+  {
+   "cn": "单次摄入",
+   "en": "single intake",
+   "code": "6.3.2.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "单身母亲",
+   "en": "single mother",
+   "code": "7.1.2.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生"
+  },
+  {
+   "cn": "单道分析器",
+   "en": "single channel analyzer",
+   "code": "5.2.5.54",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备"
+  },
+  {
+   "cn": "单组性能",
+   "en": "single group performance",
+   "code": "5.6.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "单身家庭",
+   "en": "single-person family",
+   "code": "3.1.1.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "单亲家庭",
+   "en": "single-parent family",
+   "code": "3.1.1.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "单亲儿童",
+   "en": "single-parent child",
+   "code": "4.4.9.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

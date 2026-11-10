@@ -1,0 +1,348 @@
+{
+ "key": "site",
+ "term": "site",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T16:45:06+00:00",
+ "status": "ok",
+ "note": "variant=site; 审定公布名词库=1813; 海峡两岸名词对照库=573; 其他来源数据库=97; 预公布名词数据库=44; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "基址",
+   "en": "site",
+   "code": "02.0056",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林史_中国"
+  },
+  {
+   "cn": "场地",
+   "en": "site",
+   "code": "02.616",
+   "standard": "化工名词（四）安全·环保·可持续发展",
+   "subject": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计"
+  },
+  {
+   "cn": "立地",
+   "en": "site",
+   "code": "05.005",
+   "standard": "林学名词",
+   "subject": "林学_森林培育_种苗与营造"
+  },
+  {
+   "cn": "场地",
+   "en": "site",
+   "code": "11.0023",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑防护_抗震"
+  },
+  {
+   "cn": "位点",
+   "en": "site",
+   "code": "02.393",
+   "standard": "遗传学名词",
+   "subject": "遗传学_经典遗传学"
+  },
+  {
+   "cn": "立地",
+   "en": "site",
+   "code": "08.084",
+   "standard": "生态学名词",
+   "subject": "生态学_景观生态学"
+  },
+  {
+   "cn": "场地",
+   "en": "site",
+   "code": "16.027",
+   "standard": "土木工程名词",
+   "subject": "土木工程_地震工程与防震工程"
+  },
+  {
+   "cn": "位点",
+   "en": "site",
+   "code": "01.598",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "基地",
+   "en": "plot,site",
+   "code": "09.0022",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设计_总图与场地"
+  },
+  {
+   "cn": "造林地清理",
+   "en": "site clearance,site preparation",
+   "code": "05.075",
+   "standard": "林学名词",
+   "subject": "林学_森林培育_种苗与营造"
+  },
+  {
+   "cn": "场地类别",
+   "en": "site category,site classification",
+   "code": "16.028",
+   "standard": "土木工程名词",
+   "subject": "土木工程_地震工程与防震工程"
+  },
+  {
+   "cn": "网站",
+   "en": "network site,net site",
+   "code": "09.0734",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络应用"
+  },
+  {
+   "cn": "立地",
+   "en": "site",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "位点",
+   "en": "site",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "站点，网站",
+   "en": "site",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "地点",
+   "en": "sites",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "选址",
+   "en": "site testing，site selection",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "氨酰位, A位",
+   "en": "aminoacyl site\",\"A site",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "出口位, E位",
+   "en": "exit site\",\"E site",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "剪接位点",
+   "en": "splicing site\",\"splice site",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "肽酰位, P位",
+   "en": "peptidyl site\",\"P site",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "氨酰位，A位",
+   "en": "aminoacyl site\",\"A site",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "出口位，E位",
+   "en": "exit site\",\"E site",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "肽酰位，P位",
+   "en": "peptidyl site\",\"P site",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "站点鉴别",
+   "en": "site identification",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "发射场",
+   "en": "launch site",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "奥运会会址",
+   "en": "Olympic site",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "内华达试验场",
+   "en": "Nevada Test Site",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "跨站脚本",
+   "en": "cross-site scripting",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "核糖体结合位点",
+   "en": "Ribosome-binding site",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "跨站请求伪造",
+   "en": "cross-site request forgery",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "跨站脚本攻击",
+   "en": "cross-site scripting attack",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "内部核糖体进入位点",
+   "en": "Internal ribosome entry site, IRES",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "比赛场",
+   "en": "competition field\",\"shooting field\",\"competition site",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "贵阳大数据交易所“大数据交易标准试点基地”",
+   "en": "Big Data Trading Standardization Pilot Site of Global Big Data Exchange (Guiyang, China)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "比赛场地",
+   "en": "competition area\",\"competition field\",\"competition ground\",\"competition site\",\"playing area\",\"playing court\",\"playing field",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "选址",
+   "en": "siting",
+   "code": "6.1.7.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_设施防护安全"
+  },
+  {
+   "cn": "场区",
+   "en": "site area",
+   "code": "7.2.1.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "采样场所",
+   "en": "sampling site",
+   "code": "5.4.4.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测"
+  },
+  {
+   "cn": "场外",
+   "en": "off-site",
+   "code": "7.2.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "校址",
+   "en": "school site",
+   "code": "9.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生"
+  },
+  {
+   "cn": "场区应急",
+   "en": "site area emergency",
+   "code": "7.2.1.13.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "场区应急",
+   "en": "site area emergency",
+   "code": "8.7.14",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核事故应急救援"
+  },
+  {
+   "cn": "场外应急",
+   "en": "off-site emergency",
+   "code": "8.7.15",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核事故应急救援"
+  },
+  {
+   "cn": "现场消毒",
+   "en": "disinfection on site",
+   "code": "4.1.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "穿刺部位消毒",
+   "en": "puncture site disinfection",
+   "code": "4.3.2.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_皮肤黏膜消毒"
+  },
+  {
+   "cn": "就地监测",
+   "en": "on-site monitoring",
+   "code": "5.4.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测"
+  },
+  {
+   "cn": "场外应急",
+   "en": "off-site emergency",
+   "code": "7.2.1.13.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

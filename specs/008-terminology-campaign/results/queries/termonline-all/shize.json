@@ -1,0 +1,257 @@
+{
+ "key": "shize",
+ "term": "Shize",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T16:19:34+00:00",
+ "status": "ok",
+ "note": "variant=Shize; 审定公布名词库=365; 海峡两岸名词对照库=122; 其他来源数据库=6; 预公布名词数据库=5; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "大小",
+   "en": "size",
+   "code": "06.034",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中药学_中药学总论"
+  },
+  {
+   "cn": "粒度",
+   "en": "size",
+   "code": "09.010",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_煤炭加工利用_选煤"
+  },
+  {
+   "cn": "粒级",
+   "en": "size fraction,size range",
+   "code": "09.055",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_煤炭加工利用_选煤"
+  },
+  {
+   "cn": "批量",
+   "en": "lot size,batch size",
+   "code": "18.014",
+   "standard": "电子学名词",
+   "subject": "电子学_可靠性和质量控制"
+  },
+  {
+   "cn": "地震大小",
+   "en": "earthquake size,shock size",
+   "code": null,
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_固体地球物理学"
+  },
+  {
+   "cn": "字号",
+   "en": "font size;point size;type size",
+   "code": "02.06.016",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_装帧"
+  },
+  {
+   "cn": "地震大小",
+   "en": "earthquake size; shock size",
+   "code": "01.1385",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_震源"
+  },
+  {
+   "cn": "地球反照",
+   "en": "earth shine",
+   "code": "25.079",
+   "standard": "光学名词",
+   "subject": "光学_红外技术"
+  },
+  {
+   "cn": "开本",
+   "en": "format;book size;trim size",
+   "code": "02.06.008",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_装帧"
+  },
+  {
+   "cn": "粒度",
+   "en": "grain size",
+   "code": "05.03.123",
+   "standard": "地质学名词",
+   "subject": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造"
+  },
+  {
+   "cn": "农场规模",
+   "en": "farm size",
+   "code": "19.046",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业产业经济"
+  },
+  {
+   "cn": "晶体粒度",
+   "en": "crystal size",
+   "code": "03.212",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "大小",
+   "en": "size",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "粒度， 粒径",
+   "en": "grain size\",\"particle size",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "批量",
+   "en": "lot size\",\"batch size",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "粒度分布",
+   "en": "particle size distribution\",\"size distribution",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "粒度分析",
+   "en": "size analysis\",\"particle size analysis\",\"grain size analysis",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "库容量",
+   "en": "sink size",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "相邻种群大小",
+   "en": "neighborhood size",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "种群大小",
+   "en": "population size",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "步长",
+   "en": "step size",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "径波比",
+   "en": "size parameter",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "样本量",
+   "en": "sample size",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "尺寸因子",
+   "en": "size factor",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "数据规模",
+   "en": "data size",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "绞",
+   "en": "strangle\",\"shime\",\"stranglehold",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "正自然体",
+   "en": "natural fundamental posture\",\"shizen-hontai",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "打水幅度",
+   "en": "size of the kick",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "光英朗练",
+   "en": "Concise and Clear Wording Makes Writings Shine.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "绞技",
+   "en": "choking technique\",\"shime-waza\",\"stranglehold technique\",\"strangling technique",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "样本量",
+   "en": "sample size",
+   "code": "1.2.5.46",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "医院规模",
+   "en": "hospital size",
+   "code": "14.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "黑板尺寸",
+   "en": "blackboard size",
+   "code": "9.3.1.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "家庭平均户规模",
+   "en": "average family size",
+   "code": "4.5.8.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_婚姻与家庭"
+  },
+  {
+   "cn": "前囟大小",
+   "en": "anterior fontanelle size",
+   "code": "4.2.3.1.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

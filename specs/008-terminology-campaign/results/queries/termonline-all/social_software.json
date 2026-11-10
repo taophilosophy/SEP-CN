@@ -1,0 +1,348 @@
+{
+ "key": "social software",
+ "term": "social software",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T16:58:37+00:00",
+ "status": "ok",
+ "note": "variant=social software; 审定公布名词库=4081; 海峡两岸名词对照库=988; 其他来源数据库=205; 预公布名词数据库=683; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "code": "13.105",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新媒体传播_新媒体应用"
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "code": "11.1266",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_基于网络的信息服务"
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "code": "03.040",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_数字X射线成像技术_数字影像学基础"
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "code": "01.0004",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_通论_计算机系统组成"
+  },
+  {
+   "cn": "软件错误",
+   "en": "software error,software bug",
+   "code": "06.0523",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "可信软件",
+   "en": "dependable software,trustworthy software",
+   "code": "06.0009",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "软件可信性",
+   "en": "software trustworthiness,software dependability",
+   "code": "06.0488",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "组态软件",
+   "en": "configuration software",
+   "code": "06.223",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_信息基础设施"
+  },
+  {
+   "cn": "软件工程",
+   "en": "software engineering",
+   "code": "06.263",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_信息基础设施"
+  },
+  {
+   "cn": "软件工具",
+   "en": "software tool",
+   "code": "06.266",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_信息基础设施"
+  },
+  {
+   "cn": "软件工程",
+   "en": "software engineering",
+   "code": "05.116",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_工程哲学_工程本体论"
+  },
+  {
+   "cn": "开源软件",
+   "en": "open software",
+   "code": "08.019",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_高技术伦理"
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "软件",
+   "en": "software",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "软件包",
+   "en": "package software",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "模块化软件",
+   "en": "modular software",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "软件包",
+   "en": "software package",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "软件工程",
+   "en": "software engineering",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "图形软件",
+   "en": "graphics software",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "应用软件",
+   "en": "application software",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "用户软件",
+   "en": "customer software",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地图制图软件",
+   "en": "cartographic software",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件配置管理",
+   "en": "Software construction",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件工程",
+   "en": "software engineering",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "需求分析",
+   "en": "Software construction",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件文档",
+   "en": "Software construction",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算机软件",
+   "en": "Computer Software",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件工程",
+   "en": "software engineering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件生命周期",
+   "en": "software lifecycle",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件测试",
+   "en": "software testing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件维护",
+   "en": "software maintenance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件系统",
+   "en": "software system",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "Wireshark软件",
+   "en": "Wireshark software",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "2.3.1.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会化"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "03.0158",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "code": "03.0170",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "2.5.11.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "1.0041",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "code": "2.1.3.18",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "code": "2.1.3.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "code": "2.1.4.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会现象"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "code": "2.1.5.21",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会生活"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "code": "3.3",
+   "standard": "社会医学名词",
+   "subject": "健康社会决定因素"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "code": "4.3.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "code": "03.0689",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "social monad",
+ "term": "social monad",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T16:58:37+00:00",
+ "status": "ok",
+ "note": "variant=social monad; 审定公布名词库=3908; 海峡两岸名词对照库=883; 其他来源数据库=155; 预公布名词数据库=684; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "单花粉",
+   "en": "monad",
+   "code": "08.0111",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生殖与发育生物学"
+  },
+  {
+   "cn": "单子",
+   "en": "monad",
+   "code": "02.0904",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "code": "05.137",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞周期与细胞分裂"
+  },
+  {
+   "cn": "单孢体",
+   "en": "monad",
+   "code": "04.0215",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古植物学_孢粉和植硅体"
+  },
+  {
+   "cn": "单反演轴",
+   "en": "inversion monad",
+   "code": "08.0139",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "单轴群",
+   "en": "monad group",
+   "code": "08.0162",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "单子转换器",
+   "en": "monad transformer",
+   "code": "02.0906",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "一元逻辑",
+   "en": "monadic logic",
+   "code": "08.0048",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "单子语义",
+   "en": "monadic semantics",
+   "code": "02.0905",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "模块单子语义",
+   "en": "modular monadic semantics",
+   "code": "02.0948",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "code": "1.027",
+   "standard": "行为医学名词",
+   "subject": "行为医学_总论_行为基本概念"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "5.002",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的社会学基础_行为社会化"
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "单花粉",
+   "en": "monad",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "社会寄生",
+   "en": "social parasitism\",\"social symbiosis",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "社群联结",
+   "en": "social bond",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "社会成本",
+   "en": "social cost",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "社会角色",
+   "en": "Social role",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会方言",
+   "en": "social dialect",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会工程",
+   "en": "social engineering",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表征",
+   "en": "social representation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会保障",
+   "en": "Social Security",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会心理学",
+   "en": "Social Psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "2.3.1.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会化"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "03.0158",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "code": "03.0170",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "2.5.11.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "1.0041",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "code": "2.1.3.18",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "code": "2.1.3.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "code": "2.1.4.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会现象"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "code": "2.1.5.21",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会生活"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "code": "3.3",
+   "standard": "社会医学名词",
+   "subject": "健康社会决定因素"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "code": "4.3.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "code": "03.0689",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
