@@ -9,9 +9,9 @@
 | 正式词条 | 62 |
 | done | 15（boolalg-math、binarium、biology-philosophy、bauer、basing-epistemic、behaviorism、bloch、bayes-theorem、bayle、blame、bergson、bohr-correspondence、bradley-moral、bodily-awareness、buridan） |
 | r1_reviewed（待 r2→r3→done，评审线） | 1 |
-| s3_checked（待 r1→r3→done 收口，评审线） | 6 |
-| drafted（待 s1→s3→r1→r3→done） | 3 |
-| cleared（待全量重译） | 37 |
+| s3_checked（待 r1→r3→done 收口，评审线） | 9 |
+| drafted（待 s1→s3→r1→r3→done） | 2 |
+| cleared（待全量重译） | 35 |
 
 ## 队列 A：cleared 37 条全量重译（按源文词数升序，先短后长）
 
@@ -19,7 +19,6 @@
 
 | 词数 | slug | 词数 | slug |
 |---|---|---|---|
-| 11321 | brentano-judgement | 11411 | brentano |
 | 11460 | byzantine-philosophy | 11682 | black-reparations |
 | 11745 | bosanquet | 12038 | broad |
 | 12085 | biomedicine | 12120 | bodin |
@@ -44,13 +43,15 @@
 | 词数 | slug | 状态 | 备注 |
 |---|---|---|---|
 | 6829 | boethius-dacia | r1_reviewed | 评审线 R-main 初审已过 02431e93；待 r2/r3 |
+| 4223 | bessarion | s3_checked | draft 步 evidence 空（旧留痕缺口，不补造）；待 s1→s3 |
 | 8049 | buddha | s3_checked |  |
 | 8905 | butler-moral | s3_checked |  |
 | 9181 | boethius | s3_checked |  |
 | 9268 | buddhism-chan | s3_checked |  |
 | 9440 | bradley | s3_checked |  |
 | 10095 | buddhism-huayan | s3_checked |  |
-| 4223 | bessarion | drafted | draft 步 evidence 空（旧留痕缺口，不补造）；待 s1→s3 |
+| 11321 | brentano-judgement | s3_checked |  |
+| 11411 | brentano | s3_checked |  |
 | 4827 | brouwer | drafted | 同上 |
 | 11190 | belief-merging | drafted | draft 收口 f6cec931，账本 112 段双版齐；待 s1→s3 |
 

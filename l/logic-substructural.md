@@ -12,13 +12,11 @@
 
 这里的结构规则按“能证什么”陈述；为这类规则提供动机，可以看证明怎样构成与结合。从 $X$ 加 $Y$ 到结论 $B$ 的证明，可以这样搭起来：先从 $X$ 证 $A$，再拿这个 $A$ 加 $Y$ 证 $B$。
 
-结构规则也能借 **模型** 刻画有效性而获得动机。若论证 **有效** 是指：凡前提的模型同时也是结论的模型（不然就是 **反例**），则 **切** 规则同样得到动机。设 $X$ 每个成员的每个模型都是 $A$ 的模型，$Y$ 每个成员与 $A$ 的每个模型也是 $B$ 的模型。取一个同时满足 $X$ 与 $Y$ 全部成员的模型：既然它满足 $X$，就是 $A$ 的模型；既然又满足 $Y$，就是 $B$ 的模型。这推理全程不诉诸任何公式在模型中的真值条件：规则不受公式赋值方案的约束。只要有效性按“在模型中成立”的保持来定义，逻辑后承关系就满足 **切** 规则。
+结构规则也能借 **模型** 刻画有效性而获得动机。若论证 **有效** 是指：凡前提的模型同时也是结论的模型（不然就是 **反例**），则 **切** 规则同样得到动机。设 $X$ 每个成员的每个模型都是 $A$ 的模型，$Y$ 每个成员与 $A$ 的每个模型也是 $B$ 的模型。取一个 $X$ 各成员与 $Y$ 各成员的模型：既然是 $X$ 各成员的模型，它就是 $A$ 的模型；既然又是 $Y$ 各成员的模型，它就是 $B$ 的模型。这推理全程不诉诸任何公式在模型中的真值条件：规则不受公式赋值方案的约束。只要有效性按“在模型中成立”的保持来定义，逻辑后承关系就满足 **切** 规则。
 
 所以，无论把有效性想作关于证明还是关于模型，结构规则都是有效性的这样一类事实：与论证成分的逻辑形式无关。它们出自有效性的一般定义及其结构特征，而非支配特定联结词、量词或别的词项的规则。
 
-尽管如此，不同逻辑系统在支配特定概念的规则上各不相同：直觉主义逻辑的否定处理与经典逻辑不同，这很有名。结构规则是解释单个概念行为不可或缺的一环——我们正是借逻辑后承的环境语境刻画概念的行为。例如条件句 $p\rightarrow q$（“若 $p$ 则 $q$”）的行为可以这样刻画：
-
-$$ X, p \vdash q \text{ if and only if } X \vdash p \rightarrow q $$
+尽管如此，不同逻辑系统在支配特定概念的规则上各不相同：直觉主义逻辑的否定处理与经典逻辑不同，这很有名。结构规则是解释单个概念行为不可或缺的一环——我们正是借逻辑后承的环境语境刻画概念的行为。例如条件句 $p\rightarrow q$（“若 $p$ 则 $q$”）的行为可以这样刻画：       $$ X, p \vdash q \text{ if and only if } X \vdash p \rightarrow q $$
 
 这说：$q$ 从 $X$ 加 $p$ 可推出，当且仅当 $p \rightarrow q$ 仅从 $X$ 可推出。给定 $X$，从 $p$ 到 $q$ 的转移之有效，由 $p \rightarrow q$ 记录。刻画条件句相关有效性时，我们用的是涉及条件句 **组成部分** 的有效性陈述。
 
@@ -30,30 +28,22 @@ $X,p\vdash q$ 与 $X\vdash p\to q$ 的剩余化等价，不是刻画条件句行
 
 ### 1.1 弱化
 
-$p$ 为 **真** 是一回事，条件句 $q \rightarrow p$ 为真是另一回事。可若“$\rightarrow$”是实质条件句，$q \rightarrow p$ 便从 $p$ 推出。出于种种原因，我们可能想了解条件句在 **没有** 这种推理时如何运作；这与前提结合的行为相关，如下面的演示所示。
+$p$ 为 **真** 是一回事，条件句 $q \rightarrow p$ 为真是另一回事。可若“$\rightarrow$”是实质条件句，$q \rightarrow p$ 便从 $p$ 推出。出于种种原因，我们可能想了解条件句在 **没有** 这种推理时如何运作；这与前提结合的行为相关，如下面的演示所示。       $$ \cfrac{p \vdash p} { \cfrac{p, q \vdash p} {p \vdash q \rightarrow p} } $$
 
-$$ \cfrac{p \vdash p} { \cfrac{p, q \vdash p} {p \vdash q \rightarrow p} } $$
-
-从公理 $p \vdash p$（任何东西从 **自身** 可推出）我们推出 $p$ 从 $p$ 加 $q$ 可证，再由剩余化得 $p \vdash q \rightarrow p$。要拒斥从 $p$ 到 $q \rightarrow p$ 的推理，要么拒斥剩余化，要么拒斥证明开头的同一性公理，要么拒斥证明第一步。看最后一个选项牵涉什么，颇有启发：这里要否认 $p$ 从 $p, q$ 推出。一般地，要拒斥形如
-
-$$ \frac{X \vdash A} {X, Y \vdash A} $$
+从公理 $p \vdash p$（任何东西从 **自身** 可推出）我们推出 $p$ 从 $p$ 加 $q$ 可证，再由剩余化得 $p \vdash q \rightarrow p$。要拒斥从 $p$ 到 $q \rightarrow p$ 的推理，要么拒斥剩余化，要么拒斥证明开头的同一性公理，要么拒斥证明第一步。看最后一个选项牵涉什么，颇有启发：这里要否认 $p$ 从 $p, q$ 推出。一般地，要拒斥形如       $$ \frac{X \vdash A} {X, Y \vdash A} $$
 的规则。
 
 这就是 **弱化** 规则：从较强的陈述——$A$ 从 $X$ 可推出——走到可能较弱的一个：$A$ 从 $X$ 加 $Y$ 可推出。规则中 $X$ 的成员、$Y$、结论 $A$ 都是任意的，故它是纯 **结构** 规则。
 
 拒斥弱化的理由随对后承与前提结合的解释而异。早期的动机之一来自对相干性的关切：若逻辑 **相干**（说 $p$ 蕴涵 $q$ 为真，至少是说 $q$ 真 **依赖** $p$），弱化就不必成立。我们确实可能有 $A$ 从 $X$ 推出，而 $A$ 不从 $X, Y$ 推出——$A$ 不必依赖 $X$ 与 $Y$ 合起来。
 
-相干逻辑里，弱化在逗号 **另一侧** 也失效：我们也希望 **这个** 论证无效。
-
-$$ \cfrac{q \vdash q} { \cfrac{p, q \vdash q} {p \vdash q \rightarrow q} } $$
+相干逻辑里，弱化在逗号 **另一侧** 也失效：我们也希望 **这个** 论证无效。       $$ \cfrac{q \vdash q} { \cfrac{p, q \vdash q} {p \vdash q \rightarrow q} } $$
 
 同样，$q$ 可以从 $q$ 推出，却不意味着它从 $p$ **连同** $q$ 推出——只要“连同”取足够强的意义。所以在相干逻辑里，从任意前提到 $q \rightarrow q$ 这类逻辑真的推理多半会失效。
 
 ### 1.2 交换性
 
-若前提结合可交换（凡从 $X, Y$ 可推出者，亦从 $Y, X$ 可推出），只用同一性公理与剩余化即可如下推理：
-
-$$ \cfrac{p \rightarrow q \vdash p \rightarrow q} { \cfrac{p \rightarrow q, p \vdash q} { \cfrac{p, p \rightarrow q \vdash q} {p \vdash(p \rightarrow q) \rightarrow q} } } $$
+若前提结合可交换（凡从 $X, Y$ 可推出者，亦从 $Y, X$ 可推出），只用同一性公理与剩余化即可如下推理：       $$ \cfrac{p \rightarrow q \vdash p \rightarrow q} { \cfrac{p \rightarrow q, p \vdash q} { \cfrac{p, p \rightarrow q \vdash q} {p \vdash(p \rightarrow q) \rightarrow q} } } $$
 
 前提结合不可交换时，这个证明行不通。这是前提结合行为与涉及条件句的演绎行为之间联系的又一简单例子。
 
@@ -61,17 +51,11 @@ $$ \cfrac{p \rightarrow q \vdash p \rightarrow q} { \cfrac{p \rightarrow q, p \v
 
 这个反例也能按前提结合的行为来理解。说 $X,A \vdash B$ 为真，并非只说 $B$ 在 $X$ 与 $A$ 都成立的任何情形中成立。要的是真正的 **蕴涵** *A $\rightarrow$ B*：$B$ 在 $A$ 为真的任何（相关）情形中为真。于是 $X,A \vdash B$ 说，在 $A$ 为真的 **任何** 可能性中 $B$ 亦真；这些可能性未必满足 $X$ 的全部（经典蕴涵理论中，可能性是 $X$ 中一切被当作 **必然** 者为真的那些）。
 
-前提结合不可交换时，剩余化可走 **两条** 路。除给出 $\rightarrow$ 行为的剩余化条件外，还可定义新箭头 $\leftarrow$：
+前提结合不可交换时，剩余化可走 **两条** 路。除给出 $\rightarrow$ 行为的剩余化条件外，还可定义新箭头 $\leftarrow$：       $$ p, q \vdash r \text{ if and only if } q \vdash r \leftarrow p $$
 
-$$ p, q \vdash r \text{ if and only if } q \vdash r \leftarrow p $$
+对左到右箭头，这个方向的肯定前件成立：       $$ p \rightarrow q, p \vdash q $$
 
-对左到右箭头，这个方向的肯定前件成立：
-
-$$ p \rightarrow q, p \vdash q $$
-
-对右到左箭头，肯定前件在前提次序相反时可证：
-
-$$ p, q \leftarrow p \vdash q $$
+对右到左箭头，肯定前件在前提次序相反时可证：       $$ p, q \leftarrow p \vdash q $$
 
 这是子结构逻辑的特色：一旦注意缺少全套结构规则时会怎样，新的可能性就打开了。原先只有一个条件句（直觉主义或经典逻辑）的地方，露出了 **两个** 条件句。
 
@@ -81,31 +65,23 @@ $$ p, q \leftarrow p \vdash q $$
 
 证明里还有一类结构假定。迄今你也许假定矢列的前提排成一个列表，且 $p,q,r$ 既可读作 $p,q$ 右侧添 $r$，也可读作 $q,r$ 左侧添 $p$。若如此，你就认为前提结构 $(p,q),r$ 与 $p,(q,r)$ 同一——前提结合（此处以逗号表示）是 **可结合的**。前提结合的结合性又是一条结构规则，同样影响推理的有效性。
 
-为看清来由，回到 **切** 规则的表述：怎样在不对前提结合是否可结合作预判的情况下清楚陈述它？更一般的形式是：
-
-$$ \cfrac{X\vdash A \qquad Y(A)\vdash B}{Y(X)\vdash B} $$
+为看清来由，回到 **切** 规则的表述：怎样在不对前提结合是否可结合作预判的情况下清楚陈述它？更一般的形式是：       $$ \cfrac{X\vdash A \qquad Y(A)\vdash B}{Y(X)\vdash B} $$
 
 凡能从 $X$ 证 $A$，又能从某处含 $A$ 的假定证 $B$，则能从这些假定证 $B$——只要在那些地方把诉诸 $A$ 就地换成诉诸 $X$。这里没有对前提结合作任何隐含重排。我们外科手术般地把“诉诸 $A$”换成“诉诸当初证成 $A$ 的东西”。
 
 类似地，条件句规则也可不靠结合性来理解：$X,p\vdash q$ 与 $X\vdash p\rightarrow q$ 等价，标志着逗号可读作 **施用**——假定 $X$ 给出条件句，当且仅当把这些假定施于前件即得后件。施用概念 **本身** 不含结合性假定。
 
-这样理解，条件句的 **左** 规则如下：
-
-$$ \cfrac{X(q)\vdash C\qquad Y\vdash p}{X(p\to q,Y)\vdash C} $$
+这样理解，条件句的 **左** 规则如下：       $$ \cfrac{X(q)\vdash C\qquad Y\vdash p}{X(p\to q,Y)\vdash C} $$
 
 这说：若在 $C$ 的某个证成中诉诸 $q$，而另有对 $p$ 的证成 $Y$，则在 $C$ 的该证成中可不直接诉诸 $q$，改诉诸施于 $Y$ 的 $p\to q$。这一表述同样小心尊重施用次序，没有隐含重排。
 
-明白这些，就能读懂下述证明：左规则施用两次，引入 $r\to p$ 与 $p\to q$，表明 $p\to q,(r\to p,r)$ 合起来证成 $q$。要用它得出关于 $r\to q$ 的结论，得消去假定 $r$；可为此必须重排前提结合的次序。
-
-$$ \cfrac{ \begin{matrix} \\ q\vdash q \end{matrix} \qquad \begin{matrix} p\vdash p\quad r\vdash r \\ \hline r \rightarrow p, r \vdash p \end{matrix}} { \cfrac{p \rightarrow q, (r \rightarrow p, r) \vdash q} { \cfrac{(p \rightarrow q, r \rightarrow p), r \vdash q} { \cfrac{ p \rightarrow q, r \rightarrow p \vdash r \rightarrow q } {p \rightarrow q \vdash(r \rightarrow p) \rightarrow(r \rightarrow q)} } } } $$
+明白这些，就能读懂下述证明：左规则施用两次，引入 $r\to p$ 与 $p\to q$，表明 $p\to q,(r\to p,r)$ 合起来证成 $q$。要用它得出关于 $r\to q$ 的结论，得消去假定 $r$；可为此必须重排前提结合的次序。       $$ \cfrac{ \begin{matrix} \\ q\vdash q \end{matrix} \qquad \begin{matrix} p\vdash p\quad r\vdash r \\ \hline r \rightarrow p, r \vdash p \end{matrix}} { \cfrac{p \rightarrow q, (r \rightarrow p, r) \vdash q} { \cfrac{(p \rightarrow q, r \rightarrow p), r \vdash q} { \cfrac{ p \rightarrow q, r \rightarrow p \vdash r \rightarrow q } {p \rightarrow q \vdash(r \rightarrow p) \rightarrow(r \rightarrow q)} } } } $$
 
 可见这证明诉诸前提结合的结合性，却没用到收缩与弱化。没有结合性，就别指望从 $p\to q$ 推出 $(r\to p)\to(r\to q)$ 有效。
 
 ### 1.4 收缩
 
-最后一个重要例子是 **收缩** 规则，它规定前提怎样重复使用。从 $p \rightarrow (p \rightarrow q)$ 推出 $p \rightarrow q$ 时，收缩不可少：
-
-$$ \cfrac{ \matrix{ \cfrac{p \rightarrow(p \rightarrow q) \vdash p \rightarrow(p \rightarrow q)} {p \rightarrow(p \rightarrow q), p \vdash p \rightarrow q} & \cfrac{p \rightarrow q \vdash p \rightarrow q} {p \rightarrow q, p \vdash q} } } { \cfrac{(p \rightarrow(p \rightarrow q), p), p \vdash q} { \cfrac{p \rightarrow(p \rightarrow q), p \vdash q} {p \rightarrow(p \rightarrow q) \vdash p \rightarrow q} } } $$
+最后一个重要例子是 **收缩** 规则，它规定前提怎样重复使用。从 $p \rightarrow (p \rightarrow q)$ 推出 $p \rightarrow q$ 时，收缩不可少：       $$ \cfrac{ \matrix{ \cfrac{p \rightarrow(p \rightarrow q) \vdash p \rightarrow(p \rightarrow q)} {p \rightarrow(p \rightarrow q), p \vdash p \rightarrow q} & \cfrac{p \rightarrow q \vdash p \rightarrow q} {p \rightarrow q, p \vdash q} } } { \cfrac{(p \rightarrow(p \rightarrow q), p), p \vdash q} { \cfrac{p \rightarrow(p \rightarrow q), p \vdash q} {p \rightarrow(p \rightarrow q) \vdash p \rightarrow q} } } $$
 
 证明倒数第二步用到一条原则：某结论若靠 **两次** 施用某假定（此处 $p$）得出，则只施用 **一次** 该假定时也可证成。（注意：第三行给假定加了括号——该证明不诉诸前提结合的结合性，故可区分 $(A,B),C$ 与 $A,(B,C$。）
 
@@ -113,19 +89,21 @@ $$ \cfrac{ \matrix{ \cfrac{p \rightarrow(p \rightarrow q) \vdash p \rightarrow(p
 
 ### 1.5 十字转门右侧的结构
 
-Gentzen 的矢列演算开创性工作（Gentzen 1935）[^gentzen-1935] 表明：**经典** 与 **直觉主义** 逻辑之别，未必在于某个联结词（否定、析取、条件句）的行为。它也可以在于定义这些联结词的矢列环境结构，以及该环境满足的结构规则。Gentzen 的直觉主义矢列演算 *LJ* 用形如 $X \vdash A$ 的矢列：一簇前件、单个后件——正是我们迄今关注的矢列。其经典演算 *LK* 则用更一般的形式：
-
-$$ X \vdash Y $$
+Gentzen 的矢列演算开创性工作（Gentzen 1935）[^gentzen-1935] 表明：**经典** 与 **直觉主义** 逻辑之别，未必在于某个联结词（否定、析取、条件句）的行为。它也可以在于定义这些联结词的矢列环境结构，以及该环境满足的结构规则。Gentzen 的直觉主义矢列演算 *LJ* 用形如 $X \vdash A$ 的矢列：一簇前件、单个后件——正是我们迄今关注的矢列。其经典演算 *LK* 则用更一般的形式：       $$ X \vdash Y $$
 
 这里矢列右侧也允许若干公式，$X$、$Y$ 都是公式汇集。预期解释：从 $X$ 的 **全部** 可推出 $Y$ 中某些；换言之，不会出现 $X$ 全成立而 $Y$ **一个不** 成立。（更多见“证明论”第 2 节、“命题逻辑”第 2.3.2 节。）
 
-允许多后件矢列，把熟悉的联结词规则译入这一更宽语境，就能推出经典重言式。例如：
+允许多后件矢列，把熟悉的联结词规则译入这一更宽语境，就能推出经典重言式。例如：       $$ \cfrac{p \vdash p} { \cfrac{p \vdash q, p} {\vdash p \rightarrow q, p} } $$
 
-$$ \cfrac{p \vdash p} { \cfrac{p \vdash q, p} {\vdash p \rightarrow q, p} } $$
-
-表明 $p \rightarrow q$ 与 $p$ 至少有一成立。经典逻辑中有效（$p$ 不成立则 $p$ 为 **假**，前件假的条件句为真），直觉主义逻辑中无效。类似地，直觉主义者对不矛盾律的推导可自然“对偶化”为排中律的经典证明。如下所示：$$ \cfrac{p\vdash p}{\cfrac{p,\neg p\vdash} {p\amp\neg p\vdash}} \qquad\qquad \cfrac{p\vdash p}{\cfrac{\vdash p,\neg p}{\vdash p\lor\neg p}} $$ 这样，经典与直觉主义之别，在于允许何种结构规则、分析后承时宜用何种结构，而不在某个逻辑常项的行为。
-
-### 1.6 切与同一性
+      表明 $p \rightarrow q$ 与 $p$ 至少有一成立。经典逻辑中有效（$p$ 不成立则 $p$ 为 **假**，前件假的条件句为真），直觉主义逻辑中无效。类似地，直觉主义者对不矛盾律的推导可自然“对偶化”为排中律的经典证明。如下所示：$$ \cfrac{p\vdash p}{\cfrac{p,\neg p\vdash} {p\amp\neg p\vdash}} \qquad\qquad \cfrac{p\vdash p}{\cfrac{\vdash p,\neg p}{\vdash p\lor\neg p}} $$ 这样，经典与直觉主义之别，在于允许何种结构规则、分析后承时宜用何种结构，而不在某个逻辑常项的行为。
+- id: 48
+    kind: body
+    source: |-
+      ### 1.6 Cut and Identity
+    step1: |-
+      ### 1.6 切与同一性
+    step2: |-
+      ### 1.6 切与同一性
 
 这里每条结构规则（弱化、交换、结合、收缩）本质上都涉及前提结合；就经典矢列而言，则涉及前提与 **结论** 的结合。最先见到的 **切** 规则，最简形式与前提结合无关：$$ \cfrac{A\vdash B\qquad B\vdash C}{A\vdash C} $$ 完全不涉及两侧公式的凑合。它的核心不在前提或结论怎样结合，而在两点之间：“证出某公式”（即 **切** 公式 $B$）在矢列 **右侧** 所需之物，以及拿该公式在 **左侧** 能 **做** 什么。用经济学比喻：能“付”$A$ 换 $B$、又付 $B$ 换 $C$，最初付 $A$ 就应足以得到 $C$。更抽象地说：矢列右侧的 $B$ 至少与左侧的 $B$ 同样有力——凡能从 **左** 侧 $B$ 证出者（此处 $C$），凡能 **在右** 侧蕴涵 $B$ 者都可证出。
 
@@ -163,17 +141,11 @@ $$ \cfrac{p \vdash p} { \cfrac{p \vdash q, p} {\vdash p \rightarrow q, p} } $$
 
 ## 3 证明论
 
-前面已见过用证明呈现子结构逻辑的一个片段：剩余化条件，可理解为条件句的两条规则，一条 **引入** 条件句
+前面已见过用证明呈现子结构逻辑的一个片段：剩余化条件，可理解为条件句的两条规则，一条 **引入** 条件句       $$ \cfrac{X, A \vdash B} {X \vdash A \rightarrow B} $$
 
-$$ \cfrac{X, A \vdash B} {X \vdash A \rightarrow B} $$
+另一条 **消除** 它：       $$ \cfrac{X \vdash A \rightarrow B \ \ \ Y \vdash A} {X, Y \vdash B} $$
 
-另一条 **消除** 它：
-
-$$ \cfrac{X \vdash A \rightarrow B \ \ \ Y \vdash A} {X, Y \vdash B} $$
-
-这类规则是自然演绎系统的基石，适用于广大范围的子结构逻辑。但证明论也能另做：*Gentzen* 系统不靠引入与消除运作，而是在后承十字转门左右两侧都作引入。保留上面的引入规则，把消除规则换成左侧引入条件句：
-
-$$ \cfrac{X \vdash A \ \ \ Y(B) \vdash C} {Y(A \rightarrow B, X) \vdash C} $$
+这类规则是自然演绎系统的基石，适用于广大范围的子结构逻辑。但证明论也能另做：*Gentzen* 系统不靠引入与消除运作，而是在后承十字转门左右两侧都作引入。保留上面的引入规则，把消除规则换成左侧引入条件句：       $$ \cfrac{X \vdash A \ \ \ Y(B) \vdash C} {Y(A \rightarrow B, X) \vdash C} $$
 
 规则更复杂，效果却同箭头消除：若 $X$ 足以给出 $A$，且你（在语境 $Y$ 中）用 $B$ 证 $C$，那么（在同一语境 $Y$ 中）用 $A \rightarrow B$ 连同 $X$ 同样能证 $C$——$A \rightarrow B$ 加 $X$ 就给出 $B$。
 
@@ -181,9 +153,7 @@ Gentzen 系统左右两侧都有引入规则，性质特殊，很适合研究逻
 
 在线性逻辑、Lambek 演算这类子结构逻辑中，以及在相干逻辑 $\mathbf{R}$ 的无析取片段中，Gentzen 系统可证该逻辑 **可判定**：能找到算法判定 $X \vdash A$ 是否有效。办法是在 Gentzen 系统中搜索 $X \vdash A$ 的证明。结论的前提不得含结论中没有的语词，复杂度又不更大，可能的前提便只有有穷多个；算法检查它们是否合规则，再为其找前提，撞上公理就停。如此，某些子结构逻辑的可判定性得到保证。
 
-但并非所有子结构逻辑都可判定：最著名的是 $\mathbf{R}$ 不可判定，部分因为其证明论比其他子结构逻辑复杂。$\mathbf{R}$ 与线性逻辑、Lambek 演算不同，对合取与析取有直接处理：合取、析取满足 **分配** 规则
-
-$$ p \amp(q \vee r) \vdash (p \amp q) \vee (p \amp r) $$
+但并非所有子结构逻辑都可判定：最著名的是 $\mathbf{R}$ 不可判定，部分因为其证明论比其他子结构逻辑复杂。$\mathbf{R}$ 与线性逻辑、Lambek 演算不同，对合取与析取有直接处理：合取、析取满足 **分配** 规则       $$ p \amp(q \vee r) \vdash (p \amp q) \vee (p \amp r) $$
 
 分配律的自然证明在任何系统里都要用弱化和收缩，$\mathbf{R}$ 不含弱化，自然用不上。于是 $\mathbf{R}$ 的证明论要么把分配当原始规则，要么添第二种前提结合（**外延** 结合，与前述 **内涵** 结合相对），它满足弱化与收缩。
 
@@ -207,9 +177,7 @@ $A \rightarrow B$ 在 $x$ 为真，当且仅当对每个满足 $Rxyz$ 的 $y,z$�
 
 当代语言分类文献把基本 Lambek 演算扩展出更丰富的组合形式，以建模更多句法特征（见 Moortgat 1995）[^moortgat-1995]。
 
-另一应用是 **函数施用** 的语义：把模型中的点同时看作 **函数** 与 **数据**，并主张 $Rxyz$ 当且仅当把 $x$（作函数）施于 $y$（作数据）得 $z$。传统函数说明不鼓励这种双用：函数被视为比输入输出“更高”（按传统集合论模型，函数 $=$ 其 **输入—输出** 对之集，故永不能以 **自身** 为输入——集合不能以自身为成员）。但无类型 $\lambda$-演算建模的函数系统允许自我施用。按此读法，一点具有类型 $A \rightarrow B$，当且仅当凡接受 $A$ 型输入，便给出 $B$ 型输出。其推理规则便是支配函数类型的原理：矢列
-
-$$ (A \rightarrow B) \amp(A \rightarrow C) \vdash A \rightarrow (B \amp C) $$
+另一应用是 **函数施用** 的语义：把模型中的点同时看作 **函数** 与 **数据**，并主张 $Rxyz$ 当且仅当把 $x$（作函数）施于 $y$（作数据）得 $z$。传统函数说明不鼓励这种双用：函数被视为比输入输出“更高”（按传统集合论模型，函数 $=$ 其 **输入—输出** 对之集，故永不能以 **自身** 为输入——集合不能以自身为成员）。但无类型 $\lambda$-演算建模的函数系统允许自我施用。按此读法，一点具有类型 $A \rightarrow B$，当且仅当凡接受 $A$ 型输入，便给出 $B$ 型输出。其推理规则便是支配函数类型的原理：矢列       $$ (A \rightarrow B) \amp(A \rightarrow C) \vdash A \rightarrow (B \amp C) $$
 
 告诉我们：函数若把 $A$ 映为 $B$、又把 $A$ 映为 $C$，它就把 $A$ 映为既是 $B$ 又是 $C$ 的东西。
 

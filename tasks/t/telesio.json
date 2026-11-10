@@ -2,7 +2,7 @@
   "slug": "telesio",
   "kind": "retranslate",
   "zh_doc": "t/telesio.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "REV-main-20261109",
       "at": "2026-11-09T15:01:40Z",
       "evidence": "r1 回源逐节核销（导语+7 节全对照，无 Critical/Major/漏译）：实修 3 类——词条名归一（人名表正形「特莱西奥」，H1/SUMMARY/mu-lu-s/ci-hui-biao 四处同步，特勒肖为 TZ 批遗留归一项）；三处拉丁书名由方括号改斜体（De iis…/De colorum…/De mari）；其他网络资源列表 dash→asterisk（MD004×2）。探针 NUM ∅；ENRES 1 为 References 拉丁书名照录；BLOCK +1 为 zh 引块分段。四检：style 0/academic 0 硬/math 0/prose 6 全在引文块内（DRN 卷五两引与感官知觉引语），逐条豁免"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261109",
+      "at": "2026-11-09T17:58:49Z",
+      "evidence": "r1–r3 全过（r1 名归一 4 处+拉丁书名 3+MD004×2；r2 cosmos 1；r3 无新增），四检绿、check_all 7/7、lint 0；冷置条款满足（r2→r3 间完成 du-bos r1）"
     }
   ],
   "blockers": [],

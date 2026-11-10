@@ -2,7 +2,7 @@
   "slug": "adorno",
   "kind": "retranslate",
   "zh_doc": "a/adorno.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-10-31T23:09:55Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A5-main-20261110",
+      "at": "2026-11-09T23:49:06Z",
+      "evidence": "compose --write 78369 字符；lq check HARD=0（SOFT 19 条豁免：书名斜体转《》与机械段）；账本 tasks/a/adorno.ledger.yaml 84 段全量双版（批1-7 提交 ecd0b87c8 起）；italic_to_bold 2 行；相关词条 rationality 无 SUMMARY 行改中文'理性'待挂链"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A5-main-20261110",
+      "at": "2026-11-10T00:07:39Z",
+      "evidence": "一校对照：外文碎片扫描 0（formulate/whatever 等快译残留已修，段45 实修）；术语一致性 34 词全对齐登记册（grep 现查）；人名 20 人零混形（特奥多尔=0，西奥多=5）；脚注键/$/星号守恒 HARD=0；引用组逐段照录核对完成"
     }
   ],
   "blockers": [],

@@ -1,0 +1,348 @@
+{
+ "key": "noetic",
+ "term": "noetic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T02:58:19+00:00",
+ "status": "ok",
+ "note": "variant=noetic; 审定公布名词库=547; 海峡两岸名词对照库=164; 其他来源数据库=20; 预公布名词数据库=14; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "思维科学",
+   "en": "noetic science",
+   "code": "01.032",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_科学观"
+  },
+  {
+   "cn": "思维科学",
+   "en": "noetic science",
+   "code": "05.025",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制"
+  },
+  {
+   "cn": "通知",
+   "en": "notice",
+   "code": "02.01.055",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_文件概述"
+  },
+  {
+   "cn": "催吐药",
+   "en": "emetic",
+   "code": "17.189",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医药理学"
+  },
+  {
+   "cn": "催吐剂",
+   "en": "emetic",
+   "code": "11.087",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射性疾病诊断、治疗与健康监护_内照射放射病诊断与治疗"
+  },
+  {
+   "cn": "光电集成电路",
+   "en": "optoelectronic IC,OEIC",
+   "code": "16.144",
+   "standard": "电子学名词",
+   "subject": "电子学_量子电子学与光电子学"
+  },
+  {
+   "cn": "光电子集成回路",
+   "en": "optoelectronic integrated circuit,OEIC",
+   "code": "08.145",
+   "standard": "光学名词",
+   "subject": "光学_光纤光学与导波光学"
+  },
+  {
+   "cn": "光电子集成电路",
+   "en": "optoelectronic integrated circuit,OEIC",
+   "code": "06.0326",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_半导体材料_半导体微结构材料及器件"
+  },
+  {
+   "cn": "最大无影响浓度",
+   "en": "no observed effect concentration,NOEC",
+   "code": "14.223",
+   "standard": "生态学名词",
+   "subject": "生态学_污染生态学"
+  },
+  {
+   "cn": "诗刊",
+   "en": "poetic periodical",
+   "code": "07.03.039",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "主动脉瓣关闭不全",
+   "en": "aortic incompetence,aortic insufficiency",
+   "code": "01.072",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_心血管病学"
+  },
+  {
+   "cn": "主动脉瓣狭窄",
+   "en": "aortic stenosis,valvular aortic stenosis",
+   "code": "01.064",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_心血管病学"
+  },
+  {
+   "cn": "思维科学",
+   "en": "noetic science",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "催吐药",
+   "en": "emetic",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "光电子集成回路",
+   "en": "optoelectronic integrated circuit\",\"OEIC",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "光电集成电路",
+   "en": "optoelectronic integrated circuit\",\"optoelectronic IC\",\"OEIC",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "主动脉孔",
+   "en": "aortic opening\",\"aortic aperture",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "吐酒石",
+   "en": "emetic tartar\",\"tartar emetic",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "视沟",
+   "en": "optic groove\",\"optic sulcus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "视交叉",
+   "en": "optic chiasma\",\"optic chiasm",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "视板",
+   "en": "optic placode\",\"optic plate",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "视叶",
+   "en": "optic lobe\",\"optic tract",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "动脉囊",
+   "en": "aortic sac",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "主动脉口",
+   "en": "aortic orifice",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "歌行体",
+   "en": "Poetic Song",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "主动脉瓣",
+   "en": "aortic valve",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公开告知",
+   "en": "public notice",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "处罚规定",
+   "en": "disciplinary notice",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "西昆体",
+   "en": "The Xikun Poetic Style",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "永明体",
+   "en": "The Yongming Poetic Style",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "利奈唑胺",
+   "en": "Optic neuropathy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主动脉夹层",
+   "en": "acute aortic syndrome",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "竞赛规程",
+   "en": "notice of race",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "诗家三昧",
+   "en": "The Key to Poetic Creation",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "宋杂剧",
+   "en": "Poetic Drama of the Song Dynasty",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "催吐剂",
+   "en": "emetic",
+   "code": "6.3.3.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内污染医学处理"
+  },
+  {
+   "cn": "客位",
+   "en": "etic",
+   "code": "4.2.7.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类学方法"
+  },
+  {
+   "cn": "文化诗学",
+   "en": "cultural poetics",
+   "code": "1.0234",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "视神经萎缩",
+   "en": "optic atrophy",
+   "code": "3.2.6.23",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "卤代乙酸",
+   "en": "halogenated acetic acid",
+   "code": "6.3.2.8.6",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "主动脉弓综合征",
+   "en": "aortic arch syndrome",
+   "code": "2.18.8.37",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征"
+  },
+  {
+   "cn": "报丧",
+   "en": "give an obituary notice",
+   "code": "4.0256",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "蜡样芽孢杆菌呕吐毒素",
+   "en": "bacillus cereus emetic toxin",
+   "code": "2.1.1.50",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "客位法",
+   "en": "etic approach",
+   "code": "1.067",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "在位与非位",
+   "en": "emic and etic",
+   "code": "5.0074",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "醋酸染色裸眼观察",
+   "en": "visual inspection with acetic acid, VIA",
+   "code": "3.10.2.1.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_妇女常见病防治"
+  },
+  {
+   "cn": "放射性视神经损伤",
+   "en": "radiation induced optic nerve injury",
+   "code": "4.2.4.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射性疾病"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

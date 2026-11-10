@@ -1,0 +1,96 @@
+{
+ "key": "nociceptor",
+ "term": "nociceptor",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T02:58:19+00:00",
+ "status": "ok",
+ "note": "variant=nociceptor; 审定公布名词库=18; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "伤害性感受器",
+   "en": "nociceptor",
+   "code": "07.005",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_疼痛诊疗_疼痛分类"
+  },
+  {
+   "cn": "伤害性感受器",
+   "en": "nociceptor",
+   "code": "03.229",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "伤害性感受器",
+   "en": "nociceptor",
+   "code": "04.095",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_神经生物物理学_多模态感觉信息加工"
+  },
+  {
+   "cn": "多觉型伤害性感受器",
+   "en": "polymodal nociceptor",
+   "code": "07.006",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_疼痛诊疗_疼痛分类"
+  },
+  {
+   "cn": "寂静性伤害感受器",
+   "en": "silent nociceptor",
+   "code": "17.016",
+   "standard": "消化病学名词",
+   "subject": "消化病_功能性胃肠病_功能性胃肠病生理"
+  },
+  {
+   "cn": "静默伤害性感受器",
+   "en": "silent nociceptor",
+   "code": "03.230",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "热伤害性感受器",
+   "en": "thermal nociceptor",
+   "code": "03.232",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "冷伤害性感受器",
+   "en": "cold nociceptor",
+   "code": "03.233",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "机械伤害性感受器",
+   "en": "mechanical nociceptor",
+   "code": "03.234",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "肽能伤害性感受器",
+   "en": "peptidergic nociceptor",
+   "code": "03.236",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "非肽能伤害性感受器",
+   "en": "non-peptidergic nociceptor",
+   "code": "03.237",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "伤害性感受",
+   "en": "nociception",
+   "code": "03.231",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -2,7 +2,7 @@
   "slug": "logic-substructural",
   "kind": "retranslate",
   "zh_doc": "l/logic-substructural.md",
-  "state": "cleared",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,27 @@
       "actor": "task_ops",
       "at": "2026-11-10T01:54:39Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T02:58:17Z",
+      "evidence": "lq compose 104 段全填、守恒 HARD 0（SOFT 仅斜体计数）；l/logic-substructural.md 28,687 字符；p1–p6 分批（1–13/14–30/31–50/51–66/67–85/86–104）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T02:58:18Z",
+      "evidence": "check_style 0（ST/TS 粗体间距 2 处）；check_prose 0（8 处 long-sentence/de-chain/weak-verb/passive-bei 在账本 step2 改写后重 compose）；check_math missing 0/unbalanced 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T02:58:18Z",
+      "evidence": "check_academic --strict 0 硬错误；check_terms 硬错误 0（新增术语 14、人名 16，script/l_reg_logic_substructural.py）；check_summary H1 mismatch 0"
     }
   ],
   "blockers": [],
