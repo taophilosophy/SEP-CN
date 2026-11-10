@@ -2,7 +2,8 @@
   "plugins": {
     "enabledPlugins": {
       "zcode-mcp-app-dev@zcode-plugins-official": false,
-      "visualize@zcode-plugins-official": true
+      "visualize@zcode-plugins-official": true,
+      "design@zcode-plugins-official": true
     },
     "visualizeDefaultOffMigrated": true
   }

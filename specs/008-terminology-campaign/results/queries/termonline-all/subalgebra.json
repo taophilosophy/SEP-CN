@@ -1,0 +1,33 @@
+{
+ "key": "subalgebra",
+ "term": "subalgebra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:06:13+00:00",
+ "status": "ok",
+ "note": "variant=subalgebra; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "子代数",
+   "en": "subalgebra",
+   "code": "04.1395",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "子李代数",
+   "en": "Lie subalgebra",
+   "code": "04.1493",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "嘉当子代数",
+   "en": "Cartan subalgebra",
+   "code": "04.1530",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

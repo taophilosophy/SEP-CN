@@ -1,0 +1,348 @@
+{
+ "key": "stock centre",
+ "term": "stock centre",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:55:41+00:00",
+ "status": "ok",
+ "note": "variant=stock centre; 审定公布名词库=2775; 海峡两岸名词对照库=857; 其他来源数据库=264; 预公布名词数据库=118; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "载荷中心",
+   "en": "load centre",
+   "code": "07.0733",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_滚动轴承_滚动轴承尺寸"
+  },
+  {
+   "cn": "控制中心",
+   "en": "control centre",
+   "code": "06.012",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "铸坯中心疏松",
+   "en": "centre porosity",
+   "code": "05.1575",
+   "standard": "冶金学名词",
+   "subject": "冶金学_钢铁冶金_铸造与凝固"
+  },
+  {
+   "cn": "陷俘中心",
+   "en": "trapping centre",
+   "code": "08.1523",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_固体及其性质"
+  },
+  {
+   "cn": "仿真中心",
+   "en": "simulation centre",
+   "code": "04.668",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制技术_仿真"
+  },
+  {
+   "cn": "调心托辊",
+   "en": "centring idler",
+   "code": "3.1715",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_固体物料输送设备"
+  },
+  {
+   "cn": "调心托辊",
+   "en": "centring idler",
+   "code": "02.0061",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_物料搬运机械_输送机械_带式输送机"
+  },
+  {
+   "cn": "岩株",
+   "en": "stock",
+   "code": "04.02.019",
+   "standard": "地质学名词",
+   "subject": "地质学_火成岩岩石学_岩体产状"
+  },
+  {
+   "cn": "砧木",
+   "en": "stock",
+   "code": "09.0238",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林植物_风景园林植物繁殖生产与栽培养护"
+  },
+  {
+   "cn": "存量",
+   "en": "stock",
+   "code": "04.144",
+   "standard": "经济学名词",
+   "subject": "经济学_宏观经济学"
+  },
+  {
+   "cn": "股票",
+   "en": "stock",
+   "code": "12.112",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "浆料",
+   "en": "stock",
+   "code": "12.240",
+   "standard": "林学名词",
+   "subject": "林学_林产化学加工_木材制浆造纸"
+  },
+  {
+   "cn": "城市中心",
+   "en": "urban centre",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "地理中心",
+   "en": "geographic centre",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "测站归心",
+   "en": "station  centring",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "纸料",
+   "en": "stock",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "岩株",
+   "en": "stock",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "原种",
+   "en": "stock",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "岩株",
+   "en": "stock",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "原种",
+   "en": "stock",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "股票",
+   "en": "stocks",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "货币中心银行",
+   "en": "money-centre bank",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "点下对中",
+   "en": "centring under point",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "归心改正，归心计算",
+   "en": "correction for centring",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "股票",
+   "en": "stock",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "腹护具",
+   "en": "stock",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "长袜",
+   "en": "stocking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "长袜",
+   "en": "stocking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "长袜",
+   "en": "stocking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "长袜",
+   "en": "stocking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "长袜",
+   "en": "stocking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "国际地震中心",
+   "en": "International Seismological Centre",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "证券交易所",
+   "en": "Stock exchange",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "岩株",
+   "en": "Stock(geology)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "股票市场",
+   "en": "stock market",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "枪托",
+   "en": "butt\",\"buttstock\",\"stock",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "核心—边缘",
+   "en": "centre-periphery",
+   "code": "2.9.2.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_发展社会学_依附理论"
+  },
+  {
+   "cn": "股票",
+   "en": "stock",
+   "code": "02.0242",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "股票价格",
+   "en": "stock price",
+   "code": "02.0245",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "健康存量",
+   "en": "health stock",
+   "code": "3.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康需求_健康需求"
+  },
+  {
+   "cn": "标准储备菌株",
+   "en": "reference stocks",
+   "code": "1.5.53",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "证券交易所",
+   "en": "stock exchange house",
+   "code": "02.0247",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "股份制",
+   "en": "Joint stock system",
+   "code": "02.0392",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "原液稳定性",
+   "en": "stock solution stability",
+   "code": "6.3.4.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品用香精香料"
+  },
+  {
+   "cn": "股份合作制",
+   "en": "joint stock cooperative system",
+   "code": "02.0416",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "儿童收养中心",
+   "en": "China centre for children's welfare and adoption",
+   "code": "4.4.9.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "英国公共卫生部放射、化学物和环境有害物中心",
+   "en": "the Public Health England Centre for Radiation，Chemicals and Environmental Hazards（CRCE），PHE-CRCE",
+   "code": "10.1.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_组织机构"
+  },
+  {
+   "cn": "燃料柱",
+   "en": "fuel stack",
+   "code": "6.6.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

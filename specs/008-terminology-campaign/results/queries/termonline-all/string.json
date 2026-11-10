@@ -1,0 +1,348 @@
+{
+ "key": "string",
+ "term": "string",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:01:43+00:00",
+ "status": "ok",
+ "note": "variant=string; 审定公布名词库=1694; 海峡两岸名词对照库=395; 其他来源数据库=188; 预公布名词数据库=74; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "弦",
+   "en": "string",
+   "code": "04.2742",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_声学"
+  },
+  {
+   "cn": "串",
+   "en": "string",
+   "code": "02.0036",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_数据结构"
+  },
+  {
+   "cn": "字符串",
+   "en": "string",
+   "code": "01.794",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "串",
+   "en": "string",
+   "code": "05.278",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "线",
+   "en": "thread,string",
+   "code": "12.395",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天材料"
+  },
+  {
+   "cn": "字符串检索",
+   "en": "string search,string retrieval",
+   "code": "05.049",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "琴弦状粘连",
+   "en": "string adhesion",
+   "code": "3.3.3.4.2",
+   "standard": "肝病学名词",
+   "subject": "肝病学_感染性肝病_细菌感染性肝病"
+  },
+  {
+   "cn": "弦论",
+   "en": "string theory",
+   "code": "07.648",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "冷拖杆",
+   "en": "string halt",
+   "code": "19.820",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "线样征",
+   "en": "string sign",
+   "code": "15.013",
+   "standard": "消化病学名词",
+   "subject": "消化病_炎症性肠病_炎症性肠病生理病理"
+  },
+  {
+   "cn": "线形装药",
+   "en": "string loading",
+   "code": "02.0464",
+   "standard": "冶金学名词",
+   "subject": "冶金学_采矿_凿岩爆破"
+  },
+  {
+   "cn": "弦线静电计",
+   "en": "string electrometer",
+   "code": "03.1175",
+   "standard": "物理学名词",
+   "subject": "物理学_电磁学"
+  },
+  {
+   "cn": "串",
+   "en": "string",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "字符串",
+   "en": "string\",\"character string",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "琴弦",
+   "en": "string\",\"corda",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "弦乐三重奏",
+   "en": "string trio",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "弦乐四重奏",
+   "en": "string quartet",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "弦乐五重奏",
+   "en": "string quintet",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "弦论",
+   "en": "string theory",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "串匹配",
+   "en": "string matching",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "串文法",
+   "en": "string grammar",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "串语言",
+   "en": "string language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "串资源",
+   "en": "string resource",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "听弦",
+   "en": "auditory string",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "字符串",
+   "en": "string",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "一组",
+   "en": "string",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "球拍线",
+   "en": "string",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "球拍线",
+   "en": "string",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "拍面",
+   "en": "stringing\",\"strings",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "一组！",
+   "en": "String!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "拍面",
+   "en": "face\",\"strings",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "弓弦缠线部分",
+   "en": "string serving",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "弦圈",
+   "en": "string loop",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "弦臂",
+   "en": "string arm",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "一组试射",
+   "en": "sighting string",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "上弓弦",
+   "en": "brace\",\"string\",\"bracing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "五弦",
+   "en": "Five string lute",
+   "code": "3.0644",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "腌制",
+   "en": "curing",
+   "code": "4.4.56",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品生产规范"
+  },
+  {
+   "cn": "上光",
+   "en": "lustring",
+   "code": "5.4.26",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水果"
+  },
+  {
+   "cn": "选址",
+   "en": "siting",
+   "code": "6.1.7.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_设施防护安全"
+  },
+  {
+   "cn": "科学知识社会学的强纲领",
+   "en": "“strong program”",
+   "code": "3.10.1.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学研究"
+  },
+  {
+   "cn": "布拉格之春",
+   "en": "Prague Spring",
+   "code": "05.0218",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_主要事件"
+  },
+  {
+   "cn": "强声武器",
+   "en": "strong sound weapons",
+   "code": "13.1.1.4.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_新概念武器及伤害_新概念武器"
+  },
+  {
+   "cn": "每份食品",
+   "en": "per serving",
+   "code": "1.4.4.120",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "灼烧法",
+   "en": "firing method",
+   "code": "2.2.1.3.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "辐射固化",
+   "en": "radiation curing",
+   "code": "6.5.3.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用"
+  },
+  {
+   "cn": "共担风险",
+   "en": "risk-sharing",
+   "code": "11.4.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险费用分担机制"
+  },
+  {
+   "cn": "议程设置",
+   "en": "agenda setting",
+   "code": "10.1.2.1.2",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

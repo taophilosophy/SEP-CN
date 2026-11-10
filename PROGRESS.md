@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 18:13（UTC）
+生成时间：2026-11-10 18:16（UTC）
 
 ## 总览
 
@@ -15,19 +15,18 @@
 |已建任务|1177|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|299|
-|在途（drafted 起、done 前）|209|
+|在途（drafted 起、done 前）|210|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|669|
-|cleared|146|
+|pending|668|
+|cleared|147|
 |drafted|2|
-|s1_checked|1|
 |s2_checked|1|
-|s3_checked|55|
+|s3_checked|56|
 |r1_reviewed|3|
 |r2_reviewed|1|
 |done|299|
@@ -255,8 +254,9 @@
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
+|mathematical-practice|retranslate|cleared|task_ops 2026-11-10|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
-|montessori-maria|retranslate|s1_checked|M-main-20261110 2026-11-10|
+|montessori-maria|retranslate|s3_checked|M-main-20261111 2026-11-10|
 |moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |natphil-ren|retranslate|s3_checked|ZCode-N-20261110 2026-11-10|

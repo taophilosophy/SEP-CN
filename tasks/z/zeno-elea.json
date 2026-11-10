@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "Z-main-20261110",
       "at": "2026-11-09T17:42:16Z",
-      "evidence": "check_prose 0 告警(行39 de-chain 三连的实修解除: 破折号插断改有所报道结构, 的密度降为3且无0-12字窗口三连); 前会话 32 段 s2 实修沿用(长句拆分/定语链拆分/破折号改句号, compose 对位已核); 脱稿通读: 全文中文顺畅, 无欧化残留"
+      "evidence": "check_prose 0 告警(行39 de-chain 三连的实修解除: 破折号插断改有所报道结构, 的密度降为3且无0-12字窗口三连); 前会话 32 段 s2 实修沿用(长句拆分/定语链拆分/破折号改句号, compose 对位已核); 脱稿通读: 全文中文顺畅, 无欧化残留。；语体补记（Z-main-20261111，2026-11-11 通读补核：原步时点在 ADR-0033 语体门禁生效 2026-11-10T15:00Z 之前，原证据未记此结论，此处署名补记不改原文）：语体：现代汉语学术书面语，无文言仿古；破折号只用于插入、转折与解释，无滥用；直接引文与文献定义照录区除外。"
     },
     {
       "step": "s3",
@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "ZR-main-20261110",
       "at": "2026-11-10T10:40:35Z",
-      "evidence": "初审（独立会话，初译 Z-main-20261110）：逐段对照 yuanwen/z/zeno-elea.md 全文核销；脚注 124 条定义逐字符一致、正文引用键 2 配平；图 1–4 路径../yuanwen/assets/zeno-elea/graphicN.jpg 与镜像资产一一对应、alt 译出；运动场双图对照 en/zeno-elea 原始 HTML（嵌套表格转换缺陷：图1=2列表格 A 跨列+B→+←C，图2=单列三行）按显然意图重建为 markdown 表并留痕；H1/尾部四节/学术工具四行/OIR 占位/相关词条对位一致。实修 7 处（均同步账本 step2 双写，lq check 65 段守恒 HARD=0）：①per se②ad infinitum③reductio④reductio ad absurdum⑤⑥endoxa 补登记形「公认意见（*endoxa*）」⑦这些人 补源文 <em> 强调映射（bold-spacing 空格过门）。分级：Minor 7，Critical/Major 0。豁免留痕 2：Epiphanius/Eudemus 处于引注照录区（模板#6 引用组原样保留），登记形不适用。"
+      "evidence": "初审（独立会话，初译 Z-main-20261110）：逐段对照 yuanwen/z/zeno-elea.md 全文核销；脚注 124 条定义逐字符一致、正文引用键 2 配平；图 1–4 路径../yuanwen/assets/zeno-elea/graphicN.jpg 与镜像资产一一对应、alt 译出；运动场双图对照 en/zeno-elea 原始 HTML（嵌套表格转换缺陷：图1=2列表格 A 跨列+B→+←C，图2=单列三行）按显然意图重建为 markdown 表并留痕；H1/尾部四节/学术工具四行/OIR 占位/相关词条对位一致。实修 7 处（均同步账本 step2 双写，lq check 65 段守恒 HARD=0）：①per se②ad infinitum③reductio④reductio ad absurdum⑤⑥endoxa 补登记形「公认意见（*endoxa*）」⑦这些人 补源文 <em> 强调映射（bold-spacing 空格过门）。分级：Minor 7，Critical/Major 0。豁免留痕 2：Epiphanius/Eudemus 处于引注照录区（模板#6 引用组原样保留），登记形不适用。；语体补记（Z-main-20261111，2026-11-11 通读补核：原步时点在 ADR-0033 语体门禁生效 2026-11-10T15:00Z 之前，原证据未记此结论，此处署名补记不改原文）：语体：现代汉语学术书面语，无文言仿古；破折号只用于插入、转折与解释，无滥用；直接引文与文献定义照录区除外。"
     },
     {
       "step": "r2",

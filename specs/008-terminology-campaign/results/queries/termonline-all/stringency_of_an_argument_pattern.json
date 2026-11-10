@@ -1,0 +1,348 @@
+{
+ "key": "stringency (of an argument pattern)",
+ "term": "stringency (of an argument pattern)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:01:43+00:00",
+ "status": "ok",
+ "note": "variant=stringency (of an argument pattern); 审定公布名词库=10000; 海峡两岸名词对照库=7763; 其他来源数据库=1930; 预公布名词数据库=2717; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "杂交严格性",
+   "en": "hybridization stringency",
+   "code": "11.0468",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_分子杂交与印迹技术_层析技术"
+  },
+  {
+   "cn": "杂交严谨性",
+   "en": "hybridization stringency",
+   "code": "16.0313",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生物技术"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "code": "06.155",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_分析与推理"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "code": "4.277",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻评论"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "code": "05.0340",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "code": "01.0133",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "近点幅角",
+   "en": "argument of periapsis",
+   "code": "03.072",
+   "standard": "天文学名词",
+   "subject": "天文学_天体力学"
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "code": "03.203",
+   "standard": "天文学名词",
+   "subject": "天文学_天体力学"
+  },
+  {
+   "cn": "近地点幅角",
+   "en": "argument of perigee",
+   "code": "03.184",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天器"
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "code": "03.260",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "code": "03.514",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "code": "03.518",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "杂交严格性 （=杂交严谨性）",
+   "en": "hybridization stringency",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "杂交严谨性，杂交严格性",
+   "en": "hybridization stringency",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "杂交严格性",
+   "en": "hybridization stringency",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "纬度自变量",
+   "en": "argument of latitude",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "改革实干家",
+   "en": "an entrepreneur of reform",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "内踢",
+   "en": "an chagui",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "模式",
+   "en": "pattern",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "队形",
+   "en": "pattern",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "乱世之音",
+   "en": "Music of an Age of Disorder",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "撞倒障碍",
+   "en": "knocking down of an obstacle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "延安精神",
+   "en": "the spirit of  Yan’an",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "狂者胸次",
+   "en": "An Unrestrained Mind",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "提起申诉",
+   "en": "lodge an appeal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "提起申诉",
+   "en": "lodge an appeal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "压沉对方",
+   "en": "sink an opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "code": "1.228",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法"
+  },
+  {
+   "cn": "《安宁史》",
+   "en": "Anning History",
+   "code": "3.0305",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "文化模式",
+   "en": "patterns of culture",
+   "code": "1.0557",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "文化模式",
+   "en": "patterns of culture",
+   "code": "4.2.8.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类学理论"
+  },
+  {
+   "cn": "安抚司",
+   "en": "An Fu Si",
+   "code": "3.0206",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  },
+  {
+   "cn": "人口再生产类型",
+   "en": "pattern of population reproduction",
+   "code": "4.5.5.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_人口再生产"
+  },
+  {
+   "cn": "子宫型生长模式",
+   "en": "growth pattern of uterus",
+   "code": "2.1.5.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育规律"
+  },
+  {
+   "cn": "保安语",
+   "en": "Bao’an language",
+   "code": "5.0308",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "延安自然科学院",
+   "en": "Yan’an Academy of Natural Sciences",
+   "code": "01.133",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_历史上的重要流派和思想"
+  },
+  {
+   "cn": "气流流型",
+   "en": "air pattern",
+   "code": "1.8.22",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "行为模式",
+   "en": "behavior pattern",
+   "code": "2.5.11.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织行为"
+  },
+  {
+   "cn": "生长模式",
+   "en": "growth pattern",
+   "code": "2.1.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育规律"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
