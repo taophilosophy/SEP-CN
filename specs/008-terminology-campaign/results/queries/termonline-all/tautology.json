@@ -1,0 +1,47 @@
+{
+ "key": "tautology",
+ "term": "tautology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:12:19+00:00",
+ "status": "ok",
+ "note": "variant=tautology; 审定公布名词库=3; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "重言式",
+   "en": "tautology",
+   "code": "02.0046",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "重言式规则",
+   "en": "tautology rule",
+   "code": "08.0090",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "行为分类学",
+   "en": "behavioral taxology",
+   "code": "1.068",
+   "standard": "行为医学名词",
+   "subject": "行为医学_总论_行为医学分支学科"
+  },
+  {
+   "cn": "重言式",
+   "en": "tautology",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "重言式规则",
+   "en": "tautology rule",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

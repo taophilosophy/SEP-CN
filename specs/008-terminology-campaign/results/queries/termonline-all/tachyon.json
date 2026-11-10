@@ -1,0 +1,54 @@
+{
+ "key": "tachyon",
+ "term": "tachyon",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:04:49+00:00",
+ "status": "ok",
+ "note": "variant=tachyon; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "快子",
+   "en": "tachyon",
+   "code": "09.1040",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "快子场",
+   "en": "tachyonic field",
+   "code": "07.533",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "病理性心动过速",
+   "en": "pathological tachy-cardia",
+   "code": "03.402",
+   "standard": "结核病学名词",
+   "subject": "结核病学_结核病诊断_症状和体征"
+  },
+  {
+   "cn": "生理性心动过速",
+   "en": "physiologic tachy-cardia",
+   "code": "03.401",
+   "standard": "结核病学名词",
+   "subject": "结核病学_结核病诊断_症状和体征"
+  },
+  {
+   "cn": "慢快综合征",
+   "en": "brady-tachy arrhythmia syndrome,BTS",
+   "code": "01.316",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_心血管病学"
+  },
+  {
+   "cn": "快子",
+   "en": "tachyon",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

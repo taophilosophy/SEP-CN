@@ -1,0 +1,194 @@
+{
+ "key": "taxon",
+ "term": "taxon",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:12:19+00:00",
+ "status": "ok",
+ "note": "variant=taxon; 审定公布名词库=63; 海峡两岸名词对照库=31; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "分类单元",
+   "en": "taxon",
+   "code": "2.0019",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "分类单位",
+   "en": "taxon",
+   "code": "02.0024",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "分类单元",
+   "en": "taxon",
+   "code": "02.043",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "分类单元",
+   "en": "taxon",
+   "code": "01.0115",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "分类单元",
+   "en": "taxon,taxa (复)",
+   "code": "02.021",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "形式分类单元",
+   "en": "form-taxon",
+   "code": "02.049",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "单系分类单元",
+   "en": "monophyletic taxon",
+   "code": "02.046",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "多系分类单元",
+   "en": "polyphyletic taxon",
+   "code": "02.047",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "偏系分类单元",
+   "en": "paraphyletic taxon",
+   "code": "02.048",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "土壤类别",
+   "en": "soil taxon",
+   "code": "07.137",
+   "standard": "地理学名词",
+   "subject": "地理学_土壤地理学"
+  },
+  {
+   "cn": "土壤类别",
+   "en": "soil taxon",
+   "code": "02.273",
+   "standard": "土壤学名词",
+   "subject": "土壤学_土壤发生、分类和制图"
+  },
+  {
+   "cn": "分类单位延限带",
+   "en": "taxon-range zone",
+   "code": "07.01.086",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学与地层学_总论"
+  },
+  {
+   "cn": "分类单位，分类单元，分类群",
+   "en": "taxon",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "分类单元（=分类单位）",
+   "en": "taxon",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "分类群（=分类单位）",
+   "en": "taxon",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "分类单位,分类群",
+   "en": "taxon",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "分类单元",
+   "en": "taxon",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "分类单元",
+   "en": "taxon\",\"taxa(复)",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "新分类单位",
+   "en": "new taxon",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "土壤类别",
+   "en": "soil taxon",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "指名单元",
+   "en": "nominal taxon",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "紫杉醇",
+   "en": "taxol",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "紫杉醇",
+   "en": "taxol",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "轴突",
+   "en": "axon",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "盎格鲁-萨克逊人",
+   "en": "Anglo-Saxon",
+   "code": "6.0304",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_欧洲地区"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

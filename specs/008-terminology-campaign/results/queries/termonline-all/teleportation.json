@@ -1,0 +1,61 @@
+{
+ "key": "teleportation",
+ "term": "teleportation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:15:20+00:00",
+ "status": "ok",
+ "note": "variant=teleportation; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "电信港",
+   "en": "teleport",
+   "code": "13.041",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_服务与应用"
+  },
+  {
+   "cn": "量子隐形传态",
+   "en": "quantum teleportation",
+   "code": "03.391",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_物理学哲学"
+  },
+  {
+   "cn": "量子隐形传态",
+   "en": "quantum teleportation",
+   "code": "02.089",
+   "standard": "光学名词",
+   "subject": "光学_非线性光学与量子光学"
+  },
+  {
+   "cn": "量子远程传态",
+   "en": "quantum teleportation",
+   "code": "06.0777",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "量子隐形传态",
+   "en": "quantum teleportation",
+   "code": "12.0043",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "隐形传态协议",
+   "en": "teleportation protocol",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子隐形传态",
+   "en": "quantum teleportation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

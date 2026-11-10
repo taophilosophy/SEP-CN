@@ -168,7 +168,7 @@
 | Anscombe, Elizabeth | — | 伊丽莎白·安斯康姆 | — | — | ethics-deontological | 学界通行汉译（《现代道德哲学》作者） | 2026-11-04 |
 | Anselm of Canterbury | — | 坎特伯雷的安瑟伦 | — | — | descartes-ontological | 学界千年通行（经院哲学之父；正文行文用“安瑟伦”） | 2026-11-06 |
 | Anthony Wood | — | 安东尼·伍德 | — | — | legrand | 学界通行汉译（牛津古史家）；待 specs/008 审定库复核 | 2026-11-03 |
-| Antiochus of Ascalon | — | 阿斯卡隆的安提奥科斯 | — | — | xenocrates | 学界通行汉译（老学园晚期园长，调和学园派与斯多亚派） | 2026-11-08 |
+| Antiochus of Ascalon | — | 阿斯卡隆的安提奥科斯 | — | — | xenocrates | 学界通行汉译（老学园晚期园长，调和学园派与斯多葛派） | 2026-11-08 |
 | Antisthenes | — | 安提斯泰尼 | — | — | diodorus-cronus | 学界通行汉译（苏格拉底派哲学家，犬儒派先驱）；凭证 2026-11-07 | 2026-11-07 |
 | Antoine Arnauld | — | 安托万·阿尔诺 | — | — | leibniz-mind | 学界通行汉译（冉森派神学家，莱布尼茨通信者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Antoine Le Grand | — | 安托万·勒·格兰德 | — | — | legrand | SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
@@ -646,7 +646,7 @@
 | Christina, Queen of Sweden | — | 瑞典的克里斯蒂娜女王 | — | — | descartes-works | 学界通行汉译（17 世纪瑞典女王） | 2026-11-06 |
 | Christo | — | 克里斯托 | — | — | environmental-aesthetics | 学界通行（大地艺术） | 2026-11-08 |
 | Christopher Peacocke | — | 克里斯托弗·皮科克 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| Chrysippus | — | 克吕西波 | — | — | dialectical-school | 学界通行汉译（斯多亚派逻辑学家，发展相干逻辑系统）；凭证 2026-11-07 | 2026-11-07 |
+| Chrysippus | — | 克吕西波 | — | — | dialectical-school | 学界通行汉译（斯多葛派逻辑学家，发展相干逻辑系统）；凭证 2026-11-07 | 2026-11-07 |
 | Chrysostom, John | — | 克里索斯托（金口约翰） | — | — | erasmus | 学界惯例（教父通译） | 2026-11-04 |
 | Chumikpa Senggépel | — | 楚弥巴·僧格贝 | — | — | epistemology-language-tibetan | 佛学界通行（Chu mig pa） | 2026-11-04 |
 | Church, Alonzo | — | 阿隆佐·丘奇 | — | — | deductivism-mathematics | 学界通行汉译（丘奇—图灵论题）；凭证 2026-11-08 | 2026-11-08 |
@@ -672,7 +672,7 @@
 | Clauser, John | — | 约翰·克劳泽 | 美国 | 1942– | qt-entangle | 学界通行汉译（2022 诺贝尔物理学奖）；凭证 2026-11-09 | 2026-11-09 |
 | Clavius, Christopher | — | 克里斯托弗·克拉维乌斯 | 德意志（耶稣会，罗马） | 1538–1612 | natphil-ren | 天文学史通行音译（1572 新星观测者）；凭证 2026-11-10 | 2026-11-10 |
 | Clayman, D. | — | 克莱曼 | — | — | 首现（timon-phlius） | 学界惯例（2009 年第蒙研究作者；音译）；凭证 2026-11-07 | 2026-11-07 |
-| Cleanthes | — | 克勒安忒斯 | — | — | intentionality-ancient | 学界通行汉译（斯多亚第二主） | 2026-11-07 |
+| Cleanthes | — | 克勒安忒斯 | — | — | intentionality-ancient | 学界通行汉译（斯多葛第二主） | 2026-11-07 |
 | Clemens of Alexandria | Κλήμης ὁ Ἀλεξανδρεύς | 亚历山大的克莱门 | 亚历山大里亚／基督教教父 | c. 150–215 | johann-sturm | 学界通行汉译（教父）；凭证 2026-11-10 | 2026-11-10 |
 | Clement of Alexandria | — | 亚历山大的克莱门（教父学亦作“克雷芒”） | — | — | 首现（xenophanes）；intentionality-ancient | 学界通行汉译（教父）；凭证 2026-11-07；2026-11-08 重复行合并（旧行“亚历山大的克雷芒”并此，ci-hui-biao 同步） | 2026-11-07 |
 | Clement V | — | 克莱门特五世 | — | — | giles | 教皇通译惯例（本名 Bertrand de Got） | 2026-11-10 |
@@ -719,7 +719,7 @@
 | Conway, Lady Anne | — | 安妮·康威 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Cook, Stephen | — | Stephen Cook | — | — | logic-linear | 无通行汉名，保留英文原名（计算复杂性）；凭证 2026-11-10 | 2026-11-09 |
 | Cooper, Anthony Ashley (3rd Earl of Shaftesbury) | Shaftesbury | 安东尼·阿什利-柯柏 | 英国 | 1671–1713 | cambridge-platonists | 学界通行汉译（第三代沙夫茨伯里伯爵）；凭证 2026-11-09 | 2026-11-09 |
-| Cooper, John | — | 约翰·库珀 | — | — | democritus | 学界通行（古代哲学主编，斯多亚研究名家） | 2026-11-06 |
+| Cooper, John | — | 约翰·库珀 | — | — | democritus | 学界通行（古代哲学主编，斯多葛研究名家） | 2026-11-06 |
 | Copeland, B. Jack | — | B. Jack Copeland | 新西兰／英国 | 1950– | computing-history | 无通行汉名，保留英文原名（本词条作者，图灵研究学者）；凭证 2026-11-10 | 2026-11-09 |
 | Copernicus, Nicolaus | — | 尼古拉·哥白尼 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Corbin, Henri | — | 亨利·科尔班 | 法国／伊斯兰哲学与神秘主义研究 | 1903–1978 | ibn-kammuna | 学界通行音译（照明哲学研究先驱） | 2026-11-10 |
@@ -896,7 +896,7 @@
 | Dio | — | 狄翁 | — | — | dialectical-school | 学界通行汉译（“狄翁去科林斯”标准例证人名）；凭证 2026-11-07 | 2026-11-07 |
 | Diodorus Cronus | Diodorus of Iasos | 狄奥多罗斯·克罗诺斯（正文简作“狄奥多罗斯”；SUMMARY 题名作“卡里亚雅苏斯的狄奥多罗斯”） | — | — | dialectical-school | 词汇表既有裁定：Cronus 承自其师 Apollonius Cronus 之绰号，勿以出生地替代；题名与正文人名并用并存；凭证 2026-11-07 | 2026-11-07 |
 | Diogenes Laertius | — | 第欧根尼·拉尔修 | — | — | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-26 |
-| Diogenes of Babylon | — | 巴比伦的第欧根尼 | 巴比伦／雅典 | fl. 公元前 2 世纪 | carneades | 学界通行汉译（斯多亚学派第五任主持人；与第欧根尼·拉尔修异人）；凭证 2026-11-10 | 2026-11-09 |
+| Diogenes of Babylon | — | 巴比伦的第欧根尼 | 巴比伦／雅典 | fl. 公元前 2 世纪 | carneades | 学界通行汉译（斯多葛学派第五任主持人；与第欧根尼·拉尔修异人）；凭证 2026-11-10 | 2026-11-09 |
 | Dionysius of Chalcedon | — | 卡尔克顿的狄奥尼修斯 | — | — | dialectical-school | 学界通行汉译（“辩证学派”命名者，DL 2.106；与亚略巴古的狄奥尼修斯异人）；凭证 2026-11-07 | 2026-11-07 |
 | Dionysius the Areopagite | — | 亚略巴古的狄奥尼修斯（伪狄奥尼修斯） | — | — | abner-burgos | 教父学界通行汉译；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Dioscorides | — | 迪奥斯科里德斯 | 古希腊 | 约 40–约 90 | natphil-ren | 学界千年通行（《药物论》作者）；凭证 2026-11-10 | 2026-11-10 |
@@ -2311,7 +2311,7 @@
 | Massacci, Fabio | — | Fabio Massacci | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Massumi, Brian | — | 布莱恩·马苏米 | — | — | langer | 学界惯例（情感理论）；凭证 2026-11-08 | 2026-11-08 |
 | Mastrius, Bartolomaeus | — | 巴尔托洛梅乌斯·马斯特里乌斯 | 意大利／方济各会司各脱主义 | 1602–1673 | analogy-medieval | 司各脱主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
-| Mates, Benson | — | 梅特斯 | — | — | dialectical-school | 学界通行汉译（《斯多亚逻辑》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Mates, Benson | — | 梅特斯 | — | — | dialectical-school | 学界通行汉译（《斯多葛逻辑》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Mathuranātha | मथुरानाथ | 摩偷罗那陀 | 古印度／新正理 | 约 16–17 世纪 | early-modern-india | 梵音自拟（mathurā 从“摩偷罗”古译通例；非存在堆论家）；凭证 2026-11-10 | 2026-11-10 |
 | Matsudaira Yoshitatsu | — | 松平义悌 | — | — | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Matsuo Bashō | 松尾芭蕉 | 松尾芭蕉 | — | — | japanese-aesthetics | 学界惯例（日本俳谐史通行汉名） | 2026-11-02 |
@@ -3079,7 +3079,7 @@
 | Samuel Parker | — | 塞缪尔·帕克 | — | — | legrand | 学界通行汉译（英格兰国教会主教，笛卡尔批评者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Samuel Pufendorf | — | 塞缪尔·普芬道夫 | — | — | leibniz-ethics；cosmopolitanism | 学界通行汉译（自然法法学家）；待 specs/008 审定库复核；2026-11-09 并 cosmopolitanism 重复行“Pufendorf｜普芬多夫”（全库 6 处均作“普芬道夫”，含 p/pufendorf 专条） | 2026-11-09 |
 | Samuel Scheffler | — | 塞缪尔·谢弗勒 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
-| Sandbach, F.H. | — | 桑德巴赫 | — | — | democritus | 学界通例（古典学者，斯多亚残篇编者） | 2026-11-06 |
+| Sandbach, F.H. | — | 桑德巴赫 | — | — | democritus | 学界通例（古典学者，斯多葛残篇编者） | 2026-11-06 |
 | Sandel, Michael | — | 迈克尔·桑德尔 | 美国 | 1953– | stem-cells | 学界通行汉译（《公正》《反对完美》中译者）；凭证 2026-11-09 | 2026-11-09 |
 | Sandra Harding | — | 桑德拉·哈丁 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Saner, Hans | — | Hans Saner（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（KJG 协作）；凭证 2026-11-09 | 2026-11-09 |
@@ -3832,7 +3832,7 @@
 | Zeami Motokiyo | — | 世阿弥 | — | — | japanese-aesthetics | 学界惯例（日本能乐史通行汉名） | 2026-11-02 |
 | Zeilinger, Anton | — | 安东·蔡林格 | 奥地利 | 1945– | qt-entangle | 学界通行汉译（2022 诺贝尔物理学奖）；凭证 2026-11-09 | 2026-11-09 |
 | Zeisold, Johannes | — | 约翰·蔡索尔德 | 德国／耶拿物理学家 | 1599–1667 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
-| Zeno (of Citium) | — | 塞诺（季蒂昂的，斯多亚学派创始人） | — | — | descartes-ethics | 学界通行汉译（与埃利亚的芝诺异人） | 2026-11-05 |
+| Zeno (of Citium) | — | 塞诺（季蒂昂的，斯多葛学派创始人） | — | — | descartes-ethics | 学界通行汉译（与埃利亚的芝诺异人） | 2026-11-05 |
 | Zeno of Elea | — | 埃利亚的芝诺 | — | — | democritus | 学界千年通行（埃利亚学派悖论家；与季蒂昂的塞诺异人；r2 改定，初译“爱利亚”） | 2026-11-06 |
 | Zerahia Halevi Saladin | — | 泽拉希亚·哈列维·萨拉丁 | — | — | albo-joseph | 14 世纪犹太哲学家通行音译 | 2026-11-07 |
 | Zettler, Ingo | — | Ingo Zettler（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（诚实-谦逊实验）；凭证 2026-11-10 | 2026-11-10 |

@@ -1,0 +1,229 @@
+{
+ "key": "taxonomy",
+ "term": "taxonomy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:12:19+00:00",
+ "status": "ok",
+ "note": "variant=taxonomy; 审定公布名词库=57; 海峡两岸名词对照库=46; 其他来源数据库=6; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "code": "03.455",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_生物学哲学"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "code": "02.0008",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "分类表",
+   "en": "taxonomy",
+   "code": "07.0509",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "概念树",
+   "en": "taxonomy",
+   "code": "03.0779",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_知识管理"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "code": "02.038",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "code": "02.001",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "土壤系统分类",
+   "en": "soil taxonomy",
+   "code": "09.159",
+   "standard": "农学名词",
+   "subject": "土壤肥料_土壤学"
+  },
+  {
+   "cn": "动物分类学",
+   "en": "animal taxonomy",
+   "code": "1.0005",
+   "standard": "动物学名词",
+   "subject": "动物学_总论"
+  },
+  {
+   "cn": "经典分类学",
+   "en": "classical taxonomy",
+   "code": "2.0001",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "code": "2.0003",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "数值分类学",
+   "en": "numerical taxonomy",
+   "code": "2.0004",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "综合分类学",
+   "en": "synthetic taxonomy",
+   "code": "2.0005",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "分类法，分类学",
+   "en": "taxonomy",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "林奈分类学（=经典分类学）",
+   "en": "Linnaean taxonomy (=classical taxonomy)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "折中分类学（=综合分类学）",
+   "en": "eclectic taxonomy (=synthetic taxonomy)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "正统分类学（=经典分类学）",
+   "en": "orthodox taxonomy (=classical taxonomy)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "丙级分类学（= g分类学）",
+   "en": "gamma taxonomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "传统分类学（=经典分类学）",
+   "en": "classical taxonomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "α分类学，甲级分类学",
+   "en": "alpha taxonomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "β 分类学，乙级分类学",
+   "en": "beta taxonomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "γ 分类学，丙级分类学",
+   "en": "gamma taxonomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "分类学",
+   "en": "taxonomy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "亚纲",
+   "en": "Legion (taxonomy)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "术语定义和分类工作组",
+   "en": "Definitions and Taxonomies Working Group",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "植物分类学",
+   "en": "List of systems of plant taxonomy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际病毒分类委员会",
+   "en": "International Committee on Taxonomy of Viruses",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际病毒分类委员会",
+   "en": "International Committee on Taxonomy of Viruses (ICTV)",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "大众分类法",
+   "en": "folk taxonomy",
+   "code": "1.2.5.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -321,7 +321,7 @@
 | aseity | — | 自存性 | descartes-ontological | 学界通行（a se esse，由自身而存在；神学术语） | 2026-11-06 |
 | ashyāʾ | اشياء | 事物（法拉比-阿维森纳一般事物存在论语境） | arabic-islamic-phil-math | 译名裁定（things 通用） | 2026-11-08 |
 | Ashʿariyya / Ashʿarism | ٱلْأَشْعَرِيَّةُ | 艾什尔里派 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
-| asōmata | — | 无形者 | intentionality-ancient | 斯多亚本体论通行译法（incorporeals） | 2026-11-07 |
+| asōmata | — | 无形者 | intentionality-ancient | 斯多葛本体论通行译法（incorporeals） | 2026-11-07 |
 | aspect（rnam pa） | — | 行相（aspect） | epistemology-language-tibetan | 量论通行（rnam pa/ākāra=行相） | 2026-11-04 |
 | āsrava | आस्रव | 流入 | jaina-philosophy | 耆那教学界通行（业质流入；亦作“漏入”） | 2026-11-08 |
 | assertoric | — | 直言的 | 首现（william-sherwood） | 学界通行（与 modal 相对的断定语句）；凭证 2026-11-07 | 2026-11-07 |
@@ -831,7 +831,7 @@
 | consequence operation | — | 后承算子 | logical-consequence | Tarski 术语通行译法；凭证 2026-11-09 | 2026-11-09 |
 | consequentia | consequentia | 推论 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（推论学说）；凭证 2026-11-06 | 2026-11-06 |
 | consequentialism | — | 后果论（亦作“后果主义”） | 语料回收 | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
-| conservatio sui | — | 自我保存 | 首现（telesio） | 学界惯例（斯多亚-文艺复兴自然哲学术语，拉丁语保留形）；凭证 2026-11-08 | 2026-11-08 |
+| conservatio sui | — | 自我保存 | 首现（telesio） | 学界惯例（斯多葛-文艺复兴自然哲学术语，拉丁语保留形）；凭证 2026-11-08 | 2026-11-08 |
 | conservation is but continuous creation | CCC | 保存不过是持续创造（论证） | occasionalism 首译 | 学界惯例（偶因论研究）；凭证 2026-11-07 | 2026-11-07 |
 | conservatism | — | 保守主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | conserved quantity | — | 守恒量 | scientific-explanation-20th | 学界通行（物理学既有译名；Dowe 2000 守恒过程理论）；凭证 2026-11-10 | 2026-11-10 |
@@ -842,7 +842,7 @@
 | consistency proof | — | 一致性证明 | 首现（scholz） | 学界惯例（数理逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | consistent | — | 一致（的）（逻辑语境；区别于 coherence 融贯） | belief-merging | 逻辑学通行（一致性）；与既有 coherence→融贯（justep-coherence）分工；凭证 2026-11-10 | 2026-11-10 |
 | constant domain semantics | — | 常域语义 | logic-relevance | 量化模态逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
-| constantia | — | 坚定（constantia） | justus-lipsius | 斯多亚伦理学研究通行 | 2026-11-07 |
+| constantia | — | 坚定（constantia） | justus-lipsius | 斯多葛伦理学研究通行 | 2026-11-07 |
 | constellation | — | 星丛 | adorno | 学界通行汉译（本雅明/阿多诺研究通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
 | constituent ontology | — | 构成性本体论 | object 首译 | 学界惯例（与关系性本体论对举）；凭证 2026-11-07 | 2026-11-07 |
 | Constitution | — | 构成；构造；宪法（按语境：康德构成、胡塞尔 Konstitution 构造、政治宪法） | 词汇表复核（源提交 b27b33bd） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -920,7 +920,7 @@
 | cosmogony | — | 宇宙生成论 | peirce-benjamin | 哲学通行译名（与“宇宙论”cosmology 分列）；凭证 2026-11-09 | 2026-11-09 |
 | cosmological principle | — | 宇宙学原理 | cosmology-30s 首译 | 宇宙学通行（Milne 1933 提出；de Sitter 论战核心）；凭证 2026-11-08 | 2026-11-08 |
 | cosmology | — | 宇宙论（沃尔夫形而上学分科） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
-| cosmopolis | — | 世界城邦 | 首译（cosmopolitanism） | 学界通行（斯多亚术语；与 polis 城邦对举）；凭证 2026-11-09 | 2026-11-09 |
+| cosmopolis | — | 世界城邦 | 首译（cosmopolitanism） | 学界通行（斯多葛术语；与 polis 城邦对举）；凭证 2026-11-09 | 2026-11-09 |
 | cosmopolitan | — | 世界主义的 | 首译（cosmopolitanism） | 与本条世界主义同族（形容词形态）；凭证 2026-11-09 | 2026-11-09 |
 | cosmopolitan democracy | — | 世界主义民主 | cosmopolitanism | 学界通行（Held 等，cosmopolitan democracy）；凭证 2026-11-09 | 2026-11-09 |
 | cosmopolitan law | — | 世界主义法 | cosmopolitanism | 本条术语（康德 Weltbürgerrecht 字面义）；学界亦作“世界公民权”；凭证 2026-11-09 | 2026-11-09 |
@@ -1330,7 +1330,7 @@
 | enhypostaton / enhypostata | — | 内寓者（寄寓他物而存者） | john-italos | 基督论与中世纪哲学通行（与 anhypostaton 对举）；待 specs/008 审定库复核 | 2026-11-06 |
 | Enlightenment | — | 启蒙（时代名，视语境亦作“启蒙运动”） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
 | Enneads | — | 《九章集》 | 首现（theology-aristotle） | 学界通行（普罗提诺著作标准汉译）；凭证 2026-11-08 | 2026-11-08 |
-| ennoēma | — | 内在思想对象 | intentionality-ancient | 斯多亚术语（en+noēma“在思想中者”）；随文保留拉丁 | 2026-11-07 |
+| ennoēma | — | 内在思想对象 | intentionality-ancient | 斯多葛术语（en+noēma“在思想中者”）；随文保留拉丁 | 2026-11-07 |
 | ens inquantum ens | ens inquantum ens | 作为存在的存在 | 语料回收（marsilius-inghen 首译） | 形而上学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | ens simpliciter / ens quodammodo | — | 绝对意义的存在者／某种意义的存在者 | peter-spain | 学界通行（中世纪存在论）；凭证 2026-11-09 | 2026-11-09 |
 | entailment | — | 蕴涵 | closure-epistemic 首译 | 逻辑学通行（与 material implication 实质蕴涵 同族；entails 译“蕴涵”） | 2026-11-08 |
@@ -1873,7 +1873,7 @@
 | hedonic reversal | — | 快乐逆转 | paradox-of-tragedy | 学界惯例（Rozin 研究通行译法）；凭证 2026-11-10 | 2026-11-10 |
 | Hedonic Utilitarianism | — | 快乐论功利主义 | 首现（intuitionism-ethics） | 学界通行（功利主义史标准译名） | 2026-11-09 |
 | hedonism | — | 快乐主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| hegemonikon | ἡγεμονικόν | 灵魂的主导部分（斯多亚） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；亦作“统治部分”（telesio，2026-11-08 登记时依先登优先从正形）；凭证 2026-11-04 | 2026-11-04 |
+| hegemonikon | ἡγεμονικόν | 灵魂的主导部分（斯多葛） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；亦作“统治部分”（telesio，2026-11-08 登记时依先登优先从正形）；凭证 2026-11-04 | 2026-11-04 |
 | Heine-Borel property | — | 海涅-博莱尔性质 | 首现（intuitionism） | 拓扑学通行（亦作“海涅-博雷尔”）；凭证 2026-11-10 | 2026-11-10 |
 | hen esti | — | “一存在”（hen esti） | zeno-elea | 学界惯例（巴门尼德论旨 hen esti 通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | Henkin-style | — | Henkin 式 | logic-hybrid | 学界惯例（保留 Henkin 人名）；凭证 2026-11-09 | 2026-11-09 |
@@ -2079,7 +2079,7 @@
 | inconsistent world | — | 不一致世界 | logic-relevance | 次协调逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | inconstruable question | — | 不可建构的问题 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | incontinence | — | 不自制 | justice-moral-psych | 亚里士多德伦理学通行汉译（akrasia；与“意志薄弱”分列）；凭证 2026-11-10 | 2026-11-10 |
-| incorporeal substance | — | 无形实体 | gersonides | 中世纪哲学通行；与登记册“无形者 asōmata”（斯多亚）异指，另立一行 | 2026-11-09 |
+| incorporeal substance | — | 无形实体 | gersonides | 中世纪哲学通行；与登记册“无形者 asōmata”（斯多葛）异指，另立一行 | 2026-11-09 |
 | increasing reliability | — | 可靠性递增 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
 | Indalmoi | — | 《影像》 | 首现（timon-phlius） | 学界惯例（第蒙挽歌对体诗；Images/Appearances）；凭证 2026-11-07 | 2026-11-07 |
 | indefinite | — | 不定的 | cordemoy 补登 | 笛卡尔通行（与 infinite 无限的对举，勿与 Indefinite Dyad 不定的二混）；凭证 2026-11-09 | 2026-11-09 |
@@ -2428,7 +2428,7 @@
 | Leibniz language | Leibniz language | 莱布尼茨语言 | 首现（scholz） | 学界惯例（肖尔兹研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | Leibniz Theorem | — | 莱布尼茨定理 | 首现（scholz） | 学界惯例（肖尔兹术语）；凭证 2026-11-07 | 2026-11-07 |
 | Leibnizian-Wolffian | — | 莱布尼茨—沃尔夫学派的 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
-| lekton (lekta) | — | 可说者 | intentionality-ancient | 斯多亚逻辑通行译法（“可道者”；与 ennoēma 分） | 2026-11-07 |
+| lekton (lekta) | — | 可说者 | intentionality-ancient | 斯多葛逻辑通行译法（“可道者”；与 ennoēma 分） | 2026-11-07 |
 | Lernfreiheit | Lernfreiheit | 学习自由（亦作“学的自由”） | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | Letter on Divine Science | — | 《论神圣科学书简》 | 首现（theology-aristotle） | 照题直译（伪法拉比书简，通行亦作《论神圣科学》）；凭证 2026-11-08 | 2026-11-08 |
 | Letters on Aesthetic Education | — | 《审美教育书简》（席勒） | gadamer-aesthetics | 权威译本通行译法（席勒《审美教育书简》） | 2026-11-01 |
@@ -2930,7 +2930,7 @@
 | neo-Pyrrhonism | — | 新皮浪主义 | epistemology-latin-america 首译 | 学界通行（沿用本表 Pyrrhonism 皮浪主义行；neo- 新） | 2026-11-11 |
 | Neoplatonism | — | 新柏拉图主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Neoplatonism: in the Renaissance | — | 文艺复兴时期的新柏拉图主义 | zabarella | 构词译法（对齐 SUMMARY 既有“文艺复兴时期的亚里士多德主义／自然哲学”行文；SEP 源页链接已注释停用）；凭证 2026-11-09 | 2026-11-09 |
-| Neostoicism | — | 新斯多亚主义 | justus-lipsius | 学界通行（早期近代哲学史） | 2026-11-07 |
+| Neostoicism | — | 新斯多葛主义 | justus-lipsius | 学界通行（早期近代哲学史） | 2026-11-07 |
 | Ner Elohim | — | 《上帝之灯》 | crescas | 学界通行（克雷斯卡斯原拟两卷本题名）；凭证 2026-11-08 | 2026-11-08 |
 | net art | — | 网络艺术 | digital-art 首译 | 新媒体艺术通行译名（亦作 net.art）；凭证 2026-11-10 | 2026-11-10 |
 | neuro-symbolic | — | 神经—符号 | ontology-is | 人工智能通行（neuro-symbolic AI）；凭证 2026-11-11 | 2026-11-11 |
@@ -3279,10 +3279,10 @@
 | Petőfi Circle | Petőfi Circle | 裴多菲俱乐部 | 语料回收（lakatos 首译） | 1956 年匈牙利事件史学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Petrine mandate | — | 彼得托付 | colonialism | 教会史文献通译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
 | Phaedo | — | 《斐多篇》 | ancient-soul 首译 | 学界通行汉译（柏拉图对话） | 2026-11-09 |
-| phantasia | — | 表象 | intentionality-ancient | 斯多亚术语通行译法（与 phantasma“幻象”别） | 2026-11-07 |
-| phantasia（经院内感官语境） | phantasia | 想象（能力） | 首现（simon-faversham） | 与斯多亚语境 phantasia＝表象 行分列；学界阿维森纳—托马斯心理学；凭证 2026-11-08 | 2026-11-08 |
+| phantasia | — | 表象 | intentionality-ancient | 斯多葛术语通行译法（与 phantasma“幻象”别） | 2026-11-07 |
+| phantasia（经院内感官语境） | phantasia | 想象（能力） | 首现（simon-faversham） | 与斯多葛语境 phantasia＝表象 行分列；学界阿维森纳—托马斯心理学；凭证 2026-11-08 | 2026-11-08 |
 | phantasm | phantasma | 幻象 | 首译（sharpe） | 承本册 phantasma 幻象；中世纪认识论通行（与 intelligible species 可理解种相对）；凭证 2026-11-09 | 2026-11-09 |
-| phantasma | — | 幻象 | intentionality-ancient | 斯多亚术语（非存在者之表象；与 phantasia 分） | 2026-11-07 |
+| phantasma | — | 幻象 | intentionality-ancient | 斯多葛术语（非存在者之表象；与 phantasia 分） | 2026-11-07 |
 | phantasy | — | 幻想 | landmann-kalischer | 现象学 Phantasie 通行（与 imagination 想象相区分语境） | 2026-11-04 |
 | phantom limb | — | 幻肢 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | phase semantics | — | 相语义 | logic-linear | Girard 术语通行译法（phase semantics）；凭证 2026-11-10 | 2026-11-09 |
@@ -4302,7 +4302,7 @@
 | sthitisthāpaka | स्थितिस्थापक | 弹性（复性力） | early-modern-india | 胜论动力学义译（elasticity；恢复原状之保持力）；凭证 2026-11-10 | 2026-11-10 |
 | stipulative | — | 规定性的 | god-necessary-being | 学界通行（术语的规定性用法，与描述性对举） | 2026-11-09 |
 | stock centre | — | 种质资源中心 | model-organisms 首译 | 生物学通行译名（stock centre，保藏与分发品系）；凭证 2026-11-09 | 2026-11-09 |
-| Stoic | — | 斯多亚（斯多亚学派） | schema | 学界惯例（希腊化哲学通行） | 2026-11-06 |
+| Stoic | — | 斯多葛（斯多葛学派；亦作“斯多亚”） | schema | 审定名词库（termonline-all·自然辩证法/世界历史名词，2026-11-11 浏览器通道凭证）；用户裁定全库统一（2026-11-11，旧形 394 处改形） | 2026-11-11 |
 | Stone representation theorem | — | 斯通表示定理 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
 | strategic voting | — | 策略性投票 | jury-theorems | 学界惯例（投票理论通行）；凭据 2026-11-02 | 2026-11-02 |
 | strategy-proof | — | 防策略（的） | belief-merging | 学界通行（机制设计/计算社会选择文献）；凭证 2026-11-10 | 2026-11-10 |

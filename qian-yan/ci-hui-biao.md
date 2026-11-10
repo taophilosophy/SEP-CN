@@ -234,7 +234,7 @@
 |Hartry Field|哈特里·菲尔德|科学哲学/数学哲学|
 |Hartshorne, Charles|查尔斯·哈茨霍恩||
 |Hegel|黑格尔||
-|hegemonikon|灵魂的主导部分（斯多亚）||
+|hegemonikon|灵魂的主导部分（斯多葛）||
 |Hermann Diels|赫尔曼·第尔斯||
 |Herodian|赫罗迪安||
 |hexagon of opposition|对当六角形||
@@ -458,7 +458,7 @@
 |Louis Althusser|路易·阿尔都塞|结构主义马克思主义|
 |Löwenheim-Skolem theorem|勒文海姆–斯科伦定理|亦作“L-S定理”；审定缩略形在案|
 |Lüshi chunqiu|《吕氏春秋》|典籍|
-|Marcus Aurelius|马可·奥勒留|斯多亚|
+|Marcus Aurelius|马可·奥勒留|斯多葛|
 |Margaret Fuller|玛格丽特·富勒|美国超验主义|
 |Margaret Gilbert|玛格丽特·吉尔伯特|社会本体论（共同承诺）|
 |Marie Curie|玛丽·居里|审定“居里”在案（核医学/放射）|
