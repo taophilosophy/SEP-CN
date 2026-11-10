@@ -1589,7 +1589,7 @@
 | finite model property | — | 有穷模型性质 | logic-dynamic | 模型论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | finitism | — | 有限主义 | 首现（intuitionism） | 数学哲学通行译名；凭证 2026-11-10 | 2026-11-10 |
 | First / Later Diffusion of Buddhism | — | 前弘期／后弘期 | epistemology-language-tibetan | 藏学界通行 | 2026-11-04 |
-| First Analogy | — | 第一类比 | kant-transcendental | 学界通行（康德 A182，类比章译「类比」）；凭证 2026-11-11 | 2026-11-11 |
+| First Analogy | — | 第一类比 | kant-transcendental | 学界通行（康德 A182，类比章译“类比”）；凭证 2026-11-11 | 2026-11-11 |
 | first cause | — | 第一因 | crescas | 学界通行；凭证 2026-11-08 | 2026-11-08 |
 | First Degree Entailment (FDE) | — | FDE（First Degree Entailment） | logic-relevance | 无审定汉译，正文保留英文，待裁定；凭证 2026-11-09 | 2026-11-09 |
 | first intention | — | 第一意向 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
@@ -2973,7 +2973,7 @@
 | non-transfer argument | — | 不可转移论证 | la-forge | 偶因论研究通行（Sangiacomo 2014 术语）；凭证 2026-11-09 | 2026-11-09 |
 | non-transitive consequence | — | 非传递后承 | logic-substructural | 逻辑学通行译法；凭证 2026-11-10 | 2026-11-09 |
 | non-understanding（ma rtogs） | — | 不解知（ma rtogs） | epistemology-language-tibetan | 直译+括注 | 2026-11-04 |
-| nonconceptualism | — | 非概念主义（亦作非概念论） | kant-transcendental | SUMMARY 定名（k/kant-conceptualism.md「康德式概念主义/非概念主义」）；凭证 2026-11-11 | 2026-11-11 |
+| nonconceptualism | — | 非概念主义（亦作非概念论） | kant-transcendental | SUMMARY 定名（k/kant-conceptualism.md“康德式概念主义/非概念主义”）；凭证 2026-11-11 | 2026-11-11 |
 | nonconditional conditional | — | 非条件性条件句 | necessary-sufficient | Geis–Lycan 术语；凭证 2026-11-08 | 2026-11-08 |
 | noninstrumental | — | 非工具性 | oakeshott 首译 | 学界惯例（工具性/非工具性对举）；凭证 2026-11-07 | 2026-11-07 |
 | nonlocality | — | 非定域性 | qt-entangle | 审定名词库（物理学名词 nonlocality）；凭证 2026-11-09 | 2026-11-09 |
