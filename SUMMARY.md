@@ -2283,7 +2283,7 @@
 * [\*宗教 religion](README.md)
   * [比较宗教哲学 comparative philosophy of (Mikel Burley)](r/religion-comparative.md)
   * [宗教的定义 concept of (Kevin Schilbrack)](c/concept-religion.md)
-  * [宗教认识论 epistemology of (Peter Forrest)](r/religion-epistemology.md)
+  * [宗教认识论 The Epistemology of Religion (Peter Forrest)](r/religion-epistemology.md)
   * [宗教的演化论进路 Evolutionary Approaches to Religion (Jason Marsh)](r/religion-evolutionary.md)
   * [\*女性主义哲学——见女性主义哲学介入：女性主义宗教哲学 Feminist Philosophy of Religion — see feminist philosophy, interventions: philosophy of religion](f/feminist-religion.md)
   * [西方哲学中的宗教与道德 and morality (John Hare and Jennifer Herdt)](r/religion-morality.md)

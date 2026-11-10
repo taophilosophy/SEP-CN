@@ -177,6 +177,7 @@
 | Apt, Krzysztof R. | — | Krzysztof R. Apt | — | — | logic-dynamic | 无通行汉名，保留英文原名（Hoare 逻辑综述）；凭证 2026-11-10 | 2026-11-09 |
 | Apuleius | — | 阿普列乌斯 | — | — | illumination | 学界通行汉译（2 世纪拉丁作家，《论苏格拉底之神》作者）；凭证 2026-11-08 | 2026-11-08 |
 | Aquinas, Thomas | — | 托马斯·阿奎那 | — | — | albert-great | 学界通行程译名（天使博士） | 2026-11-06 |
+| Aquino, Frederick D. | — | 弗雷德里克·D. 阿基诺 | — | — | religion-epistemology | 学界通行音译（纽曼研究学者，Aquino 2012）；凭证 2026-11-10 | 2026-11-10 |
 | Arago, Dominique François | Dominique François Arago | 阿拉戈 | — | — | duhem | 全名汉译『多米尼克·弗朗索瓦·阿拉戈』，正文简名首现括注；学界惯例（物理学史通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Araki, Nobuyoshi | — | 荒木经惟 | — | — | erotic-art | 学界通行（日本摄影家；汉字名） | 2026-11-08 |
 | Arama, Isaac | — | 以撒·阿拉马 | — | — | albo-joseph | 犹太哲学史通行音译 | 2026-11-07 |
@@ -272,6 +273,7 @@
 | Barnes, Elizabeth | — | 伊丽莎白·巴恩斯 | 美国 | — | disability | 学界惯例音译（残疾社会建构论代表，《少数派身体》作者；正文首现括注）；凭证 2026-11-09 | 2026-11-09 |
 | Barnes, Jonathan | — | 乔纳森·巴恩斯 | 英国 | 1935– | zeno-elea | 学界通行汉译（《前苏格拉底哲学家》作者；与 Elizabeth Barnes 异人）；凭证 2026-11-09 | 2026-11-09 |
 | Barr, Michael | — | Michael Barr | — | — | logic-linear | 无通行汉名，保留英文原名（*-自治范畴）；凭证 2026-11-10 | 2026-11-09 |
+| Barrett, Justin L. | — | 贾斯汀·L. 巴雷特 | — | — | religion-epistemology | 学界通行音译（宗教认知科学，HADD 假说）；凭证 2026-11-10 | 2026-11-10 |
 | Barrio, Eduardo | — | Eduardo Barrio | — | — | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Barrow, Isaac | — | 艾萨克·巴罗 | — | — | newton | 学界通行汉译（牛顿的老师、卢卡斯教席前任）；凭证 2026-11-08 | 2026-11-08 |
 | Bartel, Christopher | — | 克里斯托弗·巴特尔 | 美国 | — | it-moral-values | 学界通行音译（虚拟行为伦理）；凭证 2026-11-10 | 2026-11-10 |
@@ -636,6 +638,7 @@
 | Clairaut, Alexis | — | 亚历克西斯·克莱罗 | — | — | newton | 数学史通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Clairaut, Alexis-Claude | — | 亚历克西-克洛德·克莱罗 | — | — | emilie-du-chatelet | 学界通行汉译（数学家/天文学家） | 2026-11-04 |
 | Clara Zetkin | — | 克拉拉·蔡特金 | — | — | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Clark, Kelly James | — | 凯利·詹姆斯·克拉克 | — | — | religion-epistemology | 学界通行音译（改革宗认识论）；凭证 2026-11-10 | 2026-11-10 |
 | Clark, Kenneth | — | 肯尼思·克拉克 | — | — | erotic-art | 学界通行（艺术史家） | 2026-11-08 |
 | Clarke, Edward | — | 爱德华·克拉克 | — | — | lady-masham | 学界通行汉译（洛克友人、马沙姆夫妇姻亲；与 Samuel Clarke 塞缪尔·克拉克为不同人，键以名区分） | 2026-11-07 |
 | Clarke, Samuel | — | 塞缪尔·克拉克 | — | — | emilie-du-chatelet | 学界通行汉译（牛顿派神学家） | 2026-11-04 |
@@ -1051,6 +1054,7 @@
 | Flanagan, Owen | — | 欧文·弗拉纳根 | — | — | zombies | 学界通行汉译（《意识问题》中译本作者）；凭证 2026-11-10 | 2026-11-10 |
 | Flasch, Kurt | — | 库尔特·弗拉施 | — | — | condemnation | 学界惯例（音译，维尔茨堡中世纪哲学史家）；凭证 2026-11-08 | 2026-11-08 |
 | Flaubert, Gustave | — | 福楼拜 | — | — | langer | 法国小说家（学界千年惯用“福楼拜”）；凭证 2026-11-08 | 2026-11-08 |
+| Flew, Antony | — | 安东尼·弗卢 | 英国／哲学家 | 1923–2010 | religion-epistemology | 学界通行汉译（《无神论的推定》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Flint, Thomas P. | — | 托马斯·弗林特 | 美国 | — | omniscience | 学界惯例音译；凭证 2026-11-09 | 2026-11-09 |
 | Floridi, Luciano | — | 卢西亚诺·弗洛里迪 | 意大利 | 1964– | it-moral-values | 学界通行音译（信息伦理学奠基者）；凭证 2026-11-10 | 2026-11-10 |
 | Flowers, Thomas | — | 托马斯·弗劳尔斯 | 英国 | 1905–1998 | computing-history | 学界通行音译（Colossus 设计者，英国邮政研究站工程师）；凭证 2026-11-10 | 2026-11-09 |
@@ -1182,6 +1186,7 @@
 | Geis, Michael L. | — | Michael Geis（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Gelernter, David | — | 大卫·盖伦特 | 美国 | 1955– | it-moral-values | 学界通行音译（计算机科学）；凭证 2026-11-10 | 2026-11-10 |
 | Geller, Jay Howard | — | 杰伊·霍华德·盖勒 | 美国 | — | scholem | 构词直译（朔勒姆家族史作者）；凭证 2026-11-08 | 2026-11-08 |
+| Gellman, Jerome | — | 杰罗姆·格尔曼 | — | — | religion-epistemology | 学界通行音译（宗教经验与“无神之感”）；凭证 2026-11-10 | 2026-11-10 |
 | Gemistos Plethon | — | 格弥斯托斯·普莱东 | — | — | john-italos | 学界通行汉译（15 世纪新柏拉图主义者）；凭证 2026-11-06 | 2026-11-06 |
 | Gentili, Alberico | — | 阿尔贝里科·金蒂利 | — | — | sovereignty | 学界通行汉译（近代国际法奠基人通行）；凭证 2026-11-07 | 2026-11-07 |
 | Gentz, Friedrich | — | 弗里德里希·根茨 | 德国／保守主义政论家 | 1764–1832 | august-rehberg | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -2332,6 +2337,7 @@
 | Mirkowska, Grażyna | — | Grażyna Mirkowska | — | — | logic-dynamic | 无通行汉名，保留英文原名（算法逻辑）；凭证 2026-11-10 | 2026-11-09 |
 | Mishima Yukio | — | 三岛由纪夫 | — | — | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
 | Miskawayh | — | 米斯凯韦 | — | — | theology-aristotle | 学界通行（波斯哲学家，通行亦作'伊本·米斯凯韦'）；凭证 2026-11-08 | 2026-11-08 |
+| Mitchell, Basil | — | 巴兹尔·米切尔 | 英国／哲学家 | 1917–2011 | religion-epistemology | 学界通行音译（累积论证）；凭证 2026-11-10 | 2026-11-10 |
 | Mivart, St. George Jackson | — | 圣乔治·杰克逊·米瓦特 | — | — | origin-descent | 学界惯例（达尔文批评者）；凭证 2026-11-07 | 2026-11-07 |
 | Miyahiro Sadao | — | 宫贞雄（Miyahiro 汉字写法存疑，正文保留拉丁对照） | — | — | kokugaku-school | 存疑标注；凭证 2026-11-04 | 2026-11-04 |
 | Mizer, Nicholas | — | Nicholas Mizer（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（自然情境实验）；凭证 2026-11-10 | 2026-11-10 |
@@ -2353,6 +2359,7 @@
 | Montbron, Fougeret de | — | 富热雷·德·蒙布朗 | — | — | cosmopolitanism | 学界通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Montesquieu, Charles-Louis de Secondat, Baron de | — | 夏尔·路易·德·塞贡达·拉布雷德与孟德斯鸠男爵（正文简称“孟德斯鸠”） | — | — | montesquieu | 学界千年通行译名（SUMMARY 定名沿用）；凭证 2026-11-07 | 2026-11-07 |
 | Montezuma | — | 蒙特祖马 | — | — | montesquieu | 学界通行汉译（阿兹特克君主）；凭证 2026-11-07 | 2026-11-07 |
+| Moon, Andrew | — | 安德鲁·穆恩 | — | — | religion-epistemology | 学界通行音译（改革宗认识论）；凭证 2026-11-10 | 2026-11-10 |
 | Moor, James | — | 詹姆斯·穆尔 | 美国 | 1938– | it-moral-values | 学界通行音译（计算机伦理学先驱）；凭证 2026-11-10 | 2026-11-10 |
 | Moore, Brooke N. | — | Moore（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（批判性思维教材作者，与 G. E. 摩尔异人）；凭证 2026-11-09 | 2026-11-09 |
 | Moore, G. E. | — | G. E. 摩尔 | — | — | closure-epistemic | 学界通行汉译（常识哲学、反怀疑论；与迈克尔·摩尔异人）；凭证 2026-11-08 | 2026-11-08 |
@@ -2648,6 +2655,7 @@
 | Philip IV (the Fair), King of France | — | 腓力四世（美男子） | — | — | giles | 学界通行汉译（法国国王） | 2026-11-10 |
 | Philip the Chancellor | — | 菲利普校长 | 法国／经院神学 | c. 1160–1236 | conscience；analogy-medieval | 中世纪哲学通行（13 世纪巴黎圣母院学校校长；音译兼职衔；亦作“校长腓力”“尚塞利耶的菲利普”）；重复行合并 2026-11-08；凭证 2026-11-08 | 2026-11-08 |
 | Philipp Jakob Spener | — | 菲利普·雅各布·施佩纳 | — | — | 18thGerman-preKant | 学界通行汉译（虔敬派创始人）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Phillips, D. Z. | — | D. Z. 菲利普斯 | 英国（威尔士）／哲学家 | 1934–2006 | religion-epistemology | 学界通行（维特根斯坦式信仰主义）；凭证 2026-11-10 | 2026-11-10 |
 | Philo (follower of Pyrrho) | — | 菲洛 | — | — | 首现（timon-phlius） | 学界通行汉译（皮浪追随者；与亚历山大的斐洛异人）；凭证 2026-11-07 | 2026-11-07 |
 | Philo Judaeus | — | 亚历山大的斐洛 | — | — | gersonides | 学界通行（犹太哲学家斐洛）；与登记册 Philo the Logician 麦加拉的菲洛、皮浪追随者菲洛异人 | 2026-11-09 |
 | Philo of Larissa | — | 拉里萨的斐洛 | 希腊（拉里萨） | 公元前 159/8—前 84/3 | carneades | 学界通行汉译（学园最后一位领袖）；凭证 2026-11-10 | 2026-11-09 |
@@ -2981,6 +2989,7 @@
 | Schein, Edgar | — | 埃德加·沙因 | — | — | economic-democracy | 学界通行汉译（组织文化理论家） | 2026-11-04 |
 | Scheler, Max | — | 马克斯·舍勒 | — | — | ingarden | 学界千年通行汉译（现象学价值伦理学）；凭证 2026-11-08 | 2026-11-08 |
 | Schelhammer, Günther Christoph | — | 京特·克里斯托夫·舍尔哈默 | 德国／医学家与自然哲学家 | 1649–1716 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
+| Schellenberg, J. L. | — | J. L. 舍伦贝格 | 加拿大／哲学家 | 1959– | religion-epistemology | 学界通行音译（宗教怀疑论、终极主义的信仰）；凭证 2026-11-10 | 2026-11-10 |
 | Schelling, Friedrich Wilhelm Joseph | F. W. J. Schelling | 弗里德里希·威廉·约瑟夫·谢林（通称「谢林」） | 德国 | 1775–1854 | dilthey | 学界千年通行汉译（德国观念论；与 Thomas Schelling 托马斯·谢林 异人分立） | 2026-11-09 |
 | Schelling, Thomas | — | 托马斯·谢林 | 美国／经济学与战略研究 | 1921–2016 | risk | 学界通行汉译（统计生命价值）；凭证 2026-11-09 | 2026-11-09 |
 | Schellinx, Harold | — | Harold Schellinx | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -3043,6 +3052,7 @@
 | Shaftesbury, 3rd Earl of | — | 沙夫茨伯里 | — | — | aesthetics-18th-british | 学界通行（Anthony Ashley Cooper，内在感官说先驱；正文以爵号行文） | 2026-11-06 |
 | Shahrazurī, Muḥammad | — | 穆罕默德·沙赫拉祖里 | — | — | arabic-islamic-mysticism | 照明哲学史通行音译 | 2026-11-07 |
 | Shakespeare | — | 莎士比亚 | — | — | landmann-kalischer | 千年通行译名（英国戏剧家） | 2026-11-04 |
+| Shalkowski, Scott | — | 斯科特·沙尔科夫斯基 | — | — | religion-epistemology | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Shanahan, Murray | — | 默里·沙纳汉 | — | — | f/frame-problem | AI 学界通行汉译（本词条作者） | 2026-11-10 |
 | Shang Yang | — | 商鞅 | — | — | han-dynasty | 上游自带汉字（战国法家，亦作商君） | 2026-11-10 |
 | Shannon, Claude | — | 克劳德·香农 | 美国 | 1916–2001 | qt-entangle | 学界通行汉译（信息论）；凭证 2026-11-09 | 2026-11-09 |
