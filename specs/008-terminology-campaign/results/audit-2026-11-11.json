@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 5507,
-  "查无": 2236,
-  "不一致": 409,
-  "一致": 610
+  "未查证": 5475,
+  "查无": 2261,
+  "不一致": 415,
+  "一致": 611
  },
  "results": [
   {
@@ -83053,9 +83053,11 @@
    "term": "universal affirmative predication",
    "trans": "全称肯定谓述",
    "basis": "构词直译（亚里士多德逻辑）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83063,9 +83065,11 @@
    "term": "universal benevolence",
    "trans": "普遍仁爱",
    "basis": "道德哲学通行汉译（18 世纪英国道德哲学语境）；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83073,9 +83077,18 @@
    "term": "universal characteristic",
    "trans": "普遍文字",
    "basis": "学界惯例（莱布尼茨 characteristica universalis 通行译法）；凭证 2026-11-03",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "万有特性",
+     "en": "universal characteristic",
+     "source": "铁道科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83083,9 +83096,11 @@
    "term": "universal closure",
    "trans": "全称闭包",
    "basis": "数理逻辑通行译名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83093,9 +83108,18 @@
    "term": "Universal Declaration of Human Rights",
    "trans": "《世界人权宣言》",
    "basis": "联合国官方中译；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "世界人权宣言",
+     "en": "Universal Declaration of Human Rights",
+     "source": "世界历史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83103,9 +83127,11 @@
    "term": "universal domain",
    "trans": "普遍域",
    "basis": "学界通行（判断聚合文献）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83113,9 +83139,11 @@
    "term": "universal flux",
    "trans": "普遍流变",
    "basis": "学界通行；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83123,9 +83151,11 @@
    "term": "universal gravity",
    "trans": "万有引力",
    "basis": "物理学通行；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83133,9 +83163,11 @@
    "term": "universal hylomorphism",
    "trans": "普遍的形质论",
    "basis": "中世纪哲学通行汉译（hylomorphism=形质论）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83143,9 +83175,11 @@
    "term": "universal Leibniz language",
    "trans": "普遍莱布尼茨语言",
    "basis": "学界惯例（肖尔兹术语）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83153,9 +83187,11 @@
    "term": "universal modality",
    "trans": "全称模态",
    "basis": "模态逻辑通行（universal modality）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83175,9 +83211,30 @@
    "term": "universal relation",
    "trans": "普适关系",
    "basis": "构词直译",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "泛关系",
+     "en": "universal relation",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "泛关系",
+     "en": "universal relation",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "普遍联系",
+     "en": "universal relation",
+     "source": "马克思主义"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83199,9 +83256,144 @@
    "term": "universal time",
    "trans": "普适时间",
    "basis": "Milne 术语学界通行；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time",
+     "source": "天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time",
+     "source": "航天科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time,UT",
+     "source": "测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time,UT",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time,UT",
+     "source": "计量学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time,UT",
+     "source": "通信科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time,GMT",
+     "source": "航海科技名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time; UT",
+     "source": "地球物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "普适时间常量",
+     "en": "universal time constant",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "协调世界时",
+     "en": "universal time coordinated",
+     "source": "航天科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "协调世界时",
+     "en": "coordinate universal time",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "协调世界时",
+     "en": "coordinate universal time",
+     "source": "地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time\",\"UT",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time\",\"UT",
+     "source": "海峡两岸天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time\",\"UT",
+     "source": "海峡两岸测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界时",
+     "en": "universal time\",\"GMT",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "世界标准时，协调世界时",
+     "en": "universal time coordination\",\"UTC",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "协调世界时",
+     "en": "coordinated universal time\",\"UTC",
+     "source": "海峡两岸天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "协调世界时",
+     "en": "coordinate universal time\",\"CUT",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "协调世界时",
+     "en": "coordinated universal time\",\"UTC",
+     "source": "海峡两岸测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "协调世界时",
+     "en": "coordinated universal time\",\"UTC",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "协调世界时",
+     "en": "coordinated universal time\",\"UTC",
+     "source": "海峡两岸航海科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83209,9 +83401,18 @@
    "term": "universal validity",
    "trans": "普遍有效性",
    "basis": "学界惯例（逻辑学通行）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "普遍效度",
+     "en": "universal validity",
+     "source": "海峡两岸心理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83219,9 +83420,11 @@
    "term": "universal-man",
    "trans": "共相之人",
    "basis": "中世纪共相学说文献通行（威克里夫—牛津实在论；与“个体的人”对举）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83229,9 +83432,11 @@
    "term": "universalizability",
    "trans": "可普遍化",
    "basis": "学界通行（康德伦理学）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83239,9 +83444,18 @@
    "term": "universals",
    "trans": "共相",
    "basis": "学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "通用的，万用的",
+     "en": "universal",
+     "source": "海峡两岸航海科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83249,9 +83463,11 @@
    "term": "universitas",
    "trans": "拉丁原文保留",
    "basis": "体例：中世纪观念名保留原词；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83259,9 +83475,11 @@
    "term": "univocal",
    "trans": "单义的",
    "basis": "亚里士多德—经院术语通行汉译（与歧义的/类比的相对）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83269,9 +83487,11 @@
    "term": "univocity",
    "trans": "单义性",
    "basis": "学界通行（与类比性/歧义性相对）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83279,9 +83499,11 @@
    "term": "univocity of the concept of being",
    "trans": "存在概念的单义性",
    "basis": "司各脱主义通行（univocatio entis）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83289,9 +83511,11 @@
    "term": "Unjigi",
    "trans": "《吽字义》",
    "basis": "空海著作传统题名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83299,9 +83523,11 @@
    "term": "unknown correlations",
    "trans": "未知相关性",
    "basis": "构词直译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83309,9 +83535,11 @@
    "term": "unspecific",
    "trans": "不具体的",
    "basis": "自译裁定（与 specific 具体相对）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83319,9 +83547,11 @@
    "term": "unum per accidens",
    "trans": "偶性统一",
    "basis": "经院哲学通行译法（与 per se 统一相对；源文括注即该拉丁语）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83329,9 +83559,18 @@
    "term": "unwritten doctrines",
    "trans": "口传学说",
    "basis": "学界通行（柏拉图“未成文学说”；亦作“不成文学说”）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83339,9 +83578,11 @@
    "term": "upādhi",
    "trans": "假立（名义属性）",
    "basis": "正理/因明通行义译（anthropocentric imposed property；佛典“施设”备查）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83349,9 +83590,11 @@
    "term": "upalabdhi",
    "trans": "领受",
    "basis": "正理认知义译（apprehension；buddhi/jñāna 同义词列）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83359,9 +83602,11 @@
    "term": "upamāna",
    "trans": "譬喻量",
    "basis": "因明六量传统译名（与义准量 arthāpatti 同系）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83369,9 +83614,11 @@
    "term": "Upaniṣad",
    "trans": "《奥义书》",
    "basis": "千年通行译名；凭证 2026-11-10；原文取证（wisdomlib.org Monier-Williams 词条显式配对 upaniṣad，2026-11-10）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83389,9 +83636,11 @@
    "term": "upright walk",
    "trans": "直立行走",
    "basis": "学界通行译名（布洛赫研究文献）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -83399,9 +83648,11 @@
    "term": "urelemente",
    "trans": "本元",
    "basis": "集合论通行译名（亦作“原子”）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",

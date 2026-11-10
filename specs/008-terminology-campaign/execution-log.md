@@ -486,6 +486,14 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   units of selection（审定·自然辩证法「选择单位」为佐证；本条与词条标题「选择的单位与层次」一体，学界通行「选择的单位」，
   改形牵动 SUMMARY 标题，保留）、unity of opposites（审定命中为「对立统一规律」下位短语）。
 
+### 十一、第八批增量裁定（offset 2516–2548，6 条）
+
+* 审计刷新：一致 611 / 不一致 415 / 查无 2261 / 未查证 5475；新增不一致 6 条，**全部保留现译**：
+  universal characteristic（铁道「万有特性」假阳性，本条 Leibniz 普遍文字）、universal relation（本条逻辑义「普适关系」，
+  审定 CS「泛关系」为数据库义）、universal time（本条 Milne 宇宙学「普适时间」，审定天文「世界时」为时间标准异义）、
+  universal validity（心理学「普遍效度」异义）、universals（航海形容词命中假阳性）、unwritten doctrines（社会学假阳性）。
+
+
 
 
 
