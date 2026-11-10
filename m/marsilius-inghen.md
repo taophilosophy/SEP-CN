@@ -53,7 +53,7 @@
 
 #### 2.1.4 范畴
 
-在《范畴篇》评注中，马西利乌斯坚持奥卡姆的威廉与约翰·布里丹的立场：十个亚里士多德范畴，以它们指涉心灵外实在之事物的方式相区分。他论证：此处强调的是“指涉事物的方式”——即其 **意谓方式**（*modus significandi*）——而非事物本身；因为彼此不同的范畴，如“量”与“质”，虽以不同方式指涉，仍可指涉外部世界中的同一个个体，例如苏格拉底。所以，不同范畴并不代表不同事物，而是代表着意谓事物的彼此不同、各自独特的方式。[^note-6] 十个范畴合起来，覆盖谈论事物的一切可能方式。但与布里丹一样，马西利乌斯强调：无法证明它们的精确数目是且必须是十——大阿尔伯特等哲学家曾如此主张；使哲学家承认数目为十的，只是漫长经验的积累。[^note-7] 马西利乌斯声明：倘若将来发现了意谓事物的另一种方式，他会欣然接受亚里士多德范畴多于十个——尽管他认为这种发现不太可能。[^note-8]
+在《范畴篇》评注中，马西利乌斯坚持奥卡姆的威廉与约翰·布里丹的立场：十个亚里士多德范畴，以它们指涉心灵外实在之事物的方式相区分。他论证：此处强调的是“指涉事物的方式”——即其 **意指样式**（*modus significandi*）——而非事物本身；因为彼此不同的范畴，如“量”与“质”，虽以不同方式指涉，仍可指涉外部世界中的同一个个体，例如苏格拉底。所以，不同范畴并不代表不同事物，而是代表着意谓事物的彼此不同、各自独特的方式。[^note-6] 十个范畴合起来，覆盖谈论事物的一切可能方式。但与布里丹一样，马西利乌斯强调：无法证明它们的精确数目是且必须是十——大阿尔伯特等哲学家曾如此主张；使哲学家承认数目为十的，只是漫长经验的积累。[^note-7] 马西利乌斯声明：倘若将来发现了意谓事物的另一种方式，他会欣然接受亚里士多德范畴多于十个——尽管他认为这种发现不太可能。[^note-8]
 
 按马西利乌斯的说法，十个亚里士多德范畴所指涉的，是实在中那些本身并非其他事物之符号的事物——这些范畴即他所谓第一意向的名称或概念。然而，还有些名称被用来指涉符号、或指涉事物的名称而非事物本身，例如“属”与“种”这两个词项，即所谓第二意向的名称。因此，在十个第一意向的亚里士多德范畴之外，还需增设一个第二意向的范畴。马西利乌斯说，这一范畴可名为“符号范畴”（*praedicamentum signi*）或“词项范畴”（*praedicamentum termini*）。[^note-9] 这般范畴的存在并不推翻十范畴的传统数目：传统范畴虽然本身也是名称或概念，指涉的却不是名称或概念，而是实在中的事物。主张这样一个范畴，马西利乌斯便越过了不承认它的约翰·布里丹，并进一步阐发了邓斯·司各脱已提及的一个立场。据此：对考虑“作为存在的存在”（*ens inquantum ens*）的形而上学家而言，范畴只有十个；对处理“作为概念的概念”（*intentiones per se*）的逻辑学家而言，范畴多于十个。中世纪晚期，约翰·埃克等哲学家把“存在名为 *praedicamentum signi* 的额外范畴”之说归于因根的马西利乌斯及其追随者——唯名论者约翰·帕勒特亦在其中。[^note-10]
 
@@ -141,7 +141,7 @@
 
 [^note-5]: Marsilius of Inghen［TPT］，62：“*Et ideo istam simplicem suppositionem non pono.*”（故我不设这种简单指代）。
 
-[^note-6]: Marsilius of Inghen［PRA］，373：“*… praedicamenta non possunt distingui ex parte rerum.*”（……范畴不能就事物方面加以区分）；同书同页：“*… oportet huiusmodi praedicamenta distingui … per modos suos significandi …*”（……此类范畴须凭其意谓方式而区分……）。
+[^note-6]: Marsilius of Inghen［PRA］，373：“*… praedicamenta non possunt distingui ex parte rerum.*”（……范畴不能就事物方面加以区分）；同书同页：“*… oportet huiusmodi praedicamenta distingui … per modos suos significandi …*”（……此类范畴须凭其意指样式而区分……）。
 
 [^note-7]: Marsilius of Inghen［PRA］，376：“*Sed quod etiam non ponuntur plura, non potest hoc aliter probari, nisi quia non inveniuntur plures modi praedicandi quam isti decem distincti contra invicem.*”（至于何以不设更多范畴，此事别无他法可证——只因找不到比这十个彼此有别的谓述方式更多的谓述方式）。
 
