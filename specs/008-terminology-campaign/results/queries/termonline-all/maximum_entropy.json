@@ -1,0 +1,348 @@
+{
+ "key": "maximum entropy",
+ "term": "maximum entropy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T01:23:37+00:00",
+ "status": "ok",
+ "note": "variant=maximum entropy; 审定公布名词库=1535; 海峡两岸名词对照库=398; 其他来源数据库=55; 预公布名词数据库=73; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "最大熵",
+   "en": "maximum entropy",
+   "code": "05.0293",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_热学、热力学"
+  },
+  {
+   "cn": "最大熵",
+   "en": "maximum entropy",
+   "code": "012.0268",
+   "standard": "数学名词",
+   "subject": "数学_信息论_控制论_信号·数据处理（数学）"
+  },
+  {
+   "cn": "最大熵解卷积",
+   "en": "maximum entropy deconvolution",
+   "code": "01.1105",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震学与地球内部构造"
+  },
+  {
+   "cn": "最大熵原理",
+   "en": "maximum entropy principle",
+   "code": "08.0349",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_神经网络"
+  },
+  {
+   "cn": "最大熵模型",
+   "en": "maximum entropy model",
+   "code": "25.154",
+   "standard": "地理学名词",
+   "subject": "地理学_数量地理学"
+  },
+  {
+   "cn": "最大熵反褶积",
+   "en": "maximum entropy deconvolution",
+   "code": "03.0684",
+   "standard": "石油名词",
+   "subject": "石油_石油地球物理"
+  },
+  {
+   "cn": "最大熵准则",
+   "en": "maximum entropy criterion",
+   "code": "09.0906",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_时间序列分析"
+  },
+  {
+   "cn": "最大熵估值",
+   "en": "maximum entropy estimation",
+   "code": "012.0270",
+   "standard": "数学名词",
+   "subject": "数学_信息论_控制论_信号·数据处理（数学）"
+  },
+  {
+   "cn": "最大熵方法",
+   "en": "maximum entropy method",
+   "code": "012.0269",
+   "standard": "数学名词",
+   "subject": "数学_信息论_控制论_信号·数据处理（数学）"
+  },
+  {
+   "cn": "最大熵估计",
+   "en": "maximum entropy estimation",
+   "code": "05.228",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "最大熵法",
+   "en": "maximum entropy method; MEM",
+   "code": "06.365",
+   "standard": "天文学名词",
+   "subject": "天文学_天文仪器与技术"
+  },
+  {
+   "cn": "最大熵谱分析",
+   "en": "maximum entropy spectrum analysis",
+   "code": "03.0688",
+   "standard": "石油名词",
+   "subject": "石油_石油地球物理"
+  },
+  {
+   "cn": "最大熵模型",
+   "en": "maximum entropy model",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "最大熵估计",
+   "en": "maximum entropy estimation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "熵产生",
+   "en": "entropy production\",\"entropy generation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "熵流",
+   "en": "entropy flux\",\"entropy flow",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "耗散",
+   "en": "entropy production",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息熵",
+   "en": "information entropy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "安全熵",
+   "en": "security entropy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "交叉熵",
+   "en": "Cross entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热力学温标",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热机",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热力学第三定律",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "麦克斯韦关系式",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热质说",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热效率",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "标准摩尔熵",
+   "en": "standard molar entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热力学过程",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "最大限制浓度",
+   "en": "maximum limit concentration",
+   "code": "6.3.2.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "残留最大能量",
+   "en": "residual maximum energy",
+   "code": "5.6.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "最高可生长温度",
+   "en": "maximum growth temperature",
+   "code": "1.4.4.102",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "最大种群密度",
+   "en": "maximum population density",
+   "code": "1.4.4.112",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "最大群体浓度",
+   "en": "maximum population concentration",
+   "code": "1.4.4.106",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "最大耐受剂量",
+   "en": "maximum tolerable dose, MTD",
+   "code": "6.3.1.5",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "最高容许浓度",
+   "en": "maximum acceptable concentration, MAC",
+   "code": "6.3.1.8.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "最大无作用剂量",
+   "en": "maximum non-effective dose",
+   "code": "6.3.1.7",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "最高容许排放浓度",
+   "en": "maximum allowable emission concentration",
+   "code": "6.3.2.5",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "组织最大剂量比",
+   "en": "tissue-maximum ratio，TMR",
+   "code": "6.4.4.46",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "散射最大剂量比",
+   "en": "scatter-maximum ratio，SMR",
+   "code": "6.4.4.48",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "一次最高容许浓度",
+   "en": "primary maximum allowable concentration",
+   "code": "2.2.4.3.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事环境卫生_战时空气卫生"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

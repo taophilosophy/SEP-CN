@@ -1,0 +1,348 @@
+{
+ "key": "material intellect",
+ "term": "material intellect",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T01:20:36+00:00",
+ "status": "ok",
+ "note": "variant=material intellect; 审定公布名词库=2992; 海峡两岸名词对照库=1029; 其他来源数据库=39; 预公布名词数据库=179; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "材料",
+   "en": "material",
+   "code": "01.0047",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "材料学",
+   "en": "materials",
+   "code": "01.0006",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_总论"
+  },
+  {
+   "cn": "材料",
+   "en": "materials",
+   "code": "01.0001",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_总论"
+  },
+  {
+   "cn": "材料化",
+   "en": "materialization",
+   "code": "11.104",
+   "standard": "农学名词",
+   "subject": "农业环境保护_生态循环农业"
+  },
+  {
+   "cn": "物质主义",
+   "en": "materialism",
+   "code": "04.211",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_环境哲学"
+  },
+  {
+   "cn": "保密资料",
+   "en": "confidential material,classified material",
+   "code": "03.278",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "胶凝材料",
+   "en": "binding materials,cementitious materials",
+   "code": "12.0008",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑材料及制品_材料分类"
+  },
+  {
+   "cn": "建筑材料",
+   "en": "constructional materials,building materials",
+   "code": "07.265",
+   "standard": "地质学名词",
+   "subject": "地质学_矿床地质学"
+  },
+  {
+   "cn": "物质流",
+   "en": "material flow",
+   "code": "18.01.023",
+   "standard": "地质学名词",
+   "subject": "地质学_环境地质学_总论"
+  },
+  {
+   "cn": "脉体",
+   "en": "vein material",
+   "code": "06.05.079",
+   "standard": "地质学名词",
+   "subject": "地质学_变质岩岩石学_变质岩岩石类型"
+  },
+  {
+   "cn": "脆性材料",
+   "en": "brittle material",
+   "code": "09.02.112",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学_应力与应变"
+  },
+  {
+   "cn": "黏弹性体",
+   "en": "viscoelastic material",
+   "code": "09.02.138",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学_应力与应变"
+  },
+  {
+   "cn": "物料",
+   "en": "material",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "材料",
+   "en": "materials",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "材料学",
+   "en": "materials",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "唯物主义",
+   "en": "materialism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "神经分泌物",
+   "en": "neurosecretory material",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "原始材料",
+   "en": "original material",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "材料加工",
+   "en": "material processing",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "材料设计",
+   "en": "material design",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "材料制造",
+   "en": "material manufacturing",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "材料合成",
+   "en": "material synthesis",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "物质函数",
+   "en": "material function",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "物料平衡",
+   "en": "material balance",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "条件",
+   "en": "material conditional",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "淤泥",
+   "en": "granular material",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "易裂变材料",
+   "en": "fissile material",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "先进材料",
+   "en": "Advanced Materials",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "强关联",
+   "en": "Strongly correlated material",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人工智能基础材料",
+   "en": "basic AI material",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物料需求计划",
+   "en": "Material Requirements Planning",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物料清单",
+   "en": "bill of materials",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "美国材料与试验协会",
+   "en": "American Society for Testing and Materials (ASTM)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "  防控资源和力量下沉",
+   "en": "to channel both material and human resources down to the community level",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "海上核材料运输民事责任公约",
+   "en": "Convention relating to Civil Liability in the Field of Maritime Carriage of Nuclear Material",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "唯物主义",
+   "en": "materialism",
+   "code": "01.0003",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "物化",
+   "en": "materialization",
+   "code": "01.0133",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "半导体材料",
+   "en": "semiconductor material",
+   "code": "2.2.7.2.3.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "透气材料",
+   "en": "breathable material",
+   "code": "3.1.7",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "抗菌材料",
+   "en": "antibacterial material",
+   "code": "3.1.13.8",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "投料批",
+   "en": "material batch",
+   "code": "5.1.7.1",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "原料",
+   "en": "raw material",
+   "code": "5.1.8.1",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "材料相容性",
+   "en": "material compatibility",
+   "code": "6.3.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "核材料",
+   "en": "nuclear material",
+   "code": "6.6.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "源材料",
+   "en": "source material",
+   "code": "6.6.7.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "物质文化",
+   "en": "material culture",
+   "code": "2.2.2.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能"
+  },
+  {
+   "cn": "物质劳动",
+   "en": "material labor",
+   "code": "01.0125",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
